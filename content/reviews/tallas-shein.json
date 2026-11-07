@@ -31,7 +31,7 @@
   "cons": [],
   "cta": {
     "label": "Ir a SHEIN",
-    "text": "Abre la guía de tallas de la prenda y compara la medida en centímetros con la tuya antes de elegir la letra.",
+    "text": "Abre la guía e identifica si la tabla es del cuerpo o de la prenda. Compara referencias equivalentes antes de elegir.",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
   },
@@ -59,7 +59,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "En SHEIN, la talla se elige por la medida en centímetros de la guía de cada prenda, nunca por la letra de siempre: la M cambia de una marca a otra. Mide tu cuerpo y compáralo con la prenda. Si no te queda bien, la salida es la devolución; el capítulo «Si no te queda: la devolución» explica cómo."
+        "En SHEIN, abre la guía del artículo concreto y compara su tabla corporal con tus medidas. La letra cambia de una marca a otra: la M de una no es la M de la otra. Si no te queda bien, la posibilidad y el costo de la devolución dependen de la política y del artículo."
       ]
     },
     {
@@ -125,7 +125,7 @@
         "Cadera: en la parte más ancha de la cadera, con los pies juntos."
       ],
       "postParagraphs": [
-        "Anota los tres en centímetros. La guía de SHEIN muestra las medidas en centímetros y en pulgadas; para comparar, quédate en CM. La propia guía explica cómo medir: si tu forma de medir es la suya, la comparación sale bien. Para camiseta, blusa y vestido decide el busto; para pantalón y falda, la cintura y la cadera. Si estás entre dos de tus números, usa el mayor: lo que sobra se ajusta, lo que falta no."
+        "Anota tus medidas en centímetros y sigue el método de la guía. Revisa todas las zonas relevantes, no solo busto o cintura. Si apuntan a tallas distintas, compara corte y tablas; no elijas el número mayor suponiendo un arreglo fácil."
       ]
     },
     {
@@ -202,14 +202,14 @@
         ]
       },
       "postParagraphs": [
-        "La holgura es la diferencia entre la prenda y tu cuerpo, y cuenta el corte antes de que te la pongas. Con la misma cuenta, con la guía de DAZY, la M está indicada para un busto de 82 a 86 cm. Quedan de 7 a 11 cm de holgura en una camiseta de ajuste regular y poca elasticidad. Cuando solo existe la medida de la prenda, la elasticidad hace el papel de la holgura: en la Essnce, de alta elasticidad, la modelo de la ficha lleva la S, que mide 78 cm, 9 cm menos que su busto.",
-        "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta admite menos holgura, pero la elección sigue la medida de la prenda, el corte y la holgura que quieres; si hay tabla del cuerpo, también entra en la cuenta. La modelo de la ficha de la Essnce es un ejemplo, no una regla."
+        "En el ejemplo DAZY, la prenda M mide 93 cm y su tabla corporal indica 82–86 cm: diferencia de 7–11 cm. En Essnce, la modelo de busto 87 cm lleva una S que mide 78 cm. Son dos ejemplos de producto, no una fórmula para toda tela con o sin elastano. La elasticidad no sustituye evaluar la holgura y el ajuste que buscas.",
+        "Las guías leídas advierten de una variación de 1–2 cm en la medida de la prenda, y las descripciones de las dos camisetas mencionan cambios de la tela tras lavarla en casa. Entre tallas, revisa juntos tabla corporal, medidas de la prenda, corte y elasticidad. No subas automáticamente ni elijas una prenda igual o menor que tu cuerpo solo porque la tela estira. Si falta información, confirma las indicaciones de la prenda antes de pedir."
       ]
     },
     {
       "heading": "Qué más muestra la ficha: la modelo y quienes compraron",
       "paragraphs": [
-        "Después de la medida, lo que más ayuda es la tabla de quienes compraron, porque muestra gente de verdad: altura, peso, busto, cintura, cadera y la talla que pidió cada una. Busca ahí a alguien con tus medidas y mira lo que pidió. Justo encima aparece la valoración de ajuste de los compradores, en porcentaje: en DAZY, el 93% la encontró fiel a la talla, el 6% la encontró pequeña y el 1% grande; en Essnce, la ficha dice que el 95% la encontró fiel a la talla. Un porcentaje alto de «pequeña» es un aviso para subir una talla.",
+        "Usa los comentarios como apoyo: busca medidas y opiniones sobre el ajuste sin copiar automáticamente la talla de otra persona. En DAZY, el 93% la encontró fiel a la talla, el 6% pequeña y el 1% grande; en Essnce, el 95% fiel. Esos porcentajes describen a quienes valoraron cada prenda. Una proporción alta de “pequeña” invita a releer guía y comentarios, no a subir automáticamente de talla.",
         "La modelo sirve de referencia de altura. En DAZY, mide 176 cm y tiene 87 cm de busto y lleva la M internacional; en Essnce, 175 cm y 87 cm de busto, con la S. Mismo busto, letras distintas, en las dos marcas: es el capítulo de la talla otra vez. El botón de detalles de talla y ajuste muestra esas medidas de la modelo en la propia ficha.",
         "Debajo de las tallas, algunas fichas traen un enlace que sugiere la talla. El centro de ayuda de SHEIN dice que la herramienta pide altura, edad y peso para sugerir una talla. Con sesión iniciada, la sugerencia aparece sola en algunas prendas. Úsala como segunda opinión, nunca en lugar de la cinta: no pregunta tu busto ni tu cintura, y es ahí donde cambia la talla."
       ]
@@ -217,7 +217,7 @@
     {
       "heading": "Si no te queda: la devolución",
       "paragraphs": [
-        "Equivocarte de talla cuesta el tiempo de dos entregas: la prenda vuelve antes de que llegue la correcta, y por eso la cinta va antes del pedido.",
+        "Si la prenda no queda, devolverla y hacer otro pedido puede llevar tiempo y dinero. No es una secuencia garantizada de dos entregas. Confirma elegibilidad y política antes de contar con esa opción.",
         "La política de devolución de tu país está en el centro de ayuda de SHEIN. La devolución y la reputación de la tienda están en [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
       ]
     },
@@ -230,9 +230,9 @@
         "Mide busto, cintura y cadera y anótalos en centímetros.",
         "Abre la guía de tallas de la prenda y déjala en CM.",
         "Mira si la tabla es de la prenda o del cuerpo. Compárala con tu medida y cuenta la holgura.",
-        "Lee el tipo de ajuste y la elasticidad: una tela que no estira pide holgura; una que estira admite menos holgura, sin sustituir la medida de la prenda.",
+        "Lee corte y elasticidad junto con las tablas; “elástica” no significa elegir una prenda igual o menor que el cuerpo.",
         "Revisa la valoración de ajuste de los compradores y busca en su tabla a alguien con tus medidas.",
-        "Cuenta con una variación de 1 a 2 cm en la prenda y con el cambio tras el lavado.",
+        "Comprueba la tolerancia en la guía de cada modelo. La variación de 1–2 cm y el cambio tras el lavado se describen en estas dos camisetas y no se aplican automáticamente a toda prenda.",
         "Guarda la confirmación del pedido y el seguimiento: con ellos se hace la devolución si la prenda no te queda."
       ],
       "postParagraphs": [
@@ -242,10 +242,10 @@
     {
       "heading": "Qué talla pedir: el resumen por situación",
       "bullets": [
-        "Tela sin elastano, con elasticidad nula o poca (la camiseta DAZY): la talla cuya medida de la prenda da la holgura que usas; si tu medida cae en el límite, la de arriba.",
-        "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): una talla con menos holgura puede servir, como la de la modelo de la ficha, que es solo un ejemplo; revisa la medida de la prenda, el ajuste y la holgura que quieres.",
+        "Tela sin elastano, con elasticidad nula o poca (la camiseta DAZY): compara la tabla corporal y la medida de la prenda con el ajuste que buscas; estar en el límite no obliga por sí solo a subir de talla.",
+        "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): considera corte, ajuste y la comodidad que esperas. La S de la modelo es un ejemplo de ese producto, no una regla para todos los cuerpos.",
         "Marca que la ficha avisa que queda pequeña (la DAZY): lee la tabla de cuerpo de la propia marca, no tu letra de siempre.",
-        "Entre dos tallas y sin certeza: la que pidieron en la tabla de compradores con tus medidas; sin nadie parecido, decide la holgura, según la regla de la tela."
+        "Entre tallas, reúne tablas, corte y relatos sobre ese mismo artículo. Sin datos suficientes, confirma las medidas o elige otra prenda; no copies automáticamente la talla de otra persona."
       ],
       "emphasis": "Si fuera para mi casa, no pediría una talla sin abrir la guía de la prenda, porque la misma letra cambia de marca en marca."
     },
@@ -262,11 +262,11 @@
   "decision": {
     "takeIf": [
       "La medida de la prenda en la guía, en centímetros, da la holgura que usas, y el tipo de ajuste y la elasticidad encajan con lo que esperas de la tela.",
-      "La tabla de compradores de la ficha tiene a alguien con tus medidas, y esa persona pidió la talla que tú vas a pedir."
+      "Encuentras en la tabla de compradores de la ficha a alguien con medidas cercanas a las tuyas y lo lees como apoyo."
     ],
     "skipIf": [
       "Elegiste por tu letra de siempre sin abrir la guía de la prenda: la misma letra cambia de marca en marca.",
-      "Necesitas la prenda en una fecha fija y no puedes esperar a la devolución: equivocarte de talla cuesta el tiempo de dos entregas."
+      "Necesitas la prenda para una fecha fija, sin tiempo para probártela, devolverla o buscar alternativa; un error de talla puede exigir otro pedido."
     ]
   }
 }

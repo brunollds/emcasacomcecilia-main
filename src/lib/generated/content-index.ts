@@ -65572,7 +65572,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a SHEIN é uma loja legítima, operada no Brasil por uma empresa registrada. Veja o que pesa na decisão, como prazo, imposto e devolução, e o que conferir antes de pagar.",
-    "metaDescription": "SHEIN é confiável, com empresa no Brasil e reputação Boa no Reclame Aqui: pesquise 4CW5Y no app da SHEIN, código de indicação.",
+    "metaDescription": "SHEIN é confiável, com empresa no Brasil: pesquise 4CW5Y no app da SHEIN, código de indicação. Reputação Boa no Reclame Aqui no recorte até set/2026.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-07",
@@ -65878,7 +65878,7 @@ export const reviewsData: unknown[] = [
         "heading": "Is it safe to pay, and what does SHEIN do with your data?",
         "paragraphs": [
           "SHEIN says its systems and controls are aligned with ISO, NIST and PCI DSS standards, and says it does not sell customer data.",
-          "The privacy policy of your market's site explains, in a dedicated section, where the data of people who buy can be transferred. This article does not summarize that section: if it worries you, read it before you create an account.",
+          "The privacy policy of your market's site explains, in a dedicated section, where the data of people who buy can be transferred. Before you create an account, read that section.",
           "To avoid fake sites, buy only on your market's official site (us.shein.com in the US, shein.co.uk in the UK) or in the SHEIN app downloaded from your phone's official app store."
         ]
       },
@@ -66057,7 +66057,7 @@ export const reviewsData: unknown[] = [
         "heading": "¿Es seguro pagar y qué hace SHEIN con tus datos?",
         "paragraphs": [
           "SHEIN dice que sus sistemas y controles están alineados con los estándares ISO, NIST y PCI DSS, y que no vende datos de clientes.",
-          "La política de privacidad del sitio de tu mercado explica, en una sección propia, a dónde pueden transferirse los datos de quien compra. Este artículo no resume esa sección: si eso te preocupa, léela antes de crear la cuenta.",
+          "La política de privacidad del sitio de tu mercado explica, en una sección propia, a dónde pueden transferirse los datos de quien compra. Antes de crear la cuenta, léela.",
           "Para no caer en un sitio falso, compra solo en el sitio oficial de tu mercado (es.shein.com en España, shein.com.mx en México) o en la app de SHEIN descargada de la tienda de aplicaciones oficial de tu teléfono."
         ]
       },
@@ -66225,7 +66225,7 @@ export const reviewsData: unknown[] = [
         "heading": "Est-il sûr de payer, et que fait SHEIN de vos données ?",
         "paragraphs": [
           "SHEIN affirme que ses systèmes et ses contrôles sont alignés sur les normes ISO, NIST et PCI DSS, et dit ne pas vendre les données de ses clients.",
-          "La politique de confidentialité du site de votre marché explique, dans une section à part, où les données des personnes qui achètent peuvent être transférées. Cet article ne résume pas cette section : si cela vous préoccupe, lisez-la avant de créer un compte.",
+          "La politique de confidentialité du site de votre marché explique, dans une section à part, où les données des personnes qui achètent peuvent être transférées. Lisez-la avant de créer un compte.",
           "Pour ne pas tomber sur un faux site, achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'application SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone."
         ]
       },
@@ -66391,7 +66391,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ist Bezahlen bei SHEIN sicher, und was gilt für Ihre Daten?",
         "paragraphs": [
           "SHEIN gibt an, dass die Systeme und Kontrollen des Unternehmens an den Standards ISO, NIST und PCI DSS ausgerichtet sind, und sagt, dass es keine Kundendaten verkauft.",
-          "Wohin Ihre Daten übermittelt werden können, erklärt die Datenschutzerklärung von de.shein.com in einem eigenen Abschnitt. Dieser Artikel fasst ihn nicht zusammen. Wenn Sie das beunruhigt, lesen Sie ihn, bevor Sie ein Konto anlegen.",
+          "Wohin Ihre Daten übermittelt werden können, erklärt die Datenschutzerklärung von de.shein.com in einem eigenen Abschnitt. Lesen Sie ihn, bevor Sie ein Konto anlegen.",
           "Um nicht auf einen Fake-Shop hereinzufallen, kaufen Sie nur auf der offiziellen Website de.shein.com oder über die SHEIN-App, die Sie aus dem offiziellen App-Store Ihres Smartphones laden."
         ]
       },
@@ -66552,7 +66552,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pagare su SHEIN è sicuro? E i tuoi dati?",
         "paragraphs": [
           "SHEIN dice che i suoi sistemi e controlli sono allineati agli standard ISO, NIST e PCI DSS e che non vende i dati dei clienti.",
-          "Dove i tuoi dati possono essere trasferiti lo spiega l'informativa sulla privacy di it.shein.com in una sezione dedicata. Questo articolo non la riassume: se la questione ti preoccupa, leggila prima di creare l'account.",
+          "Dove i tuoi dati possono essere trasferiti lo spiega l'informativa sulla privacy di it.shein.com in una sezione dedicata. Prima di creare l'account, leggila.",
           "Per non cadere in un sito falso, compra solo dal sito ufficiale it.shein.com o dall'app di SHEIN scaricata dall'app store ufficiale del tuo telefono."
         ]
       },
@@ -66708,7 +66708,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN에서 결제해도 안전한가요? 개인정보는 어떻게 되나요?",
         "paragraphs": [
           "SHEIN은 시스템과 통제가 ISO, NIST, PCI DSS 표준에 맞춰져 있다고 밝히며, 고객 데이터를 판매하지 않는다고 말합니다.",
-          "고객 정보가 다른 국가나 지역으로 이전될 수 있는지는 kr.shein.com 개인정보 처리방침의 별도 항목에 설명되어 있습니다. 이 글은 그 항목을 요약하지 않습니다. 걱정되는 분은 계정을 만들기 전에 그 항목을 읽어 보세요.",
+          "계정을 만들기 전에 kr.shein.com 개인정보 처리방침에서 그 항목을 읽어 보세요.",
           "가짜 사이트에 속지 않으려면 공식 사이트 kr.shein.com에서, 또는 휴대폰의 공식 앱 스토어에서 내려받은 SHEIN 앱으로만 구매하세요."
         ]
       },
@@ -66858,7 +66858,7 @@ export const reviewsData: unknown[] = [
         "heading": "支払いの安全性と、データの扱い",
         "paragraphs": [
           "SHEIN は、システムと管理体制が ISO、NIST、PCI DSS の基準に沿っていると説明しています。また、お客様のデータは販売していないと述べています。",
-          "お客様のデータが他の国や地域へ移転される可能性については、各マーケットのサイトのプライバシーポリシーに専用の項目があります。この記事ではその内容を要約しません。気になる方は、アカウントを作る前に、利用するサイトのプライバシーポリシーでその項目を読んでください。",
+          "アカウントを作る前に、利用するサイトのプライバシーポリシーでその項目を読んでください。",
           "偽サイトを避けるには、公式サイト（jp.shein.com）で買うか、スマートフォンの公式アプリストアからダウンロードした SHEIN のアプリを使ってください。"
         ]
       },
@@ -67009,7 +67009,7 @@ export const reviewsData: unknown[] = [
         "heading": "付款安全性與資料處理",
         "paragraphs": [
           "SHEIN 表示，公司的系統和管控措施與 ISO、NIST 及 PCI DSS 標準保持一致，也表示不會販售客戶資料。",
-          "客戶資料可能被傳送到哪些國家或地區，各市場網站的隱私權政策都有專門的段落說明。本文不摘要這段內容。如果你在意這件事，建議在建立帳號前先閱讀。",
+          "建立帳號前，請閱讀你要使用的網站隱私權政策中的該段落。",
           "為避免進入假網站，請只在官方網站（台灣站為 shein.tw）購買，或使用從手機官方應用程式商店下載的 SHEIN App。"
         ]
       },
@@ -67159,7 +67159,7 @@ export const reviewsData: unknown[] = [
         "heading": "付款安全性与数据处理",
         "paragraphs": [
           "SHEIN 表示，公司的系统和管控措施与 ISO、NIST 及 PCI DSS 标准保持一致，也表示不会出售客户数据。",
-          "客户数据可能被传送到哪些国家或地区，各市场网站的隐私政策都有专门的章节说明。本文不概括这部分内容。如果你在意这件事，建议在创建账户前先阅读。",
+          "创建账户前，请阅读你要使用的网站隐私政策中的该章节。",
           "为避免进入假网站，请只在官方网站（新加坡站为 sg.shein.com）购买，或使用从手机官方应用商店下载的 SHEIN App。"
         ]
       },
@@ -153749,7 +153749,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que as pessoas reclamam",
         "paragraphs": [
           "Produto não recebido é o problema mais citado, com 36,47%: mais de uma em cada três reclamações de até 3 anos.",
-          "Moda Feminina era a categoria mais citada, com 19,62%. Blusas vinha em seguida na lista, com 9,83%.",
+          "Na mesma lista de até 3 anos, Moda Feminina era a categoria mais citada, com 19,62%; “Blusas” vinha em seguida, com 9,83%.",
           "O rótulo não diz o motivo nem o desfecho de cada caso. E o Reclame Aqui não mostra quantos pedidos a SHEIN entrega no Brasil: 33.331 reclamações em seis meses dizem quanto a loja recebe de queixas, não a chance de o seu pedido dar problema."
         ],
         "image": {
@@ -153928,8 +153928,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: who writes the reviews, and from where",
         "paragraphs": [
-          "The profile read, the one for www.shein.com, is global: it does not split reviews by country, and the page does not say how many came from your country or any other. The score mixes shoppers from different countries, with different shipping, delivery times and customs rules.",
-          "Trustpilot has regional sites, and the one for the United Kingdom showed the same profile, with the same numbers. The other regional sites were not opened, so the text does not say whether any of them shows anything different.",
+          "The www.shein.com profile we read combines reviews from different countries, without reporting how many came from each one. It does not isolate delivery or customer service for your destination.",
+          "The UK Trustpilot site showed the same profile and figures.",
           "So the score speaks for the store's customers worldwide, not for how an order to your address will go."
         ],
         "image": {
@@ -153984,7 +153984,7 @@ export const reviewsData: unknown[] = [
           "Does SHEIN have a good score on Trustpilot? The TrustScore was 3.8, with the label \"Great\", from 353,527 reviews; 59% gave five stars and 18% gave one.",
           "What are the most common complaints about SHEIN? In the negative reviews read, the themes were packages that were lost, stolen or never arrived, sometimes with a disputed delivery photo; refunds that were late or denied, including returns the store said it never received; slow or templated customer service; and product problems such as size, quality, the wrong item or a missing item. The themes were noted, not counted.",
           "Does SHEIN reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use AI. The text of the replies was not read.",
-          "Does the Trustpilot score apply to my country? Not on its own. The profile is global and does not split reviews by country, and the United Kingdom regional site showed the same profile. The score describes the store overall; delivery times and return rules for your country are on SHEIN's official site or app."
+          "Does the Trustpilot score apply to my country? It does not provide a country-specific result. The global profile combines reviews from different countries; check delivery times and return rules for your destination on SHEIN's official site or app."
         ]
       }
     ],
@@ -154023,7 +154023,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Mira qué muestran más de 350.000 opiniones, las quejas por paquetes y reembolsos, y por qué la calificación es global.",
+    "description": "SHEIN en Trustpilot: la calificación de 3,8 registrada en noviembre de 2026, los temas de entrega y reembolso en las opiniones leídas y los límites de un perfil global.",
     "metaDescription": "SHEIN en Trustpilot en noviembre de 2026: calificación 3,8 con 353.527 opiniones, 59 % de cinco estrellas y 18 % de una, quejas por entregas y reembolsos. Lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
@@ -154106,8 +154106,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: quién opina, y desde dónde",
         "paragraphs": [
-          "El perfil leído, el de www.shein.com, es global: no separa las opiniones por país, y la página no dice cuántas vienen de tu país ni de ningún otro. La calificación junta a compradores de países distintos, con envíos, plazos y reglas de aduana distintos.",
-          "Trustpilot tiene sitios regionales, y el del Reino Unido mostraba el mismo perfil, con los mismos números. Los demás sitios regionales no se abrieron, así que el texto no dice si alguno muestra algo diferente.",
+          "El perfil de www.shein.com leído reúne opiniones de distintos países, sin informar cuántas vienen de cada uno. No aísla la entrega ni el servicio al cliente de tu destino.",
+          "El sitio de Trustpilot del Reino Unido mostraba el mismo perfil y las mismas cifras.",
           "Por eso la calificación habla de los clientes de la tienda en todo el mundo, no de cómo irá un pedido a tu dirección."
         ],
         "image": {
@@ -154162,7 +154162,7 @@ export const reviewsData: unknown[] = [
           "¿SHEIN tiene buena calificación en Trustpilot? El TrustScore era 3,8, con la etiqueta \"Great\", con 353.527 opiniones; el 59 % daba cinco estrellas y el 18 %, una.",
           "¿Cuáles son las quejas más comunes sobre SHEIN? En las opiniones negativas leídas, los temas eran paquetes perdidos, robados o que nunca llegaron, a veces con una foto de entrega discutida; reembolsos tardíos o negados, incluidas devoluciones que la tienda dijo no haber recibido; atención lenta o estandarizada; y problemas de producto como talla, calidad, artículo equivocado o faltante. Se anotaron temas, sin contarlos.",
           "¿SHEIN responde a las opiniones negativas? Según el perfil de Trustpilot, la tienda respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la respuesta puede usar inteligencia artificial. El texto de las respuestas no se leyó.",
-          "¿La calificación de Trustpilot vale para mi país? No por sí sola. El perfil es global y no separa las opiniones por país, y el sitio regional del Reino Unido mostraba el mismo perfil. La calificación describe a la tienda en conjunto; el plazo de entrega y las reglas de devolución de tu país están en el sitio o la app oficial de SHEIN."
+          "¿La calificación de Trustpilot vale para mi país? No ofrece un resultado específico por país. El perfil global reúne opiniones de varios países; consulta los plazos de entrega y las reglas de devolución de tu destino en el sitio o la app oficial de SHEIN."
         ]
       }
     ],
@@ -154201,7 +154201,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Voyez ce que montrent plus de 350 000 avis, les plaintes sur colis et remboursements, et pourquoi la note est mondiale.",
+    "description": "SHEIN sur Trustpilot : la note de 3,8 relevée en novembre 2026, les thèmes de livraison et de remboursement dans les avis lus, et les limites du profil mondial.",
     "metaDescription": "SHEIN sur Trustpilot en novembre 2026 : TrustScore de 3,8 pour 353 527 avis, 59 % de cinq étoiles et 18 % d’une, plaintes sur la livraison et les remboursements. Ce que la note ne montre pas.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -154284,8 +154284,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot : qui donne son avis, et d’où",
         "paragraphs": [
-          "Le profil lu, celui de www.shein.com, est mondial : il ne sépare pas les avis par pays, et la page ne dit pas combien viennent de votre pays ni d’aucun autre. La note mélange des acheteurs de pays différents, avec des frais de port, des délais et des règles de douane différents.",
-          "Trustpilot a des sites régionaux, et celui du Royaume-Uni affichait le même profil, avec les mêmes chiffres. Les autres sites régionaux n’ont pas été ouverts, donc le texte ne dit pas si l’un d’eux montre autre chose.",
+          "Le profil www.shein.com lu rassemble des avis de plusieurs pays, sans en préciser le nombre pour chacun. Il n’isole pas la livraison ni le service client de votre destination.",
+          "Le site britannique de Trustpilot affichait le même profil et les mêmes chiffres.",
           "La note parle donc des clients de la boutique dans le monde entier, pas de la façon dont se passera une commande à votre adresse."
         ],
         "image": {
@@ -154340,7 +154340,7 @@ export const reviewsData: unknown[] = [
           "La note de SHEIN sur Trustpilot est-elle bonne ? Le TrustScore était de 3,8, avec la mention « Great », pour 353 527 avis ; 59 % donnaient cinq étoiles et 18 %, une seule.",
           "Quelles sont les plaintes les plus fréquentes sur SHEIN ? Dans les avis négatifs lus, les thèmes étaient des colis perdus, volés ou jamais reçus, parfois avec une photo de livraison contestée ; des remboursements tardifs ou refusés, y compris des retours que la boutique dit ne pas avoir reçus ; un service client lent ou standardisé ; et des problèmes de produit comme la taille, la qualité, un mauvais article ou un article manquant. Les thèmes ont été notés, sans être comptés.",
           "SHEIN répond-il aux avis négatifs ? Selon le profil Trustpilot, la boutique a répondu à 98 % des avis négatifs, en général sous 24 heures, et la réponse peut faire appel à l’intelligence artificielle. Le texte des réponses n’a pas été lu.",
-          "La note Trustpilot vaut-elle pour mon pays ? Pas à elle seule. Le profil est mondial et ne sépare pas les avis par pays, et le site régional du Royaume-Uni affichait le même profil. La note décrit la boutique dans l’ensemble ; le délai de livraison et les règles de retour de votre pays sont sur le site ou l’application officielle de SHEIN."
+          "La note Trustpilot vaut-elle pour mon pays ? Elle ne fournit pas de résultat propre à un pays. Le profil mondial regroupe des avis de plusieurs pays ; consultez les délais et les règles de retour de votre destination sur le site ou l’application officielle de SHEIN."
         ]
       }
     ],
@@ -154379,7 +154379,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Guarda cosa mostrano oltre 350.000 recensioni, i reclami su pacchi e rimborsi e perché il punteggio è globale.",
+    "description": "SHEIN su Trustpilot: il 3,8 rilevato a novembre 2026, i temi di consegna e rimborso nelle recensioni lette e i limiti del profilo globale.",
     "metaDescription": "SHEIN su Trustpilot a novembre 2026: 3,8 su 353.527 recensioni, 59% di cinque stelle, 18% di una. Reclami su consegne e rimborsi, e cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -154462,8 +154462,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: chi recensisce, e da dove",
         "paragraphs": [
-          "Il profilo letto, quello di www.shein.com, è globale: non separa le recensioni per paese, e la pagina non dice quante arrivano dal tuo paese o da qualsiasi altro. Il punteggio mette insieme clienti di paesi diversi, con spedizioni, tempi e dogane diverse.",
-          "Trustpilot ha dei siti regionali, e quello per il Regno Unito mostrava lo stesso profilo, con gli stessi numeri. Gli altri siti regionali non sono stati aperti, quindi il testo non dice se qualcuno di loro mostri qualcosa di diverso.",
+          "Il profilo www.shein.com letto raccoglie recensioni di più paesi, senza indicare quante ne arrivino da ciascuno. Non isola la consegna o l’assistenza per la tua destinazione.",
+          "Il sito britannico di Trustpilot mostrava lo stesso profilo e gli stessi numeri.",
           "Per questo il punteggio parla dei clienti del negozio in tutto il mondo, non di come andrà un ordine al tuo indirizzo."
         ],
         "image": {
@@ -154518,7 +154518,7 @@ export const reviewsData: unknown[] = [
           "SHEIN ha un buon punteggio su Trustpilot? Il TrustScore era 3,8, con l’etichetta «Great», su 353.527 recensioni; il 59% dava cinque stelle e il 18% una.",
           "Quali sono i reclami più comuni su SHEIN? Nelle recensioni negative lette, i temi erano pacchi persi, rubati o mai arrivati, a volte con una foto di consegna contestata; rimborsi in ritardo o negati, compresi resi che il negozio dice di non aver ricevuto; assistenza lenta o con risposte standard; e problemi con il prodotto, come taglia, qualità, articolo sbagliato o mancante. I temi sono stati annotati, non contati.",
           "SHEIN risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale. Il testo delle risposte non è stato letto.",
-          "Il punteggio di Trustpilot vale per il mio paese? Non da solo. Il profilo è globale e non separa le recensioni per paese, e il sito regionale del Regno Unito mostrava lo stesso profilo. Il punteggio descrive il negozio nell’insieme; i tempi di consegna e le regole di reso per il tuo paese sono sul sito o nell’app ufficiale di SHEIN."
+          "Il punteggio Trustpilot vale per il mio paese? Non dà un risultato specifico per paese. Il profilo globale raccoglie recensioni da più paesi; consulta tempi di consegna e regole di reso della tua destinazione sul sito o sull’app ufficiale di SHEIN."
         ]
       }
     ],
@@ -154557,7 +154557,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Sehen Sie, was über 350.000 Bewertungen zeigen, die Beschwerden über Pakete und Erstattungen und warum die Zahl global ist.",
+    "description": "SHEIN auf Trustpilot: der im November 2026 erfasste Wert 3,8, Themen zu Lieferung und Erstattung in den gelesenen Bewertungen und die Grenzen des globalen Profils.",
     "metaDescription": "SHEIN auf Trustpilot im November 2026: 3,8 aus 353.527 Bewertungen, 59 % fünf Sterne, 18 % ein Stern. Beschwerden über Zustellung und Erstattungen und was die Zahl nicht zeigt.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
@@ -154640,8 +154640,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: wer bewertet, und von wo",
         "paragraphs": [
-          "Das gelesene Profil, das von www.shein.com, ist global: Es trennt die Bewertungen nicht nach Land, und die Seite sagt nicht, wie viele aus Ihrem Land oder von anderswo kommen. Die Zahl fasst Kunden aus verschiedenen Ländern zusammen, mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll.",
-          "Trustpilot hat Regionalseiten, und die für das Vereinigte Königreich zeigte dasselbe Profil mit denselben Zahlen. Die anderen Regionalseiten wurden nicht geöffnet, der Text sagt also nicht, ob eine davon etwas anderes zeigt.",
+          "Das gelesene Profil www.shein.com enthält Bewertungen aus mehreren Ländern, ohne die Anzahl je Land auszuweisen. Es weist weder Zustellung noch Kundenservice für Ihr Ziel gesondert aus.",
+          "Die britische Trustpilot-Seite zeigte dasselbe Profil mit denselben Zahlen.",
           "Die Zahl spricht deshalb für die Kunden des Shops weltweit, nicht dafür, wie eine Bestellung an Ihre Adresse läuft."
         ],
         "image": {
@@ -154696,7 +154696,7 @@ export const reviewsData: unknown[] = [
           "Hat SHEIN eine gute Bewertung auf Trustpilot? Der TrustScore lag bei 3,8 mit dem Etikett „Great“, aus 353.527 Bewertungen; 59 % gaben fünf Sterne und 18 % einen.",
           "Was sind die häufigsten Beschwerden über SHEIN? In den gelesenen negativen Bewertungen waren die Themen verlorene, gestohlene oder nie angekommene Pakete, manchmal mit einem angezweifelten Zustellfoto; verspätete oder abgelehnte Erstattungen, auch bei Rücksendungen, die der Shop nach eigenen Angaben nicht erhalten hat; langsamer Kundenservice oder Standardantworten; und Produktprobleme wie Größe, Qualität, falscher oder fehlender Artikel. Die Themen wurden notiert, nicht gezählt.",
           "Antwortet SHEIN auf negative Bewertungen? Laut dem Trustpilot-Profil hat der Shop auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Antwort kann KI nutzen. Der Text der Antworten wurde nicht gelesen.",
-          "Gilt die Trustpilot-Bewertung für mein Land? Nicht für sich allein. Das Profil ist global und trennt die Bewertungen nicht nach Land, und die britische Regionalseite zeigte dasselbe Profil. Die Bewertung beschreibt den Shop insgesamt; Lieferzeiten und Rückgaberegeln für Ihr Land stehen auf der offiziellen Website oder in der App von SHEIN."
+          "Gilt die Trustpilot-Bewertung für mein Land? Sie liefert kein länderspezifisches Ergebnis. Das globale Profil umfasst Bewertungen aus mehreren Ländern; prüfen Sie Lieferzeiten und Rückgaberegeln für Ihr Ziel auf der offiziellen SHEIN-Website oder in der App."
         ]
       }
     ],
@@ -154820,7 +154820,7 @@ export const reviewsData: unknown[] = [
         "heading": "Trustpilot：誰が、どこから評価しているか",
         "paragraphs": [
           "読んだプロフィールは www.shein.com のもので、世界共通です。レビューは国別に分かれておらず、お住まいの国やほかの国から何件来ているかはページに書かれていません。",
-          "Trustpilot のイギリス向け地域サイトでも、同じプロフィールと同じ数字が表示されました。ほかの地域サイトは開いていません。この評価は店が全体としてどう振る舞っているかを示すもので、あなたの住所への配送を示すものではありません。"
+          "Trustpilot のイギリス向け地域サイトでも、同じプロフィールと同じ数字が表示されました。この評価は店が全体としてどう振る舞っているかを示すもので、あなたの住所への配送を示すものではありません。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
@@ -154997,7 +154997,7 @@ export const reviewsData: unknown[] = [
         "heading": "Trustpilot: 누가, 어디에서 평가하나",
         "paragraphs": [
           "읽은 프로필은 www.shein.com의 프로필 하나로, 글로벌 프로필입니다. 리뷰를 나라별로 나누지 않고, 여러분이 계신 나라나 다른 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다.",
-          "Trustpilot의 영국 지역 사이트도 같은 프로필과 같은 숫자를 보여 주었습니다. 다른 지역 사이트는 열어 보지 않았습니다. 이 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 줄 뿐, 여러분 주소로 오는 배송이 어떤지를 말해 주지는 않습니다."
+          "Trustpilot의 영국 지역 사이트도 같은 프로필과 같은 숫자를 보여 주었습니다. 이 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 줄 뿐, 여러분 주소로 오는 배송이 어떤지를 말해 주지는 않습니다."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
@@ -155174,7 +155174,7 @@ export const reviewsData: unknown[] = [
         "heading": "Trustpilot：谁在评价，来自哪里",
         "paragraphs": [
           "读取的是 www.shein.com 这一个主页，它是全球性的。评价不按国家区分，页面也没有说其中有多少来自你所在的国家或其他地方。",
-          "Trustpilot 的英国地区站显示的是同一个主页和同样的数字。其他地区站没有打开。这个分数说的是店家整体的表现，不是送到你地址的配送怎么样。"
+          "Trustpilot 的英国地区站显示的是同一个主页和同样的数字。这个分数说的是店家整体的表现，不是送到你地址的配送怎么样。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
@@ -155351,7 +155351,7 @@ export const reviewsData: unknown[] = [
         "heading": "Trustpilot：誰在評價，來自哪裡",
         "paragraphs": [
           "讀取的是 www.shein.com 這一個檔案，它是全球性的。評價不按國家或地區區分，頁面也沒有說其中有多少來自你所在的地方或其他地方。",
-          "Trustpilot 的英國地區站顯示的是同一個檔案和同樣的數字。其他地區站沒有打開。這個分數說的是店家整體的表現，不是送到你地址的配送怎麼樣。"
+          "Trustpilot 的英國地區站顯示的是同一個檔案和同樣的數字。這個分數說的是店家整體的表現，不是送到你地址的配送怎麼樣。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
@@ -182122,7 +182122,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Ir para a SHEIN",
-      "text": "Abra o \"Guia de tamanhos\" da peça e compare a medida em centímetros com a sua antes de escolher a letra.",
+      "text": "Abra o guia e identifique se a tabela é do corpo ou da roupa. Compare referências equivalentes antes de escolher o tamanho.",
       "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
       "sponsored": true
     },
@@ -182150,7 +182150,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na SHEIN, o tamanho se escolhe pela medida em centímetros do guia de cada peça, nunca pela letra de sempre: o M muda de uma marca para outra. Meça o corpo e compare com a peça. Se não servir, a saída é a devolução; o capítulo \"Se não servir\" diz como."
+          "Na SHEIN, abra o guia específico da peça e compare a tabela corporal com as suas medidas; na tabela do produto, considere as dimensões da roupa e o ajuste que você quer. A letra habitual não basta. Se não servir, a devolução depende da política e da peça."
         ]
       },
       {
@@ -182219,7 +182219,7 @@ export const reviewsData: unknown[] = [
           "Quadril: na parte mais larga do quadril, com os pés juntos."
         ],
         "postParagraphs": [
-          "Anote os três em centímetros. O guia da SHEIN mostra as medidas em centímetros e em polegadas, e o botão \"Alterne para\" troca entre BR Tamanho, IN e CM; para comparar, fique no CM. O próprio guia traz a explicação de como medir: se o seu jeito de medir for o dele, a comparação sai certa. Para camiseta, blusa e vestido, o busto decide; para calça e saia, a cintura e o quadril. Na dúvida entre dois números seus, use o maior: a sobra se ajeita, a falta não."
+          "Anote suas medidas em centímetros e siga o método indicado no guia. Confira todas as regiões relevantes para a peça, não só o busto ou a cintura. Se as medidas apontarem para letras diferentes, compare a modelagem e as tabelas; não escolha o maior número só porque supõe que depois será fácil ajustar."
         ]
       },
       {
@@ -182303,14 +182303,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A folga é a diferença entre a peça e o seu corpo, e ela conta a modelagem antes de você vestir. Pela mesma conta, com o guia da DAZY, o M é indicado para busto de 82 a 86 cm. Sobram de 7 a 11 cm de folga numa camiseta de ajuste regular e elasticidade \"Pouco\". Quando só existe a medida da peça, a elasticidade faz o papel da folga: na Essnce, de elasticidade \"Muito\", a modelo da página veste o S, que mede 78 cm, 9 cm a menos que o busto dela.",
-          "O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade \"Não\" ou \"Pouco\" pede folga, e no limite a letra de cima; tecido \"Médio\" ou \"Muito\" aceita folga menor, mas a escolha segue a medida da peça, a modelagem e a folga que você quer; a tabela do corpo, quando existe, também entra na conta. A modelo da Essnce é um exemplo, não uma regra."
+          "Na DAZY do exemplo, a peça M tem 93 cm e a tabela corporal indica busto de 82 a 86 cm: diferença de 7 a 11 cm. Na Essnce, a modelo de busto 87 cm usa a peça S de 78 cm. São duas referências de modelagem diferentes, não uma fórmula para escolher toda roupa com ou sem elastano. A elasticidade não substitui a análise da folga e do ajuste desejado.",
+          "O guia avisa que a medida da peça pode variar 1 a 2 cm, e as descrições das duas camisetas avisam que o tecido muda de medida depois da lavagem em casa. Entre dois tamanhos, confira a tabela corporal, as medidas da peça, o ajuste e a elasticidade. Não suba uma letra automaticamente, nem escolha medida igual ou menor que o corpo só porque o tecido estica. Sem dados suficientes, confirme a orientação da peça antes de pedir."
         ]
       },
       {
         "heading": "O que mais a página mostra: a modelo e quem comprou",
         "paragraphs": [
-          "Depois da medida, o que mais ajuda é a tabela de quem comprou, porque ela mostra gente de verdade: altura, peso, busto, cintura, quadril e a letra que cada uma pediu. Procure ali alguém com as suas medidas e veja o que pediu. Logo acima dela vem \"Como o comprador avaliou o look\", em porcentagem: na DAZY, 93% acharam fiel ao tamanho, 6% acharam pequeno e 1% grande; na Essnce, a página diz que 95% acharam fiel ao tamanho. Um número alto de \"pequeno\" é aviso para a letra de cima.",
+          "Use os relatos de compradores como apoio: procure medidas e comentários sobre o caimento, sem copiar automaticamente a letra de outra pessoa. A DAZY mostra 93% de avaliações de tamanho fiel, 6% de pequeno e 1% de grande; a Essnce mostra 95% de tamanho fiel. Esses percentuais são de quem avaliou cada peça. Uma parcela alta de \"pequeno\" é motivo para reler o guia e os relatos, não uma regra para subir uma letra.",
           "A modelo serve de régua de altura. Na DAZY, ela tem 176 cm e 87 cm de busto e veste o M internacional (o PP brasileiro); na Essnce, 175 cm e 87 cm de busto, no S (o P brasileiro). Mesmo busto, letras diferentes, nas duas marcas: é o capítulo da letra outra vez. O botão \"Tamanho e ajuste\" mostra essas medidas da modelo na própria página.",
           "Abaixo das letras, algumas páginas trazem o link \"Diga-me o seu tamanho\"; a página de ajuda da SHEIN chama o recurso de \"Verificar meu tamanho\" e diz que ele pede altura, idade e peso para sugerir uma letra. Com login, a sugestão aparece sozinha em algumas peças. Use como segunda opinião, nunca no lugar da fita: ele não pergunta o seu busto nem a sua cintura, e é nisso que a letra muda."
         ]
@@ -182341,7 +182341,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se não servir: a devolução",
         "paragraphs": [
-          "Errar a letra custa o tempo de duas entregas: a peça volta antes de a certa chegar, e é por isso que a fita vem antes do pedido. No Brasil, a política não prevê troca: quem errou a letra devolve a peça, recebe o reembolso e faz um pedido novo com a letra certa.",
+          "Se a peça não servir, uma devolução e eventual pedido novo podem consumir tempo e orçamento. No Brasil, a política não prevê troca: quem errou a letra devolve a peça, recebe o reembolso e faz um pedido novo com a letra certa. Confira a elegibilidade e a política antes de contar com essa alternativa.",
           "A devolução é em até 20 dias do recebimento. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso. Body, roupa de banho e roupa íntima só voltam nos 7 dias do direito de arrependimento, então nessas a medida pede ainda mais cuidado. A devolução e a reputação da loja estão em [SHEIN é confiável?](/reviews/shein-e-confiavel)."
         ]
       },
@@ -182354,10 +182354,10 @@ export const reviewsData: unknown[] = [
           "Meça busto, cintura e quadril e anote em centímetros.",
           "Abra o \"Guia de tamanhos\" da peça e deixe em CM; o \"BR Tamanho\" mostra a letra daqui ao lado da internacional.",
           "Veja se a tabela é da peça ou do corpo. Compare com a sua medida e conte a folga.",
-          "Leia o tipo de ajuste e a elasticidade: tecido que não estica pede folga; tecido que estica aceita folga menor, sem dispensar a medida da peça.",
+          "Leia ajuste e elasticidade junto às tabelas; não converta \"estica\" em regra de escolher uma peça igual ou menor que o corpo.",
           "Confira \"Como o comprador avaliou o look\" e procure, na tabela de compradores, alguém com as suas medidas.",
           "Em peça de Envio Nacional, procure a tabela do vendedor na galeria de fotos.",
-          "Conte com 1 a 2 cm de variação na peça e com a mudança depois da lavagem.",
+          "Confira a tolerância indicada no guia do modelo; o intervalo de 1 a 2 cm e a mudança após a lavagem que aparecem nestas duas camisetas não valem automaticamente para toda peça.",
           "Guarde a confirmação do pedido e o rastreio: é com eles que a devolução anda, se a peça não servir."
         ],
         "postParagraphs": [
@@ -182367,11 +182367,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual letra pedir: o resumo por situação",
         "bullets": [
-          "Tecido sem elastano, elasticidade \"Não\" ou \"Pouco\" (a camiseta DAZY): a letra cuja medida da peça dá a folga que você usa; se a sua medida cai no limite, a de cima.",
-          "Tecido com elastano, elasticidade \"Médio\" ou \"Muito\", e só a medida da peça no guia (a Essnce): uma letra com folga menor pode servir, como a da modelo da página, que é só um exemplo; confira a medida da peça, o ajuste e a folga que você quer.",
+          "Tecido sem elastano, elasticidade \"Não\" ou \"Pouco\" (a camiseta DAZY): compare a tabela corporal e o espaço da peça com o ajuste que procura; estar na borda não manda subir uma letra sozinho.",
+          "Tecido com elastano, elasticidade \"Médio\" ou \"Muito\", e só a medida da peça no guia (a Essnce): considere modelagem, conforto e a folga que você quer. O S da modelo é exemplo desse produto, não regra para todos os corpos.",
           "Marca que a página avisa ser menor (a DAZY): leia a tabela do corpo da própria marca, não a sua letra de sempre; o \"BR Tamanho\" já faz a conversão no seletor.",
           "Envio Nacional: a tabela do vendedor, com a letra brasileira.",
-          "Entre duas letras e sem certeza: a que a tabela de compradores com as suas medidas pediu; sem ninguém parecido, a folga decide, pela regra do tecido."
+          "Entre tamanhos, reúna tabelas, ajuste e relatos sobre a mesma peça. Sem informação suficiente, confirme as medidas ou escolha outra peça; não copie automaticamente a letra de outra pessoa."
         ],
         "emphasis": "Se fosse para a minha casa, eu não pediria letra sem abrir o guia da peça, porque a mesma letra muda de marca para marca."
       },
@@ -182389,11 +182389,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "A medida da peça no guia, em centímetros, dá a folga que você usa, e o tipo de ajuste e a elasticidade batem com o que você espera do tecido.",
-        "A tabela de compradores da página tem alguém com as suas medidas e essa pessoa pediu a letra que você vai pedir."
+        "A página tem relatos de compradores com medidas próximas às suas, lidos como informação complementar; a letra que outra pessoa pediu não garante o seu caimento."
       ],
       "skipIf": [
         "Você escolheu pela letra de sempre sem abrir o guia da peça: a mesma letra muda de marca para marca.",
-        "Você precisa da peça numa data marcada e não pode esperar a devolução: errar a letra custa o tempo de duas entregas."
+        "Você precisa da peça numa data fixa e não tem margem para experimentar, devolver ou achar alternativa; o erro de tamanho pode exigir um novo pedido."
       ]
     }
   },
@@ -182430,7 +182430,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Go to SHEIN",
-      "text": "Open the piece's size guide and compare its measurement in centimeters with yours before choosing a letter.",
+      "text": "Open the guide and identify whether the chart is for the body or the garment. Compare like references before choosing a size.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -182458,7 +182458,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "At SHEIN, choose the size by the centimeter measurement in each piece's size guide, never by the letter you always wear: the M changes from one brand to another. Measure your body and compare it with the piece. If it doesn't fit, returning it is the way out; the section “If it doesn't fit: returns” explains how."
+          "At SHEIN, open the specific item's guide and compare its body chart with your measurements; for product measurements, consider garment dimensions and the fit you want. Your usual letter is not enough. Return options and costs depend on the policy and the item."
         ]
       },
       {
@@ -182524,7 +182524,7 @@ export const reviewsData: unknown[] = [
           "Hips: at the widest part of the hips, with feet together."
         ],
         "postParagraphs": [
-          "Write the three down in centimeters. The SHEIN guide shows measurements in centimeters and inches; to compare, stay in CM. The guide itself explains how to measure: if your method matches its method, the comparison comes out right. For T-shirts, blouses and dresses, the bust decides; for trousers and skirts, the waist and hips. If you fall between two of your numbers, use the larger one: extra room can be taken in, a shortfall can't."
+          "Record your measurements in centimeters and follow the guide's method. Check all relevant areas for the garment, not only bust or waist. If measurements point to different sizes, compare cut and charts; do not simply choose the larger number assuming alterations will be easy."
         ]
       },
       {
@@ -182601,14 +182601,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Ease is the difference between the garment and your body, and it shows the cut before you put it on. By the same math, with the DAZY guide, M is meant for a bust of 82 to 86 cm. That leaves 7 to 11 cm of ease in a regular-fit T-shirt with slight stretch. When only the garment measurement exists, stretch takes the place of ease: in the Essnce, with high stretch, the model on the page wears S, which measures 78 cm, 9 cm less than her bust.",
-          "The guide warns that the piece measurement can vary by 1 to 2 cm, and the descriptions of both T-shirts warn that the fabric changes size after washing at home. If your measurement falls on the edge of one size, those 2 cm decide. So: fabric with no or slight stretch calls for ease, and on the edge the size above; fabric with medium or high stretch accepts less ease, but the choice still follows the piece measurement, the cut and the ease you want; when there is a body table, it goes into the calculation too. The model on the Essnce page is an example, not a rule."
+          "In the DAZY example, M measures 93 cm while its body chart lists 82–86 cm: a difference of 7–11 cm. In Essnce, the model with an 87 cm bust wears an S that measures 78 cm. These are two product examples, not a formula for every fabric with or without elastane. Stretch does not replace considering ease and the fit you want.",
+          "The guide warns that piece measurements can vary by 1 to 2 cm, and the descriptions of both T-shirts mention changes after washing at home. Between sizes, check the body chart, the piece measurements, the cut and the stretch together. Stretch alone is not a reason to size up or to pick a piece smaller than your body measurements. If the information is insufficient, check that item's guidance before ordering."
         ]
       },
       {
         "heading": "What else the page shows: the model and the buyers",
         "paragraphs": [
-          "After the measurements, the most useful thing is the buyers' table, because it shows real people: height, weight, bust, waist, hips and the size each one ordered. Look there for someone with your measurements and see what they ordered. Just above it sits the buyers' fit rating, in percentages: on the DAZY, 93% found it true to size, 6% found it small and 1% large; on the Essnce, the page says 95% found it true to size. A high share saying it runs small is a warning to go up a size.",
+          "Use buyer reports as supporting information: look for measurements and fit comments without automatically copying someone else's size. The DAZY page shows 93% true to size, 6% small and 1% large; the Essnce page shows 95% true to size. These shares come from the people who rated each item. A high \"small\" share is a reason to reread the guide and reports, not an automatic instruction to size up.",
           "The model is a height reference. On the DAZY, she is 176 cm tall with an 87 cm bust and wears the international M; on the Essnce, 175 cm and an 87 cm bust, in S. Same bust, different letters, in both brands: it's the letter problem again. The size and fit details button shows the model's measurements on the page itself.",
           "Below the sizes, some pages have a size-finder link that suggests a size. SHEIN's help page says the tool asks for height, age and weight to suggest a letter. When you are logged in, the suggestion appears on its own for some pieces. Use it as a second opinion, never in place of the tape: it does not ask for your bust or your waist, and that is exactly where the letter changes."
         ]
@@ -182616,7 +182616,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "If it doesn't fit: returns",
         "paragraphs": [
-          "A wrong size costs the time of two deliveries: the piece goes back before the right one arrives, which is why the tape comes before the order.",
+          "If a garment does not fit, a return and possible new order can take time and money. It is not a guaranteed sequence of two deliveries. Check eligibility and policy before relying on that option.",
           "The return policy for your country is in SHEIN's help center. Returns and the store's reputation are covered in [Is SHEIN trustworthy?](/en/reviews/is-shein-legit-and-safe)."
         ]
       },
@@ -182629,9 +182629,9 @@ export const reviewsData: unknown[] = [
           "Measure bust, waist and hips and write them down in centimeters.",
           "Open the piece's size guide and keep it on CM.",
           "Check whether the table is for the piece or for the body. Compare it with your measurement and count the ease.",
-          "Read the fit type and the stretch: fabric that doesn't stretch calls for ease; fabric that stretches accepts less ease, without replacing the piece measurement.",
+          "Read cut and stretch alongside the charts; \"stretchy\" is not a rule for choosing a piece equal to or smaller than your body.",
           "Check the buyers' fit rating and look in their table for someone with your measurements.",
-          "Allow for 1 to 2 cm of variation in the piece and for the change after washing.",
+          "Check the tolerance in the specific item's guide: the 1–2 cm variation and the changes after washing were described for these two T-shirts and do not apply automatically to every item.",
           "Keep the order confirmation and the tracking number: a return depends on them, if the piece doesn't fit."
         ],
         "postParagraphs": [
@@ -182641,10 +182641,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Which size to order: a summary by situation",
         "bullets": [
-          "Fabric without elastane, with no or slight stretch (the DAZY T-shirt): the size whose piece measurement gives the ease you want; if your measurement falls on the edge, the one above.",
-          "Fabric with elastane, medium or high stretch, and only the piece measurement in the guide (the Essnce): a size with less ease can work, like the model on the page, who is only an example; check the piece measurement, the fit and the ease you want.",
+          "Fabric without elastane, with no or slight stretch (the DAZY T-shirt): compare the body chart and the piece measurements with the fit you want; a boundary alone does not mean sizing up.",
+          "Fabric with elastane, medium or high stretch, and only the piece measurement in the guide (the Essnce): consider the cut, the fit and the comfort you expect. The model's S is an example of that product, not a rule for every body.",
           "A brand the page warns runs smaller (the DAZY): read the brand's own body table, not your usual letter.",
-          "Between two sizes and unsure: the one that the buyer with your measurements ordered, in the buyers' table; with nobody similar, the ease decides, by the fabric rule."
+          "Between sizes, use the charts, cut and buyer reports for that same item together. If information is insufficient, check measurements or choose another piece; do not automatically copy another buyer's size."
         ],
         "emphasis": "If it were for my own home, I wouldn't order a size without opening the piece's guide, because the same letter changes from brand to brand."
       },
@@ -182661,11 +182661,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "The piece measurement in the guide, in centimeters, gives the ease you want, and the fit type and the stretch match what you expect from the fabric.",
-        "The buyers' table on the page has someone with your measurements, and that person ordered the size you are about to order."
+        "The buyer reports on the page include people with measurements close to yours, and you read them as support: the size they ordered does not guarantee your fit."
       ],
       "skipIf": [
         "You chose by your usual letter without opening the piece's guide: the same letter changes from brand to brand.",
-        "You need the piece on a set date and can't wait for a return: a wrong size costs the time of two deliveries."
+        "You need the piece for a fixed date, with no time to try it on, return it or find an alternative; a sizing error may require another order."
       ]
     }
   },
@@ -182702,7 +182702,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Ir a SHEIN",
-      "text": "Abre la guía de tallas de la prenda y compara la medida en centímetros con la tuya antes de elegir la letra.",
+      "text": "Abre la guía e identifica si la tabla es del cuerpo o de la prenda. Compara referencias equivalentes antes de elegir.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -182730,7 +182730,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En SHEIN, la talla se elige por la medida en centímetros de la guía de cada prenda, nunca por la letra de siempre: la M cambia de una marca a otra. Mide tu cuerpo y compáralo con la prenda. Si no te queda bien, la salida es la devolución; el capítulo «Si no te queda: la devolución» explica cómo."
+          "En SHEIN, abre la guía del artículo concreto y compara su tabla corporal con tus medidas. La letra cambia de una marca a otra: la M de una no es la M de la otra. Si no te queda bien, la posibilidad y el costo de la devolución dependen de la política y del artículo."
         ]
       },
       {
@@ -182796,7 +182796,7 @@ export const reviewsData: unknown[] = [
           "Cadera: en la parte más ancha de la cadera, con los pies juntos."
         ],
         "postParagraphs": [
-          "Anota los tres en centímetros. La guía de SHEIN muestra las medidas en centímetros y en pulgadas; para comparar, quédate en CM. La propia guía explica cómo medir: si tu forma de medir es la suya, la comparación sale bien. Para camiseta, blusa y vestido decide el busto; para pantalón y falda, la cintura y la cadera. Si estás entre dos de tus números, usa el mayor: lo que sobra se ajusta, lo que falta no."
+          "Anota tus medidas en centímetros y sigue el método de la guía. Revisa todas las zonas relevantes, no solo busto o cintura. Si apuntan a tallas distintas, compara corte y tablas; no elijas el número mayor suponiendo un arreglo fácil."
         ]
       },
       {
@@ -182873,14 +182873,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "La holgura es la diferencia entre la prenda y tu cuerpo, y cuenta el corte antes de que te la pongas. Con la misma cuenta, con la guía de DAZY, la M está indicada para un busto de 82 a 86 cm. Quedan de 7 a 11 cm de holgura en una camiseta de ajuste regular y poca elasticidad. Cuando solo existe la medida de la prenda, la elasticidad hace el papel de la holgura: en la Essnce, de alta elasticidad, la modelo de la ficha lleva la S, que mide 78 cm, 9 cm menos que su busto.",
-          "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta admite menos holgura, pero la elección sigue la medida de la prenda, el corte y la holgura que quieres; si hay tabla del cuerpo, también entra en la cuenta. La modelo de la ficha de la Essnce es un ejemplo, no una regla."
+          "En el ejemplo DAZY, la prenda M mide 93 cm y su tabla corporal indica 82–86 cm: diferencia de 7–11 cm. En Essnce, la modelo de busto 87 cm lleva una S que mide 78 cm. Son dos ejemplos de producto, no una fórmula para toda tela con o sin elastano. La elasticidad no sustituye evaluar la holgura y el ajuste que buscas.",
+          "Las guías leídas advierten de una variación de 1–2 cm en la medida de la prenda, y las descripciones de las dos camisetas mencionan cambios de la tela tras lavarla en casa. Entre tallas, revisa juntos tabla corporal, medidas de la prenda, corte y elasticidad. No subas automáticamente ni elijas una prenda igual o menor que tu cuerpo solo porque la tela estira. Si falta información, confirma las indicaciones de la prenda antes de pedir."
         ]
       },
       {
         "heading": "Qué más muestra la ficha: la modelo y quienes compraron",
         "paragraphs": [
-          "Después de la medida, lo que más ayuda es la tabla de quienes compraron, porque muestra gente de verdad: altura, peso, busto, cintura, cadera y la talla que pidió cada una. Busca ahí a alguien con tus medidas y mira lo que pidió. Justo encima aparece la valoración de ajuste de los compradores, en porcentaje: en DAZY, el 93% la encontró fiel a la talla, el 6% la encontró pequeña y el 1% grande; en Essnce, la ficha dice que el 95% la encontró fiel a la talla. Un porcentaje alto de «pequeña» es un aviso para subir una talla.",
+          "Usa los comentarios como apoyo: busca medidas y opiniones sobre el ajuste sin copiar automáticamente la talla de otra persona. En DAZY, el 93% la encontró fiel a la talla, el 6% pequeña y el 1% grande; en Essnce, el 95% fiel. Esos porcentajes describen a quienes valoraron cada prenda. Una proporción alta de “pequeña” invita a releer guía y comentarios, no a subir automáticamente de talla.",
           "La modelo sirve de referencia de altura. En DAZY, mide 176 cm y tiene 87 cm de busto y lleva la M internacional; en Essnce, 175 cm y 87 cm de busto, con la S. Mismo busto, letras distintas, en las dos marcas: es el capítulo de la talla otra vez. El botón de detalles de talla y ajuste muestra esas medidas de la modelo en la propia ficha.",
           "Debajo de las tallas, algunas fichas traen un enlace que sugiere la talla. El centro de ayuda de SHEIN dice que la herramienta pide altura, edad y peso para sugerir una talla. Con sesión iniciada, la sugerencia aparece sola en algunas prendas. Úsala como segunda opinión, nunca en lugar de la cinta: no pregunta tu busto ni tu cintura, y es ahí donde cambia la talla."
         ]
@@ -182888,7 +182888,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si no te queda: la devolución",
         "paragraphs": [
-          "Equivocarte de talla cuesta el tiempo de dos entregas: la prenda vuelve antes de que llegue la correcta, y por eso la cinta va antes del pedido.",
+          "Si la prenda no queda, devolverla y hacer otro pedido puede llevar tiempo y dinero. No es una secuencia garantizada de dos entregas. Confirma elegibilidad y política antes de contar con esa opción.",
           "La política de devolución de tu país está en el centro de ayuda de SHEIN. La devolución y la reputación de la tienda están en [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
         ]
       },
@@ -182901,9 +182901,9 @@ export const reviewsData: unknown[] = [
           "Mide busto, cintura y cadera y anótalos en centímetros.",
           "Abre la guía de tallas de la prenda y déjala en CM.",
           "Mira si la tabla es de la prenda o del cuerpo. Compárala con tu medida y cuenta la holgura.",
-          "Lee el tipo de ajuste y la elasticidad: una tela que no estira pide holgura; una que estira admite menos holgura, sin sustituir la medida de la prenda.",
+          "Lee corte y elasticidad junto con las tablas; “elástica” no significa elegir una prenda igual o menor que el cuerpo.",
           "Revisa la valoración de ajuste de los compradores y busca en su tabla a alguien con tus medidas.",
-          "Cuenta con una variación de 1 a 2 cm en la prenda y con el cambio tras el lavado.",
+          "Comprueba la tolerancia en la guía de cada modelo. La variación de 1–2 cm y el cambio tras el lavado se describen en estas dos camisetas y no se aplican automáticamente a toda prenda.",
           "Guarda la confirmación del pedido y el seguimiento: con ellos se hace la devolución si la prenda no te queda."
         ],
         "postParagraphs": [
@@ -182913,10 +182913,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué talla pedir: el resumen por situación",
         "bullets": [
-          "Tela sin elastano, con elasticidad nula o poca (la camiseta DAZY): la talla cuya medida de la prenda da la holgura que usas; si tu medida cae en el límite, la de arriba.",
-          "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): una talla con menos holgura puede servir, como la de la modelo de la ficha, que es solo un ejemplo; revisa la medida de la prenda, el ajuste y la holgura que quieres.",
+          "Tela sin elastano, con elasticidad nula o poca (la camiseta DAZY): compara la tabla corporal y la medida de la prenda con el ajuste que buscas; estar en el límite no obliga por sí solo a subir de talla.",
+          "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): considera corte, ajuste y la comodidad que esperas. La S de la modelo es un ejemplo de ese producto, no una regla para todos los cuerpos.",
           "Marca que la ficha avisa que queda pequeña (la DAZY): lee la tabla de cuerpo de la propia marca, no tu letra de siempre.",
-          "Entre dos tallas y sin certeza: la que pidieron en la tabla de compradores con tus medidas; sin nadie parecido, decide la holgura, según la regla de la tela."
+          "Entre tallas, reúne tablas, corte y relatos sobre ese mismo artículo. Sin datos suficientes, confirma las medidas o elige otra prenda; no copies automáticamente la talla de otra persona."
         ],
         "emphasis": "Si fuera para mi casa, no pediría una talla sin abrir la guía de la prenda, porque la misma letra cambia de marca en marca."
       },
@@ -182933,11 +182933,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "La medida de la prenda en la guía, en centímetros, da la holgura que usas, y el tipo de ajuste y la elasticidad encajan con lo que esperas de la tela.",
-        "La tabla de compradores de la ficha tiene a alguien con tus medidas, y esa persona pidió la talla que tú vas a pedir."
+        "Encuentras en la tabla de compradores de la ficha a alguien con medidas cercanas a las tuyas y lo lees como apoyo."
       ],
       "skipIf": [
         "Elegiste por tu letra de siempre sin abrir la guía de la prenda: la misma letra cambia de marca en marca.",
-        "Necesitas la prenda en una fecha fija y no puedes esperar a la devolución: equivocarte de talla cuesta el tiempo de dos entregas."
+        "Necesitas la prenda para una fecha fija, sin tiempo para probártela, devolverla o buscar alternativa; un error de talla puede exigir otro pedido."
       ]
     }
   },
@@ -182974,7 +182974,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Aller sur SHEIN",
-      "text": "Ouvrez le guide des tailles de l'article et comparez la mesure en centimètres avec la vôtre avant de choisir la lettre.",
+      "text": "Ouvrez le guide et identifiez tableau corporel ou dimensions du vêtement. Comparez des références équivalentes avant de choisir.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -183002,7 +183002,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Chez SHEIN, on choisit la taille d'après la mesure en centimètres du guide de chaque article, jamais d'après la lettre habituelle : le M change d'une marque à l'autre. Mesurez votre corps et comparez avec l'article. Si ça ne convient pas, la solution est le retour ; le chapitre « Si ça ne convient pas » explique comment."
+          "Chez SHEIN, ouvrez le guide de l’article précis et comparez son tableau corporel à vos mesures. La lettre change d’une marque à l’autre : le M de l’une n’est pas le M de l’autre. Si ça ne convient pas, la possibilité et le coût du retour dépendent de l’article et de la politique."
         ]
       },
       {
@@ -183068,7 +183068,7 @@ export const reviewsData: unknown[] = [
           "Hanches : à la partie la plus large des hanches, pieds joints."
         ],
         "postParagraphs": [
-          "Notez les trois en centimètres. Le guide SHEIN donne les mesures en centimètres et en pouces ; pour comparer, restez sur les CM. Le guide explique lui-même comment mesurer : si votre façon de mesurer est la sienne, la comparaison est juste. Pour un t-shirt, un chemisier ou une robe, c'est le buste qui décide ; pour un pantalon ou une jupe, la taille et les hanches. Si vous hésitez entre deux de vos chiffres, prenez le plus grand : l'excédent se reprend, le manque non."
+          "Notez vos mesures en centimètres et suivez la méthode du guide. Vérifiez toutes les zones utiles, pas seulement buste ou taille. Si elles pointent vers plusieurs tailles, comparez coupe et tableaux ; ne prenez pas le plus grand chiffre en supposant une retouche facile."
         ]
       },
       {
@@ -183145,14 +183145,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "L'aisance, c'est la différence entre le vêtement et votre corps ; elle révèle la coupe avant même que vous ne l'enfiliez. Avec le même calcul, pour le guide DAZY, le M est prévu pour un buste de 82 à 86 cm. Il reste 7 à 11 cm d'aisance sur un t-shirt à coupe régulière et à élasticité légère. Quand il n'existe que la mesure du vêtement, l'élasticité joue le rôle de l'aisance : sur l'Essnce, à élasticité forte, le mannequin de la fiche porte le S, qui mesure 78 cm, soit 9 cm de moins que son buste.",
-          "Le guide prévient que la mesure de l'article peut varier de 1 à 2 cm, et la description des deux t-shirts prévient que le tissu change de dimensions après un lavage à la maison. Si votre mesure tombe à la limite d'une taille, ces 2 cm décident. Donc : un tissu sans élasticité ou à élasticité légère demande de l'aisance, et à la limite la taille au-dessus ; un tissu à élasticité moyenne ou forte accepte moins d'aisance, mais le choix suit toujours la mesure de l'article, la coupe et l'aisance que vous voulez, et le tableau du corps, s'il existe, entre dans le calcul. Le mannequin de la fiche Essnce est un exemple, pas une règle."
+          "Dans l’exemple DAZY, le M mesure 93 cm et le tableau corporel indique 82–86 cm : 7–11 cm d’écart. Chez Essnce, le mannequin de 87 cm de buste porte le S de 78 cm. Ce sont deux exemples de coupe, pas une formule pour tout tissu avec ou sans élasthanne. L’élasticité ne remplace pas l’analyse de l’aisance et du rendu souhaité.",
+          "Le guide signale que la mesure de l’article peut varier de 1 à 2 cm, et les descriptions des deux t-shirts mentionnent des changements du tissu après lavage à la maison. Entre deux tailles, croisez tableau corporel, mesures de l’article, coupe et élasticité. Ne montez pas automatiquement et ne choisissez pas un vêtement égal ou inférieur au corps au seul motif que le tissu s’étire. Si les données manquent, vérifiez les indications de l’article avant de commander."
         ]
       },
       {
         "heading": "Ce que la fiche montre en plus : le mannequin et les acheteurs",
         "paragraphs": [
-          "Après la mesure, le plus utile est le tableau des acheteurs, car il montre de vraies personnes : stature, poids, buste, tour de taille, tour de hanches et la lettre commandée par chacune. Cherchez-y quelqu'un qui a vos mesures et regardez la lettre commandée. Juste au-dessus figure l'avis des acheteurs sur la coupe, en pourcentage : sur DAZY, 93 % ont trouvé le vêtement fidèle à la taille, 6 % l'ont trouvé petit et 1 % grand ; sur Essnce, la fiche indique que 95 % l'ont trouvé fidèle à la taille. Un fort pourcentage de « petit » est un avertissement : prenez la taille au-dessus.",
+          "Utilisez les avis comme complément : cherchez mensurations et commentaires sur le tombé, sans copier automatiquement la taille d’une autre personne. Sur DAZY, 93 % ont trouvé l’article conforme à la taille, 6 % petit et 1 % grand ; sur Essnce, 95 % conforme. Ces proportions décrivent les personnes ayant évalué chaque article. Une forte proportion de « petit » invite à relire guide et avis, pas à monter automatiquement d’une taille.",
           "Le mannequin sert de repère de hauteur. Sur DAZY, elle mesure 176 cm, a 87 cm de buste et porte le M international ; sur Essnce, 175 cm et 87 cm de buste, en S. Même buste, lettres différentes, dans les deux marques : c'est encore l'histoire de la lettre. Le bouton de détail des tailles et de la coupe affiche sur la fiche elle-même les mesures du mannequin.",
           "Sous les tailles, certaines fiches proposent un lien qui suggère une taille. Le centre d'aide SHEIN indique que l'outil demande la stature, l'âge et le poids pour suggérer une lettre. Connecté, le conseil apparaît tout seul sur certains articles. Utilisez-le comme deuxième avis, jamais à la place du mètre : il ne demande ni votre buste ni votre tour de taille, et c'est précisément là que la lettre change."
         ]
@@ -183160,7 +183160,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si ça ne convient pas : le retour",
         "paragraphs": [
-          "Se tromper de taille coûte le temps de deux livraisons : l'article repart avant que le bon n'arrive, et c'est pour cela que le mètre sert avant la commande.",
+          "Si le vêtement ne convient pas, retour et éventuelle nouvelle commande peuvent coûter du temps et de l’argent. Ce n’est pas une séquence garantie de deux livraisons. Vérifiez éligibilité et politique avant de compter dessus.",
           "La politique de retour de votre pays figure dans le centre d'aide SHEIN. Le retour et la réputation de la boutique sont traités dans [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)."
         ]
       },
@@ -183173,9 +183173,9 @@ export const reviewsData: unknown[] = [
           "Mesurez buste, taille et hanches et notez-les en centimètres.",
           "Ouvrez le guide des tailles de l'article et laissez-le en CM.",
           "Regardez si le tableau concerne l'article ou le corps. Comparez-le à votre mesure et calculez l'aisance.",
-          "Lisez le type de coupe et l'élasticité : un tissu qui ne s'étire pas demande de l'aisance ; un tissu qui s'étire accepte moins d'aisance, sans remplacer la mesure de l'article.",
+          "Lisez coupe et élasticité avec les tableaux ; « extensible » ne signifie pas choisir un vêtement égal ou inférieur au corps.",
           "Consultez l'avis des acheteurs sur la coupe et cherchez dans leur tableau quelqu'un qui a vos mesures.",
-          "Prévoyez une variation de 1 à 2 cm sur l'article et le changement après lavage.",
+          "Vérifiez la tolérance indiquée dans le guide de l’article concerné. La variation de 1 à 2 cm et le changement après lavage sont décrits pour ces deux t-shirts et ne valent pas automatiquement pour chaque article.",
           "Gardez la confirmation de commande et le suivi : c'est avec eux que se fait le retour si l'article ne convient pas."
         ],
         "postParagraphs": [
@@ -183185,10 +183185,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quelle taille commander : le résumé par situation",
         "bullets": [
-          "Tissu sans élasthanne, élasticité nulle ou légère (le t-shirt DAZY) : la taille dont la mesure du vêtement donne l'aisance que vous voulez ; si votre mesure tombe à la limite, la taille au-dessus.",
-          "Tissu avec élasthanne, élasticité moyenne ou forte, et seulement la mesure du vêtement dans le guide (l'Essnce) : une taille avec moins d'aisance peut convenir, comme pour le mannequin de la fiche, qui n'est qu'un exemple ; vérifiez la mesure de l'article, la coupe et l'aisance que vous voulez.",
+          "Tissu sans élasthanne, élasticité nulle ou légère (le t-shirt DAZY) : comparez tableau corporel et espace du vêtement au rendu souhaité ; être à la limite n’impose pas seul de monter de taille.",
+          "Tissu avec élasthanne, élasticité moyenne ou forte, et seulement la mesure du vêtement dans le guide (l’Essnce) : considérez coupe, tombé et confort attendu. Le S du mannequin est un exemple de ce produit, pas une règle pour chaque corps.",
           "Marque dont la fiche prévient qu'elle taille petit (DAZY) : lisez le tableau du corps de la marque elle-même, pas votre lettre habituelle.",
-          "Entre deux tailles et sans certitude : celle que le tableau des acheteurs ayant vos mesures a commandée ; sans personne de comparable, l'aisance décide, selon la règle du tissu."
+          "Entre tailles, croisez tableaux, coupe et avis sur le même article. Sans données suffisantes, vérifiez les mesures ou choisissez un autre vêtement ; ne copiez pas automatiquement la taille d’autrui."
         ],
         "emphasis": "Si c'était pour chez moi, je ne commanderais pas une taille sans ouvrir le guide de l'article, parce que la même lettre change d'une marque à l'autre."
       },
@@ -183205,11 +183205,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "La mesure de l'article dans le guide, en centimètres, donne l'aisance que vous voulez, et le type de coupe et l'élasticité correspondent à ce que vous attendez du tissu.",
-        "Le tableau des acheteurs de la fiche compte quelqu'un qui a vos mesures, et cette personne a commandé la taille que vous allez commander."
+        "Vous trouvez dans le tableau des acheteurs de la fiche quelqu’un aux mesures proches des vôtres et le lisez en complément."
       ],
       "skipIf": [
         "Vous avez choisi d'après votre lettre habituelle sans ouvrir le guide de l'article : la même lettre change d'une marque à l'autre.",
-        "Il vous faut l'article à une date fixe et vous ne pouvez pas attendre un retour : se tromper de taille coûte le temps de deux livraisons."
+        "Il vous faut l’article à une date fixe, sans temps pour l’essayer, le retourner ou trouver une alternative ; une erreur de taille peut exiger une nouvelle commande."
       ]
     }
   },
@@ -183246,7 +183246,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Zu SHEIN",
-      "text": "Öffnen Sie den Größenguide des Artikels und vergleichen Sie das Maß in Zentimetern mit Ihrem, bevor Sie einen Buchstaben wählen.",
+      "text": "Öffnen Sie den Guide und unterscheiden Sie Körper- und Artikelmaße. Vor der Größenwahl gleichartige Angaben vergleichen.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -183274,7 +183274,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Bei SHEIN wählen Sie die Größe nach dem Maß in Zentimetern im Größenguide jedes Artikels, nie nach Ihrem üblichen Buchstaben: Das M ändert sich von einer Marke zur anderen. Messen Sie Ihren Körper und vergleichen Sie die Werte mit dem Artikel. Passt es nicht, bleibt die Rückgabe; der Abschnitt „Wenn es nicht passt“ erklärt das Vorgehen."
+          "Öffnen Sie bei SHEIN den Guide des konkreten Artikels und vergleichen Sie die Körpertabelle mit Ihren Maßen. Der Buchstabe ändert sich von Marke zu Marke: Das M der einen ist nicht das M der anderen. Passt es nicht, hängen Rückgabe und Kosten von Richtlinie und Artikel ab."
         ]
       },
       {
@@ -183340,7 +183340,7 @@ export const reviewsData: unknown[] = [
           "Hüfte: an der breitesten Stelle der Hüfte, mit geschlossenen Füßen."
         ],
         "postParagraphs": [
-          "Notieren Sie die drei in Zentimetern. Der SHEIN-Guide zeigt Maße in Zentimetern und Zoll; zum Vergleichen bleiben Sie bei CM. Der Guide erklärt selbst, wie zu messen ist: Wenn Ihre Messweise seiner entspricht, stimmt der Vergleich. Bei T-Shirts, Blusen und Kleidern entscheidet die Brust, bei Hosen und Röcken Taille und Hüfte. Schwanken Sie zwischen zwei Ihrer Werte, nehmen Sie den größeren: Zu viel lässt sich ändern, zu wenig nicht."
+          "Notieren Sie Maße in Zentimetern und folgen Sie der Messmethode. Alle relevanten Stellen prüfen, nicht nur Brust oder Taille. Bei unterschiedlichen Größenhinweisen Schnitt und Tabellen vergleichen; nicht den größeren Wert wählen und eine einfache Änderung voraussetzen."
         ]
       },
       {
@@ -183417,14 +183417,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Die Weite ist der Unterschied zwischen Kleidungsstück und Körper, und sie verrät den Schnitt, bevor Sie es anziehen. Nach derselben Rechnung ist M im DAZY-Guide für einen Brustumfang von 82 bis 86 cm gedacht. Bei einem Shirt mit regulärem Schnitt und leichter Elastizität bleiben so 7 bis 11 cm Weite. Gibt es nur das Maß des Kleidungsstücks, übernimmt die Elastizität die Rolle der Weite: Bei der Essnce mit starker Elastizität trägt das Model auf der Produktseite Größe S, die 78 cm misst, also 9 cm weniger als ihr Brustumfang.",
-          "Der Guide weist darauf hin, dass sich das Maß des Artikels um 1 bis 2 cm unterscheiden kann, und die Beschreibung beider Shirts warnt, dass sich der Stoff nach dem Waschen zu Hause verändert. Liegt Ihr Maß genau an der Grenze einer Größe, entscheiden diese 2 cm. Also: Stoff ohne oder mit wenig Elastizität verlangt Weite, und an der Grenze die Größe darüber; Stoff mit mittlerer oder starker Elastizität verträgt weniger Weite, aber die Wahl richtet sich weiter nach dem Artikelmaß, dem Schnitt und der Weite, die Sie möchten, und die Körpertabelle, falls vorhanden, gehört mit in die Rechnung. Das Model auf der Essnce-Seite ist ein Beispiel, keine Regel."
+          "Im DAZY-Beispiel misst M 93 cm, der Körperbereich lautet 82–86 cm: 7–11 cm Differenz. Bei Essnce trägt das Model mit 87 cm Brust eine S, die 78 cm misst. Das sind zwei Produktbeispiele, keine Formel für jeden Stoff mit oder ohne Elasthan. Dehnbarkeit ersetzt nicht die Abwägung von Weite und gewünschter Passform.",
+          "Der Guide weist darauf hin, dass sich das Maß des Artikels um 1 bis 2 cm unterscheiden kann, und die Beschreibungen beider Shirts erwähnen Veränderungen des Stoffs nach dem Waschen zu Hause. Zwischen zwei Größen Körperbereich, Artikelmaße, Schnitt und Dehnung zusammen prüfen. Dehnung allein ist kein Grund, größer zu bestellen oder ein Teil zu wählen, das gleich groß oder kleiner als der Körper ist. Fehlen die Angaben, prüfen Sie vor der Bestellung die Hinweise zum Artikel."
         ]
       },
       {
         "heading": "Was die Seite sonst zeigt: das Model und die Käufer",
         "paragraphs": [
-          "Nach dem Maß hilft am meisten die Tabelle der Käufer, weil sie echte Menschen zeigt: Körpergröße, Gewicht, Brust, Taille, Hüfte und die Größe, die jede bestellt hat. Suchen Sie dort jemanden mit Ihren Maßen und sehen Sie nach, was diese Person bestellt hat. Direkt darüber steht die Passformbewertung der Käufer in Prozent: Beim DAZY-Shirt fanden 93 % die Größe passend, 6 % zu klein und 1 % zu groß; bei der Essnce gibt die Seite an, dass 95 % die Größe passend fanden. Ein hoher Anteil bei „zu klein“ ist ein Hinweis auf die Größe darüber.",
+          "Nutzen Sie Käuferberichte ergänzend: Suchen Sie Maße und Angaben zur Passform, ohne die Größe einer anderen Person automatisch zu übernehmen. Bei DAZY stuften 93 % die Größe als passend ein, 6 % als zu klein und 1 % als zu groß; bei der Essnce waren es 95 % passend. Diese Anteile stammen von den Bewertenden des jeweiligen Artikels. Ein hoher Anteil bei „zu klein“ ist Anlass, Guide und Berichte erneut zu lesen, keine automatische Empfehlung für eine größere Größe.",
           "Das Model dient als Maßstab für die Körpergröße. Beim DAZY-Shirt ist sie 176 cm groß, hat 87 cm Brustumfang und trägt die internationale M; bei der Essnce 175 cm und 87 cm Brustumfang, in S. Gleicher Brustumfang, unterschiedliche Buchstaben, bei beiden Marken: wieder die Geschichte mit dem Buchstaben. Der Button mit den Angaben zu Größe und Passform zeigt diese Maße des Models auf der Seite selbst.",
           "Unter den Größen zeigen manche Seiten einen Link, der eine Größe vorschlägt. Das Hilfecenter von SHEIN sagt, dass das Tool Körpergröße, Alter und Gewicht abfragt, um eine Größe vorzuschlagen. Angemeldet erscheint der Vorschlag bei einigen Artikeln von selbst. Nutzen Sie ihn als zweite Meinung, nie anstelle des Maßbands: Er fragt nicht nach Brust und Taille, und genau da ändert sich der Buchstabe."
         ]
@@ -183432,7 +183432,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wenn es nicht passt: die Rückgabe",
         "paragraphs": [
-          "Eine falsche Größe kostet die Zeit von zwei Lieferungen: Das Teil geht zurück, bevor das richtige ankommt, deshalb lohnt sich das Maßband vor der Bestellung.",
+          "Passt das Teil nicht, können Rückgabe und eine neue Bestellung Zeit und Geld kosten. Eine feste Abfolge von zwei Lieferungen ist das nicht. Eignung und Bedingungen vorab prüfen.",
           "Die Rückgabebedingungen Ihres Landes finden Sie im Hilfecenter von SHEIN. Rückgabe und Ruf des Shops stehen unter [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)."
         ]
       },
@@ -183445,9 +183445,9 @@ export const reviewsData: unknown[] = [
           "Messen Sie Brust, Taille und Hüfte und notieren Sie sie in Zentimetern.",
           "Öffnen Sie den Größenguide des Artikels und lassen Sie ihn auf CM.",
           "Prüfen Sie, ob die Tabelle zum Artikel oder zum Körper gehört. Vergleichen Sie mit Ihrem Maß und rechnen Sie die Weite aus.",
-          "Lesen Sie Schnitt und Elastizität: Stoff ohne Dehnung braucht Weite; Stoff mit Dehnung verträgt weniger Weite, ersetzt aber nicht das Artikelmaß.",
+          "Lesen Sie Schnitt und Dehnung mit den Tabellen; „dehnbar“ heißt nicht, ein Kleidungsstück gleich groß oder kleiner als den Körper zu wählen.",
           "Sehen Sie sich die Passformbewertung der Käufer an und suchen Sie in deren Tabelle jemanden mit Ihren Maßen.",
-          "Rechnen Sie mit 1 bis 2 cm Abweichung am Artikel und mit der Veränderung nach dem Waschen.",
+          "Prüfen Sie die Toleranz im Guide des konkreten Modells. Die 1–2 cm Abweichung und die Veränderung nach dem Waschen gelten für diese beiden Shirts und nicht automatisch für jeden Artikel.",
           "Bewahren Sie die Bestellbestätigung und die Sendungsnummer auf: Damit läuft die Rückgabe, wenn der Artikel nicht passt."
         ],
         "postParagraphs": [
@@ -183457,10 +183457,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Welche Größe bestellen: die Übersicht nach Situation",
         "bullets": [
-          "Stoff ohne Elasthan, ohne oder mit leichter Elastizität (das DAZY-Shirt): die Größe, deren Artikelmaß die Weite ergibt, die Sie möchten; liegt Ihr Maß an der Grenze, die Größe darüber.",
-          "Stoff mit Elasthan, mittlerer oder starker Elastizität, und nur das Artikelmaß im Guide (die Essnce): eine Größe mit weniger Weite kann passen, wie beim Model auf der Seite, das nur ein Beispiel ist; prüfen Sie Artikelmaß, Schnitt und die Weite, die Sie möchten.",
+          "Stoff ohne Elasthan, ohne oder mit wenig Elastizität (das DAZY-Shirt): Körperbereich und Artikelmaße mit der gewünschten Passform vergleichen; die Lage an der Grenze verlangt allein nicht automatisch die größere Größe.",
+          "Stoff mit Elasthan, mittlerer oder starker Elastizität, und nur das Artikelmaß im Guide (die Essnce): Schnitt, Passform und gewünschten Komfort berücksichtigen. Das S des Models ist ein Beispiel dieses Produkts, keine Regel für alle Körper.",
           "Marke, bei der die Seite warnt, dass sie kleiner ausfällt (DAZY): Lesen Sie die Körpertabelle der Marke selbst, nicht Ihren üblichen Buchstaben.",
-          "Zwischen zwei Größen und unsicher: die, die in der Käufertabelle jemand mit Ihren Maßen bestellt hat; ohne Vergleichsperson entscheidet die Weite nach der Stoffregel."
+          "Zwischen Größen Tabellen, Schnitt und Berichte zum selben Artikel zusammen betrachten. Bei zu wenig Angaben Maße klären oder ein anderes Teil wählen; nicht automatisch die Größe anderer kopieren."
         ],
         "emphasis": "Für mein eigenes Zuhause würde ich keine Größe bestellen, ohne den Guide des Artikels zu öffnen, denn derselbe Buchstabe ändert sich von Marke zu Marke."
       },
@@ -183477,11 +183477,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Das Maß des Artikels im Guide in Zentimetern gibt die Weite, die Sie möchten, und Schnitt und Elastizität passen zu dem, was Sie vom Stoff erwarten.",
-        "Die Käufertabelle der Seite enthält jemanden mit Ihren Maßen, und diese Person hat die Größe bestellt, die Sie bestellen wollen."
+        "Sie finden in der Käufertabelle der Seite jemanden mit ähnlichen Maßen und lesen dessen Angaben als Ergänzung."
       ],
       "skipIf": [
         "Sie haben nach Ihrem üblichen Buchstaben gewählt, ohne den Guide des Artikels zu öffnen: Derselbe Buchstabe ändert sich von Marke zu Marke.",
-        "Sie brauchen den Artikel zu einem festen Termin und können keine Rückgabe abwarten: Eine falsche Größe kostet die Zeit von zwei Lieferungen."
+        "Sie brauchen den Artikel zu einem festen Termin, ohne Zeit für Anprobe, Rückgabe oder Ersatz; eine falsche Größe kann eine neue Bestellung erfordern."
       ]
     }
   },
@@ -183518,7 +183518,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Vai su SHEIN",
-      "text": "Apri la guida alle taglie del capo e confronta la misura in centimetri con la tua prima di scegliere la lettera.",
+      "text": "Apri la guida e identifica tabella corporea o misure del capo. Confronta riferimenti equivalenti prima di scegliere.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -183546,7 +183546,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Su SHEIN la taglia si sceglie dalla misura in centimetri della guida di ogni capo, mai dalla lettera abituale: la M cambia da un marchio all'altro. Misura il corpo e confrontalo con il capo. Se non va bene, la soluzione è il reso; il capitolo «Se non va bene» spiega come."
+          "Su SHEIN apri la guida del capo preciso e confronta la tabella corporea con le tue misure. La lettera cambia da un marchio all'altro: la M di una non è la M dell'altra. Se non va bene, la possibilità e il costo del reso dipendono da capo e politica."
         ]
       },
       {
@@ -183612,7 +183612,7 @@ export const reviewsData: unknown[] = [
           "Fianchi: nel punto più largo dei fianchi, con i piedi uniti."
         ],
         "postParagraphs": [
-          "Annota le tre misure in centimetri. La guida SHEIN mostra le misure in centimetri e in pollici; per confrontare resta su CM. La guida spiega da sola come misurare: se il tuo modo di misurare è il suo, il confronto torna. Per t-shirt, camicette e abiti decide il busto; per pantaloni e gonne, vita e fianchi. Nel dubbio tra due tue misure, usa la più grande: l'eccesso si sistema, il difetto no."
+          "Annota le misure in centimetri e segui il metodo della guida. Controlla tutte le zone importanti, non solo busto o vita. Se indicano taglie diverse, confronta taglio e tabelle; non scegliere il valore maggiore dando per scontata una modifica semplice."
         ]
       },
       {
@@ -183689,14 +183689,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "L'ampiezza è la differenza tra il capo e il tuo corpo, e rivela la vestibilità prima ancora di indossarlo. Con lo stesso calcolo, nella guida DAZY la M è indicata per un busto da 82 a 86 cm. Restano da 7 a 11 cm di ampiezza su una maglietta a vestibilità regolare e poca elasticità. Quando c'è solo la misura del capo, l'elasticità fa le veci dell'ampiezza: sulla Essnce, con elasticità alta, la modella della scheda porta la S, che misura 78 cm, 9 cm meno del suo busto.",
-          "La guida avverte che la misura del capo può variare di 1-2 cm, e la descrizione delle due magliette avverte che il tessuto cambia misura dopo il lavaggio in casa. Se la tua misura cade al limite di una taglia, decidono questi 2 cm. Quindi: un tessuto senza elasticità o con poca elasticità chiede ampiezza, e al limite la taglia sopra; un tessuto con elasticità media o alta accetta meno ampiezza, ma la scelta segue sempre la misura del capo, la vestibilità e l'ampiezza che vuoi, e la tabella del corpo, se c'è, entra nel calcolo. La modella della scheda Essnce è un esempio, non una regola."
+          "Nell’esempio DAZY, la M misura 93 cm e la tabella corporea indica 82–86 cm: differenza di 7–11 cm. Su Essnce, la modella di busto 87 cm indossa la S da 78 cm. Sono due esempi di prodotto, non una formula per ogni tessuto con o senza elastan. L’elasticità non sostituisce la valutazione dell’ampiezza e della vestibilità che vuoi.",
+          "La guida segnala che la misura del capo può variare di 1–2 cm, e le descrizioni delle due magliette dicono che il tessuto cambia dopo il lavaggio in casa. Tra due taglie, considera insieme tabella corporea, misure del capo, taglio ed elasticità. Non salire automaticamente di taglia né scegliere un capo uguale o più piccolo del corpo solo perché il tessuto è elastico. Se mancano dati, verifica le indicazioni del capo prima di ordinare."
         ]
       },
       {
         "heading": "Cosa mostra in più la scheda: la modella e chi ha comprato",
         "paragraphs": [
-          "Dopo la misura, la cosa più utile è la tabella di chi ha comprato, perché mostra persone reali: altezza, peso, busto, vita, fianchi e la taglia ordinata da ciascuna. Cerca lì qualcuno con le tue misure e guarda cosa ha preso. Subito sopra compare la valutazione di vestibilità degli acquirenti, in percentuale: su DAZY, il 93% l'ha trovata fedele alla taglia, il 6% piccola e l'1% grande; su Essnce la scheda dice che il 95% l'ha trovata fedele alla taglia. Una quota alta di «piccola» è un segnale: prendi la taglia sopra.",
+          "Usa le recensioni come supporto: cerca misure e commenti sulla vestibilità senza copiare automaticamente la taglia di un’altra persona. Su DAZY il 93% l’ha giudicata fedele alla taglia, il 6% piccola e l’1% grande; su Essnce il 95% fedele. Queste quote descrivono chi ha valutato ciascun capo. Molti giudizi “piccola” invitano a rileggere guida e recensioni, non a salire automaticamente di taglia.",
           "La modella fa da riferimento per l'altezza. Su DAZY è alta 176 cm, ha 87 cm di busto e porta la M internazionale; su Essnce, 175 cm e 87 cm di busto, con la S. Stesso busto, lettere diverse, in entrambi i marchi: è di nuovo la storia della lettera. Il pulsante dei dettagli su taglia e vestibilità mostra queste misure della modella nella scheda stessa.",
           "Sotto le taglie, alcune schede mostrano un link che suggerisce la taglia. Il centro assistenza SHEIN dice che lo strumento chiede altezza, età e peso per suggerire una taglia. Da loggati, il suggerimento compare da solo su alcuni capi. Usalo come seconda opinione, mai al posto del metro: non chiede né il busto né la vita, ed è proprio lì che cambia la lettera."
         ]
@@ -183704,7 +183704,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se non va bene: il reso",
         "paragraphs": [
-          "Sbagliare taglia costa il tempo di due consegne: il capo torna prima che arrivi quello giusto, ed è per questo che il metro serve prima dell'ordine.",
+          "Se non veste, reso ed eventuale nuovo ordine possono richiedere tempo e denaro. Non è una sequenza garantita di due consegne. Controlla idoneità e politica prima di contarci.",
           "La politica di reso del tuo paese è nel centro assistenza SHEIN. Reso e reputazione del negozio sono in [SHEIN è affidabile?](/it/reviews/shein-e-affidabile-e-sicuro)."
         ]
       },
@@ -183717,9 +183717,9 @@ export const reviewsData: unknown[] = [
           "Misura busto, vita e fianchi e annotali in centimetri.",
           "Apri la guida alle taglie del capo e tienila in CM.",
           "Controlla se la tabella è del capo o del corpo. Confrontala con la tua misura e conta l'ampiezza.",
-          "Leggi il tipo di vestibilità e l'elasticità: un tessuto che non si allunga chiede ampiezza; uno che si allunga accetta meno ampiezza, senza sostituire la misura del capo.",
+          "Leggi taglio ed elasticità con le tabelle; “elastico” non significa scegliere un capo uguale o più piccolo del corpo.",
           "Guarda la valutazione di vestibilità degli acquirenti e cerca nella loro tabella qualcuno con le tue misure.",
-          "Considera una variazione di 1-2 cm sul capo e il cambiamento dopo il lavaggio.",
+          "Verifica la tolleranza nella guida del modello. Le variazioni di 1–2 cm e il cambiamento dopo il lavaggio sono descritte per queste due magliette e non valgono automaticamente per ogni capo.",
           "Conserva la conferma d'ordine e il tracciamento: con quelli si fa il reso, se il capo non va bene."
         ],
         "postParagraphs": [
@@ -183729,10 +183729,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quale taglia ordinare: il riassunto per situazione",
         "bullets": [
-          "Tessuto senza elastan, senza elasticità o con poca (la maglietta DAZY): la taglia la cui misura del capo dà l'ampiezza che preferisci; se la tua misura cade al limite, quella sopra.",
-          "Tessuto con elastan, elasticità media o alta, e solo la misura del capo nella guida (la Essnce): una taglia con meno ampiezza può andare bene, come per la modella della scheda, che è solo un esempio; controlla la misura del capo, la vestibilità e l'ampiezza che vuoi.",
+          "Tessuto senza elastan, senza elasticità o con poca (la maglietta DAZY): confronta tabella corporea e spazio del capo con la vestibilità desiderata; stare al limite non impone da solo la taglia sopra.",
+          "Tessuto con elastan, elasticità media o alta, e solo la misura del capo nella guida (la Essnce): considera taglio, vestibilità e comfort atteso. La S della modella è un esempio di quel prodotto, non una regola per ogni corpo.",
           "Marchio che la scheda segnala come più piccolo (DAZY): leggi la tabella del corpo del marchio stesso, non la tua lettera abituale.",
-          "Tra due taglie e senza certezza: quella che, nella tabella degli acquirenti, ha ordinato chi ha le tue misure; senza nessuno di simile, decide l'ampiezza, con la regola del tessuto."
+          "Tra taglie, unisci tabelle, taglio e recensioni sullo stesso capo. Senza dati sufficienti, verifica le misure o scegli un altro articolo; non copiare automaticamente la taglia altrui."
         ],
         "emphasis": "Se fosse per casa mia, non ordinerei una taglia senza aprire la guida del capo, perché la stessa lettera cambia da marchio a marchio."
       },
@@ -183749,11 +183749,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "La misura del capo nella guida, in centimetri, dà l'ampiezza che preferisci, e tipo di vestibilità ed elasticità corrispondono a ciò che ti aspetti dal tessuto.",
-        "La tabella degli acquirenti della scheda ha qualcuno con le tue misure, e quella persona ha ordinato la taglia che stai per ordinare tu."
+        "Trovi nella tabella degli acquirenti della scheda qualcuno con misure vicine alle tue e lo leggi come supporto."
       ],
       "skipIf": [
         "Hai scelto dalla lettera abituale senza aprire la guida del capo: la stessa lettera cambia da marchio a marchio.",
-        "Ti serve il capo per una data fissa e non puoi aspettare il reso: sbagliare taglia costa il tempo di due consegne."
+        "Ti serve il capo per una data fissa, senza margine per provarlo, renderlo o trovare un’alternativa; un errore di taglia può richiedere un nuovo ordine."
       ]
     }
   },
@@ -183790,7 +183790,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "SHEIN으로 이동",
-      "text": "상품의 사이즈 가이드를 열고, 고르기 전에 cm 치수를 자신의 치수와 비교하십시오.",
+      "text": "가이드를 열고 신체 표인지 상품 표인지 확인하십시오. 같은 종류의 수치를 비교한 뒤 사이즈를 고르십시오.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -183818,7 +183818,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "SHEIN에서는 사이즈를 상품 가이드의 cm 치수로 고릅니다. 글자(M 등)를 늘 입던 기준으로 고르지 마십시오. M도 브랜드마다 치수가 다릅니다. 먼저 자신의 몸을 재고 상품과 비교합니다. 맞지 않으면 반품하면 되며, 방법은 “맞지 않을 때” 장에서 설명합니다."
+          "SHEIN에서는 해당 상품 가이드를 열고, 신체 표는 몸과 비교하며 상품 치수는 옷의 크기와 원하는 핏으로 판단하십시오. 평소 사이즈 글자만으로는 부족합니다. 반품 가능 여부와 비용은 상품과 정책에 따라 다릅니다."
         ]
       },
       {
@@ -183884,7 +183884,7 @@ export const reviewsData: unknown[] = [
           "엉덩이둘레: 엉덩이에서 가장 넓은 부분을, 두 발을 붙인 상태로 잽니다."
         ],
         "postParagraphs": [
-          "세 수치를 cm로 적어 두십시오. SHEIN 가이드는 cm와 인치를 함께 보여주지만, 비교에는 cm를 쓰십시오. 가이드에 재는 법이 함께 나와 있으니, 같은 방식으로 재면 비교가 정확합니다. 티셔츠, 블라우스, 원피스는 가슴둘레가 기준이고, 바지와 치마는 허리와 엉덩이가 기준입니다. 두 수치 사이에서 고민되면 큰 쪽을 쓰십시오. 남는 부분은 조정할 수 있지만 모자란 부분은 그럴 수 없습니다."
+          "치수를 cm로 적고 가이드의 측정법을 따르십시오. 가슴이나 허리만이 아니라 옷에 필요한 부위를 모두 보십시오. 부위별 권장 사이즈가 다르면 핏과 표를 비교하고 쉽게 수선할 수 있다고 가정해 큰 값만 고르지 마십시오."
         ]
       },
       {
@@ -183961,14 +183961,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "여유분은 옷과 자신의 몸의 차이로, 입기 전에 핏이 얼마나 넉넉한지 알려 줍니다. 같은 계산을 DAZY 가이드에 적용하면 M은 가슴둘레 82~86cm인 사람에게 맞습니다. 레귤러 핏이고 신축성이 약간 있는 티셔츠라면 7~11cm의 여유가 남습니다. 상품 치수만 있을 때는 신축성이 여유분의 역할을 합니다. 신축성이 많이 늘어나는 Essnce에서는, 페이지의 모델이 78cm인 S를 입고 있습니다. 이는 모델의 가슴둘레보다 9cm 작은 수치입니다.",
-          "가이드에는 상품 치수가 1~2cm 달라질 수 있다고 나와 있고, 두 티셔츠 모두 집에서 세탁하면 원단 치수가 바뀔 수 있다고 적혀 있습니다. 자신의 치수가 사이즈 경계에 걸리면 이 2cm가 결정합니다. 그러니 신축성이 없거나 약간 있는 원단은 여유가 필요하므로 경계에서는 위 사이즈를 고르고, 신축성이 중간이거나 많이 늘어나는 원단은 여유가 적어도 입을 수 있습니다. 그래도 기준은 상품 치수, 핏, 원하는 여유이고, 신체 치수표가 있으면 함께 보십시오. Essnce 모델은 하나의 예일 뿐 규칙이 아닙니다."
+          "DAZY 예시의 M은 93cm이고 신체 표는 82~86cm이므로 차이는 7~11cm입니다. Essnce 모델은 가슴둘레 87cm로 78cm S를 입습니다. 서로 다른 두 상품의 핏 참고 자료이지 스판덱스 유무에 따른 공통 공식은 아닙니다. 신축성이 여유와 원하는 핏을 판단하는 일을 대신하지 않습니다.",
+          "가이드에는 상품 치수가 1~2cm 달라질 수 있다고 나와 있고, 두 티셔츠의 설명에는 집에서 세탁하면 원단 치수가 바뀔 수 있다고 적혀 있습니다. 두 사이즈 사이에서는 신체 표, 상품 치수, 핏과 신축성을 함께 보십시오. 신축성만으로 사이즈를 크게 고르거나 몸과 같거나 작은 옷을 고르지 마십시오. 정보가 부족하면 해당 상품의 안내를 확인하십시오."
         ]
       },
       {
         "heading": "모델과 구매자: 페이지에 있는 다른 정보",
         "paragraphs": [
-          "치수 다음으로 도움이 되는 것은 구매자 표입니다. 실제 사람들의 데이터가 있기 때문입니다. 키, 몸무게, 가슴둘레, 허리, 엉덩이, 그리고 각자 고른 사이즈를 볼 수 있습니다. 자신과 비슷한 사람을 찾아 무엇을 골랐는지 보십시오. 그 위에는 구매자가 착용감을 어떻게 평가했는지 비율로 나옵니다. DAZY에서는 93%가 사이즈가 맞았다고 했고, 6%는 작다고, 1%는 크다고 답했습니다. Essnce 페이지에는 95%가 사이즈가 맞았다고 나와 있습니다. 작다는 비율이 높으면 위 사이즈를 고르라는 신호입니다.",
+          "구매 후기는 보조 자료로 쓰십시오. 치수와 핏에 대한 의견을 보되 다른 사람의 사이즈를 그대로 고르지 마십시오. DAZY에서는 93%가 사이즈가 맞다고, 6%가 작다고, 1%가 크다고 답했고, Essnce에서는 95%가 사이즈가 맞다고 답했습니다. 이는 각 상품을 평가한 사람들의 비율입니다. 작다는 비율이 높으면 가이드와 후기를 다시 볼 이유가 되지만 자동으로 한 사이즈 올릴 규칙은 아닙니다.",
           "모델은 키의 기준이 됩니다. DAZY에서는 모델이 176cm, 가슴둘레 87cm이고 인터내셔널 M을 입고 있습니다. Essnce에서는 175cm, 가슴둘레 87cm이고 S를 입고 있습니다. 두 브랜드에서 가슴둘레는 같은데 고르는 사이즈 글자가 다릅니다. 사이즈 글자보다 치수로 고르라는 장의 이야기로 돌아갑니다. 페이지의 사이즈와 핏 상세 정보를 열면 그 화면에서 모델의 치수를 볼 수 있습니다.",
           "사이즈 목록 아래에 추천 사이즈를 알려 주는 링크가 있는 페이지도 있습니다. SHEIN 도움말에 따르면 이 기능은 키, 나이, 몸무게를 입력받아 사이즈를 추천합니다. 로그인하면 일부 상품에서는 추천이 자동으로 나타나기도 합니다. 줄자 대신이 아니라 보조 의견으로만 쓰십시오. 가슴둘레나 허리둘레는 묻지 않는데, 사이즈가 달라지는 것이 바로 그 부분입니다."
         ]
@@ -183976,7 +183976,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "맞지 않을 때: 반품",
         "paragraphs": [
-          "사이즈를 잘못 고르면 배송을 두 번 기다려야 합니다. 맞지 않은 상품이 반송된 뒤에야 맞는 상품이 도착하기 때문입니다. 그래서 주문하기 전에 줄자로 재 두는 것이 중요합니다.",
+          "맞지 않으면 반품과 새 주문에 시간과 비용이 들 수 있습니다. 두 번의 배송이 반드시 순서대로 진행된다는 뜻은 아닙니다. 해당 상품과 정책을 먼저 확인하십시오.",
           "거주 국가의 반품 정책은 SHEIN 고객센터에 있습니다. 반품과 쇼핑몰의 평판은 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko)에 정리해 두었습니다."
         ]
       },
@@ -183989,9 +183989,9 @@ export const reviewsData: unknown[] = [
           "가슴둘레, 허리둘레, 엉덩이둘레를 재서 cm로 적어 두십시오.",
           "상품의 사이즈 가이드를 열고, 단위를 cm로 맞추십시오.",
           "표가 상품 치수인지 신체 치수인지 확인하고, 자신의 치수와 비교해 여유분을 계산하십시오.",
-          "핏 타입과 신축성을 읽으십시오. 늘어나지 않는 원단은 여유가 필요하고, 늘어나는 원단은 여유가 적어도 되지만 상품 치수를 확인하는 일은 생략할 수 없습니다.",
+          "핏과 신축성을 표와 함께 읽으십시오. 늘어난다고 몸과 같거나 작은 상품을 고르는 규칙은 아닙니다.",
           "구매자 착용감 평가를 확인하고, 구매자 표에서 자신과 치수가 비슷한 사람을 찾으십시오.",
-          "상품 치수는 1~2cm 차이가 날 수 있고, 세탁 후에도 바뀔 수 있다는 점을 감안하십시오.",
+          "해당 모델 가이드의 허용 오차를 확인하십시오. 1~2cm 차이와 세탁 후 변화는 이 두 티셔츠에 대한 안내이므로 모든 상품에 그대로 적용하지 마십시오.",
           "주문 확인서와 배송 추적 번호를 보관하십시오. 맞지 않을 때 반품은 이 두 가지로 진행됩니다."
         ],
         "postParagraphs": [
@@ -184001,10 +184001,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "어떤 사이즈를 고를까: 상황별 요약",
         "bullets": [
-          "스판덱스가 없는 원단이고 신축성이 없거나 약간 있는 경우(DAZY 티셔츠): 상품 치수를 보고, 원하는 여유가 나오는 사이즈를 고르십시오. 치수가 경계에 걸리면 위 사이즈를 고르십시오.",
-          "스판덱스가 들어 있고 신축성이 중간이거나 많이 늘어나며, 상품 치수만 있는 가이드(Essnce): 여유가 적은 사이즈도 맞을 수 있습니다. 페이지의 모델이 그 예입니다. 상품 치수, 핏, 원하는 여유를 확인하십시오.",
+          "스판덱스가 없는 원단이고 신축성이 없거나 약간 있는 경우(DAZY 티셔츠): 신체 표와 옷의 공간을 원하는 핏과 비교하십시오. 경계라는 이유만으로 크게 고르지 마십시오.",
+          "스판덱스가 들어 있고 신축성이 중간이거나 많이 늘어나며, 상품 치수만 있는 가이드(Essnce): 핏과 편안함을 고려하십시오. 모델의 S는 그 제품의 예시이며 모든 사람에게 적용되는 규칙은 아닙니다.",
           "페이지에서 작게 나온다고 안내하는 브랜드(DAZY): 평소 입던 사이즈 글자가 아니라 그 브랜드의 신체 치수표를 읽으십시오.",
-          "두 사이즈 사이에서 확신이 없을 때: 구매자 표에서 자신과 치수가 비슷한 사람이 고른 사이즈를 보십시오. 비슷한 사람이 없다면 원단의 신축성 기준으로 여유를 정하십시오."
+          "두 사이즈 사이에서 확신이 없을 때: 같은 상품의 표, 핏과 후기를 함께 보십시오. 정보가 부족하면 치수를 확인하거나 다른 옷을 고르고, 다른 사람의 사이즈를 자동으로 따르지 마십시오."
         ],
         "emphasis": "제가 집에서 쓸 옷이라면, 상품의 사이즈 가이드를 열어 보지 않고는 사이즈를 고르지 않습니다. 같은 글자라도 브랜드마다 치수가 다르기 때문입니다."
       },
@@ -184021,11 +184021,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "상품 치수가 cm로 원하는 여유를 주고, 핏 타입과 신축성이 그 원단에 기대하는 것과 맞습니다.",
-        "구매자 표에 자신과 치수가 같은 사람이 있고, 그 사람이 고른 사이즈를 자신도 고릅니다."
+        "치수가 비슷한 구매자의 후기를 보조 정보로 읽을 수 있습니다. 다만 그 사람이 주문한 사이즈가 자신의 핏을 보장하지는 않습니다."
       ],
       "skipIf": [
         "상품 가이드를 열지 않고 평소 사이즈로 골랐습니다. 같은 글자라도 브랜드마다 치수가 다릅니다.",
-        "정해진 날짜까지 꼭 받아야 하고, 사이즈가 틀려 반품을 기다릴 수 없습니다. 배송을 두 번 기다려야 하기 때문입니다."
+        "정해진 날짜까지 상품이 꼭 필요하고, 입어 보거나 반품하거나 대안을 찾을 여유가 없습니다. 사이즈가 맞지 않으면 새로 주문해야 할 수 있습니다."
       ]
     }
   },
@@ -184062,7 +184062,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "SHEIN へ進む",
-      "text": "商品のサイズガイドを開き、サイズを選ぶ前にcmの数字を自分の寸法と比べてください。",
+      "text": "ガイドを開き、身体表か商品寸法表かを確認してください。同じ種類の数値を比較してサイズを選びます。",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -184090,7 +184090,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "SHEINでは、サイズは商品ごとのガイドにあるcm表示で選びます。M・Lといった文字をいつもの感覚で選ぶのはやめてください。Mもブランドによって寸法が違います。まず自分の体を測り、商品と比べます。合わなければ返品します。方法は「合わないとき」の章で説明します。"
+          "SHEINではその商品のガイドを開き、身体表は身体と比べ、商品寸法は服の大きさと好みのフィットで判断してください。普段の文字だけでは不十分です。返品可否と費用は商品と規約によります。"
         ]
       },
       {
@@ -184156,7 +184156,7 @@ export const reviewsData: unknown[] = [
           "ヒップ：お尻のいちばん大きい部分で、足をそろえた状態で測ります。"
         ],
         "postParagraphs": [
-          "3つの数字をcmで書き留めます。SHEINのガイドはcmとインチの両方を載せていますが、比べるときはcmを使ってください。ガイドには測り方の説明もあるので、同じ方法で測れば比較は正確になります。Tシャツ、ブラウス、ワンピースは胸囲が基準で、パンツやスカートはウエストとヒップが基準です。2つの数字で迷ったら大きいほうを使ってください。余った分は調整できますが、足りない分はどうにもなりません。"
+          "寸法をcmで記録し、ガイドの測り方に従ってください。胸や腰だけでなく必要な部位を確認します。部位でサイズが分かれたらフィットと表を比べ、簡単に直せると考えて大きい数値だけを選ばないでください。"
         ]
       },
       {
@@ -184233,14 +184233,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "ゆとりは、服と自分の体の差のことで、着る前にどれくらい余裕があるかがわかります。同じ計算をDAZYのガイドで行うと、Mは胸囲82〜86cmの人向けです。レギュラーフィットで伸縮性がわずかなTシャツなら、7〜11cmのゆとりがあります。商品の寸法しかない場合は、伸縮性がゆとりの役割を果たします。よく伸びるEssnceでは、ページのモデルはSサイズ（78cm）を着ていて、それはモデルの胸囲より9cm小さい数字です。",
-          "ガイドには、商品の寸法が1〜2cmずれることがあると書かれています。2つのTシャツの商品説明にも、家で洗濯すると生地のサイズが変わることがあると書かれています。自分の寸法がサイズの境目にあるなら、この2cmで決まります。そのため、伸縮性がない、またはわずかな生地はゆとりが必要なので、境目では上のサイズを選びます。伸縮性が中くらい、またはよく伸びる生地は、ゆとりが少なめでも着られます。それでも選ぶ基準は、商品の寸法、シルエット、ほしいゆとりで、体の寸法の表があるときはそれも合わせて見ます。Essnceのモデルは一例で、決まりではありません。"
+          "DAZYの例ではMが93cm、身体表が82〜86cmで差は7〜11cmです。Essnceでは胸囲87cmのモデルが78cmのSを着ています。二つの商品の着用例であり、スパンデックスの有無による共通公式ではありません。伸縮性はゆとりと好みのフィットを考える代わりにはなりません。",
+          "ガイドには商品の寸法が1〜2cmずれることがあると書かれ、2つのTシャツの説明には家で洗濯すると生地のサイズが変わることがあると書かれています。二つのサイズの間では、身体表、商品の寸法、フィット、伸縮性を合わせて見てください。伸びることを理由に自動的に上げたり、身体と同じか小さい服を選んだりしないでください。情報が足りなければ、その商品の案内を確認してください。"
         ]
       },
       {
         "heading": "モデルと購入者：ページに載っているほかの情報",
         "paragraphs": [
-          "寸法の次に役立つのは購入者の表です。実際の人のデータが載っているからです。身長、体重、胸囲、ウエスト、ヒップと、その人が選んだサイズがわかります。自分に近い人を探して、何を選んだかを見てください。その上には、購入者が着用感をどう評価したかが割合で出ています。DAZYでは93%がサイズどおりと答え、6%が小さい、1%が大きいと答えています。Essnceのページでは、95%がサイズどおりだと書かれています。小さいという割合が高ければ、上のサイズを選ぶサインです。",
+          "購入者の報告は参考にし、寸法や着用感を確認してください。他人と同じサイズを自動的に選ぶものではありません。DAZYでは93%がサイズどおり、6%が小さい、1%が大きいと答え、Essnceでは95%がサイズどおりでした。これは各商品を評価した人の割合です。「小さい」が多いときはガイドと報告を読み直すきっかけになりますが、一律にサイズを上げる規則ではありません。",
           "モデルは身長の目安になります。DAZYのモデルは176cm、胸囲87cmで、インターナショナルのMを着ています。Essnceのモデルは175cm、胸囲87cmで、Sを着ています。胸囲は同じでも、2つのブランドでは選ぶ文字が違います。ここでも、文字ではなく寸法で選ぶという話になります。ページのサイズと着用感の詳細を開くと、その画面でモデルの寸法が見られます。",
           "サイズの下に、推奨サイズを教えてくれるリンクがあるページもあります。SHEINのヘルプでは、この機能は身長、年齢、体重をもとにサイズを提案すると説明されています。ログインしていると、商品によっては提案が自動で表示されることもあります。メジャーの代わりではなく、あくまで参考意見として使ってください。胸囲もウエストも聞かれませんが、サイズが変わるのはまさにその部分です。"
         ]
@@ -184248,7 +184248,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合わないとき：返品",
         "paragraphs": [
-          "サイズを間違えると、配送を2回待つことになります。合わなかった商品が戻ってから、正しいサイズが届くからです。だから注文の前に、メジャーで測っておくことが大切です。",
+          "合わなければ、返品や新しい注文に時間と費用がかかる場合があります。二回の配送が必ず順番に進むわけではありません。商品の対象条件と規約を先に確認してください。",
           "お住まいの国の返品ポリシーは、SHEINのヘルプセンターにあります。返品と店の評判は[SHEINは信頼できる？](/ja/reviews/shein-trust-guide-ja)にまとめています。"
         ]
       },
@@ -184261,9 +184261,9 @@ export const reviewsData: unknown[] = [
           "胸囲、ウエスト、ヒップを測り、cmで書き留める。",
           "商品のサイズガイドを開き、単位をcmにする。",
           "表が商品の寸法か体の寸法かを確かめ、自分の寸法と比べてゆとりを計算する。",
-          "フィットのタイプと伸縮性を読む。伸びない生地はゆとりが必要で、伸びる生地はゆとりが少なめでも着られるが、商品の寸法を見る手間は省けない。",
+          "フィットと伸縮性を表と合わせて読んでください。伸びるから身体と同じか小さい服を選ぶという規則ではありません。",
           "購入者の着用感の評価を確認し、購入者の表で自分と近い寸法の人を探す。",
-          "商品の寸法は1〜2cmずれることがあり、洗濯後も変わることを見込んでおく。",
+          "その商品のガイドで誤差を確認してください。1〜2cmの差や洗濯後の変化は、この2枚のTシャツの案内であり、すべての商品に当てはまるとは限りません。",
           "注文確認と配送の追跡番号を保存しておく。合わなかったときの返品は、この2つで進む。"
         ],
         "postParagraphs": [
@@ -184273,10 +184273,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "どのサイズを選ぶか：状況別のまとめ",
         "bullets": [
-          "スパンデックスを含まず、伸縮性がない、またはわずかな生地（DAZYのTシャツ）：商品の寸法で、ほしいゆとりが出るサイズを選ぶ。寸法が境目なら、上のサイズ。",
-          "スパンデックスを含み、伸縮性が中くらいかよく伸び、商品の寸法しかないガイド（Essnce）：ゆとりが少なめのサイズでも合うことがある。ページのモデルがその一例です。商品の寸法、フィット、ほしいゆとりを確かめる。",
+          "スパンデックスを含まず、伸縮性がない、またはわずかな生地（DAZYのTシャツ）：身体表と服の空間を、ほしいフィットと比べてください。境目だけを理由に上のサイズを選ばないでください。",
+          "スパンデックスを含み、伸縮性が中くらいかよく伸び、商品の寸法しかないガイド（Essnce）：フィットと快適さを考えてください。モデルのSはその商品の例であり、全員の規則ではありません。",
           "ページで小さめだと注意書きされているブランド（DAZY）：いつものサイズ文字ではなく、そのブランドの体の寸法の表を読む。",
-          "2つのサイズで迷い、確信がないとき：購入者の表で、自分と寸法が近い人が選んだサイズを見る。近い人がいなければ、生地の伸縮性のルールでゆとりを決める。"
+          "2つのサイズで迷い、確信がないとき：同じ商品の表、フィット、口コミを合わせて見てください。情報が足りなければ寸法を確認するか別の服を選び、他人のサイズを自動的にまねしないでください。"
         ],
         "emphasis": "私なら、商品のサイズガイドを開かずにサイズは選びません。同じ文字でもブランドによって寸法が違うからです。"
       },
@@ -184293,11 +184293,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "商品の寸法がcmで、ほしいゆとりが出ていて、フィットのタイプと伸縮性がその生地に期待するものと合っている。",
-        "購入者の表に自分と寸法が同じ人がいて、その人が選んだサイズを自分も選ぶ。"
+        "寸法が近い購入者の口コミを補助情報として読める。ただ、その人の注文サイズは自分のフィットを保証しない。"
       ],
       "skipIf": [
         "商品のガイドを開かず、いつものサイズで選んだ。同じ文字でもブランドによって寸法が違います。",
-        "決まった日までに商品が必要で、サイズ違いの返品を待てない。配送を2回待つことになるからです。"
+        "決まった日までに商品が必要で、試着や返品、代替品を探す余裕がない。サイズが合わなければ、再注文が必要になることがある。"
       ]
     }
   },
@@ -184334,7 +184334,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "前往 SHEIN",
-      "text": "打開商品的尺碼表，選字母前先把公分數和自己的尺寸比一比。",
+      "text": "開啟尺碼表，先分身體表與商品表；比較相同類型數字後再選碼。",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -184362,7 +184362,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "在 SHEIN，尺碼要依每件商品尺碼表裡的公分數來選，不要只憑平常的字母。M 會因品牌而不同。先量好自己的身形，再和商品比較。不合適就退貨，“不合適時”那一章會說明怎麼做。"
+          "在SHEIN請開啟該件商品尺碼表。身體表與身體比較，商品尺寸則看衣物大小和想要版型。平常字母不夠；退貨可否與費用依商品和政策而定。"
         ]
       },
       {
@@ -184428,7 +184428,7 @@ export const reviewsData: unknown[] = [
           "臀圍：臀部最寬的地方，雙腳併攏時量。"
         ],
         "postParagraphs": [
-          "把三個數字以公分寫下來。SHEIN 尺碼表同時有公分和英吋，比較時請用公分。尺碼表本身也有量法說明，量法一致，比較才準確。T 恤、襯衫和洋裝看胸圍；褲子和裙子看腰圍和臀圍。兩個數字之間拿不定主意，就用較大的那個：多出來的部分可以調整，不夠的就沒辦法了。"
+          "把尺寸記成公分並照表內量法測量。確認衣物需要的各部位，不只胸或腰。不同部位指向不同碼時比較版型與表，不要假設容易修改就只選較大數字。"
         ]
       },
       {
@@ -184505,14 +184505,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "寬鬆量是衣服和你身體之間的差距，穿之前就能看出版型鬆緊。用 DAZY 的尺碼表來算：M 碼適合胸圍 82 到 86 公分的人。常規版型、稍有彈性的 T 恤，還留有 7 到 11 公分的寬鬆。只有商品尺寸時，彈性就取代寬鬆的作用。Essnce 的彈性很大，頁面上的模特穿 S 碼，S 碼尺寸是 78 公分，比模特的胸圍小 9 公分。",
-          "尺碼表寫明，商品尺寸可能有 1 到 2 公分的誤差；兩件 T 恤的說明也都提到，布料在家洗過後尺寸會變。如果你的尺寸剛好落在兩個尺碼的交界，這 2 公分就會決定結果。所以：布料沒有彈性或稍有彈性，需要寬鬆，交界就選大一號；布料彈性中等或很大，可以接受較少的寬鬆，但選碼仍要看商品尺寸、版型和你想要的寬鬆量，有身體尺寸表時也一併參考。Essnce 頁面上的模特只是一個例子，不是規則。"
+          "DAZY例子的M為93公分，身體表為82–86公分，差7–11公分。Essnce模特胸圍87公分，穿78公分的S。這是兩件商品的版型參考，不是有無氨綸的共通公式。彈性不能取代寬鬆量與想要版型的判斷。",
+          "尺碼表寫明商品尺寸可能有1至2公分的誤差，兩件T恤的說明也提到布料在家洗後尺寸會變。介於兩碼時，請合看身體表、商品尺寸、版型與彈性。會伸縮不能作為自動加大或選等於、小於身體尺寸衣物的理由。資料不足時先確認該商品說明。"
         ]
       },
       {
         "heading": "模特與買家：頁面上的其他資訊",
         "paragraphs": [
-          "尺寸之後最有用的是買家表，因為它呈現的是真實的人：身高、體重、胸圍、腰圍、臀圍，以及她們各自選的尺碼。找一個和你尺寸相近的人，看她選了什麼。表格上方是買家對合身度的評價（以百分比顯示）：DAZY 頁面上，93% 的人覺得尺寸合適，6% 覺得偏小，1% 覺得偏大；Essnce 頁面寫明 95% 的人覺得尺寸合適。偏小的比例高，就是提醒你選大一號。",
+          "買家回饋可作參考，請看尺寸與穿著感受，不要自動照抄別人的尺碼。DAZY顯示93%合適、6%偏小、1%偏大，Essnce顯示95%合適。這是評價該商品的買家比例。「偏小」較多是重讀尺碼表與回饋的理由，不是自動買大一號的規則。",
           "模特可以用來參考身高。DAZY 的模特身高 176 公分、胸圍 87 公分，穿國際 M 碼；Essnce 的模特身高 175 公分、胸圍 87 公分，穿 S 碼。同樣的胸圍，兩個品牌選的字母卻不一樣，這又回到字母的問題。頁面上的尺寸與版型細節裡，可以看到模特的尺寸。",
           "有些頁面在尺碼下方有一個推薦尺碼的連結。SHEIN 幫助中心說明，這項功能要輸入身高、年齡和體重才會推薦尺碼。登入後，部分商品還會自動顯示推薦。把它當作第二意見就好，不能取代軟尺：它不問你的胸圍和腰圍，而字母恰恰是因為這些數字才會不同。"
         ]
@@ -184520,7 +184520,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "不合適時：退貨",
         "paragraphs": [
-          "選錯字母要多等兩趟配送：錯的商品先退回，對的才會寄到。所以下單前先用軟尺量好。",
+          "不合身時，退貨與重新下單可能花時間和費用，不是兩趟配送必定依序進行。先確認商品資格與政策再決定。",
           "你所在國家的退貨政策，寫在 SHEIN 幫助中心。退貨與店家口碑，請看 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。"
         ]
       },
@@ -184533,9 +184533,9 @@ export const reviewsData: unknown[] = [
           "量好胸圍、腰圍和臀圍，以公分記下來。",
           "打開商品的尺碼表，單位保持為公分。",
           "確認表格是商品尺寸還是身體尺寸，和你的尺寸比較，算出寬鬆量。",
-          "看版型和彈性：不會伸縮的布料需要寬鬆；會伸縮的可以接受較少的寬鬆，但仍要看商品尺寸。",
+          "看版型和彈性：與表格合看；會伸縮不是選等於或小於身體尺寸衣物的規則。",
           "看買家對合身度的評價，並在買家表裡找和你尺寸相近的人。",
-          "商品尺寸可能有 1 到 2 公分的誤差，洗過後也會變，都要算進去。",
+          "確認該款尺碼表的誤差說明。1至2公分的差異和洗後變化是這兩件T恤的說明，不能套用到所有商品。",
           "保存訂單確認與物流單號：不合適時，退貨要靠它們辦理。"
         ],
         "postParagraphs": [
@@ -184545,10 +184545,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "怎麼選碼：各種情況一覽",
         "bullets": [
-          "布料不含氨綸、沒有彈性或稍有彈性（DAZY 的 T 恤）：看商品尺寸，選出能留給你所需寬鬆的尺碼；尺寸正好卡在交界，就選大一號。",
-          "布料含氨綸、彈性中等或很大，且只有商品尺寸（Essnce）：寬鬆量較少的尺碼也可能合適，頁面上的模特就是一例；請核對商品尺寸、版型和你想要的寬鬆量。",
+          "布料不含氨綸、沒有彈性或稍有彈性（DAZY 的 T 恤）：將身體表和衣物空間與想要的版型比較，不能只因交界就自動加大。",
+          "布料含氨綸、彈性中等或很大，且只有商品尺寸（Essnce）：考慮版型與舒適度。模特的S只是該商品的例子，不是所有身形的規則。",
           "頁面提醒偏小的品牌（DAZY）：不要看你平常的字母，要讀該品牌自己的身體尺寸表。",
-          "兩個尺碼之間拿不定主意：看買家表裡和你尺寸相近的人選了哪個。找不到相近的人，就照布料的規則，由寬鬆量來決定。"
+          "兩個尺碼之間拿不定主意：合看同件商品的表、版型與心得。資料不足就確認尺寸或選別件，不要自動照別人的尺碼買。"
         ],
         "emphasis": "如果是我自己要買，我不會不打開商品的尺碼表就選碼，因為同一個字母在不同品牌裡尺寸不同。"
       },
@@ -184565,11 +184565,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "商品尺寸的公分數能給你想要的寬鬆，版型和彈性也符合你對布料的期待。",
-        "買家表裡有和你尺寸相同的人，而且她選的尺碼就是你要選的。"
+        "你能把尺寸相近買家的心得當作輔助參考。不過，她下單的尺碼不保證你的合身度。"
       ],
       "skipIf": [
         "沒有打開商品的尺碼表，只憑平常的字母選碼。同一個字母在不同品牌裡尺寸不同。",
-        "你要在指定日期前拿到商品，等不起退貨。選錯字母要多等兩趟配送。"
+        "你需要在固定日期前拿到商品，沒有試穿、退貨或找替代品的餘裕。選錯字母可能需要重新下單。"
       ]
     }
   },
@@ -184606,7 +184606,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "前往 SHEIN",
-      "text": "打开商品的尺码表，选字母之前先把厘米数和自己的尺寸比一比。",
+      "text": "打开尺码表，先分身体表与商品表；比较相同类型数字后再选码。",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -184634,7 +184634,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "在 SHEIN，尺码要按每件商品尺码表里的厘米数来选，不能只凭平时的字母。M 会因品牌而不同。先量好自己的身材，再和商品比较。不合适就退货，“不合适时”一章会说明怎么做。"
+          "在SHEIN请打开该件商品尺码表。身体表与身体比较，商品尺寸则看衣物大小和想要版型。平时字母不够；退货可否与费用按商品和政策判断。"
         ]
       },
       {
@@ -184700,7 +184700,7 @@ export const reviewsData: unknown[] = [
           "臀围：臀部最宽的地方，双脚并拢时量。"
         ],
         "postParagraphs": [
-          "把三个数字以厘米写下来。SHEIN 尺码表同时有厘米和英寸，比较时请用厘米。尺码表本身也有量法说明，量法一致，比较才准确。T 恤、衬衫和连衣裙看胸围，裤子和裙子看腰围和臀围。两个数字之间拿不准，就用较大的那个：多出来的部分可以调整，不够的就没办法了。"
+          "把尺寸记成厘米并按表内量法测量。确认衣物需要的各部位，不只胸或腰。不同部位指向不同码时比较版型与表，不要假设容易修改就只选较大数字。"
         ]
       },
       {
@@ -184777,14 +184777,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "宽松量是衣服和你身体之间的差值，穿之前就能看出版型的松紧。用 DAZY 的尺码表来算：M 码适合胸围 82 到 86 厘米的人。常规版型、略有弹性的 T 恤，还留有 7 到 11 厘米的宽松。只有商品尺寸时，弹性就代替了宽松的作用。Essnce 的弹性很大，页面上的模特穿的是 S 码，S 码尺寸 78 厘米，比模特的胸围小 9 厘米。",
-          "尺码表写明，商品尺寸可能有 1 到 2 厘米的误差；两件 T 恤的说明也都提到，面料在家洗过后尺寸会变。如果你的尺寸正好卡在两个尺码的边界，这 2 厘米就会决定结果。所以：面料没有弹性或略有弹性，需要宽松，边界上选大一号；面料弹性中等或很大，可以接受较少的宽松，但选码仍要看商品尺寸、版型和你想要的宽松量，有身体尺寸表时也一并参考。Essnce 页面上的模特只是一个例子，不是规则。"
+          "DAZY例子的M为93厘米，身体表为82–86厘米，差7–11厘米。Essnce模特胸围87厘米，穿78厘米的S。这是两件商品的版型参考，不是有无氨纶的通用公式。弹性不能代替宽松量与想要版型的判断。",
+          "尺码表写明商品尺寸可能有1至2厘米的误差，两件T恤的说明也提到面料在家洗后尺寸会变。介于两码时，请合看身体表、商品尺寸、版型与弹性。会伸缩不能作为自动加大或选等于、小于身体尺寸衣物的理由。资料不足时先确认该商品说明。"
         ]
       },
       {
         "heading": "模特和买家：页面上的其他信息",
         "paragraphs": [
-          "尺寸之后最有用的是买家表，因为它展示的是真实的人：身高、体重、胸围、腰围、臀围，以及她们各自选的尺码。找一个和你尺寸相近的人，看她选了什么。表格上方是买家对合身度的评价（按百分比显示）：DAZY 页面上，93% 的人觉得尺寸合适，6% 觉得偏小，1% 觉得偏大；Essnce 页面写明 95% 的人觉得尺寸合适。偏小的比例高，就是提醒你选大一号。",
+          "买家反馈可作参考，请看尺寸与穿着感受，不要自动照抄别人的尺码。DAZY显示93%合适、6%偏小、1%偏大，Essnce显示95%合适。这是评价该商品的买家比例。“偏小”较多是重读尺码表与反馈的理由，不是自动买大一号的规则。",
           "模特可以用来参考身高。DAZY 的模特身高 176 厘米、胸围 87 厘米，穿国际 M 码；Essnce 的模特身高 175 厘米、胸围 87 厘米，穿 S 码。同样的胸围，两个品牌选的字母却不一样，这又回到字母的问题。页面上的尺寸与版型细节里，可以看到模特的尺寸。",
           "有些页面在尺码下方有一个推荐尺码的链接。SHEIN 帮助中心说明，这项功能要输入身高、年龄和体重才会推荐尺码。登录后，部分商品还会自动显示推荐。把它当作第二意见就好，不能代替软尺：它不问你的胸围和腰围，而字母恰恰是因为这些数字才会不同。"
         ]
@@ -184792,7 +184792,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "不合适怎么办：退货",
         "paragraphs": [
-          "选错字母要多等两次配送：错的商品先退回，对的才会送到。所以下单前先用软尺量好。",
+          "不合身时，退货与重新下单可能花时间和费用，不是两次配送必定依次进行。先确认商品资格与政策再决定。",
           "你所在国家的退货政策，写在 SHEIN 帮助中心。退货与店铺口碑，请看 [SHEIN 靠谱吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。"
         ]
       },
@@ -184805,9 +184805,9 @@ export const reviewsData: unknown[] = [
           "量好胸围、腰围和臀围，以厘米记下来。",
           "打开商品的尺码表，单位保持为厘米。",
           "确认表格是商品尺寸还是身体尺寸，和你的尺寸比较，算出宽松量。",
-          "看版型和弹性：不会伸缩的面料需要宽松；会伸缩的可以接受较少的宽松，但仍要看商品尺寸。",
+          "看版型和弹性：与表格合看；会伸缩不是选等于或小于身体尺寸衣物的规则。",
           "看买家对合身度的评价，并在买家表里找和你尺寸相近的人。",
-          "商品尺寸可能有 1 到 2 厘米的误差，洗过后也会变，都要算进去。",
+          "确认该款尺码表的误差说明。1至2厘米的差异和洗后变化是这两件T恤的说明，不能套用到所有商品。",
           "保存订单确认和物流单号：不合适时，退货要靠它们办理。"
         ],
         "postParagraphs": [
@@ -184817,10 +184817,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "怎么选码：各种情况一览",
         "bullets": [
-          "面料不含氨纶，没有弹性或略有弹性（DAZY T 恤）：看商品尺寸，选出能留给你所需宽松的尺码；尺寸正好卡在边界，就选大一号。",
-          "面料含氨纶，弹性中等或很大，且只有商品尺寸（Essnce）：宽松量较少的尺码也可能合适，页面上的模特就是一例；请核对商品尺寸、版型和你想要的宽松量。",
+          "面料不含氨纶，没有弹性或略有弹性（DAZY T 恤）：将身体表和衣物空间与想要的版型比较，不能只因边界就自动加大。",
+          "面料含氨纶，弹性中等或很大，且只有商品尺寸（Essnce）：考虑版型与舒适度。模特的S只是该商品的例子，不是所有身形的规则。",
           "页面提醒偏小的品牌（DAZY）：不要看你平时的字母，要读该品牌自己的身体尺寸表。",
-          "两个尺码之间拿不定主意：看买家表里和你尺寸相近的人选了哪个。找不到相近的人，就按面料的规则，由宽松量来决定。"
+          "两个尺码之间拿不定主意：合看同件商品的表、版型与心得。资料不足就确认尺寸或选别件，不要自动照别人的尺码买。"
         ],
         "emphasis": "如果是为我自己买，我不会不打开商品的尺码表就选码，因为同一个字母在不同品牌里尺寸不同。"
       },
@@ -184837,11 +184837,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "商品尺寸的厘米数能给你想要的宽松，版型和弹性也符合你对面料的期待。",
-        "买家表里有和你尺寸相同的人，而且她选的尺码就是你要选的。"
+        "你能把尺寸相近买家的心得当作辅助参考。不过，她下单的尺码不保证你的合身度。"
       ],
       "skipIf": [
         "没有打开商品的尺码表，只凭平时的字母选码。同一个字母在不同品牌里尺寸不同。",
-        "你要在指定日期前拿到商品，等不起退货。选错字母要多等两次配送。"
+        "你需要在固定日期前拿到商品，没有试穿、退货或找替代品的余地。选错字母可能需要重新下单。"
       ]
     }
   },
