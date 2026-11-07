@@ -51919,7 +51919,7 @@ export const reviewsData: unknown[] = [
           "O cupom MAUAD vale para produtos em promoção? No teste, foi aceito num jogo de xícaras com preço promocional e numa panela em pré-venda. Confira a aplicação no resumo do seu pedido.",
           "O cupom MAUAD tem valor mínimo de compra? No teste, o código funcionou num carrinho com um único item de R$ 62,90. Confira a condição no checkout.",
           "O MAUAD dá desconto no frete? O desconto apareceu sobre o subtotal dos produtos. O frete é calculado na etapa seguinte do checkout, pelo CEP e pelo peso do pedido.",
-          "A Let's Eat It tem frete grátis? Na compra, o frete é calculado pelo CEP e pelo peso do pedido. Confira o valor para seu CEP no checkout.",
+          "A Let's Eat It tem frete grátis? Em geral, não: o frete é calculado pelo CEP e pelo peso do pedido. A política padrão da loja cita frete grátis acima de R$ 1.000 em Le Creuset e Zwilling; confirme no carrinho.",
           "Posso usar o cupom MAUAD mais de uma vez? A loja não publica regra de uso por CPF ou por conta. Se houver limite, o checkout informa ao aplicar o código.",
           "O MAUAD se soma ao desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% que a loja dá nos produtos com desconto no Pix. Pela nossa conta, o jogo de xícaras de R$ 62,90 do nosso teste sairia por R$ 56,77, sem o frete.",
           "Como funciona o cashback da Let's Eat It? A cada compra, a loja envia por WhatsApp um cupom de 30% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja, e a combinação com outros cupons segue as condições dela.",
@@ -61638,7 +61638,7 @@ export const reviewsData: unknown[] = [
           "Porto Brasil vai na lava-louças? Sim, na maior parte das peças dos dois materiais; os conjuntos com filamento de ouro não vão.",
           "Porto Brasil é de onde? A fábrica fica em Porto Ferreira (SP); a empresa foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
           "Porto Brasil ou Oxford: qual escolher? Compare o material e o uso da peça específica. Há stoneware da Porto Brasil com forno declarado, e o catálogo Oxford Ryo e Unni não traz essa indicação.",
-          "A Porto Brasil é confiável? No Reclame Aqui, tem reputação ÓTIMA: nota 8,4 de 10 no período analisado, com todas as 110 reclamações respondidas e 84,3% resolvidas. Isso mede o atendimento da fabricante, não a durabilidade das peças."
+          "A Porto Brasil é confiável? Pelo Reclame Aqui, sim. A reputação é ÓTIMA: nota 8,4 de 10 no período analisado, com todas as 110 reclamações respondidas e 84,3% resolvidas. Isso mede o atendimento da fabricante, não a durabilidade das peças."
         ]
       }
     ],
@@ -75181,7 +75181,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para comprar com cautela: a reputação no Reclame Aqui foi Boa nos últimos 6 meses (nota 7,4) e Ótima nos 12 meses (nota 8,1). O ponto de atenção é a recompra: 52,6% das 38 reclamações avaliadas nos últimos 6 meses disseram que voltariam a fazer negócio. Para o desconto, use o [cupom Dr. Peanut](/cupons/dr-peanut)."
+          "Dá para confiar, com cautela: a reputação no Reclame Aqui foi Boa nos últimos 6 meses (nota 7,4) e Ótima nos 12 meses (nota 8,1). O ponto de atenção é a recompra: 52,6% das 38 reclamações avaliadas nos últimos 6 meses disseram que voltariam a fazer negócio. Para o desconto, use o [cupom Dr. Peanut](/cupons/dr-peanut)."
         ]
       },
       {
@@ -79683,7 +79683,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Vale. O **CECILIA10** dá 10% de desconto em todo o site da Black Skull, vale com todas as formas de pagamento e soma com as promoções vigentes. O desconto vem em cima do preço já reduzido, sem substituí-lo.",
           "No nosso teste na sacola, havia uma regata, um kit de whey, creatina e pré-treino e uma glutamina. Dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
-          "Esse teste foi feito em outubro, em itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes, e a combinação com o desconto progressivo ainda não foi verificada. Aplique o código na sacola e confira o valor abatido: a linha \"Descontos\" pode reunir mais de um desconto.",
+          "Esse teste foi feito em outubro, em itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes e com o desconto progressivo. Aplique o código na sacola e confira o valor abatido: a linha \"Descontos\" pode reunir mais de um desconto.",
           "O passo a passo do campo do cupom está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições do dia ficam na [página do cupom da Black Skull](/cupons/black-skull)."
         ],
         "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
@@ -79769,7 +79769,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Black Skull? A Black November já começou, com desconto progressivo de 15% a 25% nos produtos da página da campanha. A página da loja diz que as ofertas ficam disponíveis durante todo o mês e que a Black Friday acontece na última sexta-feira de novembro; a loja não informa data de fim.",
           "Qual é o cupom da Black Skull na Black Friday? O CECILIA10, 10% em todo o site, em todas as formas de pagamento. É o mesmo código do resto do ano, e as condições do dia ficam na página do cupom da Black Skull.",
-          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste de outubro, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Com o desconto progressivo, a combinação ainda não foi verificada; a linha Descontos da sacola mostra o valor abatido.",
+          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste de outubro, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Com o desconto progressivo, o cupom também soma; a linha Descontos da sacola mostra o valor abatido.",
           "O CECILIA10 vale em qualquer forma de pagamento? Vale em todas as formas de pagamento da loja: cartão em até 8 vezes sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4 vezes sem juros e boleto à vista.",
           "O frete da Black Skull é grátis? Depende da região. O frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
           "A Black Skull tem desconto no Pix? A loja não anuncia desconto próprio no Pix. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o CECILIA10 vale nelas.",
@@ -82215,7 +82215,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Black Skull ou Max Titanium: qual é melhor? Nos preços de catálogo de outubro, o Whey 80% HD e o Creator da Black Skull tinham menor custo por grama de proteína e por dose de creatina. Fórmula, sabor escolhido e preço final atual podem mudar a escolha.",
           "Qual whey é melhor, Black Skull ou Max Titanium? Depende do critério. Mais proteína por dose é o Top Whey 3W + Performance (32 g) ou o Whey 3W Core (31 g); menor preço por 100 g de proteína é o Whey 80% HD da Black Skull.",
-          "Black Skull é boa marca? A comparação cobre só rótulo e preço, sem avaliar sabor, dissolução ou qualidade geral. A origem da empresa está na seção sobre as duas marcas, acima.",
+          "Black Skull é boa marca? Pelo que a empresa publica, sim: CNPJ ativo e regras de compra no site. A comparação cobre só rótulo e preço, sem avaliar sabor, dissolução ou qualidade geral.",
           "Black Skull é brasileira? É da Integralmédica? É brasileira, da GDS Grow Dietary Supplements do Brasil, em Embu das Artes (SP). Nenhuma fonte oficial liga a marca à Integralmédica.",
           "Max Titanium é brasileira? Sim. A marca é do Grupo Supley, o mesmo da Probiótica e da Dr. Peanut.",
           "Whey Max Titanium vale a pena? O 100% Whey dá 21 g de proteína em 30 g, a R$ 7,01 por dose no pote e R$ 6,55 no refil. Com o cupom de até 10% e o desconto de até 5% no Pix, a dose fica mais barata; se compensa depende do critério que pesa para você.",
@@ -90239,7 +90239,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Nos preços de outubro, sem frete, a Black Skull tinha o menor custo por 100 g de proteína e de creatina entre os produtos comparados pelo preço no cartão.",
+        "emphasis": "Pelos números da tabela, a Black Skull tem o menor custo por 100 g de proteína e de creatina entre os produtos comparados, no cartão e sem frete.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
@@ -119050,7 +119050,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
-          "Se você já ia comprar no site oficial da Skelt, aplique SKEMCASACOMCECILIA e compare o total com e sem o código, incluindo frete e brinde. O cupom dá 10% e somou com a promoção e com o Pix nos testes deste guia. Se a compra for pelo Mercado Livre, compare com o preço do anúncio: o código não vale lá.",
+          "Se você já ia comprar no site oficial da Skelt, aplique SKEMCASACOMCECILIA e compare o total com e sem o código, incluindo frete e brinde. O cupom dá 10% e soma com a promoção e com o Pix. Se a compra for pelo Mercado Livre, compare com o preço do anúncio: o código não vale lá.",
           "Antes de comprar, leia também [Skelt é confiável?](/reviews/skelt-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/skelt-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -119059,7 +119059,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Skelt? O cupom é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial da Skelt.",
           "O cupom Skelt soma com produto em promoção? Sim. No nosso teste, os 10% entraram sobre o mousse que já estava com a promoção do site.",
-          "O cupom SKEMCASACOMCECILIA soma com o Pix? No teste, sim: o desconto do Pix da loja foi aplicado depois do cupom. A tabela mostra a ordem e os valores; confira a condição do Pix no seu resumo antes de pagar.",
+          "O cupom SKEMCASACOMCECILIA soma com o Pix? Sim. O Pix de 5% da loja entra sobre o total que já tem o cupom. A tabela mostra a ordem e os valores.",
           "O cupom soma com o PRIMEIRA10? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar o PRIMEIRA10 trocou o SKEMCASACOMCECILIA.",
           "O cupom tira o brinde? Pode tirar. O valor mínimo dos brindes conta o pedido depois dos descontos, então o cupom e o Pix podem deixar o total abaixo da faixa.",
           "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial da Skelt. No Mercado Livre, vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link de compra da marca](https://meli.la/2unTb7k), que abre antes a página da Cecília no Mercado Livre, como todo link meli.la.",
@@ -119212,7 +119212,7 @@ export const reviewsData: unknown[] = [
           "No teste, sem finalizar a compra, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12. No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26."
         ],
         "bullets": [
-          "Pix: em outubro, os 5% entraram depois do cupom. Confira a condição vigente no resumo.",
+          "Pix: o desconto de 5% entra depois do cupom, sobre o total que já está com desconto.",
           "Um cupom por pedido: a loja aceita só um. Se você aplicar outro código da loja, como o de primeira compra, ele troca o nosso.",
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
         ],
@@ -119279,7 +119279,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Preços de outubro registrados para comparar com as ofertas de novembro",
       "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site, com as promoções da loja",
-      "Em outubro, o Pix descontou 5% sobre o total já com o cupom; confira a condição vigente",
+      "O Pix da loja desconta mais 5% sobre o total já com o cupom",
       "Frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste"
     ],
     "cons": [
@@ -123021,7 +123021,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kits para presente: a conta contra os avulsos",
         "paragraphs": [
           "A tabela compara o preço de cada kit com a soma dos produtos avulsos. A última coluna simula o kit com o cupom SKEMCASACOMCECILIA e mais 5% do Pix. No teste de carrinho, o cupom valeu em kit e somou com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt).",
-          "Para o frasco avulso, a conta sobre R$ 99,90 fica em R$ 89,91 com cupom e em R$ 85,41 com cupom e mais 5% do Pix. Os valores dependem do preço e das condições do dia."
+          "Para o frasco avulso, a conta sobre R$ 99,90 fica em R$ 89,91 com cupom e em R$ 85,41 com cupom e mais 5% do Pix."
         ],
         "comparisonTable": {
           "headers": [
@@ -123767,7 +123767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Black Skull comprar",
         "paragraphs": [
-          "O 80% HD Refil 900 g tem o menor custo por proteína entre as versões comparadas. Para uma mistura de proteínas, o 100% HD e o 3W Core pedem outra conta, porque dose, composição e volume da compra mudam. Os capítulos abaixo mostram cada escolha."
+          "O 80% HD Refil 900 g tem o menor custo por proteína entre as versões comparadas. Para uma mistura de proteínas, o 100% HD de 1,8 kg tem o menor custo da linha 100% HD, e o 3W Core declara 31 g de proteína por porção, com custo maior por proteína."
         ]
       },
       {
@@ -125994,7 +125994,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na Dr. Peanut, Banoffee e Beijinho saem só no pote de 600 g, e o Doce de Leite só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A página da La Ganexa não mostrava a tabela do Cookies, só os ingredientes, então ele fica fora da tabela por sabor."
+          "Na Dr. Peanut, Banoffee e Beijinho saem só no pote de 600 g, e o Caramelo Salgado só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A página da La Ganexa não mostrava a tabela do Cookies, só os ingredientes, então ele fica fora da tabela por sabor."
         ],
         "paragraphs": [
           "As contas usam 100 g para igualar porções e tamanhos diferentes."
@@ -166046,8 +166046,8 @@ export const reviewsData: unknown[] = [
           "A Bagaggio vende vale-presente? Vende, na página vale-presente do site, com compra virtual num site parceiro de cartões. Não conferimos valores nem regras.",
           "A Bagaggio tem embalagem para presente? Tem a lata de alumínio para carteira, de R$ 19,90, vendida avulsa no site.",
           "O cupom CECILIA10 vale no Mercado Livre? Não. Ele vale no site oficial da Bagaggio. No Mercado Livre, vale o preço do anúncio, sem o cupom.",
-          "Qual é o presente da Bagaggio até R$ 100? Há carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook, de R$ 29,90 a R$ 79,90 no cartão. Confira o preço atual.",
-          "O kit Joá custa menos que as peças separadas? Não. O kit de R$ 699,80 é a soma da mochila Joá Preto, de R$ 599,90, e da carteira vertical Joá Preta, de R$ 99,90. Compare os preços atuais."
+          "Qual é o presente da Bagaggio até R$ 100? Há carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook, de R$ 29,90 a R$ 79,90 no cartão.",
+          "O kit Joá custa menos que as peças separadas? Não. O kit de R$ 699,80 é a soma da mochila Joá Preto, de R$ 599,90, e da carteira vertical Joá Preta, de R$ 99,90."
         ]
       }
     ],
@@ -166559,7 +166559,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Skelt pede pelo menos 3 dias depois da aplicação. Antes desse prazo, a página não indica o removedor. Se a ideia é um bronze para hoje, o [bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) é outro produto, com instruções próprias.",
           "O banho após o tempo de ação do [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) faz parte do ciclo de aplicação desse produto. Não use essa instrução como alternativa geral ao removedor.",
-          "Para outro autobronzeador, siga as instruções da embalagem e não recorra a misturas caseiras. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
+          "Para outro autobronzeador, siga as instruções da embalagem. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
         ],
         "image": {
           "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-mao.webp",
@@ -174236,8 +174236,8 @@ export const reviewsData: unknown[] = [
           "A escolha começa pela companhia e pela franquia da passagem. Nos limites de LATAM e Azul citados acima, três modelos ficam dentro de 45 × 35 × 20 cm sem expansão. Confirme a franquia do seu voo e meça a mochila carregada antes de decidir."
         ],
         "bullets": [
-          "Só com a mochila, sem pagar bagagem: Explore fechada (33 litros, R$ 299,90) ou Vacuum Airtrack (28,1 litros, R$ 499,90). A loja declara 33 litros para a Explore, mas confira a medida carregada antes de contar com essa capacidade. A Airtrack comprime a roupa só com a bomba, que leva o kit a R$ 574,85.",
-          "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90. Fechada, tem 23 litros e 15 cm de profundidade e cabe no compartimento de cima; expandida, passa dos 25 cm de profundidade da mala pequena, então meça carregada e confira a companhia e a tarifa.",
+          "Só com a mochila, sem pagar bagagem: Explore fechada (33 litros, R$ 299,90) ou Vacuum Airtrack (28,1 litros, R$ 499,90). A Airtrack comprime a roupa só com a bomba, que leva o kit a R$ 574,85.",
+          "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90. Fechada, tem 23 litros e 15 cm de profundidade e cabe no compartimento de cima; expandida, passa dos 25 cm de profundidade da mala pequena.",
           "Trabalho e viagem curta, com notebook de até 15,6 polegadas: Donna Grande, R$ 299,90, lembrando que ela só entra como mala pequena.",
           "Quer a nécessaire junto: kit Royale, R$ 449,80, com 20 litros na mochila e medida de item pessoal."
         ],
@@ -174260,7 +174260,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "emphasisAfterParagraph": 1,
-        "emphasis": "Se fosse para mim, eu começaria pela Explore, pelo preço de R$ 299,90 e pela medida fechada informada pela loja. Antes de comprar para voar só com ela, confirmaria a franquia e a medida da mochila carregada."
+        "emphasis": "Se fosse para mim, eu começaria pela Explore, pelo preço de R$ 299,90 e pela medida fechada informada pela loja."
       },
       {
         "heading": "Perguntas frequentes",
@@ -178191,7 +178191,7 @@ export const reviewsData: unknown[] = [
           "O Ultra Sérum Niacinamida declara niacinamida a 10%, 30 mL e lista completa de ingredientes na página. Pelos preços de lista e volumes da tabela, custa R$ 2,30 por mL, empatado com os outros Ultra Séruns de 30 mL comparados.",
           "A loja informa: o Ultra Sérum Niacinamida é \"a mesma fórmula da Solução Niacinamida, agora em uma nova embalagem\", e a composição leva Parfum. O que a página promete para a pele é frase da marca, e este texto não repete.",
           "Regra prática, sem teste nosso, para quem evita perfume em produto de rosto: leia a lista de ingredientes antes de fechar, porque este sérum leva Parfum e a página mostra a lista inteira. Gestante, lactante e quem tem alguma condição de pele: a própria página manda ao médico ou ao dermatologista, e na dúvida é ele quem responde, não o rótulo.",
-          "É uma opção para quem procura niacinamida com concentração e volume declarados. Se você evita perfume em produto de rosto, considere que a composição leva Parfum."
+          "É uma opção para quem procura niacinamida com concentração e volume declarados."
         ]
       },
       {
@@ -178368,7 +178368,7 @@ export const reviewsData: unknown[] = [
           "O Ultra Sérum é a mesma coisa que a Solução? Depende do par: a página do Ultra Sérum Niacinamida diz que é a mesma fórmula da Solução Niacinamida em embalagem nova, mas a Solução Vitamina C e o Ultra Sérum Vitamina C usam derivados e concentrações diferentes.",
           "O Retinol-Like tem retinol? Não: o ativo é o bakuchiol, a 1%, que a marca chama de alternativa vegetal ao retinol. O sérum com retinol é o Ultra Sérum Retinol, com 0,3% impressos no frasco.",
           "A Simple Organic é vegana? Pela própria marca, sim: ela diz que os produtos são veganos e cruelty-free e aponta selos de terceiros, como o PETA Vegan Approved. Se o selo decide a compra, confira o nome da marca na certificadora.",
-          "Qual sérum da Simple escolher? Compare o ativo, a concentração quando declarada e a fórmula completa. O Ultra Sérum Niacinamida tem 30 mL e Parfum na composição; outros produtos e diferenças estão nos capítulos acima. A escolha adequada à sua pele pode ser discutida com o dermatologista."
+          "Qual sérum da Simple escolher? Compare o ativo, a concentração quando declarada e a fórmula completa. Os outros produtos e as diferenças entre eles estão nos capítulos acima. A escolha adequada à sua pele pode ser discutida com o dermatologista."
         ]
       }
     ],
@@ -189385,7 +189385,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o rótulo diz",
         "paragraphs": [
-          "O que decide aqui é o aviso de glúten e lactose, não a proteína. As duas lojas declaram leite, e a da Dr. Peanut diz que pode conter trigo, cevada e aveia. Quem tem intolerância a um dos dois decide com médico ou nutricionista.",
+          "O que decide aqui é o aviso de glúten e lactose, não a proteína: o pote contém os dois, e quem precisa evitar um deles não compra em loja nenhuma. Quem tem intolerância a um dos dois decide com médico ou nutricionista.",
           "A loja informa: a porção é de 40 g, dois dosadores, com 20 g de proteína, 162 kcal, 8,5 g de açúcares totais (0,1 g adicionados), 3,1 g de gordura e 112 mg de sódio. A proteína é concentrada do soro do leite (WPC), com amendoim torrado e granulado, cacau, sal, lecitina de soja, gomas, corante caramelo IV e sucralose.",
           "É nos alérgenos que as páginas divergem. As duas dizem que contém amendoim e leite. A da Dr. Peanut diz que contém soja também, e que pode conter trigo, centeio, cevada, aveia, castanhas, nozes e ovo; a da Max diz que a soja e o ovo só podem estar. Confira a embalagem que chegar."
         ]
@@ -189463,7 +189463,7 @@ export const reviewsData: unknown[] = [
           "Quer o cupom da Dr. Peanut somado ao Pix: Dr. Peanut, conferindo o total com frete no carrinho.",
           "Já compra na Max ou quer levar outro produto dela no mesmo pedido: Max, com o cupom dela, comparando o total dos dois carrinhos.",
           "Já compra pasta de amendoim na Dr. Peanut: o whey entra no mesmo pedido e ajuda a passar do frete grátis.",
-          "Precisa evitar glúten ou lactose: as duas lojas declaram leite, e a Dr. Peanut diz que pode conter trigo, cevada e aveia. Confira a embalagem do sabor escolhido."
+          "Precisa evitar glúten ou lactose: nenhuma das duas serve, pelo rótulo."
         ],
         "emphasis": "Com o pote e o preço iguais, o cupom decide: o da Dr. Peanut dá 10% e soma com o Pix; o da Max depende do percentual do carrinho."
       },
@@ -189474,7 +189474,7 @@ export const reviewsData: unknown[] = [
           "Quais sabores tem o whey Dr. Peanut? Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, nas duas lojas e pelo mesmo preço. Confira sabores e valores atuais na loja.",
           "O cupom DREMCASACOMCECILIA soma com o Pix? Sim: no checkout do whey, o cupom funcionou e somou com o desconto no Pix da Dr. Peanut.",
           "O cupom da Max vale no whey Dr. Peanut? Vale: o MAX10EMCASACOMCECILIA funciona neste pote, com até 10%. O capítulo do cupom diz como comparar os dois carrinhos.",
-          "O whey Dr. Peanut tem glúten ou lactose? Tem lactose: as duas lojas declaram leite entre os alérgenos. Sobre glúten, a Dr. Peanut diz que pode conter trigo, cevada e aveia; confira a embalagem do sabor escolhido."
+          "O whey Dr. Peanut tem glúten ou lactose? Sim, pelo rótulo: o pote contém glúten e lactose, e nenhuma das lojas vende versão sem um deles."
         ]
       }
     ],
@@ -189486,7 +189486,7 @@ export const reviewsData: unknown[] = [
         "Você já compra na Max: o cupom dela funciona no pote, e o que decide é o total do carrinho."
       ],
       "skipIf": [
-        "Você precisa evitar glúten ou lactose: as duas lojas declaram leite, e a Dr. Peanut diz que pode conter trigo, cevada e aveia. Confira a embalagem do sabor escolhido.",
+        "Você precisa evitar glúten ou lactose: o rótulo diz que o pote contém os dois.",
         "Você compara só o preço da vitrine: ele aparece igual nas duas lojas, e o que decide é o total do carrinho com o cupom e o frete."
       ]
     },
