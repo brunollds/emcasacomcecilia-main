@@ -104721,7 +104721,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, a Growth tinha o menor custo de proteína nos wheys comparados. Na creatina sem sabor de 500 g, a Mais Mu ficava abaixo com o código, enquanto a Growth tinha vantagem no Pix sem ele. Compare o preço atual e o total com frete antes de escolher; as contas por 100 g estão abaixo."
+          "Nos preços de outubro, a Growth tinha o menor custo de proteína nos wheys comparados. Na creatina sem sabor de 500 g, a Mais Mu ficava abaixo com o código MMEMCASACOMCECILIA, que dá 10% no site dela, enquanto a Growth tinha vantagem no Pix sem ele. Compare o preço atual e o total com frete antes de escolher."
         ]
       },
       {
@@ -105030,7 +105030,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, no cartão, a Mais Mu sai mais barata por 100 g de proteína no whey e por grama de creatina sem sabor. A Dux leva o pó mais concentrado em proteína, o Pix de 5% e a única Creapure declarada. O que pesa mais é o seu uso; veja Quem escolhe o quê."
+          "Nos preços de outubro, no cartão, a Mais Mu sai mais barata por 100 g de proteína no whey e por grama de creatina sem sabor. A Dux leva o pó mais concentrado em proteína, o Pix de 5% e a única Creapure declarada. O que pesa é o uso, e o código MMEMCASACOMCECILIA dá 10% só na Mais Mu."
         ]
       },
       {
@@ -126795,7 +126795,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor: só três dos 500 g estão em oferta; veja \"Quanto custa cada dose\"."
+          "Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor, porque só três dos 500 g estão em oferta. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu, inclusive em produto em oferta."
         ]
       },
       {
@@ -127172,7 +127172,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O refil de 900 g Brownie ou Cookies'n Cream tem o menor preço por proteína entre os formatos com contagem de doses da loja. O pote de 450 g serve para conhecer o sabor, e o sachê, para levar. A loja não aponta o melhor sabor, e este texto também não."
+          "O refil de 900 g Brownie ou Cookies'n Cream tem o menor preço por proteína entre os formatos com contagem de doses da loja. O pote de 450 g serve para conhecer o sabor, e o sachê, para levar; a loja não aponta o melhor sabor, nem este texto. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
         ]
       },
       {
@@ -127635,7 +127635,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de referência da tabela, a Mukebar 720 g tinha o menor custo por grama de proteína, com 15 g numa barra de 60 g. A Chocowheyfer Sem Cobertura era a unidade mais barata e tinha menos açúcar e calorias que a Mukebar Avelã. Compare o tamanho da unidade e o rótulo antes de escolher."
+          "Nos preços de referência da tabela, a Mukebar 720 g tinha o menor custo por grama de proteína, com 15 g por barra. A Chocowheyfer Sem Cobertura era a unidade mais barata e tinha menos açúcar e calorias que a Mukebar Avelã. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu, mas não vale no Mercado Livre."
         ]
       },
       {
@@ -177126,7 +177126,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, a Mais Mu é boa no que publica: o Exquenta e as barras trazem tabela nutricional completa. No whey, a loja declara proteína por dose, mas faltam tabelas completas na maioria dos sabores. A escolha depende do que você precisa conferir: composição, tamanho da unidade e preço, detalhados por linha abaixo."
+          "Pelo rótulo, a Mais Mu é boa no que publica: o Exquenta e as barras trazem tabela nutricional completa. No whey, a loja declara proteína por dose, mas faltam tabelas completas na maioria dos sabores. O código MMEMCASACOMCECILIA dá 10% no site oficial, e a escolha depende de composição, tamanho da unidade e preço."
         ]
       },
       {
