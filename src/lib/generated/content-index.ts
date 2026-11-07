@@ -162982,7 +162982,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem já decidiu usar WordPress na Hostinger, o plano Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. O WordPress vem em todos; o que muda a escolha é o número de sites, o backup e a renovação, na tabela abaixo."
+          "Para quem já decidiu usar WordPress na Hostinger, o Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. O que decide é o número de sites, o backup e a renovação. O SONAR20 dá 20% no primeiro período de uma compra nova; renovação e domínio ficam fora."
         ]
       },
       {
@@ -163216,7 +163216,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "If you have already decided to use WordPress on Hostinger, the Premium plan covers up to three sites. Unlimited serves several sites or a store, with daily backups, and Cloud Startup is for heavy traffic. What decides the choice is the number of sites, the backup and the renewal price, in the table below."
+          "If you have already decided to use WordPress on Hostinger, Premium covers up to three sites, Unlimited serves several sites or a store with daily backups, and Cloud Startup is for heavy traffic. The number of sites, the backup and the renewal price decide. SONAR20 gives 20% off the first period of a new purchase; renewals and domains are excluded."
         ]
       },
       {
@@ -163431,7 +163431,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Si ya decidiste usar WordPress en Hostinger, el plan Premium cubre hasta tres sitios. Unlimited sirve para varios sitios o una tienda, con backups diarios, y Cloud Startup, para mucho tráfico. Lo que decide la elección es el número de sitios, el backup y el precio de renovación, en la tabla de abajo."
+          "Si ya decidiste usar WordPress en Hostinger, Premium cubre hasta tres sitios, Unlimited sirve para varios sitios o una tienda con backups diarios, y Cloud Startup, para mucho tráfico. Deciden el número de sitios, el backup y la renovación. SONAR20 da un 20% en el primer período de una compra nueva; renovación y dominio quedan fuera."
         ]
       },
       {
@@ -163646,7 +163646,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, le forfait Premium couvre jusqu'à trois sites. Unlimited, qui inclut des sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du prix du renouvellement, dans le tableau ci-dessous."
+          "Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, Premium couvre jusqu'à trois sites ; Unlimited, avec sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du renouvellement. SONAR20 donne 20 % sur la première période d'un nouvel achat ; renouvellement et domaine sont exclus."
         ]
       },
       {
@@ -163861,7 +163861,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per chi ha già deciso di usare WordPress su Hostinger, il piano Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, e Unlimited ha i backup giornalieri. WordPress c'è in tutti i piani: numero di siti, backup e rinnovo decidono, nella tabella sotto."
+          "Per chi ha già deciso di usare WordPress su Hostinger, Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, e Unlimited ha i backup giornalieri. Decidono numero di siti, backup e rinnovo. SONAR20 dà il 20% sul primo periodo di un nuovo acquisto; rinnovo e dominio sono esclusi."
         ]
       },
       {
@@ -164076,7 +164076,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Wer bei Hostinger schon WordPress nutzen will, nimmt Premium für bis zu drei Websites. Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht; tägliche Backups hat der Unlimited. WordPress ist in allen Tarifen enthalten; die Wahl hängt von der Anzahl der Websites, dem Backup und der Verlängerung ab, wie in der Tabelle unten."
+          "Wer bei Hostinger schon WordPress nutzen will, nimmt Premium für bis zu drei Websites; Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht, tägliche Backups hat der Unlimited. Entscheidend sind Anzahl der Websites, Backup und Verlängerung. Mit SONAR20 gibt es 20 % im ersten Zeitraum eines Neukaufs; Verlängerung und Domains sind ausgeschlossen."
         ]
       },
       {
@@ -164291,7 +164291,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "すでに Hostinger で WordPress を使うと決めている人には、Premium は3サイトまで、Unlimited と Cloud Startup は複数サイトやショップ向けで、Unlimited には毎日のバックアップが付きます。違いはサイト数、バックアップ、更新料です。下の表で比べてください。"
+          "すでに Hostinger で WordPress を使うと決めている人には、Premium は3サイトまで、Unlimited と Cloud Startup は複数サイトやショップ向けで、Unlimited には毎日のバックアップが付きます。違いはサイト数、バックアップ、更新料です。SONAR20は新規購入の初回契約期間が20%割引で、更新とドメインは対象外です。"
         ]
       },
       {
@@ -164505,7 +164505,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "WordPress를 호스팅어에서 쓰기로 했다면, Premium은 사이트 3개까지 맞고, Unlimited는 여러 사이트나 스토어에 맞으며 백업을 매일 받습니다. Cloud Startup은 트래픽이 많은 스토어와 사이트를 위한 플랜입니다. 고르는 기준은 사이트 수, 백업, 갱신가입니다. 아래 표를 보세요."
+          "WordPress를 호스팅어에서 쓰기로 했다면, Premium은 사이트 3개까지 맞고, Unlimited는 여러 사이트나 스토어에 맞으며 백업을 매일 받고, Cloud Startup은 트래픽이 많은 사이트용입니다. 고르는 기준은 사이트 수, 백업, 갱신가입니다. SONAR20은 신규 구매 첫 계약 기간에 20% 할인되며 갱신과 도메인은 제외됩니다."
         ]
       },
       {
@@ -164720,7 +164720,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已经决定在 Hostinger 上使用 WordPress：Premium 可放 3 个网站；Unlimited 适合多个网站或网店，每日备份；Cloud Startup 适合流量很大的网店和网站。决定选择的是网站数量、备份和续费价。下面有一张表。"
+          "如果你已经决定在 Hostinger 上使用 WordPress：Premium 可放 3 个网站；Unlimited 适合多个网站或网店，每日备份；Cloud Startup 适合流量很大的网店和网站。决定选择的是网站数量、备份和续费价。SONAR20 可在新购的首个周期享 20% 折扣，续费与域名除外。"
         ]
       },
       {
@@ -164935,7 +164935,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已經決定在 Hostinger 上使用 WordPress：Premium 最多可放 3 個網站；Unlimited 適合多個網站或網路商店，每日備份；Cloud Startup 適合流量很大的商店與網站。真正影響選擇的是網站數量、備份與續約價。下方有一張表格。"
+          "如果你已經決定在 Hostinger 上使用 WordPress：Premium 最多可放 3 個網站；Unlimited 適合多個網站或網路商店，每日備份；Cloud Startup 適合流量很大的商店與網站。真正影響選擇的是網站數量、備份與續約價。SONAR20 可在新購的首個週期享 20% 折扣，續約與網域除外。"
         ]
       },
       {
