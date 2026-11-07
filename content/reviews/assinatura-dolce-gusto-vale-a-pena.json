@@ -25,7 +25,7 @@
   "imageAspect": "landscape",
   "pros": [
     "25% de desconto e frete grátis em todos os pedidos",
-    "Cupom CECI somou com a assinatura no nosso teste (5% na época)",
+    "Cupom CECI somou com a assinatura no nosso teste",
     "Geração 1 e NEO na mesma assinatura",
     "Cancela sem multa até 1 dia antes do pedido"
   ],
@@ -144,7 +144,7 @@
         ]
       },
       "postParagraphs": [
-        "Quem toma pouco café pode escolher entregas a cada 2 ou 3 meses. Um exemplo é receber 6 caixas a cada 2 meses, em vez de 3 todo mês. Assim o pedido supera o mínimo de R$ 100 do CECI. Confira no checkout se o código entra na assinatura.",
+        "Quem toma pouco café pode escolher entregas a cada 2 ou 3 meses. Um exemplo é receber 6 caixas a cada 2 meses, em vez de 3 todo mês. Assim o pedido supera o mínimo de R$ 100 do CECI.",
         "O CECI vale para compras a partir de R$ 100. No nosso teste, ele entrou com subtotal de R$ 119,60, que ficou em R$ 89,70 depois dos 25%, por isso a tabela considera o subtotal antes do desconto. O checkout pode arredondar alguns centavos."
       ]
     },
