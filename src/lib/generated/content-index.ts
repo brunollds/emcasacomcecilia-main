@@ -187989,7 +187989,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para comprar, com atenção à entrega: a HolyFoods tem CNPJ ativo e loja online própria. No Reclame Aqui a reputação é Boa, e a entrega é o principal ponto de atenção. Veja como conferir o site e acompanhar o pedido."
+          "Dá para comprar, com atenção à entrega: a HolyFoods tem CNPJ ativo e loja online própria. No Reclame Aqui a reputação é Boa, e a entrega é o principal ponto de atenção. Na loja online, o EMCASA dá 15% OFF em todo o site."
         ]
       },
       {
