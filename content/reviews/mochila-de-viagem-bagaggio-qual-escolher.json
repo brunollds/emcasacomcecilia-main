@@ -29,13 +29,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para voar só com a mochila, a Vacuum Airtrack e a Explore sem expandir cabem no item pessoal de LATAM e Azul, grátis até na tarifa Basic da LATAM. A Voyage e a Donna Grande passam de 45 cm e só entram como mala pequena. O que muda a escolha é a tarifa e a expansão, cruzadas abaixo."
+        "Pelas medidas da loja e pelas regras de LATAM e Azul, Airtrack, Royale e Explore sem expandir ficam no limite do item pessoal. Voyage e Donna Grande passam dos 45 cm de altura. A escolha depende da companhia, da franquia da passagem e da medida da mochila carregada."
       ]
     },
     {
       "heading": "Os modelos e o preço de cada um",
       "paragraphs": [
-        "Cinco modelos, contando as cores: só três cabem no item pessoal, e a expansão muda a conta. Os preços são do cartão, lidos nas páginas dos produtos em 31/10/2026. Medida, litros e expansão também vêm da loja.",
+        "Cinco modelos, com as cores agrupadas: três ficam no limite nominal do item pessoal de LATAM e Azul citado abaixo. Os preços no cartão, as medidas e os litros foram consultados nas páginas dos produtos em 31/10/2026; a expansão muda a classificação.",
         "A Explore aparece com preço riscado de R$ 399,90, e a Voyage, de R$ 649,90. As duas colunas da direita cruzam a medida da loja com o item pessoal (45 × 35 × 20 cm) e a mala pequena (55 × 35 × 25 cm) que LATAM e Azul publicam; a regra inteira está no capítulo da bagagem de mão."
       ],
       "comparisonTable": {
@@ -179,7 +179,7 @@
       "paragraphs": [
         "Muda, e a loja mostra as duas medidas. A Explore vai de 10 para 25 cm de profundidade: fechada, 45 × 34 × 10 cm e 33 litros; expandida, 45 × 34 × 25 cm e 42 litros. Expandida, ela sai do item pessoal, porque passa dos 20 cm, mas segue dentro da mala pequena de 55 × 35 × 25 cm, no limite exato dos 25 cm de profundidade.",
         "A Voyage vai de 15 para 35 cm: fechada, 48,5 × 32 × 15 cm e 23 litros; expandida, 48,5 × 32 × 35 cm e 54 litros. Expandida, ela passa 10 cm dos 25 cm da mala pequena. Para voar com ela, a leitura é simples: só cabe fechada.",
-        "A conta vale para a medida que a loja publica. Mochila cheia estufa, e o zíper da expansão parcialmente aberto já muda a profundidade. Se a viagem depende de caber no gabarito, feche a expansão antes do embarque e deixe o excesso para a volta."
+        "As medidas são as publicadas pela loja. Uma mochila carregada pode estufar, e a expansão parcialmente aberta já altera a profundidade. Meça a peça pronta para viajar e planeje a bagagem dentro da franquia tanto na ida quanto na volta."
       ],
       "images": [
         {
@@ -217,11 +217,11 @@
     {
       "heading": "Qual escolher",
       "paragraphs": [
-        "A escolha começa pela passagem. Se a tarifa não inclui a mala pequena, como a Basic da LATAM, a mochila precisa caber em 45 × 35 × 20 cm, e sobram três. Se a mala pequena está incluída, o critério passa a ser quanto você leva."
+        "A escolha começa pela companhia e pela franquia da passagem. Nos limites de LATAM e Azul citados acima, três modelos ficam dentro de 45 × 35 × 20 cm sem expansão. Confirme a franquia do seu voo e meça a mochila carregada antes de decidir."
       ],
       "bullets": [
-        "Só com a mochila, sem pagar bagagem: Explore fechada (33 litros, R$ 299,90) ou Vacuum Airtrack (28,1 litros, R$ 499,90). A Explore leva mais e custa menos; a Airtrack comprime a roupa, mas só com a bomba, que sobe o gasto para R$ 574,85 no kit.",
-        "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90. Expandida, ela passa dos 25 cm de profundidade da mala pequena; meça carregada e confira a companhia e a tarifa. Fechada, cabe no compartimento de cima.",
+        "Só com a mochila, sem pagar bagagem: Explore fechada (33 litros, R$ 299,90) ou Vacuum Airtrack (28,1 litros, R$ 499,90). A loja declara 33 litros para a Explore, mas confira a medida carregada antes de contar com essa capacidade. A Airtrack comprime a roupa só com a bomba, que leva o kit a R$ 574,85.",
+        "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90. Fechada, tem 23 litros e 15 cm de profundidade e cabe no compartimento de cima; expandida, passa dos 25 cm de profundidade da mala pequena, então meça carregada e confira a companhia e a tarifa.",
         "Trabalho e viagem curta, com notebook de até 15,6 polegadas: Donna Grande, R$ 299,90, lembrando que ela só entra como mala pequena.",
         "Quer a nécessaire junto: kit Royale, R$ 449,80, com 20 litros na mochila e medida de item pessoal."
       ],
@@ -244,7 +244,7 @@
         }
       ],
       "emphasisAfterParagraph": 1,
-      "emphasis": "Se fosse para a minha casa, eu levaria a Explore, porque leva 33 litros no item pessoal por R$ 299,90."
+      "emphasis": "Se fosse para mim, eu começaria pela Explore, pelo preço de R$ 299,90 e pela medida fechada informada pela loja. Antes de comprar para voar só com ela, confirmaria a franquia e a medida da mochila carregada."
     },
     {
       "heading": "Perguntas frequentes",
@@ -284,12 +284,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Quem quer voar só com a mochila, sem pagar bagagem: a Explore fechada ou a Vacuum Airtrack, na medida do item pessoal.",
-      "Quem faz viagem mais longa com a mala pequena incluída: a Voyage, que chega a 54 litros expandida, mas, nessa configuração, passa dos 25 cm de profundidade da mala pequena. Meça carregada e confira a companhia e a tarifa.",
+      "Quem busca item pessoal dentro dos limites de LATAM e Azul: Explore fechada ou Airtrack, após conferir a medida carregada e a franquia do voo.",
+      "Quem tem mala pequena incluída e aceita levar a Voyage fechada, com 23 litros. Expandida, ela tem 54 litros e 35 cm de profundidade, acima dos 25 cm da mala pequena.",
       "Quem precisa de trabalho e viagem curta com notebook de até 15,6 polegadas: a Donna Grande."
     ],
     "skipIf": [
-      "Quem voa de tarifa Basic com a Voyage ou a Donna Grande: passam dos 45 cm e não entram como item pessoal.",
+      "Quem precisa de item pessoal de 45 × 35 × 20 cm, como o de LATAM e Azul: a Voyage e a Donna Grande ultrapassam os 45 cm de altura.",
       "Quem quer o vácuo da Airtrack: ele só funciona com a bomba, vendida à parte."
     ]
   }

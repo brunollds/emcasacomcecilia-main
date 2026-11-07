@@ -34,8 +34,7 @@
     {
       "heading": "O que é o cupom CECILIA10",
       "paragraphs": [
-        "CECILIA10 é o cupom da parceria do Em Casa com Cecília com a Bagaggio, loja de malas, mochilas, bolsas e acessórios de viagem. O cupom vale só no site oficial, bagaggio.com.br.",
-        "O desconto é de 10% em todo o site, inclusive no Outlet e em produto que já está com desconto. O cupom vale para clientes novos e antigos e em todas as formas de pagamento.",
+        "CECILIA10 é o cupom da parceria do Em Casa com Cecília com a Bagaggio, loja de malas, mochilas, bolsas e acessórios de viagem. Dá 10% OFF no site oficial, bagaggio.com.br, inclusive no Outlet e em produto já com desconto. Vale para clientes novos e antigos e em todas as formas de pagamento.",
         "A faixa do topo do site anuncia 5% na primeira compra; o CECILIA10 dá 10%.",
         "A loja aceita um cupom por pedido."
       ],
@@ -78,7 +77,7 @@
     {
       "heading": "4. Confira o resumo antes de escolher o pagamento",
       "paragraphs": [
-        "Com o CECILIA10 aplicado, a etiqueta aparece no campo e o resumo mostra a linha de descontos. No teste, o subtotal foi R$ 179,90, os descontos R$ 17,99 e o total R$ 161,91. Confira esses três valores antes de seguir."
+        "Com o CECILIA10 aplicado, a etiqueta aparece no campo e o resumo passa de R$ 179,90 para R$ 161,91, com R$ 17,99 em descontos. No seu pedido, confira subtotal, desconto e total antes de seguir."
       ],
       "images": [
         {
@@ -100,7 +99,7 @@
     {
       "heading": "O que aconteceu no nosso teste",
       "paragraphs": [
-        "Em 22/10/2026, montamos sacolas no site até o resumo, sem identificação e sem finalizar. Não houve compra, e a sacola foi esvaziada depois."
+        "Em 22/10/2026, montamos sacolas no site até o resumo, sem identificação e sem finalizar. Aplicamos o cupom nos três produtos da tabela. O Pix da tabela veio de uma consulta à loja, não de uma etapa de pagamento. Não houve compra, e a sacola foi esvaziada depois."
       ],
       "comparisonTable": {
         "headers": [
@@ -154,7 +153,7 @@
     {
       "heading": "Frete e retirada",
       "paragraphs": [
-        "O frete é calculado pelo CEP, no carrinho, e o cupom não muda o frete. A loja não divulga frete grátis, então confira o valor no resumo antes de pagar. A retirada em lojas próximas aparece conforme a disponibilidade, e só o titular da compra retira, com documento original com foto."
+        "O frete é calculado pelo CEP, no carrinho, e o cupom não muda o frete. A loja não divulga frete grátis como regra geral, então confira o valor no resumo antes de pagar. A retirada em lojas próximas aparece conforme a disponibilidade, e só o titular da compra retira, com documento original com foto."
       ]
     },
     {
@@ -197,8 +196,8 @@
       "bullets": [
         "Qual é o cupom da Bagaggio? O cupom é CECILIA10, com 10% de desconto em todo o site oficial, inclusive no Outlet.",
         "O cupom Bagaggio soma com o Pix? Sim. O Pix de 5% entra sobre o total que já tem o cupom.",
-        "O cupom soma com a promoção de 2ª peça? Não. A promoção de 50% na segunda peça, de outubro, tinha cupom próprio e não somava com outro cupom. Ela já terminou; se voltar, confira o regulamento na loja.",
-        "Tem cupom de primeira compra na Bagaggio? A loja anuncia 5% na primeira compra; o CECILIA10 dá 10%.",
+        "O cupom soma com a promoção de 2ª peça? Não. Essa promoção tinha cupom próprio, não somava com outro cupom e já terminou. Se uma promoção assim voltar ao carrinho, compare o total com e sem ela antes de pagar.",
+        "Tem cupom de primeira compra na Bagaggio? A faixa do site anuncia 5% na primeira compra; o CECILIA10 dá 10% e vale para clientes novos e antigos.",
         "O cupom vale no Mercado Livre? Não. O cupom não vale lá, e vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link do Mercado Livre](https://meli.la/2KeydkG)."
       ]
     }

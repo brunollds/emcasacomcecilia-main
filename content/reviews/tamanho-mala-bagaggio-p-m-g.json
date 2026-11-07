@@ -14,7 +14,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Qual tamanho de mala comprar na Bagaggio? P, M e G são as faixas de 10, 23 e 32 kg. Veja medidas e litros das malas em 30/10/2026.",
+  "description": "Compare malas P, M e G da Bagaggio por medidas e litros. Os nomes de 10, 23 e 32 kg não garantem aceitação na cabine nem franquia no bilhete: confira a ficha de cada modelo.",
   "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio, com o cupom CECILIA10 de 10% OFF: medidas e litros da loja, a ligação entre P, M e G e a mala de mão das companhias.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Bagaggio, a mala de 10 kg é a de bordo, com 44 a 51 litros. A de 23 kg é a média, com 71 a 91 litros, e a de 32 kg é a grande, com 104 a 131 litros. P, M e G são os nomes dos conjuntos, e seguem essa mesma faixa de peso."
+        "Na seleção da Bagaggio, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Esses nomes ajudam a comparar o catálogo. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm."
       ]
     },
     {
@@ -64,7 +64,7 @@
             "55 × 35 × 22,5 cm (com rodas)",
             "45,3",
             "10 kg (P no conjunto)",
-            "Sim"
+            "Medida com rodas dentro da referência; confirmar alças"
           ],
           [
             "[Mala Pequena 10 kg Polipropileno 4 Rodas Cartagena Preta](https://www.bagaggio.com.br/mala-pequena-10kg-polipropileno-4-rodas-cartagena-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -212,7 +212,7 @@
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
-        "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça de outubro.",
+        "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom.",
         "Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
       ]
     },
@@ -225,10 +225,10 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? A faixa de peso define o tamanho: a de 10 kg é a de bordo, e as de 23 kg e 32 kg são as malas maiores, com mais litros. Nem toda mala de 10 kg cabe na mão: a Cartagena P passa da medida.",
+        "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? São faixas que a loja usa para malas pequenas, médias e grandes. As dimensões e os litros variam por modelo, e nem toda mala de 10 kg cabe na mão: a Cartagena P passa da medida.",
         "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
-        "Qual tamanho de mala comprar para viagem de uma semana? Para uma semana, a de 23 kg dá mais espaço, com 71 a 91 litros. Se for só levar na mão, a de 10 kg, com 44 a 51 litros, é a opção.",
-        "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pelas fichas, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, e a medida da Detroit já inclui as rodas, enquanto a Cartagena P passa. Cada companhia decide, então confira antes de viajar.",
+        "Qual tamanho de mala comprar para viagem de uma semana? Compare o que você leva com o volume: as médias da seleção têm de 71 a 91 litros. Para cabine, confirme as dimensões totais do modelo e a regra do bilhete; nem toda mala chamada de 10 kg atende à referência.",
+        "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Depende do modelo. A Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, com as rodas incluídas; a Cartagena P passa. Cada companhia decide, então confira antes de viajar e a regra do seu bilhete.",
         "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
       ]
     }
@@ -236,8 +236,8 @@
   "decision": {
     "takeIf": [
       "A viagem é curta e a mala vai na mão: a de 10 kg, com 44 a 51 litros, conferindo a medida total com a companhia.",
-      "A viagem é de uma semana e você despacha: a de 23 kg, com 71 a 91 litros.",
-      "Quer a maior capacidade: a de 32 kg, com 104 a 131 litros."
+      "Você vai despachar e o volume das malas médias atende ao que pretende levar.",
+      "Você precisa do volume das malas grandes e confirmou peso e dimensões permitidos no seu bilhete."
     ],
     "skipIf": [
       "Quer levar a Cartagena P na mão: ela passa dos 55 × 35 cm que as companhias citam.",

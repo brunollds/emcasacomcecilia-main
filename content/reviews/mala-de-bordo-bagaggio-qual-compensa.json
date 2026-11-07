@@ -162,7 +162,7 @@
       ],
       "bullets": [
         "Quer pagar menos? A Detroit ABS Preta ou a II Prata custa R$ 249,90 no cartão e tem 44,2 litros.",
-        "Quer a mala mais leve? A Route Preta ou a Vinho pesa 2,43 kg, contra 2,61 kg da Detroit.",
+        "Quer uma Bagaggio mais leve que a Detroit? A Route Preta ou a Vinho pesa 2,43 kg, contra 2,61 kg da Detroit. Na tabela, a Downtown Travelcross pesa 2,06 kg.",
         "Quer mais espaço e aceita uma medida maior? A Cartagena tem 51,3 litros, mas passa da medida de 55 × 35 cm que as companhias citam para a mala de mão."
       ],
       "emphasis": "Se fosse para a minha casa, eu levaria a Detroit ABS Preta, porque é a mais barata da marca Bagaggio e fica dentro da medida de 55 × 35 cm das companhias."
@@ -210,7 +210,7 @@
   "decision": {
     "takeIf": [
       "Quer pagar menos na marca Bagaggio: a Detroit, a mais barata da lista.",
-      "Quer a mala mais leve: a Route, que pesa menos que a Detroit.",
+      "Quer uma Bagaggio mais leve que a Detroit: a Route; a Downtown Travelcross pesa menos entre as malas da tabela.",
       "Quer mais espaço e aceita uma medida maior: a Cartagena, com 51,3 litros."
     ],
     "skipIf": [
