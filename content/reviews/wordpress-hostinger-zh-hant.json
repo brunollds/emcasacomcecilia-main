@@ -113,7 +113,7 @@
       "postParagraphs": [
         "頁面上沒有標示活動的結束日期，價格可能變動。"
       ],
-      "emphasis": "選方案請看續約價那一欄，不要只看入門價。"
+      "emphasis": "比較合約總額、折算月費與續約價。入門價或續約價單獨都不能決定選擇。"
     },
     {
       "heading": "方案已包含的內容",
@@ -129,7 +129,7 @@
     {
       "heading": "開始使用：檢查清單",
       "bullets": [
-        "**1. 先算網站數量。** 一個、三個，還是更多。多數情況下，光是這一點就能決定方案。",
+        "**1. 列出需求。** 選擇前確認網站數量、空間、應用、預期負載與復原需求。",
         "**2. 決定網域。** 先確認方案是否含免費網域，或使用你已有的網域。記下它的續約日期。",
         "**3. 在管理面板安裝 WordPress。**不需要手動下載檔案。",
         "**4. 先選佈景主題，再放內容。** 網站內容滿了之後再換佈景主題，很費工。選簡單、更新頻繁的主題。",
@@ -143,13 +143,13 @@
     {
       "heading": "如果你不想用 WordPress",
       "paragraphs": [
-        "如果你不想安裝佈景主題與外掛，也不想更新任何東西，同樣的方案裡還有 Hostinger 的 AI 建站工具。依專案類型的比較請見 [Hostinger AI Builder（前身為 Horizons）：值得用，還是選 WordPress？](/zh-hant/reviews/hostinger-ai-builder-zh-hant)。如果你需要的功能已經有指定的外掛，就留在 WordPress。"
+        "若想減少佈景主題與外掛維護，請比較AI建站與WordPress。依功能、整合與維護方式選擇，不要只憑外掛名字決定。依專案比較見[Hostinger AI Builder（前身為 Horizons）：值得用，還是選 WordPress？](/zh-hant/reviews/hostinger-ai-builder-zh-hant)。"
       ]
     },
     {
       "heading": "SONAR20 優惠碼與價格",
       "paragraphs": [
-        "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享**第一期 20% 折扣**。SONAR20 也適用於 WordPress 方案，付款前請先到購物車確認價格。SONAR20 的 20% 折扣適用於每一筆新購買；第一期之後以續約價計算，沒有折扣。規則與其他產品請見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
+        "**SONAR20**適用於符合資格的新購首個合約期間，可享20%折扣，已有帳號也可適用。請確認WordPress方案是否適用及購物車總額；網域註冊與續約除外。條件見[Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
@@ -166,9 +166,9 @@
         "Hostinger 最便宜的 WordPress 方案是哪一個？是 Premium：48 個月預付每月 US$ 2.49，總價 US$ 119.52，最多 3 個網站。續約價為每月 US$ 10.99。",
         "Hostinger 的 WordPress 是預先安裝好的嗎？要在主機管理面板安裝，不需要手動下載檔案。步驟請見上方的檢查清單。",
         "網路商店適合哪一個 WordPress 方案？Unlimited：網站不限，每日備份。流量非常大的商店可以考慮 Cloud Startup。",
-        "SONAR20 可以用在 WordPress 方案嗎？可以，請在購物車確認價格。20% 適用於第一期，續訂按定價計算，沒有折扣。",
+        "SONAR20 可以用在 WordPress 方案嗎？ SONAR20：符合條件的新購首期優惠20%。請在購物車確認WordPress方案；網域註冊與續約除外。",
         "續約價和優惠價一樣嗎？不一樣。第一個 48 個月的期間結束後，以續約價計算：Premium 為每月 US$ 10.99。",
-        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
+        "舊客戶也能用SONAR20嗎？同一帳號符合資格的新購可適用，但目前服務的續約不適用，網域註冊也除外。輸入代碼後請確認購物車總額。"
       ]
     },
     {
@@ -181,7 +181,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 也適用於 WordPress 方案，請在購物車確認價格。",
+    "text": "SONAR20：符合條件的新購首期優惠20%。請在購物車確認WordPress方案；網域註冊與續約除外。",
     "label": "用 SONAR20 查看 WordPress 方案",
     "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -209,7 +209,7 @@
     ],
     "skipIf": [
       "如果 Unlimited 已經夠用，就不必選 Cloud Startup：它最貴，續約價也最高。",
-      "如果不想安裝佈景主題與外掛、也不想做任何更新，就不要用 WordPress：同樣的方案裡還有 AI 建站工具。"
+      "若不想管理佈景主題與外掛，也可比較其他工具；改用AI建站前請確認功能、整合與費用。"
     ]
   }
 }

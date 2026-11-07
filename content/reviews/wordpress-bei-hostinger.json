@@ -114,7 +114,7 @@
       "postParagraphs": [
         "Die Seite nennt kein Enddatum für die Aktion, und die Preise können sich ändern."
       ],
-      "emphasis": "Die Verlängerung kostet etwa das 3- bis 5-Fache des Aktionspreises. Wählen Sie den Tarif nach der Spalte der Verlängerung, nicht nur nach dem Einstiegspreis."
+      "emphasis": "Vergleichen Sie Gesamtbindung, rechnerischen Monatspreis und Verlängerung. Weder Einstiegspreis noch Verlängerung entscheiden allein."
     },
     {
       "heading": "Was in den Tarifen schon enthalten ist",
@@ -130,7 +130,7 @@
     {
       "heading": "So fangen Sie an: die Checkliste",
       "bullets": [
-        "**1. Zählen Sie die Websites.** Eine, bis zu drei oder mehr. Das entscheidet in den meisten Fällen schon den Tarif.",
+        "**1. Anforderungen auflisten.** Zählen Sie Websites und prüfen Sie Speicher, Anwendung, erwartete Last und Wiederherstellung vor der Wahl.",
         "**2. Klären Sie die Domain.** Prüfen Sie, ob Ihr Tarif eine Domain enthält, oder nutzen Sie eine Domain, die Sie schon haben. Notieren Sie, wann sie verlängert wird.",
         "**3. Installieren Sie WordPress im Panel.** Sie müssen die Dateien nicht von Hand herunterladen.",
         "**4. Wählen Sie das Theme vor dem Inhalt.** Ein Theme zu wechseln, wenn die Seite schon voll ist, macht Mehrarbeit. Nehmen Sie ein einfaches, das regelmäßig gepflegt wird.",
@@ -144,13 +144,13 @@
     {
       "heading": "Wenn Sie kein WordPress wollen",
       "paragraphs": [
-        "Wenn Sie kein Theme und kein Plugin installieren und nichts aktualisieren wollen, bringen dieselben Tarife den KI-Builder von Hostinger mit. Der Vergleich nach Projekttyp steht in [KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?](/de/reviews/hostinger-ki-builder-lohnt-sich). Wenn Ihr Projekt schon einen Plugin-Namen hat, bleiben Sie bei WordPress."
+        "Für weniger Theme- und Plugin-Wartung vergleichen Sie KI-Builder und WordPress. Entscheiden Sie nach Funktionen, Integrationen und Pflege; ein Plugin-Name genügt nicht. Den Projektvergleich finden Sie unter [KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?](/de/reviews/hostinger-ki-builder-lohnt-sich)."
       ]
     },
     {
       "heading": "SONAR20-Gutschein und Preis",
       "paragraphs": [
-        "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung, ohne die 20 % von SONAR20. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
+        "Nutzen Sie **SONAR20** für 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Prüfen Sie die Anwendung auf den WordPress-Tarif und den Gesamtbetrag im Warenkorb; Domainregistrierung und Verlängerung sind ausgeschlossen. Bedingungen unter [Hostinger-Gutscheinen](/de/coupons/hostinger)."
       ]
     },
     {
@@ -167,9 +167,9 @@
         "Welcher WordPress-Tarif von Hostinger ist der günstigste? Der Premium: 2,49 US$ im Monat über 48 Monate (119,52 US$ insgesamt), für bis zu 3 Websites. Er verlängert sich auf 10,99 US$ im Monat.",
         "Ist WordPress bei Hostinger schon installiert? Sie installieren es im Hosting-Panel, ohne Dateien von Hand herunterzuladen. Die Checkliste oben erklärt die Schritte.",
         "Welcher WordPress-Tarif von Hostinger eignet sich für einen Online-Shop? Der Unlimited, wegen der täglichen Backups und der unbegrenzten Websites. Für einen Shop mit viel Traffic der Cloud Startup.",
-        "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? Ja, SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie es im Warenkorb. Wo er gilt, sind es 20 % im ersten Zeitraum.",
+        "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. WordPress-Tarif im Warenkorb prüfen; Domainregistrierung und Verlängerung sind ausgeschlossen.",
         "Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt der Verlängerungspreis: beim Premium 10,99 US$ im Monat.",
-        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+        "Können Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Domainregistrierungen sind ebenfalls ausgeschlossen. Geben Sie den Code ein und prüfen Sie den Gesamtbetrag."
       ]
     },
     {
@@ -182,7 +182,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Bei den WordPress-Tarifen gilt der Code: Prüfen Sie den Preis im Warenkorb.",
+    "text": "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. WordPress-Tarif im Warenkorb prüfen; Domainregistrierung und Verlängerung sind ausgeschlossen.",
     "label": "WordPress-Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -209,7 +209,7 @@
     ],
     "skipIf": [
       "Lassen Sie den Cloud Startup weg, wenn der Unlimited noch reicht: Er ist der teuerste Tarif, auch bei der Verlängerung.",
-      "Lassen Sie WordPress weg, wenn Sie kein Theme und kein Plugin installieren und nichts aktualisieren wollen: Dieselben Tarife bringen den KI-Builder mit."
+      "Vergleichen Sie ein anderes Werkzeug, wenn Sie Themes und Plugins nicht verwalten möchten; vor dem Ersatz durch den KI-Builder Funktionen, Integrationen und Kosten prüfen."
     ]
   }
 }

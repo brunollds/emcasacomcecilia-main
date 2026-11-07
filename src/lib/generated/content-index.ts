@@ -163023,7 +163023,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A página não traz data de fim para a campanha, e os preços podem mudar. Na Black Friday, os créditos de IA dos planos vêm em dobro: no Single, 500 em vez de 250; no Cloud Startup, 2.000 em vez de 1.000."
         ],
-        "emphasis": "Escolha o plano pela coluna da renovação, não pela do preço de entrada."
+        "emphasis": "Compare total contratado, custo mensal equivalente e renovação. Nem o preço de entrada nem a renovação decidem sozinhos."
       },
       {
         "heading": "O que já vem nos planos",
@@ -163042,7 +163042,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como começar: o checklist",
         "bullets": [
-          "**1. Conte os sites.** Um, até três ou mais. Isso já escolhe o plano na maioria dos casos.",
+          "**1. Liste os requisitos.** Conte sites e confira espaço, aplicação, carga esperada e recuperação antes de escolher o plano.",
           "**2. Resolva o domínio.** Use o domínio grátis do plano ou aponte um que você já tem. Anote quando ele renova.",
           "**3. Instale o WordPress pelo painel.** A página cita o instalador de 1 clique; não é preciso baixar nada.",
           "**4. Escolha o tema antes do conteúdo.** Trocar de tema com o site cheio dá retrabalho. Prefira um tema simples e mantido com frequência.",
@@ -163054,21 +163054,21 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Se você já anuncia no Google",
+        "heading": "Crédito promocional do Google Ads: confira a elegibilidade",
         "paragraphs": [
-          "Os termos da promoção dizem: quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar."
+          "Os termos da promoção dizem que quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito, no Brasil. A elegibilidade é definida pelo Google, e a promoção pode mudar. Confira termos, ativação e prazo na sua conta antes de contar com o crédito. Não escolha hospedagem nem comece a anunciar só por esse benefício."
         ]
       },
       {
         "heading": "Se você não quer WordPress",
         "paragraphs": [
-          "Se você não quer instalar tema, plugin nem atualizar nada, os mesmos planos trazem o construtor de sites com IA da Hostinger. A comparação por tipo de projeto está em [Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?](/reviews/hostinger-horizons-vale-a-pena). Se o que você precisa já tem nome de plugin, fique no WordPress."
+          "Se prefere reduzir a manutenção de temas e plugins, compare o Criador com IA com WordPress. Escolha pelas funções necessárias, integrações e forma de manter o site; saber o nome de um plugin não decide sozinho. Veja a comparação por projeto em [Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?](/reviews/hostinger-horizons-vale-a-pena)."
         ]
       },
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "O código **SONAR20** dá **20% no primeiro período**, no campo de cupom do carrinho ou pelo link deste artigo. O SONAR20 vale nos planos de WordPress; confira o preço no carrinho antes de pagar. Depois do primeiro período, vale a coluna da renovação, sem os 20% do SONAR20. A regra do código e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger)."
+          "Use **SONAR20** para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. Confira a aplicação ao plano WordPress e o total no carrinho; registro de domínio e renovação ficam fora. Condições em [cupons da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -163087,8 +163087,8 @@ export const reviewsData: unknown[] = [
           "O WordPress vem instalado na Hostinger? A página diz que todos os planos incluem WordPress e cita um instalador de 1 clique no painel. Ela não detalha a instalação por plano.",
           "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
           "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
-          "O cupom SONAR20 vale no plano de WordPress da Hostinger? Vale: nos planos de WordPress, com 20% no primeiro período. Confira no carrinho.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+          "O cupom SONAR20 vale no plano de WordPress da Hostinger? SONAR20: 20% no primeiro período de compra nova elegível. Confira o plano WordPress no carrinho; registro de domínio e renovação ficam fora.",
+          "O SONAR20 vale para cliente antigo? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. Registro de domínio também fica fora. Aplique o código e confira o total no carrinho."
         ]
       },
       {
@@ -163106,13 +163106,13 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe do Cloud Startup se o Unlimited ainda dá conta: é o plano mais caro, também na renovação.",
-        "Passe do WordPress se não quer instalar tema, plugin nem atualizar nada: os mesmos planos trazem o construtor com IA."
+        "Compare outra ferramenta se não quer administrar temas e plugins; confirme funções, integrações e custos antes de trocar WordPress pelo Criador com IA."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código vale nos planos de WordPress; confira o preço no carrinho.",
+      "text": "SONAR20: 20% no primeiro período de compra nova elegível. Confira o plano WordPress no carrinho; registro de domínio e renovação ficam fora.",
       "label": "Ver os planos de WordPress com o SONAR20",
       "url": "https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163248,7 +163248,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "The page gives no end date for the campaign, and prices can change."
         ],
-        "emphasis": "Renewal costs about 3 to 5 times the promotional price. Choose the plan by the renewal column, not only by the entry price."
+        "emphasis": "Compare the total commitment, equivalent monthly cost and renewal. Neither entry price nor renewal alone chooses a plan."
       },
       {
         "heading": "What comes with the plans",
@@ -163264,7 +163264,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "How to start: the checklist",
         "bullets": [
-          "**1. Count your sites.** One, up to three or more. In most cases, that already picks the plan.",
+          "**1. List the requirements.** Count sites and check storage, application, expected workload and recovery needs before choosing.",
           "**2. Sort out the domain.** Check whether your plan includes one, or point a domain you already have. Note when it renews.",
           "**3. Install WordPress from the hosting panel.** You do not need to download the files by hand.",
           "**4. Choose the theme before the content.** Switching themes on a full site means rework. Prefer a simple theme that is updated often.",
@@ -163278,13 +163278,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "If you do not want WordPress",
         "paragraphs": [
-          "If you do not want to install a theme or a plugin, or update anything, the same plans come with Hostinger's AI website builder, formerly Horizons. The comparison by type of project is in [Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?](/en/reviews/hostinger-ai-builder-worth-it). If what you need already has a plugin name, stay with WordPress."
+          "If you want less theme and plugin maintenance, compare the AI Builder with WordPress. Choose by required functions, integrations and site maintenance; knowing a plugin name does not decide it. See the project comparison in [Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?](/en/reviews/hostinger-ai-builder-worth-it)."
         ]
       },
       {
         "heading": "SONAR20 code and price",
         "paragraphs": [
-          "Enter the code **SONAR20** in the cart's coupon field, or come in through this article's link: it gives **20% off the first period**. SONAR20 works on the WordPress plans; check the price in the cart before paying. After the first period, the renewal column applies, without the 20% from SONAR20. The rules for the code and the other products are in [Hostinger coupons](/en/coupons/hostinger)."
+          "Use **SONAR20** for 20% off the first term of an eligible new purchase, including with an existing account. Check that it applies to your WordPress plan and confirm the cart total; domain registration and renewals are excluded. Conditions at [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
@@ -163301,9 +163301,9 @@ export const reviewsData: unknown[] = [
           "Which is the cheapest WordPress plan on Hostinger? Premium, at US$ 2.49 a month over 48 months (US$ 119.52 in total), for up to 3 sites. It renews at US$ 10.99 a month.",
           "Does WordPress come installed on Hostinger? You install it from the hosting panel, without downloading files by hand. The checklist above covers the steps.",
           "Which WordPress plan suits an online store? Unlimited, for its daily backups and unlimited sites. For a store with heavy traffic, Cloud Startup.",
-          "Does the SONAR20 code work on the WordPress plans? Yes; check the price in the cart. It gives 20% off the first period.",
+          "Does the SONAR20 code work on the WordPress plans? SONAR20: 20% off the first period of an eligible new purchase. Check your WordPress plan at checkout; domain registration and renewal are excluded.",
           "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month.",
-          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+          "Can existing customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. Domain registration is also excluded. Enter the code and check the cart total."
         ]
       },
       {
@@ -163316,7 +163316,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. It works on the WordPress plans; check the price in the cart.",
+      "text": "SONAR20: 20% off the first period of an eligible new purchase. Check your WordPress plan at checkout; domain registration and renewal are excluded.",
       "label": "See WordPress plans with SONAR20",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163343,7 +163343,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Skip Cloud Startup if Unlimited is still enough: it is the most expensive plan, on renewal too.",
-        "Skip WordPress if you do not want to install a theme or a plugin, or update anything: the same plans come with the AI website builder."
+        "Compare another tool if you do not want to manage themes and plugins; check functions, integrations and costs before replacing WordPress with the AI Builder."
       ]
     }
   },
@@ -163463,7 +163463,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "La página no indica fecha de fin para la campaña, y los precios pueden cambiar."
         ],
-        "emphasis": "La renovación cuesta entre 3 y 5 veces el precio promocional. Elige el plan por la columna de renovación, no solo por el precio de entrada."
+        "emphasis": "Compara total contratado, costo mensual equivalente y renovación. Ni el precio de entrada ni la renovación deciden por sí solos."
       },
       {
         "heading": "Qué viene en los planes",
@@ -163479,7 +163479,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cómo empezar: la lista",
         "bullets": [
-          "**1. Cuenta tus sitios.** Uno, hasta tres o más. En la mayoría de los casos, eso ya elige el plan.",
+          "**1. Lista los requisitos.** Cuenta sitios y comprueba espacio, aplicación, carga prevista y recuperación antes de elegir.",
           "**2. Resuelve el dominio.** Mira si tu plan incluye uno o apunta un dominio que ya tengas. Anota cuándo se renueva.",
           "**3. Instala WordPress desde el panel de hosting.** No hace falta descargar los archivos a mano.",
           "**4. Elige el tema antes que el contenido.** Cambiar de tema con el sitio lleno da trabajo. Prefiere un tema simple y que se actualice seguido.",
@@ -163493,13 +163493,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si no quieres WordPress",
         "paragraphs": [
-          "Si no quieres instalar un tema ni un plugin, ni actualizar nada, los mismos planes traen el creador de sitios con IA de Hostinger, antes Horizons. La comparación por tipo de proyecto está en [Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?](/es/reviews/creador-ia-hostinger-vale-la-pena). Si lo que necesitas ya tiene nombre de plugin, quédate con WordPress."
+          "Si prefieres reducir el mantenimiento de temas y plugins, compara el creador con IA con WordPress. Decide por funciones, integraciones y mantenimiento; conocer un plugin no basta. Mira la comparación por proyecto en [Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?](/es/reviews/creador-ia-hostinger-vale-la-pena)."
         ]
       },
       {
         "heading": "Cupón SONAR20 y precio",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. El SONAR20 vale en los planes de WordPress; confirma el precio en el carrito antes de pagar. Después del primer período, vale la columna de renovación, sin los 20 % de SONAR20. Las reglas del código y los otros productos están en [cupones de Hostinger](/es/coupons/hostinger)."
+          "Usa **SONAR20** para un 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Comprueba que se aplica al plan WordPress y revisa el total del carrito; registro de dominio y renovación quedan fuera. Condiciones en [cupones de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -163516,9 +163516,9 @@ export const reviewsData: unknown[] = [
           "¿Cuál es el plan de WordPress más barato de Hostinger? El Premium, a 2,49 US$ al mes en 48 meses (119,52 US$ en total), para hasta 3 sitios. Se renueva a 10,99 US$ al mes.",
           "¿Viene WordPress instalado en Hostinger? Lo instalas desde el panel de hosting, sin descargar archivos a mano. La lista de arriba explica los pasos.",
           "¿Qué plan de WordPress conviene para una tienda online? Unlimited, por sus backups diarios y los sitios ilimitados. Para una tienda con mucho tráfico, Cloud Startup.",
-          "¿Funciona el código SONAR20 en los planes de WordPress? Sí; confirma el precio en el carrito. Da 20% en el primer período.",
+          "¿Funciona el código SONAR20 en los planes de WordPress? SONAR20: 20% en el primer período de una compra nueva elegible. Revisa el plan WordPress en el carrito; registro de dominio y renovación quedan fuera.",
           "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, 10,99 US$ al mes.",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+          "¿Un cliente existente puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. El registro de dominio también queda fuera. Introduce el código y comprueba el total del carrito."
         ]
       },
       {
@@ -163531,7 +163531,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. El SONAR20 vale en los planes de WordPress; confirma el precio en el carrito.",
+      "text": "SONAR20: 20% en el primer período de una compra nueva elegible. Revisa el plan WordPress en el carrito; registro de dominio y renovación quedan fuera.",
       "label": "Ver los planes de WordPress con el SONAR20",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163558,7 +163558,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Descarta el Cloud Startup si el Unlimited todavía te alcanza: es el plan más caro, también en la renovación.",
-        "Descarta WordPress si no quieres instalar un tema ni un plugin, ni actualizar nada: los mismos planes traen el creador de sitios con IA."
+        "Compara otra herramienta si no quieres gestionar temas y plugins; comprueba funciones, integraciones y costos antes de sustituir WordPress por el creador con IA."
       ]
     }
   },
@@ -163678,7 +163678,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "La page n'indique pas de date de fin pour la campagne, et les prix peuvent changer."
         ],
-        "emphasis": "Le renouvellement coûte environ 3 à 5 fois le prix promotionnel. Choisissez le forfait selon la colonne du renouvellement, pas seulement selon le prix d'entrée."
+        "emphasis": "Comparez engagement total, coût mensuel équivalent et renouvellement. Ni le prix d'entrée ni le renouvellement ne décident seuls."
       },
       {
         "heading": "Ce qui est inclus dans les forfaits",
@@ -163694,7 +163694,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comment commencer : la liste",
         "bullets": [
-          "**1. Comptez vos sites.** Un, jusqu'à trois ou plus. Dans la plupart des cas, cela suffit à choisir le forfait.",
+          "**1. Listez les besoins.** Comptez les sites et vérifiez espace, application, charge prévue et récupération avant de choisir.",
           "**2. Réglez le domaine.** Vérifiez si votre forfait en inclut un, ou pointez un domaine que vous avez déjà. Notez quand il se renouvelle.",
           "**3. Installez WordPress depuis le panneau d'hébergement.** Inutile de télécharger les fichiers à la main.",
           "**4. Choisissez le thème avant le contenu.** Changer de thème avec un site rempli demande du travail. Préférez un thème simple et mis à jour souvent.",
@@ -163708,13 +163708,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si vous ne voulez pas de WordPress",
         "paragraphs": [
-          "Si vous ne voulez ni installer de thème ni d'extension, ni rien mettre à jour, les mêmes forfaits incluent le créateur de sites avec IA de Hostinger, l'ancien Horizons. La comparaison par type de projet se trouve dans [Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?](/fr/reviews/createur-ia-hostinger-avis). Si ce dont vous avez besoin a déjà un nom d'extension, restez sur WordPress."
+          "Pour réduire l'entretien des thèmes et extensions, comparez le créateur IA à WordPress. Choisissez selon fonctions, intégrations et maintenance ; connaître une extension ne suffit pas. Voir le comparatif par projet dans [Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?](/fr/reviews/createur-ia-hostinger-avis)."
         ]
       },
       {
         "heading": "Code SONAR20 et prix",
         "paragraphs": [
-          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Le SONAR20 vaut sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique, sans les 20 % de SONAR20. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger)."
+          "Utilisez **SONAR20** pour 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Vérifiez son application au forfait WordPress et le total du panier ; enregistrement de domaine et renouvellement sont exclus. Conditions sur [les codes promo Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -163731,9 +163731,9 @@ export const reviewsData: unknown[] = [
           "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à 2,49 US$ par mois sur 48 mois (119,52 US$ au total), pour jusqu'à 3 sites. Il se renouvelle à 10,99 US$ par mois.",
           "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
           "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
-          "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Oui, il donne 20 % sur la première période ; vérifiez le prix dans le panier.",
+          "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Vérifiez le forfait WordPress au panier ; enregistrement de domaine et renouvellement sont exclus.",
           "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois.",
-          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+          "Un client existant peut-il utiliser SONAR20 ? Le code peut s'appliquer à un nouvel achat éligible avec le même compte, mais pas au renouvellement du service actuel. L'enregistrement de domaine est également exclu. Saisissez le code et vérifiez le total du panier."
         ]
       },
       {
@@ -163746,7 +163746,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Il vaut sur les forfaits WordPress ; vérifiez le prix dans le panier.",
+      "text": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Vérifiez le forfait WordPress au panier ; enregistrement de domaine et renouvellement sont exclus.",
       "label": "Voir les forfaits WordPress avec le SONAR20",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163773,7 +163773,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Laissez de côté Cloud Startup si Unlimited suffit encore : c'est le forfait le plus cher, au renouvellement aussi.",
-        "Laissez de côté WordPress si vous ne voulez ni installer de thème ni d'extension, ni rien mettre à jour : les mêmes forfaits incluent le créateur de sites avec IA."
+        "Comparez un autre outil si vous ne voulez pas gérer thèmes et extensions ; vérifiez fonctions, intégrations et coûts avant de remplacer WordPress par le créateur IA."
       ]
     }
   },
@@ -163893,7 +163893,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "La pagina non riporta una data di fine per la campagna, e i prezzi possono cambiare."
         ],
-        "emphasis": "Il rinnovo costa da 3 a 5 volte il prezzo promozionale. Scegli il piano guardando la colonna del rinnovo, non solo il prezzo d'ingresso."
+        "emphasis": "Confronta impegno totale, costo mensile equivalente e rinnovo. Né prezzo iniziale né rinnovo decidono da soli."
       },
       {
         "heading": "Cosa c'è già nei piani",
@@ -163909,7 +163909,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come iniziare: la checklist",
         "bullets": [
-          "**1. Conta i siti.** Uno, fino a tre o più. Nella maggior parte dei casi questo sceglie già il piano.",
+          "**1. Elenca i requisiti.** Conta i siti e controlla spazio, applicazione, carico previsto e recupero prima di scegliere.",
           "**2. Sistema il dominio.** Controlla se il tuo piano ne include uno, oppure punta un dominio che hai già. Annota quando si rinnova.",
           "**3. Installa WordPress dal pannello.** Non serve scaricare i file a mano.",
           "**4. Scegli il tema prima dei contenuti.** Cambiare tema con il sito già pieno dà più lavoro. Preferisci un tema semplice e mantenuto con regolarità.",
@@ -163923,13 +163923,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se non vuoi WordPress",
         "paragraphs": [
-          "Se non vuoi installare temi e plugin né aggiornare nulla, gli stessi piani includono il builder di siti con IA di Hostinger. Il confronto per tipo di progetto è in [AI Builder di Hostinger (ex Horizons): conviene o meglio WordPress?](/it/reviews/creatore-ia-hostinger-conviene). Se quello che ti serve ha già un nome di plugin, resta su WordPress."
+          "Per ridurre la manutenzione di temi e plugin, confronta il builder IA con WordPress. Scegli per funzioni, integrazioni e gestione; conoscere un plugin non basta. Vedi il confronto per progetto in [AI Builder di Hostinger (ex Horizons): conviene o meglio WordPress?](/it/reviews/creatore-ia-hostinger-conviene)."
         ]
       },
       {
         "heading": "Coupon SONAR20 e prezzo",
         "paragraphs": [
-          "Il codice **SONAR20** dà il **20% sul primo periodo**, nel campo coupon del carrello o dal link di questo articolo. Il SONAR20 vale sui piani WordPress: controlla il prezzo nel carrello prima di pagare. Dopo il primo periodo vale la colonna del rinnovo, senza il 20% di SONAR20: il codice vale su ogni acquisto nuovo. Le regole del codice e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger)."
+          "Usa **SONAR20** per il 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Verifica l'applicazione al piano WordPress e il totale nel carrello; registrazione di dominio e rinnovo sono esclusi. Condizioni in [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -163946,9 +163946,9 @@ export const reviewsData: unknown[] = [
           "Qual è il piano WordPress più economico di Hostinger? Il Premium, a 2,49 US$ al mese per 48 mesi (119,52 US$ in totale), per fino a 3 siti. Si rinnova a 10,99 US$ al mese.",
           "WordPress è già installato su Hostinger? Lo installi dal pannello di hosting, senza scaricare i file a mano. La checklist qui sopra spiega i passaggi.",
           "Qual è il piano WordPress di Hostinger per un negozio online? L'Unlimited, per i backup giornalieri e i siti illimitati. Per un negozio con molto traffico, il Cloud Startup.",
-          "Il coupon SONAR20 vale sul piano WordPress di Hostinger? Sì, il SONAR20 vale sui piani WordPress: controllalo nel carrello. È il 20% sul primo periodo.",
+          "Il coupon SONAR20 vale sul piano WordPress di Hostinger? SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Controlla il piano WordPress nel carrello; registrazione di dominio e rinnovo sono esclusi.",
           "Il prezzo di rinnovo è uguale a quello promozionale? No. Dopo il primo periodo di 48 mesi vale il prezzo di rinnovo: per il Premium, 10,99 US$ al mese.",
-          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+          "Un cliente esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Anche la registrazione di dominio è esclusa. Inserisci il codice e controlla il totale nel carrello."
         ]
       },
       {
@@ -163961,7 +163961,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale sui piani WordPress: controlla il prezzo nel carrello.",
+      "text": "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Controlla il piano WordPress nel carrello; registrazione di dominio e rinnovo sono esclusi.",
       "label": "Vedi i piani WordPress con il SONAR20",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163988,7 +163988,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Lascia stare il Cloud Startup se l'Unlimited basta ancora: è il piano più caro, anche al rinnovo.",
-        "Lascia stare WordPress se non vuoi installare temi e plugin né aggiornare nulla: gli stessi piani includono il builder di siti con IA."
+        "Confronta un altro strumento se non vuoi gestire temi e plugin; controlla funzioni, integrazioni e costi prima di sostituire WordPress con il builder IA."
       ]
     }
   },
@@ -164108,7 +164108,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Die Seite nennt kein Enddatum für die Aktion, und die Preise können sich ändern."
         ],
-        "emphasis": "Die Verlängerung kostet etwa das 3- bis 5-Fache des Aktionspreises. Wählen Sie den Tarif nach der Spalte der Verlängerung, nicht nur nach dem Einstiegspreis."
+        "emphasis": "Vergleichen Sie Gesamtbindung, rechnerischen Monatspreis und Verlängerung. Weder Einstiegspreis noch Verlängerung entscheiden allein."
       },
       {
         "heading": "Was in den Tarifen schon enthalten ist",
@@ -164124,7 +164124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "So fangen Sie an: die Checkliste",
         "bullets": [
-          "**1. Zählen Sie die Websites.** Eine, bis zu drei oder mehr. Das entscheidet in den meisten Fällen schon den Tarif.",
+          "**1. Anforderungen auflisten.** Zählen Sie Websites und prüfen Sie Speicher, Anwendung, erwartete Last und Wiederherstellung vor der Wahl.",
           "**2. Klären Sie die Domain.** Prüfen Sie, ob Ihr Tarif eine Domain enthält, oder nutzen Sie eine Domain, die Sie schon haben. Notieren Sie, wann sie verlängert wird.",
           "**3. Installieren Sie WordPress im Panel.** Sie müssen die Dateien nicht von Hand herunterladen.",
           "**4. Wählen Sie das Theme vor dem Inhalt.** Ein Theme zu wechseln, wenn die Seite schon voll ist, macht Mehrarbeit. Nehmen Sie ein einfaches, das regelmäßig gepflegt wird.",
@@ -164138,13 +164138,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wenn Sie kein WordPress wollen",
         "paragraphs": [
-          "Wenn Sie kein Theme und kein Plugin installieren und nichts aktualisieren wollen, bringen dieselben Tarife den KI-Builder von Hostinger mit. Der Vergleich nach Projekttyp steht in [KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?](/de/reviews/hostinger-ki-builder-lohnt-sich). Wenn Ihr Projekt schon einen Plugin-Namen hat, bleiben Sie bei WordPress."
+          "Für weniger Theme- und Plugin-Wartung vergleichen Sie KI-Builder und WordPress. Entscheiden Sie nach Funktionen, Integrationen und Pflege; ein Plugin-Name genügt nicht. Den Projektvergleich finden Sie unter [KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?](/de/reviews/hostinger-ki-builder-lohnt-sich)."
         ]
       },
       {
         "heading": "SONAR20-Gutschein und Preis",
         "paragraphs": [
-          "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung, ohne die 20 % von SONAR20. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
+          "Nutzen Sie **SONAR20** für 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Prüfen Sie die Anwendung auf den WordPress-Tarif und den Gesamtbetrag im Warenkorb; Domainregistrierung und Verlängerung sind ausgeschlossen. Bedingungen unter [Hostinger-Gutscheinen](/de/coupons/hostinger)."
         ]
       },
       {
@@ -164161,9 +164161,9 @@ export const reviewsData: unknown[] = [
           "Welcher WordPress-Tarif von Hostinger ist der günstigste? Der Premium: 2,49 US$ im Monat über 48 Monate (119,52 US$ insgesamt), für bis zu 3 Websites. Er verlängert sich auf 10,99 US$ im Monat.",
           "Ist WordPress bei Hostinger schon installiert? Sie installieren es im Hosting-Panel, ohne Dateien von Hand herunterzuladen. Die Checkliste oben erklärt die Schritte.",
           "Welcher WordPress-Tarif von Hostinger eignet sich für einen Online-Shop? Der Unlimited, wegen der täglichen Backups und der unbegrenzten Websites. Für einen Shop mit viel Traffic der Cloud Startup.",
-          "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? Ja, SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie es im Warenkorb. Wo er gilt, sind es 20 % im ersten Zeitraum.",
+          "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. WordPress-Tarif im Warenkorb prüfen; Domainregistrierung und Verlängerung sind ausgeschlossen.",
           "Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt der Verlängerungspreis: beim Premium 10,99 US$ im Monat.",
-          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+          "Können Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Domainregistrierungen sind ebenfalls ausgeschlossen. Geben Sie den Code ein und prüfen Sie den Gesamtbetrag."
         ]
       },
       {
@@ -164176,7 +164176,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Bei den WordPress-Tarifen gilt der Code: Prüfen Sie den Preis im Warenkorb.",
+      "text": "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. WordPress-Tarif im Warenkorb prüfen; Domainregistrierung und Verlängerung sind ausgeschlossen.",
       "label": "WordPress-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -164203,7 +164203,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Lassen Sie den Cloud Startup weg, wenn der Unlimited noch reicht: Er ist der teuerste Tarif, auch bei der Verlängerung.",
-        "Lassen Sie WordPress weg, wenn Sie kein Theme und kein Plugin installieren und nichts aktualisieren wollen: Dieselben Tarife bringen den KI-Builder mit."
+        "Vergleichen Sie ein anderes Werkzeug, wenn Sie Themes und Plugins nicht verwalten möchten; vor dem Ersatz durch den KI-Builder Funktionen, Integrationen und Kosten prüfen."
       ]
     }
   },
@@ -164323,7 +164323,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "このページには、キャンペーンの終了日は書かれていません。料金は変わることがあります。"
         ],
-        "emphasis": "プランは入口の価格ではなく、更新料の列で選んでください。"
+        "emphasis": "契約総額、月額換算、更新料を比べてください。入口の価格だけでも更新料だけでも決まりません。"
       },
       {
         "heading": "プランに含まれるもの",
@@ -164339,7 +164339,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "始め方：チェックリスト",
         "bullets": [
-          "**1. サイト数を数える。** 1つ、3つまで、それ以上。ほとんどの場合、これでプランが決まります。",
+          "**1. 要件を書き出す。** サイト数、容量、アプリ、予想負荷、復旧水準を確認してから選んでください。",
           "**2. ドメインを決める。**プランに無料ドメインが付くか確認し、持っているドメインを使うか、新しく取得します。更新日を控えておきましょう。",
           "**3. パネルから WordPress をインストールする。**ファイルを手でダウンロードする必要はありません。 ",
           "**4. コンテンツの前にテーマを選ぶ。** サイトがいっぱいになってからテーマを変えると手間がかかります。シンプルで、定期的に更新されているテーマを選びましょう。",
@@ -164353,13 +164353,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "WordPress を使わない場合",
         "paragraphs": [
-          "テーマやプラグインのインストールや更新をしたくない場合は、同じプランに Hostinger の AI ビルダーも含まれています。プロジェクト別の比較は、[Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？](/ja/reviews/hostinger-ai-builder-ja) にあります。必要な機能がプラグイン名で決まっているなら、WordPress を選んでください。"
+          "テーマやプラグインの保守を減らしたければAIビルダーとWordPressを比較してください。必要機能、連携、維持方法で選び、プラグイン名だけで決めないでください。用途別の比較は[Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？](/ja/reviews/hostinger-ai-builder-ja)。"
         ]
       },
       {
         "heading": "SONAR20 クーポンと価格",
         "paragraphs": [
-          "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでも SONAR20 が使えます。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されますが、更新料にSONAR20の20%は含まれません。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
+          "**SONAR20**は、既存アカウントでも対象の新規購入の初回契約期間が20%割引です。WordPressプランへの適用とカートの総額を確認してください。ドメイン登録と更新は対象外です。条件は[Hostinger のクーポン](/ja/coupons/hostinger)で確認できます。"
         ]
       },
       {
@@ -164376,9 +164376,9 @@ export const reviewsData: unknown[] = [
           "Hostinger の WordPress で一番安いプランは？ Premium で、48か月で月額 US$2.49（合計 US$119.52）、3サイトまでです。更新料は月額 US$10.99です。",
           "Hostinger では WordPress はインストール済みですか？ ホスティングのパネルからインストールします。ファイルを手でダウンロードする必要はありません。手順は上のチェックリストにあります。",
           "オンラインショップ向けの Hostinger の WordPress プランは？ Unlimited です。毎日のバックアップとサイト数無制限が理由です。アクセスの多いショップなら Cloud Startup です。",
-          "SONAR20 は Hostinger の WordPress プランで使えますか？ WordPress プランでも使えます。カートで価格を確認してください。最初の期間が20%割引です。",
+          "SONAR20 は Hostinger の WordPress プランで使えますか？ SONAR20：対象となる新規購入の最初の期間が20%割引。WordPressプランはカートで確認してください。ドメイン登録と更新は対象外です。",
           "更新料はプロモーション価格と同じですか？ いいえ。最初の48か月の期間が終わると更新料になります。Premium では月額 US$10.99です。",
-          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
+          "既存ユーザーもSONAR20を使える？ 同じアカウントでも対象の新規購入には使える場合がありますが、現在のサービスの更新には使えません。ドメイン登録も対象外です。コードを入力してカートの総額を確認してください。"
         ]
       },
       {
@@ -164391,7 +164391,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。WordPress プランでも使えます。カートで価格を確認してください。",
+      "text": "SONAR20：対象となる新規購入の最初の期間が20%割引。WordPressプランはカートで確認してください。ドメイン登録と更新は対象外です。",
       "label": "WordPress プランを SONAR20 で見る",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -164418,7 +164418,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Unlimited で足りるなら、Cloud Startup は見送りです。一番高いプランで、更新料も最も高くなります。",
-        "テーマもプラグインも更新もしたくないなら、WordPress は見送りです。同じプランに AI ビルダーも付いています。"
+        "テーマやプラグインを管理したくなければ別のツールも比較し、AIビルダーに替える前に機能、連携、費用を確認してください。"
       ]
     }
   },
@@ -164537,7 +164537,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "페이지에서 캠페인의 끝나는 날짜는 찾지 못했고, 가격은 바뀔 수 있습니다."
         ],
-        "emphasis": "플랜은 처음 가격이 아니라 갱신가 열을 보고 고르세요."
+        "emphasis": "계약 총액, 환산 월 요금과 갱신가를 비교하세요. 처음 가격만으로도 갱신가만으로도 결정할 수 없습니다."
       },
       {
         "heading": "플랜에 이미 들어 있는 것",
@@ -164553,7 +164553,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "시작 체크리스트",
         "bullets": [
-          "**1. 사이트 수를 세세요.** 하나, 세 개, 또는 그 이상. 대부분의 경우 이것만으로 플랜이 정해집니다.",
+          "**1. 요구 사항을 적으세요.** 사이트 수, 용량, 앱, 예상 작업량과 복구 수준을 확인한 뒤 고르세요.",
           "**2. 도메인을 정하세요.** 플랜에 무료 도메인이 포함되는지 확인하거나, 이미 가진 도메인을 연결하세요. 갱신일을 적어 두세요.",
           "**3. 패널에서 WordPress를 설치하세요.** 파일을 직접 내려받을 필요는 없습니다.",
           "**4. 콘텐츠보다 테마를 먼저 고르세요.** 사이트가 다 찬 뒤에 테마를 바꾸면 손이 많이 갑니다. 단순하고 자주 업데이트되는 테마를 고르세요.",
@@ -164567,13 +164567,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "WordPress를 원하지 않는다면",
         "paragraphs": [
-          "플러그인이나 테마를 설치하고 업데이트하고 싶지 않다면, 같은 플랜에 호스팅어의 AI 사이트 빌더도 들어 있습니다. 프로젝트 유형별 비교는 [호스팅어 AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?](/ko/reviews/hostinger-ai-builder-ko)에 있습니다. 필요한 기능에 이미 플러그인 이름이 붙어 있다면 WordPress에 머무르세요."
+          "테마와 플러그인 관리를 줄이고 싶다면 AI 빌더와 WordPress를 비교하세요. 필요한 기능, 연동과 유지 방법으로 선택하고 플러그인 이름만으로 결정하지 마세요. 프로젝트별 비교는 [호스팅어 AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?](/ko/reviews/hostinger-ai-builder-ko)."
         ]
       },
       {
         "heading": "SONAR20 쿠폰과 가격",
         "paragraphs": [
-          "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가면 **첫 기간에 20%**가 할인됩니다. SONAR20은 WordPress 플랜에도 적용됩니다. 결제 전에 장바구니에서 가격을 확인하세요. 첫 기간이 끝나면 갱신가가 적용되며, SONAR20의 20%는 갱신가에 적용되지 않습니다. 규칙과 다른 제품은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
+          "**SONAR20**은 기존 계정도 대상 신규 구매의 첫 계약 기간에 20% 할인됩니다. WordPress 요금제에 적용되는지와 장바구니 총액을 확인하세요. 도메인 등록과 갱신은 제외됩니다. 조건은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요."
         ]
       },
       {
@@ -164590,9 +164590,9 @@ export const reviewsData: unknown[] = [
           "WordPress 호스팅어 플랜 중 가장 저렴한 것은 무엇인가요? Premium입니다. 48개월 선결제 월 US$ 2.49, 총액 US$ 119.52이고, 3개 사이트까지 쓸 수 있습니다. 갱신은 월 US$ 10.99입니다.",
           "호스팅어에서 WordPress가 설치되어 나오나요? 호스팅 패널에서 설치합니다. 파일을 직접 내려받을 필요는 없습니다. 단계는 위의 체크리스트에 있습니다.",
           "온라인 스토어에는 어느 WordPress 플랜이 맞나요? Unlimited입니다. 사이트 무제한과 매일 백업이 있습니다. 트래픽이 아주 많은 스토어라면 Cloud Startup을 보세요.",
-          "WordPress 플랜에도 SONAR20을 쓸 수 있나요? 네, 쓸 수 있습니다. 장바구니에서 가격을 확인하세요. 20%는 모든 신규 구매에 적용되며, 갱신은 정가로 청구됩니다.",
+          "WordPress 플랜에도 SONAR20을 쓸 수 있나요? SONAR20: 대상 신규 구매 첫 기간 20% 할인. WordPress 플랜을 장바구니에서 확인하세요. 도메인 등록과 갱신은 제외됩니다.",
           "갱신가는 프로모션 가격과 같은가요? 아닙니다. 첫 48개월 기간이 끝나면 갱신가가 적용됩니다. Premium은 월 US$ 10.99입니다.",
-          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
+          "기존 고객도 SONAR20을 쓸 수 있나요? 같은 계정의 대상 신규 구매에는 적용될 수 있지만 현재 서비스의 갱신에는 적용되지 않습니다. 도메인 등록도 제외됩니다. 코드를 입력하고 장바구니 총액을 확인하세요."
         ]
       },
       {
@@ -164605,7 +164605,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 적용됩니다. SONAR20은 WordPress 플랜에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
+      "text": "SONAR20: 대상 신규 구매 첫 기간 20% 할인. WordPress 플랜을 장바구니에서 확인하세요. 도메인 등록과 갱신은 제외됩니다.",
       "label": "SONAR20으로 WordPress 플랜 보기",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -164633,7 +164633,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Unlimited로 충분하다면 Cloud Startup은 넘기세요. 가장 비싼 플랜이고, 갱신가도 가장 큽니다.",
-        "테마를 설치하고 플러그인을 관리하고 업데이트하기 싫다면 WordPress는 넘기세요. 같은 플랜에 AI 사이트 빌더도 들어 있습니다."
+        "테마와 플러그인을 관리하고 싶지 않다면 다른 도구도 비교하세요. AI 빌더로 바꾸기 전 기능, 연동과 비용을 확인하세요."
       ]
     }
   },
@@ -164752,7 +164752,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "页面上没有显示活动的结束日期，价格可能变化。"
         ],
-        "emphasis": "选套餐请看续费那一列，不要只看入门价。"
+        "emphasis": "比较合同总额、折算月费与续费。入门价或续费价单独都不能决定选择。"
       },
       {
         "heading": "套餐已包含的内容",
@@ -164768,7 +164768,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "开始使用：清单",
         "bullets": [
-          "**1. 数一数网站。** 一个、三个，还是更多。大多数情况下，这一点就决定了套餐。",
+          "**1. 列出需求。** 选择前确认网站数量、空间、应用、预期负载和恢复需求。",
           "**2. 确定域名。** 先确认套餐是否含免费域名，或用你已有的域名。记下它的续费日期。",
           "**3. 在面板里安装 WordPress。**不需要手动下载文件。",
           "**4. 先选主题，再写内容。** 网站内容装满后再换主题很费事。选简单、更新频繁的主题。",
@@ -164782,13 +164782,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如果你不想用 WordPress",
         "paragraphs": [
-          "如果你不想安装主题和插件，也不想更新任何东西，同样的套餐里还有 Hostinger 的 AI 建站工具。按项目类型的比较见 [Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？](/zh-hans/reviews/hostinger-ai-builder-zh-hans)。如果你需要的功能已经有了插件名字，就留在 WordPress。"
+          "若想减少主题与插件维护，请比较AI建站与WordPress。按功能、集成和维护方式选择，不要只凭插件名字决定。按项目比较见[Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？](/zh-hans/reviews/hostinger-ai-builder-zh-hans)。"
         ]
       },
       {
         "heading": "SONAR20 优惠码与价格",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。SONAR20 适用于 WordPress 套餐，请在付款前到购物车确认价格。首个周期之后，按续费价计算，没有 SONAR20 的 20% 折扣。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+          "**SONAR20**适用于符合资格的新购首个合同期间，可享20%折扣，已有账户也可适用。请确认WordPress套餐是否适用及购物车总额；域名注册与续费除外。条件见[Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -164805,9 +164805,9 @@ export const reviewsData: unknown[] = [
           "Hostinger 上最便宜的 WordPress 套餐是哪个？是 Premium：48 个月预付每月 US$ 2.49，总价 US$ 119.52，最多 3 个网站。续费为每月 US$ 10.99。",
           "Hostinger 会预装 WordPress 吗？在主机面板里安装，不需要手动下载文件。步骤见上面的清单。",
           "网店适合哪个 WordPress 套餐？Unlimited：网站不限，每日备份。流量非常大的网店可以看 Cloud Startup。",
-          "SONAR20 能用于 WordPress 套餐吗？能。请在购物车确认价格。20% 适用于首个周期；续费按标价收费，没有折扣。",
+          "SONAR20 能用于 WordPress 套餐吗？ SONAR20：符合条件的新购首个周期优惠20%。请在购物车确认WordPress套餐；域名注册与续费除外。",
           "续费价和促销价一样吗？不一样。第一个 48 个月周期结束后，按续费价计算：Premium 为每月 US$ 10.99。",
-          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+          "已有客户也能用SONAR20吗？同一账户符合资格的新购可适用，但当前服务的续费不适用，域名注册也除外。输入代码后请确认购物车总额。"
         ]
       },
       {
@@ -164820,7 +164820,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。WordPress 套餐也适用，请在购物车确认价格。",
+      "text": "SONAR20：符合条件的新购首个周期优惠20%。请在购物车确认WordPress套餐；域名注册与续费除外。",
       "label": "通过 SONAR20 查看 WordPress 套餐",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -164848,7 +164848,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "如果 Unlimited 已经够用，就别选 Cloud Startup：它最贵，续费也最高。",
-        "如果不想装主题、装插件、做任何更新，就别用 WordPress：同样的套餐里还有 AI 建站工具。"
+        "若不想管理主题与插件，也可比较其他工具；改用AI建站前请确认功能、集成与费用。"
       ]
     }
   },
@@ -164967,7 +164967,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "頁面上沒有標示活動的結束日期，價格可能變動。"
         ],
-        "emphasis": "選方案請看續約價那一欄，不要只看入門價。"
+        "emphasis": "比較合約總額、折算月費與續約價。入門價或續約價單獨都不能決定選擇。"
       },
       {
         "heading": "方案已包含的內容",
@@ -164983,7 +164983,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "開始使用：檢查清單",
         "bullets": [
-          "**1. 先算網站數量。** 一個、三個，還是更多。多數情況下，光是這一點就能決定方案。",
+          "**1. 列出需求。** 選擇前確認網站數量、空間、應用、預期負載與復原需求。",
           "**2. 決定網域。** 先確認方案是否含免費網域，或使用你已有的網域。記下它的續約日期。",
           "**3. 在管理面板安裝 WordPress。**不需要手動下載檔案。",
           "**4. 先選佈景主題，再放內容。** 網站內容滿了之後再換佈景主題，很費工。選簡單、更新頻繁的主題。",
@@ -164997,13 +164997,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如果你不想用 WordPress",
         "paragraphs": [
-          "如果你不想安裝佈景主題與外掛，也不想更新任何東西，同樣的方案裡還有 Hostinger 的 AI 建站工具。依專案類型的比較請見 [Hostinger AI Builder（前身為 Horizons）：值得用，還是選 WordPress？](/zh-hant/reviews/hostinger-ai-builder-zh-hant)。如果你需要的功能已經有指定的外掛，就留在 WordPress。"
+          "若想減少佈景主題與外掛維護，請比較AI建站與WordPress。依功能、整合與維護方式選擇，不要只憑外掛名字決定。依專案比較見[Hostinger AI Builder（前身為 Horizons）：值得用，還是選 WordPress？](/zh-hant/reviews/hostinger-ai-builder-zh-hant)。"
         ]
       },
       {
         "heading": "SONAR20 優惠碼與價格",
         "paragraphs": [
-          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享**第一期 20% 折扣**。SONAR20 也適用於 WordPress 方案，付款前請先到購物車確認價格。SONAR20 的 20% 折扣適用於每一筆新購買；第一期之後以續約價計算，沒有折扣。規則與其他產品請見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
+          "**SONAR20**適用於符合資格的新購首個合約期間，可享20%折扣，已有帳號也可適用。請確認WordPress方案是否適用及購物車總額；網域註冊與續約除外。條件見[Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -165020,9 +165020,9 @@ export const reviewsData: unknown[] = [
           "Hostinger 最便宜的 WordPress 方案是哪一個？是 Premium：48 個月預付每月 US$ 2.49，總價 US$ 119.52，最多 3 個網站。續約價為每月 US$ 10.99。",
           "Hostinger 的 WordPress 是預先安裝好的嗎？要在主機管理面板安裝，不需要手動下載檔案。步驟請見上方的檢查清單。",
           "網路商店適合哪一個 WordPress 方案？Unlimited：網站不限，每日備份。流量非常大的商店可以考慮 Cloud Startup。",
-          "SONAR20 可以用在 WordPress 方案嗎？可以，請在購物車確認價格。20% 適用於第一期，續訂按定價計算，沒有折扣。",
+          "SONAR20 可以用在 WordPress 方案嗎？ SONAR20：符合條件的新購首期優惠20%。請在購物車確認WordPress方案；網域註冊與續約除外。",
           "續約價和優惠價一樣嗎？不一樣。第一個 48 個月的期間結束後，以續約價計算：Premium 為每月 US$ 10.99。",
-          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
+          "舊客戶也能用SONAR20嗎？同一帳號符合資格的新購可適用，但目前服務的續約不適用，網域註冊也除外。輸入代碼後請確認購物車總額。"
         ]
       },
       {
@@ -165035,7 +165035,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 也適用於 WordPress 方案，請在購物車確認價格。",
+      "text": "SONAR20：符合條件的新購首期優惠20%。請在購物車確認WordPress方案；網域註冊與續約除外。",
       "label": "用 SONAR20 查看 WordPress 方案",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -165063,7 +165063,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "如果 Unlimited 已經夠用，就不必選 Cloud Startup：它最貴，續約價也最高。",
-        "如果不想安裝佈景主題與外掛、也不想做任何更新，就不要用 WordPress：同樣的方案裡還有 AI 建站工具。"
+        "若不想管理佈景主題與外掛，也可比較其他工具；改用AI建站前請確認功能、整合與費用。"
       ]
     }
   },
