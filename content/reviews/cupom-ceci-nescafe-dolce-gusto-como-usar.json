@@ -148,7 +148,7 @@
         "Compra mínima não atingida: O valor dos produtos no carrinho deve ser de no mínimo R$ 100.",
         "Carrinho vazio: Adicione pelo menos um produto ao carrinho antes de aplicar o cupom.",
         "Kit ou combo com regra própria: o CECI soma com as promoções, mas, se algum kit não aceitar o cupom, o resumo do carrinho mostra; teste o carrinho sem ele.",
-        "Validade da campanha: confira as condições e o registro de verificação mais recente na página do cupom. A reconfirmação mensal não dispensa conferir a aceitação do CECI no resumo do pedido.",
+        "Validade da campanha: confira as condições na página do cupom e a aceitação do CECI no resumo do pedido.",
         "Problema técnico: limpe o cache do navegador, tente outro navegador ou o app oficial, ou entre em contato com o suporte da NESCAFÉ."
       ]
     },
