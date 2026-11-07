@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "O cupom Hostinger SONAR20 dá 20% no primeiro período, em plano mensal ou anual, para cliente novo ou antigo. Veja onde colar o código, os preços e o que muda na renovação.",
+  "description": "O cupom Hostinger SONAR20 dá 20% no primeiro período de uma compra nova elegível, em plano mensal ou anual. Veja onde colar o código, os preços e o que muda na renovação.",
   "metaDescription": "SONAR20: 20% no primeiro período de compra nova elegível na Hostinger, mensal ou anual, inclusive para clientes atuais. Veja como aplicar e a renovação.",
   "publishedAt": "19 de outubro de 2026",
   "publishedAtISO": "2026-10-19",
@@ -75,10 +75,10 @@
       "comparisonTable": {
         "headers": [
           "Plano",
-          "48 meses sem SONAR20 — equivalente mensal",
-          "48 meses com SONAR20 — equivalente mensal e total",
-          "12 meses com SONAR20 — equivalente mensal e total",
-          "Renovação sem SONAR20 — equivalente mensal"
+          "48 meses sem SONAR20 (equivalente mensal)",
+          "48 meses com SONAR20 (equivalente mensal e total)",
+          "12 meses com SONAR20 (equivalente mensal e total)",
+          "Renovação sem SONAR20 (equivalente mensal)"
         ],
         "rows": [
           [
