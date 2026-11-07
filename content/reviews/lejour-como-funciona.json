@@ -245,14 +245,14 @@
         "**Basic:** para começar sem custo de plano e avaliar se o site e a lista atendem ao casal. Considere a taxa dos presentes, o domínio opcional e a quantidade de saques além dos dois gratuitos.",
         "**Premium:** compare se o casal quer domínio e os recursos pagos, se pretende fazer vários saques ou se espera que a redução da taxa compense o preço do plano.",
         "**Pro:** considere se os idiomas e os recursos adicionais fazem diferença para os convidados. Pela taxa, compare o custo extra com a diferença de percentual da tabela.",
-        "Na dúvida, comece no Basic: com o Premium em promoção, a R$ 99,90, e o casal pagando a taxa, a conta chega a R$ 16.650 em presentes, como mostra a simulação abaixo. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
+        "Na dúvida, comece no Basic: com o Premium em promoção, a R$ 99,90, e o casal pagando a taxa, o plano só compensa a partir de R$ 16.650 em presentes, como mostra a simulação abaixo. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
       ],
       "postParagraphs": [
         "O cálculo usa o preço do plano dividido pela diferença entre as taxas. No exemplo Basic versus Premium, a diferença é de 0,60 ponto percentual: R$ 99,90 ÷ 0,006. A tabela mostra também as outras duas comparações, sem contar domínio, saques ou recursos extras.",
         "Se a taxa fica com os convidados, essa redução beneficia os convidados, não o saldo líquido do casal. Nesse caso, avalie o plano pelos recursos e pelos demais custos que ele evita. Se o casal paga a taxa, refaça a conta com o preço efetivamente disponível no painel; o Premium usado neste exemplo estava em promoção."
       ],
       "comparisonTable": {
-        "caption": "Ponto de equilíbrio pela redução da taxa, com os preços usados na conta. Conta nossa, supondo que o casal pague a taxa; não inclui domínio, saques ou outros recursos.",
+        "caption": "Ponto de equilíbrio pela redução da taxa, calculado com os preços da tabela de planos e supondo que o casal pague a taxa; não inclui domínio, saques ou outros recursos.",
         "headers": [
           "Comparação",
           "Diferença na taxa",
@@ -296,7 +296,7 @@
         "Qual a taxa da Lejour? Depende do plano; os percentuais estão na tabela de taxas acima. Num presente de R$ 200 no Basic, cerca de R$ 8 pela nossa conta.",
         "Quem paga a taxa da lista de presentes? O casal escolhe: a taxa pode sair do valor que o casal recebe ou ser paga pelos convidados. A opção fica em Configurações, em \"Sobre site e lista\".",
         "Os presentes da Lejour são entregues em casa? Não. Todos os presentes da lista são virtuais: o convidado dá um valor, que vira crédito em dinheiro para o casal usar por Pix ou em produtos da Fast Shop.",
-        "Dá para usar o dinheiro da lista na Fast Shop? Sim. O casal pode usar o crédito em dinheiro, em produtos da Fast Shop ou dividir entre os dois. A página da Fast Shop consultada informava cashback mínimo de 4% nas compras com o crédito; confira as condições atuais antes de contar com esse valor.",
+        "Dá para usar o dinheiro da lista na Fast Shop? Sim. O casal pode usar o crédito em dinheiro, em produtos da Fast Shop ou dividir entre os dois. A Fast Shop informava cashback mínimo de 4% nas compras com o crédito; as condições podem mudar, então confirme antes de contar com esse valor.",
         "Em quanto tempo o dinheiro cai na conta? Presentes pagos por Pix ou boleto viram crédito depois da confirmação do pagamento, e os pagos no cartão, em 15 dias corridos. O saque por Pix sai em até 1 dia útil, depois da validação de identidade.",
         "O convidado pode parcelar o presente? Sim. No cartão, o convidado parcela em até 12x, com juros de 3,49% ao mês pagos por ele, e também pode pagar por Pix ou boleto."
       ]
