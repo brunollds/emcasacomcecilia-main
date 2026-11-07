@@ -78890,7 +78890,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Cléa Store é confiável: CNPJ ativo, site oficial com dados publicados, devolução sem custo e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui em novembro. O que mais pesa é o frete, grátis só acima de um valor mínimo. Para comprar com desconto, use o [cupom Cléa Store](/cupons/clea-store)."
+          "Sim, a Cléa Store é confiável: CNPJ ativo, site oficial com dados publicados, devolução sem custo e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui em novembro. O que mais pesa é o frete, grátis só acima de um valor mínimo. O [cupom Cléa Store](/cupons/clea-store) traz o CSEMCASACOMCECILIA, 10% OFF em todo o site."
         ]
       },
       {
@@ -100299,7 +100299,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para montar três looks de trabalho com alfaiataria e peças da Cléa Store: um neutro com blazer e camisa, um com body por baixo do blazer e um com colete e calça vermelhos. Nos dois primeiros, a calça de alfaiataria é sua e fica fora da conta. A loja não vende o look pronto."
+          "Dá para montar três looks de trabalho com alfaiataria e peças da Cléa Store: um neutro com blazer e camisa, um com body por baixo do blazer e um com colete e calça vermelhos. Nos dois primeiros, a calça é sua e fica fora da conta. O CSEMCASACOMCECILIA dá 10% OFF no site."
         ]
       },
       {
@@ -100562,7 +100562,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O body certo depende do uso: gola alta e manga longa para o frio, regata para o dia a dia, frente única ou ombro único para a noite. O mais barato é o Regata Cavado. O que pesa é o uso e o tamanho; veja abaixo a escolha por uso, a tabela e o cupom."
+          "O body certo depende do uso: gola alta e manga longa para o frio, regata para o dia a dia, frente única ou ombro único para a noite. O mais barato é o Regata Cavado. O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, e soma com as promoções."
         ]
       },
       {
@@ -101092,7 +101092,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na comparação de outubro, para quase todo o essencial (t-shirts e bodies), o Mercado Livre saía mais barato que o site com o cupom; para variedade, cupom e cashback, o site é melhor. Os preços do Mercado Livre mudam rápido, então confira os dois antes de comprar."
+          "Na comparação de outubro, para quase todo o essencial (t-shirts e bodies), o Mercado Livre saía mais barato que o site com o cupom; para variedade, cupom e cashback, o site é melhor. No site vale o CSEMCASACOMCECILIA, com 10% OFF. Os preços do Mercado Livre mudam rápido, então confira os dois."
         ]
       },
       {
@@ -123307,7 +123307,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica. O que pesa na escolha é a cor e a quantidade; veja o capítulo final."
+          "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica, e o que pesa na escolha é a cor e a quantidade. O CSEMCASACOMCECILIA dá 10% OFF no site, e soma com as promoções."
         ]
       },
       {
@@ -125091,7 +125091,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na grade de outubro, a Cléa Store não tinha conjunto de alfaiataria pronto, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom. O que decide é o tamanho: veja a Grade do dia."
+          "Na grade de outubro, a Cléa Store não tinha conjunto de alfaiataria pronto, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom, e o que decide é o tamanho. O CSEMCASACOMCECILIA dá 10% OFF no site."
         ]
       },
       {
@@ -179562,7 +179562,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10% que soma com as promoções. Camisetas e bodies saem em P, M e G. O que muda a escolha é o tamanho e o preço por peça do kit; veja os capítulos da camiseta e do cupom."
+          "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis. Camisetas e bodies saem em P, M e G; o que muda a escolha é o tamanho e o preço por peça do kit. O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, e soma com as promoções."
         ]
       },
       {
