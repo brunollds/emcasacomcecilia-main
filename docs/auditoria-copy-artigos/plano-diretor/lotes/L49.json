@@ -1,0 +1,34 @@
+{
+  "lote": "L49",
+  "tipo": "m5-pt",
+  "loja": "holyfoods",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "holyfoods-e-confiavel",
+      "arquivo": "content/reviews/holyfoods-e-confiavel.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "holyfoods-e-confiavel-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "O código entra no lugar da frase de encaminhamento ou de redundância; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Dá para comprar, com atenção à entrega: a HolyFoods tem CNPJ ativo e loja online própria. No Reclame Aqui a reputação é Boa, e a entrega é o principal ponto de atenção. Veja como conferir o site e acompanhar o pedido."
+              ],
+              "depois": [
+                "Dá para comprar, com atenção à entrega: a HolyFoods tem CNPJ ativo e loja online própria. No Reclame Aqui a reputação é Boa, e a entrega é o principal ponto de atenção. Na loja online, o EMCASA dá 15% OFF em todo o site."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

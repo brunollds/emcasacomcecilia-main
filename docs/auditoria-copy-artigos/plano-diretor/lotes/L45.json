@@ -1,0 +1,294 @@
+{
+  "lote": "L45",
+  "tipo": "m5-pt",
+  "loja": "i-wanna-sleep",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca",
+      "arquivo": "content/reviews/aliv-head-gel-iws-mascara-termica-enxaqueca.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "aliv-head-gel-iws-mascara-termica-enxaqueca-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso. É uma medida de conforto e não substitui avaliação de saúde."
+              ],
+              "depois": [
+                "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso, e ela não substitui avaliação de saúde. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "i-wanna-sleep-e-boa",
+      "arquivo": "content/reviews/i-wanna-sleep-e-boa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "i-wanna-sleep-e-boa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim, para quem procura travesseiro: a I Wanna Sleep vende dez modelos e informa altura, material e tamanho, e é por isso que se escolhe. Melatonina e spray entram só pelo rótulo, e colchão não se compra pelo site. O que muda a conta é o kit e o código; veja os capítulos de kits e de compra."
+              ],
+              "depois": [
+                "Sim, para quem procura travesseiro: a I Wanna Sleep vende dez modelos e informa altura, material e tamanho, e é por isso que se escolhe. Melatonina e spray entram só pelo rótulo, e colchão não se compra pelo site. O que muda a conta é o kit e o código CECIEMCASA, de 10% OFF em todo o site."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "i-wanna-sleep-e-confiavel",
+      "arquivo": "content/reviews/i-wanna-sleep-e-confiavel.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "i-wanna-sleep-e-confiavel-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim, pelos dados públicos: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+              ],
+              "depois": [
+                "Sim, pelos dados públicos: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento, que a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao) cobre. Para comprar com desconto, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) traz o CECIEMCASA, 10% OFF no site oficial."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "i-wanna-sleep-ou-ortobom",
+      "arquivo": "content/reviews/i-wanna-sleep-ou-ortobom.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "i-wanna-sleep-ou-ortobom-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural e teste com crédito para troca. Compare construção, altura e condições antes de escolher."
+              ],
+              "depois": [
+                "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural, teste com crédito para troca e 10% OFF em todo o site com o CECIEMCASA. Compare construção, altura e condições antes de escolher."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao",
+      "arquivo": "content/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "i-wanna-sleep-reclame-aqui-nota-reputacao-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro, então dá para comprar no site oficial. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil no dia da compra. Para desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+              ],
+              "depois": [
+                "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro, então dá para comprar no site oficial. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil ao comprar. O CECIEMCASA, 10% OFF no site, está no [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "melatonina-gummy-iws-para-que-serve-como-tomar",
+      "arquivo": "content/reviews/melatonina-gummy-iws-para-que-serve-como-tomar.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "melatonina-gummy-iws-para-que-serve-como-tomar-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A Melatonina Gummy IWS é um suplemento alimentar para adultos de 19 anos ou mais, com 0,21 mg de melatonina por goma. A IWS orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica. Não é medicamento nem tratamento para insônia."
+              ],
+              "depois": [
+                "A Melatonina Gummy IWS é um suplemento alimentar para adultos de 19 anos ou mais, com 0,21 mg de melatonina por goma. A IWS orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica, e não é medicamento nem tratamento para insônia. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pillow-top-magnum-iws-colchao-dor-nas-costas",
+      "arquivo": "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "pillow-top-magnum-iws-colchao-dor-nas-costas-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. O que decide é o estado do colchão, e na dúvida sobre dor nas costas o caminho é o médico."
+              ],
+              "depois": [
+                "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. Na dúvida sobre dor nas costas, o caminho é o médico; o CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
+      "arquivo": "content/reviews/qual-cobertor-escolher-guia-linhas-i-wanna-sleep.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Escolha o Igloo se quer um cobertor reversível, com um lado fresco e outro quente, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e o toque que você prefere; o veredito está em Qual escolher: o cobertor certo para cada perfil."
+              ],
+              "depois": [
+                "Escolha o Igloo se quer um cobertor reversível, com um lado fresco e outro quente, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e o toque que você prefere. O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+      "arquivo": "content/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O capítulo Qual linha escolher liga cada perfil à linha certa."
+              ],
+              "depois": [
+                "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sleepspray-kidz-iws-como-funciona-ritual-do-sono",
+      "arquivo": "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "sleepspray-kidz-iws-como-funciona-ritual-do-sono-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico. Faz sentido como marcador de rotina de sono, não como solução; o capítulo Vale a pena? Nosso veredito mostra para quem compensa."
+              ],
+              "depois": [
+                "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico, então faz sentido como marcador de rotina de sono, não como solução. O CECIEMCASA dá 10% OFF no site."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "travesseiro-i-wanna-sleep-ou-emma",
+      "arquivo": "content/reviews/travesseiro-i-wanna-sleep-ou-emma.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "travesseiro-i-wanna-sleep-ou-emma-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código CECIEMCASA (10% OFF em todo o site) entra na resposta rápida no lugar de frase de encaminhamento ou sobra, sem perder o veredito.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, que permite tirar enchimento, com os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca; a Emma, 14 noites com reembolso. Os dois modelos da Ortobom citados custam menos, mas as páginas não informam teste em casa."
+              ],
+              "depois": [
+                "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, com enchimento removível, e os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca e 10% OFF no site com o CECIEMCASA; a Emma, 14 noites com reembolso. Os da Ortobom custam menos, mas sem teste informado."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

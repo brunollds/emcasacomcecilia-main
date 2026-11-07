@@ -1,0 +1,268 @@
+{
+  "lote": "L62",
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "vps-ou-hospedagem-compartilhada-qual-escolher",
+      "arquivo": "content/reviews/vps-ou-hospedagem-compartilhada-qual-escolher.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "vps-ou-hospedagem-compartilhada-qual-escolher-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Para blog, portfólio ou loja pequena, comece comparando os planos de hospedagem compartilhada que atendem à sua aplicação. Considere VPS se precisa de configurações, programas ou acesso root indisponíveis nesses planos e tem quem mantenha o servidor. Não escolha só pelo nome do plano: o quadro por cenário e a conta de renovação ajudam a comparar."
+              ],
+              "depois": [
+                "Para blog, portfólio ou loja pequena, comece comparando os planos de hospedagem compartilhada que atendem à sua aplicação. Considere VPS se precisa de configurações, programas ou acesso root indisponíveis nesses planos e tem quem mantenha o servidor. O código SONAR20 dá 20% na compra nova dos dois, exceto renovação e domínio."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vps-oder-shared-hosting",
+      "arquivo": "content/reviews/vps-oder-shared-hosting.json",
+      "locale": "de",
+      "propostas": [
+        {
+          "id": "vps-oder-shared-hosting-de-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Für einen Blog, ein Portfolio oder einen kleinen Shop vergleichen Sie zuerst Shared-Hosting-Tarife, die Ihre Anwendung unterstützen. Ein VPS kommt infrage, wenn Sie Einstellungen, Software oder Root-Zugriff brauchen, die diese Tarife nicht bieten, und jemanden haben, der den Server betreut. Wählen Sie nicht nur nach dem Tarifnamen; die Tabelle nach Szenario hilft beim Vergleich."
+              ],
+              "depois": [
+                "Für einen Blog, ein Portfolio oder einen kleinen Shop vergleichen Sie zuerst Shared-Hosting-Tarife, die Ihre Anwendung unterstützen. Ein VPS kommt infrage, wenn Sie Einstellungen, Software oder Root-Zugriff brauchen, die diese Tarife nicht bieten, und jemanden haben, der den Server betreut. Der Code SONAR20 gibt bei beiden 20 % auf Neukäufe, nicht auf Verlängerungen oder Domains."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vps-or-shared-hosting-which-to-choose",
+      "arquivo": "content/reviews/vps-or-shared-hosting-which-to-choose.json",
+      "locale": "en",
+      "propostas": [
+        {
+          "id": "vps-or-shared-hosting-which-to-choose-en-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "For a blog, portfolio or small shop, start by comparing shared plans that support your application. Consider a VPS when you need software, configuration or root access those plans do not provide, and someone to maintain the server. Choose by requirements, not by the plan name; the scenario table helps you compare."
+              ],
+              "depois": [
+                "For a blog, portfolio or small shop, start by comparing shared plans that support your application. Consider a VPS when you need software, configuration or root access those plans do not provide, and someone to maintain the server. The code SONAR20 gives 20% off new purchases of either, not renewals or domains."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vps-o-hosting-compartido-cual-elegir",
+      "arquivo": "content/reviews/vps-o-hosting-compartido-cual-elegir.json",
+      "locale": "es",
+      "propostas": [
+        {
+          "id": "vps-o-hosting-compartido-cual-elegir-es-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Para un blog, un portafolio o una tienda pequeña, empieza comparando los planes de hosting compartido que admiten tu aplicación. Considera un VPS si necesitas configuraciones, programas o acceso root que esos planes no ofrecen y tienes a alguien que mantenga el servidor. No elijas solo por el nombre del plan: el cuadro por escenario ayuda a comparar."
+              ],
+              "depois": [
+                "Para un blog, un portafolio o una tienda pequeña, empieza comparando los planes de hosting compartido que admiten tu aplicación. Considera un VPS si necesitas configuraciones, programas o acceso root que esos planes no ofrecen y tienes a alguien que mantenga el servidor. El código SONAR20 da un 20% en compra nueva en ambos, sin renovaciones ni dominios."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vps-ou-hebergement-mutualise",
+      "arquivo": "content/reviews/vps-ou-hebergement-mutualise.json",
+      "locale": "fr",
+      "propostas": [
+        {
+          "id": "vps-ou-hebergement-mutualise-fr-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Pour un blog, un portfolio ou une petite boutique, comparez d'abord les forfaits mutualisés compatibles avec votre application. Envisagez un VPS s'il vous faut des réglages, des logiciels ou un accès root absents de ces forfaits, et quelqu'un pour administrer le serveur. Ne choisissez pas seulement d'après le nom du forfait : le tableau par scénario aide à comparer."
+              ],
+              "depois": [
+                "Pour un blog, un portfolio ou une petite boutique, comparez d'abord les forfaits mutualisés compatibles avec votre application. Envisagez un VPS s'il vous faut des réglages, des logiciels ou un accès root absents de ces forfaits, et quelqu'un pour administrer le serveur. Le code SONAR20 donne 20 % sur un nouvel achat pour les deux, hors renouvellement et domaines."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vps-o-hosting-condiviso",
+      "arquivo": "content/reviews/vps-o-hosting-condiviso.json",
+      "locale": "it",
+      "propostas": [
+        {
+          "id": "vps-o-hosting-condiviso-it-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Per un blog, un portfolio o un piccolo negozio, parti confrontando i piani di hosting condiviso che supportano la tua applicazione. Valuta un VPS se ti servono configurazioni, programmi o accesso root che questi piani non offrono e hai qualcuno che mantenga il server. Non scegliere solo dal nome del piano: il quadro per scenario aiuta a confrontare."
+              ],
+              "depois": [
+                "Per un blog, un portfolio o un piccolo negozio, parti confrontando i piani di hosting condiviso che supportano la tua applicazione. Valuta un VPS se ti servono configurazioni, programmi o accesso root che questi piani non offrono e hai qualcuno che mantenga il server. Il codice SONAR20 dà il 20% sull'acquisto nuovo in entrambi, non su rinnovi né domini."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vps-or-shared-hosting-ja",
+      "arquivo": "content/reviews/vps-or-shared-hosting-ja.json",
+      "locale": "ja",
+      "propostas": [
+        {
+          "id": "vps-or-shared-hosting-ja-ja-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "ブログ、ポートフォリオ、小さなショップなら、まずアプリケーションに対応した共有ホスティングのプランを比較してください。そのプランでは提供されないソフトウェア、設定、root 権限が必要で、管理を担う人もいるなら VPS を検討します。プラン名だけで決めず、下の表で必要な機能を比べましょう。"
+              ],
+              "depois": [
+                "ブログ、ポートフォリオ、小さなショップなら、まずアプリケーションに対応した共有ホスティングのプランを比較してください。そのプランでは提供されないソフトウェア、設定、root 権限が必要で、管理を担う人もいるなら VPS を検討します。どちらも新規購入ならコード SONAR20 で 20% 割引になり、更新とドメインは対象外です。"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vps-or-shared-hosting-ko",
+      "arquivo": "content/reviews/vps-or-shared-hosting-ko.json",
+      "locale": "ko",
+      "propostas": [
+        {
+          "id": "vps-or-shared-hosting-ko-ko-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "블로그, 포트폴리오, 작은 쇼핑몰이라면 먼저 애플리케이션을 지원하는 공유 호스팅 플랜을 비교하세요. 해당 플랜에서 제공하지 않는 프로그램, 설정 또는 root 권한이 필요하고 서버를 관리할 사람도 있다면 VPS를 검토할 수 있습니다. 플랜 이름보다 요구 사항을 기준으로 아래 표를 살펴보세요."
+              ],
+              "depois": [
+                "블로그, 포트폴리오, 작은 쇼핑몰이라면 먼저 애플리케이션을 지원하는 공유 호스팅 플랜을 비교하세요. 해당 플랜에서 제공하지 않는 프로그램, 설정 또는 root 권한이 필요하고 서버를 관리할 사람도 있다면 VPS를 검토할 수 있습니다. 신규 구매라면 둘 다 코드 SONAR20으로 20% 할인되고, 갱신과 도메인은 제외입니다."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vps-or-shared-hosting-zh-hans",
+      "arquivo": "content/reviews/vps-or-shared-hosting-zh-hans.json",
+      "locale": "zh-hans",
+      "propostas": [
+        {
+          "id": "vps-or-shared-hosting-zh-hans-zh-hans-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "博客、作品集或小型网店，可以先比较兼容应用的共享主机套餐。如果需要这些套餐不提供的软件、配置或 root 权限，并且有人能维护服务器，再考虑 VPS。不要只按套餐名称决定；下表按使用场景比较需求。"
+              ],
+              "depois": [
+                "博客、作品集或小型网店，可以先比较兼容应用的共享主机套餐。如果需要这些套餐不提供的软件、配置或 root 权限，并且有人能维护服务器，再考虑 VPS。两者新购时使用代码 SONAR20 均可享 20% 折扣，续费和域名除外。"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vps-or-shared-hosting-zh-hant",
+      "arquivo": "content/reviews/vps-or-shared-hosting-zh-hant.json",
+      "locale": "zh-hant",
+      "propostas": [
+        {
+          "id": "vps-or-shared-hosting-zh-hant-zh-hant-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de hospedagem com decisão de compra; o código SONAR20 (20% só em compra nova, fora renovação e domínio) ajuda a decidir e entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "部落格、作品集或小型網路商店，可以先比較支援應用的共享主機方案。如果需要這些方案沒有提供的軟體、設定或 root 權限，並且有人能維護伺服器，再考慮 VPS。別只看方案名稱；下表依使用情境比較需求。"
+              ],
+              "depois": [
+                "部落格、作品集或小型網路商店，可以先比較支援應用的共享主機方案。如果需要這些方案沒有提供的軟體、設定或 root 權限，並且有人能維護伺服器，再考慮 VPS。兩者新購時使用代碼 SONAR20 均可享 20% 折扣，續約和網域除外。"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "lote": "L42",
+  "tipo": "m5-pt",
+  "loja": "damie",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "poltrona-charles-eames-design-iconico-e-alternativas",
+      "arquivo": "content/reviews/poltrona-charles-eames-design-iconico-e-alternativas.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "poltrona-charles-eames-design-iconico-e-alternativas-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Resposta rápida passa a trazer o código literal com benefício; substitui frase de encaminhamento ou link.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. Veja o capítulo Qual escolher: Aurora manual ou Levita elétrica."
+              ],
+              "depois": [
+                "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. O código CECILIA12 dá 12% OFF no site da DAMIE."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "poltrona-de-amamentacao-como-escolher",
+      "arquivo": "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "poltrona-de-amamentacao-como-escolher-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Resposta rápida passa a trazer o código literal com benefício; substitui frase de encaminhamento ou link.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Para escolher a poltrona de amamentação, olhe primeiro o apoio: braço firme na altura certa, encosto que acompanhe as costas e assento que deixe levantar com o bebê no colo. Balanço ajuda, mas não é obrigatório. O que muda a escolha é o orçamento e o espaço do quarto; veja as faixas de preço abaixo."
+              ],
+              "depois": [
+                "Para escolher a poltrona de amamentação, olhe primeiro o apoio: braço firme na altura certa, encosto que acompanhe as costas e assento que deixe levantar com o bebê no colo. Balanço ajuda, mas não é obrigatório. O que muda a escolha é o orçamento e o espaço do quarto; na DAMIE, o código CECILIA12 dá 12% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "poltrona-de-amamentacao-vs-poltrona-reclinavel",
+      "arquivo": "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "poltrona-de-amamentacao-vs-poltrona-reclinavel-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Resposta rápida passa a trazer o código literal com benefício; substitui frase de encaminhamento ou link.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é quanto tempo você vai usar; veja a conta do tempo de uso abaixo."
+              ],
+              "depois": [
+                "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é o tempo de uso; na DAMIE, o código CECILIA12 dá 12% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "presente-de-natal-para-casa-moveis",
+      "arquivo": "content/reviews/presente-de-natal-para-casa-moveis.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "presente-de-natal-para-casa-moveis-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Resposta rápida passa a trazer o código literal com benefício; substitui frase de encaminhamento ou link.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A escolha de móvel para presente costuma ficar entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável é a que mais faz sentido; para a sala, o sofá modular. O que pesa é o espaço, a porta e quem vai usar; a hora de comprar depende do prazo do seu CEP."
+              ],
+              "depois": [
+                "Na hora de presentear, a escolha fica entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável; para a sala, o sofá modular. O que pesa é espaço, porta, quem usa e o prazo do CEP; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sofa-damie-modular-vale-a-pena",
+      "arquivo": "content/reviews/sofa-damie-modular-vale-a-pena.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "sofa-damie-modular-vale-a-pena-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Resposta rápida passa a trazer o código literal com benefício; substitui frase de encaminhamento ou link.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Para nós, o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, o que facilita entrar em casa, e o puff separado permite mudar a configuração. O que muda a escolha é medir o acesso e escolher o tecido pela rotina da casa."
+              ],
+              "depois": [
+                "Para nós, o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, o que facilita entrar em casa, e o puff separado permite mudar a configuração. O que muda a escolha é medir o acesso e escolher o tecido pela rotina da casa. O código CECILIA12 dá 12% OFF no site da Damie."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sofa-modular-ou-retratil-qual-escolher",
+      "arquivo": "content/reviews/sofa-modular-ou-retratil-qual-escolher.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "sofa-modular-ou-retratil-qual-escolher-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Resposta rápida passa a trazer o código literal com benefício; substitui frase de encaminhamento ou link.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir."
+              ],
+              "depois": [
+                "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sofa-na-caixa-inflow-ou-damie",
+      "arquivo": "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "sofa-na-caixa-inflow-ou-damie-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Resposta rápida passa a trazer o código literal com benefício; substitui frase de encaminhamento ou link.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Não, Inflow e Sofá na Caixa são empresas diferentes. A DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no Pix, com frete e configuração a conferir. A reputação no Reclame Aqui também pesa na escolha."
+              ],
+              "depois": [
+                "Não, Inflow e Sofá na Caixa são empresas diferentes, e a DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no Pix, com frete e configuração a conferir; a reputação no Reclame Aqui também pesa. Na DAMIE, o código CECILIA12 dá 12% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+      "arquivo": "content/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Resposta rápida passa a trazer o código literal com benefício; substitui frase de encaminhamento ou link.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano; a ficha técnica abaixo ajuda a comparar."
+              ],
+              "depois": [
+                "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano, e o código CECILIA12 dá 12% OFF no site."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "valley-inflow-ou-damie",
+      "arquivo": "content/reviews/valley-inflow-ou-damie.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "valley-inflow-ou-damie-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Resposta rápida passa a trazer o código literal com benefício; substitui frase de encaminhamento ou link.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, contra 6 meses na Valley Modular e 3 meses na Inflow. A devolução e o prazo também pesam na escolha."
+              ],
+              "depois": [
+                "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, contra 6 meses na Valley Modular e 3 meses na Inflow. O código CECILIA12 dá 12% OFF na DAMIE."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

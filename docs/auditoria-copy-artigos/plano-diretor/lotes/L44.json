@@ -1,0 +1,268 @@
+{
+  "lote": "L44",
+  "tipo": "m5-pt",
+  "loja": "belive",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "belive-e-boa",
+      "arquivo": "content/reviews/belive-e-boa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "belive-e-boa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha, com rótulos publicados para comparar. Nos doces, confira a versão, porque nomes parecidos têm fórmulas diferentes. O preço por unidade e o frete por região pesam na decisão."
+              ],
+              "depois": [
+                "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha, com rótulos publicados para comparar. Nos doces, confira a versão, porque nomes parecidos têm fórmulas diferentes. Preço por unidade e frete por região pesam, e no site oficial o código MAUAD dá 10% OFF em tudo."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "belive-e-confiavel",
+      "arquivo": "content/reviews/belive-e-confiavel.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "belive-e-confiavel-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e tinha reputação Ótima no Reclame Aqui em 16/10/2026. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) reúne o desconto da parceria."
+              ],
+              "depois": [
+                "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e reputação Ótima no Reclame Aqui nos últimos 6 meses. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF no site oficial."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "belive-reclame-aqui-nota-reputacao",
+      "arquivo": "content/reviews/belive-reclame-aqui-nota-reputacao.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "belive-reclame-aqui-nota-reputacao-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim, com a leitura certa: em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+              ],
+              "depois": [
+                "Sim, com a leitura certa: a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. O [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF em tudo no site oficial."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bolinho-kids-belive-lancheira",
+      "arquivo": "content/reviews/bolinho-kids-belive-lancheira.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "bolinho-kids-belive-lancheira-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não tem bolinho kids, veja abaixo."
+              ],
+              "depois": [
+                "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não o traz, e no site oficial o código MAUAD dá 10% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bolinho-sem-acucar-belive-ou-suavipan",
+      "arquivo": "content/reviews/bolinho-sem-acucar-belive-ou-suavipan.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "bolinho-sem-acucar-belive-ou-suavipan-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata."
+              ],
+              "depois": [
+                "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó e não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata; no site oficial da Belive, o código MAUAD dá 10% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "brownie-sem-acucar-belive",
+      "arquivo": "content/reviews/brownie-sem-acucar-belive.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "brownie-sem-acucar-belive-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. Não confunda com o Double Chocolate Sem Glúten Sem Lactose, que contém açúcar."
+              ],
+              "depois": [
+                "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. O Double Chocolate Sem Glúten Sem Lactose contém açúcar, e no site oficial o código MAUAD dá 10% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cookies-sem-acucar-belive",
+      "arquivo": "content/reviews/cookies-sem-acucar-belive.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "cookies-sem-acucar-belive-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g; veja abaixo."
+              ],
+              "depois": [
+                "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g, e no site oficial o código MAUAD dá 10% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "panetone-belive-e-bom",
+      "arquivo": "content/reviews/panetone-belive-e-bom.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "panetone-belive-e-bom-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que muda a decisão é o carboidrato: a conta é com o nutricionista, e os números estão na tabela por 100 g."
+              ],
+              "depois": [
+                "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que decide é o carboidrato, conta para o nutricionista; no site oficial, o código MAUAD dá 10% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pao-de-mel-sem-acucar-belive",
+      "arquivo": "content/reviews/pao-de-mel-sem-acucar-belive.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "pao-de-mel-sem-acucar-belive-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O pão de mel proteico da Belive troca carboidrato por proteína: 6 g de proteína e 16 g de carboidratos por unidade, contra 2 g e 23 g do comum. Os dois têm 0 g de açúcares e quase as mesmas calorias. O que pesa é a proteína; o kit de 10 e os preços estão no capítulo de preços."
+              ],
+              "depois": [
+                "O pão de mel proteico da Belive troca carboidrato por proteína: 6 g de proteína e 16 g de carboidratos por unidade, contra 2 g e 23 g do comum. Os dois têm 0 g de açúcares e quase as mesmas calorias. O que pesa é a proteína, e no site oficial o código MAUAD dá 10% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "snack-proteico-ou-snack-de-arroz-belive",
+      "arquivo": "content/reviews/snack-proteico-ou-snack-de-arroz-belive.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "snack-proteico-ou-snack-de-arroz-belive-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código MAUAD com 10% OFF no site oficial entra no lugar do encaminhamento ou de frase redundante; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g e sai mais barato por grama de proteína. Os de arroz têm, em média, menos sódio; compare o sabor na tabela."
+              ],
+              "depois": [
+                "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g e sai mais barato por grama de proteína. Os de arroz têm, em média, menos sódio, e no site oficial o código MAUAD dá 10% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

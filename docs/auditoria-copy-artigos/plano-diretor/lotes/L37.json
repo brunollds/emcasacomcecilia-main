@@ -1,0 +1,138 @@
+{
+  "lote": "L37",
+  "tipo": "m5-pt",
+  "loja": "toda-up",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "fita-up-ou-blumi-ou-lib",
+      "arquivo": "content/reviews/fita-up-ou-blumi-ou-lib.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "fita-up-ou-blumi-ou-lib-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de compra/escolha: o código MAUAD (10% no site oficial) ajuda a decisão; entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A Blumi não é a Fita Up com outro nome: é uma marca mais nova da Brandness, a mesma dona da Fita Up, com CNPJ próprio, e não vende fita adesiva. Para fita, a escolha fica entre a Fita Up, em três larguras, e a Lib, um rolo que se corta no decote: o que pesa está em \"Qual escolher\"."
+              ],
+              "depois": [
+                "A Blumi não é a Fita Up com outro nome: é uma marca mais nova da mesma dona, com CNPJ próprio, e não vende fita adesiva. Para fita, a escolha fica entre a Fita Up, em três larguras, e a Lib, um rolo que se corta no decote. O código MAUAD dá 10% só no site oficial da Toda Up."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kit-toda-up-quando-compensa",
+      "arquivo": "content/reviews/kit-toda-up-quando-compensa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "kit-toda-up-quando-compensa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de compra/escolha: o código MAUAD (10% no site oficial) ajuda a decisão; entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Na Toda Up, compensam os kits de três conjuntos Cotton Up ou SkinUp, o Kit Comfort Up, o Kit Invisible Up e os dois kits de sutiã Comfort com protetor. O kit de um conjunto só quase não economiza. O que pesa é quantas peças você usaria de verdade; a conta de cada kit está abaixo."
+              ],
+              "depois": [
+                "Na Toda Up, compensam os kits de três conjuntos Cotton Up ou SkinUp, o Kit Comfort Up, o Kit Invisible Up e os dois de sutiã com protetor; o de um conjunto só quase não economiza. O que pesa é quantas peças você usaria. O código MAUAD é de 10% no site; confira no carrinho se entra no kit."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "skinup-ou-cotton-up-toda-up",
+      "arquivo": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "skinup-ou-cotton-up-toda-up-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de compra/escolha: o código MAUAD (10% no site oficial) ajuda a decisão; entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata, com dois tops e uma calcinha. O que muda a escolha é a roupa por cima e a faixa de tamanho, na tabela abaixo."
+              ],
+              "depois": [
+                "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata. O que muda a escolha é a roupa por cima e a faixa de tamanho; o código MAUAD dá 10% nas duas."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sutia-toda-up-qual-escolher",
+      "arquivo": "content/reviews/sutia-toda-up-qual-escolher.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "sutia-toda-up-qual-escolher-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de compra/escolha: o código MAUAD (10% no site oficial) ajuda a decisão; entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Entre os três sutiãs Comfort da Toda Up, a faixa de tamanho pesa mais: o Comfort Up vai do PP ao G3, o Comfort Line começa no P e o Comfort Slim vai do PP ao GG. Para usar em tomara que caia ou com as alças combinadas, a loja destaca o Line, e a seção dele explica como."
+              ],
+              "depois": [
+                "Entre os três sutiãs Comfort da Toda Up, a faixa de tamanho pesa mais: o Comfort Up vai do PP ao G3, o Comfort Line começa no P e o Comfort Slim vai do PP ao GG. Para tomara que caia ou alças combinadas, a loja destaca o Line. O código MAUAD dá 10% nos três, no site oficial."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "toda-up-e-boa",
+      "arquivo": "content/reviews/toda-up-e-boa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "toda-up-e-boa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de compra/escolha: o código MAUAD (10% no site oficial) ajuda a decisão; entra no lugar da frase de encaminhamento.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Na Toda Up, comece pelo formato da peça e pela tabela de medidas do modelo. Os três Comfort têm o mesmo tecido e preço de lista, mas tamanhos e alças diferentes; só o Comfort Up chega ao G3. SkinUp serve para roupa justa ou de alça fina, e Cotton Up para algodão e roupa larga."
+              ],
+              "depois": [
+                "Na Toda Up, comece pelo formato da peça e pela tabela de medidas do modelo. Os três Comfort têm o mesmo tecido e preço de lista, mas só o Comfort Up chega ao G3; SkinUp serve para roupa justa e Cotton Up para algodão e roupa larga. O código MAUAD dá 10% no site oficial, inclusive em peça em promoção."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "lote": "L50",
+  "tipo": "m5-pt",
+  "loja": "letseatit",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "faqueiro-laguiole-la-maison-qual-escolher",
+      "arquivo": "content/reviews/faqueiro-laguiole-la-maison-qual-escolher.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "faqueiro-laguiole-la-maison-qual-escolher-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo; o de dezoito acrescenta a colher; o de trinta acrescenta garfo e colher de sobremesa. Escolha pelos talheres que você precisa; depois compare cor, preço e estoque. O Branco era o mais barato entre os de trinta."
+              ],
+              "depois": [
+                "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo, o de dezoito acrescenta a colher e o de trinta, garfo e colher de sobremesa. Escolha pelos talheres de que precisa; o Branco era o mais barato entre os de trinta. No site, o código MAUAD dá 5% e soma com o Pix."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "guardanapo-de-tecido-quantos-tamanho",
+      "arquivo": "content/reviews/guardanapo-de-tecido-quantos-tamanho.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "guardanapo-de-tecido-quantos-tamanho-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Entre as medidas das fichas, nossa sugestão é o de 45 x 45 cm para almoço e jantar, e o de 40 x 40 cm para café e lanche."
+              ],
+              "depois": [
+                "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Entre as medidas das fichas, nossa sugestão é o de 45 x 45 cm para almoço e jantar, e o de 40 x 40 cm para café e lanche. No site da Let's Eat It, o código MAUAD dá 5%."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "jogo-americano-tecido-tamanho-cor",
+      "arquivo": "content/reviews/jogo-americano-tecido-tamanho-cor.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "jogo-americano-tecido-tamanho-cor-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Comece medindo o prato e o espaço disponível por pessoa. Nos modelos comparados, o redondo deixa uma borda em volta do prato, e o retangular dá mais largura nas laterais para os talheres; use as contas abaixo e escolha a cor depois."
+              ],
+              "depois": [
+                "Comece medindo o prato e o espaço disponível por pessoa. Nos modelos comparados, o redondo deixa uma borda em volta do prato, e o retangular dá mais largura nas laterais para os talheres; a cor fica para depois. No site da Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "le-creuset-original-como-saber",
+      "arquivo": "content/reviews/le-creuset-original-como-saber.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "le-creuset-original-como-saber-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo para autenticar a peça. Em caso de dúvida sobre uma peça, o SAC da marca é o caminho."
+              ],
+              "depois": [
+                "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo para autenticar a peça; na dúvida, o SAC da marca ajuda. No site da Let's Eat It, o código MAUAD dá 5%."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "le-creuset-qual-tamanho-escolher",
+      "arquivo": "content/reviews/le-creuset-qual-tamanho-escolher.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "le-creuset-qual-tamanho-escolher-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Para receita de até 2 L, a 20 cm (2,4 L) basta se a receita não encostar na borda; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa, medido abaixo, decide; para servir à mesa, vale o buffet."
+              ],
+              "depois": [
+                "Para receita de até 2 L, a 20 cm (2,4 L) basta se a receita não encostar na borda; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa decide; para servir à mesa, vale o buffet. No site da Let's Eat It, o código MAUAD dá 5%."
+              ]
+            }
+          ],
+          "motivo_70": "Os dois critérios de tamanho (volume da receita e da panela atual), a comparação de preço por litro e o buffet ocupam o parágrafo; tirar qualquer um perderia o veredito."
+        }
+      ]
+    },
+    {
+      "slug": "le-creuset-vale-a-pena",
+      "arquivo": "content/reviews/le-creuset-vale-a-pena.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "le-creuset-vale-a-pena-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Vale para quem vai usar uma panela de ferro fundido no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. Confira o limite de forno da panela, tampa e puxador do modelo."
+              ],
+              "depois": [
+                "Vale para quem vai usar uma panela de ferro fundido no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. No site da Let's Eat It, o código MAUAD dá 5%."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lets-eat-it-e-boa",
+      "arquivo": "content/reviews/lets-eat-it-e-boa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "lets-eat-it-e-boa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial da marca. O que pesa contra é o prazo de entrega e a peça frágil; veja os capítulos de frete e de louça."
+              ],
+              "depois": [
+                "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial. O que pesa contra é o prazo de entrega e a peça frágil. No site, o código MAUAD dá 5% e soma com o Pix."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
+      "arquivo": "content/reviews/lets-eat-it-reclame-aqui-nota-reputacao.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "lets-eat-it-reclame-aqui-nota-reputacao-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim, com uma ressalva: a Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. Para o desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
+              ],
+              "depois": [
+                "Sim, com uma ressalva: a Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. No site, o código MAUAD dá 5%; o [cupom Let's Eat It](/cupons/letseatit) traz as regras."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mesa-posta-dia-a-dia-o-que-comprar",
+      "arquivo": "content/reviews/mesa-posta-dia-a-dia-o-que-comprar.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "mesa-posta-dia-a-dia-o-que-comprar-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido: um jogo americano e um guardanapo por pessoa, que já mudam a mesa com os pratos e talheres de casa. Depois vêm os talheres, a maior compra de uma vez, e por último os pratos. As duas faixas de preço estão nas tabelas abaixo."
+              ],
+              "depois": [
+                "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido: um jogo americano e um guardanapo por pessoa, que já mudam a mesa. Depois vêm os talheres, a maior compra de uma vez, e por último os pratos. No site da Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "porto-brasil-e-boa",
+      "arquivo": "content/reviews/porto-brasil-e-boa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "porto-brasil-e-boa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Algumas fichas de stoneware liberam forno e freezer, outras trazem restrições, e os modelos com ouro têm mais exceções em micro-ondas e lava-louças. Antes de comprar, confira a ficha da peça."
+              ],
+              "depois": [
+                "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Os modelos com ouro têm mais exceções em micro-ondas e lava-louças, então confira a ficha da peça. Na Let's Eat It, o código MAUAD dá 5% no site."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "presente-de-casamento-ideias-por-preco",
+      "arquivo": "content/reviews/presente-de-casamento-ideias-por-preco.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "presente-de-casamento-ideias-por-preco-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Escolha uma faixa que caiba no seu orçamento e uma peça que o casal queira. Na Let's Eat It, havia opções nas quatro faixas abaixo. Se a casa já tem o básico, prefira completar uma linha que o casal usa; para montar a mesa do zero, confira o aparelho de jantar."
+              ],
+              "depois": [
+                "Escolha uma faixa que caiba no orçamento e uma peça que o casal queira; na Let's Eat It, havia opções nas quatro faixas. Se a casa já tem o básico, prefira completar uma linha que o casal usa; para montar a mesa do zero, confira o aparelho de jantar. O código MAUAD dá 5% no site."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "taca-base-esfera-e-tacas-coloridas",
+      "arquivo": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "taca-base-esfera-e-tacas-coloridas-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Guia de escolha/decisão de compra na Let's Eat It: MAUAD 5% no site (soma com o Pix) ajuda o leitor a decidir onde comprar; entra no lugar da frase de encaminhamento ou de detalhe redundante.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A taça base esfera da Let's Eat It vem em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. Há o conjunto de 450 ml e o de champanhe, de 250 ml; os preços estão na tabela abaixo. Antes de escolher, conte quantas pessoas vão à mesa."
+              ],
+              "depois": [
+                "A taça base esfera da Let's Eat It vem em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. Há o conjunto de 450 ml e o de champanhe, de 250 ml. Antes de escolher, conte quantas pessoas vão à mesa; no site, o código MAUAD dá 5%."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

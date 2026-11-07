@@ -1,0 +1,60 @@
+{
+  "lote": "L51",
+  "tipo": "m5-pt",
+  "loja": "magalu",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "cupom-magalu-em-casa-com-cecilia",
+      "arquivo": "content/reviews/cupom-magalu-em-casa-com-cecilia.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "cupom-magalu-em-casa-com-cecilia-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "O código entra no lugar da frase de encaminhamento ou de redundância; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O [cupom Magalu](/cupons/magalu) da Cecília tem dez faixas pelo valor do carrinho. Exemplo: o 100EMCASACOMCECILIA dá 100 reais de desconto em compras a partir de 4.999,90 reais. Vale só no navegador, na loja Magazine Você da Cecília, em itens vendidos e entregues pelo Magalu."
+              ],
+              "depois": [
+                "O [cupom Magalu](/cupons/magalu) da Cecília tem dez faixas, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, conforme o valor do carrinho: quanto maior a compra, maior o desconto fixo. Vale só no navegador, na loja Magazine Você da Cecília, em itens vendidos e entregues pelo Magalu."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "magazine-voce-e-confiavel",
+      "arquivo": "content/reviews/magazine-voce-e-confiavel.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "magazine-voce-e-confiavel-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "O código entra no lugar da frase de encaminhamento ou de redundância; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, e o domínio magazinevoce.com.br está registrado em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido; o estoque e o envio dependem de quem anuncia cada produto. Confira o endereço no checklist abaixo; para desconto, use o [cupom Magalu](/cupons/magalu)."
+              ],
+              "depois": [
+                "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, com o domínio magazinevoce.com.br em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido; estoque e envio dependem de quem anuncia o produto. Na loja da Cecília, os códigos do [cupom Magalu](/cupons/magalu), de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, valem só no navegador."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
