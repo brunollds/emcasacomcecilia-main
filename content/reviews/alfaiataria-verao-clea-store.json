@@ -1,7 +1,7 @@
 {
   "id": 605,
   "slug": "alfaiataria-verao-clea-store",
-  "title": "Alfaiataria de verão na Cléa Store: dá para montar conjunto, mas a loja não vende pronto",
+  "title": "Alfaiataria de verão na Cléa Store: dá para montar conjunto com peças avulsas",
   "seoTitle": "Alfaiataria de verão Cléa Store: peças e montagens",
   "type": "Guia de Escolha",
   "category": "guias-praticos-utilidade",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "heading": "A loja não vende conjunto de alfaiataria",
+      "heading": "Conjuntos prontos e peças avulsas",
       "paragraphs": [
         "A Cléa Store vende peças avulsas. No catálogo de outubro, o único conjunto à venda era o de crochê, por R$ 1.490. A loja tem uma página de [conjunto de alfaiataria amarelo, com calça e colete](https://www.cleastore.com.br/produto/conjunto-alfaiataria-amarelo-calca-e-colete-3877) que não aparecia na grade de outubro: confira a disponibilidade no site. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
         "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor, em linho ou em linho com algodão. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
@@ -49,7 +49,7 @@
           "Peça",
           "Composição, segundo a ficha",
           "Forro",
-          "Preço em 24/10",
+          "Preço no site",
           "Grade",
           "Situação"
         ],
@@ -129,7 +129,7 @@
         ]
       },
       "postParagraphs": [
-        "Os preços são do site em 24/10/2026, sem cupom."
+        "Os preços são do site, sem cupom."
       ],
       "images": [
         {
@@ -222,7 +222,7 @@
           {
             "piece": "Colete Frente Única Linho Bege",
             "url": "https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221",
-            "howTo": "Em conjunto com a calça de linho caqui, no mesmo tom neutro.",
+            "howTo": "Com a calça caqui, no mesmo tom neutro.",
             "occasion": "Looks sofisticados e leves, segundo a loja.",
             "pairsWith": [
               {
@@ -251,7 +251,7 @@
     {
       "heading": "Montar um conjunto (monte o seu)",
       "paragraphs": [
-        "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e todas de linho, salvo as calças caqui e vermelha, que são 70% linho e 30% algodão. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia.",
+        "São montagens de peças avulsas. Na rosa, blazer e shorts são 100% linho; na bege, o colete é 100% linho e a calça caqui é 70% linho e 30% algodão. Na vermelha, colete e bermuda são 100% linho; a alternativa com calça mistura 70% linho e 30% algodão. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia.",
         "**Rosa linho.** Blazer Rosa Linho (4404), R$ 899,00, M e G, mais Shorts Rosa Linho (4402), R$ 579,00, com 36, 38 e 40. Tudo em linho. Total de R$ 1.478,00, ou R$ 1.330,20 com o cupom. O blazer não tem P.",
         "**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça aparece como pré-venda, mas dá para comprar; confira o prazo de entrega na página.",
         "**Vermelho linho.** Colete Vermelho (4393), R$ 799,00, com P e G, mais Bermuda Vermelha (4395), R$ 599,00, só no 40. Total de R$ 1.398,00, ou R$ 1.258,20 com o cupom. A bermuda é 100% linho, segundo a ficha. Se preferir calça, a Calça Linho Vermelha (4414), R$ 559,00, com 36 e 38, leva o total a R$ 1.358,00, ou R$ 1.222,20 com o cupom. Ela também aparece como pré-venda, nas mesmas condições da caqui, e a ficha sugere usá-la com o colete.",
@@ -404,7 +404,7 @@
       "Quem veste PP ou P e quer colete com calça pelo menor total: a montagem bege."
     ],
     "skipIf": [
-      "Quem procura conjunto pronto: a loja não vende, só peças avulsas para montar."
+      "Quem quer um conjunto pronto em uma única página: estas montagens usam peças avulsas. Confira no site se o conjunto amarelo ainda está disponível."
     ]
   },
   "pros": [],

@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Como escolher o tamanho na tabela de medidas da Cléa Store: onde achar, como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos.",
-  "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Tabela de medidas: como medir busto, cintura e quadril e escolher entre P, M, G ou 36 a 42.",
+  "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Veja como medir busto, cintura e quadril e consultar a tabela da peça.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "updatedAt": "2026-11-07",
@@ -34,8 +34,8 @@
     {
       "heading": "Como a Cléa mostra a tabela",
       "paragraphs": [
-        "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. Nas peças de cima, ela traz busto, cintura e quadril; na t-shirt e no blazer, só busto e cintura. Na calça, a tabela traz cintura e quadril, com a numeração 36 a 42.",
-        "Nas peças de cima que lemos (t-shirt oversized, bodies e blazer oversized bordô), a tabela é a mesma. O P, o M e o G têm a mesma faixa de medidas em todas elas.",
+        "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. A t-shirt e o blazer trazem busto e cintura; o body acrescenta o quadril. A calça traz cintura e quadril, com a numeração 36 a 42.",
+        "A t-shirt oversized e o body têm as mesmas faixas de busto e cintura em P, M e G, e o blazer bordô coincide em P e G.",
         "O mesmo botão abre o \"Provador Virtual\", também da Sizebay. A loja não diz que ele acerta o caimento, então use como apoio, não como medida."
       ]
     },
@@ -64,7 +64,7 @@
     {
       "heading": "Tabela das peças de cima",
       "paragraphs": [
-        "Nas peças de cima, o P, o M e o G vestem o mesmo corpo em todas elas. Vale para a t-shirt, os bodies e o blazer oversized bordô; as medidas são do corpo, em centímetros."
+        "Na t-shirt oversized e no body, P, M e G vestem o mesmo corpo. No blazer bordô, confira o M na página da peça. As medidas são do corpo, em centímetros."
       ],
       "comparisonTable": {
         "headers": [
@@ -95,17 +95,8 @@
         ]
       },
       "postParagraphs": [
-        "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e usar o provador da página. Comparar com uma roupa sua só vale se você tiver as medidas das duas peças, tiradas do mesmo jeito.",
+        "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e perguntar à loja. Comparar com uma roupa sua só vale se você tiver as medidas das duas peças, tiradas do mesmo jeito.",
         "Segundo a loja, a t-shirt tem modelagem oversized, de caimento amplo, e o body tem modelagem ajustada, com efeito segunda pele. Por isso, no body a medida pede mais atenção. Para comparar os modelos de body, veja o [guia de escolha do body](/reviews/body-clea-store-second-skin-qual-escolher)."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
-          "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
-          "caption": "Tabela de medidas lida no site. Quadro do Em Casa com Cecília.",
-          "objectFit": "contain",
-          "aspectRatio": 2.1053
-        }
       ]
     },
     {
@@ -149,7 +140,7 @@
     {
       "heading": "O que muda no oversized",
       "paragraphs": [
-        "A tabela de medidas da Cléa Store não tem uma régua separada para o oversized. Na T-Shirt Oversized Algodão e no Blazer Oversized Alfaiataria Bordô, a tabela mostra busto e cintura com os mesmos números das peças justas, os da tabela acima. Essas são medidas do seu corpo, não da peça. A letra sai de onde o seu corpo cai na tabela, e não de quanto você quer de folga.",
+        "A tabela de medidas da Cléa Store não tem uma régua separada para o oversized. Na T-Shirt Oversized Algodão e no Blazer Oversized Alfaiataria Bordô, a tabela de busto e cintura usa os mesmos números das peças justas, os da tabela acima. São medidas do seu corpo, não da peça. A letra sai de onde o seu corpo cai na tabela, e não de quanto você quer de folga.",
         "A diferença está no corte, e é isso que a loja anuncia. A página da T-Shirt Oversized Algodão diz que \"a modelagem oversized oferece caimento amplo e soltinho\". Na do Blazer Oversized Alfaiataria Bordô, a descrição fala em \"modelagem oversized, caimento sofisticado e acabamento premium\". Ou seja: a folga já vem no desenho da peça, e a tabela continua medindo o corpo."
       ],
       "images": [
@@ -166,7 +157,7 @@
       "heading": "Entre dois tamanhos",
       "paragraphs": [
         "Quando a sua medida cai numa faixa de uma letra e também na seguinte, a tabela não decide sozinha. Um busto de 89 cm, por exemplo, cabe nas faixas de P (82 a 90 cm) e de M (88 a 96 cm). Entre M (até 96 cm) e G (a partir de 98 cm) sobra um vão de 2 cm, e nessa medida o provador da página é a próxima consulta, sem garantia de acerto.",
-        "O que pesa é a modelagem da peça. No body justo, a tabela traz também o quadril: no Body Regata Second Skin Duplo, o G vai de 106 a 114 cm, e a descrição da loja fala em \"modelagem ajustada\" e \"efeito segunda pele\". Nele, a medida vale quase sem folga. No justo, a medida manda; no oversized, a folga já vem do corte.",
+        "A modelagem também pesa na escolha. No Body Regata Second Skin Duplo, a tabela traz quadril e o G vai de 106 a 114 cm; a loja descreve a modelagem como ajustada, com efeito segunda pele. Confira todas as medidas corporais e pergunte à loja se elas apontarem tamanhos diferentes; o corte, sozinho, não garante o caimento.",
         "Se a compra for pelo site, o cupom CSEMCASACOMCECILIA dá 10% no site oficial, em todas as formas de pagamento; confira no carrinho, porque ele não vale no Mercado Livre ([cupom da Cléa Store](/cupons/clea-store))."
       ]
     },
@@ -188,7 +179,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A Cléa Store tem tabela de medidas? Sim, cada peça tem a sua, no bloco de tamanho da própria página, com as medidas do corpo em centímetros.",
-        "O oversized é maior? Na medida do corpo, não: a tabela da t-shirt e do blazer oversized usa os mesmos números das peças justas. A folga vem do corte, que a loja descreve como caimento amplo.",
+        "O oversized é maior? Na medida do corpo, não: a t-shirt oversized usa as mesmas faixas de busto e cintura do body, e o blazer coincide em P e G. A folga vem do corte, que a loja descreve como caimento amplo.",
         "Posso devolver se não servir? Sim, a devolução é grátis e tem prazo de 30 dias corridos após o recebimento, pela página de troca da loja. A troca direta por outro tamanho não está confirmada.",
         "O provador acerta o tamanho? A loja não diz que sim e não garante o caimento; use a tabela como base e confira a descrição da peça."
       ]
