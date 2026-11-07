@@ -118493,7 +118493,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita e sede em Curitiba. O perfil da Skelt no Reclame Aqui está em nome de outra empresa, que tem a S/A como sócia. Os detalhes estão abaixo; para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
+          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita e sede em Curitiba. O perfil da Skelt no Reclame Aqui está em nome de outra empresa, que tem a S/A como sócia. Para comprar, o SKEMCASACOMCECILIA dá 10% de desconto em todo o site; o [cupom Skelt](/cupons/skelt) traz as regras."
         ]
       },
       {
@@ -118714,7 +118714,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a reputação da Skelt no Reclame Aqui é boa: RA1000, a faixa máxima, nos últimos 6 meses, com nota 8,4, e a loja respondeu a 99,7% das reclamações do período. O que pesa são as queixas de produto com defeito e atraso. Para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
+          "Sim, a reputação da Skelt no Reclame Aqui é boa: RA1000, a faixa máxima, nos últimos 6 meses, com nota 8,4, e a loja respondeu a 99,7% das reclamações do período. Pesam as queixas de defeito e atraso. Para comprar, o SKEMCASACOMCECILIA dá 10% de desconto em todo o site; o [cupom Skelt](/cupons/skelt) traz as regras."
         ]
       },
       {
@@ -121150,7 +121150,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual autobronzeador Skelt comprar",
         "paragraphs": [
-          "Para a primeira aplicação, o Kit Iniciante é a escolha: o mousse tem cor-guia para mostrar onde você passou, e a luva vem junta. Água e Gel são incolores e a Skelt os indica para quem já sabe aplicar; para mais intensidade, as versões Dark são de nível expert."
+          "Para a primeira aplicação, o Kit Iniciante é a escolha: o mousse tem cor-guia para mostrar onde você passou, e a luva vem junta. Água e Gel são incolores e indicados a quem já sabe aplicar; para mais intensidade, as Dark são de nível expert. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
@@ -122233,7 +122233,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há vencedora geral: no mousse escuro, a Best Bronze sai mais barata no cartão enquanto está em promoção, e a conta da Skelt fica menor com cupom e Pix. Nos transparentes e kits comparados, a Skelt custa menos; spray, gotas e lenço aparecem só na Best Bronze. O capítulo Qual escolher mostra o melhor caminho para cada caso."
+          "Não há vencedora geral: no mousse escuro, a Best Bronze sai mais barata no cartão enquanto está em promoção, e a conta da Skelt fica menor com o SKEMCASACOMCECILIA (10%) e o Pix. Nos transparentes e kits comparados, a Skelt custa menos; spray, gotas e lenço aparecem só na Best Bronze."
         ]
       },
       {
@@ -156243,7 +156243,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual hidratante corporal Skelt escolher",
         "paragraphs": [
-          "Os seis hidratantes corporais da Skelt custam o mesmo, então a fragrância se escolhe pelo perfil: cítrico, floral, frutado ou doce. O avulso de 200 g é a conta mais cara por 100 g. O kit de três hidratantes e os duos com body splash baixam essa conta, como mostra a tabela."
+          "Os seis hidratantes corporais da Skelt custam o mesmo, então a fragrância se escolhe pelo perfil: cítrico, floral, frutado ou doce. O avulso de 200 g é a conta mais cara por 100 g; o kit de três e os duos com body splash baixam essa conta. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
@@ -156502,7 +156502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: vale o Solar Muse avulso ou em kit?",
         "paragraphs": [
-          "O Body Splash Solar Muse é vendido avulso, em frasco de 100 ml, pelo mesmo preço dos outros body splash da Skelt. Para só o Solar Muse, o frasco avulso basta. Dos oito conjuntos que o levam, o kit com Body Cream Amalfi Sunset é o que mais economiza, e compensa só se você quiser esse creme."
+          "O Body Splash Solar Muse é vendido avulso, em frasco de 100 ml, pelo mesmo preço dos outros body splash da Skelt, e para só ele o avulso basta. Dos oito conjuntos que o levam, o kit com Body Cream Amalfi Sunset economiza mais, se você quiser esse creme. O SKEMCASACOMCECILIA dá 10% em todo o site."
         ]
       },
       {
@@ -156713,7 +156713,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Milos Breeze avulso, no trio ou em miniatura",
         "paragraphs": [
-          "O Milos Breeze vem em frasco de 100 ml e também aparece no Trio Exotic Trip, com Grand Bahama e Pink Sands, e no Kit Miniaturas Exotic Set, em 15 ml. Pelos preços da tabela, o trio custava um pouco menos que os três avulsos; confira o valor atual antes de escolher."
+          "O Milos Breeze vem em frasco de 100 ml e também no Trio Exotic Trip, com Grand Bahama e Pink Sands, e no Kit Miniaturas Exotic Set, de 15 ml. Pelos preços da tabela, o trio custava um pouco menos que os três avulsos; confira o valor atual. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
@@ -166421,7 +166421,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para hoje, o Bronzeado Instantâneo é uma maquiagem corporal que a Skelt informa durar de 12 a 24 horas. Para uma cor por mais dias, a marca informa duração de 7 a 12 dias para o mousse e a água autobronzeadores."
+          "Para hoje, o Bronzeado Instantâneo é uma maquiagem corporal que a Skelt informa durar de 12 a 24 horas. Para uma cor por mais dias, a marca informa duração de 7 a 12 dias para o mousse e a água autobronzeadores. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt e soma com o Pix."
         ]
       },
       {
@@ -166598,7 +166598,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Espere pelo menos 3 dias depois de aplicar o autobronzeador. Depois, aplique o Removedor de Autobronzeador Skelt na pele seca, deixe agir por no mínimo 3 minutos e retire com toalha ou esponja molhadas em água morna. A seção sobre o Bifásico traz a outra regra da marca."
+          "Espere pelo menos 3 dias depois de aplicar o autobronzeador. Depois, aplique o Removedor de Autobronzeador Skelt na pele seca, deixe agir por no mínimo 3 minutos e retire com toalha ou esponja molhadas em água morna; o Bifásico tem outra regra. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
@@ -166748,7 +166748,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Segundo a Skelt, aplique o iluminador com as mãos ou a luva, espalhe em movimentos circulares até uniformizar a cor e espere secar antes de se vestir. A marca indica corpo e rosto, com duração de 12 a 24 horas. Para escolher entre o avulso e o kit, veja a comparação de preços abaixo."
+          "Segundo a Skelt, aplique o iluminador com as mãos ou a luva, espalhe em movimentos circulares até uniformizar a cor e espere secar antes de se vestir. A marca indica corpo e rosto, com duração de 12 a 24 horas. No site da Skelt, o SKEMCASACOMCECILIA dá 10% de desconto no avulso e no kit."
         ]
       },
       {
@@ -178741,7 +178741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem escolhe pelo rótulo: a Skelt declara intensidade, duração e nível da maioria dos autobronzeadores, e as notas de cada body splash. O cupom tira 10% de tudo. O que muda a escolha é o tipo e a intensidade do autobronzeador, e a fragrância do body splash; o capítulo de cada linha diz qual serve para quem."
+          "Sim, para quem escolhe pelo rótulo: a Skelt declara intensidade, duração e nível da maioria dos autobronzeadores, e as notas de cada body splash. O que muda a escolha é o tipo e a intensidade do autobronzeador, e a fragrância do body splash. O SKEMCASACOMCECILIA tira 10% de tudo no site da Skelt."
         ]
       },
       {
