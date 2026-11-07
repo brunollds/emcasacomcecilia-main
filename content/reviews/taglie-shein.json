@@ -31,7 +31,7 @@
   "cons": [],
   "cta": {
     "label": "Vai su SHEIN",
-    "text": "Apri la guida e identifica tabella corporea o misure del capo. Confronta riferimenti equivalenti prima di scegliere.",
+    "text": "Apri la guida e verifica se la tabella è del corpo o del capo. Confronta riferimenti equivalenti prima di scegliere.",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
   },
@@ -262,7 +262,7 @@
   "decision": {
     "takeIf": [
       "La misura del capo nella guida, in centimetri, dà l'ampiezza che preferisci, e tipo di vestibilità ed elasticità corrispondono a ciò che ti aspetti dal tessuto.",
-      "Trovi nella tabella degli acquirenti della scheda qualcuno con misure vicine alle tue e lo leggi come supporto."
+      "Trovi nella tabella degli acquirenti della scheda qualcuno con misure vicine alle tue e lo leggi come supporto: la taglia ordinata da un’altra persona non garantisce la tua vestibilità."
     ],
     "skipIf": [
       "Hai scelto dalla lettera abituale senza aprire la guida del capo: la stessa lettera cambia da marchio a marchio.",

@@ -297,7 +297,7 @@
   "decision": {
     "takeIf": [
       "A medida da peça no guia, em centímetros, dá a folga que você usa, e o tipo de ajuste e a elasticidade batem com o que você espera do tecido.",
-      "A página tem relatos de compradores com medidas próximas às suas, lidos como informação complementar; a letra que outra pessoa pediu não garante o seu caimento."
+      "A página tem relatos de compradores com medidas próximas às suas, que você lê como informação complementar; a letra que outra pessoa pediu não garante o seu caimento."
     ],
     "skipIf": [
       "Você escolheu pela letra de sempre sem abrir o guia da peça: a mesma letra muda de marca para marca.",

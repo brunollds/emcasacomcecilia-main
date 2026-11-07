@@ -31,7 +31,7 @@
   "cons": [],
   "cta": {
     "label": "Zu SHEIN",
-    "text": "Öffnen Sie den Guide und unterscheiden Sie Körper- und Artikelmaße. Vor der Größenwahl gleichartige Angaben vergleichen.",
+    "text": "Öffnen Sie den Guide und prüfen Sie, ob die Tabelle den Körper oder den Artikel beschreibt. Vergleichen Sie vor der Größenwahl gleichartige Angaben.",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
   },
@@ -262,7 +262,7 @@
   "decision": {
     "takeIf": [
       "Das Maß des Artikels im Guide in Zentimetern gibt die Weite, die Sie möchten, und Schnitt und Elastizität passen zu dem, was Sie vom Stoff erwarten.",
-      "Sie finden in der Käufertabelle der Seite jemanden mit ähnlichen Maßen und lesen dessen Angaben als Ergänzung."
+      "Sie finden in der Käufertabelle der Seite jemanden mit ähnlichen Maßen und lesen dessen Angaben als Ergänzung: Die Größe, die eine andere Person bestellt hat, garantiert Ihre Passform nicht."
     ],
     "skipIf": [
       "Sie haben nach Ihrem üblichen Buchstaben gewählt, ohne den Guide des Artikels zu öffnen: Derselbe Buchstabe ändert sich von Marke zu Marke.",

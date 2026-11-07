@@ -31,7 +31,7 @@
   "cons": [],
   "cta": {
     "label": "Aller sur SHEIN",
-    "text": "Ouvrez le guide et identifiez tableau corporel ou dimensions du vêtement. Comparez des références équivalentes avant de choisir.",
+    "text": "Ouvrez le guide et vérifiez si le tableau est celui du corps ou celui du vêtement. Comparez des références équivalentes avant de choisir.",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
   },
@@ -262,7 +262,7 @@
   "decision": {
     "takeIf": [
       "La mesure de l'article dans le guide, en centimètres, donne l'aisance que vous voulez, et le type de coupe et l'élasticité correspondent à ce que vous attendez du tissu.",
-      "Vous trouvez dans le tableau des acheteurs de la fiche quelqu’un aux mesures proches des vôtres et le lisez en complément."
+      "Vous trouvez dans le tableau des acheteurs de la fiche quelqu’un aux mesures proches des vôtres et le lisez en complément : la taille commandée par une autre personne ne garantit pas votre tombé."
     ],
     "skipIf": [
       "Vous avez choisi d'après votre lettre habituelle sans ouvrir le guide de l'article : la même lettre change d'une marque à l'autre.",

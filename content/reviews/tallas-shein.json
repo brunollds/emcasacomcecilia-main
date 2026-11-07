@@ -203,7 +203,7 @@
       },
       "postParagraphs": [
         "En el ejemplo DAZY, la prenda M mide 93 cm y su tabla corporal indica 82–86 cm: diferencia de 7–11 cm. En Essnce, la modelo de busto 87 cm lleva una S que mide 78 cm. Son dos ejemplos de producto, no una fórmula para toda tela con o sin elastano. La elasticidad no sustituye evaluar la holgura y el ajuste que buscas.",
-        "Las guías leídas advierten de una variación de 1–2 cm en la medida de la prenda, y las descripciones de las dos camisetas mencionan cambios de la tela tras lavarla en casa. Entre tallas, revisa juntos tabla corporal, medidas de la prenda, corte y elasticidad. No subas automáticamente ni elijas una prenda igual o menor que tu cuerpo solo porque la tela estira. Si falta información, confirma las indicaciones de la prenda antes de pedir."
+        "La guía advierte de una variación de 1–2 cm en la medida de la prenda, y las descripciones de las dos camisetas mencionan cambios de la tela tras lavarla en casa. Entre tallas, revisa juntos tabla corporal, medidas de la prenda, corte y elasticidad. No subas automáticamente ni elijas una prenda igual o menor que tu cuerpo solo porque la tela estira. Si falta información, confirma las indicaciones de la prenda antes de pedir."
       ]
     },
     {
@@ -262,7 +262,7 @@
   "decision": {
     "takeIf": [
       "La medida de la prenda en la guía, en centímetros, da la holgura que usas, y el tipo de ajuste y la elasticidad encajan con lo que esperas de la tela.",
-      "Encuentras en la tabla de compradores de la ficha a alguien con medidas cercanas a las tuyas y lo lees como apoyo."
+      "Encuentras en la tabla de compradores de la ficha a alguien con medidas cercanas a las tuyas y lo lees como apoyo: la talla que pidió otra persona no garantiza tu ajuste."
     ],
     "skipIf": [
       "Elegiste por tu letra de siempre sin abrir la guía de la prenda: la misma letra cambia de marca en marca.",
