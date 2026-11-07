@@ -554,67 +554,79 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-04"
   },
   {
-    "id": "shein-itens-com-desconto",
+    "id": "shein-1111-2026",
     "affiliate": "shein",
     "slot": "mid",
-    "href": "https://onelink.shein.com/58/66iufl9pp7qa",
+    "href": "https://onelink.shein.com/59/67g9ljav4fwu",
     "art": {
-      "kind": "bag"
+      "kind": "tag",
+      "value": "90%"
     },
+    "code": "97GK527",
     "copy": {
       "pt": {
-        "headline": "Itens com desconto na SHEIN",
-        "text": "A página de ofertas da loja, com os preços do dia.",
-        "action": "Ver as ofertas"
+        "headline": "SHEIN 11.11: Até 90% OFF em +800 mil produtos",
+        "text": "Campanha da própria SHEIN. As condições aparecem no site da SHEIN.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
       },
       "en": {
-        "headline": "Items on sale at SHEIN",
-        "text": "The store’s deals page, with today’s prices.",
-        "action": "See the deals"
+        "headline": "SHEIN 11.11: Up to 90% off on 800,000+ products",
+        "text": "Run by SHEIN itself. The terms are on the SHEIN website.",
+        "action": "See the offer",
+        "tag": "UP TO"
       },
       "es": {
-        "headline": "Artículos con descuento en SHEIN",
-        "text": "La página de ofertas de la tienda, con los precios del día.",
-        "action": "Ver las ofertas"
+        "headline": "SHEIN 11.11: hasta un 90 % de descuento en más de 800 000 productos",
+        "text": "Una campaña de la propia SHEIN. Las condiciones están en el sitio de SHEIN.",
+        "action": "Ver la oferta",
+        "tag": "HASTA"
       },
       "fr": {
-        "headline": "Articles en promotion chez SHEIN",
-        "text": "La page des promos de la boutique, avec les prix du jour.",
-        "action": "Voir les promos"
+        "headline": "SHEIN 11.11 : jusqu’à 90 % de réduction sur plus de 800 000 produits",
+        "text": "Une campagne de SHEIN. Les conditions sont sur le site de SHEIN.",
+        "action": "Voir l’offre",
+        "tag": "JUSQU’À"
       },
       "it": {
-        "headline": "Articoli scontati su SHEIN",
-        "text": "La pagina delle offerte del negozio, con i prezzi del giorno.",
-        "action": "Vedi le offerte"
+        "headline": "SHEIN 11.11: fino al 90% di sconto su oltre 800.000 prodotti",
+        "text": "Una campagna di SHEIN. Le condizioni sono sul sito di SHEIN.",
+        "action": "Vedi l’offerta",
+        "tag": "FINO AL"
       },
       "de": {
-        "headline": "Reduzierte Artikel bei SHEIN",
-        "text": "Die Angebotsseite des Shops mit den aktuellen Preisen.",
-        "action": "Angebote ansehen"
+        "headline": "SHEIN 11.11: Bis zu 90 % Rabatt auf über 800.000 Produkte",
+        "text": "Eine Aktion von SHEIN. Die Bedingungen stehen auf der SHEIN-Website.",
+        "action": "Zum Angebot",
+        "tag": "BIS ZU"
       },
       "ja": {
-        "headline": "SHEINのセール商品",
-        "text": "ストアのセールページです。価格は当日時点のものです。",
-        "action": "セール商品を見る"
+        "headline": "SHEIN 11.11：80万点以上の商品が最大90%オフ",
+        "text": "SHEIN公式のキャンペーンです。条件はSHEINのサイトでご確認ください。",
+        "action": "キャンペーンを見る",
+        "tag": "最大"
       },
       "ko": {
-        "headline": "SHEIN 할인 상품",
-        "text": "스토어의 할인 페이지입니다. 가격은 당일 기준입니다.",
-        "action": "할인 상품 보기"
+        "headline": "SHEIN 11.11: 80만 개 이상 상품 최대 90% 할인",
+        "text": "SHEIN 자체 프로모션입니다. 조건은 SHEIN 사이트에서 확인하세요.",
+        "action": "혜택 보기",
+        "tag": "최대"
       },
       "zh-hans": {
-        "headline": "SHEIN折扣商品",
-        "text": "店铺的折扣页面，价格以当天为准。",
-        "action": "查看折扣"
+        "headline": "SHEIN 11.11：80万+商品低至1折",
+        "text": "SHEIN官方活动，具体条件以SHEIN网站为准。",
+        "action": "查看活动",
+        "tag": "最高"
       },
       "zh-hant": {
-        "headline": "SHEIN折扣商品",
-        "text": "店鋪的折扣頁面，價格以當天為準。",
-        "action": "查看折扣"
+        "headline": "SHEIN 11.11：80萬+商品低至1折",
+        "text": "SHEIN官方活動，具體條件以SHEIN網站為準。",
+        "action": "查看活動",
+        "tag": "最高"
       }
     },
-    "source": "Link de afiliado da campanha no painel da SHEIN (PR #349)",
-    "verifiedAt": "2026-10-29"
+    "source": "Mensagem da campanha (Mega Promoção 11.11, #SHEIN1111) e link enviados pelo Bruno em 07/11/2026; a loja mostra \"termina em 38 dias\", sem data fixa",
+    "verifiedAt": "2026-11-07"
   },
   {
     "id": "shein-novos-usuarios",
@@ -793,26 +805,6 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Black Friday de 27/11/2026, informada pelo Bruno (02/11/2026)",
     "verifiedAt": "2026-11-02"
-  },
-  {
-    "id": "skelt-brindes-48h-2026",
-    "affiliate": "skelt",
-    "slot": "mid",
-    "href": "/reviews/brindes-skelt-black-friday-cupom",
-    "art": {
-      "kind": "bag"
-    },
-    "startsAt": "2026-11-05T00:00:00-03:00",
-    "endsAt": "2026-11-06T23:59:59-03:00",
-    "copy": {
-      "pt": {
-        "headline": "Brindes da Skelt por 48 horas",
-        "text": "Campanha da própria Skelt. Os brindes valem só em compras com o cupom da Cecília; as condições estão no artigo.",
-        "action": "Ver os brindes"
-      }
-    },
-    "source": "Promoção de Black Friday de 48 horas da Skelt, informada pelo Bruno (05/11/2026); início em 05/11 e fim em 06/11 confirmados por ele",
-    "verifiedAt": "2026-11-05"
   },
   {
     "id": "skelt-esquenta-black-friday-2026",
