@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A loja não publica teste de efeito, e este guia não testa. Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor: só três dos 500 g estão em oferta; veja \"Quanto custa cada dose\"."
+        "Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor: só três dos 500 g estão em oferta; veja \"Quanto custa cada dose\"."
       ]
     },
     {
@@ -63,24 +63,168 @@
           "Por dose"
         ],
         "rows": [
-          ["Amora e Melancia 300 g", "15", "20 g", "150 mg", "500 mg", "R$ 129,00", "R$ 8,60"],
-          ["Manga 300 g", "15", "20 g", "150 mg", "500 mg", "R$ 129,00", "R$ 8,60"],
-          ["Pink Lemonade 300 g", "15", "20 g", "150 mg", "500 mg", "R$ 129,00", "R$ 8,60"],
-          ["Tropical 300 g", "15", "20 g", "150 mg", "500 mg", "R$ 129,00", "R$ 8,60"],
-          ["Amora e Melancia 500 g", "25", "20 g", "150 mg", "500 mg", "R$ 125,99 (de R$ 179,99)", "R$ 5,04"],
-          ["Manga 500 g", "25", "20 g", "150 mg", "500 mg", "R$ 125,99 (de R$ 179,99)", "R$ 5,04"],
-          ["Pink Lemonade 500 g", "25", "20 g", "150 mg", "500 mg", "R$ 125,99 (de R$ 179,99)", "R$ 5,04"],
-          ["Tropical 500 g", "25", "20 g", "150 mg", "500 mg", "R$ 179,99", "R$ 7,20"],
-          ["Azedinha Morango 500 g", "25", "20 g", "150 mg", "400 mg", "R$ 179,99", "R$ 7,20"],
-          ["Lilith Maçã Verde 500 g", "25", "20 g", "150 mg", "400 mg", "R$ 179,99", "R$ 7,20"],
-          ["Nitrato Laranja e Acerola 450 g", "15", "30 g", "sem linha", "sem linha", "R$ 132,30 (de R$ 189,00)", "R$ 8,82"],
-          ["Sem Cafeína Tropical 450 g", "15", "30 g", "sem linha", "sem linha", "R$ 104,99 (de R$ 149,99)", "R$ 7,00"],
-          ["Sachê Amora e Melancia 15 un.", "15", "20 g", "150 mg", "500 mg", "R$ 194,85", "R$ 12,99"],
-          ["Sachê Manga 15 un.", "15", "20 g", "150 mg", "500 mg", "R$ 194,85", "R$ 12,99"],
-          ["Sachê Pink Lemonade 15 un.", "15", "20 g", "150 mg", "500 mg", "R$ 194,85", "R$ 12,99"],
-          ["Sachê Tropical 15 un.", "15", "20 g", "150 mg", "500 mg", "R$ 194,85", "R$ 12,99"],
-          ["Sachê Maçã Verde Lilith 15 un.", "15", "20 g", "150 mg", "400 mg", "R$ 194,85", "R$ 12,99"],
-          ["Sachê Azedinha Morango 15 un. (dado da página)", "15", "20 g", "150 mg", "400 mg", "R$ 194,85", "R$ 12,99"]
+          [
+            "Amora e Melancia 300 g",
+            "15",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 129,00",
+            "R$ 8,60"
+          ],
+          [
+            "Manga 300 g",
+            "15",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 129,00",
+            "R$ 8,60"
+          ],
+          [
+            "Pink Lemonade 300 g",
+            "15",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 129,00",
+            "R$ 8,60"
+          ],
+          [
+            "Tropical 300 g",
+            "15",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 129,00",
+            "R$ 8,60"
+          ],
+          [
+            "Amora e Melancia 500 g",
+            "25",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 125,99 (de R$ 179,99)",
+            "R$ 5,04"
+          ],
+          [
+            "Manga 500 g",
+            "25",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 125,99 (de R$ 179,99)",
+            "R$ 5,04"
+          ],
+          [
+            "Pink Lemonade 500 g",
+            "25",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 125,99 (de R$ 179,99)",
+            "R$ 5,04"
+          ],
+          [
+            "Tropical 500 g",
+            "25",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 179,99",
+            "R$ 7,20"
+          ],
+          [
+            "Azedinha Morango 500 g",
+            "25",
+            "20 g",
+            "150 mg",
+            "400 mg",
+            "R$ 179,99",
+            "R$ 7,20"
+          ],
+          [
+            "Lilith Maçã Verde 500 g",
+            "25",
+            "20 g",
+            "150 mg",
+            "400 mg",
+            "R$ 179,99",
+            "R$ 7,20"
+          ],
+          [
+            "Nitrato Laranja e Acerola 450 g",
+            "15",
+            "30 g",
+            "sem linha",
+            "sem linha",
+            "R$ 132,30 (de R$ 189,00)",
+            "R$ 8,82"
+          ],
+          [
+            "Sem Cafeína Tropical 450 g",
+            "15",
+            "30 g",
+            "sem linha",
+            "sem linha",
+            "R$ 104,99 (de R$ 149,99)",
+            "R$ 7,00"
+          ],
+          [
+            "Sachê Amora e Melancia 15 un.",
+            "15",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 194,85",
+            "R$ 12,99"
+          ],
+          [
+            "Sachê Manga 15 un.",
+            "15",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 194,85",
+            "R$ 12,99"
+          ],
+          [
+            "Sachê Pink Lemonade 15 un.",
+            "15",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 194,85",
+            "R$ 12,99"
+          ],
+          [
+            "Sachê Tropical 15 un.",
+            "15",
+            "20 g",
+            "150 mg",
+            "500 mg",
+            "R$ 194,85",
+            "R$ 12,99"
+          ],
+          [
+            "Sachê Maçã Verde Lilith 15 un.",
+            "15",
+            "20 g",
+            "150 mg",
+            "400 mg",
+            "R$ 194,85",
+            "R$ 12,99"
+          ],
+          [
+            "Sachê Azedinha Morango 15 un. (dado da página)",
+            "15",
+            "20 g",
+            "150 mg",
+            "400 mg",
+            "R$ 194,85",
+            "R$ 12,99"
+          ]
         ]
       },
       "postParagraphs": [
@@ -106,7 +250,7 @@
     {
       "heading": "Quanto custa cada dose",
       "paragraphs": [
-        "A conta é o preço de venda dividido pelas doses do pote. O preço com cupom tira 10% do subtotal. O preço no Pix usa o valor de Pix da página."
+        "A conta é o preço de venda dividido pelas doses do pote. “Com o cupom” tira 10% do subtotal; “no Pix” usa o valor de Pix da página, sem somar o cupom. A combinação dos dois vem depois da lista."
       ],
       "bullets": [
         "**Pote de 300 g (15 doses):** R$ 8,60 por dose; R$ 7,74 com o cupom; R$ 8,34 no Pix.",
@@ -164,7 +308,7 @@
       "paragraphs": [
         "Por perfil:"
       ],
-      "emphasis": "Pelos números da tabela, para quem quer a dose mais barata a escolha é o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade, porque sai a R$ 5,04 por dose.",
+      "emphasis": "Pelos números da tabela, para quem quer a dose mais barata, o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade sai a R$ 5,04 antes do cupom e do Pix.",
       "emphasisAfterParagraph": 1,
       "bullets": [
         "**Quer a dose mais barata:** o pote de 500 g desses três sabores. Os outros três de 500 g, Tropical, Azedinha Morango e Lilith Maçã Verde, custam R$ 179,99 e saem a R$ 7,20 por dose.",
@@ -179,7 +323,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O Exquenta é bom? A loja não publica teste de efeito, e este guia não testa. O que dá para comparar é o rótulo e o preço por dose.",
+        "O Exquenta é bom? O que dá para comparar é o rótulo e o preço por dose.",
         "Tem Exquenta sem cafeína? Tem: o Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g. A tabela de cada um não traz linha de cafeína.",
         "Quanta cafeína tem por dose? 150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja, e no sachê Azedinha Morango pela arte da caixa.",
         "Qual é o cupom da Mais Mu? MMEMCASACOMCECILIA, que dá 10% em todo o site e soma com o Pix."
@@ -188,7 +332,7 @@
     {
       "heading": "Código e onde comprar",
       "bullets": [
-        "**Código:** MMEMCASACOMCECILIA, cupom de 10% em todo o site. Soma com o Pix de 3% e vale também em produto já em oferta, pelo teste no carrinho.",
+        "**Código:** MMEMCASACOMCECILIA dá 10% em todo o site e vale também em produto já em oferta. O cupom soma com os 3% do Pix.",
         "**Mercado Livre:** o cupom não vale lá. O link da marca no Mercado Livre é o [meli.la/24RjvdP](https://meli.la/24RjvdP).",
         "**Regras do cupom:** [página da Mais Mu no site](/cupons/mais-mu).",
         "**Como usar o cupom:** [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).",

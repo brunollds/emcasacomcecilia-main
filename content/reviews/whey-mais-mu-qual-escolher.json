@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "metaDescription": "Whey Mais Mu com o cupom MMEMCASACOMCECILIA e 10% OFF: pote, refil, sachê e isolado comparados por dose e por 100 g de proteína.",
-  "description": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e cupom, com os preços de 25/10/2026.",
+  "description": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e cupom.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
   "updatedAt": "2026-11-07",
@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O refil de 900 g tem o menor preço por proteína entre os formatos com contagem de doses da loja; o pote de 450 g serve para conhecer o sabor e o sachê, para levar. A loja não aponta o melhor sabor, e este texto também não. Cada conta está no capítulo Preço por dose: pote, refil e sachê."
+        "O refil de 900 g Brownie ou Cookies'n Cream tem o menor preço por proteína entre os formatos com contagem de doses da loja. O pote de 450 g serve para conhecer o sabor, e o sachê, para levar. A loja não aponta o melhor sabor, e este texto também não."
       ]
     },
     {
@@ -72,10 +72,38 @@
           "Disponível"
         ],
         "rows": [
-          ["Baunilha e Cookies'n Cream", "13", "R$ 159,99", "12,31", "61,53", "sim"],
-          ["Brownie", "13", "R$ 159,99", "12,31", "61,53", "não, esgotado"],
-          ["Chocolate, Chocolate com avelã, Chocolate com coco, Morango e Paçoquita", "12", "R$ 159,99", "13,33", "66,66", "sim"],
-          ["Doce de leite", "sem contagem", "R$ 159,99", "sem conta", "sem conta", "sim"]
+          [
+            "Baunilha e Cookies'n Cream",
+            "13",
+            "R$ 159,99",
+            "12,31",
+            "61,53",
+            "sim"
+          ],
+          [
+            "Brownie",
+            "13",
+            "R$ 159,99",
+            "12,31",
+            "61,53",
+            "não, esgotado"
+          ],
+          [
+            "Chocolate, Chocolate com avelã, Chocolate com coco, Morango e Paçoquita",
+            "12",
+            "R$ 159,99",
+            "13,33",
+            "66,66",
+            "sim"
+          ],
+          [
+            "Doce de leite",
+            "sem contagem",
+            "R$ 159,99",
+            "sem conta",
+            "sem conta",
+            "sim"
+          ]
         ]
       },
       "postParagraphs": [
@@ -95,10 +123,38 @@
           "Disponível"
         ],
         "rows": [
-          ["Brownie e Cookies'n Cream", "26", "R$ 279,99", "10,77", "53,84", "sim"],
-          ["Baunilha e Morango", "25", "R$ 279,99", "11,20", "56,00", "sim"],
-          ["Chocolate", "23", "R$ 279,99", "12,17", "60,87", "sim"],
-          ["Chocolate com avelã, Chocolate com coco, Doce de leite e Paçoquita", "sem contagem", "R$ 279,99", "sem conta", "sem conta", "sim"]
+          [
+            "Brownie e Cookies'n Cream",
+            "26",
+            "R$ 279,99",
+            "10,77",
+            "53,84",
+            "sim"
+          ],
+          [
+            "Baunilha e Morango",
+            "25",
+            "R$ 279,99",
+            "11,20",
+            "56,00",
+            "sim"
+          ],
+          [
+            "Chocolate",
+            "23",
+            "R$ 279,99",
+            "12,17",
+            "60,87",
+            "sim"
+          ],
+          [
+            "Chocolate com avelã, Chocolate com coco, Doce de leite e Paçoquita",
+            "sem contagem",
+            "R$ 279,99",
+            "sem conta",
+            "sem conta",
+            "sim"
+          ]
         ]
       },
       "postParagraphs": [
@@ -129,17 +185,59 @@
           "Disponível"
         ],
         "rows": [
-          ["Baunilha", "36 g", "R$ 239,85", "15,99", "sim"],
-          ["Chocolate com avelã", "39 g", "R$ 239,85", "15,99", "sim"],
-          ["Chocolate com coco", "35 g", "R$ 239,85", "15,99", "sim"],
-          ["Paçoquita", "37 g", "R$ 239,85", "15,99", "sim"],
-          ["Brownie", "31 g", "R$ 254,85", "16,99", "sim"],
-          ["Cookies'n Cream", "35 g", "R$ 254,85", "16,99", "sim"],
-          ["Doce de leite", "37 g", "R$ 254,85", "16,99", "sim"]
+          [
+            "Baunilha",
+            "36 g",
+            "R$ 239,85",
+            "15,99",
+            "sim"
+          ],
+          [
+            "Chocolate com avelã",
+            "39 g",
+            "R$ 239,85",
+            "15,99",
+            "sim"
+          ],
+          [
+            "Chocolate com coco",
+            "35 g",
+            "R$ 239,85",
+            "15,99",
+            "sim"
+          ],
+          [
+            "Paçoquita",
+            "37 g",
+            "R$ 239,85",
+            "15,99",
+            "sim"
+          ],
+          [
+            "Brownie",
+            "31 g",
+            "R$ 254,85",
+            "16,99",
+            "sim"
+          ],
+          [
+            "Cookies'n Cream",
+            "35 g",
+            "R$ 254,85",
+            "16,99",
+            "sim"
+          ],
+          [
+            "Doce de leite",
+            "37 g",
+            "R$ 254,85",
+            "16,99",
+            "sim"
+          ]
         ]
       },
       "postParagraphs": [
-        "Só o Chocolate com Coco tem a tabela publicada na galeria: 20 g de proteína por sachê de 35 g, 152 kcal e 15 porções. Pela conta nossa, a caixa dele sai a R$ 79,95 por 100 g de proteína. Os outros sabores não publicam a proteína por sachê, e para eles fica só o preço por sachê. Com o cupom e o Pix, a caixa de R$ 239,85 sai por R$ 209,39, e a de R$ 254,85 por R$ 222,48.",
+        "A tabela publicada para o sachê Chocolate com Coco informa 20 g de proteína em 35 g, 152 kcal e 15 porções. Pela conta nossa, a caixa dele sai a R$ 79,95 por 100 g de proteína. Os outros sabores não publicam a proteína por sachê, e para eles fica só o preço por sachê. Com o cupom e o Pix, a caixa de R$ 239,85 sai por R$ 209,39, e a de R$ 254,85 por R$ 222,48.",
         "Cada sachê custa R$ 15,99 ou R$ 16,99 no cartão; uma dose do pote ou do refil, pela contagem da loja, sai de R$ 10,77 a R$ 13,33. O sachê faz sentido quando levar o pó pesa mais que essa diferença. Quem quer comparar o sachê com outras marcas encontra a Mais Mu no perfil de pote pequeno e sachê em [Melhor whey em 2026](/reviews/melhor-whey-qual-escolher-por-objetivo)."
       ]
     },
@@ -159,8 +257,22 @@
           "Disponível"
         ],
         "rows": [
-          ["Pote de 450 g: Baunilha, Brownie, Chocolate, Cookies'n Cream, Morango e Sem sabor", "16", "R$ 299,99", "18,75", "85,22", "sim"],
-          ["Refil de 900 g: Baunilha, Brownie, Chocolate, Cookies'n Cream e Morango", "33", "R$ 520,00", "15,76", "71,63", "sim"]
+          [
+            "Pote de 450 g: Baunilha, Brownie, Chocolate, Cookies'n Cream, Morango e Sem sabor",
+            "16",
+            "R$ 299,99",
+            "18,75",
+            "85,22",
+            "sim"
+          ],
+          [
+            "Refil de 900 g: Baunilha, Brownie, Chocolate, Cookies'n Cream e Morango",
+            "33",
+            "R$ 520,00",
+            "15,76",
+            "71,63",
+            "sim"
+          ]
         ]
       },
       "postParagraphs": [
@@ -180,11 +292,46 @@
           "Disponível"
         ],
         "rows": [
-          ["Pote de 450 g: Caramel Macchiato e Chocolate com avelã", "13", "R$ 199,00", "15,31", "69,58", "sim"],
-          ["Pote de 450 g: Torta de banana com canela", "12", "R$ 199,00", "16,58", "75,38", "sim"],
-          ["Refil de 900 g: Caramel Macchiato", "27", "R$ 346,00", "12,81", "58,25", "sim"],
-          ["Refil de 900 g: Chocolate com avelã", "26", "R$ 346,00", "13,31", "60,49", "sim"],
-          ["Refil de 900 g: Torta de banana com canela", "25", "R$ 346,00", "13,84", "62,91", "sim"]
+          [
+            "Pote de 450 g: Caramel Macchiato e Chocolate com avelã",
+            "13",
+            "R$ 199,00",
+            "15,31",
+            "69,58",
+            "sim"
+          ],
+          [
+            "Pote de 450 g: Torta de banana com canela",
+            "12",
+            "R$ 199,00",
+            "16,58",
+            "75,38",
+            "sim"
+          ],
+          [
+            "Refil de 900 g: Caramel Macchiato",
+            "27",
+            "R$ 346,00",
+            "12,81",
+            "58,25",
+            "sim"
+          ],
+          [
+            "Refil de 900 g: Chocolate com avelã",
+            "26",
+            "R$ 346,00",
+            "13,31",
+            "60,49",
+            "sim"
+          ],
+          [
+            "Refil de 900 g: Torta de banana com canela",
+            "25",
+            "R$ 346,00",
+            "13,84",
+            "62,91",
+            "sim"
+          ]
         ]
       },
       "postParagraphs": [
@@ -205,7 +352,7 @@
         "**Proteína vegetal:** Caramel Macchiato, Chocolate com avelã e Torta de banana com canela, nos dois tamanhos."
       ],
       "postParagraphs": [
-        "O Brownie de 450 g estava esgotado na leitura. No refil de 900 g, o mesmo sabor segue disponível.",
+        "O Brownie de 450 g estava esgotado, e o mesmo sabor estava disponível no refil de 900 g. Confira a página do sabor e formato antes de comprar.",
         "A loja marca Paçoquita e Chocolate com coco como “novo sabor” e o Doce de leite como “lançamento”, sem data. A categoria de whey também tem uma ordenação padrão com nome de ranking, sem critério nem data publicados. Por isso este texto não diz que um sabor vende mais que outro."
       ]
     },
@@ -249,7 +396,7 @@
       "paragraphs": [
         "Não há um formato melhor para todo mundo. O que pesa é quanto você quer pagar por proteína, se precisa levar o pó e se a lactose importa para você."
       ],
-      "emphasis": "Pelos números da tabela, para quem quer o menor preço por proteína a escolha é o refil de 900 g de Brownie ou Cookies'n Cream, porque sai a R$ 53,84 por 100 g no cartão.",
+      "emphasis": "Pelos números da tabela, para quem quer o menor preço por proteína a escolha é o refil de 900 g de Brownie ou Cookies'n Cream: cerca de R$ 53,84 por 100 g no cartão, com a contagem aproximada da loja.",
       "emphasisAfterParagraph": 1,
       "bullets": [
         "**Quer conhecer o sabor antes de levar um formato maior:** o pote de 450 g, a R$ 159,99, com 12 ou 13 doses.",
@@ -271,7 +418,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual whey Mais Mu é o mais barato por proteína? Entre os formatos com contagem da loja, o refil de 900 g dos sabores Brownie e Cookies'n Cream, a R$ 53,84 por 100 g de proteína no cartão e R$ 47,01 com o cupom e o Pix. O refil de 1,8 kg não tem contagem na loja, então não entra na comparação.",
+        "Qual whey Mais Mu é o mais barato por proteína? Entre os formatos com contagem aproximada da loja, o refil de 900 g dos sabores Brownie e Cookies'n Cream, a R$ 53,84 por 100 g de proteína no cartão e R$ 47,01 com o cupom e o Pix. O refil de 1,8 kg não tem contagem na loja, então não entra na comparação.",
         "Qual sabor da Mais Mu é o melhor? A loja não diz, e este texto também não escolhe, porque não há degustação aqui. O que dá para comparar é o formato, o preço por dose e o estoque de cada sabor.",
         "A Mais Mu tem whey sem lactose? Nenhum concentrado da linha se apresenta como sem lactose. Os textos dizem “contém lactose”, e a única exceção é o refil de Paçoquita de 222 g, cuja página não traz essa linha. Isso não garante ausência de lactose, então confira o rótulo. O isolado Baunilha de 450 g também diz “contém lactose”; os outros sabores do isolado não foram lidos.",
         "Sachê compensa? Depende do que você precisa. Cada sachê custa R$ 15,99 ou R$ 16,99 no cartão, e uma dose do pote ou do refil com contagem sai de R$ 10,77 a R$ 13,33. Ele compensa quando levar o pó pesa mais que essa diferença.",
@@ -282,7 +429,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Quem quer o menor preço por proteína: o refil de 900 g de Brownie ou Cookies'n Cream.",
+      "Quem procura menor preço por proteína entre os formatos com contagem: o refil de 900 g de Brownie ou Cookies'n Cream, conferindo o preço no dia da compra.",
       "Quem quer conhecer o sabor antes de levar um formato maior: o pote de 450 g.",
       "Quem precisa levar o pó: o sachê, que sai acima da dose do pote e do refil."
     ],

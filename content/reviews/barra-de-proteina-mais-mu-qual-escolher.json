@@ -28,13 +28,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Mukebar 720 g tem mais proteína por unidade, 15 g em 60 g, e o menor preço por grama de proteína na conta nossa. Se a ideia é gastar menos por unidade e levar menos açúcar e calorias, a Chocowheyfer Sem Cobertura resolve. O detalhe que decide é o tamanho da unidade; veja em Qual escolher."
+        "Nos preços de referência da tabela, a Mukebar 720 g tinha o menor custo por grama de proteína, com 15 g numa barra de 60 g. A Chocowheyfer Sem Cobertura era a unidade mais barata e tinha menos açúcar e calorias que a Mukebar Avelã. Compare o tamanho da unidade e o rótulo antes de escolher."
       ]
     },
     {
       "heading": "Os produtos numa tabela",
       "paragraphs": [
-        "Esta comparação cobre as barras e os wafers proteicos da Mais Mu à venda em 25/10/2026, uma linha por produto e por unidade. Na coluna de proteína, \"tabela\" quer dizer que o número veio da tabela nutricional que a loja publica; \"texto\" quer dizer que veio da descrição da página e da embalagem.",
+        "Esta tabela compara as barras e os wafers proteicos da Mais Mu à venda em 25/10/2026, uma linha por unidade. “Tabela” indica dado da tabela nutricional publicada; “texto” indica informação da descrição ou da embalagem mostrada na página.",
         "A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela foi lida no sabor Chocolate com Avelã. Os outros sabores (Branco, Coco, Crocante, Cookies'n Cream, Mista e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura têm tabela lida em todos os sabores à venda: Chocolate, Morango, Doce de Leite e Cookies'n Cream na Max; Chocolate e Morango no Sem Cobertura. O peso e a proteína são os mesmos em cada linha."
       ],
       "comparisonTable": {
@@ -95,7 +95,8 @@
             "R$ 6,99",
             "R$ 1,40"
           ]
-        ]
+        ],
+        "caption": "Preço da unidade no preço normal da página, sem frete, Pix ou cupom. O R$ por grama de proteína é conta nossa. Proteína da tabela ou do texto conforme indicado em cada linha."
       },
       "bullets": [
         "**Chocowheyfer Bites.** A embalagem diz 35 g e 6 g de proteína. A página diz 10 g por porção. A tabela da mesma página diz porção de 25 g e 6 g. Com três números diferentes, o produto não entra na comparação.",
@@ -244,8 +245,8 @@
     {
       "heading": "Preço por unidade e por grama de proteína",
       "paragraphs": [
-        "O preço que decide é o da unidade, no preço normal de 25/10/2026, sem Pix e sem cupom. O R$ por grama de proteína é conta nossa: o preço da unidade dividido pela proteína da unidade. A loja não publica esse número. Serve só para comparar os produtos entre si.",
-        "Com o cupom de 10%, a conta muda. A Mukebar 720 g sai a R$ 0,78 por grama de proteína, e a Chocowheyfer Sem Cobertura, a R$ 0,90. O Pix dá 3% de desconto e também soma com o cupom, mas essa conta não entra nos números acima."
+        "O preço da unidade é o da página no preço normal, sem Pix e sem cupom. Para o R$ por grama de proteína, dividimos esse preço pela proteína declarada por unidade. É uma régua de custo entre estes produtos, não uma classificação de qualidade.",
+        "O cupom de 10% e o Pix de 3% podem somar, mas essas contas não entram nos valores desta seção. As regras do código e da compra estão na seção seguinte."
       ]
     },
     {
@@ -276,26 +277,25 @@
         "Nenhuma das barras e dos wafers ganha em tudo. Por unidade, os números apontam para caminhos diferentes:"
       ],
       "bullets": [
-        "**Mais proteína por unidade:** a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Também tem o menor R$ por grama de proteína. Se açúcar e calorias pesam na sua escolha, pule para a Sem Cobertura; os valores exatos estão nas tabelas acima.",
-        "**Menor preço por unidade:** a Chocowheyfer Sem Cobertura, a R$ 5,99, com 6 g e 126 kcal no sabor Chocolate. Pela conta nossa, ela fica em segundo lugar por grama de proteína, a R$ 1,00.",
-        "**Menos açúcar total:** o Veggie Wafer, com 0,1 g por unidade, e a Sem Cobertura, com 0,3 g. O Veggie Wafer tem glúten e pode conter leite.",
-        "**Menos calorias por unidade:** o Veggie Wafer, com 121 kcal. A Chocowheyfer 300 g e a Sem Cobertura vêm em seguida, com 126 kcal cada no sabor Chocolate.",
-        "**Meio-termo de tamanho:** a Crush Bar, com 10 g em 35 g, de 179 a 181 kcal e 0,7 g de açúcar total. A unidade sai a R$ 10,92, e a conta por grama de proteína fica em R$ 1,09.",
-        "**Wafer com mais proteína:** a Chocowheyfer Max, com 12 g em 50 g e 259 a 264 kcal nos quatro sabores, a R$ 12,90 por unidade. É a maior unidade entre os wafers, e a conta por grama de proteína fica em R$ 1,08, igual à da Mukebar 40 g."
+        "**Mais proteína por unidade e menor custo por grama no recorte:** Mukebar 720 g, com 15 g numa barra de 60 g e R$ 0,86 por grama de proteína na conta de referência. A tabela nutricional é do sabor Chocolate com Avelã.",
+        "**Menor gasto por unidade no recorte:** Chocowheyfer Sem Cobertura, a R$ 5,99. É um wafer de 25 g com 6 g de proteína, não uma barra do mesmo tamanho da Mukebar.",
+        "**Menos açúcar total e calorias por unidade entre as tabelas lidas:** Veggie Wafer, de 25 g. Apesar do nome vegetal, contém glúten e pode conter leite.",
+        "**Unidade intermediária:** Crush Bar, com 35 g e 10 g de proteína; consulte as duas linhas de sabores para calorias e açúcar.",
+        "**Wafer maior, com mais proteína por unidade:** Chocowheyfer Max, com 50 g e 12 g de proteína. Os quatro sabores variam em calorias e açúcar, como mostra a tabela."
       ],
       "postParagraphs": [
-        "Partindo só das tabelas, decida por proteína e açúcar: o sabor fica com as avaliações da loja. Se a dieta tem alguma restrição, quem decide é um nutricionista ou médico, com a embalagem na mão."
+        "Compare a quantidade que pretende comer e as restrições do rótulo. Se há uma restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos."
       ],
-      "emphasis": "Pelos números da tabela, para o perfil de mais proteína por unidade a escolha é a Mukebar 720 g, porque tem 15 g por unidade e o menor R$ por grama de proteína.",
+      "emphasis": "Para mais proteína em uma unidade maior, a Mukebar 720 g é a opção da comparação; para gastar menos por unidade, era a Sem Cobertura nos preços de referência. São escolhas por critérios diferentes.",
       "emphasisAfterParagraph": 1
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Chocowheyfer tem açúcar? Tem açúcar total baixo e zero adicionado em todas, pela tabela da loja; os gramas por sabor estão na tabela de calorias acima.",
-        "Mukebar tem glúten? A página da Mukebar Chocolate com Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Os outros sabores não têm aviso na página: confira o aviso de alérgenos na página e na embalagem de cada um.",
+        "Chocowheyfer tem açúcar? Nos sabores com tabela nesta comparação, há açúcar total e 0 g de açúcar adicionado declarado. Veja a quantidade por sabor na tabela de calorias; “zero adicionado” não significa ausência de açúcar total.",
+        "Mukebar tem glúten? No sabor Chocolate com Avelã, sim: a página declara CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos demais sabores, confira o aviso de alérgenos na página e na embalagem antes de comprar.",
         "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem a Chocowheyfer Max, com 12 g em 50 g.",
-        "Tem barra vegana? A loja não vende barra vegana na listagem. O produto que ela chama de vegetal é o Veggie Wafer, e ele pode conter leite."
+        "Tem barra vegana? Não encontramos barra vegana à venda no catálogo consultado. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostrava selo vegano. Confira o aviso de alérgenos antes de comprar."
       ]
     }
   ],
@@ -309,7 +309,7 @@
   },
   "coupon": "MMEMCASACOMCECILIA",
   "affiliate": "mais-mu",
-  "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA.",
+  "editorialNote": "Comparação feita com tabelas e páginas da loja, sem degustação pela equipe. Podemos receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA.",
   "relatedArticles": [
     {
       "slug": "mais-mu-e-confiavel"
@@ -327,9 +327,9 @@
       "Para quem quer o menor preço por unidade: a Chocowheyfer Sem Cobertura."
     ],
     "skipIf": [
-      "Quando o sabor decide sozinho: estes números não avaliam gosto.",
-      "Quando há restrição alimentar: a decisão é com nutricionista ou médico, com a embalagem na mão.",
-      "Quando a opção precisa ser vegetal certificada: a página não mostra selo vegano e o Veggie Wafer pode conter leite."
+      "Quando o sabor decide sozinho: esta comparação não avalia gosto.",
+      "Quando a escolha depende de uma restrição que o rótulo consultado não esclarece.",
+      "Quando é necessária opção vegetal certificada: a página consultada não mostrava selo vegano, e o Veggie Wafer pode conter leite."
     ]
   }
 }
