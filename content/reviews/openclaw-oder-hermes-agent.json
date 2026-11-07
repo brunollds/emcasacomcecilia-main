@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw oder Hermes Agent: Oberflächen, Kanäle, Gedächtnis und Kostenarten für den Betrieb bei Hostinger im Vergleich.",
+  "description": "OpenClaw oder Hermes Agent: Oberflächen, Kanäle, Gedächtnis und Kostenarten für den Betrieb bei Hostinger im Vergleich, mit VPS, verwaltetem Tarif und KI-Modell.",
   "metaDescription": "OpenClaw oder Hermes Agent: Oberfläche, Gedächtnis, KI-Kosten, verwaltet oder VPS. SONAR20 gibt 20 % im ersten Zeitraum eines berechtigten Neukaufs.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
@@ -238,7 +238,7 @@
         "Muss man programmieren können? Für den verwalteten Tarif nicht: Sie wählen die Kanäle und fügen den Token ein. Beim VPS braucht es Grundwissen über Server, etwa Root, Docker und Aktualisierungen. Programmieren kommt nur ins Spiel, wenn Sie den Code des Projekts anpassen wollen.",
         "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person oder ein Team mit gegenseitigem Vertrauen, keine direkte Erreichbarkeit aus dem Internet und eine Prüfung dessen, was Sie von Dritten installieren.",
         "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keinen der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README von Hermes Agent führt den Anthropic-Schlüssel unter den Secrets auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, OpenClaw.",
-        "Können Hostinger-Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
+        "Können Hostinger-Bestandskunden SONAR20 nutzen? Ja, bei einem berechtigten Neukauf mit demselben Konto; die Verlängerung des bestehenden Dienstes ist ausgeschlossen. Er gibt 20 % auf die erste Laufzeit, und Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
       ]
     },
     {

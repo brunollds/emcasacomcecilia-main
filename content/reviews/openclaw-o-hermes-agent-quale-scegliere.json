@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw o Hermes Agent: confronta interfacce, canali, memoria e voci di costo per eseguire ciascuno su Hostinger.",
+  "description": "OpenClaw o Hermes Agent: confronta interfacce, canali, memoria e voci di costo per eseguire ciascuno su Hostinger, tra VPS, piano gestito e modello IA.",
   "metaDescription": "OpenClaw o Hermes Agent: interfaccia, memoria, costi IA, gestito o VPS. SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo.",
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
@@ -238,7 +238,7 @@
         "Serve saper programmare? Per avviare il gestito no: scegli i canali e incolli il token. Nel VPS serve conoscere le basi dei server, come root, Docker e aggiornamenti. Programmare entra in gioco solo se vuoi mettere mano al codice del progetto.",
         "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona o di un team che si fida a vicenda, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
         "Quale scegliere se uso già Claude Code? Claude Code è uno strumento per programmare nel terminale e non sostituisce nessuno dei due. Entrambi accettano la chiave di Anthropic: OpenClaw elenca Anthropic tra i provider, e il README di Hermes Agent riporta la chiave di Anthropic tra i segreti. Se vuoi un agente che impara dall'uso, Hermes Agent si adatta meglio. Se vuoi molti canali e un'app sul telefono, OpenClaw.",
-        "Un cliente Hostinger esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
+        "Un cliente Hostinger esistente può usare SONAR20? Sì, su un nuovo acquisto idoneo con lo stesso account; il rinnovo del servizio attuale è escluso. Offre il 20% sul primo periodo, e anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
       ]
     },
     {

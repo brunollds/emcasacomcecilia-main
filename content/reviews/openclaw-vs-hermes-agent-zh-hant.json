@@ -220,7 +220,7 @@
       },
       "postParagraphs": [
         "託管方案請在商品說明與管理面板確認是否包含 AI 額度、餘額及用完後的處理方式，不要預設服務會繼續或自動產生費用。VPS 由 Hostinger 透過 Docker 安裝助理，更新與伺服器安全由你負責。",
-        "託管方案有 30 天可申請退款，依產品條件辦理。VPS 重複退款有各自的規則。購買前請確認適用政策；所列期間並非無條件保證。VPS 升級和加密貨幣付款不可退款。",
+        "託管方案有 30 天可申請退款，依產品條件辦理。VPS 重複退款有各自的規則。VPS 升級和加密貨幣付款不可退款。",
         "如果想在選方案之前先算出所需配置，請讀 [OpenClaw 最適合的 VPS](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)。活動方面，請看 [Hostinger 的黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
       ]
     },

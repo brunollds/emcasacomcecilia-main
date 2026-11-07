@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw o Hermes Agent: compara interfaces, canales, memoria y categorías de coste para ejecutar cada uno en Hostinger.",
+  "description": "OpenClaw o Hermes Agent: compara interfaces, canales, memoria y categorías de coste para ejecutar cada uno en Hostinger, con VPS, plan gestionado y modelo de IA.",
   "metaDescription": "OpenClaw o Hermes Agent: interfaz, memoria, coste de IA y gestionado o VPS. SONAR20 da un 20 % en el primer periodo de una compra nueva elegible.",
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
@@ -239,7 +239,7 @@
         "¿Hace falta saber programar? Para poner en marcha el gestionado, no: eliges los canales y pegas el token. En el VPS, hace falta saber lo básico de servidores, como root, Docker y actualizaciones. Programar solo entra si quieres tocar el código del proyecto.",
         "¿Es seguro? Depende de cómo lo uses. Las dos políticas de seguridad piden el mismo cuidado: uso por una persona o un equipo que confía entre sí, sin exposición directa a internet y con revisión de lo que instalas de terceros.",
         "¿Cuál elegir si ya uso Claude Code? Claude Code es una herramienta para programar en la terminal y no sustituye a ninguno de los dos. Los dos aceptan clave de Anthropic: OpenClaw incluye a Anthropic entre los proveedores, y el README de Hermes Agent trae la clave de Anthropic entre los secretos. Si quieres un agente que aprende con el uso, Hermes Agent encaja mejor. Si quieres muchos canales y app en el móvil, OpenClaw.",
-        "¿Un cliente existente de Hostinger puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. Da un 20 % en el primer periodo; el registro de dominio también queda fuera. Comprueba el total del carrito."
+        "¿Un cliente existente de Hostinger puede usar SONAR20? Sí, en una compra nueva elegible con la misma cuenta; la renovación del servicio actual queda fuera. Da un 20 % en el primer periodo, y el registro de dominio también queda fuera. Comprueba el total del carrito."
       ]
     },
     {

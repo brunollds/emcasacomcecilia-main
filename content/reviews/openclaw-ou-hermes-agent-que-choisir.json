@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw ou Hermes Agent : comparez interfaces, canaux, mémoire et postes de coût pour un usage chez Hostinger.",
+  "description": "OpenClaw ou Hermes Agent : comparez interfaces, canaux, mémoire et postes de coût pour un usage chez Hostinger, entre VPS, offre gérée et modèle d'IA.",
   "metaDescription": "OpenClaw ou Hermes Agent : interface, mémoire, coûts d'IA, offre gérée ou VPS. SONAR20 : 20 % sur la première période d'un nouvel achat éligible.",
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
@@ -239,7 +239,7 @@
         "Faut-il savoir programmer ? Pour lancer l'offre gérée, non : vous choisissez les canaux et collez le jeton. En VPS, il faut connaître les bases des serveurs, comme root, Docker et les mises à jour. La programmation n'entre en jeu que si vous voulez toucher au code du projet.",
         "Est-ce sûr ? Cela dépend de l'usage. Les deux politiques de sécurité demandent la même précaution : usage par une personne ou une équipe de confiance mutuelle, sans exposition directe à l'internet et avec un examen de ce que vous installez de tiers.",
         "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw cite Anthropic parmi ses fournisseurs, et le README de Hermes Agent range la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une appli sur le téléphone, OpenClaw.",
-        "Un client Hostinger existant peut-il utiliser SONAR20 ? Il peut s'appliquer à un nouvel achat éligible avec le même compte, pas au renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
+        "Un client Hostinger existant peut-il utiliser SONAR20 ? Oui, sur un nouvel achat éligible avec le même compte ; le renouvellement du service actuel est exclu. La réduction est de 20 % sur la première période, et l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
       ]
     },
     {

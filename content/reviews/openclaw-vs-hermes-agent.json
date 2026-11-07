@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw vs Hermes Agent: compare interfaces, channels, memory and the cost categories for running each one on Hostinger.",
+  "description": "OpenClaw vs Hermes Agent: compare interfaces, channels, memory and the cost categories for running each one on Hostinger, from VPS or managed hosting to AI model charges.",
   "metaDescription": "OpenClaw vs Hermes Agent: interfaces, memory, AI costs and managed or VPS hosting. SONAR20 gives 20% off the first period of an eligible new purchase.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
@@ -239,7 +239,7 @@
         "Do you need to know how to code? To set up the managed plan, no: you choose the channels and paste the token. On a VPS, you need the basics of servers, such as root, Docker and updates. Coding only comes in if you want to change the project's code.",
         "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person or a team that trusts each other, no direct exposure to the internet, and a review of whatever you install from third parties.",
         "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
-        "Can existing Hostinger customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
+        "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account; renewal of the current service is excluded. It gives 20% off the first term, and domain registration is also excluded. Check the cart total."
       ]
     },
     {
