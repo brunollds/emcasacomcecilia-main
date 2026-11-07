@@ -67273,7 +67273,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe uma loja melhor para todo mundo: a escolha depende do que você vai comprar e de quanto pesa poder devolver, e a Temu publica o maior prazo, 90 dias contados da compra, enquanto a SHEIN conta do recebimento. Não medimos preço nem testamos entregas. O capítulo Qual escolher, conforme a compra, mostra o que conferir em cada caso."
+          "Não existe uma loja melhor para todo mundo: para roupa, a escolha depende do prazo de devolução que você precisa. A Temu publica 90 dias contados da compra, e a SHEIN, 20 dias contados do recebimento. Confira a condição da sua peça e o prazo de entrega antes de pagar."
         ]
       },
       {
@@ -67432,7 +67432,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher, conforme a compra",
         "emphasis": "Para roupa que você não pode provar, compare de onde cada prazo começa a contar: a Temu conta os 90 dias da compra, a SHEIN conta os 20 dias do recebimento, e em cada loja alguns itens têm condição própria. Veja a condição da sua peça antes de decidir.",
         "bullets": [
-          "**Quer poder devolver com folga:** Temu, com 90 dias da compra, ou SHEIN, com 20 dias do recebimento; Shopee e AliExpress dão 7 dias.",
+          "**Quer tempo para decidir:** a tabela registra Temu com 90 dias da compra e SHEIN com 20 dias do recebimento; Shopee e AliExpress dão 7 dias. Confira a data-limite, se a peça pode ser devolvida e o custo.",
           "**Precisa receber até uma data:** confira o prazo na página do produto ou do pedido. Na Shopee, ele muda de vendedor para vendedor; no AliExpress, a página da peça traz a data estimada e o reembolso se o pedido não chegar em 50 dias.",
           "**Vai comprar do exterior:** veja no checkout o valor do ICMS e, acima de US$ 50, do imposto de importação.",
           "**Prefere vendedor do Brasil:** procure o Envio Nacional na SHEIN, que não paga imposto de importação, ou os vendedores brasileiros na Shopee.",
@@ -67477,7 +67477,7 @@ export const reviewsData: unknown[] = [
           "SHEIN ou Shopee: qual escolher? Depende do que você vai comprar e de quanto pesa poder devolver: a SHEIN dá 20 dias para devolução e a Shopee 7, e o prazo de entrega da Shopee muda de vendedor para vendedor.",
           "Qual é mais barato, SHEIN ou Shopee? Este artigo não mede preço. Compare o preço final de cada peça, com frete e imposto, na hora de pagar em cada loja.",
           "Qual chega mais rápido, SHEIN ou Shopee? A SHEIN publica, no Envio Global, de 3 a 5 dias para processar o pedido e uma estimativa de entrega; na Shopee, o prazo depende do vendedor e aparece na página do produto.",
-          "SHEIN ou Temu: qual a diferença? A Temu publica o prazo de devolução mais longo (90 dias, contados da compra) e a SHEIN tem nota melhor no Reclame Aqui; frete e prazos estão na tabela acima.",
+          "SHEIN ou Temu: qual a diferença? A tabela registra 90 dias da compra para a Temu e 20 dias do recebimento para a SHEIN. Compare a data-limite e as condições da sua peça; o número sozinho não define a escolha. Frete e entrega estão na tabela acima.",
           "SHEIN ou AliExpress? A SHEIN dá 20 dias para devolução, e o AliExpress, 7 para desistir, mas as peças que abrimos nele mostravam devolução grátis até 15 dias. As duas publicam a mesma regra de imposto. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos seis meses da tabela.",
           "SHEIN ou Shopee para roupas? Para roupa, pese a devolução e a condição da sua peça: a SHEIN dá 20 dias e a Shopee 7, e na Shopee cada peça vem de um vendedor.",
           "SHEIN, Shopee e Temu pagam imposto? Nas compras do exterior, a SHEIN, a Shopee e o AliExpress publicam a mesma regra: ICMS de 17% a 20% e imposto de importação zero até US$ 50. A Temu não publica a alíquota nas páginas de envio e de devolução, e o imposto de importação não volta no reembolso.",
@@ -67496,7 +67496,7 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Compare o preço final, com frete e imposto, na hora de pagar",
+      "text": "Se escolher a SHEIN, pesquise 4CW5Y na busca do app. Antes de pagar, confira o total com frete e imposto.",
       "label": "Ir para a SHEIN",
       "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
       "sponsored": true
@@ -67533,7 +67533,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN or Temu? What each store publishes on shipping, delivery time and returns for the UK, and how to choose by what you are buying. Temu publishes the longest return window.",
+    "description": "SHEIN or Temu? What each store publishes on shipping, delivery time and returns for the UK, and how to choose by what you are buying.",
     "metaDescription": "SHEIN vs Temu: shipping, delivery time and returns published for the UK, and what to check before you buy.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
@@ -67551,7 +67551,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "No store is best for everyone: the choice depends on what you buy and how much returning matters. Temu publishes the longest window, 90 days from purchase, while SHEIN counts from receipt. We do not measure prices or test deliveries. The chapter \"Which to choose, depending on what you're buying\" below shows what to check in each case."
+          "No store is best for everyone: for clothes, the choice depends on the return deadline your item has. Temu counts 90 days from purchase and SHEIN up to 30 days from receipt, for most items. Check your item's conditions and delivery estimate before you pay."
         ]
       },
       {
@@ -67627,7 +67627,7 @@ export const reviewsData: unknown[] = [
         "heading": "Which to choose, depending on what you're buying",
         "emphasis": "For clothes you cannot try on, compare where each window starts: Temu counts its 90 days from purchase, SHEIN counts from receipt, and in each store some items have their own conditions. Check your item's conditions before choosing.",
         "bullets": [
-          "**You want room to return things:** Temu, with 90 days from purchase, or SHEIN, with most items up to 30 days after receipt.",
+          "**You want time to decide:** the table records 90 days from purchase for Temu and up to 30 days after receipt for most SHEIN items. Check the deadline, item eligibility and return cost for your order.",
           "**You need it by a certain date:** check the delivery time on the product page or in your order.",
           "**The order comes from abroad:** check the total with taxes at checkout.",
           "**You will pay by card, with a digital wallet or in instalments:** check the payment options at each store's checkout."
@@ -67662,7 +67662,7 @@ export const reviewsData: unknown[] = [
           "Which is cheaper, SHEIN or Temu? This article does not measure prices. Compare the final price of each item, with shipping and taxes, when you pay at each store.",
           "Which arrives faster, SHEIN or Temu? In the UK, SHEIN publishes 5 to 8 working days for Standard delivery, and Temu 6 to 13 working days (processing takes 1 to 3 days). This article does not test deliveries: check the date on the product page and in your order.",
           "SHEIN or Temu: what is the difference? Temu publishes the longer window, 90 days counted from purchase, while SHEIN takes most items back up to 30 days after receipt, so the two count from different points; shipping and delivery times are in the table above.",
-          "SHEIN or Temu for clothes? For clothes, weigh the return window and your item's conditions: Temu gives 90 days from purchase and SHEIN up to 30 days after receipt, both on most items, and lingerie, underwear and costume jewelry only come back within 14 days.",
+          "SHEIN or Temu for clothes? Check whether the item is returnable, the deadline and the return cost. In the UK table, Temu counts its 90 days from purchase; SHEIN counts up to 30 days from receipt for most items, with shorter periods for the categories listed above.",
           "Do SHEIN and Temu charge import tax? Import tax depends on the country. On its UK site, SHEIN says customers in the UK do not need to deal with customs. Before you pay, check at each store's checkout whether the total includes taxes.",
           "Are SHEIN and Temu the same company? No. They are different stores, each with its own rules for shipping, delivery and returns.",
           "Is 4CW5Y a coupon? No. It is Cecília's referral code at SHEIN, which you search for in the store's search bar."
@@ -67670,7 +67670,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Compare the final price, with shipping and taxes, when you pay",
+      "text": "If you choose SHEIN, search for 4CW5Y in the app. Before paying, check the total with shipping and taxes.",
       "label": "Go to SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -67715,7 +67715,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres. Temu publica el plazo más largo.",
+    "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres.",
     "metaDescription": "SHEIN o Temu: envío, plazo de entrega y devoluciones que cada tienda publica en España y México, y qué revisar antes de comprar.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
@@ -67733,7 +67733,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Ninguna tienda es la mejor para todos: depende de lo que compres y de cuánto te importe poder devolverlo. Temu publica el plazo más largo, 90 días desde la compra; SHEIN cuenta desde la recepción. No medimos precios ni probamos entregas. El capítulo «Cuál elegir, según lo que vayas a comprar» más abajo muestra qué revisar en cada caso."
+          "Ninguna tienda es la mejor para todos: para la ropa, lo que cuenta es el plazo de devolución que necesitas. Temu cuenta 90 días desde la compra y SHEIN hasta 30 días desde la recepción en la mayoría de los artículos. Revisa la condición de tu prenda y la fecha de entrega antes de pagar."
         ]
       },
       {
@@ -67841,7 +67841,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cuál elegir, según lo que vayas a comprar",
         "emphasis": "Para la ropa que no puedes probarte, compara desde cuándo cuenta cada plazo: Temu cuenta sus 90 días desde la compra, SHEIN desde la recepción, y en cada tienda algunos artículos tienen condiciones propias. Revisa las de tu artículo antes de elegir.",
         "bullets": [
-          "**Quieres poder devolver con margen:** Temu, con 90 días desde la compra, o SHEIN, con la mayoría de los artículos hasta 30 días después de recibirlos.",
+          "**Quieres tiempo para decidir después de recibir:** las tablas recogen 90 días desde la compra para Temu y hasta 30 días desde la recepción para la mayoría de los artículos de SHEIN en España. Confirma la fecha límite, si la prenda admite devolución y el costo.",
           "**Lo necesitas para una fecha concreta:** revisa el plazo de entrega en la página del producto o en tu pedido.",
           "**El pedido viene del extranjero:** mira en el checkout el total con impuestos.",
           "**Vas a pagar con tarjeta, con billetera digital o a plazos:** revisa las formas de pago en el checkout de cada tienda."
@@ -67876,7 +67876,7 @@ export const reviewsData: unknown[] = [
           "¿Cuál es más barato, SHEIN o Temu? Este artículo no mide precios. Compara el precio final de cada artículo, con envío e impuestos, a la hora de pagar en cada tienda.",
           "¿Cuál llega más rápido, SHEIN o Temu? Este artículo no prueba entregas. En España, SHEIN publica de 8 a 11 días laborables para el envío estándar y Temu muestra el plazo en la página del producto. En México, Temu publica de 4 a 28 días hábiles para el envío estándar. Revisa la fecha en la página del producto y en tu pedido.",
           "¿SHEIN o Temu: cuál es la diferencia? Temu publica el plazo más largo, 90 días contados desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos, así que cada una cuenta desde un punto distinto; el envío y los plazos de entrega están en las tablas de arriba.",
-          "¿SHEIN o Temu para ropa? Para la ropa, pesan la devolución y las condiciones de tu artículo: Temu da 90 días desde la compra y SHEIN hasta 30 días después de recibirlos, las dos en la mayoría de los artículos; la lencería, la ropa interior y la bisutería de SHEIN, solo dentro de los 14 días en España.",
+          "¿SHEIN o Temu para ropa? Confirma si la prenda admite devolución, hasta cuándo y a qué costo. Temu da 90 días desde la compra y SHEIN hasta 30 días después de recibirlos, en la mayoría de los artículos; la lencería, la ropa interior y la bisutería de SHEIN, solo dentro de los 14 días en España.",
           "¿SHEIN y Temu pagan aduana? En España, la UE aplica 3 € por categoría de producto a los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe así, por lo que la aduana no decide entre SHEIN y Temu.",
           "¿SHEIN y Temu son la misma empresa? No. Son tiendas distintas, cada una con sus propias reglas de envío, entrega y devolución.",
           "¿El código 4CW5Y es un cupón? No. Es el código de referido de Cecília en SHEIN, que se busca en la barra de búsqueda de la tienda."
@@ -67884,7 +67884,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Compara el precio final, con envío e impuestos, a la hora de pagar",
+      "text": "Si eliges SHEIN, busca 4CW5Y en la app. Antes de pagar, revisa el total con envío e impuestos.",
       "label": "Ir a SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -67929,7 +67929,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat. Temu publie le délai le plus long.",
+    "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat.",
     "metaDescription": "SHEIN ou Temu : livraison, délai et retours publiés en France, douane de 3 € de l'UE et points à vérifier avant d'acheter.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -67947,7 +67947,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend de ce que vous achetez et de l'importance du retour. Temu publie le délai le plus long, 90 jours après l'achat, alors que SHEIN compte à partir de la réception. Nous ne mesurons pas les prix et ne testons pas les livraisons. Le chapitre « Que choisir, selon votre achat » montre quoi vérifier dans chaque cas."
+          "Aucune boutique n'est la meilleure pour tout le monde : pour des vêtements, c'est le délai de retour dont vous avez besoin qui compte. Temu compte 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception pour la plupart des articles. Vérifiez les conditions de votre article et la date de livraison avant de payer."
         ]
       },
       {
@@ -68024,7 +68024,7 @@ export const reviewsData: unknown[] = [
         "heading": "Que choisir, selon votre achat",
         "emphasis": "Pour des vêtements que vous ne pouvez pas essayer, comparez le point de départ de chaque délai : Temu compte ses 90 jours depuis l'achat, SHEIN depuis la réception, et dans chaque boutique certains articles ont leurs propres conditions. Vérifiez celles de votre article avant de choisir.",
         "bullets": [
-          "**Vous voulez avoir de la marge pour retourner :** Temu, avec 90 jours après l'achat, ou SHEIN, avec la plupart des articles jusqu'à 30 jours après réception.",
+          "**Vous voulez du temps pour décider après réception :** le tableau indique 90 jours après l'achat chez Temu et jusqu'à 30 jours après réception pour la plupart des articles chez SHEIN. Vérifiez la date limite, l'éligibilité de l'article et les frais de retour.",
           "**Il vous faut l'article pour une date précise :** vérifiez le délai de livraison sur la page du produit ou dans votre commande.",
           "**La commande vient de l'étranger :** regardez sur la page de paiement le total avec les taxes.",
           "**Vous payez par carte, avec un portefeuille numérique ou en plusieurs fois :** consultez les moyens de paiement sur la page de paiement de chaque boutique."
@@ -68059,7 +68059,7 @@ export const reviewsData: unknown[] = [
           "Lequel est le moins cher, SHEIN ou Temu ? Cet article ne mesure pas les prix. Comparez le prix final de chaque article, avec la livraison et les taxes, au moment de payer dans chaque boutique.",
           "Lequel livre le plus vite, SHEIN ou Temu ? Cet article ne teste pas les livraisons. SHEIN publie 4 à 8 jours ouvrés pour la livraison Standard ; Temu indique le délai sur la page du produit (préparation en 1 à 3 jours). Vérifiez la date sur la page du produit et dans votre commande.",
           "SHEIN ou Temu : quelle différence ? Temu publie le délai le plus long, 90 jours après l'achat, tandis que SHEIN reprend la plupart des articles jusqu'à 30 jours après réception, donc les deux ne comptent pas à partir du même moment ; la livraison et les délais figurent dans le tableau ci-dessus.",
-          "SHEIN ou Temu pour des vêtements ? Pour des vêtements, pesez le retour et les conditions de votre article : Temu laisse 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception, pour la plupart des articles dans les deux cas ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
+          "SHEIN ou Temu pour des vêtements ? Vérifiez si l'article peut être retourné, jusqu'à quand et à quels frais. Temu laisse 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception, pour la plupart des articles ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
           "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
           "SHEIN et Temu sont-ils la même entreprise ? Non. Ce sont deux boutiques différentes, chacune avec ses propres règles d'expédition, de livraison et de retour.",
           "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília chez SHEIN, que l'on recherche dans la barre de recherche de la boutique."
@@ -68067,7 +68067,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Comparez le prix final, avec la livraison et les taxes, au moment de payer",
+      "text": "Si vous choisissez SHEIN, recherchez 4CW5Y dans l’application. Avant de payer, vérifiez le total avec la livraison et les taxes.",
       "label": "Aller sur SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68112,7 +68112,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben und wie Sie je nach Einkauf wählen. Temu nennt die längste Rückgabefrist ab Kauf.",
+    "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben und wie Sie je nach Einkauf wählen.",
     "metaDescription": "SHEIN oder Temu? Versand, Lieferzeit und Rückgabe für Deutschland, EU-Zoll von 3 € und was Sie vor dem Kauf prüfen sollten.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
@@ -68130,7 +68130,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Kein Shop ist für alle der beste: Die Wahl hängt davon ab, was Sie kaufen und wie wichtig die Rückgabe ist. Temu veröffentlicht die längste Frist, 90 Tage ab Kauf, während SHEIN ab Erhalt zählt. Preise messen und Lieferungen testen wir nicht. Das Kapitel „Was zu welchem Einkauf passt“ weiter unten zeigt, was Sie im jeweiligen Fall prüfen sollten."
+          "Kein Shop ist für alle der beste: Bei Kleidung kommt es auf die Rückgabefrist an, die Sie brauchen. Temu gibt 90 Tage ab Kauf, SHEIN bei den meisten Artikeln bis zu 30 Tage nach Erhalt. Prüfen Sie vor dem Bezahlen die Bedingungen Ihres Artikels und den Liefertermin."
         ]
       },
       {
@@ -68207,7 +68207,7 @@ export const reviewsData: unknown[] = [
         "heading": "Was zu welchem Einkauf passt",
         "emphasis": "Bei Kleidung, die Sie nicht anprobieren können, vergleichen Sie, wo die Frist beginnt: Temu zählt seine 90 Tage ab Kauf, SHEIN ab Erhalt, und in beiden Shops haben manche Artikel eigene Bedingungen. Prüfen Sie die Bedingungen Ihres Artikels, bevor Sie sich entscheiden.",
         "bullets": [
-          "**Sie möchten viel Zeit zum Zurückschicken haben:** Temu mit 90 Tagen ab Kauf oder SHEIN mit den meisten Artikeln bis zu 30 Tage nach Erhalt.",
+          "**Sie möchten nach Erhalt Zeit zum Entscheiden:** Die Tabelle nennt für Temu 90 Tage ab Kauf und für die meisten SHEIN-Artikel bis zu 30 Tage nach Erhalt. Prüfen Sie das konkrete Rückgabedatum, ob der Artikel zurückgegeben werden kann und welche Kosten entstehen.",
           "**Die Ware muss bis zu einem bestimmten Datum da sein:** Prüfen Sie die Lieferzeit auf der Produktseite oder in der Bestellung.",
           "**Die Ware kommt aus dem Ausland:** Prüfen Sie an der Kasse den Gesamtbetrag mit Steuern.",
           "**Sie zahlen mit Karte, per Wallet oder in Raten:** Die Zahlungsarten sehen Sie an der Kasse des jeweiligen Shops."
@@ -68242,7 +68242,7 @@ export const reviewsData: unknown[] = [
           "Was ist günstiger, SHEIN oder Temu? Preise vergleichen wir in diesem Artikel nicht. Vergleichen Sie an der Kasse den Endpreis jedes Artikels mit Versand und Steuern.",
           "Wer liefert schneller, SHEIN oder Temu? Lieferungen testen wir nicht. SHEIN zeigt bei Standard das Ankunftsdatum an; Temu zeigt die Zeit auf der Produktseite (Bearbeitung in 1 bis 3 Tagen). Prüfen Sie das Datum auf der Produktseite und in Ihrer Bestellung.",
           "SHEIN oder Temu: Was ist der Unterschied? Temu nennt die längere Frist, 90 Tage ab Kauf, während SHEIN die meisten Artikel bis zu 30 Tage nach Erhalt zurücknimmt, die beiden Fristen beginnen also zu unterschiedlichen Zeitpunkten; Versand und Lieferzeiten stehen in der Tabelle oben.",
-          "SHEIN oder Temu für Kleidung? Bei Kleidung zählen die Rückgabe und die Bedingungen Ihres Artikels: Temu gibt 90 Tage ab Kauf und SHEIN bis zu 30 Tage nach Erhalt, beide bei den meisten Artikeln; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
+          "SHEIN oder Temu für Kleidung? Prüfen Sie, ob der Artikel zurückgegeben werden kann, bis wann und zu welchen Kosten. Temu gibt 90 Tage ab Kauf und SHEIN bis zu 30 Tage nach Erhalt, bei den meisten Artikeln; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
           "Zahlen SHEIN und Temu Zoll? Die EU erhebt 3 € pro Warenkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der so liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
           "Sind SHEIN und Temu dasselbe Unternehmen? Nein. Es sind verschiedene Shops, jeder mit eigenen Regeln für Versand, Lieferzeit und Rückgabe.",
           "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN, den Sie in der Suche des Shops suchen."
@@ -68250,7 +68250,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Vergleichen Sie an der Kasse den Endpreis mit Versand und Steuern",
+      "text": "Wenn Sie SHEIN wählen, suchen Sie in der App nach 4CW5Y. Prüfen Sie vor dem Bezahlen den Gesamtbetrag mit Versand und Steuern.",
       "label": "Zu SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68295,7 +68295,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia e come scegliere in base a ciò che compri. Temu ha il termine più lungo dall'acquisto.",
+    "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia e come scegliere in base a ciò che compri.",
     "metaDescription": "SHEIN o Temu? Spedizione, tempi di consegna e resi per l'Italia, dazio UE di 3 euro e cosa controllare prima di comprare.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -68313,7 +68313,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Non esiste un negozio migliore per tutti: la scelta dipende da cosa compri e da quanto conta poter restituire. Temu pubblica il termine più lungo, 90 giorni dall'acquisto, mentre SHEIN conta dal ricevimento. Non misuriamo i prezzi e non testiamo le consegne. Il capitolo «Quale scegliere, a seconda dell'acquisto» qui sotto mostra cosa controllare in ogni caso."
+          "Non esiste un negozio migliore per tutti: per i vestiti conta il termine di reso che ti serve. Temu pubblica 90 giorni dall'acquisto, SHEIN fino a 30 giorni dal ricevimento per la maggior parte degli articoli. Controlla le condizioni del tuo articolo e la data di consegna prima di pagare."
         ]
       },
       {
@@ -68390,7 +68390,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quale scegliere, a seconda dell'acquisto",
         "emphasis": "Per i vestiti che non puoi provare, confronta da quando parte il conteggio: Temu conta i suoi 90 giorni dall'acquisto, SHEIN dal ricevimento, e in ogni negozio alcuni articoli hanno condizioni proprie. Controlla quelle del tuo articolo prima di scegliere.",
         "bullets": [
-          "**Vuoi poter restituire con calma:** Temu, con 90 giorni dall'acquisto, o SHEIN, con la maggior parte degli articoli fino a 30 giorni dal ricevimento.",
+          "**Vuoi tempo per decidere dopo la consegna:** la tabella indica 90 giorni dall'acquisto per Temu e fino a 30 giorni dal ricevimento per la maggior parte degli articoli SHEIN. Verifica la scadenza, se il capo è restituibile e il costo del reso.",
           "**Ti serve l'ordine entro una certa data:** controlla il tempo di consegna nella pagina del prodotto o dell'ordine.",
           "**L'acquisto arriva dall'estero:** guarda al checkout il totale con le imposte.",
           "**Paghi con carta, portafoglio digitale o a rate:** guarda i metodi di pagamento al checkout di ciascun negozio."
@@ -68425,7 +68425,7 @@ export const reviewsData: unknown[] = [
           "Quale costa meno, SHEIN o Temu? In questo articolo non misuriamo i prezzi. Confronta al checkout il prezzo finale di ogni articolo, con spedizione e imposte.",
           "Quale consegna più in fretta, SHEIN o Temu? Le consegne non le testiamo. SHEIN pubblica 6-12 giorni lavorativi per la spedizione Standard; Temu mostra il tempo nella pagina del prodotto (preparazione in 1-3 giorni). Controlla la data nella pagina del prodotto e nell'ordine.",
           "SHEIN o Temu: qual è la differenza? Temu pubblica il termine più lungo, 90 giorni contati dall'acquisto, mentre SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento, quindi i due conteggi partono da punti diversi; spedizione e tempi di consegna sono nella tabella qui sopra.",
-          "SHEIN o Temu per i vestiti? Per i vestiti, pesano il reso e le condizioni del tuo articolo: Temu dà 90 giorni dall'acquisto e SHEIN fino a 30 giorni dal ricevimento, per la maggior parte degli articoli in entrambi i casi; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
+          "SHEIN o Temu per i vestiti? Verifica se il capo è restituibile, entro quando e a quale costo. Temu dà 90 giorni dall'acquisto e SHEIN fino a 30 giorni dal ricevimento, per la maggior parte degli articoli; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
           "SHEIN e Temu pagano la dogana? L'UE applica 3 euro per categoria di prodotto sugli ordini inferiori a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
           "SHEIN e Temu sono la stessa azienda? No. Sono negozi diversi, ciascuno con le proprie regole su spedizione, consegna e reso.",
           "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN, che si cerca nella barra di ricerca del negozio."
@@ -68433,7 +68433,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Confronta al checkout il prezzo finale, con spedizione e imposte",
+      "text": "Se scegli SHEIN, cerca 4CW5Y nell’app. Prima di pagare, controlla il totale con spedizione e imposte.",
       "label": "Vai su SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68496,7 +68496,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지에 따라 달라지며, 반품 기한이 가장 길게 공개된 곳은 테무로 구매 후 90일 이내이고, SHEIN은 수령 후부터 셉니다. 가격은 비교하지 않았고 배송도 테스트하지 않았습니다. 무엇을 확인할지는 '구매 목적에 따라 고르기'에 정리했습니다."
+          "모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지에 따라 달라집니다. 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내의 반품 기한을 공개했습니다. 구매 전에 배송비와 세금을 포함한 최종 금액과 내 상품의 반품 조건을 확인하세요."
         ]
       },
       {
@@ -68569,7 +68569,7 @@ export const reviewsData: unknown[] = [
         "heading": "구매 목적에 따라 고르기",
         "emphasis": "입어 볼 수 없는 옷이라면 기한이 어디서부터 시작하는지 비교하세요. 테무는 구매 후 90일, SHEIN은 수령 후 60일부터 세고, 두 쇼핑몰 모두 상품에 따라 조건이 다릅니다. 고르기 전에 내 상품의 조건을 확인하세요.",
         "bullets": [
-          "**여유 있게 반품하고 싶다면:** 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내입니다.",
+          "**여유 있게 반품하고 싶다면:** 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내입니다. 상품마다 반품 대상이 다르니 실제 마감일과 반송 비용을 확인하세요.",
           "**정해진 날짜까지 받아야 한다면:** 상품 페이지나 주문 내역에서 배송 기간을 확인하세요.",
           "**해외에서 오는 상품이라면:** 결제 화면에서 세금이 포함된 총 금액을 확인하세요.",
           "**카드, 간편결제, 할부로 결제할 예정이라면:** 각 쇼핑몰의 결제 화면에서 결제 수단을 확인하세요."
@@ -68603,7 +68603,7 @@ export const reviewsData: unknown[] = [
           "SHEIN과 테무 중 어디가 더 나은가요? 모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지, 언제까지 받아야 하는지에 따라 고르세요.",
           "SHEIN과 테무 중 어디가 더 저렴한가요? 이 글은 가격을 비교하지 않습니다. 결제 화면에서 배송비와 세금을 포함한 최종 금액을 쇼핑몰별로 비교하세요.",
           "SHEIN과 테무 중 어디가 더 빨리 도착하나요? 이 글은 배송을 테스트하지 않았습니다. SHEIN은 이코노믹 배송 3~5영업일(처리 1~3일), 테무는 일반 배송 6~11일을 안내합니다.",
-          "SHEIN과 테무는 무엇이 다른가요? 가장 큰 차이는 반품 기한과 기산점입니다. 테무는 구매 후 90일, SHEIN은 수령 후 60일부터 세며, 배송비와 배송 기간은 위 표에 있습니다.",
+          "SHEIN과 테무는 무엇이 다른가요? 가장 큰 차이는 반품 기한과 기산점입니다. 테무는 구매 후 90일, SHEIN은 수령 후 60일부터 세며, 일수만으로 고를 수는 없습니다. 배송비와 배송 기간은 위 표에 있습니다.",
           "SHEIN과 테무는 같은 회사인가요? 아니요. 서로 다른 쇼핑몰이며, 배송비·배송 기간·반품 규정이 각각 따로 있습니다.",
           "SHEIN과 테무는 얼마 동안 반품할 수 있나요? SHEIN은 수령 후 60일 이내, 테무는 구매 후 90일 이내입니다. 테무는 같은 주문의 첫 반품은 무료이고, 두 번째 반품부터 배송비 2,500원을 공제합니다.",
           "해외에서 오는 상품에도 세금이 붙나요? 수입 세금은 나라마다 다릅니다. 총 금액은 결제 전에 각 쇼핑몰의 결제 화면에서 확인하세요.",
@@ -68612,7 +68612,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "결제 화면에서 배송비와 세금을 포함한 최종 금액을 비교하세요",
+      "text": "SHEIN을 고른다면 앱에서 4CW5Y를 검색하세요. 결제 전 배송비와 세금을 포함한 총액을 확인하세요.",
       "label": "SHEIN으로 이동",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68675,7 +68675,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "すべての人に合うお店はありません。何を買うか、返品できることをどれだけ大事にするかで選ぶお店は変わり、返品期限がいちばん長く公表されているのは Temu で、購入日から90日以内です（対象商品の場合）。価格は比べておらず、配送も試していません。何を確認するかは「買うものに合わせた選び方」にまとめました。"
+          "すべての人に合うお店はありません。何を買うか、返品をどれだけ大事にするかで選ぶお店は変わります。Temu は購入日から90日以内（対象商品の場合）、SHEIN は購入から40日以内の返品期限を公表しています。買う前に、送料と税金を含めた最終価格と、その商品の返品条件を確認しましょう。"
         ]
       },
       {
@@ -68756,7 +68756,7 @@ export const reviewsData: unknown[] = [
         "heading": "買うものに合わせた選び方",
         "emphasis": "試着できない服を買うときは、期限の長さだけでなく、対象になる商品かどうかを見ましょう。Temu は購入日から90日以内、SHEIN は購入から40日以内ですが、どちらも商品によって条件が異なります。",
         "bullets": [
-          "**返品に余裕がほしい：** Temu は購入日から90日以内、SHEIN は購入から40日以内です。",
+          "**返品に余裕がほしい：** Temu は購入日から90日以内、SHEIN は購入から40日以内です。ただし対象かどうかは商品によるので、返品できる商品か、実際の期限と返送料を確認しましょう。",
           "**いつまでに届いてほしい：** 商品ページや注文ページで、お届けの目安を確認しましょう。",
           "**海外から届く商品を買う：** 支払い画面（チェックアウト）で、税金を含めた合計金額を確認しましょう。",
           "**クレジットカードや電子決済、分割払いで払う：** お店ごとの支払い画面で、使える支払い方法を確認しましょう。"
@@ -68790,7 +68790,7 @@ export const reviewsData: unknown[] = [
           "SHEIN と Temu はどちらがいいですか？ すべての人に合うお店はありません。何を買うか、返品できることをどれだけ大事にするか、いつまでに受け取りたいかで選びましょう。",
           "SHEIN と Temu はどちらが安いですか？ この記事は価格を比べていません。支払うときに、お店ごとの支払い画面で、送料と税金を含めた合計金額を比べてください。",
           "SHEIN と Temu はどちらが早く届きますか？ この記事では配送を試していません。SHEIN はお急ぎ便のお届け予定を注文ページに表示し、Temu は通常配送で5〜14日（処理は1〜3日）と公表しています。送料とお届け日数は上の表にまとめました。",
-          "SHEIN と Temu の違いは何ですか？ いちばん違うのは返品期限です。Temu は購入日から90日以内、SHEIN は購入から40日以内で、送料とお届け日数は上の表のとおりです。",
+          "SHEIN と Temu の違いは何ですか？ いちばん違うのは返品期限です。Temu は購入日から90日以内、SHEIN は購入から40日以内です。日数だけでは選べないので、その商品の返品条件と期限を比べましょう。送料とお届け日数は上の表のとおりです。",
           "SHEIN と Temu は同じ会社ですか？ いいえ。別々のお店で、送料、お届け日数、返品のルールもそれぞれ違います。",
           "SHEIN と Temu の返品期限はいつまでですか？ SHEIN は購入から40日以内（対象外の商品あり）、Temu は購入日から90日以内（対象商品の場合）です。Temu は同じ注文の1回目の返品が無料で、2回目以降は送料550円が返金額から差し引かれます。",
           "海外から届く荷物には、関税がかかりますか？ 税関によると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、革製のカバンやハンドバッグ、編物（ニット）製の衣類（Tシャツ、セーターなど）、革靴など、免税にならない物品もあります。どのお店で買っても同じです。",
@@ -68799,7 +68799,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "支払うときに、送料と税金を含めた最終価格を比べましょう",
+      "text": "SHEINを選ぶなら、アプリで4CW5Yを検索してください。支払う前に、送料と税金を含む合計金額を確認しましょう。",
       "label": "SHEIN へ進む",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68862,7 +68862,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "沒有一家平台適合所有人：怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。公布的退貨期限最長的是 Temu：新加坡站大多數商品為購買後 90 天內。我們不比較價格，也沒有測試配送。買前要確認什麼，見下文「依購物需求怎麼選」。"
+          "沒有一家平台適合所有人：怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。Temu 在新加坡站大多數商品為購買後 90 天內；SHEIN 在新加坡站大多數全新商品為收到後 15 天內，在馬來西亞站為收到後 20 天內。付款前，先確認商品的退貨條件與送達日。"
         ]
       },
       {
@@ -68967,7 +68967,7 @@ export const reviewsData: unknown[] = [
         "heading": "依購物需求怎麼選",
         "emphasis": "買衣服沒辦法試穿時，先比較兩家的退貨期限從哪天開始算：Temu 的 90 天從購買日算起，SHEIN 從收到商品算起，兩家都有條件不同的品類。下單前先確認你要買的那件商品適用什麼條件。",
         "bullets": [
-          "**想要有充裕的退貨時間：** Temu 是購買後 90 天內；SHEIN 新加坡站是收到後 15 天內，馬來西亞站是 20 天內。",
+          "**想在收到商品後再決定：** SHEIN 新加坡站是收到後 15 天內，馬來西亞站是 20 天內；Temu 是購買後 90 天內。請確認商品能否退貨、實際截止日和費用。",
           "**需要在某個日期前收到：** 到商品頁面或訂單頁面確認送達時間。",
           "**買從海外寄來的商品：** 在結帳頁面確認含稅的總金額。",
           "**用信用卡、電子錢包或分期付款：** 到各平台的結帳頁面查看可用的付款方式。"
@@ -69001,7 +69001,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 和 Temu 哪個比較好？ 沒有一家平台適合所有人。依你要買什麼、退貨對你有多重要，以及需要在哪天前收到來選。",
           "SHEIN 和 Temu 哪個比較便宜？ 這篇文章不比較價格。付款前，到各平台的結帳頁面，比較含運費與稅金的總金額。",
           "SHEIN 和 Temu 哪個比較快到貨？ 這篇文章沒有測試配送。在新加坡，SHEIN 公布標準配送 3–5 個工作日，Temu 公布 3–6 個工作日（處理 1–3 天）；在馬來西亞，SHEIN 是 3–5 個工作日，Temu 是 4–15 個工作日（處理 1–3 天）。",
-          "SHEIN 和 Temu 有什麼差別？ 差別最大的是退貨期限：Temu 是購買後 90 天內，SHEIN 新加坡站是收到後 15 天內，馬來西亞站是 20 天內。運費和時效見上面的表格。",
+          "SHEIN 和 Temu 有什麼差別？ 差別最大的是退貨期限與起算點：Temu 是購買後 90 天內，SHEIN 新加坡站是收到後 15 天內，馬來西亞站是 20 天內。只看天數不夠，請比較商品適用的截止日與條件；運費和時效見上面的表格。",
           "SHEIN 和 Temu 是同一家公司嗎？ 不是。它們是不同的平台，運費、時效和退貨規則各不相同。",
           "SHEIN 和 Temu 的退貨期限是多久？ SHEIN 新加坡站大多數全新商品在收到後 15 天內，馬來西亞站在收到後 20 天內；Temu 公布的是購買後 90 天內（新加坡站適用於大多數商品，服飾等部分品類另有條件，馬來西亞站以該站頁面為準），每筆訂單第一次退貨免費。",
           "4CW5Y 是優惠券嗎？ 不是。它是 SHEIN 的推薦碼，要在 SHEIN 的搜尋欄搜尋。"
@@ -69009,7 +69009,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "付款時，請比較含運費與稅金的最終價格",
+      "text": "如果選擇SHEIN，請在App搜尋4CW5Y。付款前，確認含運費與稅金的總金額。",
       "label": "前往 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -69072,7 +69072,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。公布的退货期限最长的是 Temu：新加坡站大多数商品为购买后 90 天内。我们不比较价格，也没有测试配送。买前要确认什么，见下文「按购物需求怎么选」。"
+          "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。Temu 在新加坡站大多数商品为购买后 90 天内；SHEIN 在新加坡站大多数全新商品为收到后 15 天内，在马来西亚站为收到后 20 天内。付款前，先确认商品的退货条件与送达日。"
         ]
       },
       {
@@ -69177,7 +69177,7 @@ export const reviewsData: unknown[] = [
         "heading": "按购物需求怎么选",
         "emphasis": "买衣服没法试穿时，先比较两家的退货期限从哪天开始算：Temu 的 90 天从购买日算起，SHEIN 从收到商品算起，两家都有条件不同的品类。下单前先确认你要买的那件商品适用什么条件。",
         "bullets": [
-          "**想要有充裕的退货时间：** Temu 是购买后 90 天内；SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。",
+          "**想在收到商品后再决定：** SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内；Temu 是购买后 90 天内。请确认商品能否退货、实际截止日和费用。",
           "**需要在某个日期前收到：** 到商品页面或订单页面确认送达时间。",
           "**买从海外寄来的商品：** 在结账页面确认含税的总金额。",
           "**用信用卡、电子钱包或分期付款：** 到各平台的结账页面查看可用的付款方式。"
@@ -69211,7 +69211,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 和 Temu 哪个更好？ 没有一家平台适合所有人。按你要买什么、退货对你有多重要，以及需要在哪天前收到来选。",
           "SHEIN 和 Temu 哪个更便宜？ 这篇文章不比较价格。付款前，到各平台的结账页面，比较含运费与税金的总金额。",
           "SHEIN 和 Temu 哪个到货更快？ 这篇文章没有测试配送。在新加坡，SHEIN 公布标准配送 3–5 个工作日，Temu 公布 3–6 个工作日（处理 1–3 天）；在马来西亚，SHEIN 是 3–5 个工作日，Temu 是 4–15 个工作日（处理 1–3 天）。",
-          "SHEIN 和 Temu 有什么区别？ 差别最大的是退货期限：Temu 是购买后 90 天内，SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。运费和时效见上面的表格。",
+          "SHEIN 和 Temu 有什么区别？ 差别最大的是退货期限与起算点：Temu 是购买后 90 天内，SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。只看天数不够，请比较商品适用的截止日与条件；运费和时效见上面的表格。",
           "SHEIN 和 Temu 是同一家公司吗？ 不是。它们是不同的平台，运费、时效和退货规则各不相同。",
           "SHEIN 和 Temu 的退货期限是多久？ SHEIN 新加坡站大多数全新商品在收到后 15 天内，马来西亚站在收到后 20 天内；Temu 公布的是购买后 90 天内（新加坡站适用于大多数商品，服饰等部分品类另有条件，马来西亚站以该站页面为准），每个订单第一次退货免费。",
           "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 的推荐码，要在 SHEIN 的搜索栏搜索。"
@@ -69219,7 +69219,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "付款时，请比较含运费与税金的最终价格",
+      "text": "如果选择SHEIN，请在应用中搜索4CW5Y。付款前，确认含运费与税金的总金额。",
       "label": "前往 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -169151,7 +169151,7 @@ export const reviewsData: unknown[] = [
       "Devolução em 20 dias, com a primeira de cada pedido grátis"
     ],
     "cons": [
-      "Pedido internacional acima de US$ 50 volta a pagar imposto de importação",
+      "Pedido internacional acima de US$ 50 paga imposto de importação; o ICMS vale em toda compra internacional.",
       "A entrega precisa caber na data da festa",
       "O preço de promoção muda"
     ],
@@ -169173,7 +169173,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vestido de festa na SHEIN se escolhe por três coisas: a ocasião, o tecido e a data de chegada. Para Natal e Réveillon, o prazo pesa mais que o modelo. Para formatura e convidada de casamento, a dúvida é de cor, comprimento e tom. Abaixo, três vestidos da loja com preço, envio e tecido."
+          "Comece pelo traje pedido no convite e pela data da festa. Entre os exemplos, a Firerie tem um ombro e tule; a ADYCE, lantejoulas e fenda; a Via Vilarinho exige conferir a medida porque o anúncio diverge entre curto e midi. Depois compare tamanho, forro e lavagem."
         ]
       },
       {
@@ -169231,7 +169231,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Convidada de casamento",
-              "howTo": "De dia, tecido leve com sapato fechado ou sandália baixa; à noite, longo com salto. O branco fica para a noiva.",
+              "howTo": "Use o traje indicado no convite como referência. Tecido, comprimento, sapato e cor devem acompanhar a cerimônia e o que os anfitriões pediram; as combinações abaixo são sugestões de estilo.",
               "occasion": "Cerimônia na igreja ou no salão, de dia ou à noite.",
               "pairsWith": [
                 {
@@ -169309,7 +169309,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nos dois vestidos internacionais, o limite de US$ 50 soma produto, frete e, se houver, seguro. O de lantejoulas é o mais caro dos três, e o resumo do pedido mostra o imposto antes de pagar.",
+          "Nos dois vestidos internacionais, o limite de US$ 50 soma produto, frete e, se houver, seguro. O preço em reais da tabela, sozinho, não comprova se o vestido ultrapassa esse valor, e o resumo do pedido mostra o imposto antes de pagar.",
           "O curto da Via Vilarinho é de Envio Nacional, e a regra de importação não entra na conta dele."
         ],
         "images": [
@@ -169398,11 +169398,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho: use a medida da peça",
         "paragraphs": [
-          "Não existe tabela única de PP a GG: use a do vestido que você escolheu. A SHEIN publica o guia de cada peça, em centímetros e em polegadas, com o jeito de medir.",
+          "Use a tabela do vestido escolhido e veja se apresenta medidas do corpo ou da peça. Siga o modo de medir dessa tabela; não trate os dois tipos como iguais nem escolha só pela letra da etiqueta.",
           "Os três vão de PP a GG. A Firerie se descreve como slim fit, o que pede medida mais precisa no busto e na cintura."
         ],
         "postParagraphs": [
-          "Para plus size, o método é o mesmo: compare a medida da peça com a sua, não o número da etiqueta."
+          "Para plus size, confira primeiro se a tabela traz medidas do corpo ou da peça. Compare corpo com tabela corporal; para medidas da peça, use uma roupa que veste bem e considere tecido, modelagem e a folga desejada. A etiqueta sozinha não resolve."
         ],
         "images": [
           {
@@ -169424,9 +169424,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Prazo: compare com a data da festa",
+        "heading": "Prazo: compare a previsão final com a data da festa",
         "paragraphs": [
-          "O pedido internacional é processado em 3 a 5 dias antes do envio. Compare a previsão de entrega que a página do pedido mostra com a data da festa e deixe folga. Se a previsão chegar perto da festa ou passar dela, esse vestido não é a compra certa para aquela data.",
+          "Compare a previsão final de chegada do pedido com a data da festa e reserve margem para provar a peça. Não some os dias de processamento à previsão final, salvo se a loja disser que ela não inclui o processamento. Se não estiver claro, confirme antes de comprar.",
           "Cada vendedor de Envio Nacional tem prazo próprio. A página do produto mostra o seu."
         ],
         "images": [
@@ -169459,7 +169459,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O nome do pedido precisa ser igual ao do CPF.",
           "A previsão de entrega aparece na página do pedido. Confira antes de pagar.",
-          "Se o total passar de US$ 50 no pedido internacional, o imposto aparece no resumo.",
+          "Em pedido internacional, confira os tributos e o total no resumo antes de pagar.",
           "Guarde a confirmação do pedido."
         ],
         "postParagraphs": [
@@ -169480,7 +169480,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Vestido de festa da SHEIN chega a tempo para o Natal? Depende da data do pedido. Compare a previsão de entrega da página com a data da festa e deixe folga.",
+          "Vestido de festa da SHEIN chega a tempo para o Natal? Depende da data do pedido e não há garantia. Compare a previsão final do pedido com a data da festa e deixe margem para provar. Uma estimativa não é promessa de chegada.",
           "Como saber se o vestido é longo ou midi? Pelo comprimento que a descrição declara e pela medida em centímetros no guia de tamanho da peça.",
           "A SHEIN cobra imposto no vestido? Imposto de importação, não, em pedido internacional de até US$ 50 com o frete, para pessoa física em site certificado. Acima disso, ele volta, e o ICMS é cobrado em toda compra internacional.",
           "Dá para usar o 4CW5Y para ganhar desconto? Não. É código de indicação: não dá desconto e não é cupom."
@@ -169489,8 +169489,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve se a previsão de entrega na página do pedido chega antes da data da festa.",
-        "Leve se a descrição traz composição, forro e comprimento em centímetros, e a medida da peça bate com a sua."
+        "Considere se a previsão final do pedido deixa margem antes da festa para receber e provar, sem tratar a estimativa como garantia.",
+        "Leve se a descrição informa composição, forro e comprimento, e a tabela do modelo permite escolher o caimento desejado, distinguindo medidas corporais das medidas da peça."
       ],
       "skipIf": [
         "Passe se a previsão de entrega na página do pedido passa da data da festa.",
@@ -169553,7 +169553,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "A party dress on SHEIN comes down to three things: the occasion, the fabric and the arrival date. For Christmas and New Year's Eve, timing matters more than the style. For graduation and wedding guests, the doubts are about color, length and tone. Below, three dresses from the store with fabric, lining and rating."
+          "Start with the invitation’s dress code and the event date. Among these examples, Firerie has a one-shoulder tulle design; ADYCE has sequins and a slit; Via Vilarinho needs a length check because its title says short and its description says midi. Then compare size, lining and care."
         ]
       },
       {
@@ -169611,7 +169611,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Wedding guest",
-              "howTo": "By day, light fabric with closed shoes or low sandals; at night, long with heels. White is for the bride.",
+              "howTo": "Use the invitation’s dress code as your starting point. Choose fabric, length, shoes and color for the ceremony and the hosts’ request; the combinations below are styling suggestions.",
               "occasion": "Ceremony at a church or banquet hall, by day or at night.",
               "pairsWith": [
                 {
@@ -169767,11 +169767,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Size: use the garment's measurements",
         "paragraphs": [
-          "There is no single size chart: use the one for the dress you chose. SHEIN publishes a guide for each piece, in centimeters and inches, with how to measure.",
+          "Use the chosen dress’s chart and check whether it gives body or garment measurements. Follow that chart’s measuring instructions; do not treat those two types as identical or choose by the label alone.",
           "The Firerie describes itself as slim fit, which calls for more precise bust and waist measurements."
         ],
         "postParagraphs": [
-          "For plus sizes, the method is the same: compare the garment's measurements with yours, not the number on the label."
+          "For plus sizes, first check whether the chart gives body or garment measurements. Use a body chart for your body measurements; compare garment measurements with an item that fits well, allowing for fabric, cut and the ease you want. The label alone is not enough."
         ],
         "images": [
           {
@@ -169793,9 +169793,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Timing: compare with the party date",
+        "heading": "Timing: compare the final arrival estimate with the party date",
         "paragraphs": [
-          "The order goes through processing before shipping. Compare the delivery estimate the order page shows with the party date, and leave some margin. If the estimate lands close to the party or past it, that dress is not the right buy for that date."
+          "Compare the final arrival estimate for your order with the party date and leave time to try the dress on. Do not add processing time to a final date automatically. Add it only if the store separates processing from transit and says processing is excluded from the estimate. If that is unclear, confirm before buying."
         ],
         "images": [
           {
@@ -169844,7 +169844,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Will a SHEIN party dress arrive in time for Christmas? It depends on the order date. Compare the delivery estimate on the page with the party date, and leave some margin.",
+          "Will a SHEIN party dress arrive in time for Christmas? There is no guarantee. Compare the final delivery estimate on the order page with the party date, and leave some margin to try it on. An estimate is not a delivery promise.",
           "How can I tell if the dress is long or midi? By the length the description states and by the measurement in centimeters in the piece's size guide.",
           "Can I use 4CW5Y to get a discount? No. It is a referral code: it gives no discount and is not a coupon."
         ]
@@ -169852,8 +169852,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take it if the delivery estimate on the order page arrives before the party date.",
-        "Take it if the description lists composition, lining and length in centimeters, and the garment's measurements match yours."
+        "Consider it if the final arrival estimate leaves time before the party to receive and try it on, without treating the estimate as a guarantee.",
+        "Take it if the description gives composition, lining and length, and the model-specific chart lets you choose the fit you want while distinguishing body from garment measurements."
       ],
       "skipIf": [
         "Skip it if the delivery estimate on the order page runs past the party date.",
@@ -169916,7 +169916,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Un vestido de fiesta en SHEIN se elige por tres cosas: la ocasión, la tela y la fecha de llegada. Para Navidad y Nochevieja, el plazo pesa más que el modelo. Para graduación e invitada de boda, la duda es de color, largo y tono. Abajo, tres vestidos de la tienda con tela, forro y valoración."
+          "Empiece por el atuendo indicado en la invitación y la fecha. Entre estos ejemplos, Firerie tiene un modelo de un hombro en tul; ADYCE, con lentejuelas y abertura; Via Vilarinho exige comprobar el largo porque el título dice corto y la descripción dice midi. Después compare talla, forro y lavado."
         ]
       },
       {
@@ -169974,7 +169974,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Invitada de boda",
-              "howTo": "De día, tela ligera con zapato cerrado o sandalia baja; de noche, largo con tacón. El blanco queda para la novia.",
+              "howTo": "Tome como referencia el atuendo de la invitación. Tela, largo, calzado y color deben acompañar la ceremonia y lo que pidan los anfitriones; las combinaciones son sugerencias de estilo.",
               "occasion": "Ceremonia en iglesia o en salón, de día o de noche.",
               "pairsWith": [
                 {
@@ -170130,11 +170130,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Talla: use la medida de la prenda",
         "paragraphs": [
-          "No existe una tabla única de tallas: use la del vestido que eligió. SHEIN publica la guía de cada prenda, en centímetros y en pulgadas, con la forma de medir.",
+          "Use la tabla del vestido elegido y compruebe si indica medidas del cuerpo o de la prenda. Siga su método; no trate ambas medidas como iguales ni elija solo por la etiqueta.",
           "El Firerie se describe como slim fit, lo que pide una medida más precisa en el busto y la cintura."
         ],
         "postParagraphs": [
-          "Para tallas grandes, el método es el mismo: compare la medida de la prenda con la suya, no el número de la etiqueta."
+          "Para tallas grandes, compruebe primero si la tabla da medidas del cuerpo o de la prenda. Compare el cuerpo con una tabla corporal; para medidas de la prenda, use una prenda que le quede bien y considere tejido, corte y holgura deseada. La etiqueta sola no basta."
         ],
         "images": [
           {
@@ -170156,7 +170156,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Plazo: compare con la fecha de la fiesta",
+        "heading": "Plazo: compare la previsión final con la fecha de la fiesta",
         "paragraphs": [
           "El pedido pasa por el procesamiento antes del envío. Compare la entrega prevista que muestra la página del pedido con la fecha de la fiesta y deje margen. Si la previsión queda cerca de la fiesta o la pasa, ese vestido no es la compra adecuada para esa fecha."
         ],
@@ -170207,7 +170207,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Compare la entrega prevista de la página con la fecha de la fiesta y deje margen.",
+          "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido y no hay garantía. Compare la previsión final de la página con la fecha de la fiesta y deje margen para probárselo. Una estimación no es una promesa de llegada.",
           "¿Cómo saber si el vestido es largo o midi? Por el largo que declara la descripción y por la medida en centímetros de la guía de tallas de la prenda.",
           "¿Se puede usar el 4CW5Y para conseguir descuento? No. Es un código de invitación: no da descuento y no es un cupón."
         ]
@@ -170215,8 +170215,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Llévelo si la entrega prevista en la página del pedido llega antes de la fecha de la fiesta.",
-        "Llévelo si la descripción trae composición, forro y largo en centímetros, y la medida de la prenda coincide con la suya."
+        "Considérelo si la previsión final deja margen antes de la fiesta para recibirlo y probárselo, sin tratar la estimación como garantía.",
+        "Llévelo si la descripción indica composición, forro y largo, y la tabla del modelo permite elegir el ajuste deseado, distinguiendo medidas corporales y de la prenda."
       ],
       "skipIf": [
         "Pase si la entrega prevista en la página del pedido pasa de la fecha de la fiesta.",
@@ -170279,7 +170279,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Une robe de soirée sur SHEIN se choisit selon trois critères : l'occasion, le tissu et la date d'arrivée. Pour Noël et le réveillon, le délai compte plus que le modèle. Pour une remise de diplôme ou un mariage en tant qu'invitée, le doute porte sur la couleur, la longueur et le ton. Ci-dessous, trois robes de la boutique avec tissu, doublure et note."
+          "Partez de la tenue demandée sur l’invitation et de la date. Parmi ces exemples, Firerie propose un modèle à une épaule en tulle ; ADYCE, des sequins et une fente ; Via Vilarinho demande de vérifier la longueur, car le titre dit court et la description midi. Comparez ensuite taille, doublure et entretien."
         ]
       },
       {
@@ -170337,7 +170337,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Invitée de mariage",
-              "howTo": "En journée, tissu léger avec des chaussures fermées ou des sandales plates ; le soir, longue avec des talons. Le blanc est réservé à la mariée.",
+              "howTo": "Prenez pour référence la tenue indiquée sur l’invitation. Tissu, longueur, chaussures et couleur doivent convenir à la cérémonie et à la demande des hôtes ; les associations sont des suggestions de style.",
               "occasion": "Cérémonie à l'église ou en salle, de jour ou de soir.",
               "pairsWith": [
                 {
@@ -170493,11 +170493,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taille : fiez-vous aux mesures de la pièce",
         "paragraphs": [
-          "Il n'existe pas de tableau de tailles unique : utilisez celui de la robe que vous avez choisie. SHEIN publie le guide de chaque pièce, en centimètres et en pouces, avec la façon de se mesurer.",
+          "Utilisez le tableau de la robe choisie et vérifiez s’il donne les mesures du corps ou du vêtement. Suivez sa méthode ; ne considérez pas ces deux mesures comme identiques et ne choisissez pas sur la seule étiquette.",
           "La Firerie se décrit comme slim fit, ce qui demande des mesures plus précises pour la poitrine et la taille."
         ],
         "postParagraphs": [
-          "Pour les grandes tailles, la méthode est la même : comparez les mesures de la pièce aux vôtres, pas le chiffre de l'étiquette."
+          "Pour les grandes tailles, vérifiez d’abord si le tableau indique des mensurations corporelles ou les dimensions du vêtement. Comparez votre corps à un tableau corporel ; pour le vêtement, utilisez une pièce qui vous va bien et tenez compte du tissu, de la coupe et de l’aisance souhaitée. L’étiquette seule ne suffit pas."
         ],
         "images": [
           {
@@ -170519,7 +170519,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Délai : comparez avec la date de la fête",
+        "heading": "Délai : comparez l’estimation finale avec la date de la fête",
         "paragraphs": [
           "La commande passe par le traitement avant l'expédition. Comparez la livraison prévue indiquée sur la page de la commande avec la date de la fête, en gardant une marge. Si la prévision tombe près de la fête ou après, cette robe n'est pas le bon achat pour cette date."
         ],
@@ -170570,7 +170570,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Une robe de soirée SHEIN arrive-t-elle à temps pour Noël ? Cela dépend de la date de commande. Comparez la livraison prévue indiquée sur la page avec la date de la fête, en gardant une marge.",
+          "Une robe de soirée SHEIN arrive-t-elle à temps pour Noël ? Cela dépend de la date de commande et ce n’est pas garanti. Comparez l’estimation finale indiquée sur la page avec la date de la fête, en gardant une marge pour l’essayage. Une estimation n’est pas une promesse de livraison.",
           "Comment savoir si la robe est longue ou midi ? Par la longueur que déclare la description et par la mesure en centimètres du guide des tailles de la pièce.",
           "Peut-on utiliser le 4CW5Y pour obtenir une réduction ? Non. C'est un code de parrainage : il ne donne aucune réduction et n'est pas un coupon."
         ]
@@ -170578,8 +170578,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "À prendre si la livraison prévue sur la page de la commande arrive avant la date de la fête.",
-        "À prendre si la description indique la composition, la doublure et la longueur en centimètres, et que les mesures de la pièce correspondent aux vôtres."
+        "À envisager si l’estimation finale laisse du temps avant la fête pour recevoir et essayer la robe, sans la prendre pour une garantie.",
+        "À prendre si la description précise composition, doublure et longueur, et si le tableau du modèle permet de choisir l’ajustement souhaité en distinguant mensurations corporelles et dimensions du vêtement."
       ],
       "skipIf": [
         "À éviter si la livraison prévue sur la page de la commande dépasse la date de la fête.",
@@ -170642,7 +170642,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Ein Partykleid bei SHEIN wählt man nach drei Dingen: Anlass, Stoff und Ankunftsdatum. Für Weihnachten und Silvester zählt die Lieferzeit mehr als das Modell. Bei Abschlussfeier und Hochzeitsgast geht es um Farbe, Länge und Ton. Unten drei Kleider aus dem Shop mit Stoff, Futter und Bewertung."
+          "Beginnen Sie mit dem Dresscode der Einladung und dem Termin. Unter den Beispielen hat Firerie ein Ein-Schulter-Modell aus Tüll, ADYCE hat Pailletten und einen Schlitz, und bei Via Vilarinho müssen Sie die Länge prüfen, denn der Titel sagt „kurz“, die Beschreibung „midi“. Vergleichen Sie danach Größe, Futter und Pflege."
         ]
       },
       {
@@ -170700,7 +170700,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Hochzeitsgast",
-              "howTo": "Tagsüber leichter Stoff mit geschlossenen Schuhen oder flachen Sandalen; abends lang mit Absatz. Weiß bleibt der Braut vorbehalten.",
+              "howTo": "Orientieren Sie sich am Dresscode der Einladung. Stoff, Länge, Schuhe und Farbe sollten zur Feier und zum Wunsch der Gastgeber passen; die Kombinationen sind Stilvorschläge.",
               "occasion": "Zeremonie in der Kirche oder im Saal, tagsüber oder abends.",
               "pairsWith": [
                 {
@@ -170856,11 +170856,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Größe: Nehmen Sie das Maß des Teils",
         "paragraphs": [
-          "Eine einheitliche Größentabelle gibt es nicht: Nutzen Sie die des gewählten Kleides. SHEIN veröffentlicht für jedes Teil eine Tabelle, in Zentimetern und Zoll, mit Hinweisen zum Messen.",
+          "Nutzen Sie die Tabelle des gewählten Kleides und prüfen Sie, ob sie Körper- oder Kleidungsmaße nennt. Folgen Sie der Messanleitung; behandeln Sie die Maßarten nicht als gleich und wählen Sie nicht nur nach dem Etikett.",
           "Das Firerie beschreibt sich als Slim Fit, was genauere Maße bei Brust und Taille verlangt."
         ],
         "postParagraphs": [
-          "Bei Plus Size gilt dieselbe Methode: Vergleichen Sie das Maß des Teils mit Ihrem eigenen, nicht die Zahl auf dem Etikett."
+          "Prüfen Sie auch bei Plus Size zuerst, ob die Tabelle Körper- oder Kleidungsmaße nennt. Vergleichen Sie Körpermaße mit einer Körpermaßtabelle; vergleichen Sie Kleidungsmaße mit einem gut sitzenden Teil und berücksichtigen Sie Stoff, Schnitt und gewünschte Zugabe. Das Etikett allein genügt nicht."
         ],
         "images": [
           {
@@ -170882,7 +170882,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Lieferzeit: Vergleichen Sie mit dem Termin der Feier",
+        "heading": "Lieferzeit: Vergleichen Sie die endgültige Schätzung mit dem Termin der Feier",
         "paragraphs": [
           "Die Bestellung durchläuft vor dem Versand die Bearbeitung. Vergleichen Sie den voraussichtlichen Liefertermin auf der Bestellseite mit dem Termin der Feier und planen Sie einen Puffer ein. Liegt er knapp davor oder danach, ist dieses Kleid für diesen Termin nicht der richtige Kauf."
         ],
@@ -170933,7 +170933,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Kommt ein SHEIN-Partykleid rechtzeitig zu Weihnachten an? Das hängt vom Bestelldatum ab. Vergleichen Sie den voraussichtlichen Liefertermin der Seite mit dem Termin der Feier und planen Sie einen Puffer ein.",
+          "Kommt ein SHEIN-Partykleid rechtzeitig zu Weihnachten an? Das hängt vom Bestelldatum ab und ist nicht garantiert. Vergleichen Sie die endgültige Schätzung der Bestellseite mit dem Termin der Feier und planen Sie einen Puffer zum Anprobieren ein. Eine Schätzung ist kein Lieferversprechen.",
           "Woran erkennt man, ob das Kleid lang oder midi ist? An der Länge, die die Beschreibung angibt, und am Maß in Zentimetern in der Größentabelle des Teils.",
           "Kann man mit 4CW5Y einen Rabatt bekommen? Nein. Es ist ein Empfehlungscode: Er gibt keinen Rabatt und ist kein Gutschein."
         ]
@@ -170941,8 +170941,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Kaufen Sie es, wenn der voraussichtliche Liefertermin auf der Bestellseite vor dem Termin der Feier liegt.",
-        "Kaufen Sie es, wenn die Beschreibung Zusammensetzung, Futter und Länge in Zentimetern nennt und das Maß des Teils zu Ihrem passt."
+        "Erwägen Sie es, wenn die endgültige Schätzung Zeit vor der Feier zum Empfangen und Anprobieren lässt, ohne sie als Garantie zu verstehen.",
+        "Kaufen Sie es, wenn Material, Futter und Länge angegeben sind und die Tabelle des Modells die gewünschte Passform einschätzen lässt, wobei Körper- und Kleidungsmaße unterschieden werden."
       ],
       "skipIf": [
         "Lassen Sie es, wenn der voraussichtliche Liefertermin auf der Bestellseite nach dem Termin der Feier liegt.",
@@ -171005,7 +171005,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Un abito da festa su SHEIN si sceglie in base a tre cose: l'occasione, il tessuto e la data di arrivo. Per Natale e Capodanno, i tempi contano più del modello. Per la laurea e per l'invitata a un matrimonio, il dubbio riguarda colore, lunghezza e tono. Qui sotto, tre abiti del negozio con tessuto, fodera e valutazione."
+          "Partite dall’abbigliamento richiesto nell’invito e dalla data. Tra questi esempi, Firerie ha un modello monospalla in tulle; ADYCE, paillettes e spacco; Via Vilarinho richiede di verificare la lunghezza, perché il titolo dice corto e la descrizione midi. Poi confrontate taglia, fodera e lavaggio."
         ]
       },
       {
@@ -171063,7 +171063,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Invitata a un matrimonio",
-              "howTo": "Di giorno, tessuto leggero con scarpe chiuse o sandali bassi; di sera, lungo con il tacco. Il bianco resta alla sposa.",
+              "howTo": "Usate come riferimento l’abbigliamento richiesto nell’invito. Tessuto, lunghezza, scarpe e colore devono accompagnare la cerimonia e le indicazioni di chi la organizza; gli abbinamenti sono suggerimenti di stile.",
               "occasion": "Cerimonia in chiesa o in sala, di giorno o di sera.",
               "pairsWith": [
                 {
@@ -171219,11 +171219,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taglia: usate la misura del capo",
         "paragraphs": [
-          "Non esiste una tabella taglie unica: usate quella dell'abito che avete scelto. SHEIN pubblica la guida di ogni capo, in centimetri e in pollici, con il modo di misurarsi.",
+          "Usate la tabella dell’abito scelto e verificate se indica misure del corpo o del capo. Seguite il suo metodo; non considerate identici i due tipi di misura e non scegliete solo dall’etichetta.",
           "Il Firerie si descrive come slim fit, il che richiede misure più precise per il seno e la vita."
         ],
         "postParagraphs": [
-          "Per le taglie forti il metodo è lo stesso: confrontate la misura del capo con la vostra, non il numero dell'etichetta."
+          "Anche per le taglie forti, verificate se la tabella indica misure del corpo o del capo. Confrontate il corpo con una tabella corporea; per le misure del capo usatene uno che veste bene, considerando tessuto, taglio e agio desiderato. L’etichetta da sola non basta."
         ],
         "images": [
           {
@@ -171245,7 +171245,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Tempi: confrontate con la data della festa",
+        "heading": "Tempi: confrontate la stima finale di arrivo con la data della festa",
         "paragraphs": [
           "L'ordine passa per l'elaborazione prima della spedizione. Confrontate la consegna prevista nella pagina dell'ordine con la data della festa, lasciando un margine. Se la previsione cade vicino alla festa o dopo, quell'abito non è l'acquisto giusto per quella data."
         ],
@@ -171296,7 +171296,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell'ordine. Confrontate la consegna prevista della pagina con la data della festa, lasciando un margine.",
+          "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell’ordine e non è garantito. Confrontate la stima finale della pagina con la data della festa e lasciate margine per provarlo. Una stima non è una promessa di consegna.",
           "Come capire se l'abito è lungo o midi? Dalla lunghezza dichiarata nella descrizione e dalla misura in centimetri nella guida alle taglie del capo.",
           "Si può usare il 4CW5Y per avere uno sconto? No. È un codice di invito: non dà sconto e non è un coupon."
         ]
@@ -171304,8 +171304,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Da prendere se la consegna prevista nella pagina dell'ordine arriva prima della data della festa.",
-        "Da prendere se la descrizione riporta composizione, fodera e lunghezza in centimetri, e la misura del capo corrisponde alla vostra."
+        "Da considerare se la stima finale lascia tempo prima della festa per ricevere e provare l’abito, senza trattarla come garanzia.",
+        "Da prendere se la descrizione indica composizione, fodera e lunghezza e la tabella del modello permette di scegliere la vestibilità desiderata, distinguendo misure del corpo e del capo."
       ],
       "skipIf": [
         "Da lasciare se la consegna prevista nella pagina dell'ordine supera la data della festa.",
@@ -171368,7 +171368,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "SHEIN 파티 드레스는 행사, 소재, 도착 날짜 세 가지로 고릅니다. 크리스마스와 새해 전야에는 디자인보다 배송 기간이 더 중요합니다. 졸업식과 결혼식 하객 드레스는 색, 길이, 톤이 고민거리입니다. 아래는 소재, 안감, 평점과 함께 정리한 쇼핑몰의 드레스 3벌입니다."
+          "초대장의 복장 안내와 행사 날짜부터 확인하세요. 예시 중 Firerie는 원숄더와 튤, ADYCE는 스팽글과 슬릿이 특징이며, Via Vilarinho는 제목에 숏, 설명에 미디라고 적혀 있어 길이 확인이 먼저입니다. 그다음 사이즈, 안감, 세탁을 비교하세요."
         ]
       },
       {
@@ -171426,7 +171426,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "결혼식 하객",
-              "howTo": "낮에는 가벼운 소재에 앞이 막힌 구두나 낮은 샌들, 밤에는 롱에 하이힐. 흰색은 신부의 몫으로 남겨 둡니다.",
+              "howTo": "초대장의 복장 안내를 기준으로 하세요. 소재, 길이, 신발, 색은 예식과 주최자의 요청에 맞추면 됩니다. 아래 조합은 스타일 제안입니다.",
               "occasion": "교회나 연회장에서 열리는 낮 또는 밤 예식.",
               "pairsWith": [
                 {
@@ -171582,11 +171582,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "사이즈: 상품의 실측을 기준으로",
         "paragraphs": [
-          "모든 상품에 통하는 사이즈표는 없습니다. 고른 드레스의 사이즈표를 쓰세요. SHEIN은 상품마다 센티미터와 인치 단위 가이드와 측정 방법을 게시합니다.",
+          "고른 드레스의 표가 신체 치수인지 옷의 실측인지 확인하세요. 그 표의 측정 방법을 따르고, 두 치수를 같다고 보거나 라벨만으로 고르지 마세요.",
           "Firerie는 슬림 핏이라고 설명되어 있어 가슴과 허리 치수를 더 정확히 맞춰야 합니다."
         ],
         "postParagraphs": [
-          "플러스 사이즈도 방법은 같습니다. 라벨의 숫자가 아니라 상품의 치수를 자신의 치수와 비교하세요."
+          "플러스 사이즈도 표가 신체 치수인지 옷의 실측인지 먼저 확인하세요. 신체 치수표에는 자신의 신체 치수를 대조하고, 옷의 실측은 잘 맞는 옷과 비교하세요. 소재, 핏, 원하는 여유도 고려해야 하므로 라벨 숫자만으로 결정하지 마세요."
         ],
         "images": [
           {
@@ -171608,7 +171608,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "배송 기간: 파티 날짜에서 거꾸로 계산",
+        "heading": "배송: 최종 도착 예상일과 파티 날짜 비교",
         "paragraphs": [
           "주문은 발송 전에 처리 과정을 거칩니다. 주문 페이지에 표시되는 배송 예정일을 파티 날짜와 비교하고 여유를 두세요. 예정일이 파티 날짜에 가깝거나 넘긴다면, 그 날짜에는 그 드레스가 맞는 선택이 아닙니다."
         ],
@@ -171659,7 +171659,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN 파티 드레스는 크리스마스에 맞춰 도착하나요? 주문 날짜에 따라 다릅니다. 페이지의 배송 예정일을 파티 날짜와 비교하고 여유를 두세요.",
+          "SHEIN 파티 드레스는 크리스마스에 맞춰 도착하나요? 주문 날짜에 따라 다르며 보장되지 않습니다. 주문 페이지의 최종 배송 예정일을 파티 날짜와 비교하고 입어 볼 여유를 두세요. 예정일은 도착 보장이 아닙니다.",
           "드레스가 롱인지 미디인지 어떻게 알 수 있나요? 설명에 적힌 길이와 해당 상품 사이즈 가이드의 센티미터 치수로 확인하세요.",
           "4CW5Y로 할인을 받을 수 있나요? 아니요. 추천 코드이므로 할인이 없고 쿠폰도 아닙니다."
         ]
@@ -171667,8 +171667,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "주문 페이지의 배송 예정일이 파티 날짜보다 앞선다면 고르세요.",
-        "설명에 혼용률, 안감, 센티미터 단위 길이가 있고 상품 치수가 자신의 치수와 맞는다면 고르세요."
+        "최종 도착 예상일이 파티 날짜 전에 받아서 입어 볼 여유를 남긴다면 검토하세요. 예상일을 도착 보장으로 보지는 마세요.",
+        "설명에 혼용률, 안감, 길이가 있고 해당 모델의 표에서 신체 치수와 옷의 실측을 구분해 원하는 핏을 고를 수 있다면 고르세요."
       ],
       "skipIf": [
         "주문 페이지의 배송 예정일이 파티 날짜를 넘긴다면 건너뛰세요.",
@@ -171731,7 +171731,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "SHEINのパーティードレスは、場面、生地、届く日の3点で選びます。クリスマスや年越しは、デザインより納期が重要です。卒業式や結婚式のゲストなら、悩むのは色、丈、トーンです。以下は、生地、裏地、評価つきのお店の3着です。"
+          "招待状の服装指定と日程から確認しましょう。例のうちFirerieはワンショルダーとチュール、ADYCEはスパンコールとスリットが特徴で、Via Vilarinhoはタイトルがショート、説明がミディなので丈の確認が先です。その後でサイズ、裏地、お手入れを比べます。"
         ]
       },
       {
@@ -171789,7 +171789,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "結婚式のゲスト",
-              "howTo": "昼は軽い生地にクローズドシューズかフラットサンダル、夜はロングにヒール。白は花嫁のために空けておきます。",
+              "howTo": "招待状の服装指定を基準にしてください。生地、丈、靴、色は式と主催者の希望に合わせます。以下の組み合わせはスタイルの提案です。",
               "occasion": "教会またはホールでの挙式、昼でも夜でも。",
               "pairsWith": [
                 {
@@ -171945,11 +171945,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "サイズ：商品の実寸を使う",
         "paragraphs": [
-          "共通のサイズ表はありません。選んだドレスのサイズ表を使ってください。SHEINは商品ごとに、センチとインチのガイドと測り方を載せています。",
+          "選んだドレスの表が身体寸法か服の実寸かを確認してください。その測り方に従い、両者を同じものとして扱ったり、タグだけで選んだりしないでください。",
           "Firerieはスリムフィットと説明されているため、バストとウエストの寸法をより正確に合わせる必要があります。"
         ],
         "postParagraphs": [
-          "プラスサイズも方法は同じです。タグの数字ではなく、商品の寸法と自分の寸法を比べます。"
+          "プラスサイズでも、表が身体寸法なのか服の実寸なのかを最初に確認しましょう。身体寸法表には自分の身体寸法を、服の実寸には手持ちのよく合う服を照らし合わせます。素材、シルエット、欲しいゆとりも考え、タグの数字だけで決めないでください。"
         ],
         "images": [
           {
@@ -171971,7 +171971,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "納期：パーティーの日から逆算する",
+        "heading": "納期：最終のお届け見込みと日程を比較する",
         "paragraphs": [
           "注文は発送前に処理を経ます。注文ページに表示される配達予定日をパーティーの日と比べ、余裕を持たせてください。予定日がパーティーの日に近いか過ぎているなら、その日にはそのドレスは正しい買い物ではありません。"
         ],
@@ -172022,7 +172022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "SHEINのパーティードレスはクリスマスに間に合いますか？注文日しだいです。ページの配達予定日をパーティーの日と比べ、余裕を持たせてください。",
+          "SHEINのパーティードレスはクリスマスに間に合いますか？注文日しだいで、保証はありません。注文ページの配達予定日をパーティーの日と比べ、試着の余裕を残してください。予定日は到着の約束ではありません。",
           "ドレスがロングかミディかは、どう見分けますか？説明に書かれた丈と、その商品のサイズガイドにあるセンチ表記で判断できます。",
           "4CW5Yで割引は受けられますか？いいえ。紹介コードなので割引はなく、クーポンでもありません。"
         ]
@@ -172030,8 +172030,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "注文ページの配達予定日が、パーティーの日より前なら選びましょう。",
-        "説明に組成、裏地、センチ表記の丈があり、商品の寸法が自分の寸法に合うなら選びましょう。"
+        "注文の最終的なお届け見込みで、パーティーの日までに受け取って試着する余裕が残るなら検討しましょう。見込みを保証と考えないでください。",
+        "説明に組成、裏地、丈があり、そのモデルの表で身体寸法と服の実寸を区別しながら希望の着心地に合わせられるなら選びましょう。"
       ],
       "skipIf": [
         "注文ページの配達予定日が、パーティーの日を過ぎるなら、見送りましょう。",
@@ -172094,7 +172094,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "在 SHEIN 挑選派對洋裝，看三件事：場合、布料與到貨日期。聖誕節和跨年，到貨時間比款式更重要。畢業典禮與婚禮賓客，難處在顏色、長度與色調。以下是店內三件洋裝，附上布料、內裡與評分。"
+          "先看邀請函的服裝要求與日期。例子中，Firerie 是單肩薄紗，ADYCE 是亮片與開衩；Via Vilarinho 的標題寫短版、說明寫中長款，要先確認長度。再比較尺寸、內裡與洗滌方式。"
         ]
       },
       {
@@ -172152,7 +172152,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "婚禮賓客",
-              "howTo": "白天：輕薄布料搭包鞋或平底涼鞋；晚上：長版搭高跟鞋。白色留給新娘。",
+              "howTo": "以邀請函的服裝要求為依據。布料、長度、鞋款與顏色應配合儀式及主辦者要求；下列搭配是穿搭建議。",
               "occasion": "教堂或宴會廳的儀式，白天或晚上。",
               "pairsWith": [
                 {
@@ -172308,11 +172308,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "尺寸：以商品本身的尺寸為準",
         "paragraphs": [
-          "沒有通用的尺寸表：請用你所選洋裝的那一張。SHEIN 會為每件商品提供以公分和英寸標示的指南，並說明量法。",
+          "先確認所選洋裝的表格列出身體尺寸還是衣服實量。依照該表的量法，不要把兩者當成相同，也不要只看標籤挑選。",
           "Firerie 自述為修身版型，胸圍與腰圍的尺寸要對得更準。"
         ],
         "postParagraphs": [
-          "大尺碼也是同樣的方法：把商品的尺寸和你自己的比，而不是看標籤上的數字。"
+          "大尺碼也要先確認表格列的是身體尺寸還是衣服實量。身體尺寸要對照身體尺寸表；衣服實量則用一件合身的衣服比較，並考慮布料、版型與想要的寬鬆度。不能只看標籤數字。"
         ],
         "images": [
           {
@@ -172334,7 +172334,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "到貨時間：從聚會日期往回推",
+        "heading": "到貨：比較最終預估日期與聚會日期",
         "paragraphs": [
           "訂單出貨前要先經過處理。請把訂單頁面顯示的預計送達時間與聚會日期比較，並預留餘裕。如果預計日期緊貼著聚會或已經超過，那件洋裝就不適合那個日期。"
         ],
@@ -172385,7 +172385,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "SHEIN 的派對洋裝趕得上聖誕節嗎？取決於下單日期。把頁面上的預計送達日期與聚會日期比較，並預留餘裕。",
+          "SHEIN 的派對洋裝趕得上聖誕節嗎？取決於下單日期，沒有保證。把訂單頁面的最終預估送達日期與聚會日期比較，並預留試穿的餘裕。預估日期不是到貨保證。",
           "怎麼知道洋裝是長版還是中長款？看說明中標明的長度，以及該商品尺寸指南裡以公分標示的尺寸。",
           "可以用 4CW5Y 取得折扣嗎？不行。它是推薦碼，沒有折扣，也不是優惠券。"
         ]
@@ -172393,8 +172393,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "如果訂單頁面的預計送達日期早於聚會日期，可以買。",
-        "如果說明寫明成分、內裡與以公分標示的長度，而且商品尺寸與你的相符，可以買。"
+        "如果最終預估日期在聚會前留有收貨與試穿的時間，可以考慮；不要把預估當成保證。",
+        "說明列出成分、內裡與長度，而且該款尺寸表能區分身體尺寸和衣服實量，讓你選出想要的穿著效果，就可以買。"
       ],
       "skipIf": [
         "如果訂單頁面的預計送達日期晚於聚會日期，就別買。",
@@ -172457,7 +172457,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "在 SHEIN 选派对礼服，看三点：场合、面料和到货日期。圣诞和跨年，到货时间比款式更重要。毕业典礼和婚礼宾客，难处在颜色、长度和色调。下面是店内三条裙子，附面料、里衬和评分。"
+          "先看邀请函的着装要求和日期。例子中，Firerie 是单肩薄纱，ADYCE 是亮片和开衩；Via Vilarinho 的标题写短款、描述写中长款，要先确认长度。再比较尺码、里衬和洗涤方式。"
         ]
       },
       {
@@ -172515,7 +172515,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "婚礼宾客",
-              "howTo": "白天：轻薄面料配包头鞋或平底凉鞋；晚上：长款配高跟鞋。白色留给新娘。",
+              "howTo": "以邀请函的着装要求为依据。面料、长度、鞋款和颜色应配合仪式及主办者要求；下面的搭配是穿搭建议。",
               "occasion": "教堂或宴会厅的仪式，白天或晚上。",
               "pairsWith": [
                 {
@@ -172671,11 +172671,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "尺码：以商品自身的尺寸为准",
         "paragraphs": [
-          "没有通用的尺码表：用你所选裙子的那一张。SHEIN 为每件商品提供以厘米和英寸标注的指南，并说明量法。",
+          "先确认所选裙子的表格列出身体尺寸还是衣服实测尺寸。按该表的量法，不要把两者当成相同，也不要只看标签挑选。",
           "Firerie 自述为修身版型，胸围和腰围的尺寸要对得更准。"
         ],
         "postParagraphs": [
-          "大码也是同样的方法：把商品的尺寸和你自己的比，而不是看标签上的数字。"
+          "大码也要先确认表格列的是身体尺寸还是衣服实测。身体尺寸要对照身体尺寸表；衣服实测则用一件合身的衣服比较，并考虑面料、版型和想要的宽松度。不能只看标签数字。"
         ],
         "images": [
           {
@@ -172697,7 +172697,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "到货时间：从聚会日期往回推",
+        "heading": "到货：比较最终预计日期与聚会日期",
         "paragraphs": [
           "订单发货前要先经过处理。把订单页显示的预计送达时间与聚会日期比较，并留出余量。如果预计日期紧挨着聚会或已经超过，那条裙子就不适合那个日期。"
         ],
@@ -172748,7 +172748,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "SHEIN 的派对礼服能赶上圣诞吗？取决于下单日期。把页面上的预计送达日期与聚会日期比较，并留出余量。",
+          "SHEIN 的派对礼服能赶上圣诞吗？取决于下单日期，没有保证。把订单页的最终预计送达日期与聚会日期比较，并留出试穿的余量。预计日期不是到货保证。",
           "怎么知道裙子是长款还是中长款？看描述中标明的长度，以及该商品尺码指南里以厘米标注的尺寸。",
           "可以用 4CW5Y 获得折扣吗？不能。它是推荐码，没有折扣，也不是优惠券。"
         ]
@@ -172756,8 +172756,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "如果订单页的预计送达日期早于聚会日期，可以买。",
-        "如果描述写明成分、里衬和以厘米标注的长度，而且商品尺寸与你的相符，可以买。"
+        "如果最终预计日期在聚会前留有收货和试穿的时间，可以考虑；不要把预计当成保证。",
+        "描述列出成分、里衬与长度，而且该款尺码表能区分身体尺寸和衣服实测，让你选出想要的穿着效果，就可以买。"
       ],
       "skipIf": [
         "如果订单页的预计送达日期晚于聚会日期，就别买。",
@@ -180511,21 +180511,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale a pena para a peça de que você já sabe a medida e que pode esperar a entrega; para a compra urgente ou para a peça que precisa de prova, não. O que decide é o valor do pedido: existe uma faixa sem frete e sem imposto de importação, que o capítulo de frete e imposto mostra."
+          "Pode valer a pena quando as medidas e a descrição atendem ao que você procura, o prazo tem margem e o total com frete e tributos continua bom. Frete e imposto mudam bastante o custo de peças diferentes, por isso compare o total de cada uma."
         ]
       },
       {
         "heading": "Quando compensa e quando não",
         "paragraphs": [
-          "Compensa quando três coisas estão a seu favor: você sabe a medida, não tem pressa e o pedido fecha num valor que a loja entrega de graça. A SHEIN tem catálogo gigante e peças de preço baixo, e isso cobra o que a página não cobra: tempo e atenção na descrição. O pedido internacional leva alguns dias só para sair do armazém, e a entrega vem depois. A peça chega sem prova, e a política não prevê troca: se não serviu, o caminho é a devolução que a loja descreve na central de ajuda e um pedido novo.",
+          "Compensa quando você precisa da peça, consegue avaliar medidas e descrição e aceita o prazo e a política de devolução. Compare o total com frete e tributos, não só o preço da vitrine. Frete grátis ajuda a conta, mas não transforma toda compra em vantagem nem justifica acrescentar uma peça de que não precisa.",
           "Para quem: a peça básica que você já compra sempre, como camiseta, legging ou pijama, e a peça de ocasião com um mês de folga. Quando não: presente para a semana que vem, roupa para um evento com data marcada e qualquer peça cara que você precise ver no corpo antes de decidir.",
-          "A decisão se faz na página do produto, antes do carrinho: é ali que estão o tipo de envio, a previsão de entrega e a composição. O checkout só confirma o que você já devia saber."
+          "Leia envio, composição e medidas na página do produto. Depois confirme no checkout o endereço, o frete, a previsão e o total com tributos: esses dados podem mudar a decisão antes de pagar."
         ]
       },
       {
         "heading": "A conta: três peças lidas na loja",
         "paragraphs": [
-          "A conta muda com o envio e com o valor: a básica barata, sozinha, paga frete; a de loja parceira chega em dias úteis; e a peça cara passa da faixa sem imposto de importação. O preço é o de venda da página, sem cupom: o \"Estimado\" que ela mostra já desconta cupom da loja e não entra aqui."
+          "A conta muda com o envio e com o valor: a camiseta, o vestido e o casaco têm condições de envio e preços diferentes. O preço é o de venda da página, sem cupom: o \"Estimado\" que ela mostra já desconta cupom da loja e não entra aqui."
         ],
         "comparisonTable": {
           "caption": "Preço de venda da página de cada peça, sem cupom, 04/11; a promoção muda o valor, então confira de novo antes de pagar.",
@@ -180565,7 +180565,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O que a tabela não diz: a camiseta sozinha paga um frete que é quase um terço do preço dela; duas camisetas passam do mínimo e o frete some. O vestido vem de uma loja parceira local, por isso chega em dias úteis e fica fora do imposto de importação. O casaco é o único dos três que paga imposto de importação, e a descrição avisa o que a foto não mostra: só lava a seco e não tem forro."
+          "A camiseta sozinha paga um frete que é quase um terço do preço dela; duas camisetas passam do mínimo e o frete some, mas isso só economiza se você já precisava das duas e o frete for o mesmo para o seu endereço e vendedor. O vestido vem de uma loja parceira local, por isso chega em dias úteis e fica fora do imposto de importação. O casaco é o único dos três que paga imposto de importação, e a descrição avisa o que a foto não mostra: só lava a seco e não tem forro."
         ],
         "images": [
           {
@@ -180585,24 +180585,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Frete e imposto: a faixa que vale",
+        "heading": "Frete e tributos: compare o total",
         "paragraphs": [
-          "Quando fizemos a conta, o pedido internacional entre R$ 69 e uns R$ 270 não pagava frete nem imposto de importação, e é a faixa em que a SHEIN compensa mais. Pela página de envio da loja e pelo dólar do dia, o frete custava R$ 15 abaixo de R$ 69 e era grátis a partir daí; ele muda com o destino, o vendedor e as condições da compra, então confira na página do pedido. O imposto de importação começa quando o pedido passa de US$ 50, que davam perto de R$ 270. Pedidos de até US$ 50, somando produto, frete e seguro (se houver), não pagam imposto de importação. A SHEIN está na lista da Receita dos sites certificados no Remessa Conforme, e a regra vale para pessoa física. Os tributos aparecem no checkout, antes de pagar.",
-          "Acima de US$ 50, a alíquota é de 60% com desconto de US$ 30 no imposto, e por isso ele começa pequeno: um pedido de US$ 60 paga US$ 6, um de US$ 75 paga US$ 15 e um de US$ 100 paga US$ 30. O casaco da tabela paga cerca de R$ 146 de imposto de importação. Em cima disso vem o ICMS, de 17% a 20%, que muda de estado para estado e vale em toda compra internacional, abaixo ou acima dos US$ 50; a SHEIN diz que subsidia a parte do ICMS que incide sobre o valor do produto, por critérios dela, cliente a cliente, e o que sobra está no resumo do pedido.",
-          "A armadilha é a base da conta: o imposto incide sobre o que você paga, já com promoção e cupom, não sobre o preço riscado. Uma peça de lista acima de US$ 50 pode cair na faixa zero depois do desconto; o contrário não acontece. Quando não: a peça que sozinha passa dos US$ 50 paga imposto de qualquer jeito, e aí o que decide é se ela vale o que custa com o imposto no resumo, não o preço da vitrine."
+          "Na página de envio da loja, o frete era de R$ 15 abaixo de R$ 69 e grátis a partir daí, e US$ 50 equivaliam a cerca de R$ 270 naquela cotação. Esses valores são um retrato, não uma regra fixa em reais: o frete muda com o destino, o vendedor e as condições do pedido. Confira o total no checkout antes de pagar.",
+          "Em toda compra internacional entra também o ICMS, que muda de estado para estado. Acima de US$ 50, o imposto de importação entra e cresce com o valor.",
+          "O preço riscado não é o total a pagar. Confira no resumo do pedido os descontos aplicados, o frete e os tributos informados antes de decidir. Compare o valor final com as características de que você precisa."
         ]
       },
       {
         "heading": "Envio Nacional ou internacional",
         "paragraphs": [
-          "Se a peça tem Envio Nacional, ela chega em dias úteis e fica fora do imposto de importação: é a escolha quando o prazo manda. O Envio Nacional é de lojas parceiras locais, e o prazo não conta fim de semana nem feriado; cada loja tem o próprio frete e prazo, e a página do produto mostra \"Enviado por: Envio Nacional\" ou \"Internacional\". O internacional, a página avisa, está sujeito à declaração de importação e aos tributos.",
-          "Olha o detalhe: um mesmo produto pode ter um tamanho no Envio Nacional e os outros no internacional, e a página diz qual. Confira o envio do seu tamanho, não o da peça. Para quem tem data, o filtro é esse. Quando não: se a peça que você quer só existe no internacional, não adianta esperar; conte o prazo do capítulo seguinte."
+          "O Envio Nacional é feito por lojas parceiras locais. Cada loja informa seu frete e prazo, em dias úteis, e a página do produto mostra se a peça sai por Envio Nacional ou internacional. O pedido nacional fica fora do imposto de importação; o internacional está sujeito à declaração e aos tributos informados. Para escolher por prazo, compare a previsão final do seu endereço: o Envio Nacional também pode atrasar e não é, sozinho, garantia de chegar a tempo.",
+          "O envio pode mudar conforme o tamanho: um mesmo produto pode ter uma numeração com Envio Nacional e outra com envio internacional. Confira a variação que vai comprar. Para uma data marcada, compare a previsão mais tardia com o dia em que precisa da peça e deixe margem para provar ou buscar alternativa. O internacional pode servir se houver essa margem; se não houver, não dependa do pedido, seja qual for a origem."
         ]
       },
       {
         "heading": "Prazo: quanto esperar",
         "paragraphs": [
-          "Conte de duas a três semanas para o pedido internacional e peça com essa folga. A previsão exata está na página do produto, antes do carrinho, e muda com o seu endereço. A página de envio diz de 3 a 5 dias para processar antes de o pedido sair. Para roupa com data, some o prazo mais longo da página a uma semana de folga, para que uma devolução não vire correria.",
+          "Use a previsão final para o seu endereço e para o tamanho escolhido. Compare a data mais tardia com o evento e reserve tempo para provar ou buscar alternativa. Some processamento apenas se a previsão não o incluir expressamente. O Envio Nacional também pode atrasar; o internacional não é automaticamente inviável. Se não há margem para atraso, não dependa desse pedido.",
           "A loja informa: o serviço Entrega no Prazo, grátis, devolve 200 pontos ou R$ 10 em créditos se o pedido passa da data prevista; pacote que não chega se avisa em até 90 dias do pagamento, e item faltando ou errado, em até 60 dias da entrega. Quando não: pedido para presente com dia marcado, porque a previsão pode passar. O atraso é compensado em pontos, não em tempo."
         ]
       },
@@ -180610,7 +180610,7 @@ export const reviewsData: unknown[] = [
         "heading": "Devolução, sem troca",
         "paragraphs": [
           "A política da SHEIN não prevê troca: ela descreve devolução e reembolso, e o tamanho certo vem num pedido novo. O prazo é de 20 dias do recebimento, com a peça sem uso, sem lavar e com etiqueta. A primeira devolução de cada pedido é grátis, pelos Correios, Jadlog ou Total Express; da segunda em diante do mesmo pedido, R$ 45 saem do reembolso. Roupa íntima, de banho, bodies, brincos e piercings só voltam nos 7 dias do arrependimento; cosmético, só lacrado; kit volta inteiro; brinde e personalizado não voltam. O reembolso, na Carteira SHEIN ou no pagamento original, leva de 16 a 21 dias, mais 1 a 8 dias úteis do banco.",
-          "Por isso, mande tudo numa devolução só: a segunda do mesmo pedido custa, e peça íntima ou de banho é compra sem volta depois da primeira semana. Quem compra para provar em casa, como numa loja de rua, não é o perfil: aqui a prova é a medida, no capítulo seguinte."
+          "As medidas ajudam a reduzir o risco, mas não substituem uma prova. Antes de comprar para experimentar em casa, confirme se a peça é elegível para devolução, os custos e o prazo da política aplicável."
         ],
         "images": [
           {
@@ -180625,7 +180625,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho: a medida, não a letra",
         "paragraphs": [
-          "O M da SHEIN não é o seu M: cada peça tem o próprio guia em centímetros, e é ele que decide, não a letra. Regra prática, sem teste nosso: meça uma roupa sua que veste bem, deitada, e compare com a medida da peça no guia; a diferença entre as duas peças é o caimento que você gosta. Se a tabela mostrada for do corpo, compare com a medida do seu corpo. Peça sem guia em centímetros é peça para passar. O que medir em cada tipo de roupa, e como ler o guia de cada produto, está no [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil)."
+          "O M de uma peça pode ser diferente do de outra. Regra prática, sem teste nosso: confira se o guia traz medidas do corpo ou da roupa. Compare tabela corporal com o corpo; medidas da peça podem ser comparadas com uma roupa sua que veste bem, usando o mesmo método. A diferença entre duas roupas não é a folga entre roupa e corpo. Peça sem guia em centímetros é peça para passar. Se o tipo de medida não estiver claro, confirme antes de comprar. Veja o [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil)."
         ]
       },
       {
@@ -180634,8 +180634,8 @@ export const reviewsData: unknown[] = [
           "A página do produto diz o tipo de envio e a previsão de entrega, Envio Nacional ou internacional; confira antes do carrinho.",
           "Leia a descrição inteira: composição, forro e lavagem. Casaco que só lava a seco e não tem forro não é surpresa boa na caixa.",
           "O nome do pedido igual ao do CPF e o endereço completo: o pedido internacional exige.",
-          "O imposto de importação e o ICMS aparecem no resumo do pedido, antes de pagar; se o pedido passa de US$ 50, é ali que você vê quanto.",
-          "Cobrança que chegue depois da entrega, confira no site oficial da transportadora ou dos Correios antes de pagar qualquer valor: a SHEIN recolhe os tributos na compra.",
+          "Confira no resumo do pedido o frete, os tributos e o total antes de pagar.",
+          "Se receber cobrança depois da compra, confira sua origem e as orientações nos canais oficiais da transportadora ou dos Correios antes de pagar.",
           "Guarde a confirmação e o rastreio: é com eles que a devolução e o aviso de pacote perdido andam."
         ],
         "postParagraphs": [
@@ -180654,20 +180654,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena para quem",
         "bullets": [
-          "Para o básico de todo dia, como camiseta, legging e meia: vale, no pedido que fecha acima do mínimo do frete grátis e abaixo dos US$ 50.",
+          "Para básicos do dia a dia, compare o total das peças de que realmente precisa, com frete e tributos. Atingir frete grátis não é condição suficiente para valer a pena.",
           "Para a peça de ocasião com um mês de folga: vale, lendo a descrição e o guia de medida da peça.",
-          "Para quem tem data marcada: só com Envio Nacional; sem envio local, passe.",
+          "Para quem tem data marcada: só conte com o pedido quando a previsão e a margem para provar forem compatíveis.",
           "Para a peça cara, de lã ou de alfaiataria: vale só para quem já sabe a medida e aceita a devolução no lugar da prova, com o imposto no resumo.",
           "Para quem precisa provar antes: não."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a camiseta básica, em pedido de duas, porque aí o frete some; o casaco de lã eu deixaria na loja, porque é o único da tabela que paga imposto de importação."
+        "emphasis": "Se fosse para mim, começaria pela camiseta básica, desde que medidas e total fossem bons para a compra. O casaco exigiria mais cuidado: a ficha diz sem forro e só lavagem a seco. Não compraria uma segunda camiseta apenas para eliminar o frete."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "SHEIN vale a pena? Vale para a peça de que você sabe a medida e que pode esperar; o capítulo \"Vale a pena para quem\" diz para qual compra sim e para qual não.",
-          "SHEIN vale a pena para comprar roupa cara? Só para quem já sabe a medida e aceita devolver em vez de provar; acima de US$ 50 o imposto de importação entra, e o capítulo de frete e imposto mostra a conta.",
-          "SHEIN ainda vale a pena? Sim, para o pedido que fecha acima do mínimo do frete grátis e dentro da faixa sem imposto de importação, que o capítulo de frete e imposto mostra; fora disso, o que decide é o prazo e a descrição da peça.",
+          "SHEIN vale a pena para comprar roupa cara? Compare medidas, composição, cuidados, prazo, devolução e o total com frete e tributos antes de decidir.",
+          "SHEIN ainda vale a pena? Depende da peça e do total com frete e tributos, além das medidas, prazo e devolução. Um mínimo de frete grátis, sozinho, não decide.",
           "Dá para trocar de tamanho na SHEIN? Não: a política é de devolução e reembolso, e o tamanho certo vem num pedido novo; a primeira devolução de cada pedido é grátis, como mostra o capítulo da devolução.",
           "O 4CW5Y dá desconto na SHEIN? Não: é código de indicação, que se pesquisa no aplicativo, não é cupom e não soma com nada."
         ]
@@ -180676,11 +180676,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você já sabe a medida da peça em centímetros e pode esperar a entrega que a página do produto mostra.",
-        "O pedido junta peças básicas que você compraria de qualquer jeito e fecha acima do mínimo do frete grátis.",
+        "Você precisa das peças do pedido e o total com frete e tributos continua fazendo sentido; não está comprando mais só para alcançar frete grátis.",
         "A descrição da peça traz composição, forro e lavagem, e nada disso é surpresa para você."
       ],
       "skipIf": [
-        "A peça precisa chegar numa data marcada e não tem envio local: processamento e entrega somados raramente cabem numa semana.",
+        "Se precisa da peça numa data fixa e a previsão não deixa margem para provar ou buscar uma alternativa.",
         "Você precisa provar antes de comprar: se não servir, o caminho é a devolução.",
         "A peça é cara e você não leu a lavagem e o forro: casaco que só lava a seco e não tem forro é compra para quem já sabe o que quer."
       ]
@@ -180753,23 +180753,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "When it pays off and when it doesn't",
         "paragraphs": [
-          "It pays off when three things are on your side: you know the size, you aren't in a hurry, and the order comes to an amount the store ships for free. SHEIN has a huge catalog and low prices, and that comes with a cost the page doesn't charge: time and attention to the description. An international order takes a few days just to leave the warehouse, and delivery comes after that. There is no trying it on first: if it doesn't fit, the way out is the return process the store describes in its help center.",
+          "It can make sense when you need the item, can assess its measurements and description, and accept the delivery and return conditions. Compare the total with shipping and taxes, not only the displayed price. Free shipping helps, but does not make every purchase good value or justify adding an unwanted item.",
           "For whom: the basic piece you always buy, like a T-shirt, leggings or pajamas, and an occasion piece with a month to spare. When not: a gift for next week, an outfit for an event with a fixed date, and any expensive piece you need to see on before deciding.",
-          "The decision is made on the product page, before the cart: that's where the shipping type, the delivery estimate and the material are. Checkout only confirms what you should already know."
+          "Read shipping details, materials and measurements on the product page. Then check the address, shipping charge, estimate and tax-inclusive total at checkout: those details can still change the decision before payment."
         ]
       },
       {
         "heading": "Delivery: how long to wait",
         "paragraphs": [
-          "The exact estimate is on the product page, before the cart, and changes with your address. For clothes needed by a date, add a week of slack to the longest time on the page, so a return doesn't turn into a rush.",
-          "When not: an order for a gift with a fixed day, because the estimate can slip."
+          "Use the final delivery estimate for your address and chosen size. Compare its latest date with the occasion and leave time to try the garment or find an alternative. Add processing time only if the estimate explicitly leaves it out. Local shipping can still be late; international shipping is not automatically unsuitable. If you cannot allow for delay, do not depend on this order.",
+          "When not: a gift or garment needed by a fixed date, when the latest estimated date leaves no margin for delay."
         ]
       },
       {
         "heading": "Returns",
         "paragraphs": [
           "The return policy for your country is in the SHEIN help center: read it before ordering, because the time limit, the cost and what can't be returned change the math.",
-          "Someone who buys to try on at home, as in a physical store, is not the profile here: the fitting room is the measurements, covered in the next section."
+          "Measurements can reduce the risk, but they do not replace trying a garment on. Before ordering to try at home, check whether the item is returnable and the applicable costs and time limit."
         ],
         "images": [
           {
@@ -180784,7 +180784,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Size: the measurements, not the letter",
         "paragraphs": [
-          "SHEIN's M isn't your M: each piece has its own size guide in centimeters, and that is what decides, not the letter. Rule of thumb, not tested by us: measure a garment you own that fits you well, lying flat, and compare it with the garment measurement in the piece's guide; the difference between the two garments is the fit you like. If the table shown is a body chart, compare it with your body measurements instead. A piece without a guide in centimeters is one to skip. What to measure for each type of garment, and how to read each product's guide, is in the [SHEIN size guide](/en/reviews/shein-size-guide)."
+          "A piece's M may differ from another. Rule of thumb, not tested by us: first check whether the guide lists body or garment measurements. Compare a body chart with your body; garment measurements can be compared with a well-fitting garment, using the same method. The difference between two garments is not the ease between clothing and body. A piece without a guide in centimeters is one to skip. If the measurement type is unclear, check before buying. See the [SHEIN size guide](/en/reviews/shein-size-guide)."
         ]
       },
       {
@@ -180810,20 +180810,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Who it's worth it for",
         "bullets": [
-          "For everyday basics, like T-shirts, leggings and socks: worth it, on an order that clears the free-shipping minimum.",
+          "For everyday basics, compare the total for items you actually need, with shipping and taxes. Clearing a free-shipping threshold is not enough to make buying worthwhile.",
           "For an occasion piece with a month to spare: worth it, if you read the description and the piece's size guide.",
-          "For anyone with a fixed date: no local shipping, so skip it.",
+          "For a fixed date, skip it unless the estimate leaves room to try it on or find an alternative.",
           "For an expensive piece, wool or tailoring: worth it only for someone who already knows their size and accepts returning it instead of trying it on.",
           "For anyone who needs to try it on first: no."
         ],
-        "emphasis": "If it were for my own home, I'd take the basic T-shirt; I'd leave the wool coat on the rack."
+        "emphasis": "For myself, I would start with the basic T-shirt if its measurements and total suited the purchase. I would be more cautious with the coat: its description says no lining and dry-clean only. I would not add another T-shirt just to remove shipping."
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
           "Is SHEIN worth it? Yes, for a piece whose size you know and that can wait; the section “Who it's worth it for” says which purchases make sense and which don't.",
           "Is SHEIN worth it for expensive clothes? Only for someone who already knows their size and accepts returning instead of trying on.",
-          "Is SHEIN still worth it? Yes, for an order that clears the free-shipping minimum; otherwise, the delivery time and the piece's description decide.",
+          "Is SHEIN still worth it? It depends on the item and total with shipping and taxes, as well as measurements, delivery and returns. A free-shipping threshold alone does not decide it.",
           "Can you exchange sizes at SHEIN? It depends on the country: the return and exchange policy for each one is in the SHEIN help center.",
           "Does the 4CW5Y give a discount at SHEIN? No: it's a referral code, searched for in the app. It's not a coupon and doesn't stack with anything."
         ]
@@ -180832,11 +180832,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "You already know the piece's size in centimeters and can wait for the delivery the product page shows.",
-        "The order gathers basics you would buy anyway and clears the free-shipping minimum.",
+        "You need the items and the total with shipping and taxes still makes sense; you are not adding items only to reach free shipping.",
         "The description gives the material, lining and washing, and none of that is a surprise for you."
       ],
       "skipIf": [
-        "The piece has to arrive on a fixed date and has no local shipping: processing and delivery rarely fit into a week.",
+        "If you need the item for a fixed date and the delivery estimate leaves no time to try it on or find an alternative.",
         "You need to try it on before buying: if it doesn't fit, the way out is the return.",
         "The piece is expensive and you haven't read the washing and lining: a coat that is dry-clean only and has no lining is only for someone who already knows what they want."
       ]
@@ -180909,23 +180909,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuándo compensa y cuándo no",
         "paragraphs": [
-          "Compensa cuando tres cosas juegan a tu favor: conoces la talla, no tienes prisa y el pedido llega a un importe que la tienda envía gratis. SHEIN tiene un catálogo enorme y precios bajos, y eso se paga con lo que la página no cobra: tiempo y atención en la descripción. Un pedido internacional tarda unos días solo en salir del almacén, y la entrega llega después. No hay probador: si no te queda, el camino es la devolución que la tienda describe en su centro de ayuda.",
+          "Compensa cuando necesitas la prenda, puedes evaluar sus medidas y descripción, y aceptas plazo y devolución. Compara el total con envío e impuestos, no solo el precio mostrado. El envío gratis ayuda, pero no convierte toda compra en ventaja ni justifica añadir algo que no necesitas.",
           "Para quién: la prenda básica que siempre compras, como camiseta, leggings o pijama, y la prenda para una ocasión con un mes de margen. Cuándo no: un regalo para la semana que viene, ropa para un evento con fecha fija y cualquier prenda cara que necesites ver puesta antes de decidir.",
-          "La decisión se toma en la página del producto, antes del carrito: ahí están el tipo de envío, la previsión de entrega y la composición. La página de pago solo confirma lo que ya deberías saber."
+          "Lee envío, composición y medidas en la página del producto. Después confirma en el pago la dirección, el costo de envío, la previsión y el total con impuestos: esos datos aún pueden cambiar tu decisión."
         ]
       },
       {
         "heading": "Plazo: cuánto esperar",
         "paragraphs": [
-          "La previsión exacta está en la página del producto, antes del carrito, y cambia según tu dirección. Para ropa con fecha, suma una semana de margen al plazo más largo de la página, para que una devolución no acabe en apuros.",
-          "Cuándo no: un pedido para un regalo con día fijo, porque la previsión puede retrasarse."
+          "Usa la previsión final para tu dirección y talla elegida. Compara la fecha más tardía con el evento y deja tiempo para probar o buscar alternativa. Suma el procesamiento solo si la previsión lo excluye expresamente. El envío local también puede retrasarse; el envío internacional no queda descartado por sí solo. Sin margen para retraso, no dependas de ese pedido.",
+          "Cuándo no: un regalo o una prenda con fecha fija, si la fecha más tardía no deja margen para retrasos."
         ]
       },
       {
         "heading": "Devolución",
         "paragraphs": [
           "La política de devolución de tu país está en el centro de ayuda de SHEIN: léela antes de pedir, porque el plazo, el costo y lo que no se puede devolver cambian la cuenta.",
-          "Quien compra para probarse en casa, como en una tienda física, no es el perfil aquí: la prueba está en la medida, en el capítulo siguiente."
+          "Las medidas reducen el riesgo, pero no sustituyen probarse la prenda. Antes de pedir para probar en casa, confirma si el artículo admite devolución y cuáles son sus costos y plazo."
         ],
         "images": [
           {
@@ -180940,7 +180940,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Talla: la medida, no la letra",
         "paragraphs": [
-          "La M de SHEIN no es tu M: cada prenda tiene su propia guía de tallas en centímetros, y es esa la que decide, no la letra. Regla práctica, sin prueba nuestra: mide una prenda tuya que te quede bien, extendida, y compárala con la medida de la prenda en la guía; la diferencia entre ambas prendas es el calce que te gusta. Si la tabla que se muestra es de medidas del cuerpo, compárala con las medidas de tu cuerpo. Una prenda sin guía en centímetros es para pasar. Qué medir en cada tipo de ropa y cómo leer la guía de cada producto está en la [guía de tallas de SHEIN](/es/reviews/tallas-shein)."
+          "La M puede variar de una prenda a otra. Regla práctica: comprueba si la guía indica medidas del cuerpo o de la prenda. Compara la tabla corporal con tu cuerpo; las medidas de la prenda pueden compararse con una que te quede bien, usando el mismo método. La diferencia entre dos prendas no es la holgura entre ropa y cuerpo. Una prenda sin guía en centímetros es para pasar. Si no queda claro el tipo de medida, confirma antes de comprar. Mira la [guía de tallas de SHEIN](/es/reviews/tallas-shein)."
         ]
       },
       {
@@ -180966,20 +180966,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quién vale la pena",
         "bullets": [
-          "Para lo básico de todos los días, como camiseta, leggings y calcetines: vale la pena, en un pedido que supere el mínimo del envío gratis.",
+          "Para básicos diarios, compara el total de lo que de verdad necesitas, con envío e impuestos. Superar el mínimo de envío gratis no basta para que compense.",
           "Para la prenda de ocasión con un mes de margen: vale la pena, si lees la descripción y la guía de tallas de la prenda.",
-          "Para quien tiene una fecha fija: sin envío local, mejor pasar.",
+          "Para una fecha fija, mejor pasar, salvo que la previsión deje margen para probarla o buscar una alternativa.",
           "Para la prenda cara, de lana o de corte sastre: vale la pena solo para quien ya sabe su talla y acepta devolverla en lugar de probársela.",
           "Para quien necesita probársela antes: no."
         ],
-        "emphasis": "Si fuera para mi casa, me llevaría la camiseta básica; el abrigo de lana lo dejaría en la tienda."
+        "emphasis": "Para mí, empezaría por la camiseta básica si las medidas y el total encajaran. Con el abrigo tendría más cuidado: la ficha dice sin forro y solo lavado en seco. No añadiría otra camiseta solo para evitar el envío."
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿SHEIN vale la pena? Vale para la prenda cuya talla conoces y que puede esperar; el apartado «Para quién vale la pena» dice para qué compras sí y para cuáles no.",
           "¿Vale la pena SHEIN para ropa cara? Solo para quien ya sabe su talla y acepta devolver en lugar de probar.",
-          "¿SHEIN todavía vale la pena? Sí, para el pedido que supera el mínimo del envío gratis; fuera de eso, deciden el plazo y la descripción de la prenda.",
+          "¿SHEIN todavía vale la pena? Depende de la prenda y el total con envío e impuestos, además de medidas, plazo y devolución. Un mínimo de envío gratis no decide por sí solo.",
           "¿Se puede cambiar de talla en SHEIN? Depende del país: la política de devolución y cambio de cada uno está en el centro de ayuda de SHEIN.",
           "¿El 4CW5Y da descuento en SHEIN? No: es un código de referido, que se busca en la app; no es un cupón y no suma con nada."
         ]
@@ -180988,11 +180988,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Ya conoces la medida de la prenda en centímetros y puedes esperar la entrega que muestra la página del producto.",
-        "El pedido junta básicos que comprarías de todos modos y supera el mínimo del envío gratis.",
+        "Necesitas las prendas y el total con envío e impuestos sigue compensando; no añades artículos solo para alcanzar envío gratis.",
         "La descripción de la prenda trae composición, forro y lavado, y nada de eso te sorprende."
       ],
       "skipIf": [
-        "La prenda tiene que llegar en una fecha fija y no tiene envío local: el procesamiento y la entrega rara vez caben en una semana.",
+        "La prenda tiene que llegar en una fecha fija, y la previsión no deja tiempo para probártela o buscar una alternativa.",
         "Necesitas probártela antes de comprar: si no te queda, el camino es la devolución.",
         "La prenda es cara y no leíste el lavado ni el forro: un abrigo que solo se lava en seco y no tiene forro es compra solo para quien ya sabe lo que quiere."
       ]
@@ -181065,23 +181065,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quand ça vaut le coup, et quand non",
         "paragraphs": [
-          "Ça vaut le coup quand trois conditions sont réunies : vous connaissez la taille, vous n'êtes pas pressé et la commande atteint le montant à partir duquel la boutique livre gratuitement. SHEIN propose un catalogue immense et des prix bas, et cela a un prix que la page n'affiche pas : du temps et de l'attention pour lire la description. Une commande internationale met quelques jours rien que pour quitter l'entrepôt, puis vient la livraison. L'article arrive sans essayage : s'il ne vous va pas, la solution est le retour décrit dans le centre d'aide de la boutique.",
+          "Cela peut valoir le coup si vous avez besoin du vêtement, pouvez évaluer ses mesures et sa description, et acceptez délai et retour. Comparez le total avec port et taxes. Le port offert aide, mais ne rend pas tout achat avantageux et ne justifie pas un article inutile.",
           "Pour qui : la pièce de base que vous achetez toujours, comme un t-shirt, des leggings ou un pyjama, et la tenue de cérémonie avec un mois devant soi. Quand non : un cadeau pour la semaine prochaine, une tenue pour un événement à date fixe et toute pièce chère qu'il faut voir sur soi avant de décider.",
-          "La décision se prend sur la page du produit, avant le panier : c'est là que figurent le mode d'expédition, le délai estimé et la composition. Le paiement ne fait que confirmer ce que vous deviez déjà savoir."
+          "Lisez expédition, composition et mesures sur la fiche. Puis confirmez adresse, port, estimation et total avec taxes au paiement : ces éléments peuvent encore changer la décision."
         ]
       },
       {
         "heading": "Délai : combien attendre",
         "paragraphs": [
-          "La date exacte figure sur la page du produit, avant le panier, et elle change selon votre adresse. Pour un vêtement à date fixe, ajoutez une semaine de marge au délai le plus long affiché, pour qu'un éventuel retour ne se fasse pas dans l'urgence.",
-          "Quand non : une commande pour un cadeau à jour fixe, car le délai peut glisser."
+          "Utilisez l'estimation finale pour votre adresse et la taille choisie. Comparez la date la plus tardive à l'événement et gardez du temps pour essayer ou trouver une alternative. Ajoutez la préparation seulement si elle est expressément exclue de l'estimation. L'envoi local peut aussi être en retard ; l'envoi international n'est pas automatiquement inadapté. Sans marge, ne dépendez pas de cette commande.",
+          "Quand non : un cadeau ou un vêtement à date fixe, si la date la plus tardive ne laisse aucune marge en cas de retard."
         ]
       },
       {
         "heading": "Retours",
         "paragraphs": [
           "La politique de retour de votre pays figure dans le centre d'aide de SHEIN : lisez-la avant de commander, car le délai, le coût et ce qui ne se retourne pas changent le calcul.",
-          "Acheter pour essayer chez soi, comme dans une boutique physique, n'est pas le profil visé : ici, l'essayage se fait par les mensurations, dans le chapitre suivant."
+          "Les mesures réduisent le risque, mais ne remplacent pas l'essayage. Avant de commander pour essayer chez vous, vérifiez si l'article peut être retourné, à quel coût et sous quel délai."
         ],
         "images": [
           {
@@ -181096,7 +181096,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taille : les mensurations, pas la lettre",
         "paragraphs": [
-          "Le M de SHEIN n'est pas votre M : chaque article a son propre guide des tailles en centimètres, et c'est lui qui décide, pas la lettre. Règle pratique, non testée par nous : mesurez un vêtement à vous qui vous va bien, à plat, et comparez-le à la mesure de l'article dans le guide ; la différence entre les deux vêtements, c'est la coupe que vous aimez. Si le tableau affiché est un tableau de mensurations du corps, comparez avec vos propres mensurations. Un article sans guide en centimètres, passez votre chemin. Ce qu'il faut mesurer selon le type de vêtement, et comment lire le guide de chaque produit, est dans le [guide des tailles SHEIN](/fr/reviews/tailles-shein)."
+          "Le M peut varier d'un vêtement à l'autre. Règle pratique : vérifiez si le guide indique les mensurations du corps ou les dimensions du vêtement. Comparez un tableau corporel au corps ; les dimensions de l'article peuvent se comparer à un vêtement qui vous va bien, mesuré de la même façon. L'écart entre deux vêtements n'est pas l'aisance entre corps et vêtement. Un article sans guide en centimètres, passez votre chemin. Si le type de mesure est flou, vérifiez avant d'acheter. Voir le [guide des tailles SHEIN](/fr/reviews/tailles-shein)."
         ]
       },
       {
@@ -181122,20 +181122,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pour qui ça vaut le coup",
         "bullets": [
-          "Pour les basiques du quotidien, comme t-shirts, leggings et chaussettes : oui, sur une commande qui dépasse le minimum de la livraison offerte.",
+          "Pour les basiques, comparez le total des articles réellement nécessaires, port et taxes compris. Dépasser le seuil de livraison offerte ne suffit pas.",
           "Pour une pièce de cérémonie avec un mois devant soi : oui, si vous lisez la description et le guide des tailles de la pièce.",
-          "Pour qui a une date fixe : sans expédition locale, passez.",
+          "Pour une date fixe, passez, sauf si l'estimation laisse le temps d'essayer ou de trouver une alternative.",
           "Pour une pièce chère, en laine ou de coupe tailleur : oui seulement pour qui connaît déjà sa taille et accepte de la renvoyer plutôt que de l'essayer.",
           "Pour qui doit l'essayer avant : non."
         ],
-        "emphasis": "Si c'était pour chez moi, je prendrais le t-shirt basique ; le manteau en laine, je le laisserais en boutique."
+        "emphasis": "Pour moi, je commencerais par le t-shirt si les mesures et le total convenaient. Je serais plus prudente avec le manteau : sa fiche indique sans doublure et nettoyage à sec uniquement. Je n'ajouterais pas un t-shirt pour supprimer les frais de port."
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
           "SHEIN vaut-il le coup ? Oui pour un article dont vous connaissez la taille et qui peut attendre ; la section « Pour qui ça vaut le coup » dit quels achats le justifient et lesquels non.",
           "SHEIN vaut-il le coup pour des vêtements chers ? Seulement pour qui connaît sa taille et accepte un retour plutôt qu'un essayage.",
-          "SHEIN vaut-il toujours le coup ? Oui, pour une commande qui dépasse le minimum de la livraison offerte ; sinon, le délai et la description de l'article décident.",
+          "SHEIN vaut-il toujours le coup ? Cela dépend de l'article, du total avec port et taxes, des mesures, du délai et du retour. Le seuil de livraison offerte ne décide pas seul.",
           "Peut-on échanger une taille chez SHEIN ? Cela dépend du pays : la politique de retour et d'échange de chacun figure dans le centre d'aide de SHEIN.",
           "Le 4CW5Y donne-t-il une réduction chez SHEIN ? Non : c'est un code de parrainage, à chercher dans l'appli ; ce n'est pas un coupon et il ne se cumule avec rien."
         ]
@@ -181144,11 +181144,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Vous connaissez déjà la taille de la pièce en centimètres et pouvez attendre la livraison affichée sur la page du produit.",
-        "La commande regroupe des basiques que vous achèteriez de toute façon et dépasse le minimum de la livraison offerte.",
+        "Vous avez besoin des articles et le total avec port et taxes reste intéressant ; vous n'ajoutez rien uniquement pour atteindre le port offert.",
         "La description de l'article donne la composition, la doublure et l'entretien, et rien de tout cela ne vous surprend."
       ],
       "skipIf": [
-        "La pièce doit arriver à une date fixe et n'a pas d'expédition locale : la préparation et la livraison tiennent rarement dans une semaine.",
+        "La pièce doit arriver à une date fixe, et l'estimation ne laisse pas le temps de l'essayer ou de trouver une alternative.",
         "Vous devez l'essayer avant d'acheter : si elle ne vous va pas, la solution est le retour.",
         "La pièce est chère et vous n'avez vérifié ni l'entretien ni la doublure : un manteau qui ne se nettoie qu'à sec et sans doublure ne convient qu'à qui sait déjà ce qu'il veut."
       ]
@@ -181221,23 +181221,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wann es sich lohnt und wann nicht",
         "paragraphs": [
-          "Es lohnt sich, wenn drei Dinge zusammenkommen: Sie kennen die Größe, Sie haben keine Eile, und die Bestellung erreicht einen Betrag, ab dem der Shop kostenlos liefert. SHEIN hat einen riesigen Katalog und niedrige Preise, und das kostet etwas, das die Seite nicht zeigt: Zeit und Aufmerksamkeit für die Beschreibung. Eine internationale Bestellung braucht schon ein paar Tage, bis sie das Lager verlässt, dann folgt die Lieferung. Anprobiert wird erst zu Hause: Passt es nicht, bleibt die Rückgabe, die der Shop im Hilfecenter beschreibt.",
+          "Es kann sich lohnen, wenn Sie das Teil brauchen, Maße und Beschreibung beurteilen können und Liefer- sowie Rückgabebedingungen akzeptieren. Vergleichen Sie den Gesamtbetrag mit Versand und Abgaben. Kostenloser Versand allein macht keinen guten Kauf und rechtfertigt kein unnötiges Teil.",
           "Für wen: das Basisteil, das Sie ohnehin regelmäßig kaufen, etwa T-Shirt, Leggings oder Schlafanzug, und das Anlassteil mit einem Monat Vorlauf. Wann nicht: ein Geschenk für die kommende Woche, Kleidung für einen Termin mit festem Datum und jedes teure Teil, das Sie vorher am Körper sehen müssen.",
-          "Die Entscheidung fällt auf der Produktseite, vor dem Warenkorb: Dort stehen Versandart, voraussichtliche Lieferzeit und Material. Der Checkout bestätigt nur, was Sie schon wissen sollten."
+          "Lesen Sie Versand, Material und Maße auf der Produktseite. Prüfen Sie dann im Checkout Adresse, Versandkosten, Prognose und Gesamtbetrag mit Abgaben. Diese Angaben können die Entscheidung noch ändern."
         ]
       },
       {
         "heading": "Lieferzeit: wie lange Sie warten",
         "paragraphs": [
-          "Die genaue Angabe steht auf der Produktseite vor dem Warenkorb und hängt von Ihrer Adresse ab. Bei Kleidung mit Termin rechnen Sie zur längsten Angabe auf der Seite eine Woche Puffer dazu, damit eine Rückgabe nicht zur Hetze wird.",
-          "Wann nicht: eine Bestellung für ein Geschenk mit festem Tag, denn die Angabe kann sich verschieben."
+          "Nutzen Sie die endgültige Lieferprognose für Adresse und gewählte Größe. Vergleichen Sie den spätesten Termin mit dem Anlass und lassen Sie Zeit für Anprobe oder Ersatz. Bearbeitungszeit nur addieren, wenn die Prognose sie ausdrücklich nicht enthält. Auch lokaler Versand kann sich verspäten; internationaler Versand ist nicht automatisch ungeeignet. Ohne Puffer für Verzögerungen sollten Sie sich nicht auf die Bestellung verlassen.",
+          "Wann nicht: ein Geschenk oder Kleidungsstück mit festem Termin, wenn die späteste Prognose keinen Puffer für Verzögerungen lässt."
         ]
       },
       {
         "heading": "Rückgabe",
         "paragraphs": [
           "Die Rückgabebedingungen für Ihr Land stehen im Hilfecenter von SHEIN. Lesen Sie sie vor der Bestellung, denn Frist, Kosten und das, was nicht zurückgenommen wird, verändern die Rechnung.",
-          "Wer bestellt, um zu Hause anzuprobieren wie im Geschäft vor Ort, ist hier falsch: Hier ersetzt das Maß die Anprobe, im nächsten Kapitel."
+          "Maße können das Risiko verringern, ersetzen aber keine Anprobe. Prüfen Sie vor einer Bestellung zum Anprobieren zu Hause, ob das Teil rückgabefähig ist, mit welchen Kosten und welcher Frist."
         ],
         "images": [
           {
@@ -181252,7 +181252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Größe: die Maße, nicht der Buchstabe",
         "paragraphs": [
-          "Das M von SHEIN ist nicht Ihr M: Jedes Teil hat seinen eigenen Größenguide in Zentimetern, und der entscheidet, nicht der Buchstabe. Faustregel, nicht von uns getestet: Messen Sie ein Kleidungsstück, das Ihnen gut passt, flach ausgelegt, und vergleichen Sie es mit dem Maß des Teils im Guide; der Unterschied zwischen den beiden Teilen ist die Passform, die Sie mögen. Zeigt die Tabelle Körpermaße, vergleichen Sie mit Ihren eigenen Körpermaßen. Ein Teil ohne Guide in Zentimetern lassen Sie besser liegen. Was Sie bei welcher Kleidungsart messen und wie Sie den Guide jedes Produkts lesen, steht im [SHEIN-Größenguide](/de/reviews/shein-groessen)."
+          "Ein M kann von Teil zu Teil verschieden ausfallen. Faustregel: Prüfen Sie, ob der Guide Körper- oder Kleidungsmaße nennt. Körpermaße vergleichen Sie mit dem Körper; Artikelmaße mit einem gut passenden Kleidungsstück, auf dieselbe Weise gemessen. Der Unterschied zwischen zwei Kleidungsstücken ist nicht die Zugabe zwischen Körper und Kleidung. Ein Teil ohne Guide in Zentimetern lassen Sie besser liegen. Ist die Messart unklar, sollten Sie vor dem Kauf nachfragen. Mehr dazu im [SHEIN-Größenguide](/de/reviews/shein-groessen)."
         ]
       },
       {
@@ -181278,20 +181278,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Für wen es sich lohnt",
         "bullets": [
-          "Für Alltagsbasics wie T-Shirts, Leggings und Socken: lohnt sich bei einer Bestellung über dem Mindestbetrag für kostenlosen Versand.",
+          "Für Alltagsbasics vergleichen Sie den Gesamtbetrag der wirklich benötigten Artikel mit Versand und Abgaben. Der Mindestbetrag für kostenlosen Versand allein genügt nicht.",
           "Für ein Anlassteil mit einem Monat Vorlauf: lohnt sich, wenn Sie die Beschreibung und den Größenguide des Teils lesen.",
-          "Für alle mit festem Termin: ohne lokalen Versand lieber verzichten.",
+          "Bei festem Termin lieber verzichten, außer die Prognose lässt Zeit für Anprobe oder Ersatz.",
           "Für ein teures Teil aus Wolle oder mit Schneiderschnitt: nur für jene, die ihre Größe schon kennen und eine Rückgabe statt einer Anprobe in Kauf nehmen.",
           "Für alle, die es vorher anprobieren müssen: nein."
         ],
-        "emphasis": "Für mein eigenes Zuhause würde ich das Basic-T-Shirt nehmen; den Wollmantel würde ich im Laden hängen lassen."
+        "emphasis": "Für mich käme zuerst das Basic-T-Shirt infrage, wenn Maße und Gesamtbetrag passen. Beim Mantel wäre ich vorsichtiger: Die Beschreibung nennt kein Futter und nur chemische Reinigung. Ein zweites Shirt nur für den kostenlosen Versand würde ich nicht bestellen."
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
           "Lohnt sich SHEIN? Ja, für ein Teil, dessen Größe man kennt und das warten kann; der Abschnitt „Für wen es sich lohnt“ sagt, welche Käufe sich lohnen und welche nicht.",
           "Lohnt sich SHEIN auch für teure Kleidung? Nur für jene, die ihre Größe kennen und eine Rückgabe statt einer Anprobe akzeptieren.",
-          "Lohnt sich SHEIN noch? Ja, bei einer Bestellung über dem Mindestbetrag für kostenlosen Versand; sonst entscheiden Lieferzeit und Beschreibung des Teils.",
+          "Lohnt sich SHEIN noch? Das hängt vom Artikel, vom Gesamtbetrag mit Versand und Abgaben, von den Maßen, der Lieferzeit und der Rückgabe ab. Der Mindestbetrag für kostenlosen Versand entscheidet nicht allein.",
           "Kann man bei SHEIN die Größe tauschen? Das hängt vom Land ab: Die Rückgabe- und Umtauschregeln stehen im Hilfecenter von SHEIN.",
           "Gibt der 4CW5Y bei SHEIN Rabatt? Nein: Es ist ein Empfehlungscode, den man in der App sucht. Er ist kein Gutschein und lässt sich mit nichts kombinieren."
         ]
@@ -181300,11 +181300,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Sie kennen die Größe des Teils in Zentimetern und können auf die Lieferung warten, die die Produktseite anzeigt.",
-        "Die Bestellung bündelt Basics, die Sie ohnehin kaufen würden, und liegt über dem Mindestbetrag für kostenlosen Versand.",
+        "Sie brauchen die Artikel, und der Gesamtbetrag mit Versand und Abgaben bleibt sinnvoll; Sie ergänzen nichts, nur um kostenlosen Versand zu bekommen.",
         "Die Beschreibung nennt Material, Futter und Pflege, und nichts davon überrascht Sie."
       ],
       "skipIf": [
-        "Das Teil muss an einem festen Datum ankommen und hat keinen lokalen Versand: Bearbeitung und Lieferung passen selten in eine Woche.",
+        "Das Teil muss zu einem festen Termin ankommen, und die Lieferprognose lässt keine Zeit für Anprobe oder Ersatz.",
         "Sie müssen es vor dem Kauf anprobieren: Passt es nicht, bleibt nur die Rückgabe.",
         "Das Teil ist teuer und Sie haben Pflege und Futter nicht gelesen: Ein Mantel, der nur chemisch gereinigt werden darf und kein Futter hat, ist nur etwas für Leute, die schon wissen, was sie wollen."
       ]
@@ -181377,23 +181377,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando conviene e quando no",
         "paragraphs": [
-          "Conviene quando tre cose giocano a tuo favore: conosci la taglia, non hai fretta e l'ordine raggiunge un importo che il negozio spedisce gratis. SHEIN ha un catalogo enorme e prezzi bassi, e questo ha un costo che la pagina non mostra: tempo e attenzione nella descrizione. Un ordine internazionale impiega alcuni giorni solo a lasciare il magazzino, e la consegna arriva dopo. Il capo arriva senza averlo provato: se non ti va bene, la soluzione è il reso descritto nel centro assistenza del negozio.",
+          "Può convenire se hai bisogno del capo, puoi valutarne misure e descrizione e accetti tempi e reso. Confronta il totale con spedizione e tasse. La spedizione gratuita aiuta, ma non rende ogni acquisto conveniente né giustifica un capo inutile.",
           "Per chi: il basico che compri sempre, come t-shirt, leggings o pigiama, e il capo da occasione con un mese di margine. Quando no: un regalo per la settimana prossima, un outfit per un evento con data fissa e qualsiasi capo costoso che devi vedere addosso prima di decidere.",
-          "La decisione si prende sulla pagina del prodotto, prima del carrello: lì ci sono il tipo di spedizione, il tempo di consegna previsto e la composizione. Il checkout conferma solo quello che dovresti già sapere."
+          "Leggi spedizione, composizione e misure sulla scheda. Poi conferma indirizzo, spedizione, previsione e totale con tasse al checkout: possono ancora cambiare la decisione."
         ]
       },
       {
         "heading": "Tempi: quanto aspettare",
         "paragraphs": [
-          "La stima esatta è nella pagina del prodotto, prima del carrello, e cambia con il tuo indirizzo. Per l'abbigliamento con una data, aggiungi una settimana di margine al tempo più lungo indicato nella pagina, così un eventuale reso non diventa una corsa contro il tempo.",
-          "Quando no: un ordine per un regalo con giorno fisso, perché la stima può slittare."
+          "Usa la previsione finale per indirizzo e taglia scelta. Confronta la data più tarda con l'occasione e lascia tempo per provare o trovare un'alternativa. Somma i tempi di lavorazione solo se la previsione li esclude espressamente. Anche la spedizione locale può ritardare; quella internazionale non è automaticamente inadatta. Senza margine, non dipendere dall'ordine.",
+          "Quando no: un regalo o un capo con data fissa, se la data più tardiva non lascia margine per i ritardi."
         ]
       },
       {
         "heading": "Resi",
         "paragraphs": [
           "La politica di reso del tuo paese è nel centro assistenza di SHEIN: leggila prima di ordinare, perché termini, costi e ciò che non si può restituire cambiano il conto.",
-          "Chi compra per provare a casa, come in un negozio fisico, non è il profilo giusto: qui la prova la fanno le misure, nel capitolo successivo."
+          "Le misure riducono il rischio, ma non sostituiscono la prova. Prima di ordinare per provare a casa, verifica se il capo può essere restituito, con quali costi e termini."
         ],
         "images": [
           {
@@ -181408,7 +181408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taglia: le misure, non la lettera",
         "paragraphs": [
-          "La M di SHEIN non è la tua M: ogni capo ha la sua guida alle taglie in centimetri, ed è quella a decidere, non la lettera. Regola pratica, non testata da noi: misura un capo tuo che ti sta bene, disteso, e confrontalo con la misura del capo nella guida; la differenza tra i due capi è la vestibilità che ti piace. Se la tabella mostrata è del corpo, confrontala con le misure del tuo corpo. Un capo senza guida in centimetri è da lasciar perdere. Cosa misurare per ogni tipo di capo e come leggere la guida di ogni prodotto è nella [guida alle taglie SHEIN](/it/reviews/taglie-shein)."
+          "La M può cambiare da un capo all'altro. Regola pratica: controlla se la guida indica misure del corpo o del capo. Confronta la tabella del corpo con le tue misure; le misure del capo si confrontano con un capo che ti sta bene, misurato nello stesso modo. La differenza tra due capi non è il margine tra corpo e indumento. Un capo senza guida in centimetri è da lasciar perdere. Se il tipo di misura non è chiaro, verifica prima di comprare. Vedi la [guida alle taglie SHEIN](/it/reviews/taglie-shein)."
         ]
       },
       {
@@ -181434,20 +181434,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Per chi vale la pena",
         "bullets": [
-          "Per il basico di tutti i giorni, come t-shirt, leggings e calzini: conviene, su un ordine sopra il minimo per la spedizione gratuita.",
+          "Per i basici confronta il totale dei capi davvero necessari, con spedizione e tasse. Superare la soglia gratuita non basta.",
           "Per il capo da occasione con un mese di margine: conviene, se leggi la descrizione e la guida alle taglie del capo.",
-          "Per chi ha una data fissa: senza spedizione locale, lascia perdere.",
+          "Per una data fissa, lascia perdere, a meno che la previsione lasci margine per provarlo o trovare un'alternativa.",
           "Per il capo costoso, di lana o da sartoria: conviene solo a chi conosce già la taglia e accetta di restituirlo invece di provarlo.",
           "Per chi deve provarlo prima: no."
         ],
-        "emphasis": "Se fosse per casa mia, prenderei la t-shirt basica; il cappotto di lana lo lascerei in negozio."
+        "emphasis": "Per me partirei dalla t-shirt se misure e totale fossero adatti. Sul cappotto sarei più cauta: la scheda dice senza fodera e solo lavaggio a secco. Non aggiungerei una seconda t-shirt soltanto per togliere la spedizione."
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
           "SHEIN conviene? Sì per un capo di cui conosci la taglia e che può aspettare; la sezione «Per chi vale la pena» dice per quali acquisti sì e per quali no.",
           "SHEIN conviene anche per i capi costosi? Solo a chi conosce la taglia e accetta di restituire invece di provare.",
-          "SHEIN conviene ancora? Sì, per un ordine sopra il minimo della spedizione gratuita; altrimenti decidono tempi di consegna e descrizione del capo.",
+          "SHEIN conviene ancora? Dipende dal capo e dal totale con spedizione e tasse, oltre a misure, tempi e resi. La soglia gratuita non decide da sola.",
           "Si può cambiare taglia su SHEIN? Dipende dal paese: la politica di reso e cambio di ciascuno è nel centro assistenza di SHEIN.",
           "Il 4CW5Y dà sconto su SHEIN? No: è un codice invito, da cercare nell'app; non è un coupon e non si somma a nulla."
         ]
@@ -181456,11 +181456,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Conosci già la taglia del capo in centimetri e puoi aspettare la consegna che mostra la pagina del prodotto.",
-        "L'ordine raccoglie basici che compreresti comunque e supera il minimo per la spedizione gratuita.",
+        "Hai bisogno dei capi e il totale con spedizione e tasse resta sensato; non aggiungi articoli solo per raggiungere la soglia gratuita.",
         "La descrizione riporta composizione, fodera e lavaggio, e niente di tutto questo ti sorprende."
       ],
       "skipIf": [
-        "Il capo deve arrivare in una data fissa e non ha spedizione locale: lavorazione e consegna raramente entrano in una settimana.",
+        "Il capo deve arrivare in una data fissa, e la previsione non lascia tempo per provarlo o trovare un'alternativa.",
         "Devi provarlo prima di comprare: se non ti va bene, la soluzione è il reso.",
         "Il capo è costoso e non hai letto lavaggio né fodera: un cappotto da lavare solo a secco e senza fodera è un acquisto solo per chi sa già cosa vuole."
       ]
@@ -181533,23 +181533,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "언제 사면 좋고 언제 사지 말아야 할까",
         "paragraphs": [
-          "세 가지가 맞으면 살 만해요. 치수를 알고, 급하지 않고, 주문 금액이 쇼핑몰의 무료배송 기준을 넘을 때예요. SHEIN은 상품이 아주 많고 가격도 낮아요. 대신 상품 설명을 꼼꼼히 읽는 데 시간과 주의가 필요해요. 해외 주문은 창고에서 출고되기까지 며칠 걸리고, 그 뒤에 배송이 시작돼요. 옷은 입어 보지 않은 채 받게 돼요. 맞지 않으면 고객센터에 나온 반품 절차를 따라야 해요.",
+          "필요한 옷이고 치수와 설명을 판단할 수 있으며 배송·반품 조건을 받아들일 때 살 만해요. 표시 가격뿐 아니라 배송비와 세금 포함 총액을 비교하세요. 무료배송만으로 좋은 구매가 되거나 필요 없는 옷을 더 살 이유가 생기지는 않아요.",
           "이런 분께 맞아요: 늘 사는 기본 아이템(티셔츠, 레깅스, 잠옷)과 한 달 여유가 있는 행사용 옷. 맞지 않는 경우: 다음 주에 필요한 선물, 날짜가 정해진 행사 옷, 결정하기 전에 몸에 대 봐야 하는 비싼 옷.",
-          "결정은 장바구니에 담기 전에 상품 페이지에서 하세요. 배송 방식, 배송 예정일, 소재가 거기 나와 있어요. 결제 화면은 이미 알고 있어야 할 내용을 마지막으로 확인하는 곳일 뿐이에요."
+          "상품 페이지에서 배송, 소재와 치수를 읽으세요. 결제할 때 주소, 배송비, 예정일과 세금 포함 총액을 다시 확인하세요. 이 정보로 구매 결정을 바꿀 수도 있어요."
         ]
       },
       {
         "heading": "배송: 얼마나 기다려야 할까",
         "paragraphs": [
-          "정확한 예정일은 장바구니에 담기 전 상품 페이지에 나와 있고, 주소에 따라 달라져요. 날짜가 정해진 옷이라면 페이지에 나온 가장 긴 기간에 일주일 여유를 더하세요. 반품할 때 허둥대지 않으려면요.",
-          "맞지 않는 경우: 날짜를 정해 둔 선물 주문. 예정일이 밀릴 수 있어요."
+          "주소와 선택한 사이즈의 최종 배송 예정일을 보세요. 가장 늦은 날짜를 행사와 비교하고 입어 보거나 대안을 구할 시간을 남기세요. 처리 기간은 예정일에 포함되지 않는다고 명시된 경우에만 더하세요. 현지 발송도 늦을 수 있고 해외 배송이 무조건 불가능한 것은 아니에요. 지연 여유가 없다면 주문에 의존하지 마세요.",
+          "맞지 않는 경우: 날짜가 정해진 선물이나 옷인데, 가장 늦은 예상일 이후에 지연을 감당할 여유가 없는 경우."
         ]
       },
       {
         "heading": "반품",
         "paragraphs": [
           "거주 국가의 반품 정책은 SHEIN 고객센터에 있어요. 주문 전에 꼭 읽으세요. 기간, 비용, 반품되지 않는 상품에 따라 계산이 달라져요.",
-          "동네 가게에서처럼 집에서 입어 보고 사려는 분에게는 맞지 않아요. 여기서는 치수가 입어 보는 역할을 해요. 다음 장에서 이어 갈게요."
+          "치수는 위험을 줄이지만 직접 입어 보는 일을 대신하지는 못해요. 집에서 입어 보려고 주문하기 전, 해당 옷의 반품 가능 여부와 비용, 기한을 확인하세요."
         ],
         "images": [
           {
@@ -181564,7 +181564,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "사이즈: 글자보다 치수",
         "paragraphs": [
-          "SHEIN의 M은 평소 입던 M과 같지 않을 수 있어요. 상품마다 센티미터로 된 사이즈 가이드가 있고, 기준은 글자가 아니라 그 가이드예요. 일반 기준(직접 테스트하지 않음): 평소 잘 맞는 옷을 평평하게 놓고 재서, 상품 사이즈 가이드의 치수와 비교하세요. 두 옷의 치수 차이가 평소 좋아하는 핏이에요. 표시된 표가 몸 치수 표라면 본인의 몸 치수와 비교하세요. 센티미터 사이즈 가이드가 없는 상품은 건너뛰세요. 옷 종류별로 재는 법과 상품별 사이즈 가이드 읽는 법은 [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)에 있어요."
+          "M도 상품마다 다를 수 있어요. 일반 기준(직접 테스트하지 않음): 먼저 가이드가 신체 치수인지 옷 치수인지 확인하세요. 신체 표는 몸과 비교하고, 옷 치수는 잘 맞는 옷을 같은 방법으로 재서 비교하세요. 옷 두 벌의 차이는 몸과 옷 사이의 여유분이 아니에요. 센티미터 사이즈 가이드가 없는 상품은 건너뛰세요. 측정 종류가 불분명하면 구매 전에 확인하세요. 자세한 설명은 [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)."
         ]
       },
       {
@@ -181590,20 +181590,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "이런 분께 맞아요",
         "bullets": [
-          "매일 입는 기본 아이템(티셔츠, 레깅스, 양말): 무료배송 기준을 넘는 주문이라면 살 만해요.",
+          "기본 옷은 실제 필요한 것의 배송비·세금 포함 총액을 비교하세요. 무료배송 기준을 넘는 것만으로 충분하지 않아요.",
           "한 달 여유가 있는 행사용 옷: 상품 설명과 사이즈 가이드를 읽고 사면 살 만해요.",
-          "날짜가 정해진 경우: 현지 발송이 아니라면 건너뛰세요.",
+          "날짜가 정해졌다면 예정일과 입어 볼 여유가 맞을 때만 주문을 고려하세요. 현지 발송도 정시 도착을 보장하지 않아요.",
           "비싼 울 제품이나 테일러드 옷: 치수를 알고, 입어 보는 대신 반품을 받아들일 수 있는 분께만 살 만해요.",
           "사기 전에 꼭 입어 봐야 하는 분: 맞지 않아요."
         ],
-        "emphasis": "저라면 기본 티셔츠는 사고, 울 코트는 가게에 두고 올 거예요."
+        "emphasis": "저라면 치수와 총액이 맞을 때 기본 티셔츠부터 보겠어요. 코트는 안감이 없고 드라이클리닝만 된다는 설명 때문에 더 신중할 거예요. 배송비를 없애려고 티셔츠를 하나 더 넣지는 않겠어요."
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
           "SHEIN은 살 만한가요? 치수를 알고 배송을 기다릴 수 있는 옷이라면 살 만해요. '이런 분께 맞아요' 장에 무엇을 사고 무엇을 건너뛸지 나와 있어요.",
           "SHEIN에서 비싼 옷도 살 만한가요? 치수를 알고, 입어 보는 대신 반품을 받아들일 수 있는 분께만 맞아요.",
-          "SHEIN은 아직도 살 만한가요? 네, 무료배송 기준을 넘는 주문이라면요. 그 밖에는 배송 기간과 상품 설명이 결정해요.",
+          "SHEIN은 아직 살 만한가요? 옷과 배송비·세금 포함 총액, 치수, 배송과 반품에 달려 있어요. 무료배송 기준만으로 결정하지는 않아요.",
           "SHEIN에서 사이즈를 교환할 수 있나요? 나라마다 달라요. 교환과 반품 정책은 SHEIN 고객센터에 있어요.",
           "4CW5Y로 SHEIN에서 할인을 받을 수 있나요? 아니요. 추천 코드라서 앱에서 검색해 쓰는 것이고, 쿠폰이 아니며 다른 혜택과도 함께 쓸 수 없어요."
         ]
@@ -181612,11 +181612,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "치수를 센티미터로 알고 있고, 상품 페이지에 나오는 배송 기간을 기다릴 수 있어요.",
-        "늘 사는 기본 아이템을 한 번에 담아서 무료배송 기준을 넘어요.",
+        "필요한 옷을 사고 배송비·세금 포함 총액도 괜찮으며, 무료배송을 위해 더 담지는 않아요.",
         "상품 설명에 소재, 안감, 세탁 방법이 나와 있어서 놀랄 일이 없어요."
       ],
       "skipIf": [
-        "날짜까지 꼭 도착해야 하는데 현지 발송이 아니에요. 주문 처리와 배송을 합쳐 일주일 안에 끝나는 경우는 드물어요.",
+        "정해진 날짜에 필요한 옷인데 예상 배송일 이후에 입어 보거나 대안을 찾을 여유가 없는 경우. 현지 발송도 정시 도착을 보장하지 않아요.",
         "사기 전에 입어 봐야 해요. 맞지 않으면 반품하게 돼요.",
         "비싼 옷인데 세탁 방법과 안감을 확인하지 않았어요. 드라이클리닝만 가능하고 안감이 없는 코트는 무엇을 원하는지 분명한 사람이 사는 옷이에요."
       ]
@@ -181689,23 +181689,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "買う価値があるときと、ないとき",
         "paragraphs": [
-          "買う価値があるのは、3つがそろっているときです。サイズがわかっている、急いでいない、注文額が店の送料無料ラインを超えている。SHEINは商品数が非常に多く、価格も低めです。その代わり、商品説明を読むのに時間と注意が必要です。海外からの注文は、倉庫から出荷されるまでに数日かかり、その後に配送が始まります。服は試着せずに届きます。合わなければ、ヘルプセンターにある返品手続きになります。",
+          "必要な服で、寸法と説明を判断でき、配送や返品条件を受け入れられるなら検討できます。表示価格だけでなく送料・税金を含む総額で比べましょう。送料無料だけでは得な買い物にならず、不要な一着を増やす理由にもなりません。",
           "向いているのは：いつも買う基本のアイテム（Tシャツ、レギンス、パジャマなど）と、1か月の余裕がある行事用の服。向かないのは：来週までに必要なプレゼント、日付が決まった行事の服、着てみて決めたい高価な服。",
-          "判断は、カートに入れる前に商品ページで行いましょう。配送方法、配送日数、素材はそこに出ています。注文画面は、知っておくべきことを最後に確認するだけの場所です。"
+          "商品ページで配送、素材、寸法を読み、支払い前に住所、送料、予定、税込み総額を再確認してください。その内容で購入判断が変わる場合もあります。"
         ]
       },
       {
         "heading": "配送：どれくらい待つか",
         "paragraphs": [
-          "正確な日数はカートに入れる前の商品ページにあり、住所によって変わります。日付が決まっている服なら、ページに出ている一番長い日数に1週間の余裕を足してください。返品の時に慌てないためです。",
-          "向かないのは：プレゼントを日付指定で注文する場合。配送日数がずれることがあるからです。"
+          "住所と選んだサイズの最終配送予定を見てください。最も遅い日と行事を比べ、試着や代替品を探す時間を残します。処理期間は予定に含まれないと明記された場合だけ足してください。現地発送も遅れることがあり、海外発送が必ず不向きとは限りません。遅延の余裕がなければ、その注文に頼らないでください。",
+          "向かないのは：決まった日に必要な贈り物や服で、最も遅い予定日の後に遅れを吸収する余裕がない場合。"
         ]
       },
       {
         "heading": "返品",
         "paragraphs": [
           "お住まいの国の返品ポリシーは、SHEINのヘルプセンターにあります。注文前に読んでください。期限、送料、返品できない商品によって、損得が変わります。",
-          "店頭で試着してから買うように、家で試着して決めたい人には向きません。ここで試着の代わりをするのは、サイズの測り方です。次の章で説明します。"
+          "寸法はリスクを減らしますが、試着の代わりにはなりません。自宅で試すために注文する前に、その商品が返品可能か、費用と期限を確認してください。"
         ],
         "images": [
           {
@@ -181720,7 +181720,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "サイズ：文字ではなく寸法",
         "paragraphs": [
-          "SHEINのMは、あなたのMとは限りません。商品ごとにセンチ表記のサイズガイドがあり、決めるのは文字ではなくそのガイドです。目安（当サイトでは未検証）：普段よく合う服を平らに置いて寸法を測り、商品のサイズガイドの寸法と比べてください。その差が、あなたの好みのシルエットの目安です。表示されている表が体の寸法の表なら、ご自身の体の寸法と比べてください。センチ表記のないサイズガイドの商品は見送ってください。服の種類ごとの測り方と、商品ごとのサイズガイドの読み方は[SHEINのサイズガイド](/ja/reviews/shein-size-guide-ja)にまとめています。"
+          "商品によって同じMでも寸法は違います。目安（当サイトでは未検証）：まず、ガイドが身体の寸法か服の寸法かを確認してください。身体の表は自分の身体と比べます。服の寸法は、よく合う服を同じ方法で測って比べます。服同士の差は、服と身体の間のゆとりではありません。センチ表記のないサイズガイドの商品は見送ってください。寸法の種類がはっきりしないときは、購入前に確認してください。詳しくは[SHEINのサイズガイド](/ja/reviews/shein-size-guide-ja)。"
         ]
       },
       {
@@ -181746,20 +181746,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "向いている人",
         "bullets": [
-          "毎日の基本のアイテム（Tシャツ、レギンス、靴下）：送料無料ラインを超える注文なら買う価値あり。",
+          "基本の服は、本当に必要な物の送料・税金込みの総額で比べてください。送料無料ラインを超えるだけでは十分ではありません。",
           "1か月の余裕がある行事用の服：商品説明とサイズガイドを読んでから買う価値あり。",
-          "日付が決まっている人：現地発送でなければ見送り。",
+          "日付が決まっている場合、予定と試着の余裕が合うときだけ注文を検討してください。現地発送も定時到着を保証しません。",
           "高価なウールや、仕立ての服：サイズがわかっていて、試着の代わりに返品を受け入れられる人だけ買う価値あり。",
           "買う前に試着したい人：向きません。"
         ],
-        "emphasis": "私の場合なら、基本のTシャツは買います。ウールのコートは見送ります。"
+        "emphasis": "私なら寸法と総額が合えば基本のTシャツから見ます。コートは裏地なし・ドライクリーニングのみという説明から、もっと慎重に考えます。送料をなくすだけのためにTシャツを追加しません。"
       },
       {
         "heading": "よくある質問",
         "bullets": [
           "SHEINは買う価値がある？サイズがわかっていて、届くまで待てる商品なら買う価値があります。「向いている人」の章に、買うべき場合と見送るべき場合が書かれています。",
           "SHEINで高い服を買う価値はある？サイズがわかっていて、試着の代わりに返品を受け入れられる人だけです。",
-          "SHEINはまだ買う価値がある？はい、送料無料ラインを超える注文なら。それ以外は、配送日数と商品説明で決まります。",
+          "SHEINはまだ買う価値がある？ 商品、送料・税金込みの総額、寸法、配送、返品によります。送料無料ラインだけでは決まりません。",
           "SHEINでサイズを交換できる？国によって違います。交換と返品のポリシーは、SHEINのヘルプセンターにあります。",
           "4CW5Yで割引になる？なりません。紹介コードで、アプリで検索して使うものです。クーポンではなく、ほかの割引との併用もできません。"
         ]
@@ -181768,11 +181768,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "サイズをセンチで把握していて、商品ページに出る配送日数を待てる。",
-        "どのみち買う基本のアイテムをまとめて注文し、送料無料ラインを超える。",
+        "必要な服を買い、送料・税金込みの総額にも納得でき、送料無料のために点数を増やしません。",
         "商品説明に素材、裏地、洗濯方法が書いてあり、どれも驚きにならない。"
       ],
       "skipIf": [
-        "日付までに届く必要があるのに、現地発送ではない。注文処理と配送を合わせて1週間に収まることは、あまりありません。",
+        "決まった日に必要な服で、配送予定から試着や代替品の準備までの余裕がない場合。現地発送も期日どおりの到着を保証しません。",
         "買う前に試着が必要。合わなければ返品になる。",
         "高価な服なのに、洗濯方法と裏地を確認していない。ドライクリーニングのみで裏地がないコートは、欲しいものが決まっている人の買い物です。"
       ]
@@ -181845,23 +181845,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "什麼時候划算，什麼時候不划算",
         "paragraphs": [
-          "三件事同時成立，就值得買：你知道尺碼、不急著要，訂單金額能達到店家免運的門檻。SHEIN 的商品數量很多，價格也低，代價是得花時間和心力看商品說明。跨境訂單光是從倉庫出貨就要幾天，之後才開始配送。衣服送到前沒辦法試穿，如果不合身，就要照幫助中心說明的退貨流程辦理。",
+          "需要這件衣服、能判斷尺寸與說明，且接受運送與退貨條件時，才值得考慮。比較含運費與稅金的總額，不只看標價。免運不會讓每筆購買都划算，也不是多買不需要衣物的理由。",
           "適合的情況：你平常一定會買的基本款，例如 T恤、緊身褲或睡衣，以及還有一個月時間的場合服飾。不適合的情況：下週就要的禮物、日期已定的活動服裝，以及任何貴到需要先穿在身上看過才決定的單品。",
-          "決定應該在商品頁面、加入購物車前完成。運送方式、預計送達時間與材質都在那裡。結帳頁面只是再確認一次你早就該知道的內容。"
+          "先在商品頁看運送、材質與尺寸，再於付款前確認地址、運費、預計時間與含稅總額；這些仍可能改變購買決定。"
         ]
       },
       {
         "heading": "運送：要等多久",
         "paragraphs": [
-          "確切的時間在加入購物車前的商品頁面上，會因地址而不同。如果衣服有日期要求，就把頁面上最長的時間再加一週，讓退貨不會變得手忙腳亂。",
-          "不適合的情況：要送禮、而且日期已定的訂單，因為預計時間可能延後。"
+          "請看地址與所選尺寸的最終預計送達時間。把最晚日期與活動比較，保留試穿或找替代品的時間。只有明說不含處理時間時，才另加處理天數。當地出貨也可能延誤，跨境出貨並非一定不適合。沒有延誤餘裕，就不要依賴此訂單。",
+          "不適合的情況：日期已定的禮物或衣服，而最晚預計日期之後沒有承受延誤的餘裕。"
         ]
       },
       {
         "heading": "退貨",
         "paragraphs": [
           "你所在國家的退貨政策，寫在 SHEIN 幫助中心。下單前請先讀，因為期限、費用和不能退的商品，都會影響划不划算。",
-          "如果你習慣像逛實體店一樣，在家試穿再決定，那這種方式不太適合。這裡代替試穿的是尺寸，下一章會說明。"
+          "尺寸有助降低風險，但不能取代試穿。想在家試穿再下單前，先確認該商品能否退貨、費用與期限。"
         ],
         "images": [
           {
@@ -181876,7 +181876,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "尺碼：看公分，不看字母",
         "paragraphs": [
-          "SHEIN 的 M 不一定是你的 M。每件商品都有自己的公分尺碼表，決定尺碼的是尺碼表，不是字母。經驗法則（未經我們實測）：把一件你穿起來很合身的衣服平放量尺寸，和商品尺碼表上的數字比較。兩件衣服的差距，就是你喜歡的版型。如果表上標的是人體尺寸，就和你自己的身體尺寸比較。沒有公分尺碼表的商品就別買。各類衣服怎麼量，以及怎麼看每件商品的尺碼表，請看 [SHEIN 尺碼指南](/zh-hant/reviews/shein-size-guide-zh-hant)。"
+          "同樣的 M，不同商品也可能不同。經驗法則（未經我們實測）：先確認表格是身體尺寸還是衣服尺寸。身體表與身體比較；衣服尺寸則可用合身衣物，以相同方法測量後比較。兩件衣服的差距，不是衣服與身體之間的寬鬆量。沒有公分尺碼表的商品就別買。類型不清楚時，購買前先確認。詳見 [SHEIN 尺碼指南](/zh-hant/reviews/shein-size-guide-zh-hant)。"
         ]
       },
       {
@@ -181902,20 +181902,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "適合哪些人",
         "bullets": [
-          "每天穿的基本款，例如 T恤、緊身褲、襪子：訂單超過免運門檻，就值得買。",
+          "基本款請比較真正需要商品的含運、含稅總額。超過免運門檻本身不代表划算。",
           "還有一個月時間的場合服飾：看過商品說明與尺碼表再買，就值得。",
-          "有日期要求的人：沒有當地出貨就別買。",
+          "有日期要求時，只有預計時間和試穿餘裕相容才考慮下單；當地出貨不保證準時。",
           "貴的羊毛或訂製剪裁單品：只適合已經知道尺寸，並且願意用退貨代替試穿的人。",
           "下單前一定要試穿的人：不適合。"
         ],
-        "emphasis": "如果是我，會買基本款的 T恤，羊毛大衣就留在店裡。"
+        "emphasis": "如果是我，尺寸和總額合適才會先看基本T恤。大衣的說明寫了無內裡、只能乾洗，我會更謹慎。不會只為免運多放一件T恤。"
       },
       {
         "heading": "常見問題",
         "bullets": [
           "SHEIN 值得買嗎？如果你知道尺碼，又能等待運送，就值得。“適合哪些人”一章會說明哪些買了划算，哪些不划算。",
           "在 SHEIN 買貴的衣服值得嗎？只適合已經知道尺寸，並且願意用退貨代替試穿的人。",
-          "SHEIN 還值得買嗎？值得，前提是訂單超過免運門檻；其他情況，要看運送時間和商品說明。",
+          "SHEIN還值得買嗎？要看商品、含運含稅總額、尺寸、運送和退貨。免運門檻本身不能決定。",
           "SHEIN 可以換尺寸嗎？要看國家。各地的退換貨政策，都寫在 SHEIN 幫助中心。",
           "4CW5Y 能在 SHEIN 打折嗎？不能。它是推薦碼，要在 App 搜尋，不是優惠券，也不能和其他優惠併用。"
         ]
@@ -181924,11 +181924,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "你知道衣服的公分尺碼，也能等待商品頁面上顯示的運送時間。",
-        "買的是你本來就會買的基本款，訂單超過免運門檻。",
+        "買的是需要的衣物，含運含稅總額也合理；不只為免運增加件數。",
         "商品說明寫了材質、內裡與洗滌方式，對你來說沒有意外。"
       ],
       "skipIf": [
-        "日期前一定要送到，卻沒有當地出貨。下單處理加上運送，一週內很少能完成。",
+        "需要在固定日期穿到，但預計送達時間沒有留下試穿或尋找替代品的餘裕。當地出貨也不保證準時。",
         "買之前必須試穿，不合身就得退貨。",
         "是貴的單品，但你沒有看洗滌方式和內裡。只能乾洗又沒有內裡的大衣，只適合早就知道自己要什麼的人。"
       ]
@@ -182001,23 +182001,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "什么时候划算，什么时候不划算",
         "paragraphs": [
-          "三件事同时成立，就值得买：你知道尺码，不着急，订单金额能达到店铺包邮的门槛。SHEIN 的商品很多，价格也低，代价是要花时间和精力看商品说明。跨境订单光是从仓库发出就要几天，之后才开始配送。衣服送到前没法试穿，如果不合身，就要按帮助中心说明的退货流程办理。",
+          "需要这件衣服、能判断尺寸与说明，并接受配送和退货条件时，才值得考虑。比较含运费与税费的总额，不只看标价。包邮不会使每笔购买都划算，也不是多买不需要衣物的理由。",
           "适合的情况：你平时一定会买的基本款，例如 T恤、紧身裤或睡衣，以及还有一个月时间的场合服装。不适合的情况：下周就要的礼物、日期已定的活动服装，以及任何贵到需要先穿上身才能决定的单品。",
-          "决定应该在商品页面、加入购物车之前完成。配送方式、预计送达时间和材质都在那里。结账页面只是再确认一遍你早就该知道的内容。"
+          "先在商品页看配送、材质和尺寸，再于付款前确认地址、运费、预计时间与含税总额；这些仍可能改变购买决定。"
         ]
       },
       {
         "heading": "配送：要等多久",
         "paragraphs": [
-          "准确的时间在加入购物车前的商品页面上，会随地址变化。如果衣服有日期要求，就把页面上最长的时间再加一周，让退货不会变得手忙脚乱。",
-          "不适合的情况：送礼且日期已定的订单，因为预计时间可能延后。"
+          "请看地址与所选尺码的最终预计送达时间。把最晚日期与活动比较，保留试穿或找替代品的时间。只有明说不含处理时间时，才另加处理天数。当地发货也可能延误，跨境发货并非一定不适合。没有延误余地，就不要依赖此订单。",
+          "不适合的情况：日期已定的礼物或衣服，而最晚预计日期之后没有承受延误的余地。"
         ]
       },
       {
         "heading": "退货",
         "paragraphs": [
           "你所在国家的退货政策，写在 SHEIN 帮助中心。下单前请先读，因为期限、费用和不能退的商品，都会影响划不划算。",
-          "如果你习惯像逛实体店那样在家试穿再决定，那 SHEIN 不太适合你。这里代替试穿的是尺码，下一章会讲。"
+          "尺寸有助降低风险，但不能代替试穿。想在家试穿再下单前，先确认该商品能否退货、费用和期限。"
         ],
         "images": [
           {
@@ -182032,7 +182032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "尺码：看厘米，不看字母",
         "paragraphs": [
-          "SHEIN 的 M 不一定是你的 M。每件商品都有自己的厘米尺码表，决定尺码的是尺码表，不是字母。经验法则（未经我们实测）：把一件你穿着很合身的衣服平放量尺寸，和商品尺码表上的数字比较。两件衣服的差距，就是你喜欢的版型。如果表上标的是人体尺寸，就和你自己的身体尺寸比较。没有厘米尺码表的商品就别买。各类衣服怎么量，以及怎么看每件商品的尺码表，请看 [SHEIN 尺码指南](/zh-hans/reviews/shein-size-guide-zh-hans)。"
+          "同样的 M，不同商品也可能不同。经验法则（未经我们实测）：先确认表格是身体尺寸还是衣服尺寸。身体表与身体比较；衣服尺寸则可用合身衣物，以相同方法测量后比较。两件衣服的差距，不是衣服与身体之间的宽松量。没有厘米尺码表的商品就别买。类型不清楚时，购买前先确认。详见 [SHEIN 尺码指南](/zh-hans/reviews/shein-size-guide-zh-hans)。"
         ]
       },
       {
@@ -182058,20 +182058,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "适合哪些人",
         "bullets": [
-          "每天穿的基本款，例如 T恤、紧身裤、袜子：订单超过包邮门槛，就值得买。",
+          "基本款请比较真正需要商品的含运费、含税总额。超过包邮门槛本身不代表划算。",
           "还有一个月时间的场合服装：看过商品说明和尺码表再买，就值得。",
-          "有日期要求的人：没有当地发货就别买。",
+          "有日期要求时，只有预计时间和试穿余地相容才考虑下单；当地发货不保证准时。",
           "贵的羊毛或定制剪裁单品：只适合已经知道尺码，并且愿意用退货代替试穿的人。",
           "下单前一定要试穿的人：不适合。"
         ],
-        "emphasis": "如果是我，会买基本款的 T恤，羊毛大衣就留在店里。"
+        "emphasis": "如果是我，尺寸和总额合适才会先看基本T恤。大衣说明写了无内里、只能干洗，我会更谨慎。不会只为包邮多放一件T恤。"
       },
       {
         "heading": "常见问题",
         "bullets": [
           "SHEIN 值得买吗？如果你知道尺码，又能等待配送，就值得。“适合哪些人”一章会说明哪些买了划算，哪些不划算。",
           "在 SHEIN 买贵的衣服值得吗？只适合已经知道尺码，并且愿意用退货代替试穿的人。",
-          "SHEIN 还值得买吗？值得，前提是订单超过包邮门槛；其他情况要看配送时间和商品说明。",
+          "SHEIN还值得买吗？要看商品、含运费含税总额、尺寸、配送与退货。包邮门槛本身不能决定。",
           "SHEIN 能换尺码吗？要看国家。各地的退换货政策，都写在 SHEIN 帮助中心。",
           "4CW5Y 能在 SHEIN 打折吗？不能。它是推荐码，要在 App 搜索，不是优惠券，也不能和其他优惠叠加。"
         ]
@@ -182080,11 +182080,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "你知道衣服的厘米尺码，也能等待商品页面上显示的配送时间。",
-        "买的是你本来就会买的基本款，订单超过包邮门槛。",
+        "买的是需要的衣物，含运费含税总额也合理；不只为包邮增加件数。",
         "商品说明写了材质、内里和洗涤方式，对你来说没有意外。"
       ],
       "skipIf": [
-        "日期前必须送到，却没有当地发货。下单处理加上配送，一周内很少能完成。",
+        "需要在固定日期穿到，但预计送达时间没有留下试穿或寻找替代品的余地。当地发货也不保证准时。",
         "买之前必须试穿，不合身就得退货。",
         "是贵的单品，但你没有看洗涤方式和内里。只能干洗又没有内里的大衣，只适合早就知道自己要什么的人。"
       ]

@@ -53,7 +53,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "A party dress on SHEIN comes down to three things: the occasion, the fabric and the arrival date. For Christmas and New Year's Eve, timing matters more than the style. For graduation and wedding guests, the doubts are about color, length and tone. Below, three dresses from the store with fabric, lining and rating."
+        "Start with the invitation’s dress code and the event date. Among these examples, Firerie has a one-shoulder tulle design; ADYCE has sequins and a slit; Via Vilarinho needs a length check because its title says short and its description says midi. Then compare size, lining and care."
       ]
     },
     {
@@ -111,7 +111,7 @@
           },
           {
             "piece": "Wedding guest",
-            "howTo": "By day, light fabric with closed shoes or low sandals; at night, long with heels. White is for the bride.",
+            "howTo": "Use the invitation’s dress code as your starting point. Choose fabric, length, shoes and color for the ceremony and the hosts’ request; the combinations below are styling suggestions.",
             "occasion": "Ceremony at a church or banquet hall, by day or at night.",
             "pairsWith": [
               {
@@ -267,11 +267,11 @@
     {
       "heading": "Size: use the garment's measurements",
       "paragraphs": [
-        "There is no single size chart: use the one for the dress you chose. SHEIN publishes a guide for each piece, in centimeters and inches, with how to measure.",
+        "Use the chosen dress’s chart and check whether it gives body or garment measurements. Follow that chart’s measuring instructions; do not treat those two types as identical or choose by the label alone.",
         "The Firerie describes itself as slim fit, which calls for more precise bust and waist measurements."
       ],
       "postParagraphs": [
-        "For plus sizes, the method is the same: compare the garment's measurements with yours, not the number on the label."
+        "For plus sizes, first check whether the chart gives body or garment measurements. Use a body chart for your body measurements; compare garment measurements with an item that fits well, allowing for fabric, cut and the ease you want. The label alone is not enough."
       ],
       "images": [
         {
@@ -293,9 +293,9 @@
       ]
     },
     {
-      "heading": "Timing: compare with the party date",
+      "heading": "Timing: compare the final arrival estimate with the party date",
       "paragraphs": [
-        "The order goes through processing before shipping. Compare the delivery estimate the order page shows with the party date, and leave some margin. If the estimate lands close to the party or past it, that dress is not the right buy for that date."
+        "Compare the final arrival estimate for your order with the party date and leave time to try the dress on. Do not add processing time to a final date automatically. Add it only if the store separates processing from transit and says processing is excluded from the estimate. If that is unclear, confirm before buying."
       ],
       "images": [
         {
@@ -344,7 +344,7 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Will a SHEIN party dress arrive in time for Christmas? It depends on the order date. Compare the delivery estimate on the page with the party date, and leave some margin.",
+        "Will a SHEIN party dress arrive in time for Christmas? There is no guarantee. Compare the final delivery estimate on the order page with the party date, and leave some margin to try it on. An estimate is not a delivery promise.",
         "How can I tell if the dress is long or midi? By the length the description states and by the measurement in centimeters in the piece's size guide.",
         "Can I use 4CW5Y to get a discount? No. It is a referral code: it gives no discount and is not a coupon."
       ]
@@ -352,8 +352,8 @@
   ],
   "decision": {
     "takeIf": [
-      "Take it if the delivery estimate on the order page arrives before the party date.",
-      "Take it if the description lists composition, lining and length in centimeters, and the garment's measurements match yours."
+      "Consider it if the final arrival estimate leaves time before the party to receive and try it on, without treating the estimate as a guarantee.",
+      "Take it if the description gives composition, lining and length, and the model-specific chart lets you choose the fit you want while distinguishing body from garment measurements."
     ],
     "skipIf": [
       "Skip it if the delivery estimate on the order page runs past the party date.",

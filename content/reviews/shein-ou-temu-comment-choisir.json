@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat. Temu publie le délai le plus long.",
+  "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat.",
   "metaDescription": "SHEIN ou Temu : livraison, délai et retours publiés en France, douane de 3 € de l'UE et points à vérifier avant d'acheter.",
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
@@ -33,7 +33,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend de ce que vous achetez et de l'importance du retour. Temu publie le délai le plus long, 90 jours après l'achat, alors que SHEIN compte à partir de la réception. Nous ne mesurons pas les prix et ne testons pas les livraisons. Le chapitre « Que choisir, selon votre achat » montre quoi vérifier dans chaque cas."
+        "Aucune boutique n'est la meilleure pour tout le monde : pour des vêtements, c'est le délai de retour dont vous avez besoin qui compte. Temu compte 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception pour la plupart des articles. Vérifiez les conditions de votre article et la date de livraison avant de payer."
       ]
     },
     {
@@ -110,7 +110,7 @@
       "heading": "Que choisir, selon votre achat",
       "emphasis": "Pour des vêtements que vous ne pouvez pas essayer, comparez le point de départ de chaque délai : Temu compte ses 90 jours depuis l'achat, SHEIN depuis la réception, et dans chaque boutique certains articles ont leurs propres conditions. Vérifiez celles de votre article avant de choisir.",
       "bullets": [
-        "**Vous voulez avoir de la marge pour retourner :** Temu, avec 90 jours après l'achat, ou SHEIN, avec la plupart des articles jusqu'à 30 jours après réception.",
+        "**Vous voulez du temps pour décider après réception :** le tableau indique 90 jours après l'achat chez Temu et jusqu'à 30 jours après réception pour la plupart des articles chez SHEIN. Vérifiez la date limite, l'éligibilité de l'article et les frais de retour.",
         "**Il vous faut l'article pour une date précise :** vérifiez le délai de livraison sur la page du produit ou dans votre commande.",
         "**La commande vient de l'étranger :** regardez sur la page de paiement le total avec les taxes.",
         "**Vous payez par carte, avec un portefeuille numérique ou en plusieurs fois :** consultez les moyens de paiement sur la page de paiement de chaque boutique."
@@ -145,7 +145,7 @@
         "Lequel est le moins cher, SHEIN ou Temu ? Cet article ne mesure pas les prix. Comparez le prix final de chaque article, avec la livraison et les taxes, au moment de payer dans chaque boutique.",
         "Lequel livre le plus vite, SHEIN ou Temu ? Cet article ne teste pas les livraisons. SHEIN publie 4 à 8 jours ouvrés pour la livraison Standard ; Temu indique le délai sur la page du produit (préparation en 1 à 3 jours). Vérifiez la date sur la page du produit et dans votre commande.",
         "SHEIN ou Temu : quelle différence ? Temu publie le délai le plus long, 90 jours après l'achat, tandis que SHEIN reprend la plupart des articles jusqu'à 30 jours après réception, donc les deux ne comptent pas à partir du même moment ; la livraison et les délais figurent dans le tableau ci-dessus.",
-        "SHEIN ou Temu pour des vêtements ? Pour des vêtements, pesez le retour et les conditions de votre article : Temu laisse 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception, pour la plupart des articles dans les deux cas ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
+        "SHEIN ou Temu pour des vêtements ? Vérifiez si l'article peut être retourné, jusqu'à quand et à quels frais. Temu laisse 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception, pour la plupart des articles ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
         "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
         "SHEIN et Temu sont-ils la même entreprise ? Non. Ce sont deux boutiques différentes, chacune avec ses propres règles d'expédition, de livraison et de retour.",
         "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília chez SHEIN, que l'on recherche dans la barre de recherche de la boutique."
@@ -153,7 +153,7 @@
     }
   ],
   "cta": {
-    "text": "Comparez le prix final, avec la livraison et les taxes, au moment de payer",
+    "text": "Si vous choisissez SHEIN, recherchez 4CW5Y dans l’application. Avant de payer, vérifiez le total avec la livraison et les taxes.",
     "label": "Aller sur SHEIN",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true

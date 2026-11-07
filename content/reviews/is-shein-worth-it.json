@@ -65,23 +65,23 @@
     {
       "heading": "When it pays off and when it doesn't",
       "paragraphs": [
-        "It pays off when three things are on your side: you know the size, you aren't in a hurry, and the order comes to an amount the store ships for free. SHEIN has a huge catalog and low prices, and that comes with a cost the page doesn't charge: time and attention to the description. An international order takes a few days just to leave the warehouse, and delivery comes after that. There is no trying it on first: if it doesn't fit, the way out is the return process the store describes in its help center.",
+        "It can make sense when you need the item, can assess its measurements and description, and accept the delivery and return conditions. Compare the total with shipping and taxes, not only the displayed price. Free shipping helps, but does not make every purchase good value or justify adding an unwanted item.",
         "For whom: the basic piece you always buy, like a T-shirt, leggings or pajamas, and an occasion piece with a month to spare. When not: a gift for next week, an outfit for an event with a fixed date, and any expensive piece you need to see on before deciding.",
-        "The decision is made on the product page, before the cart: that's where the shipping type, the delivery estimate and the material are. Checkout only confirms what you should already know."
+        "Read shipping details, materials and measurements on the product page. Then check the address, shipping charge, estimate and tax-inclusive total at checkout: those details can still change the decision before payment."
       ]
     },
     {
       "heading": "Delivery: how long to wait",
       "paragraphs": [
-        "The exact estimate is on the product page, before the cart, and changes with your address. For clothes needed by a date, add a week of slack to the longest time on the page, so a return doesn't turn into a rush.",
-        "When not: an order for a gift with a fixed day, because the estimate can slip."
+        "Use the final delivery estimate for your address and chosen size. Compare its latest date with the occasion and leave time to try the garment or find an alternative. Add processing time only if the estimate explicitly leaves it out. Local shipping can still be late; international shipping is not automatically unsuitable. If you cannot allow for delay, do not depend on this order.",
+        "When not: a gift or garment needed by a fixed date, when the latest estimated date leaves no margin for delay."
       ]
     },
     {
       "heading": "Returns",
       "paragraphs": [
         "The return policy for your country is in the SHEIN help center: read it before ordering, because the time limit, the cost and what can't be returned change the math.",
-        "Someone who buys to try on at home, as in a physical store, is not the profile here: the fitting room is the measurements, covered in the next section."
+        "Measurements can reduce the risk, but they do not replace trying a garment on. Before ordering to try at home, check whether the item is returnable and the applicable costs and time limit."
       ],
       "images": [
         {
@@ -96,7 +96,7 @@
     {
       "heading": "Size: the measurements, not the letter",
       "paragraphs": [
-        "SHEIN's M isn't your M: each piece has its own size guide in centimeters, and that is what decides, not the letter. Rule of thumb, not tested by us: measure a garment you own that fits you well, lying flat, and compare it with the garment measurement in the piece's guide; the difference between the two garments is the fit you like. If the table shown is a body chart, compare it with your body measurements instead. A piece without a guide in centimeters is one to skip. What to measure for each type of garment, and how to read each product's guide, is in the [SHEIN size guide](/en/reviews/shein-size-guide)."
+        "A piece's M may differ from another. Rule of thumb, not tested by us: first check whether the guide lists body or garment measurements. Compare a body chart with your body; garment measurements can be compared with a well-fitting garment, using the same method. The difference between two garments is not the ease between clothing and body. A piece without a guide in centimeters is one to skip. If the measurement type is unclear, check before buying. See the [SHEIN size guide](/en/reviews/shein-size-guide)."
       ]
     },
     {
@@ -122,20 +122,20 @@
     {
       "heading": "Who it's worth it for",
       "bullets": [
-        "For everyday basics, like T-shirts, leggings and socks: worth it, on an order that clears the free-shipping minimum.",
+        "For everyday basics, compare the total for items you actually need, with shipping and taxes. Clearing a free-shipping threshold is not enough to make buying worthwhile.",
         "For an occasion piece with a month to spare: worth it, if you read the description and the piece's size guide.",
-        "For anyone with a fixed date: no local shipping, so skip it.",
+        "For a fixed date, skip it unless the estimate leaves room to try it on or find an alternative.",
         "For an expensive piece, wool or tailoring: worth it only for someone who already knows their size and accepts returning it instead of trying it on.",
         "For anyone who needs to try it on first: no."
       ],
-      "emphasis": "If it were for my own home, I'd take the basic T-shirt; I'd leave the wool coat on the rack."
+      "emphasis": "For myself, I would start with the basic T-shirt if its measurements and total suited the purchase. I would be more cautious with the coat: its description says no lining and dry-clean only. I would not add another T-shirt just to remove shipping."
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
         "Is SHEIN worth it? Yes, for a piece whose size you know and that can wait; the section “Who it's worth it for” says which purchases make sense and which don't.",
         "Is SHEIN worth it for expensive clothes? Only for someone who already knows their size and accepts returning instead of trying on.",
-        "Is SHEIN still worth it? Yes, for an order that clears the free-shipping minimum; otherwise, the delivery time and the piece's description decide.",
+        "Is SHEIN still worth it? It depends on the item and total with shipping and taxes, as well as measurements, delivery and returns. A free-shipping threshold alone does not decide it.",
         "Can you exchange sizes at SHEIN? It depends on the country: the return and exchange policy for each one is in the SHEIN help center.",
         "Does the 4CW5Y give a discount at SHEIN? No: it's a referral code, searched for in the app. It's not a coupon and doesn't stack with anything."
       ]
@@ -144,11 +144,11 @@
   "decision": {
     "takeIf": [
       "You already know the piece's size in centimeters and can wait for the delivery the product page shows.",
-      "The order gathers basics you would buy anyway and clears the free-shipping minimum.",
+      "You need the items and the total with shipping and taxes still makes sense; you are not adding items only to reach free shipping.",
       "The description gives the material, lining and washing, and none of that is a surprise for you."
     ],
     "skipIf": [
-      "The piece has to arrive on a fixed date and has no local shipping: processing and delivery rarely fit into a week.",
+      "If you need the item for a fixed date and the delivery estimate leaves no time to try it on or find an alternative.",
       "You need to try it on before buying: if it doesn't fit, the way out is the return.",
       "The piece is expensive and you haven't read the washing and lining: a coat that is dry-clean only and has no lining is only for someone who already knows what they want."
     ]

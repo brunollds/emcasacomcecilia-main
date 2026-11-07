@@ -53,7 +53,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Une robe de soirée sur SHEIN se choisit selon trois critères : l'occasion, le tissu et la date d'arrivée. Pour Noël et le réveillon, le délai compte plus que le modèle. Pour une remise de diplôme ou un mariage en tant qu'invitée, le doute porte sur la couleur, la longueur et le ton. Ci-dessous, trois robes de la boutique avec tissu, doublure et note."
+        "Partez de la tenue demandée sur l’invitation et de la date. Parmi ces exemples, Firerie propose un modèle à une épaule en tulle ; ADYCE, des sequins et une fente ; Via Vilarinho demande de vérifier la longueur, car le titre dit court et la description midi. Comparez ensuite taille, doublure et entretien."
       ]
     },
     {
@@ -111,7 +111,7 @@
           },
           {
             "piece": "Invitée de mariage",
-            "howTo": "En journée, tissu léger avec des chaussures fermées ou des sandales plates ; le soir, longue avec des talons. Le blanc est réservé à la mariée.",
+            "howTo": "Prenez pour référence la tenue indiquée sur l’invitation. Tissu, longueur, chaussures et couleur doivent convenir à la cérémonie et à la demande des hôtes ; les associations sont des suggestions de style.",
             "occasion": "Cérémonie à l'église ou en salle, de jour ou de soir.",
             "pairsWith": [
               {
@@ -267,11 +267,11 @@
     {
       "heading": "Taille : fiez-vous aux mesures de la pièce",
       "paragraphs": [
-        "Il n'existe pas de tableau de tailles unique : utilisez celui de la robe que vous avez choisie. SHEIN publie le guide de chaque pièce, en centimètres et en pouces, avec la façon de se mesurer.",
+        "Utilisez le tableau de la robe choisie et vérifiez s’il donne les mesures du corps ou du vêtement. Suivez sa méthode ; ne considérez pas ces deux mesures comme identiques et ne choisissez pas sur la seule étiquette.",
         "La Firerie se décrit comme slim fit, ce qui demande des mesures plus précises pour la poitrine et la taille."
       ],
       "postParagraphs": [
-        "Pour les grandes tailles, la méthode est la même : comparez les mesures de la pièce aux vôtres, pas le chiffre de l'étiquette."
+        "Pour les grandes tailles, vérifiez d’abord si le tableau indique des mensurations corporelles ou les dimensions du vêtement. Comparez votre corps à un tableau corporel ; pour le vêtement, utilisez une pièce qui vous va bien et tenez compte du tissu, de la coupe et de l’aisance souhaitée. L’étiquette seule ne suffit pas."
       ],
       "images": [
         {
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "heading": "Délai : comparez avec la date de la fête",
+      "heading": "Délai : comparez l’estimation finale avec la date de la fête",
       "paragraphs": [
         "La commande passe par le traitement avant l'expédition. Comparez la livraison prévue indiquée sur la page de la commande avec la date de la fête, en gardant une marge. Si la prévision tombe près de la fête ou après, cette robe n'est pas le bon achat pour cette date."
       ],
@@ -344,7 +344,7 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Une robe de soirée SHEIN arrive-t-elle à temps pour Noël ? Cela dépend de la date de commande. Comparez la livraison prévue indiquée sur la page avec la date de la fête, en gardant une marge.",
+        "Une robe de soirée SHEIN arrive-t-elle à temps pour Noël ? Cela dépend de la date de commande et ce n’est pas garanti. Comparez l’estimation finale indiquée sur la page avec la date de la fête, en gardant une marge pour l’essayage. Une estimation n’est pas une promesse de livraison.",
         "Comment savoir si la robe est longue ou midi ? Par la longueur que déclare la description et par la mesure en centimètres du guide des tailles de la pièce.",
         "Peut-on utiliser le 4CW5Y pour obtenir une réduction ? Non. C'est un code de parrainage : il ne donne aucune réduction et n'est pas un coupon."
       ]
@@ -352,8 +352,8 @@
   ],
   "decision": {
     "takeIf": [
-      "À prendre si la livraison prévue sur la page de la commande arrive avant la date de la fête.",
-      "À prendre si la description indique la composition, la doublure et la longueur en centimètres, et que les mesures de la pièce correspondent aux vôtres."
+      "À envisager si l’estimation finale laisse du temps avant la fête pour recevoir et essayer la robe, sans la prendre pour une garantie.",
+      "À prendre si la description précise composition, doublure et longueur, et si le tableau du modèle permet de choisir l’ajustement souhaité en distinguant mensurations corporelles et dimensions du vêtement."
     ],
     "skipIf": [
       "À éviter si la livraison prévue sur la page de la commande dépasse la date de la fête.",
