@@ -157887,7 +157887,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Hostinger Reach compensa para quem já tem site na Hostinger e uma lista de até 1.000 destinatários: o preço publicado fica abaixo do Mailchimp e do Brevo pagos. Quem está começando sem verba pode usar o plano grátis do Mailchimp ou do Brevo antes. O que decide é o limite de envio e o WhatsApp, no quadro abaixo."
+          "O Hostinger Reach compensa para quem já tem site na Hostinger e uma lista de até 1.000 destinatários: o preço fica abaixo do Mailchimp e do Brevo pagos. Quem começa sem verba pode usar antes o plano grátis de um deles. O limite de envio e o WhatsApp decidem; o SONAR20 dá 20% no primeiro período, só em compra nova."
         ]
       },
       {
@@ -158173,7 +158173,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Reach is worth it for anyone who already has a site on Hostinger and a list of up to 1,000 recipients. Anyone starting with no budget can use the free plan of Mailchimp or Brevo first. What decides it is the sending limit and WhatsApp, in the chart below."
+          "Reach is worth it for anyone who already has a site on Hostinger and a list of up to 1,000 recipients. Anyone starting with no budget can use the free plan of Mailchimp or Brevo first. The sending limit and WhatsApp decide; SONAR20 gives 20% on the first period of a new purchase."
         ]
       },
       {
@@ -158427,7 +158427,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Reach compensa a quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. Quien empieza sin presupuesto puede usar antes el plan gratis de Mailchimp o de Brevo. Lo que decide es el límite de envío y el WhatsApp, en el cuadro de abajo."
+          "Reach compensa a quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. Quien empieza sin presupuesto puede usar antes el plan gratis de Mailchimp o de Brevo. Deciden el límite de envío y el WhatsApp; SONAR20 da 20% en el primer periodo de una compra nueva."
         ]
       },
       {
@@ -158681,7 +158681,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Qui débute sans budget peut d'abord utiliser le forfait gratuit de Mailchimp ou de Brevo. Ce qui tranche, c'est la limite d'envoi et WhatsApp, dans le tableau ci-dessous."
+          "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Qui débute sans budget peut d'abord utiliser le forfait gratuit de Mailchimp ou de Brevo. La limite d'envoi et WhatsApp tranchent ; SONAR20 donne 20 % sur la première période d'un nouvel achat."
         ]
       },
       {
@@ -158935,7 +158935,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Reach conviene a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Chi parte senza budget può usare prima il piano gratuito di Mailchimp o di Brevo. A decidere sono il limite di invio e WhatsApp, nel quadro qui sotto."
+          "Reach conviene a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Chi parte senza budget può usare prima il piano gratuito di Mailchimp o di Brevo. Decidono il limite di invio e WhatsApp; SONAR20 dà il 20% sul primo periodo di un nuovo acquisto."
         ]
       },
       {
@@ -159192,7 +159192,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Reach lohnt sich für alle, die schon eine Website bei Hostinger und eine Liste mit bis zu 1.000 Empfängern haben. Wer ohne Budget startet, kann zuerst den kostenlosen Tarif von Mailchimp oder Brevo nutzen. Entscheidend sind das Versandlimit und WhatsApp, in der Tabelle unten."
+          "Reach lohnt sich für alle, die schon eine Website bei Hostinger und eine Liste mit bis zu 1.000 Empfängern haben. Wer ohne Budget startet, kann zuerst den kostenlosen Tarif von Mailchimp oder Brevo nutzen. Versandlimit und WhatsApp entscheiden; SONAR20 gibt 20 % auf den ersten Zeitraum eines Neukaufs."
         ]
       },
       {
@@ -159449,7 +159449,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Hostinger のサイトをすでにお持ちで、宛先が1,000件までなら Reach が合っています。予算をかけずに始めるなら、先に Mailchimp か Brevo の無料プランを使うのも手です。決め手は送信上限と WhatsApp で、下の表にまとめました。"
+          "Hostinger のサイトをすでにお持ちで、宛先が1,000件までなら Reach が合っています。予算をかけずに始めるなら、先に Mailchimp か Brevo の無料プランを使うのも手です。決め手は送信上限と WhatsApp で、SONAR20 は新規購入の最初の期間が 20% 割引です。"
         ]
       },
       {
@@ -159705,7 +159705,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면 Reach가 맞습니다. 예산 없이 시작한다면 Mailchimp나 Brevo의 무료 플랜이 먼저입니다. 결정은 발송 한도와 WhatsApp이 합니다. 아래 표를 보세요."
+          "Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면 Reach가 맞습니다. 예산 없이 시작한다면 Mailchimp나 Brevo의 무료 플랜이 먼저입니다. 결정은 발송 한도와 WhatsApp이 하고, SONAR20은 신규 구매의 첫 기간에 20% 할인됩니다."
         ]
       },
       {
@@ -159962,7 +159962,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已在 Hostinger 有网站，且收件人在 1,000 人以内，Reach 值得用。刚开始、没有预算的话，可以先用 Mailchimp 或 Brevo 的免费版。真正决定选择的是发送上限和 WhatsApp，见下表。"
+          "如果你已在 Hostinger 有网站，且收件人在 1,000 人以内，Reach 值得用。刚开始、没有预算的话，可以先用 Mailchimp 或 Brevo 的免费版。决定选择的是发送上限和 WhatsApp，SONAR20 对新购的首个周期减 20%。"
         ]
       },
       {
@@ -160219,7 +160219,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，Reach 值得用。剛開始、沒有預算的話，可以先用 Mailchimp 或 Brevo 的免費版。真正決定選擇的是寄送上限和 WhatsApp，見下表。"
+          "如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，Reach 值得用。剛開始、沒有預算的話，可以先用 Mailchimp 或 Brevo 的免費版。決定選擇的是寄送上限和 WhatsApp，SONAR20 對新購的首個週期減 20%。"
         ]
       },
       {
