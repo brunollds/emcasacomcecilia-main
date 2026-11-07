@@ -29061,7 +29061,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Poltrona Damie 2.0 é boa? Nosso veredito",
         "paragraphs": [
-          "O nosso veredito é que a Damie 2.0 entrega conforto ergonômico e recursos elétricos sob medida na categoria de alto padrão. Em nosso uso diário, a mecânica elétrica com giro e balanço operou de forma discreta e suave, e a massagem foi a favorita da Cecília.",
+          "Para nós, sim: a Damie 2.0 entrega conforto e recursos elétricos sob medida na categoria de alto padrão. No nosso uso diário, a mecânica elétrica com giro e balanço foi discreta e suave, e a massagem foi a favorita da Cecília.",
           "Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos. Eles encarecem o produto, e a poltrona precisa de uma tomada por perto.",
           "O uso até aqui é de poucas semanas: a durabilidade de longo prazo ainda será acompanhada."
         ]
@@ -29167,7 +29167,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que eu observaria de novo antes de comprar",
         "paragraphs": [
           "Primeiro: medir o acesso completo antes de fechar. Porta, corredor, elevador. Os módulos chegam em caixas, mas as caixas também têm tamanho: não assuma que \"na caixa cabe em qualquer lugar\" sem checar. Meça também o espaço de montagem: o sofá pronto tem 260 x 86 x 92 cm, pelo esquema técnico da Damie. A gente teve sorte porque as caixas passaram, mas se o elevador fosse dois centímetros mais estreito, a história seria outra.",
-          "Segundo: escolher o revestimento pela rotina da casa. Azul Denim é a cor; confira qual material acompanha a versão escolhida e os cuidados que ele pede. Criança, pet, calor e frequência de limpeza entram nessa decisão. Se puder, compare amostras antes de fechar pela foto.",
+          "Segundo: escolher o revestimento pela rotina da casa. O nosso é azul denim; confira qual material acompanha a versão escolhida e os cuidados que ele pede. Criança, pet, calor e frequência de limpeza entram nessa decisão. Se puder, compare amostras antes de fechar pela foto.",
           "Terceiro: confirmar as condições do teste em casa para o sofá que você vai comprar. A Damie descreve o teste como 30 dias de uso em casa: o produto precisa voltar completo, na embalagem original e sem sinais de uso severo, e o pedido é feito pelo WhatsApp com nome completo e nota fiscal. Guarde a caixa até o fim do prazo; antes de descartá-la, confirme por escrito com a marca o procedimento do seu modelo. Eu não precisei devolver, mas saber disso deixou a decisão mais leve.",
           "Quarto: pensar em mudanças futuras. Reorganizar os módulos que você já tem pode acompanhar outra disposição da sala. Se quiser ampliar o sofá depois, confirme com a Damie a compatibilidade e a disponibilidade de módulos para esta versão antes de contar com essa compra."
         ]
@@ -31518,7 +31518,7 @@ export const reviewsData: unknown[] = [
     "title": "Damie no Reclame Aqui: o que os dados mostram antes de você comprar",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
-    "description": "Damie Móveis no Reclame Aqui: nota 7,9 e reputação Boa nos últimos seis meses do painel. Veja os índices e o que conferir antes de comprar.",
+    "description": "Damie Móveis no Reclame Aqui: nota 7,9 e reputação Boa nos últimos seis meses do painel. Veja os índices, o problema mais citado e o que conferir antes de comprar.",
     "publishedAt": "20 Jun 2026",
     "publishedAtISO": "2026-06-20",
     "image": "/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
@@ -32971,7 +32971,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Base giratória 360° e formato arredondado são os principais diferenciais da Moon.",
         "imageFit": "portrait",
         "paragraphs": [
-          "O conjunto da Moon é formato arredondado, revestimento com textura e base giratória de 360° em preto fosco. O giro permite mudar a direção do assento sem reposicionar a poltrona no chão.",
+          "O conjunto da Moon combina formato arredondado, revestimento com textura e base giratória de 360° em preto fosco. O giro permite mudar a direção do assento sem reposicionar a poltrona no chão.",
           "Essa rotação faz diferença no uso real. Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel. É um detalhe simples, mas que muda a relação da peça com o espaço."
         ]
       },
@@ -33454,7 +33454,7 @@ export const reviewsData: unknown[] = [
           "Compra mínima não atingida: O valor dos produtos no carrinho deve ser de no mínimo R$ 100.",
           "Carrinho vazio: Adicione pelo menos um produto ao carrinho antes de aplicar o cupom.",
           "Kit ou combo com regra própria: o CECI soma com as promoções, mas, se algum kit não aceitar o cupom, o resumo do carrinho mostra; teste o carrinho sem ele.",
-          "Validade da campanha: confira as condições e o registro de verificação mais recente na página do cupom. A reconfirmação mensal não dispensa conferir a aceitação do CECI no resumo do pedido.",
+          "Validade da campanha: confira as condições na página do cupom e a aceitação do CECI no resumo do pedido.",
           "Problema técnico: limpe o cache do navegador, tente outro navegador ou o app oficial, ou entre em contato com o suporte da NESCAFÉ."
         ]
       },
@@ -33578,7 +33578,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Passo a passo para cadastrar seus códigos",
         "paragraphs": [
-          "O registro dos pontos no programa varia conforme o sistema da sua cafeteira:"
+          "O registro dos pontos varia conforme o sistema da sua cafeteira. Na Geração 1, você digita o código de cada caixa; na NEO, os pontos entram pelo aplicativo, como no último passo:"
         ],
         "bullets": [
           "Acesse a sua conta oficial no site da Dolce Gusto com seu login e senha.",
@@ -34113,7 +34113,7 @@ export const reviewsData: unknown[] = [
         "heading": "Introdução",
         "paragraphs": [
           "Antes de comprar travesseiro ou roupa de cama, confira as medidas do produto, a altura desejada e as condições de entrega e troca.",
-          "Por isso, criamos uma parceria com a I Wanna Sleep e temos o cupom exclusivo CECIEMCASA, que dá 10% de desconto em todo o site. Preparei este guia passo a passo simples para você ver exatamente onde inserir o código no checkout e confirmar que o desconto foi aplicado antes de pagar, evitando surpresas."
+          "Criamos uma parceria com a I Wanna Sleep e temos o cupom exclusivo CECIEMCASA, que dá 10% de desconto em todo o site. Preparei este guia passo a passo simples para você ver exatamente onde inserir o código no checkout e confirmar que o desconto foi aplicado antes de pagar, evitando surpresas."
         ]
       },
       {
@@ -35055,7 +35055,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM): basta virar o cobertor para trocar de sensação.",
-          "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Não medimos com termômetro e ainda é cedo para falar de durabilidade.",
+          "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Ainda é cedo para falar de durabilidade.",
           "O cobertor Igloo tem tamanho casal ou queen? Sim, no tamanho Casal/Queen; há também King/Super King. As medidas e os pesos estão no capítulo Tamanhos disponíveis.",
           "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco, com secagem natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
@@ -35245,7 +35245,7 @@ export const reviewsData: unknown[] = [
           "Posso usar o cupom CECI em compras recorrentes ou assinatura? Não. Segundo a [página de assinaturas da Nestlé Nutre](https://www.nestlenutre.com.br/assinaturas), os cupons promocionais do site não valem em pedidos por assinatura. A assinatura tem desconto próprio: 10% nos três primeiros pedidos e 15% a partir do quarto pedido seguido. O CECI fica para a compra avulsa.",
           "Onde encontro o cupom Nestlé Nutren? O cupom CECI é o código de parceria do blog Em Casa com Cecília com a Nestlé Nutre: 10% OFF em produtos da loja oficial, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. A ficha atualizada fica na página de cupons do Em Casa com Cecília, e o código é aplicado no campo de cupom do checkout.",
           "Existe desconto de laboratório para produtos Nutren? O cupom CECI é um código de parceria para compras no site da loja. Condições para laboratórios, clínicas ou compras corporativas, se existirem, devem ser consultadas diretamente com a Nestlé Nutre; o atendimento da loja é 0800 770 2461, de segunda a sexta, das 8h às 17h, segundo o site da loja.",
-          "Existe o programa \"Nestlé meu desconto nutrição\"? Não encontramos um programa com esse nome. A Nestlé Nutre tem o Programa Nestlé Nutre, voltado a pacientes e cuidadores, que, segundo a página do programa, oferece conteúdos e serviços gratuitos e um cupom de 10% todo mês para usar na loja. É um benefício separado, com cadastro; o CECI é aplicado no campo de cupom do checkout.",
+          "Existe o programa \"Nestlé meu desconto nutrição\"? Não encontramos um programa com esse nome. A Nestlé Nutre tem o Programa Nestlé Nutre, voltado a pacientes e cuidadores, que, segundo a página do programa, oferece conteúdos e serviços gratuitos. É um benefício separado, com cadastro; o CECI é aplicado no campo de cupom do checkout.",
           "Como funciona o programa de desconto Nutren? O Programa de Assinaturas dá 10% nos três primeiros pedidos e 15% a partir do quarto pedido seguido. O cupom CECI é diferente: é aplicado no campo de cupom do checkout, na compra avulsa.",
           "O cupom Nestlé CECI vale para outros produtos da marca? O CECI foi cadastrado para a loja Nestlé Nutre (nestlenutre.com.br), exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Produtos Nestlé vendidos em outros sites, mercados ou farmácias não fazem parte da parceria.",
           "Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI dá 10% OFF em Nutren Senior e nos demais produtos elegíveis. Promoções pontuais podem aparecer no site oficial; confira no carrinho se o CECI soma com a oferta escolhida."
@@ -36730,9 +36730,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Quantos ml sai em cada nível?",
+        "heading": "Quantos ml saem em cada nível?",
         "paragraphs": [
-          "O painel mostra níveis, com os mesmos riscos da cápsula e da caixa, sem indicar ml. No manual impresso, encontramos uma referência de volume por nível, incluindo o XL; ela não substitui o volume e a indicação de preparo da cápsula escolhida.",
+          "O painel mostra níveis, com os mesmos riscos da cápsula e da caixa, sem indicar ml. O manual impresso traz uma referência de volume por nível, incluindo o XL; ela não substitui a indicação de preparo da cápsula escolhida.",
           "Como esse é um dado que vale um artigo à parte (inclusive porque encontramos informação incorreta sobre isso em outros sites), a tabela completa de ml por nível está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
         "bullets": []
@@ -39815,7 +39815,7 @@ export const reviewsData: unknown[] = [
         "heading": "Consulta à lista 'Evite Estes Sites' do Procon-SP",
         "paragraphs": [
           "Em 2025, segundo apuração da revista Exame, o Procon-SP abriu procedimento de investigação contra a Sofá na Caixa motivado pelo aumento de notificações por atrasos e pedidos não entregues.",
-          "Na versão pública da lista \"Evite Estes Sites\" consultada (atualizada em 12/05/2026), o domínio sofanacaixa.com.br e a empresa não constam. Isso não encerra as investigações nem garante uma compra sem problemas: a lista é outra consulta, separada das reclamações e da fiscalização."
+          "Na versão pública da lista \"Evite Estes Sites\" (atualizada em 12/05/2026), o domínio sofanacaixa.com.br e a empresa não constam. Isso não encerra as investigações nem garante uma compra sem problemas: a lista é outra consulta, separada das reclamações e da fiscalização."
         ],
         "bullets": [
           "Confira você mesmo a lista Evite Estes Sites e o painel Empresas Reclamadas antes de pagar, porque a situação muda."
@@ -39848,7 +39848,7 @@ export const reviewsData: unknown[] = [
           "A pesquisa \"Empresas Reclamadas\" quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista \"Evite Estes Sites\", que é uma consulta administrativa separada."
         ],
         "bullets": [
-          "Sofá na Caixa: 1.125 queixas registradas no painel do Procon-SP no momento da consulta histórica",
+          "Sofá na Caixa: 1.125 queixas registradas no painel do Procon-SP",
           "Damie: 6 queixas registradas no mesmo painel do órgão paulista"
         ],
         "images": [
@@ -41264,7 +41264,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "No Reclame Aqui, de abril a setembro, a loja online da I Wanna Sleep teve RA1000 e nota 8,5. Veja as queixas mais comuns antes de comprar.",
+    "description": "No Reclame Aqui, de abril a setembro, a loja online da I Wanna Sleep teve reputação RA1000 e nota 8,5. Veja as queixas mais comuns, como o atraso na entrega, antes de comprar.",
     "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF nos elegíveis: RA1000 e nota 8,5 entre abril e setembro.",
     "publishedAt": "24 de outubro de 2026",
     "publishedAtISO": "2026-10-24",
@@ -41272,7 +41272,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-capa-discover.webp",
-    "imageAlt": "Cobertores Huggy e Cozy da I Wanna Sleep em uso e o topo do perfil IWS - I wanna sleep (Loja Online) no Reclame Aqui em 24/10/2026, com reputação RA 1000",
+    "imageAlt": "Cobertores Huggy e Cozy da I Wanna Sleep em uso e o topo do perfil IWS - I wanna sleep (Loja Online) no Reclame Aqui em 24/10/2026, com reputação RA1000",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -41295,7 +41295,7 @@ export const reviewsData: unknown[] = [
         "heading": "Os dados atuais no Reclame Aqui",
         "paragraphs": [
           "Os números abaixo são do perfil da loja online (iwannasleep.com.br), o canal do site oficial, consultado em 24 de outubro de 2026, com dados de abril a setembro.",
-          "Na janela de abril a setembro de 2026, o perfil tinha RA 1000 e nota 8,5/10. Recebeu 189 reclamações, todas respondidas, e nenhuma aguardava resposta. Das 139 avaliadas por quem reclamou, a nota média foi 7,5, e 74,8% disseram que voltariam a fazer negócio. O tempo médio de resposta foi de 1 dia e 1 hora.",
+          "Na janela de abril a setembro de 2026, o perfil tinha RA1000 e nota 8,5/10. Recebeu 189 reclamações, todas respondidas, e nenhuma aguardava resposta. Das 139 avaliadas por quem reclamou, a nota média foi 7,5, e 74,8% disseram que voltariam a fazer negócio. O tempo médio de resposta foi de 1 dia e 1 hora.",
           "A loja aparece em 5º lugar no ranking da categoria Cama, mesa e banho do Reclame Aqui. O perfil reúne quem reclamou na plataforma, não todos os compradores. A nota é calculada em janela móvel e muda com o tempo, então confira o perfil no dia da compra."
         ],
         "bullets": [],
@@ -41313,7 +41313,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a reputação chegou ao RA1000",
         "paragraphs": [
-          "RA 1000 é o nível mais alto de reputação no Reclame Aqui e considera indicadores de resposta, solução e avaliação dos consumidores. No histórico de seis meses, a loja online aparecia como Boa de abril a julho, Ótima em agosto e RA 1000 em setembro."
+          "RA1000 é o nível mais alto de reputação no Reclame Aqui e considera indicadores de resposta, solução e avaliação dos consumidores. No histórico de seis meses, a loja online aparecia como Boa de abril a julho, Ótima em agosto e RA1000 em setembro."
         ],
         "bullets": []
       },
@@ -44368,7 +44368,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren, Growth, FTW e Lavitan: composição, porção e preço",
         "paragraphs": [
-          "A base comum da tabela é o custo por 100 g, porque a Growth usa porção de 5 g e a Nutren, de 3 g. Os preços vêm dos sites oficiais, consultados entre agosto e outubro de 2026. Nutren com o CECI e Growth no Pix ficam praticamente empatadas; o R$ 53,91 da Nutren é o preço de R$ 59,90 com 10% de desconto."
+          "A base comum da tabela é o custo por 100 g, porque a Growth usa porção de 5 g e a Nutren, de 3 g. Os preços são dos sites oficiais, entre agosto e outubro de 2026. Nutren com o CECI e Growth no Pix ficam praticamente empatadas; o R$ 53,91 da Nutren é o preço de R$ 59,90 com 10% de desconto."
         ],
         "comparisonTable": {
           "caption": "Comparação entre Nutren, Growth, FTW e Lavitan por composição, embalagem, porção, rendimento, preço e custo por 100 gramas",
@@ -44751,7 +44751,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa cada xícara?",
         "paragraphs": [
           "O preço por cápsula não basta para comparar: uma pode preparar espresso, outra uma caneca. Por isso a tabela separa o custo do espresso e a média por 100 ml.",
-          "Os preços são da amostra coletada no fim de agosto de 2026, com o Farmers Origins conferido em consulta posterior. A média simples considera apenas produtos com preço e volume identificáveis e mistura espressos, lungos, filtrados e cafés longos. Ela descreve essa amostra; confira o preço e o volume da bebida que você pretende tomar."
+          "Os preços são do fim de agosto de 2026; o do Farmers Origins é mais recente. A média simples considera apenas produtos com preço e volume identificáveis e mistura espressos, lungos, filtrados e cafés longos. Ela descreve essa amostra; confira o preço e o volume da bebida que você pretende tomar."
         ],
         "bullets": [
           "Dolce Gusto clássica: o espresso sai bem mais caro por 100 ml que a média da linha, porque as bebidas longas puxam a conta para baixo; os números estão na tabela acima.",
@@ -46165,7 +46165,7 @@ export const reviewsData: unknown[] = [
           "Compare esse acabamento com o fleece e a sherpa do Huggy. A preferência pelo toque é pessoal."
         ],
         "bullets": [
-          "Tamanhos consultados: Solteiro/Solteirão, 1,70 × 2,29 m; Casal/Queen, 2,20 × 2,40 m; King/Super King, 2,40 × 2,60 m.",
+          "Tamanhos da ficha: Solteiro/Solteirão, 1,70 × 2,29 m; Casal/Queen, 2,20 × 2,40 m; King/Super King, 2,40 × 2,60 m.",
           "Confira a medida da peça e o quanto quer que sobre nas laterais da cama."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-oficial-uso.webp",
@@ -46183,7 +46183,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa da I Wanna Sleep",
         "paragraphs": [
-          "Compare as características informadas nas fichas consultadas em 07/11/2026. Os nomes comerciais não são uma medição independente de conforto."
+          "Compare as características informadas nas fichas da marca em 07/11/2026. Os nomes comerciais não são uma medição independente de conforto."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -46211,7 +46211,7 @@ export const reviewsData: unknown[] = [
               "Enchimento chamado Long Fiber pela marca"
             ],
             [
-              "Tamanhos consultados",
+              "Tamanhos da ficha",
               "Casal/Queen e King/Super King",
               "Casal/Queen e King/Super King",
               "Casal/Queen e King/Super King",
@@ -49800,7 +49800,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que significa a luz laranja da Dolce Gusto",
         "paragraphs": [
           "No manual da Genio S Touch, o indicador laranja de descalcificação avisa que é hora de fazer a manutenção. Confira no manual do seu modelo qual luz está acesa, porque nem todo sinal laranja é o de descalcificação.",
-          "O manual consultado orienta descalcificar a cada 3 a 4 meses, antecipando conforme a dureza da água e os sinais indicados pelo fabricante. Separe cerca de 20 a 30 minutos para o procedimento e o enxágue.",
+          "O manual orienta descalcificar a cada 3 a 4 meses, antecipando conforme a dureza da água e os sinais indicados pelo fabricante. Separe cerca de 20 a 30 minutos para o procedimento e o enxágue.",
           "Para concluir, siga também os comandos de enxágue e finalização do seu modelo. Se o sinal persistir após o procedimento correto, procure o SAC ou a assistência, em vez de tentar resets encontrados na internet."
         ],
         "bullets": [
@@ -52156,7 +52156,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito: para quem o Magnum vale a pena",
         "paragraphs": [
-          "O Magnum faz sentido como opção para quem mantém um colchão em bom estado e quer uma camada mais macia na superfície. A marca informa 10 cm quando afofado e oferece Sleeptest de 30 dias, com as condições de troca do capítulo anterior. Na página do produto, consultada na mesma data dos preços da tabela, a nota era 4,9 de 5, com 238 avaliações. Compare o custo com o que você pretende gastar antes de decidir.",
+          "O Magnum faz sentido como opção para quem mantém um colchão em bom estado e quer uma camada mais macia na superfície. A marca informa 10 cm quando afofado e oferece Sleeptest de 30 dias, com as condições de troca do capítulo anterior. Na página do produto, na mesma data dos preços da tabela, a nota era 4,9 de 5, com 238 avaliações. Compare o custo com o que você pretende gastar antes de decidir.",
           "Se o colchão já está gasto, ou se a dor nas costas é antiga e persistente, o melhor investimento é outro: um colchão novo ou uma consulta. Pillow top é conforto, não tratamento."
         ],
         "links": [
@@ -52630,7 +52630,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Quem toma pouco café pode escolher entregas a cada 2 ou 3 meses. Um exemplo é receber 6 caixas a cada 2 meses, em vez de 3 todo mês. Assim o pedido supera o mínimo de R$ 100 do CECI; a aplicação atual do código à assinatura ainda deve ser conferida no checkout.",
+          "Quem toma pouco café pode escolher entregas a cada 2 ou 3 meses. Um exemplo é receber 6 caixas a cada 2 meses, em vez de 3 todo mês. Assim o pedido supera o mínimo de R$ 100 do CECI. Confira no checkout se o código entra na assinatura.",
           "O CECI vale para compras a partir de R$ 100. No nosso teste, ele entrou com subtotal de R$ 119,60, que ficou em R$ 89,70 depois dos 25%, por isso a tabela considera o subtotal antes do desconto. O checkout pode arredondar alguns centavos."
         ]
       },
@@ -52689,7 +52689,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom CECI soma com a assinatura?",
         "paragraphs": [
-          "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. Essa era uma dúvida nossa também, porque o item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília. Os 10% de hoje ainda precisam ser conferidos no pedido.",
+          "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. Essa era uma dúvida nossa também, porque o item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
           "Num dos nossos testes fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
         ],
         "image": {
@@ -52792,14 +52792,14 @@ export const reviewsData: unknown[] = [
           "Qual é a assinatura mais barata da Dolce Gusto? O pedido mínimo é de 3 caixas por entrega. Com caixas de Geração I regulares, sai em cerca de R$ 58 por entrega; os preços atuais estão no montador.",
           "A assinatura mostra o preço com desconto? Sim: no montador, cada caixa já aparece com os 25%, e o preço cheio fica riscado ao lado.",
           "A assinatura Dolce Gusto dá máquina grátis? Não. O plano de 2018 com máquina grátis foi encerrado, e hoje a Mini Me de brinde vem da promoção por volume de caixas.",
-          "O CECI acumula com a assinatura Dolce Gusto? No nosso teste, o código de 5% somou com os 25% da assinatura. Hoje o CECI divulgado é de 10%, mas a aplicação à assinatura deve ser conferida no checkout, conforme os termos.",
+          "O CECI acumula com a assinatura Dolce Gusto? No nosso teste, o código de 5% somou com os 25% da assinatura. Hoje o CECI é de 10%; confira no checkout se ele entra na assinatura.",
           "A promoção de caixas com Mini Me vale na assinatura? Não. O regulamento diz que promoções do site não se somam às compras da assinatura.",
           "Dá para pagar a assinatura parcelado? Não. A assinatura aceita só cartão de crédito Visa, Mastercard ou Elo, sem parcelamento."
         ]
       }
     ],
     "cta": {
-      "text": "Monte sua assinatura no site oficial e digite CECI no checkout para conferir o desconto extra.",
+      "text": "Monte sua assinatura, digite CECI no checkout e confira no resumo do pedido se o desconto foi aplicado.",
       "label": "Montar minha assinatura",
       "url": "https://www.nescafe-dolcegusto.com.br/assinatura",
       "sponsored": true
@@ -54222,7 +54222,7 @@ export const reviewsData: unknown[] = [
         "heading": "Poltrona de amamentação vale a pena? A conta do tempo de uso",
         "paragraphs": [
           "A pergunta de quanto vale cada uma depende menos do preço e mais de quanto tempo a poltrona vai ser usada. A fase mais intensa de amamentação dura meses; uma poltrona de sala pode ficar na casa por anos.",
-          "Como exemplo, com os preços consultados: a Áquila de R$ 862 usada por um ano representa cerca de R$ 72 por mês. A DAMIE com giro e balanço, a partir de R$ 4.299, chega a cerca de R$ 72 por mês se for usada por cinco anos; com o CECILIA12, a R$ 3.783,12, seriam cerca de R$ 63 por mês. São períodos hipotéticos, sem incluir frete, manutenção ou eventual revenda.",
+          "Como exemplo: a Áquila de R$ 862 usada por um ano representa cerca de R$ 72 por mês. A DAMIE com giro e balanço, a partir de R$ 4.299, chega a cerca de R$ 72 por mês se for usada por cinco anos; com o CECILIA12, a R$ 3.783,12, seriam cerca de R$ 63 por mês. São períodos hipotéticos, sem incluir frete, manutenção ou eventual revenda.",
           "A reclinável dilui o preço de compra se continuar útil por mais tempo, mas uma poltrona tradicional também pode ganhar outros usos. Compare o preço que cabe agora no orçamento com o uso que você prevê.",
           "E se a dúvida for comprar ou não um móvel para amamentar? Dá para começar no sofá ou na cama, com almofadas. Foi o que eu fiz nas primeiras semanas com o Ian, até a lombar, o pescoço e o braço sem apoio começarem a reclamar. Se as mamadas longas estão pesando no corpo, uma poltrona com braço firme faz diferença."
         ],
@@ -54595,7 +54595,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A campanha da DAMIE anuncia poltrona com três presentes e frete grátis no Sul e Sudeste. Compare os preços de outubro e o desconto do CECILIA12.",
+    "description": "A campanha da DAMIE anuncia poltrona com três presentes e frete grátis no Sul e Sudeste. Compare os preços de outubro e o desconto do CECILIA12 antes de comprar.",
     "metaDescription": "CECILIA12 dá 12% OFF na DAMIE e soma com o Pix. Na campanha, poltrona com três presentes e frete grátis no Sul e Sudeste; confira seu CEP.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
@@ -63812,7 +63812,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O preço da bebida Dolce Gusto depende de quantas cápsulas ela usa e do valor da caixa. Compare custo por cápsula, xícara, combo e assinatura.",
+    "description": "O preço da bebida Dolce Gusto depende de quantas cápsulas ela usa e do valor da caixa. Compare o custo por cápsula, por xícara, no combo e na assinatura.",
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Quanto custa cada bebida Dolce Gusto: preço por cápsula, caixa, xícara, combo e assinatura.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -77957,7 +77957,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A garantia diz muito",
         "paragraphs": [
-          "A garantia informa por quanto tempo e em quais condições a marca oferece cobertura. Ela não mede a vida útil do sofá. Entre as marcas consultadas, os prazos divulgados vão de 90 dias a 1 ano:"
+          "A garantia informa por quanto tempo e em quais condições a marca oferece cobertura. Ela não mede a vida útil do sofá. Entre as marcas deste guia, os prazos divulgados vão de 90 dias a 1 ano:"
         ],
         "bullets": [
           "**Inflow:** 90 dias.",
@@ -84079,7 +84079,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "I Wanna Sleep ou Ortobom: qual escolher? Compare o modelo e o uso: a Ortobom tinha opções de entrada mais baratas na consulta; a I Wanna Sleep oferecia látex natural e teste com crédito para troca. Não são produtos equivalentes em todos os materiais.",
+          "I Wanna Sleep ou Ortobom: qual escolher? Compare o modelo e o uso: a Ortobom tinha opções de entrada mais baratas nos preços da tabela; a I Wanna Sleep oferecia látex natural e teste com crédito para troca. Não são produtos equivalentes em todos os materiais.",
           "Travesseiro Ortobom é bom? A marca informa a firmeza de cada modelo e 90 dias de garantia, sem teste em casa nas páginas.",
           "Travesseiro I Wanna Sleep é bom? A ficha e a política ajudam a comparar construção e condições de teste, mas não substituem o uso pessoal. A marca oferece troca por crédito conforme as condições do Sleeptest.",
           "O Pró Látex da Ortobom é de látex? A ficha descreve espuma de alta resiliência 100% poliuretano, com \"Material: Látex\" no campo de material.",
@@ -84139,7 +84139,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Na consulta de 16/10/2026, a Belive era operada pela NHD Foods, com CNPJ ativo e reputação Ótima no Reclame Aqui. Veja o que conferimos sobre CNPJ, devolução e frete.",
+    "description": "A Belive é vendida pela NHD Foods, tem site oficial com CNPJ ativo e tinha reputação Ótima no Reclame Aqui em 16/10/2026. Veja trocas, arrependimento e frete grátis por região.",
     "metaDescription": "Quem vende a Belive, o CNPJ, as trocas e o frete, com o cupom MAUAD de 10% OFF no site oficial.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
@@ -84153,7 +84153,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "CNPJ ativo nos dados públicos, o mesmo do rodapé do site, com matriz e filial em Uberaba (MG)",
       "7 dias corridos para desistir da compra, com o frete de devolução por conta da Belive",
-      "Reputação Ótima no Reclame Aqui, com nota 8,1, em consulta de outubro",
+      "Reputação Ótima no Reclame Aqui, com nota 8,1, em outubro",
       "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO, contado sem o cupom",
       "Pix com 5% de desconto, que soma com o cupom MAUAD"
     ],
@@ -84194,7 +84194,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "De quem é a Belive?",
         "paragraphs": [
-          "Na consulta de outubro, a empresa aparecia como registrada e ativa, com CNPJ ativo nos dados públicos. A loja Belive é operada pela NHD Foods Indústria, Comércio, Importação e Exportação Ltda., segundo o rodapé e o cadastro público.",
+          "A empresa está registrada e com CNPJ ativo nos dados públicos. A loja Belive é operada pela NHD Foods Indústria, Comércio, Importação e Exportação Ltda., segundo o rodapé e o cadastro público.",
           "O rodapé informava o CNPJ 21.541.988/0002-57, da filial ativa desde 2015. A matriz, 21.541.988/0001-76, ativa desde 2014, aparecia na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro.",
           "A marca afirma no site que existe desde 2015."
         ]
@@ -84298,7 +84298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "No Reclame Aqui, o perfil “Belive Be Free” tinha selo **Ótima** e nota **8,1** nos últimos seis meses, na consulta de outubro. Os números detalhados de reclamações respondidas e índice de solução estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, o perfil “Belive Be Free” tinha selo **Ótima** e nota **8,1** nos últimos seis meses, em outubro. Os números detalhados de reclamações respondidas e índice de solução estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -84319,14 +84319,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Belive?",
         "paragraphs": [
-          "Do ponto de vista de confiança, sim. A consulta identificou a empresa responsável, CNPJ ativo e regras públicas de compra; a reputação era Ótima no recorte de abril a setembro. Use esses dados junto com o preço, o frete e as condições de atendimento; eles não garantem a entrega nem a sua satisfação.",
+          "Do ponto de vista de confiança, sim. A empresa responsável tem CNPJ ativo e regras públicas de compra, e a reputação era Ótima no recorte de abril a setembro. Use esses dados junto com o preço, o frete e as condições de atendimento; eles não garantem a entrega nem a sua satisfação.",
           "Três pontos mudam a conta. Se você mora fora de SP, MG, RJ, DF, GO e do Sul, o pedido precisa passar de R$ 300 para ter frete grátis. O site não publica prazo para defeito, então guarde nota e fotos desde a entrega. E o reembolso não tem prazo publicado."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável? Do ponto de vista cadastral, sim: a consulta de outubro identificou a NHD Foods, CNPJ ativo, políticas públicas e reputação Ótima no recorte de abril a setembro. Isso avalia a loja, mas não garante o resultado de toda compra.",
+          "A Belive é confiável? Do ponto de vista cadastral, sim: a NHD Foods tem CNPJ ativo, políticas públicas e reputação Ótima no recorte de abril a setembro. Isso avalia a loja, mas não garante o resultado de toda compra.",
           "A Belive é uma empresa de verdade? Sim. A NHD Foods Indústria, Comércio, Importação e Exportação Ltda. tem matriz e filial ativas nos dados públicos de CNPJ.",
           "Qual é o CNPJ da Belive? O do rodapé do site é 21.541.988/0002-57, da filial. A matriz é 21.541.988/0001-76.",
           "O site da Belive é seguro? O endereço oficial é belivebefree.com.br e usa conexão segura. Ainda assim, confira o domínio antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
@@ -84373,7 +84373,7 @@ export const reviewsData: unknown[] = [
     "cons": [
       "Nos 12 meses, a reputação cai para Boa (nota 7,8) e só 70% de quem avaliou voltaria a comprar",
       "Nota média do consumidor de 7 nos 6 meses e 6,6 nos 12 meses",
-      "Responder não é resolver: as resolvidas ficaram entre 75% e 80% nas três janelas",
+      "Responder não é resolver: entre as avaliadas, a resolução ficou entre 75% e 80% nas três janelas",
       "Só 15 das 39 reclamações dos últimos 6 meses foram avaliadas"
     ],
     "cta": {
@@ -84547,7 +84547,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Compare os períodos: nos 12 meses, a nota era 7,8 e 70% de quem avaliou disse que voltaria a comprar.",
-          "Abra o perfil antes de pagar para conferir se os índices mudaram desde esta consulta.",
+          "Abra o perfil antes de pagar para conferir se os índices mudaram.",
           "Se já houve problema com o pedido, use os canais acima e guarde o protocolo.",
           "Para saber quem vende e conhecer as regras da loja, continue em [Belive é confiável?](/reviews/belive-e-confiavel)."
         ]
@@ -84557,7 +84557,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Belive é confiável segundo o Reclame Aqui? Em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. Nos 6 meses, só 15 das 39 reclamações recebidas tinham avaliação.",
           "Qual a nota da Belive no Reclame Aqui? Em outubro, a nota era 8,1 nos últimos 6 meses, 7,8 nos últimos 12 meses e 7,5 em 2025.",
-          "A Belive responde às reclamações? Na consulta de outubro, as três abas mostravam 100% respondidas. A resolução, calculada entre as avaliadas, ficou em 80% nas abas de 6 e 12 meses e 75% em 2025.",
+          "A Belive responde às reclamações? Em outubro, as três abas mostravam 100% respondidas. A resolução, calculada entre as avaliadas, ficou em 80% nas abas de 6 e 12 meses e 75% em 2025.",
           "O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.",
           "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a nota fiscal, por pedido formal ao SAC; a loja pede o produto na embalagem original. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
           "O pedido da Belive pode ser cancelado? Pode, quando o pagamento não é autorizado ou não é identificado no prazo, nos casos de boleto ou Pix. Nesse caso, peça a revisão ao SAC."
@@ -84925,7 +84925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de referência",
         "paragraphs": [
-          "A tabela registra preços de página lidos em outubro, com o preço riscado entre parênteses quando havia. A coluna Pix aplica 5%; a coluna MAUAD aplica 10%; a última aplica primeiro o cupom e depois o Pix, como no teste de checkout."
+          "A tabela registra preços de página de outubro, com o preço riscado entre parênteses quando havia. A coluna Pix aplica 5%; a coluna MAUAD aplica 10%; a última aplica primeiro o cupom e depois o Pix, como no teste de checkout."
         ],
         "image": {
           "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
@@ -85670,7 +85670,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto dura o frasco e quanto custa",
         "paragraphs": [
-          "Com 1 cápsula por dia, o frasco de 60 cápsulas dura 60 dias, e o de 30 dura 30. Na leitura dos preços, a página do produto na Nestlé Nutre mostrava o de 60 cápsulas de R$ 69,89 por R$ 48,92 (30% de desconto), e a assinatura a R$ 41,93. Pela nossa conta, eram cerca de R$ 0,82 por dia na compra única e R$ 0,70 na assinatura. Confira o preço atual na loja."
+          "Com 1 cápsula por dia, o frasco de 60 cápsulas dura 60 dias, e o de 30 dura 30. Na Nestlé Nutre, a página do produto mostrava o de 60 cápsulas de R$ 69,89 por R$ 48,92 (30% de desconto), e a assinatura a R$ 41,93. Pela nossa conta, eram cerca de R$ 0,82 por dia na compra única e R$ 0,70 na assinatura. Confira o preço atual na loja."
         ]
       },
       {
@@ -86008,7 +86008,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Pela Nota Técnica Conjunta nº 17/2026, só os lotes informados oficialmente estão sendo recolhidos. Confira as informações oficiais atualizadas antes de usar uma lata. Se a criança tiver vômitos, diarreia ou muito sono depois de consumir um lote da lista, a nota técnica orienta levar a criança a atendimento médico, com a embalagem ou uma foto dela.",
-          "Confira o lote e os comunicados oficiais atualizados antes de usar o produto. A loja vender o produto não diz se a sua lata está na lista; em caso de dúvida, confirme com a Nestlé pelo 0800 761 2500."
+          "O fato de a loja vender o produto não diz se a sua lata está na lista; em caso de dúvida, confirme com a Nestlé pelo 0800 761 2500."
         ]
       },
       {
@@ -86425,7 +86425,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Nanlac Supreme Pro e Aptanutri Profutura 3: diferenças de rótulo, versões, preparo e custo por litro para crianças de 1 a 3 anos.",
+    "description": "Nanlac Supreme Pro e Aptanutri Profutura 3 para crianças de 1 a 3 anos: o que cada rótulo declara, as versões da Profutura, o preparo e o custo por litro da lata.",
     "metaDescription": "Nanlac Supreme Pro (1 a 3 anos), com o cupom CECI de 10% OFF na Nestlé Nutre, comparado à Aptanutri Profutura 3: HMO, DHA, ARA e preço por litro.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
@@ -86736,7 +86736,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e quanto custa",
         "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
         "paragraphs": [
-          "Preços lidos em 17/10/2026, nas lojas oficiais de cada fabricante. Confira os valores atuais antes de comprar."
+          "Preços das lojas oficiais de cada fabricante em 17/10/2026. Confira os valores atuais antes de comprar."
         ],
         "comparisonTable": {
           "headers": [
@@ -87412,7 +87412,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ingredientes e alérgenos",
         "paragraphs": [
           "No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O rótulo traz ferro, manganês e selênio em formas quelatadas: bisglicinato de ferro, bisglicinato de manganês e selenometionina.",
-          "No Centrum, a Drogasil lista excipientes como celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício; a Extrafarma traz a mesma lista. As fontes divergem sobre lactose: ela aparece na lista de ingredientes, enquanto a embalagem consultada informa que não contém. Se você precisa evitar lactose, confirme essa informação no rótulo do frasco e com o fabricante antes de escolher. A Drogasil também lista vitamina A de origem suína e vitamina D3 de origem bovina e ovina."
+          "No Centrum, a Drogasil lista excipientes como celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício; a Extrafarma traz a mesma lista. As fontes divergem sobre lactose: ela aparece na lista de ingredientes, enquanto a embalagem informa que não contém. Se você precisa evitar lactose, confirme essa informação no rótulo do frasco e com o fabricante antes de escolher. A Drogasil também lista vitamina A de origem suína e vitamina D3 de origem bovina e ovina."
         ]
       },
       {
@@ -87478,8 +87478,8 @@ export const reviewsData: unknown[] = [
           "Nutren A-Z ou Centrum? Compare a composição e o formato: o Nutren é cápsula softgel; o Centrum A a Zinco Adulto é comprimido e lista também cálcio, fósforo, magnésio e iodo. A tabela acima mostra as quantidades por unidade.",
           "O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.",
           "O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.",
-          "O Centrum A a Zinco tem lactose? As fontes consultadas divergem: a lista de ingredientes cita lactose e a embalagem informa que não contém. Para uma compra que exige evitar lactose, confirme no rótulo do frasco e com o fabricante.",
-          "Qual custa menos por dia? Nos preços levantados, o Nutren A-Z Multi custava menos por dia. Veja a tabela de preços acima para o valor, a loja e a data da comparação.",
+          "O Centrum A a Zinco tem lactose? As fontes divergem: a lista de ingredientes cita lactose e a embalagem informa que não contém. Para uma compra que exige evitar lactose, confirme no rótulo do frasco e com o fabricante.",
+          "Qual custa menos por dia? Nos preços da tabela, o Nutren A-Z Multi custava menos por dia. Veja a tabela de preços acima para o valor, a loja e a data da comparação.",
           "Posso tomar os dois juntos? O rótulo do Nutren orienta consultar um profissional de saúde ao consumir outros suplementos.",
           "Centrum A a Zinco e Centrum Mulher ou Homem são o mesmo produto? Não. Este texto trata só do Centrum A a Zinco Adulto."
         ]
@@ -87863,7 +87863,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde entra o cupom CECI",
         "paragraphs": [
-          "O cupom CECI garante 10% OFF na loja oficial da Nestlé Nutre em todas as formas de pagamento, exceto para fórmulas infantis de 0 a 12 meses e as linhas Alfamino e Alfaré. O Isosource 1.5 não está nessas exceções e é elegível ao desconto. A Prodiet não é parceira do site, por isso não há cupom para a Trophic. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre)."
+          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre em todas as formas de pagamento, exceto para fórmulas infantis de 0 a 12 meses e as linhas Alfamino e Alfaré. O Isosource 1.5 não está nessas exceções e é elegível ao desconto. A Prodiet não é parceira do site, por isso não há cupom para a Trophic. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre)."
         ]
       },
       {
@@ -88126,7 +88126,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que muda entre o Espresso e o Espresso Intenso",
         "paragraphs": [
-          "Na escala da loja, o Espresso tem intensidade 5 e o Espresso Intenso, 7. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Os dois têm café torrado moído, xícara pequena e 10 cápsulas por caixa. Preço e avaliação da tabela foram consultados em 17/10/2026."
+          "Na escala da loja, o Espresso tem intensidade 5 e o Espresso Intenso, 7. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Os dois têm café torrado moído, xícara pequena e 10 cápsulas por caixa. Preço e avaliação da tabela são de 17/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -88311,7 +88311,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quantos ml e quantas cápsulas por bebida",
         "paragraphs": [
           "Uma cápsula corresponde a uma porção na tabela da loja. O volume de cerca de 120 ml é estimativa nossa, a partir dos números da tabela; a página mostra o ícone de xícara média. A caixa traz 10 cápsulas.",
-          "A página da loja mostra o ícone de xícara média. A tabela nutricional trata 1 cápsula como 1 porção e traz 10 porções por caixa: é uma cápsula por bebida.",
+          "A tabela nutricional trata 1 cápsula como 1 porção e traz 10 porções por caixa: é uma cápsula por bebida.",
           "Conta nossa, pelos números da tabela da loja: 78 kcal por cápsula divididas por 65 kcal a cada 100 ml, vezes 100, dão cerca de 120 ml. Para entender como os níveis da máquina se ligam aos mililitros, veja a [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
         "image": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
@@ -88763,7 +88763,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "“Sem açúcar” não significa sem carboidrato. Os seis doces da Belive consultados declaram 0 g de açúcares e 16 g a 24 g de carboidratos nas porções indicadas. Para ler a diferença, comece pela porção, confira as linhas de açúcares e carboidratos e só então veja ingredientes e avisos da embalagem."
+          "“Sem açúcar” não significa sem carboidrato. Os seis doces da Belive declaram 0 g de açúcares e 16 g a 24 g de carboidratos nas porções indicadas. Para ler a diferença, comece pela porção, confira as linhas de açúcares e carboidratos e só então veja ingredientes e avisos da embalagem."
         ]
       },
       {
@@ -89574,7 +89574,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade",
         "paragraphs": [
-          "Em 17/10/2026, a unidade Suavipan na Drogasil custava menos que a Belive no site oficial. Entre os kits, a Belive tinha o menor preço por unidade. A conta dos kits é nossa."
+          "Em 17/10/2026, a unidade Suavipan na Drogasil custava menos que a Belive no site oficial. Conta nossa, com o preço de cada kit dividido pelas unidades: entre os kits, a Belive tinha o menor preço por unidade."
         ],
         "comparisonTable": {
           "headers": [
@@ -89592,7 +89592,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Belive, site oficial",
-              "Unidade — simulação com MAUAD e Pix",
+              "Unidade, simulação com MAUAD e Pix",
               "R$ 3,92",
               "R$ 3,92"
             ],
@@ -89604,7 +89604,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Belive, site oficial",
-              "Kit de 10 — simulação com MAUAD e Pix",
+              "Kit de 10, simulação com MAUAD e Pix",
               "R$ 42,86",
               "R$ 4,29"
             ],
@@ -89927,7 +89927,7 @@ export const reviewsData: unknown[] = [
           "Quantas calorias tem o pão de mel sem açúcar da Belive? O comum tem 163 kcal e o proteico, 162 kcal, por unidade de 45 g.",
           "Qual a diferença entre o pão de mel comum e o proteico da Belive? O proteico tem 6 g de proteína e 16 g de carboidratos por unidade. O comum tem 2 g de proteína e 23 g de carboidratos.",
           "O pão de mel da Belive tem açúcar? O rótulo mostra 0 g de açúcares totais e adicionados nas duas versões. Os adoçantes são maltitol e glicosídeos de esteviol.",
-          "Quanto custa o kit de pão de mel da Belive? O kit de 10 sai por R$ 74,12 no comum e R$ 78,96 no proteico, sem o cupom. Nossa conta com MAUAD e Pix dá R$ 6,34 e R$ 6,75 por unidade; confira os preços no pedido.",
+          "Quanto custa o kit de pão de mel da Belive? O kit de 10 sai por R$ 74,12 no comum e R$ 78,96 no proteico, sem o cupom. Conta nossa, com MAUAD e Pix: R$ 6,34 e R$ 6,75 por unidade; confira os preços no site.",
           "O pão de mel da Belive tem glúten ou leite? A lista diz que não contém glúten, e a loja declara as duas versões sem leite e sem lactose. As duas contêm derivados de soja e ovo."
         ]
       }
@@ -98677,7 +98677,7 @@ export const reviewsData: unknown[] = [
             [
               "2 a 5 pessoas",
               "Dolce Gusto, se a equipe toma leite ou chocolate; filtro elétrico, se só toma café preto",
-              "Cinco pessoas consomem 220 cápsulas por mês, e o combo de 20 caixas tem 200",
+              "Cinco pessoas consumiriam 220 cápsulas por mês, e o combo de 20 caixas tem 200",
               "Dolce Gusto: R$ 356,07 a R$ 410,85 (5 pessoas); filtro: R$ 96,66 (5 pessoas)"
             ],
             [
@@ -120666,7 +120666,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de escolher: o que vale para todos os móveis",
         "paragraphs": [
-          "Comece por espaço, acesso e por quem vai usar o móvel. Os preços da DAMIE deste guia foram registrados em 23/10/2026, e os das outras marcas, no varejo, na mesma semana. Consulte preço, prazo e campanha atuais antes de comprar.",
+          "Comece por espaço, acesso e por quem vai usar o móvel. Os preços da DAMIE deste guia são de 23/10/2026, e os das outras marcas, do varejo da mesma semana. Consulte preço, prazo e campanha atuais antes de comprar.",
           "Cinco conferências valem para qualquer móvel deste guia, da DAMIE ou de outra marca. Faça antes de olhar o preço."
         ],
         "bullets": [
@@ -177994,7 +177994,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa com o código, e onde comprar",
         "paragraphs": [
           "Com o código da Belive, todo o site sai 10% mais barato, em todas as formas de pagamento, na primeira compra e nas seguintes, e o desconto soma com as promoções da loja e com os 5% do Pix. No teste do cupom, um carrinho com quatro combos em oferta, de R$ 576,82, caiu para R$ 519,14 com o código e para R$ 493,18 no Pix. O código vai no campo \"Código do cupom\" do carrinho, com o botão \"Aplicar cupom\"; a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
-          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout. Conta o subtotal antes do código. Compare o custo do frete com o de acrescentar produtos que você realmente vai consumir.",
+          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout. O frete grátis considera o subtotal antes do código. Compare o custo do frete com o de acrescentar produtos que você realmente vai consumir.",
           "A Belive também vende no [Mercado Livre](https://meli.la/2xDjP2k), onde o código não vale e o preço é o do anúncio. Compare a mesma quantidade e os mesmos produtos, incluindo frete. No site oficial, aplique o código e a condição de pagamento escolhida antes de comparar o total."
         ]
       },
@@ -178589,7 +178589,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa com o código, e o frete",
         "paragraphs": [
           "Com o código da Belive, o panetone sai 10% mais barato, em todas as formas de pagamento, e o desconto soma com a promoção do dia e com os 5% do Pix. O código vai no campo \"Código do cupom\" do carrinho, e a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
-          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Conta o subtotal antes do código. O kit, nos preços de lista, ultrapassa a faixa de R$ 170 dos cinco estados; confirme o valor atual no carrinho. No Sul e no resto do país, ele pede mais itens no carrinho. Compare o frete com o custo de itens extras antes de aumentar o pedido. Os doces, os pães e os salgadinhos estão no guia [Belive é boa?](/reviews/belive-e-boa), e CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
+          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O frete grátis considera o subtotal antes do código. O kit, nos preços de lista, ultrapassa a faixa de R$ 170 dos cinco estados; confirme o valor atual no carrinho. No Sul e no resto do país, ele pede mais itens no carrinho. Compare o frete com o custo de itens extras antes de aumentar o pedido. Os doces, os pães e os salgadinhos estão no guia [Belive é boa?](/reviews/belive-e-boa), e CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
         ]
       },
       {
@@ -195425,7 +195425,7 @@ export const reviewsData: unknown[] = [
           "caption": "Preços da loja para compra avulsa, sem frete. Simulação com CECI de 10%, válido em todas as formas de pagamento. Custo por porção declarada: uma cápsula, 12 g de pó ou uma garrafa; valores arredondados a centavos.",
           "headers": [
             "Produto",
-            "Preço consultado",
+            "Preço da loja",
             "Com o CECI",
             "Custo por porção"
           ],
