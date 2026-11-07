@@ -78179,7 +78179,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui de abril a setembro. O que mais pesa é o frete grátis, que depende da região, e o atraso na entrega. Para comprar com desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
+          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui de abril a setembro. O que mais pesa é o frete grátis, que depende da região, e o atraso na entrega. Para comprar, o [cupom Max Titanium](/cupons/max-titanium) traz o código MAX10EMCASACOMCECILIA, com até 10% OFF."
         ]
       },
       {
@@ -78416,7 +78416,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. O índice de solução é de 82,6% entre reclamações finalizadas e avaliadas, e a resposta média leva 7 dias e 9 horas. Veja as janelas abaixo e o que fazer se o pedido atrasar; para desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
+          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. O índice de solução é de 82,6% entre reclamações finalizadas e avaliadas, e a resposta média leva 7 dias e 9 horas. Para comprar, o [cupom Max Titanium](/cupons/max-titanium) traz o código MAX10EMCASACOMCECILIA, com até 10% OFF."
         ]
       },
       {
@@ -82319,7 +82319,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W desta comparação, e a Probiótica trouxe mais sabores e uma versão zero lactose. Na creatina de 300 g, composição declarada e preço empataram; veja o veredito em Qual escolher."
+          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W, e a Probiótica trouxe mais sabores e zero lactose; na creatina de 300 g, composição e preço empataram. Na Max, o código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -90361,7 +90361,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max, na creatina, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas, e o capítulo Para quem cada um faz sentido mostra o veredito por perfil."
+          "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max, na creatina, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas: o código MAX10EMCASACOMCECILIA dá até 10% OFF, com percentual variável por produto."
         ]
       },
       {
@@ -103098,7 +103098,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço no cartão, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. Pix e cupom mudam as contas, e quem quer a resposta por objetivo pode ir direto a Quem escolhe o quê."
+          "Pelo preço no cartão, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. Pix e cupom mudam as contas: o código MAX10EMCASACOMCECILIA dá até 10% OFF na Max, e o percentual varia por produto."
         ]
       },
       {
@@ -143727,7 +143727,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com esse selo, custa 3,2 vezes o valor por grama do pote de 500 g. O que muda a escolha é o desembolso inicial, a quantidade que você vai usar e a preferência pelo selo."
+          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com esse selo, custa 3,2 vezes o valor por grama do pote de 500 g; a escolha depende do desembolso e do selo. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -143924,7 +143924,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Hórus ou Égide",
         "paragraphs": [
-          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g sai mais barato por dose, porque rende 50 doses de 6 g, contra cerca de 36 no Hórus. Quem não quer cafeína tem o Night Train."
+          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g sai mais barato por dose, com 50 doses de 6 g contra cerca de 36 no Hórus, e o Night Train é a opção sem cafeína. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -175798,7 +175798,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é boa: o whey da Max Titanium declara a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. Os números estão no resumo abaixo."
+          "Pelo rótulo, é boa: o whey da Max Titanium declara a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -190114,7 +190114,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Max Titanium comprar",
         "paragraphs": [
-          "No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Top Whey 3W reúne três tipos de proteína do soro, IsoWhey é isolado e Super Whey combina proteínas e carboidrato. A escolha depende da composição e do preço; compare as porções em uma mesma quantidade de pó."
+          "No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Top Whey 3W reúne três tipos de proteína do soro, IsoWhey é isolado e Super Whey combina proteínas e carboidrato. Compare as porções na mesma quantidade de pó; o código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
