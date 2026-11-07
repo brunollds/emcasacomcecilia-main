@@ -113,10 +113,10 @@
     {
       "heading": "Sur 2 ans, Hostinger coûte moins",
       "paragraphs": [
-        "Pour deux ans d'hébergement, Premium sur 24 mois avec SONAR20 demande un paiement anticipé de 38,21 US$. Economy sur 24 mois coûte 155,76 US$. Aux tarifs consultés, un an d'Economy suivi d'un renouvellement reviendrait à 227,76 US$ ; la même formule avec Starter reviendrait à 143,76 US$. Ces deux derniers montants sont des calculs supposant le maintien du tarif de renouvellement annoncé."
+        "Pour deux ans d'hébergement, Premium sur 24 mois avec SONAR20 demande un paiement anticipé de 38,21 US$. Economy sur 24 mois coûte 155,76 US$. Un an d'Economy suivi d'un renouvellement reviendrait à 227,76 US$ ; la même formule avec Starter reviendrait à 143,76 US$. Ces deux derniers montants sont des calculs supposant le maintien du tarif de renouvellement annoncé."
       ],
       "comparisonTable": {
-        "caption": "Deux ans d'hébergement : paiements de 24 mois relevés pour Premium et Economy ; calcul de 12 mois plus un renouvellement pour Starter, au tarif annoncé supposé inchangé. Le renouvellement du domaine et de l'e-mail après la première année est exclu.",
+        "caption": "Deux ans d'hébergement : paiements de 24 mois pour Premium et Economy ; calcul de 12 mois plus un renouvellement pour Starter, au tarif annoncé supposé inchangé. Le renouvellement du domaine et de l'e-mail après la première année est exclu.",
         "headers": [
           "Forfait",
           "Paiement sur deux ans",
@@ -145,7 +145,7 @@
       "heading": "Sur 4 ans, Hostinger coûte moins",
       "paragraphs": [
         "Chez Hostinger, vous payez 48 mois d'hébergement en une fois, sans renouveler l'hébergement pendant cette période. Le panier affichait Premium à 95,52 US$ avec la promotion du Black Friday, puis à 76,42 US$ avec SONAR20. Le domaine et l'e-mail restent gratuits uniquement la première année.",
-        "Pour comparer exactement 48 mois, nous calculons Economy sur 36 mois à 215,64 US$, puis un renouvellement annuel au tarif annoncé de 143,88 US$ : soit 359,52 US$. Ce renouvellement est une dépense future estimée, pas un tarif garanti."
+        "Pour comparer exactement 48 mois, Economy sur 36 mois coûte 215,64 US$, puis un renouvellement annuel au tarif annoncé de 143,88 US$ : soit 359,52 US$. Ce renouvellement est une dépense future estimée, pas un tarif garanti."
       ],
       "comparisonTable": {
         "headers": [
@@ -196,7 +196,7 @@
       "heading": "Si vous n'avez besoin que du site : GoDaddy Starter",
       "paragraphs": [
         "Le Starter est le forfait de GoDaddy pour le site seul : 1 site, 10 Go NVMe et cPanel, sans domaine ni e-mail dans la liste. Le SSL passe par AutoSSL, comme sur tous les forfaits GoDaddy. Il n'a pas de remise la première année : le panier affichait 71,88 US$ pour 1 an, et il se renouvelle au même 71,88 US$.",
-        "Aux tarifs consultés, Starter coûte plus que Premium avec SONAR20 dans les scénarios sur un, deux et quatre ans. Son renouvellement annuel annoncé est inférieur de 60 US$ à celui de Premium. Pour choisir sur une durée plus longue, il faut additionner le contrat initial et tous les renouvellements prévus."
+        "Starter coûte plus que Premium avec SONAR20 dans les scénarios sur un, deux et quatre ans. Son renouvellement annuel annoncé est inférieur de 60 US$ à celui de Premium. Pour choisir sur une durée plus longue, il faut additionner le contrat initial et tous les renouvellements prévus."
       ],
       "comparisonTable": {
         "headers": [
@@ -229,14 +229,14 @@
             "143,88 US$"
           ]
         ],
-        "caption": "Hébergement en dollars américains. Premium utilise des contrats initiaux de 12, 24 et 48 mois ; Economy, des contrats de 12 et 24 mois puis un calcul de 36 mois plus un renouvellement ; Starter, 12 mois plus les renouvellements nécessaires. Les projections maintiennent les tarifs annoncés. Domaine et e-mail après la première année sont exclus. Economy proposait aussi 60 mois à 359,40 US$."
+        "caption": "Hébergement en dollars américains. Premium utilise des contrats initiaux de 12, 24 et 48 mois ; Economy, des contrats de 12 et 24 mois puis un calcul de 36 mois plus un renouvellement ; Starter, 12 mois plus les renouvellements nécessaires. Les projections maintiennent les tarifs annoncés. Domaine et e-mail après la première année sont exclus. Economy propose aussi 60 mois à 359,40 US$."
       }
     },
     {
       "heading": "Domaine, e-mail et SSL : services inclus et frais séparés",
       "paragraphs": [
         "Sur Premium comme sur Economy, le domaine et l'e-mail sont gratuits pendant un an. Leurs renouvellements sont ensuite facturés séparément et exclus des totaux sur deux et quatre ans. GoDaddy indique aussi des frais ICANN pour le domaine gratuit. Vérifiez ces frais pour comparer le coût de l'ensemble.",
-        "Hostinger inclut le SSL gratuit et GoDaddy inclut AutoSSL dans les forfaits comparés. Lors de la consultation, le panier d'Economy ajoutait aussi SSL Standard, gratuit pendant un an puis renouvelé automatiquement à 119,99 US$ par an. Ce certificat payant s'ajoute à AutoSSL ; vérifiez cette ligne et désactivez son renouvellement si vous ne souhaitez pas le conserver."
+        "Hostinger inclut le SSL gratuit et GoDaddy inclut AutoSSL dans les forfaits comparés. Le panier d'Economy liste aussi un SSL Standard, gratuit pendant un an puis renouvelé automatiquement à 119,99 US$ par an. Ce certificat payant s'ajoute à AutoSSL ; vérifiez cette ligne et désactivez son renouvellement si vous ne souhaitez pas le conserver."
       ]
     },
     {
@@ -248,7 +248,7 @@
     {
       "heading": "Si vous avez besoin de plus : Unlimited et Cloud Startup",
       "paragraphs": [
-        "Au-dessus de Premium, la page consultée propose Unlimited, avec des sites illimités, et Cloud Startup. Avec 20 % de réduction sur le prix affiché pour 48 mois, on obtient 107,14 US$ pour Unlimited et 306,82 US$ pour Cloud Startup, avec des renouvellements annoncés de 16,99 et 25,99 US$ par mois. Ce sont des calculs : confirmez-les dans le panier. Deluxe et Ultimate de GoDaddy restent hors comparaison."
+        "Au-dessus de Premium, la page de Hostinger propose Unlimited, avec des sites illimités, et Cloud Startup. Avec 20 % de réduction sur le prix affiché pour 48 mois, on obtient 107,14 US$ pour Unlimited et 306,82 US$ pour Cloud Startup, avec des renouvellements annoncés de 16,99 et 25,99 US$ par mois. Ce sont des calculs : confirmez-les dans le panier. Deluxe et Ultimate de GoDaddy restent hors comparaison."
       ],
       "links": [
         {
@@ -260,7 +260,7 @@
     {
       "heading": "Lequel choisir selon la durée du site",
       "paragraphs": [
-        "Un an d'hébergement : Premium sur 12 mois avec SONAR20 était affiché à 19,10 US$, contre 83,88 US$ pour Economy, soit 64,78 US$ d'écart. Les deux offrent le domaine et l'e-mail la première année ; GoDaddy indique aussi des frais ICANN pour le domaine. Vérifiez comment ces frais figurent dans le total du panier.",
+        "Un an d'hébergement : Premium sur 12 mois avec SONAR20 est affiché à 19,10 US$, contre 83,88 US$ pour Economy, soit 64,78 US$ d'écart. Les deux offrent le domaine et l'e-mail la première année ; GoDaddy indique aussi des frais ICANN pour le domaine. Vérifiez comment ces frais figurent dans le total du panier.",
         "Deux ans d'hébergement : Premium sur 24 mois était affiché à 38,21 US$ avec SONAR20, contre 155,76 US$ pour Economy. Ajoutez le renouvellement du domaine et de l'e-mail après la première année si vous souhaitez les conserver.",
         "Quatre ans d'hébergement : Premium sur 48 mois était affiché à 76,42 US$ avec SONAR20. Economy atteint 359,52 US$ dans le scénario de 36 mois plus un renouvellement au tarif annoncé. Si vous acceptez de payer cinq ans, Economy sur 60 mois était affiché à 359,40 US$. Domaine et e-mail après la première année restent à payer séparément.",
         "Pour l'hébergement seul, Starter a le renouvellement annuel annoncé le plus bas : 71,88 US$. Premium coûte pourtant moins dans les scénarios sur un, deux et quatre ans. Un renouvellement moins cher ne suffit pas à démontrer un coût cumulé inférieur sur une durée plus longue.",
@@ -270,10 +270,10 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Lequel est le meilleur, Hostinger ou GoDaddy ? Pour le prix de l'hébergement, Premium avec SONAR20 coûte moins qu'Economy dans les scénarios internationaux consultés sur un, deux et quatre ans, avec un renouvellement annuel annoncé inférieur. Domaine et e-mail ne sont gratuits que la première année. Starter a le renouvellement annuel le plus bas, mais pas le coût cumulé le plus faible sur ces durées. D'autres critères figurent dans [comment choisir un hébergeur web](/fr/reviews/choisir-hebergeur-hostinger).",
-        "Le renouvellement de GoDaddy coûte-t-il le même prix ? Lors de la consultation, Economy sur un an affichait 83,88 US$ pour la première période, puis 143,88 US$ pour le renouvellement annuel. Starter affichait 71,88 US$ pour la première année comme pour le renouvellement. Vérifiez le tarif annoncé pour la durée choisie.",
+        "Lequel est le meilleur, Hostinger ou GoDaddy ? Pour le prix de l'hébergement, Premium avec SONAR20 coûte moins qu'Economy dans les scénarios internationaux sur un, deux et quatre ans, avec un renouvellement annuel annoncé inférieur. Domaine et e-mail ne sont gratuits que la première année. Starter a le renouvellement annuel le plus bas, mais pas le coût cumulé le plus faible sur ces durées. D'autres critères figurent dans [comment choisir un hébergeur web](/fr/reviews/choisir-hebergeur-hostinger).",
+        "Le renouvellement de GoDaddy coûte-t-il le même prix ? Economy sur un an affiche 83,88 US$ pour la première période, puis 143,88 US$ pour le renouvellement annuel. Starter affiche 71,88 US$ pour la première année comme pour le renouvellement. Vérifiez le tarif annoncé pour la durée choisie.",
         "Le code Hostinger fonctionne-t-il au renouvellement ? Non. SONAR20 réduit le prix des nouveaux achats éligibles ; le renouvellement est facturé au tarif du forfait, sans cette réduction. Consultez le [guide de renouvellement Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20).",
-        "Le Premium de Hostinger inclut-il un domaine ? Oui, le domaine est gratuit pendant un an, tout comme les deux boîtes e-mail par site indiquées dans l'offre consultée. Après cette année, leurs renouvellements sont facturés séparément, aux tarifs applicables.",
+        "Le Premium de Hostinger inclut-il un domaine ? Oui, le domaine est gratuit pendant un an, tout comme les deux boîtes e-mail par site. Après cette année, leurs renouvellements sont facturés séparément, aux tarifs applicables.",
         "Puis-je migrer mon site de GoDaddy vers Hostinger ? La page d'aide de Hostinger indique que la migration gratuite couvre un site venant d'une autre société sur les forfaits Web, Cloud ou Agency ; vérifiez votre forfait avec le support avant de résilier l'ancien.",
         "Quel est le code promo Hostinger ? SONAR20 offre 20 % de réduction sur la première période des nouveaux achats éligibles ; il ne s'applique ni au renouvellement ni à Premium sur un mois."
       ]

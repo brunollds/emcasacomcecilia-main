@@ -97492,7 +97492,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se precisa colocar o site no ar esta semana, compare o total disponível agora, com e sem SONAR20, e o preço de renovação. O código reduziu o preço da campanha no nosso teste; isso não garante que o valor será o menor até o fim da Black Friday.",
           "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
-          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner mostra 66% em 03/11.",
+          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner mostrava 67% em 03/11.",
           "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo.",
           "O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
         ]
@@ -110646,7 +110646,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "OpenClaw に必要な最小のサーバーは？ 公式ドキュメントは最小の RAM、CPU、ディスクを公表しておらず、安定版では Node 24.22.1 以降（または 26.12.1）を求めています。API キーやクレジットなら、出発点は KVM 1 です。ローカルモデルなら、下限 8 GiB は最小レシピの場合で、KVM 4 がそのレシピに対して最初に余裕のあるプランです。",
           "API キーなしで動かせる？ ローカルモデルなら動かせますが、問題はメモリです。ドキュメントは、最も小さいローカルレシピの下限を 8 GiB（コンテキストは 64K）としたうえで、モデルが収まることも快適に動くことも保証しないと書いています。Hostinger のクレジットを使えば AI プロバイダーのアカウントは要りませんが、使った分の料金がかかります。",
-          "Oracle は本当に無料？ Always Free の範囲と地域の提供状況によっては無料で使えます。Oracle は、7 日間にわたって CPU 使用率（95 パーセンタイル）とネットワーク使用率が 20% 未満の遊休インスタンスを回収することがあり、A1 ではメモリ使用率が 20% 未満であることも基準に含まれます。リソースと条件は上をご覧ください。",
+          "Oracle は本当に無料？ Always Free の範囲と地域の提供状況によっては無料で使えます。Oracle は、公開している CPU、ネットワーク、A1 ではメモリの使用率に関する基準に基づいて、遊休インスタンスを回収することがあります。リソースと条件は上をご覧ください。",
           "Mac mini と VPS、どちら？ パソコンを 24 時間つけておけるかどうかで決まります。つけておけるなら、自宅で動かせばサーバーの月額がかかりません。つけておけないなら、VPS かマネージドを選んでください。",
           "OpenClaw の VPS に使える Hostinger の割引コードはある？ SONAR20：既存アカウントでも対象となる新規購入の最初の期間が20%割引。ドメイン登録と更新は対象外です。カートでプランを確認してください。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます（ドメイン登録を除く）。すでにお持ちのプランの更新は通常料金で、割引はありません。"
@@ -110930,7 +110930,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "OpenClaw에 필요한 최소 서버는? 공식 문서는 최소 RAM, CPU, 디스크를 공개하지 않으며 안정 버전에서 Node 24.22.1 이상(또는 26.12.1)을 요구합니다. API 키나 크레딧이라면 출발점은 KVM 1입니다. 로컬 모델이라면 기준 8 GiB는 가장 작은 레시피의 것이고, KVM 4가 그 레시피에 처음으로 여유 있는 플랜입니다.",
           "API 키 없이 돌릴 수 있나요? 로컬 모델로 가능하지만, 그러면 메모리가 문제입니다. 문서는 가장 작은 로컬 레시피의 기준을 64K 컨텍스트에서 8 GiB로 제시하면서, 모델이 들어맞는다는 것도 잘 돈다는 것도 보장하지 않는다고 말합니다. 호스팅어 크레딧을 쓰면 AI 제공업체 계정이 필요 없지만 사용한 만큼 비용을 냅니다.",
-          "Oracle은 정말 무료인가요? Always Free 한도와 지역별 제공 상황에 따라 무료일 수 있습니다. Oracle은 7일 동안 CPU 사용률(95번째 백분위수)과 네트워크 사용률이 20% 미만인 유휴 인스턴스를 회수할 수 있으며, A1에서는 메모리 사용률이 20% 미만인 것도 기준에 들어갑니다. 위의 리소스와 조건을 확인하세요.",
+          "Oracle은 정말 무료인가요? Always Free 한도와 지역별 제공 상황에 따라 무료일 수 있습니다. Oracle은 공개된 CPU, 네트워크, A1에서는 메모리 사용률 기준에 따라 유휴 인스턴스를 회수할 수 있습니다. 위의 리소스와 조건을 확인하세요.",
           "Mac mini와 VPS 중 무엇이 좋을까요? 컴퓨터를 24시간 켜 둘 수 있는지에 달려 있습니다. 켜 둘 수 있다면 집에서 돌려 서버 월 요금을 아낄 수 있고, 그럴 수 없다면 VPS나 관리형을 고르세요.",
           "OpenClaw VPS에 쓸 수 있는 호스팅어 할인 쿠폰이 있나요? SONAR20: 기존 계정도 대상 신규 구매의 첫 번째 기간에 20% 할인. 도메인 등록과 갱신은 제외됩니다. 장바구니에서 플랜을 확인하세요.",
           "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다(도메인 등록은 제외). 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
@@ -111216,7 +111216,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "OpenClaw 的最低服务器要求是什么？官方文档没有公布最低 RAM、CPU 或硬盘，稳定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 密钥或额度时，起点是 KVM 1。用本地模型时，只有最小配方的下限是 8 GiB，KVM 4 是第一个对它有余量的。",
           "可以不用 API 密钥运行吗？可以，用本地模型，但这时内存就成了问题：文档把最小本地配方的下限定为 8 GiB（上下文 64K），并提醒这不保证模型放得下，也不保证跑得好。用 Hostinger 额度的话，不需要 AI 供应商的账号，但要按使用量付费。",
-          "Oracle 真的免费吗？在 Always Free 额度与地区供应范围内，可能免费使用。如果实例在 7 天内 CPU 使用率（第 95 百分位）和网络使用率都低于 20%，Oracle 可能将这台闲置实例收回；在 A1 上，内存使用率低于 20% 也计入标准。请参阅上文的资源和条件。",
+          "Oracle 真的免费吗？在 Always Free 额度与地区供应范围内，可能免费使用。Oracle 可能依据其公布的 CPU、网络（A1 上还包括内存）使用率标准，收回闲置实例。请参阅上文的资源和条件。",
           "Mac mini 还是 VPS？取决于电脑能不能 24 小时开着。能的话，在家运行可以省掉服务器月费；不能的话，选 VPS 或托管。",
           "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？ SONAR20：符合条件的新购首个周期享 20% 折扣，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣，域名注册除外。已有套餐的续费按标价收费，没有折扣。"
@@ -111501,7 +111501,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "OpenClaw 的最低伺服器需求是什麼？官方文件沒有公布最低 RAM、CPU 或硬碟，穩定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 金鑰或額度時，起點是 KVM 1。用本機模型時，只有最小配方的下限是 8 GiB，KVM 4 是第一個對它有餘裕的。",
           "可以不用 API 金鑰執行嗎？可以，用本機模型，但這時記憶體就成了問題：文件把最小本機配方的下限定為 8 GiB（上下文 64K），並提醒這不保證模型放得下，也不保證跑得好。用 Hostinger 額度的話，不需要 AI 供應商的帳號，但要按使用量付費。",
-          "Oracle 真的免費嗎？在 Always Free 額度與地區供應範圍內，可能免費使用。如果執行個體在 7 天內 CPU 使用率（第 95 百分位）和網路使用率都低於 20%，Oracle 可能將這個閒置執行個體回收；在 A1 上，記憶體使用率低於 20% 也計入標準。請參閱上文的資源和條件。",
+          "Oracle 真的免費嗎？在 Always Free 額度與地區供應範圍內，可能免費使用。Oracle 可能依據其公布的 CPU、網路（A1 上還包括記憶體）使用率標準，回收閒置執行個體。請參閱上文的資源和條件。",
           "Mac mini 還是 VPS？取決於電腦能不能 24 小時開著。能的話，在家執行可以省掉伺服器月費；不能的話，選 VPS 或託管。",
           "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？ SONAR20：符合條件的新購首期享 20% 折扣，已有帳號也可適用。網域註冊和續訂除外，請在購物車確認方案。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣，網域註冊除外。已有方案的續約按定價計算，沒有折扣。"
@@ -111786,7 +111786,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "What is the minimum server for OpenClaw? The official documentation publishes no minimum RAM, CPU or disk; the stable release requires Node 24.22.1 or newer (or 26.12.1). With an API key or credits, KVM 1 is the starting point. With a local model, the 8 GiB floor applies to the smallest recipe only, and KVM 4 is the first with room to spare for it.",
           "Can you run it without an API key? Yes, with a local model, but then memory becomes the problem: the documentation gives 8 GiB as the floor for its smallest local recipe, with a 64K context, and warns that this does not guarantee the model fits or runs well. With Hostinger's credits, you do not need an account with an AI provider, but you pay for usage.",
-          "Is Oracle really free? It can be, within the Always Free limits and regional availability. Oracle may reclaim an idle instance when, over seven days, CPU at the 95th percentile and network both stay below 20%; on A1, memory below 20% is an additional condition. See the resources and conditions above.",
+          "Is Oracle really free? It can be, within the Always Free limits and regional availability. Oracle may reclaim an idle instance based on the CPU, network and, on A1, memory usage criteria it publishes. See the resources and conditions above.",
           "Mac mini or VPS? It depends on whether the computer can stay on 24 hours. If it can, running at home removes the server fee; if it cannot, choose a VPS or the managed option.",
           "Is there a Hostinger discount coupon for an OpenClaw VPS? SONAR20: 20% off the first period of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%, except domain registration. The renewal of a plan you already have is charged at the list price, with no discount."
@@ -112070,7 +112070,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Festplatte; die stabile Version verlangt Node 24.22.1 oder neuer (oder 26.12.1). Mit API-Schlüssel oder Guthaben ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell gilt die Untergrenze von 8 GiB nur für das kleinste Rezept, und der KVM 4 ist dafür der erste mit Reserve.",
           "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
-          "Ist Oracle wirklich kostenlos? Das kann es sein, innerhalb der Always-Free-Grenzen und je nach regionaler Verfügbarkeit. Oracle kann eine ungenutzte Instanz zurückholen, wenn in sieben Tagen die CPU-Auslastung im 95. Perzentil und die Netzwerkauslastung unter 20 % bleiben; bei den A1 zählt auch eine Speicherauslastung unter 20 % zum Kriterium. Die Ressourcen und Bedingungen finden Sie oben.",
+          "Ist Oracle wirklich kostenlos? Das kann es sein, innerhalb der Always-Free-Grenzen und je nach regionaler Verfügbarkeit. Oracle kann eine ungenutzte Instanz anhand der Kriterien zur Auslastung von CPU, Netzwerk und, bei den A1, Speicher zurückholen, die Oracle veröffentlicht. Die Ressourcen und Bedingungen finden Sie oben.",
           "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nein, wählen Sie VPS oder den verwalteten Weg.",
           "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %, außer bei der Domainregistrierung. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
@@ -112356,7 +112356,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quel est le serveur minimum pour OpenClaw ? La documentation officielle ne publie ni minimum de RAM, de CPU ni de disque ; la version stable exige Node 24.22.1 ou plus récent (ou 26.12.1). Avec une clé d'API ou des crédits, le KVM 1 est le point de départ. Avec un modèle local, le plancher de 8 GiB ne vaut que pour la plus petite recette, et le KVM 4 est le premier avec de la marge pour elle.",
           "Peut-on s'en passer, sans clé d'API ? Oui, avec un modèle local, mais alors la mémoire devient le problème : la documentation donne 8 GiB comme plancher de sa plus petite recette locale, avec un contexte de 64K, et prévient que cela ne garantit ni que le modèle tienne, ni qu'il tourne bien. Avec les crédits de Hostinger, vous n'avez pas besoin d'un compte chez un fournisseur d'IA, mais vous payez l'usage.",
-          "Oracle est-il vraiment gratuit ? Cela peut l'être, dans les limites Always Free et selon la disponibilité de la région. Oracle peut récupérer une instance inactive lorsque, sur sept jours, l'utilisation du CPU au 95e centile et celle du réseau restent sous 20 % ; sur les A1, l'utilisation de la mémoire sous 20 % entre aussi dans le critère. Voyez les ressources et les conditions plus haut.",
+          "Oracle est-il vraiment gratuit ? Cela peut l'être, dans les limites Always Free et selon la disponibilité de la région. Oracle peut récupérer une instance inactive selon les critères d'utilisation du CPU, du réseau et, sur les A1, de la mémoire qu'elle publie. Voyez les ressources et les conditions plus haut.",
           "Mac mini ou VPS ? Cela dépend de la possibilité de laisser l'ordinateur allumé 24 heures sur 24. Si c'est possible, tourner chez soi supprime la mensualité du serveur ; sinon, choisissez un VPS ou l'offre gérée.",
           "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? SONAR20 : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus ; vérifiez le forfait au panier.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %, sauf l'enregistrement de domaine. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
@@ -112641,7 +112641,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Cuál es el servidor mínimo para OpenClaw? La documentación oficial no publica mínimos de RAM, CPU ni disco; en la versión estable exige Node 24.22.1 o más reciente (o 26.12.1). Con clave de API o créditos, el KVM 1 es el punto de partida. Con modelo local, el piso de 8 GiB vale solo para la receta más pequeña, y el KVM 4 es el primero con margen para ella.",
           "¿Se puede usar sin clave de API? Sí, con un modelo local, pero entonces la memoria es el problema: la documentación da 8 GiB como piso de su receta local más pequeña, con un contexto de 64K, y advierte de que eso no garantiza que el modelo quepa ni que funcione bien. Con los créditos de Hostinger no necesitas una cuenta en un proveedor de IA, pero pagas por el uso.",
-          "¿Oracle es gratis de verdad? Puede serlo, dentro de los límites de Always Free y de la disponibilidad de la región. Oracle puede recuperar una instancia inactiva cuando, en siete días, el uso de CPU en el percentil 95 y el de red quedan por debajo del 20%; en las A1, el uso de memoria por debajo del 20% también entra en el criterio. Consulta los recursos y las condiciones de arriba.",
+          "¿Oracle es gratis de verdad? Puede serlo, dentro de los límites de Always Free y de la disponibilidad de la región. Oracle puede recuperar una instancia inactiva según los criterios de uso de CPU, red y, en las A1, memoria que publica. Consulta los recursos y las condiciones de arriba.",
           "¿Mac mini o VPS? Depende de si la computadora puede quedar encendida las 24 horas. Si puede, correrlo en casa elimina la mensualidad del servidor; si no puede, elige VPS o gestionado.",
           "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? SONAR20: 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; revisa el plan en el carrito.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %, salvo el registro de dominio. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
@@ -112942,7 +112942,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o mínimo de servidor para o OpenClaw? A documentação oficial não publica RAM, CPU nem disco mínimos; na versão estável, ela exige Node 24.22.1 ou mais recente (ou 26.12.1). Com chave de API ou créditos, o KVM 1 é o ponto de partida. Com modelo local, o piso de 8 GiB vale só para a menor receita, e o KVM 4 é o primeiro com folga para ela.",
           "Dá para rodar sem chave de API? Dá, com modelo local, mas aí a memória vira o problema: a documentação dá 8 GiB como piso da menor receita local, com contexto de 64K, e avisa que isso não garante que o modelo caiba nem que rode bem. Com os créditos da Hostinger, você não precisa de conta num provedor de IA, mas paga pelo uso.",
-          "Oracle é de graça mesmo? Pode ser, dentro dos limites do Always Free e da disponibilidade da região. A Oracle pode recuperar uma instância ociosa quando, em sete dias, o uso de CPU no percentil 95 e o de rede ficam abaixo de 20%; nas A1, o uso de memória abaixo de 20% também entra no critério. Veja os recursos e as condições acima.",
+          "Oracle é de graça mesmo? Pode ser, dentro dos limites do Always Free e da disponibilidade da região. A Oracle pode recuperar uma instância ociosa pelos critérios de uso de CPU, rede e, nas A1, memória que ela publica. Veja os recursos e as condições acima.",
           "Mac mini ou VPS? Depende de o computador poder ficar ligado 24 horas. Se pode, rodar em casa tira a mensalidade do servidor; se não pode, escolha VPS ou gerenciado.",
           "Tem cupom de desconto da Hostinger para VPS do OpenClaw? SONAR20: 20% no primeiro período de compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora; confira o plano no carrinho.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%, salvo registro de domínio. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
@@ -113226,7 +113226,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual è il server minimo per OpenClaw? La documentazione ufficiale non pubblica minimi di RAM, CPU o disco; nella versione stabile richiede Node 24.22.1 o più recente (oppure 26.12.1). Con chiave API o crediti, il KVM 1 è il punto di partenza. Con modello locale, il minimo di 8 GiB vale solo per la ricetta più piccola, e il KVM 4 è il primo con margine per quella.",
           "Si può usare senza chiave API? Sì, con un modello locale, ma allora la memoria diventa il problema: la documentazione indica 8 GiB come minimo per la ricetta locale più piccola, con contesto da 64K, e avverte che non garantisce né che il modello ci stia, né che giri bene. Con i crediti di Hostinger non ti serve un account presso un fornitore di IA, ma paghi in base all'uso.",
-          "Oracle è davvero gratis? Può esserlo, nei limiti dell'Always Free e secondo la disponibilità della regione. Oracle può recuperare un'istanza inattiva quando, in sette giorni, l'uso della CPU al 95° percentile e quello della rete restano sotto il 20%; sulle A1, anche l'uso della memoria sotto il 20% rientra nel criterio. Vedi le risorse e le condizioni qui sopra.",
+          "Oracle è davvero gratis? Può esserlo, nei limiti dell'Always Free e secondo la disponibilità della regione. Oracle può recuperare un'istanza inattiva in base ai criteri di utilizzo di CPU, rete e, sulle A1, memoria che pubblica. Vedi le risorse e le condizioni qui sopra.",
           "Mac mini o VPS? Dipende dal fatto che il computer possa restare acceso 24 ore. Se può, farlo girare a casa toglie il canone del server; se non può, scegli VPS o gestito.",
           "Esiste un coupon sconto di Hostinger per un VPS OpenClaw? SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi; controlla il piano nel carrello.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%, salvo la registrazione di dominio. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
@@ -192927,10 +192927,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "En 2 años, Hostinger cuesta menos",
         "paragraphs": [
-          "Para dos años de hosting, Premium de 24 meses con SONAR20 requiere un pago anticipado de 38,21 US$. Economy de 24 meses cuesta 155,76 US$. Con los importes consultados, contratar un año de Economy y renovarlo una vez sumaría 227,76 US$; hacer lo mismo con Starter sumaría 143,76 US$. Estas dos últimas cifras son cálculos que suponen que la renovación mantiene el precio anunciado."
+          "Para dos años de hosting, Premium de 24 meses con SONAR20 requiere un pago anticipado de 38,21 US$. Economy de 24 meses cuesta 155,76 US$. Contratar un año de Economy y renovarlo una vez sumaría 227,76 US$; hacer lo mismo con Starter sumaría 143,76 US$. Estas dos últimas cifras son cálculos que suponen que la renovación mantiene el precio anunciado."
         ],
         "comparisonTable": {
-          "caption": "Hosting por dos años: pagos de 24 meses observados para Premium y Economy; cálculo de 12 meses más una renovación para Starter. Se supone que la renovación conserva el precio anunciado. No se incluye renovar dominio ni correo después del primer año.",
+          "caption": "Hosting por dos años: pagos de 24 meses para Premium y Economy; cálculo de 12 meses más una renovación para Starter. Se supone que la renovación conserva el precio anunciado. No se incluye renovar dominio ni correo después del primer año.",
           "headers": [
             "Plan",
             "Pago de dos años",
@@ -192959,7 +192959,7 @@ export const reviewsData: unknown[] = [
         "heading": "En 4 años, Hostinger cuesta menos",
         "paragraphs": [
           "En Hostinger pagas los 48 meses de hosting de una vez y no renuevas el hosting durante ese período. El carrito mostraba Premium a 95,52 US$ con la promoción de Black Friday y a 76,42 US$ con SONAR20. El dominio y el correo solo son gratis el primer año.",
-          "Para comparar exactamente 48 meses, calculamos Economy de GoDaddy por 36 meses a 215,64 US$, más una renovación anual a la tarifa anunciada de 143,88 US$: 359,52 US$ en total. Esa renovación es un gasto futuro estimado, no un precio garantizado."
+          "Para comparar exactamente 48 meses, Economy de GoDaddy por 36 meses cuesta 215,64 US$, más una renovación anual a la tarifa anunciada de 143,88 US$: 359,52 US$ en total. Esa renovación es un gasto futuro estimado, no un precio garantizado."
         ],
         "comparisonTable": {
           "headers": [
@@ -193010,7 +193010,7 @@ export const reviewsData: unknown[] = [
         "heading": "Si solo necesitas el sitio: GoDaddy Starter",
         "paragraphs": [
           "Starter es el plan de GoDaddy solo con el sitio: 1 sitio, 10 GB NVMe y cPanel, sin dominio ni correo en la lista. El SSL llega por AutoSSL, como en todos los planes de GoDaddy. No tiene descuento en el primer año: el carrito mostró 71,88 US$ por 1 año, y se renueva al mismo 71,88 US$.",
-          "Con los importes consultados, Starter cuesta más que Premium con SONAR20 en los escenarios de 1, 2 y 4 años. Su renovación anual anunciada es 60 US$ menor que la de Premium. Para decidir a más largo plazo, hay que sumar la contratación inicial y todas las renovaciones del plazo previsto."
+          "Starter cuesta más que Premium con SONAR20 en los escenarios de 1, 2 y 4 años. Su renovación anual anunciada es 60 US$ menor que la de Premium. Para decidir a más largo plazo, hay que sumar la contratación inicial y todas las renovaciones del plazo previsto."
         ],
         "comparisonTable": {
           "headers": [
@@ -193050,7 +193050,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dominio, correo y SSL: qué está incluido y qué se cobra aparte",
         "paragraphs": [
           "En Premium y Economy, el dominio y el correo son gratis por un año. Después se renuevan por separado; sus renovaciones quedan fuera de los totales de dos y cuatro años. El aviso de GoDaddy también indica una tarifa de ICANN para el dominio gratuito. Comprueba esos cargos al comparar cuánto pagarás por el conjunto.",
-          "Hostinger incluye SSL gratis y GoDaddy incluye AutoSSL en los planes comparados. En la consulta, el carrito de Economy también añadía Standard SSL, gratis por un año y después con renovación automática a 119,99 US$ al año. Es un certificado de pago adicional a AutoSSL; revisa esa partida y desactiva su renovación si no quieres mantenerlo."
+          "Hostinger incluye SSL gratis y GoDaddy incluye AutoSSL en los planes comparados. El carrito de Economy también lista un Standard SSL, gratis por un año y después con renovación automática a 119,99 US$ al año. Es un certificado de pago adicional a AutoSSL; revisa esa partida y desactiva su renovación si no quieres mantenerlo."
         ]
       },
       {
@@ -193062,7 +193062,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si necesitas más: Unlimited y Cloud Startup",
         "paragraphs": [
-          "Por encima de Premium, la página consultada ofrece Unlimited, con sitios ilimitados, y Cloud Startup. Con un 20% de descuento sobre el precio de página, 48 meses quedan en 107,14 US$ para Unlimited y 306,82 US$ para Cloud Startup, con renovaciones anunciadas de 16,99 y 25,99 US$ al mes. Son cálculos: confírmalos en el carrito. Los planes Deluxe y Ultimate de GoDaddy quedan fuera de la comparación."
+          "Por encima de Premium, la página de Hostinger ofrece Unlimited, con sitios ilimitados, y Cloud Startup. Con un 20% de descuento sobre el precio de página, 48 meses quedan en 107,14 US$ para Unlimited y 306,82 US$ para Cloud Startup, con renovaciones anunciadas de 16,99 y 25,99 US$ al mes. Son cálculos: confírmalos en el carrito. Los planes Deluxe y Ultimate de GoDaddy quedan fuera de la comparación."
         ],
         "links": [
           {
@@ -193085,7 +193085,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Cuál es mejor, Hostinger o GoDaddy? Por precio de hosting, Premium con SONAR20 cuesta menos que Economy en los escenarios internacionales de uno, dos y cuatro años, y tiene una renovación anual anunciada menor. Dominio y correo solo son gratis el primer año. Starter tiene la renovación anual más baja, pero no el menor coste acumulado en esos plazos. Más criterios están en [cómo elegir un hosting web](/es/reviews/como-elegir-hosting-hostinger).",
-          "¿GoDaddy renueva al mismo precio? En la consulta, Economy de un año mostraba 83,88 US$ por el primer período y 143,88 US$ por la renovación anual. Starter mostraba 71,88 US$ tanto por el primer año como por la renovación. Revisa la tarifa anunciada para el plazo que elijas.",
+          "¿GoDaddy renueva al mismo precio? No en Economy: el carrito muestra el plan de 1 año pasando de 83,88 US$ a 143,88 US$ al renovar. Starter no tiene descuento el primer año y renueva a los mismos 71,88 US$. Revisa la tarifa anunciada para el plazo que elijas.",
           "¿El cupón de Hostinger funciona en la renovación? No. SONAR20 da descuento en compras nuevas elegibles; la renovación se cobra a la tarifa del plan, sin ese descuento. Consulta la [guía de renovación de Hostinger](/es/reviews/hostinger-renovacion-cupon-sonar20).",
           "¿Hostinger Premium incluye dominio? Sí, gratis por 1 año, junto con 2 cuentas de correo por sitio. Después de ese año, el dominio se renueva por su cuenta, al precio actual de Hostinger.",
           "¿Puedo mover mi sitio de GoDaddy a Hostinger? La página de ayuda de Hostinger dice que la migración gratuita cubre un sitio de otra empresa en los planes Web, Cloud o Agency. Revisa tu plan con el soporte antes de cancelar el anterior.",
@@ -193132,7 +193132,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige Hostinger Premium si puedes pagar 24 o 48 meses de hosting por adelantado: con SONAR20, los importes consultados son menores que los de Economy.",
+        "Elige Hostinger Premium si puedes pagar 24 o 48 meses de hosting por adelantado: con SONAR20, los importes son menores que los de Economy.",
         "Elige Hostinger Premium si necesitas un año de hosting: el contrato de 12 meses con SONAR20 cuesta menos que Economy y tiene una renovación anual anunciada menor; dominio y correo son gratis solo el primer año."
       ],
       "skipIf": [
@@ -193256,10 +193256,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sur 2 ans, Hostinger coûte moins",
         "paragraphs": [
-          "Pour deux ans d'hébergement, Premium sur 24 mois avec SONAR20 demande un paiement anticipé de 38,21 US$. Economy sur 24 mois coûte 155,76 US$. Aux tarifs consultés, un an d'Economy suivi d'un renouvellement reviendrait à 227,76 US$ ; la même formule avec Starter reviendrait à 143,76 US$. Ces deux derniers montants sont des calculs supposant le maintien du tarif de renouvellement annoncé."
+          "Pour deux ans d'hébergement, Premium sur 24 mois avec SONAR20 demande un paiement anticipé de 38,21 US$. Economy sur 24 mois coûte 155,76 US$. Un an d'Economy suivi d'un renouvellement reviendrait à 227,76 US$ ; la même formule avec Starter reviendrait à 143,76 US$. Ces deux derniers montants sont des calculs supposant le maintien du tarif de renouvellement annoncé."
         ],
         "comparisonTable": {
-          "caption": "Deux ans d'hébergement : paiements de 24 mois relevés pour Premium et Economy ; calcul de 12 mois plus un renouvellement pour Starter, au tarif annoncé supposé inchangé. Le renouvellement du domaine et de l'e-mail après la première année est exclu.",
+          "caption": "Deux ans d'hébergement : paiements de 24 mois pour Premium et Economy ; calcul de 12 mois plus un renouvellement pour Starter, au tarif annoncé supposé inchangé. Le renouvellement du domaine et de l'e-mail après la première année est exclu.",
           "headers": [
             "Forfait",
             "Paiement sur deux ans",
@@ -193288,7 +193288,7 @@ export const reviewsData: unknown[] = [
         "heading": "Sur 4 ans, Hostinger coûte moins",
         "paragraphs": [
           "Chez Hostinger, vous payez 48 mois d'hébergement en une fois, sans renouveler l'hébergement pendant cette période. Le panier affichait Premium à 95,52 US$ avec la promotion du Black Friday, puis à 76,42 US$ avec SONAR20. Le domaine et l'e-mail restent gratuits uniquement la première année.",
-          "Pour comparer exactement 48 mois, nous calculons Economy sur 36 mois à 215,64 US$, puis un renouvellement annuel au tarif annoncé de 143,88 US$ : soit 359,52 US$. Ce renouvellement est une dépense future estimée, pas un tarif garanti."
+          "Pour comparer exactement 48 mois, Economy sur 36 mois coûte 215,64 US$, puis un renouvellement annuel au tarif annoncé de 143,88 US$ : soit 359,52 US$. Ce renouvellement est une dépense future estimée, pas un tarif garanti."
         ],
         "comparisonTable": {
           "headers": [
@@ -193339,7 +193339,7 @@ export const reviewsData: unknown[] = [
         "heading": "Si vous n'avez besoin que du site : GoDaddy Starter",
         "paragraphs": [
           "Le Starter est le forfait de GoDaddy pour le site seul : 1 site, 10 Go NVMe et cPanel, sans domaine ni e-mail dans la liste. Le SSL passe par AutoSSL, comme sur tous les forfaits GoDaddy. Il n'a pas de remise la première année : le panier affichait 71,88 US$ pour 1 an, et il se renouvelle au même 71,88 US$.",
-          "Aux tarifs consultés, Starter coûte plus que Premium avec SONAR20 dans les scénarios sur un, deux et quatre ans. Son renouvellement annuel annoncé est inférieur de 60 US$ à celui de Premium. Pour choisir sur une durée plus longue, il faut additionner le contrat initial et tous les renouvellements prévus."
+          "Starter coûte plus que Premium avec SONAR20 dans les scénarios sur un, deux et quatre ans. Son renouvellement annuel annoncé est inférieur de 60 US$ à celui de Premium. Pour choisir sur une durée plus longue, il faut additionner le contrat initial et tous les renouvellements prévus."
         ],
         "comparisonTable": {
           "headers": [
@@ -193372,14 +193372,14 @@ export const reviewsData: unknown[] = [
               "143,88 US$"
             ]
           ],
-          "caption": "Hébergement en dollars américains. Premium utilise des contrats initiaux de 12, 24 et 48 mois ; Economy, des contrats de 12 et 24 mois puis un calcul de 36 mois plus un renouvellement ; Starter, 12 mois plus les renouvellements nécessaires. Les projections maintiennent les tarifs annoncés. Domaine et e-mail après la première année sont exclus. Economy proposait aussi 60 mois à 359,40 US$."
+          "caption": "Hébergement en dollars américains. Premium utilise des contrats initiaux de 12, 24 et 48 mois ; Economy, des contrats de 12 et 24 mois puis un calcul de 36 mois plus un renouvellement ; Starter, 12 mois plus les renouvellements nécessaires. Les projections maintiennent les tarifs annoncés. Domaine et e-mail après la première année sont exclus. Economy propose aussi 60 mois à 359,40 US$."
         }
       },
       {
         "heading": "Domaine, e-mail et SSL : services inclus et frais séparés",
         "paragraphs": [
           "Sur Premium comme sur Economy, le domaine et l'e-mail sont gratuits pendant un an. Leurs renouvellements sont ensuite facturés séparément et exclus des totaux sur deux et quatre ans. GoDaddy indique aussi des frais ICANN pour le domaine gratuit. Vérifiez ces frais pour comparer le coût de l'ensemble.",
-          "Hostinger inclut le SSL gratuit et GoDaddy inclut AutoSSL dans les forfaits comparés. Lors de la consultation, le panier d'Economy ajoutait aussi SSL Standard, gratuit pendant un an puis renouvelé automatiquement à 119,99 US$ par an. Ce certificat payant s'ajoute à AutoSSL ; vérifiez cette ligne et désactivez son renouvellement si vous ne souhaitez pas le conserver."
+          "Hostinger inclut le SSL gratuit et GoDaddy inclut AutoSSL dans les forfaits comparés. Le panier d'Economy liste aussi un SSL Standard, gratuit pendant un an puis renouvelé automatiquement à 119,99 US$ par an. Ce certificat payant s'ajoute à AutoSSL ; vérifiez cette ligne et désactivez son renouvellement si vous ne souhaitez pas le conserver."
         ]
       },
       {
@@ -193391,7 +193391,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si vous avez besoin de plus : Unlimited et Cloud Startup",
         "paragraphs": [
-          "Au-dessus de Premium, la page consultée propose Unlimited, avec des sites illimités, et Cloud Startup. Avec 20 % de réduction sur le prix affiché pour 48 mois, on obtient 107,14 US$ pour Unlimited et 306,82 US$ pour Cloud Startup, avec des renouvellements annoncés de 16,99 et 25,99 US$ par mois. Ce sont des calculs : confirmez-les dans le panier. Deluxe et Ultimate de GoDaddy restent hors comparaison."
+          "Au-dessus de Premium, la page de Hostinger propose Unlimited, avec des sites illimités, et Cloud Startup. Avec 20 % de réduction sur le prix affiché pour 48 mois, on obtient 107,14 US$ pour Unlimited et 306,82 US$ pour Cloud Startup, avec des renouvellements annoncés de 16,99 et 25,99 US$ par mois. Ce sont des calculs : confirmez-les dans le panier. Deluxe et Ultimate de GoDaddy restent hors comparaison."
         ],
         "links": [
           {
@@ -193403,7 +193403,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lequel choisir selon la durée du site",
         "paragraphs": [
-          "Un an d'hébergement : Premium sur 12 mois avec SONAR20 était affiché à 19,10 US$, contre 83,88 US$ pour Economy, soit 64,78 US$ d'écart. Les deux offrent le domaine et l'e-mail la première année ; GoDaddy indique aussi des frais ICANN pour le domaine. Vérifiez comment ces frais figurent dans le total du panier.",
+          "Un an d'hébergement : Premium sur 12 mois avec SONAR20 est affiché à 19,10 US$, contre 83,88 US$ pour Economy, soit 64,78 US$ d'écart. Les deux offrent le domaine et l'e-mail la première année ; GoDaddy indique aussi des frais ICANN pour le domaine. Vérifiez comment ces frais figurent dans le total du panier.",
           "Deux ans d'hébergement : Premium sur 24 mois était affiché à 38,21 US$ avec SONAR20, contre 155,76 US$ pour Economy. Ajoutez le renouvellement du domaine et de l'e-mail après la première année si vous souhaitez les conserver.",
           "Quatre ans d'hébergement : Premium sur 48 mois était affiché à 76,42 US$ avec SONAR20. Economy atteint 359,52 US$ dans le scénario de 36 mois plus un renouvellement au tarif annoncé. Si vous acceptez de payer cinq ans, Economy sur 60 mois était affiché à 359,40 US$. Domaine et e-mail après la première année restent à payer séparément.",
           "Pour l'hébergement seul, Starter a le renouvellement annuel annoncé le plus bas : 71,88 US$. Premium coûte pourtant moins dans les scénarios sur un, deux et quatre ans. Un renouvellement moins cher ne suffit pas à démontrer un coût cumulé inférieur sur une durée plus longue.",
@@ -193413,10 +193413,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Lequel est le meilleur, Hostinger ou GoDaddy ? Pour le prix de l'hébergement, Premium avec SONAR20 coûte moins qu'Economy dans les scénarios internationaux consultés sur un, deux et quatre ans, avec un renouvellement annuel annoncé inférieur. Domaine et e-mail ne sont gratuits que la première année. Starter a le renouvellement annuel le plus bas, mais pas le coût cumulé le plus faible sur ces durées. D'autres critères figurent dans [comment choisir un hébergeur web](/fr/reviews/choisir-hebergeur-hostinger).",
-          "Le renouvellement de GoDaddy coûte-t-il le même prix ? Lors de la consultation, Economy sur un an affichait 83,88 US$ pour la première période, puis 143,88 US$ pour le renouvellement annuel. Starter affichait 71,88 US$ pour la première année comme pour le renouvellement. Vérifiez le tarif annoncé pour la durée choisie.",
+          "Lequel est le meilleur, Hostinger ou GoDaddy ? Pour le prix de l'hébergement, Premium avec SONAR20 coûte moins qu'Economy dans les scénarios internationaux sur un, deux et quatre ans, avec un renouvellement annuel annoncé inférieur. Domaine et e-mail ne sont gratuits que la première année. Starter a le renouvellement annuel le plus bas, mais pas le coût cumulé le plus faible sur ces durées. D'autres critères figurent dans [comment choisir un hébergeur web](/fr/reviews/choisir-hebergeur-hostinger).",
+          "Le renouvellement de GoDaddy coûte-t-il le même prix ? Economy sur un an affiche 83,88 US$ pour la première période, puis 143,88 US$ pour le renouvellement annuel. Starter affiche 71,88 US$ pour la première année comme pour le renouvellement. Vérifiez le tarif annoncé pour la durée choisie.",
           "Le code Hostinger fonctionne-t-il au renouvellement ? Non. SONAR20 réduit le prix des nouveaux achats éligibles ; le renouvellement est facturé au tarif du forfait, sans cette réduction. Consultez le [guide de renouvellement Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20).",
-          "Le Premium de Hostinger inclut-il un domaine ? Oui, le domaine est gratuit pendant un an, tout comme les deux boîtes e-mail par site indiquées dans l'offre consultée. Après cette année, leurs renouvellements sont facturés séparément, aux tarifs applicables.",
+          "Le Premium de Hostinger inclut-il un domaine ? Oui, le domaine est gratuit pendant un an, tout comme les deux boîtes e-mail par site. Après cette année, leurs renouvellements sont facturés séparément, aux tarifs applicables.",
           "Puis-je migrer mon site de GoDaddy vers Hostinger ? La page d'aide de Hostinger indique que la migration gratuite couvre un site venant d'une autre société sur les forfaits Web, Cloud ou Agency ; vérifiez votre forfait avec le support avant de résilier l'ancien.",
           "Quel est le code promo Hostinger ? SONAR20 offre 20 % de réduction sur la première période des nouveaux achats éligibles ; il ne s'applique ni au renouvellement ni à Premium sur un mois."
         ]
