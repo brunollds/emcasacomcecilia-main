@@ -16,6 +16,7 @@
   "description": "O que é a Lejour e como funciona: site do casamento e lista de presentes virtuais, as taxas de cada plano, como sacar o dinheiro e qual plano escolher para a sua lista.",
   "metaDescription": "Lejour: o que é, como funciona a lista de presentes, as taxas (3,89% a 2,99%) e os planos Basic, Premium e Pro, em 14/10/2026.",
   "publishedAt": "14 de outubro de 2026",
+  "updatedAt": "2026-11-07",
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
@@ -244,12 +245,12 @@
         "**Basic:** casais que querem começar sem pagar ou esperam poucos presentes. Se você espera muitos presentes ou mais de 2 saques, compare com o Premium na tabela de planos acima.",
         "**Premium:** casais que esperam um volume maior de presentes ou fariam mais de 2 saques (preço, taxa e itens inclusos na tabela de planos acima).",
         "**Pro:** casais com convidados de vários países ou que querem todos os recursos (detalhes na tabela de planos acima).",
-        "Na dúvida, comece no Basic: o Premium se paga a partir de R$ 16.650 em presentes."
+        "Na dúvida, comece no Basic: com o Premium a R$ 99,90, o preço de outubro, ele se paga a partir de R$ 16.650 em presentes. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
       ],
       "postParagraphs": [
         "Para saber a partir de quanto a taxa menor paga o preço do plano, a conta é simples: o preço do plano dividido pela diferença entre as taxas. É uma conta nossa, feita com os números acima, e serve como orientação, não como promessa de economia:",
         "Conferindo o primeiro caso: em R$ 16.650 de presentes, a taxa do Basic é de R$ 647,69 e a do Premium, de R$ 547,79. A diferença é de R$ 99,90, o preço do Premium.",
-        "Três cuidados sobre essa conta. Primeiro, a conta só favorece o casal se ele paga a taxa; se os convidados pagam, a economia vai para o convidado, e o plano pago só compensa pelo saque ilimitado e pelo domínio. Segundo, o Premium estava em preço promocional (de R$ 179,90 por R$ 99,90), então refaça a conta com o preço que aparecer no painel. Terceiro, a conta não inclui os extras de cada plano: no Basic, o domínio .site custa R$ 69,90 e cada saque depois do 2º custa R$ 5, itens que os planos pagos já cobrem."
+        "Três cuidados sobre essa conta. Primeiro, a conta só favorece o casal se ele paga a taxa; se os convidados pagam, a economia vai para o convidado, e o plano pago só compensa pelo saque ilimitado e pelo domínio. Segundo, a conta usa o Premium a R$ 99,90 (de R$ 179,90), o preço de outubro. Em novembro a Lejour tem preços de campanha nos planos, que mudam o resultado, então refaça a conta com o preço que aparecer no painel. Terceiro, a conta não inclui os extras de cada plano: no Basic, o domínio .site custa R$ 69,90 e cada saque depois do 2º custa R$ 5, itens que os planos pagos já cobrem."
       ],
       "comparisonTable": {
         "caption": "A partir de quanto em presentes a taxa menor paga o plano (conta nossa)",

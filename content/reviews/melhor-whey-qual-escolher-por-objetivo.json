@@ -16,6 +16,7 @@
   "description": "Qual whey escolher para cada objetivo? Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu comparados pelo preço por 100 g de proteína, com a melhor opção para cada perfil.",
   "metaDescription": "Qual whey comprar: compare Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu pelo preço por 100 g de proteína, com os preços de 23/10/2026.",
   "publishedAt": "23 de outubro de 2026",
+  "updatedAt": "2026-11-07",
   "publishedAtISO": "2026-10-23",
   "draft": false,
   "isNew": true,
@@ -91,7 +92,7 @@
       "heading": "Melhor whey zero lactose",
       "paragraphs": [
         "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Custava R$ 241,97, com 21 g de proteína em 30 g (70%, na tabela do chocolate), 30 porções e R$ 38,41 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas.",
-        "A alternativa é o Iso Pro Whey da Probiótica, um isolado (WPI) com 26 g de proteína em 30 g (87%), 1,3 g de carboidrato por dose, R$ 346,28 e R$ 44,39 por 100 g. A loja não o declara como zero lactose, e o alergênico cita derivados de leite e soja: por isso ele entra como alternativa de proteína, não como whey sem lactose.",
+        "O Iso Pro Whey da Probiótica, apesar de isolado, não serve para esse perfil: a página dele declara que contém lactose, além de derivados de leite e soja. Ele aparece no capítulo de whey isolado.",
         "Nas outras marcas, nada declara \"sem lactose\" nesta leitura. A Max não tem whey zero lactose: o \"Zero Lactose\" do menu dela é o Mass Titanium 17500, um hipercalórico. Na Black Skull, todos os wheys contêm lactose. No Whey Dr. Peanut, o rótulo diz que contém lactose, e nos wheys da Mais Mu a página diz que contém lactose ou não declara nada."
       ],
       "postParagraphs": [
@@ -452,7 +453,7 @@
             "R$ 44,39",
             "R$ 346,28",
             "Isolado (WPI)",
-            "Não declara"
+            "Contém"
           ],
           [
             "Max Titanium 100% Whey Pote 900 g",
@@ -566,7 +567,7 @@
             "Whey sem lactose",
             "[Probiótica 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "R$ 38,41",
-            "[Probiótica Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 44,39 (a loja não declara zero lactose)"
+            "Nenhuma outra marca declara sem lactose"
           ],
           [
             "Whey isolado",
@@ -667,7 +668,7 @@
         "Qual o melhor whey custo-benefício em 2026? Não existe um só: pelo preço por 100 g de proteína lido para o guia, o Whey 80% HD Refil da Black Skull saía a R$ 23,17 e o Hiper 100% Whey da Probiótica, em promoção, a R$ 23,61. O capítulo de custo-benefício traz os dois.",
         "Whey concentrado ou isolado: qual o melhor? Depende do que você procura. Pelas tabelas, o isolado tem 26 g de proteína em dose de 30 g, contra 20 g a 23 g do concentrado, e custa mais por proteína: R$ 41,82 a R$ 44,39 por 100 g, contra R$ 23,17 do concentrado mais barato do guia.",
         "Whey 3W ou 100%: qual escolher? O \"100%\" não é um tipo de proteína: o 100% Whey da Max é só concentrado, e o 100% HD da Black Skull mistura concentrado, isolado e hidrolisado. O Top Whey 3W \"+ Sabor\" da Max saía a R$ 33,60 por 100 g de proteína em promoção, perto dos R$ 31,17 do 100% Whey Refil.",
-        "Qual whey não tem lactose? Entre as cinco lojas, só o 100% Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" (R$ 241,97), e o alergênico dele cita derivados de leite. O Iso Pro Whey não declara lactose, mas a loja não o vende como zero lactose; quem tem intolerância ou alergia deve conferir o rótulo.",
+        "Qual whey não tem lactose? Entre as cinco lojas, só o 100% Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" (R$ 241,97), e o alergênico dele cita derivados de leite. O Iso Pro Whey é isolado, mas a página dele declara que contém lactose; quem tem intolerância ou alergia deve conferir o rótulo.",
         "Qual whey é melhor para iniciantes? Para começar sem comprar 900 g, as opções lidas são o pote de 450 g e a caixa de sachês da Mais Mu e o Gourmet 450 g da Black Skull, com só 12 g de proteína por dose. Este guia não indica quantidade: quem tem dúvida sobre dose deve falar com nutricionista.",
         "Whey nacional é confiável? As cinco marcas vendem pelo site oficial, e a Max Titanium e a Probiótica são do Grupo Supley, que aparece como fabricante no rótulo do 3 Whey Protein da Probiótica e do whey Dr. Peanut. Empresa, CNPJ, trocas e reputação de cada uma estão em [Black Skull](/reviews/black-skull-e-confiavel), [Max Titanium](/reviews/max-titanium-e-confiavel), [Probiótica](/reviews/probiotica-e-confiavel), [Dr. Peanut](/reviews/dr-peanut-e-confiavel) e [Mais Mu](/reviews/mais-mu-e-confiavel).",
         "O que significa \"100%\" no nome do whey? Não é o teor de proteína do pó: o 100% HD da Black Skull tem 21 g de proteína em 35 g (60%), e o 100% Whey da Max, 21 g em 30 g (70%). Vale a proteína por dose da tabela.",

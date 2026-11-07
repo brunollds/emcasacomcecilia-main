@@ -18,6 +18,7 @@
   "metaDescription": "Black Friday HolyFoods: use o cupom EMCASA e tire mais 15% por cima dos 30% do site, na tela de finalizar a compra. Veja os kits, o frete e a garantia.",
   "publishedAt": "5 de novembro de 2026",
   "publishedAtISO": "2026-11-05",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/holyfoods/black-friday-holyfoods-capa.webp",
@@ -219,7 +220,7 @@
         "caption": "Mínimos da campanha da Black, no FAQ da home da loja."
       },
       "postParagraphs": [
-        "O mínimo considera o preço depois dos descontos dos produtos. Pelos preços dos kits, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. A loja fala em desconto dos produtos, não em cupom: com o pedido perto da linha, confira o frete depois de aplicar o EMCASA.",
+        "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com os 15% do cupom (conta nossa), a Rotina Resolvida cai a R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, a R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. No nosso teste, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; no seu CEP, confira o frete no resumo depois de aplicar o EMCASA.",
         "Frete grátis não é prazo. A política da loja diz que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout. A reclamação mais comum no Reclame Aqui é produto não recebido, e os números estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao). Guarde o número do pedido e use o \"Rastrear pedido\" do menu da loja."
       ]
     },
@@ -236,7 +237,7 @@
       "paragraphs": [
         "Pelos números da tabela, o perfil decide:",
         "**Primeira vez na loja:** o Descoberta. É o menor, a loja o indica para conhecer, e a garantia cobre a unidade aberta. Ele fica abaixo do mínimo do frete grátis em qualquer região, então some o frete na conta.",
-        "**Abastecer a despensa:** o Despensa Cheia. É o que passa os três mínimos publicados do frete grátis e o único com o carrinho testado no EMCASA. O custo por refeição menor vem das sopas; se você não quer sopa, a Rotina Resolvida é só massa e risoto, com 15 refeições.",
+        "**Abastecer a despensa:** o Despensa Cheia. Antes do cupom, é o que passa os três mínimos publicados do frete grátis, e é o único com o carrinho testado no EMCASA (o frete saiu grátis a R$ 284,41; confira o resumo no seu CEP). O custo por refeição menor vem das sopas; se você não quer sopa, a Rotina Resolvida é só massa e risoto, com 15 refeições.",
         "**Pedido avulso:** a sopa, o risoto e o mac custam o mesmo na Black. Escolha pelo rendimento da tabela de avulsos.",
         "Antes de pagar:"
       ],
