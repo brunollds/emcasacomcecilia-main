@@ -1,0 +1,1911 @@
+{
+ "lote": "L11",
+ "tipo": "familias",
+ "loja": "yesstyle",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "code-recompense-yesstyle-cecilia010",
+   "arquivo": "content/reviews/code-recompense-yesstyle-cecilia010.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "code-recompense-yesstyle-cecilia010-fr-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta de \"É seguro comprar?\" passa a responder direto (empresa legítima, mas isso não prova originalidade); os outros dois itens seguem a proposta. As 400 marcas e a ausência de auditoria já estão no guia de confiança do idioma.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/3",
+       "antes": "Est-il sûr d'acheter sur YesStyle ? Oui. C'est une entreprise légitime depuis 2006, présente dans plus de 150 pays et régions, avec des produits authentiques et un chiffrement SSL.",
+       "depois": "Est-il sûr d'acheter sur YesStyle ? L'entreprise est légitime : elle est basée à Hong Kong et a été fondée en 2006. Cela ne garantit pas que les produits soient originaux ; voyez ce qu'il faut vérifier avant de commander dans [YesStyle est-il fiable et sûr ?](/fr/reviews/yesstyle-est-il-fiable-et-sur)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/6",
+       "antes": "Les produits sont-ils originaux ? Oui. YesStyle est distributeur agréé des marques. Il achète directement auprès des fabricants ou des distributeurs officiels.",
+       "depois": "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en achetant auprès des fabricants ou de distributeurs autorisés. Nous n'avons trouvé aucun audit indépendant qui le confirme ; à la livraison, vérifiez le lot, la date de péremption et le scellé."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "Produits 100 % authentiques, distributeur agréé",
+       "depois": "YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne"
+      }
+     ]
+    },
+    {
+     "id": "code-recompense-yesstyle-cecilia010-fr-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Troca o pro repetido de cumulação (já coberto no primeiro pro) pela divisão de 5% na primeira compra e 2% nas recorrentes, que nenhum outro pro traz; sem conflito com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "Utilisable avec les coupons promotionnels éligibles du site",
+       "depois": "Valable aussi bien pour une première commande (5 % en plus) que pour des achats récurrents (2 % en plus)",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "code-recompense-yesstyle-cecilia010-fr-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrige \"preços em dólar\": o próprio FAQ diz que a moeda é escolhida no pedido e convertida pelo câmbio interno, com possível tarifa do banco; ponteiro sem sobreposição com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "Prix finaux indiqués en dollars (soumis aux variations du taux de change)",
+       "depois": "Prix convertis selon le taux de change interne de YesStyle, avec d'éventuels frais bancaires pour paiement à l'étranger",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "codice-ricompensa-yesstyle-cecilia010",
+   "arquivo": "content/reviews/codice-ricompensa-yesstyle-cecilia010.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "codice-ricompensa-yesstyle-cecilia010-it-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta de \"É seguro comprar?\" passa a responder direto (empresa legítima, mas isso não prova originalidade); os outros dois itens seguem a proposta. As 400 marcas e a ausência de auditoria já estão no guia de confiança do idioma.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/3",
+       "antes": "Comprare su YesStyle è sicuro? Sì. Azienda legittima dal 2006, serve più di 150 paesi e regioni, prodotti autentici, crittografia SSL.",
+       "depois": "Comprare su YesStyle è sicuro? L'azienda è legittima: ha sede a Hong Kong ed è stata fondata nel 2006. Questo non garantisce che i prodotti siano originali; vedi cosa controllare prima di ordinare in [YesStyle è affidabile e sicuro?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/6",
+       "antes": "I prodotti sono originali? Sì. YesStyle è distributore autorizzato dei marchi. Compra direttamente dai produttori o dai distributori ufficiali.",
+       "depois": "I prodotti YesStyle sono originali o contraffatti? YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, acquistando dai produttori o da distributori autorizzati. Non abbiamo trovato un audit indipendente che lo confermi; alla consegna, controlla lotto, scadenza e sigillo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "Prodotti 100% autentici, distributore autorizzato",
+       "depois": "YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana"
+      }
+     ]
+    },
+    {
+     "id": "codice-ricompensa-yesstyle-cecilia010-it-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Troca o pro repetido de cumulação (já coberto no primeiro pro) pela divisão de 5% na primeira compra e 2% nas recorrentes, que nenhum outro pro traz; sem conflito com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "Si può usare insieme ai coupon promozionali idonei del sito",
+       "depois": "Valido sia per il primo ordine (5% extra) sia per gli acquisti successivi (2% extra)",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "codice-ricompensa-yesstyle-cecilia010-it-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrige \"preços em dólar\": o próprio FAQ diz que a moeda é escolhida no pedido e convertida pelo câmbio interno, com possível tarifa do banco; ponteiro sem sobreposição com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "Prezzi finali indicati in dollari (soggetti alle oscillazioni del cambio)",
+       "depois": "Prezzi convertiti con il tasso di cambio interno di YesStyle, con possibili commissioni bancarie per acquisti all'estero",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "codigo-cecilia010-yesstyle-como-usar",
+   "arquivo": "content/reviews/codigo-cecilia010-yesstyle-como-usar.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "codigo-cecilia010-yesstyle-como-usar-pt-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A resposta de 'Comprar é seguro?' passa a responder direto (empresa legítima, mas isso não prova originalidade); os outros dois itens seguem a proposta. As afirmações de 400 marcas e de ausência de auditoria já estão no guia de confiança.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/bullets/3",
+       "antes": "Comprar na YesStyle é seguro? Sim. Empresa legítima desde 2006, atende mais de 150 países e regiões, produtos autênticos, criptografia SSL.",
+       "depois": "Comprar na YesStyle é seguro? A empresa é legítima: é de Hong Kong e existe desde 2006. Isso não garante que os produtos sejam originais; veja o que conferir antes da compra em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/bullets/7",
+       "antes": "Os produtos são originais? Sim. A YesStyle é distribuidora autorizada das marcas. Compra diretamente dos fabricantes ou distribuidores oficiais.",
+       "depois": "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não encontramos auditoria independente que confirme isso; na entrega, confira lote, validade e lacre."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "Produtos 100% autênticos, distribuidora autorizada",
+       "depois": "A YesStyle declara ser revendedora autorizada de mais de 400 marcas de beleza coreana"
+      }
+     ]
+    },
+    {
+     "id": "codigo-cecilia010-yesstyle-como-usar-pt-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Troca o pro repetido de stacking (já coberto em pros/0) pela divisão 5% primeira compra e 2% recorrente, que nenhum outro pro traz; sem conflito com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "Pode ser usado junto com cupons promocionais elegíveis no site",
+       "depois": "Válido tanto na primeira compra (5% extra) quanto em pedidos recorrentes (2% extra)",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "codigo-cecilia010-yesstyle-como-usar-pt-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrige 'cotados em dólar': a própria FAQ diz que a moeda é escolhida no pedido e convertida pelo câmbio interno, com tarifa possível do banco; ponteiro sem sobreposição com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "Preços finais cotados em dólar (sujeito à variação cambial)",
+       "depois": "Preços e cobrança convertidos pelo câmbio interno da YesStyle, sujeitos a taxas de compra internacional do banco",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
+   "arquivo": "content/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "codigo-de-recompensa-yesstyle-cupon-cecilia010-es-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta de \"É seguro comprar?\" passa a responder direto (empresa legítima, mas isso não prova originalidade); os outros dois itens seguem a proposta. As 400 marcas e a ausência de auditoria já estão no guia de confiança do idioma.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/3",
+       "antes": "¿Es seguro comprar en YesStyle? Sí. Es una empresa legítima desde 2006, atiende a más de 150 países y regiones, vende productos auténticos y usa cifrado SSL.",
+       "depois": "¿Es seguro comprar en YesStyle? La empresa es legítima: tiene sede en Hong Kong y fue fundada en 2006. Eso no garantiza que los productos sean originales; mira qué revisar antes de comprar en [¿YesStyle es confiable y seguro?](/es/reviews/es-yesstyle-de-fiar-y-seguro)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/6",
+       "antes": "¿Los productos son originales? Sí. YesStyle es distribuidor autorizado de las marcas. Compra directamente a los fabricantes o a distribuidores oficiales.",
+       "depois": "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No encontramos una auditoría independiente que lo confirme; al recibir el pedido, comprueba el lote, la caducidad y el precinto."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "Productos 100% auténticos, distribuidor autorizado",
+       "depois": "YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana"
+      }
+     ]
+    },
+    {
+     "id": "codigo-de-recompensa-yesstyle-cupon-cecilia010-es-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Troca o pro repetido de cumulação (já coberto no primeiro pro) pela divisão de 5% na primeira compra e 2% nas recorrentes, que nenhum outro pro traz; sem conflito com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "Se puede usar junto con cupones promocionales elegibles en el sitio",
+       "depois": "Válido tanto en la primera compra (5% extra) como en pedidos recurrentes (2% extra)",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "codigo-de-recompensa-yesstyle-cupon-cecilia010-es-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrige \"preços em dólar\": o próprio FAQ diz que a moeda é escolhida no pedido e convertida pelo câmbio interno, com possível tarifa do banco; ponteiro sem sobreposição com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "Precios finales en dólares (sujetos a la variación del tipo de cambio)",
+       "depois": "Precios convertidos con el tipo de cambio interno de YesStyle, sujetos a posibles comisiones internacionales del banco",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "k-beauty-marcas-coreanas-tendencia-mundial",
+   "arquivo": "content/reviews/k-beauty-marcas-coreanas-tendencia-mundial.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "k-beauty-marcas-coreanas-tendencia-mundial-es-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "Una de las opciones es comprar en una tienda multimarca, como YesStyle.",
+        "YesStyle funciona como un marketplace centralizado: en vez de ir de marca en marca, compras varias marcas coreanas, y también japonesas y de otras partes de Asia, en un solo carrito. El envío se cobra según la tabla de tarifas de la tienda, y el pedido puede salir en más de un paquete, con llegadas en fechas distintas; el plazo estimado suma la disponibilidad de los artículos y el envío elegido, según la [política de entrega de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, entre ellas nombres como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: una muestra del tipo de marca disponible, no una lista cerrada, ya que el catálogo cambia con el tiempo.",
+        "La plataforma también va más allá del skincare: tiene moda asiática, maquillaje, accesorios y otras categorías de lifestyle, lo que significa que puedes complementar la compra de un sérum con otros artículos en la misma transacción.",
+        "Para comprar con descuento, el código de recompensa CECILIA010 da 5% en la primera compra y 2% en las siguientes, en el campo de código de recompensa (Reward Code) del checkout. Hay un paso a paso específico sobre cómo aplicar el código enlazado abajo. Los cupones de la tienda cambian; la lista del momento está en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
+        "Para quien solo quiere probar si la fama es real, juntar varias marcas en un pedido simplifica la primera compra."
+       ],
+       "depois": [
+        "Una de las opciones es comprar en una tienda multimarca, como YesStyle.",
+        "YesStyle funciona como un marketplace centralizado: en vez de ir de marca en marca, compras varias marcas coreanas, y también japonesas y de otras partes de Asia, en un solo carrito.",
+        "El envío se cobra según la tabla de tarifas de la tienda, y el pedido puede salir en más de un paquete, con llegadas en fechas distintas; el plazo estimado suma la disponibilidad de los artículos y el envío elegido, según la [política de entrega de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+        "La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, entre ellas nombres como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: una muestra del tipo de marca disponible, no una lista cerrada, ya que el catálogo cambia con el tiempo.",
+        "La plataforma también va más allá del skincare: tiene moda asiática, maquillaje, accesorios y otras categorías de lifestyle, lo que significa que puedes complementar la compra de un sérum con otros artículos en la misma transacción.",
+        "Para comprar con descuento, el código de recompensa CECILIA010 da 5% en la primera compra y 2% en las siguientes, en el campo de código de recompensa (Reward Code) del checkout. Hay un paso a paso específico sobre cómo aplicar el código enlazado abajo. Los cupones de la tienda cambian; la lista del momento está en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
+        "Para quien solo quiere probar si la fama es real, juntar varias marcas en un pedido simplifica la primera compra."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "k-beauty-marcas-coreanas-tendencia-mundial-es-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta enxuga k-dramas e internet, mas tira o 'primero' e o 'tercero' e deixa o 'segundo factor' sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "El primero es la influencia cultural de los k-dramas y el k-pop. Ambos fenómenos conquistaron enormes audiencias globales y funcionan como una vitrina viva de la cultura de belleza coreana: cuando las escenas de las series muestran a los personajes en sus rutinas de skincare en casa, o cuando los artistas de k-pop aparecen con la piel impecable en escenario tras escenario, la pregunta natural es «¿cómo lo hacen?».",
+       "depois": "El primer factor son los k-dramas y el k-pop: las escenas de skincare en las series y los artistas con la piel impecable en el escenario acercan a públicos de distintos países a la cultura de belleza coreana y despiertan curiosidad por sus cuidados y productos."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "El tercer factor es puramente de internet: las comunidades de entusiastas del skincare crecieron en plataformas como TikTok, YouTube y Reddit, los influencers empezaron a mostrar unboxings de productos coreanos con entusiasmo genuino, las reseñas se multiplicaron y la dinámica viral convirtió el K-Beauty de un interés de nicho en un fenómeno masivo.",
+       "depois": "El tercer factor es internet: en TikTok, YouTube y Reddit, las comunidades de skincare comparten unboxings y reseñas de productos coreanos, y esa circulación llevó el K-Beauty más allá de los grupos de aficionados."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "k-beauty-o-que-e-onde-comprar",
+   "arquivo": "content/reviews/k-beauty-o-que-e-onde-comprar.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "k-beauty-o-que-e-onde-comprar-pt-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "Uma das opções é comprar numa loja multimarcas, como a YesStyle.",
+        "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só. O frete segue a tabela da loja, e o pedido pode sair em mais de um envio, com chegadas em datas diferentes; o prazo estimado soma a disponibilidade dos itens e o envio escolhido, pela [política de entrega da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
+        "A plataforma também vai além de skincare: tem moda asiática, maquiagem, acessórios e outras categorias de lifestyle, o que significa que dá para complementar uma compra de sérum com outros itens na mesma transação.",
+        "Para comprar com desconto, o código de recompensa CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo de código de recompensa (Reward Code) do checkout. O passo a passo para aplicar o código está linkado abaixo. Os cupons da loja mudam; a lista do momento está em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
+        "Para quem só quer testar a fama, juntar várias marcas num pedido simplifica a primeira compra."
+       ],
+       "depois": [
+        "Uma das opções é comprar numa loja multimarcas, como a YesStyle.",
+        "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só.",
+        "O frete segue a tabela da loja, e o pedido pode sair em mais de um envio, com chegadas em datas diferentes; o prazo estimado soma a disponibilidade dos itens e o envio escolhido, pela [política de entrega da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+        "A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
+        "A plataforma também vai além de skincare: tem moda asiática, maquiagem, acessórios e outras categorias de lifestyle, o que significa que dá para complementar uma compra de sérum com outros itens na mesma transação.",
+        "Para comprar com desconto, o código de recompensa CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo de código de recompensa (Reward Code) do checkout. O passo a passo para aplicar o código está linkado abaixo. Os cupons da loja mudam; a lista do momento está em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
+        "Para quem só quer testar a fama, juntar várias marcas num pedido simplifica a primeira compra."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "k-beauty-o-que-e-onde-comprar-pt-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Proposta enxuga k-dramas e internet, mas tira o 'primeiro' e o 'terceiro fator' e deixa o 'segundo fator' sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "O primeiro é a influência cultural dos k-dramas e do k-pop. Os dois fenômenos conquistaram audiências globais enormes e funcionam como uma vitrine viva da cultura de beleza coreana: quando cenas de novelas mostram personagens em suas rotinas de skincare em casa, ou quando artistas de k-pop aparecem com pele impecável em palco após palco, a pergunta natural que surge é \"como eles fazem isso?\".",
+       "depois": "O primeiro fator são os k-dramas e o k-pop: cenas de skincare nas séries e artistas com pele impecável nos palcos aproximam públicos de vários países da cultura de beleza coreana e despertam curiosidade pelos cuidados e produtos."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "O terceiro fator é puramente de internet: comunidades de entusiastas de skincare cresceram em plataformas como TikTok, YouTube e Reddit, influenciadores passaram a mostrar unboxings de produtos coreanos com entusiasmo genuíno, resenhas se multiplicaram, e a dinâmica viral transformou K-Beauty de um interesse de nicho em um fenômeno mainstream.",
+       "depois": "O terceiro fator é a internet: no TikTok, no YouTube e no Reddit, comunidades de skincare compartilham unboxings e resenhas de produtos coreanos, e essa circulação levou a K-Beauty além dos grupos de entusiastas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "k-beauty-tendance-beaute-coreenne",
+   "arquivo": "content/reviews/k-beauty-tendance-beaute-coreenne.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "k-beauty-tendance-beaute-coreenne-fr-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "Une des options consiste à acheter sur une boutique multimarque, comme YesStyle.",
+        "YesStyle fonctionne comme une place de marché centralisée : au lieu d’aller de marque en marque, vous achetez plusieurs marques coréennes, mais aussi japonaises et d’autres régions d’Asie, dans un seul panier. Les frais de port suivent la grille tarifaire de la boutique, et la commande peut partir en plusieurs envois, avec des arrivées à des dates différentes ; le délai estimé combine la disponibilité des articles et le mode d’envoi choisi, selon la [politique de livraison de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). L’entreprise déclare dans ses informations corporatives être distributeur agréé de plus de 400 marques de beauté coréenne, parmi lesquelles COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige et Isntree : un échantillon du type de marques disponibles, pas une liste fermée, puisque le catalogue évolue avec le temps.",
+        "La plateforme va aussi au-delà du skincare : elle propose de la mode asiatique, du maquillage, des accessoires et d’autres catégories lifestyle, ce qui permet de compléter l’achat d’un sérum avec d’autres articles dans la même transaction.",
+        "Pour acheter avec une réduction, le code de récompense CECILIA010 donne 5 % à la première commande et 2 % aux suivantes, dans le champ du code de récompense (Reward Code) au paiement. Un pas-à-pas précis explique comment appliquer le code, lié ci-dessous. Les coupons de la boutique changent ; la liste du moment se trouve dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
+        "Pour qui veut simplement vérifier si la réputation est méritée, réunir plusieurs marques dans une seule commande simplifie le premier achat."
+       ],
+       "depois": [
+        "Une des options consiste à acheter sur une boutique multimarque, comme YesStyle.",
+        "YesStyle fonctionne comme une place de marché centralisée : au lieu d’aller de marque en marque, vous achetez plusieurs marques coréennes, mais aussi japonaises et d’autres régions d’Asie, dans un seul panier.",
+        "Les frais de port suivent la grille tarifaire de la boutique, et la commande peut partir en plusieurs envois, avec des arrivées à des dates différentes ; le délai estimé combine la disponibilité des articles et le mode d’envoi choisi, selon la [politique de livraison de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+        "L’entreprise déclare dans ses informations corporatives être distributeur agréé de plus de 400 marques de beauté coréenne, parmi lesquelles COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige et Isntree : un échantillon du type de marques disponibles, pas une liste fermée, puisque le catalogue évolue avec le temps.",
+        "La plateforme va aussi au-delà du skincare : elle propose de la mode asiatique, du maquillage, des accessoires et d’autres catégories lifestyle, ce qui permet de compléter l’achat d’un sérum avec d’autres articles dans la même transaction.",
+        "Pour acheter avec une réduction, le code de récompense CECILIA010 donne 5 % à la première commande et 2 % aux suivantes, dans le champ du code de récompense (Reward Code) au paiement. Un pas-à-pas précis explique comment appliquer le code, lié ci-dessous. Les coupons de la boutique changent ; la liste du moment se trouve dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
+        "Pour qui veut simplement vérifier si la réputation est méritée, réunir plusieurs marques dans une seule commande simplifie le premier achat."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "k-beauty-tendance-beaute-coreenne-fr-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta enxuga k-dramas e internet, mas tira o 'premier' e o 'troisième' e deixa o 'deuxième facteur' sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "Le premier est l’influence culturelle des k-dramas et de la k-pop. Ces deux phénomènes ont conquis d’immenses publics mondiaux et servent de vitrine vivante de la culture beauté coréenne : quand des scènes de séries montrent des personnages dans leur routine skincare à la maison, ou quand des artistes de k-pop apparaissent avec une peau impeccable de scène en scène, la question qui vient naturellement est « comment font-ils ? ».",
+       "depois": "Le premier facteur, ce sont les k-dramas et la k-pop : les scènes de skincare dans les séries et les artistes à la peau impeccable sur scène rapprochent des publics de plusieurs pays de la culture beauté coréenne et éveillent la curiosité pour les soins et les produits."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "Le troisième facteur relève purement d’internet : des communautés de passionnés de skincare ont grandi sur des plateformes comme TikTok, YouTube et Reddit, des influenceurs se sont mis à montrer des unboxings de produits coréens avec un enthousiasme sincère, les avis se sont multipliés, et la dynamique virale a fait de la K-Beauty, d’un intérêt de niche, un phénomène grand public.",
+       "depois": "Le troisième facteur, c’est internet : sur TikTok, YouTube et Reddit, les communautés de passionnés de skincare partagent des unboxings et des avis sur les produits coréens, et cette circulation a porté la K-Beauty au-delà des cercles de passionnés."
+      }
+     ]
+    },
+    {
+     "id": "k-beauty-tendance-beaute-coreenne-fr-g060-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Convenção de maiúsculas do francês (sentence case, como o title e o H1 já usam) e apóstrofo tipográfico; mesmo sentido, sem data nem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/seoTitle",
+       "antes": "K-Beauty : Tendance Beauté Coréenne et Où l'Acheter",
+       "depois": "K-Beauty : tendance beauté coréenne et où l’acheter",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "k-beauty-tendenza-bellezza-coreana",
+   "arquivo": "content/reviews/k-beauty-tendenza-bellezza-coreana.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "k-beauty-tendenza-bellezza-coreana-it-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "Una delle opzioni è comprare in un negozio multimarca come YesStyle.",
+        "YesStyle funziona come un marketplace centralizzato: invece di andare di marchio in marchio, acquisti più marchi coreani, e anche giapponesi e di altre parti dell’Asia, in un unico carrello. Le spese di spedizione seguono il tariffario del negozio e l’ordine può partire in più invii, con arrivi in date diverse; il tempo stimato somma la disponibilità degli articoli e il metodo di spedizione scelto, secondo la [politica di consegna di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un esempio del tipo di marchio disponibile, non un elenco chiuso, perché il catalogo cambia nel tempo.",
+        "La piattaforma va anche oltre lo skincare: ha moda asiatica, trucco, accessori e altre categorie lifestyle, il che significa che puoi completare l’acquisto di un siero con altri articoli nella stessa transazione.",
+        "Per ottenere uno sconto c’è il codice ricompensa CECILIA010: 5% sul primo acquisto e 2% sui successivi, da inserire nel campo del codice ricompensa (Reward Code) al checkout. La guida passo passo per applicare il codice è linkata qui sotto. I coupon del negozio cambiano; l’elenco del momento è in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
+        "Per chi vuole solo provare se la fama è reale, riunire più marchi in un solo ordine semplifica il primo acquisto."
+       ],
+       "depois": [
+        "Una delle opzioni è comprare in un negozio multimarca come YesStyle.",
+        "YesStyle funziona come un marketplace centralizzato: invece di andare di marchio in marchio, acquisti più marchi coreani, e anche giapponesi e di altre parti dell’Asia, in un unico carrello.",
+        "Le spese di spedizione seguono il tariffario del negozio e l’ordine può partire in più invii, con arrivi in date diverse; il tempo stimato somma la disponibilità degli articoli e il metodo di spedizione scelto, secondo la [politica di consegna di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+        "L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un esempio del tipo di marchio disponibile, non un elenco chiuso, perché il catalogo cambia nel tempo.",
+        "La piattaforma va anche oltre lo skincare: ha moda asiatica, trucco, accessori e altre categorie lifestyle, il che significa che puoi completare l’acquisto di un siero con altri articoli nella stessa transazione.",
+        "Per ottenere uno sconto c’è il codice ricompensa CECILIA010: 5% sul primo acquisto e 2% sui successivi, da inserire nel campo del codice ricompensa (Reward Code) al checkout. La guida passo passo per applicare il codice è linkata qui sotto. I coupon del negozio cambiano; l’elenco del momento è in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
+        "Per chi vuole solo provare se la fama è reale, riunire più marchi in un solo ordine semplifica il primo acquisto."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "k-beauty-tendenza-bellezza-coreana-it-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta enxuga k-drama e internet, mas tira o 'primo' e o 'terzo' e deixa o 'secondo fattore' sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "Il primo è l’influenza culturale di k-drama e k-pop. Entrambi i fenomeni hanno conquistato enormi pubblici globali e funzionano come una vetrina viva della cultura beauty coreana: quando le scene delle serie mostrano i personaggi nelle loro routine di skincare a casa, o quando gli artisti k-pop appaiono con una pelle impeccabile palco dopo palco, la domanda naturale è «come fanno?».",
+       "depois": "Il primo fattore sono i k-drama e il k-pop: le scene di skincare nelle serie e gli artisti con la pelle impeccabile sul palco avvicinano il pubblico di diversi paesi alla cultura beauty coreana e suscitano curiosità per le routine e i prodotti."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "Il terzo fattore è puramente di internet: le community di appassionati di skincare sono cresciute su piattaforme come TikTok, YouTube e Reddit, gli influencer hanno iniziato a mostrare unboxing di prodotti coreani con entusiasmo genuino, le recensioni si sono moltiplicate e la dinamica virale ha trasformato la K-Beauty da interesse di nicchia a fenomeno di massa.",
+       "depois": "Il terzo fattore è internet: su TikTok, YouTube e Reddit, le community di appassionati di skincare condividono unboxing e recensioni di prodotti coreani, e questa circolazione ha portato la K-Beauty oltre la nicchia degli appassionati."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "k-beauty-trend-explained-where-to-buy",
+   "arquivo": "content/reviews/k-beauty-trend-explained-where-to-buy.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "k-beauty-trend-explained-where-to-buy-en-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "One option is to buy from a multi-brand store such as YesStyle.",
+        "YesStyle works as a centralized marketplace: instead of going from brand to brand, you buy many Korean brands, plus Japanese ones and others from across Asia, in a single cart. Shipping follows the store's rate table, and an order may ship in more than one package, arriving on different dates; the estimated delivery time combines item availability with the shipping method you choose, per the [YesStyle delivery policy](https://www.yesstyle.com/en/help/section.html/hsi.732). In its corporate information, the company states that it is an authorized distributor of more than 400 Korean beauty brands, including names like COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige and Isntree: a sample of the kind of brand available, not a closed list, since the catalog changes over time.",
+        "The platform also goes beyond skincare: it has Asian fashion, makeup, accessories and other lifestyle categories, which means you can add other items to a serum purchase in the same transaction.",
+        "For a discount, the reward code CECILIA010 gives 5% off your first purchase and 2% off later ones, entered in the Reward Code field at checkout. There is a specific step-by-step on how to apply the code, linked below. The store's coupons change; the current list is at [YesStyle coupons and reward code](/en/coupons/yesstyle).",
+        "For anyone who just wants to test the hype, combining several brands in one order makes the first purchase simpler."
+       ],
+       "depois": [
+        "One option is to buy from a multi-brand store such as YesStyle.",
+        "YesStyle works as a centralized marketplace: instead of going from brand to brand, you buy many Korean brands, plus Japanese ones and others from across Asia, in a single cart.",
+        "Shipping follows the store's rate table, and an order may ship in more than one package, arriving on different dates; the estimated delivery time combines item availability with the shipping method you choose, per the [YesStyle delivery policy](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+        "In its corporate information, the company states that it is an authorized distributor of more than 400 Korean beauty brands, including names like COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige and Isntree: a sample of the kind of brand available, not a closed list, since the catalog changes over time.",
+        "The platform also goes beyond skincare: it has Asian fashion, makeup, accessories and other lifestyle categories, which means you can add other items to a serum purchase in the same transaction.",
+        "For a discount, the reward code CECILIA010 gives 5% off your first purchase and 2% off later ones, entered in the Reward Code field at checkout. There is a specific step-by-step on how to apply the code, linked below. The store's coupons change; the current list is at [YesStyle coupons and reward code](/en/coupons/yesstyle).",
+        "For anyone who just wants to test the hype, combining several brands in one order makes the first purchase simpler."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "k-beauty-trend-explained-where-to-buy-en-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Proposta enxuga k-dramas e internet, mas tira o 'first' e o 'third factor' e deixa o 'second factor' sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "The first is the cultural influence of K-dramas and K-pop. Both phenomena won huge global audiences and work as a living showcase of Korean beauty culture: when TV drama scenes show characters in their skincare routines at home, or when K-pop artists appear with flawless skin on stage after stage, the natural question is “how do they do it?”",
+       "depois": "The first factor is K-dramas and K-pop: skincare scenes in the series and artists with flawless skin on stage bring audiences in many countries closer to Korean beauty culture and spark curiosity about the routines and products."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "The third factor is purely internet: communities of skincare enthusiasts grew on platforms like TikTok, YouTube and Reddit, influencers began showing unboxings of Korean products with genuine enthusiasm, reviews multiplied, and the viral dynamic turned K-Beauty from a niche interest into a mainstream phenomenon.",
+       "depois": "The third factor is the internet: on TikTok, YouTube and Reddit, skincare communities share unboxings and reviews of Korean products, and that circulation helped carry K-Beauty beyond groups of enthusiasts."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "k-beauty-trend-koreanische-marken-kaufen",
+   "arquivo": "content/reviews/k-beauty-trend-koreanische-marken-kaufen.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "k-beauty-trend-koreanische-marken-kaufen-de-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "Eine der Möglichkeiten ist der Kauf in einem Multimarken-Shop wie YesStyle.",
+        "YesStyle funktioniert als zentraler Marktplatz: Statt von Marke zu Marke zu gehen, kaufen Sie mehrere koreanische Marken, außerdem japanische und aus anderen Teilen Asiens, in einem Warenkorb. Die Versandkosten richten sich nach der Versandkostentabelle des Shops, und die Bestellung kann in mehr als einer Sendung verschickt werden, die an verschiedenen Terminen ankommen; die geschätzte Lieferzeit setzt sich laut [Lieferrichtlinie von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732) aus der Verfügbarkeit der Artikel und der gewählten Versandart zusammen. Das Unternehmen erklärt in seinen Unternehmensinformationen, autorisierter Händler von mehr als 400 koreanischen Beauty-Marken zu sein, darunter COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige und Isntree: ein Beispiel für die Art der verfügbaren Marken, keine abgeschlossene Liste, denn das Sortiment ändert sich mit der Zeit.",
+        "Die Plattform geht auch über Skincare hinaus: Sie hat asiatische Mode, Make-up, Accessoires und andere Lifestyle-Kategorien, sodass Sie den Kauf eines Serums in derselben Bestellung um weitere Artikel ergänzen können.",
+        "Wer beim Kauf sparen möchte, kann den Reward Code CECILIA010 nutzen: 5 % beim ersten Kauf und 2 % bei den folgenden, einzugeben im Feld für den Reward Code beim Checkout. Eine eigene Schritt-für-Schritt-Anleitung zum Einlösen des Codes ist unten verlinkt. Die Gutscheine des Shops ändern sich; die aktuelle Liste steht unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle).",
+        "Wer nur testen will, ob der Ruf stimmt: Mehrere Marken in einer Bestellung zu bündeln, vereinfacht den ersten Kauf."
+       ],
+       "depois": [
+        "Eine der Möglichkeiten ist der Kauf in einem Multimarken-Shop wie YesStyle.",
+        "YesStyle funktioniert als zentraler Marktplatz: Statt von Marke zu Marke zu gehen, kaufen Sie mehrere koreanische Marken, außerdem japanische und aus anderen Teilen Asiens, in einem Warenkorb.",
+        "Die Versandkosten richten sich nach der Versandkostentabelle des Shops, und die Bestellung kann in mehr als einer Sendung verschickt werden, die an verschiedenen Terminen ankommen; die geschätzte Lieferzeit setzt sich laut [Lieferrichtlinie von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732) aus der Verfügbarkeit der Artikel und der gewählten Versandart zusammen.",
+        "Das Unternehmen erklärt in seinen Unternehmensinformationen, autorisierter Händler von mehr als 400 koreanischen Beauty-Marken zu sein, darunter COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige und Isntree: ein Beispiel für die Art der verfügbaren Marken, keine abgeschlossene Liste, denn das Sortiment ändert sich mit der Zeit.",
+        "Die Plattform geht auch über Skincare hinaus: Sie hat asiatische Mode, Make-up, Accessoires und andere Lifestyle-Kategorien, sodass Sie den Kauf eines Serums in derselben Bestellung um weitere Artikel ergänzen können.",
+        "Wer beim Kauf sparen möchte, kann den Reward Code CECILIA010 nutzen: 5 % beim ersten Kauf und 2 % bei den folgenden, einzugeben im Feld für den Reward Code beim Checkout. Eine eigene Schritt-für-Schritt-Anleitung zum Einlösen des Codes ist unten verlinkt. Die Gutscheine des Shops ändern sich; die aktuelle Liste steht unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle).",
+        "Wer nur testen will, ob der Ruf stimmt: Mehrere Marken in einer Bestellung zu bündeln, vereinfacht den ersten Kauf."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "k-beauty-trend-koreanische-marken-kaufen-de-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta enxuga K-Dramas e Internet, mas tira o 'erste' e o 'dritte' e deixa o 'zweite Faktor' sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "Der erste ist der kulturelle Einfluss von K-Dramas und K-Pop. Beide Phänomene haben riesige globale Publika erobert und sind ein lebendiges Schaufenster der koreanischen Beauty-Kultur: Wenn Serienszenen Figuren bei ihrer Skincare-Routine zu Hause zeigen oder K-Pop-Stars Bühne um Bühne mit makelloser Haut auftreten, lautet die naheliegende Frage „Wie machen die das?“.",
+       "depois": "Der erste Faktor sind K-Dramas und K-Pop: Skincare-Szenen in den Serien und die Auftritte der Künstler auf der Bühne bringen Publika in vielen Ländern die koreanische Beauty-Kultur näher und wecken Interesse an Routinen und Produkten."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "Der dritte Faktor ist rein internetbedingt: Communitys von Skincare-Fans wuchsen auf Plattformen wie TikTok, YouTube und Reddit, Influencer zeigten mit echter Begeisterung Unboxings koreanischer Produkte, Rezensionen vervielfachten sich, und die virale Dynamik machte K-Beauty von einem Nischeninteresse zu einem Mainstream-Phänomen.",
+       "depois": "Der dritte Faktor ist das Internet: Auf TikTok, YouTube und Reddit teilen Skincare-Communitys Unboxings und Rezensionen koreanischer Produkte, und dieser Austausch hat K-Beauty über die Kreise der Fans hinaus bekannt gemacht."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-avis-trustpilot",
+   "arquivo": "content/reviews/yesstyle-avis-trustpilot.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "yesstyle-avis-trustpilot-fr-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho mudou na main; a melhoria de escopo continua valendo, sem data nova (a main já traz a data) e sem bastidor, com o texto fundido da variante Gemini.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "YesStyle a une note de 4,4 sur Trustpilot, avec plus de 104 000 avis et 71 % de cinq étoiles. Voyez les plaintes de livraison et pourquoi la note ne dit rien sur votre pays.",
+       "depois": "YesStyle a une note de 4,4 sur Trustpilot, avec plus de 104 000 avis et 71 % de cinq étoiles. Voyez les thèmes des plaintes et les limites d’une note globale."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "YesStyle a une bonne note sur Trustpilot, avec une réserve. En novembre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Dans les avis négatifs que nous avons lus, les plaintes portaient sur la livraison internationale et le suivi. La note est globale et ne distingue pas les pays.",
+       "depois": "YesStyle a une bonne note sur Trustpilot, avec une réserve. En novembre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Dans les avis négatifs visibles que nous avons lus, apparaissaient des problèmes de livraison internationale et de suivi. La note est globale et ne distingue pas les pays."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Les plaintes tournent autour de la livraison internationale. Nous avons lu les avis négatifs visibles et noté les thèmes, sans les compter ni les classer :",
+       "depois": "Dans les avis négatifs visibles que nous avons lus, les thèmes sont les suivants, sans les compter ni les classer :"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Ce sont les points où un achat international échoue souvent. Pour le lecteur, ils indiquent où regarder : le délai au paiement, le suivi après l’expédition et l’emballage à l’arrivée.",
+       "depois": "Ces récits suggèrent des vérifications concrètes : le délai au paiement, le suivi après l’expédition et l’état de l’emballage à l’arrivée."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "Dans les avis négatifs que nous avons lus, ces avis portaient sur la livraison ; ce qu’il faut donc vérifier avant de payer, ce sont les frais de port et le délai pour votre pays, qui apparaissent au paiement. Les montants et le décompte du délai par pays figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+       "depois": "Dans les avis négatifs visibles que nous avons lus, les problèmes concernaient la livraison et le suivi. Avant de payer, vérifiez les frais de port et le délai pour votre adresse, affichés au paiement. Les montants et le décompte des délais figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-avis-trustpilot-fr-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho obsoleto na main (a main já traz 104.909); a versão nova tira a data extra e a frase de checagem, deixando a ressalva de que a taxa de resposta não mede solução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "D’après Trustpilot, la lecture est bonne : TrustScore de 4,4, « Excellent », sur 104 909 avis, dont 71 % de cinq étoiles et 7 % d’une, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
+       "depois": "D’après Trustpilot, la note est bonne : TrustScore de 4,4, sur 104 909 avis, avec 71 % de cinq étoiles et 7 % d’une. Pour évaluer le service client, lisez aussi les plaintes et les réponses récentes sur le profil : le taux de réponse ne mesure pas la résolution des problèmes."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-kbeauty-guide-ja",
+   "arquivo": "content/reviews/yesstyle-kbeauty-guide-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-kbeauty-guide-ja-ja-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "選択肢の一つが、YesStyleのような複数ブランドを扱うストアで買う方法です。",
+        "YesStyleは一元化されたマーケットプレイスとして機能します。ブランドを1つずつ回る代わりに、韓国ブランド、さらに日本やアジア各地のブランドを、1つのカートで購入できます。送料はストアの料金表に従い、注文は複数に分けて発送され、届く日が異なることがあります。お届け予定は、商品の在庫状況と選んだ配送方法を合わせたもので、詳しくは[YesStyleの配送ポリシー](https://www.yesstyle.com/en/help/section.html/hsi.732)をご覧ください。同社は企業情報の中で、400を超える韓国美容ブランドの正規代理店であると表明しており、COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige、Isntreeなどが含まれます。これはあくまで取り扱いの一例で、すべてを網羅した一覧ではありません。カタログは時期によって変わるためです。",
+        "このプラットフォームはスキンケアだけではありません。アジアのファッション、メイクアップ、アクセサリーなどライフスタイル関連のカテゴリーもあるので、美容液の購入に同じ注文でほかのアイテムを加えることもできます。",
+        "割引を受けたい方には、リワードコードCECILIA010があります。初回購入は5%、2回目以降は2%の割引で、チェックアウトのリワードコード（Reward Code）欄に入力します。このコードの入れ方は、下にリンクした専用の手順ガイドで確認できます。ストアのクーポンは入れ替わるので、現時点の一覧は[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)をご覧ください。",
+        "K-Beautyを試してみたいだけの人にとっては、複数のブランドを1回の注文にまとめられることで、最初の購入が簡単になります。"
+       ],
+       "depois": [
+        "選択肢の一つが、YesStyleのような複数ブランドを扱うストアで買う方法です。",
+        "YesStyleは一元化されたマーケットプレイスとして機能します。ブランドを1つずつ回る代わりに、韓国ブランド、さらに日本やアジア各地のブランドを、1つのカートで購入できます。",
+        "送料はストアの料金表に従い、注文は複数に分けて発送され、届く日が異なることがあります。お届け予定は、商品の在庫状況と選んだ配送方法を合わせたもので、詳しくは[YesStyleの配送ポリシー](https://www.yesstyle.com/en/help/section.html/hsi.732)をご覧ください。",
+        "同社は企業情報の中で、400を超える韓国美容ブランドの正規代理店であると表明しており、COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige、Isntreeなどが含まれます。これはあくまで取り扱いの一例で、すべてを網羅した一覧ではありません。カタログは時期によって変わるためです。",
+        "このプラットフォームはスキンケアだけではありません。アジアのファッション、メイクアップ、アクセサリーなどライフスタイル関連のカテゴリーもあるので、美容液の購入に同じ注文でほかのアイテムを加えることもできます。",
+        "割引を受けたい方には、リワードコードCECILIA010があります。初回購入は5%、2回目以降は2%の割引で、チェックアウトのリワードコード（Reward Code）欄に入力します。このコードの入れ方は、下にリンクした専用の手順ガイドで確認できます。ストアのクーポンは入れ替わるので、現時点の一覧は[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)をご覧ください。",
+        "K-Beautyを試してみたいだけの人にとっては、複数のブランドを1回の注文にまとめられることで、最初の購入が簡単になります。"
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-kbeauty-guide-ja-ja-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Proposta enxuga k-dramas e internet, mas tira a numeração do primeiro e do terceiro fator e deixa o segundo sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "1つ目は、K-ドラマとK-POPの文化的な影響力です。どちらも世界中で大勢のファンを獲得し、韓国の美容文化を映すショーケースのような役割を果たしています。ドラマの中で登場人物が自宅でスキンケアをする場面が映ったり、K-POPのアーティストがステージのたびに非の打ちどころのない肌で登場したりすれば、「どうやってるの？」と思うのは自然なことです。",
+       "depois": "1つ目は、K-ドラマとK-POPです。世界の視聴者が韓国の美容文化に触れるようになり、ドラマのスキンケア場面やアーティストのステージ姿は、ケアや製品への関心につながっています。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "3つ目は、まったくインターネットならではの要因です。TikTok、YouTube、Redditなどでスキンケア好きのコミュニティが育ち、インフルエンサーが韓国コスメの開封動画を心から楽しそうに紹介するようになり、レビューも増えました。そのバイラルな広がりが、K-Beautyを一部の人の趣味からメインストリームの現象に変えたのです。",
+       "depois": "3つ目は、インターネットです。TikTok、YouTube、Redditでは、スキンケア好きのコミュニティが韓国コスメの開封動画やレビューを共有しています。こうした交流が、K-Beautyを愛好家以外にも広めました。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-kbeauty-guide-ko",
+   "arquivo": "content/reviews/yesstyle-kbeauty-guide-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-kbeauty-guide-ko-ko-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "선택지 중 하나는 YesStyle 같은 멀티브랜드 스토어에서 사는 것입니다.",
+        "YesStyle은 하나로 모은 마켓플레이스로 작동합니다. 브랜드를 하나씩 찾아다니는 대신, 한국 브랜드는 물론 일본과 아시아 다른 지역의 브랜드까지 장바구니 하나에 담아 구매합니다. 배송비는 스토어의 요금표를 따르고, 주문이 여러 번에 나뉘어 발송되어 도착 날짜가 다를 수 있습니다. 예상 배송 기간은 상품 재고 상황과 선택한 배송 방법을 합친 것이며, 자세한 내용은 [YesStyle 배송 정책](https://www.yesstyle.com/en/help/section.html/hsi.732)에서 볼 수 있습니다. 회사는 기업 정보에서 400개가 넘는 한국 뷰티 브랜드의 공인 유통사라고 밝히며, COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige, Isntree 같은 이름이 포함됩니다. 어디까지나 취급 브랜드의 예일 뿐 전체 목록은 아닙니다. 카탈로그는 시기에 따라 바뀌기 때문입니다.",
+        "이 플랫폼은 스킨케어에 그치지 않습니다. 아시아 패션, 메이크업, 액세서리와 그 밖의 라이프스타일 카테고리도 있어서, 세럼을 살 때 같은 주문에 다른 상품을 더할 수 있습니다.",
+        "할인을 받고 싶다면 리워드 코드 CECILIA010이 있습니다. 첫 구매는 5%, 이후 구매는 2% 할인이며, 결제 시 리워드 코드(Reward Code) 칸에 입력합니다. 이 코드를 입력하는 방법은 아래에 링크한 전용 단계별 안내에서 볼 수 있습니다. 매장 쿠폰은 수시로 바뀌며, 현재 목록은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에서 확인하세요.",
+        "K-뷰티를 한번 써 보고 싶을 뿐인 사람에게는, 여러 브랜드를 한 주문에 담을 수 있다는 점이 첫 구매를 간단하게 해 줍니다."
+       ],
+       "depois": [
+        "선택지 중 하나는 YesStyle 같은 멀티브랜드 스토어에서 사는 것입니다.",
+        "YesStyle은 하나로 모은 마켓플레이스로 작동합니다. 브랜드를 하나씩 찾아다니는 대신, 한국 브랜드는 물론 일본과 아시아 다른 지역의 브랜드까지 장바구니 하나에 담아 구매합니다.",
+        "배송비는 스토어의 요금표를 따르고, 주문이 여러 번에 나뉘어 발송되어 도착 날짜가 다를 수 있습니다. 예상 배송 기간은 상품 재고 상황과 선택한 배송 방법을 합친 것이며, 자세한 내용은 [YesStyle 배송 정책](https://www.yesstyle.com/en/help/section.html/hsi.732)에서 볼 수 있습니다.",
+        "회사는 기업 정보에서 400개가 넘는 한국 뷰티 브랜드의 공인 유통사라고 밝히며, COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige, Isntree 같은 이름이 포함됩니다. 어디까지나 취급 브랜드의 예일 뿐 전체 목록은 아닙니다. 카탈로그는 시기에 따라 바뀌기 때문입니다.",
+        "이 플랫폼은 스킨케어에 그치지 않습니다. 아시아 패션, 메이크업, 액세서리와 그 밖의 라이프스타일 카테고리도 있어서, 세럼을 살 때 같은 주문에 다른 상품을 더할 수 있습니다.",
+        "할인을 받고 싶다면 리워드 코드 CECILIA010이 있습니다. 첫 구매는 5%, 이후 구매는 2% 할인이며, 결제 시 리워드 코드(Reward Code) 칸에 입력합니다. 이 코드를 입력하는 방법은 아래에 링크한 전용 단계별 안내에서 볼 수 있습니다. 매장 쿠폰은 수시로 바뀌며, 현재 목록은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에서 확인하세요.",
+        "K-뷰티를 한번 써 보고 싶을 뿐인 사람에게는, 여러 브랜드를 한 주문에 담을 수 있다는 점이 첫 구매를 간단하게 해 줍니다."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-kbeauty-guide-ko-ko-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Proposta enxuga k-dramas e internet, mas tira a numeração do primeiro e do terceiro fator e deixa o segundo sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "첫째는 K-드라마와 K-팝의 문화적 영향력입니다. 둘 다 전 세계에서 엄청난 팬층을 얻었고, 한국 뷰티 문화를 보여 주는 살아 있는 쇼윈도 역할을 합니다. 드라마 속 인물이 집에서 스킨케어를 하는 장면이 나오거나, K-팝 아티스트가 무대마다 흠잡을 데 없는 피부로 등장하면 '어떻게 관리하는 거지?'라는 궁금증이 자연스럽게 생깁니다.",
+       "depois": "첫째는 K-드라마와 K-팝입니다. 세계 각국의 시청자가 한국 뷰티 문화를 접하게 되었고, 드라마 속 스킨케어 장면과 아티스트의 무대 모습은 관리 방법과 제품에 대한 관심으로 이어집니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "셋째는 순전히 인터넷의 힘입니다. 틱톡, 유튜브, 레딧 같은 플랫폼에서 스킨케어 애호가 커뮤니티가 커졌고, 인플루언서들이 한국 제품 언박싱을 진심 어린 열정으로 보여 주기 시작했고, 후기가 늘어났으며, 이 바이럴이 K-뷰티를 소수의 관심사에서 주류 현상으로 바꿔 놓았습니다.",
+       "depois": "셋째는 인터넷입니다. 틱톡, 유튜브, 레딧에서는 스킨케어 커뮤니티가 한국 제품의 언박싱과 후기를 공유하며, 이런 교류가 K-뷰티를 애호가층 너머로 널리 알리는 데 도움이 됐습니다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-kbeauty-guide-zh-hans",
+   "arquivo": "content/reviews/yesstyle-kbeauty-guide-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-kbeauty-guide-zh-hans-zh-hans-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "选择之一是在多品牌商店购买，比如 YesStyle。",
+        "YesStyle 是一个集中式的购物平台：你不用一个品牌一个品牌地找，而是可以把多个韩国品牌，以及日本和亚洲其他地区的品牌，放进同一个购物车。运费按商店的运费表计算，订单可能分成多个包裹寄出，到货日期也可能不同；预计送达时间是商品备货情况加上所选的配送方式，详见 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。该公司在其企业信息中声明，自己是 400 多个韩国美妆品牌的授权经销商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：这只是可买品牌的一个样本，不是封闭的名单，因为产品目录会随时间变化。",
+        "这个平台也不止护肤：还有亚洲时装、彩妆、配饰和其他生活方式类别，所以买精华液时，可以在同一笔订单里再搭配别的商品。",
+        "想享受折扣，可以使用奖励码 CECILIA010：首单 5%，之后每单 2%，在结账页的奖励码（Reward Code）一栏输入。关于如何输入这个代码，下面链接了专门的分步教程。店铺的优惠券会变动，当前的列表见 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。",
+        "如果只是想试试传闻是否属实，把多个品牌放进同一笔订单，会让第一次购买更简单。"
+       ],
+       "depois": [
+        "选择之一是在多品牌商店购买，比如 YesStyle。",
+        "YesStyle 是一个集中式的购物平台：你不用一个品牌一个品牌地找，而是可以把多个韩国品牌，以及日本和亚洲其他地区的品牌，放进同一个购物车。",
+        "运费按商店的运费表计算，订单可能分成多个包裹寄出，到货日期也可能不同；预计送达时间是商品备货情况加上所选的配送方式，详见 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。",
+        "该公司在其企业信息中声明，自己是 400 多个韩国美妆品牌的授权经销商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：这只是可买品牌的一个样本，不是封闭的名单，因为产品目录会随时间变化。",
+        "这个平台也不止护肤：还有亚洲时装、彩妆、配饰和其他生活方式类别，所以买精华液时，可以在同一笔订单里再搭配别的商品。",
+        "想享受折扣，可以使用奖励码 CECILIA010：首单 5%，之后每单 2%，在结账页的奖励码（Reward Code）一栏输入。关于如何输入这个代码，下面链接了专门的分步教程。店铺的优惠券会变动，当前的列表见 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。",
+        "如果只是想试试传闻是否属实，把多个品牌放进同一笔订单，会让第一次购买更简单。"
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-kbeauty-guide-zh-hans-zh-hans-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Proposta enxuga k-dramas e internet, mas tira a numeração do primeiro e do terceiro fator e deixa o segundo sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "第一个是韩剧和韩国流行音乐的文化影响力。这两者都赢得了庞大的全球观众，也成了韩国美妆文化的活橱窗：当剧中人物在家做护肤的场景出现，或者韩国流行音乐艺人一场接一场舞台上都肌肤无瑕，人们自然会问：“他们是怎么做到的？”",
+       "depois": "第一个因素是韩剧和韩国流行音乐。各国观众借此接触到韩国美妆文化，剧中的护肤场景和艺人的舞台形象，也让人对护理方式和产品产生兴趣。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "第三个因素纯粹来自互联网：TikTok、YouTube 和 Reddit 等平台上，护肤爱好者社群不断壮大，博主们以真诚的热情展示韩国产品的开箱，测评越来越多，病毒式传播让 K-Beauty 从小众兴趣变成了主流现象。",
+       "depois": "第三个因素是互联网。在 TikTok、YouTube 和 Reddit 上，护肤社群分享韩国产品的开箱和测评，这些交流帮助 K-Beauty 走出爱好者圈子，吸引更多人关注。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-kbeauty-guide-zh-hant",
+   "arquivo": "content/reviews/yesstyle-kbeauty-guide-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-kbeauty-guide-zh-hant-zh-hant-g060-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto confere com a main; divide o parágrafo longo da YesStyle sem mudar fatos. A troca de estrutura precisa ir às 10 versões da família (lote da família).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "選擇之一是在多品牌商店購買，例如 YesStyle。",
+        "YesStyle 是一個集中式的購物平台：你不用一個品牌一個品牌地找，而是可以把多個韓國品牌，以及日本和亞洲其他地區的品牌，放進同一個購物車。運費依商店的運費表計算，訂單可能分成多個包裹寄出，到貨日期也可能不同；預計送達時間是商品備貨情況加上所選的運送方式，詳見 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。該公司在其企業資訊中聲明，自己是 400 多個韓國美妝品牌的授權經銷商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：這只是可買品牌的一個樣本，並非封閉的名單，因為商品目錄會隨時間變動。",
+        "這個平台也不只有保養品：還有亞洲時尚、彩妝、配件和其他生活風格類別，所以買精華液時，可以在同一筆訂單裡再搭配別的商品。",
+        "想享有折扣，可以使用獎勵碼 CECILIA010：首購 5%，之後每筆 2%，在結帳頁的獎勵碼（Reward Code）欄位輸入。關於如何輸入這個代碼，下方連結了專門的逐步教學。商店的優惠券會變動，目前的清單請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。",
+        "如果只是想試試傳聞是否屬實，把多個品牌放進同一筆訂單，會讓第一次購買更簡單。"
+       ],
+       "depois": [
+        "選擇之一是在多品牌商店購買，例如 YesStyle。",
+        "YesStyle 是一個集中式的購物平台：你不用一個品牌一個品牌地找，而是可以把多個韓國品牌，以及日本和亞洲其他地區的品牌，放進同一個購物車。",
+        "運費依商店的運費表計算，訂單可能分成多個包裹寄出，到貨日期也可能不同；預計送達時間是商品備貨情況加上所選的運送方式，詳見 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。",
+        "該公司在其企業資訊中聲明，自己是 400 多個韓國美妝品牌的授權經銷商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：這只是可買品牌的一個樣本，並非封閉的名單，因為商品目錄會隨時間變動。",
+        "這個平台也不只有保養品：還有亞洲時尚、彩妝、配件和其他生活風格類別，所以買精華液時，可以在同一筆訂單裡再搭配別的商品。",
+        "想享有折扣，可以使用獎勵碼 CECILIA010：首購 5%，之後每筆 2%，在結帳頁的獎勵碼（Reward Code）欄位輸入。關於如何輸入這個代碼，下方連結了專門的逐步教學。商店的優惠券會變動，目前的清單請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。",
+        "如果只是想試試傳聞是否屬實，把多個品牌放進同一筆訂單，會讓第一次購買更簡單。"
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-kbeauty-guide-zh-hant-zh-hant-g060-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Proposta enxuga k-dramas e internet, mas tira a numeração do primeiro e do terceiro fator e deixa o segundo sem par; restaura a numeração da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "第一個是韓劇與韓國流行音樂的文化影響力。這兩者都贏得了龐大的全球觀眾，也成了韓國美妝文化的活招牌：當劇中角色在家做保養的場景出現，或是韓國流行音樂藝人一場接一場的舞台上都肌膚無瑕，大家自然會問：「他們是怎麼做到的？」",
+       "depois": "第一個因素是韓劇與韓國流行音樂。各國觀眾借此接觸到韓國美妝文化，劇中的保養場景與藝人的舞台形象，也讓人對保養方式和產品產生興趣。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/3",
+       "antes": "第三個因素純粹來自網路：TikTok、YouTube 和 Reddit 等平台上，保養愛好者社群不斷壯大，網紅們以真誠的熱情分享韓國產品的開箱，評價越來越多，病毒式傳播讓 K-Beauty 從小眾興趣變成了主流現象。",
+       "depois": "第三個因素是網路。在 TikTok、YouTube 和 Reddit 上，保養社群分享韓國產品的開箱與評價，這些交流幫助 K-Beauty 走出愛好者圈子，吸引更多人關注。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-kbeauty-guide-zh-hant-zh-hant-g060-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Título confere com a main; o novo tira a promessa de compra segura ('才放心') e mantém K-Beauty, 韓妝, 韓國美妝 e onde comprar. É troca de título, não recuo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/title",
+       "antes": "K-Beauty 韓妝熱潮全解析：為何全球為之瘋狂，到哪裡買才放心",
+       "depois": "K-Beauty 韓妝：什麼是韓國美妝、為何流行，以及哪裡買得到",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-opiniones-trustpilot",
+   "arquivo": "content/reviews/yesstyle-opiniones-trustpilot.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "yesstyle-opiniones-trustpilot-es-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho mudou na main; a melhoria de escopo continua valendo, sin fecha nueva (la main ya la trae) y sin bastidor, con el texto fundido de la variante Gemini.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "YesStyle tiene un 4,4 en Trustpilot, con más de 104 mil opiniones y 71 % de cinco estrellas. Mira las quejas de envío y por qué la nota global no dice nada sobre tu país.",
+       "depois": "YesStyle tiene un 4,4 en Trustpilot, con más de 104 mil opiniones y 71 % de cinco estrellas. Mira los temas de las quejas y los límites de una nota global."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "YesStyle tiene buena calificación en Trustpilot, con una salvedad. En noviembre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. En las opiniones negativas que leímos, las quejas eran sobre el envío internacional y el seguimiento. La nota es global y no separa países.",
+       "depois": "YesStyle tiene buena calificación en Trustpilot, con una salvedad. En noviembre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. En las opiniones negativas visibles que leímos aparecían problemas de envío internacional y seguimiento. La nota es global y no separa países."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Las quejas giran en torno al envío internacional. Leímos las opiniones negativas visibles y anotamos los temas, sin contarlos ni ordenarlos:",
+       "depois": "En las opiniones negativas visibles que leímos, los temas son los siguientes, sin contarlos ni ordenarlos:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Son los puntos en los que una compra internacional suele fallar. Para el lector, indican dónde mirar: el plazo en el checkout, el seguimiento tras el envío y el embalaje a la llegada.",
+       "depois": "Estos relatos sirven para preparar comprobaciones concretas: plazo al pagar, seguimiento tras el envío y estado del embalaje a la llegada."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "En las opiniones negativas que leímos, las opiniones trataban del envío, así que lo que conviene comprobar antes de pagar es el coste de envío y el plazo de tu país, que aparecen en el checkout. Los valores y el cómputo del plazo por país están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+       "depois": "En las opiniones negativas visibles que leímos, los problemas fueron de envío y seguimiento. Antes de pagar, comprueba el coste de envío y el plazo para tu dirección en el checkout. Los importes y el cómputo de plazos están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-opiniones-trustpilot-es-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho obsoleto na main (a main já traz 104.909); a versão nova tira a data extra e a frase de checagem, deixando a ressalva de que a taxa de resposta não mede solução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Según Trustpilot, la lectura es buena: TrustScore 4,4, «Excellent», en 104.909 opiniones, 71 % de ellas de cinco estrellas y 7 % de una, con 98 % de las negativas respondidas, por lo general en menos de 24 horas.",
+       "depois": "Según Trustpilot, la nota es buena: TrustScore 4,4, en 104.909 opiniones, con 71 % de cinco estrellas y 7 % de una. Para valorar la atención al cliente, lee también quejas y respuestas recientes en el perfil; el índice de respuesta no mide si los problemas se resolvieron."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-recensioni-trustpilot",
+   "arquivo": "content/reviews/yesstyle-recensioni-trustpilot.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "yesstyle-recensioni-trustpilot-it-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho mudou na main; a melhoria de escopo continua valendo, sem data nova (a main já traz a data) e sem bastidor, con il testo fuso della variante Gemini.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i reclami sulla consegna e perché il punteggio non dice nulla sul tuo paese.",
+       "depois": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i temi dei reclami e i limiti di un punteggio globale."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "YesStyle ha un buon punteggio su Trustpilot, con una riserva. A novembre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Nelle recensioni negative che abbiamo letto, i reclami riguardavano la consegna internazionale e il tracking. Il punteggio è globale e non distingue i paesi.",
+       "depois": "YesStyle ha un buon punteggio su Trustpilot, con una riserva. A novembre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Nelle recensioni negative visibili che abbiamo letto comparivano problemi di consegna internazionale e tracking. Il punteggio è globale e non distingue i paesi."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "I reclami ruotano attorno alla consegna internazionale. Abbiamo letto le recensioni negative visibili e annotato i temi, senza contarli né classificarli:",
+       "depois": "Nelle recensioni negative visibili che abbiamo letto, i temi sono i seguenti, senza contarli né classificarli:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Sono i punti in cui un acquisto internazionale tende a fallire. Per chi legge, indicano dove guardare: il tempo di consegna nel checkout, il tracking dopo la spedizione e l’imballo all’arrivo.",
+       "depois": "Questi racconti suggeriscono controlli pratici: tempi al checkout, tracking dopo la spedizione e condizioni dell’imballo all’arrivo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "Nelle recensioni negative che abbiamo letto, i temi riguardavano la consegna, quindi ciò che conviene controllare prima di pagare sono le spese di spedizione e i tempi del tuo paese, che compaiono nel checkout. I valori e il conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+       "depois": "Nelle recensioni negative visibili che abbiamo letto, i problemi riguardavano consegna e tracking. Prima di pagare, controlla spese di spedizione e tempi per il tuo indirizzo nel checkout. Importi e conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-recensioni-trustpilot-it-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho obsoleto na main (a main já traz 104.909); a versão nova tira a data extra e a frase de checagem, deixando a ressalva de que a taxa de resposta não mede solução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "In base a Trustpilot, la lettura è buona: TrustScore 4,4, «Excellent», su 104.909 recensioni, il 71% di cinque stelle e il 7% di una, con il 98% delle negative con risposta, di solito entro 24 ore.",
+       "depois": "In base a Trustpilot, il punteggio è buono: TrustScore 4,4, su 104.909 recensioni, con il 71% di cinque stelle e il 7% di una. Per valutare l’assistenza, leggi anche reclami e risposte recenti nel profilo: la quota di risposte non misura la risoluzione dei problemi."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-reward-code-cecilia010-ja",
+   "arquivo": "content/reviews/yesstyle-reward-code-cecilia010-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-reward-code-cecilia010-ja-ja-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A pergunta 'Comprar é seguro?' passa a responder direto (empresa real, mas isso não garante originalidade); os outros dois itens seguem a proposta, com a mesma decisão da PT e da EN. Fatos conferidos no guia de confiança e no artigo (Hong Kong, 2006, 400 marcas, sem auditoria).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/3",
+       "antes": "YesStyleで買い物しても安全ですか？はい。2006年創業の正規の企業で、150を超える国と地域に対応し、商品は正規品、通信はSSLで暗号化されています。",
+       "depois": "YesStyleで買い物しても安全ですか？会社は2006年創業の香港企業で、実在します。ただし、それは商品が正規品であることの保証にはなりません。購入前に確認したい点は[YesStyleは安全？信頼性と評判](/ja/reviews/yesstyle-trust-guide-ja)をご覧ください。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/6",
+       "antes": "商品は正規品ですか？はい。YesStyleは各ブランドの公認ディストリビューターで、メーカーや公式ディストリビューターから直接仕入れています。",
+       "depois": "YesStyleの商品は本物ですか、偽物ですか？YesStyleは、400以上の韓国コスメブランドの正規販売店であり、メーカーまたはメーカーが認めた販売元から仕入れていると述べています。この主張を裏付ける第三者の監査は見つかっていません。届いたら、ロット番号、使用期限、封の状態を確認してください。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "100%正規品、公認ディストリビューター",
+       "depois": "YesStyleは400以上の韓国コスメブランドの正規販売店だと述べています"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-cecilia010-ja-ja-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Troca o pró repetido de stacking (já coberto em pros/0) pela divisão 5% na primeira compra e 2% nas recorrentes; o antes confere com a main e não se sobrepõe à trilha ChatGPT (pros/4).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "サイト上の対象プロモーションクーポンと併用できる",
+       "depois": "初回購入（5%オフ）だけでなく、既存アカウントのリピート注文（2%オフ）にも継続して適用可能",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-cecilia010-ja-ja-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrige 'dólar' como preço final: o próprio artigo (FAQ de pagamento) diz que a moeda é escolhida no pedido e convertida pelo câmbio da YesStyle, com possível taxa do banco; ponteiro /cons/3 sem sobreposição.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "最終価格はドル表示(為替レートによって変動します)",
+       "depois": "決済額はYesStyle独自の為替レートで換算され、カード会社や銀行の海外利用手数料がかかる場合がある",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-reward-code-cecilia010-ko",
+   "arquivo": "content/reviews/yesstyle-reward-code-cecilia010-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-reward-code-cecilia010-ko-ko-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A pergunta 'Comprar é seguro?' passa a responder direto (empresa real, mas isso não garante originalidade); os outros dois itens seguem a proposta, com a mesma decisão da PT e da EN. Fatos conferidos no guia de confiança e no artigo (Hong Kong, 2006, 400 marcas, sem auditoria).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/3",
+       "antes": "YesStyle에서 구매해도 안전한가요? 네. 2006년부터 운영된 정식 기업이고, 150개가 넘는 국가와 지역에 서비스하며, 정품을 판매하고 SSL 암호화를 사용합니다.",
+       "depois": "YesStyle에서 구매해도 안전한가요? 회사는 2006년에 설립된 실제 홍콩 기업입니다. 다만 그것이 제품이 정품이라는 보장은 아닙니다. 구매 전에 확인할 점은 [YesStyle 신뢰할 수 있을까?](/ko/reviews/yesstyle-trust-guide-ko)에서 살펴보세요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/6",
+       "antes": "제품은 정품인가요? 네. YesStyle은 각 브랜드의 공식 유통사로, 제조사나 공식 유통사에서 직접 매입합니다.",
+       "depois": "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체이며 제조사 또는 제조사가 인정한 유통업체에서 매입한다고 밝힙니다. 이 주장을 뒷받침하는 독립적인 감사는 찾지 못했으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "100% 정품, 공식 유통사",
+       "depois": "YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체라고 밝힙니다"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-cecilia010-ko-ko-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Troca o pró repetido de stacking (já coberto em pros/0) pela divisão 5% na primeira compra e 2% nas recorrentes; o antes confere com a main e não se sobrepõe à trilha ChatGPT (pros/4).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "사이트의 적격 프로모션 쿠폰과 함께 사용 가능",
+       "depois": "첫 구매(5% 추가)는 물론 기존 계정의 재구매(2% 추가)에도 계속 적용 가능",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-cecilia010-ko-ko-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrige 'dólar' como preço final: o próprio artigo (FAQ de pagamento) diz que a moeda é escolhida no pedido e convertida pelo câmbio da YesStyle, com possível taxa do banco; ponteiro /cons/3 sem sobreposição.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "최종 가격은 달러로 표시됨(환율에 따라 달라짐)",
+       "depois": "결제 금액은 YesStyle 자체 환율로 환산되며, 카드사나 은행의 해외 이용 수수료가 부과될 수 있음",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-reward-code-cecilia010-zh-hans",
+   "arquivo": "content/reviews/yesstyle-reward-code-cecilia010-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-reward-code-cecilia010-zh-hans-zh-hans-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A pergunta 'Comprar é seguro?' passa a responder direto (empresa real, mas isso não garante originalidade); os outros dois itens seguem a proposta, com a mesma decisão da PT e da EN. Fatos conferidos no guia de confiança e no artigo (Hong Kong, 2006, 400 marcas, sem auditoria).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/3",
+       "antes": "在 YesStyle 购物安全吗？安全。这是一家 2006 年起运营的正规公司，服务 150 多个国家和地区，商品为正品，并采用 SSL 加密。",
+       "depois": "在 YesStyle 购物安全吗？YesStyle 是 2006 年起运营的香港公司，公司本身真实存在。但这不代表商品为正品；下单前该核对什么，请见[YesStyle 值得信赖吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/6",
+       "antes": "商品是正品吗？是的。YesStyle 是各品牌的授权经销商，直接向制造商或官方经销商采购。",
+       "depois": "YesStyle 的商品是正品还是仿冒品？YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。我们没有找到能证实这一点的独立审核；收货时请核对批号、有效期和封条。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "商品 100% 正品，为授权经销商",
+       "depois": "YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-cecilia010-zh-hans-zh-hans-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Troca o pró repetido de stacking (já coberto em pros/0) pela divisão 5% na primeira compra e 2% nas recorrentes; o antes confere com a main e não se sobrepõe à trilha ChatGPT (pros/4).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "可与网站上符合条件的促销优惠券同时使用",
+       "depois": "首单（额外 5%）与现有账户的回购订单（额外 2%）均可持续适用",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-cecilia010-zh-hans-zh-hans-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrige 'dólar' como preço final: o próprio artigo (FAQ de pagamento) diz que a moeda é escolhida no pedido e convertida pelo câmbio da YesStyle, com possível taxa do banco; ponteiro /cons/3 sem sobreposição.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "最终价格以美元计价（会受汇率波动影响）",
+       "depois": "结账金额按 YesStyle 内部汇率换算，银行或发卡机构可能另收境外交易手续费",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-reward-code-cecilia010-zh-hant",
+   "arquivo": "content/reviews/yesstyle-reward-code-cecilia010-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-reward-code-cecilia010-zh-hant-zh-hant-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A pergunta 'Comprar é seguro?' passa a responder direto (empresa real, mas isso não garante originalidade); os outros dois itens seguem a proposta, com a mesma decisão da PT e da EN. Fatos conferidos no guia de confiança e no artigo (Hong Kong, 2006, 400 marcas, sem auditoria).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/3",
+       "antes": "在 YesStyle 購物安全嗎？安全。這是一家 2006 年起營運的正規公司，服務 150 多個國家和地區，商品為正品，並採用 SSL 加密。",
+       "depois": "在 YesStyle 購物安全嗎？YesStyle 是 2006 年起營運的香港公司，公司本身真實存在。但這不代表商品為正品；下單前該核對什麼，請見[YesStyle 值得信賴嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/6",
+       "antes": "商品是正品嗎？是的。YesStyle 是各品牌的授權經銷商，直接向製造商或官方經銷商採購。",
+       "depois": "YesStyle 的商品是正品還是仿冒品？YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。我們沒有找到能證實這一點的獨立稽核；收到商品時請檢查批號、有效期限與封條。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "商品 100% 正品，為授權經銷商",
+       "depois": "YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-cecilia010-zh-hant-zh-hant-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Troca o pró repetido de stacking (já coberto em pros/0) pela divisão 5% na primeira compra e 2% nas recorrentes; o antes confere com a main e não se sobrepõe à trilha ChatGPT (pros/4).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "可與網站上符合資格的促銷優惠券同時使用",
+       "depois": "首購（額外 5%）與現有帳號的回購訂單（額外 2%）皆可持續適用",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-cecilia010-zh-hant-zh-hant-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrige 'dólar' como preço final: o próprio artigo (FAQ de pagamento) diz que a moeda é escolhida no pedido e convertida pelo câmbio da YesStyle, com possível taxa do banco; ponteiro /cons/3 sem sobreposição.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "最終價格以美元計價（會受匯率波動影響）",
+       "depois": "結帳金額依 YesStyle 內部匯率換算，銀行或發卡機構可能另收海外交易手續費",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-reward-code-coupon-cecilia010",
+   "arquivo": "content/reviews/yesstyle-reward-code-coupon-cecilia010.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "yesstyle-reward-code-coupon-cecilia010-en-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Direct answer to 'Is it safe to buy?' (legitimate company, but that does not prove originality); the other two items follow the proposal. The 400-brand and no-independent-audit claims already appear in the is-yesstyle-legit-and-safe-review guide.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/3",
+       "antes": "Is it safe to buy on YesStyle? Yes. A legitimate company since 2006, serving more than 150 countries and regions, with authentic products and SSL encryption.",
+       "depois": "Is it safe to buy on YesStyle? The company is legitimate: it is based in Hong Kong and has operated since 2006. That does not guarantee the products are original; see what to check before ordering in [Is YesStyle legit and safe?](/en/reviews/is-yesstyle-legit-and-safe-review)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/6",
+       "antes": "Are the products original? Yes. YesStyle is an authorized distributor of the brands. It buys directly from manufacturers or official distributors.",
+       "depois": "Are YesStyle products authentic or counterfeit? YesStyle says it is an authorized reseller of more than 400 Korean beauty brands, buying from the manufacturers or from authorized distributors. We found no independent audit confirming this; on delivery, check the batch number, expiry date and seal."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "100% authentic products, authorized distributor",
+       "depois": "YesStyle says it is an authorized reseller of more than 400 Korean beauty brands"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-coupon-cecilia010-en-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Replaces the repeated stacking pro (already in pros/0) with the 5% first-order and 2% repeat split, which no other pro states; no conflict with the ChatGPT track.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "Can be used together with eligible promo coupons on the site",
+       "depois": "Valid for both first-time buyers (5% extra) and repeat orders (2% extra)",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-coupon-cecilia010-en-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrects 'quoted in US dollars': the article's own FAQ says the currency is chosen at checkout and converted at YesStyle's internal rate, with possible bank fees; pointer does not overlap the ChatGPT track.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "Final prices quoted in US dollars (subject to exchange-rate swings)",
+       "depois": "Prices converted via YesStyle's internal exchange rate, subject to possible foreign transaction fees from your bank",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-reward-code-rabatt-cecilia010",
+   "arquivo": "content/reviews/yesstyle-reward-code-rabatt-cecilia010.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "yesstyle-reward-code-rabatt-cecilia010-de-g017-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta de \"É seguro comprar?\" passa a responder direto (empresa legítima, mas isso não prova originalidade); os outros dois itens seguem a proposta. As 400 marcas e a ausência de auditoria já estão no guia de confiança do idioma.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/3",
+       "antes": "Ist der Einkauf bei YesStyle sicher? Ja. Seriöses Unternehmen seit 2006, beliefert mehr als 150 Länder und Regionen, originale Produkte, SSL-Verschlüsselung.",
+       "depois": "Ist der Einkauf bei YesStyle sicher? Das Unternehmen ist seriös: Es stammt aus Hongkong und wurde 2006 gegründet. Das garantiert aber nicht, dass die Produkte original sind; was Sie vor der Bestellung prüfen können, steht in [Ist YesStyle seriös und sicher?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/15/bullets/6",
+       "antes": "Sind die Produkte original? Ja. YesStyle ist autorisierter Händler der Marken und kauft direkt bei den Herstellern oder offiziellen Distributoren ein.",
+       "depois": "Sind die Produkte von YesStyle original oder gefälscht? YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei autorisierten Händlern einzukaufen. Eine unabhängige Prüfung, die das bestätigt, haben wir nicht gefunden; kontrollieren Sie bei der Lieferung Charge, Haltbarkeitsdatum und Siegel."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/4",
+       "antes": "100 % originale Produkte, autorisierter Händler",
+       "depois": "YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-rabatt-cecilia010-de-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Troca o pro repetido de cumulação (já coberto no primeiro pro) pela divisão de 5% na primeira compra e 2% nas recorrentes, que nenhum outro pro traz; sem conflito com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/1",
+       "antes": "Lässt sich zusammen mit berechtigten Aktionsgutscheinen auf der Website nutzen",
+       "depois": "Gilt sowohl für die Erstbestellung (5 % extra) als auch für Folgekäufe (2 % extra)",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-reward-code-rabatt-cecilia010-de-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Corrige \"preços em dólar\": o próprio FAQ diz que a moeda é escolhida no pedido e convertida pelo câmbio interno, com possível tarifa do banco; ponteiro sem sobreposição com a trilha ChatGPT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "Endpreise in Dollar angegeben (abhängig von Wechselkursschwankungen)",
+       "depois": "Preise werden zum internen YesStyle-Wechselkurs umgerechnet; Banken können Auslandsentgelte erheben",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trustpilot-bewertungen",
+   "arquivo": "content/reviews/yesstyle-trustpilot-bewertungen.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "yesstyle-trustpilot-bewertungen-de-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho mudou na main; a melhoria de escopo continua valendo, ohne neues Datum (die main hat schon eines) und ohne Hintergrundnotiz, mit dem Text der Gemini-Variante verschmolzen.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "YesStyle hat auf Trustpilot eine Note von 4,4 bei über 104.000 Bewertungen und 71 % Fünf-Sterne. Hier die Beschwerden zur Lieferung und warum die Note nichts über Ihr Land aussagt.",
+       "depois": "YesStyle hat auf Trustpilot eine Note von 4,4 bei über 104.000 Bewertungen und 71 % Fünf-Sterne. Hier die Themen aus den negativen Bewertungen und die Grenzen einer globalen Note."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Im November 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den negativen Bewertungen, die wir gelesen haben, ging es in den Beschwerden um die internationale Lieferung und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern.",
+       "depois": "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Im November 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den sichtbaren negativen Bewertungen, die wir gelesen haben, ging es um die internationale Lieferung und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Die Beschwerden drehen sich um die internationale Lieferung. Wir haben die sichtbaren negativen Bewertungen gelesen und die Themen notiert, ohne sie zu zählen oder zu ordnen:",
+       "depois": "In den sichtbaren negativen Bewertungen, die wir gelesen haben, ging es um folgende Punkte, ohne sie zu zählen oder zu ordnen:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Das sind die Stellen, an denen ein internationaler Kauf häufig scheitert. Für Leser zeigen sie, wo man hinschauen sollte: die Lieferzeit im Checkout, die Sendungsverfolgung nach dem Versand und die Verpackung bei der Ankunft.",
+       "depois": "Diese Berichte geben Hinweise für konkrete Prüfungen: Lieferzeit im Checkout, Sendungsverfolgung nach dem Versand und Zustand der Verpackung bei der Ankunft."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "In den negativen Bewertungen, die wir gelesen haben, ging es um die Lieferung, daher prüfen Sie vor dem Bezahlen die Versandkosten und die Lieferzeit für Ihr Land, die im Checkout erscheinen. Die Beträge und die Zählung der Lieferzeit je Land stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+       "depois": "In den sichtbaren negativen Bewertungen, die wir gelesen haben, ging es um Lieferung und Sendungsverfolgung. Prüfen Sie vor der Zahlung Versandkosten und Lieferzeit für Ihre Adresse im Checkout. Beträge und Berechnung der Lieferzeiten stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trustpilot-bewertungen-de-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho obsoleto na main (a main já traz 104.909); a versão nova tira a data extra e a frase de checagem, deixando a ressalva de que a taxa de resposta não mede solução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Nach Trustpilot ist die Lesart gut: TrustScore 4,4, „Excellent“, bei 104.909 Bewertungen, davon 71 % Fünf-Sterne und 7 % Ein-Stern, mit 98 % beantworteten negativen Bewertungen, in der Regel innerhalb von 24 Stunden.",
+       "depois": "Nach Trustpilot ist die Note gut: TrustScore 4,4 bei 104.909 Bewertungen, davon 71 % Fünf-Sterne und 7 % Ein-Stern. Um den Kundenservice einzuschätzen, lesen Sie auch aktuelle Beschwerden und Antworten im Profil; die Antwortquote zeigt nicht, ob Probleme gelöst wurden."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trustpilot-nota-reclamacoes",
+   "arquivo": "content/reviews/yesstyle-trustpilot-nota-reclamacoes.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "yesstyle-trustpilot-nota-reclamacoes-pt-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho parcialmente mudou na main; a melhoria de escopo continua valendo, sem \"na leitura de\" (bastidor) e sem a data extra que duplicaria a checagem.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "A YesStyle tem nota 4,4 na Trustpilot, com mais de 104 mil avaliações e 71% de cinco estrelas. Veja as queixas de entrega e por que a nota global não diz nada sobre o seu país.",
+       "depois": "A YesStyle tem nota 4,4 na Trustpilot, com mais de 104 mil avaliações e 71% de cinco estrelas. Veja os temas das queixas e os limites de uma nota global."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em novembro, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas negativas que lemos, as queixas eram de entrega internacional e rastreio. A nota é global e não separa países.",
+       "depois": "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em novembro, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas avaliações negativas visíveis que lemos, apareceram problemas de entrega internacional e rastreio, e a nota global não separa países."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "As queixas giram em torno da entrega internacional. Lemos as negativas visíveis e anotamos os temas, sem contar nem ranquear:",
+       "depois": "Nas avaliações negativas visíveis que lemos, os temas foram estes, sem contar nem ranquear:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "São os pontos em que uma compra internacional costuma falhar. Para o leitor, eles dizem onde olhar: o prazo no checkout, o rastreio depois do envio e a embalagem na chegada.",
+       "depois": "Esses relatos ajudam a montar uma conferência prática: prazo no checkout, rastreio depois do envio e estado da embalagem na chegada."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "Nas negativas que lemos, os temas eram de entrega, então o que você confere antes de pagar é o frete e o prazo do seu país, que aparecem no checkout. Para Portugal, a YesStyle publica prazo e frete na tabela dela, e o IVA já vem no preço; os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+       "depois": "Nas avaliações negativas visíveis que lemos, apareceram problemas de entrega e rastreio. Antes de pagar, confira o frete e o prazo para o seu endereço no checkout. Para Portugal, o IVA já vem no preço, e os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trustpilot-nota-reclamacoes-pt-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já traz 104.909 e a checagem; a proposta trazia \"na leitura de\" e data, então o veredito fica com a nota e a ressalva de que o índice de respostas não mede solução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Pela Trustpilot, a leitura é boa: TrustScore 4,4, \"Excellent\", em 104.909 avaliações, 71% delas de cinco estrelas e 7% de uma, com 98% das negativas respondidas, em geral em até 24 horas.",
+       "depois": "Pela Trustpilot, a nota é boa: TrustScore 4,4, em 104.909 avaliações, com 71% de cinco estrelas e 7% de uma. Para avaliar o atendimento, vale ler também as reclamações e as respostas recentes no perfil: o índice de respostas não mostra se o problema foi resolvido."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trustpilot-nota-reclamacoes-pt-g094-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A ressalva do Reclame Aqui e a resposta sobre entrega ao Brasil ajudam o leitor, mas as datas extras (corpo e FAQ) saem e a frase que explica o próprio teste some.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/2",
+       "antes": "No Reclame Aqui, a YesStyle não atende: a página que existe lá não é verificada e não tinha nenhuma reclamação respondida. Por isso este artigo usa a Trustpilot. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel).",
+       "depois": "No Reclame Aqui, a página da YesStyle não era verificada e não tinha nenhuma reclamação respondida pela empresa. Por isso, o centro deste artigo é a Trustpilot. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/3",
+       "antes": "A YesStyle entrega no Brasil? Não: a loja não oferecia entrega para o Brasil, num teste nosso no app. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja.",
+       "depois": "A YesStyle entrega no Brasil? Não: no teste que fizemos no app, a loja não oferecia envio para o Brasil. Confira o destino no checkout antes de comprar. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trustpilot-reviews",
+   "arquivo": "content/reviews/yesstyle-trustpilot-reviews.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "yesstyle-trustpilot-reviews-en-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho parcialmente mudou na main; a fusão mantém o escopo das avaliações visíveis, sem \"our reading\" nem data extra, e os ganhos do bloco de queixas.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "YesStyle scores 4.4 on Trustpilot, with over 104,000 reviews and 71% five-star. See the delivery complaints and why a global score says nothing about your own country.",
+       "depois": "YesStyle scores 4.4 on Trustpilot, with over 104,000 reviews and 71% five-star. See the themes in negative reviews and why a global score says little about your own country."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "YesStyle has a good Trustpilot score, with one caveat. In November 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. In the negative reviews we read, the complaints were about international delivery and tracking. The score is global and doesn't separate countries.",
+       "depois": "YesStyle has a good Trustpilot score, with one caveat. In November 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. The visible negative reviews we read mentioned international delivery and tracking, and the score is global and doesn't separate countries."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "The complaints revolve around international delivery. We read the visible negative reviews and noted the themes, without counting or ranking them:",
+       "depois": "In the visible negative reviews we read, the themes were these, without counting or ranking them:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "These are the points where an international purchase tends to fail. For the reader, they show where to look: the delivery time at checkout, the tracking after shipping and the packaging on arrival.",
+       "depois": "These reports suggest practical checks: the delivery estimate at checkout, tracking after dispatch and the condition of the packaging on arrival."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "In the negative reviews we read, they were about delivery, so what you check before paying is the shipping cost and delivery time for your country, which appear in the checkout. The rates and how the delivery time is counted for each country are in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+       "depois": "The negative reviews we read included delivery and tracking problems. Before paying, check the shipping cost and delivery estimate for your address at checkout. Rates and how delivery times are counted for each country are covered in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trustpilot-reviews-en-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já traz 104,909; a proposta trazia \"reading\" e data, então o veredito fica com a distribuição de estrelas e a ressalva de que o índice de respostas não mede resolução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "By Trustpilot, the reading is good: TrustScore 4.4, “Excellent”, across 104,909 reviews, 71% of them five-star and 7% one-star, with 98% of negative reviews answered, usually within 24 hours.",
+       "depois": "By Trustpilot, the score is good: TrustScore 4.4 across 104,909 reviews, with 71% five-star and 7% one-star. To assess customer service, also read recent complaints and replies on the profile; the reply rate doesn't show whether problems were resolved."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trustpilot-reviews-ja",
+   "arquivo": "content/reviews/yesstyle-trustpilot-reviews-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-trustpilot-reviews-ja-ja-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho mudou na main (data de novembro e textos já reescritos); a melhoria de escopo segue a decisão PT/EN: sem bastidor, data uma vez no corpo, sem o meta com a data de outubro da auditoria.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "2026年11月時点のYesStyleのTrustpilot評価：104,909件のレビューでTrustScoreは4.4、71%が星5つ。読んだ低評価レビューの苦情は国際配送が中心で、この評価はあなたの国のことを何も示しません。",
+       "depois": "2026年11月時点のYesStyleのTrustpilot評価：104,909件のレビューでTrustScoreは4.4、71%が星5つ。表示されていた低評価レビューの苦情は国際配送が中心です。この評価が言えるのは世界全体の傾向までです。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年11月時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。私たちが読んだ低評価レビューでは、苦情は国際配送と追跡に関するものでした。この評価は世界全体のもので、国別には分かれていません。",
+       "depois": "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年11月時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。表示されていた低評価レビューには、国際配送や追跡の問題がありました。この評価は世界全体のもので、国別には分かれていません。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "苦情は国際配送に集中しています。表示されている低評価レビューを読み、テーマを書き出しました。件数は数えず、順位も付けていません。",
+       "depois": "表示されていた低評価レビューで出てきたテーマは次のとおりです。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "どれも、国際購入でつまずきやすい点です。読者にとっては、どこを見ればよいかの目安になります。チェックアウトでの配送日数、発送後の追跡、到着時の梱包です。",
+       "depois": "買う前後に確認したいのは、チェックアウトでの配送日数、発送後の追跡、到着時の梱包状態です。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "読んだ低評価レビューのテーマは配送だったので、支払う前に確認するのは、チェックアウトに表示されるお住まいの国の送料と配送日数です。配送日数の数え方や金額は[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。",
+       "depois": "表示されていた低評価レビューには配送と追跡の問題がありました。支払う前に、チェックアウトでお届け先の送料と配送日数を確認してください。配送日数の数え方や金額は[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trustpilot-reviews-ja-ja-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Main já traz 104.909 e a checagem; o veredito fica com a distribuição de estrelas e a ressalva de que a taxa de resposta não mede resolução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Trustpilotで見るかぎり、評価は良好です。TrustScoreは4.4で「Excellent」、104,909件のレビューのうち71%が星5つ、7%が星1つ。低評価の98%に返信があり、多くは24時間以内です。",
+       "depois": "Trustpilotで見るかぎり、評価は良好です。TrustScoreは4.4、104,909件のレビューのうち71%が星5つ、7%が星1つ。サポートを判断するには、プロフィールの最近の苦情と返信も読んでみてください。返信率は、問題が解決した割合ではありません。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trustpilot-reviews-ko",
+   "arquivo": "content/reviews/yesstyle-trustpilot-reviews-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-trustpilot-reviews-ko-ko-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho mudou na main (data de novembro e textos já reescritos); a melhoria de escopo segue a decisão PT/EN: sem bastidor, data uma vez no corpo, sem o meta com a data de outubro da auditoria.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "2026년 11월 기준 YesStyle의 Trustpilot 평점: 리뷰 104,909건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 읽은 부정적 리뷰의 불만은 해외 배송에 관한 것이고, 이 평점은 회원님이 사는 나라에 대해서는 아무것도 알려 주지 않습니다.",
+       "depois": "2026년 11월 기준 YesStyle의 Trustpilot 평점: 리뷰 104,909건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 보이는 부정적 리뷰의 불만은 해외 배송에 관한 것이고, 이 평점으로 알 수 있는 것은 전 세계를 합친 경향까지입니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 11월 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 저희가 읽은 부정적 리뷰에서 불만은 해외 배송과 배송 추적에 관한 것이었습니다. 이 평점은 전 세계를 합친 것이며 국가별로 나뉘어 있지 않습니다.",
+       "depois": "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 11월 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 보이는 부정적 리뷰에서는 해외 배송과 배송 추적 문제가 나왔습니다. 이 평점은 전 세계를 합친 것이며 국가별로 나뉘어 있지 않습니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "불만은 해외 배송에 몰려 있습니다. 보이는 부정적 리뷰를 읽고 주제를 적어 두었으며, 건수를 세거나 순위를 매기지는 않았습니다.",
+       "depois": "보이는 부정적 리뷰에서 나온 주제는 다음과 같습니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "해외 구매가 흔히 어긋나는 지점들입니다. 구매자에게는 어디를 봐야 하는지를 알려 줍니다. 결제 화면의 배송 기간, 발송 후의 배송 추적, 도착했을 때의 포장입니다.",
+       "depois": "구매 전후에 확인할 지점은 결제 화면의 배송 기간, 발송 후의 배송 추적, 도착했을 때의 포장 상태입니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "읽은 부정적 리뷰의 주제가 배송이었으니 결제 전에 확인할 것은 결제 화면에 표시되는 회원님 나라의 배송비와 배송 기간입니다. 기간을 세는 방식과 금액은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
+       "depois": "보이는 부정적 리뷰에는 배송과 배송 추적 문제가 있었습니다. 결제 전에 결제 화면에서 회원님 주소로 가는 배송비와 예상 배송 기간을 확인하세요. 금액과 기간을 세는 방식은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trustpilot-reviews-ko-ko-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Main já traz 104.909 e a checagem; o veredito fica com a distribuição de estrelas e a ressalva de que a taxa de resposta não mede resolução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Trustpilot로 보면 평가는 좋습니다. TrustScore 4.4, \"Excellent\", 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개이고, 부정적 리뷰의 98%에 답변했으며 대개 24시간 안에 달렸습니다.",
+       "depois": "Trustpilot로 보면 평가는 좋습니다. TrustScore 4.4, 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개입니다. 고객 응대를 판단하려면 프로필의 최근 불만과 답변도 읽어 보세요. 답변율은 문제가 해결된 비율을 뜻하지 않습니다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trustpilot-reviews-zh-hans",
+   "arquivo": "content/reviews/yesstyle-trustpilot-reviews-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-trustpilot-reviews-zh-hans-zh-hans-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho mudou na main (data de novembro e textos já reescritos); a melhoria de escopo segue a decisão PT/EN: sem bastidor, data uma vez no corpo, sem o meta com a data de outubro da auditoria.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "YesStyle 在 Trustpilot 上 2026年11月的评分：104,909 条评价，TrustScore 4.4，71% 为五星。我们读过的差评涉及国际配送，而这个评分并不能说明你所在国家的情况。",
+       "depois": "YesStyle 在 Trustpilot 上 2026年11月的评分：104,909 条评价，TrustScore 4.4，71% 为五星。可见的差评涉及国际配送，这个全球合并评分只能说明整体情况。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "YesStyle 在 Trustpilot 上的评分不错，但有一个前提。2026年11月，TrustScore 为 4.4，评价超过 10.4 万条，71% 是五星；在我们读过的差评中，投诉涉及国际配送和物流追踪。这个评分是全球合并的，没有按国家区分。",
+       "depois": "YesStyle 在 Trustpilot 上的评分不错，但有一个前提。2026年11月，TrustScore 为 4.4，评价超过 10.4 万条，71% 是五星；在可见的差评中，投诉涉及国际配送和物流追踪。这个评分是全球合并的，没有按国家区分。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "投诉围绕国际配送展开。我们读了可见的负面评价，记录了主题，不计数也不排序：",
+       "depois": "在可见的负面评价中，出现的主题有这些："
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "这些正是国际购物容易出问题的环节。对读者来说，它们说明了该看哪里：结账时的送达时间、发货后的物流追踪，以及收货时的包装。",
+       "depois": "购买前后可以核对这几个环节：结账时的送达时间、发货后的物流追踪，以及收货时的包装状态。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "在我们读过的差评中，投诉涉及配送，所以付款前要核对的是你所在国家的运费和送达时间，它们会显示在结账页面。送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+       "depois": "可见的差评涉及配送和物流追踪。付款前，请在结账页面核对寄到你所在地址的运费和预计送达时间。送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trustpilot-reviews-zh-hans-zh-hans-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Main já traz 104.909 e a checagem; o veredito fica com a distribuição de estrelas e a ressalva de que a taxa de resposta não mede resolução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "从 Trustpilot 看，结论是好的：TrustScore 4.4，“Excellent”，104,909 条评价中 71% 为五星、7% 为一星，98% 的负面评价得到回复，通常在 24 小时内。",
+       "depois": "从 Trustpilot 看，评分是好的：TrustScore 4.4，104,909 条评价中 71% 为五星、7% 为一星。若要判断客服处理情况，还应阅读主页上近期的投诉及回复；回复率并不代表问题已解决。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trustpilot-reviews-zh-hant",
+   "arquivo": "content/reviews/yesstyle-trustpilot-reviews-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-trustpilot-reviews-zh-hant-zh-hant-g094-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho mudou na main (data de novembro e textos já reescritos); a melhoria de escopo segue a decisão PT/EN: sem bastidor, data uma vez no corpo, sem o meta com a data de outubro da auditoria.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "YesStyle 在 Trustpilot 上 2026年11月的評分：104,909 則評價，TrustScore 4.4，71% 為五星。我們讀過的差評涉及國際運送，而這個評分並不能說明你所在國家的情況。",
+       "depois": "YesStyle 在 Trustpilot 上 2026年11月的評分：104,909 則評價，TrustScore 4.4，71% 為五星。可見的差評涉及國際運送，這個全球合併評分只能說明整體情況。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "YesStyle 在 Trustpilot 上的評分不錯，但有一個前提。2026年11月，TrustScore 為 4.4，評價超過 10.4 萬則，71% 是五星；在我們讀過的差評中，投訴涉及國際運送和物流追蹤。這個評分是全球合併的，沒有按國家區分。",
+       "depois": "YesStyle 在 Trustpilot 上的評分不錯，但有一個前提。2026年11月，TrustScore 為 4.4，評價超過 10.4 萬則，71% 是五星；在可見的差評中，投訴涉及國際運送和物流追蹤。這個評分是全球合併的，沒有按國家區分。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "投訴圍繞國際運送展開。我們讀了可見的負評，記錄了主題，不計數也不排序：",
+       "depois": "在可見的負評中，出現的主題有這些："
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "這些正是國際購物容易出問題的環節。對讀者來說，它們說明了該看哪裡：結帳時的送達時間、出貨後的物流追蹤，以及收貨時的包裝。",
+       "depois": "購買前後可以核對這幾個環節：結帳時的送達時間、出貨後的物流追蹤，以及收貨時的包裝狀態。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "在我們讀過的差評中，投訴涉及運送，所以付款前要核對的是你所在國家的運費和送達時間，它們會顯示在結帳頁面。送達時間的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+       "depois": "可見的差評涉及運送和物流追蹤。付款前，請在結帳頁面核對寄到你所在地址的運費和預計送達時間。送達時間的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trustpilot-reviews-zh-hant-zh-hant-g094-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Main já traz 104.909 e a checagem; o veredito fica com a distribuição de estrelas e a ressalva de que a taxa de resposta não mede resolução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "從 Trustpilot 看，結論是好的：TrustScore 4.4，「Excellent」，104,909 則評價中 71% 為五星、7% 為一星，98% 的負評得到回覆，通常在 24 小時內。",
+       "depois": "從 Trustpilot 看，評分是好的：TrustScore 4.4，104,909 則評價中 71% 為五星、7% 為一星。若要判斷客服處理情況，還應閱讀檔案上近期的投訴及回覆；回覆率並不代表問題已解決。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

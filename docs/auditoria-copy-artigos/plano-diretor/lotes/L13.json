@@ -1,0 +1,743 @@
+{
+ "lote": "L13",
+ "tipo": "familias",
+ "loja": "yesstyle",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "yesstyle-o-olive-young-cual-elegir",
+   "arquivo": "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "yesstyle-o-olive-young-cual-elegir-es-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (reembolso na forma de pago original, 30 días desde la recepción, solo defecto o artículo equivocado) em uma frase, sem data nem R$ e sem dado novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Elige Olive Young Global si solo esperas devolver por defecto o artículo equivocado y quieres 30 días para pedirlo.",
+       "depois": "Considera Olive Young Global si prefieres que una devolución aprobada se reembolse en la forma de pago original. Da 30 días desde la recepción para solicitarla, pero solo acepta defecto o artículo equivocado enviado por la tienda.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-o-olive-young-quale-scegliere",
+   "arquivo": "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "yesstyle-o-olive-young-quale-scegliere-it-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (rimborso sul metodo di pagamento originale, 30 giorni dal ricevimento, solo difetti o articoli sbagliati) em uma frase, sem dado novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Scegli Olive Young Global se prevedi di restituire solo per difetto o articolo sbagliato e vuoi 30 giorni per chiedere.",
+       "depois": "Considera Olive Young Global se preferisci che un reso approvato sia rimborsato sul metodo di pagamento originale. La richiesta va fatta entro 30 giorni dal ricevimento, ma sono ammessi solo difetti o articoli sbagliati inviati dal negozio.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-o-stylevana-cual-elegir",
+   "arquivo": "content/reviews/yesstyle-o-stylevana-cual-elegir.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "yesstyle-o-stylevana-cual-elegir-es-g022-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta tinha 4 frases e mais de 60 palavras na resposta rápida; mantém-se o núcleo (envio, 14 dias, quem não aceita aberto) em 3 frases.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "No hay una tienda mejor para todo el mundo: la elección cambia con el país y con lo que la tienda acepta de vuelta. Decide por la devolución, con la tabla de abajo: en ninguna de las cinco se devuelve por arrepentimiento un producto de belleza abierto.",
+       "depois": "No hay una tienda mejor para todo el mundo: la elección cambia con el país y con lo que la tienda acepta de vuelta. Primero comprueba que envíe a tu dirección y compara las devoluciones: ninguna de las cinco acepta por arrepentimiento un producto de belleza abierto. YesStyle y Stylevana dan 14 días desde la recepción para pedir la devolución."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-o-stylevana-cual-elegir-es-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Acrescenta a distinção entre o campo Reward Code e o de cupom promocional, que o ChatGPT não cobre; \"cualquier cupón\" e o rótulo \"Coupon Code\" saíram (não são fato verificado).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "CECILIA010 es el código de recompensa de Cecília en YesStyle: va en el campo Reward Code del checkout y da hasta un 5 % de descuento en la primera compra y un 2 % en las siguientes, sumándose a los cupones de la tienda. Los cupones del momento están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle). No tenemos código propio en las otras tiendas de esta comparación.",
+       "depois": "CECILIA010 es el código de recompensa de Cecília en YesStyle: va en el campo Reward Code del checkout, no en el de cupón promocional, y da hasta un 5 % de descuento en la primera compra y un 2 % en las siguientes, sumándose a los cupones de la tienda. Los cupones del momento están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle). No tenemos código propio en las otras tiendas de esta comparación."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-o-stylevana-cual-elegir-es-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (fundida no mesmo fato), sem \"se puede combinar con cupones de descuento\", que generalizava demais.",
+     "ordem": "depois de yesstyle-o-stylevana-cual-elegir-es-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "¿Dónde va el código de recompensa de YesStyle? CECILIA010 va en el campo Reward Code del checkout, y los cupones del momento están en la página de YesStyle de este sitio.",
+       "depois": "¿Dónde va el código de recompensa de YesStyle? CECILIA010 va en el campo Reward Code del checkout, no en el de cupón promocional, y se suma a los cupones de la tienda. Los cupones del momento están en la página de YesStyle de este sitio."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-o-stylevana-quale-scegliere",
+   "arquivo": "content/reviews/yesstyle-o-stylevana-quale-scegliere.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "yesstyle-o-stylevana-quale-scegliere-it-g022-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta tinha 4 frases e mais de 60 palavras na resposta rápida; mantém-se o núcleo (envio, 14 dias, quem não aceita aberto) em 3 frases.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Non esiste un negozio migliore per tutti: la scelta cambia con il paese e con ciò che il negozio accetta indietro. Decidi in base ai resi, con la tabella qui sotto: in nessuno dei cinque si restituisce per ripensamento un prodotto di bellezza aperto.",
+       "depois": "Non esiste un negozio migliore per tutti: la scelta cambia con il paese e con ciò che il negozio accetta indietro. Verifica prima che spedisca al tuo indirizzo, poi confronta i resi: nessuno dei cinque negozi accetta per ripensamento un prodotto di bellezza aperto. YesStyle e Stylevana concedono 14 giorni dalla ricezione per chiedere il reso."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-o-stylevana-quale-scegliere-it-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Acrescenta a distinção entre o campo Reward Code e o de cupom promocional, que o ChatGPT não cobre; \"qualsiasi\" e o rótulo \"Coupon Code\" saíram (não são fato verificado).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "CECILIA010 è il codice ricompensa di Cecília su YesStyle: si inserisce nel campo Reward Code del checkout e dà fino al 5% di sconto sul primo acquisto e il 2% sui successivi, in aggiunta ai coupon del negozio. I coupon del momento sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle). Non abbiamo un codice nostro negli altri negozi di questo confronto.",
+       "depois": "CECILIA010 è il codice ricompensa di Cecília su YesStyle: va inserito nel campo Reward Code del checkout, non in quello dei coupon promozionali, e dà fino al 5% di sconto sul primo acquisto e il 2% sui successivi, in aggiunta ai coupon del negozio. I coupon del momento sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle). Non abbiamo un codice nostro negli altri negozi di questo confronto."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-o-stylevana-quale-scegliere-it-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (fundida no mesmo fato), sem \"si cumula con i buoni sconto\", que generalizava demais.",
+     "ordem": "depois de yesstyle-o-stylevana-quale-scegliere-it-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "Dove va il codice ricompensa di YesStyle? CECILIA010 va nel campo Reward Code del checkout, e i coupon del momento sono nella pagina YesStyle di questo sito.",
+       "depois": "Dove va il codice ricompensa di YesStyle? CECILIA010 va nel campo Reward Code del checkout, non in quello dei coupon promozionali, e si somma ai coupon del negozio. I coupon del momento sono nella pagina YesStyle di questo sito."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-oder-olive-young-welcher-shop",
+   "arquivo": "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "yesstyle-oder-olive-young-welcher-shop-de-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (Erstattung auf die ursprüngliche Zahlungsart, 30 Tage nach Erhalt, nur Defekt oder falscher Artikel) em uma frase, em Sie-Form, sem dado novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Nehmen Sie Olive Young Global, wenn Sie nur bei Defekt oder falschem Artikel zurückgeben wollen und 30 Tage für den Antrag möchten.",
+       "depois": "Ziehen Sie Olive Young Global in Betracht, wenn Ihnen bei einer genehmigten Rückgabe die Erstattung auf die ursprüngliche Zahlungsart wichtig ist. Der Antrag ist innerhalb von 30 Tagen nach Erhalt möglich, aber nur bei Defekt oder einem falsch gelieferten Artikel.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-oder-stylevana-welcher-shop",
+   "arquivo": "content/reviews/yesstyle-oder-stylevana-welcher-shop.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "yesstyle-oder-stylevana-welcher-shop-de-g022-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta tinha 4 frases e mais de 60 palavras na resposta rápida; mantém-se o núcleo (envio, 14 dias, quem não aceita aberto) em 3 frases.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt vom Land ab und davon, was der Shop zurücknimmt. Entscheiden Sie nach der Rückgabe, anhand der Tabelle unten: In keinem der fünf Shops kann ein geöffnetes Beauty-Produkt wegen Nichtgefallens zurückgegeben werden.",
+       "depois": "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt vom Land ab und davon, was der Shop zurücknimmt. Prüfen Sie zuerst, ob er an Ihre Adresse liefert, und vergleichen Sie dann die Rückgabe: Keiner der fünf Shops nimmt ein geöffnetes Beauty-Produkt wegen Nichtgefallens zurück. YesStyle und Stylevana gewähren 14 Tage ab Erhalt für den Rückgabeantrag."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-oder-stylevana-welcher-shop-de-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Acrescenta a distinção entre o campo Reward Code e o de cupom, que o ChatGPT não cobre; \"jedem Aktionscode\" e o rótulo \"Coupon Code\" saíram (não são fato verificado).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "CECILIA010 ist der Reward Code von Cecília bei YesStyle: Er kommt im Checkout in das Feld Reward Code und gibt bis zu 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden, zusätzlich zu den Gutscheinen des Shops. Die aktuellen Gutscheine stehen unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle). In den anderen Shops dieses Vergleichs haben wir keinen eigenen Code.",
+       "depois": "CECILIA010 ist der Reward Code von Cecília bei YesStyle: Er wird im Checkout in das Feld Reward Code eingetragen, nicht in das Gutscheinfeld, und gibt bis zu 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden, zusätzlich zu den Gutscheinen des Shops. Die aktuellen Gutscheine stehen unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle). In den anderen Shops dieses Vergleichs haben wir keinen eigenen Code."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-oder-stylevana-welcher-shop-de-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (fundida no mesmo fato), sem a frase genérica sobre combinar com qualquer promoção.",
+     "ordem": "depois de yesstyle-oder-stylevana-welcher-shop-de-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "Wohin kommt der Reward Code von YesStyle? CECILIA010 kommt im Checkout in das Feld Reward Code, und die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website.",
+       "depois": "Wohin kommt der Reward Code von YesStyle? CECILIA010 wird im Checkout in das Feld Reward Code eingetragen, nicht in das Gutscheinfeld, und lässt sich mit den Gutscheinen des Shops kombinieren. Die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-ou-olive-young",
+   "arquivo": "content/reviews/yesstyle-ou-olive-young.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "yesstyle-ou-olive-young-pt-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (reembolso na forma de pagamento original, 30 dias do recebimento, só defeito ou item errado) e mantém o quadro em 1 frase por item.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Leve a Olive Young Global se você só espera devolver por defeito ou item errado e quer 30 dias para pedir.",
+       "depois": "Considere a Olive Young Global se prefere que uma devolução aprovada seja reembolsada na forma de pagamento original. Ela dá 30 dias do recebimento para pedir, mas só aceita defeito ou item enviado errado.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-ou-olive-young-que-choisir",
+   "arquivo": "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "yesstyle-ou-olive-young-que-choisir-fr-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (remboursement sur le moyen de paiement d’origine, 30 jours après réception, seulement défaut ou article erroné) em uma frase, sem dado novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Prenez Olive Young Global si vous ne comptez retourner que pour un défaut ou un article erroné et voulez 30 jours pour demander.",
+       "depois": "Envisagez Olive Young Global si vous préférez qu’un retour approuvé soit remboursé sur le moyen de paiement d’origine. La demande se fait sous 30 jours après réception, uniquement pour un défaut ou un article erroné envoyé par la boutique.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-ou-stylevana",
+   "arquivo": "content/reviews/yesstyle-ou-stylevana.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "yesstyle-ou-stylevana-pt-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Acrescenta a distinção entre o campo Reward Code e a caixa de cupom promocional, que o ChatGPT não cobre; 'qualquer cupom' e 'Código de Recompensa' como rótulo traduzido foram removidos (a repo só soma com cupons elegíveis da própria YesStyle).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/paragraphs/0",
+       "antes": "O CECILIA010 é o código de recompensa da Cecília na YesStyle: vai no campo Reward Code do checkout e dá até 5% de desconto na primeira compra e 2% nas seguintes, somando com os cupons da loja. Os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle). Não há código nosso nas outras lojas deste comparativo.",
+       "depois": "O CECILIA010 é o código de recompensa da Cecília na YesStyle: vai no campo Reward Code do checkout, não na caixa de cupom promocional, e dá até 5% de desconto na primeira compra e 2% nas seguintes, somando com os cupons da loja. Os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle). Não há código nosso nas outras lojas deste comparativo."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-ou-stylevana-pt-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (fundida no mesmo fato), sem 'você pode combinar ambos', que ficava vago.",
+     "ordem": "depois de yesstyle-ou-stylevana-pt-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/13/bullets/11",
+       "antes": "Onde vai o código de recompensa da YesStyle? O CECILIA010 vai no campo Reward Code do checkout, e os cupons do momento ficam na página da YesStyle aqui do site.",
+       "depois": "Onde vai o código de recompensa da YesStyle? O CECILIA010 vai no campo Reward Code do checkout, não na caixa de cupom promocional, e soma com os cupons da loja. Os cupons do momento ficam na página da YesStyle aqui do site."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-ou-stylevana-que-choisir",
+   "arquivo": "content/reviews/yesstyle-ou-stylevana-que-choisir.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "yesstyle-ou-stylevana-que-choisir-fr-g022-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta tinha 4 frases e mais de 60 palavras na resposta rápida; mantém-se o núcleo (envio, 14 dias, quem não aceita aberto) em 3 frases.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend du pays et de ce que la boutique reprend. Décidez selon le retour, avec le tableau ci-dessous : dans aucune des cinq, un produit de beauté ouvert ne se retourne pour changement d'avis.",
+       "depois": "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend du pays et de ce que la boutique reprend. Vérifiez d'abord qu'elle livre à votre adresse, puis comparez les retours : aucune des cinq ne reprend un produit de beauté ouvert pour changement d'avis. YesStyle et Stylevana accordent 14 jours après réception pour demander un retour."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-ou-stylevana-que-choisir-fr-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Acrescenta a distinção entre o campo Reward Code e o de código promocional, que o ChatGPT não cobre; \"tout code appliqué\" e o rótulo \"Coupon Code\" saíram (não são fato verificado).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "CECILIA010 est le code récompense de Cecília chez YesStyle : il se saisit dans le champ Reward Code au paiement et donne jusqu'à 5 % de réduction sur le premier achat et 2 % sur les suivants, cumulables avec les coupons de la boutique. Les coupons du moment sont sur [coupons YesStyle et code récompense](/fr/coupons/yesstyle). Nous n'avons pas de code à nous dans les autres boutiques de ce comparatif.",
+       "depois": "CECILIA010 est le code récompense de Cecília chez YesStyle : il se saisit dans le champ Reward Code au paiement, et non dans le champ des codes promo, et donne jusqu'à 5 % de réduction sur le premier achat et 2 % sur les suivants, cumulables avec les coupons de la boutique. Les coupons du moment sont sur [coupons YesStyle et code récompense](/fr/coupons/yesstyle). Nous n'avons pas de code à nous dans les autres boutiques de ce comparatif."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-ou-stylevana-que-choisir-fr-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (fundida no mesmo fato), sem a frase genérica sobre cumulação com qualquer promoção.",
+     "ordem": "depois de yesstyle-ou-stylevana-que-choisir-fr-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "Où va le code récompense de YesStyle ? CECILIA010 se saisit dans le champ Reward Code au paiement, et les coupons du moment sont sur la page YesStyle de ce site.",
+       "depois": "Où va le code récompense de YesStyle ? CECILIA010 se saisit dans le champ Reward Code au paiement, et non dans le champ des codes promo, et se cumule avec les coupons de la boutique. Les coupons du moment sont sur la page YesStyle de ce site."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-olive-young",
+   "arquivo": "content/reviews/yesstyle-vs-olive-young.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-olive-young-en-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (refund to original payment method, 30 days from receipt, defect or wrong item only) em uma frase, sem dado novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Take Olive Young Global if you only expect to return for a defect or wrong item and want 30 days to ask.",
+       "depois": "Consider Olive Young Global if you prefer an approved return to be refunded to your original payment method. It allows 30 days from receipt to request a return, but only for a defect or a wrong item sent by the store.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-olive-young-ja",
+   "arquivo": "content/reviews/yesstyle-vs-olive-young-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-olive-young-ja-ja-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (元の支払い方法に返金, 受け取りから30日以内, 不良品か違う商品だけ) em duas frases, como o PT e o EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Olive Young Globalは、返品するとしても不良品か違う商品の場合だけで、申請に30日ほしい方に向いています。",
+       "depois": "承認された返品の返金を元の支払い方法で受け取りたい場合は、Olive Young Globalが選択肢になります。申請は受け取りから30日以内ですが、対象は不良品かショップが違う商品を送った場合だけです。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-olive-young-ko",
+   "arquivo": "content/reviews/yesstyle-vs-olive-young-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-olive-young-ko-ko-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (원래 결제 수단으로 환불, 수령 후 30일, 불량이나 오배송만) em duas frases, como o PT e o EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Olive Young Global은 반품한다 해도 불량이나 오배송뿐이고, 신청 기한 30일이 필요하다면 고르세요.",
+       "depois": "승인된 반품의 환불을 원래 결제 수단으로 받고 싶다면 Olive Young Global을 고려할 수 있습니다. 신청은 수령 후 30일 안에 해야 하며, 불량이나 쇼핑몰의 오배송만 해당합니다.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-olive-young-zh-hans",
+   "arquivo": "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-olive-young-zh-hans-zh-hans-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (退回原付款方式, 收货后 30 天内, 瑕疵或店家寄错商品) em duas frases, como o PT e o EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "选 Olive Young Global：如果你退货只可能是因为瑕疵或寄错，而且希望有 30 天的申请期限。",
+       "depois": "如果希望获批退货后默认退回原付款方式，可以考虑 Olive Young Global。须在收货后 30 天内申请，但只接受瑕疵或店家寄错商品的情况。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-olive-young-zh-hant",
+   "arquivo": "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-olive-young-zh-hant-zh-hant-g067-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (takeIf[1]); o depois repete fatos já no corpo (退回原付款方式, 收貨後 30 天內, 瑕疵或店家寄錯商品) em duas frases, como o PT e o EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "選 Olive Young Global：如果你退貨只可能是因為瑕疵或寄錯，而且希望有 30 天的申請期限。",
+       "depois": "如果希望核准退貨後預設退回原付款方式，可以考慮 Olive Young Global。須在收貨後 30 天內申請，但只接受瑕疵或店家寄錯商品的情況。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-stylevana-ja",
+   "arquivo": "content/reviews/yesstyle-vs-stylevana-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-stylevana-ja-ja-g022-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta deixava a resposta rápida com mais de 3 frases; mantém-se o núcleo (envio, 14 dias, quem não aceita aberto) em 3 frases, como na versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "みんなにとって一番のショップというものはありません。選び方は、住んでいる国と、返品で何を受け付けてくれるかで変わります。返品の条件で決めましょう。5店とも、開封した美容製品は気が変わっただけでは返品できません。比較は下の表のとおりです。",
+       "depois": "みんなにとって一番のショップはありません。選び方は住んでいる国と返品条件で変わるので、まずお届け先に対応しているか確認してください。YesStyleとStylevanaは受け取りから14日以内に返品を申請でき、5店とも開封した美容製品は気が変わっただけでは返品できません。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-ja-ja-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Traz a distinção entre o campo Reward Code e a caixa de cupom, que o ChatGPT não cobre; sem afirmar rótulo de campo da loja que a repo não confirma.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "CECILIA010は、YesStyleでのCecíliaのリワードコードです。チェックアウトのReward Codeの欄に入力すると、初回の購入で最大5%、2回目以降は2%の割引になり、ショップのクーポンと併用できます。現在のクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にまとめています。この比較の他のショップには、私たちのコードはありません。",
+       "depois": "CECILIA010は、YesStyleでのCecíliaのリワードコードです。チェックアウトの通常のクーポン欄ではなく、Reward Codeの欄に入力すると、初回の購入で最大5%、2回目以降は2%の割引になり、ショップのクーポンと併用できます。現在のクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にまとめています。この比較の他のショップには、私たちのコードはありません。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-ja-ja-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (mesmo fato), sem o 'pode combinar' que ficava vago.",
+     "ordem": "depois de yesstyle-vs-stylevana-ja-ja-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "YesStyleのリワードコードはどこに入れますか？CECILIA010は、チェックアウトのReward Codeの欄に入力します。現在のクーポンは、このサイトのYesStyleのページにあります。",
+       "depois": "YesStyleのリワードコードはどこに入れますか？CECILIA010は、チェックアウトの通常のクーポン欄ではなく、Reward Codeの欄に入力します。現在のクーポンは、このサイトのYesStyleのページにあります。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-stylevana-ko",
+   "arquivo": "content/reviews/yesstyle-vs-stylevana-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-stylevana-ko-ko-g022-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta deixava a resposta rápida com mais de 3 frases; mantém-se o núcleo (envio, 14 dias, quem não aceita aberto) em 3 frases, como na versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라와 반품으로 무엇을 받아 주는지에 따라 선택이 달라집니다. 반품 조건으로 고르면 됩니다. 다섯 곳 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다. 아래 표를 참고하세요.",
+       "depois": "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라와 반품 조건에 따라 달라지니, 먼저 쇼핑몰이 내 배송지로 배송하는지 확인하세요. YesStyle과 Stylevana는 수령 후 14일 안에 반품을 신청해야 하며, 다섯 쇼핑몰 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-ko-ko-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Traz a distinção entre o campo Reward Code e a caixa de cupom, que o ChatGPT não cobre; sem afirmar rótulo de campo da loja que a repo não confirma.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "CECILIA010은 YesStyle에서 쓰는 Cecília의 리워드 코드입니다. 결제 화면의 Reward Code 칸에 입력하면 첫 구매에 최대 5%, 이후 구매에 2%가 할인되며, 쇼핑몰 쿠폰과 함께 쓸 수 있습니다. 지금 쓸 수 있는 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 있습니다. 이 비교에 나오는 다른 쇼핑몰에는 저희 코드가 없습니다.",
+       "depois": "CECILIA010은 YesStyle에서 쓰는 Cecília의 리워드 코드입니다. 결제 화면의 일반 쿠폰 칸이 아니라 Reward Code 칸에 입력하면 첫 구매에 최대 5%, 이후 구매에 2%가 할인되며, 쇼핑몰 쿠폰과 함께 쓸 수 있습니다. 지금 쓸 수 있는 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 있습니다. 이 비교에 나오는 다른 쇼핑몰에는 저희 코드가 없습니다."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-ko-ko-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (mesmo fato), sem o 'pode combinar' que ficava vago.",
+     "ordem": "depois de yesstyle-vs-stylevana-ko-ko-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "YesStyle 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 Reward Code 칸에 입력합니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다.",
+       "depois": "YesStyle 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 일반 쿠폰 칸이 아니라 Reward Code 칸에 입력합니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-stylevana-olive-young",
+   "arquivo": "content/reviews/yesstyle-vs-stylevana-olive-young.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-stylevana-olive-young-en-g022-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta deixava a resposta rápida com 5 frases e ~95 palavras, fora do formato de resumo; mantém-se o núcleo (envio, 14 dias, quem não aceita aberto) em 3 frases.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "No store is best for everyone: the choice changes with the country and with what the store takes back. Decide by returns, using the table below: at none of the five stores can an opened beauty product be returned for a change of mind.",
+       "depois": "No store is best for everyone: the choice changes with the country and with what the store takes back. Check first that it ships to your address, then compare returns: none of the five accepts an opened beauty product for a change of mind. YesStyle and Stylevana both allow 14 days after delivery to request a return."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-olive-young-en-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Traz a distinção entre o campo Reward Code e a caixa de cupom, ausente no ChatGPT; 'any regular coupon' e o rótulo 'Coupon Code' como fato foram tirados (a repo diz soma com cupons elegíveis da própria YesStyle).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "CECILIA010 is Cecília's Reward Code at YesStyle: it goes in the Reward Code field at checkout and gives up to 5% off the first purchase and 2% off the following ones, stacking with the store's coupons. Current coupons are at [YesStyle coupons and Reward Code](/en/coupons/yesstyle). We have no code of our own at the other stores in this comparison.",
+       "depois": "CECILIA010 is Cecília's Reward Code at YesStyle: it goes in the separate Reward Code field at checkout, not in the coupon box, and gives up to 5% off the first purchase and 2% off the following ones, stacking with the store's coupons. Current coupons are at [YesStyle coupons and Reward Code](/en/coupons/yesstyle). We have no code of our own at the other stores in this comparison."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-olive-young-en-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (mesmo fato, fundido), sem 'stacks with promotional coupons' que generalizava demais.",
+     "ordem": "depois de yesstyle-vs-stylevana-olive-young-en-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "Where does the YesStyle Reward Code go? CECILIA010 goes in the Reward Code field at checkout, and the current coupons are on the YesStyle page here on the site.",
+       "depois": "Where does the YesStyle Reward Code go? CECILIA010 goes in the separate Reward Code field at checkout, not in the coupon box, and stacks with the store's own coupons. Current coupons are on the YesStyle page here on the site."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-stylevana-zh-hans",
+   "arquivo": "content/reviews/yesstyle-vs-stylevana-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-stylevana-zh-hans-zh-hans-g022-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta deixava a resposta rápida com mais de 3 frases; mantém-se o núcleo (envio, 14 dias, quem não aceita aberto) em 3 frases, como na versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "没有对所有人都最合适的商店：选择取决于所在国家，以及商店退货接受什么。按退货条件来选即可，详见下面的表格：五家店都不接受已拆封的美妆产品因改变主意而退。",
+       "depois": "没有对所有人都最合适的商店：选择取决于所在国家，以及商店退货接受什么。先确认商店是否配送到你的地址。YesStyle 与 Stylevana 都须在收到商品后 14 天内提出申请，五家店都不接受因改变主意而退回已拆封的美妆产品。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-zh-hans-zh-hans-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Traz a distinção entre o campo Reward Code e a caixa de cupom, que o ChatGPT não cobre; sem afirmar rótulo de campo da loja que a repo não confirma.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "CECILIA010 是 Cecília 在 YesStyle 的奖励码（Reward Code）：填入结账页的 Reward Code 栏，首次购物最高优惠 5%，之后每次优惠 2%，可与商店自己的优惠券叠加。目前的优惠券见 [YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)。本文比较的其他商店，我们没有专属代码。",
+       "depois": "CECILIA010 是 Cecília 在 YesStyle 的奖励码（Reward Code）：填入结账页的 Reward Code 栏（不是普通优惠券栏），首次购物最高优惠 5%，之后每次优惠 2%，可与商店自己的优惠券叠加。目前的优惠券见 [YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)。本文比较的其他商店，我们没有专属代码。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-zh-hans-zh-hans-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (mesmo fato), sem o 'pode combinar' que ficava vago.",
+     "ordem": "depois de yesstyle-vs-stylevana-zh-hans-zh-hans-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "YesStyle 的奖励码填在哪里？CECILIA010 填入结账页的 Reward Code 栏；目前的优惠券在本站的 YesStyle 页面。",
+       "depois": "YesStyle 的奖励码填在哪里？CECILIA010 填入结账页的 Reward Code 栏（不是普通优惠券栏）；目前的优惠券在本站的 YesStyle 页面。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-vs-stylevana-zh-hant",
+   "arquivo": "content/reviews/yesstyle-vs-stylevana-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-vs-stylevana-zh-hant-zh-hant-g022-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta deixava a resposta rápida com mais de 3 frases; mantém-se o núcleo (envio, 14 dias, quem não aceita aberto) em 3 frases, como na versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "沒有對所有人都最適合的商店：選擇取決於所在國家，以及商店退貨接受什麼。依退貨條件來選即可，詳見下方表格：五家店都不接受已拆封的美妝品因改變心意而退。",
+       "depois": "沒有對所有人都最適合的商店：選擇取決於所在國家，以及商店退貨接受什麼。先確認商店是否配送到你的地址。YesStyle 與 Stylevana 都須在收到商品後 14 天內提出申請，五家店都不接受因改變心意而退回已拆封的美妝品。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-zh-hant-zh-hant-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Traz a distinção entre o campo Reward Code e a caixa de cupom, que o ChatGPT não cobre; sem afirmar rótulo de campo da loja que a repo não confirma.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "CECILIA010 是 Cecília 在 YesStyle 的獎勵碼（Reward Code）：填入結帳頁的 Reward Code 欄位，首次購物最高優惠 5%，之後每次優惠 2%，可與商店自己的優惠券疊加。目前的優惠券見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。本文比較的其他商店，我們沒有專屬代碼。",
+       "depois": "CECILIA010 是 Cecília 在 YesStyle 的獎勵碼（Reward Code）：填入結帳頁的 Reward Code 欄位（不是一般優惠券欄位），首次購物最高優惠 5%，之後每次優惠 2%，可與商店自己的優惠券疊加。目前的優惠券見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。本文比較的其他商店，我們沒有專屬代碼。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-vs-stylevana-zh-hant-zh-hant-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Espelha no FAQ a distinção de campo do P001 (mesmo fato), sem o 'pode combinar' que ficava vago.",
+     "ordem": "depois de yesstyle-vs-stylevana-zh-hant-zh-hant-r02-gemini-P001",
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "YesStyle 的獎勵碼填在哪裡？CECILIA010 填入結帳頁的 Reward Code 欄位；目前的優惠券在本站的 YesStyle 頁面。",
+       "depois": "YesStyle 的獎勵碼填在哪裡？CECILIA010 填入結帳頁的 Reward Code 欄位（不是一般優惠券欄位）；目前的優惠券在本站的 YesStyle 頁面。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1922 @@
+{
+ "lote": "L12",
+ "tipo": "familias",
+ "loja": "yesstyle",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "abib-skincare-routine-30-ja",
+   "arquivo": "content/reviews/abib-skincare-routine-30-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "abib-skincare-routine-30-ja-ja-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Trocas da ChatGPT conferem com a main; mantive as que tiram a promessa e o bastidor, cortei a ressalva de bastidor do cons, do FAQ e do parágrafo sobre pele, como na versão en.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "時間がたつと、パッチはだんだん薄くなって、消えていくようになります。肌がハイドロゲルをすべて吸収したという意味ではありません。中身をゆっくり届けながら、蒸発せずにそこに密着している状態です。",
+       "depois": "使っている間に、パッチが薄くなったように感じました。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRNとレチナールをやさしく解説：効果がおだやかな理由",
+       "depois": "PDRNとレチナールの基本：期待できること"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "コリアンスキンケアの大事な点は、長く続けることを前提に作られていること。ねえ、30歳になったんだよ。これはまだ始まりにすぎない。これから一生、肌のお手入れは続けていくのです。",
+       "depois": "30歳になり、スキンケアを始めたところです。これから数週間使って、どうだったかをまたお伝えしたいと思います。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "動画ではレチノイン酸と言ってしまいましたが、パッチとクリームの成分の正しい名前はレチナール（レチンアルデヒド）です。ビタミンA誘導体で、レチノールと同じ仲間。肌の中でレチノイン酸に変わります。作用はよりゆるやかなので、使い始めたからといって皮がむけるわけではありません。",
+       "depois": "動画ではレチノイン酸と言ってしまいましたが、パッチとクリームの成分の正しい名前はレチナール（レチンアルデヒド）です。ビタミンA誘導体で、レチノールと同じ仲間。肌の中でレチノイン酸に変わります。作用はよりゆるやかです。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "PDRNとレチナールはゆっくり働くので、1週間目から目に見える違いは期待しないで",
+       "depois": "PDRNとレチナールはゆっくり働きます。Abibはこのクリームをハリと小じわ用の長期のケアとして案内しています。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "レチナールはレチノイン酸と同じ？ いいえ。レチナールはビタミンA誘導体で、肌の中でレチノイン酸に変わります。そのため作用はゆるやかで、日中は日焼け止めが必要です。",
+       "depois": "レチナールはレチノイン酸と同じ？ いいえ。パッチとクリームの成分はレチナール（レチンアルデヒド）です。ビタミンA誘導体で、肌の中でレチノイン酸に変わります。そのため作用はゆるやかで、日中は日焼け止めが必要です。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "おだやかな効果：初日も1週間目も変化は期待しないで。続けることで効果が出てきます。",
+       "depois": "今回は初めて使った感想です。継続使用による肌の変化はまだ評価していません。"
+      }
+     ]
+    },
+    {
+     "id": "abib-skincare-routine-30-ja-ja-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main já cita as exceções; a versão nova põe a elegibilidade na frase e tira o link da política, para o parágrafo ficar curto. Fundiu a proposta do Gemini r02-P005.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "税金について：YesStyleは、US$1,000未満の注文（クーポン適用前、送料を除く金額）の関税を払い戻します（ショップのポリシーに定める例外あり）。到着時に請求があった場合は、支払って領収書を保管し、領収書の日付から30日以内にショップのサポートへ送ってください。払い戻しはYesStyleのクレジットで行われます。",
+       "depois": "税金について：対象となる注文（クーポン適用前、送料を除く金額がUS$1,000未満）の関税は払い戻しの対象です（ショップのポリシーに定める例外あり）。到着時に請求があった場合は、支払って領収書を保管し、領収書の日付から30日以内にショップのサポートへ送ってください。払い戻しはYesStyleのクレジットで行われます。"
+      }
+     ]
+    },
+    {
+     "id": "abib-skincare-routine-30-ja-ja-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons só da sua conta, que não tem fonte, e mantém a soma com as condições de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "チェックアウトでは、Reward Codeの欄にCECILIA010を入力してください。初回購入は5％オフ、2回目以降は2％オフになります。プロモーションクーポンは別の欄、Coupon Codeに入力し、各クーポンの条件に沿ってCECILIA010と併用できます。あなたのアカウントだけに届く特別クーポンも同様です。ショップで有効なクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にまとめています。",
+       "depois": "チェックアウトでは、Reward Codeの欄にCECILIA010を入力してください。初回購入は5％オフ、2回目以降は2％オフになります。プロモーションクーポンは別の欄、Coupon Codeに入力し、各クーポンの条件とカート条件に沿ってCECILIA010と併用できます。ショップで有効なクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にまとめています。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "abib-skincare-routine-30-ko",
+   "arquivo": "content/reviews/abib-skincare-routine-30-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "abib-skincare-routine-30-ko-ko-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Trocas da ChatGPT conferem com a main; mantive as que tiram a promessa e o bastidor, cortei a ressalva do cons, do FAQ e do parágrafo sobre pele, como na versão en.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "시간이 지나면 패치가 점점 얇아져서 사라지는 것처럼 보여요. 피부가 하이드로겔을 다 흡수했다는 뜻은 아니에요. 증발하지 않고 꼭 붙어 있는 동안 젤이 안에 든 것을 천천히 전해 주는 겁니다.",
+       "depois": "사용하는 동안 패치가 점점 얇아지는 것처럼 느꼈어요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRN과 레티날 쉽게 알기: 효과가 은은한 이유",
+       "depois": "PDRN과 레티날 기본: 기대할 수 있는 것"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "한국 스킨케어의 핵심은 제품이 장기간 쓰도록 만들어졌다는 거예요. 얘, 이제 막 서른이 됐잖아. 이건 시작일 뿐이야. 앞으로 평생 피부 관리 루틴이 필요할 거야.",
+       "depois": "이제 서른이 되었고 스킨케어 루틴을 막 시작했어요. 앞으로 몇 주 동안 제품을 써 보고 어땠는지 다시 이야기하려고 해요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "영상에서는 레티노산이라고 했는데, 패치와 크림에 든 성분의 정확한 이름은 레티날(레티날데하이드)이에요. 비타민 A 유도체로 레티놀과 같은 계열이고, 피부에서 레티노산으로 바뀌어요. 작용이 더 서서히 일어나서, 쓰기 시작했다고 피부가 벗겨지지는 않아요.",
+       "depois": "영상에서는 레티노산이라고 했는데, 패치와 크림에 든 성분의 정확한 이름은 레티날(레티날데하이드)이에요. 비타민 A 유도체로 레티놀과 같은 계열이고, 피부에서 레티노산으로 바뀌어요. 작용이 더 서서히 일어나요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "PDRN과 레티날은 천천히 작용하니 첫 주에 눈에 보이는 차이를 기대하지 말 것",
+       "depois": "PDRN과 레티날은 천천히 작용해요. 아비브는 이 크림을 탄력과 잔주름용 장기 관리로 안내해요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "레티날은 레티노산과 같은 건가요? 아니에요. 레티날은 비타민 A 유도체로 피부에서 레티노산으로 바뀌어요. 그래서 작용이 더 서서히 일어나고, 낮에는 선크림이 필요해요.",
+       "depois": "레티날은 레티노산과 같은 건가요? 아니에요. 패치와 크림의 성분은 레티날(레티날데하이드)이고, 비타민 A 유도체로 피부에서 레티노산으로 바뀌어요. 그래서 작용이 더 서서히 일어나고, 낮에는 선크림이 필요해요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "은은한 효과: 첫날이나 첫 주의 변화를 기대하지 마세요. 꾸준히 쓸 때 효과가 나타나요.",
+       "depois": "처음 사용한 경험을 기록한 글이에요. 꾸준히 사용했을 때의 피부 변화는 아직 평가하지 않았어요."
+      }
+     ]
+    },
+    {
+     "id": "abib-skincare-routine-30-ko-ko-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main já cita as exceções; a versão nova põe a elegibilidade na frase e tira o link da política, para o parágrafo ficar curto. Fundiu a proposta do Gemini r02-P005.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "세금에 대해: YesStyle은 US$1,000 미만 주문(쿠폰 적용 전 금액, 배송비 제외)의 관세를 환급해 줘요(쇼핑몰 정책에 따른 예외가 있어요). 도착했을 때 청구되면 납부하고 영수증을 보관했다가 영수증 날짜로부터 30일 안에 쇼핑몰 고객센터로 보내세요. 환급은 YesStyle 크레딧으로 들어와요.",
+       "depois": "세금에 대해: 대상 주문(쿠폰 적용 전 금액, 배송비 제외, US$1,000 미만)의 관세는 환급 대상이에요(쇼핑몰 정책에 따른 예외가 있어요). 도착했을 때 청구되면 납부하고 영수증을 보관했다가 영수증 날짜로부터 30일 안에 쇼핑몰 고객센터로 보내세요. 환급은 YesStyle 크레딧으로 들어와요."
+      }
+     ]
+    },
+    {
+     "id": "abib-skincare-routine-30-ko-ko-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons só da sua conta, que não tem fonte, e mantém a soma com as condições de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "결제할 때 Reward Code 칸에 CECILIA010 코드를 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인돼요. 프로모션 쿠폰은 다른 칸인 Coupon Code에 입력하고 각 쿠폰의 조건에 따라 CECILIA010과 함께 쓸 수 있어요. 회원님 계정으로만 오는 특별 쿠폰도 마찬가지예요. 쇼핑몰의 사용 가능한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 모아 두었어요.",
+       "depois": "결제할 때 Reward Code 칸에 CECILIA010 코드를 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인돼요. 프로모션 쿠폰은 다른 칸인 Coupon Code에 입력하고 각 쿠폰의 조건과 장바구니 조건에 따라 CECILIA010과 함께 쓸 수 있어요. 쇼핑몰의 사용 가능한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 모아 두었어요."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "abib-skincare-routine-30-zh-hans",
+   "arquivo": "content/reviews/abib-skincare-routine-30-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "abib-skincare-routine-30-zh-hans-zh-hans-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Trocas da ChatGPT conferem com a main; mantive as que tiram a promessa e o bastidor, cortei a ressalva do cons, do FAQ e do parágrafo sobre pele, como na versão en.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "过一会儿，眼贴会越来越薄，像是快没了。这并不代表皮肤把水凝胶全吸收了；而是凝胶贴在那里、不蒸发，慢慢释放里面的成分。",
+       "depois": "使用时，我觉得眼贴在慢慢变薄。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRN 和视黄醛不神秘：为什么效果是温和的",
+       "depois": "PDRN 和视黄醛的基本：可以期待什么"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "韩国护肤的重点是，产品是为长期使用设计的。姑娘，你才刚满 30 岁：这只是开始。往后一辈子，都得有一套护肤流程。",
+       "depois": "刚满 30 岁，我开始尝试建立护肤习惯。接下来想用上几周，再回来分享使用过程。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "视频里我说成了视黄酸，但眼贴和面霜里这个成分的正确名称是视黄醛。它是维生素 A 的衍生物，和视黄醇是同一家族，皮肤会把它转化为视黄酸。作用更循序渐进，所以我不会因为开始用就脱皮。",
+       "depois": "视频里我说成了视黄酸，但眼贴和面霜中的成分名称是视黄醛。它是维生素 A 的衍生物，和视黄醇是同一家族，皮肤会把它转化为视黄酸。作用更循序渐进。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "PDRN 和视黄醛起效缓慢：第一周别指望看到明显差别",
+       "depois": "PDRN 和视黄醛作用循序渐进。Abib 把这款面霜定位为紧致和细纹护理，是长期的功课。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "视黄醛和视黄酸是一回事吗？ 不是。视黄醛是维生素 A 的衍生物，皮肤会把它转化为视黄酸。所以作用更循序渐进，白天需要涂防晒。",
+       "depois": "视黄醛和视黄酸是一回事吗？ 不是。眼贴和面霜中的成分是视黄醛，它是维生素 A 的衍生物，皮肤会把它转化为视黄酸。所以作用更循序渐进，白天需要涂防晒。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "效果温和：别指望第一天或第一周就有变化；好处来自坚持；",
+       "depois": "这篇记录的是第一次使用；我还没有评估持续使用后的皮肤变化。"
+      }
+     ]
+    },
+    {
+     "id": "abib-skincare-routine-30-zh-hans-zh-hans-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main já cita as exceções; a versão nova põe a elegibilidade na frase e tira o link da política, para o parágrafo ficar curto. Fundiu a proposta do Gemini r02-P005.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "关于税费：YesStyle 会报销低于 1,000 美元订单的关税（指使用优惠券前的金额，不含运费），商店政策另有例外。如果到货时被收费，请先付款、保留收据，并在收据日期起 30 天内发给商店客服。报销以 YesStyle 额度的形式发放。",
+       "depois": "关于税费：符合条件的 1,000 美元以下订单（指使用优惠券前的金额，不含运费）可获得关税报销，商店政策另有例外。如果到货时被收费，请先付款、保留收据，并在收据日期起 30 天内发给商店客服。报销以 YesStyle 额度的形式发放。"
+      }
+     ]
+    },
+    {
+     "id": "abib-skincare-routine-30-zh-hans-zh-hans-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons só da sua conta, que não tem fonte, e mantém a soma com as condições de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "结账时，请在 Reward Code 栏位输入代码 CECILIA010：首次购买享 5% 折扣，之后每次 2%。促销优惠券要填在另一个栏位 Coupon Code，并且可以按各优惠券的规则和 CECILIA010 叠加使用，包括只发到你账户的特别优惠券。商店目前有效的优惠券见[YesStyle 优惠券和奖励代码](/zh-hans/coupons/yesstyle)。",
+       "depois": "结账时，请在 Reward Code 栏位输入代码 CECILIA010：首次购买享 5% 折扣，之后每次 2%。促销优惠券要填在另一个栏位 Coupon Code，并且可以按各优惠券的规则和购物车条件与 CECILIA010 叠加使用。商店目前有效的优惠券见[YesStyle 优惠券和奖励代码](/zh-hans/coupons/yesstyle)。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "abib-skincare-routine-30-zh-hant",
+   "arquivo": "content/reviews/abib-skincare-routine-30-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "abib-skincare-routine-30-zh-hant-zh-hant-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Trocas da ChatGPT conferem com a main; mantive as que tiram a promessa e o bastidor, cortei a ressalva do cons, do FAQ e do parágrafo sobre pele, como na versão en.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "過一陣子，眼膜貼會越來越薄，像是快要不見了。這並不代表肌膚把水凝膠全部吸收了；而是凝膠貼在那裡、不蒸發，慢慢釋放裡面的成分。",
+       "depois": "使用時，我覺得眼膜貼在慢慢變薄。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRN 與視黃醛不神秘：為什麼效果是溫和的",
+       "depois": "PDRN 與視黃醛的基本：可以期待什麼"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "韓國保養的重點是，產品是為長期使用而設計的。妹子，妳才剛滿 30 歲：這只是開始。往後一輩子，都得有一套保養流程。",
+       "depois": "剛滿 30 歲，我開始嘗試建立保養習慣。接下來想用上幾週，再回來分享使用過程。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "影片裡我說成了視黃酸，但眼膜貼與面霜裡這個成分的正確名稱是視黃醛。它是維生素 A 的衍生物，和視黃醇屬於同一家族，肌膚會把它轉化為視黃酸。作用更循序漸進，所以我不會因為開始用就脫皮。",
+       "depois": "影片裡我說成了視黃酸，但眼膜貼與面霜中的成分名稱是視黃醛。它是維生素 A 的衍生物，和視黃醇屬於同一家族，肌膚會把它轉化為視黃酸。作用更循序漸進。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "PDRN 與視黃醛作用緩慢：第一週別期待看到明顯差別",
+       "depois": "PDRN 與視黃醛作用循序漸進。Abib 把這款面霜定位為緊緻與細紋保養，是長期的功課。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "視黃醛和視黃酸是同一種東西嗎？ 不是。視黃醛是維生素 A 的衍生物，肌膚會把它轉化為視黃酸。所以作用更循序漸進，白天需要擦防曬。",
+       "depois": "視黃醛和視黃酸是同一種東西嗎？ 不是。眼膜貼與面霜中的成分是視黃醛，它是維生素 A 的衍生物，肌膚會把它轉化為視黃酸。所以作用更循序漸進，白天需要擦防曬。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "效果溫和：別期待第一天或第一週就有變化；好處來自持之以恆；",
+       "depois": "這篇記錄的是第一次使用；我還沒有評估持續使用後的肌膚變化。"
+      }
+     ]
+    },
+    {
+     "id": "abib-skincare-routine-30-zh-hant-zh-hant-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main já cita as exceções; a versão nova põe a elegibilidade na frase e tira o link da política, para o parágrafo ficar curto. Fundiu a proposta do Gemini r02-P005.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "關於稅費：YesStyle 會補償低於 1,000 美元訂單的關稅（指使用優惠券前的金額，不含運費），商店政策另有例外。如果到貨時被收費，請先付款、保留收據，並在收據日期起 30 天內寄給商店客服。補償會以 YesStyle 額度的形式發放。",
+       "depois": "關於稅費：符合條件的 1,000 美元以下訂單（指使用優惠券前的金額，不含運費）可獲得關稅補償，商店政策另有例外。如果到貨時被收費，請先付款、保留收據，並在收據日期起 30 天內寄給商店客服。補償會以 YesStyle 額度的形式發放。"
+      }
+     ]
+    },
+    {
+     "id": "abib-skincare-routine-30-zh-hant-zh-hant-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons só da sua conta, que não tem fonte, e mantém a soma com as condições de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "結帳時，請在 Reward Code 欄位輸入代碼 CECILIA010：首次購買享 5% 折扣，之後每次 2%。促銷優惠券要填在另一個欄位 Coupon Code，而且可以依各優惠券的規則和 CECILIA010 疊加使用，包括只會發到你帳號的特別優惠券。商店目前有效的優惠券請見[YesStyle 優惠券與回饋代碼](/zh-hant/coupons/yesstyle)。",
+       "depois": "結帳時，請在 Reward Code 欄位輸入代碼 CECILIA010：首次購買享 5% 折扣，之後每次 2%。促銷優惠券要填在另一個欄位 Coupon Code，而且可以依各優惠券的規則和購物車條件與 CECILIA010 疊加使用。商店目前有效的優惠券請見[YesStyle 優惠券與回饋代碼](/zh-hant/coupons/yesstyle)。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "es-yesstyle-de-fiar-y-seguro",
+   "arquivo": "content/reviews/es-yesstyle-de-fiar-y-seguro.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "es-yesstyle-de-fiar-y-seguro-es-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o after divide o bloco denso de devolução em parágrafos curtos, sem fato novo, na mesma divisão da PT e da EN (que vai aos 10 idiomas).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Para pagar hay tarjeta internacional, PayPal y, en algunos países, monederos locales. El plazo, el envío y los impuestos están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+        "Para devolver un artículo, pide a la atención al cliente la autorización de devolución (RMA) en un plazo de 14 días desde la recepción y envía el paquete en un plazo de 30 días desde la emisión de la RMA, con el artículo en su estado y embalaje originales. Los productos de belleza abiertos y los suplementos quedan excluidos. El reembolso estándar es en crédito de YesStyle, y la tienda puede reembolsar en tu medio de pago si lo pides. Un artículo defectuoso o equivocado también se tramita con una RMA, con fotos del defecto. Las normas están en la [política de devoluciones de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); los derechos del consumidor en tu país pueden ir más allá.",
+        "Se puede contactar con el soporte por chat y por correo electrónico en el sitio oficial."
+       ],
+       "depois": [
+        "Para pagar hay tarjeta internacional, PayPal y, en algunos países, monederos locales. El plazo, el envío y los impuestos están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+        "Para devolver un artículo, pide a la atención al cliente la autorización de devolución (RMA) en un plazo de 14 días desde la recepción y envía el paquete en un plazo de 30 días desde la emisión de la RMA, con el artículo en su estado y embalaje originales. Los productos de belleza abiertos y los suplementos quedan excluidos.",
+        "El reembolso estándar es en crédito de YesStyle, y la tienda puede reembolsar en tu medio de pago si lo pides.",
+        "Un artículo defectuoso o equivocado también se tramita con una RMA, con fotos del defecto. Las normas están en la [política de devoluciones de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); los derechos del consumidor en tu país pueden ir más allá.",
+        "Se puede contactar con el soporte por chat y por correo electrónico en el sitio oficial."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "es-yesstyle-de-fiar-y-seguro-es-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Troca a comparação genérica sobre estándares de belleza por instrução verificável (dimensiones, materiales, volumen y composición/concentración indicadas en la ficha), sem alegação nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Lee con atención las descripciones de los productos, incluidas las dimensiones, los materiales y las instrucciones de cuidado: los estándares de belleza asiáticos pueden diferir de los locales (por ejemplo, el tamaño del envase o la concentración de principios activos).",
+       "depois": "Comprueba las dimensiones, los materiales, el volumen y las instrucciones de uso y cuidado en la descripción del producto. En los cosméticos, lee también la composición y la concentración de activos que indique la ficha.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "is-yesstyle-legit-and-safe-review",
+   "arquivo": "content/reviews/is-yesstyle-legit-and-safe-review.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "is-yesstyle-legit-and-safe-review-en-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "After confere com a main e divide o bloco denso de devolução em parágrafos curtos, sem fato novo; a divisão deve ir aos 10 idiomas da família.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "For payment, there are international cards, PayPal and, in some countries, local wallets. Delivery times, shipping and taxes are in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+        "To return an item, ask customer service for a return authorization (RMA) within 14 days of receiving it, and send the package within 30 days of the RMA being issued, with the item in its original condition and packaging. Opened beauty products and supplements are excluded. The standard refund is YesStyle credit, and the store can refund to your payment method if you ask. A defective or wrong item also goes through an RMA, with photos of the defect. The rules are in the [YesStyle returns policy](https://www.yesstyle.com/en/help/section.html/hsi.736); consumer rights in your country may go beyond them.",
+        "Support can be reached by chat and email on the official site."
+       ],
+       "depois": [
+        "For payment, there are international cards, PayPal and, in some countries, local wallets. Delivery times, shipping and taxes are in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+        "To return an item, ask customer service for a return authorization (RMA) within 14 days of receiving it, and send the package within 30 days of the RMA being issued, with the item in its original condition and packaging. Opened beauty products and supplements are excluded.",
+        "The standard refund is YesStyle credit, and the store can refund to your payment method if you ask.",
+        "A defective or wrong item also goes through an RMA, with photos of the defect. The rules are in the [YesStyle returns policy](https://www.yesstyle.com/en/help/section.html/hsi.736); consumer rights in your country may go beyond them.",
+        "Support can be reached by chat and email on the official site."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "is-yesstyle-legit-and-safe-review-en-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Troca a comparação genérica sobre padrões de beleza por instrução verificável (dimensions, materials, volume, ingredients and concentrations stated on the page), sem alegação nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Read the product descriptions carefully, including dimensions, materials and care instructions: Asian beauty standards can differ from local ones (for example, package size and concentration of active ingredients).",
+       "depois": "Check the dimensions, materials, volume, and use and care instructions in the product description. For cosmetics, also read the ingredient list and any active ingredient concentrations stated on the product page.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "ist-yesstyle-serioes-und-sicher",
+   "arquivo": "content/reviews/ist-yesstyle-serioes-und-sicher.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "ist-yesstyle-serioes-und-sicher-de-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o after divide o bloco denso de devolução em parágrafos curtos, sem fato novo, na mesma divisão da PT e da EN (que vai aos 10 idiomas); Sie mantido.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Bezahlen können Sie mit internationaler Kreditkarte, PayPal und in manchen Ländern mit lokalen Wallets. Lieferzeit, Versand und Steuern stehen im [YesStyle-Lieferratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+        "Für eine Rückgabe fordern Sie die Rücksendenummer (RMA) innerhalb von 14 Tagen nach Erhalt beim Kundenservice an und senden das Paket innerhalb von 30 Tagen nach Ausstellung der RMA zurück, mit dem Artikel in Originalzustand und Originalverpackung. Geöffnete Kosmetikprodukte und Nahrungsergänzungsmittel sind ausgeschlossen. Die Standarderstattung erfolgt als YesStyle-Guthaben; auf Wunsch erstattet der Shop auch auf das Zahlungsmittel. Defekte oder falsche Artikel laufen ebenfalls über die RMA, mit Fotos des Mangels. Die Regeln stehen in der [Rückgaberichtlinie von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); Ihre Verbraucherrechte vor Ort können darüber hinausgehen.",
+        "Der Support ist auf der offiziellen Website per Chat und E-Mail erreichbar."
+       ],
+       "depois": [
+        "Bezahlen können Sie mit internationaler Kreditkarte, PayPal und in manchen Ländern mit lokalen Wallets. Lieferzeit, Versand und Steuern stehen im [YesStyle-Lieferratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+        "Für eine Rückgabe fordern Sie die Rücksendenummer (RMA) innerhalb von 14 Tagen nach Erhalt beim Kundenservice an und senden das Paket innerhalb von 30 Tagen nach Ausstellung der RMA zurück, mit dem Artikel in Originalzustand und Originalverpackung. Geöffnete Kosmetikprodukte und Nahrungsergänzungsmittel sind ausgeschlossen.",
+        "Die Standarderstattung erfolgt als YesStyle-Guthaben; auf Wunsch erstattet der Shop auch auf das Zahlungsmittel.",
+        "Defekte oder falsche Artikel laufen ebenfalls über die RMA, mit Fotos des Mangels. Die Regeln stehen in der [Rückgaberichtlinie von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); Ihre Verbraucherrechte vor Ort können darüber hinausgehen.",
+        "Der Support ist auf der offiziellen Website per Chat und E-Mail erreichbar."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "ist-yesstyle-serioes-und-sicher-de-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Troca a comparação genérica sobre Schönheitsstandards por instrução verificável (Maße, Materialien, Füllmenge, Inhaltsstoffe und Wirkstoffkonzentrationen laut Produktseite), sem alegação nova; forma Sie.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Lesen Sie die Produktbeschreibungen aufmerksam, einschließlich Maße, Materialien und Pflegehinweise: Asiatische Schönheitsstandards können von den örtlichen abweichen (etwa Packungsgröße und Konzentration der Wirkstoffe).",
+       "depois": "Prüfen Sie Maße, Materialien, Füllmenge sowie Anwendungs- und Pflegehinweise in der Produktbeschreibung. Lesen Sie bei Kosmetik auch die Inhaltsstoffliste und die auf der Produktseite angegebenen Wirkstoffkonzentrationen.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "korean-skincare-at-30-beginner-routine-abib-yesstyle",
+   "arquivo": "content/reviews/korean-skincare-at-30-beginner-routine-abib-yesstyle.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "korean-skincare-at-30-beginner-routine-abib-yesstyle-en-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Textos da ChatGPT conferem com a main; mantive as trocas que tiram a promessa e o tom de \"Girl\", e cortei as ressalvas de bastidor do cons, do FAQ e do parágrafo sobre pele.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "Over time the patch gets thinner, as if it were disappearing. That doesn't mean your skin absorbed all the hydrogel; it's the gel releasing what's inside while it stays there, sealed, without evaporating.",
+       "depois": "During use, I noticed that the patch seemed to get thinner."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRN and retinal, demystified: why the effect is gentle",
+       "depois": "PDRN and retinal: what they are and what to expect"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "The big thing about Korean skincare is that the products are designed for long-term use. Girl, you just turned 30: this is only the beginning. For the rest of your life you'll need a skin care routine.",
+       "depois": "I have just turned 30 and am starting a skincare routine. I want to use these products over the coming weeks and report back on how it goes."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "In the video I said retinoic acid, but the right name for the ingredient in the patch and the cream is retinal (or retinaldehyde). It's a vitamin A derivative, in the same family as retinol, and the skin converts it into retinoic acid. The action is more gradual, which is why I won't start peeling just because I began using it.",
+       "depois": "In the video I said retinoic acid, but the right name for the ingredient in the patch and the cream is retinal (or retinaldehyde). It's a vitamin A derivative, in the same family as retinol, and the skin converts it into retinoic acid. The action is more gradual."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "PDRN and retinal work slowly: don't expect a visible difference in the first week",
+       "depois": "PDRN and retinal act gradually: Abib recommends the cream for firmness and fine lines, which means long-term work."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "Is retinal the same as retinoic acid? No. Retinal is a vitamin A derivative that the skin converts into retinoic acid. That's why its action is more gradual, and it calls for sunscreen during the day.",
+       "depois": "Is retinal the same as retinoic acid? No. The ingredient in the patch and cream is retinal (retinaldehyde), a vitamin A derivative that the skin converts into retinoic acid. That's why its action is more gradual, and it calls for sunscreen during the day."
+      }
+     ]
+    },
+    {
+     "id": "korean-skincare-at-30-beginner-routine-abib-yesstyle-en-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main já tem as exceções; a versão nova diz \"elegíveis\" e \"crédito na loja\" na frase. O link da política oficial que a trilha ChatGPT propunha foi deixado de fora para manter o parágrafo curto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "About taxes: YesStyle refunds customs fees on orders under US$ 1,000 (the amount before coupons, excluding shipping), with the exceptions in the store's policy. If you're charged on arrival, pay, keep the receipt and send it to the store's support within 30 days of the receipt date. The refund comes as YesStyle credit.",
+       "depois": "About taxes: for eligible orders under US$ 1,000 (the amount before coupons, excluding shipping), YesStyle refunds customs fees as store credit, with the exceptions in its policy. If you're charged on arrival, pay, keep the receipt and send it to the store's support within 30 days of the receipt date."
+      }
+     ]
+    },
+    {
+     "id": "korean-skincare-at-30-beginner-routine-abib-yesstyle-en-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons \"só da sua conta\", que não tem fonte, e mantém a soma com as regras de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "At checkout, enter the code CECILIA010 in the Reward Code field: it gives 5% off your first purchase and 2% off the following ones. Promotional coupons go in the other field, Coupon Code, and can be used together with CECILIA010, depending on each coupon's rules, including those special coupons that arrive only for your account. The store's active coupons are in [YesStyle coupons and reward code](/en/coupons/yesstyle).",
+       "depois": "At checkout, enter the code CECILIA010 in the Reward Code field: it gives 5% off your first purchase and 2% off the following ones. Promotional coupons go in the other field, Coupon Code, and can be used together with CECILIA010, depending on each coupon's terms and cart conditions. The store's active coupons are in [YesStyle coupons and reward code](/en/coupons/yesstyle)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "koreanische-hautpflege-mit-30-anfaenger-routine-abib-yesstyle",
+   "arquivo": "content/reviews/koreanische-hautpflege-mit-30-anfaenger-routine-abib-yesstyle.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "koreanische-hautpflege-mit-30-anfaenger-routine-abib-yesstyle-de-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mesma decisão nos 4 idiomas: tira o tom de bastidor e a promessa de efeito, corrige o nome do retinal, deixa o cons/0 com a fonte da BASE (marca) e troca também o bullet 0 da seção 6, que ainda prometia efeito com regularidade; o bullet não repete mais o cons/0 porque este mudou.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "Mit der Zeit wird der Patch dünner, als würde er verschwinden. Das heißt nicht, dass die Haut das ganze Hydrogel aufgenommen hat; es ist das Gel, das abgibt, was in ihm steckt, solange es dort fest abgedeckt liegt und nicht verdunstet.",
+       "depois": "Während der Anwendung hatte ich den Eindruck, dass der Patch dünner wurde."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRN und Retinal ohne Geheimnis: warum der Effekt sanft ist",
+       "depois": "PDRN und Retinal: was sie sind und was man erwarten kann"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Das Entscheidende bei koreanischer Hautpflege ist, dass die Produkte für die langfristige Anwendung gedacht sind. Mädel, du bist gerade 30 geworden: Das ist erst der Anfang. Für den Rest des Lebens brauchst du eine Hautpflegeroutine.",
+       "depois": "Ich bin gerade 30 geworden und fange mit einer Hautpflegeroutine an. Ich möchte die Produkte in den nächsten Wochen benutzen und anschließend berichten, wie es gelaufen ist."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "Im Video habe ich von Retinsäure gesprochen, aber der richtige Name des Inhaltsstoffs im Patch und in der Creme ist Retinal (oder Retinaldehyd). Er ist ein Derivat von Vitamin A, aus derselben Familie wie Retinol, und die Haut wandelt ihn in Retinsäure um. Die Wirkung ist schrittweiser, deshalb werde ich nicht gleich anfangen zu schuppen, nur weil ich ihn benutze.",
+       "depois": "Im Video habe ich von Retinsäure gesprochen, aber der richtige Name des Inhaltsstoffs im Patch und in der Creme ist Retinal (oder Retinaldehyd). Er ist ein Derivat von Vitamin A, aus derselben Familie wie Retinol, und die Haut wandelt ihn in Retinsäure um. Die Wirkung ist schrittweiser."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "PDRN und Retinal wirken langsam: Erwarten Sie in der ersten Woche keinen sichtbaren Unterschied",
+       "depois": "PDRN und Retinal wirken schrittweise: Abib empfiehlt die Creme für Straffheit und feine Linien, also eine Arbeit auf lange Sicht."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "Ist Retinal dasselbe wie Retinsäure? Nein. Retinal ist ein Derivat von Vitamin A, das die Haut in Retinsäure umwandelt. Deshalb ist die Wirkung schrittweiser, und es verlangt tagsüber Sonnenschutz.",
+       "depois": "Ist Retinal dasselbe wie Retinsäure? Nein. Der Inhaltsstoff im Patch und in der Creme heißt Retinal oder Retinaldehyd, ein Derivat von Vitamin A, das die Haut in Retinsäure umwandelt. Deshalb ist die Wirkung schrittweiser, und es verlangt tagsüber Sonnenschutz."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "Sanfter Effekt: Erwarten Sie weder am ersten Tag noch in der ersten Woche eine Veränderung; der Nutzen kommt mit Regelmäßigkeit;",
+       "depois": "Sanfter Effekt: Retinal wirkt schrittweiser als Retinsäure; wie die Routine bei regelmäßiger Anwendung wirkt, kann ich nach der ersten Anwendung nicht sagen;"
+      }
+     ]
+    },
+    {
+     "id": "koreanische-hautpflege-mit-30-anfaenger-routine-abib-yesstyle-de-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main já tem as exceções; a versão nova junta o texto numa frase, com elegíveis e crédito na loja, sem o link da política, para o parágrafo ficar curto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "Zu den Steuern: YesStyle erstattet die Zollgebühren bei Bestellungen unter 1.000 US$ (Betrag vor den Coupons, ohne Versand), mit den Ausnahmen der Shop-Richtlinie. Wenn bei der Ankunft etwas verlangt wird, zahlen Sie, heben Sie den Beleg auf und schicken Sie ihn innerhalb von 30 Tagen ab Belegdatum an den Kundenservice des Shops. Die Erstattung kommt als Guthaben bei YesStyle.",
+       "depois": "Zu den Steuern: Für berechtigte Bestellungen unter 1.000 US$ (Betrag vor den Coupons, ohne Versand) erstattet YesStyle die Zollgebühren als Guthaben, mit den Ausnahmen der Shop-Richtlinie. Wenn bei der Ankunft etwas verlangt wird, zahlen Sie, heben Sie den Beleg auf und schicken Sie ihn innerhalb von 30 Tagen ab Belegdatum an den Kundenservice des Shops."
+      }
+     ]
+    },
+    {
+     "id": "koreanische-hautpflege-mit-30-anfaenger-routine-abib-yesstyle-de-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons só da conta, que não tem fonte, e mantém a soma com as regras e as condições do carrinho de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "Geben Sie an der Kasse den Code CECILIA010 im Feld Reward Code ein: Er gibt 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden. Aktionscoupons kommen in das andere Feld, Coupon Code, und lassen sich je nach den Regeln des jeweiligen Coupons mit CECILIA010 kombinieren, auch diese besonderen Coupons, die nur auf Ihr Konto kommen. Die aktiven Coupons des Shops finden Sie unter [YesStyle-Coupons und Reward Code](/de/coupons/yesstyle).",
+       "depois": "Geben Sie an der Kasse den Code CECILIA010 im Feld Reward Code ein: Er gibt 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden. Aktionscoupons kommen in das andere Feld, Coupon Code, und lassen sich je nach den Regeln des jeweiligen Coupons und des Warenkorbs mit CECILIA010 kombinieren. Die aktiven Coupons des Shops finden Sie unter [YesStyle-Coupons und Reward Code](/de/coupons/yesstyle)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle",
+   "arquivo": "content/reviews/skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle-it-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mesma decisão nos 4 idiomas: tira o tom de bastidor e a promessa de efeito, corrige o nome do retinal, deixa o cons/0 com a fonte da BASE (marca) e troca também o bullet 0 da seção 6, que ainda prometia efeito com regularidade; o bullet não repete mais o cons/0 porque este mudou.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "Con il tempo, la patch diventa più sottile, come se stesse sparendo. Non significa che la pelle abbia assorbito tutto l'idrogel; è il gel che rilascia ciò che contiene mentre resta lì, chiuso, senza evaporare.",
+       "depois": "Durante l'uso mi è sembrato che la patch diventasse più sottile."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRN e retinale senza misteri: perché l'effetto è leggero",
+       "depois": "PDRN e retinale: cosa sono e cosa aspettarsi"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Il punto della skincare coreana è che i prodotti sono pensati per l'uso a lungo termine. Figlia mia, hai appena compiuto 30 anni: questo è solo l'inizio. Per il resto della vita dovrai avere una routine di cura della pelle.",
+       "depois": "Ho appena compiuto 30 anni e sto iniziando una routine di cura della pelle. Voglio usare questi prodotti nelle prossime settimane e poi raccontare come è andata."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "Nel video ho parlato di acido retinoico, ma il nome giusto dell'ingrediente della patch e della crema è retinale (o retinaldeide). È un derivato della vitamina A, della stessa famiglia del retinolo, e la pelle lo trasforma in acido retinoico. L'azione è più graduale, per questo non andrò in giro a desquamare solo perché ho iniziato a usarlo.",
+       "depois": "Nel video ho parlato di acido retinoico, ma il nome giusto dell'ingrediente della patch e della crema è retinale (o retinaldeide). È un derivato della vitamina A, della stessa famiglia del retinolo, e la pelle lo trasforma in acido retinoico. L'azione è più graduale."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "PDRN e retinale agiscono lentamente: non aspettarti una differenza visibile nella prima settimana",
+       "depois": "PDRN e retinale agiscono gradualmente: Abib indica la crema per fermezza e rughe sottili, cioè un lavoro a lungo termine."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "Il retinale è la stessa cosa dell'acido retinoico? No. Il retinale è un derivato della vitamina A che la pelle converte in acido retinoico. Per questo l'azione è più graduale, e richiede la protezione solare durante il giorno.",
+       "depois": "Il retinale è la stessa cosa dell'acido retinoico? No. L'ingrediente della patch e della crema è il retinale (retinaldeide), un derivato della vitamina A che la pelle converte in acido retinoico. Per questo l'azione è più graduale, e richiede la protezione solare durante il giorno."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "Effetto leggero: non aspettarti cambiamenti il primo giorno né la prima settimana; il beneficio arriva con la costanza;",
+       "depois": "Effetto leggero: il retinale agisce in modo più graduale dell'acido retinoico; come va la routine con un uso costante non posso dirlo dopo il primo utilizzo;"
+      }
+     ]
+    },
+    {
+     "id": "skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle-it-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main já tem as exceções; a versão nova junta o texto numa frase, com elegíveis e crédito na loja, sem o link da política, para o parágrafo ficar curto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "Sulle imposte: YesStyle rimborsa le spese doganali sugli ordini sotto i 1.000 US$ (importo prima dei coupon, spedizione esclusa), con le eccezioni previste dalla politica del negozio. Se ti viene addebitato qualcosa all'arrivo, paga, conserva la ricevuta e inviala all'assistenza del negozio entro 30 giorni dalla data della ricevuta. Il rimborso arriva sotto forma di credito su YesStyle.",
+       "depois": "Sulle imposte: per gli ordini idonei sotto i 1.000 US$ (importo prima dei coupon, spedizione esclusa), YesStyle rimborsa le spese doganali sotto forma di credito, con le eccezioni previste dalla politica del negozio. Se ti viene addebitato qualcosa all'arrivo, paga, conserva la ricevuta e inviala all'assistenza del negozio entro 30 giorni dalla data della ricevuta."
+      }
+     ]
+    },
+    {
+     "id": "skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle-it-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons só da conta, que não tem fonte, e mantém a soma com as regras e as condições do carrinho de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "Al checkout, usa il codice CECILIA010 nel campo Reward Code: dà il 5% di sconto sul primo acquisto e il 2% sui successivi. I coupon promozionali vanno nell'altro campo, Coupon Code, e si possono usare insieme al CECILIA010, secondo le regole di ciascun coupon, compresi quei coupon speciali che arrivano solo sul tuo account. I coupon attivi del negozio sono in [coupon YesStyle e codice reward](/it/coupons/yesstyle).",
+       "depois": "Al checkout, usa il codice CECILIA010 nel campo Reward Code: dà il 5% di sconto sul primo acquisto e il 2% sui successivi. I coupon promozionali vanno nell'altro campo, Coupon Code, e si possono usare insieme al CECILIA010, secondo le regole e le condizioni del carrello di ciascun coupon. I coupon attivi del negozio sono in [coupon YesStyle e codice reward](/it/coupons/yesstyle)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "skincare-coreano-30-anos-rotina-iniciante-yesstyle",
+   "arquivo": "content/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "skincare-coreano-30-anos-rotina-iniciante-yesstyle-pt-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Textos da ChatGPT conferem com a main; mantive a troca do \"minha filha\" e do \"ainda não avaliei\", cortei as ressalvas de bastidor e a promessa de não descamar, e recoloquei a explicação do retinal no FAQ.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "Com o tempo, o adesivo vai ficando mais fino, como se estivesse sumindo. Não quer dizer que a pele absorveu o hidrogel inteiro; é o gel entregando o que tem dentro enquanto fica ali, fechadinho, sem evaporar.",
+       "depois": "Durante o uso, achei que o adesivo foi ficando mais fino."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRN e retinal sem mistério: por que o efeito é levinho",
+       "depois": "PDRN e retinal: o que são e o que esperar"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "A grande questão do skincare coreano é que os produtos são pensados para uso a longo prazo. Minha filha, você fez 30 agora: esse é só o começo. Pelo resto da vida vai ter que ter uma rotina de cuidados com a pele.",
+       "depois": "Completei 30 anos e estou começando uma rotina de cuidados com a pele. Quero usar os produtos nas próximas semanas e voltar para contar como foi."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "No vídeo eu falei em ácido retinoico, mas o nome certo do ingrediente do adesivo e do creme é retinal (ou retinaldeído). Ele é um derivado da vitamina A, da mesma família do retinol, e a pele o transforma em ácido retinoico. É uma ação mais gradual, por isso eu não vou sair descamando só porque comecei a usar.",
+       "depois": "No vídeo eu falei em ácido retinoico, mas o nome certo do ingrediente do adesivo e do creme é retinal (ou retinaldeído). Ele é um derivado da vitamina A, da mesma família do retinol, e a pele o transforma em ácido retinoico. É uma ação mais gradual."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "PDRN e retinal agem devagar: não espere diferença visível na primeira semana",
+       "depois": "PDRN e retinal agem de forma gradual: a Abib indica o creme para firmeza e linhas finas, um trabalho de longo prazo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "Retinal é a mesma coisa que ácido retinoico? Não. O retinal é um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
+       "depois": "Retinal é a mesma coisa que ácido retinoico? Não. O ingrediente do adesivo e do creme é retinal (retinaldeído), um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia."
+      }
+     ]
+    },
+    {
+     "id": "skincare-coreano-30-anos-rotina-iniciante-yesstyle-pt-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main pede a mesma clareza; a versão nova diz \"elegíveis\" e \"crédito na loja\" na frase. O link da política oficial foi deixado de fora para manter o parágrafo curto. A pergunta do FAQ sobre a entrega ao Brasil fica de fora porque a main diz que a entrega está suspensa e a proposta diz o contrário.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "Sobre impostos: a YesStyle reembolsa as taxas alfandegárias de pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete), com as exceções da política da loja. Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias da data do comprovante. O reembolso vem em crédito na YesStyle.",
+       "depois": "Sobre impostos: em pedidos elegíveis abaixo de US$ 1.000 (valor antes dos cupons, sem o frete), a YesStyle reembolsa as taxas alfandegárias em crédito na loja, com as exceções da política dela. Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias da data do comprovante."
+      }
+     ]
+    },
+    {
+     "id": "skincare-coreano-30-anos-rotina-iniciante-yesstyle-pt-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons \"só da sua conta\" e mantém a soma com as regras e as condições do carrinho de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e podem ser usados junto com o CECILIA010, conforme as regras de cada cupom, inclusive aqueles cupons especiais que chegam só para a sua conta. Os cupons ativos da loja estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
+       "depois": "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e podem ser usados junto com o CECILIA010, conforme as regras e as condições do carrinho de cada cupom. Os cupons ativos da loja estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle",
+   "arquivo": "content/reviews/skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle-es-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mesma decisão nos 4 idiomas: tira o tom de bastidor e a promessa de efeito, corrige o nome do retinal, deixa o cons/0 com a fonte da BASE (marca) e troca também o bullet 0 da seção 6, que ainda prometia efeito com regularidade; o bullet não repete mais o cons/0 porque este mudou.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "Con el tiempo, el parche se va quedando más fino, como si desapareciera. No quiere decir que la piel haya absorbido todo el hidrogel; es el gel entregando lo que lleva dentro mientras está ahí, cerradito, sin evaporarse.",
+       "depois": "Durante el uso, me pareció que el parche se iba quedando más fino."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRN y retinal sin misterio: por qué el efecto es suavecito",
+       "depois": "PDRN y retinal: qué son y qué esperar"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Lo importante del skincare coreano es que los productos están pensados para el uso a largo plazo. Hija mía, acabas de cumplir 30: esto es solo el comienzo. Durante el resto de la vida vas a tener que mantener una rutina de cuidado de la piel.",
+       "depois": "Acabo de cumplir 30 y estoy empezando una rutina de cuidado de la piel. Quiero usar estos productos durante las próximas semanas y volver para contar cómo me fue."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "En el vídeo hablé de ácido retinoico, pero el nombre correcto del ingrediente del parche y de la crema es retinal (o retinaldehído). Es un derivado de la vitamina A, de la misma familia del retinol, y la piel lo transforma en ácido retinoico. Es una acción más gradual, por eso no voy a salir descamándome solo por haber empezado a usarlo.",
+       "depois": "En el vídeo hablé de ácido retinoico, pero el nombre correcto del ingrediente del parche y de la crema es retinal (o retinaldehído). Es un derivado de la vitamina A, de la misma familia del retinol, y la piel lo transforma en ácido retinoico. Es una acción más gradual."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "El PDRN y el retinal actúan despacio: no esperes una diferencia visible en la primera semana",
+       "depois": "El PDRN y el retinal actúan de forma gradual: Abib indica la crema para firmeza y líneas finas, es decir, un trabajo a largo plazo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "¿El retinal es lo mismo que el ácido retinoico? No. El retinal es un derivado de la vitamina A que la piel convierte en ácido retinoico. Por eso la acción es más gradual, y pide protector solar durante el día.",
+       "depois": "¿El retinal es lo mismo que el ácido retinoico? No. El ingrediente del parche y de la crema es retinal (retinaldehído), un derivado de la vitamina A que la piel convierte en ácido retinoico. Por eso la acción es más gradual, y pide protector solar durante el día."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "Efecto suavecito: no esperes cambios el primer día ni la primera semana; el beneficio llega con constancia;",
+       "depois": "Efecto suavecito: el retinal actúa de forma más gradual que el ácido retinoico; cómo funciona la rutina con un uso constante no puedo decirlo tras el primer uso;"
+      }
+     ]
+    },
+    {
+     "id": "skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle-es-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main já tem as exceções; a versão nova junta o texto numa frase, com elegíveis e crédito na loja, sem o link da política, para o parágrafo ficar curto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "Sobre los impuestos: YesStyle reembolsa las tasas de aduana de los pedidos por debajo de US$ 1.000 (valor antes de los cupones, sin el envío), con las excepciones de la política de la tienda. Si te cobran al llegar, paga, guarda el comprobante y envíalo a atención al cliente de la tienda en un plazo de 30 días desde la fecha del comprobante. El reembolso llega como crédito en YesStyle.",
+       "depois": "Sobre los impuestos: en pedidos elegibles por debajo de US$ 1.000 (valor antes de los cupones, sin el envío), YesStyle reembolsa las tasas de aduana en forma de crédito, con las excepciones de su política. Si te cobran al llegar, paga, guarda el comprobante y envíalo a atención al cliente de la tienda en un plazo de 30 días desde la fecha del comprobante."
+      }
+     ]
+    },
+    {
+     "id": "skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle-es-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons só da conta, que não tem fonte, e mantém a soma com as regras e as condições do carrinho de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "En el pago, usa el código CECILIA010 en el campo Reward Code: da un 5% de descuento en la primera compra y un 2% en las siguientes. Los cupones promocionales van en el otro campo, Coupon Code, y pueden usarse junto con el CECILIA010, según las reglas de cada cupón, incluso esos cupones especiales que llegan solo a tu cuenta. Los cupones activos de la tienda están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
+       "depois": "En el pago, usa el código CECILIA010 en el campo Reward Code: da un 5% de descuento en la primera compra y un 2% en las siguientes. Los cupones promocionales van en el otro campo, Coupon Code, y pueden usarse junto con el CECILIA010, según las reglas y las condiciones del carrito de cada cupón. Los cupones activos de la tienda están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle",
+   "arquivo": "content/reviews/skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle-fr-g080-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mesma decisão nos 4 idiomas: tira o tom de bastidor e a promessa de efeito, corrige o nome do retinal, deixa o cons/0 com a fonte da BASE (marca) e troca também o bullet 0 da seção 6, que ainda prometia efeito com regularidade; o bullet não repete mais o cons/0 porque este mudou.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/2",
+       "antes": "Avec le temps, le patch devient plus fin, comme s'il disparaissait. Cela ne veut pas dire que la peau a absorbé tout l'hydrogel ; c'est le gel qui livre ce qu'il contient pendant qu'il reste là, bien fermé, sans s'évaporer.",
+       "depois": "Pendant l'utilisation, j'ai eu l'impression que le patch devenait plus fin."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/heading",
+       "antes": "PDRN et rétinal sans mystère : pourquoi l'effet est tout doux",
+       "depois": "PDRN et rétinal : ce qu'ils sont et ce qu'il faut attendre"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Ce qu'il faut savoir du skincare coréen, c'est que les produits sont pensés pour un usage à long terme. Ma fille, tu viens d'avoir 30 ans : ce n'est que le début. Pour le reste de ta vie, tu devras avoir une routine de soins de la peau.",
+       "depois": "Je viens d'avoir 30 ans et je commence une routine de soins. Je compte utiliser ces produits dans les prochaines semaines, puis revenir raconter comment cela s'est passé."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "Dans la vidéo, j'ai parlé d'acide rétinoïque, mais le nom correct de l'ingrédient du patch et de la crème est le rétinal (ou rétinaldéhyde). C'est un dérivé de la vitamine A, de la même famille que le rétinol, et la peau le transforme en acide rétinoïque. L'action est plus progressive, c'est pourquoi je ne vais pas me mettre à peler juste parce que j'ai commencé à l'utiliser.",
+       "depois": "Dans la vidéo, j'ai parlé d'acide rétinoïque, mais le nom correct de l'ingrédient du patch et de la crème est le rétinal (ou rétinaldéhyde). C'est un dérivé de la vitamine A, de la même famille que le rétinol, et la peau le transforme en acide rétinoïque. L'action est plus progressive."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cons/0",
+       "antes": "Le PDRN et le rétinal agissent lentement : n'attendez pas de différence visible dès la première semaine",
+       "depois": "Le PDRN et le rétinal agissent de façon progressive : Abib recommande la crème pour la fermeté et les ridules, c'est-à-dire un travail à long terme."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/2",
+       "antes": "Le rétinal est-il la même chose que l'acide rétinoïque ? Non. Le rétinal est un dérivé de la vitamine A que la peau convertit en acide rétinoïque. C'est pourquoi l'action est plus progressive, et il demande une crème solaire pendant la journée.",
+       "depois": "Le rétinal est-il identique à l'acide rétinoïque ? Non. L'ingrédient du patch et de la crème est le rétinal (rétinaldéhyde), un dérivé de la vitamine A que la peau convertit en acide rétinoïque. C'est pourquoi l'action est plus progressive, et il demande une crème solaire pendant la journée."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "Effet tout doux : n'attendez pas de changement dès le premier jour ni la première semaine ; le bénéfice vient avec la régularité ;",
+       "depois": "Effet tout doux : le rétinal agit de façon plus progressive que l'acide rétinoïque ; je ne peux pas dire comment la routine agit avec une utilisation régulière après une première utilisation ;"
+      }
+     ]
+    },
+    {
+     "id": "skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle-fr-g080-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O imposto da main já tem as exceções; a versão nova junta o texto numa frase, com elegíveis e crédito na loja, sem o link da política, para o parágrafo ficar curto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/2",
+       "antes": "À propos des taxes : YesStyle rembourse les frais de douane des commandes inférieures à 1 000 US$ (montant avant les coupons, hors expédition), sous réserve des exceptions de la politique de la boutique. Si des frais vous sont demandés à l'arrivée, payez, gardez le justificatif et envoyez-le au service client de la boutique dans un délai de 30 jours à compter de la date du justificatif. Le remboursement vient sous forme de crédit chez YesStyle.",
+       "depois": "À propos des taxes : pour les commandes éligibles de moins de 1 000 US$ (montant avant les coupons, hors expédition), YesStyle rembourse les frais de douane sous forme de crédit, sous réserve des exceptions de sa politique. Si des frais vous sont demandés à l'arrivée, payez, gardez le justificatif et envoyez-le au service client de la boutique dans un délai de 30 jours à compter de la date du justificatif."
+      }
+     ]
+    },
+    {
+     "id": "skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle-fr-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "O trecho do cupom mudou na main; a versão nova tira a frase sobre cupons só da conta, que não tem fonte, e mantém a soma com as regras e as condições do carrinho de cada cupom.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "Au paiement, utilisez le code CECILIA010 dans le champ Reward Code : il donne 5 % de réduction sur la première commande et 2 % sur les suivantes. Les coupons promotionnels vont dans l'autre champ, Coupon Code, et peuvent être utilisés avec CECILIA010, selon les règles de chaque coupon, y compris ces coupons spéciaux qui n'arrivent que sur votre compte. Les coupons actifs de la boutique sont dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
+       "depois": "Au paiement, utilisez le code CECILIA010 dans le champ Reward Code : il donne 5 % de réduction sur la première commande et 2 % sur les suivantes. Les coupons promotionnels vont dans l'autre champ, Coupon Code, et peuvent être utilisés avec CECILIA010, selon les règles et les conditions du panier de chaque coupon. Les coupons actifs de la boutique sont dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-e-affidabile-e-sicuro",
+   "arquivo": "content/reviews/yesstyle-e-affidabile-e-sicuro.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "yesstyle-e-affidabile-e-sicuro-it-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o after divide o bloco denso de reso em parágrafos curtos, sem fato novo, na mesma divisão da PT e da EN (que vai aos 10 idiomas).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Per pagare ci sono carta internazionale, PayPal e, in alcuni paesi, portafogli locali. Tempi, spedizione e imposte sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+        "Per rendere un articolo, chiedi il numero di autorizzazione (RMA) all'assistenza entro 14 giorni dal ricevimento e spedisci il pacco entro 30 giorni dall'emissione dell'RMA, con l'articolo nelle condizioni e nella confezione originali. I prodotti di bellezza aperti e gli integratori sono esclusi. Il rimborso standard avviene in credito YesStyle, e su richiesta il negozio rimborsa sul metodo di pagamento. Anche un articolo difettoso o sbagliato passa dall'RMA, con foto del difetto. Le regole sono nella [politica di reso di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); i diritti del consumatore nel tuo paese possono andare oltre.",
+        "Il supporto è raggiungibile via chat e e-mail sul sito ufficiale."
+       ],
+       "depois": [
+        "Per pagare ci sono carta internazionale, PayPal e, in alcuni paesi, portafogli locali. Tempi, spedizione e imposte sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+        "Per rendere un articolo, chiedi il numero di autorizzazione (RMA) all'assistenza entro 14 giorni dal ricevimento e spedisci il pacco entro 30 giorni dall'emissione dell'RMA, con l'articolo nelle condizioni e nella confezione originali. I prodotti di bellezza aperti e gli integratori sono esclusi.",
+        "Il rimborso standard avviene in credito YesStyle, e su richiesta il negozio rimborsa sul metodo di pagamento.",
+        "Anche un articolo difettoso o sbagliato passa dall'RMA, con foto del difetto. Le regole sono nella [politica di reso di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); i diritti del consumatore nel tuo paese possono andare oltre.",
+        "Il supporto è raggiungibile via chat e e-mail sul sito ufficiale."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-e-affidabile-e-sicuro-it-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Troca a comparação genérica sobre standard di bellezza asiatici por instrução verificável (dimensioni, materiali, volume e composizione/concentrazioni indicate nella scheda), sem alegação nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Leggi con attenzione le descrizioni dei prodotti, comprese dimensioni, materiali e istruzioni d'uso: gli standard di bellezza asiatici possono differire da quelli locali (ad esempio la dimensione della confezione o la concentrazione dei principi attivi).",
+       "depois": "Controlla dimensioni, materiali, volume e istruzioni d'uso nella descrizione del prodotto. Per i cosmetici, leggi anche la composizione e le concentrazioni dei principi attivi indicate nella scheda.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-e-confiavel",
+   "arquivo": "content/reviews/yesstyle-e-confiavel.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "yesstyle-e-confiavel-pt-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto do after confere e divide o bloco denso de devolução em parágrafos curtos, sem fato novo; a divisão deve ir aos 10 idiomas da família.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Para pagar, há cartão internacional, PayPal e, em alguns países, carteiras locais. Prazo, frete e imposto em Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+        "Para devolver, peça o número de autorização (RMA) ao atendimento em até 14 dias do recebimento e envie o pacote em até 30 dias da emissão do RMA, com o item na condição e na embalagem originais. Produtos de beleza abertos e suplementos ficam de fora. O reembolso padrão é em Crédito YesStyle, e a loja aceita devolver no meio de pagamento, se você pedir. Item com defeito ou errado também passa pelo RMA, com fotos do defeito. As regras estão na [política de devolução da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); os direitos do consumidor no seu país podem ir além delas.",
+        "O suporte ao cliente atende por chat e e-mail no site oficial."
+       ],
+       "depois": [
+        "Para pagar, há cartão internacional, PayPal e, em alguns países, carteiras locais. Prazo, frete e imposto em Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+        "Para devolver, peça o número de autorização (RMA) ao atendimento em até 14 dias do recebimento e envie o pacote em até 30 dias da emissão do RMA, com o item na condição e na embalagem originais. Produtos de beleza abertos e suplementos ficam de fora.",
+        "O reembolso padrão é em Crédito YesStyle, e a loja aceita devolver no meio de pagamento, se você pedir.",
+        "Item com defeito ou errado também passa pelo RMA, com fotos do defeito. As regras estão na [política de devolução da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); os direitos do consumidor no seu país podem ir além delas.",
+        "O suporte ao cliente atende por chat e e-mail no site oficial."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-e-confiavel-pt-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Troca a comparação genérica sobre padrões de beleza por instrução verificável (medidas, composição e concentração informadas na ficha), sem alegação nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado: padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
+       "depois": "Confira as dimensões, os materiais, o volume e as instruções de uso e cuidado na descrição do produto. Para cosméticos, leia também a composição e a concentração de ativos informada na ficha.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-entrega-no-brasil-e-portugal",
+   "arquivo": "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "yesstyle-entrega-no-brasil-e-portugal-pt-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já trocou o bullet por outra redação sem o conselho de contato antes da recusa; a melhoria (falar com o atendimento antes de recusar, com a política da loja linkada) continua valendo. Fundida com a Gemini r02-P002, que mexe no mesmo ponteiro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "**Pague a cobrança** quando o pacote chegar: a YesStyle diz que não se responsabiliza por reembolso nem reenvio de pacote recusado por questões alfandegárias.",
+       "depois": "**Antes de recusar o pacote por uma cobrança alfandegária, fale com o atendimento.** Pela política da YesStyle, a loja não se responsabiliza por reembolso nem reenvio nesse caso."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-entrega-no-brasil-e-portugal-pt-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de devolução, bullet 7). O depois alinha o prazo de 30 dias à emissão do RMA, igual à seção 'Como devolver um produto'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/12/bullets/7",
+       "antes": "Como devolver um produto da YesStyle? Peça o número de RMA em até 14 dias do recebimento e despache o pacote em até 30 dias; produto de beleza aberto e suplemento não voltam, e reação na pele não dá reembolso.",
+       "depois": "Como devolver um produto da YesStyle? Peça o número de RMA em até 14 dias do recebimento e despache o pacote em até 30 dias da emissão do RMA. Produto de beleza aberto e suplemento não voltam, e reação na pele não dá reembolso."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-entrega-no-brasil-e-portugal-pt-g020-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já tirou o histórico de 'envios voltaram' nos quatro pontos. Ficam três ajustes: IVA na resposta rápida (38 para 45 palavras, dentro de 40 a 60), tirar a explicação 'isso mostra que... não que' e a frase 'não quer dizer que os envios voltaram'. A data de 28/10 e as datas de 17/09 e 19/09 não entram no corpo (a regra de data aparece uma vez; a 13/10 já está acima da tabela). O bullet 12/0 já está correto na main e fica de fora. Substitui a Gemini r02-P001, que mexe nos mesmos ponteiros.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa no site e no app. Veja abaixo a tabela e o capítulo do imposto.",
+       "depois": "A YesStyle entrega em Portugal, com prazo e frete publicados, e o IVA já vem no preço. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa no site e no app. Veja abaixo a tabela e o capítulo do imposto."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/1",
+       "antes": "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express. Isso mostra que esse pedido saiu, não que os envios voltaram: a entrega ao Brasil está suspensa no site e no app. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar.",
+       "depois": "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express, e a entrega ao Brasil segue suspensa no site e no app. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/12/bullets/1",
+       "antes": "A YesStyle voltou a entregar no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Um pedido nosso feito em setembro saiu dois dias depois, mas isso não quer dizer que os envios voltaram.",
+       "depois": "A YesStyle voltou a entregar no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Um pedido nosso feito em setembro saiu dois dias depois."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-entrega-no-brasil-e-portugal-pt-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (FAQ de reembolso). O depois da Gemini cria 'creditados na conta da loja', que foge da redação da main, e a frase final fica mais precisa com o que a seção 'Se o pacote for taxado' já diz sobre o ICMS.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/12/bullets/5",
+       "antes": "A YesStyle reembolsa a taxa da alfândega? Sim, em crédito na loja, em pedidos abaixo de US$ 1.000, com o comprovante mandado ao atendimento em até 30 dias; no Brasil, a política não cita o ICMS.",
+       "depois": "A YesStyle reembolsa a taxa da alfândega? Sim, para taxas elegíveis em pedidos abaixo de US$ 1.000, em crédito na loja, com o comprovante mandado ao atendimento em até 30 dias; no Brasil, a política cobre o Imposto de Importação e as taxas da alfândega, mas não cita o ICMS."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia",
+   "arquivo": "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia-es-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já trocou o bullet por outra redação, sem o conselho de falar com o atendimento antes de recusar. A melhoria continua valendo e funde a Gemini r02-P002, que mexe no mesmo ponteiro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "**Paga el cobro** cuando llegue el paquete: YesStyle indica que no se hace responsable del reembolso ni del reenvío de un paquete rechazado por cuestiones aduaneras.",
+       "depois": "**Antes de rechazar el paquete por un cobro aduanero, contacta con atención al cliente.** Según la [política de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.735), la tienda no se hace responsable del reembolso ni del reenvío cuando el rechazo se debe a cuestiones aduaneras."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia-es-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de devolución, bullet 6). O depois alinha o plazo de 30 días a la emisión del RMA, igual a la sección 'Cómo devolver un producto'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/6",
+       "antes": "¿Cómo devolver un producto de YesStyle? Pide el número de RMA en un máximo de 14 días desde la recepción y envía el paquete en un máximo de 30 días; los productos de belleza abiertos y los suplementos no se devuelven, y una reacción en la piel no da derecho a reembolso.",
+       "depois": "¿Cómo devolver un producto de YesStyle? Pide el número de RMA en un máximo de 14 días desde la recepción y envía el paquete en un máximo de 30 días desde la emisión del RMA. Según la política de la tienda, los productos de belleza abiertos y los suplementos no se devuelven, y una reacción en la piel no da derecho a reembolso.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia-es-g020-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já tirou a frase de bastidor e manteve a Gemini ja aplicada. Fica a versão mais enxuta: sai a lista de plazos por país (já está na tabela e na FAQ) e a data de impuestos sobe junto da de la tabla, para que a data apareça uma vez só.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "El envío Standard tarda de 10 a 15 días hábiles en España, de 10 a 13 en México, de 15 a 20 en Chile, de 15 a 22 en Perú y Colombia y de 15 a 27 en Argentina, con los valores en dólares estadounidenses, como los publica la tienda. La tabla de abajo sale de la tabla de envío vigente desde el 13 de octubre de 2026 (07:15 GMT), leída el mismo día; los impuestos, de las páginas de impuestos de la tienda, leídas el 12 de octubre de 2026.",
+       "depois": "La tabla de abajo recoge el envío vigente desde el 13 de octubre de 2026 (07:15 GMT). Los impuestos vienen de las páginas de impuestos de la tienda."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia-es-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de reembolso de tasas). O depois fica no que a seção de impostos já diz: tasas elegíveis, crédito na tienda, IVA e tasas postales de almacenaje fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/4",
+       "antes": "¿YesStyle reembolsa la tasa de aduana? Sí, como crédito en la tienda, en pedidos de menos de US$ 1.000, si envías el comprobante a atención al cliente en un máximo de 30 días. El IVA de España, que ya se cobra en el checkout, no entra en el reembolso.",
+       "depois": "¿YesStyle reembolsa la tasa de aduana? Sí, para aranceles e impuestos aduaneros elegibles en pedidos de menos de US$ 1.000, abonados como crédito en la tienda al enviar el comprobante en un máximo de 30 días. El IVA ya cobrado en España y las tasas postales de almacenaje quedan fuera.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-est-il-fiable-et-sur",
+   "arquivo": "content/reviews/yesstyle-est-il-fiable-et-sur.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "yesstyle-est-il-fiable-et-sur-fr-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o after divide o bloco denso de retour em parágrafos curtos, sem fato novo, na mesma divisão da PT e da EN (que vai aos 10 idiomas).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Pour payer, il y a la carte bancaire internationale, PayPal et, dans certains pays, des portefeuilles locaux. Le délai, les frais de port et les taxes figurent dans le [guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+        "Pour retourner un article, demandez au service client un numéro d'autorisation de retour (RMA) dans les 14 jours suivant la réception, puis envoyez le colis dans les 30 jours suivant l'émission du RMA, l'article étant dans son état et son emballage d'origine. Les produits de beauté ouverts et les compléments alimentaires sont exclus. Le remboursement standard se fait en crédit YesStyle, et la boutique peut rembourser sur votre moyen de paiement si vous le demandez. Un article défectueux ou erroné passe aussi par un RMA, avec des photos du défaut. Les règles figurent dans la [politique de retour de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736) ; les droits du consommateur dans votre pays peuvent aller plus loin.",
+        "Le support est joignable par chat et par e-mail sur le site officiel."
+       ],
+       "depois": [
+        "Pour payer, il y a la carte bancaire internationale, PayPal et, dans certains pays, des portefeuilles locaux. Le délai, les frais de port et les taxes figurent dans le [guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+        "Pour retourner un article, demandez au service client un numéro d'autorisation de retour (RMA) dans les 14 jours suivant la réception, puis envoyez le colis dans les 30 jours suivant l'émission du RMA, l'article étant dans son état et son emballage d'origine. Les produits de beauté ouverts et les compléments alimentaires sont exclus.",
+        "Le remboursement standard se fait en crédit YesStyle, et la boutique peut rembourser sur votre moyen de paiement si vous le demandez.",
+        "Un article défectueux ou erroné passe aussi par un RMA, avec des photos du défaut. Les règles figurent dans la [politique de retour de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736) ; les droits du consommateur dans votre pays peuvent aller plus loin.",
+        "Le support est joignable par chat et par e-mail sur le site officiel."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-est-il-fiable-et-sur-fr-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Troca a comparação genérica sobre les standards de beauté asiatiques por instrução verificável (dimensions, matières, volume et composition/concentrations indiquées sur la fiche), sem alegação nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Lisez attentivement les descriptions des produits, y compris les dimensions, les matières et les instructions d'entretien : les standards de beauté asiatiques peuvent différer des standards locaux (par exemple, la taille de l'emballage ou la concentration en principes actifs).",
+       "depois": "Vérifiez les dimensions, les matières, le volume ainsi que les instructions d'utilisation et d'entretien dans la description du produit. Pour les cosmétiques, lisez aussi la composition et les concentrations en actifs indiquées sur la fiche.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-livraison-france-belgique-canada",
+   "arquivo": "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "yesstyle-livraison-france-belgique-canada-fr-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já trocou o bullet por outra redação, sem o conselho de contato antes de recusar. A melhoria continua valendo e funde a Gemini r02-P002, que mexe no mesmo ponteiro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "**Réglez la somme demandée** à l'arrivée du colis : YesStyle indique ne pas être responsable du remboursement ni de la réexpédition d'un colis refusé pour des questions douanières.",
+       "depois": "**Contactez le service client avant de refuser un colis en raison de frais de douane.** Selon la [politique de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.735), la boutique décline toute responsabilité pour le remboursement ou la réexpédition lorsqu'un colis est refusé pour des questions douanières."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-livraison-france-belgique-canada-fr-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de retour, bullet 6). O depois alinha o prazo de 30 dias à emissão do RMA, igual à seção 'Comment retourner un produit'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/6",
+       "antes": "Comment retourner un produit YesStyle ? Demandez un numéro de RMA dans les 14 jours suivant la réception et expédiez le colis dans les 30 jours ; les produits de beauté ouverts et les compléments alimentaires ne sont pas repris, et une réaction cutanée ne donne pas droit à un remboursement.",
+       "depois": "Comment retourner un produit YesStyle ? Demandez un numéro de RMA dans les 14 jours suivant la réception et expédiez le colis dans les 30 jours suivant l'émission du RMA. Selon la politique de la boutique, les produits de beauté ouverts et les compléments alimentaires ne sont pas repris, et une réaction cutanée ne donne pas droit à un remboursement.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-livraison-france-belgique-canada-fr-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de remboursement des frais de douane). O depois fica no que a seção 'Si le colis est taxé' já diz: taxas elegíveis, crédito na boutique, TVA e frais de stockage postal fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/4",
+       "antes": "YesStyle rembourse-t-il les frais de douane ? Oui, en crédit en boutique, sur les commandes de moins de US$ 1 000, si vous envoyez le justificatif au service client dans les 30 jours. La TVA déjà perçue au paiement n'est pas remboursée.",
+       "depois": "YesStyle rembourse-t-il les frais de douane ? Oui, pour les taxes douanières éligibles sur les commandes de moins de US$ 1 000, accordé sous forme de crédit en boutique sur présentation du justificatif dans les 30 jours. La TVA perçue au paiement et les frais de stockage postal sont exclus.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-shipping-japan-ja",
+   "arquivo": "content/reviews/yesstyle-shipping-japan-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-shipping-japan-ja-ja-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já trocou o bullet de recusa por outra redação sem o conselho de falar com o atendimento antes de recusar; a melhoria continua valendo. Fundida com a Gemini gemini-P001, que mexe no mesmo ponteiro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "**請求された料金を支払う：** 荷物が届いたときに支払ってください。YesStyleは、通関上の問題で受け取りを拒否された荷物について、返金や再送の責任を負わないとしています。",
+       "depois": "**関税の請求を理由に受け取りを拒否する前に、カスタマーサービスへ相談してください。** [YesStyleのポリシー](https://www.yesstyle.com/en/help/section.html/hsi.735)では、通関上の問題で受け取りが拒否された荷物について、返金や再発送の責任を負わないとしています。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-japan-ja-ja-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de devolução). O depois alinha o prazo de 30 dias à emissão do RMA, igual à seção de devolução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/6",
+       "antes": "YesStyleの商品は、どうやって返品しますか？受け取りから14日以内にRMA番号を申請し、30日以内に荷物を発送してください。開封した美容製品とサプリメントは返品できず、肌に合わなかった場合も返金されません。",
+       "depois": "YesStyleの商品は、どうやって返品しますか？受け取りから14日以内にRMA番号を申請し、RMAの発行から30日以内に荷物を発送してください。ストアのポリシーでは、開封した美容製品とサプリメントは返品できず、肌に合わなかった場合も返金の対象外です。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-japan-ja-ja-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (FAQ de reembolso). O depois da Gemini tira a ação de enviar o recibo ao atendimento dentro de 30 dias; o texto final mantém essa ação e acrescenta a exclusão das taxas postais e impostos cobrados no checkout, que a seção de tributos já diz.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/4",
+       "antes": "YesStyleは関税などを返金してくれますか？はい。US$1,000未満の注文なら、YesStyle Creditで返金されます。領収書は、日付から30日以内にカスタマーサービスへ送ってください。",
+       "depois": "YesStyleは関税などを返金してくれますか？はい。対象となる関税関連の費用について、US$1,000未満の注文であれば、領収書を日付から30日以内にカスタマーサービスへ送ることでYesStyle Creditとして返金されます。購入時に請求された税金や郵便保管料などは対象外です。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-shipping-korea-ko",
+   "arquivo": "content/reviews/yesstyle-shipping-korea-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-shipping-korea-ko-ko-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já trocou o bullet de recusa por outra redação sem o conselho de falar com o atendimento antes de recusar; a melhoria continua valendo. Fundida com a Gemini gemini-P001, que mexe no mesmo ponteiro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "**부과금을 내세요:** 패키지가 도착했을 때 냅니다. YesStyle은 통관 문제로 수령이 거부된 패키지에 대해 환급이나 재발송 책임을 지지 않는다고 밝히고 있습니다.",
+       "depois": "**관세 부과를 이유로 수령을 거부하기 전에 고객센터에 문의하세요.** [YesStyle 정책](https://www.yesstyle.com/en/help/section.html/hsi.735)에 따르면 통관 문제로 수령이 거부된 패키지의 환불이나 재발송에 대해 쇼핑몰은 책임을 지지 않습니다."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-korea-ko-ko-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de devolução). O depois alinha o prazo de 30 dias à emissão do RMA, igual à seção de devolução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/6",
+       "antes": "YesStyle 상품은 어떻게 반품하나요? 수령 후 14일 안에 RMA 번호를 요청하고 30일 안에 패키지를 발송하세요. 개봉한 뷰티 제품과 건강보조식품은 반품할 수 없고, 피부 반응이 있어도 환불되지 않습니다.",
+       "depois": "YesStyle 상품은 어떻게 반품하나요? 수령 후 14일 안에 RMA 번호를 요청하고, RMA 발급 후 30일 안에 패키지를 발송하세요. 쇼핑몰 정책상 개봉한 뷰티 제품과 건강보조식품은 반품할 수 없으며, 피부 반응은 환불 사유가 되지 않습니다."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-korea-ko-ko-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (FAQ de reembolso). O depois da Gemini tira a ação de enviar o recibo ao atendimento dentro de 30 dias; o texto final mantém essa ação e acrescenta a exclusão das taxas postais e impostos cobrados no checkout, que a seção de tributos já diz.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/4",
+       "antes": "YesStyle은 세관 부과금을 환급해 주나요? 네, US$ 1,000 미만 주문이면 YesStyle 크레딧으로 환급합니다. 영수증 날짜로부터 30일 안에 고객센터로 영수증을 보내야 합니다.",
+       "depois": "YesStyle은 세관 부과금을 환급해 주나요? 네, 환급 대상인 관세와 세금은 US$ 1,000 미만 주문이면 영수증 날짜로부터 30일 안에 고객센터로 영수증을 보내 YesStyle 크레딧으로 환급받을 수 있습니다. 결제 때 이미 부과된 세금이나 우체국 보관료는 환급 대상이 아닙니다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-shipping-singapore-malaysia-zh-hans",
+   "arquivo": "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-shipping-singapore-malaysia-zh-hans-zh-hans-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já trocou o bullet de recusa por outra redação sem o conselho de falar com o atendimento antes de recusar; a melhoria continua valendo. Fundida com a Gemini gemini-P001, que mexe no mesmo ponteiro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "**包裹送达时付清费用：** YesStyle 表示，因海关问题被拒收的包裹，店方不负责退款或重寄。",
+       "depois": "**因海关收费而考虑拒收包裹时，请先联系客服。** 按 [YesStyle 的政策](https://www.yesstyle.com/en/help/section.html/hsi.735)，若包裹因海关问题被拒收，商店不承担退款或重寄的责任。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-singapore-malaysia-zh-hans-zh-hans-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de devolução). O depois alinha o prazo de 30 dias à emissão do RMA, igual à seção de devolução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/6",
+       "antes": "在 YesStyle 怎么退货？请在收到商品后 14 天内申请 RMA 编号，并在 30 天内寄出包裹；已拆封的美妆产品和营养补充品无法退货，皮肤反应也不能退款。",
+       "depois": "在 YesStyle 怎么退货？请在收到商品后 14 天内申请 RMA 编号，并在 RMA 发出后 30 天内寄出包裹。按商店政策，已拆封的美妆产品和营养补充品无法退货，皮肤反应也不属于退款原因。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-singapore-malaysia-zh-hans-zh-hans-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (FAQ de reembolso). O depois da Gemini tira a ação de enviar o recibo ao atendimento dentro de 30 dias; o texto final mantém essa ação e acrescenta a exclusão das taxas postais e impostos cobrados no checkout, que a seção de tributos já diz.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/4",
+       "antes": "YesStyle 会退还海关费用吗？会。订单未满 US$1,000 时，以 YesStyle Credit 退还；请在收据日期起 30 天内，用电邮把收据发给客服。新加坡的 GST 和马来西亚的销售税已在结账时收取，不在退款范围内。",
+       "depois": "YesStyle 会退还海关费用吗？会。对于符合条件的海关税费，未满 US$1,000 的订单，请在收据日期起 30 天内用电邮把收据发给客服，以 YesStyle Credit 退还。新加坡的 GST 和马来西亚的销售税已在结账时收取，不在退款范围内；邮政或物流公司收取的费用也不退。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
+   "arquivo": "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-shipping-taiwan-hong-kong-zh-hant-zh-hant-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já trocou o bullet de recusa por outra redação sem o conselho de falar com o atendimento antes de recusar; a melhoria continua valendo. Fundida com a Gemini gemini-P001, que mexe no mesmo ponteiro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "**包裹送達時付清費用：** YesStyle 表示，因海關問題被拒收的包裹，店方不負責退款或重寄。",
+       "depois": "**因海關收費而考慮拒收包裹時，請先聯絡客服。** 依 [YesStyle 的政策](https://www.yesstyle.com/en/help/section.html/hsi.735)，若包裹因海關問題被拒收，商店不承擔退款或重寄的責任。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-taiwan-hong-kong-zh-hant-zh-hant-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de devolução). O depois alinha o prazo de 30 dias à emissão do RMA, igual à seção de devolução.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/6",
+       "antes": "在 YesStyle 怎麼退貨？請在收到商品後 14 天內申請 RMA 編號，並在 30 天內寄出包裹；已拆封的美妝品和營養補充品無法退貨，皮膚反應也不能退款。",
+       "depois": "在 YesStyle 怎麼退貨？請在收到商品後 14 天內申請 RMA 編號，並在 RMA 核發後 30 天內寄出包裹。依商店政策，已拆封的美妝品和營養補充品無法退貨，皮膚反應也不屬於退款原因。"
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-taiwan-hong-kong-zh-hant-zh-hant-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (FAQ de reembolso). O depois da Gemini tira a ação de enviar o recibo ao atendimento dentro de 30 dias; o texto final mantém essa ação e acrescenta a exclusão das taxas postais e impostos cobrados no checkout, que a seção de tributos já diz.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/4",
+       "antes": "YesStyle 會退還海關費用嗎？會。訂單未滿 US$1,000 時，以 YesStyle Credit 退還；請在收據日期起 30 天內，把收據寄給客服。",
+       "depois": "YesStyle 會退還海關費用嗎？會。符合條件的海關相關稅費，未滿 US$1,000 的訂單，請在收據日期起 30 天內把收據寄給客服，以 YesStyle Credit 退還。結帳時已收取的稅費與物流倉儲費則不予退還。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-shipping-us-uk-canada-australia",
+   "arquivo": "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "yesstyle-shipping-us-uk-canada-australia-en-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já diz a política do bullet de recusa, sem o conselho de falar com o atendimento antes de recusar. O ganho se mantém; é o mesmo texto da versão PT. Fundida com a Gemini r02-P002.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "**Pay the charge** when the package arrives: YesStyle says it is not responsible for a refund or reshipment of a package refused over customs issues.",
+       "depois": "**Contact customer service before refusing a package over a customs charge.** Under YesStyle's policy, the store does not take responsibility for a refund or reshipment in that case."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-us-uk-canada-australia-en-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ of returns, bullet 6). O depois alinha o prazo de 30 dias à emissão do RMA, igual à seção 'How to return a product'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/6",
+       "antes": "How do I return a YesStyle product? Request an RMA number within 14 days of receipt and ship the package within 30 days; opened beauty products and supplements cannot be returned, and a skin reaction gives no refund.",
+       "depois": "How do I return a YesStyle product? Request an RMA number within 14 days of receipt and ship the package within 30 days of the RMA being issued. Opened beauty products and supplements cannot be returned, and a skin reaction does not qualify for a refund."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-shipping-us-uk-canada-australia-en-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ de reembolso de taxas). O depois fica no que a seção 'If the package is taxed' já diz: taxas elegíveis, crédito na loja, e impostos cobrados no checkout e taxas postais ficam de fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/4",
+       "antes": "Does YesStyle refund customs fees? Yes, as store credit, on orders under US$ 1,000, if you send the receipt to customer service within 30 days. Tax already charged at checkout is not refunded.",
+       "depois": "Does YesStyle refund customs fees? Yes, for eligible customs-related fees on orders under US$ 1,000, issued as store credit upon emailing the receipt within 30 days. Taxes already collected at checkout and carrier storage or handling fees are excluded."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-spedizione-italia-tempi-costi-dogana",
+   "arquivo": "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "yesstyle-spedizione-italia-tempi-costi-dogana-it-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já trocou o bullet por outra redação, sem o conselho de contato antes de rifiutare. A melhoria continua valendo e funde a Gemini r02-P001, que mexe no mesmo ponteiro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "**Paga l'addebito** quando arriva il pacco: YesStyle dichiara di non essere responsabile del rimborso né del nuovo invio di un pacco rifiutato per questioni doganali.",
+       "depois": "**Contatta il servizio clienti prima di rifiutare un pacco per un addebito doganale.** Secondo la [politica di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.735), il negozio non si assume la responsabilità del rimborso o di una nuova spedizione quando il pacco viene rifiutato per questioni doganali."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-spedizione-italia-tempi-costi-dogana-it-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ di reso, bullet 6). O depois alinha o prazo de 30 giorni à emissão do RMA, igual à seção 'Come restituire'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/6",
+       "antes": "Come si restituisce un prodotto di YesStyle? Chiedi il numero RMA entro 14 giorni dalla ricezione e spedisci il pacco entro 30 giorni; i prodotti di bellezza aperti e gli integratori non si restituiscono, e una reazione cutanea non dà diritto al rimborso.",
+       "depois": "Come si restituisce un prodotto di YesStyle? Chiedi il numero RMA entro 14 giorni dalla ricezione e spedisci il pacco entro 30 giorni dall'emissione dell'RMA. Secondo la politica del negozio, i prodotti di bellezza aperti e gli integratori non si restituiscono, e una reazione cutanea non dà diritto al rimborso.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-spedizione-italia-tempi-costi-dogana-it-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (FAQ di rimborso delle spese doganali). O depois fica no que a seção de dazi já diz: spese elegíveis, credito nel negozio, IVA e spese postali di giacenza fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/4",
+       "antes": "YesStyle rimborsa le spese doganali? Sì, come credito nel negozio, sugli ordini sotto US$ 1.000 e se mandi la ricevuta al servizio clienti entro 30 giorni. L'IVA già addebitata al checkout non rientra nel rimborso.",
+       "depois": "YesStyle rimborsa le spese doganali? Sì, per i dazi e le spese doganali ammissibili su ordini sotto US$ 1.000, erogati come credito nel negozio inviando la ricevuta entro 30 giorni. L'IVA già assolta al checkout e le spese postali di giacenza sono escluse.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trust-guide-ja",
+   "arquivo": "content/reviews/yesstyle-trust-guide-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-trust-guide-ja-ja-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto do depois confere com a main e divide o bloco denso de devolução em parágrafos curtos, sem fato novo; mesma decisão do PT/EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "支払いには国際カード、PayPal、一部の国ではローカルウォレットが使えます。配送日数、送料、税金は[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にまとめています。",
+        "返品するときは、商品を受け取ってから14日以内にサポートへ返品承認番号（RMA）を申請し、RMA発行から30日以内に荷物を発送します。商品は元の状態・元の梱包のままで、開封済みの美容製品とサプリメントは対象外です。返金は原則としてYesStyleクレジットで、希望すれば支払い方法への返金にも対応しています。不良品や誤送品もRMAで申請し、不具合の写真を添えます。ルールは[YesStyleの返品ポリシー](https://www.yesstyle.com/en/help/section.html/hsi.736)にあります。お住まいの国の消費者の権利は、これを上回る場合があります。",
+        "サポートには、公式サイトのチャットとメールで連絡できます。"
+       ],
+       "depois": [
+        "支払いには国際カード、PayPal、一部の国ではローカルウォレットが使えます。配送日数、送料、税金は[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にまとめています。",
+        "返品するときは、商品を受け取ってから14日以内にサポートへ返品承認番号（RMA）を申請し、RMA発行から30日以内に荷物を発送します。商品は元の状態・元の梱包のままで、開封済みの美容製品とサプリメントは対象外です。",
+        "返金は原則としてYesStyleクレジットで、希望すれば支払い方法への返金にも対応しています。",
+        "不良品や誤送品もRMAで申請し、不具合の写真を添えます。ルールは[YesStyleの返品ポリシー](https://www.yesstyle.com/en/help/section.html/hsi.736)にあります。お住まいの国の消費者の権利は、これを上回る場合があります。",
+        "サポートには、公式サイトのチャットとメールで連絡できます。"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trust-guide-ja-ja-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Texto da ChatGPT confere, mas as frases da lista de ja são no estilo simples (確認する。), e a versão 'ください/しましょう' destoa; mesma intenção, registro da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "商品説明は、サイズ、素材、お手入れ方法まで丁寧に読む。アジアの美容基準は日本やほかの国と異なることがあります（容量や有効成分の濃度など）。",
+       "depois": "商品説明でサイズ、素材、容量、使用方法とお手入れ方法を確認する。化粧品は成分表示と、商品ページに記載されている有効成分の濃度も確認する。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trust-guide-ko",
+   "arquivo": "content/reviews/yesstyle-trust-guide-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-trust-guide-ko-ko-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto do depois confere com a main e divide o bloco denso de devolução em parágrafos curtos, sem fato novo; mesma decisão do PT/EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "결제는 해외 결제 카드, PayPal, 일부 국가에서는 현지 전자지갑으로 할 수 있습니다. 배송 기간, 배송비, 세금은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 정리해 두었습니다.",
+        "반품하려면 제품을 받은 날부터 14일 안에 고객 지원에 반품 승인 번호(RMA)를 요청하고, RMA 발급일부터 30일 안에 소포를 보내야 합니다. 제품은 원래 상태와 원래 포장 그대로여야 하며, 개봉한 뷰티 제품과 건강보조식품은 제외됩니다. 환불은 기본적으로 YesStyle 크레딧이고, 요청하면 결제 수단으로 환불해 주기도 합니다. 불량품이나 오배송도 RMA로 접수하며 불량 사진을 첨부합니다. 규정은 [YesStyle 반품 정책](https://www.yesstyle.com/en/help/section.html/hsi.736)에 있고, 거주 국가의 소비자 권리는 이보다 폭넓을 수 있습니다.",
+        "고객 지원은 공식 사이트의 채팅과 이메일로 연락할 수 있습니다."
+       ],
+       "depois": [
+        "결제는 해외 결제 카드, PayPal, 일부 국가에서는 현지 전자지갑으로 할 수 있습니다. 배송 기간, 배송비, 세금은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 정리해 두었습니다.",
+        "반품하려면 제품을 받은 날부터 14일 안에 고객 지원에 반품 승인 번호(RMA)를 요청하고, RMA 발급일부터 30일 안에 소포를 보내야 합니다. 제품은 원래 상태와 원래 포장 그대로여야 하며, 개봉한 뷰티 제품과 건강보조식품은 제외됩니다.",
+        "환불은 기본적으로 YesStyle 크레딧이고, 요청하면 결제 수단으로 환불해 주기도 합니다.",
+        "불량품이나 오배송도 RMA로 접수하며 불량 사진을 첨부합니다. 규정은 [YesStyle 반품 정책](https://www.yesstyle.com/en/help/section.html/hsi.736)에 있고, 거주 국가의 소비자 권리는 이보다 폭넓을 수 있습니다.",
+        "고객 지원은 공식 사이트의 채팅과 이메일로 연락할 수 있습니다."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trust-guide-ko-ko-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Troca a comparação genérica por instrução verificável (tamanho, material, capacidade, uso e concentração informada na página), sem alegação nova; mesma decisão do PT/EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "제품 설명은 크기, 소재, 관리 방법까지 꼼꼼히 읽으세요. 아시아 뷰티 기준은 다른 나라와 다를 수 있습니다(예: 용량, 유효 성분 농도).",
+       "depois": "제품 설명에서 크기, 소재, 용량과 사용 및 관리 방법을 확인하세요. 화장품은 성분표와 제품 페이지에 표시된 유효 성분 농도도 읽어 보세요."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trust-guide-zh-hans",
+   "arquivo": "content/reviews/yesstyle-trust-guide-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-trust-guide-zh-hans-zh-hans-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto do depois confere com a main e divide o bloco denso de devolução em parágrafos curtos, sem fato novo; mesma decisão do PT/EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "付款方式有国际信用卡、PayPal，部分国家还可使用本地电子钱包。配送时间、运费和税费，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+        "符合条件的商品，请在收货后 14 天内向官方客服申请退货授权（RMA），并在 RMA 签发后 30 天内寄回，商品须保持原状和原包装。已拆封的美妆产品和营养补充剂不可退。默认以 YesStyle 店铺余额退款，如有需要可申请退回原付款方式。商品有缺陷或发错时同样走 RMA，并附上照片。具体规则见 [YesStyle 退货政策](https://www.yesstyle.com/en/help/section.html/hsi.736)；你所在国家或地区的消费者权利可能更广。联系客服可使用官网的在线聊天和电子邮件。"
+       ],
+       "depois": [
+        "付款方式有国际信用卡、PayPal，部分国家还可使用本地电子钱包。配送时间、运费和税费，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+        "符合条件的商品，请在收货后 14 天内向官方客服申请退货授权（RMA），并在 RMA 签发后 30 天内寄回，商品须保持原状和原包装。已拆封的美妆产品和营养补充剂不可退。",
+        "默认以 YesStyle 店铺余额退款，如有需要可申请退回原付款方式。",
+        "商品有缺陷或发错时同样走 RMA，并附上照片。具体规则见 [YesStyle 退货政策](https://www.yesstyle.com/en/help/section.html/hsi.736)；你所在国家或地区的消费者权利可能更广。联系客服可使用官网的在线聊天和电子邮件。"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trust-guide-zh-hans-zh-hans-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Troca a comparação genérica por instrução verificável (tamanho, material, capacidade, uso e concentração informada na página), sem alegação nova; mesma decisão do PT/EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "仔细阅读商品说明，包括尺寸、材质和使用保养方式：亚洲美妆的标准可能与当地不同（例如包装规格、活性成分浓度）。",
+       "depois": "查看商品说明中的尺寸、材质、容量和使用及保养方法。购买美妆产品时，也请阅读成分表及商品页面标注的活性成分浓度。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-trust-guide-zh-hant",
+   "arquivo": "content/reviews/yesstyle-trust-guide-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-trust-guide-zh-hant-zh-hant-g004-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto do depois confere com a main e divide o bloco denso de devolução em parágrafos curtos, sem fato novo; mesma decisão do PT/EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "付款方式有國際信用卡、PayPal，部分國家還能使用當地電子錢包。配送時間、運費與稅費，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+        "符合條件的商品，請在收貨後 14 天內向官方客服申請退貨授權（RMA），並在 RMA 核發後 30 天內寄回，商品須維持原狀與原包裝。已拆封的美妝產品與營養補充品不可退。預設以 YesStyle 店鋪餘額退款，如有需要可申請退回原付款方式。商品有瑕疵或寄錯時同樣走 RMA，並附上照片。詳細規則見 [YesStyle 退貨政策](https://www.yesstyle.com/en/help/section.html/hsi.736)；你所在國家或地區的消費者權益可能更廣。聯絡客服可使用官網的線上聊天與電子郵件。"
+       ],
+       "depois": [
+        "付款方式有國際信用卡、PayPal，部分國家還能使用當地電子錢包。配送時間、運費與稅費，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+        "符合條件的商品，請在收貨後 14 天內向官方客服申請退貨授權（RMA），並在 RMA 核發後 30 天內寄回，商品須維持原狀與原包裝。已拆封的美妝產品與營養補充品不可退。",
+        "預設以 YesStyle 店鋪餘額退款，如有需要可申請退回原付款方式。",
+        "商品有瑕疵或寄錯時同樣走 RMA，並附上照片。詳細規則見 [YesStyle 退貨政策](https://www.yesstyle.com/en/help/section.html/hsi.736)；你所在國家或地區的消費者權益可能更廣。聯絡客服可使用官網的線上聊天與電子郵件。"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-trust-guide-zh-hant-zh-hant-g004-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Troca a comparação genérica por instrução verificável (tamanho, material, capacidade, uso e concentração informada na página), sem alegação nova; mesma decisão do PT/EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "仔細閱讀商品說明，包括尺寸、材質與使用保養方式：亞洲美妝的標準可能與當地不同（例如包裝規格、有效成分濃度）。",
+       "depois": "查看商品說明中的尺寸、材質、容量與使用及保養方法。購買美妝產品時，也請閱讀成分表及商品頁面標示的有效成分濃度。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-versand-deutschland-oesterreich-schweiz",
+   "arquivo": "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "yesstyle-versand-deutschland-oesterreich-schweiz-de-g020-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já trocou o bullet por outra redação, sem o conselho de falar com o atendimento antes de recusar. A melhoria continua valendo e funde a Gemini r02-P001, que mexe no mesmo ponteiro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/0",
+       "antes": "**Zahlen Sie die Abgabe**, wenn das Paket ankommt: YesStyle erklärt, für eine Erstattung oder einen erneuten Versand eines wegen Zollfragen verweigerten Pakets nicht verantwortlich zu sein.",
+       "depois": "**Wenden Sie sich an den Kundenservice, bevor Sie ein Paket wegen Zollabgaben ablehnen.** Laut der [Richtlinie von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.735) übernimmt der Shop bei einer Annahmeverweigerung aus Zollgründen keine Verantwortung für eine Erstattung oder einen erneuten Versand."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-versand-deutschland-oesterreich-schweiz-de-g020-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (FAQ de Rücksendung, bullet 6). O depois alinha o prazo de 30 Tagen à Ausstellung der RMA, igual à seção de devolução, e tira a repetição 'nach dieser Richtlinie'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/6",
+       "antes": "Wie gebe ich ein Produkt von YesStyle zurück? Fordern Sie die RMA-Nummer innerhalb von 14 Tagen nach Erhalt an und schicken Sie das Paket innerhalb von 30 Tagen ab. Geöffnete Beauty-Produkte und Nahrungsergänzungsmittel werden nicht zurückgenommen, und eine Hautreaktion begründet keinen Anspruch auf Erstattung.",
+       "depois": "Wie gebe ich ein Produkt von YesStyle zurück? Fordern Sie die RMA-Nummer innerhalb von 14 Tagen nach Erhalt an und schicken Sie das Paket innerhalb von 30 Tagen nach Ausstellung der RMA ab. Laut der Richtlinie des Shops werden geöffnete Beauty-Produkte und Nahrungsergänzungsmittel nicht zurückgenommen, und eine Hautreaktion begründet keinen Anspruch auf Erstattung."
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-versand-deutschland-oesterreich-schweiz-de-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (FAQ de Zollgebühren). O depois da Gemini traz 'Post-Lagergebühren', termo pouco usual; a versão ajustada usa 'Lagergebühren der Post', o mesmo fato do texto em outros idiomas.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/4",
+       "antes": "Erstattet YesStyle die Zollgebühren? Ja, als Guthaben im Shop, bei Bestellungen unter US$ 1.000 und wenn Sie den Beleg innerhalb von 30 Tagen an den Kundenservice schicken. Die schon im Checkout erhobene Mehrwertsteuer wird nicht erstattet.",
+       "depois": "Erstattet YesStyle die Zollgebühren? Ja, für erstattungsfähige Zollabgaben bei Bestellungen unter US$ 1.000 als Shop-Guthaben, wenn der Beleg innerhalb von 30 Tagen eingereicht wird. Bereits im Checkout gezahlte Steuern sowie Lagergebühren der Post sind ausgeschlossen."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1017 @@
+{
+ "lote": "L14",
+ "tipo": "pt",
+ "loja": "bagaggio",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "bagaggio-e-boa-malas-mochilas",
+   "arquivo": "content/reviews/bagaggio-e-boa-malas-mochilas.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "bagaggio-e-boa-malas-mochilas-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida com 3 frases e 46 palavras, sem o bastidor \"este guia organiza as fichas lidas em 29/10/2026\" e sem data repetida; a ressalva de uso fica como o que as fichas não trazem.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Depende da categoria, porque a Bagaggio informa material, peso, medida e garantia, mas não como o produto se sai no uso. Nas malas da marca, a página traz garantia vitalícia com regulamento; nas mochilas e bolsas, a garantia tem prazo. A Downtown PP e a Mochila Tech aparecem como Travelcross no cadastro da loja.",
+       "depois": "Depende do produto. Nas malas da marca, a página traz garantia vitalícia com regulamento e medidas completas; nas mochilas e bolsas, a garantia tem prazo e falta em parte das linhas. A Downtown PP e a Mochila Tech aparecem como Travelcross no cadastro da loja."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "Este guia lê as fichas do site oficial da Bagaggio e diz o que cada uma traz. Se a mala aguenta a viagem ou se a mochila fica confortável no dia a dia, a página não diz, e este guia também não.",
+       "depois": "A loja informa material, peso, medidas e garantia de cada produto. Resistência em viagem e conforto no uso não aparecem nas fichas."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs",
+       "antes": [
+        "Pela descrição da marca, a resposta muda por categoria. Nas malas, a página é completa, com material, peso, medida, cadeado e garantia vitalícia. Nas mochilas e bolsas, o cadastro traz material e medida, mas a garantia tem prazo e falta em parte das linhas.",
+        "Para escolher, compare na página do produto o material, o peso e a garantia do produto que você quer, e confira a marca da linha. Se a dúvida é a loja, e não o produto, comece por [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
+       ],
+       "depois": [
+        "As fichas ajudam a comparar o que é verificável antes da compra: material, peso, medidas, compartimentos e garantia informada.",
+        "Para malas, compare os modelos no [guia de malas de bordo](/reviews/mala-de-bordo-bagaggio-qual-compensa). Para levar computador, veja [qual mochila para notebook escolher](/reviews/mochila-notebook-bagaggio-qual-escolher). Se a dúvida for sobre a empresa, continue em [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "bagaggio-e-boa-malas-mochilas-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Sai \"em estoque\" da unidade /2/postParagraphs/0 (a ficha muda; não se acompanha estoque), a menção à busca de Samsonite e \"lidas\" das frases; a garantia legal fica em uma frase só (a da mochila, em /3/postParagraphs/0), e a Downtown é descrita como cadastrada na Travelcross.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/comparisonTable/headers/4",
+       "antes": "Garantia",
+       "depois": "Garantia informada na ficha"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Quase todas as malas da marca em estoque trazem garantia vitalícia no campo de garantia do produto, com a ressalva de conferir o regulamento. Quem tem direito e o que ela cobre estão no [artigo da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia).",
+       "depois": "As fichas das malas da marca traziam, em geral, garantia vitalícia, sujeita ao regulamento. Para saber quem tem direito e o que está coberto, veja o [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Mochila não entra na garantia vitalícia. O atributo de garantia das mochilas da marca é, na maioria, de 90 dias ou 3 meses; algumas executivas, como a [Mochila Executiva Slim Kronos Preta](https://www.bagaggio.com.br/mochila-executiva-kronos-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (R$ 149,90), trazem 3 anos. Parte das páginas não traz o atributo, então confira na página da mochila que você escolher.",
+       "depois": "Mochila não entra na garantia vitalícia. O atributo de garantia das mochilas da marca é, na maioria, de 90 dias ou 3 meses; algumas executivas, como a [Mochila Executiva Slim Kronos Preta](https://www.bagaggio.com.br/mochila-executiva-kronos-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (R$ 149,90), trazem 3 anos. Parte das páginas não traz o atributo, e a garantia legal vale mesmo assim: confirme a cobertura contratual na página da mochila que você escolher."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "Isso pesa na garantia. A regra da vitalícia vale para as malas da marca Bagaggio e deixa a Travelcross de fora, e a página da Downtown não traz o atributo de garantia. Se a garantia decide a compra, prefira uma mala com a garantia vitalícia na página ou pergunte à loja antes.",
+       "depois": "Isso pesa na garantia. A Downtown está cadastrada como Travelcross, fora do programa vitalício das malas Bagaggio, e a ficha não traz garantia vitalícia. Confirme a cobertura contratual da linha com a loja antes de escolher por garantia."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/2",
+       "antes": "A mochila Bagaggio tem garantia vitalícia? Não. A garantia vitalícia vale para as malas da marca, e a mochila segue o prazo da página ou da etiqueta.",
+       "depois": "A mochila Bagaggio tem garantia vitalícia? Não. O programa vitalício da loja é das malas da marca e não inclui mochilas. Para a mochila, confira a cobertura contratual na ficha e na etiqueta."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "A Bagaggio vende Samsonite? A busca do site não trazia nenhum produto Samsonite. A marca aparece cadastrada no site, mas sem produto à venda.",
+       "depois": "A Bagaggio vende Samsonite? Na busca do site, a loja não apresentou produtos Samsonite à venda. O cadastro de uma marca sem anúncios não confirma oferta atual."
+      }
+     ]
+    },
+    {
+     "id": "bagaggio-e-boa-malas-mochilas-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Fichas sem \"lidas\" e sem data repetida; a frase sobre a Joá, que a auditoria apontou como incoerente, vira instrução de conferir o compartimento do modelo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/1",
+       "antes": "Cada página de mala traz material, medida, capacidade em litros, peso e o tipo de cadeado. A Detroit é de ABS, a Route é de polipropileno e a Kyoto II é de policarbonato. As três têm 55 cm de altura com as rodas, diz a marca.",
+       "depois": "A Detroit é de ABS, a Route de polipropileno e a Kyoto II de policarbonato, segundo as fichas. As três têm 55 cm de altura com as rodas, segundo a marca. Para comparar com a regra da sua companhia aérea, confirme a medida total com rodas e alças."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "A Horizonte é de poliéster, mede 45 x 39 x 11 cm, tem 19,3 L, pesa 0,46 kg e não tem rodas. A descrição fala em compartimento para notebook de até 15,6\", bolso frontal com zíper e alças ajustáveis. A Joá, de couro, traz compartimento para notebook de 16\" e pesa 0,44 kg.",
+       "depois": "A Horizonte é de poliéster, mede 45 x 39 x 11 cm, tem 19,3 L, pesa 0,46 kg e não tem rodas. A descrição cita compartimento para notebook de até 15,6 polegadas, bolso frontal com zíper e alças ajustáveis. A Joá, de couro, pesa 0,44 kg e traz compartimento para notebook de 16 polegadas. Confirme com a loja o compartimento do modelo e da cor escolhidos, porque medidas externas não garantem que o computador caiba."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "bagaggio-e-confiavel",
+   "arquivo": "content/reviews/bagaggio-e-confiavel.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "bagaggio-e-confiavel-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Sem \"na consulta do guia\" nem \"na consulta do artigo\" (bastidor); a reputação sai como Boa em 6 meses e Ruim em 12, a mesma janela do artigo de Reclame Aqui.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé do site e na base pública da Receita. O que pede atenção são as três datas do site, que se misturam, e a reputação no Reclame Aqui, Ruim nos últimos 12 meses. O capítulo final de veredito pesa esses pontos; para comprar com desconto, veja o [cupom Bagaggio](/cupons/bagaggio).",
+       "depois": "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé e na consulta pública. No Reclame Aqui, a reputação muda conforme o período: Boa em 6 meses e Ruim em 12. Antes de comprar, confira entrega, troca e cobertura da garantia; para o desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo. Antes dos detalhes, um aviso: o site traz três datas que se misturam, e a loja não explica a ligação entre elas, como mostra o capítulo seguinte.",
+       "depois": "A Bagaggio tem CNPJ ativo no Brasil. A data de abertura dessa empresa é diferente da fundação da marca e do início do e-commerce; o quadro seguinte separa esses três marcos."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/paragraphs/0",
+       "antes": "Do lado da empresa, a Bagaggio tem o que um comprador procura: CNPJ ativo no rodapé, sede no Brasil, regras de troca e de reembolso publicadas, garantia por escrito e atendimento pelo chat. Os pontos de atenção são a reputação no Reclame Aqui, Ruim nos últimos 12 meses e Boa nos últimos 6, e as datas que o site não explica.",
+       "depois": "A loja publica CNPJ, sede no Brasil, regras de troca, reembolso e garantia. No Reclame Aqui, o perfil da loja virtual é Boa em 6 meses e Ruim em 12. Confira as condições do seu pedido; as datas de marca, e-commerce e CNPJ estão separadas no quadro histórico."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/12/bullets/0",
+       "antes": "A Bagaggio é confiável? É uma empresa registrada no Brasil, com CNPJ ativo e sede em Duque de Caxias (RJ), e publica regras de troca, reembolso e garantia. Os pontos de atenção são a reputação no Reclame Aqui, Ruim nos últimos 12 meses e Boa nos últimos 6, e as datas que o site não explica.",
+       "depois": "A Bagaggio é confiável? A empresa que opera o site tem CNPJ ativo e publica regras de troca, reembolso e garantia. No Reclame Aqui, o perfil da loja virtual é Boa em 6 meses e Ruim em 12; confira também prazo e condições do pedido."
+      }
+     ]
+    },
+    {
+     "id": "bagaggio-e-confiavel-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O trecho da main já diz \"pronto em até 3 horas depois da aprovação\"; o que resta é dizer ao leitor para confirmar até quando pode buscar, sem a frase de divergência entre páginas.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Na retirada em loja, o pedido fica pronto para retirada em até 3 horas depois da aprovação: espere o aviso de pedido pronto. A retirada só é feita pelo titular da compra, com documento original com foto.",
+       "depois": "Na retirada em loja, o pedido fica pronto em até 3 horas depois da aprovação, segundo a loja. Espere o aviso de pedido pronto e confirme no atendimento até quando pode buscá-lo. A retirada só é feita pelo titular da compra, com documento original com foto."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "bagaggio-garantia-vitalicia",
+   "arquivo": "content/reviews/bagaggio-garantia-vitalicia.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "bagaggio-garantia-vitalicia-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Sai o \"art. 32\" do corpo (jurídico: sem artigo de lei) e fica a norma em uma frase; o resto da seção de dano já está na main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/postParagraphs/0",
+       "antes": "A página cita três normas: a Resolução ANAC 400/2016, cujo art. 32 trata da bagagem avariada; a Convenção de Montreal, que a página diz valer para voos internacionais; e o Código de Defesa do Consumidor. Os prazos estão nas normas e no site da [ANAC](https://www.gov.br/anac); o que vale para o dano percebido depois está abaixo.",
+       "depois": "A página cita a Resolução ANAC 400/2016, a Convenção de Montreal (para voos internacionais) e o Código de Defesa do Consumidor. Os prazos estão nas normas e no site da [ANAC](https://www.gov.br/anac); o que vale para o dano percebido depois está abaixo."
+      }
+     ]
+    },
+    {
+     "id": "bagaggio-garantia-vitalicia-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "FAQ sem data (a proposta punha 29/04/2024 nela, e não pode haver data em FAQ); a data não entra na lista de condições, porque o corpo já tem duas datas (resumo e tabela de Quem tem).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "Só tem a vitalícia a mala da marca, comprada depois do início do programa, no Brasil e do comprador original:",
+       "depois": "O termo reúne quatro condições para a garantia vitalícia das malas Bagaggio:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/1",
+       "antes": "A garantia vitalícia Bagaggio vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas depois do início do programa. Travelcross e Swiss One seguem a garantia do fabricante.",
+       "depois": "A garantia vitalícia Bagaggio vale para todas as malas? Não. O programa divulgado vale para malas da marca Bagaggio compradas depois do início do programa, nas condições do termo. Travelcross e Swiss One seguem a garantia do fabricante."
+      }
+     ]
+    },
+    {
+     "id": "bagaggio-garantia-vitalicia-pt-r01-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Sem \"os textos divergem\" na resposta (é o que o texto não diz); fica a instrução de confirmar a rota com o atendimento.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/3",
+       "antes": "Como acionar a garantia da Bagaggio? Na compra online, pelo Troque Fácil, com o número do pedido e o CPF. Na compra em loja física, na loja da compra ou pelo e-mail atendimento@bagaggio.com.br.",
+       "depois": "Como acionar a garantia da Bagaggio? Na compra online, pelo Troque Fácil, com o número do pedido e o CPF. Na compra em loja física, procure a loja da compra ou escreva para atendimento@bagaggio.com.br. Confirme a rota no atendimento antes de enviar a mala."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "bagaggio-reclame-aqui-nota-reputacao",
+   "arquivo": "content/reviews/bagaggio-reclame-aqui-nota-reputacao.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "bagaggio-reclame-aqui-nota-reputacao-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Sai \"Os procedimentos abaixo são os publicados pela loja\" (meta); cancelamento e frete ficam como política da loja, sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "A regra vem da própria loja. Comece pelo canal dela. Se a loja não resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil.",
+       "depois": "Comece pelos canais da Bagaggio e guarde o protocolo. Se não houver solução, registre a queixa no perfil correspondente à compra."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "Pedido ainda com a transportadora: recuse a entrega. O estorno sai na mesma forma de pagamento, depois que a mercadoria volta ao centro de distribuição.",
+       "depois": "Se você pediu cancelamento ou desistiu e o pedido já está com a transportadora, a Bagaggio orienta recusar a entrega. Pela política da loja, o estorno na forma de pagamento ocorre após a volta da mercadoria ao centro de distribuição. Se quiser manter a compra, registre o atraso no atendimento."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Frete: o reembolso do frete só sai na devolução integral do pedido.",
+       "depois": "Frete: a política da Bagaggio informa reembolso do frete só na devolução integral do pedido. Em devolução parcial, peça o detalhamento dos valores ao atendimento."
+      }
+     ]
+    },
+    {
+     "id": "bagaggio-reclame-aqui-nota-reputacao-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O título \"Dá para confiar\" fica (não se recua título); o corpo usa a janela atual (maio a outubro) e perde os números repetidos da tabela e a data de consulta. O título proposto não entra.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/paragraphs",
+       "antes": [
+        "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de maio a outubro, mas a janela de 12 meses até outubro ainda estava Ruim, então a melhora é recente."
+       ],
+       "depois": [
+        "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de maio a outubro, mas a janela de 12 meses até outubro ainda estava Ruim, então a melhora é recente. Esses números mostram o atendimento registrado, não o resultado de um novo pedido."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets",
+       "antes": [
+        "Nota: 7,9 de maio a outubro (Boa) e 5,8 nos 12 meses até outubro (Ruim).",
+        "Respondidas: 100% de maio a outubro. Resolvidas: 92,5%.",
+        "Voltariam a fazer negócio: 61,1% de maio a outubro e 33,4% nos 12 meses até outubro.",
+        "Tempo médio de resposta: 7 dias e 4 horas de maio a outubro.",
+        "Problema mais citado na aba geral: atraso na entrega, com 29,95%.",
+        "Cuidado prático: acompanhe o rastreio, guarde o número do pedido e abra o chamado cedo se a entrega atrasar."
+       ],
+       "depois": [
+        "Confira se está no perfil Loja Virtual e se o CNPJ corresponde ao site.",
+        "Abra a aba atual antes de comprar, porque os números mudam.",
+        "Para pedido em andamento, guarde o prazo prometido, acompanhe o rastreio e registre o atraso no canal da loja.",
+        "Para saber quem vende e conhecer as políticas de compra, veja [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-bagaggio",
+   "arquivo": "content/reviews/black-friday-bagaggio.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "black-friday-bagaggio-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main ainda diz 'até 3 horas' como fato; a versão final mantém a orientação de esperar o aviso e tira a contradição de fonte, sem o trecho de bastidor da proposta.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/3",
+       "antes": "Se for retirar na loja, veja se há loja perto. O pedido fica pronto para retirada em até 3 horas depois da aprovação: espere o aviso de pedido pronto. A retirada é do titular da compra, com documento original com foto.",
+       "depois": "Se for retirar na loja, veja se há loja perto e espere o aviso de pedido pronto, sem contar só com o prazo de 3 horas que a página cita. A retirada é do titular da compra, com documento original com foto."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "Dá para retirar na loja? Sim, quando há loja perto. O pedido fica pronto para retirada em até 3 horas depois da aprovação: espere o aviso de pedido pronto. Precisa do titular da compra, com documento original com foto.",
+       "depois": "Dá para retirar na loja? Sim, quando há loja perto. Espere o aviso de pedido pronto, sem contar só com o prazo de 3 horas que a página cita. Precisa do titular da compra, com documento original com foto."
+      }
+     ]
+    },
+    {
+     "id": "black-friday-bagaggio-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O parágrafo de garantia já não traz o prazo de 90 dias que a proposta corrigia; falta só tirar o artigo de lei e manter uma frase sobre o arrependimento online.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/5",
+       "antes": "Compra pela internet tem direito de arrependimento de 7 dias corridos depois do recebimento, pelo Código de Defesa do Consumidor (art. 49). Essa regra vale só para compra pelo site.",
+       "depois": "Compra pela internet tem direito de arrependimento de 7 dias corridos depois do recebimento, pelo Código de Defesa do Consumidor. Essa regra vale só para compra pelo site."
+      }
+     ]
+    },
+    {
+     "id": "black-friday-bagaggio-pt-r01-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Os números da proposta são da consulta anterior e não batem com o artigo de reputação de hoje (6 meses de maio a outubro; diferença de novembro a abril); o texto final usa os números e as janelas que a main já sustenta.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "No Reclame Aqui, o sinal é misto: nota Boa em 6 meses (7,9, com 1.112 reclamações) e Ruim em 12 (5,8, com 5.533).",
+       "depois": "No Reclame Aqui, o sinal é misto: nota Boa de maio a outubro (7,9, com 1.112 reclamações) e Ruim nos 12 meses até outubro (5,8, com 5.533)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Pela conta entre os dois períodos, são cerca de 4.420 reclamações entre novembro e abril, período que inclui a Black Friday e o Natal de 2025. Os motivos mais citados na base do perfil são atraso na entrega (29,95%) e produto não recebido (18,87%).",
+       "depois": "A diferença entre as duas contagens é de cerca de 4.420 reclamações, entre novembro e abril, período que inclui a Black Friday e o Natal de 2025. Na base de problemas do perfil, atraso na entrega representava 29,95% e produto não recebido, 18,87%."
+      }
+     ]
+    },
+    {
+     "id": "black-friday-bagaggio-pt-r01-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois parágrafos da seção de comprar agora conferem com a main, e o texto novo tira o selo como argumento de preço sem trocar a comparação com a tabela.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "A campanha já está no ar, e a loja não diz se a sexta da Black Friday terá preço menor que o de agora. O que dá para fazer é comparar: se o preço do dia está abaixo da tabela de outubro, o desconto é de verdade; se está igual, o selo não mudou o preço.",
+       "depois": "A campanha já foi anunciada, mas isso não garante preço menor na sexta. Compare o preço da mesma variante com a tabela histórica de outubro, que registra preços de venda sem cupom. Para decidir a compra de hoje, confira também pagamento, descontos e frete no total do carrinho.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/1",
+       "antes": "Se você precisa agora, o cupom e o Pix já funcionam, e o leve 3, pague 2 ajuda quem vai levar mais de uma peça. Se pode esperar, confira o preço de novo na sexta e compare com a tabela antes de pagar. As condições atuais do cupom estão na [página da Bagaggio](/cupons/bagaggio).",
+       "depois": "Se precisa comprar agora, confira a linha de desconto do CECILIA10 e o total no Pix. Para o leve 3, pague 2, compare o custo da seleção inteira e veja quais produtos participam; não leve uma peça a mais só pelo slogan. Se pode esperar, guarde o total de hoje para comparar na sexta. As condições do código estão na [página da Bagaggio](/cupons/bagaggio).",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "conjunto-de-malas-bagaggio-compensa",
+   "arquivo": "content/reviews/conjunto-de-malas-bagaggio-compensa.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "conjunto-de-malas-bagaggio-compensa-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aplicar com ajustes: a comparação de 29/10/2026 fica uma vez no corpo (abertura da tabela); a proposta repetia a data em seis lugares, e a meta não pode ter data com dia. O cabeçalho \"Estoque em 29/10/2026\" sai por ser data no corpo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Conjunto de malas Bagaggio compensa? Somamos as peças avulsas de 32 conjuntos em 29/10/2026: 24 custam a soma exata. Veja quais têm desconto real e quanto.",
+       "depois": "Somamos as peças avulsas de 32 conjuntos Bagaggio: 24 custam a soma exata. Veja as diferenças de preço e o que conferir antes de comprar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/metaDescription",
+       "antes": "Com o CECILIA10, 10% OFF nos conjuntos de malas Bagaggio: dos 32 conferidos, 24 custam a soma das peças avulsas. Veja os 6 com desconto real.",
+       "depois": "CECILIA10: 10% OFF na Bagaggio. Dos 32 conjuntos conferidos, 24 custam a soma das peças avulsas. Veja a conta e confira o total no carrinho."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Na maioria, não: dos 32 conjuntos da Bagaggio que conferimos, 24 custam exatamente a soma das peças avulsas. O desconto real aparece em seis conjuntos com estoque, e o maior é o do Malta P e M Branca e Marrom. A tabela mostra a conta de cada um.",
+       "depois": "Pelo preço dos produtos, 24 dos 32 conjuntos conferidos não economizavam em relação às mesmas peças avulsas. Seis conjuntos disponíveis custavam menos. Isso só favorece o conjunto se você precisar de todas as malas; compare também o total com frete e desconto no carrinho."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/emphasis",
+       "antes": "Se fosse para a minha casa, eu levaria o Malta P e M Branca e Marrom, porque é o conjunto que fica mais abaixo da soma das peças.",
+       "depois": "Comece pelas peças de que precisa. O Malta P e M Branca e Marrom tinha a maior diferença entre os disponíveis: R$ 174,95 abaixo dos mesmos itens avulsos. Isso não significa que fosse o conjunto de menor preço."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs/0",
+       "antes": "Compensa quando a diferença é negativa e o conjunto tem estoque. Na leitura, eram seis: Malta P e M Branca e Marrom, Nova Bahamas P e G Preta, Malta P e M Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta. O maior desconto é o do Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma.",
+       "depois": "Compensa quando a diferença é negativa e o conjunto tem estoque. Seis conjuntos disponíveis custavam menos que as mesmas peças avulsas: Malta P e M Branca e Marrom, Nova Bahamas P e G Preta, Malta P e M Preta, Detroit P e M Preta e Santiago P e G, nas cores Azul e Preta. O Malta P e M Branca e Marrom tinha a maior diferença: R$ 174,95. Confira preço e estoque no dia da compra."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/0",
+       "antes": "Conjunto de malas Bagaggio compensa? Na maioria, não. Dos 32 conjuntos conferidos, 24 custam a soma exata das peças avulsas.",
+       "depois": "Conjunto de malas Bagaggio compensa? Se você precisa de todas as peças e o custo final for menor que o das mesmas malas avulsas, pode compensar. Dos 32 conjuntos conferidos, 24 custam a soma exata dos produtos avulsos."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/1",
+       "antes": "O conjunto de malas Bagaggio tem desconto em relação às peças separadas? Só em alguns. Seis conjuntos com estoque custavam menos que a soma das peças: Malta P e M Branca e Marrom, Malta P e M Preta, Nova Bahamas P e G Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
+       "depois": "Havia conjuntos mais baratos que as peças separadas? Seis disponíveis: Malta P e M Branca e Marrom, Malta P e M Preta, Nova Bahamas P e G Preta, Detroit P e M Preta e Santiago P e G Azul e Preta."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "Qual conjunto Bagaggio tem o maior desconto em 2026? Entre os conjuntos com estoque, o Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma das peças. O Nova Bahamas P e G Bege tinha diferença maior, mas estava fora de estoque.",
+       "depois": "Qual tinha a maior diferença de preço? Entre os disponíveis, o Malta P e M Branca e Marrom: R$ 174,95 abaixo das peças avulsas. O Nova Bahamas P e G Bege tinha diferença maior, mas estava sem estoque."
+      }
+     ]
+    },
+    {
+     "id": "conjunto-de-malas-bagaggio-compensa-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Rebaseado: a main já tem a frase \"A garantia vale para as malas do conjunto, inclusive a Downtown PP\", que a proposta não contempla. O novo texto mantém \"conforme o regulamento\" e tira \"conjunto misto\", que o artigo não trata.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, e as fichas dos conjuntos trazem \"Garantia Vitalícia *confira regulamento\". O que cobre e como acionar estão no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia). A garantia vale para as malas do conjunto, inclusive a Downtown PP.",
+       "depois": "A garantia vitalícia anunciada para malas da marca Bagaggio compradas a partir de 29/04/2024 cobre vícios de fabricação, conforme o regulamento. Veja as condições no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia). A garantia vale para as malas do conjunto, inclusive a Downtown PP."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "cupom-bagaggio-como-usar",
+   "arquivo": "content/reviews/cupom-bagaggio-como-usar.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "cupom-bagaggio-como-usar-pt-g107-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Tirei o \"print\" e a data nova da seção 5; a seção 7 mantém a única data do corpo e não atribui o Pix à API nem à sacola. Legenda e tabela ficam como estão.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Com o CECILIA10 aplicado, a etiqueta aparece no campo e o resumo mostra a linha de descontos. No teste, o subtotal foi R$ 179,90, os descontos R$ 17,99 e o total R$ 161,91. Confira esses três valores antes de seguir.",
+       "depois": "Com o CECILIA10 aplicado, a etiqueta aparece no campo e o resumo passa de R$ 179,90 para R$ 161,91, com R$ 17,99 em descontos. No seu pedido, confira subtotal, desconto e total antes de seguir."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "Em 22/10/2026, montamos sacolas no site até o resumo, sem identificação e sem finalizar. Não houve compra, e a sacola foi esvaziada depois.",
+       "depois": "Em 22/10/2026, montamos sacolas no site até o resumo, sem identificação e sem finalizar. Aplicamos o cupom nos três produtos da tabela. O Pix da tabela veio de uma consulta à loja, não de uma etapa de pagamento. Não houve compra, e a sacola foi esvaziada depois."
+      }
+     ]
+    },
+    {
+     "id": "cupom-bagaggio-como-usar-pt-g107-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mantive a troca de 1ª compra e frete, mas sem data no FAQ nem na seção 1, sem \"pesquisa\" e sem \"a regra consultada\"; o frete de r02-P003 fica fundido aqui.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "CECILIA10 é o cupom da parceria do Em Casa com Cecília com a Bagaggio, loja de malas, mochilas, bolsas e acessórios de viagem. O cupom vale só no site oficial, bagaggio.com.br.",
+        "O desconto é de 10% em todo o site, inclusive no Outlet e em produto que já está com desconto. O cupom vale para clientes novos e antigos e em todas as formas de pagamento.",
+        "A faixa do topo do site anuncia 5% na primeira compra; o CECILIA10 dá 10%.",
+        "A loja aceita um cupom por pedido."
+       ],
+       "depois": [
+        "CECILIA10 é o cupom da parceria do Em Casa com Cecília com a Bagaggio, loja de malas, mochilas, bolsas e acessórios de viagem. Dá 10% OFF no site oficial, bagaggio.com.br, inclusive no Outlet e em produto já com desconto. Vale para clientes novos e antigos e em todas as formas de pagamento.",
+        "A faixa do topo do site anuncia 5% na primeira compra; o CECILIA10 dá 10%.",
+        "A loja aceita um cupom por pedido."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "O frete é calculado pelo CEP, no carrinho, e o cupom não muda o frete. A loja não divulga frete grátis, então confira o valor no resumo antes de pagar. A retirada em lojas próximas aparece conforme a disponibilidade, e só o titular da compra retira, com documento original com foto.",
+       "depois": "O frete é calculado pelo CEP, no carrinho, e o cupom não muda o frete. A loja não divulga frete grátis como regra geral, então confira o valor no resumo antes de pagar. A retirada em lojas próximas aparece conforme a disponibilidade, e só o titular da compra retira, com documento original com foto."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/12/bullets/3",
+       "antes": "Tem cupom de primeira compra na Bagaggio? A loja anuncia 5% na primeira compra; o CECILIA10 dá 10%.",
+       "depois": "Tem cupom de primeira compra na Bagaggio? A faixa do site anuncia 5% na primeira compra; o CECILIA10 dá 10% e vale para clientes novos e antigos."
+      }
+     ]
+    },
+    {
+     "id": "cupom-bagaggio-como-usar-pt-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só o FAQ tem ganho (compare o total no carrinho); a troca de estilo do parágrafo 0 não entra, e tirei \"de outubro\" do FAQ.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/12/bullets/2",
+       "antes": "O cupom soma com a promoção de 2ª peça? Não. A promoção de 50% na segunda peça, de outubro, tinha cupom próprio e não somava com outro cupom. Ela já terminou; se voltar, confira o regulamento na loja.",
+       "depois": "O cupom soma com a promoção de 2ª peça? Não. Essa promoção tinha cupom próprio, não somava com outro cupom e já terminou. Se uma promoção assim voltar ao carrinho, compare o total com e sem ela antes de pagar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "mala-de-bordo-bagaggio-qual-compensa",
+   "arquivo": "content/reviews/mala-de-bordo-bagaggio-qual-compensa.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "mala-de-bordo-bagaggio-qual-compensa-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Confere com a main; a troca só deixa claro que a leveza vale entre as Bagaggio e cita a Downtown da tabela, sem data nem jurídico.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/1",
+       "antes": "Quer a mala mais leve? A Route Preta ou a Vinho pesa 2,43 kg, contra 2,61 kg da Detroit.",
+       "depois": "Quer uma Bagaggio mais leve que a Detroit? A Route Preta ou a Vinho pesa 2,43 kg, contra 2,61 kg da Detroit. Na tabela, a Downtown Travelcross pesa 2,06 kg.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Quer a mala mais leve: a Route, que pesa menos que a Detroit.",
+       "depois": "Quer uma Bagaggio mais leve que a Detroit: a Route; a Downtown Travelcross pesa menos entre as malas da tabela.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "mala-policarbonato-ou-abs-bagaggio",
+   "arquivo": "content/reviews/mala-policarbonato-ou-abs-bagaggio.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "mala-policarbonato-ou-abs-bagaggio-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase que separa modelos completos do material (op3) e a resposta rápida sem data nova (op0), mas sai a troca de título e a frase sobre acabamento, que é fato sem fonte.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Entre as malas de bordo de 10 kg da tabela, as três de policarbonato custaram de 3,6 a 6 vezes a Detroit de ABS, sem ganhar litros e pesando mais. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros. A conta por litro e por kg está na tabela.",
+       "depois": "As três malas de policarbonato da tabela custaram de 3,6 a 6 vezes a Detroit de ABS, sem ganhar litros e pesando mais. São modelos diferentes, não uma comparação isolada do material. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/postParagraphs/0",
+       "antes": "Se a escolha é pelo material, a diferença de preço é o que você paga por ele. As fichas não dizem que um material aguenta mais que o outro, e este texto também não diz.",
+       "depois": "A diferença entre os preços é entre modelos completos; não mostra quanto cada material, sozinho, acrescenta ao custo. As fichas não comparam a resistência dos materiais."
+      }
+     ]
+    },
+    {
+     "id": "mala-policarbonato-ou-abs-bagaggio-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main, mas as datas de 29/10 e a frase \"testada na Kyoto II\", que não está nas fontes, saem; fica a conta do cupom e do Pix sem data.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/0",
+       "antes": "Com o CECILIA10, a Bahamas Branca saiu por R$ 809,91 e, no Pix, por R$ 769,41. A Detroit Preta saiu por R$ 224,91 com o cupom e R$ 213,66 no Pix. A Kyoto II Preta, que estava sem desconto da loja, saiu por R$ 1.349,91 com o cupom e R$ 1.282,41 no Pix.",
+       "depois": "Pela conta, o CECILIA10 de 10% leva a Bahamas Branca a R$ 809,91 e, no Pix, a R$ 769,41; a Detroit Preta, a R$ 224,91 e R$ 213,66; a Kyoto II Preta, a R$ 1.349,91 e R$ 1.282,41. Confira o valor do modelo escolhido no carrinho."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Tem cupom para a mala de policarbonato Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive em produto com desconto. A Bahamas Branca saiu por R$ 809,91 com o cupom. Condições na [página do cupom Bagaggio](/cupons/bagaggio).",
+       "depois": "Tem cupom para a mala de policarbonato Bagaggio? Tem o CECILIA10, de 10% no site, inclusive em produto com desconto. Pela conta, a Bahamas Branca fica em R$ 809,91 com o código; confira o desconto no carrinho. Condições na [página do cupom Bagaggio](/cupons/bagaggio)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "mochila-de-viagem-bagaggio-qual-escolher",
+   "arquivo": "content/reviews/mochila-de-viagem-bagaggio-qual-escolher.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "mochila-de-viagem-bagaggio-qual-escolher-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Estado parcial: o bullet e a leitura da Voyage já estão na main com o limite de expansão; mantive só a precisão de 23 litros e 15 cm fechada e o trecho de expansão, sem a data nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90. Expandida, ela passa dos 25 cm de profundidade da mala pequena; meça carregada e confira a companhia e a tarifa. Fechada, cabe no compartimento de cima.",
+       "depois": "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90. Fechada, tem 23 litros e 15 cm de profundidade e cabe no compartimento de cima; expandida, passa dos 25 cm de profundidade da mala pequena, então meça carregada e confira a companhia e a tarifa."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Quem faz viagem mais longa com a mala pequena incluída: a Voyage, que chega a 54 litros expandida, mas, nessa configuração, passa dos 25 cm de profundidade da mala pequena. Meça carregada e confira a companhia e a tarifa.",
+       "depois": "Quem tem mala pequena incluída e aceita levar a Voyage fechada, com 23 litros. Expandida, ela tem 54 litros e 35 cm de profundidade, acima dos 25 cm da mala pequena."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs/2",
+       "antes": "A conta vale para a medida que a loja publica. Mochila cheia estufa, e o zíper da expansão parcialmente aberto já muda a profundidade. Se a viagem depende de caber no gabarito, feche a expansão antes do embarque e deixe o excesso para a volta.",
+       "depois": "As medidas são as publicadas pela loja. Uma mochila carregada pode estufar, e a expansão parcialmente aberta já altera a profundidade. Meça a peça pronta para viajar e planeje a bagagem dentro da franquia tanto na ida quanto na volta."
+      }
+     ]
+    },
+    {
+     "id": "mochila-de-viagem-bagaggio-qual-escolher-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; a proposta traz uma data nova em três trechos, que estouraria a catraca de duas datas no corpo, então tirei a data dos trechos novos e mantive as duas que já existem.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Para voar só com a mochila, a Vacuum Airtrack e a Explore sem expandir cabem no item pessoal de LATAM e Azul, grátis até na tarifa Basic da LATAM. A Voyage e a Donna Grande passam de 45 cm e só entram como mala pequena. O que muda a escolha é a tarifa e a expansão, cruzadas abaixo.",
+       "depois": "Pelas medidas da loja e pelas regras de LATAM e Azul, Airtrack, Royale e Explore sem expandir ficam no limite do item pessoal. Voyage e Donna Grande passam dos 45 cm de altura. A escolha depende da companhia, da franquia da passagem e da medida da mochila carregada."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "Cinco modelos, contando as cores: só três cabem no item pessoal, e a expansão muda a conta. Os preços são do cartão, lidos nas páginas dos produtos em 31/10/2026. Medida, litros e expansão também vêm da loja.",
+       "depois": "Cinco modelos, com as cores agrupadas: três ficam no limite nominal do item pessoal de LATAM e Azul citado abaixo. Os preços no cartão, as medidas e os litros foram consultados nas páginas dos produtos em 31/10/2026; a expansão muda a classificação."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "A escolha começa pela passagem. Se a tarifa não inclui a mala pequena, como a Basic da LATAM, a mochila precisa caber em 45 × 35 × 20 cm, e sobram três. Se a mala pequena está incluída, o critério passa a ser quanto você leva.",
+       "depois": "A escolha começa pela companhia e pela franquia da passagem. Nos limites de LATAM e Azul citados acima, três modelos ficam dentro de 45 × 35 × 20 cm sem expansão. Confirme a franquia do seu voo e meça a mochila carregada antes de decidir."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/0",
+       "antes": "Quem quer voar só com a mochila, sem pagar bagagem: a Explore fechada ou a Vacuum Airtrack, na medida do item pessoal.",
+       "depois": "Quem busca item pessoal dentro dos limites de LATAM e Azul: Explore fechada ou Airtrack, após conferir a medida carregada e a franquia do voo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "Quem voa de tarifa Basic com a Voyage ou a Donna Grande: passam dos 45 cm e não entram como item pessoal.",
+       "depois": "Quem precisa de item pessoal de 45 × 35 × 20 cm, como o de LATAM e Azul: a Voyage e a Donna Grande ultrapassam os 45 cm de altura."
+      }
+     ]
+    },
+    {
+     "id": "mochila-de-viagem-bagaggio-qual-escolher-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere; a proposta corrige a leitura da Explore, mas o trecho traz a data nova e a frase 'não foi medida por nós', que é bastidor; o texto final não repete data nem explica o que o texto não diz.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Só com a mochila, sem pagar bagagem: Explore fechada (33 litros, R$ 299,90) ou Vacuum Airtrack (28,1 litros, R$ 499,90). A Explore leva mais e custa menos; a Airtrack comprime a roupa, mas só com a bomba, que sobe o gasto para R$ 574,85 no kit.",
+       "depois": "Só com a mochila, sem pagar bagagem: Explore fechada (33 litros, R$ 299,90) ou Vacuum Airtrack (28,1 litros, R$ 499,90). A loja declara 33 litros para a Explore, mas confira a medida carregada antes de contar com essa capacidade. A Airtrack comprime a roupa só com a bomba, que leva o kit a R$ 574,85."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/emphasis",
+       "antes": "Se fosse para a minha casa, eu levaria a Explore, porque leva 33 litros no item pessoal por R$ 299,90.",
+       "depois": "Se fosse para mim, eu começaria pela Explore, pelo preço de R$ 299,90 e pela medida fechada informada pela loja. Antes de comprar para voar só com ela, confirmaria a franquia e a medida da mochila carregada."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "mochila-escolar-bagaggio",
+   "arquivo": "content/reviews/mochila-escolar-bagaggio.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "mochila-escolar-bagaggio-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Estado parcial: dos sete trechos, só a frase da emphasis tem ganho real (tirar a garantia como motivo de compra); os demais já estão cobertos pela main, ou traziam link do Procon e aula jurídica.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/emphasis",
+       "antes": "Se fosse para a minha casa, eu levaria a Star Candy, porque tem medida e garantia informadas.",
+       "depois": "Se fosse para a minha casa, eu levaria a Star Candy, porque a medida e a capacidade estão informadas na ficha."
+      }
+     ]
+    },
+    {
+     "id": "mochila-escolar-bagaggio-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere; três trechos úteis entram sem a data nova que estouraria a catraca; o texto de rodinha e de Star Candy já está na main e não ganha com a troca.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/3",
+       "antes": "Notebook junto: High Shape III, a R$ 399,90, com 90 dias de garantia, na descrição da marca.",
+       "depois": "Notebook junto: a loja indica a High Shape III, a R$ 399,90. Confirme o tamanho do compartimento com a loja antes de comprar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/1",
+       "antes": "A Bagaggio tem linha KidGo de mochila escolar? Não. Na busca, a KidGo aparece só numa mala de bordo.",
+       "depois": "A Bagaggio tem linha KidGo de mochila escolar? Não. Na busca da loja, a KidGo aparece só numa mala de bordo. Confira o catálogo se procura esse nome."
+      }
+     ],
+     "ajustes_pos_gate": [
+      "gate test:review-i18n: o item do FAQ voltou a ter a pergunta"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "mochila-notebook-bagaggio-qual-escolher",
+   "arquivo": "content/reviews/mochila-notebook-bagaggio-qual-escolher.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "mochila-notebook-bagaggio-qual-escolher-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Estado parcial: a main já traz a Joá Café com 16 polegadas e a proposta pede a dúvida sobre a cor, que muda a decisão; mantive a dúvida em todos os lugares em que a Joá aparece, sem 'não foi validado' nem 'que lemos'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Para gastar pouco, a Horizonte Slim é a mais barata, e a descrição oficial diz que ela serve para notebook de até 15,6 polegadas. Se você quer couro, a faixa de preço é bem mais alta. O que muda a escolha é o tamanho do seu notebook, e a tabela abaixo mostra a medida de cada modelo.",
+       "depois": "Para gastar pouco, a Horizonte Slim está entre as três mais baratas, e a descrição oficial diz que ela serve para notebook de até 15,6 polegadas. Se você quer couro, a faixa de preço é bem mais alta. O que muda a escolha é o tamanho do seu notebook, e a tabela abaixo mostra a medida de cada modelo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/bullets/0",
+       "antes": "Dia a dia, com orçamento curto: BG Net Branco, Horizonte Slim e BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a única das três em que o cadastro traz a medida do notebook.",
+       "depois": "Dia a dia, com orçamento curto: BG Net Branco, Horizonte Slim e BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a única das três em que o cadastro traz a medida do notebook; confirme a compatibilidade do seu aparelho antes de comprar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Só a Horizonte Slim e a Joá Café trazem a medida do notebook que cabe: até 15,6 polegadas na Horizonte e 16 polegadas na Joá, nas descrições da marca. Nas outras páginas que lemos, a medida do notebook não aparece, e o texto não chuta polegadas.",
+       "depois": "A marca descreve a Horizonte Slim para notebook de até 15,6 polegadas. A Joá Café aparece com 16 polegadas numa descrição que cita a cor preta; confirme com a loja antes de usar essa medida. Nas outras páginas, a medida do notebook não aparece."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/1",
+       "antes": "A etiqueta de tamanho da loja também não resolve. As marcadas como Grande têm a primeira medida entre 44 e 52,5 cm, e a Média Donna tem 44,5 cm. Antes de comprar, meça o seu notebook e compare com as medidas do produto.",
+       "depois": "A etiqueta da loja não indica o espaço interno para o equipamento. Meça largura, altura e espessura do notebook, incluindo a capa que usa, e peça as medidas úteis do compartimento. A diagonal da tela e as dimensões externas da mochila, isoladamente, não confirmam o encaixe."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "Se o seu notebook não está por perto para medir, a Horizonte Slim é a escolha mais simples. Os outros modelos dependem do seu gosto e do seu notebook.",
+       "depois": "Comece pela compatibilidade com o notebook e depois compare preço, material e formato. Se o aparelho não está por perto para medir, confirme as medidas do compartimento antes de comprar; a referência de 15,6 polegadas da Horizonte não substitui essa conferência."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "Qual mochila cabe notebook de 15,6 polegadas? A Horizonte Slim, pela descrição oficial, e a Joá Café, que informa compartimento para notebook de 16 polegadas. Nas outras páginas que lemos, a medida do notebook não aparece.",
+       "depois": "Qual mochila cabe notebook de 15,6 polegadas? A Horizonte Slim, pela descrição oficial da marca. A Joá Café aparece com 16 polegadas numa descrição que cita a cor preta; confirme com a loja antes de usar essa medida."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/0",
+       "antes": "Você quer gastar pouco e o notebook tem até 15,6 polegadas, a medida que a descrição da Horizonte Slim informa.",
+       "depois": "Você quer gastar pouco e confirmou a compatibilidade do seu notebook com o compartimento da Horizonte Slim, anunciada pela marca para até 15,6 polegadas."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Você não mediu o notebook ou ele é maior: meça antes, porque só a Horizonte informa as polegadas.",
+       "depois": "Você ainda não confirmou o tamanho interno para o seu notebook: meça o aparelho e peça as medidas do compartimento antes de comprar."
+      }
+     ]
+    },
+    {
+     "id": "mochila-notebook-bagaggio-qual-escolher-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere e a main ainda diz que a promoção de 50% 'não soma' no presente; a versão final torna a oferta passada e não cria data nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale um cupom por pedido. A promoção de 50% na 2ª peça é outro cupom e não soma com o CECILIA10. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste, numa mala avulsa.",
+       "depois": "O CECILIA10 dá 10% no site oficial da Bagaggio, inclusive em Outlet e produto com desconto, com um cupom por pedido. A oferta de 50% na segunda peça usava outro código e tinha prazo que já passou. No Pix, a loja tira mais 5% sobre o total com cupom, conferido numa mala avulsa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "presente-natal-bagaggio",
+   "arquivo": "content/reviews/presente-natal-bagaggio.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "presente-natal-bagaggio-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "As datas de 30/10 saem do corpo (o corpo fica com a data do intro); o emphasis e as FAQs ficam sem \"na consulta\".",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/seoTitle",
+       "antes": "Presente de Natal Bagaggio por faixa de preço: o que a loja vende hoje",
+       "depois": "Presente de Natal Bagaggio: ideias por faixa de preço"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/images/0/caption",
+       "antes": "Mochila Slim Horizonte, preta, que cabe notebook de até 15,6 polegadas. Foto oficial da loja.",
+       "depois": "Mochila Slim Horizonte preta, anunciada para notebook de até 15,6 polegadas. Confirme as medidas do aparelho e do compartimento. Foto oficial da loja."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/emphasis",
+       "antes": "Se o presente fosse meu, eu levaria a mochila Horizonte, porque resolve o presente por menos de cem reais.",
+       "depois": "Se o presente fosse para alguém que leva notebook e tem orçamento até cem reais, eu começaria pela Horizonte. Antes de comprar, confirme o preço e se o aparelho cabe no compartimento."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/3",
+       "antes": "Qual é o presente da Bagaggio até R$ 100? Há carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook, de R$ 29,90 a R$ 79,90 no cartão.",
+       "depois": "Qual é o presente da Bagaggio até R$ 100? Há carteira, nécessaire, bolsa de viagem e a mochila Horizonte para notebook, de R$ 29,90 a R$ 79,90 no cartão. Confira o preço atual."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "O kit Joá custa menos que as peças separadas? Não. O kit de R$ 699,80 é a soma da mochila Joá Preto, de R$ 599,90, e da carteira vertical Joá Preta, de R$ 99,90.",
+       "depois": "O kit Joá custa menos que as peças separadas? Não. O kit de R$ 699,80 é a soma da mochila Joá Preto, de R$ 599,90, e da carteira vertical Joá Preta, de R$ 99,90. Compare os preços atuais."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Presente de Natal na Bagaggio por faixa de preço: carteira, nécessaire, bolsa e mochila, com o preço de cartão de 30/10/2026 e o cupom CECILIA10.",
+       "depois": "Presente de Natal na Bagaggio por faixa de preço: carteira, nécessaire, bolsa e mochila, com o preço de cartão e o cupom CECILIA10."
+      }
+     ]
+    },
+    {
+     "id": "presente-natal-bagaggio-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Sai \"consultada para este guia\" e a data de encerramento; a proposta de skipIf vira \"Passe se\", no padrão da seção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio). A promoção de 50% na segunda peça é um cupom e não soma com o CECILIA10.",
+       "depois": "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio). A promoção de 50% na segunda peça, quando esteve ativa, usava outro cupom e não acumulava com o CECILIA10."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "A ideia é somar a promoção da segunda peça com o CECILIA10: ela é outro cupom e não soma.",
+       "depois": "Passe se a ideia é somar a promoção da segunda peça com o CECILIA10: ela usava outro cupom e não acumulava."
+      }
+     ]
+    },
+    {
+     "id": "presente-natal-bagaggio-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Frase que liga as medidas da lata à carteira; o antes confere e o depois não tem data nem ressalva fora do lugar.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "A loja vende a lata de alumínio para carteira, de R$ 19,90, avulsa. Ela mede 11,7 × 14,7 × 3 cm.",
+       "depois": "A loja vende a lata de alumínio para carteira, de R$ 19,90, avulsa. Ela mede 11,7 × 14,7 × 3 cm. Compare essas medidas com as da carteira escolhida antes de acrescentar a lata ao pedido."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "tamanho-mala-bagaggio-p-m-g",
+   "arquivo": "content/reviews/tamanho-mala-bagaggio-p-m-g.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "tamanho-mala-bagaggio-p-m-g-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trechos da resposta rápida, da frase de faixas e da pergunta de diferença foram reescritos na main; mantenho o que ainda melhora (sem \"faixa define o tamanho\", com a Cartagena P) e corto a ressalva que restava sobre emphasis e takeIf/0, já cobertos pela main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Qual tamanho de mala comprar na Bagaggio? P, M e G são as faixas de 10, 23 e 32 kg. Veja medidas e litros das malas em 30/10/2026.",
+       "depois": "Compare malas P, M e G da Bagaggio por medidas e litros. Os nomes de 10, 23 e 32 kg não garantem aceitação na cabine nem franquia no bilhete: confira a ficha de cada modelo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Na Bagaggio, a mala de 10 kg é a de bordo, com 44 a 51 litros. A de 23 kg é a média, com 71 a 91 litros, e a de 32 kg é a grande, com 104 a 131 litros. P, M e G são os nomes dos conjuntos, e seguem essa mesma faixa de peso.",
+       "depois": "Na seleção da Bagaggio, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Esses nomes ajudam a comparar o catálogo. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/0",
+       "antes": "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? A faixa de peso define o tamanho: a de 10 kg é a de bordo, e as de 23 kg e 32 kg são as malas maiores, com mais litros. Nem toda mala de 10 kg cabe na mão: a Cartagena P passa da medida.",
+       "depois": "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? São faixas que a loja usa para malas pequenas, médias e grandes. As dimensões e os litros variam por modelo, e nem toda mala de 10 kg cabe na mão: a Cartagena P passa da medida."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "Qual tamanho de mala comprar para viagem de uma semana? Para uma semana, a de 23 kg dá mais espaço, com 71 a 91 litros. Se for só levar na mão, a de 10 kg, com 44 a 51 litros, é a opção.",
+       "depois": "Qual tamanho de mala comprar para viagem de uma semana? Compare o que você leva com o volume: as médias da seleção têm de 71 a 91 litros. Para cabine, confirme as dimensões totais do modelo e a regra do bilhete; nem toda mala chamada de 10 kg atende à referência."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "A viagem é de uma semana e você despacha: a de 23 kg, com 71 a 91 litros.",
+       "depois": "Você vai despachar e o volume das malas médias atende ao que pretende levar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "Quer a maior capacidade: a de 32 kg, com 104 a 131 litros.",
+       "depois": "Você precisa do volume das malas grandes e confirmou peso e dimensões permitidos no seu bilhete."
+      }
+     ]
+    },
+    {
+     "id": "tamanho-mala-bagaggio-p-m-g-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "As afirmações de rodas da linha Detroit e Cartagena já estão na main com fichas mais precisas, por isso a proposta de \"confirmar\" foi descartada; fica a resposta direta da FAQ sobre cabine, reescrita sobre o texto atual, e a célula da Route.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pelas fichas, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, e a medida da Detroit já inclui as rodas, enquanto a Cartagena P passa. Cada companhia decide, então confira antes de viajar.",
+       "depois": "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Depende do modelo. A Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, com as rodas incluídas; a Cartagena P passa. Cada companhia decide, então confira antes de viajar e a regra do seu bilhete."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/comparisonTable/rows/1/6",
+       "antes": "Sim",
+       "depois": "Medida com rodas dentro da referência; confirmar alças"
+      }
+     ]
+    },
+    {
+     "id": "tamanho-mala-bagaggio-p-m-g-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main ainda cita a promoção de 50% \"de outubro\", que já passou e não ajuda a decisão do leitor; a versão nova só mantém a regra do cupom e o Pix, sem ressalva de bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça de outubro.",
+       "depois": "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
