@@ -1,0 +1,819 @@
+{
+ "lote": "L06",
+ "tipo": "familias",
+ "loja": "hostinger",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "wordpress-bei-hostinger",
+   "arquivo": "content/reviews/wordpress-bei-hostinger.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "wordpress-bei-hostinger-de-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes conferem com a main; mesma intenção da PT P002, depois direto, sem data nova, bastidor ou renovação com 20%.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. Zählen Sie die Websites.** Eine, bis zu drei oder mehr. Das entscheidet in den meisten Fällen schon den Tarif.",
+       "depois": "**1. Anforderungen auflisten.** Zählen Sie Websites und prüfen Sie Speicher, Anwendung, erwartete Last und Wiederherstellung vor der Wahl.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "Die Verlängerung kostet etwa das 3- bis 5-Fache des Aktionspreises. Wählen Sie den Tarif nach der Spalte der Verlängerung, nicht nur nach dem Einstiegspreis.",
+       "depois": "Vergleichen Sie Gesamtbindung, rechnerischen Monatspreis und Verlängerung. Weder Einstiegspreis noch Verlängerung entscheiden allein.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Wenn Sie kein Theme und kein Plugin installieren und nichts aktualisieren wollen, bringen dieselben Tarife den KI-Builder von Hostinger mit. Der Vergleich nach Projekttyp steht in [KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?](/de/reviews/hostinger-ki-builder-lohnt-sich). Wenn Ihr Projekt schon einen Plugin-Namen hat, bleiben Sie bei WordPress.",
+       "depois": "Für weniger Theme- und Plugin-Wartung vergleichen Sie KI-Builder und WordPress. Entscheiden Sie nach Funktionen, Integrationen und Pflege; ein Plugin-Name genügt nicht. Den Projektvergleich finden Sie unter [KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?](/de/reviews/hostinger-ki-builder-lohnt-sich).",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Lassen Sie WordPress weg, wenn Sie kein Theme und kein Plugin installieren und nichts aktualisieren wollen: Dieselben Tarife bringen den KI-Builder mit.",
+       "depois": "Vergleichen Sie ein anderes Werkzeug, wenn Sie Themes und Plugins nicht verwalten möchten; vor dem Ersatz durch den KI-Builder Funktionen, Integrationen und Kosten prüfen.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-bei-hostinger-de-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes conferem; SONAR20 batendo com couponsData.ts (compra nova, conta existente elegível, domínio e renovação fora), sem bastidor, em 'Sie'. Corrigido: a proposta trazia 'erste Laufzeit' no parágrafo, enquanto o artigo e as outras duas trocas usam 'Zeitraum' (7 ocorrências); agora 'im ersten Zeitraum' em todo o bloco.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung, ohne die 20 % von SONAR20. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger).",
+       "depois": "Nutzen Sie **SONAR20** für 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Prüfen Sie die Anwendung auf den WordPress-Tarif und den Gesamtbetrag im Warenkorb; Domainregistrierung und Verlängerung sind ausgeschlossen. Bedingungen unter [Hostinger-Gutscheinen](/de/coupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt.",
+       "depois": "Können Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Domainregistrierungen sind ebenfalls ausgeschlossen. Geben Sie den Code ein und prüfen Sie den Gesamtbetrag."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? Ja, SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie es im Warenkorb. Wo er gilt, sind es 20 % im ersten Zeitraum.",
+       "depois": "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. WordPress-Tarif im Warenkorb prüfen; Domainregistrierung und Verlängerung sind ausgeschlossen."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Bei den WordPress-Tarifen gilt der Code: Prüfen Sie den Preis im Warenkorb.",
+       "depois": "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. WordPress-Tarif im Warenkorb prüfen; Domainregistrierung und Verlängerung sind ausgeschlossen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wordpress-chez-hostinger",
+   "arquivo": "content/reviews/wordpress-chez-hostinger.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "wordpress-chez-hostinger-fr-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mesma intenção da PT P002; o depois usava apóstrofo tipográfico em duas frases, e o artigo em francês usa apóstrofo reto em todo o texto (46 ocorrências), então normalizei.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. Comptez vos sites.** Un, jusqu'à trois ou plus. Dans la plupart des cas, cela suffit à choisir le forfait.",
+       "depois": "**1. Listez les besoins.** Comptez les sites et vérifiez espace, application, charge prévue et récupération avant de choisir."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "Le renouvellement coûte environ 3 à 5 fois le prix promotionnel. Choisissez le forfait selon la colonne du renouvellement, pas seulement selon le prix d'entrée.",
+       "depois": "Comparez engagement total, coût mensuel équivalent et renouvellement. Ni le prix d'entrée ni le renouvellement ne décident seuls."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Si vous ne voulez ni installer de thème ni d'extension, ni rien mettre à jour, les mêmes forfaits incluent le créateur de sites avec IA de Hostinger, l'ancien Horizons. La comparaison par type de projet se trouve dans [Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?](/fr/reviews/createur-ia-hostinger-avis). Si ce dont vous avez besoin a déjà un nom d'extension, restez sur WordPress.",
+       "depois": "Pour réduire l'entretien des thèmes et extensions, comparez le créateur IA à WordPress. Choisissez selon fonctions, intégrations et maintenance ; connaître une extension ne suffit pas. Voir le comparatif par projet dans [Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?](/fr/reviews/createur-ia-hostinger-avis)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Laissez de côté WordPress si vous ne voulez ni installer de thème ni d'extension, ni rien mettre à jour : les mêmes forfaits incluent le créateur de sites avec IA.",
+       "depois": "Comparez un autre outil si vous ne voulez pas gérer thèmes et extensions ; vérifiez fonctions, intégrations et coûts avant de remplacer WordPress par le créateur IA."
+      }
+     ]
+    },
+    {
+     "id": "wordpress-chez-hostinger-fr-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mesma intenção da PT P003; o depois tinha apóstrofo tipográfico em quatro campos, normalizado para o reto do artigo; fatos de SONAR20 conferidos com couponsData.ts.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Le SONAR20 vaut sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique, sans les 20 % de SONAR20. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger).",
+       "depois": "Utilisez **SONAR20** pour 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Vérifiez son application au forfait WordPress et le total du panier ; enregistrement de domaine et renouvellement sont exclus. Conditions sur [les codes promo Hostinger](/fr/coupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction.",
+       "depois": "Un client existant peut-il utiliser SONAR20 ? Le code peut s'appliquer à un nouvel achat éligible avec le même compte, mais pas au renouvellement du service actuel. L'enregistrement de domaine est également exclu. Saisissez le code et vérifiez le total du panier."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Oui, il donne 20 % sur la première période ; vérifiez le prix dans le panier.",
+       "depois": "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Vérifiez le forfait WordPress au panier ; enregistrement de domaine et renouvellement sont exclus."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Il vaut sur les forfaits WordPress ; vérifiez le prix dans le panier.",
+       "depois": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Vérifiez le forfait WordPress au panier ; enregistrement de domaine et renouvellement sont exclus."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wordpress-en-hostinger",
+   "arquivo": "content/reviews/wordpress-en-hostinger.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "wordpress-en-hostinger-es-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes conferem com a main; depois direto, sem data nova, bastidor ou renovação com 20%; mesma estrutura da PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. Cuenta tus sitios.** Uno, hasta tres o más. En la mayoría de los casos, eso ya elige el plan.",
+       "depois": "**1. Lista los requisitos.** Cuenta sitios y comprueba espacio, aplicación, carga prevista y recuperación antes de elegir.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "La renovación cuesta entre 3 y 5 veces el precio promocional. Elige el plan por la columna de renovación, no solo por el precio de entrada.",
+       "depois": "Compara total contratado, costo mensual equivalente y renovación. Ni el precio de entrada ni la renovación deciden por sí solos.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Si no quieres instalar un tema ni un plugin, ni actualizar nada, los mismos planes traen el creador de sitios con IA de Hostinger, antes Horizons. La comparación por tipo de proyecto está en [Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?](/es/reviews/creador-ia-hostinger-vale-la-pena). Si lo que necesitas ya tiene nombre de plugin, quédate con WordPress.",
+       "depois": "Si prefieres reducir el mantenimiento de temas y plugins, compara el creador con IA con WordPress. Decide por funciones, integraciones y mantenimiento; conocer un plugin no basta. Mira la comparación por proyecto en [Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?](/es/reviews/creador-ia-hostinger-vale-la-pena).",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Descarta WordPress si no quieres instalar un tema ni un plugin, ni actualizar nada: los mismos planes traen el creador de sitios con IA.",
+       "depois": "Compara otra herramienta si no quieres gestionar temas y plugins; comprueba funciones, integraciones y costos antes de sustituir WordPress por el creador con IA.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-en-hostinger-es-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mesma intenção da PT P003; o depois escrevia 'periodo' sem acento no parágrafo, e o artigo usa 'período' no resto; corrigido. A flag SONAR20-renovacao? fica resolvida: o texto diz que a renovação fica fora, sem 20%.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. El SONAR20 vale en los planes de WordPress; confirma el precio en el carrito antes de pagar. Después del primer período, vale la columna de renovación, sin los 20 % de SONAR20. Las reglas del código y los otros productos están en [cupones de Hostinger](/es/coupons/hostinger).",
+       "depois": "Usa **SONAR20** para un 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Comprueba que se aplica al plan WordPress y revisa el total del carrito; registro de dominio y renovación quedan fuera. Condiciones en [cupones de Hostinger](/es/coupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento.",
+       "depois": "¿Un cliente existente puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. El registro de dominio también queda fuera. Introduce el código y comprueba el total del carrito."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "¿Funciona el código SONAR20 en los planes de WordPress? Sí; confirma el precio en el carrito. Da 20% en el primer período.",
+       "depois": "¿Funciona el código SONAR20 en los planes de WordPress? SONAR20: 20% en el primer período de una compra nueva elegible. Revisa el plan WordPress en el carrito; registro de dominio y renovación quedan fuera."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. El SONAR20 vale en los planes de WordPress; confirma el precio en el carrito.",
+       "depois": "SONAR20: 20% en el primer período de una compra nueva elegible. Revisa el plan WordPress en el carrito; registro de dominio y renovación quedan fuera."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wordpress-hostinger-ja",
+   "arquivo": "content/reviews/wordpress-hostinger-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "wordpress-hostinger-ja-ja-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main (verificado por script contra o JSON atual) e os depois são diretos, sem data nova, bastidor ou renovação com 20%; o quadro decision segue com uma frase no skipIf/1, como no PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. サイト数を数える。** 1つ、3つまで、それ以上。ほとんどの場合、これでプランが決まります。",
+       "depois": "**1. 要件を書き出す。** サイト数、容量、アプリ、予想負荷、復旧水準を確認してから選んでください。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "プランは入口の価格ではなく、更新料の列で選んでください。",
+       "depois": "契約総額、月額換算、更新料を比べてください。入口の価格だけでも更新料だけでも決まりません。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "テーマやプラグインのインストールや更新をしたくない場合は、同じプランに Hostinger の AI ビルダーも含まれています。プロジェクト別の比較は、[Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？](/ja/reviews/hostinger-ai-builder-ja) にあります。必要な機能がプラグイン名で決まっているなら、WordPress を選んでください。",
+       "depois": "テーマやプラグインの保守を減らしたければAIビルダーとWordPressを比較してください。必要機能、連携、維持方法で選び、プラグイン名だけで決めないでください。用途別の比較は[Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？](/ja/reviews/hostinger-ai-builder-ja)。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "テーマもプラグインも更新もしたくないなら、WordPress は見送りです。同じプランに AI ビルダーも付いています。",
+       "depois": "テーマやプラグインを管理したくなければ別のツールも比較し、AIビルダーに替える前に機能、連携、費用を確認してください。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-hostinger-ja-ja-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main; o depois deixa o 20% só na compra nova elegível, exclui domínio e renovação (couponsData.ts) e mantém cada FAQ no formato pergunta? resposta.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでも SONAR20 が使えます。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されますが、更新料にSONAR20の20%は含まれません。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。",
+       "depois": "**SONAR20**は、既存アカウントでも対象の新規購入の初回契約期間が20%割引です。WordPressプランへの適用とカートの総額を確認してください。ドメイン登録と更新は対象外です。条件は[Hostinger のクーポン](/ja/coupons/hostinger)で確認できます。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。",
+       "depois": "既存ユーザーもSONAR20を使える？ 同じアカウントでも対象の新規購入には使える場合がありますが、現在のサービスの更新には使えません。ドメイン登録も対象外です。コードを入力してカートの総額を確認してください。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "SONAR20 は Hostinger の WordPress プランで使えますか？ WordPress プランでも使えます。カートで価格を確認してください。最初の期間が20%割引です。",
+       "depois": "SONAR20 は Hostinger の WordPress プランで使えますか？ SONAR20：対象となる新規購入の最初の期間が20%割引。WordPressプランはカートで確認してください。ドメイン登録と更新は対象外です。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。WordPress プランでも使えます。カートで価格を確認してください。",
+       "depois": "SONAR20：対象となる新規購入の最初の期間が20%割引。WordPressプランはカートで確認してください。ドメイン登録と更新は対象外です。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wordpress-hostinger-ko",
+   "arquivo": "content/reviews/wordpress-hostinger-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "wordpress-hostinger-ko-ko-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main; o depois é direto, sem data nova nem bastidor, e mantém a estrutura de bullets, emphasis, parágrafo e skipIf/1 do PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. 사이트 수를 세세요.** 하나, 세 개, 또는 그 이상. 대부분의 경우 이것만으로 플랜이 정해집니다.",
+       "depois": "**1. 요구 사항을 적으세요.** 사이트 수, 용량, 앱, 예상 작업량과 복구 수준을 확인한 뒤 고르세요.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "플랜은 처음 가격이 아니라 갱신가 열을 보고 고르세요.",
+       "depois": "계약 총액, 환산 월 요금과 갱신가를 비교하세요. 처음 가격만으로도 갱신가만으로도 결정할 수 없습니다.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "플러그인이나 테마를 설치하고 업데이트하고 싶지 않다면, 같은 플랜에 호스팅어의 AI 사이트 빌더도 들어 있습니다. 프로젝트 유형별 비교는 [호스팅어 AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?](/ko/reviews/hostinger-ai-builder-ko)에 있습니다. 필요한 기능에 이미 플러그인 이름이 붙어 있다면 WordPress에 머무르세요.",
+       "depois": "테마와 플러그인 관리를 줄이고 싶다면 AI 빌더와 WordPress를 비교하세요. 필요한 기능, 연동과 유지 방법으로 선택하고 플러그인 이름만으로 결정하지 마세요. 프로젝트별 비교는 [호스팅어 AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?](/ko/reviews/hostinger-ai-builder-ko).",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "테마를 설치하고 플러그인을 관리하고 업데이트하기 싫다면 WordPress는 넘기세요. 같은 플랜에 AI 사이트 빌더도 들어 있습니다.",
+       "depois": "테마와 플러그인을 관리하고 싶지 않다면 다른 도구도 비교하세요. AI 빌더로 바꾸기 전 기능, 연동과 비용을 확인하세요.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-hostinger-ko-ko-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main; o depois mantém SONAR20 só para compra nova elegível, exclui domínio e renovação e segue a regra de conta existente de couponsData.ts.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가면 **첫 기간에 20%**가 할인됩니다. SONAR20은 WordPress 플랜에도 적용됩니다. 결제 전에 장바구니에서 가격을 확인하세요. 첫 기간이 끝나면 갱신가가 적용되며, SONAR20의 20%는 갱신가에 적용되지 않습니다. 규칙과 다른 제품은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다.",
+       "depois": "**SONAR20**은 기존 계정도 대상 신규 구매의 첫 계약 기간에 20% 할인됩니다. WordPress 요금제에 적용되는지와 장바구니 총액을 확인하세요. 도메인 등록과 갱신은 제외됩니다. 조건은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다.",
+       "depois": "기존 고객도 SONAR20을 쓸 수 있나요? 같은 계정의 대상 신규 구매에는 적용될 수 있지만 현재 서비스의 갱신에는 적용되지 않습니다. 도메인 등록도 제외됩니다. 코드를 입력하고 장바구니 총액을 확인하세요.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "WordPress 플랜에도 SONAR20을 쓸 수 있나요? 네, 쓸 수 있습니다. 장바구니에서 가격을 확인하세요. 20%는 모든 신규 구매에 적용되며, 갱신은 정가로 청구됩니다.",
+       "depois": "WordPress 플랜에도 SONAR20을 쓸 수 있나요? SONAR20: 대상 신규 구매 첫 기간 20% 할인. WordPress 플랜을 장바구니에서 확인하세요. 도메인 등록과 갱신은 제외됩니다.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 적용됩니다. SONAR20은 WordPress 플랜에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
+       "depois": "SONAR20: 대상 신규 구매 첫 기간 20% 할인. WordPress 플랜을 장바구니에서 확인하세요. 도메인 등록과 갱신은 제외됩니다.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wordpress-hostinger-zh-hans",
+   "arquivo": "content/reviews/wordpress-hostinger-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "wordpress-hostinger-zh-hans-zh-hans-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main; o depois é direto, sem data nova nem bastidor, e mantém a estrutura do PT (bullets, emphasis, parágrafo e skipIf/1).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. 数一数网站。** 一个、三个，还是更多。大多数情况下，这一点就决定了套餐。",
+       "depois": "**1. 列出需求。** 选择前确认网站数量、空间、应用、预期负载和恢复需求。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "选套餐请看续费那一列，不要只看入门价。",
+       "depois": "比较合同总额、折算月费与续费。入门价或续费价单独都不能决定选择。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "如果你不想安装主题和插件，也不想更新任何东西，同样的套餐里还有 Hostinger 的 AI 建站工具。按项目类型的比较见 [Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？](/zh-hans/reviews/hostinger-ai-builder-zh-hans)。如果你需要的功能已经有了插件名字，就留在 WordPress。",
+       "depois": "若想减少主题与插件维护，请比较AI建站与WordPress。按功能、集成和维护方式选择，不要只凭插件名字决定。按项目比较见[Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？](/zh-hans/reviews/hostinger-ai-builder-zh-hans)。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "如果不想装主题、装插件、做任何更新，就别用 WordPress：同样的套餐里还有 AI 建站工具。",
+       "depois": "若不想管理主题与插件，也可比较其他工具；改用AI建站前请确认功能、集成与费用。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-hostinger-zh-hans-zh-hans-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main; o depois deixa o 20% só para compra nova elegível, exclui domínio e renovação e mantém os FAQs com a pergunta antes da resposta.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。SONAR20 适用于 WordPress 套餐，请在付款前到购物车确认价格。首个周期之后，按续费价计算，没有 SONAR20 的 20% 折扣。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。",
+       "depois": "**SONAR20**适用于符合资格的新购首个合同期间，可享20%折扣，已有账户也可适用。请确认WordPress套餐是否适用及购物车总额；域名注册与续费除外。条件见[Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。",
+       "depois": "已有客户也能用SONAR20吗？同一账户符合资格的新购可适用，但当前服务的续费不适用，域名注册也除外。输入代码后请确认购物车总额。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "SONAR20 能用于 WordPress 套餐吗？能。请在购物车确认价格。20% 适用于首个周期；续费按标价收费，没有折扣。",
+       "depois": "SONAR20 能用于 WordPress 套餐吗？ SONAR20：符合条件的新购首个周期优惠20%。请在购物车确认WordPress套餐；域名注册与续费除外。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。WordPress 套餐也适用，请在购物车确认价格。",
+       "depois": "SONAR20：符合条件的新购首个周期优惠20%。请在购物车确认WordPress套餐；域名注册与续费除外。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wordpress-hostinger-zh-hant",
+   "arquivo": "content/reviews/wordpress-hostinger-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "wordpress-hostinger-zh-hant-zh-hant-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main; o depois é direto, sem data nova nem bastidor, e mantém a estrutura do PT (bullets, emphasis, parágrafo e skipIf/1).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. 先算網站數量。** 一個、三個，還是更多。多數情況下，光是這一點就能決定方案。",
+       "depois": "**1. 列出需求。** 選擇前確認網站數量、空間、應用、預期負載與復原需求。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "選方案請看續約價那一欄，不要只看入門價。",
+       "depois": "比較合約總額、折算月費與續約價。入門價或續約價單獨都不能決定選擇。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "如果你不想安裝佈景主題與外掛，也不想更新任何東西，同樣的方案裡還有 Hostinger 的 AI 建站工具。依專案類型的比較請見 [Hostinger AI Builder（前身為 Horizons）：值得用，還是選 WordPress？](/zh-hant/reviews/hostinger-ai-builder-zh-hant)。如果你需要的功能已經有指定的外掛，就留在 WordPress。",
+       "depois": "若想減少佈景主題與外掛維護，請比較AI建站與WordPress。依功能、整合與維護方式選擇，不要只憑外掛名字決定。依專案比較見[Hostinger AI Builder（前身為 Horizons）：值得用，還是選 WordPress？](/zh-hant/reviews/hostinger-ai-builder-zh-hant)。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "如果不想安裝佈景主題與外掛、也不想做任何更新，就不要用 WordPress：同樣的方案裡還有 AI 建站工具。",
+       "depois": "若不想管理佈景主題與外掛，也可比較其他工具；改用AI建站前請確認功能、整合與費用。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-hostinger-zh-hant-zh-hant-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main; o depois deixa o 20% só para compra nova elegível, exclui domínio e renovação e mantém os FAQs com a pergunta antes da resposta.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享**第一期 20% 折扣**。SONAR20 也適用於 WordPress 方案，付款前請先到購物車確認價格。SONAR20 的 20% 折扣適用於每一筆新購買；第一期之後以續約價計算，沒有折扣。規則與其他產品請見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。",
+       "depois": "**SONAR20**適用於符合資格的新購首個合約期間，可享20%折扣，已有帳號也可適用。請確認WordPress方案是否適用及購物車總額；網域註冊與續約除外。條件見[Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。",
+       "depois": "舊客戶也能用SONAR20嗎？同一帳號符合資格的新購可適用，但目前服務的續約不適用，網域註冊也除外。輸入代碼後請確認購物車總額。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "SONAR20 可以用在 WordPress 方案嗎？可以，請在購物車確認價格。20% 適用於第一期，續訂按定價計算，沒有折扣。",
+       "depois": "SONAR20 可以用在 WordPress 方案嗎？ SONAR20：符合條件的新購首期優惠20%。請在購物車確認WordPress方案；網域註冊與續約除外。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 也適用於 WordPress 方案，請在購物車確認價格。",
+       "depois": "SONAR20：符合條件的新購首期優惠20%。請在購物車確認WordPress方案；網域註冊與續約除外。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wordpress-na-hostinger",
+   "arquivo": "content/reviews/wordpress-na-hostinger.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "wordpress-na-hostinger-pt-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main e os depois são diretos, sem data nova, bastidor ou renovação com 20%.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. Conte os sites.** Um, até três ou mais. Isso já escolhe o plano na maioria dos casos.",
+       "depois": "**1. Liste os requisitos.** Conte sites e confira espaço, aplicação, carga esperada e recuperação antes de escolher o plano.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "Escolha o plano pela coluna da renovação, não pela do preço de entrada.",
+       "depois": "Compare total contratado, custo mensal equivalente e renovação. Nem o preço de entrada nem a renovação decidem sozinhos.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Se você não quer instalar tema, plugin nem atualizar nada, os mesmos planos trazem o construtor de sites com IA da Hostinger. A comparação por tipo de projeto está em [Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?](/reviews/hostinger-horizons-vale-a-pena). Se o que você precisa já tem nome de plugin, fique no WordPress.",
+       "depois": "Se prefere reduzir a manutenção de temas e plugins, compare o Criador com IA com WordPress. Escolha pelas funções necessárias, integrações e forma de manter o site; saber o nome de um plugin não decide sozinho. Veja a comparação por projeto em [Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?](/reviews/hostinger-horizons-vale-a-pena).",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Passe do WordPress se não quer instalar tema, plugin nem atualizar nada: os mesmos planos trazem o construtor com IA.",
+       "depois": "Compare outra ferramenta se não quer administrar temas e plugins; confirme funções, integrações e custos antes de trocar WordPress pelo Criador com IA.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-na-hostinger-pt-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os antes conferem com a main; a exclusão de registro de domínio e a validade para conta existente estão em couponsData.ts (Hostinger), e os depois não citam teste nem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "O código **SONAR20** dá **20% no primeiro período**, no campo de cupom do carrinho ou pelo link deste artigo. O SONAR20 vale nos planos de WordPress; confira o preço no carrinho antes de pagar. Depois do primeiro período, vale a coluna da renovação, sem os 20% do SONAR20. A regra do código e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
+       "depois": "Use **SONAR20** para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. Confira a aplicação ao plano WordPress e o total no carrinho; registro de domínio e renovação ficam fora. Condições em [cupons da Hostinger](/cupons/hostinger).",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/5",
+       "antes": "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto.",
+       "depois": "O SONAR20 vale para cliente antigo? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. Registro de domínio também fica fora. Aplique o código e confira o total no carrinho.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "O cupom SONAR20 vale no plano de WordPress da Hostinger? Vale: nos planos de WordPress, com 20% no primeiro período. Confira no carrinho.",
+       "depois": "O cupom SONAR20 vale no plano de WordPress da Hostinger? SONAR20: 20% no primeiro período de compra nova elegível. Confira o plano WordPress no carrinho; registro de domínio e renovação ficam fora.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código vale nos planos de WordPress; confira o preço no carrinho.",
+       "depois": "SONAR20: 20% no primeiro período de compra nova elegível. Confira o plano WordPress no carrinho; registro de domínio e renovação ficam fora.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-na-hostinger-pt-g201-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Ops 1 e 2 já estão cobertas na main (Node.js corrigido na introdução e na lista); ops 3 e 4 aplicadas sem a segunda data no corpo (a data já está na frase acima da tabela), sem o termo 'registro' e sem a afirmação de que conta existente não recebe o benefício, que não tem fonte nos termos.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/heading",
+       "antes": "Se você já anuncia no Google",
+       "depois": "Crédito promocional do Google Ads: confira a elegibilidade"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Os termos da promoção dizem: quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito de anúncios, no Brasil. Quem define a elegibilidade é a Google, a promoção pode mudar, e a página não traz data de validade. Vale para quem já ia gastar esse valor; não é motivo para começar a anunciar.",
+       "depois": "Os termos da promoção dizem que quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito, no Brasil. A elegibilidade é definida pelo Google, e a promoção pode mudar. Confira termos, ativação e prazo na sua conta antes de contar com o crédito. Não escolha hospedagem nem comece a anunciar só por esse benefício."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wordpress-on-hostinger",
+   "arquivo": "content/reviews/wordpress-on-hostinger.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "wordpress-on-hostinger-en-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main e os depois são diretos, sem data nova, bastidor ou renovação com 20%; a estrutura do quadro decision e das seções fica igual à do PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. Count your sites.** One, up to three or more. In most cases, that already picks the plan.",
+       "depois": "**1. List the requirements.** Count sites and check storage, application, expected workload and recovery needs before choosing.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "Renewal costs about 3 to 5 times the promotional price. Choose the plan by the renewal column, not only by the entry price.",
+       "depois": "Compare the total commitment, equivalent monthly cost and renewal. Neither entry price nor renewal alone chooses a plan.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "If you do not want to install a theme or a plugin, or update anything, the same plans come with Hostinger's AI website builder, formerly Horizons. The comparison by type of project is in [Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?](/en/reviews/hostinger-ai-builder-worth-it). If what you need already has a plugin name, stay with WordPress.",
+       "depois": "If you want less theme and plugin maintenance, compare the AI Builder with WordPress. Choose by required functions, integrations and site maintenance; knowing a plugin name does not decide it. See the project comparison in [Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?](/en/reviews/hostinger-ai-builder-worth-it).",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Skip WordPress if you do not want to install a theme or a plugin, or update anything: the same plans come with the AI website builder.",
+       "depois": "Compare another tool if you do not want to manage themes and plugins; check functions, integrations and costs before replacing WordPress with the AI Builder.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-on-hostinger-en-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro antes conferem com a main; o depois mantém 20% só na compra nova elegível, exclui domínio e renovação e segue a regra de conta existente já presente na FAQ da main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Enter the code **SONAR20** in the cart's coupon field, or come in through this article's link: it gives **20% off the first period**. SONAR20 works on the WordPress plans; check the price in the cart before paying. After the first period, the renewal column applies, without the 20% from SONAR20. The rules for the code and the other products are in [Hostinger coupons](/en/coupons/hostinger).",
+       "depois": "Use **SONAR20** for 20% off the first term of an eligible new purchase, including with an existing account. Check that it applies to your WordPress plan and confirm the cart total; domain registration and renewals are excluded. Conditions at [Hostinger coupons](/en/coupons/hostinger).",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount.",
+       "depois": "Can existing customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. Domain registration is also excluded. Enter the code and check the cart total.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "Does the SONAR20 code work on the WordPress plans? Yes; check the price in the cart. It gives 20% off the first period.",
+       "depois": "Does the SONAR20 code work on the WordPress plans? SONAR20: 20% off the first period of an eligible new purchase. Check your WordPress plan at checkout; domain registration and renewal are excluded.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. It works on the WordPress plans; check the price in the cart.",
+       "depois": "SONAR20: 20% off the first period of an eligible new purchase. Check your WordPress plan at checkout; domain registration and renewal are excluded.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wordpress-su-hostinger",
+   "arquivo": "content/reviews/wordpress-su-hostinger.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "wordpress-su-hostinger-it-g201-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes conferem com a main; depois direto, sem data nova, bastidor ou renovação com 20%; mesma estrutura da PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**1. Conta i siti.** Uno, fino a tre o più. Nella maggior parte dei casi questo sceglie già il piano.",
+       "depois": "**1. Elenca i requisiti.** Conta i siti e controlla spazio, applicazione, carico previsto e recupero prima di scegliere.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/emphasis",
+       "antes": "Il rinnovo costa da 3 a 5 volte il prezzo promozionale. Scegli il piano guardando la colonna del rinnovo, non solo il prezzo d'ingresso.",
+       "depois": "Confronta impegno totale, costo mensile equivalente e rinnovo. Né prezzo iniziale né rinnovo decidono da soli.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Se non vuoi installare temi e plugin né aggiornare nulla, gli stessi piani includono il builder di siti con IA di Hostinger. Il confronto per tipo di progetto è in [AI Builder di Hostinger (ex Horizons): conviene o meglio WordPress?](/it/reviews/creatore-ia-hostinger-conviene). Se quello che ti serve ha già un nome di plugin, resta su WordPress.",
+       "depois": "Per ridurre la manutenzione di temi e plugin, confronta il builder IA con WordPress. Scegli per funzioni, integrazioni e gestione; conoscere un plugin non basta. Vedi il confronto per progetto in [AI Builder di Hostinger (ex Horizons): conviene o meglio WordPress?](/it/reviews/creatore-ia-hostinger-conviene).",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Lascia stare WordPress se non vuoi installare temi e plugin né aggiornare nulla: gli stessi piani includono il builder di siti con IA.",
+       "depois": "Confronta un altro strumento se non vuoi gestire temi e plugin; controlla funzioni, integrazioni e costi prima di sostituire WordPress con il builder IA.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "wordpress-su-hostinger-it-g201-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mesma intenção da PT P003; o depois tinha apóstrofo tipográfico em 'l’applicazione', normalizado para o reto do artigo; fatos de SONAR20 conferidos com couponsData.ts.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Il codice **SONAR20** dà il **20% sul primo periodo**, nel campo coupon del carrello o dal link di questo articolo. Il SONAR20 vale sui piani WordPress: controlla il prezzo nel carrello prima di pagare. Dopo il primo periodo vale la colonna del rinnovo, senza il 20% di SONAR20: il codice vale su ogni acquisto nuovo. Le regole del codice e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger).",
+       "depois": "Usa **SONAR20** per il 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Verifica l'applicazione al piano WordPress e il totale nel carrello; registrazione di dominio e rinnovo sono esclusi. Condizioni in [coupon Hostinger](/it/coupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto.",
+       "depois": "Un cliente esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Anche la registrazione di dominio è esclusa. Inserisci il codice e controlla il totale nel carrello."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "Il coupon SONAR20 vale sul piano WordPress di Hostinger? Sì, il SONAR20 vale sui piani WordPress: controllalo nel carrello. È il 20% sul primo periodo.",
+       "depois": "Il coupon SONAR20 vale sul piano WordPress di Hostinger? SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Controlla il piano WordPress nel carrello; registrazione di dominio e rinnovo sono esclusi."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale sui piani WordPress: controlla il prezzo nel carrello.",
+       "depois": "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Controlla il piano WordPress nel carrello; registrazione di dominio e rinnovo sono esclusi."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

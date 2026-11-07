@@ -1,0 +1,1670 @@
+{
+ "lote": "L01",
+ "tipo": "familias",
+ "loja": "hostinger",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "black-friday-hostinger",
+   "arquivo": "content/reviews/black-friday-hostinger.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "black-friday-hostinger-pt-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; ajustei o 'depois' para tirar a frase 'a conta deste texto não cobre esse plano' (explica o que o texto não diz) e trocar 'nos testes registrados' por 'no nosso teste', como na FAQ. O resto da proposta (com a divisão do parágrafo do Bruno) fica como veio.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Se você precisa do site no ar esta semana, não espere. Nos planos de 48 meses que conferimos, a campanha com o SONAR20 já é o menor preço.",
+        "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
+        "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner mostra 66% em 03/11, e a conta deste texto não cobre esse plano.",
+        "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo. O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
+       ],
+       "depois": [
+        "Se precisa colocar o site no ar esta semana, compare o total disponível agora, com e sem SONAR20, e o preço de renovação. O código reduziu o preço da campanha no nosso teste; isso não garante que o valor será o menor até o fim da Black Friday.",
+        "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
+        "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner mostra 66% em 03/11.",
+        "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo.",
+        "O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "black-friday-hostinger-pt-g073-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main e o depois deixa claro que a coluna 2 é equivalente mensal e a coluna 4 é o total de 48 meses (5,99 e 4,79 por mês batem com 287,52 e 229,92 na tabela); 'Renovação, sem SONAR20' diz o que a renovação não tem.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/headers",
+       "antes": [
+        "Plano (48 meses)",
+        "Campanha, sem o cupom",
+        "Com o SONAR20",
+        "Total com o SONAR20",
+        "Renovação"
+       ],
+       "depois": [
+        "Plano (48 meses)",
+        "Equivalente mensal da campanha",
+        "Equivalente mensal com SONAR20",
+        "Total inicial com SONAR20 (48 meses)",
+        "Renovação, sem SONAR20"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "black-friday-hostinger-pt-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "rebasear",
+     "motivo": "A main já mudou este parágrafo (data do teste e caveat de plano, campanha e país já estão lá), então o 'antes' da proposta não existe mais; a melhoria que sobra é trocar 'cai para o valor da tabela' (ambíguo com a renovação) por R$ 229,92, o total da linha Single na tabela. Descartei da proposta a frase entre parênteses com R$ 1.535,52 (bastidor) e a ressalva de arredondamento, que repete a última frase.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para o valor da tabela com o SONAR20. Num teste de 29/10/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
+       "depois": "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para R$ 229,92 com o SONAR20. Num teste de 29/10/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-hostinger-ofertas",
+   "arquivo": "content/reviews/black-friday-hostinger-ofertas.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "black-friday-hostinger-ofertas-es-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; tirei a frase que explica o que o texto não diz sobre o VPS e troquei \"na prova registrada\" por \"na nossa prova\", como na FAQ; o subtítulo entra como veio.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Si necesitas el sitio en línea esta semana, no esperes. En los planes de 48 meses que comprobamos, la campaña con SONAR20 ya es el precio más bajo.",
+        "Si puedes esperar, ten en cuenta que la campaña dura hasta mediados de diciembre, pero ningún precio está garantizado hasta entonces. El 20 % de SONAR20 sale del precio de la campaña: si la campaña cambia, el total cambia con ella.",
+        "Para la mayoría de los sitios personales, empresariales y de WordPress, la propia FAQ recomienda el Premium. Hostinger recomienda el Single a quien empieza o tiene proyectos sencillos. Para VPS, haz la cuenta en el carrito: el banner muestra un 67 % el 3 de noviembre, y la cuenta de este texto no cubre ese plan.",
+        "Si ya eres cliente, revisa las ofertas de mejora de tu cuenta: la FAQ dice que los clientes actuales pueden recibir ofertas aparte. SONAR20 también vale para un plan nuevo. Bruno, que se encarga de este sitio, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción. Sus planes son hosting Business, VPS KVM 2, correo y dominios, todos con renovación automática. Em Casa com Cecília funciona en Hostinger."
+       ],
+       "depois": [
+        "Si necesitas el sitio en línea esta semana, compara el total disponible ahora, con y sin SONAR20, y el precio de renovación. El código redujo el precio de la campaña en nuestra prueba; eso no garantiza el precio más bajo hasta el final de la Black Friday.",
+        "Si puedes esperar, ten en cuenta que la campaña dura hasta mediados de diciembre, pero ningún precio está garantizado hasta entonces. El 20 % de SONAR20 sale del precio de la campaña: si la campaña cambia, el total cambia con ella.",
+        "La FAQ de Hostinger recomienda Premium para muchos sitios personales, empresariales y de WordPress. Revisa los planes disponibles en tu región. Para VPS, calcula el total en el carrito: el banner en US$ mostraba un 67% el 3 de noviembre.",
+        "Si ya eres cliente, revisa las ofertas de mejora de tu cuenta: la FAQ dice que los clientes actuales pueden recibir ofertas aparte. SONAR20 también vale para un plan nuevo. Bruno, que se encarga de este sitio, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción. Sus planes son hosting Business, VPS KVM 2, correo y dominios, todos con renovación automática. Em Casa com Cecília funciona en Hostinger."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "La Black Friday de Hostinger ya está en marcha y el código SONAR20 quita un 20 % más al precio de la campaña. Mira la cuenta por plan y la renovación antes de pagar.",
+       "depois": "Black Friday Hostinger 2026 con SONAR20: un 20% adicional sobre el precio de la campaña. Ejemplo probado de Startup y qué revisar del total y la renovación."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-hostinger-offerte",
+   "arquivo": "content/reviews/black-friday-hostinger-offerte.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "black-friday-hostinger-offerte-it-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; tirei a frase que explica o que o texto não diz sobre o VPS e troquei \"na prova registrada\" por \"na nossa prova\", como na FAQ; o subtítulo entra como veio.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Se ti serve il sito online questa settimana, non aspettare. Sui piani da 48 mesi che abbiamo controllato, la campagna con SONAR20 è già il prezzo più basso.",
+        "Se puoi aspettare, tieni presente che la campagna dura fino a metà dicembre, ma nessun prezzo è garantito fino ad allora. Il 20% di SONAR20 si toglie dal prezzo della campagna: se la campagna cambia, cambia anche il totale.",
+        "Per la maggior parte dei siti personali, aziendali e WordPress, la stessa FAQ indica il Premium. Hostinger indica il Single per chi inizia o ha progetti semplici. Per il VPS, fai il conto nel carrello: il banner mostra il 67% il 3 novembre, e il conto di questo testo non copre quel piano.",
+        "Se sei già cliente, controlla le offerte di upgrade del tuo account: la FAQ dice che i clienti attuali possono ricevere offerte separate. SONAR20 vale anche per un piano nuovo. Bruno, che cura questo sito, è cliente di Hostinger dal 2024, con più di 24 mesi di abbonamento. I suoi piani sono hosting Business, VPS KVM 2, e-mail e domini, tutti con rinnovo automatico. Em Casa com Cecília gira su Hostinger."
+       ],
+       "depois": [
+        "Se ti serve il sito online questa settimana, confronta il totale disponibile oggi, con e senza SONAR20, e il prezzo di rinnovo. Il codice ha ridotto il prezzo della campagna nel nostro test; questo non garantisce il prezzo più basso fino alla fine del Black Friday.",
+        "Se puoi aspettare, tieni presente che la campagna dura fino a metà dicembre, ma nessun prezzo è garantito fino ad allora. Il 20% di SONAR20 si toglie dal prezzo della campagna: se la campagna cambia, cambia anche il totale.",
+        "Le FAQ di Hostinger consigliano Premium per molti siti personali, aziendali e WordPress. Controlla i piani disponibili nella tua area. Per il VPS, calcola il totale nel carrello: il banner in US$ mostrava il 67% il 3 novembre.",
+        "Se sei già cliente, controlla le offerte di upgrade del tuo account: la FAQ dice che i clienti attuali possono ricevere offerte separate. SONAR20 vale anche per un piano nuovo. Bruno, che cura questo sito, è cliente di Hostinger dal 2024, con più di 24 mesi di abbonamento. I suoi piani sono hosting Business, VPS KVM 2, e-mail e domini, tutti con rinnovo automatico. Em Casa com Cecília gira su Hostinger."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Il Black Friday di Hostinger è in corso e il codice SONAR20 toglie un altro 20% dal prezzo della campagna. Guarda il conto per piano e il rinnovo prima di pagare.",
+       "depois": "Black Friday Hostinger 2026 con SONAR20: un ulteriore 20% sul prezzo della campagna. Esempio testato su Startup e cosa controllare del totale e del rinnovo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-hostinger-offres",
+   "arquivo": "content/reviews/black-friday-hostinger-offres.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "black-friday-hostinger-offres-fr-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; tirei a frase que explica o que o texto não diz sobre o VPS e troquei \"na prova registrada\" por \"na nossa prova\", como na FAQ; o subtítulo entra como veio.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Si vous avez besoin de votre site en ligne cette semaine, n’attendez pas. Sur les offres en 48 mois que nous avons vérifiées, la campagne avec SONAR20 est déjà le prix le plus bas.",
+        "Si vous pouvez attendre, sachez que la campagne dure jusqu’à la mi-décembre, mais qu’aucun prix n’est garanti d’ici là. Les 20 % de SONAR20 sont retirés du prix de la campagne : si la campagne change, le total change aussi.",
+        "Pour la plupart des sites personnels, professionnels et WordPress, la FAQ elle-même recommande le Premium. Hostinger recommande le Single à ceux qui débutent ou ont des projets simples. Pour un VPS, faites le calcul dans le panier : la bannière affiche 67 % le 3 novembre, et le calcul de cet article ne couvre pas cette offre.",
+        "Si vous êtes déjà client, consultez les offres de mise à niveau de votre compte : la FAQ indique que les clients actuels peuvent recevoir des offres distinctes. SONAR20 vaut aussi pour une nouvelle offre. Bruno, qui s’occupe de ce site, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement. Ses offres sont l’hébergement Business, le VPS KVM 2, la messagerie et les noms de domaine, tous en renouvellement automatique. Em Casa com Cecília tourne sur Hostinger."
+       ],
+       "depois": [
+        "Si vous avez besoin de votre site en ligne cette semaine, comparez le total disponible aujourd’hui avec et sans SONAR20, ainsi que le renouvellement. Le code a réduit le prix de la campagne lors de notre test ; cela ne garantit pas le prix le plus bas jusqu’à la fin du Black Friday.",
+        "Si vous pouvez attendre, sachez que la campagne dure jusqu’à la mi-décembre, mais qu’aucun prix n’est garanti d’ici là. Les 20 % de SONAR20 sont retirés du prix de la campagne : si la campagne change, le total change aussi.",
+        "La FAQ de Hostinger recommande Premium pour de nombreux sites personnels, professionnels et WordPress. Vérifiez les offres disponibles dans votre région. Pour un VPS, calculez le total dans le panier : la bannière en US$ affichait 67 % le 3 novembre.",
+        "Si vous êtes déjà client, consultez les offres de mise à niveau de votre compte : la FAQ indique que les clients actuels peuvent recevoir des offres distinctes. SONAR20 vaut aussi pour une nouvelle offre. Bruno, qui s’occupe de ce site, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement. Ses offres sont l’hébergement Business, le VPS KVM 2, la messagerie et les noms de domaine, tous en renouvellement automatique. Em Casa com Cecília tourne sur Hostinger."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Le Black Friday de Hostinger est en cours et le code SONAR20 retire 20 % de plus sur le prix de la campagne. Voyez le calcul par offre et le renouvellement avant de payer.",
+       "depois": "Black Friday Hostinger 2026 avec SONAR20 : 20 % de réduction supplémentaire sur le prix de la campagne. Exemple testé sur Startup, total et renouvellement à vérifier."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "code-promo-hostinger-parrainage",
+   "arquivo": "content/reviews/code-promo-hostinger-parrainage.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "code-promo-hostinger-parrainage-fr-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida tinha 3 frases e 62 palavras (não 4); ficou em 3 frases e 57 sem perder fato. WordPress tirado: não está na main e não há fonte (só hospedagem e VPS foram testados).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Oui, il y a un code : **SONAR20** donne 20 % de réduction sur la première période de n'importe quel forfait [Hostinger](/fr/coupons/hostinger), mensuel ou annuel, pour un client nouveau ou existant. Collez le code dans le champ de coupon du panier, ou passez par le lien de cet article. Le renouvellement n'a pas de réduction : il est facturé au prix catalogue.",
+       "depois": "Utilisez **SONAR20** pour obtenir 20 % de réduction sur la première période d’un nouvel achat éligible d’un forfait mensuel ou annuel chez [Hostinger](/fr/coupons/hostinger), y compris pour un client existant qui souscrit un nouveau produit. Saisissez le code dans le panier et vérifiez la réduction avant de payer. Le renouvellement est facturé au prix catalogue, sans cette réduction."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Hostinger a-t-il un code promo ? Oui : le code SONAR20 donne 20 % sur la première période de n'importe quel forfait, mensuel ou annuel.",
+       "depois": "Hostinger propose-t-il un code promo ? Oui : SONAR20 donne 20 % sur la première période d’un nouvel achat éligible, en forfait mensuel ou annuel. Les domaines seuls et les renouvellements sont exclus."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/2",
+       "antes": "SONAR20 est-il valable pour un client existant ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %.",
+       "depois": "SONAR20 est-il valable pour les clients existants ? Oui, pour un nouveau forfait ou produit éligible, pas pour renouveler celui que vous avez déjà. Appliquez le code et vérifiez la réduction dans le récapitulatif avant de payer."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+       "depois": "Saisissez SONAR20 dans le champ de code promo et vérifiez les 20 % sur la première période de votre nouvel achat éligible avant de payer. Vous pouvez aussi accéder à Hostinger par notre lien. Le renouvellement est facturé au prix catalogue, sans la réduction du code."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "SONAR20 donne 20 % sur la première période en forfait mensuel ou annuel, pour un client nouveau ou existant. Nous l'avons testé sur le forfait Startup d'hébergement ; il vaut aussi sur le VPS, mais ni sur un domaine seul ni sur le renouvellement. Pour la messagerie et les agents d'IA, vérifiez dans le panier si la réduction apparaît. Un client existant utilise le code sur tout nouveau forfait ou produit : nous l'avons testé sur un ancien compte, et SONAR20 a retiré 20 % d'un nouveau produit, en plus de la réduction de la campagne. Le renouvellement d'un forfait qu'il a déjà est facturé au prix catalogue."
+       ],
+       "depois": [
+        "SONAR20 donne 20 % sur la première période d’un nouvel achat éligible, en forfait mensuel ou annuel. Les clients existants peuvent aussi en bénéficier pour un nouveau produit.",
+        "Le code s’applique à l’hébergement et aux VPS, mais pas aux domaines seuls ni aux renouvellements. Pour la messagerie et les agents d’IA, vérifiez dans le panier si la réduction apparaît.",
+        "Acheter un nouveau produit est différent de renouveler celui que vous avez déjà : le renouvellement se fait au prix catalogue, sans les 20 %."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "code-promo-hostinger-parrainage-fr-g082-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho da main mudou (a data já está no parágrafo); reescrita tira o 'D'après les règles' de bastidor e o 'valable sur tous les forfaits', que contradiz o domínio avulso excluído; a data sai da FAQ e fica uma só no corpo, com ressalva de prazo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "D'après les règles du partenariat, SONAR20 est valable sur tous les forfaits, mensuels et annuels, et aussi pour qui est déjà client d'Hostinger. Le 29 octobre 2026, nous l'avons testé dans le panier : avec le code dans le champ « Have a coupon code? » du site global, le forfait Startup de 48 mois est passé de 383,52 USD à 306,82 USD. Lors du test, les 20 % ont été retirés du prix du Black Friday, et le code a fonctionné seul, sans le lien.",
+       "depois": "Lors du test du 29 octobre 2026 sur le site global, SONAR20 dans le champ « Have a coupon code? » a fait passer le forfait Startup de 48 mois de 383,52 USD à 306,82 USD. Les 20 % ont été retirés du prix du Black Friday et le code a fonctionné sans le lien. Ce sont les prix de ce test, pas un devis actuel."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "SONAR20 est-il valable pendant le Black Friday ? Oui : lors du test dans le panier, les 20 % ont été retirés du prix de la campagne.",
+       "depois": "SONAR20 est-il valable pendant le Black Friday ? Oui : lors du test dans le panier, les 20 % ont été retirés du prix de la campagne. Pour un achat aujourd’hui, appliquez SONAR20 et vérifiez le total avant de payer."
+      }
+     ]
+    },
+    {
+     "id": "code-promo-hostinger-parrainage-fr-g082-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; tira a regra do link (12 meses ou mais, cliente novo) que o parecer deixa pendente, sem criar regra nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "Le lien de cet article reste valable, avec ses propres règles : forfaits de 12 mois ou plus, pour un nouveau client. Dans les autres cas, utilisez le code. Nous ne citons pas les codes d'autres sites.",
+       "depois": "Vous pouvez aussi accéder à Hostinger par le lien de cet article. Dans le panier, vérifiez la réduction, la durée souscrite et le total avant de payer. Si SONAR20 n’est pas appliqué, saisissez-le dans le champ de code promo.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "coupon-hostinger-codice-invito",
+   "arquivo": "content/reviews/coupon-hostinger-codice-invito.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "coupon-hostinger-codice-invito-it-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida tinha 3 frases e 54 palavras (não 4); ficou em 3 frases e 55, sem o trecho do link e sem perder fato. WordPress tirado: não está na main e não há fonte (só hospedagem e VPS foram testados).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Sì, c'è un coupon: il codice **SONAR20** dà il 20% di sconto sul primo periodo di qualsiasi piano [Hostinger](/it/coupons/hostinger), mensile o annuale, per cliente nuovo o già esistente. Incolla il codice nel campo coupon del carrello, oppure entra dal link di questo articolo. Il rinnovo non ha sconto: si paga al prezzo di listino.",
+       "depois": "Usa **SONAR20** per ottenere il 20% sul primo periodo di un nuovo acquisto idoneo, con piano mensile o annuale, su [Hostinger](/it/coupons/hostinger), anche per chi è già cliente e acquista un nuovo prodotto. Inserisci il codice nel carrello e verifica lo sconto prima di pagare. Il rinnovo si paga al prezzo di listino, senza questo sconto."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Hostinger ha un coupon? Sì: il codice SONAR20 dà il 20% sul primo periodo di qualsiasi piano, mensile o annuale.",
+       "depois": "Hostinger ha un coupon? Sì: SONAR20 dà il 20% sul primo periodo di un nuovo acquisto idoneo, con piano mensile o annuale. Domini singoli e rinnovi sono esclusi."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/2",
+       "antes": "SONAR20 vale per chi è già cliente? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%.",
+       "depois": "SONAR20 vale per chi è già cliente? Sì, per acquistare un nuovo piano o prodotto idoneo, non per rinnovarne uno già in uso. Applica il codice e verifica lo sconto nel riepilogo prima di pagare."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+       "depois": "Inserisci SONAR20 nel campo coupon e controlla il 20% sul primo periodo del nuovo acquisto idoneo prima di pagare. Puoi anche accedere a Hostinger tramite il nostro link. Il rinnovo si paga al prezzo di listino, senza lo sconto del codice."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "SONAR20 dà il 20% sul primo periodo con piano mensile o annuale, per cliente nuovo o già esistente. Vale sui piani di hosting e sul VPS; sul dominio singolo e sul rinnovo non vale. Per e-mail e agenti IA, controlla nel carrello se lo sconto compare. Chi è già cliente usa il codice su qualsiasi piano o prodotto nuovo: l'abbiamo testato su un account vecchio, e SONAR20 ha tolto il 20% da un prodotto nuovo, sopra lo sconto della campagna. Il rinnovo di un piano che hai già si paga al prezzo di listino."
+       ],
+       "depois": [
+        "SONAR20 dà il 20% sul primo periodo di un nuovo acquisto idoneo, con piano mensile o annuale. Anche chi ha già un account può usarlo per un prodotto nuovo.",
+        "Il codice vale per hosting e VPS, non per domini singoli e rinnovi. Per e-mail e agenti IA, verifica nel carrello se compare lo sconto.",
+        "Acquistare un prodotto nuovo è diverso dal rinnovare quello che hai già: il rinnovo si paga al prezzo di listino, senza il 20%."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "coupon-hostinger-codice-invito-it-g082-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho da main mudou (a data já está no parágrafo); reescrita tira o 'D'après les règles' de bastidor e o 'valable sur tous les forfaits', que contradiz o domínio avulso excluído; a data sai da FAQ e fica uma só no corpo, com ressalva de prazo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "Secondo le regole della partnership, SONAR20 vale su tutti i piani, mensili e annuali, e anche per chi è già cliente Hostinger. Il 29 ottobre 2026 lo abbiamo testato nel carrello: con il codice nel campo «Have a coupon code?» del sito globale, il piano Startup da 48 mesi è passato da 383,52 USD a 306,82 USD. Nel test, il 20% è stato tolto dal prezzo del Black Friday e il codice ha funzionato da solo, senza il link.",
+       "depois": "Nel test del 29 ottobre 2026 sul sito globale, SONAR20 nel campo «Have a coupon code?» ha portato il piano Startup da 48 mesi da 383,52 USD a 306,82 USD. Il 20% è stato tolto dal prezzo del Black Friday e il codice ha funzionato senza il link. Sono i prezzi di quel test, non un preventivo attuale."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "SONAR20 vale durante il Black Friday? Sì: nel test nel carrello, il 20% è stato tolto dal prezzo della campagna.",
+       "depois": "SONAR20 vale durante il Black Friday? Sì: nel test nel carrello, il 20% è stato tolto dal prezzo della campagna. Per un acquisto di oggi, applica SONAR20 e controlla il totale prima di pagare."
+      }
+     ]
+    },
+    {
+     "id": "coupon-hostinger-codice-invito-it-g082-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; tira a regra do link (12 meses ou mais, cliente novo) que o parecer deixa pendente, sem criar regra nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "Il link di questo articolo resta valido, con le sue regole: piani da 12 mesi o più, per cliente nuovo. Negli altri casi, usa il codice. Non citiamo codici di altri siti.",
+       "depois": "Puoi anche accedere a Hostinger tramite il link di questo articolo. Nel carrello, controlla sconto, durata e totale prima di pagare. Se SONAR20 non è applicato, inseriscilo nel campo coupon.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "creador-ia-hostinger-vale-la-pena",
+   "arquivo": "content/reviews/creador-ia-hostinger-vale-la-pena.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "creador-ia-hostinger-vale-la-pena-es-g128-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main. O depois respeita a regra de compra nova (renovação e domínio fora). Ajuste: o artigo escreve 20 % com espaço antes do símbolo, e o depois usava 20%; normalizado para 20 %.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/6",
+       "antes": "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento.",
+       "depois": "¿Un cliente existente de Hostinger puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. Da un 20 % en el primer periodo; el registro de dominio también queda fuera. Comprueba el total del carrito."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. La regla completa y los demás productos están en [cupones de Hostinger](/es/coupons/hostinger).",
+       "depois": "Introduce **SONAR20** en el carrito para un 20 % en el primer periodo de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera. Revisa el producto y el total antes de pagar. Condiciones en [cupones de Hostinger](/es/coupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "¿Hay cupón para el creador con IA de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer periodo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+       "depois": "¿Hay cupón para el creador con IA de Hostinger? Usa SONAR20 para un 20 % en el primer periodo de una compra nueva elegible. Comprueba la suscripción y los servicios incluidos en el carrito; registro de dominio y renovación quedan fuera."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+       "depois": "Introduce SONAR20 en el carrito para un 20 % en el primer periodo de una compra nueva elegible. Registro de dominio y renovación quedan fuera; comprueba producto y total antes de pagar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "createur-ia-hostinger-avis",
+   "arquivo": "content/reviews/createur-ia-hostinger-avis.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "createur-ia-hostinger-avis-fr-g128-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main. O depois respeita a regra de compra nova. Ajuste: o artigo usa apóstrofo reto em todo o texto e o depois trazia apóstrofo curvo; normalizado para o reto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/6",
+       "antes": "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction.",
+       "depois": "Un client Hostinger existant peut-il utiliser SONAR20 ? Il peut s'appliquer à un nouvel achat éligible avec le même compte, pas au renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. La règle complète et les autres produits sont dans [codes promo Hostinger](/fr/coupons/hostinger).",
+       "depois": "Saisissez **SONAR20** au panier : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Enregistrement de domaine et renouvellement sont exclus. Vérifiez le produit et le total avant de payer. Conditions sur [codes promo Hostinger](/fr/coupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Existe-t-il un code promo pour le créateur IA de Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+       "depois": "Existe-t-il un code pour le créateur IA Hostinger ? Utilisez SONAR20 pour 20 % sur la première période d'un nouvel achat éligible. Vérifiez l'abonnement et les services inclus au panier ; enregistrement de domaine et renouvellement sont exclus."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+       "depois": "Saisissez SONAR20 au panier pour 20 % sur la première période d'un nouvel achat éligible. Enregistrement de domaine et renouvellement sont exclus ; vérifiez le produit et le total avant de payer."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "creatore-ia-hostinger-conviene",
+   "arquivo": "content/reviews/creatore-ia-hostinger-conviene.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "creatore-ia-hostinger-conviene-it-g128-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main. O depois respeita a regra de compra nova. Ajuste: o artigo usa apóstrofo reto em todo o texto e o depois trazia apóstrofo curvo (C’è); normalizado para o reto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/6",
+       "antes": "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto.",
+       "depois": "Un cliente Hostinger esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, con piano mensile o annuale, per i clienti nuovi o esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. La regola completa e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger).",
+       "depois": "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi. Controlla prodotto e totale prima di pagare. Condizioni in [coupon Hostinger](/it/coupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "C'è un coupon per l'AI Builder di Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+       "depois": "C'è un coupon per il builder IA Hostinger? Usa SONAR20 per il 20% sul primo periodo di un nuovo acquisto idoneo. Controlla abbonamento e servizi inclusi nel carrello; registrazione di dominio e rinnovo sono esclusi."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+       "depois": "Inserisci SONAR20 nel carrello per il 20% sul primo periodo di un nuovo acquisto idoneo. Registrazione di dominio e rinnovo sono esclusi; controlla prodotto e totale prima di pagare."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "cupom-hostinger-indicacao",
+   "arquivo": "content/reviews/cupom-hostinger-indicacao.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "cupom-hostinger-indicacao-pt-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Texto do auditor confere com a main, mas a resposta rápida ficou com 4 frases, o 05/11/2026 da seção 'Plano mensal' não tem fonte (couponsData só registra 29/10) e somaria uma 3ª data ao corpo; ajustado sem a data e em 3 frases.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Tem cupom: o código **SONAR20** dá 20% de desconto no primeiro período de qualquer plano da [Hostinger](/cupons/hostinger), mensal ou anual, para cliente novo ou antigo. Cole o código no campo \"Tem um cupom de desconto?\" do carrinho, ou entre pelo link deste artigo. A renovação não tem desconto: sai pelo preço de tabela.",
+       "depois": "Use **SONAR20** para ter 20% de desconto no primeiro período de uma compra nova elegível na [Hostinger](/cupons/hostinger), em plano mensal ou anual, inclusive para quem já é cliente. Cole o código no campo \"Tem um cupom de desconto?\" do carrinho e confira o abatimento antes de pagar. A renovação sai pelo preço de tabela, sem esse desconto."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/0",
+       "antes": "Hostinger tem cupom? Tem: o código SONAR20 dá 20% no primeiro período de qualquer plano, mensal ou anual.",
+       "depois": "Hostinger tem cupom? Sim: SONAR20 dá 20% no primeiro período de uma compra nova elegível, em plano mensal ou anual. Não vale para domínio avulso nem renovação."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "O SONAR20 vale para quem já é cliente? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%.",
+       "depois": "O SONAR20 vale para quem já é cliente? Sim, na contratação de um plano ou produto novo elegível, não na renovação do que você já tem. Aplique o código e confira o desconto no resumo antes de pagar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+       "depois": "Use SONAR20 no campo de cupom e confira os 20% no primeiro período da compra nova elegível antes de pagar. Você também pode acessar a Hostinger pelo nosso link. A renovação sai pelo preço de tabela, sem o desconto do código."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "O SONAR20 dá 20% no primeiro período em plano mensal ou anual, para cliente novo ou antigo. O código vale no VPS; no domínio avulso e na renovação, não vale. No e-mail e nos agentes de IA, confira no carrinho se o desconto aparece. Quem já é cliente usa o código em qualquer plano ou produto novo: testamos numa conta antiga, e o SONAR20 tirou 20% de um produto novo, por cima do desconto da campanha. A renovação de um plano que você já tem sai pelo preço de tabela."
+       ],
+       "depois": [
+        "O SONAR20 dá 20% no primeiro período de uma compra nova elegível, em plano mensal ou anual, inclusive para quem já tem conta e contrata um produto novo. Vale em todos os planos; não vale para domínio avulso nem renovação.",
+        "No e-mail e nos agentes de IA, confira no carrinho se o desconto aparece. No teste em uma conta antiga, o SONAR20 tirou 20% de um produto novo, sobre o desconto da campanha.",
+        "Contratar um produto novo é diferente de renovar o que você já tem: a renovação sai pelo preço de tabela, sem os 20%."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/metaDescription",
+       "antes": "O SONAR20 dá 20% OFF na Hostinger em toda compra nova, em plano mensal ou anual, também para quem já é cliente. Veja onde colar o código no carrinho.",
+       "depois": "SONAR20: 20% no primeiro período de compra nova elegível na Hostinger, mensal ou anual, inclusive para clientes atuais. Veja como aplicar e a renovação."
+      }
+     ]
+    },
+    {
+     "id": "cupom-hostinger-indicacao-pt-g082-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; tira a regra do link (12 meses ou mais, novo cliente) que o parecer deixa pendente, sem criar regra nova e sem data.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "O link deste artigo continua valendo, com as regras dele: planos de 12 meses ou mais, para cliente novo. Nos outros casos, use o código. Não citamos códigos de outros sites.",
+       "depois": "Você também pode acessar a Hostinger pelo link deste artigo. No carrinho, confira o desconto, o período contratado e o total antes de pagar. Se SONAR20 não estiver aplicado, use o campo de cupom."
+      }
+     ]
+    },
+    {
+     "id": "cupom-hostinger-indicacao-pt-g082-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a data 19/10/2026 fica só na frase acima da tabela, e os cabeçalhos separam equivalente mensal de total sem data nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs/0",
+       "antes": "O SONAR20 tira 20% do preço da campanha; a tabela mostra o total de cada plano. Os preços são os que a Hostinger mostrava em 19/10/2026, em reais e por mês, e podem mudar a qualquer momento.",
+       "depois": "A tabela reúne os preços mostrados em 19/10/2026 no site brasileiro. Os valores por mês são equivalentes mensais do período contratado; os totais com SONAR20 aparecem entre parênteses. Não são uma cotação atual: confira o total e a renovação no carrinho antes de pagar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/headers",
+       "antes": [
+        "Plano",
+        "48 meses sem o cupom",
+        "48 meses com o SONAR20",
+        "12 meses com o SONAR20",
+        "Renovação (preço padrão)"
+       ],
+       "depois": [
+        "Plano",
+        "48 meses sem SONAR20 — equivalente mensal",
+        "48 meses com SONAR20 — equivalente mensal e total",
+        "12 meses com SONAR20 — equivalente mensal e total",
+        "Renovação sem SONAR20 — equivalente mensal"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "cupon-hostinger-codigo-de-referido",
+   "arquivo": "content/reviews/cupon-hostinger-codigo-de-referido.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "cupon-hostinger-codigo-de-referido-es-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida tinha 3 frases e 56 palavras (não 4); ficou em 3 frases e 59, sem perder fato. WordPress tirado: não está na main e não há fonte (só hospedagem e VPS foram testados).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Sí hay cupón: el código **SONAR20** da 20% de descuento en el primer período de cualquier plan de [Hostinger](/es/coupons/hostinger), mensual o anual, para cliente nuevo o antiguo. Pega el código en el campo de cupón del carrito, o entra por el enlace de este artículo. La renovación no tiene descuento: se cobra al precio de lista.",
+       "depois": "Usa **SONAR20** para obtener un 20% de descuento en el primer período de una compra nueva elegible con plan mensual o anual en [Hostinger](/es/coupons/hostinger), también para quien ya es cliente y contrata un producto nuevo. Introduce el código en el carrito y revisa el descuento antes de pagar. La renovación se cobra al precio de lista, sin ese descuento."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "¿Hostinger tiene cupón? Sí: el código SONAR20 da 20% en el primer período de cualquier plan, mensual o anual.",
+       "depois": "¿Hostinger tiene cupón? Sí: SONAR20 da un 20% en el primer período de una compra nueva elegible, en plan mensual o anual. No se aplica a dominios sueltos ni renovaciones."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/2",
+       "antes": "¿El SONAR20 vale para quien ya es cliente? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %.",
+       "depois": "¿SONAR20 vale para clientes actuales? Sí, al contratar un plan o producto nuevo elegible, no al renovar uno que ya tienes. Aplica el código y revisa el descuento en el resumen antes de pagar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+       "depois": "Introduce SONAR20 en el campo de cupón y comprueba el 20% en el primer período de tu compra nueva elegible antes de pagar. También puedes acceder a Hostinger por nuestro enlace. La renovación se cobra al precio de lista, sin el descuento del código."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "El SONAR20 da 20% en el primer período en plan mensual o anual, para cliente nuevo o antiguo. Probamos solo el plan Startup de hosting; en correo y agentes de IA, revisa en el carrito si aparece el descuento. El código vale en el VPS; en el dominio suelto y en la renovación, no. Quien ya es cliente usa el código en cualquier plan o producto nuevo: probamos en una cuenta antigua, y el SONAR20 quitó 20 % de un producto nuevo, además del descuento de la campaña. La renovación de un plan que ya tienes se cobra al precio de lista."
+       ],
+       "depois": [
+        "SONAR20 da un 20% en el primer período de una compra nueva elegible, en plan mensual o anual. También puede usarlo quien ya tiene cuenta y contrata un producto nuevo.",
+        "El código se aplica al hosting y al VPS; no a un dominio suelto ni a la renovación. Para correo y agentes de IA, comprueba en el carrito si aparece el descuento.",
+        "Comprar un producto nuevo es distinto de renovar el que ya tienes: la renovación se cobra al precio de lista, sin el 20%."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "cupon-hostinger-codigo-de-referido-es-g082-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho da main mudou (a data já está no parágrafo); reescrita tira o 'D'après les règles' de bastidor e o 'valable sur tous les forfaits', que contradiz o domínio avulso excluído; a data sai da FAQ e fica uma só no corpo, com ressalva de prazo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "Según las reglas de la alianza, el SONAR20 vale en todos los planes, mensuales y anuales, y también para quien ya es cliente de Hostinger. El 29 de octubre de 2026 lo probamos en el carrito: con el código en el campo «Have a coupon code?» del sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82. En la prueba, el 20% se descontó del precio del Black Friday y el código funcionó solo, sin el enlace.",
+       "depois": "En la prueba del 29 de octubre de 2026 en el sitio global, SONAR20 en el campo «Have a coupon code?» redujo el Startup de 48 meses de US$ 383,52 a US$ 306,82. El 20% se descontó del precio de Black Friday y el código funcionó sin el enlace. Son los precios de esa prueba, no una cotización actual."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "¿El SONAR20 vale en Black Friday? Sí: en la prueba en el carrito, el 20% se descontó del precio de la campaña.",
+       "depois": "¿El SONAR20 vale en Black Friday? Sí: en la prueba en el carrito, el 20% se descontó del precio de la campaña. Para una compra de hoy, aplica SONAR20 y revisa el total antes de pagar."
+      }
+     ]
+    },
+    {
+     "id": "cupon-hostinger-codigo-de-referido-es-g082-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; tira a regra do link (12 meses ou mais, cliente novo) que o parecer deixa pendente, sem criar regra nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "El enlace de este artículo sigue valiendo, con sus propias reglas: planes de 12 meses o más, para cliente nuevo. En los demás casos, usa el código. No citamos códigos de otros sitios.",
+       "depois": "También puedes acceder a Hostinger por el enlace de este artículo. En el carrito, revisa el descuento, el período contratado y el total antes de pagar. Si SONAR20 no está aplicado, introdúcelo en el campo de cupón.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-ai-builder-ja",
+   "arquivo": "content/reviews/hostinger-ai-builder-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "hostinger-ai-builder-ja-ja-g128-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (4 trechos, verificados por script). O depois deixa SONAR20 só em compra nova elegível, com renovação e domínio fora, sem data, sem jurídico e sem bastidor, como nas versões pt e en.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/6",
+       "antes": "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。",
+       "depois": "既存ユーザーもSONAR20を使える？ 同じアカウントでも対象の新規購入には使える場合がありますが、現在のサービスの更新には使えません。初回契約期間が20%割引で、ドメイン登録も対象外です。カートの総額を確認してください。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "カートのクーポン欄にコード **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 引き**で、月額・年額どちらのプランでも、新規のお客様も既存のお客様も対象です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。すべての規則とほかの製品は [Hostinger のクーポンページ](/ja/coupons/hostinger)にあります。",
+       "depois": "対象の新規購入の初回契約期間を20%割引にするには、カートで**SONAR20**を入力します。既存アカウントでも対象になります。ドメイン登録と更新は対象外です。支払う前に商品と総額を確認してください。条件は [Hostinger のクーポンページ](/ja/coupons/hostinger)。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Hostinger の AI Builder にクーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 引きになります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+       "depois": "HostingerのAIビルダーにクーポンはある？ SONAR20で対象の新規購入の初回契約期間が20%割引になります。カートで契約と含まれるサービスを確認してください。ドメイン登録と更新は対象外です。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+       "depois": "対象の新規購入の初回契約期間を20%割引にするには、カートでSONAR20を入力してください。ドメイン登録と更新は対象外です。支払う前に商品と総額を確認しましょう。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-ai-builder-ko",
+   "arquivo": "content/reviews/hostinger-ai-builder-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "hostinger-ai-builder-ko-ko-g128-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (4 trechos, verificados por script). O depois deixa SONAR20 só em compra nova elegível, com renovação e domínio fora, sem data, sem jurídico e sem bastidor, como nas versões pt e en.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/6",
+       "antes": "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다.",
+       "depois": "기존 Hostinger 고객도 SONAR20을 쓸 수 있나요? 같은 계정의 대상 신규 구매에는 적용될 수 있지만 현재 서비스 갱신에는 적용되지 않습니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월간과 연간 플랜 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 전체 규칙과 다른 제품은 [Hostinger 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다.",
+       "depois": "대상 신규 구매의 첫 계약 기간 20% 할인을 받으려면 장바구니에 **SONAR20**을 입력하세요. 기존 계정도 대상이 될 수 있습니다. 도메인 등록과 갱신은 제외됩니다. 결제 전에 상품과 총액을 확인하세요. 조건은 [Hostinger 쿠폰 페이지](/ko/coupons/hostinger).",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Hostinger의 AI Builder에 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간이 20% 할인됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+       "depois": "Hostinger AI 빌더 쿠폰이 있나요? SONAR20으로 대상 신규 구매의 첫 계약 기간에 20% 할인을 받을 수 있습니다. 장바구니에서 구독과 포함 서비스를 확인하세요. 도메인 등록과 갱신은 제외됩니다.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+       "depois": "대상 신규 구매 첫 계약 기간의 20% 할인을 받으려면 장바구니에 SONAR20을 입력하세요. 도메인 등록과 갱신은 제외됩니다. 결제 전에 상품과 총액을 확인하세요.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-ai-builder-worth-it",
+   "arquivo": "content/reviews/hostinger-ai-builder-worth-it.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "hostinger-ai-builder-worth-it-en-g128-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main e o conteúdo respeita a regra de compra nova (renovação e domínio fora). Ajuste: o depois do FAQ 'coupon' usava apóstrofo curvo (Hostinger’s) enquanto o restante do en usa apóstrofo reto; normalizado. Os demais trechos seguem como propostos.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/6",
+       "antes": "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount.",
+       "depois": "Can existing Hostinger customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Use the code **SONAR20** in the cart's coupon field, or use this article's link: it's **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. The full rule and the other products are in [Hostinger coupons](/en/coupons/hostinger).",
+       "depois": "Enter **SONAR20** in the cart for 20% off the first term of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded. Check the product and total before paying. Conditions at [Hostinger coupons](/en/coupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Is there a coupon for Hostinger's AI Builder? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+       "depois": "Is there a coupon for Hostinger's AI Builder? Use SONAR20 for 20% off the first term of an eligible new purchase. Check the subscription and included services in the cart; domain registration and renewal are excluded."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+       "depois": "Enter SONAR20 in the cart for 20% off the first term of an eligible new purchase. Domain registration and renewal are excluded; check the product and total before paying."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-ai-builder-zh-hans",
+   "arquivo": "content/reviews/hostinger-ai-builder-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "hostinger-ai-builder-zh-hans-zh-hans-g128-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (4 trechos, verificados por script). O depois deixa SONAR20 só em compra nova elegível, com renovação e domínio fora, sem data, sem jurídico e sem bastidor, como nas versões pt e en.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/6",
+       "antes": "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。",
+       "depois": "已有客户也能用SONAR20吗？同一账户符合资格的新购可适用，但当前服务的续费不适用。首个合同期间折扣20%，域名注册也除外。请确认购物车总额。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：**首个周期享 20% 折扣**，月付或年付的套餐都可以，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
+       "depois": "符合资格的新购首个合同期间可折扣20%，请在购物车输入**SONAR20**，已有账户也可适用。域名注册与续费除外，付款前确认商品与总额。条件见 [Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Hostinger 的 AI Builder 有优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+       "depois": "Hostinger AI建站工具有优惠码吗？SONAR20适用于符合资格的新购首个合同期间，折扣20%。请在购物车确认订阅与内含服务；域名注册与续费除外。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+       "depois": "在购物车输入SONAR20，符合资格的新购首个合同期间可享20%折扣。域名注册与续费除外，付款前确认商品与总额。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-ai-builder-zh-hant",
+   "arquivo": "content/reviews/hostinger-ai-builder-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "hostinger-ai-builder-zh-hant-zh-hant-g128-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (4 trechos, verificados por script). O depois deixa SONAR20 só em compra nova elegível, com renovação e domínio fora, sem data, sem jurídico e sem bastidor, como nas versões pt e en.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/6",
+       "antes": "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。",
+       "depois": "舊客戶也能用SONAR20嗎？同一帳號符合資格的新購可適用，但目前服務的續約不適用。首個合約期間折扣20%，網域註冊也除外。請確認購物車總額。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "在購物車的優惠碼欄位輸入 **SONAR20**，或從本文連結進入：**首期享 20% 折扣**，月付或年付方案都可以，新客戶和舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
+       "depois": "符合資格的新購首個合約期間可折扣20%，請在購物車輸入**SONAR20**，已有帳號也可適用。網域註冊與續約除外，付款前確認商品與總額。條件見 [Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+       "depois": "Hostinger AI建站工具有優惠碼嗎？SONAR20適用於符合資格的新購首個合約期間，折扣20%。請在購物車確認訂閱與內含服務；網域註冊與續約除外。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+       "depois": "在購物車輸入SONAR20，符合資格的新購首個合約期間可享20%折扣。網域註冊與續約除外，付款前確認商品與總額。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-black-friday",
+   "arquivo": "content/reviews/hostinger-black-friday.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "hostinger-black-friday-en-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; ajustei o 'depois' para tirar 'this article does not provide a tested VPS total' (meta-comentário sobre o que o texto não diz) e trocar 'recorded test' por 'our test', como na FAQ da própria página. A descrição entra como veio.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "If you need your site online this week, don't wait. On the 48-month plans we checked, the campaign with SONAR20 is already the lowest price.",
+        "If you can wait, keep in mind that the campaign runs until mid-December, but no price is guaranteed until then. The 20% from SONAR20 comes off the campaign price: if the campaign changes, the total changes with it.",
+        "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner shows 67% on November 3, and the math in this article does not cover that plan.",
+        "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan. Bruno, who runs this site, has been a Hostinger customer since 2024, with more than 24 months of subscription. His plans are Business hosting, VPS KVM 2, email and domains, all with automatic renewal. Em Casa com Cecília runs on Hostinger."
+       ],
+       "depois": [
+        "If you need your site online this week, compare today’s total with and without SONAR20, plus the renewal price. In our test, the code reduced the campaign price, but that does not guarantee the lowest price through the end of Black Friday.",
+        "If you can wait, keep in mind that the campaign runs until mid-December, but no price is guaranteed until then. The 20% from SONAR20 comes off the campaign price: if the campaign changes, the total changes with it.",
+        "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner shows 67% on November 3.",
+        "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan.",
+        "Bruno, who runs this site, has been a Hostinger customer since 2024, with more than 24 months of subscription. His plans are Business hosting, VPS KVM 2, email and domains, all with automatic renewal. Em Casa com Cecília runs on Hostinger."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Hostinger's Black Friday is live, and the SONAR20 code takes another 20% off the campaign price. See the math by plan and what changes at renewal before you pay.",
+       "depois": "Hostinger Black Friday 2026 with SONAR20: an extra 20% off the campaign price. See the tested Startup example and what to check about the total and renewal."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-black-friday-angebote",
+   "arquivo": "content/reviews/hostinger-black-friday-angebote.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "hostinger-black-friday-angebote-de-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; tirei a frase que explica o que o texto não diz sobre o VPS e troquei \"na prova registrada\" por \"na nossa prova\", como na FAQ; o subtítulo entra como veio.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "Wenn Sie Ihre Website noch diese Woche online brauchen, warten Sie nicht. Bei den 48-Monats-Tarifen, die wir geprüft haben, ist die Aktion mit SONAR20 schon der niedrigste Preis.",
+        "Wenn Sie warten können, bedenken Sie: Die Aktion läuft bis Mitte Dezember, aber bis dahin ist kein Preis garantiert. Die 20 % von SONAR20 werden vom Aktionspreis abgezogen: Ändert sich die Aktion, ändert sich auch die Summe.",
+        "Für die meisten privaten, geschäftlichen und WordPress-Websites empfiehlt die FAQ selbst den Premium. Hostinger empfiehlt den Single für alle, die gerade anfangen oder einfache Projekte haben. Für VPS rechnen Sie im Warenkorb nach: Das Banner zeigt am 3. November 67 %, und die Rechnung dieses Textes deckt diesen Tarif nicht ab.",
+        "Wenn Sie schon Kunde sind, prüfen Sie die Upgrade-Angebote in Ihrem Konto: Laut FAQ können Bestandskunden gesonderte Angebote erhalten. SONAR20 gilt auch für einen neuen Tarif. Bruno, der diese Website betreut, ist seit 2024 Hostinger-Kunde, mit mehr als 24 Monaten Laufzeit. Seine Tarife sind Business-Hosting, VPS KVM 2, E-Mail und Domains, alle mit automatischer Verlängerung. Em Casa com Cecília läuft bei Hostinger."
+       ],
+       "depois": [
+        "Wenn Ihre Website diese Woche online gehen soll, vergleichen Sie den aktuellen Gesamtbetrag mit und ohne SONAR20 sowie den Verlängerungspreis. In unserem Test senkte der Code den Aktionspreis. Das garantiert keinen Tiefstpreis bis zum Ende des Black Friday.",
+        "Wenn Sie warten können, bedenken Sie: Die Aktion läuft bis Mitte Dezember, aber bis dahin ist kein Preis garantiert. Die 20 % von SONAR20 werden vom Aktionspreis abgezogen: Ändert sich die Aktion, ändert sich auch die Summe.",
+        "Die FAQ von Hostinger empfiehlt Premium für viele private, geschäftliche und WordPress-Websites. Prüfen Sie die in Ihrer Region angebotenen Tarife. Berechnen Sie bei VPS den Gesamtbetrag im Warenkorb: Das US$-Banner zeigte am 3. November 67 % Rabatt.",
+        "Wenn Sie schon Kunde sind, prüfen Sie die Upgrade-Angebote in Ihrem Konto: Laut FAQ können Bestandskunden gesonderte Angebote erhalten. SONAR20 gilt auch für einen neuen Tarif. Bruno, der diese Website betreut, ist seit 2024 Hostinger-Kunde, mit mehr als 24 Monaten Laufzeit. Seine Tarife sind Business-Hosting, VPS KVM 2, E-Mail und Domains, alle mit automatischer Verlängerung. Em Casa com Cecília läuft bei Hostinger."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Der Black Friday von Hostinger läuft bereits, und der Code SONAR20 zieht weitere 20 % vom Aktionspreis ab. Sehen Sie die Rechnung pro Tarif und die Verlängerung vor dem Kauf.",
+       "depois": "Hostinger Black Friday 2026 mit SONAR20: weitere 20 % Rabatt auf den Aktionspreis. Getestetes Startup-Beispiel und Hinweise zu Gesamtbetrag und Verlängerung."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-black-friday-ja",
+   "arquivo": "content/reviews/hostinger-black-friday-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "hostinger-black-friday-ja-ja-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; depois segue a decisão do PT/EN: sem a frase sobre o VPS que o texto não cobre (bastidor), 'nos nossos testes' no lugar de 'registrado', e o Bruno em parágrafo próprio. Mantém a recomendação do Single, como no PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "今週中にサイトを公開したいなら、待たないでください。確認した48か月プランでは、SONAR20を使ったキャンペーン価格がすでに最安です。",
+        "待てる場合も、キャンペーンは12月中旬まで続きますが、それまで価格が保証されるわけではありません。SONAR20の20%はキャンペーン価格から引かれるので、キャンペーンが変われば合計も変わります。",
+        "個人サイト、ビジネスサイト、WordPressサイトの多くには、FAQ自体がPremiumを勧めています。Hostingerは、これから始める人やシンプルなプロジェクトにはSingleを勧めています。VPSはカートで計算してください。バナーは11月3日時点で67%ですが、この記事の計算にはそのプランは含まれていません。",
+        "すでに利用中の場合は、アカウントのアップグレード特典を確認してください。FAQによると、既存のお客様には別のオファーが出ることがあります。SONAR20は新しいプランにも使えます。このサイトを運営するBrunoは、2024年からHostingerを利用していて、契約期間は24か月を超えています。プランはBusinessホスティング、VPS KVM 2、メール、ドメインで、すべて自動更新です。Em Casa com CecíliaもHostingerで動いています。"
+       ],
+       "depois": [
+        "今週中にサイトを公開する必要があるなら、現在の合計をSONAR20の適用前後で比べ、更新料金も確認してください。こちらのテストではキャンペーン価格から割引されましたが、ブラックフライデー終了までの最安値を保証するものではありません。",
+        "待てる場合も、キャンペーンは12月中旬まで続きますが、それまで価格が保証されるわけではありません。SONAR20の20%はキャンペーン価格から引かれるので、キャンペーンが変われば合計も変わります。",
+        "HostingerのFAQは、多くの個人・ビジネス・WordPressサイト向けにPremiumを勧めています。Hostingerは、これから始める人やシンプルなプロジェクトにはSingleを勧めています。お住まいの地域で提供されているプランを確認してください。VPSはカートで合計を計算してください。11月3日の米ドル建てバナーは67%オフでした。",
+        "すでに利用中の場合は、アカウントのアップグレード特典を確認してください。FAQによると、既存のお客様には別のオファーが出ることがあります。SONAR20は新しいプランにも使えます。",
+        "このサイトを運営するBrunoは、2024年からHostingerを利用していて、契約期間は24か月を超えています。プランはBusinessホスティング、VPS KVM 2、メール、ドメインで、すべて自動更新です。Em Casa com CecíliaもHostingerで動いています。"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-black-friday-ko",
+   "arquivo": "content/reviews/hostinger-black-friday-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "hostinger-black-friday-ko-ko-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; depois segue a decisão do PT/EN: sem a frase sobre o VPS que o texto não cobre (bastidor), 'nos nossos testes' no lugar de 'registrado', e o Bruno em parágrafo próprio. Mantém a recomendação do Single, como no PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "이번 주 안에 사이트를 열어야 한다면 기다리지 마세요. 확인한 48개월 요금제에서는 SONAR20을 적용한 캠페인 가격이 이미 가장 낮습니다.",
+        "기다릴 수 있다 해도, 캠페인은 12월 중순까지 이어지지만 그때까지 가격이 보장되지는 않습니다. SONAR20의 20%는 캠페인 가격에서 빠지므로, 캠페인이 바뀌면 합계도 함께 바뀝니다.",
+        "개인 사이트, 기업 사이트, 워드프레스 사이트 대부분에는 FAQ 자체가 Premium을 권합니다. Hostinger는 이제 막 시작하는 사람이나 단순한 프로젝트에는 Single을 권합니다. VPS는 장바구니에서 직접 계산해 보세요. 배너에는 11월 3일 기준 67%라고 나와 있지만, 이 글의 계산은 그 요금제를 다루지 않습니다.",
+        "이미 고객이라면 계정에서 업그레이드 혜택을 확인하세요. FAQ에 따르면 기존 고객에게는 별도 혜택이 제공될 수 있습니다. SONAR20은 새 요금제에도 적용됩니다. 이 사이트를 운영하는 Bruno는 2024년부터 Hostinger 고객이며 구독 기간이 24개월을 넘습니다. 요금제는 Business 호스팅, VPS KVM 2, 이메일, 도메인이고 모두 자동 갱신입니다. Em Casa com Cecília도 Hostinger에서 운영됩니다."
+       ],
+       "depois": [
+        "이번 주 안에 사이트를 열어야 한다면 현재 총액을 SONAR20 적용 전후로 비교하고 갱신 가격도 확인하세요. 저희 테스트에서는 캠페인 가격에서 할인이 적용됐지만, 블랙프라이데이가 끝날 때까지의 최저가를 보장하지는 않습니다.",
+        "기다릴 수 있다 해도, 캠페인은 12월 중순까지 이어지지만 그때까지 가격이 보장되지는 않습니다. SONAR20의 20%는 캠페인 가격에서 빠지므로, 캠페인이 바뀌면 합계도 함께 바뀝니다.",
+        "Hostinger FAQ는 여러 개인·기업·워드프레스 사이트에 Premium을 권합니다. Hostinger는 이제 막 시작하는 사람이나 단순한 프로젝트에는 Single을 권합니다. 거주 지역에서 제공되는 요금제를 확인하세요. VPS는 장바구니에서 총액을 계산하세요. 11월 3일 US$ 배너는 67% 할인이었습니다.",
+        "이미 고객이라면 계정에서 업그레이드 혜택을 확인하세요. FAQ에 따르면 기존 고객에게는 별도 혜택이 제공될 수 있습니다. SONAR20은 새 요금제에도 적용됩니다.",
+        "이 사이트를 운영하는 Bruno는 2024년부터 Hostinger 고객이며 구독 기간이 24개월을 넘습니다. 요금제는 Business 호스팅, VPS KVM 2, 이메일, 도메인이고 모두 자동 갱신입니다. Em Casa com Cecília도 Hostinger에서 운영됩니다."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-black-friday-zh-hans",
+   "arquivo": "content/reviews/hostinger-black-friday-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "hostinger-black-friday-zh-hans-zh-hans-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; depois segue a decisão do PT/EN: sem a frase sobre o VPS que o texto não cobre (bastidor), 'nos nossos testes' no lugar de 'registrado', e o Bruno em parágrafo próprio. Mantém a recomendação do Single, como no PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "如果这周就需要让网站上线，不要等。在我们核对过的 48 个月方案里，活动价加 SONAR20 已经是最低价。",
+        "如果可以等，要知道活动持续到 12 月中旬，但在那之前没有任何价格有保证。SONAR20 的 20% 是从活动价里减的：活动一变，总价也会跟着变。",
+        "对大多数个人、企业和 WordPress 网站，FAQ 本身推荐 Premium。Hostinger 建议刚起步或项目简单的用户选 Single。VPS 请在购物车里自己算：横幅在 11 月 3 日写的是 67%，本文的计算不包含该方案。",
+        "如果你已经是客户，请查看账户里的升级优惠：FAQ 说现有客户可能会收到单独的优惠。SONAR20 也适用于新方案。负责本站的 Bruno 从 2024 年起就是 Hostinger 客户，订阅已超过 24 个月。他的方案有 Business 托管、VPS KVM 2、邮箱和域名，全部自动续费。Em Casa com Cecília 就运行在 Hostinger 上。"
+       ],
+       "depois": [
+        "如果这周就需要让网站上线，请比较当前使用 SONAR20 前后的总价，也看续费价格。在我们的测试中，优惠码确实从活动价里减了一部分，但这不保证到黑色星期五结束前都是最低价。",
+        "如果可以等，要知道活动持续到 12 月中旬，但在那之前没有任何价格有保证。SONAR20 的 20% 是从活动价里减的：活动一变，总价也会跟着变。",
+        "Hostinger FAQ 为许多个人、企业和 WordPress 网站推荐 Premium。Hostinger 建议刚起步或项目简单的用户选 Single。请确认你所在地区提供哪些方案。VPS 请在购物车中计算总价：11 月 3 日的美元版横幅显示 67% 折扣。",
+        "如果你已经是客户，请查看账户里的升级优惠：FAQ 说现有客户可能会收到单独的优惠。SONAR20 也适用于新方案。",
+        "负责本站的 Bruno 从 2024 年起就是 Hostinger 客户，订阅已超过 24 个月。他的方案有 Business 托管、VPS KVM 2、邮箱和域名，全部自动续费。Em Casa com Cecília 就运行在 Hostinger 上。"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-black-friday-zh-hant",
+   "arquivo": "content/reviews/hostinger-black-friday-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "hostinger-black-friday-zh-hant-zh-hant-g073-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main; depois segue a decisão do PT/EN: sem a frase sobre o VPS que o texto não cobre (bastidor), 'nos nossos testes' no lugar de 'registrado', e o Bruno em parágrafo próprio. Mantém a recomendação do Single, como no PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "如果這週就需要讓網站上線，不要等。在我們核對過的 48 個月方案中，活動價加 SONAR20 已經是最低價。",
+        "如果可以等，要知道活動持續到 12 月中旬，但在那之前沒有任何價格有保證。SONAR20 的 20% 是從活動價中扣除的：活動一變，總價也會跟著變。",
+        "對大多數個人、企業與 WordPress 網站，FAQ 本身推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。VPS 請在購物車裡自行計算：橫幅在 11 月 3 日寫的是 67%，本文的計算不包含該方案。",
+        "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。負責本站的 Bruno 自 2024 年起就是 Hostinger 客戶，訂閱已超過 24 個月。他的方案有 Business 代管、VPS KVM 2、電子郵件與網域，全部自動續約。Em Casa com Cecília 就運行在 Hostinger 上。"
+       ],
+       "depois": [
+        "如果這週就需要讓網站上線，請比較目前使用 SONAR20 前後的總價，也看續約價格。在我們的測試中，優惠碼確實從活動價上減了一部分，但這不保證到黑色星期五結束前都是最低價。",
+        "如果可以等，要知道活動持續到 12 月中旬，但在那之前沒有任何價格有保證。SONAR20 的 20% 是從活動價中扣除的：活動一變，總價也會跟著變。",
+        "Hostinger FAQ 為許多個人、企業與 WordPress 網站推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。請確認你所在地區提供哪些方案。VPS 請在購物車計算總價：11 月 3 日的美元版橫幅顯示 67% 折扣。",
+        "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。",
+        "負責本站的 Bruno 自 2024 年起就是 Hostinger 客戶，訂閱已超過 24 個月。他的方案有 Business 代管、VPS KVM 2、電子郵件與網域，全部自動續約。Em Casa com Cecília 就運行在 Hostinger 上。"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-coupon-code-referral",
+   "arquivo": "content/reviews/hostinger-coupon-code-referral.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "hostinger-coupon-code-referral-en-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Texto do auditor confere com a main, mas a resposta rápida ficou com 4 frases; ajustada para 3 frases, sem mudar fato. Demais unidades mantidas como propostas.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. Renewal has no discount: it is charged at the list price.",
+       "depois": "Use **SONAR20** for 20% off the first period of an eligible new purchase at [Hostinger](/en/coupons/hostinger), on a monthly or annual plan, including a new product bought by an existing customer. Enter the code in the cart and check the discount before paying. Renewals are charged at the list price, without this discount."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Does Hostinger have a coupon? Yes: the code SONAR20 gives 20% off the first period of any plan, monthly or annual.",
+       "depois": "Does Hostinger have a coupon? Yes: SONAR20 gives 20% off the first period of an eligible new purchase, on a monthly or annual plan. Standalone domains and renewals are excluded."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/2",
+       "antes": "Does SONAR20 work for existing customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%.",
+       "depois": "Can existing customers use SONAR20? Yes, when buying an eligible new plan or product, rather than renewing one they already have. Apply the code and check the discount in the order summary before paying."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+       "depois": "Enter SONAR20 in the coupon field and check the 20% discount on the first period of your eligible new purchase before paying. You can also visit Hostinger through our link. Renewals are charged at the list price, without the code discount."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "SONAR20 gives 20% off the first period on a monthly or annual plan, for new or existing customers. The code works on VPS and WordPress plans; on a standalone domain and on renewal it does not work. For email and AI agents, check in the cart whether the discount shows up. Existing customers can use the code on any new plan or product: we tested it on an old account, and SONAR20 took 20% off a new product, on top of the campaign discount. The renewal of a plan you already have is charged at the list price."
+       ],
+       "depois": [
+        "SONAR20 gives 20% off the first period of an eligible new purchase on a monthly or annual plan. Existing customers can also qualify when buying a new product.",
+        "The code applies to all plans. Standalone domains and renewals are excluded. For email and AI agents, check whether the discount appears in your cart.",
+        "A new purchase is different from renewing a plan you already have: renewal is charged at the list price, without the 20% discount."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "hostinger-coupon-code-referral-en-g082-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já tem a data (October 29, 2026) no parágrafo e os preços do teste; a melhoria que sobra é a ressalva de que são preços de teste, e a FAQ não repete a data, para manter uma data só no corpo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "Under the partnership rules, SONAR20 is valid on all plans, monthly and annual, and also for people who are already Hostinger customers. On October 29, 2026, we tested it in the cart: with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. In the test, the 20% came off the Black Friday price, and the code worked on its own, without the link.",
+       "depois": "Under the partnership rules, SONAR20 is valid on all plans, monthly and annual, and also for people who are already Hostinger customers. On October 29, 2026, we tested it in the cart: with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. In the test, the 20% came off the Black Friday price, and the code worked on its own, without the link. Those are that test's prices, not a current quote."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "Does SONAR20 work on Black Friday? Yes: in the cart test, the 20% came off the campaign price.",
+       "depois": "Does SONAR20 work on Black Friday? Yes: in the cart test, the 20% came off the campaign price. For a purchase today, apply SONAR20 and check your total before paying."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-coupon-code-referral-en-g082-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; tira a regra do link (12 meses ou mais, novo cliente) que o parecer deixa pendente, sem criar regra nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "This article's link still works, with its own rules: plans of 12 months or more, for new customers. In other cases, use the code. We do not mention codes from other sites.",
+       "depois": "You can also visit Hostinger through the link in this article. In the cart, check the discount, the subscription period and the total before paying. If SONAR20 has not been applied, enter it in the coupon field."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-gutschein-empfehlungscode",
+   "arquivo": "content/reviews/hostinger-gutschein-empfehlungscode.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "hostinger-gutschein-empfehlungscode-de-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida tinha 3 frases e 57 palavras (não 4); ficou em 3 frases e 51, sem perder fato. WordPress tirado: não está na main e não há fonte (só hospedagem e VPS foram testados).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Ja, es gibt einen Gutscheincode: **SONAR20** gibt 20 % Rabatt auf den ersten Zeitraum jedes [Hostinger](/de/coupons/hostinger)-Tarifs, ob monatlich oder jährlich, für Neu- und Bestandskunden. Fügen Sie den Code im Gutscheinfeld des Warenkorbs ein oder gehen Sie über den Link in diesem Artikel. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+       "depois": "Mit **SONAR20** erhalten Sie bei [Hostinger](/de/coupons/hostinger) 20 % Rabatt auf den ersten Abrechnungszeitraum eines berechtigten Neukaufs, bei Monats- oder Jahrestarifen, auch als Bestandskunde beim Kauf eines neuen Produkts. Geben Sie den Code im Warenkorb ein und prüfen Sie den Rabatt vor der Zahlung. Verlängerungen werden ohne diesen Rabatt zum Listenpreis berechnet."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Gibt es bei Hostinger einen Gutschein? Ja: Der Code SONAR20 gibt 20 % auf den ersten Zeitraum jedes Tarifs, ob monatlich oder jährlich.",
+       "depois": "Gibt es einen Hostinger-Gutschein? Ja: SONAR20 gewährt 20 % auf den ersten Abrechnungszeitraum eines berechtigten Neukaufs bei Monats- oder Jahrestarifen. Einzelne Domains und Verlängerungen sind ausgeschlossen."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/2",
+       "antes": "Gilt SONAR20 für Bestandskunden? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %.",
+       "depois": "Gilt SONAR20 für Bestandskunden? Ja, beim Kauf eines berechtigten neuen Tarifs oder Produkts, nicht bei der Verlängerung eines bestehenden. Wenden Sie den Code an und prüfen Sie den Rabatt vor der Zahlung in der Bestellübersicht."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Tragen Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+       "depois": "Geben Sie SONAR20 im Gutscheinfeld ein und prüfen Sie vor der Zahlung die 20 % Rabatt auf den ersten Abrechnungszeitraum Ihres berechtigten Neukaufs. Über unseren Link können Sie Hostinger ebenfalls aufrufen. Verlängerungen werden ohne den Code-Rabatt zum Listenpreis berechnet."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "SONAR20 gibt 20 % auf den ersten Zeitraum bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Beim VPS gilt der Code; bei E-Mail und KI-Agenten prüfen Sie im Warenkorb, ob der Rabatt erscheint. Bei einer einzelnen Domain gilt der Code nicht. Bestandskunden nutzen den Code für jeden neuen Tarif oder jedes neue Produkt: Wir haben ihn mit einem alten Konto getestet, und SONAR20 zog 20 % von einem neuen Produkt ab, zusätzlich zum Rabatt der Aktion. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet."
+       ],
+       "depois": [
+        "SONAR20 gewährt 20 % auf den ersten Abrechnungszeitraum eines berechtigten Neukaufs bei Monats- oder Jahrestarifen. Auch Bestandskunden können ein neues Produkt damit buchen.",
+        "Der Code gilt für Hosting und VPS. Einzelne Domains und Verlängerungen sind ausgeschlossen. Prüfen Sie bei E-Mail und KI-Agenten im Warenkorb, ob der Rabatt angezeigt wird.",
+        "Der Kauf eines neuen Produkts ist von der Verlängerung eines bestehenden Tarifs zu unterscheiden: Die Verlängerung erfolgt ohne die 20 % zum Listenpreis."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "hostinger-gutschein-empfehlungscode-de-g082-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho da main mudou (a data já está no parágrafo); reescrita tira o 'D'après les règles' de bastidor e o 'valable sur tous les forfaits', que contradiz o domínio avulso excluído; a data sai da FAQ e fica uma só no corpo, com ressalva de prazo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "Nach den Regeln der Partnerschaft gilt SONAR20 für alle Tarife, monatlich und jährlich, und auch für Personen, die schon Hostinger-Kunden sind. Am 29. Oktober 2026 haben wir ihn im Warenkorb getestet: Mit dem Code im Feld „Have a coupon code?“ auf der globalen Seite sank der Startup-Tarif mit 48 Monaten von 383,52 USD auf 306,82 USD. Im Test wurden die 20 % vom Black-Friday-Preis abgezogen, und der Code wirkte allein, ohne den Link.",
+       "depois": "Im Test vom 29. Oktober 2026 auf der globalen Website sank der Preis des Startup-Tarifs für 48 Monate mit SONAR20 im Feld „Have a coupon code?“ von 383,52 USD auf 306,82 USD. Die 20 % wurden vom Black-Friday-Preis abgezogen; der Code funktionierte ohne den Link. Das sind die Preise dieses Tests, kein aktuelles Angebot."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "Gilt SONAR20 am Black Friday? Ja: Im Test im Warenkorb wurden die 20 % vom Preis der Aktion abgezogen.",
+       "depois": "Gilt SONAR20 am Black Friday? Ja: Im Test im Warenkorb wurden die 20 % vom Preis der Aktion abgezogen. Wenden Sie SONAR20 für einen heutigen Kauf an und prüfen Sie den Gesamtpreis vor der Zahlung."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-gutschein-empfehlungscode-de-g082-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; tira a regra do link (12 meses ou mais, cliente novo) que o parecer deixa pendente, sem criar regra nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "Der Link in diesem Artikel gilt weiterhin, mit seinen eigenen Regeln: Tarife ab 12 Monaten, für Neukunden. In den übrigen Fällen nutzen Sie den Code. Codes anderer Websites nennen wir nicht.",
+       "depois": "Sie können Hostinger auch über den Link in diesem Artikel aufrufen. Prüfen Sie im Warenkorb Rabatt, Vertragslaufzeit und Gesamtpreis vor der Zahlung. Falls SONAR20 nicht angewendet wurde, tragen Sie ihn im Gutscheinfeld ein.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-horizons-vale-a-pena",
+   "arquivo": "content/reviews/hostinger-horizons-vale-a-pena.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "hostinger-horizons-vale-a-pena-pt-g128-P006",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (4 trechos, seções 7 e 9). O depois tira 'para cliente novo ou antigo' e a referência à coluna, deixa SONAR20 só em compra nova elegível e diz que domínio e renovação ficam fora, sem data, sem jurídico e sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/7",
+       "antes": "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto.",
+       "depois": "O SONAR20 vale para quem já é cliente da Hostinger? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Os preços com os 20% eram os da coluna \"com o SONAR20\" acima. A regra completa e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
+       "depois": "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora. Confira o produto contratado e o total antes de pagar. Condições em [cupons da Hostinger](/cupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/6",
+       "antes": "Tem cupom para o Criador com IA da Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+       "depois": "Tem cupom para o Criador com IA da Hostinger? Use SONAR20 para 20% no primeiro período de uma compra nova elegível. Confira a assinatura e os serviços incluídos no carrinho; registro de domínio e renovação ficam fora."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+       "depois": "Aplique SONAR20 no carrinho para 20% no primeiro período de uma compra nova elegível. Registro de domínio e renovação ficam fora; confira o produto e o total antes de pagar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-ki-builder-lohnt-sich",
+   "arquivo": "content/reviews/hostinger-ki-builder-lohnt-sich.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "hostinger-ki-builder-lohnt-sich-de-g128-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main e o depois respeita a regra de compra nova (Verlängerung e Domain fora), com 20 % e Sie já no padrão do artigo. Sem ajuste.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/6",
+       "antes": "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt.",
+       "depois": "Können Hostinger-Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Die vollständigen Bedingungen und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
+       "depois": "Geben Sie **SONAR20** im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Prüfen Sie Produkt und Gesamtbetrag vor der Zahlung. Bedingungen unter [Hostinger-Gutscheine](/de/coupons/hostinger)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/5",
+       "antes": "Gibt es einen Gutschein für den KI-Builder von Hostinger? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+       "depois": "Gibt es einen Gutschein für Hostingers KI-Builder? Nutzen Sie SONAR20 für 20 % auf die erste Laufzeit eines berechtigten Neukaufs. Prüfen Sie Abonnement und enthaltene Dienste im Warenkorb; Domainregistrierungen und Verlängerungen sind ausgeschlossen."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+       "depois": "Geben Sie SONAR20 im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Prüfen Sie Produkt und Gesamtbetrag vor der Zahlung."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-referral-code-ja",
+   "arquivo": "content/reviews/hostinger-referral-code-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "hostinger-referral-code-ja-ja-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Texto do auditor confere com a main; a resposta rápida tinha 4 a 6 frases e foi reduzida a 3, sem mudar fato, como no PT e no EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "クーポンはあります。コード **SONAR20** で、[Hostinger](/ja/coupons/hostinger)のどのプランでも最初の期間が20%割引になります。月額でも年額でも、新規のお客様も既存のお客様も対象です。カートのクーポン欄にコードを入れるか、この記事のリンクから入ってください。更新に割引はありません。通常料金で更新されます。",
+       "depois": "**SONAR20** は、[Hostinger](/ja/coupons/hostinger)で対象となる新規購入の最初の契約期間を20%割引にするコードです。月額・年額プランが対象で、既存のお客様による新しい商品の購入にも使えます。更新はこの割引なしの通常料金です。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Hostingerにクーポンはありますか？はい。コードSONAR20で、どのプランでも最初の期間が20%割引になります。月額でも年額でも対象です。",
+       "depois": "Hostingerにクーポンはありますか？はい。SONAR20は対象となる新規購入の最初の契約期間を20%割引にします。月額・年額プランが対象で、ドメイン単体と更新は対象外です。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/2",
+       "antes": "SONAR20は既存のお客様も使えますか？はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。",
+       "depois": "SONAR20は既存のお客様も使えますか？ はい。対象となる新しいプランや商品を購入する場合に使えます。すでに契約しているプランの更新は対象外です。支払い前にコードを適用し、注文概要で割引を確認してください。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "カートのクーポン欄に SONAR20 を入力するか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+       "depois": "カートのクーポン欄にSONAR20を入力し、対象となる新規購入の最初の契約期間に20%割引が適用されたことを支払い前に確認してください。当サイトのリンクからHostingerにアクセスすることもできます。更新はコードの割引なしの通常料金です。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "SONAR20は、月額でも年額でも、新規のお客様も既存のお客様も、最初の期間が20%割引になります。検証したのはホスティングのStartupプランだけです。VPSでも使えます。ドメインと更新には使えません。メールとAIエージェントは、カートで割引が出るか確認してください。既存のお客様は、新しいプランや商品にコードを使えます。古いアカウントでテストしたところ、SONAR20はキャンペーン割引の上からさらに、新しい商品を20%引きにしました。すでにお持ちのプランの更新は通常料金で、割引はありません。"
+       ],
+       "depois": [
+        "SONAR20は、対象となる新規購入の最初の契約期間を20%割引にします。月額・年額プランが対象となり、既存のお客様による新しい商品の購入にも使えます。",
+        "コードはホスティング、WordPress、VPSで使えます。ドメイン単体と更新は対象外です。メールとAIエージェントは、カートで割引が表示されるか確認してください。",
+        "新しい商品の購入と、すでに契約しているプランの更新は別です。更新は20%割引なしの通常料金になります。"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "hostinger-referral-code-ja-ja-g082-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já traz a data de 29/10/2026 no parágrafo de cobertura e os preços do teste; sobra a ressalva de preço de teste e a frase sobre a Black Friday, sem repetir a data.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "提携のルールでは、SONAR20は月額・年額を問わずすべてのプランで使え、すでにHostingerを使っている方も対象です。2026年10月29日にカートで検証しました。グローバルサイトで「Have a coupon code?」欄にコードを入れると、48か月のStartupプランは383.52米ドルから306.82米ドルになりました。この検証では、20%はブラックフライデー価格から引かれ、リンクなしでもコードだけで有効でした。",
+       "depois": "提携のルールでは、SONAR20は月額・年額を問わずすべてのプランで使え、すでにHostingerを使っている方も対象です。2026年10月29日にカートで検証しました。グローバルサイトで「Have a coupon code?」欄にコードを入れると、48か月のStartupプランは383.52米ドルから306.82米ドルになりました。この検証では、20%はブラックフライデー価格から引かれ、リンクなしでもコードだけで有効でした。この金額は検証時のもので、現在の見積もりではありません。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "SONAR20はブラックフライデーでも使えますか？はい。カートでの検証では、20%はキャンペーン価格から引かれました。",
+       "depois": "SONAR20はブラックフライデーでも使えますか？はい。カートでの検証では、20%はキャンペーン価格から引かれました。今購入する場合は、SONAR20を適用して支払い前に合計金額を確認してください。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-referral-code-ko",
+   "arquivo": "content/reviews/hostinger-referral-code-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "hostinger-referral-code-ko-ko-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Texto do auditor confere com a main; a resposta rápida tinha 4 a 6 frases e foi reduzida a 3, sem mudar fato, como no PT e no EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "네, 쿠폰이 있습니다. 코드 **SONAR20**은 모든 [Hostinger](/ko/coupons/hostinger) 플랜의 첫 기간에 20%를 할인하며, 월간과 연간 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 장바구니의 쿠폰 입력란에 코드를 넣거나, 이 글의 링크로 들어가세요. 갱신에는 할인이 없고 정가로 청구됩니다.",
+       "depois": "**SONAR20**은 [Hostinger](/ko/coupons/hostinger)의 적용 대상 신규 구매에서 첫 계약 기간에 20%를 할인하는 코드로, 장바구니 쿠폰 칸에 넣고 결제 전에 할인을 확인하세요. 월간·연간 플랜에 모두 적용되며, 기존 고객이 새 제품을 구매할 때도 쓸 수 있습니다. 갱신은 이 할인 없이 정가로 청구되며, 플랜 카드 아래에 표시된 가격이 적용됩니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Hostinger에 쿠폰이 있나요? 네. 코드 SONAR20은 모든 플랜의 첫 기간에 20%를 할인해 줍니다. 월간과 연간 모두 해당합니다.",
+       "depois": "Hostinger에 쿠폰이 있나요? 네. SONAR20은 적용 대상 신규 구매의 첫 계약 기간을 20% 할인합니다. 월간·연간 플랜이 대상이며 도메인 단독 구매와 갱신은 제외됩니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/2",
+       "antes": "SONAR20은 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다.",
+       "depois": "SONAR20은 기존 고객도 쓸 수 있나요? 네. 적용 대상인 새 플랜이나 제품을 구매할 때 쓸 수 있고, 이미 사용 중인 플랜의 갱신에는 적용되지 않습니다. 결제 전에 코드를 적용하고 주문 요약에서 할인을 확인하세요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+       "depois": "장바구니 쿠폰 칸에 SONAR20을 입력하고, 적용 대상 신규 구매의 첫 계약 기간에 20% 할인이 반영됐는지 결제 전에 확인하세요. 저희 링크로 Hostinger에 접속할 수도 있습니다. 갱신은 코드 할인 없이 정가로 청구됩니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "SONAR20은 월간이든 연간이든, 신규 고객이든 기존 고객이든 첫 기간에 20%를 할인해 줍니다. 테스트한 것은 호스팅 Startup 플랜뿐입니다. VPS에도 적용됩니다. 이메일과 AI 에이전트는 장바구니에서 할인이 나타나는지 확인하세요. 도메인 단독 구매와 갱신에는 코드가 적용되지 않습니다. 기존 고객은 모든 신규 플랜과 제품에 코드를 쓸 수 있습니다. 오래된 계정으로 테스트했더니 SONAR20이 새 제품에서 20%를 깎았고, 캠페인 할인에 더해졌습니다. 이미 쓰고 있는 플랜의 갱신은 정가로 청구되며 할인이 없습니다."
+       ],
+       "depois": [
+        "SONAR20은 적용 대상 신규 구매의 첫 계약 기간을 20% 할인합니다. 월간·연간 플랜에 적용될 수 있으며 기존 고객이 새 제품을 구매할 때도 쓸 수 있습니다.",
+        "호스팅, WordPress, VPS에 적용되며 도메인 단독 구매와 갱신은 제외됩니다. 이메일과 AI 에이전트는 장바구니에서 할인이 표시되는지 확인하세요.",
+        "새 제품 구매와 기존 플랜 갱신은 다릅니다. 갱신은 20% 할인 없이 정가로 청구됩니다."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/metaDescription",
+       "antes": "Hostinger 쿠폰 SONAR20: 모든 신규 구매 20% 할인, 월간·연간 플랜, 기존 고객도 가능. 장바구니에서 코드를 넣을 곳을 알려드립니다.",
+       "depois": "Hostinger 쿠폰 SONAR20: 적용 대상 신규 구매의 첫 계약 기간 20% 할인. 월간·연간 플랜과 기존 고객의 새 제품 구매도 가능하며 갱신은 제외됩니다."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-referral-code-ko-ko-g082-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já traz a data de 29/10/2026 no parágrafo de cobertura e os preços do teste; sobra a ressalva de preço de teste e a frase sobre a Black Friday, sem repetir a data.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "제휴 규정상 SONAR20은 월간·연간 모든 플랜에 쓸 수 있고, 이미 Hostinger를 쓰는 고객에게도 적용됩니다. 2026년 10월 29일 장바구니에서 테스트했습니다. 글로벌 사이트의 “Have a coupon code?” 입력란에 코드를 넣자 48개월 Startup 플랜이 383.52달러에서 306.82달러가 되었습니다. 이 테스트에서 20%는 블랙프라이데이 가격에서 빠졌고, 링크 없이 코드만으로도 적용되었습니다.",
+       "depois": "제휴 규정상 SONAR20은 월간·연간 모든 플랜에 쓸 수 있고, 이미 Hostinger를 쓰는 고객에게도 적용됩니다. 2026년 10월 29일 장바구니에서 테스트했습니다. 글로벌 사이트의 “Have a coupon code?” 입력란에 코드를 넣자 48개월 Startup 플랜이 383.52달러에서 306.82달러가 되었습니다. 이 테스트에서 20%는 블랙프라이데이 가격에서 빠졌고, 링크 없이 코드만으로도 적용되었습니다. 당시 테스트 가격이며 현재 견적은 아닙니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "SONAR20은 블랙프라이데이에도 되나요? 네. 장바구니 테스트에서 20%는 캠페인 가격에서 빠졌습니다.",
+       "depois": "SONAR20은 블랙프라이데이에도 되나요? 네. 장바구니 테스트에서 20%는 캠페인 가격에서 빠졌습니다. 지금 구매한다면 SONAR20을 적용하고 결제 전에 총액을 확인하세요."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-referral-code-zh-hans",
+   "arquivo": "content/reviews/hostinger-referral-code-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "hostinger-referral-code-zh-hans-zh-hans-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Texto do auditor confere com a main; a resposta rápida tinha 4 a 6 frases e foi reduzida a 3, sem mudar fato, como no PT e no EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "有优惠码：代码 **SONAR20** 可在任何 [Hostinger](/zh-hans/coupons/hostinger) 套餐的首个计费周期享 20% 折扣，月付或年付都可以，新老客户均适用。在购物车的优惠码栏输入代码，或从本文的链接进入。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+       "depois": "**SONAR20** 可为 [Hostinger](/zh-hans/coupons/hostinger) 符合条件的新购订单提供首个计费周期 20% 折扣。月付或年付套餐均可适用，已有客户购买新产品也可使用。续费按标价收费，不享受这项折扣。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Hostinger 有优惠码吗？有：优惠码 SONAR20 在任何套餐的首个周期享 20% 折扣，月付或年付都可以。",
+       "depois": "Hostinger 有优惠码吗？ 有。SONAR20 为符合条件的新购订单提供首个计费周期 20% 折扣，月付或年付套餐均可适用。单买域名和续费不适用。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/2",
+       "antes": "SONAR20 现有客户能用吗？能，新购可用：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。",
+       "depois": "SONAR20 现有客户能用吗？ 可以，用于购买符合条件的新套餐或新产品，不适用于续费已有套餐。付款前应用代码，并在订单摘要核对折扣。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+       "depois": "在购物车优惠码栏输入 SONAR20，付款前确认符合条件的新购订单首个计费周期已享 20% 折扣。也可通过我们的链接进入 Hostinger。续费按标价收费，不含代码折扣。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "SONAR20 在月付或年付套餐的首个周期享 20% 折扣，新老客户都适用。VPS 也适用；单买域名和续费不适用。邮箱和 AI 代理请在购物车确认折扣是否出现。现有客户购买任何新套餐或新产品都能用代码：我们在一个老账户上测试过，SONAR20 在一个新产品上减了 20%，叠加在活动折扣之上。已有套餐的续费按标价收费。"
+       ],
+       "depois": [
+        "SONAR20 为符合条件的新购订单提供首个计费周期 20% 折扣，月付或年付套餐均可适用。已有客户购买新产品也可使用。",
+        "代码适用于主机、WordPress 和 VPS，不适用于单买域名和续费。邮箱和 AI 代理请在购物车确认是否显示折扣。",
+        "购买新产品与续费已有套餐是两回事：续费按标价收费，不享受这 20% 折扣。"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "hostinger-referral-code-zh-hans-zh-hans-g082-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já traz a data de 29/10/2026 no parágrafo de cobertura e os preços do teste; sobra a ressalva de preço de teste e a frase sobre a Black Friday, sem repetir a data.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "按合作规则，SONAR20 适用于所有月付和年付套餐，已经是 Hostinger 客户的人也可以用。2026 年 10 月 29 日，我们在购物车里测试过：在全球站的 “Have a coupon code?” 栏输入代码后，48 个月的 Startup 套餐从 383.52 美元降到 306.82 美元。测试中，20% 是从黑色星期五价格上扣的，代码单独就有效，不需要链接。",
+       "depois": "按合作规则，SONAR20 适用于所有月付和年付套餐，已经是 Hostinger 客户的人也可以用。2026 年 10 月 29 日，我们在购物车里测试过：在全球站的 “Have a coupon code?” 栏输入代码后，48 个月的 Startup 套餐从 383.52 美元降到 306.82 美元。测试中，20% 是从黑色星期五价格上扣的，代码单独就有效，不需要链接。这是当时的测试价格，不是当前报价。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "SONAR20 在黑色星期五能用吗？能：购物车测试中，20% 是从活动价上扣的。",
+       "depois": "SONAR20 在黑色星期五能用吗？能：购物车测试中，20% 是从活动价上扣的。如果现在购买，请应用 SONAR20，并在付款前核对总额。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-referral-code-zh-hant",
+   "arquivo": "content/reviews/hostinger-referral-code-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "hostinger-referral-code-zh-hant-zh-hant-g082-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Texto do auditor confere com a main; a resposta rápida tinha 4 a 6 frases e foi reduzida a 3, sem mudar fato, como no PT e no EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "有優惠碼：**SONAR20** 在任何 [Hostinger](/zh-hant/coupons/hostinger) 方案的首期給 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入優惠碼，或從本文連結進入。續訂沒有折扣，按定價計算。",
+       "depois": "**SONAR20** 可為 [Hostinger](/zh-hant/coupons/hostinger) 符合條件的新購訂單提供首期 20% 折扣。月付或年付方案均可適用，現有客戶購買新產品也能使用。續訂按定價計算，不享有這項折扣。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Hostinger 有優惠碼嗎？有：優惠碼 SONAR20 在任何方案的首期享 20% 折扣，月付或年付都可以。",
+       "depois": "Hostinger 有優惠碼嗎？ 有。SONAR20 為符合條件的新購訂單提供首期 20% 折扣，月付或年付方案均可適用。單買網域與續訂不適用。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/2",
+       "antes": "SONAR20 現有客戶能用嗎？可以，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。",
+       "depois": "SONAR20 現有客戶能用嗎？ 可以，用於購買符合條件的新方案或新產品，不適用於續訂已有方案。付款前套用優惠碼，並在訂單摘要核對折扣。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
+       "depois": "在購物車優惠碼欄位輸入 SONAR20，付款前確認符合條件的新購訂單首期已享 20% 折扣。也可透過我們的連結進入 Hostinger。續訂按定價計算，不含優惠碼折扣。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "SONAR20 在月付或年付方案的首期享 20% 折扣，新客戶和舊客戶都適用。我們只測試了 Startup 主機方案；VPS 也適用。電郵和 AI 代理請在購物車確認折扣是否出現；網域單買和續訂不適用 SONAR20。現有客戶購買任何新方案或新產品都能用優惠碼：我們用舊帳號測試過，SONAR20 在新產品上減了 20%，疊加在活動折扣之上。已有方案的續訂按定價計算，沒有折扣。"
+       ],
+       "depois": [
+        "SONAR20 為符合條件的新購訂單提供首期 20% 折扣，月付或年付方案均可適用。現有客戶購買新產品也能使用。",
+        "優惠碼適用於網站主機、WordPress 和 VPS，不適用於單買網域與續訂。電郵和 AI 代理請在購物車確認是否顯示折扣。",
+        "購買新產品與續訂已有方案是兩回事：續訂按定價計算，不享有這 20% 折扣。"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "hostinger-referral-code-zh-hant-zh-hant-g082-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já traz a data de 29/10/2026 no parágrafo de cobertura e os preços do teste; sobra a ressalva de preço de teste e a frase sobre a Black Friday, sem repetir a data.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "依合作規則，SONAR20 適用於所有月付與年付方案，已經是 Hostinger 客戶的人也能用。2026 年 10 月 29 日，我們在購物車實際測試過：在全球站的「Have a coupon code?」欄位輸入優惠碼後，48 個月的 Startup 方案從 383.52 美元降到 306.82 美元。測試中，20% 是從黑色星期五價格扣掉的，優惠碼單獨就有效，不需要連結。",
+       "depois": "依合作規則，SONAR20 適用於所有月付與年付方案，已經是 Hostinger 客戶的人也能用。2026 年 10 月 29 日，我們在購物車實際測試過：在全球站的「Have a coupon code?」欄位輸入優惠碼後，48 個月的 Startup 方案從 383.52 美元降到 306.82 美元。測試中，20% 是從黑色星期五價格扣掉的，優惠碼單獨就有效，不需要連結。這是當時的測試價格，不是目前報價。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "SONAR20 在黑色星期五能用嗎？能：購物車測試中，20% 是從活動價扣掉的。",
+       "depois": "SONAR20 在黑色星期五能用嗎？能：購物車測試中，20% 是從活動價扣掉的。如果現在購買，請套用 SONAR20，並在付款前核對總額。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2199 @@
+{
+ "lote": "L04",
+ "tipo": "familias",
+ "loja": "hostinger",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "hostinger-reach-ja",
+   "arquivo": "content/reviews/hostinger-reach-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "hostinger-reach-ja-ja-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já tirou o limite semanal do parágrafo de envios; takeIf, skipIf e veredito ainda amarram a escolha a uma vez por semana ou 7 envios, então seguem a decisão PT (limite mensal de destinatários e e-mails).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "リストへの送信が週1回までで、プランの月間送信上限に収まるなら、選びます。",
+       "depois": "月に送る異なる宛先数と、キャンペーン・自動配信の合計通数が、どちらもプランの上限内なら検討できます。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "リストが1,000件を超える、またはリスト全体に月7回より多く送るなら、見送ります。",
+       "depois": "月に送る異なる宛先数や送信通数が、Reach の最上位プラン（Pro）の上限を超えるなら、見送ります。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**Mailchimp か Brevo へ。** リストが1,000件を超える、またはリスト全体への送信が月に7回を超えるなら。Reach のプランは1,000件・月7,000通で終わります。",
+       "depois": "**Mailchimp か Brevo へ。** リストが1,000件を超える、または月の総メール数（自動配信を含む）がProの7,000通を超えるなら。Reach のプランは1,000件で終わります。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-ja-ja-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O depois da proposta trazia o site brasileiro (tradução não cita Brasil) e a frase de bastidor; fica a mesma regra da versão PT, com compra nova, renovação e domínio fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。",
+       "depois": "SONAR20は既存のHostingerのお客様でも使えますか？ 既存アカウントでも、対象となる新規購入なら使えます。ドメイン登録と更新は対象外です。BrunoがReach 500の24か月で試しました。ほかのプランや期間はカートで確認してください。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。Reach 500 の24か月で試しました。ほかのプランはカートで確認してください。",
+       "depois": "SONAR20：対象となる新規購入の最初の期間が20%割引です。BrunoがReach 500の24か月で確認しました。ほかのプランや期間はカートで確認してください。ドメイン登録と更新は対象外です。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reach-ko",
+   "arquivo": "content/reviews/hostinger-reach-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "hostinger-reach-ko-ko-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já tirou o limite semanal do parágrafo de envios; takeIf, skipIf e a chamada final ainda amarram a escolha a uma vez por semana ou 7 envios, então seguem a decisão PT (limite mensal).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "리스트에 주 1회까지만 보내고 플랜의 월 발송 한도 안에 들어간다면 고르세요.",
+       "depois": "월간 고유 수신자 수와 캠페인·자동화 메일의 합계가 모두 플랜 한도 안에 들면 검토하세요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "리스트가 1,000명을 넘거나 전체 리스트에 한 달에 8회 이상 보낸다면 넘기세요.",
+       "depois": "월간 고유 수신자 수나 메일 총량이 Reach 최상위 플랜(Pro)의 한도를 넘는다면 넘기세요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**Mailchimp나 Brevo로 가세요.** 리스트가 1,000명을 넘거나 한 달에 전체 리스트로 7번보다 많이 보내야 할 때. Reach 플랜은 수신자 1,000명과 월 7,000통에서 멈춥니다.",
+       "depois": "**Mailchimp나 Brevo로 가세요.** 리스트가 1,000명을 넘거나, 자동화 메일을 포함한 한 달 메일 총량이 Pro 7,000통을 넘을 때. Reach 플랜은 수신자 1,000명에서 멈춥니다."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-ko-ko-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O depois da proposta trazia o site brasileiro (tradução não cita Brasil) e a frase de bastidor; fica a mesma regra da versão PT, com compra nova, renovação e domínio fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다.",
+       "depois": "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 기존 계정이 있어도 대상이 되는 신규 구매에는 쓸 수 있습니다. 도메인 등록과 갱신은 제외됩니다. Bruno가 Reach 500 24개월 플랜으로 확인했습니다. 다른 플랜과 기간은 장바구니에서 확인하세요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요: 첫 기간 20% 할인. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. Reach 500 24개월은 테스트했고, 다른 플랜은 장바구니에서 확인하세요.",
+       "depois": "SONAR20: 대상 신규 구매의 첫 기간 20% 할인. Bruno가 Reach 500 24개월로 확인했습니다. 다른 플랜과 기간은 장바구니에서 확인하세요. 도메인 등록과 갱신은 제외됩니다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reach-mailchimp-o-brevo",
+   "arquivo": "content/reviews/hostinger-reach-mailchimp-o-brevo.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "hostinger-reach-mailchimp-o-brevo-it-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Il paragrafo sui limiti è già mensile in main; restano takeIf, skipIf e verdetto che parlano ancora di una volta a settimana o di più di 7 invii, come nella decisione PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "Scegli Reach se scrivi alla lista al massimo una volta a settimana, entro il limite mensile di invio del piano.",
+       "depois": "Scegli Reach se i destinatari unici del mese e il totale delle email di campagne e automazioni rientrano nei limiti mensili del piano."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Lascia stare se la lista supera i 1.000 contatti o se scrivi a tutti più di 7 volte al mese.",
+       "depois": "Lascia stare se i destinatari unici o le email del mese superano i limiti del piano scelto."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se ti servono più di 7 invii al mese a tutta la lista: i piani Reach si fermano a 1.000 destinatari e 7.000 email al mese.",
+       "depois": "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se il totale delle email del mese, automazioni incluse, supera i 7.000 del Pro. I piani Reach si fermano a 1.000 destinatari."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-mailchimp-o-brevo-it-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Il testo proposto metteva 'sul sito brasiliano', che non vale nelle traduzioni; tolto il luogo, il resto della regola (compra nuova, dominio e rinnovo esclusi) resta uguale.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto.",
+       "depois": "SONAR20 vale per chi è già cliente di Hostinger? Vale su un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo restano esclusi. Bruno ha testato Reach 500 da 24 mesi; per gli altri piani e periodi, controlla nel carrello."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Abbiamo testato il codice con Reach 500 per 24 mesi; per gli altri piani, controlla nel carrello.",
+       "depois": "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Bruno ha testato Reach 500 da 24 mesi. Controlla gli altri piani e periodi nel carrello; registrazione di dominio e rinnovo sono esclusi."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reach-mailchimp-ou-brevo",
+   "arquivo": "content/reviews/hostinger-reach-mailchimp-ou-brevo.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "hostinger-reach-mailchimp-ou-brevo-fr-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Le paragraphe est déjà mensuel en main ; restent takeIf, skipIf et verdict qui parlent encore d'une fois par semaine ou de plus de 7 envois, comme en PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "Prenez-le si vous écrivez à votre liste au plus une fois par semaine, dans la limite d'envoi mensuelle du forfait.",
+       "depois": "Prenez-le si les destinataires uniques du mois et le total des e-mails de campagnes et d'automatisations respectent les limites mensuelles du forfait."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Passez votre chemin si la liste dépasse 1 000 contacts ou si vous écrivez à tout le monde plus de 7 fois par mois.",
+       "depois": "Passez votre chemin si les destinataires uniques ou les e-mails du mois dépassent les limites du forfait choisi."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou s'il vous faut plus de 7 envois par mois à toute la liste : les forfaits Reach s'arrêtent à 1 000 destinataires et 7 000 e-mails par mois.",
+       "depois": "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou si le total des e-mails du mois, automatisations comprises, dépasse les 7 000 du Pro. Les forfaits Reach s'arrêtent à 1 000 destinataires."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-mailchimp-ou-brevo-fr-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "La proposition mettait 'sur le site brésilien', interdit dans les traductions; le lieu sort, la règle (achat neuf, domaine et renouvellement exclus) reste.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction.",
+       "depois": "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Il s'applique à un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus. Bruno a testé Reach 500 pour 24 mois ; pour les autres forfaits et périodes, vérifiez au panier."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous l'avons testé sur Reach 500 pour 24 mois ; pour les autres forfaits, vérifiez dans le panier.",
+       "depois": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Bruno a testé Reach 500 pour 24 mois. Vérifiez les autres forfaits et périodes au panier ; l'enregistrement de domaine et le renouvellement sont exclus."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reach-o-mailchimp-brevo",
+   "arquivo": "content/reviews/hostinger-reach-o-mailchimp-brevo.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "hostinger-reach-o-mailchimp-brevo-es-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "El párrafo ya es mensual en main; quedan takeIf, skipIf y veredicto que todavía hablan de una vez por semana o más de 7 envíos, como en la decisión PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "Elígelo si envías a tu lista como máximo una vez por semana, dentro del límite mensual de envío del plan.",
+       "depois": "Elígelo si los destinatarios únicos del mes y el total de correos de campañas y automatizaciones caben en los límites mensuales del plan."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Déjalo si la lista pasa de 1.000 contactos o si envías a todos más de 7 veces al mes.",
+       "depois": "Déjalo si los destinatarios únicos o los correos del mes superan los límites del plan elegido."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**Ve a Mailchimp o Brevo** si la lista pasa de 1.000 contactos o si necesitas más de 7 envíos al mes a toda la lista: los planes de Reach llegan hasta 1.000 destinatarios y 7.000 correos al mes.",
+       "depois": "**Ve a Mailchimp o Brevo** si la lista pasa de 1.000 contactos o si el total de correos del mes, con automatizaciones incluidas, supera los 7.000 del Pro. Los planes de Reach llegan hasta 1.000 destinatarios."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-o-mailchimp-brevo-es-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "La propuesta ponía 'en el sitio brasileño', que no va en traducciones; se quita el lugar y la regla (compra nueva, dominio y renovación fuera) queda igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento.",
+       "depois": "¿El SONAR20 vale para quien ya es cliente de Hostinger? Puede aplicarse a una compra nueva elegible, incluso con cuenta existente. El registro de dominio y la renovación quedan fuera. Bruno probó Reach 500 de 24 meses; para otros planes y períodos, revisa el carrito."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. Lo probamos en Reach 500 de 24 meses; en los demás planes, revisa el carrito.",
+       "depois": "SONAR20: 20% en el primer período de una compra nueva elegible. Bruno probó Reach 500 de 24 meses. Revisa los demás planes y períodos en el carrito; el registro de dominio y la renovación quedan fuera."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reach-oder-mailchimp-brevo",
+   "arquivo": "content/reviews/hostinger-reach-oder-mailchimp-brevo.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "hostinger-reach-oder-mailchimp-brevo-de-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Der Absatz ist in main schon monatlich; übrig bleiben takeIf, skipIf und Fazit, die noch von einmal pro Woche oder mehr als 7 Sendungen sprechen, wie in der PT-Entscheidung.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "Nehmen Sie es, wenn Sie Ihre Liste höchstens einmal pro Woche anschreiben, innerhalb des monatlichen Versandlimits des Tarifs.",
+       "depois": "Nehmen Sie es, wenn die eindeutigen Empfänger im Monat und alle Kampagnen- und Automatisierungs-E-Mails zusammen in die Monatslimits des Tarifs passen."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Lassen Sie es, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn Sie alle öfter als 7-mal im Monat anschreiben.",
+       "depois": "Lassen Sie es, wenn die eindeutigen Empfänger oder E-Mails im Monat die Grenzen des gewählten Tarifs überschreiten."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**Gehen Sie zu Mailchimp oder Brevo**, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn Sie mehr als 7 Sendungen im Monat an die ganze Liste brauchen: Die Reach-Tarife enden bei 1.000 Empfängern und 7.000 E-Mails im Monat.",
+       "depois": "**Gehen Sie zu Mailchimp oder Brevo**, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn die E-Mails im Monat, Automationen eingerechnet, die 7.000 des Pro überschreiten. Die Reach-Tarife enden bei 1.000 Empfängern."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-oder-mailchimp-brevo-de-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Der Vorschlag nannte 'auf der brasilianischen Website', was in Übersetzungen nicht steht; der Ort fällt weg, die Regel (Neukauf, Domain und Verlängerung ausgeschlossen) bleibt.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt.",
+       "depois": "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Bei einem berechtigten Neukauf gilt er auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen. Bruno testete Reach 500 für 24 Monate; andere Tarife und Laufzeiten prüfen Sie im Warenkorb."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder nutzen Sie den Link: 20 % im ersten Zeitraum. Getestet haben wir ihn mit Reach 500 über 24 Monate; bei den anderen Tarifen prüfen Sie den Warenkorb.",
+       "depois": "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. Bruno testete Reach 500 für 24 Monate. Andere Tarife und Laufzeiten prüfen Sie im Warenkorb; Domainregistrierung und Verlängerung sind ausgeschlossen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reach-ou-mailchimp-brevo",
+   "arquivo": "content/reviews/hostinger-reach-ou-mailchimp-brevo.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "hostinger-reach-ou-mailchimp-brevo-pt-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O trecho mudou na main, que já tirou a leitura de limite semanal; ficam só a takeIf e a skipIf que ainda pedem uma vez por semana e o veredito com a regra de mais de 7 envios, que só vale para listas de 500 ou 1.000.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "Leve se manda para a lista até uma vez por semana, dentro do limite mensal de envio do plano.",
+       "depois": "Leve se os destinatários únicos do mês e o total de e-mails de campanhas e automações couberem nos limites mensais do plano."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Passe se a lista passa de 1.000 contatos ou se você manda para todos mais de 7 vezes por mês.",
+       "depois": "Passe se os destinatários únicos ou o total de e-mails do mês ultrapassarem os limites do plano escolhido."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você precisa de mais de 7 envios por mês para a lista toda: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês.",
+       "depois": "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se o total de e-mails do mês, automações incluídas, passa de 7.000, o teto do Pro. Os planos do Reach param em 1.000 destinatários."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-ou-mailchimp-brevo-pt-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Os dois trechos de SONAR20 conferem com a main, mas o depois da FAQ usava 'O teste deste artigo foi' (bastidor) e 'Pode valer' (hesitante); a resposta fica direta e a regra de compra nova, renovação e domínio fica igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto.",
+       "depois": "O SONAR20 vale para quem já é cliente? Vale em compra nova elegível, mesmo com conta existente. Registro de domínio e renovação ficam fora. Bruno testou o Reach 500 de 24 meses no site brasileiro; outros planos e períodos, confira no carrinho."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Testamos no Reach 500 de 24 meses; nos outros planos, confira no carrinho.",
+       "depois": "SONAR20: 20% no primeiro período de compra nova elegível. Bruno testou no site brasileiro, no Reach 500 de 24 meses. Confira outros planos e períodos no carrinho; registro de domínio e renovação ficam fora."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reach-vs-mailchimp-brevo",
+   "arquivo": "content/reviews/hostinger-reach-vs-mailchimp-brevo.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "hostinger-reach-vs-mailchimp-brevo-en-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "The main already dropped the weekly-send framing in the paragraph (so that unit is covered), but the takeIf, skipIf and verdict still tie the choice to once a week or more than 7 sends; the monthly limits fix those.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "Take it if you send to your list at most once a week, within the plan's monthly sending limit.",
+       "depois": "Take it if both the unique recipients in a month and the total of campaign and automation emails fit the plan's limits."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Skip it if your list is past 1,000 contacts or if you send to everyone more than 7 times a month.",
+       "depois": "Skip it if the unique recipients or the total of monthly emails exceed the plan's limits."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if you need more than 7 sends to the whole list a month: the Reach plans stop at 1,000 recipients and 7,000 emails a month.",
+       "depois": "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if your monthly emails, automations included, pass 7,000, the Pro ceiling. The Reach plans stop at 1,000 recipients."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-vs-mailchimp-brevo-en-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "The proposal put 'Brazilian site' into the EN article, which the translation rule forbids (no Brazil in translations); the test is cited without the location.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount.",
+       "depois": "Can existing Hostinger customers use SONAR20? It applies to an eligible new purchase, even with an existing account. Domain registration and renewal are excluded. Bruno tested Reach 500 for 24 months; check other plans and periods at checkout."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We tested it on Reach 500 for 24 months; on the other plans, check the cart.",
+       "depois": "SONAR20: 20% off the first period of an eligible new purchase. Bruno tested Reach 500 for 24 months. Check other plans and periods at checkout; domain registration and renewal are excluded."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reach-zh-hans",
+   "arquivo": "content/reviews/hostinger-reach-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "hostinger-reach-zh-hans-zh-hans-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já tirou o limite semanal do parágrafo de envios; takeIf, skipIf e a chamada final ainda amarram a escolha a uma vez por semana ou 7 envios, então seguem a decisão PT (limite mensal).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "如果给名单每周最多发一次，且在套餐的每月发送上限之内，就选它。",
+       "depois": "当月不同收件人数与营销活动、自动邮件的总封数都在套餐额度内时，可以考虑该套餐。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "如果名单超过 1,000 人，或每月要给整个名单发送超过 7 次，就不选。",
+       "depois": "如果当月不同收件人数或邮件总封数超过 Reach 最高套餐（Pro）的额度，就不选。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**选 Mailchimp 或 Brevo：** 如果名单超过 1,000 人，或者你每月要给整个名单发送超过 7 次邮件。Reach 套餐在 1,000 名收件人和每月 7,000 封邮件处停止。",
+       "depois": "**选 Mailchimp 或 Brevo：** 如果名单超过 1,000 人，或者当月邮件总数（含自动化）超过 Pro 的 7,000 封。Reach 套餐在 1,000 名收件人处停止。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-zh-hans-zh-hans-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O depois da proposta trazia o site brasileiro (tradução não cita Brasil) e a frase de bastidor; fica a mesma regra da versão PT, com compra nova, renovação e domínio fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。",
+       "depois": "已有 Hostinger 账户的客户也能用 SONAR20 吗？符合条件的新购即使已有账户也可以适用。域名注册和续费不适用。Bruno 测试了 Reach 500 的 24 个月套餐；其他套餐和周期请在购物车确认。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们测试过 Reach 500 的 24 个月套餐；其他套餐请在购物车确认。",
+       "depois": "SONAR20：符合条件的新购首个周期优惠 20%。Bruno 测试了 Reach 500 的 24 个月套餐。其他套餐和周期请在购物车确认；域名注册和续费除外。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reach-zh-hant",
+   "arquivo": "content/reviews/hostinger-reach-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "hostinger-reach-zh-hant-zh-hant-g180-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já tirou o limite semanal do parágrafo de envios; takeIf, skipIf e a chamada final ainda amarram a escolha a uma vez por semana ou 7 envios, então seguem a decisão PT (limite mensal).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/2",
+       "antes": "如果對名單每週最多寄一次，且在方案的每月寄送上限之內，就選它。",
+       "depois": "當月不同收件人數與行銷活動、自動郵件的總封數都在方案額度內時，可以考慮該方案。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "如果名單超過 1,000 人，或每月要給整個名單寄超過 7 次，就不選。",
+       "depois": "如果當月不同收件人數或郵件總封數超過 Reach 最高方案（Pro）的額度，就不選。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者你每月要給整個名單寄送超過 7 次郵件。Reach 方案在 1,000 位收件人和每月 7,000 封郵件處停止。",
+       "depois": "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者當月郵件總數（含自動化）超過 Pro 的 7,000 封。Reach 方案在 1,000 位收件人處停止。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reach-zh-hant-zh-hant-g180-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O depois da proposta trazia o site brasileiro (tradução não cita Brasil) e a frase de bastidor; fica a mesma regra da versão PT, com compra nova, renovação e domínio fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/7",
+       "antes": "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。",
+       "depois": "已有 Hostinger 帳號的客戶也能用 SONAR20 嗎？符合條件的新購即使已有帳號也可以適用。網域註冊和續訂不適用。Bruno 測試了 Reach 500 的 24 個月方案；其他方案和期間請在購物車確認。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們測試過 Reach 500 的 24 個月方案；其他方案請在購物車確認。",
+       "depois": "SONAR20：符合條件的新購首期優惠 20%。Bruno 測試了 Reach 500 的 24 個月方案。其他方案和期間請在購物車確認；網域註冊和續訂除外。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-renewal-price-coupon-sonar20",
+   "arquivo": "content/reviews/hostinger-renewal-price-coupon-sonar20.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "hostinger-renewal-price-coupon-sonar20-en-g299-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os tres trechos conferem com a main e o depois respeita as regras: sem data nova, sem fato novo e sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "If you are torn between two plans, compare them by the renewal column, not the entry one: that is where your budget ends up after the first period.",
+       "depois": "Compare the total cost of the first term with renewal for the term you expect to keep, alongside the features you need. The table shows how much the ongoing budget can change; check the renewal amount and payment options in your account before deciding.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "Two details weigh on the decision. To change the plan's term at renewal, auto-renewal has to be on. And if the plan expires, the notice on its card says the sites go offline. When in doubt, switch the toggle off only once you have decided not to renew.",
+       "depois": "Auto-renew must be on to change the plan term at renewal. If the plan expires, its websites can go offline, as the plan card warns. Choose automatic billing or manual renewal based on the price and charge date. If you turn it off but want to keep the service, schedule manual renewal before expiry.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "When in doubt, leave auto-renewal on for what you use and switch it off only for what you have already decided to drop.",
+       "depois": "Keep auto-renew on for services you want to continue paying for at the stated price. If you prefer to decide before each charge, turn it off and set a reminder to renew manually before expiry. Check every service separately, including domains.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-price-coupon-sonar20-en-g299-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz o 96 h em geral e a extensao); a versao nova mantem esse fato e tira a frase de cobertura repetida. A FAQ de reembolso ganha o qualificador eligible, sem a ressalva de conferir a categoria.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "The domain has no refund on renewal and does not take SONAR20 either, so it calls for a separate decision. Its renewal has its own toggle, in the domains area of the panel, and is charged 27 days before it is due. Only a new registration has a short refund window, of 96 hours in general, depending on the extension; renewal has none.",
+       "depois": "The domain needs a separate decision: renewal is excluded from SONAR20 and from standard refunds. It has its own switch in the domains area of the panel, with billing scheduled 27 days before expiry. For a new registration, the refund window depends on the extension (96 hours in general) and the policy conditions, so do not apply it to every domain."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "Does Hostinger refund a renewal? Yes, within 30 days of the charge, on hosting and VPS KVM; domain renewal has no refund. The exceptions are in the refund section.",
+       "depois": "Does Hostinger refund a renewal? Yes, within 30 days of the charge, on eligible hosting and VPS KVM; domain renewal has no refund. The exceptions are in the refund section."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-price-coupon-sonar20-en-g299-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta diz 20% off the first term, o que a main nao diz; o CTA fica com o 20% na compra, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "When you buy a new plan, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the purchase.",
+       "depois": "For an eligible new plan, enter SONAR20 in the cart for 20% off the purchase. The code does not apply to renewals or domains; check the total before paying."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-renewal-sonar20-ja",
+   "arquivo": "content/reviews/hostinger-renewal-sonar20-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "hostinger-renewal-sonar20-ja-ja-g299-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os tres trechos conferem com a main e o depois respeita as regras: sem data nova, sem fato novo e sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "2つのプランで迷ったら、最初の期間の列ではなく更新料の列で比べてください。最初の期間が終わったあと、予算に残るのはそちらです。",
+       "depois": "必要な機能に加え、利用したい期間の初回総額と更新総額を比較しましょう。表のように更新後の予算は大きく変わることがあります。決める前に、アカウントで更新額と支払方法を確認してください。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "判断で効く点が2つあります。更新時にプランの期間を変えるには、自動更新がオンになっている必要があります。また、プランが期限切れになると、そのカードの通知にあるとおりサイトは表示されなくなります。迷ったら、更新しないと決めてからスイッチをオフにしてください。",
+       "depois": "更新時に契約期間を変更するには、自動更新を有効にする必要があります。プランが失効すると、サービスのカードが案内するようにサイトが停止することがあります。料金と請求日を見て、自動請求と手動更新を選んでください。自動更新を切っても使い続ける場合は、期限前に手動更新する予定を立てましょう。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "迷ったら、使っているものは自動更新をオンのままにして、手放すと決めたものだけをオフにしてください。",
+       "depois": "表示された料金で使い続けたいサービスは、自動更新を維持できます。請求前に毎回判断したい場合は自動更新を切り、手動更新の期限を控えましょう。ドメインも含め、サービスごとに確認してください。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-sonar20-ja-ja-g299-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz 96 horas em geral conforme a extensao); a versao nova mantem esse fato e tira a frase de cobertura repetida. A FAQ de reembolso ganha o qualificador da elegibilidade, sem a ressalva de conferir a categoria.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "ドメインは更新の返金がなく、SONAR20 も使えないため、別に判断が必要です。更新のスイッチはパネルのドメインの画面に別にあり、期限の27日前に請求されます。短い返金期間があるのは新規登録だけで、拡張子によって異なりますが、通常は96時間です。更新にはありません。",
+       "depois": "ドメインは別に判断が必要です。更新はSONAR20と通常の返金の対象外です。パネルのドメイン画面に更新用の専用スイッチがあり、請求は期限の27日前に予定されています。新規登録の返金期間は拡張子とポリシーの条件によって異なり（通常は96時間）。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "Hostinger は更新の返金に応じますか？ はい。ホスティングと VPS KVM は請求から30日以内です。ドメインの更新は返金されません。例外は返金の章にあります。",
+       "depois": "Hostinger は更新の返金に応じますか？ はい。対象のホスティングと VPS KVM は請求から30日以内です。ドメインの更新は返金されません。例外は返金の章にあります。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-sonar20-ja-ja-g299-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta fala em 20% sobre o primeiro periodo, o que a main nao diz; o CTA fica com o 20% na compra, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "新しいプランを契約するときは、カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。購入が20%割引になります。",
+       "depois": "対象となる新規プランを申し込む際、カートでSONAR20を入力すると購入が20%割引になります。更新とドメインには使えません。支払う前に総額を確認してください。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-renewal-sonar20-ko",
+   "arquivo": "content/reviews/hostinger-renewal-sonar20-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "hostinger-renewal-sonar20-ko-ko-g299-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os tres trechos conferem com a main e o depois respeita as regras: sem data nova, sem fato novo e sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "두 플랜 사이에서 고민된다면 첫 기간 열이 아니라 갱신 열로 비교하세요. 첫 기간이 지나면 예산에 남는 것은 그 가격입니다.",
+       "depois": "필요한 기능과 함께, 유지하려는 기간의 첫 계약 총액과 갱신 총액을 비교하세요. 표처럼 갱신 때 예산이 크게 달라질 수 있습니다. 결정하기 전에 계정에서 갱신 금액과 결제 수단을 확인하세요.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "결정에 영향을 주는 점이 둘 있습니다. 갱신 때 플랜 기간을 바꾸려면 자동 갱신이 켜져 있어야 합니다. 또 플랜이 만료되면 플랜 카드의 안내대로 사이트가 내려갑니다. 확신이 없다면 갱신하지 않기로 정한 뒤에 스위치를 끄세요.",
+       "depois": "갱신 때 계약 기간을 바꾸려면 자동 갱신이 켜져 있어야 합니다. 요금제가 만료되면 서비스 카드의 안내처럼 사이트가 중단될 수 있습니다. 가격과 결제일을 보고 자동 결제와 수동 갱신 중에서 선택하세요. 자동 갱신을 껐어도 계속 사용할 서비스라면 만료 전에 수동 갱신할 일정을 잡으세요.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "확신이 없다면 쓰는 서비스는 자동 갱신을 켜 두고, 이미 그만두기로 한 서비스만 끄세요.",
+       "depois": "표시된 가격으로 계속 사용할 서비스는 자동 갱신을 유지해도 됩니다. 결제할 때마다 직접 결정하고 싶다면 자동 갱신을 끄고 수동 갱신 기한을 적어 두세요. 도메인을 포함해 서비스별로 따로 확인하세요.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-sonar20-ko-ko-g299-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz 96 horas em geral conforme a extensao); a versao nova mantem esse fato e tira a frase de cobertura repetida. A FAQ de reembolso ganha o qualificador da elegibilidade.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "도메인은 갱신 환불이 없고 SONAR20도 적용되지 않으므로 따로 결정해야 합니다. 도메인 갱신 스위치는 패널의 도메인 영역에 따로 있고, 만료 27일 전에 청구됩니다. 짧은 환불 기한은 새 등록에만 있고 확장자에 따라 다르지만 보통 96시간이며, 갱신에는 없습니다.",
+       "depois": "도메인은 따로 결정해야 합니다. 갱신에는 SONAR20이 적용되지 않으며 일반 환불 대상에서도 제외됩니다. 패널의 도메인 영역에 갱신 스위치가 따로 있고, 만료 27일 전에 청구됩니다. 신규 등록의 환불 기한은 확장자와 정책 조건에 따라 다르며 보통 96시간입니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "호스팅어는 갱신을 환불해 주나요? 네, 호스팅과 VPS KVM은 결제일부터 30일 이내에 가능하고, 도메인 갱신은 환불되지 않습니다. 예외는 환불 장에 있습니다.",
+       "depois": "호스팅어는 갱신을 환불해 주나요? 네, 대상 호스팅과 VPS KVM은 결제일부터 30일 이내에 가능하고, 도메인 갱신은 환불되지 않습니다. 예외는 환불 장에 있습니다."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-sonar20-ko-ko-g299-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta fala em 20% na primeira periodo, o que a main nao diz; o CTA fica com o 20% na compra, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "새 플랜에 가입할 때 장바구니의 쿠폰란에 SONAR20 코드를 입력하거나 이 링크로 들어오세요. 구매에 20% 할인이 적용됩니다.",
+       "depois": "대상이 되는 신규 플랜을 구매할 때 장바구니의 쿠폰란에 SONAR20을 입력하면 구매에 20% 할인이 적용됩니다. 갱신과 도메인에는 적용되지 않으니 결제 전에 총액을 확인하세요."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-renewal-sonar20-zh-hans",
+   "arquivo": "content/reviews/hostinger-renewal-sonar20-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "hostinger-renewal-sonar20-zh-hans-zh-hans-g299-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os tres trechos conferem com a main e o depois respeita as regras: sem data nova, sem fato novo e sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "在两个套餐之间犹豫时，请比较续费那一列，而不是首期那一列：首期过后，预算里留下的就是这个价格。",
+       "depois": "除了需要的功能，也要比较预计使用期间的首期总额与续费总额。价格表显示，续费可能大幅改变预算；决定前请到账户确认续费金额与付款方式。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "有两个细节会影响决定。要在续费时更换套餐期限，自动续费必须是开启的。而且套餐一旦到期，套餐卡片上的提示说明网站会下线。拿不定主意时，等你决定不续费了再关闭开关。",
+       "depois": "要在续费时更改套餐期限，自动续费必须开启。套餐到期后，网站可能如服务卡片所示停止运行。请根据价格与扣款日选择自动扣款或手动续费；如果关闭自动续费但仍要使用，请安排在到期前手动完成。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "拿不定主意时，在你还在用的服务上保持自动续费，只关闭已经决定不要的。",
+       "depois": "对于愿意按所示价格继续付费的服务，可以保留自动续费。如果想在每次扣款前再决定，请关闭开关并记下手动续费期限。包括域名在内，每项服务都要分开确认。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-sonar20-zh-hans-zh-hans-g299-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz 96 horas em geral conforme o sufixo); a versao nova mantem esse fato e tira a frase de cobertura repetida. A FAQ de reembolso ganha o qualificador da elegibilidade.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "域名续费没有退款，也不适用 SONAR20，所以要另外决定。它的续费开关在面板的域名区域，于到期前 27 天扣款。只有新注册才有短暂的退款期，通常为 96 小时（因域名后缀而异）；续费则完全没有。",
+       "depois": "域名要单独决定：续费不适用SONAR20，也不在一般退款范围内。面板的域名区域有独立开关，预计在到期前27天扣款。新注册的退款期限取决于域名后缀及政策条件，通常为96小时。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "Hostinger 会退还续费费用吗？会，主机与 VPS KVM 在扣款日起 30 天内可以；域名续费不能退款。例外见退款一章。",
+       "depois": "Hostinger 会退还续费费用吗？会，符合资格的主机与 VPS KVM 在扣款日起 30 天内可以；域名续费不能退款。例外见退款一章。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-sonar20-zh-hans-zh-hans-g299-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta fala em 20% no primeiro periodo, o que a main nao diz; o CTA fica com o 20% na compra, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "订购新套餐时，在购物车的优惠码栏输入 SONAR20，或从这个链接进入：购买享 20% 折扣。",
+       "depois": "订购符合资格的新套餐时，在购物车的优惠码栏输入 SONAR20，购买享 20% 折扣。续费与域名不适用；付款前请确认总额。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-renewal-sonar20-zh-hant",
+   "arquivo": "content/reviews/hostinger-renewal-sonar20-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "hostinger-renewal-sonar20-zh-hant-zh-hant-g299-P006",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os tres trechos conferem com a main e o depois respeita as regras: sem data nova, sem fato novo e sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "在兩個方案之間猶豫時，請比較續訂那一欄，而不是首期那一欄：首期過後，預算裡留下的就是這個價格。",
+       "depois": "除了需要的功能，也要比較預計使用期間的首期總額與續訂總額。價目表顯示，續訂可能大幅改變預算；決定前請到帳戶確認續訂金額與付款方式。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "有兩個細節會影響決定。要在續訂時更換方案期限，自動續訂必須是開啟的。而且方案一旦到期，方案卡片上的提示說明網站會下線。拿不定主意時，等你決定不續訂了再關閉開關。",
+       "depois": "要在續訂時更改方案期間，自動續訂必須開啟。方案到期後，網站可能如服務卡片所示停止運作。請依價格與扣款日選擇自動扣款或手動續訂；若關閉自動續訂但仍要使用，請安排在到期前手動完成。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "拿不定主意時，在你還在用的服務上保持自動續訂，只關閉已經決定不要的。",
+       "depois": "對於願意按所示價格繼續付費的服務，可以保留自動續訂。如果想在每次扣款前再決定，請關閉開關並記下手動續訂期限。包括網域在內，每項服務都要分開確認。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-sonar20-zh-hant-zh-hant-g299-P007",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz 96 horas em geral conforme a extensao); a versao nova mantem esse fato e tira a frase de cobertura repetida. A FAQ de reembolso ganha o qualificador da elegibilidade.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "網域續訂沒有退款，也不適用 SONAR20，所以要另外決定。它的續訂開關在面板的網域區域，於到期前 27 天扣款。只有新註冊才有短暫的退款期，通常為 96 小時（因網域後綴而異）；續訂則完全沒有。",
+       "depois": "網域要分開決定：續訂不適用SONAR20，也不在一般退款範圍內。面板的網域區有獨立開關，預定在到期前27天扣款。新註冊的退款期限取決於網域後綴及政策條件，通常為96小時。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "Hostinger 會退還續訂費用嗎？會，主機與 VPS KVM 在扣款日起 30 天內可以；網域續訂不能退款。例外見退款一章。",
+       "depois": "Hostinger 會退還續訂費用嗎？會，符合資格的主機與 VPS KVM 在扣款日起 30 天內可以；網域續訂不能退款。例外見退款一章。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renewal-sonar20-zh-hant-zh-hant-g299-P008",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta fala em 20% na primeira fase de contrato, o que a main nao diz; o CTA fica com o 20% na compra, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "訂購新方案時，在購物車的優惠碼欄位輸入 SONAR20，或從這個連結進入：購買享 20% 折扣。",
+       "depois": "訂購符合資格的新方案時，在購物車的優惠碼欄位輸入 SONAR20，購買享 20% 折扣。續訂與網域不適用；付款前請確認總額。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-renouvellement-code-sonar20",
+   "arquivo": "content/reviews/hostinger-renouvellement-code-sonar20.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "hostinger-renouvellement-code-sonar20-fr-g299-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "As tres unidades conferem com a main e o depois respeita as regras: sem data nova, sem fato novo e sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "Si vous hésitez entre deux forfaits, comparez-les par la colonne du renouvellement, pas par celle du prix d'appel : c'est là que se joue votre budget après la première période.",
+       "depois": "Comparez le coût total de la première période et celui du renouvellement pour la durée souhaitée, ainsi que les fonctions nécessaires. Le tableau montre l'écart possible dans le budget ; vérifiez le montant et les moyens de paiement du renouvellement dans votre compte avant de choisir."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "Deux détails pèsent dans la décision. Pour changer la durée du forfait au renouvellement, le renouvellement automatique doit être activé. Et si le forfait arrive à échéance, l'avertissement sur sa carte indique que les sites sont mis hors ligne. Dans le doute, ne coupez l'interrupteur que lorsque vous avez décidé de ne pas renouveler.",
+       "depois": "Le renouvellement automatique doit être actif pour modifier la durée du forfait au renouvellement. À l'expiration, les sites peuvent devenir indisponibles, comme l'indique la fiche du forfait. Choisissez le prélèvement automatique ou le renouvellement manuel selon le prix et la date. Si vous désactivez l'option mais souhaitez conserver le service, programmez son renouvellement avant l'échéance."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "Dans le doute, laissez le renouvellement automatique activé sur ce que vous utilisez et ne le coupez que sur ce que vous avez déjà décidé d'abandonner.",
+       "depois": "Gardez le renouvellement automatique pour les services que vous souhaitez continuer à payer au prix indiqué. Si vous préférez décider avant chaque prélèvement, désactivez-le et notez la date limite pour renouveler manuellement. Vérifiez chaque service séparément, domaines compris."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renouvellement-code-sonar20-fr-g299-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz 96 horas em geral, conforme a extensao); a versao nova mantem esse fato e tira a frase de cobertura repetida. A FAQ ganha o qualificador eligibles, sem a ressalva de conferir a categoria.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Le domaine n'est pas remboursable au renouvellement et n'accepte pas non plus le SONAR20, il appelle donc une décision à part. Son renouvellement a son propre interrupteur, dans la zone des domaines du panneau, et il est prélevé 27 jours avant l'échéance. Seul l'enregistrement neuf a un court délai de remboursement, de 96 heures en général, selon l'extension ; le renouvellement n'en a aucun.",
+       "depois": "Le domaine appelle une décision distincte : son renouvellement est exclu de SONAR20 et du remboursement standard. Il dispose de son propre interrupteur dans la zone des domaines du panneau, avec un prélèvement prévu 27 jours avant l'échéance. Pour un nouvel enregistrement, le délai de remboursement dépend de l'extension (96 heures en général) et des conditions de la politique : ne l'appliquez pas à tous les domaines."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "Hostinger rembourse-t-il le renouvellement ? Oui, dans les 30 jours suivant le prélèvement, pour l'hébergement et le VPS KVM ; le renouvellement de domaine n'est pas remboursable. Les exceptions sont dans la section du remboursement.",
+       "depois": "Hostinger rembourse-t-il le renouvellement ? Oui, dans les 30 jours suivant le prélèvement, pour l'hébergement et le VPS KVM éligibles ; le renouvellement de domaine n'est pas remboursable. Les exceptions sont dans la section du remboursement."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renouvellement-code-sonar20-fr-g299-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta diz 20 % de réduction sur la première période, o que a main nao diz; o CTA fica com os 20% na compra, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "En souscrivant un nouveau forfait, saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % de réduction sur l'achat.",
+       "depois": "Pour un nouveau forfait éligible, saisissez SONAR20 dans le panier pour obtenir 20 % de réduction sur l'achat. Le code ne s'applique ni aux renouvellements ni aux domaines ; vérifiez le total avant de payer."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-renovacao-cupom-sonar20",
+   "arquivo": "content/reviews/hostinger-renovacao-cupom-sonar20.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "hostinger-renovacao-cupom-sonar20-pt-g299-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os tres trechos conferem com a main e o depois respeita as regras: sem data nova, sem R$ na resposta rapida, sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "Na dúvida entre dois planos, compare pela coluna da renovação, não pela de entrada: é nela que o orçamento fica depois do primeiro período. A página oferece o total em até 12 parcelas na compra; para a renovação, ela não diz, então não conte com parcelas antes de ver as formas de pagamento no resumo.",
+       "depois": "Compare o custo total do primeiro período com o da renovação para o prazo que pretende manter, além dos recursos de que precisa. No exemplo da tabela, a renovação muda bastante o orçamento. A página oferece o total em até 12 parcelas na compra; na renovação, confira as formas de pagamento no resumo antes de contar com parcelamento.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "Dois detalhes pesam na decisão. Para trocar o prazo do plano na renovação, a renovação automática precisa estar ligada. E, se o plano vencer, o aviso no cartão dele diz que os sites saem do ar. Na dúvida, desligue a chave só quando já tiver decidido não renovar.",
+       "depois": "Para trocar o prazo do plano na renovação, a renovação automática precisa estar ligada. Se o plano vencer, os sites podem sair do ar, como avisa o cartão do serviço. Escolha entre manter a cobrança automática ou renovar manualmente, considerando o preço e a data; se desligar a chave e quiser continuar, programe a renovação antes do vencimento.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "Na dúvida, deixe a renovação automática ligada no que você usa e desligue só no que já decidiu deixar.",
+       "depois": "Mantenha a renovação automática nos serviços que quer continuar pagando pelo preço informado. Se preferir decidir a cada cobrança, desligue a chave e anote o prazo para renovar manualmente. Confira cada serviço, incluindo os domínios.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renovacao-cupom-sonar20-pt-g299-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz 96 horas em geral e 168 horas no .br); a versao nova mantem esses dois fatos. A FAQ ganha o qualificador elegiveis, sem a ressalva de conferir a categoria.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "O domínio não tem reembolso na renovação e também não leva o SONAR20, então ele pede uma decisão separada. A renovação dele tem chave própria, na área de domínios do painel, e é cobrada 27 dias antes do vencimento. Só o registro novo tem um prazo curto de reembolso, de 96 horas em geral, conforme a extensão (168 horas no .br); a renovação não tem nenhum.",
+       "depois": "O domínio pede uma decisão separada: a renovação não recebe SONAR20 e fica fora do reembolso padrão. Ela tem chave própria na área de domínios do painel, com cobrança prevista 27 dias antes do vencimento. Para um registro novo, o prazo depende da extensão (96 horas em geral; 168 horas no .br) e das condições da política, então não aplique esse prazo a todo domínio."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "A Hostinger reembolsa a renovação? Sim, em até 30 dias da cobrança, na hospedagem e no VPS KVM; a renovação de domínio não tem reembolso. As exceções estão no capítulo do reembolso.",
+       "depois": "A Hostinger reembolsa a renovação? Sim, em até 30 dias da cobrança, na hospedagem e no VPS KVM elegíveis; a renovação de domínio não tem reembolso. As exceções estão no capítulo do reembolso."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renovacao-cupom-sonar20-pt-g299-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta diz 20% de desconto no primeiro periodo, o que a main nao diz; o CTA fica com o 20% na compra, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Ao contratar um plano novo, use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% de desconto na compra.",
+       "depois": "Ao contratar um novo plano elegível, aplique SONAR20 no carrinho para 20% de desconto na compra. O código não se aplica à renovação nem a domínios; confira o total antes de pagar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-renovacion-cupon-sonar20",
+   "arquivo": "content/reviews/hostinger-renovacion-cupon-sonar20.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "hostinger-renovacion-cupon-sonar20-es-g299-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "As tres unidades conferem com a main; ajusto so o acento de periodo e troco webs por sitios, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "Si dudas entre dos planes, compáralos por la columna de la renovación, no por la de entrada: ahí queda tu presupuesto después del primer período.",
+       "depois": "Compara el coste total del primer período con el de la renovación para el plazo que quieras mantener, además de las funciones que necesitas. La tabla muestra cuánto puede cambiar el presupuesto; comprueba el importe y los medios de pago de la renovación en tu cuenta antes de decidir."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "Dos detalles pesan en la decisión. Para cambiar el plazo del plan en la renovación, la renovación automática tiene que estar activada. Y, si el plan vence, el aviso en su tarjeta dice que los sitios se caen. Ante la duda, desactiva el interruptor solo cuando ya hayas decidido no renovar.",
+       "depois": "Para cambiar la duración del plan al renovar, la renovación automática debe estar activada. Si el plan vence, los sitios pueden quedar fuera de línea, como advierte su tarjeta. Elige entre cobro automático y renovación manual según el precio y la fecha. Si desactivas el cobro pero quieres seguir con el servicio, programa la renovación antes del vencimiento."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "Ante la duda, deja la renovación automática activada en lo que usas y desactívala solo en lo que ya decidiste dejar.",
+       "depois": "Mantén la renovación automática en los servicios que quieras seguir pagando al precio indicado. Si prefieres decidir antes de cada cobro, desactívala y anota el plazo para renovar manualmente. Revisa cada servicio por separado, incluidos los dominios."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renovacion-cupon-sonar20-es-g299-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz 96 horas em geral, conforme a extensao); a versao nova mantem esse fato e tira a frase de cobertura repetida. A FAQ ganha o qualificador elegibles, sem a ressalva de conferir o tipo de servico.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "El dominio no tiene reembolso en la renovación y tampoco lleva el SONAR20, así que pide una decisión aparte. Su renovación tiene un interruptor propio, en el área de dominios del panel, y se cobra 27 días antes del vencimiento. Solo el registro nuevo tiene un plazo corto de reembolso, de 96 horas por lo general, según la extensión; la renovación no tiene ninguno.",
+       "depois": "El dominio necesita una decisión aparte: la renovación queda fuera de SONAR20 y del reembolso estándar. Tiene su propio interruptor en el área de dominios del panel, con cobro previsto 27 días antes del vencimiento. En un registro nuevo, el plazo de reembolso depende de la extensión (96 horas por lo general) y de las condiciones de la política, así que las 96 horas no valen para cualquier dominio."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "¿Hostinger reembolsa la renovación? Sí, dentro de los 30 días del cobro, en hosting y en VPS KVM; la renovación de dominio no tiene reembolso. Las excepciones están en el apartado del reembolso.",
+       "depois": "¿Hostinger reembolsa la renovación? Sí, dentro de los 30 días del cobro, en hosting y en VPS KVM elegibles; la renovación de dominio no tiene reembolso. Las excepciones están en el apartado del reembolso."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-renovacion-cupon-sonar20-es-g299-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta diz 20% sobre o primeiro periodo, o que a main nao diz; o CTA fica com os 20% na compra, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Al contratar un plan nuevo, usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% de descuento en la compra.",
+       "depois": "Al contratar un nuevo plan elegible, introduce SONAR20 en el carrito para obtener un 20% de descuento en la compra. El código no se aplica a la renovación ni a dominios; comprueba el total antes de pagar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-rinnovo-codice-sonar20",
+   "arquivo": "content/reviews/hostinger-rinnovo-codice-sonar20.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "hostinger-rinnovo-codice-sonar20-it-g299-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "As tres unidades conferem com a main e o depois respeita as regras: sem data nova, sem fato novo e sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "Se sei indeciso tra due piani, confrontali dalla colonna del rinnovo, non da quella d'ingresso: è lì che si ferma il budget dopo il primo periodo.",
+       "depois": "Confronta il costo totale del primo periodo con quello del rinnovo per la durata che vuoi mantenere, oltre alle funzioni necessarie. La tabella mostra quanto può cambiare il budget; prima di decidere, verifica nel tuo account l'importo e i metodi di pagamento del rinnovo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "Due dettagli pesano sulla decisione. Per cambiare la durata del piano al rinnovo, il rinnovo automatico deve essere attivo. E se il piano scade, l'avviso sulla sua scheda dice che i siti vanno offline. Nel dubbio, spegni l'interruttore solo quando hai già deciso di non rinnovare.",
+       "depois": "Per cambiare la durata del piano al rinnovo, il rinnovo automatico deve essere attivo. Se il piano scade, i siti possono andare offline, come avverte la scheda del servizio. Scegli tra addebito automatico e rinnovo manuale considerando prezzo e data. Se lo disattivi ma vuoi mantenere il servizio, programma il rinnovo prima della scadenza."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "Nel dubbio, lascia attivo il rinnovo automatico su ciò che usi e spegnilo solo su ciò che hai già deciso di lasciare.",
+       "depois": "Lascia attivo il rinnovo automatico per i servizi che vuoi continuare a pagare al prezzo indicato. Se preferisci decidere prima di ogni addebito, disattivalo e annota il termine per rinnovare manualmente. Controlla separatamente ogni servizio, domini compresi."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-rinnovo-codice-sonar20-it-g299-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz 96 ore in genere, conforme a estensione); a versao nova mantem esse fato e tira a frase de cobertura repetida. A FAQ ganha o qualificador idonei, sem a ressalva de conferir o tipo de servico.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Il dominio non ha rimborso sul rinnovo e non prende nemmeno il SONAR20, quindi chiede una decisione a parte. Il suo rinnovo ha un interruttore proprio, nell'area domini del pannello, e viene addebitato 27 giorni prima della scadenza. Solo la registrazione nuova ha un breve termine di rimborso, di 96 ore in genere, a seconda dell'estensione; il rinnovo non ne ha nessuno.",
+       "depois": "Il dominio richiede una decisione separata: il rinnovo è escluso da SONAR20 e dal rimborso standard. Ha un interruttore proprio nella sezione domini del pannello, con addebito previsto 27 giorni prima della scadenza. Per una nuova registrazione, il termine di rimborso dipende dall'estensione (96 ore in genere) e dalle condizioni della politica: le 96 ore non valgono per tutti i domini."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "Hostinger rimborsa il rinnovo? Sì, entro 30 giorni dall'addebito, per l'hosting e il VPS KVM; il rinnovo del dominio non è rimborsabile. Le eccezioni sono nel capitolo sul rimborso.",
+       "depois": "Hostinger rimborsa il rinnovo? Sì, entro 30 giorni dall'addebito, per l'hosting e il VPS KVM idonei; il rinnovo del dominio non è rimborsabile. Le eccezioni sono nel capitolo sul rimborso."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-rinnovo-codice-sonar20-it-g299-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta diz 20% sul primo periodo, o que a main nao diz; o CTA fica com os 20% sull'acquisto, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Quando sottoscrivi un piano nuovo, inserisci il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% di sconto sull'acquisto.",
+       "depois": "Per un nuovo piano idoneo, inserisci SONAR20 nel carrello per il 20% di sconto sull'acquisto. Il codice non vale per rinnovi o domini: verifica il totale prima di pagare."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-verlaengerung-code-sonar20",
+   "arquivo": "content/reviews/hostinger-verlaengerung-code-sonar20.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "hostinger-verlaengerung-code-sonar20-de-g299-P006",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "As tres unidades conferem com a main e o depois respeita as regras: sem data nova, sem fato novo e sem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/1",
+       "antes": "Wenn Sie zwischen zwei Tarifen schwanken, vergleichen Sie die Spalte der Verlängerung, nicht die des Einstiegs: Dort liegt Ihr Budget nach dem ersten Zeitraum.",
+       "depois": "Vergleichen Sie die Gesamtkosten der ersten Laufzeit mit denen der Verlängerung für den gewünschten Zeitraum und prüfen Sie die benötigten Funktionen. Die Tabelle zeigt, wie stark sich das Budget ändern kann. Kontrollieren Sie vor der Entscheidung den Verlängerungsbetrag und die Zahlungsoptionen in Ihrem Konto."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "Zwei Details wiegen bei der Entscheidung schwer. Um die Laufzeit des Tarifs bei der Verlängerung zu ändern, muss die automatische Verlängerung eingeschaltet sein. Und läuft der Tarif ab, warnt der Hinweis auf seiner Karte, dass die Websites offline gehen. Schalten Sie den Schalter im Zweifel erst aus, wenn Sie sich gegen die Verlängerung entschieden haben.",
+       "depois": "Um die Laufzeit bei der Verlängerung zu ändern, muss die automatische Verlängerung eingeschaltet sein. Läuft der Tarif ab, können die Websites offline gehen; darauf weist die Tarifkarte hin. Wählen Sie automatische Abbuchung oder manuelle Verlängerung anhand von Preis und Termin. Wenn Sie abschalten, den Dienst aber behalten wollen, planen Sie die manuelle Verlängerung vor Ablauf."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "Lassen Sie im Zweifel die automatische Verlängerung bei dem eingeschaltet, was Sie nutzen, und schalten Sie sie nur bei dem aus, was Sie schon aufgeben wollten.",
+       "depois": "Lassen Sie die automatische Verlängerung für Dienste aktiv, die Sie zum angegebenen Preis weiterbezahlen möchten. Wollen Sie vor jeder Abbuchung entscheiden, schalten Sie sie aus und notieren Sie die Frist für die manuelle Verlängerung. Prüfen Sie jeden Dienst einzeln, auch Domains."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-verlaengerung-code-sonar20-de-g299-P007",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O paragrafo do dominio mudou na main (ja traz 96 horas em geral, conforme a extensao); a versao nova mantem esse fato e tira a frase de cobertura repetida. A FAQ ganha o qualificador berechtigt, sem a ressalva de conferir a categoria.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Die Domain wird bei der Verlängerung nicht erstattet und bekommt auch SONAR20 nicht, deshalb braucht sie eine eigene Entscheidung. Ihre Verlängerung hat einen eigenen Schalter, im Domainbereich des Panels, und wird 27 Tage vor Ablauf abgebucht. Nur die Neuregistrierung hat eine kurze Erstattungsfrist von in der Regel 96 Stunden, je nach Endung; die Verlängerung hat keine.",
+       "depois": "Die Domain braucht eine eigene Entscheidung: Die Verlängerung ist von SONAR20 und der regulären Erstattung ausgeschlossen. Sie hat im Domainbereich des Panels einen eigenen Schalter; die Abbuchung ist 27 Tage vor Ablauf vorgesehen. Bei einer Neuregistrierung hängen die Erstattungsfrist (in der Regel 96 Stunden) und die Bedingungen von der Endung und der Richtlinie ab; die 96 Stunden gelten deshalb nicht für jede Domain."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/2",
+       "antes": "Erstattet Hostinger die Verlängerung? Ja, innerhalb von 30 Tagen ab der Abbuchung, beim Hosting und beim VPS KVM; die Domain-Verlängerung wird nicht erstattet. Die Ausnahmen stehen im Kapitel zur Erstattung.",
+       "depois": "Erstattet Hostinger die Verlängerung? Ja, innerhalb von 30 Tagen ab der Abbuchung, beim berechtigten Hosting und beim VPS KVM; die Domain-Verlängerung wird nicht erstattet. Die Ausnahmen stehen im Kapitel zur Erstattung."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-verlaengerung-code-sonar20-de-g299-P008",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta diz 20% sobre o primeiro periodo, o que a main nao diz; o CTA fica com os 20% na compra, como o resto do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Geben Sie beim Kauf eines neuen Tarifs den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % Rabatt auf den Kauf.",
+       "depois": "Geben Sie bei einem berechtigten neuen Tarif SONAR20 im Warenkorb ein: 20 % Rabatt auf den Kauf. Der Code gilt nicht für Verlängerungen oder Domains. Prüfen Sie den Gesamtbetrag vor der Zahlung."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-hostinger",
+   "arquivo": "content/reviews/paperclip-ai-hostinger.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "paperclip-ai-hostinger-pt-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Trecho de resposta rápida, bullet de conexão com a IA, linha da tabela e a resposta de grátis aplicados; a resposta rápida do ChatGPT tinha 4 frases e foi reduzida a 3. A proposta de Contratar o gerenciado foi descartada (já coberta na main e perderia 24 meses, que explicam os preços) e a FAQ de chave de API já responde com a assinatura.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "O Paperclip organiza uma equipe de agentes de IA, com cargos, metas e limite de gasto para cada um, mas não roda a IA: as chaves são suas. Na Hostinger, roda no plano gerenciado ou num VPS. O que muda a decisão é quem cuida do servidor; veja a comparação e os preços abaixo.",
+       "depois": "O Paperclip organiza equipes de agentes de IA, com papéis, metas, orçamento e aprovações. Você conecta os agentes aos modelos pelas suas próprias contas, por API ou assinatura compatível. Na Hostinger, a escolha principal é quem administra o servidor: a empresa, no gerenciado, ou você, no VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**Chaves de IA suas.** Chave de API é a senha que o programa usa para pedir respostas a um provedor, como Anthropic (Claude), OpenAI ou outro. O provedor cobra pelo uso, direto de você. No gerenciado, a Hostinger pede a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT, e não lista créditos de IA incluídos. Sem uma dessas conexões, a equipe não responde.",
+       "depois": "**Conexão com a IA.** Chave de API é a senha que o programa usa para pedir respostas a um provedor, como Anthropic (Claude), OpenAI ou outro. Com a chave, o provedor cobra pelo uso, direto de você. No gerenciado, a Hostinger pede a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT, e não lista créditos de IA incluídos. Sem uma dessas conexões, a equipe não responde."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "Chaves de IA",
+       "depois": "Conexão com a IA"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "Suas; a página não lista créditos da Hostinger",
+       "depois": "Chave de API ou assinatura ChatGPT ativa, conforme a configuração; a página não lista créditos de IA incluídos"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. O uso dos modelos de IA é cobrado pelo provedor, e o gerenciado e o VPS são planos pagos.",
+       "depois": "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. A hospedagem gerenciada e o VPS são planos pagos; o acesso aos modelos usa suas próprias contas, por API ou assinatura compatível, com os custos e limites do provedor."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-pt-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (hard-stop e 'o teto não garante o valor cobrado'). Aplicado só o bullet de orçamento mensal, com a frase 'Sem teto...' trocada por configurar a política de pausa; a frase final de ressalva foi tirada por repetir o que o bullet de orçamento por agente já diz.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**Orçamento mensal por agente.** Defina o teto antes de ligar a equipe. Cinco agentes com tarefas diárias podem gastar bem mais do que um assistente que você conversa de vez em quando. Sem teto, o gasto é só o que o provedor cobrar no fim do mês.",
+       "depois": "**Orçamento e cobrança.** Configure a política de orçamento e de pausa antes de iniciar a equipe. Cinco agentes com tarefas diárias podem gastar bem mais do que um assistente que você conversa de vez em quando. Acompanhe também o consumo e os limites no painel do provedor do modelo."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-pt-g096-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Fontes oficiais divergem sobre o marco dos 180 dias (o suporte da Hostinger conta da conclusão; a política legal conta do início, conforme o parecer). A main afirma só a conclusão, então a redação aprovada no parecer, sem escolher o marco e remetendo à política de reembolso, entra no lugar. A ressalva genérica da célula de 30 dias ficou de fora (não muda a decisão).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/5/2",
+       "antes": "30 dias só se o último reembolso de VPS tiver sido concluído há mais de 180 dias",
+       "depois": "30 dias conforme a política; há intervalo de 180 dias entre reembolsos de VPS"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/2",
+       "antes": "Sobre o reembolso, a regra dos 180 dias para VPS é a mesma do [artigo sobre a confiança na Hostinger](/reviews/hostinger-e-confiavel), que lê a política da empresa. Os 180 dias contam da conclusão do último reembolso de VPS: se você recebeu um nos últimos 180 dias, o novo VPS não tem a garantia de 30 dias.",
+       "depois": "Sobre o reembolso, a regra dos 180 dias para VPS é a mesma do [artigo sobre a confiança na Hostinger](/reviews/hostinger-e-confiavel), que lê a política da empresa. Há um intervalo de 180 dias aplicável a reembolsos de VPS anteriores; confira as condições e exclusões na [política de reembolso](https://www.hostinger.com/legal/refund-policy) antes de contratar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-hostinger-anleitung",
+   "arquivo": "content/reviews/paperclip-ai-hostinger-anleitung.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "paperclip-ai-hostinger-anleitung-de-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida reduzida a 3 frases (a proposta tinha 4); bullet de conexão com a IA, linha da tabela e a resposta de grátis aplicados, com o título trocado para não falar em chave própria; a reescrita de contratar e a FAQ de chave ficam de fora, já cobertas na main com a assinatura.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Paperclip organisiert ein Team aus KI-Agenten, mit Rollen, Zielen und einer Ausgabengrenze für jeden, führt aber die KI nicht aus: Die Schlüssel sind Ihre. Bei Hostinger läuft es im verwalteten Tarif oder auf einem VPS. Entscheidend ist, wer sich um den Server kümmert; sehen Sie den Vergleich unten.",
+       "depois": "Paperclip organisiert Teams aus KI-Agenten mit Rollen, Zielen, Budgets und Freigaben. Sie verbinden die Agenten über Ihre eigenen Konten mit den Modellen, per API oder unterstütztem Abonnement. Bei Hostinger entscheidet vor allem die Serververwaltung: Hostinger im verwalteten Tarif oder Sie selbst beim VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**Eigene KI-Schlüssel.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Der Anbieter berechnet die Nutzung direkt Ihnen. Beim verwalteten Angebot verlangt Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement und listet keine enthaltenen KI-Guthaben auf. Ohne eine dieser Verbindungen antwortet das Team nicht.",
+       "depois": "**KI-Anbindung.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Mit dem Schlüssel berechnet der Anbieter die Nutzung direkt Ihnen. Beim verwalteten Angebot verlangt Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement und listet keine enthaltenen KI-Guthaben auf. Ohne eine dieser Verbindungen antwortet das Team nicht."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "KI-Schlüssel",
+       "depois": "KI-Anbindung"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "Ihre; die Seite listet keine Guthaben von Hostinger",
+       "depois": "API-Schlüssel oder aktives ChatGPT-Abonnement je nach Einrichtung; die Seite nennt kein enthaltenes KI-Guthaben"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Ist Paperclip kostenlos? Das Programm ist Open Source, unter MIT-Lizenz, und lässt sich auf Ihrem Computer installieren, ohne Hostinger zu bezahlen. Die Nutzung der KI-Modelle berechnet der Anbieter, und das verwaltete Angebot und der VPS sind kostenpflichtige Tarife.",
+       "depois": "Ist Paperclip kostenlos? Das Programm ist Open Source unter MIT-Lizenz und lässt sich ohne Hostinger-Vertrag auf Ihrem Computer installieren. Verwaltetes Hosting und VPS sind kostenpflichtig. Der Modellzugang erfolgt über Ihre eigenen Konten per API oder unterstütztem Abonnement, mit den Kosten und Grenzen des Anbieters."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-anleitung-de-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (hard-stop e teto que não garante o valor cobrado). Aplicado só o bullet de orçamento mensal, com título de cobrança e a frase dos cinco agentes mantida; sai a afirmação de que sem teto o gasto é só o cobrado.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**Monatliches Budget pro Agent.** Legen Sie die Obergrenze fest, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Ohne Obergrenze sind die Ausgaben das, was der Anbieter am Monatsende berechnet.",
+       "depois": "**Budget und Abrechnung.** Richten Sie Budget- und Pausenrichtlinien ein, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Überwachen Sie auch Verbrauch und Grenzen beim Modellanbieter: Paperclip ersetzt nicht die Abrechnungsbedingungen Ihres Kontos."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-anleitung-de-g096-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto atual da main confere com as três operações; ganha leitura direta (título de etapas alternativas e frase sobre fontes de confiança). A divisão do parágrafo de introdução é mudança estrutural e vale nos 10 idiomas da família (PT ainda sem essa divisão no pacote: decisão no lote de pt).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "Paperclip ist ein Programm, um ein Team aus KI-Agenten zu organisieren: Statt eines einzelnen Assistenten stellen Sie das Team mit Rollen, Zielen und einer Ausgabengrenze für jeden Agenten zusammen. Denken Sie an ein kleines Unternehmen. Es gibt eine Inhaberin oder einen Inhaber, Führungskräfte und Mitarbeitende, jeweils mit eigener Aufgabe. Paperclip macht das mit KI-Agenten: Jeder Agent hat eine Rolle, eine Stellenbeschreibung und einen Vorgesetzten. Wer weiter oben steht, delegiert Aufgaben, und wer weiter unten steht, berichtet ihm. In der Dokumentation tauchen im Projekt fünf Ideen auf."
+       ],
+       "depois": [
+        "Stellen Sie sich ein kleines Unternehmen vor: Jeder Agent hat eine Rolle, eine Aufgabenbeschreibung und einen Vorgesetzten. Die Koordination verteilt Aufgaben; die anderen führen sie aus und berichten über den Fortschritt.",
+        "Paperclip organisiert diese Struktur und bündelt Ziele, Budgets, Freigaben und Protokolle. Die folgenden fünf Begriffe zeigen, wie die Dokumentation das beschreibt."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/heading",
+       "antes": "So fangen Sie an, der Reihe nach",
+       "depois": "Drei Möglichkeiten zum Start: Wählen Sie eine aus"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "„Vertrauenswürdig“ ist ein großes Wort. Man kann trennen, was überprüfbar ist und was nicht.",
+       "depois": "Um das Projekt einzuschätzen, prüfen Sie Herkunft und Lizenz des Codes, den Betriebsort sowie die Angaben der Quellen zu Daten und Sicherheit."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-hostinger-guida",
+   "arquivo": "content/reviews/paperclip-ai-hostinger-guida.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "paperclip-ai-hostinger-guida-it-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida reduzida a 3 frases (a proposta tinha 4); bullet de conexão com a IA, linha da tabela e a resposta de grátis aplicados, com o título trocado para não falar em chave própria; a reescrita de contratar e a FAQ de chave ficam de fora, já cobertas na main com a assinatura.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Paperclip organizza una squadra di agenti IA, con ruoli, obiettivi e un limite di spesa per ciascuno, ma non fa girare l’IA: le chiavi sono tue. Su Hostinger, gira sul piano gestito o su un VPS. Ciò che cambia la decisione è chi si occupa del server; vedi il confronto qui sotto.",
+       "depois": "Paperclip organizza squadre di agenti IA con ruoli, obiettivi, budget e approvazioni. Colleghi gli agenti ai modelli con i tuoi account, tramite API o abbonamento compatibile. Su Hostinger la scelta principale riguarda chi gestisce il server: Hostinger nel piano gestito o tu sul VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**Chiavi IA tue.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Il fornitore fa pagare l’uso, direttamente a te. Sul gestito, Hostinger chiede una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo, e non elenca crediti IA inclusi. Senza una di queste connessioni, il team non risponde.",
+       "depois": "**Collegamento all’IA.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Con la chiave, il fornitore fa pagare l’uso, direttamente a te. Sul gestito, Hostinger chiede una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo, e non elenca crediti IA inclusi. Senza una di queste connessioni, il team non risponde."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "Chiavi IA",
+       "depois": "Collegamento all’IA"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "Tue; la pagina non elenca crediti di Hostinger",
+       "depois": "Chiave API o abbonamento ChatGPT attivo secondo la configurazione; la pagina non elenca crediti IA inclusi"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Paperclip è gratis? Il programma è open source, con licenza MIT, e si può installare sul tuo computer senza pagare Hostinger. L’uso dei modelli IA è addebitato dal fornitore, e il gestito e il VPS sono piani a pagamento.",
+       "depois": "Paperclip è gratis? Il programma è open source con licenza MIT e si può installare sul computer senza sottoscrivere Hostinger. Hosting gestito e VPS sono a pagamento; i modelli usano i tuoi account tramite API o abbonamento compatibile, con costi e limiti del fornitore."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-guida-it-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (hard-stop e teto que não garante o valor cobrado). Aplicado só o bullet de orçamento mensal, com título de cobrança e a frase dos cinco agentes mantida; sai a afirmação de que sem teto o gasto é só o cobrado.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**Budget mensile per agente.** Fissa il tetto prima di accendere la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Senza tetto, la spesa è quella che il fornitore addebita a fine mese.",
+       "depois": "**Budget e fatturazione.** Configura le politiche di budget e pausa prima di avviare la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Controlla anche consumo e limiti del fornitore del modello: Paperclip non sostituisce le condizioni di fatturazione del tuo account."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-guida-it-g096-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto atual da main confere com as três operações; ganha leitura direta (título de etapas alternativas e frase sobre fontes de confiança). A divisão do parágrafo de introdução é mudança estrutural e vale nos 10 idiomas da família (PT ainda sem essa divisão no pacote: decisão no lote de pt).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "Paperclip è un programma per organizzare una squadra di agenti IA: invece di un solo assistente, metti insieme la squadra con ruoli, obiettivi e un limite di spesa per ogni agente. Pensa a una piccola azienda. C’è un titolare, ci sono dei responsabili e dei dipendenti, ciascuno con la sua funzione. Paperclip fa questo con gli agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta sopra delega i compiti, e chi sta sotto risponde a lui. Nella documentazione, nel progetto compaiono cinque idee."
+       ],
+       "depois": [
+        "Pensa a una piccola azienda: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi coordina assegna i compiti; gli altri li eseguono e riferiscono sull’avanzamento.",
+        "Paperclip organizza questa struttura e riunisce obiettivi, budget, approvazioni e registri. I cinque concetti seguenti mostrano come lo descrive la documentazione."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/heading",
+       "antes": "Come iniziare, in ordine",
+       "depois": "Tre modi per iniziare: scegline uno"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "“Affidabile” è una parola grossa. Si può separare ciò che è verificabile da ciò che non lo è.",
+       "depois": "Per valutare il progetto, controlla origine e licenza del codice, dove viene eseguito e cosa dicono le fonti su dati e sicurezza."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-hostinger-guide",
+   "arquivo": "content/reviews/paperclip-ai-hostinger-guide.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "paperclip-ai-hostinger-guide-en-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida reduzida a 3 frases (a proposta tinha 4); bullet de conexão com a IA, linhas da tabela e a resposta de grátis aplicados. A reescrita de Subscribe to managed e a FAQ de API key ficam de fora, já cobertas na main (ChatGPT subscription já citada). Mesma correção de conexão com a IA deve seguir nos outros idiomas da família.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Paperclip organizes a team of AI agents, with roles, goals and a spending cap for each one, but it does not run the AI: the keys are yours. On Hostinger, it runs on the managed plan or on a VPS. What changes the decision is who looks after the server; see the comparison below.",
+       "depois": "Paperclip organizes teams of AI agents with roles, goals, budgets and approvals. You connect the agents to models through your own accounts, by API or compatible subscription. On Hostinger, the main choice is who manages the server: Hostinger on managed hosting, or you on a VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**Your own AI keys.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. The provider charges for usage, directly to you. On managed, Hostinger asks for an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription, and it does not list included AI credits. Without one of these connections, the team does not answer.",
+       "depois": "**AI connection.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. With a key, the provider bills you directly for usage. On managed, Hostinger asks for an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription, and it does not list included AI credits. Without one of these connections, the team does not answer."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "AI keys",
+       "depois": "AI connection"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "Yours; the page does not list Hostinger credits",
+       "depois": "API key or active ChatGPT subscription, depending on setup; the page does not list included AI credits"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Is Paperclip free? The program is open source, under the MIT license, and you can install it on your computer without paying Hostinger. The use of AI models is charged by the provider, and managed and the VPS are paid plans.",
+       "depois": "Is Paperclip free? The program is open source under the MIT license and can be installed on your computer without buying Hostinger hosting. Managed hosting and VPS plans are paid. Model access uses your own accounts through an API or supported subscription, under the provider’s costs and limits."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-guide-en-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (hard-stop e teto que não garante o valor cobrado). Aplicado só o bullet de orçamento mensal, com 'Budget and billing' e a frase dos cinco agentes mantida; a ressalva final foi tirada por repetir o que o bullet de orçamento por agente já diz.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**A monthly budget per agent.** Set the cap before you turn the team on. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Without a cap, the spending is whatever the provider charges at the end of the month.",
+       "depois": "**Budget and billing.** Configure the budget and pause policy before starting the team. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Also monitor usage and limits in the model provider’s dashboard."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-guide-en-g096-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Fontes oficiais divergem sobre o marco dos 180 dias (suporte: conclusão; política legal: início, conforme o parecer). A main afirma só a conclusão; a redação neutra aprovada no parecer, remetendo à política de reembolso, entra no lugar, igual à versão em português. A ressalva genérica da célula de 30 dias ficou de fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/5/2",
+       "antes": "30 days, only if your last VPS refund was completed more than 180 days ago",
+       "depois": "30 days under the policy; a 180-day interval applies between VPS refunds"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/2",
+       "antes": "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. The 180 days count from the completion of your last VPS refund: if you received one in the last 180 days, the new VPS does not have the 30-day guarantee.",
+       "depois": "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. A 180-day interval applies to previous VPS refunds; check the conditions and exclusions in the [refund policy](https://www.hostinger.com/legal/refund-policy) before buying."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-guide-en-g096-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Título 'in order' contradiz três caminhos alternativos (computador, gerenciado, VPS): aplicado. A divisão do parágrafo de introdução é mudança estrutural que vale nos 10 idiomas, e o pt não tem essa proposta no pacote: fica pendente até existir a versão pt. A troca da frase de 'Reliable' só troca estilo e repete o título da seção: descartada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/heading",
+       "antes": "How to get started, in order",
+       "depois": "Three ways to get started: choose one"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-hostinger-guide-fr",
+   "arquivo": "content/reviews/paperclip-ai-hostinger-guide-fr.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "paperclip-ai-hostinger-guide-fr-fr-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida reduzida a 3 frases (a proposta tinha 4); bullet de conexão com a IA, linha da tabela e a resposta de grátis aplicados, com o título trocado para não falar em chave própria; a reescrita de contratar e a FAQ de chave ficam de fora, já cobertas na main com a assinatura.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Paperclip organise une équipe d’agents d’IA, avec des postes, des objectifs et une limite de dépense pour chacun, mais il ne fait pas tourner l’IA : les clés sont les vôtres. Chez Hostinger, il tourne sur l’offre gérée ou sur un VPS. Ce qui change la décision, c’est qui s’occupe du serveur ; voyez la comparaison ci-dessous.",
+       "depois": "Paperclip organise des équipes d’agents d’IA avec des rôles, des objectifs, des budgets et des approbations. Vous connectez les agents aux modèles avec vos propres comptes, par API ou abonnement compatible. Chez Hostinger, le choix principal porte sur la gestion du serveur : Hostinger dans l’offre gérée, ou vous sur un VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**Vos propres clés d’IA.** Une clé d’API est le mot de passe que le programme utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Le fournisseur facture l’usage, directement à vous. Sur le géré, Hostinger demande une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif, et ne liste pas de crédits d’IA inclus. Sans l’une de ces connexions, l’équipe ne répond pas.",
+       "depois": "**Connexion à l’IA.** Une clé d’API est le mot de passe que le programme utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Avec la clé, le fournisseur facture l’usage, directement à vous. Sur le géré, Hostinger demande une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif, et ne liste pas de crédits d’IA inclus. Sans l’une de ces connexions, l’équipe ne répond pas."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "Clés d’IA",
+       "depois": "Connexion à l’IA"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "Les vôtres ; la page ne liste pas de crédits Hostinger",
+       "depois": "Clé d’API ou abonnement ChatGPT actif selon la configuration ; la page ne mentionne pas de crédits d’IA inclus"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Paperclip est-il gratuit ? Le programme est open source, sous licence MIT, et peut s’installer sur votre ordinateur sans payer Hostinger. L’usage des modèles d’IA est facturé par le fournisseur, et le géré et le VPS sont des offres payantes.",
+       "depois": "Paperclip est-il gratuit ? Le programme est open source sous licence MIT et peut s’installer sur votre ordinateur sans souscrire chez Hostinger. L’hébergement géré et les VPS sont payants ; les modèles utilisent vos comptes par API ou abonnement compatible, avec les coûts et limites du fournisseur."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-guide-fr-fr-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (hard-stop e teto que não garante o valor cobrado). Aplicado só o bullet de orçamento mensal, com título de cobrança e a frase dos cinco agentes mantida; sai a afirmação de que sem teto o gasto é só o cobrado.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**Un budget mensuel par agent.** Fixez le plafond avant d’allumer l’équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser bien plus qu’un assistant avec qui vous discutez de temps en temps. Sans plafond, la dépense est ce que le fournisseur facture en fin de mois.",
+       "depois": "**Budget et facturation.** Configurez les règles de budget et de pause avant de lancer l’équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser bien plus qu’un assistant avec qui vous discutez de temps en temps. Surveillez aussi la consommation et les limites chez le fournisseur du modèle : Paperclip ne remplace pas les conditions de facturation de votre compte."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-guide-fr-fr-g096-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto atual da main confere com as três operações; ganha leitura direta (título de etapas alternativas e frase sobre fontes de confiança). A divisão do parágrafo de introdução é mudança estrutural e vale nos 10 idiomas da família (PT ainda sem essa divisão no pacote: decisão no lote de pt).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "Paperclip est un programme pour organiser une équipe d’agents d’IA : au lieu d’un seul assistant, vous montez l’équipe avec des postes, des objectifs et une limite de dépense pour chaque agent. Pensez à une petite entreprise. Il y a un patron, des responsables et des employés, chacun avec sa fonction. Paperclip fait cela avec des agents d’IA : chaque agent a un poste, une description de travail et un supérieur. Celui qui est au-dessus délègue des tâches, et celui qui est en dessous lui rend des comptes. Dans la documentation, cinq idées apparaissent dans le projet."
+       ],
+       "depois": [
+        "Pensez à une petite entreprise : chaque agent a un rôle, une description de travail et un supérieur. La coordination répartit les tâches ; les autres les exécutent et rendent compte de l’avancement.",
+        "Paperclip organise cette structure et réunit objectifs, budgets, approbations et historiques. Les cinq concepts suivants montrent comment la documentation le décrit."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/heading",
+       "antes": "Comment commencer, dans l’ordre",
+       "depois": "Trois façons de commencer : choisissez-en une"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "« Fiable » est un grand mot. On peut séparer ce qui est vérifiable de ce qui ne l’est pas.",
+       "depois": "Pour évaluer le projet, vérifiez l’origine du code, sa licence, son hébergement et ce que les sources indiquent sur les données et la sécurité."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-hostinger-ja",
+   "arquivo": "content/reviews/paperclip-ai-hostinger-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "paperclip-ai-hostinger-ja-ja-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Intro reduzida a 3 frases como na versão PT, conexão com o modelo no lugar de 'ご自身の AI キー', linhas da tabela e a resposta de grátis aplicadas; a op de contratar e a FAQ de chave já estão cobertas pela main (ChatGPT já citado).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Paperclip は、役割・目標・支出の上限を持つ AI エージェントのチームを管理しますが、AI そのものは動かしません。キーはご自身のものです。Hostinger ではマネージドプランか VPS で動かせます。決め手はサーバーを誰が管理するかで、違いは下の比較で確認できます。",
+       "depois": "Paperclip は、役割、目標、予算、承認を持つ AI エージェントのチームを管理します。モデルへは、API キーまたは対応するサブスクリプションを使い、ご自身のアカウントでエージェントを接続します。Hostinger では、サーバーの管理を Hostinger に任せるマネージドか、自分で管理する VPS かが主な選択です。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**ご自身の AI キー。** API キーは、プログラムがプロバイダー（Anthropic の Claude、OpenAI など）に応答を求めるときのパスワードです。プロバイダーは使った分をあなたに直接請求します。マネージド版では、Hostinger は OpenAI、Anthropic、Gemini、Cursor のいずれかの API キー、または有効な ChatGPT サブスクリプションを求めており、AI クレジットが含まれるとは記載されていません。これらの接続がなければ、チームは応答しません。",
+       "depois": "**モデルへの接続。** API キーは、プログラムがプロバイダー（Anthropic の Claude、OpenAI など）に応答を求めるときのパスワードです。キーを使うと、プロバイダーは使った分をあなたに直接請求します。マネージド版では、Hostinger は OpenAI、Anthropic、Gemini、Cursor のいずれかの API キー、または有効な ChatGPT サブスクリプションを求めており、AI クレジットが含まれるとは記載されていません。これらの接続がなければ、チームは応答しません。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "AI キー",
+       "depois": "AI への接続"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "ご自身のもの。ページに Hostinger のクレジットの記載はない",
+       "depois": "設定によって API キーまたは有効な ChatGPT サブスクリプション。ページに含まれる AI クレジットの記載はない"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Paperclip は無料ですか？ プログラムはオープンソースで MIT ライセンスです。Hostinger に支払わず、自分のコンピューターにインストールできます。AI モデルの利用料はプロバイダーが請求し、マネージドと VPS は有料プランです。",
+       "depois": "Paperclip は無料ですか？ プログラムはオープンソースで MIT ライセンスです。Hostinger に支払わず、自分のコンピューターにインストールできます。マネージドと VPS は有料プランです。モデルへの接続は、ご自身のアカウントで API または対応するサブスクリプションを使い、プロバイダーの料金と制限に従います。"
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-ja-ja-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (hard-stop); aplicado só o bullet de orçamento mensal, com a frase dos cinco agentes mantida e a política de pausa no lugar do teto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**エージェントごとの月間予算。** チームを起動する前に上限を決めてください。毎日仕事をする五つのエージェントは、たまにしか話しかけないアシスタントよりずっと多くの費用がかかることがあります。上限がなければ、費用は月末にプロバイダーが請求した額そのままです。",
+       "depois": "**予算と請求。** チームを起動する前に、予算と停止のポリシーを設定してください。毎日仕事をする五つのエージェントは、たまにしか話しかけないアシスタントよりずっと多くの費用がかかることがあります。モデルのプロバイダー側でも利用状況と制限を確認してください。"
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-ja-ja-g096-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto atual da main confere com as três operações; a divisão da introdução e o título de leitura direta seguem a mesma decisão da versão EN e PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "Paperclip は、AI エージェントのチームを管理するプログラムです。アシスタントを一つ使うのではなく、役割、目標、エージェントごとの支出上限を決めてチームを組みます。小さな会社を思い浮かべてください。オーナー、マネージャー、社員がいて、それぞれに役割があります。Paperclip はこれを AI エージェントで行います。各エージェントには役職、職務内容、上司がいます。上の立場の者が仕事を割り振り、下の立場の者はその上司に報告します。公式ドキュメントでは、プロジェクトの柱として五つの考え方が紹介されています。"
+       ],
+       "depois": [
+        "小さな会社を思い浮かべてください。各エージェントに役割、職務内容、上司があります。まとめ役がタスクを割り振り、ほかのエージェントが実行して進捗を報告します。",
+        "Paperclipはその組織を管理し、目標、予算、承認、記録をまとめます。公式ドキュメントで説明されている五つの概念を以下に整理します。"
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/heading",
+       "antes": "始め方を順番に",
+       "depois": "始め方は三つ：一つを選ぶ"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "「信頼できる」は大きな言葉です。確認できることと、できないことを分けて見ていきます。",
+       "depois": "プロジェクトを評価するには、コードの出所、ライセンス、実行場所、データと安全性について情報源が示している内容を確認します。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-hostinger-ko",
+   "arquivo": "content/reviews/paperclip-ai-hostinger-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "paperclip-ai-hostinger-ko-ko-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Intro reduzida a 3 frases como na versão PT, conexão com o modelo no lugar de '자신의 AI 키', linhas da tabela e a resposta de grátis aplicadas; a op de contratar e a FAQ de chave já estão cobertas pela main (ChatGPT já citado).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Paperclip은 역할, 목표, 지출 한도를 가진 AI 에이전트 팀을 관리하지만 AI 자체를 실행하지는 않습니다. 키는 직접 준비해야 합니다. Hostinger에서는 관리형 플랜이나 VPS에서 실행할 수 있습니다. 판단의 기준은 서버를 누가 관리하느냐이며, 차이는 아래 비교에서 확인할 수 있습니다.",
+       "depois": "Paperclip은 역할, 목표, 예산, 승인 규칙을 갖춘 AI 에이전트 팀을 관리합니다. 모델에는 자신의 계정으로, API 키나 지원되는 구독을 써서 에이전트를 연결합니다. Hostinger에서는 서버를 Hostinger가 맡는 관리형과 직접 관리하는 VPS 중 무엇을 고르느냐가 주된 선택입니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**자신의 AI 키.** API 키는 프로그램이 제공업체(Anthropic의 Claude, OpenAI 등)에 응답을 요청할 때 쓰는 비밀번호입니다. 제공업체는 사용한 만큼 사용자에게 직접 청구합니다. 관리형에서는 Hostinger가 OpenAI, Anthropic, Gemini, Cursor 중 하나의 API 키 또는 활성 ChatGPT 구독을 요구하며, AI 크레딧이 포함된다는 말은 없습니다. 이런 연결이 없으면 팀은 응답하지 않습니다.",
+       "depois": "**모델 연결.** API 키는 프로그램이 제공업체(Anthropic의 Claude, OpenAI 등)에 응답을 요청할 때 쓰는 비밀번호입니다. 키를 쓰면 제공업체가 사용한 만큼 사용자에게 직접 청구합니다. 관리형에서는 Hostinger가 OpenAI, Anthropic, Gemini, Cursor 중 하나의 API 키 또는 활성 ChatGPT 구독을 요구하며, AI 크레딧이 포함된다는 말은 없습니다. 이런 연결이 없으면 팀은 응답하지 않습니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "AI 키",
+       "depois": "AI 연결"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "직접 준비. 페이지에 Hostinger 크레딧 언급 없음",
+       "depois": "설정에 따라 API 키 또는 활성 ChatGPT 구독. 페이지에 포함된 AI 크레딧은 나열되어 있지 않음"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Paperclip은 무료인가요? 프로그램은 MIT 라이선스의 오픈 소스이며, Hostinger에 돈을 내지 않고 컴퓨터에 설치할 수 있습니다. AI 모델 사용료는 제공업체가 청구하고, 관리형과 VPS는 유료 플랜입니다.",
+       "depois": "Paperclip은 무료인가요? 프로그램은 MIT 라이선스의 오픈 소스이며, Hostinger에 돈을 내지 않고 컴퓨터에 설치할 수 있습니다. 관리형과 VPS는 유료 플랜입니다. 모델 연결은 자신의 계정으로 API 또는 지원되는 구독을 쓰며, 제공업체의 비용과 한도가 적용됩니다."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-ko-ko-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (자동 중지); aplicado só o bullet de orçamento mensal, com a frase dos cinco agentes mantida e a política de pausa no lugar do teto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**에이전트별 월 예산.** 팀을 켜기 전에 한도를 정하세요. 매일 일하는 에이전트 다섯 개는 가끔 대화하는 어시스턴트 하나보다 훨씬 많은 비용이 들 수 있습니다. 한도가 없으면 비용은 월말에 제공업체가 청구하는 금액 그대로입니다.",
+       "depois": "**예산과 청구.** 팀을 시작하기 전에 예산과 일시 중지 정책을 설정하세요. 매일 일하는 에이전트 다섯 개는 가끔 대화하는 어시스턴트 하나보다 훨씬 많은 비용이 들 수 있습니다. 모델 제공업체의 사용량과 한도도 확인하세요."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-ko-ko-g096-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto atual da main confere com as três operações; a divisão da introdução e o título de leitura direta seguem a mesma decisão da versão EN e PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "Paperclip은 AI 에이전트 팀을 관리하는 프로그램입니다. 어시스턴트 하나를 쓰는 대신, 에이전트마다 직책, 목표, 지출 한도를 정해 팀을 꾸립니다. 작은 회사를 떠올려 보세요. 대표, 관리자, 직원이 있고 각자 맡은 일이 있습니다. Paperclip은 이를 AI 에이전트로 구현합니다. 각 에이전트에게는 직책, 직무 설명, 상급자가 있습니다. 위에 있는 쪽이 일을 나누어 주고, 아래에 있는 쪽은 그에게 보고합니다. 공식 문서에는 이 프로젝트의 핵심으로 다섯 가지 개념이 나옵니다."
+       ],
+       "depois": [
+        "작은 회사를 떠올려 보세요. 각 에이전트에는 역할, 직무 설명, 상급자가 있습니다. 조정하는 쪽이 일을 배분하고 다른 에이전트가 수행한 뒤 진행 상황을 보고합니다.",
+        "Paperclip은 이 조직을 관리하고 목표, 예산, 승인, 기록을 모읍니다. 공식 문서에서 설명하는 다섯 가지 개념을 아래에 정리했습니다."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/heading",
+       "antes": "시작하는 순서",
+       "depois": "시작하는 세 가지 방법: 하나를 선택하세요"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "'믿을 만하다'는 큰 말입니다. 확인할 수 있는 것과 없는 것을 나누어 볼 수 있습니다.",
+       "depois": "프로젝트를 평가하려면 코드 출처, 라이선스, 실행 장소, 자료에 설명된 데이터와 보안 내용을 확인하세요."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-hostinger-zh-hans",
+   "arquivo": "content/reviews/paperclip-ai-hostinger-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "paperclip-ai-hostinger-zh-hans-zh-hans-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Intro reduzida a 3 frases como na versão PT, conexão com o modelo no lugar de '您自己的 AI 密钥', linhas da tabela e a resposta de grátis aplicadas; a op de contratar e a FAQ de chave já estão cobertas pela main (ChatGPT já citado).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Paperclip 会把一组 AI 智能体组织起来，给每个智能体设定职位、目标和支出上限，但它本身不运行 AI，密钥需要您自己准备。在 Hostinger 上，它可以跑在托管套餐或 VPS 上。决定选择的是服务器由谁来管，区别见下方对比。",
+       "depois": "Paperclip 管理 AI 智能体团队的角色、目标、预算和审批。您用自己的账户并通过 API 或兼容订阅为智能体连接模型。在 Hostinger，主要选择是让 Hostinger 管理服务器的托管版，还是由自己管理的 VPS。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**您自己的 AI 密钥。** API 密钥是程序向提供商（如 Anthropic 的 Claude、OpenAI 等）请求回复时使用的密码。提供商按用量直接向您收费。托管版需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅，Hostinger 并没有列出附带的 AI 额度。没有这类连接，团队就不会回应。",
+       "depois": "**连接模型。** API 密钥是程序向提供商（如 Anthropic 的 Claude、OpenAI 等）请求回复时使用的密码。用密钥时，提供商按用量直接向您收费。托管版需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅，Hostinger 并没有列出附带的 AI 额度。没有这类连接，团队就不会回应。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "AI 密钥",
+       "depois": "AI 连接"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "您自己的；页面没有列出 Hostinger 提供的额度",
+       "depois": "按配置使用 API 密钥或有效 ChatGPT 订阅；页面未列出包含的 AI 额度"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Paperclip 免费吗？ 这个程序是开源的，采用 MIT 许可证，可以装在自己的电脑上而无需向 Hostinger 付费。AI 模型的使用费由提供商收取，托管版和 VPS 是付费套餐。",
+       "depois": "Paperclip 免费吗？ 程序采用 MIT 开源许可证，可以不购买 Hostinger 而安装在自己的电脑上。托管版和 VPS 需付费；模型使用您自己的 API 账户或兼容订阅，受提供商的费用和限制约束。"
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-zh-hans-zh-hans-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (硬停止); aplicado só o bullet de orçamento mensal, com a frase dos cinco agentes mantida e a política de pausa no lugar do teto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**每个智能体的月度预算。** 启动团队之前先定好上限。每天都在干活的五个智能体，花费可能远高于偶尔聊几句的助手。没有上限的话，花费就是月底提供商开出的账单。",
+       "depois": "**预算和计费。** 启动团队前，请设置预算和暂停策略。每天都在干活的五个智能体，花费可能远高于偶尔聊几句的助手。另外查看模型提供商的用量与限制。"
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-zh-hans-zh-hans-g096-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto atual da main confere com as três operações; a divisão da introdução e o título de leitura direta seguem a mesma decisão da versão EN e PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "Paperclip 是一个用来组织 AI 智能体团队的程序：您不是只用一个助手，而是为每个智能体设定职位、目标和支出上限，组成一个团队。可以把它想成一家小公司，有老板、经理和员工，各有各的职责。Paperclip 用 AI 智能体来做这件事：每个智能体都有职位、岗位说明和上级。上级分派任务，下级向上级汇报。官方文档中，这个项目有五个核心概念。"
+       ],
+       "depois": [
+        "可以把它想成一家小公司：每个智能体都有角色、岗位说明和上级。协调方分派任务，其他智能体执行并汇报进度。",
+        "Paperclip 管理这套组织结构，汇集目标、预算、审批和记录。下列五个概念对应官方文档中的说明。"
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/heading",
+       "antes": "按顺序开始",
+       "depois": "三种开始方式：选择一种"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "“可靠”是个很大的词。可以把能核实的和不能核实的分开来看。",
+       "depois": "评估项目时，请核对代码来源、许可证、运行位置，以及来源如何说明数据和安全问题。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-hostinger-zh-hant",
+   "arquivo": "content/reviews/paperclip-ai-hostinger-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "paperclip-ai-hostinger-zh-hant-zh-hant-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Intro reduzida a 3 frases como na versão PT, conexão com o modelo no lugar de '您自己的 AI 金鑰', linhas da tabela e a resposta de grátis aplicadas; a op de contratar e a FAQ de chave já estão cobertas pela main (ChatGPT já citado).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Paperclip 會把一組 AI 代理組織起來，為每個代理設定職位、目標和支出上限，但它本身不執行 AI，金鑰要由您自己準備。在 Hostinger 上，它可以跑在代管方案或 VPS 上。決定選擇的是伺服器由誰來管理，差異請見下方比較。",
+       "depois": "Paperclip 管理 AI 代理團隊的角色、目標、預算和核准。您用自己的帳號並透過 API 或相容訂閱為代理連接模型。在 Hostinger，主要選擇是讓 Hostinger 管理伺服器的代管方案，還是由自己管理的 VPS。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**您自己的 AI 金鑰。** API 金鑰是程式向供應商（如 Anthropic 的 Claude、OpenAI 等）要求回覆時使用的密碼。供應商依用量直接向您收費。代管方案需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱，Hostinger 並沒有列出附帶的 AI 額度。沒有這類連接，團隊就不會回應。",
+       "depois": "**連接模型。** API 金鑰是程式向供應商（如 Anthropic 的 Claude、OpenAI 等）要求回覆時使用的密碼。使用金鑰時，供應商依用量直接向您收費。代管方案需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱，Hostinger 並沒有列出附帶的 AI 額度。沒有這類連接，團隊就不會回應。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "AI 金鑰",
+       "depois": "AI 連接"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "您自己的；頁面沒有列出 Hostinger 提供的額度",
+       "depois": "依設定使用 API 金鑰或有效 ChatGPT 訂閱；頁面未列出包含的 AI 額度"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Paperclip 免費嗎？ 這個程式是開源的，採用 MIT 授權，可以裝在自己的電腦上而不需向 Hostinger 付費。AI 模型的使用費由供應商收取，代管方案和 VPS 是付費方案。",
+       "depois": "Paperclip 免費嗎？ 程式採用 MIT 開源授權，可以不購買 Hostinger 而安裝在自己的電腦上。代管方案與 VPS 需付費；模型使用您自己的 API 帳號或相容訂閱，受供應商的費用和限制約束。"
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-zh-hant-zh-hant-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (hard-stop); aplicado só o bullet de orçamento mensal, com a frase dos cinco agentes mantida e a política de pausa no lugar do teto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**每個代理的月預算。** 啟動團隊之前先訂好上限。每天都在做事的五個代理，花費可能遠高於偶爾聊幾句的助理。沒有上限的話，花費就是月底供應商開出的帳單。",
+       "depois": "**預算與計費。** 啟動團隊前，請設定預算和暫停政策。每天都在做事的五個代理，花費可能遠高於偶爾聊幾句的助理。另外查看模型供應商的用量與限制。"
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-hostinger-zh-hant-zh-hant-g096-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto atual da main confere com as três operações; a divisão da introdução e o título de leitura direta seguem a mesma decisão da versão EN e PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "Paperclip 是一個用來組織 AI 代理團隊的程式：您不是只用一個助理，而是為每個代理設定職位、目標和支出上限，組成一支團隊。可以把它想成一家小公司，有老闆、主管和員工，各有各的職責。Paperclip 用 AI 代理來做這件事：每個代理都有職位、職務說明和上級。上級分派任務，下級向上級回報。官方文件中，這個專案有五個核心概念。"
+       ],
+       "depois": [
+        "可以把它想成一家小公司：每個代理都有角色、職務說明和上級。協調方分派任務，其他代理執行並回報進度。",
+        "Paperclip 管理這套組織結構，彙集目標、預算、核准和紀錄。下列五個概念對應官方文件中的說明。"
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/heading",
+       "antes": "依序開始",
+       "depois": "三種開始方式：選擇一種"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "「可靠」是個很大的詞。可以把能查證的和不能查證的分開來看。",
+       "depois": "評估專案時，請核對程式碼來源、授權、執行位置，以及來源如何說明資料與安全問題。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "paperclip-ai-que-es-hostinger",
+   "arquivo": "content/reviews/paperclip-ai-que-es-hostinger.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "paperclip-ai-que-es-hostinger-es-g096-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida reduzida a 3 frases (a proposta tinha 4); bullet de conexão com a IA, linha da tabela e a resposta de grátis aplicados, com o título trocado para não falar em chave própria; a reescrita de contratar e a FAQ de chave ficam de fora, já cobertas na main com a assinatura.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Paperclip organiza un equipo de agentes de IA, con cargos, metas y un límite de gasto para cada uno, pero no ejecuta la IA: las claves son tuyas. En Hostinger, funciona en el plan gestionado o en un VPS. Lo que cambia la decisión es quién se ocupa del servidor; mira la comparación más abajo.",
+       "depois": "Paperclip organiza equipos de agentes de IA con roles, metas, presupuesto y aprobaciones. Conectas los agentes a los modelos con tus propias cuentas, por API o suscripción compatible. En Hostinger, la decisión principal es quién administra el servidor: Hostinger en el gestionado o tú en un VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/2",
+       "antes": "**Claves de IA tuyas.** La clave de API es la contraseña que el programa usa para pedir respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. El proveedor cobra por el uso, directamente a ti. En el gestionado, Hostinger pide una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT, y no lista créditos de IA incluidos. Sin una de esas conexiones, el equipo no responde.",
+       "depois": "**Conexión con IA.** La clave de API es la contraseña que el programa usa para pedir respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. Con la clave, el proveedor cobra por el uso, directamente a ti. En el gestionado, Hostinger pide una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT, y no lista créditos de IA incluidos. Sin una de esas conexiones, el equipo no responde."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/0",
+       "antes": "Claves de IA",
+       "depois": "Conexión con IA"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/rows/4/1",
+       "antes": "Tuyas; la página no lista créditos de Hostinger",
+       "depois": "Clave de API o suscripción activa de ChatGPT, según la configuración; la página no enumera créditos de IA incluidos"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "¿Paperclip es gratis? El programa es de código abierto, con licencia MIT, y se puede instalar en tu computadora sin pagar a Hostinger. El uso de los modelos de IA lo cobra el proveedor, y el gestionado y el VPS son planes de pago.",
+       "depois": "¿Paperclip es gratis? El programa es de código abierto, con licencia MIT, y puede instalarse en la computadora sin contratar Hostinger. El gestionado y el VPS son de pago; el acceso a modelos usa tus cuentas por API o suscripción compatible, con los costes y límites del proveedor."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-que-es-hostinger-es-g096-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op do bullet de orçamento por agente já coberta pela main (hard-stop e teto que não garante o valor cobrado). Aplicado só o bullet de orçamento mensal, com título de cobrança e a frase dos cinco agentes mantida; sai a afirmação de que sem teto o gasto é só o cobrado.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/bullets/3",
+       "antes": "**Presupuesto mensual por agente.** Define el tope antes de encender el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Sin tope, el gasto es lo que cobre el proveedor a fin de mes.",
+       "depois": "**Presupuesto y cobro.** Configura la política de presupuesto y pausa antes de iniciar el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Controla también el consumo y los límites del proveedor del modelo: Paperclip no sustituye las condiciones de cobro de tu cuenta."
+      }
+     ]
+    },
+    {
+     "id": "paperclip-ai-que-es-hostinger-es-g096-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto atual da main confere com as três operações; ganha leitura direta (título de etapas alternativas e frase sobre fontes de confiança). A divisão do parágrafo de introdução é mudança estrutural e vale nos 10 idiomas da família (PT ainda sem essa divisão no pacote: decisão no lote de pt).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "Paperclip es un programa para organizar un equipo de agentes de IA: en vez de un solo asistente, montas el equipo con cargos, metas y un límite de gasto para cada agente. Piensa en una pequeña empresa. Hay un dueño, gerentes y empleados, cada uno con su función. Paperclip hace eso con agentes de IA: cada agente tiene un cargo, una descripción de trabajo y un superior. Quien está arriba delega tareas, y quien está abajo responde ante él. En la documentación, aparecen cinco ideas en el proyecto."
+       ],
+       "depois": [
+        "Piensa en una pequeña empresa: cada agente tiene un rol, una descripción de trabajo y un superior. Quien coordina reparte tareas; los demás las ejecutan e informan del avance.",
+        "Paperclip organiza esa estructura y reúne metas, presupuesto, aprobaciones y registros. Los cinco conceptos siguientes muestran cómo lo describe la documentación."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/heading",
+       "antes": "Cómo empezar, en orden",
+       "depois": "Tres formas de empezar: elige una"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "“Confiable” es una palabra grande. Se puede separar lo que es verificable de lo que no.",
+       "depois": "Para valorar el proyecto, comprueba el origen del código, la licencia, dónde se ejecuta y qué dicen las fuentes sobre datos y seguridad."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

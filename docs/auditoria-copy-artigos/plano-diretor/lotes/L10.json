@@ -1,0 +1,856 @@
+{
+ "lote": "L10",
+ "tipo": "familias",
+ "loja": "yesstyle",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "app-yesstyle-come-acquistare-codice-ricompensa",
+   "arquivo": "content/reviews/app-yesstyle-come-acquistare-codice-ricompensa.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "app-yesstyle-come-acquistare-codice-ricompensa-it-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta estreita o título para conta e carrinho, mas a primeira dica (baixar só pelos links oficiais) não cabe nele: mantive o título. A frase do centro de ajuda vai depois da lista, porque antes dela cortaria a frase que abre os bullets; PT e EN não têm essa frase na seção; incluí-la lá fica como sugestão, sem decisão nesta revisão.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/postParagraphs/0",
+       "antes": "Sulla sicurezza dello shop risponde [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro).",
+       "depois": "Se il problema persiste, consulta il centro assistenza di YesStyle. Sulla sicurezza dello shop risponde [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "app-yesstyle-como-comprar-codigo-de-recompensa",
+   "arquivo": "content/reviews/app-yesstyle-como-comprar-codigo-de-recompensa.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "app-yesstyle-como-comprar-codigo-de-recompensa-es-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta estreita o título para conta e carrinho, mas a primeira dica (baixar só pelos links oficiais) não cabe nele: mantive o título. A frase do centro de ajuda vai depois da lista, porque antes dela cortaria a frase que abre os bullets; PT e EN não têm essa frase na seção; incluí-la lá fica como sugestão, sem decisão nesta revisão.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/postParagraphs/0",
+       "antes": "Sobre la seguridad de la tienda, responde [¿Es fiable YesStyle?](/es/reviews/es-yesstyle-de-fiar-y-seguro).",
+       "depois": "Si el problema persiste, consulta el centro de ayuda de YesStyle. Sobre la seguridad de la tienda, responde [¿Es fiable YesStyle?](/es/reviews/es-yesstyle-de-fiar-y-seguro)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "application-yesstyle-acheter-code-recompense",
+   "arquivo": "content/reviews/application-yesstyle-acheter-code-recompense.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "application-yesstyle-acheter-code-recompense-fr-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta estreita o título para conta e carrinho, mas a primeira dica (baixar só pelos links oficiais) não cabe nele: mantive o título. A frase do centro de ajuda vai depois da lista, porque antes dela cortaria a frase que abre os bullets; PT e EN não têm essa frase na seção; incluí-la lá fica como sugestão, sem decisão nesta revisão.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/postParagraphs/0",
+       "antes": "Sur la sécurité de la boutique, [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur) répond.",
+       "depois": "Si le problème persiste, consultez le centre d'aide de YesStyle. Sur la sécurité de la boutique, [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur) répond."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-yesstyle",
+   "arquivo": "content/reviews/black-friday-yesstyle.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "black-friday-yesstyle-pt-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1) e o depois troca a afirmação não verificada por um critério de checagem do prazo, sem data nem bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Para presente de Natal, a compra da Black Friday é a mais segura. Uma compra internacional demora mais que a de uma loja daqui, e o prazo estimado aparece no checkout antes de pagar.",
+       "depois": "Para presente de Natal, compare o prazo estimado no checkout com a data em que você precisa receber. Considere também a disponibilidade dos itens: ela faz parte do tempo até a entrega.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-yesstyle-date-e-coupon",
+   "arquivo": "content/reviews/black-friday-yesstyle-date-e-coupon.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "black-friday-yesstyle-date-e-coupon-it-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1). O after troca a promessa de compra mais segura por um critério de checagem, mas a frase que diz que a disponibilidade faz parte do tempo de entrega é fato novo sem fonte (o parecer não a sustenta nem a main): foi tirada, e fica só o pedido de conferir a disponibilidade, que manda conferir na loja.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Per i regali di Natale, l'acquisto del Black Friday è il più sicuro. Un acquisto internazionale richiede più tempo di uno in un negozio locale, e il tempo di consegna stimato compare nel checkout prima di pagare.",
+       "depois": "Per i regali di Natale, confronta il tempo di consegna stimato al checkout con la data entro cui ti serve l'ordine. Controlla anche la disponibilità degli articoli."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-yesstyle-dates-et-coupons",
+   "arquivo": "content/reviews/black-friday-yesstyle-dates-et-coupons.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "black-friday-yesstyle-dates-et-coupons-fr-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1). O after troca a promessa de compra mais segura por um critério de checagem, mas a frase que diz que a disponibilidade faz parte do tempo de entrega é fato novo sem fonte (o parecer não a sustenta nem a main): foi tirada, e fica só o pedido de conferir a disponibilidade, que manda conferir na loja.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Pour un cadeau de Noël, l'achat du Black Friday est le plus sûr. Une commande internationale prend plus de temps que celle d'une boutique locale, et le délai estimé s'affiche à la page de paiement avant de payer.",
+       "depois": "Pour un cadeau de Noël, comparez le délai estimé au paiement avec la date à laquelle vous devez recevoir la commande. Vérifiez aussi la disponibilité des articles."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-yesstyle-fechas-cupones",
+   "arquivo": "content/reviews/black-friday-yesstyle-fechas-cupones.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "black-friday-yesstyle-fechas-cupones-es-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1). O after troca a promessa de compra mais segura por um critério de checagem, mas a frase que diz que a disponibilidade faz parte do tempo de entrega é fato novo sem fonte (o parecer não a sustenta nem a main): foi tirada, e fica só o pedido de conferir a disponibilidade, que manda conferir na loja.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Para regalos de Navidad, la compra del Black Friday es la más segura. Una compra internacional tarda más que la de una tienda local, y el plazo estimado aparece en el checkout antes de pagar.",
+       "depois": "Para regalos de Navidad, compara el plazo estimado en el checkout con la fecha en que necesitas recibir el pedido. Comprueba también la disponibilidad de los productos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "come-trovare-codici-sconto-yesstyle-validi",
+   "arquivo": "content/reviews/come-trovare-codici-sconto-yesstyle-validi.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "come-trovare-codici-sconto-yesstyle-validi-it-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois mantém 5% no primo acquisto e 2% nos successivi (já no corpo, seção 3), o campo Reward Code e a conferência no riepilogo, e tira o superlativo do destaque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "La chiave per il massimo sconto su YesStyle è la doppietta: applica il coupon della promozione nel campo Coupon Code e CECILIA010 nel campo Reward Code per ottenere fino al 5% in più.",
+       "depois": "Inserisci CECILIA010 nel campo Reward Code: 5% sul primo acquisto e 2% sui successivi. Se la promozione lo consente, applica anche un coupon nel campo Coupon Code e controlla entrambi gli sconti nel riepilogo dell'ordine.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "come-trovare-codici-sconto-yesstyle-validi-it-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a intro chama de fontes oficiais a lista que inclui a curadoria do blog, e o depois separa as fontes sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "Per seguire i coupon del mese senza imbatterti in un codice scaduto, parti dalle fonti ufficiali di YesStyle:",
+       "depois": "Puoi consultare il banner e la newsletter di YesStyle oppure la selezione di coupon del nostro blog. La lista seguente distingue queste fonti:",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "comment-trouver-des-codes-promo-yesstyle-valides",
+   "arquivo": "content/reviews/comment-trouver-des-codes-promo-yesstyle-valides.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "comment-trouver-des-codes-promo-yesstyle-valides-fr-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois mantém 5 % sur le premier achat et 2 % sur les suivants (já no corpo, seção 3), o champ Reward Code e a conferência no récapitulatif, e tira o superlativo do destaque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "La clé de la plus grosse réduction chez YesStyle, c'est le duo : appliquez le coupon de la promotion dans le champ Coupon Code et CECILIA010 dans le champ Reward Code pour obtenir jusqu'à 5 % de plus.",
+       "depois": "Saisissez CECILIA010 dans le champ Reward Code : 5 % sur le premier achat et 2 % sur les suivants. Si la promotion le permet, ajoutez aussi un coupon dans le champ Coupon Code et vérifiez les deux réductions dans le récapitulatif de la commande.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "comment-trouver-des-codes-promo-yesstyle-valides-fr-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a intro chama de sources officielles a lista que inclui la sélection du blog, e o depois separa as fontes sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "Pour suivre les coupons du mois sans tomber sur un code périmé, commencez par les sources officielles de YesStyle :",
+       "depois": "Vous pouvez consulter la bannière et la newsletter de YesStyle ou la sélection de coupons de notre blog. La liste ci-dessous distingue ces sources :",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "como-encontrar-cupones-yesstyle-validos",
+   "arquivo": "content/reviews/como-encontrar-cupones-yesstyle-validos.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "como-encontrar-cupones-yesstyle-validos-es-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois mantém 5% en la primera compra y 2% en las siguientes (já no corpo, seção 3), o campo Reward Code e a conferência no resumen, e tira o superlativo do destaque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "La clave para el mayor descuento en YesStyle es la combinación: aplica el cupón de la promoción en el campo Coupon Code y CECILIA010 en el campo Reward Code para obtener hasta un 5% extra.",
+       "depois": "Introduce CECILIA010 en el campo Reward Code: 5% en la primera compra y 2% en las siguientes. Si la promoción lo permite, aplica también un cupón en el campo Coupon Code y comprueba ambos descuentos en el resumen del pedido.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "como-encontrar-cupones-yesstyle-validos-es-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a intro chama de fuentes oficiales a lista que inclui la selección del blog, e o depois separa as fontes sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "Para seguir los cupones del mes sin toparte con un código caducado, empieza por las fuentes oficiales de YesStyle:",
+       "depois": "Puedes consultar el banner y el boletín de la propia YesStyle o la selección de cupones de nuestro blog. La lista siguiente distingue estas fuentes:",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "como-encontrar-cupons-yesstyle-validos",
+   "arquivo": "content/reviews/como-encontrar-cupons-yesstyle-validos.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "como-encontrar-cupons-yesstyle-validos-pt-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois mantém 5% na primeira compra e 2% nas seguintes, o campo Reward Code e a conferência no resumo, e tira o superlativo do destaque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "A chave para o maior desconto na YesStyle é a dobradinha: aplique o cupom da promoção no campo Coupon Code e o CECILIA010 no campo Reward Code para obter até 5% extra.",
+       "depois": "Use o CECILIA010 no campo Reward Code: 5% na primeira compra e 2% nas seguintes. Se a promoção permitir, aplique também um cupom no campo Coupon Code e confira os dois descontos no resumo do pedido.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "como-encontrar-cupons-yesstyle-validos-pt-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a intro atual chama de fontes oficiais a lista que inclui a curadoria do blog, e o depois separa as fontes sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "Para acompanhar os cupons do mês sem cair em código expirado, comece pelas fontes oficiais da YesStyle:",
+       "depois": "Você pode consultar o banner e a newsletter da própria YesStyle ou a curadoria de cupons do nosso blog. A lista abaixo distingue essas fontes:",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "como-encontrar-cupons-yesstyle-validos-pt-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; 'influenciadora' concorda com a autora e com as outras ocorrências do artigo (código de influenciadora CECILIA010).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/2",
+       "antes": "Mostra como economizar até 5% extra com o código de influenciador oficial",
+       "depois": "Mostra como economizar até 5% extra com o código de influenciadora oficial",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "gueltige-yesstyle-gutscheincodes-finden",
+   "arquivo": "content/reviews/gueltige-yesstyle-gutscheincodes-finden.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "gueltige-yesstyle-gutscheincodes-finden-de-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois mantém 5 % beim ersten Einkauf und 2 % bei weiteren Einkäufen (já no corpo, seção 3), o campo Reward Code e a conferência na Bestellübersicht, e tira o superlativo do destaque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "Der Schlüssel zum größten Rabatt bei YesStyle ist die Kombination: Geben Sie den Gutschein der Aktion im Feld Coupon Code ein und CECILIA010 im Feld Reward Code, um bis zu 5 % extra zu bekommen.",
+       "depois": "Geben Sie CECILIA010 im Feld Reward Code ein: 5 % beim ersten Einkauf und 2 % bei weiteren Einkäufen. Wenn die Aktion es erlaubt, nutzen Sie zusätzlich einen Gutschein im Feld Coupon Code und prüfen Sie beide Rabatte in der Bestellübersicht.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "gueltige-yesstyle-gutscheincodes-finden-de-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a intro chama de offiziellen Quellen a lista que inclui die Gutscheinseite des Blogs, e o depois separa as fontes sem fato novo (Sie).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "Um die Gutscheine des Monats im Blick zu behalten, ohne auf einen abgelaufenen Code zu stoßen, beginnen Sie bei den offiziellen Quellen von YesStyle:",
+       "depois": "Sie können das Banner und den Newsletter von YesStyle oder die Gutscheinliste unseres Blogs nutzen. Die folgende Liste unterscheidet diese Quellen:",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "how-to-find-valid-yesstyle-coupon-codes",
+   "arquivo": "content/reviews/how-to-find-valid-yesstyle-coupon-codes.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "how-to-find-valid-yesstyle-coupon-codes-en-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; the depois keeps 5%/2%, both fields and the order-summary check, and drops the unproven 'biggest discount' superlative.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "The key to the biggest discount at YesStyle is the combination: apply the promotion's coupon in the Coupon Code field and CECILIA010 in the Reward Code field to get up to 5% extra.",
+       "depois": "Enter CECILIA010 in the Reward Code field: 5% on a first purchase and 2% on later ones. If the promotion allows it, also enter a coupon in the Coupon Code field and check both discounts in the order summary.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "how-to-find-valid-yesstyle-coupon-codes-en-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; the lead calls the whole list official although item 3 is the blog's curated page, and the depois separates the sources without new facts.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "To keep up with the month's coupons without running into an expired code, start with YesStyle's official sources:",
+       "depois": "You can check YesStyle's own banner and newsletter or our blog's curated coupon list. The list below distinguishes these sources:",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-app-bestellen-reward-code",
+   "arquivo": "content/reviews/yesstyle-app-bestellen-reward-code.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "yesstyle-app-bestellen-reward-code-de-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta estreita o título para conta e carrinho, mas a primeira dica (baixar só pelos links oficiais) não cabe nele: mantive o título. A frase do centro de ajuda vai depois da lista, porque antes dela cortaria a frase que abre os bullets; PT e EN não têm essa frase na seção; incluí-la lá fica como sugestão, sem decisão nesta revisão.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/postParagraphs/0",
+       "antes": "Zur Sicherheit des Shops antwortet [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher).",
+       "depois": "Besteht das Problem weiter, nutzen Sie das YesStyle-Hilfecenter. Zur Sicherheit des Shops antwortet [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-app-como-comprar-codigo-de-recompensa",
+   "arquivo": "content/reviews/yesstyle-app-como-comprar-codigo-de-recompensa.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "yesstyle-app-como-comprar-codigo-de-recompensa-pt-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O título novo estreita o escopo para conta e sacola, mas a primeira dica (baixar só pelos links oficiais) não cabe nele; mantive o título atual e aproveitei só o encaminhamento para a central de ajuda.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "Confira estes três pontos:",
+       "depois": "Confira estes três pontos. Se o problema persistir, procure a central de ajuda da YesStyle."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-app-how-to-buy-reward-code",
+   "arquivo": "content/reviews/yesstyle-app-how-to-buy-reward-code.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "yesstyle-app-how-to-buy-reward-code-en-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "The new heading narrows the scope to account and bag issues, but the first tip (download only from official links) does not fit it; kept the current heading and only added the help-center pointer.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Check these three points:",
+       "depois": "Check these three points. If the problem persists, use YesStyle’s help center."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-app-reward-code-ja",
+   "arquivo": "content/reviews/yesstyle-app-reward-code-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-app-reward-code-ja-ja-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O título novo estreita o escopo para conta e sacola, mas a primeira dica (baixar só pelos links oficiais) não cabe nele; mantive o título atual e aproveitei só o encaminhamento para a central de ajuda.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "次の3点を確認してください。",
+       "depois": "次の3点を確認してください。解決しない場合は、YesStyleのヘルプセンターをご利用ください。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-app-reward-code-ko",
+   "arquivo": "content/reviews/yesstyle-app-reward-code-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-app-reward-code-ko-ko-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O título novo estreita o escopo para conta e sacola, mas a primeira dica (baixar só pelos links oficiais) não cabe nele; mantive o título atual e aproveitei só o encaminhamento para a central de ajuda.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "다음 세 가지를 확인하세요.",
+       "depois": "다음 세 가지를 확인하세요. 해결되지 않으면 YesStyle 고객센터를 이용하세요."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-app-reward-code-zh-hans",
+   "arquivo": "content/reviews/yesstyle-app-reward-code-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-app-reward-code-zh-hans-zh-hans-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O título novo estreita o escopo para conta e sacola, mas a primeira dica (baixar só pelos links oficiais) não cabe nele; mantive o título atual e aproveitei só o encaminhamento para a central de ajuda.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "请检查这三点：",
+       "depois": "请检查这三点。仍未解决时，请使用 YesStyle 帮助中心。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-app-reward-code-zh-hant",
+   "arquivo": "content/reviews/yesstyle-app-reward-code-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-app-reward-code-zh-hant-zh-hant-g116-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O título novo estreita o escopo para conta e sacola, mas a primeira dica (baixar só pelos links oficiais) não cabe nele; mantive o título atual e aproveitei só o encaminhamento para a central de ajuda.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "請檢查這三點：",
+       "depois": "請檢查這三點。仍未解決時，請使用 YesStyle 說明中心。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-black-friday-dates-coupons",
+   "arquivo": "content/reviews/yesstyle-black-friday-dates-coupons.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "yesstyle-black-friday-dates-coupons-en-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1) and the after replaces an unverified claim with a checking step, with no date and no meta-commentary.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "For Christmas gifts, the Black Friday purchase is the safest. An international order takes longer than one from a local store, and the estimated delivery time appears at checkout before you pay.",
+       "depois": "For Christmas gifts, compare the estimated delivery time at checkout with the date you need the order. Also check product availability: it is part of the total delivery time.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-black-friday-ja",
+   "arquivo": "content/reviews/yesstyle-black-friday-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-black-friday-ja-ja-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1). O depois do pacote afirma que o prazo de preparo entra no total de entrega e que a compra de Natal é checada pela previsão do checkout; a parte do preparo não tem fonte no parecer (dependência factual nova: nenhuma). Aplico só a troca de critério, sem a frase do preparo nem a menção a estoque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "クリスマスプレゼントなら、ブラックフライデーに買うのがいちばん安全です。海外通販は地元のストアより時間がかかり、配送の目安はお支払い前にチェックアウトで確認できます。",
+       "depois": "クリスマスプレゼントなら、チェックアウトに表示される配送の目安と、受け取りたい日を比べてください。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-black-friday-ko",
+   "arquivo": "content/reviews/yesstyle-black-friday-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-black-friday-ko-ko-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1). O depois do pacote afirma que o prazo de preparo entra no total de entrega e que a compra de Natal é checada pela previsão do checkout; a parte do preparo não tem fonte no parecer (dependência factual nova: nenhuma). Aplico só a troca de critério, sem a frase do preparo nem a menção a estoque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "크리스마스 선물이라면 블랙프라이데이에 사는 것이 가장 안전합니다. 해외 구매는 가까운 쇼핑몰보다 오래 걸리고, 예상 배송 기간은 결제 전에 결제 화면에서 확인할 수 있습니다.",
+       "depois": "크리스마스 선물이라면 결제 화면의 예상 배송 기간과 받고 싶은 날짜를 비교하세요."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-black-friday-termine-gutscheine",
+   "arquivo": "content/reviews/yesstyle-black-friday-termine-gutscheine.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "yesstyle-black-friday-termine-gutscheine-de-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1). O after troca a promessa de compra mais segura por um critério de checagem, mas a frase que diz que a disponibilidade faz parte do tempo de entrega é fato novo sem fonte (o parecer não a sustenta nem a main): foi tirada, e fica só o pedido de conferir a disponibilidade, que manda conferir na loja.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Für Weihnachtsgeschenke ist der Kauf am Black Friday am sichersten. Eine internationale Bestellung dauert länger als eine bei einem lokalen Shop, und die geschätzte Lieferzeit erscheint im Checkout, bevor Sie bezahlen.",
+       "depois": "Vergleichen Sie bei Weihnachtsgeschenken die geschätzte Lieferzeit im Checkout mit dem Termin, zu dem Sie die Bestellung benötigen. Prüfen Sie auch die Verfügbarkeit der Artikel."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-black-friday-zh-hans",
+   "arquivo": "content/reviews/yesstyle-black-friday-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-black-friday-zh-hans-zh-hans-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1). O depois do pacote afirma que o prazo de preparo entra no total de entrega e que a compra de Natal é checada pela previsão do checkout; a parte do preparo não tem fonte no parecer (dependência factual nova: nenhuma). Aplico só a troca de critério, sem a frase do preparo nem a menção a estoque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "如果是买圣诞礼物，黑色星期五下单最稳妥。跨境购物比在本地商店买要久，预计送达时间会在付款前显示在结账页。",
+       "depois": "如果是买圣诞礼物，请把结账页的预计送达时间与需要收到订单的日期比较。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-black-friday-zh-hant",
+   "arquivo": "content/reviews/yesstyle-black-friday-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-black-friday-zh-hant-zh-hant-g025-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Antes confere com a main (contentSections/7/paragraphs/1). O depois do pacote afirma que o prazo de preparo entra no total de entrega e que a compra de Natal é checada pela previsão do checkout; a parte do preparo não tem fonte no parecer (dependência factual nova: nenhuma). Aplico só a troca de critério, sem a frase do preparo nem a menção a estoque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "如果是買聖誕禮物，黑色星期五下單最穩妥。跨境購物比在本地商店買要久，預計送達時間會在付款前顯示在結帳頁。",
+       "depois": "如果是買聖誕禮物，請把結帳頁的預計送達時間與需要收到訂單的日期比較。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-valid-coupon-guide-ja",
+   "arquivo": "content/reviews/yesstyle-valid-coupon-guide-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "yesstyle-valid-coupon-guide-ja-ja-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois segue a decisão da PT: CECILIA010 no Reward Code com 5% na primeira compra e 2% nas seguintes, e a conferência no resumo do pedido, sem o superlativo do destaque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "YesStyleで最も安く買うコツは二本立て。セールのクーポンはCoupon Code欄に、CECILIA010はReward Code欄に入れると、最大5%が追加で引かれます。",
+       "depois": "Reward Code欄にCECILIA010を入力すると、初回購入は5%、2回目以降は2%割引です。キャンペーンが認めている場合はCoupon Code欄にクーポンも入力し、注文の概要で両方の割引を確認してください。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-valid-coupon-guide-ja-ja-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a intro chama de fontes oficiais a lista que inclui a página de cupons do blog (item 3), e o depois separa as fontes sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "期限切れのコードを踏まずに今月のクーポンを追うには、まずYesStyleの公式な情報源を見てください。",
+       "depois": "YesStyleのバナーやニュースレター、または当サイトがまとめたクーポン一覧を確認できます。以下では、それぞれの情報源を分けて紹介します。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-valid-coupon-guide-ko",
+   "arquivo": "content/reviews/yesstyle-valid-coupon-guide-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "yesstyle-valid-coupon-guide-ko-ko-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois mantém 5% na primeira compra e 2% nas seguintes, o campo Reward Code e a conferência no resumo do pedido, e tira o superlativo do destaque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "YesStyle에서 가장 많이 할인받는 열쇠는 두 가지를 함께 쓰는 것입니다. 프로모션 쿠폰은 Coupon Code 칸에, CECILIA010은 Reward Code 칸에 입력하면 최대 5%가 추가로 할인됩니다.",
+       "depois": "Reward Code 칸에 CECILIA010을 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인입니다. 프로모션에서 허용하면 Coupon Code 칸에 쿠폰도 입력하고, 주문 요약에서 두 할인을 확인하세요.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-valid-coupon-guide-ko-ko-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a intro chama de fontes oficiais a lista que inclui a página de cupons do blog (item 3), e o depois separa as fontes sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "만료된 코드에 걸리지 않고 이달의 쿠폰을 확인하려면 먼저 YesStyle의 공식 출처를 보세요.",
+       "depois": "YesStyle의 배너와 뉴스레터, 또는 저희 블로그가 정리한 쿠폰 목록을 확인할 수 있습니다. 아래 목록에서 각 출처를 구분해 안내합니다.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-valid-coupon-guide-zh-hans",
+   "arquivo": "content/reviews/yesstyle-valid-coupon-guide-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "yesstyle-valid-coupon-guide-zh-hans-zh-hans-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois mantém 5% na primeira compra e 2% nas seguintes, o campo Reward Code e a conferência no resumo do pedido, e tira o superlativo do destaque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "在 YesStyle 省得最多的关键是两个一起用：把促销优惠码填进 Coupon Code 栏，把 CECILIA010 填进 Reward Code 栏，就能再多省高达 5%。",
+       "depois": "在 Reward Code 栏输入 CECILIA010：首次购买享 5% 折扣，之后的购买享 2%。活动允许时，也可在 Coupon Code 栏输入优惠码，并在订单摘要中确认两项折扣。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-valid-coupon-guide-zh-hans-zh-hans-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a intro chama de fontes oficiais a lista que inclui a lista de códigos do blog (item 3), e o depois separa as fontes sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "想追踪当月优惠码又不踩到过期代码，请先看 YesStyle 的官方渠道：",
+       "depois": "你可以查看 YesStyle 自己的网站横幅与电子报，或本博客整理的优惠码列表。以下分别介绍这些来源：",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "yesstyle-valid-coupon-guide-zh-hant",
+   "arquivo": "content/reviews/yesstyle-valid-coupon-guide-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "yesstyle-valid-coupon-guide-zh-hant-zh-hant-g016-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois mantém 5% na primeira compra e 2% nas seguintes, o campo Reward Code e a conferência no resumo do pedido, e tira o superlativo do destaque.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pullQuote",
+       "antes": "在 YesStyle 省最多的關鍵是兩個一起用：把促銷優惠碼填進 Coupon Code 欄，把 CECILIA010 填進 Reward Code 欄，就能再多省高達 5%。",
+       "depois": "在 Reward Code 欄輸入 CECILIA010：首次購買享 5% 折扣，之後的購買享 2%。活動允許時，也可在 Coupon Code 欄輸入優惠碼，並在訂單摘要中確認兩項折扣。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "yesstyle-valid-coupon-guide-zh-hant-zh-hant-g016-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; a intro chama de fontes oficiais a lista que inclui a lista de códigos do blog (item 3), e o depois separa as fontes sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "想追蹤當月優惠碼又不踩到過期代碼，請先看 YesStyle 的官方管道：",
+       "depois": "你可以查看 YesStyle 自己的網站橫幅與電子報，或本部落格整理的優惠碼清單。以下分別介紹這些來源：",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

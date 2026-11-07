@@ -1,0 +1,858 @@
+{
+ "lote": "L17",
+ "tipo": "pt",
+ "loja": "clea-store",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "alfaiataria-verao-clea-store",
+   "arquivo": "content/reviews/alfaiataria-verao-clea-store.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "alfaiataria-verao-clea-store-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Trecho mudou na main (a grade de outubro já foi reescrita). Mantém o título atual, corrige 'a loja não vende' (há conjunto amarelo listado) e ajusta o skipIf. Demais trechos caem por data em título/corpo, bastidor ou repetição da main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/heading",
+       "antes": "A loja não vende conjunto de alfaiataria",
+       "depois": "Conjuntos prontos e peças avulsas"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "Quem procura conjunto pronto: a loja não vende, só peças avulsas para montar.",
+       "depois": "Quem quer um conjunto pronto em uma única página: estas montagens usam peças avulsas. Confira no site se o conjunto amarelo ainda está disponível."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/title",
+       "antes": "Alfaiataria de verão na Cléa Store: dá para montar conjunto, mas a loja não vende pronto",
+       "depois": "Alfaiataria de verão na Cléa Store: dá para montar conjunto com peças avulsas"
+      }
+     ]
+    },
+    {
+     "id": "alfaiataria-verao-clea-store-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Antes mudou na main. A composição por peça é a informação útil; a data de 24/10 sai do corpo (regra de data), e o howTo deixa de chamar a calça de 'linho' (ela é 70/30).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e todas de linho, salvo as calças caqui e vermelha, que são 70% linho e 30% algodão. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia.",
+       "depois": "São montagens de peças avulsas. Na rosa, blazer e shorts são 100% linho; na bege, o colete é 100% linho e a calça caqui é 70% linho e 30% algodão. Na vermelha, colete e bermuda são 100% linho; a alternativa com calça mistura 70% linho e 30% algodão. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/styling/items/0/howTo",
+       "antes": "Em conjunto com a calça de linho caqui, no mesmo tom neutro.",
+       "depois": "Com a calça caqui, no mesmo tom neutro."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/headers/3",
+       "antes": "Preço em 24/10",
+       "depois": "Preço no site"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Os preços são do site em 24/10/2026, sem cupom.",
+       "depois": "Os preços são do site, sem cupom."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-clea-store",
+   "arquivo": "content/reviews/black-friday-clea-store.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "black-friday-clea-store-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mantém o teste de 14/10 já dito na frase acima da tabela (sem data extra na legenda); cashback como crédito futuro, sem data no corpo além das já existentes, e FAQ sem data.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/comparisonTable/caption",
+       "antes": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic.",
+       "depois": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic, feito antes da campanha Black Friday."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/postParagraphs/0",
+       "antes": "O cupom e o cashback valem no mesmo pedido. No nosso teste, o checkout mostrava um cashback previsto de até R$ 25,80 antes do cupom e de até R$ 23,22 depois. Os R$ 23,22 são 10% dos R$ 232,20: a previsão é sobre o valor já com o cupom.",
+       "depois": "O cupom e o cashback valem no mesmo pedido, mas o cashback é crédito para uma compra futura. No nosso teste, o checkout previa até R$ 25,80 antes do cupom e até R$ 23,22 depois, que são 10% dos R$ 232,20 já com o cupom. Esses créditos não abatem o valor pago naquele pedido."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/2",
+       "antes": "O cupom soma com o cashback? Sim. No nosso teste, o checkout mostrou cashback previsto de até R$ 23,22, calculado sobre o valor com o cupom.",
+       "depois": "O cupom soma com o cashback? Sim, mas o cashback é crédito futuro: no nosso teste, o checkout mostrou até R$ 23,22 de créditos previstos sobre o valor depois do cupom. Esse benefício não reduz o valor pago no pedido. Confira a previsão antes de pagar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "body-clea-store-second-skin-qual-escolher",
+   "arquivo": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "body-clea-store-second-skin-qual-escolher-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main, mas \"Provador Virtual\" não aparece nos dados (a fonte fala no provador de medidas da página do produto); troco pelo termo da fonte.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "As faixas se sobrepõem: busto de 88 a 90 cm cabe no P e no M. Entre M e G há um vão de 2 cm, porque o M vai até 96 cm de busto e o G começa em 98 cm. Quando as suas medidas caem entre dois tamanhos, considere a modelagem justa. Como o body acompanha o corpo, a folga de um tamanho maior aparece mais do que numa t-shirt oversized. Para medir e comparar com o provador passo a passo, o [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica cada medida.",
+       "depois": "O busto de 88 a 90 cm aparece nas faixas de P e M, mas a escolha também depende da cintura e do quadril. Entre o busto máximo do M (96 cm) e o mínimo do G (98 cm) há um intervalo. Se as três medidas apontarem tamanhos diferentes ou caírem nesse intervalo, use o provador de medidas da página do produto e confirme a indicação com a loja. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) mostra como medir."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/8",
+       "antes": "Qual tamanho escolher? Pela tabela de medidas do corpo da loja, o P serve para busto de 82 a 90 cm, o M de 88 a 96 cm e o G de 98 a 106 cm. Entre dois tamanhos, vale olhar a modelagem da peça, que no body é justa.",
+       "depois": "Qual tamanho escolher? Compare busto, cintura e quadril com a tabela de medidas do corpo na página do produto. O busto vai de 82 a 90 cm no P, de 88 a 96 cm no M e de 98 a 106 cm no G; só essa medida não decide o tamanho. Se houver sobreposição ou intervalo, consulte o provador de medidas da página do produto e a loja."
+      }
+     ]
+    },
+    {
+     "id": "body-clea-store-second-skin-qual-escolher-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Confere com a main; a devolução sai sem meta-comentário e sem afirmação nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/9",
+       "antes": "A devolução é grátis? Sim, a devolução é grátis. Este texto não confirma troca direta de tamanho nem reembolso de uma compra feita com o cupom, então confira a regra no site antes de comprar.",
+       "depois": "A devolução é grátis? Sim. Antes de comprar, confira no site como solicitar a devolução e como funciona a troca de tamanho."
+      }
+     ]
+    },
+    {
+     "id": "body-clea-store-second-skin-qual-escolher-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main mudou o trecho; a versão original apagava a ressalva de \"modelos conferidos\" e citava uma \"página específica\" não confirmada, então mantenho a ressalva útil em frase de Passe se.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/2",
+       "antes": "Passe se você quer o kit de três peças em outro modelo: nos modelos conferidos, só o Gola Alta e o Duplo têm.",
+       "depois": "Passe se você quer o kit de três peças em outro modelo: nos modelos conferidos, só o Gola Alta e o Duplo têm o seletor de 3 unidades."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "camiseta-clea-store-e-boa",
+   "arquivo": "content/reviews/camiseta-clea-store-e-boa.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "camiseta-clea-store-e-boa-pt-g125-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Decisões aplicadas, com 'repetir cores' confirmado pela tabela da própria seção 3. Saem: a unidade do skipIf (ressalva de catálogo sem mudar a decisão) e a unidade da seção 3 que repetia, em outro lugar, o método de conta por peça que a seção 4 já traz.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf",
+       "antes": [
+        "Leve o kit de três em promoção se você veste oversized e quer o menor preço por peça.",
+        "Leve a avulsa se você quer uma cor só ou completar um kit."
+       ],
+       "depois": [
+        "Considere o kit se quer três camisetas e o preço por peça fica menor que o da avulsa no mesmo dia.",
+        "Considere a avulsa se quer apenas uma camiseta. Para três peças, compare também o kit Essenciais, que permite escolher e repetir cores."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs/0",
+       "antes": "No preço de lista, o kit não economiza: três avulsas custam R$ 387,00, o mesmo que o kit de três, e a peça sai por R$ 129,00 nos dois. O kit compensa quando está em promoção, o que a loja faz com frequência. No dia da compra, divida o preço do kit por três e compare com a avulsa, que também pode estar com desconto.",
+       "depois": "No preço de lista, o kit e três avulsas custam o mesmo. No dia da compra, divida o preço do kit por três e compare com a avulsa, que também pode estar com desconto. O kit economiza só se o custo por peça ficar menor e você quiser levar as três."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/emphasis",
+       "antes": "Para quem vai levar três camisetas, a escolha é o kit Essenciais em promoção: ele deixa montar as três cores, e é no kit em promoção que a peça sai mais barata.",
+       "depois": "Se eu quisesse três camisetas, começaria comparando o kit Essenciais, que permite escolher e repetir as cores. Só o levaria se o preço por peça ficasse menor que o da avulsa no mesmo dia. Para uma única peça, escolheria a avulsa."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/1",
+       "antes": "Kit camiseta Cléa Store vale a pena? Em promoção, sim: no preço de lista, o kit de três sai a R$ 129,00 por peça, o mesmo que a avulsa, e é a promoção do kit, frequente na loja, que baixa o preço por peça; o cupom soma com ela.",
+       "depois": "Kit camiseta Cléa Store vale a pena? Compare o preço do kit dividido por três com o preço da avulsa no mesmo dia. Nos valores de lista da tabela, não havia economia. O cupom também vale nas promoções; o kit só compensa pelo preço se o custo por peça ficar menor e você quiser três camisetas."
+      }
+     ]
+    },
+    {
+     "id": "camiseta-clea-store-e-boa-pt-g125-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Description e metaDescription corrigidas: no meta, código e % entram na primeira frase, sem abrir com 'Camiseta é boa?'. A resposta rápida da proposta (4 frases, 71 palavras) é descartada: a atual já é um resumo de 3 frases. Ressalva de bastidor ('ninguém do site comprou') reduzida à FAQ e à seção de vale a pena. A seção 1 perde a data de preço (fica na seção 3). Títulos das seções 2 e 3 trocam só o que era absoluto ou pouco claro.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "A camiseta da Cléa Store pela ficha da loja: composição, modelagem oversized, os 6 modelos com cores, o preço da avulsa e do kit, quando o kit compensa e os cuidados.",
+       "depois": "Camiseta Cléa Store pela ficha: composição do corpo e da gola, corte oversized, cores e tamanhos. Compare a avulsa com cinco kits e veja como calcular o preço por peça."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/metaDescription",
+       "antes": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta é boa? Só oversized, 6 modelos e o preço por peça no kit de 3.",
+       "depois": "CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta oversized, avulsa ou em cinco kits: compare o preço por peça."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs",
+       "antes": [
+        "A Cléa Store vende camiseta em um modelo só, o oversized. Os preços deste guia são os de lista do site, sem cupom, lidos em 04/11/2026: R$ 129,00 a peça avulsa e R$ 387,00 o kit de três. Este guia usa a ficha da loja, a composição informada, o preço de lista e a tabela de medidas, e não opina sobre toque, caimento ou durabilidade.",
+        "Na ficha da T-Shirts Oversized Algodão, o corpo da peça é 100% algodão penteado premium. A ribana da gola tem 97% algodão e 3% elastano. Ou seja, o elastano está só na ribana, não no corpo. Os cinco kits trazem a mesma composição.",
+        "\"Algodão penteado premium\" é o nome que a loja dá ao tecido. Este guia usa o termo como a loja usa.",
+        "A loja descreve o tecido como leve, respirável e de toque natural e macio.",
+        "A gramatura da malha, o peso do tecido, não está na ficha."
+       ],
+       "depois": [
+        "A ficha informa corpo 100% algodão penteado premium e ribana da gola com 97% algodão e 3% elastano; os cinco kits repetem essa composição. O elastano está só na ribana, não no corpo.",
+        "\"Algodão penteado premium\" é a denominação da loja, que descreve o tecido como leve, respirável e de toque natural e macio. A gramatura da malha não estava publicada."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/heading",
+       "antes": "Modelagem: só existe oversized",
+       "depois": "Modelagem: todas as camisetas são oversized"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/heading",
+       "antes": "Os 6 modelos de camiseta lado a lado",
+       "depois": "Avulsa e cinco kits: cores, tamanhos e preço"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Pela ficha da loja, a camiseta tem corpo em algodão e um único corte, o oversized. Quem quer outro corte não encontra neste catálogo, e a loja não informa a gramatura. Como ninguém do site comprou nem vestiu as peças, a escolha entre avulsa e kit parte só do preço e da cor.",
+       "depois": "A composição e o corte ajudam a filtrar a escolha, mas não respondem como a peça veste ou resiste às lavagens. Confira o tamanho no guia de medidas já indicado e compare a combinação de cores e o preço por peça antes de decidir."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Camiseta Cléa Store é boa? Este guia responde pela ficha da loja, não por opinião: corpo 100% algodão penteado premium, modelagem oversized e cuidados simples. Ninguém do site comprou nem vestiu a peça.",
+       "depois": "Camiseta Cléa Store é boa? Sem ter comprado ou vestido a peça, não avaliamos sua qualidade no uso. A ficha informa corpo de algodão penteado, gola com elastano e corte oversized; a comparação deste guia é de composição, cores, medidas disponíveis e preço."
+      }
+     ]
+    },
+    {
+     "id": "camiseta-clea-store-e-boa-pt-g125-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Preço da lista com data única na seção 3, acima da tabela. Retirada a data 14/10 e a expressão 'registro do teste' (bastidor) do parágrafo de cupom. Sai a data 23/10 da seção Mais vendidos, que a data única já cobre. O CTA não entra: a versão proposta manda o leitor ao site sem o link da parceria, e o cta da main segue com o link.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Uma avulsa e cinco kits de três, pelo preço de lista do site, sem cupom. Na lista, o kit custa o mesmo que três avulsas: R$ 129,00 por peça nos dois casos.",
+       "depois": "Preços de lista consultados em 04/11/2026, sem frete ou cupom: uma avulsa e cinco kits de três. Nesses preços, a peça sai por R$ 129,00 tanto na avulsa quanto no kit."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/0",
+       "antes": "O cupom soma com as promoções do site, em todas as formas de pagamento. No teste de checkout, com o kit em promoção a R$ 258,00 naquele dia, o total caiu para R$ 232,20. O valor final aparece no carrinho, e o preço do dia muda com a promoção. Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store).",
+       "depois": "O CSEMCASACOMCECILIA dá 10% sobre o preço do dia, também em promoção e em qualquer forma de pagamento. No teste de checkout, o kit promocional de R$ 258,00 naquele dia ficou por R$ 232,20. As condições estão na [página do cupom Cléa Store](/cupons/clea-store)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/1",
+       "antes": "A diferença entre os kits é só a combinação de cores. O Classic é off white, preto e marrom, o Colorful é rosa claro, verde oliva e caramelo, o Intense é chumbo, bege e vinho e o Brazil Edition é azul marinho, verde oliva e off white. No Essenciais, você monta as três cores. A avulsa é a opção para uma cor só ou para completar um kit.",
+       "depois": "Nos kits prontos, as cores vêm combinadas como mostra a tabela. No Essenciais, você escolhe as três e pode repetir. A avulsa atende quem quer apenas uma peça ou completar um kit."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets",
+       "antes": [
+        "Peça avulsa: [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189), R$ 129,00, em 10 cores e nos tamanhos P, M e G.",
+        "Kit de três: R$ 387,00 de lista, R$ 129,00 por peça, o mesmo que a avulsa; em promoção, a peça do kit sai mais barata. São cinco kits, todos em P, M e G.",
+        "Composição, segundo a ficha: corpo 100% algodão penteado premium; a ribana da gola é 97% algodão e 3% elastano.",
+        "Gramatura: a loja não informa."
+       ],
+       "depois": [
+        "**Uma camiseta:** compare a cor e o tamanho da [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189).",
+        "**Três camisetas:** escolha entre as combinações prontas ou o Essenciais e refaça a conta por peça com os preços do dia.",
+        "**Antes de decidir:** a composição é a informada pela loja, e a gramatura não estava publicada."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/postParagraphs/0",
+       "antes": "O cupom CSEMCASACOMCECILIA tira mais 10% no site, também sobre o preço de promoção. Pelo preço de lista, a peça avulsa sai por R$ 116,10 e o kit de três por R$ 348,30.",
+       "depois": "O CSEMCASACOMCECILIA reduz o preço do site em 10%, inclusive nas promoções. Pelo preço de lista, a peça avulsa sai por R$ 116,10 e o kit de três por R$ 348,30."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "clea-store-aniversario-14-anos-t-shirt-brinde",
+   "arquivo": "content/reviews/clea-store-aniversario-14-anos-t-shirt-brinde.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "clea-store-aniversario-14-anos-t-shirt-brinde-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Titulo, descricao, CTA, pros/cons e os paragrafos de abertura ja estao reescritos no mesmo sentido na main (campanha encerrada); aplica-se so o passo a passo do S1, que ainda esta no imperativo, em passado, sem data nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/bullets/0",
+       "antes": "Adicione uma peça ao carrinho. Pode ser um kit: um kit de 3 conta como uma peça.",
+       "depois": "Adicionamos uma peça ao carrinho; no teste, o kit de três contava como uma peça."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/bullets/1",
+       "antes": "Na janela de brindes, encontre o cartão \"T-Shirts Oversized Algodão\", com R$ 129,00 riscado e R$ 0,00.",
+       "depois": "Na janela de brindes aparecia o cartão “T-Shirts Oversized Algodão”, com R$ 129,00 riscado e R$ 0,00."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/bullets/2",
+       "antes": "Escolha a **cor** e o **tamanho** entre as opções que a janela mostra.",
+       "depois": "A janela oferecia escolha de cor e tamanho entre as opções disponíveis."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/bullets/3",
+       "antes": "Clique em **\"Selecionar\"**.",
+       "depois": "A escolha era confirmada em “Selecionar”."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/bullets/4",
+       "antes": "Confira o carrinho: a T-Shirt aparece como item, com R$ 129,00 riscado e R$ 0,00. No nosso teste, ela entrou na cor Preto, tamanho P.",
+       "depois": "No carrinho do teste, a T-Shirt apareceu a R$ 0,00, com R$ 129,00 riscado, na cor Preto e tamanho P."
+      }
+     ]
+    },
+    {
+     "id": "clea-store-aniversario-14-anos-t-shirt-brinde-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mantem a regra de devolucao e o link; a frase \"nao sao reembolsados\" fica, porque e o que o leitor precisa saber antes de devolver.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/2",
+       "antes": "**Devolução grátis.** O prazo é de 30 dias corridos depois do recebimento, e a postagem não é cobrada. Cupom, cashback e frete grátis não são reembolsados na devolução. O passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel).",
+       "depois": "**Devolução grátis.** A loja informava prazo de 30 dias corridos após o recebimento e postagem sem custo. Cupom, cashback e frete grátis não são reembolsados na devolução. Veja [Cléa Store é confiável?](/reviews/clea-store-e-confiavel)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "clea-store-e-boa",
+   "arquivo": "content/reviews/clea-store-e-boa.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "clea-store-e-boa-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto sem data nova e sem regra ferida; a comparacao de kit fica mais honesta.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, porque é no kit em promoção que a camiseta fica mais barata por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa).",
+       "depois": "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, pois a promoção do kit nem sempre garante o menor preço por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "Para a camiseta larga de algodão em cor lisa, a T-Shirt Oversized: avulsa para uma cor, kit de três em promoção para o menor preço por peça.",
+       "depois": "Para a camiseta larga de algodão em cor lisa, a T-Shirt Oversized: avulsa para uma cor, kit de três se a conta por peça compensar em relação à avulsa."
+      }
+     ]
+    },
+    {
+     "id": "clea-store-e-boa-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Texto sem data nova; tira o juizo sobre medida e mantem o que a loja descreve.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/1",
+       "antes": "A conta que evita a troca é medir antes. Regra prática, sem teste nosso: pela modelagem que a loja descreve, na peça justa, como o body, a medida manda e a folga não existe; na oversized, a folga já vem do corte, e quem cai entre dois tamanhos tem mais margem. Como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos estão no guia da tabela de medidas, listado no fim.",
+       "depois": "Medir antes ajuda a escolher, sem garantir o caimento. Pela modelagem que a loja descreve, o body é justo e a camiseta oversized tem corte solto; confira as medidas da peça e suas preferências antes de decidir. Como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos estão no guia da tabela de medidas, listado no fim."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "O que muda a conta é o frete. A faixa do site anuncia frete grátis acima de R$ 599; abaixo disso, o frete aparece no carrinho, e uma camiseta avulsa ou um body sozinho paga frete. É aí que o kit de três ou o pedido com duas peças faz sentido. A Cléa também vende no Mercado Livre, onde o cupom não vale e a camiseta e os bodies costumam sair mais baratos; a comparação, anúncio a anúncio, está em [Mercado Livre ou site da Cléa Store](/reviews/clea-store-mercado-livre-ou-site). Para a alfaiataria e para qualquer cor fora dos kits, só o site tem.",
+       "depois": "O que muda a conta é o frete. A faixa do site anuncia frete grátis acima de R$ 599; abaixo disso, o frete aparece no carrinho, e uma camiseta avulsa ou um body sozinho paga frete. Compare o valor final, incluindo frete, com o de um kit ou pedido com mais peças que você já queira levar. A Cléa também vende no Mercado Livre, onde o cupom não vale e a camiseta e os bodies costumam sair mais baratos; a comparação, anúncio a anúncio, está em [Mercado Livre ou site da Cléa Store](/reviews/clea-store-mercado-livre-ou-site). Para a alfaiataria e para qualquer cor fora dos kits, só o site tem."
+      }
+     ]
+    },
+    {
+     "id": "clea-store-e-boa-pt-r01-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main ja trocou o perfil para Regular nos 6 meses, mas o \"Sim\" seco continua; a versao nova mantem os dados atuais e marca a ressalva, sem data nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/3",
+       "antes": "A Cléa Store é confiável? Sim: CNPJ ativo, dados publicados no site, devolução grátis e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui, com todas as reclamações respondidas, como mostra o capítulo de confiança.",
+       "depois": "A Cléa Store é confiável? Sim, com ressalva: CNPJ ativo, dados publicados no site, devolução grátis e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui, com todas as reclamações respondidas, como mostra o capítulo de confiança."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "clea-store-e-confiavel",
+   "arquivo": "content/reviews/clea-store-e-confiavel.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "clea-store-e-confiavel-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Tira o \"orgao de defesa do consumidor\" (referencia juridica extra fora da regra de uma frase) e mantem a instrucao pratica para devolucao parcial.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/3",
+       "antes": "o frete pago na compra só volta se **todos os produtos do pedido** forem devolvidos;",
+       "depois": "o frete pago na compra só volta se **todos os produtos do pedido** forem devolvidos; em devolução parcial, confirme o tratamento do frete com a loja antes de enviar;"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "clea-store-mercado-livre-ou-site",
+   "arquivo": "content/reviews/clea-store-mercado-livre-ou-site.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "clea-store-mercado-livre-ou-site-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Descricao, metaDescription, resposta rapida e S0 ja estao no sentido da proposta (comparacao de outubro) e ficam como estao; aplicam-se os trechos que dariam uma segunda data ou \"na leitura de\", sem a data repetida.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "O essencial sai mais barato no Mercado Livre; a variedade está só no site, com o cupom CSEMCASACOMCECILIA. A loja oficial no Mercado Livre tem só 7 anúncios, os kits de t-shirt e os bodies mais vendidos; nas categorias que lemos, o site tem 41 peças, com toda a alfaiataria. A conclusão está em Como escolher, no fim do texto.",
+       "depois": "A loja oficial da Cléa no Mercado Livre tinha 7 anúncios, e as categorias consultadas no site reuniam 41 peças. O Mercado Livre custava menos em cinco dos seis itens comparados; o site, com o CSEMCASACOMCECILIA, ganhava no Kit Classic e tinha mais variedade."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/postParagraphs/0",
+       "antes": "São as peças de base da marca. O resto fica só no site: mais bodies, mais kits, mais cores e a alfaiataria inteira.",
+       "depois": "Naquele levantamento, o restante do catálogo consultado estava no site: mais bodies, kits, cores e a alfaiataria. A oferta de cada canal pode mudar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "O site tem 41 peças nas categorias lidas, e só 7 estão no Mercado Livre. O que está só no site:",
+       "depois": "No levantamento, o site tinha 41 peças nas categorias lidas, e só 7 estavam no Mercado Livre. O que estava só no site:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "A comparação vale só para as peças que estão nos dois lados. No Mercado Livre, o primeiro número é o menor preço do anúncio, que em alguns casos pede pagamento com saldo no Mercado Pago. No site, é o preço de venda menos os 10% do cupom.",
+       "depois": "Preços do levantamento para as peças encontradas nos dois canais. No Mercado Livre, usamos o menor preço do anúncio, em alguns casos condicionado a saldo no Mercado Pago; no site, o preço de venda menos os 10% do cupom. Compare a mesma cor e tamanho, na forma de pagamento que você vai usar. O frete do site não entra nesta conta."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/emphasis",
+       "antes": "Se fosse para a minha casa, eu levaria o essencial no Mercado Livre e a alfaiataria no site, porque cada lado ganha no seu preço do dia.",
+       "depois": "Eu começaria pela peça que quero comprar: o Mercado Livre ganhava em cinco dos seis itens, mas o Kit Classic ficava mais barato no site. Para alfaiataria, só o site tem."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/2",
+       "antes": "Quer outro modelo de body, outra cor, o Kit Brazil Edition, o Monte Seu Kit ou qualquer peça de alfaiataria: site, porque essas peças não estão no Mercado Livre.",
+       "depois": "Quer outro modelo de body, o Kit Brazil Edition, o Monte Seu Kit ou alfaiataria: essas opções estão só no site. Confira o catálogo atual."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Leve no site se você quer o Kit Classic, alfaiataria ou outro modelo de body.",
+       "depois": "Compare o site com cupom para o Kit Classic, que saía mais barato que no Mercado Livre, e para a alfaiataria e mais modelos de body."
+      }
+     ]
+    },
+    {
+     "id": "clea-store-mercado-livre-ou-site-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Tira as duas datas novas (a unica do corpo e a da S1/p1) e mantem o teste de cashback como credito futuro, nao desconto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs/0",
+       "antes": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Ele não vale no Mercado Livre. A equipe testou o cupom: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20, e o pedido gerou R$ 23,22 de cashback, calculado sobre o valor já com o cupom.",
+       "depois": "O CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com promoções e geração de cashback. Ele não vale no Mercado Livre. No teste de carrinho, o Kit Classic, em promoção por R$ 258, saiu por R$ 232,20, e a tela mostrou cashback previsto de até R$ 23,22 para uma compra futura."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs/1",
+       "antes": "O cashback só conta quando a loja credita. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas estão na página do [cupom Cléa Store](/cupons/clea-store).",
+       "depois": "O cashback não abate o total deste pedido. Não desconte o crédito futuro ao comparar o total a pagar hoje. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas, na página do [cupom Cléa Store](/cupons/clea-store)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/postParagraphs/0",
+       "antes": "O cupom CSEMCASACOMCECILIA tira 10% no site e o cashback da loja soma com ele. O preço do Mercado Livre muda rápido: o que hoje sai mais barato lá pode ficar igual ou mais caro que o site com o cupom em poucos dias, então confira os dois antes de comprar.",
+       "depois": "O CSEMCASACOMCECILIA tira 10% no site. No teste, o carrinho continuou mostrando cashback previsto para outra compra; esse crédito futuro não reduz o que você paga agora. Confira os dois canais, porque preço, frete e disponibilidade mudam."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/4",
+       "antes": "O cashback soma com o cupom? Sim. No teste, o cashback saiu sobre o valor já com o desconto do cupom.",
+       "depois": "O cashback soma com o cupom? No teste, o pedido com cupom continuou mostrando cashback previsto de até R$ 23,22. Era crédito para outra compra, não desconto adicional no total de R$ 232,20."
+      }
+     ]
+    },
+    {
+     "id": "clea-store-mercado-livre-ou-site-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Reordenacao de secoes confere com a main; aplicar por ultimo, depois das unidades por indice de P001 e P002.",
+     "ordem": "depois de clea-store-mercado-livre-ou-site-pt-r01-P001 e clea-store-mercado-livre-ou-site-pt-r01-P002 (move-sections por ultimo: os ponteiros usam indices atuais)",
+     "unidades": [
+      {
+       "op": "move-sections",
+       "ponteiro": "/contentSections",
+       "projecao": "headings",
+       "antes": [
+        "Resposta rápida",
+        "Os 7 anúncios do Mercado Livre e as 41 peças do site",
+        "O que só o site tem",
+        "O essencial: preço no Mercado Livre e no site",
+        "Cupom e cashback no site",
+        "Antes de comprar no Mercado Livre",
+        "Como escolher",
+        "Perguntas frequentes"
+       ],
+       "depois": [
+        "Resposta rápida",
+        "O essencial: preço no Mercado Livre e no site",
+        "Os 7 anúncios do Mercado Livre e as 41 peças do site",
+        "O que só o site tem",
+        "Cupom e cashback no site",
+        "Antes de comprar no Mercado Livre",
+        "Como escolher",
+        "Perguntas frequentes"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "clea-store-reclame-aqui-nota-reputacao",
+   "arquivo": "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "clea-store-reclame-aqui-nota-reputacao-pt-g102-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só o parágrafo de resolução/intenção de voltar e o CTA seguem; os demais units usam dados de setembro ou acrescentam data (teste de 14/10) e bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Na janela de 6 meses a nota cai e a resposta demora mais, e as taxas ficam em patamares parecidos nas duas. A leitura mais direta é que a Cléa Store responde a tudo, resolve a maior parte dos casos, e mesmo assim cerca de 4 em cada 10 consumidores que avaliaram não voltariam a fazer negócio.",
+       "depois": "O recorte de 6 meses tem nota menor e tempo médio de resposta maior que o de 12. As taxas de resolução das reclamações avaliadas são próximas, mas a intenção de voltar a comprar fica abaixo de 60% nos dois. Responder e resolver, portanto, não significou recuperar a confiança de todos os que avaliaram."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom CSEMCASACOMCECILIA, de 10% OFF em todo o site.",
+       "depois": "Se decidiu comprar na Cléa Store, use CSEMCASACOMCECILIA para ter 10% OFF em todo o site. Confira a aplicação do desconto no carrinho."
+      }
+     ]
+    },
+    {
+     "id": "clea-store-reclame-aqui-nota-reputacao-pt-g102-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aplicar com ajustes: sai o bastidor \"a política consultada informava\" e a frase \"troca direta de tamanho não foi confirmada\", que explica o que o texto não diz.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Se o pedido der problema, fale no botão \"Fale com Atendente\" do site. Se é a primeira compra, acompanhe o rastreio desde o início; se tem pressa, fale com a loja assim que o prazo vencer. As regras de devolução, defeito e arrependimento estão nas páginas de política da loja. Em resumo, o caminho é este:",
+       "depois": "Tenha o número do pedido e os registros da compra em mãos. O caminho depende do problema:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/1",
+       "antes": "**Devolução e defeito:** são 30 dias corridos para devolução e 90 dias corridos para defeito de fabricação, a partir do recebimento. Os prazos completos e o passo a passo estão em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel).",
+       "depois": "**Devolução e defeito:** a política da loja prevê 30 dias corridos para devolução e 90 para defeito de fabricação, a partir do recebimento. Os prazos e o passo a passo estão em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/4",
+       "antes": "Como pedir devolução ou troca na Cléa Store? A devolução tem 30 dias corridos a partir do recebimento, pelo formulário cleastore.troquefacil.com.br, e a postagem é grátis. Em caso de defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição.",
+       "depois": "Como pedir devolução ou troca na Cléa Store? A política da loja prevê devolução em até 30 dias corridos do recebimento, pelo formulário cleastore.troquefacil.com.br, com postagem grátis. Para defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição. Confira as condições atuais no site antes de pedir."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+   "arquivo": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "clea-store-tabela-de-medidas-como-escolher-tamanho-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aplicar com ajustes: os textos novos traziam \"Na leitura de 19/10/2026\", \"na captura\" e \"consultadas\", que são bastidor e data extra, e ficam fora. A remoção da imagem da seção 3 segue o parecer, que pede corrigir ou substituir essa arte (ela mostra um M de blazer sem registro); a calça 36 a 42 segue no texto, sem imagem própria. 3/pp0 é rebaseado no texto atual da main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. Nas peças de cima, ela traz busto, cintura e quadril; na t-shirt e no blazer, só busto e cintura. Na calça, a tabela traz cintura e quadril, com a numeração 36 a 42.",
+       "depois": "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. A t-shirt e o blazer trazem busto e cintura; o body acrescenta o quadril. A calça traz cintura e quadril, com a numeração 36 a 42."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "Nas peças de cima que lemos (t-shirt oversized, bodies e blazer oversized bordô), a tabela é a mesma. O P, o M e o G têm a mesma faixa de medidas em todas elas.",
+       "depois": "A t-shirt oversized e o body têm as mesmas faixas de busto e cintura em P, M e G, e o blazer bordô coincide em P e G."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Nas peças de cima, o P, o M e o G vestem o mesmo corpo em todas elas. Vale para a t-shirt, os bodies e o blazer oversized bordô; as medidas são do corpo, em centímetros.",
+       "depois": "Na t-shirt oversized e no body, P, M e G vestem o mesmo corpo. No blazer bordô, confira o M na página da peça. As medidas são do corpo, em centímetros."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "A tabela de medidas da Cléa Store não tem uma régua separada para o oversized. Na T-Shirt Oversized Algodão e no Blazer Oversized Alfaiataria Bordô, a tabela mostra busto e cintura com os mesmos números das peças justas, os da tabela acima. Essas são medidas do seu corpo, não da peça. A letra sai de onde o seu corpo cai na tabela, e não de quanto você quer de folga.",
+       "depois": "A tabela de medidas da Cléa Store não tem uma régua separada para o oversized. Na T-Shirt Oversized Algodão e no Blazer Oversized Alfaiataria Bordô, a tabela de busto e cintura usa os mesmos números das peças justas, os da tabela acima. São medidas do seu corpo, não da peça. A letra sai de onde o seu corpo cai na tabela, e não de quanto você quer de folga."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/1",
+       "antes": "O oversized é maior? Na medida do corpo, não: a tabela da t-shirt e do blazer oversized usa os mesmos números das peças justas. A folga vem do corte, que a loja descreve como caimento amplo.",
+       "depois": "O oversized é maior? Na medida do corpo, não: a t-shirt oversized usa as mesmas faixas de busto e cintura do body, e o blazer coincide em P e G. A folga vem do corte, que a loja descreve como caimento amplo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/metaDescription",
+       "antes": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Tabela de medidas: como medir busto, cintura e quadril e escolher entre P, M, G ou 36 a 42.",
+       "depois": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Veja como medir busto, cintura e quadril e consultar a tabela da peça."
+      },
+      {
+       "op": "remove",
+       "ponteiro": "/contentSections/3/images",
+       "antes": [
+        {
+         "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+         "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
+         "caption": "Tabela de medidas lida no site. Quadro do Em Casa com Cecília.",
+         "objectFit": "contain",
+         "aspectRatio": 2.1053
+        }
+       ],
+       "depois": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e usar o provador da página. Comparar com uma roupa sua só vale se você tiver as medidas das duas peças, tiradas do mesmo jeito.",
+       "depois": "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e perguntar à loja. Comparar com uma roupa sua só vale se você tiver as medidas das duas peças, tiradas do mesmo jeito."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "O que pesa é a modelagem da peça. No body justo, a tabela traz também o quadril: no Body Regata Second Skin Duplo, o G vai de 106 a 114 cm, e a descrição da loja fala em \"modelagem ajustada\" e \"efeito segunda pele\". Nele, a medida vale quase sem folga. No justo, a medida manda; no oversized, a folga já vem do corte.",
+       "depois": "A modelagem também pesa na escolha. No Body Regata Second Skin Duplo, a tabela traz quadril e o G vai de 106 a 114 cm; a loja descreve a modelagem como ajustada, com efeito segunda pele. Confira todas as medidas corporais e pergunte à loja se elas apontarem tamanhos diferentes; o corte, sozinho, não garante o caimento."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "cupom-clea-store-como-usar",
+   "arquivo": "content/reviews/cupom-clea-store-como-usar.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "cupom-clea-store-como-usar-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Tirei as datas repetidas (catraca: uma data no corpo, nenhuma no FAQ), o 'o print não confirma' (bastidor) e o 'por isso o número caiu' (inferência); o restante confere com a main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Veja o passo a passo para aplicar no carrinho e como ele soma com a promoção e com o cashback.",
+       "depois": "O CSEMCASACOMCECILIA dá 10% OFF na Cléa Store. Veja como aplicar no carrinho e a diferença entre o desconto imediato e o cashback previsto para outra compra."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/pros/2",
+       "antes": "Soma com o cashback de 10%: no teste, calculado sobre o valor com desconto",
+       "depois": "No teste, o pedido com cupom continuou mostrando cashback previsto de até 10% do total com desconto"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "No teste, R$ 23,22 é 10% de R$ 232,20: o cashback saiu sobre o valor já com o cupom, e por isso o número caiu de R$ 25,80 para R$ 23,22.",
+       "depois": "No teste, a previsão de até R$ 23,22 correspondia a 10% de R$ 232,20. Esse crédito é para uma compra futura e não reduziu o total do pedido."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "No nosso teste, os três valeram no mesmo pedido, nesta ordem:",
+       "depois": "No teste, a promoção reduziu o preço do kit e o cupom deu mais 10% de desconto. O checkout também mostrou a previsão de cashback para outra compra:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/12/bullets/4",
+       "antes": "O cupom da Cléa Store soma com o cashback? Sim. No nosso teste, o resumo do pedido continuou mostrando cashback, de até R$ 23,22.",
+       "depois": "O cupom da Cléa Store soma com o cashback? O pedido com cupom mostrou cashback previsto de até R$ 23,22 para outra compra, sem abater o total de R$ 232,20 no teste."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Você compra item em promoção e quer o desconto por cima, com o cashback junto",
+       "depois": "Você quer conferir o desconto em item promocional e o cashback previsto para uma compra futura"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/paragraphs/0",
+       "antes": "Se você já ia comprar na Cléa Store, sim. O CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, soma com as promoções e com o cashback, como no nosso teste. A única restrição é de um cupom por pedido.",
+       "depois": "Se você já ia comprar na Cléa Store, confira o CSEMCASACOMCECILIA no carrinho. Ele dá 10% OFF em todo o site e em todas as formas de pagamento. No teste, o desconto entrou no item promocional e o pedido mostrou uma previsão de cashback para outra compra. A loja aceita um cupom por pedido."
+      }
+     ]
+    },
+    {
+     "id": "cupom-clea-store-como-usar-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Tirei 'Não confirmamos essas condições para o pedido do teste' (bastidor); o resto confere com a main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cons/3",
+       "antes": "Cupom, cashback e frete grátis não são reembolsados em caso de devolução",
+       "depois": "As condições de reembolso de uma compra com cupom precisam ser confirmadas com a loja."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/paragraphs/0",
+       "antes": "A Cléa Store tem devolução grátis. Em caso de devolução, a política da loja não reembolsa cupom, cashback nem frete grátis.",
+       "depois": "A Cléa Store tem devolução grátis. Para devolver uma compra com cupom ou cashback, confirme com o atendimento o valor a reembolsar e o tratamento dos créditos."
+      }
+     ]
+    },
+    {
+     "id": "cupom-clea-store-como-usar-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o texto não tem data, bastidor nem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/12/bullets/0",
+       "antes": "Qual é o cupom da Cléa Store? O cupom da nossa parceria é o CSEMCASACOMCECILIA, que dá 10% OFF em todo o site oficial, o cleastore.com.br. Digite o código no campo \"Cupom de desconto\" do resumo do pedido e clique em \"Adicionar\".",
+       "depois": "Qual é o cupom da Cléa Store? É o CSEMCASACOMCECILIA, com 10% OFF em todo o site oficial, cleastore.com.br. No resumo do pedido, clique em “Adicionar” ao lado de “Cupom de desconto”, digite o código e confirme a aplicação.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+   "arquivo": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "look-trabalho-alfaiataria-feminina-clea-store-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só o op2 entra: a main já traz a calça dos looks 1 e 2 no subtítulo e no primeiro parágrafo, e a reescrita desses dois traz data e 'leitura de'; a data do op2 sai porque a base já tem 20/10/2026.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "O cupom CSEMCASACOMCECILIA dá 10% sobre o preço de venda, e a economia é o que ele tira. Só o look 3 traz uma calça da loja; nos outros, a calça de alfaiataria que você já tem fica fora da conta.",
+       "depois": "A tabela calcula 10% sobre os preços de venda, sem frete. Só o look 3 inclui calça da loja; nos looks 1 e 2, acrescente o custo da calça caso ainda precise comprá-la."
+      }
+     ]
+    },
+    {
+     "id": "look-trabalho-alfaiataria-feminina-clea-store-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "op0 e op1 já estão cobertos: a main qualifica o conjunto pela grade de outubro e cita a página do conjunto amarelo. Op2 entra sem 'Na leitura de' e sem a segunda data.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/1",
+       "antes": "A Calça Vermelha tinha só o tamanho P disponível. Se o seu tamanho não for P, este look não fecha com ela, e não havia outra calça de alfaiataria vermelha com estoque no catálogo para trocar.",
+       "depois": "Em outubro, a Calça Vermelha aparecia só no tamanho P, e não havia outra calça de alfaiataria vermelha em estoque para trocar. Confira a grade atual antes de escolher a peça."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

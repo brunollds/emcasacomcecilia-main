@@ -1,0 +1,1133 @@
+{
+ "lote": "L07",
+ "tipo": "familias",
+ "loja": "shein",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "black-friday-shein",
+   "arquivo": "content/reviews/black-friday-shein.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "black-friday-shein-pt-g023-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Título não pode perder '(11.11)' nem o termo de busca 'imposto zero' sem ganho: entra 'imposto de importação zero' (precisão, sem recuo). Meta: troca 'fases do histórico' por 'fases de desconto'. Descrição já coberta na main; a versão do ChatGPT trocava a descrição por lista de temas.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/title",
+       "antes": "Black Friday SHEIN 2026: quando começa, o que já está no ar (11.11) e o imposto zero até US$ 50",
+       "depois": "Black Friday SHEIN 2026: quando começa, o que já está no ar (11.11) e imposto de importação zero até US$ 50"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/metaDescription",
+       "antes": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases do histórico e imposto de importação zero até US$ 50.",
+       "depois": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases de desconto e imposto de importação zero até US$ 50."
+      }
+     ]
+    },
+    {
+     "id": "black-friday-shein-pt-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação sem promessa de desconto e sem %.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Monte o carrinho na SHEIN e confira o imposto no resumo do pedido antes de pagar",
+       "depois": "Pesquise 4CW5Y no app da SHEIN e confira as condições para a sua conta antes de comprar"
+      }
+     ]
+    },
+    {
+     "id": "black-friday-shein-pt-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Único ponto sem cobertura na trilha ChatGPT: o pros de ICMS. Título e meta desta proposta ficam fundidos na black-friday-shein-pt-g023-P002.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/pros/0",
+       "antes": "Desde 12 de maio de 2026, pedidos de até US$ 50 não pagam imposto de importação",
+       "depois": "Desde 12 de maio de 2026, pedidos de até US$ 50 têm alíquota zero de imposto de importação federal (ICMS estadual continua cobrado)"
+      }
+     ]
+    },
+    {
+     "id": "black-friday-shein-pt-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta é boa (SHEIN sem página de Black Friday, 4CW5Y pesquisado no app), mas o depois tem 65 palavras e a resposta rápida vai de 40 a 60. Encurtado para 58, mantendo 'ofertas principais' e 'sem promessa de desconto fixo'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou data nem página da Black Friday; pelo histórico, as ofertas dela entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa no app, sem promessa de desconto.",
+       "depois": "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou página da Black Friday; pelo histórico, as ofertas principais entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa na busca do app, sem promessa de desconto fixo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-shein-date-e-tasse",
+   "arquivo": "content/reviews/black-friday-shein-date-e-tasse.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "black-friday-shein-date-e-tasse-it-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação e das condições da conta, sem promessa de desconto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Prepara il carrello su SHEIN e controlla l'imposta nel riepilogo dell'ordine prima di pagare",
+       "depois": "Cerca 4CW5Y nell'app SHEIN e controlla le condizioni del tuo account prima di comprare",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "black-friday-shein-date-e-tasse-it-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida: o depois do Gemini tem 61 palavras (teto 60); encurtado para 59 mantendo 'offerte principali' e 'senza promessa di sconto fisso'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Il Black Friday 2026 cade il 27 novembre. Oggi SHEIN è nell'11.11 e non ha ancora pubblicato date né una pagina del Black Friday; dallo storico, le sue offerte arrivano dopo l'11.11 e vanno fino a fine mese. Il 4CW5Y è un codice di invito: si cerca nell'app, senza promessa di sconto.",
+       "depois": "Il Black Friday 2026 cade il 27 novembre. A inizio novembre SHEIN concentra le promozioni sull'11.11 e non ha ancora pubblicato la pagina del Black Friday; dallo storico, le offerte principali partono dopo l'11.11 e proseguono fino a fine mese. Il 4CW5Y è un codice di invito: si cerca nella barra di ricerca dell'app, senza promessa di sconto fisso."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-shein-dates-et-taxes",
+   "arquivo": "content/reviews/black-friday-shein-dates-et-taxes.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "black-friday-shein-dates-et-taxes-fr-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação e das condições da conta, sem promessa de desconto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Composez votre panier sur SHEIN et vérifiez les taxes dans le récapitulatif avant de payer",
+       "depois": "Recherchez 4CW5Y dans l'appli SHEIN et consultez les conditions de votre compte avant d'acheter",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "black-friday-shein-dates-et-taxes-fr-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida: o depois do Gemini tem 69 palavras (teto 60); encurtado para 59 mantendo as offres principales após o 11.11 e a promesse de remise fixe.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Le Black Friday 2026 tombe le 27 novembre. SHEIN est aujourd'hui au 11.11 et n'a publié ni dates ni page pour le Black Friday ; d'après l'historique, ses offres arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y est un code de parrainage : on le cherche dans l'appli, sans promesse de remise.",
+       "depois": "Le Black Friday 2026 tombe le 27 novembre. Début novembre, SHEIN est en pleine promo 11.11 et n'a pas encore publié la page du Black Friday; d'après l'historique, les offres principales arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y est un code de parrainage : on le cherche dans l'appli, sans promesse de remise."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-shein-fechas-impuestos",
+   "arquivo": "content/reviews/black-friday-shein-fechas-impuestos.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "black-friday-shein-fechas-impuestos-es-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação e das condições da conta, sem promessa de desconto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Arma tu carrito en SHEIN y revisa el impuesto en el resumen del pedido antes de pagar",
+       "depois": "Busca 4CW5Y en la app de SHEIN y revisa las condiciones para tu cuenta antes de comprar",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "black-friday-shein-fechas-impuestos-es-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida: o depois do Gemini tem 71 palavras (teto 60); encurtado para 60 mantendo as ofertas principales e o sem promesa de descuento.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "El Black Friday de 2026 cae el 27 de noviembre. Hoy SHEIN está en el 11.11 y todavía no publicó fechas ni página del Black Friday; según el historial, sus ofertas entran después del 11.11 y duran hasta fin de mes. El 4CW5Y es un código de referido: se busca en la app, sin promesa de descuento.",
+       "depois": "El Black Friday de 2026 cae el 27 de noviembre. A comienzos de noviembre, SHEIN está en el 11.11 y aún no publicó la página del Black Friday; según el historial, las ofertas principales entran tras el 11.11 y duran hasta fin de mes. El 4CW5Y es un código de referido: se busca en la app, sin promesa de descuento."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "code-de-parrainage-shein-ou-le-mettre",
+   "arquivo": "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "code-de-parrainage-shein-ou-le-mettre-fr-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O antes confere com a main e o texto de atribuição sai como no PT. O depois do ChatGPT usa apóstrofo tipográfico (’), e o artigo fr usa apóstrofo reto; igualei ao reto para manter o padrão do artigo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Pour que l'achat compte pour la personne qui a partagé le code, SHEIN indique que la commande doit être finalisée dans les 24 heures suivant la recherche ou le clic, et c'est le dernier code ou lien utilisé qui vaut. La commission n'augmente pas ce que vous payez.",
+       "depois": "Les achats effectués via le lien ou le code peuvent rapporter une commission à la personne qui l'a partagé, sans frais supplémentaires pour vous."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Comment fonctionne le code de parrainage SHEIN ? Selon SHEIN, il ouvre la page de la personne qui a partagé le code. Si vous finalisez l'achat dans les 24 heures, cette personne touche la commission, sans frais supplémentaires pour vous.",
+       "depois": "Comment fonctionne le code de parrainage SHEIN ? Il ouvre la page associée au code. Les achats effectués par ce biais peuvent rapporter une commission à la personne qui l'a partagé, sans frais supplémentaires pour vous."
+      }
+     ]
+    },
+    {
+     "id": "code-de-parrainage-shein-ou-le-mettre-fr-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "O antes confere com a main. O depois troca a referência ao programa antigo por 'anciens programmes', tira o dia exato do encerramento (como pede o parecer) e mantém o aviso de que o desconto fixo foi desativado; não há ponteiro em disputa.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "De nombreux guides et vidéos décrivent encore le programme d'affiliation que SHEIN a arrêté le 29 août 2024. Dans ce programme, qui utilisait le code d'un affilié recevait un code promo. SHEIN a désactivé ces codes, et le code promo a disparu avec eux.",
+       "depois": "De nombreux guides et vidéos décrivent encore d'anciens programmes de parrainage (comme le dispositif arrêté en août 2024). Dans ces anciens formats, utiliser le code d'un affilié donnait droit à un code promo de réduction fixe. SHEIN a désactivé ces anciens codes et cet avantage n'est plus en vigueur."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "codice-invito-shein-dove-inserirlo",
+   "arquivo": "content/reviews/codice-invito-shein-dove-inserirlo.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "codice-invito-shein-dove-inserirlo-it-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois antes conferem com a main; a troca tira a regra de 24 horas, que só afeta a comissão de quem divulgou e não muda o que o leitor paga. Cobre também o ponteiro /contentSections/5/bullets/2 disputado pela trilha Gemini.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Perché l'acquisto conti per chi ha condiviso il codice, SHEIN dice che l'ordine va completato entro 24 ore dalla ricerca o dal clic, e vale l'ultimo codice o link usato. La commissione non aumenta quello che paghi.",
+       "depois": "Gli acquisti effettuati tramite il link o il codice possono generare una commissione per chi lo ha condiviso, senza costi aggiuntivi per te."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Come funziona il codice invito SHEIN? Secondo SHEIN, apre la pagina di chi ha condiviso il codice. Se completi l'acquisto entro 24 ore, quella persona riceve la commissione, senza costi extra per te.",
+       "depois": "Come funziona il codice invito SHEIN? Apre la pagina collegata al codice. Gli acquisti effettuati da lì possono generare una commissione per chi lo ha condiviso, senza costi aggiuntivi per te."
+      }
+     ]
+    },
+    {
+     "id": "codice-invito-shein-dove-inserirlo-it-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "O antes confere com a main. O depois troca a referência ao programa antigo por 'anciens programmes', tira o dia exato do encerramento (como pede o parecer) e mantém o aviso de que o desconto fixo foi desativado; não há ponteiro em disputa.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Molte guide e video descrivono ancora il programma di affiliazione che SHEIN ha chiuso il 29 agosto 2024. In quel programma, chi usava il codice di un affiliato riceveva un coupon sconto. SHEIN ha disattivato quei codici, e il coupon è finito con loro.",
+       "depois": "Molte guide e video descrivono ancora programmi di affiliazione precedenti (come il modello chiuso ad agosto 2024). In quel formato, chi usava il codice di un affiliato riceveva un coupon sconto fisso. SHEIN ha disattivato quei vecchi codici e quel coupon non è più attivo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-indicacao-shein",
+   "arquivo": "content/reviews/codigo-de-indicacao-shein.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "codigo-de-indicacao-shein-pt-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois 'antes' conferem com a main; a troca tira a regra de 24 horas, que só afeta a comissão de quem divulgou e não muda o que o leitor paga, e o texto novo não traz fato sem fonte. Cobre também o ponteiro /contentSections/5/bullets/2, que a trilha Gemini disputa.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Para a compra contar para quem divulgou o código, a SHEIN diz que o pedido precisa ser finalizado em até 24 horas depois da busca ou do clique, e vale o último código ou link usado. A comissão não aumenta o que você paga.",
+       "depois": "Compras feitas pelo link ou pelo código podem gerar comissão para quem o divulga, sem custo extra para você.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Como funciona o código de indicação da SHEIN? Segundo a SHEIN, ele abre a página de quem divulgou o código. Se você finalizar a compra em até 24 horas, essa pessoa recebe a comissão, sem custo extra para você.",
+       "depois": "Como funciona o código de indicação SHEIN? Ele abre a página ligada ao código. Compras feitas por esse caminho podem gerar comissão para quem o compartilhou, sem custo extra para você.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-referido-shein-donde-ponerlo",
+   "arquivo": "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "codigo-de-referido-shein-donde-ponerlo-es-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois antes conferem com a main; a troca tira a regra de 24 horas, que só afeta a comissão de quem divulgou e não muda o que o leitor paga. Cobre também o ponteiro /contentSections/5/bullets/2 disputado pela trilha Gemini.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Para que la compra cuente para quien compartió el código, SHEIN indica que el pedido debe finalizarse dentro de las 24 horas posteriores a la búsqueda o al clic, y vale el último código o enlace usado. La comisión no aumenta lo que pagas.",
+       "depois": "Las compras realizadas a través del enlace o del código pueden generar una comisión para quien lo compartió, sin costo extra para ti."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "¿Cómo funciona el código de referido de SHEIN? Según SHEIN, abre la página de quien compartió el código. Si finalizas la compra dentro de 24 horas, esa persona recibe la comisión, sin costo extra para ti.",
+       "depois": "¿Cómo funciona el código de referido de SHEIN? Abre la página vinculada al código. Las compras realizadas por esa vía pueden generar una comisión para quien lo compartió, sin costo extra para ti."
+      }
+     ]
+    },
+    {
+     "id": "codigo-de-referido-shein-donde-ponerlo-es-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "O antes confere com a main. O depois troca a referência ao programa antigo por 'anciens programmes', tira o dia exato do encerramento (como pede o parecer) e mantém o aviso de que o desconto fixo foi desativado; não há ponteiro em disputa.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Muchas guías y vídeos todavía describen el programa de afiliados que SHEIN cerró el 29 de agosto de 2024. En él, quien usaba el código de un afiliado recibía un cupón de descuento. SHEIN desactivó esos códigos y el cupón desapareció con ellos.",
+       "depois": "Muchas guías y vídeos todavía describen programas de afiliados anteriores (como el esquema cerrado en agosto de 2024). En ellos, quien usaba el código de un afiliado recibía un cupón de descuento fijo. SHEIN desactivó esos códigos antiguos y ese beneficio ya no está vigente."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-auswahl-angebote",
+   "arquivo": "content/reviews/shein-11-11-auswahl-angebote.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "shein-11-11-auswahl-angebote-de-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois tira a frase genérica sobre quem deve usar a calça e mantém só a descrição da loja, como na versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "Es ist eine weite Jeans von Flexra mit elastischem Bund, die der Shop als bequem und mit weitem Bein beschreibt. Sie passt für alle, die eine Hose mit weitem Bein und elastischem Bund möchten.",
+       "depois": "Weite Jeans von Flexra mit elastischem Bund, vom Shop als bequem beschrieben.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-picks-ja",
+   "arquivo": "content/reviews/shein-11-11-picks-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "shein-11-11-picks-ja-ja-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois tira a frase genérica de adequação e mantém a única fonte do texto (a loja descreve como confortável), igual à decisão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "Flexra のウエストゴムのワイドデニムパンツで、ショップは楽でゆったりしたシルエットと説明しています。ウエストがゴムで脚まわりが広いパンツを探している人向けです。",
+       "depois": "Flexra のウエストゴムのワイドデニムパンツで、ショップは楽でゆったりしたシルエットと説明しています。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-11-11-picks-ja-ja-g058-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; troca o calque 合い間の季節 pelo termo natural 季節の変わり目 no texto e no occasion do styling, com o mesmo sentido e a mesma fonte.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/14/paragraphs/0",
+       "antes": "DAZY の長袖でスリムなスポーティーカーディガンで、ショップは薄手の合い間の季節のジャケットと説明しています。エアコンの効いた室内や夕方に羽織る軽い一枚を探している人向けです。",
+       "depois": "DAZY の長袖でスリムなスポーティーカーディガンで、ショップは季節の変わり目に着る薄手のジャケットと説明しています。エアコンの効いた室内や夕方に羽織る軽い一枚を探している人向けです。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/14/styling/items/0/occasion",
+       "antes": "合い間の季節、エアコンの効いた室内、夕方。",
+       "depois": "季節の変わり目、エアコンの効いた室内、夕方。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-picks-ko",
+   "arquivo": "content/reviews/shein-11-11-picks-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "shein-11-11-picks-ko-ko-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; tira a frase genérica de adequação e mantém a única fonte do texto, na mesma linha da decisão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "Flexra의 허리 밴딩 와이드 데님 팬츠로, 스토어는 편안하고 통이 넓은 핏으로 설명합니다. 허리가 밴딩이고 통이 넓은 바지를 찾는 분께 맞습니다.",
+       "depois": "Flexra의 허리 밴딩 와이드 데님 팬츠로, 스토어는 편안하고 통이 넓은 핏으로 설명합니다.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-picks-zh-hans",
+   "arquivo": "content/reviews/shein-11-11-picks-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "shein-11-11-picks-zh-hans-zh-hans-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; tira a frase genérica de adequação e mantém a única fonte do texto, na mesma linha da decisão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "这是 Flexra 的松紧腰阔腿牛仔裤，店家形容为舒适、裤腿宽松。适合想要一条裤腿宽、腰部有松紧的裤子的人。",
+       "depois": "这是 Flexra 的松紧腰阔腿牛仔裤，店家形容为舒适、裤腿宽松。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-picks-zh-hant",
+   "arquivo": "content/reviews/shein-11-11-picks-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "shein-11-11-picks-zh-hant-zh-hant-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; tira a frase genérica de adequação e mantém a única fonte do texto, na mesma linha da decisão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "這是 Flexra 的鬆緊腰寬褲牛仔褲，店家形容為舒適、褲管寬鬆。適合想要一條褲管寬、腰部有鬆緊的褲子的人。",
+       "depois": "這是 Flexra 的鬆緊腰寬褲牛仔褲，店家形容為舒適、褲管寬鬆。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-sale-picks",
+   "arquivo": "content/reviews/shein-11-11-sale-picks.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "shein-11-11-sale-picks-en-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois tira a frase genérica 'They suit anyone who wants...' e mantém a única fonte do texto (a loja descreve como confortável).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "Flexra wide-leg jeans with an elastic waist, which the store describes as comfortable with a wide leg. They suit anyone who wants wide-leg pants with an elastic waist.",
+       "depois": "Flexra wide-leg jeans with an elastic waist, described by the store as comfortable."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-selecao-da-cecilia",
+   "arquivo": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "shein-11-11-selecao-da-cecilia-pt-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O antes do parágrafo confere com a main, mas o bullet já mudou na main (o frete saiu). O 'Na leitura de 28/10/2026' da proposta é bastidor e levaria o corpo a três datas (catraca). O depois fica sem data e sem frete grátis, que é condicional e já saiu do bullet na main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "É uma calça jeans pantalona Flexra, de cintura elástica, que a loja descreve como confortável e de perna larga. Serve para quem quer uma calça de perna larga e cintura elástica. É a peça mais cara da seleção, e a página mostrava frete grátis.",
+       "depois": "Calça jeans pantalona Flexra com cintura elástica e perna larga, descrita pela loja como confortável. É a peça mais cara da seleção."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-seleccion-ofertas",
+   "arquivo": "content/reviews/shein-11-11-seleccion-ofertas.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "shein-11-11-seleccion-ofertas-es-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois tira a frase genérica sobre quién debe usar el pantalón y mantiene solo la descripción de la tienda, como en la versión EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "Es un vaquero ancho Flexra, de cintura elástica, que la tienda describe como cómodo y de pierna ancha. Sirve para quien quiere un pantalón de pierna ancha y cintura elástica.",
+       "depois": "Vaqueros Flexra de pierna ancha y cintura elástica, que la tienda describe como cómodos.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-selection-promos",
+   "arquivo": "content/reviews/shein-11-11-selection-promos.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "shein-11-11-selection-promos-fr-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois tira a frase genérica sobre qui doit porter le pantalon e mantém só a descrição de la boutique, como na versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "C'est un jean large Flexra, à taille élastique, que la boutique décrit comme confortable et à jambe large. Il convient à qui veut un pantalon à jambe large et taille élastique.",
+       "depois": "Jean Flexra à jambe large et taille élastique, décrit comme confortable par la boutique.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-11-11-selection-promos-fr-g058-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Correção de gênero: bermuda é masculino em francês (un bermuda); antes confere com a main e o depois é só a correção.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/23/styling/items/0/howTo",
+       "antes": "Porté sorti, avec un jean ou une bermuda, pour un style décontracté plus soigné.",
+       "depois": "Porté sorti, avec un jean ou un bermuda, pour un style décontracté plus soigné.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/26/styling/items/0/howTo",
+       "antes": "Avec une bermuda ou un short en molleton, pour un look de rue.",
+       "depois": "Avec un bermuda ou un short en molleton, pour un look de rue.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-11-11-selezione-offerte",
+   "arquivo": "content/reviews/shein-11-11-selezione-offerte.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "shein-11-11-selezione-offerte-it-g058-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois tira la frase generica su chi deve indossare i jeans e mantiene solo la descrizione del negozio, come nella versione EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/16/paragraphs/0",
+       "antes": "È un jeans palazzo Flexra con vita elastica, che il negozio descrive come comodo e a gamba larga. Va bene per chi vuole un pantalone a gamba larga con vita elastica.",
+       "depois": "Jeans Flexra a gamba larga con vita elastica, descritti dal negozio come comodi.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-black-friday-dates-taxes",
+   "arquivo": "content/reviews/shein-black-friday-dates-taxes.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "shein-black-friday-dates-taxes-en-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação e das condições da conta, sem promessa de desconto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Build your cart on SHEIN and check the taxes in the order summary before you pay",
+       "depois": "Search for 4CW5Y in the SHEIN app and check the conditions for your account before buying"
+      }
+     ]
+    },
+    {
+     "id": "shein-black-friday-dates-taxes-en-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Resposta rápida com o antes exato da main; o depois tem 59 palavras, 3 frases, sem data com dia além de 27 de novembro, e explica o 4CW5Y sem promessa de desconto fixo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Black Friday 2026 falls on November 27. SHEIN is in its 11.11 sale right now and has not published Black Friday dates or a page yet; going by past years, its Black Friday deals come after 11.11 and run to the end of the month. 4CW5Y is a referral code: you search for it in the app, with no discount promised.",
+       "depois": "Black Friday 2026 falls on November 27. In early November, SHEIN focuses promotions on its 11.11 sale before rolling out official Black Friday campaign pages; historically, major Black Friday deals launch after 11.11 and run through month-end. 4CW5Y is a referral code: you search for it in the search bar of the SHEIN app, with no fixed discount promised."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-black-friday-ja",
+   "arquivo": "content/reviews/shein-black-friday-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "shein-black-friday-ja-ja-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação e das condições da conta, sem promessa de desconto nem percentual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "SHEIN でカートを作り、支払う前に注文の概要で税金を確認しましょう",
+       "depois": "SHEINのアプリで4CW5Yを検索し、購入前にアカウントに表示される条件を確認しましょう",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-black-friday-ja-ja-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Resposta rápida com o antes exato da main; o depois mantém a data, o 11.11 como fase atual e o 4CW5Y como código de indicação sem promessa de desconto fixo, mesma decisão da versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "2026年のブラックフライデーは11月27日です。SHEINは現在11.11セールの最中で、ブラックフライデーの日程やページはまだ公開していません。過去の実績では、ブラックフライデーのセールは11.11の後に始まり、月末まで続きます。4CW5Yは紹介コードで、SHEINのアプリで検索して使い、割引は約束されません。",
+       "depois": "2026年のブラックフライデーは11月27日です。11月初旬の現在、SHEINは11.11セールに注力しており、公式なブラックフライデー特集ページは未公開です。過去の実績では、主要なセールは11.11以降に本格化し月末まで続きます。4CW5Yは紹介コードで、SHEINアプリの検索バーに入力して使用し、固定の割引率は約束されません。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-black-friday-ko",
+   "arquivo": "content/reviews/shein-black-friday-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "shein-black-friday-ko-ko-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação e das condições da conta, sem promessa de desconto nem percentual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "SHEIN에서 장바구니를 채우고, 결제 전에 주문 요약에서 세금을 확인하세요",
+       "depois": "SHEIN 앱에서 4CW5Y를 검색하고 구매 전에 계정에 표시되는 조건을 확인하세요",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-black-friday-ko-ko-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Resposta rápida com o antes exato da main; o depois mantém a data, o 11.11 como fase atual e o 4CW5Y como código de indicação sem promessa de desconto fixo, mesma decisão da versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "2026년 블랙프라이데이는 11월 27일입니다. SHEIN은 지금 11.11 세일 중이며 블랙프라이데이 날짜와 페이지는 아직 공개하지 않았습니다. 지난 기록을 보면 블랙프라이데이 할인은 11.11 이후에 시작해 월말까지 이어집니다. 4CW5Y는 추천 코드로, 앱에서 검색해 쓰며 할인을 약속하지 않습니다.",
+       "depois": "2026년 블랙프라이데이는 11월 27일입니다. 11월 초 현재 SHEIN은 11.11 프로모션에 집중하고 있으며 공식 블랙프라이데이 페이지는 아직 공개하지 않았습니다. 지난 기록상 주요 할인은 11.11 이후 본격화되어 월말까지 이어집니다. 4CW5Y는 추천 코드로, SHEIN 앱 검색창에 직접 입력해 검색하며 고정 할인율을 약속하지 않습니다.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-black-friday-termine-steuern",
+   "arquivo": "content/reviews/shein-black-friday-termine-steuern.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "shein-black-friday-termine-steuern-de-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação e das condições da conta, sem promessa de desconto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Stellen Sie den Warenkorb bei SHEIN zusammen und prüfen Sie die Steuer in der Bestellübersicht, bevor Sie bezahlen",
+       "depois": "Suchen Sie 4CW5Y in der SHEIN-App und prüfen Sie vor dem Kauf die Bedingungen für Ihr Konto",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-black-friday-termine-steuern-de-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Resposta rápida com o antes exato da main; o depois tem 53 palavras, 3 frases, sem data extra e sem promessa de desconto fixo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Der Black Friday 2026 fällt auf den 27. November. SHEIN ist derzeit beim 11.11 und hat weder Termine noch eine Seite zum Black Friday veröffentlicht; nach den Vorjahren kommen die Black-Friday-Angebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y ist ein Empfehlungscode: Sie suchen ihn in der App, ohne Rabattversprechen.",
+       "depois": "Der Black Friday 2026 fällt auf den 27. November. Anfang November konzentriert SHEIN seine Aktionen auf den 11.11, bevor offizielle Black-Friday-Seiten freigeschaltet werden; nach den Vorjahren starten die Hauptangebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y ist ein Empfehlungscode: Sie geben ihn in die Suchleiste der SHEIN-App ein, ohne festes Rabattversprechen.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-black-friday-zh-hans",
+   "arquivo": "content/reviews/shein-black-friday-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "shein-black-friday-zh-hans-zh-hans-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação e das condições da conta, sem promessa de desconto nem percentual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在 SHEIN 挑选商品加入购物车，付款前先在订单摘要确认税金",
+       "depois": "在 SHEIN App 中搜索 4CW5Y，购买前先查看账户显示的条件",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-black-friday-zh-hans-zh-hans-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Resposta rápida com o antes exato da main; o depois mantém a data, o 11.11 como fase atual e o 4CW5Y como código de indicação sem promessa de desconto fixo, mesma decisão da versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "2026 年黑色星期五是 11 月 27 日。SHEIN 目前正在办 11.11 促销，还没有公布黑色星期五的日期和页面；从往年来看，黑色星期五的优惠在 11.11 之后到来，持续到月底。4CW5Y 是推荐码，要在 App 里搜索，不承诺任何折扣。",
+       "depois": "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正重点开展 11.11 促销活动，尚未开放正式的黑色星期五页面；从往年规律看，主要优惠在 11.11 之后陆续上线并延续至月底。4CW5Y 是推荐码，需在 SHEIN App 搜索栏中输入检索，不承诺固定折扣比例。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-black-friday-zh-hant",
+   "arquivo": "content/reviews/shein-black-friday-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "shein-black-friday-zh-hant-zh-hant-g023-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "CTA com o antes exato da main; o depois fala do código de indicação e das condições da conta, sem promessa de desconto nem percentual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在 SHEIN 組好購物車，付款前先在訂單摘要確認稅金",
+       "depois": "在 SHEIN App 中搜尋 4CW5Y，購買前先查看帳號顯示的條件",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-black-friday-zh-hant-zh-hant-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Resposta rápida com o antes exato da main; o depois mantém a data, o 11.11 como fase atual e o 4CW5Y como código de indicação sem promessa de desconto fixo, mesma decisão da versão EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "2026 年黑色星期五是 11 月 27 日。SHEIN 目前正在辦 11.11 促銷，還沒有公布黑色星期五的日期和頁面；從往年來看，黑色星期五的優惠在 11.11 之後到來，持續到月底。4CW5Y 是推薦碼，要在 App 裡搜尋，不承諾任何折扣。",
+       "depois": "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正集中推廣 11.11 活動，尚未開放正式的黑色星期五活動頁面；依往年經驗，主力折扣在 11.11 後陸續登場並持續至月底。4CW5Y 是推薦碼，請在 SHEIN App 搜尋欄輸入查詢，不承諾固定折扣比率。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-empfehlungscode-wo-eingeben",
+   "arquivo": "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "shein-empfehlungscode-wo-eingeben-de-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois antes conferem com a main; a troca tira a regra de 24 horas, que só afeta a comissão de quem divulgou e não muda o que o leitor paga. Cobre também o ponteiro /contentSections/5/bullets/2 disputado pela trilha Gemini.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Damit der Kauf für die Person zählt, die den Code weitergegeben hat, muss die Bestellung laut SHEIN innerhalb von 24 Stunden nach der Suche oder dem Klick abgeschlossen werden, und es gilt der zuletzt verwendete Code oder Link. Die Provision erhöht nicht, was Sie zahlen.",
+       "depois": "Käufe über den Link oder Code können der Person, die ihn geteilt hat, eine Provision einbringen, ohne Mehrkosten für Sie."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "Wie funktioniert der SHEIN-Empfehlungscode? Laut SHEIN öffnet er die Seite der Person, die den Code weitergegeben hat. Schließen Sie den Kauf innerhalb von 24 Stunden ab, erhält diese Person die Provision, ohne Mehrkosten für Sie.",
+       "depois": "Wie funktioniert der SHEIN-Empfehlungscode? Er öffnet die mit dem Code verknüpfte Seite. Käufe über diesen Weg können der Person, die ihn geteilt hat, eine Provision einbringen, ohne Mehrkosten für Sie."
+      }
+     ]
+    },
+    {
+     "id": "shein-empfehlungscode-wo-eingeben-de-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "O antes confere com a main. O depois troca a referência ao programa antigo por 'anciens programmes', tira o dia exato do encerramento (como pede o parecer) e mantém o aviso de que o desconto fixo foi desativado; não há ponteiro em disputa.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Viele Anleitungen und Videos beschreiben noch das Affiliate-Programm, das SHEIN am 29. August 2024 beendet hat. Wer darin den Code eines Affiliates nutzte, bekam einen Rabattgutschein. SHEIN hat diese Codes deaktiviert, und der Gutschein ist mit ihnen weggefallen.",
+       "depois": "Viele Anleitungen und Videos beschreiben noch frühere Empfehlungsprogramme (wie das im August 2024 eingestellte Modell). Wer darin den Code eines Affiliates nutzte, bekam einen festen Rabattgutschein. SHEIN hat diese alten Codes deaktiviert, und dieser Gutschein existiert nicht mehr."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-referral-code-ja",
+   "arquivo": "content/reviews/shein-referral-code-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "shein-referral-code-ja-ja-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois 'antes' conferem com a main; a troca tira a regra de 24 horas, que só afeta a comissão de quem divulgou, e cobre o ponteiro /contentSections/5/bullets/2 que a trilha Gemini disputa, igual ao PT e ao EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "購入がコードを紹介した人の成果になるには、検索またはクリックから24時間以内に注文を完了する必要がある、とSHEINは説明しています。有効なのは最後に使ったコードまたはリンクです。手数料で支払い額が増えることはありません。",
+       "depois": "リンクやコードを経由した購入により、コードを紹介した人が手数料を受け取る場合があります。購入者の負担は増えません。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "SHEINの紹介コードはどういう仕組みですか？ SHEINによると、コードを紹介した人のページが開きます。24時間以内に購入を完了すると、その人に手数料が入り、あなたの負担は増えません。",
+       "depois": "SHEINの紹介コードはどういう仕組みですか？ コードに紐づくページが開きます。この経路での購入により、コードを紹介した人が手数料を受け取る場合があります。購入者の負担は増えません。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-referral-code-ja-ja-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "O 'antes' confere com a main e o 'depois' descreve o programa antigo como 'anterior, de 2024' sem o dia exato do encerramento, igual ao EN; o 'fixed' vem do parecer e a frase não traz regra quebrada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "多くのガイドや動画が、SHEINが2024年8月29日に終了したアフィリエイトプログラムをいまも紹介しています。そのプログラムでは、アフィリエイターのコードを使うと割引クーポンがもらえました。SHEINはそれらのコードを無効にし、クーポンもなくなりました。",
+       "depois": "多くのガイドや動画が、過去の紹介プログラム（2024年8月に終了した旧制度など）をいまも紹介しています。そのプログラムでは、アフィリエイターのコードを使うと固定の割引クーポンがもらえました。SHEINはそれらの旧コードを無効にし、そのクーポン特典も現在は終了しています。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-referral-code-ko",
+   "arquivo": "content/reviews/shein-referral-code-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "shein-referral-code-ko-ko-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois 'antes' conferem com a main; a troca tira a regra de 24 horas, que só afeta a comissão de quem divulgou, e cobre o ponteiro /contentSections/5/bullets/2 que a trilha Gemini disputa, igual ao PT e ao EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "구매가 코드를 공유한 사람의 실적으로 잡히려면 검색이나 클릭 후 24시간 안에 주문을 마쳐야 한다고 SHEIN은 설명합니다. 마지막으로 사용한 코드나 링크가 적용됩니다. 수수료 때문에 결제 금액이 늘어나지는 않습니다.",
+       "depois": "링크나 코드를 통해 구매하면 코드를 공유한 사람에게 수수료가 지급될 수 있으며, 구매자에게 추가 비용은 없습니다.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "SHEIN 추천 코드는 어떻게 작동하나요? SHEIN에 따르면 코드를 공유한 사람의 페이지가 열립니다. 24시간 안에 구매를 마치면 그 사람이 수수료를 받으며, 회원님에게 추가 비용은 없습니다.",
+       "depois": "SHEIN 추천 코드는 어떻게 작동하나요? 코드에 연결된 페이지가 열립니다. 이 경로로 구매하면 코드를 공유한 사람에게 수수료가 지급될 수 있으며, 구매자에게 추가 비용은 없습니다.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-referral-code-ko-ko-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "O 'antes' confere com a main e o 'depois' descreve o programa antigo como 'anterior, de 2024' sem o dia exato do encerramento, igual ao EN; o 'fixed' vem do parecer e a frase não traz regra quebrada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "많은 가이드와 영상이 SHEIN이 2024년 8월 29일에 종료한 제휴 프로그램을 아직도 설명합니다. 그 프로그램에서는 제휴 파트너의 코드를 쓰면 할인 쿠폰을 받았습니다. SHEIN은 그 코드를 비활성화했고, 쿠폰도 함께 사라졌습니다.",
+       "depois": "많은 가이드와 영상이 이전의 추천 프로그램(예: 2024년 8월에 종료된 기존 방식)을 아직도 설명합니다. 그 프로그램에서는 제휴 파트너의 코드를 쓰면 고정 할인 쿠폰을 받았습니다. SHEIN은 기존 코드를 비활성화했고 해당 쿠폰 혜택도 더 이상 제공되지 않습니다.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-referral-code-where-to-enter",
+   "arquivo": "content/reviews/shein-referral-code-where-to-enter.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "shein-referral-code-where-to-enter-en-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois 'antes' conferem com a main e o 'depois' tira a regra de 24 horas, que afeta só a comissão de quem divulgou, sem mudar o custo do leitor. Ficou igual ao PT no mesmo sentido, e cobre o ponteiro /contentSections/5/bullets/2 que a trilha Gemini disputa.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "For the purchase to count for the person who shared the code, SHEIN says the order must be completed within 24 hours of the search or click, and the last code or link used applies. The commission doesn't raise what you pay.",
+       "depois": "Purchases made through the link or code may earn the person who shared it a commission, at no extra cost to you.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "How does the SHEIN referral code work? According to SHEIN, it opens the page of the person who shared the code. If you complete the purchase within 24 hours, that person earns the commission, at no extra cost to you.",
+       "depois": "How does the SHEIN referral code work? It opens the page linked to the code. Purchases made through that route may earn the person who shared it a commission, at no extra cost to you.",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-referral-code-where-to-enter-en-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "O 'antes' confere com a main. O 'depois' troca 'affiliate program' por 'older referral programs', o que evita confundir o programa antigo com o atual, que também é de afiliados, e tira o dia exato do encerramento, como pede o parecer. O 'fixed' vem do parecer (cupom fixo), e o trecho não traz regra quebrada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "Many guides and videos still describe the affiliate program that SHEIN ended on August 29, 2024. Under it, anyone using an affiliate's code got a discount coupon. SHEIN deactivated those codes, and the coupon ended with them.",
+       "depois": "Many guides and videos still describe older referral programs (such as the legacy program retired in August 2024). Under those earlier setups, anyone using an affiliate's code received a fixed discount coupon. SHEIN deactivated those codes, and that coupon structure is no longer active.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-referral-code-zh-hans",
+   "arquivo": "content/reviews/shein-referral-code-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "shein-referral-code-zh-hans-zh-hans-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois 'antes' conferem com a main; a troca tira a regra de 24 horas, que só afeta a comissão de quem divulgou, e cobre o ponteiro /contentSections/5/bullets/2 que a trilha Gemini disputa, igual ao PT e ao EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "要让这笔订单算作分享推荐码的人的业绩，SHEIN 表示订单必须在搜索或点击后 24 小时内完成，并以最后一次使用的推荐码或链接为准。佣金不会增加你支付的金额。",
+       "depois": "通过链接或推荐码购物，分享推荐码的人可能获得佣金，你无需额外付费。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "SHEIN 推荐码是怎么运作的？据 SHEIN 说明，它会打开分享推荐码的人的页面。如果你在 24 小时内完成购买，那个人会获得佣金，你无需额外付费。",
+       "depois": "SHEIN 推荐码是怎么运作的？它会打开与推荐码关联的页面。通过这个途径购物，分享推荐码的人可能获得佣金，你无需额外付费。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-referral-code-zh-hans-zh-hans-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "O 'antes' confere com a main e o 'depois' descreve o programa antigo como 'anterior, de 2024' sem o dia exato do encerramento, igual ao EN; o 'fixed' vem do parecer e a frase não traz regra quebrada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "很多攻略和视频仍在介绍 SHEIN 于 2024 年 8 月 29 日结束的联盟计划。在那个计划里，使用联盟推广者推荐码的人可以获得一张折扣优惠券。SHEIN 停用了这些推荐码，优惠券也随之取消。",
+       "depois": "很多攻略和视频仍在介绍早期的联盟计划（例如 2024 年 8 月结束的旧模式）。在那个计划里，使用联盟推广者推荐码的人可以获得一张固定折扣优惠券。SHEIN 停用了这些旧推荐码，该优惠券机制也已结束。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "shein-referral-code-zh-hant",
+   "arquivo": "content/reviews/shein-referral-code-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "shein-referral-code-zh-hant-zh-hant-g034-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os dois 'antes' conferem com a main; a troca tira a regra de 24 horas, que só afeta a comissão de quem divulgou, e cobre o ponteiro /contentSections/5/bullets/2 que a trilha Gemini disputa, igual ao PT e ao EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "要讓這筆訂單算作分享推薦碼的人的業績，SHEIN 表示訂單必須在搜尋或點擊後 24 小時內完成，並以最後一次使用的推薦碼或連結為準。傭金不會增加你支付的金額。",
+       "depois": "透過連結或推薦碼購物，分享推薦碼的人可能獲得傭金，你無須額外付費。",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/2",
+       "antes": "SHEIN 推薦碼是怎麼運作的？據 SHEIN 說明，它會開啟分享推薦碼的人的頁面。如果你在 24 小時內完成購買，那個人會獲得傭金，你無須額外付費。",
+       "depois": "SHEIN 推薦碼是怎麼運作的？它會開啟與推薦碼連結的頁面。透過這個途徑購物，分享推薦碼的人可能獲得傭金，你無須額外付費。",
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "shein-referral-code-zh-hant-zh-hant-r02-gemini-P002",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "O 'antes' confere com a main e o 'depois' descreve o programa antigo como 'anterior, de 2024' sem o dia exato do encerramento, igual ao EN; o 'fixed' vem do parecer e a frase não traz regra quebrada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "很多攻略和影片仍在介紹 SHEIN 於 2024 年 8 月 29 日結束的聯盟計畫。在那個計畫裡，使用聯盟推廣者推薦碼的人可以獲得一張折扣優惠券。SHEIN 停用了這些推薦碼，優惠券也隨之取消。",
+       "depois": "很多攻略和影片仍在介紹早期的聯盟計畫（例如 2024 年 8 月結束的舊模式）。在那個計畫裡，使用聯盟推廣者推薦碼的人可以獲得一張固定折扣優惠券。SHEIN 停用了這些舊推薦碼，該優惠券機制也已結束。",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

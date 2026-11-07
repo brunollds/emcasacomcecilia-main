@@ -1,0 +1,2858 @@
+{
+ "lote": "L05",
+ "tipo": "familias",
+ "loja": "hostinger",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "hostinger-avis-trustpilot",
+   "arquivo": "content/reviews/hostinger-avis-trustpilot.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "hostinger-avis-trustpilot-fr-g139-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Números de outubro (24/10, 73 411) trocados pelos de novembro da main (73 830); bastidor 'Nous distinguons' tirado; SONAR20 dito como compra nova. Op 1 descartada: a main já traz a ressalva das duas amostras.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Oui, avec une réserve. En novembre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 830 avis sur Trustpilot et avait répondu à 99 % des avis négatifs. L’entreprise invite ses clients à noter, ce qui peut gonfler la moyenne, et les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement. Pour l’hébergement, la facturation demande de surveiller le renouvellement automatique ; voyez plus bas comment le désactiver. Les 20 % de la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger).",
+       "depois": "Oui, avec une réserve : en novembre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 830 avis. Dans notre échantillon, les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement ; surveillez le renouvellement automatique. Pour un nouvel achat éligible, le [code SONAR20 de Hostinger](/fr/coupons/hostinger) offre 20 % sur la première période."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-avis-trustpilot-fr-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op 0 e FAQ da main já dizem o certo (nova compra, domínio e renovação fora) e mantêm os links; a proposta os tirava. Só o CTA é encurtado, como na EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour un nouvel achat de forfait ou de produit, hors enregistrement de domaine ; le renouvellement est facturé au prix catalogue, sans réduction.",
+       "depois": "Utilisez SONAR20 : 20 % sur la première période d’un nouvel achat éligible, hors enregistrement de domaines et renouvellement."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-avis-trustpilot-fr-g139-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Description: antes confere; data e número trocados pelos de novembro (73 830), que é a base da main. Meta descartada: data de outubro e 'l’article analyse un échantillon distinct' é bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Hostinger a un TrustScore de 4,6 sur Trustpilot pour plus de 73 000 avis. Voyez les plaintes les plus citées et comment désactiver le renouvellement automatique.",
+       "depois": "Hostinger sur Trustpilot en novembre 2026 : TrustScore 4,6 et 73 830 avis. Le guide examine les invitations dans l’échantillon, les plaintes et le renouvellement automatique."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-e-affidabile",
+   "arquivo": "content/reviews/hostinger-e-affidabile.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "hostinger-e-affidabile-it-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase da renovação como transação e a linha de VPS; as linhas de 96 horas e o parágrafo de pedido de reembolso já estão cobertos pelo texto atual da main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "La politica di rimborso di Hostinger (versione del 15/10/2026) concede 30 giorni per chiedere il rimborso, contati dalla data della transazione. Secondo la politica stessa, anche il rinnovo è una transazione: ogni addebito fa ripartire il termine. La tabella mostra cosa elenca:",
+       "depois": "La politica prevede 30 giorni dalla transazione per i prodotti idonei; anche un rinnovo può contare come transazione. Questo non rende rimborsabili i prodotti esclusi. La tabella riassume le regole e le condizioni particolari per VPS e domini:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "Sì, entro 30 giorni, e solo se l'ultimo rimborso di un VPS è stato richiesto più di 180 giorni fa",
+       "depois": "Entro 30 giorni dalla transazione, con l'intervallo di 180 giorni tra rimborsi VPS."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-e-affidabile-it-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e deixa a FAQ com a experiência e as checagens antes de pagar; o 99,9% e o crédito de 5% da main ficam.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare e 30 giorni per provare. Se il sito non può andare offline, sappi quanto vale il 99,9% della pagina dei prezzi: il contratto di hosting promette questo minimo ogni mese e, quando non lo rispetta, un credito del 5% del canone mensile, da richiedere entro 30 giorni; non copre ciò che hai smesso di vendere. Se il tuo dubbio è il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) ha le date e le regole di ogni offerta.",
+       "depois": "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare; il rimborso di 30 giorni dipende dall'idoneità del prodotto e non vale come prova gratuita per tutti i prodotti. Se il sito non può andare offline, sappi quanto vale il 99,9% della pagina dei prezzi: il contratto di hosting promette questo minimo ogni mese e, quando non lo rispetta, un credito del 5% del canone mensile, da richiedere entro 30 giorni; non copre ciò che hai smesso di vendere. Se il tuo dubbio è il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) ha le date e le regole di ogni offerta."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "Hostinger è affidabile? È un'azienda grande, con politiche pubbliche di rimborso e di rinnovo. Ciò che merita attenzione è il rinnovo automatico e il suo prezzo, non l'affidabilità dell'azienda.",
+       "depois": "Hostinger è affidabile? La nostra esperienza con hosting e assistenza è stata positiva. Prima di acquistare, controlla l'idoneità al rimborso, il prezzo del rinnovo e l'azienda indicata al pagamento; dimensioni e politiche pubbliche non sostituiscono queste verifiche."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-e-affidabile-it-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível e conferir o total); as FAQ de cupom já dizem a regra.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono sull'acquisto nuovo di un piano (la registrazione di domini è esclusa); il rinnovo si paga al prezzo di listino, senza sconto.",
+       "depois": "Inserisci SONAR20 nel carrello o usa il link: 20% sul primo periodo di un nuovo acquisto idoneo. La registrazione di domini e il rinnovo sono esclusi dallo sconto; controlla il totale prima di pagare."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-e-affidabile-it-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota da Trustpilot com o caráter de recorte, mas tira a data da consulta: a regra é uma data só no corpo e a data da renovação (15/10) já sai neste lote; o esclarecimento sobre a experiência do Bruno entra igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Su Trustpilot il punteggio è 4,6, ma con inviti da parte dell'azienda.",
+       "depois": "All'ultima verifica, Hostinger aveva un punteggio di 4,6 su Trustpilot. Le recensioni includevano inviti dell'azienda: è un riferimento di quel momento, non l'esperienza di tutti i clienti."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "È un'esperienza, non una garanzia. Non dice cosa succederà con il tuo piano, né con un piano a un altro prezzo o per un altro periodo.",
+       "depois": "È il racconto di Bruno, non un monitoraggio della disponibilità né una previsione per tutti i piani."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-e-affidabile-it-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A política oficial de reembolso de domínio (consultada) exige mais de 24 horas desde um reembolso anterior de domínio, além das 96 horas; a main não diz isso. Aplicada só na linha da tabela, sem repetir a regra no corpo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/3/1",
+       "antes": "Solo entro 96 ore, e alcune estensioni non sono rimborsabili",
+       "depois": "Solo entro 96 ore, e solo se sono trascorse più di 24 ore da un precedente rimborso di un dominio; alcune estensioni non sono rimborsabili"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-e-confiavel",
+   "arquivo": "content/reviews/hostinger-e-confiavel.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "hostinger-e-confiavel-pt-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase da renovação como transação e a linha de VPS; as linhas de 96 horas e o parágrafo de pedido de reembolso já estão cobertos pelo texto atual da main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "A política de reembolso da Hostinger (versão de 15/10/2026) dá 30 dias para pedir o dinheiro de volta, contados da data da transação. Pela própria política, a renovação também é uma transação: cada cobrança recomeça o prazo. A tabela mostra o que ela lista:",
+       "depois": "A política de reembolso prevê 30 dias a partir da transação para produtos elegíveis; uma renovação também pode contar como transação. Isso não estende o prazo a produtos excluídos. A tabela resume as regras, com condições especiais para VPS e domínios:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "Sim, em 30 dias, e só se o último reembolso de VPS tiver sido pedido há mais de 180 dias",
+       "depois": "Em até 30 dias da transação, sujeito ao intervalo de 180 dias entre reembolsos de VPS."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-e-confiavel-pt-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e deixa a FAQ com a experiência e as checagens antes de pagar; o 99,9% e o crédito de 5% da main ficam.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Para um blog, um site pessoal ou uma loja pequena, a Hostinger entrega o serviço com regras claras e um prazo de 30 dias para testar. Se o site não pode ficar fora do ar, saiba o que o 99,9% da página de preços vale: o contrato de hospedagem promete esse mínimo por mês e, quando falha, um crédito de 5% da mensalidade, pedido em até 30 dias; ele não cobre o que você deixou de vender. Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) tem as datas e as regras de cada oferta.",
+       "depois": "Para um blog, um site pessoal ou uma loja pequena, a Hostinger entrega o serviço com regras claras; o reembolso de 30 dias depende da elegibilidade do produto e não vale como teste grátis para todos os produtos. Se o site não pode ficar fora do ar, saiba o que o 99,9% da página de preços vale: o contrato de hospedagem promete esse mínimo por mês e, quando falha, um crédito de 5% da mensalidade, pedido em até 30 dias; ele não cobre o que você deixou de vender. Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) tem as datas e as regras de cada oferta."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "A Hostinger é confiável? É uma empresa grande, com política de reembolso e de renovação públicas. O que pede atenção é a renovação automática e o preço dela, não a idoneidade da empresa.",
+       "depois": "A Hostinger é confiável? Nossa experiência com hospedagem e suporte foi positiva. Antes de contratar, confira o produto coberto pelo reembolso, o preço da renovação e a empresa que aparece no checkout; porte e política pública não substituem essas verificações."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-e-confiavel-pt-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível e conferir o total); as FAQ de cupom e a metaDescription da main já dizem a regra, e a metaDescription proposta perderia a pergunta 'A Hostinger é confiável?'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em compra nova de plano (registro de domínio fica de fora); a renovação sai pelo preço de tabela, sem desconto.",
+       "depois": "Digite SONAR20 no carrinho ou entre pelo link: 20% no primeiro período de uma compra nova elegível. Registro de domínio e renovação ficam fora do desconto; confira o total antes de pagar."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-e-confiavel-pt-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota do Reclame Aqui e do Trustpilot com o caráter de recorte, mas tira a data da consulta: o corpo já tem 15/10/2026 acima da tabela e a regra é uma data só; o esclarecimento sobre a experiência do Bruno entra igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "No Reclame Aqui, a nota é 8,4 em 12 meses. No Trustpilot é 4,6, mas com convites da empresa; os detalhes estão no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao).",
+       "depois": "Na última consulta, a Hostinger tinha nota 8,4 no recorte de 12 meses do Reclame Aqui e 4,6 no Trustpilot, onde havia avaliações a convite da empresa. Os recortes e os detalhes estão no [artigo de reputação da Hostinger](/reviews/hostinger-reclame-aqui-nota-reputacao)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Isso é uma experiência, não uma garantia. Ela não diz o que vai acontecer com o seu plano, nem com um plano de outro preço ou outro período.",
+       "depois": "É o relato do Bruno, não um monitoramento de disponibilidade nem uma previsão para todos os planos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-es-confiable",
+   "arquivo": "content/reviews/hostinger-es-confiable.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "hostinger-es-confiable-es-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase da renovação como transação e a linha de VPS; as linhas de 96 horas e o parágrafo de pedido de reembolso já estão cobertos pelo texto atual da main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "La política de reembolso de Hostinger (versión del 15/10/2026) da 30 días para pedir el dinero de vuelta, contados desde la fecha de la transacción. Según la propia política, la renovación también es una transacción: cada cobro reinicia el plazo. La tabla muestra lo que lista:",
+       "depois": "La política prevé 30 días desde la transacción para productos elegibles; una renovación también puede contar como transacción. Esto no vuelve reembolsables los productos excluidos. La tabla resume las reglas y las condiciones especiales de VPS y dominios:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "Sí, dentro de 30 días, y solo si el último reembolso de VPS se pidió hace más de 180 días",
+       "depois": "Dentro de 30 días desde la transacción, sujeto al intervalo de 180 días entre reembolsos de VPS."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-es-confiable-es-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e deixa a FAQ com a experiência e as checagens antes de pagar; o 99,9% e o crédito de 5% da main ficam.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Para un blog, un sitio personal o una tienda pequeña, Hostinger presta el servicio con reglas claras y un plazo de 30 días para probar. Si el sitio no puede caerse, ten claro lo que vale el 99,9 % de la página de precios: el contrato de hosting promete ese mínimo cada mes y, cuando falla, un crédito del 5 % de la mensualidad, que se pide en un plazo de 30 días; no cubre lo que dejaste de vender. Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) tiene las fechas y las reglas de cada oferta.",
+       "depois": "Para un blog, un sitio personal o una tienda pequeña, Hostinger presta el servicio con reglas claras; el reembolso de 30 días depende del producto y no es una prueba gratuita para todos los productos. Si el sitio no puede caerse, ten claro lo que vale el 99,9 % de la página de precios: el contrato de hosting promete ese mínimo cada mes y, cuando falla, un crédito del 5 % de la mensualidad, que se pide en un plazo de 30 días; no cubre lo que dejaste de vender. Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) tiene las fechas y las reglas de cada oferta."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "¿Es confiable Hostinger? Es una empresa grande, con políticas públicas de reembolso y de renovación. Lo que merece atención es la renovación automática y su precio, no la idoneidad de la empresa.",
+       "depois": "¿Es confiable Hostinger? Nuestra experiencia con el hosting y el soporte ha sido positiva. Antes de contratar, revisa la cobertura del reembolso, el precio de renovación y la empresa que aparece en el pago; el tamaño de la empresa y sus políticas públicas no sustituyen esas comprobaciones."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-es-confiable-es-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível e conferir o total); as FAQ de cupom já dizem a regra.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a la compra nueva de un plan (el registro de dominio queda fuera); la renovación se cobra al precio de lista, sin descuento.",
+       "depois": "Introduce SONAR20 en el carrito o entra por el enlace: 20 % en el primer período de una compra nueva elegible. El registro de dominios y la renovación quedan fuera del descuento; revisa el total antes de pagar."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-es-confiable-es-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota da Trustpilot com o caráter de recorte, mas tira a data da consulta: a regra é uma data só no corpo e a data da renovação (15/10) já sai neste lote; o esclarecimento sobre a experiência do Bruno entra igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "En Trustpilot la nota es 4,6, pero con invitaciones de la empresa.",
+       "depois": "En la última consulta, Hostinger tenía un 4,6 en Trustpilot. Entre las reseñas había invitaciones de la empresa; es una referencia de ese momento, no la experiencia de todos los clientes."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Es una experiencia, no una garantía. No dice qué pasará con tu plan, ni con un plan de otro precio o de otro período.",
+       "depois": "Es el relato de Bruno, no un seguimiento de disponibilidad ni una previsión para todos los planes."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-es-confiable-es-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A política oficial de reembolso de domínio (consultada) exige mais de 24 horas desde um reembolso anterior de domínio, além das 96 horas; a main não diz isso. Aplicada só na linha da tabela, sem repetir a regra no corpo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/3/1",
+       "antes": "Solo dentro de 96 horas, y algunas extensiones no admiten reembolso",
+       "depois": "Solo dentro de 96 horas, y solo si han pasado más de 24 horas desde un reembolso de dominio previo; algunas extensiones no admiten reembolso"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-est-il-fiable",
+   "arquivo": "content/reviews/hostinger-est-il-fiable.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "hostinger-est-il-fiable-fr-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase da renovação como transação e a linha de VPS; as linhas de 96 horas e o parágrafo de pedido de reembolso já estão cobertos pelo texto atual da main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "La politique de remboursement de Hostinger (version du 15/10/2026) donne 30 jours pour demander le remboursement, à compter de la date de la transaction. Selon la politique elle-même, un renouvellement est aussi une transaction : chaque prélèvement relance le délai. Le tableau montre ce qu'elle liste :",
+       "depois": "La politique prévoit 30 jours après la transaction pour les produits éligibles ; un renouvellement peut aussi constituer une transaction. Cela ne rend pas remboursables les produits exclus. Le tableau résume les règles et les conditions particulières des VPS et des domaines :"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "Oui, sous 30 jours, et seulement si le dernier remboursement de VPS a été demandé il y a plus de 180 jours",
+       "depois": "Sous 30 jours après la transaction, avec un intervalle de 180 jours entre remboursements VPS."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-est-il-fiable-fr-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e deixa a FAQ com a experiência e as checagens antes de pagar; o 99,9% e o crédito de 5% da main ficam. O título de seção proposto não entra: troca só de estilo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Pour un blog, un site personnel ou une petite boutique, Hostinger fournit le service avec des règles claires et 30 jours pour essayer. Si le site ne peut pas tomber, sachez ce que vaut le 99,9 % de la page des tarifs : le contrat d'hébergement promet ce minimum chaque mois et, en cas de manquement, un crédit de 5 % de la mensualité, à demander sous 30 jours ; il ne couvre pas ce que vous n'avez pas pu vendre. Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) donne les dates et les règles de chaque offre.",
+       "depois": "Pour un blog, un site personnel ou une petite boutique, Hostinger fournit le service avec des règles claires ; le remboursement sous 30 jours dépend du produit et n'est pas un essai gratuit pour tous les produits. Si le site ne peut pas tomber, sachez ce que vaut le 99,9 % de la page des tarifs : le contrat d'hébergement promet ce minimum chaque mois et, en cas de manquement, un crédit de 5 % de la mensualité, à demander sous 30 jours ; il ne couvre pas ce que vous n'avez pas pu vendre. Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) donne les dates et les règles de chaque offre."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "Hostinger est-il fiable ? C'est une grande entreprise, avec des politiques publiques de remboursement et de renouvellement. Ce qui demande de l'attention, c'est le renouvellement automatique et son prix, pas le sérieux de l'entreprise.",
+       "depois": "Hostinger est-il fiable ? Notre expérience de l'hébergement et du support a été positive. Avant de souscrire, vérifiez les produits remboursables, le tarif de renouvellement et la société indiquée au paiement ; la taille de l'entreprise et ses politiques publiques ne remplacent pas ces vérifications."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-est-il-fiable-fr-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível e conferir o total); as FAQ de cupom já dizem a regra.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour le nouvel achat d'un forfait (l'enregistrement de domaine est exclu) ; le renouvellement est facturé au prix catalogue, sans réduction.",
+       "depois": "Saisissez SONAR20 dans le panier ou passez par le lien : 20 % sur la première période d'un nouvel achat éligible. Les enregistrements de domaines et les renouvellements sont exclus de la réduction ; vérifiez le total avant de payer."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-est-il-fiable-fr-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota da Trustpilot com o caráter de recorte, mas tira a data da consulta: a regra é uma data só no corpo e a data da renovação (15/10) já sai neste lote; o esclarecimento sobre a experiência do Bruno entra igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Sur Trustpilot, la note est de 4,6, mais avec des invitations de l'entreprise.",
+       "depois": "Lors de la dernière consultation, Hostinger avait une note de 4,6 sur Trustpilot. Les avis comprenaient des invitations de l'entreprise : c'est une référence de ce moment, pas l'expérience de tous les clients."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "C'est une expérience, pas une garantie. Elle ne dit pas ce qui arrivera avec votre forfait, ni avec un forfait à un autre prix ou pour une autre période.",
+       "depois": "Il s'agit du témoignage de Bruno, pas d'un suivi de disponibilité ni d'une prévision pour tous les forfaits."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-est-il-fiable-fr-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A política oficial de reembolso de domínio (consultada) exige mais de 24 horas desde um reembolso anterior de domínio, além das 96 horas; a main não diz isso. Aplicada só na linha da tabela, sem repetir a regra no corpo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/3/1",
+       "antes": "Seulement sous 96 heures, et certaines extensions ne sont pas remboursables",
+       "depois": "Seulement sous 96 heures, et uniquement si plus de 24 heures se sont écoulées depuis un précédent remboursement de domaine ; certaines extensions ne sont pas remboursables"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-opiniones-trustpilot",
+   "arquivo": "content/reviews/hostinger-opiniones-trustpilot.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "hostinger-opiniones-trustpilot-es-g139-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Mesma intenção da FR: números de outubro trocados pelos de novembro da main; a lista de quejas fica atribuída à muestra (ressalva que muda a leitura); SONAR20 dito como compra nueva. Op 1 descartada: a main já traz a ressalva das dos muestras.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Sí, con una salvedad. En noviembre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.830 opiniones en Trustpilot y respondió al 99 % de las negativas. La empresa invita a los clientes a opinar, lo que puede subir el promedio, y las quejas más citadas son la atención por IA, los cobros y la renovación. En el hosting, los cobros piden atención a la renovación automática; abajo ves cómo desactivarla. El 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger).",
+       "depois": "Sí, con una salvedad: en noviembre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.830 opiniones en Trustpilot. En nuestra muestra, las quejas más citadas son la atención por IA, cobros y renovación; en hosting, revisa la renovación automática. Para una compra nueva elegible, el [cupón SONAR20 de Hostinger](/es/coupons/hostinger) da un 20 % en el primer período."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-opiniones-trustpilot-es-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op 0 e FAQ da main já corretos (compra nueva, dominios e renovación fuera) e com os links; só o CTA é encurtado, como na EN. A FAQ 9/5 fica: 'Sí, en compra nueva' é a resposta direta e a versão 'Puede aplicarse' enfraquece. A flag SONAR20-renovacao? está resolvida: a main já diz que a renovação sai ao preço de lista.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. Los 20 % se aplican a la compra nueva de planes y productos, sin incluir el registro de dominios; la renovación se cobra al precio de lista, sin descuento.",
+       "depois": "Usa SONAR20: 20 % en el primer período de una compra nueva elegible. No se aplica al registro de dominios ni a la renovación."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-opiniones-trustpilot-es-g139-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Description: antes confere; data e número trocados pelos de novembro (73.830), base da main. Meta descartada: data de outubro e 'el artículo analiza una muestra aparte' é bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Hostinger tiene un TrustScore de 4,6 en Trustpilot con más de 73.000 opiniones. Mira las quejas más citadas y cómo desactivar la renovación automática.",
+       "depois": "Hostinger en Trustpilot en noviembre de 2026: TrustScore 4,6 y 73.830 opiniones. Revisa las opiniones invitadas de la muestra, los temas de las quejas y la renovación automática."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-recensioni-trustpilot",
+   "arquivo": "content/reviews/hostinger-recensioni-trustpilot.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "hostinger-recensioni-trustpilot-it-g139-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Números de outubro trocados pelos de novembro da main (73.830); atribuição da lista de reclami ao campione; SONAR20 dito como acquisto nuovo. Op 1 descartada: a main já traz a ressalva dei due campioni.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Sì, con riserva. A novembre 2026 la Hostinger aveva un TrustScore di 4,6 su 73.830 recensioni su Trustpilot e aveva risposto al 99% di quelle negative. L’azienda invita i clienti a recensire, e così può alzare la media, e i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo. Sull’hosting la fatturazione chiede attenzione al rinnovo automatico; più sotto trovi come disattivarlo. Il 20% sul primo periodo arriva dal [coupon SONAR20 della Hostinger](/it/coupons/hostinger).",
+       "depois": "Sì, con riserva: a novembre 2026 Hostinger aveva un TrustScore di 4,6 su 73.830 recensioni su Trustpilot. Nel nostro campione i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo; sull’hosting, controlla il rinnovo automatico. Per un acquisto nuovo idoneo, il [coupon SONAR20 della Hostinger](/it/coupons/hostinger) dà il 20% sul primo periodo."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-recensioni-trustpilot-it-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op 0 e FAQ da main já corretos e com os links; a proposta os tirava. Só o CTA é encurtado, como na EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono sull’acquisto nuovo di piani e prodotti, esclusa la registrazione di domini; il rinnovo si paga al prezzo di listino, senza sconto.",
+       "depois": "Usa SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Registrazione di domini e rinnovo sono esclusi."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-recensioni-trustpilot-it-g139-P004",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Description da main é de novembro, e a proposta de outubro não serve; reescrita no dado atual e sem a causalidade 'come influiscono gli inviti', que a main sugere. Meta descartada: data de outubro e 'l’articolo esamina un campione distinto' é bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Hostinger su Trustpilot: TrustScore 4,6 su 73.830 recensioni a novembre 2026, come influiscono gli inviti, di cosa si lamentano i clienti e come disattivare il rinnovo automatico.",
+       "depois": "Hostinger su Trustpilot a novembre 2026: TrustScore 4,6 e 73.830 recensioni. L’articolo esamina inviti nel campione, temi dei reclami e rinnovo automatico."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-reclame-aqui-nota-reputacao",
+   "arquivo": "content/reviews/hostinger-reclame-aqui-nota-reputacao.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "hostinger-reclame-aqui-nota-reputacao-pt-g139-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Resposta rápida em 3 frases, sem 'No período lido' e com o período explícito. O bullet 6/2 da proposta descartado: a main já diz que o convite pode puxar a média, e a troca traz uma frase de bastidor sobre a amostra. Ajuste: o final da resposta rápida diz \"para compra nova elegível\", porque a regra do SONAR20 é só compra nova; sem isso, o \"primeiro período\" podia ser lido como renovação.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Sim, com uma ressalva. No período lido, a Hostinger tinha reputação Ótima no Reclame Aqui, respondia quase todas as reclamações e marcava a maior parte como resolvida. O problema mais citado é a cobrança indevida, que na hospedagem pede atenção com a renovação automática. Veja abaixo como desligá-la; os 20% do primeiro período vêm do [cupom SONAR20 da Hostinger](/cupons/hostinger).",
+       "depois": "Sim, com uma ressalva. Nos seis meses até setembro, a Hostinger tinha reputação Ótima no Reclame Aqui, mas a cobrança indevida lidera o ranking de problemas dos últimos três anos, e na hospedagem a renovação automática pede atenção. Veja abaixo como desligá-la; para compra nova elegível, o [cupom SONAR20 da Hostinger](/cupons/hostinger) dá 20% no primeiro período."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reclame-aqui-nota-reputacao-pt-g139-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só o parágrafo 9/0 muda, para tirar 'No período lido' sem perder os números. Descartados: a meta (data com dia e % fora da 1ª frase; ainda 161 caracteres), a description (tira o gancho 'cobrança indevida'), o parágrafo 9/1 (tira os números e repete a ressalva da main), o FAQ 10/0 e o 10/1 ('Na leitura de' é bastidor e a data com dia não cabe na FAQ).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "Pelo Reclame Aqui, sim. No período lido, a reputação era Ótima (nota 8,6 em 6 meses e 8,4 em 12 meses). A empresa respondeu 99,3% das 1.352 reclamações dos 6 meses e marcou 88,6% como resolvidas, e 80,3% de quem avaliou voltaria a fazer negócio.",
+       "depois": "Pelo Reclame Aqui, sim. Nos seis meses até setembro, a reputação era Ótima (nota 8,6; em 12 meses, 8,4). A empresa respondeu 99,3% das 1.352 reclamações dos 6 meses e marcou 88,6% como resolvidas, e 80,3% de quem avaliou voltaria a fazer negócio."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-reclame-aqui-nota-reputacao-pt-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O parágrafo 11/0 usa a exclusão de domínio que a main já tem e mantém os links da Black Friday e de confiança (a proposta os tirava). O CTA entra como proposto. A FAQ 10/4 descartada: a resposta da main ('Sim, em compra nova') já é direta e correta; a versão 'Pode valer' enfraquece sem ganho.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/paragraphs/0",
+       "antes": "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Os 20% valem na compra nova de planos e produtos, menos no registro de domínio; a renovação sai pelo preço de tabela. Veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa.",
+       "depois": "Se decidiu contratar, use SONAR20 no campo de cupom do carrinho: 20% no primeiro período de uma compra nova elegível, inclusive para quem já tem conta. O desconto não vale para registro de domínio, e a renovação sai pelo preço de tabela. Veja a [página da Hostinger](/cupons/hostinger) e o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Se você já decidiu, use o código SONAR20 no carrinho, ou entre pelo link: 20% no primeiro período.",
+       "depois": "Para uma compra nova elegível, use SONAR20 no carrinho: 20% no primeiro período. Registro de domínio e renovação não recebem esse desconto."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trust-guide-ja",
+   "arquivo": "content/reviews/hostinger-trust-guide-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "hostinger-trust-guide-ja-ja-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase da renovação como transação e a linha de VPS, no mesmo texto da versão PT; as linhas de 96 horas e o pedido de reembolso já estão cobertos pela main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "Hostingerの返金ポリシー（2026年10月15日版）では、取引日から30日以内に返金を求めることができます。ポリシー上、更新も一つの取引にあたるため、請求のたびに期間が新たに始まります。次の表はポリシーに記載されている内容です。",
+       "depois": "返金ポリシーでは、対象商品について取引日から30日以内の申請を認めており、更新も取引に含まれる場合があります。対象外の商品まで返金可能になるわけではありません。表では、VPSとドメインの特別条件を含む主なルールをまとめています。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "はい、30日以内。ただし前回のVPS返金申請から180日を超えて経過している場合に限る",
+       "depois": "取引日から30日以内。VPSの返金は前回の申請から180日の間隔が必要です。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-ja-ja-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e mantém os 99,9% com o crédito de 5% da main; a linha do suporte de confiança recebe o texto de experiência com checagens.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "ブログ、個人サイト、小さなショップであれば、Hostingerは明確なルールと、試すための30日間でサービスを提供します。サイトを止められない場合は、料金ページの99.9%がどれほどの価値かを知っておいてください。ホスティング契約は毎月この最低水準を約束しており、守られなかったときは月額料金の5%がクレジットされ、30日以内の申請が必要です。ただし、売り損ねた分は補償されません。ブラックフライデーについて知りたい場合は、[キャンペーンのガイド](/ja/reviews/hostinger-black-friday-ja)に日程と各オファーのルールがあります。",
+       "depois": "ブログ、個人サイト、小規模なショップなら、Hostingerは明確なルールのもとでサービスを提供します。30日間の返金は対象商品に限られ、すべての商品を無料で試せる制度ではありません。サイトを止められない場合は、料金ページの99.9%がどれほどの価値かを知っておいてください。ホスティング契約は毎月この最低水準を約束しており、守られなかったときは月額料金の5%がクレジットされ、30日以内の申請が必要です。ただし、売り損ねた分は補償されません。ブラックフライデーについて知りたい場合は、[キャンペーンのガイド](/ja/reviews/hostinger-black-friday-ja)に日程と各オファーのルールがあります。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "Hostingerは信頼できますか？ 返金と更新のポリシーを公開している大手企業です。注目すべきは会社の信頼性ではなく、自動更新とその価格です。",
+       "depois": "Hostingerは信頼できますか？ 私たちのホスティングとサポートの利用経験は良好でした。契約前には返金対象、更新価格、支払い画面に出る会社を確認してください。会社の規模や公開ポリシーだけで、その確認を省くことはできません。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-ja-ja-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível, domínio e renovação fora, conferir o total); as FAQ de cupom já dizem a regra e ficam como estão.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。20%割引はプランの新規購入に適用され（ドメイン登録は対象外）、更新は通常料金で、割引はありません。",
+       "depois": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、対象となる新規購入の初回期間が20%割引になります。ドメイン登録と更新は対象外です。支払い前に合計を確認してください。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-ja-ja-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota do Trustpilot com o recorte, mas tira a data da consulta (a regra é uma data só no corpo, e a data da refund já sai pelo P001); o relato do Bruno entra com a experiência restrita ao próprio Bruno.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Trustpilotの評価は4.6ですが、会社からの招待によるレビューを含みます。",
+       "depois": "最後に確認した時点で、HostingerのTrustpilot評価は4.6でした。会社からの招待によるレビューも含まれます。この時点の記録であり、すべての顧客の経験を示すものではありません。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "Em Casa com CecíliaはHostinger上で動いています。この文章の署名者でもあるBrunoは2024年からの顧客で、24か月を超える契約があります。ビジネスホスティング、KVM 2 VPS、ビジネスメールとドメインを、すべて自動更新で利用しています。サービスが停止したことはなく、問題が起きるたびにサポート、主にAIエージェントが解決してくれました。",
+       "depois": "Em Casa com CecíliaはHostinger上で動いています。この文章の署名者でもあるBrunoは2024年からの顧客で、24か月を超える契約があります。ビジネスホスティング、KVM 2 VPS、ビジネスメールとドメインを、すべて自動更新で利用しています。Bruno自身はサービスの停止を経験しておらず、問題が起きるたびにサポート、主にAIエージェントが解決してくれました。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "これは一つの経験であり、保証ではありません。あなたのプランや、価格や期間の異なるプランで何が起きるかを示すものではありません。",
+       "depois": "これはBruno個人の利用記録であり、稼働率の監視結果や全プランの予測ではありません。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-ja-ja-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A célula da main já exclui extensões; acrescento a carência de 24 h desde o último reembolso de domínio, que o parecer registra como política global e que PT, IT e ES já aceitaram. Descartar aqui quebrava a família.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/3/1",
+       "antes": "96時間以内に限る（対象外の拡張子もあります）",
+       "depois": "96時間以内に限る（対象外の拡張子もあります。前回のドメイン返金から24時間以上経過している場合のみ）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trust-guide-ko",
+   "arquivo": "content/reviews/hostinger-trust-guide-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "hostinger-trust-guide-ko-ko-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase da renovação como transação e a linha de VPS, no mesmo texto da versão PT; as linhas de 96 horas e o pedido de reembolso já estão cobertos pela main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "호스팅어의 환불 정책(2026년 10월 15일 버전)은 거래일로부터 30일 안에 환불을 요청할 수 있다고 정합니다. 정책에 따르면 갱신도 하나의 거래이므로, 청구가 있을 때마다 기간이 다시 시작됩니다. 아래 표는 정책에 나와 있는 내용입니다.",
+       "depois": "환불 정책은 대상 상품에 대해 거래일로부터 30일의 신청 기간을 정하며, 갱신도 거래에 포함될 수 있습니다. 그렇다고 환불 제외 상품까지 대상이 되는 것은 아닙니다. 아래 표는 VPS와 도메인의 특별 조건을 포함한 주요 규정을 정리한 것입니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "예, 30일 이내. 단, 마지막 VPS 환불을 요청한 지 180일이 넘은 경우에만",
+       "depois": "거래일로부터 30일 이내이며, VPS 환불 사이에는 180일 간격 조건이 적용됩니다."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-ko-ko-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e mantém os 99,9% com o crédito de 5% da main; a linha do suporte de confiança recebe o texto de experiência com checagens.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "블로그, 개인 사이트, 작은 쇼핑몰이라면 호스팅어는 분명한 규정과 써 볼 수 있는 30일을 제공합니다. 사이트가 중단되면 안 된다면 요금 페이지의 99.9%가 어떤 의미인지 알아 두세요. 호스팅 계약은 매월 이 최소 수준을 약속하며, 지키지 못하면 월 요금의 5%를 크레딧으로 주고, 30일 이내에 신청해야 합니다. 놓친 매출은 보상하지 않습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에 일정과 각 혜택의 규정이 있습니다.",
+       "depois": "블로그, 개인 사이트, 작은 쇼핑몰이라면 호스팅어는 분명한 규정을 제공합니다. 30일 환불은 대상 상품에만 적용되며, 모든 상품을 무료로 써 볼 수 있는 것은 아닙니다. 사이트가 중단되면 안 된다면 요금 페이지의 99.9%가 어떤 의미인지 알아 두세요. 호스팅 계약은 매월 이 최소 수준을 약속하며, 지키지 못하면 월 요금의 5%를 크레딧으로 주고, 30일 이내에 신청해야 합니다. 놓친 매출은 보상하지 않습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에 일정과 각 혜택의 규정이 있습니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "호스팅어는 믿을 만한가요? 환불과 갱신 정책을 공개한 대형 업체입니다. 눈여겨볼 것은 회사의 신뢰성이 아니라 자동 갱신과 그 가격입니다.",
+       "depois": "호스팅어는 믿을 만한가요? 저희의 호스팅과 지원 이용 경험은 긍정적이었습니다. 계약 전에는 환불 대상, 갱신 가격, 결제 화면에 표시된 회사를 확인하세요. 회사 규모와 공개된 정책만으로 이 확인을 대신할 수는 없습니다."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-ko-ko-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível, domínio e renovação fora, conferir o total); as FAQ de cupom já dizem a regra e ficam como estão.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 20% 할인은 요금제 신규 구매에 적용되며(도메인 등록은 제외), 갱신은 할인 없이 정가로 청구됩니다.",
+       "depois": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 대상 신규 구매의 첫 결제 기간에 20% 할인이 적용됩니다. 도메인 등록과 갱신은 제외되니, 결제 전에 최종 금액을 확인하세요."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-ko-ko-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota do Trustpilot com o recorte, mas tira a data da consulta (a regra é uma data só no corpo); o relato do Bruno entra com a experiência restrita ao próprio Bruno, como nas outras versões.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Trustpilot 평점은 4.6이지만, 회사의 후기 요청이 반영된 점수입니다.",
+       "depois": "최근 확인 당시 호스팅어의 Trustpilot 평점은 4.6이었습니다. 회사의 요청을 받아 작성된 후기도 포함됩니다. 이 수치는 당시의 기록이며 모든 고객의 경험을 나타내지는 않습니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "Em Casa com Cecília는 호스팅어에서 운영됩니다. 이 글에 서명한 브루노는 2024년부터 고객이었으며, 24개월 이상의 계약을 유지하고 있습니다. 비즈니스 호스팅, KVM 2 VPS, 비즈니스 이메일과 도메인이 있고, 모두 자동 갱신입니다. 서비스가 중단된 적은 없었고, 문제가 생길 때마다 지원이, 주로 AI 상담원이 해결해 주었습니다.",
+       "depois": "Em Casa com Cecília는 호스팅어에서 운영됩니다. 이 글에 서명한 브루노는 2024년부터 고객이었으며, 24개월 이상의 계약을 유지하고 있습니다. 비즈니스 호스팅, KVM 2 VPS, 비즈니스 이메일과 도메인이 있고, 모두 자동 갱신입니다. 브루노는 서비스 중단을 직접 겪지 않았으며, 문제가 생길 때마다 지원이, 주로 AI 상담원이 해결해 주었습니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "이것은 하나의 경험일 뿐 보장이 아닙니다. 회원님의 요금제나, 가격 또는 기간이 다른 요금제에 어떤 일이 생길지는 알려 주지 않습니다.",
+       "depois": "브루노 개인의 이용 기록이지, 가용성 모니터링이나 모든 요금제에 대한 예측은 아닙니다."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-ko-ko-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A célula da main já exclui extensões; acrescento a carência de 24 h desde o último reembolso de domínio, que o parecer registra como política global e que PT, IT e ES já aceitaram. Descartar aqui quebrava a família.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/3/1",
+       "antes": "96시간 이내에만, 환불이 안 되는 확장자도 있음",
+       "depois": "96시간 이내에만(이전 도메인 환불 신청 후 24시간 이상 지난 경우), 환불이 안 되는 확장자도 있음"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trust-guide-zh-hans",
+   "arquivo": "content/reviews/hostinger-trust-guide-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "hostinger-trust-guide-zh-hans-zh-hans-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase da renovação como transação e a linha de VPS, no mesmo texto da versão PT; as linhas de 96 horas e o pedido de reembolso já estão cobertos pela main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "Hostinger 的退款政策（2026 年 10 月 15 日版本）给出 30 天的申请期，从交易日起算。按政策本身的说法，续费也算一笔交易：每次扣款都会重新开始计算。下表列出了政策中的内容：",
+       "depois": "退款政策为符合条件的产品提供自交易日起30天的申请期，续费也可能算一笔交易。这不代表原本不退款的产品也变成可以退款。下表整理主要规则，VPS和域名另有特殊条件："
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "可以，30 天内，且仅限上一次 VPS 退款是在 180 天以前申请的",
+       "depois": "交易日起30天内，并须符合VPS退款之间的180天间隔。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-zh-hans-zh-hans-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e mantém os 99,9% com o crédito de 5% da main; a linha do suporte de confiança recebe o texto de experiência com checagens.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "如果是博客、个人网站或小型网店，Hostinger 提供规则清晰的服务，并有 30 天可以试用。如果网站不能宕机，请了解价格页面上的 99.9% 到底意味着什么：托管协议承诺每月达到这一最低水平，未达到时给予月费 5% 的抵扣额度，需在 30 天内申请；它不赔偿你因此少卖的损失。如果你想了解黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)里有各项优惠的日期和规则。",
+       "depois": "如果是博客、个人网站或小型网店，Hostinger 提供规则清晰的服务。30 天退款只适用于符合条件的产品，并非所有产品都能免费试用。如果网站不能宕机，请了解价格页面上的 99.9% 到底意味着什么：托管协议承诺每月达到这一最低水平，未达到时给予月费 5% 的抵扣额度，需在 30 天内申请；它不赔偿你因此少卖的损失。如果你想了解黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)里有各项优惠的日期和规则。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "Hostinger 靠谱吗？这是一家大公司，退款和续费政策都是公开的。值得留意的是自动续费及其价格，而不是公司本身是否正规。",
+       "depois": "Hostinger 靠谱吗？我们使用主机和客服的体验是积极的。购买前仍应核对退款资格、续费价格以及结账页面显示的公司；公司规模和公开政策不能代替这些确认。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-zh-hans-zh-hans-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível, domínio e renovação fora, conferir o total); as FAQ de cupom já dizem a regra e ficam como estão.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。这 20% 适用于套餐的新购（域名注册除外）；续费按标价收费，没有折扣。",
+       "depois": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：符合条件的新购首期享 20% 折扣。域名注册和续费不适用，付款前请确认总额。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-zh-hans-zh-hans-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota do Trustpilot com o recorte, mas tira a data da consulta (a regra é uma data só no corpo); o esclarecimento do relato do Bruno entra igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "在 Trustpilot 上评分为 4.6，但其中有公司发出邀请而来的评价。",
+       "depois": "最近一次查询时，Trustpilot 上的评分为 4.6，其中包含公司发出邀请而来的评价。这是当时的记录，不代表所有客户的体验。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "这只是一次个人经验，不是保证。它说明不了你的套餐会怎样，也说明不了价格或周期不同的套餐会怎样。",
+       "depois": "这是Bruno个人的使用记录，不是可用性监测结果，也不能预测每个套餐的表现。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-zh-hans-zh-hans-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A célula da main já exclui extensões; acrescento a carência de 24 h desde o último reembolso de domínio, que o parecer registra como política global e que PT, IT e ES já aceitaram. Descartar aqui quebrava a família.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/3/1",
+       "antes": "仅限 96 小时内，部分后缀不支持退款",
+       "depois": "仅限 96 小时内（且距上一次域名退款申请须超过 24 小时），部分后缀不支持退款"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trust-guide-zh-hant",
+   "arquivo": "content/reviews/hostinger-trust-guide-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "hostinger-trust-guide-zh-hant-zh-hant-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase da renovação como transação e a linha de VPS, no mesmo texto da versão PT; as linhas de 96 horas e o pedido de reembolso já estão cobertos pela main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "Hostinger 的退款政策（2026 年 10 月 15 日版本）給予 30 天的申請期，從交易日起算。依政策本身的說法，續訂也算一筆交易：每次扣款都會重新計算期限。下表列出政策中的內容：",
+       "depois": "退款政策給予符合資格的產品自交易日起30天的申請期，續訂也可能算一筆交易。這不代表原本不退款的產品也變成可退款。下表整理主要規則，VPS與網域另有特殊條件："
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "可以，30 天內，且僅限上一次 VPS 退款是在 180 天以前申請的",
+       "depois": "交易日起30天內，並須符合VPS退款之間的180天間隔。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-zh-hant-zh-hant-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e mantém os 99,9% com o crédito de 5% da main; a linha do suporte de confiança recebe o texto de experiência com checagens.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "如果是部落格、個人網站或小型網店，Hostinger 提供規則清楚的服務，並有 30 天可以試用。如果網站不能停機，請了解價格頁面上的 99.9% 究竟代表什麼：主機代管合約承諾每月達到這個最低水準，未達到時給予月費 5% 的抵免額度，須在 30 天內申請；它不補償你因此少賣的損失。如果你想了解黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)裡有各項優惠的日期與規則。",
+       "depois": "如果是部落格、個人網站或小型網店，Hostinger 提供規則清楚的服務。30 天退款僅適用符合資格的產品，並非所有產品都能免費試用。如果網站不能停機，請了解價格頁面上的 99.9% 究竟代表什麼：主機代管合約承諾每月達到這個最低水準，未達到時給予月費 5% 的抵免額度，須在 30 天內申請；它不補償你因此少賣的損失。如果你想了解黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)裡有各項優惠的日期與規則。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "Hostinger 可靠嗎？這是一家大公司，退款與續訂政策都是公開的。值得留意的是自動續訂及其價格，而不是公司本身是否正規。",
+       "depois": "Hostinger 可靠嗎？我們使用主機與客服的經驗是正面的。購買前仍應核對退款資格、續訂價格及結帳頁面顯示的公司；公司規模與公開政策不能取代這些確認。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-zh-hant-zh-hant-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível, domínio e renovação fora, conferir o total); as FAQ de cupom já dizem a regra e ficam como estão.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。SONAR20 的 20% 折扣適用於方案的新購買（網域註冊除外）；續訂按定價計算，沒有折扣。",
+       "depois": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：符合資格的新購首期享 20% 折扣。網域註冊與續訂不適用，付款前請確認總額。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-zh-hant-zh-hant-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota do Trustpilot com o recorte, mas tira a data da consulta (a regra é uma data só no corpo); o esclarecimento do relato do Bruno entra igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "在 Trustpilot 上評分為 4.6，但其中有公司發出邀請而來的評價。",
+       "depois": "最近一次查詢時，Trustpilot 上的評分為 4.6，其中包含公司發出邀請而來的評價。這是當時的紀錄，不代表所有客戶的體驗。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "這只是一次個人經驗，不是保證。它說明不了你的方案會怎樣，也說明不了價格或期限不同的方案會怎樣。",
+       "depois": "這是Bruno個人的使用紀錄，不是可用性監測結果，也不能預測每個方案的表現。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trust-guide-zh-hant-zh-hant-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A célula da main já exclui extensões; acrescento a carência de 24 h desde o último reembolso de domínio, que o parecer registra como política global e que PT, IT e ES já aceitaram. Descartar aqui quebrava a família.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/3/1",
+       "antes": "只限 96 小時內，部分網域後綴不支援退款",
+       "depois": "只限 96 小時內（且距上一次網域退款申請須超過 24 小時），部分網域後綴不支援退款"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trustpilot-bewertungen",
+   "arquivo": "content/reviews/hostinger-trustpilot-bewertungen.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "hostinger-trustpilot-bewertungen-de-g139-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Números de outubro trocados pelos de novembro da main (73.830); lista de Beschwerden atribuída à Stichprobe; SONAR20 dito como berechtigter Neukauf. Op 1 descartada: a main já traz a ressalva das beiden Stichproben.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Ja, mit einem Vorbehalt. Im November 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.830 Bewertungen und hatte 99 % der negativen beantwortet. Die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treiben kann, und die meistgenannten Beschwerden betreffen KI-Support, Abrechnung und Verlängerung. Beim Hosting verlangt die Abrechnung einen Blick auf die automatische Verlängerung; unten steht, wie Sie sie abschalten. Die 20 % im ersten Zeitraum kommen vom [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger).",
+       "depois": "Ja, mit einem Vorbehalt: Im November 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.830 Bewertungen. In unserer Stichprobe betreffen die meistgenannten Beschwerden KI-Support, Abrechnung und Verlängerung; beim Hosting lohnt ein Blick auf die automatische Verlängerung. Bei einem berechtigten Neukauf gibt der [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger) 20 % Rabatt im ersten Zeitraum."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-bewertungen-de-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op 0 e FAQ da main já corretos e com os links; a proposta os tirava. Só o CTA é encurtado, como na EN.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für den Neukauf von Tarifen und Produkten, nicht für die Domainregistrierung; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+       "depois": "Nutzen Sie SONAR20 für 20 % im ersten Zeitraum eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind ausgeschlossen."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-bewertungen-de-g139-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Description: antes confere; data e número trocados pelos de novembro (73.830). Meta descartada: data de outubro e 'der Artikel untersucht eine eigene Stichprobe' é bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Hostinger hat auf Trustpilot einen TrustScore von 4,6 bei über 73.000 Bewertungen. Sie sehen die häufigsten Beschwerden und wie Sie die automatische Verlängerung abschalten.",
+       "depois": "Hostinger auf Trustpilot im November 2026: TrustScore 4,6 und 73.830 Bewertungen. Der Artikel prüft Einladungen in der Stichprobe, Beschwerdethemen und automatische Verlängerung."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trustpilot-reviews",
+   "arquivo": "content/reviews/hostinger-trustpilot-reviews.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "hostinger-trustpilot-reviews-en-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "O parágrafo 10/0 usa a exclusão de domínio que a main já tem e mantém os links da Black Friday e de confiança. O CTA da main ficou longo e repete a regra; o encurtado diz o mesmo. A FAQ 9/5 descartada: 'Yes, on a new purchase' já é correto e 'It can apply' enfraquece a resposta.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/paragraphs/0",
+       "antes": "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. The 20% applies to new purchases of plans and products, not to domain registration; renewal is charged at the list price. See the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security.",
+       "depois": "If you decide to buy, enter SONAR20 in the cart for 20% off the first period of an eligible new purchase, including for existing account holders. The discount does not apply to domain registration, and renewal is charged at the list price. The [Hostinger page](/en/coupons/hostinger) has the details. See the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to new purchases of plans and products, not to domain registration; renewals are charged at the list price, with no discount.",
+       "depois": "Use SONAR20 for 20% off the first period of an eligible new purchase. Domain registration and renewal are excluded."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trustpilot-reviews-ja",
+   "arquivo": "content/reviews/hostinger-trustpilot-reviews-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "hostinger-trustpilot-reviews-ja-ja-g139-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Descartados: description e metaDescription com 24/10 e 73.411 (superados pela main de novembro), o 0/0 da proposta (tira a resposta direta e traz meta-comentário) e o 2/0 (a main já tem a ressalva da amostra). Entram a correção do 0/0 sobre a amostra com a regra da compra nova, e a tabela 'Claimed' com a alt da foto, alinhadas.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "はい、ただし注意点があります。読み取った時点で、Hostinger の Trustpilot の TrustScore は 4.6、レビューは 73,830 件で、企業は否定的なレビューのほぼすべてに返信していました。ただし、企業が顧客にレビューを呼びかけているため平均が押し上げられている可能性があり、苦情の中心は AI サポート、請求と更新、ドメインです。ホスティングでは、請求の苦情は自動更新に注意が必要という話につながります。止め方は下で説明します。初回期間の 20% 割引は [Hostinger の SONAR20 クーポン](/ja/coupons/hostinger) で受けられます。",
+       "depois": "はい、ただし注意点があります。読み取った時点で、Hostinger の Trustpilot の TrustScore は 4.6、レビューは 73,830 件で、企業は否定的なレビューのほぼすべてに返信していました。ただし、企業が顧客にレビューを呼びかけているため平均が押し上げられている可能性があり、サンプルの苦情では AI サポート、請求と更新、ドメインが中心です。ホスティングでは、請求の苦情は自動更新に注意が必要という話につながります。止め方は下で説明します。新規購入なら、[Hostinger の SONAR20 クーポン](/ja/coupons/hostinger) で初回期間が 20% 割引になります。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/images/0/alt",
+       "antes": "Trustpilot の Hostinger プロフィール上部。評価 4.6、請求済みプロフィール、有料契約、企業が顧客にレビューを呼びかける表示",
+       "depois": "Trustpilot の Hostinger 企業プロフィール上部。評価 4.6、企業が管理するプロフィール、有料契約、顧客へのレビュー依頼の表示"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/comparisonTable/rows/7/0",
+       "antes": "プロフィールの認証",
+       "depois": "企業が管理するプロフィール（Claimed）"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/comparisonTable/rows/7/1",
+       "antes": "済み。2017年5月から、企業がページを管理",
+       "depois": "あり。2017年5月から企業がページを管理"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-ja-ja-g139-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O 2/2 da main diz que 1 em 7 das estrelas 1 são elogios mal avaliados, mas a amostra só mostra 14 em 100 com texto positivo; a versão ajustada não afirma o que a amostra não mede e não usa o número 5,098 (vem da versão de outubro). O 8/0 descartado corta a resposta direta, e 'resposta não prova resolução' já está na seção 6.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/2",
+       "antes": "三つ目。星 1 つのレビューの七件に一件は、誤った評価で付けられた称賛です。100 件中 14 件は、「Great hosting」や「easy to use」のような好意的な文章なのに星 1 つでした。それでも、73,830 件の 7% は約 5,000 人が非常に不満だったということです。割合は小さくても、人数は小さくありません。",
+       "depois": "三つ目。星 1 つのレビュー 100 件中 14 件は、「Great hosting」や「easy to use」のような好意的な文章なのに星 1 つでした。星と文章が食い違うため、これが誤った評価かどうかは、このサンプルだけでは確かめられません。それでも、73,830 件の 7% は約 5,000 人が星 1 つを付けたということです。割合は小さくても、人数は小さくありません。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-ja-ja-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só o CTA entra, com a regra de compra nova que a main não tem. O 10/0 da proposta tira os links de Black Friday e de confiança, e a main já exclui domínio; o 9/4 troca a resposta direta 'はい、新規購入なら使えます' por uma versão mais fraca.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "すでに決めているなら、カートのクーポン欄に SONAR20 を入れるか、リンクから入ってください。最初の期間が20%割引です。",
+       "depois": "すでに決めているなら、カートのクーポン欄に SONAR20 を入れるか、リンクから入ってください。対象の新規購入なら、最初の期間が20%割引です。ドメイン登録と更新は対象外です。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trustpilot-reviews-ko",
+   "arquivo": "content/reviews/hostinger-trustpilot-reviews-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "hostinger-trustpilot-reviews-ko-ko-g139-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Descartados: description e metaDescription com 24일 e 73,411 (superados pela main de novembro); a meta da proposta ainda traz 'este artigo analisa uma amostra separada' (bastidor); o 0/0 da proposta tira a resposta direta; o 2/0 já está coberto pela main. Entra a versão ajustada do 0/0, com a amostra e a regra da compra nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,830건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갔을 수 있고, 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 첫 기간 20% 할인은 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 받을 수 있습니다.",
+       "depois": "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,830건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갔을 수 있고, 우리가 읽은 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 신규 구매라면 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 첫 기간 20% 할인을 받을 수 있습니다."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-ko-ko-g139-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O 2/2 da main diz que 1 em 7 das estrelas 1 são elogios mal avaliados, mas a amostra só mostra 14 em 100 com texto positivo; a versão ajustada não afirma o que a amostra não mede e não usa o número 5,098 (vem da versão de outubro). O 8/0 descartado corta a resposta direta, e 'resposta não prova resolução' já está na seção 6.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/2",
+       "antes": "셋째, 별 한 개 리뷰 일곱 중 하나는 잘못된 평점이 붙은 칭찬입니다. 표본 100건 중 14건은 “Great hosting”이나 “easy to use” 같은 긍정적인 글인데 별 한 개가 달려 있었습니다. 그래도 73,830건의 7%는 약 5,000명이 매우 불만족했다는 뜻입니다. 비율은 작지만 사람 수는 작지 않습니다.",
+       "depois": "셋째, 별 한 개 리뷰 표본 100건 중 14건은 “Great hosting”이나 “easy to use” 같은 긍정적인 글인데 별 한 개가 달려 있었습니다. 별점과 글이 어긋나서, 이것이 잘못된 평점인지는 이 표본만으로 확인할 수 없습니다. 그래도 73,830건의 7%는 약 5,000명이 별 한 개를 준 것입니다. 비율은 작지만 사람 수는 작지 않습니다."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-ko-ko-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só o CTA entra, com a regra de compra nova. O 10/0 tira os links de Black Friday e de confiança, e a main já exclui domínio; o 9/4 enfraquece a resposta direta '네, 신규 구매에서는 가능합니다'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "이미 결정했다면 장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다.",
+       "depois": "이미 결정했다면 장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 적용 대상인 신규 구매의 첫 기간 20% 할인입니다. 도메인 등록과 갱신은 제외됩니다."
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-ko-ko-g139-P005",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main. A tabela passa a 'Claimed' e a alt da foto usa o mesmo termo; também sai o ponto solto em '예, 2017년 5월부터.'. O cabeçalho da tabela ainda traz 24일, data da amostra, o que está certo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/comparisonTable/rows/7/0",
+       "antes": "프로필 인증",
+       "depois": "기업이 관리하는 프로필(Claimed)"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/comparisonTable/rows/7/1",
+       "antes": "예, 2017년 5월부터. 회사가 페이지를 관리",
+       "depois": "예, 2017년 5월부터 회사가 페이지를 관리"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/images/0/alt",
+       "antes": "Trustpilot에 있는 Hostinger 프로필 상단. 평점 4.6, 인증된 프로필, 유료 구독, 회사가 고객에게 리뷰를 권한다는 안내",
+       "depois": "Trustpilot의 Hostinger 기업 프로필 상단. 평점 4.6, 회사가 관리하는 프로필, 유료 구독과 고객 리뷰 요청 안내"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trustpilot-reviews-zh-hans",
+   "arquivo": "content/reviews/hostinger-trustpilot-reviews-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "hostinger-trustpilot-reviews-zh-hans-zh-hans-g139-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Descartados: description e metaDescription com 10 月 24 日 e 73,411 (superados pela main de novembro); o 0/0 da proposta tira a resposta direta; o 2/0 já está coberto pela main; a meta traz '本文另分析独立样本' (bastidor). Entra a versão ajustada do 0/0, com a amostra e a regra da compra nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,830 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分可能因此被拉高，投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得。",
+       "depois": "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,830 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分可能因此被拉高，我们读到的投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。符合条件的新购可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得首期 20% 折扣。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-zh-hans-zh-hans-g139-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O 2/2 da main diz que 1 em 7 das estrelas 1 são elogios mal avaliados, mas a amostra só mostra 14 em 100 com texto positivo; a versão ajustada não afirma o que a amostra não mede e não usa o número 5,098 (vem da versão de outubro). O 8/0 descartado corta a resposta direta, e 'resposta não prova resolução' já está na seção 6.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/2",
+       "antes": "第三，样本中每七条一星评价里就有一条是给错了星的好评：100 条中有 14 条文字是正面的，比如“Great hosting”或“easy to use”，却只给了一星。即便如此，73,830 条的 7% 仍然约有 5,000 人非常不满。比例很小，人数却不小。",
+       "depois": "第三，样本中 100 条一星评价里有 14 条文字是正面的，比如“Great hosting”或“easy to use”，却只给了一星。星级与文字不一致，这些是否属于错评，仅凭这个样本无法确定。即便如此，73,830 条的 7% 仍然约有 5,000 人给了一星。比例很小，人数却不小。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-zh-hans-zh-hans-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA entra, com a regra de compra nova na primeira frase. O 10/0 tira os links de Black Friday e de confiança; o 9/4 é mais fraco que a FAQ da main, que já diz que vale em compra nova e exclui domínio.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于套餐和产品的新购，不含域名注册；续费按标价收费，没有折扣。",
+       "depois": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：符合条件的新购首个周期享 20% 折扣。这 20% 适用于套餐和产品的新购，不含域名注册；续费按标价收费，没有折扣。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-zh-hans-zh-hans-g139-P005",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O parágrafo 1/0 da proposta traz 10 月 24 日, superado pela main de novembro; fica a troca 个人主页 → 企业主页 (o perfil é de empresa). Alt e legenda entram só com a troca 个人主页 → 企业主页, no espaçamento da main (a proposta tirava os espaços entre latim e chinês).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "4.6 只是一个起点。这个分数包含很多信息，而个人主页本身就说明了分数是怎样形成的。下表汇总了 2026 年 11 月页面上显示的内容。",
+       "depois": "4.6 只是一个起点。这个分数包含很多信息，而企业主页本身就说明了分数是怎样形成的。下表汇总了 2026 年 11 月页面上显示的内容。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/images/0/alt",
+       "antes": "Trustpilot 上 Hostinger 个人主页的顶部，显示 4.6 分、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
+       "depois": "Trustpilot 上 Hostinger 企业主页的顶部，显示 4.6 分、已认领的主页、付费订阅，以及公司邀请客户评价的提示"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/images/0/caption",
+       "antes": "Trustpilot 上的 Hostinger 个人主页。图片：Bruno 的截图。",
+       "depois": "Trustpilot 上的 Hostinger 企业主页。图片：Bruno 的截图。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "hostinger-trustpilot-reviews-zh-hant",
+   "arquivo": "content/reviews/hostinger-trustpilot-reviews-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "hostinger-trustpilot-reviews-zh-hant-zh-hant-g139-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Descartados: description e metaDescription com 10 月 24 日 e 73,411 (superados pela main de novembro); o 0/0 da proposta tira a resposta direta; o 2/0 já está coberto pela main. Entra a versão ajustada do 0/0, com a amostra e a regra da compra nova.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,830 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分可能因此被拉高，投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得。",
+       "depois": "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,830 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分可能因此被拉高，我們讀到的投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。符合資格的新購買可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得首期 20% 折扣。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-zh-hant-zh-hant-g139-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O 2/2 da main diz que 1 em 7 das estrelas 1 são elogios mal avaliados, mas a amostra só mostra 14 em 100 com texto positivo; a versão ajustada não afirma o que a amostra não mede e não usa o número 5,098 (vem da versão de outubro). O 8/0 descartado corta a resposta direta, e 'resposta não prova resolução' já está na seção 6.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/2",
+       "antes": "第三，樣本中每七則一星評價裡就有一則是給錯了星的好評：100 則中有 14 則文字是正面的，比如「Great hosting」或「easy to use」，卻只給了一星。即便如此，73,830 則的 7% 仍然約有 5,000 人非常不滿。比例很小，人數卻不小。",
+       "depois": "第三，樣本中 100 則一星評價裡有 14 則文字是正面的，比如「Great hosting」或「easy to use」，卻只給了一星。星等與文字不一致，這些是否屬於錯評，僅憑這個樣本無法確定。即便如此，73,830 則的 7% 仍然約有 5,000 人給了一星。比例很小，人數卻不小。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-zh-hant-zh-hant-g139-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só o CTA entra, com a regra de compra nova. O 10/0 tira os links de Black Friday e de confiança, e a main já exclui domínio; o 9/4 enfraquece a resposta direta da FAQ.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "如果你已經決定，在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。",
+       "depois": "如果你已經決定，在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：符合資格的新購買首期享 20% 折扣，網域註冊及續訂不適用。"
+      }
+     ]
+    },
+    {
+     "id": "hostinger-trustpilot-reviews-zh-hant-zh-hant-g139-P005",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O parágrafo 1/0 da proposta traz 10 月 24 日, superado pela main de novembro; fica a troca 個人檔案 → 企業檔案 (o perfil é de empresa). Alt e legenda entram só com a troca 個人檔案 → 企業檔案, no espaçamento da main (a proposta tirava os espaços entre latim e chinês).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "4.6 只是一個起點。這個分數包含很多資訊，而個人檔案本身就說明了分數是怎樣形成的。下表彙整了 2026 年 11 月頁面上顯示的內容。",
+       "depois": "4.6 只是一個起點。這個分數包含很多資訊，而企業檔案本身就說明了分數是怎樣形成的。下表彙整了 2026 年 11 月頁面上顯示的內容。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/images/0/alt",
+       "antes": "Trustpilot 上 Hostinger 個人檔案的頂部，顯示 4.6 分、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
+       "depois": "Trustpilot 上 Hostinger 企業檔案的頂部，顯示 4.6 分、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/images/0/caption",
+       "antes": "Trustpilot 上的 Hostinger 個人檔案。圖片：Bruno 截取的畫面。",
+       "depois": "Trustpilot 上的 Hostinger 企業檔案。圖片：Bruno 截取的畫面。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "is-hostinger-legit",
+   "arquivo": "content/reviews/is-hostinger-legit.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "is-hostinger-legit-en-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mesma decisão da versão PT: mantém a frase da renovação como transação e a linha de VPS; as linhas de 96 horas e o parágrafo de pedido de reembolso já estão cobertos pela main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "Hostinger's refund policy (version of October 15, 2026) gives you 30 days to ask for your money back, counted from the transaction date. Under the policy itself, a renewal is also a transaction: each charge restarts the clock. The table shows what it lists:",
+       "depois": "The refund policy gives eligible products a 30-day window from the transaction date; a renewal can also count as a transaction. This does not make excluded products refundable. The table summarizes the rules, including special conditions for VPS plans and domains:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "Yes, within 30 days, and only if the last VPS refund was requested more than 180 days ago",
+       "depois": "Within 30 days of the transaction, subject to the 180-day interval between VPS refunds."
+      }
+     ]
+    },
+    {
+     "id": "is-hostinger-legit-en-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e deixa a FAQ com a experiência e as checagens antes de pagar; o 99.9% e o crédito de 5% da main ficam.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules and 30 days to try it. If the site cannot go offline, know what the 99.9% on the pricing page is worth: the hosting agreement promises that minimum each month and, when it fails, a credit of 5% of the monthly fee, claimed within 30 days; it does not cover what you failed to sell. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer.",
+       "depois": "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules; the 30-day refund depends on product eligibility and is not a free trial for every product. If the site cannot go offline, know what the 99.9% on the pricing page is worth: the hosting agreement promises that minimum each month and, when it fails, a credit of 5% of the monthly fee, claimed within 30 days; it does not cover what you failed to sell. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "Is Hostinger legit? It is a large company with public refund and renewal policies. What deserves attention is automatic renewal and its price, not the company's legitimacy.",
+       "depois": "Is Hostinger legit? Our experience with its hosting and support has been positive. Before buying, check refund eligibility, the renewal price and the company named at checkout; company size and public policies do not replace those checks."
+      }
+     ]
+    },
+    {
+     "id": "is-hostinger-legit-en-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível e conferir o total); as FAQ de cupom e a metaDescription da main já dizem a regra.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to a new plan purchase (domain registration is excluded); renewals are charged at the list price, with no discount.",
+       "depois": "Enter SONAR20 in the cart or use the link for 20% off the first term of an eligible new purchase. Domain registrations and renewals are excluded from the discount; check the total before paying."
+      }
+     ]
+    },
+    {
+     "id": "is-hostinger-legit-en-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota do Trustpilot com o caráter de recorte, mas tira a data da consulta: o corpo já tem 15 de outubro de 2026 acima da tabela e a regra é uma data só; o esclarecimento sobre a experiência do Bruno entra igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "On Trustpilot the score is 4.6, but with invitations from the company.",
+       "depois": "When we last checked, Hostinger's Trustpilot score was 4.6, but the reviews included invitations from the company. That is a snapshot, not a measure of every customer's experience."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "This is one experience, not a guarantee. It does not say what will happen with your plan, or with a plan at another price or for another period.",
+       "depois": "This is Bruno's account, not uptime monitoring or a prediction for every plan."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "ist-hostinger-serioes",
+   "arquivo": "content/reviews/ist-hostinger-serioes.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "ist-hostinger-serioes-de-g104-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Mantém a frase da renovação como transação e a linha de VPS; as linhas de 96 horas e o parágrafo de pedido de reembolso já estão cobertos pelo texto atual da main.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "Die Erstattungsrichtlinie von Hostinger (Stand 15.10.2026) gibt Ihnen 30 Tage, um das Geld zurückzufordern, gerechnet ab dem Datum der Transaktion. Nach der Richtlinie selbst ist auch eine Verlängerung eine Transaktion: Jede Abbuchung startet die Frist neu. Die Tabelle zeigt, was sie aufführt:",
+       "depois": "Die Richtlinie sieht für erstattungsfähige Produkte 30 Tage ab der Transaktion vor; auch eine Verlängerung kann als Transaktion zählen. Ausgeschlossene Produkte werden dadurch nicht erstattungsfähig. Die Tabelle fasst die Regeln und Sonderbedingungen für VPS und Domains zusammen:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/1/1",
+       "antes": "Ja, innerhalb von 30 Tagen, und nur wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde",
+       "depois": "Innerhalb von 30 Tagen nach der Transaktion, vorbehaltlich des 180-Tage-Abstands zwischen VPS-Erstattungen."
+      }
+     ]
+    },
+    {
+     "id": "ist-hostinger-serioes-de-g104-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Tira a promessa de teste grátis do parágrafo de público-alvo e deixa a FAQ com a experiência e as checagens antes de pagar; o 99,9% e o crédito de 5% da main ficam.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Für einen Blog, eine private Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln und 30 Tagen zum Ausprobieren. Wenn die Website nicht offline gehen darf, sollten Sie wissen, was die 99,9 % auf der Preisseite wert sind: Der Hosting-Vertrag verspricht dieses Minimum pro Monat und, wenn es verfehlt wird, eine Gutschrift von 5 % der Monatsgebühr, die innerhalb von 30 Tagen zu beantragen ist; er deckt nicht ab, was Sie nicht verkaufen konnten. Wenn Sie wegen des Black Friday fragen: Der [Leitfaden zur Aktion](/de/reviews/hostinger-black-friday-angebote) nennt die Daten und die Regeln jedes Angebots.",
+       "depois": "Für einen Blog, eine private Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln; die Erstattung innerhalb von 30 Tagen hängt vom Produkt ab und ist keine allgemeine kostenlose Testphase. Wenn die Website nicht offline gehen darf, sollten Sie wissen, was die 99,9 % auf der Preisseite wert sind: Der Hosting-Vertrag verspricht dieses Minimum pro Monat und, wenn es verfehlt wird, eine Gutschrift von 5 % der Monatsgebühr, die innerhalb von 30 Tagen zu beantragen ist; er deckt nicht ab, was Sie nicht verkaufen konnten. Wenn Sie wegen des Black Friday fragen: Der [Leitfaden zur Aktion](/de/reviews/hostinger-black-friday-angebote) nennt die Daten und die Regeln jedes Angebots."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "Ist Hostinger seriös? Es ist ein großes Unternehmen mit öffentlichen Richtlinien zu Erstattung und Verlängerung. Aufmerksamkeit verdient die automatische Verlängerung samt Preis, nicht die Seriosität des Unternehmens.",
+       "depois": "Ist Hostinger seriös? Unsere Erfahrung mit Hosting und Support war positiv. Prüfen Sie vor dem Kauf die Erstattungsfähigkeit, den Verlängerungspreis und das beim Bezahlen genannte Unternehmen; Größe und öffentliche Richtlinien ersetzen diese Prüfung nicht."
+      }
+     ]
+    },
+    {
+     "id": "ist-hostinger-serioes-de-g104-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Só o CTA ganha com o texto proposto (compra nova elegível e conferir o total); as FAQ de cupom já dizem a regra.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für den Neukauf eines Tarifs (Domainregistrierung ausgenommen); die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+       "depois": "Geben Sie SONAR20 im Warenkorb ein oder nutzen Sie den Link: 20 % auf den ersten Zeitraum eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind vom Rabatt ausgeschlossen; prüfen Sie den Gesamtbetrag vor dem Bezahlen."
+      }
+     ]
+    },
+    {
+     "id": "ist-hostinger-serioes-de-g104-P004",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Aceita a nota da Trustpilot com o caráter de recorte, mas tira a data da consulta: a regra é uma data só no corpo e a data da renovação (15/10) já sai neste lote; o esclarecimento sobre a experiência do Bruno entra igual.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "Auf Trustpilot liegt die Bewertung bei 4,6, allerdings mit Einladungen durch das Unternehmen.",
+       "depois": "Bei der letzten Prüfung lag Hostingers Trustpilot-Bewertung bei 4,6. Darunter waren vom Unternehmen eingeladene Bewertungen; der Wert ist eine Momentaufnahme und beschreibt nicht die Erfahrung aller Kunden."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "Das ist eine Erfahrung, keine Garantie. Sie sagt nicht, was mit Ihrem Tarif passiert, auch nicht mit einem Tarif zu einem anderen Preis oder für einen anderen Zeitraum.",
+       "depois": "Das ist Brunos Erfahrungsbericht, keine Verfügbarkeitsmessung und keine Vorhersage für alle Tarife."
+      }
+     ]
+    },
+    {
+     "id": "ist-hostinger-serioes-de-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A política oficial de reembolso de domínio (consultada) exige mais de 24 horas desde um reembolso anterior de domínio, além das 96 horas; a main não diz isso. Aplicada só na linha da tabela, sem repetir a regra no corpo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/3/1",
+       "antes": "Nur innerhalb von 96 Stunden, einige Endungen sind nicht erstattungsfähig",
+       "depois": "Nur innerhalb von 96 Stunden, und nur wenn seit einer vorherigen Domain-Erstattung mehr als 24 Stunden vergangen sind; einige Endungen sind nicht erstattungsfähig"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-o-hosting-compartido-cual-elegir",
+   "arquivo": "content/reviews/vps-o-hosting-compartido-cual-elegir.json",
+   "locale": "es",
+   "propostas": [
+    {
+     "id": "vps-o-hosting-compartido-cual-elegir-es-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js já corrigido na main (Unlimited/Cloud Startup, Premium fora); faltam a intro sem 'gestionado', a ressalva de root na célula 'No hace falta', o 'Node.js por si só não exige VPS' no veredicto e o skipIf com plano compatível. A ênfase de Premium para site comum fica (coerente com a tabela, que põe Premium para WordPress; PT e EN já a tratam como coberta).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Para un sitio común, un blog, un portafolio o una tienda pequeña, el hosting compartido cumple y cuesta menos. El VPS solo compensa cuando el sitio necesita un sistema instalado fuera del panel, CPU y memoria reservadas o acceso root. Mira el veredicto más abajo.",
+       "depois": "Para un blog, un portafolio o una tienda pequeña, empieza comparando los planes de hosting compartido que admiten tu aplicación. Considera un VPS si necesitas configuraciones, programas o acceso root que esos planes no ofrecen y tienes a alguien que mantenga el servidor. No elijas solo por el nombre del plan: el cuadro por escenario ayuda a comparar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "No hace falta",
+       "depois": "No hace falta, a menos que necesites control total del entorno de ejecución."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "**Hosting compartido** para blog, portafolio, sitio de empresa o tienda pequeña. El mantenimiento del servidor es de Hostinger. Entre los planes, Premium es el punto de partida; para un sitio en Node.js o si el sitio crece, Unlimited o Cloud Startup, antes de pensar en VPS.",
+       "depois": "**Hosting compartido** para blog, portafolio, sitio de empresa o tienda pequeña. El mantenimiento del servidor es de Hostinger. Entre los planes, Premium es el punto de partida; para un sitio en Node.js o si el sitio crece, Unlimited o Cloud Startup, antes de pensar en VPS. Node.js, por sí solo, no exige VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "Déjalo si es un blog, portafolio, sitio de empresa o tienda pequeña: el compartido cumple y Hostinger cuida el servidor.",
+       "depois": "Déjalo si es un blog, portafolio, sitio de empresa, tienda pequeña o sitio en Node.js (en un plan compatible, como Unlimited o Cloud Startup): el compartido cumple y Hostinger cuida el servidor."
+      }
+     ]
+    },
+    {
+     "id": "vps-o-hosting-compartido-cual-elegir-es-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tirei o bastidor ('no medimos' e equivalentes) e o termo gestionado, e a ressalva de capacidade virou decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Para un sitio común que necesite VPS, el KVM 1 es el punto de partida: 4 GB de RAM alcanzan para un WordPress o un sistema pequeño. El KVM 2 entra cuando vas a ejecutar más de un programa en la misma máquina. KVM 4 y 8 son para un sistema mayor, una base de datos grande o varias aplicaciones.",
+       "depois": "Compara CPU, RAM y disco con los requisitos de tu aplicación. KVM 1 es el plan más pequeño de la tabla, y la carga de tu sitio decide si basta. KVM 4 y 8 son para un sistema mayor, una base de datos grande o varias aplicaciones."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "**VPS** para un sistema propio, un programa o base de datos fuera del panel, un bot o panel funcionando todo el día, o cuando necesitas root. Empieza por el KVM 1 y sube si falta memoria. Suma a la cuenta el tiempo de mantener el servidor, o el costo de quien lo haga.",
+       "depois": "**VPS** entra en la comparación cuando necesitas el control y las configuraciones descritos en el cuadro. Elige el KVM según los requisitos de la aplicación y cuenta el trabajo de administración en el costo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/2",
+       "antes": "**En la duda, compartido.** El VPS no se convierte después en compartido, pero lo contrario es solo un contrato nuevo cuando aparezca la necesidad.",
+       "depois": "**En la duda, compartido.** Si la necesidad de VPS aparece después, es una contratación nueva, con configuración y traslado del sitio."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "¿Un VPS es más rápido que el hosting compartido? No lo medimos. Lo que el VPS garantiza son recursos reservados: CPU, memoria y disco son tuyos, mientras que en el compartido el servidor se divide. Para un sitio común, rara vez es el cuello de botella.",
+       "depois": "¿Un VPS es más rápido que el hosting compartido? No necesariamente. Los recursos reservados y el acceso root cambian el control del entorno, pero no bastan para predecir el tiempo de respuesta de tu sitio. Compara los requisitos de la aplicación y los límites del plan."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "¿Puedo empezar en el compartido y pasar a un VPS después? Sí. Son productos distintos: contratas el VPS, instalas el servidor y llevas el sitio. El hosting compartido no se convierte en VPS desde el panel.",
+       "depois": "¿Puedo empezar en el compartido y pasar a un VPS después? Sí, si la aplicación es compatible con el nuevo entorno. Es una contratación nueva, con instalación del servidor y traslado del sitio; el hosting compartido no se convierte en VPS desde el panel."
+      }
+     ]
+    },
+    {
+     "id": "vps-o-hosting-compartido-cual-elegir-es-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template e backup já estão na main; entram a definição de VPS sem a frase de entrega pela Hostinger, o 'configurar o ambiente' e a conferência da cópia, fundidos com o Gemini P002 (obsoleta); o WordPress e o título da manutenção já estão cobertos.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "Un **VPS** (servidor privado virtual) es una máquina virtual solo tuya, con procesador, memoria y disco reservados. Hostinger te entrega la máquina con el sistema operativo y el acceso root, el usuario que puede todo. A partir de ahí, instalar el servidor web, la base de datos y el certificado, además de las actualizaciones y la seguridad, son tareas tuyas. En Hostinger son los planes KVM 1, 2, 4 y 8.",
+       "depois": "Un **VPS** (servidor privado virtual) es una máquina virtual solo tuya, con procesador, memoria y disco reservados y acceso root, la cuenta de administración del sistema. Tú asumes la configuración, las actualizaciones y la seguridad. Una plantilla puede traer WordPress preinstalado y facilitar el inicio; la administración posterior sigue siendo tuya. Los planes comparados son KVM 1, 2, 4 y 8."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**Instalar y configurar** el servidor web, la base de datos y el certificado SSL, o partir de una plantilla lista.",
+       "depois": "**Configurar el entorno**: revisa lo que instala la plantilla y ajusta el servidor web, la base de datos y el certificado a la aplicación."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**Hacer copias de seguridad** (la semanal automática viene activada) y saber restaurarlas.",
+       "depois": "**Revisar las copias y saber restaurarlas**: la copia semanal automática viene activada por defecto, pero comprobar la copia disponible y restaurarla sigue siendo tarea tuya."
+      }
+     ]
+    },
+    {
+     "id": "vps-o-hosting-compartido-cual-elegir-es-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "A main ainda aponta a imagem para o -pt.webp; o arquivo vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp existe em public/images/reviews/hostinger (conferido por ls).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/image",
+       "antes": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+       "depois": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-o-hosting-condiviso",
+   "arquivo": "content/reviews/vps-o-hosting-condiviso.json",
+   "locale": "it",
+   "propostas": [
+    {
+     "id": "vps-o-hosting-condiviso-it-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js já corrigido na main (Unlimited/Cloud Startup, Premium fora); faltam a intro sem 'gestionado', a ressalva de root na célula 'No hace falta', o 'Node.js por si só não exige VPS' no veredicto e o skipIf com plano compatível. A ênfase de Premium para site comum fica (coerente com a tabela, que põe Premium para WordPress; PT e EN já a tratam como coberta).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Per un sito comune, un blog, un portfolio o un piccolo negozio, l'hosting condiviso basta e costa meno. Il VPS conviene solo quando il sito ha bisogno di un sistema installato fuori dal pannello, di CPU e memoria riservate o dell'accesso root. Vedi il verdetto più sotto.",
+       "depois": "Per un blog, un portfolio o un piccolo negozio, parti confrontando i piani di hosting condiviso che supportano la tua applicazione. Valuta un VPS se ti servono configurazioni, programmi o accesso root che questi piani non offrono e hai qualcuno che mantenga il server. Non scegliere solo dal nome del piano: il quadro per scenario aiuta a confrontare."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "Non serve",
+       "depois": "Non serve, a meno che non ti serva il controllo totale sull'ambiente di runtime."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "**Hosting condiviso** per blog, portfolio, sito aziendale, piccolo negozio. La manutenzione del server è di Hostinger. Tra i piani, Premium è il punto di partenza; per un sito in Node.js o se il sito cresce, Unlimited o Cloud Startup, prima di pensare al VPS.",
+       "depois": "**Hosting condiviso** per blog, portfolio, sito aziendale, piccolo negozio. La manutenzione del server è di Hostinger. Tra i piani, Premium è il punto di partenza; per un sito in Node.js o se il sito cresce, Unlimited o Cloud Startup, prima di pensare al VPS. Node.js, da solo, non richiede un VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "Lascia stare se è un blog, un portfolio, un sito aziendale o un piccolo negozio: il condiviso basta e Hostinger si occupa del server.",
+       "depois": "Lascia stare se è un blog, un portfolio, un sito aziendale, un piccolo negozio o un sito in Node.js (su un piano compatibile, come Unlimited o Cloud Startup): il condiviso basta e Hostinger si occupa del server."
+      }
+     ]
+    },
+    {
+     "id": "vps-o-hosting-condiviso-it-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tirei o bastidor ('no medimos' e equivalentes) e o termo gestionado, e a ressalva de capacidade virou decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Per un sito comune che abbia bisogno di un VPS, il KVM 1 è il punto di partenza: 4 GB di RAM bastano per un WordPress o un piccolo sistema. Il KVM 2 entra quando farai girare più di un programma sulla stessa macchina. KVM 4 e 8 sono per un sistema più grande, un database grosso o più applicazioni.",
+       "depois": "Confronta CPU, RAM e spazio con i requisiti dell'applicazione. KVM 1 è il piano più piccolo della tabella, e il carico del tuo sito decide se basta. KVM 4 e 8 sono per un sistema più grande, un database grosso o più applicazioni."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "**VPS** per un sistema proprio, un programma o database fuori dal pannello, un bot o un pannello attivi tutto il giorno, o quando ti serve root. Parti dal KVM 1 e sali se manca memoria. Metti in conto il tempo per mantenere il server, o il costo di chi lo fa.",
+       "depois": "**VPS** entra nel confronto se ti servono il controllo e le configurazioni descritti nella tabella. Scegli il KVM in base all'applicazione e metti in conto il lavoro di amministrazione."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/2",
+       "antes": "**Nel dubbio, condiviso.** Il VPS non torna condiviso in seguito, ma il contrario è solo un nuovo contratto quando il bisogno si presenta.",
+       "depois": "**Nel dubbio, condiviso.** Se il bisogno di un VPS si presenta dopo, è un nuovo contratto, con configurazione e trasferimento del sito."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Il VPS è più veloce dell'hosting condiviso? Non l'abbiamo misurato. Ciò che il VPS garantisce sono risorse riservate: CPU, memoria e disco sono tuoi, mentre sul condiviso il server è diviso. Per un sito comune, raramente è il collo di bottiglia.",
+       "depois": "Il VPS è più veloce dell'hosting condiviso? Non necessariamente. Le risorse riservate e l'accesso root cambiano il controllo dell'ambiente, ma da soli non permettono di prevedere i tempi di risposta del sito. Confronta i requisiti dell'applicazione e i limiti del piano."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "Posso iniziare sul condiviso e passare al VPS dopo? Sì. Sono prodotti diversi: sottoscrivi il VPS, installi il server e porti il sito. L'hosting condiviso non si converte in VPS dall'interno del pannello.",
+       "depois": "Posso iniziare sul condiviso e passare al VPS dopo? Sì, se l'applicazione è compatibile con il nuovo ambiente. È un nuovo contratto, con installazione del server e trasferimento del sito; l'hosting condiviso non si converte in VPS dal pannello."
+      }
+     ]
+    },
+    {
+     "id": "vps-o-hosting-condiviso-it-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template e backup já estão na main; entram a definição de VPS sem a frase de entrega pela Hostinger, o 'configurar o ambiente' e a conferência da cópia, fundidos com o Gemini P002 (obsoleta); o WordPress e o título da manutenção já estão cobertos.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati. Hostinger consegna la macchina con il sistema operativo e l'accesso root, l'utente che può tutto. Da lì in poi, installare il server web, il database e il certificato, oltre ad aggiornamenti e sicurezza, sono compiti tuoi. Su Hostinger sono i piani KVM 1, 2, 4 e 8.",
+       "depois": "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati e accesso root, l'account di amministrazione del sistema. Configurazione, aggiornamenti e sicurezza restano a tuo carico. Un template può includere WordPress preinstallato e facilitare l'avvio; l'amministrazione successiva resta tua. I piani confrontati sono KVM 1, 2, 4 e 8."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**Installare e configurare** il server web, il database e il certificato SSL, oppure partire da un template pronto.",
+       "depois": "**Configurare l'ambiente**: controlla cosa installa il template e adatta server web, database e certificato all'applicazione."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**Fare il backup** (quello settimanale automatico è attivo di default) e saper ripristinare.",
+       "depois": "**Controllare i backup e saper ripristinare**: il backup settimanale automatico è attivo di default, ma verificare la copia disponibile e ripristinarla resta compito tuo."
+      }
+     ]
+    },
+    {
+     "id": "vps-o-hosting-condiviso-it-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "A main ainda aponta a imagem para o -pt.webp; o arquivo vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp existe em public/images/reviews/hostinger (conferido por ls).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/image",
+       "antes": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+       "depois": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-oder-shared-hosting",
+   "arquivo": "content/reviews/vps-oder-shared-hosting.json",
+   "locale": "de",
+   "propostas": [
+    {
+     "id": "vps-oder-shared-hosting-de-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js já corrigido na main (Unlimited/Cloud Startup, Premium fora); faltam a intro sem 'gestionado', a ressalva de root na célula 'No hace falta', o 'Node.js por si só não exige VPS' no veredicto e o skipIf com plano compatível. A ênfase de Premium para site comum fica (coerente com a tabela, que põe Premium para WordPress; PT e EN já a tratam como coberta).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Für eine gewöhnliche Website, einen Blog, ein Portfolio oder einen kleinen Shop genügt Shared Hosting und kostet weniger. Ein VPS lohnt sich nur, wenn die Website ein außerhalb des Panels installiertes System, reservierte CPU und reservierten Arbeitsspeicher oder Root-Zugriff braucht. Das Urteil steht weiter unten.",
+       "depois": "Für einen Blog, ein Portfolio oder einen kleinen Shop vergleichen Sie zuerst Shared-Hosting-Tarife, die Ihre Anwendung unterstützen. Ein VPS kommt infrage, wenn Sie Einstellungen, Software oder Root-Zugriff brauchen, die diese Tarife nicht bieten, und jemanden haben, der den Server betreut. Wählen Sie nicht nur nach dem Tarifnamen; die Tabelle nach Szenario hilft beim Vergleich."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "Nicht nötig",
+       "depois": "Nicht nötig, es sei denn, Sie benötigen die volle Kontrolle über die Laufzeitumgebung."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; für eine Node.js-Website oder wenn die Website wächst, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken.",
+       "depois": "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; für eine Node.js-Website oder wenn die Website wächst, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken. Node.js allein verlangt keinen VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite oder einen kleinen Shop geht: Shared Hosting genügt, und Hostinger betreut den Server.",
+       "depois": "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite, einen kleinen Shop oder eine Node.js-Website geht (auf einem passenden Tarif wie Unlimited oder Cloud Startup): Shared Hosting genügt, und Hostinger betreut den Server."
+      }
+     ]
+    },
+    {
+     "id": "vps-oder-shared-hosting-de-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tirei o bastidor ('no medimos' e equivalentes) e o termo gestionado, e a ressalva de capacidade virou decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Für eine gewöhnliche Website, die einen VPS braucht, ist KVM 1 der Ausgangspunkt: 4 GB RAM reichen für ein WordPress oder ein kleines System. KVM 2 kommt ins Spiel, wenn Sie mehr als ein Programm auf derselben Maschine betreiben. KVM 4 und 8 sind für ein größeres System, eine große Datenbank oder mehrere Anwendungen.",
+       "depois": "Vergleichen Sie CPU, Arbeitsspeicher und Speicherplatz mit den Anforderungen Ihrer Anwendung. KVM 1 ist der kleinste aufgeführte Tarif, und die Last Ihrer Website entscheidet, ob er genügt. KVM 4 und 8 sind für ein größeres System, eine große Datenbank oder mehrere Anwendungen."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "**VPS** für ein eigenes System, ein Programm oder eine Datenbank außerhalb des Panels, einen Bot oder ein Panel, das den ganzen Tag läuft, oder wenn Sie Root brauchen. Beginnen Sie mit KVM 1 und steigen Sie auf, wenn der Arbeitsspeicher knapp wird. Rechnen Sie die Zeit für die Wartung des Servers ein oder die Kosten für jemanden, der sie übernimmt.",
+       "depois": "**VPS** kommt in den Vergleich, wenn Sie die Kontrolle und die Einstellungen aus der Tabelle brauchen. Wählen Sie den KVM nach den Anforderungen der Anwendung und rechnen Sie den Verwaltungsaufwand in die Kosten ein."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/2",
+       "antes": "**Im Zweifel Shared Hosting.** Ein VPS wird später nicht zum Shared Hosting, aber umgekehrt ist es nur ein neuer Vertrag, wenn der Bedarf entsteht.",
+       "depois": "**Im Zweifel Shared Hosting.** Wenn der Bedarf an einem VPS später auftaucht, ist das ein neuer Vertrag, mit Einrichtung und Umzug der Website."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatzplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
+       "depois": "Ist ein VPS schneller als Shared Hosting? Nicht unbedingt. Reservierte Ressourcen und Root-Zugriff ändern die Kontrolle über die Umgebung, bestimmen aber allein nicht die Antwortzeit Ihrer Website. Vergleichen Sie die Anforderungen der Anwendung und die Tarifgrenzen."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "Kann man mit Shared Hosting anfangen und später zum VPS wechseln? Ja. Es sind verschiedene Produkte: Man schließt den VPS ab, installiert den Server und zieht die Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
+       "depois": "Kann ich mit Shared Hosting beginnen und später zum VPS wechseln? Ja, sofern die Anwendung mit der neuen Umgebung kompatibel ist. Es ist ein neuer Vertrag, mit Serverinstallation und Umzug der Website; Shared Hosting lässt sich im Panel nicht in einen VPS umwandeln."
+      }
+     ]
+    },
+    {
+     "id": "vps-oder-shared-hosting-de-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template e backup já estão na main; entram a definição de VPS sem a frase de entrega pela Hostinger, o 'configurar o ambiente' e a conferência da cópia, fundidos com o Gemini P002 (obsoleta); o WordPress e o título da manutenção já estão cobertos.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatzplatz. Hostinger übergibt die Maschine mit dem Betriebssystem und dem Root-Zugriff, dem Benutzer, der alles darf. Von da an sind Installation von Webserver, Datenbank und Zertifikat sowie Updates und Sicherheit Ihre Aufgaben. Bei Hostinger sind das die Tarife KVM 1, 2, 4 und 8.",
+       "depois": "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz sowie Root-Zugriff, dem Administratorkonto des Systems. Konfiguration, Updates und Sicherheit liegen bei Ihnen. Eine Vorlage kann WordPress vorinstalliert mitbringen und den Einstieg erleichtern; die spätere Administration bleibt bei Ihnen. Verglichen werden KVM 1, 2, 4 und 8."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**Installieren und konfigurieren**: Webserver, Datenbank und SSL-Zertifikat, oder von einem fertigen Template ausgehen.",
+       "depois": "**Umgebung einrichten**: Prüfen Sie, was das Template vorinstalliert, und passen Sie Webserver, Datenbank und Zertifikat an die Anwendung an."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**Backups anlegen** (das automatische wöchentliche ist standardmäßig aktiv) und wissen, wie man sie zurückspielt.",
+       "depois": "**Backups prüfen und Wiederherstellung beherrschen**: Das automatische wöchentliche Backup ist standardmäßig aktiv, aber die Kopie zu prüfen und zurückzuspielen bleibt Ihre Aufgabe."
+      }
+     ]
+    },
+    {
+     "id": "vps-oder-shared-hosting-de-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "A main ainda aponta a imagem para o -pt.webp; o arquivo vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp existe em public/images/reviews/hostinger (conferido por ls).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/image",
+       "antes": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+       "depois": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-or-shared-hosting-ja",
+   "arquivo": "content/reviews/vps-or-shared-hosting-ja.json",
+   "locale": "ja",
+   "propostas": [
+    {
+     "id": "vps-or-shared-hosting-ja-ja-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js já corrigido na main (Unlimited/Cloud Startup); mantém 共有ホスティング como nome único e acrescenta que Node.js não exige VPS. Linha Node (row 2/1) já coberta na main; description e ênfase ficam de fora como no PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "ブログ、ポートフォリオ、小さなショップなど普通のサイトなら、共有ホスティングで足り、費用も安くすみます。VPS が割に合うのは、コントロールパネルの外にシステムを入れる必要があるとき、CPU とメモリを専用で確保したいとき、root 権限が要るときだけです。結論は下を見てください。",
+       "depois": "ブログ、ポートフォリオ、小さなショップなら、まずアプリケーションに対応した共有ホスティングのプランを比較してください。そのプランでは提供されないソフトウェア、設定、root 権限が必要で、管理を担う人もいるなら VPS を検討します。プラン名だけで決めず、下の表で必要な機能を比べましょう。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "**共有ホスティング**は、ブログ、ポートフォリオ、会社サイト、小さなショップに。サーバーの運用は Hostinger が担います。プランは Premium が出発点。Node.js のサイトや、サイトが成長したときは、VPS を考える前に Unlimited か Cloud Startup です。",
+       "depois": "**共有ホスティング**は、ブログ、ポートフォリオ、会社サイト、小さなショップに。サーバーの運用は Hostinger が担います。プランは Premium が出発点。Node.js のサイトや、サイトが成長したときは、VPS を考える前に Unlimited か Cloud Startup です。Node.js を使うだけでは VPS は必要ありません。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "ブログ、ポートフォリオ、会社サイト、小さなショップなら見送りを。共有ホスティングで足り、サーバーは Hostinger が面倒を見ます。",
+       "depois": "ブログ、ポートフォリオ、会社サイト、小さなショップ、Node.js サイト（Unlimited や Cloud Startup などの対応プラン）なら見送りを。共有ホスティングで足り、サーバーは Hostinger が面倒を見ます。"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-ja-ja-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tira o bastidor (計測していません) e o termo マネージド, mantendo 共有ホスティング como nome único; a ressalva de capacidade vira decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "普通のサイトで VPS が要る場合、出発点は KVM 1 です。RAM 4 GB あれば、WordPress や小さなシステムは動かせます。同じマシンで複数のプログラムを動かすなら KVM 2。KVM 4 と 8 は、大きめのシステム、大きなデータベース、複数のアプリケーション向けです。",
+       "depois": "表の CPU、RAM、ディスクを、アプリケーションの要件と比較してください。KVM 1 は表に載っている中で最小のプランで、サイトの負荷によって足りるかどうかが決まります。KVM 4 と 8 は、大きめのシステム、大きなデータベース、複数のアプリケーション向けです。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "**VPS** は、独自のシステム、パネルにないプログラムやデータベース、一日中動くボットやパネル、root 権限が必要なときに。KVM 1 から始めて、メモリが足りなければ上げてください。サーバーを維持する時間か、代わりにやってくれる人の費用を計算に入れること。",
+       "depois": "**VPS** は、表に示したような管理権限や設定が必要な場合に比較対象になります。KVM はアプリケーションの要件で選び、管理にかかる時間や費用も含めてください。KVM 1 で足りると決めつけず、メモリだけが限界だとも考えないでください。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/2",
+       "antes": "**迷ったら共有ホスティング。** VPS は後から共有ホスティングにはなりませんが、その逆は必要になったときに新しく契約するだけです。",
+       "depois": "**迷ったら共有ホスティング。** VPS が必要になったら、新たに契約し、環境を整えて、サイトを移すことになります。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "VPS は共有ホスティングより速いですか？ 計測していません。VPS が保証するのは専用のリソースです。CPU、メモリ、ディスクが自分のもので、共有ホスティングではサーバーを分け合います。普通のサイトでは、そこがボトルネックになることはまずありません。",
+       "depois": "VPS は共有ホスティングより速いですか？ 必ずしもそうとは限りません。確保されたリソースや root 権限は環境の管理方法を変えますが、それだけではサイトの応答速度は予測できません。アプリケーションの要件とプランの制限を比較してください。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "まず共有ホスティングで始めて、後から VPS に移れますか？ 移れます。別の商品なので、VPS を契約し、サーバーを構築して、サイトを移します。共有ホスティングをパネルの中から VPS に変換することはできません。",
+       "depois": "まず共有ホスティングで始めて、後から VPS に移れますか？ 新しい環境にアプリケーションが対応していれば可能です。VPS の契約、サーバーの構築、サイトの移行が必要で、パネルから自動的に VPS へ変わるわけではありません。"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-ja-ja-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template e backup já estão na main; o que faltava é 'configurar o ambiente' e conferir o backup, fundido com o Gemini ja P002 (obsoleta na main), que fica descartado. Termo: 共有ホスティング, sem マネージド.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "**VPS**（仮想専用サーバー）は、プロセッサー、メモリ、ディスクが専用に確保された、あなただけの仮想マシンです。Hostinger は OS と root 権限（何でもできるユーザー）付きでマシンを渡します。そこから先、ウェブサーバー、データベース、証明書の導入、アップデート、セキュリティはあなたの仕事です。Hostinger では KVM 1、2、4、8 のプランです。",
+       "depois": "**VPS**（仮想専用サーバー）は、プランで決まったリソースと root 権限を持つ仮想マシンです。root はシステムの管理者アカウントで、設定、更新、セキュリティはあなたが担います。WordPress が導入済みのテンプレートを使えば初期設定は減らせますが、その後の運用まで Hostinger が引き受けるわけではありません。比較するのは KVM 1、2、4、8 です。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**インストールと設定**：ウェブサーバー、データベース、SSL 証明書（用意されたテンプレートから始める方法もあります）。",
+       "depois": "**環境の設定**：テンプレートで何が導入されるかを確認し、ウェブサーバー、データベース、証明書を用途に合わせます。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**バックアップ**（週次の自動バックアップは標準で有効）を取り、復元のしかたを知っておく。",
+       "depois": "**バックアップを確認し、復元方法を把握する**：週次の自動バックアップは標準で有効です。ただし、コピーの状態を確認し、障害時に復元できるかはあなたの責任です。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/3",
+       "antes": "VPS で WordPress は動きますか？ 動きます。VPS の WordPress テンプレートなら導入済みの状態から始められますが、アップデート、セキュリティ、バックアップの復元は自分で行います。共有ホスティングでは WordPress がパネルにあらかじめ用意され、サーバーは Hostinger が面倒を見ます。",
+       "depois": "VPS で WordPress は動きますか？ 動きます。導入済みのテンプレートも使えます。ただし環境の設定と維持、OS のセキュリティ更新はあなたの責任です。共有ホスティングでは WordPress がパネルにあらかじめ用意され、サーバーは Hostinger が面倒を見ます。"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-ja-ja-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só a célula VPS do Node.js entra (qualificador de runtime, como no PT); a célula Business (row 2/1) já está coberta na main e o skipIf/0 e o 6/0 foram fundidos no ChatGPT ja-g126-P001.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "不要です",
+       "depois": "ランタイムを完全に制御する必要がなければ不要です"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-ja-ja-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "A main ainda aponta a imagem do artigo japonês para o arquivo -pt.webp; o arquivo -ja.webp existe em public/images/reviews/hostinger.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/image",
+       "antes": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+       "depois": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-or-shared-hosting-ko",
+   "arquivo": "content/reviews/vps-or-shared-hosting-ko.json",
+   "locale": "ko",
+   "propostas": [
+    {
+     "id": "vps-or-shared-hosting-ko-ko-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js já corrigido na main (Unlimited/Cloud Startup); acrescenta que Node.js não exige VPS e troca a resposta rápida e o skipIf pelo termo único 공유 호스팅. Linha Node (row 2/1) já coberta; description e ênfase ficam de fora como no PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "블로그, 포트폴리오, 작은 쇼핑몰 같은 일반 사이트라면 공유 호스팅으로 충분하고 비용도 덜 듭니다. VPS는 패널 밖에 시스템을 설치해야 하거나, CPU와 메모리를 예약해 두어야 하거나, root 접근이 필요할 때만 값을 합니다. 결론은 아래를 보세요.",
+       "depois": "블로그, 포트폴리오, 작은 쇼핑몰이라면 먼저 애플리케이션을 지원하는 공유 호스팅 플랜을 비교하세요. 해당 플랜에서 제공하지 않는 프로그램, 설정 또는 root 권한이 필요하고 서버를 관리할 사람도 있다면 VPS를 검토할 수 있습니다. 플랜 이름보다 요구 사항을 기준으로 아래 표를 살펴보세요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "**공유 호스팅**은 블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰에 맞습니다. 서버 유지는 호스팅어의 몫입니다. 플랜 중에서는 Premium이 출발점이고, Node.js 사이트이거나 사이트가 커지면 VPS를 생각하기 전에 Unlimited나 Cloud Startup으로 올라가세요.",
+       "depois": "**공유 호스팅**은 블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰에 맞습니다. 서버 유지는 호스팅어의 몫입니다. 플랜 중에서는 Premium이 출발점이고, Node.js 사이트이거나 사이트가 커지면 VPS를 생각하기 전에 Unlimited나 Cloud Startup으로 올라가세요. Node.js만으로는 VPS가 필요하지 않습니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰이라면 건너뛰세요. 공유 호스팅으로 충분하고 서버는 호스팅어가 돌봅니다.",
+       "depois": "블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰, Node.js 사이트(Unlimited나 Cloud Startup 같은 지원 플랜)라면 건너뛰세요. 공유 호스팅으로 충분하고 서버는 호스팅어가 돌봅니다."
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-ko-ko-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tira o bastidor (측정하지 않았습니다), troca 관리형 por 공유 호스팅 e transforma a ressalva de capacidade em decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "일반 사이트인데 VPS가 필요하다면 KVM 1이 출발점입니다. RAM 4GB면 WordPress나 작은 시스템을 돌릴 수 있습니다. 한 머신에서 프로그램을 여러 개 돌릴 때는 KVM 2가 맞습니다. KVM 4와 8은 더 큰 시스템, 큰 데이터베이스, 여러 애플리케이션을 위한 플랜입니다.",
+       "depois": "표의 CPU, RAM, 저장 공간을 애플리케이션 요구 사항과 비교하세요. KVM 1은 표에서 가장 작은 플랜이고, 사이트의 부하에 따라 충분한지가 갈립니다. KVM 4와 8은 더 큰 시스템, 큰 데이터베이스, 여러 애플리케이션을 위한 플랜입니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "**VPS**는 자체 시스템, 패널에 없는 프로그램이나 데이터베이스, 하루 종일 돌아가는 봇이나 패널, 또는 root가 필요할 때 맞습니다. KVM 1에서 시작해 메모리가 모자라면 올리세요. 서버를 관리하는 시간이나 대신 해 줄 사람의 비용도 계산에 넣어야 합니다.",
+       "depois": "**VPS**는 표에 나온 관리 권한과 설정이 필요할 때 비교 대상이 됩니다. KVM은 애플리케이션 요구 사항으로 고르고, 관리 시간과 비용도 함께 계산하세요. KVM 1이 항상 충분하다고 보지 말고, RAM만 한계라고 여기지도 마세요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/2",
+       "antes": "**망설여진다면 공유 호스팅입니다.** VPS는 나중에 공유 호스팅으로 바뀌지 않지만, 반대 방향은 필요가 생겼을 때 새 계약 하나면 됩니다.",
+       "depois": "**망설여진다면 공유 호스팅입니다.** VPS가 나중에 필요해지면 새로 계약하고 환경을 설정한 뒤 사이트를 옮기면 됩니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "VPS는 공유 호스팅보다 빠른가요? 측정하지 않았습니다. VPS가 보장하는 것은 예약된 자원입니다. CPU, 메모리, 디스크가 이용자 몫이고, 공유 호스팅에서는 서버를 나눠 씁니다. 일반 사이트에서는 이것이 병목이 되는 일이 드뭅니다.",
+       "depois": "VPS는 공유 호스팅보다 빠른가요? 꼭 그렇지는 않습니다. 예약된 자원과 root 접근은 환경을 관리하는 방식을 바꾸지만, 그것만으로 사이트의 응답 속도를 예측할 수는 없습니다. 애플리케이션 요구 사항과 플랜의 한도를 비교하세요."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "공유 호스팅으로 시작했다가 나중에 VPS로 옮길 수 있나요? 가능합니다. 서로 다른 상품이라서, VPS를 계약하고 서버를 설치한 뒤 사이트를 옮기면 됩니다. 공유 호스팅을 패널 안에서 VPS로 전환할 수는 없습니다.",
+       "depois": "공유 호스팅으로 시작했다가 나중에 VPS로 옮길 수 있나요? 애플리케이션이 새 환경과 호환된다면 가능합니다. 서비스 계약, 환경 설정과 사이트 이전이 필요하며 패널에서 자동으로 VPS로 전환되는 것은 아닙니다."
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-ko-ko-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template e backup já na main; falta 'configurar o ambiente' e conferir o backup, fundido com o Gemini ko P002 (obsoleta), que fica descartado. Termo único 공유 호스팅.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "**VPS**(가상 사설 서버)는 프로세서, 메모리, 디스크가 예약된 이용자만의 가상 머신입니다. 호스팅어는 운영체제와 root 접근(모든 것을 할 수 있는 사용자)을 갖춘 머신을 넘겨주고, 그다음부터 웹 서버, 데이터베이스, 인증서, 업데이트, 보안은 이용자의 일이 됩니다. 호스팅어에서는 KVM 1, 2, 4, 8 플랜입니다.",
+       "depois": "**VPS**(가상 사설 서버)는 플랜에 정해진 자원과 root 접근을 제공하는 가상 머신입니다. root는 시스템 관리자 계정이며, 설정, 업데이트와 보안은 이용자가 맡습니다. WordPress가 미리 설치된 템플릿으로 시작할 수는 있지만, 이후 서버 관리까지 호스팅어가 맡는 것은 아닙니다. 비교 대상은 KVM 1, 2, 4, 8입니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**설치와 설정**: 웹 서버, 데이터베이스, SSL 인증서(준비된 템플릿으로 시작할 수도 있습니다).",
+       "depois": "**환경 설정**: 템플릿이 미리 설치한 항목을 확인하고 웹 서버, 데이터베이스, 인증서를 용도에 맞게 조정하기."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**백업**(주간 자동 백업은 기본으로 켜져 있음)을 하고, 복원하는 방법을 알아 두기.",
+       "depois": "**백업 확인과 복원**: 주간 자동 백업은 기본으로 켜져 있지만, 백업본을 점검하고 실제로 복원하는 일은 이용자의 몫입니다."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/3",
+       "antes": "VPS에서 WordPress가 돌아가나요? 돌아갑니다. VPS의 WordPress 템플릿으로 설치된 상태에서 시작할 수 있지만, 업데이트, 보안, 백업 복원은 직접 해야 합니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다.",
+       "depois": "VPS에서 WordPress가 돌아가나요? 돌아갑니다. 미리 설치된 템플릿으로 시작할 수도 있지만, 환경 설정, OS 보안 패치와 유지 관리는 이용자의 책임입니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다."
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-ko-ko-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só a célula VPS do Node.js entra (qualificador de runtime, como no PT); a célula Business (row 2/1) já está coberta na main e o 6/0 e o skipIf/0 foram fundidos no ChatGPT ko-g126-P001.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "필요 없습니다",
+       "depois": "런타임을 완전히 제어해야 하는 경우가 아니라면 필요 없습니다"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-ko-ko-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "A main ainda aponta a imagem do artigo coreano para o arquivo -pt.webp; o arquivo -ko.webp existe em public/images/reviews/hostinger.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/image",
+       "antes": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+       "depois": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-or-shared-hosting-which-to-choose",
+   "arquivo": "content/reviews/vps-or-shared-hosting-which-to-choose.json",
+   "locale": "en",
+   "propostas": [
+    {
+     "id": "vps-or-shared-hosting-which-to-choose-en-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js already corrected in main (Unlimited/Cloud, Premium out); remaining gaps are the quick answer wording, Node not requiring a VPS, the skipIf plan qualifier and the Gemini Node/VPS cell (fused here). The Node row and the 'ordinary site' emphasis are already covered in main (ja_coberto).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "For an ordinary site, a blog, a portfolio or a small shop, shared hosting does the job and costs less. A VPS only pays off when the site needs a system installed outside the control panel, reserved CPU and memory, or root access. See the verdict below.",
+       "depois": "For a blog, portfolio or small shop, start by comparing shared plans that support your application. Consider a VPS when you need software, configuration or root access those plans do not provide, and someone to maintain the server. Choose by requirements, not by the plan name; the scenario table helps you compare."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "Not needed",
+       "depois": "Not needed, unless you need full control of the runtime"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "**Shared hosting** for a blog, portfolio, company site or small shop. Server maintenance is Hostinger's job. Among the plans, Premium is the starting point; for a Node.js site or if the site grows, Unlimited or Cloud Startup, before you think of a VPS.",
+       "depois": "**Shared hosting** for a blog, portfolio, company site or small shop. Server maintenance is Hostinger's job. Among the plans, Premium is the starting point; for a Node.js site or if the site grows, Unlimited or Cloud Startup, before you think of a VPS. Node.js alone does not require a VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "Skip it if it is a blog, portfolio, company site or small shop: shared hosting does the job and Hostinger looks after the server.",
+       "depois": "Skip it if it is a blog, portfolio, company site, small shop or Node.js site on a plan that supports it, such as Unlimited or Cloud Startup: shared hosting does the job and Hostinger looks after the server."
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-which-to-choose-en-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tirei o bastidor ('we did not measure it') e o termo 'managed' para manter 'shared hosting' como nome único; a ressalva de capacidade vira decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "For an ordinary site that needs a VPS, KVM 1 is the starting point: 4 GB of RAM is enough for a WordPress site or a small system. KVM 2 comes in when you will run more than one program on the same machine. KVM 4 and 8 are for a larger system, a big database or several applications.",
+       "depois": "Use the table to compare CPU, RAM and storage with your application's requirements. KVM 1 is the smallest listed plan, and your site's load decides whether it is enough. KVM 4 and 8 are for a larger system, a big database or several applications."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "**VPS** for your own system, a program or database outside the panel, a bot or dashboard running all day, or when you need root. Start with KVM 1 and move up if memory runs short. Count in the time it takes to maintain the server, or the cost of someone who does it.",
+       "depois": "**VPS** is worth comparing when you need the control and configuration described in the scenario table. Choose the KVM plan by application requirements and count the administration work in the cost."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/2",
+       "antes": "**When in doubt, shared hosting.** A VPS does not turn into shared hosting later, but going the other way is just a new contract when the need appears.",
+       "depois": "**When in doubt, shared hosting.** If the need for a VPS shows up later, it means a new contract, with setup and a site transfer."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Is a VPS faster than shared hosting? We did not measure it. What a VPS guarantees is reserved resources: CPU, memory and disk are yours, while on shared hosting the server is divided. For an ordinary site, that is rarely the bottleneck.",
+       "depois": "Is a VPS faster than shared hosting? Not necessarily. Reserved resources and root access change how you control the environment, but they do not by themselves predict how quickly your site responds. Compare the application's requirements and the plan limits."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "Can I start on shared hosting and move to a VPS later? Yes. They are different products: you sign up for the VPS, install the server and move the site over. Shared hosting cannot be converted into a VPS from inside the panel.",
+       "depois": "Can I start on shared hosting and move to a VPS later? Yes, if the application supports the new environment. It is a new contract, with server setup and a site transfer; shared hosting cannot be converted into a VPS from inside the panel."
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-which-to-choose-en-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template and backup wording already in main; what was missing is 'configure the environment' and checking the backup, fused with the Gemini en P002 (outdated in main). The 'managed' wording is dropped.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk. Hostinger hands you the machine with the operating system and root access, the user that can do anything. From there on, installing the web server, the database and the certificate, plus updates and security, are your jobs. At Hostinger, these are the KVM 1, 2, 4 and 8 plans.",
+       "depois": "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk, plus root access, the system administrator account. You take responsibility for configuration, updates and security. The plans compared here are KVM 1, 2, 4 and 8."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**Install and configure** the web server, the database and the SSL certificate, or start from a ready-made template.",
+       "depois": "**Configure the environment**: check what the template installs, then adjust the web server, database and certificate for the application."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**Back up** (the automatic weekly one is on by default) and know how to restore.",
+       "depois": "**Check backups and know how to restore**: the automatic weekly backup is on by default, but verifying the copy and restoring it stay your job."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/3",
+       "antes": "Can a VPS run WordPress? It can. You can start from the VPS WordPress template, which comes pre-installed, but updating, securing and restoring backups stay with you. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
+       "depois": "Can a VPS run WordPress? Yes, including with a pre-installed template. You remain responsible for configuring and maintaining the environment, and capacity depends on the application. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server."
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-which-to-choose-en-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "Main still points the English article's image to the -pt.webp file; the -en.webp file exists in public/images/reviews/hostinger and shows English text.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/image",
+       "antes": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+       "depois": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-or-shared-hosting-zh-hans",
+   "arquivo": "content/reviews/vps-or-shared-hosting-zh-hans.json",
+   "locale": "zh-hans",
+   "propostas": [
+    {
+     "id": "vps-or-shared-hosting-zh-hans-zh-hans-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js já corrigido na main (Unlimited/Cloud Startup); acrescenta que Node.js não exige VPS e troca a resposta rápida e o skipIf pelo termo único 共享主机. Linha Node (row 2/1) já coberta; description e ênfase ficam de fora como no PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "博客、作品集或小型网店这类普通网站，共享主机就够用，也更便宜。只有当网站需要在面板之外安装系统、需要独享的 CPU 和内存，或需要 root 权限时，VPS 才划算。结论见下文。",
+       "depois": "博客、作品集或小型网店，可以先比较兼容应用的共享主机套餐。如果需要这些套餐不提供的软件、配置或 root 权限，并且有人能维护服务器，再考虑 VPS。不要只按套餐名称决定；下表按使用场景比较需求。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "**共享主机**适合博客、作品集、公司网站、小型网店，服务器维护由 Hostinger 负责。套餐里 Premium 是起点；Node.js 网站或网站长大了，先升到 Unlimited 或 Cloud Startup，再考虑 VPS。",
+       "depois": "**共享主机**适合博客、作品集、公司网站、小型网店，服务器维护由 Hostinger 负责。套餐里 Premium 是起点；Node.js 网站或网站长大了，先升到 Unlimited 或 Cloud Startup，再考虑 VPS。Node.js 本身不需要 VPS。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "如果是博客、作品集、公司网站、小型网店，就别选：共享主机够用，服务器由 Hostinger 负责。",
+       "depois": "如果是博客、作品集、公司网站、小型网店或 Node.js 网站（套餐需支持，如 Unlimited 或 Cloud Startup），就别选：共享主机够用，服务器由 Hostinger 负责。"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-zh-hans-zh-hans-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tira o bastidor (没有测量 / 没测过), troca 托管主机 por 共享主机 e transforma a ressalva de capacidade em decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "对于确实需要 VPS 的普通网站，KVM 1 是起点：4 GB 内存可以跑一个 WordPress 或小型系统。要在同一台机器上运行多个程序时，再上 KVM 2。KVM 4 和 8 面向较大的系统、大型数据库或多个应用。",
+       "depois": "把表中的 CPU、内存和硬盘与应用要求比较。KVM 1 是表中最小的套餐，能否满足需求取决于网站负载。KVM 4 和 8 面向较大的系统、大型数据库或多个应用。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "**VPS** 适合自有系统、面板里没有的程序或数据库、整天运行的机器人或面板，或者你需要 root 的时候。从 KVM 1 开始，内存不够再升。把维护服务器的时间，或者请人代劳的费用，也算进账里。",
+       "depois": "**VPS** 适合在需要场景表所述控制权和配置时比较。按应用要求选择 KVM，并计入管理时间或费用。不要假定 KVM 1 总是够用，也不要把内存看成唯一限制。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/2",
+       "antes": "**拿不准，就选共享主机。** VPS 以后不能变成共享主机，反过来则只是在需要时再签一份新合同。",
+       "depois": "**拿不准，就选共享主机。** 如果之后需要 VPS，那就是一份新合同，还要配置环境并迁移网站。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "VPS 比共享主机快吗？我们没有测过。VPS 保证的是独享资源：CPU、内存和硬盘都是你的，而共享主机的服务器是大家分用的。对普通网站来说，这很少是瓶颈。",
+       "depois": "VPS 比共享主机快吗？不一定。分配的资源和 root 权限改变了环境的管理方式，但仅凭这些无法预测网站的响应速度。需要比较应用要求与套餐限制。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "可以先用共享主机，以后再迁到 VPS 吗？可以。两者是不同的产品：你订购 VPS，搭好服务器，再把网站迁过去。共享主机不能在面板里直接转成 VPS。",
+       "depois": "可以先用共享主机，以后再迁到 VPS 吗？如果应用兼容新环境，可以迁移。你需要购买服务、配置环境并转移网站；共享主机不能在面板中直接转成 VPS。"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-zh-hans-zh-hans-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template e backup já na main; falta 'configurar o ambiente' e conferir o backup, fundido com o Gemini zh-hans P002 (obsoleta), que fica descartado. Termo único 共享主机.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "**VPS**（虚拟专用服务器）是一台只属于你的虚拟机，处理器、内存和硬盘都是预留的。Hostinger 交付的是带操作系统和 root 权限（什么都能做的用户）的机器。从那以后，安装 Web 服务器、数据库、证书，做更新和安全，都是你的事。在 Hostinger，这是 KVM 1、2、4 和 8 套餐。",
+       "depois": "**VPS**（虚拟专用服务器）是一台提供套餐资源和 root 权限的虚拟机。root 是系统管理员账户；配置、更新和安全由你负责。预装 WordPress 的模板可以简化起步，但之后的服务器管理不会因此转交给 Hostinger。本文比较 KVM 1、2、4 和 8。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**安装和配置** Web 服务器、数据库和 SSL 证书，或从现成模板开始。",
+       "depois": "**配置环境**：核对模板已安装的内容，再按应用调整 Web 服务器、数据库和证书。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**做备份**（每周自动备份默认开启），并且知道怎么恢复。",
+       "depois": "**检查备份并掌握恢复方法**：每周自动备份默认开启，但核对备份副本、在故障时实际恢复仍由你负责。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/3",
+       "antes": "VPS 能跑 WordPress 吗？能。可以从 VPS 的 WordPress 模板起步，它已预装好，但更新、防护和恢复备份仍要你自己来。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。",
+       "depois": "VPS 能跑 WordPress 吗？能，也可以用预装模板起步。但操作系统的安全补丁、环境配置和维护仍由你负责。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-zh-hans-zh-hans-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só a célula VPS do Node.js entra (qualificador de runtime, como no PT); a célula Business (row 2/1) já está coberta na main e o 6/0 e o skipIf/0 foram fundidos no ChatGPT zh-hans-g126-P001.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "不需要",
+       "depois": "不需要，除非你需要完全掌控运行环境"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-zh-hans-zh-hans-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "A main ainda aponta a imagem do artigo para o arquivo -pt.webp; o arquivo -zh-hans.webp existe em public/images/reviews/hostinger.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/image",
+       "antes": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+       "depois": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-or-shared-hosting-zh-hant",
+   "arquivo": "content/reviews/vps-or-shared-hosting-zh-hant.json",
+   "locale": "zh-hant",
+   "propostas": [
+    {
+     "id": "vps-or-shared-hosting-zh-hant-zh-hant-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js já corrigido na main (Unlimited/Cloud Startup); acrescenta que Node.js não exige VPS e troca a resposta rápida e o skipIf pelo termo único 共享主機. Linha Node (row 2/1) já coberta; description e ênfase ficam de fora como no PT.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "部落格、作品集或小型網路商店這類一般網站，共享主機就夠用，也比較便宜。只有當網站需要在面板之外安裝系統、需要獨享的 CPU 與記憶體，或需要 root 權限時，VPS 才划算。結論見下文。",
+       "depois": "部落格、作品集或小型網路商店，可以先比較支援應用的共享主機方案。如果需要這些方案沒有提供的軟體、設定或 root 權限，並且有人能維護伺服器，再考慮 VPS。別只看方案名稱；下表依使用情境比較需求。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "**共享主機**適合部落格、作品集、公司網站、小型網路商店，伺服器維護由 Hostinger 負責。方案裡 Premium 是起點；Node.js 網站或網站長大了，先升到 Unlimited 或 Cloud Startup，再考慮 VPS。",
+       "depois": "**共享主機**適合部落格、作品集、公司網站、小型網路商店，伺服器維護由 Hostinger 負責。方案裡 Premium 是起點；Node.js 網站或網站長大了，先升到 Unlimited 或 Cloud Startup，再考慮 VPS。Node.js 本身不需要 VPS。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "如果是部落格、作品集、公司網站、小型網路商店，就別選：共享主機夠用，伺服器由 Hostinger 負責。",
+       "depois": "如果是部落格、作品集、公司網站、小型網路商店或 Node.js 網站（方案需支援，如 Unlimited 或 Cloud Startup），就別選：共享主機夠用，伺服器由 Hostinger 負責。"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-zh-hant-zh-hant-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tira o bastidor (沒有測量 / 沒測過), troca 託管主機 por 共享主機 e transforma a ressalva de capacidade em decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "對於確實需要 VPS 的一般網站，KVM 1 是起點：4 GB 記憶體可以跑一個 WordPress 或小型系統。要在同一台機器上執行多個程式時，再上 KVM 2。KVM 4 與 8 面向較大的系統、大型資料庫或多個應用。",
+       "depois": "把表中的 CPU、記憶體與硬碟和應用需求比較。KVM 1 是表中最小的方案，能否滿足需求取決於網站負載。KVM 4 與 8 面向較大的系統、大型資料庫或多個應用。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "**VPS** 適合自有系統、面板裡沒有的程式或資料庫、整天運作的機器人或面板，或者你需要 root 的時候。從 KVM 1 開始，記憶體不夠再升。把維護伺服器的時間，或者請人代勞的費用，也算進帳裡。",
+       "depois": "**VPS** 適合在需要情境表所述控制權與設定時比較。依應用需求選擇 KVM，並計入管理時間或費用。不要假設 KVM 1 總是足夠，也別把記憶體視為唯一限制。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/2",
+       "antes": "**拿不定主意，就選共享主機。** VPS 之後不能變成共享主機，反過來則只是在需要時再簽一份新合約。",
+       "depois": "**拿不定主意，就選共享主機。** 如果之後需要 VPS，那是一份新合約，還要設定環境並遷移網站。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "VPS 比共享主機快嗎？我們沒有測過。VPS 保證的是獨享資源：CPU、記憶體與硬碟都是你的，而共享主機的伺服器是大家分用的。對一般網站來說，這很少是瓶頸。",
+       "depois": "VPS 比共享主機快嗎？不一定。分配的資源與 root 權限改變了環境的管理方式，但僅憑這些無法預測網站的回應速度。需要比較應用需求與方案限制。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "可以先用共享主機，之後再遷到 VPS 嗎？可以。兩者是不同的產品：你訂購 VPS，架好伺服器，再把網站遷過去。共享主機不能在面板裡直接轉成 VPS。",
+       "depois": "可以先用共享主機，之後再遷到 VPS 嗎？如果應用相容於新環境，就可以遷移。你需要購買服務、設定環境並轉移網站；共享主機不能在面板裡直接轉成 VPS。"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-zh-hant-zh-hant-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template e backup já na main; falta 'configurar o ambiente' e conferir o backup, fundido com o Gemini zh-hant P002 (obsoleta), que fica descartado. Termo único 共享主機.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "**VPS**（虛擬專屬伺服器）是一台只屬於你的虛擬機器，處理器、記憶體與硬碟都是預留的。Hostinger 交付的是帶作業系統與 root 權限（什麼都能做的使用者）的機器。從那之後，安裝 Web 伺服器、資料庫、憑證，做更新與安全，都是你的事。在 Hostinger，這是 KVM 1、2、4 與 8 方案。",
+       "depois": "**VPS**（虛擬專屬伺服器）是一台提供方案資源與 root 權限的虛擬機器。root 是系統管理帳號；設定、更新與安全由你負責。預裝 WordPress 的範本可以簡化起步，但之後的伺服器管理不會因此交給 Hostinger。本文比較 KVM 1、2、4 與 8。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**安裝與設定** Web 伺服器、資料庫與 SSL 憑證，或從現成範本開始。",
+       "depois": "**設定環境**：核對範本已安裝的項目，再依應用調整 Web 伺服器、資料庫與憑證。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**做備份**（每週自動備份預設開啟），並且知道怎麼還原。",
+       "depois": "**檢查備份並掌握還原方法**：每週自動備份預設開啟，但核對備份副本、在故障時實際還原仍由你負責。"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/3",
+       "antes": "VPS 能跑 WordPress 嗎？能。可以從 VPS 的 WordPress 範本起步，它已預先裝好，但更新、防護與還原備份仍要你自己來。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。",
+       "depois": "VPS 能跑 WordPress 嗎？能，也可以用預裝範本起步。但作業系統的安全修補與伺服器設定仍由你負責。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-zh-hant-zh-hant-r02-gemini-P001",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Só a célula VPS do Node.js entra (qualificador de runtime, como no PT); a célula Business (row 2/1) já está coberta na main e o 6/0 e o skipIf/0 foram fundidos no ChatGPT zh-hant-g126-P001.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "不需要",
+       "depois": "不需要，除非你需要完全掌控執行環境"
+      }
+     ]
+    },
+    {
+     "id": "vps-or-shared-hosting-zh-hant-zh-hant-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "A main ainda aponta a imagem do artigo para o arquivo -pt.webp; o arquivo -zh-hant.webp existe em public/images/reviews/hostinger.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/image",
+       "antes": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+       "depois": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-ou-hebergement-mutualise",
+   "arquivo": "content/reviews/vps-ou-hebergement-mutualise.json",
+   "locale": "fr",
+   "propostas": [
+    {
+     "id": "vps-ou-hebergement-mutualise-fr-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js já corrigido na main (Unlimited/Cloud Startup, Premium fora); faltam a intro sem 'gestionado', a ressalva de root na célula 'No hace falta', o 'Node.js por si só não exige VPS' no veredicto e o skipIf com plano compatível. A ênfase de Premium para site comum fica (coerente com a tabela, que põe Premium para WordPress; PT e EN já a tratam como coberta).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Pour un site ordinaire, un blog, un portfolio ou une petite boutique, l'hébergement mutualisé fait l'affaire et coûte moins cher. Le VPS ne vaut le coup que si le site a besoin d'un système installé hors du panneau, de CPU et de mémoire réservés ou de l'accès root. Voyez le verdict plus bas.",
+       "depois": "Pour un blog, un portfolio ou une petite boutique, commencez par comparer les forfaits mutualisés qui prennent en charge votre application. Envisagez un VPS si vous avez besoin de réglages, de logiciels ou d'un accès root absents de ces forfaits, et de quelqu'un pour administrer le serveur. Ne choisissez pas seulement d'après le nom du forfait : le tableau par scénario aide à comparer."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "Pas besoin",
+       "depois": "Pas besoin, sauf si vous exigez un contrôle total de l'environnement d'exécution."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise ou une petite boutique. La maintenance du serveur revient à Hostinger. Parmi les forfaits, Premium est le point de départ ; pour un site en Node.js ou si le site grandit, Unlimited ou Cloud Startup, avant de penser au VPS.",
+       "depois": "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise ou une petite boutique. La maintenance du serveur revient à Hostinger. Parmi les forfaits, Premium est le point de départ ; pour un site en Node.js ou si le site grandit, Unlimited ou Cloud Startup, avant de penser au VPS. Node.js n'impose pas à lui seul un VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise ou une petite boutique : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
+       "depois": "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js (sur une offre compatible, comme Unlimited ou Cloud Startup) : le mutualisé fait l'affaire et Hostinger s'occupe du serveur."
+      }
+     ]
+    },
+    {
+     "id": "vps-ou-hebergement-mutualise-fr-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tirei o bastidor ('no medimos' e equivalentes) e o termo gestionado, e a ressalva de capacidade virou decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Pour un site ordinaire qui a besoin d'un VPS, le KVM 1 est le point de départ : 4 Go de RAM suffisent pour un WordPress ou un petit système. Le KVM 2 entre en jeu quand vous ferez tourner plus d'un programme sur la même machine. Les KVM 4 et 8 sont pour un système plus gros, une grosse base de données ou plusieurs applications.",
+       "depois": "Comparez CPU, mémoire et stockage avec les besoins de votre application. KVM 1 est la plus petite offre du tableau, et la charge de votre site décide si elle suffit. KVM 4 et 8 sont pour un système plus gros, une grosse base de données ou plusieurs applications."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/1",
+       "antes": "**VPS** pour un système propre, un programme ou une base hors du panneau, un bot ou un tableau de bord tournant toute la journée, ou quand vous avez besoin de root. Commencez par le KVM 1 et montez si la mémoire manque. Mettez dans le calcul le temps de maintenir le serveur, ou le coût de quelqu'un qui le fasse.",
+       "depois": "**VPS** entre dans la comparaison si vous avez besoin du contrôle et des réglages décrits dans le tableau. Choisissez le KVM selon l'application et comptez le travail d'administration dans le coût."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/2",
+       "antes": "**Dans le doute, mutualisé.** Le VPS ne redevient pas mutualisé ensuite, mais l'inverse n'est qu'un nouveau contrat le jour où le besoin apparaît.",
+       "depois": "**Dans le doute, mutualisé.** Si le besoin de VPS apparaît plus tard, c'est un nouveau contrat, avec installation et transfert du site."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Nous ne l'avons pas mesuré. Ce que le VPS garantit, ce sont des ressources réservées : CPU, mémoire et disque sont à vous, alors que sur le mutualisé le serveur est partagé. Pour un site ordinaire, c'est rarement le goulot d'étranglement.",
+       "depois": "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Pas forcément. Les ressources réservées et l'accès root changent le contrôle de l'environnement, mais ne permettent pas à eux seuls de prévoir le temps de réponse du site. Comparez les besoins de l'application et les limites du forfait."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et y transférez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
+       "depois": "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui, si l'application est compatible avec le nouvel environnement. C'est un nouveau contrat, avec installation du serveur et transfert du site ; l'hébergement mutualisé ne se convertit pas en VPS depuis le panneau."
+      }
+     ]
+    },
+    {
+     "id": "vps-ou-hebergement-mutualise-fr-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template e backup já estão na main; entram a definição de VPS sem a frase de entrega pela Hostinger, o 'configurar o ambiente' e a conferência da cópia, fundidos com o Gemini P002 (obsoleta); o WordPress e o título da manutenção já estão cobertos.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "Un **VPS** (serveur privé virtuel) est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés. Hostinger livre la machine avec le système d'exploitation et l'accès root, l'utilisateur qui peut tout faire. À partir de là, installer le serveur web, la base de données et le certificat, ainsi que les mises à jour et la sécurité, relève de vous. Chez Hostinger, ce sont les forfaits KVM 1, 2, 4 et 8.",
+       "depois": "Un **VPS** est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés et accès root, le compte d'administration du système. La configuration, les mises à jour et la sécurité restent à votre charge. Un modèle peut inclure WordPress préinstallé et faciliter le démarrage ; l'administration par la suite vous revient. Les offres comparées sont KVM 1, 2, 4 et 8."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**Installer et configurer** le serveur web, la base de données et le certificat SSL, ou partir d'un modèle prêt.",
+       "depois": "**Configurer l'environnement** : vérifiez ce que le modèle installe, puis adaptez le serveur web, la base de données et le certificat à l'application."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**Sauvegarder** (la sauvegarde hebdomadaire automatique est activée par défaut) et savoir restaurer.",
+       "depois": "**Vérifier les sauvegardes et savoir restaurer** : la sauvegarde hebdomadaire automatique est activée par défaut, mais contrôler la copie disponible et la restaurer reste à votre charge."
+      }
+     ]
+    },
+    {
+     "id": "vps-ou-hebergement-mutualise-fr-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar",
+     "motivo": "A main ainda aponta a imagem para o -pt.webp; o arquivo vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp existe em public/images/reviews/hostinger (conferido por ls).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/image",
+       "antes": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+       "depois": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "vps-ou-hospedagem-compartilhada-qual-escolher",
+   "arquivo": "content/reviews/vps-ou-hospedagem-compartilhada-qual-escolher.json",
+   "locale": "pt",
+   "propostas": [
+    {
+     "id": "vps-ou-hospedagem-compartilhada-qual-escolher-pt-g126-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Node.js já corrigido na main (Ilimitado/Cloud, Premium fora); faltam a resposta rápida sem 'gerenciado', Node não exige VPS, o skipIf com plano de suporte e a célula Node/VPS do Gemini. A linha Node e a ênfase 'um site comum' já estão na main (ja_coberto).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Para um site comum, blog, portfólio ou loja pequena, a hospedagem compartilhada atende e custa menos. O VPS só compensa quando o site precisa de um sistema instalado fora do painel, de CPU e memória reservadas ou de acesso root. A conta de renovação muda a escolha; veja o preço e o veredito abaixo.",
+       "depois": "Para blog, portfólio ou loja pequena, comece comparando os planos de hospedagem compartilhada que atendem à sua aplicação. Considere VPS se precisa de configurações, programas ou acesso root indisponíveis nesses planos e tem quem mantenha o servidor. Não escolha só pelo nome do plano: o quadro por cenário e a conta de renovação ajudam a comparar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/comparisonTable/rows/2/2",
+       "antes": "Não precisa",
+       "depois": "Não precisa, a menos que exija controle total do runtime."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/0",
+       "antes": "**Hospedagem compartilhada** para blog, portfólio, site de empresa ou loja pequena. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; para site em Node.js ou se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
+       "depois": "**Hospedagem compartilhada** para blog, portfólio, site de empresa ou loja pequena. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; para site em Node.js ou se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS. Node.js, sozinho, não exige VPS."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "Passe se é blog, portfólio, site de empresa ou loja pequena: a compartilhada atende e a Hostinger cuida do servidor.",
+       "depois": "Passe se é blog, portfólio, site de empresa, loja pequena ou site em Node.js (em plano com suporte, como Ilimitado ou Cloud Startup): a compartilhada atende e a Hostinger cuida do servidor."
+      }
+     ]
+    },
+    {
+     "id": "vps-ou-hospedagem-compartilhada-qual-escolher-pt-g126-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Confere com a main; tirei o bastidor ('não medimos', 'este guia não mediu') e o termo 'gerenciada' para manter 'compartilhada' como nome único; a ressalva de capacidade vira decisão de carga.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "Para um site comum que precise de VPS, o KVM 1 é o ponto de partida: 4 GB de RAM dão para um WordPress ou um sistema pequeno. O KVM 2 entra quando você vai rodar mais de um programa na mesma máquina. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
+       "depois": "Use a tabela para comparar CPU, RAM e disco com os requisitos da sua aplicação. KVM 1 é o menor plano listado, e a carga do seu site decide se ele basta. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/1",
+       "antes": "**VPS** para sistema próprio, programa ou banco fora do painel, bot ou painel rodando o dia todo, ou quando você precisa de root. Comece pelo KVM 1 e suba se faltar memória. Entre na conta o tempo de manter o servidor, ou o custo de quem faça isso.",
+       "depois": "**VPS** entra na comparação quando você precisa do controle e das configurações descritos no quadro. Escolha o KVM pelos requisitos da aplicação e conte o trabalho de administração no custo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/paragraphs/2",
+       "antes": "**Na dúvida, compartilhada.** O VPS não vira compartilhada depois, mas o contrário é só um contrato novo quando a necessidade aparecer.",
+       "depois": "**Na dúvida, compartilhada.** Se a necessidade de VPS aparecer depois, é uma nova contratação, com configuração e transferência do site."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/0",
+       "antes": "VPS é mais rápido que hospedagem compartilhada? Não medimos. O que o VPS garante é recurso reservado: CPU, memória e disco são seus, enquanto na compartilhada o servidor é dividido. Para um site comum, isso raramente é o gargalo.",
+       "depois": "VPS é mais rápido que hospedagem compartilhada? Não necessariamente. Recursos reservados e acesso root mudam o controle do ambiente, mas não bastam para prever o tempo de resposta do seu site. Compare os requisitos da aplicação e os limites do plano."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/1",
+       "antes": "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
+       "depois": "Posso começar na compartilhada e migrar para VPS depois? Pode, se a aplicação for compatível com o novo ambiente. É uma nova contratação, com instalação do servidor e transferência do site; a hospedagem compartilhada não se converte em VPS por dentro do painel."
+      }
+     ]
+    },
+    {
+     "id": "vps-ou-hospedagem-compartilhada-qual-escolher-pt-g126-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Template e backup já estão na main; o que faltava é 'configurar o ambiente' e conferir o backup, fundido com o Gemini P002 (desatualizado na main). Tirei 'gerenciada' e o bastidor do Gemini.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/1",
+       "antes": "**VPS** (servidor virtual privado) é uma máquina virtual só sua, com processador, memória e disco reservados. A Hostinger entrega a máquina com o sistema operacional e o acesso root, o usuário que pode tudo. Daí em diante, instalar o servidor web, o banco, o certificado, as atualizações e a segurança são tarefas suas. Na Hostinger, são os planos KVM 1, 2, 4 e 8.",
+       "depois": "**VPS** (servidor virtual privado) é uma máquina virtual só sua, com processador, memória e disco reservados e acesso root, a conta de administração do sistema. Você assume configuração, atualizações e segurança. Os planos comparados são KVM 1, 2, 4 e 8."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/0",
+       "antes": "**Instalar e configurar** o servidor web, o banco de dados e o certificado SSL, ou partir de um template pronto.",
+       "depois": "**Configurar o ambiente**: verificar o que o template já instala e ajustar servidor web, banco e certificado para a aplicação."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/bullets/3",
+       "antes": "**Fazer backup** (o semanal automático vem ligado) e saber restaurar.",
+       "depois": "**Conferir backups e saber restaurar**: o semanal automático vem ligado por padrão, mas verificar a cópia e restaurar continua sendo sua tarefa."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/3",
+       "antes": "VPS aguenta WordPress? Aguenta. Dá para partir do template de WordPress do VPS, que já vem instalado, mas atualizar, proteger e restaurar backup continua com você. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
+       "depois": "VPS aguenta WordPress? Pode, inclusive com template pré-instalado. Você continua responsável por configurar e manter o ambiente, e a capacidade depende da aplicação. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

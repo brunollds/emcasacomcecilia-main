@@ -1,0 +1,493 @@
+{
+ "lote": "L28",
+ "tipo": "pt",
+ "loja": "mais-mu",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "barra-de-proteina-mais-mu-qual-escolher",
+   "arquivo": "content/reviews/barra-de-proteina-mais-mu-qual-escolher.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "barra-de-proteina-mais-mu-qual-escolher-pt-g114-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A resposta rápida da proposta passava de 60 palavras e a data aparecia em dois parágrafos; o texto final tem 56 palavras e uma data só, na frase acima da tabela.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "A Mukebar 720 g tem mais proteína por unidade, 15 g em 60 g, e o menor preço por grama de proteína na conta nossa. Se a ideia é gastar menos por unidade e levar menos açúcar e calorias, a Chocowheyfer Sem Cobertura resolve. O detalhe que decide é o tamanho da unidade; veja em Qual escolher.",
+       "depois": "Nos preços de referência da tabela, a Mukebar 720 g tinha o menor custo por grama de proteína, com 15 g numa barra de 60 g. A Chocowheyfer Sem Cobertura era a unidade mais barata e tinha menos açúcar e calorias que a Mukebar Avelã. Compare o tamanho da unidade e o rótulo antes de escolher."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/1/paragraphs/0",
+       "antes": "Esta comparação cobre as barras e os wafers proteicos da Mais Mu à venda em 25/10/2026, uma linha por produto e por unidade. Na coluna de proteína, \"tabela\" quer dizer que o número veio da tabela nutricional que a loja publica; \"texto\" quer dizer que veio da descrição da página e da embalagem.",
+       "depois": "Esta tabela compara as barras e os wafers proteicos da Mais Mu à venda em 25/10/2026, uma linha por unidade. “Tabela” indica dado da tabela nutricional publicada; “texto” indica informação da descrição ou da embalagem mostrada na página."
+      },
+      {
+       "op": "add",
+       "ponteiro": "/contentSections/1/comparisonTable/caption",
+       "antes": null,
+       "depois": "Preço da unidade no preço normal da página, sem frete, Pix ou cupom. O R$ por grama de proteína é conta nossa. Proteína da tabela ou do texto conforme indicado em cada linha."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs",
+       "antes": [
+        "O preço que decide é o da unidade, no preço normal de 25/10/2026, sem Pix e sem cupom. O R$ por grama de proteína é conta nossa: o preço da unidade dividido pela proteína da unidade. A loja não publica esse número. Serve só para comparar os produtos entre si.",
+        "Com o cupom de 10%, a conta muda. A Mukebar 720 g sai a R$ 0,78 por grama de proteína, e a Chocowheyfer Sem Cobertura, a R$ 0,90. O Pix dá 3% de desconto e também soma com o cupom, mas essa conta não entra nos números acima."
+       ],
+       "depois": [
+        "O preço da unidade é o da página no preço normal, sem Pix e sem cupom. Para o R$ por grama de proteína, dividimos esse preço pela proteína declarada por unidade. É uma régua de custo entre estes produtos, não uma classificação de qualidade.",
+        "O cupom de 10% e o Pix de 3% podem somar, mas essas contas não entram nos valores desta seção. As regras do código e da compra estão na seção seguinte."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/editorialNote",
+       "antes": "Podemos receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA.",
+       "depois": "Comparação feita com tabelas e páginas da loja, sem degustação pela equipe. Podemos receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA."
+      }
+     ]
+    },
+    {
+     "id": "barra-de-proteina-mais-mu-qual-escolher-pt-g114-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Os quatro pontos conferem com a main e o texto não tem data, legal nem regra ferida; a Qual escolher fica coerente com a resposta rápida ajustada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets",
+       "antes": [
+        "**Mais proteína por unidade:** a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Também tem o menor R$ por grama de proteína. Se açúcar e calorias pesam na sua escolha, pule para a Sem Cobertura; os valores exatos estão nas tabelas acima.",
+        "**Menor preço por unidade:** a Chocowheyfer Sem Cobertura, a R$ 5,99, com 6 g e 126 kcal no sabor Chocolate. Pela conta nossa, ela fica em segundo lugar por grama de proteína, a R$ 1,00.",
+        "**Menos açúcar total:** o Veggie Wafer, com 0,1 g por unidade, e a Sem Cobertura, com 0,3 g. O Veggie Wafer tem glúten e pode conter leite.",
+        "**Menos calorias por unidade:** o Veggie Wafer, com 121 kcal. A Chocowheyfer 300 g e a Sem Cobertura vêm em seguida, com 126 kcal cada no sabor Chocolate.",
+        "**Meio-termo de tamanho:** a Crush Bar, com 10 g em 35 g, de 179 a 181 kcal e 0,7 g de açúcar total. A unidade sai a R$ 10,92, e a conta por grama de proteína fica em R$ 1,09.",
+        "**Wafer com mais proteína:** a Chocowheyfer Max, com 12 g em 50 g e 259 a 264 kcal nos quatro sabores, a R$ 12,90 por unidade. É a maior unidade entre os wafers, e a conta por grama de proteína fica em R$ 1,08, igual à da Mukebar 40 g."
+       ],
+       "depois": [
+        "**Mais proteína por unidade e menor custo por grama no recorte:** Mukebar 720 g, com 15 g numa barra de 60 g e R$ 0,86 por grama de proteína na conta de referência. A tabela nutricional é do sabor Chocolate com Avelã.",
+        "**Menor gasto por unidade no recorte:** Chocowheyfer Sem Cobertura, a R$ 5,99. É um wafer de 25 g com 6 g de proteína, não uma barra do mesmo tamanho da Mukebar.",
+        "**Menos açúcar total e calorias por unidade entre as tabelas lidas:** Veggie Wafer, de 25 g. Apesar do nome vegetal, contém glúten e pode conter leite.",
+        "**Unidade intermediária:** Crush Bar, com 35 g e 10 g de proteína; consulte as duas linhas de sabores para calorias e açúcar.",
+        "**Wafer maior, com mais proteína por unidade:** Chocowheyfer Max, com 50 g e 12 g de proteína. Os quatro sabores variam em calorias e açúcar, como mostra a tabela."
+       ],
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/postParagraphs/0",
+       "antes": "Partindo só das tabelas, decida por proteína e açúcar: o sabor fica com as avaliações da loja. Se a dieta tem alguma restrição, quem decide é um nutricionista ou médico, com a embalagem na mão.",
+       "depois": "Compare a quantidade que pretende comer e as restrições do rótulo. Se há uma restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/emphasis",
+       "antes": "Pelos números da tabela, para o perfil de mais proteína por unidade a escolha é a Mukebar 720 g, porque tem 15 g por unidade e o menor R$ por grama de proteína.",
+       "depois": "Para mais proteína em uma unidade maior, a Mukebar 720 g é a opção da comparação; para gastar menos por unidade, era a Sem Cobertura nos preços de referência. São escolhas por critérios diferentes.",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf",
+       "antes": [
+        "Quando o sabor decide sozinho: estes números não avaliam gosto.",
+        "Quando há restrição alimentar: a decisão é com nutricionista ou médico, com a embalagem na mão.",
+        "Quando a opção precisa ser vegetal certificada: a página não mostra selo vegano e o Veggie Wafer pode conter leite."
+       ],
+       "depois": [
+        "Quando o sabor decide sozinho: esta comparação não avalia gosto.",
+        "Quando a escolha depende de uma restrição que o rótulo consultado não esclarece.",
+        "Quando é necessária opção vegetal certificada: a página consultada não mostrava selo vegano, e o Veggie Wafer pode conter leite."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "barra-de-proteina-mais-mu-qual-escolher-pt-g114-P003",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A FAQ mudou na main no item da Mukebar; o texto fundido com a proposta do Gemini mantém só o que o artigo sustenta, sem afirmar que a lista de ingredientes não foi publicada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "Chocowheyfer tem açúcar? Tem açúcar total baixo e zero adicionado em todas, pela tabela da loja; os gramas por sabor estão na tabela de calorias acima.",
+       "depois": "Chocowheyfer tem açúcar? Nos sabores com tabela nesta comparação, há açúcar total e 0 g de açúcar adicionado declarado. Veja a quantidade por sabor na tabela de calorias; “zero adicionado” não significa ausência de açúcar total."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/1",
+       "antes": "Mukebar tem glúten? A página da Mukebar Chocolate com Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Os outros sabores não têm aviso na página: confira o aviso de alérgenos na página e na embalagem de cada um.",
+       "depois": "Mukebar tem glúten? No sabor Chocolate com Avelã, sim: a página declara CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos demais sabores, confira o aviso de alérgenos na página e na embalagem antes de comprar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/3",
+       "antes": "Tem barra vegana? A loja não vende barra vegana na listagem. O produto que ela chama de vegetal é o Veggie Wafer, e ele pode conter leite.",
+       "depois": "Tem barra vegana? Não encontramos barra vegana à venda no catálogo consultado. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostrava selo vegano. Confira o aviso de alérgenos antes de comprar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "black-friday-mais-mu",
+   "arquivo": "content/reviews/black-friday-mais-mu.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "black-friday-mais-mu-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O trecho de postParagraphs mudou na main (a vitrine de novembro já entrou); mantenho a comparação com cupom e frete, sem o percentual solto. CTA aplicado como proposto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/0",
+       "antes": "Uma oferta do \"até 50%\" só vale a pena se o preço do dia ficar abaixo desta tabela. No site, em novembro, a vitrine da home mostrava a creatina refil de 500 g a R$ 74,90 (de R$ 119,90) e o whey concentrado paçoquita de 450 g a R$ 135,99 (de R$ 159,99), abaixo da tabela de outubro. O preço do site muda sem aviso, então confira a página do produto e a disponibilidade no dia da compra.",
+       "depois": "Uma oferta do \"até 50%\" só vale a pena se o preço do dia ficar abaixo desta tabela. Na vitrine da home, em novembro, a creatina refil de 500 g aparecia a R$ 74,90 (de R$ 119,90) e o whey concentrado paçoquita de 450 g a R$ 135,99 (de R$ 159,99), abaixo da tabela de outubro. Compare o mesmo produto, sabor e tamanho, e confira o total com cupom e frete, porque o preço do site muda sem aviso."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/cta/text",
+       "antes": "Entre na Mais Mu pelo site oficial e use o MMEMCASACOMCECILIA no checkout. Compare com a tabela de preços de outubro antes de pagar.",
+       "depois": "Entre no site oficial da Mais Mu e aplique MMEMCASACOMCECILIA no checkout. Compare o mesmo produto com a referência de outubro e confira o total com descontos e frete."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "mais-mu-e-boa",
+   "arquivo": "content/reviews/mais-mu-e-boa.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "mais-mu-e-boa-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op2 tira 'O guia compara os dados publicados pela loja', que descreve o método (meta-comentário); os outros três entram como propostos. Revisado: o motivo cita \"O guia compara...\" que não está na base deste artigo; sem efeito no texto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Pelo rótulo, a Mais Mu é boa no que ela publica: o Exquenta e as barras trazem tabela nutricional completa, e o whey declara 20 g de proteína por dose. Falta a tabela nutricional da maioria dos wheys. Se você compara whey pela tabela, isso muda a decisão; o capítulo do whey explica.",
+       "depois": "Pelo rótulo, a Mais Mu é boa no que publica: o Exquenta e as barras trazem tabela nutricional completa. No whey, a loja declara proteína por dose, mas faltam tabelas completas na maioria dos sabores. A escolha depende do que você precisa conferir: composição, tamanho da unidade e preço, detalhados por linha abaixo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/paragraphs/0",
+       "antes": "Pelo que a loja publica, o whey cumpre o básico, a proteína por dose declarada em todas as linhas, mas na maioria dos sabores não dá para conferir carboidrato, gordura nem açúcar: a Mais Mu publica a tabela nutricional de poucos wheys, como o Baunilha de 450 g. Quem compara whey pela tabela fica sem o número na maior parte do catálogo.",
+       "depois": "A loja declara proteína por dose em todas as linhas de pó, mas publica a tabela nutricional de poucos wheys, como o Baunilha de 450 g. Nos demais, faltam os dados de carboidratos, gorduras e açúcares para uma comparação completa. A quantidade de proteína declarada, sozinha, não avalia toda a composição."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/0",
+       "antes": "O whey da Mais Mu é bom? Pelo que a loja publica, ele declara a proteína por dose em todas as linhas, mas a tabela nutricional não está publicada; o capítulo do whey mostra o que dá e o que não dá para comparar.",
+       "depois": "O whey da Mais Mu é bom? Há proteína por dose em todas as linhas, mas a tabela nutricional completa aparece só em poucos sabores. Leia o capítulo do whey para ver o que dá para comparar antes da compra."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/bullets/1",
+       "antes": "Qual o melhor whey da Mais Mu? Pela proteína por dose, o isolado e a proteína vegetal declaram 22 g e o concentrado, 20 g; o sabor e o formato de cada rotina estão no guia do whey, linkado no capítulo do whey.",
+       "depois": "Qual whey da Mais Mu escolher? O concentrado declara 20 g de proteína por dose; o isolado declara 22 g. A proteína vegetal também declara 22 g, mas não é whey. Como as porções podem ter pesos diferentes, esses números sozinhos não definem maior concentração nem melhor compra. O guia do whey detalha sabores e formatos."
+      }
+     ]
+    },
+    {
+     "id": "mais-mu-e-boa-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere com a main; o depois troca 'serve para quem não quer leite' por aviso de alergênicos sem promessa de ausência de contato com leite. Unidades preenchidas a partir do pacote (antes conferido com a main).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/2/postParagraphs/3",
+       "antes": "A proteína vegetal é isolada de arroz e de ervilha, não é whey, também com 22 g por dose. Serve para quem não quer leite no pó; a lista completa de ingredientes e o aviso de alergênicos estão só no rótulo do pote, então confira a embalagem que chegar.",
+       "depois": "A proteína vegetal usa proteína isolada de arroz e de ervilha, com 22 g declarados por dose. Se você precisa evitar leite por alergia, confirme os ingredientes e o aviso de alergênicos do sabor e da embalagem antes de comprar. A origem vegetal da proteína não confirma ausência de contato com leite."
+      }
+     ]
+    },
+    {
+     "id": "mais-mu-e-boa-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op0 sai com 'cuja composição é diferente' (a tabela só diz que os dois 450 g não têm linha de cafeína); op1 entra como proposto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/0",
+       "antes": "O pote de 500 g sai mais barato por dose que o de 300 g, com o mesmo rótulo, e o sachê cobra pela dose já medida. Para quem toma em casa, o de 500 g; o sachê é para quem leva a dose na bolsa e aceita pagar por isso.",
+       "depois": "Entre os três formatos com cafeína da tabela, o pote de 500 g tem o menor preço por dose. O sachê cobra mais pela dose já medida. Se você procura uma versão sem cafeína, veja separadamente os dois produtos de 450 g."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/1",
+       "antes": "Para pré-treino comparado pelo rótulo: o Exquenta de 500 g, o mais barato por dose, ou um dos dois sem cafeína.",
+       "depois": "Para comparar pré-treino pelo rótulo: entre os formatos com cafeína da tabela, o Exquenta de 500 g custa menos por dose. Se você quer uma opção sem cafeína, veja as fórmulas de 450 g separadamente."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "mais-mu-ou-dux",
+   "arquivo": "content/reviews/mais-mu-ou-dux.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "mais-mu-ou-dux-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "O cupom MMEMCASACOMCECILIA entra pelo nome, sem 'Não temos cupom da Dux' e sem 'ela não é parceira do site'; a Dux não tem código de parceria, e a decisão de compra passa a ter o código certo. A skipIf/0 fica no formato 'Passe na Dux se'.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/8",
+       "antes": "**Mais Mu:** cupom de 10% em todo o site, inclusive em produto em oferta. Não temos cupom da Dux.",
+       "depois": "**Mais Mu:** cupom MMEMCASACOMCECILIA de 10% em todo o site, inclusive em oferta. Não temos código de parceria para a Dux."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/3",
+       "antes": "A Dux tem cupom? Nós não temos cupom da Dux: ela não é parceira do site, e o MMEMCASACOMCECILIA vale só na Mais Mu.",
+       "depois": "A Dux tem cupom? Não temos código de parceria para a Dux. O MMEMCASACOMCECILIA vale somente na Mais Mu."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/0",
+       "antes": "Passe na Dux se você depende de cupom: não temos cupom da Dux.",
+       "depois": "Passe na Dux se você depende de cupom: não temos código de parceria para ela."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/skipIf/1",
+       "antes": "Passe na Mais Mu se você pesa o Pix maior e o frete grátis mais baixo: a Dux leva nos dois.",
+       "depois": "Passe na Mais Mu se você pesa só o Pix maior ou o frete grátis mais baixo: a Dux leva nos dois, mas o total é que decide."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "mais-mu-ou-growth",
+   "arquivo": "content/reviews/mais-mu-ou-growth.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "mais-mu-ou-growth-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "A main já tem a versão de outubro; op0, op4, op5, op6 e op7 ganham a correção (Pix sem cupom na creatina, a conta de custo menor, a checagem do total) sem 'registrados' nem 'calculadas'. Op3 sai: o depois ficou sem sentido.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Nos preços de outubro, a Growth sai mais barata no whey em todas as formas de pagamento, e a Mais Mu ganha na creatina sem sabor quando entra o cupom. O que decide é o produto que você compra; veja abaixo as contas por 100 g e o capítulo Quem escolhe o quê.",
+       "depois": "Nos preços de outubro, a Growth tinha o menor custo de proteína nos wheys comparados. Na creatina sem sabor de quinhentos gramas, a Mais Mu ficava abaixo com o código, enquanto a Growth tinha vantagem no Pix sem ele. Compare o preço atual e o total com frete antes de escolher; as contas por 100 g estão abaixo."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs/0",
+       "antes": "A Growth leva o whey em tudo, e a Mais Mu leva a creatina com cupom:",
+       "depois": "Nos modelos e condições comparados, os resultados foram estes:"
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/bullets/0",
+       "antes": "**A Growth ganha no whey, em todas as formas de pagamento.** O concentrado de 1 kg sai a R$ 26,34 por 100 g no Pix, e o isolado, a R$ 39,27. A melhor conta da Mais Mu, com cupom e Pix, é de R$ 43,65 no concentrado de 1,8 kg e de R$ 62,53 no isolado de 900 g.",
+       "depois": "**A Growth tem menor custo nos wheys comparados, em todas as formas de pagamento.** O concentrado de 1 kg sai a R$ 26,34 por 100 g no Pix, e o isolado, a R$ 39,27. A melhor conta da Mais Mu, com cupom e Pix, é de R$ 43,65 no concentrado de 1,8 kg e de R$ 62,53 no isolado de 900 g."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/emphasis",
+       "antes": "Pelos números da tabela de outubro, para quem compra whey a escolha é a Growth, porque vence por 100 g de proteína em todas as formas de pagamento; para quem compra creatina com cupom, a escolha é o refil de 500 g da Mais Mu.",
+       "depois": "Pelos números da tabela de outubro, para quem compra whey a escolha é a Growth, porque tem menor custo por 100 g de proteína em todas as formas de pagamento; para quem compra creatina sem sabor com cupom, a escolha é o refil de 500 g da Mais Mu. Compare o preço atual e o total com frete antes de escolher."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/0",
+       "antes": "Mais Mu ou Growth: qual é melhor? Depende da linha e do preço do dia: nos preços de outubro, a Growth vence no whey por proteína, e a Mais Mu, na creatina sem sabor com cupom.",
+       "depois": "Mais Mu ou Growth: qual é melhor? Depende da linha: a Growth tem menor custo por proteína no whey, e a Mais Mu, na creatina sem sabor com cupom. Isso mede preço por grama, não sabor nem qualidade geral."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/0",
+       "antes": "Leve a Growth se você compra whey, concentrado ou isolado, pelo menor preço por 100 g de proteína.",
+       "depois": "Leve a Growth se você compra whey, concentrado ou isolado, e o menor custo por 100 g de proteína continua na conta com o preço do dia."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/1",
+       "antes": "Leve o refil de 500 g da Mais Mu se você compra creatina e usa o cupom.",
+       "depois": "Leve o refil sem sabor de 500 g da Mais Mu se você compra creatina e confirma no seu total que o cupom deixa o preço menor."
+      }
+     ]
+    },
+    {
+     "id": "mais-mu-ou-growth-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Entra a versão 'é outra versão' com a conta do Baunilha, que a própria página cita; o depois original dizia 'desse sabor', que não cabe para o sem sabor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/postParagraphs/1",
+       "antes": "O [Whey Isolado Mais Mu sem sabor pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) tem 22 g de proteína por dose e, pela página do produto, rende cerca de 16 doses: sai a R$ 85,22 por 100 g de proteína no cartão, R$ 82,67 no Pix e R$ 74,40 com cupom e Pix.",
+       "depois": "O [Whey Isolado Mais Mu sem sabor de 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) é outra versão. Confira a porção e o rendimento no rótulo dela; não aplique automaticamente a ela a conta do Baunilha."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "pre-treino-exquenta-mais-mu-e-bom",
+   "arquivo": "content/reviews/pre-treino-exquenta-mais-mu-e-bom.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "pre-treino-exquenta-mais-mu-e-bom-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A resposta rápida tem data e \"este guia não testa\" (bastidor), e a tabela de 25/10 já está no corpo; a data e o \"Pix\" saem do bloco de contas e a combinação aponta para depois da lista.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/3/paragraphs/0",
+       "antes": "A conta é o preço de venda dividido pelas doses do pote. O preço com cupom tira 10% do subtotal. O preço no Pix usa o valor de Pix da página.",
+       "depois": "A conta é o preço de venda dividido pelas doses do pote. “Com o cupom” tira 10% do subtotal; “no Pix” usa o valor de Pix da página, sem somar o cupom. A combinação dos dois vem depois da lista."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/emphasis",
+       "antes": "Pelos números da tabela, para quem quer a dose mais barata a escolha é o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade, porque sai a R$ 5,04 por dose.",
+       "depois": "Pelos números da tabela, para quem quer a dose mais barata, o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade sai a R$ 5,04 antes do cupom e do Pix."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "A loja não publica teste de efeito, e este guia não testa. Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor: só três dos 500 g estão em oferta; veja \"Quanto custa cada dose\".",
+       "depois": "Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor: só três dos 500 g estão em oferta; veja \"Quanto custa cada dose\"."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/bullets/0",
+       "antes": "O Exquenta é bom? A loja não publica teste de efeito, e este guia não testa. O que dá para comparar é o rótulo e o preço por dose.",
+       "depois": "O Exquenta é bom? O que dá para comparar é o rótulo e o preço por dose."
+      }
+     ]
+    },
+    {
+     "id": "pre-treino-exquenta-mais-mu-e-bom-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "rebasear",
+     "motivo": "Na main, a frase da soma já foi trocada pela validade do cupom no Pix, então o trecho de \"conta nossa\" não se aplica mais. Da dica de cupom, fica só a regra de soma, sem o teste de 20/10/2026 (data e bastidor).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/bullets/0",
+       "antes": "**Código:** MMEMCASACOMCECILIA, cupom de 10% em todo o site. Soma com o Pix de 3% e vale também em produto já em oferta, pelo teste no carrinho.",
+       "depois": "**Código:** MMEMCASACOMCECILIA dá 10% em todo o site e vale também em produto já em oferta. O cupom soma com os 3% do Pix."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "whey-mais-mu-qual-escolher",
+   "arquivo": "content/reviews/whey-mais-mu-qual-escolher.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "whey-mais-mu-qual-escolher-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Op de /contentSections/1/paragraphs/3 fica de fora: a proposta generaliza 20 g para pote e refil, mas o artigo diz que a loja só publica gramas do Baunilha de 450 g, então o texto atual é o certo. Aplico só a op do sachê, sem \"nos preços da leitura\".",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/postParagraphs/0",
+       "antes": "Só o Chocolate com Coco tem a tabela publicada na galeria: 20 g de proteína por sachê de 35 g, 152 kcal e 15 porções. Pela conta nossa, a caixa dele sai a R$ 79,95 por 100 g de proteína. Os outros sabores não publicam a proteína por sachê, e para eles fica só o preço por sachê. Com o cupom e o Pix, a caixa de R$ 239,85 sai por R$ 209,39, e a de R$ 254,85 por R$ 222,48.",
+       "depois": "A tabela publicada para o sachê Chocolate com Coco informa 20 g de proteína em 35 g, 152 kcal e 15 porções. Pela conta nossa, a caixa dele sai a R$ 79,95 por 100 g de proteína. Os outros sabores não publicam a proteína por sachê, e para eles fica só o preço por sachê. Com o cupom e o Pix, a caixa de R$ 239,85 sai por R$ 209,39, e a de R$ 254,85 por R$ 222,48."
+      }
+     ]
+    },
+    {
+     "id": "whey-mais-mu-qual-escolher-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Datas \"25/10/2026\" e \"Na leitura de\" saem (o corpo já tem a data da seção de contas). O menor preço fica com Brownie e Cookies'n Cream, sustentado pela seção de refil; \"cerca de\" entra na ênfase porque a contagem é aproximada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "O refil de 900 g tem o menor preço por proteína entre os formatos com contagem de doses da loja; o pote de 450 g serve para conhecer o sabor e o sachê, para levar. A loja não aponta o melhor sabor, e este texto também não. Cada conta está no capítulo Preço por dose: pote, refil e sachê.",
+       "depois": "O refil de 900 g Brownie ou Cookies'n Cream tem o menor preço por proteína entre os formatos com contagem de doses da loja. O pote de 450 g serve para conhecer o sabor, e o sachê, para levar. A loja não aponta o melhor sabor, e este texto também não."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/emphasis",
+       "antes": "Pelos números da tabela, para quem quer o menor preço por proteína a escolha é o refil de 900 g de Brownie ou Cookies'n Cream, porque sai a R$ 53,84 por 100 g no cartão.",
+       "depois": "Pelos números da tabela, para quem quer o menor preço por proteína a escolha é o refil de 900 g de Brownie ou Cookies'n Cream: cerca de R$ 53,84 por 100 g no cartão, com a contagem aproximada da loja."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/decision/takeIf/0",
+       "antes": "Quem quer o menor preço por proteína: o refil de 900 g de Brownie ou Cookies'n Cream.",
+       "depois": "Quem procura menor preço por proteína entre os formatos com contagem: o refil de 900 g de Brownie ou Cookies'n Cream, conferindo o preço no dia da compra."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/description",
+       "antes": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e cupom, com os preços de 25/10/2026.",
+       "depois": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e cupom."
+      }
+     ]
+    },
+    {
+     "id": "whey-mais-mu-qual-escolher-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Datas e \"na leitura\" saem; o estoque entra no pretérito com a orientação de conferir a página, como manda a regra de estoque. A pergunta do mais barato ganha \"contagem aproximada\".",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/7/postParagraphs/0",
+       "antes": "O Brownie de 450 g estava esgotado na leitura. No refil de 900 g, o mesmo sabor segue disponível.",
+       "depois": "O Brownie de 450 g estava esgotado, e o mesmo sabor estava disponível no refil de 900 g. Confira a página do sabor e formato antes de comprar."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/12/bullets/0",
+       "antes": "Qual whey Mais Mu é o mais barato por proteína? Entre os formatos com contagem da loja, o refil de 900 g dos sabores Brownie e Cookies'n Cream, a R$ 53,84 por 100 g de proteína no cartão e R$ 47,01 com o cupom e o Pix. O refil de 1,8 kg não tem contagem na loja, então não entra na comparação.",
+       "depois": "Qual whey Mais Mu é o mais barato por proteína? Entre os formatos com contagem aproximada da loja, o refil de 900 g dos sabores Brownie e Cookies'n Cream, a R$ 53,84 por 100 g de proteína no cartão e R$ 47,01 com o cupom e o Pix. O refil de 1,8 kg não tem contagem na loja, então não entra na comparação."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "lote": "L27",
+ "tipo": "pt",
+ "loja": "magalu",
+ "base_main": "aae5ed12",
+ "artigos": [
+  {
+   "slug": "black-friday-magalu",
+   "arquivo": "content/reviews/black-friday-magalu.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "black-friday-magalu-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A proposta punha R$ na resposta rápida (regra proíbe); a versão nova usa 'reais', dá a faixa e avisa que as ofertas do app ficam de fora.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "A Black Friday do Magalu é em 27 de novembro de 2026, mas as ofertas antecipadas já estão no ar, com o selo Oferta Black e novidades todo domingo no app. Os códigos da Cecília, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, dão de 10 a 100 reais de desconto conforme o valor do carrinho, só pelo navegador, um por pedido.",
+       "depois": "A Black Friday do Magalu é em 27 de novembro de 2026, com ofertas antecipadas já no ar. Na loja Magazine Você da Cecília, pelo navegador, os códigos de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA dão de 10 a 100 reais de desconto, conforme o valor mínimo da faixa, com um código por pedido. As ofertas exclusivas do app ficam fora deles."
+      }
+     ]
+    },
+    {
+     "id": "black-friday-magalu-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Tira 'entre os mais vendidos' (fato sem fonte) e a frase 'costuma ser bem maior' (generalização); mantém a data uma vez no parágrafo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/paragraphs/0",
+       "antes": "Ancore a Black Friday nestes produtos vendidos e entregues pelo Magalu, entre os mais vendidos da loja da Cecília em 10 de outubro de 2026: a oferta só é desconto de verdade se o preço do dia ficar abaixo da tabela. O preço riscado (\"de\") da página costuma ser bem maior que o do dia, então ele não serve de referência.",
+       "depois": "Ancore a Black Friday nestes produtos vendidos e entregues pelo Magalu, observados em 10 de outubro de 2026 na loja da Cecília: a oferta só é desconto de verdade se o preço do dia ficar abaixo da tabela. O preço riscado (\"de\") da página não entra nessa comparação."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "cupom-magalu-em-casa-com-cecilia",
+   "arquivo": "content/reviews/cupom-magalu-em-casa-com-cecilia.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "cupom-magalu-em-casa-com-cecilia-pt-r01-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Só reordena os títulos de contentSections (Por que o cupom só funciona vai para depois de Regras); sem texto novo.",
+     "ordem": "por último no lote do Magalu: move-sections muda os índices de contentSections; aplicar depois de cupom-magalu-em-casa-com-cecilia-pt-r01-P002 e -P003",
+     "unidades": [
+      {
+       "op": "move-sections",
+       "ponteiro": "/contentSections",
+       "antes": [
+        "Resposta rápida",
+        "O cupom Magalu da Cecília está ativo?",
+        "Por que o cupom só funciona na loja Magazine Você da Cecília?",
+        "1. Acesse a loja pelo navegador",
+        "2. Entre com a sua conta Magalu",
+        "3. Monte o carrinho com produtos vendidos e entregues pelo Magalu",
+        "4. Aplique o código da sua faixa",
+        "5. Confirme o desconto e finalize",
+        "O que fazer se o cupom não funcionar?",
+        "Regras dos cupons da Cecília",
+        "Por que usar os cupons da Cecília?",
+        "FAQ – Perguntas frequentes"
+       ],
+       "depois": [
+        "Resposta rápida",
+        "O cupom Magalu da Cecília está ativo?",
+        "1. Acesse a loja pelo navegador",
+        "2. Entre com a sua conta Magalu",
+        "3. Monte o carrinho com produtos vendidos e entregues pelo Magalu",
+        "4. Aplique o código da sua faixa",
+        "5. Confirme o desconto e finalize",
+        "O que fazer se o cupom não funcionar?",
+        "Regras dos cupons da Cecília",
+        "Por que o cupom só funciona na loja Magazine Você da Cecília?",
+        "Por que usar os cupons da Cecília?",
+        "FAQ – Perguntas frequentes"
+       ],
+       "projecao": "headings"
+      }
+     ]
+    },
+    {
+     "id": "cupom-magalu-em-casa-com-cecilia-pt-r01-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere; o texto tira a repetição da conta Magalu sem fato novo.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/4/paragraphs",
+       "antes": [
+        "Na loja, faça login com a mesma conta Magalu que você já usa no site ou no app. Mesmo e-mail, mesma senha. Sem cadastro novo; seus dados ficam com o Magalu.",
+        "O aviso oficial no rodapé reforça: o cliente não compartilha dados com o dono da página. Seus dados ficam com o Magalu."
+       ],
+       "depois": [
+        "Na loja, entre com a mesma conta Magalu que você já usa no site ou no app. O aviso no rodapé informa que o cliente não compartilha dados com o dono da página; não é preciso criar outra conta."
+       ],
+       "projecao": null
+      }
+     ]
+    },
+    {
+     "id": "cupom-magalu-em-casa-com-cecilia-pt-r01-P003",
+     "trilha": "chatgpt",
+     "decisao": "aplicar",
+     "motivo": "Antes confere; o texto aponta o mínimo e a conferência sem data nem promessa de teste.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/8/paragraphs/0",
+       "antes": "Na maioria dos casos, o problema está em um dos pontos abaixo.",
+       "depois": "Se o desconto não aparecer, confira os pontos abaixo:",
+       "projecao": null
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/11/bullets/3",
+       "antes": "Por que meu cupom não funcionou? As causas mais comuns: uso no app, carrinho abaixo do mínimo da faixa, produto de marketplace ou erro de digitação. Veja o troubleshooting acima.",
+       "depois": "Por que meu cupom não funcionou? Confira se está no navegador e na loja da Cecília, se alcançou o mínimo da faixa, se o item é vendido e entregue pelo Magalu e se o código foi digitado corretamente. O passo a passo de conferência está acima.",
+       "projecao": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "magazine-voce-e-confiavel",
+   "arquivo": "content/reviews/magazine-voce-e-confiavel.json",
+   "locale": null,
+   "propostas": [
+    {
+     "id": "magazine-voce-e-confiavel-pt-g057-P001",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Fundida com r02-gemini-P001: o op0 leva a frase de que o estoque e o envio dependem de quem anuncia (o que o Gemini acrescentava) e tira a afirmação sobre o Reclame Aqui; op1 entra como proposto.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/0/paragraphs/0",
+       "antes": "Sim. O magazinevoce.com.br está registrado em nome da Magazine Luiza S/A, e o Magalu cuida do estoque, do pagamento, da entrega e do pós-venda. O perfil do programa no Reclame Aqui aparece como Não Recomendada, por queixas de quem tem loja. Para quem compra, o que pesa é quem vende cada produto; veja o checklist abaixo. Para comprar com desconto, use o [cupom Magalu](/cupons/magalu).",
+       "depois": "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, e o domínio magazinevoce.com.br está registrado em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido; o estoque e o envio dependem de quem anuncia cada produto. Confira o endereço no checklist abaixo; para desconto, use o [cupom Magalu](/cupons/magalu)."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/0",
+       "antes": "magazinevoce.com.br é confiável? Sim: o domínio está em nome da Magazine Luiza S/A (CNPJ 47.960.950/0001-21) desde 2011, e o programa diz que o Magalu cuida dos pagamentos, da entrega e do pós-venda.",
+       "depois": "magazinevoce.com.br é confiável? É o domínio do programa oficial, registrado em nome da Magazine Luiza S/A (CNPJ 47.960.950/0001-21) desde 2011. O Magalu cobra e atende o pedido; confira na página do produto quem vende e entrega."
+      }
+     ]
+    },
+    {
+     "id": "magazine-voce-e-confiavel-pt-g057-P002",
+     "trilha": "chatgpt",
+     "decisao": "aplicar_ajustada",
+     "motivo": "Data só uma vez no corpo (abril a setembro de 2026, mais 30/09/2026); legenda e FAQ sem data, pela catraca; 'que lemos' e 'o perfil consultado' saem como bastidor.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/paragraphs",
+       "antes": [
+        "No perfil Magazine Luiza - Loja Online, com dados até 30/09/2026, o Magalu tem reputação RA1000 e nota 8,2 de 10. Ele responde a quase todas as reclamações e resolve a maior parte; os números estão no quadro desta seção. No histórico de até 3 anos, o problema mais citado é o atraso na entrega (24,18%). Os números do Reclame Aqui mudam todo mês.",
+        "Existe também um perfil do programa, \"Influenciador Magalu (Magazine Você)\", com reputação Não Recomendada: 55 reclamações no mesmo período e nenhuma respondida. O perfil ainda não é verificado pelo Reclame Aqui. As cinco reclamações mais recentes da página eram de influenciadores do programa reclamando de comissão, não de compradores. Se o problema é com um pedido, o canal é o atendimento do Magalu, que vendeu ou intermediou a compra."
+       ],
+       "depois": [
+        "Para o atendimento ao comprador, o perfil é “Magazine Luiza - Loja Online”. Com dados até 30/09/2026, tinha reputação RA1000 e nota 8,2 de 10 no recorte de seis meses. A imagem abaixo mostra os indicadores desse recorte. No histórico de até três anos, o problema mais citado era atraso na entrega (24,18%).",
+        "O perfil “Influenciador Magalu (Magazine Você)” trata do programa e não é verificado pelo Reclame Aqui. No mesmo recorte, aparecia como Não Recomendada, com 55 reclamações e nenhuma respondida. As cinco reclamações mais recentes da página eram de influenciadores sobre comissão; essa amostra não descreve todas as queixas.",
+        "Se o problema é com um pedido, procure o atendimento do Magalu, que vendeu ou intermediou a compra. Os indicadores acima são históricos e não substituem a conferência de quem vende e entrega o produto."
+       ]
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/5/image/caption",
+       "antes": "O perfil Magazine Luiza - Loja Online no Reclame Aqui, no painel dos últimos seis meses.",
+       "depois": "Perfil Magazine Luiza - Loja Online no Reclame Aqui, no recorte de seis meses."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/8",
+       "antes": "O que o Reclame Aqui diz do Magalu? O perfil Magazine Luiza - Loja Online tem reputação RA1000; veja os números no capítulo acima.",
+       "depois": "O que o Reclame Aqui diz do Magalu? O perfil Magazine Luiza - Loja Online tinha reputação RA1000 no recorte de seis meses; veja os números no capítulo acima."
+      },
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/10/bullets/9",
+       "antes": "O Magazine Você tem perfil no Reclame Aqui? Tem o perfil \"Influenciador Magalu (Magazine Você)\", com reputação Não Recomendada, por queixas de influenciadores sobre comissão; os números estão no capítulo do Reclame Aqui.",
+       "depois": "O Magazine Você tem perfil no Reclame Aqui? Sim: o perfil “Influenciador Magalu (Magazine Você)” aparecia como Não Recomendada no recorte de seis meses. As cinco reclamações recentes da página eram de influenciadores sobre comissão; veja o capítulo acima."
+      }
+     ]
+    },
+    {
+     "id": "magazine-voce-e-confiavel-pt-r02-gemini-P003",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "A citação de Magalu fica como está; o trecho sobre 'códigos Pix' sai porque o aviso citado no antes só fala de boletos e links, e não há fonte no parecer para a lista ampliada.",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/6/bullets/4",
+       "antes": "Pague só no checkout do Magalu. No aviso sobre pedidos internacionais taxados, o próprio Magalu diz que \"nunca envia boletos ou links de cobrança por e-mail, SMS ou WhatsApp\".",
+       "depois": "Pague só no checkout do Magalu. No aviso sobre pedidos internacionais taxados, o próprio Magalu diz que \"nunca envia boletos ou links de cobrança por e-mail, SMS ou WhatsApp\". Se alguém cobrar por mensagem em nome da loja, desconfie na hora."
+      }
+     ]
+    },
+    {
+     "id": "magazine-voce-e-confiavel-pt-r02-gemini-P004",
+     "trilha": "gemini",
+     "decisao": "aplicar_ajustada",
+     "motivo": "'Segue rigorosamente todos esses critérios' é promessa sem fonte; o texto diz só que a loja segue os critérios, com o endereço, o selo e a faixa de cupons de 10 a 100 (confirmados no parecer).",
+     "ordem": null,
+     "unidades": [
+      {
+       "op": "replace",
+       "ponteiro": "/contentSections/9/paragraphs/0",
+       "antes": "A minha loja passou por essa verificação: fica em magazinevoce.com.br/magazineemcasacomcecilia/ e mostra o selo do programa com o nome Emcasacomcecilia. Os códigos da Cecília valem só nela, pelo navegador (não no app do Magalu), em produtos vendidos e entregues pelo Magalu. As faixas e as regras estão no guia do cupom.",
+       "depois": "A minha loja segue esses critérios: o endereço é magazinevoce.com.br/magazineemcasacomcecilia/ e mostra o selo do programa com o nome Emcasacomcecilia. Os cupons da Cecília (que começam em 10EMCASACOMCECILIA e sobem de forma escalonada até 100EMCASACOMCECILIA) valem só para compras pelo navegador dentro da minha loja, em produtos vendidos e entregues pelo Magalu. As faixas e as regras estão no guia do cupom."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
