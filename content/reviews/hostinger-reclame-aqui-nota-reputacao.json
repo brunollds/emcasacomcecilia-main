@@ -32,9 +32,10 @@
     }
   ],
   "description": "A nota da Hostinger no Reclame Aqui em 30/09/2026: reputação Ótima, cobrança indevida no topo das queixas e como desligar a renovação automática.",
-  "metaDescription": "Hostinger no Reclame Aqui, com o cupom SONAR20 de 20% OFF: nota 8,6 em 6 meses e 88,6% das reclamações resolvidas.",
+  "metaDescription": "Hostinger no Reclame Aqui, com o cupom SONAR20 de 20% OFF: nota 8,6 e 88,6% das reclamações resolvidas nos 6 meses até set/2026.",
   "publishedAt": "19 de outubro de 2026",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
@@ -174,23 +175,23 @@
         "A central de ajuda da Hostinger dá este caminho:"
       ],
       "bullets": [
-        "No hPanel, abra o menu **Faturas**.",
-        "Vá até a página **Serviços**.",
-        "Clique nos três pontinhos (⋮) ao lado do produto.",
-        "Escolha **Configurações de Renovação**.",
-        "Desmarque **Ativar renovação automática** e clique em **Salvar**."
+        "No hPanel, abra o perfil e vá em **Faturamento** (Billing).",
+        "Escolha **Assinaturas** (Subscriptions).",
+        "Localize o serviço que você quer alterar.",
+        "Clique na chave (toggle) ao lado do serviço. Abre uma página com os riscos e avisos daquele tipo de produto.",
+        "Leia as informações e confirme a escolha."
       ],
       "images": [
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-passos-renovacao.webp",
-          "alt": "Cinco passos para desligar a renovação automática na Hostinger: Faturas, Serviços, os três pontinhos, Configurações de Renovação e Salvar",
-          "caption": "Passo a passo para desligar a renovação automática, com base na central de ajuda da Hostinger.",
+          "alt": "Cinco passos do caminho antigo do hPanel para desligar a renovação automática: Faturas, Serviços, os três pontinhos, Configurações de Renovação e Salvar",
+          "caption": "Passo a passo pelo caminho antigo do hPanel; o caminho atual, por Faturamento e Assinaturas, está na lista acima.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
       ],
       "postParagraphs": [
-        "Quando a opção estiver desligada, o produto segue ativo até a data de vencimento. Para ligar de novo, é preciso ter um método de pagamento cadastrado. A central também diz que, se a renovação estiver a um dia ou menos do vencimento, é preciso renovar manualmente antes de ligar a opção de novo. Os nomes dos menus podem mudar; se mudarem, procure \"renovação automática\" na seção Faturas."
+        "Quando a opção estiver desligada, o produto segue ativo até a data de vencimento. Para ligar de novo, clique na mesma chave outra vez. Desligar não devolve cobranças já processadas. Os nomes dos menus podem mudar; se mudarem, procure \"renovação automática\" na área de faturamento."
       ]
     },
     {
@@ -202,7 +203,7 @@
       "bullets": [
         "O perfil é reivindicado desde 2017, ou seja, a empresa administra a página.",
         "A empresa tem assinatura paga do Trustpilot.",
-        "A página diz que a Hostinger convida os clientes a avaliar, tanto as positivas quanto as negativas. Um convite amplo puxa a média para cima e não mostra quem ficou de fora.",
+        "A página diz que a Hostinger convida os clientes a avaliar, tanto as positivas quanto as negativas. Isso pode puxar a média para cima, e a página não mostra quem foi convidado e não respondeu.",
         "A empresa responde 99% das avaliações negativas, em geral em até 24 horas, e pode usar IA nas respostas.",
         "O próprio Trustpilot diz que não checa as avaliações uma a uma."
       ],
@@ -223,7 +224,7 @@
         }
       ],
       "postParagraphs": [
-        "Lemos as 100 avaliações de 5 estrelas e as 100 de 1 estrela mais recentes. Das de 5 estrelas, 78 foram convidadas pela empresa; das de 1 estrela, 92 foram espontâneas. Entre as 86 queixas de verdade (14 eram elogios com a nota errada), os temas mais citados foram o atendimento por IA sem chegar a uma pessoa (cerca de 45), cobrança e renovação (cerca de 38) e domínios (cerca de 27). A cobrança aparece nos dois sites; o atendimento por IA aparece mais no Trustpilot."
+        "Lemos as 100 avaliações de 5 estrelas e as 100 de 1 estrela mais recentes. Das de 5 estrelas, 78 foram convidadas pela empresa; das de 1 estrela, 92 foram espontâneas. As duas amostras cobrem períodos diferentes, então não medem quanto o convite pesa na nota geral. Entre as 86 queixas de verdade (14 eram elogios com a nota errada), os temas mais citados foram o atendimento por IA sem chegar a uma pessoa (cerca de 45), cobrança e renovação (cerca de 38) e domínios (cerca de 27). A cobrança aparece nos dois sites; o atendimento por IA aparece mais no Trustpilot."
       ]
     },
     {
@@ -251,17 +252,17 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Hostinger tem nota boa no Reclame Aqui? No período lido, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
+        "A Hostinger tem nota boa no Reclame Aqui? Nos 6 meses até setembro, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
         "Quais são as reclamações mais comuns da Hostinger? No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,72%, o item mais citado.",
         "A Hostinger responde reclamações? Sim. 99,3% das reclamações dos últimos 6 meses foram respondidas, e 10 aguardavam resposta.",
-        "Como desligar a renovação automática da Hostinger? No hPanel, abra Faturas, vá em Serviços, clique nos três pontinhos do produto, escolha Configurações de Renovação e desmarque a opção. O produto segue ativo até o vencimento.",
-        "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+        "Como desligar a renovação automática da Hostinger? No hPanel, abra o perfil, vá em Faturamento e depois em Assinaturas, localize o serviço e clique na chave ao lado. Leia os avisos e confirme. O produto segue ativo até o vencimento.",
+        "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20% (o registro de domínio fica de fora). A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
     },
     {
       "heading": "Se você já decidiu",
       "paragraphs": [
-        "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela. Veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
+        "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Os 20% valem na compra nova de planos e produtos, menos no registro de domínio; a renovação sai pelo preço de tabela. Veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
       ]
     }
   ],

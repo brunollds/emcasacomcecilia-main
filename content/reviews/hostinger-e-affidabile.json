@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger è affidabile? Scopri chi addebita, il rimborso di 30 giorni e le eccezioni, il rinnovo automatico a un prezzo nuovo e cosa controllare prima di acquistare.",
   "publishedAt": "19 ottobre 2026",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -79,7 +80,7 @@
           ],
           [
             "Nuova registrazione di dominio",
-            "Solo entro 96 ore"
+            "Solo entro 96 ore, e alcune estensioni non sono rimborsabili"
           ],
           [
             "Rinnovo di dominio",
@@ -100,7 +101,7 @@
         ]
       },
       "postParagraphs": [
-        "Per chiedere il rimborso, apri un ticket con il pulsante in basso a destra del sito, indicando il numero di fattura e il motivo. L'importo torna sul metodo di pagamento usato. Se scegli il credito sull'account, il rimborso diventa credito e non torna sulla carta. La politica precisa anche che Hostinger rifiuta richieste ripetute o di massa."
+        "Per chiedere il rimborso, apri un ticket con il pulsante in basso a destra del sito, indicando il numero di fattura e il motivo. L'importo torna sul metodo di pagamento usato, tranne che nei metodi che rimborsano solo in credito sull'account. Se scegli il credito sull'account, il rimborso diventa credito e non torna sulla carta. La politica precisa anche che Hostinger rifiuta richieste ripetute o di massa."
       ],
       "images": [
         {
@@ -158,7 +159,7 @@
     {
       "heading": "Quando Hostinger va bene, e quando no",
       "paragraphs": [
-        "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare e 30 giorni per provare. Se il sito non può andare offline, la garanzia deve essere scritta nel piano, e la pagina pubblica non riporta il numero. Se il tuo dubbio è il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) ha le date e le regole di ogni offerta."
+        "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare e 30 giorni per provare. Se il sito non può andare offline, sappi quanto vale il 99,9% della pagina dei prezzi: il contratto di hosting promette questo minimo ogni mese e, quando non lo rispetta, un credito del 5% del canone mensile, da richiedere entro 30 giorni; non copre ciò che hai smesso di vendere. Se il tuo dubbio è il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) ha le date e le regole di ogni offerta."
       ]
     },
     {
@@ -174,8 +175,8 @@
         "Hostinger rimborsa? Sì, entro 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo di dominio e i servizi di assistenza a pagamento non vengono rimborsati.",
         "Il rinnovo di Hostinger è automatico? Sì, per impostazione predefinita. Puoi disattivarlo nell'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
         "Chi addebita su Hostinger? Dipende dal paese. L'azienda contraente segue la sezione 2 dei termini, e anche altre società del gruppo possono addebitare. Controlla il nome mostrato al checkout.",
-        "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
-        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+        "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono sull'acquisto nuovo di un piano (la registrazione di domini è esclusa); il rinnovo si paga al prezzo di listino, senza sconto.",
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un servizio nuovo (registrazione di domini esclusa) ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
     {
@@ -192,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono sull'acquisto nuovo di un piano (la registrazione di domini è esclusa); il rinnovo si paga al prezzo di listino, senza sconto.",
     "label": "Vedi i piani di Hostinger",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

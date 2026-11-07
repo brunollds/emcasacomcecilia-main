@@ -34,6 +34,7 @@
   "metaDescription": "Choisir un hébergeur web : renouvellement, cycle de 48 mois, emplacement du serveur et VPS. Prix du site international de Hostinger en dollars au 30 octobre 2026, avec le renouvellement à côté.",
   "publishedAt": "30 octobre 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -63,7 +64,7 @@
       "bullets": [
         "**Renouvellement.** Hostinger affiche le prix du renouvellement de chaque forfait sur la carte. Regardez-le avant le prix promotionnel.",
         "**Cycle.** La promotion de Hostinger vaut pour le forfait de 48 mois. Le total d'une durée ne se compare pas au total d'une autre. Par mois, si.",
-        "**Serveur dans le pays.** Les pages de forfaits de Hostinger n'indiquent pas où se trouve le serveur. Si cela compte pour vous, demandez au support avant d'acheter.",
+        "**Serveur dans le pays.** Hostinger propose des centres de données en Europe, en Asie, en Amérique du Nord et en Amérique du Sud. La liste varie selon le forfait et la disponibilité : vérifiez-la au moment de l'achat.",
         "**VPS.** Si le site a besoin d'un processeur et d'une mémoire garantis, la comparaison est différente, plus bas."
       ]
     },
@@ -129,7 +130,7 @@
       "bullets": [
         "**Stockage.** Le forfait d'entrée, Premium, a 20 Go de SSD. Le NVMe de 50 Go commence avec Unlimited.",
         "**Sauvegarde.** Premium a des sauvegardes hebdomadaires ; Unlimited, des sauvegardes quotidiennes. Avant de choisir, vérifiez que la sauvegarde dont vous avez besoin est incluse dans le forfait voulu.",
-        "**Emplacement du serveur.** Les pages n'indiquent pas où se trouve le serveur. Si cela compte pour vous, demandez au support avant d'acheter.",
+        "**Emplacement du serveur.** Les centres de données vont de l'Europe à l'Amérique du Sud selon le forfait et la disponibilité. Vérifiez la liste au moment de l'achat.",
         "**Renouvellement dans le panier.** Avant de payer, regardez le prix du renouvellement dans le panier, pas seulement le mensuel promotionnel.",
         "**Remboursement.** Lisez la politique de remboursement avant de souscrire. La façon dont Hostinger facture, renouvelle et rembourse est expliquée dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
       ]
@@ -192,7 +193,7 @@
         "Quel hébergeur est le meilleur ? Cela dépend du nombre de sites et de ce qui compte le plus pour vous, la promotion ou le renouvellement. Comparez le renouvellement, le cycle, le pays du serveur et le VPS, comme plus haut.",
         "Quel forfait Hostinger se renouvelle le moins cher ? Premium, à 10,99 US$ par mois sur le site international, après une promotion sur 48 mois à 2,49 US$.",
         "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
-        "Hostinger indique-t-il où se trouvent ses serveurs ? Les pages de forfaits n'indiquent pas où se trouve le serveur. Demandez au support avant d'acheter.",
+        "Hostinger indique-t-il où se trouvent ses serveurs ? Oui : sa liste officielle cite des centres de données en Europe, en Asie, en Amérique du Nord et en Amérique du Sud pour l'hébergement web, cloud et VPS, selon la disponibilité. Les e-mails sont stockés à part, en France et en Allemagne.",
         "Le code SONAR20 fonctionne-t-il sur le VPS ? Oui, il vaut sur le VPS. Nous l'avons testé sur le forfait Startup e-commerce, du créateur de boutiques, et il a donné 20 % sur la première période.",
         "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."

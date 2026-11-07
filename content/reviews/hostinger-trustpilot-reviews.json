@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger on Trustpilot (October 24, 2026): TrustScore 4.6 from 73,411 reviews, 99% of negative ones answered, and billing and renewal among the top complaints. See how to turn off renewal.",
   "publishedAt": "October 19, 2026",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -45,7 +46,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, with a caveat. On October 24, 2026, Hostinger had a TrustScore of 4.6 from 73,411 Trustpilot reviews and answered 99% of the negative ones. The company invites customers to review, which pushes the average up, and the most cited complaints are AI support, billing and renewal. On hosting, billing calls for attention to automatic renewal; see below how to turn it off. The 20% off the first period comes from the [SONAR20 Hostinger coupon](/en/coupons/hostinger)."
+        "Yes, with a caveat. On October 24, 2026, Hostinger had a TrustScore of 4.6 from 73,411 Trustpilot reviews and answered 99% of the negative ones. The company invites customers to review, which can raise the average, and the most cited complaints are AI support, billing and renewal. On hosting, billing calls for attention to automatic renewal; see below how to turn it off. The 20% off the first period comes from the [SONAR20 Hostinger coupon](/en/coupons/hostinger)."
       ]
     },
     {
@@ -170,7 +171,7 @@
         ]
       },
       "postParagraphs": [
-        "First, five-star reviews arrive much faster and almost all of them by invitation: 100 in about five days, 78 of them invited. One-star reviews take about 18 days to reach 100, and 92 are organic. Our reading: the invitation pushes the average up. The score measures the customers who were invited and answered, not all customers.",
+        "First, five-star reviews arrive much faster and almost all of them by invitation: 100 in about five days, 78 of them invited. One-star reviews take about 18 days to reach 100, and 92 are organic. The two samples cover different periods, so they do not measure how much invitations move the overall score. They only show that the five-star group leans on invited customers and the one-star group on customers who wrote on their own.",
         "Second, one-star reviews are almost four times longer. They describe a concrete problem, with dates, products and amounts. Five-star reviews are usually one sentence.",
         "Third, one in seven one-star reviews in our sample is praise given with the wrong rating: 14 of the 100 have positive text, such as “Great hosting” or “easy to use”, under one star. Even so, 6.9% of 73,411 is still about 5,100 people who were very unhappy. The share is small; the number of people is not."
       ]
@@ -207,17 +208,17 @@
     {
       "heading": "How to turn off automatic renewal",
       "paragraphs": [
-        "According to Hostinger’s help center, read on October 19, 2026, the path is this:"
+        "According to Hostinger’s help center, the path is this:"
       ],
       "bullets": [
-        "In your account’s billing area, open the invoices section.",
-        "Go to your list of services or subscriptions.",
-        "Open the three-dot menu next to the product.",
-        "Go to the renewal settings for that product.",
-        "Turn off automatic renewal and save the change."
+        "In your account, open your profile and go to Billing.",
+        "Select Subscriptions.",
+        "Find the service you want to update.",
+        "Click the toggle switch next to it. A page opens with the risks and warnings for that product type.",
+        "Review the information and confirm your choice."
       ],
       "postParagraphs": [
-        "With the option off, the product stays active until the expiry date. To turn it back on, you need a payment method on file. The help center also says that if renewal is one day or less from expiry, you must renew manually before turning the option back on. Menu names can change, so look for the automatic renewal option in the billing area."
+        "With the option off, the product stays active until the expiry date. To turn it back on, click the same toggle switch again. Turning it off does not refund charges that were already processed. Menu names can change, so look for the automatic renewal option in the billing area."
       ]
     },
     {
@@ -238,7 +239,7 @@
     {
       "heading": "Can you trust Hostinger?",
       "paragraphs": [
-        "Going by Trustpilot, yes. The score was 4.6 from 73,411 reviews, 87.1% of them five stars, and the company answered 99% of the negative ones, 80 of the 86 complaints in our sample.",
+        "Going by Trustpilot, yes. The score was 4.6 from 73,411 reviews, 87.1% of them five stars. The profile says the company answers 99% of the negative ones; in our sample, 80 of the 86 complaints had a reply, about 93%.",
         "The caveat is how the score is built and what the complaints say. The profile is managed by the company, which invites customers to review: in our sample, 78 of the 100 most recent five-star reviews were invited and 92 of the 100 most recent one-star reviews were organic. The complaints center on AI support with no way to reach a person, on billing and renewal, and on domains.",
         "In practice: check the renewal date, turn off automatic renewal if you do not want to continue, and read a few one-star reviews and the replies on the profile before buying, because the numbers change every month."
       ]
@@ -250,21 +251,21 @@
         "Are Hostinger’s Trustpilot reviews reliable? The profile is claimed and managed by the company, which invites customers to review. In our sample, 78 of the 100 most recent five-star reviews were invited, and 92 of the 100 most recent one-star reviews were organic. Trustpilot says it does not check reviews one by one.",
         "What do Hostinger customers complain about on Trustpilot? In the 86 complaints read among the 100 most recent one-star reviews, the main themes were AI support and not reaching a person (about 45), billing and renewal (about 38) and domains (about 27).",
         "Does Hostinger answer negative reviews? Yes. The page says the company responds to 99% of negative reviews, usually within 24 hours, and may use AI in the replies. In our sample, 80 of 86 complaints had a reply.",
-        "How do I turn off Hostinger’s automatic renewal? In your account’s billing area, go to your services, open the three-dot menu next to the product, go to the renewal settings, turn off automatic renewal and save. The product stays active until the expiry date.",
-        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+        "How do I turn off Hostinger’s automatic renewal? In your profile, open Billing, then Subscriptions, find the service and click the toggle switch next to it. Review the warnings and confirm. The product stays active until the expiry date.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%, except on domain registration. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
     {
       "heading": "If you have already decided",
       "paragraphs": [
-        "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. The 20% apply to every new purchase; renewal is charged at the list price. See the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
+        "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. The 20% applies to new purchases of plans and products, not to domain registration; renewal is charged at the list price. See the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+    "text": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to new purchases of plans and products, not to domain registration; renewals are charged at the list price, with no discount.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

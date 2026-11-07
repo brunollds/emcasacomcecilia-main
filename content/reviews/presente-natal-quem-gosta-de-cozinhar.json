@@ -17,6 +17,7 @@
   "metaDescription": "O cupom MAUAD dá 5% OFF no subtotal da Let's Eat It. Presente de Natal para quem gosta de cozinhar, com Le Creuset, KitchenAid e Ariete em quatro faixas.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
@@ -279,7 +280,7 @@
     {
       "heading": "Prazo para chegar antes do Natal",
       "paragraphs": [
-        "A Let's Eat It não tem entrega expressa. O prazo segue a política de frete da loja e conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, com prazos intermediários para as outras regiões. O frete é calculado à parte, pelo CEP, e dá para simular na página do produto.",
+        "A Let's Eat It não tem entrega expressa. O prazo segue a política de frete da loja e conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, com prazos intermediários para as outras regiões. A política padrão da loja conta de 5 a 10 dias úteis depois do despacho, e o prazo do seu CEP aparece no carrinho. O frete é calculado à parte, pelo CEP, e dá para simular na página do produto.",
         "Para um presente com data, a conta é de trás para frente: partindo do dia do Natal, desconte os dias úteis da sua região e faça o pedido antes disso. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
       ]
     },
@@ -294,7 +295,7 @@
     {
       "heading": "Troca, peça avariada e pré-venda",
       "paragraphs": [
-        "Pela política de reembolso e trocas da loja, a devolução tem prazo de 30 dias contados do recebimento. A loja troca por outro produto de valor equivalente ou devolve o valor integral, no meio de pagamento original ou em crédito na loja. Defeito de fabricação tem prazo de 90 dias.",
+        "Pela política de reembolso e trocas da loja, a devolução tem prazo de 30 dias contados do recebimento. Pela página de reembolso e trocas, a devolução pode ser por produto de valor equivalente, reembolso no meio de pagamento original ou crédito na loja. O site mantém outro texto de política com regras diferentes, então confirme a condição por escrito com o atendimento antes de presentear. Defeito de fabricação tem prazo de 90 dias.",
         "Se a peça chegar quebrada, a loja faz a reposição sem custo, mediante fotos do produto e da embalagem enviadas pelo WhatsApp ou pelo e-mail de atendimento da loja. A política não diz em que prazo o aviso precisa ser feito, então avise logo depois de abrir a caixa. O que a equipe checou antes de indicar a loja está em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel).",
         "Item de pré-venda não entra nesta lista de presente com data. O prazo de envio fica na página do produto."
       ]
@@ -303,7 +304,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o prazo de entrega para chegar antes do Natal? Conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, pela política de frete da loja. A data-limite de pedido está no guia de Black Friday da Let's Eat It.",
-        "Posso trocar um presente? A loja troca por outro produto de valor equivalente em até 30 dias contados do recebimento, ou devolve o valor integral, no meio de pagamento original ou em crédito na loja. Guarde a nota fiscal e confirme o prazo com a loja antes de presentear com data marcada.",
+        "Posso trocar um presente? A página de reembolso e trocas da loja fala em 30 dias contados do recebimento, com troca por produto equivalente, reembolso ou crédito. O site tem outro texto de política com regras diferentes: guarde a nota fiscal e confirme a condição por escrito com o atendimento antes de presentear com data marcada.",
         "O cupom MAUAD vale em promoção? Sim. Pelo nosso teste, ele soma com as promoções vigentes do site e com o desconto do Pix. O checkout mostra o valor final antes do pagamento.",
         "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou um eletroportátil, como a Chaleira Elétrica Positano de R$ 649,00 (127 V)."
       ]

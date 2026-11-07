@@ -34,6 +34,7 @@
   "metaDescription": "Bester VPS für OpenClaw ohne offiziellen RAM-Mindestwert: der KVM-Tarif je Szenario, mit Cloud- oder lokalem Modell.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
@@ -44,7 +45,7 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt die Dokumentation 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Wer sich nicht um einen Server kümmern will, sieht sich unten den verwalteten Weg an."
+        "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt das kleinste Rezept 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Wer sich nicht um einen Server kümmern will, sieht sich unten den verwalteten Weg an."
       ]
     },
     {
@@ -54,7 +55,7 @@
         "Die offiziellen Seiten zur Installation und zu lokalen Modellen sagen Folgendes:"
       ],
       "bullets": [
-        "**Node-Version.** OpenClaw verlangt Node 24.16 oder neuer, oder Node 26.1 oder neuer. Node ist das Programm, das OpenClaw ausführt, und die Installation über npm setzt diese Version voraus. Die Seite empfiehlt Node 26. Ist Node nicht installiert, bringt der offizielle Installer die Version mit (Node 26 unter macOS und Node 24 LTS unter Linux).",
+        "**Node-Version.** Die stabile OpenClaw-Version verlangt Node 24.22.1 oder neuer in der Linie 24, oder Node 26.12.1 oder neuer; Node 25 wird nicht unterstützt. Node ist das Programm, das OpenClaw ausführt, und die Installation über npm setzt diese Version voraus. Die Seite empfiehlt Node 26. Ist Node nicht installiert, bringt der offizielle Installer die Version mit (Node 26 unter macOS und Node 24 LTS unter Linux).",
         "**Lokales Modell.** Für das kleinste Rezept, das die Dokumentation selbst anbietet, liegt die Untergrenze bei 8 GiB Host-Speicher, mit 64K Kontext. Die Seite sagt, diese Untergrenzen „garantieren weder, dass das Modell hineinpasst, noch, dass es schnell läuft“.",
         "**VPS von Hostinger.** Hostinger installiert OpenClaw auf dem VPS mit Docker, einem Programm, das jede Anwendung isoliert in einem Container ausführt. Der VPS ist ein gemieteter virtueller Server; mit Root-Zugriff haben Sie die volle Kontrolle darüber."
       ],
@@ -142,9 +143,9 @@
         ]
       },
       "bullets": [
-        "**KVM 1 (4 GB).** Ausgangspunkt für das Szenario mit API-Schlüssel oder Guthaben. Für ein lokales Modell liegt er unter der offiziellen Untergrenze.",
+        "**KVM 1 (4 GB).** Ausgangspunkt für das Szenario mit API-Schlüssel oder Guthaben. Für ein lokales Modell liegt er unter der Untergrenze von 8 GiB des kleinsten Rezepts.",
         "**KVM 2 (8 GB).** Mit API-Schlüssel gibt es reichlich Spielraum. Mit lokalem Modell liegt er genau an der Untergrenze, ohne Reserve für das System.",
-        "**KVM 4 (16 GB).** Der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. Die Dokumentation sagt nicht, wie viel er mit einem lokalen Modell leistet.",
+        "**KVM 4 (16 GB).** Der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts. Die Dokumentation sagt nicht, wie viel er mit einem lokalen Modell leistet.",
         "**KVM 8 (32 GB).** Sinnvoll nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
       ],
       "postParagraphs": [
@@ -217,7 +218,7 @@
       ],
       "bullets": [
         "Modell in der Cloud, über den API-Schlüssel oder das KI-Guthaben von Hostinger: KVM 1 mit 4 GB als Ausgangspunkt.",
-        "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. Der KVM 8 mit 32 GB ist nur mit einem größeren lokalen Modell sinnvoll.",
+        "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts; die Leistung hängt von Modell und Kontext ab. Der KVM 8 mit 32 GB ist nur mit einem größeren lokalen Modell sinnvoll.",
         "Wer sich nicht um einen Server kümmern will: der verwaltete Weg, bei dem Hostinger den Assistenten installiert und aktualisiert.",
         "Zum Testen ohne Bezahlung: Oracle Always Free, mit dem Wissen, dass Oracle eine ungenutzte Instanz zurückholen kann."
       ]
@@ -232,9 +233,9 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Festplatte; sie verlangt Node 24.16 oder neuer (oder 26.1). Mit API-Schlüssel oder Guthaben ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell liegt die Untergrenze bei 8 GiB, und der KVM 4 ist der erste mit Reserve.",
+        "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Festplatte; die stabile Version verlangt Node 24.22.1 oder neuer (oder 26.12.1). Mit API-Schlüssel oder Guthaben ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell gilt die Untergrenze von 8 GiB nur für das kleinste Rezept, und der KVM 4 ist dafür der erste mit Reserve.",
         "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
-        "Ist Oracle wirklich kostenlos? Ja, solange das Konto bei Always Free bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang ungenutzt bleibt, mit CPU, Netzwerk und Speicher unter 20 %, kann von Oracle zurückgeholt werden.",
+        "Ist Oracle wirklich kostenlos? Ja, solange das Konto bei Always Free bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang ungenutzt bleibt, mit CPU (95. Perzentil) und Netzwerk unter 20 % und, bei den A1, auch Speicher unter 20 %, kann von Oracle zurückgeholt werden.",
         "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nein, wählen Sie VPS oder den verwalteten Weg.",
         "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
@@ -273,10 +274,10 @@
   "decision": {
     "takeIf": [
       "Nehmen Sie den KVM 1 mit 4 GB, wenn das KI-Modell beim Anbieter bleibt, über den API-Schlüssel oder das KI-Guthaben von Hostinger.",
-      "Nehmen Sie den KVM 4 mit 16 GB, wenn Sie ein lokales Modell betreiben: Er ist der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB."
+      "Nehmen Sie den KVM 4 mit 16 GB, wenn Sie ein lokales Modell betreiben: Er ist der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts."
     ],
     "skipIf": [
-      "Lassen Sie den KVM 1 aus, wenn Sie ein lokales Modell betreiben: 4 GB liegen unter der offiziellen Untergrenze.",
+      "Lassen Sie den KVM 1 aus, wenn Sie ein lokales Modell betreiben: 4 GB liegen unter der Untergrenze von 8 GiB des kleinsten lokalen Rezepts.",
       "Lassen Sie den VPS aus, wenn Sie sich nicht um einen Server kümmern wollen: Sehen Sie sich den verwalteten Weg an, bei dem Hostinger den Assistenten installiert und aktualisiert.",
       "Lassen Sie den KVM 8 aus, wenn Sie kein größeres lokales Modell nutzen."
     ]

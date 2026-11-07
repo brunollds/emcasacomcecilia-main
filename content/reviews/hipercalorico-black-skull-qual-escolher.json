@@ -16,6 +16,7 @@
   },
   "publishedAt": "27 de outubro de 2026",
   "publishedAtISO": "2026-10-27",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "description": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: o Masstodon custa menos por 100 g de proteína, e o Monstrous tem mais proteína. Veja as contas lado a lado e o efeito do CECILIA10.",
@@ -56,7 +57,7 @@
     {
       "heading": "Como lemos o rótulo: porção, kcal e preço por 100 g de proteína",
       "paragraphs": [
-        "A Black Skull vende dois hipercalóricos no site: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem, e a loja não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
+        "Este guia compara dois hipercalóricos da Black Skull: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem, e a loja não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
         "O preço do pote engana, porque a porção e a proteína de cada um são diferentes: 160 g no Masstodon, 260 g no Monstrous. Por isso a régua do artigo é por 100 g do pó, por 100 g de proteína e por 1.000 kcal."
       ],
       "bullets": [
@@ -259,7 +260,7 @@
         ]
       },
       "postParagraphs": [
-        "Não há hipercalórico de 4 kg nem em balde no catálogo: os dois tamanhos são o refil de 3 kg e o pote de 2,7 kg."
+        "Os tamanhos comparados são o refil de 3 kg e o pote de 2,7 kg; hipercalórico de 4 kg ou em balde não apareceu no catálogo de outubro."
       ]
     },
     {
@@ -356,10 +357,10 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual hipercalórico da Black Skull tem menos carboidrato por grama de proteína? O Monstrous 2,7 kg: 3,8 g de carboidrato por grama de proteína (195 g e 51 g por porção de 260 g). O Masstodon Refil 3 kg tem 11,5 g (138 g e 12 g por porção de 160 g).",
-        "Qual hipercalórico da Black Skull é o mais barato por proteína? O Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com o CECILIA10. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom.",
-        "A Black Skull tem hipercalórico de 4 kg ou em balde? Não no catálogo. Os dois tamanhos são o Masstodon Refil 3 kg e o Monstrous 2,7 kg.",
-        "A Black Skull tem hipercalórico sem lactose? Não: o Masstodon e o Monstrous declaram \"Contém lactose\" no rótulo. Os dois declaram \"Não contém glúten\".",
+        "Qual hipercalórico da Black Skull tem menos carboidrato por grama de proteína? Entre os dois comparados, o Monstrous 2,7 kg: 3,8 g de carboidrato por grama de proteína (195 g e 51 g por porção de 260 g). O Masstodon Refil 3 kg tem 11,5 g (138 g e 12 g por porção de 160 g).",
+        "Qual hipercalórico da Black Skull é o mais barato por proteína? Entre os dois comparados, o Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com o CECILIA10. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom.",
+        "A Black Skull tem hipercalórico de 4 kg ou em balde? Não apareceu no catálogo de outubro. Os tamanhos comparados são o Masstodon Refil 3 kg e o Monstrous 2,7 kg.",
+        "A Black Skull tem hipercalórico sem lactose? Nos dois comparados, não: o Masstodon e o Monstrous declaram \"Contém lactose\" no rótulo. Os dois declaram \"Não contém glúten\".",
         "Quais sabores do Monstrous estão à venda? O seletor da ficha mostra chocolate, morango e baunilha; o morango estava esgotado. O Masstodon tem baunilha, morango, chocolate e banana, todos com estoque na mesma data."
       ]
     }

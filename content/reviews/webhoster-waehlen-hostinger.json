@@ -35,6 +35,7 @@
   "metaDescription": "Webhosting für eine Website wählen: Hostinger-Preise in US-Dollar vom 30. Oktober 2026, pro Monat und mit Verlängerung, dazu Speicher, Backup, Server im Land und VPS.",
   "publishedAt": "30. Oktober 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
@@ -63,7 +64,7 @@
       "bullets": [
         "**Verlängerung.** Die Hostinger zeigt den Verlängerungspreis jedes Tarifs auf der Karte. Lesen Sie ihn vor dem Aktionspreis.",
         "**Laufzeit.** Der Aktionspreis der Hostinger gilt für den Tarif mit 48 Monaten. Die Summe einer Laufzeit lässt sich nicht mit der Summe einer anderen vergleichen. Pro Monat dagegen schon.",
-        "**Server im Land.** Die Tarifseiten der Hostinger sagen nicht, wo der Server steht. Wenn Ihnen das wichtig ist, fragen Sie vor dem Kauf den Support.",
+        "**Server im Land.** Die Hostinger hat Rechenzentren in Europa, Asien, Nordamerika und Südamerika. Die Auswahl hängt vom Tarif und von der Verfügbarkeit ab; prüfen Sie die Liste beim Abschluss.",
         "**VPS.** Wenn Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht, ist der Vergleich ein anderer, weiter unten."
       ]
     },
@@ -129,7 +130,7 @@
       "bullets": [
         "**Speicher.** Der Einstiegstarif, der Premium, hat 20 GB SSD. NVMe mit 50 GB beginnt beim Unlimited.",
         "**Backup.** Der Premium hat ein wöchentliches Backup, der Unlimited ein tägliches. Prüfen Sie vor der Wahl, ob das Backup, das Sie brauchen, im gewünschten Tarif enthalten ist.",
-        "**Standort des Servers.** Die Seiten sagen nicht, wo der Server steht. Wenn Ihnen das wichtig ist, fragen Sie vor dem Kauf den Support.",
+        "**Standort des Servers.** Die Rechenzentren reichen von Europa bis Südamerika, je nach Tarif und Verfügbarkeit. Prüfen Sie die Liste beim Abschluss.",
         "**Verlängerung im Warenkorb.** Sehen Sie vor dem Bezahlen auf den Verlängerungspreis im Warenkorb, nicht nur auf den monatlichen Aktionspreis.",
         "**Erstattung.** Lesen Sie die Erstattungsregeln vor dem Abschluss. Wie die Hostinger abrechnet, verlängert und erstattet, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
       ]
@@ -192,7 +193,7 @@
         "Welcher Hoster ist besser? Das hängt davon ab, wie viele Websites Sie haben und ob Ihnen die Aktion oder die Verlängerung wichtiger ist. Vergleichen Sie Verlängerung, Laufzeit, Land des Servers und VPS, wie oben.",
         "Welcher Hostinger-Tarif verlängert sich am günstigsten? Der Premium, zu 10,99 US$ pro Monat auf der internationalen Seite, nach einer Aktion über 48 Monate zu 2,49 US$.",
         "Lohnt sich der VPS der Hostinger? Das hängt von der Last der Website ab. Vergleichen Sie vCPU, Arbeitsspeicher und Verlängerung: Der KVM 1 verlängert sich zu 11,99 US$ pro Monat auf der internationalen Seite.",
-        "Sagt die Hostinger, wo ihre Server stehen? Die Tarifseiten sagen nicht, wo der Server steht. Fragen Sie vor dem Kauf den Support.",
+        "Sagt die Hostinger, wo ihre Server stehen? Ja: Die offizielle Liste nennt Rechenzentren in Europa, Asien, Nordamerika und Südamerika für Web-, Cloud- und VPS-Tarife, je nach Verfügbarkeit. E-Mail-Postfächer liegen getrennt in Frankreich und Deutschland.",
         "Gilt der Code SONAR20 beim VPS? Ja, SONAR20 gilt beim VPS; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce aus dem Shop-Ersteller, und er gab 20 % auf den ersten Zeitraum.",
         "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."

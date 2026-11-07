@@ -35,6 +35,7 @@
   "metaDescription": "Come scegliere l'hosting per un sito: piani, rinnovo e durata dello sconto. Prezzi Hostinger in dollari al 30/10/2026, per mese, con spazio, backup, server nel paese e VPS.",
   "publishedAt": "30 ottobre 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
@@ -63,7 +64,7 @@
       "bullets": [
         "**Rinnovo.** La Hostinger mostra il prezzo di rinnovo di ogni piano sulla card. Guardalo prima del prezzo promozionale.",
         "**Durata.** Lo sconto della Hostinger vale per il piano di 48 mesi. Il totale di una durata non si confronta con quello di un'altra. Per mese, sì.",
-        "**Server nel paese.** Le pagine dei piani Hostinger non dicono dove si trova il server. Se per te conta, chiedilo al supporto prima di pagare.",
+        "**Server nel paese.** Hostinger ha data center in Europa, Asia, Nord America e Sud America. L'elenco cambia in base al piano e alla disponibilità: controllalo quando acquisti.",
         "**VPS.** Se il sito ha bisogno di processore e memoria garantiti, il confronto è un altro, più in basso."
       ]
     },
@@ -129,7 +130,7 @@
       "bullets": [
         "**Spazio.** Il piano di ingresso, il Premium, ha 20 GB SSD. L'NVMe da 50 GB parte dall'Unlimited.",
         "**Backup.** Il Premium ha il backup settimanale, l'Unlimited quello giornaliero. Prima di scegliere, controlla che il backup che ti serve sia nel piano che vuoi.",
-        "**Posizione del server.** Le pagine non dicono dove si trova il server. Se per te conta, chiedilo al supporto prima di pagare.",
+        "**Posizione del server.** I data center vanno dall'Europa al Sud America, in base al piano e alla disponibilità. Controlla l'elenco quando acquisti.",
         "**Rinnovo nel carrello.** Prima di pagare, guarda il prezzo di rinnovo nel carrello, non solo il mensile promozionale.",
         "**Rimborso.** Leggi la politica di rimborso prima di acquistare. Come la Hostinger addebita, rinnova e rimborsa è spiegato in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
       ]
@@ -192,7 +193,7 @@
         "Quale hosting è meglio? Dipende da quanti siti hai e da cosa pesa di più per te, la promozione o il rinnovo. Confronta il rinnovo, la durata, il paese del server e il VPS, come sopra.",
         "Quale piano Hostinger si rinnova al prezzo più basso? Il Premium, a 10,99 US$ al mese sul sito internazionale, dopo una promozione di 48 mesi a 2,49 US$.",
         "Conviene il VPS della Hostinger? Dipende dal carico del sito. Confronta vCPU, memoria e rinnovo: il KVM 1 si rinnova a 11,99 US$ al mese sul sito internazionale.",
-        "La Hostinger dice dove si trovano i suoi server? Le pagine dei piani non dicono dove si trova il server. Chiedilo al supporto prima di pagare.",
+        "La Hostinger dice dove si trovano i suoi server? Sì: l'elenco ufficiale cita data center in Europa, Asia, Nord America e Sud America per hosting web, cloud e VPS, in base alla disponibilità. La posta è conservata a parte, in Francia e Germania.",
         "Il codice SONAR20 vale sul VPS? Sì. L'abbiamo provato sul piano Startup di e-commerce, del costruttore di negozi, e ha dato il 20% sul primo periodo.",
         "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio.",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."

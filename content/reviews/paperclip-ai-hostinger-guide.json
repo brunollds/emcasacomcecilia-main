@@ -34,6 +34,7 @@
   "metaDescription": "Paperclip AI: what it is, who maintains it, what you can verify and how to run it on Hostinger, managed or VPS.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -61,7 +62,7 @@
       "bullets": [
         "**Org chart:** the structure of who reports to whom. A marketing agent answers to whoever handles strategy, and so on.",
         "**Heartbeats:** the name comes from “heartbeat”. An agent does not run all the time. It “wakes up” when it gets work, a follow-up message or a schedule, checks what it has to do and acts. Then it goes back to sleep.",
-        "**Budget per agent:** you set a spending cap for each agent, each project and the company. When the limit is reached, the work is paused. This matters because every AI response costs money, charged by the model provider.",
+        "**Budget per agent:** you set a spending cap for each agent, each project and the company. With automatic stop (hard-stop) enabled, which is the default, the work of the agent, project or company is paused when the limit is reached; before that, the warning only alerts. The cap does not guarantee the final amount the provider charges. This matters because every AI response costs money, charged by the model provider.",
         "**Approval:** you can require a review before a piece of work moves on, approve the hiring of a new agent or stop and reassign a task.",
         "**Audit:** actions, state changes, costs, approvals and comments are all recorded. You can see afterwards what happened and why."
       ],
@@ -89,7 +90,7 @@
       "bullets": [
         "**Agents to coordinate.** Paperclip does not run an AI model: it coordinates agents that work through other programs, such as Claude Code, Codex, Cursor, Gemini CLI and OpenClaw.",
         "**Postgres.** This is the database where Paperclip stores agents, tasks and records. In the local install, it comes built in and starts on its own. In production, the project itself recommends pointing to a Postgres of your own. On managed, the database is included. On the VPS, the database is up to you.",
-        "**Your own AI keys.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. The provider charges for usage, directly to you. The managed Paperclip page says you connect “your own agents and API keys”, and it does not list included AI credits. Without a key, the team does not answer.",
+        "**Your own AI keys.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. The provider charges for usage, directly to you. On managed, Hostinger asks for an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription, and it does not list included AI credits. Without one of these connections, the team does not answer.",
         "**A monthly budget per agent.** Set the cap before you turn the team on. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Without a cap, the spending is whatever the provider charges at the end of the month.",
         "**Server knowledge, if you go with a VPS.** On a VPS, you need to know what Docker is, a program that runs each application isolated in a container, and accept updating and securing the system. If that is not for you, managed solves it."
       ],
@@ -137,14 +138,14 @@
           [
             "Refund",
             "30 days",
-            "30 days, only if your last VPS refund was requested more than 180 days ago"
+            "30 days, only if your last VPS refund was completed more than 180 days ago"
           ]
         ]
       },
       "postParagraphs": [
         "**Managed is for you if** you want Paperclip running without installing anything, you do not know what root or Docker is, and you prefer Hostinger to look after the database, the updates and the backups.",
         "**The VPS is for you if** you want to run other programs on the same server, such as a website or n8n (an automation tool), you know your way around a server or want to learn, and you want the database and the configuration under your control.",
-        "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. If you requested a VPS refund in the last six months, the new purchase does not have the 30-day guarantee."
+        "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. The 180 days count from the completion of your last VPS refund: if you received one in the last 180 days, the new VPS does not have the 30-day guarantee."
       ]
     },
     {
@@ -163,7 +164,7 @@
       "heading": "How to get started, in order",
       "bullets": [
         "**Run it on your computer.** The official README requires Node.js 24.11 or newer. Check the version with the command node -v in the terminal, then run npx paperclipai@latest onboard --yes. The interface opens at http://localhost:3100, and the Postgres database is created on its own. There is no server cost, but Paperclip only runs while your computer is on. If you subscribe to Claude or Codex, the README also lets you sign in through the subscription, without an API key, with Python 3 and the provider’s program installed.",
-        "**Subscribe to managed.** Sign up for the “AI automation apps” plan for 24 months, with the code SONAR20 in the cart. After the subscription, Hostinger prepares the instance and the database. You log into the panel, connect your agents and paste in your AI keys.",
+        "**Subscribe to managed.** Sign up for the “AI automation apps” plan for 24 months, with the code SONAR20 in the cart. After the subscription, Hostinger prepares the instance and the database. You log into the panel, connect your agents and paste in an AI key (or use the ChatGPT subscription).",
         "**Or get a VPS with Docker.** Pick a KVM plan (the KVM 1 is the cheapest) and, in the list of applications, Paperclip, which Hostinger installs with one click. Through the panel’s Docker Manager you open Paperclip, enter the keys and update the version with a button. The server’s security, the passwords and the system updates remain yours."
       ]
     },
@@ -178,7 +179,7 @@
       "bullets": [
         "Is Paperclip free? The program is open source, under the MIT license, and you can install it on your computer without paying Hostinger. The use of AI models is charged by the provider, and managed and the VPS are paid plans.",
         "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. We found no independent audit in the sources read.",
-        "Does it need an API key? Yes. On managed and on the VPS, the Paperclip page asks you to bring your own. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
+        "Does it need an API key? In most cases, yes. On managed, Hostinger accepts an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription. On the VPS, the page asks you to bring your own keys. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
         "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
         "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."

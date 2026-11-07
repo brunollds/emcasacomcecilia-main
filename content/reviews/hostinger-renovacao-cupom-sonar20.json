@@ -34,6 +34,7 @@
   "metaDescription": "O cupom SONAR20 dá 20% OFF num plano novo da Hostinger; a renovação sai pelo preço da tabela. Veja quanto custa renovar cada plano e o reembolso.",
   "publishedAt": "5 de novembro de 2026",
   "publishedAtISO": "2026-11-05",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp",
@@ -182,7 +183,7 @@
         "27 dias antes do vencimento, no domínio."
       ],
       "postParagraphs": [
-        "A data pode variar um pouco. Se faltar um dia ou menos para a renovação, ela não sai sozinha naquele ciclo: é preciso renovar à mão. Deixe saldo no método de pagamento perto dessas datas.",
+        "A data pode variar um pouco. Se você ligar a renovação automática quando faltar um dia ou menos para o vencimento, ela não sai sozinha naquele ciclo: é preciso renovar à mão. Confira o status e a data no painel e deixe saldo no método de pagamento perto dessas datas.",
         "Para renovar à mão a qualquer momento, abra Faturamento, depois Assinaturas, e clique em renovar ao lado do serviço. O preço da renovação, sem impostos, aparece ali, na coluna do preço de renovação. Quando o plano está para vencer, o cartão dele, na área de sites do painel, mostra a data e o botão de renovar."
       ],
       "image": {
@@ -233,7 +234,7 @@
     {
       "heading": "Domínio fica de fora",
       "paragraphs": [
-        "O domínio não tem reembolso na renovação e também não leva o SONAR20, então ele pede uma decisão separada. A renovação dele tem chave própria, na área de domínios do painel, e é cobrada 27 dias antes do vencimento. Só o registro novo tem um prazo curto de reembolso, de 96 horas (168 horas no .br); a renovação não tem nenhum.",
+        "O domínio não tem reembolso na renovação e também não leva o SONAR20, então ele pede uma decisão separada. A renovação dele tem chave própria, na área de domínios do painel, e é cobrada 27 dias antes do vencimento. Só o registro novo tem um prazo curto de reembolso, de 96 horas em geral, conforme a extensão (168 horas no .br); a renovação não tem nenhum.",
         "Decida o domínio antes dessa cobrança: veja o preço, veja se ele precisa ficar nesse registrador e só então deixe renovar. Os caminhos de registrar, transferir ou deixar o domínio fora estão em [domínio na Hostinger](/reviews/dominio-hostinger-comprar-transferir-ou-fora)."
       ]
     },

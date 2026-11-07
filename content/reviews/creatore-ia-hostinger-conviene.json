@@ -35,6 +35,7 @@
   "metaDescription": "Hostinger Horizons è diventato l'AI Builder. Conviene o meglio WordPress? Tabella per tipo di progetto, confronto con Wix e Lovable e crediti IA.",
   "publishedAt": "28 ottobre 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -121,7 +122,7 @@
     {
       "heading": "AI Builder o WordPress",
       "paragraphs": [
-        "Il prezzo non decide: su Hostinger l'AI Builder è compreso nei piani di hosting, gli stessi che fanno girare WordPress, agli stessi prezzi. Cambia chi fa il lavoro e che cosa controlli."
+        "Su Hostinger il prezzo del piano di hosting non decide: la modalità senza IA dell'AI Builder è compresa negli stessi piani che fanno girare WordPress, agli stessi prezzi. La modalità con IA consuma crediti, e per pubblicare il sito serve un hosting attivo. Cambia chi fa il lavoro e che cosa controlli."
       ],
       "comparisonTable": {
         "headers": [
@@ -169,7 +170,7 @@
       },
       "postParagraphs": [
         "**WordPress vince** quando il progetto dipende da un plugin specifico, da un tema che hai già o da qualcuno che manterrà il sito in seguito. È software libero: l'intero sito è tuo e va su qualsiasi hosting senza rifare nulla.",
-        "**L'AI Builder vince** quando non vuoi installare né aggiornare nulla e vuoi un'app web con login e dati, che su WordPress diventa una pila di plugin. L'avvertenza che cambia la decisione: in modalità IA, ogni modifica consuma crediti. Secondo la pagina, una semplice pagina istituzionale consuma da 5 a 10 crediti, e un'app più complessa 15 o più. Chi mette mano al sito ogni settimana deve fare i conti; chi lo monta una volta e modifica testo e foto nell'editor, senza prompt, non consuma nulla."
+        "**L'AI Builder vince** quando non vuoi installare né aggiornare nulla e vuoi un'app web con login e dati, che su WordPress diventa una pila di plugin. L'avvertenza che cambia la decisione: in modalità IA, ogni modifica consuma crediti. Secondo la pagina, una semplice pagina istituzionale consuma da 5 a 10 crediti, e un'app più complessa 15 o più. Chi mette mano al sito ogni settimana deve fare i conti. Chi lo monta una volta e modifica testo e foto nell'editor della modalità senza IA non consuma nulla; in modalità IA, anche cambiare un testo o un'immagine con Select & edit consuma un po' di crediti."
       ]
     },
     {
@@ -182,7 +183,7 @@
     {
       "heading": "Che cosa controllare prima di pagare",
       "bullets": [
-        "**I crediti.** La modalità con IA consuma crediti a ogni richiesta, e il saldo del piano non si rinnova ogni mese. Monta il sito con l'IA e fai i ritocchi di testo e foto nell'editor, che non ne consuma.",
+        "**I crediti.** La modalità con IA consuma crediti a ogni richiesta, e il saldo del piano non si rinnova ogni mese. Anche cambiare un testo o un'immagine con Select & edit ne consuma un po'; solo la modalità senza IA modifica senza consumare.",
         "**Che cosa succede se non rinnovi.** La pagina avvisa: un piano scaduto e non rinnovato mette il progetto offline e cancella i dati. Esporta il codice prima di lasciarlo scadere.",
         "**Rimborso entro 30 giorni**, purché tu abbia consumato meno di 30 crediti IA.",
         "**Il negozio online** è una voce dei piani Unlimited e Cloud Startup; nell'Unlimited, la pagina dice che è gratuito per 3 mesi. Controlla al checkout quanto costa dopo.",
@@ -252,7 +253,7 @@
     "takeIf": [
       "Scegli l'AI Builder se vuoi un sito di poche pagine, un portfolio, un piccolo negozio o un'app web semplice senza programmare.",
       "Sceglilo se vuoi hosting, dominio ed e-mail nello stesso piano e accetti che l'IA monti la prima versione.",
-      "Sceglilo se monterai il sito una volta e ritoccherai testo e foto nell'editor, che non consuma crediti."
+      "Sceglilo se monterai il sito una volta e ritoccherai testo e foto nell'editor della modalità senza IA, che non consuma crediti."
     ],
     "skipIf": [
       "Lascia stare, e resta su WordPress, se il progetto dipende da un plugin specifico o da un tema che hai già.",

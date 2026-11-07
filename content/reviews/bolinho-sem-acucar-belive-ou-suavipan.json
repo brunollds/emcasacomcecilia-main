@@ -17,6 +17,7 @@
   "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Bolinho sem açúcar, Belive ou Suavipan: rótulo de cada um, adoçantes, glúten, leite e preço por unidade.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
@@ -27,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O bolinho da Belive é sem açúcar, sem glúten e sem leite, e a Belive publica a tabela nutricional. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó e não tem tabela no site. A Suavipan sai mais barata na farmácia; veja o preço por unidade e o capítulo Qual escolher."
+        "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata em 17/10/2026."
       ]
     },
     {
@@ -70,7 +71,12 @@
           [
             "Tabela nutricional",
             "Publicada: 0 g de açúcares totais e adicionados",
-            "Não publicada no site da marca nem na Drogasil"
+            "Publicada no site da marca, sem a linha de açúcares"
+          ],
+          [
+            "Calorias e carboidratos por bolinho de 40 g",
+            "123 kcal e 16 g",
+            "98 kcal e 22 g"
           ],
           [
             "Adoçantes",
@@ -112,7 +118,7 @@
       "heading": "Zero açúcar ou zero adição de açúcar",
       "paragraphs": [
         "As duas frases não querem dizer a mesma coisa. Pela regra de rotulagem dos alimentos embalados, \"sem açúcar\" exige no máximo 0,5 g de açúcares por porção e por 100 g. \"Zero adição de açúcar\" quer dizer que não entrou açúcar na receita, mas o produto pode ter os açúcares que já vêm nos ingredientes.",
-        "Quando um alimento \"sem adição\" não chega ao critério de zero açúcar, a regra manda pôr no rótulo a frase \"contém açúcares próprios dos ingredientes\". A lista da Suavipan na Drogasil traz essa frase. Como a marca não publica a tabela, não dá para saber quantos gramas são.",
+        "Quando um alimento \"sem adição\" não chega ao critério de zero açúcar, a regra manda pôr no rótulo a frase \"contém açúcares próprios dos ingredientes\". A lista da Suavipan na Drogasil traz essa frase. Como a tabela da marca não traz a linha de açúcares, não dá para saber quantos gramas são.",
         "A Belive mostra 0 g de açúcares totais e 0 g de adicionados na tabela do bolinho de chocolate. As outras diferenças entre os termos estão no guia de [doces sem açúcar para diabéticos](/reviews/doces-sem-acucar-para-diabeticos)."
       ]
     },
@@ -173,7 +179,7 @@
         ]
       },
       "postParagraphs": [
-        "A Suavipan não publica a tabela nutricional no site oficial, e a página da Drogasil também não traz. Por isso este comparativo não compara calorias nem carboidratos entre as duas marcas."
+        "A página da Suavipan publica a tabela do bolinho zero de chocolate com recheio: por unidade de 40 g, 98 kcal, 22 g de carboidratos, 2,2 g de proteínas, 3,5 g de gorduras totais, 3,5 g de fibras e 52 mg de sódio, sem a linha de açúcares. Por isso este comparativo compara calorias e carboidratos, mas não açúcares. Confira a tabela da embalagem que chegar na sua mão."
       ]
     },
     {
@@ -211,7 +217,7 @@
     {
       "heading": "Preço por unidade",
       "paragraphs": [
-        "Na unidade, a Suavipan sai mais barata na farmácia; no kit, a Belive leva. Preços de 17/10/2026. Conta nossa: o preço por unidade dos kits."
+        "Na unidade, a Suavipan saiu mais barata na farmácia; no kit, a Belive levou. Preços de 17/10/2026. Conta nossa: o preço por unidade dos kits."
       ],
       "comparisonTable": {
         "headers": [
@@ -267,7 +273,7 @@
     {
       "heading": "Sem açúcar é low carb?",
       "paragraphs": [
-        "Não necessariamente. O bolinho de chocolate da Belive tem 16 g de carboidratos em 40 g, com 0 g de açúcares. O da Suavipan não tem tabela publicada, e não dá para fazer a conta. Os brownies e os pães de mel da Belive seguem a mesma lógica, como mostram os guias do [brownie sem açúcar](/reviews/brownie-sem-acucar-belive) e do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive)."
+        "Não necessariamente. O bolinho de chocolate da Belive tem 16 g de carboidratos em 40 g, com 0 g de açúcares. O da Suavipan tem 22 g de carboidratos em 40 g, e a tabela dele não traz a linha de açúcares. Os brownies e os pães de mel da Belive seguem a mesma lógica, como mostram os guias do [brownie sem açúcar](/reviews/brownie-sem-acucar-belive) e do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive)."
       ]
     },
     {
@@ -285,29 +291,29 @@
       ],
       "bullets": [
         "Quer um bolinho sem açúcar, sem glúten e sem leite: o da Belive. O da Suavipan é zero adição de açúcar, leva farinha de trigo e leite em pó, e o rótulo avisa que ele contém açúcares próprios dos ingredientes.",
-        "Quer conferir os números antes de comprar: a Belive publica a tabela nutricional, com 0 g de açúcares e 16 g de carboidratos em 40 g. A Suavipan não publica a tabela no site.",
-        "Quer o menor preço por unidade: na Drogasil, a Suavipan sai a R$ 3,09, contra R$ 4,58 da Belive em oferta relâmpago, que pode acabar a qualquer hora. Com o MAUAD e o Pix, a unidade da Belive cai para R$ 3,92."
+        "Quer conferir os números antes de comprar: a tabela da Belive mostra 0 g de açúcares e 16 g de carboidratos em 40 g. A da Suavipan mostra 22 g de carboidratos em 40 g e não traz a linha de açúcares.",
+        "Quer o menor preço por unidade: na Drogasil, a Suavipan saiu a R$ 3,09, contra R$ 4,58 da Belive em oferta relâmpago, que pode acabar a qualquer hora. Com o MAUAD e o Pix, a unidade da Belive cai para R$ 3,92."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual bolinho sem açúcar não tem glúten nem leite, Belive ou Suavipan? O da Belive. A loja declara o bolinho sem glúten, sem leite e sem lactose. O da Suavipan leva farinha de trigo e leite em pó desnatado.",
-        "O bolinho da Suavipan é zero açúcar? A embalagem diz \"zero adição de açúcar\", e a lista de ingredientes traz a frase \"contém açúcares próprios dos ingredientes\". A marca não publica a tabela nutricional no site.",
+        "O bolinho da Suavipan é zero açúcar? A embalagem diz \"zero adição de açúcar\", e a lista de ingredientes traz a frase \"contém açúcares próprios dos ingredientes\". A tabela da página da marca não traz a linha de açúcares.",
         "Quantas calorias tem o bolinho sem açúcar da Belive? O de chocolate tem 123 kcal por unidade de 40 g, com 16 g de carboidratos e 0 g de açúcares.",
-        "Qual bolinho sai mais barato? Na farmácia, o da Suavipan: R$ 3,09 a unidade na Drogasil. A unidade da Belive estava a R$ 4,58 em oferta relâmpago, ou R$ 3,92 com o MAUAD e o Pix.",
+        "Qual bolinho sai mais barato? O da Suavipan na farmácia: R$ 3,09 a unidade na Drogasil. A unidade da Belive estava a R$ 4,58 em oferta relâmpago, ou R$ 3,92 com o MAUAD e o Pix.",
         "Bolinho sem açúcar pode ser comido por quem tem diabetes? O rótulo da Belive mostra 0 g de açúcares e 16 g de carboidratos por bolinho. A quantidade, quem tem diabetes combina com o médico ou o nutricionista."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Leve a Belive se você quer conferir calorias e carboidratos antes de comprar: a tabela nutricional é publicada.",
-      "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na farmácia ela sai mais barata."
+      "Leve a Belive se você quer conferir açúcares, calorias e carboidratos antes de comprar: a tabela dela traz 0 g de açúcares totais e adicionados.",
+      "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na Drogasil, ela saiu mais barata."
     ],
     "skipIf": [
       "Passe na Suavipan se você evita glúten ou leite: ela leva farinha de trigo e leite em pó.",
-      "Passe na Suavipan se você quer a tabela nutricional: o site dela não publica."
+      "Passe na Suavipan se você quer saber os açúcares pela tabela: a da página dela não traz essa linha."
     ]
   },
   "pros": [],

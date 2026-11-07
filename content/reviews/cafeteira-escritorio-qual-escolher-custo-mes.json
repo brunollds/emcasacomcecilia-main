@@ -17,6 +17,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Cafeteira para equipe: custo mensal para 5, 10 e 20 pessoas em Dolce Gusto, Nespresso e filtro.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
@@ -43,7 +44,7 @@
       ],
       "postParagraphs": [
         "Os 22 dias úteis são a média de um mês. Num mês com feriado, são 21. As duas bebidas por dia são uma suposição deste texto; troque pelos números da sua equipe, porque a fórmula continua valendo.",
-        "Bebida com leite conta em dobro. Na linha Dolce Gusto, cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas, e café, Nescau, Nestea e Mochaccino Canela usam uma. A tabela da seção de custo considera só bebidas de uma cápsula, então um escritório que pede muito cappuccino gasta mais do que ela mostra."
+        "Bebida de duas cápsulas conta em dobro. Na linha Dolce Gusto, cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas, e café, Nescau, Nestea e Mochaccino Canela (que leva leite) usam uma. A tabela da seção de custo considera só bebidas de uma cápsula, então um escritório que pede muito cappuccino gasta mais do que ela mostra."
       ]
     },
     {
@@ -56,7 +57,7 @@
           "Perfil",
           "Máquina que faz sentido",
           "Por que",
-          "Custo mensal (sem cupom)"
+          "Custo mensal do consumo (sem cupom)"
         ],
         "rows": [
           [
@@ -88,15 +89,15 @@
     {
       "heading": "Quanto custa por mês para 5, 10 e 20 pessoas",
       "paragraphs": [
-        "O filtro é o mais barato por bebida; na cápsula, o combo de 50 caixas da Dolce Gusto leva. Valores em reais por mês, com os preços lidos nas lojas em 19/10/2026, sem cupom e sem a máquina, e 44 bebidas por pessoa, todas de uma cápsula."
+        "O filtro é o mais barato por bebida; na cápsula, o combo de 50 caixas da Dolce Gusto leva. Valores em reais por mês, com os preços lidos nas lojas em 19/10/2026, sem cupom e sem a máquina, e 44 bebidas por pessoa, todas de uma cápsula. Nas linhas de cápsula, os valores são o custo das cápsulas consumidas (preço do combo dividido pelas cápsulas), não o desembolso da compra: o combo é vendido fechado."
       ],
       "comparisonTable": {
         "headers": [
           "Opção",
           "Por cápsula ou bebida",
-          "5 pessoas",
-          "10 pessoas",
-          "20 pessoas"
+          "5 pessoas (consumo do mês)",
+          "10 pessoas (consumo do mês)",
+          "20 pessoas (consumo do mês)"
         ],
         "rows": [
           [
@@ -174,7 +175,7 @@
         }
       ],
       "postParagraphs": [
-        "Os preços mudam com a promoção do dia. A faixa da Nespresso Original vem da caixa de 10 cápsulas, de R$ 37,00 a R$ 42,00. A Baggio é de terceiro: a caixa de 10 para Dolce Gusto custa R$ 25,90, e a própria loja diz que Nespresso e Dolce Gusto são marcas de terceiros, sem relação com ela. A xícara do filtro, de 100 ml, é o único volume que entra na conta."
+        "Exemplo de compra, só com o combo de 50 caixas (500 cápsulas) a R$ 809,25: para 5 pessoas, que consomem 220 cápsulas no mês, o desembolso é de R$ 809,25 e sobram 280 cápsulas; para 20 pessoas, que consomem 880, são dois combos, R$ 1.618,50, e sobram 120. São exemplos de compra só desse combo, não a combinação mais econômica entre todos os lotes. Os preços mudam com a promoção do dia. A faixa da Nespresso Original vem da caixa de 10 cápsulas, de R$ 37,00 a R$ 42,00. A Baggio é de terceiro: a caixa de 10 para Dolce Gusto custa R$ 25,90, e a própria loja diz que Nespresso e Dolce Gusto são marcas de terceiros, sem relação com ela. A xícara do filtro, de 100 ml, é o único volume que entra na conta."
       ]
     },
     {
@@ -350,7 +351,7 @@
       "paragraphs": [
         "Advocacia, consultório e MEI usam a mesma conta: pessoas × 2 bebidas × 22 dias úteis. Consultório e MEI costumam caber no perfil de 2 a 5 pessoas. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
         "Para quem prefere cafeteira elétrica sem cápsula, as Oster citadas acima custam de R$ 179,90 a R$ 309,90. A máquina é pagamento único, e o custo que se repete é o do pó: com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44.",
-        "Escritório de 15 pessoas ou mais entra na conta de 20 pessoas da tabela mensal. Com 20 pessoas, a caixa avulsa da Dolce Gusto sai por R$ 2.191,20 no mês e o combo de 50 caixas por R$ 1.424,28."
+        "Escritório de 15 pessoas ou mais entra na conta de 20 pessoas da tabela mensal. Com 20 pessoas, a caixa avulsa da Dolce Gusto sai por R$ 2.191,20 no mês e o combo de 50 caixas por R$ 1.424,28, em custo das cápsulas consumidas."
       ]
     },
     {
@@ -372,7 +373,7 @@
         "A escolha depende de quem toma o quê. Os valores são sem cupom e sem a máquina, e a conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula."
       ],
       "bullets": [
-        "5 pessoas (220 bebidas por mês): Dolce Gusto, no preço por bebida do combo para negócios de 50 caixas, R$ 356,07 por mês; no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
+        "5 pessoas (220 bebidas por mês): Dolce Gusto, no combo para negócios de 50 caixas, R$ 356,07 por mês em cápsulas consumidas (a compra do combo é de R$ 809,25 de uma vez); no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
         "10 pessoas (440 bebidas): Dolce Gusto em 50 caixas, R$ 712,14; filtro, R$ 193,32.",
         "20 pessoas (880 bebidas): Dolce Gusto em 50 caixas, R$ 1.424,28; filtro, R$ 386,64."
       ],
@@ -388,7 +389,7 @@
         "Qual a melhor cafeteira de cápsula para escritório? Não há uma melhor para todos: para a equipe que quer variedade e custo baixo por bebida, a Dolce Gusto com combo de negócios; para espresso com leite fresco em volume, a linha profissional da Nespresso, com preço sob contato.",
         "Cafeteira grande para escritório: qual escolher? Grande aqui quer dizer volume: a Oster Black tem jarra de 0,7 L, e o reservatório das Dolce Gusto Mini Me e Genio S é de 0,8 L. A ficha que lemos não diz quantas xícaras cabem em cada máquina.",
         "O cupom CECI vale nos combos para negócios? Vale, na loja oficial da Dolce Gusto, com 10% OFF sobre o preço do dia em compras a partir de R$ 100; o combo de 50 caixas sai por R$ 728,33.",
-        "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas: com 5 pessoas e 44 bebidas cada no mês, o combo de 20 caixas da Dolce Gusto sai a R$ 410,85, e a tabela mensal tem as contas para 5, 10 e 20 pessoas."
+        "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas: com 5 pessoas e 44 bebidas cada no mês, o combo de 20 caixas da Dolce Gusto sai a R$ 410,85 em cápsulas consumidas, e a tabela mensal tem as contas para 5, 10 e 20 pessoas. O combo é vendido fechado: o de 20 caixas custa R$ 373,50 de uma vez."
       ]
     }
   ],

@@ -34,6 +34,7 @@
   "metaDescription": "OpenClaw na Hostinger com o SONAR20 e 20% OFF: gerenciado ou VPS, o preço com e sem o código, a renovação, os créditos de IA e quem cuida do servidor.",
   "publishedAt": "21 de outubro de 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
@@ -97,7 +98,7 @@
           ],
           [
             "Acesso root",
-            "A página fala em acesso à linha de comando, sem citar root",
+            "Não",
             "Sim"
           ],
           [
@@ -134,7 +135,7 @@
       "postParagraphs": [
         "Com o SONAR20, o gerenciado sai R$ 96 mais barato que o KVM 1 nos primeiros 24 meses. Depois, os dois custam o mesmo. A renovação vem ligada por padrão; veja [como a Hostinger cobra e renova](/reviews/hostinger-e-confiavel).",
         "O plano não é tudo: o uso da IA entra à parte. Com os créditos da Hostinger, o gerenciado traz um saldo inicial, e o que passar dele é cobrado conforme o consumo. O preço da recarga não aparece em nenhuma página pública, então confira no painel antes de contar com ele. Com a sua chave, o provedor (OpenAI, Anthropic ou outro) cobra direto de você, conforme o modelo e o volume de conversas.",
-        "O gerenciado tem 30 dias para pedir reembolso. No VPS, os 30 dias valem só se o último reembolso de VPS tiver sido pedido há mais de 180 dias. VPS de 12 meses ou mais leva um domínio .cloud ou .tech grátis no primeiro ano."
+        "O gerenciado tem 30 dias para pedir reembolso. No VPS, os 30 dias valem só quando já passaram 180 dias da conclusão do último reembolso de VPS, se houve um; confira as exceções na política de reembolso da Hostinger. VPS de 12 meses ou mais leva um domínio .cloud ou .tech grátis no primeiro ano."
       ]
     },
     {
@@ -161,10 +162,10 @@
       "heading": "Segurança: quando muda a decisão",
       "paragraphs": [
         "A pergunta é quem cuida dos dados e das credenciais. No gerenciado, a Hostinger diz que cada instância roda isolada num contêiner, com um gateway de segurança próprio. É a descrição da Hostinger, não um teste nosso. No VPS, a própria Hostinger diz que, com acesso root, a configuração, as atualizações e a segurança ficam com quem contratou.",
-        "A política de segurança do OpenClaw diz que ele é feito para uma pessoa de confiança, não para várias pessoas que não se conhecem: quem consegue falar com o assistente pode fazer com que ele use as ferramentas dele. Isso muda a escolha em três casos:"
+        "A documentação do OpenClaw diz que cada gateway é um único limite de confiança: serve a uma pessoa ou a uma equipe em que todos confiam uns nos outros, e não a pessoas que não confiam entre si. Quem consegue falar com o assistente pode fazer com que ele use as ferramentas dele. Isso muda a escolha em três casos:"
       ],
       "bullets": [
-        "**Mais de uma pessoa vai usar o assistente** (família ou equipe): o projeto recomenda um servidor por pessoa. No VPS, isso é direto; no gerenciado, pergunte à Hostinger quantas instâncias uma conta pode ter.",
+        "**Mais de uma pessoa vai usar o assistente** (família ou equipe): só se todos confiam uns nos outros, porque todos dividem o acesso do assistente às ferramentas; quem não confia precisa de um servidor separado. No VPS, isso é direto; no gerenciado, pergunte à Hostinger quantas instâncias uma conta pode ter.",
         "**O assistente vai ter acesso ao seu e-mail, ao banco ou a outras contas:** o projeto pede que o servidor não tenha contas pessoais logadas. A Hostinger sugere uma caixa de e-mail separada para o assistente.",
         "**No VPS, guarde o token do gateway** que a instalação gera e não o mande em conversa com o assistente."
       ]
@@ -261,7 +262,7 @@
     "skipIf": [
       "Passe no VPS se você não sabe o que é root nem Docker: atualizar e proteger o sistema fica com você.",
       "Passe no gerenciado se você precisa de acesso root ou de mais memória e disco.",
-      "Passe se o mesmo assistente vai atender várias pessoas: o projeto recomenda um servidor por pessoa."
+      "Passe se o mesmo assistente vai atender pessoas que não confiam umas nas outras: o projeto pede um servidor separado para cada uma."
     ]
   },
   "pros": [],

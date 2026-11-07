@@ -35,6 +35,7 @@
   "metaDescription": "Conviene Hostinger Reach? Quadro per profilo, piani, limiti di invio, WhatsApp e rinnovo in dollari al 30 ottobre 2026, a confronto con i piani gratuiti di Mailchimp e Brevo.",
   "publishedAt": "30 ottobre 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
@@ -78,7 +79,7 @@
           [
             "Oltre il limite gratis, fino a 1.000 contatti",
             "Reach Grow o Pro",
-            "Reach Pro arriva a 1.000 destinatari per 2,79 US$ al mese per i primi 12 mesi (rinnovo a 3,99 US$)."
+            "Il Grow copre fino a 500 destinatari. Reach Pro arriva a 1.000 destinatari per 2,79 US$ al mese per i primi 12 mesi (rinnovo a 3,99 US$)."
           ],
           [
             "Lista oltre i 1.000 contatti",
@@ -136,7 +137,7 @@
         "**Grow:** 500 destinatari, 3.500 email al mese e 10 crediti AI al mese. Toglie il marchio Reach e include personalizzazione, programmazione e automazioni.",
         "**Pro:** 1.000 destinatari, 7.000 email al mese e 20 crediti AI al mese. Aggiunge HTML, orario di invio ottimizzato, campagne WhatsApp, campi personalizzati e colleghi di team."
       ],
-      "emphasis": "Se sei indeciso tra i piani, a decidere è la dimensione della lista. Chi supera i 1.000 destinatari è già fuori da Reach."
+      "emphasis": "Se sei indeciso tra i piani, a decidere è la dimensione della lista. I piani della pagina arrivano a 1.000 destinatari; oltre, controlla nel carrello se esiste una fascia Pro più grande, oppure vai su Mailchimp o Brevo."
     },
     {
       "heading": "Mailchimp e Brevo: il piano gratuito",
@@ -176,8 +177,8 @@
     {
       "heading": "Quando la lista cresce",
       "paragraphs": [
-        "Il primo limite che pesa è quello dei destinatari: 100 nello Starter, 500 nel Grow e 1.000 nel Pro. I piani Reach si fermano lì. Chi ha o prevede più di 1.000 contatti va su Mailchimp o Brevo, che fanno pagare per fascia di contatti o di invii.",
-        "Il secondo limite è quello degli invii. Nel Grow, 3.500 email al mese con 500 destinatari fanno 7 invii a tutta la lista nel mese; nel Pro, 7.000 email con 1.000 destinatari ne fanno ancora 7. Una newsletter settimanale ci sta. Scrivere a tutta la lista più di una volta a settimana supera il limite."
+        "Il primo limite che pesa è quello dei destinatari: 100 nello Starter, 500 nel Grow e 1.000 nel Pro. I piani Reach della pagina si fermano lì. Il limite conta i destinatari unici nel mese, non i contatti salvati. Chi ha o prevede più di 1.000 contatti va su Mailchimp o Brevo, che fanno pagare per fascia di contatti o di invii.",
+        "Il secondo limite è quello degli invii. Nel Grow, 3.500 email al mese con 500 destinatari fanno 7 invii a tutta la lista nel mese; nel Pro, 7.000 email con 1.000 destinatari ne fanno ancora 7. Il tetto è mensile e conta ogni email inviata: moltiplica gli invii del mese per i destinatari reali. Una newsletter settimanale ci sta."
       ],
       "bullets": [
         "**Non hai ancora un dominio?** Se vuoi l'indirizzo del tuo sito come mittente, guarda [dominio su Hostinger: comprare, trasferire o registrare altrove](/it/reviews/dominio-hostinger-comprare-o-trasferire).",
@@ -196,7 +197,7 @@
       "paragraphs": [
         "**Conviene** a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Il Grow copre una lista fino a 500 con automazioni; il Pro, una fino a 1.000 e WhatsApp. Il rinnovo del Grow (2,49 US$ al mese) e del Pro (3,99 US$ al mese) fa parte della decisione: controllalo prima di pagare.",
         "**Resta sul piano gratuito di Mailchimp o di Brevo** se la lista è all'inizio e non sai ancora se manderai email spesso. Reach non ha un piano gratuito.",
-        "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se scrivi a tutta la lista più di una volta a settimana: i piani Reach si fermano a 1.000 destinatari e 7.000 email al mese.",
+        "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se ti servono più di 7 invii al mese a tutta la lista: i piani Reach si fermano a 1.000 destinatari e 7.000 email al mese.",
         "Se fosse per il mio sito, sceglierei il Reach Grow, perché copre una lista fino a 500 con automazioni e si rinnova a 2,49 US$ al mese."
       ]
     },
@@ -250,7 +251,7 @@
     ],
     "skipIf": [
       "Lascia stare se la lista è all'inizio e sta nel piano gratuito di Mailchimp o di Brevo.",
-      "Lascia stare se la lista supera i 1.000 contatti o se scrivi a tutti più di una volta a settimana."
+      "Lascia stare se la lista supera i 1.000 contatti o se scrivi a tutti più di 7 volte al mese."
     ]
   }
 }

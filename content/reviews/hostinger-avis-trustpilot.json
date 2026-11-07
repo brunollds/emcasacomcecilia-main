@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger sur Trustpilot (24 octobre 2026) : TrustScore 4,6 pour 73 411 avis, 99 % des avis négatifs traités, facturation et renouvellement parmi les plaintes principales. Voyez comment désactiver le renouvellement.",
   "publishedAt": "19 octobre 2026",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -45,7 +46,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 411 avis sur Trustpilot et avait répondu à 99 % des avis négatifs. L’entreprise invite ses clients à noter, ce qui gonfle la moyenne, et les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement. Pour l’hébergement, la facturation demande de surveiller le renouvellement automatique ; voyez plus bas comment le désactiver. Les 20 % de la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
+        "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 411 avis sur Trustpilot et avait répondu à 99 % des avis négatifs. L’entreprise invite ses clients à noter, ce qui peut gonfler la moyenne, et les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement. Pour l’hébergement, la facturation demande de surveiller le renouvellement automatique ; voyez plus bas comment le désactiver. Les 20 % de la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -170,7 +171,7 @@
         ]
       },
       "postParagraphs": [
-        "D’abord, les avis à cinq étoiles arrivent beaucoup plus vite, et presque tous par invitation : 100 en environ cinq jours, dont 78 invités. Les avis à une étoile mettent environ 18 jours à atteindre 100, et 92 sont spontanés. Notre lecture : l’invitation fait monter la moyenne. La note mesure les clients qui ont été invités et ont répondu, pas l’ensemble des clients.",
+        "D’abord, les avis à cinq étoiles arrivent beaucoup plus vite, et presque tous par invitation : 100 en environ cinq jours, dont 78 invités. Les avis à une étoile mettent environ 18 jours à atteindre 100, et 92 sont spontanés. Les deux échantillons couvrent des périodes différentes : ils ne mesurent pas de combien les invitations font monter la note globale. Ils montrent seulement que les avis à cinq étoiles viennent surtout de clients invités, et ceux à une étoile de clients venus d’eux-mêmes.",
         "Ensuite, les avis à une étoile sont presque quatre fois plus longs. Ils décrivent un problème concret, avec des dates, des produits et des montants. Les avis à cinq étoiles tiennent en général en une phrase.",
         "Enfin, un avis à une étoile sur sept de notre échantillon est un éloge donné avec la mauvaise note : 14 des 100 ont un texte positif, comme « Great hosting » ou « easy to use », sous une étoile. Malgré cela, 6,9 % de 73 411, cela fait encore environ 5 100 personnes très mécontentes. La part est petite ; le nombre de personnes ne l’est pas."
       ]
@@ -207,17 +208,17 @@
     {
       "heading": "Comment désactiver le renouvellement automatique",
       "paragraphs": [
-        "Selon le centre d’aide de Hostinger, consulté le 19 octobre 2026, le chemin est le suivant :"
+        "Selon le centre d’aide de Hostinger, le chemin est le suivant :"
       ],
       "bullets": [
-        "Dans hPanel, ouvrez la zone de facturation.",
-        "Allez à la section des services.",
-        "Ouvrez le menu à trois points à côté du produit.",
-        "Entrez dans les paramètres de renouvellement.",
-        "Désactivez l’option de renouvellement automatique, puis enregistrez."
+        "Dans hPanel, ouvrez votre profil, puis la section Facturation (Billing).",
+        "Choisissez Abonnements (Subscriptions).",
+        "Repérez le service à modifier.",
+        "Cliquez sur le bouton à bascule à côté du service : une page présente les risques et avertissements pour ce type de produit.",
+        "Lisez les informations, puis confirmez votre choix."
       ],
       "postParagraphs": [
-        "Option désactivée, le produit reste actif jusqu’à la date d’échéance. Pour la réactiver, il faut un moyen de paiement enregistré. Le centre d’aide précise aussi que si le renouvellement est à un jour ou moins de l’échéance, il faut renouveler manuellement avant de réactiver l’option. Les noms des menus peuvent changer ; si c’est le cas, cherchez l’option de renouvellement automatique dans la section de facturation."
+        "Option désactivée, le produit reste actif jusqu’à la date d’échéance. Pour la réactiver, cliquez de nouveau sur le même bouton à bascule. Désactiver l’option ne rembourse pas les paiements déjà traités. Les noms des menus peuvent changer ; si c’est le cas, cherchez l’option de renouvellement automatique dans la section de facturation."
       ]
     },
     {
@@ -238,7 +239,7 @@
     {
       "heading": "Peut-on faire confiance à Hostinger ?",
       "paragraphs": [
-        "Selon Trustpilot, oui. La note était de 4,6 pour 73 411 avis, avec 87,1 % de cinq étoiles, et l’entreprise a répondu à 99 % des avis négatifs, soit 80 des 86 plaintes de notre échantillon.",
+        "Selon Trustpilot, oui. La note était de 4,6 pour 73 411 avis, avec 87,1 % de cinq étoiles. Le profil indique que l’entreprise répond à 99 % des avis négatifs ; dans notre échantillon, 80 des 86 plaintes avaient une réponse, soit environ 93 %.",
         "La réserve porte sur la façon dont la note est construite et sur ce que disent les plaintes. Le profil est géré par l’entreprise, qui invite ses clients à noter : dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Les plaintes se concentrent sur le support par IA sans moyen de joindre une personne, sur la facturation et le renouvellement, et sur les domaines.",
         "En pratique : vérifiez la date de renouvellement, désactivez le renouvellement automatique si vous ne voulez pas continuer, et lisez quelques avis à une étoile ainsi que les réponses du profil avant d’acheter, car les chiffres changent chaque mois."
       ]
@@ -250,21 +251,21 @@
         "Les avis Hostinger sur Trustpilot sont-ils fiables ? Le profil est revendiqué et géré par l’entreprise, qui invite ses clients à noter. Dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Trustpilot dit qu’il ne vérifie pas les avis un par un.",
         "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Dans les 86 plaintes lues parmi les 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
         "Hostinger répond-il aux avis négatifs ? Oui. La page indique que l’entreprise répond à 99 % des avis négatifs, en général dans les 24 heures, et qu’elle peut utiliser l’IA dans ses réponses. Dans notre échantillon, 80 des 86 plaintes avaient une réponse.",
-        "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance.",
-        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+        "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez votre profil, puis Facturation et Abonnements, repérez le service et cliquez sur le bouton à bascule à côté. Lisez les avertissements et confirmez. Le produit reste actif jusqu’à l’échéance.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %, sauf sur l’enregistrement d’un domaine. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
       "heading": "Si vous avez déjà décidé",
       "paragraphs": [
-        "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
+        "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Les 20 % valent pour un nouvel achat de forfait ou de produit, hors enregistrement de domaine ; le renouvellement est facturé au prix catalogue, sans réduction. Voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+    "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour un nouvel achat de forfait ou de produit, hors enregistrement de domaine ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les offres avec réduction",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

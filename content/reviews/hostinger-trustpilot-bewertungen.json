@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger auf Trustpilot (24. Oktober 2026): TrustScore 4,6 aus 73.411 Bewertungen, 99 % der negativen beantwortet, Abrechnung und Verlängerung unter den häufigsten Beschwerden. So schalten Sie die Verlängerung ab.",
   "publishedAt": "19. Oktober 2026",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -45,7 +46,7 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Ja, mit einem Vorbehalt. Am 24. Oktober 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.411 Bewertungen und hatte 99 % der negativen beantwortet. Die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treibt, und die meistgenannten Beschwerden betreffen KI-Support, Abrechnung und Verlängerung. Beim Hosting verlangt die Abrechnung einen Blick auf die automatische Verlängerung; unten steht, wie Sie sie abschalten. Die 20 % im ersten Zeitraum kommen vom [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger)."
+        "Ja, mit einem Vorbehalt. Am 24. Oktober 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.411 Bewertungen und hatte 99 % der negativen beantwortet. Die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treiben kann, und die meistgenannten Beschwerden betreffen KI-Support, Abrechnung und Verlängerung. Beim Hosting verlangt die Abrechnung einen Blick auf die automatische Verlängerung; unten steht, wie Sie sie abschalten. Die 20 % im ersten Zeitraum kommen vom [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger)."
       ]
     },
     {
@@ -170,7 +171,7 @@
         ]
       },
       "postParagraphs": [
-        "Erstens kommen Fünf-Sterne-Bewertungen viel schneller und fast alle auf Einladung: 100 in etwa fünf Tagen, davon 78 eingeladen. Ein-Stern-Bewertungen brauchen rund 18 Tage bis 100, und 92 davon sind spontan. Unsere Lesart: Die Einladung hebt den Schnitt. Die Bewertung misst die Kunden, die eingeladen wurden und geantwortet haben, nicht alle Kunden.",
+        "Erstens kommen Fünf-Sterne-Bewertungen viel schneller und fast alle auf Einladung: 100 in etwa fünf Tagen, davon 78 eingeladen. Ein-Stern-Bewertungen brauchen rund 18 Tage bis 100, und 92 davon sind spontan. Die beiden Stichproben decken unterschiedliche Zeiträume ab und messen daher nicht, wie stark Einladungen die Gesamtnote verschieben. Sie zeigen nur, dass die Fünf-Sterne-Bewertungen überwiegend von eingeladenen Kunden stammen und die Ein-Stern-Bewertungen von Kunden, die von sich aus geschrieben haben.",
         "Zweitens sind Ein-Stern-Bewertungen fast viermal so lang. Sie beschreiben ein konkretes Problem, mit Daten, Produkten und Beträgen. Fünf-Sterne-Bewertungen bestehen meist aus einem Satz.",
         "Drittens ist eine von sieben Ein-Stern-Bewertungen in unserer Stichprobe ein Lob mit der falschen Note: 14 der 100 haben positiven Text, etwa „Great hosting“ oder „easy to use“, aber nur einen Stern. Trotzdem sind 6,9 % von 73.411 immer noch etwa 5.100 Menschen, die sehr unzufrieden waren. Der Anteil ist klein; die Zahl der Menschen nicht."
       ]
@@ -207,17 +208,17 @@
     {
       "heading": "So schalten Sie die automatische Verlängerung ab",
       "paragraphs": [
-        "Laut dem Hilfecenter von Hostinger, abgerufen am 19. Oktober 2026, geht es so:"
+        "Laut dem Hilfecenter von Hostinger geht es so:"
       ],
       "bullets": [
-        "Öffnen Sie im hPanel den Bereich für Rechnungen.",
-        "Gehen Sie zur Seite der Dienste.",
-        "Öffnen Sie neben dem Produkt das Menü mit den drei Punkten (⋮).",
-        "Wählen Sie die Verlängerungseinstellungen.",
-        "Deaktivieren Sie die Option zur automatischen Verlängerung und speichern Sie."
+        "Öffnen Sie im hPanel Ihr Profil und wählen Sie Abrechnung (Billing).",
+        "Wählen Sie Abonnements (Subscriptions).",
+        "Suchen Sie den Dienst, den Sie ändern möchten.",
+        "Klicken Sie auf den Schalter daneben: Es öffnet sich eine Seite mit den Risiken und Hinweisen zu diesem Produkttyp.",
+        "Lesen Sie die Hinweise und bestätigen Sie Ihre Wahl."
       ],
       "postParagraphs": [
-        "Ist die Option ausgeschaltet, bleibt das Produkt bis zum Ablaufdatum aktiv. Um sie wieder einzuschalten, braucht es ein hinterlegtes Zahlungsmittel. Das Hilfecenter sagt außerdem: Liegt die Verlängerung einen Tag oder weniger vor dem Ablauf, muss man manuell verlängern, bevor man die Option wieder aktiviert. Menünamen können sich ändern; in dem Fall suchen Sie im Bereich für Rechnungen nach der Option für die automatische Verlängerung."
+        "Ist die Option ausgeschaltet, bleibt das Produkt bis zum Ablaufdatum aktiv. Um sie wieder einzuschalten, klicken Sie erneut auf denselben Schalter. Das Abschalten erstattet bereits verbuchte Zahlungen nicht. Menünamen können sich ändern; in dem Fall suchen Sie im Bereich für Rechnungen nach der Option für die automatische Verlängerung."
       ]
     },
     {
@@ -238,7 +239,7 @@
     {
       "heading": "Kann man Hostinger vertrauen?",
       "paragraphs": [
-        "Nach Trustpilot ja. Die Bewertung lag bei 4,6 aus 73.411 Bewertungen, 87,1 % davon mit fünf Sternen, und das Unternehmen antwortete auf 99 % der negativen, also auf 80 der 86 Beschwerden unserer Stichprobe.",
+        "Nach Trustpilot ja. Die Bewertung lag bei 4,6 aus 73.411 Bewertungen, 87,1 % davon mit fünf Sternen. Laut Profil antwortet das Unternehmen auf 99 % der negativen; in unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort, rund 93 %.",
         "Der Vorbehalt betrifft, wie die Bewertung entsteht und was die Beschwerden sagen. Das Profil verwaltet das Unternehmen, das Kunden zu Bewertungen einlädt: In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Die Beschwerden drehen sich um KI-Support ohne Weg zu einer Person, um Abrechnung und Verlängerung sowie um Domains.",
         "In der Praxis: Prüfen Sie das Verlängerungsdatum, schalten Sie die automatische Verlängerung ab, wenn Sie nicht weitermachen wollen, und lesen Sie vor dem Kauf einige Ein-Stern-Bewertungen und die Antworten im Profil, denn die Zahlen ändern sich jeden Monat."
       ]
@@ -250,21 +251,21 @@
         "Sind die Trustpilot-Bewertungen von Hostinger verlässlich? Das Profil ist beansprucht und wird von der Firma verwaltet, die Kunden zur Bewertung einlädt. In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Trustpilot sagt, dass es die Bewertungen nicht einzeln prüft.",
         "Worüber beschweren sich Hostinger-Kunden auf Trustpilot? In den 86 Beschwerden, die wir unter den 100 neuesten Ein-Stern-Bewertungen gelesen haben, waren die wichtigsten Themen KI-Support und keine Verbindung zu einem Menschen (etwa 45), Abrechnung und Verlängerung (etwa 38) und Domains (etwa 27).",
         "Antwortet Hostinger auf negative Bewertungen? Ja. Die Seite sagt, dass das Unternehmen auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden, und dass es für Antworten KI nutzen kann. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort.",
-        "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie beim Produkt das Menü mit den drei Punkten, wählen Sie die Verlängerungseinstellungen, deaktivieren Sie die automatische Verlängerung und speichern Sie. Das Produkt bleibt bis zum Ablaufdatum aktiv.",
-        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+        "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel Ihr Profil, dann Abrechnung und Abonnements, suchen Sie den Dienst und klicken Sie auf den Schalter daneben. Lesen Sie die Hinweise und bestätigen Sie. Das Produkt bleibt bis zum Ablaufdatum aktiv.",
+        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %, außer bei der Domainregistrierung. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },
     {
       "heading": "Wenn Sie sich schon entschieden haben",
       "paragraphs": [
-        "Wenn Sie kaufen möchten, geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum. Die [Hostinger-Seite](/de/coupons/hostinger) zeigt die Details. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Lesen Sie den [Gutschein-Artikel](/de/reviews/hostinger-gutschein-empfehlungscode). Wenn Ihre Frage das Black Friday betrifft, zeigt der [Ratgeber zur Aktion](/de/reviews/hostinger-black-friday-angebote) die Rechnung mit dem Code, und der [Artikel zur Vertrauenswürdigkeit](/de/reviews/ist-hostinger-serioes) behandelt Erstattung und Sicherheit des Unternehmens."
+        "Wenn Sie kaufen möchten, geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum. Die [Hostinger-Seite](/de/coupons/hostinger) zeigt die Details. Die 20 % gelten für den Neukauf von Tarifen und Produkten, nicht für die Domainregistrierung; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Lesen Sie den [Gutschein-Artikel](/de/reviews/hostinger-gutschein-empfehlungscode). Wenn Ihre Frage den Black Friday betrifft, zeigt der [Ratgeber zur Aktion](/de/reviews/hostinger-black-friday-angebote) die Rechnung mit dem Code, und der [Artikel zur Vertrauenswürdigkeit](/de/reviews/ist-hostinger-serioes) behandelt Erstattung und Sicherheit des Unternehmens."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für den Neukauf von Tarifen und Produkten, nicht für die Domainregistrierung; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
     "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

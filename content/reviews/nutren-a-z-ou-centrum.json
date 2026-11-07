@@ -17,6 +17,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Nutren A-Z ou Centrum A a Zinco: dose de cada vitamina e mineral e quanto cada um custa por dia.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa.webp",
@@ -27,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. O Nutren sai bem mais barato por dia (contas nossas), mas o Centrum lista também cálcio, fósforo, magnésio e iodo. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren."
+        "O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. Nas lojas e embalagens comparadas, o Nutren sai mais barato por dia (contas nossas), mas o Centrum lista também cálcio, fósforo, magnésio e iodo. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren."
       ]
     },
     {
@@ -289,7 +290,7 @@
       "emphasis": "Pelos números da tabela, para o perfil que procura cálcio, fósforo, magnésio e iodo no mesmo frasco a escolha é o Centrum, porque o Nutren não lista nenhum dos quatro.",
       "bullets": [
         "Quem quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico: o Centrum é o que traz esses nutrientes na tabela.",
-        "Quem prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitamina A, vitamina E, selênio, cobre, cromo e molibdênio, ou menor preço por dia: o Nutren A-Z Multi.",
+        "Quem prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitamina A, vitamina E, selênio, cobre, cromo e molibdênio, ou menor preço por dia nas lojas comparadas: o Nutren A-Z Multi.",
         "Quem quer evitar glúten: os dois declaram não conter.",
         "Quem segue dieta sem produtos de origem animal: o Nutren tem gelatina, carmim e cera de abelha; no Centrum, a Drogasil lista vitamina A suína e vitamina D3 bovina e ovina."
       ],
@@ -300,7 +301,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Nutren A-Z ou Centrum? Os dois têm uma unidade por dia e 60 por frasco. O Nutren tem doses maiores de ferro, ácido fólico, vitaminas A e E, selênio, cobre, cromo e molibdênio e custa menos por dia; o Centrum traz cálcio, fósforo, magnésio e iodo.",
+        "Nutren A-Z ou Centrum? Os dois têm uma unidade por dia e 60 por frasco. O Nutren tem doses maiores de ferro, ácido fólico, vitaminas A e E, selênio, cobre, cromo e molibdênio e saiu mais barato por dia nas lojas comparadas; o Centrum traz cálcio, fósforo, magnésio e iodo.",
         "O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.",
         "O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.",
         "O Centrum A a Zinco tem lactose? A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose.",
@@ -315,7 +316,7 @@
       "Você quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico."
     ],
     "skipIf": [
-      "Você prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitaminas A e E, ou menor preço por dia: nesse caso, o Nutren A-Z Multi.",
+      "Você prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitaminas A e E, ou menor preço por dia nas lojas comparadas: nesse caso, o Nutren A-Z Multi.",
       "Você segue dieta sem produtos de origem animal: os dois têm itens de origem animal.",
       "Você está grávida ou amamentando: a Drogasil avisa que o Centrum só deve ser usado com orientação médica."
     ]

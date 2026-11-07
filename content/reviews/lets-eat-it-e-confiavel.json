@@ -17,6 +17,7 @@
   "metaDescription": "O cupom MAUAD dá 5% OFF no site da Let's Eat It. A loja é confiável? CNPJ, Le Creuset, troca em 30 dias, frete, Reclame Aqui e a Casa Let's em São Paulo.",
   "publishedAt": "3 de outubro de 2026",
   "publishedAtISO": "2026-10-03",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/letseatit/lets-eat-it-e-confiavel-capa-discover.webp",
@@ -27,7 +28,7 @@
     "Aparece no localizador de lojas oficial da Le Creuset Brasil",
     "Política de 30 dias para devolução, com etiqueta de envio enviada pela loja e reembolso integral",
     "Reposição gratuita de produto danificado no transporte, mediante fotos",
-    "Reputação Boa no Reclame Aqui, com 99,1% das reclamações respondidas nos últimos 6 meses",
+    "Reputação Boa no Reclame Aqui, com 99,1% das reclamações respondidas de abril a setembro",
     "Loja física em São Paulo, a Casa Let's, com 15% de desconto nas compras presenciais (exceto Le Creuset e Trussardi)"
   ],
   "cons": [
@@ -35,7 +36,7 @@
     "Tempo médio de resposta de 16 dias no Reclame Aqui",
     "\"Produto não recebido\" é o problema mais citado nas reclamações",
     "O site mantém, além da política oficial, um texto genérico de reembolso com regras diferentes",
-    "Não há frete grátis: o frete é calculado pelo CEP e pelo peso do pedido",
+    "O frete é calculado pelo CEP e pelo peso do pedido; a política padrão da loja cita frete grátis só para Le Creuset e Zwilling acima de R$ 1.000",
     "Não é possível retirar na Casa Let's um pedido feito no site"
   ],
   "contentSections": [
@@ -173,7 +174,7 @@
         "Norte e Nordeste: 7 a 12 dias úteis."
       ],
       "postParagraphs": [
-        "A loja não oferece frete grátis: o valor é calculado pelo CEP e pelo peso do pedido, e dá para simular na página do produto. Os prazos podem mudar em períodos promocionais. Se uma peça chegar danificada, a loja faz a reposição sem custo: basta enviar fotos do produto e da embalagem pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br. A política não informa um prazo para esse aviso, então o melhor é avisar logo depois de abrir a caixa."
+        "O frete é calculado pelo CEP e pelo peso do pedido, e dá para simular na página do produto. A política padrão da loja cita frete grátis em pedidos acima de R$ 1.000 em produtos Le Creuset e Zwilling; confirme no carrinho se vale para o seu pedido. Os prazos podem mudar em períodos promocionais. Se uma peça chegar danificada, a loja faz a reposição sem custo: basta enviar fotos do produto e da embalagem pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br. A política não informa um prazo para esse aviso, então o melhor é avisar logo depois de abrir a caixa."
       ],
       "links": [
         {
@@ -198,7 +199,7 @@
     {
       "heading": "E a reputação no Reclame Aqui?",
       "paragraphs": [
-        "Nos últimos 6 meses, a Let's Eat It tem reputação Boa no Reclame Aqui, com nota 7,6/10, 99,1% das reclamações respondidas e 94% resolvidas. O lado mais fraco é a satisfação de quem reclamou: 54% dizem que voltariam a comprar, a nota média do consumidor é 5,6 e o tempo médio de resposta é de 16 dias.",
+        "No recorte de abril a setembro, a Let's Eat It tinha reputação Boa no Reclame Aqui, com nota 7,6/10, 99,1% das reclamações respondidas e 94% resolvidas. O lado mais fraco é a satisfação de quem reclamou: 54% dizem que voltariam a comprar, a nota média do consumidor é 5,6 e o tempo médio de resposta é de 16 dias.",
         "Em resumo, a loja resolve quase tudo, mas nem sempre do jeito ou no tempo que o cliente esperava. Detalhei os números, os temas das reclamações e o que fazer se o seu pedido der problema num artigo separado."
       ],
       "links": [
@@ -255,7 +256,7 @@
         "A Let's Eat It tem loja física? Sim, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h. As compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi.",
         "Dá para retirar o pedido na Casa Let's? Não. Segundo a política de frete, os pedidos feitos no site são sempre enviados para o endereço informado na compra.",
         "Quanto tempo demora a entrega da Let's Eat It? De 3 a 5 dias úteis na capital paulista até 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
-        "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O que é gratuito é o envio na devolução, com a etiqueta enviada pela loja.",
+        "A Let's Eat It tem frete grátis? Em geral o frete é calculado pelo CEP e pelo peso do pedido. A política padrão da loja cita frete grátis para Le Creuset e Zwilling em pedidos acima de R$ 1.000 nessas marcas, então confirme no carrinho. O envio na devolução também é gratuito, com a etiqueta enviada pela loja.",
         "Como trocar ou devolver um produto da Let's Eat It? A loja aceita devolução em até 30 dias após o recebimento, envia a etiqueta de envio e devolve o valor integral ou em crédito na loja. O contato é pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br.",
         "O que acontece se o produto chegar quebrado? A loja informa reposição gratuita da peça, mediante fotos do produto e da embalagem enviadas ao atendimento.",
         "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."

@@ -14,10 +14,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Belive tem reputação Ótima no Reclame Aqui, com nota 8,1 nos últimos 6 meses e 80% das reclamações resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
-  "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. No Reclame Aqui, a reputação é Ótima, com nota 8,1 em 6 meses e 75% a 80% das reclamações resolvidas.",
+  "description": "Em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui: nota 8,1 nos 6 meses e 80% das reclamações resolvidas. Veja o que gera queixa e o que fazer se der problema.",
+  "metaDescription": "O cupom MAUAD dá 10% OFF no site da Belive. No Reclame Aqui, a reputação era Ótima em outubro de 2026, com nota 8,1 em 6 meses.",
   "publishedAt": "16 de outubro de 2026",
   "publishedAtISO": "2026-10-16",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/belive/belive-reclame-aqui-capa-discover.webp",
@@ -60,7 +61,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Belive tem reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Ela responde a todas as reclamações, mas resolve entre 75% e 80%. O capítulo sobre como a Belive responde mostra a diferença entre responder e resolver; para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+        "Na consulta de 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondia a todas as reclamações, mas resolvia entre 75% e 80%: responder não é resolver. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
       ]
     },
     {
@@ -191,7 +192,7 @@
         "**Produto com defeito:** fotografe os produtos, o lote e a validade, e escreva para sac@nhdfoods.com.br. A troca não sai se houver indício de má manipulação ou mau uso, ou se a ocorrência não puder ser identificada.",
         "**Item faltando ou trocado, rastreio ou endereço, erro ao finalizar ou cancelamento:** use o formulário e escolha o assunto entre Pedidos do site, Produtos e qualidade ou Outros. O formulário pede nome, e-mail, CPF cadastrado e número do pedido. Em caso de qualidade, pede também nome e sabor, lote e validade, e fotos de todos os itens recebidos com as caixas abertas.",
         "**Se o formulário não servir:** escreva para sac@nhdfoods.com.br ou ligue para (34) 3317-6487.",
-        "**Arrependimento:** são 7 dias corridos a partir do recebimento. O produto precisa estar na embalagem original, sem sinal de uso ou violação, com nota fiscal. Faça o pedido formal a sac@nhdfoods.com.br dentro do prazo. O frete da devolução fica por conta da Belive, e o valor é devolvido depois da análise interna. A loja não publica prazo para o reembolso."
+        "**Arrependimento:** são 7 dias corridos a partir do recebimento. A FAQ da loja pede o produto na embalagem original, sem sinal de uso ou violação, com nota fiscal; se ele já foi aberto, escreva ao SAC e guarde a resposta por escrito. Faça o pedido formal a sac@nhdfoods.com.br dentro do prazo. O frete da devolução fica por conta da Belive, e o valor é devolvido depois da análise interna. A loja não publica prazo para o reembolso."
       ]
     },
     {
@@ -218,11 +219,11 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Belive é confiável segundo o Reclame Aqui? O perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.",
-        "Qual a nota da Belive no Reclame Aqui? Nota 8,1 nos últimos 6 meses , 7,8 nos últimos 12 meses e 7,5 em 2025.",
+        "A Belive é confiável segundo o Reclame Aqui? Em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.",
+        "Qual a nota da Belive no Reclame Aqui? Em outubro, a nota era 8,1 nos últimos 6 meses, 7,8 nos últimos 12 meses e 7,5 em 2025.",
         "A Belive responde às reclamações? Sim, segundo o perfil: 100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025. Responder não é o mesmo que resolver, e as resolvidas ficaram entre 75% e 80%.",
         "O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.",
-        "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a embalagem original e a nota fiscal, por pedido formal ao SAC. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
+        "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a nota fiscal, por pedido formal ao SAC; a loja pede o produto na embalagem original. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
         "O pedido da Belive pode ser cancelado? Pode, quando o pagamento não é autorizado ou não é identificado no prazo, nos casos de boleto ou Pix. Nesse caso, peça a revisão ao SAC."
       ]
     }

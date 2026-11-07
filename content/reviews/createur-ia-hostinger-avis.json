@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger Horizons est devenu le créateur IA. Vaut-il le coup, ou WordPress ? Tableau par type de projet, comparaison avec Wix et Lovable, et crédits d'IA.",
   "publishedAt": "28 octobre 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -121,7 +122,7 @@
     {
       "heading": "Créateur IA ou WordPress",
       "paragraphs": [
-        "Le prix ne tranche pas : chez Hostinger, le créateur IA est inclus dans les offres d'hébergement, les mêmes que celles qui font tourner WordPress, aux mêmes tarifs. Ce qui change, c'est qui fait le travail et ce que vous contrôlez."
+        "Chez Hostinger, le prix de l'offre d'hébergement ne tranche pas : le mode sans IA du créateur est inclus dans les mêmes offres que celles qui font tourner WordPress, aux mêmes tarifs. Le mode avec IA consomme des crédits, et pour publier le site il faut un hébergement actif. Ce qui change, c'est qui fait le travail et ce que vous contrôlez."
       ],
       "comparisonTable": {
         "headers": [
@@ -169,7 +170,7 @@
       },
       "postParagraphs": [
         "**WordPress l'emporte** quand le projet dépend d'un plugin précis, d'un thème que vous avez déjà, ou de quelqu'un qui maintiendra le site ensuite. C'est un logiciel libre : le site entier est à vous et part vers n'importe quel hébergeur sans tout refaire.",
-        "**Le créateur IA l'emporte** quand vous ne voulez rien installer ni mettre à jour et que vous voulez une appli web avec connexion et données, ce qui devient sur WordPress une pile de plugins. La réserve qui change la décision : en mode IA, chaque modification consomme des crédits. D'après la page, une page institutionnelle simple consomme de 5 à 10 crédits, et une appli plus complexe, 15 ou plus. Qui retouche le site chaque semaine doit faire le calcul ; qui le monte une fois et modifie le texte et les photos dans l'éditeur, sans prompt, ne dépense rien."
+        "**Le créateur IA l'emporte** quand vous ne voulez rien installer ni mettre à jour et que vous voulez une appli web avec connexion et données, ce qui devient sur WordPress une pile de plugins. La réserve qui change la décision : en mode IA, chaque modification consomme des crédits. D'après la page, une page institutionnelle simple consomme de 5 à 10 crédits, et une appli plus complexe, 15 ou plus. Qui retouche le site chaque semaine doit faire le calcul. Qui le monte une fois et modifie le texte et les photos dans l'éditeur du mode sans IA ne dépense rien ; en mode IA, même remplacer un texte ou une image avec Select & edit consomme un peu de crédits."
       ]
     },
     {
@@ -182,7 +183,7 @@
     {
       "heading": "Ce qu'il faut vérifier avant de payer",
       "bullets": [
-        "**Les crédits.** Le mode avec IA consomme des crédits à chaque demande, et le solde de l'offre ne se renouvelle pas chaque mois. Montez le site avec l'IA et faites les retouches de texte et de photos dans l'éditeur, qui n'en consomme pas.",
+        "**Les crédits.** Le mode avec IA consomme des crédits à chaque demande, et le solde de l'offre ne se renouvelle pas chaque mois. Même remplacer un texte ou une image avec Select & edit en consomme un peu ; seul le mode sans IA édite sans en dépenser.",
         "**Ce qui se passe si vous ne renouvelez pas.** La page prévient : une offre expirée et non renouvelée met le projet hors ligne et supprime les données. Exportez le code avant de la laisser expirer.",
         "**Remboursement sous 30 jours**, à condition d'avoir consommé moins de 30 crédits d'IA.",
         "**La boutique en ligne** fait partie des offres Unlimited et Cloud Startup ; sur Unlimited, la page indique qu'elle est gratuite pendant 3 mois. Vérifiez au paiement ce qu'elle coûte ensuite.",
@@ -252,7 +253,7 @@
     "takeIf": [
       "Prenez le créateur IA si vous voulez un site de quelques pages, un portfolio, une petite boutique ou une appli web simple sans coder.",
       "Prenez-le si vous voulez l'hébergement, le domaine et l'e-mail dans la même offre et acceptez que l'IA monte la première version.",
-      "Prenez-le si vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur, qui ne consomme pas de crédits."
+      "Prenez-le si vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur du mode sans IA, qui ne consomme pas de crédits."
     ],
     "skipIf": [
       "Passez, et restez sur WordPress, si le projet dépend d'un plugin précis ou d'un thème que vous avez déjà.",

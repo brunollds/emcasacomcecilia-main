@@ -34,6 +34,7 @@
   "metaDescription": "Managed or VPS for OpenClaw on Hostinger: AI credits, Telegram and WhatsApp, and who looks after the server.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -88,7 +89,7 @@
           ],
           [
             "Root access",
-            "The page mentions command-line access, without saying root",
+            "No",
             "Yes"
           ],
           [
@@ -118,7 +119,7 @@
       "bullets": [],
       "postParagraphs": [
         "The plan is not the whole cost: AI usage is charged separately. With Hostinger's credits, the managed plan comes with a starting balance, and whatever goes beyond it is charged by use. The price of a top-up does not appear on any public page, so check the panel before you count on it. With your own key, the provider (OpenAI, Anthropic or another) charges you directly, depending on the model and the number of conversations.",
-        "The managed plan has a 30-day refund window. On the VPS, the 30 days apply only if your last VPS refund was requested more than 180 days ago. A VPS of 12 months or more comes with a free .cloud or .tech domain for the first year."
+        "The managed plan has a 30-day refund window. On the VPS, the 30 days apply only once 180 days have passed since your last VPS refund was completed, if you had one; check Hostinger's refund policy for exceptions. A VPS of 12 months or more comes with a free .cloud or .tech domain for the first year."
       ]
     },
     {
@@ -145,10 +146,10 @@
       "heading": "Security: when the decision changes",
       "paragraphs": [
         "The question is who looks after the data and the credentials. On managed, Hostinger says each instance runs isolated in a container, with its own security gateway. That is Hostinger's description, not a test of ours. On the VPS, Hostinger itself says that, with root access, the setup, the updates and the security are the responsibility of whoever bought it.",
-        "OpenClaw's security policy says it is built for one trusted person, not for several people who do not know each other: whoever can talk to the assistant can make it use its tools. That changes the choice in three cases:"
+        "OpenClaw's documentation says each gateway is a single trust boundary: it suits one person or a team whose members trust each other, not people who do not trust each other. Whoever can talk to the assistant can make it use its tools. That changes the choice in three cases:"
       ],
       "bullets": [
-        "**More than one person will use the assistant** (family or team): the project recommends one server per person. On the VPS, that is straightforward; on managed, ask Hostinger how many instances one account can have.",
+        "**More than one person will use the assistant** (family or team): only if everyone trusts each other, because they all share the assistant's access to its tools; people who do not trust each other need a separate server. On the VPS, that is straightforward; on managed, ask Hostinger how many instances one account can have.",
         "**The assistant will have access to your email, your bank or other accounts:** the project asks that the server have no personal accounts logged in. Hostinger suggests a separate mailbox for the assistant.",
         "**On the VPS, keep the gateway token** that the installation generates, and don't send it in a conversation with the assistant."
       ]
@@ -225,7 +226,7 @@
     "skipIf": [
       "Skip the VPS if you don't know what root or Docker is: updating and securing the system falls to you.",
       "Skip managed if you need root access or more memory and disk.",
-      "Skip both if the same assistant will serve several people: the project recommends one server per person."
+      "Skip both if the same assistant will serve people who do not trust each other: the project asks for a separate server for each."
     ]
   }
 }

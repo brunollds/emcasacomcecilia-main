@@ -34,6 +34,7 @@
   "metaDescription": "Is Hostinger Reach worth it? Chart by profile, plans, sending limits, WhatsApp and renewal in US dollars on October 30, 2026, compared with the free plans of Mailchimp and Brevo.",
   "publishedAt": "October 30, 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -78,7 +79,7 @@
           [
             "Past the free limit, up to 1,000 contacts",
             "Reach Grow or Pro",
-            "Pro goes up to 1,000 recipients for US$ 2.79 a month in the first 12 months (renews at US$ 3.99)."
+            "Grow covers up to 500 recipients. Pro goes up to 1,000 recipients for US$ 2.79 a month in the first 12 months (renews at US$ 3.99)."
           ],
           [
             "List above 1,000 contacts",
@@ -136,7 +137,7 @@
         "**Grow:** 500 recipients, 3,500 emails a month and 10 AI credits a month. It removes the Reach branding and adds personalization, scheduling and automations.",
         "**Pro:** 1,000 recipients, 7,000 emails a month and 20 AI credits a month. It adds HTML, optimized send time, WhatsApp campaigns, custom fields and team members."
       ],
-      "emphasis": "When you are torn between the plans, the size of your list decides. Anyone past 1,000 recipients is already outside Reach."
+      "emphasis": "When you are torn between the plans, the size of your list decides. The plans on the page go up to 1,000 recipients; above that, check at checkout whether a larger Pro tier exists, or go with Mailchimp or Brevo."
     },
     {
       "heading": "Mailchimp and Brevo: the free plans",
@@ -173,8 +174,8 @@
     {
       "heading": "When the list grows",
       "paragraphs": [
-        "The first limit that matters is the number of recipients: 100 on Starter, 500 on Grow and 1,000 on Pro. The Reach plans stop there. Anyone who has or expects more than 1,000 contacts should go to Mailchimp or Brevo, which charge by contact range or by sending volume.",
-        "The second limit is sending volume. On Grow, 3,500 emails a month with 500 recipients add up to 7 sends to the whole list in a month; on Pro, 7,000 emails with 1,000 recipients also make 7. A weekly newsletter fits. Sending to the whole list more than once a week goes past the limit."
+        "The first limit that matters is the number of recipients: 100 on Starter, 500 on Grow and 1,000 on Pro. The Reach plans on the page stop there. The limit counts unique recipients in the month, not stored contacts. Anyone who has or expects more than 1,000 contacts should go to Mailchimp or Brevo, which charge by contact range or by sending volume.",
+        "The second limit is sending volume. On Grow, 3,500 emails a month with 500 recipients add up to 7 sends to the whole list in a month; on Pro, 7,000 emails with 1,000 recipients also make 7. The cap is monthly and counts every email sent, so multiply your month's sends by the real number of recipients. A weekly newsletter fits."
       ],
       "bullets": [
         "**Still without a domain?** If you want your site's address on the sender, see [Hostinger domain: buy it there, transfer it or register elsewhere](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere).",
@@ -193,7 +194,7 @@
       "paragraphs": [
         "**Worth it** for anyone who already has a Hostinger site and a list of up to 1,000 recipients. Grow covers a list of up to 500 with automations; Pro covers a list of up to 1,000 and WhatsApp. The renewal of Grow (US$ 2.49 a month) and of Pro (US$ 3.99 a month) is part of the decision, so check it before you pay.",
         "**Stay on the free Mailchimp or Brevo plan** if your list is just starting and you don't yet know whether you will send email often. Reach has no free plan.",
-        "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if you send to the whole list more than once a week: the Reach plans stop at 1,000 recipients and 7,000 emails a month.",
+        "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if you need more than 7 sends to the whole list a month: the Reach plans stop at 1,000 recipients and 7,000 emails a month.",
         "If it were for my site, I would take Reach Grow, because it covers a list of up to 500 with automations and renews at US$ 2.49 a month."
       ]
     },
@@ -247,7 +248,7 @@
     ],
     "skipIf": [
       "Skip it if your list is just starting and fits in the free plan of Mailchimp or Brevo.",
-      "Skip it if your list is past 1,000 contacts or if you send to everyone more than once a week."
+      "Skip it if your list is past 1,000 contacts or if you send to everyone more than 7 times a month."
     ]
   }
 }

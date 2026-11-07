@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger en Trustpilot (24 de octubre de 2026): TrustScore 4,6 con 73.411 opiniones, 99 % de las negativas respondidas y cobros y renovación entre las quejas principales. Mira cómo desactivar la renovación.",
   "publishedAt": "19 de octubre de 2026",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -45,7 +46,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.411 opiniones en Trustpilot y respondió al 99 % de las negativas. La empresa invita a los clientes a opinar, lo que sube el promedio, y las quejas más citadas son la atención por IA, los cobros y la renovación. En el hosting, los cobros piden atención a la renovación automática; abajo ves cómo desactivarla. El 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
+        "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.411 opiniones en Trustpilot y respondió al 99 % de las negativas. La empresa invita a los clientes a opinar, lo que puede subir el promedio, y las quejas más citadas son la atención por IA, los cobros y la renovación. En el hosting, los cobros piden atención a la renovación automática; abajo ves cómo desactivarla. El 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
       ]
     },
     {
@@ -170,7 +171,7 @@
         ]
       },
       "postParagraphs": [
-        "Primero, las de cinco estrellas llegan mucho más rápido y casi todas por invitación: 100 en unos cinco días, 78 de ellas invitadas. Las de una estrella tardan unos 18 días en sumar 100, y 92 son espontáneas. Nuestra lectura: la invitación sube el promedio. La calificación mide a los clientes que fueron invitados y respondieron, no a todos los clientes.",
+        "Primero, las de cinco estrellas llegan mucho más rápido y casi todas por invitación: 100 en unos cinco días, 78 de ellas invitadas. Las de una estrella tardan unos 18 días en sumar 100, y 92 son espontáneas. Las dos muestras cubren períodos distintos, así que no miden cuánto suben las invitaciones la calificación global. Solo muestran que las de cinco estrellas vienen sobre todo de clientes invitados y las de una estrella, de clientes que escribieron por su cuenta.",
         "Segundo, las opiniones de una estrella son casi cuatro veces más largas. Describen un problema concreto, con fechas, productos y montos. Las de cinco estrellas suelen ser una frase.",
         "Tercero, una de cada siete opiniones de una estrella de la muestra es un elogio con la nota equivocada: 14 de las 100 tienen texto positivo, como «Great hosting» o «easy to use», con una estrella. Aun así, el 6,9 % de 73.411 son unas 5.100 personas muy insatisfechas. La proporción es pequeña; el número de personas no lo es."
       ]
@@ -207,17 +208,17 @@
     {
       "heading": "Cómo desactivar la renovación automática",
       "paragraphs": [
-        "Según el centro de ayuda de Hostinger, consultado el 19 de octubre de 2026, el camino es este:"
+        "Según el centro de ayuda de Hostinger, el camino es este:"
       ],
       "bullets": [
-        "En el área de facturación de tu cuenta, abre la sección de facturas.",
-        "Ve a tu lista de servicios o suscripciones.",
-        "Abre el menú de tres puntos junto al producto.",
-        "Entra en la configuración de renovación del producto.",
-        "Desactiva la renovación automática y guarda el cambio."
+        "En hPanel, abre tu perfil y entra en Facturación (Billing).",
+        "Elige Suscripciones (Subscriptions).",
+        "Busca el servicio que quieres modificar.",
+        "Haz clic en el interruptor que está al lado: se abre una página con los riesgos y avisos de ese tipo de producto.",
+        "Lee la información y confirma tu elección."
       ],
       "postParagraphs": [
-        "Con la opción desactivada, el producto sigue activo hasta la fecha de vencimiento. Para volver a activarla, hace falta un medio de pago registrado. El centro de ayuda también dice que, si la renovación está a un día o menos del vencimiento, hay que renovar manualmente antes de volver a activar la opción. Los nombres de los menús pueden cambiar; busca la opción de renovación automática en el área de facturación."
+        "Con la opción desactivada, el producto sigue activo hasta la fecha de vencimiento. Para volver a activarla, haz clic otra vez en el mismo interruptor. Desactivarla no reembolsa los cobros que ya se procesaron. Los nombres de los menús pueden cambiar; busca la opción de renovación automática en el área de facturación."
       ]
     },
     {
@@ -238,7 +239,7 @@
     {
       "heading": "¿Se puede confiar en Hostinger?",
       "paragraphs": [
-        "Según Trustpilot, sí. La calificación era 4,6 con 73.411 opiniones, el 87,1 % de cinco estrellas, y la empresa respondió al 99 % de las negativas, es decir, a 80 de las 86 quejas de nuestra muestra.",
+        "Según Trustpilot, sí. La calificación era 4,6 con 73.411 opiniones, el 87,1 % de cinco estrellas. El perfil indica que la empresa responde al 99 % de las negativas; en nuestra muestra, 80 de las 86 quejas tenían respuesta, cerca del 93 %.",
         "La salvedad está en cómo se arma la calificación y en lo que dicen las quejas. El perfil lo administra la empresa, que invita a los clientes a opinar: en nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Las quejas se concentran en la atención por IA sin forma de llegar a una persona, en cobros y renovación, y en dominios.",
         "En la práctica: revisa la fecha de renovación, desactiva la renovación automática si no quieres seguir y lee algunas opiniones de una estrella y las respuestas del perfil antes de comprar, porque los números cambian cada mes."
       ]
@@ -250,21 +251,21 @@
         "¿Son confiables las opiniones de Hostinger en Trustpilot? El perfil está reclamado y lo administra la empresa, que invita a los clientes a opinar. En nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Trustpilot dice que no revisa las opiniones una por una.",
         "¿De qué se quejan los clientes de Hostinger en Trustpilot? En las 86 quejas leídas entre las 100 opiniones de una estrella más recientes, los temas principales fueron la atención por IA y no llegar a una persona (unas 45), los cobros y la renovación (unas 38) y los dominios (unas 27).",
         "¿Hostinger responde a las opiniones negativas? Sí. La página dice que la empresa responde al 99 % de las opiniones negativas, por lo general en 24 horas, y que puede usar IA en las respuestas. En nuestra muestra, 80 de las 86 quejas tenían respuesta.",
-        "¿Cómo desactivo la renovación automática de Hostinger? En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta la fecha de vencimiento.",
-        "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+        "¿Cómo desactivo la renovación automática de Hostinger? En hPanel, abre tu perfil, entra en Facturación y luego en Suscripciones, busca el servicio y haz clic en el interruptor que está al lado. Lee los avisos y confirma. El producto sigue activo hasta la fecha de vencimiento.",
+        "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %, salvo en el registro de dominios. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
       ]
     },
     {
       "heading": "Si ya decidiste",
       "paragraphs": [
-        "Si decidiste contratar, usa el código SONAR20 en el campo de cupón del carrito: 20 % en el primer período. La [página de Hostinger](/es/coupons/hostinger) muestra los detalles. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista. Mira el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) muestra la cuenta con el código, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
+        "Si decidiste contratar, usa el código SONAR20 en el campo de cupón del carrito: 20 % en el primer período. La [página de Hostinger](/es/coupons/hostinger) muestra los detalles. Los 20 % se aplican a la compra nueva de planes y productos, sin incluir el registro de dominios; la renovación se cobra al precio de lista. Mira el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) muestra la cuenta con el código, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+    "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. Los 20 % se aplican a la compra nueva de planes y productos, sin incluir el registro de dominios; la renovación se cobra al precio de lista, sin descuento.",
     "label": "Ver los planes con descuento",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

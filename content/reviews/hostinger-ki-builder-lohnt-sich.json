@@ -35,6 +35,7 @@
   "metaDescription": "Hostinger Horizons heißt jetzt KI-Builder. Lohnt er sich, oder lieber WordPress? Tabelle nach Projektart, Vergleich mit Wix und Lovable und KI-Guthaben.",
   "publishedAt": "28. Oktober 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -121,7 +122,7 @@
     {
       "heading": "KI-Builder oder WordPress",
       "paragraphs": [
-        "Der Preis entscheidet nicht: Bei Hostinger ist der KI-Builder in den Hosting-Tarifen enthalten, denselben, auf denen WordPress läuft, zu denselben Preisen. Was sich ändert, ist, wer die Arbeit macht und was Sie kontrollieren."
+        "Bei Hostinger entscheidet der Preis des Hosting-Tarifs nicht: Der Modus ohne KI des Builders ist in denselben Tarifen enthalten, auf denen WordPress läuft, zu denselben Preisen. Der KI-Modus verbraucht Guthaben, und zum Veröffentlichen der Website brauchen Sie aktives Hosting. Was sich ändert, ist, wer die Arbeit macht und was Sie kontrollieren."
       ],
       "comparisonTable": {
         "headers": [
@@ -169,7 +170,7 @@
       },
       "postParagraphs": [
         "**WordPress gewinnt**, wenn das Projekt von einem bestimmten Plugin abhängt, von einem Theme, das Sie schon haben, oder von jemandem, der die Website später pflegt. Es ist freie Software: Die ganze Website gehört Ihnen und zieht ohne Nacharbeit zu jedem Hoster um.",
-        "**Der KI-Builder gewinnt**, wenn Sie nichts installieren oder aktualisieren wollen und eine Web-App mit Login und Daten brauchen, was in WordPress zu einem Stapel Plugins wird. Der Vorbehalt, der die Entscheidung ändert: Im KI-Modus verbraucht jede Änderung Guthaben. Laut Seite verbraucht eine einfache Unternehmensseite 5 bis 10 Guthaben und eine komplexere App 15 oder mehr. Wer die Website jede Woche anfasst, muss nachrechnen; wer sie einmal baut und Text und Fotos im Editor ohne Prompt bearbeitet, verbraucht nichts."
+        "**Der KI-Builder gewinnt**, wenn Sie nichts installieren oder aktualisieren wollen und eine Web-App mit Login und Daten brauchen, was in WordPress zu einem Stapel Plugins wird. Der Vorbehalt, der die Entscheidung ändert: Im KI-Modus verbraucht jede Änderung Guthaben. Laut Seite verbraucht eine einfache Unternehmensseite 5 bis 10 Guthaben und eine komplexere App 15 oder mehr. Wer die Website jede Woche anfasst, muss nachrechnen. Wer sie einmal baut und Text und Fotos im Editor des Modus ohne KI bearbeitet, verbraucht nichts; im KI-Modus verbraucht schon der Austausch eines Textes oder Bildes mit Select & edit etwas Guthaben."
       ]
     },
     {
@@ -182,7 +183,7 @@
     {
       "heading": "Was Sie vor der Zahlung prüfen sollten",
       "bullets": [
-        "**Das Guthaben.** Der KI-Modus verbraucht bei jeder Anfrage Guthaben, und das Guthaben des Tarifs erneuert sich nicht jeden Monat. Bauen Sie die Website mit der KI und nehmen Sie Text- und Foto-Anpassungen im Editor vor, der keines verbraucht.",
+        "**Das Guthaben.** Der KI-Modus verbraucht bei jeder Anfrage Guthaben, und das Guthaben des Tarifs erneuert sich nicht jeden Monat. Schon der Austausch eines Textes oder Bildes mit Select & edit verbraucht etwas; nur der Modus ohne KI bearbeitet kostenlos.",
         "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor der Tarif ausläuft.",
         "**Rückerstattung innerhalb von 30 Tagen**, sofern Sie weniger als 30 KI-Guthaben verbraucht haben.",
         "**Der Onlineshop** gehört zu den Tarifen Unlimited und Cloud Startup; bei Unlimited ist er laut Seite 3 Monate kostenlos. Prüfen Sie an der Kasse, was er danach kostet.",
@@ -252,7 +253,7 @@
     "takeIf": [
       "Nehmen Sie den KI-Builder, wenn Sie eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App ohne Programmieren wollen.",
       "Nehmen Sie ihn, wenn Sie Hosting, Domain und E-Mail im selben Tarif wollen und akzeptieren, dass die KI die erste Version baut.",
-      "Nehmen Sie ihn, wenn Sie die Website einmal bauen und Text und Fotos im Editor anpassen, der kein Guthaben verbraucht."
+      "Nehmen Sie ihn, wenn Sie die Website einmal bauen und Text und Fotos im Editor des Modus ohne KI anpassen, der kein Guthaben verbraucht."
     ],
     "skipIf": [
       "Lassen Sie ihn aus und bleiben Sie bei WordPress, wenn das Projekt von einem bestimmten Plugin oder einem Theme abhängt, das Sie schon haben.",

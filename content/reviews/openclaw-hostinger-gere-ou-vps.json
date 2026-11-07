@@ -34,6 +34,7 @@
   "metaDescription": "Géré ou VPS pour OpenClaw chez Hostinger : crédits d'IA, Telegram et WhatsApp, et qui s'occupe du serveur.",
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -88,7 +89,7 @@
           ],
           [
             "Accès root",
-            "La page parle d'un accès à la ligne de commande, sans citer root",
+            "Non",
             "Oui"
           ],
           [
@@ -118,7 +119,7 @@
       "bullets": [],
       "postParagraphs": [
         "L'offre ne fait pas tout : l'usage de l'IA est facturé à part. Avec les crédits de Hostinger, l'offre gérée inclut un solde de départ, et ce qui dépasse est facturé selon la consommation. Le prix d'une recharge n'apparaît sur aucune page publique, alors vérifiez-le dans le panneau avant de compter dessus. Avec votre propre clé, le fournisseur (OpenAI, Anthropic ou un autre) vous facture directement, selon le modèle et le nombre de conversations.",
-        "L'offre gérée donne 30 jours pour demander un remboursement. Sur le VPS, les 30 jours ne valent que si votre dernier remboursement de VPS a été demandé il y a plus de 180 jours. Un VPS de 12 mois ou plus inclut un domaine .cloud ou .tech gratuit la première année."
+        "L'offre gérée donne 30 jours pour demander un remboursement. Sur le VPS, les 30 jours ne valent qu'une fois 180 jours écoulés depuis la finalisation de votre dernier remboursement de VPS, s'il y en a eu un ; vérifiez les exceptions dans la politique de remboursement d'Hostinger. Un VPS de 12 mois ou plus inclut un domaine .cloud ou .tech gratuit la première année."
       ]
     },
     {
@@ -145,10 +146,10 @@
       "heading": "Sécurité : quand la décision change",
       "paragraphs": [
         "La question est de savoir qui s'occupe des données et des identifiants. En géré, Hostinger indique que chaque instance tourne isolée dans un conteneur, avec sa propre passerelle de sécurité. C'est la description de Hostinger, pas un test de notre part. Sur le VPS, Hostinger dit elle-même qu'avec un accès root, la configuration, les mises à jour et la sécurité reviennent à celui qui a souscrit.",
-        "La politique de sécurité d'OpenClaw précise qu'il est conçu pour une personne de confiance, et non pour plusieurs personnes qui ne se connaissent pas : quiconque peut parler à l'assistant peut lui faire utiliser ses outils. Cela change le choix dans trois cas :"
+        "La documentation d'OpenClaw indique que chaque passerelle forme une seule limite de confiance : elle convient à une personne ou à une équipe dont les membres se font confiance, pas à des personnes qui ne se font pas confiance. Quiconque peut parler à l'assistant peut lui faire utiliser ses outils. Cela change le choix dans trois cas :"
       ],
       "bullets": [
-        "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est simple ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
+        "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : seulement si tout le monde se fait confiance, car tous partagent l'accès de l'assistant à ses outils ; ceux qui ne se font pas confiance ont besoin d'un serveur séparé. Sur le VPS, c'est simple ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
         "**L'assistant va avoir accès à votre e-mail, à votre banque ou à d'autres comptes :** le projet demande que le serveur n'ait aucun compte personnel connecté. Hostinger suggère une boîte e-mail distincte pour l'assistant.",
         "**Sur le VPS, conservez le jeton de la passerelle** que génère l'installation et ne l'envoyez pas dans une conversation avec l'assistant."
       ]
@@ -225,7 +226,7 @@
     "skipIf": [
       "Évitez le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous incombe.",
       "Passez votre tour sur le géré si vous avez besoin d'un accès root ou de plus de mémoire et de disque.",
-      "Passez votre tour sur les deux si le même assistant doit servir plusieurs personnes : le projet recommande un serveur par personne."
+      "Passez votre tour sur les deux si le même assistant doit servir des personnes qui ne se font pas confiance : le projet demande un serveur séparé pour chacune."
     ]
   }
 }
