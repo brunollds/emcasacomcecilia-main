@@ -53,7 +53,7 @@
       "heading": "Cos'è ciascuno",
       "paragraphs": [
         "L'**hosting condiviso** è un server diviso tra più clienti. Hostinger si occupa del sistema, del server web e degli aggiornamenti; tu entri nel pannello, installi WordPress o carichi i file del sito, e basta. Su Hostinger sono i piani Single, Premium e Unlimited, più il Cloud Startup, che è la stessa idea con più risorse.",
-        "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati e accesso root, l'account di amministrazione del sistema. Configurazione, aggiornamenti e sicurezza restano a tuo carico. Un template può includere WordPress preinstallato e facilitare l'avvio; l'amministrazione successiva resta tua. I piani confrontati sono KVM 1, 2, 4 e 8.",
+        "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati e accesso root, l'account di amministrazione del sistema. Configurazione, aggiornamenti e sicurezza restano a tuo carico.  I piani confrontati sono KVM 1, 2, 4 e 8.",
         "La differenza non è «meglio o peggio». È chi si occupa del server e quante risorse restano riservate a te."
       ]
     },

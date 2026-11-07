@@ -80,7 +80,7 @@
           ],
           [
             "New domain registration",
-            "Only within 96 hours, and some extensions are not refundable"
+            "Only within 96 hours, and only if more than 24 hours have passed since a previous domain refund; some extensions are not refundable"
           ],
           [
             "Domain renewal",
@@ -140,7 +140,7 @@
     {
       "heading": "Complaints and reviews",
       "paragraphs": [
-        "When we last checked, Hostinger's Trustpilot score was 4.6, but the reviews included invitations from the company. That is a snapshot, not a measure of every customer's experience."
+        "Hostinger's Trustpilot score is 4.6, but the reviews include invitations from the company. That is a snapshot, not a measure of every customer's experience."
       ]
     },
     {
