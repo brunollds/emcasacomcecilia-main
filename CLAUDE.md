@@ -24,6 +24,7 @@ npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, c�
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
 npm run test:yesstyle-article-date  # {yesstyle:verifiedAt} nos artigos: o build-index troca pela data da página /cupons/yesstyle no idioma do artigo; marcação que sobra para o build
 npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"; consentimento (store, valor inválido, armazenamento bloqueado, os dois loaders atrás de isTrackingAllowed, textos do aviso nos 10 idiomas)
+npm run test:language-suggestion  # faixa de sugestão de idioma: idioma do navegador → do site (chinês pela escrita), escolha pelo hreflang da página, inglês sem idioma do site, textos dos 10 idiomas e nada de redirecionamento
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas (com a Outros) e a página /reviews/outros, páginas de 12 e 24, medição e os componentes
 npm run test:videos-hub      # /videos e as páginas de vídeo: destaque e ordem pela data, chips de loja e ?loja=, duração, origem e botão da loja, Mais vídeos, canal, medição e os componentes
@@ -120,6 +121,16 @@ A lupa existe nos 10 idiomas e o campo é o `OmniSearch` (cliente), com os texto
 índices saem do `node scripts/content/build-index.mjs`, que lê os textos das lojas (TS) com o tsx num
 processo à parte (`scripts/content/locale-search-stores.mjs` e `src/lib/localeSearchStores.ts`); o
 `npm run test:site-search` confere os gerados contra os dados.
+
+### Sugestão de idioma
+
+O site nunca redireciona pelo idioma do navegador: o robô do Google visita sem idioma e seria mandado para fora
+do PT. Em vez disso, o `LanguageSuggestion` (`src/components/language/`, no `RootLayoutShell`) mostra uma faixa
+quando o idioma do visitante é outro e a página declara a versão dele no hreflang. A regra fica em
+`src/lib/languageSuggestion.ts`: o primeiro idioma do navegador que o site tem decide; sem nenhum, o inglês; site com
+o idioma mas página sem a versão, nada. A faixa lê os `<link rel="alternate" hreflang>` do `<head>` (o mesmo dado do
+SEO), fala no idioma que sugere (`languageSuggestionCopy.ts`, importado direto para os 10 textos não irem ao HTML),
+só monta no navegador, espera o aviso de cookies e some para sempre ao fechar ou seguir (`ecc-lang-suggestion-v1`).
 
 ### Analytics e aviso de cookies (LGPD)
 
