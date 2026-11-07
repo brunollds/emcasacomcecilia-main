@@ -41,7 +41,7 @@
     {
       "heading": "Resposta rápida: Black Friday Magalu 2026",
       "paragraphs": [
-        "A Black Friday do Magalu é em 27 de novembro de 2026, mas as ofertas antecipadas já estão no ar, com o selo Oferta Black e novidades todo domingo no app. Os códigos da Cecília, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, dão de 10 a 100 reais de desconto conforme o valor do carrinho, só pelo navegador, um por pedido."
+        "A Black Friday do Magalu é em 27 de novembro de 2026, com ofertas antecipadas já no ar. Na loja Magazine Você da Cecília, pelo navegador, os códigos de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA dão de 10 a 100 reais de desconto, conforme o valor mínimo da faixa, com um código por pedido. As ofertas exclusivas do app ficam fora deles."
       ]
     },
     {
@@ -67,18 +67,62 @@
       },
       "comparisonTable": {
         "caption": "Códigos da Cecília na loja Magazine Você. O desconto vale nos produtos, não no frete.",
-        "headers": ["Código", "Desconto", "Compra mínima"],
+        "headers": [
+          "Código",
+          "Desconto",
+          "Compra mínima"
+        ],
         "rows": [
-          ["10EMCASACOMCECILIA", "R$ 10 OFF", "R$ 499,90"],
-          ["20EMCASACOMCECILIA", "R$ 20 OFF", "R$ 999,90"],
-          ["30EMCASACOMCECILIA", "R$ 30 OFF", "R$ 1.499,90"],
-          ["40EMCASACOMCECILIA", "R$ 40 OFF", "R$ 1.999,90"],
-          ["50EMCASACOMCECILIA", "R$ 50 OFF", "R$ 2.499,90"],
-          ["60EMCASACOMCECILIA", "R$ 60 OFF", "R$ 2.999,90"],
-          ["70EMCASACOMCECILIA", "R$ 70 OFF", "R$ 3.499,90"],
-          ["80EMCASACOMCECILIA", "R$ 80 OFF", "R$ 3.999,90"],
-          ["90EMCASACOMCECILIA", "R$ 90 OFF", "R$ 4.499,90"],
-          ["100EMCASACOMCECILIA", "R$ 100 OFF", "R$ 4.999,90"]
+          [
+            "10EMCASACOMCECILIA",
+            "R$ 10 OFF",
+            "R$ 499,90"
+          ],
+          [
+            "20EMCASACOMCECILIA",
+            "R$ 20 OFF",
+            "R$ 999,90"
+          ],
+          [
+            "30EMCASACOMCECILIA",
+            "R$ 30 OFF",
+            "R$ 1.499,90"
+          ],
+          [
+            "40EMCASACOMCECILIA",
+            "R$ 40 OFF",
+            "R$ 1.999,90"
+          ],
+          [
+            "50EMCASACOMCECILIA",
+            "R$ 50 OFF",
+            "R$ 2.499,90"
+          ],
+          [
+            "60EMCASACOMCECILIA",
+            "R$ 60 OFF",
+            "R$ 2.999,90"
+          ],
+          [
+            "70EMCASACOMCECILIA",
+            "R$ 70 OFF",
+            "R$ 3.499,90"
+          ],
+          [
+            "80EMCASACOMCECILIA",
+            "R$ 80 OFF",
+            "R$ 3.999,90"
+          ],
+          [
+            "90EMCASACOMCECILIA",
+            "R$ 90 OFF",
+            "R$ 4.499,90"
+          ],
+          [
+            "100EMCASACOMCECILIA",
+            "R$ 100 OFF",
+            "R$ 4.999,90"
+          ]
         ]
       },
       "postParagraphs": [
@@ -130,25 +174,81 @@
     {
       "heading": "Preços de outubro para comparar",
       "paragraphs": [
-        "Ancore a Black Friday nestes produtos vendidos e entregues pelo Magalu, entre os mais vendidos da loja da Cecília em 10 de outubro de 2026: a oferta só é desconto de verdade se o preço do dia ficar abaixo da tabela. O preço riscado (\"de\") da página costuma ser bem maior que o do dia, então ele não serve de referência."
+        "Ancore a Black Friday nestes produtos vendidos e entregues pelo Magalu, observados em 10 de outubro de 2026 na loja da Cecília: a oferta só é desconto de verdade se o preço do dia ficar abaixo da tabela. O preço riscado (\"de\") da página não entra nessa comparação."
       ],
       "comparisonTable": {
         "caption": "Loja Magazine Você da Cecília, sem CEP informado, antes do código. O preço muda com o CEP e a cada dia, e o número de parcelas sem juros varia por produto.",
-        "headers": ["Produto", "No cartão, sem juros", "No Pix"],
+        "headers": [
+          "Produto",
+          "No cartão, sem juros",
+          "No Pix"
+        ],
         "rows": [
-          ["Geladeira Electrolux Cycle Defrost Duplex 260 L (DC35A)", "R$ 2.298,40", "R$ 2.160,50"],
-          ["Geladeira Consul Frost Free Duplex 377 L (CRM44MBBNA)", "R$ 2.727,54", "R$ 2.591,16"],
-          ["Geladeira Electrolux Frost Free Duplex 400 L (IF44)", "R$ 2.902,15", "R$ 2.699,00"],
-          ["Geladeira Brastemp Frost Free Duplex Inox 512 L (BRM62AK)", "R$ 3.788,42", "R$ 3.599,00"],
-          ["Lavadora Electrolux 15 kg (LEC15)", "R$ 2.104,21", "R$ 1.999,00"],
-          ["Lavadora Brastemp 14 kg (BWJ14ABANA)", "R$ 1.980,47", "R$ 1.881,45"],
-          ["Micro-ondas Electrolux 34 L (MEO44)", "R$ 649,00", "R$ 616,55"],
-          ["Fogão 4 bocas Esmaltec Ideal Pop 4120", "R$ 598,12", "R$ 556,25"],
-          ["Fogão 4 bocas Consul Inox (CFO4NARUNA)", "R$ 1.325,00", "R$ 1.258,75"],
-          ["Air fryer Mondial Family 4 L (AFN-40-BI)", "R$ 249,00", "R$ 249,00"],
-          ["Air fryer forno Mondial 12 L (AFON-12L-BI)", "R$ 546,32", "R$ 519,00"],
-          ["Panela de pressão elétrica digital Mondial 5 L", "R$ 398,95", "R$ 379,00"],
-          ["Aspirador vertical Electrolux STK14", "R$ 198,95", "R$ 189,00"]
+          [
+            "Geladeira Electrolux Cycle Defrost Duplex 260 L (DC35A)",
+            "R$ 2.298,40",
+            "R$ 2.160,50"
+          ],
+          [
+            "Geladeira Consul Frost Free Duplex 377 L (CRM44MBBNA)",
+            "R$ 2.727,54",
+            "R$ 2.591,16"
+          ],
+          [
+            "Geladeira Electrolux Frost Free Duplex 400 L (IF44)",
+            "R$ 2.902,15",
+            "R$ 2.699,00"
+          ],
+          [
+            "Geladeira Brastemp Frost Free Duplex Inox 512 L (BRM62AK)",
+            "R$ 3.788,42",
+            "R$ 3.599,00"
+          ],
+          [
+            "Lavadora Electrolux 15 kg (LEC15)",
+            "R$ 2.104,21",
+            "R$ 1.999,00"
+          ],
+          [
+            "Lavadora Brastemp 14 kg (BWJ14ABANA)",
+            "R$ 1.980,47",
+            "R$ 1.881,45"
+          ],
+          [
+            "Micro-ondas Electrolux 34 L (MEO44)",
+            "R$ 649,00",
+            "R$ 616,55"
+          ],
+          [
+            "Fogão 4 bocas Esmaltec Ideal Pop 4120",
+            "R$ 598,12",
+            "R$ 556,25"
+          ],
+          [
+            "Fogão 4 bocas Consul Inox (CFO4NARUNA)",
+            "R$ 1.325,00",
+            "R$ 1.258,75"
+          ],
+          [
+            "Air fryer Mondial Family 4 L (AFN-40-BI)",
+            "R$ 249,00",
+            "R$ 249,00"
+          ],
+          [
+            "Air fryer forno Mondial 12 L (AFON-12L-BI)",
+            "R$ 546,32",
+            "R$ 519,00"
+          ],
+          [
+            "Panela de pressão elétrica digital Mondial 5 L",
+            "R$ 398,95",
+            "R$ 379,00"
+          ],
+          [
+            "Aspirador vertical Electrolux STK14",
+            "R$ 198,95",
+            "R$ 189,00"
+          ]
         ]
       },
       "postParagraphs": [
