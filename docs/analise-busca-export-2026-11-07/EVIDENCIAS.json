@@ -1,0 +1,5523 @@
+{
+  "sources": [
+    {
+      "name": "emcasacomcecilia.com-Performance-on-Discover-2026-11-06.ods",
+      "path": "C:\\Users\\Bruno\\Downloads\\emcasacomcecilia.com-Performance-on-Discover-2026-11-06.ods",
+      "sha256": "26611cda3d5a60be107a61d437852969f889431a61f8023f3443ec0aa418f779"
+    },
+    {
+      "name": "emcasacomcecilia.com-Performance-on-Search-2026-11-06.ods",
+      "path": "C:\\Users\\Bruno\\Downloads\\emcasacomcecilia.com-Performance-on-Search-2026-11-06.ods",
+      "sha256": "d1e813c7b03624c2d643e324d2b338fa8c6200b8dc6c042755b47e9ff3ecff51"
+    },
+    {
+      "name": "emcasacomcecilia.com-Performance-on-Search-Generative-AI-Features-2026-11-06.ods",
+      "path": "C:\\Users\\Bruno\\Downloads\\emcasacomcecilia.com-Performance-on-Search-Generative-AI-Features-2026-11-06.ods",
+      "sha256": "12c63a65b3603758a87fbee2c2e15294ac67c23fb4b7e0d3ea339223427fc964"
+    },
+    {
+      "name": "emcasacomcecilia.com_AIPageStatsReport_11_7_2026.csv",
+      "path": "C:\\Users\\Bruno\\Downloads\\emcasacomcecilia.com_AIPageStatsReport_11_7_2026.csv",
+      "sha256": "b843401ceac8cbcb26637c986f9ad9a8d4abb23ffe7dce28e6664befd2f9b262"
+    },
+    {
+      "name": "emcasacomcecilia.com_AISearchQueriesReport_11_7_2026.csv",
+      "path": "C:\\Users\\Bruno\\Downloads\\emcasacomcecilia.com_AISearchQueriesReport_11_7_2026.csv",
+      "sha256": "dbdb1741f69d45abfe4fc3395209ac741376b6a09c5221b9fadf4dfb7652c42f"
+    },
+    {
+      "name": "emcasacomcecilia.com_CountryReport_11_7_2026.csv",
+      "path": "C:\\Users\\Bruno\\Downloads\\emcasacomcecilia.com_CountryReport_11_7_2026.csv",
+      "sha256": "650f1d2b893989d7d87db33278767995926af4066a16d2dcb3f8a77e2037f03f"
+    },
+    {
+      "name": "emcasacomcecilia.com_KeywordReport_11_7_2026.csv",
+      "path": "C:\\Users\\Bruno\\Downloads\\emcasacomcecilia.com_KeywordReport_11_7_2026.csv",
+      "sha256": "dd9f767a5bb3ce1710fb5c5ae1d6f492c86ea04705c2d7e123b6d662e565e86e"
+    },
+    {
+      "name": "emcasacomcecilia.com_PageTrafficReport_11_7_2026.csv",
+      "path": "C:\\Users\\Bruno\\Downloads\\emcasacomcecilia.com_PageTrafficReport_11_7_2026.csv",
+      "sha256": "d76c3c5b8fed41fc83073bceb444e2d10cfc91e0a648e728c57d2fa30b53b6b2"
+    },
+    {
+      "name": "emcasacomcecilia.com_SearchPerformanceOverview_All_11_7_2026.csv",
+      "path": "C:\\Users\\Bruno\\Downloads\\emcasacomcecilia.com_SearchPerformanceOverview_All_11_7_2026.csv",
+      "sha256": "f88d79f5f7b703e10f44a67a5d2fa17720725b023498982c036d02956614069b"
+    }
+  ],
+  "summary": {
+    "emcasacomcecilia.com-Performance-on-Discover-2026-11-06.ods": {
+      "Gráfico": {
+        "rows": 92,
+        "headers": [
+          "Data",
+          "Cliques",
+          "Impressões",
+          "CTR"
+        ],
+        "totals": {
+          "Cliques": 130.0,
+          "Impressões": 7750.0
+        },
+        "first_last": [
+          "2026-08-05",
+          "2026-11-04"
+        ],
+        "tail": [
+          {
+            "Data": "2026-10-30",
+            "Cliques": "0",
+            "Impressões": "272",
+            "CTR": "0%"
+          },
+          {
+            "Data": "2026-10-31",
+            "Cliques": "0",
+            "Impressões": "12",
+            "CTR": "0%"
+          },
+          {
+            "Data": "2026-11-01",
+            "Cliques": "0",
+            "Impressões": "5",
+            "CTR": "0%"
+          },
+          {
+            "Data": "2026-11-02",
+            "Cliques": "0",
+            "Impressões": "6",
+            "CTR": "0%"
+          },
+          {
+            "Data": "2026-11-03",
+            "Cliques": "9",
+            "Impressões": "1305",
+            "CTR": "0.69%"
+          },
+          {
+            "Data": "2026-11-04",
+            "Cliques": "88",
+            "Impressões": "3315",
+            "CTR": "2.65%"
+          }
+        ]
+      },
+      "Páginas": {
+        "rows": 24,
+        "headers": [
+          "Páginas principais",
+          "Cliques",
+          "Impressões",
+          "CTR"
+        ],
+        "totals": {
+          "Cliques": 121.0,
+          "Impressões": 7144.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/tamanho-shein-brasil",
+            "Cliques": "86",
+            "Impressões": "3105",
+            "CTR": "2.77%"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/cupom-clea-store-como-usar",
+            "Cliques": "17",
+            "Impressões": "1626",
+            "CTR": "1.05%"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/black-friday-insider-feminino",
+            "Cliques": "9",
+            "Impressões": "1147",
+            "CTR": "0.78%"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/removedor-autobronzeador-skelt-como-tirar",
+            "Cliques": "0",
+            "Impressões": "222",
+            "CTR": "0%"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/cupom-probiotica-como-usar",
+            "Cliques": "1",
+            "Impressões": "144",
+            "CTR": "0.69%"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/cupom-simple-organic-como-usar",
+            "Cliques": "0",
+            "Impressões": "133",
+            "CTR": "0%"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/i-wanna-sleep-e-boa",
+            "Cliques": "0",
+            "Impressões": "132",
+            "CTR": "0%"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/mochaccino-canela-dolce-gusto",
+            "Cliques": "2",
+            "Impressões": "129",
+            "CTR": "1.55%"
+          }
+        ]
+      },
+      "Países": {
+        "rows": 4,
+        "headers": [
+          "País",
+          "Cliques",
+          "Impressões",
+          "CTR"
+        ],
+        "totals": {
+          "Cliques": 121.0,
+          "Impressões": 7144.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "País": "Brasil",
+            "Cliques": "110",
+            "Impressões": "5995",
+            "CTR": "1.83%"
+          },
+          {
+            "País": "Portugal",
+            "Cliques": "10",
+            "Impressões": "1107",
+            "CTR": "0.9%"
+          },
+          {
+            "País": "Estados Unidos",
+            "Cliques": "1",
+            "Impressões": "22",
+            "CTR": "4.55%"
+          },
+          {
+            "País": "Moçambique",
+            "Cliques": "0",
+            "Impressões": "20",
+            "CTR": "0%"
+          }
+        ]
+      },
+      "Aspecto do Discover": {
+        "rows": 0,
+        "headers": [
+          "Aspecto do Discover",
+          "Cliques",
+          "Impressões",
+          "CTR"
+        ],
+        "totals": {
+          "Cliques": 0,
+          "Impressões": 0
+        }
+      },
+      "Filtros": {
+        "rows": 2,
+        "headers": [
+          "Filtro",
+          "Valor"
+        ],
+        "totals": {},
+        "filters": [
+          {
+            "Filtro": "Tipo de pesquisa",
+            "Valor": "Descobrir"
+          },
+          {
+            "Filtro": "Data",
+            "Valor": "Últimos 3 meses"
+          }
+        ],
+        "duplicate_keys": []
+      }
+    },
+    "emcasacomcecilia.com-Performance-on-Search-2026-11-06.ods": {
+      "Gráfico": {
+        "rows": 92,
+        "headers": [
+          "Data",
+          "Cliques",
+          "Impressões",
+          "CTR",
+          "Posição"
+        ],
+        "totals": {
+          "Cliques": 1566.0,
+          "Impressões": 193939.0
+        },
+        "invalid_cells_count": 83,
+        "first_last": [
+          "2026-08-05",
+          "2026-11-04"
+        ],
+        "tail": [
+          {
+            "Data": "2026-10-30",
+            "Cliques": "43",
+            "Impressões": "5959",
+            "CTR": "0.72%",
+            "Posição": "8"
+          },
+          {
+            "Data": "2026-10-31",
+            "Cliques": "46",
+            "Impressões": "6049",
+            "CTR": "0.76%",
+            "Posição": "8"
+          },
+          {
+            "Data": "2026-11-01",
+            "Cliques": "54",
+            "Impressões": "7611",
+            "CTR": "0.71%",
+            "Posição": null
+          },
+          {
+            "Data": "2026-11-02",
+            "Cliques": "72",
+            "Impressões": "9041",
+            "CTR": "0.8%",
+            "Posição": null
+          },
+          {
+            "Data": "2026-11-03",
+            "Cliques": "74",
+            "Impressões": "9512",
+            "CTR": "0.78%",
+            "Posição": null
+          },
+          {
+            "Data": "2026-11-04",
+            "Cliques": "66",
+            "Impressões": "9819",
+            "CTR": "0.67%",
+            "Posição": null
+          }
+        ]
+      },
+      "Consultas": {
+        "rows": 1000,
+        "headers": [
+          "Top consultas",
+          "Cliques",
+          "Impressões",
+          "CTR",
+          "Posição"
+        ],
+        "totals": {
+          "Cliques": 271.0,
+          "Impressões": 68013.0
+        },
+        "invalid_cells_count": 204,
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Top consultas": "is yesstyle legit",
+            "Cliques": "10",
+            "Impressões": "9807",
+            "CTR": "0.1%",
+            "Posição": "8.49"
+          },
+          {
+            "Top consultas": "hostinger 20% off referral",
+            "Cliques": "0",
+            "Impressões": "9295",
+            "CTR": "0%",
+            "Posição": null
+          },
+          {
+            "Top consultas": "yesstyle coupon",
+            "Cliques": "2",
+            "Impressões": "1434",
+            "CTR": "0.14%",
+            "Posição": "18.88"
+          },
+          {
+            "Top consultas": "black friday shein 2026",
+            "Cliques": "12",
+            "Impressões": "1357",
+            "CTR": "0.88%",
+            "Posição": null
+          },
+          {
+            "Top consultas": "yesstyle coupon code",
+            "Cliques": "3",
+            "Impressões": "927",
+            "CTR": "0.32%",
+            "Posição": null
+          },
+          {
+            "Top consultas": "black friday 2026 shein",
+            "Cliques": "2",
+            "Impressões": "777",
+            "CTR": "0.26%",
+            "Posição": "6.42"
+          },
+          {
+            "Top consultas": "black friday magalu 2026",
+            "Cliques": "1",
+            "Impressões": "771",
+            "CTR": "0.13%",
+            "Posição": "6.37"
+          },
+          {
+            "Top consultas": "yesstyle legit",
+            "Cliques": "0",
+            "Impressões": "766",
+            "CTR": "0%",
+            "Posição": "8.78"
+          }
+        ]
+      },
+      "Páginas": {
+        "rows": 891,
+        "headers": [
+          "Páginas principais",
+          "Cliques",
+          "Impressões",
+          "CTR",
+          "Posição"
+        ],
+        "totals": {
+          "Cliques": 1570.0,
+          "Impressões": 196435.0
+        },
+        "invalid_cells_count": 190,
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/tabela-medidas-dolce-gusto-ml-por-nivel",
+            "Cliques": "434",
+            "Impressões": "22886",
+            "CTR": "1.9%",
+            "Posição": null
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/en/reviews/is-yesstyle-legit-and-safe-review",
+            "Cliques": "13",
+            "Impressões": "18396",
+            "CTR": "0.07%",
+            "Posição": null
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/en/reviews/how-to-find-valid-yesstyle-coupon-codes",
+            "Cliques": "41",
+            "Impressões": "10633",
+            "CTR": "0.39%",
+            "Posição": "9.69"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/en/coupons/hostinger",
+            "Cliques": "1",
+            "Impressões": "9351",
+            "CTR": "0.01%",
+            "Posição": "8.18"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/es/reviews/black-friday-shein-fechas-impuestos",
+            "Cliques": "36",
+            "Impressões": "8776",
+            "CTR": "0.41%",
+            "Posição": "5.48"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/black-friday-shein",
+            "Cliques": "32",
+            "Impressões": "6354",
+            "CTR": "0.5%",
+            "Posição": "6"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/nutren-senior-ensure-ou-sustagen-senior",
+            "Cliques": "25",
+            "Impressões": "4334",
+            "CTR": "0.58%",
+            "Posição": "7.22"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/es/reviews/es-yesstyle-de-fiar-y-seguro",
+            "Cliques": "9",
+            "Impressões": "3238",
+            "CTR": "0.28%",
+            "Posição": "8.26"
+          }
+        ]
+      },
+      "Países": {
+        "rows": 199,
+        "headers": [
+          "País",
+          "Cliques",
+          "Impressões",
+          "CTR",
+          "Posição"
+        ],
+        "totals": {
+          "Cliques": 1566.0,
+          "Impressões": 193939.0
+        },
+        "invalid_cells_count": 49,
+        "duplicate_keys": [],
+        "top": [
+          {
+            "País": "Brasil",
+            "Cliques": "942",
+            "Impressões": "96351",
+            "CTR": "0.98%",
+            "Posição": null
+          },
+          {
+            "País": "Estados Unidos",
+            "Cliques": "26",
+            "Impressões": "16285",
+            "CTR": "0.16%",
+            "Posição": "8.75"
+          },
+          {
+            "País": "Itália",
+            "Cliques": "52",
+            "Impressões": "7418",
+            "CTR": "0.7%",
+            "Posição": "7.89"
+          },
+          {
+            "País": "Espanha",
+            "Cliques": "43",
+            "Impressões": "5982",
+            "CTR": "0.72%",
+            "Posição": null
+          },
+          {
+            "País": "Portugal",
+            "Cliques": "135",
+            "Impressões": "5900",
+            "CTR": "2.29%",
+            "Posição": "6.83"
+          },
+          {
+            "País": "México",
+            "Cliques": "13",
+            "Impressões": "5187",
+            "CTR": "0.25%",
+            "Posição": "7.52"
+          },
+          {
+            "País": "Canadá",
+            "Cliques": "19",
+            "Impressões": "4071",
+            "CTR": "0.47%",
+            "Posição": "8.26"
+          },
+          {
+            "País": "Colômbia",
+            "Cliques": "8",
+            "Impressões": "3741",
+            "CTR": "0.21%",
+            "Posição": "6.95"
+          }
+        ]
+      },
+      "Dispositivos": {
+        "rows": 3,
+        "headers": [
+          "Dispositivo",
+          "Cliques",
+          "Impressões",
+          "CTR",
+          "Posição"
+        ],
+        "totals": {
+          "Cliques": 1566.0,
+          "Impressões": 193939.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Dispositivo": "Celular",
+            "Cliques": "1142",
+            "Impressões": "135985",
+            "CTR": "0.84%",
+            "Posição": "7.47"
+          },
+          {
+            "Dispositivo": "Computador",
+            "Cliques": "417",
+            "Impressões": "56506",
+            "CTR": "0.74%",
+            "Posição": "8.15"
+          },
+          {
+            "Dispositivo": "Tablet",
+            "Cliques": "7",
+            "Impressões": "1448",
+            "CTR": "0.48%",
+            "Posição": "6.76"
+          }
+        ]
+      },
+      "Aspecto da pesquisa": {
+        "rows": 5,
+        "headers": [
+          "Aspecto da pesquisa",
+          "Cliques",
+          "Impressões",
+          "CTR",
+          "Posição"
+        ],
+        "totals": {
+          "Cliques": 123.0,
+          "Impressões": 8951.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Aspecto da pesquisa": "Pesquisa aprimorada de receita",
+            "Cliques": "60",
+            "Impressões": "4960",
+            "CTR": "1.21%",
+            "Posição": "11.82"
+          },
+          {
+            "Aspecto da pesquisa": "Snippet de avaliação",
+            "Cliques": "47",
+            "Impressões": "3047",
+            "CTR": "1.54%",
+            "Posição": "7.96"
+          },
+          {
+            "Aspecto da pesquisa": "Vídeos",
+            "Cliques": "7",
+            "Impressões": "353",
+            "CTR": "1.98%",
+            "Posição": "11.38"
+          },
+          {
+            "Aspecto da pesquisa": "Galeria de receitas",
+            "Cliques": "8",
+            "Impressões": "335",
+            "CTR": "2.39%",
+            "Posição": "2.68"
+          },
+          {
+            "Aspecto da pesquisa": "Snippets do produto",
+            "Cliques": "1",
+            "Impressões": "256",
+            "CTR": "0.39%",
+            "Posição": "9.35"
+          }
+        ]
+      },
+      "Filtros": {
+        "rows": 2,
+        "headers": [
+          "Filtro",
+          "Valor"
+        ],
+        "totals": {},
+        "filters": [
+          {
+            "Filtro": "Tipo de pesquisa",
+            "Valor": "Web (com base em texto)"
+          },
+          {
+            "Filtro": "Data",
+            "Valor": "Últimos 3 meses"
+          }
+        ],
+        "duplicate_keys": []
+      }
+    },
+    "emcasacomcecilia.com-Performance-on-Search-Generative-AI-Features-2026-11-06.ods": {
+      "Gráfico": {
+        "rows": 92,
+        "headers": [
+          "Data",
+          "Impressões"
+        ],
+        "totals": {
+          "Impressões": 29427.0
+        },
+        "first_last": [
+          "2026-08-05",
+          "2026-11-04"
+        ],
+        "tail": [
+          {
+            "Data": "2026-10-30",
+            "Impressões": "930"
+          },
+          {
+            "Data": "2026-10-31",
+            "Impressões": "943"
+          },
+          {
+            "Data": "2026-11-01",
+            "Impressões": "1334"
+          },
+          {
+            "Data": "2026-11-02",
+            "Impressões": "1549"
+          },
+          {
+            "Data": "2026-11-03",
+            "Impressões": "1690"
+          },
+          {
+            "Data": "2026-11-04",
+            "Impressões": "1690"
+          }
+        ]
+      },
+      "Páginas": {
+        "rows": 552,
+        "headers": [
+          "Páginas principais",
+          "Impressões"
+        ],
+        "totals": {
+          "Impressões": 29586.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/tabela-medidas-dolce-gusto-ml-por-nivel",
+            "Impressões": "6573"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/es/reviews/black-friday-shein-fechas-impuestos",
+            "Impressões": "3712"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/en/reviews/how-to-find-valid-yesstyle-coupon-codes",
+            "Impressões": "2305"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/en/reviews/is-yesstyle-legit-and-safe-review",
+            "Impressões": "2106"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/black-friday-shein",
+            "Impressões": "873"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/en/reviews/yesstyle-black-friday-dates-coupons",
+            "Impressões": "452"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/nutren-senior-ensure-ou-sustagen-senior",
+            "Impressões": "421"
+          },
+          {
+            "Páginas principais": "https://emcasacomcecilia.com/reviews/nutren-protein-ou-whey",
+            "Impressões": "402"
+          }
+        ]
+      },
+      "Países": {
+        "rows": 171,
+        "headers": [
+          "País",
+          "Impressões"
+        ],
+        "totals": {
+          "Impressões": 29427.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "País": "Brasil",
+            "Impressões": "15047"
+          },
+          {
+            "País": "Estados Unidos",
+            "Impressões": "1399"
+          },
+          {
+            "País": "México",
+            "Impressões": "1260"
+          },
+          {
+            "País": "Espanha",
+            "Impressões": "1218"
+          },
+          {
+            "País": "Colômbia",
+            "Impressões": "882"
+          },
+          {
+            "País": "Portugal",
+            "Impressões": "747"
+          },
+          {
+            "País": "Itália",
+            "Impressões": "636"
+          },
+          {
+            "País": "Argentina",
+            "Impressões": "544"
+          }
+        ]
+      },
+      "Dispositivos": {
+        "rows": 3,
+        "headers": [
+          "Dispositivo",
+          "Impressões"
+        ],
+        "totals": {
+          "Impressões": 29427.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Dispositivo": "Celular",
+            "Impressões": "19900"
+          },
+          {
+            "Dispositivo": "Computador",
+            "Impressões": "9241"
+          },
+          {
+            "Dispositivo": "Tablet",
+            "Impressões": "286"
+          }
+        ]
+      },
+      "Filtros": {
+        "rows": 2,
+        "headers": [
+          "Filtro",
+          "Valor"
+        ],
+        "totals": {},
+        "filters": [
+          {
+            "Filtro": "Tipo de pesquisa",
+            "Valor": "Web (com base em texto)"
+          },
+          {
+            "Filtro": "Data",
+            "Valor": "Últimos 3 meses"
+          }
+        ],
+        "duplicate_keys": []
+      }
+    },
+    "emcasacomcecilia.com_AIPageStatsReport_11_7_2026.csv": {
+      "Data": {
+        "rows": 84,
+        "headers": [
+          "Page",
+          "Citations"
+        ],
+        "totals": {
+          "Citations": 6764.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/clube-dolce-gusto-como-funciona",
+            "Citations": "1408"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/promocao-dolce-gusto-caixas-mini-me-gratis",
+            "Citations": "1175"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/assinatura-dolce-gusto-como-funciona",
+            "Citations": "884"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch",
+            "Citations": "466"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/en/reviews/is-yesstyle-legit-and-safe-review",
+            "Citations": "438"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/dolce-gusto-e-confiavel",
+            "Citations": "404"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/dolce-gusto-capsulas-compativeis-guia",
+            "Citations": "350"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/melhores-capsulas-dolce-gusto-2026",
+            "Citations": "127"
+          }
+        ]
+      }
+    },
+    "emcasacomcecilia.com_AISearchQueriesReport_11_7_2026.csv": {
+      "Data": {
+        "rows": 131,
+        "headers": [
+          "Grounding Query",
+          "Intent",
+          "Topic",
+          "Citations",
+          "Citation Share"
+        ],
+        "totals": {
+          "Citations": 4185.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Grounding Query": "is yesstyle legit",
+            "Intent": "Research",
+            "Topic": "Reviews",
+            "Citations": "301",
+            "Citation Share": "18.97%"
+          },
+          {
+            "Grounding Query": "promoção Dolce Gusto compre caixas ganhe cafeteira",
+            "Intent": "Commercial",
+            "Topic": "Retail Sales & Promotions",
+            "Citations": "174",
+            "Citation Share": "67.18%"
+          },
+          {
+            "Grounding Query": "promoção Dolce Lovers Club Dolce Gusto Brasil",
+            "Intent": "Commercial",
+            "Topic": "Retail Loyalty Programs",
+            "Citations": "142",
+            "Citation Share": "23.51%"
+          },
+          {
+            "Grounding Query": "como usar cupom junto com promoções Dolce Gusto",
+            "Intent": "Learn and Solve",
+            "Topic": "Retail Sales & Promotions",
+            "Citations": "141",
+            "Citation Share": "68.12%"
+          },
+          {
+            "Grounding Query": "promoção compre caixas Dolce Gusto ganhe cafeteira Brasil",
+            "Intent": "Commercial",
+            "Topic": "Retail Sales & Promotions",
+            "Citations": "140",
+            "Citation Share": "52.83%"
+          },
+          {
+            "Grounding Query": "promoções Dolce Gusto máquina cápsulas grátis",
+            "Intent": "Commercial",
+            "Topic": "Shopping",
+            "Citations": "115",
+            "Citation Share": "43.07%"
+          },
+          {
+            "Grounding Query": "como usar cupom junto com promoções no site Dolce Gusto Brasil",
+            "Intent": "Learn and Solve",
+            "Topic": "Retail Sales & Promotions",
+            "Citations": "108",
+            "Citation Share": "34.39%"
+          },
+          {
+            "Grounding Query": "prazo de entrega Dolce Gusto Brasil",
+            "Intent": "Informational",
+            "Topic": "Food Delivery & Takeout",
+            "Citations": "104",
+            "Citation Share": "28.34%"
+          }
+        ]
+      }
+    },
+    "emcasacomcecilia.com_CountryReport_11_7_2026.csv": {
+      "Data": {
+        "rows": 11,
+        "headers": [
+          "Country",
+          "Impressions",
+          "Clicks",
+          "CTR",
+          "Avg. Position"
+        ],
+        "totals": {
+          "Clicks": 85.0,
+          "Impressions": 5594.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Country": "br",
+            "Impressions": "4394",
+            "Clicks": "57",
+            "CTR": "1.3%",
+            "Avg. Position": "0"
+          },
+          {
+            "Country": "ww",
+            "Impressions": "597",
+            "Clicks": "22",
+            "CTR": "3.69%",
+            "Avg. Position": "0"
+          },
+          {
+            "Country": "us",
+            "Impressions": "354",
+            "Clicks": "4",
+            "CTR": "1.1300000000000001%",
+            "Avg. Position": "0"
+          },
+          {
+            "Country": "it",
+            "Impressions": "42",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "0"
+          },
+          {
+            "Country": "fr",
+            "Impressions": "39",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "0"
+          },
+          {
+            "Country": "gb",
+            "Impressions": "35",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "0"
+          },
+          {
+            "Country": "de",
+            "Impressions": "34",
+            "Clicks": "2",
+            "CTR": "5.88%",
+            "Avg. Position": "0"
+          },
+          {
+            "Country": "es",
+            "Impressions": "32",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "0"
+          }
+        ]
+      }
+    },
+    "emcasacomcecilia.com_KeywordReport_11_7_2026.csv": {
+      "Data": {
+        "rows": 640,
+        "headers": [
+          "Keyword",
+          "Impressions",
+          "Clicks",
+          "CTR",
+          "Avg. Position"
+        ],
+        "totals": {
+          "Clicks": 79.0,
+          "Impressions": 1759.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Keyword": "receita de salsichas em massa folhada",
+            "Impressions": "339",
+            "Clicks": "1",
+            "CTR": "0.29%",
+            "Avg. Position": "8.899727138643069"
+          },
+          {
+            "Keyword": "dolce gusto club",
+            "Impressions": "143",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "5.720282517482517"
+          },
+          {
+            "Keyword": "dolce gusto cadastrar códigos",
+            "Impressions": "26",
+            "Clicks": "1",
+            "CTR": "3.85%",
+            "Avg. Position": "5.615388461538462"
+          },
+          {
+            "Keyword": "club dolce gusto",
+            "Impressions": "19",
+            "Clicks": "1",
+            "CTR": "5.26%",
+            "Avg. Position": "5.368436842105263"
+          },
+          {
+            "Keyword": "clube dolce gusto fidelidade",
+            "Impressions": "17",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "4.352935294117647"
+          },
+          {
+            "Keyword": "cupom desconto nestlé nutren",
+            "Impressions": "14",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "8"
+          },
+          {
+            "Keyword": "como trocar sabores na assinatura dolce gusto sem perder descontos?",
+            "Impressions": "14",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "4.142857142857143"
+          },
+          {
+            "Keyword": "clube dolce gusto",
+            "Impressions": "14",
+            "Clicks": "1",
+            "CTR": "7.140000000000001%",
+            "Avg. Position": "4.071428571428571"
+          }
+        ]
+      }
+    },
+    "emcasacomcecilia.com_PageTrafficReport_11_7_2026.csv": {
+      "Data": {
+        "rows": 181,
+        "headers": [
+          "Page",
+          "Impressions",
+          "Clicks",
+          "CTR",
+          "Avg. Position"
+        ],
+        "totals": {
+          "Clicks": 75.0,
+          "Impressions": 3386.0
+        },
+        "duplicate_keys": [],
+        "top": [
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/clube-dolce-gusto-como-funciona",
+            "Impressions": "1672",
+            "Clicks": "7",
+            "CTR": "0.42%",
+            "Avg. Position": "5.267944377990431"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/receitas/enroladinho-de-salsicha-com-massa-folhada",
+            "Impressions": "352",
+            "Clicks": "1",
+            "CTR": "0.28%",
+            "Avg. Position": "8.855129545454545"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/tabela-medidas-dolce-gusto-ml-por-nivel",
+            "Impressions": "211",
+            "Clicks": "11",
+            "CTR": "5.21%",
+            "Avg. Position": "4.018965876777251"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/black-friday-magalu",
+            "Impressions": "137",
+            "Clicks": "1",
+            "CTR": "0.73%",
+            "Avg. Position": "5.605862043795621"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/assinatura-dolce-gusto-como-funciona",
+            "Impressions": "61",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "3.4754081967213115"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/promocao-dolce-gusto-caixas-mini-me-gratis",
+            "Impressions": "48",
+            "Clicks": "4",
+            "CTR": "8.33%",
+            "Avg. Position": "4.08335"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp",
+            "Impressions": "45",
+            "Clicks": "5",
+            "CTR": "11.11%",
+            "Avg. Position": "6.222226666666667"
+          },
+          {
+            "Page": "https://emcasacomcecilia.com/reviews/dolce-gusto-descalcificacao-passo-a-passo",
+            "Impressions": "39",
+            "Clicks": "0",
+            "CTR": "0%",
+            "Avg. Position": "6.128215384615385"
+          }
+        ]
+      }
+    },
+    "emcasacomcecilia.com_SearchPerformanceOverview_All_11_7_2026.csv": {
+      "Data": {
+        "rows": 90,
+        "headers": [
+          "Date",
+          "Clicks",
+          "Impressions",
+          "Avg. CTR"
+        ],
+        "totals": {
+          "Clicks": 85.0,
+          "Impressions": 5594.0
+        },
+        "first_last": [
+          "8/6/2026 12:00:00 AM",
+          "11/3/2026 12:00:00 AM"
+        ],
+        "tail": [
+          {
+            "Date": "10/29/2026 12:00:00 AM",
+            "Clicks": "7",
+            "Impressions": "155",
+            "Avg. CTR": "4.52"
+          },
+          {
+            "Date": "10/30/2026 12:00:00 AM",
+            "Clicks": "2",
+            "Impressions": "156",
+            "Avg. CTR": "1.28"
+          },
+          {
+            "Date": "10/31/2026 12:00:00 AM",
+            "Clicks": "1",
+            "Impressions": "74",
+            "Avg. CTR": "1.35"
+          },
+          {
+            "Date": "11/1/2026 12:00:00 AM",
+            "Clicks": "1",
+            "Impressions": "72",
+            "Avg. CTR": "1.39"
+          },
+          {
+            "Date": "11/2/2026 12:00:00 AM",
+            "Clicks": "2",
+            "Impressions": "120",
+            "Avg. CTR": "1.67"
+          },
+          {
+            "Date": "11/3/2026 12:00:00 AM",
+            "Clicks": "5",
+            "Impressions": "218",
+            "Avg. CTR": "2.29"
+          }
+        ]
+      }
+    }
+  },
+  "invalid_position_cells": {
+    "emcasacomcecilia.com-Performance-on-Search-2026-11-06.ods :: Gráfico": [
+      {
+        "row": 2,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-05",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 3,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-06",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 4,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-07",
+        "displayed": "6.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 5,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-08",
+        "displayed": "8.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 6,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-09",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 7,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-10",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 8,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-11",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 10,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-13",
+        "displayed": "8.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 11,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-14",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 12,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-15",
+        "displayed": "7.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 13,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-16",
+        "displayed": "8.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 14,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-17",
+        "displayed": "9.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 15,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-18",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 17,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-20",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 20,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-23",
+        "displayed": "6.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 21,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-24",
+        "displayed": "6.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 22,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-25",
+        "displayed": "6.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 23,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-26",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 24,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-27",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 25,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-28",
+        "displayed": "8.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 26,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-29",
+        "displayed": "8.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 27,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-30",
+        "displayed": "8.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 28,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-08-31",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 30,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-02",
+        "displayed": "8.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 31,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-03",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 33,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-05",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 34,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-06",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 35,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-07",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 36,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-08",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 37,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-09",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 38,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-10",
+        "displayed": "7.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 39,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-11",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 40,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-12",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 41,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-13",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 42,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-14",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 43,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-15",
+        "displayed": "6.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 44,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-16",
+        "displayed": "7.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 45,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-17",
+        "displayed": "6.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 46,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-18",
+        "displayed": "7.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 47,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-19",
+        "displayed": "7.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 48,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-20",
+        "displayed": "7.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 49,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-21",
+        "displayed": "7.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 50,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-22",
+        "displayed": "7.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 51,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-23",
+        "displayed": "7.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 52,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-24",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 53,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-25",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 54,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-26",
+        "displayed": "8.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 55,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-27",
+        "displayed": "8.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 56,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-28",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 57,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-29",
+        "displayed": "8.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 58,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-09-30",
+        "displayed": "9.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 59,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-01",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 60,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-02",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 61,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-03",
+        "displayed": "8.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 62,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-04",
+        "displayed": "7.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 64,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-06",
+        "displayed": "8.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 65,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-07",
+        "displayed": "7.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 66,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-08",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 67,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-09",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 68,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-10",
+        "displayed": "7.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 69,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-11",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 70,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-12",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 71,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-13",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 72,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-14",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 73,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-15",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 74,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-16",
+        "displayed": "7.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 75,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-17",
+        "displayed": "8.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 76,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-18",
+        "displayed": "7.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 77,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-19",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 78,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-20",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 79,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-21",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 80,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-22",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 81,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-23",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 82,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-24",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 83,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-25",
+        "displayed": "7.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 84,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-26",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 85,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-27",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 86,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-28",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 87,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-10-29",
+        "displayed": "7.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 90,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-11-01",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 91,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-11-02",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 92,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-11-03",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 93,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "2026-11-04",
+        "displayed": "7.6",
+        "stored_type": "date"
+      }
+    ],
+    "emcasacomcecilia.com-Performance-on-Search-2026-11-06.ods :: Consultas": [
+      {
+        "row": 3,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "black friday shein 2026",
+        "displayed": "5.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 12,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quando inizia il black friday su shein",
+        "displayed": "5.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 13,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle coupon code",
+        "displayed": "13.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 28,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cuando empieza el black friday en shein",
+        "displayed": "4.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 41,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "ブラックフライデー shein",
+        "displayed": "08.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 43,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle black friday 2026",
+        "displayed": "3.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 44,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "melhor sabor dr peanut",
+        "displayed": "06.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 53,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle優惠碼",
+        "displayed": "6.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 59,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "black friday dolce gusto",
+        "displayed": "09.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 70,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quantos ml tem cada traço da dolce gusto",
+        "displayed": "3.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 75,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle black friday sale",
+        "displayed": "9.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 80,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "magazinevoce.com.br é confiavel",
+        "displayed": "8.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 82,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle brasil",
+        "displayed": "6.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 97,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "sustagen senior e nutren senior diferença",
+        "displayed": "08.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 100,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "qual o melhor sustagen ou nutren senior",
+        "displayed": "6.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 105,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "poltrona reclinavel",
+        "displayed": "10.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 106,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "stylevana argentina",
+        "displayed": "7.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 113,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle discount codes",
+        "displayed": "11.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 119,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "알리 테무 쉬인",
+        "displayed": "5.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 123,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "シーンブラックフライデー",
+        "displayed": "8.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 126,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quantos ml faz uma cápsula de café dolce gusto",
+        "displayed": "5.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 127,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "which is better stylevana or yesstyle",
+        "displayed": "6.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 134,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "tamanhos insider",
+        "displayed": "2.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 135,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "shein.com利用国sg",
+        "displayed": "4.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 136,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "dolce gusto ou nespresso qual é melhor",
+        "displayed": "4.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 138,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom mercado livre",
+        "displayed": "4.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 140,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "melhores cápsulas compatíveis dolce gusto",
+        "displayed": "14.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 142,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "mini me",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 144,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "procon-sp",
+        "displayed": "10.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 145,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "paperclip",
+        "displayed": "22.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 157,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "hostinger 20% off referral",
+        "displayed": "8.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 168,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "black friday shein",
+        "displayed": "7.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 173,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cuando es el black friday en shein",
+        "displayed": "05.01",
+        "stored_type": "date"
+      },
+      {
+        "row": 182,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quando começa a black friday na shein",
+        "displayed": "06.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 184,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "black friday en shein 2026",
+        "displayed": "5.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 185,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yesstyle reliable",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 187,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupón hostinger",
+        "displayed": "27.01",
+        "stored_type": "date"
+      },
+      {
+        "row": 192,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cuando es black friday en shein 2026",
+        "displayed": "05.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 194,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quando começa a black friday da shein",
+        "displayed": "06.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 195,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "shein black friday",
+        "displayed": "08.03",
+        "stored_type": "date"
+      },
+      {
+        "row": 199,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yesstyle safe to buy from",
+        "displayed": "09.02",
+        "stored_type": "date"
+      },
+      {
+        "row": 202,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "codice coupon yesstyle",
+        "displayed": "19.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 205,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle belgique",
+        "displayed": "05.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 210,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle cupão",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 217,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "nutren creatina",
+        "displayed": "08.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 221,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "k-beauty",
+        "displayed": "12.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 228,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom skelt",
+        "displayed": "11.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 232,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "black friday 2026 en shein",
+        "displayed": "6.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 234,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle trustpilot",
+        "displayed": "6.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 239,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom clea store",
+        "displayed": "5.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 252,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "シーン ブラックフライデー いつ",
+        "displayed": "08.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 259,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "dolce gusto quantos ml cada risco",
+        "displayed": "3.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 266,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "shein black friday 2026",
+        "displayed": "05.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 272,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "codice sconto hostinger",
+        "displayed": "10.02",
+        "stored_type": "date"
+      },
+      {
+        "row": 288,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom desconto probiotica",
+        "displayed": "10.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 291,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "hasta cuando es el black friday de shein",
+        "displayed": "06.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 293,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "temu ou shein",
+        "displayed": "09.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 299,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "black friday shein data",
+        "displayed": "5.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 309,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "damie poltronas",
+        "displayed": "11.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 313,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quantos ml de café faz uma cápsula dolce gusto",
+        "displayed": "5.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 315,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "de que pais es yesstyle",
+        "displayed": "7.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 319,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "hasta cuando es el black friday en shein",
+        "displayed": "06.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 322,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quantos ml tem as capsulas dolce gusto",
+        "displayed": "04.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 325,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yesstyle a legit website",
+        "displayed": "5.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 336,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "does yesstyle have black friday sale",
+        "displayed": "8.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 360,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle reliable",
+        "displayed": "08.03",
+        "stored_type": "date"
+      },
+      {
+        "row": 366,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "hostinger referral code 20% off",
+        "displayed": "23.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 369,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "assinatura dolce gusto",
+        "displayed": "8.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 372,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "codigo descuento yesstyle",
+        "displayed": "30.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 387,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "nutren ou sustagen qual o melhor",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 388,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quais cápsulas entram na assinatura dolce gusto (geração i e neo)?",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 390,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yesstyle or stylevana better",
+        "displayed": "9.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 392,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "neslac comfor x supreme",
+        "displayed": "19.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 395,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "mochaccino canela dolce gusto calorias",
+        "displayed": "3.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 422,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "farofa de bacon",
+        "displayed": "16.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 424,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle codice sconto",
+        "displayed": "5.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 425,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "hostinger trustpilot",
+        "displayed": "6.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 445,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "aliv mascara",
+        "displayed": "10.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 452,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "growth ou max titanium",
+        "displayed": "10.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 453,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "where is yesstyle based",
+        "displayed": "10.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 454,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cuecas insider",
+        "displayed": "13.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 455,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "hostinger gutschein",
+        "displayed": "21.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 457,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "tamanho cafeteira dolce gusto",
+        "displayed": "4.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 464,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle influencer code 5% off",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 468,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "シーン ブラックフライデー",
+        "displayed": "09.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 496,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "does yesstyle sell authentic products",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 499,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yesstyle ok to buy from?",
+        "displayed": "09.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 505,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "can you stack coupons on yesstyle",
+        "displayed": "05.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 507,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "loja damie é confiável",
+        "displayed": "7.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 512,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "melhores hospedagens para paperclip",
+        "displayed": "08.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 516,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "100 punti shein quanto valgono",
+        "displayed": "9.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 520,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "os protetores solares da yesstyle são autênticos e seguros para comprar?",
+        "displayed": "5.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 521,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "쉬인 테무",
+        "displayed": "6.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 523,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "onde colocar codigo na shein",
+        "displayed": "6.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 524,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "black friday de shein cuando es",
+        "displayed": "6.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 525,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "genio s basic vs plus",
+        "displayed": "6.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 526,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle / stylevana",
+        "displayed": "7.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 528,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "nutren senior ou ensure",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 529,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "le creuset vs giant",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 532,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yes style reliable",
+        "displayed": "8.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 533,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "site da max titanium é confiável",
+        "displayed": "8.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 534,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle influencer code 10% off",
+        "displayed": "8.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 535,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "como escolher a melhor cafeteira de cápsula para minha rotina?",
+        "displayed": "09.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 536,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "쉬인 개인정보",
+        "displayed": "09.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 541,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "medidas da cafeteira dolce gusto",
+        "displayed": "9.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 544,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "11 11 shein",
+        "displayed": "10.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 545,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom skelt primeira compra",
+        "displayed": "10.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 546,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "hostinger rabatt",
+        "displayed": "17.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 547,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "openclaw vps",
+        "displayed": "29.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 561,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cléa store é confiável",
+        "displayed": "08.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 563,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "magazine você é confiável",
+        "displayed": "9.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 569,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "shein é confiavel",
+        "displayed": "10.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 580,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "qual é melhor sustagen ou nutren",
+        "displayed": "8.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 581,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "toda up cupom de desconto",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 595,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "café au lait dolce gusto tem açúcar",
+        "displayed": "6.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 596,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle or stylevana which is better",
+        "displayed": "07.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 605,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "nestle nutre é confiável",
+        "displayed": "09.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 615,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom de desconto mais mu",
+        "displayed": "10.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 617,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "shein",
+        "displayed": "13.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 618,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cashback yesstyle",
+        "displayed": "28.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 623,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yesstyle legit and safe",
+        "displayed": "05.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 631,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "giant vs le creuset",
+        "displayed": "8.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 633,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle 公司",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 636,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom lets eat it",
+        "displayed": "09.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 637,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yes style reward code",
+        "displayed": "9.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 649,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "stylevana da dove spedisce",
+        "displayed": "10.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 658,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "black friday en shein cuando es",
+        "displayed": "05.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 666,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "ensure ou nutren senior qual o melhor",
+        "displayed": "7.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 670,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "trustpilot shein",
+        "displayed": "8.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 672,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "reclame aqui clea store",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 676,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cueca insider é boa",
+        "displayed": "09.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 677,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "shein codigo",
+        "displayed": "09.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 679,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yesstyle trusted",
+        "displayed": "9.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 689,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "nutren protein ou whey protein",
+        "displayed": "2.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 698,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "clea store onde fica",
+        "displayed": "06.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 709,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "are products from yesstyle authentic",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 715,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle shipping time to canada",
+        "displayed": "09.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 731,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "bestes paperclip hosting",
+        "displayed": "24.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 735,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "codice influencer yesstyle 5",
+        "displayed": "05.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 744,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yesstyle better than stylevana",
+        "displayed": "07.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 774,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "qué es paperclip",
+        "displayed": "16.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 775,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "damie",
+        "displayed": "17.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 785,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "nutren senior",
+        "displayed": "4.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 789,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "viernes negro shein",
+        "displayed": "07.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 806,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "air fryer quando surgiu",
+        "displayed": "09.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 812,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "qual a diferenca da dolce gusto basic e plus",
+        "displayed": "10.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 813,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle rewards codes",
+        "displayed": "10.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 819,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "loja nestlé online é confiável",
+        "displayed": "11.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 822,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "mejores proveedores de hosting para paperclip",
+        "displayed": "13.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 830,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cápsulas neo são diferentes das cápsulas original da dolce gusto?",
+        "displayed": "05.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 833,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "adaptador neo start",
+        "displayed": "07.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 848,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "dolce gusto genio s plus e basic diferença",
+        "displayed": "09.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 849,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "www.magazinevoce.com.br é confiavel",
+        "displayed": "09.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 860,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "ist yesstyle seriös",
+        "displayed": "10.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 875,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom insider store",
+        "displayed": "29.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 879,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "qual a diferença entre os tipos de cafeteira de cápsula?",
+        "displayed": "1.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 880,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "whey protein ou nutren senior",
+        "displayed": "2.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 881,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quantos ml cada nivel da dolce gusto",
+        "displayed": "2.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 882,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "ja",
+        "displayed": "2.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 883,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "dolce gusto quantos ml cada nivel",
+        "displayed": "3.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 885,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quantos ml da uma capsula dolce gusto",
+        "displayed": "4.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 886,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quantos ml rende uma capsula dolce gusto",
+        "displayed": "5.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 887,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "as cápsulas dolce gusto em quantidade são mais baratas para escritórios?",
+        "displayed": "5.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 888,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cada capsula dolce gusto faz quantos ml",
+        "displayed": "5.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 889,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "genio s touch vs genio s plus",
+        "displayed": "5.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 890,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cuando es el black friday en shein?",
+        "displayed": "5.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 892,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "creatina probiotica ou max titanium",
+        "displayed": "6.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 893,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "qual melhor creatina dux ou max titanium",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 894,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "can you stack yesstyle codes",
+        "displayed": "7.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 895,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom desconto i wanna sleep",
+        "displayed": "7.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 896,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cléa store e confiável",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 897,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "qual é melhor nutren ou ensure",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 898,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quando vai ter black friday na shein",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 899,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "nespresso e dolce gusto é a mesma coisa",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 900,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle dogana italia",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 901,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "assinatura dolce gusto dá frete grátis?",
+        "displayed": "7.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 902,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle safe?",
+        "displayed": "8.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 903,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "nutren pode tomar com leite quente",
+        "displayed": "8.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 904,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "codigos yesstyle",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 905,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "creatina growth ou max titanium qual o melhor",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 906,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "sustagen ou nutren qual o melhor",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 907,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "is yesstyle legit for skincare",
+        "displayed": "8.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 911,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "quando a airfryer foi criada",
+        "displayed": "9.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 912,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "stylevana versandkosten",
+        "displayed": "9.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 913,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cupom de desconto black skull",
+        "displayed": "9.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 914,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "shein com singapore クレジットカード",
+        "displayed": "10.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 915,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesstyle oder stylevana",
+        "displayed": "10.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 916,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "origine shein",
+        "displayed": "10.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 917,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "caramelo salgado dolce gusto",
+        "displayed": "11.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 918,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "promo coupon",
+        "displayed": "12.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 919,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "bellezza coreana",
+        "displayed": "13.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 920,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "preço",
+        "displayed": "14.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 921,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "routine skincare debutante",
+        "displayed": "18.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 922,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "korean beauty",
+        "displayed": "20.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 924,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "diferença entre nan e neslac",
+        "displayed": "22.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 925,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "descuento en hosting black friday",
+        "displayed": "24.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 926,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "yesvana",
+        "displayed": "29.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 938,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "que es mejor stylevana o yesstyle",
+        "displayed": "6.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 947,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "as cápsulas nespresso são mais caras que as dolce gusto?",
+        "displayed": "7.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 961,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "inflow sofá",
+        "displayed": "8.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 971,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "cafeteira dolce gusto ou nespresso",
+        "displayed": "9.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 972,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "creatina growth ou max titanium",
+        "displayed": "9.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 973,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "diferenca genio s basic e plus",
+        "displayed": "9.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 991,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "nutren just protein para que serve",
+        "displayed": "15.11",
+        "stored_type": "date"
+      }
+    ],
+    "emcasacomcecilia.com-Performance-on-Search-2026-11-06.ods :: Páginas": [
+      {
+        "row": 2,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/tabela-medidas-dolce-gusto-ml-por-nivel",
+        "displayed": "04.02",
+        "stored_type": "date"
+      },
+      {
+        "row": 6,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ja/reviews/shein-black-friday-ja",
+        "displayed": "07.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 14,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/dolce-gusto-vs-nespresso-qual-escolher",
+        "displayed": "8.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 15,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch",
+        "displayed": "07.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 17,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica",
+        "displayed": "09.01",
+        "stored_type": "date"
+      },
+      {
+        "row": 23,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/en/reviews/is-yesstyle-legit-and-safe-review",
+        "displayed": "8.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 25,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/codigo-de-indicacao-shein",
+        "displayed": "06.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 28,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/black-friday-i-wanna-sleep",
+        "displayed": "05.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 30,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://damie.emcasacomcecilia.com/resenhas/poltrona-reclinavel-2-0-damie",
+        "displayed": "08.03",
+        "stored_type": "date"
+      },
+      {
+        "row": 31,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/macarrao-ao-molho-alfredo-com-limao-siciliano",
+        "displayed": "8.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 32,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/como-encontrar-cupons-yesstyle-validos",
+        "displayed": "07.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 43,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/black-friday-magalu",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 49,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-valid-coupon-guide-zh-hant",
+        "displayed": "7.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 56,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/cupons/yesstyle",
+        "displayed": "6.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 57,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/fr/reviews/yesstyle-livraison-france-belgique-canada",
+        "displayed": "7.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 67,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hant/reviews/abib-skincare-routine-30-zh-hant",
+        "displayed": "06.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 72,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/magazine-voce-e-confiavel",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 75,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/cupom-magalu-em-casa-com-cecilia",
+        "displayed": "8.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 77,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/yesstyle-e-confiavel",
+        "displayed": "7.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 79,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/dolce-gusto-maquinas-qual-escolher",
+        "displayed": "07.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 80,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/damie-reclame-aqui-o-que-os-dados-mostram",
+        "displayed": "07.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 81,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ja/reviews/shein-trust-guide-ja",
+        "displayed": "07.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 92,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/assinatura-dolce-gusto-como-funciona",
+        "displayed": "8.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 99,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/melhores-capsulas-dolce-gusto-2026",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 102,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/how-to-find-valid-yesstyle-coupon-codes",
+        "displayed": "07.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 109,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/brigadeiro-branco-com-granulado-colorido",
+        "displayed": "07.03",
+        "stored_type": "date"
+      },
+      {
+        "row": 122,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/poltronas-reclinaveis-damie-vale-o-investimento",
+        "displayed": "08.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 124,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-eletrica",
+        "displayed": "07.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 133,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/lasanha-de-queijo-cottage-com-vegetais",
+        "displayed": "6.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 134,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/mousse-de-chocolate-com-pimenta-rosa",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 145,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/clea-store-e-confiavel",
+        "displayed": "10.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 147,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/nanlac-supreme-ou-ninho-fases",
+        "displayed": "5.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 149,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/black-skull-ou-growth",
+        "displayed": "7.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 150,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/melatonina-gummy-iws-para-que-serve-como-tomar",
+        "displayed": "7.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 151,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/en/reviews/yesstyle-vs-olive-young",
+        "displayed": "08.03",
+        "stored_type": "date"
+      },
+      {
+        "row": 154,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/videos/minha-primeira-lava-e-seca-samsung-13kg-video",
+        "displayed": "10.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 155,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/temaki-de-salmao-com-cream-cheese",
+        "displayed": "8.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 158,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/adaptador-neo-start-o-que-e",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 159,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/es/reviews/como-encontrar-cupones-yesstyle-validos",
+        "displayed": "11.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 162,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/en/reviews/shein-11-11-sale-picks",
+        "displayed": "06.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 168,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/cupons/letseatit",
+        "displayed": "10.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 169,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/autobronzeador-skelt-qual-escolher",
+        "displayed": "06.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 171,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hant/reviews/shein-vs-shopee-zh-hant",
+        "displayed": "9.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 196,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/undershirt-insider-qual-escolher-funciona",
+        "displayed": "09.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 199,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/belive-reclame-aqui-nota-reputacao",
+        "displayed": "5.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 200,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ko/reviews/hostinger-trust-guide-ko",
+        "displayed": "07.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 211,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/dr-peanut-e-confiavel",
+        "displayed": "09.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 216,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/it/reviews/app-yesstyle-come-acquistare-codice-ricompensa",
+        "displayed": "5.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 219,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/removedor-autobronzeador-skelt-como-tirar",
+        "displayed": "8.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 225,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/sorvete-caseiro-de-morango",
+        "displayed": "10.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 237,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/de/reviews/paperclip-ai-hostinger-anleitung",
+        "displayed": "18.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 239,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/camiseta-feminina-insider-qual-escolher",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 254,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/trufas-de-chocolate-com-pistache-e-framboesa",
+        "displayed": "5.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 259,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/gelatina-de-vinho-com-frutas-frescas",
+        "displayed": "8.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 264,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/torta-holandesa-com-creme-e-chocolate",
+        "displayed": "9.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 275,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/is-yesstyle-legit-and-safe-review",
+        "displayed": "16.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 278,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/cupom-toda-up-como-usar",
+        "displayed": "08.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 288,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-zh-hans",
+        "displayed": "4.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 289,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/cupons/clea-store",
+        "displayed": "6.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 290,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/yesstyle-ou-stylevana",
+        "displayed": "7.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 293,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/it/reviews/shein-e-affidabile-e-sicuro",
+        "displayed": "8.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 294,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/es/reviews/cupon-hostinger-codigo-de-referido",
+        "displayed": "23.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 295,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/en/reviews/shein-vs-temu-which-to-choose",
+        "displayed": "7.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 301,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/isosource-1-5-ou-trophic-1-5",
+        "displayed": "5.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 303,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/lejour-como-funciona",
+        "displayed": "07.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 308,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/fibermais-como-usar-em-receitas-e-bebidas",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 309,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/doce-de-leite-caseiro-cremoso",
+        "displayed": "09.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 316,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/porto-brasil-e-boa",
+        "displayed": "07.03",
+        "stored_type": "date"
+      },
+      {
+        "row": 320,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/cupons/belive",
+        "displayed": "4.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 325,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/es-yesstyle-de-fiar-y-seguro",
+        "displayed": "17.01",
+        "stored_type": "date"
+      },
+      {
+        "row": 328,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/jogo-americano-tecido-tamanho-cor",
+        "displayed": "07.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 334,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/sofa-modular-ou-retratil-qual-escolher",
+        "displayed": "6.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 340,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/k-beauty-marcas-coreanas-tendencia-mundial",
+        "displayed": "14.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 345,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/probiotica-ou-dux",
+        "displayed": "06.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 347,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/isosource-1-5-para-que-serve",
+        "displayed": "08.03",
+        "stored_type": "date"
+      },
+      {
+        "row": 360,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/cupons/skelt",
+        "displayed": "10.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 368,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/bagaggio-e-confiavel",
+        "displayed": "09.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 385,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/videos",
+        "displayed": "05.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 387,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/cupons/nutren",
+        "displayed": "7.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 389,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/mini-pizza-de-calabresa-com-massa-caseira",
+        "displayed": "9.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 394,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/lista-de-casamento-lejour-como-criar",
+        "displayed": "10.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 395,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/categorias",
+        "displayed": "5.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 398,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/cupons/toda-up",
+        "displayed": "8.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 401,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/es/reviews/skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle",
+        "displayed": "7.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 406,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ja/reviews/shein-referral-code-ja",
+        "displayed": "9.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 415,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/copo-da-felicidade-raffaello",
+        "displayed": "06.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 421,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/fr/reviews/shein-11-11-selection-promos",
+        "displayed": "5.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 422,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/pipoca-doce-no-micro-ondas",
+        "displayed": "9.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 428,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hans/reviews/shein-trust-guide-zh-hans",
+        "displayed": "13.03",
+        "stored_type": "date"
+      },
+      {
+        "row": 434,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/promocao-insider-selecao-com-cupom",
+        "displayed": "6.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 441,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/max-titanium-reclame-aqui-nota-reputacao",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 446,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular",
+        "displayed": "5.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 450,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/hostinger-ou-hostgator",
+        "displayed": "26.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 476,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ja/reviews/yesstyle-trust-guide-ja",
+        "displayed": "6.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 479,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ko/reviews/vps-or-shared-hosting-ko",
+        "displayed": "11.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 480,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/max-titanium-e-boa",
+        "displayed": "11.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 494,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://damie.emcasacomcecilia.com/guias/cama-estofada-damie-slim-ou-plus",
+        "displayed": "7.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 504,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/it/reviews/skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle",
+        "displayed": "09.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 507,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/whey-mais-mu-qual-escolher",
+        "displayed": "5.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 508,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador",
+        "displayed": "6.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 509,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/palha-italiana-de-cafe",
+        "displayed": "8.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 512,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/fr/reviews/hostinger-avis-trustpilot",
+        "displayed": "12.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 542,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/salada-de-batata-com-maionese-caseira-e-ervas",
+        "displayed": "06.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 545,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/salada-caprese-com-molho-pesto",
+        "displayed": "08.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 569,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hans/reviews/shein-referral-code-zh-hans",
+        "displayed": "3.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 571,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/code-recompense-yesstyle-cecilia010",
+        "displayed": "5.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 572,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/snacks-dr-peanut-qual-escolher",
+        "displayed": "5.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 573,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/black-friday-letseatit",
+        "displayed": "5.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 574,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/fr",
+        "displayed": "6.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 575,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/clea-store-e-boa",
+        "displayed": "6.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 576,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/nutren-senior-kit-combo-ou-assinatura",
+        "displayed": "7.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 577,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/beijinho-de-coco-tradicional",
+        "displayed": "7.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 578,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/en/reviews/hostinger-reach-vs-mailchimp-brevo",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 579,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/mala-de-bordo-bagaggio-qual-compensa",
+        "displayed": "8.1",
+        "stored_type": "date"
+      },
+      {
+        "row": 580,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/cubinhos-de-frango-crocantes",
+        "displayed": "8.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 581,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/rabanadas-gourmet-com-sorvete-de-canela",
+        "displayed": "8.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 582,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/enroladinho-de-salsicha-com-massa-folhada",
+        "displayed": "9.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 583,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/it/coupons/shein",
+        "displayed": "9.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 584,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/cupons/simple-organic",
+        "displayed": "13.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 585,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/openclaw-hostinger-gerenciado-ou-vps",
+        "displayed": "15.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 586,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/es/reviews/vps-o-hosting-compartido-cual-elegir",
+        "displayed": "28.9",
+        "stored_type": "date"
+      },
+      {
+        "row": 587,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/de/coupons/shein",
+        "displayed": "29.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 591,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-vs-olive-young-zh-hans",
+        "displayed": "5.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 596,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/pudim-de-pao-com-passas",
+        "displayed": "7.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 612,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/fr/reviews/vps-ou-hebergement-mutualise",
+        "displayed": "25.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 617,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/black-friday-belive",
+        "displayed": "7.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 623,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/pudim-de-leite-condensado-tradicional",
+        "displayed": "11.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 661,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/simple-organic-reclame-aqui-nota-reputacao",
+        "displayed": "9.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 665,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant",
+        "displayed": "12.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 668,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/en/reviews/hostinger-ai-builder-worth-it",
+        "displayed": "14.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 671,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/nhoque-de-batata-com-molho-de-tomate",
+        "displayed": "19.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 673,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono",
+        "displayed": "3.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 674,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hant/reviews/shein-11-11-picks-zh-hant",
+        "displayed": "3.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 675,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/es/reviews/shein-opiniones-trustpilot",
+        "displayed": "4.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 677,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/es/reviews/yesstyle-opiniones-trustpilot",
+        "displayed": "5.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 678,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/nachos-com-chilli-e-queijo-derretido",
+        "displayed": "5.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 679,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/en/reviews",
+        "displayed": "6.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 680,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/shein-vale-a-pena",
+        "displayed": "6.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 681,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/videos/aniversario-damie-poltronas-sofas-camas",
+        "displayed": "6.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 684,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/en/reviews/vps-or-shared-hosting-which-to-choose",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 685,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/burritos-de-frango-com-feijao-e-queijo",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 686,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/picole-surpresa-de-pascoa",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 690,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/caldo-verde-com-bacon-crocante",
+        "displayed": "8.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 691,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 692,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ko/reviews/yesstyle-reward-code-cecilia010-ko",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 693,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/arroz-branco-soltinho",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 694,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-ko",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 695,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ja/coupons/shein",
+        "displayed": "8.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 696,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/bolinho-kids-belive-lancheira",
+        "displayed": "8.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 697,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/en/reviews/is-hostinger-legit",
+        "displayed": "9.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 698,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hant/reviews/shein-trustpilot-reviews-zh-hant",
+        "displayed": "9.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 699,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/manjar-de-coco-com-calda-de-ameixa",
+        "displayed": "9.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 700,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ko/coupons/hostinger",
+        "displayed": "9.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 701,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/de/reviews/hostinger-domain-kaufen-oder-umziehen",
+        "displayed": "9.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 703,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-black-friday-zh-hans",
+        "displayed": "10.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 704,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/bolo-de-coco-gelado-com-cobertura-de-coco",
+        "displayed": "11.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 705,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/dr-peanut-qual-tamanho-compensa",
+        "displayed": "12.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 706,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ja/reviews/openclaw-vs-hermes-agent-ja",
+        "displayed": "13.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 708,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://damie.emcasacomcecilia.com/videos",
+        "displayed": "21.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 716,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/hidratante-corporal-skelt-qual-fragrancia",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 717,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/minha-experiencia-manteiga-batida-aerada",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 718,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-ja",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 722,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/cheesecake-de-morango-com-decoracao-de-pascoa",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 723,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/pave-de-maracuja-com-chocolate-branco",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 724,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/tomates-confitados",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 729,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/tamanho-shein-brasil",
+        "displayed": "9.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 733,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/loja/yesstyle",
+        "displayed": "12.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 782,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ko/reviews/yesstyle-app-reward-code-ko",
+        "displayed": "2.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 784,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://damie.emcasacomcecilia.com/galeria",
+        "displayed": "3.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 785,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/loja/max-titanium",
+        "displayed": "3.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 786,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/simple-organic-e-confiavel",
+        "displayed": "3.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 797,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/cordeirinho-de-bolo-de-cenoura",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 798,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/loja/mais-mu",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 801,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://damie.emcasacomcecilia.com/guias/melhor-poltrona-para-o-seu-pai-dia-dos-pais",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 802,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/black-friday",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 803,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ja/reviews/hostinger-black-friday-ja",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 804,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ja/reviews/shein-11-11-picks-ja",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 805,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/biscoitos-de-coelhinho",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 806,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/nhoque-de-ricota-com-molho-de-espinafre",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 807,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/loja/i-wanna-sleep",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 808,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/zh-hans/coupons/yesstyle",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 812,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://damie.emcasacomcecilia.com/guias/poltrona-para-jogar-levita-ou-reclinavel-2-0",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 813,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/salada-caesar-com-frango-grelhado",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 814,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/loja/shein",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 815,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/hot-cross-buns",
+        "displayed": "9.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 819,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/ko/reviews/yesstyle-vs-olive-young-ko",
+        "displayed": "10.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 822,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/fr/reviews/choisir-hebergeur-hostinger",
+        "displayed": "11.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 823,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/reviews/skelt-e-boa",
+        "displayed": "11.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 826,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/es/reviews",
+        "displayed": "16.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 828,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "https://emcasacomcecilia.com/receitas/tiramisu-italiano-autentico",
+        "displayed": "24.5",
+        "stored_type": "date"
+      }
+    ],
+    "emcasacomcecilia.com-Performance-on-Search-2026-11-06.ods :: Países": [
+      {
+        "row": 2,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Brasil",
+        "displayed": "07.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 5,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Espanha",
+        "displayed": "10.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 12,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "França",
+        "displayed": "09.04",
+        "stored_type": "date"
+      },
+      {
+        "row": 15,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Alemanha",
+        "displayed": "10.01",
+        "stored_type": "date"
+      },
+      {
+        "row": 19,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Chile",
+        "displayed": "07.01",
+        "stored_type": "date"
+      },
+      {
+        "row": 20,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Austrália",
+        "displayed": "09.01",
+        "stored_type": "date"
+      },
+      {
+        "row": 25,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Bolívia",
+        "displayed": "06.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 27,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Irlanda",
+        "displayed": "08.06",
+        "stored_type": "date"
+      },
+      {
+        "row": 29,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Hungria",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 30,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Venezuela",
+        "displayed": "5.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 33,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "China",
+        "displayed": "6.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 34,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Bélgica",
+        "displayed": "6.7",
+        "stored_type": "date"
+      },
+      {
+        "row": 37,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Grécia",
+        "displayed": "08.01",
+        "stored_type": "date"
+      },
+      {
+        "row": 41,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Angola",
+        "displayed": "07.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 48,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Índia",
+        "displayed": "10.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 56,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Jordânia",
+        "displayed": "08.05",
+        "stored_type": "date"
+      },
+      {
+        "row": 57,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Moçambique",
+        "displayed": "5.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 60,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Luxemburgo",
+        "displayed": "07.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 68,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Nepal",
+        "displayed": "8.11",
+        "stored_type": "date"
+      },
+      {
+        "row": 80,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Áustria",
+        "displayed": "07.02",
+        "stored_type": "date"
+      },
+      {
+        "row": 81,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Noruega",
+        "displayed": "08.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 85,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Vietnã",
+        "displayed": "11.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 87,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Croácia",
+        "displayed": "7.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 88,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Panamá",
+        "displayed": "7.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 93,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Geórgia",
+        "displayed": "8.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 94,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Tunísia",
+        "displayed": "07.09",
+        "stored_type": "date"
+      },
+      {
+        "row": 95,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Kuwait",
+        "displayed": "8.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 97,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Eslováquia",
+        "displayed": "09.08",
+        "stored_type": "date"
+      },
+      {
+        "row": 99,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Eslovênia",
+        "displayed": "8.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 105,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Bósnia e Herzegovina",
+        "displayed": "08.02",
+        "stored_type": "date"
+      },
+      {
+        "row": 112,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Palestina",
+        "displayed": "5.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 126,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Zâmbia",
+        "displayed": "7.4",
+        "stored_type": "date"
+      },
+      {
+        "row": 127,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Zimbábue",
+        "displayed": "07.07",
+        "stored_type": "date"
+      },
+      {
+        "row": 138,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Martinica",
+        "displayed": "5.3",
+        "stored_type": "date"
+      },
+      {
+        "row": 139,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Uzbequistão",
+        "displayed": "8.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 145,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Etiópia",
+        "displayed": "10.12",
+        "stored_type": "date"
+      },
+      {
+        "row": 157,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Kosovo",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 159,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Gabão",
+        "displayed": "4.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 160,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Jersey",
+        "displayed": "4.6",
+        "stored_type": "date"
+      },
+      {
+        "row": 162,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Bielorrússia",
+        "displayed": "6.2",
+        "stored_type": "date"
+      },
+      {
+        "row": 163,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Sudão",
+        "displayed": "7.8",
+        "stored_type": "date"
+      },
+      {
+        "row": 164,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Afeganistão",
+        "displayed": "7.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 167,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Belize",
+        "displayed": "9.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 168,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Botsuana",
+        "displayed": "13.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 180,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Papua-Nova Guiné",
+        "displayed": "2.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 181,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Gibraltar",
+        "displayed": "3.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 183,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Groenlândia",
+        "displayed": "6.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 187,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Saara Ocidental",
+        "displayed": "8.5",
+        "stored_type": "date"
+      },
+      {
+        "row": 188,
+        "column": 5,
+        "field": "Posição",
+        "row_key": "Libéria",
+        "displayed": "9.5",
+        "stored_type": "date"
+      }
+    ]
+  },
+  "original_files_modified": false,
+  "google_period": {
+    "from": "2026-08-05",
+    "to": "2026-11-04"
+  },
+  "bing_daily_period": {
+    "from": "2026-08-06",
+    "to": "2026-11-03"
+  },
+  "bing_other_csv_period": "Three months stated by Bruno; the CSV tables contain no period or filter metadata.",
+  "earlier_87_exposure": {
+    "google_web": {
+      "article_url_row_sum": 169890.0,
+      "prior_87_url_row_sum": 88250.0,
+      "prior_87_share": 0.5194537642003649
+    },
+    "google_ai": {
+      "article_url_row_sum": 27851.0,
+      "prior_87_url_row_sum": 14656.0,
+      "prior_87_share": 0.5262288607231338
+    },
+    "google_discover": {
+      "article_url_row_sum": 7144.0,
+      "prior_87_url_row_sum": 0,
+      "prior_87_share": 0.0
+    },
+    "bing_web": {
+      "article_url_row_sum": 2797.0,
+      "prior_87_url_row_sum": 2431.0,
+      "prior_87_share": 0.8691455130496961
+    },
+    "bing_ai": {
+      "article_url_row_sum": 6660.0,
+      "prior_87_url_row_sum": 6111.0,
+      "prior_87_share": 0.9175675675675675
+    }
+  },
+  "bing_ai_article_clusters": {
+    "damie": 13.0,
+    "sem_parceiro": 29.0,
+    "dolce-gusto": 5330.0,
+    "yesstyle": 831.0,
+    "i-wanna-sleep": 14.0,
+    "nestle-nutre": 320.0,
+    "magalu": 35.0,
+    "letseatit": 13.0,
+    "insider": 6.0,
+    "shein": 34.0,
+    "probiotica": 0.0,
+    "dr-peanut": 0.0,
+    "black-skull": 14.0,
+    "lejour": 6.0,
+    "max-titanium": 14.0,
+    "clea-store": 0.0,
+    "belive": 0.0,
+    "hostinger": 0.0,
+    "mais-mu": 0.0,
+    "skelt": 1.0,
+    "bagaggio": 0.0,
+    "toda-up": 0.0,
+    "simple-organic": 0.0,
+    "holyfoods": 0.0
+  },
+  "google_daily_periods": {
+    "prior_28": {
+      "from": "2026-09-10",
+      "to": "2026-10-07",
+      "days": 28,
+      "impressions": 38505,
+      "clicks": 347
+    },
+    "latest_28": {
+      "from": "2026-10-08",
+      "to": "2026-11-04",
+      "days": 28,
+      "impressions": 132404,
+      "clicks": 924
+    }
+  },
+  "limits": [
+    "Page-row sums are URL exposure, not unique people, answers or orders.",
+    "Country-report position zero is not interpreted as ranking.",
+    "Web, AI features and Discover are kept separate; Google AI is included in the overall Web view.",
+    "Dates stored in position cells are not reconstructed as numeric rankings.",
+    "No query-to-page join is present; ranking does not establish coupon use or visibility of a literal code."
+  ]
+}

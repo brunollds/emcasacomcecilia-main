@@ -16,6 +16,7 @@
   },
   "description": "Kits e lembranças para quem treina, de cinco lojas parceiras, por faixa de preço, com os preços de 25/10/2026 e o cupom de cada loja.",
   "publishedAt": "25 de outubro de 2026",
+  "updatedAt": "2026-11-07",
   "publishedAtISO": "2026-10-25",
   "draft": false,
   "isNew": true,
@@ -48,7 +49,7 @@
     {
       "heading": "Quem já usa creatina ou whey",
       "paragraphs": [
-        "Para creatina, o kit com dois potes de 300 g da Probiótica sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, o kit com dois potes de Whey Turbo de 907 g da Black Skull sai por R$ 132,81, de R$ 139,80. A Max Titanium vende a creatina de 300 g sozinha por R$ 59,90, e o kit dela com o Whey Pro de 1 kg sai por R$ 158,90. Quem quer creatina e whey numa caixa só da Probiótica tem o kit com a creatina de 300 g e o Iso Protein Blend de 900 g, por R$ 138,89.",
+        "Para creatina, o kit com dois potes de 300 g da Probiótica sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, atenção: o kit com dois potes de Whey Turbo de 907 g da Black Skull sai por R$ 132,81, de R$ 139,80, mas a loja o lista entre os hipercalóricos, não como whey concentrado; é presente para quem já usa esse tipo. A Max Titanium vende a creatina de 300 g sozinha por R$ 59,90, e o kit dela com o Whey Pro de 1 kg sai por R$ 158,90. Quem quer creatina e whey numa caixa só da Probiótica tem o kit com a creatina de 300 g e o Iso Protein Blend de 900 g, por R$ 138,89. O Iso Protein Blend mistura proteína isolada de soja e concentrada do soro e leva leite, soja e lactose entre os alergênicos; o rótulo muda por sabor.",
         "Quem já sabe o que a pessoa usa acerta a proteína com o [guia de whey](/reviews/melhor-whey-qual-escolher-por-objetivo) e a creatina com o [guia de creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher)."
       ],
       "image": {
@@ -392,7 +393,7 @@
     {
       "heading": "Qual presente escolher",
       "bullets": [
-        "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81.",
+        "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81, que é hipercalórico e só serve para quem já usa esse tipo.",
         "Quem não sabe o que a pessoa usa: a coqueteleira da Black Skull, por R$ 19,90, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.",
         "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 119,00, é a peça com tamanhos; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
         "Quem gosta de doce: o kit de 10 alfajores da Dr. Peanut, por R$ 129,90, ou o de 12 wafers, por R$ 130,68, com o rótulo de cada um.",

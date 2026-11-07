@@ -1,0 +1,1170 @@
+{
+  "targets": 46,
+  "legacy_locale_targets": 31,
+  "limit": "Public responses and metadata only; no accounts, robots inspection panel, actual SERP snippets or generated-answer text.",
+  "observations": [
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-trust-guide-zh-hant",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-trust-guide-zh-hant",
+          "observed_utc": "2026-11-07T01:56:33.675131+00:00",
+          "status": 308,
+          "location": "/zh-hant/reviews/yesstyle-trust-guide-zh-hant",
+          "x_robots_tag": null,
+          "html_sha256": "72cebf4f1a77ef83b312ed5b7b5326289f6e21bb459bc988827987d480de1fb8"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-trust-guide-zh-hant",
+          "observed_utc": "2026-11-07T01:56:34.693258+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "2c56f3548611ac34dd585829b4e2b6463fdab507312f2717d3376b9c3ae0249f",
+          "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南 - Em Casa com Cecília",
+          "meta": {
+            "description": "獎勵碼 CECILIA010 可在 YesStyle 首次購物享 5% 優惠，之後每次 2%。YesStyle 可靠嗎？公司、稅費與客服一覽。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-trust-guide-zh-hant"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-zh-hant",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-zh-hant",
+          "observed_utc": "2026-11-07T01:56:35.706265+00:00",
+          "status": 308,
+          "location": "/zh-hant/reviews/yesstyle-valid-coupon-guide-zh-hant",
+          "x_robots_tag": null,
+          "html_sha256": "9745a1a8f58fcf72932d92817d28b2ce38ecd2197d40ec151aa3cbd7e690bbd1"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-valid-coupon-guide-zh-hant",
+          "observed_utc": "2026-11-07T01:56:36.713709+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "cd41c8a82ad06050eb8ded19cd95423e7c04a1b92ec0bbf7d74e87724ae06952",
+          "title": "如何找到 YesStyle 優惠碼並與 CECILIA010 疊加使用 - Em Casa com Cecília",
+          "meta": {
+            "description": "哪裡找得到目前有效的 YesStyle 優惠碼、如何避開過期代碼，以及怎麼疊加獎勵碼 CECILIA010，額外省下高達 5%。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-valid-coupon-guide-zh-hant"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-trust-guide-zh-hans",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-trust-guide-zh-hans",
+          "observed_utc": "2026-11-07T01:56:38.402746+00:00",
+          "status": 308,
+          "location": "/zh-hans/reviews/yesstyle-trust-guide-zh-hans",
+          "x_robots_tag": null,
+          "html_sha256": "5b02df5980dad9cf4a7bb362f32867e452ae47c6e3e33eefe5244e8d4a5e83c1"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-trust-guide-zh-hans",
+          "observed_utc": "2026-11-07T01:56:39.395352+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "5aa9445c995864a44d34343470d92354a55b6a3dc39a3abed74dd09fc5ec199e",
+          "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南 - Em Casa com Cecília",
+          "meta": {
+            "description": "奖励码 CECILIA010 可在 YesStyle 首次购物享 5% 优惠，之后每次 2%。YesStyle 可靠吗？公司、税费与客服一览。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-trust-guide-zh-hans"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-trust-guide-ko",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-trust-guide-ko",
+          "observed_utc": "2026-11-07T01:56:41.109034+00:00",
+          "status": 308,
+          "location": "/ko/reviews/yesstyle-trust-guide-ko",
+          "x_robots_tag": null,
+          "html_sha256": "f0e3a5289acfde9ed3603c127cb2d40e98142a65d1509ed73730c2c6f50481e7"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/ko/reviews/yesstyle-trust-guide-ko",
+          "observed_utc": "2026-11-07T01:56:42.109882+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "b79aa8375b90d62a97c3a3eb6e256f64371007a585d974574dd0758ef335f554",
+          "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보 - Em Casa com Cecília",
+          "meta": {
+            "description": "리워드 코드 CECILIA010은 YesStyle 첫 구매 5%, 이후 구매 2% 할인. YesStyle은 믿을 만할까요? 회사 정보, 세금, 고객 지원을 살펴봅니다.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/ko/reviews/yesstyle-trust-guide-ko"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/how-to-find-valid-yesstyle-coupon-codes",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/how-to-find-valid-yesstyle-coupon-codes",
+          "observed_utc": "2026-11-07T01:56:43.112832+00:00",
+          "status": 308,
+          "location": "/en/reviews/how-to-find-valid-yesstyle-coupon-codes",
+          "x_robots_tag": null,
+          "html_sha256": "525404df9d589bed162de752c6c41b76a605461888f5174d9fa504e808dcfab0"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/en/reviews/how-to-find-valid-yesstyle-coupon-codes",
+          "observed_utc": "2026-11-07T01:56:44.120938+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "d2ca89e8e4a3b3ae7d64d9d1fc55dd08e96e17339e993708f221589f9e5f6fc4",
+          "title": "How to Find and Stack YesStyle Coupons with CECILIA010",
+          "meta": {
+            "description": "Where to find the YesStyle coupons that are live right now, how to avoid expired codes and how to add the CECILIA010 reward code for up to 5% extra savings.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/en/reviews/how-to-find-valid-yesstyle-coupon-codes"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-zh-hant",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-zh-hant",
+          "observed_utc": "2026-11-07T01:56:45.117187+00:00",
+          "status": 308,
+          "location": "/zh-hant/reviews/yesstyle-kbeauty-guide-zh-hant",
+          "x_robots_tag": null,
+          "html_sha256": "5eb5fd684ac92aa21fa6f821e9174af0c14ab33bef80170826a02e62e2a9ce17"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-kbeauty-guide-zh-hant",
+          "observed_utc": "2026-11-07T01:56:46.127272+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "93417d4ea363a1a63a70cacc8b2153d5cc1c4096f684176bf8c265e79aeface5",
+          "title": "K-Beauty 韓妝：全球趨勢與 YesStyle 購買指南 - Em Casa com Cecília",
+          "meta": {
+            "description": "用獎勵碼 CECILIA010 在 YesStyle 買 K-Beauty：首購 5%，之後每筆 2%。了解什麼是 K-Beauty、為何走紅，以及哪裡買 COSRX、Anua。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-kbeauty-guide-zh-hant"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-rabatt-cecilia010",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-rabatt-cecilia010",
+          "observed_utc": "2026-11-07T01:56:47.935910+00:00",
+          "status": 308,
+          "location": "/de/reviews/yesstyle-reward-code-rabatt-cecilia010",
+          "x_robots_tag": null,
+          "html_sha256": "88b1c94b096f58adb284435fe9cea8365949db1ba03306f7198e46d12e8c6677"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/de/reviews/yesstyle-reward-code-rabatt-cecilia010",
+          "observed_utc": "2026-11-07T01:56:48.941606+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "45eab408d24324477d0a50d62a824f1ad7f3a47cedbbc557d02b2742825d38a9",
+          "title": "YesStyle CECILIA010: Reward Code nutzen - Em Casa com Cecília",
+          "meta": {
+            "description": "CECILIA010 bei YesStyle nutzen: Feld Reward Code, bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), laut Checkout mit berechtigten Aktionsgutscheinen kombinierbar.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/de/reviews/yesstyle-reward-code-rabatt-cecilia010"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/is-yesstyle-legit-and-safe-review",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/is-yesstyle-legit-and-safe-review",
+          "observed_utc": "2026-11-07T01:56:50.955841+00:00",
+          "status": 308,
+          "location": "/en/reviews/is-yesstyle-legit-and-safe-review",
+          "x_robots_tag": null,
+          "html_sha256": "9286cfe3d8d0fde1f8472a56ecdfb41d88c46d6e905ab24e7fb3e05b43aa4202"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/en/reviews/is-yesstyle-legit-and-safe-review",
+          "observed_utc": "2026-11-07T01:56:51.972503+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "485786fcb75a33254964c7997f4ec7ddf32b705ff9f9e7a63a2728564c2c8a76",
+          "title": "Is YesStyle Legit? Yes: Hong Kong Retailer Since 2006",
+          "meta": {
+            "description": "The CECILIA010 Reward Code gives 5% off your first YesStyle order and 2% on later ones. Is YesStyle legit? Company, taxes and support.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/en/reviews/is-yesstyle-legit-and-safe-review"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-zh-hans",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-zh-hans",
+          "observed_utc": "2026-11-07T01:56:52.977257+00:00",
+          "status": 308,
+          "location": "/zh-hans/reviews/yesstyle-kbeauty-guide-zh-hans",
+          "x_robots_tag": null,
+          "html_sha256": "be4124506ade55cab77ec173d4f52e84d3f6c81b9b670b3b0f4d229406be4f16"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-kbeauty-guide-zh-hans",
+          "observed_utc": "2026-11-07T01:56:53.981704+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "c8192a98f9831970f123feb365619bb46ce865501d44621fde8c5ef4b7d39a5b",
+          "title": "K-Beauty 热潮全解：韩国护肤品风靡全球的原因与购买指南 - Em Casa com Cecília",
+          "meta": {
+            "description": "用奖励码 CECILIA010 在 YesStyle 买 K-Beauty：首单 5%，之后每单 2%。了解什么是 K-Beauty、为何走红，以及哪里买 COSRX、Anua。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-kbeauty-guide-zh-hans"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-est-il-fiable-et-sur",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-est-il-fiable-et-sur",
+          "observed_utc": "2026-11-07T01:56:54.985628+00:00",
+          "status": 308,
+          "location": "/fr/reviews/yesstyle-est-il-fiable-et-sur",
+          "x_robots_tag": null,
+          "html_sha256": "183132cbffb194e21a4ae72877d0c5eee50d8e53424086994986d0dee7cf1fca"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/fr/reviews/yesstyle-est-il-fiable-et-sur",
+          "observed_utc": "2026-11-07T01:56:55.979524+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "f7688cb311bcb052cb08eb08fad9cf540ef72b9adc42b416612a83fced7a837d",
+          "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter",
+          "meta": {
+            "description": "Le code récompense CECILIA010 donne 5 % sur votre premier achat YesStyle et 2 % sur les suivants. YesStyle est-il fiable ? Société et taxes.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/fr/reviews/yesstyle-est-il-fiable-et-sur"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/ist-yesstyle-serioes-und-sicher",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/ist-yesstyle-serioes-und-sicher",
+          "observed_utc": "2026-11-07T01:56:56.986573+00:00",
+          "status": 308,
+          "location": "/de/reviews/ist-yesstyle-serioes-und-sicher",
+          "x_robots_tag": null,
+          "html_sha256": "be23f26f93df49686b5b53a7dabf03922cb23fbbe0ea299ebcaa2fd33e7e9fc0"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/de/reviews/ist-yesstyle-serioes-und-sicher",
+          "observed_utc": "2026-11-07T01:56:57.976226+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "3011b82af701bc239d297dd68edc85abbb4663ff784ecc6b54ebc488a209d9e9",
+          "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen",
+          "meta": {
+            "description": "Der Reward Code CECILIA010 gibt 5 % auf den ersten YesStyle-Kauf und 2 % auf weitere. Ist YesStyle seriös? Unternehmen, Steuern und Kundenservice.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/de/reviews/ist-yesstyle-serioes-und-sicher"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/es-yesstyle-de-fiar-y-seguro",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/es-yesstyle-de-fiar-y-seguro",
+          "observed_utc": "2026-11-07T01:56:58.989020+00:00",
+          "status": 308,
+          "location": "/es/reviews/es-yesstyle-de-fiar-y-seguro",
+          "x_robots_tag": null,
+          "html_sha256": "8c68f577130ebd760ea4c5e4ab12954c9536f069c8b122ca117493131c2396a5"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/es/reviews/es-yesstyle-de-fiar-y-seguro",
+          "observed_utc": "2026-11-07T01:56:59.994122+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "b2888dd8a672a7b734faf9a09944e2712fd1e555606f1935c0d42211154ee21d",
+          "title": "¿YesStyle es confiable? Sí: tienda de Hong Kong desde 2006",
+          "meta": {
+            "description": "El código de recompensa CECILIA010 da un 5 % en tu primera compra en YesStyle y un 2 % en las siguientes. ¿YesStyle es confiable? Empresa e impuestos.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/es/reviews/es-yesstyle-de-fiar-y-seguro"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/k-beauty-marcas-coreanas-tendencia-mundial",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/k-beauty-marcas-coreanas-tendencia-mundial",
+          "observed_utc": "2026-11-07T01:57:00.995540+00:00",
+          "status": 308,
+          "location": "/es/reviews/k-beauty-marcas-coreanas-tendencia-mundial",
+          "x_robots_tag": null,
+          "html_sha256": "9d6399b23394b90ab166eb78fad2719fa9871295c369ba53519ddff58e204017"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/es/reviews/k-beauty-marcas-coreanas-tendencia-mundial",
+          "observed_utc": "2026-11-07T01:57:01.991917+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "d11a8ecbcbdc7dc24797e656bfc3a78bc495e01cd39a9f5d285933c141d13f7e",
+          "title": "K-Beauty: marcas coreanas de skincare - Em Casa com Cecília",
+          "meta": {
+            "description": "K-Beauty en YesStyle con el código CECILIA010: 5% en la primera compra y 2% en las siguientes. Qué es, por qué es tendencia y dónde comprar COSRX y Anua.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/es/reviews/k-beauty-marcas-coreanas-tendencia-mundial"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/k-beauty-trend-koreanische-marken-kaufen",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/k-beauty-trend-koreanische-marken-kaufen",
+          "observed_utc": "2026-11-07T01:57:03.792449+00:00",
+          "status": 308,
+          "location": "/de/reviews/k-beauty-trend-koreanische-marken-kaufen",
+          "x_robots_tag": null,
+          "html_sha256": "a0eabffeff760472e24c63a2a4691d5b92e4b4f68648c4425dc762a2de7879dd"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/de/reviews/k-beauty-trend-koreanische-marken-kaufen",
+          "observed_utc": "2026-11-07T01:57:04.797588+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "a826c6ea2f86855e1ca043f1152153f0694d465ae8bbe0eb43e152ac48e71439",
+          "title": "K-Beauty kaufen: Marken, Trend & YesStyle - Em Casa com Cecília",
+          "meta": {
+            "description": "K-Beauty bei YesStyle mit dem Reward Code CECILIA010: 5 % beim ersten Kauf, 2 % bei den folgenden. Was es ist, warum es Trend wurde, wo man COSRX kauft.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/de/reviews/k-beauty-trend-koreanische-marken-kaufen"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-trust-guide-ja",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-trust-guide-ja",
+          "observed_utc": "2026-11-07T01:57:05.793342+00:00",
+          "status": 308,
+          "location": "/ja/reviews/yesstyle-trust-guide-ja",
+          "x_robots_tag": null,
+          "html_sha256": "bfb536386823c28fcdace032091e6327ab9859601308cee75c57a658fe225e3c"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/ja/reviews/yesstyle-trust-guide-ja",
+          "observed_utc": "2026-11-07T01:57:06.800057+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "2799554b7619f81125116e60ecf38748bc5cd120423b50da15e6a33b0a7a2eb0",
+          "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判 - Em Casa com Cecília",
+          "meta": {
+            "description": "リワードコードCECILIA010は、YesStyleの初回購入で5%、2回目以降は2%の割引。YesStyleは信頼できる？ 会社情報、税金、サポートを解説します。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/ja/reviews/yesstyle-trust-guide-ja"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/como-encontrar-cupones-yesstyle-validos",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/como-encontrar-cupones-yesstyle-validos",
+          "observed_utc": "2026-11-07T01:57:07.807104+00:00",
+          "status": 308,
+          "location": "/es/reviews/como-encontrar-cupones-yesstyle-validos",
+          "x_robots_tag": null,
+          "html_sha256": "1391d7f151af301f2e95dc03222b977da99b5ba3b18691605bb3f49365d3f4ab"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/es/reviews/como-encontrar-cupones-yesstyle-validos",
+          "observed_utc": "2026-11-07T01:57:08.806952+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "88fc4e74404aeba0713041b46fd1810f63f069d362b94d310aee85296cb54da5",
+          "title": "Cómo encontrar y combinar los cupones de YesStyle con CECILIA010",
+          "meta": {
+            "description": "Dónde encontrar los cupones de YesStyle vigentes, cómo evitar los códigos vencidos y cómo sumar el código de recompensa CECILIA010 para ahorrar hasta un 5% extra.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/es/reviews/como-encontrar-cupones-yesstyle-validos"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-ko",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-ko",
+          "observed_utc": "2026-11-07T01:57:10.214400+00:00",
+          "status": 308,
+          "location": "/ko/reviews/yesstyle-valid-coupon-guide-ko",
+          "x_robots_tag": null,
+          "html_sha256": "76dd2d26e4ec8acc0a1e4dfadeb9018078a9716ab33cc10f0b6316732c75a9b0"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/ko/reviews/yesstyle-valid-coupon-guide-ko",
+          "observed_utc": "2026-11-07T01:57:11.215900+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "232a5db6a0b56a825b4f58512c069ffbff2694f7946d38502294a9228547a6b6",
+          "title": "YesStyle 쿠폰 찾는 법과 CECILIA010 함께 쓰는 법 - Em Casa com Cecília",
+          "meta": {
+            "description": "지금 유효한 YesStyle 쿠폰을 찾는 곳, 만료된 코드를 피하는 법, 리워드 코드 CECILIA010을 함께 써서 최대 5% 더 절약하는 방법을 정리했습니다.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/ko/reviews/yesstyle-valid-coupon-guide-ko"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010",
+          "observed_utc": "2026-11-07T01:57:12.215377+00:00",
+          "status": 308,
+          "location": "/en/reviews/yesstyle-reward-code-coupon-cecilia010",
+          "x_robots_tag": null,
+          "html_sha256": "b44522776b099f3eea2acbfa4ff8cb2b74fedf56aa4fe1b2760095c0e26c4144"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/en/reviews/yesstyle-reward-code-coupon-cecilia010",
+          "observed_utc": "2026-11-07T01:57:13.206128+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "52ead20a21ac42ca6b3b5cc6cb0f35d77937acce5b9d4230c08c7b4c19f99170",
+          "title": "YesStyle CECILIA010: Reward Code - Em Casa com Cecília",
+          "meta": {
+            "description": "How to use CECILIA010 on YesStyle: the Reward Code field, up to 5% extra (5% on the first order and 2% on repeat orders), combinable with eligible promo coupons as shown at checkout.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/en/reviews/yesstyle-reward-code-coupon-cecilia010"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/code-recompense-yesstyle-cecilia010",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/code-recompense-yesstyle-cecilia010",
+          "observed_utc": "2026-11-07T01:57:14.953873+00:00",
+          "status": 308,
+          "location": "/fr/reviews/code-recompense-yesstyle-cecilia010",
+          "x_robots_tag": null,
+          "html_sha256": "75ece020ad74395426c5e513686d29e45f500cb13e1a10b2bbba2fdd29af89d5"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/fr/reviews/code-recompense-yesstyle-cecilia010",
+          "observed_utc": "2026-11-07T01:57:15.953001+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "ae36469979f38041b7e3fe21fbe5688c184da192d1c750bab4ef54f1b103c493",
+          "title": "YesStyle CECILIA010 : code de récompense - Em Casa com Cecília",
+          "meta": {
+            "description": "Comment utiliser CECILIA010 sur YesStyle : champ Reward Code, jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes), cumulable avec les coupons promotionnels éligibles selon le paiement.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/fr/reviews/code-recompense-yesstyle-cecilia010"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-ja",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-ja",
+          "observed_utc": "2026-11-07T01:57:16.946288+00:00",
+          "status": 308,
+          "location": "/ja/reviews/yesstyle-kbeauty-guide-ja",
+          "x_robots_tag": null,
+          "html_sha256": "701386115626de5fe7105c502d0b29bff19d081100608a733cb012cb72b8a5de"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/ja/reviews/yesstyle-kbeauty-guide-ja",
+          "observed_utc": "2026-11-07T01:57:17.954679+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "1a6a639a58dd78fccefbe1acb0d8c03e8c9abbcb6f55820350d4f56b95f27b01",
+          "title": "K-Beauty：世界で流行する韓国コスメの魅力と購入方法 - Em Casa com Cecília",
+          "meta": {
+            "description": "K-BeautyをYesStyleで買うならリワードコードCECILIA010。初回5%、2回目以降2%。K-Beautyとは何か、流行の理由、COSRXやAnuaの買い方も解説。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/ja/reviews/yesstyle-kbeauty-guide-ja"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/comment-trouver-des-codes-promo-yesstyle-valides",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/comment-trouver-des-codes-promo-yesstyle-valides",
+          "observed_utc": "2026-11-07T01:57:19.336291+00:00",
+          "status": 308,
+          "location": "/fr/reviews/comment-trouver-des-codes-promo-yesstyle-valides",
+          "x_robots_tag": null,
+          "html_sha256": "ff84d2f34dad8147bf2604a798f869ada1088e6ae2d1a4fb55853e802340ce0b"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/fr/reviews/comment-trouver-des-codes-promo-yesstyle-valides",
+          "observed_utc": "2026-11-07T01:57:20.339901+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "80f026103a70703cf7a64c6855415b6315ad8dfcc6aaeae44006ba204a77764b",
+          "title": "Comment trouver et cumuler les coupons YesStyle avec CECILIA010",
+          "meta": {
+            "description": "Où trouver les coupons YesStyle en cours, comment éviter les codes périmés et comment ajouter le code de récompense CECILIA010 pour économiser jusqu'à 5 % de plus.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/fr/reviews/comment-trouver-des-codes-promo-yesstyle-valides"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/k-beauty-trend-explained-where-to-buy",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/k-beauty-trend-explained-where-to-buy",
+          "observed_utc": "2026-11-07T01:57:21.717877+00:00",
+          "status": 308,
+          "location": "/en/reviews/k-beauty-trend-explained-where-to-buy",
+          "x_robots_tag": null,
+          "html_sha256": "2f62a8ab8d29900f5df0aa9c6249115b0b382245aae6e597239b16371b72a683"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/en/reviews/k-beauty-trend-explained-where-to-buy",
+          "observed_utc": "2026-11-07T01:57:22.714857+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "e85123de463877567db04f9be7b4a8d4af5d2e0af445a01b9e5c4162032cfc55",
+          "title": "K-Beauty: Why It's Global & Where to Shop - Em Casa com Cecília",
+          "meta": {
+            "description": "K-Beauty on YesStyle with the code CECILIA010: 5% on your first order and 2% on later ones. What it is, why it went global, where to buy COSRX and Anua.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/en/reviews/k-beauty-trend-explained-where-to-buy"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-zh-hans",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-zh-hans",
+          "observed_utc": "2026-11-07T01:57:23.711820+00:00",
+          "status": 308,
+          "location": "/zh-hans/reviews/yesstyle-valid-coupon-guide-zh-hans",
+          "x_robots_tag": null,
+          "html_sha256": "11878fc1d06b6050b7651d6f511d04f1a8a410e0c32d9fdb69d6627319219339"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-valid-coupon-guide-zh-hans",
+          "observed_utc": "2026-11-07T01:57:24.716679+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "d331dacc1b80968b8d46ba20eed1280e49378ddf748a6dfe0103d49a4cb33b17",
+          "title": "如何找到 YesStyle 优惠码并与 CECILIA010 叠加使用 - Em Casa com Cecília",
+          "meta": {
+            "description": "去哪里找当前有效的 YesStyle 优惠码、如何避开过期代码，以及怎样叠加奖励码 CECILIA010，额外省下高达 5%。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-valid-coupon-guide-zh-hans"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/gueltige-yesstyle-gutscheincodes-finden",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/gueltige-yesstyle-gutscheincodes-finden",
+          "observed_utc": "2026-11-07T01:57:25.717345+00:00",
+          "status": 308,
+          "location": "/de/reviews/gueltige-yesstyle-gutscheincodes-finden",
+          "x_robots_tag": null,
+          "html_sha256": "9ea01bbece2f2e12bd1648e3d664957f2eec5797c89401b7aa0a437388dee168"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/de/reviews/gueltige-yesstyle-gutscheincodes-finden",
+          "observed_utc": "2026-11-07T01:57:26.722918+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "3f7eb393eccc2a064aa0df4a5aceea2e9ccfb7767bd851f9c520d0ce87f70e35",
+          "title": "YesStyle-Gutscheine finden und mit CECILIA010 kombinieren",
+          "meta": {
+            "description": "Wo Sie die aktuell gültigen YesStyle-Gutscheine finden, wie Sie abgelaufene Codes vermeiden und wie Sie den Reward Code CECILIA010 für bis zu 5 % Extra-Rabatt dazunehmen.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/de/reviews/gueltige-yesstyle-gutscheincodes-finden"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-ko",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-kbeauty-guide-ko",
+          "observed_utc": "2026-11-07T01:57:27.990246+00:00",
+          "status": 308,
+          "location": "/ko/reviews/yesstyle-kbeauty-guide-ko",
+          "x_robots_tag": null,
+          "html_sha256": "545873928b7d3d4900c225f5503018f63964f7382b0d1c97fe75fb4315ad6c99"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/ko/reviews/yesstyle-kbeauty-guide-ko",
+          "observed_utc": "2026-11-07T01:57:29.007147+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "793b574b18083a392a4f5cbce434623c9e84527b57ad4d45b49f72d07c3066ae",
+          "title": "K-뷰티 열풍의 비결과 구매 가이드 | YesStyle - Em Casa com Cecília",
+          "meta": {
+            "description": "K-뷰티는 YesStyle에서 리워드 코드 CECILIA010으로. 첫 구매 5%, 이후 2%. K-뷰티란 무엇이고 왜 유행인지, COSRX·Anua 구매처까지 안내합니다.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/ko/reviews/yesstyle-kbeauty-guide-ko"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ko",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ko",
+          "observed_utc": "2026-11-07T01:57:30.008327+00:00",
+          "status": 308,
+          "location": "/ko/reviews/yesstyle-reward-code-cecilia010-ko",
+          "x_robots_tag": null,
+          "html_sha256": "ed705d82eccd3662b4c8bd06362f41fb651533b3d3d03e4fd3d2ddc63ea3cd64"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/ko/reviews/yesstyle-reward-code-cecilia010-ko",
+          "observed_utc": "2026-11-07T01:57:31.015762+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "189af15cefca209c58c1831fc27b79db62c83a781ed361c3f99700b17ac2742c",
+          "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)",
+          "meta": {
+            "description": "YesStyle에서 CECILIA010 사용법: Reward Code 칸에 입력, 최대 5% 추가(첫 구매 5%, 재구매 2%), 결제 화면에서 확인되는 적격 프로모션 쿠폰과 함께 사용할 수 있습니다.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/ko/reviews/yesstyle-reward-code-cecilia010-ko"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-ja",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-ja",
+          "observed_utc": "2026-11-07T01:57:32.018840+00:00",
+          "status": 308,
+          "location": "/ja/reviews/yesstyle-valid-coupon-guide-ja",
+          "x_robots_tag": null,
+          "html_sha256": "c4a504f0811cc39689cdf4dd6c4d24369a7868b6507dc7e69e3265c3718261d9"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/ja/reviews/yesstyle-valid-coupon-guide-ja",
+          "observed_utc": "2026-11-07T01:57:33.031064+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "e9743a912402701620c44b8617d7e9d663457a111d297fe5e78ef3a3d2ed82d2",
+          "title": "YesStyleクーポンの見つけ方とCECILIA010の併用方法 - Em Casa com Cecília",
+          "meta": {
+            "description": "今出ているYesStyleのクーポンの探し方、期限切れコードを避けるコツ、リワードコードCECILIA010を重ねて最大5%を追加で節約する方法を紹介します。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/ja/reviews/yesstyle-valid-coupon-guide-ja"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010",
+          "observed_utc": "2026-11-07T01:57:34.378768+00:00",
+          "status": 308,
+          "location": "/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010",
+          "x_robots_tag": null,
+          "html_sha256": "2c1f171f63e7f0a7684e9d7df1b0e86f48d1a64a87a40ddc164df34029b8c87b"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010",
+          "observed_utc": "2026-11-07T01:57:35.395640+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "1c556bd39c1d9139c559e88a00235b490de11b8d2fb5bd22e90c9976027329ff",
+          "title": "YesStyle CECILIA010: código de recompensa - Em Casa com Cecília",
+          "meta": {
+            "description": "Cómo usar CECILIA010 en YesStyle: campo Reward Code, hasta un 5% extra (5% en la primera compra y 2% en las recurrentes), combinable con cupones promocionales elegibles según el checkout.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hans",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hans",
+          "observed_utc": "2026-11-07T01:57:37.153772+00:00",
+          "status": 308,
+          "location": "/zh-hans/reviews/yesstyle-reward-code-cecilia010-zh-hans",
+          "x_robots_tag": null,
+          "html_sha256": "467a52522cbaac57f1623b28c5272e01dc7a67527b852bd198d8cd571bb084f0"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-reward-code-cecilia010-zh-hans",
+          "observed_utc": "2026-11-07T01:57:38.150476+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "54b10f789c15bb3afcbbeee20d76aaa930871baefdf93545573b36f1700979d9",
+          "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)",
+          "meta": {
+            "description": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 栏位，可额外享高达 5% 优惠（首单 5%，回购 2%），并可按结账页显示与符合条件的促销优惠券叠加。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/zh-hans/reviews/yesstyle-reward-code-cecilia010-zh-hans"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hant",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hant",
+          "observed_utc": "2026-11-07T01:57:39.149404+00:00",
+          "status": 308,
+          "location": "/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant",
+          "x_robots_tag": null,
+          "html_sha256": "bafa2afd22975193389bf513615279c9019b82b0faaff63f0b8fe3dd3c81f511"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant",
+          "observed_utc": "2026-11-07T01:57:40.147962+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "3bf128cd28833ad97c51388430163dfc2359544e73f03f9714a0331a11c0faef",
+          "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)",
+          "meta": {
+            "description": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 欄位，可額外享高達 5% 優惠（首購 5%，回購 2%），並可依結帳頁顯示與符合資格的促銷優惠券疊加。",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/k-beauty-tendance-beaute-coreenne",
+      "kind": "legacy_locale",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/k-beauty-tendance-beaute-coreenne",
+          "observed_utc": "2026-11-07T01:57:41.154870+00:00",
+          "status": 308,
+          "location": "/fr/reviews/k-beauty-tendance-beaute-coreenne",
+          "x_robots_tag": null,
+          "html_sha256": "d4256c8c953dbcb91c4608060470ec076b08a017d45e2aa183f51831b0b6aedb"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/fr/reviews/k-beauty-tendance-beaute-coreenne",
+          "observed_utc": "2026-11-07T01:57:42.145513+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "a3077c4f2ba05749ae8cdf13817867b77e97b27f21815e0927f5ffe4ef76616f",
+          "title": "K-Beauty : Tendance Beauté Coréenne et Où l'Acheter",
+          "meta": {
+            "description": "K-Beauty sur YesStyle avec le code CECILIA010 : 5 % à la première commande et 2 % aux suivantes. Ce que c’est, pourquoi c’est tendance, où acheter COSRX.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/fr/reviews/k-beauty-tendance-beaute-coreenne"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/cupons/nutren",
+      "kind": "legacy_coupon",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/cupons/nutren",
+          "observed_utc": "2026-11-07T01:57:43.154174+00:00",
+          "status": 308,
+          "location": "/cupons/nestle-nutre",
+          "x_robots_tag": null,
+          "html_sha256": "29bc80db254d9ae06db6fdd4a468c826e42db70b61ca6e816eb5a53e2c2f5f0b"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/cupons/nestle-nutre",
+          "observed_utc": "2026-11-07T01:57:44.160600+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "0a6d21031cd717e6c53131259404648c78ad4e9fba1672c95a82d67db6a01a85",
+          "title": "Cupom Nestlé Nutre: 10% OFF com CECI (nov/2026)",
+          "meta": {
+            "description": "Cupom Nestlé Nutre testado em 26/10/2026: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/cupons/nestle-nutre"
+        }
+      ]
+    },
+    {
+      "requested": "https://www.emcasacomcecilia.com/cupons/nestle-nutre",
+      "kind": "www_coupon",
+      "chain": [
+        {
+          "url": "https://www.emcasacomcecilia.com/cupons/nestle-nutre",
+          "observed_utc": "2026-11-07T01:57:45.402232+00:00",
+          "status": 308,
+          "location": "https://emcasacomcecilia.com/cupons/nestle-nutre",
+          "x_robots_tag": null,
+          "html_sha256": "c77ce026177f234cc27f92f5a0f62789e7ca2aa841927c5253693559fad6ba5b"
+        },
+        {
+          "url": "https://emcasacomcecilia.com/cupons/nestle-nutre",
+          "observed_utc": "2026-11-07T01:57:44.160600+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "0a6d21031cd717e6c53131259404648c78ad4e9fba1672c95a82d67db6a01a85",
+          "title": "Cupom Nestlé Nutre: 10% OFF com CECI (nov/2026)",
+          "meta": {
+            "description": "Cupom Nestlé Nutre testado em 26/10/2026: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/cupons/nestle-nutre"
+        }
+      ]
+    },
+    {
+      "requested": "https://backup.emcasacomcecilia.com/muffin-de-frango-sem-farinha",
+      "kind": "backup",
+      "chain": [
+        {
+          "url": "https://backup.emcasacomcecilia.com/muffin-de-frango-sem-farinha",
+          "observed_utc": "2026-11-07T01:57:46.405435+00:00",
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+        }
+      ]
+    },
+    {
+      "requested": "https://backup.emcasacomcecilia.com/rosquinha-de-maca-com-massa-folhada",
+      "kind": "backup",
+      "chain": [
+        {
+          "url": "https://backup.emcasacomcecilia.com/rosquinha-de-maca-com-massa-folhada",
+          "observed_utc": "2026-11-07T01:57:47.397803+00:00",
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+        }
+      ]
+    },
+    {
+      "requested": "https://backup.emcasacomcecilia.com/sorvete-de-pistache-sem-leite-e-sem-acucar",
+      "kind": "backup",
+      "chain": [
+        {
+          "url": "https://backup.emcasacomcecilia.com/sorvete-de-pistache-sem-leite-e-sem-acucar",
+          "observed_utc": "2026-11-07T01:57:48.408483+00:00",
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+        }
+      ]
+    },
+    {
+      "requested": "https://damie.emcasacomcecilia.com/",
+      "kind": "intentional_damie",
+      "chain": [
+        {
+          "url": "https://damie.emcasacomcecilia.com/",
+          "observed_utc": "2026-11-07T01:57:49.402686+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "2457cedc5f08c2c351cc7adf33c9868f9a1b64121dcc8a10da866de89a4df689",
+          "title": "Cupom Damie CECILIA12 — 12% OFF em Todo o Site",
+          "meta": {
+            "description": "Use o cupom CECILIA12 e ganhe 12% OFF em todo o site oficial da Damie. Reviews reais da Cecília com fotos e vídeos do uso real."
+          },
+          "canonical": "https://damie.emcasacomcecilia.com"
+        }
+      ]
+    },
+    {
+      "requested": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos",
+      "kind": "intentional_damie",
+      "chain": [
+        {
+          "url": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos",
+          "observed_utc": "2026-11-07T01:57:50.399074+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "d3eca44f339ebafbe8d19277ebea165bb7c20c29b2829f2795fa17ac47b8f46d",
+          "title": "Melhor Poltrona para Idoso: Reclinável, Levita ou Lift?",
+          "meta": {
+            "description": "Compare Reclinável, Levita e Reclinável 2.0 com Lift para idosos: apoio, reclinação elétrica, mobilidade e cupom CECILIA12."
+          },
+          "canonical": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/clube-dolce-gusto-como-funciona",
+      "kind": "exposure_sample",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/clube-dolce-gusto-como-funciona",
+          "observed_utc": "2026-11-07T01:57:51.590723+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "9b53234d3094d17f661e7e1ea075ab4741c8e2c87a47551ec589d300ba57b625",
+          "title": "Pontos Dolce Gusto: como cadastrar, usar e trocar no Clube",
+          "meta": {
+            "description": "Clube Dolce Gusto e o cupom CECI, com 10% OFF no site: como cadastrar o código da caixa, acumular pontos e trocar por prêmios.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/reviews/clube-dolce-gusto-como-funciona",
+          "quick_answer_excerpt": "Resposta rápida\nV\nV\nale a pena participar do Clube Dolce Gusto se você já compra cápsulas com frequência: o cadastro é gratuito, cada código de caixa da Geração 1 rende 100 pontos e cada extração na NEO, 10. Use o saldo antes de 6 meses. No site oficial, o cupom\nCECI\ndá 10% OFF em compras a partir de 100 reais.\nPublicidade\nDolce Gusto\nBlack Friday da Dolce Gusto: ofertas novas todos os dias\nCampanha da própria Dolce Gusto. As ofertas mudam sem aviso e as condições aparecem no site da loja.\nVer a campanha\nComo funciona o Clube Dolce Gusto\nSe você já compra cápsulas todo mês, o Clube transforma caixa vazia em pontos: é o programa de fidelidade oficial da marca. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embala"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/promocao-dolce-gusto-caixas-mini-me-gratis",
+      "kind": "exposure_sample",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/promocao-dolce-gusto-caixas-mini-me-gratis",
+          "observed_utc": "2026-11-07T01:57:52.955120+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "26998894aac523763a165606a023328f16352997757ff66ec8e9c052cdc5a3f6",
+          "title": "Mini Me Dolce Gusto: combo com 20 caixas ou avulsa?",
+          "meta": {
+            "description": "Mini Me Dolce Gusto com o cupom CECI e 10% OFF: os combos com máquina, o combo com 20 caixas e a avulsa, e quando cada um compensa.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/reviews/promocao-dolce-gusto-caixas-mini-me-gratis",
+          "quick_answer_excerpt": "Resposta rápida\nD\nD\ná para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom\nCECI\ndá 10% OFF em compras a partir de 100 reais.\nPublicidade\nDolce Gusto\nBlack Friday da Dolce Gusto: ofertas novas todos os dias\nCampanha da própria Dolce Gusto. As ofertas mudam sem aviso e as condições aparecem no site da loja.\nVer a campanha\nComo ganhar ou comprar a Mini Me\nO grátis exige combos somente com cápsulas ORIGINAL, em até 10x sem juros. O número de caixas muda com a campanha (a regra em vigor pede mais de 70), e o carrinho mostra o que vale para o seu pedido.\nHá outro caminho: o combo Mini Me 2.0 com 20 caixas (200 cápsulas), a R$ 797,00, nas versões 110V e 220V. A loja o anuncia como \"para negó"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/assinatura-dolce-gusto-como-funciona",
+      "kind": "exposure_sample",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/assinatura-dolce-gusto-como-funciona",
+          "observed_utc": "2026-11-07T01:57:53.949388+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "66453acb3c2fa30526aa94b15db201f462fa1ad1b8de115b9de7c51114dc035e",
+          "title": "Assinatura Dolce Gusto: Como Funciona e Como Cancelar",
+          "meta": {
+            "description": "Assinatura Dolce Gusto com o cupom CECI (hoje 10% OFF), que somou com os 25% no nosso teste: Geração 1 ou NEO, mínimo de 3 caixas e como cancelar.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/reviews/assinatura-dolce-gusto-como-funciona",
+          "quick_answer_excerpt": "Resposta rápida: como funciona a assinatura\nA\nA\nAssinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com 25% de desconto e frete grátis em pedidos de 3 caixas ou mais, no cartão, e o plano regular pode ser cancelado sem multa. No nosso teste, o\nCECI\n, que dava 5% na época, somou com os 25%. Hoje ele dá 10% a partir de 100 reais.\nPublicidade\nDolce Gusto\nBlack Friday da Dolce Gusto: ofertas novas todos os dias\nCampanha da própria Dolce Gusto. As ofertas mudam sem aviso e as condições aparecem no site da loja.\nVer a campanha\nO que é a Assinatura Dolce Gusto\nA Assinatura é a compra programada de cápsulas no site oficial da NESCAFÉ Dolce Gusto. Em vez de lembrar de fazer um pedido toda vez que a caixa acaba, você escolhe os sabores uma vez, define de quanto em quanto tempo quer receber e o pedido é cobrado e enviado sozinho "
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/tabela-medidas-dolce-gusto-ml-por-nivel",
+      "kind": "exposure_sample",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/tabela-medidas-dolce-gusto-ml-por-nivel",
+          "observed_utc": "2026-11-07T01:57:54.947219+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "d814e0d4d639c4f5566b6b8cc2ac5a133c448a7136f4a91e1031f5e4228c1f7c",
+          "title": "Tabela de medidas Dolce Gusto: ml por risco, do 1 ao 7 e XL",
+          "meta": {
+            "description": "Tabela de medidas Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: quantos ml saem em cada nível, do 1 ao 7 e no XL.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/reviews/tabela-medidas-dolce-gusto-ml-por-nivel",
+          "quick_answer_excerpt": "Resposta rápida\nN\nN\na Dolce Gusto, 1 barra rende cerca de 35 a 40 ml, 4 barras 110 a 120 ml, 7 barras 200 a 220 ml, e o XL chega a 300 ml. A Nestlé não publica tabela oficial única, então são faixas de referência. No site oficial, o cupom\nCECI\ndá 10% OFF em compras a partir de 100 reais.\nPublicidade\nDolce Gusto\nBlack Friday da Dolce Gusto: ofertas novas todos os dias\nCampanha da própria Dolce Gusto. As ofertas mudam sem aviso e as condições aparecem no site da loja.\nVer a campanha\nTabela de referência: volumes encontrados no manual\nSão faixas dos manuais da Genio S Touch e da Mini Me 2.0, não calibração oficial. Alguns aparecem em cartões de receita e outros junto aos ícones da escala de barras; por isso, devem ser lidos como faixas de referência:\nAmpliar\nFoto da tabela de preparo impressa na embalagem: cafés, lattes e as duas extrações d"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/nutren-senior-ensure-ou-sustagen-senior",
+      "kind": "exposure_sample",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/nutren-senior-ensure-ou-sustagen-senior",
+          "observed_utc": "2026-11-07T01:57:55.942331+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "15bde5b0f269141793f5e94c4128ed556e3ca627d131e2aa47fbee0645bdb9f5",
+          "title": "Nutren Senior, Ensure ou Sustagen: comparação pelo rótulo",
+          "meta": {
+            "description": "Nutren Senior, Ensure ou Sustagen Senior, com o cupom CECI e 10% OFF no Nutren: proteína, cálcio, vitamina D e lactose lado a lado pelo rótulo.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/reviews/nutren-senior-ensure-ou-sustagen-senior",
+          "quick_answer_excerpt": "Resposta rápida\nN\nN\não existe um melhor entre os três: cada rótulo informa os números numa base diferente, e a escolha depende da dose indicada pelo médico ou nutricionista. O que mais pesa é a lactose e o fato de o Ensure não publicar a tabela por porção. Na loja oficial Nestlé Nutre, o cupom\nCECI\ndá 10% OFF no Nutren Senior.\nPublicidade\nATÉ\n25%\nNestlé Nutre\nEsquenta Black Friday da Nestlé Nutre: até 25% OFF\nCampanha da própria Nestlé Nutre, em produtos selecionados e sem fórmulas infantis. As condições aparecem no site da loja.\nVer a campanha\nComo comparar os três rótulos\nO que muda de um rótulo para o outro é a base dos números, e é isso que este capítulo explica antes da tabela.\nCada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, variando por versão), a Sustagen usa a porção de 40 g, e a página d"
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/reviews/clea-store-aniversario-14-anos-t-shirt-brinde",
+      "kind": "exposure_sample",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/reviews/clea-store-aniversario-14-anos-t-shirt-brinde",
+          "observed_utc": "2026-11-07T01:57:56.945153+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "99f09a4db9621eb3c1f1adecadd8d6b323f6653b3297586b510bbed927f413b1",
+          "title": "Cléa Store 14 anos: T-Shirt de brinde até 31/10",
+          "meta": {
+            "description": "Cléa Store 14 anos: a T-Shirt de brinde e o cupom CSEMCASACOMCECILIA, com 10% OFF, testados juntos. Como escolher e o pedido mais barato.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/reviews/clea-store-aniversario-14-anos-t-shirt-brinde",
+          "quick_answer_excerpt": "Resposta rápida\nA\nA\nCléa Store dá uma T-Shirt Oversized de brinde na compra de qualquer peça, até 31/10/2026, e o cupom\nCSEMCASACOMCECILIA\n, com 10% em todo o site, vale junto com o brinde. Uma peça no carrinho basta, e um kit conta como uma. O que decide quanto você paga é a peça escolhida; veja abaixo o pedido mais barato.\nPublicidade\nCléa Store\nBlack Friday da Cléa Store: 30% OFF em todo o site\nCampanha da própria Cléa Store, com kits de camiseta a preço fixo. As condições aparecem no site da loja.\nVer a campanha\nComo funciona o brinde dos 14 anos\nA Cléa Store comemora 14 anos com uma T-Shirt Oversized de brinde em qualquer compra, até o fim de outubro, e o cupom\nCSEMCASACOMCECILIA\nvale junto. Veja como pegar o brinde.\nVocê escolhe a T-Shirt numa janela do site. Com o carrinho vazio, a loja avisa: \"Adicione mais 1 item(ns) para ganhar "
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/en/reviews/is-yesstyle-legit-and-safe-review",
+      "kind": "exposure_sample",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/en/reviews/is-yesstyle-legit-and-safe-review",
+          "observed_utc": "2026-11-07T01:56:51.972503+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "485786fcb75a33254964c7997f4ec7ddf32b705ff9f9e7a63a2728564c2c8a76",
+          "title": "Is YesStyle Legit? Yes: Hong Kong Retailer Since 2006",
+          "meta": {
+            "description": "The CECILIA010 Reward Code gives 5% off your first YesStyle order and 2% on later ones. Is YesStyle legit? Company, taxes and support.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/en/reviews/is-yesstyle-legit-and-safe-review",
+          "quick_answer_excerpt": "Quick answer\nY\nY\nes, YesStyle is legitimate: it is a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The store itself declares that its products are authentic; when your order arrives, check the batch number, expiry date and seal. To shop with a discount, see the\nYesStyle coupons\n, checked on November 6, 2026.\nAdvertisement\nUP TO\n50%\nYesStyle\nYesStyle Black Friday Sale: up to 50% off\nRun by YesStyle itself. The terms are on the YesStyle website.\nSee the offer\nPublic company information\nYesStyle is based in Hong Kong and has operated since 2006. It belongs to YesAsia Holdings (2209.HK), listed on the Hong Kong stock exchange, as the parent company's\nbusiness page\nand\ninvestor relations\nshow.\nYesStyle serves customers in more than 150 countries and regions, with a site language selector. The "
+        }
+      ]
+    },
+    {
+      "requested": "https://emcasacomcecilia.com/en/reviews/how-to-find-valid-yesstyle-coupon-codes",
+      "kind": "exposure_sample",
+      "chain": [
+        {
+          "url": "https://emcasacomcecilia.com/en/reviews/how-to-find-valid-yesstyle-coupon-codes",
+          "observed_utc": "2026-11-07T01:56:44.120938+00:00",
+          "status": 200,
+          "location": null,
+          "x_robots_tag": null,
+          "html_sha256": "d2ca89e8e4a3b3ae7d64d9d1fc55dd08e96e17339e993708f221589f9e5f6fc4",
+          "title": "How to Find and Stack YesStyle Coupons with CECILIA010",
+          "meta": {
+            "description": "Where to find the YesStyle coupons that are live right now, how to avoid expired codes and how to add the CECILIA010 reward code for up to 5% extra savings.",
+            "robots": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+          },
+          "canonical": "https://emcasacomcecilia.com/en/reviews/how-to-find-valid-yesstyle-coupon-codes",
+          "quick_answer_excerpt": "Quick answer\nY\nY\nesStyle promotional\ncoupons\ngo in the Coupon Code field and have their own rules: validity, minimum purchase, region and eligible products.\nCECILIA010\nis a reward code: it goes in the Reward Code field and gives 5% extra on a first purchase and 2% on later ones. Check both discounts in the order summary before you pay.\nAdvertisement\nUP TO\n50%\nYesStyle\nYesStyle Black Friday Sale: up to 50% off\nRun by YesStyle itself. The terms are on the YesStyle website.\nSee the offer\nWhy is a YesStyle coupon rejected at checkout?\nIf you have copied a YesStyle coupon code and watched the checkout reject it, the reason is almost always in the promotion's rules.\nThe most common ones: the coupon expired (many campaigns last 72 to 96 hours, others a month), the campaign is valid only in some regions, the order did not reach the minimum, the p"
+        }
+      ]
+    }
+  ]
+}

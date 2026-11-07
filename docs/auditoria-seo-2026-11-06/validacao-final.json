@@ -1,0 +1,49 @@
+{
+  "source_release": "45ab7e43ea3ccd235f2c744a537aef4eb2ab383d",
+  "inventory": 620,
+  "reviewed_this_round": 530,
+  "previously_reviewed": 87,
+  "drafts_excluded": 3,
+  "pending_this_round": 0,
+  "reports": 75,
+  "complete_families": 31,
+  "single_articles": 220,
+  "role_pairs": [
+    {
+      "analyst": "yesstyle_pt_en",
+      "reviewer_documenter": "yesstyle_de",
+      "articles": 260
+    },
+    {
+      "analyst": "yesstyle_es_fr",
+      "reviewer_documenter": "yesstyle_de",
+      "articles": 90
+    },
+    {
+      "analyst": "yesstyle_es_fr",
+      "reviewer_documenter": "/root",
+      "articles": 60
+    },
+    {
+      "analyst": "yesstyle_es_fr",
+      "reviewer_documenter": "yesstyle_pt_en",
+      "articles": 70
+    },
+    {
+      "analyst": "yesstyle_pt_en",
+      "reviewer_documenter": "/root",
+      "articles": 30
+    },
+    {
+      "analyst": "yesstyle_pt_en",
+      "reviewer_documenter": "yesstyle_es_fr",
+      "articles": 20
+    }
+  ],
+  "source_hashes_checked": 530,
+  "public_http_pages": 530,
+  "broken_local_links": [],
+  "tracked_changes": [],
+  "errors": [],
+  "limit": "Documentary completeness and source identity checks; not a search-ranking or substantive correctness guarantee."
+}

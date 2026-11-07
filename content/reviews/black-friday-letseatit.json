@@ -18,7 +18,7 @@
   "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 40%.",
   "publishedAt": "9 de outubro de 2026",
   "publishedAtISO": "2026-10-09",
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/letseatit/black-friday-letseatit-capa-discover.webp",
@@ -33,7 +33,7 @@
   ],
   "cons": [
     "O desconto da Le Creuset fica só nas peças e cores da coleção de promoção; fora dela, o preço é o cheio",
-    "Não há frete grátis na compra",
+    "Frete grátis só em Le Creuset e Zwilling acima de R$ 1.000; no resto, o frete é pelo CEP",
     "O cashback só vale numa compra de 7 vezes o valor do cupom",
     "Os prazos de entrega podem mudar em períodos promocionais"
   ],
@@ -41,7 +41,7 @@
     {
       "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
       "paragraphs": [
-        "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%; o dia da Black Friday é 27 de novembro. A Le Creuset tem coleção de promoção, de 15% a 40% OFF, a maioria das panelas com 25%. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
+        "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70%; o dia da Black Friday é 27 de novembro. A Le Creuset tem coleção de promoção, de 15% a 40% OFF. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
       ]
     },
     {
@@ -138,11 +138,11 @@
       "bullets": [
         "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
         "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
-        "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita agora gera um cashback que ainda vale na sexta da Black Friday.",
+        "**Cashback e a sexta:** pela página do cashback, o cupom só pode ser usado a partir de 7 dias depois da compra que o gerou e vale 30 dias. Para usar o cashback na sexta da Black Friday, a compra que o gera precisa ser feita pelo menos 7 dias antes; uma compra na semana da data gera um cupom que só vale depois dela. Os termos estão na página do cashback.",
         "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
         "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tira R$ 87,34, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
         "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
-        "**Frete:** não há frete grátis na compra. Ele é calculado pelo CEP e pelo peso do pedido."
+        "**Frete:** frete grátis só para Le Creuset e Zwilling, em pedidos acima de R$ 1.000 em produtos dessas marcas, segundo a política de frete da loja. No resto, o frete é calculado pelo CEP e pelo peso do pedido: confira o valor no carrinho antes de pagar."
       ],
       "links": [
         {
@@ -204,10 +204,10 @@
         "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Le Creuset de 15% a 40% OFF, Porto Brasil até 60%, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
         "Le Creuset fica mais barata na Black Friday? Fica. A coleção Promoção Le Creuset traz peças de 15% a 40% OFF, a maioria com 25%. A panela Redonda Signature de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75.",
         "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 40%, e a maioria das panelas Signature tem 25%.",
-        "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O envio da devolução é que sai por conta da loja.",
+        "A Let's Eat It tem frete grátis? Só em casos específicos: a política de frete cita Le Creuset e Zwilling em pedidos acima de R$ 1.000 em produtos dessas marcas. No resto, o frete é calculado pelo CEP e pelo peso do pedido, e o carrinho mostra o valor. O envio da devolução sai por conta da loja.",
         "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
         "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
-        "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom vale 30 dias: uma compra feita até 30 dias antes da sexta gera um cupom que ainda vale nela, desde que a nova compra seja de pelo menos 7 vezes o valor do cupom.",
+        "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom só pode ser usado a partir de 7 dias depois da compra que o gerou, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom. Para usar na sexta da Black Friday, a compra que gera o cupom precisa ser de pelo menos 7 dias antes; os termos estão na página do cashback.",
         "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
         "Até quando comprar para chegar antes do Natal? Pela nossa conta com o prazo mais longo da loja e um dia útil de folga, a data limite vai de meados de dezembro em São Paulo capital ao começo de dezembro no Norte e no Nordeste; a tabela do guia traz cada região."
       ]

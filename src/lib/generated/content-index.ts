@@ -46054,6 +46054,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Qual cobertor escolher, com o cupom CECIEMCASA de 10% OFF na I Wanna Sleep: Igloo, Huggy, Puffer Ultralight e Cozy por sensação térmica, tecido e peso.",
     "publishedAt": "7 de setembro de 2026",
     "publishedAtISO": "2026-09-07",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/iwannasleep/qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-discover.webp",
@@ -46066,7 +46067,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o Igloo se quem divide a cama sente temperaturas diferentes, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e quem dorme com você; o veredito está em Qual escolher: o cobertor certo para cada perfil."
+          "Escolha o Igloo se quer um cobertor reversível, com um lado fresco e outro quente, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e o toque que você prefere; o veredito está em Qual escolher: o cobertor certo para cada perfil."
         ]
       },
       {
@@ -46080,14 +46081,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se você divide a cama com alguém, é quase certo que já vivenciou a clássica guerra do cobertor: de um lado do colchão, alguém deita reclamando que o quarto está abafado, liga o ventilador ou joga a coberta para fora; do outro lado, a outra pessoa se encolhe batendo o queixo, puxa o edredom até o pescoço e reclama de qualquer fresta de vento.",
           "Esse desencontro de termostatos é comum entre casais. Com um edredom único, um acorda com calor e o outro com frio nas pontas descobertas.",
-          "Foi para pacificar essa disputa na cama que a I Wanna Sleep projetou a Linha Igloo, introduzindo no mercado brasileiro o conceito de cobertor dupla face com gerenciamento térmico inteligente.",
-          "Em vez do mesmo tecido na peça inteira, o Igloo tem dois lados: um que esfria, outro que aquece:"
+          "A I Wanna Sleep projetou a Linha Igloo como um cobertor dupla face reversível: virar a peça muda a face voltada ao corpo, e por isso a mesma coberta serve a noites mais quentes e mais frias.",
+          "Em vez do mesmo tecido na peça inteira, o Igloo tem dois lados, um de toque fresco e outro de toque quente. A face voltada ao corpo é a mesma para quem divide a cama: o cobertor não esfria um lado e aquece o outro ao mesmo tempo:"
         ],
         "bullets": [
           "O Lado Ice-Feel (toque frio imediato): fibras que dissipam o calor do contato, reduzindo a sensação térmica em 2 a 3°C, na medição da própria marca com termômetro infravermelho. Para quem transpira à noite ou dorme de ar-condicionado ligado;",
           "O Lado Warm-Feel (aconchego térmico respirável): face aconchegante que retém o calor corporal natural de forma suave e respirável para madrugadas frias, sem transformar a cama em um forno abafado;",
           "Acabamento Silk-Glide Surface™: acabamento acetinado de alta densidade que faz o cobertor deslizar com facilidade sobre o lençol e sobre o corpo, sem prender quem se mexe durante o sono;",
-          "Trama Air-Flow System™: circulação de ar microscópica constante entre as duas faces, impedindo acúmulo de umidade e mantendo a peça fresca e arejada;",
+          "Trama Air-Flow System™: segundo a marca, favorece a circulação de ar entre as duas faces;",
           "Tamanhos disponíveis: versão Casal/Queen (2,20m x 2,40m) com caimento farto nas laterais e versão King/Super King (2,40m x 2,60m) para camas extralargas."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-oficial-uso.webp",
@@ -46135,17 +46136,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Puffer Ultralight: aquecimento leve que vira almofada",
         "paragraphs": [
-          "Cobertor pesado prende os pés, dificulta virar na cama e sufoca. O Puffer resolve no ar preso em fibras ocas, não no peso.",
+          "Cobertor pesado pode prender os pés e dificultar virar na cama. O Puffer aposta no ar preso em fibras ocas, não no peso.",
           "Para romper com o paradigma de que cobertor bom precisa pesar uma tonelada, a I Wanna Sleep foi buscar inspiração no vestuário técnico de montanhismo para conceber a Linha Puffer Ultralight. Em vez de aquecer pela sobreposição maciça de camadas, o modelo utiliza o princípio termodinâmico do ar aprisionado.",
-          "O coração do Puffer Ultralight é o enchimento exclusivo AirFiber™ IWS: microfibras microscópicas ocas, como minúsculos tubos transparentes. O calor corporal penetra na fibra e aquece o ar preso dentro de cada microduto, gerando uma barreira térmica altamente eficiente com uma fração minúscula do peso de uma colcha comum."
+          "O coração do Puffer Ultralight é o enchimento exclusivo AirFiber™ IWS: microfibras microscópicas ocas, como minúsculos tubos transparentes. O calor corporal penetra na fibra e aquece o ar preso dentro de cada microduto, gerando, segundo a marca, uma barreira térmica com peso bem menor que o de uma colcha comum."
         ],
         "bullets": [
-          "Costura em gomos térmicos compartimentados: o desenho geométrico em gomos evita o deslocamento interno do enchimento, garantindo aquecimento homogêneo dos ombros até a ponta dos pés sem criação de zonas frias;",
-          "O cobertor que vira almofada: quando fechado no compartimento integrado com zíper, transforma-se em uma almofada que serve de apoio às costas no sofá ou leitura na poltrona;",
+          "Costura em gomos compartimentados: o desenho em gomos ajuda a manter o enchimento distribuído pela peça;",
+          "O cobertor que vira almofada: dobrada, a peça serve de apoio às costas no sofá ou na poltrona;",
           "O cobertor que vira travesseiro de viagem: compacto e leve, substitui travesseiro e manta na bagagem de mão, ideal para viagens de carro, avião ou finais de semana fora de casa;",
-          "Lavagem e secagem ultrarrápida: cabe perfeitamente em máquinas de lavar residenciais comuns (a partir de 9kg) e seca na metade do tempo de um edredom tradicional por não encharcar internamente;",
-          "Versão solteiro e casal: excelente opção como cobertor solteiro individual para o dia a dia no quarto ou no home office.",
-          "Disponibilidade: no site oficial, a versão Casal/Queen costuma esgotar primeiro por causa da procura; vale conferir o estoque da King/Super King como alternativa se a sua não estiver disponível no momento."
+          "Lavagem e secagem: siga a etiqueta da peça e o manual da lavadora, considerando o tamanho e o volume do cobertor;",
+          "Tamanhos: Casal/Queen e King/Super King.",
+          "Disponibilidade: o estoque de cada tamanho muda; confira na loja oficial a versão que você quer."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Puffer Ultralight",
@@ -46201,7 +46202,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Proposta Central",
-              "Termorregulação inteligente e reversibilidade climática",
+              "Reversibilidade: uma face de toque fresco e outra de toque quente",
               "Aconchego térmico supremo para inverno rigoroso",
               "Aquecimento com peso quase nulo e alta mobilidade",
               "Conforto sensorial marshmallow e cama posta sofisticada"
@@ -46224,33 +46225,33 @@ export const reviewsData: unknown[] = [
               "Sensação no Corpo",
               "Fluido e sedoso, com caimento anatômico deslizante",
               "Denso e felpudo (toque aveludado pele de carneiro / sherpa)",
-              "Extremamente leve (zero sensação de peso nas pernas)",
+              "Muito leve, segundo a marca",
               "Encorpado, aerado, volumoso e aveludado"
             ],
             [
               "Material",
               "Respirável, com trama Air-Flow System™, segundo a marca",
               "100% sintético e cruelty-free, segundo a marca",
-              "Fibras sintéticas, com lavagem e secagem rápidas",
+              "Fibras sintéticas",
               "Fibras longas que não soltam fiapos, segundo a marca"
             ],
             [
               "Portabilidade / Uso",
               "Fixo na cama (ideal para noites inteiras)",
               "Cama de casal/queen e manta de living no sofá",
-              "Alta: dobra compacto e vira travesseiro ou almofada com zíper",
+              "Alta: dobra compacto e, segundo a marca, vira travesseiro ou almofada",
               "Fixo na cama e momentos de relaxamento no sofá"
             ],
             [
               "Tamanhos Oficiais",
               "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
               "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
-              "Solteiro/Manta, Casal/Queen e King/Super King",
+              "Casal/Queen e King/Super King",
               "Solteiro/Solteirão, Casal/Queen (2,20x2,40m) e King (2,40x2,60m)"
             ],
             [
               "Indicação Principal",
-              "Casais com termostatos opostos e quartos com ar-condicionado",
+              "Quem esquenta à noite, quem sente frio de madrugada e quartos com ar-condicionado",
               "Noites de frio intenso e quem ama textura sherpa",
               "Quem odeia peso nas pernas, viaja ou lê no sofá",
               "Quem busca toque macio e cama fofa de hotel"
@@ -46265,7 +46266,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Ciclo delicado e sabão neutro: utilize sempre água fria ou em temperatura ambiente com sabão líquido neutro. Evite alvejantes clorados ou amaciantes em excesso, que podem impermeabilizar as fibras e prejudicar a respirabilidade do Air-Flow e do Ice-Feel;",
-          "Atenção à capacidade da lavadora: os modelos Casal/Queen e King das linhas Huggy e Cozy exigem máquinas de lavar com capacidade a partir de 11kg a 13kg para que a peça tenha espaço para girar livremente sem atrito no tambor. O Puffer Ultralight, por sua compactação, acomoda-se perfeitamente em lavadoras residenciais de 9kg a 10kg;",
+          "Etiqueta e manual da lavadora: siga a etiqueta de cada peça e o manual da sua máquina, considerando o tamanho e o volume do cobertor. Peças Casal/Queen e King ocupam bastante espaço no tambor;",
           "Secagem natural à sombra: estenda a peça à sombra em local ventilado. Nunca passe ferro elétrico sobre as superfícies sintéticas (especialmente o lado Ice-Feel, a sherpa ou os 3D Dots), pois o calor concentrado funde as microfibras e elimina o efeito tátil original."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-embalagem-cuidados.webp",
@@ -46275,15 +46276,15 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: o cobertor certo para cada perfil",
-        "emphasis": "Se fosse para a minha casa, eu levaria o Igloo, porque resolve o calor e o frio na mesma cama.",
+        "emphasis": "Se fosse para a minha casa, eu levaria o Igloo, porque uma peça só serve para as noites quentes e as frias: basta virar.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Escolha pelo frio que você sente e por quem divide a cama. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA aplicado:"
         ],
         "bullets": [
-          "Perfil 1: O Casal em Conflito Térmico e Quartos com Ar-Condicionado -> Vá de Igloo™. Se um sente calor e o outro sente frio, a tecnologia dual-face resolve o dilema em uma só peça: lado Ice-Feel de frescor ativo para baixo ou lado Warm-Feel quentinho, com um simples virar de coberta. A marca informa uma sensação térmica 2 a 3°C menor no lado Ice-Feel;",
+          "Perfil 1: Quem Esquenta à Noite ou Dorme com Ar-Condicionado -> Vá de Igloo™. A peça é reversível: você vira a coberta e deixa voltado ao corpo o lado Ice-Feel, de toque fresco, ou o Warm-Feel, mais quentinho. O lado escolhido vale para a cama inteira: o Igloo não esfria um lado e aquece o outro ao mesmo tempo. A marca informa uma sensação térmica 2 a 3°C menor no lado Ice-Feel, em medição própria;",
           "Perfil 2: O Amante do Inverno Rigoroso e Textura Sherpa -> Vá de Huggy®. Para noites congelantes em que os pés demoram a aquecer, a dobradinha de fleece isolante com sherpa sintética quebra a friagem na hora, em um tecido 100% sintético e cruelty-free;",
-          "Perfil 3: O Inimigo do Peso Opressivo e Amante da Portabilidade -> Vá de Puffer Ultralight™. Se você detesta sentir as pernas presas por mantas pesadas, viaja bastante ou gosta de ter uma coberta versátil que vira almofada no sofá e travesseiro no carro, as fibras ocas AirFiber entregam aquecimento com peso quase nulo, e a peça cabe em lavadora de 9 kg;",
+          "Perfil 3: O Inimigo do Peso Opressivo e Amante da Portabilidade -> Vá de Puffer Ultralight™. Se você detesta sentir as pernas presas por mantas pesadas, viaja bastante ou gosta de ter uma coberta versátil que vira almofada no sofá e travesseiro no carro, as fibras ocas AirFiber entregam, segundo a marca, aquecimento com peso bem menor;",
           "Perfil 4: O Fã do Toque Marshmallow e Cama de Revista -> Vá de Cozy™. Se a sua prioridade é o relaxamento sensorial e uma cama posta volumosa e sofisticada, o relevo 3D Dots dá o toque marshmallow, e o miolo Long Fiber mantém o volume, segundo a marca."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-ambiente.webp",
@@ -46304,7 +46305,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada linha, com o cupom CECIEMCASA aplicado",
         "paragraphs": [
-          "Os valores abaixo são os preços promocionais vigentes no site oficial da I Wanna Sleep; sempre confira o valor atual no carrinho, já que promoções mudam com frequência. A coluna final mostra o valor aproximado com os 10% do cupom CECIEMCASA descontados por cima do preço já promocional; vale confirmar no carrinho se o cupom acumula com a promoção ativa daquele momento."
+          "Os valores abaixo são preços de referência do site oficial da I Wanna Sleep; o preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. A coluna final mostra o valor aproximado com os 10% do cupom CECIEMCASA descontados por cima do preço já promocional; vale confirmar no carrinho se o cupom acumula com a promoção ativa daquele momento."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -46337,7 +46338,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Puffer Ultralight™ Casal/Queen",
-              "R$ 687,00 (esgotado no momento)",
+              "R$ 687,00",
               "≈ R$ 618,30"
             ],
             [
@@ -46362,15 +46363,15 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O cobertor Igloo realmente fica gelado? Sim. A face com tecnologia Ice-Feel Fiber System™ dissipa o calor por contato direto, reduzindo a sensação térmica da pele em 2 a 3°C em comparação ao ambiente, segundo medição da marca com termômetro infravermelho. Para noites frias, basta virar a peça e utilizar o lado Warm-Feel.",
           "O cobertor Huggy é de pele ou lã de carneiro? Não. O acabamento sheepskin do Huggy é 100% sintético e cruelty-free, segundo a marca. Se você tem rinite ou alergia, converse com seu médico antes de escolher o tecido.",
-          "Como o cobertor Puffer Ultralight vira almofada ou travesseiro? A peça possui um compartimento integrado com zíper discreto. O enchimento de microfibras ocas AirFiber™ é altamente compressível, permitindo dobrar o cobertor para dentro do próprio bolso em menos de trinta segundos para servir de almofada lombar ou travesseiro de viagem.",
+          "Como o cobertor Puffer Ultralight vira almofada ou travesseiro? Segundo a marca, a peça dobrada pode servir de almofada lombar ou de travesseiro de viagem. O enchimento de microfibras ocas AirFiber™ é compressível, o que ajuda a guardar e transportar.",
           "Qual o tamanho de cobertor ideal para camas Queen e King? Para camas Casal e Queen, o tamanho padrão da IWS é 2,20m x 2,40m, garantindo cobertura farta nas laterais. Para colchões King e Super King (acima de 1,86m de largura), a medida indicada é 2,40m x 2,60m, evitando que os pés fiquem descobertos quando alguém se vira.",
-          "Como aplicar o cupom CECIEMCASA e como funciona o teste de 30 dias? Basta inserir o código CECIEMCASA no carrinho do e-commerce oficial da I Wanna Sleep para obter 10% de desconto. As compras feitas no site oficial contam com a política de 30 dias de teste na cama da marca."
+          "Como aplicar o cupom CECIEMCASA e o cobertor tem teste na cama? Basta inserir o código CECIEMCASA no carrinho do e-commerce oficial da I Wanna Sleep para obter 10% de desconto. A política Sleeptest da marca lista colchões, travesseiros e suplementos; para cobertores, confirme as condições na página do produto antes de comprar."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Quem divide a cama sente temperaturas diferentes: um lado esfria e o outro aquece.",
+        "Você quer escolher o toque de cada noite: basta virar a peça para trocar a face fresca pela quente.",
         "O quarto fica com ar-condicionado ligado e você transpira à noite."
       ],
       "skipIf": [
@@ -49788,10 +49789,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Entenda por que o calcário se forma e veja como descalcificar a Mini Me, a Genio S e a NEO, sem vinagre.",
+    "description": "A luz laranja da Dolce Gusto costuma ser aviso de manutenção. Entenda por que o calcário se forma e veja como descalcificar a Mini Me, a Genio S e a NEO, sem vinagre.",
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Luz laranja na Dolce Gusto? Por que o calcário se forma e como descalcificar, sem vinagre.",
     "publishedAt": "29 de setembro de 2026",
     "publishedAtISO": "2026-09-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp",
@@ -49807,21 +49809,21 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "O gesto para ativar o modo de descalcificação muda de modelo para modelo: confirme sempre no manual da sua máquina",
-      "O descalcificante líquido não é vendido na loja oficial online (conferido na loja), mas dá para usar o da marca pedido pelo SAC ou um de outra marca própria para cafeteiras"
+      "O descalcificante da marca não aparecia na loja online oficial: peça pelo SAC ou use um de outra marca, próprio para cafeteiras"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Descalcifique com produto próprio para cafeteiras, sem vinagre, ativando o modo do seu modelo e rodando o ciclo; o manual da Genio S pede isso a cada 3 a 4 meses. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "A luz laranja da Dolce Gusto costuma ser aviso de manutenção, não defeito. Descalcifique com produto próprio para cafeteiras, sem vinagre, seguindo o procedimento do seu modelo; o manual da Genio S pede isso a cada 3 a 4 meses. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
         "heading": "O que significa a luz laranja da Dolce Gusto",
         "paragraphs": [
-          "A luz laranja no botão da Dolce Gusto não quer dizer que a máquina quebrou. É um aviso de manutenção: a cafeteira conta as extrações e, no manual da Genio S, o fabricante indica descalcificar depois de cerca de 300 preparos.",
-          "Na prática, isso costuma cair entre alguns meses e um ano, dependendo de quantas bebidas você faz por dia e de quão dura é a água da sua casa. Ela pede uma limpeza interna, e a boa notícia é que dá para fazer em casa em poucos minutos.",
-          "A luz acompanha um contador, não um sensor de sujeira: por isso ela não some sozinha nem depois de desligar da tomada. Ela só apaga quando a máquina registra o ciclo de descalcificação concluído."
+          "A luz laranja no botão da Dolce Gusto costuma ser um aviso de manutenção, não sinal de que a máquina quebrou. Na Genio S, a máquina conta as extrações e o manual indica descalcificar depois de cerca de 300 preparos.",
+          "Na prática, isso costuma cair entre alguns meses e um ano, dependendo de quantas bebidas você faz por dia e de quão dura é a água da sua casa. Ela pede uma limpeza interna, que dá para fazer em casa em cerca de 20 a 30 minutos, enxágue incluído.",
+          "Na Genio S, a luz acompanha um contador, não um sensor de sujeira. O sinal e o jeito de apagá-lo dependem do modelo, então vale o manual da sua máquina."
         ],
         "bullets": [
           "Quando descalcificar: quando a luz aparecer ou, no máximo, a cada 3 a 4 meses, como pede o manual da Genio S (com água dura, antecipe);",
@@ -49862,8 +49864,8 @@ export const reviewsData: unknown[] = [
         "heading": "Antes de começar: o que separar e qual descalcificante usar",
         "paragraphs": [
           "Separe um recipiente grande para coletar o líquido (o guia da NEO pede 0,7 litro, e outros manuais indicam 1 litro ou mais), o acessório de enxágue que veio com a máquina, se ela tiver, e o descalcificante líquido.",
-          "O descalcificante não precisa ser da Dolce Gusto: produtos de outras marcas, feitos para cafeteiras espresso e de cápsula, resolvem o problema do calcário do mesmo jeito. Leia o rótulo, confira que ele se destina a esse tipo de máquina e siga a diluição indicada na embalagem, que pode variar entre marcas.",
-          "Se preferir o da marca, peça pelo SAC (0800 776 2233): ele não aparece na loja online oficial, então a compra sai em varejistas, marketplaces ou pelo SAC."
+          "O guia oficial da NEO recomenda o descalcificante da própria marca. Quem preferir outro produto deve escolher um líquido feito para cafeteiras espresso e de cápsula, conferir isso no rótulo e seguir a diluição da embalagem, que varia entre marcas; o manual da sua máquina é a referência final.",
+          "Se preferir o da marca, peça pelo SAC (0800 776 2233): ele não aparecia na loja online oficial. Fora dela, a compra sai em varejistas e marketplaces."
         ],
         "bullets": [
           "Recipiente coletor de 1 litro ou mais, colocado sob a saída;",
@@ -49874,15 +49876,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Passo a passo da descalcificação por modelo",
         "paragraphs": [
-          "A lógica é a mesma em todas as máquinas: misturar a água com o descalcificante no reservatório (os manuais da Dolce Gusto pedem 0,5 litro), ativar o modo de descalcificação, deixar a máquina rodar com pausas para a solução agir e, no fim, enxaguar bem. O que muda é o gesto para ativar o modo, no quadro abaixo; confirme sempre o manual do seu modelo."
+          "A lógica geral é parecida: misturar a água com o descalcificante no reservatório (os manuais da Dolce Gusto pedem 0,5 litro), ativar o modo de descalcificação, deixar a máquina rodar com pausas para a solução agir e enxaguar. Mas o gesto de ativação, as pausas, o enxágue e o sinal de conclusão variam por modelo; o quadro abaixo traz o resumo, e o manual do seu modelo é o que vale. O procedimento oficial da NEO está no [guia de descalcificação da NEO](https://www.nescafe-dolcegusto.com.br/n1-descale)."
         ],
         "bullets": [
           "1. Esvazie a bandeja, retire cápsulas usadas, encaixe o acessório de enxágue (se houver) e posicione o recipiente grande sob a saída;",
           "2. Coloque 0,5 litro de água fresca e o descalcificante no reservatório (siga a proporção do rótulo, se o produto for de outra marca) e encaixe-o na máquina;",
           "3. Ative o modo de descalcificação do seu modelo (tabela abaixo);",
-          "4. Deixe o ciclo rodar. A máquina alterna fluxo e pausa, com uma espera de cerca de 2 minutos para a solução agir; não desligue no meio do processo;",
-          "5. Quando o reservatório esvaziar, lave-o, encha com água fresca e rode o enxágue até o tanque esvaziar de novo;",
-          "6. Descarte o líquido coletado, recoloque a bandeja e confirme se a luz laranja apagou."
+          "4. Deixe o ciclo rodar e respeite as pausas do seu modelo (nos manuais citados, cerca de 2 minutos para a solução agir); não desligue no meio do processo;",
+          "5. Lave o reservatório, encha com água fresca e inicie o enxágue (na NEO, feche a barra e pressione Iniciar; nos outros modelos, veja o quadro abaixo);",
+          "6. Descarte o líquido coletado, recoloque a bandeja e confirme o sinal de conclusão do seu modelo, no quadro abaixo."
         ],
         "comparisonTable": {
           "caption": "Como ativar o modo de descalcificação em cada modelo (resumo dos manuais e guias oficiais)",
@@ -49895,28 +49897,28 @@ export const reviewsData: unknown[] = [
             [
               "Mini Me",
               "Com a máquina desligada, segure o botão de ligar por 5 segundos até a luz começar a piscar",
-              "Sequência com quente, pausa de cerca de 2 min e enxágue conforme o manual"
+              "Pausa de cerca de 2 min; confirme no manual da Mini Me o enxágue e o sinal de conclusão"
             ],
             [
               "Genio S Plus (e linha com anel seletor)",
               "Selecione XL e gire o anel quatro vezes no sentido horário até o indicador de descalcificação piscar; depois aperte iniciar/parar",
-              "Alterna fluxo e pausa até esvaziar o reservatório"
+              "Alterna fluxo e pausa; confirme no manual da Genio S o enxágue e o sinal de conclusão"
             ],
             [
               "Genio S Touch",
               "Toque no ícone de descalcificação por cerca de 5 segundos até o LED piscar",
-              "Confirmado no manual da Genio S Touch (fotos logo abaixo); a máquina para sozinha quando o reservatório esvazia"
+              "Confirmado no manual da Genio S Touch (fotos logo abaixo); o fim chega quando o indicador de descalcificação apaga e a seleção de temperatura acende"
             ],
             [
               "NEO",
               "Com a barra deslizante fechada, pressione Iniciar por 15 segundos até o botão piscar duas vezes rapidamente em laranja",
-              "Quando o botão ficar azul, aguarde 2 minutos e faça o enxágue (guia oficial da Nescafé Dolce Gusto Brasil)"
+              "Quando o botão ficar azul, aguarde 2 minutos, feche a barra e pressione Iniciar para enxaguar (guia oficial da Nescafé Dolce Gusto Brasil)"
             ]
           ]
         },
         "image": "/images/reviews/dolcegusto/descalcificacao-4-etapas.webp",
         "imageAlt": "Infográfico com as quatro etapas da descalcificação: preparar a solução, ativar o modo, rodar o ciclo e esperar, e enxaguar",
-        "imageCaption": "As quatro etapas são as mesmas para todas as máquinas; o que muda é como ativar o modo de descalcificação.",
+        "imageCaption": "As quatro etapas dão a visão geral; ativação, pausas, enxágue e sinal de conclusão mudam por modelo.",
         "imageFit": "contain",
         "imageAspectRatio": 1.3333333333
       },
@@ -49959,10 +49961,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A luz laranja não apagou: o que verificar",
         "paragraphs": [
-          "Se você terminou e a luz continua laranja, o mais comum é que a máquina não tenha registrado o ciclo como concluído. Antes de qualquer coisa, respire: isso raramente é defeito."
+          "Se você terminou e a luz continua laranja, uma causa possível é a máquina não ter registrado o ciclo como concluído. Confira os pontos abaixo; se o sinal persistir, a causa pode ser outra e vale procurar a assistência."
         ],
         "bullets": [
-          "Confira se realmente entrou no modo: a luz ou o indicador precisa piscar depois do gesto de ativação; se ficou fixa, o comando não foi aceito;",
+          "Confira se realmente entrou no modo: a luz ou o indicador deve mudar depois do gesto de ativação (confirme o sinal do seu modelo no manual); se nada mudou, o comando pode não ter sido aceito;",
           "Não interrompa o ciclo: os guias oficiais pedem para não desligar a máquina, nem tirar o cabo da tomada, durante a descalcificação;",
           "Na Genio S Touch, o fim chega quando o indicador apaga e a seleção de temperatura acende: se isso não aconteceu, o ciclo não terminou;",
           "Refaça com calma seguindo o manual do seu modelo, com reservatório bem encaixado e água suficiente;",
@@ -50018,11 +50020,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre descalcificação Dolce Gusto",
         "bullets": [
-          "A luz laranja da Dolce Gusto significa que a máquina quebrou? Não. É um aviso de manutenção baseado na contagem de extrações, indicando que é hora de descalcificar.",
+          "A luz laranja da Dolce Gusto significa que a máquina quebrou? Em geral não. Costuma ser um aviso de manutenção, que na Genio S se baseia na contagem de extrações e indica que é hora de descalcificar. Se o sinal persistir depois do procedimento do seu modelo, procure a assistência.",
           "De quanto em quanto tempo devo descalcificar a Dolce Gusto? O manual da Genio S indica descalcificar pelo menos a cada 3 a 4 meses, ou quando a luz laranja acender; com água muito dura, o intervalo tende a ser menor.",
           "Posso usar vinagre para descalcificar a Dolce Gusto? Não. O guia oficial da Nescafé Dolce Gusto Brasil e o manual da Genio S Touch pedem para não usar vinagre; use um descalcificante próprio para cafeteiras.",
-          "Preciso usar o descalcificante da própria Dolce Gusto? Não necessariamente. Pode ser um descalcificante líquido de outra marca, desde que seja próprio para cafeteiras espresso ou de cápsula e você siga a diluição do rótulo. O da marca pode ser pedido pelo SAC (0800 776 2233) e não aparece na loja online oficial.",
-          "Onde comprar descalcificante para cafeteira? Em varejistas de eletrodomésticos e marketplaces, na versão da Dolce Gusto ou de outras marcas; a loja online oficial não lista o produto.",
+          "Preciso usar o descalcificante da própria Dolce Gusto? O guia oficial da NEO recomenda o produto da marca. Quem escolher outra marca deve usar um líquido próprio para cafeteiras espresso ou de cápsula e seguir a diluição do rótulo; o manual da sua máquina é a referência final. O da marca pode ser pedido pelo SAC (0800 776 2233); confirme a disponibilidade com o atendimento.",
+          "Onde comprar descalcificante para cafeteira? Em varejistas de eletrodomésticos e marketplaces, na versão da Dolce Gusto ou de outras marcas; a loja online oficial não o listava; confirme pelo SAC.",
           "A água mineral ou o filtro de casa evitam o calcário? Não totalmente. Filtros comuns não removem cálcio e magnésio, e a água mineral também tem minerais; o que muda é a dureza da água, que define a velocidade com que o calcário se forma.",
           "O calcário acontece só na Dolce Gusto? Não. Ele se forma em qualquer aparelho que aquece água, como chaleiras, cafeteiras elétricas e máquinas espresso."
         ]
@@ -50068,6 +50070,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SleepSpray Kidz IWS, com o cupom CECIEMCASA de 10% OFF: spray sem melatonina para crianças a partir de 2 anos, como usar e o ritual do sono.",
     "publishedAt": "29 de setembro de 2026",
     "publishedAtISO": "2026-09-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/iwannasleep/sleepspray-kidz-hero.webp",
@@ -50085,7 +50088,7 @@ export const reviewsData: unknown[] = [
       "É um cosmético: a própria marca diz que não é medicamento e não tem efeito farmacológico, então o efeito depende do ritual",
       "A marca não traz estudo clínico do SleepSpray Kidz: não dá para prometer que ele ajude a criança a dormir",
       "A fórmula tem fragrância e componentes alergênicos (linalol, limoneno, geraniol, cânfora e mentol na lista de ingredientes); atenção a criança com asma, rinite ou pele sensível",
-      "R$ 117,00 por 60 ml, e a marca não informa quantas noites um frasco rende"
+      "R$ 117,00 de tabela por 60 ml, e a marca não informa quantas noites um frasco rende"
     ],
     "contentSections": [
       {
@@ -50105,7 +50108,7 @@ export const reviewsData: unknown[] = [
           "Indicação: crianças a partir de 2 anos;",
           "Alegações da marca: 100% livre de álcool, melatonina e parabenos; dermatologicamente testado; vegano;",
           "Validade: 36 meses a partir da fabricação;",
-          "Preço na loja oficial: R$ 117,00."
+          "Preço de tabela: R$ 117,00 (veja a promoção do dia no capítulo de preço)."
         ],
         "image": "/images/reviews/iwannasleep/sleepspray-kidz-ingredientes-naturais.webp",
         "imageAlt": "Frasco do SleepSpray Kidz cercado por lavanda, camomila e laranja doce sobre fundo rosa",
@@ -50130,7 +50133,7 @@ export const reviewsData: unknown[] = [
           "No rótulo: camomila como extrato, lavanda como óleo e extrato, laranja doce como óleo da casca, mais conservantes, tensoativo e perfume.",
           "O que cada ingrediente é na fórmula:",
           "Na prática, o que vale é o aroma combinado à repetição, não o efeito de cada planta isolada.",
-          "Atenção à fragrância: a lista inclui componentes como linalol, limoneno, geraniol, cânfora e mentol, comuns em óleos essenciais e perfumes e que podem causar reação em pessoas sensíveis. Se a criança tem asma, rinite alérgica ou dermatite atópica, converse com o pediatra antes de usar e comece com uma única borrifada."
+          "Atenção à fragrância: a lista inclui componentes como linalol, limoneno, geraniol, cânfora e mentol, comuns em óleos essenciais e perfumes e que podem causar reação em pessoas sensíveis. Se a criança tem asma, rinite alérgica ou dermatite atópica, converse com o pediatra antes de usar."
         ],
         "bullets": [
           "Lavanda: entra como óleo de flor de lavanda-inglesa e como extrato. É o aroma clássico de quarto e de hora de dormir, e a marca não cita estudos clínicos que mostrem efeito sobre o sono da criança;",
@@ -50152,11 +50155,11 @@ export const reviewsData: unknown[] = [
           "A orientação da marca é borrifar de 1 a 3 vezes no travesseiro, no lençol ou no ambiente do quarto, alguns minutos antes de a criança se deitar. A embalagem não especifica distância nem tempo exato; os itens marcados como \"nossa sugestão\" são bom senso para não molhar o tecido."
         ],
         "bullets": [
-          "Quantidade: comece com 1 borrifada e vá até 3, no máximo, como a marca indica. Passar disso só deixa o cheiro mais forte;",
+          "Quantidade: de 1 a 3 borrifadas, como a marca indica;",
           "Onde: no travesseiro (na parte de cima, longe do rosto), no lençol ou no ar do quarto. Nossa sugestão: borrifar a uns 20 a 30 cm para a névoa se espalhar sem encharcar o tecido;",
-          "Quando: alguns minutos antes de deitar, com a criança fora da cama. Nossa sugestão: 10 a 15 minutos, enquanto ela escova os dentes, para o tecido secar;",
-          "Cuidados da marca: não usar em pele irritada ou lesionada, não ingerir, evitar contato com olhos, boca e mucosas, e guardar em local fresco, ao abrigo de luz intensa e fora do alcance de crianças;",
-          "Naninha e pelúcia: a marca fala em travesseiro, lençol e ambiente. Se quiser borrifar o objeto de apego, faça longe da criança, deixe secar por completo e evite as partes que ela põe na boca."
+          "Quando: alguns minutos antes de a criança deitar, como a marca orienta, com ela fora da cama. O tecido deve estar seco na hora de deitar;",
+          "Cuidados da marca: não usar em pele irritada ou lesionada, não ingerir, evitar contato com olhos, boca e mucosas, suspender o uso se houver irritação e guardar em local fresco, ao abrigo de luz intensa e fora do alcance de crianças;",
+          "Objetos de apego: a marca fala em travesseiro, lençol e ambiente; naninhas e pelúcias não fazem parte da orientação."
         ],
         "image": "/images/reviews/iwannasleep/sleepspray-kidz-aplicacao-travesseiro.webp",
         "imageAlt": "Mão borrifando o SleepSpray Kidz sobre um travesseiro infantil, com uma pelúcia de panda e uma de ovelha ao lado",
@@ -50166,12 +50169,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Roteiro prático de 20 minutos para a hora de dormir",
         "paragraphs": [
-          "O spray é só uma peça. O que costuma funcionar é a sequência repetida, sempre na mesma ordem. O roteiro abaixo é uma sugestão editorial baseada em recomendações gerais de higiene do sono infantil, não um protocolo da marca; ajuste aos horários da sua casa."
+          "O spray é só uma peça. O que costuma funcionar é a sequência repetida, sempre na mesma ordem. O roteiro abaixo é uma sugestão editorial baseada em recomendações gerais de sono infantil, não um protocolo da marca; ajuste aos horários da sua casa. A Academia Americana de Pediatria orienta evitar telas na hora anterior ao sono ([AAP: Media and Young Minds](https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/)). O aroma é opcional, e a borrifada faz parte do preparo do quarto, dentro dos 20 minutos."
         ],
         "bullets": [
-          "Passo 1, luz e telas (30 a 40 minutos antes): desligue TV, tablets e celulares e troque a luz branca do teto por uma iluminação indireta e amarelada;",
-          "Passo 2, banho e pijama (cerca de 10 minutos): banho morno, pijama confortável e dentes escovados;",
-          "Passo 3, preparo da cama (2 minutos): 1 a 3 borrifadas no travesseiro e no lençol e um convite calmo para deitar;",
+          "Passo 1, luz e telas (antes do roteiro, na hora que antecede o sono): desligue TV, tablets e celulares e troque a luz branca do teto por uma iluminação indireta e amarelada;",
+          "Passo 2, banho, pijama e preparo do quarto (cerca de 10 minutos): banho morno, pijama confortável, dentes escovados e, com a criança fora do quarto, 1 a 3 borrifadas no travesseiro e no lençol;",
+          "Passo 3, deitar (2 minutos): confira que o tecido está seco e faça um convite calmo para deitar;",
           "Passo 4, aconchego (8 a 10 minutos): uma história curta em voz baixa, uma canção de ninar ou um cafuné até a respiração desacelerar."
         ],
         "image": "/images/reviews/iwannasleep/sleepspray-kidz-historia-antes-de-dormir.webp",
@@ -50226,7 +50229,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena? Nosso veredito",
         "paragraphs": [
           "Este guia parte do rótulo, da página oficial e de recomendações gerais de sono infantil: por isso diz em que situação o spray faz sentido, não que ele \"funciona\".",
-          "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, a criança tem 2 anos ou mais e não tem alergia respiratória, e você aceita gastar R$ 117,00 por 60 ml com um item de conforto. A loja oferece 30 dias de teste, com crédito de troca se a criança não se adaptar. É um jeito simples de repetir um sinal sensorial no fim do dia.",
+          "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, a criança tem 2 anos ou mais e não tem alergia respiratória, e você aceita gastar o valor de um frasco de 60 ml com um item de conforto. A loja oferece 30 dias de teste, com crédito de troca se a criança não se adaptar. É um jeito simples de repetir um sinal sensorial no fim do dia.",
           "Não faz sentido se a expectativa é um produto que faça a criança dormir sozinha com as telas ligadas e o horário desorganizado, nem como tratamento para insônia. Para despertares frequentes ou sonolência excessiva de dia, procure o pediatra: o problema pode não ser de rotina.",
           "O que há de mais sólido neste guia não está no frasco: luz baixa, sem telas, horários regulares, banho e um momento calmo com um adulto. O spray é o marcador; o ritual é o que faz o trabalho."
         ],
@@ -50235,9 +50238,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, kits e garantia de 30 dias",
         "paragraphs": [
-          "O frasco de 60 ml custa R$ 117,00 no site oficial (consultado em 29/09/2026). Há kits: 3 frascos por R$ 234,00 (compre 2, leve 3) e 5 frascos por R$ 351,00 (compre 3, leve 5). O frete é grátis acima de R$ 150,00.",
-          "Quanto rende? A marca não informa quantas borrifadas ou noites um frasco entrega, então não dá para prometer um custo por noite. Só como referência: se você usar 2 borrifadas por noite e o frasco durasse 2 meses (hipótese nossa, não dado da marca), o gasto ficaria perto de R$ 2 por noite. Anote a data em que abrir o frasco para medir na sua casa.",
-          "A garantia funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro.",
+          "O frasco de 60 ml custa R$ 117,00 de tabela no site oficial (consulta de 29/09/2026), com kits de 3 frascos por R$ 234,00 (compre 2, leve 3) e de 5 por R$ 351,00 (compre 3, leve 5). Em 06/11/2026, a página mostrava promoção de R$ 99,00 por frasco e kits de R$ 198,00 e R$ 297,00. Promoções mudam, então confira o valor do dia. O frete é grátis acima de R$ 150,00.",
+          "Quanto rende? A marca não informa quantas borrifadas ou noites um frasco entrega, então não dá para calcular um custo por noite.",
+          "A garantia funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro. As condições gerais estão na [política Sleeptest da marca](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest); confirme na página do produto o que vale para o spray.",
           "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
         ],
         "bullets": []
@@ -50273,8 +50276,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A partir de que idade posso usar o SleepSpray Kidz? A IWS indica o produto para crianças a partir de 2 anos. Para menores de 2 anos a página não traz orientação, então converse com o pediatra antes de usar qualquer aroma no quarto de um bebê.",
           "O SleepSpray Kidz é remédio ou tem melatonina? Não. A própria IWS informa que ele é um cosmético, sem efeito farmacológico, e livre de melatonina. O SleepSpray adulto é que traz melatonina na composição.",
-          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar. Passar disso só deixa o aroma mais forte.",
-          "Posso borrifar na pele, no rosto ou na naninha? Na pele não: a marca pede para evitar contato com olhos, boca e mucosas, não usar em pele irritada e não ingerir. Na naninha, borrife longe da criança, deixe secar e evite a parte que ela morde ou chupa; se ela leva o objeto à boca com frequência, prefira o travesseiro ou o ambiente.",
+          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar.",
+          "Posso borrifar na pele, no rosto ou na naninha? Não. A marca orienta travesseiro, lençol e ambiente, e pede para evitar contato com olhos, boca e mucosas, não usar em pele irritada, não ingerir e suspender o uso em caso de irritação. Naninhas e pelúcias não fazem parte da orientação.",
           "O spray mancha a fronha? A página da IWS não fala sobre manchas. A base é aquosa; por segurança, teste em um canto discreto do tecido e deixe secar antes de deitar a criança.",
           "O cheirinho perde o efeito se eu usar todas as noites? A IWS indica o produto para uso diário e apresenta a repetição como parte do ritual. Não encontramos estudo sobre perda de efeito; o que mais pesa no resultado é a consistência da rotina inteira, não só do aroma.",
           "Adulto pode usar o SleepSpray Kidz? Pode usar como perfume de cama se gostar do aroma, lembrando que é um produto de tecido, sem função farmacológica. Gestantes e pessoas com asma ou rinite devem consultar o médico antes de usar óleos essenciais em casa."
@@ -50318,6 +50321,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Como tomar Nutren Senior sem empelotar, com o cupom CECI de 10% OFF na Nestlé Nutre: a pasta com o pó, água ou leite, e se pode esquentar.",
     "publishedAt": "30 de setembro de 2026",
     "publishedAtISO": "2026-09-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp",
@@ -50355,10 +50359,10 @@ export const reviewsData: unknown[] = [
         "heading": "O método da pasta, passo a passo",
         "paragraphs": [
           "Este é o preparo indicado pela Nestlé na loja oficial e no FAQ do Nutren Senior. O que muda de uma versão para outra é a medida do pó e o líquido recomendado.",
-          "As páginas da marca não são idênticas entre si: o FAQ fala em completar com mais 150 ml (200 ml no total), enquanto a página de vários produtos fala em 130 ml (180 ml no total). O que não muda é a lógica, e a indicação impressa na lata é a que vale."
+          "As páginas da marca não são idênticas entre si: o FAQ fala em completar com mais 150 ml (200 ml no total), enquanto a página de vários produtos fala em 130 ml (180 ml no total). O que não muda é a lógica, e a indicação impressa na lata é a que vale. A Baunilha comum também diverge: a [página da Baunilha 740 g](https://www.nestlehealthscience.com.br/marcas/nutren-senior/n-s-baunilha-740) indica 27,5 g (colheres rasas), e a [página geral de sabores](https://www.nestlehealthscience.com.br/marcas/nutren-senior/po-sabor-lata-740g), 31,5 g (colheres cheias). A Baunilha Zero Lactose é outro produto, com 27,5 g."
         ],
         "bullets": [
-          "1. Pó no copo seco: 3 colheres de sopa. No Sem Sabor e no Zero Lactose, rasas (27,5 g); nos sabores, cheias (31,5 g);",
+          "1. Pó no copo seco: 3 colheres de sopa. No Sem Sabor, no Zero Lactose e na Baunilha (pela página do produto), rasas (27,5 g); nos demais sabores, cheias (31,5 g); na dúvida, vale a lata;",
           "2. Um pouco de líquido: cerca de 50 ml. Água no Sem Sabor e no Zero Lactose; nos sabores, a marca recomenda leite desnatado. Mexa bem até formar uma pasta cremosa, sem pontinhos secos;",
           "3. Complete: junte o restante do líquido e mexa até dissolver por completo;",
           "4. Beba logo: o rótulo pede para consumir imediatamente após o preparo."
@@ -50384,7 +50388,7 @@ export const reviewsData: unknown[] = [
               "130 ml (página do produto) ou 150 ml (FAQ)"
             ],
             [
-              "Sabores (Baunilha, Chocolate, Café com Leite e Mix de Frutas)",
+              "Sabores (Chocolate, Café com Leite e Mix de Frutas; a Baunilha comum tem divergência entre as páginas, veja acima)",
               "3 colheres de sopa cheias (31,5 g)",
               "Cerca de 50 ml de leite desnatado, como a marca recomenda",
               "130 ml (página do produto) ou 150 ml (FAQ)"
@@ -50496,7 +50500,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual versão escolher: sabores, Sem Sabor e Zero Lactose",
         "paragraphs": [
-          "A linha em pó tem quatro sabores (Baunilha, Chocolate, Café com Leite e Mix de Frutas), o Sem Sabor e as versões Zero Lactose (Sem Sabor e Baunilha). Há ainda o Nutren Senior Premium (com colágeno e ômega-3), as cápsulas A-Z e o pronto para beber, que não entram neste guia."
+          "A linha em pó tem quatro sabores (Baunilha, Chocolate, Café com Leite e Mix de Frutas), o Sem Sabor e as versões Zero Lactose (Sem Sabor e Baunilha). Há ainda o Nutren Senior Premium (com colágeno e ômega-3), as cápsulas A-Z e o pronto para beber, que não entram neste guia. A Baunilha comum e a Baunilha Zero Lactose são produtos diferentes, com páginas próprias, e nas páginas oficiais a Baunilha e as versões com sabor aparecem como composto lácteo."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
@@ -50513,9 +50517,9 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Sabores (Baunilha, Chocolate, Café com Leite, Mix de Frutas)",
+              "Sabores (Chocolate, Café com Leite, Mix de Frutas e, na página geral de sabores, a Baunilha comum)",
               "Quem gosta de bebida doce pronta. A marca os descreve como reduzidos em açúcares (o que não quer dizer reduzidos em calorias)",
-              "3 colheres cheias (31,5 g) com o método da pasta, de preferência em leite desnatado; podem ir a receitas, adicionados no final"
+              "3 colheres cheias (31,5 g) com o método da pasta, de preferência em leite desnatado (na Baunilha, a página do produto indica 27,5 g, rasas); podem ir a receitas, adicionados no final"
             ],
             [
               "Sem Sabor",
@@ -50537,7 +50541,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Dificuldade para engolir (disfagia): se a pessoa engasga ou tosse ao beber líquidos, converse com o médico ou o fonoaudiólogo antes. A consistência da bebida pode precisar de ajuste, e este guia não substitui essa orientação;",
-          "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Os açúcares totais por porção estão na tabela do capítulo de água ou leite, e só 0,4 g deles são adicionados. Converse com o médico ou o nutricionista;",
+          "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Os açúcares totais por porção do Café com Leite estão na tabela do capítulo de água ou leite; o valor de açúcares adicionados varia por versão, então confira no rótulo da sua lata. Converse com o médico ou o nutricionista;",
           "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes que analisamos em outro guia, continua com proteínas do leite e da soja, então quem tem alergia à proteína do leite deve falar com o médico;",
           "Rins, medicamentos e outras suplementações: a marca não detalha interações. Se a pessoa tem doença renal, usa vários remédios ou já toma outro suplemento, pergunte ao médico antes;",
           "Emagrecimento sem querer ou recusa constante do copo: não é caso de trocar de sabor sem parar. Leve ao médico ou ao nutricionista."
@@ -50580,7 +50584,7 @@ export const reviewsData: unknown[] = [
           "Posso bater o Nutren Senior no liquidificador? A marca não fala em liquidificador, e o método da pasta resolve sem ele. Se preferir usar, bata poucos segundos em velocidade baixa para não formar muita espuma e sirva logo (sugestão nossa, não da marca).",
           "Posso deixar o copo pronto na geladeira? O rótulo pede para consumir imediatamente após o preparo, então o ideal é preparar só a porção que será tomada. Se for inevitável adiantar, converse com o nutricionista.",
           "Quanto tempo dura a lata aberta? Até 30 dias, segundo a marca, com a lata bem fechada em local fresco, seco e sem cheiro. Uma lata de 740 g rende cerca de 23 a 27 porções, conforme a versão.",
-          "Quantas vezes ao dia posso tomar Nutren Senior? Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem. Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor e no Zero Lactose; 31,5 g nos sabores).",
+          "Quantas vezes ao dia posso tomar Nutren Senior? Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem. Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor, no Zero Lactose e, pela página do produto, na Baunilha; 31,5 g nos demais sabores; vale a medida da lata).",
           "O Nutren Senior engorda? As calorias por porção estão na tabela do capítulo de água ou leite e variam conforme a versão. Se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
           "Diabético pode tomar Nutren Senior? Depende do caso: converse com o médico ou o nutricionista. Os açúcares por porção estão na tabela nutricional do produto.",
           "Serve para quem tem disfagia? A marca não traz orientação específica sobre disfagia nas páginas que consultamos. Quem tem dificuldade para engolir deve falar com o médico ou o fonoaudiólogo antes de usar."
@@ -50627,6 +50631,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Cápsulas compatíveis com Dolce Gusto e o cupom CECI, com 10% OFF no site: o que serve na Original e na NEO, o Adaptador NEO Start e o preço por cápsula.",
     "publishedAt": "30 de setembro de 2026",
     "publishedAtISO": "2026-09-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-capsula.webp",
@@ -50692,7 +50697,7 @@ export const reviewsData: unknown[] = [
             [
               "Máquinas",
               "Mini Me, Genio S, Genio S Plus, Genio S Touch, Infinissima, Piccolo, entre outras",
-              "NEO, a partir de R$ 799,00 na loja oficial"
+              "NEO, a partir de R$ 799,00 na loja oficial (o preço muda; confira na página da máquina)"
             ]
           ]
         },
@@ -50711,12 +50716,12 @@ export const reviewsData: unknown[] = [
         "heading": "Cápsula NEO na máquina Original: só com o Adaptador NEO Start",
         "paragraphs": [
           "Vale acertar o sentido: o Adaptador NEO Start é para máquinas Original (Geração 1). A página oficial diz que ele permite usar uma seleção de cápsulas NEO na máquina que você já tem. Ele não é um acessório para a máquina NEO.",
-          "O adaptador não libera todas as cápsulas NEO: a seleção é de espressos e lungos. A página oficial listava cinco como compatíveis: NEO Espresso Sul de Minas Orgânico, NEO Espresso Delicate, NEO Espresso Serras do Alto Paranaíba, NEO Lungo Chapada Diamantina e NEO Lungo Cerrado Orgânico."
+          "O adaptador não libera todas as cápsulas NEO: a seleção é de espressos e lungos. A página oficial listava cinco como compatíveis (confirme a lista na página do produto antes de comprar): NEO Espresso Sul de Minas Orgânico, NEO Espresso Delicate, NEO Espresso Serras do Alto Paranaíba, NEO Lungo Chapada Diamantina e NEO Lungo Cerrado Orgânico."
         ],
         "bullets": [
           "Máquinas compatíveis, pela página oficial: Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me.",
           "Como usar: remova o suporte de cápsula regular, insira o adaptador e coloque a cápsula NEO; para espresso, use 1 \"tracinho\" de água e, para lungo, 4 \"tracinhos\". Tracinho é cada nível de volume; o guia do adaptador explica o preparo por máquina.",
-          "Preço na loja oficial: R$ 69,90 (de R$ 89,90)."
+          "Preço: o adaptador custava R$ 69,90 em promoção (de R$ 89,90) na consulta de 30/09/2026; o preço do dia está na página oficial."
         ],
         "image": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
         "imageAlt": "Adaptador NEO Start aberto com uma cápsula NEO de espresso posicionada para o encaixe",
@@ -50744,7 +50749,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Baggio Café: o site da marca tem a linha \"Cápsulas para Dolce Gusto\", com sabores como Chocolate com Avelã, Chocolate Trufado, Caramelo e Clássico, em caixas de 10 cápsulas a R$ 25,90 (R$ 22,02 na assinatura). A própria página avisa que Nespresso e Dolce Gusto são marcas de terceiro, não relacionadas à Baggio Café.",
-          "Gimoka: os resultados de busca mostram produtos \"para Dolce Gusto\" em embalagens de 16 unidades, como Cappuccino e Cioccolata; confira sabor e preço no varejista antes de comprar. Varejistas online também anunciam cápsulas Gimoka compatíveis com Dolce Gusto.",
+          "Gimoka: anuncia cápsulas compatíveis com Dolce Gusto, como Cappuccino e Cioccolata, em caixas de 16 unidades; confira sabor, quantidade e compatibilidade na página da fabricante ou na embalagem antes de comprar.",
           "L'OR e Pilão: não confunda, elas não entram nessa lista. As páginas dessas marcas no Brasil descrevem cápsulas compatíveis com Nespresso Original, não com Dolce Gusto: a L'OR diz que as cápsulas foram projetadas para máquinas Nespresso Original, e a Pilão informa que suas cápsulas são \"compatíveis com máquinas de café NESPRESSO®* ORIGINAL\"."
         ],
         "links": [
@@ -50798,7 +50803,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Também existem acessórios de terceiros que prometem usar outros sistemas na Dolce Gusto. Há adaptadores para Nespresso à venda em varejistas, como o Nexcap na Amazon.com.br, e cápsulas reutilizáveis para Dolce Gusto no mesmo varejo, todos de terceiros; siga o manual da máquina.",
           "No nosso comparativo entre Dolce Gusto, Nespresso e 3 Corações, já avisamos: os formatos de cápsula são diferentes, adaptadores de terceiros podem afetar a vedação ou o funcionamento da máquina, e o certo é seguir sempre o manual.",
-          "Sobre as cápsulas reutilizáveis, os relatos que lemos num fórum de café (Clube do Café, mensagens de 2020 e 2021) são mistos: um usuário contou que \"tem saído um café bem gostoso e com crema\", e outro disse que não conseguiu nada parecido com espresso. Não prometemos resultado nem economia. A máquina trabalha com água quente sob pressão (a Arno informa até 15 bar na Genio S Touch), então vale seguir as instruções do manual."
+          "Não testamos cápsulas reutilizáveis e não prometemos resultado nem economia: os relatos de quem usa variam muito. A máquina trabalha com água quente sob pressão (a Arno informa até 15 bar na Genio S Touch), então vale seguir as instruções do manual."
         ],
         "links": [
           {
@@ -50810,7 +50815,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar cápsulas Dolce Gusto e usar o cupom CECI",
         "paragraphs": [
-          "A loja oficial (nescafe-dolcegusto.com.br) vende as cápsulas Original e NEO. A opção \"Monte sua caixa\", com 50 ou 100 cápsulas escolhidas por você, era anunciada com frete grátis. A loja exibe duas faixas de frete grátis, válidas só para pedidos de bebidas (não para máquinas): uma sem valor mínimo, na página do adaptador, e outra para pedidos acima de R$ 100, na página de sabores. As condições mudam, então confira no carrinho.",
+          "A loja oficial (nescafe-dolcegusto.com.br) vende as cápsulas Original e NEO. A opção \"Monte sua caixa\", com 50 ou 100 cápsulas escolhidas por você, é anunciada com frete grátis. Para pedidos de bebidas (não para máquinas), as páginas da loja informam condições de frete grátis diferentes: uma sem valor mínimo, na página do adaptador, e outra para pedidos acima de R$ 100, na página de sabores. Não conte com as duas ao mesmo tempo; vale a condição exibida no carrinho do seu pedido.",
           "O cupom CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, confira na página do cupom aqui no site. Confira no carrinho se o desconto entrou antes de pagar: a soma com combos e outras campanhas pode variar."
         ],
         "links": [
@@ -50865,7 +50870,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Feito a partir de páginas públicas da Nescafé Dolce Gusto, da Arno e das marcas citadas, de anúncios, de um fórum e da foto de uma caixa; não testamos cápsulas de outras marcas. Parceria comercial: podemos receber comissão pelo cupom CECI.",
+    "editorialNote": "Feito a partir de páginas públicas da Nescafé Dolce Gusto, da Arno e das marcas citadas, de anúncios e da foto de uma caixa; não testamos cápsulas de outras marcas. Parceria comercial: podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "adaptador-neo-start-o-que-e"
@@ -54336,7 +54341,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Dolce Gusto 2026: o cupom CECI dá 10% OFF a partir de R$ 100. Mini Me e Genio S com 30 cápsulas, ofertas do dia e assinatura com desconto.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-faixa.webp",
@@ -54366,10 +54371,10 @@ export const reviewsData: unknown[] = [
         "heading": "O que já está no ar na Black Friday da Dolce Gusto",
         "paragraphs": [
           "\"Começou a Black\", diz a home do site oficial, com a promessa de promoções novas todos os dias. Como em 2023 e 2024, quando a Nestlé anunciou ofertas diárias durante novembro inteiro, a campanha ocupa o mês; o grande dia é a sexta-feira 27 de novembro, e a Cyber Monday vem na segunda seguinte.",
-          "Nas máquinas, os banners trazem a Mini Me 2.0 e as duas Genio S com 30 cápsulas e 10 vezes sem juros, já abaixo do que o site cobrava em outubro:"
+          "Nas máquinas, os banners do início de novembro trazem a Mini Me 2.0 e as duas Genio S com 30 cápsulas e 10 vezes sem juros, já abaixo do que o site cobrava em outubro:"
         ],
         "comparisonTable": {
-          "caption": "Máquinas nos banners da Black Friday do site oficial, com 30 cápsulas e 10 vezes sem juros, ao lado do preço cheio e do preço de outubro. As ofertas mudam sem aviso.",
+          "caption": "Máquinas nos banners da Black Friday do site oficial, com 30 cápsulas e 10 vezes sem juros, ao lado do preço cheio e do preço de outubro. As ofertas mudam sem aviso: confira na loja.",
           "headers": [
             "Máquina",
             "Preço cheio",
@@ -54555,8 +54560,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Dolce Gusto? Já começou no site oficial, com promoções novas todos os dias, e o grande dia é a última sexta-feira de novembro, dia 27. Nos dois anos anteriores, a campanha da Nestlé durou o mês inteiro.",
-          "Quais máquinas estão em oferta na Black Friday da Dolce Gusto? Nos banners, a Mini Me 2.0 a R$ 369,90, a Genio S Basic a R$ 409,90 e a Genio S Plus a R$ 499,90, todas com 30 cápsulas e em 10 vezes sem juros, abaixo do preço de outubro e do anunciado na Black Friday passada.",
+          "Quando começa e quanto dura a Black Friday da Dolce Gusto? Já começou no site oficial, com promoções novas todos os dias, e o grande dia é a última sexta-feira de novembro, dia 27. Em 2023 e 2024, a campanha da Nestlé durou o mês inteiro.",
+          "Quais máquinas estão em oferta na Black Friday da Dolce Gusto? Nos banners, a Mini Me 2.0 a R$ 369,90, a Genio S Basic a R$ 409,90 e a Genio S Plus a R$ 499,90, todas com 30 cápsulas e em 10 vezes sem juros, abaixo do preço de outubro e do anunciado na Black Friday de 2024.",
           "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S estão abaixo de outubro e ainda vêm com 30 cápsulas. Nas cápsulas, compare a oferta do dia com a régua de 2024 da tabela antes de fechar.",
           "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. Se ele soma com a oferta do dia, o carrinho mostra antes de pagar.",
           "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro, as promoções partiam de R$ 17,90 e R$ 1,79.",
@@ -54592,7 +54597,7 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 331,
     "slug": "black-friday-damie",
-    "title": "Black Friday DAMIE 2026: já começou, com poltrona reclinável com 3 presentes, frete grátis e o cupom CECILIA12",
+    "title": "Black Friday DAMIE 2026: já começou, com poltrona reclinável com 3 presentes, frete grátis no Sul e Sudeste e o cupom CECILIA12",
     "seoTitle": "Black Friday DAMIE 2026: poltrona com 3 presentes e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -54604,11 +54609,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da DAMIE já está no ar, com poltrona reclinável, três presentes e frete grátis. Veja os preços de outubro para comparar e como o CECILIA12 soma com as promoções.",
-    "metaDescription": "Black Friday DAMIE 2026: o cupom CECILIA12 dá 12% OFF e soma com o Pix. A poltrona com 3 presentes, o frete grátis e os preços para comparar.",
+    "description": "A Black Friday da DAMIE já está no ar, com poltrona reclinável, três presentes e frete grátis no Sul e Sudeste. Veja os preços de outubro e como o CECILIA12 soma com as promoções.",
+    "metaDescription": "Black Friday DAMIE 2026: o cupom CECILIA12 dá 12% OFF e soma com o Pix. Poltrona com 3 presentes, frete grátis no Sul e Sudeste e preços.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/black-friday-damie-capa-faixa.webp",
@@ -54631,7 +54636,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday DAMIE 2026",
         "paragraphs": [
-          "A Black Friday da DAMIE já começou: o Esquenta Black dá três presentes na compra de poltrona e frete grátis, até 27 de novembro, enquanto durarem os estoques. O cupom CECILIA12 dá 12% OFF e soma com as promoções e com o Pix. O que pesa é comparar com o preço de outubro, porque parte do desconto já existia."
+          "A Black Friday da DAMIE já começou: o Esquenta Black dá três presentes na compra de poltrona e frete grátis no Sul e Sudeste, até 27 de novembro, enquanto durarem os estoques. O CECILIA12 dá 12% OFF e soma com as promoções e o Pix. O que pesa é comparar com o preço de outubro: parte do desconto já existia."
         ]
       },
       {
@@ -54646,7 +54651,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a DAMIE anunciou para a Black Friday 2026",
         "paragraphs": [
-          "A campanha vale até o dia da Black Friday, enquanto durarem os estoques: o site abre com as faixas \"A Black Friday chegou antes\" e \"Esquenta Black\", que promete a poltrona com três presentes e frete grátis, e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) lista as condições. A Cyber Monday fica depois desse prazo.",
+          "A campanha vale até o dia da Black Friday, enquanto durarem os estoques: o site abre com as faixas \"A Black Friday chegou antes\" e \"Esquenta Black\", que promete a poltrona com três presentes e frete grátis (no Sul e no Sudeste; nas outras regiões, o frete se confirma pelo CEP no carrinho), e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) lista as condições. A Cyber Monday fica depois desse prazo.",
           "Os preços de venda das poltronas, do sofá e da Poltrona Cinema eram os mesmos de antes da campanha. Por isso, o desconto de R$ 1.000 nas poltronas não é novo: é o que já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
         ],
         "bullets": [
@@ -54898,7 +54903,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da DAMIE? Já começou: o Esquenta Black, com a poltrona com três presentes e frete grátis, vale até a última sexta-feira de novembro, que é a Black Friday, enquanto durarem os estoques. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
+          "Quando começa e quanto dura a Black Friday da DAMIE? Já começou: o Esquenta Black, com a poltrona com três presentes e frete grátis no Sul e no Sudeste, vale até a última sexta-feira de novembro, que é a Black Friday, enquanto durarem os estoques. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
           "A DAMIE tem Black Friday? Tem em 2026: a página de ofertas da loja traz brindes na compra de poltrona, R$ 1.000 de desconto nas poltronas e desconto por quantidade, até a Black Friday.",
           "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Antes da campanha, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
           "Qual o preço da poltrona DAMIE? Antes da campanha, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
@@ -54950,7 +54955,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 40%.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/black-friday-letseatit-capa-discover.webp",
@@ -54965,7 +54970,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "O desconto da Le Creuset fica só nas peças e cores da coleção de promoção; fora dela, o preço é o cheio",
-      "Não há frete grátis na compra",
+      "Frete grátis só em Le Creuset e Zwilling acima de R$ 1.000; no resto, o frete é pelo CEP",
       "O cashback só vale numa compra de 7 vezes o valor do cupom",
       "Os prazos de entrega podem mudar em períodos promocionais"
     ],
@@ -54973,7 +54978,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
         "paragraphs": [
-          "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%; o dia da Black Friday é 27 de novembro. A Le Creuset tem coleção de promoção, de 15% a 40% OFF, a maioria das panelas com 25%. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
+          "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70%; o dia da Black Friday é 27 de novembro. A Le Creuset tem coleção de promoção, de 15% a 40% OFF. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
         ]
       },
       {
@@ -55130,11 +55135,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
           "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
-          "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita agora gera um cashback que ainda vale na sexta da Black Friday.",
+          "**Cashback e a sexta:** pela página do cashback, o cupom só pode ser usado a partir de 7 dias depois da compra que o gerou e vale 30 dias. Para usar o cashback na sexta da Black Friday, a compra que o gera precisa ser feita pelo menos 7 dias antes; uma compra na semana da data gera um cupom que só vale depois dela. Os termos estão na página do cashback.",
           "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
           "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tira R$ 87,34, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
           "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
-          "**Frete:** não há frete grátis na compra. Ele é calculado pelo CEP e pelo peso do pedido."
+          "**Frete:** frete grátis só para Le Creuset e Zwilling, em pedidos acima de R$ 1.000 em produtos dessas marcas, segundo a política de frete da loja. No resto, o frete é calculado pelo CEP e pelo peso do pedido: confira o valor no carrinho antes de pagar."
         ],
         "links": [
           {
@@ -55220,10 +55225,10 @@ export const reviewsData: unknown[] = [
           "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Le Creuset de 15% a 40% OFF, Porto Brasil até 60%, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
           "Le Creuset fica mais barata na Black Friday? Fica. A coleção Promoção Le Creuset traz peças de 15% a 40% OFF, a maioria com 25%. A panela Redonda Signature de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75.",
           "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 40%, e a maioria das panelas Signature tem 25%.",
-          "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O envio da devolução é que sai por conta da loja.",
+          "A Let's Eat It tem frete grátis? Só em casos específicos: a política de frete cita Le Creuset e Zwilling em pedidos acima de R$ 1.000 em produtos dessas marcas. No resto, o frete é calculado pelo CEP e pelo peso do pedido, e o carrinho mostra o valor. O envio da devolução sai por conta da loja.",
           "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
           "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
-          "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom vale 30 dias: uma compra feita até 30 dias antes da sexta gera um cupom que ainda vale nela, desde que a nova compra seja de pelo menos 7 vezes o valor do cupom.",
+          "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom só pode ser usado a partir de 7 dias depois da compra que o gerou, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom. Para usar na sexta da Black Friday, a compra que gera o cupom precisa ser de pelo menos 7 dias antes; os termos estão na página do cashback.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
           "Até quando comprar para chegar antes do Natal? Pela nossa conta com o prazo mais longo da loja e um dia útil de folga, a data limite vai de meados de dezembro em São Paulo capital ao começo de dezembro no Norte e no Nordeste; a tabela do guia traz cada região."
         ]
@@ -55254,7 +55259,7 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 333,
     "slug": "black-friday-i-wanna-sleep",
-    "title": "Black Friday I Wanna Sleep 2026: a loja segue sem campanha, os preços do Pillow Top Magnum e o cupom CECIEMCASA",
+    "title": "Black Friday I Wanna Sleep 2026: kits exclusivos com brinde, os preços do Pillow Top Magnum e o cupom CECIEMCASA",
     "seoTitle": "Black Friday I Wanna Sleep 2026: pillow top, cupom e preços",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -55266,11 +55271,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A I Wanna Sleep entrou em novembro sem campanha de Black Friday. Veja os preços do Pillow Top Magnum para comparar, como o cupom CECIEMCASA entra e o prazo para o Natal.",
-    "metaDescription": "Black Friday I Wanna Sleep 2026: o cupom CECIEMCASA dá 10% OFF em todo o site, e a loja segue sem campanha. Pillow Top Magnum, travesseiros e Natal.",
+    "description": "A I Wanna Sleep já mostra kits exclusivos de Black Friday, com brindes. Veja os preços do Pillow Top Magnum para comparar, como o cupom CECIEMCASA entra e o prazo para o Natal.",
+    "metaDescription": "Black Friday I Wanna Sleep 2026: o cupom CECIEMCASA dá 10% OFF em todo o site, e a loja tem kits Black com brindes. Pillow Top Magnum e Natal.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-faixa.webp",
@@ -55292,21 +55297,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday I Wanna Sleep 2026",
         "paragraphs": [
-          "A I Wanna Sleep entrou em novembro sem campanha de Black Friday: a home não traz selo nem data, e o grande dia é 27 de novembro. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os preços já reduzidos. O que muda a decisão é o prazo para o Natal."
+          "A I Wanna Sleep já mostra na home os Kits Exclusivos Black, com brindes e sem data de fim publicada; o grande dia é 27 de novembro. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os preços já reduzidos. O que muda a decisão é o prazo para o Natal."
         ]
       },
       {
         "heading": "A I Wanna Sleep tem Black Friday?",
         "paragraphs": [
-          "Por enquanto, não: em novembro, a home da I Wanna Sleep segue sem campanha de Black Friday, só com o aviso de frete grátis acima de R$ 150. Também não encontramos campanha oficial nos anos anteriores: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
+          "Tem uma campanha enxuta: a home da I Wanna Sleep traz os Kits Exclusivos Black, com brindes (dois travesseiros Magnum no Pillow Top, um travesseiro Bubble Gel no cobertor Igloo, meias no Huggy) e até 39% de desconto em kits, sem data de fim publicada. Não encontramos campanha oficial nos anos anteriores: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
           "O que a loja já fazia em outubro era vender o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto, e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
-          "Se a campanha sair, compare as condições novas com as tabelas de outubro deste guia: o selo só é vantagem se o preço do dia ficar abaixo delas."
+          "Compare os kits com as tabelas deste guia: o selo só é vantagem se o preço do dia ficar abaixo delas. O carrinho mostra se o cupom entra em cada kit."
         ]
       },
       {
         "heading": "Pillow Top Magnum e kits: o desconto que já existia em outubro",
         "paragraphs": [
-          "O Pillow Top Magnum, que vai por cima do colchão, já estava com cerca de 14% de desconto sobre o preço riscado em todos os tamanhos. Os kits com ele saíam com desconto maior, de 18% a 21%."
+          "O Pillow Top Magnum, que vai por cima do colchão, tinha cerca de 14% de desconto sobre o preço riscado em todos os tamanhos em outubro, e a home já mostra 17% no solteiro. Os kits com ele saem com desconto maior, de 18% a 22%."
         ],
         "image": {
           "src": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-hero.webp",
@@ -55315,7 +55320,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "square"
         },
         "comparisonTable": {
-          "caption": "Pillow Top Magnum e kits na I Wanna Sleep: preço riscado na página e preço do dia, lidos em 9 de outubro de 2026. No Pix, a página do produto mostra mais 5% de desconto.",
+          "caption": "Pillow Top Magnum e kits na I Wanna Sleep: preço riscado na página e preço do dia, lidos em 9 de outubro de 2026. O solteiro e o kit com 2 travesseiros Snow já estão com o preço de novembro; nos outros tamanhos, confira o preço do dia na loja. No Pix, a página do produto mostra mais 5% de desconto.",
           "headers": [
             "Produto",
             "Preço riscado",
@@ -55325,7 +55330,7 @@ export const reviewsData: unknown[] = [
             [
               "Pillow Top Magnum, solteiro (1,00 x 2,00 m)",
               "R$ 1.489",
-              "R$ 1.280"
+              "R$ 1.233"
             ],
             [
               "Pillow Top Magnum, casal (1,40 x 2,00 m)",
@@ -55345,7 +55350,7 @@ export const reviewsData: unknown[] = [
             [
               "Kit Pillow Top Magnum casal + 2 travesseiros Snow regular",
               "R$ 2.987",
-              "R$ 2.359"
+              "R$ 2.326"
             ],
             [
               "Kit Pillow Top Magnum + Bao Bao + Igloo, casal",
@@ -55367,7 +55372,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Travesseiros e cobertores: preços de outubro",
         "paragraphs": [
-          "Nos travesseiros e cobertores, o selo de desconto também já estava lá em outubro, entre 12% e 17%."
+          "Nos travesseiros e cobertores, o selo de desconto também já estava lá em outubro, entre 12% e 17%, e o Snow regular está em 20% na home."
         ],
         "image": {
           "src": "/images/reviews/iwannasleep/qual-cobertor-escolher-hero-grid.webp",
@@ -55376,7 +55381,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "square"
         },
         "comparisonTable": {
-          "caption": "Travesseiros e cobertores na I Wanna Sleep: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+          "caption": "Travesseiros e cobertores na I Wanna Sleep: preço riscado na página e preço do dia. O Snow regular, o Igloo e o Huggy já estão com o preço de novembro; nos demais, o preço é o de outubro: confira na loja. No Pix, a página do produto mostra mais 5% de desconto.",
           "headers": [
             "Produto",
             "Preço riscado",
@@ -55386,7 +55391,7 @@ export const reviewsData: unknown[] = [
             [
               "Travesseiro Snow, regular (50 x 70 cm)",
               "R$ 419",
-              "R$ 347"
+              "R$ 335"
             ],
             [
               "Travesseiro Snow, plus (50 x 90 cm)",
@@ -55416,7 +55421,7 @@ export const reviewsData: unknown[] = [
             [
               "Cobertor Igloo, casal/queen",
               "R$ 1.099",
-              "R$ 967"
+              "R$ 931"
             ],
             [
               "Cobertor Igloo, king/super king",
@@ -55426,7 +55431,7 @@ export const reviewsData: unknown[] = [
             [
               "Cobertor Huggy, casal/queen",
               "R$ 699",
-              "R$ 583"
+              "R$ 565"
             ],
             [
               "Cobertor Cozy, casal/queen",
@@ -55570,7 +55575,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da I Wanna Sleep? A loja não abriu campanha: em novembro, a home segue sem selo nem data de Black Friday. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Se a campanha sair, compare com as tabelas de outubro deste guia.",
+          "Quando começa e quanto dura a Black Friday da I Wanna Sleep? A home já traz os Kits Exclusivos Black, com brindes, sem data de fim publicada. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Compare os kits com as tabelas deste guia.",
           "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
           "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 na leitura de preços, sai por R$ 1.580,04.",
           "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
@@ -55583,7 +55588,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Com ou sem campanha, compare os preços com as tabelas deste guia e aplique o cupom CECIEMCASA no checkout da I Wanna Sleep antes de pagar.",
+      "text": "Compare os preços com as tabelas deste guia e aplique o cupom CECIEMCASA no checkout da I Wanna Sleep antes de pagar.",
       "label": "Ir para a I Wanna Sleep",
       "url": "https://www.iwannasleep.com.br",
       "sponsored": true
@@ -55623,7 +55628,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Insider 2026 masculino: o cupom EMCASACOMCECILIA dá 15% OFF e soma com até 50% OFF em itens selecionados. Tech T-Shirt, kits e cuecas.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
-    "updatedAt": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/black-friday-insider-capa-discover.webp",
@@ -55640,7 +55645,7 @@ export const reviewsData: unknown[] = [
     "cons": [
       "Cada promoção tem regra própria, e algumas não somam com cupom",
       "O cupom não vale na loja física e pode não entrar nos primeiros dias de um lançamento",
-      "Underwear e moda praia só têm troca por defeito",
+      "Underwear e moda praia não têm troca voluntária, só por defeito",
       "A loja não publica os prazos de entrega por região"
     ],
     "contentSections": [
@@ -55721,7 +55726,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Compare o kit com a peça avulsa: no preço de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas, e a Tech T-Shirt Gola V saía a R$ 119 na promoção do dia; a conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa). Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
-          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela. Os preços mudam ao longo da campanha: confira no site no dia."
         ]
       },
       {
@@ -55766,7 +55771,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Cuecas só têm troca por defeito, por higiene. Antes de comprar um kit, confira o guia de medidas na página do produto. A conta por peça de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa)."
+          "Por higiene, cuecas não têm troca por tamanho, cor ou modelo, só por defeito; o arrependimento da compra online segue valendo, nos prazos da seção de trocas. Antes de comprar um kit, confira o guia de medidas na página do produto. A conta por peça de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa)."
         ]
       },
       {
@@ -55776,7 +55781,7 @@ export const reviewsData: unknown[] = [
           "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido e também oferece cupons da própria campanha: compare os 15% com o cupom da campanha da própria Insider antes de fechar o pedido.",
           "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
           "**Lançamentos:** nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, mesmo com a etiqueta de lançamento, o desconto entra: no nosso teste, a Tech T-Shirt recebeu os 15%. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
-          "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; no fim de outubro, a barra dizia +2% OFF no Pix. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
+          "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; confira o percentual no checkout. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
           "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
           "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
           "**Exemplo:** quatro Tech T-Shirts e duas cuecas Comfort somavam R$ 674 em outubro. O cupom tira R$ 101,10, e o pedido fica em R$ 572,90, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar."
@@ -55806,7 +55811,7 @@ export const reviewsData: unknown[] = [
           "**Insatisfação (tamanho, cor ou modelo):** até 21 dias corridos depois do recebimento, com a peça sem uso, com a etiqueta e sem sinal de lavagem.",
           "**Defeito:** até 180 dias corridos depois do recebimento, com fotos do defeito.",
           "**Como pedir:** pelo portal de trocas do site, feito pelo titular da compra. A troca é grátis.",
-          "**Underwear e moda praia:** só têm troca ou devolução por defeito.",
+          "**Underwear e moda praia:** a loja não faz troca voluntária (tamanho, cor ou modelo), só por defeito. O arrependimento da compra online segue valendo, no prazo acima.",
           "**Brinde:** se o pedido veio com brinde e você devolve o produto, o brinde volta junto.",
           "**Troca de presente:** quem ganhou pede a troca, sem nota fiscal e sem a embalagem original, e recebe um vale-troca no valor do item para usar no site. O prazo é de 21 dias corridos depois da entrega, com a peça sem uso, sem sinal de lavagem e com a etiqueta.",
           "**Atenção ao prazo:** os 21 dias contam da entrega, não do Natal. Um presente entregue em 1º de dezembro tem troca até 22 de dezembro."
@@ -55905,9 +55910,9 @@ export const reviewsData: unknown[] = [
           "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e no Outlet o desconto entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare os 15% com o cupom da campanha da própria Insider.",
           "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
           "O kit de Tech T-Shirt compensa? Depende do dia e do kit. No preço de outubro, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas. Nos kits de cueca e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
-          "A Insider tem desconto no Pix? Tem: em outubro, a loja anunciava desconto no Pix, que soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners, então confira no checkout. No fim de outubro, a barra do site dizia +2%.",
+          "A Insider tem desconto no Pix? Tem: em outubro, a loja anunciava desconto no Pix, que soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners, então confira no checkout.",
           "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
-          "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Underwear e moda praia só têm troca por defeito.",
+          "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Underwear e moda praia não têm troca voluntária, só por defeito; o arrependimento da compra online segue valendo.",
           "O cupom vale na loja física da Insider? Não. Cupons e cashback valem só no site, e pedidos do site não podem ser retirados nem trocados na Concept Store do MorumbiShopping.",
           "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que o carrinho mostrou em outubro e um dia útil de folga, a data limite varia por capital: a tabela da seção Entrega e prazo para o Natal traz o dia de cada uma, de meados de dezembro em São Paulo ao fim de novembro em Manaus."
         ]
@@ -55957,7 +55962,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Insider 2026 feminino: o cupom EMCASACOMCECILIA dá 15% OFF e soma com até 50% OFF em itens selecionados. Tech feminina, calcinhas e sutiãs.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
-    "updatedAt": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/black-friday-insider-feminino-capa.webp",
@@ -55974,7 +55979,7 @@ export const reviewsData: unknown[] = [
     "cons": [
       "Cada janela da campanha tem regra própria, e algumas promoções não somam com cupom",
       "O cupom não vale na loja física e pode não entrar nos primeiros dias de um lançamento",
-      "Calcinhas, sutiãs e moda praia só têm troca por defeito",
+      "Calcinhas, sutiãs e moda praia não têm troca voluntária, só por defeito",
       "O Outlet não repõe: quando o tamanho acaba, acabou"
     ],
     "contentSections": [
@@ -56066,7 +56071,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O kit de três Tech femininas saía a R$ 118,50 por camiseta, contra R$ 129 da avulsa: economia de R$ 31,50 no kit. No de cinco, cada uma saía por R$ 108,88. O Kit 3 Daily quase empata com as avulsas, R$ 290,76 contra R$ 297. A conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa); as diferenças de tecido e caimento entre as linhas, em [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher).",
-          "Com o cupom, a Gola V de R$ 129 sai por R$ 109,65 e a Manga Longa de R$ 199, por R$ 169,15. A Tech feminina, a NEXTECH, a The Perfect Top T-Shirt e as Skin Cropped aparecem na loja com a etiqueta de lançamento, e o cupom pode ficar de fora delas nos primeiros dias: o resumo do carrinho mostra a linha do cupom em cada item que entrou. A Daily masculina avisa na página que não aceita cupom; na feminina, confira no carrinho."
+          "Com o cupom, a Gola V de R$ 129 sai por R$ 109,65 e a Manga Longa de R$ 199, por R$ 169,15. A Tech feminina, a NEXTECH, a The Perfect Top T-Shirt e as Skin Cropped aparecem na loja com a etiqueta de lançamento, e o cupom pode ficar de fora delas nos primeiros dias: o resumo do carrinho mostra a linha do cupom em cada item que entrou. A Daily masculina avisa na página que não aceita cupom; na feminina, confira no carrinho. Os preços mudam ao longo da campanha: confira no site no dia."
         ]
       },
       {
@@ -56151,7 +56156,7 @@ export const reviewsData: unknown[] = [
           "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido, então compare os 15% com o cupom da própria campanha antes de fechar.",
           "**Teste no carrinho:** no fim de outubro, a Calça Pantalona InLounge, de R$ 299 por R$ 179 no Outlet, saiu por R$ 152,15 com o cupom. Ele também entrou em peças com etiqueta de lançamento, como os sutiãs Nakedfeel e o Perfect Body Manga Longa.",
           "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na janela de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
-          "**Pix:** a loja anunciava desconto no Pix também na coleção da Black Friday, e ele soma com o cupom. O percentual mudava entre a barra do site e os banners; no fim de outubro, a barra dizia +2% OFF. O desconto do Pix não vale em gift card.",
+          "**Pix:** a loja anunciava desconto no Pix também na coleção da Black Friday, e ele soma com o cupom. O percentual muda entre a barra do site e os banners; confira no checkout. O desconto do Pix não vale em gift card.",
           "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
           "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
           "**Exemplo:** três Tech femininas avulsas e o Kit 3 Calcinhas Brief, nos preços de outubro, somam R$ 526,90. O cupom tira R$ 79,04, e o pedido fica em R$ 447,86, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar.",
@@ -56171,7 +56176,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas e presente",
         "paragraphs": [
-          "A troca é grátis e sai pelo portal de trocas do site, pelo titular da compra. Por arrependimento, o prazo é de 7 dias úteis depois do recebimento; por tamanho, cor ou modelo, 21 dias corridos, com a peça sem uso, com etiqueta e sem sinal de lavagem; por defeito, 180 dias, com fotos. Calcinhas, sutiãs e moda praia só trocam por defeito, e isso vale para cada peça de um kit.",
+          "A troca é grátis e sai pelo portal de trocas do site, pelo titular da compra. Por arrependimento, o prazo é de 7 dias úteis depois do recebimento; por tamanho, cor ou modelo, 21 dias corridos, com a peça sem uso, com etiqueta e sem sinal de lavagem; por defeito, 180 dias, com fotos. Calcinhas, sutiãs e moda praia não têm troca voluntária, só por defeito, e isso vale para cada peça de um kit; o arrependimento da compra online segue valendo no prazo acima.",
           "Para presente, quem ganhou pede a troca sem nota fiscal e sem a embalagem, e recebe um vale-troca no valor do item para usar no site, em até 21 dias corridos depois da entrega. O prazo conta da entrega, não do Natal. Se o pedido veio com brinde e a peça volta, o brinde volta junto.",
           "Antes de escolher o tamanho, use a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider): a Tech feminina vai do PP ao XGG, com caimento levemente ajustado, sem comprimir, e a tabela mede o busto e a largura da peça deitada. A Gola V feminina vai do PP ao GG."
         ],
@@ -56213,7 +56218,7 @@ export const reviewsData: unknown[] = [
           "O kit de calcinhas compensa? Compensa no preço por peça: no Outlet, o Kit 3 Calcinhas Brief estava a R$ 118,20 e o de cinco a R$ 190,19, contra R$ 49 da Brief avulsa em outubro. O kit é fechado, sem escolha de tamanho e com no máximo duas cores no de cinco, e só troca por defeito.",
           "A Insider tem desconto no Pix? Tem, e ele soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners; no fim de outubro, a barra dizia +2%. Confira no checkout.",
           "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
-          "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Calcinhas, sutiãs e moda praia só têm troca por defeito.",
+          "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Calcinhas, sutiãs e moda praia não têm troca voluntária, só por defeito.",
           "Até quando comprar para chegar antes do Natal? Depende da capital: pela simulação de outubro, o frete grátis ia de 5 dias úteis em São Paulo a 19 em Manaus, e a data limite de cada uma está na tabela do guia masculino. Refaça a simulação com o seu CEP em novembro."
         ]
       }
@@ -56255,11 +56260,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Month da Nestlé Nutre já começou, com até 25% OFF e mais 10% com o cupom CECI. O Nutren Senior segue sem desconto; veja os preços para comparar e o prazo do Natal.",
-    "metaDescription": "Black Friday Nutren 2026: o cupom CECI dá 10% OFF e soma com até 25% do Black Month da Nestlé Nutre. O Nutren Senior, ainda sem desconto, e o Natal.",
+    "description": "A Black Month da Nestlé Nutre já começou, com até 25% OFF e mais 10% com o cupom CECI. O Nutren Senior não aparece nos banners; veja os preços para comparar e o prazo do Natal.",
+    "metaDescription": "Black Friday Nutren 2026: o cupom CECI dá 10% OFF e soma com até 25% do Black Month da Nestlé Nutre. O Nutren Senior, os preços e o Natal.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/nutren/black-friday-nestle-nutre-capa-discover.webp",
@@ -56273,7 +56278,7 @@ export const reviewsData: unknown[] = [
       "Frete grátis acima de R$ 400 na compra única e de R$ 200 na assinatura"
     ],
     "cons": [
-      "O Nutren Senior não aparece no esquenta nem na arte do Black Month: sem desconto anunciado",
+      "O Nutren Senior não aparece no banner do esquenta nem na arte do Black Month",
       "A loja não dá desconto no Pix",
       "O CECI não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses",
       "O parcelamento sem juros pede parcela mínima de R$ 75",
@@ -56283,7 +56288,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Nutren 2026",
         "paragraphs": [
-          "A Nestlé Nutre já abriu a Black Month: novembro inteiro com até 25% OFF e mais 10% com cupom, e o esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai até 22 de novembro; o Nutren Senior segue sem desconto anunciado. O cupom dos 10% é o [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, com todas as formas de pagamento."
+          "A Nestlé Nutre já abriu a Black Month: novembro inteiro com até 25% OFF e mais 10% com cupom, e o esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai até 22 de novembro; o Nutren Senior não aparece nos banners. O cupom dos 10% é o [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, com todas as formas de pagamento."
         ]
       },
       {
@@ -56358,7 +56363,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Repare nos kits: o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). Conferimos no carrinho que o preço do kit vale para as duas latas.",
           "A comparação das formas de compra por 100 g, da lata de 370 g ao kit e à assinatura, está em [Nutren Senior: qual tamanho e qual forma de compra compensam](/reviews/nutren-senior-kit-combo-ou-assinatura).",
-          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela. Os preços da loja mudam: confira na página do produto."
         ],
         "links": [
           {
@@ -56558,7 +56563,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Nestlé Nutre? Já começou: a loja chama novembro de Black Month, \"novembro inteiro de ofertas\" em Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com até 25% OFF e mais 10% com cupom. O esquenta, com até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, vai até o dia 22 ou enquanto durarem os estoques. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte.",
           "Qual cupom usar nos 10% adicionais do Black Month da Nestlé Nutre? O CECI: 10% OFF, com todas as formas de pagamento, sobre os preços da campanha. A loja aceita um cupom por pedido, e o CECI não vale em fórmulas infantis de 0 a 12 meses.",
-          "O Nutren Senior entrou na Black Friday da Nestlé Nutre? Ainda não: a arte do Black Month traz o Just Protein e o Nutren Control pela Nutrição Adulta, mas não o Nutren Senior, que também fica fora do banner do esquenta. Compare o preço do dia com as tabelas de outubro deste guia; se ficar abaixo, o desconto é maior que o de outubro.",
+          "O Nutren Senior entrou na Black Friday da Nestlé Nutre? Ele não aparece na arte do Black Month, que traz o Just Protein e o Nutren Control pela Nutrição Adulta, nem no banner do esquenta. Pode haver desconto na página do produto mesmo assim: compare o preço do dia com as tabelas de outubro deste guia; se ficar abaixo, o desconto é maior que o de outubro.",
           "Quanto custa o Nutren Senior 740 g? Na leitura de outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
           "O Nutren Senior fica mais barato na Black Friday? Em outubro, ele já estava abaixo do preço riscado, e o kit com duas latas saía por cerca de R$ 131,75 a lata. Se em novembro o preço do dia ficar abaixo das tabelas deste guia, o desconto é maior que o de outubro.",
           "O cupom CECI vale para o Nutren Senior? Vale. O CECI dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday: pela nossa conta, a lata zero lactose de R$ 190,61 sai por R$ 171,55.",
@@ -76680,6 +76685,7 @@ export const reviewsData: unknown[] = [
     "description": "A Lejour tem reputação Ótima no Reclame Aqui, nota 9,5, com todas as reclamações respondidas. Veja o que é Sem Reputação e o que fazer se o saque travar.",
     "metaDescription": "Lejour no Reclame Aqui em 14/10/2026: reputação Ótima, nota 9,5 e 22 reclamações respondidas. Veja o que é \"Sem Reputação\" e o que fazer.",
     "publishedAt": "14 de outubro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
@@ -76703,7 +76709,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Lejour tem reputação Ótima no Reclame Aqui nos últimos 12 meses, com todas as reclamações do período respondidas e resolvidas. O volume é pequeno, então a nota mostra poucos casos, e não um histórico longo. Os capítulos abaixo explicam por que algumas abas aparecem como Sem Reputação e o que fazer se o saque travar; para criar a lista com o nosso link, veja a [indicação da Lejour](/cupons/lejour)."
+          "Sim, a Lejour tem reputação Ótima no Reclame Aqui nos últimos 12 meses: todas as 22 reclamações foram respondidas, e as 13 avaliadas pelos consumidores, resolvidas. O volume é pequeno, e a nota mostra poucos casos. Para criar a lista com o nosso link, veja a [indicação da Lejour](/cupons/lejour)."
         ]
       },
       {
@@ -76942,6 +76948,7 @@ export const reviewsData: unknown[] = [
     "description": "O que é a Lejour e como funciona: site do casamento e lista de presentes virtuais, as taxas de cada plano, como sacar o dinheiro e qual plano escolher para a sua lista.",
     "metaDescription": "Lejour: o que é, como funciona a lista de presentes, as taxas (3,89% a 2,99%) e os planos Basic, Premium e Pro, em 14/10/2026.",
     "publishedAt": "14 de outubro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
@@ -77170,12 +77177,12 @@ export const reviewsData: unknown[] = [
           "**Basic:** casais que querem começar sem pagar ou esperam poucos presentes. Se você espera muitos presentes ou mais de 2 saques, compare com o Premium na tabela de planos acima.",
           "**Premium:** casais que esperam um volume maior de presentes ou fariam mais de 2 saques (preço, taxa e itens inclusos na tabela de planos acima).",
           "**Pro:** casais com convidados de vários países ou que querem todos os recursos (detalhes na tabela de planos acima).",
-          "Na dúvida, comece no Basic: o Premium se paga a partir de R$ 16.650 em presentes."
+          "Na dúvida, comece no Basic: com o Premium a R$ 99,90, o preço de outubro, ele se paga a partir de R$ 16.650 em presentes. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
         ],
         "postParagraphs": [
           "Para saber a partir de quanto a taxa menor paga o preço do plano, a conta é simples: o preço do plano dividido pela diferença entre as taxas. É uma conta nossa, feita com os números acima, e serve como orientação, não como promessa de economia:",
           "Conferindo o primeiro caso: em R$ 16.650 de presentes, a taxa do Basic é de R$ 647,69 e a do Premium, de R$ 547,79. A diferença é de R$ 99,90, o preço do Premium.",
-          "Três cuidados sobre essa conta. Primeiro, a conta só favorece o casal se ele paga a taxa; se os convidados pagam, a economia vai para o convidado, e o plano pago só compensa pelo saque ilimitado e pelo domínio. Segundo, o Premium estava em preço promocional (de R$ 179,90 por R$ 99,90), então refaça a conta com o preço que aparecer no painel. Terceiro, a conta não inclui os extras de cada plano: no Basic, o domínio .site custa R$ 69,90 e cada saque depois do 2º custa R$ 5, itens que os planos pagos já cobrem."
+          "Três cuidados sobre essa conta. Primeiro, a conta só favorece o casal se ele paga a taxa; se os convidados pagam, a economia vai para o convidado, e o plano pago só compensa pelo saque ilimitado e pelo domínio. Segundo, a conta usa o Premium a R$ 99,90 (de R$ 179,90), o preço de outubro. Em novembro a Lejour tem preços de campanha nos planos, que mudam o resultado, então refaça a conta com o preço que aparecer no painel. Terceiro, a conta não inclui os extras de cada plano: no Basic, o domínio .site custa R$ 69,90 e cada saque depois do 2º custa R$ 5, itens que os planos pagos já cobrem."
         ],
         "comparisonTable": {
           "caption": "A partir de quanto em presentes a taxa menor paga o plano (conta nossa)",
@@ -79582,7 +79589,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Black Skull 2026: o cupom CECILIA10 dá 10% em todo o site. Desconto progressivo de até 40% e frete grátis, com a campanha já no ar.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp",
@@ -79591,7 +79598,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "A Black November já está no ar, com desconto progressivo e selos de até 40%",
-      "O CECILIA10 dá 10% em todo o site e soma com as promoções vigentes",
+      "O CECILIA10 dá 10% em todo o site e somou com as promoções de outubro; no progressivo, confira a linha Descontos",
       "Em outubro, a Creatina Creator 300 g saía por R$ 29,90, contra R$ 49,90 do preço de lista",
       "O cupom vale em todas as formas de pagamento, com cartão em até 8 vezes sem juros e Pix parcelado em 4 vezes",
       "Frete grátis acima de R$ 199,90 no Sul e no Sudeste",
@@ -79608,7 +79615,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Black Skull 2026",
         "paragraphs": [
-          "A Black November da Black Skull já está no ar: desconto progressivo, quanto mais produtos você leva maior o desconto, com selos de até 40% e frete grátis anunciado para todo o Brasil. O cupom CECILIA10 dá 10% em todo o site e soma com as promoções da loja; confira a linha de descontos na sacola antes de pagar."
+          "A Black November da Black Skull já está no ar, com desconto progressivo (quanto mais itens, maior o desconto), selos de até 40% e frete grátis anunciado. O CECILIA10 dá 10% em todo o site e somou com as promoções testadas em outubro; no progressivo, confira a linha de descontos na sacola antes de pagar."
         ]
       },
       {
@@ -79846,11 +79853,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Max November da Max Titanium vai o mês inteiro, com cashback de até 16%, roupas com 50% OFF e Pix com 5%. Veja como o cupom MAX10EMCASACOMCECILIA soma com as promoções.",
-    "metaDescription": "Black Friday Max Titanium 2026: o cupom MAX10EMCASACOMCECILIA dá até 10% OFF. Cashback de até 16%, roupas com 50% OFF e 5% no Pix.",
+    "description": "O Max November da Max Titanium vai o mês inteiro, com cashback de até 16%, roupas com 50% OFF e Pix com até 5%. Veja como o cupom MAX10EMCASACOMCECILIA soma com as promoções.",
+    "metaDescription": "Black Friday Max Titanium 2026: o cupom MAX10EMCASACOMCECILIA dá até 10% OFF. Cashback de até 16%, roupas com 50% OFF e até 5% no Pix.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/black-friday-max-titanium-capa-discover.webp",
@@ -79894,14 +79901,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Max Titanium 2026",
         "paragraphs": [
-          "O Max November da Max Titanium já começou e vai o mês inteiro: cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa e 5% no Pix e no boleto. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções e com o Pix; confira a linha de descontos no carrinho."
+          "O Max November da Max Titanium já começou e vai o mês inteiro: cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa e Pix e boleto com até 5%. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções e com o Pix; confira a linha de descontos no carrinho."
         ]
       },
       {
         "heading": "Quando é e o que está no ar no Max November",
         "paragraphs": [
           "O **Max November** de 2026 vai de 1º a 30 de novembro, o mês inteiro, e a home da Max Titanium já traz o banner de Black Friday. A sexta-feira do calendário é 27 de novembro, e a Cyber Monday, 30 de novembro; na loja, a campanha é o mês todo, não só a sexta.",
-          "O que a home anuncia: cashback de até 16%; roupas e acessórios com 50% OFF; o \"Comprou ganhou\", com brindes Znack That por faixa de valor do pedido, até 3 brindes; e Pix e boleto com 5% OFF.",
+          "O que a home anuncia: cashback de até 16%; roupas e acessórios com 50% OFF; o \"Comprou ganhou\", com brindes Znack That por faixa de valor do pedido, até 3 brindes; e Pix e boleto com até 5% OFF.",
           "Os banners da home trazem duas regras: o cashback de até 16% vale em compras acima de R$ 150, em dobro para todos os níveis do Elite Member, e quem compra acima de R$ 199,90 ganha um par de meias exclusivo, por tempo limitado. A loja não publicou as faixas do cashback abaixo dos 16% nem o valor de pedido de cada brinde Znack That. Confira a página da campanha antes de fechar o carrinho, e compare o preço do dia com a tabela de outubro, abaixo."
         ],
         "image": {
@@ -80038,7 +80045,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**O cupom abateu cerca de 9% sobre a promoção.** No whey do teste, feito em outubro, o percentual ficou abaixo dos 10%.",
-          "**O Pix é 5%.** No Max November, a home anuncia 5% OFF no Pix e no boleto.",
+          "**O Pix é de até 5%.** A home anuncia até 5% OFF no Pix e no boleto, e o percentual varia por produto: confira no carrinho.",
           "**O cashback é da loja.** Não testamos o cupom num produto com preço do Max November nem o crédito do cashback junto com o código; a linha \"Descontos\" do carrinho mostra o que o cupom abateu antes de pagar."
         ],
         "postParagraphs": [
@@ -80095,11 +80102,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16% acima de R$ 150, um par de meias de brinde acima de R$ 199,90, roupas e acessórios com 50% OFF, brindes por faixa de valor e 5% no Pix e no boleto.",
+          "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16% acima de R$ 150, um par de meias de brinde acima de R$ 199,90, roupas e acessórios com 50% OFF, brindes por faixa de valor e Pix e boleto com até 5%.",
           "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Num produto com preço do Max November ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
           "O cupom vale com produto em promoção? Sim. No teste no carrinho, o cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
           "O cupom soma com o cashback do Max November? Não testamos. O cashback é da loja, com as regras na página da campanha; o cupom entra no campo do carrinho, e a linha Descontos mostra o que ele abateu.",
-          "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 5% do Pix e do boleto que a loja anuncia no Max November.",
+          "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de até 5% do Pix e do boleto que a loja anuncia no Max November.",
           "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site na consulta de outubro. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
           "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
           "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha \"Descontos\"."
@@ -80126,7 +80133,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Dr. Peanut 2026: a loja segue sem campanha. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com promoção; frete grátis por região.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover-v2.webp",
@@ -80170,7 +80177,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Dr. Peanut 2026",
         "paragraphs": [
-          "A Dr. Peanut entrou em novembro sem campanha de Black Friday: a home traz só o frete grátis e os combos, e o grande dia é 27 de novembro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções no ar; a ficha do produto mostra 3% no Pix, e só o carrinho mostra se somam."
+          "A Dr. Peanut entrou em novembro sem campanha de Black Friday: a home traz só o frete grátis e os combos, e o grande dia é 27 de novembro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções no ar; confira no carrinho se o desconto do Pix soma também."
         ]
       },
       {
@@ -80255,7 +80262,7 @@ export const reviewsData: unknown[] = [
           "**Frete:** olhe a faixa do frete grátis no topo do carrinho com o cupom já aplicado e compare com o mínimo da sua região.",
           "**Peso e quantidade:** confira o peso do pote e quantos potes o combo traz. Compare o preço por quilo entre o pote avulso e o combo, em vez de olhar só o preço final. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
           "**Validade e lote:** veja a validade e o lote do produto no rótulo quando o pedido chegar. Se houver avaria, embalagem violada ou item errado, você pode recusar a encomenda na entrega e escrever o motivo no verso da nota fiscal.",
-          "**Troca:** arrependimento são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Os prazos completos (inclusive o de defeito) estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel).",
+          "**Troca:** arrependimento são 7 dias corridos do recebimento, e a loja paga a devolução. A política da loja pede a embalagem original e o lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Os prazos completos (inclusive o de defeito) estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel).",
           "**Site oficial:** compre em drpeanut.com.br e confira, no carrinho, \"Produto fornecido e entregue por Dr. Peanut\"."
         ],
         "postParagraphs": [
@@ -80270,7 +80277,7 @@ export const reviewsData: unknown[] = [
           "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido sobre o total já com o cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
           "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? Pela nossa conta, R$ 166,56 em São Paulo capital, Sudeste e Sul e R$ 222,12 no Centro-Oeste, Nordeste e Norte. O aviso do carrinho confirma depois de aplicar o código.",
           "A Dr. Peanut tem desconto no Pix? Tem: a ficha do produto mostra 3%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
-          "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
+          "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, e a loja paga a devolução (a política da loja pede a embalagem original e o lacre intactos). Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
           "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto está garantido."
         ]
       }
@@ -80295,7 +80302,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Probiótica 2026: o cupom PRO10EMCASACOMCECILIA dá até 10% OFF. A campanha já começou, com até 5% no Pix e no boleto e frete grátis.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/black-friday-probiotica-capa-discover.webp",
@@ -80379,7 +80386,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O Whey Protein Iso Blend 900g estava R$ 42,99 abaixo do preço riscado, cerca de 35% de desconto antes do cupom. O Whey 100% Pure 900g, na mesma embalagem de 900g, custava R$ 252,49, mais de três vezes o preço do Iso Blend. A creatina de 300g estava R$ 15,20 abaixo do preço riscado, cerca de 20%.",
+          "O Whey Protein Iso Blend 900g estava R$ 42,99 abaixo do preço riscado, cerca de 35% de desconto antes do cupom. Ele mistura proteína isolada de soja e concentrada do soro e contém lactose; confira os sabores disponíveis na loja. O Whey 100% Pure 900g, na mesma embalagem de 900g, custava R$ 252,49, mais de três vezes o preço do Iso Blend. A creatina de 300g estava R$ 15,20 abaixo do preço riscado, cerca de 20%.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
@@ -80449,7 +80456,7 @@ export const reviewsData: unknown[] = [
           "Os prazos de troca e devolução:"
         ],
         "bullets": [
-          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "**Arrependimento:** 7 dias corridos a partir do recebimento. A loja pede embalagem original e lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
           "**Defeito:** 30 dias corridos para comunicar, nos produtos alimentícios. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica.",
           "**Como a loja resolve o defeito:** depois da análise, troca, devolução do dinheiro ou cupom."
         ],
@@ -80466,7 +80473,7 @@ export const reviewsData: unknown[] = [
           "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto, e o checkout mostra o valor final.",
           "A Probiótica tem frete grátis? Tem, a partir de R$ 104 (capital de SP) a R$ 599 (Norte), na forma de envio mais barata e fora o Sedex. Cupom pode derrubar o total abaixo do mínimo.",
           "O brinde conta o valor com ou sem cupom? Conta o valor final, depois de todos os descontos. Se o cupom ou o Pix levar o pedido para baixo do valor do brinde, ele pode não entrar.",
-          "Dá para trocar um produto da Probiótica? Sim. O arrependimento vale por 7 dias corridos depois do recebimento, com embalagem original e lacre intactos, e o defeito, por 30 dias corridos.",
+          "Dá para trocar um produto da Probiótica? Sim. O arrependimento vale por 7 dias corridos depois do recebimento (a loja pede embalagem e lacre intactos), e o defeito, por 30 dias corridos.",
           "A promoção pode acabar antes do fim do Novembro PRO? Pode. Os termos da loja dizem que as promoções podem ser lançadas a qualquer momento, sem aviso prévio, e também sair do site quando o produto esgota."
         ]
       }
@@ -80733,11 +80740,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Lejour já está em Black November, com planos e adicionais com 50% OFF. Veja o que a faixa do site anuncia e a conta que mostra quando o Premium pela metade compensa.",
-    "metaDescription": "Black Friday Lejour 2026 já começou: Black November com planos e adicionais com 50% OFF. Planos, taxas e a conta de quando o Premium compensa.",
+    "description": "A Black November da Lejour vai de 1 a 30 de novembro, com Premium e Pro pela metade e o código BLACK50. Veja o que vale em cada canal e quando o plano compensa.",
+    "metaDescription": "Black Friday Lejour 2026: Premium a R$ 49,95 e Pro a R$ 99,95 em novembro, com o código BLACK50. Veja a taxa de 1,99% e quando o Premium compensa.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/lejour/black-friday-lejour-capa-discover.webp",
@@ -80747,13 +80754,15 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Criar a lista no plano Basic é grátis, então não custa nada abrir agora",
       "Premium e Pro são pagos uma única vez e valem para sempre, à vista ou em até 12x",
-      "Em 2025 a Lejour chegou a anunciar Premium a R$ 59,90 e taxa de 1,99%",
+      "Na Black November, o Premium sai a R$ 49,95 e o Pro, a R$ 99,95",
+      "Novos casais elegíveis têm taxa de 1,99% na semana da Black Friday",
       "O crédito da lista pode virar Pix ou produtos da Fast Shop, com cashback mínimo de 4%"
     ],
     "cons": [
-      "A faixa da Black November não diz até quando vale nem sobre qual preço o 50% incide",
+      "O BLACK50 no site é aplicado à mão, e a soma das ofertas depende do regulamento da Lejour",
+      "A taxa de 1,99% é só para novos casais elegíveis e só na Black Week",
       "Os períodos e as regras das ofertas de 2025 não foram divulgados",
-      "Pela taxa, o Premium só compensa a partir de cerca de R$ 16.650 em presentes",
+      "Pela taxa padrão, o Premium só compensa a partir de cerca de R$ 8.325 em presentes, mesmo a R$ 49,95",
       "O link da Cecília é só uma indicação, sem desconto"
     ],
     "cta": {
@@ -80763,7 +80772,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "lejour",
-    "editorialNote": "Planos conferidos no site da Lejour. Podemos receber comissão pela indicação.",
+    "editorialNote": "Condições conferidas na página da Black November da Lejour. O link pode gerar comissão, sem custo extra para você.",
     "relatedArticles": [
       {
         "slug": "lejour-como-funciona"
@@ -80782,15 +80791,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Lejour 2026",
         "paragraphs": [
-          "A Lejour já está em Black November: a faixa do site anuncia planos e adicionais com 50% OFF, e o dia da Black Friday é 27 de novembro. O link da Cecília é só uma indicação, sem desconto: a oferta é da Lejour e vale para qualquer casal. A conta abaixo mostra quando o Premium pela metade compensa."
+          "A Black November da Lejour vai até 30 de novembro, com Premium e Pro pela metade: o código BLACK50 vale no site, e o app já mostra o desconto. Na semana da Black Friday, novos casais elegíveis têm taxa de 1,99% na lista. O nosso link é só indicação, sem desconto."
         ]
       },
       {
         "heading": "O que a Black November da Lejour mostra",
         "paragraphs": [
-          "A faixa do topo do site diz \"Black November Lejour: planos e adicionais com 50% OFF\". A promoção é dos planos pagos, o Premium e o Pro, e dos adicionais, como o domínio; a faixa não fala da taxa por presente, que em 2025 foi o que a Lejour reduziu em dezembro.",
-          "A faixa não diz sobre qual preço o 50% incide nem até quando vale. Em outubro, o painel mostrava o Premium a R$ 99,90, riscado de R$ 179,90: metade dos R$ 179,90 dá R$ 89,95, e metade dos R$ 99,90, R$ 49,95. As duas são contas nossas; o preço que vale é o que o painel da Lejour mostra na hora de assinar.",
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, na segunda seguinte. Como a Lejour chama a campanha de Black November, a oferta tende a cobrir o mês, mas a faixa não publica a data de fim."
+          "A página da Black November da Lejour reúne três ofertas. A primeira é a dos planos pagos, com 50% OFF e pagamento único: o Premium vai de R$ 99,90 para R$ 49,95, e o Pro, de R$ 199,90 para R$ 99,95. A segunda é a dos adicionais elegíveis, como o domínio, também pela metade. A terceira é a taxa da lista de presentes.",
+          "O desconto depende do canal. No site, é preciso aplicar o código **BLACK50** nos planos; ele é da própria Lejour e vale para qualquer casal. No app, o desconto aparece direto no valor, sem código. O preço que vale é o que a Lejour mostra na hora de assinar.",
+          "A taxa de 1,99% tem janela própria, a Black Week, de 23 a 29 de novembro. É para novos casais elegíveis e, segundo a página, vale para toda a vida da lista; a taxa padrão do Basic segue 3,89%. Quem pode participar e se a taxa soma com o plano pago estão no regulamento da Lejour, que a página só cita; a página também diz que o valor será revelado no primeiro dia da Black Week. Confirme o 1,99% na Lejour nesse período e leia o regulamento antes de contar com ele.",
+          "A Black Friday de 2026 cai no fim do mês, mas os planos ficam em oferta durante todo novembro, então não há razão para esperar o dia."
         ]
       },
       {
@@ -80804,15 +80814,15 @@ export const reviewsData: unknown[] = [
           "Na captura de meados de dezembro de 2025, a faixa dizia \"Black Friday Lejour\": Lista de Presentes com taxa reduzida de 1,99%. No rodapé da mesma página, a oferta aparecia como \"Black Month Lejour\"."
         ],
         "postParagraphs": [
-          "A diferença para o preço de hoje é grande. O Premium custava R$ 99,90, ou seja, R$ 40 a mais que os R$ 59,90 cobrados em novembro do ano passado. A taxa de 1,99% seria 1,9 ponto percentual menor que a do Basic (3,89%) e 1 ponto menor que a do Pro (2,99%), a menor entre os planos de hoje.",
+          "Em 2025, o Premium chegou a R$ 59,90. Em 2026, o preço anunciado é R$ 49,95, cerca de R$ 10 a menos, e a taxa de 1,99% volta com período e público definidos: a semana da Black Friday, para novos casais elegíveis. Ela é 1,9 ponto percentual menor que a do Basic (3,89%) e 1 ponto menor que a do Pro (2,99%).",
           "Três limites valem para esse histórico. O asterisco das faixas de 2025 leva a um rodapé que cita cadastros feitos em maio, então a Lejour não divulgou as datas de início e de fim das promoções. Também não se sabe se a taxa de 1,99% valia para listas criadas antes da campanha nem se somava com o plano pago. E em 2024 não houve nada parecido: os registros do fim de 2024 (novembro e dezembro) não mostram faixa de promoção na home.",
-          "Os registros de 2025 mostram o que a Lejour fez naquele ano. Em 2026, a campanha começou mais cedo e com outro desenho: 50% OFF nos planos e adicionais, sem menção à taxa."
+          "Os registros de 2025 mostram o que a Lejour fez naquele ano. Em 2026, a campanha começou mais cedo e já traz prazos: o mês inteiro para os planos e uma semana para a taxa."
         ]
       },
       {
         "heading": "Planos e taxas da Lejour fora da campanha",
         "paragraphs": [
-          "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour na leitura de outubro, antes da Black November: é a régua para saber quanto o 50% tira. O Premium já aparecia com desconto sobre o preço cheio, e esse preço pode mudar."
+          "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour na leitura de outubro, antes da Black November, e é a régua para saber quanto o 50% tira: os R$ 99,90 do Premium e os R$ 199,90 do Pro são a base da oferta de novembro."
         ],
         "comparisonTable": {
           "headers": [
@@ -80858,8 +80868,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale assinar o Premium na Black November?",
         "paragraphs": [
-          "Com a Black November no ar, a pergunta deixa de ser se vale esperar e passa a ser se o plano pago pela metade compensa para a sua lista. A taxa por presente, até onde a faixa diz, não mudou.",
-          "A decisão depende de quanto a taxa pesa. A Lejour cobra um percentual sobre cada presente, e o casal escolhe se paga a taxa ou se os convidados pagam por cima. A conta abaixo vale para o casal que paga. Ela usa uma lista de exemplo com R$ 20.000 em presentes e as taxas da tabela anterior: 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. A última linha é uma hipótese: a taxa de 1,99% que a Lejour anunciou na faixa do site no fim de 2025, sem garantia de que volte. Todas as contas são nossas."
+          "Com o Premium a R$ 49,95, a pergunta deixa de ser se vale esperar e passa a ser se o plano compensa para a sua lista. O preço do plano muda na campanha; a taxa padrão por presente não muda.",
+          "A decisão depende de quanto a taxa pesa. A Lejour cobra um percentual sobre cada presente, e o casal escolhe se paga a taxa ou se os convidados pagam por cima. A conta abaixo vale para o casal que paga. Ela usa uma lista de exemplo com R$ 20.000 em presentes, as taxas da tabela anterior (3,89% no Basic, 3,29% no Premium e 2,99% no Pro) e os preços de campanha. A última linha é a taxa de 1,99% para novos casais elegíveis, que a tabela não soma com o plano porque a Lejour não publicou essa regra. Todas as contas são nossas."
         ],
         "comparisonTable": {
           "headers": [
@@ -80871,52 +80881,59 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Basic hoje",
+              "Basic",
               "3,89%",
               "R$ 778,00",
               "grátis",
               "R$ 778,00"
             ],
             [
-              "Premium hoje, com o preço de R$ 99,90",
+              "Premium na Black November",
+              "3,29%",
+              "R$ 658,00",
+              "R$ 49,95",
+              "R$ 707,95"
+            ],
+            [
+              "Premium a R$ 99,90 (sem campanha)",
               "3,29%",
               "R$ 658,00",
               "R$ 99,90",
               "R$ 757,90"
             ],
             [
-              "Premium a R$ 179,90 (preço riscado)",
-              "3,29%",
-              "R$ 658,00",
-              "R$ 179,90",
-              "R$ 837,90"
+              "Pro na Black November",
+              "2,99%",
+              "R$ 598,00",
+              "R$ 99,95",
+              "R$ 697,95"
             ],
             [
-              "Pro hoje",
+              "Pro a R$ 199,90 (sem campanha)",
               "2,99%",
               "R$ 598,00",
               "R$ 199,90",
               "R$ 797,90"
             ],
             [
-              "Hipótese: taxa de 1,99%",
+              "Taxa de 1,99% (novos casais elegíveis)",
               "1,99%",
               "R$ 398,00",
               "não se sabe",
-              "R$ 398,00 mais o plano, se houver"
+              "R$ 398,00 mais o plano, se a Lejour permitir somar"
             ]
           ],
-          "caption": "Taxa e preço do plano numa lista de exemplo de R$ 20.000 em presentes, com as taxas atuais e uma hipótese de 1,99%. Todas as contas são nossas."
+          "caption": "Taxa e preço do plano numa lista de exemplo de R$ 20.000 em presentes, com os preços de campanha e de tabela e a taxa de 1,99%. Todas as contas são nossas."
         },
         "bullets": [
-          "**Lista de R$ 20.000:** o Premium a R$ 99,90 fecha R$ 20,10 abaixo do Basic. O Pro sai R$ 19,90 acima. Com o Premium a R$ 179,90, o plano pago sai R$ 59,90 acima do Basic.",
-          "**Lista menor:** pela taxa, o Premium a R$ 99,90 só compensa a partir de cerca de R$ 16.650 em presentes (R$ 99,90 divididos por 0,60 ponto percentual de diferença entre as taxas). Abaixo disso, só pela taxa, o Basic sai mais barato. Se o preço do Premium voltar a R$ 179,90, o ponto sobe para cerca de R$ 29.983.",
-          "**Premium com 50% OFF:** é conta nossa, porque a faixa não diz a base do desconto. Se o 50% incide sobre os R$ 99,90, o Premium sai por R$ 49,95 e compensa a partir de cerca de R$ 8.325 em presentes; na lista de R$ 20.000, fecha em R$ 707,95, R$ 70,05 abaixo do Basic. Se incide sobre os R$ 179,90, sai por R$ 89,95, compensa a partir de cerca de R$ 14.992 e fecha em R$ 747,95 na mesma lista. Confira o preço no painel antes de assinar.",
-          "**Se a taxa de 1,99% voltar:** ela tiraria R$ 380 da taxa do Basic nessa lista, mais do que a queda de taxa de qualquer plano (R$ 120 no Premium e R$ 180 no Pro, antes do preço do plano). A faixa da Black November fala só de planos e adicionais, então não há taxa reduzida anunciada.",
+          "**Lista de R$ 20.000:** o Premium a R$ 49,95 fecha R$ 70,05 abaixo do Basic, e o Pro a R$ 99,95 fecha R$ 80,05 abaixo. Sem a campanha, o Premium a R$ 99,90 fecha R$ 20,10 abaixo do Basic, e o Pro a R$ 199,90 fecha R$ 19,90 acima.",
+          "**Lista menor:** pelas taxas padrão, o Premium a R$ 49,95 compensa a partir de R$ 8.325 em presentes (R$ 49,95 divididos por 0,60 ponto de diferença entre as taxas). O Pro a R$ 99,95 passa o Basic a partir de cerca de R$ 11.106 e o Premium a R$ 49,95, a partir de cerca de R$ 16.667. Abaixo de R$ 8.325, só pela taxa, o Basic sai mais barato.",
+          "**Sem a campanha:** com o Premium a R$ 99,90, o ponto de equilíbrio sobe para cerca de R$ 16.650 em presentes.",
+          "**Se a taxa de 1,99% valer para você:** nessa lista, ela tiraria R$ 380 da taxa do Basic. Só vale para novos casais elegíveis, na semana da Black Friday, e quem entra e se ela soma com o plano pago é o regulamento da Lejour que diz. Por isso a tabela não soma as duas ofertas.",
           "**Quando o convidado paga a taxa:** nada disso muda o valor que o casal recebe. Nesse caso, o plano pago só vale pelos outros recursos, como saques ilimitados e domínio incluso."
         ],
         "postParagraphs": [
-          "O Basic é gratuito, então abrir a lista agora não custa nada e não impede de assinar o Premium depois, dentro da campanha. O cadastro está em [Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes](/reviews/lista-de-casamento-lejour-como-criar)."
+          "O Basic é gratuito, então abrir a lista agora não custa nada e não impede de assinar o Premium ou o Pro depois, dentro da campanha. O cadastro está em [Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes](/reviews/lista-de-casamento-lejour-como-criar)."
         ]
       },
       {
@@ -80937,11 +80954,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Lejour? Já começou: a faixa do site anuncia a Black November Lejour, com planos e adicionais com 50% OFF, sem data de fim publicada. A Black Friday é na última sexta-feira de novembro.",
-          "Vale assinar o Premium na Black November? Depende da lista. Em outubro, o Premium estava a R$ 99,90, riscado de R$ 179,90, e compensava a partir de cerca de R$ 16.650 em presentes. Com 50% OFF, pela nossa conta, o ponto cai para cerca de R$ 8.325 ou R$ 14.992, conforme a base do desconto; a conta completa está na seção sobre o Premium.",
-          "A taxa da lista fica menor na Black Friday? A faixa da Black November fala de planos e adicionais, não da taxa. No fim de 2025, a Lejour anunciou taxa reduzida de 1,99% numa faixa do site, sem informar o período. Na leitura de outubro, as taxas eram de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro.",
+          "Quando começa e quanto dura a Black Friday da Lejour? A Black November vai o mês inteiro, com planos e adicionais com 50% OFF. A taxa promocional da lista vale só na Black Week, a semana da Black Friday.",
+          "Como uso o BLACK50? No site, aplique o código nos planos Premium ou Pro e nos adicionais elegíveis, na hora de pagar. No app, o desconto já aparece no valor, sem código. O BLACK50 é da própria Lejour, não do Em Casa com Cecília.",
+          "Vale assinar o Premium na Black November? Depende da lista. Com o Premium a R$ 49,95, ele compensa a partir de cerca de R$ 8.325 em presentes, pela nossa conta com as taxas padrão; a conta completa está na seção sobre o Premium.",
+          "A taxa da lista fica menor na Black Friday? Para novos casais elegíveis, a Lejour anuncia 1,99% na Black Week, e diz que vale para toda a vida da lista. A taxa padrão é de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. A elegibilidade e a soma com outras ofertas seguem o regulamento da Lejour.",
           "Quanto a taxa pesa numa lista de R$ 20.000? No Basic, R$ 778,00; no Premium, R$ 658,00; no Pro, R$ 598,00, pelas taxas da tabela. As contas são nossas, e valem quando o casal paga a taxa.",
-          "O 50% OFF vale para uma lista já criada? A faixa não diz, e a Lejour não explicou isso em 2025. Como o Basic é grátis e o plano pago é comprado no painel, confira no painel da sua lista se o preço de campanha aparece antes de assinar.",
+          "O 50% OFF vale para uma lista já criada? A página cita novos casais elegíveis só na taxa promocional, mas confira no painel da sua lista se o preço de campanha aparece antes de assinar.",
           "A Lejour tem desconto pelo link do Em Casa com Cecília para a Black Friday? Não. O link é uma indicação: o cadastro e os planos são os mesmos do site da Lejour. A Black November é da Lejour e vale para qualquer casal, com ou sem o nosso link. As condições do link estão na [página da Lejour no Em Casa com Cecília](/cupons/lejour).",
           "Dá para usar o crédito da lista na Fast Shop? Dá. A Fast Shop informava cashback mínimo de 4% nas compras com o crédito."
         ]
@@ -80951,7 +80969,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 442,
     "slug": "clea-store-aniversario-14-anos-t-shirt-brinde",
-    "title": "Aniversário Cléa Store 14 anos: T-Shirt Oversized de brinde em qualquer compra até 31/10, com o cupom CSEMCASACOMCECILIA",
+    "title": "Aniversário Cléa Store 14 anos: a T-Shirt de brinde já acabou, e o cupom CSEMCASACOMCECILIA segue valendo",
     "seoTitle": "Cléa Store 14 anos: T-Shirt de brinde até 31/10",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
@@ -80963,9 +80981,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Cléa Store dá uma T-Shirt Oversized de brinde na compra de qualquer peça, e o cupom CSEMCASACOMCECILIA vale junto. Veja como escolher o brinde e o pedido mais barato.",
-    "metaDescription": "Cléa Store 14 anos: a T-Shirt de brinde e o cupom CSEMCASACOMCECILIA, com 10% OFF, testados juntos. Como escolher e o pedido mais barato.",
+    "description": "O brinde de T-Shirt dos 14 anos da Cléa Store acabou. Veja o que foi testado com o cupom CSEMCASACOMCECILIA e confira as condições vigentes na página do cupom.",
+    "metaDescription": "Cléa Store: cupom CSEMCASACOMCECILIA (10% OFF) e o brinde de T-Shirt dos 14 anos, que já acabou. Veja o teste dos dois juntos.",
     "publishedAt": "15 de outubro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-15",
     "draft": false,
     "isNew": true,
@@ -80974,26 +80993,26 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "T-Shirt Oversized de brinde na compra de qualquer peça, sem valor mínimo",
-      "Um kit conta como uma peça e também libera o brinde",
+      "Na campanha dos 14 anos, a T-Shirt Oversized de brinde valia na compra de qualquer peça, sem valor mínimo",
+      "Um kit contava como uma peça e também liberava o brinde",
       "O cupom CSEMCASACOMCECILIA valeu junto com o brinde no nosso teste de 15/10/2026",
-      "Você escolhe a cor e o tamanho da T-Shirt entre as opções disponíveis"
+      "Era possível escolher a cor e o tamanho da T-Shirt entre as opções disponíveis"
     ],
     "cons": [
-      "A promoção acaba em 31/10/2026",
-      "As cores e os tamanhos do brinde podem ser menos que os da peça vendida",
-      "O brinde não ajuda a chegar ao frete grátis de R$ 599",
+      "A promoção dos 14 anos já acabou",
+      "As cores e os tamanhos do brinde eram menos que os da peça vendida",
+      "O brinde não ajudava a chegar ao frete grátis de R$ 599",
       "A loja aceita um cupom por pedido"
     ],
     "cta": {
-      "text": "Entre na Cléa Store pelo link da parceria, escolha a T-Shirt na janela de brindes e digite o CSEMCASACOMCECILIA no resumo do pedido. Confira a T-Shirt a R$ 0,00 e o desconto antes de pagar.",
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido. Confira a linha de desconto antes de pagar e veja as condições vigentes na página do cupom.",
       "label": "Ir para a Cléa Store com o cupom",
       "url": "https://www.cleastore.com.br/",
       "sponsored": true
     },
     "coupon": "CSEMCASACOMCECILIA",
     "affiliate": "clea-store",
-    "editorialNote": "Brinde e cupom testados no carrinho oficial. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "editorialNote": "O brinde dos 14 anos já acabou. Brinde e cupom foram testados juntos no carrinho oficial. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
         "slug": "cupom-clea-store-como-usar"
@@ -81009,16 +81028,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Cléa Store dá uma T-Shirt Oversized de brinde na compra de qualquer peça, até 31/10/2026, e o cupom CSEMCASACOMCECILIA, com 10% em todo o site, vale junto com o brinde. Uma peça no carrinho basta, e um kit conta como uma. O que decide quanto você paga é a peça escolhida; veja abaixo o pedido mais barato."
+          "A T-Shirt Oversized de brinde dos 14 anos da Cléa Store acabou no fim de outubro. Na campanha, uma peça no carrinho bastava, um kit contava como uma, e o cupom CSEMCASACOMCECILIA, com 10% em todo o site, valeu junto com o brinde no nosso teste. As condições vigentes ficam na página do cupom."
         ]
       },
       {
-        "heading": "Como funciona o brinde dos 14 anos",
+        "heading": "Como funcionava o brinde dos 14 anos",
         "paragraphs": [
-          "A Cléa Store comemora 14 anos com uma T-Shirt Oversized de brinde em qualquer compra, até o fim de outubro, e o cupom CSEMCASACOMCECILIA vale junto. Veja como pegar o brinde.",
-          "Você escolhe a T-Shirt numa janela do site. Com o carrinho vazio, a loja avisa: \"Adicione mais 1 item(ns) para ganhar um brinde\". Depois da primeira peça, o brinde fica liberado.",
-          "A janela se chama **\"Escolha entre os brindes disponíveis\"**. O título diz \"A Cléa faz 14 anos. O presente é seu!\". Logo abaixo, a loja explica: \"Em qualquer compra, você ganha uma T-Shirt Oversized. Escolha a cor e o tamanho do seu brinde entre as opções disponíveis.\"",
-          "O passo a passo, como fizemos no nosso teste:"
+          "A Cléa Store comemorou 14 anos com uma T-Shirt Oversized de brinde em qualquer compra, até o fim de outubro, e o cupom CSEMCASACOMCECILIA valia junto. Veja como funcionava.",
+          "A T-Shirt era escolhida numa janela do site. Com o carrinho vazio, a loja avisava: \"Adicione mais 1 item(ns) para ganhar um brinde\". Depois da primeira peça, o brinde ficava liberado.",
+          "A janela se chamava **\"Escolha entre os brindes disponíveis\"**. O título dizia \"A Cléa faz 14 anos. O presente é seu!\". Logo abaixo, a loja explicava: \"Em qualquer compra, você ganha uma T-Shirt Oversized. Escolha a cor e o tamanho do seu brinde entre as opções disponíveis.\"",
+          "O passo a passo do nosso teste, com o brinde no ar:"
         ],
         "bullets": [
           "Adicione uma peça ao carrinho. Pode ser um kit: um kit de 3 conta como uma peça.",
@@ -81029,16 +81048,16 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A loja chama a T-Shirt Oversized de best-seller da marca: 100% algodão penteado premium.",
-          "Fora da promoção, a T-Shirts Oversized Algodão é vendida por **R$ 129,00**. No teste, o site tinha 10 cores à venda: azul claro, azul marinho, caramelo, marrom, off white, preto, rosa claro, verde oliva, vermelho e vinho, nos tamanhos P, M e G. As cores e os tamanhos do brinde são os disponíveis na janela, que podem ser menos que os da peça vendida."
+          "Fora da promoção, a T-Shirt Oversized Algodão custava **R$ 129,00** no teste. No teste, o site tinha 10 cores à venda: azul claro, azul marinho, caramelo, marrom, off white, preto, rosa claro, verde oliva, vermelho e vinho, nos tamanhos P, M e G. As cores e os tamanhos do brinde eram os disponíveis na janela, que podiam ser menos que os da peça vendida."
         ]
       },
       {
-        "heading": "O pedido mais barato que ganha a T-Shirt",
+        "heading": "O pedido mais barato que ganhava a T-Shirt",
         "paragraphs": [
-          "Como uma peça basta, o pedido mais barato é o da peça mais barata do site. Estes eram os preços em 15/10/2026, do preço de tabela ao valor com o cupom de 10%, que incide sobre o preço já promocional:"
+          "Como uma peça bastava, o pedido mais barato era o da peça mais barata do site. Estes eram os preços em 15/10/2026, do preço de tabela ao valor com o cupom de 10%, que incide sobre o preço já promocional:"
         ],
         "comparisonTable": {
-          "caption": "Peças da Cléa Store: preço de tabela, preço no site e valor com o cupom CSEMCASACOMCECILIA (10%), sem o frete. A T-Shirt de brinde vem em qualquer um desses pedidos.",
+          "caption": "Peças da Cléa Store: preço de tabela, preço no site e valor com o cupom CSEMCASACOMCECILIA (10%), sem o frete. A T-Shirt de brinde vinha em qualquer um desses pedidos.",
           "headers": [
             "Peça",
             "Tabela",
@@ -81079,11 +81098,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Quem quer as camisetas sai melhor com o kit: com o brinde, são **4 T-Shirts por R$ 232,20**, ou R$ 58,05 cada. Os preços promocionais mudam, então confira o valor no carrinho antes de pagar."
+          "Para quem queria as camisetas, o kit era o melhor: com o brinde, eram **4 T-Shirts por R$ 232,20**, ou R$ 58,05 cada. Os preços promocionais mudam, então confira o valor no carrinho antes de pagar."
         ]
       },
       {
-        "heading": "O cupom vale junto com o brinde?",
+        "heading": "O cupom valia junto com o brinde?",
         "paragraphs": [
           "Sim. No nosso teste, o cupom **CSEMCASACOMCECILIA** valeu com a T-Shirt de brinde no carrinho.",
           "O carrinho tinha dois itens. A Calça Cargo Marrom (P), de R$ 589,00 por R$ 530,10 na promoção do site. E a T-Shirts Oversized Algodão (Preto, P), escolhida na janela de brindes, de R$ 129,00 por R$ 0,00. Com o código digitado, o resumo do pedido mostrou \"Cupom adicionado CSEMCASACOMCECILIA\". A conta:"
@@ -81097,7 +81116,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O desconto saiu só sobre a calça. R$ 53,01 é 10% de R$ 530,10: o brinde já estava a R$ 0,00 e não tinha o que abater. O cupom também valeu sobre uma peça que já estava em promoção no site, e não sobre os R$ 589,00 de tabela.",
-          "Antes de pagar, confira duas linhas do resumo: a T-Shirt a R$ 0,00 e o desconto do cupom. O passo a passo de onde digitar o código está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar)."
+          "Antes de pagar, confira no resumo a linha de desconto do cupom. O passo a passo de onde digitar o código está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar)."
         ],
         "image": "/images/reviews/clea-store/clea-store-aniversario-14-anos-carrinho.webp",
         "imageAlt": "Carrinho da Cléa Store com a Calça Cargo Marrom de R$ 589,00 por R$ 530,10, a T-Shirts Oversized Algodão de brinde de R$ 129,00 por R$ 0,00, o cupom CSEMCASACOMCECILIA adicionado, o desconto de R$ -53,01 e o total de R$ 477,09, com a barra Faltam R$ 121,91 para frete grátis",
@@ -81108,7 +81127,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, cashback e devolução",
         "paragraphs": [
-          "Além do brinde, três regras da faixa valem no mesmo pedido: frete, cashback e devolução."
+          "Além do brinde, que já acabou, três regras da loja valem no mesmo pedido: frete, cashback e devolução."
         ],
         "bullets": [
           "**Frete grátis acima de R$ 599.** No nosso teste, com o total de R$ 477,09, a barra do topo dizia \"Faltam R$ 121,91 para frete grátis\". 599,00 − 477,09 = 121,91: a loja conta o total **depois do cupom**, não o preço de tabela nem o subtotal. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" do resumo do pedido. Se o carrinho está perto dos R$ 599, aplique o cupom primeiro e confira a barra depois.",
@@ -81119,12 +81138,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Até quando vai a T-Shirt de brinde da Cléa Store? Até o último dia de outubro. A promoção é da loja e vale para qualquer cliente. Depois dessa data, o cupom de 10% continua valendo.",
-          "Quanto preciso gastar para ganhar a T-Shirt? Basta uma peça no carrinho. A loja diz \"na compra de qualquer peça\", sem valor mínimo.",
-          "Um kit conta como uma peça para o brinde? Sim. Um kit de 3 T-Shirts conta como uma peça e libera o brinde, como conferimos no carrinho.",
-          "O cupom CSEMCASACOMCECILIA vale junto com o brinde? Sim. No teste, o cupom deu R$ -53,01 sobre a calça, e a T-Shirt seguiu a R$ 0,00.",
-          "Posso escolher a cor e o tamanho da T-Shirt de brinde? Sim. Você escolhe na janela \"Escolha entre os brindes disponíveis\", entre as cores e os tamanhos que a loja tiver naquele momento.",
-          "O brinde ajuda a chegar ao frete grátis de R$ 599? Não. A T-Shirt entra a R$ 0,00 e não soma no total. No nosso teste, o total de R$ 477,09 não incluía o brinde, e a barra pedia mais R$ 121,91 para o frete grátis.",
+          "A T-Shirt de brinde da Cléa Store ainda está no ar? Não: a promoção dos 14 anos já terminou. As condições vigentes do cupom ficam na [página do cupom da Cléa Store](/cupons/clea-store).",
+          "Quanto era preciso gastar para ganhar a T-Shirt? Bastava uma peça no carrinho. A loja dizia \"na compra de qualquer peça\", sem valor mínimo.",
+          "Um kit contava como uma peça para o brinde? Sim. Um kit de 3 T-Shirts contava como uma peça e liberava o brinde, como conferimos no carrinho.",
+          "O cupom CSEMCASACOMCECILIA valia junto com o brinde? Sim. No teste, o cupom deu R$ -53,01 sobre a calça, e a T-Shirt seguiu a R$ 0,00.",
+          "Dava para escolher a cor e o tamanho da T-Shirt de brinde? Sim. A escolha era na janela \"Escolha entre os brindes disponíveis\", entre as cores e os tamanhos que a loja tinha naquele momento.",
+          "O brinde ajudava a chegar ao frete grátis de R$ 599? Não. A T-Shirt entrava a R$ 0,00 e não somava no total. No nosso teste, o total de R$ 477,09 não incluía o brinde, e a barra pedia mais R$ 121,91 para o frete grátis.",
           "Posso usar dois cupons no mesmo pedido? Não. A loja aceita um cupom por pedido. As condições atualizadas do código ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
         ]
       }
@@ -83314,6 +83333,7 @@ export const reviewsData: unknown[] = [
     "description": "Lejour, iCasei ou Casar.com: o plano grátis das três cobra 3,89% por presente. Veja taxas, prazos, validade do site e quanto sobra numa lista de R$ 20.000.",
     "metaDescription": "Lejour, iCasei ou Casar.com: grátis, as três cobram 3,89%. Veja taxas, prazos e quanto sobra numa lista de R$ 20 mil (dados de 16/10/2026).",
     "publishedAt": "16 de outubro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-16",
     "draft": false,
     "isNew": true,
@@ -83464,7 +83484,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o casal recebe de R$ 20.000",
         "paragraphs": [
-          "Numa lista de R$ 20.000, o Premium deixa mais. As premissas:"
+          "Numa lista de R$ 20.000, com os preços de outubro, o Premium deixa mais. A Black November da Lejour muda o preço dos planos e está em [Black Friday Lejour 2026](/reviews/black-friday-lejour); esta simulação é a conta sem campanha. As premissas:"
         ],
         "image": {
           "src": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
@@ -83543,7 +83563,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Simulação nossa, com as taxas e os preços da tabela anterior.",
+          "Simulação nossa, com as taxas e os preços de outubro da tabela anterior.",
           "Nessa lista, quem fica com mais é o Premium da Lejour, e quem fica com menos é o Black do iCasei de 12 meses. A diferença é de R$ 196,40, perto de 1% da lista.",
           "Os planos pagos do iCasei deixam menos que o Basic grátis: a taxa menor não cobre o preço do plano numa lista desse tamanho.",
           "O Pro da Lejour só deixa mais que o Premium quando a lista passa de R$ 33.333, pela nossa conta: são R$ 100 a mais de plano para 0,30 ponto a menos de taxa. A partir de quanto o Premium compensa sobre o Basic está em [O que é a Lejour e como funciona](/reviews/lejour-como-funciona).",
@@ -83717,14 +83737,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Lejour é a única das três que parcela em 12x, e é também a de juros mais altos por mês. Num presente de valor alto, o convidado que parcela no máximo paga mais na Lejour do que nas outras duas.",
+          "A Lejour é a única das três que parcela em 12x. Os juros dela, de 3,49% ao mês, são maiores que os do iCasei, de 2,99%. O Casar.com não publica o percentual, então fica fora dessa comparação.",
           "No iCasei, existe o **cartão de mensagens** impresso, de R$ 20,90 por presente. No Basic, ele fica sempre ativo: aparece como opcional ou já incluso no presente.",
           "Se o casal repassar a taxa da lista, ela também sai do bolso do convidado, nas três."
         ]
       },
       {
         "heading": "Qual escolher, por perfil",
-        "emphasis": "Se fosse para o meu casamento, eu levaria o Premium da Lejour, porque na lista de R$ 20.000 ele deixa mais que os outros.",
+        "emphasis": "Se fosse para o meu casamento, eu levaria o Premium da Lejour, porque, com os preços de outubro, na lista de R$ 20.000 ele deixa mais que os outros.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Não há uma plataforma certa para todo casal. O que decide é o tamanho da lista, a data e o que vocês querem receber."
@@ -83751,7 +83771,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Lejour ou iCasei: qual é melhor? Depende da lista: os grátis das duas cobram 3,89%. O Basic do iCasei dura 6 meses, e a Lejour cobra o plano pago uma vez só.",
           "Lejour ou Casar.com? O Casar.com tem taxa fixa de 3,89% e não tem plano pago. A Lejour baixa a taxa para 3,29% no Premium e 2,99% no Pro.",
-          "Qual site de lista de casamento tem a menor taxa? Entre os três, o Pro da Lejour, com 2,99%, que custa R$ 199,90. A menor do iCasei é 3,69%, no Black, acima de R$ 8 mil arrecadados.",
+          "Qual site de lista de casamento tem a menor taxa? Entre os três, o Pro da Lejour, com 2,99%, que custa R$ 199,90 no preço de outubro; em novembro, a Lejour tem preços de campanha nos planos. A menor do iCasei é 3,69%, no Black, acima de R$ 8 mil arrecadados.",
           "O iCasei cobra taxa de saque? Não. Segundo a central de ajuda, os resgates são grátis e ilimitados.",
           "A Lejour cobra taxa de saque? No Basic, dois saques são grátis, e os seguintes custam R$ 5 cada. No Premium e no Pro, os saques são ilimitados.",
           "O iCasei é grátis? O Basic é grátis na contratação de 6 meses. Renovar, ou contratar o Classic ou o Black, é pago.",
@@ -84858,7 +84878,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Belive 2026: até 30% em todo o site e o cupom MAUAD com 10% OFF. Também 5% no Pix, panetones em oferta e o frete por região.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/black-friday-belive-capa-discover.webp",
@@ -84868,7 +84888,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento",
       "Soma com as ofertas do site e com o Pix de 5%: no teste de 16/10/2026, o total foi de R$ 576,82 para R$ 493,18",
-      "O limite do frete grátis conta o valor sem o cupom: aplicar o MAUAD não faz perder o frete",
+      "Cartão em até 2x sem juros, boleto e Pix com 5% de desconto",
       "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO"
     ],
     "cons": [
@@ -85066,7 +85086,7 @@ export const reviewsData: unknown[] = [
           "Demais estados: a partir de R$ 300."
         ],
         "postParagraphs": [
-          "O limite conta o valor sem o cupom. Aplicar o MAUAD não faz perder o frete grátis.",
+          "A página de regras não diz se o mínimo conta o valor antes ou depois do cupom. Se o pedido ficar perto do mínimo da sua região, confira no carrinho se o frete grátis continua depois do MAUAD.",
           "A faixa do topo do site fala em frete grátis a partir de R$ 170: esse valor vale para SP, MG, RJ, DF e GO. Confira o frete do seu CEP no carrinho.",
           "A loja aceita cartão em até 2x sem juros, boleto e Pix."
         ]
@@ -85080,7 +85100,7 @@ export const reviewsData: unknown[] = [
           "Escolha o Pix por último, para ver o total final."
         ],
         "postParagraphs": [
-          "Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). O produto precisa estar na embalagem original, sem uso e sem violação, com a nota fiscal. O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo. O valor é devolvido depois da análise interna, e nesse caso o frete é por conta da Belive.",
+          "Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). A loja pede o produto na embalagem original, sem uso e sem violação, com a nota fiscal; o direito de arrependimento em 7 dias vale de qualquer jeito. O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo. O valor é devolvido depois da análise interna, e nesse caso o frete é por conta da Belive.",
           "Em caso de defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. Não há troca quando há indício de má manipulação ou mau uso, ou quando não dá para identificar a ocorrência. A loja não publica prazo de reembolso.",
           "Vendedora: NHD Foods Indústria, Comércio, Importação e Exportação Ltda. Contato: sac@nhdfoods.com.br e (34) 3317-6487. CNPJ, trocas e reputação estão em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
         ]
@@ -85094,7 +85114,7 @@ export const reviewsData: unknown[] = [
           "O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.",
           "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais 5% no Pix. O percentual é por produto; o teto é o da campanha.",
           "Tem panetone à venda? Tem. A Black November trouxe panetones com 5% de desconto mais 5% no Pix e kit de panetones com frete a R$ 9,90.",
-          "O cupom tira o frete grátis? Não. O limite de frete conta o valor sem o cupom."
+          "O cupom tira o frete grátis? A loja não diz se o mínimo conta o valor antes ou depois do cupom. Com o pedido perto do mínimo da sua região, confira o frete no carrinho depois de aplicar o MAUAD."
         ]
       }
     ]
@@ -104405,7 +104425,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Mais Mu 2026: o cupom MMEMCASACOMCECILIA dá 10% OFF. A Blue Friday já está no ar, com até 50% OFF e 3% no Pix.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/black-friday-mais-mu-capa-faixa.webp",
@@ -104468,7 +104488,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Uma oferta do \"até 50%\" só vale a pena se o preço do dia ficar abaixo desta tabela. O preço do site muda sem aviso, então confira a página do produto no dia da compra."
+          "Uma oferta do \"até 50%\" só vale a pena se o preço do dia ficar abaixo desta tabela. No site, em novembro, a vitrine da home mostrava a creatina refil de 500 g a R$ 74,90 (de R$ 119,90) e o whey concentrado paçoquita de 450 g a R$ 135,99 (de R$ 159,99), abaixo da tabela de outubro. O preço do site muda sem aviso, então confira a página do produto e a disponibilidade no dia da compra."
         ],
         "images": [
           {
@@ -104516,7 +104536,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Abaixo desses valores, o frete é calculado no checkout.",
-          "O desconto do cupom entra na conta. Se o total ficar abaixo do mínimo da sua região depois do cupom, o frete pode ser cobrado. Confira o frete no checkout antes de finalizar, porque o uso do frete grátis junto com o cupom não foi testado.",
+          "A loja informa os mínimos, mas não diz se eles contam o subtotal antes ou depois do cupom. Se o total com o cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o frete no checkout antes de finalizar.",
           "Compra pela internet tem direito de desistência de 7 dias, contados do recebimento, pelo Código de Defesa do Consumidor (art. 49). Vale para qualquer compra online, em qualquer época do ano."
         ]
       },
@@ -118296,6 +118316,7 @@ export const reviewsData: unknown[] = [
     "description": "Quem opera a Skelt, o que os dois CNPJs ligados à marca mostram, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete.",
     "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF no site oficial. A Skelt é confiável? A empresa por trás do site, os dois CNPJs, trocas, reembolso e frete grátis.",
     "publishedAt": "21 de outubro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-21",
     "draft": false,
     "isNew": true,
@@ -118306,7 +118327,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita, com sede em Curitiba. O ponto de atenção é que o perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, e o site não explica a ligação. Quem opera a loja e os detalhes estão abaixo; para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
+          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita, com sede em Curitiba. O ponto de atenção é que o perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, e o site não explica a ligação. Para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
         ]
       },
       {
@@ -118389,7 +118410,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Para defeito, é obrigatório enviar fotos ou vídeos do produto e do lote. Para desistir, o produto precisa estar na embalagem original e sem sinais de uso.",
+          "Para defeito, é obrigatório enviar fotos ou vídeos do produto e do lote. Para desistir, a loja pede o produto na embalagem original e sem sinais de uso; o arrependimento de 7 dias vale de qualquer jeito.",
           "Em compra pelo site, a loja pede o número do pedido e o CPF do titular da compra. A troca só é feita por produto de mesmo valor e que esteja disponível em estoque. A primeira devolução é grátis, com o frete incluído. A devolução é feita pelo site skelt.troque.app.br, que gera um código dos Correios válido por 10 dias corridos."
         ]
       },
@@ -118471,7 +118492,7 @@ export const reviewsData: unknown[] = [
           "Qual é o CNPJ da Skelt? O CNPJ da loja é 38.290.785/0001-57, da SKELT BEAUTY BRANDS S/A, com início de atividade em 2020 na consulta pública. O CNPJ 17.616.018/0001-15, da BELEZE & OLIVEIRA, é o que aparece no perfil do Reclame Aqui.",
           "O site skelt.com.br é o oficial? O endereço oficial é skelt.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública da Receita.",
           "A Skelt tem telefone de atendimento? Tem WhatsApp, no número (41) 3042-4721, e o e-mail contato@skelt.com.br. O site diz que responde em até 48 horas úteis.",
-          "Quanto tempo tenho para trocar ou devolver um produto da Skelt? Sem defeito, 20 dias a partir da entrega; com defeito, 45 dias. A troca é só por produto de mesmo valor e em estoque. Para desistir, o produto precisa estar na embalagem original e sem sinais de uso. Pela lei, a compra online tem 7 dias de arrependimento (CDC, art. 49).",
+          "Quanto tempo tenho para trocar ou devolver um produto da Skelt? Sem defeito, 20 dias a partir da entrega; com defeito, 45 dias. A troca é só por produto de mesmo valor e em estoque. Para desistir, a loja pede o produto na embalagem original e sem sinais de uso. Pela lei, a compra online tem 7 dias de arrependimento (CDC, art. 49), independentemente dessa exigência.",
           "Quando o reembolso cai? Em até 7 dias úteis, contados do recebimento do produto e depois de conferido na central. A política não separa esse prazo por forma de pagamento.",
           "A Skelt tem frete grátis? Tem frete grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte e Curitiba. Também há frete grátis a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e a partir de R$ 299 no Norte e Nordeste, sobre o valor final do pedido.",
           "Tem cupom na Skelt? Tem, o SKEMCASACOMCECILIA, com 10% OFF em todo o site, somando com as promoções e com os 5% do Pix. A loja aceita um cupom por pedido.",
@@ -118519,6 +118540,7 @@ export const reviewsData: unknown[] = [
     "description": "A reputação da Skelt no Reclame Aqui é boa: Ótima em 6 meses, nota 8,3 e 92,2% das reclamações resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
     "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF na Skelt. No Reclame Aqui, Ótima em 6 meses (nota 8,3) e 92,2% resolvidas: as queixas sobre defeito e entrega.",
     "publishedAt": "21 de outubro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-21",
     "draft": false,
     "isNew": true,
@@ -118530,7 +118552,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a reputação da Skelt no Reclame Aqui é boa: Ótima nos últimos 6 meses, com nota 8,3, e a loja respondeu a todas as reclamações do período. A faixa saiu da RA1000 em maio, com a nota quase igual. O que pesa são as queixas de produto com defeito e atraso, detalhadas abaixo; para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
+          "Sim, a reputação da Skelt no Reclame Aqui é boa: Ótima nos últimos 6 meses, com nota 8,3, e a loja respondeu a todas as reclamações do período. A faixa saiu da RA1000 em maio. O que pesa são as queixas de produto com defeito e atraso. Para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
         ]
       },
       {
@@ -118684,7 +118706,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Contato: e-mail contato@skelt.com.br ou WhatsApp (41) 3042-4721. Informe o número do pedido e o CPF.",
           "Defeito: envie fotos e vídeos do produto e do lote. A loja tem até 48 horas úteis para responder a um pedido de troca.",
-          "Prazos: 20 dias para troca sem defeito e 45 dias com defeito, contados a partir da entrega. Na desistência, o produto volta na embalagem original e sem sinais de uso.",
+          "Prazos: 20 dias para troca sem defeito e 45 dias com defeito, contados a partir da entrega. Na desistência, a loja pede o produto na embalagem original e sem sinais de uso; o arrependimento de 7 dias vale de qualquer jeito.",
           "Devolução: pelo site skelt.troque.app.br. A primeira é grátis, e o reembolso sai em até 7 dias úteis depois do recebimento e da conferência do produto.",
           "Reclame Aqui: se a loja não resolver, é o canal para registrar a queixa."
         ],
@@ -119001,7 +119023,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Skelt 2026: o cupom SKEMCASACOMCECILIA dá 10% OFF. O esquenta, a data da Black Friday, os preços de autobronzeador e o Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/black-friday-skelt-capa-discover.webp",
@@ -119113,7 +119135,7 @@ export const reviewsData: unknown[] = [
         "heading": "Brinde e frete",
         "paragraphs": [
           "O brinde da Skelt conta o valor final do pedido, depois dos descontos. No teste de carrinho de outubro, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola.",
-          "Até o fim de 06/11, a Skelt dá dois brindes a quem usa o cupom: veja as faixas em [brindes Skelt com o cupom](/reviews/brindes-skelt-black-friday-cupom).",
+          "A promoção de 48 horas, com dois brindes para quem usava o cupom, terminou em 06/11. Veja como foi em [brindes Skelt com o cupom](/reviews/brindes-skelt-black-friday-cupom).",
           "O frete grátis também conta o valor final do pedido. A política de frete do site dizia:"
         ],
         "bullets": [
@@ -119987,7 +120009,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Bagaggio 2026: até 70% OFF, leve 3, pague 2 e o cupom CECILIA10 com 10% OFF. Preços para comparar antes da campanha e o Pix.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/black-friday-bagaggio-capa.webp",
@@ -120099,7 +120121,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Pix: o desconto de 5% entra depois do cupom, sobre o total que já está com desconto.",
           "Promoção: o cupom vale também no produto que já está em promoção, inclusive no Outlet.",
-          "Não soma: com a promoção de 50% na 2ª peça, que usa outro cupom da loja, nem com outro cupom. Vale um cupom por pedido.",
+          "Não soma: com outro cupom da loja; vale um cupom por pedido. A promoção de 50% na 2ª peça, que usava outro cupom, era de outubro e não está na campanha de novembro.",
           "Pagamento e cliente: vale em todas as formas de pagamento, para cliente novo e para cliente antigo.",
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
         ],
@@ -120137,7 +120159,7 @@ export const reviewsData: unknown[] = [
           "Confira o prazo de entrega pelo seu CEP na sacola.",
           "Confira o total depois do cupom e do Pix, antes de finalizar.",
           "Compre só pelo site oficial, pelo link da parceria (bagaggio.com.br) ou numa loja física da marca.",
-          "Se for retirar na loja, veja se há loja perto. A retirada é em até 3 horas e é do titular da compra, com documento original com foto.",
+          "Se for retirar na loja, veja se há loja perto. A política da loja fala em até 3 horas para retirar, sem dizer quando o prazo começa a contar: espere o aviso de que o pedido está pronto e, na dúvida, confirme com a loja. A retirada é do titular da compra, com documento original com foto.",
           "Guarde o print da sacola e o número do pedido.",
           "Compra pela internet tem direito de arrependimento de 7 dias corridos depois do recebimento, pelo Código de Defesa do Consumidor (art. 49). Essa regra vale só para compra pelo site.",
           "O atendimento é pelo chat do site, de segunda a sexta, das 9h às 18h. Para trocas e garantia, a loja também indica o e-mail atendimento@bagaggio.com.br."
@@ -120175,7 +120197,7 @@ export const reviewsData: unknown[] = [
           "O cupom CECILIA10 vale na Black Friday? Ele vale em todo o site, com o Pix. Se soma com os preços da campanha, não testamos: aplique na sacola e confira a linha do desconto antes de pagar.",
           "O leve 3, pague 2 soma com o cupom? Não testamos. A promoção é da loja, e as condições dela aparecem no site. Confira o total da sacola com o cupom antes de pagar.",
           "Garantia vitalícia vale para mochila? Não. Ela vale só para malas da marca compradas depois do início do programa.",
-          "Dá para retirar na loja? Sim, quando há loja perto. A retirada é em até 3 horas e precisa do titular da compra, com documento original com foto.",
+          "Dá para retirar na loja? Sim, quando há loja perto. A política fala em até 3 horas, sem dizer quando o prazo começa a contar: espere o aviso de que o pedido está pronto e, na dúvida, confirme com a loja. Precisa do titular da compra, com documento original com foto.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2KeydkG)."
         ]
       }
@@ -120187,7 +120209,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "A loja não publica até quando a campanha vale nem se o cupom soma com os preços da Black Friday",
-      "Um cupom por pedido, e a promoção de 50% na 2ª peça não soma com ele",
+      "Vale um cupom por pedido, e o CECILIA10 não soma com outro cupom da loja",
       "A garantia vitalícia vale só para malas da marca, não para mochilas"
     ],
     "cta": {
@@ -121329,6 +121351,7 @@ export const reviewsData: unknown[] = [
     "description": "Qual whey escolher para cada objetivo? Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu comparados pelo preço por 100 g de proteína, com a melhor opção para cada perfil.",
     "metaDescription": "Qual whey comprar: compare Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu pelo preço por 100 g de proteína, com os preços de 23/10/2026.",
     "publishedAt": "23 de outubro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-23",
     "draft": false,
     "isNew": true,
@@ -121404,7 +121427,7 @@ export const reviewsData: unknown[] = [
         "heading": "Melhor whey zero lactose",
         "paragraphs": [
           "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Custava R$ 241,97, com 21 g de proteína em 30 g (70%, na tabela do chocolate), 30 porções e R$ 38,41 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas.",
-          "A alternativa é o Iso Pro Whey da Probiótica, um isolado (WPI) com 26 g de proteína em 30 g (87%), 1,3 g de carboidrato por dose, R$ 346,28 e R$ 44,39 por 100 g. A loja não o declara como zero lactose, e o alergênico cita derivados de leite e soja: por isso ele entra como alternativa de proteína, não como whey sem lactose.",
+          "O Iso Pro Whey da Probiótica, apesar de isolado, não serve para esse perfil: a página dele declara que contém lactose, além de derivados de leite e soja. Ele aparece no capítulo de whey isolado.",
           "Nas outras marcas, nada declara \"sem lactose\" nesta leitura. A Max não tem whey zero lactose: o \"Zero Lactose\" do menu dela é o Mass Titanium 17500, um hipercalórico. Na Black Skull, todos os wheys contêm lactose. No Whey Dr. Peanut, o rótulo diz que contém lactose, e nos wheys da Mais Mu a página diz que contém lactose ou não declara nada."
         ],
         "postParagraphs": [
@@ -121765,7 +121788,7 @@ export const reviewsData: unknown[] = [
               "R$ 44,39",
               "R$ 346,28",
               "Isolado (WPI)",
-              "Não declara"
+              "Contém"
             ],
             [
               "Max Titanium 100% Whey Pote 900 g",
@@ -121879,7 +121902,7 @@ export const reviewsData: unknown[] = [
               "Whey sem lactose",
               "[Probiótica 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 38,41",
-              "[Probiótica Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 44,39 (a loja não declara zero lactose)"
+              "Nenhuma outra marca declara sem lactose"
             ],
             [
               "Whey isolado",
@@ -121980,7 +122003,7 @@ export const reviewsData: unknown[] = [
           "Qual o melhor whey custo-benefício em 2026? Não existe um só: pelo preço por 100 g de proteína lido para o guia, o Whey 80% HD Refil da Black Skull saía a R$ 23,17 e o Hiper 100% Whey da Probiótica, em promoção, a R$ 23,61. O capítulo de custo-benefício traz os dois.",
           "Whey concentrado ou isolado: qual o melhor? Depende do que você procura. Pelas tabelas, o isolado tem 26 g de proteína em dose de 30 g, contra 20 g a 23 g do concentrado, e custa mais por proteína: R$ 41,82 a R$ 44,39 por 100 g, contra R$ 23,17 do concentrado mais barato do guia.",
           "Whey 3W ou 100%: qual escolher? O \"100%\" não é um tipo de proteína: o 100% Whey da Max é só concentrado, e o 100% HD da Black Skull mistura concentrado, isolado e hidrolisado. O Top Whey 3W \"+ Sabor\" da Max saía a R$ 33,60 por 100 g de proteína em promoção, perto dos R$ 31,17 do 100% Whey Refil.",
-          "Qual whey não tem lactose? Entre as cinco lojas, só o 100% Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" (R$ 241,97), e o alergênico dele cita derivados de leite. O Iso Pro Whey não declara lactose, mas a loja não o vende como zero lactose; quem tem intolerância ou alergia deve conferir o rótulo.",
+          "Qual whey não tem lactose? Entre as cinco lojas, só o 100% Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" (R$ 241,97), e o alergênico dele cita derivados de leite. O Iso Pro Whey é isolado, mas a página dele declara que contém lactose; quem tem intolerância ou alergia deve conferir o rótulo.",
           "Qual whey é melhor para iniciantes? Para começar sem comprar 900 g, as opções lidas são o pote de 450 g e a caixa de sachês da Mais Mu e o Gourmet 450 g da Black Skull, com só 12 g de proteína por dose. Este guia não indica quantidade: quem tem dúvida sobre dose deve falar com nutricionista.",
           "Whey nacional é confiável? As cinco marcas vendem pelo site oficial, e a Max Titanium e a Probiótica são do Grupo Supley, que aparece como fabricante no rótulo do 3 Whey Protein da Probiótica e do whey Dr. Peanut. Empresa, CNPJ, trocas e reputação de cada uma estão em [Black Skull](/reviews/black-skull-e-confiavel), [Max Titanium](/reviews/max-titanium-e-confiavel), [Probiótica](/reviews/probiotica-e-confiavel), [Dr. Peanut](/reviews/dr-peanut-e-confiavel) e [Mais Mu](/reviews/mais-mu-e-confiavel).",
           "O que significa \"100%\" no nome do whey? Não é o teor de proteína do pó: o 100% HD da Black Skull tem 21 g de proteína em 35 g (60%), e o 100% Whey da Max, 21 g em 30 g (70%). Vale a proteína por dose da tabela.",
@@ -126131,6 +126154,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Kits e lembranças para quem treina, de cinco lojas parceiras, por faixa de preço, com os preços de 25/10/2026 e o cupom de cada loja.",
     "publishedAt": "25 de outubro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-25",
     "draft": false,
     "isNew": true,
@@ -126163,7 +126187,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem já usa creatina ou whey",
         "paragraphs": [
-          "Para creatina, o kit com dois potes de 300 g da Probiótica sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, o kit com dois potes de Whey Turbo de 907 g da Black Skull sai por R$ 132,81, de R$ 139,80. A Max Titanium vende a creatina de 300 g sozinha por R$ 59,90, e o kit dela com o Whey Pro de 1 kg sai por R$ 158,90. Quem quer creatina e whey numa caixa só da Probiótica tem o kit com a creatina de 300 g e o Iso Protein Blend de 900 g, por R$ 138,89.",
+          "Para creatina, o kit com dois potes de 300 g da Probiótica sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, atenção: o kit com dois potes de Whey Turbo de 907 g da Black Skull sai por R$ 132,81, de R$ 139,80, mas a loja o lista entre os hipercalóricos, não como whey concentrado; é presente para quem já usa esse tipo. A Max Titanium vende a creatina de 300 g sozinha por R$ 59,90, e o kit dela com o Whey Pro de 1 kg sai por R$ 158,90. Quem quer creatina e whey numa caixa só da Probiótica tem o kit com a creatina de 300 g e o Iso Protein Blend de 900 g, por R$ 138,89. O Iso Protein Blend mistura proteína isolada de soja e concentrada do soro e leva leite, soja e lactose entre os alergênicos; o rótulo muda por sabor.",
           "Quem já sabe o que a pessoa usa acerta a proteína com o [guia de whey](/reviews/melhor-whey-qual-escolher-por-objetivo) e a creatina com o [guia de creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher)."
         ],
         "image": {
@@ -126507,7 +126531,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual presente escolher",
         "bullets": [
-          "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81.",
+          "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81, que é hipercalórico e só serve para quem já usa esse tipo.",
           "Quem não sabe o que a pessoa usa: a coqueteleira da Black Skull, por R$ 19,90, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.",
           "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 119,00, é a peça com tamanhos; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
           "Quem gosta de doce: o kit de 10 alfajores da Dr. Peanut, por R$ 129,90, ou o de 12 wafers, por R$ 130,68, com o rótulo de cada um.",
@@ -129296,7 +129320,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "A Toda Up já está em Black November, com todo o site em desconto e até 35% OFF. Veja os carrinhos de exemplo, os preços para comparar e como o cupom da loja entra na conta.",
@@ -129331,7 +129355,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com até 35% OFF e calcinha de brinde por valor de pedido, e o dia da Black Friday é 27 de novembro. O cupom da Toda Up, MAUAD, de 10%, somou com a campanha de outubro no carrinho; sobre a Black November, confira o total antes de pagar."
+          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com até 35% OFF e calcinha de brinde por valor de pedido. O cupom MAUAD, de 10%, somou com a campanha de outubro no carrinho; na Black November, confira o total antes de pagar."
         ]
       },
       {
@@ -129558,7 +129582,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e troca",
         "paragraphs": [
-          "A loja libera frete grátis em campanhas, como fez na Black Antecipada de outubro; na Black November, a home não diz, então confira o frete no carrinho. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
+          "A loja liberou frete grátis na Black Antecipada de outubro; na Black November, a faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
           "Pela política de frete da loja, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento, e o código de rastreio chega por e-mail. Na semana da Black Friday, conte esse prazo mais o da transportadora para o seu CEP.",
           "Troca de modelo, tamanho ou cor e devolução por arrependimento valem em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido. A própria política diz que os 30 dias ampliam os 7 dias da lei."
         ],
@@ -129612,7 +129636,7 @@ export const reviewsData: unknown[] = [
           "O cupom da Toda Up vale na Black November? No teste de outubro, na Black Antecipada, os 10% do cupom saíram depois do desconto da campanha. Sobre os preços da Black November, não testamos: confira a linha do cupom no carrinho.",
           "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com até 35% OFF no banner e selos de 15%, 16%, 20% e 33% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
           "A Black November da Toda Up tem brinde? Tem, pelo banner da campanha: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. Confira o brinde no carrinho antes de pagar.",
-          "A Black November tem frete grátis? A home não diz. Na Black Antecipada de outubro, a faixa do topo anunciava frete grátis em todo o site. A loja libera frete grátis em campanhas; fora delas, o frete é pelo CEP.",
+          "A Black November tem frete grátis? A faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil, não frete grátis; o brinde é que começa em R$ 199 de pedido. Na Black Antecipada de outubro, a faixa anunciava frete grátis em todo o site. Confira o frete pelo CEP no carrinho.",
           "Vale esperar a Black Friday? A loja não anunciou regra para a data. Compare o preço do dia com a tabela de outubro deste guia."
         ]
       }
@@ -142793,9 +142817,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Integralmédica sai mais barata por 100 g de creatina e de proteína nos tamanhos comparados. Veja os rótulos, o efeito do cupom PRO10EMCASACOMCECILIA e qual escolher por perfil.",
+    "description": "A Integralmédica sai mais barata na creatina e no whey de 1,8 kg; no refil de 900 g, o PRO10EMCASACOMCECILIA (até 10%) pode inverter a conta. Veja rótulos, preços e qual escolher.",
     "metaDescription": "Probiótica ou Integralmédica, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina pelo rótulo e pelo preço por 100 g.",
     "publishedAt": "28 de outubro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-28",
     "draft": false,
     "isNew": true,
@@ -142807,7 +142832,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelos preços e pelos rótulos, a Integralmédica sai mais barata por 100 g de creatina e por 100 g de proteína nos tamanhos comparados. O cupom PRO10EMCASACOMCECILIA aproxima a Probiótica no whey de 900 g, mas não vira a conta. Nas fontes oficiais, são empresas diferentes; o veredito por perfil está em Qual escolher."
+          "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey, o pouch de 1,8 kg da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA fica abaixo do pouch da Integralmédica se o cupom der os 10% cheios; sem o cupom, a Integralmédica vence."
         ]
       },
       {
@@ -142993,7 +143018,7 @@ export const reviewsData: unknown[] = [
           "O pote de 900 g da Probiótica é o maior valor da tabela: R$ 42,08 por 100 g de proteína no cartão, ou R$ 37,87 com o cupom."
         ],
         "postParagraphs": [
-          "Quem compra pelo preço por grama vai de Integralmédica nas duas contas. Quem compra na Probiótica paga menos com o refil e com o cupom, e a diferença para o pouch de 900 g da Integralmédica some. Preço e estoque mudam: confira nos dois sites antes de comprar."
+          "Quem compra pelo preço por grama vai de Integralmédica na creatina e no whey de 1,8 kg. Quem compra na Probiótica paga menos com o refil e o cupom nos 10% cheios, abaixo do pouch de 900 g da Integralmédica; se o desconto no produto for menor que 10%, a Integralmédica volta a ganhar. Preço e estoque mudam: confira nos dois sites antes de comprar."
         ]
       },
       {
@@ -176581,6 +176606,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Simple Organic 2026: o cupom S-EMCASACOMCECILIA dá 5% OFF. A Clean Friday tem até 50% OFF em séruns, hidratante, kits e body splash.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/black-friday-simple-organic-capa.webp",
@@ -176700,7 +176726,7 @@ export const reviewsData: unknown[] = [
           "Na Clean Friday, o que muda não é o frete, é o prazo: a política de frete da loja avisa que, em ação grande, o despacho pode passar dos 3 a 5 dias úteis de sempre. O frete grátis segue a partir de R$ 99,00 em produtos, pela faixa do topo do site; abaixo disso, ele é calculado pelo CEP, por PAC, Sedex ou JadLog.",
           "Com os preços da campanha, um sérum, o hidratante ou mesmo o kit Pele Sensível sozinhos ficam abaixo dos 99. O trio de body splashes e o duo passam, e dois séruns com o hidratante também. Vale montar o pedido para cruzar essa linha em vez de pagar frete num item de 41.",
           "Regra prática, sem teste nosso: com o despacho de até 5 dias úteis mais a viagem até o seu CEP, e com a fila da campanha por cima, presente comprado na última semana de novembro pode chegar depois da data; quem precisa do produto num dia certo compra na primeira quinzena.",
-          "Pagamento: cartão em até 5x sem juros, com parcela mínima de R$ 30, ou Pix com QR Code que vale 2 horas. Troca ou desistência: 7 dias corridos depois de receber, com o produto sem uso e o lacre inviolado, por e-mail ao atendimento com o número do pedido. Na campanha isso pesa: produto aberto não volta, e o lacre decide a troca."
+          "Pagamento: cartão em até 5x sem juros, com parcela mínima de R$ 30, ou Pix com QR Code que vale 2 horas. Troca ou desistência: 7 dias corridos depois de receber, com o produto sem uso e o lacre inviolado, por e-mail ao atendimento com o número do pedido. Na campanha isso pesa: a loja pede o lacre intacto para troca e desistência, e produto com defeito pode ser reclamado em até 30 dias, pelo Código de Defesa do Consumidor."
         ],
         "images": [
           {
@@ -187418,7 +187444,7 @@ export const reviewsData: unknown[] = [
     "id": 825,
     "slug": "brindes-skelt-black-friday-cupom",
     "locale": "pt",
-    "title": "Brindes Skelt na Black Friday: creme para mãos e Body Cream com o cupom, só por 48 horas",
+    "title": "Brindes Skelt na Black Friday: creme para mãos e Body Cream com o cupom (promoção de 48 horas encerrada)",
     "seoTitle": "Brindes Skelt na Black Friday: 2 brindes com o cupom",
     "type": "Promoção",
     "category": "guias-praticos-utilidade",
@@ -187430,9 +187456,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Por 48 horas, a Skelt dá o Creme para Mãos Velvet Milano e o Body Cream Mystic Bloom a quem usa o cupom SKEMCASACOMCECILIA. Veja as faixas e como montar o pedido.",
-    "metaDescription": "Use o SKEMCASACOMCECILIA (10%) na Skelt e leve dois brindes: creme para mãos e Body Cream, só por 48 horas, somando com o desconto progressivo.",
+    "description": "A promoção de 48 horas da Skelt, com creme para mãos e Body Cream de brinde no cupom SKEMCASACOMCECILIA, está encerrada. Veja como foram as faixas.",
+    "metaDescription": "O SKEMCASACOMCECILIA (10%) na Skelt rendeu dois brindes em 48 horas, promoção já encerrada. Veja as faixas e como o cupom somava.",
     "publishedAt": "5 de novembro de 2026",
+    "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-11-05",
     "draft": false,
     "isNew": true,
@@ -187444,7 +187471,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Entre no site oficial da Skelt pelo botão, monte o pedido com folga acima da faixa e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola.",
+      "text": "Entre no site oficial da Skelt pelo botão e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola. Os brindes de 48 horas acabaram; confira o total antes de pagar.",
       "label": "Ir para a Skelt com o cupom",
       "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
       "sponsored": true
@@ -187467,16 +187494,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Só por 48 horas, quem usa o cupom SKEMCASACOMCECILIA na Skelt leva de brinde o Creme para Mãos Velvet Milano a partir da primeira faixa, e também o Body Cream Mystic Bloom a partir da segunda. O cupom soma com o desconto progressivo do site, e a faixa conta o valor final do pedido, depois de todos os descontos."
+          "A promoção de 48 horas da Skelt está encerrada. Quem usou o cupom SKEMCASACOMCECILIA levou o Creme para Mãos Velvet Milano de brinde na primeira faixa e o Body Cream Mystic Bloom na segunda. O cupom somava com o desconto progressivo, e a faixa contava o valor final do pedido."
         ]
       },
       {
-        "heading": "O que vem em cada brinde",
+        "heading": "O que veio em cada brinde",
         "paragraphs": [
-          "A promoção vale de 05/11 à 0h até 06/11 às 23h59, no horário de Brasília. Os dois brindes acumulam: o pedido acima da segunda faixa leva os dois."
+          "A promoção valeu de 05/11 à 0h até 06/11 às 23h59, no horário de Brasília. Os dois brindes acumulavam: o pedido acima da segunda faixa levava os dois."
         ],
         "comparisonTable": {
-          "caption": "Preço avulso no site, 05/11. Os brindes só saem com o cupom SKEMCASACOMCECILIA.",
+          "caption": "Preço avulso no site, 05/11. Os brindes só saíam com o cupom SKEMCASACOMCECILIA.",
           "headers": [
             "Brinde",
             "Pedido final acima de",
@@ -187496,7 +187523,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Conta nossa, pelos preços avulsos da tabela: os dois brindes juntos valem R$ 132,80. Para conhecer as fragrâncias dos hidratantes, veja [qual hidratante corporal da Skelt escolher](/reviews/hidratante-corporal-skelt-qual-fragrancia). Os brindes valem enquanto durar o estoque."
+          "Conta nossa, pelos preços avulsos da tabela: os dois brindes juntos valiam R$ 132,80. Para conhecer as fragrâncias dos hidratantes, veja [qual hidratante corporal da Skelt escolher](/reviews/hidratante-corporal-skelt-qual-fragrancia). Os brindes valeram enquanto durou a promoção e o estoque."
         ],
         "images": [
           {
@@ -187547,7 +187574,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Como garantir os brindes: monte o pedido com folga",
+        "heading": "Como a faixa contava o valor do pedido",
         "paragraphs": [
           "A loja informa, na Política de Brindes: o mínimo conta o valor final do pedido depois de cupons, promoções e do desconto do Pix. Se os descontos derrubarem o total abaixo da faixa, o brinde sai do carrinho sozinho.",
           "Por isso a conta é feita sobre o valor com desconto, não sobre os preços da vitrine. Os dois pedidos abaixo usam produtos que estavam à venda e mostram a diferença entre levar um brinde ou os dois."
@@ -187580,18 +187607,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Se a loja somar os descontos em vez de aplicar um sobre o outro, o total fica um pouco menor. Conta nossa, nesse pior caso e pagando no Pix: com 3 produtos ou mais, o carrinho cheio precisa passar de cerca de R$ 307 para a primeira faixa e de R$ 384 para a segunda.",
-          "Antes de pagar, confira o valor final no resumo do pedido e se os brindes estão na sacola. Se o total ficar logo abaixo da faixa, um creme para mãos a mais resolve. O passo a passo do cupom está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
+          "Em qualquer brinde por faixa da loja, confira o valor final no resumo do pedido antes de pagar. O passo a passo do cupom está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O brinde vale sem o cupom? Não: segundo a Skelt, os dois brindes só saem com o cupom de creator, e o nosso é o SKEMCASACOMCECILIA.",
-          "Os dois brindes acumulam? Sim: o pedido acima da segunda faixa leva o creme para mãos e o Body Cream.",
-          "Até quando vale a promoção? São 48 horas, até o fim de sexta-feira, no horário de Brasília.",
-          "O cupom soma com o desconto progressivo? Sim: os 10% do cupom entram junto com os 10%, 15% ou 20% do progressivo.",
-          "O cupom soma com o Pix? Sim, e o Pix também baixa o valor final que conta para a faixa.",
-          "A faixa conta antes ou depois dos descontos? Depois: a Política de Brindes da Skelt diz que vale o valor final do pedido, com cupom, promoções e Pix."
+          "O brinde valia sem o cupom? Não: segundo a Skelt, os dois brindes só saíam com o cupom de creator, e o nosso é o SKEMCASACOMCECILIA.",
+          "Os dois brindes acumulavam? Sim: o pedido acima da segunda faixa levava o creme para mãos e o Body Cream.",
+          "A promoção ainda vale? Não: foram 48 horas, e a promoção já terminou.",
+          "O cupom somava com o desconto progressivo? Sim: os 10% do cupom entravam junto com os 10%, 15% ou 20% do progressivo.",
+          "O cupom somava com o Pix? Sim, e o Pix também baixava o valor final que contava para a faixa.",
+          "A faixa contava antes ou depois dos descontos? Depois: a Política de Brindes da Skelt diz que vale o valor final do pedido, com cupom, promoções e Pix."
         ]
       }
     ]
@@ -188300,6 +188327,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday HolyFoods: use o cupom EMCASA e tire mais 15% por cima dos 30% do site, na tela de finalizar a compra. Veja os kits, o frete e a garantia.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/black-friday-holyfoods-capa.webp",
@@ -188501,7 +188529,7 @@ export const reviewsData: unknown[] = [
           "caption": "Mínimos da campanha da Black, no FAQ da home da loja."
         },
         "postParagraphs": [
-          "O mínimo considera o preço depois dos descontos dos produtos. Pelos preços dos kits, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. A loja fala em desconto dos produtos, não em cupom: com o pedido perto da linha, confira o frete depois de aplicar o EMCASA.",
+          "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com os 15% do cupom (conta nossa), a Rotina Resolvida cai a R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, a R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. No nosso teste, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; no seu CEP, confira o frete no resumo depois de aplicar o EMCASA.",
           "Frete grátis não é prazo. A política da loja diz que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout. A reclamação mais comum no Reclame Aqui é produto não recebido, e os números estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao). Guarde o número do pedido e use o \"Rastrear pedido\" do menu da loja."
         ]
       },
@@ -188518,7 +188546,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pelos números da tabela, o perfil decide:",
           "**Primeira vez na loja:** o Descoberta. É o menor, a loja o indica para conhecer, e a garantia cobre a unidade aberta. Ele fica abaixo do mínimo do frete grátis em qualquer região, então some o frete na conta.",
-          "**Abastecer a despensa:** o Despensa Cheia. É o que passa os três mínimos publicados do frete grátis e o único com o carrinho testado no EMCASA. O custo por refeição menor vem das sopas; se você não quer sopa, a Rotina Resolvida é só massa e risoto, com 15 refeições.",
+          "**Abastecer a despensa:** o Despensa Cheia. Antes do cupom, é o que passa os três mínimos publicados do frete grátis, e é o único com o carrinho testado no EMCASA (o frete saiu grátis a R$ 284,41; confira o resumo no seu CEP). O custo por refeição menor vem das sopas; se você não quer sopa, a Rotina Resolvida é só massa e risoto, com 15 refeições.",
           "**Pedido avulso:** a sopa, o risoto e o mac custam o mesmo na Black. Escolha pelo rendimento da tabela de avulsos.",
           "Antes de pagar:"
         ],
