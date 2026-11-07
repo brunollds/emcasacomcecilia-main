@@ -135,7 +135,7 @@
       "postParagraphs": [
         "Com o SONAR20, o gerenciado sai R$ 96 mais barato que o KVM 1 nos primeiros 24 meses. Depois, os dois custam o mesmo. A renovação vem ligada por padrão; veja [como a Hostinger cobra e renova](/reviews/hostinger-e-confiavel).",
         "O plano não é tudo: o uso da IA entra à parte. Com os créditos da Hostinger, o gerenciado traz um saldo inicial, e o que passar dele é cobrado conforme o consumo. O preço da recarga não aparece em nenhuma página pública, então confira no painel antes de contar com ele. Com a sua chave, o provedor (OpenAI, Anthropic ou outro) cobra direto de você, conforme o modelo e o volume de conversas.",
-        "O gerenciado tem 30 dias para pedir reembolso. No VPS, os 30 dias valem só quando já passaram 180 dias da conclusão do último reembolso de VPS, se houve um; confira as exceções na política de reembolso da Hostinger. VPS de 12 meses ou mais leva um domínio .cloud ou .tech grátis no primeiro ano."
+        "O gerenciado tem 30 dias para pedir reembolso, com condições que variam por produto. No VPS, há restrições para novos reembolsos; confira as exceções na política de reembolso da Hostinger. VPS de 12 meses ou mais leva um domínio .cloud ou .tech grátis no primeiro ano; confirme a oferta atual antes de contratar."
       ]
     },
     {
@@ -189,7 +189,7 @@
     {
       "heading": "Cupom SONAR20 e preço",
       "paragraphs": [
-        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao).",
+        "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, mensal ou anual, inclusive com conta existente. Registro de domínio e renovação ficam fora do desconto; a renovação sai pelo preço de tabela. Confira as condições em [como usar o SONAR20](/reviews/cupom-hostinger-indicacao) e na [página da Hostinger](/cupons/hostinger).",
         "Preços de planos de 24 meses, lidos em 21/10/2026:"
       ],
       "comparisonTable": {
@@ -242,9 +242,9 @@
         "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
         "Precisa de conta na OpenAI ou na Anthropic? Não. Nas duas opções dá para usar os créditos de IA da Hostinger. A conta no provedor só é preciso se você preferir a sua própria chave.",
         "Tem cupom de desconto da Hostinger para o OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período.",
-        "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. A renovação sai sem os 20%: R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2.",
+        "Quanto custa depois do primeiro período? Na renovação, o SONAR20 não se aplica: a tabela traz R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2. Confirme a cobrança atual antes de renovar.",
         "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave.",
-        "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+        "O SONAR20 vale para quem já é cliente da Hostinger? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
       ]
     },
     {
@@ -262,13 +262,13 @@
     "skipIf": [
       "Passe no VPS se você não sabe o que é root nem Docker: atualizar e proteger o sistema fica com você.",
       "Passe no gerenciado se você precisa de acesso root ou de mais memória e disco.",
-      "Passe se o mesmo assistente vai atender pessoas que não confiam umas nas outras: o projeto pede um servidor separado para cada uma."
+      "Passe se o mesmo assistente vai atender pessoas que não confiam umas nas outras: elas não devem dividir um gateway."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+    "text": "Use SONAR20 no carrinho: 20% no primeiro período de uma compra nova elegível. Registro de domínio e renovação não recebem esse desconto.",
     "label": "Ver os planos com o SONAR20",
     "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true

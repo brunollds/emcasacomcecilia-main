@@ -150,7 +150,7 @@
         "**KVM 8（32 GB）。** 只有在用更大的本地模型时才有意义。文档没有说每个大配方需要多少内存。"
       ],
       "postParagraphs": [
-        "代码 SONAR20 在第一个周期可享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。[查看如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，付款前请在购物车里确认金额。Hostinger 正在黑色星期五期间，价格会变动：[查看活动](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
+        "SONAR20：符合条件的新购首个周期享 20% 折扣，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。操作步骤见[查看如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，活动详情见[查看活动](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
       ]
     },
     {
@@ -228,7 +228,7 @@
       "heading": "优惠码 SONAR20",
       "paragraphs": [],
       "postParagraphs": [
-        "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。因为黑色星期五会改变价格，付款前请在购物车里确认金额。请看[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)和[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+        "**SONAR20**：符合条件的新购**首个周期享 20% 折扣**，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。操作步骤见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，条件见[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
       ]
     },
     {
@@ -236,10 +236,10 @@
       "bullets": [
         "OpenClaw 的最低服务器要求是什么？官方文档没有公布最低 RAM、CPU 或硬盘，稳定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 密钥或额度时，起点是 KVM 1。用本地模型时，只有最小配方的下限是 8 GiB，KVM 4 是第一个对它有余量的。",
         "可以不用 API 密钥运行吗？可以，用本地模型，但这时内存就成了问题：文档把最小本地配方的下限定为 8 GiB（上下文 64K），并提醒这不保证模型放得下，也不保证跑得好。用 Hostinger 额度的话，不需要 AI 供应商的账号，但要按使用量付费。",
-        "Oracle 真的免费吗？只要账户保持在 Always Free 范围内，就是免费的：Arm A1 上 2 个 OCPU 和 12 GB，外加 Micro 实例。如果实例闲置 7 天，CPU（第 95 百分位）和网络低于 20%，在 A1 上内存也低于 20%，Oracle 可能把它收回。",
+        "Oracle 真的免费吗？在 Always Free 额度与地区供应范围内，可能免费使用：Arm A1 上 2 个 OCPU 和 12 GB，外加 Micro 实例。如果实例闲置 7 天，CPU（第 95 百分位）和网络低于 20%，在 A1 上内存也低于 20%，Oracle 可能把它收回。",
         "Mac mini 还是 VPS？取决于电脑能不能 24 小时开着。能的话，在家运行可以省掉服务器月费；不能的话，选 VPS 或托管。",
-        "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？有：在购物车的优惠码栏输入代码 SONAR20，第一个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
-        "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+        "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？ SONAR20：符合条件的新购首个周期享 20% 折扣，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。",
+        "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣，域名注册除外。已有套餐的续费按标价收费，没有折扣。"
       ]
     },
     {
@@ -252,7 +252,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+    "text": "SONAR20：符合条件的新购首个周期享 20% 折扣，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。",
     "label": "通过 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

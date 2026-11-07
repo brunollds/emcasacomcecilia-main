@@ -31,7 +31,7 @@
     }
   ],
   "description": "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador. Veja os três caminhos, o preço de renovação e o que checar antes de pagar.",
-  "metaDescription": "Comprar o domínio na Hostinger, registrar fora e apontar, ou transferir? Preço do .com.br e do .com com a renovação ao lado, regra dos 60 dias, quem é o dono e a checklist antes de pagar.",
+  "metaDescription": "SONAR20 dá 20% na hospedagem nova da Hostinger; no domínio avulso não vale. Compare renovação, controle, elegibilidade e bloqueios antes de pagar.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
   "updatedAt": "2026-11-07",
@@ -45,20 +45,20 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com 60 dias desde o registro ou a última transferência."
+        "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio elegível (genéricos: 60 dias desde o registro ou a última transferência)."
       ]
     },
     {
-      "heading": "Domínio e hospedagem são duas contas",
+      "heading": "Domínio e hospedagem são serviços separados",
       "paragraphs": [
-        "Domínio e hospedagem são duas contas: o endereço (o nome que a pessoa digita) de um lado, o computador onde o site fica do outro. Você paga os dois separados, e eles não precisam estar na mesma empresa: o domínio registrado numa empresa pode apontar para a hospedagem de outra. A própria página da Hostinger diz que dá para apontar um domínio registrado nela para outra provedora de hospedagem.",
+        "Domínio é o endereço que a pessoa digita; hospedagem é o serviço em que o site fica. Podem ser contratados na mesma empresa ou em empresas diferentes. Registrar o domínio num lugar não obriga a hospedar o site ali: o DNS pode conectá-lo a outro serviço.",
         "Por isso a decisão não é \"Hostinger ou não\". É onde o registro do domínio fica, quanto custa renovar todo ano e o que acontece se um dia você trocar de hospedagem. O primeiro ano barato é o menos importante: o domínio renova enquanto o site existir."
       ]
     },
     {
       "heading": "Os três caminhos",
       "paragraphs": [
-        "Para o domínio há três caminhos, pelas páginas da Hostinger, e o que muda entre eles é quem cobra a renovação."
+        "O quadro compara três formas de organizar o registro: comprar na Hostinger, registrar fora e conectar, ou transferir um domínio existente. Além de quem cobra a renovação, mudam o painel, o procedimento e as condições para transferir."
       ],
       "image": {
         "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -92,7 +92,7 @@
           ],
           [
             "Transferir para a Hostinger",
-            "Você já tem o domínio há mais de 60 dias e quer tudo num lugar só",
+            "Você já tem o domínio, quer centralizar a gestão e confirmou a elegibilidade da transferência para a extensão",
             "Preço de renovação da Hostinger a partir do ano seguinte",
             "Mesma regra do primeiro caminho",
             "Você; os dados de propriedade não mudam na transferência"
@@ -149,13 +149,13 @@
       ]
     },
     {
-      "heading": "Transferir: a regra dos 60 dias e o passo a passo",
+      "heading": "Transferir: 60 dias, elegibilidade e passo a passo",
       "paragraphs": [
         "Transferir é mudar o registro do domínio de uma empresa para outra. A página de transferência da Hostinger diz que ela move só o registro: site e e-mail ficam no provedor atual e continuam funcionando se você mantiver os nameservers atuais. Se escolher os da Hostinger, o que usa o DNS em outros provedores pode parar até você atualizar os registros. Os dados de propriedade não mudam. O que muda é quem cobra a renovação e onde você mexe no DNS.",
         "As regras, pela página da Hostinger:"
       ],
       "bullets": [
-        "**Idade do registro:** na maioria dos casos, o domínio precisa estar registrado há pelo menos 60 dias. Domínio novo na Hostinger também fica travado por 60 dias antes de poder sair. O prazo conta desde o registro ou a última transferência, e algumas extensões têm regras próprias.",
+        "**Elegibilidade:** confira as regras da extensão, a data do registro ou da última transferência e os bloqueios. Domínio novo na Hostinger também fica travado por 60 dias antes de sair; passar desse prazo não garante sozinho a transferência.",
         "**Desbloqueio e código:** você destrava o domínio no painel do registrador atual e pega o código de autorização (EPP, ou código de transferência).",
         "**Confirmação:** depois de informar o código na Hostinger, chega um e-mail do registrador para confirmar. Sem a confirmação, a transferência não anda.",
         "**Prazo:** até sete dias; mais rápido se o registrador atual liberar logo e você confirmar o e-mail na hora.",
@@ -163,7 +163,7 @@
       ],
       "postParagraphs": [
         "O passo a passo da página é o dos domínios genéricos, como o .com. O .com.br é administrado pelo Registro.br, e a Hostinger aparece como registrador credenciado para ele; antes de pedir o código de um .com.br, confira o procedimento no suporte da Hostinger, porque a transferência do .br tem caminho próprio.",
-        "Transferir para fora da Hostinger segue a mesma lógica ao contrário: 60 dias de registro, destravar no painel da Hostinger, pegar o código e confirmar no e-mail. A transferência que dá certo não tem reembolso; veja [as regras de reembolso e renovação da Hostinger](/reviews/hostinger-e-confiavel)."
+        "Para transferir para fora, confirme as regras da extensão e os bloqueios atuais; obtenha desbloqueio, código e confirmação quando o procedimento exigir. Uma transferência concluída não recebe reembolso padrão. Veja [as regras de reembolso e renovação da Hostinger](/reviews/hostinger-e-confiavel)."
       ]
     },
     {
@@ -173,7 +173,7 @@
         "Três cuidados mantêm o domínio seu:"
       ],
       "bullets": [
-        "**A conta:** o domínio pertence à conta da Hostinger em que foi comprado. Use um e-mail que você controla, não o de um freelancer ou de uma agência. Quem registra no nome de outra pessoa depende dela para transferir depois.",
+        "**Titularidade e acesso:** confirme em nome de quem o domínio será registrado e quem controla a conta de gestão. Use um e-mail de recuperação que você controla. Se uma pessoa ou agência fizer o trabalho, combine acesso e titularidade antes do registro; não são a mesma coisa.",
         "**A renovação:** a Hostinger recomenda deixar a renovação automática ligada. Domínio vencido derruba o site e o e-mail. Renovação de domínio não tem reembolso, então o cartão da conta precisa estar em dia.",
         "**O reembolso do registro:** um registro novo só pode ser devolvido em 96 horas, nas extensões que aceitam reembolso (várias extensões de país não aceitam); o .br, o .com.br e o .net.br, em 168 horas. Depois disso, o domínio é seu até o fim do prazo pago, sem devolução."
       ]
@@ -183,7 +183,7 @@
       "bullets": [
         "Veja a coluna da renovação, não só o primeiro ano. O domínio renova todo ano enquanto o site existir.",
         "No prazo de 3 anos, confira no carrinho o total dos três anos: a página mostra só o primeiro.",
-        "Se vai transferir, confira a data do registro e a da última transferência: menos de 60 dias, a transferência não começa.",
+        "Antes de transferir, confira extensão, datas, bloqueios e procedimento do registrador de origem e de destino; a idade do registro não é a única condição.",
         "Compre na conta que vai ser sua, com um e-mail seu e a renovação automática ligada.",
         "Para .com.br, confira o caminho próprio da transferência do .br no suporte da Hostinger antes de comprar, se a ideia é sair um dia.",
         "Se o domínio veio com o plano de hospedagem, anote o preço de renovação do segundo ano: ele aparece antes de comprar.",
@@ -193,12 +193,12 @@
     {
       "heading": "Qual caminho escolher",
       "paragraphs": [
-        "**Compre na Hostinger** se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel. O .com.br renova a R$ 64,99 por ano e o .com a R$ 94,99, valores iguais ao primeiro ano cheio, sem salto no segundo ano.",
-        "**Compre fora e aponte** se já tem domínio em outro registrador, se prefere separar as contas, ou se o preço de renovação de lá for menor: o Registro.br anuncia o .com.br a R$ 40 por ano. Apontar o DNS é um ajuste no painel, e o site funciona do mesmo jeito.",
-        "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Nas extensões em que a transferência soma um ano ao registro, ela não é dinheiro perdido.",
-        "Na dúvida, não transfira: aponte o domínio e deixe o registro onde está. Dá para transferir depois, e o site não para."
+        "**Eu compraria na Hostinger** se o painel único fosse uma vantagem para a minha rotina e a renovação estivesse dentro do orçamento. Confiro o preço de renovação antes de pagar.",
+        "**Eu manteria fora e conectaria o DNS** se já tivesse o domínio ou preferisse separar os serviços. Antes de alterar a configuração, conferiria os registros usados pelo site e pelo e-mail.",
+        "**Eu transferiria o registro** apenas depois de confirmar elegibilidade da extensão, bloqueios, custo e efeito no prazo de validade. Compare esse conjunto com o preço que paga hoje; incluir um ano não transforma toda transferência em economia.",
+        "Se a dúvida é somente onde hospedar o site, comece avaliando a conexão sem transferência. Planeje qualquer alteração de DNS sem presumir que um desses caminhos garanta continuidade."
       ],
-      "emphasis": "Se fosse para o meu site, eu levaria o registro junto da hospedagem, porque domínio e renovação ficam no mesmo painel."
+      "emphasis": "Para a minha rotina, eu preferiria reunir registro e hospedagem no mesmo painel, desde que renovação e controle do domínio fossem adequados. É uma preferência de organização, não uma vantagem de preço garantida."
     },
     {
       "heading": "Cupom SONAR20 e preço",
@@ -210,10 +210,10 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Quanto custa o domínio na Hostinger? O .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
-        "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro ou a última transferência.",
+        "Posso trocar de hospedagem sem perder o domínio? Você pode manter o registro onde está e conectar a nova hospedagem por DNS, sem transferir o domínio. Confira os registros usados pelo site e pelo e-mail antes da mudança.",
         "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
         "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
-        "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro ou da última transferência: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso.",
+        "Dá para transferir o domínio da Hostinger para outro registrador? Depende da elegibilidade da extensão e dos bloqueios aplicáveis. Confira o procedimento e, quando exigido, desbloqueie, obtenha o código e confirme a solicitação. Uma transferência concluída não recebe reembolso padrão.",
         "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
     },
@@ -227,18 +227,18 @@
   "decision": {
     "takeIf": [
       "Leve o domínio na Hostinger se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel.",
-      "Leve a transferência só se o domínio tem mais de 60 dias de registro ou da última transferência e a renovação na Hostinger compensa o que você paga hoje."
+      "Leve a transferência só se o domínio cumpre os requisitos da extensão (em genéricos, 60 dias ou mais desde o registro ou a última transferência, sem bloqueios) e a renovação na Hostinger compensa o que você paga hoje."
     ],
     "skipIf": [
       "Passe se já tem domínio em outro registrador, prefere separar as contas ou a renovação de lá é menor: aponte o DNS e deixe o registro onde está.",
-      "Passe da transferência se o registro ou a última transferência tem menos de 60 dias: ela não começa.",
+      "Passe da transferência se a extensão ou um bloqueio atual impede o processo, ou se ainda não confirmou a elegibilidade.",
       "Passe se o domínio ficaria no nome ou na conta de um freelancer ou de uma agência: use um e-mail que você controla."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. No domínio avulso, o código não vale.",
+    "text": "Se também vai contratar hospedagem, veja os planos e use SONAR20: 20% no primeiro período elegível de compra nova, sem desconto na renovação. O código não vale no domínio avulso; compare o registro e sua renovação separadamente.",
     "label": "Ver os planos com o SONAR20",
     "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true

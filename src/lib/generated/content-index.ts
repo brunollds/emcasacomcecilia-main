@@ -108133,7 +108133,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Com o SONAR20, o gerenciado sai R$ 96 mais barato que o KVM 1 nos primeiros 24 meses. Depois, os dois custam o mesmo. A renovação vem ligada por padrão; veja [como a Hostinger cobra e renova](/reviews/hostinger-e-confiavel).",
           "O plano não é tudo: o uso da IA entra à parte. Com os créditos da Hostinger, o gerenciado traz um saldo inicial, e o que passar dele é cobrado conforme o consumo. O preço da recarga não aparece em nenhuma página pública, então confira no painel antes de contar com ele. Com a sua chave, o provedor (OpenAI, Anthropic ou outro) cobra direto de você, conforme o modelo e o volume de conversas.",
-          "O gerenciado tem 30 dias para pedir reembolso. No VPS, os 30 dias valem só quando já passaram 180 dias da conclusão do último reembolso de VPS, se houve um; confira as exceções na política de reembolso da Hostinger. VPS de 12 meses ou mais leva um domínio .cloud ou .tech grátis no primeiro ano."
+          "O gerenciado tem 30 dias para pedir reembolso, com condições que variam por produto. No VPS, há restrições para novos reembolsos; confira as exceções na política de reembolso da Hostinger. VPS de 12 meses ou mais leva um domínio .cloud ou .tech grátis no primeiro ano; confirme a oferta atual antes de contratar."
         ]
       },
       {
@@ -108187,7 +108187,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao).",
+          "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, mensal ou anual, inclusive com conta existente. Registro de domínio e renovação ficam fora do desconto; a renovação sai pelo preço de tabela. Confira as condições em [como usar o SONAR20](/reviews/cupom-hostinger-indicacao) e na [página da Hostinger](/cupons/hostinger).",
           "Preços de planos de 24 meses, lidos em 21/10/2026:"
         ],
         "comparisonTable": {
@@ -108240,9 +108240,9 @@ export const reviewsData: unknown[] = [
           "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
           "Precisa de conta na OpenAI ou na Anthropic? Não. Nas duas opções dá para usar os créditos de IA da Hostinger. A conta no provedor só é preciso se você preferir a sua própria chave.",
           "Tem cupom de desconto da Hostinger para o OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período.",
-          "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. A renovação sai sem os 20%: R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2.",
+          "Quanto custa depois do primeiro período? Na renovação, o SONAR20 não se aplica: a tabela traz R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2. Confirme a cobrança atual antes de renovar.",
           "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+          "O SONAR20 vale para quem já é cliente da Hostinger? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
         ]
       },
       {
@@ -108260,13 +108260,13 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe no VPS se você não sabe o que é root nem Docker: atualizar e proteger o sistema fica com você.",
         "Passe no gerenciado se você precisa de acesso root ou de mais memória e disco.",
-        "Passe se o mesmo assistente vai atender pessoas que não confiam umas nas outras: o projeto pede um servidor separado para cada uma."
+        "Passe se o mesmo assistente vai atender pessoas que não confiam umas nas outras: elas não devem dividir um gateway."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+      "text": "Use SONAR20 no carrinho: 20% no primeiro período de uma compra nova elegível. Registro de domínio e renovação não recebem esse desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -108407,7 +108407,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "The plan is not the whole cost: AI usage is charged separately. With Hostinger's credits, the managed plan comes with a starting balance, and whatever goes beyond it is charged by use. The price of a top-up does not appear on any public page, so check the panel before you count on it. With your own key, the provider (OpenAI, Anthropic or another) charges you directly, depending on the model and the number of conversations.",
-          "The managed plan has a 30-day refund window. On the VPS, the 30 days apply only once 180 days have passed since your last VPS refund was completed, if you had one; check Hostinger's refund policy for exceptions. A VPS of 12 months or more comes with a free .cloud or .tech domain for the first year."
+          "The managed plan has a 30-day refund window, with conditions that vary by product. On the VPS, there are limits on new refunds; check Hostinger's refund policy for exceptions. A VPS of 12 months or more comes with a free .cloud or .tech domain for the first year; confirm the current offer before you buy."
         ]
       },
       {
@@ -108461,7 +108461,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+          "Enter **SONAR20** in the cart for 20% off the first period of an eligible new purchase, monthly or annual, including with an existing account. Domain registration and renewal are excluded; renewal is charged at the list price. See the [SONAR20 guide](/en/reviews/hostinger-coupon-code-referral) and [Hostinger coupon page](/en/coupons/hostinger) for conditions."
         ],
         "postParagraphs": [
           "Hostinger is running a Black Friday campaign, and prices change. See [Hostinger's Black Friday](/en/reviews/hostinger-black-friday) and check the amount in the cart before you pay."
@@ -108474,7 +108474,7 @@ export const reviewsData: unknown[] = [
           "Do you need an OpenAI or Anthropic account? No. On both options you can use Hostinger's AI credits. You only need an account with a provider if you prefer your own key.",
           "Is there a Hostinger discount coupon for OpenClaw? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period.",
           "Does the managed plan work for Hermes Agent or Paperclip? Yes. All three are on the same plan, \"AI automation apps\", at the same price. The Paperclip page does not list AI credits, so bring your own key.",
-          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+          "Can existing Hostinger customers use SONAR20? It can apply to an eligible new purchase with the same account, not to renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
         ]
       },
       {
@@ -108487,7 +108487,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+      "text": "Enter SONAR20 for 20% off the first period of an eligible new purchase. Domain registration and renewal are excluded.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -108514,7 +108514,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Skip the VPS if you don't know what root or Docker is: updating and securing the system falls to you.",
         "Skip managed if you need root access or more memory and disk.",
-        "Skip both if the same assistant will serve people who do not trust each other: the project asks for a separate server for each."
+        "Skip both if the same assistant will serve people who do not trust each other: they should not share one gateway."
       ]
     }
   },
@@ -108639,7 +108639,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "El plan no es todo: el uso de la IA se cobra aparte. Con los créditos de Hostinger, el gestionado trae un saldo inicial, y lo que pase de ahí se cobra según el consumo. El precio de una recarga no aparece en ninguna página pública, así que revísalo en el panel antes de contar con él. Con tu propia clave, el proveedor (OpenAI, Anthropic u otro) te cobra directamente, según el modelo y el volumen de conversaciones.",
-          "El plan gestionado tiene 30 días para pedir el reembolso. En el VPS, los 30 días valen solo cuando han pasado 180 días desde que se completó el último reembolso de VPS, si lo hubo; consulta las excepciones en la política de reembolso de Hostinger. Un VPS de 12 meses o más incluye un dominio .cloud o .tech gratis el primer año."
+          "El plan gestionado tiene 30 días para pedir el reembolso, con condiciones que varían según el producto: consulta la política de reembolso de Hostinger antes de contratar. La oferta histórica incluía un dominio .cloud o .tech el primer año con VPS de al menos 12 meses; confirma la oferta actual."
         ]
       },
       {
@@ -108693,7 +108693,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % de descuento en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
+          "Introduce **SONAR20** en el carrito: 20 % en el primer período de una compra nueva elegible, mensual o anual, también con cuenta existente. El registro de dominios y la renovación quedan fuera; la renovación se cobra al precio de lista. Consulta la [guía SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y la [página de Hostinger](/es/coupons/hostinger)."
         ],
         "postParagraphs": [
           "Hostinger está en campaña de Black Friday, y los precios cambian. Mira [el Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas) y revisa el importe en el carrito antes de pagar."
@@ -108706,7 +108706,7 @@ export const reviewsData: unknown[] = [
           "¿Necesitas una cuenta en OpenAI o Anthropic? No. En las dos opciones puedes usar los créditos de IA de Hostinger. La cuenta con el proveedor solo hace falta si prefieres tu propia clave.",
           "¿Hay cupón de descuento de Hostinger para OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % de descuento en el primer período.",
           "¿El plan gestionado sirve para Hermes Agent o Paperclip? Sí. Los tres están en el mismo plan, «Aplicaciones de automatización con IA», al mismo precio. La página de Paperclip no incluye créditos de IA, así que lleva tu propia clave.",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+          "¿Un cliente existente de Hostinger puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. Ofrece un 20 % en el primer período; el registro de dominio también queda fuera. Comprueba el total del carrito."
         ]
       },
       {
@@ -108719,7 +108719,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+      "text": "Usa SONAR20: 20 % en el primer período de una compra nueva elegible. No se aplica al registro de dominios ni a la renovación.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -108746,7 +108746,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Descarta el VPS si no sabes qué es root ni Docker: actualizar y proteger el sistema queda de tu parte.",
         "Descarta el gestionado si necesitas acceso root o más memoria y disco.",
-        "Descarta ambos si el mismo asistente va a atender a personas que no confían entre sí: el proyecto pide un servidor aparte para cada una."
+        "Descarta ambos si el mismo asistente va a atender a personas que no confían entre sí: no deben compartir gateway. Un equipo que confía entre sí requiere otra evaluación; no hay una regla universal de un servidor por persona."
       ]
     }
   },
@@ -108871,7 +108871,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "L'offre ne fait pas tout : l'usage de l'IA est facturé à part. Avec les crédits de Hostinger, l'offre gérée inclut un solde de départ, et ce qui dépasse est facturé selon la consommation. Le prix d'une recharge n'apparaît sur aucune page publique, alors vérifiez-le dans le panneau avant de compter dessus. Avec votre propre clé, le fournisseur (OpenAI, Anthropic ou un autre) vous facture directement, selon le modèle et le nombre de conversations.",
-          "L'offre gérée donne 30 jours pour demander un remboursement. Sur le VPS, les 30 jours ne valent qu'une fois 180 jours écoulés depuis la finalisation de votre dernier remboursement de VPS, s'il y en a eu un ; vérifiez les exceptions dans la politique de remboursement d'Hostinger. Un VPS de 12 mois ou plus inclut un domaine .cloud ou .tech gratuit la première année."
+          "L'offre gérée donne 30 jours pour demander un remboursement, sous conditions qui varient selon le produit : consultez la politique de remboursement d'Hostinger avant d'acheter. L'offre historique incluait un domaine .cloud ou .tech la première année avec un VPS d'au moins 12 mois ; vérifiez l'offre actuelle."
         ]
       },
       {
@@ -108925,7 +108925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code promo SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, mensuel ou annuel, y compris avec un compte existant. L'enregistrement de domaines et le renouvellement sont exclus ; le renouvellement est facturé au prix catalogue. Consultez le [guide SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et la [page Hostinger](/fr/coupons/hostinger)."
         ],
         "postParagraphs": [
           "Hostinger est en pleine campagne de Black Friday, et les prix changent. Consultez [le Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) et vérifiez le montant dans le panier avant de payer."
@@ -108938,7 +108938,7 @@ export const reviewsData: unknown[] = [
           "Faut-il un compte OpenAI ou Anthropic ? Non. Dans les deux cas, vous pouvez utiliser les crédits d'IA de Hostinger. Un compte chez le fournisseur n'est nécessaire que si vous préférez votre propre clé.",
           "Existe-t-il un code promo Hostinger pour OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % de réduction sur la première période.",
           "L'offre gérée convient-elle à Hermes Agent ou à Paperclip ? Oui. Les trois sont dans la même offre, « Applications d'automatisation IA », au même prix. La page de Paperclip ne mentionne pas de crédits d'IA, alors apportez votre propre clé.",
-          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+          "Un client Hostinger existant peut-il utiliser SONAR20 ? Il peut s'appliquer à un nouvel achat éligible avec le même compte, pas au renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
         ]
       },
       {
@@ -108951,7 +108951,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+      "text": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible, hors enregistrement de domaines et renouvellement.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -108978,7 +108978,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Évitez le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous incombe.",
         "Passez votre tour sur le géré si vous avez besoin d'un accès root ou de plus de mémoire et de disque.",
-        "Passez votre tour sur les deux si le même assistant doit servir des personnes qui ne se font pas confiance : le projet demande un serveur séparé pour chacune."
+        "Passez votre tour sur les deux si le même assistant doit servir des personnes qui ne se font pas confiance : elles ne doivent pas partager une passerelle. Une équipe dont les membres se font confiance demande une autre analyse ; il n'existe pas de règle universelle d'un serveur par personne."
       ]
     }
   },
@@ -109102,7 +109102,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "Der Tarif ist nicht alles: Die KI-Nutzung kommt extra. Mit dem Guthaben von Hostinger bringt der verwaltete Tarif ein Startguthaben mit, und was darüber hinausgeht, wird nach Verbrauch berechnet. Der Preis für Aufladungen steht auf keiner öffentlichen Seite, prüfen Sie ihn daher im Dashboard, bevor Sie damit rechnen. Mit eigenem Schlüssel rechnet der Anbieter (OpenAI, Anthropic oder ein anderer) die Nutzung direkt mit Ihnen ab, je nach Modell und Gesprächsmenge.",
-          "Für die verwaltete Option gilt eine Frist von 30 Tagen, um eine Erstattung zu verlangen. Beim VPS gelten die 30 Tage nur, wenn seit dem Abschluss Ihrer letzten VPS-Erstattung 180 Tage vergangen sind, falls es eine gab; Ausnahmen finden Sie in der Erstattungsrichtlinie von Hostinger. Ein VPS mit 12 Monaten Laufzeit oder mehr enthält im ersten Jahr eine kostenlose .cloud- oder .tech-Domain."
+          "Für die verwaltete Option gilt eine Frist von 30 Tagen, um eine Erstattung zu verlangen, mit Bedingungen, die je nach Produkt variieren. Lesen Sie vor dem Kauf die Erstattungsrichtlinie von Hostinger. Das historische Angebot enthielt bei VPS-Laufzeiten ab zwölf Monaten eine .cloud- oder .tech-Domain für das erste Jahr; prüfen Sie das aktuelle Angebot."
         ]
       },
       {
@@ -109156,7 +109156,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: Das sind **20 % Rabatt auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
+          "Geben Sie **SONAR20** im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, monatlich oder jährlich, auch mit bestehendem Konto. Domainregistrierungen und Verlängerungen sind ausgeschlossen; die Verlängerung wird zum Listenpreis berechnet. Einzelheiten stehen im [SONAR20-Ratgeber](/de/reviews/hostinger-gutschein-empfehlungscode) und auf der [Hostinger-Seite](/de/coupons/hostinger)."
         ],
         "postParagraphs": [
           "Hostinger hat gerade eine Black-Friday-Aktion, und die Preise ändern sich. Sehen Sie sich [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote) an und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
@@ -109169,7 +109169,7 @@ export const reviewsData: unknown[] = [
           "Braucht man ein Konto bei OpenAI oder Anthropic? Nein. Bei beiden Optionen können Sie das KI-Guthaben von Hostinger nutzen. Ein Konto beim Anbieter brauchen Sie nur, wenn Sie lieber Ihren eigenen Schlüssel verwenden.",
           "Gibt es einen Hostinger-Gutschein für OpenClaw? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % Rabatt auf den ersten Zeitraum.",
           "Passt der verwaltete Tarif auch für Hermes Agent oder Paperclip? Ja. Alle drei sind im selben Tarif, „AI automation apps“, zum gleichen Preis. Die Paperclip-Seite nennt kein KI-Guthaben, bringen Sie also Ihren eigenen Schlüssel mit.",
-          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+          "Können Hostinger-Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
         ]
       },
       {
@@ -109182,7 +109182,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+      "text": "Verwenden Sie SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind ausgeschlossen.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109210,7 +109210,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Lassen Sie den VPS aus, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
         "Lassen Sie die verwaltete Option aus, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen.",
-        "Lassen Sie beide aus, wenn derselbe Assistent Personen bedienen soll, die einander nicht vertrauen: Das Projekt verlangt für jede einen eigenen Server."
+        "Lassen Sie beide aus, wenn derselbe Assistent Personen bedienen soll, die einander nicht vertrauen: Sie sollten kein Gateway teilen. Ein Team mit gegenseitigem Vertrauen braucht eine andere Bewertung; es gibt keine allgemeine Regel eines Servers pro Person."
       ]
     }
   },
@@ -109334,7 +109334,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "Il piano non è tutto: l'uso dell'IA è a parte. Con i crediti di Hostinger il gestito include un saldo iniziale, e ciò che lo supera è addebitato in base al consumo. Il prezzo delle ricariche non compare in nessuna pagina pubblica, quindi controllalo nel pannello prima di contarci. Con la tua chiave, il fornitore (OpenAI, Anthropic o un altro) ti addebita direttamente l'uso, in base al modello e al volume di conversazioni.",
-          "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, i 30 giorni valgono solo quando sono passati 180 giorni dal completamento dell'ultimo rimborso VPS, se ce n'è stato uno; controlla le eccezioni nella politica di rimborso di Hostinger. Un VPS di 12 mesi o più include un dominio .cloud o .tech gratis per il primo anno."
+          "Il gestito ha 30 giorni per chiedere il rimborso, con condizioni che variano per prodotto: leggi la policy di rimborso di Hostinger prima di acquistare. L'offerta storica includeva un dominio .cloud o .tech per il primo anno con VPS di almeno 12 mesi; verifica l'offerta attuale."
         ]
       },
       {
@@ -109388,7 +109388,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, sia con il piano mensile sia con quello annuale, per clienti nuovi o già esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, mensile o annuale, anche con account esistente. Registrazione di domini e rinnovo sono esclusi; il rinnovo si paga al prezzo di listino. Consulta la [guida SONAR20](/it/reviews/coupon-hostinger-codice-invito) e la [pagina Hostinger](/it/coupons/hostinger)."
         ],
         "postParagraphs": [
           "Hostinger è in piena campagna di Black Friday, e i prezzi cambiano. Guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) e controlla l'importo nel carrello prima di pagare."
@@ -109401,7 +109401,7 @@ export const reviewsData: unknown[] = [
           "Serve un account su OpenAI o Anthropic? No. In entrambe le opzioni puoi usare i crediti IA di Hostinger. L'account presso il fornitore serve solo se preferisci la tua chiave.",
           "Esiste un coupon di sconto Hostinger per OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% di sconto sul primo periodo.",
           "Il piano gestito va bene per Hermes Agent o Paperclip? Sì. Tutti e tre sono nello stesso piano, «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave.",
-          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+          "Un cliente Hostinger esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
         ]
       },
       {
@@ -109414,7 +109414,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+      "text": "Usa SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Registrazione di domini e rinnovo sono esclusi.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109441,7 +109441,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Lascia perdere il VPS se non sai cos'è root né Docker: aggiornare e proteggere il sistema resta a te.",
         "Lascia perdere il gestito se ti serve l'accesso root o più memoria e spazio.",
-        "Lascia perdere entrambi se lo stesso assistente deve servire persone che non si fidano tra loro: il progetto chiede un server separato per ciascuna."
+        "Lascia perdere entrambi se lo stesso assistente deve servire persone che non si fidano tra loro: non devono condividere lo stesso gateway. Un team che si fida reciprocamente richiede una valutazione diversa; non esiste una regola universale di un server per persona."
       ]
     },
     "hideFromPortugueseListings": true
@@ -109566,7 +109566,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "플랜이 비용의 전부는 아닙니다. AI 사용료는 따로 듭니다. 호스팅어 크레딧을 쓰면 관리형에는 초기 잔액이 들어 있고, 그것을 넘는 만큼은 사용량에 따라 청구됩니다. 충전 가격은 어떤 공개 페이지에도 나와 있지 않으니, 기대하기 전에 관리 화면에서 확인하세요. 직접 가진 키를 쓰면 제공업체(OpenAI, Anthropic 등)가 모델과 대화량에 따라 본인에게 직접 청구합니다.",
-          "관리형은 30일 안에 환불을 요청할 수 있습니다. VPS는 마지막 VPS 환불이 완료된 뒤(환불 이력이 있다면) 180일이 지났을 때만 30일이 적용됩니다. 예외는 호스팅어 환불 정책에서 확인하세요. 12개월 이상 VPS에는 첫해에 .cloud 또는 .tech 도메인이 무료로 따라옵니다."
+          "환불은 제품별 조건과 예외가 있으며, 반복되는 VPS 환불에도 제한이 있습니다. 구매 전에 적용 정책을 읽으세요. 30일을 무조건적인 보장으로 보아서는 안 됩니다. 과거 제안에는 12개월 이상 VPS의 첫해 .cloud 또는 .tech 도메인이 포함됐으며 현재 제안은 확인이 필요합니다."
         ]
       },
       {
@@ -109620,7 +109620,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 코드를 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
+          "장바구니에 **SONAR20**을 입력하면 적용 대상인 신규 구매의 첫 기간에 20% 할인됩니다. 월간·연간 계약 모두 가능하며, 기존 계정도 대상 신규 구매에는 쓸 수 있습니다. 도메인 등록과 갱신은 제외되며 갱신은 정가로 청구됩니다. 조건은 [SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)과 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요."
         ],
         "postParagraphs": [
           "호스팅어는 블랙프라이데이 행사 중이며 가격이 달라집니다. [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)를 보고, 결제하기 전에 장바구니에서 금액을 확인하세요."
@@ -109633,7 +109633,7 @@ export const reviewsData: unknown[] = [
           "OpenAI나 Anthropic 계정이 필요한가요? 아니요. 두 방식 모두 호스팅어 AI 크레딧을 쓸 수 있습니다. 제공업체 계정은 직접 가진 API 키를 쓰고 싶을 때만 필요합니다.",
           "OpenClaw용 호스팅어 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간에 20%가 할인됩니다.",
           "관리형 플랜으로 Hermes Agent나 Paperclip도 쓸 수 있나요? 네. 세 가지 모두 같은 \"AI 자동화 앱\" 플랜에 같은 가격으로 있습니다. Paperclip 페이지에는 AI 크레딧이 나와 있지 않으니 직접 가진 키를 쓰세요.",
-          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
+          "기존 Hostinger 고객도 SONAR20을 쓸 수 있나요? 같은 계정의 대상 신규 구매에는 적용될 수 있지만 현재 서비스 갱신에는 적용되지 않습니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요."
         ]
       },
       {
@@ -109646,7 +109646,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+      "text": "SONAR20: 적용 대상인 신규 구매의 첫 기간 20% 할인. 도메인 등록과 갱신에는 적용되지 않습니다.",
       "label": "SONAR20 할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109674,7 +109674,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "root나 Docker가 무엇인지 모른다면 VPS는 건너뛰세요. 시스템 업데이트와 보호를 직접 맡아야 합니다.",
         "root 접근이나 더 많은 메모리와 디스크가 필요하다면 관리형은 건너뛰세요.",
-        "같은 어시스턴트를 서로 신뢰하지 않는 사람들이 쓴다면 건너뛰세요. 프로젝트는 사람마다 별도 서버를 요구합니다."
+        "서로 신뢰하지 않는 사용자를 하나의 게이트웨이로 묶지 마세요. 서로 신뢰하는 팀은 별도로 판단해야 하며, 무조건 한 사람당 서버 한 대라는 규칙은 아닙니다."
       ]
     }
   },
@@ -109799,7 +109799,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "プランだけが費用のすべてではありません。AI の利用料は別にかかります。Hostinger のクレジットを使う場合、マネージドには初期残高が付いていて、それを超えた分は使った量に応じて請求されます。追加チャージの料金はどの公開ページにも載っていないので、当てにする前に管理画面で確認してください。自分のキーを使う場合は、プロバイダー（OpenAI、Anthropic など）が、モデルと会話の量に応じてあなたに直接請求します。",
-          "マネージドには 30 日間の返金期間があります。VPS では、直近の VPS 返金が完了してから 180 日たっている場合に限り（返金歴がある場合）、30 日間が適用されます。例外は Hostinger の返金ポリシーで確認してください。12 か月以上の VPS には、初年度に .cloud または .tech ドメインが無料でつきます。"
+          "返金には製品別の条件や例外があり、VPS の再度の返金にも制限があります。契約前に適用される規約を確認し、30日を無条件の保証として扱わないでください。過去の提供内容には12か月以上の VPS で初年度の .cloud または .tech ドメインが含まれていました。現在の条件は確認が必要です。"
         ]
       },
       {
@@ -109853,7 +109853,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。コードの入れ方は [クーポン SONAR20の使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
+          "カートに **SONAR20** を入力すると、対象の新規購入で初回期間が20%割引になります。月額・年額契約のどちらも対象で、既存アカウントでも対象の新規購入なら使えます。ドメイン登録と更新は対象外で、更新は通常料金です。条件は [SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja) と [Hostinger のクーポンページ](/ja/coupons/hostinger) を確認してください。"
         ],
         "postParagraphs": [
           "Hostinger はブラックフライデーのキャンペーン中で、価格が変わります。[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見て、支払う前にカートで金額を確認してください。"
@@ -109866,7 +109866,7 @@ export const reviewsData: unknown[] = [
           "OpenAI や Anthropic のアカウントは必要ですか？ いいえ。どちらの方法でも Hostinger の AI クレジットを使えます。プロバイダーのアカウントが必要なのは、自分の API キーを使いたい場合だけです。",
           "OpenClaw の Hostinger クーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 割引になります。",
           "マネージドプランで Hermes Agent や Paperclip も使えますか？ はい。三つとも同じ「AI 自動化アプリ」プランで、料金も同じです。Paperclip のページには AI クレジットが載っていないので、自分のキーを用意してください。",
-          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
+          "既存ユーザーもSONAR20を使えますか？ 同じアカウントでも対象の新規購入には使える場合がありますが、現在のサービスの更新には使えません。初回契約期間が20%割引で、ドメイン登録も対象外です。カートの総額を確認してください。"
         ]
       },
       {
@@ -109879,7 +109879,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+      "text": "SONAR20：対象の新規購入で初回期間が20%割引。ドメイン登録と更新は対象外です。",
       "label": "SONAR20 の割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109906,7 +109906,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "root や Docker が何か分からないなら、VPS は見送ってください。システムの更新と保護はあなたの担当になります。",
         "root アクセスや、より多くのメモリとディスクが必要なら、マネージドは見送ってください。",
-        "同じアシスタントを、互いを信頼していない人たちに使わせるなら見送ってください。プロジェクトは一人ずつ別のサーバーを求めています。"
+        "互いを信頼していない利用者に一つのゲートウェイを共有させないでください。互いを信頼するチームは別に判断する必要があり、一人につきサーバー一台という一律の規則ではありません。"
       ]
     }
   },
@@ -110031,7 +110031,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "方案不是全部花費，AI 的使用費另計。使用 Hostinger 的額度時，託管版附有起始餘額，超出的部分依用量計費。儲值的價格沒有出現在任何公開頁面上，所以指望它之前，請先在後台確認。如果用自己的金鑰，供應商（OpenAI、Anthropic 或其他）會依模型與對話量直接向你收費。",
-          "託管版有 30 天可申請退款。VPS 則只有在上一次 VPS 退款完成（如果有的話）已滿 180 天後，才適用 30 天；例外情況請查看 Hostinger 的退款政策。12 個月以上的 VPS 首年可免費獲得一個 .cloud 或 .tech 網域。"
+          "退款有產品別的條件與例外，VPS 再次退款也有限制。購買前請閱讀適用政策，不要將三十天視為無條件保證。歷史方案曾為至少十二個月的 VPS 提供首年 .cloud 或 .tech 網域，目前條件需另確認。"
         ]
       },
       {
@@ -110085,7 +110085,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**首期享 20% 折扣**，月付或年付都可以，新客戶和舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。輸入位置見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+          "在購物車輸入 **SONAR20**：符合資格的新購買首期享 20% 折扣，月付、年付均可，既有帳號的新購買同樣適用。網域註冊及續訂不適用；續訂按定價計算。條件請看 [SONAR20 使用說明](/zh-hant/reviews/hostinger-referral-code-zh-hant) 與 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
         ],
         "postParagraphs": [
           "Hostinger 正在進行黑五活動，價格會變動。請看[Hostinger 黑五](/zh-hant/reviews/hostinger-black-friday-zh-hant)，付款前在購物車確認金額。"
@@ -110098,7 +110098,7 @@ export const reviewsData: unknown[] = [
           "需要 OpenAI 或 Anthropic 帳戶嗎？不需要。兩種方式都能使用 Hostinger 的 AI 額度。只有想用自己的 API 金鑰時，才需要該供應商的帳戶。",
           "OpenClaw 有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，首期享 20% 折扣。",
           "託管方案能用於 Hermes Agent 或 Paperclip 嗎？可以。三者都在「AI 自動化應用」這同一方案中，價格也相同。Paperclip 的頁面沒有列出 AI 額度，所以請自備金鑰。",
-          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
+          "舊客戶也能用 SONAR20 嗎？同一帳號符合資格的新購買可以適用，但目前服務的續訂不適用。首個合約期間享 20% 折扣，網域註冊也除外。請確認購物車總額。"
         ]
       },
       {
@@ -110111,7 +110111,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
+      "text": "SONAR20：符合資格的新購買首期享 20% 折扣，網域註冊及續訂不適用。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110138,7 +110138,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "如果你不知道 root 或 Docker 是什麼，就別選 VPS：更新與保護系統都要由你來做。",
         "如果你需要 root 存取，或更多記憶體與硬碟，就別選託管。",
-        "如果同一個助理要服務彼此不信任的人，就別選：專案要求每人各用一台獨立伺服器。"
+        "不要讓彼此不信任的使用者共享同一閘道。彼此信任的團隊需要另外評估，並非一律每人一台伺服器。"
       ]
     }
   },
@@ -110263,7 +110263,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "套餐不是全部花费，AI 的使用费另算。使用 Hostinger 的额度时，托管版带有初始余额，超出的部分按用量计费。充值的价格没有出现在任何公开页面上，所以指望它之前，请先在后台确认。如果用自己的密钥，服务商（OpenAI、Anthropic 或其他）会根据模型和对话量直接向你收费。",
-          "托管版有 30 天可申请退款。VPS 则只有在上一次 VPS 退款完成（如果有的话）已满 180 天后，才适用 30 天；例外情况请查看 Hostinger 的退款政策。12 个月及以上的 VPS 首年可免费获得一个 .cloud 或 .tech 域名。"
+          "退款有产品对应的条件与例外，VPS 再次退款也有限制。购买前请阅读适用政策，不要将三十天视为无条件保证。历史套餐曾为至少十二个月的 VPS 提供首年 .cloud 或 .tech 域名，当前条件需另确认。"
         ]
       },
       {
@@ -110317,7 +110317,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期享 20% 折扣**，月付或年付都可以，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。输入位置见[如何使用 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+          "在购物车输入 **SONAR20**：符合条件的新购首期享 20% 折扣，月付、年付均可，已有账户的新购同样适用。域名注册及续费不适用；续费按标价收费。条件请看 [SONAR20 使用说明](/zh-hans/reviews/hostinger-referral-code-zh-hans) 与 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
         ],
         "postParagraphs": [
           "Hostinger 正在进行黑五活动，价格会变动。请看[Hostinger 黑五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，付款前在购物车确认金额。"
@@ -110330,7 +110330,7 @@ export const reviewsData: unknown[] = [
           "需要 OpenAI 或 Anthropic 账户吗？不需要。两种方式都可以使用 Hostinger 的 AI 额度。只有想用自己的 API 密钥时，才需要该服务商的账户。",
           "OpenClaw 有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首期享 20% 折扣。",
           "托管套餐能用于 Hermes Agent 或 Paperclip 吗？可以。三者都在“AI 自动化应用”这同一套餐中，价格也相同。Paperclip 的页面没有列出 AI 额度，所以请自备密钥。",
-          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+          "已有客户也能用 SONAR20 吗？同一账户符合条件的新购可以适用，但当前服务的续费不适用。首个合同期间享 20% 折扣，域名注册也除外。请确认购物车总额。"
         ]
       },
       {
@@ -110343,7 +110343,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+      "text": "SONAR20：符合条件的新购首期享 20% 折扣，域名注册及续费不适用。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110370,7 +110370,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "如果你不知道 root 或 Docker 是什么，就别选 VPS：更新和保护系统都要由你来做。",
         "如果你需要 root 权限，或更多内存和硬盘，就别选托管。",
-        "如果同一个助理要服务彼此不信任的人，就别选：项目要求每人各用一台独立服务器。"
+        "不要让彼此不信任的用户共享同一网关。彼此信任的团队需要另外评估，并非一律每人一台服务器。"
       ]
     }
   },
@@ -110526,7 +110526,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8（32 GB）。** より大きなローカルモデルを使う場合にだけ意味があります。大きなレシピがそれぞれどれだけのメモリを必要とするかは、ドキュメントに書かれていません。"
         ],
         "postParagraphs": [
-          "コード SONAR20 は、最初の期間が 20% 割引になります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。[SONAR20 クーポンの使い方を見る](/ja/reviews/hostinger-referral-code-ja)。支払う前に、カートで金額を確認してください。Hostinger はブラックフライデーのセール中で、価格が変わります：[キャンペーンを見る](/ja/reviews/hostinger-black-friday-ja)。"
+          "SONAR20：既存アカウントでも対象となる新規購入の最初の期間が20%割引。ドメイン登録と更新は対象外です。カートでプランを確認してください。手順は[SONAR20 クーポンの使い方を見る](/ja/reviews/hostinger-referral-code-ja)、キャンペーンの詳細は[キャンペーンを見る](/ja/reviews/hostinger-black-friday-ja)をご覧ください。"
         ]
       },
       {
@@ -110604,7 +110604,7 @@ export const reviewsData: unknown[] = [
         "heading": "クーポン SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。ブラックフライデーで価格が変わるため、支払う前にカートで金額を確認してください。[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)と[サイト内の Hostinger のページ](/ja/coupons/hostinger)を見てください。"
+          "**SONAR20**：既存アカウントでも対象となる新規購入の**最初の期間が20%割引**。ドメイン登録と更新は対象外です。カートでプランを確認してください。手順は[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、条件は[サイト内の Hostinger のページ](/ja/coupons/hostinger)をご覧ください。"
         ]
       },
       {
@@ -110612,10 +110612,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "OpenClaw に必要な最小のサーバーは？ 公式ドキュメントは最小の RAM、CPU、ディスクを公表しておらず、安定版では Node 24.22.1 以降（または 26.12.1）を求めています。API キーやクレジットなら、出発点は KVM 1 です。ローカルモデルなら、下限 8 GiB は最小レシピの場合で、KVM 4 がそのレシピに対して最初に余裕のあるプランです。",
           "API キーなしで動かせる？ ローカルモデルなら動かせますが、問題はメモリです。ドキュメントは、最も小さいローカルレシピの下限を 8 GiB（コンテキストは 64K）としたうえで、モデルが収まることも快適に動くことも保証しないと書いています。Hostinger のクレジットを使えば AI プロバイダーのアカウントは要りませんが、使った分の料金がかかります。",
-          "Oracle は本当に無料？ アカウントが Always Free の範囲にある間は無料です。Arm A1 で 2 OCPU とメモリ 12 GB、それに Micro インスタンスが使えます。7 日間、CPU（95 パーセンタイル）とネットワークが 20% 未満、A1 ではメモリも 20% 未満のまま使われていないインスタンスは、Oracle に回収されることがあります。",
+          "Oracle は本当に無料？ Always Free の範囲と地域の提供状況によっては無料で使えます。Arm A1 で 2 OCPU とメモリ 12 GB、それに Micro インスタンスが対象です。7 日間、CPU（95 パーセンタイル）とネットワークが 20% 未満、A1 ではメモリも 20% 未満のまま使われていないインスタンスは、Oracle に回収されることがあります。",
           "Mac mini と VPS、どちら？ パソコンを 24 時間つけておけるかどうかで決まります。つけておけるなら、自宅で動かせばサーバーの月額がかかりません。つけておけないなら、VPS かマネージドを選んでください。",
-          "OpenClaw の VPS に使える Hostinger の割引コードはある？ あります。カートのクーポン欄にコード SONAR20 を入力すると、最初の期間が 20% 割引になります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
-          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
+          "OpenClaw の VPS に使える Hostinger の割引コードはある？ SONAR20：既存アカウントでも対象となる新規購入の最初の期間が20%割引。ドメイン登録と更新は対象外です。カートでプランを確認してください。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます（ドメイン登録を除く）。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -110628,7 +110628,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+      "text": "SONAR20：既存アカウントでも対象となる新規購入の最初の期間が20%割引。ドメイン登録と更新は対象外です。カートでプランを確認してください。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110810,7 +110810,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8(32 GB).** 더 큰 로컬 모델을 쓸 때만 의미가 있습니다. 큰 레시피마다 메모리가 얼마나 필요한지는 문서에 없습니다."
         ],
         "postParagraphs": [
-          "SONAR20 코드는 첫 번째 기간에 20%를 할인해 줍니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko). 결제 전에 장바구니에서 금액을 확인하세요. 호스팅어는 블랙프라이데이 중이라 가격이 바뀝니다: [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)."
+          "SONAR20: 기존 계정도 대상 신규 구매의 첫 번째 기간에 20% 할인. 도메인 등록과 갱신은 제외됩니다. 장바구니에서 플랜을 확인하세요. 절차는 [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko), 캠페인 내용은 [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)에서 확인하세요."
         ]
       },
       {
@@ -110888,7 +110888,7 @@ export const reviewsData: unknown[] = [
         "heading": "쿠폰 SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 넣거나, 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두에게 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 블랙프라이데이로 가격이 바뀌므로 결제 전에 장바구니에서 금액을 확인하세요. [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)과 [사이트 안의 호스팅어 페이지](/ko/coupons/hostinger)를 보세요."
+          "**SONAR20**: 기존 계정으로 하는 신규 구매도 대상이며 **첫 번째 기간 20% 할인**이 적용됩니다. 도메인 등록과 갱신은 제외됩니다. 장바구니에서 플랜을 확인하세요. 절차는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko), 조건은 [사이트 안의 호스팅어 페이지](/ko/coupons/hostinger)에서 확인하세요."
         ]
       },
       {
@@ -110896,10 +110896,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "OpenClaw에 필요한 최소 서버는? 공식 문서는 최소 RAM, CPU, 디스크를 공개하지 않으며 안정 버전에서 Node 24.22.1 이상(또는 26.12.1)을 요구합니다. API 키나 크레딧이라면 출발점은 KVM 1입니다. 로컬 모델이라면 기준 8 GiB는 가장 작은 레시피의 것이고, KVM 4가 그 레시피에 처음으로 여유 있는 플랜입니다.",
           "API 키 없이 돌릴 수 있나요? 로컬 모델로 가능하지만, 그러면 메모리가 문제입니다. 문서는 가장 작은 로컬 레시피의 기준을 64K 컨텍스트에서 8 GiB로 제시하면서, 모델이 들어맞는다는 것도 잘 돈다는 것도 보장하지 않는다고 말합니다. 호스팅어 크레딧을 쓰면 AI 제공업체 계정이 필요 없지만 사용한 만큼 비용을 냅니다.",
-          "Oracle은 정말 무료인가요? 계정이 Always Free 범위에 있는 동안은 무료입니다. Arm A1에서 2 OCPU와 12 GB, 그리고 Micro 인스턴스를 쓸 수 있습니다. 7일 동안 CPU(95번째 백분위수)와 네트워크가 20% 미만이고 A1에서는 메모리도 20% 미만인 유휴 인스턴스는 Oracle이 회수할 수 있습니다.",
+          "Oracle은 정말 무료인가요? Always Free 한도와 지역별 제공 상황에 따라 무료일 수 있습니다. Arm A1에서 2 OCPU와 12 GB, 그리고 Micro 인스턴스를 쓸 수 있습니다. 7일 동안 CPU(95번째 백분위수)와 네트워크가 20% 미만이고 A1에서는 메모리도 20% 미만인 유휴 인스턴스는 Oracle이 회수할 수 있습니다.",
           "Mac mini와 VPS 중 무엇이 좋을까요? 컴퓨터를 24시간 켜 둘 수 있는지에 달려 있습니다. 켜 둘 수 있다면 집에서 돌려 서버 월 요금을 아낄 수 있고, 그럴 수 없다면 VPS나 관리형을 고르세요.",
-          "OpenClaw VPS에 쓸 수 있는 호스팅어 할인 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 첫 번째 기간에 20%를 할인받습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
-          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
+          "OpenClaw VPS에 쓸 수 있는 호스팅어 할인 쿠폰이 있나요? SONAR20: 기존 계정도 대상 신규 구매의 첫 번째 기간에 20% 할인. 도메인 등록과 갱신은 제외됩니다. 장바구니에서 플랜을 확인하세요.",
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다(도메인 등록은 제외). 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -110912,7 +110912,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 링크로 들어가세요. 첫 기간 20%입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+      "text": "SONAR20: 기존 계정도 대상 신규 구매의 첫 번째 기간에 20% 할인. 도메인 등록과 갱신은 제외됩니다. 장바구니에서 플랜을 확인하세요.",
       "label": "할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111096,7 +111096,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8（32 GB）。** 只有在用更大的本地模型时才有意义。文档没有说每个大配方需要多少内存。"
         ],
         "postParagraphs": [
-          "代码 SONAR20 在第一个周期可享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。[查看如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，付款前请在购物车里确认金额。Hostinger 正在黑色星期五期间，价格会变动：[查看活动](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
+          "SONAR20：符合条件的新购首个周期享 20% 折扣，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。操作步骤见[查看如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，活动详情见[查看活动](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
         ]
       },
       {
@@ -111174,7 +111174,7 @@ export const reviewsData: unknown[] = [
         "heading": "优惠码 SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。因为黑色星期五会改变价格，付款前请在购物车里确认金额。请看[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)和[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+          "**SONAR20**：符合条件的新购**首个周期享 20% 折扣**，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。操作步骤见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，条件见[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -111182,10 +111182,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "OpenClaw 的最低服务器要求是什么？官方文档没有公布最低 RAM、CPU 或硬盘，稳定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 密钥或额度时，起点是 KVM 1。用本地模型时，只有最小配方的下限是 8 GiB，KVM 4 是第一个对它有余量的。",
           "可以不用 API 密钥运行吗？可以，用本地模型，但这时内存就成了问题：文档把最小本地配方的下限定为 8 GiB（上下文 64K），并提醒这不保证模型放得下，也不保证跑得好。用 Hostinger 额度的话，不需要 AI 供应商的账号，但要按使用量付费。",
-          "Oracle 真的免费吗？只要账户保持在 Always Free 范围内，就是免费的：Arm A1 上 2 个 OCPU 和 12 GB，外加 Micro 实例。如果实例闲置 7 天，CPU（第 95 百分位）和网络低于 20%，在 A1 上内存也低于 20%，Oracle 可能把它收回。",
+          "Oracle 真的免费吗？在 Always Free 额度与地区供应范围内，可能免费使用：Arm A1 上 2 个 OCPU 和 12 GB，外加 Micro 实例。如果实例闲置 7 天，CPU（第 95 百分位）和网络低于 20%，在 A1 上内存也低于 20%，Oracle 可能把它收回。",
           "Mac mini 还是 VPS？取决于电脑能不能 24 小时开着。能的话，在家运行可以省掉服务器月费；不能的话，选 VPS 或托管。",
-          "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？有：在购物车的优惠码栏输入代码 SONAR20，第一个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
-          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+          "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？ SONAR20：符合条件的新购首个周期享 20% 折扣，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣，域名注册除外。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -111198,7 +111198,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+      "text": "SONAR20：符合条件的新购首个周期享 20% 折扣，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111381,7 +111381,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8（32 GB）。** 只有在用更大的本機模型時才有意義。文件沒有說每個大配方需要多少記憶體。"
         ],
         "postParagraphs": [
-          "代碼 SONAR20 在第一個週期享有 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，付款前請在購物車裡確認金額。Hostinger 正值黑色星期五，價格會變動：[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
+          "SONAR20：符合條件的新購首期享 20% 折扣，已有帳號也可適用。網域註冊和續訂除外，請在購物車確認方案。操作步驟見[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，活動細節見[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
         ]
       },
       {
@@ -111459,7 +111459,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 優惠碼",
         "paragraphs": [],
         "postParagraphs": [
-          "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+          "**SONAR20**：符合條件的新購**首期享 20% 折扣**，已有帳號也可適用。網域註冊和續訂除外，請在購物車確認方案。操作步驟見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，條件見[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -111467,10 +111467,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "OpenClaw 的最低伺服器需求是什麼？官方文件沒有公布最低 RAM、CPU 或硬碟，穩定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 金鑰或額度時，起點是 KVM 1。用本機模型時，只有最小配方的下限是 8 GiB，KVM 4 是第一個對它有餘裕的。",
           "可以不用 API 金鑰執行嗎？可以，用本機模型，但這時記憶體就成了問題：文件把最小本機配方的下限定為 8 GiB（上下文 64K），並提醒這不保證模型放得下，也不保證跑得好。用 Hostinger 額度的話，不需要 AI 供應商的帳號，但要按使用量付費。",
-          "Oracle 真的免費嗎？只要帳號維持在 Always Free 範圍內，就是免費的：Arm A1 上 2 個 OCPU 和 12 GB，外加 Micro 執行個體。如果執行個體閒置 7 天，CPU（第 95 百分位）和網路低於 20%，在 A1 上記憶體也低於 20%，Oracle 可能把它回收。",
+          "Oracle 真的免費嗎？在 Always Free 額度與地區供應範圍內，可能免費使用：Arm A1 上 2 個 OCPU 和 12 GB，外加 Micro 執行個體。如果執行個體閒置 7 天，CPU（第 95 百分位）和網路低於 20%，在 A1 上記憶體也低於 20%，Oracle 可能把它回收。",
           "Mac mini 還是 VPS？取決於電腦能不能 24 小時開著。能的話，在家執行可以省掉伺服器月費；不能的話，選 VPS 或託管。",
-          "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
-          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
+          "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？ SONAR20：符合條件的新購首期享 20% 折扣，已有帳號也可適用。網域註冊和續訂除外，請在購物車確認方案。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣，網域註冊除外。已有方案的續約按定價計算，沒有折扣。"
         ]
       },
       {
@@ -111483,7 +111483,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+      "text": "SONAR20：符合條件的新購首期享 20% 折扣，已有帳號也可適用。網域註冊和續訂除外，請在購物車確認方案。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111666,7 +111666,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Makes sense only with a larger local model. The documentation does not say how much memory each large recipe needs."
         ],
         "postParagraphs": [
-          "The SONAR20 code gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and check the amount in the cart before paying. Hostinger is running Black Friday, and prices change: [see the campaign](/en/reviews/hostinger-black-friday)."
+          "SONAR20: 20% off the first period of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [see the campaign](/en/reviews/hostinger-black-friday)."
         ]
       },
       {
@@ -111744,7 +111744,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 coupon",
         "paragraphs": [],
         "postParagraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Check the amount in the cart before paying, because Black Friday changes prices. See [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
+          "**SONAR20**: **20% off the first period** of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout. See the steps in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and the conditions at [Hostinger's page on the site](/en/coupons/hostinger)."
         ]
       },
       {
@@ -111752,10 +111752,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "What is the minimum server for OpenClaw? The official documentation publishes no minimum RAM, CPU or disk; the stable release requires Node 24.22.1 or newer (or 26.12.1). With an API key or credits, KVM 1 is the starting point. With a local model, the 8 GiB floor applies to the smallest recipe only, and KVM 4 is the first with room to spare for it.",
           "Can you run it without an API key? Yes, with a local model, but then memory becomes the problem: the documentation gives 8 GiB as the floor for its smallest local recipe, with a 64K context, and warns that this does not guarantee the model fits or runs well. With Hostinger's credits, you do not need an account with an AI provider, but you pay for usage.",
-          "Is Oracle really free? Yes, as long as the account stays within Always Free: 2 OCPUs and 12 GB on the Arm A1, plus the Micro instances. An instance that sits idle for 7 days, with CPU (95th percentile) and network below 20% and, on the A1, memory too, can be reclaimed by Oracle.",
+          "Is Oracle really free? It can be, within the Always Free limits and regional availability. Oracle may reclaim an idle instance when, over seven days, CPU at the 95th percentile and network both stay below 20%; on A1, memory below 20% is an additional condition. See the resources and conditions above.",
           "Mac mini or VPS? It depends on whether the computer can stay on 24 hours. If it can, running at home removes the server fee; if it cannot, choose a VPS or the managed option.",
-          "Is there a Hostinger discount coupon for an OpenClaw VPS? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
-          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+          "Is there a Hostinger discount coupon for an OpenClaw VPS? SONAR20: 20% off the first period of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%, except domain registration. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -111768,7 +111768,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+      "text": "SONAR20: 20% off the first period of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111950,7 +111950,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Sinnvoll nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
         ],
         "postParagraphs": [
-          "Der Code SONAR20 gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. [So nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen. Hostinger hat Black Friday, und die Preise ändern sich: [sehen Sie sich die Aktion an](/de/reviews/hostinger-black-friday-angebote)."
+          "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen. Die Schritte stehen unter [So nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Aktionsdetails unter [sehen Sie sich die Aktion an](/de/reviews/hostinger-black-friday-angebote)."
         ]
       },
       {
@@ -112028,7 +112028,7 @@ export const reviewsData: unknown[] = [
         "heading": "Gutschein SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für neue oder bestehende Kunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen, denn der Black Friday ändert die Preise. Lesen Sie [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Seite von Hostinger auf der Website](/de/coupons/hostinger)."
+          "**SONAR20**: **20 % im ersten Zeitraum** eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen. Die Schritte stehen unter [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Bedingungen unter [die Seite von Hostinger auf der Website](/de/coupons/hostinger)."
         ]
       },
       {
@@ -112036,10 +112036,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Festplatte; die stabile Version verlangt Node 24.22.1 oder neuer (oder 26.12.1). Mit API-Schlüssel oder Guthaben ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell gilt die Untergrenze von 8 GiB nur für das kleinste Rezept, und der KVM 4 ist dafür der erste mit Reserve.",
           "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
-          "Ist Oracle wirklich kostenlos? Ja, solange das Konto bei Always Free bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang ungenutzt bleibt, mit CPU (95. Perzentil) und Netzwerk unter 20 % und, bei den A1, auch Speicher unter 20 %, kann von Oracle zurückgeholt werden.",
+          "Ist Oracle wirklich kostenlos? Das kann es sein, innerhalb der Always-Free-Grenzen (2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen) und je nach regionaler Verfügbarkeit. Eine Instanz, die 7 Tage lang ungenutzt bleibt, mit CPU (95. Perzentil) und Netzwerk unter 20 % und, bei den A1, auch Speicher unter 20 %, kann von Oracle zurückgeholt werden.",
           "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nein, wählen Sie VPS oder den verwalteten Weg.",
-          "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
-          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+          "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %, außer bei der Domainregistrierung. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -112052,7 +112052,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+      "text": "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112236,7 +112236,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 Go).** N'a de sens qu'avec un modèle local plus grand. La documentation ne dit pas combien de mémoire demande chaque grande recette."
         ],
         "postParagraphs": [
-          "Le code SONAR20 donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. [Voyez comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et vérifiez le montant dans le panier avant de payer. Hostinger est en Black Friday, et les prix changent : [voyez la campagne](/fr/reviews/black-friday-hostinger-offres)."
+          "SONAR20 : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus ; vérifiez le forfait au panier. [Voyez comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et [voyez la campagne](/fr/reviews/black-friday-hostinger-offres)."
         ]
       },
       {
@@ -112314,7 +112314,7 @@ export const reviewsData: unknown[] = [
         "heading": "Code promo SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Vérifiez le montant dans le panier avant de payer, car le Black Friday change les prix. Voyez [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et [la page d'Hostinger sur le site](/fr/coupons/hostinger)."
+          "**SONAR20** : **20 % sur la première période** d'un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus ; vérifiez le forfait au panier. Consultez les étapes dans [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et les conditions sur [la page d'Hostinger sur le site](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -112322,10 +112322,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quel est le serveur minimum pour OpenClaw ? La documentation officielle ne publie ni minimum de RAM, de CPU ni de disque ; la version stable exige Node 24.22.1 ou plus récent (ou 26.12.1). Avec une clé d'API ou des crédits, le KVM 1 est le point de départ. Avec un modèle local, le plancher de 8 GiB ne vaut que pour la plus petite recette, et le KVM 4 est le premier avec de la marge pour elle.",
           "Peut-on s'en passer, sans clé d'API ? Oui, avec un modèle local, mais alors la mémoire devient le problème : la documentation donne 8 GiB comme plancher de sa plus petite recette locale, avec un contexte de 64K, et prévient que cela ne garantit ni que le modèle tienne, ni qu'il tourne bien. Avec les crédits de Hostinger, vous n'avez pas besoin d'un compte chez un fournisseur d'IA, mais vous payez l'usage.",
-          "Oracle est-il vraiment gratuit ? Oui, tant que le compte reste dans l'Always Free : 2 OCPU et 12 Go sur les A1 Arm, plus les instances Micro. Une instance inactive pendant 7 jours, avec CPU (95e centile) et réseau sous 20 % et, sur les A1, mémoire aussi, peut être récupérée par Oracle.",
+          "Oracle est-il vraiment gratuit ? Cela peut l'être, dans les limites Always Free (2 OCPU et 12 Go sur les A1 Arm, plus les instances Micro) et selon la disponibilité régionale. Une instance inactive pendant 7 jours, avec CPU (95e centile) et réseau sous 20 % et, sur les A1, mémoire aussi, peut être récupérée par Oracle.",
           "Mac mini ou VPS ? Cela dépend de la possibilité de laisser l'ordinateur allumé 24 heures sur 24. Si c'est possible, tourner chez soi supprime la mensualité du serveur ; sinon, choisissez un VPS ou l'offre gérée.",
-          "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
-          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+          "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? SONAR20 : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus ; vérifiez le forfait au panier.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %, sauf l'enregistrement de domaine. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -112338,7 +112338,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+      "text": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus ; vérifiez le forfait au panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112521,7 +112521,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Tiene sentido solo con un modelo local más grande. La documentación no dice cuánta memoria pide cada receta grande."
         ],
         "postParagraphs": [
-          "El código SONAR20 da un 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. [Mira cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y confirma el importe en el carrito antes de pagar. Hostinger está en Black Friday y los precios cambian: [mira la campaña](/es/reviews/black-friday-hostinger-ofertas)."
+          "SONAR20: 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; revisa el plan en el carrito. [Mira cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y [mira la campaña](/es/reviews/black-friday-hostinger-ofertas)."
         ]
       },
       {
@@ -112599,7 +112599,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupón SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para clientes nuevos o antiguos. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Confirma el importe en el carrito antes de pagar, porque la Black Friday cambia los precios. Mira [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y [la página de Hostinger en el sitio](/es/coupons/hostinger)."
+          "**SONAR20**: **20% en el primer período** de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; revisa el plan en el carrito. Consulta los pasos en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y las condiciones en [la página de Hostinger en el sitio](/es/coupons/hostinger)."
         ]
       },
       {
@@ -112607,10 +112607,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Cuál es el servidor mínimo para OpenClaw? La documentación oficial no publica mínimos de RAM, CPU ni disco; en la versión estable exige Node 24.22.1 o más reciente (o 26.12.1). Con clave de API o créditos, el KVM 1 es el punto de partida. Con modelo local, el piso de 8 GiB vale solo para la receta más pequeña, y el KVM 4 es el primero con margen para ella.",
           "¿Se puede usar sin clave de API? Sí, con un modelo local, pero entonces la memoria es el problema: la documentación da 8 GiB como piso de su receta local más pequeña, con un contexto de 64K, y advierte de que eso no garantiza que el modelo quepa ni que funcione bien. Con los créditos de Hostinger no necesitas una cuenta en un proveedor de IA, pero pagas por el uso.",
-          "¿Oracle es gratis de verdad? Sí, mientras la cuenta siga en Always Free: 2 OCPU y 12 GB en las A1 Arm, más las instancias Micro. Una instancia inactiva durante 7 días, con CPU (percentil 95) y red por debajo del 20% y, en las A1, también la memoria, puede ser recuperada por Oracle.",
+          "¿Oracle es gratis de verdad? Puede serlo dentro de los límites de Always Free (2 OCPU y 12 GB en las A1 Arm, más las instancias Micro) y según la disponibilidad regional. Una instancia inactiva durante 7 días, con CPU (percentil 95) y red por debajo del 20% y, en las A1, también la memoria, puede ser recuperada por Oracle.",
           "¿Mac mini o VPS? Depende de si la computadora puede quedar encendida las 24 horas. Si puede, correrlo en casa elimina la mensualidad del servidor; si no puede, elige VPS o gestionado.",
-          "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da un 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+          "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? SONAR20: 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; revisa el plan en el carrito.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %, salvo el registro de dominio. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -112623,7 +112623,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+      "text": "SONAR20: 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; revisa el plan en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112820,7 +112820,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Faz sentido só com um modelo local maior. A documentação não diz quanta memória cada receita grande pede."
         ],
         "postParagraphs": [
-          "O código SONAR20 dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. [Veja como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e confira o valor no carrinho antes de pagar. A Hostinger está em Black Friday, e os preços mudam: [veja a campanha](/reviews/black-friday-hostinger)."
+          "SONAR20: 20% no primeiro período de compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora; confira o plano no carrinho. [Veja como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e [veja a campanha](/reviews/black-friday-hostinger)."
         ]
       },
       {
@@ -112900,7 +112900,7 @@ export const reviewsData: unknown[] = [
           "Preços de 21/10/2026, em plano de 24 meses, já com os 20% do SONAR20: gerenciado R$ 19,99/mês; VPS KVM 1 R$ 23,99/mês; VPS KVM 2 R$ 34,39/mês. Na renovação, o gerenciado e o KVM 1 vão a R$ 59,99/mês, e o KVM 2 a R$ 77,99/mês, sem o desconto do SONAR20."
         ],
         "postParagraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Confira o valor no carrinho antes de pagar, porque a Black Friday muda preços. Veja [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e [a página da Hostinger no site](/cupons/hostinger)."
+          "**SONAR20**: **20% no primeiro período** de compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora; confira o plano no carrinho. Veja o passo a passo em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e as condições em [a página da Hostinger no site](/cupons/hostinger)."
         ]
       },
       {
@@ -112908,10 +112908,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o mínimo de servidor para o OpenClaw? A documentação oficial não publica RAM, CPU nem disco mínimos; na versão estável, ela exige Node 24.22.1 ou mais recente (ou 26.12.1). Com chave de API ou créditos, o KVM 1 é o ponto de partida. Com modelo local, o piso de 8 GiB vale só para a menor receita, e o KVM 4 é o primeiro com folga para ela.",
           "Dá para rodar sem chave de API? Dá, com modelo local, mas aí a memória vira o problema: a documentação dá 8 GiB como piso da menor receita local, com contexto de 64K, e avisa que isso não garante que o modelo caiba nem que rode bem. Com os créditos da Hostinger, você não precisa de conta num provedor de IA, mas paga pelo uso.",
-          "Oracle é de graça mesmo? É, enquanto a conta seguir o Always Free: 2 OCPUs e 12 GB no Arm A1, mais as instâncias Micro. Uma instância que fica ociosa por 7 dias, com CPU (percentil 95) e rede abaixo de 20% e, nas A1, também a memória, pode ser recuperada pela Oracle.",
+          "Oracle é de graça mesmo? Pode ser, dentro dos limites do Always Free e da disponibilidade da região. A Oracle pode recuperar uma instância ociosa quando, em sete dias, o uso de CPU no percentil 95 e o de rede ficam abaixo de 20%; nas A1, o uso de memória abaixo de 20% também entra no critério. Veja os recursos e as condições acima.",
           "Mac mini ou VPS? Depende de o computador poder ficar ligado 24 horas. Se pode, rodar em casa tira a mensalidade do servidor; se não pode, escolha VPS ou gerenciado.",
-          "Tem cupom de desconto da Hostinger para VPS do OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+          "Tem cupom de desconto da Hostinger para VPS do OpenClaw? SONAR20: 20% no primeiro período de compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora; confira o plano no carrinho.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%, salvo registro de domínio. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -112935,7 +112935,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+      "text": "SONAR20: 20% no primeiro período de compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora; confira o plano no carrinho.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113106,7 +113106,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Ha senso solo con un modello locale più grande. La documentazione non dice quanta memoria richieda ogni ricetta grande."
         ],
         "postParagraphs": [
-          "Il codice SONAR20 dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. [Vedi come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e controlla l'importo nel carrello prima di pagare. Hostinger è in Black Friday e i prezzi cambiano: [vedi la campagna](/it/reviews/black-friday-hostinger-offerte)."
+          "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi; controlla il piano nel carrello. [Vedi come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e [vedi la campagna](/it/reviews/black-friday-hostinger-offerte)."
         ]
       },
       {
@@ -113184,7 +113184,7 @@ export const reviewsData: unknown[] = [
         "heading": "Coupon SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Controlla l'importo nel carrello prima di pagare, perché il Black Friday cambia i prezzi. Vedi [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
+          "**SONAR20**: **20% sul primo periodo** di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi; controlla il piano nel carrello. Trovi i passaggi in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e le condizioni in [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
         ]
       },
       {
@@ -113192,10 +113192,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual è il server minimo per OpenClaw? La documentazione ufficiale non pubblica minimi di RAM, CPU o disco; nella versione stabile richiede Node 24.22.1 o più recente (oppure 26.12.1). Con chiave API o crediti, il KVM 1 è il punto di partenza. Con modello locale, il minimo di 8 GiB vale solo per la ricetta più piccola, e il KVM 4 è il primo con margine per quella.",
           "Si può usare senza chiave API? Sì, con un modello locale, ma allora la memoria diventa il problema: la documentazione indica 8 GiB come minimo per la ricetta locale più piccola, con contesto da 64K, e avverte che non garantisce né che il modello ci stia, né che giri bene. Con i crediti di Hostinger non ti serve un account presso un fornitore di IA, ma paghi in base all'uso.",
-          "Oracle è davvero gratis? Sì, finché l'account resta nell'Always Free: 2 OCPU e 12 GB sulle A1 Arm, più le istanze Micro. Un'istanza inattiva per 7 giorni, con CPU (95° percentile) e rete sotto il 20% e, sulle A1, anche la memoria, può essere recuperata da Oracle.",
+          "Oracle è davvero gratis? Può esserlo nei limiti dell'Always Free (2 OCPU e 12 GB sulle A1 Arm, più le istanze Micro) e secondo la disponibilità regionale. Un'istanza inattiva per 7 giorni, con CPU (95° percentile) e rete sotto il 20% e, sulle A1, anche la memoria, può essere recuperata da Oracle.",
           "Mac mini o VPS? Dipende dal fatto che il computer possa restare acceso 24 ore. Se può, farlo girare a casa toglie il canone del server; se non può, scegli VPS o gestito.",
-          "Esiste un coupon sconto di Hostinger per un VPS OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
-          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+          "Esiste un coupon sconto di Hostinger per un VPS OpenClaw? SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi; controlla il piano nel carrello.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%, salvo la registrazione di dominio. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -113208,7 +113208,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+      "text": "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi; controlla il piano nel carrello.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147088,7 +147088,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador. Veja os três caminhos, o preço de renovação e o que checar antes de pagar.",
-    "metaDescription": "Comprar o domínio na Hostinger, registrar fora e apontar, ou transferir? Preço do .com.br e do .com com a renovação ao lado, regra dos 60 dias, quem é o dono e a checklist antes de pagar.",
+    "metaDescription": "SONAR20 dá 20% na hospedagem nova da Hostinger; no domínio avulso não vale. Compare renovação, controle, elegibilidade e bloqueios antes de pagar.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -147102,20 +147102,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com 60 dias desde o registro ou a última transferência."
+          "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio elegível (genéricos: 60 dias desde o registro ou a última transferência)."
         ]
       },
       {
-        "heading": "Domínio e hospedagem são duas contas",
+        "heading": "Domínio e hospedagem são serviços separados",
         "paragraphs": [
-          "Domínio e hospedagem são duas contas: o endereço (o nome que a pessoa digita) de um lado, o computador onde o site fica do outro. Você paga os dois separados, e eles não precisam estar na mesma empresa: o domínio registrado numa empresa pode apontar para a hospedagem de outra. A própria página da Hostinger diz que dá para apontar um domínio registrado nela para outra provedora de hospedagem.",
+          "Domínio é o endereço que a pessoa digita; hospedagem é o serviço em que o site fica. Podem ser contratados na mesma empresa ou em empresas diferentes. Registrar o domínio num lugar não obriga a hospedar o site ali: o DNS pode conectá-lo a outro serviço.",
           "Por isso a decisão não é \"Hostinger ou não\". É onde o registro do domínio fica, quanto custa renovar todo ano e o que acontece se um dia você trocar de hospedagem. O primeiro ano barato é o menos importante: o domínio renova enquanto o site existir."
         ]
       },
       {
         "heading": "Os três caminhos",
         "paragraphs": [
-          "Para o domínio há três caminhos, pelas páginas da Hostinger, e o que muda entre eles é quem cobra a renovação."
+          "O quadro compara três formas de organizar o registro: comprar na Hostinger, registrar fora e conectar, ou transferir um domínio existente. Além de quem cobra a renovação, mudam o painel, o procedimento e as condições para transferir."
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -147149,7 +147149,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Transferir para a Hostinger",
-              "Você já tem o domínio há mais de 60 dias e quer tudo num lugar só",
+              "Você já tem o domínio, quer centralizar a gestão e confirmou a elegibilidade da transferência para a extensão",
               "Preço de renovação da Hostinger a partir do ano seguinte",
               "Mesma regra do primeiro caminho",
               "Você; os dados de propriedade não mudam na transferência"
@@ -147206,13 +147206,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Transferir: a regra dos 60 dias e o passo a passo",
+        "heading": "Transferir: 60 dias, elegibilidade e passo a passo",
         "paragraphs": [
           "Transferir é mudar o registro do domínio de uma empresa para outra. A página de transferência da Hostinger diz que ela move só o registro: site e e-mail ficam no provedor atual e continuam funcionando se você mantiver os nameservers atuais. Se escolher os da Hostinger, o que usa o DNS em outros provedores pode parar até você atualizar os registros. Os dados de propriedade não mudam. O que muda é quem cobra a renovação e onde você mexe no DNS.",
           "As regras, pela página da Hostinger:"
         ],
         "bullets": [
-          "**Idade do registro:** na maioria dos casos, o domínio precisa estar registrado há pelo menos 60 dias. Domínio novo na Hostinger também fica travado por 60 dias antes de poder sair. O prazo conta desde o registro ou a última transferência, e algumas extensões têm regras próprias.",
+          "**Elegibilidade:** confira as regras da extensão, a data do registro ou da última transferência e os bloqueios. Domínio novo na Hostinger também fica travado por 60 dias antes de sair; passar desse prazo não garante sozinho a transferência.",
           "**Desbloqueio e código:** você destrava o domínio no painel do registrador atual e pega o código de autorização (EPP, ou código de transferência).",
           "**Confirmação:** depois de informar o código na Hostinger, chega um e-mail do registrador para confirmar. Sem a confirmação, a transferência não anda.",
           "**Prazo:** até sete dias; mais rápido se o registrador atual liberar logo e você confirmar o e-mail na hora.",
@@ -147220,7 +147220,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O passo a passo da página é o dos domínios genéricos, como o .com. O .com.br é administrado pelo Registro.br, e a Hostinger aparece como registrador credenciado para ele; antes de pedir o código de um .com.br, confira o procedimento no suporte da Hostinger, porque a transferência do .br tem caminho próprio.",
-          "Transferir para fora da Hostinger segue a mesma lógica ao contrário: 60 dias de registro, destravar no painel da Hostinger, pegar o código e confirmar no e-mail. A transferência que dá certo não tem reembolso; veja [as regras de reembolso e renovação da Hostinger](/reviews/hostinger-e-confiavel)."
+          "Para transferir para fora, confirme as regras da extensão e os bloqueios atuais; obtenha desbloqueio, código e confirmação quando o procedimento exigir. Uma transferência concluída não recebe reembolso padrão. Veja [as regras de reembolso e renovação da Hostinger](/reviews/hostinger-e-confiavel)."
         ]
       },
       {
@@ -147230,7 +147230,7 @@ export const reviewsData: unknown[] = [
           "Três cuidados mantêm o domínio seu:"
         ],
         "bullets": [
-          "**A conta:** o domínio pertence à conta da Hostinger em que foi comprado. Use um e-mail que você controla, não o de um freelancer ou de uma agência. Quem registra no nome de outra pessoa depende dela para transferir depois.",
+          "**Titularidade e acesso:** confirme em nome de quem o domínio será registrado e quem controla a conta de gestão. Use um e-mail de recuperação que você controla. Se uma pessoa ou agência fizer o trabalho, combine acesso e titularidade antes do registro; não são a mesma coisa.",
           "**A renovação:** a Hostinger recomenda deixar a renovação automática ligada. Domínio vencido derruba o site e o e-mail. Renovação de domínio não tem reembolso, então o cartão da conta precisa estar em dia.",
           "**O reembolso do registro:** um registro novo só pode ser devolvido em 96 horas, nas extensões que aceitam reembolso (várias extensões de país não aceitam); o .br, o .com.br e o .net.br, em 168 horas. Depois disso, o domínio é seu até o fim do prazo pago, sem devolução."
         ]
@@ -147240,7 +147240,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Veja a coluna da renovação, não só o primeiro ano. O domínio renova todo ano enquanto o site existir.",
           "No prazo de 3 anos, confira no carrinho o total dos três anos: a página mostra só o primeiro.",
-          "Se vai transferir, confira a data do registro e a da última transferência: menos de 60 dias, a transferência não começa.",
+          "Antes de transferir, confira extensão, datas, bloqueios e procedimento do registrador de origem e de destino; a idade do registro não é a única condição.",
           "Compre na conta que vai ser sua, com um e-mail seu e a renovação automática ligada.",
           "Para .com.br, confira o caminho próprio da transferência do .br no suporte da Hostinger antes de comprar, se a ideia é sair um dia.",
           "Se o domínio veio com o plano de hospedagem, anote o preço de renovação do segundo ano: ele aparece antes de comprar.",
@@ -147250,12 +147250,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual caminho escolher",
         "paragraphs": [
-          "**Compre na Hostinger** se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel. O .com.br renova a R$ 64,99 por ano e o .com a R$ 94,99, valores iguais ao primeiro ano cheio, sem salto no segundo ano.",
-          "**Compre fora e aponte** se já tem domínio em outro registrador, se prefere separar as contas, ou se o preço de renovação de lá for menor: o Registro.br anuncia o .com.br a R$ 40 por ano. Apontar o DNS é um ajuste no painel, e o site funciona do mesmo jeito.",
-          "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Nas extensões em que a transferência soma um ano ao registro, ela não é dinheiro perdido.",
-          "Na dúvida, não transfira: aponte o domínio e deixe o registro onde está. Dá para transferir depois, e o site não para."
+          "**Eu compraria na Hostinger** se o painel único fosse uma vantagem para a minha rotina e a renovação estivesse dentro do orçamento. Confiro o preço de renovação antes de pagar.",
+          "**Eu manteria fora e conectaria o DNS** se já tivesse o domínio ou preferisse separar os serviços. Antes de alterar a configuração, conferiria os registros usados pelo site e pelo e-mail.",
+          "**Eu transferiria o registro** apenas depois de confirmar elegibilidade da extensão, bloqueios, custo e efeito no prazo de validade. Compare esse conjunto com o preço que paga hoje; incluir um ano não transforma toda transferência em economia.",
+          "Se a dúvida é somente onde hospedar o site, comece avaliando a conexão sem transferência. Planeje qualquer alteração de DNS sem presumir que um desses caminhos garanta continuidade."
         ],
-        "emphasis": "Se fosse para o meu site, eu levaria o registro junto da hospedagem, porque domínio e renovação ficam no mesmo painel."
+        "emphasis": "Para a minha rotina, eu preferiria reunir registro e hospedagem no mesmo painel, desde que renovação e controle do domínio fossem adequados. É uma preferência de organização, não uma vantagem de preço garantida."
       },
       {
         "heading": "Cupom SONAR20 e preço",
@@ -147267,10 +147267,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quanto custa o domínio na Hostinger? O .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
-          "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro ou a última transferência.",
+          "Posso trocar de hospedagem sem perder o domínio? Você pode manter o registro onde está e conectar a nova hospedagem por DNS, sem transferir o domínio. Confira os registros usados pelo site e pelo e-mail antes da mudança.",
           "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
           "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
-          "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro ou da última transferência: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso.",
+          "Dá para transferir o domínio da Hostinger para outro registrador? Depende da elegibilidade da extensão e dos bloqueios aplicáveis. Confira o procedimento e, quando exigido, desbloqueie, obtenha o código e confirme a solicitação. Uma transferência concluída não recebe reembolso padrão.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
@@ -147284,18 +147284,18 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve o domínio na Hostinger se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel.",
-        "Leve a transferência só se o domínio tem mais de 60 dias de registro ou da última transferência e a renovação na Hostinger compensa o que você paga hoje."
+        "Leve a transferência só se o domínio cumpre os requisitos da extensão (em genéricos, 60 dias ou mais desde o registro ou a última transferência, sem bloqueios) e a renovação na Hostinger compensa o que você paga hoje."
       ],
       "skipIf": [
         "Passe se já tem domínio em outro registrador, prefere separar as contas ou a renovação de lá é menor: aponte o DNS e deixe o registro onde está.",
-        "Passe da transferência se o registro ou a última transferência tem menos de 60 dias: ela não começa.",
+        "Passe da transferência se a extensão ou um bloqueio atual impede o processo, ou se ainda não confirmou a elegibilidade.",
         "Passe se o domínio ficaria no nome ou na conta de um freelancer ou de uma agência: use um e-mail que você controla."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. No domínio avulso, o código não vale.",
+      "text": "Se também vai contratar hospedagem, veja os planos e use SONAR20: 20% no primeiro período elegível de compra nova, sem desconto na renovação. O código não vale no domínio avulso; compare o registro e sua renovação separadamente.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147348,7 +147348,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger domain: the three paths (buy it there, buy elsewhere and point it, or transfer) and what to check before you pay.",
-    "metaDescription": "Buy the domain at Hostinger, register it elsewhere and point it, or transfer it? The 60-day rule, who owns it and the checklist before you pay.",
+    "metaDescription": "Buy a domain at Hostinger, register elsewhere and connect, or transfer? Compare renewal, control, eligibility and transfer locks before paying.",
     "publishedAt": "October 28, 2026",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -147363,20 +147363,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The domain is a separate account from the hosting: it can stay at Hostinger or at another registrar, and the site works either way. Choose by the renewal price and by how easy it is to leave, not by the first year. Buy at Hostinger if you want everything in one panel, and transfer only a domain registered or transferred at least 60 days ago."
+          "The domain is a separate account from the hosting: it can stay at Hostinger or elsewhere, and the site works either way. Choose by the renewal price and by how easy it is to leave, not by the first year. Buy at Hostinger if you want everything in one panel, and transfer only eligible domains (generic extensions: at least 60 days since registration or the last transfer)."
         ]
       },
       {
-        "heading": "Domain and hosting are two accounts",
+        "heading": "Domain registration and hosting are separate services",
         "paragraphs": [
-          "Domain and hosting are two accounts: the address (the name people type) on one side, the computer where the site lives on the other. You pay for the two separately, and they do not have to be at the same company: a domain registered with one company can point to another company's hosting. Hostinger's own page says a domain registered with it can be pointed to another hosting provider.",
+          "The domain is the address people enter; hosting is the service where the website runs. You can buy them from the same company or different providers. Registering a domain in one place does not require hosting the site there: DNS can connect it to another service.",
           "So the decision is not \"Hostinger or not\". It is where the domain registration sits, how much it costs to renew every year and what happens if you ever change hosting. The cheap first year matters least: the domain renews for as long as the site exists."
         ]
       },
       {
         "heading": "The three paths",
         "paragraphs": [
-          "There are three paths for the domain, according to Hostinger's pages, and what changes between them is who charges the renewal."
+          "The table compares three ways to organize registration: buy at Hostinger, register elsewhere and connect, or transfer an existing domain. The billing provider is one difference; the panel, process and transfer conditions matter too."
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -147410,7 +147410,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Transfer to Hostinger",
-              "You have had the domain for more than 60 days and want everything in one place",
+              "You already own the domain, want centralized management and have confirmed transfer eligibility for its extension",
               "Hostinger's renewal price from the following year",
               "Same rule as the first path",
               "You; the ownership data does not change in the transfer"
@@ -147428,20 +147428,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Transferring: the 60-day rule and the steps",
+        "heading": "Transferring: 60 days, eligibility and the steps",
         "paragraphs": [
           "Transferring means moving the domain registration from one company to another. Hostinger's transfer page says it moves only the registration: the site and email stay with the current provider and keep working if you keep the current nameservers. If you switch to Hostinger's, anything that relies on DNS at other providers may stop until you update the records. The ownership data does not change. What changes is who charges the renewal and where you edit the DNS.",
           "The rules, according to Hostinger's page:"
         ],
         "bullets": [
-          "**Age of the registration:** in most cases, the domain must have been registered for at least 60 days. A new domain at Hostinger is also locked for 60 days before it can leave. The count runs from registration or the last transfer, and some extensions have their own rules.",
+          "**Eligibility:** check the extension's rules, the registration or last-transfer date and transfer locks. A new domain at Hostinger is also locked for 60 days before it can leave; passing that period alone does not establish eligibility.",
           "**Unlock and code:** you unlock the domain in your current registrar's panel and get the authorization code (EPP, or transfer code).",
           "**Confirmation:** after you enter the code at Hostinger, an email arrives from the registrar asking you to confirm. Without the confirmation, the transfer does not move.",
           "**Timing:** up to seven days; faster if the current registrar releases it quickly and you confirm the email right away.",
           "**Price:** it is usually not free (it can be with an eligible hosting plan). If you add 1 year of renewal at checkout, it is added to the term you already had, but only on selected extensions; on some country-code extensions the expiry does not change."
         ],
         "postParagraphs": [
-          "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock it in Hostinger's panel, get the code and confirm by email. A completed transfer is not refundable; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
+          "To transfer out, check the extension's rules and current locks; obtain unlocking, a code and confirmation where the procedure requires them. A completed transfer is excluded from standard refunds. See [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
         ]
       },
       {
@@ -147451,16 +147451,16 @@ export const reviewsData: unknown[] = [
           "Three precautions keep the domain yours:"
         ],
         "bullets": [
-          "**The account:** the domain belongs to the Hostinger account where it was bought. Use an email you control, not a freelancer's or an agency's. Whoever registers in someone else's name depends on that person to transfer it later.",
+          "**Registration and access:** check whose name will appear on the registration and who controls the management account. Use a recovery email you control. If a person or agency does the work, agree on registration and access before buying; they are not the same thing.",
           "**The renewal:** Hostinger recommends leaving auto-renewal on. An expired domain takes down the site and the email. Domain renewal is not refundable, so the card on the account has to be up to date.",
-          "**The registration refund:** a new registration can only be refunded within 96 hours, and only on extensions that allow refunds (many country-code extensions do not). After that, the domain is yours until the end of the paid term, with no refund."
+          "**The registration refund:** a new registration can only be refunded within 96 hours, and only on extensions that allow refunds (many country-code extensions do not). For .com.br, .net.br and .br, the window is 168 hours (7 days). After that, the domain is yours until the end of the paid term, with no refund."
         ]
       },
       {
         "heading": "Checklist before you pay",
         "bullets": [
           "Look at the renewal column, not just the first year. The domain renews every year for as long as the site exists.",
-          "If you will transfer, check the registration date and the last transfer date: under 60 days, the transfer does not start.",
+          "Before transferring, check the extension, dates, locks and procedures at both registrars; registration age is not the only condition.",
           "Buy on the account that will be yours, with your own email and auto-renewal on.",
           "If the domain came with the hosting plan, write down the second-year renewal price: it is shown before you buy.",
           "SONAR20 gives 20% off the hosting plan; on a standalone domain, the code does not work."
@@ -147469,12 +147469,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Which path to choose",
         "paragraphs": [
-          "**Buy at Hostinger** if the site will be hosted there and you want domain, DNS and renewal in the same panel; check the renewal before you pay.",
-          "**Buy elsewhere and point it** if you already have a domain at another registrar, if you prefer to keep the accounts separate, or if the renewal price there is lower. Pointing the DNS is an adjustment in the panel, and the site works the same way.",
-          "**Transfer** only a domain with more than 60 days of registration and only if Hostinger's renewal is worth what you pay today. On extensions where the transfer adds a year of registration, it is not money lost.",
-          "When in doubt, do not transfer: point the domain and leave the registration where it is. You can transfer later, and the site does not stop."
+          "**I would buy at Hostinger** if a single panel made administration easier and renewal fitted the budget. Compare the applicable renewal before buying.",
+          "**I would keep the domain elsewhere and connect its DNS** if I already had it or preferred separate services. Before changing configuration, I would check the records used by both the website and email.",
+          "**I would transfer registration** only after checking the extension's eligibility, locks, cost and effect on expiry. Compare the full terms with what you pay now; an included year does not make every transfer a saving.",
+          "If the question is simply where to host the website, first compare connecting without transferring. Plan DNS changes rather than assuming either path guarantees uninterrupted service."
         ],
-        "emphasis": "If it were for my site, I would keep the registration together with the hosting, because domain and renewal stay in the same panel."
+        "emphasis": "For my routine, I would prefer registration and hosting in one panel if renewal and control of the domain suited my needs. That is an administration preference, not a guarantee of a lower price."
       },
       {
         "heading": "SONAR20 coupon and price",
@@ -147485,9 +147485,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Can I change hosting without losing the domain? Yes. The domain is yours and stays in the Hostinger account; you point the DNS to the new hosting or transfer the registration later, once 60 days have passed since registration or the last transfer.",
+          "Can I change hosting without losing the domain? You can keep the registration where it is and connect the new hosting through DNS, without transferring the domain. Check the website and email records before changing them.",
           "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
-          "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration or since the last transfer: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded.",
+          "Can I transfer a domain from Hostinger to another registrar? It depends on extension eligibility and applicable locks. Check the procedure and, where required, unlock it, obtain the code and confirm the request. A completed transfer is excluded from standard refunds.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
@@ -147501,7 +147501,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. On a standalone domain, the code does not work.",
+      "text": "If you also need hosting, compare the plans and use SONAR20 for 20% off the first eligible new-purchase term, with no renewal discount. It does not apply to a standalone domain; compare registration and renewal separately.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147523,11 +147523,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Take the domain at Hostinger if the site will be hosted there and you want domain, DNS and renewal in the same panel.",
-        "Take the transfer only if the domain has more than 60 days of registration or since the last transfer and Hostinger's renewal is worth what you pay today."
+        "Take the transfer only if the domain meets the extension's requirements (on generic extensions, at least 60 days since registration or the last transfer, with no transfer lock) and Hostinger's renewal is worth what you pay today."
       ],
       "skipIf": [
         "Skip it if you already have a domain at another registrar, prefer to keep the accounts separate or the renewal there is lower: point the DNS and leave the registration where it is.",
-        "Skip the transfer if the registration or last transfer is under 60 days old: it does not start.",
+        "Skip the transfer if the extension or a current lock prevents it, or if eligibility has not been confirmed.",
         "Skip it if the domain would be in the name or on the account of a freelancer or an agency: use an email you control."
       ]
     }
@@ -147565,7 +147565,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Dominio en Hostinger: los tres caminos (comprarlo ahí, comprarlo fuera y apuntarlo, o transferirlo) y qué revisar antes de pagar.",
-    "metaDescription": "¿Comprar el dominio en Hostinger, registrarlo fuera y apuntarlo, o transferirlo? La regla de los 60 días, quién es el dueño y la lista de revisión antes de pagar.",
+    "metaDescription": "¿Comprar un dominio en Hostinger, registrarlo fuera y conectarlo o transferirlo? Compara renovación, control del registro, elegibilidad y bloqueos antes de pagar.",
     "publishedAt": "28 de octubre de 2026",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -147580,20 +147580,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El dominio es una cuenta aparte del hosting: puede estar en Hostinger o en otro registrador, y el sitio funciona de las dos maneras. Elige por el precio de renovación y por lo fácil que sea salir, no por el primer año. Compra en Hostinger si quieres todo en un panel, y transfiere solo un dominio registrado o transferido hace 60 días o más."
+          "Puedes registrar el dominio en Hostinger o mantenerlo en otro registrador y conectarlo al alojamiento. Compara renovación, control del registro y trabajo para cambiar después. Si ya tienes dominio, alojar la web en Hostinger no exige transferirlo; comprueba la elegibilidad de la extensión antes de pedir una transferencia."
         ]
       },
       {
-        "heading": "Dominio y hosting son dos cuentas",
+        "heading": "Registro de dominio y alojamiento son servicios separados",
         "paragraphs": [
-          "Dominio y hosting son dos cuentas: la dirección (el nombre que la gente escribe) por un lado, el ordenador donde está el sitio por otro. Pagas las dos por separado y no tienen que estar en la misma empresa: el dominio registrado en una empresa puede apuntar al hosting de otra. La propia página de Hostinger dice que un dominio registrado en ella se puede apuntar a otro proveedor de hosting.",
+          "El dominio es la dirección que se escribe; el alojamiento es el servicio donde funciona la web. Puedes contratarlos con una empresa o con proveedores distintos. Registrar el dominio en un lugar no obliga a alojar allí la web: el DNS permite conectarlo con otro servicio.",
           "Por eso la decisión no es \"Hostinger o no\". Es dónde queda el registro del dominio, cuánto cuesta renovarlo cada año y qué pasa si algún día cambias de hosting. El primer año barato es lo menos importante: el dominio se renueva mientras exista el sitio."
         ]
       },
       {
         "heading": "Los tres caminos",
         "paragraphs": [
-          "Para el dominio hay tres caminos, según las páginas de Hostinger, y lo que cambia entre ellos es quién cobra la renovación."
+          "El cuadro compara tres formas de organizar el registro: comprar en Hostinger, registrar fuera y conectar, o transferir un dominio existente. Además de quién cobra la renovación, cambian el panel, el procedimiento y las condiciones de transferencia."
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -147627,7 +147627,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Transferir a Hostinger",
-              "Tienes el dominio desde hace más de 60 días y quieres todo en un solo lugar",
+              "Ya tienes el dominio, quieres centralizar la gestión y has confirmado que su extensión permite la transferencia",
               "Precio de renovación de Hostinger a partir del año siguiente",
               "Misma regla del primer camino",
               "Tú; los datos de propiedad no cambian en la transferencia"
@@ -147645,20 +147645,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Transferir: la regla de los 60 días y el paso a paso",
+        "heading": "Transferir: elegibilidad, bloqueos y pasos",
         "paragraphs": [
           "Transferir es cambiar el registro del dominio de una empresa a otra. La página de transferencia de Hostinger dice que solo mueve el registro: el sitio y el correo se quedan con el proveedor actual y siguen funcionando si mantienes los servidores de nombres actuales. Si eliges los de Hostinger, lo que dependa del DNS en otros proveedores puede dejar de funcionar hasta que actualices los registros. Los datos de propiedad no cambian. Lo que cambia es quién cobra la renovación y dónde gestionas el DNS.",
           "Las reglas, según la página de Hostinger:"
         ],
         "bullets": [
-          "**Antigüedad del registro:** en la mayoría de los casos, el dominio debe llevar registrado al menos 60 días. Un dominio nuevo en Hostinger también queda bloqueado 60 días antes de poder salir. El plazo cuenta desde el registro o la última transferencia, y algunas extensiones tienen reglas propias.",
+          "**Elegibilidad:** comprueba las reglas de la extensión, la fecha de registro o de la última transferencia y los bloqueos. Un dominio nuevo en Hostinger también queda bloqueado 60 días antes de salir; superar ese plazo no garantiza por sí solo la transferencia.",
           "**Desbloqueo y código:** desbloqueas el dominio en el panel del registrador actual y obtienes el código de autorización (EPP, o código de transferencia).",
           "**Confirmación:** después de introducir el código en Hostinger, llega un correo del registrador para confirmar. Sin la confirmación, la transferencia no avanza.",
           "**Plazo:** hasta siete días; más rápido si el registrador actual lo libera pronto y confirmas el correo enseguida.",
           "**Precio:** normalmente no es gratis (puede serlo con un plan de hosting elegible). Si añades 1 año de renovación al pagar, se suma al plazo que ya tenías, pero solo en extensiones seleccionadas; en algunas extensiones de país, el vencimiento no cambia."
         ],
         "postParagraphs": [
-          "Transferir fuera de Hostinger sigue la misma lógica al revés: 60 días de registro, desbloquear en el panel de Hostinger, obtener el código y confirmar por correo. La transferencia que sale bien no tiene reembolso; mira [las reglas de reembolso y renovación de Hostinger](/es/reviews/hostinger-es-confiable)."
+          "Para salir, comprueba reglas de la extensión y bloqueos actuales; obtén desbloqueo, código y confirmación cuando el procedimiento los requiera. Una transferencia completada queda fuera del reembolso estándar. Consulta [las reglas de reembolso y renovación de Hostinger](/es/reviews/hostinger-es-confiable)."
         ]
       },
       {
@@ -147668,7 +147668,7 @@ export const reviewsData: unknown[] = [
           "Tres cuidados mantienen el dominio tuyo:"
         ],
         "bullets": [
-          "**La cuenta:** el dominio pertenece a la cuenta de Hostinger en que se compró. Usa un correo que controles, no el de un freelancer ni el de una agencia. Quien registra a nombre de otra persona depende de ella para transferirlo después.",
+          "**Titularidad y acceso:** comprueba a nombre de quién se registrará el dominio y quién controla la cuenta de gestión. Usa un correo de recuperación que controles. Si una persona o agencia hace el trabajo, acuerda titularidad y acceso antes de registrar; no son lo mismo.",
           "**La renovación:** Hostinger recomienda dejar la renovación automática activada. Un dominio caducado deja sin servicio el sitio y el correo. La renovación de un dominio no tiene reembolso, así que la tarjeta de la cuenta tiene que estar al día.",
           "**El reembolso del registro:** un registro nuevo solo se puede devolver en 96 horas, y solo en las extensiones que admiten reembolso (muchas extensiones de país no lo admiten). Pasado ese plazo, el dominio es tuyo hasta el final del período pagado, sin devolución."
         ]
@@ -147677,7 +147677,7 @@ export const reviewsData: unknown[] = [
         "heading": "Lista de revisión antes de pagar",
         "bullets": [
           "Mira la columna de la renovación, no solo el primer año. El dominio se renueva cada año mientras exista el sitio.",
-          "Si vas a transferir, revisa la fecha del registro y la de la última transferencia: con menos de 60 días, la transferencia no empieza.",
+          "Antes de transferir, revisa la extensión, las fechas, los bloqueos y el procedimiento en ambos registradores; la antigüedad no es la única condición.",
           "Compra en la cuenta que va a ser tuya, con un correo tuyo y la renovación automática activada.",
           "Si el dominio vino con el plan de hosting, anota el precio de renovación del segundo año: aparece antes de comprar.",
           "SONAR20 da 20% en el plan de hosting; en el dominio suelto, el código no vale."
@@ -147686,12 +147686,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué camino elegir",
         "paragraphs": [
-          "**Compra en Hostinger** si el sitio va a estar alojado ahí y quieres dominio, DNS y renovación en el mismo panel; revisa la renovación antes de pagar.",
-          "**Compra fuera y apunta** si ya tienes un dominio en otro registrador, si prefieres separar las cuentas, o si el precio de renovación de allá es menor. Apuntar el DNS es un ajuste en el panel, y el sitio funciona igual.",
-          "**Transfiere** solo un dominio con más de 60 días de registro y solo si la renovación en Hostinger compensa lo que pagas hoy. En las extensiones donde la transferencia suma un año de registro, no es dinero perdido.",
-          "Ante la duda, no transfieras: apunta el dominio y deja el registro donde está. Se puede transferir después, y el sitio no se detiene."
+          "**Compraría en Hostinger** si un panel único facilitara la gestión y la renovación encajara en mi presupuesto. Compararía la tarifa aplicable antes de pagar.",
+          "**Mantendría el dominio fuera y conectaría el DNS** si ya lo tuviera o prefiriera separar los servicios. Antes de cambiar la configuración, revisaría los registros de la web y del correo.",
+          "**Transferiría el registro** solo después de comprobar elegibilidad, bloqueos, costo y efecto en la fecha de caducidad. Compara todo con lo que pagas ahora; incluir un año no convierte cualquier transferencia en ahorro.",
+          "Si la duda es solo dónde alojar la web, compara primero la conexión sin transferencia. Planifica los cambios de DNS, sin suponer continuidad garantizada por elegir un camino."
         ],
-        "emphasis": "Si fuera para mi sitio, llevaría el registro junto con el hosting, porque dominio y renovación quedan en el mismo panel."
+        "emphasis": "Para mi organización, preferiría registro y alojamiento en un panel si la renovación y el control del dominio me convinieran. Es una preferencia de gestión, no una garantía de menor precio."
       },
       {
         "heading": "Cupón SONAR20 y precio",
@@ -147702,9 +147702,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Puedo cambiar de hosting sin perder el dominio? Sí. El dominio es tuyo y queda en la cuenta de Hostinger; apuntas el DNS al nuevo hosting o transfieres el registro después, respetando los 60 días desde el registro o la última transferencia.",
+          "¿Puedo cambiar de hosting sin perder el dominio? Puedes mantener el registro donde está y conectar el nuevo hosting mediante DNS, sin transferir el dominio. Comprueba los registros del sitio y del correo antes de cambiarlos.",
           "¿Necesito un dominio para tener correo? Sí. Para una dirección como tu@tuempresa.com, el dominio tiene que existir; el hosting no es obligatorio, y Hostinger dice que se puede usar el dominio solo para correo o para redirigir a otro sitio.",
-          "¿Se puede transferir el dominio de Hostinger a otro registrador? Sí, después de 60 días del registro o de la última transferencia: desbloqueas el dominio en el panel, obtienes el código de autorización y confirmas por correo en el nuevo registrador. La transferencia que sale bien no tiene reembolso.",
+          "¿Puedo transferir un dominio de Hostinger a otro registrador? Depende de la elegibilidad de la extensión y de los bloqueos aplicables. Comprueba el procedimiento y, cuando corresponda, desbloquea, obtén el código y confirma la solicitud. Una transferencia completada queda fuera del reembolso estándar.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
@@ -147718,7 +147718,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. En el dominio suelto, el código no vale.",
+      "text": "Si también necesitas alojamiento, compara los planes y usa SONAR20: 20 % en el primer periodo elegible de una compra nueva, sin descuento en la renovación. No se aplica al dominio suelto; compara registro y renovación por separado.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147740,11 +147740,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Lleva el dominio en Hostinger si el sitio va a estar alojado ahí y quieres dominio, DNS y renovación en el mismo panel.",
-        "Lleva la transferencia solo si el dominio tiene más de 60 días de registro o desde la última transferencia y la renovación en Hostinger compensa lo que pagas hoy."
+        "Transfiere si la extensión y los bloqueos lo permiten y el costo y las condiciones de renovación justifican el cambio."
       ],
       "skipIf": [
         "Pasa si ya tienes un dominio en otro registrador, prefieres separar las cuentas o la renovación de allá es menor: apunta el DNS y deja el registro donde está.",
-        "Pasa de la transferencia si el registro o la última transferencia tiene menos de 60 días: no empieza.",
+        "Descarta la transferencia si la extensión o un bloqueo actual la impiden, o si no has confirmado la elegibilidad.",
         "Pasa si el dominio quedaría a nombre o en la cuenta de un freelancer o de una agencia: usa un correo que controles."
       ]
     }
@@ -147782,7 +147782,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Domaine chez Hostinger : les trois voies (l'acheter là, l'acheter ailleurs et le pointer, ou le transférer) et ce qu'il faut vérifier avant de payer.",
-    "metaDescription": "Acheter le domaine chez Hostinger, l'enregistrer ailleurs et le pointer, ou le transférer ? La règle des 60 jours, qui en est propriétaire et la liste de vérifications avant de payer.",
+    "metaDescription": "Acheter un domaine chez Hostinger, l’enregistrer ailleurs et le connecter, ou le transférer ? Comparez renouvellement, contrôle, éligibilité et verrouillages avant de payer.",
     "publishedAt": "28 octobre 2026",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -147797,20 +147797,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le domaine est un compte distinct de l'hébergement : il peut rester chez Hostinger ou chez un autre registrar, et le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité à partir, pas selon la première année. Achetez chez Hostinger si vous voulez tout dans un seul panneau, et ne transférez qu'un domaine enregistré ou transféré depuis 60 jours au moins."
+          "Vous pouvez enregistrer le domaine chez Hostinger ou le garder chez un autre registrar et le connecter à l’hébergement. Comparez renouvellement, contrôle de l’enregistrement et travail d’un changement ultérieur. Un domaine existant n’a pas besoin d’être transféré pour utiliser l’hébergement Hostinger ; vérifiez l’éligibilité de l’extension avant tout transfert."
         ]
       },
       {
-        "heading": "Domaine et hébergement sont deux comptes",
+        "heading": "Domaine et hébergement sont des services distincts",
         "paragraphs": [
-          "Domaine et hébergement sont deux comptes : l'adresse (le nom que les gens tapent) d'un côté, l'ordinateur où vit le site de l'autre. Vous payez les deux séparément, et ils n'ont pas à être chez la même entreprise : un domaine enregistré chez une entreprise peut pointer vers l'hébergement d'une autre. La page de Hostinger elle-même dit qu'un domaine enregistré chez elle peut être pointé vers un autre hébergeur.",
+          "Le domaine est l’adresse saisie ; l’hébergement est le service où fonctionne le site. Vous pouvez les acheter auprès d’une même entreprise ou de fournisseurs différents. Enregistrer le domaine à un endroit n’impose pas d’y héberger le site : le DNS peut le connecter à un autre service.",
           "La décision n'est donc pas « Hostinger ou non ». C'est l'endroit où se trouve l'enregistrement du domaine, ce que coûte son renouvellement chaque année et ce qui se passe si vous changez un jour d'hébergement. La première année bon marché est ce qui compte le moins : le domaine se renouvelle tant que le site existe."
         ]
       },
       {
         "heading": "Les trois voies",
         "paragraphs": [
-          "Il y a trois voies pour le domaine, d'après les pages de Hostinger, et ce qui change de l'une à l'autre, c'est qui facture le renouvellement."
+          "Le tableau compare trois organisations : acheter chez Hostinger, enregistrer ailleurs et connecter, ou transférer un domaine existant. Le fournisseur qui facture le renouvellement est une différence ; le panneau, la procédure et les conditions de transfert comptent aussi."
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -147844,7 +147844,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Transférer vers Hostinger",
-              "Vous avez le domaine depuis plus de 60 jours et voulez tout au même endroit",
+              "Vous possédez déjà le domaine, souhaitez centraliser sa gestion et avez confirmé l’éligibilité au transfert de son extension",
               "Prix de renouvellement de Hostinger à partir de l'année suivante",
               "Même règle que la première voie",
               "Vous ; les données de propriété ne changent pas lors du transfert"
@@ -147862,20 +147862,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Transférer : la règle des 60 jours et la marche à suivre",
+        "heading": "Transférer : éligibilité, verrouillages et étapes",
         "paragraphs": [
           "Transférer, c'est changer l'enregistrement du domaine d'une entreprise à une autre. La page de transfert de Hostinger dit qu'il ne déplace que l'enregistrement : le site et la messagerie restent chez le prestataire actuel et continuent de fonctionner si vous gardez les serveurs de noms actuels. Si vous choisissez ceux de Hostinger, ce qui dépend du DNS chez d'autres prestataires peut s'arrêter jusqu'à la mise à jour des enregistrements. Les données de propriété ne changent pas. Ce qui change, c'est qui facture le renouvellement et où vous modifiez le DNS.",
           "Les règles, d'après la page de Hostinger :"
         ],
         "bullets": [
-          "**Ancienneté de l'enregistrement :** dans la plupart des cas, le domaine doit être enregistré depuis au moins 60 jours. Un domaine nouvellement enregistré chez Hostinger est lui aussi verrouillé 60 jours avant de pouvoir partir. Le délai court depuis l'enregistrement ou le dernier transfert, et certaines extensions ont leurs propres règles.",
+          "**Éligibilité :** vérifiez les règles de l’extension, la date d’enregistrement ou du dernier transfert et les verrouillages. Un domaine nouvellement enregistré chez Hostinger reste aussi bloqué 60 jours avant de pouvoir partir ; dépasser ce délai ne suffit pas à garantir le transfert.",
           "**Déverrouillage et code :** vous déverrouillez le domaine dans le panneau du registrar actuel et récupérez le code d'autorisation (EPP, ou code de transfert).",
           "**Confirmation :** après avoir saisi le code chez Hostinger, un e-mail du registrar arrive pour confirmer. Sans confirmation, le transfert n'avance pas.",
           "**Délai :** jusqu'à sept jours ; plus rapide si le registrar actuel le libère vite et que vous confirmez l'e-mail tout de suite.",
           "**Prix :** ce n'est en général pas gratuit (cela peut l'être avec une offre d'hébergement éligible). Si vous ajoutez 1 an de renouvellement au paiement, il s'ajoute à la durée que vous aviez, mais seulement sur certaines extensions ; sur certaines extensions nationales, l'échéance ne change pas."
         ],
         "postParagraphs": [
-          "Transférer hors de Hostinger suit la même logique à l'envers : 60 jours d'enregistrement, déverrouillage dans le panneau de Hostinger, récupération du code et confirmation par e-mail. Un transfert abouti n'est pas remboursé ; voyez [les règles de remboursement et de renouvellement de Hostinger](/fr/reviews/hostinger-est-il-fiable)."
+          "Pour transférer vers un autre registrar, vérifiez les règles de l’extension et les verrouillages actuels ; obtenez déverrouillage, code et confirmation lorsque la procédure les exige. Un transfert abouti est exclu du remboursement standard. Voir [les règles de remboursement et de renouvellement de Hostinger](/fr/reviews/hostinger-est-il-fiable)."
         ]
       },
       {
@@ -147885,7 +147885,7 @@ export const reviewsData: unknown[] = [
           "Trois précautions vous permettent de garder le domaine :"
         ],
         "bullets": [
-          "**Le compte :** le domaine appartient au compte Hostinger où il a été acheté. Utilisez un e-mail que vous contrôlez, pas celui d'un freelance ou d'une agence. Qui enregistre au nom d'une autre personne dépend d'elle pour le transférer ensuite.",
+          "**Titularité et accès :** vérifiez au nom de qui le domaine sera enregistré et qui contrôle le compte de gestion. Utilisez une adresse de récupération que vous contrôlez. Si une personne ou une agence s’en charge, convenez de l’enregistrement et des accès avant l’achat ; ce sont deux choses distinctes.",
           "**Le renouvellement :** Hostinger recommande de laisser le renouvellement automatique activé. Un domaine expiré met le site et la messagerie hors service. Le renouvellement d'un domaine n'est pas remboursable, la carte du compte doit donc être à jour.",
           "**Le remboursement de l'enregistrement :** un nouvel enregistrement ne peut être remboursé que dans les 96 heures, et seulement sur les extensions remboursables (beaucoup d'extensions nationales ne le sont pas). Passé ce délai, le domaine est à vous jusqu'à la fin de la durée payée, sans remboursement."
         ]
@@ -147894,7 +147894,7 @@ export const reviewsData: unknown[] = [
         "heading": "Liste de vérifications avant de payer",
         "bullets": [
           "Regardez la colonne du renouvellement, pas seulement la première année. Le domaine se renouvelle chaque année tant que le site existe.",
-          "Si vous transférez, vérifiez la date d'enregistrement et celle du dernier transfert : moins de 60 jours, le transfert ne démarre pas.",
+          "Avant de transférer, vérifiez l’extension, les dates, les verrouillages et les procédures des deux registrars ; l’ancienneté n’est pas la seule condition.",
           "Achetez sur le compte qui sera le vôtre, avec votre propre e-mail et le renouvellement automatique activé.",
           "Si le domaine est venu avec le forfait d'hébergement, notez le prix de renouvellement de la deuxième année : il s'affiche avant l'achat.",
           "SONAR20 donne 20 % sur le forfait d'hébergement ; pour un domaine seul, le code ne vaut pas."
@@ -147903,12 +147903,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quelle voie choisir",
         "paragraphs": [
-          "**Achetez chez Hostinger** si le site sera hébergé chez elle et que vous voulez domaine, DNS et renouvellement dans le même panneau ; vérifiez le renouvellement avant de payer.",
-          "**Achetez ailleurs et pointez** si vous avez déjà un domaine chez un autre registrar, si vous préférez séparer les comptes, ou si le prix de renouvellement de là-bas est plus bas. Pointer le DNS est un réglage dans le panneau, et le site fonctionne de la même façon.",
-          "**Transférez** seulement un domaine de plus de 60 jours d'enregistrement, et seulement si le renouvellement chez Hostinger compense ce que vous payez aujourd'hui. Sur les extensions où le transfert ajoute une année d'enregistrement, ce n'est pas de l'argent perdu.",
-          "Dans le doute, ne transférez pas : pointez le domaine et laissez l'enregistrement où il est. On peut transférer plus tard, et le site ne s'arrête pas."
+          "**J’achèterais chez Hostinger** si un panneau unique simplifiait ma gestion et si le renouvellement convenait au budget. Je comparerais le tarif applicable avant de payer.",
+          "**Je garderais le domaine ailleurs et connecterais le DNS** si je l’avais déjà ou préférais séparer les services. Avant de modifier la configuration, je vérifierais les enregistrements du site et de la messagerie.",
+          "**Je transférerais l’enregistrement** après vérification de l’éligibilité, des blocages, du coût et de l’effet sur l’expiration. Comparez l’ensemble avec ce que vous payez aujourd’hui ; une année incluse ne garantit pas une économie.",
+          "Si la question porte seulement sur l’hébergement du site, comparez d’abord la connexion sans transfert. Planifiez les changements DNS sans supposer qu’une voie garantit la continuité."
         ],
-        "emphasis": "Si c'était pour mon site, je garderais l'enregistrement avec l'hébergement, car domaine et renouvellement restent dans le même panneau."
+        "emphasis": "Pour mon organisation, je préférerais domaine et hébergement dans un même panneau si renouvellement et contrôle me convenaient. C’est un choix de gestion, pas une garantie de prix inférieur."
       },
       {
         "heading": "Coupon SONAR20 et prix",
@@ -147919,9 +147919,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Puis-je changer d'hébergement sans perdre le domaine ? Oui. Le domaine est à vous et reste dans le compte Hostinger ; vous pointez le DNS vers le nouvel hébergement ou vous transférez l'enregistrement plus tard, en respectant les 60 jours depuis l'enregistrement ou le dernier transfert.",
+          "Puis-je changer d’hébergement sans perdre le domaine ? Vous pouvez conserver son enregistrement et connecter le nouvel hébergement par DNS, sans transférer le domaine. Vérifiez les enregistrements du site et de l’e-mail avant de les modifier.",
           "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
-          "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours depuis l'enregistrement ou le dernier transfert : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé.",
+          "Puis-je transférer un domaine Hostinger vers un autre registrar ? Cela dépend de l’éligibilité de l’extension et des verrouillages applicables. Vérifiez la procédure puis, si nécessaire, déverrouillez, obtenez le code et confirmez la demande. Un transfert abouti est exclu du remboursement standard.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
@@ -147935,7 +147935,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas.",
+      "text": "Si vous cherchez aussi un hébergement, comparez les offres et utilisez SONAR20 : 20 % sur la première période éligible d’un nouvel achat, sans réduction au renouvellement. Le code ne s’applique pas au domaine seul ; comparez enregistrement et renouvellement séparément.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147957,11 +147957,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Prenez le domaine chez Hostinger si le site sera hébergé chez elle et que vous voulez domaine, DNS et renouvellement dans le même panneau.",
-        "Ne prenez le transfert que si le domaine a plus de 60 jours d'enregistrement ou depuis le dernier transfert et que le renouvellement chez Hostinger compense ce que vous payez aujourd'hui."
+        "Transférez si l’extension et les verrouillages le permettent et si le coût et les conditions de renouvellement justifient le changement."
       ],
       "skipIf": [
         "Passez votre chemin si vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou si le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",
-        "Évitez le transfert si l'enregistrement ou le dernier transfert a moins de 60 jours : il ne démarre pas.",
+        "Évitez le transfert si l’extension ou un verrouillage actuel l’empêche, ou si l’éligibilité n’est pas confirmée.",
         "Passez votre chemin si le domaine serait au nom ou sur le compte d'un freelance ou d'une agence : utilisez un e-mail que vous contrôlez."
       ]
     }
@@ -148000,7 +148000,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Dominio su Hostinger: le tre strade (comprarlo lì, comprarlo altrove e puntarlo, o trasferirlo) e cosa controllare prima di pagare.",
-    "metaDescription": "Comprare il dominio su Hostinger, registrarlo altrove e puntarlo, o trasferirlo? La regola dei 60 giorni, di chi è il dominio e la checklist prima di pagare.",
+    "metaDescription": "Comprare un dominio su Hostinger, registrarlo altrove e collegarlo o trasferirlo? Confronta rinnovo, controllo, idoneità e blocchi prima di pagare.",
     "publishedAt": "28 ottobre 2026",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -148014,20 +148014,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il dominio è un account separato dall'hosting: può stare su Hostinger o presso un altro registrar, e il sito funziona in entrambi i casi. Scegli in base al prezzo di rinnovo e alla facilità di uscita, non al primo anno. Compra su Hostinger se vuoi tutto in un solo pannello, e trasferisci solo un dominio registrato o trasferito da almeno 60 giorni."
+          "Puoi registrare il dominio su Hostinger oppure tenerlo presso un altro registrar e collegarlo all’hosting. Confronta rinnovo, controllo della registrazione e lavoro per cambiare in seguito. Se hai già il dominio, ospitare il sito su Hostinger non richiede di trasferirlo; controlla l’idoneità dell’estensione prima di chiedere il trasferimento."
         ]
       },
       {
-        "heading": "Dominio e hosting sono due account",
+        "heading": "Registrazione del dominio e hosting sono servizi separati",
         "paragraphs": [
-          "Dominio e hosting sono due account: l'indirizzo (il nome che le persone digitano) da una parte, il computer dove si trova il sito dall'altra. Paghi i due separatamente e non devono stare nella stessa azienda: il dominio registrato presso un'azienda può puntare all'hosting di un'altra. La pagina stessa di Hostinger dice che un dominio registrato su Hostinger può essere puntato verso un altro provider di hosting.",
+          "Il dominio è l’indirizzo digitato; l’hosting è il servizio dove funziona il sito. Puoi comprarli dalla stessa azienda o da fornitori diversi. Registrare il dominio in un posto non obbliga a ospitarvi il sito: il DNS può collegarlo a un altro servizio.",
           "Per questo la decisione non è \"Hostinger o no\". È dove sta la registrazione del dominio, quanto costa rinnovarlo ogni anno e cosa succede se un giorno cambi hosting. Il primo anno a buon prezzo è il dettaglio meno importante: il dominio si rinnova finché il sito esiste."
         ]
       },
       {
         "heading": "Le tre strade",
         "paragraphs": [
-          "Per il dominio ci sono tre strade, secondo le pagine di Hostinger, e quello che cambia tra l'una e l'altra è chi addebita il rinnovo."
+          "La tabella confronta tre modi di organizzare il registro: acquistare su Hostinger, registrare altrove e collegare, oppure trasferire un dominio esistente. Non cambia solo chi addebita il rinnovo: contano anche pannello, procedura e condizioni di trasferimento."
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -148061,7 +148061,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Trasferire su Hostinger",
-              "Hai il dominio da più di 60 giorni e vuoi tutto in un posto solo",
+              "Hai già il dominio, vuoi centralizzare la gestione e hai verificato l’idoneità al trasferimento della sua estensione",
               "Prezzo di rinnovo di Hostinger dall'anno successivo",
               "Stessa regola della prima strada",
               "Tuo; i dati di proprietà non cambiano con il trasferimento"
@@ -148079,20 +148079,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Trasferire: la regola dei 60 giorni e i passaggi",
+        "heading": "Trasferire: idoneità, blocchi e passaggi",
         "paragraphs": [
           "Trasferire significa spostare la registrazione del dominio da un'azienda a un'altra. La pagina di trasferimento di Hostinger dice che sposta solo la registrazione: sito ed e-mail restano presso il fornitore attuale e continuano a funzionare se mantieni i nameserver attuali. Se scegli quelli di Hostinger, ciò che dipende dal DNS presso altri fornitori può smettere di funzionare finché non aggiorni i record. I dati di proprietà non cambiano. Cambia chi addebita il rinnovo e dove modifichi il DNS.",
           "Le regole, secondo la pagina di Hostinger:"
         ],
         "bullets": [
-          "**Età della registrazione:** nella maggior parte dei casi il dominio deve essere registrato da almeno 60 giorni. Anche un dominio nuovo su Hostinger resta bloccato per 60 giorni prima di poter uscire. Il termine conta dalla registrazione o dall'ultimo trasferimento, e alcune estensioni hanno regole proprie.",
+          "**Idoneità:** verifica regole dell’estensione, data di registrazione o dell’ultimo trasferimento e blocchi. Un dominio nuovo su Hostinger resta bloccato 60 giorni prima di poter uscire; superare questo termine non garantisce da solo il trasferimento.",
           "**Sblocco e codice:** sblocchi il dominio nel pannello del registrar attuale e prendi il codice di autorizzazione (EPP, o codice di trasferimento).",
           "**Conferma:** dopo aver inserito il codice su Hostinger, arriva un'e-mail del registrar per confermare. Senza la conferma, il trasferimento non va avanti.",
           "**Tempi:** fino a sette giorni; più veloce se il registrar attuale lo libera subito e confermi subito l'e-mail.",
           "**Prezzo:** di solito non è gratis (può esserlo con un piano di hosting idoneo). Se aggiungi 1 anno di rinnovo al pagamento, si somma alla durata che avevi, ma solo su estensioni selezionate; su alcune estensioni nazionali la scadenza non cambia."
         ],
         "postParagraphs": [
-          "Trasferire fuori da Hostinger segue la stessa logica al contrario: 60 giorni di registrazione, sblocco nel pannello di Hostinger, codice e conferma via e-mail. Il trasferimento andato a buon fine non è rimborsabile; vedi [le regole di rimborso e rinnovo di Hostinger](/it/reviews/hostinger-e-affidabile)."
+          "Per uscire, verifica regole dell’estensione e blocchi attuali; ottieni sblocco, codice e conferma quando la procedura li richiede. Un trasferimento completato è escluso dal rimborso standard. Vedi [le regole di rimborso e rinnovo di Hostinger](/it/reviews/hostinger-e-affidabile)."
         ]
       },
       {
@@ -148102,7 +148102,7 @@ export const reviewsData: unknown[] = [
           "Tre accorgimenti mantengono il dominio tuo:"
         ],
         "bullets": [
-          "**L'account:** il dominio appartiene all'account Hostinger in cui è stato acquistato. Usa un'e-mail che controlli, non quella di un freelance o di un'agenzia. Chi registra a nome di un'altra persona dipende da lei per trasferirlo poi.",
+          "**Intestatario e accesso:** controlla a chi sarà intestato il dominio e chi gestirà l’account. Usa un’e-mail di recupero sotto il tuo controllo. Se una persona o un’agenzia svolge il lavoro, concorda intestazione e accessi prima della registrazione: non sono la stessa cosa.",
           "**Il rinnovo:** Hostinger consiglia di lasciare attivo il rinnovo automatico. Un dominio scaduto manda giù sito ed e-mail. Il rinnovo di un dominio non è rimborsabile, quindi la carta dell'account deve essere in regola.",
           "**Il rimborso della registrazione:** una registrazione nuova può essere rimborsata solo entro 96 ore, e solo sulle estensioni che prevedono rimborso (molte estensioni nazionali non lo prevedono). Dopo, il dominio è tuo fino alla fine del periodo pagato, senza rimborso."
         ]
@@ -148111,7 +148111,7 @@ export const reviewsData: unknown[] = [
         "heading": "Checklist prima di pagare",
         "bullets": [
           "Guarda la colonna del rinnovo, non solo il primo anno. Il dominio si rinnova ogni anno finché il sito esiste.",
-          "Se devi trasferire, controlla la data della registrazione e quella dell'ultimo trasferimento: sotto i 60 giorni il trasferimento non parte.",
+          "Prima di trasferire, verifica estensione, date, blocchi e procedura di entrambi i registrar; l’età della registrazione non è l’unica condizione.",
           "Compra sull'account che sarà tuo, con un'e-mail tua e il rinnovo automatico attivo.",
           "Se il dominio è arrivato con il piano di hosting, annota il prezzo di rinnovo del secondo anno: compare prima dell'acquisto.",
           "SONAR20 dà il 20% sul piano di hosting; sul dominio singolo il codice non vale."
@@ -148120,12 +148120,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quale strada scegliere",
         "paragraphs": [
-          "**Compra su Hostinger** se il sito sarà ospitato lì e vuoi dominio, DNS e rinnovo nello stesso pannello; controlla il rinnovo prima di pagare.",
-          "**Compra altrove e punta** se hai già un dominio presso un altro registrar, se preferisci tenere gli account separati, o se il prezzo di rinnovo di lì è più basso. Puntare il DNS è un'impostazione nel pannello, e il sito funziona allo stesso modo.",
-          "**Trasferisci** solo un dominio con più di 60 giorni di registrazione e solo se il rinnovo su Hostinger compensa quello che paghi oggi. Nelle estensioni in cui il trasferimento aggiunge un anno di registrazione, non sono soldi persi.",
-          "Nel dubbio, non trasferire: punta il dominio e lascia la registrazione dov'è. Si può trasferire dopo, e il sito non si ferma."
+          "**Comprerei su Hostinger** se un pannello unico semplificasse la gestione e il rinnovo rientrasse nel budget. Confronterei il prezzo applicabile prima di pagare.",
+          "**Terrei il dominio altrove e collegherei il DNS** se lo avessi già o preferissi servizi separati. Prima di cambiare la configurazione, controllerei i record del sito e dell’e-mail.",
+          "**Trasferirei la registrazione** dopo aver verificato idoneità, blocchi, costo ed effetto sulla scadenza. Confronta tutto con quello che paghi oggi: un anno incluso non rende ogni trasferimento un risparmio.",
+          "Se il dubbio riguarda solo l’hosting del sito, confronta prima il collegamento senza trasferimento. Pianifica le modifiche DNS senza presumere che una strada garantisca continuità."
         ],
-        "emphasis": "Se fosse per il mio sito, terrei la registrazione insieme all'hosting, perché dominio e rinnovo restano nello stesso pannello."
+        "emphasis": "Per la mia organizzazione, preferirei dominio e hosting nello stesso pannello se rinnovo e controllo fossero adatti alle mie esigenze. È una preferenza di gestione, non una garanzia di prezzo inferiore."
       },
       {
         "heading": "Coupon SONAR20 e prezzo",
@@ -148136,9 +148136,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Posso cambiare hosting senza perdere il dominio? Sì. Il dominio è tuo e resta nell'account Hostinger; punti il DNS al nuovo hosting o trasferisci la registrazione dopo, rispettando i 60 giorni dalla registrazione o dall'ultimo trasferimento.",
+          "Posso cambiare hosting senza perdere il dominio? Puoi mantenere la registrazione dov’è e collegare il nuovo hosting tramite DNS, senza trasferire il dominio. Controlla i record del sito e della posta prima di modificarli.",
           "Mi serve un dominio per avere l'e-mail? Sì. Per un indirizzo come tu@tuaazienda.com, il dominio deve esistere; l'hosting non è obbligatorio, e Hostinger dice che si può usare il dominio solo per l'e-mail o per reindirizzare a un altro sito.",
-          "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, dopo 60 giorni dalla registrazione o dall'ultimo trasferimento: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile.",
+          "Posso trasferire un dominio Hostinger a un altro registrar? Dipende dall’idoneità dell’estensione e dai blocchi applicabili. Verifica la procedura e, dove richiesto, sblocca, ottieni il codice e conferma la richiesta. Un trasferimento completato è escluso dal rimborso standard.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
@@ -148152,7 +148152,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Sul dominio singolo il codice non vale.",
+      "text": "Se cerchi anche hosting, confronta i piani e usa SONAR20: 20% sul primo periodo idoneo di un nuovo acquisto, senza sconto sul rinnovo. Non vale sul dominio singolo; confronta registrazione e rinnovo separatamente.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148174,11 +148174,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Prendi il dominio su Hostinger se il sito sarà ospitato lì e vuoi dominio, DNS e rinnovo nello stesso pannello.",
-        "Prendi il trasferimento solo se il dominio ha più di 60 giorni di registrazione o dall'ultimo trasferimento e il rinnovo su Hostinger compensa quello che paghi oggi."
+        "Trasferisci se estensione e blocchi lo consentono e se costo e condizioni di rinnovo giustificano il cambiamento."
       ],
       "skipIf": [
         "Lascia stare se hai già un dominio presso un altro registrar, preferisci tenere gli account separati o il rinnovo di lì è più basso: punta il DNS e lascia la registrazione dov'è.",
-        "Lascia stare il trasferimento se la registrazione o l'ultimo trasferimento ha meno di 60 giorni: non parte.",
+        "Evita il trasferimento se l’estensione o un blocco attuale lo impedisce, oppure se l’idoneità non è confermata.",
         "Lascia stare se il dominio resterebbe a nome o sull'account di un freelance o di un'agenzia: usa un'e-mail che controlli."
       ]
     }
@@ -148217,7 +148217,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Domain bei Hostinger: die drei Wege (dort kaufen, extern kaufen und verknüpfen, oder umziehen) und was Sie vor der Zahlung prüfen sollten.",
-    "metaDescription": "Die Domain bei Hostinger kaufen, extern registrieren und verknüpfen, oder umziehen? Die 60-Tage-Regel, wem die Domain gehört und die Checkliste vor der Zahlung.",
+    "metaDescription": "Domain bei Hostinger kaufen, extern registrieren und verbinden oder umziehen? Vergleichen Sie Verlängerung, Kontrolle, Transferberechtigung und Sperren vor der Zahlung.",
     "publishedAt": "28. Oktober 2026",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -148231,20 +148231,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Die Domain ist ein eigenes Konto, getrennt vom Hosting: Sie kann bei Hostinger oder bei einem anderen Registrar liegen, und die Website funktioniert in beiden Fällen. Entscheiden Sie nach dem Verlängerungspreis und danach, wie leicht Sie wieder wegkommen, nicht nach dem ersten Jahr. Kaufen Sie bei Hostinger, wenn Sie alles in einem Panel wollen, und ziehen Sie nur eine Domain um, die seit mindestens 60 Tagen registriert oder umgezogen ist."
+          "Sie können die Domain bei Hostinger registrieren oder bei einem anderen Registrar belassen und mit dem Hosting verbinden. Vergleichen Sie Verlängerung, Kontrolle der Registrierung und Aufwand eines späteren Wechsels. Eine vorhandene Domain muss für Hosting bei Hostinger nicht umziehen; prüfen Sie vor einem Transfer die Voraussetzungen der Endung."
         ]
       },
       {
-        "heading": "Domain und Hosting sind zwei Konten",
+        "heading": "Domainregistrierung und Hosting sind getrennte Leistungen",
         "paragraphs": [
-          "Domain und Hosting sind zwei Konten: auf der einen Seite die Adresse (der Name, den man eintippt), auf der anderen der Rechner, auf dem die Website liegt. Sie zahlen beides getrennt, und beides muss nicht beim selben Unternehmen liegen: Eine bei einem Unternehmen registrierte Domain kann auf das Hosting eines anderen zeigen. Die Seite von Hostinger selbst sagt, dass eine dort registrierte Domain auf einen anderen Hosting-Anbieter zeigen kann.",
+          "Die Domain ist die eingegebene Adresse; Hosting ist der Dienst, auf dem die Website läuft. Sie können beides beim selben Unternehmen oder bei verschiedenen Anbietern kaufen. Die Registrierung an einem Ort verpflichtet nicht zum Hosting dort: DNS kann die Domain mit einem anderen Dienst verbinden.",
           "Die Entscheidung lautet also nicht „Hostinger oder nicht“. Es geht darum, wo die Registrierung der Domain liegt, was die Verlängerung jedes Jahr kostet und was passiert, wenn Sie eines Tages das Hosting wechseln. Das günstige erste Jahr ist am unwichtigsten: Die Domain verlängert sich, solange die Website existiert."
         ]
       },
       {
         "heading": "Die drei Wege",
         "paragraphs": [
-          "Für die Domain gibt es laut den Seiten von Hostinger drei Wege, und was sich zwischen ihnen ändert, ist, wer die Verlängerung berechnet."
+          "Die Tabelle vergleicht drei Möglichkeiten: bei Hostinger kaufen, extern registrieren und verbinden oder eine vorhandene Domain übertragen. Neben dem Anbieter der Verlängerung ändern sich auch Panel, Ablauf und Transferbedingungen."
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -148278,7 +148278,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Zu Hostinger umziehen",
-              "Sie haben die Domain seit mehr als 60 Tagen und wollen alles an einem Ort",
+              "Sie besitzen die Domain, möchten ihre Verwaltung bündeln und haben die Transferberechtigung für die Endung geprüft",
               "Verlängerungspreis von Hostinger ab dem Folgejahr",
               "Dieselbe Regel wie beim ersten Weg",
               "Ihnen; die Inhaberdaten ändern sich beim Umzug nicht"
@@ -148296,20 +148296,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Umziehen: die 60-Tage-Regel und die Schritte",
+        "heading": "Domainumzug: Voraussetzungen, Sperren und Schritte",
         "paragraphs": [
           "Umziehen heißt, die Registrierung der Domain von einem Unternehmen zu einem anderen zu verlegen. Die Umzugsseite von Hostinger sagt, dass nur die Registrierung verlegt wird: Website und E-Mail bleiben beim bisherigen Anbieter und laufen weiter, wenn Sie die bisherigen Nameserver behalten. Wählen Sie die von Hostinger, kann alles, was bei anderen Anbietern am DNS hängt, ausfallen, bis Sie die Einträge aktualisieren. Die Inhaberdaten ändern sich nicht. Es ändert sich, wer die Verlängerung berechnet und wo Sie das DNS bearbeiten.",
           "Die Regeln laut der Seite von Hostinger:"
         ],
         "bullets": [
-          "**Alter der Registrierung:** In den meisten Fällen muss die Domain seit mindestens 60 Tagen registriert sein. Auch eine neue Domain bei Hostinger ist 60 Tage gesperrt, bevor sie wegziehen kann. Die Frist zählt ab der Registrierung oder dem letzten Umzug, und manche Endungen haben eigene Regeln.",
+          "**Voraussetzungen:** Prüfen Sie die Regeln der Endung, das Registrierungs- oder Umzugsdatum und die Transfersperren. Die Frist von 60 Tagen gilt meist ab Registrierung oder letztem Umzug; eine neue Domain bei Hostinger ist ebenso gesperrt, und ist die Frist vorbei, garantiert das allein noch keinen Transfer.",
           "**Entsperren und Code:** Sie entsperren die Domain im Panel des aktuellen Registrars und holen den Autorisierungscode (EPP- oder Auth-Code).",
           "**Bestätigung:** Nachdem Sie den Code bei Hostinger eingegeben haben, kommt eine E-Mail des Registrars zur Bestätigung. Ohne Bestätigung geht der Umzug nicht weiter.",
           "**Dauer:** bis zu sieben Tage; schneller, wenn der bisherige Registrar sie rasch freigibt und Sie die E-Mail sofort bestätigen.",
           "**Preis:** Er ist meist nicht kostenlos (mit einem passenden Hosting-Tarif kann er es sein). Wenn Sie beim Bezahlen 1 Jahr Verlängerung hinzufügen, kommt es zur bisherigen Laufzeit dazu, aber nur bei ausgewählten Endungen; bei manchen länderspezifischen Endungen bleibt das Ablaufdatum gleich."
         ],
         "postParagraphs": [
-          "Der Umzug weg von Hostinger folgt derselben Logik umgekehrt: 60 Tage Registrierung, im Panel von Hostinger entsperren, den Code holen und per E-Mail bestätigen. Ein gelungener Umzug wird nicht erstattet; siehe [die Erstattungs- und Verlängerungsregeln von Hostinger](/de/reviews/ist-hostinger-serioes)."
+          "Prüfen Sie für einen Umzug zu einem anderen Registrar die Regeln der Endung und bestehende Sperren; Entsperrung, Code und Bestätigung holen Sie, soweit das Verfahren sie verlangt. Ein abgeschlossener Transfer ist von der regulären Erstattung ausgeschlossen. Siehe [die Erstattungs- und Verlängerungsregeln von Hostinger](/de/reviews/ist-hostinger-serioes)."
         ]
       },
       {
@@ -148319,7 +148319,7 @@ export const reviewsData: unknown[] = [
           "Drei Vorsichtsmaßnahmen halten die Domain in Ihrer Hand:"
         ],
         "bullets": [
-          "**Das Konto:** Die Domain gehört zu dem Hostinger-Konto, in dem sie gekauft wurde. Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren, nicht die eines Freelancers oder einer Agentur. Wer auf den Namen einer anderen Person registriert, hängt später bei einem Umzug von ihr ab.",
+          "**Inhaber und Zugang:** Prüfen Sie, auf wessen Namen die Domain registriert wird und wer das Verwaltungskonto kontrolliert. Nutzen Sie eine eigene Wiederherstellungsadresse. Übernimmt eine Person oder Agentur die Arbeit, vereinbaren Sie Inhaberdaten und Zugänge vor dem Kauf; beides ist zu unterscheiden.",
           "**Die Verlängerung:** Hostinger empfiehlt, die automatische Verlängerung eingeschaltet zu lassen. Eine abgelaufene Domain legt Website und E-Mail lahm. Die Verlängerung einer Domain wird nicht erstattet, die Karte im Konto muss also aktuell sein.",
           "**Die Erstattung der Registrierung:** Eine neue Registrierung kann nur innerhalb von 96 Stunden erstattet werden, und nur bei Endungen, die Erstattungen zulassen (viele länderspezifische Endungen tun das nicht). Danach gehört Ihnen die Domain bis zum Ende der bezahlten Laufzeit, ohne Erstattung."
         ]
@@ -148328,7 +148328,7 @@ export const reviewsData: unknown[] = [
         "heading": "Checkliste vor der Zahlung",
         "bullets": [
           "Schauen Sie auf die Spalte der Verlängerung, nicht nur aufs erste Jahr. Die Domain verlängert sich jedes Jahr, solange die Website existiert.",
-          "Wenn Sie umziehen wollen, prüfen Sie das Registrierungsdatum und das Datum des letzten Umzugs: unter 60 Tagen beginnt der Umzug nicht.",
+          "Prüfen Sie vor dem Umzug Endung, Daten, Sperren und Verfahren beider Registrare; das Registrierungsalter ist nicht die einzige Voraussetzung.",
           "Kaufen Sie in dem Konto, das Ihres sein wird, mit Ihrer eigenen E-Mail-Adresse und eingeschalteter automatischer Verlängerung.",
           "Wenn die Domain mit dem Hosting-Tarif kam, notieren Sie den Verlängerungspreis für das zweite Jahr: Er wird vor dem Kauf angezeigt.",
           "SONAR20 gibt 20 % auf den Hosting-Tarif; bei einer einzelnen Domain gilt der Code nicht."
@@ -148337,12 +148337,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Welchen Weg wählen",
         "paragraphs": [
-          "**Kaufen Sie bei Hostinger**, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen; prüfen Sie die Verlängerung vor der Zahlung.",
-          "**Kaufen Sie extern und verknüpfen Sie**, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder der Verlängerungspreis dort niedriger ist. Das Umstellen des DNS ist eine Einstellung im Panel, und die Website funktioniert genauso.",
-          "**Ziehen Sie nur um**, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen. Bei Endungen, bei denen der Umzug ein Registrierungsjahr dazugibt, ist es kein verlorenes Geld.",
-          "Im Zweifel ziehen Sie nicht um: Verknüpfen Sie die Domain und lassen Sie die Registrierung, wo sie ist. Umziehen kann man später, und die Website bleibt dabei online."
+          "**Bei Hostinger würde ich kaufen**, wenn ein gemeinsames Panel die Verwaltung erleichtert und die Verlängerung ins Budget passt. Den geltenden Preis würde ich vor dem Kauf vergleichen.",
+          "**Ich würde die Domain extern belassen und das DNS verbinden**, wenn sie bereits vorhanden ist oder ich Dienste trennen möchte. Vor einer Änderung würde ich die Einträge für Website und E-Mail prüfen.",
+          "**Ich würde die Registrierung übertragen**, nachdem Voraussetzungen, Sperren, Kosten und Auswirkungen auf das Ablaufdatum geklärt sind. Vergleichen Sie alles mit Ihren heutigen Kosten; ein enthaltenes Jahr macht nicht jeden Umzug günstiger.",
+          "Geht es nur um das Website-Hosting, vergleichen Sie zuerst die Verbindung ohne Transfer. Planen Sie DNS-Änderungen, statt einen unterbrechungsfreien Betrieb allein durch die Wahl eines Weges vorauszusetzen."
         ],
-        "emphasis": "Wäre es für meine Website, würde ich die Registrierung zusammen mit dem Hosting nehmen, weil Domain und Verlängerung im selben Panel liegen."
+        "emphasis": "Für meine Verwaltung würde ich Domain und Hosting in einem Panel bevorzugen, sofern Verlängerung und Kontrolle passen. Das ist eine Organisationsentscheidung, keine Garantie für den günstigsten Preis."
       },
       {
         "heading": "Gutschein SONAR20 und Preis",
@@ -148353,9 +148353,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Kann man das Hosting wechseln, ohne die Domain zu verlieren? Ja. Die Domain gehört Ihnen und bleibt im Hostinger-Konto; Sie lassen das DNS auf das neue Hosting zeigen oder ziehen die Registrierung später um, sobald 60 Tage seit der Registrierung oder dem letzten Umzug vergangen sind.",
+          "Kann ich das Hosting wechseln, ohne die Domain zu verlieren? Sie können die Registrierung beibehalten und das neue Hosting per DNS verbinden, ohne die Domain umzuziehen. Prüfen Sie Website- und E-Mail-Einträge vor der Änderung.",
           "Braucht man eine Domain für E-Mail? Ja. Für eine Adresse wie sie@ihrefirma.com muss die Domain existieren; ein Hosting ist nicht nötig, und Hostinger sagt, dass man die Domain nur für E-Mail oder für die Weiterleitung auf eine andere Website nutzen kann.",
-          "Kann man die Domain von Hostinger zu einem anderen Registrar umziehen? Ja, nach 60 Tagen seit Registrierung oder letztem Umzug: Sie entsperren die Domain im Panel, holen den Autorisierungscode und bestätigen per E-Mail beim neuen Registrar. Ein gelungener Umzug wird nicht erstattet.",
+          "Kann ich eine Hostinger-Domain zu einem anderen Registrar umziehen? Das hängt von der Endung und den geltenden Sperren ab. Prüfen Sie das Verfahren und entsperren Sie die Domain, holen Sie den Code und bestätigen Sie den Antrag, soweit erforderlich. Ein abgeschlossener Transfer ist von der regulären Erstattung ausgeschlossen.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
@@ -148369,7 +148369,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Bei einer einzelnen Domain gilt der Code nicht.",
+      "text": "Wenn Sie auch Hosting benötigen, vergleichen Sie die Tarife und nutzen Sie SONAR20: 20 % auf die erste berechtigte Laufzeit eines Neukaufs, ohne Verlängerungsrabatt. Bei einer einzelnen Domain gilt der Code nicht; vergleichen Sie Registrierung und Verlängerung separat.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148391,11 +148391,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Nehmen Sie die Domain bei Hostinger, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen.",
-        "Nehmen Sie den Umzug nur, wenn die Domain seit mehr als 60 Tagen registriert oder zuletzt umgezogen ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen."
+        "Ziehen Sie um, wenn Endung und Sperren es zulassen und Kosten sowie Verlängerungsbedingungen den Wechsel rechtfertigen."
       ],
       "skipIf": [
         "Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Stellen Sie das DNS um und lassen Sie die Registrierung, wo sie ist.",
-        "Lassen Sie den Umzug, wenn die Registrierung oder der letzte Umzug jünger als 60 Tage ist: Er beginnt nicht.",
+        "Verzichten Sie auf den Umzug, wenn die Endung oder eine aktuelle Sperre ihn verhindert oder die Voraussetzungen nicht bestätigt sind.",
         "Lassen Sie es, wenn die Domain auf den Namen oder im Konto eines Freelancers oder einer Agentur läge: Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren."
       ]
     }
@@ -148434,7 +148434,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostingerのドメイン：3つの選択肢（Hostingerで買う、別の場所で買って向ける、移管する）と、支払う前に確認すべきこと。",
-    "metaDescription": "ドメインはHostingerで買う、別の場所で登録して向ける、それとも移管する？ 60日ルール、ドメインの所有者、支払う前のチェックリストをまとめました。",
+    "metaDescription": "SONAR20は新規購入の最初の期間が20%割引で、ドメイン単独には使えません。更新料、登録の管理権限、移管条件とロックを支払う前に比べましょう。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -148448,20 +148448,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "ドメインはホスティングとは別の契約です。Hostingerに置いても別のレジストラに置いても、サイトはどちらでも動きます。選ぶ基準は初年度の安さではなく、更新料と出ていきやすさです。すべてを1つの管理画面で済ませたいならHostingerで買い、移管するのは、登録または前回の移管から60日以上たったドメインだけにしてください。"
+          "ドメインはホスティングとは別の契約です。Hostingerに置いても別のレジストラに置いても、サイトはどちらでも動きます。選ぶ基準は初年度の安さではなく、更新料と出ていきやすさです。すべてを1つの管理画面で済ませたいならHostingerで買い、移管するのは、拡張子の条件を満たし、登録または前回の移管から60日以上たったドメインだけにしてください。"
         ]
       },
       {
         "heading": "ドメインとホスティングは別々の契約",
         "paragraphs": [
-          "ドメインとホスティングは2つの別契約です。一方は住所（人が入力する名前）、もう一方はサイトが置かれるコンピューターです。支払いも別々で、同じ会社である必要はありません。ある会社で登録したドメインを、別の会社のホスティングに向けることができます。Hostingerのページ自体も、Hostingerで登録したドメインを他社のホスティングに向けられると書いています。",
+          "ドメインは入力するアドレス、ホスティングはサイトを動かすサービスです。同じ会社でも別の会社でも契約でき、セット契約もあります。ある場所でドメインを登録しても、そこでサイトを運用する義務はありません。DNS で別のサービスに接続できます。",
           "だから決めるのは「Hostingerか、それ以外か」ではありません。ドメインの登録をどこに置くか、毎年の更新にいくらかかるか、いつかホスティングを変えたときにどうなるか、です。安い初年度は一番重要ではありません。サイトがある限り、ドメインは更新され続けます。"
         ]
       },
       {
         "heading": "3つの選択肢",
         "paragraphs": [
-          "ドメインには3つの選択肢があります（Hostingerのページによる）。違いは、更新料を誰に払うかだけです。"
+          "表では、Hostingerで新規登録する、別の場所で登録して接続する、既存ドメインを移管する、という三つを比べます。更新料の請求元に加え、管理画面、手順、移管条件も違います。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -148495,7 +148495,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Hostingerへ移管する",
-              "ドメインを取得して60日以上たち、1か所にまとめたい",
+              "ドメインを持っており、管理をまとめたく、その拡張子の移管条件を確認できた場合",
               "翌年からHostingerの更新料",
               "最初の選択肢と同じ",
               "あなた。所有者情報は移管で変わらない"
@@ -148513,20 +148513,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "移管：60日ルールと手順",
+        "heading": "移管：条件、ロックと手順",
         "paragraphs": [
           "移管とは、ドメインの登録をある会社から別の会社に移すことです。Hostingerの移管ページによると、移るのは登録だけです。サイトとメールは今のプロバイダーに残り、今のネームサーバーのままなら動き続けます。Hostingerのネームサーバーに切り替えると、他社のDNSに頼るサービスは、レコードを更新するまで止まることがあります。所有者情報は変わりません。変わるのは、更新料をどこに払うかと、DNSをどこで触るかです。",
           "Hostingerのページによるルールは次の通りです。"
         ],
         "bullets": [
-          "**登録からの日数：** ほとんどの場合、ドメインは登録から60日以上たっている必要があります。Hostingerで新しく登録したドメインも、出ていけるようになるまで60日間ロックされます。この日数は登録または前回の移管から数え、拡張子によっては独自の規則があります。",
+          "**移管条件：** 拡張子の規則、登録日、移管ロックを確認してください。60日という期間が条件に含まれる場合もありますが、その経過だけで移管可能とは限りません。",
           "**ロック解除とコード：** 今のレジストラの管理画面でドメインのロックを解除し、認証コード（EPPコード、移管コード）を取得します。",
           "**確認：** Hostingerでコードを入力すると、レジストラから確認のメールが届きます。確認しないと移管は進みません。",
           "**期間：** 最長7日。今のレジストラがすぐに承認し、あなたがメールをすぐ確認すれば、もっと早く終わります。",
           "**料金：** たいてい無料ではありません（対象のホスティングプランがあれば無料になることもあります）。支払い時に更新1年分を追加すると、それまでの期間に加算されますが、対象は一部の拡張子だけで、国別の拡張子には期限が変わらないものもあります。"
         ],
         "postParagraphs": [
-          "Hostingerから外へ移管する場合も、同じ流れを逆にたどります。登録から60日、Hostingerの管理画面でロック解除、コードの取得、メールで確認。成立した移管は返金されません。[Hostingerの返金と更新のルール](/ja/reviews/hostinger-trust-guide-ja)を見てください。"
+          "外へ移管する際は、拡張子の規則と現在のロックを確認し、手続きで求められる場合はロック解除、コード取得、申請の確認を行います。完了した移管は通常の返金対象外です。詳しくは [Hostingerの返金と更新のルール](/ja/reviews/hostinger-trust-guide-ja)。"
         ]
       },
       {
@@ -148536,7 +148536,7 @@ export const reviewsData: unknown[] = [
           "ドメインを自分のものにしておくための3つの注意点："
         ],
         "bullets": [
-          "**アカウント：** ドメインは、それを買ったHostingerのアカウントに属します。フリーランスや代理店のメールではなく、あなたが管理するメールアドレスを使ってください。他人の名前で登録すると、あとで移管するときにその人に頼ることになります。",
+          "**登録名義とアクセス：** 誰の名前でドメインを登録し、誰が管理アカウントを操作するか確認してください。自分で管理する復旧用メールを使います。個人や制作会社に任せる場合も、登録名義とアクセス権を購入前に相談してください。両者は別です。",
           "**更新：** Hostingerは自動更新をオンにしておくことを勧めています。期限切れのドメインはサイトとメールを止めます。ドメインの更新は返金されないので、アカウントのカードを有効にしておく必要があります。",
           "**登録の返金：** 新規登録は96時間以内だけ、それも返金に対応する拡張子に限り返金できます（国別の拡張子には対応しないものが多くあります）。それ以降、ドメインは支払った期間の終わりまであなたのもので、返金はありません。"
         ]
@@ -148545,7 +148545,7 @@ export const reviewsData: unknown[] = [
         "heading": "支払う前のチェックリスト",
         "bullets": [
           "初年度だけでなく更新の列を見てください。ドメインはサイトがある限り毎年更新されます。",
-          "移管するなら登録日と前回の移管日を確認してください。60日未満だと移管は始まりません。",
+          "移管前に、両方のレジストラで拡張子、日付、ロックと手順を確認しましょう。登録からの日数だけが条件ではありません。",
           "自分のものになるアカウントで、自分のメールアドレスを使い、自動更新をオンにして買ってください。",
           "ホスティングプランにドメインが付いてきたなら、2年目の更新料をメモしてください。購入前に表示されます。",
           "SONAR20はホスティングプランに20%の割引です。ドメイン単独の購入では、コードは使えません。"
@@ -148554,12 +148554,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "どの選択肢を選ぶか",
         "paragraphs": [
-          "**Hostingerで買う**のは、サイトをHostingerでホスティングする予定で、ドメイン、DNS、更新を1つの管理画面にまとめたい場合です。支払う前に更新料を確認してください。",
-          "**別の場所で買って向ける**のは、すでに別のレジストラにドメインがある場合、契約を分けたい場合、またはそちらの更新料のほうが安い場合です。DNSを向けるのは管理画面での設定で、サイトは同じように動きます。",
-          "**移管する**のは、登録から60日以上たったドメインだけにして、Hostingerでの更新料が今払っている額に見合うときだけにしてください。移管で登録が1年分延びる拡張子なら、お金を捨てることにはなりません。",
-          "迷ったら移管せず、ドメインを向けて、登録は今の場所に置いておいてください。移管はあとでもできますし、サイトは止まりません。"
+          "**Hostingerで登録するのは**、管理画面をまとめることが自分の運用に役立ち、更新料が予算に合う場合です。支払い前に適用料金を比較します。",
+          "**別の場所に残してDNSを接続するのは**、すでにドメインがある場合や契約を分けたい場合です。設定を変える前に、サイトとメールで使うレコードを確認します。",
+          "**登録を移管するのは**、拡張子の条件、ロック、費用、有効期限への影響を確認してからです。1年が加算される場合でも、それだけで割安とは限りません。",
+          "迷っているのがサイトのホスティング先だけなら、まず移管せずに接続する方法を比較してください。どの方法でもDNS変更を計画し、無停止を前提にしないでください。"
         ],
-        "emphasis": "自分のサイトなら、ドメインと更新が同じ管理画面に収まるので、登録もホスティングと一緒にします。"
+        "emphasis": "自分の運用なら、更新料と管理権限が希望に合うことを確認したうえで、登録とホスティングを同じ管理画面にまとめたいと思います。料金が必ず安くなるという意味ではありません。"
       },
       {
         "heading": "SONAR20クーポンと料金",
@@ -148570,9 +148570,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "ホスティングを変えてもドメインを失わずにすみますか？ はい。ドメインはあなたのもので、Hostingerのアカウントに残ります。新しいホスティングにDNSを向けるか、登録または前回の移管から60日がたったあとで登録を移管します。",
+          "ドメインを失わずにホスティングを変えられる？ 登録はそのままにし、DNSで新しいホスティングへ接続できます。ドメインの移管は不要です。変更前にサイトとメールのDNSレコードを確認してください。",
           "メールを使うのにドメインは必要ですか？ はい。you@yourcompany.comのようなアドレスには、ドメインが必要です。ホスティングは必須ではなく、Hostingerは、ドメインをメール専用にしたり、別のサイトへの転送だけに使ったりできると書いています。",
-          "Hostingerのドメインをほかのレジストラへ移管できますか？ はい、登録または前回の移管から60日がたてば可能です。管理画面でドメインのロックを解除し、認証コードを取得して、新しいレジストラでメールにより確認します。成立した移管は返金されません。",
+          "Hostingerのドメインを別のレジストラへ移せる？ 拡張子の移管条件と適用されるロックによります。手順を確認し、必要に応じてロック解除、コード取得、申請の確認を行ってください。完了した移管は通常の返金対象外です。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
@@ -148586,7 +148586,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。ドメイン単独の購入には適用されません。カートで価格を確認してください。ドメインの金額も、支払う前にカートで確認してください。",
+      "text": "ホスティングも必要ならプランを比較し、SONAR20 を使ってください。対象の新規購入では最初の期間が20%割引で、更新割引はありません。ドメイン単独には適用されないため、登録料と更新料を別に比較してください。",
       "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148608,11 +148608,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "ドメインをHostingerに置くのは、サイトをHostingerでホスティングし、ドメイン、DNS、更新を1つの管理画面にまとめたい場合です。",
-        "移管するのは、ドメインの登録または前回の移管から60日以上たち、Hostingerでの更新料が今払っている額に見合う場合だけです。"
+        "拡張子とロックの条件で移管でき、Hostingerでの更新料が今払っている額に見合う場合だけです。"
       ],
       "skipIf": [
         "すでに別のレジストラにドメインがある、契約を分けたい、またはそちらの更新料のほうが安いなら、見送ってください。DNSを向けて、登録は今の場所に置いておきます。",
-        "登録または前回の移管から60日未満なら、移管は見送ってください。移管は始まりません。",
+        "拡張子や現在のロックで移管できない場合、または移管条件を確認できていない場合は見送ってください。",
         "ドメインがフリーランスや代理店の名前やアカウントになるなら、見送ってください。あなたが管理するメールアドレスを使います。"
       ]
     }
@@ -148650,7 +148650,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger 도메인: 세 가지 방법(Hostinger에서 구매, 다른 곳에서 구매하고 연결, 이전)과 결제 전에 확인할 점.",
-    "metaDescription": "도메인은 Hostinger에서 살까요, 다른 곳에 등록하고 연결할까요, 아니면 이전할까요? 60일 규칙, 도메인의 소유자, 결제 전 체크리스트를 정리했습니다.",
+    "metaDescription": "SONAR20은 신규 구매의 첫 기간 20% 할인이며 도메인 단독 구매에는 적용되지 않습니다. 갱신 비용, 등록 관리 권한, 이전 자격과 잠금을 결제 전에 비교하세요.",
     "publishedAt": "2026년 10월 28일",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -148665,20 +148665,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "한눈에 보기",
         "paragraphs": [
-          "도메인은 호스팅과 별개의 계정입니다. Hostinger에 두어도, 다른 등록 기관에 두어도 사이트는 두 방식 모두 작동합니다. 첫해 가격이 아니라 갱신 요금과 떠나기 쉬운 정도로 고르세요. 모든 것을 한 패널에서 관리하고 싶다면 Hostinger에서 구매하고, 이전은 등록 또는 마지막 이전 후 60일 이상 지난 도메인만 하세요."
+          "도메인은 호스팅과 별개의 계정입니다. Hostinger에 두어도, 다른 등록 기관에 두어도 사이트는 두 방식 모두 작동합니다. 첫해 가격이 아니라 갱신 요금과 떠나기 쉬운 정도로 고르세요. 모든 것을 한 패널에서 관리하고 싶다면 Hostinger에서 구매하고, 이전은 자격 조건을 확인한 뒤, 등록 또는 마지막 이전 후 60일 이상 지난 도메인만 하세요."
         ]
       },
       {
-        "heading": "도메인과 호스팅은 별개의 계정입니다",
+        "heading": "도메인 등록과 호스팅은 별개 서비스입니다",
         "paragraphs": [
-          "도메인과 호스팅은 별개의 두 계정입니다. 한쪽은 주소(사람이 입력하는 이름), 다른 쪽은 사이트가 놓이는 컴퓨터입니다. 비용도 따로 내며, 같은 회사일 필요가 없습니다. 한 회사에 등록한 도메인을 다른 회사의 호스팅에 연결할 수 있습니다. Hostinger 페이지도 Hostinger에 등록한 도메인을 다른 호스팅 업체에 연결할 수 있다고 말합니다.",
+          "도메인은 입력하는 주소이고, 호스팅은 사이트를 운영하는 서비스입니다. 같은 회사나 다른 업체에서 계약할 수 있으며 패키지도 있습니다. 한곳에 도메인을 등록했다고 그곳에서 사이트를 운영해야 하는 것은 아닙니다. DNS로 다른 서비스에 연결할 수 있습니다.",
           "그래서 결정할 것은 \"Hostinger냐 아니냐\"가 아닙니다. 도메인 등록을 어디에 둘지, 매년 갱신에 얼마가 드는지, 언젠가 호스팅을 바꾸면 어떻게 되는지입니다. 저렴한 첫해는 가장 덜 중요합니다. 사이트가 있는 동안 도메인은 계속 갱신됩니다."
         ]
       },
       {
         "heading": "세 가지 방법",
         "paragraphs": [
-          "도메인에는 세 가지 방법이 있습니다(Hostinger 페이지 기준). 방법마다 달라지는 것은 갱신 요금을 누가 청구하느냐입니다."
+          "표는 Hostinger 신규 등록, 다른 곳에 등록하고 연결, 기존 도메인 이전을 비교합니다. 갱신 요금을 청구하는 곳뿐 아니라 패널, 절차와 이전 조건도 달라집니다."
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -148712,7 +148712,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Hostinger로 이전",
-              "도메인을 등록한 지 60일이 넘었고 한곳에 모으고 싶을 때",
+              "이미 도메인을 소유하고 관리를 한곳으로 모으려 하며 해당 확장자의 이전 자격을 확인한 경우",
               "다음 해부터 Hostinger의 갱신 요금",
               "첫 번째 방법과 같은 규칙",
               "회원님. 소유 정보는 이전해도 바뀌지 않습니다"
@@ -148730,20 +148730,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "이전: 60일 규칙과 절차",
+        "heading": "이전: 자격, 잠금과 절차",
         "paragraphs": [
           "이전은 도메인 등록을 한 회사에서 다른 회사로 옮기는 것입니다. Hostinger의 이전 페이지에 따르면 옮겨지는 것은 등록뿐입니다. 사이트와 이메일은 현재 제공업체에 남고, 기존 네임서버를 유지하면 계속 작동합니다. Hostinger 네임서버를 고르면 다른 업체의 DNS에 의존하는 서비스는 레코드를 업데이트할 때까지 멈출 수 있습니다. 소유 정보는 바뀌지 않습니다. 바뀌는 것은 갱신 요금을 청구하는 곳과 DNS를 관리하는 곳입니다.",
           "Hostinger 페이지의 규칙입니다."
         ],
         "bullets": [
-          "**등록 후 경과일:** 대부분의 경우 도메인이 등록된 지 최소 60일이 지나야 합니다. Hostinger에서 새로 등록한 도메인도 60일 동안은 이전할 수 없습니다. 기간은 등록일 또는 마지막 이전일부터 세고, 확장자에 따라 자체 규칙이 있을 수 있습니다.",
+          "**이전 자격:** 확장자 규칙, 등록일과 이전 잠금을 확인하세요. 적용 조건에 60일 기간이 포함될 수 있지만, 그 기간이 지났다는 사실만으로 이전 자격이 보장되지는 않습니다.",
           "**잠금 해제와 코드:** 현재 등록 기관의 패널에서 도메인 잠금을 풀고 인증 코드(EPP 코드, 또는 이전 코드)를 받습니다.",
           "**확인:** Hostinger에 코드를 입력하면 등록 기관에서 확인 이메일이 옵니다. 확인하지 않으면 이전은 진행되지 않습니다.",
           "**소요 시간:** 최대 7일. 현재 등록 기관이 빨리 승인하고 이메일을 바로 확인하면 더 빨라집니다.",
           "**비용:** 보통 무료가 아닙니다(대상 호스팅 플랜이 있으면 무료일 수 있습니다). 결제할 때 1년 갱신을 추가하면 기존 기간에 더해지지만, 일부 확장자에서만 가능하고 국가별 확장자 중에는 만료일이 그대로인 것도 있습니다."
         ],
         "postParagraphs": [
-          "Hostinger에서 다른 곳으로 이전하는 것도 같은 순서를 거꾸로 따릅니다. 등록 후 60일, Hostinger 패널에서 잠금 해제, 코드 받기, 이메일로 확인. 성공한 이전은 환불되지 않습니다. [Hostinger의 환불 및 갱신 규칙](/ko/reviews/hostinger-trust-guide-ko)을 확인하세요."
+          "다른 등록 기관으로 옮길 때는 확장자 규칙과 현재 잠금을 확인하고, 절차상 필요한 경우 잠금 해제, 코드와 확인을 진행하세요. 완료된 이전은 일반 환불 대상에서 제외됩니다. 자세한 내용은 [Hostinger의 환불 및 갱신 규칙](/ko/reviews/hostinger-trust-guide-ko)."
         ]
       },
       {
@@ -148753,7 +148753,7 @@ export const reviewsData: unknown[] = [
           "도메인을 계속 자신의 것으로 지키는 세 가지 주의점:"
         ],
         "bullets": [
-          "**계정:** 도메인은 구매한 Hostinger 계정에 속합니다. 프리랜서나 대행사의 이메일이 아니라 본인이 관리하는 이메일을 쓰세요. 다른 사람 이름으로 등록하면 나중에 이전할 때 그 사람에게 의존하게 됩니다.",
+          "**등록 명의와 접근 권한:** 누구 이름으로 등록하고 누가 관리 계정을 통제할지 확인하세요. 본인이 관리하는 복구 이메일을 사용하세요. 개인이나 대행사가 맡는 경우에도 구매 전에 명의와 접근 권한을 협의하세요. 둘은 같은 개념이 아닙니다.",
           "**갱신:** Hostinger는 자동 갱신을 켜 두라고 권합니다. 만료된 도메인은 사이트와 이메일을 멈춥니다. 도메인 갱신은 환불되지 않으므로 계정의 카드가 유효해야 합니다.",
           "**등록 환불:** 신규 등록은 96시간 안에만, 그것도 환불을 허용하는 확장자에서만 환불할 수 있습니다(국가별 확장자 중에는 환불이 안 되는 것이 많습니다). 그 뒤로는 결제한 기간이 끝날 때까지 도메인은 본인 것이고, 환불은 없습니다."
         ]
@@ -148762,7 +148762,7 @@ export const reviewsData: unknown[] = [
         "heading": "결제 전 체크리스트",
         "bullets": [
           "첫해만 보지 말고 갱신 요금을 보세요. 도메인은 사이트가 있는 동안 매년 갱신됩니다.",
-          "이전할 계획이면 등록일과 마지막 이전일을 확인하세요. 60일이 안 됐으면 이전이 시작되지 않습니다.",
+          "이전 전에 양쪽 등록 기관의 확장자, 날짜, 잠금과 절차를 확인하세요. 등록 기간만이 유일한 조건은 아닙니다.",
           "자신 소유가 될 계정에서, 본인 이메일로 구매하고 자동 갱신을 켜 두세요.",
           "도메인이 호스팅 플랜에 포함되어 있다면 2년째 갱신 요금을 메모하세요. 구매 전에 표시됩니다.",
           "SONAR20은 호스팅 플랜에 20% 할인을 줍니다. 도메인 단독 구매에는 코드가 적용되지 않습니다."
@@ -148771,12 +148771,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "어떤 방법을 고를까",
         "paragraphs": [
-          "사이트를 Hostinger에서 호스팅할 예정이고, 도메인, DNS, 갱신을 한 패널에서 관리하고 싶다면 **Hostinger에서 구매하세요**. 결제 전에 갱신 요금을 확인하세요.",
-          "이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴하다면 **다른 곳에서 구매하고 연결하세요**. DNS 연결은 패널에서 설정하는 일이고, 사이트는 똑같이 작동합니다.",
-          "등록한 지 60일이 넘은 도메인만, 그리고 Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 **이전하세요**. 이전하면 등록이 1년 늘어나는 확장자라면 돈을 버리는 것이 아닙니다.",
-          "잘 모르겠다면 이전하지 마세요. 도메인을 연결하고 등록은 지금 있는 곳에 두세요. 나중에 이전할 수 있고, 사이트는 멈추지 않습니다."
+          "**Hostinger에서 등록하겠습니다.** 단, 한 패널이 관리에 도움이 되고 갱신 요금이 예산에 맞을 때입니다. 결제 전에 적용 요금을 비교하겠습니다.",
+          "**다른 곳에 유지하고 DNS를 연결하겠습니다.** 이미 도메인이 있거나 서비스를 나누고 싶을 때입니다. 설정을 바꾸기 전에 사이트와 이메일의 레코드를 확인하겠습니다.",
+          "**등록 이전은** 확장자 자격 조건, 잠금, 비용과 만료일 영향을 확인한 뒤 검토하겠습니다. 1년이 포함되더라도 그것만으로 모든 이전이 절약은 아닙니다.",
+          "질문이 사이트 호스팅 위치뿐이라면 우선 이전 없이 연결하는 방식을 비교하세요. 어떤 경로든 DNS 변경을 계획하고 무중단을 가정하지 마세요."
         ],
-        "emphasis": "제 사이트라면 도메인과 갱신이 한 패널에 있으니 등록도 호스팅과 함께 두는 쪽을 고를 것입니다."
+        "emphasis": "제 관리 방식에는 갱신 요금과 도메인 관리 권한이 맞는지 확인한 뒤 등록과 호스팅을 한 패널에 두는 쪽이 좋겠습니다. 관리상 선호이지 더 저렴하다는 보장은 아닙니다."
       },
       {
         "heading": "SONAR20 쿠폰과 요금",
@@ -148787,9 +148787,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "도메인을 잃지 않고 호스팅을 바꿀 수 있나요? 네. 도메인은 본인 것이고 Hostinger 계정에 남습니다. 새 호스팅으로 DNS를 연결하거나, 등록 또는 마지막 이전 후 60일이 지난 다음 등록을 이전하면 됩니다.",
+          "도메인을 잃지 않고 호스팅을 바꿀 수 있나요? 도메인 등록은 그대로 두고 DNS로 새 호스팅에 연결할 수 있습니다. 도메인을 이전할 필요는 없습니다. 바꾸기 전에 사이트와 이메일의 DNS 레코드를 확인하세요.",
           "이메일을 쓰려면 도메인이 필요한가요? 네. you@yourcompany.com 같은 주소에는 도메인이 있어야 합니다. 호스팅은 필수가 아니며, Hostinger는 도메인을 이메일 전용으로 쓰거나 다른 사이트로 연결하는 용도로만 쓸 수 있다고 말합니다.",
-          "Hostinger 도메인을 다른 등록 기관으로 이전할 수 있나요? 네, 등록 또는 마지막 이전 후 60일이 지나면 가능합니다. 패널에서 도메인 잠금을 풀고, 인증 코드를 받아, 새 등록 기관에서 이메일로 확인합니다. 성공한 이전은 환불되지 않습니다.",
+          "Hostinger 도메인을 다른 등록 기관으로 이전할 수 있나요? 확장자의 이전 자격과 적용되는 잠금에 따라 다릅니다. 절차를 확인하고 필요한 경우 잠금을 풀고 코드를 받아 신청을 확인하세요. 완료된 이전은 일반 환불 대상에서 제외됩니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
@@ -148803,7 +148803,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 도메인 단독 구매에는 코드가 적용되지 않습니다.",
+      "text": "호스팅도 필요하다면 플랜을 비교하고 SONAR20을 사용하세요. 적용 대상 신규 구매의 첫 기간은 20% 할인되며 갱신 할인은 없습니다. 도메인 단독 구매에는 적용되지 않으니 등록과 갱신 요금은 따로 비교하세요.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148825,11 +148825,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "사이트를 Hostinger에서 호스팅하고 도메인, DNS, 갱신을 한 패널에서 관리하고 싶다면 도메인을 Hostinger에 두세요.",
-        "이전은 도메인을 등록하거나 마지막으로 이전한 지 60일이 넘었고, Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 하세요."
+        "확장자와 잠금 조건상 이전이 가능하고, Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 이전하세요."
       ],
       "skipIf": [
         "이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴하다면 넘기세요. DNS를 연결하고 등록은 지금 있는 곳에 두세요.",
-        "등록하거나 마지막으로 이전한 지 60일이 안 됐다면 이전은 넘기세요. 이전이 시작되지 않습니다.",
+        "확장자나 현재 잠금 때문에 이전할 수 없거나 이전 자격을 확인하지 못했다면 넘기세요.",
         "도메인이 프리랜서나 대행사의 이름이나 계정에 들어가게 된다면 넘기세요. 본인이 관리하는 이메일을 쓰세요."
       ]
     }
@@ -148867,7 +148867,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger 域名：三条路（在 Hostinger 买、在别处买再指向、转入）以及付款前要确认什么。",
-    "metaDescription": "域名是在 Hostinger 买、在别处注册再指向，还是转入？60 天规则、域名归谁、付款前的清单，一次说清。",
+    "metaDescription": "SONAR20 为新购首期 20% 折扣，单买域名不适用。付款前比较续费、注册管理权、转移资格与锁定。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -148882,20 +148882,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "域名是和主机分开的账户：可以放在 Hostinger，也可以放在别的注册商，网站两种方式都能运行。选的时候看续费价和好不好迁出，不要看第一年。想把一切放在一个面板里，就在 Hostinger 买；转入只限注册或上次转移满 60 天的域名。"
+          "域名是和主机分开的账户：可以放在 Hostinger，也可以放在别的注册商，网站两种方式都能运行。选的时候看续费价和好不好迁出，不要看第一年。想把一切放在一个面板里，就在 Hostinger 买；转入只限符合资格、注册或上次转移满 60 天的域名。"
         ]
       },
       {
-        "heading": "域名和主机是两个账户",
+        "heading": "域名注册和主机是不同服务",
         "paragraphs": [
-          "域名和主机是两个账户：一边是地址（人们输入的名字），另一边是网站所在的电脑。两项费用分开付，也不必在同一家公司。在一家公司注册的域名，可以指向另一家公司的主机。Hostinger 的页面本身就说，在它那里注册的域名可以指向其他主机服务商。",
+          "域名是输入的地址，主机是运行网站的服务。可以向同一家公司或不同服务商购买，也可能打包出售。在某处注册域名，不代表必须在那里运行网站；DNS 可以将域名连接到其他服务。",
           "所以要决定的不是“用不用 Hostinger”，而是域名的注册放在哪里、每年续费多少，以及哪天换主机会怎样。便宜的第一年反而最不重要：只要网站还在，域名就要一直续费。"
         ]
       },
       {
         "heading": "三条路",
         "paragraphs": [
-          "域名有三条路（依据 Hostinger 的页面），区别在于谁来收续费。"
+          "表格比较三种安排：在 Hostinger 新注册、在别处注册后连接、转移已有域名。不仅续费收款方不同，管理面板、流程和转移条件也要比较。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -148929,7 +148929,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "转入 Hostinger",
-              "域名已注册满 60 天，想全部放在一个地方",
+              "已经持有域名，想集中管理，并确认该后缀符合转移资格",
               "从下一年起按 Hostinger 的续费价",
               "与第一条路相同",
               "你；所有权信息不会因转移而改变"
@@ -148947,20 +148947,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "转入：60 天规则与步骤",
+        "heading": "转移：资格、锁定与步骤",
         "paragraphs": [
           "转入是把域名的注册从一家公司换到另一家。Hostinger 的转移页面说，转的只是注册：网站和邮箱留在原服务商，只要保留现有域名服务器就照常运行。如果改用 Hostinger 的域名服务器，依赖其他服务商 DNS 的服务可能会中断，直到你更新记录。所有权信息不变。变的是谁来收续费，以及你在哪里管理 DNS。",
           "规则如下，依据 Hostinger 的页面："
         ],
         "bullets": [
-          "**注册后天数：**多数情况下，域名需注册满 60 天。在 Hostinger 新注册的域名同样要锁 60 天才能转出。天数从注册或上次转移起算，部分后缀另有规定。",
+          "**转移资格：**确认域名后缀规则、注册日期与转移锁定。适用条件可能包含60天期间，但过了这个期间不代表一定能转移。",
           "**解锁与代码：**在现有注册商的面板解锁域名，取得授权码（EPP 码，或叫转移码）。",
           "**确认：**在 Hostinger 填入代码后，注册商会发一封确认邮件。不确认，转移就不会进行。",
           "**时间：**最多七天；如果现有注册商很快放行、你也马上确认邮件，会更快。",
           "**费用：**通常不是免费的（有符合条件的主机套餐时可能免费）。付款时加上 1 年续费，会加在你原有的期限上，但只限部分后缀；有些国家和地区后缀的到期日不变。"
         ],
         "postParagraphs": [
-          "从 Hostinger 转出遵循同样的逻辑，只是反过来：注册满 60 天、在 Hostinger 面板解锁、取得代码、用邮件确认。成功的转移不退款；请看 [Hostinger 的退款与续费规则](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+          "转出时请确认域名后缀规则及当前锁定，并依程序需要解锁、取得代码及确认申请。已完成的转移不在一般退款范围内。详见 [Hostinger 的退款与续费规则](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
         ]
       },
       {
@@ -148970,7 +148970,7 @@ export const reviewsData: unknown[] = [
           "三件事能让域名一直是你的："
         ],
         "bullets": [
-          "**账户：**域名属于购买它的那个 Hostinger 账户。用你自己掌控的邮箱，不要用自由职业者或代理公司的。以别人名义注册的话，日后转移要靠对方。",
+          "**登记人和访问权：**确认域名登记在谁的名下、谁控制管理账户。使用你掌握的恢复邮箱。如果由个人或代理公司代办，请在购买前商定登记信息和访问权；两者不是一回事。",
           "**续费：**Hostinger 建议开着自动续费。域名过期会让网站和邮箱一起停摆。域名续费不退款，所以账户里的银行卡要保持有效。",
           "**注册退款：**新注册只能在 96 小时内退款，而且只限支持退款的后缀（许多国家和地区后缀不支持）。之后直到已付期限结束，域名都是你的，但不能退。"
         ]
@@ -148979,7 +148979,7 @@ export const reviewsData: unknown[] = [
         "heading": "付款前的清单",
         "bullets": [
           "看续费那一项，不要只看第一年。只要网站还在，域名就要年年续费。",
-          "打算转入的话，先看注册日期和上次转移日期：不满 60 天，转移不会开始。",
+          "转移前确认两家注册商的域名后缀、日期、锁定与程序；注册时间不是唯一条件。",
           "在将来属于你的账户里购买，用你自己的邮箱，并开着自动续费。",
           "如果域名是随主机套餐附带的，记下第二年的续费价：下单前就会显示。",
           "SONAR20 对主机套餐优惠 20%；单买域名时，代码不适用。"
@@ -148988,12 +148988,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "该选哪条路",
         "paragraphs": [
-          "**在 Hostinger 买**：网站打算放在 Hostinger，并想把域名、DNS 和续费放在同一个面板。付款前先确认续费价。",
-          "**在别处买再指向**：已经在别的注册商有域名，想把账户分开，或者那边的续费价更低。把 DNS 指向新地址只是面板里的一项设置，网站照常运行。",
-          "**转入**：只限注册满 60 天的域名，而且只在 Hostinger 的续费价比你现在付的划算时才转。转入能多出一年注册的后缀，这笔钱不算白花。",
-          "拿不准就别转：把域名指向新主机，注册留在原处。以后随时可以转，网站不会中断。"
+          "**我会在 Hostinger 注册**，前提是统一面板方便管理，且续费符合预算。付款前先比较适用价格。",
+          "**我会保留外部注册并连接 DNS**，如果已经有域名，或希望分开服务。修改配置前，先检查网站与邮箱使用的记录。",
+          "**我会在核对后转移注册**，包括后缀资格、锁定、费用和到期日影响。请与当前支出整体比较；包含额外一年不代表每次转移都省钱。",
+          "如果问题只是网站放在哪里，可以先比较不转移而连接的方式。规划 DNS 变更，不要假设选择任何一条路径就保证不中断。"
         ],
-        "emphasis": "如果是我自己的网站，我会把注册和主机放在一起，因为域名和续费都在同一个面板。"
+        "emphasis": "以我的管理习惯，确认续费与域名管理权适合后，会倾向将注册与主机放在同一面板。这是管理偏好，不是最低价格的保证。"
       },
       {
         "heading": "SONAR20 优惠码与价格",
@@ -149004,9 +149004,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "换主机会丢域名吗？不会。域名是你的，留在 Hostinger 账户里；你可以把 DNS 指向新主机，或在注册或上次转移满 60 天后再转移注册。",
+          "换主机会丢失域名吗？可以保留原本注册，通过DNS连接新主机，不必转移域名。变更前请确认网站与邮箱使用的DNS记录。",
           "用邮箱一定要有域名吗？要。像 you@yourcompany.com 这样的地址，域名必须存在；主机不是必需的，Hostinger 说域名可以只用于邮箱，或只用来跳转到另一个网站。",
-          "可以把 Hostinger 的域名转到别的注册商吗？可以，注册或上次转移满 60 天后：在面板里解锁域名，取得授权码，再到新注册商用邮件确认。成功的转移不退款。",
+          "可以把Hostinger域名转到其他注册商吗？取决于域名后缀资格与适用锁定。请确认程序，按需解锁、取得代码并确认申请。已完成的转移不在一般退款范围内。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
@@ -149020,7 +149020,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。单独购买域名时，代码不适用。",
+      "text": "如果还需要主机，请比较套餐并使用 SONAR20：符合条件的新购首期优惠 20%，续费不打折。单买域名不适用，请单独比较注册与续费。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149042,11 +149042,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "网站打算放在 Hostinger，并想把域名、DNS 和续费放在同一个面板，就把域名放在 Hostinger。",
-        "只有在域名注册或上次转移满 60 天，且 Hostinger 的续费价比你现在付的划算时，才转入。"
+        "只有在域名符合资格（注册或上次转移满 60 天、没有锁定），且 Hostinger 的续费价比你现在付的划算时，才转入。"
       ],
       "skipIf": [
         "如果已经在别的注册商有域名、想把账户分开，或者那边续费更低，就不必转：把 DNS 指向新地址，注册留在原处。",
-        "如果注册或上次转移不满 60 天，就先别转：转移不会开始。",
+        "域名后缀或当前锁定阻止转移，或尚未确认转移资格时，就先别转。",
         "如果域名会落在自由职业者或代理公司的名下或账户里，就先别买：用你自己掌控的邮箱。"
       ]
     }
@@ -149084,7 +149084,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger 網域：三條路（在 Hostinger 買、在別處買再指向、轉入）以及付款前要確認什麼。",
-    "metaDescription": "網域是在 Hostinger 買、在別處註冊再指向，還是轉入？60 天規則、網域歸誰、付款前的清單，一次說清。",
+    "metaDescription": "SONAR20 為新購首期 20% 折扣，單買網域不適用。付款前比較續訂費、註冊管理權、轉移資格與鎖定。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -149099,20 +149099,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "網域是和主機分開的帳戶：可以放在 Hostinger，也可以放在別的註冊商，網站兩種方式都能運作。選的時候看續訂價和好不好遷出，不要看第一年。想把一切放在同一個控制台裡，就在 Hostinger 買；轉入只限註冊或上次轉移滿 60 天的網域。"
+          "網域是和主機分開的帳戶：可以放在 Hostinger，也可以放在別的註冊商，網站兩種方式都能運作。選的時候看續訂價和好不好遷出，不要看第一年。想把一切放在同一個控制台裡，就在 Hostinger 買；轉入只限符合資格、註冊或上次轉移滿 60 天的網域。"
         ]
       },
       {
-        "heading": "網域和主機是兩個帳戶",
+        "heading": "網域註冊和主機是不同服務",
         "paragraphs": [
-          "網域和主機是兩個帳戶：一邊是網址（人們輸入的名稱），另一邊是網站所在的電腦。兩項費用分開付，也不必在同一家公司。在一家公司註冊的網域，可以指向另一家公司的主機。Hostinger 的頁面本身就說，在它那裡註冊的網域可以指向其他主機服務商。",
+          "網域是輸入的網址，主機是運行網站的服務。可以向同一家公司或不同服務商購買，也可能包在同一方案。在某處註冊網域，不代表必須在那裡運行網站；DNS 可以將網域連接到其他服務。",
           "所以要決定的不是「用不用 Hostinger」，而是網域的註冊放在哪裡、每年續訂多少，以及哪天換主機會怎樣。便宜的第一年反而最不重要：只要網站還在，網域就要一直續訂。"
         ]
       },
       {
         "heading": "三條路",
         "paragraphs": [
-          "網域有三條路（依據 Hostinger 的頁面），差別在於誰來收續訂費。"
+          "表格比較三種安排：在 Hostinger 新註冊、在別處註冊後連接、移轉既有網域。不只續約收款方不同，控制台、流程和移轉條件也需要比較。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -149146,7 +149146,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "轉入 Hostinger",
-              "網域已註冊滿 60 天，想全部放在同一個地方",
+              "已經持有網域，想集中管理，並確認該後綴符合轉移資格",
               "從下一年起按 Hostinger 的續訂價",
               "與第一條路相同",
               "你；所有權資料不會因轉移而改變"
@@ -149164,20 +149164,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "轉入：60 天規則與步驟",
+        "heading": "轉移：資格、鎖定與步驟",
         "paragraphs": [
           "轉入是把網域的註冊從一家公司換到另一家。Hostinger 的轉移頁面說，轉的只是註冊：網站和電子郵件留在原服務商，只要保留現有名稱伺服器就照常運作。如果改用 Hostinger 的名稱伺服器，依賴其他服務商 DNS 的服務可能會中斷，直到你更新記錄。所有權資料不變。變的是誰來收續訂費，以及你在哪裡管理 DNS。",
           "規則如下，依據 Hostinger 的頁面："
         ],
         "bullets": [
-          "**註冊後天數：**多數情況下，網域需註冊滿 60 天。在 Hostinger 新註冊的網域同樣要鎖 60 天才能轉出。天數從註冊或上次轉移起算，部分後綴另有規定。",
+          "**轉移資格：**確認網域後綴規則、註冊日期與轉移鎖定。適用條件可能包含60天期間，但過了這個期間不代表一定能轉移。",
           "**解鎖與代碼：**在現有註冊商的控制台解鎖網域，取得授權碼（EPP 碼，或叫轉移碼）。",
           "**確認：**在 Hostinger 填入代碼後，註冊商會寄一封確認信。不確認，轉移就不會進行。",
           "**時間：**最多七天；如果現有註冊商很快放行、你也馬上確認信件，會更快。",
           "**費用：**通常不是免費的（有符合條件的主機方案時可能免費）。付款時加上 1 年續訂，會加在你原有的期限上，但只限部分後綴；有些國家和地區後綴的到期日不變。"
         ],
         "postParagraphs": [
-          "從 Hostinger 轉出遵循同樣的邏輯，只是反過來：註冊滿 60 天、在 Hostinger 控制台解鎖、取得代碼、用電子郵件確認。成功的轉移不退款；請看 [Hostinger 的退款與續訂規則](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+          "轉出時請確認網域後綴規則及目前鎖定，並依程序需要解鎖、取得代碼及確認申請。已完成的轉移不在一般退款範圍內。詳見 [Hostinger 的退款與續訂規則](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
         ]
       },
       {
@@ -149187,7 +149187,7 @@ export const reviewsData: unknown[] = [
           "三件事能讓網域一直是你的："
         ],
         "bullets": [
-          "**帳戶：**網域屬於購買它的那個 Hostinger 帳戶。用你自己掌控的電子郵件，不要用接案者或代理公司的。以別人名義註冊的話，日後轉移要靠對方。",
+          "**登記人和存取權：**確認網域登記在誰名下，以及誰控制管理帳戶。使用你掌握的復原電子郵件。如果由個人或代理公司代辦，請在購買前商定登記資料和存取權；兩者不是同一件事。",
           "**續訂：**Hostinger 建議開著自動續訂。網域過期會讓網站和電子郵件一起停擺。網域續訂不退款，所以帳戶裡的信用卡要保持有效。",
           "**註冊退款：**新註冊只能在 96 小時內退款，而且只限支援退款的後綴（許多國家和地區後綴不支援）。之後直到已付期限結束，網域都是你的，但不能退。"
         ]
@@ -149196,7 +149196,7 @@ export const reviewsData: unknown[] = [
         "heading": "付款前的清單",
         "bullets": [
           "看續訂那一欄，不要只看第一年。只要網站還在，網域就要年年續訂。",
-          "打算轉入的話，先看註冊日期和上次轉移日期：不滿 60 天，轉移不會開始。",
+          "轉移前確認兩家註冊商的網域後綴、日期、鎖定與程序；註冊時間不是唯一條件。",
           "在將來屬於你的帳戶裡購買，用你自己的電子郵件，並開著自動續訂。",
           "如果網域是隨主機方案附帶的，記下第二年的續訂價：下單前就會顯示。",
           "SONAR20 對主機方案優惠 20%；單買網域時，代碼不適用。"
@@ -149205,12 +149205,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "該選哪條路",
         "paragraphs": [
-          "**在 Hostinger 買**：網站打算放在 Hostinger，並想把網域、DNS 和續訂放在同一個控制台。付款前先確認續訂價。",
-          "**在別處買再指向**：已經在別的註冊商有網域，想把帳戶分開，或者那邊的續訂價更低。把 DNS 指向新位址只是控制台裡的一項設定，網站照常運作。",
-          "**轉入**：只限註冊滿 60 天的網域，而且只在 Hostinger 的續訂價比你現在付的划算時才轉。轉入能多出一年註冊的後綴，這筆錢不算白花。",
-          "拿不準就別轉：把網域指向新主機，註冊留在原處。之後隨時可以轉，網站不會中斷。"
+          "**我會在 Hostinger 註冊**，前提是統一控制台方便管理，且續約符合預算。付款前先比較適用價格。",
+          "**我會保留外部註冊並連接 DNS**，如果已經有網域，或希望分開服務。修改設定前，先檢查網站與信箱使用的紀錄。",
+          "**我會在確認後移轉註冊**，包括後綴資格、鎖定、費用和到期日的影響。請與目前支出整體比較；包含額外一年不代表每次移轉都省錢。",
+          "如果問題只是網站放在哪裡，可以先比較不移轉而連接的方式。規劃 DNS 變更，不要假設選擇任何一條路徑就保證不中斷。"
         ],
-        "emphasis": "如果是我自己的網站，我會把註冊和主機放在一起，因為網域和續訂都在同一個控制台。"
+        "emphasis": "以我的管理習慣，確認續約與網域管理權適合後，會傾向將註冊和主機放在同一控制台。這是管理偏好，不是最低價格的保證。"
       },
       {
         "heading": "SONAR20 優惠碼與價格",
@@ -149221,9 +149221,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "換主機會丟網域嗎？不會。網域是你的，留在 Hostinger 帳戶裡；你可以把 DNS 指向新主機，或在註冊或上次轉移滿 60 天後再轉移註冊。",
+          "換主機會失去網域嗎？可以保留原本註冊，透過DNS連接新主機，不必轉移網域。變更前請確認網站與電子郵件使用的DNS記錄。",
           "使用電子郵件一定要有網域嗎？要。像 you@yourcompany.com 這樣的位址，網域必須存在；主機不是必需的，Hostinger 說網域可以只用於電子郵件，或只用來轉址到另一個網站。",
-          "可以把 Hostinger 的網域轉到別的註冊商嗎？可以，註冊或上次轉移滿 60 天後：在控制台解鎖網域，取得授權碼，再到新註冊商用電子郵件確認。成功的轉移不退款。",
+          "可以把Hostinger網域轉到其他註冊商嗎？取決於網域後綴資格與適用鎖定。請確認程序，依需要解鎖、取得代碼並確認申請。已完成的轉移不在一般退款範圍內。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
@@ -149237,7 +149237,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。單買網域時，SONAR20 不適用；付款前請在購物車核對金額。",
+      "text": "如果還需要主機，請比較方案並使用 SONAR20：符合條件的新購首期享 20% 折扣，續約不打折。單買網域不適用，請分別比較註冊與續約。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149259,11 +149259,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "網站打算放在 Hostinger，並想把網域、DNS 和續訂放在同一個控制台，就把網域放在 Hostinger。",
-        "只有在網域註冊或上次轉移滿 60 天，且 Hostinger 的續訂價比你現在付的划算時，才轉入。"
+        "只有在網域符合資格（註冊或上次轉移滿 60 天、沒有鎖定），且 Hostinger 的續訂價比你現在付的划算時，才轉入。"
       ],
       "skipIf": [
         "如果已經在別的註冊商有網域、想把帳戶分開，或者那邊續訂更低，就不必轉：把 DNS 指向新位址，註冊留在原處。",
-        "如果註冊或上次轉移不滿 60 天，就先別轉：轉移不會開始。",
+        "網域後綴或目前鎖定阻止轉移，或尚未確認轉移資格時，就先別轉。",
         "如果網域會落在接案者或代理公司的名下或帳戶裡，就先別買：用你自己掌控的電子郵件。"
       ]
     }

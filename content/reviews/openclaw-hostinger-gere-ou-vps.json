@@ -119,7 +119,7 @@
       "bullets": [],
       "postParagraphs": [
         "L'offre ne fait pas tout : l'usage de l'IA est facturé à part. Avec les crédits de Hostinger, l'offre gérée inclut un solde de départ, et ce qui dépasse est facturé selon la consommation. Le prix d'une recharge n'apparaît sur aucune page publique, alors vérifiez-le dans le panneau avant de compter dessus. Avec votre propre clé, le fournisseur (OpenAI, Anthropic ou un autre) vous facture directement, selon le modèle et le nombre de conversations.",
-        "L'offre gérée donne 30 jours pour demander un remboursement. Sur le VPS, les 30 jours ne valent qu'une fois 180 jours écoulés depuis la finalisation de votre dernier remboursement de VPS, s'il y en a eu un ; vérifiez les exceptions dans la politique de remboursement d'Hostinger. Un VPS de 12 mois ou plus inclut un domaine .cloud ou .tech gratuit la première année."
+        "L'offre gérée donne 30 jours pour demander un remboursement, sous conditions qui varient selon le produit : consultez la politique de remboursement d'Hostinger avant d'acheter. L'offre historique incluait un domaine .cloud ou .tech la première année avec un VPS d'au moins 12 mois ; vérifiez l'offre actuelle."
       ]
     },
     {
@@ -173,7 +173,7 @@
     {
       "heading": "Code promo SONAR20",
       "paragraphs": [
-        "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+        "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, mensuel ou annuel, y compris avec un compte existant. L'enregistrement de domaines et le renouvellement sont exclus ; le renouvellement est facturé au prix catalogue. Consultez le [guide SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et la [page Hostinger](/fr/coupons/hostinger)."
       ],
       "postParagraphs": [
         "Hostinger est en pleine campagne de Black Friday, et les prix changent. Consultez [le Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) et vérifiez le montant dans le panier avant de payer."
@@ -186,7 +186,7 @@
         "Faut-il un compte OpenAI ou Anthropic ? Non. Dans les deux cas, vous pouvez utiliser les crédits d'IA de Hostinger. Un compte chez le fournisseur n'est nécessaire que si vous préférez votre propre clé.",
         "Existe-t-il un code promo Hostinger pour OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % de réduction sur la première période.",
         "L'offre gérée convient-elle à Hermes Agent ou à Paperclip ? Oui. Les trois sont dans la même offre, « Applications d'automatisation IA », au même prix. La page de Paperclip ne mentionne pas de crédits d'IA, alors apportez votre propre clé.",
-        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+        "Un client Hostinger existant peut-il utiliser SONAR20 ? Il peut s'appliquer à un nouvel achat éligible avec le même compte, pas au renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
       ]
     },
     {
@@ -199,7 +199,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+    "text": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible, hors enregistrement de domaines et renouvellement.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -226,7 +226,7 @@
     "skipIf": [
       "Évitez le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous incombe.",
       "Passez votre tour sur le géré si vous avez besoin d'un accès root ou de plus de mémoire et de disque.",
-      "Passez votre tour sur les deux si le même assistant doit servir des personnes qui ne se font pas confiance : le projet demande un serveur séparé pour chacune."
+      "Passez votre tour sur les deux si le même assistant doit servir des personnes qui ne se font pas confiance : elles ne doivent pas partager une passerelle. Une équipe dont les membres se font confiance demande une autre analyse ; il n'existe pas de règle universelle d'un serveur par personne."
     ]
   }
 }

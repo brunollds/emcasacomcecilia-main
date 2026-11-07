@@ -119,7 +119,7 @@
       "bullets": [],
       "postParagraphs": [
         "El plan no es todo: el uso de la IA se cobra aparte. Con los créditos de Hostinger, el gestionado trae un saldo inicial, y lo que pase de ahí se cobra según el consumo. El precio de una recarga no aparece en ninguna página pública, así que revísalo en el panel antes de contar con él. Con tu propia clave, el proveedor (OpenAI, Anthropic u otro) te cobra directamente, según el modelo y el volumen de conversaciones.",
-        "El plan gestionado tiene 30 días para pedir el reembolso. En el VPS, los 30 días valen solo cuando han pasado 180 días desde que se completó el último reembolso de VPS, si lo hubo; consulta las excepciones en la política de reembolso de Hostinger. Un VPS de 12 meses o más incluye un dominio .cloud o .tech gratis el primer año."
+        "El plan gestionado tiene 30 días para pedir el reembolso, con condiciones que varían según el producto: consulta la política de reembolso de Hostinger antes de contratar. La oferta histórica incluía un dominio .cloud o .tech el primer año con VPS de al menos 12 meses; confirma la oferta actual."
       ]
     },
     {
@@ -173,7 +173,7 @@
     {
       "heading": "Cupón SONAR20",
       "paragraphs": [
-        "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % de descuento en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
+        "Introduce **SONAR20** en el carrito: 20 % en el primer período de una compra nueva elegible, mensual o anual, también con cuenta existente. El registro de dominios y la renovación quedan fuera; la renovación se cobra al precio de lista. Consulta la [guía SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y la [página de Hostinger](/es/coupons/hostinger)."
       ],
       "postParagraphs": [
         "Hostinger está en campaña de Black Friday, y los precios cambian. Mira [el Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas) y revisa el importe en el carrito antes de pagar."
@@ -186,7 +186,7 @@
         "¿Necesitas una cuenta en OpenAI o Anthropic? No. En las dos opciones puedes usar los créditos de IA de Hostinger. La cuenta con el proveedor solo hace falta si prefieres tu propia clave.",
         "¿Hay cupón de descuento de Hostinger para OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % de descuento en el primer período.",
         "¿El plan gestionado sirve para Hermes Agent o Paperclip? Sí. Los tres están en el mismo plan, «Aplicaciones de automatización con IA», al mismo precio. La página de Paperclip no incluye créditos de IA, así que lleva tu propia clave.",
-        "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+        "¿Un cliente existente de Hostinger puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. Ofrece un 20 % en el primer período; el registro de dominio también queda fuera. Comprueba el total del carrito."
       ]
     },
     {
@@ -199,7 +199,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+    "text": "Usa SONAR20: 20 % en el primer período de una compra nueva elegible. No se aplica al registro de dominios ni a la renovación.",
     "label": "Ver los planes con el SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -226,7 +226,7 @@
     "skipIf": [
       "Descarta el VPS si no sabes qué es root ni Docker: actualizar y proteger el sistema queda de tu parte.",
       "Descarta el gestionado si necesitas acceso root o más memoria y disco.",
-      "Descarta ambos si el mismo asistente va a atender a personas que no confían entre sí: el proyecto pide un servidor aparte para cada una."
+      "Descarta ambos si el mismo asistente va a atender a personas que no confían entre sí: no deben compartir gateway. Un equipo que confía entre sí requiere otra evaluación; no hay una regla universal de un servidor por persona."
     ]
   }
 }
