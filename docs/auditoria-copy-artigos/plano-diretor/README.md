@@ -67,7 +67,8 @@ cobriu os 638.
 
 ## Como implementar
 
-São 4 Macro-PRs (decisão do Bruno, 07/11), com um commit por lote, na ordem da seção "Ordem sugerida":
+São 4 Macro-PRs (decisão do Bruno, 07/11), com um commit por lote, na ordem da seção "Ordem sugerida", e
+depois o M5, da revisão do código na resposta rápida:
 
 | Macro-PR | Lotes |
 |---|---|
@@ -75,6 +76,7 @@ São 4 Macro-PRs (decisão do Bruno, 07/11), com um commit por lote, na ordem da
 | M2 | L18, L30, L19, L20, L15, L23 |
 | M3 | L14, L16, L21, L22, L25–L28, L32–L34 |
 | M4 | famílias L01–L13 |
+| M5 | código na resposta rápida, L36 em diante (ver "M5" abaixo), depois do merge do M4 |
 
 Um Macro-PR por vez: o seguinte só começa depois do merge do anterior, a partir da `main` nova. Os lotes
 mexem no mesmo conjunto de arquivos, e a catraca anti-prontuário e o snippet só encolhem, então PRs em
@@ -119,6 +121,36 @@ Regras para quem implementa:
   porque nenhum artigo é novo.
 - **Famílias de 10 (L01–L13):** o lote traz as 10 versões juntas. Aplique o lote inteiro, nunca só uma parte
   dos idiomas: o `test:review-i18n` exige a mesma estrutura nas 10.
+
+## M5: código na resposta rápida
+
+Decisão do Bruno (07/11). É a revisão complementar preparada em `docs/revisao-quickanswer-cupons-2026-11-07/`,
+no checkout principal, fora do git. Ela confere, artigo por artigo, se a resposta rápida entrega o código literal,
+o benefício e a condição principal quando o cupom vale para o assunto do artigo.
+
+- **Quando:** a análise de um artigo pode começar quando o Macro-PR dele entrar na `main`, sobre o texto
+  final. A escrita entra num PR só, depois do merge do M4, a partir da `main` nova.
+- **Formato:** a entrega são lotes neste mesmo formato (`lotes/L36.json`, `L37.json`…; uma família de 10
+  idiomas num lote só), aplicados pelo `aplicar.py` com o mesmo fluxo, os mesmos gates e o Fable no fim.
+  Cada proposta registra a decisão por artigo; quem "mantém sem código" leva a exceção no `motivo`.
+- **Regras da resposta rápida:**
+  - continuam 2 ou 3 frases e 40–60 palavras;
+  - o código entra no lugar de outra frase, de preferência a de encaminhamento, e não por cima dela;
+  - até 70 palavras só quando a resposta rápida traz o código e não cabe sem perder o veredito, com o
+    motivo registrado;
+  - sem R$: a condição entra sem o valor ("acima do pedido mínimo", "exceto lançamentos"), e o valor fica
+    no corpo e na `metaDescription`. Valor por extenso para contornar a regra também não vale.
+- **Exceções:**
+  - 4CW5Y é indicação, sem desconto;
+  - CECILIA010 é código de recompensa, nunca cupom;
+  - SONAR20 vale só em compra nova, nunca em renovação ou domínio;
+  - CECI nunca em fórmula infantil de 0 a 12 meses;
+  - a Insider não cita outros cupons;
+  - loja só de link (Lejour) não tem código;
+  - Kopenhagen está pausada;
+  - artigos de reputação e restrições do MAUAD seguem o brief.
+- **Max Titanium, Probiótica e Insider:** nos artigos "como usar", esperar a remedição de ~14/11 da
+  canibalização com `/cupons/<loja>`.
 
 ## Ordem sugerida
 
