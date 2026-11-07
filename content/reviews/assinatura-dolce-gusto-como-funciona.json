@@ -14,7 +14,7 @@
   },
   "description": "Como funciona a Assinatura NESCAFÉ Dolce Gusto: Geração 1 e NEO, pedido mínimo, frequência, 25% de desconto, frete grátis, cartão recusado, como pular uma entrega e como cancelar.",
   "seoTitle": "Assinatura Dolce Gusto: Como Funciona e Como Cancelar",
-  "metaDescription": "Assinatura Dolce Gusto com o cupom CECI (hoje 10% OFF), que somou com os 25% no nosso teste: Geração 1 ou NEO, mínimo de 3 caixas e como cancelar.",
+  "metaDescription": "Assinatura Dolce Gusto com o cupom CECI (10% OFF a partir de R$ 100): 25% de desconto, frete grátis, mínimo de 3 caixas e como cancelar.",
   "publishedAt": "3 de agosto de 2026",
   "publishedAtISO": "2026-08-03",
   "updatedAt": "2026-11-06",
@@ -141,7 +141,7 @@
         "Produtos, endereço, cartão e frequência podem ser alterados até **2 dias antes** do próximo pedido.",
         "Uma mudança de frequência mantém a data do próximo pedido e passa a valer no pedido seguinte.",
         "Dá para **pular ou antecipar uma entrega por ano**, útil numa viagem ou quando as caixas acumularam.",
-        "Se um sabor acabar no estoque, você escolhe se quer receber o pedido incompleto.",
+        "Se faltar algum sabor no estoque da fábrica, você pode optar no painel por receber a remessa parcial (sendo cobrado apenas proporcionalmente pelos itens enviados) ou aguardar a reposição completa do lote.",
         "A transportadora faz 3 tentativas de entrega, e o rastreio chega por e-mail e pelo site da transportadora."
       ]
     },
@@ -183,7 +183,7 @@
     }
   ],
   "cta": {
-    "text": "Monte sua assinatura no site oficial e digite CECI no checkout para conferir o desconto extra.",
+    "text": "Monte sua assinatura, digite CECI no checkout e confira no resumo do pedido se o desconto foi aplicado.",
     "label": "Ver a Assinatura Dolce Gusto",
     "url": "https://www.nescafe-dolcegusto.com.br/assinatura",
     "sponsored": true

@@ -29,12 +29,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Leve o combo de 20 caixas se a equipe tem até 5 pessoas e você quer começar com menos estoque.",
+      "Leve o combo de 20 caixas se você quer começar pelo menor lote pronto e já estimou o consumo dos sabores incluídos.",
       "Leve o combo de 50 caixas se o consumo é regular e o menor preço por cápsula pesa mais que o espaço na prateleira.",
       "Leve a conta Business se a compra é da empresa: a condição dos 10% extras é para CNPJ."
     ],
     "skipIf": [
-      "Passe os combos se o consumo é esporádico: cápsula parada sai mais cara que a caixa avulsa em promoção.",
+      "Passe os combos se o consumo é esporádico ou se você não consegue usar o lote dentro da validade; compare uma quantidade menor.",
       "Passe o combo pronto se o volume passa de 50 caixas ou se você precisa de outra máquina; peça a proposta personalizada."
     ]
   },
@@ -168,8 +168,8 @@
     {
       "heading": "Quanto custa cada cápsula com os 10% de CNPJ e o CECI",
       "paragraphs": [
-        "Na estimativa com os 10% de CNPJ e o CECI, o combo de 50 caixas deixa a cápsula quase 50% mais barata que na caixa avulsa; sem os dois, a diferença é menor.",
-        "Estimativa nossa, pelos preços da tabela acima, como descontos sucessivos: o preço do combo vezes 0,9 do CNPJ e vezes 0,9 do CECI, um sobre o outro. A base exata do cálculo da loja não foi testada numa conta Business: confira o resumo do carrinho."
+        "Na simulação abaixo, o combo de 50 caixas fica em cerca de R$ 1,31 por cápsula. A referência de R$ 2,49 por cápsula é a caixa avulsa no preço de lista, sem desconto; compare também a oferta disponível no dia.",
+        "Conta nossa: estimativa aplicando 10% de CNPJ e depois 10% de CECI ao preço do combo, multiplicando por 0,9 duas vezes. A soma dos benefícios foi confirmada; estes valores são uma simulação, e o resumo do carrinho confirma base de cálculo, arredondamento e total."
       ],
       "comparisonTable": {
         "headers": [
@@ -199,11 +199,11 @@
             "R$ 2,49"
           ]
         ],
-        "caption": "Combos de cápsula com os dois descontos, estimados pela conta acima. A caixa avulsa está no preço de lista, sem desconto, como referência."
+        "caption": "Simulação de dois descontos sucessivos sobre os preços de combo da tabela anterior. A caixa avulsa está no preço de lista, sem desconto, como referência."
       },
       "postParagraphs": [
         "Cada degrau tira cerca de 10 centavos por cápsula. Passar de 20 para 30 caixas poupa o mesmo que passar de 30 para 50, mas o segundo pede 200 cápsulas a mais na prateleira.",
-        "A armadilha está no \"25% OFF\" e no \"35% OFF\": eles contam sobre o preço de lista, e a loja troca as promoções de caixa quase todo dia. Antes de fechar um combo, olhe quanto a caixa está custando no dia. O combo de 20 caixas dá R$ 18,68 por caixa; se a caixa avulsa estiver abaixo disso, o combo não é a melhor conta."
+        "Os percentuais de 25% e 35% usam o preço de lista, e a loja troca as promoções de caixa quase todo dia. O combo de vinte caixas a R$ 373,50 custa R$ 18,68 por caixa antes de CNPJ e CECI, cerca de R$ 15,13 na simulação com os dois. Para decidir, compare o total final no carrinho do dia, com os mesmos descontos e frete, e não o preço anunciado da caixa avulsa."
       ]
     },
     {
@@ -235,21 +235,21 @@
     {
       "heading": "Para qual negócio serve",
       "paragraphs": [
-        "A linha Negócios serve a quem tem pouca gente passando por dia e quer variedade na mesma máquina: café, bebida com leite, chocolate e chá. Regra prática, sem teste nosso, com duas bebidas por pessoa por dia em 22 dias úteis, ou 44 cápsulas por pessoa por mês: o combo de 20 caixas atende de 4 a 5 pessoas por mês, o de 30 cerca de 7 e o de 50 cerca de 11. Cappuccino, latte macchiato e chococino usam duas cápsulas; o Mochaccino Canela e o Café au Lait dos combos usam uma. Um lugar que pede muito cappuccino consome mais do que a regra mostra.",
+        "Use o consumo como ponto de partida. No cenário de duas bebidas de uma cápsula por pessoa em 22 dias úteis, cada pessoa usa 44 cápsulas por mês. Duzentas cápsulas cobrem quatro pessoas nesse cenário; trezentas, seis; quinhentas, onze, com alguma sobra. Cappuccino, latte macchiato e chococino usam duas cápsulas; Mochaccino Canela e Café au Lait dos combos usam uma. Se a equipe toma bebidas de duas cápsulas, refaça a conta.",
         "Para o escritório, a conta mês a mês, com a máquina e as cápsulas, está em [cafeteira para escritório: qual escolher e quanto custa por mês](/reviews/cafeteira-escritorio-qual-escolher-custo-mes)."
       ]
     },
     {
       "heading": "Qual combo escolher",
       "paragraphs": [
-        "O combo certo é o que cobre o consumo do mês sem sobrar cápsula na prateleira: o degrau seguinte economiza pouco por cápsula e prende o dobro de estoque.",
-        "**Equipe pequena, de 1 a 5 pessoas, ou quem quer testar a máquina:** o combo de 20 caixas. É o menor desconto, mas sobra menos estoque.",
-        "**Equipe de 5 a 7 pessoas:** o combo de 30 caixas, Amante de Cafés ou Amante de Lattes, conforme o que o grupo bebe.",
-        "**Equipe de 8 pessoas ou mais, com consumo regular:** o combo de 50 caixas, que dá o menor preço por cápsula.",
+        "Escolha a quantidade pelo consumo previsto e pela validade do estoque. Passar de vinte para trinta caixas acrescenta cem cápsulas; de trinta para cinquenta, duzentas. O preço unitário menor precisa compensar a quantidade que ficará guardada.",
+        "**Até 200 cápsulas no período de compra:** o combo de vinte caixas é o menor lote pronto. Confira se a equipe consome os sabores incluídos.",
+        "**De 201 a 300 cápsulas no período:** compare os combos de trinta caixas, Amante de Cafés ou Amante de Lattes, conforme os sabores e o consumo.",
+        "**De 301 a 500 cápsulas no período, com consumo regular:** o combo de cinquenta tem o menor preço por cápsula da seleção, mas exige mais estoque.",
         "**Quem não tem máquina e já ia comprar as caixas:** o combo da Mini Me, que traz a máquina junto.",
         "**Volume acima de 50 caixas ou máquina diferente:** a proposta personalizada."
       ],
-      "emphasis": "Se fosse para o meu negócio, eu levaria o combo de 30 caixas, porque cada degrau acima tira só cerca de 10 centavos por cápsula e o de 30 não prende 500 cápsulas de uma vez.",
+      "emphasis": "Se fosse para o meu negócio e o consumo previsto coubesse em trezentas cápsulas, eu começaria comparando o combo de trinta caixas. Na simulação, o de cinquenta economiza cerca de dez centavos por cápsula, mas exige guardar duzentas a mais.",
       "links": [
         {
           "label": "Ver os combos para negócios",

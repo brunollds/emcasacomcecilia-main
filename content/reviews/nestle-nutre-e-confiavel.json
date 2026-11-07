@@ -44,8 +44,8 @@
     {
       "heading": "Catálogo e posicionamento de mercado",
       "paragraphs": [
-        "O catálogo tem quatro frentes da Nestlé mais parceiras no mesmo checkout: Suplementação, Nutrição Clínica, Pediátrica e Envelhecimento Saudável. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
-        "Um diferencial pouco conhecido é o Programa Nestlé Nutre, um serviço de suporte ao paciente com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat (em parceria com a Becare). É um programa separado da nossa parceria com o cupom CECI, mas vale conhecer se você ou alguém da família usa produtos da linha com frequência."
+        "O catálogo reúne Suplementação, Nutrição Clínica, Pediátrica e Envelhecimento Saudável. A loja também vende marcas parceiras, como Sundown, Pure Encapsulations e Vital Proteins, no mesmo checkout.",
+        "O Programa Nestlé Nutre oferece suporte ao paciente, com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de atendimento nutricional gratuito por chat em parceria com a Becare. É um programa separado da nossa parceria com o CECI."
       ],
       "bullets": [],
       "images": [
@@ -66,7 +66,7 @@
       "heading": "Políticas de compra e pós-venda",
       "paragraphs": [
         "O direito de arrependimento vale por até 7 dias corridos a partir do recebimento. A devolução é pedida pelo SAC da loja, e a Nestlé (ou a marca parceira) paga a coleta ou a postagem. O produto volta na embalagem original ou similar, com a nota fiscal e, quando houver, o manual e os acessórios.",
-        "Quando o produto chega ao centro de distribuição, a loja confere essas condições e devolve o valor total. No cartão, o estorno sai de uma vez, na fatura seguinte ou na posterior, seja qual for o número de parcelas. Produto com defeito ou entregue errado não entra no arrependimento: nesse caso, fale com o SAC e explique o problema.",
+        "Quando o produto chega ao centro de distribuição, a loja confere essas condições e devolve o valor total. No cartão, o estorno sai de uma vez, na fatura seguinte ou na posterior, seja qual for o número de parcelas. Se o produto chegou com defeito ou foi entregue errado, informe também o problema ao SAC para receber as instruções de atendimento.",
         "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. A home da loja anuncia frete grátis acima de R$ 200, mas esse valor pode mudar com as campanhas: confira o frete e o prazo no carrinho, com o seu CEP. O parcelamento chega a 6x sem juros no cartão."
       ],
       "bullets": []
@@ -112,15 +112,16 @@
         "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
         "A Nestlé Nutre entrega no meu CEP? Digite o CEP no carrinho: o site mostra se entrega, o prazo e o frete antes do pagamento.",
         "Como funciona a devolução na Nestlé Nutre? Pelo direito de arrependimento, você pede a devolução ao SAC em até 7 dias corridos após o recebimento, com o produto na embalagem original ou similar e a nota fiscal. A Nestlé paga a coleta e, no cartão, o estorno sai na fatura seguinte ou na posterior.",
-        "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente, separado da parceria do cupom CECI com este blog.",
+        "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde e atendimento nutricional gratuito. O programa é separado da parceria do cupom CECI com este blog.",
         "O cupom CECI soma com as promoções da Nestlé Nutre? No nosso teste, sim: o CECI deu 10% OFF nos produtos elegíveis junto com as promoções da loja. Ele não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; confira a linha do desconto no resumo antes de pagar."
       ]
     }
   ],
   "cta": {
     "text": "Conheça a linha Nestlé Nutre e aproveite o cupom CECI",
-    "label": "Visitar loja",
-    "url": "https://www.nestlenutre.com.br/"
+    "label": "Abrir a loja oficial Nestlé Nutre",
+    "url": "https://www.nestlenutre.com.br/",
+    "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",

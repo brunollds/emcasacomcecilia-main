@@ -89,7 +89,7 @@
             "99,8%"
           ],
           [
-            "Resolvidas",
+            "Resolvidas entre as avaliadas",
             "63,4%",
             "67,4%",
             "70,5%",
@@ -97,7 +97,7 @@
             "68,4%"
           ],
           [
-            "Voltariam a fazer negócio",
+            "Intenção de voltar, entre as avaliadas",
             "57,4%",
             "61,7%",
             "62,9%",
@@ -131,7 +131,7 @@
         ]
       },
       "postParagraphs": [
-        "Na aba geral, 99,8% das reclamações foram respondidas, e 16 ainda aguardavam resposta no dia da leitura. A nota média do consumidor é outra conta: a média que quem reclamou deu ao atendimento, e nos 6 meses ficou em 5,1."
+        "Na aba geral, 99,8% das reclamações foram respondidas, e 16 aguardavam resposta. Na aba de seis meses, 888 das 1.833 recebidas tinham avaliação, e os 63,4% de resolução e os 57,4% de intenção de voltar se referem a elas. A nota média do consumidor é outra conta: nos seis meses, a média que quem reclamou deu ao atendimento ficou em 5,1."
       ]
     },
     {
@@ -161,7 +161,7 @@
         "Categoria: Matinais, com 28,8% das reclamações."
       ],
       "postParagraphs": [
-        "Conta nossa, pelos números da aba geral: não recebido e atraso somam 4.422 queixas, mais que os seis problemas seguintes da lista juntos (3.233). Propaganda enganosa e promoção vêm depois, seguidas de defeito e produto errado."
+        "Conta nossa, pelos números da aba geral: não recebido e atraso somam 4.422 reclamações, mais que os seis problemas seguintes da lista juntos (3.233). Depois deles vêm propaganda enganosa, defeito, problemas na finalização, produto errado, promoção e mau atendimento."
       ]
     },
     {
@@ -206,7 +206,7 @@
       "bullets": [
         "Faixa: Regular nos 6 e 12 meses; Boa em 2025.",
         "Respondidas: 100% nos 6 meses.",
-        "Resolvidas: 63,4% nos 6 meses, e 57,4% voltariam a fazer negócio.",
+        "Entre as avaliadas da aba de seis meses, 63,4% foram resolvidas e 57,4% declararam intenção de voltar a fazer negócio.",
         "Problema mais citado: produto não recebido, com 2.235 queixas na aba geral.",
         "Cuidado prático: guarde o número do pedido e o rastreio, e confira a máquina ao receber, porque o vício aparente tem 90 dias."
       ]
@@ -216,8 +216,8 @@
       "bullets": [
         "A Dolce Gusto é confiável no Reclame Aqui? A reputação é Regular nos últimos 6 e 12 meses, com nota 6,6 e 6,9. Esses números mostram as reclamações registradas, não a qualidade das cápsulas nem das máquinas.",
         "Qual a nota da Dolce Gusto no Reclame Aqui? Nota 6,6 nos últimos 6 meses, 6,9 nos últimos 12 meses e 6,9 na aba geral. A tabela do artigo traz as cinco abas.",
-        "A Dolce Gusto responde as reclamações? Sim, 100% nos últimos 6 meses. Responder não é o mesmo que resolver: a tabela do artigo mostra a parte resolvida.",
-        "Do que mais reclamam da Dolce Gusto? De produto não recebido e atraso na entrega, que lideram a aba geral. Depois vêm propaganda enganosa, promoção e defeito.",
+        "A Dolce Gusto responde às reclamações? Sim, 100% nos últimos 6 meses. Responder não é o mesmo que resolver: entre as avaliadas, 63,4% foram resolvidas.",
+        "Do que mais reclamam da Dolce Gusto? Produto não recebido e atraso na entrega lideram a aba geral. Depois vêm propaganda enganosa, defeito e problemas na finalização da compra.",
         "Onde fica a assistência técnica da Dolce Gusto? Comece pelo atendimento oficial da Dolce Gusto (SAC da Nestlé, 0800 776 2233). Para máquinas Geração 1 que pararam de funcionar, o contato é direto com a Arno, que lista os postos autorizados por estado e cidade no site dela; o telefone indicado pela Dolce Gusto é (11) 2060-9777."
       ]
     }

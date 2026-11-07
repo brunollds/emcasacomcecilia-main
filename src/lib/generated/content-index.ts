@@ -28912,21 +28912,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Poltrona Damie 2.0 vale a pena para quem prioriza conforto e personalização e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O que pesa é quanto dos opcionais você vai usar; veja \"A Poltrona Damie 2.0 é boa? Nosso veredito\"."
+          "Sim, a Poltrona Damie 2.0 vale a pena para quem prioriza conforto e personalização sob medida e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O código [CECILIA12](/cupons/damie) dá 12% de desconto nos produtos; os opcionais encarecem a poltrona, como mostra o veredito abaixo."
         ]
       },
       {
         "heading": "O que é a Poltrona Reclinável Damie 2.0",
         "paragraphs": [
-          "Para sala de TV, cinema em casa e amamentação, a Damie 2.0 é a reclinável que você monta sob medida. Ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
-          "É possível escolher o tipo de base (manual ou elétrica com balanço), o revestimento e acessórios como carregador, luminária touch e massageador. Em nossa experiência inicial, a ergonomia se mostrou muito confortável para salas de TV, home cinemas, quartos de bebê e cantos de leitura. Com o [cupom CECILIA12](/cupons/damie), você garante 12% de desconto nos produtos (o frete fica de fora)."
+          "A Damie 2.0 é uma poltrona reclinável com opções de base manual ou elétrica, revestimentos e acessórios. Na encomenda, você escolhe a configuração conforme o uso e o orçamento.",
+          "Na nossa casa, usamos a elétrica com giro e balanço, em Courino Importado caramelo. Abaixo mostramos como foram as primeiras semanas e quais opcionais usamos. Com o [cupom CECILIA12](/cupons/damie), são 12% de desconto nos produtos; o frete fica de fora."
         ],
         "bullets": [
           "Personalização total: escolha do mecanismo, revestimentos, cores e acessórios tecnológicos.",
           "Mecanismo elétrico: ajuste milimétrico e motor silencioso que reclina suavemente.",
           "Revestimento prático: opção de Courino Importado (praticamente impermeável), ideal para casas com pets e crianças."
         ],
-        "emphasis": "A sensação ao sentar e reclinar na poltrona Damie 2.0 não é apenas de um abraço confortável, mas sim de um verdadeiro 'colo de mãe'. Em nossas primeiras semanas de uso, os motores elétricos se mostraram muito silenciosos e o ajuste, preciso.",
+        "emphasis": "Ao sentar e reclinar, a sensação foi de um 'colo de mãe'. Nas primeiras semanas, os motores elétricos foram silenciosos e o ajuste foi preciso.",
         "emphasisAfterParagraph": 1,
         "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
         "imageAlt": "Medidas da Poltrona Damie 2.0 fechada e quase totalmente reclinada",
@@ -29005,9 +29005,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Acessórios Opcionais: Monte sua Estação Tecnológica",
+        "heading": "Opcionais que usamos na nossa poltrona",
         "paragraphs": [
-          "A 2.0 vira estação tecnológica pelos acessórios. Nossa configuração reúne massagem, motor independente de cabeça e pescoço, case fosco 3 em 1, porta-copos, luminária, mesa de apoio e suporte com carregador para dispositivos móveis. Todos foram usados e se mostraram úteis nessas primeiras semanas:"
+          "Na nossa configuração, usamos massagem, motor independente de cabeça e pescoço, case fosco 3 em 1, porta-copos, luminária, mesa de apoio e suporte com carregador para dispositivos móveis. Todos foram úteis nessas primeiras semanas:"
         ],
         "bullets": [
           "Sistema de Massagem por Vibração: O massageador tem controle remoto e funcionou de maneira silenciosa em nosso uso. Foi o opcional favorito da Cecília.",
@@ -29022,7 +29022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Montagem Simples e Conexões Internas",
         "paragraphs": [
-          "A montagem da Poltrona Damie 2.0 segue o padrão prático da marca. O produto chega em duas partes principais: o assento (base) e o encosto. Para montar, basta deslizar os trilhos metálicos do encosto nas guias do assento até ouvir o clique de travamento.",
+          "A montagem da Poltrona Damie 2.0 segue o padrão prático da marca. O produto chega em duas partes principais: o assento (base) e o encosto. Montada, a poltrona tem 95 cm de largura. Para montar, basta deslizar os trilhos metálicos do encosto nas guias do assento até ouvir o clique de travamento.",
           "Na parte traseira do assento, ficam organizados os fios e conectores rápidos dos motores. Com um sistema de encaixe simples do tipo macho-fêmea, você conecta o cabo de energia principal da fonte bivolt, o cabo de sinal do motor de ajuste de cabeça independente e a fiação do sistema de massagem. Nas fotos abaixo, mostramos a poltrona sem o encosto acoplado e o detalhe das conexões elétricas:"
         ],
         "bullets": [],
@@ -29061,7 +29061,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Poltrona Damie 2.0 é boa? Nosso veredito",
         "paragraphs": [
-          "Para nós, sim: a Poltrona Damie 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso. Na nossa configuração (elétrica, com giro, balanço e massagem), os motores foram silenciosos e a massagem foi a favorita da Cecília.",
+          "Para nós, sim: a Damie 2.0 entrega conforto e recursos elétricos sob medida na categoria de alto padrão. No nosso uso diário, a mecânica elétrica com giro e balanço foi discreta e suave, e a massagem foi a favorita da Cecília.",
           "Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos. Eles encarecem o produto, e a poltrona precisa de uma tomada por perto.",
           "O uso até aqui é de poucas semanas: a durabilidade de longo prazo ainda será acompanhada."
         ]
@@ -29115,7 +29115,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Teste em casa",
-        "value": "30 dias de teste em casa, com condições"
+        "value": "30 dias de teste em casa; condições na página da Damie"
       },
       {
         "key": "Cupom disponível",
@@ -29149,8 +29149,8 @@ export const reviewsData: unknown[] = [
         "heading": "Por que escolhemos o modular",
         "paragraphs": [
           "Demoramos a decidir o sofá, porque ele parece uma decisão mais definitiva do que a poltrona. O que virou a chave foi a pergunta de como ele entraria na casa, que tem corredor, curva e uma porta de quarto que estreita o caminho. Um sofá convencional de três lugares já seria trabalho, depois do que passamos com as poltronas.",
-          "O modular resolve isso de um jeito que parece óbvio depois que você entende: cada módulo chega na própria caixa. Não tem um bloco enorme que precisa dobrar em ângulo impossível. Você traz as caixas uma a uma, monta dentro do ambiente. Simples assim, desde que você siga a ordem de montagem certa, que a Damie explica direitinho.",
-          "A montagem em si foi uma experiência. A gente abriu as caixas no meio da sala, separou as peças, e foi encaixando. Tem um momento específico, quando o último módulo encaixa no lugar, que você olha pro sofá pronto e pensa: \"nossa, a gente montou isso aqui.\" Não precisa de marceneiro, não precisa de encanador de móveis. É você, as caixas, e paciência."
+          "Cada módulo chegou na própria caixa. A gente levou as caixas para o ambiente e montou o sofá ali, seguindo a ordem de encaixe explicada pela Damie. Isso facilitou o caminho dentro da nossa casa.",
+          "Abrimos as caixas no meio da sala, separamos as peças e fomos encaixando. Quando o último módulo entrou, veio aquela satisfação de ver o sofá que a gente mesmo montou."
         ],
         "image": "/images/reviews/sofa-damie-modular-puff.webp",
         "imageAlt": "Puff modular Damie posicionado de forma independente na sala de estar.",
@@ -29167,16 +29167,16 @@ export const reviewsData: unknown[] = [
         "heading": "O que eu observaria de novo antes de comprar",
         "paragraphs": [
           "Primeiro: medir o acesso completo antes de fechar. Porta, corredor, elevador. Os módulos chegam em caixas, mas as caixas também têm tamanho: não assuma que \"na caixa cabe em qualquer lugar\" sem checar. Meça também o espaço de montagem: o sofá pronto tem 260 x 86 x 92 cm, pelo esquema técnico da Damie. A gente teve sorte porque as caixas passaram, mas se o elevador fosse dois centímetros mais estreito, a história seria outra.",
-          "Segundo: escolher o tecido pela rotina da casa, não pela foto. O Azul Denim nas imagens da Damie é lindo. Mas se você tem pet, criança ou mora em região quente, linho ou courino vão ser escolhas mais honestas com o dia a dia. Eu aprendi isso na prática: o tecido que mais brilha na foto não é sempre o que mais funciona no dia a dia.",
-          "Terceiro: aproveitar os 30 dias de teste. A Damie descreve o teste como 30 dias de uso em casa: o produto precisa voltar completo, na embalagem original e sem sinais de uso severo, e o pedido é feito pelo WhatsApp com nome completo e nota fiscal. Guarde a caixa até o fim do prazo. Eu não precisei devolver, mas saber disso deixou a decisão mais leve.",
-          "Quarto: pense no futuro. Modular não é só pra entrar na casa: é pra acompanhar a sua vida. Hoje você mora num apartamento, daqui dois anos pode mudar pra uma casa maior. O sofá modular acompanha: você compra mais módulos, rearranja, cria configurações novas. É um sofá que cresce com você, e isso raramente é verdade em móveis."
+          "Segundo: escolher o revestimento pela rotina da casa. O nosso é azul denim; confira qual material acompanha a versão escolhida e os cuidados que ele pede. Criança, pet, calor e frequência de limpeza entram nessa decisão. Se puder, compare amostras antes de fechar pela foto.",
+          "Terceiro: confirmar as condições do teste em casa para o sofá que você vai comprar. A Damie descreve o teste como 30 dias de uso em casa: o produto precisa voltar completo, na embalagem original e sem sinais de uso severo, e o pedido é feito pelo WhatsApp com nome completo e nota fiscal. Guarde a caixa até o fim do prazo; antes de descartá-la, confirme por escrito com a marca o procedimento do seu modelo. Eu não precisei devolver, mas saber disso deixou a decisão mais leve.",
+          "Quarto: pensar em mudanças futuras. Reorganizar os módulos que você já tem pode acompanhar outra disposição da sala. Se quiser ampliar o sofá depois, confirme com a Damie a compatibilidade e a disponibilidade de módulos para esta versão antes de contar com essa compra."
         ]
       },
       {
         "heading": "Vale a pena?",
         "paragraphs": [
           "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Recebi o produto em parceria e uso há mais de um ano. Não é a compra mais barata de móvel: é um investimento, e precisa ser tratado assim. Mas dentro do que a Damie promete, entregou.",
-          "O que me surpreendeu no dia a dia foi a flexibilidade. A gente já mudou a configuração da sala duas vezes desde que o sofá chegou: uma vez pra abrir espaço pra uma reunião de família, outra vez porque a gente quis experimentar um novo ângulo em relação à TV. Com um sofá fixo, isso seria impossível. Com o modular, são dois minutos de arrastar módulos.",
+          "A flexibilidade me surpreendeu no dia a dia. Já mudamos a configuração da sala duas vezes: uma para abrir espaço numa reunião de família, outra para experimentar outro ângulo da TV. Poder arrastar os módulos separadamente facilitou essas mudanças.",
           "E tem uma coisa que eu não esperava: a limpeza. Como os módulos separam, dá pra limpar por baixo, limpar entre os encaixes, acessar cantos que com um sofá fixo seriam eternamente esquecidos. Pra quem tem pet, isso é ouro. A gente tem um cachorro que solta pelo, e conseguir limpar debaixo do sofá sem ter que levantar um móvel pesado é um alívio real."
         ],
         "image": "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
@@ -29205,7 +29205,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Aproveite o cupom de afiliado oficial para obter desconto.",
+      "text": "Confira as condições do CECILIA12 para 12% de desconto no site da Damie antes de pagar.",
       "label": "Ver cupom CECILIA12 no site da Damie",
       "url": "/cupons/damie"
     },
@@ -31518,7 +31518,7 @@ export const reviewsData: unknown[] = [
     "title": "Damie no Reclame Aqui: o que os dados mostram antes de você comprar",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
-    "description": "O Reclame Aqui da Damie Móveis: nota 7,9 e reputação Boa nos últimos 6 meses, o que mais aparece nas reclamações e o que conferir antes de comprar.",
+    "description": "Damie Móveis no Reclame Aqui: nota 7,9 e reputação Boa nos últimos seis meses do painel. Veja os índices, o problema mais citado e o que conferir antes de comprar.",
     "publishedAt": "20 Jun 2026",
     "publishedAtISO": "2026-06-20",
     "image": "/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
@@ -31541,7 +31541,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta de 06/11/2026, a Damie tinha reputação Boa no Reclame Aqui, com nota 7,9, 100% das reclamações respondidas e 83,1% resolvidas nos últimos 6 meses. O problema mais citado é o atraso na entrega. Para comprar com desconto, o [cupom CECILIA12](/cupons/damie) dá 12% OFF no site da Damie."
+          "Sim, a Damie é confiável, com a entrega como ponto de atenção. No painel do Reclame Aqui de 06/11/2026, nos últimos seis meses, tem nota 7,9, reputação Boa e 100% das reclamações respondidas; o problema mais citado é o atraso. O [cupom CECILIA12](/cupons/damie) dá 12% OFF no site da Damie."
         ]
       },
       {
@@ -31561,8 +31561,8 @@ export const reviewsData: unknown[] = [
           "Nota: 7,9/10",
           "Reputação: Boa. Pelo histórico do painel, ela foi Ótima de maio a setembro e passou a Boa em outubro.",
           "Reclamações recebidas: 192, com 100% respondidas e nenhuma aguardando resposta",
-          "Índice de solução: 83,1%",
-          "Voltariam a fazer negócio: 70,2%",
+          "Índice de solução: 83,1% das reclamações finalizadas e avaliadas foram consideradas resolvidas pelo consumidor",
+          "Voltariam a fazer negócio: 70,2% dos consumidores que finalizaram e avaliaram a reclamação",
           "Reclamações avaliadas: 124, com nota média do consumidor de 6,79",
           "Tempo médio de resposta: 15 horas"
         ],
@@ -31635,18 +31635,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Damie?",
         "paragraphs": [
-          "Pelos números do Reclame Aqui, a Damie responde todas as reclamações e resolve 83,1% delas, com nota 7,9 e reputação Boa nos últimos 6 meses. A reputação passou de Ótima para Boa no último mês do painel, e 70,2% de quem reclamou voltaria a fazer negócio. O ponto fraco é a entrega. Antes de fechar o pedido, confira o prazo pelo CEP, meça o acesso e registre o recebimento em foto."
+          "Sim, dá para confiar, com a entrega como ponto de atenção. Pelos números do Reclame Aqui, nos últimos seis meses, a Damie responde todas as reclamações e resolve 83,1% das finalizadas e avaliadas, com nota 7,9 e reputação Boa. A reputação passou de Ótima para Boa no último mês do painel, e 70,2% dos consumidores que avaliaram voltariam a fazer negócio. O ponto fraco é a entrega. Antes de fechar o pedido, confira o prazo pelo CEP, meça o acesso e registre o recebimento em foto."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a nota da Damie no Reclame Aqui? Na última consulta, a Damie Móveis tinha nota 7,9/10 e reputação Boa nos últimos 6 meses. A empresa respondeu 100% das reclamações e resolveu 83,1% delas. A nota é calculada numa janela móvel de 6 meses e pode variar; confira o painel no dia da compra.",
+          "Qual a nota da Damie no Reclame Aqui? Nos últimos seis meses do painel, a Damie Móveis tinha nota 7,9/10 e reputação Boa. A nota é calculada numa janela móvel e pode variar; confira o painel no dia da compra.",
           "O que aparece nas reclamações da Damie? Nos principais problemas do painel, que somam até 3 anos de reclamações, o mais citado é o atraso na entrega, com 50,57% das reclamações. O produto mais citado é Sofás e Estofados.",
           "A nota da Damie é boa para o setor de móveis online? O Reclame Aqui classifica a nota 7,9 como Boa. Não comparamos a Damie com o setor inteiro; no ranking da categoria Ecommerce - Móveis e Decoração, ela aparecia em 52º lugar. A comparação com a Inflow e a Sofá na Caixa está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie).",
-          "A Damie resolve reclamações? Segundo o painel do Reclame Aqui, a Damie respondeu 100% das reclamações e resolveu 83,1% delas nos últimos 6 meses, e 70,2% de quem reclamou disse que voltaria a fazer negócio com a marca.",
+          "A Damie resolve reclamações? Nos últimos seis meses do painel, a Damie respondeu 100% das reclamações. Entre as finalizadas e avaliadas pelo consumidor, o índice de solução era 83,1%, e 70,2% disseram que voltariam a fazer negócio.",
           "É possível desistir ou cancelar uma compra da Damie? Sim. Na compra pela internet, o [Código de Defesa do Consumidor, no artigo 49](https://consumidor.gov.br/pages/conteudo/publico/102), dá 7 dias de arrependimento, contados da compra ou do recebimento do produto. Os 30 dias são uma política da própria Damie, com condições: segundo a [página do teste](https://www.damie.com.br/pages/teste-por-30-dias), o produto volta completo, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira, e o pedido é feito pelo WhatsApp da Damie, com o nome completo e a nota fiscal.",
-          "A Damie é confiável para comprar sofá pela internet? Pelos dados do Reclame Aqui, a Damie tem nota 7,9 e reputação Boa, responde 100% das reclamações e resolve 83,1% delas. O principal risco é a entrega: atraso é o problema mais citado, e móveis grandes exigem medir corredores e elevadores antes da compra.",
+          "A Damie é confiável para comprar sofá pela internet? Sim, com atenção à entrega. Nos últimos seis meses do painel, a Damie tinha nota 7,9 e reputação Boa, com 100% de respostas e índice de solução de 83,1% entre as reclamações finalizadas e avaliadas. O principal risco é a entrega: no painel de até três anos, o atraso é o problema mais citado, e móveis grandes exigem medir corredores e elevadores antes da compra.",
           "Quanto tempo a Damie demora para entregar? O prazo muda com a região e o produto: confira pelo CEP no carrinho antes de fechar. Segundo a Damie, a produção leva em média 5 dias úteis, e o prazo conta a partir da confirmação do pagamento. O frete de poltronas e sofás é grátis no Sul e no Sudeste, e o Norte e o Nordeste são atendidos pelo Mercado Livre.",
           "O que acontece se o sofá Damie chegar com defeito? A Damie dá garantia de 1 ano contra defeitos de fabricação. Se o produto chegar avariado, fotografe a embalagem e o produto antes de abrir completamente, acione o suporte da Damie o quanto antes e não descarte as caixas até a resolução.",
           "A Damie vende no Mercado Livre ou só no site oficial? Nos dois. O site oficial (damie.com.br) tem o catálogo completo e as personalizações, e é onde o cupom CECILIA12 vale. Pelos anúncios oficiais no Mercado Livre, a Damie atende o Norte e o Nordeste, e lá o cupom não vale.",
@@ -31687,20 +31687,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Introdução",
         "paragraphs": [
-          "Toda vez que mostro nossa poltrona reclinável nas redes, aparece alguém perguntando: \"Cecília, o cupom ainda funciona?\" ou \"Onde eu coloco o CECILIA12?\". Às vezes a pessoa já está no site da Damie, com o produto no carrinho, e não sabe exatamente onde aplicar o código. Outras vezes, tem medo de o desconto não ter sido aplicado e acabar pagando o valor cheio sem perceber.",
-          "Já passei por isso em outras compras. Cupom que não funciona, código que dá erro, desconto que some no checkout. Por isso resolvi escrever este passo a passo com tudo o que você precisa saber para usar o cupom CECILIA12 sem surpresa. É simples; confira cada etapa antes de finalizar."
+          "Quando mostro nossa poltrona, sempre aparece a dúvida: onde coloco o CECILIA12 e como sei se o desconto entrou? A resposta está no campo do checkout e no resumo do pedido.",
+          "Escolha modelo, tecido e cor antes de aplicar o código. Depois, confirme o desconto antes de pagar."
         ]
       },
       {
         "heading": "Resposta rápida: como usar o cupom CECILIA12",
         "paragraphs": [
-          "O [cupom Damie](/cupons/damie) é o CECILIA12 e dá 12% de desconto nos produtos do site oficial, com qualquer forma de pagamento. Ele soma com as promoções e os 10% do Pix, mas não com outro cupom nem com o giftback de 15%, e não vale no Mercado Livre. Confira o desconto no subtotal antes de pagar."
+          "No checkout do site oficial da DAMIE, encontre o campo de cupom ou código promocional, digite CECILIA12 e aplique. Confira os 12% sobre o subtotal dos produtos. O [cupom DAMIE](/cupons/damie) soma com as promoções e com os 10% do Pix; não soma com outro código nem com giftback e não vale no Mercado Livre."
         ]
       },
       {
         "heading": "1. Escolha o produto no site oficial",
         "paragraphs": [
-          "O cupom CECILIA12 é válido para compras feitas diretamente no site da Damie; nos anúncios da Damie no Mercado Livre, ele não vale. Funciona para tudo no site: Poltronas, Sofás, Camas, Área externa e Acessórios, pelas regras vigentes. Escolha modelo, revestimento e cor com calma antes de ir para o carrinho. Trocar depois de aplicar o cupom pode resetar o checkout e você teria que digitar o código de novo."
+          "O CECILIA12 vale no site oficial da DAMIE, inclusive para poltronas, sofás, camas, área externa e acessórios, pelas condições vigentes; não vale nos anúncios do Mercado Livre. Escolha modelo, revestimento e cor antes de ir ao carrinho. Se alterar a seleção depois, revise o pedido e confira se o código continua aplicado."
         ],
         "image": "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
         "imageAlt": "Tela do site da Damie mostrando a escolha do produto.",
@@ -31739,7 +31739,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confirme o desconto antes de pagar",
         "paragraphs": [
-          "Aqui está o passo mais importante: confira se o desconto foi realmente aplicado antes de finalizar a compra. Os 12% aparecem sobre o subtotal dos produtos, e o valor final é esse subtotal com o desconto, mais o frete. Se o cupom não funcionar, confira nesta ordem:"
+          "Antes de pagar, confira a linha do CECILIA12 sobre o subtotal dos produtos. Se escolher Pix, confira também o desconto dessa forma de pagamento. O total final deve refletir os descontos e o frete do seu pedido; o frete não recebe os 12% do código. Se o cupom não entrar, confira nesta ordem:"
         ],
         "bullets": [
           "Outro cupom ou o crédito do giftback no pedido: o CECILIA12 não soma com eles. Tire o outro e aplique o CECILIA12 de novo.",
@@ -31798,7 +31798,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O cupom CECILIA12 funciona em qual produto da Damie? Funciona em poltronas, sofás, camas, área externa e acessórios, conforme as condições ativas no momento da compra.",
           "Onde eu aplico o cupom CECILIA12? No checkout do site oficial da Damie, no campo de cupom ou código promocional, antes de finalizar o pagamento.",
-          "Posso trocar o produto depois de aplicar o cupom? Trocar o modelo, tecido ou cor depois de aplicar o código pode resetar o checkout, exigindo digitar o cupom novamente.",
+          "Posso mudar modelo, tecido ou cor depois de aplicar? Pode revisar a seleção antes de pagar. Depois da alteração, confira novamente o produto, o total e a linha do CECILIA12 no resumo; se o código não estiver aplicado, digite-o de novo.",
           "Quanto tempo tenho para trocar ou devolver? São 30 dias, contados do recebimento. As [políticas da Damie](https://www.damie.com.br/pages/politicas) pedem o item como foi recebido, na embalagem original e com o comprovante, e excluem itens em promoção; leia as condições completas antes da compra.",
           "O cupom CECILIA12 acumula com outras promoções do site? Sim. O CECILIA12 soma com as promoções e os brindes do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp. Ele não soma com outro cupom nem com o giftback de 15%: no mesmo pedido, vale um código só. Confira o resumo do checkout antes de finalizar.",
           "Posso usar o cupom CECILIA12 mais de uma vez? O cupom CECILIA12 é válido para múltiplas compras no site oficial, desde que esteja dentro das condições vigentes. Não há limite de uso por CPF, mas o desconto se aplica apenas ao valor do produto e não ao frete. Recomendamos confirmar o valor final no checkout antes de pagar.",
@@ -31841,7 +31841,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: o que funciona de verdade",
         "paragraphs": [
-          "O que mais pesa numa poltrona de amamentação é a reclinação ajustável, o apoio de braço na altura certa, o tecido respirável e o movimento silencioso. A nossa é a DAMIE 1.0 em linho bege, usada há mais de um ano. No site da Damie, o cupom CECILIA12 dá 12% OFF e soma com as promoções."
+          "Na nossa DAMIE 1.0 em linho, recebida em parceria e usada há mais de um ano, a reclinação elétrica e o apoio de braço fizeram diferença. Para o sono, o bebê volta ao berço, porque a poltrona é para mamar acordada. O [cupom CECILIA12](/cupons/damie) dá 12% no site da Damie e soma com as promoções."
         ]
       },
       {
@@ -31859,8 +31859,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sono seguro: a poltrona é para mamar acordada",
         "paragraphs": [
-          "Um cuidado pesa mais que qualquer conforto: não adormeça com o bebê no colo na poltrona. O [caderno de puericultura da Secretaria de Saúde de Londrina](https://saude.londrina.pr.gov.br/images/DAPS/LINHA_GUIA/Caderno_de_Puericultura_Compartilhada_COMPLETO_FINAL_1.pdf), que segue as recomendações da Academia Americana de Pediatria e da Sociedade Brasileira de Pediatria, diz que sofás e poltronas são extremamente perigosos para o sono do bebê, com risco até 67 vezes maior de morte súbita.",
-          "Quando o bebê dormir, coloque-o de barriga para cima no berço, com colchão firme, plano e do tamanho do berço, sem travesseiros, almofadas, rolinhos ou ninhos. Se o sono bater nas mamadas da madrugada, a mesma orientação recomenda amamentar na cama e devolver o bebê ao berço ao terminar. Na dúvida, fale com o pediatra."
+          "Um cuidado pesa mais que qualquer conforto: não adormeça com o bebê no colo na poltrona. A [Academia Americana de Pediatria](https://www.healthychildren.org/English/ages-stages/baby/sleep/pages/a-parents-guide-to-safe-sleep.aspx) alerta que dormir com um bebê em sofá, poltrona macia ou almofada está associado a risco até 67 vezes maior de morte relacionada ao sono.",
+          "Para dormir, coloque o bebê de barriga para cima em berço ou moisés próprio, com superfície firme e plana, sem travesseiros, almofadas, rolinhos ou objetos soltos. Se houver chance de você adormecer durante a mamada, evite sofá e poltrona e peça ajuda para permanecer acordada. Se adormecer, devolva o bebê ao espaço de sono dele assim que acordar. Na dúvida, fale com o pediatra."
         ]
       },
       {
@@ -32428,7 +32428,7 @@ export const reviewsData: unknown[] = [
     "verdict": {
       "stars": 5,
       "recommendation": "recomendo",
-      "summary": "O topo da linha da Damie: dois motores independentes, ajuste de pescoço e conforto premium que justificam o investimento."
+      "summary": "Para o nosso uso diário, os dois motores fizeram diferença: dá para elevar os pés sem reclinar o encosto. É esse ajuste, junto do apoio de cabeça, que justifica a Levita para nós."
     },
     "productSpec": [
       {
@@ -32531,10 +32531,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem é a Poltrona Levita",
         "paragraphs": [
-          "A Levita é para quem quer relaxamento completo, não só uma poltrona confortável: ela ajusta pés e encosto separados. Ela fica acima de uma reclinável convencional porque entrega ajustes independentes, acabamento premium e uma proposta de uso mais sofisticada.",
-          "É o tipo de poltrona que faz sentido para sala de TV, quarto, escritório, canto de leitura, momento de jogar ou ambiente de descanso onde conforto é prioridade real. Também conversa com quem passa muito tempo sentado e quer controlar melhor a posição do corpo.",
-          "Aqui em casa, o Bruno testou a Levita em sessões longas de videogame. Em jogo de tiro ou partida online, que pedem atenção, ele joga com o encosto em pé e o braço apoiado; em RPG ou jogo single player, mais relaxado, reclina e fica deitado por horas.",
-          "Diferente da Moon, que é mais decorativa, a Levita é uma poltrona de função. Ela foi pensada para relaxar, assistir TV, ler, descansar e encontrar uma posição mais ergonômica com facilidade."
+          "A diferença da Levita está em ajustar os pés e o encosto separadamente. Ela faz mais sentido para quem vai usar essas posições com frequência, para ver TV, ler ou jogar.",
+          "Aqui em casa, o Bruno usa a Levita em sessões longas de videogame. Em jogo de tiro ou partida online, joga com o encosto em pé e o braço apoiado; em RPG ou jogo single player, reclina e fica deitado por horas. Esse é o uso que nos faz valorizar os dois motores."
         ]
       },
       {
@@ -32544,7 +32542,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "A Levita no ambiente da sala, pronta para momentos de descanso.",
         "imageFit": "portrait",
         "paragraphs": [
-          "O que põe a Levita acima da reclinável comum são os dois motores independentes: pés e encosto ajustam separados. São três botões, um para o encosto, um para os pés e um que volta os dois de uma vez. Antes, as nossas reclináveis eram manuais.",
+          "Os dois motores deixam ajustar os pés e o encosto separadamente. São três botões: um para o encosto, um para os pés e um que volta os dois de uma vez. Antes, as nossas reclináveis eram manuais.",
           "No nosso uso, as posições que mais fazem sentido são duas: só os pés para cima, com a coluna reta, e pés e encosto juntos, até a posição de gravidade zero, a da cadeira do dentista, com o peso do corpo distribuído. Baixar só o encosto deixa as pernas penduradas. O motor faz um ruído baixo, bem menor que o de um ventilador.",
           "O apoio de cabeça tem ajuste manual e pede um pouco de força para posicionar. É isso que o deixa firme: quando a cabeça encosta, ele não volta. Deitada, dá para erguer a cabeça e ler ou ver uma tela sem forçar o pescoço."
         ]
@@ -32560,7 +32558,7 @@ export const reviewsData: unknown[] = [
           "Outro ponto importante é que os componentes eletrônicos são bivolt. Para um produto elétrico desse porte, isso reduz preocupação na instalação e facilita o uso em diferentes casas.",
           "A nossa chegou montada, numa peça só, dentro de uma caixa grande com estrutura de madeira. Na caixa, ela não passa por uma porta de 80 cm; fora dela, passou sem arranhar. Quem mora sozinho vai precisar de ajuda para levar a caixa para dentro; depois, dá para arrastar a poltrona sozinho. O resto é ligar o fio na tomada.",
           "Totalmente aberta, ela ocupou o comprimento de três porcelanatos de 60 cm na nossa sala. O desenho é fino, e o aspirador passa por baixo dela.",
-          "Com duas crianças em casa, testamos a estabilidade: o Bruno, com 1,80 m e 80 kg, forçou os lados e o encosto com a poltrona na posição deitada. Ela balança, mas não vira; no máximo, arrasta."
+          "No nosso uso, o Bruno, com 1,80 m e 80 kg, pressionou os lados e o encosto com a poltrona deitada. Ela balançou e chegou a arrastar, mas não virou. Com crianças em casa, siga as instruções de uso e de estabilidade da marca."
         ]
       },
       {
@@ -32573,12 +32571,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Conforto premium: por que ela custa mais",
+        "heading": "Quando os dois motores fazem diferença",
         "paragraphs": [
-          "A Levita é produto premium: entenda isso antes de olhar o preço. O valor não está apenas na aparência, mas na soma de mecanismo elétrico, motores independentes, revestimento, estrutura, ergonomia e acabamento.",
-          "Para decoração bonita, vá de Moon. Para descanso diário com ajustes precisos, a Levita justifica o investimento.",
-          "É o tipo de produto em que a pergunta não deve ser só “é caro?”, mas “vou usar de verdade?”. Se a resposta for sim, principalmente para TV, leitura, jogos, descanso ou rotina de relaxamento, ela entrega uma experiência bem acima do básico.",
-          "A Levita é uma poltrona para quem quer conforto como prioridade máxima. O investimento alto faz mais sentido quando ela vira parte real da rotina: assistir, jogar, ler, descansar, recuperar energia e transformar um canto da casa em espaço de relaxamento premium."
+          "No nosso uso, o que justifica pagar pela Levita é poder levantar os pés sem deitar o encosto e mudar de posição nos jogos. O apoio de cabeça manual complementa esse ajuste.",
+          "Se você vai usar a poltrona principalmente como decoração, esses recursos podem ter pouco valor na rotina. Antes de escolher, confira o espaço dela aberta, a tomada e se você quer mesmo os ajustes independentes."
         ]
       },
       {
@@ -32591,7 +32587,7 @@ export const reviewsData: unknown[] = [
         "heading": "Entrega, garantia e teste em casa",
         "paragraphs": [
           "A nossa levou 11 dias, contados da emissão da nota, até o interior de Minas Gerais, e chegou bem embalada.",
-          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP. Para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
           "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste.",
           "Suporta até 130 kg, a venda é online e há showroom em Frederico Westphalen (RS), diz a Damie. Comprando sem experimentar, o teste de 30 dias em casa pesa a favor.",
           "Como todo produto premium e elétrico, o ideal é conferir medidas, espaço de abertura, tomada próxima, revestimento e cor antes de finalizar a compra."
@@ -32621,7 +32617,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito",
         "paragraphs": [
-          "A Poltrona Levita é o topo da linha para quem busca conforto, tecnologia e acabamento premium. O grande diferencial está nos dois motores independentes, no ajuste de pescoço e na possibilidade de encontrar posições mais personalizadas para relaxar.",
+          "A Levita faz sentido para quem usa a reclinação no dia a dia. Na nossa casa, os ajustes separados de pés e encosto e o apoio de cabeça foram mais úteis que a ideia genérica de uma poltrona “premium”.",
           "Ela não é a escolha mais barata. Aqui, com duas crianças e duas pessoas trabalhando em casa, a Levita passou pelo uso diário, pela limpeza e pelos jogos longos do Bruno, e seguimos gostando muito dela. Para quem vai usar esse conforto todo dia, vale o investimento."
         ],
         "emphasis": "A Levita vale o investimento para quem vai usar o conforto todo dia; para quem quer só uma poltrona bonita pelo menor preço, ela não é a escolha."
@@ -32750,8 +32746,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem é o Sofá Damie na Caixa",
         "paragraphs": [
-          "Para quem precisa passar o sofá por escada, elevador pequeno ou corredor estreito, o modular de 3 lugares com puff facilita: os módulos chegam em caixas e montam dentro do ambiente. Antes de comprar, compare as medidas com a porta, o elevador e as curvas do caminho.",
-          "A grande proposta é simples: em vez de um sofá grande e difícil de transportar, os módulos chegam separados em caixas. Isso facilita a entrega, a entrada no imóvel e a montagem dentro do próprio ambiente. O puff também muda a experiência, porque aproxima o uso de um sofá retrátil sem prender a sala a uma estrutura única."
+          "Para quem precisa passar o sofá por escada, elevador pequeno ou corredor estreito, o modular de 3 lugares com puff facilita: os módulos chegam em caixas e montam dentro do ambiente. Antes de comprar, compare as medidas com a porta, o elevador e as curvas do caminho."
         ],
         "links": [
           {
@@ -32769,7 +32764,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A liberdade de configuração: dá para começar com 2 lugares, ficar nos 3 com puff ou montar 4 a 6 lugares.",
           "O número de lugares acompanha seu espaço e seu orçamento. No modelo de 3 lugares com puff, dá para montar uma sala confortável para lazer em família e ainda reposicionar o apoio de pé conforme o momento.",
-          "Isso é especialmente útil para apartamentos, casas em reforma ou famílias que ainda estão definindo a disposição final da sala. Um sofá tradicional exige acertar tudo de primeira; o modular se adapta e facilita a limpeza, módulo por módulo."
+          "A modularidade permite reorganizar a composição e separar os módulos para a limpeza. Isso é diferente de garantir que qualquer tamanho ou configuração vá caber na sala; confira as medidas antes de escolher."
         ]
       },
       {
@@ -32799,8 +32794,7 @@ export const reviewsData: unknown[] = [
           "Boa opção para sala de TV, sala integrada ou apartamento.",
           "Modelo de 3 lugares com puff, útil para descanso e sessões de filme.",
           "Permite mudar a composição conforme o ambiente.",
-          "Facilita transporte em locais onde um sofá tradicional seria complicado.",
-          "Visual mais atual que muitos sofás fixos convencionais."
+          "Facilita transporte em locais onde um sofá tradicional seria complicado."
         ]
       },
       {
@@ -32815,9 +32809,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito: vale o investimento?",
         "paragraphs": [
-          "Para nós, valeu: depois de mais de um ano, é um dos móveis mais usados da casa. Não é o sofá mais barato, e faz sentido para quem valoriza modularidade, entrega facilitada e adaptação do ambiente.",
-          "Para quem mora em apartamento, tem acesso difícil ou quer um sofá que acompanhe mudanças de layout, o investimento pode ser mais justificável. O preço inclui logística, flexibilidade, acabamento e teste em casa.",
-          "Em resumo, é uma solução inteligente para quem quer conforto e estética sem enfrentar o drama logístico de um sofá grande convencional. Não é uma compra pequena, então precisa ser planejada: meça bem a sala e compare módulos e tecido. Para quem valoriza modularidade, entrega facilitada e acabamento premium, ele pode valer o investimento."
+          "Para nós, valeu: depois de mais de um ano, o sofá é um dos móveis mais usados da casa. O puff serve para esticar as pernas na TV e vira assento extra nas visitas; tomada com USB e carregamento por indução foram opcionais escolhidos por nós.",
+          "Para decidir, compare acesso, medidas da sala, quantidade de módulos, tecido e preço da configuração completa. Se a entrada for estreita, peça as medidas das caixas à Damie."
         ]
       },
       {
@@ -32901,8 +32894,8 @@ export const reviewsData: unknown[] = [
         "value": "Site oficial Damie"
       }
     ],
-    "description": "Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.",
-    "metaDescription": "Poltrona Moon da DAMIE, com o cupom CECILIA12 de 12% OFF: design escultural, base giratória de 360°, tecidos premium e para quem ela é peça de destaque.",
+    "description": "A Moon da Damie está na nossa sala há mais de um ano. Veja a diferença entre a poltrona decorativa giratória e uma reclinável e o que conferir antes de escolher.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF na Damie. Poltrona Moon: base giratória, tecidos e limites de uma decorativa, com a peça usada na nossa sala.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
     "updatedAt": "2026-11-05",
@@ -32937,7 +32930,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Base giratória 360°",
       "Design marcante",
-      "Bouclé e linho premium",
+      "Opções de revestimento em bouclé e linho",
       "Estrutura de madeira e compensado naval",
       "Cupom CECILIA12 disponível"
     ],
@@ -32967,9 +32960,8 @@ export const reviewsData: unknown[] = [
         "imageCaption": "A Moon funciona como peça de destaque para sala, quarto, leitura ou canto de descanso.",
         "imageFit": "portrait",
         "paragraphs": [
-          "A Poltrona Moon é para quem procura uma peça de design, não apenas um assento extra. Ela tem aquele tipo de presença visual que muda o ambiente: entra na sala e vira ponto focal, especialmente em espaços com decoração mais contemporânea, minimalista ou aconchegante.",
-          "Diferente de uma poltrona reclinável, a proposta aqui não é cinema em casa com apoio para os pés e sistema elétrico. A Moon é uma poltrona decorativa giratória, pensada para compor sala de estar, quarto, closet, recepção, consultório, varanda coberta ou um canto de leitura mais sofisticado.",
-          "É uma escolha interessante para quem quer deixar o ambiente com aparência mais planejada, mas sem colocar um móvel exagerado. Ela traz volume, textura e personalidade, principalmente nas versões em Bouclé."
+          "A Moon é uma poltrona decorativa com base giratória. Escolha esse tipo de peça se você quer um assento para conversar, ler ou compor a sala e prefere o formato arredondado e o tecido com textura.",
+          "Ela não reclina, não tem apoio elétrico para os pés e não substitui uma reclinável para quem procura essas funções. A nossa está na sala há mais de um ano; é a peça que aparece nas fotos com a Cecília."
         ]
       },
       {
@@ -32979,9 +32971,8 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Base giratória 360° e formato arredondado são os principais diferenciais da Moon.",
         "imageFit": "portrait",
         "paragraphs": [
-          "O que decide pela Moon é a combinação de forma arredondada, tecido com textura e base giratória 360°. A base gira 360° e tem acabamento em preto fosco, o que deixa a peça funcional sem roubar a atenção do desenho principal.",
-          "Essa rotação faz diferença no uso real. Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel. É um detalhe simples, mas que muda a relação da peça com o espaço.",
-          "A Damie apresenta a Moon como “muito mais que conforto, uma obra de arte”, e essa frase faz sentido para o posicionamento dela. A poltrona não tenta competir com uma reclinável em funções; ela entrega design, textura e presença."
+          "O conjunto da Moon combina formato arredondado, revestimento com textura e base giratória de 360° em preto fosco. O giro permite mudar a direção do assento sem reposicionar a poltrona no chão.",
+          "Essa rotação faz diferença no uso real. Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel. É um detalhe simples, mas que muda a relação da peça com o espaço."
         ]
       },
       {
@@ -32991,8 +32982,8 @@ export const reviewsData: unknown[] = [
         "imageCaption": "A página oficial destaca espuma D33, estrutura interna e opções de revestimento.",
         "imageFit": "portrait",
         "paragraphs": [
-          "A página oficial lista espuma D33, buscando equilíbrio entre conforto e firmeza. Esse é um ponto importante: ela não é uma poltrona molenga para afundar, mas sim uma peça com estrutura e sustentação.",
-          "A página oficial diz: estrutura de madeira e compensado naval, que mantém forma e estabilidade com o tempo.",
+          "A página oficial lista espuma D33, que indica a densidade da espuma.",
+          "A marca declara estrutura de madeira e compensado naval.",
           "Nos revestimentos, a Moon aparece em Tecido Bouclé e Tecido Linho. O Bouclé está disponível em Terracota, Off White, Cinza, Verde Sálvia e Grafite. O Linho aparece em Off White, Terracota e Grafite. São cores pensadas para decoração: algumas mais neutras, outras mais marcantes."
         ]
       },
@@ -33001,9 +32992,9 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A montagem é simples: a poltrona chega praticamente montada, é tirar da embalagem e posicionar. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
           "A nossa Moon está na sala há mais de um ano, e é nela que a Cecília aparece nas fotos deste review.",
-          "Em 05/11/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+          "Em 05/11/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP; para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
           "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste.",
-          "A página oficial informa peso máximo de 130 kg: mesmo decorativa, a Moon é feita para sentar."
+          "A página oficial declara capacidade de até 130 kg. Confira também as medidas da peça e do caminho de entrada na sua casa."
         ]
       },
       {
@@ -33015,17 +33006,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale o investimento?",
         "paragraphs": [
-          "A Poltrona Moon vale mais para quem enxerga decoração como parte da experiência da casa. Ela não é a escolha para quem procura uma poltrona reclinável cheia de funções, mas para quem quer uma peça bonita, giratória, confortável e capaz de transformar visualmente um canto do ambiente.",
-          "O investimento se justifica quando você compara a Moon com móveis decorativos de alto impacto. Ela entrega acabamento, textura, base giratória, estrutura interna e uma estética que parece mais próxima de projeto de interiores do que de móvel genérico.",
-          "Se a prioridade é relaxar por horas vendo filme, vá de reclinável. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem.",
-          "A Moon não é só visual: espuma D33 e estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, para usar no dia a dia, não só admirar."
+          "Antes de escolher a Moon, confirme três pontos: se você quer uma decorativa em vez de uma reclinável, se as medidas cabem no ambiente e qual revestimento combina com a sua rotina.",
+          "A decisão pelo desenho e pela textura é pessoal. O giro acrescenta uma função prática; já os pés elevados e a reclinação pedem outro tipo de poltrona."
         ]
       },
       {
         "heading": "Veredito",
         "paragraphs": [
-          "A Poltrona Moon é uma escolha forte para quem quer elevar o visual da casa com uma peça de design. Ela une formato escultural, base giratória 360°, tecidos nobres e uma proposta clara: ser confortável, mas também ser protagonista na decoração.",
-          "Não é uma poltrona para quem busca reclinação, massagem ou funções elétricas. É uma poltrona decorativa premium. Dentro dessa proposta, faz sentido para salas, quartos, cantos de leitura e ambientes onde estética e conforto precisam andar juntos."
+          "Gostamos da proposta da Moon como decorativa giratória, e ela está na nossa sala há mais de um ano. Para quem quer esse desenho e não precisa de reclinação, é uma opção a considerar.",
+          "Se você procura apoio para os pés ou ajustes elétricos para passar horas vendo filme, compare com uma reclinável. Antes da compra, confira medidas, tecido, prazo e as condições do teste em casa."
         ],
         "emphasis": "A Moon é para quem quer uma peça de design que também sirva para sentar, na sala, no quarto ou no canto de leitura; para relaxar por horas vendo filme, a escolha é uma reclinável."
       },
@@ -33097,7 +33086,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "Produto de alto padrão (investimento maior)",
-      "Modelos com massageador têm custo adicional",
+      "Opcionais como o massageador podem ter custo extra, conforme o modelo e a campanha",
       "Requer tomada próxima para o sistema elétrico"
     ],
     "pullQuote": "Não é uma compra de impulso; é um investimento para quem realmente quer montar um espaço de descanso com qualidade.",
@@ -33153,7 +33142,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Durante a construção da nossa casa nova, meu marido e eu estávamos planejando cada detalhe do nosso lar. Foi quando ele descobriu as poltronas reclináveis da Damie pelo canal do YouTube Meu Mundo Tech, especializado em cinema em casa e tecnologia. Ele ficou encantado na hora.",
           "Os vídeos destacavam o conforto, a funcionalidade e o design moderno das poltronas. Mesmo com a casa ainda em obras, começamos a planejar onde elas ficariam. Decidimos quantas poltronas teríamos, duas para compor nossa sala de TV, e como integraríamos tudo ao projeto.",
-          "A possibilidade de personalizar revestimentos e acessórios nos deixou ainda mais animados. A visão de criar um ambiente de relaxamento e sofisticação com as poltronas da Damie nos motivou desde o início."
+          "A escolha dos revestimentos e acessórios entrou no planejamento do ambiente."
         ],
         "image": {
           "src": "/images/reviews/damie-reclame-aqui-local.webp",
@@ -33195,15 +33184,16 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Acessar site oficial da Damie",
-            "href": "https://damie.com.br"
+            "href": "https://damie.com.br",
+            "sponsored": true
           }
         ]
       },
       {
-        "heading": "Conforto e Funcionalidades: Um Sonho Realizado",
+        "heading": "Conforto depois de mais de um ano",
         "paragraphs": [
           "Ajuste com um toque: encosto e apoio dos pés se movem para filme, leitura ou descanso. O sistema elétrico de reclinação é silencioso e prático, ideal para o uso diário.",
-          "A espuma tem a densidade ideal, oferecendo conforto duradouro mesmo após horas de uso. O assento é amplo, acomodando diferentes tamanhos com facilidade. O porta-copos também virou um detalhe muito útil para café, suco ou até uma pipoca durante nossas sessões de cinema em casa.",
+          "Para nós, a espuma continuou confortável no uso diário, e o assento é espaçoso. O porta-copos virou apoio para café e suco nas sessões de cinema em casa.",
           "A estrutura segue firme, até aqui sem sinais de desgaste."
         ],
         "image": {
@@ -33214,10 +33204,10 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "bullets": [
-          "Sistema elétrico de reclinação silencioso e prático.",
-          "Espuma confortável e assento espaçoso.",
-          "Porta-copos perfeito para cinema em casa.",
-          "Estrutura robusta, com sensação de segurança e durabilidade."
+          "Reclinação elétrica silenciosa no nosso uso.",
+          "Assento espaçoso e espuma que continuam confortáveis para nós.",
+          "Porta-copos que usamos nas sessões de cinema.",
+          "Até aqui, nossa estrutura segue firme, sem sinais de desgaste."
         ]
       },
       {
@@ -33251,17 +33241,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prós e Contras da Poltrona Reclinável Damie",
         "paragraphs": [
-          "Depois de mais de um ano de uso, o que fez diferença foi o conforto diário; o que pesa é preço, massageador e tomada."
+          "Depois de mais de um ano, o que fez diferença foi o conforto diário e a praticidade do motor. Antes de escolher, eu olharia o preço da configuração e onde ficará a tomada."
         ],
         "bullets": [
-          "Prós: conforto excepcional com espuma de alta densidade.",
+          "Prós: espuma que continuou confortável no nosso uso diário.",
           "Prós: sistema elétrico de reclinação silencioso e prático.",
           "Prós: diversidade de revestimentos e acessórios personalizáveis.",
           "Prós: montagem fácil e rápida, com instruções claras.",
           "Prós: embalagem reforçada, e a nossa entrega chegou rápido.",
           "Prós: versatilidade para usos como amamentação e cinema em casa.",
           "Contras: preço pode ser elevado para alguns orçamentos, embora o cupom CECILIA12 ajude a economizar.",
-          "Contras: modelos com massageador têm custo adicional.",
+          "Contras: o custo dos opcionais muda conforme o modelo e a campanha.",
           "Contras: requer tomada próxima para o sistema elétrico."
         ]
       },
@@ -33270,7 +33260,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Damie vale para quem quer montar um espaço de descanso: relaxar, ver filme ou amamentar com conforto, durabilidade e estilo.",
           "No site da Damie, dá para escolher revestimento, cor e acessórios conforme a rotina da casa. A loja também oferece teste por 30 dias, garantia de 1 ano e atendimento para dúvidas e personalizações.",
-          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. Para o Centro-Oeste, confira frete e prazo pelo CEP no carrinho. No Norte e no Nordeste, a marca atende pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta da confirmação do pagamento.",
           "Para devolver no teste de 30 dias, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira. A devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal, e a loja agenda a coleta. Por isso, guarde a caixa até o fim do teste.",
           "Nossa experiência foi tão positiva que continuamos recomendando a marca para amigos, familiares e seguidores do Em Casa com Cecília."
         ]
@@ -33307,7 +33297,8 @@ export const reviewsData: unknown[] = [
           },
           {
             "label": "Comprar no site da Damie",
-            "href": "https://damie.com.br"
+            "href": "https://damie.com.br",
+            "sponsored": true
           }
         ]
       }
@@ -33456,15 +33447,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se o cupom CECI não funcionar?",
         "paragraphs": [
-          "Se o CECI não aplicar, o motivo está numa destas situações:",
-          "O cupom CECI é verificado e atualizado regularmente. Se encontrar algum problema, avise nos comentários ou no WhatsApp do grupo de promoções para validarmos."
+          "Se o CECI não aplicar, confira os pontos abaixo antes de tentar novamente. Se a grafia e o valor mínimo estiverem corretos, consulte as regras atuais na página do cupom e procure o atendimento oficial da NESCAFÉ Dolce Gusto para verificar o seu pedido."
         ],
         "bullets": [
           "Código digitado incorretamente: Verifique se digitou CECI sem espaços ou caracteres extras.",
           "Compra mínima não atingida: O valor dos produtos no carrinho deve ser de no mínimo R$ 100.",
           "Carrinho vazio: Adicione pelo menos um produto ao carrinho antes de aplicar o cupom.",
           "Kit ou combo com regra própria: o CECI soma com as promoções, mas, se algum kit não aceitar o cupom, o resumo do carrinho mostra; teste o carrinho sem ele.",
-          "Cupom expirado: o código é reconfirmado todo mês. Se não funcionar, volte aqui para conferir o cupom válido do mês atual.",
+          "Validade da campanha: confira as condições na página do cupom e a aceitação do CECI no resumo do pedido.",
           "Problema técnico: limpe o cache do navegador, tente outro navegador ou o app oficial, ou entre em contato com o suporte da NESCAFÉ."
         ]
       },
@@ -33568,8 +33558,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o Clube Dolce Gusto",
         "paragraphs": [
-          "Se você já compra cápsulas todo mês, o Clube transforma caixa vazia em pontos: é o programa de fidelidade oficial da marca. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
-          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Em vez de jogar as caixas fora, registre os códigos das compras da rotina. Quem já tem cadastro ou já comprou na loja oficial tem a participação vinculada à mesma conta.",
+          "Se você já compra cápsulas, cadastre os códigos antes de jogar as caixas fora. O Clube Dolce Gusto é o programa de fidelidade oficial da marca: você ganha pontos com os códigos de 12 dígitos das embalagens Geração 1 ou com o preparo de cápsulas NEO pelo aplicativo. Depois, pode trocar o saldo por cápsulas, acessórios e prêmios.",
+          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Em vez de descartar as embalagens, registre os códigos das compras da rotina diretamente no seu perfil.",
           "Pelo regulamento, cada ponto expira 12 meses depois de cadastrado; o FAQ do site fala em 6 meses sem atividade na conta. Para não perder pontos, use o saldo antes de 6 meses."
         ],
         "bullets": [
@@ -33580,9 +33570,26 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Acessar site oficial Dolce Gusto",
-            "href": "https://www.nescafe-dolcegusto.com.br/"
+            "href": "https://www.nescafe-dolcegusto.com.br/",
+            "sponsored": true
           }
         ]
+      },
+      {
+        "heading": "Passo a passo para cadastrar seus códigos",
+        "paragraphs": [
+          "O registro dos pontos varia conforme o sistema da sua cafeteira. Na Geração 1, você digita o código de cada caixa; na NEO, os pontos entram pelo aplicativo, como no último passo:"
+        ],
+        "bullets": [
+          "Acesse a sua conta oficial no site da Dolce Gusto com seu login e senha.",
+          "Clique na aba lateral ou menu principal identificado como “Club”.",
+          "Selecione a opção de digitar código e preencha o código no campo “Insira seu Código”.",
+          "Confirme a validação e preste atenção a letras e números parecidos que geram erros comuns de digitação, como a letra O e o número 0.",
+          "No caso de cápsulas NEO, certifique-se de que a máquina NEO esteja pareada ao aplicativo no celular durante as extrações para que os pontos entrem de forma automática."
+        ],
+        "image": "/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp",
+        "imageAlt": "Tutorial e campo de inserção de código de 12 dígitos no site da Dolce Gusto",
+        "imageFit": "contain"
       },
       {
         "heading": "Como acumular pontos no Clube",
@@ -33604,10 +33611,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde e como trocar os pontos por prêmios",
         "paragraphs": [
-          "Dá para usar os pontos de dois jeitos no site: direto no carrinho ou na Loja de Prêmios.",
-          "No carrinho, troque os pontos por produtos Dolce Gusto na compra do site.",
-          "Na Loja de Prêmios oficial: para trocar por itens e prêmios de marcas parceiras ou acessórios de café, acesse a vitrine dedicada do Clube Dolce Gusto.",
-          "Antes de resgatar, confira as restrições de cada recompensa, porque nem todo item aceita pontos em qualquer compra. E use o saldo antes de 6 meses, para não perder pontos."
+          "Dá para aproveitar os pontos acumulados de dois caminhos no site oficial: direto no carrinho ou na Loja de Prêmios dedicada.",
+          "No carrinho do e-commerce: você pode abater o saldo diretamente em produtos e cápsulas Dolce Gusto ao fechar um pedido.",
+          "Na Loja de Prêmios oficial: acesse a vitrine exclusiva do Clube para resgatar itens de marcas parceiras e acessórios de café.",
+          "Antes de resgatar, confira as regras e restrições de cada recompensa, pois nem todo item aceita pontos em qualquer compra. Lembre-se de usar o saldo antes de 6 meses para não perder os pontos."
         ],
         "image": "/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp",
         "imageAlt": "Tela de resgate de pontos para troca por produtos ou prêmios no site oficial",
@@ -33615,31 +33622,16 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Acessar Loja de Prêmios",
-            "href": "https://club.nescafe-dolcegusto.com.br/"
+            "href": "https://club.nescafe-dolcegusto.com.br/",
+            "sponsored": true
           }
         ]
       },
       {
-        "heading": "Passo a passo para cadastrar seus códigos",
-        "paragraphs": [
-          "Para cadastrar os códigos da Geração 1:"
-        ],
-        "bullets": [
-          "Acesse a sua conta oficial no site da Dolce Gusto com seu login e senha.",
-          "Clique na aba lateral ou menu principal identificado como “Club”.",
-          "Selecione a opção de digitar código e preencha o código no campo “Insira seu Código”.",
-          "Confirme a validação e preste atenção a letras e números parecidos que geram erros comuns de digitação, como a letra O e o número 0.",
-          "No caso de cápsulas NEO, certifique-se de que a máquina NEO esteja pareada ao aplicativo no celular durante as extrações para que os pontos entrem de forma automática."
-        ],
-        "image": "/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp",
-        "imageAlt": "Tutorial e campo de inserção de código de 12 dígitos no site da Dolce Gusto",
-        "imageFit": "contain"
-      },
-      {
         "heading": "Economize ainda mais usando o cupom CECI",
         "paragraphs": [
-          "A melhor tática é combinar o desconto do CECI com os pontos de cada caixa. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 10% de desconto direto em compras a partir de R$ 100.",
-          "Comprar com o CECI e depois cadastrar os códigos das caixas são duas etapas separadas. Ao aplicar o cupom CECI no carrinho, você paga menos pelas caixas de cápsulas e a compra online pode render pontos de bônus. Quando as caixas chegarem, cadastre o código interno de cada uma para acumular mais pontos. O cupom dá desconto na compra e não mexe nos pontos: usar o CECI não é resgatar pontos no mesmo carrinho."
+          "Na loja oficial, o cupom CECI dá 10% de desconto em compras a partir de R$ 100. Digite-o no carrinho e confira o desconto antes de pagar.",
+          "Quando as caixas chegarem, cadastre os códigos internos para acumular os pontos. São operações separadas: comprar com CECI não é resgatar pontos no mesmo carrinho. Os possíveis bônus da compra online seguem as regras do Clube."
         ],
         "image": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
         "imageAlt": "Cecília tomando café em casa, representando a rotina de consumo Dolce Gusto",
@@ -33661,7 +33653,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena participar do Clube?",
         "paragraphs": [
-          "Vale a pena se você já compra cápsulas todo mês; se compra de vez em quando, o saldo pode zerar antes de virar prêmio. O Clube é gratuito e recompensa um hábito que você já tem. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.",
+          "O Clube faz sentido para quem já compra cápsulas e quer aproveitar os códigos das embalagens. O cadastro é gratuito. Antes de contar com um prêmio, confira seu saldo, a validade dos pontos e as condições do resgate.",
           "A dica: guarde as caixas numa gaveta, digite os códigos uma vez por mês e use o saldo antes de 6 meses. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
         ]
       },
@@ -33690,7 +33682,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Cadastre-se no Clube Dolce Gusto e aproveite o cupom CECI para economizar na loja oficial.",
       "label": "Acessar loja oficial",
-      "url": "https://www.nescafe-dolcegusto.com.br/"
+      "url": "https://www.nescafe-dolcegusto.com.br/",
+      "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
@@ -33736,7 +33729,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual sabor para cada perfil",
         "paragraphs": [
-          "Não existe um melhor sabor de Dolce Gusto: a escolha depende do seu jeito de tomar café, puro, com leite, chocolate, chá ou gelado, e da sua máquina, Original ou NEO. O capítulo Qual sabor escolher traz um sabor para cada perfil. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Para café puro de menor intensidade, compare Espresso, Lungo e Café Caseiro. Para café com leite, veja Café au Lait, Pingado e Mochaccino Canela, todos da linha Original; confira o sistema da sua máquina antes de escolher. Na loja oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -34041,7 +34034,7 @@ export const reviewsData: unknown[] = [
           "Qual a melhor cápsula de chocolate da Dolce Gusto? Não há uma melhor. Nescau, Galak, KitKat e Chococino Alpino usam uma cápsula por bebida; Chococino Nestlé e Kopenhagen Língua de Gato usam duas.",
           "Quais cápsulas dão certo na Dolce Gusto? As Original nas máquinas Original e as NEO nas máquinas NEO. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start.",
           "Onde comprar 50 ou 100 cápsulas Dolce Gusto? No DGusta da loja oficial: você escolhe os sabores de uma caixa de 50 ou 100 cápsulas ou leva uma das quatro seleções prontas de 50, como a Nossos Favoritos.",
-          "Quantas bebidas faz uma caixa de cápsulas Dolce Gusto? A caixa tem 10 cápsulas: 10 bebidas nos sabores de uma cápsula e 5 nos de duas, como o Cappuccino.",
+          "Quantas bebidas faz uma caixa de cápsulas Dolce Gusto? Nas caixas de 10 cápsulas, são 10 bebidas nos sabores de uma cápsula e 5 nos de duas, como o Cappuccino. A Starbucks Toffee Nut Latte, em caixa de 12 cápsulas, faz 6 bebidas.",
           "Existe kit de cápsulas Dolce Gusto? Sim: a loja oficial tem as seleções prontas do DGusta, combos de 6 e 8 caixas e combos com xícara.",
           "Existe cápsula Dolce Gusto sortida? A loja chama de seleções do DGusta: Nossos Favoritos, Cafés, Lattes e Chocolates, com 50 cápsulas cada.",
           "Tem leve 3 pague 2 na Dolce Gusto? Não encontramos na loja oficial: os descontos são em porcentagem.",
@@ -34119,8 +34112,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Introdução",
         "paragraphs": [
-          "Dormir bem começa no travesseiro certo para o ombro. O que pesa é a altura e a medida para o colchão. Mas investir em marcas de sono de alto padrão gera dúvidas sobre onde comprar, como economizar e se os cupons realmente funcionam.",
-          "Por isso, criamos uma parceria com a I Wanna Sleep e temos o cupom exclusivo CECIEMCASA, que dá 10% de desconto em todo o site. Preparei este guia passo a passo simples para você ver exatamente onde inserir o código no checkout e confirmar que o desconto foi aplicado antes de pagar, evitando surpresas."
+          "Antes de comprar travesseiro ou roupa de cama, confira as medidas do produto, a altura desejada e as condições de entrega e troca.",
+          "Criamos uma parceria com a I Wanna Sleep e temos o cupom exclusivo CECIEMCASA, que dá 10% de desconto em todo o site. Preparei este guia passo a passo simples para você ver exatamente onde inserir o código no checkout e confirmar que o desconto foi aplicado antes de pagar, evitando surpresas."
         ]
       },
       {
@@ -34132,7 +34125,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Acesse o site oficial da I Wanna Sleep",
         "paragraphs": [
-          "O cupom só funciona no site oficial da marca (iwannasleep.com.br), que abre normalmente no navegador do celular ou do computador. Navegue pelas categorias e selecione os itens desejados. Seja o famoso Travesseiro IWS Snow, o Pillow Top ou os lençóis de bambu, escolha as medidas e modelos adequados antes de prosseguir. Mudar os itens depois de ir ao checkout pode limpar o cupom do carrinho. O cupom vale em todo o site, de travesseiros, box e pillow tops a cobertores, lençóis, sleepwear e acessórios."
+          "O cupom é usado no site oficial da marca (iwannasleep.com.br), no navegador do celular ou computador. Escolha os produtos e suas medidas antes de seguir; se alterar o carrinho, confira novamente se o código permanece aplicado. A disponibilidade pode variar por produto."
         ],
         "image": "/images/reviews/iwannasleep/1-escolha-produto.webp",
         "imageAlt": "Navegando no site oficial da I Wanna Sleep.",
@@ -34171,10 +34164,10 @@ export const reviewsData: unknown[] = [
           "Além dos 10% do cupom CECIEMCASA, confira altura, medidas, prazo e troca:"
         ],
         "bullets": [
-          "Altura ajustável: Se comprar o Travesseiro IWS Snow, lembre-se de que ele possui regulagem de altura por camadas. Faça testes nas primeiras noites para achar a altura perfeita para seu ombro.",
+          "Altura ajustável: no Travesseiro IWS Snow, dá para mudar a quantidade de flocos e ajustar a altura. Confira as instruções e experimente a regulagem; a adaptação varia de pessoa para pessoa.",
           "Medidas exatas: Para pillow tops e lençóis, meça a altura e largura exatas do seu colchão (padrão Solteiro, Casal, Queen ou King).",
           "Prazo de entrega: O carrinho mostra o prazo e o frete depois do CEP. O frete é calculado à parte e não entra no desconto.",
-          "Política de devolução: A I Wanna Sleep oferece um ótimo suporte, mas leia as diretrizes de troca para produtos de contato pessoal caso tenha dúvidas."
+          "Política de devolução: leia as condições de troca e teste aplicáveis ao produto antes de comprar."
         ]
       },
       {
@@ -34197,7 +34190,7 @@ export const reviewsData: unknown[] = [
           "Posso usar o cupom mais de uma vez? A regra de reutilização depende da política da loja. Se houver limite por conta ou por pedido, o checkout avisa.",
           "O desconto inclui frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 10%.",
           "E se o cupom não funcionar? Verifique se o código foi digitado corretamente (letras maiúsculas, sem espaços). Caso persista, entre em contato com o atendimento da I Wanna Sleep.",
-          "O cupom CECIEMCASA pode ser usado em compras com frete grátis? Sim, o cupom CECIEMCASA é aplicado sobre o valor dos produtos, enquanto o frete grátis é uma condição independente ativada por valor mínimo de compra ou promoções específicas. Quando ambas as regras se aplicam, você acumula o desconto do cupom e o frete grátis, pagando apenas o valor final dos itens.",
+          "O cupom CECIEMCASA pode ser usado em compras com frete grátis? As condições de frete e de cupom são verificadas no checkout. Aplique o código e confira a linha do frete para seu CEP e os itens do pedido antes de pagar.",
           "O cupom CECIEMCASA expira em alguma data? Não tem data de fim marcada. Aplique o código no checkout e confirme os 10% no resumo antes de pagar.",
           "O cupom CECIEMCASA funciona em aplicativo? A I Wanna Sleep não tem aplicativo: a compra é feita no site oficial (iwannasleep.com.br), que funciona no navegador do celular. É lá que você digita o código antes de pagar.",
           "O cupom CECIEMCASA é cumulativo com promoções? Sim, ele soma com as promoções vigentes da loja, inclusive em produtos que já estão com preço promocional, e vale em todas as formas de pagamento. Confira os 10% no resumo do pedido antes de pagar.",
@@ -34245,7 +34238,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual Dolce Gusto comprar",
         "paragraphs": [
-          "Para uma ou duas xícaras por dia, a Mini Me 2.0 é a mais barata; para alternar café, café com leite e chá, a Genio S Plus; para cápsula compostável e reservatório de 1 litro, a NEO, que aceita só cápsulas NEO. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Para gastar menos, a Mini Me 2.0; para ter XL e quatro temperaturas, a Genio S Plus; para cápsula compostável e reservatório de 1 litro, a NEO, que aceita só cápsulas NEO. As duas primeiras usam as mesmas cápsulas Original. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -34422,8 +34415,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher pelo seu jeito de tomar café",
         "bullets": [
-          "Uma ou duas xícaras por dia: Mini Me 2.0. É a mais barata e usa as mesmas cápsulas do sistema Original, mas não tem XL.",
-          "Casal ou família que alterna café, café com leite e chá: Genio S Plus. As 4 temperaturas e o XL ajudam quando cada um toma uma bebida diferente.",
+          "Menor investimento nas opções comparadas: Mini Me 2.0. Usa as mesmas cápsulas das Genio S, mas não tem XL.",
+          "Quer alternar o volume e a temperatura de preparo: Genio S Plus, com XL e quatro temperaturas. Café, café com leite e chá também estão disponíveis nas outras máquinas Original, conforme a cápsula escolhida.",
           "Café o dia todo, em casa ou no escritório: a NEO tem o maior reservatório, com 1 litro; entre as do sistema Original, a Genio S Plus e a Touch somam XL e Espresso Boost.",
           "Café preto, cápsula compostável e reservatório de 1 litro: NEO, a partir de R$ 799,00.",
           "Bebida gelada: prepare e ponha gelo no copo; no nosso teste da Touch, o modo frio não gelou a bebida.",
@@ -34442,7 +34435,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Cupom CECI na Dolce Gusto",
+            "label": "Ver regras e validade do cupom CECI na Dolce Gusto",
             "href": "/cupons/dolce-gusto"
           },
           {
@@ -34454,10 +34447,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual o código de desconto da Dolce Gusto? O cupom é CECI, que dá 10% OFF na loja oficial em compras a partir de R$ 100.",
           "Qual Dolce Gusto faz bebida gelada? Nenhuma gela a bebida: o preparo frio da Genio S Touch saiu morno, por volta de 40 °C, e o gelado vem do gelo no copo.",
           "Qual Dolce Gusto aceita todas as cápsulas? Nenhuma: as máquinas do sistema Original aceitam as cápsulas Original e, nos modelos que a loja lista como compatíveis, alguns cafés NEO (espresso e lungo) com o Adaptador NEO Start; a NEO aceita só cápsulas NEO.",
           "Qual cafeteira Dolce Gusto é a menor? Depende da medida: a Genio S é a mais estreita (11,2 cm) e, entre as do sistema Original, a mais baixa; a Mini Me 2.0 é a menos funda das do sistema Original (24 cm).",
-          "Mini Me ou Genio S: qual vale mais a pena? A Mini Me 2.0 custa menos e atende uma ou duas xícaras por dia; as três Genio S têm XL, e a Plus e a Touch somam 4 temperaturas e Espresso Boost.",
+          "Mini Me ou Genio S: qual vale mais a pena? A Mini Me 2.0 é a opção de menor preço na tabela. As três Genio S têm XL; a Plus e a Touch acrescentam quatro temperaturas e Espresso Boost. Todas usam as mesmas cápsulas Original.",
           "Dolce Gusto NEO ou Genio S: qual escolher? Escolha a NEO se quer cápsula compostável e reservatório de 1 litro e aceita só cápsulas NEO, de café preto. Escolha a Genio S se quer o sistema Original, com mais de 30 bebidas, entre cafés, lattes, chocolates e chás.",
           "A Mini Me 2.0 tem função XL? Não: no comparativo oficial, o XL aparece só nas Genio S.",
           "Quais são as dimensões da Mini Me 2.0? 30,5 cm de altura, 16 cm de largura e 24 cm de profundidade.",
@@ -34572,7 +34566,7 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Cupons promocionais NESCAFÉ Dolce Gusto: frete grátis, 10% OFF, meses de streaming, R$100 em delivery e vale-presente, ao lado das cápsulas Starbucks, Nescafé Gold, Copenhagen e da máquina neo",
         "imageFit": "cover",
         "paragraphs": [
-          "O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. Por meio dela, o cupom CECI garante 10% de desconto em compras a partir de R$ 100 no site oficial, válido para cápsulas, máquinas e acessórios. O desconto é concedido pela marca e não representa custo adicional para quem compra."
+          "O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. O cupom CECI oferece 10% de desconto em produtos elegíveis na loja oficial, em compras a partir de R$ 100. Confira a aplicação no carrinho antes de concluir o pedido. O desconto é concedido pela marca e a parceria não representa custo adicional para quem compra."
         ],
         "bullets": [],
         "links": [
@@ -34680,7 +34674,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelo que os dados públicos mostram: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso identifica a empresa, mas não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "Sim, pelos dados públicos: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -34711,10 +34705,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "Nas políticas, o que conta é troca, rastreio e Sleeptest. O site oficial da I Wanna Sleep disponibiliza informações sobre trocas e devoluções, além de ferramenta para rastreamento de pedidos.",
-          "O Sleeptest não é reembolso em dinheiro, e não se confunde com o direito de arrependimento de 7 dias das compras online. Pela política oficial, nos colchões são 100 dias desde a entrega, com uso mínimo de 15 dias, e a troca é por outro colchão, por conforto (não por tamanho). O colchão precisa estar com protetor, sem dano nem sujeira, com etiqueta e embalagem originais; vale uma troca por CPF, com nota fiscal. Há taxa de frete e montagem de R$ 300 para Belo Horizonte e região metropolitana; nas demais regiões, é preciso consultar o pós-venda. Se o novo colchão custa mais, paga-se a diferença; se custa menos, a diferença vira crédito na loja (o crédito online não vale em loja física).",
-          "Travesseiros e pillow tops têm 30 dias após o recebimento, com uso mínimo de 15 dias, e a troca gera crédito, sem custo, com envio pelos Correios, etiqueta e embalagem originais e nota fiscal. Produto comprado no e-commerce troca no e-commerce; o de loja física, na mesma loja.",
-          "O pagamento é no Pix ou no cartão, com parcelamento. O site também oferece atendimento ao cliente, com canais para tirar dúvidas sobre produtos, entregas e políticas de troca."
+          "O site oficial reúne políticas de troca e devolução e uma ferramenta de rastreamento. O Sleeptest é uma política comercial separada do direito de arrependimento das compras online; não é reembolso em dinheiro.",
+          "**Colchões:** pela política oficial, são 100 dias desde a entrega, com pelo menos 15 dias de uso. A troca é por conforto, não por tamanho, e vale uma vez por CPF, com nota fiscal.",
+          "O colchão precisa ter sido usado com protetor e estar sem dano nem sujeira, com etiqueta e embalagem originais. Para Belo Horizonte e região metropolitana, a política informa R$ 300 de frete e montagem; nas demais regiões, é preciso consultar o pós-venda.",
+          "Se o novo colchão custa mais, paga-se a diferença. Se custa menos, a diferença vira crédito na loja; crédito online não vale em loja física.",
+          "**Travesseiros e pillow tops:** são 30 dias após o recebimento, também com pelo menos 15 dias de uso. A troca gera crédito, sem custo, com envio pelos Correios, etiqueta e embalagem originais e nota fiscal.",
+          "Produto comprado no e-commerce troca no e-commerce; o de loja física, na mesma loja.",
+          "O pagamento é por Pix ou cartão, com parcelamento. Use os canais de atendimento do site para dúvidas sobre produto, entrega e troca."
         ],
         "bullets": [],
         "links": [
@@ -34744,7 +34741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na I Wanna Sleep?",
         "paragraphs": [
-          "Sim, com a ressalva de que este artigo trata só de identificação e de regras de compra, com dados públicos do site oficial e a política do Sleeptest. A qualidade do atendimento está na [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao), que olha a loja online. O que sustenta a resposta:"
+          "Os dados abaixo identificam a empresa e as regras de compra. Para avaliar o atendimento, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao), que olha a loja online. O que sustenta a leitura:"
         ],
         "bullets": [
           "CNPJ 43.783.630/0001-92, ativo desde 2021, com endereço em Belo Horizonte (MG).",
@@ -34757,7 +34754,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília mantém parceria comercial ativa com a I Wanna Sleep. No checkout do e-commerce oficial, o leitor pode testar o cupom CECIEMCASA para buscar 10% de desconto em produtos elegíveis, segundo as regras e vigência estabelecidas pela marca. A utilização do cupom não gera custo adicional para o leitor e ajuda a apoiar o projeto editorial."
+          "Temos parceria com a I Wanna Sleep e podemos receber comissão pelas compras com o cupom. O código regular CECIEMCASA dá 10% OFF no site oficial. Confira o desconto no checkout e consulte a página do cupom para condições atualizadas e ofertas temporárias."
         ],
         "bullets": [],
         "links": [
@@ -34773,7 +34770,7 @@ export const reviewsData: unknown[] = [
           "A I Wanna Sleep tem loja física ou é só online? A marca tem lojas físicas no Brasil além do site oficial, conforme a seção \"Nossas lojas\" disponível no site.",
           "Qual o CNPJ da I Wanna Sleep? A empresa opera sob o CNPJ 43.783.630/0001-92, com endereço registrado em Belo Horizonte, Minas Gerais.",
           "Como sei que estou no site oficial? Confirme se o domínio é iwannasleep.com.br antes de inserir dados de pagamento.",
-          "O cupom CECIEMCASA muda o preço final do produto? Quando aceito no checkout para um produto elegível, o código reduz o valor conforme as regras vigentes da marca, sem acrescentar cobrança ao pedido.",
+          "O cupom CECIEMCASA muda o preço final do produto? Sim. O código regular dá 10% OFF no site oficial; confira o desconto no resumo antes de pagar. Ofertas temporárias e condições atualizadas ficam na página do cupom.",
           "A I Wanna Sleep entrega para todo o Brasil ou só em capitais? A marca informa que utiliza transportadoras parceiras. A disponibilidade, o prazo e o valor do frete dependem do CEP e devem ser confirmados no carrinho antes da compra.",
           "Os produtos da I Wanna Sleep têm garantia? Os prazos e as condições podem variar conforme a categoria e a garantia informada na ficha do produto, sem afastar a garantia legal aplicável. Consulte a página do item e o atendimento oficial antes da compra; o Sleeptest é uma política comercial separada e possui regras próprias.",
           "Como funciona a troca ou devolução na I Wanna Sleep? Segundo a política oficial, compras feitas no e-commerce podem ter troca ou devolução solicitada em até 7 dias corridos do recebimento, observadas as condições publicadas pela marca. O Sleeptest é outra coisa: troca de colchão por conforto em até 100 dias, ou crédito de troca para travesseiros e pillow tops em até 30 dias, nunca reembolso em dinheiro.",
@@ -34785,9 +34782,10 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Conheça os produtos da I Wanna Sleep e teste o cupom CECIEMCASA no checkout",
+      "text": "Veja os produtos no site oficial e aplique o CECIEMCASA, de 10% OFF, no checkout. Confira o desconto antes de pagar.",
       "label": "Visitar loja",
-      "url": "https://www.iwannasleep.com.br/"
+      "url": "https://www.iwannasleep.com.br/",
+      "sponsored": true
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
@@ -34959,14 +34957,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na primeira noite, o lado gelado do Igloo esfriou na hora e bastou virar o cobertor quando o calor veio de madrugada. Ele faz mais sentido para quem esquenta dormindo ou divide a cama com alguém de outra temperatura. Ainda é cedo para falar de durabilidade; veja o capítulo Para quem vale a pena."
+          "Na nossa primeira noite, começamos com o lado quente e, quando esquentou de madrugada, bastou virar o cobertor para sentir o toque frio na hora. Ele faz mais sentido para quem sofre com calorão noturno. Ainda é cedo para falar de durabilidade; veja as medidas, o preço e o cupom CECIEMCASA abaixo."
         ]
       },
       {
         "heading": "O que é o Cobertor IWS Igloo",
         "paragraphs": [
           "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio. Basta virar o cobertor para trocar de sensação.",
-          "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. As medidas e tecnologias estão abaixo; as impressões da primeira noite vêm a seguir."
+          "A proposta de dupla face faz sentido para alternar a sensação quando a temperatura muda: foi o que fizemos na primeira noite, virando a mesma peça. Isso é diferente de ter duas zonas de temperatura independentes para o casal. As medidas e tecnologias estão abaixo; as impressões da primeira noite vêm a seguir."
         ],
         "bullets": [],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
@@ -34990,12 +34988,12 @@ export const reviewsData: unknown[] = [
           "O site oficial diz que o Cobertor IWS Igloo reúne seis tecnologias próprias da marca:"
         ],
         "bullets": [
-          "ICE-FEEL FIBER SYSTEM: fibras de poliamida no lado frio que, segundo a marca, dissipam o calor corporal e deixam o toque 3°C abaixo da temperatura ambiente.",
-          "WARM-FEEL FIBER SYSTEM: fibras de poliéster no lado quente, projetadas para reter o calor corporal de forma controlada.",
-          "DUAL-FACE TECHNOLOGY: a possibilidade de virar o cobertor para alternar entre a sensação fria e a quente.",
-          "SILK-GLIDE SURFACE: acabamento de superfície com textura sedosa nos dois lados.",
-          "BALANCE SYSTEM: peso calibrado para dar sensação de aconchego sem abafar.",
-          "AIR-FLOW SYSTEM: sistema de respirabilidade para reduzir o acúmulo de calor sob o cobertor."
+          "Toque frio (Ice-Feel Fiber System): fibras de poliamida no lado frio que, segundo a marca, dissipam o calor do corpo, com sensação até 3 °C abaixo da temperatura ambiente.",
+          "Toque quente (Warm-Feel Fiber System): fibras de poliéster no lado quente, projetadas, segundo a marca, para reter o calor corporal de forma controlada.",
+          "Dupla face térmica (Dual-Face): estrutura reversível que permite alternar entre toque refrescante e aconchego virando o cobertor na cama.",
+          "Acabamento sedoso (Silk-Glide): superfície de textura sedosa nos dois lados.",
+          "Peso equilibrado (Balance System): peso calibrado para dar sensação de aconchego sem abafar, segundo a marca.",
+          "Trama respirável (Air-Flow): sistema de respirabilidade, segundo a marca, para reduzir o acúmulo de calor sob o cobertor."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-2.webp",
         "imageAlt": "Grade com as seis tecnologias do Cobertor IWS Igloo: Ice-Feel Fiber System, Warm-Feel Fiber System, Dual-Face Technology, Silk-Glide Surface, Balance System e Air-Flow System",
@@ -35041,7 +35039,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Preço e estoque mudam com as promoções, então confira a disponibilidade no site antes de fechar o pedido. No checkout, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 dias em casa para compras no site oficial: se o produto não agradar, você recebe um crédito para trocar por outro produto do site."
+          "Em 24/10/2026, no site oficial, o Igloo custava R$ 997,00 no tamanho Casal/Queen (de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Confira o preço e o estoque atuais na loja.",
+          "No checkout, aplique o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA e confira os 10% de desconto adicional nos produtos elegíveis antes de pagar.",
+          "Para compras pelo site oficial, a marca anuncia teste de 30 dias com crédito para trocar por outro produto. Para receber o dinheiro de volta, o arrependimento de 7 dias corridos após o recebimento é o caminho; confira as condições na [página do Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) antes da compra."
         ],
         "bullets": [],
         "links": [
@@ -35055,12 +35055,12 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM): basta virar o cobertor para trocar de sensação.",
-          "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Não medimos com termômetro e ainda é cedo para falar de durabilidade.",
+          "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Ainda é cedo para falar de durabilidade.",
           "O cobertor Igloo tem tamanho casal ou queen? Sim, no tamanho Casal/Queen; há também King/Super King. As medidas e os pesos estão no capítulo Tamanhos disponíveis.",
           "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco, com secagem natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
           "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? A proposta da marca é que sirva o ano todo: no verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor do corpo, diz a marca; no inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. A ideia é dispensar a troca de cobertor entre as estações.",
-          "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Essa é uma das propostas do produto: o cobertor tem um lado frio e um lado quente, e a ideia é que o casal escolha a face que agrada mais, virando a peça quando a necessidade mudar. Segundo a marca, o Balance System distribui o peso de forma uniforme e a tecnologia Air-Flow reduz a sensação de abafamento comum em cobertores tradicionais.",
+          "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Ele tem uma face de toque frio e outra de toque quente, e o casal vira a peça conforme a noite muda. Se uma pessoa sente calor e a outra frio ao mesmo tempo, virar o cobertor muda a sensação para os dois, porque não há zonas térmicas separadas na mesma cama.",
           "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? A marca diz que o peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande. Se o peso agrada é questão de preferência.",
           "Posso usar o Cobertor IWS Igloo com lençol ou em contato direto com a pele? A marca descreve a superfície Silk-Glide como sedosa nos dois lados. Como dica nossa, usar lençol por baixo ajuda a manter o cobertor limpo e a lavá-lo só quando for necessário. Quem tem pele sensível deve avaliar o contato direto por conta própria.",
           "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece [teste de 30 dias em casa](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) para compras feitas pelo site oficial. Se você não se adaptar, recebe um crédito para troca por outro produto do site, e não a devolução do valor em dinheiro. Leia os termos completos da política de teste na página do produto antes de comprar."
@@ -35112,18 +35112,18 @@ export const reviewsData: unknown[] = [
       "10% de desconto sobre o valor dos produtos no site oficial da Nestlé Nutre",
       "Vale para os produtos da loja, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses",
       "Código de parceria do blog com a Nestlé Nutre, aplicado direto no checkout",
-      "Basta digitar CECI no campo de cupom do checkout"
+      "Basta digitar CECI no campo de cupom do checkout",
+      "Pode somar com promoções participantes; confira o valor final no carrinho"
     ],
     "cons": [
       "Não vale para Alfamino, Alfaré nem fórmulas infantis para bebês de 0 a 12 meses, como NAN",
-      "O desconto não incide sobre o valor do frete",
-      "Soma com as promoções da loja; o valor final do carrinho confirma"
+      "O desconto não incide sobre o valor do frete"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: como usar o cupom CECI",
         "paragraphs": [
-          "O [cupom Nestlé Nutre](/cupons/nestle-nutre) é o CECI e dá 10% sobre os produtos da loja oficial, não sobre o frete. Você digita CECI no campo de cupom do checkout e confere a linha do desconto antes de pagar. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; veja a seção de produtos excluídos."
+          "O [cupom oficial da Nestlé Nutre](/cupons/nestle-nutre) é o CECI e dá 10% sobre os produtos elegíveis da loja oficial, sem incidir sobre o frete. Digite o código no campo de cupom do carrinho e confira o desconto antes de pagar. Fórmulas infantis de 0 a 12 meses, como a linha NAN, e os itens Alfamino e Alfaré ficam de fora."
         ]
       },
       {
@@ -35188,7 +35188,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confirme o desconto antes de pagar",
         "paragraphs": [
-          "Esse é o passo mais importante. No teste de 26/10, num carrinho com duas latas de Nutren Fortify, o CECI tirou 10% do total (de R$ 283,78 para R$ 255,40). Agora, no seu pedido: confira se o desconto realmente apareceu no valor total antes de finalizar a compra. Se o cupom não funcionar, verifique se o código foi digitado corretamente, se algum item do carrinho é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses (que ficam de fora da promoção) e se há outra campanha ativa na loja que possa interferir no desconto. Se nada disso explicar, avise pelo contato do Em Casa com Cecília para que a informação seja revisada."
+          "No teste de 26/10, num carrinho com duas latas de Nutren Fortify, o CECI tirou 10% do total: de R$ 283,78 para R$ 255,40.",
+          "No seu pedido, confira a linha do desconto e o total antes de pagar.",
+          "Se o desconto não aparecer, confira se digitou CECI corretamente, se há Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses no carrinho (itens excluídos) e se outra campanha ativa pode interferir. Se nada disso explicar, avise pelo contato do Em Casa com Cecília para revisarmos a informação."
         ],
         "image": "/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
         "imageAlt": "Resumo do pedido na loja da Nestlé Nutre com o cupom CECI aplicado: subtotal de R$ 1.121,84, desconto de R$ 112,18 (10%) e total de R$ 1.009,66.",
@@ -35214,13 +35216,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Onde a Nestlé Nutre entra nessa história",
-        "paragraphs": [
-          "A parceria com a Nestlé Nutre nasceu justamente dessas conversas sobre alimentação da família toda — não só das crianças, mas dos adultos e dos mais velhos também. O CECI é o código da nossa parceria com a loja oficial: o desconto de cada compra aparece no carrinho. Assim que tiver experiência de uso para compartilhar, este espaço será atualizado.",
-          "Se você já pesquisou e sabe qual produto da linha quer comprar, o cupom ajuda a economizar 10% nessa decisão."
-        ]
-      },
-      {
         "heading": "Veredito",
         "paragraphs": [
           "Se você já escolheu o produto, o passo final é simples: no checkout do site da Nestlé Nutre, digite CECI, clique em aplicar e confira se o desconto de 10% apareceu no valor total antes de pagar. Só confira se nenhum item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses, já que eles ficam de fora da promoção.",
@@ -35228,8 +35223,9 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Usar o cupom CECI na Nestlé Nutre",
-            "href": "https://www.nestlenutre.com.br/"
+            "label": "Usar o cupom CECI na loja oficial Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/",
+            "sponsored": true
           }
         ]
       },
@@ -35241,7 +35237,7 @@ export const reviewsData: unknown[] = [
           "O cupom pode ser usado mais de uma vez? A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.",
           "É necessário receita médica para comprar? Confira na página do produto se há alguma exigência; as regras de venda são da loja. De forma geral, itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de médico ou nutricionista.",
           "O desconto inclui o frete? Não. O desconto de 10% incide sobre o valor dos produtos; o frete é calculado à parte, conforme a política da loja.",
-          "O cupom CECI funciona em produtos que já estão com desconto ou em combo? Sim. O CECI soma com as promoções vigentes da loja, inclusive em produtos com preço promocional. O resumo do carrinho mostra o desconto antes de pagar.",
+          "O cupom CECI funciona em produtos que já estão com desconto ou em combo? Ele pode somar com promoções participantes, mas as condições variam. Confira se o desconto aparece no resumo do carrinho antes de pagar.",
           "Qual o valor mínimo de compra para usar o cupom CECI? Não tem valor mínimo. O frete é calculado separadamente.",
           "O cupom CECI dá frete grátis? O cupom em si, não: ele aplica 10% sobre o valor dos produtos. Frete, prazo e condições de entrega seguem a política da loja e podem mudar; confira o frete no checkout, pelo seu CEP.",
           "Como saber se o cupom CECI foi aplicado corretamente? Depois de inserir o código CECI no campo de cupom do checkout, o desconto aparece no resumo do pedido. Se não aparecer, verifique se nenhum item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses, se o código foi digitado corretamente e se há outra campanha ou cupom ativo que possa interferir.",
@@ -35249,17 +35245,18 @@ export const reviewsData: unknown[] = [
           "Posso usar o cupom CECI em compras recorrentes ou assinatura? Não. Segundo a [página de assinaturas da Nestlé Nutre](https://www.nestlenutre.com.br/assinaturas), os cupons promocionais do site não valem em pedidos por assinatura. A assinatura tem desconto próprio: 10% nos três primeiros pedidos e 15% a partir do quarto pedido seguido. O CECI fica para a compra avulsa.",
           "Onde encontro o cupom Nestlé Nutren? O cupom CECI é o código de parceria do blog Em Casa com Cecília com a Nestlé Nutre: 10% OFF em produtos da loja oficial, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. A ficha atualizada fica na página de cupons do Em Casa com Cecília, e o código é aplicado no campo de cupom do checkout.",
           "Existe desconto de laboratório para produtos Nutren? O cupom CECI é um código de parceria para compras no site da loja. Condições para laboratórios, clínicas ou compras corporativas, se existirem, devem ser consultadas diretamente com a Nestlé Nutre; o atendimento da loja é 0800 770 2461, de segunda a sexta, das 8h às 17h, segundo o site da loja.",
-          "Existe o programa \"Nestlé meu desconto nutrição\"? Não encontramos um programa com esse nome. A Nestlé Nutre tem o Programa Nestlé Nutre, voltado a pacientes e cuidadores, que, segundo a página do programa, oferece conteúdos e serviços gratuitos e um cupom de 10% todo mês para usar na loja. É um benefício separado, com cadastro; o CECI é aplicado no campo de cupom do checkout.",
-          "Como funciona o programa de desconto Nutren? A Nestlé Nutre tem o Programa Nestlé Nutre, com cadastro, que inclui um cupom de 10% por mês, e o Programa de Assinaturas, com 10% nos três primeiros pedidos e 15% a partir do quarto pedido seguido. O cupom CECI é diferente: é aplicado no campo de cupom do checkout, na compra avulsa.",
+          "Existe o programa \"Nestlé meu desconto nutrição\"? Não encontramos um programa com esse nome. A Nestlé Nutre tem o Programa Nestlé Nutre, voltado a pacientes e cuidadores, que, segundo a página do programa, oferece conteúdos e serviços gratuitos. É um benefício separado, com cadastro; o CECI é aplicado no campo de cupom do checkout.",
+          "Como funciona o programa de desconto Nutren? O Programa de Assinaturas dá 10% nos três primeiros pedidos e 15% a partir do quarto pedido seguido. O cupom CECI é diferente: é aplicado no campo de cupom do checkout, na compra avulsa.",
           "O cupom Nestlé CECI vale para outros produtos da marca? O CECI foi cadastrado para a loja Nestlé Nutre (nestlenutre.com.br), exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Produtos Nestlé vendidos em outros sites, mercados ou farmácias não fazem parte da parceria.",
-          "Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI dá 10% OFF em Nutren Senior e nos demais produtos elegíveis. Promoções pontuais podem aparecer no site oficial, e o CECI soma com elas; o valor final do carrinho é a referência."
+          "Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI dá 10% OFF em Nutren Senior e nos demais produtos elegíveis. Promoções pontuais podem aparecer no site oficial; confira no carrinho se o CECI soma com a oferta escolhida."
         ]
       }
     ],
     "cta": {
       "text": "Compre no site oficial com cupom CECI",
-      "label": "Ver produtos",
-      "url": "https://www.nestlenutre.com.br/"
+      "label": "Ver produtos na loja oficial",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
@@ -35312,8 +35309,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
-          "O catálogo tem quatro frentes da Nestlé mais parceiras no mesmo checkout: Suplementação, Nutrição Clínica, Pediátrica e Envelhecimento Saudável. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
-          "Um diferencial pouco conhecido é o Programa Nestlé Nutre, um serviço de suporte ao paciente com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat (em parceria com a Becare). É um programa separado da nossa parceria com o cupom CECI, mas vale conhecer se você ou alguém da família usa produtos da linha com frequência."
+          "O catálogo reúne Suplementação, Nutrição Clínica, Pediátrica e Envelhecimento Saudável. A loja também vende marcas parceiras, como Sundown, Pure Encapsulations e Vital Proteins, no mesmo checkout.",
+          "O Programa Nestlé Nutre oferece suporte ao paciente, com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de atendimento nutricional gratuito por chat em parceria com a Becare. É um programa separado da nossa parceria com o CECI."
         ],
         "bullets": [],
         "images": [
@@ -35334,7 +35331,7 @@ export const reviewsData: unknown[] = [
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
           "O direito de arrependimento vale por até 7 dias corridos a partir do recebimento. A devolução é pedida pelo SAC da loja, e a Nestlé (ou a marca parceira) paga a coleta ou a postagem. O produto volta na embalagem original ou similar, com a nota fiscal e, quando houver, o manual e os acessórios.",
-          "Quando o produto chega ao centro de distribuição, a loja confere essas condições e devolve o valor total. No cartão, o estorno sai de uma vez, na fatura seguinte ou na posterior, seja qual for o número de parcelas. Produto com defeito ou entregue errado não entra no arrependimento: nesse caso, fale com o SAC e explique o problema.",
+          "Quando o produto chega ao centro de distribuição, a loja confere essas condições e devolve o valor total. No cartão, o estorno sai de uma vez, na fatura seguinte ou na posterior, seja qual for o número de parcelas. Se o produto chegou com defeito ou foi entregue errado, informe também o problema ao SAC para receber as instruções de atendimento.",
           "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. A home da loja anuncia frete grátis acima de R$ 200, mas esse valor pode mudar com as campanhas: confira o frete e o prazo no carrinho, com o seu CEP. O parcelamento chega a 6x sem juros no cartão."
         ],
         "bullets": []
@@ -35380,15 +35377,16 @@ export const reviewsData: unknown[] = [
           "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
           "A Nestlé Nutre entrega no meu CEP? Digite o CEP no carrinho: o site mostra se entrega, o prazo e o frete antes do pagamento.",
           "Como funciona a devolução na Nestlé Nutre? Pelo direito de arrependimento, você pede a devolução ao SAC em até 7 dias corridos após o recebimento, com o produto na embalagem original ou similar e a nota fiscal. A Nestlé paga a coleta e, no cartão, o estorno sai na fatura seguinte ou na posterior.",
-          "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente, separado da parceria do cupom CECI com este blog.",
+          "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde e atendimento nutricional gratuito. O programa é separado da parceria do cupom CECI com este blog.",
           "O cupom CECI soma com as promoções da Nestlé Nutre? No nosso teste, sim: o CECI deu 10% OFF nos produtos elegíveis junto com as promoções da loja. Ele não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; confira a linha do desconto no resumo antes de pagar."
         ]
       }
     ],
     "cta": {
       "text": "Conheça a linha Nestlé Nutre e aproveite o cupom CECI",
-      "label": "Visitar loja",
-      "url": "https://www.nestlenutre.com.br/"
+      "label": "Abrir a loja oficial Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
@@ -35436,7 +35434,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual Nutren é para quem",
         "paragraphs": [
-          "Não existe um Nutren melhor que os outros: cada linha tem um público definido pela própria Nestlé, do Senior (acima dos 50 anos) ao Active (jovens e adultos). O que pesa é quem vai usar e a orientação do médico ou nutricionista. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+          "O Senior é para pessoas a partir dos 50 anos; o Protein tem pó com cafeína e versão pronta; o Control tem finalidade específica no metabolismo de açúcares; o Active é complemento para jovens e adultos. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       },
       {
@@ -35556,7 +35554,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Senior: para que serve e quais versões existem",
         "paragraphs": [
-          "O Senior é para quem tem mais de 50 anos. A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\"; para uma condição de saúde, a escolha é do médico ou nutricionista. É complemento alimentar, não remédio.",
+          "O Senior é para pessoas a partir dos 50 anos, como informam as páginas de produto. Para uma condição de saúde, a escolha é do médico ou nutricionista.",
           "Há o pó em latas de 740 g, o Premium de 370 g, que a Nestlé diz ter \"colágeno FORTIGEL® e ômega 3\", e o pronto de 200 ml, isento de lactose. O Senior Sem Sabor de 740 g (o que não é Zero Lactose) traz na lata 20 g de proteína na porção diária de 55 g, tomada em duas doses de 27,5 g. Pelo FAQ da linha, o pó e o pronto não contêm glúten; só as cápsulas Senior A-Z contêm."
         ],
         "images": [
@@ -35581,7 +35579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Protein: pó com cafeína ou garrafa pronta",
         "paragraphs": [
-          "O Protein em lata tem cafeína, em baunilha e chocolate; a garrafa pronta é outro produto. A proteína e a cafeína da porção estão na tabela acima; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
+          "O Protein em lata contém cafeína e tem sabores baunilha e chocolate; a garrafa pronta é outro produto. A proteína e a cafeína da porção estão no quadro acima. Os 20 g do destaque do pó incluem 180 ml de leite desnatado. A página avisa que o pó não deve ser consumido por gestantes, lactantes e crianças; o FAQ informa lactose e glúten no pó.",
           "A garrafa pronta de 260 ml é outro produto, com os valores da tabela acima, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
         ],
         "image": {
@@ -35622,7 +35620,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Active: o complemento para jovens e adultos",
         "paragraphs": [
-          "O Active é complemento para jovens e adultos. A diferença para o Senior, na resposta da própria marca: \"Nutren Active foi feito para jovens e adultos e Nutren Senior para pessoas com mais de 50 anos\".",
+          "O Active é complemento para jovens e adultos. A marca diferencia o Senior pela faixa etária: a partir dos 50 anos.",
           "A lata tem 400 g, em baunilha, chocolate e morango. Na porção de 31,5 g da baunilha são 7,5 g de proteína, ou 14 g com 180 ml de leite desnatado. O FAQ diz que o Active contém lactose e glúten e que ele não pode ser fervido: se quiser quente, junte leite quente."
         ],
         "image": {
@@ -35649,7 +35647,7 @@ export const reviewsData: unknown[] = [
           "Cafeína: das tabelas lidas, só a do Nutren Protein em pó traz cafeína, 80 mg por porção; a da garrafa de 260 ml não traz linha de cafeína.",
           "Glúten: o Protein em pó e o Active contêm; Senior em pó e pronto e Control não contêm.",
           "Lactose: o Senior Zero Lactose, o Senior pronto, o Control e a garrafa do Protein trazem 0 g; o Protein em pó e o Active contêm, segundo o FAQ, e a página do Senior Premium também diz que contém.",
-          "Açúcares: o Protein em pó e o Active têm pouco açúcar adicionado por porção, e o Control tem bem mais mesmo isento de sacarose, frutose, glicose e lactose. Os valores por porção estão na tabela do início."
+          "Açúcares: as versões de Protein, Active e Control do quadro declaram açúcares adicionados. No Control, isso aparece mesmo com sacarose, frutose, glicose e lactose em 0 g. Confira a porção de cada versão antes de comparar os valores."
         ]
       },
       {
@@ -35726,8 +35724,8 @@ export const reviewsData: unknown[] = [
           "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé."
         ],
         "bullets": [
-          "Nutren Senior: linha para adultos acima dos 50 anos. Pelos números da tabela, para quem precisa de zero lactose a escolha é o Senior Zero Lactose ou o Control, porque trazem 0 g de lactose por porção.",
-          "Nutren Protein: para jovens e adultos que querem \"foco e energia\"; o pó tem 80 mg de cafeína por porção e não é para gestantes, lactantes e crianças.",
+          "Nutren Senior: linha para pessoas a partir dos 50 anos. O Senior Sem Sabor Zero Lactose tem 0 g de lactose por porção no quadro, assim como o Senior pronto, o Protein pronto e o Control. Quem tem restrição ou necessidade específica deve avaliar a composição com o médico ou nutricionista.",
+          "Nutren Protein: o pó contém cafeína e não deve ser consumido por gestantes, lactantes e crianças. A bebida pronta tem composição diferente, apresentada no quadro.",
           "Nutren Control: para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
           "Nutren Active: complemento para jovens e adultos.",
           "As porções mudam de uma linha para outra (27,5 g, 31,5 g, 40 g, 42 g de pó; 200 ou 260 ml de bebida). Compare a tabela com isso em mente."
@@ -35736,16 +35734,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual Nutren escolher? Depende de quem vai usar e do que o médico ou nutricionista indicou: a Nestlé destina o Senior a quem tem mais de 50 anos, o Active a jovens e adultos, o Protein a quem quer foco e energia (com 80 mg de cafeína no pó) e o Control ao manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
+          "Qual Nutren escolher? Confira a apresentação e a faixa etária no quadro inicial. As quatro linhas têm composições e finalidades diferentes; para uma necessidade de saúde, a escolha é do médico ou nutricionista.",
           "Para que serve o Nutren Senior? É a linha da Nestlé para pessoas a partir dos 50 anos, detalhada no capítulo do Senior; para uma condição de saúde, quem decide é o médico ou nutricionista.",
-          "Nutren Protein ou Nutren Senior: qual o melhor? Não há um melhor: o Senior é para quem tem mais de 50 anos e o Protein para jovens e adultos, e o Protein em pó tem cafeína, lactose e glúten, enquanto o Senior em pó e pronto não contém glúten.",
+          "Nutren Protein ou Nutren Senior: qual o melhor? A escolha depende da apresentação e da orientação profissional. O Senior é a linha para pessoas a partir dos 50 anos; o Protein em pó contém cafeína, lactose e glúten, enquanto o Senior em pó e pronto não contém glúten, segundo o FAQ da linha.",
           "Para que serve o Nutren Control? A Nestlé o indica para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
           "Nutren Control é para diabéticos? A indicação da Nestlé fala em pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação profissional; para quem tem diabetes, quem decide é o médico ou nutricionista que acompanha a pessoa.",
           "Nutren Control tem açúcar? Tem: a tabela mostra açúcares totais e adicionados nos dois formatos mesmo com sacarose, frutose, glicose e lactose em 0 g, como detalha o capítulo do Control; quem precisa controlar açúcares deve levar a tabela ao médico ou nutricionista.",
           "Como preparar o Nutren Control em pó? Pelo rótulo da lata de 380 g: 5 colheres de sopa (42 g) com 50 ml de água até formar uma pasta, depois mais 130 ml de água, e consumir logo após o preparo.",
           "Nutren Control tem glúten? Não: o rótulo do pó e o FAQ do pronto dizem que não contém glúten, e o pó contém derivados de leite e soja.",
-          "Para que serve o Nutren Active? A Nestlé o descreve como complemento para jovens e adultos que precisam de mais energia e disposição; ele contém lactose e glúten.",
-          "Qual a diferença entre Nutren Active e Nutren Senior? Pela Nestlé, o Active é para jovens e adultos e o Senior para pessoas com mais de 50 anos, e as tabelas têm porções e nutrientes diferentes.",
+          "Para que serve o Nutren Active? É complemento alimentar para jovens e adultos, segundo a Nestlé. Contém lactose e glúten; a composição da versão Baunilha está no quadro.",
+          "Qual a diferença entre Nutren Active e Nutren Senior? A Nestlé destina o Active a jovens e adultos e o Senior a pessoas a partir dos 50 anos. As porções e a composição de cada apresentação estão no quadro do início.",
           "Nutren Protein tem cafeína? O pó tem 80 mg por porção de 31,5 g e não deve ser consumido por gestantes, lactantes e crianças; a tabela da garrafa de 260 ml não traz linha de cafeína.",
           "Nutren Senior tem glúten e lactose? O Senior em pó e pronto não contém glúten, segundo o FAQ; o Zero Lactose e o pronto têm 0 g de lactose, e a tabela do Café com Leite não traz linha de lactose; a página do Premium diz que ele contém lactose.",
           "Nutren Senior engorda? Nas páginas que lemos, a Nestlé não fala em ganho de peso para o Senior, e no FAQ do Control escreve que \"nenhum alimento por si só tem o poder de engordar ou emagrecer\"; o peso depende de toda a alimentação e da orientação do médico ou nutricionista.",
@@ -35866,7 +35864,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o Nutren Senior Zero Lactose",
         "paragraphs": [
           "O Zero Lactose é composto lácteo com cálcio, proteínas e vitamina D, para adultos acima de 50 anos. A enzima lactase entra na lista de ingredientes das duas latas de 740 g.",
-          "Os benefícios declarados na ficha oficial incluem proteínas e nutrientes voltados a adultos 50+. Na versão sem sabor, a marca também afirma auxílio na manutenção das funções do tecido ósseo e do músculo esquelético. Na baunilha, destaca cálcio e vitamina D."
+          "As duas versões têm a mesma base de ingredientes, com proteínas e cálcio. Para escolher entre elas, confira a lista: a baunilha acrescenta aromatizante e sucralose, enquanto a sem sabor não traz esses dois itens na lista oficial."
         ],
         "image": "/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp",
         "imageAlt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g com os benefícios declarados pela marca: nutrição diária para adultos 50+, proteínas, cálcio, vitamina D e nutrientes essenciais",
@@ -36025,7 +36023,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como ganhar ou comprar a Mini Me da Dolce Gusto: combos com máquina, combo Mini Me 2.0 com 20 caixas por R$ 797,00 e avulsa por R$ 419,90. Veja a conta e o cupom CECI.",
+    "description": "Compare três formas de levar a Mini Me da Dolce Gusto: máquina avulsa, combo com 20 caixas ou bônus em campanha. Veja como fazer a conta por caixa e conferir a aplicação do CECI.",
     "metaDescription": "Mini Me Dolce Gusto com o cupom CECI e 10% OFF: os combos com máquina, o combo com 20 caixas e a avulsa, e quando cada um compensa.",
     "publishedAt": "29 Jun 2026",
     "publishedAtISO": "2026-06-29",
@@ -36066,7 +36064,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF a partir de 100 reais, e a aplicação em combos depende da campanha."
         ]
       },
       {
@@ -36104,7 +36102,7 @@ export const reviewsData: unknown[] = [
         "heading": "Combo com 20 caixas ou Mini Me avulsa",
         "paragraphs": [
           "No combo, você paga R$ 797,00 por máquina e 20 caixas. Avulsa, a máquina sai por R$ 419,90 e as caixas são compradas à parte.",
-          "Para saber o custo real da máquina no combo, subtraia as caixas: R$ 797,00 menos 20 vezes o preço da caixa no carrinho. A diferença para a avulsa é de R$ 377,10, então o combo compensa quando a caixa custa mais de R$ 18,86. Com a caixa a R$ 25, as 20 caixas somam R$ 500,00 e a máquina sairia por R$ 297,00. Compare sempre com frete e as mesmas caixas nos dois cenários, e releia o preço da caixa antes de decidir."
+          "Na comparação acima, o combo custava R$ 377,10 a mais que a máquina avulsa. Dividindo essa diferença por 20, o ponto de equilíbrio é de aproximadamente R$ 18,86 por caixa: acima disso, comprar máquina e caixas no combo sai mais barato do que comprar os mesmos itens separados. Se a caixa avulsa custar R$ 25, as 20 somam R$ 500; nesse cálculo, R$ 297 do combo ficam atribuídos à máquina. Esse é um rateio para comparar as ofertas, não o preço de uma máquina vendida separadamente. Inclua frete e descontos elegíveis e use as mesmas caixas nos dois cenários."
         ],
         "bullets": [
           "Combo Mini Me 2.0 + 20 caixas: R$ 797,00.",
@@ -36136,7 +36134,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Vale se você já compraria as caixas. No combo de 20 caixas, a máquina sai mais barata que a avulsa quando a caixa passa de R$ 18,86 no carrinho. Já o combo com Mini Me grátis entrega a máquina sem custo para quem passa do mínimo de caixas do regulamento.",
           "Não vale se o consumo é esporádico: comprar 20 caixas ou mais só para levar a máquina cria um estoque que pode demorar para acabar. Nesse caso, a Mini Me 2.0 avulsa por R$ 419,90 é a conta mais segura.",
-          "Confirme preço, número de caixas, frete e regras no carrinho antes de pagar. Se fosse para a minha casa, eu levaria a avulsa para consumo esporádico, porque 20 caixas criam estoque."
+          "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar. Se fosse para a minha casa com consumo moderado, eu levaria a Mini Me 2.0 avulsa para ter a liberdade de repor os cafés no meu próprio ritmo, sem imobilizar orçamento em um estoque grande de uma vez só."
         ],
         "bullets": [
           "Consumo frequente: combo com 20 caixas ou combo com Mini Me grátis.",
@@ -36145,9 +36143,10 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Veja os combos com máquina Mini Me na loja oficial e use o cupom CECI para economizar 10% quando estiver elegível.",
+      "text": "Veja os combos com máquina Mini Me na loja oficial e use o cupom CECI para economizar 10% a partir de R$ 100 quando estiver elegível.",
       "label": "Ir para a loja oficial",
-      "url": "https://www.nescafe-dolcegusto.com.br/sabores"
+      "url": "https://www.nescafe-dolcegusto.com.br/sabores",
+      "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
@@ -36601,7 +36600,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "square",
     "pros": [
       "Painel touch responsivo, sem delay perceptível",
-      "A máquina mais rápida que já usamos em casa (mais rápida que a Vertuo da Nespresso)",
+      "A máquina de aquecimento e preparo mais ágil nas nossas primeiras impressões em casa (mais rápida que a Vertuo da Nespresso)",
       "Troca de cápsula simples: basta levantar a tampa frontal, que já ativa o painel",
       "Reservatório de 800 ml fácil de encaixar e remover para reabastecer",
       "Construção robusta, sem rebarbas ou acabamento malfeito",
@@ -36611,7 +36610,7 @@ export const reviewsData: unknown[] = [
       "Fica pingando entre um preparo e outro, algo que não notamos na NEO nem na Vertuo",
       "A unidade 127V testada possui plugue de 20A e requer uma tomada compatível, sem adaptadores improvisados",
       "Menos recursos de conectividade (IoT/app) que a NEO e a Vertuo",
-      "Os únicos valores em ml de cada nível estão no manual impresso, não no painel",
+      "O painel mostra níveis, sem indicar ml; o manual oferece uma referência de volume por nível",
       "Há relatos de usuários (inclusive no Reclame Aqui) sobre o painel touch apresentando problemas com o tempo: ainda não temos uso suficiente pra confirmar ou descartar"
     ],
     "pullQuote": "É a máquina de cápsula mais rápida que já tivemos em casa, mas o painel touch e o reservatório de 800 ml são só a metade da história do primeiro uso.",
@@ -36696,7 +36695,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que testamos a Genio S Touch",
         "paragraphs": [
-          "A Touch é a Genio S de botões trocados por touchscreen: mantém as cápsulas ORIGINAL, com Espresso Boost, 4 temperaturas e XL.",
+          "A Genio S Touch é a versão da família com painel touchscreen. Usa cápsulas ORIGINAL e oferece Espresso Boost, quatro temperaturas e função XL.",
           "Este artigo traz nossas primeiras impressões reais de uso: unboxing, o painel touch, a primeira xícara e o que já incomodou. Ainda é cedo pra falar de durabilidade, então vamos atualizar esta mesma página conforme usarmos mais a máquina no dia a dia, em vez de publicar uma review nova do zero."
         ],
         "bullets": [],
@@ -36731,9 +36730,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Quantos ml sai em cada nível?",
+        "heading": "Quantos ml saem em cada nível?",
         "paragraphs": [
-          "O painel touch mostra ícones, sem ml: os mesmos riscos da cápsula e da caixinha. A única referência com os valores reais em ml que encontramos foi no manual impresso, que vai até o nível XL, acima do que costuma vir configurado como máximo \"normal\" no painel.",
+          "O painel mostra níveis, com os mesmos riscos da cápsula e da caixa, sem indicar ml. O manual impresso traz uma referência de volume por nível, incluindo o XL; ela não substitui a indicação de preparo da cápsula escolhida.",
           "Como esse é um dado que vale um artigo à parte (inclusive porque encontramos informação incorreta sobre isso em outros sites), a tabela completa de ml por nível está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
         "bullets": []
@@ -36808,11 +36807,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual a diferença entre a Genio S Touch e a Genio S Plus? A principal diferença é o painel: a Touch tem touchscreen, enquanto a Plus tem controle tradicional, sem touchscreen, com o nível de água escolhido por um toque no círculo de LED. Em recursos, as duas oferecem Espresso Boost, níveis de temperatura e Função XL.",
           "A Genio S Touch é compatível com cápsulas NEO? Não diretamente: ela usa o sistema ORIGINAL. Para cápsulas NEO de café preto selecionadas, é preciso comprar o Adaptador NEO Start (vendido à parte).",
-          "Quantos ml sai em cada nível do painel touch? O painel mostra ícones de tamanho (os mesmos impressos na cápsula), não o valor em ml. Os volumes reais só constam no manual impresso, e a tabela completa está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel).",
+          "Quantos ml saem em cada nível do painel touch? O painel mostra níveis, não o volume em ml. Veja a compilação aproximada no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel) e siga a indicação da cápsula para o preparo.",
           "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro, um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
           "Precisa de tomada especial? Sim, a unidade 127V testada possui plugue de 20A e deve ser ligada diretamente a uma tomada de 20A compatível, sem adaptadores improvisados.",
           "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso: melhora bastante o resultado na xícara.",
-          "O cupom CECI ainda é válido? Cupons promocionais podem mudar. Se o CECI não estiver ativo, confira a [página de cupons da Dolce Gusto](/cupons/dolce-gusto) ou o link da loja oficial neste artigo para ver a promoção vigente."
+          "O cupom CECI ainda é válido? O CECI é o código de parceria da Dolce Gusto: 10% OFF em compras a partir de R$ 100 na loja oficial. As condições vigentes estão na [página de cupons Dolce Gusto](/cupons/dolce-gusto); confira o desconto no resumo do pedido antes de pagar."
         ]
       }
     ],
@@ -38965,7 +38964,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Como funciona a Assinatura NESCAFÉ Dolce Gusto: Geração 1 e NEO, pedido mínimo, frequência, 25% de desconto, frete grátis, cartão recusado, como pular uma entrega e como cancelar.",
     "seoTitle": "Assinatura Dolce Gusto: Como Funciona e Como Cancelar",
-    "metaDescription": "Assinatura Dolce Gusto com o cupom CECI (hoje 10% OFF), que somou com os 25% no nosso teste: Geração 1 ou NEO, mínimo de 3 caixas e como cancelar.",
+    "metaDescription": "Assinatura Dolce Gusto com o cupom CECI (10% OFF a partir de R$ 100): 25% de desconto, frete grátis, mínimo de 3 caixas e como cancelar.",
     "publishedAt": "3 de agosto de 2026",
     "publishedAtISO": "2026-08-03",
     "updatedAt": "2026-11-06",
@@ -39092,7 +39091,7 @@ export const reviewsData: unknown[] = [
           "Produtos, endereço, cartão e frequência podem ser alterados até **2 dias antes** do próximo pedido.",
           "Uma mudança de frequência mantém a data do próximo pedido e passa a valer no pedido seguinte.",
           "Dá para **pular ou antecipar uma entrega por ano**, útil numa viagem ou quando as caixas acumularam.",
-          "Se um sabor acabar no estoque, você escolhe se quer receber o pedido incompleto.",
+          "Se faltar algum sabor no estoque da fábrica, você pode optar no painel por receber a remessa parcial (sendo cobrado apenas proporcionalmente pelos itens enviados) ou aguardar a reposição completa do lote.",
           "A transportadora faz 3 tentativas de entrega, e o rastreio chega por e-mail e pelo site da transportadora."
         ]
       },
@@ -39134,7 +39133,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Monte sua assinatura no site oficial e digite CECI no checkout para conferir o desconto extra.",
+      "text": "Monte sua assinatura, digite CECI no checkout e confira no resumo do pedido se o desconto foi aplicado.",
       "label": "Ver a Assinatura Dolce Gusto",
       "url": "https://www.nescafe-dolcegusto.com.br/assinatura",
       "sponsored": true
@@ -39195,7 +39194,8 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Página Oficial do Adaptador NEO Start",
-            "href": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start"
+            "href": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start",
+            "sponsored": true
           },
           {
             "label": "Manual do Adaptador NEO Start",
@@ -39213,7 +39213,7 @@ export const reviewsData: unknown[] = [
           "Cápsulas ORIGINAL: formato e porta-cápsula próprios da linha tradicional",
           "Cápsulas NEO: papel compostável e encaixe diferente",
           "Máquinas NEO: preparadas nativamente para cápsulas NEO",
-          "Máquinas ORIGINAL: precisam do adaptador para usar cápsulas NEO"
+          "Máquinas ORIGINAL compatíveis: usam o adaptador para preparar cafés pretos NEO selecionados, só com água quente"
         ],
         "links": [
           {
@@ -39223,63 +39223,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como funciona o Adaptador NEO Start",
-        "paragraphs": [
-          "O adaptador entra no lugar do porta-cápsulas da ORIGINAL e prepara os cafés pretos NEO selecionados, só com água quente. Os passos de uso estão abaixo; os cuidados de segurança do manual vêm na seção seguinte.",
-          "Como preparar a bebida por tipo de máquina: nas máquinas Flow Stop, selecione o volume em tracinhos normalmente. Nas máquinas manuais, mova a alavanca para a posição de água quente e retorne-a manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
-          "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force: auxilie o fechamento aplicando leve pressão com a palma da mão.",
-          "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
-        ],
-        "bullets": [
-          "Utilizar EXCLUSIVAMENTE a função de água quente da máquina.",
-          "Máquinas Flow Stop: Selecionar o volume em tracinhos normalmente.",
-          "Máquinas manuais: Mover a alavanca para água quente e retornar ao centro ao atingir o volume desejado.",
-          "Encaixe magnético: O acessório é atraído para a posição final; trave a tampa do adaptador antes de inserir e auxilie o fechamento com a palma da mão se necessário.",
-          "Retirar o adaptador segurando sempre pela pega dedicada, pois o corpo do acessório atinge altas temperaturas.",
-          "Depois de esfriar, tire a cápsula usada pelo anel ejetor e lave o adaptador: o manual diz que ele pode ir à lava-louças. Não deixe cápsula usada dentro dele."
-        ],
-        "links": [
-          {
-            "label": "Manual Oficial e Recomendações do Adaptador NEO Start",
-            "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
-          }
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp",
-            "alt": "Passo a passo oficial de uso do Adaptador NEO Start em uma máquina Dolce Gusto",
-            "objectFit": "contain"
-          },
-          {
-            "src": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
-            "alt": "Adaptador NEO Start aberto com uma cápsula NEO posicionada para o encaixe",
-            "objectFit": "contain"
-          }
-        ]
-      },
-      {
-        "heading": "Cuidados de segurança do manual",
-        "paragraphs": [
-          "O manual do adaptador traz estes cuidados, que se somam às instruções de segurança da própria máquina:"
-        ],
-        "bullets": [
-          "O adaptador tem ímãs permanentes: não o deixe perto de marcapasso ou desfibrilador.",
-          "Mantenha os ímãs longe do que eles podem danificar, como cartões de crédito, aparelhos auditivos, relógios mecânicos, alto-falantes e TVs e monitores de tubo.",
-          "Não ponha os dedos dentro do adaptador: ele tem agulhas afiadas que perfuram a cápsula e podem machucar.",
-          "Não é brinquedo: guarde fora do alcance de crianças. Quem nunca usou deve ler o manual antes ou usar com a supervisão de alguém que conheça o produto.",
-          "Não force o encaixe numa máquina que não está na lista de compatíveis."
-        ],
-        "links": [
-          {
-            "label": "Manual oficial do Adaptador NEO Start (PDF)",
-            "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
-          }
-        ]
-      },
-      {
         "heading": "Máquinas compatíveis com o Adaptador NEO Start",
         "paragraphs": [
-          "Nem todas as máquinas Dolce Gusto ORIGINAL são compatíveis com o adaptador: a marca lista especificamente quais modelos funcionam. Se você tem uma dessas máquinas, pode usar o adaptador sem problemas:"
+          "A marca lista oito modelos ORIGINAL compatíveis com o adaptador. Confira se o seu está abaixo e siga também a seleção de cápsulas e os cuidados do manual:"
         ],
         "bullets": [
           "Genio S",
@@ -39310,12 +39256,67 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Consulta de Cápsulas NEO Compatíveis (Loja Oficial Dolce Gusto)",
-            "href": "https://www.nescafe-dolcegusto.com.br/categoriaprodutos/capsulas/neo"
+            "href": "https://www.nescafe-dolcegusto.com.br/categoriaprodutos/capsulas/neo",
+            "sponsored": true
           }
         ],
         "image": "/images/reviews/dolcegusto/adaptador-neo-start-produto.webp",
         "imageAlt": "Adaptador NEO Start aberto com cápsula NEO de café preto",
         "imageFit": "contain"
+      },
+      {
+        "heading": "Cuidados de segurança do manual",
+        "paragraphs": [
+          "O manual do adaptador traz estes cuidados, que se somam às instruções de segurança da própria máquina:"
+        ],
+        "bullets": [
+          "O adaptador tem ímãs permanentes: não o deixe perto de marcapasso ou desfibrilador.",
+          "Mantenha os ímãs longe do que eles podem danificar, como cartões de crédito, aparelhos auditivos, relógios mecânicos, alto-falantes e TVs e monitores de tubo.",
+          "Não ponha os dedos dentro do adaptador: ele tem agulhas afiadas que perfuram a cápsula e podem machucar.",
+          "Não é brinquedo: guarde fora do alcance de crianças. Quem nunca usou deve ler o manual antes ou usar com a supervisão de alguém que conheça o produto.",
+          "Não force o encaixe numa máquina que não está na lista de compatíveis."
+        ],
+        "links": [
+          {
+            "label": "Manual oficial do Adaptador NEO Start (PDF)",
+            "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
+          }
+        ]
+      },
+      {
+        "heading": "Como funciona o Adaptador NEO Start",
+        "paragraphs": [
+          "O adaptador entra no lugar do porta-cápsulas da ORIGINAL e prepara os cafés pretos NEO selecionados, só com água quente. Depois de conferir os modelos, as cápsulas e os cuidados de segurança acima, siga as instruções de uso abaixo.",
+          "Como preparar a bebida por tipo de máquina: nas máquinas Flow Stop, selecione o volume em tracinhos normalmente. Nas máquinas manuais, mova a alavanca para a posição de água quente e retorne-a manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
+          "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force: auxilie o fechamento aplicando leve pressão com a palma da mão.",
+          "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
+        ],
+        "bullets": [
+          "Utilizar EXCLUSIVAMENTE a função de água quente da máquina.",
+          "Máquinas Flow Stop: Selecionar o volume em tracinhos normalmente.",
+          "Máquinas manuais: Mover a alavanca para água quente e retornar ao centro ao atingir o volume desejado.",
+          "Encaixe magnético: O acessório é atraído para a posição final; trave a tampa do adaptador antes de inserir e auxilie o fechamento com a palma da mão se necessário.",
+          "Retirar o adaptador segurando sempre pela pega dedicada, pois o corpo do acessório atinge altas temperaturas.",
+          "Depois de esfriar, tire a cápsula usada pelo anel ejetor e lave o adaptador: o manual diz que ele pode ir à lava-louças. Não deixe cápsula usada dentro dele."
+        ],
+        "links": [
+          {
+            "label": "Manual Oficial e Recomendações do Adaptador NEO Start",
+            "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp",
+            "alt": "Passo a passo oficial de uso do Adaptador NEO Start em uma máquina Dolce Gusto",
+            "objectFit": "contain"
+          },
+          {
+            "src": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
+            "alt": "Adaptador NEO Start aberto com uma cápsula NEO posicionada para o encaixe",
+            "objectFit": "contain"
+          }
+        ]
       },
       {
         "heading": "Quanto custa e onde comprar",
@@ -39368,9 +39369,10 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Conheça o Adaptador NEO Start na loja oficial e confira as condições do cupom CECI",
+      "text": "Adquira o Adaptador NEO Start na loja oficial Nestlé Dolce Gusto e utilize o cupom CECI para 10% OFF a partir de R$ 100.",
       "label": "Comprar Adaptador NEO Start",
-      "url": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start"
+      "url": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start",
+      "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
@@ -39715,9 +39717,9 @@ export const reviewsData: unknown[] = [
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
     "draft": false,
-    "description": "Entenda o histórico de reclamações da Sofá na Caixa, o que o Procon-SP e a imprensa registraram e como a empresa aparece hoje no Reclame Aqui.",
+    "description": "Histórico de reclamações da Sofá na Caixa: o que a imprensa registrou sobre o Procon-SP, o painel de maio a outubro de 2026 no Reclame Aqui e os canais para reclamar.",
     "seoTitle": "O que aconteceu com a Sofá na Caixa?",
-    "metaDescription": "Sofá na Caixa: histórico de reclamações, checagem na lista \"Evite Estes Sites\" do Procon-SP e reputação Regular (nota 6,4) no Reclame Aqui.",
+    "metaDescription": "Sofá na Caixa: histórico de reclamações, lista do Procon-SP atualizada em 12/05/2026 e nota 6,4 no Reclame Aqui, no recorte de maio a outubro de 2026.",
     "publishedAt": "10 de agosto de 2026",
     "publishedAtISO": "2026-08-10",
     "updatedAt": "2026-11-06",
@@ -39739,7 +39741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resumo rápido",
         "paragraphs": [
-          "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso, produto não recebido e estorno não feito. A imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, aparece como Regular, nota 6,4. Ela não consta na lista de sites a evitar, o que não encerra a investigação nem garante a compra."
+          "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso e estorno pendente; a imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, de maio a outubro de 2026, aparece como Regular, nota 6,4. Ela não consta na lista de sites a evitar do Procon-SP, o que não encerra a investigação nem garante a compra."
         ]
       },
       {
@@ -39812,8 +39814,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Consulta à lista 'Evite Estes Sites' do Procon-SP",
         "paragraphs": [
-          "Em 2025, segundo a Exame, o Procon-SP abriu investigação sobre a Sofá na Caixa devido a notificações de atrasos e falta de entrega.",
-          "Na versão da lista \"Evite Estes Sites\" atualizada em 12/05/2026, o domínio sofanacaixa.com.br e a empresa não aparecem. Isso não encerra a investigação nem garante uma compra sem problemas: a lista é outra consulta, separada das reclamações e da fiscalização."
+          "Em 2025, segundo apuração da revista Exame, o Procon-SP abriu procedimento de investigação contra a Sofá na Caixa motivado pelo aumento de notificações por atrasos e pedidos não entregues.",
+          "Na versão pública da lista \"Evite Estes Sites\" (atualizada em 12/05/2026), o domínio sofanacaixa.com.br e a empresa não constam. Isso não encerra as investigações nem garante uma compra sem problemas: a lista é outra consulta, separada das reclamações e da fiscalização."
         ],
         "bullets": [
           "Confira você mesmo a lista Evite Estes Sites e o painel Empresas Reclamadas antes de pagar, porque a situação muda."
@@ -39828,28 +39830,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se você comprou da Sofá na Caixa e está com problema",
         "paragraphs": [
-          "Comprou e está com atraso ou sem estorno? Os órgãos de defesa recomendam guardar comprovantes, notas fiscais e conversas.",
+          "Comprou e está com atraso ou sem estorno? Guarde comprovantes, notas fiscais e conversas, e registre a reclamação por escrito antes de qualquer ação.",
           "O Código de Defesa do Consumidor (CDC) permite exigir a entrega forçada, produto equivalente ou a rescisão com restituição dos valores.",
-          "Se decidir ir ao Juizado Especial Cível da sua cidade, leve os comprovantes e peça orientação sobre os documentos.",
-          "Se o valor for alto, fale com um advogado antes de ir ao Juizado."
+          "Se a mediação não resolver, o Juizado Especial Cível da sua cidade é o próximo passo; leve os comprovantes."
         ],
         "bullets": [
           "Registre todos os contatos com a empresa por escrito, guardando protocolos e comprovantes",
-          "O Código de Defesa do Consumidor permite exigir o cumprimento da oferta, reembolso integral ou rescisão do contrato",
           "Registre queixa formal no Procon do seu estado e no Consumidor.gov.br",
-          "No Juizado Especial Cível (JEC), ações de até 20 salários mínimos podem ser ajuizadas sem necessidade de advogado; para valores entre 20 e 40 salários mínimos, a legislação exige a representação por advogado."
+          "No Juizado Especial Cível (JEC), ações de até 20 salários mínimos podem ser ajuizadas sem advogado."
         ]
       },
       {
         "heading": "Procon-SP: comparação de registros no painel \"Empresas Reclamadas\"",
         "paragraphs": [
-          "Transparência comercial: o Em Casa com Cecília mantém parceria de afiliado com a Damie e pode receber comissão em compras, sem custo extra para você. A comparação abaixo é só um retrato de volume, não uma prova de qualidade.",
+          "Transparência comercial: o Em Casa com Cecília mantém parceria de afiliado com a marca Damie e pode receber comissão em compras originadas pelo site, sem custo extra para o leitor. A comparação abaixo é só um retrato de volume, não uma prova de qualidade.",
           "No painel \"Empresas Reclamadas\" do Procon-SP, na consulta anterior feita para este artigo, a Sofá na Caixa somava 1.125 queixas e a Damie, 6. O período e o filtro dessa consulta não foram registrados, e volume absoluto não é taxa de falhas por pedido: uma empresa que vende muito mais tende a receber mais queixas.",
           "A pesquisa \"Empresas Reclamadas\" quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista \"Evite Estes Sites\", que é uma consulta administrativa separada."
         ],
         "bullets": [
-          "Painel do Procon-SP (consulta anterior) — Sofá na Caixa: 1.125 reclamações registradas",
-          "Painel do Procon-SP (consulta anterior) — Damie: 6 reclamações registradas no mesmo painel de busca"
+          "Sofá na Caixa: 1.125 queixas registradas no painel do Procon-SP",
+          "Damie: 6 queixas registradas no mesmo painel do órgão paulista"
         ],
         "images": [
           {
@@ -39880,8 +39880,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas e enfrentou um pico de atrasos de entrega e reclamações em 2025, que o fundador, segundo a BBC News Brasil, atribuiu a desafios logísticos e custos de insumos. No Reclame Aqui, a marca responde quase todas as queixas, mas resolve cerca de 6 em cada 10; os números estão no capítulo sobre o Reclame Aqui.",
-          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na última versão publicada da lista, o domínio oficial não aparece. Isso não encerra a investigação nem garante a compra.",
-          "Qual é a nota da Sofá na Caixa no Reclame Aqui? A empresa tem selo Regular e nota 6,4 no recorte mais recente de seis meses. A marca responde quase tudo, mas resolve cerca de 6 em cada 10; os demais números estão no capítulo sobre o Reclame Aqui.",
+          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na última versão publicada da lista, o domínio oficial não aparece. A ausência nessa lista não informa o resultado de uma investigação nem garante a compra.",
+          "Qual é a nota da Sofá na Caixa no Reclame Aqui? No recorte mais recente de seis meses, a marca tem selo Regular e nota 6,4. Ela responde quase todas as queixas (99,8%), mas resolve cerca de 6 em cada 10; os demais números estão no capítulo sobre o Reclame Aqui.",
           "O que fazer se comprei e não recebi o produto? Guarde todos os comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o direito ao reembolso ou cumprimento da oferta. É possível registrar queixa no Procon-SP ou Consumidor.gov.br e recorrer ao Juizado Especial Cível (sem advogado até 20 salários mínimos; com advogado entre 20 e 40 salários mínimos)."
         ]
       },
@@ -41198,14 +41198,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena? Para quem serve",
         "paragraphs": [
-          "Vale para a pausa com compressa em casa ou no trabalho; não para quem espera blackout total. Ela não substitui diagnóstico, tratamento ou medicamentos prescritos.",
-          "Pode fazer sentido para quem procura uma compressa reutilizável que cubra olhos e têmporas. Para dores frequentes ou incapacitantes, procure orientação profissional antes de depender de qualquer medida caseira."
+          "Pode fazer sentido para quem procura uma compressa reutilizável, fria ou quente, que cubra olhos e têmporas durante uma pausa em casa ou no trabalho. Não é a escolha para quem espera bloqueio total de luz: isso depende do ajuste no rosto.",
+          "Para dores frequentes ou incapacitantes, procure orientação profissional. A máscara não substitui diagnóstico, tratamento ou medicamentos prescritos."
         ],
         "bullets": [
-          "Serve a quem procura uma máscara térmica reutilizável, sem tiras, para fria ou quente.",
-          "Não serve a quem espera bloqueio total de luz: o resultado muda com o ajuste no rosto.",
-          "Verifique a disponibilidade, o preço e a política de troca antes de comprar.",
-          "Não deve ser usada como substituta de medicamentos ou acompanhamento de saúde."
+          "Confira se o formato de touca, sem tiras, atende ao seu uso.",
+          "Verifique a disponibilidade, o preço e a política de troca antes de comprar."
         ],
         "links": [
           {
@@ -41220,12 +41218,13 @@ export const reviewsData: unknown[] = [
           "Respostas práticas sobre a máscara térmica Aliv Head Gel IWS:"
         ],
         "bullets": [
-          "Quanto tempo a máscara Aliv Head Gel fica gelada? A sensação térmica varia conforme o ambiente e o uso. A marca indica preparar a máscara no congelador por 1 a 1h30 ou, no máximo, 2 horas na geladeira antes do uso frio.",
+          "Quanto tempo a máscara Aliv Head Gel fica gelada? A sensação térmica varia conforme o ambiente e o uso; o tempo de preparação não indica por quanto tempo ela ficará gelada. Para preparar o uso frio, a marca indica de 1 a 1h30 no congelador ou, no máximo, 2 horas na geladeira.",
           "O gel da máscara fica duro no freezer? A marca informa que o gel permanece flexível quando resfriado. Confira o estado do produto e use apenas se estiver confortável ao toque.",
           "Como aquecer a Aliv Head Gel no micro-ondas? A marca orienta aquecer por 15 a 30 segundos e testar a temperatura antes de encostar na pele. Não superaqueça.",
           "Como lavar a máscara Aliv Head Gel? Limpe a superfície externa com pano levemente umedecido. Não mergulhe o produto em água.",
           "Posso usar a Aliv Head Gel em pele machucada? A marca orienta evitar a aplicação direta em áreas machucadas da pele e testar a temperatura antes de cada uso.",
           "Quando a dor de cabeça pede atendimento de urgência? Quando vem de repente e muito forte, ou junto com fraqueza ou dormência num lado do corpo, fala enrolada, confusão, alteração na visão, febre com rigidez na nuca ou depois de uma pancada na cabeça. Nesses casos, procure um pronto-socorro ou ligue para o SAMU, no 192.",
+          "A máscara Aliv Head Gel cura enxaqueca? Não. Ela é uma compressa para conforto durante o repouso e não trata a enxaqueca nem substitui acompanhamento médico.",
           "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout. As regras estão na página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       }
@@ -41233,7 +41232,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Conheça a Aliv Head Gel IWS e confira preço, disponibilidade e condições do cupom na loja oficial.",
       "label": "Ver Aliv Head Gel IWS",
-      "url": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws"
+      "url": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws",
+      "sponsored": true
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
@@ -41264,15 +41264,15 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "No Reclame Aqui, de abril a setembro, a loja online da I Wanna Sleep teve RA1000, nota 8,5 e 90,6% das reclamações resolvidas. Veja as queixas mais comuns antes de comprar.",
-    "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF nos elegíveis: RA1000, nota 8,5 e 90,6% resolvidas de abril a setembro.",
+    "description": "No Reclame Aqui, de abril a setembro, a loja online da I Wanna Sleep teve reputação RA1000 e nota 8,5. Veja as queixas mais comuns, como o atraso na entrega, antes de comprar.",
+    "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF em todo o site: RA1000 e nota 8,5 entre abril e setembro.",
     "publishedAt": "24 de outubro de 2026",
     "publishedAtISO": "2026-10-24",
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-capa-discover.webp",
-    "imageAlt": "Cobertores Huggy e Cozy da I Wanna Sleep em uso e o topo do perfil IWS - I wanna sleep (Loja Online) no Reclame Aqui em 24/10/2026, com reputação RA 1000",
+    "imageAlt": "Cobertores Huggy e Cozy da I Wanna Sleep em uso e o topo do perfil IWS - I wanna sleep (Loja Online) no Reclame Aqui em 24/10/2026, com reputação RA1000",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -41281,7 +41281,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, a mais alta do site, com nota 8,5 na janela de abril a setembro. Respondeu 100% das 189 reclamações e resolveu 90,6%; a queixa mais comum é atraso na entrega. Dá para confiar; para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro, então dá para comprar no site oficial. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil no dia da compra. Para desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -41295,8 +41295,8 @@ export const reviewsData: unknown[] = [
         "heading": "Os dados atuais no Reclame Aqui",
         "paragraphs": [
           "Os números abaixo são do perfil da loja online (iwannasleep.com.br), o canal do site oficial, consultado em 24 de outubro de 2026, com dados de abril a setembro.",
-          "A reputação é RA1000, a mais alta do Reclame Aqui, com nota 8,5/10 nos últimos seis meses. No período, a loja recebeu 189 reclamações, respondeu 100% delas, resolveu 90,6% e não tinha nenhuma aguardando resposta. Das 139 reclamações avaliadas por quem reclamou, a nota média foi 7,5, e 74,8% disseram que voltariam a fazer negócio. O tempo médio de resposta é de 1 dia e 1 hora.",
-          "A loja aparece em 5º lugar no ranking de melhores empresas da categoria Cama, mesa e banho do Reclame Aqui. A nota é calculada em janela móvel e muda com o tempo: confira o perfil no dia da sua compra."
+          "Na janela de abril a setembro de 2026, o perfil tinha RA1000 e nota 8,5/10. Recebeu 189 reclamações, todas respondidas, e nenhuma aguardava resposta. Das 139 avaliadas por quem reclamou, a nota média foi 7,5, e 74,8% disseram que voltariam a fazer negócio. O tempo médio de resposta foi de 1 dia e 1 hora.",
+          "A loja aparece em 5º lugar no ranking da categoria Cama, mesa e banho do Reclame Aqui. O perfil reúne quem reclamou na plataforma, não todos os compradores. A nota é calculada em janela móvel e muda com o tempo, então confira o perfil no dia da compra."
         ],
         "bullets": [],
         "links": [
@@ -41306,14 +41306,14 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-perfil-2026-10.webp",
-        "imageAlt": "Painel de desempenho da IWS - I wanna sleep (Loja Online) no Reclame Aqui: reputação RA1000, nota 8,5 em seis meses, 189 reclamações recebidas, 100% respondidas e 90,6% resolvidas",
+        "imageAlt": "Painel de desempenho da IWS - I wanna sleep (Loja Online) no Reclame Aqui: reputação RA1000, nota 8,5 em seis meses, 189 reclamações recebidas, 100% respondidas e índice de solução de 90,6%",
         "imageCaption": "O painel da loja online no Reclame Aqui (dados de abril a setembro).",
         "imageFit": "contain"
       },
       {
         "heading": "Como a reputação chegou ao RA1000",
         "paragraphs": [
-          "O RA1000 é o selo que o Reclame Aqui dá às empresas com os melhores índices de atendimento no período: reclamações respondidas, índice de solução, nota dos consumidores e quantos voltariam a fazer negócio. No histórico dos últimos seis meses, a loja online da I Wanna Sleep teve reputação Boa de abril a julho, Ótima em agosto e chegou ao RA1000 em setembro."
+          "RA1000 é o nível mais alto de reputação no Reclame Aqui e considera indicadores de resposta, solução e avaliação dos consumidores. No histórico de seis meses, a loja online aparecia como Boa de abril a julho, Ótima em agosto e RA1000 em setembro."
         ],
         "bullets": []
       },
@@ -41337,14 +41337,14 @@ export const reviewsData: unknown[] = [
           "Compre pelo site oficial (iwannasleep.com.br), que é o canal avaliado neste artigo e onde o cupom vale.",
           "Leia a página do produto com atenção — materiais, medidas e tecnologias — para o que chegar não frustrar a expectativa.",
           "Guarde comprovante de pagamento e número do pedido para rastreamento e eventual contato com o suporte.",
-          "Se o produto chegar com problema, acione o suporte logo: o arrependimento vale por 7 dias na compra pela internet, e o prazo legal para reclamar de defeito aparente é de 30 dias em produto não durável e de 90 dias em durável, como um móvel; a garantia da marca é outra proteção, à parte. Não descarte a embalagem original antes da resolução.",
+          "Se o produto chegar com problema, acione o suporte logo e guarde a embalagem original até a resolução; na compra pela internet, o arrependimento vale por 7 dias após o recebimento.",
           "Consulte o perfil atualizado no Reclame Aqui no dia da sua compra — a nota muda com o tempo."
         ]
       },
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Com o cupom CECIEMCASA, 10% nos elegíveis do site oficial, sem custo a mais para você."
+          "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Com o cupom CECIEMCASA, 10% em todo o site oficial, sem custo a mais para você."
         ],
         "bullets": [],
         "links": [
@@ -41357,11 +41357,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a nota da I Wanna Sleep no Reclame Aqui? A loja online tem reputação RA1000 e nota 8,5/10 nos últimos seis meses (abril a setembro), com 90,6% das reclamações resolvidas e 74,8% dos consumidores dizendo que voltariam a fazer negócio.",
+          "Qual a nota da I Wanna Sleep no Reclame Aqui? A loja online tem reputação RA1000 e nota 8,5/10 nos últimos seis meses, entre abril e setembro, e 74,8% dos que avaliaram voltariam a fazer negócio.",
           "O que é o selo RA1000? É a reputação mais alta do Reclame Aqui, dada às empresas com os melhores índices de resposta, solução e avaliação dos consumidores no período. A loja online da I Wanna Sleep chegou a ele em setembro.",
           "O que mais aparece nas reclamações da I Wanna Sleep? Atraso na entrega é o problema mais citado no painel do Reclame Aqui (25,19% das reclamações dos últimos três anos), e travesseiros são o produto mais citado.",
-          "A I Wanna Sleep resolve as reclamações? Sim: segundo o Reclame Aqui, a loja online respondeu 100% das reclamações de abril a setembro e resolveu 90,6%, com tempo médio de resposta de 1 dia e 1 hora.",
-          "O cupom CECIEMCASA muda o preço final do produto? Muda, nos produtos elegíveis do site oficial: o código dá 10% de desconto, concedido pela marca por meio da parceria com o Em Casa com Cecília. O código e os links podem gerar comissão, sem custo extra para você."
+          "A I Wanna Sleep resolve as reclamações? Ela respondeu 100% das reclamações de abril a setembro, com tempo médio de resposta de 1 dia e 1 hora. Responder não garante solução: o índice de solução considera só as reclamações finalizadas e avaliadas.",
+          "O cupom CECIEMCASA muda o preço final do produto? Muda, em todo o site oficial: o código dá 10% de desconto, concedido pela marca por meio da parceria com o Em Casa com Cecília. O código e os links podem gerar comissão, sem custo extra para você."
         ]
       }
     ],
@@ -41413,7 +41413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Ingredientes, cuidados e preços estão abaixo."
+          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Na loja oficial, o cupom CECIEMCASA dá 10% OFF na unidade e nos kits."
         ]
       },
       {
@@ -41475,8 +41475,8 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Política oficial do Sleeptest",
-            "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
+            "label": "Ver regras e validade do cupom CECIEMCASA para I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
           }
         ]
       },
@@ -41484,6 +41484,12 @@ export const reviewsData: unknown[] = [
         "heading": "Garantia Sleeptest",
         "paragraphs": [
           "O produto é coberto pelo programa **Sleeptest** da I Wanna Sleep: são 30 dias, contados do recebimento, para testar. A marca exige uso mínimo de 15 dias antes de aceitar o pedido de troca, e o que você recebe é crédito de troca por outro item do catálogo, não reembolso. Confira as condições completas na política oficial."
+        ],
+        "links": [
+          {
+            "label": "Política oficial do Sleeptest",
+            "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
+          }
         ]
       },
       {
@@ -41520,7 +41526,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "Conheça a Melatonina Líquida IWS no site oficial e teste o cupom CECIEMCASA",
-      "label": "Ver na loja oficial",
+      "label": "Ver Melatonina Líquida IWS",
       "url": "https://www.iwannasleep.com.br/products/melatonina-liquida-iws-30ml-maracuja",
       "sponsored": true
     },
@@ -41617,7 +41623,7 @@ export const reviewsData: unknown[] = [
       "stars": 4.5
     },
     "verdict": {
-      "title": "Veredito da Cecília",
+      "title": "Veredito do Bruno",
       "summary": "A Dolce Gusto Mini Me 2.0 na cor Terracota se destaca pelo design moderno e pelos controles superiores que substituem a alavanca da Mini Me clássica. O modo Eco desliga a máquina em 1 minuto. Na unidade 127V testada, atente-se ao plugue de 20A, ao aquecimento inicial de 20-30s e ao pingamento prolongado após o preparo."
     },
     "pros": [
@@ -41635,7 +41641,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, o que pesa é o plugue de 20A e o pingamento depois do preparo. Ela é compatível com cápsulas Original; as NEO exigem o Adaptador NEO Start."
+          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, pesam o plugue de 20A e o pingamento após o preparo. Ela usa cápsulas ORIGINAL; cafés pretos NEO selecionados pedem o Adaptador NEO Start, só com água quente."
         ]
       },
       {
@@ -41648,7 +41654,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Experiência de uso no teste do Bruno",
         "paragraphs": [
-          "Para quem quer ir além do café sem complicar o preparo, a 2.0 é a entrada atualizada. O design pareceu mais compacto e bonito, e os controles foram intuitivos no dia a dia. Ela prepara uma grande variedade de bebidas quentes e frias de forma rápida e descomplicada; é uma boa escolha para quem quer ir além do café e ter bebidas em cápsula sem abrir mão da praticidade no preparo.",
+          "No teste do Bruno, o design da 2.0 pareceu compacto, e os controles foram intuitivos no uso diário. O painel permite escolher a temperatura e iniciar o preparo sem a alavanca da Mini Me clássica.",
           "Na rotina de trabalho, as bebidas que o Bruno mais prepara na Mini Me 2.0 são o **Lungo** (nível 4 de dosagem, ~120 ml) e o **Café Matinal** (níveis 6 a 7, ~180 a 200 ml). São opções que rendem uma xícara maior para acompanhar períodos mais longos de foco, sem a necessidade de interromper o trabalho para preparar outra bebida tão cedo.",
           "O funcionamento é simples: você seleciona a temperatura desejada, ajusta o número de barras na escala conforme a indicação da cápsula (ou pela [tabela aproximada de ml por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)) e inicia o preparo. A máquina realiza a extração automática com pressão de 15 bar e interrompe o fluxo ao atingir o volume selecionado."
         ],
@@ -42131,7 +42137,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar o Nutren Just Protein na cozinha e no dia a dia",
         "paragraphs": [
-          "O modo de preparo indicado pela fabricante é adicionar 2 colheres de sopa cheias (15g) em 120ml de água e misturar imediatamente até homogeneizar, consumindo a porção logo após o preparo. O rótulo orienta adultos a consumir uma porção ao dia e, depois de aberta, a usar o conteúdo da lata em até 30 dias, mantendo-a bem fechada em local fresco e seco.",
+          "Para o preparo indicado pela fabricante, adicione 2 colheres de sopa cheias (15 g) em 120 ml de água e misture imediatamente até homogeneizar. Consuma a porção logo após o preparo. O rótulo orienta adultos a consumir uma porção ao dia.",
+          "Depois de abrir a lata, use o conteúdo em até 30 dias. Mantenha a embalagem bem fechada em local fresco e seco.",
           "As combinações abaixo são sugestões editoriais para variar o consumo, não substituem o preparo oficial nem orientação profissional. Ao testar o pó em receitas, adicione aos poucos e observe a consistência, porque sabor, textura e dissolução dependem dos ingredientes e da temperatura.",
           "O rótulo diz que gestantes, lactantes e crianças não devem consumir. Quem tem alergia, intolerância, doença crônica ou necessidade específica de proteína deve falar com um profissional de saúde antes."
         ],
@@ -42360,7 +42367,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A recomendação muda com a prioridade de uso e o orçamento da casa:"
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Plus, porque ela reúne o Boost, as quatro temperaturas e a bandeja de metal sem cobrar o painel touch.",
+        "emphasis": "Se fosse escolher hoje para a minha casa, eu compararia o preço da Plus com o da Touch. A Plus reúne o Boost, as quatro temperaturas e a bandeja de metal; eu a escolheria se a diferença de preço compensasse abrir mão do painel touch.",
         "emphasisAfterParagraph": 1,
         "bullets": [
           "Melhor equilíbrio de recursos (Genio S Plus): reúne Espresso Boost, quatro temperaturas e bandeja de metal sem exigir o painel touch. Compensa mais que a Touch quando a diferença de preço do momento for relevante; compare os dois antes da compra;",
@@ -43805,7 +43812,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá modular ou retrátil: resposta rápida",
         "paragraphs": [
-          "O retrátil, de assento deslizante, libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo, sem trilhos, chega em partes e tende a facilitar a entrada e a mudança de layout. Há modelos que juntam as duas características. Meça a sala e o caminho da entrega antes de decidir."
+          "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir."
         ]
       },
       {
@@ -43869,8 +43876,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Limpeza e manutenção: onde o modular leva vantagem",
         "paragraphs": [
-          "Na limpeza de rotina, o modular tende a ser mais simples: é possível afastar um módulo por vez para aspirar o piso, alcançar as frestas e limpar a área entre as peças. Isso ajuda especialmente em casas com pets, crianças ou acúmulo frequente de poeira. O tecido e o peso de cada módulo ainda importam, mas a composição separável facilita o acesso.",
-          "No retrátil, trilhos, articulações e vãos sob o assento criam pontos menos acessíveis. Como há componentes móveis, eles também podem precisar de ajuste, lubrificação ou reparo ao longo do tempo. Isso não significa que todo retrátil apresentará defeito: qualidade da estrutura, frequência de uso, carga e manutenção influenciam a durabilidade. A diferença é que o modular fixo não depende do mecanismo retrátil para funcionar."
+          "Na rotina de limpeza, o sofá modular fixo oferece uma facilidade evidente: por ser formado por blocos independentes, você pode afastar um assento por vez para aspirar o piso e higienizar as frestas entre os tecidos. Em lares com crianças ou animais de estimação, essa mobilidade simplifica a higienização frequente.",
+          "No retrátil, trilhos, articulações e vãos sob o assento criam pontos menos acessíveis. Além disso, por ter peças móveis, o mecanismo pode precisar de ajuste, lubrificação ou reparo ao longo do tempo. Isso não significa que todo retrátil apresente defeito: qualidade da estrutura, frequência de uso, carga e manutenção influenciam a durabilidade."
         ]
       },
       {
@@ -43906,16 +43913,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Caso real: como puffs, baú e acessórios mudam o modular",
         "paragraphs": [
-          "Na prática, a flexibilidade do modular não vem apenas de separar os assentos. Puffs, baús e acessórios mudam a função da composição sem exigir a troca do sofá inteiro.",
-          "Opcionais — baú de apoio central: diferente de um módulo fixo, o baú se reposiciona na composição a cada ocasião."
+          "Na prática, a grande flexibilidade de um sofá modular não decorre apenas de transportar assentos separados na hora da entrega. A possibilidade de incorporar puffs, baús e módulos funcionais transforma a dinâmica da sala conforme a necessidade de cada momento.",
+          "Um exemplo prático é o baú de apoio central: por ser uma peça independente, ele pode ser reposicionado a cada ocasião dentro da composição."
         ],
         "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
         "imageAlt": "Cecília demonstra o baú de apoio central azul ao lado do sofá modular Damie",
         "imageCaption": "O baú de apoio central é uma peça independente e pode ser reposicionado dentro da composição do sofá modular.",
         "imageFit": "portrait",
         "postParagraphs": [
-          "Puffs: um puff para cada assento cria apoio para as pernas e uma superfície ampla de descanso. Em sala espaçosa ou integrada, os puffs também podem ficar atrás dos módulos e ajudar a formar uma composição em ilha.",
-          "Acessórios opcionais integrados aos braços: carregador USB, luminária, porta-taça, mesa de apoio lateral, suporte para smartphone/tablet com carregamento por indução e um case 3 em 1, tudo acoplado ao braço do módulo; não são acessórios avulsos que ocupam espaço à parte. Esse conjunto integrado faz parte da linha modular da Damie."
+          "Puffs avulsos: adicionar um puff em frente a cada módulo cria a mesma superfície contínua de descanso para as pernas de um retrátil, com a vantagem de poder reposicionar essa peça contra a parede ou atrás dos encostos para formar uma composição de ilha em salas integradas.",
+          "Acessórios acoplados aos braços: carregador USB, luminária, porta-taça, mesa de apoio e suporte com carregamento por indução podem ficar integrados à estrutura lateral. Na linha modular da Damie, esses itens são acoplados aos braços dos módulos e não ocupam espaço à parte."
         ]
       },
       {
@@ -43973,7 +43980,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Este comparativo baseia-se em padrões ergonômicos de interiores, especificações de fabricantes e análise pública de mercado. O Em Casa com Cecília recebeu da DAMIE, em parceria, os produtos citados, inclusive o sofá modular, e divulga o cupom CECILIA12. O link da loja pode gerar comissão, sem custo extra.",
+    "editorialNote": "Comparamos as características dos modelos descritos e a nossa experiência com o sofá modular DAMIE, recebido em parceria. O cupom CECILIA12 e os links da loja podem gerar comissão, sem custo extra para você.",
     "relatedArticles": [
       {
         "slug": "sofa-damie-modular-vale-a-pena"
@@ -44312,10 +44319,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é creatina e para que serve?",
         "paragraphs": [
-          "Se você começou a pesquisar creatina, é fácil ter a impressão de que todos os potes entregam exatamente a mesma coisa. O pó costuma ser branco, o sabor é discreto e quase todas as marcas falam em desempenho. A diferença começa a aparecer quando olhamos a composição, a porção, o rendimento e o preço por grama.",
           "A creatina é um composto que o próprio organismo produz a partir de aminoácidos e que também está presente em alimentos. A maior parte fica armazenada nos músculos, onde participa do sistema de energia rápida usado principalmente em esforços curtos e intensos. A forma monohidratada é a apresentação mais comum nos suplementos comparados neste guia.",
-          "Para comparar, olhe o rótulo: ingrediente único, porção e rendimento. Dúvida de uso e saúde vai para médico ou nutricionista.",
-          "É nesse contexto que a Nutren entra: não como uma creatina “mais forte” por carregar a marca Nestlé, mas como uma nova apresentação de creatina monohidratada que precisa ser comparada com Growth, FTW e Lavitan pelos dados que realmente mudam a compra."
+          "Para comparar, olhe o rótulo: ingrediente único, porção e rendimento. Dúvida de uso e saúde vai para médico ou nutricionista."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nutren-creatina-300g-composicao.webp",
@@ -44336,7 +44341,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Creatina é boa?",
         "paragraphs": [
-          "Sim para quem quer creatina monohidratada sem mistura, pelo rótulo. O que decide é preço por 100 g e porção, na tabela do capítulo Comparativo auditável.",
+          "Sim para quem quer creatina monohidratada sem mistura, pelo rótulo. Para comparar a compra, veja o preço por 100 g e a porção na tabela “Nutren, Growth, FTW e Lavitan: composição, porção e preço”.",
           "O que não dá para concluir apenas pelo nome da marca é que ela seja mais eficaz ou mais pura do que as concorrentes. Sem laudos comparáveis dos mesmos lotes, a resposta mais útil é esta: a Nutren oferece a formulação esperada, e sua vantagem ou desvantagem depende do preço final, do tamanho da porção, da embalagem e do canal em que você prefere comprar."
         ],
         "bullets": []
@@ -44361,10 +44366,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "Comparativo auditável: Nutren, Growth, FTW e Lavitan",
+        "heading": "Nutren, Growth, FTW e Lavitan: composição, porção e preço",
         "paragraphs": [
-          "Na tabela, as quatro marcas lado a lado pelo custo por 100 g, com a Nutren com o CECI e a Growth no Pix praticamente empatadas. Os preços vêm dos sites oficiais, consultados em agosto de 2026 (Nutren, FTW e Lavitan) e atualizados em outubro de 2026 (Growth e Nutren). O R$ 53,91 da Nutren é o cálculo de 10% sobre R$ 59,90, não um teste de carrinho. As porções diferem (Growth 5 g, Nutren 3 g), então a base comum é o custo por 100 g, não o número de porções.",
-          "Não atribuímos superioridade de pureza, eficácia ou controle de qualidade sem laudo comparável dos mesmos lotes. A expressão “100% monohidratada” descreve a composição declarada; não substitui ensaio laboratorial independente."
+          "A base comum da tabela é o custo por 100 g, porque a Growth usa porção de 5 g e a Nutren, de 3 g. Os preços são dos sites oficiais, entre agosto e outubro de 2026. Nutren com o CECI e Growth no Pix ficam praticamente empatadas; o R$ 53,91 da Nutren é o preço de R$ 59,90 com 10% de desconto."
         ],
         "comparisonTable": {
           "caption": "Comparação entre Nutren, Growth, FTW e Lavitan por composição, embalagem, porção, rendimento, preço e custo por 100 gramas",
@@ -44423,7 +44427,8 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Ver o preço da Nutren Creatina no catálogo oficial",
-            "href": "https://www.nestlenutre.com.br/catalog/category/view/id/9"
+            "href": "https://www.nestlenutre.com.br/catalog/category/view/id/9",
+            "sponsored": true
           },
           {
             "label": "Ver a Creatina Monohidratada 250 g no site oficial da Growth",
@@ -44504,11 +44509,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
           "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
-          "Qual foi a mais barata no comparativo? Nutren com o CECI e Growth no Pix ficaram praticamente empatadas na amostra, a R$ 17,97 e R$ 17,96 por 100 g (diferença de R$ 0,01), com a FTW à vista logo acima, a R$ 18,97; os valores estão na tabela do capítulo Comparativo auditável. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
+          "Qual foi a mais barata no comparativo? Nutren com o CECI e Growth no Pix ficaram praticamente empatadas na amostra, a R$ 17,97 e R$ 17,96 por 100 g (diferença de R$ 0,01), com a FTW à vista logo acima, a R$ 18,97. Os valores estão na tabela “Nutren, Growth, FTW e Lavitan: composição, porção e preço”. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
           "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
           "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
           "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
-          "A creatina trata sarcopenia ou problemas cognitivos? Este suplemento não é medicamento. A alegação funcional autorizada refere-se ao auxílio no desempenho físico em exercícios repetidos, curtos e de alta intensidade."
+          "A creatina trata sarcopenia ou problemas cognitivos? Este suplemento não é medicamento. A alegação funcional autorizada refere-se ao auxílio no desempenho físico em exercícios repetidos, curtos e de alta intensidade.",
+          "Qual é o cupom da Nestlé Nutre? O cupom CECI dá 10% na loja oficial da Nestlé Nutre, na Nutren Creatina e em outros produtos, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Confira no carrinho se ele foi aceito antes de pagar."
         ]
       }
     ],
@@ -44636,7 +44642,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparativo rápido: Dolce Gusto, Nespresso e TRES",
         "paragraphs": [
-          "Os três sistemas lado a lado: Dolce Gusto e TRES com cápsula mais barata, Nespresso com café premium."
+          "Na amostra, as cápsulas oficiais da Dolce Gusto Clássica e as da TRES ficaram abaixo das oficiais da Nespresso em preço por unidade. Para escolher, compare também bebida, volume e formato de cápsula na tabela."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -44744,7 +44750,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada xícara?",
         "paragraphs": [
-          "Comparar apenas o preço da cápsula engana, porque os volumes variam muito. Todos os preços deste capítulo são da mesma amostra, coletada no fim de agosto de 2026, com o preço do Farmers Origins conferido em consulta posterior. Para deixar a conta auditável, separamos o espresso e calculamos também a média simples dos produtos com preço e volume identificáveis na amostra: uma média influenciada pelo mix de espressos, lungos, filtrados e cafés longos, não um preço universal da marca."
+          "O preço por cápsula não basta para comparar: uma pode preparar espresso, outra uma caneca. Por isso a tabela separa o custo do espresso e a média por 100 ml.",
+          "Os preços são do fim de agosto de 2026; o do Farmers Origins é mais recente. A média simples considera apenas produtos com preço e volume identificáveis e mistura espressos, lungos, filtrados e cafés longos. Ela descreve essa amostra; confira o preço e o volume da bebida que você pretende tomar."
         ],
         "bullets": [
           "Dolce Gusto clássica: o espresso sai bem mais caro por 100 ml que a média da linha, porque as bebidas longas puxam a conta para baixo; os números estão na tabela acima.",
@@ -44807,7 +44814,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: veredito por perfil e os números",
-        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica, porque a cápsula custa menos que a da Nespresso e a máquina serve a família toda.",
+        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica: as cápsulas oficiais custaram menos que as oficiais da Nespresso Original na amostra, e a variedade de bebidas atende à nossa rotina.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Os números abaixo são da amostra e mudam com promoção e estoque. Veja qual perfil é o seu:"
@@ -44923,11 +44930,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Uma poltrona decorativa muda a maneira de viver a sala",
+        "heading": "Comece pelo uso e pelo espaço da sala",
         "paragraphs": [
-          "É fácil entender por que uma poltrona marcante vira o ponto de partida da sala: ela convida à leitura, à conversa demorada e ao descanso diante da TV. Para que a escolha seja bonita também depois da compra, vale imaginar a cena inteira: quem vai sentar, por quanto tempo e como esse canto entra na rotina da casa.",
-          "Antes de se apaixonar por um modelo, desenhe no ambiente a área ocupada pelo assento e pela abertura do apoio de pés. Deixe uma passagem prática para quem cruza a sala, considere mesas laterais e luminárias e teste se o giro ou a reclinação não colidem com sofá, parede ou painel. Uma peça bonita que interrompe a circulação costuma virar incômodo diário.",
-          "Também vale escolher o revestimento a partir da rotina. Couro pode facilitar a limpeza de pequenos acidentes; linho acrescenta textura e uma leitura mais leve ao ambiente, mas pede os cuidados adequados ao tecido. Sol direto, crianças, pets, uso com manta e frequência de limpeza são dados mais úteis do que uma regra universal sobre qual acabamento é melhor."
+          "Pense no uso principal da poltrona: ler, conversar ou ver TV. Isso ajuda a escolher o apoio para os braços, a posição dos pés e o lugar da luminária.",
+          "Marque no chão a área da poltrona com o puff ou o apoio de pés aberto. Confira a passagem e a distância para sofá, parede e painel; considere também o giro e a tomada, quando o modelo for elétrico.",
+          "Para escolher o revestimento, leia os cuidados da versão que pretende comprar. Sol direto, crianças, pets e frequência de limpeza ajudam a decidir entre couro e tecido."
         ],
         "bullets": [
           "Para leitura: priorize apoio de braços, lugar para luminária e uma posição confortável que possa ser mantida por algum tempo.",
@@ -45084,7 +45091,7 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "emphasis": "Se fosse para a minha casa, eu levaria a Levita, porque o ajuste elétrico de encosto e apoio resolve leitura e TV sem levantar.",
+        "emphasis": "Na minha Levita, uso os ajustes independentes de encosto e apoio de pés para encontrar a posição de leitura ou de TV. Esse é o recurso que mais pesa na minha escolha.",
         "emphasisAfterParagraph": 2
       },
       {
@@ -45234,9 +45241,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Qual linha escolher",
+        "paragraphs": [
+          "Identifique a melhor escolha para a sua rotina:"
+        ],
+        "bullets": [
+          "Quer apoio cervical: considere a linha Cervical (Cervical Coluna Relax®); com dor persistente, procure um profissional de saúde;",
+          "Quer um travesseiro fácil de higienizar: considere o Airgelly® 2.0 (lavável à mão); com alergia ou rinite, fale com um profissional de saúde;",
+          "Sente calor na cabeça durante a noite: considere o Travesseiro Snow® ou o Ergoblu™;",
+          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (chega alto e você retira o enchimento até o ponto, como no capítulo de regulagem de altura);",
+          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® no tamanho P, M ou G, com as alturas do mesmo capítulo;",
+          "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
+          "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
+          "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
+        "emphasisAfterParagraph": 1
+      },
+      {
         "heading": "As linhas de travesseiro da I Wanna Sleep",
         "paragraphs": [
-          "Dormir de lado, de costas ou com calor: a IWS tem uma linha para cada caso, e este guia percorre todas.",
+          "Use a seção Qual linha escolher para encontrar os modelos que combinam com sua prioridade e, depois, confira os detalhes de cada um. As categorias se sobrepõem: Cervical descreve o formato; Memory Foam, o material. Um mesmo modelo pode aparecer em mais de uma seção.",
           "Um travesseiro adequado pode ajudar a manter a cabeça e o pescoço em posição neutra em relação ao restante da coluna. Modelos muito altos ou baixos podem deixar o pescoço inclinado e contribuir para desconforto durante o sono. Para quem dorme de lado, a altura deve preencher o espaço entre o ombro e a cabeça sem forçar a inclinação cervical.",
           "Por isso a pergunta \"qual o melhor travesseiro\" não tem uma resposta única. Um modelo confortável para quem dorme de bruços pode não oferecer a altura adequada para quem dorme de lado; a melhor marca de travesseiro não é necessariamente a que mais vende, mas aquela que oferece material e altura compatíveis com o seu jeito de dormir.",
           "Um adiantamento antes de começar: o cupom CECIEMCASA está divulgado com 10% de desconto no site oficial da I Wanna Sleep, não apenas nos travesseiros. Como condições comerciais podem mudar, confirme o percentual e a elegibilidade no carrinho; voltamos ao cupom com mais detalhes no capítulo final."
@@ -45275,7 +45300,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
             "alt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep, foto oficial do produto",
-            "caption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica IWS.",
+            "caption": "Cervical Coluna Relax®: formato côncavo central e curvas onduladas, segundo a fabricante.",
             "objectFit": "square"
           }
         ]
@@ -45285,12 +45310,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O termo popular travesseiro da NASA refere-se à espuma viscoelástica (Memory Foam), originalmente desenvolvida na década de 1960 para absorver o impacto da aceleração nos astronautas.",
           "No sono, o viscoelástico molda-se ao contorno da cabeça e distribui a pressão pelos pontos de contato.",
-          "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto; a IWS destaca três:"
+          "Dentro da linha Memory Foam, compare o perfil e a capa de cada modelo. O catálogo da IWS inclui:"
         ],
         "bullets": [
           "Snow®: viscoelástico de alta densidade com capa de toque frio que ajuda na troca térmica, uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
           "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. Segundo a I Wanna Sleep, o formato reduz pontos de pressão em até 60%, e o modelo foi pensado para quem sente calor durante a noite;",
-          "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. Ajudam no conforto térmico, no controle de odores e no apoio em diferentes posições de sono;"
+          "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. Ajudam no conforto térmico, no controle de odores e no apoio em diferentes posições de sono."
         ],
         "links": [
           {
@@ -45320,7 +45345,8 @@ export const reviewsData: unknown[] = [
           "Travesseiros acumulam suor, poeira e resíduos com o uso, e a lavagem muda com o material. A linha antialérgica facilita a higiene com modelos que a marca indica para pessoas sensíveis a agentes alergênicos."
         ],
         "bullets": [
-          "Airgelly® 2.0: segundo a fabricante, o único travesseiro 100% lavável do catálogo, com material hipoalergênico. A lavagem é só à mão: a capa em água fria, sem máquina nem alvejante, secando em local fresco e ventilado, e a estrutura em água corrente. Ele acompanha um pad removível de Memory Foam de 1 cm para baixar a altura, e a ficha não traz instruções de lavagem para o pad. Vem com 30 dias de [Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest): troca por crédito, não devolução com reembolso, com uso mínimo de 15 dias e pedido em até 30 dias do recebimento, conforme o canal de compra;",
+          "Airgelly® 2.0: segundo a fabricante, o único travesseiro 100% lavável do catálogo, com material hipoalergênico. A lavagem é só à mão: capa em água fria, sem máquina nem alvejante, com secagem em local fresco e ventilado; estrutura em água corrente. Acompanha pad removível de Memory Foam de 1 cm para baixar a altura.",
+          "Airgelly® 2.0 e o [Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest): o prazo de 30 dias vale para troca por crédito, não para devolução com reembolso, com uso mínimo de 15 dias e pedido em até 30 dias do recebimento, conforme o canal de compra.",
           "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico ao carvão ativado, que, segundo a marca, atua contra odores e ácaros; a capa lava, a espuma não."
         ],
         "links": [
@@ -45390,7 +45416,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Linha Látex (Original Látex® e Blue Látex): látex natural tailandês com retorno elástico instantâneo e sustentação firme, naturalmente resistente à poeira e aos ácaros, sem o afundamento lento do memory foam;",
           "Linha Fibra (Magnum Pluma AirFiber e Skin®): enchimento sintético de toque macio, semelhante à pluma, sem usar pena animal. O Magnum tem capa 100% algodão e acabamento com corda dourada na costura, a maciez de travesseiro de hotel 5 estrelas. O Skin® usa o mesmo enchimento AirFiber com capa Airgelly® que reduz o atrito para quem se incomoda com as marcas de sono no rosto (\"sleep lines\"); a capa lava à mão em água fria e o enchimento não se lava;",
-          "Linha Pluma Natural: tem duas versões no catálogo, a Pena e Pluma Natural (entrada) e a Pluma Natural Premium (linha de luxo). É a família mais tradicional do catálogo, mas também a que menos cresce em busca nos últimos 12 meses: vale mais para quem já conhece e gosta do toque clássico do que como primeira escolha."
+          "Linha Pluma Natural: duas versões no catálogo, Pena e Pluma Natural e Pluma Natural Premium. É uma alternativa para quem prefere o toque tradicional de penas e plumas ao enchimento sintético."
         ],
         "links": [
           {
@@ -45464,24 +45490,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Qual linha escolher",
-        "paragraphs": [
-          "Identifique a melhor escolha para a sua rotina:"
-        ],
-        "bullets": [
-          "Quer apoio cervical: considere a linha Cervical (Cervical Coluna Relax®); com dor persistente, procure um profissional de saúde;",
-          "Quer um travesseiro fácil de higienizar: considere o Airgelly® 2.0 (lavável à mão); com alergia ou rinite, fale com um profissional de saúde;",
-          "Sente calor na cabeça durante a noite: considere o Travesseiro Snow® ou o Ergoblu™;",
-          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (chega alto e você retira o enchimento até o ponto, como no capítulo de regulagem de altura);",
-          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® no tamanho P, M ou G, com as alturas do mesmo capítulo;",
-          "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
-          "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
-          "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
-        ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
-        "emphasisAfterParagraph": 1
-      },
-      {
         "heading": "Onde comprar e o cupom CECIEMCASA",
         "paragraphs": [
           "A linha de travesseiros e acessórios ergonômicos está disponível na loja online oficial da I Wanna Sleep, com entrega sujeita à cobertura do CEP e às condições exibidas no checkout.",
@@ -45522,7 +45530,7 @@ export const reviewsData: unknown[] = [
           "Qual travesseiro da I Wanna Sleep é mais fácil de lavar? A fabricante apresenta o Airgelly® 2.0 como o único 100% lavável do catálogo, mas só à mão: capa em água fria e estrutura em água corrente, sem máquina. A ficha não dá instruções para o pad de memory foam que o acompanha. Nos modelos de viscoelástico, só a capa removível é lavada, conforme a etiqueta. Quem tem alergia deve falar com um profissional de saúde.",
           "Qual é a melhor marca de travesseiro? Não existe uma marca universalmente melhor. A escolha depende da posição de dormir, da altura, do material, do conforto percebido e de necessidades individuais. A IWS organiza o catálogo em linhas para facilitar essa comparação.",
           "Qual a diferença entre a linha Fibra e a linha Pluma Natural? A linha Fibra (Magnum Pluma AirFiber e Skin®) usa enchimento sintético que imita o toque da pluma, é mais em conta e não usa material de origem animal. A linha Pluma Natural usa penas e plumas reais, com toque mais macio e clássico, em duas versões de preço.",
-          "Como aplicar o cupom CECIEMCASA na I Wanna Sleep? Basta inserir o código CECIEMCASA no campo de cupom no carrinho do e-commerce oficial da marca."
+          "Qual é o cupom da I Wanna Sleep e como usar? O cupom CECIEMCASA dá 10% de desconto no site oficial da I Wanna Sleep. Para usá-lo, insira o código no campo de cupom do carrinho antes de fechar o pedido."
         ]
       }
     ],
@@ -45576,7 +45584,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
         "alt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep",
-        "caption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica."
+        "caption": "Cervical Coluna Relax®: formato côncavo central e curvas onduladas, segundo a fabricante."
       },
       {
         "image": "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
@@ -45666,12 +45674,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O confronto clássico: duas máquinas, dois propósitos completamente diferentes",
+        "heading": "O que este comparativo ajuda a escolher",
         "paragraphs": [
-          "Colocar lado a lado uma máquina da Dolce Gusto e uma da Nespresso esperando que elas façam o mesmo trabalho é o erro mais comum de quem compra a primeira cafeteira de cápsulas.",
-          "Aqui o foco é a Dolce Gusto Clássica contra a Nespresso Original; o [comparativo de três marcas](/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes) inclui TRES, NEO e Vertuo e explica como os preços foram comparados.",
-          "Embora ambas pertençam ao portfólio global da Nestlé, você não está comparando aparelhos concorrentes com o mesmo objetivo, mas dois eletrodomésticos com propostas de rotina distintas.",
-          "A diferença começa na proposta: de um lado, uma multibebidas para a família; do outro, uma máquina focada em cafés e na variedade de cápsulas."
+          "A primeira escolha é o que você quer preparar: café preto, bebidas com leite, chocolate ou chá. Aqui comparamos a Dolce Gusto Clássica com a Nespresso Original, pelo catálogo, pelo custo das cápsulas e pelo trabalho na bancada.",
+          "O [comparativo de três marcas](/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes) inclui TRES, NEO e Vertuo e detalha a amostra de preços usada nas contas."
         ],
         "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp",
         "imageAlt": "Cafeteiras Dolce Gusto e Nespresso lado a lado em uma bancada moderna de cozinha",
@@ -46016,7 +46022,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/dolcegusto/nespresso-pixie-produto.webp",
         "alt": "Cafeteira Nespresso Pixie",
-        "caption": "Nespresso Original: foco total no espresso puro."
+        "caption": "Nespresso Original: foco em cafés, como Espresso e Lungo."
       },
       {
         "image": "/images/reviews/dolcegusto/dolce-gusto-genio-arno-produto.webp",
@@ -46074,7 +46080,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As quatro linhas de cobertor da I Wanna Sleep",
         "paragraphs": [
-          "Cada linha resolve um problema: calor e frio na mesma cama, inverno, peso ou toque. Abaixo, cada uma e o veredito por perfil."
+          "As quatro linhas têm propostas diferentes de face, acabamento e leveza. Abaixo, compare características declaradas pela marca e cuidados de cada peça."
         ]
       },
       {
@@ -46094,7 +46100,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Igloo",
-        "imageCaption": "Linha Igloo: um lado com frescor ativo Ice-Feel e o outro com aconchego Warm-Feel na mesma peça.",
+        "imageCaption": "Igloo: duas faces reversíveis, escolhidas ao virar a peça. Foto oficial da I Wanna Sleep.",
         "imageFit": "square",
         "links": [
           {
@@ -46111,16 +46117,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Huggy: fleece com sherpa sintética para o inverno",
         "paragraphs": [
-          "Quem já acordou às três da madrugada com as pontas dos pés geladas sabe que o frio de inverno não perdoa escolhas erradas de roupa de cama. Quando a temperatura ambiente desce para a casa dos 10°C ou menos, muitas casas brasileiras enfrentam um desafio térmico silencioso: a falta de isolamento térmico nas alvenarias faz o quarto esfriar rapidamente, e jogar três ou quatro cobertores pesados sobre o corpo costuma dar peso demais e pés que continuam frios.",
-          "É exatamente para responder a esse cenário de inverno rigoroso que a I Wanna Sleep projetou a Linha Huggy. Inspirado na palavra em inglês hug (abraço), o conceito desse modelo é envolver o corpo em um aconchego térmico contínuo e acolhedor, eliminando de vez aquela sensação desagradável de entrar em uma cama congelante.",
-          "O segredo do aquecimento eficiente não está no peso da coberta, mas na sua capacidade de reter o calor irradiado pelo corpo através da tecnologia Dual Touch:"
+          "O Huggy combina fleece com acabamento que imita pele de carneiro, chamado sheepskin ou sherpa sintético. É a opção para quem procura esse toque felpudo.",
+          "Na ficha da marca, o peso informado é de 2,9 kg no Casal/Queen e 3,3 kg no King/Super King. Esses números ajudam a comparar o peso, não o aquecimento."
         ],
         "bullets": [
-          "Lado Fleece (isolante térmico ativo): microfibras sintéticas de alta densidade tecidas para criar milhares de microbolsas de ar microscópicas que aprisionam o ar aquecido pelo próprio corpo, bloqueando o ar frio externo;",
-          "Lado Sheepskin sintético (efeito sherpa clássico): acabamento que reproduz com perfeição a textura aveludada, encaracolada e macia da pele de carneiro, quebrando a barreira gélida da cama no primeiro segundo de contato;",
-          "100% sintético e cruelty-free: feito em microfibra de poliéster, sem material de origem animal, segundo a marca;",
-          "Versatilidade Cama e Sofá: excelente caimento maleável tanto como cobertor principal na cama quanto como cobertor manta casal de generosas dimensões para sessões de cinema no sofá da sala;",
-          "Medidas: Casal/Queen (2,20m x 2,40m) e King/Super King (2,40m x 2,60m)."
+          "Casal/Queen: 2,20 × 2,40 m.",
+          "King/Super King: 2,40 × 2,60 m.",
+          "Acabamento sintético; não é lã nem pele natural de carneiro."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-huggy-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Huggy com capuz sherpa",
@@ -46135,23 +46138,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Puffer Ultralight: aquecimento leve que vira almofada",
+        "heading": "Puffer Ultralight: proposta de leveza",
         "paragraphs": [
-          "Cobertor pesado pode prender os pés e dificultar virar na cama. O Puffer aposta no ar preso em fibras ocas, não no peso.",
-          "Para romper com o paradigma de que cobertor bom precisa pesar uma tonelada, a I Wanna Sleep foi buscar inspiração no vestuário técnico de montanhismo para conceber a Linha Puffer Ultralight. Em vez de aquecer pela sobreposição maciça de camadas, o modelo utiliza o princípio termodinâmico do ar aprisionado.",
-          "O coração do Puffer Ultralight é o enchimento exclusivo AirFiber™ IWS: microfibras microscópicas ocas, como minúsculos tubos transparentes. O calor corporal penetra na fibra e aquece o ar preso dentro de cada microduto, gerando, segundo a marca, uma barreira térmica com peso bem menor que o de uma colcha comum."
+          "O Puffer Ultralight tem tecido externo de poliéster e enchimento AirFiber, segundo a ficha da I Wanna Sleep. A marca o apresenta como alternativa de aquecimento com menos volume."
         ],
         "bullets": [
-          "Costura em gomos compartimentados: o desenho em gomos ajuda a manter o enchimento distribuído pela peça;",
-          "O cobertor que vira almofada: dobrada, a peça serve de apoio às costas no sofá ou na poltrona;",
-          "O cobertor que vira travesseiro de viagem: compacto e leve, substitui travesseiro e manta na bagagem de mão, ideal para viagens de carro, avião ou finais de semana fora de casa;",
-          "Lavagem e secagem: siga a etiqueta da peça e o manual da lavadora, considerando o tamanho e o volume do cobertor;",
-          "Tamanhos: Casal/Queen e King/Super King.",
-          "Disponibilidade: o estoque de cada tamanho muda; confira na loja oficial a versão que você quer."
+          "Tamanhos da ficha: Casal/Queen, 2,20 × 2,40 m; King/Super King, 2,40 × 2,60 m.",
+          "A foto de embalagem mostra a peça compactada em um saco. Não confirma bolso integrado com zíper nem uso como travesseiro."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Puffer Ultralight",
-        "imageCaption": "Linha Puffer Ultralight: tecnologia AirFiber em gomos costurados e compartimento integrado para virar almofada/travesseiro.",
+        "imageCaption": "Puffer Ultralight: tecido e enchimento apresentados pela I Wanna Sleep como leves.",
         "imageFit": "square",
         "links": [
           {
@@ -46164,18 +46161,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cozy: o cobertor marshmallow com textura 3D Dots",
         "paragraphs": [
-          "Se você pesquisou recentemente por roupas de cama na internet, certamente notou uma expressão que virou febre no Brasil: o 'cobertor marshmallow' (com alta expressiva de buscas no Google Trends). Mas o que os consumidores realmente procuram por trás dessa expressão?",
-          "A busca é por um cobertor fofinho, encorpado, com toque aerado e volume visual de revista, que transmita a sensação reconfortante de afundar em uma nuvem ao deitar. Para atender a esse anseio de conforto tátil supremo, a I Wanna Sleep desenvolveu a Linha Cozy.",
-          "O Cozy une o acabamento aveludado de alto padrão a duas tecnologias proprietárias desenhadas para relaxamento sensorial e durabilidade estrutural:"
+          "O Cozy se diferencia pela superfície com pequenos relevos, que a I Wanna Sleep chama de 3D Dots, e pelo enchimento Long Fiber. A marca o apresenta como macio e apropriado para noites frias.",
+          "Compare esse acabamento com o fleece e a sherpa do Huggy. A preferência pelo toque é pessoal."
         ],
         "bullets": [
-          "Textura Tridimensional 3D Dots™: superfície com microrrelevos em formato de pequenos pontos acolchoados em três dimensões. É o que dá o toque marshmallow da linha;",
-          "Enchimento Estruturado Long Fiber IWS™: fibras longas e entrelaçadas que, segundo a marca, não se rompem nem empelotam nas lavagens e mantêm o volume fofo;",
-          "Elegância na cama posta: substitui edredons pesados com caimento drapeado impecável, disponível em Solteiro/Solteirão, Casal/Queen (2,20m x 2,40m) e King (2,40m x 2,60m) para colchões extralargos."
+          "Tamanhos da ficha: Solteiro/Solteirão, 1,70 × 2,29 m; Casal/Queen, 2,20 × 2,40 m; King/Super King, 2,40 × 2,60 m.",
+          "Confira a medida da peça e o quanto quer que sobre nas laterais da cama."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa abraçando o Cobertor Cozy",
-        "imageCaption": "Linha Cozy: o autêntico toque 'marshmallow' com microrrelevos sensoriais 3D Dots e enchimento Long Fiber.",
+        "imageCaption": "Cozy: superfície com relevo 3D Dots e enchimento chamado Long Fiber pela marca.",
         "imageFit": "square",
         "links": [
           {
@@ -46188,7 +46183,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa da I Wanna Sleep",
         "paragraphs": [
-          "Os quatro modelos lado a lado pelas especificações do catálogo:"
+          "Compare as características informadas nas fichas da marca em 07/11/2026. Os nomes comerciais não são uma medição independente de conforto."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -46202,95 +46197,67 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Proposta Central",
-              "Reversibilidade: uma face de toque fresco e outra de toque quente",
-              "Aconchego térmico supremo para inverno rigoroso",
-              "Aquecimento com peso quase nulo e alta mobilidade",
-              "Conforto sensorial marshmallow e cama posta sofisticada"
+              "Diferença para escolher",
+              "Duas faces reversíveis",
+              "Fleece com sherpa sintético",
+              "Proposta de leveza com enchimento AirFiber",
+              "Superfície em relevo 3D Dots"
             ],
             [
-              "Sensação Térmica",
-              "Dual-Face: toque frio Ice-Feel de um lado, aquecimento suave Warm-Feel do outro",
-              "Quente e envolvente (abraço térmico imediato)",
-              "Aquecimento moderado a alto com respirabilidade contínua",
-              "Quente, macio e acolhedor com distribuição uniforme"
+              "Como aparece na ficha",
+              "Face Ice-Feel ou Warm-Feel, conforme a orientação da peça",
+              "Acabamento felpudo sintético",
+              "Tecido externo de poliéster; enchimento AirFiber",
+              "Enchimento chamado Long Fiber pela marca"
             ],
             [
-              "Tecnologias Têxteis",
-              "Ice-Feel, Warm-Feel, Silk-Glide Surface™ e Air-Flow System™",
-              "Dual Touch (Fleece térmico + Sheepskin sintético)",
-              "Enchimento AirFiber™ IWS em gomos geométricos costurados",
-              "Textura 3D Dots™ + Enchimento Long Fiber IWS™"
-            ],
-            [
-              "Sensação no Corpo",
-              "Fluido e sedoso, com caimento anatômico deslizante",
-              "Denso e felpudo (toque aveludado pele de carneiro / sherpa)",
-              "Muito leve, segundo a marca",
-              "Encorpado, aerado, volumoso e aveludado"
-            ],
-            [
-              "Material",
-              "Respirável, com trama Air-Flow System™, segundo a marca",
-              "100% sintético e cruelty-free, segundo a marca",
-              "Fibras sintéticas",
-              "Fibras longas que não soltam fiapos, segundo a marca"
-            ],
-            [
-              "Portabilidade / Uso",
-              "Fixo na cama (ideal para noites inteiras)",
-              "Cama de casal/queen e manta de living no sofá",
-              "Alta: dobra compacto e, segundo a marca, vira travesseiro ou almofada",
-              "Fixo na cama e momentos de relaxamento no sofá"
-            ],
-            [
-              "Tamanhos Oficiais",
-              "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
-              "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
+              "Tamanhos da ficha",
               "Casal/Queen e King/Super King",
-              "Solteiro/Solteirão, Casal/Queen (2,20x2,40m) e King (2,40x2,60m)"
+              "Casal/Queen e King/Super King",
+              "Casal/Queen e King/Super King",
+              "Solteiro/Solteirão, Casal/Queen e King/Super King"
             ],
             [
-              "Indicação Principal",
-              "Quem esquenta à noite, quem sente frio de madrugada e quartos com ar-condicionado",
-              "Noites de frio intenso e quem ama textura sherpa",
-              "Quem odeia peso nas pernas, viaja ou lê no sofá",
-              "Quem busca toque macio e cama fofa de hotel"
+              "O que conferir antes da compra",
+              "Face desejada e medida da cama",
+              "Peso e toque do acabamento",
+              "Volume da peça e instruções de lavagem",
+              "Textura e sobra desejada nas laterais"
             ]
           ]
         }
       },
       {
-        "heading": "Cuidados de lavagem e manutenção na vida real",
+        "heading": "Lavagem: confira a etiqueta de cada peça",
         "paragraphs": [
-          "Para preservar as propriedades térmicas e táteis dos seus cobertores IWS por mais tempo, alguns cuidados na lavanderia doméstica ajudam:"
+          "O tamanho e o volume do cobertor importam tanto quanto a capacidade nominal da máquina. Confira a etiqueta da sua peça e o manual da lavadora antes de lavar."
         ],
         "bullets": [
-          "Ciclo delicado e sabão neutro: utilize sempre água fria ou em temperatura ambiente com sabão líquido neutro. Evite alvejantes clorados ou amaciantes em excesso, que podem impermeabilizar as fibras e prejudicar a respirabilidade do Air-Flow e do Ice-Feel;",
-          "Etiqueta e manual da lavadora: siga a etiqueta de cada peça e o manual da sua máquina, considerando o tamanho e o volume do cobertor. Peças Casal/Queen e King ocupam bastante espaço no tambor;",
-          "Secagem natural à sombra: estenda a peça à sombra em local ventilado. Nunca passe ferro elétrico sobre as superfícies sintéticas (especialmente o lado Ice-Feel, a sherpa ou os 3D Dots), pois o calor concentrado funde as microfibras e elimina o efeito tátil original."
+          "Igloo: segundo a página do produto, lavagem à mão ou na máquina até 30 °C, sem alvejante, ferro ou lavagem a seco, com secagem natural.",
+          "Puffer Ultralight: segundo a página do produto, água fria e modo delicado, sem alvejante, secadora ou ferro.",
+          "Huggy e Cozy: siga a etiqueta da versão comprada e o manual da lavadora, considerando o volume da peça."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-embalagem-cuidados.webp",
         "imageAlt": "Cobertor I Wanna Sleep dobrado com bolsa de transporte e cartão de cuidados oficial",
-        "imageCaption": "Cuidados corretos de lavagem garantem longevidade às propriedades térmicas e táteis das peças.",
+        "imageCaption": "Confira os cuidados na etiqueta da peça e no manual da sua lavadora.",
         "imageFit": "square"
       },
       {
         "heading": "Qual escolher: o cobertor certo para cada perfil",
-        "emphasis": "Se fosse para a minha casa, eu levaria o Igloo, porque uma peça só serve para as noites quentes e as frias: basta virar.",
+        "emphasis": "Eu começaria pela diferença que quero na coberta: duas faces no Igloo, fleece com sherpa no Huggy, proposta de leveza no Puffer ou textura em relevo no Cozy.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "Escolha pelo frio que você sente e por quem divide a cama. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA aplicado:"
+          "Escolha pela característica que você quer comparar. A [página do cupom I Wanna Sleep](/cupons/i-wanna-sleep) reúne as condições do CECIEMCASA."
         ],
         "bullets": [
-          "Perfil 1: Quem Esquenta à Noite ou Dorme com Ar-Condicionado -> Vá de Igloo™. A peça é reversível: você vira a coberta e deixa voltado ao corpo o lado Ice-Feel, de toque fresco, ou o Warm-Feel, mais quentinho. O lado escolhido vale para a cama inteira: o Igloo não esfria um lado e aquece o outro ao mesmo tempo. A marca informa uma sensação térmica 2 a 3°C menor no lado Ice-Feel, em medição própria;",
-          "Perfil 2: O Amante do Inverno Rigoroso e Textura Sherpa -> Vá de Huggy®. Para noites congelantes em que os pés demoram a aquecer, a dobradinha de fleece isolante com sherpa sintética quebra a friagem na hora, em um tecido 100% sintético e cruelty-free;",
-          "Perfil 3: O Inimigo do Peso Opressivo e Amante da Portabilidade -> Vá de Puffer Ultralight™. Se você detesta sentir as pernas presas por mantas pesadas, viaja bastante ou gosta de ter uma coberta versátil que vira almofada no sofá e travesseiro no carro, as fibras ocas AirFiber entregam, segundo a marca, aquecimento com peso bem menor;",
-          "Perfil 4: O Fã do Toque Marshmallow e Cama de Revista -> Vá de Cozy™. Se a sua prioridade é o relaxamento sensorial e uma cama posta volumosa e sofisticada, o relevo 3D Dots dá o toque marshmallow, e o miolo Long Fiber mantém o volume, segundo a marca."
+          "Igloo: se quer alternar a face voltada ao corpo, virando a peça.",
+          "Huggy: se prefere fleece com acabamento sherpa sintético; confira também o peso.",
+          "Puffer Ultralight: se quer comparar a proposta de leveza e as medidas disponíveis.",
+          "Cozy: se a prioridade é o acabamento em relevo."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-ambiente.webp",
         "imageAlt": "Cobertor I Wanna Sleep texturizado sobre poltrona em ambiente aconchegante",
-        "imageCaption": "Qualquer que seja o seu perfil, as 4 linhas compartilham o mesmo padrão de acabamento premium.",
+        "imageCaption": "Cozy em ambiente de uso, em foto oficial da I Wanna Sleep.",
         "imageFit": "square",
         "links": [
           {
@@ -46306,15 +46273,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada linha, com o cupom CECIEMCASA aplicado",
         "paragraphs": [
-          "Os valores abaixo são preços de referência do site oficial da I Wanna Sleep; o preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. O valor com o cupom, na coluna final, é cálculo nosso, não simulação da loja: os 10% do CECIEMCASA por cima do preço já promocional. Confirme no carrinho se o cupom acumula com a promoção ativa daquele momento."
+          "Os valores são de referência do site oficial da I Wanna Sleep. O preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. A última coluna simula 10% de desconto sobre esses valores; confirme no carrinho se o CECIEMCASA acumula com a promoção ativa."
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Preços das 4 linhas de cobertores IWS com e sem o cupom CECIEMCASA",
+          "caption": "Valores de referência das 4 linhas de cobertores IWS e simulação com 10% do CECIEMCASA",
           "headers": [
             "Linha e tamanho",
-            "Preço oficial",
-            "Com CECIEMCASA (10%)*"
+            "Preço registrado",
+            "Simulação com 10%"
           ],
           "rows": [
             [
@@ -46362,10 +46329,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre cobertores IWS",
         "bullets": [
-          "O cobertor Igloo realmente fica gelado? Sim. A face com tecnologia Ice-Feel Fiber System™ dissipa o calor por contato direto, reduzindo a sensação térmica da pele em 2 a 3°C em comparação ao ambiente, segundo medição da marca com termômetro infravermelho. Para noites frias, basta virar a peça e utilizar o lado Warm-Feel.",
+          "O Igloo realmente fica gelado? A marca apresenta a face Ice-Feel como de toque frio e informa redução de 2 a 3 °C na sensação térmica, em medição própria. Para alternar a face em contato com o corpo, basta virar a peça.",
           "O cobertor Huggy é de pele ou lã de carneiro? Não. O acabamento sheepskin do Huggy é 100% sintético e cruelty-free, segundo a marca. Se você tem rinite ou alergia, converse com seu médico antes de escolher o tecido.",
-          "Como o cobertor Puffer Ultralight vira almofada ou travesseiro? Segundo a marca, a peça dobrada pode servir de almofada lombar ou de travesseiro de viagem. O enchimento de microfibras ocas AirFiber™ é compressível, o que ajuda a guardar e transportar.",
-          "Qual o tamanho de cobertor ideal para camas Queen e King? Para camas Casal e Queen, o tamanho padrão da IWS é 2,20m x 2,40m, garantindo cobertura farta nas laterais. Para colchões King e Super King (acima de 1,86m de largura), a medida indicada é 2,40m x 2,60m, evitando que os pés fiquem descobertos quando alguém se vira.",
+          "O Puffer vira almofada ou travesseiro? Segundo a marca, a peça dobrada pode servir de almofada ou de travesseiro de viagem. A foto mostra só a embalagem compacta, sem comprovar bolso com zíper nem o tempo de transformação.",
+          "Como escolher o tamanho? Compare as dimensões da peça com largura e comprimento do colchão e a sobra que deseja nas laterais. As fichas da marca trazem Casal/Queen de 2,20 × 2,40 m e King/Super King de 2,40 × 2,60 m; o Cozy também tem Solteiro/Solteirão.",
           "Como aplicar o cupom CECIEMCASA e o cobertor tem teste na cama? Basta inserir o código CECIEMCASA no carrinho do e-commerce oficial da I Wanna Sleep para obter 10% de desconto. A política Sleeptest da marca lista colchões, travesseiros e suplementos; para cobertores, confirme as condições na página do produto antes de comprar."
         ]
       }
@@ -46378,7 +46345,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Você passa noites de inverno rigoroso com os pés demorando a aquecer: aí o Huggy atende melhor.",
         "Você quer um cobertor fofinho e volumoso, de cama de revista: aí a linha é a Cozy.",
-        "Sua lavadora tem menos de 11 kg e você pensa no Huggy ou no Cozy em Casal/Queen ou King: eles pedem máquina de 11 a 13 kg."
+        "Sua lavadora não comporta o volume de um Casal/Queen ou King, segundo o manual."
       ]
     },
     "cta": {
@@ -46423,17 +46390,17 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp",
         "alt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Puffer Ultralight",
-        "caption": "Linha Puffer Ultralight: enchimento AirFiber em gomos e dobra compacta multifuncional."
+        "caption": "Puffer Ultralight em foto oficial da marca."
       },
       {
         "image": "/images/reviews/iwannasleep/cobertor-puffer-travesseiro-viagem.webp",
-        "alt": "Cobertor Puffer Ultralight compactado em bolsa, virando travesseiro de viagem",
-        "caption": "Compactado, o Puffer Ultralight vira travesseiro de viagem ou almofada em segundos."
+        "alt": "Pessoa segurando embalagens cinzas compactas do cobertor Puffer",
+        "caption": "Embalagens compactas do Puffer Ultralight."
       },
       {
         "image": "/images/reviews/iwannasleep/cobertor-cozy-oficial-uso.webp",
         "alt": "Foto oficial da I Wanna Sleep de pessoa abraçando o Cobertor Cozy",
-        "caption": "Linha Cozy: sensação sensorial de marshmallow com microrrelevos 3D Dots e enchimento Long Fiber."
+        "caption": "Cozy: textura em relevo da linha, em foto oficial da marca."
       }
     ]
   },
@@ -49832,9 +49799,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que significa a luz laranja da Dolce Gusto",
         "paragraphs": [
-          "A luz laranja no botão da Dolce Gusto costuma ser um aviso de manutenção, não sinal de que a máquina quebrou. Na Genio S, a máquina conta as extrações e o manual indica descalcificar depois de cerca de 300 preparos.",
-          "Na prática, isso costuma cair entre alguns meses e um ano, dependendo de quantas bebidas você faz por dia e de quão dura é a água da sua casa. Ela pede uma limpeza interna, que dá para fazer em casa em cerca de 20 a 30 minutos, enxágue incluído.",
-          "Na Genio S, a luz acompanha um contador, não um sensor de sujeira. O sinal e o jeito de apagá-lo dependem do modelo, então vale o manual da sua máquina."
+          "No manual da Genio S Touch, o indicador laranja de descalcificação avisa que é hora de fazer a manutenção. Confira no manual do seu modelo qual luz está acesa, porque nem todo sinal laranja é o de descalcificação.",
+          "O manual orienta descalcificar a cada 3 a 4 meses, antecipando conforme a dureza da água e os sinais indicados pelo fabricante. Separe cerca de 20 a 30 minutos para o procedimento e o enxágue.",
+          "Para concluir, siga também os comandos de enxágue e finalização do seu modelo. Se o sinal persistir após o procedimento correto, procure o SAC ou a assistência, em vez de tentar resets encontrados na internet."
         ],
         "bullets": [
           "Quando descalcificar: quando a luz aparecer ou, no máximo, a cada 3 a 4 meses, como pede o manual da Genio S (com água dura, antecipe);",
@@ -49997,7 +49964,7 @@ export const reviewsData: unknown[] = [
         "heading": "Aproveite a manutenção para reabastecer sem pagar caro",
         "paragraphs": [
           "Manutenção em dia é um bom momento para conferir o estoque de cápsulas. Na loja oficial, o cupom CECI aplica 10% OFF a partir de R$ 100; confirme o desconto no resumo do carrinho antes de finalizar.",
-          "Se a sua máquina é antiga e vem exigindo limpeza cada vez mais seguida, vale conhecer também as gerações atuais: veja o comparativo da Genio S e a nossa análise da Mini Me antes de decidir trocar."
+          "Se você já está comparando uma nova cafeteira, os guias da Genio S e da Mini Me explicam recursos e diferenças de uso. A necessidade de descalcificar, sozinha, não indica que é hora de trocar a máquina."
         ],
         "bullets": [],
         "links": [
@@ -50093,7 +50060,7 @@ export const reviewsData: unknown[] = [
       "Indicado pela marca para crianças a partir de 2 anos, para uso em tecido e ambiente (não na pele)",
       "Aroma suave que pode virar um marcador do ritual de dormir, sem depender de remédio",
       "Uso simples: 1 a 3 borrifadas alguns minutos antes de deitar",
-      "Teste de 30 dias com crédito para troca (compras no site oficial) e 10% OFF com o cupom CECIEMCASA"
+      "Teste de 30 dias com crédito para troca (compras no site oficial, conforme as condições da página) e 10% OFF com o cupom CECIEMCASA"
     ],
     "cons": [
       "É um cosmético: a própria marca diz que não é medicamento e não tem efeito farmacológico, então o efeito depende do ritual",
@@ -50163,11 +50130,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar: 1 a 3 borrifadas, alguns minutos antes de deitar",
         "paragraphs": [
-          "A orientação da marca é borrifar de 1 a 3 vezes no travesseiro, no lençol ou no ambiente do quarto, alguns minutos antes de a criança se deitar. A embalagem não especifica distância nem tempo exato; os itens marcados como \"nossa sugestão\" são bom senso para não molhar o tecido."
+          "Segundo a marca, use de 1 a 3 borrifadas no travesseiro, no lençol ou no ambiente, alguns minutos antes de deitar; siga as instruções da embalagem correspondente."
         ],
         "bullets": [
           "Quantidade: de 1 a 3 borrifadas, como a marca indica;",
-          "Onde: no travesseiro (na parte de cima, longe do rosto), no lençol ou no ar do quarto. Nossa sugestão: borrifar a uns 20 a 30 cm para a névoa se espalhar sem encharcar o tecido;",
+          "Onde: travesseiro, lençol ou ambiente, conforme a marca;",
           "Quando: alguns minutos antes de a criança deitar, como a marca orienta, com ela fora da cama. O tecido deve estar seco na hora de deitar;",
           "Cuidados da marca: não usar em pele irritada ou lesionada, não ingerir, evitar contato com olhos, boca e mucosas, suspender o uso se houver irritação e guardar em local fresco, ao abrigo de luz intensa e fora do alcance de crianças;",
           "Objetos de apego: a marca fala em travesseiro, lençol e ambiente; naninhas e pelúcias não fazem parte da orientação."
@@ -50178,15 +50145,15 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Roteiro prático de 20 minutos para a hora de dormir",
+        "heading": "Roteiro prático para a hora de dormir",
         "paragraphs": [
-          "O spray é só uma peça. O que costuma funcionar é a sequência repetida, sempre na mesma ordem. O roteiro abaixo é uma sugestão editorial baseada em recomendações gerais de sono infantil, não um protocolo da marca; ajuste aos horários da sua casa. A Academia Americana de Pediatria orienta evitar telas na hora anterior ao sono ([AAP: Media and Young Minds](https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/)). O aroma é opcional, e a borrifada faz parte do preparo do quarto, dentro dos 20 minutos."
+          "O spray é só uma peça. O que costuma funcionar é a sequência repetida, sempre na mesma ordem. O roteiro abaixo é uma sugestão editorial baseada em recomendações gerais de sono infantil, não um protocolo da marca; ajuste aos horários da sua casa. A Academia Americana de Pediatria orienta evitar telas na hora anterior ao sono ([AAP: Media and Young Minds](https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/)). O aroma é opcional, e a borrifada faz parte do preparo do quarto."
         ],
         "bullets": [
-          "Passo 1, luz e telas (antes do roteiro, na hora que antecede o sono): desligue TV, tablets e celulares e troque a luz branca do teto por uma iluminação indireta e amarelada;",
-          "Passo 2, banho, pijama e preparo do quarto (cerca de 10 minutos): banho morno, pijama confortável, dentes escovados e, com a criança fora do quarto, 1 a 3 borrifadas no travesseiro e no lençol;",
-          "Passo 3, deitar (2 minutos): confira que o tecido está seco e faça um convite calmo para deitar;",
-          "Passo 4, aconchego (8 a 10 minutos): uma história curta em voz baixa, uma canção de ninar ou um cafuné até a respiração desacelerar."
+          "Passo 1: desligue telas uma hora antes do horário de dormir e organize uma transição com menos estímulos.",
+          "Passo 2: prepare banho, pijama e escovação conforme a rotina da casa.",
+          "Passo 3: se optar pelo spray, borrife o travesseiro ou o lençol alguns minutos antes de a criança deitar, como a marca orienta, e confira que o tecido está seco.",
+          "Passo 4: reserve um momento calmo para ler uma história, cantar ou conversar. A sequência pode existir com ou sem o aroma."
         ],
         "image": "/images/reviews/iwannasleep/sleepspray-kidz-historia-antes-de-dormir.webp",
         "imageAlt": "Pai e mãe lendo um livro de histórias para o filho na cama, com luz de abajur acesa e o frasco do SleepSpray Kidz na mesa de cabeceira",
@@ -50242,16 +50209,16 @@ export const reviewsData: unknown[] = [
           "Este guia parte do rótulo, da página oficial e de recomendações gerais de sono infantil: por isso diz em que situação o spray faz sentido, não que ele \"funciona\".",
           "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, a criança tem 2 anos ou mais e não tem alergia respiratória, e você aceita gastar o valor de um frasco de 60 ml com um item de conforto. A loja oferece 30 dias de teste, com crédito de troca se a criança não se adaptar. É um jeito simples de repetir um sinal sensorial no fim do dia.",
           "Não faz sentido se a expectativa é um produto que faça a criança dormir sozinha com as telas ligadas e o horário desorganizado, nem como tratamento para insônia. Para despertares frequentes ou sonolência excessiva de dia, procure o pediatra: o problema pode não ser de rotina.",
-          "O que há de mais sólido neste guia não está no frasco: luz baixa, sem telas, horários regulares, banho e um momento calmo com um adulto. O spray é o marcador; o ritual é o que faz o trabalho."
+          "Luz mais baixa, horários regulares e um momento calmo com um adulto fazem parte da rotina descrita. O spray é um item aromático opcional, sem efeito comprovado sobre o sono."
         ],
         "bullets": []
       },
       {
-        "heading": "Preço, kits e garantia de 30 dias",
+        "heading": "Preço, kits e teste de 30 dias com crédito de troca",
         "paragraphs": [
-          "O frasco de 60 ml custa R$ 117,00 de tabela no site oficial (consulta de 29/09/2026), com kits de 3 frascos por R$ 234,00 (compre 2, leve 3) e de 5 por R$ 351,00 (compre 3, leve 5). Em 06/11/2026, a página mostrava promoção de R$ 99,00 por frasco e kits de R$ 198,00 e R$ 297,00. Promoções mudam, então confira o valor do dia. O frete é grátis acima de R$ 150,00.",
+          "Em 29/09/2026, a loja mostrava R$ 117 pelo frasco de 60 ml, com kits de 3 frascos por R$ 234 e de 5 por R$ 351. Confira o preço do dia e o frete no carrinho antes de comprar. O frete é grátis acima de R$ 150,00.",
           "Quanto rende? A marca não informa quantas borrifadas ou noites um frasco entrega, então não dá para calcular um custo por noite.",
-          "A garantia funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro. As condições gerais estão na [política Sleeptest da marca](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest); confirme na página do produto o que vale para o spray.",
+          "O teste funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro. As condições gerais estão na [política Sleeptest da marca](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest); confirme na página do produto o que vale para o spray.",
           "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
         ],
         "bullets": []
@@ -50287,10 +50254,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A partir de que idade posso usar o SleepSpray Kidz? A IWS indica o produto para crianças a partir de 2 anos. Para menores de 2 anos a página não traz orientação, então converse com o pediatra antes de usar qualquer aroma no quarto de um bebê.",
           "O SleepSpray Kidz é remédio ou tem melatonina? Não. A própria IWS informa que ele é um cosmético, sem efeito farmacológico, e livre de melatonina. O SleepSpray adulto é que traz melatonina na composição.",
-          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar.",
+          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar. Siga a embalagem e não ultrapasse essa orientação.",
           "Posso borrifar na pele, no rosto ou na naninha? Não. A marca orienta travesseiro, lençol e ambiente, e pede para evitar contato com olhos, boca e mucosas, não usar em pele irritada, não ingerir e suspender o uso em caso de irritação. Naninhas e pelúcias não fazem parte da orientação.",
           "O spray mancha a fronha? A página da IWS não fala sobre manchas. A base é aquosa; por segurança, teste em um canto discreto do tecido e deixe secar antes de deitar a criança.",
-          "O cheirinho perde o efeito se eu usar todas as noites? A IWS indica o produto para uso diário e apresenta a repetição como parte do ritual. Não encontramos estudo sobre perda de efeito; o que mais pesa no resultado é a consistência da rotina inteira, não só do aroma.",
+          "O cheirinho perde o efeito se usar todas as noites? A IWS indica o produto para uso diário e apresenta a repetição como parte do ritual, sem dados sobre perda de efeito. O que mais pesa é a consistência da rotina inteira, não só do aroma.",
           "Adulto pode usar o SleepSpray Kidz? Pode usar como perfume de cama se gostar do aroma, lembrando que é um produto de tecido, sem função farmacológica. Gestantes e pessoas com asma ou rinite devem consultar o médico antes de usar óleos essenciais em casa."
         ]
       }
@@ -50343,7 +50310,7 @@ export const reviewsData: unknown[] = [
       "O método da pasta é o mesmo que a Nestlé indica: pouco líquido primeiro e o restante depois",
       "Números oficiais por porção: cerca de 130 kcal e 11 g de proteína nos sabores; 113 kcal e 10 g no Sem Sabor Zero Lactose",
       "O Sem Sabor entra em receitas doces e salgadas, segundo a marca, sempre adicionado no final do preparo",
-      "Cupom CECI de 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis"
+      "Cupom CECI de 10% OFF em produtos elegíveis na Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses"
     ],
     "cons": [
       "Não pode ferver e deve ser consumido logo após o preparo; a marca não informa uma temperatura máxima",
@@ -50360,9 +50327,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que o Nutren Senior empelota",
         "paragraphs": [
-          "Quem prepara suplemento em pó conhece a cena: pó no copo, o líquido todo de uma vez, a colher batendo no vidro e, no fim, bolinhas secas boiando ou uma massa grudada no fundo. Para quem toma, a bebida fica desagradável. Para quem cuida de um pai, uma mãe ou um avô, o copo ainda pode ser recusado pela metade, e um suplemento que não é barato acaba na pia.",
-          "O motivo é comum a quase todo pó rico em proteína e leite: quando muito líquido encontra o pó de uma vez, só a camada de fora molha, fica gelatinosa e forma uma capa que protege o miolo seco. Mexer com mais força não resolve, porque a colher apenas empurra as bolinhas de um lado para o outro.",
-          "A solução não é truque de blog. A própria Nestlé indica, na página do produto, o contrário de despejar tudo: começar com pouco líquido, formar uma pasta e só depois completar. É o que chamamos aqui de método da pasta."
+          "Quem prepara suplemento em pó conhece a cena: o líquido entra todo de uma vez, e o pó fica em bolinhas secas ou grudado no fundo do copo.",
+          "A Nestlé orienta começar com pouco líquido, formar uma pasta e só depois completar. O passo a passo abaixo separa as medidas por versão; confira a indicação da sua lata."
         ],
         "bullets": []
       },
@@ -50603,7 +50569,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI (10% OFF)",
+      "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI: 10% OFF no valor dos produtos. Confira no carrinho se o desconto se aplica.",
       "label": "Ver Nutren Senior na Nestlé Nutre",
       "url": "https://www.nestlenutre.com.br/nutren-senior",
       "sponsored": true
@@ -50731,7 +50697,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Máquinas compatíveis, pela página oficial: Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me.",
-          "Como usar: remova o suporte de cápsula regular, insira o adaptador e coloque a cápsula NEO; para espresso, use 1 \"tracinho\" de água e, para lungo, 4 \"tracinhos\". Tracinho é cada nível de volume; o guia do adaptador explica o preparo por máquina.",
+          "Como usar: remova o suporte de cápsula regular, insira o adaptador e coloque uma cápsula NEO da seleção compatível. Prepare somente com água quente. Para espresso, use 1 \"tracinho\" de água e, para lungo, 4 \"tracinhos\". Cada tracinho é um nível de volume; siga o guia do adaptador para os comandos da sua máquina.",
           "Preço: o adaptador custava R$ 69,90 em promoção (de R$ 89,90) na consulta de 30/09/2026; o preço do dia está na página oficial."
         ],
         "image": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
@@ -50814,7 +50780,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Também existem acessórios de terceiros que prometem usar outros sistemas na Dolce Gusto. Há adaptadores para Nespresso à venda em varejistas, como o Nexcap na Amazon.com.br, e cápsulas reutilizáveis para Dolce Gusto no mesmo varejo, todos de terceiros; siga o manual da máquina.",
           "No nosso comparativo entre Dolce Gusto, Nespresso e 3 Corações, já avisamos: os formatos de cápsula são diferentes, adaptadores de terceiros podem afetar a vedação ou o funcionamento da máquina, e o certo é seguir sempre o manual.",
-          "Não testamos cápsulas reutilizáveis e não prometemos resultado nem economia: os relatos de quem usa variam muito. A máquina trabalha com água quente sob pressão (a Arno informa até 15 bar na Genio S Touch), então vale seguir as instruções do manual."
+          "Sobre as cápsulas reutilizáveis, não há como prometer resultado nem economia: os relatos de quem usa variam muito. A máquina trabalha com água quente sob pressão (a Arno informa até 15 bar na Genio S Touch), então vale seguir as instruções do manual."
         ],
         "links": [
           {
@@ -50827,7 +50793,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar cápsulas Dolce Gusto e usar o cupom CECI",
         "paragraphs": [
           "A loja oficial (nescafe-dolcegusto.com.br) vende as cápsulas Original e NEO. A opção \"Monte sua caixa\", com 50 ou 100 cápsulas escolhidas por você, é anunciada com frete grátis. Para pedidos de bebidas (não para máquinas), as páginas da loja informam condições de frete grátis diferentes: uma sem valor mínimo, na página do adaptador, e outra para pedidos acima de R$ 100, na página de sabores. Não conte com as duas ao mesmo tempo; vale a condição exibida no carrinho do seu pedido.",
-          "O cupom CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, confira na página do cupom aqui no site. Confira no carrinho se o desconto entrou antes de pagar: a soma com combos e outras campanhas pode variar."
+          "O cupom CECI oferece 10% OFF em produtos elegíveis na loja oficial, em compras a partir de R$ 100. A página do cupom aqui no site reúne as regras. Confira no carrinho se o desconto entrou antes de pagar: a soma com combos e outras campanhas pode variar."
         ],
         "links": [
           {
@@ -50939,7 +50905,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O FiberMais Sem Sabor entra no café, nas bebidas e nas refeições, sempre ao final do preparo e sem ferver. A medida é 3 colheres de chá na lata e 1 sachê duas vezes ao dia nos sachês. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+          "A Nestlé orienta acrescentar o FiberMais Sem Sabor ao fim do preparo, sem ferver. A dose muda conforme a apresentação: 3 colheres de chá na lata de 260 g ou 1 sachê de 5 g duas vezes ao dia. Na Nestlé Nutre, o cupom CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       },
       {
@@ -50950,11 +50916,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 1.643835616438356,
         "paragraphs": [
-          "Nem sempre é simples conciliar a rotina da cozinha com o consumo adequado de fibras. Frutas, verduras, leguminosas e cereais continuam importantes na alimentação; um suplemento não substitui a variedade que esses alimentos oferecem. Quando há indicação de suplementação, uma opção sem sabor pode facilitar a inclusão do produto nas preparações que já fazem parte do dia a dia.",
-          "Este guia trata do FiberMais Sem Sabor, nas apresentações de lata de 260 g e sachês de 5 g. A Nestlé descreve a fórmula como uma combinação de goma guar parcialmente hidrolisada, também conhecida pela sigla PHGG, e inulina. São fibras de origem vegetal. As versões com sabor ou com colágeno têm características próprias e não devem receber automaticamente as mesmas medidas e informações nutricionais.",
-          "A fabricante diz que o Sem Sabor mistura a alimentos e bebidas sem alterar sabor, cheiro ou textura — característica declarada, não testada aqui. No preparo, a referência é mexer até a dissolução completa, em vez de prometer que qualquer mistura ficará pronta em um número fixo de segundos.",
-          "A classificação como fibra solúvel também não permite concluir, por si só, que o produto suporta qualquer temperatura ou substitui uma avaliação nutricional. Para usar na cozinha, as informações mais úteis são a apresentação correta, a quantidade indicada no rótulo e o momento de incorporar à receita.",
-          "Lata e sachês têm medidas diferentes: uma colher de sopa não equivale a um sachê. Confira também o rótulo da unidade adquirida, especialmente se houver mudança de formulação ou embalagem."
+          "O FiberMais Sem Sabor, nas apresentações de lata de 260 g e sachês de 5 g, é descrito pela Nestlé como uma combinação de goma guar parcialmente hidrolisada (PHGG) e inulina, fibras de origem vegetal. As versões com sabor ou colágeno têm rótulo próprio.",
+          "A fabricante apresenta o Sem Sabor para misturar em alimentos e bebidas sem alterar sabor, cheiro ou textura. Mexa até dissolver, seguindo as instruções da apresentação.",
+          "Lata e sachês têm recomendações diferentes, detalhadas a seguir. O suplemento não substitui a variedade de frutas, verduras, leguminosas e cereais."
         ],
         "bullets": [],
         "links": [
@@ -50966,6 +50930,92 @@ export const reviewsData: unknown[] = [
           {
             "label": "Informações e recomendação de uso do FiberMais Sem Sabor em sachês de 5 g",
             "href": "https://www.nestlenutre.com.br/fibermais-sem-sabor-display-10-sache-5",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Lata ou sachê: medidas, informação nutricional e cuidados de uso",
+        "paragraphs": [
+          "A lata (260 g) indica 3 colheres de chá (7,6 g) ao dia; os sachês (5 g), 1 sachê duas vezes ao dia (10 g no total). São recomendações de apresentações distintas, não medidas equivalentes. A necessidade individual deve ser discutida com um profissional de saúde.",
+          "A necessidade e a tolerância ao suplemento são individuais. Siga o rótulo e a orientação profissional, sem aumentar a quantidade por conta própria.",
+          "A ingestão de líquidos varia com idade, condições de saúde e restrições; siga a orientação do seu médico ou nutricionista.",
+          "A tabela abaixo reproduz os valores informados nas páginas oficiais, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
+          "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
+          "Na compra pela Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A soma com outras promoções depende da campanha; confira o desconto no carrinho."
+        ],
+        "bullets": [],
+        "comparisonTable": {
+          "caption": "FiberMais Sem Sabor: lata de 260 g e caixa com 10 sachês de 5 g, conforme páginas oficiais consultadas em 02/10/2026",
+          "headers": [
+            "Informação",
+            "Lata de 260 g",
+            "Caixa com 10 sachês de 5 g"
+          ],
+          "rows": [
+            [
+              "Recomendação diária informada",
+              "3 colheres de chá (7,6 g)",
+              "1 sachê duas vezes ao dia (10 g no total)"
+            ],
+            [
+              "Porção da tabela nutricional",
+              "7,6 g",
+              "10 g (2 sachês)"
+            ],
+            [
+              "Valor energético por porção declarada",
+              "16 kcal",
+              "21 kcal"
+            ],
+            [
+              "Fibras alimentares por porção declarada",
+              "6,6 g",
+              "8,7 g"
+            ],
+            [
+              "Açúcares totais / adicionados por porção",
+              "0,3 g / 0,3 g",
+              "0,4 g / 0,4 g"
+            ],
+            [
+              "Sódio por porção declarada",
+              "5,8 mg",
+              "7,6 mg"
+            ],
+            [
+              "Rendimento calculado na referência diária informada",
+              "Aproximadamente 34 porções de 7,6 g (260 dividido por 7,6)",
+              "5 porções de 10 g (10 sachês divididos por 2)"
+            ],
+            [
+              "Diferença prática",
+              "É necessário medir a quantidade de pó",
+              "Cada sachê contém 5 g, sem necessidade de medir com colher"
+            ],
+            [
+              "Comparação de custo",
+              "Divida o preço da lata por 260 g e compare a oferta vigente",
+              "Divida o preço da caixa por 50 g e compare a oferta vigente"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Guia do cupom Nestlé Nutre CECI e regras de 10% OFF",
+            "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
+          },
+          {
+            "label": "Conferir produtos elegíveis e condições do cupom CECI de 10%",
+            "href": "/cupons/nestle-nutre"
+          },
+          {
+            "label": "Como tomar Nutren Senior sem empelotar: método da pasta",
+            "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
+          },
+          {
+            "label": "Conferir as apresentações de FiberMais na loja oficial Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/fibermais",
             "sponsored": true
           }
         ]
@@ -51055,92 +51105,6 @@ export const reviewsData: unknown[] = [
           {
             "label": "Receita de chocolate quente cremoso no site oficial FiberMais",
             "href": "https://www.fibermais.com.br/receitas/chocolate-quente-cremoso-fibermais"
-          }
-        ]
-      },
-      {
-        "heading": "Lata ou sachê: medidas, informação nutricional e cuidados de uso",
-        "paragraphs": [
-          "A lata (260 g) indica 3 colheres de chá (7,6 g) ao dia; os sachês (5 g), 1 sachê duas vezes ao dia (10 g no total). São recomendações de apresentações distintas, não medidas equivalentes. A necessidade individual deve ser discutida com um profissional de saúde.",
-          "A necessidade e a tolerância ao suplemento são individuais. Siga o rótulo e a orientação profissional, sem aumentar a quantidade por conta própria.",
-          "A ingestão de líquidos varia com idade, condições de saúde e restrições; siga a orientação do seu médico ou nutricionista.",
-          "A tabela abaixo reproduz os valores informados nas páginas oficiais, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
-          "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
-          "Na compra pela Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A soma com outras promoções depende da campanha; confira o desconto no carrinho."
-        ],
-        "bullets": [],
-        "comparisonTable": {
-          "caption": "FiberMais Sem Sabor: lata de 260 g e caixa com 10 sachês de 5 g, conforme páginas oficiais consultadas em 02/10/2026",
-          "headers": [
-            "Informação",
-            "Lata de 260 g",
-            "Caixa com 10 sachês de 5 g"
-          ],
-          "rows": [
-            [
-              "Recomendação diária informada",
-              "3 colheres de chá (7,6 g)",
-              "1 sachê duas vezes ao dia (10 g no total)"
-            ],
-            [
-              "Porção da tabela nutricional",
-              "7,6 g",
-              "10 g (2 sachês)"
-            ],
-            [
-              "Valor energético por porção declarada",
-              "16 kcal",
-              "21 kcal"
-            ],
-            [
-              "Fibras alimentares por porção declarada",
-              "6,6 g",
-              "8,7 g"
-            ],
-            [
-              "Açúcares totais / adicionados por porção",
-              "0,3 g / 0,3 g",
-              "0,4 g / 0,4 g"
-            ],
-            [
-              "Sódio por porção declarada",
-              "5,8 mg",
-              "7,6 mg"
-            ],
-            [
-              "Rendimento calculado na referência diária informada",
-              "Aproximadamente 34 porções de 7,6 g (260 dividido por 7,6)",
-              "5 porções de 10 g (10 sachês divididos por 2)"
-            ],
-            [
-              "Diferença prática",
-              "É necessário medir a quantidade de pó",
-              "Cada sachê contém 5 g, sem necessidade de medir com colher"
-            ],
-            [
-              "Comparação de custo",
-              "Divida o preço da lata por 260 g e compare a oferta vigente",
-              "Divida o preço da caixa por 50 g e compare a oferta vigente"
-            ]
-          ]
-        },
-        "links": [
-          {
-            "label": "Guia do cupom Nestlé Nutre CECI e regras de 10% OFF",
-            "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
-          },
-          {
-            "label": "Conferir produtos elegíveis e condições do cupom CECI de 10%",
-            "href": "/cupons/nestle-nutre"
-          },
-          {
-            "label": "Como tomar Nutren Senior sem empelotar: método da pasta",
-            "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
-          },
-          {
-            "label": "Conferir as apresentações de FiberMais na loja oficial Nestlé Nutre",
-            "href": "https://www.nestlenutre.com.br/fibermais",
-            "sponsored": true
           }
         ]
       },
@@ -52059,7 +52023,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "10 cm de altura e enchimento gomo a gomo",
         "paragraphs": [
-          "Muito protetor vendido como pillow top tem poucos centímetros e achata rápido. O Magnum tem **10 cm de altura quando afofado**, diz a marca. O detalhe do \"quando afofado\" importa: ele chega embalado e precisa ser aberto e descansar antes de ganhar o volume total (os passos estão logo abaixo).",
+          "O Magnum tem 10 cm de altura quando afofado, segundo a marca. Ele chega comprimido na embalagem e precisa ser aberto e descansar antes de ganhar volume; os passos estão abaixo.",
           "O enchimento é feito gomo a gomo: cada quadrado costurado recebe sua própria porção de AirFiber. A I Wanna Sleep compara com a manta acrílica comum, que é uma camada contínua, e diz que os gomos distribuem a fibra sem acumular em um canto da cama."
         ],
         "image": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-altura.webp",
@@ -52083,7 +52047,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Depende da origem do incômodo. Um colchão muito firme pode concentrar pressão em ombros e quadris, principalmente em quem dorme de lado. Nesse caso, uma camada de conforto por cima pode deixar a cama mais acolhedora sem trocar o colchão inteiro.",
           "O que o pillow top não faz é tratar problema de coluna. Hérnia de disco, dor que dura semanas, dor que irradia para as pernas ou que piora com o tempo precisam de avaliação de médico ou fisioterapeuta. E se o colchão já está afundado, o pillow top vai acompanhar o buraco: aí o problema é a base, não a superfície.",
-          "Por isso a pergunta certa antes de comprar é: **o meu colchão está firme demais ou está gasto?** Se está firme e em bom estado, o pillow top é uma solução mais barata do que um colchão novo. Se está gasto, o dinheiro rende mais em outro colchão."
+          "Antes de comprar, confira se o colchão está em bom estado e se o que você quer mudar é a superfície. O pillow top acrescenta uma camada por cima; ele não corrige afundamentos nem recupera uma base gasta."
         ]
       },
       {
@@ -52186,13 +52150,13 @@ export const reviewsData: unknown[] = [
         "heading": "Sleeptest: dá para trocar se não gostar?",
         "paragraphs": [
           "A I Wanna Sleep tem o programa Sleeptest, e para pillow tops o prazo é de **30 dias**. Pelas regras publicadas pela marca, a troca exige pelo menos 15 dias de uso, dentro dos 30 dias do recebimento, com o produto em perfeito estado, etiqueta e embalagem originais e nota fiscal.",
-          "A troca é feita como crédito, sem custo para o cliente, e compras do site são trocadas pelo próprio site. Guarde a embalagem até ter certeza: é ela que garante a troca se o pillow top não combinar com o seu sono."
+          "Pelo [regulamento do Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest), a troca é feita como crédito, e compras do site seguem pelo próprio site. A embalagem original é uma das condições: guarde-a junto com a nota fiscal e confira os demais critérios antes de pedir a troca."
         ]
       },
       {
         "heading": "Veredito: para quem o Magnum vale a pena",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena para um caso bem específico: **colchão em bom estado que ficou firme demais**. Nessa situação, ele custa uma fração de um colchão novo, adiciona 10 cm de conforto e ainda tem 30 dias de Sleeptest para tirar a dúvida na prática. Na página do produto, na mesma data dos preços da tabela, a nota exibida era 4,9 de 5, com 238 avaliações.",
+          "O Magnum faz sentido como opção para quem mantém um colchão em bom estado e quer uma camada mais macia na superfície. A marca informa 10 cm quando afofado e oferece Sleeptest de 30 dias, com as condições de troca do capítulo anterior. Na página do produto, na mesma data dos preços da tabela, a nota era 4,9 de 5, com 238 avaliações. Compare o custo com o que você pretende gastar antes de decidir.",
           "Se o colchão já está gasto, ou se a dor nas costas é antiga e persistente, o melhor investimento é outro: um colchão novo ou uma consulta. Pillow top é conforto, não tratamento."
         ],
         "links": [
@@ -52281,7 +52245,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual Ninho comprar",
         "paragraphs": [
-          "Para café, vitamina, bolo e recheio, o Ninho certo é o Leite Ninho Integral, que é leite em pó de verdade. Os outros são compostos lácteos, fórmula infantil ou semidesnatado, e o nome na frente da embalagem diz qual é. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto em fórmulas de 0 a 12 meses."
+          "Para café, vitamina, bolo e recheio, o Ninho certo é o Leite Ninho Integral, que é leite em pó de verdade. Os outros são compostos lácteos, fórmula infantil ou semidesnatado; o nome na frente da embalagem diz qual é. Na Nestlé Nutre, o cupom CECI dá 10% OFF, exceto em fórmulas de 0 a 12 meses, Alfamino e Alfaré."
         ]
       },
       {
@@ -52296,13 +52260,14 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/nutren/ninho-integral-instantaneo-oficial.webp",
         "imageAlt": "Foto oficial da Nestlé: lata de Leite Ninho Integral Instantâneo de 380 g",
         "imageCaption": "Ninho Integral Instantâneo: leite em pó integral enriquecido com vitaminas e minerais.",
-        "imageFit": "square"
+        "imageFit": "square",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "Ninho Fases 1+ e Fases 3+: o que muda",
         "paragraphs": [
           "O **Ninho Fases 1+** é uma fórmula infantil de seguimento para crianças de 1 a 3 anos, com prebióticos (FOS e inulina) na lista de ingredientes. Na tabela da loja, ele tem 4,2 g de açúcares adicionados a cada 100 g de pó, e o preparo segue o de fórmula: água fervida, resfriada a cerca de 70 °C, e colher-medida nivelada.",
-          "O **Ninho Fases 3+** é um composto lácteo com óleos vegetais e fibras para crianças a partir de 3 anos, com ferro, cálcio, zinco e vitaminas A, C, D, E e do complexo B.",
+          "O **Ninho Fases 3+** é um composto lácteo com óleos vegetais e fibras formulado para crianças em fase pré-escolar (tradicionalmente a partir de 3 anos; embalagens recentes da Nestlé também identificam a versão Idade Escolar para 4 a 10 anos). Ele traz ferro, cálcio, zinco e vitaminas A, C, D, E e do complexo B. Confira sempre a faixa indicada na frente da lata.",
           "O Guia Alimentar do Ministério da Saúde para menores de 2 anos recomenda manter a amamentação e não oferecer alimentos com açúcar adicionado nessa idade. A escolha do leite da criança é uma conversa para ter com o pediatra ou nutricionista."
         ],
         "image": "/images/reviews/nutren/ninho-fases-1-e-3-oficial.webp",
@@ -52340,7 +52305,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual Ninho usar em bolo e recheio",
         "paragraphs": [
           "Quando uma receita de bolo de Ninho ou recheio de Ninho pede \"leite Ninho\", ela está falando do **Leite Ninho Integral**, o leite em pó. É ele que dá o sabor e a cor clara que todo mundo procura.",
-          "Composto lácteo e fórmula têm outros ingredientes e custam mais por quilo; para cozinhar, o leite em pó integral é a escolha mais simples e mais barata.",
+          "Para cozinhar, escolha o produto identificado no rótulo como leite em pó integral. Compostos lácteos e fórmulas têm outros ingredientes; compare o preço por quilo se quiser saber qual embalagem custa menos.",
           "O Ninho Integral Instantâneo também serve: leite em pó integral que dissolve em qualquer temperatura, diz a Nestlé. Para polvilhar o bolo pronto, peneire o leite em pó por cima na hora de servir."
         ],
         "image": "/images/reviews/nutren/ninho-bolo-receitas-nestle-oficial.webp",
@@ -52466,10 +52431,10 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A escolha depende do uso, e o nome técnico na frente da embalagem diz o que o produto é."
         ],
-        "emphasis": "Pelos números da tabela, para a cozinha a escolha é o Integral Instantâneo, porque os compostos custam mais por pacote e não são leite.",
+        "emphasis": "Para bolo e recheio, a escolha é o Leite Ninho Integral ou Integral Instantâneo, porque a receita pede leite em pó integral. O nome técnico na embalagem ajuda a distinguir dos compostos e das fórmulas.",
         "bullets": [
           "Café, vitamina, bolo e recheio: **Leite Ninho Integral**, o leite em pó. O Integral Instantâneo também serve, e custava R$ 19,81 (lata de 380 g) na Nestlé Nutre.",
-          "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. A partir de 3 anos, o Fases 3+ é composto lácteo. A escolha do leite da criança é conversa para ter com o pediatra ou nutricionista.",
+          "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. Para crianças maiores (a partir de 3 ou 4 anos, dependendo da versão do Fases 3+ ou Idade Escolar), o produto é composto lácteo. Na dúvida, converse com o pediatra ou nutricionista.",
           "Família: o Forti+ Fibras e o Zero Lactose são compostos lácteos, e o Ninho Adulto é leite semidesnatado.",
           "Comprar com desconto: na Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (**CECI**) deu 10% no nosso teste de checkout, e a assinatura reduz o preço de parte da linha."
         ]
@@ -52546,7 +52511,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "25% de desconto e frete grátis em todos os pedidos",
-      "Cupom CECI (10%) somou com a assinatura no nosso teste",
+      "Cupom CECI somou com a assinatura no nosso teste",
       "Geração 1 e NEO na mesma assinatura",
       "Cancela sem multa até 1 dia antes do pedido"
     ],
@@ -52578,7 +52543,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Preço por caixa de 10 cápsulas no montador da assinatura, conferido no montador",
+          "caption": "Preço por caixa de 10 cápsulas no montador da assinatura. Confirme o preço atual antes de contratar.",
           "headers": [
             "Linha",
             "Preço cheio",
@@ -52638,7 +52603,7 @@ export const reviewsData: unknown[] = [
             "Caixas por mês",
             "Preço cheio",
             "Na assinatura (25%)",
-            "Assinatura + CECI (10%)"
+            "Com CECI de 10%, se aceito na assinatura (simulação)"
           ],
           "rows": [
             [
@@ -52665,7 +52630,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Quem toma pouco café não precisa receber todo mês. Com a entrega a cada 2 ou 3 meses, dá para juntar o consumo num pedido maior: 6 caixas a cada 2 meses, por exemplo, em vez de 3 todo mês. Assim o pedido passa dos R$ 100 e o cupom CECI pode entrar.",
+          "Quem toma pouco café pode escolher entregas a cada 2 ou 3 meses. Um exemplo é receber 6 caixas a cada 2 meses, em vez de 3 todo mês. Assim o pedido supera o mínimo de R$ 100 do CECI.",
           "O CECI vale para compras a partir de R$ 100. No nosso teste, ele entrou com subtotal de R$ 119,60, que ficou em R$ 89,70 depois dos 25%, por isso a tabela considera o subtotal antes do desconto. O checkout pode arredondar alguns centavos."
         ]
       },
@@ -52676,7 +52641,7 @@ export const reviewsData: unknown[] = [
           "Foi o que aconteceu no dia da leitura dos preços. Na página de Sabores, o Espresso de 10 cápsulas estava de R$ 25,90 por R$ 17,90 na compra avulsa, e o combo de 8 caixas de Espresso saía com 32% de desconto:"
         ],
         "comparisonTable": {
-          "caption": "Espresso Geração I, caixa de 10 cápsulas, preços do site oficial",
+          "caption": "Espresso Geração I, caixa de 10 cápsulas: assinatura, oferta avulsa e simulação com código. Confirme preço e elegibilidade atuais.",
           "headers": [
             "Forma de compra",
             "Preço por caixa",
@@ -52703,7 +52668,7 @@ export const reviewsData: unknown[] = [
               "Conforme o carrinho"
             ],
             [
-              "Assinatura + cupom CECI (10%)",
+              "Assinatura + CECI de 10%, se aceito (simulação)",
               "R$ 17,48",
               "R$ 1,75",
               "Grátis"
@@ -52717,14 +52682,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na prática, a assinatura não promete o menor preço de todos os dias. Ela garante um preço previsível, sem precisar caçar promoção, e **frete grátis em qualquer pedido**, o que pesa mais em compras pequenas. As promoções avulsas mudam de sabor e de valor com frequência, e nem sempre o seu café preferido está entre elas.",
+          "A assinatura mantém o desconto de 25% do plano e o frete grátis; o valor em reais depende do preço das caixas. Na compra avulsa, as promoções mudam de sabor e de valor. Compare os dois totais antes de cada entrega, especialmente se houver oferta no seu café preferido.",
           "Vale criar o hábito de olhar a loja antes de cada entrega. Os produtos da assinatura podem ser alterados até 2 dias antes do pedido, e dá para pular ou antecipar uma entrega por ano. Se uma promoção grande aparecer, você pode aproveitar avulso e ajustar a assinatura."
         ]
       },
       {
         "heading": "O cupom CECI soma com a assinatura?",
         "paragraphs": [
-          "Somou. Essa era uma dúvida nossa também, porque o item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
+          "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. Essa era uma dúvida nossa também, porque o item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
           "Num dos nossos testes fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
         ],
         "image": {
@@ -52760,8 +52725,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Cada caixa saiu por cerca de **R$ 21,31**, e o desconto total foi de R$ 34,38, quase 29% do subtotal. Com o CECI de hoje, de 10%, o mesmo pedido sairia por cerca de R$ 80,73.",
-          "Para usar no seu pedido, digite CECI no campo de cupom do checkout e confira se a linha do desconto aparece no resumo antes de concluir. Se ela não aparecer, a assinatura segue normalmente com os 25%."
+          "No pedido de teste, cada caixa saiu por cerca de **R$ 21,31**, e o desconto total foi de R$ 34,38. Como simulação, se o CECI de 10% for aceito sobre o valor após os 25%, o mesmo pedido sairia por cerca de R$ 80,73.",
+          "Digite CECI no campo de cupom do checkout e confira a linha do desconto. Se o código não for aplicado, compare o total da assinatura com a compra avulsa antes de concluir o pedido."
         ],
         "links": [
           {
@@ -52823,18 +52788,18 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre o valor da assinatura",
         "bullets": [
           "Assinatura Dolce Gusto vale a pena? Vale para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses e quer desconto fixo de 25% com frete grátis. Em épocas de promoção forte, a compra avulsa pode sair mais barata.",
-          "Quanto custa a assinatura Dolce Gusto? Não há mensalidade: você paga as caixas com 25% de desconto. A caixa de Geração I regular, com 10 cápsulas, sai por R$ 19,43.",
-          "Qual é a assinatura mais barata da Dolce Gusto? O pedido mínimo, de 3 caixas de Geração I regulares, fica em cerca de R$ 58 por entrega.",
+          "Quanto custa a assinatura Dolce Gusto? Não há mensalidade: você paga as caixas com 25% de desconto. A caixa de Geração I regular, com 10 cápsulas, sai por R$ 19,43 com o desconto; o montador mostra o preço atual.",
+          "Qual é a assinatura mais barata da Dolce Gusto? O pedido mínimo é de 3 caixas por entrega. Com caixas de Geração I regulares, sai em cerca de R$ 58 por entrega; os preços atuais estão no montador.",
           "A assinatura mostra o preço com desconto? Sim: no montador, cada caixa já aparece com os 25%, e o preço cheio fica riscado ao lado.",
           "A assinatura Dolce Gusto dá máquina grátis? Não. O plano de 2018 com máquina grátis foi encerrado, e hoje a Mini Me de brinde vem da promoção por volume de caixas.",
-          "O cupom CECI acumula com a assinatura Dolce Gusto? No nosso teste, sim: o CECI somou com os 25% da assinatura. Hoje ele dá 10%.",
+          "O CECI acumula com a assinatura Dolce Gusto? No nosso teste, o código de 5% somou com os 25% da assinatura. Hoje o CECI é de 10%; confira no checkout se ele entra na assinatura.",
           "A promoção de caixas com Mini Me vale na assinatura? Não. O regulamento diz que promoções do site não se somam às compras da assinatura.",
           "Dá para pagar a assinatura parcelado? Não. A assinatura aceita só cartão de crédito Visa, Mastercard ou Elo, sem parcelamento."
         ]
       }
     ],
     "cta": {
-      "text": "Monte sua assinatura no site oficial e digite CECI no checkout para conferir o desconto extra.",
+      "text": "Monte sua assinatura, digite CECI no checkout e confira no resumo do pedido se o desconto foi aplicado.",
       "label": "Montar minha assinatura",
       "url": "https://www.nescafe-dolcegusto.com.br/assinatura",
       "sponsored": true
@@ -53744,7 +53709,7 @@ export const reviewsData: unknown[] = [
           "O balanço é o recurso mais procurado e faz sentido: o embalo suave ajuda muitos bebês a relaxar e poupa você de ninar em pé pela casa. Mas ele não é obrigatório. Uma poltrona fixa, firme e na altura certa resolve a mamada; o balanço é um conforto a mais, não o critério principal.",
           "Se escolher balanço, preste atenção em duas coisas. A primeira é o barulho: estalos e rangidos são justamente o que você não quer às três da manhã, então vale ler avaliações de compradores procurando por essas palavras. A segunda é a estabilidade: o movimento precisa ser curto e firme, sem dar a sensação de que a poltrona vai tombar para trás quando você se apoia para levantar.",
           "O giro é outro recurso que parece detalhe e não é. Girando, você alcança a água, a fralda ou o celular na mesinha sem torcer o tronco com o bebê no colo. Na nossa DAMIE 2.0, que tem base com giro e balanço, o giro foi justamente o recurso que eu mais subestimei antes de usar. E o balanço tem me surpreendido: ajuda a acalmar as crianças com aquele embalo de colo.",
-          "Nas poltronas com puff dos marketplaces, o balanço costuma vir de uma base de madeira curva e não há giro. Nas reclináveis elétricas, giro e balanço ficam na base. Na DAMIE, o giro é de 180°, e não de 360° como às vezes aparece por aí."
+          "Nas poltronas com puff dos marketplaces, o balanço costuma vir de uma base de madeira curva. Nas DAMIE elétricas 1.0 e 2.0 com base de giro e balanço descritas aqui, o giro informado é de 180°. A Aurora, apresentada abaixo, é outro modelo: manual, com puff e giro de 360°."
         ],
         "links": [
           {
@@ -53789,7 +53754,7 @@ export const reviewsData: unknown[] = [
           "A poltrona de amamentação se divide em três grupos, e nenhum é certo para todo mundo: depende do orçamento, do espaço e do uso depois da amamentação. Os preços abaixo mudam com frequência.",
           "Poltrona fixa com puff. É a porta de entrada. Um exemplo é a poltrona com puff da Dreamy House vendida na Amazon: estrutura de eucalipto, revestimento em suede, puff com pés de rosca, sem balanço, por R$ 469 (R$ 445,55 no Pix). Atende quem precisa gastar pouco, mas a garantia do fabricante é de 3 meses, e há avaliações de compradores relatando assento que deforma rápido. Leia as avaliações antes de decidir.",
           "Poltrona com balanço e puff. É a mais procurada nos marketplaces. No Mercado Livre, a maioria dos modelos com balanço e puff estava entre R$ 550 e R$ 1.000. A Áquila, com balanço e puff, é um dos modelos mais conhecidos e custava R$ 862 na versão bege. Antes de comprar, compare medidas, revestimento, prazo de garantia e as avaliações sobre barulho no balanço.",
-          "Reclinável elétrica com giro e balanço. É o grupo da DAMIE, que vende a reclinável elétrica com base de giro e balanço nas versões 1.0 e 2.0, de R$ 4.299 a R$ 5.699 conforme o revestimento. Você reclina o encosto e levanta o apoio de pés por botão, sem fazer força, até 145°, e ainda tem giro de 180° e balanço. A marca dá 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. Custa bem mais, e a lógica é outra. A poltrona de amamentação tradicional costuma ser usada por um ou dois anos e depois fica no quarto da criança como decoração. A reclinável continua na sala depois da amamentação e, com opcionais como mesa de apoio, luminária e carregador de celular, vira canto de trabalho, leitura ou cinema."
+          "Reclinável elétrica com giro e balanço. É o grupo da DAMIE, que vende a reclinável elétrica com base de giro e balanço nas versões 1.0 e 2.0, de R$ 4.299 a R$ 5.699 conforme o revestimento. Você reclina o encosto e levanta o apoio de pés por botão, sem fazer força, até 145°, e ainda tem giro de 180° e balanço. A marca dá 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. Custa bem mais, e a lógica é outra. Depois da amamentação, tanto uma fixa com puff quanto uma reclinável podem servir para leitura ou descanso. Na reclinável, os ajustes por botão e opcionais como mesa, luminária e carregador permitem outros usos; avalie se você quer esses recursos na sala."
         ],
         "comparisonTable": {
           "caption": "Comparação das três faixas de preço, com preços consultados em 6 de outubro de 2026.",
@@ -53832,8 +53797,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Depois da amamentação",
-              "Costuma virar decoração no quarto da criança",
-              "Costuma virar decoração no quarto da criança",
+              "Leitura ou descanso; o puff continua separado",
+              "Leitura ou descanso, com balanço e puff separado",
               "Sala, leitura, trabalho ou cinema, com opcionais"
             ]
           ]
@@ -53913,7 +53878,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A poltrona que usamos aqui em casa",
         "paragraphs": [
-          "A nossa história com a poltrona reclinável começou antes do Ian. Ela já fazia parte da sala, em linho bege, e ganhou uma função nova quando ele nasceu. Ajustar a inclinação pelo botão, sem fazer força, foi o que mais fez diferença nas mamadas da madrugada: quando ele estava agitado, eu deixava o encosto mais reto; quando dormia, reclinava devagar e aproveitava para descansar também.",
+          "A nossa história com a poltrona reclinável começou antes do Ian. Ela já fazia parte da sala, em linho bege, e ganhou uma função nova quando ele nasceu. Ajustar a inclinação pelo botão, sem fazer força, foi o que mais fez diferença nas mamadas da madrugada: quando ele estava agitado, eu deixava o encosto mais reto; quando dormia, reclinava devagar e aproveitava para descansar também. Para o sono do bebê, a orientação da [Academia Americana de Pediatria](https://www.healthychildren.org/english/ages-stages/baby/sleep/pages/Preventing-SIDS.aspx) é colocá-lo de barriga para cima, em superfície firme e plana própria para dormir, e não adormecer com ele no colo na poltrona.",
           "Hoje temos também a DAMIE 2.0 elétrica com giro e balanço, em corino caramelo. Em relação à primeira versão, a 2.0 trouxe almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos parecem bobagem, mas guardam paninho, fralda e garrafa de água ao alcance da mão.",
           "Isso não quer dizer que uma reclinável elétrica seja a única escolha certa. Ela foi a nossa porque a poltrona ia continuar na sala depois da amamentação e porque o ajuste sem esforço fazia diferença para mim. Se o orçamento ou o espaço apertam, uma boa poltrona com puff e braço firme resolve a fase de amamentação."
         ],
@@ -53933,7 +53898,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se o orçamento está apertado e o uso vai ser só na fase de amamentação, uma poltrona fixa ou com balanço e puff cumpre o papel. Priorize braço firme, assento que não afunde e boas avaliações sobre durabilidade, mesmo que isso signifique pagar um pouco mais dentro dessa faixa.",
           "Se o quarto é pequeno, prefira um modelo compacto e pense onde o puff vai ficar, ou considere uma reclinável cujo apoio de pés recolhe, desde que caiba aberta.",
-          "Se você quer uma poltrona para continuar usando depois, na sala, para ler, trabalhar ou ver filme, ou se reclinar sem esforço é importante para você, a reclinável elétrica com giro e balanço é a escolha que vai durar mais na casa.",
+          "Se você quer uma poltrona para continuar usando na sala, compare o espaço, os apoios e os recursos que pretende usar para ler, trabalhar ou ver filme. A reclinável elétrica permite ajustar a posição por botão; uma poltrona com puff também pode continuar útil depois da amamentação.",
           "Antes de fechar a compra, passe por este checklist:"
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela vira poltrona de sala depois da amamentação.",
@@ -53970,7 +53935,7 @@ export const reviewsData: unknown[] = [
           "Qual o melhor tecido para poltrona de amamentação? O mais fácil de limpar é o corino, que sai com pano úmido. Em cidade quente, o linho é mais fresco, mas mancha com mais facilidade. O ideal é escolher pelo clima e manter um paninho no braço da poltrona.",
           "Tem poltrona de amamentação para quarto pequeno? Tem. Procure modelos compactos e meça o espaço com a poltrona aberta. Com puff, conte o espaço do puff no chão; na reclinável, conte o comprimento reclinada e a folga para girar.",
           "Vale a pena comprar poltrona de amamentação usada? Pode valer, desde que você teste ao vivo: balanço ou reclinação sem barulho, espuma firme, tecido sem manchas e, se for elétrica, motor funcionando nas duas direções.",
-          "A poltrona DAMIE gira 360°? Não. A reclinável DAMIE com base de giro e balanço gira 180°, reclina até 145° e tem balanço suave, segundo a marca.",
+          "A poltrona DAMIE gira 360°? Depende do modelo. As elétricas 1.0 e 2.0 com base de giro e balanço descritas aqui giram 180° e reclinam até 145°, segundo a marca. A Aurora tem giro de 360°, reclinação manual e puff separado.",
           "O cupom CECILIA12 vale para a poltrona de amamentação da DAMIE? Vale. O CECILIA12 dá 12% OFF em todo o site da DAMIE, inclusive nas reclináveis com giro e balanço, e soma com as promoções e brindes ativos, mas não com outro cupom."
         ]
       }
@@ -54043,7 +54008,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual a diferença entre poltrona de amamentação e poltrona reclinável",
         "paragraphs": [
-          "A poltrona de amamentação é a dos primeiros meses do bebê; a reclinável, a do descanso de anos. O assento tem altura média, os braços são largos para apoiar o antebraço e o encosto fica numa inclinação fixa, mais reta. Muitos modelos têm base de balanço e vêm com um puff separado para os pés. É o móvel que costuma aparecer no quarto do bebê nas listas de enxoval.",
+          "A poltrona de amamentação tradicional costuma ter encosto mais reto, braços para apoiar o antebraço e, em muitos modelos, base de balanço e puff separado. Ela pode servir na fase do bebê e continuar útil depois, dependendo da casa.",
           "A poltrona reclinável foi feita para descansar. O encosto deita e o apoio de pés sobe da própria estrutura, por alavanca ou por motor. Existem reclináveis de base fixa, que só reclinam, e reclináveis com base de giro e balanço, que juntam as duas coisas. Elas costumam ficar na sala, mas muita gente leva uma para o quarto do bebê ou amamenta na da sala, como foi o nosso caso.",
           "No meio do caminho existem poltronas de amamentação reclináveis, vendidas nos marketplaces com encosto de algumas posições e puff. São mais baratas que as reclináveis de sala, mas a reclinação costuma ser manual. Antes de comprar uma delas, leia as avaliações procurando por barulho, trava e firmeza do encosto."
         ]
@@ -54052,7 +54017,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que cada uma faz melhor na rotina de amamentação",
         "paragraphs": [
           "Na mamada em si, o que importa é o mesmo nas duas: braço firme na altura certa para apoiar o bebê, costas encostadas e pés apoiados. Uma poltrona de amamentação bem escolhida e uma reclinável com o encosto mais reto fazem esse papel.",
-          "A diferença aparece depois. Quando o bebê dorme no peito e você não quer mexer nele, a reclinável deixa você deitar o encosto e subir as pernas para descansar junto. Com o Ian, era isso que eu fazia de madrugada: encosto mais reto enquanto ele mamava agitado, e reclinava devagar quando ele dormia. Numa poltrona de encosto fixo, esse descanso fica limitado à inclinação que ela tem.",
+          "Com o Ian, eu mantinha o encosto mais reto para amamentar e ajustava a inclinação pelo botão. O descanso do adulto precisa ficar separado do sono do bebê: a [AAP](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Preventing-SIDS.aspx) orienta não adormecer na poltrona ou no sofá com o bebê no colo. Para dormir, coloque o bebê de barriga para cima em uma superfície firme e plana, própria para sono, como o berço.",
           "Na hora de levantar, a poltrona de amamentação costuma ser mais simples: assento firme, pés no chão, você levanta e leva o bebê para o berço. Na reclinável, é preciso primeiro fechar o apoio de pés e voltar o encosto, o que pede um movimento a mais. Na elétrica, isso é feito pelo botão, sem tranco; na manual, depende de empurrar o apoio com as pernas.",
           "O balanço para ninar pode existir nas duas. Muitas poltronas de amamentação têm base de balanço, e as reclináveis com base de giro e balanço também embalam. Já uma reclinável de base fixa não balança."
         ],
@@ -54070,7 +54035,7 @@ export const reviewsData: unknown[] = [
               "Funciona bem com o encosto mais reto"
             ],
             [
-              "Descanso entre mamadas",
+              "Descanso do adulto, com o bebê no berço",
               "Limitado à inclinação fixa do encosto",
               "Deita o encosto e sobe as pernas pelo botão"
             ],
@@ -54101,7 +54066,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Depois da amamentação",
-              "Costuma ficar no quarto da criança como decoração",
+              "Pode seguir em uso para leitura e descanso ou ser vendida ou doada",
               "Vira poltrona de sala, leitura, trabalho ou cinema"
             ]
           ]
@@ -54238,8 +54203,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Depois da amamentação: o que acontece com cada poltrona",
         "paragraphs": [
-          "Esse é o ponto que mais pesa na conta e que pouca gente considera na hora do enxoval. A poltrona de amamentação tradicional costuma ter um tempo de uso curto dentro de casa: um ou dois anos. Quando a amamentação acaba, ela continua inteira, mas perde a função. Na maioria das casas, fica no quarto da criança como peça de decoração até chegar a hora de trocar os móveis do quarto.",
-          "A reclinável segue outro caminho. Ela nunca foi um móvel de bebê: é uma poltrona de sala que serviu para amamentar. Quando essa fase passa, ela continua sendo usada todos os dias, para descansar depois do trabalho, ler, ver filme ou simplesmente tirar um cochilo com as pernas para cima. Isso vale para qualquer base da DAMIE, da manual à com giro e balanço.",
+          "Antes de comprar, pense no destino da poltrona depois da amamentação. Um modelo tradicional também pode continuar em uso para leitura e descanso, ser vendido ou doado. Se você pretende usá-lo só no quarto do bebê, considere esse período na conta.",
+          "A reclinável também pode continuar na sala para leitura, filmes ou descanso. Aqui em casa, foi esse o caminho da poltrona que usamos na amamentação do Ian.",
           "Os opcionais da DAMIE ajudam nessa mudança de uso. No configurador da marca, mesmo na versão mais simples, dá para incluir:"
         ],
         "bullets": [
@@ -54257,8 +54222,8 @@ export const reviewsData: unknown[] = [
         "heading": "Poltrona de amamentação vale a pena? A conta do tempo de uso",
         "paragraphs": [
           "A pergunta de quanto vale cada uma depende menos do preço e mais de quanto tempo a poltrona vai ser usada. A fase mais intensa de amamentação dura meses; uma poltrona de sala pode ficar na casa por anos.",
-          "Com os preços consultados, a conta fica assim: a Áquila de R$ 862 usada por um ano sai por cerca de R$ 72 por mês. A reclinável DAMIE com giro e balanço, a partir de R$ 4.299, chega aos mesmos R$ 72 por mês se for usada por cinco anos. Com o cupom CECILIA12, o preço de partida cai para R$ 3.783,12, e o mês de uso em cinco anos fica perto de R$ 63.",
-          "Ou seja: a reclinável só compensa a diferença se continuar útil depois da amamentação, e é exatamente isso que acontece quando ela fica na sala e ganha outros usos. Se a ideia é usar a poltrona só no quarto do bebê e depois passar adiante, a poltrona de amamentação tradicional é a escolha mais econômica.",
+          "Como exemplo: a Áquila de R$ 862 usada por um ano representa cerca de R$ 72 por mês. A DAMIE com giro e balanço, a partir de R$ 4.299, chega a cerca de R$ 72 por mês se for usada por cinco anos; com o CECILIA12, a R$ 3.783,12, seriam cerca de R$ 63 por mês. São períodos hipotéticos, sem incluir frete, manutenção ou eventual revenda.",
+          "A reclinável dilui o preço de compra se continuar útil por mais tempo, mas uma poltrona tradicional também pode ganhar outros usos. Compare o preço que cabe agora no orçamento com o uso que você prevê.",
           "E se a dúvida for comprar ou não um móvel para amamentar? Dá para começar no sofá ou na cama, com almofadas. Foi o que eu fiz nas primeiras semanas com o Ian, até a lombar, o pescoço e o braço sem apoio começarem a reclamar. Se as mamadas longas estão pesando no corpo, uma poltrona com braço firme faz diferença."
         ],
         "links": [
@@ -54286,17 +54251,22 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
+            "label": "Ver regras e validade do cupom CECILIA12",
+            "href": "/cupons/damie"
+          },
+          {
             "label": "Como usar o CECILIA12 na DAMIE",
-            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=amamentacao-vs-reclinavel-cupom"
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=amamentacao-vs-reclinavel-cupom",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Posso usar uma poltrona reclinável para amamentar? Pode. Com o encosto mais reto, ela funciona na mamada, desde que o braço seja firme e fique na altura certa. A vantagem é poder reclinar para descansar quando o bebê dorme. Se ela for de base fixa, só não vai ter balanço para ninar.",
+          "Posso usar uma poltrona reclinável para amamentar? Com o encosto mais reto, braço firme e apoio na altura certa, ela pode ser usada para a mamada enquanto você está acordada. Não adormeça com o bebê no colo na poltrona ou no sofá. O sono do bebê deve ser de barriga para cima, em superfície firme e plana, como o berço.",
           "Poltrona de amamentação vale a pena? Vale se as mamadas longas estão pesando no corpo e você não tem um lugar confortável com braço firme. Se a poltrona vai ser usada só nessa fase, um modelo com balanço e puff é a opção mais econômica.",
-          "O que fazer com a poltrona de amamentação depois que o bebê cresce? Na maioria das casas, ela fica no quarto da criança como decoração até a próxima troca de móveis, ou é vendida e doada. Por isso o tempo de uso costuma ser de um ou dois anos. Uma reclinável, ao contrário, continua sendo usada na sala para descanso, leitura, trabalho ou cinema.",
+          "O que fazer com a poltrona de amamentação depois que o bebê cresce? Ela pode continuar em uso para leitura e descanso, ser vendida ou doada. Na nossa casa, a reclinável que acompanhou a amamentação continuou na sala.",
           "Qual a diferença entre poltrona de amamentação e reclinável? A de amamentação tem encosto fixo, braços largos e, muitas vezes, balanço e puff. A reclinável deita o encosto e sobe o apoio de pés, e pode ter base fixa ou de giro e balanço.",
           "Reclinável manual ou elétrica para amamentar? Elétrica. Com o bebê no colo, reclinar e fechar o apoio de pés pelo botão é mais fácil e mais suave do que usar uma alavanca e empurrar o apoio com as pernas.",
           "Existe poltrona de amamentação reclinável? Existe. Os marketplaces vendem poltronas de amamentação com encosto de algumas posições e puff, geralmente de reclinação manual. Elas ficam no meio do caminho, em preço e em recursos.",
@@ -54325,7 +54295,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Comparação com a nossa poltrona e lojas consultadas. Podemos receber comissão pelos links.",
+    "editorialNote": "Comparação com a nossa poltrona e informações das lojas. A DAMIE nos enviou a 2.0 citada em parceria. Podemos receber comissão pelo CECILIA12 e pelos links, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "poltrona-de-amamentacao-como-escolher"
@@ -54565,7 +54535,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como não cair em desconto falso",
         "bullets": [
-          "**Compare com a tabela de outubro.** O preço riscado no site é o cheio, que quase ninguém paga: em outubro, a Genio S Basic já estava R$ 200 abaixo dele.",
+          "**Compare com a tabela de outubro.** O preço riscado no site é o preço cheio. Em outubro, a Genio S Basic já estava R$ 200 abaixo dele; use esse preço como referência para avaliar a oferta.",
           "**Some o frete.** O banner da Black Friday dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos; o carrinho mostra se o seu pedido entrou.",
           "**Confira o sistema.** Cápsula NEO não serve em máquina Original sem o adaptador, e cápsula Original não serve em máquina NEO.",
           "**Escolha a voltagem com calma.** No combo da Mini Me, ela é escolhida no carrinho e não pode ser trocada depois.",
@@ -54576,12 +54546,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Dolce Gusto? Já começou no site oficial, com promoções novas todos os dias, e o grande dia é a última sexta-feira de novembro, dia 27. Em 2023 e 2024, a campanha da Nestlé durou o mês inteiro.",
+          "Quando começa e quanto dura a Black Friday da Dolce Gusto? A campanha já começou no site oficial, com anúncio de promoções novas todos os dias, e o grande dia é a última sexta-feira de novembro. Em 2023 e 2024, a Nestlé anunciou ofertas durante novembro inteiro.",
           "Quais máquinas estão em oferta na Black Friday da Dolce Gusto? Nos banners, a Mini Me 2.0 a R$ 369,90, a Genio S Basic a R$ 409,90 e a Genio S Plus a R$ 499,90, todas com 30 cápsulas e em 10 vezes sem juros, abaixo do preço de outubro e do anunciado na Black Friday de 2024.",
-          "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S estão abaixo de outubro e ainda vêm com 30 cápsulas. Nas cápsulas, compare a oferta do dia com a régua de 2024 da tabela antes de fechar.",
+          "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S ficaram abaixo dos preços de outubro e incluíam 30 cápsulas. Antes de fechar, compare o valor do seu modelo, a voltagem e o frete. Nas cápsulas, compare a oferta do dia com as referências da tabela.",
           "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. Se ele soma com a oferta do dia, o carrinho mostra antes de pagar.",
           "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro, as promoções partiam de R$ 17,90 e R$ 1,79.",
-          "Cápsula NEO serve na Mini Me ou na Genio S? Não. NEO e Original são sistemas diferentes; com o Adaptador NEO Start, a máquina Original aceita cinco cafés NEO.",
+          "Cápsula NEO serve na Mini Me ou na Genio S? Só com o Adaptador NEO Start, e apenas nos cinco cafés NEO da linha. Sem o adaptador, as cápsulas NEO não servem diretamente nessas máquinas.",
           "A Black Friday da Dolce Gusto tem frete grátis? Tem: o banner da campanha dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos. O carrinho mostra se o seu pedido entrou.",
           "A oferta do dia da Dolce Gusto soma com outras promoções? Não com combo de máquina, combo de bebidas nem resgate de pontos, pelo regulamento do site. Se soma com o cupom CECI, o carrinho mostra antes de pagar."
         ]
@@ -54625,8 +54595,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da DAMIE já está no ar, com poltrona reclinável, três presentes e frete grátis no Sul e Sudeste. Veja os preços de outubro e como o CECILIA12 soma com as promoções.",
-    "metaDescription": "Black Friday DAMIE 2026: o cupom CECILIA12 dá 12% OFF e soma com o Pix. Poltrona com 3 presentes, frete grátis no Sul e Sudeste e preços.",
+    "description": "A campanha da DAMIE anuncia poltrona com três presentes e frete grátis no Sul e Sudeste. Compare os preços de outubro e o desconto do CECILIA12 antes de comprar.",
+    "metaDescription": "CECILIA12 dá 12% OFF na DAMIE e soma com o Pix. Na campanha, poltrona com três presentes e frete grátis no Sul e Sudeste; confira seu CEP.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
     "updatedAt": "2026-11-07",
@@ -54652,7 +54622,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday DAMIE 2026",
         "paragraphs": [
-          "A Black Friday da DAMIE já começou: o Esquenta Black dá três presentes na compra de poltrona e frete grátis no Sul e Sudeste, até 27 de novembro, enquanto durarem os estoques. O CECILIA12 dá 12% OFF e soma com as promoções e o Pix. O que pesa é comparar com o preço de outubro: parte do desconto já existia."
+          "O Esquenta Black da DAMIE anuncia três presentes na compra de poltrona e frete grátis no Sul e Sudeste, até 27 de novembro, enquanto durarem os estoques; confirme o frete pelo CEP. O CECILIA12 dá 12% OFF e soma com as promoções e o Pix; compare o total com os preços de outubro, porque parte do desconto já existia."
         ]
       },
       {
@@ -54667,7 +54637,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a DAMIE anunciou para a Black Friday 2026",
         "paragraphs": [
-          "A campanha vale até o dia da Black Friday, enquanto durarem os estoques: o site abre com as faixas \"A Black Friday chegou antes\" e \"Esquenta Black\", que promete a poltrona com três presentes e frete grátis (no Sul e no Sudeste; nas outras regiões, o frete se confirma pelo CEP no carrinho), e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) lista as condições. A Cyber Monday fica depois desse prazo.",
+          "A campanha vale até o dia da Black Friday, enquanto durarem os estoques. As faixas \"A Black Friday chegou antes\" e \"Esquenta Black\" apresentam a poltrona com três presentes; o frete grátis é para o Sul e o Sudeste, e nas outras regiões se confirma pelo CEP no carrinho. A [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) lista as condições. A Cyber Monday fica depois desse prazo.",
           "Os preços de venda das poltronas, do sofá e da Poltrona Cinema eram os mesmos de antes da campanha. Por isso, o desconto de R$ 1.000 nas poltronas não é novo: é o que já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
         ],
         "bullets": [
@@ -54919,7 +54889,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da DAMIE? Já começou: o Esquenta Black, com a poltrona com três presentes e frete grátis no Sul e no Sudeste, vale até a última sexta-feira de novembro, que é a Black Friday, enquanto durarem os estoques. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
+          "Quando começa e quanto dura a Black Friday da DAMIE? O Esquenta Black já está no ar e vale até a última sexta-feira de novembro, que é a Black Friday, enquanto durarem os estoques, com a poltrona com três presentes e frete grátis no Sul e no Sudeste. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
           "A DAMIE tem Black Friday? Tem em 2026: a página de ofertas da loja traz brindes na compra de poltrona, R$ 1.000 de desconto nas poltronas e desconto por quantidade, até a Black Friday.",
           "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Antes da campanha, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
           "Qual o preço da poltrona DAMIE? Antes da campanha, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
@@ -55286,7 +55256,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Tem uma campanha enxuta: a home da I Wanna Sleep traz os Kits Exclusivos Black, com brindes (dois travesseiros Magnum no Pillow Top, um travesseiro Bubble Gel no cobertor Igloo, meias no Huggy) e até 39% de desconto em kits, sem data de fim publicada. Não encontramos campanha oficial nos anos anteriores: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
           "O que a loja já fazia em outubro era vender o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto, e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
-          "Compare os kits com as tabelas deste guia: o selo só é vantagem se o preço do dia ficar abaixo delas. O carrinho mostra se o cupom entra em cada kit."
+          "Compare os kits com as tabelas deste guia, sempre no mesmo tamanho e composição, porque a referência é histórica. O carrinho mostra se o cupom entra em cada kit, e vale checar se o brinde anunciado serve para você."
         ]
       },
       {
@@ -55341,7 +55311,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+          "O preço riscado é uma referência exibida pela loja, não prova do preço praticado antes. Compare o preço anunciado da mesma versão com o registrado em outubro e confira frete, cupom e pagamento no total do carrinho."
         ],
         "links": [
           {
@@ -55500,14 +55470,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
-          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Simulamos o frete do Pillow Top Magnum casal com o CEP do centro de 12 capitais, e ele saiu grátis em todas.",
-          "Somando um dia útil de folga ao prazo do carrinho, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Na simulação feita em outubro, o Pillow Top Magnum casal teve frete grátis com o CEP do centro de 12 capitais. A loja calcula prazo e frete pelo CEP, então a condição pode mudar para outro endereço ou outro pedido.",
+          "A tabela traz nossa estimativa, com um dia útil de folga, de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira. Ela não é um calendário de entrega garantida."
         ],
         "comparisonTable": {
-          "caption": "Prazo mostrado no carrinho da I Wanna Sleep, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "caption": "Simulação em outubro com um CEP central por capital e o Pillow Top Magnum casal. Datas estimadas por nós, com um dia útil de folga; refaça a consulta com o seu CEP e considere a aprovação do pagamento.",
           "headers": [
             "Capital",
-            "Prazo no carrinho",
+            "Prazo simulado em outubro",
             "Pagar até (estimativa, dezembro)"
           ],
           "rows": [
@@ -55549,7 +55519,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "É uma estimativa com o prazo de outubro: se puder, peça antes, e pague com Pix ou cartão, porque o boleto pode levar até 72 horas para ser aprovado.",
+          "É uma estimativa com o prazo de outubro: se puder, peça antes. Confirme o prazo que aparece agora para o seu CEP e quando ele começa a contar; a aprovação leva até 24 horas no cartão e até 72 horas no boleto.",
           "A política de entrega da loja dá frete grátis acima de R$ 150 em travesseiros, pillow top, cobertores e no resto da linha leve. Abaixo disso, o carrinho mostra o valor para o seu CEP."
         ]
       },
@@ -55563,8 +55533,8 @@ export const reviewsData: unknown[] = [
           "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
           "Tem cupom de primeira compra na I Wanna Sleep? Use o CECIEMCASA, que dá 10% OFF em todo o site, com todas as formas de pagamento.",
           "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. É nelas que se compram colchões e box. Compras feitas no site não são trocadas nas lojas.",
-          "O Pillow Top Magnum fica mais barato na Black Friday? Na leitura de preços, ele já estava com cerca de 14% de desconto, a R$ 1.848 no casal. Se em novembro o preço do dia ficar abaixo disso, o desconto é maior que o de outubro.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos que o carrinho mostrou em outubro e um dia útil de folga, até o dia 15 em São Paulo e no Rio de Janeiro, até o dia 18 em Belo Horizonte e até o dia 7 em Recife."
+          "O Pillow Top Magnum fica mais barato na Black Friday? Em outubro, ele já tinha cerca de 14% de desconto, a R$ 1.848 no casal, antes do cupom e do Pix. Compare o preço da mesma versão com esse valor e confira frete e pagamento no total. Brindes e kits mudam o pacote, então o selo sozinho não mostra economia.",
+          "Até quando comprar para chegar antes do Natal? A tabela traz uma estimativa com prazos de outubro, não uma data limite atual. Consulte o prazo do seu CEP e do produto, e confirme quando a contagem começa após a aprovação do pagamento."
         ]
       }
     ],
@@ -56241,8 +56211,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Month da Nestlé Nutre já começou, com até 25% OFF e mais 10% com o cupom CECI. O Nutren Senior não aparece nos banners; veja os preços para comparar e o prazo do Natal.",
-    "metaDescription": "Black Friday Nutren 2026: o cupom CECI dá 10% OFF e soma com até 25% do Black Month da Nestlé Nutre. O Nutren Senior, os preços e o Natal.",
+    "description": "A Nestlé Nutre abriu a Black Month 2026. Compare o Nutren Senior com os preços de outubro deste guia e use o cupom CECI, de 10% OFF, nos produtos elegíveis.",
+    "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre. Black Friday Nutren 2026: ofertas da Black Month, preços históricos do Senior e comparação com assinatura.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
     "updatedAt": "2026-11-07",
@@ -56269,15 +56239,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Nutren 2026",
         "paragraphs": [
-          "A Nestlé Nutre já abriu a Black Month: novembro inteiro com até 25% OFF e mais 10% com cupom, e o esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai até 22 de novembro; o Nutren Senior não aparece nos banners. O cupom dos 10% é o [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, com todas as formas de pagamento."
+          "A Black Month da Nestlé Nutre já começou. O [cupom Nestlé Nutre](/cupons/nestle-nutre), CECI, dá 10% OFF nos produtos elegíveis, com todas as formas de pagamento. Para o Nutren Senior, compare o mesmo produto e tamanho com a tabela de outubro: a ausência dele nos banners não diz se há oferta."
         ]
       },
       {
         "heading": "O que já está no ar na Black Month da Nestlé Nutre",
         "paragraphs": [
           "\"Começou a Black Month Nestlé Nutre\", diz a home da loja. Na mensagem que a Nestlé Nutre mandou aos clientes, o Black Month é \"novembro inteiro de ofertas\" nas categorias Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com \"até 25% OFF\" e \"+10% OFF adicional com cupom\". Esse cupom, para quem compra pelo site, é o CECI: 10% OFF, com todas as formas de pagamento. A loja aceita um cupom por pedido, então o CECI entra no lugar de qualquer outro código, não junto.",
-          "Na arte da campanha, pela Nutrição Adulta, aparecem o Nutren Just Protein e o Nutren Control, sem percentual por produto. O Nutren Senior não aparece nela nem no Esquenta Black Friday: até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, de 1º a 22 de novembro ou enquanto durarem os estoques, exceto fórmulas infantis para lactentes e de seguimento para lactentes, pelo banner da loja.",
-          "Para o Nutren Senior, a Creatina e o FiberMais, a régua segue sendo a tabela de outubro deste guia: um selo de desconto só é vantagem se o preço do dia ficar abaixo dela. Para o Just Protein e o Nutren Control, a mesma conta: a tabela deles está mais abaixo. A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro; se o Nutren Senior ganhar oferta até lá, compare com as tabelas.",
+          "A arte de início de novembro, pela Nutrição Adulta, mostra o Nutren Just Protein e o Nutren Control, sem percentual por produto. O esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai de 1º a 22 de novembro ou enquanto durarem os estoques, com até 25% OFF pelo banner da loja, exceto fórmulas infantis para lactentes e de seguimento para lactentes. Esses materiais não mostram todos os produtos em promoção; confira o preço do item escolhido no site.",
+          "Use as tabelas de outubro como referência para o mesmo SKU, tamanho, quantidade e forma de compra. Some o frete e confira o CECI no carrinho. Para o Just Protein e o Nutren Control, a tabela deles está mais abaixo. A Black Friday de 2026 é em 27/11 e a Cyber Monday em 30/11; uma oferta anterior ou posterior pode ser melhor para o seu pedido.",
           "Dois cuidados: o CECI não vale em fórmulas infantis de 0 a 12 meses, e o Nestonutri, para crianças de 1 a 3 anos, segue a indicação do rótulo; na dúvida, o pediatra."
         ]
       },
@@ -56344,7 +56314,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Repare nos kits: o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). Conferimos no carrinho que o preço do kit vale para as duas latas.",
           "A comparação das formas de compra por 100 g, da lata de 370 g ao kit e à assinatura, está em [Nutren Senior: qual tamanho e qual forma de compra compensam](/reviews/nutren-senior-kit-combo-ou-assinatura).",
-          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela. Os preços da loja mudam: confira na página do produto."
+          "Compare o total do pedido para o mesmo produto, quantidade e pagamento. O preço de outubro é uma referência, não o único critério para decidir."
         ],
         "links": [
           {
@@ -56451,10 +56421,10 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "bullets": [
-          "**Assinatura:** a loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias, e o preço de assinatura de cada produto está nas tabelas acima.",
+          "**Assinatura:** a FAQ da loja informa 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias. As tabelas acima registram os preços de assinatura vistos em outubro, sem garantir o valor de uma cobrança futura.",
           "**Regras da assinatura:** uma assinatura ativa por CPF, paga só no cartão de crédito, com frete grátis acima de R$ 200. Dá para pular até duas entregas por ano e cancelar sem custo.",
           "**Compra única com o CECI:** o cupom dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday. Pela nossa conta, a lata de 740 g do Nutren Senior Zero Lactose, de R$ 190,61, sai por R$ 171,55, e o kit com duas latas sem sabor, de R$ 263,49, sai por R$ 237,14.",
-          "**Qual sai mais barato?** Na primeira entrega, os dois caminhos ficaram perto em outubro: na lata zero lactose, R$ 169,43 na assinatura e R$ 171,55 na compra única com o CECI; no kit sem sabor, R$ 237,14 nos dois. Para uma compra de vez em quando, a compra única com o cupom resolve; para quem usa todo mês, a assinatura sobe para 15% a partir da terceira entrega.",
+          "**Qual sai mais barato?** Na referência de outubro, a lata zero lactose custava R$ 169,43 na assinatura e R$ 171,55 na simulação de compra única com o CECI; no kit sem sabor, a conta era R$ 237,14 nos dois caminhos. Para decidir hoje, compare o preço atualizado, o frete e a frequência de reposição. O desconto progressivo da assinatura exige recorrências consecutivas.",
           "**Frete grátis:** acima de R$ 400 na compra única, na transportadora que o site define, e acima de R$ 200 na assinatura. Uma lata de 740 g sozinha não chega a R$ 400; três latas zero lactose passam do valor mesmo com o cupom (R$ 514,65, pela nossa conta)."
         ],
         "links": [
@@ -56473,7 +56443,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Cartão de crédito:** até 6 vezes sem juros, com parcela mínima de R$ 75. Um pedido de R$ 150, por exemplo, sai em 2 vezes de R$ 75.",
           "**Pix:** o QR Code aparece ao fechar o pedido. A loja não anuncia desconto no Pix.",
-          "**Dano, falta de item ou desistência:** avise a loja em até 7 dias da entrega, pelo 0800-770-2461 ou pelo e-mail do atendimento.",
+          "**Dano, falta de item ou desistência:** avise a loja em até 7 dias da entrega, pelo 0800-770-2461 ou pelo atendimento. Em caso de defeito, vale o prazo do Código de Defesa do Consumidor, que pode ser maior. Guarde fotos, nota e protocolo.",
           "**Troca e devolução:** seguem o Código de Defesa do Consumidor e são pedidas pelo atendimento da loja. No cartão, o estorno sai de uma vez, na fatura seguinte ou na outra."
         ],
         "links": [
@@ -56486,7 +56456,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
-          "A Nestlé Nutre não publica prazos por região: a página de cada produto tem um calculador de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail.",
+          "O prazo atual aparece no cálculo de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail. A tabela abaixo usa a simulação de outubro com essa premissa; não é data de entrega contratada para novembro ou dezembro. Refaça o cálculo para o endereço de entrega.",
           "Em outubro, simulamos no calculador o frete de três latas de 740 g do Nutren Senior Zero Lactose (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
@@ -56544,15 +56514,15 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Nestlé Nutre? Já começou: a loja chama novembro de Black Month, \"novembro inteiro de ofertas\" em Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com até 25% OFF e mais 10% com cupom. O esquenta, com até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, vai até o dia 22 ou enquanto durarem os estoques. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte.",
           "Qual cupom usar nos 10% adicionais do Black Month da Nestlé Nutre? O CECI: 10% OFF, com todas as formas de pagamento, sobre os preços da campanha. A loja aceita um cupom por pedido, e o CECI não vale em fórmulas infantis de 0 a 12 meses.",
-          "O Nutren Senior entrou na Black Friday da Nestlé Nutre? Ele não aparece na arte do Black Month, que traz o Just Protein e o Nutren Control pela Nutrição Adulta, nem no banner do esquenta. Pode haver desconto na página do produto mesmo assim: compare o preço do dia com as tabelas de outubro deste guia; se ficar abaixo, o desconto é maior que o de outubro.",
+          "O Nutren Senior entrou na Black Friday da Nestlé Nutre? A ausência dele numa arte não permite concluir que a linha esteja fora. Confira o SKU que você procura e compare o preço atual com a referência de outubro deste guia.",
           "Quanto custa o Nutren Senior 740 g? Na leitura de outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
-          "O Nutren Senior fica mais barato na Black Friday? Em outubro, ele já estava abaixo do preço riscado, e o kit com duas latas saía por cerca de R$ 131,75 a lata. Se em novembro o preço do dia ficar abaixo das tabelas deste guia, o desconto é maior que o de outubro.",
-          "O cupom CECI vale para o Nutren Senior? Vale. O CECI dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday: pela nossa conta, a lata zero lactose de R$ 190,61 sai por R$ 171,55.",
+          "O Nutren Senior fica mais barato na Black Friday? Depende do produto e da oferta. Compare o mesmo SKU, tamanho, quantidade, pagamento e frete. Na tabela de outubro, o kit de duas latas sem sabor aparecia a R$ 263,49; isso não é preço atual nem comprova economia de toda a linha.",
+          "O cupom CECI vale para o Nutren Senior? Vale nos itens elegíveis da loja, com 10% OFF, todas as formas de pagamento e soma com os preços da Black Friday. Sobre o preço histórico de R$ 190,61 da lata zero lactose, a simulação dá R$ 171,55. Confira o preço atual e o desconto no carrinho.",
           "Quais produtos ficam fora do cupom CECI? Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Nos demais produtos da loja, o cupom dá 10% OFF.",
           "A Nestlé Nutre tem frete grátis? Tem, acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
-          "Como funciona a assinatura da Nestlé Nutre? A loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, com entregas a cada 30, 60 ou 90 dias. É uma assinatura por CPF, paga no cartão de crédito, e dá para cancelar sem custo.",
+          "Como funciona a assinatura da Nestlé Nutre? São 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, segundo a FAQ da loja. A assinatura é por CPF, paga no cartão de crédito, com entregas a cada 30, 60 ou 90 dias, e dá para cancelar sem custo.",
           "A Nestlé Nutre parcela sem juros? Parcela, em até 6 vezes sem juros no cartão, com parcela mínima de R$ 75. No Pix, a loja não anuncia desconto.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que a loja mostrou em outubro, os dois dias de processamento e um dia útil de folga, pague em dezembro até o dia 16 em São Paulo, até o dia 10 no Rio de Janeiro e até o dia 1º em Manaus."
+          "Até quando comprar para chegar antes do Natal? Pela tabela, com os prazos simulados em outubro, dois dias de processamento e um dia útil de folga: em dezembro, até o dia 16 em São Paulo, até o dia 10 no Rio de Janeiro e até o dia 1º em Manaus. Confira o prazo atual do seu CEP antes de pagar."
         ]
       }
     ],
@@ -61267,15 +61237,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe um melhor entre os três: cada rótulo informa os números numa base diferente, e a escolha depende da dose indicada pelo médico ou nutricionista. O que mais pesa é a lactose e o fato de o Ensure não publicar a tabela por porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren Senior."
+          "Não existe um melhor entre os três: cada rótulo usa uma base diferente, e a escolha depende da dose indicada pelo médico ou nutricionista. O que mais pesa é a lactose, e o Ensure não publica a tabela por porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren Senior."
         ]
       },
       {
         "heading": "Como comparar os três rótulos",
         "paragraphs": [
-          "O que muda de um rótulo para o outro é a base dos números, e é isso que este capítulo explica antes da tabela.",
-          "Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, variando por versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
-          "Para comparar, olhe a mesma coisa nos três: o tamanho da porção, a proteína por dose, o cálcio, a vitamina D, a lactose e o glúten. A tabela abaixo junta o que cada página oficial informa; o glúten fica na seção Lactose e glúten."
+          "A Nutren publica os números por porção de 27,5 g, 31,5 g ou 55 g, conforme a versão; a Sustagen usa 40 g. A página do Ensure orienta 6 medidas por preparo, sem informar o peso em gramas.",
+          "Compare a base de cada número antes de olhar proteína, cálcio e vitamina D. A tabela abaixo reúne os dados publicados pelas marcas; a seção Lactose e glúten trata dessas duas informações."
         ],
         "image": {
           "src": "/images/reviews/nutren/nutren-ensure-sustagen-porcao.webp",
@@ -61381,9 +61350,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ensure Baunilha Pó: o que a Abbott informa",
         "paragraphs": [
-          "O Ensure não publica a tabela por porção: a página informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, \"com alto teor de vitamina C, D, e Cálcio\". Ela diz também que o produto não contém glúten e que a lata vem em 400 g e 850 g.",
+          "Na página do Ensure, a Abbott informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, “com alto teor de vitamina C, D, e Cálcio”. Também informa que o Ensure Baunilha Pó não contém glúten e está disponível em latas de 400 g e 850 g.",
           "O preparo é de 6 medidas em 195 ml de água, e a lata de 400 g rende cerca de 7 porções. A Abbott informa que o Ensure pó contém lactose; só o Ensure Protein não contém.",
-          "O texto da página não traz a tabela por porção. Sem ela, o cálcio e a vitamina D do Ensure não entram na comparação em números: vale o que está impresso na lata."
+          "Para o Ensure, cálcio e vitamina D aparecem só como “alto teor”; para a fórmula que você vai comprar, confira o rótulo da lata."
         ]
       },
       {
@@ -61446,7 +61415,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Não há vencedor entre os três: a escolha segue o que cada pessoa precisa e a orientação do médico ou do nutricionista."
         ],
-        "emphasis": "Pelos números da tabela, para quem precisa evitar lactose a escolha é o Nutren Senior Zero Lactose, porque é o único que informa 0 g de lactose por porção.",
+        "emphasis": "O Nutren Senior Sem Sabor Zero Lactose é o único que informa 0 g de lactose por porção. Zero lactose não significa sem leite: leve essa diferença e o rótulo à consulta.",
         "emphasisAfterParagraph": 1,
         "bullets": [
           "Quem precisa evitar lactose: só o Nutren Senior Sem Sabor Zero Lactose informa 0 g de lactose por porção na tabela oficial; o Sustagen Senior avisa que contém lactose, e a Abbott diz o mesmo do Ensure pó.",
@@ -61465,7 +61434,8 @@ export const reviewsData: unknown[] = [
           "Nutren Senior tem lactose? A versão Sem Sabor Zero Lactose tem 0 g de lactose por porção, segundo a tabela oficial. As páginas do Café com Leite e do Sem Sabor comum não trazem a linha de lactose: confira o rótulo da lata.",
           "Ensure tem lactose? Sim: segundo a Abbott, o Ensure pó contém lactose, e só o Ensure Protein não contém.",
           "Sustagen Senior tem lactose? Sim: o rótulo oficial diz \"contém lactose\".",
-          "Qual tem mais proteína por porção? Depende do tamanho da porção: a tabela do capítulo Os três rótulos lado a lado põe as doses lado a lado, e o Ensure informa 17 g em duas porções, sem dizer o peso delas."
+          "Qual tem mais proteína por porção? Depende do tamanho da porção: a tabela do capítulo Os três rótulos lado a lado põe as doses lado a lado, e o Ensure informa 17 g em duas porções, sem dizer o peso delas.",
+          "Qual é o cupom de desconto da Nestlé Nutre? O cupom CECI dá 10% na loja oficial, em produtos Nestlé Nutre como o Nutren Senior, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Confira no carrinho se ele foi aceito antes de pagar."
         ]
       }
     ],
@@ -61746,7 +61716,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende da altura e da troca. Para acertar a altura em casa, o Snow, da I Wanna Sleep, chega com 18 cm e você tira o enchimento; para ajustar por camadas e receber o dinheiro de volta, a Emma tem 14 noites de teste; para gastar menos, a Ortobom. Veja abaixo o teste e a troca de cada marca."
+          "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, que permite tirar enchimento, com os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca; a Emma, 14 noites com reembolso. Os dois modelos da Ortobom citados custam menos, mas as páginas não informam teste em casa."
         ]
       },
       {
@@ -61885,32 +61855,35 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ortobom: preço menor, teste não informado",
         "paragraphs": [
-          "A Ortobom é a mais barata dos três e não informa teste em casa: o Viscopur custa R$ 169 e o Conforto Regulável, R$ 159. O Viscopur é de espuma viscoelástica, com conforto firme. O Conforto Regulável, apesar de estar na mesma categoria, é de fibra siliconada, macio e com altura regulável.",
-          "As páginas dos dois informam garantia de 90 dias e não falam em noites de teste. A categoria tem outros modelos; olhamos só estes dois."
+          "Os dois modelos da Ortobom são os mais baratos entre os comparados: Viscopur a R$ 169 e Conforto Regulável a R$ 159. O Viscopur é descrito como viscoelástico e firme; o Conforto Regulável, como fibra siliconada, macio e regulável.",
+          "As páginas dos dois informam garantia de 90 dias e não mencionam noites de teste."
         ]
       },
       {
         "heading": "Teste, troca e garantia",
         "bullets": [
           "I Wanna Sleep: 30 dias de teste nos travesseiros, com pelo menos 15 dias de uso. Se você não se adaptar, recebe crédito para trocar por outro produto do site, sem custo de frete. Vale só para compras no site oficial, com a nota fiscal.",
-          "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, informa o site.",
+          "Emma: 14 noites de teste e 6 meses de garantia. A política comercial prevê recolhimento e reembolso total se você não se adaptar. Confira as condições vigentes antes de comprar.",
           "Ortobom: garantia de 90 dias nas páginas do Viscopur e do Conforto Regulável; as páginas não informam noites de teste."
         ],
         "image": {
           "src": "/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp",
           "alt": "Três linhas: calendário com 30 e um vale de troca, lua com 14 e dinheiro de volta, escudo com 90 e uma lua com ponto de interrogação",
-          "caption": "De cima para baixo: a I Wanna Sleep dá 30 dias de teste e crédito para troca; a Emma, 14 noites e o dinheiro de volta; a Ortobom informa 90 dias de garantia e não fala em teste.",
+          "caption": "I Wanna Sleep com 30 dias de teste e crédito para troca; Emma com 14 noites e reembolso; as páginas dos dois modelos Ortobom informam 90 dias de garantia, sem mencionar teste.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "postParagraphs": [
+          "Esses programas são benefícios comerciais e não substituem o prazo legal de arrependimento de 7 dias para compras online."
+        ]
       },
       {
         "heading": "Qual escolher pelo seu jeito de dormir",
         "bullets": [
           "Não sabe que altura prefere: Snow, que você ajusta em casa, ou um modelo da Emma, de camadas.",
           "Já sabe a altura que usa: Original Látex, em 11, 13 ou 15 cm.",
-          "Quer poder devolver e receber o dinheiro: Emma, com 14 noites.",
-          "Quer gastar menos: Ortobom, que não informa teste em casa nos dois modelos que consultamos.",
+          "Prefere um programa de adaptação com reembolso, em vez de crédito: a Emma oferece 14 noites.",
+          "Quer o menor preço da tabela: Viscopur e Conforto Regulável, da Ortobom. As páginas dos dois não informam teste em casa; confirme a condição atual.",
           "Dorme de lado: a Emma lembra que essa posição costuma pedir travesseiro mais alto. Dá para deixar mais enchimento no Snow ou escolher o Antiestress, que a Emma indica para quem dorme de lado."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura se ajusta tirando o enchimento e o teste é de 30 dias."
@@ -61943,7 +61916,7 @@ export const reviewsData: unknown[] = [
           "Travesseiro I Wanna Sleep é bom? Não testamos; a marca dá 30 dias de teste nos travesseiros, com crédito para troca se você não se adaptar.",
           "Travesseiro I Wanna Sleep vale a pena? Depende de como você dorme e de querer ajustar a altura em casa; o quadro mostra os modelos e os prazos de teste.",
           "Travesseiro Emma é bom? Não testamos; a Emma dá 14 noites de teste e 6 meses de garantia nos travesseiros, com reembolso se você não se adaptar.",
-          "Emma ou I Wanna Sleep: qual é melhor? Não há um melhor para todo mundo: o Snow ajusta tirando enchimento, a Emma ajusta por camadas, e só a Emma devolve o dinheiro no teste.",
+          "Emma ou I Wanna Sleep: qual é melhor? Depende do ajuste e da política de adaptação que você prefere. O Snow ajusta por enchimento e a I Wanna Sleep dá crédito para troca; a Emma ajusta por camadas e oferece reembolso em 14 noites.",
           "I Wanna Sleep ou Ortobom: qual escolher? Os dois modelos da Ortobom que consultamos custam menos, mas as páginas deles não informam teste; a I Wanna Sleep dá 30 dias, com crédito para troca.",
           "O travesseiro Snow tem regulagem de altura? Sim: ele chega com 18 cm, e você tira o enchimento até achar a altura mais confortável.",
           "Travesseiro Emma tem regulagem de altura? Sim, por camadas: 2 ou 3, conforme o modelo.",
@@ -61967,8 +61940,8 @@ export const reviewsData: unknown[] = [
         "Você quer um teste de 30 dias, com crédito para troca no site da marca."
       ],
       "skipIf": [
-        "Você quer teste com o dinheiro de volta: a Emma recolhe e reembolsa em 14 noites.",
-        "Você quer gastar menos e abre mão do teste em casa: os dois modelos da Ortobom consultados não informam teste.",
+        "Você prefere que o programa comercial de adaptação ofereça reembolso: a Emma informa recolhimento e reembolso em 14 noites.",
+        "Você procura preço menor e vai confirmar a política de adaptação: os dois modelos da Ortobom são mais baratos, mas as páginas não informam teste.",
         "Você tem dor no pescoço que não passa: procure um ortopedista ou fisioterapeuta antes da troca."
       ]
     },
@@ -63512,7 +63485,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe um melhor no rótulo: o Nutren Protein em pó contém whey, mas também cafeína, lactose e glúten, e quem quer só a proteína do soro quer o Nutren Just Protein. O que pesa é cafeína, lactose e preço por porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+          "Não existe um melhor pelo rótulo: o Nutren Protein em pó tem whey com cafeína, lactose e glúten, e quem quer só a proteína do soro encontra no Nutren Just Protein uma versão isolada e sem sabor. Na loja oficial da Nestlé Nutre, o cupom CECI dá 10% OFF em itens elegíveis."
         ]
       },
       {
@@ -63672,7 +63645,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Protein ou whey protein",
         "paragraphs": [
-          "Pelo rótulo, a diferença principal é o que vem junto da proteína. O pó traz a proteína junto com cafeína, lactose, glúten e vitaminas e minerais (números na tabela acima); quem quer só a proteína do soro está falando do Just Protein. O Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", traz 13 g de proteína em 15 g, com carboidratos e açúcares em 0 g; a tabela dele não tem linha de cafeína nem de vitaminas, e o rótulo lista só proteína isolada do soro de leite de vaca e lecitina de soja.",
+          "A diferença está no que vem junto da proteína. O Nutren Protein em pó traz whey, cafeína, lactose, glúten, vitaminas e minerais. O Just Protein é whey isolado sem sabor: declara 13 g de proteína em 15 g de pó, com carboidratos e açúcares em 0 g, e lista só proteína isolada do soro de leite de vaca e lecitina de soja. Se você evita cafeína, confira o rótulo do Just Protein, porque a tabela dele não informa esse dado.",
           "Se você compara com o whey de outra marca, use o rótulo dele: proteína por porção, tamanho da porção, açúcares e se tem cafeína. A ficha completa do isolado da Nestlé está no nosso guia do Just Protein."
         ],
         "images": [
@@ -63764,7 +63737,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Não existe um melhor no rótulo: cada produto serve a uma necessidade diferente, e a quantidade certa é assunto para o médico ou o nutricionista."
         ],
-        "emphasis": "Pelos números da tabela, para quem quer só a proteína do soro a escolha é o Just Protein, porque ele traz 13 g de proteína em 15 g com açúcares em 0 g.",
+        "emphasis": "Para quem quer só a proteína do soro, o Just Protein é a opção de whey isolado sem sabor: declara 13 g de proteína em 15 g de pó e açúcares em 0 g. Para escolher, confira ingredientes e restrições no rótulo do produto que você vai usar.",
         "bullets": [
           "Quer só a proteína do soro do leite, com carboidratos e açúcares em 0 g na tabela: o Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", com 13 g de proteína em 15 g.",
           "Quer um suplemento com vitaminas e minerais: o Nutren Protein em pó, com 14 g de proteína em 31,5 g, mas também 80 mg de cafeína, lactose e glúten.",
@@ -63803,8 +63776,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "nestle-nutre",
     "decision": {
       "takeIf": [
-        "Você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela.",
-        "Você quer evitar cafeína e glúten: a tabela do Just Protein não lista cafeína e a loja o marca como sem glúten."
+        "Você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela."
       ],
       "skipIf": [
         "Você quer vitaminas e minerais junto da proteína: aí é o Nutren Protein em pó.",
@@ -63840,7 +63812,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A bebida de duas cápsulas Dolce Gusto custa o dobro da de uma, e o combo foi a forma mais barata de comprar. Veja o preço por cápsula, por caixa e por xícara.",
+    "description": "O preço da bebida Dolce Gusto depende de quantas cápsulas ela usa e do valor da caixa. Compare o custo por cápsula, por xícara, no combo e na assinatura.",
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Quanto custa cada bebida Dolce Gusto: preço por cápsula, caixa, xícara, combo e assinatura.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -63856,14 +63828,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: quanto custa cada bebida",
         "paragraphs": [
-          "Na loja oficial, a bebida de duas cápsulas Dolce Gusto custa o dobro da bebida de uma. O que decide o preço da xícara é quantas cápsulas a bebida usa e se a caixa está em promoção. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "O custo da bebida Dolce Gusto é o preço da caixa dividido pelas bebidas que ela prepara. Uma caixa de dez cápsulas faz dez bebidas nas receitas de uma cápsula, ou cinco nas de duas. O CECI dá 10% OFF no site oficial a partir de cem reais."
         ]
       },
       {
         "heading": "Como contar: cápsula, caixa e bebida",
         "paragraphs": [
           "Na loja oficial, a cápsula Dolce Gusto Original custava de R$ 1,79 a R$ 2,89, variando por sabor e promoção do dia. No preço cheio, sem promoção, a caixa de 10 sai a R$ 2,59 ou R$ 2,89 por cápsula.",
-          "O preço da xícara depende de quantas cápsulas a bebida usa. Os cafés pretos, o Café au Lait, chocolates como o Nescau e chás como o Nestea usam uma cápsula por bebida. Cappuccino, Latte Macchiato, Chococino Nestlé e Chai Tea Latte usam duas e custam o dobro por xícara.",
+          "O preço da xícara depende de quantas cápsulas a receita usa e do preço da caixa. Cafés pretos, Café au Lait, Nescau e Nestea usam uma cápsula por bebida. Cappuccino, Latte Macchiato, Chococino Nestlé e Chai Tea Latte usam duas. Com caixas de dez cápsulas ao mesmo preço, a receita de duas custa o dobro por xícara; com preços diferentes, faça a divisão.",
           "A loja vende caixas de 10 cápsulas; só a Starbucks Toffee Nut Latte vem com 12. Na página de cada sabor, o campo \"Cápsulas\" mostra \"x10\" quando cada cápsula faz uma bebida e \"x5 + x5\" quando a caixa traz dois tipos de cápsula, cinco de cada.",
           "No \"x5 + x5\", cada bebida usa as duas cápsulas, e a caixa faz 5 bebidas. É o caso do Cappuccino: a cápsula clara tem o leite em pó, e a escura, o café.",
           "Para chegar ao preço da xícara, divida o preço da caixa pelo número de bebidas. Cappuccino a R$ 17,90: R$ 17,90 ÷ 5 = R$ 3,58 por xícara. Espresso a R$ 17,90: R$ 17,90 ÷ 10 = R$ 1,79."
@@ -64026,10 +63998,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Caixa de 16 e cápsula XL: o que existe hoje",
+        "heading": "Caixa de dezesseis e função XL",
         "paragraphs": [
           "O regulamento da loja fala em caixas de 10, 12 ou 16 cápsulas, mas na leitura não havia caixa de 16 à venda: só as de 10 e a de 12 da Toffee Nut Latte. Para levar mais cápsulas de uma vez, a loja tem o DGusta, de 50 ou 100 cápsulas, e os combos de várias caixas.",
-          "Cápsula XL também não consta do catálogo de hoje: nenhum produto vem marcado com a xícara XL. O XL é uma função de algumas máquinas, não um tipo de cápsula."
+          "Nenhum produto do catálogo atual traz a marcação de cápsula XL. XL é uma função de algumas máquinas, não um tipo de cápsula; confira na sua máquina antes de escolher."
         ],
         "links": [
           {
@@ -64126,10 +64098,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como chegar aos R$ 100 do frete grátis e do cupom CECI",
+        "heading": "Mínimo do CECI e condição de frete",
         "paragraphs": [
-          "Na leitura, a loja dava frete grátis em pedidos de bebidas acima de R$ 100; abaixo disso, o frete é calculado no carrinho. O cupom CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial: R$ 10 a cada R$ 100.",
-          "Com a caixa a R$ 17,90, são 6 caixas (R$ 107,40). Com a caixa a R$ 25,90, 4 caixas (R$ 103,60). Cinco caixas de R$ 19,99 somam R$ 99,95 e ficam abaixo, assim como o combo de 6 caixas de Espresso Intenso, de R$ 99,90."
+          "O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. A promoção de bebidas dava frete grátis acima de R$ 100; são condições distintas, então confira no carrinho se o frete continua gratuito para o seu pedido.",
+          "Antes do código, seis caixas de R$ 17,90 somam R$ 107,40, e quatro de R$ 25,90 somam R$ 103,60. Cinco de R$ 19,99 somam R$ 99,95, e o combo de seis Espresso Intenso, de R$ 99,90, também fica abaixo de R$ 100."
         ],
         "links": [
           {
@@ -64156,7 +64128,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A conta muda com o dia, mas a ordem da leitura foi esta: o combo de caixas teve o menor preço por bebida, a caixa de 10 no preço do dia veio logo depois, e a assinatura ficou mais cara por bebida com a caixa a R$ 17,90."
         ],
-        "emphasis": "Pelos números da tabela, para quem bebe sempre os mesmos sabores a escolha é o combo de caixas, porque teve o menor preço por bebida.",
+        "emphasis": "Pelos números da tabela, o combo teve o menor custo por bebida. Para quem consome os sabores incluídos, vale comparar o total atual antes de escolher.",
         "bullets": [
           "Quem bebe sempre os mesmos sabores: o combo de 6 ou 8 caixas, que teve o menor preço por bebida.",
           "Quem quer misturar sabores numa caixa só: o DGusta, que no Espresso empata com a caixa do dia e no Cappuccino fica mais caro.",
@@ -64194,7 +64166,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "dolce-gusto",
     "decision": {
       "takeIf": [
-        "Você bebe sempre os mesmos sabores e quer o menor preço por bebida."
+        "Você consome os sabores do combo e quer comparar custo por bebida e total com frete antes de comprar."
       ],
       "skipIf": [
         "Você quer misturar sabores numa caixa só: aí é o DGusta, que no Espresso empata com a caixa do dia e no Cappuccino fica mais caro.",
@@ -77576,13 +77548,13 @@ export const reviewsData: unknown[] = [
             [
               "Teste em casa",
               "30 dias, com coleta e reembolso integral",
-              "Nenhum além dos 7 dias do CDC",
+              "Nenhum prazo comercial além dos 7 dias do CDC",
               "10 dias"
             ],
             [
               "Devolução",
               "Reembolso integral nos 30 dias, com coleta",
-              "Pela política da loja, só com o produto lacrado; frete de volta por conta do cliente",
+              "Exigência da loja: apenas lacrado (frete por conta do cliente; consulte regras)",
               "Na embalagem original, sem indícios de uso; frete de volta pago pela loja nos 10 dias"
             ],
             [
@@ -77646,11 +77618,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**DAMIE:** 30 dias. Se você não gostar, a DAMIE coleta o sofá e devolve o valor integral.",
           "**Sofá na Caixa:** 10 dias. A própria marca explica que o prazo legal é de 7 dias e que os 10 dias são um benefício dela. A devolução vale com o sofá na embalagem original, sem indícios de uso, com nota fiscal e acessórios, e o frete de volta nesse prazo é pago pela loja.",
-          "**Inflow:** nenhum período além dos 7 dias de arrependimento que o CDC garante em compra pela internet."
+          "**Inflow:** nenhum prazo comercial além dos 7 dias de arrependimento que o CDC garante em compra pela internet."
         ],
         "postParagraphs": [
           "**A regra da Inflow para devolver.** Pela política de trocas da Inflow, a devolução por arrependimento é aceita com o produto lacrado, sem sinais de abertura, e o frete de volta é do cliente. Depois de aberto, a política da loja só prevê troca por defeito, pela garantia. O CDC garante 7 dias de arrependimento na compra pela internet, e o lacre e o frete são exigências da loja: na dúvida, confirme com a Inflow antes de abrir. Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, o mais seguro, pela regra da loja, é decidir antes de abrir a caixa.",
-          "**A garantia.** A DAMIE dá 1 ano e, depois, suporte vitalício com peças a preço de custo. A Sofá na Caixa dá 3 meses e a Inflow, 3 meses na ficha do produto (a política dela fala em 90 dias para relatar defeito). O CDC já dá 90 dias para reclamar de defeito em produto durável, como sofá. As garantias da Sofá na Caixa e da Inflow têm esse mesmo prazo; a da DAMIE (1 ano) é a única que passa dele."
+          "**A garantia.** A DAMIE dá 1 ano e, depois, suporte vitalício com peças a preço de custo. A Sofá na Caixa dá 3 meses e a Inflow, 3 meses na ficha (a política dela fala em 90 dias para relatar defeito). O CDC já dá 90 dias para reclamar de defeito em produto durável, como sofá; só a garantia da DAMIE passa desse prazo, com 1 ano."
         ]
       },
       {
@@ -77721,7 +77693,7 @@ export const reviewsData: unknown[] = [
         "heading": "E a reputação das três no Reclame Aqui?",
         "paragraphs": [
           "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026), conferidos no mês de outubro. A nota da Inflow foi relida depois: 8,5 (o print abaixo mostra 8,6).",
-          "Hoje **a Inflow tem o melhor selo** (RA1000) e a maior taxa de solução, 94%. A DAMIE tem selo Ótima e a resposta mais rápida, 13 horas. A Sofá na Caixa tem selo Regular e quase 50 vezes mais reclamações que a Inflow no período."
+          "Nesse recorte, a Inflow tinha o selo mais alto entre as três e 94% de solução entre as reclamações avaliadas; a DAMIE tinha selo Ótima e a menor média de resposta, 13 horas. A Sofá na Caixa tem selo Regular e quase 50 vezes mais reclamações que a Inflow no período."
         ],
         "image": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
         "imageAlt": "Painéis do Reclame Aqui dos últimos 6 meses: DAMIE com reputação Ótima e nota 8,3, Inflow com RA1000 e nota 8,6, Sofá na Caixa com reputação Regular e nota 6,1",
@@ -77762,13 +77734,13 @@ export const reviewsData: unknown[] = [
               "100%"
             ],
             [
-              "Resolvidas",
+              "Resolvidas entre as avaliadas",
               "86,7%",
               "94%",
               "56,1%"
             ],
             [
-              "Voltariam a fazer negócio",
+              "Voltariam a comprar, entre avaliadores",
               "76%",
               "75%",
               "49,8%"
@@ -77833,7 +77805,7 @@ export const reviewsData: unknown[] = [
           "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral.",
           "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado entre os modelos comparados, inclusive no Pix. Pese contra os 10 dias de teste, os 3 meses de garantia e o selo Regular.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano.",
-          "**Quem quer o melhor atendimento segundo o Reclame Aqui:** Inflow, com RA1000 e 94% de reclamações resolvidas, lembrando que o histórico dela é curto.",
+          "**Quem valoriza o histórico de atendimento:** a Inflow, com RA1000 e 94% de reclamações resolvidas no recorte do Reclame Aqui, lembrando que o histórico dela é curto.",
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
           "**Quem também está olhando a Valley Modular:** a comparação com ela está em [Valley Modular, Inflow ou DAMIE](/reviews/valley-inflow-ou-damie)."
         ],
@@ -77860,7 +77832,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resumo: quem escolhe o quê",
         "paragraphs": [
-          "Quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço pode olhar a Sofá na Caixa, sabendo que o teste é curto e a garantia é de 3 meses. A Inflow tem a melhor reputação recente no Reclame Aqui, mas sem teste além do prazo legal de 7 dias."
+          "Quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço pode olhar a Sofá na Caixa, sabendo que o teste é curto e a garantia é de 3 meses. A Inflow tem selo RA1000 no Reclame Aqui, mas sem teste além do prazo legal de 7 dias."
         ]
       },
       {
@@ -77939,7 +77911,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá na caixa dura tanto quanto um montado? Resposta rápida",
         "paragraphs": [
-          "Um sofá na caixa pode durar tanto quanto um montado, porque a caixa é só o jeito de entregar. O que decide é a estrutura, as molas ou percintas, a espuma, o tecido e a garantia. Uso o modular da DAMIE há meses, ainda sem anos de uso; a ficha técnica abaixo ajuda a comparar."
+          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano; a ficha técnica abaixo ajuda a comparar."
         ]
       },
       {
@@ -77955,8 +77927,8 @@ export const reviewsData: unknown[] = [
         "heading": "O que faz um sofá durar",
         "paragraphs": [
           "São quatro partes. Vale avaliar cada uma separada, porque uma ficha boa numa delas não compensa um buraco nas outras.",
-          "**Estrutura.** É o esqueleto que segura o peso e o movimento de sentar e levantar. Pergunte de que material ela é feita e qual a espessura. A DAMIE, por exemplo, informa eucalipto grandis maciço tratado em estufa e compensado naval de 15 e 22 mm. A Inflow não publica a estrutura. Quando a ficha não diz, pergunte à loja.",
-          "**Molas ou percintas.** É o que sustenta o assento e o encosto por baixo da espuma. Sofás usam molas, percintas (faixas elásticas) ou as duas, e a ficha precisa dizer qual. A DAMIE informa molas nosag de aço no assento e percintas de 6 cm no encosto. Se a ficha só fala em \"assento macio\" e não cita o que está embaixo, falta informação.",
+          "**Construção de suporte.** Pergunte como o sofá sustenta o peso. Nos modelos com armação, confira material e espessura: a DAMIE informa eucalipto grandis e compensado naval de 15 e 22 mm. Nos modelos de espuma compactada, procure a descrição da espuma e do suporte; não presuma madeira ou metal quando a construção é outra.",
+          "**Molas ou percintas, quando houver.** Em sofás estruturados, pergunte o que sustenta assento e encosto. A DAMIE informa molas nosag de aço no assento e percintas de 6 cm no encosto. Sofás de espuma compactada têm outra construção; a ausência de molas, sozinha, não permite concluir que durarão menos.",
           "**Espuma.** É o que dá o conforto e mantém a aparência de novo. A densidade da espuma é medida em kg/m³, pela norma ABNT NBR 8537, e vale pedir esse número. Ele sozinho não é regra: não dá para concluir \"densidade maior, sofá que dura mais\", porque a espuma trabalha junto com a estrutura e com o que está embaixo dela. A NBR 16031, que trata de ensaios de assento, também avisa que eles não medem a durabilidade da espuma. A DAMIE cita espumas HS e Soft D40S e uma manta de 400 g/m²; a Inflow cita a espuma FlowTech, sem informar a densidade.",
           "**Tecido.** É a parte que você toca e a que mais sofre com uso, sol, bichos e criança. Peça a composição e veja se a limpeza e a retirada do revestimento estão explicadas."
         ],
@@ -77971,8 +77943,8 @@ export const reviewsData: unknown[] = [
           "Vale para qualquer sofá, na caixa ou montado. Se a loja não responde a um item, você está comprando sem saber aquilo."
         ],
         "bullets": [
-          "Material e espessura da **estrutura**, e se a madeira tem tratamento.",
-          "O que sustenta o assento e o encosto: **molas, percintas** ou as duas, e de que tipo.",
+          "Como o sofá sustenta o peso; se tem armação, material, espessura e tratamento declarado.",
+          "Se a construção usa molas ou percintas, quais tipos e onde ficam. Em modelo sem armação, peça a descrição do suporte e da espuma.",
           "**Espuma** do assento e do encosto: tipo e **densidade em kg/m³**.",
           "**Peso suportado** por módulo ou por assento.",
           "**Revestimento**: composição do tecido e como limpar.",
@@ -77985,7 +77957,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A garantia diz muito",
         "paragraphs": [
-          "A garantia é o único número de durabilidade que a loja assina. Entre as três marcas de sofá na caixa deste guia, ela vai de 90 dias a 1 ano:"
+          "A garantia informa por quanto tempo e em quais condições a marca oferece cobertura. Ela não mede a vida útil do sofá. Entre as marcas deste guia, os prazos divulgados vão de 90 dias a 1 ano:"
         ],
         "bullets": [
           "**Inflow:** 90 dias.",
@@ -77993,7 +77965,7 @@ export const reviewsData: unknown[] = [
           "**DAMIE:** 1 ano e, depois, suporte vitalício com peças a preço de custo."
         ],
         "postParagraphs": [
-          "Existe um mínimo que vale para qualquer loja: o Código de Defesa do Consumidor (art. 26, II) dá 90 dias para reclamar de defeito em produto durável, a chamada garantia legal. A garantia da marca é outra proteção, contratual e complementar (art. 50), dada por termo escrito. Na comparação, pesam a duração e o que cada termo cobre, não uma conta de 90 dias a mais ou a menos. Leia também o que a garantia cobre: um ano só para a estrutura e três meses para tudo são promessas diferentes.",
+          "Existe um mínimo que vale para qualquer loja: o CDC dá 90 dias para reclamar de defeito em produto durável. Na comparação, pesam a duração e o que cada termo cobre, não uma conta de 90 dias a mais ou a menos. Leia também o que a garantia cobre: um ano só para a estrutura e três meses para tudo são promessas diferentes.",
           "Outra pergunta que ajuda: a ABNT tem uma norma para sofás, a **NBR 15164**, com requisitos e métodos de ensaio de resistência, durabilidade e estabilidade, em edição nova de 02/2026. Vale perguntar à loja se o sofá foi ensaiado por ela e pedir o relatório ou a declaração. Uma resposta vaga também diz alguma coisa."
         ]
       },
@@ -78044,7 +78016,7 @@ export const reviewsData: unknown[] = [
             [
               "Teste em casa",
               "30 dias, com coleta e reembolso integral",
-              "Nenhum além dos 7 dias do CDC; a política da Inflow exige a caixa lacrada",
+              "Sem teste comercial adicional declarado; a política da Inflow exige a caixa lacrada",
               "10 dias"
             ]
           ]
@@ -78055,7 +78027,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O sofá montado tem duas vantagens claras. Chega pronto: ninguém encaixa módulo nem espera a espuma tomar forma. E, em muitos casos, dá para ir a uma loja física, sentar, deitar e ver o tecido de perto antes de pagar, o que vale muito para quem tem dúvida sobre a firmeza do assento ou a altura do encosto.",
           "O problema aparece na entrega. Um sofá montado é um móvel grande e inteiro, que precisa passar pela portaria, pelo elevador ou pela escada e pela porta do apartamento. Se alguma dessas passagens for estreita, ele pode não entrar.",
-          "É esse ponto que o sofá na caixa resolve: ele entra como uma caixa, não como um sofá inteiro. A vantagem é de logística e não diz nada sobre quanto o sofá dura, que é assunto da ficha técnica."
+          "A entrega em caixas menores pode facilitar esse acesso. Peça as medidas de cada volume embalado e compare com porta, elevador e curvas do caminho. Isso resolve uma questão de logística; não demonstra quanto o sofá dura."
         ]
       },
       {
@@ -78074,7 +78046,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que eu vi depois de meses com o sofá na caixa da DAMIE",
         "paragraphs": [
-          "Uso o sofá modular da DAMIE desde junho de 2026. São meses de uso, não anos:",
+          "Uso o sofá modular da DAMIE há mais de um ano. É tempo de uso real, não de teste de laboratório:",
           "\"O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como se arrepender de comprar um sofá desses.\"",
           "Os itens elétricos são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico.",
           "Contei como foi a decisão de compra e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
@@ -78090,7 +78062,7 @@ export const reviewsData: unknown[] = [
           "A escolha depende mais do seu caso do que da embalagem:"
         ],
         "bullets": [
-          "**Apartamento com porta ou elevador estreito:** o sofá na caixa tem vantagem real, porque o que precisa passar é uma caixa, não o sofá inteiro.",
+          "**Porta, elevador ou escada estreitos:** compare as medidas dos volumes embalados com todo o caminho da entrega. A caixa menor pode ajudar, mas também precisa passar.",
           "**Quem quer sentar antes de comprar:** o sofá montado de loja física leva vantagem. Entre os sofás na caixa, o teste em casa faz esse papel, e a DAMIE dá 30 dias.",
           "**Quem muda de casa ou de layout:** o sofá modular facilita, porque os módulos se separam e se reorganizam. Se a dúvida é o formato, veja [Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto](/reviews/sofa-modular-ou-retratil-qual-escolher)."
         ],
@@ -78105,18 +78077,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resumo: sofá na caixa dura?",
         "paragraphs": [
-          "Sofá na caixa pode durar tanto quanto um montado, desde que a ficha técnica e a garantia sustentem. Para apartamento com acesso estreito ou mudanças frequentes, ele leva vantagem; para quem quer sentar antes de comprar, o montado de loja física ou o teste em casa fazem esse papel."
+          "Sofá na caixa pode durar tanto quanto um montado, conforme a construção e o uso; a ficha técnica ajuda a comparar, e a garantia informa a cobertura. Para acesso estreito, confira as medidas de cada volume; para quem quer sentar antes de comprar, a loja física ou o teste em casa ajudam."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Sofá na caixa dura quanto tempo? Não existe um número confiável de anos. A duração depende do que vai dentro: estrutura, molas, espuma e tecido. Use a ficha técnica e a garantia como sinal.",
-          "Sofá na caixa é bom ou ruim? Nem uma coisa nem outra só pela embalagem. \"Na caixa\" é um jeito de entregar, não de fabricar. O sofá é bom quando a ficha mostra boa estrutura, molas e espuma, e a garantia acompanha.",
+          "Sofá na caixa é bom ou ruim? Não dá para decidir só pela embalagem. Compare a construção, os materiais e as informações da ficha para o tipo de sofá, além da cobertura da garantia.",
           "Sofá na caixa tem qualidade? Pode ter. A qualidade vem dos materiais e da construção, que a ficha técnica descreve. A DAMIE, por exemplo, publica eucalipto grandis maciço, molas nosag de aço no assento e espumas HS e Soft D40S. Marca que não publica esses dados deixa você sem como comparar.",
           "Sofá na caixa ou sofá montado: qual dura mais? A embalagem não responde. Um sofá na caixa com boa estrutura e boa espuma pode durar tanto quanto um montado, e um montado com materiais fracos dura menos. Compare as fichas, não o formato.",
           "O sofá na caixa vem montado ou desmontado? Depende do tipo. O modular pré-estruturado vem em módulos para encaixar (na DAMIE, em menos de 10 minutos, segundo a ficha). O de espuma compactada vem inteiro e ganha forma quando a caixa é aberta.",
-          "O que olhar na ficha técnica de um sofá? Estrutura (material e espessura), molas ou percintas, espuma (tipo e densidade), tecido e peso suportado por módulo ou lugar. Confira também a garantia e o teste em casa.",
+          "O que olhar na ficha técnica de um sofá? Como ele sustenta o peso; em modelos com armação, material e espessura e, quando houver, molas ou percintas. Confira espuma, tecido, peso suportado, garantia e teste em casa.",
           "Qual a garantia de um sofá na caixa? Depende da marca. A DAMIE dá 1 ano e suporte vitalício com peças a preço de custo, a Sofá na Caixa dá 3 meses e a Inflow, 90 dias. Pelo Código de Defesa do Consumidor, o mínimo para reclamar de defeito em produto durável é 90 dias, e a garantia da marca é uma proteção complementar, descrita no termo de cada loja."
         ]
       }
@@ -83851,7 +83823,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do que pesa mais para você. Entre os modelos comparados, a Ortobom tem os travesseiros mais baratos, mas os materiais nem sempre se equivalem; para testar em casa e ter látex natural, a I Wanna Sleep. Altura e firmeza declaradas por cada marca também mudam a escolha."
+          "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural e teste com crédito para troca. Compare construção, altura e condições antes de escolher."
         ]
       },
       {
@@ -83867,7 +83839,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Par a par por material",
         "paragraphs": [
-          "Nos modelos da tabela, a Ortobom tem os preços menores, mas nem sempre o material é o mesmo (a Pluma de Ganso da Ortobom é 100% pluma de ganso; o Pena e Pluma da I Wanna Sleep tem 20% de pluma e 80% de pena). A I Wanna Sleep ganha no ajuste e no látex natural. Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido."
+          "Nos modelos da tabela, a Ortobom tem preços menores, mas nem sempre o material é o mesmo (a Pluma de Ganso da Ortobom é 100% pluma de ganso; o Pena e Pluma da I Wanna Sleep tem 20% de pluma e 80% de pena). A I Wanna Sleep ganha no ajuste e no látex natural. As linhas aproximam modelos de material parecido, sem garantir equivalência."
         ],
         "comparisonTable": {
           "caption": "Dados dos sites oficiais em 16/10/2026, sem códigos de desconto. Preços da Ortobom com São Paulo (capital) como cidade.",
@@ -84095,10 +84067,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura ajustável até 18 cm resolve para quem não sabe a altura.",
+        "emphasis": "Para quem quer variar a altura, o Snow permite retirar enchimento e ajustar até 18 cm. A regulagem permite experimentar alturas; não garante adaptação.",
         "bullets": [
-          "**Para gastar menos nos modelos comparados:** Ortobom. Viscopur a R$ 169; Royal Pillow e Conforto Regulável a R$ 159. Todos com 90 dias de garantia e sem teste em casa informado.",
-          "**Para testar em casa:** I Wanna Sleep, com 30 dias de teste e crédito para troca.",
+          "**Menor preço entre os modelos de entrada comparados:** Royal Pillow e Conforto Regulável da Ortobom, a R$ 159; Viscopur, a R$ 169. Todos têm 90 dias de garantia e sem teste em casa informado.",
+          "**Para experimentar pela política comercial:** I Wanna Sleep, com ao menos quinze dias de uso dentro dos trinta e crédito para troca, conforme as condições publicadas.",
           "**Para látex natural:** o Original Látex da I Wanna Sleep. O Pró Látex da Ortobom tem enchimento de espuma de alta resiliência 100% poliuretano, diz a página.",
           "**Para acertar a altura:** o Snow da I Wanna Sleep, ajustável até 18 cm, ou um dos reguláveis da Ortobom, com duas alturas.",
           "**Pillow top:** a I Wanna Sleep vende pillow top para colchão. Não é travesseiro. A comparação com o HR Gel, da Ortobom, está no capítulo Pillow top."
@@ -84107,9 +84079,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "I Wanna Sleep ou Ortobom: qual escolher? Entre os modelos comparados, para gastar menos, a Ortobom; para testar em casa e ter látex natural, a I Wanna Sleep.",
+          "I Wanna Sleep ou Ortobom: qual escolher? Compare o modelo e o uso: a Ortobom tinha opções de entrada mais baratas nos preços da tabela; a I Wanna Sleep oferecia látex natural e teste com crédito para troca. Não são produtos equivalentes em todos os materiais.",
           "Travesseiro Ortobom é bom? A marca informa a firmeza de cada modelo e 90 dias de garantia, sem teste em casa nas páginas.",
-          "Travesseiro I Wanna Sleep é bom? A marca dá 30 dias de teste, com crédito para troca se você não se adaptar.",
+          "Travesseiro I Wanna Sleep é bom? A ficha e a política ajudam a comparar construção e condições de teste, mas não substituem o uso pessoal. A marca oferece troca por crédito conforme as condições do Sleeptest.",
           "O Pró Látex da Ortobom é de látex? A ficha descreve espuma de alta resiliência 100% poliuretano, com \"Material: Látex\" no campo de material.",
           "Qual a altura do Viscopur da Ortobom? 14 cm, com 40 × 60 cm; a marca o indica para quem dorme de costas ou de bruços.",
           "Qual travesseiro Ortobom tem altura regulável? O Conforto Regulável e o King Premium, em duas alturas cada.",
@@ -84130,11 +84102,11 @@ export const reviewsData: unknown[] = [
     "affiliate": "i-wanna-sleep",
     "decision": {
       "takeIf": [
-        "Você quer testar o travesseiro em casa, com 30 dias e crédito para troca.",
+        "Você aceita as condições do teste: ao menos quinze dias de uso dentro dos trinta, com crédito para outro produto se a troca for aprovada.",
         "Você quer látex natural."
       ],
       "skipIf": [
-        "Você quer gastar menos: entre os modelos comparados, a Ortobom tem os mais baratos, com 90 dias de garantia e sem teste em casa informado.",
+        "Você quer gastar menos: entre os modelos de entrada comparados, a Ortobom tem opções mais baratas; confira o preço do modelo antes de decidir.",
         "Você procura um modelo que a marca indique para quem dorme de costas ou de bruços: o Viscopur, da Ortobom.",
         "Você procura Nápoles, Amore ou Soneca: não estão no catálogo online da Ortobom."
       ]
@@ -84179,9 +84151,9 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "CNPJ ativo nos dados públicos em 16/10/2026, o mesmo do rodapé do site, com matriz e filial em Uberaba (MG)",
+      "CNPJ ativo nos dados públicos, o mesmo do rodapé do site, com matriz e filial em Uberaba (MG)",
       "7 dias corridos para desistir da compra, com o frete de devolução por conta da Belive",
-      "Reputação Ótima no Reclame Aqui, com nota 8,1, em consulta de 16/10/2026",
+      "Reputação Ótima no Reclame Aqui, com nota 8,1, em outubro",
       "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO, contado sem o cupom",
       "Pix com 5% de desconto, que soma com o cupom MAUAD"
     ],
@@ -84216,16 +84188,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Belive é vendida por uma empresa registrada e ativa, e o site oficial publica razão social, CNPJ, trocas e frete. Em 16/10/2026, a reputação no Reclame Aqui era Ótima. O que muda a conta é o frete grátis fora de SP, MG, RJ, DF, GO e do Sul; para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+          "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e tinha reputação Ótima no Reclame Aqui em 16/10/2026. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) reúne o desconto da parceria."
         ]
       },
       {
         "heading": "De quem é a Belive?",
         "paragraphs": [
-          "Sim: empresa registrada e ativa, com o CNPJ ativo nos dados públicos.",
-          "O rodapé do site e o cadastro público de CNPJ apontam a NHD Foods Indústria, Comércio, Importação e Exportação Ltda. como operadora da loja.",
-          "O rodapé traz o CNPJ da filial, 21.541.988/0002-57, ativa desde 2015. A matriz é o CNPJ 21.541.988/0001-76, ativa desde 2014, o mesmo citado na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro público.",
-          "A marca existe **desde 2015**, diz o site."
+          "A empresa está registrada e com CNPJ ativo nos dados públicos. A loja Belive é operada pela NHD Foods Indústria, Comércio, Importação e Exportação Ltda., segundo o rodapé e o cadastro público.",
+          "O rodapé informava o CNPJ 21.541.988/0002-57, da filial ativa desde 2015. A matriz, 21.541.988/0001-76, ativa desde 2014, aparecia na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro.",
+          "A marca afirma no site que existe desde 2015."
         ]
       },
       {
@@ -84264,7 +84235,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito",
         "paragraphs": [
-          "As regras de troca e devolução, para decidir antes de pagar:"
+          "As regras de troca e devolução que a FAQ descreve, para decidir antes de pagar:"
         ],
         "comparisonTable": {
           "caption": "Regras de arrependimento e de defeito da Belive, segundo a FAQ do site",
@@ -84278,7 +84249,7 @@ export const reviewsData: unknown[] = [
             [
               "Arrependimento",
               "7 dias corridos a partir do recebimento",
-              "Pedido formal ao SAC dentro do prazo, com nota fiscal. A FAQ da loja pede o produto na embalagem original, sem uso nem violação",
+              "Pedido formal ao SAC dentro do prazo, com nota fiscal. Exigência da FAQ da loja: produto na embalagem original, sem uso nem violação",
               "Frete de volta por conta da Belive. O valor volta depois da análise interna"
             ],
             [
@@ -84290,7 +84261,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O site não publica prazo para o reembolso e não diz em quantos dias comunicar um defeito. Por isso, abra o pedido logo que perceber o problema e guarde a nota. Se a caixa chegar violada, o site orienta recusar a entrega no ato. A embalagem original é exigência da FAQ da loja: se o produto já foi aberto, escreva ao SAC e guarde a resposta por escrito."
+          "O site não publica prazo para o reembolso nem para comunicar defeito. Por isso, abra o pedido no SAC logo que perceber o problema e guarde a nota. Se a caixa chegar violada, o site orienta recusar a entrega no ato. A embalagem original é exigência da FAQ da loja: se o produto já foi aberto, escreva ao SAC e guarde a resposta por escrito. Se houver recusa do pedido por causa da embalagem, procure orientação do órgão de defesa do consumidor."
         ]
       },
       {
@@ -84327,7 +84298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "No Reclame Aqui, o perfil \"Belive Be Free\" tinha selo **Ótima** nos últimos seis meses e nota **8,1**, na consulta de 16/10/2026. Os números completos estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, o perfil “Belive Be Free” tinha selo **Ótima** e nota **8,1** nos últimos seis meses, em outubro. Os números detalhados de reclamações respondidas e índice de solução estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -84348,18 +84319,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Belive?",
         "paragraphs": [
-          "Do ponto de vista de confiança, sim. A empresa está ativa, o site publica razão social, CNPJ, trocas e frete, e a reputação no Reclame Aqui é Ótima.",
+          "Do ponto de vista de confiança, sim. A empresa responsável tem CNPJ ativo e regras públicas de compra, e a reputação era Ótima no recorte de abril a setembro. Use esses dados junto com o preço, o frete e as condições de atendimento; eles não garantem a entrega nem a sua satisfação.",
           "Três pontos mudam a conta. Se você mora fora de SP, MG, RJ, DF, GO e do Sul, o pedido precisa passar de R$ 300 para ter frete grátis. O site não publica prazo para defeito, então guarde nota e fotos desde a entrega. E o reembolso não tem prazo publicado."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável? Sim, do ponto de vista cadastral: a loja tem CNPJ ativo, razão social no rodapé, trocas publicadas e reputação Ótima no Reclame Aqui em outubro.",
+          "A Belive é confiável? Do ponto de vista cadastral, sim: a NHD Foods tem CNPJ ativo, políticas públicas e reputação Ótima no recorte de abril a setembro. Isso avalia a loja, mas não garante o resultado de toda compra.",
           "A Belive é uma empresa de verdade? Sim. A NHD Foods Indústria, Comércio, Importação e Exportação Ltda. tem matriz e filial ativas nos dados públicos de CNPJ.",
           "Qual é o CNPJ da Belive? O do rodapé do site é 21.541.988/0002-57, da filial. A matriz é 21.541.988/0001-76.",
           "O site da Belive é seguro? O endereço oficial é belivebefree.com.br e usa conexão segura. Ainda assim, confira o domínio antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
-          "Quanto tempo tenho para devolver um produto da Belive? São 7 dias corridos a partir do recebimento, com nota fiscal. A FAQ da loja pede o produto na embalagem original e sem uso. Para defeito, o site não publica prazo.",
+          "Quanto tempo tenho para pedir devolução na Belive? São 7 dias corridos a partir do recebimento, com nota fiscal. A FAQ pede embalagem original e sem uso. Para defeito, o site não publica prazo; guarde fotos e nota e fale com o SAC logo.",
           "A Belive tem frete grátis? Tem: a partir de R$ 170 em SP, MG, RJ, DF e GO, R$ 250 no Sul e R$ 300 nos demais estados, sem contar o cupom.",
           "Tem cupom de primeira compra na Belive? Tem o MAUAD: 10% OFF no carrinho, em todas as formas de pagamento, válido na primeira compra. Não vale no Mercado Livre."
         ]
@@ -84382,7 +84353,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui: nota 8,1 nos 6 meses e 80% das reclamações resolvidas. Veja o que gera queixa e o que fazer se der problema.",
+    "description": "Em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui: nota 8,1 em 6 meses e 80% de resolução entre as avaliadas. Veja o que gera queixa e o que fazer.",
     "metaDescription": "O cupom MAUAD dá 10% OFF no site da Belive. No Reclame Aqui, a reputação era Ótima em outubro de 2026, com nota 8,1 em 6 meses.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
@@ -84394,15 +84365,15 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1",
+      "Reputação Ótima, nota 8,1, na janela de abril a setembro de 2026",
       "100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025",
-      "80% das reclamações resolvidas nos últimos 6 e 12 meses",
+      "80% de resolução entre as reclamações avaliadas nas abas de 6 e 12 meses",
       "Tempo médio de resposta de 1 dia e 2 horas nos últimos 6 meses"
     ],
     "cons": [
       "Nos 12 meses, a reputação cai para Boa (nota 7,8) e só 70% de quem avaliou voltaria a comprar",
       "Nota média do consumidor de 7 nos 6 meses e 6,6 nos 12 meses",
-      "Responder não é resolver: as resolvidas ficaram entre 75% e 80% nas três janelas",
+      "Responder não é resolver: entre as avaliadas, a resolução ficou entre 75% e 80% nas três janelas",
       "Só 15 das 39 reclamações dos últimos 6 meses foram avaliadas"
     ],
     "cta": {
@@ -84429,7 +84400,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta de 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondia a todas as reclamações, mas resolvia entre 75% e 80%: responder não é resolver. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+          "Sim, com a leitura certa: em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
         ]
       },
       {
@@ -84477,7 +84448,7 @@ export const reviewsData: unknown[] = [
               "0"
             ],
             [
-              "Resolvidas",
+              "Resolvidas entre as avaliadas",
               "80%",
               "80%",
               "75%"
@@ -84510,7 +84481,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os 6 meses são a janela mais forte. Nos 12 meses, a nota cai para 7,8 e o \"voltariam\" para 70%. Em 2025, ficaram em 7,5 e 68,8%.",
-          "Esses números têm um limite. Só 15 das 39 reclamações dos últimos 6 meses foram avaliadas, e a nota do consumidor e o \"voltariam\" falam só dessa parte. Eles mostram como a Belive foi avaliada por quem usou o Reclame Aqui, não a experiência de todos os compradores."
+          "Na aba de 6 meses, 15 das 39 reclamações recebidas tinham avaliação. É entre essas avaliadas que se calculam a resolução, a nota do consumidor e a intenção de voltar a comprar. Esses índices descrevem quem reclamou e avaliou no Reclame Aqui; não representam todos os clientes da Belive."
         ],
         "image": "/images/reviews/belive/belive-reclame-aqui-6-e-12-meses.webp",
         "imageAlt": "Abas de 6 e 12 meses do perfil Belive Be Free no Reclame Aqui: 6 meses com reputação Ótima e nota 8,1, 12 meses com reputação Boa e nota 7,8, com os números marcados em amarelo",
@@ -84556,11 +84527,11 @@ export const reviewsData: unknown[] = [
           "Se o pedido der problema, estes são os caminhos:"
         ],
         "bullets": [
-          "**Caixa violada, aberta, rasgada ou muito amassada:** recuse o recebimento na entrega. Com a caixa recusada, a troca sai mais rápido.",
-          "**Produto com defeito:** fotografe os produtos, o lote e a validade, e escreva para sac@nhdfoods.com.br. A troca não sai se houver indício de má manipulação ou mau uso, ou se a ocorrência não puder ser identificada.",
+          "**Caixa violada, aberta, rasgada ou muito amassada:** a Belive orienta recusar o recebimento para facilitar a troca. Se você já recebeu a caixa, fotografe o estado dela e registre o problema no atendimento.",
+          "**Produto com defeito:** fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br. A FAQ informa que a loja analisa a ocorrência e pode negar a troca se identificar mau uso ou não conseguir verificar o problema; guarde o protocolo e as fotos.",
           "**Item faltando ou trocado, rastreio ou endereço, erro ao finalizar ou cancelamento:** use o formulário e escolha o assunto entre Pedidos do site, Produtos e qualidade ou Outros. O formulário pede nome, e-mail, CPF cadastrado e número do pedido. Em caso de qualidade, pede também nome e sabor, lote e validade, e fotos de todos os itens recebidos com as caixas abertas.",
           "**Se o formulário não servir:** escreva para sac@nhdfoods.com.br ou ligue para (34) 3317-6487.",
-          "**Arrependimento:** são 7 dias corridos a partir do recebimento. A FAQ da loja pede o produto na embalagem original, sem sinal de uso ou violação, com nota fiscal; se ele já foi aberto, escreva ao SAC e guarde a resposta por escrito. Faça o pedido formal a sac@nhdfoods.com.br dentro do prazo. O frete da devolução fica por conta da Belive, e o valor é devolvido depois da análise interna. A loja não publica prazo para o reembolso."
+          "**Arrependimento:** são 7 dias corridos a partir do recebimento, com nota fiscal, por pedido formal ao SAC. A FAQ pede o produto na embalagem original, sem sinal de uso ou violação; se ele já foi aberto, escreva ao SAC e guarde a resposta por escrito. O frete da devolução fica por conta da Belive, e o valor volta depois da análise interna. Se houver recusa por causa da embalagem, procure orientação do órgão de defesa do consumidor. A loja não publica prazo para o reembolso."
         ]
       },
       {
@@ -84570,26 +84541,23 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Dá para confiar na Belive?",
+        "heading": "Como usar esses números antes de comprar",
         "paragraphs": [
-          "Sim, com a leitura certa. A reputação era Ótima nos últimos 6 meses e a loja responde a tudo. O limite é a amostra pequena e a resolução, que fica em 80%."
+          "Sim, com a leitura certa: o melhor resultado está na aba de 6 meses, com nota 8,1, mas a resolução ficou em 80% entre as avaliadas e a amostra é pequena. Uma nota Ótima não garante o resultado do seu pedido."
         ],
         "bullets": [
-          "Nota: 8,1 nos 6 meses (Ótima) e 7,8 nos 12 meses (Boa).",
-          "Respondidas: 100%. Resolvidas: 80% nos 6 e nos 12 meses.",
-          "Voltariam a fazer negócio: 80% nos 6 meses e 70% nos 12 meses.",
-          "Tempo médio de resposta: 1 dia e 2 horas nos 6 meses.",
-          "Amostra: 39 reclamações nos 6 meses, 15 avaliadas.",
-          "Problema mais citado: atraso na entrega, com 4,29%.",
-          "Cuidado prático: peça pelo formulário de atendimento, guarde o protocolo e acompanhe a entrega."
+          "Compare os períodos: nos 12 meses, a nota era 7,8 e 70% de quem avaliou disse que voltaria a comprar.",
+          "Abra o perfil antes de pagar para conferir se os índices mudaram.",
+          "Se já houve problema com o pedido, use os canais acima e guarde o protocolo.",
+          "Para saber quem vende e conhecer as regras da loja, continue em [Belive é confiável?](/reviews/belive-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável segundo o Reclame Aqui? Em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.",
+          "A Belive é confiável segundo o Reclame Aqui? Sim, com a leitura certa: em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. Nos 6 meses, só 15 das 39 reclamações recebidas tinham avaliação.",
           "Qual a nota da Belive no Reclame Aqui? Em outubro, a nota era 8,1 nos últimos 6 meses, 7,8 nos últimos 12 meses e 7,5 em 2025.",
-          "A Belive responde às reclamações? Sim, segundo o perfil: 100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025. Responder não é o mesmo que resolver, e as resolvidas ficaram entre 75% e 80%.",
+          "A Belive responde às reclamações? Em outubro, as três abas mostravam 100% respondidas. A resolução, calculada entre as avaliadas, ficou em 80% nas abas de 6 e 12 meses e 75% em 2025.",
           "O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.",
           "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a nota fiscal, por pedido formal ao SAC; a loja pede o produto na embalagem original. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
           "O pedido da Belive pode ser cancelado? Pode, quando o pagamento não é autorizado ou não é identificado no prazo, nos casos de boleto ou Pix. Nesse caso, peça a revisão ao SAC."
@@ -84635,7 +84603,7 @@ export const reviewsData: unknown[] = [
       "O teste de checkout foi com quatro itens em oferta: o valor exato é o do resumo do pedido"
     ],
     "cta": {
-      "text": "Entre na Belive pelo link da parceria e digite o MAUAD no campo \"Código do cupom\" do carrinho. Confira o desconto no resumo antes de pagar.",
+      "text": "Abra o site oficial da Belive e digite MAUAD em \"Código do cupom\", no carrinho. Clique em \"Aplicar cupom\" e confira os 10% no resumo antes de pagar.",
       "label": "Ir para a Belive com o cupom",
       "url": "https://belivebefree.com.br/",
       "sponsored": true
@@ -84658,7 +84626,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Belive](/cupons/belive) é o MAUAD e dá 10% de desconto em todo o site oficial, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções do site e com o Pix, mas não vale no Mercado Livre. O frete grátis conta o valor antes do cupom, como mostram os capítulos abaixo."
+          "No carrinho do site oficial, digite MAUAD em \"Código do cupom\" e clique em \"Aplicar cupom\". O [cupom Belive](/cupons/belive) dá 10% em todo o site, em qualquer forma de pagamento, na primeira compra e nas seguintes, e soma com as promoções e com o desconto do Pix. No Mercado Livre, o código não vale."
         ]
       },
       {
@@ -84684,7 +84652,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Digite MAUAD em \"Código do cupom\" e clique em \"Aplicar cupom\"",
         "paragraphs": [
-          "No carrinho, o campo se chama \"Código do cupom\", com o botão \"Aplicar cupom\". Digite MAUAD. Copiar o código pelo botão desta página evita erro de digitação."
+          "No carrinho, procure o campo \"Código do cupom\", digite MAUAD e clique em \"Aplicar cupom\". Você também pode usar o botão de copiar desta página, se preferir."
         ],
         "image": "/images/reviews/belive/cupom-belive-campo-mauad.webp",
         "imageAlt": "Carrinho da Belive com o campo Código do cupom preenchido com MAUAD e o botão Aplicar cupom, ambos marcados em amarelo",
@@ -84744,7 +84712,7 @@ export const reviewsData: unknown[] = [
               "R$ 519,14"
             ],
             [
-              "Total com o cupom e o Pix (5% a mais)",
+              "Total com MAUAD e 5% de desconto no Pix sobre o valor restante",
               "R$ 493,18"
             ]
           ]
@@ -84761,9 +84729,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "O 5% do Pix soma com o cupom",
+        "heading": "O Pix dá mais 5% sobre o total já com cupom",
         "paragraphs": [
-          "Os dois descontos somam: o Pix entrou sobre o valor que já tinha os 10% do cupom. O total final ficou R$ 83,64 abaixo do subtotal, como mostra a tabela acima (conta nossa)."
+          "No teste, o desconto de 5% do Pix entrou depois dos 10% do MAUAD, sobre o valor restante. Por isso a redução sobre o subtotal é de 14,5%, e não de 15%, como daria a soma simples. O total observado está na tabela acima."
         ]
       },
       {
@@ -84807,7 +84775,7 @@ export const reviewsData: unknown[] = [
             "Caso",
             "Subtotal",
             "Com MAUAD (10%)",
-            "Com MAUAD e Pix (+5%)",
+            "Com MAUAD e depois 5% no Pix",
             "Frete grátis?"
           ],
           "rows": [
@@ -84855,7 +84823,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
-          "Se você já ia comprar na Belive, sim. São 10% em todo o site, em todas as formas de pagamento, e o Pix soma por cima. Antes de pagar, confira o desconto no resumo e o frete com o seu CEP. A nota da loja no Reclame Aqui está em [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao), e as condições do cupom ficam na [página do cupom da Belive](/cupons/belive)."
+          "Se você já ia comprar na Belive, vale aplicar o MAUAD: são 10% em todo o site, em qualquer forma de pagamento. No Pix, os 5% adicionais incidem sobre o valor já descontado. Confira o total e o frete pelo CEP antes de pagar. Para avaliar a loja, veja [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao); as condições do código estão na [página do cupom Belive](/cupons/belive)."
         ]
       },
       {
@@ -84863,7 +84831,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Belive? É o MAUAD, digitado no campo \"Código do cupom\" do carrinho do site oficial. Ele dá 10% OFF em todo o site.",
           "O cupom Belive vale na primeira compra? Sim. Vale na primeira compra e também para quem já comprou.",
-          "O MAUAD soma com o Pix? Sim. O 5% do Pix entrou sobre o valor já com os 10%, como mostra a conta do teste.",
+          "O MAUAD soma com o Pix? Sim. No teste, primeiro entraram os 10% do MAUAD; depois, o desconto de 5% do Pix foi calculado sobre o valor restante. A redução combinada foi de 14,5% sobre o subtotal.",
           "O MAUAD soma com produto em promoção? Sim. No teste, entrou em quatro combos e kits que já estavam em oferta. O valor exato aparece no resumo do pedido.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio.",
           "A Belive tem frete grátis? Sim: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom."
@@ -84957,7 +84925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de referência",
         "paragraphs": [
-          "Use estes preços de página, lidos em outubro, como régua: o maior desconto nas oito páginas foi de 20%. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
+          "A tabela registra preços de página de outubro, com o preço riscado entre parênteses quando havia. A coluna Pix aplica 5%; a coluna MAUAD aplica 10%; a última aplica primeiro o cupom e depois o Pix, como no teste de checkout."
         ],
         "image": {
           "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
@@ -84973,7 +84941,7 @@ export const reviewsData: unknown[] = [
             "Preço de página",
             "No Pix",
             "Com MAUAD",
-            "MAUAD + Pix"
+            "MAUAD e Pix sucessivos"
           ],
           "rows": [
             [
@@ -85035,7 +85003,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Uma oferta da Black November só vale a pena se o preço do dia ficar abaixo desta tabela. Os preços da página mudam sem aviso.",
+          "Use a tabela de outubro como referência para o mesmo produto e a mesma quantidade. Compare o total depois de cupom, forma de pagamento e frete. Um percentual maior sobre o preço riscado não garante uma compra mais barata.",
           "Os nomes dos produtos declaram sem glúten, sem leite, sem lactose e sem açúcar, na página de cada um. Quem tem intolerância, doença celíaca ou segue dieta deve falar com um nutricionista ou médico antes de comprar."
         ]
       },
@@ -85113,7 +85081,7 @@ export const reviewsData: unknown[] = [
           "Escolha o Pix por último, para ver o total final."
         ],
         "postParagraphs": [
-          "Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). A loja pede o produto na embalagem original, sem uso e sem violação, com a nota fiscal; o direito de arrependimento em 7 dias vale de qualquer jeito. O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo. O valor é devolvido depois da análise interna, e nesse caso o frete é por conta da Belive.",
+          "Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). A loja pede o produto na embalagem original, sem uso e sem violação, com a nota fiscal; essa exigência é da política da loja. O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo. O valor é devolvido depois da análise interna, e nesse caso o frete é por conta da Belive.",
           "Em caso de defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. Não há troca quando há indício de má manipulação ou mau uso, ou quando não dá para identificar a ocorrência. A loja não publica prazo de reembolso.",
           "Vendedora: NHD Foods Indústria, Comércio, Importação e Exportação Ltda. Contato: sac@nhdfoods.com.br e (34) 3317-6487. CNPJ, trocas e reputação estão em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
         ]
@@ -85632,7 +85600,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren A-Z Multi engorda? As calorias por cápsula",
         "paragraphs": [
-          "O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares totais, açúcares adicionados, proteínas, gorduras totais, gorduras saturadas, gorduras trans, fibras alimentares e sódio. Ou seja, o número que o frasco traz para calorias é \"não significativo\". O que pesa na balança continua sendo o conjunto do que cada pessoa come no dia."
+          "O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares totais, açúcares adicionados, proteínas, gorduras totais, gorduras saturadas, gorduras trans, fibras alimentares e sódio."
         ]
       },
       {
@@ -85702,7 +85670,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto dura o frasco e quanto custa",
         "paragraphs": [
-          "Com 1 cápsula por dia, o frasco de 60 cápsulas dura 60 dias, e o de 30 dura 30. Na leitura dos preços, a página do produto na Nestlé Nutre mostrava o de 60 cápsulas de R$ 69,89 por R$ 48,92 (30% de desconto), e a assinatura a R$ 41,93. Pela nossa conta, são cerca de R$ 0,82 por dia na compra única e R$ 0,70 na assinatura."
+          "Com 1 cápsula por dia, o frasco de 60 cápsulas dura 60 dias, e o de 30 dura 30. Na Nestlé Nutre, a página do produto mostrava o de 60 cápsulas de R$ 69,89 por R$ 48,92 (30% de desconto), e a assinatura a R$ 41,93. Pela nossa conta, eram cerca de R$ 0,82 por dia na compra única e R$ 0,70 na assinatura. Confira o preço atual na loja."
         ]
       },
       {
@@ -85714,6 +85682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Nutren A-Z Multi serve para homens e mulheres? O rótulo indica o Multi para adultos maiores de 19 anos, na dose de 1 cápsula ao dia. A linha tem também o A-Z Mulher, com dose de 2 cápsulas por dia.",
           "Nutren A-Z Multi tem glúten? Não. O rótulo diz \"não contém glúten\" e informa que contém derivados de soja.",
           "Nutren A-Z Multi engorda? O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares, proteínas ou gorduras.",
           "Nutren A-Z Multi, como tomar? Uma cápsula ao dia, por adultos maiores de 19 anos, sem exceder a recomendação diária do rótulo.",
@@ -85985,26 +85954,27 @@ export const reviewsData: unknown[] = [
               "cerca de 56 porções de 100 ml, ou 5,7 litros"
             ],
             [
-              "7 medidas de 4,7 g por copo de 210 ml",
-              "32,9 g de pó por copo"
+              "7 medidas de 4,7 g para preparo com 210 ml de água",
+              "32,9 g de pó por porção de 7 medidas"
             ],
             [
               "800 g ÷ 32,9 g",
-              "cerca de 24 copos de 210 ml"
+              "cerca de 24 porções de 7 medidas, cada uma preparada com 210 ml de água"
             ],
             [
-              "24 copos em 3 por dia",
+              "24 porções de 7 medidas, em 3 porções por dia",
               "cerca de 8 dias"
             ],
             [
-              "24 copos em 2 por dia",
+              "24 porções de 7 medidas, em 2 porções por dia",
               "cerca de 12 dias"
             ]
           ]
         },
         "postParagraphs": [
-          "Com o preço da compra única (R$ 95,53), o custo de um copo de 210 ml fica em cerca de R$ 3,93 (conta nossa: R$ 95,53 ÷ 24,3 copos). É uma conta de referência: a quantidade real depende de quanto a criança toma e de como se mede o pó."
-        ]
+          "Na compra única de R$ 95,53, a porção de 7 medidas (32,9 g), preparada com 210 ml de água, sai por cerca de R$ 3,93. Conta nossa: 800 g ÷ 32,9 g = cerca de 24,3 porções; R$ 95,53 ÷ 24,3. Os 210 ml são a água indicada no preparo, não o volume final. O consumo da criança deve seguir a orientação profissional."
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "Conservação",
@@ -86038,7 +86008,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Pela Nota Técnica Conjunta nº 17/2026, só os lotes informados oficialmente estão sendo recolhidos. Confira as informações oficiais atualizadas antes de usar uma lata. Se a criança tiver vômitos, diarreia ou muito sono depois de consumir um lote da lista, a nota técnica orienta levar a criança a atendimento médico, com a embalagem ou uma foto dela.",
-          "Os lotes listados venciam em 2026. Não encontramos notícia do caso depois do recolhimento, e a loja vende o produto normalmente. Na dúvida, ligue para a Nestlé antes de usar uma lata comprada no começo do ano."
+          "O fato de a loja vender o produto não diz se a sua lata está na lista; em caso de dúvida, confirme com a Nestlé pelo 0800 761 2500."
         ]
       },
       {
@@ -86080,10 +86050,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Nanlac Supreme Pro foi recolhido? Alguns lotes do 800 g (1 a 3 anos) entraram no recolhimento da RE 32/2026. Segundo a Nota Técnica Conjunta nº 17/2026, só os lotes listados estão sendo recolhidos. Confira o lote no fundo da lata e compare com a lista oficial atualizada.",
+          "O Nanlac Supreme Pro foi recolhido? A RE 32/2026 e a Nota Técnica Conjunta nº 17/2026 incluem lotes específicos da lata de 800 g para 1 a 3 anos. Confira o número no fundo da lata e os comunicados oficiais atualizados, porque a lista pode mudar.",
           "Nanlac Supreme Pro é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre e a nota técnica do Ministério da Saúde e da Anvisa.",
           "Como preparar o Nanlac Supreme Pro? Ferva a água por 5 minutos, espere até 70 °C e use 14,1 g de pó (3 colheres rasas de 4,7 g) para 90 ml de água, conforme o rótulo.",
-          "Quanto rende a lata de Nanlac Supreme Pro de 800 g? Cerca de 5,7 litros de preparo ou 24 copos de 210 ml, em conta nossa feita com as medidas do rótulo.",
+          "Quanto rende a lata de Nanlac Supreme Pro de 800 g? Pela nossa conta com as medidas do rótulo, cerca de 56 porções de 100 ml preparado. Com 7 medidas e 210 ml de água por porção, são cerca de 24 porções; os 210 ml são a água usada no preparo.",
           "Quanto tempo dura a lata aberta do Nanlac Supreme Pro? O rótulo diz até 30 dias, com a lata bem tampada em local seco, fresco e arejado."
         ]
       }
@@ -86338,7 +86308,8 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
         "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
         "imageCaption": "Modo de preparo impresso na lata do Nanlac Supreme Pro.",
-        "imageFit": "portrait"
+        "imageFit": "portrait",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "Recolhimento de janeiro: lotes do Comfor",
@@ -86356,7 +86327,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem cada uma faz sentido, pelo rótulo",
         "paragraphs": [
-          "A decisão é do pediatra ou nutricionista. Pelo rótulo, quem procura mais HMOs declarados encontra quatro no Supreme Pro; o Comfor declara um. Na dúvida, a decisão é do pediatra. Olhando só o que cada rótulo declara:"
+          "A escolha da fórmula cabe ao pediatra ou nutricionista que acompanha a criança. Considerando exclusivamente as informações declaradas nos rótulos de cada lata:"
         ],
         "bullets": [
           "Quem procura mais HMOs declarados na tabela encontra quatro no Supreme Pro. O Comfor declara um, o 2'-FL.",
@@ -86454,7 +86425,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Nanlac Supreme Pro e o Aptanutri Profutura 3 são fórmulas para crianças de 1 a 3 anos, e a escolha depende do rótulo. Veja o que cada um declara, o preparo e o preço.",
+    "description": "Nanlac Supreme Pro e Aptanutri Profutura 3 para crianças de 1 a 3 anos: o que cada rótulo declara, as versões da Profutura, o preparo e o custo por litro da lata.",
     "metaDescription": "Nanlac Supreme Pro (1 a 3 anos), com o cupom CECI de 10% OFF na Nestlé Nutre, comparado à Aptanutri Profutura 3: HMO, DHA, ARA e preço por litro.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
@@ -86469,13 +86440,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nanlac Supreme Pro e o Aptanutri Profutura 3 são fórmulas para crianças de 1 a 3 anos, e a escolha depende do rótulo. O Nanlac declara quatro HMOs; o Aptanutri, GOS, FOS e nucleotídeos. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto fórmulas de 0 a 12 meses."
+          "O Nanlac Supreme Pro declara HMOs; o Aptanutri Profutura 3, GOS, FOS e nucleotídeos. Essas são diferenças de composição publicadas pelos fabricantes, não uma escala de qualidade. Na Nestlé Nutre, o cupom CECI dá 10% OFF no Nanlac, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       },
       {
         "heading": "Duas fórmulas de 1 a 3 anos, de fabricantes diferentes",
         "paragraphs": [
-          "No rótulo, a diferença é HMO (Nanlac) contra prebióticos (Aptanutri). Não são leite em pó nem composto lácteo. A Nestlé Nutre vende o Nanlac Supreme Pro como \"fórmula infantil de primeira infância\", e a Danone descreve o Aptanutri Profutura 3 como \"fórmula infantil de seguimento em pó, à base de proteínas lácteas intactas\".",
+          "Os rótulos destacam ingredientes diferentes: quatro HMOs no Nanlac e GOS, FOS e nucleotídeos no Aptanutri Profutura 3. Não são leite em pó nem composto lácteo. A Nestlé Nutre vende o Nanlac como \"fórmula infantil de primeira infância\", e a Danone descreve o Aptanutri como \"fórmula infantil de seguimento em pó, à base de proteínas lácteas intactas\".",
           "As duas páginas oficiais trazem o aviso de que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade. Este comparativo fala só das latas de 1 a 3 anos."
         ],
         "comparisonTable": {
@@ -86520,7 +86491,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Profutura 3 ou Profutura Gold 3: qual versão entra na comparação",
         "paragraphs": [
-          "A Danone vende duas latas de 800 g para a mesma faixa. A **Profutura 3** é a de preço menor e a mais citada nas buscas. A **Profutura Gold 3** traz o HMO 2'FL adicionado, e a página da Danone não informa a quantidade. Na tabela publicada, as duas têm 9,2 g de proteínas e prebióticos GOS e FOS na mesma proporção. Mudam, por exemplo, as calorias, os açúcares adicionados e as vitaminas."
+          "A Danone apresenta duas latas de 800 g para a mesma faixa de idade. A Profutura 3 é a de menor preço na tabela; a Profutura Gold 3 declara o HMO 2'FL adicionado, sem informar a quantidade. As tabelas mostram diferenças nas calorias, nos açúcares adicionados e nas vitaminas."
         ],
         "comparisonTable": {
           "headers": [
@@ -86559,7 +86530,8 @@ export const reviewsData: unknown[] = [
               "R$ 107,59",
               "R$ 119,49"
             ]
-          ]
+          ],
+          "caption": "Dados das páginas oficiais. Valores nutricionais por 100 g de pó, salvo a linha de preço."
         },
         "postParagraphs": [
           "Nas seções seguintes, a coluna do Aptanutri é a da Profutura 3. Quem procura HMO no rótulo deve olhar a Gold 3, que é outro produto, com outro preço."
@@ -86568,11 +86540,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada rótulo declara",
         "paragraphs": [
-          "Os números abaixo vêm das páginas dos fabricantes: Nestlé Nutre, Mundo Danone e a página da Danone para profissionais de saúde. A comparação é só do que está impresso. Não diz qual fórmula \"faz mais\" por uma criança."
+          "A tabela reúne as informações publicadas pela Nestlé Nutre, Mundo Danone e Danone para profissionais de saúde. As colunas comparam declarações dos fabricantes, não o efeito de cada fórmula em uma criança."
         ],
         "comparisonTable": {
           "headers": [
-            "Por 100 g de pó",
+            "Item por 100 g de pó, salvo indicação de 100 ml preparado",
             "Nanlac Supreme Pro",
             "Aptanutri Profutura 3"
           ],
@@ -86660,7 +86632,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As duas fórmulas contêm lactose e leite. O Aptanutri declara também ovo e peixe, e pode conter soja. A Danone destaca na página o ácido palmítico na posição beta-2 e o DHA e o ARA \"ligados ao fosfolipídio\". São características de formulação que o fabricante cita; não as comparamos. Pela lista de ingredientes da página da Mundo Danone, o Aptanutri começa por lactose, leite parcialmente desnatado, proteína de soro do leite, óleos vegetais (girassol alto oleico, canola, girassol e palma), maltodextrina, GOS e FOS. O ovo e o peixe dos alérgenos vêm de dois itens da lista: fosfolipídeos do ovo e óleo de peixe. O ARA vem de óleo de Mortierella alpina.",
+          "As duas fórmulas contêm leite e lactose. O Aptanutri declara também ovo e peixe e pode conter soja. A Danone destaca ácido palmítico na posição beta-2 e DHA e ARA \"ligados ao fosfolipídio\"; características que o fabricante cita na página.",
+          "Na lista da Mundo Danone, o Aptanutri começa por lactose, leite parcialmente desnatado, proteína de soro do leite, óleos vegetais (girassol alto oleico, canola, girassol e palma), maltodextrina, GOS e FOS. Os alérgenos ovo e peixe correspondem a fosfolipídeos do ovo e óleo de peixe na lista; o ARA vem de óleo de Mortierella alpina.",
           "A tabela da Danone não diz com qual diluição foi calculada a coluna \"por 100 ml\". Por isso, compare as colunas \"por 100 g\" entre si, que não dependem do preparo."
         ],
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
@@ -86703,7 +86676,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Siga sempre as medidas da lata que está em casa, sem aumentar nem diminuir o pó. Preparo errado é risco, e a quantidade por dia é assunto para o pediatra."
+          "Siga sempre as medidas da lata que está em casa, sem aumentar nem diminuir o pó. Preparo errado é risco. A escolha da fórmula e a quantidade diária devem ser orientadas pelo pediatra ou nutricionista."
         ],
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
         "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
@@ -86713,7 +86686,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto rende a lata e quanto custa o litro",
         "paragraphs": [
-          "A Danone informa que a lata de 800 g da Profutura 3 rende 5.333 ml. Pela proporção de 14,1 g a cada 100 ml, o Nanlac rende cerca de 5,7 litros. Conta nossa: dividindo o preço da lata pelo rendimento:"
+          "A Danone informa rendimento de 5.333 ml para a lata de 800 g da Profutura 3. Para o Nanlac, nossa conta com 14,1 g de pó por 100 ml preparado resulta em cerca de 5,7 litros por lata de 800 g. A tabela divide o preço da lata pelo rendimento de referência."
         ],
         "comparisonTable": {
           "headers": [
@@ -86735,24 +86708,25 @@ export const reviewsData: unknown[] = [
               "5,3 L (informado pela Danone)",
               "cerca de R$ 20,17"
             ]
-          ]
+          ],
+          "caption": "Conta nossa com preços das lojas oficiais, sem frete e antes do cupom. Nanlac: rendimento calculado pela diluição do rótulo; Aptanutri: rendimento informado pela Danone. Valores aproximados."
         },
         "postParagraphs": [
           "É uma conta de referência. O rendimento real depende de como se mede o pó. O rendimento de 5,3 litros do Aptanutri Profutura 3 é o publicado na página da Danone."
-        ]
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
-        "heading": "Para quem cada uma faz sentido, pelo rótulo",
+        "heading": "Como ler as diferenças dos rótulos",
         "paragraphs": [
-          "A decisão sobre qual fórmula dar a uma criança é do pediatra ou nutricionista. Pelo rótulo, quem procura HMO declarado encontra quatro no Nanlac Supreme Pro; a Profutura 3 não declara nenhum. Na dúvida, a decisão é do pediatra. Olhando só o que cada rótulo declara:"
+          "A escolha da fórmula cabe ao pediatra ou nutricionista que acompanha a criança. A lista abaixo reúne diferenças declaradas nas latas, sem indicar uma fórmula por ingrediente nem concluir superioridade nutricional."
         ],
         "bullets": [
-          "Quem procura HMO no rótulo encontra quatro no Nanlac Supreme Pro. No Aptanutri, procure a versão Profutura Gold 3, que declara o 2'FL.",
-          "Quem procura prebióticos GOS e FOS e nucleotídeos na tabela encontra os três no Aptanutri Profutura 3.",
-          "Quem compara proteína, DHA e ARA por 100 g vê números maiores no Nanlac nas três linhas.",
-          "Quem compara preço por litro preparado paga menos no Nanlac, com os preços da leitura.",
-          "Quem compara açúcares adicionados vê 31 g por 100 g no Nanlac e 33 g no Aptanutri Profutura 3.",
-          "Quem precisa evitar leite, lactose, soja, ovo ou peixe deve ler o alergênico no rótulo da lata. As duas fórmulas contêm leite e lactose, e só o Aptanutri declara ovo e peixe."
+          "Para o Aptanutri, confira o nome completo: a Profutura Gold 3 declara HMO; a Profutura 3 não declara.",
+          "No Nanlac, os HMOs são uma diferença declarada. No Aptanutri Profutura 3, aparecem GOS, FOS e nucleotídeos. As quantidades estão nas tabelas acima.",
+          "Compare os nutrientes na mesma base: por 100 g de pó. A linha de energia por 100 ml preparado é identificada separadamente.",
+          "Pelos preços da tabela, o custo de referência por litro preparado era menor no Nanlac. Isso compara custo, não adequação para a criança.",
+          "Para restrições alimentares, confira os alérgenos na lata que receber: os avisos diferem entre as fórmulas."
         ],
         "postParagraphs": [
           "Lotes específicos do Nanlac Supreme Pro 800 g entraram no recolhimento de janeiro (Anvisa, RE nº 32/2026). Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos)."
@@ -86762,7 +86736,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e quanto custa",
         "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
         "paragraphs": [
-          "Preços lidos em 17/10/2026, nas lojas oficiais de cada fabricante."
+          "Preços das lojas oficiais de cada fabricante em 17/10/2026. Confira os valores atuais antes de comprar."
         ],
         "comparisonTable": {
           "headers": [
@@ -86802,9 +86776,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Nanlac Supreme Pro ou Aptanutri Profutura: qual escolher? Não há resposta única. O rótulo do Nanlac declara 4 HMOs e mais proteína, DHA e ARA por 100 g. O do Aptanutri Profutura 3 declara GOS, FOS e nucleotídeos. A escolha é do pediatra ou nutricionista, e o preço por litro preparado pesa para quem compara custo.",
+          "Nanlac Supreme Pro ou Aptanutri Profutura: qual escolher? Não há resposta única pelo nome da marca. As tabelas acima mostram as diferenças declaradas de ingredientes e nutrientes, além do preparo e do custo por litro. Veja também a distinção entre Profutura 3 e Profutura Gold 3.",
           "O Aptanutri Profutura 3 tem HMO? A página da Danone para a Profutura 3 não declara HMO. A Profutura Gold 3 traz o HMO 2'FL adicionado, sem informar a quantidade.",
-          "Aptanutri Profutura 3 e Profutura Gold 3 são o mesmo produto? Não. A Danone vende as duas latas de 800 g, com tabelas e preços diferentes. A Gold 3 tem 2'FL e custava R$ 119,49 na leitura dos preços, contra R$ 107,59 da Profutura 3.",
+          "Aptanutri Profutura 3 e Profutura Gold 3 são o mesmo produto? Não. São duas latas de 800 g com tabelas diferentes. A Gold 3 declara 2'FL. A comparação de composição e preço está na seção que distingue as duas versões acima.",
           "O Aptanutri é fórmula infantil ou composto lácteo? É fórmula infantil de seguimento para a primeira infância, de 1 a 3 anos, segundo a Danone.",
           "Nanlac e Aptanutri servem para menores de 1 ano? Não. As duas páginas oficiais avisam que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.",
           "Quanto rende a lata de 800 g? O Nanlac Supreme Pro rende cerca de 5,7 litros (conta nossa, com as medidas do rótulo). A Danone informa 5,3 litros para a Profutura 3."
@@ -86864,7 +86838,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Entre o Nanlac Supreme Pro e o Ninho Fases 1+, fórmulas da Nestlé para 1 a 3 anos, a diferença está no rótulo. O Nanlac traz HMO, DHA e ARA; o Ninho, prebióticos e menos açúcar. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto fórmulas de 0 a 12 meses."
+          "Nanlac Supreme Pro e Ninho Fases 1+ são fórmulas de 1 a 3 anos: o Nanlac declara HMOs, DHA e ARA, e o Ninho, FOS e inulina, com menos açúcares. A escolha deve ser conversada com o pediatra ou nutricionista. Na Nestlé Nutre, o CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas de 0 a 12 meses."
         ]
       },
       {
@@ -87075,14 +87049,14 @@ export const reviewsData: unknown[] = [
               "30 ml"
             ],
             [
-              "Copo de 210 ml",
+              "Pó para 7 medidas rasas da colher própria de cada lata",
               "7 colheres rasas (32,9 g)",
               "7 colheres rasas (32,2 g)"
             ]
           ]
         },
         "postParagraphs": [
-          "O rótulo do Nanlac manda não guardar o que sobra e, se for absolutamente necessário, refrigerar abaixo de 5 °C por no máximo 24 horas. O Ninho segue a mesma orientação na página da Nestlé. A lata do Nanlac pede consumo em até 30 dias depois de aberta; a do Ninho, em até 4 semanas."
+          "O rótulo do Nanlac orienta não guardar restos. Quando for absolutamente necessário, o produto reconstituído deve ser refrigerado abaixo de 5 °C por no máximo 24 horas. Para o Ninho, confira as instruções da embalagem adquirida. A lata do Nanlac recomenda consumo em até 30 dias depois de aberta; a do Ninho, em até 4 semanas."
         ],
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
         "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
@@ -87112,7 +87086,7 @@ export const reviewsData: unknown[] = [
             "Preço (de tabela)",
             "Por 100 g",
             "Por 100 ml preparado",
-            "Por copo de 210 ml"
+            "Por porção de 7 medidas da própria lata"
           ],
           "rows": [
             [
@@ -87146,28 +87120,26 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Contas nossas: preço dividido pelo peso da lata, e depois pelas medidas do rótulo de cada produto (14,1 g por 100 ml no Nanlac, 13,8 g no Ninho). Na lata de 800 g, o Nanlac custa cerca de 1,9 vez o Ninho por 100 g. Na Nestlé Nutre, o Ninho de 800 g saiu mais caro por 100 g do que o de 400 g e o de 1,2 kg. O Nanlac tem ainda o combo \"leve 5, pague 4\" por R$ 449,56 (conta nossa: R$ 89,91 por lata).",
+          "Contas nossas: preço dividido pelo peso da lata e pelas medidas do rótulo de cada produto (14,1 g por 100 ml no Nanlac, 13,8 g no Ninho). A última coluna usa 7 medidas de cada lata: 32,9 g no Nanlac e 32,2 g no Ninho. A água do preparo, 210 ml (7 colheres de 30 ml), vem antes do pó; não é o volume final. Na lata de 800 g, o Nanlac custa cerca de 1,9 vez o Ninho por 100 g. Na cotação da Nestlé Nutre, o Ninho de 800 g sai mais caro por 100 g que o de 400 g e o de 1,2 kg. O combo Nanlac \"leve 5, pague 4\" custa R$ 449,56, ou cerca de R$ 89,91 por lata.",
           "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos são de 1 a 3 anos e não estão nas exceções. As condições vigentes ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre). Preço e desconto mudam, e o que vale é o da loja no momento da compra."
         ]
       },
       {
-        "heading": "Para quem cada um faz sentido, pelo rótulo",
+        "heading": "Diferenças para conversar com o pediatra",
         "paragraphs": [
-          "A escolha entre as duas é do pediatra e da família. Pelo rótulo, quem procura HMOs, DHA e ARA declarados encontra os três no Nanlac Supreme Pro; o Ninho não declara nenhum. Na dúvida, a decisão é do pediatra. Pelo que cada rótulo mostra, estes são os perfis:"
+          "A escolha da fórmula é uma conversa com o pediatra ou nutricionista. Nos rótulos e preços comparados, estas são as diferenças:"
         ],
         "bullets": [
-          "Quem quer uma fórmula com HMOs, DHA e ARA declarados no rótulo: o Nanlac Supreme Pro é o que traz esses itens.",
-          "Quem prefere menos açúcares adicionados na tabela, mais proteína por 100 g e prebióticos declarados: o Ninho Fases 1+ é o que traz esses números.",
-          "Quem compara preço por 100 g ou por copo: o Ninho Fases 1+ ficou mais barato na loja oficial.",
-          "Quem tem restrição a leite, soja ou lactose: nenhum dos dois, pelos alérgenos declarados."
-        ],
-        "postParagraphs": [
-          "Antes de trocar de fórmula, converse com o pediatra ou nutricionista."
+          "O Nanlac Supreme Pro declara HMOs, DHA e ARA; esses itens não constam no rótulo do Ninho Fases 1+ comparado.",
+          "O Ninho Fases 1+ declara FOS e inulina e tem menos açúcares adicionados e mais proteína por 100 g de pó na tabela.",
+          "O Ninho Fases 1+ é mais barato por 100 g e por porção de 7 medidas, na tabela de preços.",
+          "Os dois contêm leite, derivados de soja e lactose. Confira as restrições com o profissional que acompanha a criança."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "O cupom CECI vale para Nanlac e Ninho Fases 1+? Sim. Na Nestlé Nutre, o CECI dá 10% OFF nessas fórmulas de 1 a 3 anos; não vale para fórmulas de 0 a 12 meses, Alfamino e Alfaré.",
           "Nanlac ou Ninho Fases 1+? As duas são fórmulas infantis de seguimento para 1 a 3 anos. O Nanlac Supreme Pro declara HMOs, DHA e ARA; o Ninho Fases 1+ declara prebióticos (FOS e inulina) e tem bem menos açúcares adicionados por 100 g.",
           "Ninho Fases 1+ é fórmula ou composto lácteo? Segundo a lata, é fórmula infantil de seguimento para crianças de primeira infância. O composto lácteo da linha é o Ninho Fases 3+, para crianças a partir de 3 anos.",
           "Ninho Fases 1+ tem DHA ou ARA? O rótulo da lata não declara DHA nem ARA. O Nanlac Supreme Pro declara os dois.",
@@ -87440,7 +87412,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ingredientes e alérgenos",
         "paragraphs": [
           "No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O rótulo traz ferro, manganês e selênio em formas quelatadas: bisglicinato de ferro, bisglicinato de manganês e selenometionina.",
-          "No Centrum, a Drogasil lista como excipientes celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício (a Extrafarma traz a mesma lista). A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose. A Drogasil também informa que o Centrum contém itens de origem animal: vitamina A de origem suína e vitamina D3 de origem bovina e ovina. Quem precisa evitar um desses itens deve ler o rótulo do frasco."
+          "No Centrum, a Drogasil lista excipientes como celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício; a Extrafarma traz a mesma lista. As fontes divergem sobre lactose: ela aparece na lista de ingredientes, enquanto a embalagem informa que não contém. Se você precisa evitar lactose, confirme essa informação no rótulo do frasco e com o fabricante antes de escolher. A Drogasil também lista vitamina A de origem suína e vitamina D3 de origem bovina e ovina."
         ]
       },
       {
@@ -87503,11 +87475,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Nutren A-Z ou Centrum? Os dois têm uma unidade por dia e 60 por frasco. O Nutren tem doses maiores de ferro, ácido fólico, vitaminas A e E, selênio, cobre, cromo e molibdênio e saiu mais barato por dia nas lojas comparadas; o Centrum traz cálcio, fósforo, magnésio e iodo.",
+          "Nutren A-Z ou Centrum? Compare a composição e o formato: o Nutren é cápsula softgel; o Centrum A a Zinco Adulto é comprimido e lista também cálcio, fósforo, magnésio e iodo. A tabela acima mostra as quantidades por unidade.",
           "O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.",
           "O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.",
-          "O Centrum A a Zinco tem lactose? A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose.",
-          "Qual custa menos por dia? Na leitura dos preços, o Nutren A-Z Multi saía a R$ 0,82 por dia na Nestlé Nutre e o Centrum A a Zinco a R$ 2,35 por dia na Extrafarma (contas nossas).",
+          "O Centrum A a Zinco tem lactose? As fontes divergem: a lista de ingredientes cita lactose e a embalagem informa que não contém. Para uma compra que exige evitar lactose, confirme no rótulo do frasco e com o fabricante.",
+          "Qual custa menos por dia? Nos preços da tabela, o Nutren A-Z Multi custava menos por dia. Veja a tabela de preços acima para o valor, a loja e a data da comparação.",
           "Posso tomar os dois juntos? O rótulo do Nutren orienta consultar um profissional de saúde ao consumir outros suplementos.",
           "Centrum A a Zinco e Centrum Mulher ou Homem são o mesmo produto? Não. Este texto trata só do Centrum A a Zinco Adulto."
         ]
@@ -87515,12 +87487,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico."
+        "Centrum A a Zinco Adulto: você procura cálcio, fósforo, magnésio e iodo no mesmo multivitamínico, nutrientes listados na tabela desse produto.",
+        "Nutren A-Z Multi: você prefere cápsula softgel ou compara pelo menor preço por dia entre as embalagens e lojas da tabela."
       ],
       "skipIf": [
-        "Você prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitaminas A e E, ou menor preço por dia nas lojas comparadas: nesse caso, o Nutren A-Z Multi.",
-        "Você segue dieta sem produtos de origem animal: os dois têm itens de origem animal.",
-        "Você está grávida ou amamentando: a Drogasil avisa que o Centrum só deve ser usado com orientação médica."
+        "Você segue dieta sem produtos de origem animal: nenhum dos dois atende a esse critério.",
+        "Você precisa escolher por dose, uso com outros medicamentos, gravidez ou amamentação: leve essa dúvida a um médico ou nutricionista."
       ]
     },
     "pros": [],
@@ -87782,13 +87754,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nenhuma das duas é melhor para todos: Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são fórmulas de 1 litro com 1,5 kcal por mL, e a escolha é do médico ou do nutricionista. O que muda é a fibra e o preço por 1.000 kcal. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+          "Nenhuma das duas é superior para todos: Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são dietas de 1 litro, e a indicação é do médico ou do nutricionista. O que muda entre elas é a fibra e o custo por 1.000 kcal. Para quem tem indicação de Isosource, o cupom CECI dá 10% na loja oficial Nestlé Nutre."
         ]
       },
       {
         "heading": "Qual versão de cada lado",
         "paragraphs": [
-          "Nenhuma das duas se escolhe sozinha: é o médico ou o nutricionista que define a fórmula, a quantidade e a via. Este texto só compara o que os rótulos e as páginas mostram e as contas de preço.",
           "Isosource 1.5 Sem Sabor, 1 L, é o produto da Nestlé Health Science vendido na Nestlé Nutre, em caixa Tetra Square com tampa.",
           "Trophic 1.5, da Prodiet, na versão Baunilha, caixa de 1 L, lida na página da Droga Raia. O Isosource 1.0 existe só em pó, de 400 g, e o 1.5 é líquido. Por isso o 1.0 não entra aqui.",
           "A tabela completa do Isosource está lida no rótulo. Da Trophic, usamos só o que os cartões oficiais da Prodiet mostram nas fotos do produto numa loja, porque a tabela completa da caixa não estava publicada nas fontes lidas. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve)."
@@ -87892,7 +87863,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde entra o cupom CECI",
         "paragraphs": [
-          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Isosource não está nas exceções. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre). A Prodiet não é parceira do site, e não temos código para a Trophic."
+          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre em todas as formas de pagamento, exceto para fórmulas infantis de 0 a 12 meses e as linhas Alfamino e Alfaré. O Isosource 1.5 não está nessas exceções e é elegível ao desconto. A Prodiet não é parceira do site, por isso não há cupom para a Trophic. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre)."
         ]
       },
       {
@@ -87911,13 +87882,13 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Veja o Isosource 1.5 Sem Sabor na Nestlé Nutre e aplique o cupom CECI no carrinho.",
-      "label": "Ver na Nestlé Nutre",
+      "label": "Ver Isosource 1.5 na Nestlé Nutre",
       "url": "https://www.nestlenutre.com.br/isosource-1-5-sem-sabor",
       "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Não recebemos os produtos.",
+    "editorialNote": "Comparativo de rótulos e páginas oficiais. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre. Usar somente sob orientação médica ou de nutricionista; fórmula, quantidade e via são definidas pelo profissional.",
     "relatedArticles": [
       {
         "slug": "isosource-1-5-para-que-serve"
@@ -87959,15 +87930,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Mochaccino Canela é uma cápsula Nescafé Dolce Gusto para uma bebida com café, leite e cacau, de cerca de 120 ml. Cada bebida usa uma cápsula, e a caixa traz 10. O que pesa na compra é o preço por cápsula com o cupom CECI; veja abaixo a tabela, os ingredientes e a conta."
+          "O Mochaccino Canela Dolce Gusto combina café, leite, cacau e canela em uma cápsula para cerca de 120 ml. A caixa traz 10 cápsulas; cada uma tem 77 kcal, segundo a tabela da loja. Para comprar na loja oficial, o cupom CECI dá 10% OFF em pedidos a partir de 100 reais."
         ]
       },
       {
         "heading": "Quantos ml e quantas cápsulas por bebida",
         "paragraphs": [
-          "Cada bebida usa uma cápsula e rende cerca de 120 ml, numa xícara média. A caixa traz 10 cápsulas.",
-          "A página da loja mostra o ícone de xícara média e vende a caixa com 10 cápsulas. A tabela nutricional trata 1 cápsula como 1 porção, e são 10 porções por caixa. Ou seja, uma cápsula por bebida e dez bebidas por caixa.",
-          "Conta nossa, pelos números da tabela da loja: 77 kcal por cápsula divididas por 64 kcal a cada 100 ml, vezes 100, dão cerca de 120 ml. Esse número bate com o que mostramos na [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), onde a tabela de preparo da embalagem traz 120 ml para o Mochaccino Canela."
+          "Uma cápsula prepara uma bebida de cerca de 120 ml, na xícara média indicada pela loja. A caixa tem 10 cápsulas, equivalentes a dez bebidas; a tabela nutricional considera uma cápsula como uma porção.",
+          "Esse número também aparece na tabela de preparo da embalagem, reproduzida na [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
         "image": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-xicara.webp",
         "imageAlt": "Cápsula e xícara do Mochaccino Canela Dolce Gusto",
@@ -88039,9 +88009,7 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "postParagraphs": [
-          "A coluna por 100 ml é a da loja. O volume de 120 ml, já dito, é conta nossa."
-        ]
+        "postParagraphs": []
       },
       {
         "heading": "Tem açúcar? E glúten?",
@@ -88082,15 +88050,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por cápsula e CECI",
         "paragraphs": [
-          "A cápsula sai por R$ 2,25 na caixa com desconto, ou R$ 2,59 sem ele: em 17/10/2026, a caixa com 10 estava de R$ 25,90 por R$ 22,50 na loja oficial. Conta nossa: o preço dividido por 10. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
-          "O cupom CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. As regras estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no guia [como usar o CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar). Confira o desconto no resumo do pedido antes de pagar."
+          "Em 17/10/2026, a caixa com 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial. Dividindo o preço da caixa por 10, o custo era de R$ 2,25 por bebida no preço promocional ou R$ 2,59 no preço cheio. Esses valores são os preços anunciados da caixa, antes de aplicar o CECI.",
+          "O cupom CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. As regras estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no guia [como usar o CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar). Confira o desconto no resumo do pedido antes de pagar.",
+          "Para comparar preços por bebida, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Para escolher o sabor, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa as opções por perfil."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quantas calorias tem o Mochaccino Canela Dolce Gusto? A tabela da loja mostra 77 kcal por cápsula (17,2 g), 4% do valor diário, e 64 kcal por 100 ml.",
-          "Quantos ml faz o Mochaccino Canela? Cerca de 120 ml, na xícara média; a conta está no capítulo do volume.",
+          "Quantos ml faz o Mochaccino Canela? O preparo rende cerca de 120 ml, em xícara média, com uma cápsula.",
           "O Mochaccino Canela tem cafeína? A lista tem café solúvel, mas a loja não informa a quantidade de cafeína em mg.",
           "O Mochaccino Canela tem açúcar? Sim: 8 g de açúcares adicionados por cápsula, 16% do valor diário, segundo a loja.",
           "O Mochaccino Canela tem chocolate? A lista de ingredientes traz cacau, não \"chocolate\". A marca cita o chocolate na descrição do sabor.",
@@ -88151,13 +88120,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Espresso e Espresso Intenso são caixas de 10 cápsulas, só com café torrado e moído. A intensidade muda: 5 no Espresso e 7 no Intenso. O preço era o mesmo em 17/10/2026; confira o do dia. Para o café mais suave, é o Espresso. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Espresso e Espresso Intenso são caixas de 10 cápsulas de café torrado e moído, na mesma xícara pequena; muda a intensidade, 5 e 7. As duas caixas tinham o mesmo preço, então o gosto decide: para o café mais suave, escolha o Espresso. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
         "heading": "O que muda entre o Espresso e o Espresso Intenso",
         "paragraphs": [
-          "Na escala de intensidade da loja, o Espresso é 5 e o Espresso Intenso é 7. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Ingrediente, xícara e número de cápsulas são iguais. As duas caixas tinham o mesmo preço."
+          "Na escala da loja, o Espresso tem intensidade 5 e o Espresso Intenso, 7. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Os dois têm café torrado moído, xícara pequena e 10 cápsulas por caixa. Preço e avaliação da tabela são de 17/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -88246,39 +88215,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa a cápsula",
         "paragraphs": [
-          "A cápsula sai por R$ 2,25, já que 1 cápsula faz 1 bebida. Em 17/10/2026, a caixa de 10 estava de R$ 25,90 por R$ 22,50 na loja oficial. Conta nossa: R$ 22,50 ÷ 10. Sem desconto, a conta seria R$ 2,59. O preço muda, e a loja pode alterar a oferta. Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
+          "A cápsula sai por R$ 2,25, já que 1 cápsula faz 1 bebida. A caixa de 10 estava de R$ 25,90 por R$ 22,50 na loja oficial. Conta nossa: R$ 22,50 ÷ 10. Sem desconto, a conta seria R$ 2,59. O preço muda, e a loja pode alterar a oferta. Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
         ]
       },
       {
         "heading": "É bom? O que dizem as avaliações da loja",
         "paragraphs": [
-          "A página do Espresso mostrava avaliação de 94%, com 34 avaliações. A do Espresso Intenso mostrava 97%, com 19 avaliações. É a nota da própria loja, de quem comprou lá. Para ver o Espresso ao lado de outros sabores, leia as [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
+          "A página do Espresso mostrava avaliação de 94%, com 34 avaliações, e a do Espresso Intenso, 97%, com 19. É a nota da própria loja, de quem comprou lá. Como são grupos de avaliadores de tamanhos diferentes, a diferença de nota não mostra qual sabor você vai preferir. Para comparar com outras opções, leia as [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
         ]
       },
       {
         "heading": "Onde comprar e como usar o CECI",
         "paragraphs": [
-          "O Espresso e o Espresso Intenso estão na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. Como a caixa de 10 cápsulas custa R$ 22,50, o carrinho precisa de mais itens para chegar a R$ 100. Digite o código no carrinho e confira o desconto no resumo do pedido. Veja o passo a passo em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e as regras na [página do cupom da Dolce Gusto](/cupons/dolce-gusto)."
+          "O Espresso e o Espresso Intenso estão na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. A caixa de 10 cápsulas custava R$ 22,50, então uma caixa sozinha fica abaixo do mínimo. Confira o preço atual, digite o código no carrinho e veja o desconto no resumo antes de pagar. Há instruções em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e condições na [página do cupom da Dolce Gusto](/cupons/dolce-gusto)."
         ]
       },
       {
         "heading": "Qual escolher: Espresso ou Espresso Intenso",
         "paragraphs": [
-          "A decisão é de intensidade, porque o resto é igual: as duas caixas têm 10 cápsulas, só café torrado moído, xícara pequena e o mesmo preço, R$ 22,50 em outubro."
+          "A decisão é de intensidade, porque o resto é igual: as duas caixas têm 10 cápsulas, só café torrado moído, xícara pequena e o mesmo preço, R$ 22,50."
         ],
         "bullets": [
-          "Prefere um café mais suave: o Espresso, intensidade 5, que a marca descreve como \"delicado e frutado\". A nota na loja era 94%, com 34 avaliações.",
-          "Prefere um café mais forte: o Espresso Intenso, intensidade 7, que a marca descreve como \"energético e aromático\". A nota na loja era 97%, com 19 avaliações."
+          "Prefere menor intensidade: Espresso, intensidade 5, descrito pela marca como “delicado e frutado”.",
+          "Prefere maior intensidade: Espresso Intenso, intensidade 7, descrito pela marca como “energético e aromático”."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a diferença entre Espresso e Espresso Intenso Dolce Gusto? O Espresso tem intensidade 5 e o Intenso, 7, na escala da loja. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Ingrediente e xícara são iguais, e o preço era igual nas duas caixas.",
+          "Qual a diferença entre Espresso e Espresso Intenso Dolce Gusto? O Espresso tem intensidade 5 e o Intenso, 7, na escala da loja. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Ingrediente e xícara são iguais, e o preço também era igual.",
           "Espresso Dolce Gusto tem cafeína? O ingrediente é café torrado moído. A loja não informa a quantidade de cafeína em miligramas.",
           "Quantos ml faz o Espresso Dolce Gusto? A loja mostra xícara pequena. Na foto da tabela impressa numa embalagem, que reunimos na tabela de medidas, o Espresso e o Espresso Intenso aparecem com 50 ml.",
           "Espresso Dolce Gusto tem glúten? Não. A página da loja diz \"NÃO CONTÉM GLÚTEN\" e lista só café torrado moído.",
-          "Quanto custa o Espresso Dolce Gusto? Em outubro, a caixa de 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial, ou R$ 2,25 por cápsula pela nossa conta; confira o preço do dia na loja.",
+          "Quanto custa o Espresso Dolce Gusto? A caixa de 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial: R$ 2,25 por cápsula pela nossa conta. Confira o preço atual antes de comprar.",
           "Espresso Dolce Gusto tem tabela nutricional? A página da loja não traz tabela nutricional do Espresso nem do Espresso Intenso, e por isso não informamos calorias."
         ]
       }
@@ -88341,8 +88310,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml e quantas cápsulas por bebida",
         "paragraphs": [
-          "Uma cápsula rende uma xícara média de cerca de 120 ml. A caixa traz 10 cápsulas.",
-          "A página da loja mostra o ícone de xícara média. A tabela nutricional trata 1 cápsula como 1 porção e traz 10 porções por caixa: é uma cápsula por bebida.",
+          "Uma cápsula corresponde a uma porção na tabela da loja. O volume de cerca de 120 ml é estimativa nossa, a partir dos números da tabela; a página mostra o ícone de xícara média. A caixa traz 10 cápsulas.",
+          "A tabela nutricional trata 1 cápsula como 1 porção e traz 10 porções por caixa: é uma cápsula por bebida.",
           "Conta nossa, pelos números da tabela da loja: 78 kcal por cápsula divididas por 65 kcal a cada 100 ml, vezes 100, dão cerca de 120 ml. Para entender como os níveis da máquina se ligam aos mililitros, veja a [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
         "image": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
@@ -88435,7 +88404,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "É bom? O que a loja mostra",
         "paragraphs": [
-          "Na loja oficial, o Caramelo Salgado tinha nota de 95% na página, com 23 avaliações. É a nota de quem comprou, não a nossa opinião.",
+          "Na loja oficial, o Caramelo Salgado mostrava nota de 95%, com 23 avaliações. É a avaliação publicada na loja, não uma opinião nossa sobre o sabor.",
           "A página da marca apresenta o produto como um cappuccino cremoso, num contraste entre doce e salgado."
         ]
       },
@@ -88449,17 +88418,18 @@ export const reviewsData: unknown[] = [
         "heading": "Preço por cápsula e CECI",
         "paragraphs": [
           "A cápsula sai por R$ 2,59, sem desconto na página: em 17/10/2026, a caixa com 10 custava R$ 25,90 na loja oficial. Conta nossa: o preço dividido por 10. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
-          "O cupom CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. As regras estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no guia [como usar o CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar). Confira o desconto no resumo do pedido antes de pagar."
+          "O cupom CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. As regras e a validade estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no passo a passo de [como usar o cupom CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar). Confira a linha de desconto no resumo do pedido antes de finalizar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual o código de desconto da Dolce Gusto? O cupom é CECI, que dá 10% OFF na loja oficial em compras a partir de R$ 100.",
           "O Caramelo Salgado Dolce Gusto tem cafeína? A lista tem café solúvel, mas a loja não informa a quantidade de cafeína em mg.",
           "O Caramelo Salgado tem café? Sim, café solúvel, segundo a lista de ingredientes da loja.",
           "Quantas calorias tem o Caramelo Salgado Dolce Gusto? A tabela da loja mostra 78 kcal por cápsula (17,5 g) e 65 kcal por 100 ml.",
-          "Quantos ml faz o Caramelo Salgado? Cerca de 120 ml, na xícara média; a conta está no capítulo do volume.",
-          "O Caramelo Salgado é bom? Na loja oficial, ele tinha nota de 95% na página, com 23 avaliações.",
+          "Quantos ml faz o Caramelo Salgado? Estimamos cerca de 120 ml pela relação entre as calorias por cápsula e por 100 ml. É uma conta nossa, explicada no capítulo do volume.",
+          "O Caramelo Salgado é bom? A loja oficial mostrava nota de 95%, com 23 avaliações de compradores.",
           "O Caramelo Salgado é o da Netflix? A página atual da loja não cita a Netflix. A edição com a plataforma teve segunda temporada com este sabor em 2024, segundo a ABC da Comunicação."
         ]
       }
@@ -88555,7 +88525,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela nutricional por cápsula",
         "paragraphs": [
-          "A tabela da loja é por cápsula: o clássico tem 45 kcal numa porção de 10 g. No Vanilla, de 11 g. A tabela abaixo é do clássico."
+          "A tabela abaixo é do Café au Lait clássico: uma cápsula de 10 g tem 45 kcal, segundo a loja. As tabelas do Desnatado e do Vanilla estão nas seções de cada versão."
         ],
         "comparisonTable": {
           "headers": [
@@ -88613,7 +88583,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml faz o Café au Lait?",
         "paragraphs": [
-          "O clássico rende cerca de 180 ml, na xícara média. Conta nossa, pelos números da loja: 45 kcal da cápsula divididas por 25 kcal a cada 100 ml. É o mesmo valor da tabela impressa na embalagem, que reunimos em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), com 180 ml para o Café au Lait e 140 ml para o Desnatado. O Vanilla também fecha em cerca de 140 ml pela nossa conta. A loja indica 1 cápsula por bebida."
+          "Uma cápsula prepara uma bebida. O clássico rende cerca de 180 ml; o Desnatado e o Vanilla, cerca de 140 ml.",
+          "Conta nossa para o clássico, com os números da loja: 45 kcal por cápsula ÷ 25 kcal por 100 ml × 100 = 180 ml. Esse volume coincide com a tabela impressa na embalagem, que reunimos em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), onde o Café au Lait aparece com 180 ml (nível 6 de 7 barras) e o Desnatado com 140 ml (nível 5). No Vanilla, o volume de cerca de 140 ml vem da nossa conta."
         ],
         "image": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
         "imageAlt": "Cápsula e xícara grande do Café au Lait Dolce Gusto",
@@ -88711,7 +88682,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa a cápsula",
         "paragraphs": [
-          "A cápsula do clássico sai por R$ 2,25: em 17/10/2026, a caixa de 10 estava de R$ 25,90 por R$ 22,50 na loja oficial. Pela nossa conta, R$ 22,50 ÷ 10, e 1 cápsula faz 1 bebida. O Desnatado e o Vanilla estavam a R$ 25,90, sem preço promocional. O preço muda; confira na loja. Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
+          "Em 17/10/2026, a caixa do clássico com 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial. O custo era de R$ 2,25 por bebida: R$ 22,50 ÷ 10, com uma cápsula por bebida.",
+          "O Desnatado e o Vanilla estavam a R$ 25,90 por caixa, sem preço promocional. O preço muda; confira na loja.",
+          "Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
         ]
       },
       {
@@ -88730,7 +88703,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Café au Lait Dolce Gusto tem açúcar? O clássico e o Desnatado não têm açúcar adicionado (0 g); os açúcares vêm do leite. O Vanilla tem 2,9 g de açúcares adicionados por cápsula.",
-          "Quantos ml faz o Café au Lait Dolce Gusto? Pela nossa conta, cerca de 180 ml no clássico e cerca de 140 ml no Desnatado e no Vanilla.",
+          "Quantos ml faz o Café au Lait Dolce Gusto? Pela nossa conta, cerca de 180 ml no clássico (nível 6 de 7 barras na máquina) e cerca de 140 ml no Desnatado (nível 5) e no Vanilla.",
           "Quantas calorias tem o Café au Lait Dolce Gusto? O clássico tem 45 kcal por cápsula de 10 g. O Desnatado tem 34 kcal e o Vanilla, 47 kcal por cápsula de 11 g.",
           "Café au Lait Dolce Gusto tem cafeína? O café solúvel está na lista de ingredientes. A loja não informa a quantidade de cafeína em miligramas.",
           "Café au Lait Dolce Gusto tem glúten e lactose? A loja informa que contém lactose e contém glúten, além de derivados de leite e soja. Pode conter trigo, cevada e aveia.",
@@ -88790,7 +88763,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "\"Sem açúcar\" na embalagem quer dizer no máximo 0,5 g de açúcares por porção, não pouco carboidrato: os seis doces sem açúcar da Belive que lemos têm 0 g de açúcares e de 16 g a 24 g de carboidratos por porção. Por isso vale olhar seis pontos do rótulo, listados abaixo."
+          "“Sem açúcar” não significa sem carboidrato. Os seis doces da Belive declaram 0 g de açúcares e 16 g a 24 g de carboidratos nas porções indicadas. Para ler a diferença, comece pela porção, confira as linhas de açúcares e carboidratos e só então veja ingredientes e avisos da embalagem."
         ]
       },
       {
@@ -88806,9 +88779,9 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.9479
         },
         "bullets": [
-          "**Porção.** Todos os números da tabela valem para ela. Ela aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Dois doces só se comparam pela mesma porção ou pela coluna de 100 g.",
+          "**Porção.** Veja a qual coluna cada número pertence: porção ou 100 g. A medida aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Para comparar dois doces, use a mesma porção ou a coluna de 100 g.",
           "**Açúcares totais e açúcares adicionados.** Num doce sem açúcar, as duas linhas mostram 0 g. Os adicionados são os que entraram na receita, e os totais somam também os açúcares próprios dos ingredientes.",
-          "**Carboidratos.** É a linha que mostra quanto carboidrato a porção tem, com ou sem açúcar. Num doce sem açúcar, ela continua alta.",
+          "**Carboidratos.** Veja quantos gramas a porção contém. O número não se torna zero porque a embalagem diz “sem açúcar”; nos seis exemplos abaixo, ele vai de 16 g a 24 g por porção.",
           "**Fibras alimentares.** Vêm em gramas por porção, numa linha à parte.",
           "**Lista de ingredientes.** É onde aparecem os adoçantes, com o nome técnico, como maltitol, sorbitol, glicosídeos de esteviol e sucralose. A frente da embalagem às vezes cita só um deles.",
           "**A lupa na frente da embalagem.** Ela avisa quando o alimento é alto em açúcar adicionado, gordura saturada ou sódio. Um doce sem açúcar pode ter a lupa por outro motivo: nas fotos da loja, as embalagens do bolinho, do pão de mel e do bolo da Belive trazem \"alto em gordura saturada\". A do brownie de chocolate não traz lupa."
@@ -88828,7 +88801,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Zero açúcar, sem açúcar, não contém açúcares",
-              "No máximo 0,5 g de açúcares por porção e por 100 g, e nenhum açúcar declarado acima de zero na tabela",
+              "Máximo de 0,5 g de açúcares por porção de referência, por 100 g ou 100 ml e por embalagem individual, quando aplicável; nenhum açúcar declarado acima de zero na tabela",
               "Açúcares totais 0 g. Se o doce não for baixo em calorias, a frase \"Este não é um alimento baixo ou reduzido em valor energético\" junto da alegação"
             ],
             [
@@ -88996,7 +88969,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A oferta relâmpago do bolinho tinha contagem regressiva na página e pode acabar a qualquer hora. Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+          "A oferta relâmpago do bolinho, de R$ 4,58, tinha contagem regressiva na página e não confirma um preço atual. Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
         ]
       },
       {
@@ -89023,7 +88996,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Doce sem açúcar tem carboidrato? Tem. Os seis doces sem açúcar da Belive deste guia têm de 16 g a 24 g de carboidratos por porção, com 0 g de açúcares.",
-          "Zero açúcar e sem açúcar são a mesma coisa? Sim. A regra de rotulagem trata \"zero\", \"sem\" e \"não contém açúcares\" como a mesma alegação: no máximo 0,5 g de açúcares por porção e por 100 g.",
+          "Zero açúcar e sem açúcar são a mesma alegação? Sim. A regra de rotulagem inclui \"zero\", \"sem\" e \"não contém\" nesse grupo, com o mesmo limite: 0,5 g de açúcares por porção de referência, por 100 g ou 100 ml e por embalagem individual, quando aplicável.",
           "Sem adição de açúcar é o mesmo que zero açúcar? Não. \"Sem adição\" quer dizer que não entrou açúcar na receita, mas o doce pode ter os açúcares dos próprios ingredientes. Nesse caso, o rótulo traz a frase \"contém açúcares próprios dos ingredientes\".",
           "Diet quer dizer sem açúcar? Não necessariamente. Diet é o alimento feito para uma dieta com restrição de algum nutriente, que pode ser o açúcar, a gordura ou o sódio.",
           "Doce sem açúcar tem menos calorias? Nem sempre. Compare as calorias da tabela pela mesma porção. O brownie de chocolate da Belive tem 124 kcal em 40 g.",
@@ -89084,7 +89057,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Belive vende oito brownies sem açúcar, quatro comuns e quatro proteicos, todos de 40 g e adoçados com maltitol e esteviol, sem açúcar adicionado no rótulo. Um brownie de nome parecido, o Proteico Double Chocolate Sem Glúten Sem Lactose, não é sem açúcar. Preço por unidade e no kit de 10 estão nos capítulos abaixo."
+          "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. Não confunda com o Double Chocolate Sem Glúten Sem Lactose, que contém açúcar."
         ]
       },
       {
@@ -89339,11 +89312,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quais brownies da Belive são sem açúcar? Oito: Chocolate, Fit Chocolate com Coco, Chocolate com Nozes, Doce de Leite e os proteicos Double Chocolate, Chocolate com Avelã, Cappuccino e Caramelo Salgado.",
+          "Quais brownies da Belive são sem açúcar? Oito: Chocolate, Fit Chocolate com Coco, Chocolate com Nozes, Doce de Leite e os proteicos Double Chocolate, Chocolate com Avelã, Cappuccino e Caramelo Salgado. Nos totais, sete declaram 0 g de açúcares; o Caramelo Salgado declara 0,1 g.",
           "Quantas calorias tem o brownie sem açúcar da Belive? De 121 kcal a 144 kcal por unidade de 40 g, conforme o sabor. O de chocolate tem 124 kcal.",
-          "Quanto custa o brownie sem açúcar da Belive? De R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix.",
+          "Quanto custa o brownie sem açúcar da Belive? Na tabela deste guia, de R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix. Os preços mudam; confira no site.",
           "Quanta proteína tem o brownie proteico da Belive? De 5 g a 6 g por unidade de 40 g. Os comuns têm de 1,6 g a 2 g.",
-          "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo mostra 0 g de açúcares adicionados nos oito (e 0 g de açúcares totais em sete; o Caramelo Salgado mostra 0,1 g) e de 13 g a 22 g de carboidratos por unidade. A quantidade, quem tem diabetes combina com o médico ou o nutricionista.",
+          "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo não define a quantidade para cada pessoa. Os oito declaram 0 g de açúcares adicionados e de 13 g a 22 g de carboidratos por unidade; nos totais, o Caramelo Salgado declara 0,1 g e os outros sete, 0 g. Leve o rótulo ao médico ou ao nutricionista que acompanha você.",
           "Qual adoçante o brownie da Belive usa? Maltitol e glicosídeos de esteviol, nos oito sabores sem açúcar. Os proteicos também levam sorbitol."
         ]
       }
@@ -89412,7 +89385,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata em 17/10/2026."
+          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata."
         ]
       },
       {
@@ -89601,7 +89574,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade",
         "paragraphs": [
-          "Na unidade, a Suavipan saiu mais barata na farmácia; no kit, a Belive levou. Preços de 17/10/2026. Conta nossa: o preço por unidade dos kits."
+          "Em 17/10/2026, a unidade Suavipan na Drogasil custava menos que a Belive no site oficial. Conta nossa, com o preço de cada kit dividido pelas unidades: entre os kits, a Belive tinha o menor preço por unidade."
         ],
         "comparisonTable": {
           "headers": [
@@ -89619,7 +89592,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Belive, site oficial",
-              "Unidade, com MAUAD e Pix",
+              "Unidade, simulação com MAUAD e Pix",
               "R$ 3,92",
               "R$ 3,92"
             ],
@@ -89631,7 +89604,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Belive, site oficial",
-              "Kit de 10, com MAUAD e Pix",
+              "Kit de 10, simulação com MAUAD e Pix",
               "R$ 42,86",
               "R$ 4,29"
             ],
@@ -89650,7 +89623,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399.",
+          "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399. A simulação de R$ 3,92 usa o cupom e o Pix sobre os R$ 4,58; compare o total com frete no carrinho.",
           "Na Belive, o cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive). O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. A Suavipan não tem cupom nosso."
         ]
       },
@@ -89693,7 +89666,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a Belive se você quer conferir açúcares, calorias e carboidratos antes de comprar: a tabela dela traz 0 g de açúcares totais e adicionados.",
-        "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na Drogasil, ela saiu mais barata."
+        "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na Drogasil ela saiu mais barata, e o preço depende do CEP."
       ],
       "skipIf": [
         "Passe na Suavipan se você evita glúten ou leite: ela leva farinha de trigo e leite em pó.",
@@ -89844,7 +89817,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O proteico tem 4 g a mais de proteína e 7 g a menos de carboidratos por unidade. As calorias quase não mudam, porque a gordura sobe um pouco."
+          "O proteico tem 4 g a mais de proteína e 7 g a menos de carboidratos por unidade. As calorias ficam próximas: 162 kcal no proteico e 163 kcal no comum; as gorduras totais são 10 g e 9,2 g."
         ]
       },
       {
@@ -89941,10 +89914,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: comum ou proteico",
-        "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é o proteico, porque entrega 6 g contra 2 g com as mesmas calorias.",
+        "emphasis": "Pelos rótulos, o proteico entrega 4 g a mais de proteína por unidade, com calorias quase iguais às do comum.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "O proteico tem 16 g de carboidratos por unidade, contra 23 g do comum. Nas calorias a diferença some, com 162 kcal no proteico e 163 kcal no comum. O comum serve a quem não precisa dessa proteína e paga um pouco menos pelo kit.",
+          "O proteico tem 16 g de carboidratos por unidade, contra 23 g do comum, e 6 g de proteína, contra 2 g. Se esses 4 g adicionais de proteína não forem seu critério de escolha, o comum custava menos no kit de 10.",
           "O kit de 10 custava R$ 78,96 no proteico e R$ 74,12 no comum, ou R$ 7,90 e R$ 7,41 por unidade. Nos dois, o rótulo mostra 0 g de açúcares, mas não diz se o doce cabe na sua dieta: essa conta é com o nutricionista ou o médico."
         ]
       },
@@ -89954,7 +89927,7 @@ export const reviewsData: unknown[] = [
           "Quantas calorias tem o pão de mel sem açúcar da Belive? O comum tem 163 kcal e o proteico, 162 kcal, por unidade de 45 g.",
           "Qual a diferença entre o pão de mel comum e o proteico da Belive? O proteico tem 6 g de proteína e 16 g de carboidratos por unidade. O comum tem 2 g de proteína e 23 g de carboidratos.",
           "O pão de mel da Belive tem açúcar? O rótulo mostra 0 g de açúcares totais e adicionados nas duas versões. Os adoçantes são maltitol e glicosídeos de esteviol.",
-          "Quanto custa o kit de pão de mel da Belive? R$ 74,12 o comum e R$ 78,96 o proteico, com 10 unidades. Com o MAUAD e o Pix, R$ 6,34 e R$ 6,75 por unidade.",
+          "Quanto custa o kit de pão de mel da Belive? O kit de 10 sai por R$ 74,12 no comum e R$ 78,96 no proteico, sem o cupom. Conta nossa, com MAUAD e Pix: R$ 6,34 e R$ 6,75 por unidade; confira os preços no site.",
           "O pão de mel da Belive tem glúten ou leite? A lista diz que não contém glúten, e a loja declara as duas versões sem leite e sem lactose. As duas contêm derivados de soja e ovo."
         ]
       }
@@ -98676,8 +98649,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantas bebidas o escritório toma por mês",
         "paragraphs": [
-          "A conta é 44 bebidas por pessoa no mês: 2 por dia em 22 dias úteis, sem cupom e sem a máquina.",
-          "A conta é pessoas × 2 bebidas por dia × 22 dias úteis. Cada pessoa toma 44 bebidas no mês, e a equipe toma:"
+          "Use a fórmula pessoas × bebidas por dia × dias úteis. No cenário deste guia, são duas bebidas por pessoa em 22 dias úteis: 44 bebidas por pessoa no mês. Para a equipe, o total fica assim:"
         ],
         "bullets": [
           "5 pessoas: 220 bebidas por mês",
@@ -98685,19 +98657,19 @@ export const reviewsData: unknown[] = [
           "20 pessoas: 880 bebidas por mês"
         ],
         "postParagraphs": [
-          "Os 22 dias úteis são a média de um mês. Num mês com feriado, são 21. As duas bebidas por dia são uma suposição deste texto; troque pelos números da sua equipe, porque a fórmula continua valendo.",
-          "Bebida de duas cápsulas conta em dobro. Na linha Dolce Gusto, cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas, e café, Nescau, Nestea e Mochaccino Canela (que leva leite) usam uma. A tabela da seção de custo considera só bebidas de uma cápsula, então um escritório que pede muito cappuccino gasta mais do que ela mostra."
+          "Os 22 dias úteis são uma premissa para comparar os cenários, não uma regra de todo mês. Troque pelos dias de trabalho e pelo consumo da sua equipe.",
+          "Conte cápsulas pela receita da bebida. Cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas; café, Nescau, Nestea e Mochaccino Canela usam uma. Ter leite não significa usar duas cápsulas. A tabela mensal considera bebidas de uma cápsula; para outro mix, use os preços por bebida da seção Mais que café."
         ]
       },
       {
         "heading": "Qual tipo de máquina para cada tamanho de escritório",
         "paragraphs": [
-          "A escolha é entre cápsula, filtro e grão, e o tamanho da equipe decide."
+          "A escolha é entre cápsula, filtro e grão. Decida pelo que a equipe bebe, pelo gasto com insumos e pelo ritmo de preparo; para volumes altos, confirme a capacidade da máquina com a marca."
         ],
         "comparisonTable": {
           "headers": [
             "Perfil",
-            "Máquina que faz sentido",
+            "Opções a avaliar",
             "Por que",
             "Custo mensal do consumo (sem cupom)"
           ],
@@ -98705,19 +98677,19 @@ export const reviewsData: unknown[] = [
             [
               "2 a 5 pessoas",
               "Dolce Gusto, se a equipe toma leite ou chocolate; filtro elétrico, se só toma café preto",
-              "Cinco pessoas consomem 220 cápsulas por mês, e o combo de 20 caixas tem 200",
+              "Cinco pessoas consumiriam 220 cápsulas por mês, e o combo de 20 caixas tem 200",
               "Dolce Gusto: R$ 356,07 a R$ 410,85 (5 pessoas); filtro: R$ 96,66 (5 pessoas)"
             ],
             [
               "5 a 15 pessoas",
-              "Dolce Gusto em combo para negócios de 50 caixas",
-              "Dez pessoas consomem 440 cápsulas por mês, e 50 caixas têm 500",
+              "Cápsula, se a equipe quer variedade; filtro, se prefere café preto",
+              "Dez pessoas consumiriam 440 bebidas no cenário de uma cápsula por preparo; um lote de 500 deixaria 60 cápsulas",
               "R$ 712,14 (10 pessoas)"
             ],
             [
               "15 pessoas ou mais",
-              "Dolce Gusto em 50 caixas para as bebidas de cápsula; para espresso e leite fresco em volume, a linha Nespresso Profissional",
-              "Vinte pessoas consomem 880 cápsulas por mês, e 50 caixas cobrem 500; a linha profissional tem preço sob contato",
+              "Compare o custo dos combos com as necessidades de uso; para espresso e leite fresco em volume, peça cotação de linha profissional",
+              "Vinte pessoas consumiriam 880 bebidas no cenário. A conta estima insumos, não a capacidade de preparo da máquina.",
               "R$ 1.424,28 (20 pessoas) em Dolce Gusto; Nespresso Profissional sem preço publicado"
             ]
           ]
@@ -98991,7 +98963,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Escritório de advocacia, consultório e escritório grande: o que muda",
         "paragraphs": [
-          "Advocacia, consultório e MEI usam a mesma conta: pessoas × 2 bebidas × 22 dias úteis. Consultório e MEI costumam caber no perfil de 2 a 5 pessoas. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
+          "Consultório, advocacia ou MEI não definem por si só o tamanho da máquina. Conte quem usa, quantas bebidas prepara e se o consumo se concentra em horários de pico. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
           "Para quem prefere cafeteira elétrica sem cápsula, as Oster citadas acima custam de R$ 179,90 a R$ 309,90. A máquina é pagamento único, e o custo que se repete é o do pó: com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44.",
           "Escritório de 15 pessoas ou mais entra na conta de 20 pessoas da tabela mensal. Com 20 pessoas, a caixa avulsa da Dolce Gusto sai por R$ 2.191,20 no mês e o combo de 50 caixas por R$ 1.424,28, em custo das cápsulas consumidas."
         ]
@@ -99012,24 +98984,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher para o escritório",
         "paragraphs": [
-          "A escolha depende de quem toma o quê. Os valores são sem cupom e sem a máquina, e a conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula."
+          "A escolha depende de quem toma o quê. Os cenários abaixo estimam o consumo de duas bebidas por pessoa em 22 dias úteis. Os valores são proporcionais aos insumos usados; a compra exige pagar caixas, combos ou pacotes inteiros e pode deixar estoque. A máquina, o frete e a energia ficam fora."
         ],
         "bullets": [
           "5 pessoas (220 bebidas por mês): Dolce Gusto, no combo para negócios de 50 caixas, R$ 356,07 por mês em cápsulas consumidas (a compra do combo é de R$ 809,25 de uma vez); no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
-          "10 pessoas (440 bebidas): Dolce Gusto em 50 caixas, R$ 712,14; filtro, R$ 193,32.",
-          "20 pessoas (880 bebidas): Dolce Gusto em 50 caixas, R$ 1.424,28; filtro, R$ 386,64."
+          "10 pessoas (440 bebidas): Dolce Gusto em 50 caixas, R$ 712,14 em cápsulas consumidas; filtro, R$ 193,32.",
+          "20 pessoas (880 bebidas): Dolce Gusto em 50 caixas, R$ 1.424,28 em cápsulas consumidas; filtro, R$ 386,64."
         ],
         "postParagraphs": [
           "No escritório nem todo mundo toma café. A Dolce Gusto faz café, bebidas com leite, chocolate, chá gelado e chá com a mesma máquina, e por isso atende o time inteiro. Para quem só toma café preto, o filtro é muito mais barato por xícara: R$ 0,44 na xícara de 100 ml, contra R$ 1,62 a R$ 1,87 por bebida nos combos da Dolce Gusto e R$ 3,70 a R$ 4,20 por cápsula da Nespresso Original."
         ],
-        "emphasis": "Se fosse para o meu escritório, eu levaria a Dolce Gusto no combo de 50 caixas: faz café, leite, chocolate e chá na mesma máquina e sai a R$ 1,62 por bebida."
+        "emphasis": "Se fosse para o meu escritório, eu consideraria a Dolce Gusto pela variedade de café, leite, chocolate e chá. Para escolher o combo, compararia o consumo da equipe com a quantidade de caixas que precisaria comprar de uma vez."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Cafeteira para escritório sem cápsula existe? Sim. A cafeteira elétrica de filtro, como as Oster de R$ 179,90 a R$ 309,90, não usa cápsula, e o café moído da Melitta sai a R$ 0,44 por xícara de 100 ml.",
           "Qual a melhor cafeteira de cápsula para escritório? Não há uma melhor para todos: para a equipe que quer variedade e custo baixo por bebida, a Dolce Gusto com combo de negócios; para espresso com leite fresco em volume, a linha profissional da Nespresso, com preço sob contato.",
-          "Cafeteira grande para escritório: qual escolher? Grande aqui quer dizer volume: a Oster Black tem jarra de 0,7 L, e o reservatório das Dolce Gusto Mini Me e Genio S é de 0,8 L. A ficha que lemos não diz quantas xícaras cabem em cada máquina.",
+          "Cafeteira grande para escritório: qual escolher? Grande aqui quer dizer volume: a Oster Black tem jarra de 0,7 L, e o reservatório das Dolce Gusto Mini Me e Genio S é de 0,8 L. Litros de reservatório não dizem quantas pessoas a máquina atende.",
           "O cupom CECI vale nos combos para negócios? Vale, na loja oficial da Dolce Gusto, com 10% OFF sobre o preço do dia em compras a partir de R$ 100; o combo de 50 caixas sai por R$ 728,33.",
           "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas: com 5 pessoas e 44 bebidas cada no mês, o combo de 20 caixas da Dolce Gusto sai a R$ 410,85 em cápsulas consumidas, e a tabela mensal tem as contas para 5, 10 e 20 pessoas. O combo é vendido fechado: o de 20 caixas custa R$ 373,50 de uma vez."
         ]
@@ -99060,7 +99032,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a Dolce Gusto se a equipe toma leite, chocolate ou chá além de café.",
-        "Leve o combo de 50 caixas se o escritório quer o menor custo por bebida."
+        "Considere o combo de 50 caixas se o consumo e o estoque fizerem sentido: ele tem o menor preço por cápsula entre os combos de negócios."
       ],
       "skipIf": [
         "Passe a cápsula se a equipe só toma café preto: o filtro sai mais barato por xícara.",
@@ -120694,11 +120666,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de escolher: o que vale para todos os móveis",
         "paragraphs": [
-          "O presente certo começa pelo espaço, pela porta e por quem vai usar, não pelo preço. Os preços da DAMIE foram lidos no site da loja, e os das outras marcas, no varejo, na mesma semana.",
+          "Comece por espaço, acesso e por quem vai usar o móvel. Os preços da DAMIE deste guia são de 23/10/2026, e os das outras marcas, do varejo da mesma semana. Consulte preço, prazo e campanha atuais antes de comprar.",
           "Cinco conferências valem para qualquer móvel deste guia, da DAMIE ou de outra marca. Faça antes de olhar o preço."
         ],
         "bullets": [
-          "**Espaço e porta:** meça onde o móvel vai ficar e por onde ele precisa passar. Os móveis da DAMIE chegam em caixa. O sofá modular vem em módulos, o que ajuda em escada, elevador pequeno e corredor estreito. A reclinável passa em porta a partir de 65 cm: com porta menor que 80 cm, entra primeiro o encosto e depois a base.",
+          "**Espaço e porta:** meça o local e todo o percurso da entrega. Os móveis da DAMIE chegam em caixa, e o sofá modular vem em módulos, o que pode ajudar em escada e elevador pequeno. A reclinável apresentada neste guia passa em porta a partir de 65 cm; com porta menor que 80 cm, entra primeiro o encosto e depois a base. Confirme as medidas da configuração escolhida com a DAMIE, incluindo as caixas e as curvas do percurso.",
           "**Quem vai usar:** altura, peso e facilidade para sentar e levantar mudam o modelo certo. Em presente para os pais, isso pesa mais que o visual.",
           "**Tecido:** em casa com criança ou pet, o corino importado é o mais prático contra manchas, pelos de animais e líquidos. No nosso uso da reclinável, o que cai na superfície sai com pano úmido. Suede, bouclé e linho têm toque de tecido e respiram mais. O corino troca menos calor que o linho, então combina com sala de clima ameno ou com ar-condicionado. A DAMIE também oferece couro bovino.",
           "**Entrega e montagem:** na DAMIE, a montagem é feita pelo cliente, por encaixe, e a entrega vai até o hall em prédio. O frete é grátis em poltronas e sofás no Sul e no Sudeste. No Centro-Oeste, o valor sai pelo CEP. No Norte e no Nordeste, a compra é só pelos anúncios da DAMIE no Mercado Livre. O prazo aparece no cálculo do frete.",
@@ -120715,7 +120687,7 @@ export const reviewsData: unknown[] = [
           "Para decidir entre eles, leia [sofá na caixa ou sofá montado: qual dura mais](/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais) e [sofá modular ou retrátil: qual escolher](/reviews/sofa-modular-ou-retratil-qual-escolher). Na DAMIE, as duas coisas se juntam: o Sofá Damie na Caixa Modular é modular e chega em caixas. Quem tem escada, elevador pequeno ou planeja mudar a sala de lugar tem aqui um bom motivo para olhar o modular."
         ],
         "comparisonTable": {
-          "caption": "Sofá modular de 3 lugares nas marcas que vendem na caixa. Preços lidos nos sites das marcas. A faixa muda com o revestimento e a configuração, e o preço da Inflow está no Pix.",
+          "caption": "Sofás modulares de 3 lugares vendidos na caixa. A faixa muda com o revestimento e a configuração; o preço da Inflow está no Pix.",
           "headers": [
             "Marca",
             "3 lugares",
@@ -120756,7 +120728,7 @@ export const reviewsData: unknown[] = [
           "O sofá da DAMIE sai em cinco revestimentos: suede, bouclé, linho, corino importado e couro bovino. Todas as configurações levam o apoio de pé (puff) de graça. Cada uma tem uma faixa de preço, porque o valor muda com o revestimento e a cor: o menor preço é o dos tecidos mais em conta, e o maior, o do couro bovino. A garantia é de 1 ano e, depois dela, a marca mantém suporte vitalício, com peças de reposição a preço de custo."
         ],
         "comparisonTable": {
-          "caption": "Sofá modular DAMIE no site oficial em 23/10/2026, com apoio de pé grátis. Os preços mudam sem aviso e variam com o revestimento.",
+          "caption": "Sofá modular DAMIE no site oficial, com apoio de pé grátis. Os preços mudam sem aviso e variam com o revestimento.",
           "headers": [
             "Configuração",
             "Preço"
@@ -120982,7 +120954,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Black Friday ou Natal: quando comprar",
         "paragraphs": [
-          "Para móvel de presente, a Black Friday (27 de novembro) deixa quase um mês até o Natal (25 de dezembro), e isso só serve se o prazo de entrega do seu CEP couber nele: móvel grande ou sob encomenda pode levar boa parte desse mês. Simule o frete antes de decidir esperar; se o prazo já está apertado, não adie. Comprar em cima do Natal é arriscar.",
+          "Para presentear com um móvel no Natal, confira primeiro o prazo do produto para o CEP de entrega. Espere a Black Friday de 27 de novembro só se a previsão de fabricação e transporte couber até 25 de dezembro; em móvel sob encomenda, o intervalo entre as datas não garante a chegada.",
           "O prazo de entrega aparece no cálculo do frete, pelo CEP, antes de pagar, e conta da confirmação do pagamento. Na página do produto, ele também aparece ao escolher o estado. O Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. O logo bordado, opcional nas reclináveis, soma 7 dias. Por isso, não existe uma data de corte igual para todo mundo: ela depende do CEP, do produto e do dia em que o pagamento for confirmado. Por isso, este guia não dá data de chegada.",
           "Também não precisa esperar o dia 27: a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostrava as condições da campanha, válidas até o dia da Black Friday. Entram brindes na compra de uma poltrona, R$ 1.000 de desconto já aplicado nas poltronas, desconto por quantidade nas reclináveis e na Poltrona Cinema, acessórios com preço de campanha e frete grátis no Sul e no Sudeste, aplicado no checkout. Confira no carrinho se o CECILIA12 soma com cada um. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
         ],
@@ -121029,12 +121001,12 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual móvel escolher",
-        "emphasis": "Se fosse para a minha casa, eu levaria a elétrica com elevação, porque ela ajuda a levantar e a marca a indica para idosos.",
+        "emphasis": "Para presentear alguém com dificuldade de levantar, considere a base com elevação indicada pela DAMIE. Confirme com a pessoa a altura do assento, o peso suportado e o uso do controle antes de escolher.",
         "bullets": [
           "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso. Na DAMIE, a reclinável vai de R$ 2.969 a R$ 6.149, conforme a base e o revestimento.",
           "**Para a sala:** o sofá modular. Ele chega em caixas, passa por escada e elevador pequeno, e o 3 lugares da DAMIE custa de R$ 5.100 a R$ 8.100, com apoio de pé grátis.",
-          "**Para o cinema em casa e para a piscina:** a Poltrona Cinema, de 2 a 9 lugares, e a linha Garden, com espreguiçadeira e puffs redondos de 120 cm de diâmetro. Cada uma tem a sua seção mais abaixo.",
-          "**Quando comprar:** a Black Friday vem antes do Natal, com quase um mês de folga, que só vale se o prazo do seu CEP couber nele. O prazo de entrega aparece no cálculo do frete, pelo CEP, e conta da confirmação do pagamento. Confira antes de pagar.",
+          "**Para cinema em casa ou piscina:** veja as seções anteriores sobre a Poltrona Cinema, de 2 a 9 lugares, e a Garden, com espreguiçadeira e puffs de 120 cm. Confira espaço, prazo e configuração de cada peça.",
+          "**Quando comprar:** decida pelo prazo do produto para o CEP, incluindo fabricação quando houver. Espere a Black Friday só se a previsão couber até o Natal; confirme antes de pagar.",
           "**Cupom:** na DAMIE, o CECILIA12 dá 12% OFF em todo o site e hoje soma com as promoções e com os 10% do Pix. As regras e a data do último teste estão na [página da DAMIE](/cupons/damie)."
         ]
       },
@@ -121045,7 +121017,7 @@ export const reviewsData: unknown[] = [
           "Chega antes do Natal se eu comprar na Black Friday? Depende do CEP e do produto. O prazo aparece no frete, antes de pagar, e conta da confirmação do pagamento: confira ali, sem contar com data de chegada.",
           "Puff de piscina pode ficar no sol e na chuva? Só o de tecido impermeável com proteção UV. Segundo a DAMIE, o tecido dos puffs e da espreguiçadeira Garden não absorve água e pode ficar perto da piscina e até submerso.",
           "Poltrona de cinema precisa de tomada? As elétricas precisam de uma tomada por perto. Confira na configuração da Cinema 2.0 se há motor antes de comprar.",
-          "O CECILIA12 vale na Black Friday? Hoje ele soma com as promoções e com o Pix. Na campanha, confira no carrinho se soma; a [página do cupom](/cupons/damie) traz a data do último teste.",
+          "O CECILIA12 vale na Black Friday? Hoje ele soma com as promoções e com o Pix. a [página do cupom](/cupons/damie) traz a data do último teste.",
           "Quanto custa uma poltrona de cinema para casa? A Cinema 2.0 da DAMIE ia de R$ 5.438 a R$ 8.380 no modelo de 2 lugares, conforme o revestimento. No varejo, as linhas de 2 e 3 lugares estavam de cerca de R$ 3.800 a R$ 7.900."
         ]
       }
@@ -121053,10 +121025,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a reclinável com elevação se o presente é para pais ou avós com dificuldade de levantar.",
-        "Leve o sofá modular se a entrada tem escada ou elevador pequeno."
+        "Leve o sofá modular se o acesso é estreito, desde que cada módulo e sua caixa passem pelo percurso."
       ],
       "skipIf": [
-        "Passe a reclinável se a porta tem menos de 65 cm: ela passa a partir dessa medida.",
+        "Passe se a configuração escolhida não couber nas portas, curvas, escada ou elevador do percurso. Confirme as medidas das partes e das caixas antes de comprar.",
         "Passe a linha Garden se você compra perto do Natal: ela é feita sob encomenda e leva tempo."
       ]
     },
@@ -128163,7 +128135,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, a Valley Modular dá 5% e a Inflow e a DAMIE dão 10%; o parcelamento vai até 10x na Valley Modular e na Inflow e até 12x na DAMIE. Na DAMIE, o cupom CECILIA12 tira mais 12% e soma com o desconto do Pix. O sofá-cama Mood, da Valley Modular, saía por R$ 3.150 no 2 lugares e R$ 4.190 no 3 lugares, mas é outro tipo de sofá e não entra na conta.",
-          "No 3 lugares com apoio, a Inflow tem o menor preço no cartão (R$ 4.790, em bouclê) e a Valley Modular, o maior (R$ 5.986). No 2 lugares com apoio, a ordem é a mesma: Inflow (R$ 3.790), DAMIE (R$ 3.850, com o puff) e Valley Modular (R$ 4.175). O menor número da tabela é o Modu 2 lugares com 2 cantos sem apoio, R$ 3.189, que é um sofá menor, de 190 cm. Compare sempre cartão com cartão ou Pix com Pix, e some o frete: a Valley Modular não publica regra de frete grátis, e as outras duas só dão no Sul e no Sudeste."
+          "Antes de código e frete, no 3 lugares com apoio, a Inflow tem o menor preço no cartão (R$ 4.790, em bouclê) e a Valley Modular, o maior (R$ 5.986). No 2 lugares com apoio, a ordem é a mesma: Inflow (R$ 3.790), DAMIE (R$ 3.850, com o puff) e Valley Modular (R$ 4.175). O menor número da tabela é o Modu 2 lugares com 2 cantos sem apoio, R$ 3.189, que é um sofá menor, de 190 cm. Compare configurações equivalentes, com o mesmo meio de pagamento, descontos aplicáveis e frete: a Valley Modular não publica regra de frete grátis, e as outras duas só dão no Sul e no Sudeste."
         ]
       },
       {
@@ -128172,7 +128144,7 @@ export const reviewsData: unknown[] = [
           "É aqui que as três mais se separam, e as regras ficam em letra miúda.",
           "**DAMIE: 30 dias de teste.** Se você não gostar do sofá, a DAMIE agenda a coleta e devolve o valor pago. A condição é guardar a embalagem: a página do produto diz \"Sem a embalagem preservada, não coletamos\". Depois dos 30 dias, vale a garantia de 1 ano e, em seguida, o suporte vitalício com peças a preço de custo.",
           "**Valley Modular: 7 dias, na embalagem original.** A política de devoluções da marca repete o prazo de 7 dias do artigo 49 do CDC: o produto volta na embalagem original, sem sinais de mau uso, e os motivos aceitos são defeito, modelo errado ou medida errada. A marca não aceita devolução por variação de tom nem por cor pedida errada. A página não diz se o sofá já expandido entra na devolução nem quem paga o frete de volta, e não há teste em casa além do prazo legal. A garantia de 6 meses aparece na ficha do produto e no FAQ da loja; a página de políticas não fala de garantia. A entrega não é agendada, sai em horário comercial, e a página avisa que a transportadora não sobe escada.",
-          "**Inflow: só lacrado, pela política da loja.** A política da Inflow aceita o arrependimento com o produto lacrado, sem sinais de abertura, e deixa o frete de volta com o cliente. O CDC garante 7 dias de arrependimento na compra pela internet, e o lacre e o frete são exigências da loja: na dúvida, confirme com a Inflow antes de abrir. Depois de aberto, a política só prevê troca por defeito, dentro da garantia: a ficha do produto diz 3 meses e a política, 90 dias para relatar o defeito, que é o mesmo prazo."
+          "**Inflow: a política exige lacre.** A política da loja condiciona o arrependimento à embalagem fechada e atribui o frete de retorno ao cliente. Depois de aberto, o sofá só se troca por defeito, dentro da garantia: a ficha do produto diz 3 meses e a política, 90 dias para relatar o defeito, que é o mesmo prazo."
         ],
         "image": "/images/reviews/damie/valley-inflow-ou-damie-garantia-teste-devolucao-prazo.webp",
         "imageAlt": "Quadro com garantia, teste em casa, devolução por arrependimento e prazo da Valley Modular, da Inflow e da DAMIE, lidos em 25/10/2026.",
@@ -128181,13 +128153,13 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.3311,
         "postParagraphs": [
           "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu, na leitura, marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de Sofá na Caixa, Inflow ou DAMIE. A Valley Modular tem poucos registros para avaliar.",
-          "Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, o mais seguro, pelas políticas publicadas da Valley Modular e da Inflow, é decidir antes de abrir a caixa se você quer a chance de devolver por não gostar. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
+          "Para comparar teste em casa, separe o prazo comercial adicional da DAMIE das regras de arrependimento. A Valley Modular não esclarece o retorno do sofá expandido, e a Inflow exige o produto lacrado para devolver. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
         ]
       },
       {
         "heading": "E a reputação das três no Reclame Aqui?",
         "paragraphs": [
-          "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026)."
+          "Dados do Reclame Aqui de abril a setembro de 2026. Esses dados descrevem o período, não o atendimento de compras futuras."
         ],
         "comparisonTable": {
           "caption": "Reclame Aqui, últimos 6 meses",
@@ -128223,13 +128195,13 @@ export const reviewsData: unknown[] = [
               "100%"
             ],
             [
-              "Resolvidas",
+              "Resolvidas entre as avaliadas",
               "Não há",
               "94,2%",
               "86,8%"
             ],
             [
-              "Voltariam a fazer negócio",
+              "Voltariam a fazer negócio, entre as avaliadas",
               "Não há",
               "73,3%",
               "76,2%"
@@ -128250,7 +128222,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A Valley Modular está sem reputação definida porque tem menos de 10 avaliações no período: foram 2 reclamações, 1 respondida e 1 aguardando resposta. No histórico geral da página, são 9 reclamações, 88,9% respondidas e 1 avaliada. A página traz o selo de empresa verificada, que confirma a existência da empresa e não é uma nota. Com tão poucos registros, o Reclame Aqui não diz muito sobre a Valley Modular, nem para bem nem para mal.",
-          "Entre as outras duas, a Inflow tem o melhor selo (RA1000) e a maior taxa de solução, 94,2%; a DAMIE tem selo Ótima e a resposta mais rápida, 13 horas. O selo mede atendimento e solução, não volume de vendas, e nenhuma das três publica quantos sofás vende."
+          "A Inflow tem selo RA1000 e índice de solução de 94,2% entre as avaliadas; a DAMIE tem reputação Ótima e média de resposta de 13 horas. São indicadores de atendimento no perfil e no período, não prazo garantido nem taxa de sucesso de todos os pedidos."
         ]
       },
       {
@@ -128276,15 +128248,15 @@ export const reviewsData: unknown[] = [
           "Cada perfil de compra aponta para uma marca:"
         ],
         "bullets": [
-          "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso, desde que guarde a embalagem. Valley Modular e Inflow só dão os 7 dias do CDC, e a política da Inflow exige o produto lacrado.",
+          "**Quem quer prazo comercial de teste em casa:** a DAMIE divulga trinta dias, com coleta e reembolso desde que a embalagem seja guardada. A Valley Modular e a Inflow não divulgam teste comercial em casa.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano. A Valley Modular dá 6 meses e a Inflow, 3 meses.",
-          "**Quem quer o menor preço no cartão do 3 lugares com apoio:** Inflow, em bouclê, por R$ 4.790. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
-          "**Quem quer o menor preço no cartão do 2 lugares com apoio:** Inflow, em bouclê bege, por R$ 3.790; a DAMIE vem em R$ 3.850, com o puff, e a Valley Modular em R$ 4.175. Se o apoio não importa, o Modu 2 lugares com 2 cantos da Valley Modular sai por R$ 3.189, num sofá de 190 cm.",
+          "**Menor preço de catálogo no cartão do 3 lugares com apoio, antes de código e frete:** Inflow, em bouclê, por R$ 4.790. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
+          "**Menor preço de catálogo no cartão do 2 lugares com apoio, antes de código e frete:** Inflow, em bouclê bege, por R$ 3.790; a DAMIE vem em R$ 3.850, com o puff, e a Valley Modular em R$ 4.175. Se o apoio não importa, o Modu 2 lugares com 2 cantos da Valley Modular sai por R$ 3.189, num sofá de 190 cm.",
           "**Quem precisa de prazo previsível:** na Valley Modular, some de 20 a 30 dias úteis de produção ao frete antes de contar com a entrega. Na Inflow e na DAMIE, o prazo sai no cálculo do frete.",
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste; a Valley Modular calcula o frete pelo CEP, sem regra de frete grátis publicada. Em qualquer uma, confira o frete no carrinho antes de fechar."
         ],
         "postParagraphs": [
-          "Em resumo: quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço do 3 lugares pode olhar a Inflow, sabendo que a política dela só aceita a devolução com o produto lacrado. A Valley Modular tem a garantia intermediária e o 2 lugares sem apoio mais barato da tabela, com prazo de produção sob encomenda e poucos registros no Reclame Aqui para avaliar o atendimento."
+          "A DAMIE divulga o prazo comercial de teste mais longo e um ano de garantia. A Inflow tem o menor preço de catálogo das configurações com apoio, antes de código e frete. A Valley Modular fica entre as outras em garantia e tem o menor dois lugares sem apoio da tabela. Confira prazo de produção e procedimento de devolução antes de escolher."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a DAMIE, pelos 30 dias de teste e 1 ano de garantia.",
         "emphasisAfterParagraph": 1
@@ -128293,9 +128265,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Valley Modular é a mesma empresa que a Inflow ou a Sofá na Caixa? Não. A Valley Modular é o nome fantasia da Valley Art LTDA. (CNPJ 30.105.567/0001-93, Hortolândia, SP, ativa desde 2018). A Inflow é da Fast Living Comércio e Distribuição Ltda. (Itapeva, MG, desde 2022) e a Sofá na Caixa é outra empresa, de Rafard (SP). Cada uma tem site e regras próprios.",
-          "Valley Modular é confiável? A empresa tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, ela estava sem reputação definida, com 2 reclamações, 1 respondida e tempo de resposta de 24 dias: são poucos registros para avaliar o atendimento, nem para bem nem para mal. A garantia é de 6 meses, informada na ficha do produto e no FAQ da loja.",
+          "Valley Modular é confiável? Sim, a empresa existe e opera: tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, o perfil está sem reputação definida, com duas reclamações, uma respondida. São poucos registros para avaliar o atendimento; a ficha e o FAQ divulgam seis meses de garantia.",
           "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa com coleta e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, a DAMIE com puff ficava abaixo da Valley Modular com apoio nas duas linhas: R$ 3.850 contra R$ 4.175 no 2 lugares e R$ 5.100 contra R$ 5.986 no 3 lugares.",
-          "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular, com 6 meses na ficha do produto. A Inflow informa 3 meses na ficha e 90 dias para relatar defeito na política, o mesmo prazo. Nas duas, a devolução por arrependimento segue os 7 dias do CDC, e a política da Inflow só aceita o produto lacrado.",
+          "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular divulga seis meses; a Inflow, três meses e noventa dias para relatar defeito na política. Na devolução por arrependimento, a Inflow exige o produto lacrado; confirme o procedimento antes de comprar.",
           "Posso devolver o sofá da Valley Modular depois de abrir? A política publicada fala em 7 dias, na embalagem original e sem sinais de mau uso, por defeito, modelo errado ou medida errada; ela não trata do sofá já expandido nem diz quem paga o frete de volta. Antes de abrir a caixa, confirme com a loja como fica a devolução do sofá expandido.",
           "Quanto tempo leva para chegar um sofá da Valley Modular? A marca produz sob encomenda e informa de 20 a 30 dias úteis de produção antes do envio. O transporte entra depois, com o prazo calculado pelo CEP no carrinho.",
           "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto. O teste de 30 dias vale com a embalagem guardada."
@@ -128305,11 +128277,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Para quem quer testar o sofá em casa por 30 dias, com coleta e reembolso, e 1 ano de garantia: a DAMIE.",
-        "Para quem prioriza o menor preço do 3 lugares com apoio e aceita a política dela de devolução só com o produto lacrado: a Inflow."
+        "Para quem prioriza o menor preço de catálogo do 3 lugares com apoio, antes de código e frete, e aceita a política de devolução só com o produto lacrado: a Inflow."
       ],
       "skipIf": [
         "Quando o prazo precisa ser previsível: a Valley Modular produz sob encomenda e soma de 20 a 30 dias úteis ao frete, enquanto na Inflow e na DAMIE o prazo sai no cálculo do frete.",
-        "Quando a decisão fica para depois de abrir a caixa: pela política da Inflow a devolução só vale com o produto lacrado e na Valley Modular valem os 7 dias do CDC, e só a DAMIE dá os 30 dias em casa."
+        "Você depende de experimentar e devolver, mas ainda não confirmou o procedimento de devolução de cada loja: confirme antes de comprar."
       ]
     }
   },
@@ -131388,7 +131360,7 @@ export const reviewsData: unknown[] = [
         "Assine se já sabe que vai repetir a compra."
       ],
       "skipIf": [
-        "Passe o combo: pelos preços lidos, o kit do mesmo produto sai mais barato.",
+        "Passe o combo: o kit do mesmo produto sai mais barato na compra única.",
         "Passe a lata de 370 g se o preço por grama pesa mais que a menor entrada."
       ]
     },
@@ -131407,7 +131379,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O kit de duas latas de 740 g sai mais barato por grama, tanto na compra única quanto na assinatura. A lata de 370 g custa 53% mais por grama que o kit. O CECI não foi testado com o kit nem com a assinatura: confira no carrinho."
+          "O kit de duas latas de 740 g sai mais barato por grama, tanto na compra única quanto na assinatura, antes do frete. A lata de 370 g custa 53% mais por grama que o kit. Para o CECI no kit e na assinatura, confira o desconto no carrinho antes de pagar."
         ]
       },
       {
@@ -131598,7 +131570,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Abra a página do cupom Belive, coloque MAUAD no campo do carrinho e confira o total antes de pagar: 10% no site, em todas as formas de pagamento.",
+      "text": "Entre no site oficial da Belive pelo botão, digite MAUAD no campo “Código do cupom” do carrinho e confira o desconto antes de pagar: 10% no site, em todas as formas de pagamento.",
       "label": "Ir para a Belive com o cupom",
       "url": "https://belivebefree.com.br/",
       "sponsored": true
@@ -131821,7 +131793,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar com o cupom",
         "paragraphs": [
-          "A compra é no site oficial da Belive. Na [página do cupom Belive](/cupons/belive), coloque MAUAD no campo \"Código do cupom\" do carrinho e clique em \"Aplicar cupom\".",
+          "A compra é no site oficial da Belive. Digite MAUAD no campo “Código do cupom” do carrinho e clique em “Aplicar cupom”. Consulte as condições na [página do cupom Belive](/cupons/belive).",
           "O frete grátis depende da região e do valor do carrinho: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; acima de R$ 300 nos demais estados.",
           "O passo a passo do cupom está em [cupom da Belive: como usar](/reviews/cupom-belive-como-usar)."
         ]
@@ -131910,7 +131882,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O snack proteico da Belive custa mais por pacote que o de arroz, mas traz 10 g de proteína contra 3 g, e por grama de proteína sai bem mais barato. Se proteína não é o que você busca, o de arroz tem, em média, menos sódio."
+          "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g e sai mais barato por grama de proteína. Os de arroz têm, em média, menos sódio; compare o sabor na tabela."
         ]
       },
       {
@@ -132027,7 +131999,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Por grama de proteína, o de arroz custa cerca de 2,2 vezes mais que o proteico.",
-          "A diferença de preço por pacote é de R$ 2,78, e a de proteína, de 7 g. Por isso a proteína decide a conta. O cupom e o Pix baixam os dois na mesma proporção, e a ordem não muda."
+          "Pelos preços da tabela, o proteico custa R$ 2,78 a mais por pacote e tem de 7 a 7,1 g de proteína a mais, conforme o sabor de arroz. Se os mesmos descontos valerem para os dois, a ordem por grama não muda; confira o total no carrinho."
         ]
       },
       {
@@ -132058,7 +132030,7 @@ export const reviewsData: unknown[] = [
           "Os snacks de arroz partem de um mix de farinha de arroz, lentilha e quinoa (no queijo), com óleo vegetal de palma e soja e extrato de levedura. O queijo leva sal light, aromatizante e corante natural de urucum. A pizza segue a mesma base do queijo; o churrasco é igual, sem o sal light. O Cebola e Salsa soma cebola tostada e salsa à base.",
           "A tabela de alergênicos da loja marca derivados de soja nos oito. A loja informa que todos são sem glúten.",
           "Sobre leite e lactose, a loja declara que os snacks proteicos são sem leite e sem lactose, e a lista de ingredientes não traz leite. No arroz, a loja diz sem leite e sem lactose também.",
-          "Na tabela de alergênicos, só a soja aparece marcada. As demais colunas, como ovo, amendoim e castanhas, ficaram em branco, e nenhum snack traz a marcação de \"pode conter\"."
+          "Na tabela de alergênicos da loja, só a soja aparece marcada; as demais colunas, como ovo, amendoim e castanhas, ficaram em branco, e nenhum snack traz a marcação de \"pode conter\". Se você evita algum desses alérgenos, confira o rótulo da embalagem."
         ]
       },
       {
@@ -132068,7 +132040,7 @@ export const reviewsData: unknown[] = [
           "Combo de 20 de arroz (4 sabores): R$ 95,90 no cartão e R$ 91,11 no Pix. Dá R$ 4,80 por unidade, 7,6% abaixo do avulso, e entre R$ 1,60 e R$ 1,65 por grama de proteína. O preço anterior riscado é R$ 103,80."
         ],
         "postParagraphs": [
-          "O combo economiza pouco. A ordem por grama de proteína continua a mesma: o proteico segue com menos da metade do custo do arroz.",
+          "O combo reduz o preço unitário em cerca de 6% a 8%. Por grama de proteína, o proteico continua com menos da metade do custo do arroz; compare quantidade, preços atuais e frete para decidir.",
           "O frete muda por região. A loja informa frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; e acima de R$ 300 nos demais estados. Confira o valor no carrinho antes de pagar. O cupom MAUAD também vale nos combos e soma com a promoção."
         ]
       },
@@ -132086,7 +132058,7 @@ export const reviewsData: unknown[] = [
           "Qual snack da Belive tem mais proteína? O proteico, com 10 g por pacote de 35 g. O de arroz tem entre 2,9 g e 3 g.",
           "O snack de arroz da Belive tem açúcar? Os quatro sabores declaram 0 g de açúcares totais na tabela da loja.",
           "O snack proteico é sem leite? A loja declara que é sem leite e sem lactose, e a lista de ingredientes não traz leite. Não é um teste nosso.",
-          "O combo compensa? Economiza entre 6% e 8% sobre o pacote avulso, e a conta por grama de proteína quase não muda."
+          "O combo compensa? Economiza entre 6% e 8% sobre o pacote avulso. Compare o preço atual, a quantidade e o frete antes de escolher."
         ]
       }
     ]
@@ -132337,7 +132309,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O bolinho kids da Belive tem açúcar? Tem 0,5 g de açúcares totais por unidade de 45 g e nenhum açúcar adicionado, segundo a tabela do rótulo.",
-          "Quanto custa cada bolinho kids? Na ficha, a unidade de 45 g sai a R$ 6,97 no cartão e R$ 6,62 no Pix; no kit de 10, cada unidade sai a R$ 6,48 no cartão.",
+          "Quanto custa cada bolinho kids? Na ficha, a unidade de 45 g sai a R$ 6,97 no cartão e R$ 6,62 no Pix; no kit de 10, cada unidade sai a R$ 6,48 no cartão. Confira o preço atual na ficha antes de comprar.",
           "O Kit Lanche Escolar de 25 tem bolinho kids? Não. Os 25 são bolinhos adultos de 40 g, nos sabores chocolate, laranja, baunilha, coco e banana.",
           "O adoçante é só stévia? Não. A lista de ingredientes traz maltitol e glicosídeos de esteviol como edulcorantes, e sorbitol como umectante.",
           "O bolinho kids tem leite? Pela lista de ingredientes e pela tabela de alergênicos da loja, não. A linha marca ovo e soja."
@@ -177741,7 +177713,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha e publica a tabela nutricional de doces e snacks. Os doces são sem açúcar pelo rótulo, não pobres em carboidrato. O que muda a escolha é o preço por unidade e o frete por região; veja os capítulos de preço e compra."
+          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha, com rótulos publicados para comparar. Nos doces, confira a versão, porque nomes parecidos têm fórmulas diferentes. O preço por unidade e o frete por região pesam na decisão."
         ]
       },
       {
@@ -177764,7 +177736,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brownie, pão de mel, bolinho e cookie: o que o rótulo mostra",
         "paragraphs": [
-          "Pelo rótulo, os doces da Belive são sem açúcar, não \"light\": 0 g de açúcares adicionados em todos, e de 13 g a 23 g de carboidratos por unidade. O adoçante é a dupla maltitol e glicosídeos de esteviol em toda a linha; a descrição da loja fala em stévia, e o maltitol vem antes dela na lista de ingredientes. Os proteicos trocam parte da farinha por proteína isolada de soja, arroz e ervilha: o brownie proteico tem 5 g ou 6 g de proteína por unidade de 40 g, contra 1,6 g a 2 g do comum, com as calorias quase iguais, de 121 kcal a 144 kcal nos oito sabores. O pão de mel repete a lógica, 6 g no proteico contra 2 g no comum. Os oito brownies, sabor a sabor, estão no guia do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive)."
+          "Nos oito brownies sem açúcar comparados no guia e nos dois pães de mel desta seleção, o rótulo informa zero de açúcares adicionados. Isso não elimina os carboidratos: são de 13 g a 23 g por unidade nesses produtos. Maltitol e glicosídeos de esteviol aparecem nas listas; a descrição da loja fala em stévia. O brownie proteico tem 5 g ou 6 g de proteína por unidade de 40 g, contra 1,6 g a 2 g do comum. As calorias variam de 121 kcal a 144 kcal nos oito sabores. O pão de mel traz 6 g no proteico e 2 g no comum. Veja a comparação sabor a sabor no guia do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive)."
         ],
         "comparisonTable": {
           "headers": [
@@ -177840,7 +177812,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/belive/belive-e-boa-kit-misto-brownies.webp",
             "alt": "Caixa do Kit Misto 10 Brownies da Belive, sem glúten e sem leite, com os brownies em embalagem individual",
-            "caption": "O kit de 10 brownies: em lista, custa o mesmo que 10 unidades; o desconto é o da promoção. Imagem: Belive.",
+            "caption": "Kit Misto 10 Brownies, com embalagens individuais. Não é o kit de sabor único da tabela; confira o preço do kit escolhido. Imagem: Belive.",
             "objectFit": "square",
             "href": "https://belivebefree.com.br/produto/kit-misto-10-brownies-sem-gluten-sem-leite-zero-lactose-belive/"
           }
@@ -177849,7 +177821,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Panetone e chocotone sem glúten",
         "paragraphs": [
-          "O panetone da Belive existe, é de época e vem em dois sabores: o de chocolate, com recheio de brownie, gotas de chocolate 42% cacau e cobertura de chocolate, e o de frutas cristalizadas, com uvas-passas e amêndoas laminadas. Os dois são declarados sem glúten, zero açúcar (adoçados com stévia) e sem leite e lactose, e a página do de frutas repete o \"zero risco de contaminação cruzada\" da fábrica. Os kits de 3 trazem só chocotones, só panetones de frutas ou um de frutas com dois chocotones."
+          "O panetone da Belive é de época e vem em dois sabores: chocolate, com recheio de brownie, gotas de chocolate 42% cacau e cobertura sabor chocolate; e frutas cristalizadas, com uva-passa e amêndoas laminadas. Os dois são declarados sem glúten, sem leite e sem lactose, com zero de açúcares adicionados e adoçados com maltitol e glicosídeos de esteviol. O de frutas tem 1,5 g de açúcares totais por 100 g. A frase “zero risco de contaminação cruzada” é uma declaração da fabricante na página desse sabor. Há kits de três unidades, iguais ou mistos. A comparação completa está em [panetone Belive é bom?](/reviews/panetone-belive-e-bom)."
         ],
         "comparisonTable": {
           "headers": [
@@ -178006,7 +177978,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O combo de 4 custa, em lista, o mesmo que 4 pacotes avulsos; o desconto do combo é o da promoção do dia, e o Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. A página de cada pão traz a tabela nutricional, como imagem, e a lista de ingredientes, nas abas da página; o multigrãos leva castanha-do-pará, que é alérgeno; confira o aviso de alergênicos na embalagem de cada pão. O pão de forma serve a quem quer pão de todo dia com validade longa para não faltar; o pãozinho e a bisnaguinha, à lancheira e ao café. Quem compra um pacote só paga frete sobre ele: o pão é o item que mais pede o combo ou o carrinho cheio, como mostra o próximo capítulo."
+          "O combo de quatro custa, em lista, o mesmo que quatro pacotes avulsos; compare a oferta do dia e a quantidade que você quer. O Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. Cada pão tem tabela nutricional em imagem e ingredientes nas abas da página. O multigrãos leva castanha-do-pará; quem evita castanhas deve ler o aviso de alérgenos do produto escolhido antes de comprar. O pão de forma atende ao uso diário; pãozinho e bisnaguinha são opções para lancheira e café. Compare o total com frete antes de aumentar a quantidade."
         ],
         "images": [
           {
@@ -178022,25 +177994,25 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa com o código, e onde comprar",
         "paragraphs": [
           "Com o código da Belive, todo o site sai 10% mais barato, em todas as formas de pagamento, na primeira compra e nas seguintes, e o desconto soma com as promoções da loja e com os 5% do Pix. No teste do cupom, um carrinho com quatro combos em oferta, de R$ 576,82, caiu para R$ 519,14 com o código e para R$ 493,18 no Pix. O código vai no campo \"Código do cupom\" do carrinho, com o botão \"Aplicar cupom\"; a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
-          "O que muda a conta é o frete, e ele muda por região: frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout, e o valor do frete grátis conta o carrinho antes do código. A faixa do site mostra só o valor de São Paulo: quem mora fora dos cinco estados precisa do carrinho maior para zerar o frete, e é aí que os combos de 4 pães e as caixas de 10 fazem sentido.",
-          "A Belive também vende no [Mercado Livre](https://meli.la/2xDjP2k), onde o código não vale e o preço é o do anúncio. Vale olhar lá quando o pedido é pequeno e o frete do site pesa; para o carrinho cheio, o site oficial com o código e o Pix leva."
+          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout. O frete grátis considera o subtotal antes do código. Compare o custo do frete com o de acrescentar produtos que você realmente vai consumir.",
+          "A Belive também vende no [Mercado Livre](https://meli.la/2xDjP2k), onde o código não vale e o preço é o do anúncio. Compare a mesma quantidade e os mesmos produtos, incluindo frete. No site oficial, aplique o código e a condição de pagamento escolhida antes de comparar o total."
         ]
       },
       {
         "heading": "Dá para confiar na Belive",
         "paragraphs": [
-          "Dá. A loja é da NHD Foods Indústria, Comércio, Importação e Exportação Ltda., empresa registrada e ativa nos dados públicos, com CNPJ, razão social, trocas e frete publicados no site, e as duas unidades em Uberaba (MG). No Reclame Aqui, a reputação era Ótima, com nota 8,1 nos últimos 6 meses, e a loja responde a todas as reclamações, resolvendo entre 75% e 80% delas. CNPJ, como reconhecer o site oficial, trocas e frete estão em [Belive é confiável?](/reviews/belive-e-confiavel), e a leitura das reclamações, no guia da marca no Reclame Aqui, listado no fim."
+          "Dá. A loja é da NHD Foods Indústria, Comércio, Importação e Exportação Ltda., com CNPJ, razão social, trocas e frete publicados no site e unidades em Uberaba (MG). No Reclame Aqui, o perfil tinha nota 8,1, Ótima, na janela de abril a setembro. Foram 39 reclamações recebidas e 15 avaliadas nessa aba; o índice de resolução era 80% entre as avaliadas. CNPJ, reconhecimento do site oficial, trocas e frete estão em [Belive é confiável?](/reviews/belive-e-confiavel); os períodos e a amostra do Reclame Aqui estão no guia listado ao fim."
         ]
       },
       {
         "heading": "Para quem vale e para quem não vale",
         "bullets": [
-          "Para o doce pronto sem açúcar e sem glúten, o brownie e o bolinho, pelo rótulo publicado; o proteico só para quem quer os 5 g a 6 g de proteína, porque as calorias são as mesmas.",
+          "Para doce pronto sem açúcar adicionado e sem glúten, compare o rótulo da versão escolhida. Nos brownies, o proteico traz 5 g a 6 g de proteína por unidade; as calorias variam de 121 kcal a 144 kcal entre os oito sabores.",
           "Para o lanche com proteína sem whey, o snack proteico; para o lanche pequeno da lancheira, o salgadinho de milho de 25 g ou o GoodSoy.",
           "Para o pão de todo dia com validade longa, o pão de forma de 400 g; para a lancheira, a bisnaguinha e o pãozinho de batata.",
           "Para o panetone sem glúten e sem açúcar de Natal, os dois sabores existem, com a tabela nutricional na página de cada um.",
           "Não vale escolher pelo \"sem açúcar\" quem controla carboidrato: o rótulo mostra de 13 g a 23 g por unidade nos doces, e a conta é com o nutricionista.",
-          "Não vale o pedido pequeno fora de SP, MG, RJ, DF, GO e do Sul: o frete grátis pede o carrinho mais alto, e o Mercado Livre pode sair melhor nesse caso."
+          "Para pedidos pequenos, simule o frete do site e compare o total com o mesmo produto no Mercado Livre. A região e o CEP mudam a conta."
         ],
         "emphasis": "Para quem precisa tirar glúten e leite da mesa, a Belive resolve a padaria inteira numa loja só; o preço por unidade é o preço dessa conveniência."
       },
@@ -178049,7 +178021,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O brownie da Belive é bom? Pelo rótulo, é um brownie de 40 g sem açúcar adicionado, adoçado com maltitol e esteviol, e os quatro proteicos trazem de 5 g a 6 g de proteína; os oito sabores estão no capítulo dos doces e no guia do brownie.",
           "Os produtos da Belive são saudáveis? O rótulo não responde isso: ele mostra calorias, carboidratos, açúcares e proteína de cada item, e a conta para o seu caso é com o nutricionista ou o médico.",
-          "A Belive tem panetone sem açúcar? Tem, de chocolate e de frutas cristalizadas, declarados sem glúten e sem lactose, mais os kits de 3; a tabela nutricional fica na aba \"Tabela Nutricional\" da página, como mostra o capítulo do panetone.",
+          "A Belive tem panetone sem açúcar? Os sabores de chocolate e de frutas têm zero de açúcares adicionados; o de frutas declara 1,5 g de açúcares totais por 100 g. Ambos são declarados sem glúten, sem leite e sem lactose, e têm tabela nutricional publicada.",
           "Os produtos da Belive são sem glúten? A loja declara toda a linha sem glúten, sem leite e sem lactose, e a marca diz que a fábrica não tem contaminação cruzada; a tabela de alérgenos de cada página marca ovo, soja e castanhas em vários itens.",
           "Onde comprar Belive? No site oficial, com o código da Belive de 10%, ou no Mercado Livre, onde o código não vale; o frete grátis muda por região, como mostra o capítulo de compra."
         ]
@@ -178063,7 +178035,7 @@ export const reviewsData: unknown[] = [
         "Você escolhe o doce pelo rótulo: açúcares, carboidratos e proteína estão na página de cada brownie, bolinho e cookie."
       ],
       "skipIf": [
-        "Você compra pouco e mora fora de SP, MG, RJ, DF, GO e do Sul: o frete grátis pede o carrinho mais alto da loja."
+        "O total com frete ultrapassa o seu orçamento; compare o mesmo pedido nos canais disponíveis antes de decidir."
       ]
     },
     "cta": {
@@ -178494,7 +178466,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Panetone de chocolate, pelo rótulo",
         "paragraphs": [
-          "O de chocolate é o panetone de quem quer sobremesa, não só pão de Natal: recheio de brownie, gotas e cobertura, e é isso que puxa a gordura dele para cima. A massa é o mix sem glúten da Belive (amido modificado, farinha de arroz, fécula de mandioca, farinha de amêndoas, polvilho azedo, proteína isolada de soja e farinha de soja). Dentro, o recheio de brownie sabor chocolate, as gotas de chocolate 42% cacau e a cobertura sabor chocolate; depois óleo vegetal de palma e soja, ovo em pó, polidextrose, fibra de tapioca, leite de coco em pó, sal light, psyllium, umectantes, fermento e conservantes.",
+          "O de chocolate reúne recheio de brownie, gotas e cobertura, e tem mais gordura saturada que o de frutas. A massa é o mix sem glúten da Belive (amido modificado, farinha de arroz, fécula de mandioca, farinha de amêndoas, polvilho azedo, proteína isolada de soja e farinha de soja). Dentro, o recheio de brownie sabor chocolate, as gotas de chocolate 42% cacau e a cobertura sabor chocolate; depois óleo vegetal de palma e soja, ovo em pó, polidextrose, fibra de tapioca, leite de coco em pó, sal light, psyllium, umectantes, fermento e conservantes.",
           "O \"zero açúcar\" é zero açúcar adicionado. Quem adoça são o maltitol e os glicosídeos de esteviol, e na lista o maltitol vem antes; a descrição da loja fala em stévia. O rótulo de alérgenos diz: \"contém derivados de amêndoas, derivados de ovo e derivados de soja. Não contém glúten.\" Leite de vaca não aparece na lista, e a página o declara sem leite e sem lactose, mas tem leite de coco em pó: quem evita coco lê isso antes de pagar.",
           "A loja informa: a porção é de 80 g, duas fatias, e a caixa de 420 g rende cerca de 5 porções. Por porção, são 248 kcal e 34 g de carboidrato. Serve para quem quer o panetone recheado da mesa de Natal sem glúten e sem leite de vaca. Não escolha este se o que você olha é gordura saturada: ele tem bem mais gordura saturada que o de frutas, como mostra a tabela abaixo, e a caixa dele traz o selo \"alto em gordura saturada\"."
         ],
@@ -178513,7 +178485,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O de frutas é o panetone clássico, e dos dois é o que tem menos calorias e menos gordura. A massa é a mesma do de chocolate. O que muda é o recheio: frutas cristalizadas sem adição de açúcares e uva-passa, com amêndoas laminadas por cima. O resto da lista é quase o mesmo, com maltitol, glicosídeos de esteviol e leite de coco em pó.",
           "Aqui o rótulo mostra 1,5 g de açúcares totais por 100 g, e zero de açúcar adicionado: esse açúcar é o da fruta e da uva-passa, não de açúcar posto na massa. Os alérgenos são os mesmos do de chocolate, com uma diferença de peso: aqui a amêndoa é inteira, laminada por cima, e não só derivado na farinha. O rótulo diz: \"contém amêndoas, derivados de ovo e derivados de soja. Não contém glúten.\"",
-          "A página deste sabor traz uma frase que a do chocolate não traz: a marca diz que ele é sem glúten e sem leite, com \"zero risco de contaminação cruzada\". É declaração da marca. Serve para quem quer o panetone de frutas de sempre sem glúten e sem leite de vaca, e para quem prefere o sabor menos doce. Não escolha este se a sua casa torce o nariz para fruta cristalizada: aí o de chocolate ganha."
+          "A página deste sabor traz uma frase que a do chocolate não traz: a marca diz que ele é sem glúten e sem leite, com \"zero risco de contaminação cruzada\". É declaração da marca. Serve para quem quer o panetone de frutas de sempre sem glúten e sem leite de vaca, e para quem prefere frutas cristalizadas, uva-passa e amêndoas ao recheio de brownie. Não escolha este se a sua casa torce o nariz para fruta cristalizada: aí o de chocolate ganha."
         ],
         "images": [
           {
@@ -178528,7 +178500,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chocolate ou frutas: a tabela, lado a lado",
         "paragraphs": [
-          "A diferença entre os dois está na gordura, não no açúcar nem no carboidrato. Os números abaixo são os da tabela nutricional de cada página, por 100 g."
+          "Os dois têm zero de açúcar adicionado e quase a mesma quantidade de carboidrato: 42 g e 43 g por 100 g. A diferença maior está na gordura saturada, como mostra a tabela abaixo."
         ],
         "comparisonTable": {
           "headers": [
@@ -178566,13 +178538,13 @@ export const reviewsData: unknown[] = [
           "caption": "Tabela nutricional publicada pela loja na página de cada panetone, por 100 g. Gordura trans: zero nos dois. Açúcares totais: só no de frutas, e são os da fruta."
         },
         "postParagraphs": [
-          "O que a tabela não diz: o carboidrato dos dois é quase igual, e nos dois ele inclui o maltitol, que o rótulo não separa. Quem olha só o \"zero açúcar\" e esquece essa linha compra errado. Quem come duas fatias do de chocolate leva 36% da gordura saturada do dia pela tabela da loja; no de frutas, 21%. A fibra é alta nos dois pelo psyllium e pela fibra de tapioca, e o sódio é baixo nos dois."
+          "Na porção de 80 g, a tabela da loja informa 36% do valor diário de gordura saturada no de chocolate e 21% no de frutas. Por 100 g, as fibras são 7,7 g e 6,5 g, e o sódio, 76 mg e 92 mg. Para comparar, mantenha a mesma porção nos dois sabores; o destaque “zero açúcar” não substitui a linha de carboidratos."
         ]
       },
       {
         "heading": "Os kits: quanto custa cada panetone",
         "paragraphs": [
-          "O kit não dá desconto: ele custa, em lista, o mesmo que três panetones avulsos. Vale por ajudar no frete e por juntar os dois sabores numa caixa só, como mostra o próximo capítulo."
+          "O kit não dá desconto: pelos preços de lista da tabela, ele custa o mesmo que três panetones avulsos. Ele reúne três unidades; o misto traz os dois sabores. A vantagem de frete depende do subtotal e da região."
         ],
         "comparisonTable": {
           "headers": [
@@ -178610,28 +178582,28 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista do site em 03/11, sem o código. No dia, a loja vendia os cinco com desconto de promoção, e o preço riscado da página é o desta tabela."
         },
         "postParagraphs": [
-          "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o kit sai igual ao avulso, em lista e na oferta. O que o kit faz é aproximar o carrinho do frete grátis, desde que o subtotal efetivo, com a promoção do dia, passe do limite da sua região, e trazer os dois sabores na mesma caixa, no kit misto. Para um panetone só, compre o avulso."
+          "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o valor é igual nos dois casos. Para um panetone só, compre o avulso; o kit faz sentido para quem quer três unidades."
         ]
       },
       {
         "heading": "Quanto custa com o código, e o frete",
         "paragraphs": [
           "Com o código da Belive, o panetone sai 10% mais barato, em todas as formas de pagamento, e o desconto soma com a promoção do dia e com os 5% do Pix. O código vai no campo \"Código do cupom\" do carrinho, e a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
-          "O frete é o que decide entre o avulso e o kit. O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o valor que conta é o do carrinho antes do código. Um panetone avulso não zera o frete em lugar nenhum. Pelo preço de lista, o kit passa da faixa dos cinco estados; ele zera o frete neles se o subtotal do carrinho, com a promoção do dia e antes do código, ficar acima de R$ 170. No Sul e no resto do país, ele pede mais itens no carrinho. Para completar, os doces, os pães e os salgadinhos da marca estão no guia [Belive é boa?](/reviews/belive-e-boa), e quem compra pela primeira vez na loja confere CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
+          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O frete grátis considera o subtotal antes do código. O kit, nos preços de lista, ultrapassa a faixa de R$ 170 dos cinco estados; confirme o valor atual no carrinho. No Sul e no resto do país, ele pede mais itens no carrinho. Compare o frete com o custo de itens extras antes de aumentar o pedido. Os doces, os pães e os salgadinhos estão no guia [Belive é boa?](/reviews/belive-e-boa), e CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
         ]
       },
       {
         "heading": "Sem glúten e sem leite: o que a marca declara e o que o rótulo mostra",
         "paragraphs": [
-          "Para celíaco, o que vale é a frase escrita, e ela está em um sabor só. Os dois rótulos dizem \"não contém glúten\", e a marca declara os dois sem leite e sem lactose. A marca diz \"zero risco de contaminação cruzada\" só na página do panetone de frutas; a do chocolate não traz a frase. Quem é celíaco, ou tem alergia a leite de vaca, decide com o médico, com o rótulo da caixa que chegar na mão. E o \"sem leite\" é sem leite de vaca: os dois levam leite de coco em pó, e os dois trazem amêndoas, ovo e soja na lista de alérgenos."
+          "Os dois rótulos dizem “não contém glúten”, e a marca declara os dois sabores sem leite e sem lactose. A frase “zero risco de contaminação cruzada” aparece na página do de frutas e é uma declaração da fabricante; a página do chocolate não traz essa frase. Ela não substitui a leitura do rótulo e dos avisos de alérgenos de cada produto. Os dois levam leite de coco em pó e trazem amêndoas, ovo e soja na lista de alérgenos. Para doença celíaca ou alergia ao leite, converse com seu médico sobre o rótulo da embalagem que você tem em mãos."
         ]
       },
       {
         "heading": "Qual levar: chocolate ou frutas",
         "paragraphs": [
-          "Pelos números da tabela, quem escolhe pela gordura saturada fica no de frutas, porque ele tem pouco mais da metade da do de chocolate com quase a mesma quantidade de carboidrato; quem escolhe pela sobremesa fica no de chocolate, porque é o recheado. Para quem conta carboidrato, nenhum dos dois é a resposta sozinho: são 42 g a 43 g por 100 g, e a conta é com o nutricionista. Na dúvida entre os dois, o kit misto resolve."
+          "Pelos números da tabela, quem escolhe pela gordura saturada fica no de frutas, porque ele tem pouco mais da metade da do de chocolate com quase a mesma quantidade de carboidrato; quem escolhe pela sobremesa fica no de chocolate, porque é o recheado. Para quem conta carboidrato, nenhum dos dois é a resposta sozinho: são 42 g a 43 g por 100 g, e a conta é com o nutricionista. Se você quer três unidades e os dois sabores, há o kit misto."
         ],
-        "emphasis": "Na dúvida entre os dois sabores, o kit com um de frutas e dois de chocolate resolve a mesa sem escolher: os dois sabores vão no mesmo pedido, pelo mesmo preço por panetone do avulso."
+        "emphasis": "Para quem quer três panetones, o kit com um de frutas e dois de chocolate reúne os dois sabores. Nos preços de lista, custava o mesmo por unidade que os avulsos."
       },
       {
         "heading": "Perguntas frequentes",
@@ -179282,7 +179254,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits de travesseiro: a conta por unidade",
         "paragraphs": [
-          "Quem vai trocar os travesseiros da casa inteira paga menos por unidade no kit, e a diferença é grande no de 10. Conta nossa: pelos preços de lista, o kit de 10 Snow custa R$ 2.870 e dez Snow Regular avulsos custam R$ 4.190, então cada travesseiro do kit sai por R$ 287, cerca de um terço a menos. Os kits de 2, 4, 6 e 8 ficam entre um e outro, e vale fazer a mesma conta na página antes de levar: divida o preço do kit pelo número de peças e compare com o avulso riscado. O kit de 4 Neck Plus estava esgotado, e o kit com o Skin junta o Snow ao travesseiro de capa lisa, para quem acorda com marca no rosto. O kit faz sentido para quem troca vários travesseiros de uma vez; para trocar um só, o avulso com o código da parceria é o caminho."
+          "Para comparar kit e avulsos, divida o preço do kit pelo número de peças e confira o preço de cada avulso no mesmo dia. Pela lista de preços, o kit de 10 Snow custava R$ 2.870 e dez Snow Regular avulsos somavam R$ 4.190: R$ 287 por unidade no kit, cerca de um terço a menos. Havia kits de 2, 4, 6 e 8; o kit de 4 Neck Plus estava esgotado, e o kit com o Skin juntava o Snow ao travesseiro de capa lisa. O kit pode fazer sentido ao trocar vários travesseiros; para um só, confira o avulso com o código da parceria."
         ]
       },
       {
@@ -179326,7 +179298,7 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista, sem o código."
         },
         "postParagraphs": [
-          "Leve o Igloo quando um sente calor e o outro frio na mesma cama, e o Cozy quando o que você quer é o toque marshmallow. O Puffer é para quem detesta peso na perna e para quem viaja; o Huggy, para o quarto que gela no inverno. A equipe recebeu o Igloo em parceria; as primeiras impressões estão no artigo dele."
+          "O Igloo tem duas faces para alternar conforme a preferência de temperatura. O Cozy é a opção de toque fofo; o Puffer é leve e vira almofada; o Huggy tem fleece e sherpa sintética. A equipe recebeu o Igloo em parceria; as primeiras impressões estão no artigo dele."
         ]
       },
       {
@@ -179432,13 +179404,13 @@ export const reviewsData: unknown[] = [
         "heading": "Para quem vale e para quem não vale",
         "bullets": [
           "Para o travesseiro, vale: a linha inteira, com altura e material na página, e o Snow para quem não sabe a altura.",
-          "Para a casa inteira, o kit: o de 10 Snow sai cerca de um terço mais barato por unidade que o avulso.",
-          "Para o cobertor, vale quando o clima do quarto ou quem divide a cama decide: Igloo para o casal em desacordo, Cozy para a cama fofa, Puffer para quem não quer peso, Huggy para o inverno.",
+          "Para trocar vários travesseiros, compare o preço por unidade do kit com o do avulso no mesmo dia; pela lista de preços, o kit de 10 Snow custava cerca de um terço menos por unidade.",
+          "Para o cobertor, compare o clima do quarto e a preferência de quem usa: o Igloo tem duas faces para alternar; o Cozy tem fibras longas; o Puffer vira almofada; e o Huggy combina fleece com sherpa sintética.",
           "Para a melatonina e o spray, vale só pelo rótulo: porção, modo de uso e o que tem dentro; o efeito não está lá e a conversa é com o médico.",
           "Não vale para colchão pelo site: o colchão se compra nas lojas de Belo Horizonte.",
           "Não vale comprar um item só, abaixo do mínimo do frete grátis: aí o frete é pago."
         ],
-        "emphasis": "Na dúvida, o Snow não erra: é o travesseiro que você acerta em casa, tirando flocos até a altura certa."
+        "emphasis": "O Snow permite retirar flocos para ajustar a altura em casa. Confira se o material e as dimensões também combinam com o que você procura."
       },
       {
         "heading": "Perguntas frequentes",
@@ -179448,7 +179420,7 @@ export const reviewsData: unknown[] = [
           "O travesseiro I Wanna Sleep é bom? Depende da posição em que você dorme e da altura de que precisa: o Snow se regula em casa, o Látex vem em três alturas fixas e os cervicais têm contorno para quem dorme de costas ou de lado.",
           "A melatonina da I Wanna Sleep é boa? É um suplemento em gotas ou em goma, e o rótulo traz a porção e o modo de uso; quantidade, horário e tempo de uso são conversa com o médico, como diz o capítulo da melatonina.",
           "A I Wanna Sleep tem loja em BH? Tem sete, e é nelas que se compra o colchão.",
-          "Qual travesseiro I Wanna Sleep escolher? Quem não sabe a altura vai no Snow; quem já sabe, no Látex P, M ou G; quem quer apoio no pescoço, num dos três cervicais; quem lava tudo, no Airgelly."
+          "Qual travesseiro I Wanna Sleep escolher? O Snow permite ajustar a altura; o Látex vem nas alturas P, M e G; os três cervicais têm contorno; e o Airgelly pode ser lavado por inteiro. Compare as medidas e o material antes de escolher."
         ]
       }
     ],
@@ -187587,7 +187559,7 @@ export const reviewsData: unknown[] = [
               "99,8%"
             ],
             [
-              "Resolvidas",
+              "Resolvidas entre as avaliadas",
               "63,4%",
               "67,4%",
               "70,5%",
@@ -187595,7 +187567,7 @@ export const reviewsData: unknown[] = [
               "68,4%"
             ],
             [
-              "Voltariam a fazer negócio",
+              "Intenção de voltar, entre as avaliadas",
               "57,4%",
               "61,7%",
               "62,9%",
@@ -187629,7 +187601,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na aba geral, 99,8% das reclamações foram respondidas, e 16 ainda aguardavam resposta no dia da leitura. A nota média do consumidor é outra conta: a média que quem reclamou deu ao atendimento, e nos 6 meses ficou em 5,1."
+          "Na aba geral, 99,8% das reclamações foram respondidas, e 16 aguardavam resposta. Na aba de seis meses, 888 das 1.833 recebidas tinham avaliação, e os 63,4% de resolução e os 57,4% de intenção de voltar se referem a elas. A nota média do consumidor é outra conta: nos seis meses, a média que quem reclamou deu ao atendimento ficou em 5,1."
         ]
       },
       {
@@ -187659,7 +187631,7 @@ export const reviewsData: unknown[] = [
           "Categoria: Matinais, com 28,8% das reclamações."
         ],
         "postParagraphs": [
-          "Conta nossa, pelos números da aba geral: não recebido e atraso somam 4.422 queixas, mais que os seis problemas seguintes da lista juntos (3.233). Propaganda enganosa e promoção vêm depois, seguidas de defeito e produto errado."
+          "Conta nossa, pelos números da aba geral: não recebido e atraso somam 4.422 reclamações, mais que os seis problemas seguintes da lista juntos (3.233). Depois deles vêm propaganda enganosa, defeito, problemas na finalização, produto errado, promoção e mau atendimento."
         ]
       },
       {
@@ -187704,7 +187676,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Faixa: Regular nos 6 e 12 meses; Boa em 2025.",
           "Respondidas: 100% nos 6 meses.",
-          "Resolvidas: 63,4% nos 6 meses, e 57,4% voltariam a fazer negócio.",
+          "Entre as avaliadas da aba de seis meses, 63,4% foram resolvidas e 57,4% declararam intenção de voltar a fazer negócio.",
           "Problema mais citado: produto não recebido, com 2.235 queixas na aba geral.",
           "Cuidado prático: guarde o número do pedido e o rastreio, e confira a máquina ao receber, porque o vício aparente tem 90 dias."
         ]
@@ -187714,8 +187686,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Dolce Gusto é confiável no Reclame Aqui? A reputação é Regular nos últimos 6 e 12 meses, com nota 6,6 e 6,9. Esses números mostram as reclamações registradas, não a qualidade das cápsulas nem das máquinas.",
           "Qual a nota da Dolce Gusto no Reclame Aqui? Nota 6,6 nos últimos 6 meses, 6,9 nos últimos 12 meses e 6,9 na aba geral. A tabela do artigo traz as cinco abas.",
-          "A Dolce Gusto responde as reclamações? Sim, 100% nos últimos 6 meses. Responder não é o mesmo que resolver: a tabela do artigo mostra a parte resolvida.",
-          "Do que mais reclamam da Dolce Gusto? De produto não recebido e atraso na entrega, que lideram a aba geral. Depois vêm propaganda enganosa, promoção e defeito.",
+          "A Dolce Gusto responde às reclamações? Sim, 100% nos últimos 6 meses. Responder não é o mesmo que resolver: entre as avaliadas, 63,4% foram resolvidas.",
+          "Do que mais reclamam da Dolce Gusto? Produto não recebido e atraso na entrega lideram a aba geral. Depois vêm propaganda enganosa, defeito e problemas na finalização da compra.",
           "Onde fica a assistência técnica da Dolce Gusto? Comece pelo atendimento oficial da Dolce Gusto (SAC da Nestlé, 0800 776 2233). Para máquinas Geração 1 que pararam de funcionar, o contato é direto com a Arno, que lista os postos autorizados por estado e cidade no site dela; o telefone indicado pela Dolce Gusto é (11) 2060-9777."
         ]
       }
@@ -189150,12 +189122,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Leve o combo de 20 caixas se a equipe tem até 5 pessoas e você quer começar com menos estoque.",
+        "Leve o combo de 20 caixas se você quer começar pelo menor lote pronto e já estimou o consumo dos sabores incluídos.",
         "Leve o combo de 50 caixas se o consumo é regular e o menor preço por cápsula pesa mais que o espaço na prateleira.",
         "Leve a conta Business se a compra é da empresa: a condição dos 10% extras é para CNPJ."
       ],
       "skipIf": [
-        "Passe os combos se o consumo é esporádico: cápsula parada sai mais cara que a caixa avulsa em promoção.",
+        "Passe os combos se o consumo é esporádico ou se você não consegue usar o lote dentro da validade; compare uma quantidade menor.",
         "Passe o combo pronto se o volume passa de 50 caixas ou se você precisa de outra máquina; peça a proposta personalizada."
       ]
     },
@@ -189289,8 +189261,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada cápsula com os 10% de CNPJ e o CECI",
         "paragraphs": [
-          "Na estimativa com os 10% de CNPJ e o CECI, o combo de 50 caixas deixa a cápsula quase 50% mais barata que na caixa avulsa; sem os dois, a diferença é menor.",
-          "Estimativa nossa, pelos preços da tabela acima, como descontos sucessivos: o preço do combo vezes 0,9 do CNPJ e vezes 0,9 do CECI, um sobre o outro. A base exata do cálculo da loja não foi testada numa conta Business: confira o resumo do carrinho."
+          "Na simulação abaixo, o combo de 50 caixas fica em cerca de R$ 1,31 por cápsula. A referência de R$ 2,49 por cápsula é a caixa avulsa no preço de lista, sem desconto; compare também a oferta disponível no dia.",
+          "Conta nossa: estimativa aplicando 10% de CNPJ e depois 10% de CECI ao preço do combo, multiplicando por 0,9 duas vezes. A soma dos benefícios foi confirmada; estes valores são uma simulação, e o resumo do carrinho confirma base de cálculo, arredondamento e total."
         ],
         "comparisonTable": {
           "headers": [
@@ -189320,11 +189292,11 @@ export const reviewsData: unknown[] = [
               "R$ 2,49"
             ]
           ],
-          "caption": "Combos de cápsula com os dois descontos, estimados pela conta acima. A caixa avulsa está no preço de lista, sem desconto, como referência."
+          "caption": "Simulação de dois descontos sucessivos sobre os preços de combo da tabela anterior. A caixa avulsa está no preço de lista, sem desconto, como referência."
         },
         "postParagraphs": [
           "Cada degrau tira cerca de 10 centavos por cápsula. Passar de 20 para 30 caixas poupa o mesmo que passar de 30 para 50, mas o segundo pede 200 cápsulas a mais na prateleira.",
-          "A armadilha está no \"25% OFF\" e no \"35% OFF\": eles contam sobre o preço de lista, e a loja troca as promoções de caixa quase todo dia. Antes de fechar um combo, olhe quanto a caixa está custando no dia. O combo de 20 caixas dá R$ 18,68 por caixa; se a caixa avulsa estiver abaixo disso, o combo não é a melhor conta."
+          "Os percentuais de 25% e 35% usam o preço de lista, e a loja troca as promoções de caixa quase todo dia. O combo de vinte caixas a R$ 373,50 custa R$ 18,68 por caixa antes de CNPJ e CECI, cerca de R$ 15,13 na simulação com os dois. Para decidir, compare o total final no carrinho do dia, com os mesmos descontos e frete, e não o preço anunciado da caixa avulsa."
         ]
       },
       {
@@ -189356,21 +189328,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para qual negócio serve",
         "paragraphs": [
-          "A linha Negócios serve a quem tem pouca gente passando por dia e quer variedade na mesma máquina: café, bebida com leite, chocolate e chá. Regra prática, sem teste nosso, com duas bebidas por pessoa por dia em 22 dias úteis, ou 44 cápsulas por pessoa por mês: o combo de 20 caixas atende de 4 a 5 pessoas por mês, o de 30 cerca de 7 e o de 50 cerca de 11. Cappuccino, latte macchiato e chococino usam duas cápsulas; o Mochaccino Canela e o Café au Lait dos combos usam uma. Um lugar que pede muito cappuccino consome mais do que a regra mostra.",
+          "Use o consumo como ponto de partida. No cenário de duas bebidas de uma cápsula por pessoa em 22 dias úteis, cada pessoa usa 44 cápsulas por mês. Duzentas cápsulas cobrem quatro pessoas nesse cenário; trezentas, seis; quinhentas, onze, com alguma sobra. Cappuccino, latte macchiato e chococino usam duas cápsulas; Mochaccino Canela e Café au Lait dos combos usam uma. Se a equipe toma bebidas de duas cápsulas, refaça a conta.",
           "Para o escritório, a conta mês a mês, com a máquina e as cápsulas, está em [cafeteira para escritório: qual escolher e quanto custa por mês](/reviews/cafeteira-escritorio-qual-escolher-custo-mes)."
         ]
       },
       {
         "heading": "Qual combo escolher",
         "paragraphs": [
-          "O combo certo é o que cobre o consumo do mês sem sobrar cápsula na prateleira: o degrau seguinte economiza pouco por cápsula e prende o dobro de estoque.",
-          "**Equipe pequena, de 1 a 5 pessoas, ou quem quer testar a máquina:** o combo de 20 caixas. É o menor desconto, mas sobra menos estoque.",
-          "**Equipe de 5 a 7 pessoas:** o combo de 30 caixas, Amante de Cafés ou Amante de Lattes, conforme o que o grupo bebe.",
-          "**Equipe de 8 pessoas ou mais, com consumo regular:** o combo de 50 caixas, que dá o menor preço por cápsula.",
+          "Escolha a quantidade pelo consumo previsto e pela validade do estoque. Passar de vinte para trinta caixas acrescenta cem cápsulas; de trinta para cinquenta, duzentas. O preço unitário menor precisa compensar a quantidade que ficará guardada.",
+          "**Até 200 cápsulas no período de compra:** o combo de vinte caixas é o menor lote pronto. Confira se a equipe consome os sabores incluídos.",
+          "**De 201 a 300 cápsulas no período:** compare os combos de trinta caixas, Amante de Cafés ou Amante de Lattes, conforme os sabores e o consumo.",
+          "**De 301 a 500 cápsulas no período, com consumo regular:** o combo de cinquenta tem o menor preço por cápsula da seleção, mas exige mais estoque.",
           "**Quem não tem máquina e já ia comprar as caixas:** o combo da Mini Me, que traz a máquina junto.",
           "**Volume acima de 50 caixas ou máquina diferente:** a proposta personalizada."
         ],
-        "emphasis": "Se fosse para o meu negócio, eu levaria o combo de 30 caixas, porque cada degrau acima tira só cerca de 10 centavos por cápsula e o de 30 não prende 500 cápsulas de uma vez.",
+        "emphasis": "Se fosse para o meu negócio e o consumo previsto coubesse em trezentas cápsulas, eu começaria comparando o combo de trinta caixas. Na simulação, o de cinquenta economiza cerca de dez centavos por cápsula, mas exige guardar duzentas a mais.",
         "links": [
           {
             "label": "Ver os combos para negócios",
@@ -195339,8 +195311,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mov Flex é cápsula, FiberMais é fibra em pó, só em limão, e o Nutren Protein com Colágeno é bebida pronta. Veja forma, porção e preço com o cupom CECI de cada um.",
-    "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre: Mov Flex, FiberMais Colágeno e Nutren Protein com Colágeno, com forma, porção e custo por dia de cada um.",
+    "description": "Compare Mov Flex em cápsulas, FiberMais com fibras e colágeno no sabor limão e Nutren Protein em bebida pronta. Veja composição, porção e preço com o CECI.",
+    "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre. Compare Mov Flex, FiberMais e Nutren Protein com Colágeno por forma, composição e custo por porção.",
     "publishedAt": "6 de novembro de 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -195355,13 +195327,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "São três produtos diferentes, e a escolha depende da forma: cápsulas de colágeno tipo II, pó de fibra com peptídeos ou bebida pronta de proteína. O cupom CECI dá 10% nos três. O que decide é o que cada porção traz e quanto custa por dia; veja o quadro do início e o veredito no fim."
+          "Mov Flex é cápsula de colágeno tipo II; FiberMais combina fibra e peptídeos em pó; Nutren Protein com Colágeno é bebida pronta com proteína. O CECI dá 10% nos três. Compare a composição e o custo por porção: a garrafa não informa a quantidade de colágeno, e os produtos têm ingredientes e apresentações diferentes."
         ]
       },
       {
         "heading": "Os três lado a lado: forma e o que vem junto",
         "paragraphs": [
-          "Cada um pede um jeito diferente de tomar. A tabela mostra o que cada porção declara no rótulo; como uma porção é cápsula, outra é colher de pó e outra é garrafa, o número de uma linha não se compara direto com o da linha de baixo."
+          "O quadro reúne apresentações e porções diferentes: uma cápsula, 12 g de pó ou uma garrafa. Ele mostra o que cada rótulo declara; a quantidade de colágeno, sozinha, não demonstra que um produto substitui o outro."
         ],
         "comparisonTable": {
           "caption": "Por porção, pelo que os rótulos e as páginas da Nestlé Nutre declaram. Compare a forma antes do número.",
@@ -195400,24 +195372,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Mov Flex: o que tem e como tomar",
         "paragraphs": [
-          "O Mov Flex é a escolha de quem quer resolver em uma cápsula por dia, sem preparar nada; quem busca fibra ou proteína junto fica com um dos outros dois.",
+          "O Mov Flex é a opção em cápsula do trio e dispensa preparo. Para quem procura fibras, há o FiberMais; para quem procura uma bebida pronta com proteína, há o Nutren Protein com Colágeno.",
           "A loja informa: \"suplemento alimentar com colágeno tipo II, vitamina D e magnésio\", em cápsula.",
-          "O modo de uso é \"Ingerir 1 cápsula ao dia.\" A página também pede para não exceder a recomendação diária e manter o produto fora do alcance de crianças.",
-          "Uma cápsula tem 6 kcal; o que muda o peso é o total de calorias do dia, não a cápsula. A tabela mostra só a porção.",
+          "O modo de uso da página é \"Ingerir 1 cápsula ao dia.\" Ela também pede para não exceder a recomendação diária e manter o produto fora do alcance de crianças.",
           "Na dúvida, fale com um médico ou nutricionista."
         ]
       },
       {
-        "heading": "FiberMais Colágeno: fibra com colágeno, só no limão",
+        "heading": "FiberMais Colágeno: pó com fibras e sabor limão",
         "paragraphs": [
-          "O FiberMais é o pó do trio, e na loja ele existe só no sabor limão. Serve para quem quer fibra numa bebida do dia, não para quem busca cápsula.",
+          "O FiberMais é o pó do trio. A versão comparada tem sabor limão e é a opção para quem procura fibras numa bebida preparada com água.",
           "A página o chama de \"suplemento de fibras sabor limão com colágeno Verisol®\", adoçado com Stevia e com aroma natural, e diz que é um \"suplemento alimentar de fibras em pó 100% solúveis\".",
-          "O uso é de 2 colheres de sopa ao dia, misturadas em 195 ml de água e mexidas até dissolver por completo. A lata rende 25 porções: tomando uma por dia, são 25 dias."
+          "O modo de uso informado pela loja é de 2 colheres de sopa ao dia, misturadas em 195 ml de água e mexidas até dissolver por completo."
         ],
         "image": {
           "src": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
           "alt": "Lata de 300 g do FiberMais com Colágeno sabor limão, suplemento alimentar de fibras em pó da Nestlé Health Science",
-          "caption": "A lata de 300 g do FiberMais com Colágeno, o único sabor que a loja vende. Foto da loja oficial da Nestlé Nutre.",
+          "caption": "FiberMais com Colágeno sabor limão, lata de 300 g. Foto da loja oficial da Nestlé Nutre.",
           "objectFit": "contain",
           "aspectRatio": 1
         }
@@ -195439,51 +195410,49 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Colágeno tipo II e peptídeos: a diferença no rótulo",
         "paragraphs": [
-          "A diferença está no que cada rótulo declara: a forma e a quantidade por porção. O Mov Flex fala em colágeno tipo II não desnaturado, em miligramas; o FiberMais fala em peptídeos bioativos de colágeno, em gramas.",
-          "Regra prática, sem teste nosso, só pelo nome que cada rótulo dá: peptídeo é colágeno já quebrado em pedaços menores; tipo II é uma das variedades de colágeno, e o Mov Flex a nomeia.",
-          "Os números não se comparam direto: uma porção é cápsula, a outra é colher de pó, e nenhum dos rótulos diz qual forma funciona melhor.",
-          "Quem busca \"colágeno tipo 2\" encontra esse nome no Mov Flex. No FiberMais, o rótulo fala em peptídeos; na garrafa, nem essa linha existe."
+          "Quem procura colágeno tipo II encontra essa identificação no Mov Flex: o rótulo declara colágeno de frango com colágeno tipo II não desnaturado. O FiberMais declara peptídeos bioativos de colágeno.",
+          "Esses nomes identificam os ingredientes declarados. As quantidades da tabela, em porções diferentes, não demonstram qual produto funciona melhor. No Nutren Protein com Colágeno, a página não informa a quantidade de colágeno por garrafa."
         ]
       },
       {
         "heading": "Preço com o cupom e onde comprar",
         "paragraphs": [
-          "Conta nossa: o CECI tira 10% do preço de hoje, sem frete. A tabela mostra cada produto com o cupom e o custo por dia.",
-          "Quem assina paga menos que o preço com o cupom na compra avulsa: a loja mostra R$ 51,93 no Mov Flex e R$ 111,22 no FiberMais na assinatura.",
-          "Os três estão na loja oficial da Nestlé Nutre, e o CECI se digita no checkout. As exceções do [cupom Nestlé Nutre](/cupons/nestle-nutre), Alfamino, Alfaré e fórmulas infantis, não alcançam nenhum dos três. O passo a passo está no [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
+          "Conta nossa, com os preços da loja de 06/11/2026: aplicamos os 10% do CECI ao preço da compra avulsa e dividimos pelo número de porções da embalagem. O custo por porção permite calcular o gasto conforme o consumo; a garrafa da tabela não equivale a uma recomendação de consumo diário.",
+          "Na assinatura, a loja mostra R$ 51,93 para o Mov Flex e R$ 111,22 para o FiberMais. Esses valores ficam abaixo da compra avulsa com CECI. Antes de escolher a assinatura, confira as condições, a frequência de entrega e o total no carrinho.",
+          "Os três estão na loja oficial da Nestlé Nutre. Digite CECI no checkout e confira o desconto no resumo do pedido. As exceções do [cupom Nestlé Nutre](/cupons/nestle-nutre), Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, não incluem os três produtos comparados. O passo a passo está no [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preço de hoje lido na loja em 06/11. As duas últimas colunas aplicam os 10% do CECI sobre ele.",
+          "caption": "Preços da loja para compra avulsa, sem frete. Simulação com CECI de 10%, válido em todas as formas de pagamento. Custo por porção declarada: uma cápsula, 12 g de pó ou uma garrafa; valores arredondados a centavos.",
           "headers": [
             "Produto",
-            "Preço de hoje",
+            "Preço da loja",
             "Com o CECI",
-            "Custo por dia"
+            "Custo por porção"
           ],
           "rows": [
             [
               "Nutren Mov Flex, 30 cápsulas",
               "R$ 59,92",
               "R$ 53,93",
-              "R$ 1,80 (30 dias)"
+              "R$ 1,80 por cápsula"
             ],
             [
               "FiberMais Colágeno Limão, 300 g",
               "R$ 127,11",
               "R$ 114,40",
-              "R$ 4,58 (25 porções)"
+              "R$ 4,58 por 12 g de pó"
             ],
             [
               "Nutren Protein com Colágeno, 260 ml",
               "R$ 11,90",
               "R$ 10,71",
-              "R$ 10,71 (uma garrafa)"
+              "R$ 10,71 por garrafa"
             ],
             [
               "Combo de 10 garrafas",
               "R$ 119,00",
               "R$ 107,10",
-              "R$ 10,71 cada"
+              "R$ 10,71 por garrafa"
             ]
           ]
         }
@@ -195491,10 +195460,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Pelo custo por dia e pela forma, o Mov Flex é o mais barato dos três e o único em cápsula: R$ 1,80 por dia, contra R$ 4,58 do FiberMais e R$ 10,71 da garrafa.",
-          "Quer fibra numa bebida diária? Fique com o FiberMais, sabendo que a loja só o tem em limão e que cada dia custa mais que o dobro do Mov Flex.",
-          "Quer bebida pronta com proteína? O Nutren Protein com Colágeno é a escolha, mas é o item de maior custo por dia, e o rótulo não diz quanto colágeno ele tem.",
-          "Entre os três, olhe primeiro a forma que cabe na sua rotina e só depois o custo por dia da tabela."
+          "Para quem procura colágeno tipo II em cápsula, o Mov Flex é a opção do trio. Na simulação, cada cápsula custa R$ 1,80.",
+          "Para quem procura fibras em pó com peptídeos de colágeno, o FiberMais reúne esses componentes no sabor limão. O custo calculado é de R$ 4,58 pela porção de 12 g.",
+          "Para quem procura uma bebida pronta com proteína, o Nutren Protein com Colágeno dispensa preparo. A garrafa sai por R$ 10,71 na simulação, mas a página não informa quantos gramas de colágeno ela contém.",
+          "Escolha pela composição e pelo formato que procura. O menor custo por porção, sozinho, não demonstra que um desses produtos substitui os outros."
         ]
       },
       {
@@ -195502,7 +195471,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Nutren Mov Flex para que serve? É a cápsula de colágeno tipo II da Nestlé, com vitamina D e magnésio na mesma cápsula, uma por dia. O que cada cápsula traz está na tabela do início, e o modo de uso, no capítulo dele.",
           "Como tomar o Nutren Mov Flex? Uma cápsula por dia, sem exceder a recomendação da embalagem; o detalhe está no capítulo do Mov Flex.",
-          "Nutren Mov Flex engorda? Cada cápsula tem 6 kcal, e o total de calorias do seu dia é o que conta; a tabela mostra só a porção.",
+          "Nutren Mov Flex engorda? O rótulo declara 6 kcal por cápsula. Esse dado, sozinho, não permite concluir se haverá ganho ou perda de peso.",
           "Qual o colágeno da Nestlé? São três produtos com formas diferentes: cápsula de colágeno tipo II, pó com peptídeos e bebida pronta. O veredito por perfil está no fim do texto.",
           "O cupom CECI vale no Mov Flex? Vale: o CECI cobre os produtos Nestlé Nutre, e só ficam de fora Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Confira o desconto no resumo do pedido antes de pagar."
         ]
@@ -195524,7 +195493,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você quer saber quanto colágeno tem na garrafa: o rótulo não traz essa linha.",
-        "Você quer outro sabor de FiberMais: na loja só existe o limão."
+        "Você não gosta de limão: esse é o sabor do FiberMais comparado neste guia."
       ]
     },
     "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Ninguém da equipe tomou os produtos; comparamos o que os rótulos e as páginas da loja informam.",

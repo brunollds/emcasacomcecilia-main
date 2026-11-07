@@ -119,7 +119,7 @@
         ]
       },
       "postParagraphs": [
-        "O proteico tem 4 g a mais de proteína e 7 g a menos de carboidratos por unidade. As calorias quase não mudam, porque a gordura sobe um pouco."
+        "O proteico tem 4 g a mais de proteína e 7 g a menos de carboidratos por unidade. As calorias ficam próximas: 162 kcal no proteico e 163 kcal no comum; as gorduras totais são 10 g e 9,2 g."
       ]
     },
     {
@@ -216,10 +216,10 @@
     },
     {
       "heading": "Qual escolher: comum ou proteico",
-      "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é o proteico, porque entrega 6 g contra 2 g com as mesmas calorias.",
+      "emphasis": "Pelos rótulos, o proteico entrega 4 g a mais de proteína por unidade, com calorias quase iguais às do comum.",
       "emphasisAfterParagraph": 1,
       "paragraphs": [
-        "O proteico tem 16 g de carboidratos por unidade, contra 23 g do comum. Nas calorias a diferença some, com 162 kcal no proteico e 163 kcal no comum. O comum serve a quem não precisa dessa proteína e paga um pouco menos pelo kit.",
+        "O proteico tem 16 g de carboidratos por unidade, contra 23 g do comum, e 6 g de proteína, contra 2 g. Se esses 4 g adicionais de proteína não forem seu critério de escolha, o comum custava menos no kit de 10.",
         "O kit de 10 custava R$ 78,96 no proteico e R$ 74,12 no comum, ou R$ 7,90 e R$ 7,41 por unidade. Nos dois, o rótulo mostra 0 g de açúcares, mas não diz se o doce cabe na sua dieta: essa conta é com o nutricionista ou o médico."
       ]
     },
@@ -229,7 +229,7 @@
         "Quantas calorias tem o pão de mel sem açúcar da Belive? O comum tem 163 kcal e o proteico, 162 kcal, por unidade de 45 g.",
         "Qual a diferença entre o pão de mel comum e o proteico da Belive? O proteico tem 6 g de proteína e 16 g de carboidratos por unidade. O comum tem 2 g de proteína e 23 g de carboidratos.",
         "O pão de mel da Belive tem açúcar? O rótulo mostra 0 g de açúcares totais e adicionados nas duas versões. Os adoçantes são maltitol e glicosídeos de esteviol.",
-        "Quanto custa o kit de pão de mel da Belive? R$ 74,12 o comum e R$ 78,96 o proteico, com 10 unidades. Com o MAUAD e o Pix, R$ 6,34 e R$ 6,75 por unidade.",
+        "Quanto custa o kit de pão de mel da Belive? O kit de 10 sai por R$ 74,12 no comum e R$ 78,96 no proteico, sem o cupom. Conta nossa, com MAUAD e Pix: R$ 6,34 e R$ 6,75 por unidade; confira os preços no site.",
         "O pão de mel da Belive tem glúten ou leite? A lista diz que não contém glúten, e a loja declara as duas versões sem leite e sem lactose. As duas contêm derivados de soja e ovo."
       ]
     }

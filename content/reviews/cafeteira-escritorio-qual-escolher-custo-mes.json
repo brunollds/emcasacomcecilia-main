@@ -34,8 +34,7 @@
     {
       "heading": "Quantas bebidas o escritório toma por mês",
       "paragraphs": [
-        "A conta é 44 bebidas por pessoa no mês: 2 por dia em 22 dias úteis, sem cupom e sem a máquina.",
-        "A conta é pessoas × 2 bebidas por dia × 22 dias úteis. Cada pessoa toma 44 bebidas no mês, e a equipe toma:"
+        "Use a fórmula pessoas × bebidas por dia × dias úteis. No cenário deste guia, são duas bebidas por pessoa em 22 dias úteis: 44 bebidas por pessoa no mês. Para a equipe, o total fica assim:"
       ],
       "bullets": [
         "5 pessoas: 220 bebidas por mês",
@@ -43,19 +42,19 @@
         "20 pessoas: 880 bebidas por mês"
       ],
       "postParagraphs": [
-        "Os 22 dias úteis são a média de um mês. Num mês com feriado, são 21. As duas bebidas por dia são uma suposição deste texto; troque pelos números da sua equipe, porque a fórmula continua valendo.",
-        "Bebida de duas cápsulas conta em dobro. Na linha Dolce Gusto, cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas, e café, Nescau, Nestea e Mochaccino Canela (que leva leite) usam uma. A tabela da seção de custo considera só bebidas de uma cápsula, então um escritório que pede muito cappuccino gasta mais do que ela mostra."
+        "Os 22 dias úteis são uma premissa para comparar os cenários, não uma regra de todo mês. Troque pelos dias de trabalho e pelo consumo da sua equipe.",
+        "Conte cápsulas pela receita da bebida. Cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas; café, Nescau, Nestea e Mochaccino Canela usam uma. Ter leite não significa usar duas cápsulas. A tabela mensal considera bebidas de uma cápsula; para outro mix, use os preços por bebida da seção Mais que café."
       ]
     },
     {
       "heading": "Qual tipo de máquina para cada tamanho de escritório",
       "paragraphs": [
-        "A escolha é entre cápsula, filtro e grão, e o tamanho da equipe decide."
+        "A escolha é entre cápsula, filtro e grão. Decida pelo que a equipe bebe, pelo gasto com insumos e pelo ritmo de preparo; para volumes altos, confirme a capacidade da máquina com a marca."
       ],
       "comparisonTable": {
         "headers": [
           "Perfil",
-          "Máquina que faz sentido",
+          "Opções a avaliar",
           "Por que",
           "Custo mensal do consumo (sem cupom)"
         ],
@@ -63,19 +62,19 @@
           [
             "2 a 5 pessoas",
             "Dolce Gusto, se a equipe toma leite ou chocolate; filtro elétrico, se só toma café preto",
-            "Cinco pessoas consomem 220 cápsulas por mês, e o combo de 20 caixas tem 200",
+            "Cinco pessoas consumiriam 220 cápsulas por mês, e o combo de 20 caixas tem 200",
             "Dolce Gusto: R$ 356,07 a R$ 410,85 (5 pessoas); filtro: R$ 96,66 (5 pessoas)"
           ],
           [
             "5 a 15 pessoas",
-            "Dolce Gusto em combo para negócios de 50 caixas",
-            "Dez pessoas consomem 440 cápsulas por mês, e 50 caixas têm 500",
+            "Cápsula, se a equipe quer variedade; filtro, se prefere café preto",
+            "Dez pessoas consumiriam 440 bebidas no cenário de uma cápsula por preparo; um lote de 500 deixaria 60 cápsulas",
             "R$ 712,14 (10 pessoas)"
           ],
           [
             "15 pessoas ou mais",
-            "Dolce Gusto em 50 caixas para as bebidas de cápsula; para espresso e leite fresco em volume, a linha Nespresso Profissional",
-            "Vinte pessoas consomem 880 cápsulas por mês, e 50 caixas cobrem 500; a linha profissional tem preço sob contato",
+            "Compare o custo dos combos com as necessidades de uso; para espresso e leite fresco em volume, peça cotação de linha profissional",
+            "Vinte pessoas consumiriam 880 bebidas no cenário. A conta estima insumos, não a capacidade de preparo da máquina.",
             "R$ 1.424,28 (20 pessoas) em Dolce Gusto; Nespresso Profissional sem preço publicado"
           ]
         ]
@@ -349,7 +348,7 @@
     {
       "heading": "Escritório de advocacia, consultório e escritório grande: o que muda",
       "paragraphs": [
-        "Advocacia, consultório e MEI usam a mesma conta: pessoas × 2 bebidas × 22 dias úteis. Consultório e MEI costumam caber no perfil de 2 a 5 pessoas. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
+        "Consultório, advocacia ou MEI não definem por si só o tamanho da máquina. Conte quem usa, quantas bebidas prepara e se o consumo se concentra em horários de pico. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
         "Para quem prefere cafeteira elétrica sem cápsula, as Oster citadas acima custam de R$ 179,90 a R$ 309,90. A máquina é pagamento único, e o custo que se repete é o do pó: com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44.",
         "Escritório de 15 pessoas ou mais entra na conta de 20 pessoas da tabela mensal. Com 20 pessoas, a caixa avulsa da Dolce Gusto sai por R$ 2.191,20 no mês e o combo de 50 caixas por R$ 1.424,28, em custo das cápsulas consumidas."
       ]
@@ -370,24 +369,24 @@
     {
       "heading": "Qual escolher para o escritório",
       "paragraphs": [
-        "A escolha depende de quem toma o quê. Os valores são sem cupom e sem a máquina, e a conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula."
+        "A escolha depende de quem toma o quê. Os cenários abaixo estimam o consumo de duas bebidas por pessoa em 22 dias úteis. Os valores são proporcionais aos insumos usados; a compra exige pagar caixas, combos ou pacotes inteiros e pode deixar estoque. A máquina, o frete e a energia ficam fora."
       ],
       "bullets": [
         "5 pessoas (220 bebidas por mês): Dolce Gusto, no combo para negócios de 50 caixas, R$ 356,07 por mês em cápsulas consumidas (a compra do combo é de R$ 809,25 de uma vez); no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
-        "10 pessoas (440 bebidas): Dolce Gusto em 50 caixas, R$ 712,14; filtro, R$ 193,32.",
-        "20 pessoas (880 bebidas): Dolce Gusto em 50 caixas, R$ 1.424,28; filtro, R$ 386,64."
+        "10 pessoas (440 bebidas): Dolce Gusto em 50 caixas, R$ 712,14 em cápsulas consumidas; filtro, R$ 193,32.",
+        "20 pessoas (880 bebidas): Dolce Gusto em 50 caixas, R$ 1.424,28 em cápsulas consumidas; filtro, R$ 386,64."
       ],
       "postParagraphs": [
         "No escritório nem todo mundo toma café. A Dolce Gusto faz café, bebidas com leite, chocolate, chá gelado e chá com a mesma máquina, e por isso atende o time inteiro. Para quem só toma café preto, o filtro é muito mais barato por xícara: R$ 0,44 na xícara de 100 ml, contra R$ 1,62 a R$ 1,87 por bebida nos combos da Dolce Gusto e R$ 3,70 a R$ 4,20 por cápsula da Nespresso Original."
       ],
-      "emphasis": "Se fosse para o meu escritório, eu levaria a Dolce Gusto no combo de 50 caixas: faz café, leite, chocolate e chá na mesma máquina e sai a R$ 1,62 por bebida."
+      "emphasis": "Se fosse para o meu escritório, eu consideraria a Dolce Gusto pela variedade de café, leite, chocolate e chá. Para escolher o combo, compararia o consumo da equipe com a quantidade de caixas que precisaria comprar de uma vez."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Cafeteira para escritório sem cápsula existe? Sim. A cafeteira elétrica de filtro, como as Oster de R$ 179,90 a R$ 309,90, não usa cápsula, e o café moído da Melitta sai a R$ 0,44 por xícara de 100 ml.",
         "Qual a melhor cafeteira de cápsula para escritório? Não há uma melhor para todos: para a equipe que quer variedade e custo baixo por bebida, a Dolce Gusto com combo de negócios; para espresso com leite fresco em volume, a linha profissional da Nespresso, com preço sob contato.",
-        "Cafeteira grande para escritório: qual escolher? Grande aqui quer dizer volume: a Oster Black tem jarra de 0,7 L, e o reservatório das Dolce Gusto Mini Me e Genio S é de 0,8 L. A ficha que lemos não diz quantas xícaras cabem em cada máquina.",
+        "Cafeteira grande para escritório: qual escolher? Grande aqui quer dizer volume: a Oster Black tem jarra de 0,7 L, e o reservatório das Dolce Gusto Mini Me e Genio S é de 0,8 L. Litros de reservatório não dizem quantas pessoas a máquina atende.",
         "O cupom CECI vale nos combos para negócios? Vale, na loja oficial da Dolce Gusto, com 10% OFF sobre o preço do dia em compras a partir de R$ 100; o combo de 50 caixas sai por R$ 728,33.",
         "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas: com 5 pessoas e 44 bebidas cada no mês, o combo de 20 caixas da Dolce Gusto sai a R$ 410,85 em cápsulas consumidas, e a tabela mensal tem as contas para 5, 10 e 20 pessoas. O combo é vendido fechado: o de 20 caixas custa R$ 373,50 de uma vez."
       ]
@@ -418,7 +417,7 @@
   "decision": {
     "takeIf": [
       "Leve a Dolce Gusto se a equipe toma leite, chocolate ou chá além de café.",
-      "Leve o combo de 50 caixas se o escritório quer o menor custo por bebida."
+      "Considere o combo de 50 caixas se o consumo e o estoque fizerem sentido: ele tem o menor preço por cápsula entre os combos de negócios."
     ],
     "skipIf": [
       "Passe a cápsula se a equipe só toma café preto: o filtro sai mais barato por xícara.",

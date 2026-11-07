@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Depende da altura e da troca. Para acertar a altura em casa, o Snow, da I Wanna Sleep, chega com 18 cm e você tira o enchimento; para ajustar por camadas e receber o dinheiro de volta, a Emma tem 14 noites de teste; para gastar menos, a Ortobom. Veja abaixo o teste e a troca de cada marca."
+        "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, que permite tirar enchimento, com os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca; a Emma, 14 noites com reembolso. Os dois modelos da Ortobom citados custam menos, mas as páginas não informam teste em casa."
       ]
     },
     {
@@ -166,32 +166,35 @@
     {
       "heading": "Ortobom: preço menor, teste não informado",
       "paragraphs": [
-        "A Ortobom é a mais barata dos três e não informa teste em casa: o Viscopur custa R$ 169 e o Conforto Regulável, R$ 159. O Viscopur é de espuma viscoelástica, com conforto firme. O Conforto Regulável, apesar de estar na mesma categoria, é de fibra siliconada, macio e com altura regulável.",
-        "As páginas dos dois informam garantia de 90 dias e não falam em noites de teste. A categoria tem outros modelos; olhamos só estes dois."
+        "Os dois modelos da Ortobom são os mais baratos entre os comparados: Viscopur a R$ 169 e Conforto Regulável a R$ 159. O Viscopur é descrito como viscoelástico e firme; o Conforto Regulável, como fibra siliconada, macio e regulável.",
+        "As páginas dos dois informam garantia de 90 dias e não mencionam noites de teste."
       ]
     },
     {
       "heading": "Teste, troca e garantia",
       "bullets": [
         "I Wanna Sleep: 30 dias de teste nos travesseiros, com pelo menos 15 dias de uso. Se você não se adaptar, recebe crédito para trocar por outro produto do site, sem custo de frete. Vale só para compras no site oficial, com a nota fiscal.",
-        "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, informa o site.",
+        "Emma: 14 noites de teste e 6 meses de garantia. A política comercial prevê recolhimento e reembolso total se você não se adaptar. Confira as condições vigentes antes de comprar.",
         "Ortobom: garantia de 90 dias nas páginas do Viscopur e do Conforto Regulável; as páginas não informam noites de teste."
       ],
       "image": {
         "src": "/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp",
         "alt": "Três linhas: calendário com 30 e um vale de troca, lua com 14 e dinheiro de volta, escudo com 90 e uma lua com ponto de interrogação",
-        "caption": "De cima para baixo: a I Wanna Sleep dá 30 dias de teste e crédito para troca; a Emma, 14 noites e o dinheiro de volta; a Ortobom informa 90 dias de garantia e não fala em teste.",
+        "caption": "I Wanna Sleep com 30 dias de teste e crédito para troca; Emma com 14 noites e reembolso; as páginas dos dois modelos Ortobom informam 90 dias de garantia, sem mencionar teste.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
-      }
+      },
+      "postParagraphs": [
+        "Esses programas são benefícios comerciais e não substituem o prazo legal de arrependimento de 7 dias para compras online."
+      ]
     },
     {
       "heading": "Qual escolher pelo seu jeito de dormir",
       "bullets": [
         "Não sabe que altura prefere: Snow, que você ajusta em casa, ou um modelo da Emma, de camadas.",
         "Já sabe a altura que usa: Original Látex, em 11, 13 ou 15 cm.",
-        "Quer poder devolver e receber o dinheiro: Emma, com 14 noites.",
-        "Quer gastar menos: Ortobom, que não informa teste em casa nos dois modelos que consultamos.",
+        "Prefere um programa de adaptação com reembolso, em vez de crédito: a Emma oferece 14 noites.",
+        "Quer o menor preço da tabela: Viscopur e Conforto Regulável, da Ortobom. As páginas dos dois não informam teste em casa; confirme a condição atual.",
         "Dorme de lado: a Emma lembra que essa posição costuma pedir travesseiro mais alto. Dá para deixar mais enchimento no Snow ou escolher o Antiestress, que a Emma indica para quem dorme de lado."
       ],
       "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura se ajusta tirando o enchimento e o teste é de 30 dias."
@@ -224,7 +227,7 @@
         "Travesseiro I Wanna Sleep é bom? Não testamos; a marca dá 30 dias de teste nos travesseiros, com crédito para troca se você não se adaptar.",
         "Travesseiro I Wanna Sleep vale a pena? Depende de como você dorme e de querer ajustar a altura em casa; o quadro mostra os modelos e os prazos de teste.",
         "Travesseiro Emma é bom? Não testamos; a Emma dá 14 noites de teste e 6 meses de garantia nos travesseiros, com reembolso se você não se adaptar.",
-        "Emma ou I Wanna Sleep: qual é melhor? Não há um melhor para todo mundo: o Snow ajusta tirando enchimento, a Emma ajusta por camadas, e só a Emma devolve o dinheiro no teste.",
+        "Emma ou I Wanna Sleep: qual é melhor? Depende do ajuste e da política de adaptação que você prefere. O Snow ajusta por enchimento e a I Wanna Sleep dá crédito para troca; a Emma ajusta por camadas e oferece reembolso em 14 noites.",
         "I Wanna Sleep ou Ortobom: qual escolher? Os dois modelos da Ortobom que consultamos custam menos, mas as páginas deles não informam teste; a I Wanna Sleep dá 30 dias, com crédito para troca.",
         "O travesseiro Snow tem regulagem de altura? Sim: ele chega com 18 cm, e você tira o enchimento até achar a altura mais confortável.",
         "Travesseiro Emma tem regulagem de altura? Sim, por camadas: 2 ou 3, conforme o modelo.",
@@ -248,8 +251,8 @@
       "Você quer um teste de 30 dias, com crédito para troca no site da marca."
     ],
     "skipIf": [
-      "Você quer teste com o dinheiro de volta: a Emma recolhe e reembolsa em 14 noites.",
-      "Você quer gastar menos e abre mão do teste em casa: os dois modelos da Ortobom consultados não informam teste.",
+      "Você prefere que o programa comercial de adaptação ofereça reembolso: a Emma informa recolhimento e reembolso em 14 noites.",
+      "Você procura preço menor e vai confirmar a política de adaptação: os dois modelos da Ortobom são mais baratos, mas as páginas não informam teste.",
       "Você tem dor no pescoço que não passa: procure um ortopedista ou fisioterapeuta antes da troca."
     ]
   },

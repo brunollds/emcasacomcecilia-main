@@ -238,7 +238,7 @@
       "heading": "Ingredientes e alérgenos",
       "paragraphs": [
         "No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O rótulo traz ferro, manganês e selênio em formas quelatadas: bisglicinato de ferro, bisglicinato de manganês e selenometionina.",
-        "No Centrum, a Drogasil lista como excipientes celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício (a Extrafarma traz a mesma lista). A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose. A Drogasil também informa que o Centrum contém itens de origem animal: vitamina A de origem suína e vitamina D3 de origem bovina e ovina. Quem precisa evitar um desses itens deve ler o rótulo do frasco."
+        "No Centrum, a Drogasil lista excipientes como celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício; a Extrafarma traz a mesma lista. As fontes divergem sobre lactose: ela aparece na lista de ingredientes, enquanto a embalagem informa que não contém. Se você precisa evitar lactose, confirme essa informação no rótulo do frasco e com o fabricante antes de escolher. A Drogasil também lista vitamina A de origem suína e vitamina D3 de origem bovina e ovina."
       ]
     },
     {
@@ -301,11 +301,11 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Nutren A-Z ou Centrum? Os dois têm uma unidade por dia e 60 por frasco. O Nutren tem doses maiores de ferro, ácido fólico, vitaminas A e E, selênio, cobre, cromo e molibdênio e saiu mais barato por dia nas lojas comparadas; o Centrum traz cálcio, fósforo, magnésio e iodo.",
+        "Nutren A-Z ou Centrum? Compare a composição e o formato: o Nutren é cápsula softgel; o Centrum A a Zinco Adulto é comprimido e lista também cálcio, fósforo, magnésio e iodo. A tabela acima mostra as quantidades por unidade.",
         "O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.",
         "O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.",
-        "O Centrum A a Zinco tem lactose? A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose.",
-        "Qual custa menos por dia? Na leitura dos preços, o Nutren A-Z Multi saía a R$ 0,82 por dia na Nestlé Nutre e o Centrum A a Zinco a R$ 2,35 por dia na Extrafarma (contas nossas).",
+        "O Centrum A a Zinco tem lactose? As fontes divergem: a lista de ingredientes cita lactose e a embalagem informa que não contém. Para uma compra que exige evitar lactose, confirme no rótulo do frasco e com o fabricante.",
+        "Qual custa menos por dia? Nos preços da tabela, o Nutren A-Z Multi custava menos por dia. Veja a tabela de preços acima para o valor, a loja e a data da comparação.",
         "Posso tomar os dois juntos? O rótulo do Nutren orienta consultar um profissional de saúde ao consumir outros suplementos.",
         "Centrum A a Zinco e Centrum Mulher ou Homem são o mesmo produto? Não. Este texto trata só do Centrum A a Zinco Adulto."
       ]
@@ -313,12 +313,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Você quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico."
+      "Centrum A a Zinco Adulto: você procura cálcio, fósforo, magnésio e iodo no mesmo multivitamínico, nutrientes listados na tabela desse produto.",
+      "Nutren A-Z Multi: você prefere cápsula softgel ou compara pelo menor preço por dia entre as embalagens e lojas da tabela."
     ],
     "skipIf": [
-      "Você prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitaminas A e E, ou menor preço por dia nas lojas comparadas: nesse caso, o Nutren A-Z Multi.",
-      "Você segue dieta sem produtos de origem animal: os dois têm itens de origem animal.",
-      "Você está grávida ou amamentando: a Drogasil avisa que o Centrum só deve ser usado com orientação médica."
+      "Você segue dieta sem produtos de origem animal: nenhum dos dois atende a esse critério.",
+      "Você precisa escolher por dose, uso com outros medicamentos, gravidez ou amamentação: leve essa dúvida a um médico ou nutricionista."
     ]
   },
   "pros": [],

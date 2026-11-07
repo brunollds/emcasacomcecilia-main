@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Como ganhar ou comprar a Mini Me da Dolce Gusto: combos com máquina, combo Mini Me 2.0 com 20 caixas por R$ 797,00 e avulsa por R$ 419,90. Veja a conta e o cupom CECI.",
+  "description": "Compare três formas de levar a Mini Me da Dolce Gusto: máquina avulsa, combo com 20 caixas ou bônus em campanha. Veja como fazer a conta por caixa e conferir a aplicação do CECI.",
   "metaDescription": "Mini Me Dolce Gusto com o cupom CECI e 10% OFF: os combos com máquina, o combo com 20 caixas e a avulsa, e quando cada um compensa.",
   "publishedAt": "29 Jun 2026",
   "publishedAtISO": "2026-06-29",
@@ -54,7 +54,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+        "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF a partir de 100 reais, e a aplicação em combos depende da campanha."
       ]
     },
     {
@@ -92,7 +92,7 @@
       "heading": "Combo com 20 caixas ou Mini Me avulsa",
       "paragraphs": [
         "No combo, você paga R$ 797,00 por máquina e 20 caixas. Avulsa, a máquina sai por R$ 419,90 e as caixas são compradas à parte.",
-        "Para saber o custo real da máquina no combo, subtraia as caixas: R$ 797,00 menos 20 vezes o preço da caixa no carrinho. A diferença para a avulsa é de R$ 377,10, então o combo compensa quando a caixa custa mais de R$ 18,86. Com a caixa a R$ 25, as 20 caixas somam R$ 500,00 e a máquina sairia por R$ 297,00. Compare sempre com frete e as mesmas caixas nos dois cenários, e releia o preço da caixa antes de decidir."
+        "Na comparação acima, o combo custava R$ 377,10 a mais que a máquina avulsa. Dividindo essa diferença por 20, o ponto de equilíbrio é de aproximadamente R$ 18,86 por caixa: acima disso, comprar máquina e caixas no combo sai mais barato do que comprar os mesmos itens separados. Se a caixa avulsa custar R$ 25, as 20 somam R$ 500; nesse cálculo, R$ 297 do combo ficam atribuídos à máquina. Esse é um rateio para comparar as ofertas, não o preço de uma máquina vendida separadamente. Inclua frete e descontos elegíveis e use as mesmas caixas nos dois cenários."
       ],
       "bullets": [
         "Combo Mini Me 2.0 + 20 caixas: R$ 797,00.",
@@ -124,7 +124,7 @@
       "paragraphs": [
         "Vale se você já compraria as caixas. No combo de 20 caixas, a máquina sai mais barata que a avulsa quando a caixa passa de R$ 18,86 no carrinho. Já o combo com Mini Me grátis entrega a máquina sem custo para quem passa do mínimo de caixas do regulamento.",
         "Não vale se o consumo é esporádico: comprar 20 caixas ou mais só para levar a máquina cria um estoque que pode demorar para acabar. Nesse caso, a Mini Me 2.0 avulsa por R$ 419,90 é a conta mais segura.",
-        "Confirme preço, número de caixas, frete e regras no carrinho antes de pagar. Se fosse para a minha casa, eu levaria a avulsa para consumo esporádico, porque 20 caixas criam estoque."
+        "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar. Se fosse para a minha casa com consumo moderado, eu levaria a Mini Me 2.0 avulsa para ter a liberdade de repor os cafés no meu próprio ritmo, sem imobilizar orçamento em um estoque grande de uma vez só."
       ],
       "bullets": [
         "Consumo frequente: combo com 20 caixas ou combo com Mini Me grátis.",
@@ -133,9 +133,10 @@
     }
   ],
   "cta": {
-    "text": "Veja os combos com máquina Mini Me na loja oficial e use o cupom CECI para economizar 10% quando estiver elegível.",
+    "text": "Veja os combos com máquina Mini Me na loja oficial e use o cupom CECI para economizar 10% a partir de R$ 100 quando estiver elegível.",
     "label": "Ir para a loja oficial",
-    "url": "https://www.nescafe-dolcegusto.com.br/sabores"
+    "url": "https://www.nescafe-dolcegusto.com.br/sabores",
+    "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",

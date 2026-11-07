@@ -34,7 +34,7 @@
   "imageAspect": "square",
   "pros": [
     "Painel touch responsivo, sem delay perceptível",
-    "A máquina mais rápida que já usamos em casa (mais rápida que a Vertuo da Nespresso)",
+    "A máquina de aquecimento e preparo mais ágil nas nossas primeiras impressões em casa (mais rápida que a Vertuo da Nespresso)",
     "Troca de cápsula simples: basta levantar a tampa frontal, que já ativa o painel",
     "Reservatório de 800 ml fácil de encaixar e remover para reabastecer",
     "Construção robusta, sem rebarbas ou acabamento malfeito",
@@ -44,7 +44,7 @@
     "Fica pingando entre um preparo e outro, algo que não notamos na NEO nem na Vertuo",
     "A unidade 127V testada possui plugue de 20A e requer uma tomada compatível, sem adaptadores improvisados",
     "Menos recursos de conectividade (IoT/app) que a NEO e a Vertuo",
-    "Os únicos valores em ml de cada nível estão no manual impresso, não no painel",
+    "O painel mostra níveis, sem indicar ml; o manual oferece uma referência de volume por nível",
     "Há relatos de usuários (inclusive no Reclame Aqui) sobre o painel touch apresentando problemas com o tempo: ainda não temos uso suficiente pra confirmar ou descartar"
   ],
   "pullQuote": "É a máquina de cápsula mais rápida que já tivemos em casa, mas o painel touch e o reservatório de 800 ml são só a metade da história do primeiro uso.",
@@ -129,7 +129,7 @@
     {
       "heading": "Por que testamos a Genio S Touch",
       "paragraphs": [
-        "A Touch é a Genio S de botões trocados por touchscreen: mantém as cápsulas ORIGINAL, com Espresso Boost, 4 temperaturas e XL.",
+        "A Genio S Touch é a versão da família com painel touchscreen. Usa cápsulas ORIGINAL e oferece Espresso Boost, quatro temperaturas e função XL.",
         "Este artigo traz nossas primeiras impressões reais de uso: unboxing, o painel touch, a primeira xícara e o que já incomodou. Ainda é cedo pra falar de durabilidade, então vamos atualizar esta mesma página conforme usarmos mais a máquina no dia a dia, em vez de publicar uma review nova do zero."
       ],
       "bullets": [],
@@ -164,9 +164,9 @@
       }
     },
     {
-      "heading": "Quantos ml sai em cada nível?",
+      "heading": "Quantos ml saem em cada nível?",
       "paragraphs": [
-        "O painel touch mostra ícones, sem ml: os mesmos riscos da cápsula e da caixinha. A única referência com os valores reais em ml que encontramos foi no manual impresso, que vai até o nível XL, acima do que costuma vir configurado como máximo \"normal\" no painel.",
+        "O painel mostra níveis, com os mesmos riscos da cápsula e da caixa, sem indicar ml. O manual impresso traz uma referência de volume por nível, incluindo o XL; ela não substitui a indicação de preparo da cápsula escolhida.",
         "Como esse é um dado que vale um artigo à parte (inclusive porque encontramos informação incorreta sobre isso em outros sites), a tabela completa de ml por nível está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
       ],
       "bullets": []
@@ -241,11 +241,11 @@
       "bullets": [
         "Qual a diferença entre a Genio S Touch e a Genio S Plus? A principal diferença é o painel: a Touch tem touchscreen, enquanto a Plus tem controle tradicional, sem touchscreen, com o nível de água escolhido por um toque no círculo de LED. Em recursos, as duas oferecem Espresso Boost, níveis de temperatura e Função XL.",
         "A Genio S Touch é compatível com cápsulas NEO? Não diretamente: ela usa o sistema ORIGINAL. Para cápsulas NEO de café preto selecionadas, é preciso comprar o Adaptador NEO Start (vendido à parte).",
-        "Quantos ml sai em cada nível do painel touch? O painel mostra ícones de tamanho (os mesmos impressos na cápsula), não o valor em ml. Os volumes reais só constam no manual impresso, e a tabela completa está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel).",
+        "Quantos ml saem em cada nível do painel touch? O painel mostra níveis, não o volume em ml. Veja a compilação aproximada no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel) e siga a indicação da cápsula para o preparo.",
         "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro, um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
         "Precisa de tomada especial? Sim, a unidade 127V testada possui plugue de 20A e deve ser ligada diretamente a uma tomada de 20A compatível, sem adaptadores improvisados.",
         "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso: melhora bastante o resultado na xícara.",
-        "O cupom CECI ainda é válido? Cupons promocionais podem mudar. Se o CECI não estiver ativo, confira a [página de cupons da Dolce Gusto](/cupons/dolce-gusto) ou o link da loja oficial neste artigo para ver a promoção vigente."
+        "O cupom CECI ainda é válido? O CECI é o código de parceria da Dolce Gusto: 10% OFF em compras a partir de R$ 100 na loja oficial. As condições vigentes estão na [página de cupons Dolce Gusto](/cupons/dolce-gusto); confira o desconto no resumo do pedido antes de pagar."
       ]
     }
   ],

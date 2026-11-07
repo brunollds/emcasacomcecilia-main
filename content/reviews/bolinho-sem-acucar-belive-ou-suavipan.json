@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata em 17/10/2026."
+        "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata."
       ]
     },
     {
@@ -217,7 +217,7 @@
     {
       "heading": "Preço por unidade",
       "paragraphs": [
-        "Na unidade, a Suavipan saiu mais barata na farmácia; no kit, a Belive levou. Preços de 17/10/2026. Conta nossa: o preço por unidade dos kits."
+        "Em 17/10/2026, a unidade Suavipan na Drogasil custava menos que a Belive no site oficial. Conta nossa, com o preço de cada kit dividido pelas unidades: entre os kits, a Belive tinha o menor preço por unidade."
       ],
       "comparisonTable": {
         "headers": [
@@ -235,7 +235,7 @@
           ],
           [
             "Belive, site oficial",
-            "Unidade, com MAUAD e Pix",
+            "Unidade, simulação com MAUAD e Pix",
             "R$ 3,92",
             "R$ 3,92"
           ],
@@ -247,7 +247,7 @@
           ],
           [
             "Belive, site oficial",
-            "Kit de 10, com MAUAD e Pix",
+            "Kit de 10, simulação com MAUAD e Pix",
             "R$ 42,86",
             "R$ 4,29"
           ],
@@ -266,7 +266,7 @@
         ]
       },
       "postParagraphs": [
-        "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399.",
+        "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399. A simulação de R$ 3,92 usa o cupom e o Pix sobre os R$ 4,58; compare o total com frete no carrinho.",
         "Na Belive, o cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive). O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. A Suavipan não tem cupom nosso."
       ]
     },
@@ -309,7 +309,7 @@
   "decision": {
     "takeIf": [
       "Leve a Belive se você quer conferir açúcares, calorias e carboidratos antes de comprar: a tabela dela traz 0 g de açúcares totais e adicionados.",
-      "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na Drogasil, ela saiu mais barata."
+      "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na Drogasil ela saiu mais barata, e o preço depende do CEP."
     ],
     "skipIf": [
       "Passe na Suavipan se você evita glúten ou leite: ela leva farinha de trigo e leite em pó.",

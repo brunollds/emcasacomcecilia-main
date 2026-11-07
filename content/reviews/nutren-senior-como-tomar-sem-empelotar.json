@@ -28,7 +28,7 @@
     "O método da pasta é o mesmo que a Nestlé indica: pouco líquido primeiro e o restante depois",
     "Números oficiais por porção: cerca de 130 kcal e 11 g de proteína nos sabores; 113 kcal e 10 g no Sem Sabor Zero Lactose",
     "O Sem Sabor entra em receitas doces e salgadas, segundo a marca, sempre adicionado no final do preparo",
-    "Cupom CECI de 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis"
+    "Cupom CECI de 10% OFF em produtos elegíveis na Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses"
   ],
   "cons": [
     "Não pode ferver e deve ser consumido logo após o preparo; a marca não informa uma temperatura máxima",
@@ -45,9 +45,8 @@
     {
       "heading": "Por que o Nutren Senior empelota",
       "paragraphs": [
-        "Quem prepara suplemento em pó conhece a cena: pó no copo, o líquido todo de uma vez, a colher batendo no vidro e, no fim, bolinhas secas boiando ou uma massa grudada no fundo. Para quem toma, a bebida fica desagradável. Para quem cuida de um pai, uma mãe ou um avô, o copo ainda pode ser recusado pela metade, e um suplemento que não é barato acaba na pia.",
-        "O motivo é comum a quase todo pó rico em proteína e leite: quando muito líquido encontra o pó de uma vez, só a camada de fora molha, fica gelatinosa e forma uma capa que protege o miolo seco. Mexer com mais força não resolve, porque a colher apenas empurra as bolinhas de um lado para o outro.",
-        "A solução não é truque de blog. A própria Nestlé indica, na página do produto, o contrário de despejar tudo: começar com pouco líquido, formar uma pasta e só depois completar. É o que chamamos aqui de método da pasta."
+        "Quem prepara suplemento em pó conhece a cena: o líquido entra todo de uma vez, e o pó fica em bolinhas secas ou grudado no fundo do copo.",
+        "A Nestlé orienta começar com pouco líquido, formar uma pasta e só depois completar. O passo a passo abaixo separa as medidas por versão; confira a indicação da sua lata."
       ],
       "bullets": []
     },
@@ -288,7 +287,7 @@
     }
   ],
   "cta": {
-    "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI (10% OFF)",
+    "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI: 10% OFF no valor dos produtos. Confira no carrinho se o desconto se aplica.",
     "label": "Ver Nutren Senior na Nestlé Nutre",
     "url": "https://www.nestlenutre.com.br/nutren-senior",
     "sponsored": true

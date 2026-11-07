@@ -27,13 +27,12 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Nenhuma das duas é melhor para todos: Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são fórmulas de 1 litro com 1,5 kcal por mL, e a escolha é do médico ou do nutricionista. O que muda é a fibra e o preço por 1.000 kcal. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+        "Nenhuma das duas é superior para todos: Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são dietas de 1 litro, e a indicação é do médico ou do nutricionista. O que muda entre elas é a fibra e o custo por 1.000 kcal. Para quem tem indicação de Isosource, o cupom CECI dá 10% na loja oficial Nestlé Nutre."
       ]
     },
     {
       "heading": "Qual versão de cada lado",
       "paragraphs": [
-        "Nenhuma das duas se escolhe sozinha: é o médico ou o nutricionista que define a fórmula, a quantidade e a via. Este texto só compara o que os rótulos e as páginas mostram e as contas de preço.",
         "Isosource 1.5 Sem Sabor, 1 L, é o produto da Nestlé Health Science vendido na Nestlé Nutre, em caixa Tetra Square com tampa.",
         "Trophic 1.5, da Prodiet, na versão Baunilha, caixa de 1 L, lida na página da Droga Raia. O Isosource 1.0 existe só em pó, de 400 g, e o 1.5 é líquido. Por isso o 1.0 não entra aqui.",
         "A tabela completa do Isosource está lida no rótulo. Da Trophic, usamos só o que os cartões oficiais da Prodiet mostram nas fotos do produto numa loja, porque a tabela completa da caixa não estava publicada nas fontes lidas. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve)."
@@ -137,7 +136,7 @@
     {
       "heading": "Onde entra o cupom CECI",
       "paragraphs": [
-        "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Isosource não está nas exceções. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre). A Prodiet não é parceira do site, e não temos código para a Trophic."
+        "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre em todas as formas de pagamento, exceto para fórmulas infantis de 0 a 12 meses e as linhas Alfamino e Alfaré. O Isosource 1.5 não está nessas exceções e é elegível ao desconto. A Prodiet não é parceira do site, por isso não há cupom para a Trophic. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre)."
       ]
     },
     {
@@ -156,13 +155,13 @@
   "cons": [],
   "cta": {
     "text": "Veja o Isosource 1.5 Sem Sabor na Nestlé Nutre e aplique o cupom CECI no carrinho.",
-    "label": "Ver na Nestlé Nutre",
+    "label": "Ver Isosource 1.5 na Nestlé Nutre",
     "url": "https://www.nestlenutre.com.br/isosource-1-5-sem-sabor",
     "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Não recebemos os produtos.",
+  "editorialNote": "Comparativo de rótulos e páginas oficiais. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre. Usar somente sob orientação médica ou de nutricionista; fórmula, quantidade e via são definidas pelo profissional.",
   "relatedArticles": [
     {
       "slug": "isosource-1-5-para-que-serve"

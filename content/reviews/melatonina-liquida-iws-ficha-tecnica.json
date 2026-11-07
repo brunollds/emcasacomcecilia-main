@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Ingredientes, cuidados e preços estão abaixo."
+        "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Na loja oficial, o cupom CECIEMCASA dá 10% OFF na unidade e nos kits."
       ]
     },
     {
@@ -91,8 +91,8 @@
       ],
       "links": [
         {
-          "label": "Política oficial do Sleeptest",
-          "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
+          "label": "Ver regras e validade do cupom CECIEMCASA para I Wanna Sleep",
+          "href": "/cupons/i-wanna-sleep"
         }
       ]
     },
@@ -100,6 +100,12 @@
       "heading": "Garantia Sleeptest",
       "paragraphs": [
         "O produto é coberto pelo programa **Sleeptest** da I Wanna Sleep: são 30 dias, contados do recebimento, para testar. A marca exige uso mínimo de 15 dias antes de aceitar o pedido de troca, e o que você recebe é crédito de troca por outro item do catálogo, não reembolso. Confira as condições completas na política oficial."
+      ],
+      "links": [
+        {
+          "label": "Política oficial do Sleeptest",
+          "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
+        }
       ]
     },
     {
@@ -136,7 +142,7 @@
   ],
   "cta": {
     "text": "Conheça a Melatonina Líquida IWS no site oficial e teste o cupom CECIEMCASA",
-    "label": "Ver na loja oficial",
+    "label": "Ver Melatonina Líquida IWS",
     "url": "https://www.iwannasleep.com.br/products/melatonina-liquida-iws-30ml-maracuja",
     "sponsored": true
   },

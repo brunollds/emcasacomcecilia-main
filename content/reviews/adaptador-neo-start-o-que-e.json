@@ -36,7 +36,8 @@
       "links": [
         {
           "label": "Página Oficial do Adaptador NEO Start",
-          "href": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start"
+          "href": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start",
+          "sponsored": true
         },
         {
           "label": "Manual do Adaptador NEO Start",
@@ -54,7 +55,7 @@
         "Cápsulas ORIGINAL: formato e porta-cápsula próprios da linha tradicional",
         "Cápsulas NEO: papel compostável e encaixe diferente",
         "Máquinas NEO: preparadas nativamente para cápsulas NEO",
-        "Máquinas ORIGINAL: precisam do adaptador para usar cápsulas NEO"
+        "Máquinas ORIGINAL compatíveis: usam o adaptador para preparar cafés pretos NEO selecionados, só com água quente"
       ],
       "links": [
         {
@@ -64,63 +65,9 @@
       ]
     },
     {
-      "heading": "Como funciona o Adaptador NEO Start",
-      "paragraphs": [
-        "O adaptador entra no lugar do porta-cápsulas da ORIGINAL e prepara os cafés pretos NEO selecionados, só com água quente. Os passos de uso estão abaixo; os cuidados de segurança do manual vêm na seção seguinte.",
-        "Como preparar a bebida por tipo de máquina: nas máquinas Flow Stop, selecione o volume em tracinhos normalmente. Nas máquinas manuais, mova a alavanca para a posição de água quente e retorne-a manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
-        "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force: auxilie o fechamento aplicando leve pressão com a palma da mão.",
-        "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
-      ],
-      "bullets": [
-        "Utilizar EXCLUSIVAMENTE a função de água quente da máquina.",
-        "Máquinas Flow Stop: Selecionar o volume em tracinhos normalmente.",
-        "Máquinas manuais: Mover a alavanca para água quente e retornar ao centro ao atingir o volume desejado.",
-        "Encaixe magnético: O acessório é atraído para a posição final; trave a tampa do adaptador antes de inserir e auxilie o fechamento com a palma da mão se necessário.",
-        "Retirar o adaptador segurando sempre pela pega dedicada, pois o corpo do acessório atinge altas temperaturas.",
-        "Depois de esfriar, tire a cápsula usada pelo anel ejetor e lave o adaptador: o manual diz que ele pode ir à lava-louças. Não deixe cápsula usada dentro dele."
-      ],
-      "links": [
-        {
-          "label": "Manual Oficial e Recomendações do Adaptador NEO Start",
-          "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
-        }
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp",
-          "alt": "Passo a passo oficial de uso do Adaptador NEO Start em uma máquina Dolce Gusto",
-          "objectFit": "contain"
-        },
-        {
-          "src": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
-          "alt": "Adaptador NEO Start aberto com uma cápsula NEO posicionada para o encaixe",
-          "objectFit": "contain"
-        }
-      ]
-    },
-    {
-      "heading": "Cuidados de segurança do manual",
-      "paragraphs": [
-        "O manual do adaptador traz estes cuidados, que se somam às instruções de segurança da própria máquina:"
-      ],
-      "bullets": [
-        "O adaptador tem ímãs permanentes: não o deixe perto de marcapasso ou desfibrilador.",
-        "Mantenha os ímãs longe do que eles podem danificar, como cartões de crédito, aparelhos auditivos, relógios mecânicos, alto-falantes e TVs e monitores de tubo.",
-        "Não ponha os dedos dentro do adaptador: ele tem agulhas afiadas que perfuram a cápsula e podem machucar.",
-        "Não é brinquedo: guarde fora do alcance de crianças. Quem nunca usou deve ler o manual antes ou usar com a supervisão de alguém que conheça o produto.",
-        "Não force o encaixe numa máquina que não está na lista de compatíveis."
-      ],
-      "links": [
-        {
-          "label": "Manual oficial do Adaptador NEO Start (PDF)",
-          "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
-        }
-      ]
-    },
-    {
       "heading": "Máquinas compatíveis com o Adaptador NEO Start",
       "paragraphs": [
-        "Nem todas as máquinas Dolce Gusto ORIGINAL são compatíveis com o adaptador: a marca lista especificamente quais modelos funcionam. Se você tem uma dessas máquinas, pode usar o adaptador sem problemas:"
+        "A marca lista oito modelos ORIGINAL compatíveis com o adaptador. Confira se o seu está abaixo e siga também a seleção de cápsulas e os cuidados do manual:"
       ],
       "bullets": [
         "Genio S",
@@ -151,12 +98,67 @@
       "links": [
         {
           "label": "Consulta de Cápsulas NEO Compatíveis (Loja Oficial Dolce Gusto)",
-          "href": "https://www.nescafe-dolcegusto.com.br/categoriaprodutos/capsulas/neo"
+          "href": "https://www.nescafe-dolcegusto.com.br/categoriaprodutos/capsulas/neo",
+          "sponsored": true
         }
       ],
       "image": "/images/reviews/dolcegusto/adaptador-neo-start-produto.webp",
       "imageAlt": "Adaptador NEO Start aberto com cápsula NEO de café preto",
       "imageFit": "contain"
+    },
+    {
+      "heading": "Cuidados de segurança do manual",
+      "paragraphs": [
+        "O manual do adaptador traz estes cuidados, que se somam às instruções de segurança da própria máquina:"
+      ],
+      "bullets": [
+        "O adaptador tem ímãs permanentes: não o deixe perto de marcapasso ou desfibrilador.",
+        "Mantenha os ímãs longe do que eles podem danificar, como cartões de crédito, aparelhos auditivos, relógios mecânicos, alto-falantes e TVs e monitores de tubo.",
+        "Não ponha os dedos dentro do adaptador: ele tem agulhas afiadas que perfuram a cápsula e podem machucar.",
+        "Não é brinquedo: guarde fora do alcance de crianças. Quem nunca usou deve ler o manual antes ou usar com a supervisão de alguém que conheça o produto.",
+        "Não force o encaixe numa máquina que não está na lista de compatíveis."
+      ],
+      "links": [
+        {
+          "label": "Manual oficial do Adaptador NEO Start (PDF)",
+          "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
+        }
+      ]
+    },
+    {
+      "heading": "Como funciona o Adaptador NEO Start",
+      "paragraphs": [
+        "O adaptador entra no lugar do porta-cápsulas da ORIGINAL e prepara os cafés pretos NEO selecionados, só com água quente. Depois de conferir os modelos, as cápsulas e os cuidados de segurança acima, siga as instruções de uso abaixo.",
+        "Como preparar a bebida por tipo de máquina: nas máquinas Flow Stop, selecione o volume em tracinhos normalmente. Nas máquinas manuais, mova a alavanca para a posição de água quente e retorne-a manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
+        "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force: auxilie o fechamento aplicando leve pressão com a palma da mão.",
+        "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
+      ],
+      "bullets": [
+        "Utilizar EXCLUSIVAMENTE a função de água quente da máquina.",
+        "Máquinas Flow Stop: Selecionar o volume em tracinhos normalmente.",
+        "Máquinas manuais: Mover a alavanca para água quente e retornar ao centro ao atingir o volume desejado.",
+        "Encaixe magnético: O acessório é atraído para a posição final; trave a tampa do adaptador antes de inserir e auxilie o fechamento com a palma da mão se necessário.",
+        "Retirar o adaptador segurando sempre pela pega dedicada, pois o corpo do acessório atinge altas temperaturas.",
+        "Depois de esfriar, tire a cápsula usada pelo anel ejetor e lave o adaptador: o manual diz que ele pode ir à lava-louças. Não deixe cápsula usada dentro dele."
+      ],
+      "links": [
+        {
+          "label": "Manual Oficial e Recomendações do Adaptador NEO Start",
+          "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp",
+          "alt": "Passo a passo oficial de uso do Adaptador NEO Start em uma máquina Dolce Gusto",
+          "objectFit": "contain"
+        },
+        {
+          "src": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
+          "alt": "Adaptador NEO Start aberto com uma cápsula NEO posicionada para o encaixe",
+          "objectFit": "contain"
+        }
+      ]
     },
     {
       "heading": "Quanto custa e onde comprar",
@@ -209,9 +211,10 @@
     }
   ],
   "cta": {
-    "text": "Conheça o Adaptador NEO Start na loja oficial e confira as condições do cupom CECI",
+    "text": "Adquira o Adaptador NEO Start na loja oficial Nestlé Dolce Gusto e utilize o cupom CECI para 10% OFF a partir de R$ 100.",
     "label": "Comprar Adaptador NEO Start",
-    "url": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start"
+    "url": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start",
+    "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
