@@ -74246,7 +74246,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Sim, a Probiótica é confiável: operada pela Supley, com CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Veja frete, prazos e o ponto de atenção.",
+    "description": "A loja oficial Probiótica é operada pela Supley. Confira domínio, CNPJ, trocas e frete, além da reputação Boa no Reclame Aqui.",
     "metaDescription": "Com o PRO10EMCASACOMCECILIA, até 10% OFF na Probiótica: quem opera a loja, o CNPJ, o site oficial, as trocas e o frete.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -74259,7 +74259,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "CNPJ ativo nos dados da Receita Federal em 14/10/2026, o mesmo do rodapé do site",
       "Loja operada pela Supley, do mesmo grupo da Max Titanium e da Dr. Peanut",
-      "7 dias corridos para desistir da compra e 30 dias corridos para comunicar defeito, com coleta e reenvio por conta da Probiótica",
+      "Política publicada: 7 dias corridos para arrependimento e 30 dias corridos para comunicar defeito, com coleta e reenvio por conta da Probiótica",
       "Reputação Boa no Reclame Aqui, com 99% das reclamações dos últimos seis meses respondidas",
       "Parcelamento em até 6 vezes sem juros e até 5% de desconto no Pix e no boleto, em 14/10/2026"
     ],
@@ -74267,7 +74267,7 @@ export const reviewsData: unknown[] = [
       "O frete grátis depende da região: de R$ 104 na capital paulista a R$ 599 no Norte",
       "O frete grátis não vale para entrega por Sedex",
       "Atraso na entrega é o problema mais citado no Reclame Aqui",
-      "79,3% das reclamações dos últimos 6 meses foram resolvidas",
+      "Índice de solução de 79,3% entre reclamações finalizadas e avaliadas nos últimos 6 meses",
       "A ligação com a Supley não aparece no Quem Somos da Probiótica"
     ],
     "cta": {
@@ -74291,7 +74291,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Probiótica é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Ela não é a Max Titanium, e sim uma marca irmã do mesmo grupo. O que pesa é o frete grátis, que varia por região, e o atraso na entrega; veja os capítulos abaixo. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
+          "A loja oficial Probiótica é operada pela Supley, grupo que também reúne a Max Titanium. Identificação e política de trocas estão no site, e a reputação no Reclame Aqui é Boa. Os pontos de atenção são o frete por região e o atraso na entrega; o cupom PRO10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -74367,7 +74367,7 @@ export const reviewsData: unknown[] = [
               "Reembolso integral, com o frete pago na compra"
             ],
             [
-              "Defeito",
+              "Defeito (prazo da política)",
               "30 dias corridos para comunicar",
               "Comunicar o defeito; a loja analisa o caso",
               "Coleta e reenvio por conta da Probiótica"
@@ -74376,7 +74376,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na troca por defeito, depois da análise, você escolhe entre a troca do produto, o dinheiro de volta ou um cupom. O pedido de arrependimento vai para o e-mail do SAC, sac@supley.com.br, o mesmo do rodapé. Quando o pagamento foi no cartão, o estorno vem numa vez só, na fatura seguinte ou na outra.",
-          "Para não perder o prazo, guarde a nota fiscal e abra o pedido assim que perceber o problema: os 7 dias correm do recebimento, e não da data da compra."
+          "Guarde a nota fiscal e comunique o problema assim que perceber. No arrependimento online, os 7 dias contam do recebimento. A loja pede embalagem original e lacre intacto."
         ]
       },
       {
@@ -74426,7 +74426,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação da Probiótica no Reclame Aqui?",
         "paragraphs": [
-          "A página da Probiótica Laboratórios no Reclame Aqui mostrava reputação **Boa**, com nota 7,2 nos últimos seis meses (de abril a setembro), 99% das reclamações respondidas e 79,3% resolvidas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no artigo abaixo."
+          "A página da Probiótica Laboratórios no Reclame Aqui mostrava reputação **Boa**, com nota 7,2 nos últimos seis meses (de abril a setembro), 99% das reclamações respondidas e índice de solução de 79,3% entre as finalizadas e avaliadas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no artigo abaixo."
         ],
         "links": [
           {
@@ -74460,19 +74460,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Probiótica?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim. A loja é operada pela Supley, com CNPJ ativo, razão social e endereço no rodapé, política de trocas publicada (7 dias de arrependimento e 30 para defeito) e reputação Boa no Reclame Aqui, com 99% das reclamações respondidas nos últimos seis meses.",
-          "Há dois pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. E 79,3% das reclamações dos últimos 6 meses foram resolvidas; atraso na entrega é o problema mais citado no Reclame Aqui, então acompanhe o rastreio do pedido."
+          "A operação pela Supley, a identificação no rodapé e a política publicada permitem conferir quem vende e quais canais usar. A reputação Boa do Reclame Aqui reflete reclamações já registradas e não garante o resultado de um novo pedido.",
+          "Há dois pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. E o índice de solução é de 79,3% entre as reclamações finalizadas e avaliadas; atraso na entrega é o problema mais citado no Reclame Aqui, então acompanhe o rastreio do pedido."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Probiótica é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo, trocas publicadas no site e reputação Boa no Reclame Aqui, com 99% das reclamações dos últimos seis meses respondidas.",
+          "A Probiótica é confiável? A loja oficial é operada pela Supley e publica identificação e política de trocas. A reputação no Reclame Aqui é Boa, com 99% das reclamações respondidas nos últimos seis meses. Confira os dados e as condições de entrega antes de comprar.",
           "A Probiótica é da Supley? Sim. A própria Supley lista a Probiótica entre as marcas do grupo, ao lado de Max Titanium, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
           "A Probiótica é da Max Titanium? Não. As duas são marcas irmãs do mesmo grupo, a Supley, mas a Probiótica não pertence à Max Titanium.",
           "O site da Probiótica é seguro? O endereço oficial é probiotica.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
           "Qual é o CNPJ da Probiótica? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos.",
-          "Quanto tempo tenho para trocar um produto da Probiótica? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto, e 30 dias corridos para comunicar defeito. No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "Quanto tempo tenho para trocar um produto da Probiótica? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto. Para defeito, a loja informa 30 dias corridos. No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
           "A Probiótica tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte. Não vale para Sedex.",
           "Tem cupom de primeira compra na Probiótica? Nosso cupom é o PRO10EMCASACOMCECILIA: dá até 10% OFF, com desconto menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho."
         ]
@@ -74496,7 +74496,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses. Veja qual perfil olhar, já que a loja é operada pela Supley, e o que fazer se o pedido falhar.",
-    "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. No Reclame Aqui, a reputação é Boa, com nota 7,2 em 6 meses e 79,3% das reclamações resolvidas.",
+    "metaDescription": "PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. No Reclame Aqui, nota 7,2 nos últimos 6 meses e 79,3% de solução entre as reclamações avaliadas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -74508,7 +74508,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses e 7,1 nos últimos 12",
       "99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12",
-      "79,3% das reclamações dos últimos 6 meses resolvidas, cerca de 4 em cada 5",
+      "79,3% de solução entre as 58 reclamações avaliadas nos últimos 6 meses",
       "Avaliações de compra de 4,7 em 5 no topo do perfil"
     ],
     "cons": [
@@ -74519,7 +74519,7 @@ export const reviewsData: unknown[] = [
       "Reclamações de pedidos feitos no site podem estar no perfil da Supley, e não no da Probiótica"
     ],
     "cta": {
-      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% OFF.",
+      "text": "Se você decidiu comprar na Probiótica, entre pelo link da parceria e use PRO10EMCASACOMCECILIA. O desconto é de até 10% e varia por produto; confira o valor aplicado antes de pagar.",
       "label": "Ir para a Probiótica com o cupom",
       "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
       "sponsored": true
@@ -74539,14 +74539,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses. A loja responde quase tudo, mas quase metade de quem avaliou não voltaria a comprar. A loja do site é operada pela Supley, que tem perfil próprio; veja abaixo qual perfil olhar e o que fazer se o pedido der problema. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
+          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses, e 55,2% de quem avaliou disseram que voltariam a comprar. A Supley opera a loja e tem perfil próprio; veja abaixo qual perfil olhar. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
         ]
       },
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Probiótica",
         "paragraphs": [
           "Quem compra pela primeira vez quer saber se o pedido chega no prazo e o que acontece se der problema.",
-          "Toda loja que vende pela internet recebe reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. Os números mudam todos os dias, então tratamos os números lidos como uma fotografia, e não como uma garantia. Vale abrir o perfil de novo no dia da sua compra.",
+          "O Reclame Aqui reúne reclamações e avaliações sobre o atendimento. Os índices mostram respostas, solução informada por quem avaliou e intenção de voltar a fazer negócio. A tabela é uma fotografia dos períodos indicados; abra os perfis de novo antes de decidir.",
           "Este artigo não avalia produto. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para ler nos dados públicos é como a empresa lida com as reclamações que recebe."
         ]
       },
@@ -74655,7 +74655,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Probiótica responde às reclamações",
         "paragraphs": [
-          "Responde quase todas: 99% estavam respondidas, com uma aguardando, e o tempo médio de resposta ficava em cerca de uma semana. Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 79,3% das reclamações (cerca de 4 em cada 5), e quase metade de quem avaliou não voltaria a fazer negócio.",
+          "Nos últimos 6 meses, 99% das reclamações estavam respondidas, com uma aguardando, e a resposta levava em média 7 dias. Entre as 58 reclamações avaliadas, 79,3% foram consideradas resolvidas e 55,2% marcaram que voltariam a fazer negócio. Resposta e solução são indicadores diferentes.",
           "Só 58 das 105 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor falam de uma parte delas. Esses números mostram como a Probiótica foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
         ],
         "image": {
@@ -74692,8 +74692,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Probiótica?",
         "paragraphs": [
-          "A nota era 7,2 e a reputação Boa nos últimos 6 meses, com 99% das reclamações respondidas e 79,3% resolvidas. O ponto fraco é o \"voltariam\": só 55,2% de quem avaliou disse que voltaria a fazer negócio.",
-          "Quem compra pode confiar no atendimento básico, mas deve acompanhar o rastreio, guardar o número do pedido e olhar também o perfil da Supley, que opera a loja. Sobre quem está por trás da marca e as trocas, veja [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel)."
+          "Nos últimos 6 meses, a reputação foi Boa, nota 7,2, com 99% das reclamações respondidas. Entre as 58 avaliadas, 79,3% registraram solução e 55,2% disseram que voltariam a fazer negócio.",
+          "Antes de decidir, confira o perfil da Probiótica Laboratórios e também o da Supley, que opera a loja. Os índices resumem quem usou o Reclame Aqui; não antecipam o resultado de um pedido. Para conhecer a empresa e os procedimentos de atendimento, veja [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel)."
         ]
       },
       {
@@ -74767,7 +74767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Probiótica](/cupons/probiotica) é o PRO10EMCASACOMCECILIA e dá até 10% OFF na loja, e em alguns produtos o desconto é menor. Vale em todo o site, em todas as formas de pagamento, para conta nova e para quem já comprou. O que pesa na conta é o frete grátis, cujo mínimo muda por região; veja a tabela abaixo."
+          "Digite PRO10EMCASACOMCECILIA no campo “Cupom de Desconto” do carrinho e clique em “Adicionar”. O [cupom Probiótica](/cupons/probiotica) dá até 10% OFF, com percentual menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Confira no resumo se o total ainda atinge o mínimo de frete grátis do seu CEP."
         ]
       },
       {
@@ -74821,8 +74821,8 @@ export const reviewsData: unknown[] = [
         "heading": "4. Confira a linha \"Descontos\" antes de pagar",
         "paragraphs": [
           "Depois do clique, o resumo do pedido muda. O código aparece no lugar do campo, com um X ao lado, e surge uma linha nova, \"Descontos\", entre o subtotal e o total, com o valor abatido em reais e com sinal de menos.",
-          "No nosso teste, o desconto foi de R$ 54,75 sobre o subtotal de R$ 659,35. É cerca de 8% do carrinho, abaixo dos 10% do título, porque o cupom não dá 10% em todos os produtos. O carrinho do teste tinha um kit e uma creatina em promoção, e o print mostra só o desconto total, sem separar quanto saiu de cada item. Então não dá para dizer que um produto específico recebe, ou não, os 10%.",
-          "Por isso, a regra prática é: **confira a linha \"Descontos\" e o total antes de pagar**. Se o valor for menor do que você esperava, é porque o desconto daquele carrinho é menor do que 10%."
+          "No teste, a linha \"Descontos\" mostrou R$ 54,75 sobre um subtotal de R$ 659,35, cerca de 8% do carrinho. O cupom oferece até 10%, com variação por produto. Por isso, não dá para afirmar que um produto específico recebe os 10%.",
+          "Confira a linha \"Descontos\" e o total antes de pagar. Compare o valor abatido com o subtotal para conhecer o percentual efetivo do seu carrinho."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Resumo do pedido da Probiótica depois do cupom, com o código no lugar do campo e a linha Descontos com sinal de menos entre o subtotal e o total",
@@ -74908,7 +74908,7 @@ export const reviewsData: unknown[] = [
           "Troca na Probiótica: 7 dias para arrepender, 30 para defeito:"
         ],
         "bullets": [
-          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "**Arrependimento:** 7 dias corridos a partir do recebimento. A política da loja pede embalagem original e lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
           "**Defeito:** 30 dias corridos para comunicar. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica."
         ],
         "postParagraphs": [
@@ -80332,14 +80332,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Probiótica 2026",
         "paragraphs": [
-          "O Novembro PRO da Probiótica já começou, por tempo limitado, com Pix e boleto de até 5% OFF; a loja não publicou data de fim nem percentual geral, e as ofertas podem sair do ar quando o estoque acaba. O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional."
+          "O Novembro PRO está no ar, por tempo limitado, com Pix e boleto de até 5% OFF; a loja não publicou data de fim nem percentual geral, e as ofertas podem sair do ar quando o estoque acaba. O PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional, conforme o produto."
         ]
       },
       {
         "heading": "Quando é e o que está no ar no Novembro PRO",
         "paragraphs": [
           "A campanha de novembro da Probiótica é o Novembro PRO, e ele já começou: a home diz \"Já começou o Novembro PRO, por tempo limitado\", com Pix e boleto de até 5% OFF. A loja não publicou data de fim nem um percentual geral de desconto: o preço de campanha aparece produto a produto, com o preço riscado ao lado.",
-          "A Black Friday do calendário cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30. Os termos de uso dizem que as ofertas \"podem ser lançadas a qualquer momento, sem aviso prévio\", e uma oferta que você viu pode sair do site quando o estoque acaba: se o preço do dia já está abaixo da tabela de outubro, não espere a sexta."
+          "Em 2026, a Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Os termos da loja permitem lançar ofertas sem aviso prévio, e o estoque pode mudar. A tabela de outubro ajuda a comparar, mas não prevê os preços dessas datas nem decide, sozinha, se vale comprar agora."
         ],
         "image": {
           "src": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
@@ -80352,7 +80352,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "A régua é o catálogo público do site em outubro, antes do cupom, do Pix e do Novembro PRO. O preço da loja muda, então use a tabela como régua: se o preço do dia ficar abaixo dela, o produto está mais barato que em outubro."
+          "A tabela registra preços do catálogo público de 14/10/2026, antes de cupom, Pix e Novembro PRO. Compare o mesmo produto, sabor, embalagem e quantidade. Depois, confira o total com os descontos e o frete: um preço abaixo da tabela é menor que o registrado em outubro, sem garantir a melhor oferta futura."
         ],
         "comparisonTable": {
           "caption": "Preços da Probiótica em 14 de outubro de 2026: preço do dia e preço riscado, antes do cupom e do Pix.",
@@ -80456,7 +80456,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits e trocas: o que a loja diz nos termos",
         "paragraphs": [
-          "Kit não recebe promoção. Os termos da loja dizem que as promoções não valem para kits, porque eles já têm desconto. Se um kit estiver com preço de campanha, a regra não impede que ele esteja barato, mas ele não ganha uma segunda promoção por cima. Antes de comprar, compare o preço do kit com o das peças avulsas, que podem estar na promoção do dia.",
+          "Os termos da loja dizem que promoções não valem para kits, porque eles já têm desconto. Isso não diz qual benefício entra em cada kit do Novembro PRO. Compare o preço do kit com os mesmos itens avulsos e confira no carrinho os descontos que aparecem.",
           "Os prazos de troca e devolução:"
         ],
         "bullets": [
@@ -80471,7 +80471,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já começou, por tempo limitado, sem data de fim publicada; a Black Friday do calendário é a última sexta-feira de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba.",
+          "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já está no ar, por tempo limitado, sem data de fim publicada. A Black Friday do calendário é a última sexta de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba; confirme as disponíveis no dia da compra.",
           "O cupom PRO10EMCASACOMCECILIA vale no Novembro PRO? Ele vale no site oficial, em todas as formas de pagamento, dá até 10% OFF, com percentual menor em alguns produtos, e soma com o preço promocional. Num produto com preço do Novembro PRO ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
           "O cupom soma com produto em promoção? Soma com o preço promocional: no nosso teste, a creatina estava em promoção e o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
           "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto, e o checkout mostra o valor final.",
@@ -80501,7 +80501,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "probiotica-reclame-aqui-nota-reputacao"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "bodyDatesReason": "campanha",
@@ -90766,7 +90767,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Probiótica ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g e o cupom PRO10EMCASACOMCECILIA no teto.",
+    "description": "Probiótica ou Growth? Compare whey por 100 g de proteína e creatina por 100 g, com preços de referência e o cenário máximo do PRO10EMCASACOMCECILIA.",
     "metaDescription": "Probiótica ou Growth, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina e o frete.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
@@ -90781,7 +90782,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço de tabela, a Growth sai mais barata que a Probiótica no whey, e a Probiótica de 300 g sai mais barata que a Growth na creatina. O cupom PRO10EMCASACOMCECILIA reforça a Probiótica na creatina e não inverte o whey. Ela entra também pela linha Zero Lactose e pelos sabores. Preço muda: confira as duas lojas antes de comprar."
+          "No cartão, a Growth tem o menor custo por 100 g de proteína no whey, e a Probiótica de 300 g fica na frente na creatina. No Pix, o refil de 500 g da Growth sai mais barato por grama de creatina. O cupom PRO10EMCASACOMCECILIA não inverte o whey, e a Probiótica entra pela linha Zero Lactose."
         ]
       },
       {
@@ -90793,8 +90794,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
-          "alt": "Quadro com o preço no Pix por 100 g em 18/10/2026: whey, Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e Probiótica 100% Pure Whey R$ 40,82; creatina, Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
+          "alt": "Quadro de preços no Pix por 100 g de proteína no whey: Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e 100% Pure Whey R$ 40,82; por 100 g de creatina: Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
+          "caption": "Comparação por 100 g de proteína no whey e por 100 g de creatina, com preços no Pix das lojas oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -90811,7 +90812,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 18/10/2026 no cartão, sem o cupom."
+          "A tabela compara preços no cartão, antes do cupom, pela quantidade de proteína declarada em cada porção."
         ],
         "comparisonTable": {
           "headers": [
@@ -90850,7 +90851,8 @@ export const reviewsData: unknown[] = [
               "R$ 222,11",
               "R$ 29,26"
             ]
-          ]
+          ],
+          "caption": "Preços dos sites oficiais em 18/10/2026, no cartão, sem frete e sem cupom. Probiótica: tabela do sabor Baunilha; Growth: 23 g por porção conforme a página, cerca de 33 porções."
         },
         "postParagraphs": [
           "No Pix, a conta por 100 g de proteína fica em R$ 40,82 no pote, R$ 38,10 no refil e R$ 35,56 no Zero Lactose da Probiótica, e em R$ 26,34 na Growth. Com o cupom no teto, sobre o Pix, os três potes da Probiótica ficam entre R$ 32,01 e R$ 36,74.",
@@ -90869,9 +90871,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: a proteína de cada pote",
         "paragraphs": [
-          "A proteína da Probiótica muda conforme a página e o sabor. A página do pote dá uma faixa de 20 a 24 g por porção e traz dois banners com números diferentes (\"até 24 g\" e \"até 21 g\"). A conta usa a tabela nutricional do sabor Baunilha: 20 g em 30 g, com 124 kcal e 6,3 g de carboidrato. Se você vai levar outro sabor, refaça a conta pela tabela dele, porque a proteína por dose muda.",
-          "O refil de 900 g tem a mesma tabela de 20 g em 30 g, mas a página dele e a frente da embalagem falam em 21 g. A conta usa a tabela. O Zero Lactose de 900 g, também Baunilha, tem 22 g de proteína em 30 g, com 124 kcal e 4 g de carboidrato na tabela.",
-          "A Growth declara 23 g em 30 g nos sabores e 24 g no Natural, com cerca de 33 porções no pote de 1 kg. Ela não tem uma tabela por sabor nesta conta: o número usado é o de 23 g."
+          "No 100% Pure Whey Baunilha da Probiótica, a conta usa a tabela: 20 g de proteína em 30 g, com 124 kcal e 6,3 g de carboidratos. A página anuncia faixas diferentes conforme o sabor; para outra versão, compare a tabela correspondente.",
+          "O refil também traz tabela com 20 g em 30 g, mas a página e a frente da embalagem dizem 21 g. No Zero Lactose Baunilha, a tabela declara 22 g em 30 g, com 124 kcal e 4 g de carboidratos.",
+          "A página da Growth declara 23 g em 30 g para os sabores e 24 g no Natural; a conta usa os 23 g e cerca de 33 porções."
         ],
         "images": [
           {
@@ -90982,27 +90984,27 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. No teste do cupom de 13/10, um carrinho de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, recebeu R$ 54,75 de desconto (8,3%). Nem todo item recebeu os 10%: a creatina em promoção ficou de fora desse percentual. A regra da loja diz que o cupom vale com todas as formas de pagamento e soma com as promoções vigentes. Por isso, a conta com cupom nas tabelas é o teto, 10% sobre o preço à vista: confira no carrinho se o cupom soma com o Pix, porque o desconto real pode ser menor. O código e o passo a passo estão na página do [cupom Probiótica](/cupons/probiotica).",
+          "O cupom PRO10EMCASACOMCECILIA dá até 10%, com percentual variável por produto. Em um teste com carrinho misto de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto foi de R$ 54,75, cerca de 8,3% do total. Vale em todas as formas de pagamento e soma com as promoções vigentes, mas as contas com cupom nas tabelas são o teto de 10%: confira o valor no carrinho. Regras e instruções estão na página do [cupom Probiótica](/cupons/probiotica).",
           "A página da Probiótica mostra também o parcelamento em 6x sem juros, e o preço do cartão nas tabelas é o dessa condição. O valor parcelado depende do produto. Preço e estoque mudam: confira no carrinho."
         ]
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos preços de tabela desta cotação, a escolha é a Growth no whey e a Probiótica de 300 g na creatina, porque cada uma ganha sem cupom. Compare as duas lojas antes de decidir.",
+        "emphasis": "Pelo preço no cartão, a escolha é a Growth no whey e a Probiótica de 300 g na creatina. No Pix, o refil de 500 g da Growth ganha na creatina. Compare as duas lojas antes de decidir.",
         "bullets": [
           "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 26,34 no Pix.",
-          "**Quer a linha Zero Lactose:** a Probiótica é a única das duas com essa linha nesta conta. Leia o alergênico de leite no rótulo antes de comprar.",
-          "**Quer o menor preço por grama de creatina:** Probiótica Creatina de 300 g, com R$ 19,97 por 100 g no preço de tabela.",
+          "**Quer a linha Zero Lactose:** a Probiótica é a única das opções desta comparação com essa linha. Zero lactose não exclui o alergênico de leite: confira o rótulo.",
+          "**Quer o menor preço por grama de creatina no cartão:** Probiótica Creatina de 300 g, com R$ 19,97 por 100 g. No Pix, o refil de 500 g da Growth sai mais barato.",
           "**Quer um pote pequeno de creatina:** a Probiótica de 300 g sai abaixo da Growth de 250 g, já sem cupom (R$ 19,97 contra R$ 25,32 por 100 g, no preço de tabela).",
-          "**Quer Creapure:** a Probiótica declara o selo no produto de 150 g, por R$ 64,59 por 100 g no Pix."
+          "**Quer Creapure:** a Probiótica declara o selo no produto de 150 g, por R$ 64,59 por 100 g no Pix. A página da Growth não declara o selo."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Probiótica ou Growth: qual é melhor? Pelo preço de tabela, a Growth vence no whey por 100 g de proteína e a Probiótica vence na creatina por 100 g, com o pote de 300 g abaixo dos três tamanhos da Growth. A escolha pesa também a linha Zero Lactose e os sabores.",
-          "O cupom da Probiótica vale na creatina? A loja aceita o cupom nos produtos do site, com o percentual de cada item. No teste do cupom, a creatina em promoção não recebeu os 10%.",
-          "A Growth tem cupom nosso? Não. A Growth não é parceira do site, e não há cupom nosso para ela; se a Growth tem promoção própria, a informação está no site dela. Os links e o passo a passo do cupom da Probiótica estão no [artigo sobre como usar o cupom](/reviews/cupom-probiotica-como-usar).",
+          "Probiótica ou Growth: qual é melhor? No cartão, a Growth vence no whey por 100 g de proteína e a Probiótica de 300 g vence na creatina. No Pix, o refil de 500 g da Growth passa à frente na creatina. A escolha pesa também a linha Zero Lactose e os sabores.",
+          "O cupom da Probiótica vale na creatina? Vale nos produtos do site, com desconto de até 10% e percentual que varia por item. Confira a linha de descontos no seu carrinho.",
+          "A Growth tem cupom? Não temos cupom nem parceria com a Growth; as promoções dela ficam no site da marca. As instruções do PRO10EMCASACOMCECILIA estão no [guia do cupom da Probiótica](/reviews/cupom-probiotica-como-usar).",
           "A Probiótica é confiável? Quem é a marca, o site oficial e as trocas estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel), e a comparação com a Max Titanium, em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
         ]
       }
@@ -103528,7 +103530,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica sai mais barata que a Dux no whey, na creatina e na Creapure pelos preços publicados, e tem o cupom PRO10EMCASACOMCECILIA. A Dux ganha no desconto do Pix e em ingredientes mais enxutos. O que muda a escolha é o que pesa mais para você; veja Onde cada uma ganha e Quem escolhe o quê."
+          "A Probiótica sai mais barata que a Dux por 100 g de proteína no whey e por 100 g de creatina, incluindo a Creapure, pelos preços publicados. A Probiótica tem o cupom PRO10EMCASACOMCECILIA; a Dux dá 5% no Pix e lista ingredientes mais enxutas em algumas versões. Veja Onde cada uma ganha e Quem escolhe o quê."
         ]
       },
       {
@@ -103740,12 +103742,12 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela, para o menor preço por grama no whey, na creatina e na Creapure a escolha é a Probiótica, porque ela sai mais barata nas três; para a lista de ingredientes mais enxuta, a escolha é a Dux.",
+        "emphasis": "Pelos números da tabela, para o menor preço por grama no whey, na creatina e na Creapure a escolha é a Probiótica; para a lista de ingredientes mais enxuta nas versões indicadas, a escolha é a Dux.",
         "emphasisAfterParagraph": 1,
         "bullets": [
           "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
           "Prefere o pote rígido de 900 g: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
-          "Quer whey concentrado da Dux, incluindo o Neutro sem sabor: o pote de 900 g da Dux, a R$ 58,41 por 100 g de proteína no Pix. Fica acima da Probiótica nessa conta.",
+          "Quer whey concentrado da Dux: o pote de 900 g Baunilha sai a R$ 58,41 por 100 g de proteína no Pix. Fica acima da Probiótica nessa conta.",
           "Quer a creatina mais barata por grama: [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p), a R$ 18,97 no Pix, ou R$ 17,07 com o cupom no teto.",
           "Quer a creatina com a lista de um ingrediente só: a monohidratada de 300 g da Dux, a R$ 20,55 por 100 g no Pix, sem antiumectante.",
           "Quer Creapure: [Creatina Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p), a R$ 64,59 por 100 g no Pix. Se a declaração de Creapure da Dux pesa mais, o pote de 300 g da Dux sai a R$ 87,05 por 100 g no Pix."
@@ -103758,12 +103760,12 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Probiótica ou Dux: qual é melhor? Depende da linha. No whey de 900 g, a Probiótica sai mais barata por 100 g de proteína. Na creatina de 300 g, também. A Dux tem a creatina com a lista mais curta. As duas vendem uma linha Creapure, e a da Probiótica sai mais barata por grama.",
-          "Qual o melhor whey, Probiótica ou Dux? Pelo preço por 100 g de proteína, o refil de 900 g da Probiótica, a R$ 38,10 no Pix (R$ 40,82 no pote). O concentrado de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
+          "Qual o melhor whey, Probiótica ou Dux? Pelo preço por 100 g de proteína, o refil de 900 g da Probiótica, a R$ 38,10 no Pix (R$ 40,82 no pote). O concentrado Baunilha de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
           "Qual a melhor creatina, Probiótica ou Dux? Por grama, a monohidratada de 300 g da Probiótica, a R$ 18,97 no Pix. A da Dux sai a R$ 20,55 no Pix.",
           "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz que a proteína do concentrado é só do soro do leite, sem blend, e declara Creapure na linha de 300 g. A creatina monohidratada dela lista só creatina. O concentrado de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
           "A Dux tem cupom nosso? Não. A Dux não é parceira do site, e o PRO10EMCASACOMCECILIA vale só na Probiótica; se a Dux tem promoção própria, a informação está no site dela.",
           "O cupom soma com o Pix? A regra do cupom diz que ele vale com todas as formas de pagamento. O desconto muda por item, e o resumo do pedido mostra quanto cada um recebeu.",
-          "Os preços valem hoje? Eles são os da leitura da comparação e mudam com as promoções. Confira nos dois sites antes de comprar."
+          "Os preços valem hoje? Eles mudam com as promoções. Confira nos dois sites antes de comprar."
         ]
       }
     ],
@@ -143008,7 +143010,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey, o pouch de 1,8 kg da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA fica abaixo do pouch da Integralmédica se o cupom der os 10% cheios; sem o cupom, a Integralmédica vence."
+          "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey de 1,8 kg, o pouch da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica fica abaixo do pouch da Integralmédica só com o cupom no teto de 10%; sem ele, a Integralmédica vence."
         ]
       },
       {
@@ -143083,7 +143085,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o cupom PRO10EMCASACOMCECILIA, que dá até 10% e pode ser menor em alguns produtos, a Probiótica de 300 g sai por R$ 17,97 por 100 g no teto do desconto, e a de 100 g, por R$ 30,50. Mesmo assim, as duas ficam acima da Integralmédica de 300 g, a R$ 16,67, e do pouch de 1 kg, a R$ 12,50. O cupom é da Probiótica; este texto não traz cupom da Integralmédica.",
+          "No teto de 10% do PRO10EMCASACOMCECILIA, a Probiótica de 300 g ficaria em R$ 17,97 por 100 g, e a de 100 g, em R$ 30,50. Nos preços da tabela, as duas seguem acima das opções da Integralmédica indicadas. O código vale só na Probiótica.",
           "Por dose de 5 g, nas linhas com a tabela nutricional lida, a Probiótica de 300 g fica em R$ 1,00 no cartão (60 porções) e em R$ 0,90 com o cupom no teto; o pouch de 1 kg da Integralmédica fica em R$ 0,63."
         ]
       },
@@ -143148,7 +143150,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o PRO10EMCASACOMCECILIA no teto de 10%, o pote da Probiótica sai por R$ 37,87 por 100 g de proteína, e o refil e o kit, por R$ 35,35. No tamanho de 900 g, o refil com o cupom fica abaixo do pouch de 900 g da Integralmédica, a R$ 36,03. No tamanho de 1,8 kg, o pouch da Integralmédica segue o mais barato da tabela, a R$ 32,06, com ou sem o cupom da Probiótica. Este texto não traz cupom da Integralmédica.",
+          "Simulação no teto de 10%, sem frete: o pote da Probiótica ficaria em R$ 37,87 por 100 g de proteína, e o refil e o kit, em R$ 35,35. No par de 900 g, o refil fica abaixo do pouch da Integralmédica, de R$ 36,03. Em 1,8 kg, a Integralmédica segue abaixo, a R$ 32,06. O desconto pode ser menor conforme o item; confirme o valor no carrinho.",
           "Por porção de 30 g, no cartão, o pote da Probiótica fica em R$ 8,42 e o refil em R$ 7,86; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg). A Integralmédica também vende o pote de 900 g, a R$ 240,00; a tabela usa o pouch, que tem o rótulo lido."
         ]
       },
@@ -143183,7 +143185,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Pelos números da tabela, para o perfil menor preço por grama a escolha é a Integralmédica, porque sai mais barata nas duas contas, no whey de 1,8 kg e no pouch de creatina de 1 kg; no whey de 900 g com o cupom no teto, o refil da Probiótica passa à frente.",
+        "emphasis": "Compare primeiro a quantidade que você precisa. A Integralmédica tem o menor custo por peso nas opções maiores da tabela; no whey de 900 g, o refil da Probiótica pode compensar com o cupom no teto. Confira no carrinho o desconto que de fato aparece.",
         "paragraphs": [
           "**Creatina: a Integralmédica, pelo preço.** O pouch de 1 kg sai por R$ 12,50 por 100 g no cartão, e a de 300 g, por R$ 16,67. A Probiótica de 300 g fica em R$ 19,97 no cartão e em R$ 17,97 com o PRO10EMCASACOMCECILIA no teto: acima da Integralmédica nos dois tamanhos.",
           "**Whey: depende do tamanho e do cupom.**"
@@ -143194,7 +143196,7 @@ export const reviewsData: unknown[] = [
           "O pote de 900 g da Probiótica é o maior valor da tabela: R$ 42,08 por 100 g de proteína no cartão, ou R$ 37,87 com o cupom."
         ],
         "postParagraphs": [
-          "Quem compra pelo preço por grama vai de Integralmédica na creatina e no whey de 1,8 kg. Quem compra na Probiótica paga menos com o refil e o cupom nos 10% cheios, abaixo do pouch de 900 g da Integralmédica; se o desconto no produto for menor que 10%, a Integralmédica volta a ganhar. Preço e estoque mudam: confira nos dois sites antes de comprar."
+          "Quem compra pelo preço por grama vai de Integralmédica na creatina e no whey de 1,8 kg. Na Probiótica, o refil de 900 g com o cupom no teto fica abaixo do pouch de 900 g da Integralmédica; se o desconto no item for menor que 10%, a Integralmédica volta a ganhar. Confira preço, desconto aplicado e frete antes de comprar."
         ]
       },
       {
@@ -143221,8 +143223,8 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. A Integralmédica não é parceira.",
     "decision": {
       "takeIf": [
-        "Leve a Integralmédica se quer o menor preço por 100 g de creatina ou de proteína.",
-        "Leve o refil da Probiótica com o cupom se compra whey de 900 g."
+        "Você quer o menor custo por 100 g de creatina ou de proteína nos tamanhos da tabela.",
+        "Você compra whey de 900 g e confirma no carrinho que o cupom deixa o refil abaixo do pouch da Integralmédica."
       ],
       "skipIf": [
         "Passe o pote de 900 g da Probiótica se o preço por grama pesa mais: é o maior valor da tabela.",
@@ -143278,7 +143280,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote de 300 g é a creatina da Probiótica que mais compensa pela conta por grama e por dose. O de 100 g custa 70% a mais por grama; a Creapure, mais que o triplo. O que muda a escolha está em \"Qual creatina da Probiótica escolher\"."
+          "O pote de 300 g tem o menor custo por grama entre as versões comparadas. O de 100 g é a compra menor e custa mais por grama; a Creapure tem o selo de origem; a monodose entrega a porção em sachê. Compare formato e custo antes de escolher."
         ]
       },
       {
@@ -143457,7 +143459,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Quem tem objetivo de saúde, usa medicamento ou tem restrição alimentar fala com um nutricionista ou médico antes de escolher. Para comparar a creatina da Probiótica com a de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher) e o [guia da creatina Black Skull](/reviews/creatina-black-skull-qual-escolher), que usa a mesma conta por grama."
         ],
-        "emphasis": "Pelos números da tabela, para o menor preço por dose a escolha é o pote de 300 g, porque sai a R$ 1,00 por dose, contra R$ 1,69 do pote de 100 g."
+        "emphasis": "O pote de 300 g tem o menor custo por grama: cerca de R$ 1 por porção de 5 g, contra R$ 1,69 no de 100 g."
       },
       {
         "heading": "Perguntas frequentes",
@@ -143465,7 +143467,7 @@ export const reviewsData: unknown[] = [
           "Creatina Probiótica é boa? Pelo rótulo, os potes de 300 g e de 100 g, a Creapure e os sachês, todos com porção de 5 g, trazem creatina monohidratada com 5.000 mg por porção; a Pure Creatina Monster tem porção de 3 g, com 3.000 mg. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço. Quem fabrica e como a loja responde está em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
           "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela (3.000 mg em 3 g na Pure Creatina Monster). A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
           "Creatina Probiótica é Creapure? Só as versões com o selo no rótulo: a Creatina Creapure Monohidratada de 150 g e a Pure Creatina de 150 g da linha Monster, as duas a R$ 99,89. Os potes de 300 g e de 100 g e a monodose não trazem o selo.",
-          "Qual tamanho da creatina Probiótica compensa? O pote de 300 g: R$ 19,97 por 100 g, contra R$ 33,89 do pote de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure.",
+          "Qual tamanho custa menos por grama? O pote de 300 g, a R$ 19,97 por 100 g, contra R$ 33,89 do de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure. Confira os preços atuais antes de comprar.",
           "A creatina da Probiótica tem sabor? Não encontramos creatina com sabor no catálogo da Probiótica. As versões lidas são sem sabor; para potes com sabor de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
         ]
       }
@@ -143523,13 +143525,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote ganha: a Monodose, em sachês de 5 g, sai a mais do dobro do preço por dose da Creatina Pura de 300 g. O que muda a escolha está em \"Quando a monodose compensa\"."
+          "Pelo preço por dose, o pote de 300 g ganha: cada porção de 5 g sai por menos da metade do preço do sachê. A monodose só compensa se a dose já separada valer essa diferença de preço para você; o guia mostra quando."
         ]
       },
       {
         "heading": "Como a conta é feita",
         "paragraphs": [
-          "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. Por isso a comparação aqui é só de preço: por 100 g de produto e por dose, com os preços do dia no site da Probiótica, sem cupom.",
+          "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. A comparação usa os preços do site da Probiótica, sem cupom, por 100 g de produto e por porção do rótulo.",
           "A porção e o número de doses vêm da tabela nutricional na imagem de cada produto. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia."
         ],
         "images": [
@@ -143619,7 +143621,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto a monodose custa a mais",
         "paragraphs": [
           "As mesmas 30 doses do pote de 300 g custam R$ 29,95, metade do pote, contra R$ 69,89 da caixa de sachês. A diferença é de R$ 39,94 por caixa, ou R$ 1,33 por dose.",
-          "Dois potes de 100 g (40 doses) custam R$ 67,78, menos que a caixa de 30 sachês. Ou seja: pelo preço do dia, nenhum dos dois potes de creatina pura sai mais caro por grama que a monodose, nem o pequeno.",
+          "Dois potes de 100 g, com 40 porções ao todo, custam R$ 67,78, menos que a caixa de 30 sachês. Por grama, nenhum dos dois potes de creatina pura sai mais caro que a monodose, nem o pequeno.",
           "O que o sachê entrega a mais é a dose já separada. A loja descreve o produto como praticidade em doses individuais; o que dá para medir é o preço, e ele diz que a separação custa R$ 1,33 por dose."
         ],
         "images": [
@@ -143654,7 +143656,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Creatina monodose da Probiótica vale a pena? Pelo preço do dia, não pelo bolso: R$ 46,59 por 100 g e R$ 2,33 por dose, contra R$ 19,97 e R$ 1,00 no pote de 300 g. Vale só para quem quer a dose em sachê e aceita pagar R$ 1,33 a mais por dose.",
+          "Creatina monodose da Probiótica vale a pena? Pelo preço da tabela acima, o sachê sai a R$ 2,33 por porção de 5 g, contra cerca de R$ 1 no pote de 300 g. A diferença é de R$ 1,33 por porção; escolha o sachê se a conveniência justificar esse custo para você.",
           "A creatina monodose tem a mesma dose do pote? Pelo rótulo, sim: a tabela do sachê diz porção de 5 g com 5.000 mg de creatina, a mesma dos potes de 300 g e de 100 g.",
           "Quantos sachês vêm na creatina monodose da Probiótica? São 30 sachês de 5 g, 150 g no total, por R$ 69,89.",
           "Qual é o cupom da Probiótica para a creatina? O PRO10EMCASACOMCECILIA, de até 10%, com o percentual variando por produto. Soma com as promoções do site e vale em todas as formas de pagamento.",
@@ -175930,7 +175932,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Probiótica é boa? Sim, pelo rótulo: veja o que o whey, a creatina e o hipercalórico dizem no rótulo, quanto custam com o cupom PRO10EMCASACOMCECILIA e para quem a marca compensa.",
+    "description": "Os rótulos de whey e creatina da Probiótica declaram proteína por dose e composição. Veja como comparar as versões e use o cupom PRO10EMCASACOMCECILIA de até 10%.",
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Whey, creatina e glutamina pelo rótulo, com o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
@@ -175950,13 +175952,13 @@ export const reviewsData: unknown[] = [
     "cons": [
       "O aviso do Zero Lactose cita derivados de leite",
       "O cupom varia por produto e não chega a 10% em todos",
-      "O Iso Pro, o isolado, cobra mais por grama de proteína e contém lactose"
+      "O Iso Pro cobra mais por grama de proteína, e a página do produto declara lactose."
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelo rótulo. O 100% Pure Whey declara o tipo e a quantidade de proteína por dose, o Zero Lactose declara \"sem lactose\" e a creatina, 5 g por porção. O que muda a escolha é o tipo de whey e o tamanho do pote de creatina; os capítulos abaixo mostram qual serve para quem."
+          "O 100% Pure Whey declara o tipo de proteína e a proteína por dose; o Zero Lactose declara \"sem lactose\", e a creatina traz 5 g por porção. Para escolher, compare a composição, o aviso de alergênicos e o preço de cada versão."
         ]
       },
       {
@@ -175975,7 +175977,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O whey da Probiótica é bom? Resumo por pote",
         "paragraphs": [
-          "Pelo rótulo, é: cada pote declara o tipo de proteína e a proteína por dose, e o que muda entre eles é o tipo, a dose e o preço por grama de proteína. Com a promoção, o Hiper 100% Whey é o mais barato por grama; sem ela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente. O Iso Pro é o isolado, com a maior dose de proteína e o maior preço por grama.",
+          "Cada pote declara o tipo de proteína e a proteína por dose. O Hiper 100% Whey é o mais barato por grama enquanto a promoção durar; sem ela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente. O Iso Pro tem a maior dose de proteína e o maior preço por grama.",
           "A tabela com a proteína de cada pote, a conta por 100 g e o veredito por perfil estão em [whey Probiótica: qual escolher](/reviews/whey-probiotica-qual-escolher)."
         ]
       },
@@ -176020,7 +176022,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O pote de 300 g está em promoção da loja; sem ela, ainda seria o mais barato por grama. Serve para quem usa uma porção por dia por semanas. O de 100 g só vale para experimentar, e a Creapure e a monodose cobram o selo de origem e a embalagem individual: a composição por porção na tabela é a mesma do pote comum."
+          "O pote de 300 g está em promoção da loja; sem ela, ainda seria o mais barato por grama. Serve para quem usa uma porção por dia por semanas. O de 100 g só vale para experimentar. Creapure e monodose custam mais pelo selo de origem e pela embalagem individual; a composição por porção na tabela é a mesma do pote comum."
         ],
         "image": {
           "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pote-300g.webp",
@@ -176065,7 +176067,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Vale para quem escolhe whey e creatina pela tabela nutricional e pelo preço por grama. A Probiótica está no mercado desde 1986: é uma das marcas nacionais de suplementos mais antigas, e isso tem seu valor.",
+        "emphasis": "Vale para quem compara whey e creatina pela tabela nutricional, pelos avisos de alergênicos e pelo preço por grama. A Probiótica diz atuar desde 1986.",
         "bullets": [
           "Para pagar menos pela proteína, o Hiper 100% Whey enquanto estiver em promoção; fora dela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente.",
           "Para um whey que o rótulo declara sem lactose, o Zero Lactose, lembrando que o aviso de alergênicos cita derivados de leite.",
@@ -176077,10 +176079,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O whey da Probiótica é bom? Pelo rótulo, sim: cada pote declara o tipo de proteína e a proteína por dose. O que muda entre eles é o preço por grama e a lactose, no [guia do whey](/reviews/whey-probiotica-qual-escolher).",
+          "O whey da Probiótica é bom? O rótulo declara o tipo de proteína e a proteína por dose. O que muda entre as versões é o preço por grama e a lactose, no [guia do whey](/reviews/whey-probiotica-qual-escolher).",
           "O 100% Pure Whey é concentrado? É: a descrição da loja e o rótulo dizem proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
           "O zero lactose serve para quem tem intolerância? O rótulo declara \"lactose: não contém\", e o aviso de alergênicos cita derivados de leite. Quem tem intolerância decide com médico ou nutricionista.",
-          "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja.",
+          "O Iso Pro é zero lactose? Não: a página do produto declara lactose, e o aviso cita derivados de leite e soja. Confira o rótulo do sabor e da embalagem que você vai comprar.",
           "O Hiper 100% Whey é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
           "A creatina Probiótica é boa? Pelo rótulo, a creatina monohidratada traz 5.000 mg por porção de 5 g nos potes e nos sachês, e o pote de 300 g é o mais barato por grama; os números estão em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
           "O cupom da Probiótica dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. Vale para conta nova e antiga e soma com as promoções da loja.",
@@ -190319,7 +190321,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Com a promoção, o Hiper sai mais barato por grama de proteína; o Zero Lactose é o whey que o rótulo declara sem lactose, e o Iso Pro tem a maior dose de proteína.",
+    "description": "Nos preços da tabela, o Hiper lidera em custo por proteína com a promoção. Compare porção e lactose do Pure, Zero Lactose e Iso Pro e confira os valores antes de comprar.",
     "metaDescription": "Com o cupom PRO10EMCASACOMCECILIA, até 10% OFF na Probiótica. 100% Pure, Zero Lactose, Hiper e Iso Pro comparados por dose e preço por 100 g de proteína.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
@@ -190331,25 +190333,25 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Leve o Hiper se a promoção estiver no site e a dose de 40 g couber na sua rotina: é o menor preço por grama de proteína hoje.",
+        "Considere o Hiper se o preço atual mantiver a vantagem por proteína da tabela e a porção de 40 g atender ao que você procura.",
         "Leve o Zero Lactose se você procura um whey com a lactose declarada como ausente no rótulo, lembrando que o aviso cita derivados de leite.",
-        "Leve o Iso Pro se você quer a maior proteína por dose e aceita o maior preço por grama."
+        "Considere o Iso Pro se você procura mais proteína por porção entre os cinco itens comparados e aceita seu custo, o maior por grama nos preços da tabela."
       ],
       "skipIf": [
-        "Passe no Hiper se a conta é o preço de lista: sem a promoção, ele fica atrás do Zero Lactose e do refil.",
-        "Passe no Iso Pro se você compara só o preço por grama, porque ele é o mais caro da linha."
+        "Passe no Hiper se ele estiver no preço de lista: nesse caso, o Zero Lactose e o refil custam menos por proteína.",
+        "Passe no Iso Pro se sua prioridade for o menor custo por proteína e os preços seguirem os da tabela: ele custa mais por grama entre os cinco itens."
       ]
     },
     "pros": [
       "Tabela nutricional de cada pote na página da loja, com a dose e a proteína por porção",
-      "Três potes abaixo de R$ 40 por 100 g de proteína no preço de venda de hoje",
+      "Três opções ficaram abaixo de R$ 40 por 100 g de proteína nos preços de venda da tabela",
       "Zero Lactose com a lactose declarada como ausente no rótulo",
       "Cupom de até 10% que soma com as promoções do site"
     ],
     "cons": [
       "O aviso do Zero Lactose cita derivados de leite",
-      "O Hiper só lidera com a promoção: sem ela, perde a vantagem",
-      "O Iso Pro é o mais caro por grama de proteína da linha"
+      "Na tabela, o Hiper perde a liderança de custo por proteína quando se usa seu preço de lista",
+      "O Iso Pro tem o maior custo por proteína entre as cinco opções comparadas"
     ],
     "cta": {
       "text": "Entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% de desconto no site da Probiótica. Confira o desconto de cada item antes de pagar.",
@@ -190375,27 +190377,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Probiótica comprar",
         "paragraphs": [
-          "Para pagar menos por grama de proteína, o Hiper, enquanto a promoção durar; para o whey que o rótulo declara sem lactose, o Zero Lactose; para mais proteína por dose, o Iso Pro. A promoção do Hiper pode acabar, e a tabela de preço mostra a conta também com o preço de lista."
+          "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. Zero Lactose declara ausência de lactose; Iso Pro tem mais proteína por porção entre os cinco itens comparados. Confira os preços antes de comprar: a tabela mostra como o preço de lista do Hiper muda a escolha."
         ]
       },
       {
-        "heading": "Cinco potes, dois tipos de proteína",
+        "heading": "Cinco opções, dois tipos de proteína",
         "paragraphs": [
-          "Quatro dos cinco potes são concentrados do soro do leite (WPC): o 100% Pure Whey pote, o refil, o Zero Lactose e o Hiper. O Iso Pro é isolado (WPI). O tipo muda o que vai no copo; o que decide a compra é o preço por grama de proteína e a lactose declarada.",
+          "São cinco opções de compra: pote e refil do 100% Pure Whey, Zero Lactose, Hiper e Iso Pro. As quatro primeiras usam concentrado do soro do leite (WPC); o Iso Pro usa isolado (WPI). Compare a porção, a lactose declarada e o custo por proteína da tabela.",
           "Para a marca inteira, o guia é [Probiótica é boa?](/reviews/probiotica-e-boa)."
         ]
       },
       {
         "heading": "Proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Conta nossa: a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Quanto menor o último número, mais barata a proteína."
+          "Conta nossa: proteína estimada na embalagem = peso ÷ porção × proteína declarada por porção. O preço por 100 g de proteína = preço ÷ proteína estimada na embalagem × 100. Quanto menor o resultado, menor o custo por proteína declarada."
         ],
         "comparisonTable": {
-          "caption": "Preço de venda em 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando é outro. Proteína por dose da tabela nutricional de cada pote.",
+          "caption": "Preços de venda em 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porção e proteína declarada vêm das tabelas nutricionais: a conta usa 20 g para Pure pote e refil e 21 g para Zero Lactose, por porção de 30 g. O total de proteína por embalagem é estimado.",
           "headers": [
             "Produto",
-            "Dose: proteína por dose",
-            "Proteína no pote",
+            "Porção: proteína declarada",
+            "Proteína estimada na embalagem",
             "Preço de venda",
             "R$ por 100 g de proteína"
           ],
@@ -190438,15 +190440,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A promoção é o que põe o Hiper na frente; sem ela, ele sai atrás do Zero Lactose e do refil. Os preços mudam: confira o valor no botão de compra de cada produto.",
-          "O Iso Pro é o mais caro por grama da linha, e não aparece com promoção no site hoje."
+          "A promoção do Hiper pode acabar sem uma data anunciada. Confira os preços antes de comprar e refaça a comparação por 100 g de proteína se os valores mudarem.",
+          "O Iso Pro não aparecia com promoção nos preços da tabela."
         ]
       },
       {
         "heading": "100% Pure Whey: pote ou refil",
         "paragraphs": [
-          "Quem já tem o pote em casa leva o refil: é o mesmo concentrado, com a mesma dose, por R$ 16,84 a menos no pacote inteiro.",
-          "A embalagem da foto declara um grama de proteína a mais por dose que a tabela nutricional: confira a embalagem que chegar.",
+          "Pote e refil do Pure têm a mesma proteína declarada por porção na tabela. O refil custa R$ 16,84 menos por embalagem de 900 g; compare o mesmo sabor e o preço atual antes de escolher.",
+          "A embalagem fotografada declara 21 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 20 g: confirme com a loja o rótulo da versão e do sabor antes de comprar e confira a embalagem que chegar.",
           "Serve para quem quer um concentrado comum e aceita a lactose que o rótulo declara."
         ],
         "image": {
@@ -190463,8 +190465,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O que decide o Zero Lactose é a declaração de lactose. A loja informa: \"lactose: não contém\" na página do produto.",
           "O aviso de alergênicos, porém, cita derivados de leite. Sem lactose não é sem leite, e quem tem intolerância à lactose decide com médico ou nutricionista.",
-          "A tabela nutricional traz 21 g de proteína por dose e a embalagem da foto, 22 g: confira a embalagem que chegar.",
-          "Serve para quem quer um whey com lactose declarada como ausente e aceita o preço de um concentrado. Para a dose com mais proteína, o Iso Pro."
+          "A embalagem fotografada declara 22 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 21 g: confirme com a loja o rótulo da versão e do sabor antes de comprar e confira a embalagem que chegar.",
+          "Serve para quem procura um whey com ausência de lactose declarada. Entre os cinco itens da tabela, o Iso Pro tem mais proteína por porção, mas declara lactose."
         ],
         "image": {
           "src": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
@@ -190478,16 +190480,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hiper 100% Whey: a dose de 40 g e a promoção",
         "paragraphs": [
-          "O que decide o Hiper é a promoção, sobre uma dose de 40 g, a maior da lista. O rótulo diz que ele contém lactose, e a baunilha está esgotada no site hoje: chocolate, cookies & cream e morango têm estoque.",
-          "Serve para quem aceita a dose de 40 g e encontra a promoção no site. Não serve a quem quer whey sem lactose, nem a quem compara sem a promoção."
+          "A porção do Hiper é a maior da tabela, e o rótulo declara lactose. Havia baunilha esgotada; chocolate, cookies & cream e morango tinham estoque. Confira o sabor disponível antes de comprar.",
+          "O Hiper pode ser a escolha pelo custo se a oferta atual mantiver a vantagem por proteína da tabela. Com o preço de lista registrado, ele perde essa vantagem para o Zero Lactose e o refil."
         ]
       },
       {
-        "heading": "Iso Pro: o isolado com a maior dose de proteína",
+        "heading": "Iso Pro: proteína por porção entre as opções comparadas",
         "paragraphs": [
-          "O que decide o Iso Pro é a dose: é o whey da linha com mais proteína por porção, e o isolado (WPI) que o rótulo descreve.",
+          "O Iso Pro usa proteína isolada do soro do leite (WPI). Entre os cinco itens da tabela, tem mais proteína declarada por porção, mesmo com uma porção menor que a do Hiper.",
           "A página diz que contém lactose, e o aviso cita derivados de leite e soja. Não é a opção para quem evita lactose.",
-          "Serve para quem quer a dose mais concentrada e aceita pagar mais por grama de proteína."
+          "Serve para quem procura mais proteína em uma porção de 30 g e aceita o custo por grama, o maior entre os cinco itens nos preços comparados."
         ]
       },
       {
@@ -190499,24 +190501,24 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual whey escolher",
-        "emphasis": "Pelos números da tabela, para pagar menos por grama de proteína a escolha é o Hiper, enquanto a promoção durar: R$ 24,14 por 100 g, bem abaixo dos outros quatro. Sem a promoção, a escolha passa a ser o Zero Lactose, a R$ 38,41 por 100 g.",
+        "emphasis": "Pelos preços da tabela, o Hiper é a escolha para pagar menos por proteína enquanto a promoção durar: R$ 24,14 por 100 g com a promoção. Com o preço de lista dele e os demais preços iguais, o Zero Lactose lidera, a R$ 38,41 por 100 g. Confira os valores antes de comprar.",
         "bullets": [
-          "Quer pagar menos por grama de proteína e aceita a dose de 40 g: Hiper, enquanto a promoção durar.",
+          "Quer pagar menos por proteína: considere o Hiper se o preço atual mantiver a vantagem da tabela e sua porção atender ao que você procura.",
           "Quer um whey que o rótulo declara sem lactose: Zero Lactose, com o aviso de derivados de leite.",
-          "Quer a dose com mais proteína e aceita o maior preço por grama: Iso Pro.",
-          "Já tem o pote em casa: o refil do 100% Pure Whey, que faz a mesma conta por menos."
+          "Quer mais proteína por porção entre os cinco itens comparados: Iso Pro, conferindo se o custo por grama cabe no seu orçamento.",
+          "Já tem o pote em casa: compare o refil do 100% Pure Whey, que custa menos com a mesma proteína declarada por porção na tabela."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O whey da Probiótica é bom? Pelo rótulo, sim: cada pote declara o tipo de proteína e a proteína por dose. O que separa os cinco é o preço por grama e a lactose, na tabela deste guia.",
+          "O whey da Probiótica é bom? O rótulo sozinho não comprova qualidade. Para escolher entre estes cinco itens, compare a proteína declarada por porção, a lactose e o custo por proteína na tabela.",
           "O 100% Pure Whey é concentrado? É: o rótulo e a descrição da loja dizem proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
           "O Zero Lactose serve para quem tem intolerância? O rótulo declara lactose não contém, e o aviso cita derivados de leite. O capítulo do Zero Lactose mostra o que a embalagem diz.",
           "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja.",
           "O Hiper é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
           "O cupom dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. O carrinho mostra o valor de cada item.",
-          "A Probiótica é confiável? É, e os detalhes estão no [guia de confiabilidade da marca](/reviews/probiotica-e-confiavel)."
+          "A Probiótica é confiável? A comparação de rótulos e preços não basta para responder sobre a reputação da marca. Veja a análise específica no [guia de confiabilidade da Probiótica](/reviews/probiotica-e-confiavel)."
         ]
       }
     ]
