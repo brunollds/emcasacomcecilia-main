@@ -6494,5 +6494,768 @@
   "locale": "pt",
   "decisao": "descartar",
   "motivo": "Mesmo problema da r01-P001: consulta de 26/10 e RA1000 de 6 meses, superadas pela versão de novembro na main."
+ },
+ {
+  "id": "is-shein-legit-and-safe-en-r02-gemini-P001",
+  "slug": "is-shein-legit-and-safe",
+  "locale": "en",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "is-shein-legit-and-safe-en-r02-gemini-P002",
+  "slug": "is-shein-legit-and-safe",
+  "locale": "en",
+  "decisao": "descartar",
+  "motivo": "Troca de estilo que alonga o texto e acrescenta fatos de impostos sem fonte no artigo; o texto atual já manda conferir no checkout."
+ },
+ {
+  "id": "ist-shein-serioes-und-sicher-de-r02-gemini-P001",
+  "slug": "ist-shein-serioes-und-sicher",
+  "locale": "de",
+  "decisao": "descartar",
+  "motivo": "Acrescenta enquadramento jurídico e detalhes aduaneiros além do que o artigo já diz com o regulamento citado; fato novo sem fonte e texto mais longo sem ganho."
+ },
+ {
+  "id": "ist-shein-serioes-und-sicher-de-r02-gemini-P002",
+  "slug": "ist-shein-serioes-und-sicher",
+  "locale": "de",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "shein-e-affidabile-e-sicuro-it-r02-gemini-P001",
+  "slug": "shein-e-affidabile-e-sicuro",
+  "locale": "it",
+  "decisao": "descartar",
+  "motivo": "Acrescenta enquadramento jurídico e detalhes aduaneiros além do que o artigo já diz com o regulamento citado; fato novo sem fonte e texto mais longo sem ganho."
+ },
+ {
+  "id": "shein-e-affidabile-e-sicuro-it-r02-gemini-P002",
+  "slug": "shein-e-affidabile-e-sicuro",
+  "locale": "it",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "shein-e-confiavel-pt-r02-gemini-P001",
+  "slug": "shein-e-confiavel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "A metaDescription atual já traz 4CW5Y; a proposta tira o código da primeira frase e viola a regra do snippet."
+ },
+ {
+  "id": "shein-e-confiavel-pt-r02-gemini-P002",
+  "slug": "shein-e-confiavel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Contradiz o artigo (imposto de importação zero até US$ 50) e traz alíquota de 20% sem fonte."
+ },
+ {
+  "id": "shein-e-confiavel-pt-r02-gemini-P003",
+  "slug": "shein-e-confiavel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "shein-e-confiavel-pt-r02-gemini-P004",
+  "slug": "shein-e-confiavel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "O texto atual já resolve a janela do Reclame Aqui sem data; a proposta põe data no corpo e reescreve a resposta sem ganho."
+ },
+ {
+  "id": "shein-es-confiable-y-seguro-es-r02-gemini-P001",
+  "slug": "shein-es-confiable-y-seguro",
+  "locale": "es",
+  "decisao": "descartar",
+  "motivo": "Acrescenta enquadramento jurídico e detalhes aduaneiros além do que o artigo já diz com o regulamento citado; fato novo sem fonte e texto mais longo sem ganho."
+ },
+ {
+  "id": "shein-es-confiable-y-seguro-es-r02-gemini-P002",
+  "slug": "shein-es-confiable-y-seguro",
+  "locale": "es",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "shein-est-il-fiable-et-sur-fr-r02-gemini-P001",
+  "slug": "shein-est-il-fiable-et-sur",
+  "locale": "fr",
+  "decisao": "descartar",
+  "motivo": "Acrescenta enquadramento jurídico e detalhes aduaneiros além do que o artigo já diz com o regulamento citado; fato novo sem fonte e texto mais longo sem ganho."
+ },
+ {
+  "id": "shein-est-il-fiable-et-sur-fr-r02-gemini-P002",
+  "slug": "shein-est-il-fiable-et-sur",
+  "locale": "fr",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "shein-trust-guide-ja-ja-r02-gemini-P001",
+  "slug": "shein-trust-guide-ja",
+  "locale": "ja",
+  "decisao": "descartar",
+  "motivo": "Introduz exceções de devolução (itens excluídos, condições) sem fonte no artigo."
+ },
+ {
+  "id": "shein-trust-guide-ja-ja-r02-gemini-P002",
+  "slug": "shein-trust-guide-ja",
+  "locale": "ja",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "shein-trust-guide-ko-ko-r02-gemini-P001",
+  "slug": "shein-trust-guide-ko",
+  "locale": "ko",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "shein-trust-guide-ko-ko-r02-gemini-P002",
+  "slug": "shein-trust-guide-ko",
+  "locale": "ko",
+  "decisao": "descartar",
+  "motivo": "Troca de estilo que alonga o texto e acrescenta fatos de impostos sem fonte no artigo; o texto atual já manda conferir no checkout."
+ },
+ {
+  "id": "shein-trust-guide-zh-hans-zh-hans-r02-gemini-P001",
+  "slug": "shein-trust-guide-zh-hans",
+  "locale": "zh-hans",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "shein-trust-guide-zh-hans-zh-hans-r02-gemini-P002",
+  "slug": "shein-trust-guide-zh-hans",
+  "locale": "zh-hans",
+  "decisao": "descartar",
+  "motivo": "Troca de estilo que alonga o texto e acrescenta fatos de impostos sem fonte no artigo; o texto atual já manda conferir no checkout."
+ },
+ {
+  "id": "shein-trust-guide-zh-hant-zh-hant-r02-gemini-P001",
+  "slug": "shein-trust-guide-zh-hant",
+  "locale": "zh-hant",
+  "decisao": "descartar",
+  "motivo": "O 4CW5Y é código de indicação digitado na busca; prometer vantagens, benefícios ou ativação de promoções por ele é descartado, e o texto atual já diz onde digitar e que não é cupom."
+ },
+ {
+  "id": "shein-trust-guide-zh-hant-zh-hant-r02-gemini-P002",
+  "slug": "shein-trust-guide-zh-hant",
+  "locale": "zh-hant",
+  "decisao": "descartar",
+  "motivo": "Troca de estilo que alonga o texto e acrescenta fatos de impostos sem fonte no artigo; o texto atual já manda conferir no checkout."
+ },
+ {
+  "id": "es-yesstyle-de-fiar-y-seguro-es-r02-gemini-P001",
+  "slug": "es-yesstyle-de-fiar-y-seguro",
+  "locale": "es",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "es-yesstyle-de-fiar-y-seguro-es-r02-gemini-P002",
+  "slug": "es-yesstyle-de-fiar-y-seguro",
+  "locale": "es",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "es-yesstyle-de-fiar-y-seguro-es-r02-gemini-P003",
+  "slug": "es-yesstyle-de-fiar-y-seguro",
+  "locale": "es",
+  "decisao": "ja_coberto",
+  "motivo": "O template já dá rel sponsored ao cta sem a chave (cta.sponsored ?? relação comercial), então acrescentar a chave não muda a página."
+ },
+ {
+  "id": "is-yesstyle-legit-and-safe-review-en-r02-gemini-P001",
+  "slug": "is-yesstyle-legit-and-safe-review",
+  "locale": "en",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "is-yesstyle-legit-and-safe-review-en-r02-gemini-P002",
+  "slug": "is-yesstyle-legit-and-safe-review",
+  "locale": "en",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "is-yesstyle-legit-and-safe-review-en-r02-gemini-P003",
+  "slug": "is-yesstyle-legit-and-safe-review",
+  "locale": "en",
+  "decisao": "ja_coberto",
+  "motivo": "O template já dá rel sponsored ao cta sem a chave (cta.sponsored ?? relação comercial), então acrescentar a chave não muda a página."
+ },
+ {
+  "id": "ist-yesstyle-serioes-und-sicher-de-r02-gemini-P001",
+  "slug": "ist-yesstyle-serioes-und-sicher",
+  "locale": "de",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "ist-yesstyle-serioes-und-sicher-de-r02-gemini-P002",
+  "slug": "ist-yesstyle-serioes-und-sicher",
+  "locale": "de",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "yesstyle-e-affidabile-e-sicuro-it-r02-gemini-P001",
+  "slug": "yesstyle-e-affidabile-e-sicuro",
+  "locale": "it",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "yesstyle-e-affidabile-e-sicuro-it-r02-gemini-P002",
+  "slug": "yesstyle-e-affidabile-e-sicuro",
+  "locale": "it",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "yesstyle-e-affidabile-e-sicuro-it-r02-gemini-P003",
+  "slug": "yesstyle-e-affidabile-e-sicuro",
+  "locale": "it",
+  "decisao": "ja_coberto",
+  "motivo": "O template já dá rel sponsored ao cta sem a chave (cta.sponsored ?? relação comercial), então acrescentar a chave não muda a página."
+ },
+ {
+  "id": "yesstyle-e-confiavel-pt-r02-gemini-P001",
+  "slug": "yesstyle-e-confiavel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "yesstyle-e-confiavel-pt-r02-gemini-P002",
+  "slug": "yesstyle-e-confiavel",
+  "locale": "pt",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "yesstyle-e-confiavel-pt-r02-gemini-P003",
+  "slug": "yesstyle-e-confiavel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "O bullet atual (decidido no lote g004) já pede conferir dimensões, materiais, volume e uso; a proposta o troca por frase genérica e traz fato novo sem fonte sobre padrões asiáticos de cosméticos."
+ },
+ {
+  "id": "yesstyle-est-il-fiable-et-sur-fr-r02-gemini-P001",
+  "slug": "yesstyle-est-il-fiable-et-sur",
+  "locale": "fr",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "yesstyle-est-il-fiable-et-sur-fr-r02-gemini-P002",
+  "slug": "yesstyle-est-il-fiable-et-sur",
+  "locale": "fr",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "yesstyle-est-il-fiable-et-sur-fr-r02-gemini-P003",
+  "slug": "yesstyle-est-il-fiable-et-sur",
+  "locale": "fr",
+  "decisao": "ja_coberto",
+  "motivo": "O template já dá rel sponsored ao cta sem a chave (cta.sponsored ?? relação comercial), então acrescentar a chave não muda a página."
+ },
+ {
+  "id": "yesstyle-trust-guide-ja-ja-r02-gemini-P001",
+  "slug": "yesstyle-trust-guide-ja",
+  "locale": "ja",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "yesstyle-trust-guide-ja-ja-r02-gemini-P002",
+  "slug": "yesstyle-trust-guide-ja",
+  "locale": "ja",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "yesstyle-trust-guide-ja-ja-r02-gemini-P003",
+  "slug": "yesstyle-trust-guide-ja",
+  "locale": "ja",
+  "decisao": "ja_coberto",
+  "motivo": "O template já dá rel sponsored ao cta sem a chave (cta.sponsored ?? relação comercial), então acrescentar a chave não muda a página."
+ },
+ {
+  "id": "yesstyle-trust-guide-ko-ko-r02-gemini-P001",
+  "slug": "yesstyle-trust-guide-ko",
+  "locale": "ko",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "yesstyle-trust-guide-ko-ko-r02-gemini-P002",
+  "slug": "yesstyle-trust-guide-ko",
+  "locale": "ko",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "yesstyle-trust-guide-ko-ko-r02-gemini-P003",
+  "slug": "yesstyle-trust-guide-ko",
+  "locale": "ko",
+  "decisao": "ja_coberto",
+  "motivo": "O template já dá rel sponsored ao cta sem a chave (cta.sponsored ?? relação comercial), então acrescentar a chave não muda a página."
+ },
+ {
+  "id": "yesstyle-trust-guide-zh-hans-zh-hans-r02-gemini-P001",
+  "slug": "yesstyle-trust-guide-zh-hans",
+  "locale": "zh-hans",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "yesstyle-trust-guide-zh-hans-zh-hans-r02-gemini-P002",
+  "slug": "yesstyle-trust-guide-zh-hans",
+  "locale": "zh-hans",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "yesstyle-trust-guide-zh-hans-zh-hans-r02-gemini-P003",
+  "slug": "yesstyle-trust-guide-zh-hans",
+  "locale": "zh-hans",
+  "decisao": "ja_coberto",
+  "motivo": "O template já dá rel sponsored ao cta sem a chave (cta.sponsored ?? relação comercial), então acrescentar a chave não muda a página."
+ },
+ {
+  "id": "yesstyle-trust-guide-zh-hant-zh-hant-r02-gemini-P001",
+  "slug": "yesstyle-trust-guide-zh-hant",
+  "locale": "zh-hant",
+  "decisao": "descartar",
+  "motivo": "Troca estilo e acrescenta elogio vago (\"nível concreto de transparência\") e a bolsa de Hong Kong, fato que o artigo não cita. A frase atual é factual e basta."
+ },
+ {
+  "id": "yesstyle-trust-guide-zh-hant-zh-hant-r02-gemini-P002",
+  "slug": "yesstyle-trust-guide-zh-hant",
+  "locale": "zh-hant",
+  "decisao": "ja_coberto",
+  "motivo": "O lote L12 já reescreveu e dividiu o parágrafo de devolução em frases curtas; a proposta o reunifica e traz detalhes (fotos, prazo da entrega) que o texto atual já tem ou não têm fonte."
+ },
+ {
+  "id": "yesstyle-trust-guide-zh-hant-zh-hant-r02-gemini-P003",
+  "slug": "yesstyle-trust-guide-zh-hant",
+  "locale": "zh-hant",
+  "decisao": "ja_coberto",
+  "motivo": "O template já dá rel sponsored ao cta sem a chave (cta.sponsored ?? relação comercial), então acrescentar a chave não muda a página."
+ },
+ {
+  "id": "yesstyle-o-olive-young-cual-elegir-es-r02-gemini-P001",
+  "slug": "yesstyle-o-olive-young-cual-elegir",
+  "locale": "es",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-o-olive-young-cual-elegir-es-r02-gemini-P002",
+  "slug": "yesstyle-o-olive-young-cual-elegir",
+  "locale": "es",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-o-olive-young-cual-elegir-es-r02-gemini-P003",
+  "slug": "yesstyle-o-olive-young-cual-elegir",
+  "locale": "es",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "yesstyle-o-olive-young-quale-scegliere-it-r02-gemini-P001",
+  "slug": "yesstyle-o-olive-young-quale-scegliere",
+  "locale": "it",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-o-olive-young-quale-scegliere-it-r02-gemini-P002",
+  "slug": "yesstyle-o-olive-young-quale-scegliere",
+  "locale": "it",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-o-olive-young-quale-scegliere-it-r02-gemini-P003",
+  "slug": "yesstyle-o-olive-young-quale-scegliere",
+  "locale": "it",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "yesstyle-oder-olive-young-welcher-shop-de-r02-gemini-P001",
+  "slug": "yesstyle-oder-olive-young-welcher-shop",
+  "locale": "de",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-oder-olive-young-welcher-shop-de-r02-gemini-P002",
+  "slug": "yesstyle-oder-olive-young-welcher-shop",
+  "locale": "de",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-oder-olive-young-welcher-shop-de-r02-gemini-P003",
+  "slug": "yesstyle-oder-olive-young-welcher-shop",
+  "locale": "de",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "yesstyle-ou-olive-young-pt-r02-gemini-P001",
+  "slug": "yesstyle-ou-olive-young",
+  "locale": "pt",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-ou-olive-young-pt-r02-gemini-P002",
+  "slug": "yesstyle-ou-olive-young",
+  "locale": "pt",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-ou-olive-young-pt-r02-gemini-P003",
+  "slug": "yesstyle-ou-olive-young",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "yesstyle-ou-olive-young-que-choisir-fr-r02-gemini-P001",
+  "slug": "yesstyle-ou-olive-young-que-choisir",
+  "locale": "fr",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-ou-olive-young-que-choisir-fr-r02-gemini-P002",
+  "slug": "yesstyle-ou-olive-young-que-choisir",
+  "locale": "fr",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-ou-olive-young-que-choisir-fr-r02-gemini-P003",
+  "slug": "yesstyle-ou-olive-young-que-choisir",
+  "locale": "fr",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-en-r02-gemini-P001",
+  "slug": "yesstyle-vs-olive-young",
+  "locale": "en",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-en-r02-gemini-P002",
+  "slug": "yesstyle-vs-olive-young",
+  "locale": "en",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-en-r02-gemini-P003",
+  "slug": "yesstyle-vs-olive-young",
+  "locale": "en",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-ja-ja-r02-gemini-P001",
+  "slug": "yesstyle-vs-olive-young-ja",
+  "locale": "ja",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-ja-ja-r02-gemini-P002",
+  "slug": "yesstyle-vs-olive-young-ja",
+  "locale": "ja",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-ja-ja-r02-gemini-P003",
+  "slug": "yesstyle-vs-olive-young-ja",
+  "locale": "ja",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-ko-ko-r02-gemini-P001",
+  "slug": "yesstyle-vs-olive-young-ko",
+  "locale": "ko",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-ko-ko-r02-gemini-P002",
+  "slug": "yesstyle-vs-olive-young-ko",
+  "locale": "ko",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-ko-ko-r02-gemini-P003",
+  "slug": "yesstyle-vs-olive-young-ko",
+  "locale": "ko",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-zh-hans-zh-hans-r02-gemini-P001",
+  "slug": "yesstyle-vs-olive-young-zh-hans",
+  "locale": "zh-hans",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-zh-hans-zh-hans-r02-gemini-P002",
+  "slug": "yesstyle-vs-olive-young-zh-hans",
+  "locale": "zh-hans",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-zh-hans-zh-hans-r02-gemini-P003",
+  "slug": "yesstyle-vs-olive-young-zh-hans",
+  "locale": "zh-hans",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-zh-hant-zh-hant-r02-gemini-P001",
+  "slug": "yesstyle-vs-olive-young-zh-hant",
+  "locale": "zh-hant",
+  "decisao": "ja_coberto",
+  "motivo": "A main já traz o reembolso aduaneiro em crédito, o teto de US$ 1.000 antes do desconto e sem frete, os 30 dias e as exclusões de IVA/GST e transportadora. A proposta trocaria o marco do prazo por \"emissão\" sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-zh-hant-zh-hant-r02-gemini-P002",
+  "slug": "yesstyle-vs-olive-young-zh-hant",
+  "locale": "zh-hant",
+  "decisao": "ja_coberto",
+  "motivo": "A main já diz que o nível maior vale no dia seguinte (meia-noite da Coreia) e que o programa vale até o fim do ano, conforme a página. A versão proposta afirma validade semestral do nível, sem fonte."
+ },
+ {
+  "id": "yesstyle-vs-olive-young-zh-hant-zh-hant-r02-gemini-P003",
+  "slug": "yesstyle-vs-olive-young-zh-hant",
+  "locale": "zh-hant",
+  "decisao": "descartar",
+  "motivo": "A legenda atual já bate com o parágrafo e com a página de membros; a proposta traz validade semestral do nível, fato sem fonte."
+ },
+ {
+  "id": "black-friday-dolce-gusto-pt-r02-gemini-P001",
+  "slug": "black-friday-dolce-gusto",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Resposta rápida não aceita R$; o valor mínimo já aparece fora dela."
+ },
+ {
+  "id": "black-friday-dolce-gusto-pt-r02-gemini-P002",
+  "slug": "black-friday-dolce-gusto",
+  "locale": "pt",
+  "decisao": "ja_coberto",
+  "motivo": "O FAQ atual já diz que em 2023 e 2024 a Nestlé anunciou ofertas em novembro inteiro, sem a discrepância."
+ },
+ {
+  "id": "black-friday-dolce-gusto-pt-r02-gemini-P003",
+  "slug": "black-friday-dolce-gusto",
+  "locale": "pt",
+  "decisao": "ja_coberto",
+  "motivo": "O trecho atual já foi reescrito e diz o mesmo de forma direta; a versão proposta é só troca de estilo."
+ },
+ {
+  "id": "cupom-ceci-nescafe-dolce-gusto-como-usar-pt-r02-gemini-P001",
+  "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Resposta rápida não aceita R$; já diz compra mínima."
+ },
+ {
+  "id": "cupom-ceci-nescafe-dolce-gusto-como-usar-pt-r02-gemini-P002",
+  "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Tira a frase da compra mínima e põe R$ 100 como fato do teste do carrinho, sem fonte; troca de estilo sem ganho."
+ },
+ {
+  "id": "cupom-ceci-nescafe-dolce-gusto-como-usar-pt-r02-gemini-P003",
+  "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "O parágrafo não existe mais na main."
+ },
+ {
+  "id": "cupom-ceci-nescafe-dolce-gusto-como-usar-pt-r02-gemini-P004",
+  "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "O link /reviews/dolce-gusto-cnpj-negocios-combos existe; a proposta tira um link que funciona."
+ },
+ {
+  "id": "dolce-gusto-capsulas-compativeis-guia-pt-r02-gemini-P001",
+  "slug": "dolce-gusto-capsulas-compativeis-guia",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Resposta rápida não aceita R$; reescrita é só estilo."
+ },
+ {
+  "id": "dolce-gusto-capsulas-compativeis-guia-pt-r02-gemini-P002",
+  "slug": "dolce-gusto-capsulas-compativeis-guia",
+  "locale": "pt",
+  "decisao": "ja_coberto",
+  "motivo": "A main já contextualiza o preço como promoção da consulta de 30/09 e remete ao preço do dia na página oficial."
+ },
+ {
+  "id": "dolce-gusto-capsulas-compativeis-guia-pt-r02-gemini-P003",
+  "slug": "dolce-gusto-capsulas-compativeis-guia",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Trecho já reescrito na main; a proposta traz bastidor (erro de certificado em nossas consultas)."
+ },
+ {
+  "id": "dolce-gusto-capsulas-compativeis-guia-pt-r02-gemini-P004",
+  "slug": "dolce-gusto-capsulas-compativeis-guia",
+  "locale": "pt",
+  "decisao": "ja_coberto",
+  "motivo": "A main já corrige o frete e a regra do carrinho; a proposta acrescenta data de consulta e só muda estilo."
+ },
+ {
+  "id": "dolce-gusto-e-confiavel-pt-r02-gemini-P001",
+  "slug": "dolce-gusto-e-confiavel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Resposta rápida não aceita R$."
+ },
+ {
+  "id": "dolce-gusto-e-confiavel-pt-r02-gemini-P002",
+  "slug": "dolce-gusto-e-confiavel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Jurídico deve ser uma frase direta; a versão proposta alonga e troca estilo sem ganho."
+ },
+ {
+  "id": "dolce-gusto-e-confiavel-pt-r02-gemini-P003",
+  "slug": "dolce-gusto-e-confiavel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Troca de estilo sem ganho; alonga a lista prática."
+ },
+ {
+  "id": "dolce-gusto-vs-nespresso-qual-escolher-pt-r02-gemini-P001",
+  "slug": "dolce-gusto-vs-nespresso-qual-escolher",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Resposta rápida não aceita R$."
+ },
+ {
+  "id": "dolce-gusto-vs-nespresso-qual-escolher-pt-r02-gemini-P002",
+  "slug": "dolce-gusto-vs-nespresso-qual-escolher",
+  "locale": "pt",
+  "decisao": "ja_coberto",
+  "motivo": "A legenda atual já cobre Espresso e Lungo, sem o rótulo restritivo."
+ },
+ {
+  "id": "dolce-gusto-vs-nespresso-qual-escolher-pt-r02-gemini-P003",
+  "slug": "dolce-gusto-vs-nespresso-qual-escolher",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "A divulgação de associado já está clara; a proposta acrescenta \"ofertas verificadas\" (bastidor) e alonga."
+ },
+ {
+  "id": "dolce-gusto-vs-nespresso-vs-3-coracoes-pt-r02-gemini-P001",
+  "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "A metaDescription com cupom deve abrir com código e % na primeira frase; a proposta inverte."
+ },
+ {
+  "id": "dolce-gusto-vs-nespresso-vs-3-coracoes-pt-r02-gemini-P002",
+  "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Resposta rápida não aceita R$."
+ },
+ {
+  "id": "melhores-capsulas-dolce-gusto-2026-pt-r02-gemini-P001",
+  "slug": "melhores-capsulas-dolce-gusto-2026",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "O parágrafo mudou e a proposta, de resposta rápida, usaria R$."
+ },
+ {
+  "id": "melhores-capsulas-dolce-gusto-2026-pt-r02-gemini-P002",
+  "slug": "melhores-capsulas-dolce-gusto-2026",
+  "locale": "pt",
+  "decisao": "ja_coberto",
+  "motivo": "O FAQ atual já traz a exceção da Starbucks Toffee Nut Latte com 12 cápsulas e 6 bebidas."
+ },
+ {
+  "id": "melhores-capsulas-dolce-gusto-2026-pt-r02-gemini-P003",
+  "slug": "melhores-capsulas-dolce-gusto-2026",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Troca de estilo; \"durante a checagem dos preços\" é bastidor."
+ },
+ {
+  "id": "tabela-medidas-dolce-gusto-ml-por-nivel-pt-r02-gemini-P001",
+  "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Resposta rápida não aceita R$."
+ },
+ {
+  "id": "melhor-whey-qual-escolher-por-objetivo-pt-r01-P003",
+  "slug": "melhor-whey-qual-escolher-por-objetivo",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "A reescrita troca a resposta direta por orientação genérica, traz data de preço e o move-sections tira a resposta rápida da ordem de leitura sem ganho claro; o quadro por objetivo já é citado na resposta rápida."
+ },
+ {
+  "id": "nutren-just-protein-para-que-serve-pt-r02-gemini-P001",
+  "slug": "nutren-just-protein-para-que-serve",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "A proposta empurra o cupom CECI e o % para a segunda frase, contra a regra do snippet (código e % na primeira frase); o texto atual já cumpre."
+ },
+ {
+  "id": "nutren-senior-zero-lactose-ficha-tecnica-pt-r02-gemini-P002",
+  "slug": "nutren-senior-zero-lactose-ficha-tecnica",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Troca de \"capítulo\" por \"seção\" sem ganho; o site usa \"capítulo\" nas remissões internas."
+ },
+ {
+  "id": "removedor-autobronzeador-skelt-como-tirar-pt-r01-P001",
+  "slug": "removedor-autobronzeador-skelt-como-tirar",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Pendente, julgada com rigor: troca o passo a passo direto por \"confira o frasco\", insere datas de consulta (29/10 e 07/11) e bastidor, e traz divergência de tempo e temperatura sem fonte no artigo. A meta atual já tem código e % na primeira frase."
+ },
+ {
+  "id": "yesstyle-ou-stylevana-pt-g022-P001",
+  "slug": "yesstyle-ou-stylevana",
+  "locale": "pt",
+  "decisao": "descartar",
+  "motivo": "Pendente, julgada com rigor: tira a resposta direta, usa \"base consultada\" (bastidor) e a unidade do bullet apaga a suspensão da entrega ao Brasil que a main já informa."
  }
 ]
