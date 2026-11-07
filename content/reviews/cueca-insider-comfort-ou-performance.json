@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para treino, a Performance; para o dia a dia, a Comfort. A escolha sai do tecido e do uso que a própria marca indica, e só cor e tamanho mexem no preço. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+        "Para treino, a Performance; para o dia a dia, a Comfort, pelo uso que a Insider indica. Compare o preço da variante escolhida: cor e tamanho podem mudar o valor. Na loja online, o cupom EMCASACOMCECILIA dá 15% em itens elegíveis, exceto em lançamentos."
       ]
     },
     {
@@ -201,7 +201,8 @@
     {
       "heading": "Qual escolher",
       "paragraphs": [
-        "Se a dúvida é a boxer, a resposta curta é: Performance para treino e esporte, Comfort para o dia a dia. Escolha pelo uso, confira o preço da variante na hora da compra, porque o preço muda por cor e tamanho, não por modelo, e acerte o tamanho antes, porque cueca não tem troca por tamanho. A Seamless Touch e a Slip são construções diferentes, não a versão premium da boxer. Se a dúvida é a Insider em si, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
+        "Se a dúvida é a boxer, a Performance é a opção de treino e esporte; a Comfort, a de dia a dia, segundo a marca. Compare o preço da variante: cor e tamanho podem mudar o valor.",
+        "A Seamless Touch e a Slip têm construções diferentes da boxer. Confira as medidas antes de comprar, porque a política comercial de underwear exclui troca por tamanho. Para conhecer a marca, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
       ],
       "emphasis": "Se fosse para a minha casa, eu levaria a Comfort para o dia a dia, porque é a boxer de modal para uso diário.",
       "emphasisAfterParagraph": 1
@@ -216,7 +217,7 @@
     {
       "heading": "Troca e tamanho",
       "paragraphs": [
-        "A central de ajuda da loja diz que underwear só tem troca ou devolução por defeito de fabricação, por motivos de higiene e segurança. Por isso, cueca não entra em troca por tamanho. Isso é política da loja para a troca voluntária; o arrependimento da compra online é outro pedido. Acerte o tamanho antes de comprar.",
+        "A política de trocas da Insider não inclui cuecas para troca por tamanho: underwear só é trocado por defeito de fabricação, por motivos de higiene. O arrependimento da compra online é outro pedido. Meça com atenção antes de fechar o pedido.",
         "Os tamanhos por modelo são:"
       ],
       "bullets": [
@@ -234,7 +235,7 @@
         "A cueca Insider é boa? A marca diz que a Performance absorve e evapora rápido o suor, e que a Comfort é ultramacia. Na página da loja, a Performance tem nota 4,9 em 5 com 5.633 avaliações, e a Comfort, 4,9 em 5 com 5.854. São avaliações da loja, não uma prova independente.",
         "A cueca Insider é igual à de algodão? Não. A Comfort é de TENCEL Modal e elastano. A Performance tem a parte de fora em poliamida e a de dentro em modal, com elastano nas duas partes.",
         "Qual cueca Insider para treino? A Performance. A página indica esporte, como corrida, musculação e ciclismo.",
-        "Dá para trocar cueca Insider por tamanho? Não. Pela política da loja, underwear só tem troca ou devolução por defeito de fabricação, segundo a central de ajuda. O arrependimento da compra online é outro pedido: confirme com a loja.",
+        "Dá para trocar cueca Insider por tamanho? Pela política comercial da loja, não: underwear só é trocado por defeito de fabricação, por higiene.",
         "Cupom vale em kit? Em teste nosso, o desconto apareceu em kit com preço promocional. Confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout antes de pagar."
       ]
     }
@@ -246,7 +247,7 @@
     ],
     "skipIf": [
       "Passe nas boxers se você quer construção sem costura: olhe a Seamless Touch.",
-      "Passe se você não sabe o tamanho: cueca só troca por defeito, não por tamanho."
+      "Passe se você não sabe o tamanho: a política comercial de underwear exclui troca por tamanho, então confira a tabela antes de decidir."
     ]
   },
   "pros": [],

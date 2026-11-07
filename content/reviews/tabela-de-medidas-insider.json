@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Insider mede a peça deitada, não o corpo, então o mais seguro é comparar uma camiseta sua que veste bem com a tabela da peça. Cueca e calcinha só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+        "A Insider mede a peça deitada, não o corpo, então o mais seguro é comparar uma camiseta sua que veste bem com a tabela da peça. Pela política de trocas da Insider, cuecas e calcinhas só têm troca por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
       ]
     },
     {
@@ -76,15 +76,55 @@
       ],
       "comparisonTable": {
         "caption": "Tabela oficial da Tech T-Shirt masculina (gola redonda e gola V), em cm, com a peça deitada.",
-        "headers": ["Tamanho", "Altura", "Largura", "Manga"],
+        "headers": [
+          "Tamanho",
+          "Altura",
+          "Largura",
+          "Manga"
+        ],
         "rows": [
-          ["PP", "67,5", "48", "19,3"],
-          ["P", "69", "50", "20,5"],
-          ["M", "70,5", "52", "22"],
-          ["G", "72", "54", "23,5"],
-          ["GG", "73,5", "57", "25"],
-          ["XGG", "75", "61", "26,5"],
-          ["XXGG", "77,5", "65", "28"]
+          [
+            "PP",
+            "67,5",
+            "48",
+            "19,3"
+          ],
+          [
+            "P",
+            "69",
+            "50",
+            "20,5"
+          ],
+          [
+            "M",
+            "70,5",
+            "52",
+            "22"
+          ],
+          [
+            "G",
+            "72",
+            "54",
+            "23,5"
+          ],
+          [
+            "GG",
+            "73,5",
+            "57",
+            "25"
+          ],
+          [
+            "XGG",
+            "75",
+            "61",
+            "26,5"
+          ],
+          [
+            "XXGG",
+            "77,5",
+            "65",
+            "28"
+          ]
         ]
       }
     },
@@ -95,15 +135,79 @@
       ],
       "comparisonTable": {
         "caption": "Largura em cm, peça deitada, pelas tabelas oficiais de cada camiseta. Travessão: a tabela não traz o tamanho.",
-        "headers": ["Tamanho", "Tech e Gola V", "Core", "Daily", "Heavy Slim", "Manga Longa", "Oversized"],
+        "headers": [
+          "Tamanho",
+          "Tech e Gola V",
+          "Core",
+          "Daily",
+          "Heavy Slim",
+          "Manga Longa",
+          "Oversized"
+        ],
         "rows": [
-          ["PP", "48", "48", "48", "46", "48,5", "54"],
-          ["P", "50", "50", "50", "48", "50,5", "56"],
-          ["M", "52", "52", "52", "50", "52,5", "58"],
-          ["G", "54", "54", "54", "52", "54,5", "62"],
-          ["GG", "57", "57", "57", "55", "57,5", "65"],
-          ["XGG", "61", "61", "61", "59", "61,5", "68"],
-          ["XXGG", "65", "65", "—", "63", "65,5", "—"]
+          [
+            "PP",
+            "48",
+            "48",
+            "48",
+            "46",
+            "48,5",
+            "54"
+          ],
+          [
+            "P",
+            "50",
+            "50",
+            "50",
+            "48",
+            "50,5",
+            "56"
+          ],
+          [
+            "M",
+            "52",
+            "52",
+            "52",
+            "50",
+            "52,5",
+            "58"
+          ],
+          [
+            "G",
+            "54",
+            "54",
+            "54",
+            "52",
+            "54,5",
+            "62"
+          ],
+          [
+            "GG",
+            "57",
+            "57",
+            "57",
+            "55",
+            "57,5",
+            "65"
+          ],
+          [
+            "XGG",
+            "61",
+            "61",
+            "61",
+            "59",
+            "61,5",
+            "68"
+          ],
+          [
+            "XXGG",
+            "65",
+            "65",
+            "—",
+            "63",
+            "65,5",
+            "—"
+          ]
         ]
       }
     },
@@ -114,15 +218,79 @@
       ],
       "comparisonTable": {
         "caption": "Altura em cm, do ponto mais alto da peça (sem a gola) até a barra, pelas tabelas oficiais. Travessão: a tabela não traz o tamanho.",
-        "headers": ["Tamanho", "Tech e Gola V", "Core", "Daily", "Heavy Slim", "Manga Longa", "Oversized"],
+        "headers": [
+          "Tamanho",
+          "Tech e Gola V",
+          "Core",
+          "Daily",
+          "Heavy Slim",
+          "Manga Longa",
+          "Oversized"
+        ],
         "rows": [
-          ["PP", "67,5", "68,5", "70", "65", "67,5", "72"],
-          ["P", "69", "70", "71,5", "67", "69", "73"],
-          ["M", "70,5", "71,5", "73", "69", "70,5", "74"],
-          ["G", "72", "73", "74,5", "71", "72", "75"],
-          ["GG", "73,5", "74,5", "76", "74", "73,5", "76"],
-          ["XGG", "75", "76", "78", "76", "75", "77"],
-          ["XXGG", "77,5", "78,5", "—", "79", "77", "—"]
+          [
+            "PP",
+            "67,5",
+            "68,5",
+            "70",
+            "65",
+            "67,5",
+            "72"
+          ],
+          [
+            "P",
+            "69",
+            "70",
+            "71,5",
+            "67",
+            "69",
+            "73"
+          ],
+          [
+            "M",
+            "70,5",
+            "71,5",
+            "73",
+            "69",
+            "70,5",
+            "74"
+          ],
+          [
+            "G",
+            "72",
+            "73",
+            "74,5",
+            "71",
+            "72",
+            "75"
+          ],
+          [
+            "GG",
+            "73,5",
+            "74,5",
+            "76",
+            "74",
+            "73,5",
+            "76"
+          ],
+          [
+            "XGG",
+            "75",
+            "76",
+            "78",
+            "76",
+            "75",
+            "77"
+          ],
+          [
+            "XXGG",
+            "77,5",
+            "78,5",
+            "—",
+            "79",
+            "77",
+            "—"
+          ]
         ]
       }
     },
@@ -130,15 +298,71 @@
       "heading": "Camisetas masculinas: a manga",
       "comparisonTable": {
         "caption": "Manga em cm, da costura do ombro até a barra da manga, pelas tabelas oficiais. Na Manga Longa, é o comprimento da manga inteira. Travessão: a tabela não traz o tamanho.",
-        "headers": ["Tamanho", "Tech, Gola V e Core", "Daily", "Heavy Slim", "Manga Longa", "Oversized"],
+        "headers": [
+          "Tamanho",
+          "Tech, Gola V e Core",
+          "Daily",
+          "Heavy Slim",
+          "Manga Longa",
+          "Oversized"
+        ],
         "rows": [
-          ["PP", "19,3", "20,5", "16", "56,5", "29,5"],
-          ["P", "20,5", "22", "17,5", "58", "30"],
-          ["M", "22", "23,5", "18,7", "59,5", "30,5"],
-          ["G", "23,5", "25", "20", "61", "31"],
-          ["GG", "25", "26,5", "21,5", "62,5", "32,5"],
-          ["XGG", "26,5", "28", "23", "64", "35"],
-          ["XXGG", "28", "—", "24,5", "65,5", "—"]
+          [
+            "PP",
+            "19,3",
+            "20,5",
+            "16",
+            "56,5",
+            "29,5"
+          ],
+          [
+            "P",
+            "20,5",
+            "22",
+            "17,5",
+            "58",
+            "30"
+          ],
+          [
+            "M",
+            "22",
+            "23,5",
+            "18,7",
+            "59,5",
+            "30,5"
+          ],
+          [
+            "G",
+            "23,5",
+            "25",
+            "20",
+            "61",
+            "31"
+          ],
+          [
+            "GG",
+            "25",
+            "26,5",
+            "21,5",
+            "62,5",
+            "32,5"
+          ],
+          [
+            "XGG",
+            "26,5",
+            "28",
+            "23",
+            "64",
+            "35"
+          ],
+          [
+            "XXGG",
+            "28",
+            "—",
+            "24,5",
+            "65,5",
+            "—"
+          ]
         ]
       }
     },
@@ -156,14 +380,56 @@
       },
       "comparisonTable": {
         "caption": "Tabela oficial da Tech T-Shirt feminina (gola redonda), em cm, com a peça deitada.",
-        "headers": ["Tamanho", "Altura", "Busto", "Largura", "Manga"],
+        "headers": [
+          "Tamanho",
+          "Altura",
+          "Busto",
+          "Largura",
+          "Manga"
+        ],
         "rows": [
-          ["PP", "59", "43", "47,5", "15"],
-          ["P", "60,5", "45", "49,5", "16"],
-          ["M", "62", "47", "51,5", "18"],
-          ["G", "63,5", "49", "53,5", "19"],
-          ["GG", "65", "52", "56,5", "21"],
-          ["XGG", "67", "55", "59,5", "22"]
+          [
+            "PP",
+            "59",
+            "43",
+            "47,5",
+            "15"
+          ],
+          [
+            "P",
+            "60,5",
+            "45",
+            "49,5",
+            "16"
+          ],
+          [
+            "M",
+            "62",
+            "47",
+            "51,5",
+            "18"
+          ],
+          [
+            "G",
+            "63,5",
+            "49",
+            "53,5",
+            "19"
+          ],
+          [
+            "GG",
+            "65",
+            "52",
+            "56,5",
+            "21"
+          ],
+          [
+            "XGG",
+            "67",
+            "55",
+            "59,5",
+            "22"
+          ]
         ]
       }
     },
@@ -174,14 +440,56 @@
       ],
       "comparisonTable": {
         "caption": "Tabela oficial da Tech T-Shirt Gola V feminina, em cm, com a peça deitada.",
-        "headers": ["Tamanho", "Altura", "Busto", "Largura", "Manga"],
+        "headers": [
+          "Tamanho",
+          "Altura",
+          "Busto",
+          "Largura",
+          "Manga"
+        ],
         "rows": [
-          ["PP", "60", "42,5", "48", "15,5"],
-          ["P", "61", "44,5", "50", "17"],
-          ["M", "63", "46,5", "52", "18,5"],
-          ["G", "64", "48,5", "54", "20"],
-          ["GG", "66,5", "51,5", "57", "21,5"],
-          ["XGG", "68", "54,5", "60", "23"]
+          [
+            "PP",
+            "60",
+            "42,5",
+            "48",
+            "15,5"
+          ],
+          [
+            "P",
+            "61",
+            "44,5",
+            "50",
+            "17"
+          ],
+          [
+            "M",
+            "63",
+            "46,5",
+            "52",
+            "18,5"
+          ],
+          [
+            "G",
+            "64",
+            "48,5",
+            "54",
+            "20"
+          ],
+          [
+            "GG",
+            "66,5",
+            "51,5",
+            "57",
+            "21,5"
+          ],
+          [
+            "XGG",
+            "68",
+            "54,5",
+            "60",
+            "23"
+          ]
         ]
       }
     },
@@ -189,14 +497,56 @@
       "heading": "Tech T-Shirt Manga Longa feminina",
       "comparisonTable": {
         "caption": "Tabela oficial da Tech T-Shirt Manga Longa feminina, em cm, com a peça deitada. A manga é o comprimento inteiro, do ombro ao punho.",
-        "headers": ["Tamanho", "Altura", "Busto", "Largura", "Manga"],
+        "headers": [
+          "Tamanho",
+          "Altura",
+          "Busto",
+          "Largura",
+          "Manga"
+        ],
         "rows": [
-          ["PP", "62", "44", "47", "55"],
-          ["P", "63,5", "46", "49", "56"],
-          ["M", "65", "48", "51", "57,5"],
-          ["G", "66,5", "50", "53", "59"],
-          ["GG", "68", "53", "56", "60,5"],
-          ["XGG", "70", "56", "59", "62"]
+          [
+            "PP",
+            "62",
+            "44",
+            "47",
+            "55"
+          ],
+          [
+            "P",
+            "63,5",
+            "46",
+            "49",
+            "56"
+          ],
+          [
+            "M",
+            "65",
+            "48",
+            "51",
+            "57,5"
+          ],
+          [
+            "G",
+            "66,5",
+            "50",
+            "53",
+            "59"
+          ],
+          [
+            "GG",
+            "68",
+            "53",
+            "56",
+            "60,5"
+          ],
+          [
+            "XGG",
+            "70",
+            "56",
+            "59",
+            "62"
+          ]
         ]
       }
     },
@@ -207,14 +557,63 @@
       ],
       "comparisonTable": {
         "caption": "Tabela oficial da Daily T-Shirt feminina, em cm, com a peça deitada, e o busto da Tech feminina para comparar.",
-        "headers": ["Tamanho", "Altura", "Busto", "Largura", "Manga", "Busto da Tech feminina"],
+        "headers": [
+          "Tamanho",
+          "Altura",
+          "Busto",
+          "Largura",
+          "Manga",
+          "Busto da Tech feminina"
+        ],
         "rows": [
-          ["PP", "57,5", "39", "47", "18,5", "43"],
-          ["P", "59", "41", "49", "20", "45"],
-          ["M", "60,5", "43", "51", "21,5", "47"],
-          ["G", "62", "45", "53", "23", "49"],
-          ["GG", "63,7", "48", "56", "24,5", "52"],
-          ["XGG", "65,5", "51", "59", "26", "55"]
+          [
+            "PP",
+            "57,5",
+            "39",
+            "47",
+            "18,5",
+            "43"
+          ],
+          [
+            "P",
+            "59",
+            "41",
+            "49",
+            "20",
+            "45"
+          ],
+          [
+            "M",
+            "60,5",
+            "43",
+            "51",
+            "21,5",
+            "47"
+          ],
+          [
+            "G",
+            "62",
+            "45",
+            "53",
+            "23",
+            "49"
+          ],
+          [
+            "GG",
+            "63,7",
+            "48",
+            "56",
+            "24,5",
+            "52"
+          ],
+          [
+            "XGG",
+            "65,5",
+            "51",
+            "59",
+            "26",
+            "55"
+          ]
         ]
       }
     },
@@ -235,37 +634,133 @@
       ],
       "comparisonTable": {
         "caption": "Tabela oficial das cuecas Comfort e Performance, em cm, com a peça deitada. A última coluna é conta nossa.",
-        "headers": ["Tamanho", "Cintura", "Quadril", "Barra", "Cintura × 2 (conta nossa)"],
+        "headers": [
+          "Tamanho",
+          "Cintura",
+          "Quadril",
+          "Barra",
+          "Cintura × 2 (conta nossa)"
+        ],
         "rows": [
-          ["PP", "31", "39,5", "19,5", "62"],
-          ["P", "33", "41", "20,5", "66"],
-          ["M", "35", "42,5", "21,5", "70"],
-          ["G", "37", "44", "22,5", "74"],
-          ["GG", "39", "45,5", "23,5", "78"],
-          ["XGG", "41", "47", "24,5", "82"],
-          ["XXGG", "43", "48,5", "25,5", "86"]
+          [
+            "PP",
+            "31",
+            "39,5",
+            "19,5",
+            "62"
+          ],
+          [
+            "P",
+            "33",
+            "41",
+            "20,5",
+            "66"
+          ],
+          [
+            "M",
+            "35",
+            "42,5",
+            "21,5",
+            "70"
+          ],
+          [
+            "G",
+            "37",
+            "44",
+            "22,5",
+            "74"
+          ],
+          [
+            "GG",
+            "39",
+            "45,5",
+            "23,5",
+            "78"
+          ],
+          [
+            "XGG",
+            "41",
+            "47",
+            "24,5",
+            "82"
+          ],
+          [
+            "XXGG",
+            "43",
+            "48,5",
+            "25,5",
+            "86"
+          ]
         ]
       },
       "postParagraphs": [
-        "Cueca não tem troca por tamanho. A central de ajuda da Insider diz que, \"por motivos de higiene e segurança\", as linhas Underwear e Beachwear só são trocadas ou devolvidas em caso de defeito de fabricação. As páginas das cuecas não repetem esse aviso, então vale medir antes de comprar um kit."
+        "Cueca não tem troca por tamanho. A central de ajuda da Insider diz que, \"por motivos de higiene e segurança\", as linhas Underwear e Beachwear só são trocadas ou devolvidas em caso de defeito de fabricação. Meça antes de comprar um kit."
       ]
     },
     {
       "heading": "Cueca Slip e calcinha Brief",
       "paragraphs": [
-        "A Slip mede a cintura e a lateral, da cintura até o início da barra (13 cm em todos os tamanhos). A calcinha Biquíni Brief mede a cintura e a altura, da cintura até o fundo da peça. Na loja, a Slip vai do P ao XGG, embora a tabela traga também PP e XXGG, e a Brief vai do PP ao XGG. As duas seguem a regra de troca das cuecas: só por defeito."
+        "A Slip mede a cintura e a lateral, da cintura até o início da barra (13 cm em todos os tamanhos). A calcinha Biquíni Brief mede cintura e altura, da cintura até o fundo da peça. Na loja, a Slip vai do P ao XGG, embora a tabela traga PP e XXGG; a Brief vai do PP ao XGG. A política comercial de underwear exclui troca por tamanho."
       ],
       "comparisonTable": {
         "caption": "Tabelas oficiais da Cueca Slip e da Calcinha Biquíni Brief, em cm, com a peça deitada. Travessão: a tabela não traz o tamanho.",
-        "headers": ["Tamanho", "Slip: cintura", "Slip: lateral", "Brief: cintura", "Brief: altura"],
+        "headers": [
+          "Tamanho",
+          "Slip: cintura",
+          "Slip: lateral",
+          "Brief: cintura",
+          "Brief: altura"
+        ],
         "rows": [
-          ["PP", "31", "13", "33", "20"],
-          ["P", "33", "13", "34,5", "21,5"],
-          ["M", "35", "13", "36", "23"],
-          ["G", "37", "13", "37,5", "24,5"],
-          ["GG", "39", "13", "39", "26"],
-          ["XGG", "41", "13", "40,5", "27,5"],
-          ["XXGG", "43", "13", "—", "—"]
+          [
+            "PP",
+            "31",
+            "13",
+            "33",
+            "20"
+          ],
+          [
+            "P",
+            "33",
+            "13",
+            "34,5",
+            "21,5"
+          ],
+          [
+            "M",
+            "35",
+            "13",
+            "36",
+            "23"
+          ],
+          [
+            "G",
+            "37",
+            "13",
+            "37,5",
+            "24,5"
+          ],
+          [
+            "GG",
+            "39",
+            "13",
+            "39",
+            "26"
+          ],
+          [
+            "XGG",
+            "41",
+            "13",
+            "40,5",
+            "27,5"
+          ],
+          [
+            "XXGG",
+            "43",
+            "13",
+            "—",
+            "—"
+          ]
         ]
       }
     },
@@ -277,14 +772,70 @@
       ],
       "comparisonTable": {
         "caption": "Tabelas oficiais da Undershirt Anti Suor (gola U) e da Undershirt Simples (gola V), em cm, com a peça deitada.",
-        "headers": ["Tamanho", "Anti Suor: altura", "Anti Suor: largura", "Anti Suor: manga", "Simples: altura", "Simples: largura", "Simples: manga"],
+        "headers": [
+          "Tamanho",
+          "Anti Suor: altura",
+          "Anti Suor: largura",
+          "Anti Suor: manga",
+          "Simples: altura",
+          "Simples: largura",
+          "Simples: manga"
+        ],
         "rows": [
-          ["PP", "64", "40,5", "15,5", "67", "43,5", "15"],
-          ["P", "66", "42,5", "17", "68,5", "45,5", "16,5"],
-          ["M", "68", "45,5", "18,5", "70", "48,5", "18"],
-          ["G", "70", "47,5", "20,5", "72", "51,5", "19"],
-          ["GG", "72", "52,5", "22", "73,5", "54,5", "21"],
-          ["XGG", "74", "55,5", "24", "75,5", "58,5", "22,5"]
+          [
+            "PP",
+            "64",
+            "40,5",
+            "15,5",
+            "67",
+            "43,5",
+            "15"
+          ],
+          [
+            "P",
+            "66",
+            "42,5",
+            "17",
+            "68,5",
+            "45,5",
+            "16,5"
+          ],
+          [
+            "M",
+            "68",
+            "45,5",
+            "18,5",
+            "70",
+            "48,5",
+            "18"
+          ],
+          [
+            "G",
+            "70",
+            "47,5",
+            "20,5",
+            "72",
+            "51,5",
+            "19"
+          ],
+          [
+            "GG",
+            "72",
+            "52,5",
+            "22",
+            "73,5",
+            "54,5",
+            "21"
+          ],
+          [
+            "XGG",
+            "74",
+            "55,5",
+            "24",
+            "75,5",
+            "58,5",
+            "22,5"
+          ]
         ]
       }
     },
@@ -295,48 +846,122 @@
       ],
       "comparisonTable": {
         "caption": "Tamanhos que a loja lista em cada produto.",
-        "headers": ["Linha", "Tamanhos"],
+        "headers": [
+          "Linha",
+          "Tamanhos"
+        ],
         "rows": [
-          ["Tech T-Shirt masculina", "PP a XXGG"],
-          ["Tech T-Shirt Gola V masculina", "PP a XXGG"],
-          ["Tech T-Shirt Manga Longa masculina", "PP a XXGG"],
-          ["Core T-Shirt", "PP a XXGG"],
-          ["Tech T-Shirt Heavy Slim", "PP a XXGG"],
-          ["Daily T-Shirt masculina", "PP a XXGG (a tabela vai até o XGG)"],
-          ["Tech T-Shirt feminina", "PP a XGG"],
-          ["Tech T-Shirt Gola V feminina", "PP a XXGG (a tabela vai até o XGG)"],
-          ["Tech T-Shirt Manga Longa feminina", "PP a XGG"],
-          ["Daily T-Shirt feminina", "PP a XGG"],
-          ["Cuecas Comfort e Performance", "PP a XXGG"],
-          ["Cueca Slip e undershirts", "P a XGG"],
-          ["Calcinha Biquíni Brief", "PP a XGG"]
+          [
+            "Tech T-Shirt masculina",
+            "PP a XXGG"
+          ],
+          [
+            "Tech T-Shirt Gola V masculina",
+            "PP a XXGG"
+          ],
+          [
+            "Tech T-Shirt Manga Longa masculina",
+            "PP a XXGG"
+          ],
+          [
+            "Core T-Shirt",
+            "PP a XXGG"
+          ],
+          [
+            "Tech T-Shirt Heavy Slim",
+            "PP a XXGG"
+          ],
+          [
+            "Daily T-Shirt masculina",
+            "PP a XXGG (a tabela vai até o XGG)"
+          ],
+          [
+            "Tech T-Shirt feminina",
+            "PP a XGG"
+          ],
+          [
+            "Tech T-Shirt Gola V feminina",
+            "PP a XXGG (a tabela vai até o XGG)"
+          ],
+          [
+            "Tech T-Shirt Manga Longa feminina",
+            "PP a XGG"
+          ],
+          [
+            "Daily T-Shirt feminina",
+            "PP a XGG"
+          ],
+          [
+            "Cuecas Comfort e Performance",
+            "PP a XXGG"
+          ],
+          [
+            "Cueca Slip e undershirts",
+            "P a XGG"
+          ],
+          [
+            "Calcinha Biquíni Brief",
+            "PP a XGG"
+          ]
         ]
       }
     },
     {
       "heading": "Encolhimento: o que a Insider diz e por que pesa na troca",
       "paragraphs": [
-        "Cada linha pode encolher até um limite: o da sua está na tabela abaixo. Na página da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\"; na da Core, que o tamanho \"já considera 2cm a mais no comprimento\" por esse encolhimento. Os números são da Insider, e a marca não explica como se relacionam com o limite da tabela; valem todos. Como lavar cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
+        "A central de ajuda publica os limites de encolhimento da tabela abaixo. Na página da Daily, a marca cita até 2 cm no comprimento após a primeira lavagem; na Core, informa que o tamanho considera 2 cm extras no comprimento. São informações diferentes, sem equivalência explicada pela Insider: não some centímetros e percentuais para escolher o tamanho. Os cuidados de cada linha estão em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
         "Isso pesa na troca: a troca por tamanho exige peça sem uso e sem sinais de lavagem. Não dá para lavar para ver se encolhe e depois trocar. Escolha o tamanho pela tabela e siga as instruções de lavagem da etiqueta."
       ],
       "comparisonTable": {
         "caption": "\"Pode encolher até\", segundo os artigos de lavagem da central de ajuda da Insider.",
-        "headers": ["Linha", "Pode encolher até", "Composição informada"],
+        "headers": [
+          "Linha",
+          "Pode encolher até",
+          "Composição informada"
+        ],
         "rows": [
-          ["Tech T-Shirt", "8%", "92% modal, 8% elastano"],
-          ["Core T-Shirt", "8%", "94% viscose, 6% elastano"],
-          ["Daily T-Shirt", "4%", "94% viscose, 6% elastano"],
-          ["Tech Heavy e Heavy Slim", "5%", "92% modal, 8% elastano"],
-          ["Oversized", "8%", "81% liocel, 15% poliamida, 4% elastano"],
-          ["Undershirt, cuecas Comfort e Slip", "7%", "88% micromodal, 12% elastano"],
-          ["Cueca Performance e underwear feminina", "3%", "Interior de 88% modal e 12% elastano"]
+          [
+            "Tech T-Shirt",
+            "8%",
+            "92% modal, 8% elastano"
+          ],
+          [
+            "Core T-Shirt",
+            "8%",
+            "94% viscose, 6% elastano"
+          ],
+          [
+            "Daily T-Shirt",
+            "4%",
+            "94% viscose, 6% elastano"
+          ],
+          [
+            "Tech Heavy e Heavy Slim",
+            "5%",
+            "92% modal, 8% elastano"
+          ],
+          [
+            "Oversized",
+            "8%",
+            "81% liocel, 15% poliamida, 4% elastano"
+          ],
+          [
+            "Undershirt, cuecas Comfort e Slip",
+            "7%",
+            "88% micromodal, 12% elastano"
+          ],
+          [
+            "Cueca Performance e underwear feminina",
+            "3%",
+            "Interior de 88% modal e 12% elastano"
+          ]
         ]
       }
     },
     {
       "heading": "Errei o tamanho: o que a Insider permite",
       "paragraphs": [
-        "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem. A troca é gratuita e vale para o mesmo modelo, em outra cor ou tamanho, se houver estoque. Cueca, calcinha e beachwear só trocam por defeito de fabricação.",
+        "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem, conforme a política comercial da Insider. A troca vale para o mesmo modelo, em outra cor ou tamanho, se houver estoque, e é gratuita. A mesma política exclui underwear e beachwear da troca por tamanho.",
         "Os prazos de arrependimento e de defeito e o passo a passo da troca estão no nosso guia sobre a Insider."
       ],
       "links": [
@@ -384,7 +1009,7 @@
         "A Tech T-Shirt veste justa? A Insider descreve a masculina como de \"caimento ajustado ao corpo sem apertar\" e a feminina como de \"caimento levemente ajustado, sem comprimir\"; a Core tem modelagem regular, segundo a marca.",
         "A Insider tem tamanhos grandes? A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG, e as tabelas femininas até o XGG; confira a cor e o tamanho na página do produto.",
         "A roupa da Insider encolhe? Segundo a central de ajuda, a Tech T-Shirt e a Core podem encolher até 8%, a Daily até 4% e a cueca Comfort até 7%.",
-        "Posso trocar a cueca da Insider se errar o tamanho? Não: cuecas, calcinhas e outras peças das linhas Underwear e Beachwear só têm troca ou devolução por defeito de fabricação.",
+        "Posso trocar a cueca da Insider se errar o tamanho? A política comercial da loja não oferece troca por tamanho de underwear e beachwear. Sobre arrependimento de compra online, consulte o atendimento.",
         "Quanto tempo tenho para trocar uma camiseta que não serviu? Até 21 dias corridos depois do recebimento, com a peça sem uso, com etiqueta e sem sinais de lavagem, e a troca é gratuita.",
         "O Provador Virtual da Insider acerta o tamanho? A própria marca diz que cada corpo é único e recomenda conferir a tabela de medidas da peça."
       ]

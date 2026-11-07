@@ -32,7 +32,7 @@
   ],
   "cons": [
     "O cupom não vale na loja física nem no Mercado Livre",
-    "Cueca, calcinha e undershirt só trocam por defeito",
+    "A política comercial restringe a troca por insatisfação de underwear e moda praia",
     "A marca não diz por quantas lavagens o antiodor dura"
   ],
   "contentSections": [
@@ -97,7 +97,7 @@
     {
       "heading": "Quanto custa de verdade",
       "paragraphs": [
-        "O cupom EMCASACOMCECILIA dá 15% sobre o preço de cada item na loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento. As regras do mês ficam na página do [cupom Insider](/cupons/insider)."
+        "O cupom EMCASACOMCECILIA dá 15% em itens elegíveis da loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento. Na tabela abaixo, a Daily não aceitou o código no teste. As regras do mês ficam na página do [cupom Insider](/cupons/insider)."
       ],
       "comparisonTable": {
         "caption": "Preço no cartão, 02/11. Com o cupom: conta nossa, com os 15% sobre o preço do site, antes do desconto do Pix.",
@@ -148,7 +148,7 @@
       "heading": "Onde comprar: site, loja física ou Mercado Livre",
       "paragraphs": [
         "O site é o único lugar onde o cupom vale, e é onde a troca é mais simples. Para quem quer ver a peça antes, a Concept Store fica no MorumbiShopping, em São Paulo. Lá o cupom e o cashback não valem, a compra acumula pontos de fidelidade para resgatar no site, e a troca é feita no mesmo canal da compra.",
-        "No Mercado Livre, a Insider tem [loja oficial](https://meli.la/12dWwH8), e vale o preço do anúncio, sem o cupom. Com o cupom, o site sai mais barato na maioria das peças; onde o Mercado Livre ganha está em [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site).",
+        "No Mercado Livre, a Insider tem [loja oficial](https://meli.la/12dWwH8), com o preço do anúncio e sem o cupom. Compare o total com frete nos dois canais; o guia [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site) mostra os critérios dessa escolha.",
         "O Outlet tem peças com desconto e grade curta: veja o [Outlet masculino](/reviews/outlet-insider-masculino-vale-a-pena) e o [Outlet feminino](/reviews/outlet-insider-feminino-vale-a-pena)."
       ]
     },
@@ -156,7 +156,7 @@
       "heading": "Troca, devolução e garantia",
       "paragraphs": [
         "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis e a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (se houver estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem. Defeito tem 180 dias, com fotos. Toda troca e devolução é gratuita.",
-        "Cueca, calcinha, undershirt e moda praia só trocam por defeito de fabricação. Nessas peças, acerte o tamanho antes, pela tabela de medidas."
+        "Na política comercial da Insider, underwear e moda praia têm troca só por defeito de fabricação. Antes de escolher o tamanho, compare as medidas da peça."
       ],
       "image": {
         "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
@@ -179,7 +179,7 @@
       "bullets": [
         "Vale para quem quer camiseta de modal com garantia de cor por escrito e troca sem custo, e topa pagar mais por isso.",
         "Não vale para quem quer gastar pouco por peça: mesmo com o cupom, a Tech passa de R$ 100.",
-        "Na cueca, escolha pelo uso, Comfort para o dia a dia e Performance para treino, e meça antes: underwear não troca por tamanho.",
+        "Na cueca, escolha pelo uso, Comfort para o dia a dia e Performance para treino, e compare as medidas antes de comprar: a troca por tamanho é restringida pela política comercial de underwear.",
         "Se você vai comprar na loja física ou no Mercado Livre, conte com o preço da etiqueta ou do anúncio, sem o cupom."
       ]
     },
@@ -194,7 +194,7 @@
         "Tech, Daily ou Core: qual é a diferença? A Tech é de modal; a Daily e a Core são de viscose, e a Core é mais encorpada, segundo a marca. O guia das camisetas compara as linhas.",
         "O cupom da Insider vale na loja física ou no Mercado Livre? Não: o EMCASACOMCECILIA vale só na loja online, um por pedido.",
         "A Insider tem frete grátis? Tem, a partir de R$ 399, calculado depois do desconto do cupom.",
-        "Dá para trocar cueca da Insider? Só em caso de defeito de fabricação, como calcinha, undershirt e moda praia.",
+        "Dá para trocar cueca da Insider? A política comercial restringe a troca de underwear e moda praia aos casos de defeito. O arrependimento em compras online é distinto da troca comercial; consulte também as regras aplicáveis à compra.",
         "A Insider tem loja física? Tem a Concept Store no MorumbiShopping, em São Paulo, onde o cupom não vale."
       ]
     }
@@ -214,7 +214,7 @@
     ],
     "skipIf": [
       "Você escolhe camiseta pelo menor preço: o que se paga a mais na Tech é a garantia de cor.",
-      "Você quer trocar cueca por tamanho: underwear só troca por defeito."
+      "Você depende de trocar cueca por tamanho: confira a restrição da política comercial de underwear antes de comprar."
     ]
   },
   "editorialNote": "Podemos receber comissão pela Insider. A Cecília comprou e usou a Blusa de Alça The Perfect Top; o resto vem das páginas da marca e do teste do cupom no checkout.",

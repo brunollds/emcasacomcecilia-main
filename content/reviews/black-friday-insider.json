@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Black Friday da Insider já está no ar, com até 50% OFF em itens selecionados. Guia da linha masculina: preços para comparar, o cupom EMCASACOMCECILIA e o prazo de Natal.",
-  "metaDescription": "Black Friday Insider 2026 masculino: o cupom EMCASACOMCECILIA dá 15% OFF e soma com até 50% OFF em itens selecionados. Tech T-Shirt, kits e cuecas.",
+  "description": "A Insider anunciou até 50% OFF em itens selecionados na Black Friday 2026. Compare preços históricos da linha masculina, o cupom EMCASACOMCECILIA e cuidados com o prazo de Natal.",
+  "metaDescription": "Black Friday Insider 2026: EMCASACOMCECILIA dá 15% OFF em itens elegíveis. Veja preços masculinos para comparar e as exceções do cupom.",
   "publishedAt": "10 de outubro de 2026",
   "publishedAtISO": "2026-10-10",
   "updatedAt": "2026-11-07",
@@ -76,19 +76,47 @@
       },
       "comparisonTable": {
         "caption": "Camisetas e kits na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
-        "headers": ["Produto", "Preço riscado", "Preço do dia"],
+        "headers": [
+          "Produto",
+          "Preço riscado",
+          "Preço do dia"
+        ],
         "rows": [
-          ["Tech T-Shirt, gola U masculina", "R$ 169", "R$ 129"],
-          ["Tech T-Shirt Gola V", "R$ 169", "R$ 129"],
-          ["Tech T-Shirt Manga Longa Masculina", "R$ 239", "R$ 199"],
-          ["Core T-Shirt", "R$ 189", "R$ 179 a R$ 189, conforme a cor"],
-          ["Kit 3 Tech T-Shirt, gola U", "R$ 507", "R$ 456"],
-          ["Kit 5 Core T-Shirt", "R$ 945", "R$ 805,50"]
+          [
+            "Tech T-Shirt, gola U masculina",
+            "R$ 169",
+            "R$ 129"
+          ],
+          [
+            "Tech T-Shirt Gola V",
+            "R$ 169",
+            "R$ 129"
+          ],
+          [
+            "Tech T-Shirt Manga Longa Masculina",
+            "R$ 239",
+            "R$ 199"
+          ],
+          [
+            "Core T-Shirt",
+            "R$ 189",
+            "R$ 179 a R$ 189, conforme a cor"
+          ],
+          [
+            "Kit 3 Tech T-Shirt, gola U",
+            "R$ 507",
+            "R$ 456"
+          ],
+          [
+            "Kit 5 Core T-Shirt",
+            "R$ 945",
+            "R$ 805,50"
+          ]
         ]
       },
       "postParagraphs": [
         "Compare o kit com a peça avulsa: no preço de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas, e a Tech T-Shirt Gola V saía a R$ 119 na promoção do dia; a conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa). Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
-        "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela. Os preços mudam ao longo da campanha: confira no site no dia."
+        "Use a tabela como referência histórica e compare a mesma peça, cor, tamanho e quantidade. Depois, confira o total com os descontos aplicáveis e o frete, porque o selo de promoção, sozinho, não mostra se a compra ficou mais barata. Os preços mudam ao longo da campanha: confira no site no dia."
       ]
     },
     {
@@ -104,12 +132,32 @@
       },
       "comparisonTable": {
         "caption": "Cuecas na Insider, na mesma leitura: preço riscado na página e preço do dia, antes do cupom e do Pix.",
-        "headers": ["Produto", "Preço riscado", "Preço do dia"],
+        "headers": [
+          "Produto",
+          "Preço riscado",
+          "Preço do dia"
+        ],
         "rows": [
-          ["Cueca Boxer Comfort", "R$ 85", "R$ 79"],
-          ["Kit 3 cuecas Boxer Comfort", "R$ 255", "R$ 229,89"],
-          ["Kit 5 cuecas Comfort", "R$ 425", "R$ 375,25"],
-          ["Cueca Boxer Performance", "R$ 95", "R$ 89"]
+          [
+            "Cueca Boxer Comfort",
+            "R$ 85",
+            "R$ 79"
+          ],
+          [
+            "Kit 3 cuecas Boxer Comfort",
+            "R$ 255",
+            "R$ 229,89"
+          ],
+          [
+            "Kit 5 cuecas Comfort",
+            "R$ 425",
+            "R$ 375,25"
+          ],
+          [
+            "Cueca Boxer Performance",
+            "R$ 95",
+            "R$ 89"
+          ]
         ]
       },
       "postParagraphs": [
@@ -120,7 +168,7 @@
       "heading": "Cupom, Pix e frete grátis: o que soma",
       "bullets": [
         "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
-        "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido e também oferece cupons da própria campanha: compare os 15% com o cupom da campanha da própria Insider antes de fechar o pedido.",
+        "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare o resultado dos 15% com as condições da campanha da própria Insider antes de pagar.",
         "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
         "**Lançamentos:** nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, mesmo com a etiqueta de lançamento, o desconto entra: no nosso teste, a Tech T-Shirt recebeu os 15%. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
         "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; confira o percentual no checkout. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
@@ -176,22 +224,62 @@
       "heading": "Entrega e prazo para o Natal",
       "paragraphs": [
         "A Insider não publica prazos por região: o carrinho mostra as opções de entrega depois do CEP, e o prazo começa a contar quando o pagamento é aprovado. A central de ajuda avisa que os prazos podem mudar em períodos de alta demanda, como a Black Friday.",
-        "Vale levar o aviso a sério: no Reclame Aqui, mais de dois terços das reclamações dos últimos 12 meses contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado.",
+        "Vale levar o aviso a sério: no Reclame Aqui, nos últimos 12 meses consultados, mais de dois terços das reclamações contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado. Isso serve de contexto para planejar a compra com folga, não como previsão do prazo do seu pedido.",
         "Simulamos no carrinho o frete de quatro Tech T-Shirts (R$ 516, acima do frete grátis) com o CEP do centro de 12 capitais. Somando um dia útil de folga ao prazo do frete grátis, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
       ],
       "comparisonTable": {
-        "caption": "Prazo do frete grátis no carrinho da Insider, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
-        "headers": ["Capital", "Frete grátis no carrinho", "Pagar até (estimativa, dia de dezembro)"],
+        "caption": "Simulação com quatro Tech T-Shirts e o CEP do centro de cada capital. As datas-limite são estimativas nossas, não garantia de entrega. Refaça a simulação com seu CEP e considere o prazo de aprovação do pagamento.",
+        "headers": [
+          "Capital",
+          "Frete grátis no carrinho",
+          "Pagar até (estimativa, dia de dezembro)"
+        ],
         "rows": [
-          ["São Paulo", "5 dias úteis", "16"],
-          ["Curitiba, Porto Alegre e Goiânia", "6 dias úteis", "15"],
-          ["Rio de Janeiro e Belo Horizonte", "7 dias úteis", "14"],
-          ["Brasília", "8 dias úteis", "11"],
-          ["Salvador", "9 dias úteis", "10"],
-          ["Fortaleza", "11 dias úteis", "8"],
-          ["Belém", "12 dias úteis", "7"],
-          ["Recife", "13 dias úteis", "4"],
-          ["Manaus", "19 dias úteis", "26 (novembro)"]
+          [
+            "São Paulo",
+            "5 dias úteis",
+            "16"
+          ],
+          [
+            "Curitiba, Porto Alegre e Goiânia",
+            "6 dias úteis",
+            "15"
+          ],
+          [
+            "Rio de Janeiro e Belo Horizonte",
+            "7 dias úteis",
+            "14"
+          ],
+          [
+            "Brasília",
+            "8 dias úteis",
+            "11"
+          ],
+          [
+            "Salvador",
+            "9 dias úteis",
+            "10"
+          ],
+          [
+            "Fortaleza",
+            "11 dias úteis",
+            "8"
+          ],
+          [
+            "Belém",
+            "12 dias úteis",
+            "7"
+          ],
+          [
+            "Recife",
+            "13 dias úteis",
+            "4"
+          ],
+          [
+            "Manaus",
+            "19 dias úteis",
+            "26 (novembro)"
+          ]
         ]
       },
       "postParagraphs": [
@@ -209,8 +297,8 @@
       "bullets": [
         "Quando começa e quanto dura a Black Friday da Insider? Já começou, com até 50% OFF em itens selecionados, em janelas curtas que mudam ao longo de novembro, até a última sexta-feira do mês, dia 27, e a Cyber Monday, na segunda seguinte. A loja não publicou data de fim.",
         "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
-        "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e no Outlet o desconto entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare os 15% com o cupom da campanha da própria Insider.",
-        "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
+        "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e no Outlet o desconto entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare o total com as condições da campanha antes de pagar.",
+        "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. No teste do fim de outubro, com o cupom EMCASACOMCECILIA, saiu por R$ 109,65. Esses valores são históricos: confira a peça e o desconto no carrinho de hoje.",
         "O kit de Tech T-Shirt compensa? Depende do dia e do kit. No preço de outubro, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas. Nos kits de cueca e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
         "A Insider tem desconto no Pix? Tem: em outubro, a loja anunciava desconto no Pix, que soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners, então confira no checkout.",
         "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",

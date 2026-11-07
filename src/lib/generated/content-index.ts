@@ -52873,7 +52873,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Sim, a Insider Store é confiável: CNPJ ativo, loja física, trocas sem custo e a melhor reputação do Reclame Aqui. O ponto de atenção é a entrega, onde estão as queixas.",
+    "description": "O que checamos sobre a Insider Store: CNPJ, loja física, trocas e reputação RA1000 no recorte de abril a setembro. Veja os cuidados com entrega e compra.",
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF no site da Insider. A loja é confiável? CNPJ, loja física em São Paulo, trocas, garantia, frete e Reclame Aqui.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
@@ -52885,7 +52885,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "CNPJ ativo desde novembro de 2016, o mesmo informado no rodapé do site e no Reclame Aqui",
-      "Reputação RA1000 e selo de empresa verificada no Reclame Aqui",
+      "Reputação RA1000 no recorte abril a setembro e selo de empresa verificada",
       "Troca e devolução gratuitas, com 21 dias para troca por insatisfação",
       "180 dias para acionar defeito e garantia de 2 anos contra desbotamento da Tech T-Shirt",
       "Políticas de troca, frete e pagamento publicadas e atualizadas no site",
@@ -52893,8 +52893,8 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "Atendimento só por WhatsApp, de segunda a sexta, das 9h às 18h",
-      "Produto não recebido é o problema mais citado no Reclame Aqui",
-      "Underwear e beachwear só têm troca em caso de defeito",
+      "No histórico de até 3 anos do Reclame Aqui, produto não recebido é o problema mais citado",
+      "Pela política da loja, underwear e beachwear só têm troca aceita em caso de defeito",
       "A troca direta é só pelo mesmo modelo, mudando cor ou tamanho",
       "Cupons e cashback valem só no site, não na loja física",
       "Preço acima do de camisetas básicas de algodão"
@@ -52903,7 +52903,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Insider Store é confiável: tem CNPJ ativo, trocas e devoluções sem custo e a reputação mais alta do Reclame Aqui. O ponto de atenção é a entrega, onde está a maioria das reclamações. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Os dados consultados apontam uma loja identificável: CNPJ ativo desde 2016, trocas e devoluções sem custo e reputação RA1000 no Reclame Aqui no recorte de abril a setembro. O principal ponto de atenção é a entrega, que concentra a maioria das queixas. No site oficial, o cupom [EMCASACOMCECILIA](/cupons/insider) dá 15% em itens elegíveis, exceto lançamentos."
         ]
       },
       {
@@ -52952,7 +52952,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A própria marca diz que opera desde 2017, passou de 800 mil clientes e cita Shark Tank, Y Combinator e Forbes no histórico. A Insider também afirma que as peças são criadas e desenvolvidas em São Paulo e que entrega em todo o Brasil e no exterior. São informações institucionais da empresa; o que conferimos de forma independente foram os dados do CNPJ acima.",
+          "A marca diz que opera desde 2017, passou de 800 mil clientes e cita Y Combinator e Forbes no histórico. Também afirma que as peças são criadas em São Paulo e que entrega em todo o Brasil e no exterior. São informações da própria empresa; a checagem independente cobriu o CNPJ.",
           "Além da loja para o consumidor, a marca tem a Insider Business, uma frente de vendas para empresas, com uniformes, kits de boas-vindas para funcionários e brindes corporativos."
         ]
       },
@@ -52967,7 +52967,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Insider vende",
         "paragraphs": [
-          "O produto mais conhecido é a **Tech T-Shirt**, a original desde 2019 na versão da marca, em modelo masculino e feminino. O tecido promete tratamento antiodor e desamassar com o calor do corpo. No dia da nossa checagem, a peça avulsa custava R$ 129 no site, e várias camisetas também são vendidas em kits de 2, 3 ou 5 unidades.",
+          "O produto mais conhecido é a Tech T-Shirt, apresentada pela marca como a original desde 2019, em modelos masculino e feminino. A Insider promete tratamento antiodor e que o tecido desamassa com o calor do corpo. No dia da nossa checagem, a avulsa custava R$ 129 no site. Há também kits de 2, 3 ou 5 camisetas; confira o preço e a composição atuais antes de comparar.",
           "A loja vai além das camisetas. Há a **Undershirt Antissuor**, feita para usar por baixo da camisa social, nas versões Leve, Moderado e Block (para quem sua mais), cuecas das linhas Comfort e Performance, roupas esportivas, como a Performance T-Shirt 2.0, com a tecnologia Outlast de regulação térmica, e uma linha feminina com tops, leggings e saias.",
           "Na página de sustentabilidade, a marca afirma produção 100% nacional e Tech T-Shirt carbono negativa."
         ],
@@ -52979,13 +52979,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e garantia",
         "paragraphs": [
-          "Este é o ponto em que a Insider se sai melhor do que o mínimo exigido por lei. Pela política de troca e devolução e pela central de ajuda, os prazos dependem do motivo:"
+          "A política de trocas e a central de ajuda da Insider publicam prazos diferentes por motivo:"
         ],
         "bullets": [
           "Arrependimento: até 7 dias úteis após o recebimento, com o produto sem uso e etiqueta intacta.",
           "Insatisfação com tamanho, cor ou modelo: até 21 dias corridos após o recebimento, sem uso, com etiqueta e sem sinais de lavagem.",
           "Defeito: até 180 dias corridos após o recebimento, com fotos que mostrem o problema.",
-          "Underwear e beachwear: troca ou devolução só em caso de defeito de fabricação, por questão de higiene.",
+          "Underwear e beachwear: a política da Insider restringe trocas e devoluções dessas linhas a defeito de fabricação, por questão de higiene. Se a loja recusar um arrependimento da compra online, peça a justificativa por escrito.",
           "Brindes: não são trocados nem devolvidos separadamente, e voltam junto se o pedido inteiro for devolvido."
         ],
         "postParagraphs": [
@@ -52997,7 +52997,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazos e formas de pagamento",
         "paragraphs": [
-          "Pela política de frete do site, a entrega é grátis em compras acima de R$ 399, valor conferido depois dos descontos. Conta nossa, sem desconto nenhum: 3 Tech T-Shirts avulsas (3 x R$ 129 = R$ 387) ficam R$ 12 abaixo do frete grátis; confira no carrinho se o kit ou uma quarta peça compensam mais que o frete.",
+          "Na política e no carrinho, o frete grátis era oferecido acima de R$ 399, após descontos, no dia da nossa checagem. Com a Tech T-Shirt a R$ 129, três avulsas somavam R$ 387, R$ 12 abaixo dessa faixa. Para comprar hoje, compare o total das peças que você precisa com o frete e os descontos; uma peça extra só para atingir a faixa pode custar mais que a entrega.",
           "Os termos de uso listam como formas de pagamento o Pix à vista, o Pix parcelado em até 4 vezes sem juros (pela Pagaleve), o cartão de crédito em até 3 vezes sem juros ou de 4 a 10 vezes com juros, e o boleto à vista. Alguns produtos aparecem como compra antecipada, com envio a partir de uma data futura indicada no carrinho; nesse caso, o prazo de entrega é maior que o normal."
         ]
       },
@@ -53005,15 +53005,15 @@ export const reviewsData: unknown[] = [
         "heading": "A Insider tem loja física?",
         "paragraphs": [
           "Tem. A loja fica no **MorumbiShopping**, em São Paulo (Av. Roque Petroni Júnior, 1089, lojas 108/109-S, piso superior). A provisória que funcionava ali encerrou, diz a central de ajuda, e a nova Concept Store abre de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
-          "É uma boa opção para quem quer provar antes de comprar, principalmente as peças de underwear, que não têm troca por tamanho. A loja aceita Pix, dinheiro e cartão de débito ou crédito, com parcelamento em até 3 vezes sem juros, e emite nota fiscal na hora.",
+          "A loja física permite provar as peças antes de comprar, o que pode ajudar na escolha do tamanho. A central informa que aceita Pix, dinheiro e cartão de débito ou crédito, com parcelamento em até 3 vezes sem juros, e emite nota fiscal na hora.",
           "Alguns detalhes funcionam de outro jeito na loja física. Os cupons de desconto e o cashback são exclusivos do site, então o EMCASACOMCECILIA não vale lá; as compras presenciais acumulam pontos no programa de fidelidade da marca, mas o resgate é feito pelo site. Não dá para retirar na loja um pedido feito online, e a troca precisa ser feita no mesmo canal da compra. Para quem compra na loja, a central informa 7 dias para devolução por arrependimento e 30 dias para troca por insatisfação."
         ]
       },
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Na página da Insider Store no Reclame Aqui, a empresa tem a reputação **RA1000**, a mais alta da plataforma, e o selo de empresa verificada. Nos seis meses de 1º de abril a 30 de setembro de 2026, foram 1.593 reclamações, com 99,4% respondidas e 92,6% resolvidas, e tempo médio de resposta de 2 dias e 3 horas. A nota geral da empresa no período é 9,0; a nota média dada pelos consumidores que avaliaram o atendimento ficou em 8,27, e 86% deles disseram que voltariam a fazer negócio com a loja.",
-          "Os números não significam ausência de problemas. Nos registros dos últimos três anos, **produto não recebido** é o problema mais citado, e camisetas são o produto com mais reclamações. Entre as queixas mais recentes há relatos de peças que rasgaram nas primeiras lavagens e de pedidos cancelados depois da compra, todas já respondidas pela empresa. O que a reputação mostra é que, quando algo dá errado, a Insider costuma responder e resolver."
+          "Na consulta de 05/10/2026 ao Reclame Aqui, a Insider tinha reputação RA1000, a classificação mais alta da plataforma, e selo de empresa verificada. No recorte de abril a setembro, foram 1.593 reclamações, 99,4% respondidas e tempo médio de resposta de 2 dias e 3 horas. Entre as 994 avaliadas, 92,6% foram marcadas como resolvidas e 86% dos consumidores disseram que voltariam a fazer negócio. A nota geral era 9,0 e a nota média dos avaliadores, 8,27.",
+          "Os números não significam ausência de problemas. No histórico de até três anos, produto não recebido era o problema mais citado, e camisetas eram o produto com mais reclamações. Entre os relatos recentes lidos naquela consulta havia peças que rasgaram nas primeiras lavagens e pedidos cancelados após a compra, com resposta da empresa. Esse recorte ajuda a avaliar o pós-venda; não garante a solução de todo pedido novo."
         ],
         "links": [
           {
@@ -53026,7 +53026,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que eu observaria antes de comprar",
         "bullets": [
           "Confira se está em insiderstore.com.br antes de digitar qualquer dado de pagamento.",
-          "Se estiver em dúvida entre dois tamanhos, confira o Guia de medidas da página do produto antes de pedir, principalmente em cuecas, calcinhas e moda praia, que só trocam por defeito.",
+          "Se estiver em dúvida entre tamanhos, confira o guia de medidas do produto. Isso é especialmente importante nas linhas underwear e beachwear, para as quais a política restringe trocas.",
           "Experimente a peça sem tirar a etiqueta. Sem ela, a troca por insatisfação não é aceita.",
           "Acompanhe o rastreio e, se o pedido atrasar, chame o atendimento pelo WhatsApp logo, sem esperar o prazo de troca acabar.",
           "Na Tech T-Shirt, siga a etiqueta de lavagem: é a condição da garantia de 2 anos contra desbotamento.",
@@ -53041,6 +53041,10 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
+            "label": "Ver regras e validade do cupom Insider EMCASACOMCECILIA",
+            "href": "/cupons/insider"
+          },
+          {
             "label": "Abrir a Insider com o cupom aplicado",
             "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
             "sponsored": true
@@ -53054,21 +53058,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar na Insider Store?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim. A empresa existe há quase dez anos com o mesmo CNPJ, publica suas regras com clareza, faz troca e devolução sem custo e mantém a reputação máxima no Reclame Aqui, respondendo a praticamente todas as reclamações. Agora, com a loja no MorumbiShopping, também dá para ver e provar as peças antes de decidir.",
-          "Os cuidados ficam por conta da entrega, que concentra boa parte das reclamações, e das regras de higiene, que impedem a troca de underwear por tamanho. Também vale ter em mente que a proposta da marca é pagar mais por peças básicas que durem e exijam menos cuidado; se o que você procura é a camiseta mais barata possível, a Insider não é a loja para isso."
+          "Os registros consultados sustentam uma avaliação favorável da confiança: empresa identificada por CNPJ, políticas publicadas, troca e devolução sem custo segundo a loja e reputação RA1000 no recorte de abril a setembro. A Concept Store no MorumbiShopping também permite ver e provar as peças antes de decidir. Confira o perfil e as regras atualizadas no dia da compra.",
+          "Os cuidados estão no prazo de entrega, nos relatos recentes e nas condições de troca da peça escolhida. Compare o preço final com o que você procura e confira a etiqueta e o guia de medidas."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Insider Store é confiável? Sim. A empresa tem CNPJ ativo desde 2016, publica suas políticas no site, oferece troca e devolução gratuitas e tem reputação RA1000 no Reclame Aqui, a mais alta da plataforma.",
+          "A Insider Store é confiável? Os registros consultados mostram CNPJ ativo e políticas publicadas. No recorte abril a setembro, a empresa tinha reputação RA1000 no Reclame Aqui. A central de ajuda informa troca e devolução gratuitas, com condições por produto e motivo. Isso ajuda a decidir, sem garantir a experiência de cada pedido.",
           "Qual é o CNPJ da Insider Store? É 26.520.188/0001-92, da Insider Comércio e Confecção de Peças do Vestuário Ltda., com sede em São Paulo.",
           "Qual é o site oficial da Insider? É insiderstore.com.br. A central de ajuda fica em suporte.insiderstore.com.br.",
           "A Insider tem loja física? Sim, no MorumbiShopping, em São Paulo. A nova Concept Store abre ao público de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
           "Como falar com a Insider? Pelo WhatsApp, que é o canal oficial de atendimento, de segunda a sexta, das 9h às 18h. O link fica na central de ajuda do site.",
           "A troca na Insider é grátis? Sim. Segundo a central de ajuda, a troca e a devolução são gratuitas, com código de postagem nos Correios, armário inteligente ou coleta em casa.",
           "Quanto tempo tenho para trocar na Insider? São 7 dias úteis para arrependimento, 21 dias corridos para insatisfação com tamanho, cor ou modelo, e 180 dias para defeito, sempre contados a partir do recebimento.",
-          "Posso trocar cueca ou calcinha da Insider? Só em caso de defeito de fabricação. Por higiene, underwear e beachwear não têm troca por tamanho ou arrependimento.",
+          "Posso trocar cueca ou calcinha da Insider? Pela política da loja, underwear e beachwear só são trocados em caso de defeito de fabricação, por higiene.",
           "Como lavar a Tech T-Shirt? No ciclo delicado em até 30 °C, com sabão neutro, sem alvejante nem amaciante, secando à sombra e sem secadora. Seguir a etiqueta é condição da garantia de 2 anos contra desbotamento.",
           "A Insider tem vagas de emprego? Sim. A marca divulga as vagas abertas na plataforma InHire (insiderstore.inhire.app) e no LinkedIn, e conta como é trabalhar na empresa em jobs.insiderstore.com.br.",
           "O que é a Insider Business? É a frente de vendas da Insider para empresas, com uniformes, kits para funcionários e brindes corporativos. O contato é feito por um formulário no site.",
@@ -53110,8 +53114,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. Veja o que mais gera queixa e os dois alertas recentes.",
-    "metaDescription": "Insider Store no Reclame Aqui, com o cupom EMCASACOMCECILIA de 15% OFF: RA1000, nota 9,0 e 92,6% de solução, as queixas e como a loja responde.",
+    "description": "A Insider tinha RA1000 no recorte de abril a setembro. Veja as queixas mais citadas, os alertas recentes e os limites desses dados para decidir uma compra.",
+    "metaDescription": "EMCASACOMCECILIA dá 15% nos elegíveis. Insider no Reclame Aqui: nota 9,0 e 92,6% de solução entre avaliadas, no recorte abr–set/2026.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "draft": false,
@@ -53122,16 +53126,16 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "Reputação RA1000 em todos os períodos do perfil: 6 meses, 12 meses, 2025, 2024 e geral",
-      "99,4% das reclamações respondidas nos últimos 6 meses",
-      "92,6% das reclamações avaliadas foram consideradas resolvidas",
-      "Tempo médio de resposta de 2 dias e 3 horas nos últimos 6 meses",
-      "86% de quem avaliou o atendimento voltaria a fazer negócio",
+      "99,4% das reclamações respondidas no recorte de abril a setembro",
+      "92,6% das 994 reclamações avaliadas consideradas resolvidas no recorte de abril a setembro",
+      "Resposta média de 2 dias e 3 horas no recorte de abril a setembro",
+      "86% de quem avaliou no recorte de abril a setembro disseram que voltariam a fazer negócio",
       "9º lugar no ranking de melhores empresas de e-commerce de moda do Reclame Aqui"
     ],
     "cons": [
       "Produto não recebido e atraso na entrega somam mais de 4.600 reclamações em três anos",
       "Má qualidade e defeito aparecem em quase 2.500 reclamações no mesmo período",
-      "O semestre de Black Friday e Natal concentrou mais de dois terços das queixas do último ano",
+      "O semestre de outubro a março concentrou mais de dois terços dos registros do recorte anual; isso não mede risco por pedido",
       "Respostas sobre peças rasgadas citam os 90 dias do CDC, prazo menor que o da política da loja",
       "Pedidos feitos com um cupom vazado em sites de cupons foram cancelados",
       "Fora do Reclame Aqui, o atendimento é só por WhatsApp, em dias úteis"
@@ -53140,7 +53144,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. A entrega é o problema que mais se repete, e há alertas recentes de cupom vazado e golpe. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "No recorte de abril a setembro, a Insider tinha reputação RA1000 e nota 9,0, com 99,4% das reclamações respondidas e 92,6% resolvidas entre as avaliadas. A entrega é o tema mais citado nas queixas, e o cupom EMCASACOMCECILIA dá 15% nos itens elegíveis no site."
         ]
       },
       {
@@ -53173,7 +53177,7 @@ export const reviewsData: unknown[] = [
             [
               "Reputação",
               "RA1000 — nota 9,0/10",
-              "Combinação dos quatro índices abaixo, com pesos definidos pelo Reclame Aqui"
+              "A nota usa quatro indicadores ponderados; o selo RA1000 tem critérios adicionais definidos pela plataforma"
             ],
             [
               "Reclamações recebidas",
@@ -53208,7 +53212,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A nota 9,0 bate com a fórmula pública do Reclame Aqui, que dá peso 2 ao índice de resposta e à intenção de voltar a fazer negócio, e peso 3 ao índice de solução e à nota do consumidor. Ou seja, o que mais pesa é se o problema foi resolvido e como o cliente avaliou o atendimento, não só se a empresa respondeu.",
+          "A nota 9,0 confere com a fórmula pública: peso 2 para resposta e intenção de voltar a fazer negócio, peso 3 para solução e nota do consumidor. O selo RA1000 tem critérios adicionais; a nota isolada não basta para atribuí-lo.",
           "Também vale entender que as porcentagens de solução e de recompra saem só das reclamações avaliadas, que foram 994 das 1.593. Quem não volta ao site para avaliar não entra nessa conta."
         ],
         "links": [
@@ -53287,7 +53291,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A reputação ficou no nível máximo em todos os períodos, mas a tabela mostra duas coisas. A primeira é o volume: as reclamações passaram de 3.826 em 2024 para 5.637 em 2025, sem queda nos índices de solução, que ficaram acima de 94% nos dois anos. O atendimento também ficou mais rápido: o tempo médio de resposta caiu de 4 dias e 10 horas em 2024 para 2 dias e 3 horas no último semestre.",
-          "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, só 1.593 são do semestre mais recente; as outras cerca de 3.400, mais de dois terços, vieram de outubro a março, o período que inclui Black Friday e Natal. Fazendo a conta com os números do perfil, a nota média dada pelos consumidores nesse semestre de pico ficou em torno de 7,7, abaixo dos 8,27 do semestre seguinte. Na prática, quem compra nas grandes datas tem mais chance de enfrentar atraso e uma fila maior no atendimento."
+          "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, 1.593 eram do semestre de abril a setembro. As outras 3.420 são do semestre anterior, que inclui Black Friday e Natal. Isso mostra concentração de registros, não a chance de atraso de quem comprou."
         ]
       },
       {
@@ -53318,22 +53322,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Insider responde às reclamações",
         "paragraphs": [
-          "Nas reclamações mais recentes que lemos, as respostas chegaram em menos de dois dias, assinadas por uma pessoa da equipe de atendimento, a Customer Happiness Team, e não por uma mensagem genérica. O padrão é parecido: a empresa diz que analisou o caso, que enviou a solução para o e-mail de cadastro do cliente e pede para conferir também a caixa de spam. Por isso, quem reclama precisa acompanhar o e-mail, não só a página do Reclame Aqui.",
-          "Em um caso de camiseta com a costura aberta, a resposta informou que o cliente não precisaria devolver a peça. Nas reclamações sobre peças rasgadas, porém, a equipe citou o prazo de garantia legal do Código de Defesa do Consumidor, de 90 dias para vícios aparentes. A política de trocas publicada no site da Insider é mais generosa e fala em até 180 dias corridos para defeito. Se o seu problema aparecer depois de 90 dias, vale citar a política da própria loja ao pedir a solução.",
+          "No Reclame Aqui, as respostas chegaram em menos de dois dias, assinadas por uma pessoa da equipe de atendimento, a Customer Happiness Team, e não por uma mensagem genérica. O padrão é parecido: a empresa diz que analisou o caso, que enviou a solução para o e-mail de cadastro do cliente e pede para conferir também a caixa de spam. Por isso, quem reclama precisa acompanhar o e-mail, não só a página do Reclame Aqui.",
+          "Em um dos casos do Reclame Aqui, a empresa informou que o cliente não precisaria devolver a camiseta com costura aberta. Em respostas sobre peças rasgadas, a política comercial publicada prevê até 180 dias para defeito; vale citá-la ao pedir a solução.",
           "A página da empresa no Reclame Aqui informa um tempo de resposta de até 3 dias úteis, em linha com a média de 2 dias e 3 horas registrada nos últimos seis meses."
         ]
       },
       {
         "heading": "Alerta 1: cupons vazados e pedidos cancelados",
         "paragraphs": [
-          "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom pessoal de R$ 250, criado para um grupo específico de clientes e vazado em sites de cupons sem autorização. A empresa diz que todos esses pedidos foram cancelados e os valores, estornados.",
+          "No Reclame Aqui, há relatos de clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom pessoal de R$ 250, criado para um grupo específico de clientes e vazado em sites de cupons sem autorização. A empresa diz que todos esses pedidos foram cancelados e os valores, estornados.",
           "A Insider afirmou ainda que as promoções oficiais são divulgadas nos próprios canais da marca: site, e-mails da Insider e redes sociais verificadas. A lição é simples: desconfie de cupons com desconto alto demais encontrados em sites de cupons, porque o pedido pode ser cancelado depois de pago. O EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado."
         ]
       },
       {
         "heading": "Alerta 2: mensagens de golpe em nome da Insider",
         "paragraphs": [
-          "Também há reclamações recentes de clientes que dizem ter recebido mensagens suspeitas pelo WhatsApp, com dados pessoais, depois de comprar ou tentar comprar na loja. Na resposta, a Insider disse que a segurança dos dados é prioridade, que os comunicados oficiais saem só dos domínios verificados da marca e que a empresa não pede pagamentos inesperados.",
+          "No Reclame Aqui, também há relatos de clientes que dizem ter recebido mensagens suspeitas pelo WhatsApp, com dados pessoais, depois de comprar ou tentar comprar na loja. Na resposta, a Insider disse que a segurança dos dados é prioridade, que os comunicados oficiais saem só dos domínios verificados da marca e que a empresa não pede pagamentos inesperados.",
           "Se receber uma cobrança ou um link em nome da Insider fora do esperado, não pague e não clique. Confira o status do pedido entrando você mesmo em insiderstore.com.br e, em caso de dúvida, fale com o atendimento oficial."
         ]
       },
@@ -53344,7 +53348,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Fale primeiro com a Insider pelo WhatsApp, o canal oficial de atendimento, de segunda a sexta, das 9h às 18h. Tenha em mãos o número do pedido, no formato IN-XXXXX.",
-          "Para troca ou devolução, use o Portal de Trocas dentro dos prazos: 7 dias úteis para arrependimento, 21 dias corridos para insatisfação e 180 dias para defeito. Underwear e beachwear só têm troca por defeito.",
+          "Para troca ou devolução, consulte o Portal de Trocas. A central de ajuda informava 7 dias úteis para desistência, 21 dias corridos por insatisfação e 180 dias por defeito; underwear e beachwear tinham restrição comercial de troca por defeito. Essas regras não eliminam o direito legal de arrependimento online de 7 dias corridos a partir do recebimento.",
           "Em caso de defeito, fotografe a peça e a etiqueta. O portal pede pelo menos duas imagens.",
           "Se o pedido não chegar, acompanhe o rastreio e acione o atendimento assim que o prazo vencer, sem esperar semanas.",
           "Se o atendimento direto não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro na plataforma. Depois da resposta, avalie a solução: é essa avaliação que alimenta os índices de solução e de recompra."
@@ -53375,27 +53379,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para comprar na Insider?",
         "paragraphs": [
-          "Pelos dados do Reclame Aqui, sim. A Insider Store tem reputação RA1000, nota 9,0 nos últimos seis meses, 99,4% das reclamações respondidas, 92,6% resolvidas e 86% de quem avaliou dizendo que voltaria a comprar.",
-          "O ponto de atenção é a entrega, que lidera as reclamações, e os dois alertas recentes: o cupom pessoal vazado, que leva ao cancelamento do pedido, e as mensagens de golpe em nome da marca. Com o pedido acompanhado pelo rastreio e o WhatsApp oficial como primeiro canal, o risco de ficar sem resposta é baixo."
+          "Os indicadores consultados mostram um histórico favorável de atendimento: no recorte de abril a setembro, a Insider tinha RA1000, nota 9,0 e 92,6% de solução entre as 994 reclamações avaliadas. Esses dados sustentam a avaliação do pós-venda, sem garantir entrega ou resposta para um pedido específico.",
+          "A entrega merece atenção porque liderava os motivos de queixa consultados. Os casos de cupom pessoal vazado e mensagens suspeitas aparecem nas reclamações do Reclame Aqui, com a explicação atribuída à empresa. Para uma compra nova, confira prazo, acompanhe o rastreio e use o atendimento oficial."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0 nos últimos seis meses (abril a setembro) e 8,7 nos últimos 12 meses.",
-          "A Insider Store é confiável segundo o Reclame Aqui? Os dados indicam que sim: a empresa respondeu 99,4% das reclamações dos últimos seis meses, resolveu 92,6% das avaliadas e mantém a reputação máxima em todos os períodos do perfil.",
+          "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0/10 no semestre de abril a setembro e 8,7 nos últimos 12 meses.",
+          "A Insider Store é confiável segundo o Reclame Aqui? O recorte de abril a setembro mostrava 99,4% de resposta e 92,6% de solução entre as 994 avaliadas. É um histórico favorável de atendimento, sem garantir o resultado de uma compra.",
           "Qual é a reclamação mais comum contra a Insider? Produto não recebido, com 2.745 reclamações em três anos, seguido de atraso na entrega, com 1.933.",
-          "Quanto tempo a Insider demora para responder no Reclame Aqui? A média dos últimos seis meses foi de 2 dias e 3 horas. A própria empresa informa um prazo de até 3 dias úteis.",
+          "Quanto tempo a Insider demora para responder no Reclame Aqui? No recorte de abril a setembro, a média era de 2 dias e 3 horas. O perfil também informava até 3 dias úteis.",
           "Por que a Insider cancelou meu pedido feito com cupom? No fim de setembro, a Insider cancelou e estornou pedidos feitos com um cupom pessoal de R$ 250 que vazou em sites de cupons. Segundo a empresa, as promoções oficiais saem só nos canais da marca.",
           "A Insider vende roupa que desbota? A categoria \"desbotou\" tem apenas 9 reclamações em três anos no Reclame Aqui. A Tech T-Shirt tem garantia de 2 anos contra desbotamento, desde que a etiqueta de lavagem seja seguida.",
           "Como reclamar da Insider? Comece pelo WhatsApp oficial da loja, em dias úteis, das 9h às 18h. Se não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro, e acompanhe a resposta também pelo e-mail.",
-          "Qual é o prazo de garantia para defeito na Insider? A política de trocas da loja dá até 180 dias corridos após o recebimento para defeito, com envio de fotos. Em algumas respostas, a equipe citou o prazo legal de 90 dias do CDC.",
-          "O cupom EMCASACOMCECILIA pode ser cancelado como os cupons vazados? Não há motivo para isso: o EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado. Ele vale no site, e só um cupom entra por pedido."
+          "Qual é o prazo de garantia para defeito na Insider? A política de trocas da loja dá até 180 dias corridos após o recebimento para defeito, com envio de fotos.",
+          "O EMCASACOMCECILIA é um cupom vazado? Não: é o código divulgado pela nossa parceria de creator com a Insider. Isso não garante aceitação em qualquer produto ou campanha. Confira os itens elegíveis e a linha de desconto no carrinho; vale um cupom por pedido."
         ]
       }
     ],
     "cta": {
-      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai aplicado no carrinho.",
+      "text": "Entre pelo link da parceria e confira se o EMCASACOMCECILIA aplicou 15% nos itens elegíveis. Veja o desconto e o prazo de entrega antes de pagar.",
       "label": "Ir para a Insider com o cupom",
       "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
       "sponsored": true
@@ -53448,7 +53452,7 @@ export const reviewsData: unknown[] = [
       "Pode não entrar nos primeiros dias de um lançamento e não vale nas lojas físicas",
       "A loja aceita um cupom por pedido",
       "O frete grátis depende do valor do pedido depois do desconto",
-      "Underwear e beachwear só têm troca em caso de defeito"
+      "A política comercial restringe trocas de underwear e beachwear a defeito; confira medidas e a orientação de arrependimento abaixo"
     ],
     "contentSections": [
       {
@@ -53460,10 +53464,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom EMCASACOMCECILIA",
         "paragraphs": [
-          "A Insider é uma marca brasileira de roupas com tecnologia têxtil, conhecida pela Tech T-Shirt, a camiseta de modal que a própria marca chama de \"a original desde 2019\". Ela vende camisetas, underwear, roupas esportivas, peças femininas e acessórios principalmente pelo site, o insiderstore.com.br.",
-          "O **EMCASACOMCECILIA** é o cupom de creator do Em Casa com Cecília dentro do Insider Creators Club, o programa de parcerias da marca, administrado pela plataforma Inbazz. Na prática, é um código exclusivo, ligado ao nosso perfil: quando você compra com ele, a Insider identifica que a venda veio daqui e o blog recebe uma comissão, sem nenhum custo extra para você.",
-          "O desconto é de **15% OFF** sobre o preço de cada produto elegível, sem valor mínimo de pedido. No nosso teste, uma Core T-Shirt de R$ 189,00 saiu por R$ 160,65, uma economia de R$ 28,35. O checkout da Insider mostra a conta com clareza: cada produto ganha uma linha **Código de desconto** com o valor abatido em reais, e o rodapé do resumo mostra a **economia total** do pedido.",
-          "Conferir o carrinho também ajuda a separar o cupom verdadeiro dos que aparecem em sites agregadores. Quem pesquisa \"cupom insider\" encontra códigos com números no nome e promessas de desconto que nem sempre funcionam. O EMCASACOMCECILIA é o código entregue pela própria Insider para esta parceria, e o teste mais simples é o do carrinho: se ele for aceito, a linha do desconto aparece em cada item."
+          "O EMCASACOMCECILIA é o código de creator do Em Casa com Cecília e pode gerar comissão para o blog. Ele dá 15% OFF nos itens elegíveis da loja online. Você pode digitá-lo no checkout ou usar o link da parceria; nos dois casos, confira a linha do código em cada item antes de pagar."
         ],
         "links": [
           {
@@ -53476,7 +53477,7 @@ export const reviewsData: unknown[] = [
         "heading": "1. Entre na loja pelo link da parceria",
         "paragraphs": [
           "O caminho mais fácil começa pelo link da parceria, nos botões deste artigo. Ele abre a loja da Insider já com o EMCASACOMCECILIA carregado no carrinho e cai direto na seção de Outlet, onde ficam as peças com preço remarcado.",
-          "Você não precisa ficar no Outlet: dá para navegar por todas as categorias, como camisetas, underwear, roupas esportivas e a linha feminina, e o cupom continua na sessão. Use sempre o link completo, como ele está aqui: a Insider pede que o link da parceria não seja editado nem encurtado, porque é ele que identifica a origem da compra."
+          "Depois de abrir o Outlet, você pode navegar pelas outras categorias e montar o pedido. O código deve continuar na sessão, mas confirme a etiqueta EMCASACOMCECILIA e os valores no checkout."
         ],
         "links": [
           {
@@ -53490,7 +53491,7 @@ export const reviewsData: unknown[] = [
         "heading": "2. Escolha as peças e confira o tamanho",
         "paragraphs": [
           "Monte o carrinho com calma. Nas páginas de produto, a Insider tem um **Guia de medidas** para comparar as medidas do corpo com a tabela de cada modelo, o que ajuda bastante quando é a primeira compra na marca. A Tech T-Shirt, por exemplo, tem versão masculina e feminina, com modelagens diferentes, e várias peças são vendidas também em kits de 2, 3 ou 5 unidades.",
-          "Vale prestar atenção ao tipo de peça antes de fechar o pedido. Pela política de trocas da Insider, peças das linhas underwear e beachwear só podem ser trocadas ou devolvidas em caso de defeito comprovado, por questão de higiene. Então, se você está em dúvida entre dois tamanhos de cueca ou calcinha, confira o guia de medidas antes de comprar.",
+          "Confira o tamanho antes de comprar. A política da Insider limita trocas de underwear e beachwear a defeito, por questão de higiene; a seção de troca abaixo traz os prazos gerais.",
           "Com o carrinho pronto, siga para o checkout. Ele é dividido em quatro etapas (Carrinho, Informações, Frete e Pagamento) e, no computador, o resumo do pedido fica à direita, com os produtos, as variações escolhidas e o campo do cupom logo abaixo da lista."
         ],
         "image": "/images/reviews/insider/insider-passo-2-checkout.webp",
@@ -53515,8 +53516,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confira o desconto em cada item antes de pagar",
         "paragraphs": [
-          "Quando o cupom é aceito, aparece a mensagem **Melhor desconto ativado**, avisando que o cupom está ativo e com o melhor desconto disponível. O código fica numa etiqueta logo abaixo do campo; o **×** ao lado dela remove o cupom, caso você queira usar outro no lugar, já que a Insider aceita só um por pedido.",
-          "Em seguida, cada produto do resumo mostra a linha **Código de desconto — EMCASACOMCECILIA**, com o valor abatido, o preço original e o preço com desconto, 15% menor. Na Core T-Shirt do nosso teste, o preço passou de R$ 189,00 para R$ 160,65, com R$ 28,35 de desconto. No fim do resumo aparece a **economia total** do pedido. Se algum item ficar sem essa linha, é porque ele não entra no cupom, como pode acontecer nos primeiros dias de um lançamento.",
+          "Quando o código é aceito, o checkout pode exibir “Melhor desconto ativado”. Confira também a etiqueta EMCASACOMCECILIA abaixo do campo e a linha de desconto de cada item. O × ao lado da etiqueta remove o código; a loja aceita um cupom por pedido.",
+          "No teste de outubro, cada item elegível mostrou “Código de desconto — EMCASACOMCECILIA” e o valor abatido. A Core T-Shirt passou de R$ 189,00 para R$ 160,65, economia de R$ 28,35. Se algum produto não mostrar a linha do código, não conte com o desconto nele: confira as condições daquele item e a mensagem do checkout.",
           "Depois disso, é só preencher os dados de entrega e escolher o pagamento. Pelos termos de uso da loja, as opções são Pix à vista, Pix parcelado em até 4 vezes sem juros, cartão de crédito em até 3 vezes sem juros (ou de 4 a 10 vezes com juros) e boleto à vista."
         ],
         "image": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
@@ -53530,13 +53531,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, pode não entrar nos primeiros dias de um **lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
           "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout dias depois.",
-          "Num vestido marcado como lançamento, o cupom não deu desconto. Já peças com a mesma etiqueta, como a Tech T-Shirt e os sutiãs Nakedfeel do Outlet, receberam o desconto normalmente: em geral, o lançamento fica fora do cupom só nos primeiros dias. O jeito seguro de saber é o resumo do pedido, que mostra item por item o que entrou no cupom."
+          "No teste, um vestido com etiqueta de lançamento ficou sem desconto, enquanto Tech T-Shirt e sutiãs Nakedfeel do Outlet receberam o cupom apesar da mesma etiqueta. Portanto, a etiqueta sozinha não decide: confira a linha do código de cada item."
         ],
         "bullets": [
           "**Vale:** loja online da Insider, inclusive Outlet, kits e peças com preço promocional.",
           "**Não vale:** compras nas lojas físicas. Em lançamento, pode não entrar nos primeiros dias.",
           "**Não soma:** com outro cupom no mesmo pedido.",
-          "**Marketplaces:** o EMCASACOMCECILIA é usado no checkout do site da Insider; em outras lojas e marketplaces o código não se aplica."
+          "**Marketplaces:** o EMCASACOMCECILIA é usado no checkout do site da Insider; em outras lojas e marketplaces o código não se aplica.",
+          "**Gift card:** a página oficial informa que pedidos pagos com saldo do gift card não aceitam cupom. Isso é diferente de comprar o próprio cartão."
         ]
       },
       {
@@ -53551,7 +53553,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "Como o cupom entra em quase todo o catálogo online, a escolha depende mais da necessidade da casa do que da regra. Estas são as linhas mais procuradas da marca, com o que a própria Insider informa sobre cada uma:"
+          "Escolha as peças de que você precisa e confira os tamanhos. Alguns exemplos de linhas da Insider e o que a marca informa:"
         ],
         "comparisonTable": {
           "caption": "Linhas da Insider e o que a marca informa (site oficial)",
@@ -53566,7 +53568,7 @@ export const reviewsData: unknown[] = [
               "Tech T-Shirt (masculina e feminina)",
               "Camiseta básica do dia a dia, trabalho e viagem",
               "Tecido de modal com tecnologia antiodor, desamassa no corpo e tem garantia de 2 anos contra desbotamento",
-              "A garantia exige seguir a etiqueta: ciclo delicado, sem amaciante e secagem à sombra"
+              "A garantia antidesbotamento tem condições de compra e lavagem: confira os detalhes abaixo e a etiqueta"
             ],
             [
               "Kits de Tech T-Shirt",
@@ -53577,14 +53579,14 @@ export const reviewsData: unknown[] = [
             [
               "Undershirt Antissuor",
               "Usar por baixo de camisa social",
-              "Camada dupla nas axilas, em versões Leve, Moderado e Block, conforme o nível de transpiração",
-              "Escolha a versão pelo quanto você transpira"
+              "Leve, Moderado e Block têm propostas diferentes: o Moderado declara camada dupla nas axilas, o Block reforço impermeável e o Leve não declara esse reforço",
+              "Compare o reforço e as medidas do modelo; não presuma a mesma proteção nas três versões"
             ],
             [
               "Underwear (cuecas e calcinhas)",
               "Peças do dia a dia",
               "Modelos Comfort e Performance, vendidos avulsos ou em kits",
-              "Só tem troca em caso de defeito: confira o guia de medidas"
+              "Na política comercial da loja, a troca é restrita a defeito; confira medidas e a seção de arrependimento"
             ],
             [
               "Linha feminina",
@@ -53595,18 +53597,18 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Tech T-Shirt é o produto mais conhecido, e a garantia contra desbotamento é o argumento mais concreto: 2 anos, pelos termos da loja, se a lavagem seguir a etiqueta — ciclo delicado até 30 °C, sem molho, sem alvejante, sem amaciante e secagem à sombra.",
-          "Os kits costumam ser a forma mais econômica de comprar várias peças, porque o preço por unidade já é menor. Com o cupom por cima e o pedido acima de R$ 399, o frete também sai grátis."
+          "A Tech T-Shirt tem garantia anunciada de 2 anos contra desbotamento para peças compradas a partir de 06/09/2024, desde que seguidas as instruções da etiqueta e considerando uma lavagem por semana, segundo a página oficial.",
+          "Kit não é automaticamente mais barato que as peças avulsas. Compare o mesmo modelo, a quantidade, as cores e os tamanhos; depois confira o cupom e o frete do pedido."
         ],
         "image": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
         "imageAlt": "Foto oficial da Insider do kit com três cuecas boxer Comfort em azul-marinho e preto",
-        "imageCaption": "Kit de cuecas Boxer Comfort. Peças de underwear só têm troca em caso de defeito.",
+        "imageCaption": "Kit de cuecas Boxer Comfort. Confira medidas e as condições comerciais de troca antes de comprar.",
         "imageFit": "square"
       },
       {
         "heading": "Se precisar trocar uma peça comprada com cupom",
         "paragraphs": [
-          "Comprar com cupom não muda os seus direitos de troca. A política da Insider prevê troca por arrependimento em até 7 dias úteis, troca por insatisfação em até 21 dias corridos e troca por defeito em até 180 dias corridos, sempre contados do recebimento. Nas duas primeiras, a peça precisa estar nova, sem marcas de uso e com a etiqueta. A solicitação é feita pelo titular da compra, no portal de trocas da loja.",
+          "O cupom não altera os direitos de troca e devolução. A central da Insider informa 7 dias úteis para arrependimento, 21 dias corridos para insatisfação e 180 dias corridos para defeito, contados do recebimento. Nas duas primeiras, a peça precisa estar nova, sem marcas de uso e com a etiqueta. A solicitação é feita pelo titular da compra, no portal de trocas da loja.",
           "Na devolução, a Insider pode oferecer um cupom no lugar do estorno. Se você aceitar essa opção, ela não pode ser desfeita depois: o cupom vale por 6 meses, é de uso único e não se soma a outros descontos. Se preferir o dinheiro de volta, escolha o estorno no fluxo da devolução."
         ],
         "links": [
@@ -53641,8 +53643,8 @@ export const reviewsData: unknown[] = [
           "Quanto de desconto dá o cupom EMCASACOMCECILIA? 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Uma Core T-Shirt de R$ 189,00, por exemplo, sai por R$ 160,65. O desconto aparece em cada item do resumo do pedido assim que o cupom é aceito.",
           "Onde digito o cupom na Insider? No campo Cupom de desconto ou Gift Card do checkout, clicando em Aplicar. Pelo link da parceria, o cupom já vem aplicado.",
           "O cupom Insider vale no Outlet? Sim. No nosso teste, o desconto entrou em peça do Outlet e em kit com preço promocional.",
-          "O cupom vale para lançamentos? Nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, o desconto entra mesmo com a etiqueta de lançamento, e o resumo do pedido mostra quais itens o receberam.",
-          "O cupom Insider é cumulativo? Não. A loja aceita um cupom por pedido, e descontos de cupons diferentes não se somam.",
+          "O cupom vale para lançamentos? Pode ficar fora de alguns itens, especialmente no início de um lançamento. A etiqueta não decide sozinha: produtos com essa marcação receberam desconto no teste e outros não. Confira a linha do código por item.",
+          "O cupom Insider é cumulativo? Ele pode somar com preços promocionais elegíveis e com o Pix, conforme as condições da ação. O que não soma é outro cupom no mesmo pedido; a loja aceita apenas um código.",
           "Tem cupom Insider para primeira compra? Sim. O EMCASACOMCECILIA vale também na primeira compra, e a própria Insider envia um cupom de boas-vindas a quem cadastra o e-mail no pop-up do site. Quem foi indicado por um cliente pode ter ainda um cupom de R$ 150 em compras acima de R$ 399. Só um cupom entra no pedido, então compare os valores no carrinho.",
           "O cupom tem valor mínimo? Não. No nosso teste, os 15% entraram até numa meia de R$ 25 sozinha no carrinho.",
           "O cupom da Insider dá frete grátis? Não. O frete é grátis em compras acima de R$ 399, calculadas depois do desconto do cupom.",
@@ -55603,8 +55605,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Insider já está no ar, com até 50% OFF em itens selecionados. Guia da linha masculina: preços para comparar, o cupom EMCASACOMCECILIA e o prazo de Natal.",
-    "metaDescription": "Black Friday Insider 2026 masculino: o cupom EMCASACOMCECILIA dá 15% OFF e soma com até 50% OFF em itens selecionados. Tech T-Shirt, kits e cuecas.",
+    "description": "A Insider anunciou até 50% OFF em itens selecionados na Black Friday 2026. Compare preços históricos da linha masculina, o cupom EMCASACOMCECILIA e cuidados com o prazo de Natal.",
+    "metaDescription": "Black Friday Insider 2026: EMCASACOMCECILIA dá 15% OFF em itens elegíveis. Veja preços masculinos para comparar e as exceções do cupom.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
     "updatedAt": "2026-11-07",
@@ -55705,7 +55707,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Compare o kit com a peça avulsa: no preço de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas, e a Tech T-Shirt Gola V saía a R$ 119 na promoção do dia; a conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa). Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
-          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela. Os preços mudam ao longo da campanha: confira no site no dia."
+          "Use a tabela como referência histórica e compare a mesma peça, cor, tamanho e quantidade. Depois, confira o total com os descontos aplicáveis e o frete, porque o selo de promoção, sozinho, não mostra se a compra ficou mais barata. Os preços mudam ao longo da campanha: confira no site no dia."
         ]
       },
       {
@@ -55757,7 +55759,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e frete grátis: o que soma",
         "bullets": [
           "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
-          "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido e também oferece cupons da própria campanha: compare os 15% com o cupom da campanha da própria Insider antes de fechar o pedido.",
+          "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare o resultado dos 15% com as condições da campanha da própria Insider antes de pagar.",
           "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
           "**Lançamentos:** nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, mesmo com a etiqueta de lançamento, o desconto entra: no nosso teste, a Tech T-Shirt recebeu os 15%. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
           "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; confira o percentual no checkout. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
@@ -55813,11 +55815,11 @@ export const reviewsData: unknown[] = [
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
           "A Insider não publica prazos por região: o carrinho mostra as opções de entrega depois do CEP, e o prazo começa a contar quando o pagamento é aprovado. A central de ajuda avisa que os prazos podem mudar em períodos de alta demanda, como a Black Friday.",
-          "Vale levar o aviso a sério: no Reclame Aqui, mais de dois terços das reclamações dos últimos 12 meses contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado.",
+          "Vale levar o aviso a sério: no Reclame Aqui, nos últimos 12 meses consultados, mais de dois terços das reclamações contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado. Isso serve de contexto para planejar a compra com folga, não como previsão do prazo do seu pedido.",
           "Simulamos no carrinho o frete de quatro Tech T-Shirts (R$ 516, acima do frete grátis) com o CEP do centro de 12 capitais. Somando um dia útil de folga ao prazo do frete grátis, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
-          "caption": "Prazo do frete grátis no carrinho da Insider, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "caption": "Simulação com quatro Tech T-Shirts e o CEP do centro de cada capital. As datas-limite são estimativas nossas, não garantia de entrega. Refaça a simulação com seu CEP e considere o prazo de aprovação do pagamento.",
           "headers": [
             "Capital",
             "Frete grátis no carrinho",
@@ -55886,8 +55888,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Insider? Já começou, com até 50% OFF em itens selecionados, em janelas curtas que mudam ao longo de novembro, até a última sexta-feira do mês, dia 27, e a Cyber Monday, na segunda seguinte. A loja não publicou data de fim.",
           "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
-          "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e no Outlet o desconto entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare os 15% com o cupom da campanha da própria Insider.",
-          "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
+          "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e no Outlet o desconto entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare o total com as condições da campanha antes de pagar.",
+          "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. No teste do fim de outubro, com o cupom EMCASACOMCECILIA, saiu por R$ 109,65. Esses valores são históricos: confira a peça e o desconto no carrinho de hoje.",
           "O kit de Tech T-Shirt compensa? Depende do dia e do kit. No preço de outubro, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas. Nos kits de cueca e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
           "A Insider tem desconto no Pix? Tem: em outubro, a loja anunciava desconto no Pix, que soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners, então confira no checkout.",
           "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
@@ -56056,7 +56058,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calcinhas, sutiãs e underwear feminino",
         "paragraphs": [
-          "No underwear feminino, o kit sai mais barato por peça que a avulsa, e o Outlet baixa ainda mais. Em outubro, a Calcinha Biquíni Brief estava a R$ 49, de R$ 69, e o Kit 3 Calcinhas Brief a R$ 139,90, de R$ 207. No fim do mês, o mesmo kit de três apareceu no Outlet a R$ 118,20, e o de cinco a R$ 190,19, de R$ 345."
+          "Nos exemplos de underwear feminino de outubro, os kits de calcinha saíam mais baratos por peça que a avulsa, e os valores do Outlet eram menores. A Calcinha Biquíni Brief estava a R$ 49, de R$ 69, e o Kit 3 Calcinhas Brief a R$ 139,90, de R$ 207. No fim do mês, o mesmo kit de três apareceu no Outlet a R$ 118,20, e o de cinco a R$ 190,19, de R$ 345."
         ],
         "image": {
           "src": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-kit-5-brief.webp",
@@ -56119,7 +56121,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três sutiãs Nakedfeel (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. Calcinhas e sutiãs só têm troca por defeito, então confira o tamanho antes de fechar."
+          "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três sutiãs Nakedfeel (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. A política da Insider restringe a troca comercial de calcinhas e sutiãs a defeito; confira o tamanho e as condições antes de fechar."
         ]
       },
       {
@@ -62240,7 +62242,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Insider mede a peça deitada, não o corpo, então o mais seguro é comparar uma camiseta sua que veste bem com a tabela da peça. Cueca e calcinha só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "A Insider mede a peça deitada, não o corpo, então o mais seguro é comparar uma camiseta sua que veste bem com a tabela da peça. Pela política de trocas da Insider, cuecas e calcinhas só têm troca por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -62905,13 +62907,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Cueca não tem troca por tamanho. A central de ajuda da Insider diz que, \"por motivos de higiene e segurança\", as linhas Underwear e Beachwear só são trocadas ou devolvidas em caso de defeito de fabricação. As páginas das cuecas não repetem esse aviso, então vale medir antes de comprar um kit."
+          "Cueca não tem troca por tamanho. A central de ajuda da Insider diz que, \"por motivos de higiene e segurança\", as linhas Underwear e Beachwear só são trocadas ou devolvidas em caso de defeito de fabricação. Meça antes de comprar um kit."
         ]
       },
       {
         "heading": "Cueca Slip e calcinha Brief",
         "paragraphs": [
-          "A Slip mede a cintura e a lateral, da cintura até o início da barra (13 cm em todos os tamanhos). A calcinha Biquíni Brief mede a cintura e a altura, da cintura até o fundo da peça. Na loja, a Slip vai do P ao XGG, embora a tabela traga também PP e XXGG, e a Brief vai do PP ao XGG. As duas seguem a regra de troca das cuecas: só por defeito."
+          "A Slip mede a cintura e a lateral, da cintura até o início da barra (13 cm em todos os tamanhos). A calcinha Biquíni Brief mede cintura e altura, da cintura até o fundo da peça. Na loja, a Slip vai do P ao XGG, embora a tabela traga PP e XXGG; a Brief vai do PP ao XGG. A política comercial de underwear exclui troca por tamanho."
         ],
         "comparisonTable": {
           "caption": "Tabelas oficiais da Cueca Slip e da Calcinha Biquíni Brief, em cm, com a peça deitada. Travessão: a tabela não traz o tamanho.",
@@ -63120,7 +63122,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Encolhimento: o que a Insider diz e por que pesa na troca",
         "paragraphs": [
-          "Cada linha pode encolher até um limite: o da sua está na tabela abaixo. Na página da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\"; na da Core, que o tamanho \"já considera 2cm a mais no comprimento\" por esse encolhimento. Os números são da Insider, e a marca não explica como se relacionam com o limite da tabela; valem todos. Como lavar cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
+          "A central de ajuda publica os limites de encolhimento da tabela abaixo. Na página da Daily, a marca cita até 2 cm no comprimento após a primeira lavagem; na Core, informa que o tamanho considera 2 cm extras no comprimento. São informações diferentes, sem equivalência explicada pela Insider: não some centímetros e percentuais para escolher o tamanho. Os cuidados de cada linha estão em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "Isso pesa na troca: a troca por tamanho exige peça sem uso e sem sinais de lavagem. Não dá para lavar para ver se encolhe e depois trocar. Escolha o tamanho pela tabela e siga as instruções de lavagem da etiqueta."
         ],
         "comparisonTable": {
@@ -63172,7 +63174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Errei o tamanho: o que a Insider permite",
         "paragraphs": [
-          "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem. A troca é gratuita e vale para o mesmo modelo, em outra cor ou tamanho, se houver estoque. Cueca, calcinha e beachwear só trocam por defeito de fabricação.",
+          "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem, conforme a política comercial da Insider. A troca vale para o mesmo modelo, em outra cor ou tamanho, se houver estoque, e é gratuita. A mesma política exclui underwear e beachwear da troca por tamanho.",
           "Os prazos de arrependimento e de defeito e o passo a passo da troca estão no nosso guia sobre a Insider."
         ],
         "links": [
@@ -63220,7 +63222,7 @@ export const reviewsData: unknown[] = [
           "A Tech T-Shirt veste justa? A Insider descreve a masculina como de \"caimento ajustado ao corpo sem apertar\" e a feminina como de \"caimento levemente ajustado, sem comprimir\"; a Core tem modelagem regular, segundo a marca.",
           "A Insider tem tamanhos grandes? A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG, e as tabelas femininas até o XGG; confira a cor e o tamanho na página do produto.",
           "A roupa da Insider encolhe? Segundo a central de ajuda, a Tech T-Shirt e a Core podem encolher até 8%, a Daily até 4% e a cueca Comfort até 7%.",
-          "Posso trocar a cueca da Insider se errar o tamanho? Não: cuecas, calcinhas e outras peças das linhas Underwear e Beachwear só têm troca ou devolução por defeito de fabricação.",
+          "Posso trocar a cueca da Insider se errar o tamanho? A política comercial da loja não oferece troca por tamanho de underwear e beachwear. Sobre arrependimento de compra online, consulte o atendimento.",
           "Quanto tempo tenho para trocar uma camiseta que não serviu? Até 21 dias corridos depois do recebimento, com a peça sem uso, com etiqueta e sem sinais de lavagem, e a troca é gratuita.",
           "O Provador Virtual da Insider acerta o tamanho? A própria marca diz que cada corpo é único e recomenda conferir a tabela de medidas da peça."
         ]
@@ -63281,7 +63283,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "O cupom não vale na loja física nem no Mercado Livre",
-      "Cueca, calcinha e undershirt só trocam por defeito",
+      "A política comercial restringe a troca por insatisfação de underwear e moda praia",
       "A marca não diz por quantas lavagens o antiodor dura"
     ],
     "contentSections": [
@@ -63346,7 +63348,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa de verdade",
         "paragraphs": [
-          "O cupom EMCASACOMCECILIA dá 15% sobre o preço de cada item na loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento. As regras do mês ficam na página do [cupom Insider](/cupons/insider)."
+          "O cupom EMCASACOMCECILIA dá 15% em itens elegíveis da loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento. Na tabela abaixo, a Daily não aceitou o código no teste. As regras do mês ficam na página do [cupom Insider](/cupons/insider)."
         ],
         "comparisonTable": {
           "caption": "Preço no cartão, 02/11. Com o cupom: conta nossa, com os 15% sobre o preço do site, antes do desconto do Pix.",
@@ -63397,7 +63399,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar: site, loja física ou Mercado Livre",
         "paragraphs": [
           "O site é o único lugar onde o cupom vale, e é onde a troca é mais simples. Para quem quer ver a peça antes, a Concept Store fica no MorumbiShopping, em São Paulo. Lá o cupom e o cashback não valem, a compra acumula pontos de fidelidade para resgatar no site, e a troca é feita no mesmo canal da compra.",
-          "No Mercado Livre, a Insider tem [loja oficial](https://meli.la/12dWwH8), e vale o preço do anúncio, sem o cupom. Com o cupom, o site sai mais barato na maioria das peças; onde o Mercado Livre ganha está em [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site).",
+          "No Mercado Livre, a Insider tem [loja oficial](https://meli.la/12dWwH8), com o preço do anúncio e sem o cupom. Compare o total com frete nos dois canais; o guia [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site) mostra os critérios dessa escolha.",
           "O Outlet tem peças com desconto e grade curta: veja o [Outlet masculino](/reviews/outlet-insider-masculino-vale-a-pena) e o [Outlet feminino](/reviews/outlet-insider-feminino-vale-a-pena)."
         ]
       },
@@ -63405,7 +63407,7 @@ export const reviewsData: unknown[] = [
         "heading": "Troca, devolução e garantia",
         "paragraphs": [
           "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis e a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (se houver estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem. Defeito tem 180 dias, com fotos. Toda troca e devolução é gratuita.",
-          "Cueca, calcinha, undershirt e moda praia só trocam por defeito de fabricação. Nessas peças, acerte o tamanho antes, pela tabela de medidas."
+          "Na política comercial da Insider, underwear e moda praia têm troca só por defeito de fabricação. Antes de escolher o tamanho, compare as medidas da peça."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
@@ -63428,7 +63430,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Vale para quem quer camiseta de modal com garantia de cor por escrito e troca sem custo, e topa pagar mais por isso.",
           "Não vale para quem quer gastar pouco por peça: mesmo com o cupom, a Tech passa de R$ 100.",
-          "Na cueca, escolha pelo uso, Comfort para o dia a dia e Performance para treino, e meça antes: underwear não troca por tamanho.",
+          "Na cueca, escolha pelo uso, Comfort para o dia a dia e Performance para treino, e compare as medidas antes de comprar: a troca por tamanho é restringida pela política comercial de underwear.",
           "Se você vai comprar na loja física ou no Mercado Livre, conte com o preço da etiqueta ou do anúncio, sem o cupom."
         ]
       },
@@ -63443,7 +63445,7 @@ export const reviewsData: unknown[] = [
           "Tech, Daily ou Core: qual é a diferença? A Tech é de modal; a Daily e a Core são de viscose, e a Core é mais encorpada, segundo a marca. O guia das camisetas compara as linhas.",
           "O cupom da Insider vale na loja física ou no Mercado Livre? Não: o EMCASACOMCECILIA vale só na loja online, um por pedido.",
           "A Insider tem frete grátis? Tem, a partir de R$ 399, calculado depois do desconto do cupom.",
-          "Dá para trocar cueca da Insider? Só em caso de defeito de fabricação, como calcinha, undershirt e moda praia.",
+          "Dá para trocar cueca da Insider? A política comercial restringe a troca de underwear e moda praia aos casos de defeito. O arrependimento em compras online é distinto da troca comercial; consulte também as regras aplicáveis à compra.",
           "A Insider tem loja física? Tem a Concept Store no MorumbiShopping, em São Paulo, onde o cupom não vale."
         ]
       }
@@ -63463,7 +63465,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você escolhe camiseta pelo menor preço: o que se paga a mais na Tech é a garantia de cor.",
-        "Você quer trocar cueca por tamanho: underwear só troca por defeito."
+        "Você depende de trocar cueca por tamanho: confira a restrição da política comercial de underwear antes de comprar."
       ]
     },
     "editorialNote": "Podemos receber comissão pela Insider. A Cecília comprou e usou a Blusa de Alça The Perfect Top; o resto vem das páginas da marca e do teste do cupom no checkout.",
@@ -81167,7 +81169,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "As 20 peças da seleção da Cecília na Insider, com os preços de outubro e o preço final com o cupom EMCASACOMCECILIA, que dá 15% OFF sem valor mínimo e vale um por pedido.",
-    "metaDescription": "Promoção Insider: 20 peças da seleção da Cecília com o cupom EMCASACOMCECILIA e 15% OFF. Preço com o cupom, cores e tamanhos de cada peça.",
+    "metaDescription": "Seleção Insider de outubro de 2026: 20 peças com o cupom EMCASACOMCECILIA e 15% OFF. As promoções de outubro já terminaram; confira o preço do dia.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-07",
@@ -81808,7 +81810,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de pagar",
         "bullets": [
-          "**Pelos botões desta seleção:** a página do produto já abre com o cupom aplicado, e o preço aparece com a indicação \"com cupom EMCASACOMCECILIA\".",
+          "**Pelos botões desta seleção:** na conferência da seleção, a página do produto abria com o cupom aplicado e mostrava a indicação “com cupom EMCASACOMCECILIA”. Antes de pagar, confira se o código entrou e qual desconto foi aplicado.",
           "**Um cupom por pedido:** o EMCASACOMCECILIA não soma com outro código.",
           "**Fora do cupom:** compras na loja física e, nos primeiros dias, alguns lançamentos.",
           "**Black Friday:** em novembro, o cupom soma com os preços da campanha, de até 50% OFF em itens selecionados, salvo quando a página do produto avisar que o desconto não acumula com cupom.",
@@ -101628,7 +101630,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para treino, a Performance; para o dia a dia, a Comfort. A escolha sai do tecido e do uso que a própria marca indica, e só cor e tamanho mexem no preço. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Para treino, a Performance; para o dia a dia, a Comfort, pelo uso que a Insider indica. Compare o preço da variante escolhida: cor e tamanho podem mudar o valor. Na loja online, o cupom EMCASACOMCECILIA dá 15% em itens elegíveis, exceto em lançamentos."
         ]
       },
       {
@@ -101801,7 +101803,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Se a dúvida é a boxer, a resposta curta é: Performance para treino e esporte, Comfort para o dia a dia. Escolha pelo uso, confira o preço da variante na hora da compra, porque o preço muda por cor e tamanho, não por modelo, e acerte o tamanho antes, porque cueca não tem troca por tamanho. A Seamless Touch e a Slip são construções diferentes, não a versão premium da boxer. Se a dúvida é a Insider em si, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
+          "Se a dúvida é a boxer, a Performance é a opção de treino e esporte; a Comfort, a de dia a dia, segundo a marca. Compare o preço da variante: cor e tamanho podem mudar o valor.",
+          "A Seamless Touch e a Slip têm construções diferentes da boxer. Confira as medidas antes de comprar, porque a política comercial de underwear exclui troca por tamanho. Para conhecer a marca, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a Comfort para o dia a dia, porque é a boxer de modal para uso diário.",
         "emphasisAfterParagraph": 1
@@ -101816,7 +101819,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca e tamanho",
         "paragraphs": [
-          "A central de ajuda da loja diz que underwear só tem troca ou devolução por defeito de fabricação, por motivos de higiene e segurança. Por isso, cueca não entra em troca por tamanho. Isso é política da loja para a troca voluntária; o arrependimento da compra online é outro pedido. Acerte o tamanho antes de comprar.",
+          "A política de trocas da Insider não inclui cuecas para troca por tamanho: underwear só é trocado por defeito de fabricação, por motivos de higiene. O arrependimento da compra online é outro pedido. Meça com atenção antes de fechar o pedido.",
           "Os tamanhos por modelo são:"
         ],
         "bullets": [
@@ -101834,7 +101837,7 @@ export const reviewsData: unknown[] = [
           "A cueca Insider é boa? A marca diz que a Performance absorve e evapora rápido o suor, e que a Comfort é ultramacia. Na página da loja, a Performance tem nota 4,9 em 5 com 5.633 avaliações, e a Comfort, 4,9 em 5 com 5.854. São avaliações da loja, não uma prova independente.",
           "A cueca Insider é igual à de algodão? Não. A Comfort é de TENCEL Modal e elastano. A Performance tem a parte de fora em poliamida e a de dentro em modal, com elastano nas duas partes.",
           "Qual cueca Insider para treino? A Performance. A página indica esporte, como corrida, musculação e ciclismo.",
-          "Dá para trocar cueca Insider por tamanho? Não. Pela política da loja, underwear só tem troca ou devolução por defeito de fabricação, segundo a central de ajuda. O arrependimento da compra online é outro pedido: confirme com a loja.",
+          "Dá para trocar cueca Insider por tamanho? Pela política comercial da loja, não: underwear só é trocado por defeito de fabricação, por higiene.",
           "Cupom vale em kit? Em teste nosso, o desconto apareceu em kit com preço promocional. Confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout antes de pagar."
         ]
       }
@@ -101846,7 +101849,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe nas boxers se você quer construção sem costura: olhe a Seamless Touch.",
-        "Passe se você não sabe o tamanho: cueca só troca por defeito, não por tamanho."
+        "Passe se você não sabe o tamanho: a política comercial de underwear exclui troca por tamanho, então confira a tabela antes de decidir."
       ]
     },
     "pros": [],
@@ -101908,7 +101911,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual nível escolher",
         "paragraphs": [
-          "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume o que a loja publica para cada peça, e os preços e os estoques são de 20/10/2026: confira na loja antes de contar com uma cor ou um tamanho."
+          "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume as indicações e a disponibilidade das páginas em 20/10/2026; as contagens incluem variantes de cor, gola e tamanho, então confira a combinação antes de contar com ela."
         ],
         "comparisonTable": {
           "headers": [
@@ -102040,7 +102043,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, kit e cupom",
         "paragraphs": [
-          "Os preços são os da mesma data. A coluna do cupom é conta nossa: 15% sobre o preço da página. O valor final aparece no checkout."
+          "Os preços são os da tabela. A coluna do cupom é conta nossa: 15% sobre o preço da página, antes de frete e de outras condições. O valor final depende do item elegível no checkout."
         ],
         "comparisonTable": {
           "headers": [
@@ -102072,7 +102075,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Sem cupom, cada peça do kit sai por R$ 137,71 (R$ 413,12 divididos por três). A conta por peça é nossa, feita sobre o preço do próprio kit.",
+          "Sem cupom, o Kit 3 Moderado gola V sai por R$ 137,71 por peça, pela divisão do preço do kit. Compare com três avulsas do mesmo modelo, gola e variantes; se você só precisa de uma, compare também o gasto total do avulso.",
           "O cupom EMCASACOMCECILIA dá 15% na loja online. Ele vale uma vez por pedido e soma com o Pix e com as outras formas de pagamento. O Pix tem desconto próprio, mas o percentual muda no site: confira no checkout.",
           "No teste no checkout, o desconto apareceu num kit de cuecas com preço promocional. Antes de pagar, confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout. Se o pedido junta undershirt e cueca boxer, cada item tem a sua linha.",
           "A página do Moderado também mostra desconto por quantidade no seletor. Os valores mudam; confira no produto.",
@@ -102118,7 +102121,7 @@ export const reviewsData: unknown[] = [
           "Suor leve: Leve. A página não cita camada dupla nem reforço nas axilas, e ela só vem na cor bege, com gola V.",
           "Suor moderado: Moderado. Tem camada dupla na região das axilas e sai em bege, preta e branca, com gola V ou U.",
           "Suor excessivo: Block, com reforço impermeável nas axilas, segundo a marca. Estava esgotado em outubro.",
-          "Nos três casos, acerte o tamanho antes de comprar, porque a undershirt não é trocada por tamanho."
+          "Confira o tamanho antes da compra: a política comercial divulgada para a linha restringe troca e devolução a defeito de fabricação."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
         "emphasisAfterParagraph": 1
@@ -102126,7 +102129,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca e cuidados",
         "paragraphs": [
-          "A undershirt não é trocada por tamanho. Pela central de ajuda, a linha Underwear só troca ou devolve por defeito de fabricação, e as undershirts seguem essa regra, que é política da loja para a troca voluntária. O prazo de 180 dias corridos, com fotos, é o da troca por defeito. O arrependimento da compra online é outro pedido. Por isso, acerte o tamanho antes de comprar.",
+          "A undershirt não é trocada por tamanho. Na central de ajuda, a linha Underwear só troca ou devolve por defeito de fabricação, e as undershirts seguem essa regra. O prazo de 180 dias corridos, com fotos, vale para a troca por defeito. Por isso, acerte o tamanho antes de comprar.",
           "Segundo a central de ajuda, a undershirt pode encolher até 7%. As instruções de lavagem da peça estão na etiqueta, e este texto não traz outras."
         ]
       },
@@ -102142,9 +102145,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A undershirt Insider funciona? Só pela ficha da loja não dá para dizer. A marca descreve cada nível e a construção, e as avaliações são dela. Ninguém da equipe usou as peças.",
           "Qual undershirt Insider escolher para suor moderado? A [Undershirt Antissuor Moderado](https://www.insiderstore.com.br/products/undershirt-anti-suor), indicada pela marca para transpiração moderada, com camada dupla nas axilas.",
-          "Qual a diferença entre a Leve e o Block? A Leve é para transpiração leve, e a página não declara camada dupla nem reforço. O Block é para transpiração excessiva, com reforço impermeável nas axilas, segundo a marca, e estava esgotado em outubro.",
+          "Qual a diferença entre a Leve e o Block? A Leve é indicada pela marca para transpiração leve; sua ficha não declara camada dupla. O Block é indicado para transpiração excessiva e tem reforço impermeável nas axilas, segundo a marca. Na tabela, ele aparece esgotado.",
           "A undershirt Insider tem versão feminina? Não. A linha da loja é masculina.",
-          "Dá para trocar a undershirt se não servir? Não por tamanho, pela política da loja. A troca por defeito de fabricação vale em até 180 dias corridos, com fotos.",
+          "Dá para trocar a undershirt se não servir? Não por tamanho, pela política da loja. A troca por defeito de fabricação vale em até 180 dias corridos, com fotos; confirme seu caso no atendimento.",
           "A undershirt Insider encolhe? Segundo a central de ajuda, pode encolher até 7%. Siga a etiqueta.",
           "O cupom vale na undershirt? Vale na loja online, uma vez por pedido, e soma com o Pix. Confira a linha do código de cada item no checkout.",
           "A undershirt Insider resolve o suor excessivo? Não. A peça não trata nem elimina o suor. Se o suor é excessivo ou persistente, procure um dermatologista."
@@ -102159,7 +102162,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe se você espera que a peça trate ou elimine o suor: ela não trata, e o suor excessivo é caso de dermatologista.",
-        "Passe se o tamanho está em dúvida: a undershirt não troca por tamanho."
+        "Passe se você quer poder trocar por tamanho depois da compra: a política da linha não oferece essa troca."
       ]
     },
     "pros": [],
@@ -102215,19 +102218,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para presentear com a Insider neste Natal, o kit de presente serve a quem quer entregar algo pronto, e o gift card virtual, a quem não sabe o tamanho. Na loja, cueca, calcinha e sutiã só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, também na compra do gift card, exceto em lançamentos."
+          "Para presentear com a Insider, escolha um kit se souber os tamanhos ou o gift card se a escolha ficar com a pessoa. Na loja, cuecas, calcinhas e sutiãs só trocam por defeito; confira as medidas antes de comprar. O cupom EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online, mas não entra em pedido pago com gift card."
         ]
       },
       {
         "heading": "Vale presente na Insider: como funciona o gift card",
         "paragraphs": [
-          "Há três caminhos para presentear com a Insider neste Natal: um kit de presente, um gift card virtual ou o kit mais uma sacola ou envelope. Os preços e as regras deste guia foram lidos nas páginas da loja em 20/10/2026, e os prazos vêm da simulação de frete do carrinho. Começamos pelo gift card.",
+          "Há três caminhos para presentear: um kit, um gift card virtual ou um kit com sacola ou envelope. Os preços deste guia são de 20/10/2026, e os prazos vêm de uma simulação de frete do carrinho; confira o frete do seu CEP antes de pagar.",
           "O [gift card da Insider](https://www.insiderstore.com.br/products/cartao-presente-insider) é virtual. A página do produto lista 12 valores: R$ 50, R$ 80, R$ 100, R$ 150, R$ 200, R$ 350, R$ 500, R$ 600, R$ 700, R$ 800, R$ 900 e R$ 1.000.",
           "As regras, pela própria página do cartão:"
         ],
         "bullets": [
           "O cartão só pode ser comprado em pedido individual, sem outros produtos no carrinho.",
-          "O gift card é enviado para o e-mail cadastrado na compra. O envio sai depois da confirmação do pagamento.",
+          "A descrição orienta receber o cartão no e-mail de quem compra e encaminhá-lo à pessoa presenteada. A página também oferece “Quero enviar como presente”, com e-mail do destinatário e data de envio. Confirme esses dados na compra; o envio sai depois da confirmação do pagamento.",
           "Vale por 12 meses a partir do recebimento por e-mail. Não é reembolsável e não pode ser revendido.",
           "A página limita quantos cartões cada conta pode comprar por dia.",
           "O cartão fica fora da campanha de brindes."
@@ -102530,7 +102533,7 @@ export const reviewsData: unknown[] = [
           "[Embalagem de Presente Prateada](https://www.insiderstore.com.br/products/envelope-com-fundo): envelope de papel cartão e poliéster, de 25 × 5 × 35 cm, por R$ 13,90."
         ],
         "postParagraphs": [
-          "A loja marca as duas como estoque baixo, então vale checar a disponibilidade antes de contar com elas. Se você comprar a sacola ou o envelope junto com um kit, a etiqueta de lançamento não decide o cupom: confira a linha do código no checkout."
+          "Na consulta, a loja marcava a sacola e o envelope como estoque baixo; confira a disponibilidade atual. Ao comprá-los com um kit, a etiqueta de lançamento sozinha não decide o cupom: veja a linha do código por item no checkout."
         ],
         "images": [
           {
@@ -102556,16 +102559,16 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Até quando pedir para chegar antes do Natal",
+        "heading": "Prazo para o Natal: estimativa pelo frete simulado",
         "paragraphs": [
-          "A loja diz que os prazos podem mudar em alta demanda, como Black Friday ou lançamentos. Ela não garante entrega até o Natal. A tabela abaixo é a nossa conta, a partir da simulação de frete grátis do carrinho, com o CEP do centro de cada capital.",
+          "A loja avisa que os prazos podem mudar em alta demanda, como Black Friday ou lançamentos. A tabela é uma estimativa nossa para o Natal de 2026, com o frete grátis simulado para o CEP do centro de cada capital, e não garante entrega até o Natal.",
           "A conta parte de dias úteis contados a partir da aprovação do pagamento, com chegada na quarta-feira, dia 23, sem contar feriados locais. Assim, sobra um dia antes da véspera de Natal."
         ],
         "comparisonTable": {
           "headers": [
             "Cidade",
             "Frete grátis (dias úteis na simulação)",
-            "Pedido aprovado até (dia de dezembro)"
+            "Aprovação até (estimativa)"
           ],
           "rows": [
             [
@@ -102648,21 +102651,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual caminho escolher",
         "paragraphs": [
-          "O kit de presente serve a quem quer entregar algo pronto: são 24 kits \"Kit Presente\", de R$ 208,80 a R$ 583,62 no preço do dia, e dois deles têm cueca boxer. O gift card virtual, de R$ 50 a R$ 1.000, serve a quem não sabe o tamanho, porque cueca, calcinha e sutiã só trocam por defeito, mas o cupom EMCASACOMCECILIA não entra em pedido pago com gift card.",
-          "Para chegar antes do Natal, a data limite do pedido depende da cidade: a tabela da seção \"Até quando pedir\" traz o dia de cada capital."
+          "Os 24 kits listados neste guia custam de R$ 208,80 a R$ 583,62 no preço do dia. Escolha um kit se souber o tamanho de cada peça; nos íntimos, não conte com a troca comercial por tamanho. Se não souber, o gift card deixa a escolha com a pessoa presenteada. O cupom funciona na compra do cartão, mas não no pedido pago com o saldo dele.",
+          "Para o prazo do Natal, use a tabela como referência e refaça o cálculo com o CEP de entrega, o prazo atual e a data de aprovação do pagamento."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o gift card quando não sei o tamanho, porque cueca e íntimo só trocam por defeito.",
+        "emphasis": "Se eu não soubesse o tamanho, escolheria o gift card para deixar essa decisão com quem vai receber.",
         "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Insider vale presente? Vale: a loja vende gift card virtual de R$ 50 a R$ 1.000, enviado para o e-mail cadastrado na compra, com validade de 12 meses a partir do recebimento.",
-          "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, mas a troca sai em vale-troca para usar no site. Pela política da loja, cueca, calcinha e sutiã só trocam por defeito.",
+          "A Insider tem vale-presente? Sim: o gift card virtual vai de R$ 50 a R$ 1.000, com validade de 12 meses após o recebimento por e-mail. A página também oferece envio como presente, com e-mail e data; confira o destinatário antes de pagar.",
+          "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, em vale-troca para usar no site. Cueca, calcinha, sutiã e undershirts só trocam por defeito. O arrependimento de compra online é outro pedido, feito por quem comprou.",
           "Cupom vale no gift card? Vale na compra do cartão: no nosso teste, o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
-          "Chega a tempo do Natal? Depende da cidade e da data da aprovação do pagamento. A tabela da seção \"Até quando pedir\" traz a data limite de cada capital, e a loja diz que os prazos podem mudar em alta demanda.",
+          "Chega a tempo do Natal? Consulte o prazo atual do seu CEP e considere quando o pagamento será aprovado. A tabela deste guia é uma estimativa para 2026, com base na simulação de frete do carrinho; a loja avisa que alta demanda pode alterar os prazos.",
           "A Insider tem kit de presente com cueca? Tem: o Kit Presente Performance Masculino e o Kit Presente Básico Masculino levam cueca, e há outros três kits com cueca fora do rótulo Kit Presente.",
-          "A Insider vende sacola de presente? Vende a Insider Gift Bag, de R$ 9,00, e uma embalagem prateada em envelope, de R$ 13,90."
+          "A Insider vende sacola de presente? Vende a Insider Gift Bag, de R$ 9,00, e uma embalagem prateada em envelope, de R$ 13,90. Confira o estoque antes de comprar."
         ]
       }
     ],
@@ -102673,7 +102676,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe no gift card se você quer usar o cupom com o saldo: pedido pago com gift card não aceita cupom.",
-        "Passe na cueca, calcinha ou sutiã de presente se não tem certeza do tamanho: só trocam por defeito."
+        "Passe na cueca, calcinha ou sutiã de presente se não tem certeza do tamanho: a troca comercial de presente não corrige o tamanho desses itens."
       ]
     },
     "pros": [],
@@ -131049,7 +131052,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Insider no Mercado Livre ou no site: 17 produtos comparados em 27/10/2026, com o cupom EMCASACOMCECILIA do site e o preço da loja oficial no Mercado Livre, peça a peça.",
-    "metaDescription": "Insider no Mercado Livre ou no site: com o cupom EMCASACOMCECILIA e 15% OFF, o site ganha em 13 de 17 produtos. Veja onde cada um ganha.",
+    "metaDescription": "O site da Insider com EMCASACOMCECILIA, de 15% OFF, ficou abaixo do Mercado Livre em 13 de 17 produtos, antes do frete. Compare cada peça.",
     "image": "/images/reviews/insider/insider-mercado-livre-ou-site-capa.webp",
     "imageAlt": "Homem com a Tech T-Shirt preta da Insider, com o título Mercado Livre ou site",
     "imageFit": "contain",
@@ -131080,7 +131083,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom EMCASACOMCECILIA, o site ganha em 13 de 17 peças. No Mercado Livre o cupom não vale, e a Daily sai mais barata por lá. O que muda a conta são a Daily e a regra de frete grátis do site, veja abaixo."
+          "Antes do frete, o site com EMCASACOMCECILIA, de 15% OFF, ficou mais barato em 13 de 17 produtos. No Mercado Livre o código não vale, mas as três opções Daily custavam menos. Cor, tamanho e frete podem mudar a escolha: compare a mesma variante e o total entregue."
         ]
       },
       {
@@ -131182,7 +131185,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/insider/insider-mercado-livre-ou-site-masculino-2810.webp",
           "alt": "Quadro com o preço de 13 peças masculinas e unissex da Insider no site e no Mercado Livre, e onde cada uma sai mais barata com o cupom",
-          "caption": "Quadro nosso com os preços lidos; a última coluna considera o EMCASACOMCECILIA no site.",
+          "caption": "Comparação sem frete; a última coluna considera EMCASACOMCECILIA no site.",
           "objectFit": "contain",
           "aspectRatio": 1.2725
         },
@@ -131244,7 +131247,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/insider/insider-mercado-livre-ou-site-feminino-2810.webp",
           "alt": "Quadro com o preço de 4 peças femininas da Insider no site e no Mercado Livre, e onde cada uma sai mais barata com o cupom",
-          "caption": "Quadro nosso com os preços lidos; a última coluna considera o EMCASACOMCECILIA no site.",
+          "caption": "Comparação sem frete; a última coluna considera EMCASACOMCECILIA no site.",
           "objectFit": "contain",
           "aspectRatio": 2.3904
         }
@@ -131278,7 +131281,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Daily sai mais barata no Mercado Livre porque no site ela não aceita o cupom. A página do produto mostra \"desconto máximo aplicado\", e o teste no site confirmou isso.",
           "A Camiseta Tech Daily masculina sai por R$ 99 no site e por R$ 69 a R$ 79 no Mercado Livre. A Daily feminina sai por R$ 99 no site e por R$ 56,05 a R$ 79 no Mercado Livre. O Kit 3 Daily feminina sai por R$ 290,76 no site e por R$ 179,69 no Mercado Livre.",
-          "A Light só aparece no Mercado Livre: não achamos no site nenhum produto com esse nome, então ela fica fora da tabela."
+          "Encontramos a Light no Mercado Livre e não localizamos no site um produto com esse nome. Ela ficou fora da tabela porque não havia um par confirmado para comparar."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-daily-t-shirt-feminina-oficial.webp",
@@ -131291,7 +131294,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e trocas no site",
         "paragraphs": [
-          "O site dá frete grátis em compras acima de R$ 399, contadas depois do desconto. Uma peça sozinha paga frete, então a regra pesa mais quando o pedido é pequeno.",
+          "O site informa frete grátis acima de R$ 399, depois do desconto. Nenhum dos preços individuais desta seleção com cupom alcançava esse limite. Simule o frete para o seu CEP e compare o total entregue nos dois canais.",
           "As trocas seguem estes prazos, sem custo: arrependimento em 7 dias úteis, troca por insatisfação em 21 dias corridos e troca por defeito em 180 dias corridos. Cueca, calcinha e undershirt só são trocadas por defeito. As regras completas estão em [se a Insider Store é confiável](/reviews/insider-store-e-confiavel)."
         ]
       },
@@ -131305,12 +131308,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher",
         "bullets": [
-          "**Daily e Light:** Mercado Livre. A Daily sai mais barata lá, e a Light só existe lá.",
+          "**Daily e Light:** as três opções Daily custavam menos no Mercado Livre. A Light foi localizada lá, mas não teve um produto com o mesmo nome confirmado no site.",
           "**Cuecas, kits de cueca e undershirt:** site com o cupom. Para escolher entre a Comfort e a Performance, veja [a comparação de cuecas Insider](/reviews/cueca-insider-comfort-ou-performance).",
           "**Tech, Core, Heavy, Perfect Top, Polo e Sportee:** site com o cupom.",
           "**Sutiã Comfy:** site, mesmo sem cupom (R$ 99 contra R$ 132,05 no Mercado Livre).",
-          "**Meia Spectrum Mid:** empate. Compare os dois preços no dia da compra.",
-          "**Frete grátis no site:** monte um carrinho acima de R$ 399 depois do desconto."
+          "**Meia Spectrum Mid:** quase empatada, com R$ 29,75 no site após o cupom e R$ 29,45 no Mercado Livre. A diferença era de R$ 0,30 antes do frete.",
+          "**Frete:** compare o total entregue nos dois canais. No site, a regra é frete grátis acima de R$ 399 depois do desconto; não acrescente uma peça de que não precisa só para alcançar o limite."
         ],
         "postParagraphs": [
           "As condições do mês estão na página do [cupom Insider](/cupons/insider)."
@@ -131327,15 +131330,15 @@ export const reviewsData: unknown[] = [
             "sponsored": true
           }
         ],
-        "emphasis": "Pelos números da tabela, para a maioria das peças a escolha é o site com o cupom, porque ele fica mais barato em 13 das 17 peças."
+        "emphasis": "Nesta seleção, o site com EMCASACOMCECILIA teve o menor preço em 13 das 17 linhas. A escolha final depende do preço da mesma cor e tamanho e do frete para o seu CEP."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O cupom EMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no site da Insider; no Mercado Livre vale o preço do anúncio.",
-          "A Insider é mais barata no Mercado Livre ou no site? Depende do produto. Com o cupom, o site ganhou em 13 dos 17 produtos; as três Daily ficam mais baratas no Mercado Livre.",
+          "A Insider é mais barata no Mercado Livre ou no site? Antes do frete, o site com EMCASACOMCECILIA ficou mais barato em 13 de 17 linhas. As três Daily e a Meia Spectrum Mid custavam menos no Mercado Livre; confira a mesma variante e o total entregue.",
           "A Daily aceita o cupom no site? Não. A página mostra \"desconto máximo aplicado\", e o teste no site confirmou isso.",
-          "O site da Insider tem frete grátis? Sim, em compras acima de R$ 399, contadas depois do desconto. Uma peça sozinha paga frete.",
+          "O site da Insider tem frete grátis? A regra consultada era acima de R$ 399 depois do desconto. Uma peça desta seleção não alcançava esse limite sozinha; simule o frete para o seu CEP.",
           "A loja do Mercado Livre é oficial? O botão deste texto leva à loja oficial da Insider no Mercado Livre. Confira o nome do vendedor no anúncio antes de pagar."
         ]
       }
@@ -131346,9 +131349,9 @@ export const reviewsData: unknown[] = [
         "Quem leva o Sutiã Comfy: o site, mesmo sem cupom."
       ],
       "skipIf": [
-        "Quem leva a Daily ou a Light: o Mercado Livre, porque a Daily não aceita o cupom no site e a Light só existe lá.",
-        "Quem leva a Meia Spectrum Mid: os preços empatam, compare os dois no dia da compra.",
-        "Quem leva uma peça só: ela paga frete no site, que só dá frete grátis em compras maiores."
+        "Quem procura Daily: as três opções comparadas custavam menos no Mercado Livre. Para Light, não houve par com o mesmo nome confirmado no site.",
+        "Quem leva a Meia Spectrum Mid: a vantagem do Mercado Livre era de centavos antes do frete; compare o total no dia da compra.",
+        "Se o pedido, já com o desconto, não chega ao frete grátis do site, compare o total com frete nos dois canais antes de decidir."
       ]
     }
   },
@@ -166873,7 +166876,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Para mais corpo, a Heavy é 20% mais encorpada que a Tech, e a Core, de viscose, é a mais leve. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Para o dia a dia, a Tech T-Shirt é a básica de 92% modal e 8% elastano. Segundo a Insider, a Heavy é 20% mais encorpada que a Tech; a Core tem viscose, modelagem regular e textura leve. O EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online, exceto em lançamentos."
         ]
       },
       {
@@ -166886,7 +166889,7 @@ export const reviewsData: unknown[] = [
             "Modelo",
             "Tecido, segundo a loja",
             "Preço (de)",
-            "Estoque e tamanhos"
+            "Variantes disponíveis/total e tamanhos"
           ],
           "rows": [
             [
@@ -166964,9 +166967,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Estoque é o número de variantes disponíveis sobre o total. Ele muda com as vendas, então confira o tamanho antes de comprar.",
+          "Os números indicam quantas combinações de cor e tamanho estavam disponíveis no cadastro consultado, não quantas peças havia no depósito. Confira a disponibilidade atual do seu tamanho.",
           "A loja às vezes tem cadastros com sobra de PP e preço mais baixo. A tabela usa o cadastro principal de cada peça.",
-          "A Oversized aparece só na tabela, sem link: resta uma peça, em PP.",
+          "A Oversized aparece só na tabela, sem link: havia uma variante disponível, no tamanho PP.",
           "Se a dúvida é a marca em si, com o preço, onde comprar e a troca, veja [Insider vale a pena?](/reviews/insider-vale-a-pena). A Light é vendida no Mercado Livre e está sem estoque no site: veja [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site)."
         ]
       },
@@ -166974,7 +166977,7 @@ export const reviewsData: unknown[] = [
         "heading": "Tech T-Shirt: a base do dia a dia",
         "paragraphs": [
           "A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) é a base do dia a dia: 92% modal e 8% elastano, por R$ 129, e a marca diz que desamassa no corpo e tem efeito antiodor.",
-          "A garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As outras linhas não trazem essa garantia.",
+          "A garantia de 2 anos contra desbotamento da Tech vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. Nas outras fichas consultadas, essa garantia não foi identificada.",
           "Quem leva mais de uma pode olhar o kit: o de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
           "As versões femininas, com a Tech, a Gola V e a manga longa, estão em [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher)."
         ],
@@ -167048,7 +167051,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Heavy e Heavy Slim: corpo e caimento",
         "paragraphs": [
-          "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) é 20% mais encorpada que a Tech: não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized. O preço vai de R$ 155 a R$ 199, conforme a cor e o tamanho.",
+          "Segundo a Insider, a [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) é 20% mais encorpada que a Tech, tem caimento mais liso e gramatura entre a Tech e a Oversized. É a opção a comparar se você prefere mais estrutura. Na tabela, o preço vai de R$ 155 a R$ 199, conforme cor e tamanho.",
           "A [Heavy Slim](https://creators.insiderstore.com.br/DVarEMW), também de 92% modal, tem gola fina, mangas um pouco mais curtas e tronco ajustado, diz a página. Sai por R$ 179 (de R$ 199), e a própria página indica a Heavy para quem quer um modelo mais solto."
         ],
         "images": [
@@ -167072,7 +167075,7 @@ export const reviewsData: unknown[] = [
           "items": [
             {
               "piece": "Heavy e Heavy Slim",
-              "howTo": "O tecido mais encorpado marca menos o corpo; a Slim, de gola fina e tronco ajustado, fica mais rente.",
+              "howTo": "A Heavy é a opção mais encorpada segundo a ficha; a Slim, de gola fina e tronco ajustado, fica mais rente.",
               "occasion": "Por baixo de blazer ou jaqueta, em cor neutra.",
               "pairsWith": [
                 {
@@ -167090,7 +167093,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Core e Daily: viscose, gramatura e encolhimento",
         "paragraphs": [
-          "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a de maior gramatura, modelagem regular e textura leve. A página diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento da primeira lavagem.",
+          "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), que a tabela registra por R$ 179 (de R$ 189), tem modelagem regular e textura leve, segundo a loja. Na ficha consultada, o comprimento já considerava 2 cm a mais para o encolhimento da primeira lavagem.",
           "A [Daily](https://creators.insiderstore.com.br/bRopqTz) custa R$ 99 (de R$ 139), o menor preço da tabela, e já tem o desconto máximo, por isso não aceita cupom. Ela pode encolher até 2 cm no comprimento; o limite de cada linha e como lavar estão em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar)."
         ],
         "images": [
@@ -167274,13 +167277,13 @@ export const reviewsData: unknown[] = [
         "heading": "Tamanho, garantia e troca",
         "paragraphs": [
           "Os tamanhos de cada linha estão na tabela acima. Para escolher, use a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider).",
-          "Pela central de ajuda, a troca é gratuita. O arrependimento vale por 7 dias úteis. A troca por insatisfação vale por 21 dias corridos, sem uso, com etiqueta e sem lavagem. Para defeito, o prazo é de 180 dias, com fotos. O pedido sai pelo Portal de Trocas."
+          "Segundo a central de ajuda da Insider, a troca é gratuita, a desistência vale em 7 dias úteis e a troca por insatisfação em 21 dias corridos, sem uso, com etiqueta e sem lavagem. Para defeito, o prazo informado é de 180 dias, com fotos. O direito legal de arrependimento na compra online é de 7 dias corridos, contados do recebimento. Confira as condições atuais no Portal de Trocas."
         ]
       },
       {
         "heading": "Para escolher uma só, a Tech T-Shirt",
         "paragraphs": [
-          "A Tech é a única linha com garantia de 2 anos contra desbotamento; as outras não trazem essa garantia. Quem quer mais corpo olha a Heavy."
+          "A Tech traz garantia de 2 anos contra desbotamento nas condições informadas pela loja; não identificamos a mesma garantia nas outras fichas consultadas. Quem quer mais corpo pode comparar a Heavy."
         ],
         "emphasis": "Para escolher uma só, a escolha é a Tech T-Shirt, porque é o ponto de partida do dia a dia, com garantia de 2 anos contra desbotamento."
       },
@@ -167291,17 +167294,17 @@ export const reviewsData: unknown[] = [
           "A Core encolhe? Pode: a página diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento da primeira lavagem. O limite de cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "Qual a diferença entre Tech e Heavy? Pela descrição da loja, a Heavy é 20% mais encorpada que a Tech e tem caimento mais liso. As duas são de 92% modal e 8% elastano.",
           "Dá para usar camiseta com calça social? Dá, num visual de trabalho menos formal: a polo ou uma camiseta lisa de cor neutra.",
-          "Qual camiseta usar por baixo do blazer? Lisa, de cor neutra e gola careca. Entre as da Insider, a Heavy é mais encorpada que a Tech e marca menos o corpo.",
+          "Qual camiseta usar por baixo do blazer? Uma lisa, de cor neutra e gola careca. A Heavy é mais encorpada que a Tech segundo a Insider; compare a modelagem e as medidas para escolher o caimento.",
           "O cupom vale na Daily? Não. A página diz que a Daily já tem o desconto máximo.",
           "Kit de camiseta compensa? O kit de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
-          "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
+          "Dá para devolver se não servir? Sim, dentro dos prazos da loja: 7 dias úteis para desistência e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem. Consulte o Portal de Trocas para o seu pedido."
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "Leve a Tech se quer a camiseta do dia a dia, sozinha ou por baixo de camisa aberta, com garantia de 2 anos contra desbotamento.",
-        "Leve a Heavy se não quer a camiseta marcando o corpo ou vai usá-la por baixo do blazer.",
+        "Compare a Heavy se prefere tecido mais encorpado ou uma camiseta para usar por baixo do blazer.",
         "Leve a Performance ou a Sportee se é para treino ao ar livre: as duas trazem proteção UV50+ na descrição."
       ],
       "skipIf": [
@@ -167735,13 +167738,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Kit de camiseta Tech ou Heavy compensa, e mais quanto maior o kit: o de 5 Tech sai bem mais barato por peça que a avulsa, e com o cupom EMCASACOMCECILIA o carrinho baixou ainda mais. Na cueca, só o kit de 2 Comfort economiza de verdade."
+          "Compensa para quem já quer cinco ou dez camisetas Tech: na tabela, o kit de 5 custa menos por peça que a avulsa, e o cupom EMCASACOMCECILIA entrou por cima do kit de 5 no nosso teste. No kit de 3, a economia é pequena."
         ]
       },
       {
         "heading": "Como ler a conta do kit",
         "paragraphs": [
-          "A conta é o preço do kit dividido pelo número de peças, comparado com a peça avulsa. O \"de\" que a loja mostra ao lado do kit usa o preço antigo das peças e não serve de base: o kit de 3 Tech aparece \"de R$ 507\", mas 3 Tech avulsas custam R$ 387.",
+          "Compare o preço do kit dividido pelo número de peças com as mesmas peças avulsas no mesmo dia. O preço riscado do kit não substitui essa conta: um kit de 3 Tech aparecia “de R$ 507”, mas três avulsas de R$ 129 somavam R$ 387.",
           "Os preços são os do cartão da loja em 30/10/2026, e o preço do dia pode ser outro: confira na loja. A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) avulsa custa R$ 129, de PP a XXGG. A loja também tem cadastros com um tamanho só, em geral PP, mais baratos, que ficam fora da conta.",
           "Com a Black Friday, os preços podem mudar. Antes de comprar, veja a [Black Friday Insider 2026](/reviews/black-friday-insider)."
         ],
@@ -167758,7 +167761,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisetas: a tabela",
         "paragraphs": [
-          "Na tabela, cada linha compara o kit com as avulsas: o de 5 e o de 10 Tech compensam, e o de 3, pouco."
+          "Preços no cartão, sem cupom e antes do frete. Cada linha compara o kit com a referência avulsa indicada; confira as mesmas cores e tamanhos no pedido."
         ],
         "comparisonTable": {
           "headers": [
@@ -167829,7 +167832,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A loja tem dois kits de 3 Tech com nomes parecidos. O de R$ 355,50 é o que entra na tabela. O outro, de R$ 456, custa R$ 69 a mais que as três avulsas."
+          "As duas versões de 3 Tech estão na tabela: a de R$ 355,50 ficava abaixo das três avulsas; a de R$ 456 custava R$ 69 a mais. Os nomes parecidos não significam o mesmo preço."
         ]
       },
       {
@@ -167909,7 +167912,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuecas e undershirt: a tabela",
         "paragraphs": [
-          "Peça avulsa de referência: [Cueca Comfort](https://creators.insiderstore.com.br/ptFyZqS) a R$ 79, [Cueca Performance](https://creators.insiderstore.com.br/nD3bAuj) de R$ 79 a R$ 95, conforme a variante, Cueca Slip a R$ 75 e undershirt Moderado de R$ 145 a R$ 159."
+          "Preços no cartão, sem cupom e antes do frete. Referências avulsas: [Comfort](https://creators.insiderstore.com.br/ptFyZqS) a R$ 79; [Performance](https://creators.insiderstore.com.br/nD3bAuj) de R$ 79 a R$ 95, conforme a variante; Slip a R$ 75; undershirt Moderado de R$ 145 a R$ 159. Compare o kit com a mesma variante que pretende levar."
         ],
         "comparisonTable": {
           "headers": [
@@ -168059,7 +168062,7 @@ export const reviewsData: unknown[] = [
           "Compensa pouco: Tech de 3, Cueca Comfort ou Performance de 3 e de 5, Slip de 5 e undershirt de 3.",
           "Não compensa: Daily de 3 (2%) e o kit de 3 Tech de R$ 456, que custa R$ 69 a mais que as avulsas."
         ],
-        "emphasis": "Pelos números da tabela, para camisetas lisas a escolha é o kit de 5 Tech, porque sai a R$ 108,88 por peça, contra R$ 129 da avulsa."
+        "emphasis": "Se você já quer cinco Tech, a tabela favorecia o kit de 5: R$ 108,88 por peça antes do cupom, contra R$ 129 da avulsa. Para outra quantidade, compare o total que pretende gastar, sem comprar peças extras só pela média menor."
       },
       {
         "heading": "Presente: outro texto",
@@ -168082,7 +168085,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve o kit de 5 ou de 10 Tech se quer várias camisetas lisas: é onde a economia por peça é maior.",
+        "Você já quer cinco ou dez camisetas Tech: compare esses kits com a mesma quantidade de avulsas. A economia da tabela é histórica e não substitui a conta do seu carrinho.",
         "Leve o kit de 2 Comfort se quer cueca: é a maior economia da tabela."
       ],
       "skipIf": [
@@ -168695,7 +168698,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida, em PP a XGG. A Gola V tem gola levemente alongada, e a Tech de manga longa é a opção para o frio. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida, em PP a XGG. A Gola V muda o decote, e a Tech de manga longa é a opção para o frio. O cupom EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online; confira a aplicação em cada peça."
         ]
       },
       {
@@ -168708,7 +168711,7 @@ export const reviewsData: unknown[] = [
             "Modelo",
             "Tecido, segundo a loja",
             "Preço (de)",
-            "Estoque e tamanhos"
+            "Combinações disponíveis / total; tamanhos"
           ],
           "rows": [
             [
@@ -168719,7 +168722,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Tech T-Shirt Gola V feminina](https://creators.insiderstore.com.br/hwvgusR)",
-              "92% modal, 8% elastano",
+              "92% modal, 8% elastano; índigo: 62% modal, 30% viscose, 8% elastano",
               "R$ 129 (de R$ 169)",
               "26 de 50; PP a GG"
             ],
@@ -168762,7 +168765,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Estoque é o número de tamanhos disponíveis sobre o total. Ele muda com as vendas, então confira o tamanho antes de comprar.",
+          "Os números mostram as combinações de cor e tamanho disponíveis sobre o total da grade, não unidades em estoque. Confira a sua combinação antes de comprar.",
           "Os modelos sem alça de cada linha estão aqui. Regatas e tops de alça têm outro guia."
         ]
       },
@@ -168817,9 +168820,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Gola V: a mesma linha, com outra gola",
+        "heading": "Gola V: outro decote e composição diferente na índigo",
         "paragraphs": [
-          "A [Gola V](https://creators.insiderstore.com.br/hwvgusR) é a mesma Tech com o decote em V, no mesmo preço, de 92% modal e 8% elastano. Para o trabalho com gola fechada, fique na Tech redonda."
+          "A [Gola V](https://creators.insiderstore.com.br/hwvgusR) tem decote em V e aparecia pelo mesmo preço da Tech redonda. A loja declara 92% modal e 8% elastano nas cores, exceto índigo: nela são 62% modal, 30% viscose e 8% elastano. Para usar gola fechada no trabalho, a opção é a Tech redonda."
         ],
         "images": [
           {
@@ -169065,7 +169068,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% na loja online, sem valor mínimo, um por pedido. Vale em todas as formas de pagamento e soma com o desconto do Pix. Não vale na loja física e pode não entrar nos primeiros dias de um lançamento.",
           "A Insider lista como lançamento a Tech T-Shirt feminina, a NEXTECH, a The Perfect Top T-Shirt e as duas Skin Cropped. Nos primeiros dias de lançamento, o cupom pode não entrar nelas: confira no carrinho.",
-          "Sem essa tag, a Gola V, de R$ 129, sai por R$ 109,65 com o cupom, e a Manga Longa, de R$ 199, por R$ 169,15.",
+          "Fora dessa lista, a conta de 15% sobre o preço de lista deixa a Gola V, de R$ 129, em R$ 109,65, e a Manga Longa, de R$ 199, em R$ 169,15.",
           "Regras e código estão em [cupom Insider: EMCASACOMCECILIA](/cupons/insider)."
         ]
       },
@@ -169087,7 +169090,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Tech T-Shirt feminina desbota? A marca diz que não, e a garantia de 2 anos contra desbotamento vale com uma lavagem por semana.",
-          "Qual a diferença entre Tech e Gola V? A gola. A Gola V tem gola levemente alongada, e a loja diz que o tecido é o mesmo.",
+          "Qual a diferença entre Tech e Gola V? O decote é a diferença mais visível. A composição da Gola V varia na índigo; a Tech redonda é descrita como INTECH, sem percentuais informados.",
           "A Daily encolhe? A página diz que pode encolher até 2 cm no comprimento depois da primeira lavagem. O limite de cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "O cupom vale na Daily feminina? Na Daily masculina, a página diz que o item já tem desconto máximo e não é cumulativo com cupom. Na feminina, confira no carrinho.",
           "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
@@ -169097,7 +169100,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a Tech feminina se quer a base do dia a dia, em PP a XGG, sozinha ou por baixo de camisa aberta e blazer.",
-        "Leve a Gola V se quer a mesma Tech com o decote em V, no mesmo preço.",
+        "Leve a Gola V se prefere decote em V; confira a composição da cor índigo, que difere das demais.",
         "Leve a Tech de manga longa se precisa de uma opção para o frio e a meia estação."
       ],
       "skipIf": [
@@ -172820,7 +172823,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que tem no Outlet feminino",
         "paragraphs": [
-          "O Outlet da Insider é a seção de últimas unidades da loja: peças e cores que saíram de linha, anunciadas como “até 50% OFF” e sem reposição. Quando um tamanho acaba, acabou, e a grade de cada peça só encolhe. É por isso que a coluna de cores e tamanhos pesa tanto quanto a de preço.",
+          "O Outlet da Insider é a seção de últimas unidades da loja: peças e cores que saíram de linha, anunciadas como “até 50% OFF” e sem reposição. A disponibilidade pode mudar; confirme a cor e o tamanho na ficha antes de comprar. É por isso que a coluna de cores e tamanhos pesa tanto quanto a de preço.",
           "A página feminina reúne 41 peças, 39 à venda. O desconto vai de 32% (Blusa Boxy Cropped) a 50% (Camiseta Boxy InLounge), e a maioria está em 40%. Os três sutiãs Nakedfeel entraram no Outlet com etiqueta de lançamento e preço cheio: neles, a única economia é o cupom. O cupom EMCASACOMCECILIA tira 15% por cima do preço do Outlet, e a conta já está feita na coluna “Com o cupom” de cada tabela. Preços de 31/10/2026, no cartão.",
           "As peças vêm separadas por tipo: sutiãs; calcinhas, body e kits; moda praia; camisetas e regatas Tech; blusas InLounge, Boxy e Perfect Body; vestidos e saia; calças, legging e shorts. Para as peças masculinas, veja [Outlet Insider masculino: o que vale a pena e quanto sai com o cupom](/reviews/outlet-insider-masculino-vale-a-pena). Para o kit de camisetas e cuecas, que tem conta própria, veja [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa)."
         ]
@@ -173658,16 +173661,16 @@ export const reviewsData: unknown[] = [
           "Vale mais para quem veste PP ou XGG: são os tamanhos que mais sobraram nas peças mais disputadas (Tech T-Shirt, Camiseta Boxy, Maiô, Top Wavy). Quem veste M ou G encontra grade cheia nos shorts Motion e Serotonin, na Tech Gola Alta Manga Longa, nas regatas, nos vestidos e na Saia Kyoto.",
           "Pelo preço, as entradas mais baratas são a Regata Intech (R$ 70,55 com o cupom), a Regata Comfy InLounge (R$ 68,85) e as calcinhas em kit, a partir de R$ 31,45 por peça. O maior desconto é o da Camiseta Boxy InLounge, 50%, se o PP servir. Os sutiãs Nakedfeel só compensam para quem já os queria: o preço é o cheio, e o cupom é a mesma economia de fora do Outlet."
         ],
-        "emphasis": "Se fosse para mim, eu levaria a Regata Comfy InLounge, porque é a blusa mais barata do Outlet e o preto vai do PP ao M."
+        "emphasis": "Se fosse para mim, eu olharia a Regata Comfy InLounge, a blusa mais barata do Outlet: o preto vai do PP ao M, e confira a grade atual antes de decidir."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O Outlet feminino da Insider vale a pena? Vale para quem acha a sua cor e o seu tamanho na grade: o desconto vai de 32% a 50%, e o cupom EMCASACOMCECILIA soma 15% por cima.",
           "O cupom EMCASACOMCECILIA funciona no Outlet? Sim: no teste no carrinho, deu 15% sobre o preço do Outlet, inclusive em peças com etiqueta de lançamento, como os sutiãs Nakedfeel. Vale um cupom por pedido.",
-          "Os sutiãs Nakedfeel têm desconto no Outlet? Não: os três estão no preço cheio, de R$ 189 a R$ 199, e só o cupom baixa, para R$ 160,65 e R$ 169,15.",
+          "Os sutiãs Nakedfeel têm desconto no Outlet? Não: os três estão no preço cheio, de R$ 189 a R$ 199, e só o cupom baixa, para R$ 160,65 e R$ 169,15. Confira o preço no carrinho.",
           "Dá para trocar uma peça do Outlet? Roupas trocam em 21 dias corridos, novas e com etiqueta; sutiãs, calcinhas e moda praia só trocam por defeito.",
-          "Alguma peça feminina do Outlet já esgotou? Sim: a Camiseta Oversized Comfy InLounge e o Perfect Body Decote U aparecem na página, mas sem tamanho à venda."
+          "Alguma peça feminina do Outlet já esgotou? Sim: a Camiseta Oversized Comfy InLounge e o Perfect Body Decote U apareciam sem tamanho à venda; confira a grade atual."
         ]
       }
     ],
@@ -173726,7 +173729,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Outlet masculino da Insider vale a pena? As cinco peças com 40% ou mais de desconto, o preço com o cupom EMCASACOMCECILIA, o que sobrou de cor e tamanho e quando o kit compensa.",
+    "description": "Cinco peças masculinas do Outlet Insider com 40% ou mais de desconto, o preço de cada uma com o cupom EMCASACOMCECILIA e a conta de quando o kit de Tech T-Shirt compensa.",
     "metaDescription": "Outlet Insider masculino com o EMCASACOMCECILIA e 15% OFF: o preço de cada Tech T-Shirt, regata e short, o que sobrou na grade e a conta do kit.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
@@ -173748,7 +173751,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que tem no Outlet masculino",
         "paragraphs": [
           "O Outlet da Insider é a página em que a loja junta as peças em fim de linha: cores e modelos que saíram do catálogo, com “até 50% OFF” nas últimas unidades e sem reposição, diz a página. Quando uma cor acaba num tamanho, aquela combinação some da página e não volta.",
-          "No filtro masculino aparecem seis produtos, e um deles, a Camiseta Oversized Comfy InLounge, já está esgotado. Sobram cinco à venda, em dois grupos: três camisetas Tech T-Shirt (gola redonda, gola V e manga longa) e duas peças de treino, a Regata InTech e o Short Esportivo Endorphine. Todas estão com 40% ou 41% de desconto sobre o preço riscado, e o cupom EMCASACOMCECILIA tira mais 15% por cima.",
+          "No filtro masculino apareciam seis produtos, e um deles, a Camiseta Oversized Comfy InLounge, estava esgotado. Eram cinco à venda, em dois grupos: três camisetas Tech T-Shirt (gola redonda, gola V e manga longa) e duas peças de treino, a Regata InTech e o Short Esportivo Endorphine. Todas tinham 40% ou 41% de desconto sobre o preço riscado, e o cupom EMCASACOMCECILIA tirava mais 15% por cima.",
           "Os dois grupos vêm a seguir, cada um com o preço no Outlet, o preço com o cupom e as cores e os tamanhos que sobraram. Preços de 31/10/2026, no cartão."
         ],
         "images": [
@@ -173765,7 +173768,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisetas Tech T-Shirt: gola redonda, gola V e manga longa",
         "paragraphs": [
-          "A Tech T-Shirt é a camiseta principal da Insider, e aqui a escolha é de gola e manga: as três do Outlet são a mesma peça em gola redonda, gola V e manga longa. O tecido é 92% modal e 8% elastano (na cor Indigo, 62% modal, 30% viscose e 8% elastano), diz a página: não desbota, desamassa no corpo e é antiodor, com garantia de 2 anos contra desbotamento.",
+          "A Tech T-Shirt aparece nas versões de gola redonda, gola V e manga longa. Segundo a página, o tecido tem 92% modal e 8% elastano; na cor Indigo, 62% modal, 30% viscose e 8% elastano. A marca diz que não desbota, desamassa no corpo, é antiodor e tem garantia de 2 anos contra desbotamento.",
           "A gola redonda é a que tem mais cores e tamanhos. A gola V custa o mesmo, mas ficou só com Flame Red e Beetroot. A manga longa, de inverno e meia-estação, é a mais cara do grupo e a de grade mais curta. As duas de manga curta são o menor preço por camiseta de todo o Outlet masculino."
         ],
         "comparisonTable": {
@@ -173878,7 +173881,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para o treino: Regata InTech e Short Esportivo Endorphine",
         "paragraphs": [
-          "A Regata InTech é a Tech T-Shirt sem mangas, no mesmo tecido de modal, e é a peça mais barata de todo o Outlet masculino, com a grade mais cheia da página: Preto e Nori Green vão do PP ao XXGG. O Short Esportivo Endorphine é a peça mais cara e a única com etiqueta de lançamento.",
+          "A Regata InTech era a peça mais barata entre as cinco, e Preto e Nori Green apareciam do PP ao XXGG. O Short Esportivo Endorphine era a peça mais cara e tinha etiqueta de lançamento. Confira composição e grade de cada peça na página antes de escolher.",
           "O Endorphine é um short leve de comprimento médio, diz a página, com bolsos laterais e cordão interno na cintura, em poliamida com elastano, de toque gelado e secagem rápida. Regata e short juntos fazem um conjunto de treino inteiro saído do Outlet."
         ],
         "comparisonTable": {
@@ -173978,7 +173981,7 @@ export const reviewsData: unknown[] = [
         "heading": "Outlet ou kit?",
         "paragraphs": [
           "Quem quer só Tech T-Shirt de manga curta tem duas saídas: a do Outlet, a R$ 99, ou o kit de 5, em que cada camiseta sai a R$ 108,88 sem cupom. Com o cupom, a do Outlet fica em R$ 84,15 e a do kit em R$ 92,55; a conta inteira está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
-          "O Outlet ganha no preço e o kit ganha na escolha: no kit você monta cor e tamanho, e no Outlet só leva as combinações que sobraram na tabela. Se o seu tamanho está lá, o Outlet é a compra mais barata; se não está, o kit resolve."
+          "A Tech avulsa do Outlet custava menos por peça que a média do kit de cinco. O kit exige comprar cinco peças; antes de escolher, confira as cores, os tamanhos, o preço final e o frete dos dois caminhos."
         ],
         "images": [
           {
@@ -174003,7 +174006,7 @@ export const reviewsData: unknown[] = [
           "Para o treino: a Regata InTech é a peça mais barata de todas, a R$ 70,55 com o cupom, com grade quase completa em Preto e Nori Green. O Short Endorphine, a R$ 141,95, é a compra mais cara da página: vale para quem já queria o short, não como achado de outlet."
         ],
         "postParagraphs": [
-          "Se nada disso está no seu tamanho, o kit de Tech T-Shirt resolve com escolha total de cor e tamanho, por um pouco mais por camiseta."
+          "Se a combinação desejada não estiver no Outlet, confira as opções e o custo total do kit de Tech T-Shirt antes de decidir."
         ],
         "emphasis": "No Outlet masculino, a escolha é a Tech T-Shirt de gola redonda, porque é a mais barata das camisetas e a de grade mais cheia."
       },
@@ -174020,8 +174023,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O Outlet da Insider vale a pena? Vale quando a sua cor e o seu tamanho ainda estão na página: são peças do catálogo com 40% ou mais de desconto, e o cupom EMCASACOMCECILIA entra por cima.",
           "O cupom EMCASACOMCECILIA funciona no Outlet da Insider? Sim. No teste no carrinho, ele deu 15% sobre o preço do Outlet nas cinco peças masculinas, inclusive no Short Esportivo Endorphine.",
-          "Tem peça masculina sem desconto no Outlet? Não. As cinco à venda têm entre 40% e 41% de desconto sobre o preço riscado.",
-          "A Camiseta Oversized Comfy InLounge masculina ainda está à venda? Não, está esgotada no Outlet.",
+          "Tem peça masculina sem desconto no Outlet? Não: as cinco que estavam à venda tinham entre 40% e 41% sobre o preço riscado. Confira a seleção e o preço atuais na loja.",
+          "A Camiseta Oversized Comfy InLounge masculina ainda está à venda? Ela aparecia esgotada no Outlet. Confira a disponibilidade atual na loja.",
           "Dá para trocar peça do Outlet? Sim. Segundo a política da Insider, a roupa troca por tamanho ou insatisfação em 21 dias corridos, com a peça nova e com a etiqueta."
         ]
       }
@@ -174062,7 +174065,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Quem não acha o seu tamanho na cor que quer: o Outlet não repõe.",
         "Quem veste M ou G e quer a manga longa: a grade dela é a mais curta, com PP, P e XGG na maioria das cores.",
-        "Quem quer escolher cor e tamanho livremente: o kit de Tech T-Shirt resolve."
+        "Quem precisa de uma cor e um tamanho que o Outlet já não tem: nesse caso, o kit de Tech T-Shirt resolve."
       ]
     }
   },
@@ -189808,16 +189811,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do tecido. A Tech T-Shirt da Insider é de modal, com garantia de cor de 2 anos; a Camiseta Minimal é de algodão egípcio com elastano e tem 30 dias para trocar. Com o cupom da Insider, a Tech fica praticamente no preço da Tech Modal da Minimal, e o quadro por perfil diz o resto."
+          "Entre as duas de modal, a Tech T-Shirt da Insider tem garantia de cor e, com cupom, fica quase no preço da Tech Modal da Minimal. Entre Core e Camiseta Minimal, a escolha é viscose ou algodão com elastano. A Minimal Club dá mais prazo para trocar por tamanho."
         ]
       },
       {
-        "heading": "Tecido: modal da Insider ou algodão da Minimal",
+        "heading": "Tecido: modal, viscose e algodão",
         "paragraphs": [
-          "O que separa as quatro camisetas é a fibra, e as duas marcas a publicam na página do produto. No primeiro par, as duas são modal com elastano, em misturas quase iguais: parece a mesma fibra, mas é outra peça. No segundo, a diferença é de fibra: a Core é viscose, a Camiseta Minimal é algodão egípcio, as duas com um pouco de elastano.",
+          "Tech e Tech Modal usam modal com elastano em proporções próximas, com exceção da Tech índigo, que também leva viscose. A semelhança de composição não permite concluir que tenham o mesmo toque, caimento ou durabilidade. No outro par, a fibra principal muda: a Core usa viscose e a Camiseta Minimal usa algodão egípcio, ambas com elastano.",
           "A Insider chama a Core de a mais encorpada da linha, mas nenhuma das duas lojas publica o peso do tecido em g/m², então a comparação fica na descrição.",
           "Na cor índigo, a Tech muda de mistura: a página lista 62% modal, 30% viscose e 8% elastano. Vale conferir a cor antes de comprar.",
-          "Na dúvida entre as duas fibras, decida pela lavagem: o modal da Tech vem com garantia de cor por escrito; a Minimal não publica prazo de cor."
+          "Se a preocupação é desbotamento, a Tech tem uma garantia de cor com prazo e condições publicados. Essa garantia pertence à peça; a composição em modal, sozinha, não assegura conservação da cor."
         ]
       },
       {
@@ -189826,40 +189829,40 @@ export const reviewsData: unknown[] = [
           "São quatro peças, em dois pares: a Tech contra a Tech Modal, e a Core contra a Camiseta Minimal."
         ],
         "comparisonTable": {
-          "caption": "Preço no cartão lido na Insider e na Minimal em 05/11/2026. O Pix muda nas duas lojas e não entra na conta.",
+          "caption": "Preços no cartão consultados em 05/11/2026. Valores com cupom calculados para uma camiseta, sem frete e sem Pix, quando o desconto se aplica ao item.",
           "headers": [
             "Modelo",
             "Tecido",
-            "Preço no cartão",
+            "Preço no cartão e com cupom",
             "Troca",
             "Garantia ou promessa"
           ],
           "rows": [
             [
               "[Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y)",
-              "92% TENCEL modal, 8% elastano",
-              "R$ 129 (de R$ 169)",
+              "92% TENCEL modal, 8% elastano; na cor índigo: 62% modal, 30% viscose e 8% elastano",
+              "R$ 129 (de R$ 169); R$ 109,65 com EMCASACOMCECILIA",
               "21 dias corridos por insatisfação; 180 dias para defeito",
               "Garantia de cor de 2 anos; antiodor (promessa da marca)"
             ],
             [
               "Minimal Tech Modal",
               "91% modal, 9% elastano",
-              "R$ 109,90",
+              "R$ 109,90; cupom da Insider não se aplica",
               "30 dias corridos; 90 dias para defeito",
               "Sem garantia de cor com prazo publicada"
             ],
             [
               "[Core T-Shirt](https://creators.insiderstore.com.br/c5rL74B)",
               "94% viscose, 6% elastano",
-              "R$ 179 (de R$ 189)",
+              "R$ 179 (de R$ 189); R$ 152,15 com EMCASACOMCECILIA",
               "21 dias corridos por insatisfação; 180 dias para defeito",
               "Maior gramatura da linha, segundo a loja; tamanho já leva 2 cm a mais no comprimento"
             ],
             [
               "Minimal Camiseta Minimal",
               "93% algodão egípcio, 7% elastano",
-              "R$ 169,90",
+              "R$ 169,90; cupom da Insider não se aplica",
               "30 dias corridos; 90 dias para defeito",
               "Sem garantia de cor com prazo publicada"
             ]
@@ -189872,8 +189875,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech contra Tech Modal: modal com modal",
         "paragraphs": [
-          "Entre as duas de modal, a garantia de cor decide: só a Tech a tem por escrito, e com o cupom as duas saem na mesma faixa. O antiodor da Tech é promessa da marca, sem número de lavagens.",
-          "Para quem quer modal com garantia de cor, a Tech é a escolha; as condições estão em Troca e garantia, mais abaixo. Se o cupom não entrar no item, a Tech Modal é a mais barata no cartão."
+          "Entre as duas de modal, a garantia de cor favorece a Tech se esse for seu critério: só ela tem prazo publicado entre as duas peças comparadas. Com o cupom, os preços ficam próximos. O antiodor da Tech é promessa da marca, sem número de lavagens.",
+          "Para quem quer modal com garantia de cor, a Tech é a escolha; as condições estão em Troca e garantia, mais abaixo. Nos preços da tabela, se o cupom não entrar no item, a Tech Modal custa menos entre as duas no cartão."
         ],
         "images": [
           {
@@ -189912,7 +189915,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Core contra Camiseta Minimal: as premium",
         "paragraphs": [
-          "Entre as premium, a fibra decide, não o preço: a Core é para quem quer a camiseta mais encorpada da Insider e aceita viscose; quem quer algodão fica na Camiseta Minimal, e aí o cupom não muda a escolha.",
+          "A Core é para quem busca a peça que a Insider descreve como a mais encorpada da linha e aceita viscose. Se você prefere algodão com elastano, escolha a Camiseta Minimal. Se a fibra for indiferente, compare o preço com cupom e o prazo de troca das duas.",
           "A página da Core diz que o tamanho já considera 2 cm a mais no comprimento, por causa do encolhimento. Ao comparar com outra marca, olhe as medidas da peça, não só o número da etiqueta."
         ],
         "images": [
@@ -189931,8 +189934,8 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Core",
               "url": "https://creators.insiderstore.com.br/c5rL74B",
-              "howTo": "Modelagem regular e textura leve: serve como peça única, sem camada por cima.",
-              "occasion": "Casa e passeio em dias quentes.",
+              "howTo": "Use como peça única, sem camada por cima.",
+              "occasion": "Casa, passeio e compromissos informais.",
               "pairsWith": [
                 {
                   "label": "Bermuda Future Shorts",
@@ -189949,15 +189952,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço com o cupom",
         "paragraphs": [
-          "Conta nossa, pelos preços da tabela, com uma camiseta, no cartão, sem frete e sem Pix: a Tech sai por R$ 109,65 com o cupom (15% de R$ 129 são R$ 19,35), R$ 0,25 abaixo da Tech Modal; a Core sai por R$ 152,15, R$ 17,75 abaixo da Camiseta Minimal. No primeiro par a diferença são centavos; no segundo existe, mas o tecido é outro.",
-          "O cupom EMCASACOMCECILIA dá 15% na loja online da Insider, sem valor mínimo e um por pedido. Não vale na loja física nem soma com outro cupom, e a loja exclui lançamentos. A marcação de lançamento no catálogo nem sempre bate com o que o carrinho aplica, então confira se o desconto entrou em cada item.",
-          "O Pix muda nas duas lojas, então confira o preço do dia nos dois sites antes de decidir. A Insider dá frete grátis acima de R$ 399, depois do desconto; a Minimal, acima de R$ 500. Regras e o passo a passo do código estão no [cupom Insider](/cupons/insider)."
+          "Com 15% de desconto sobre os preços da tabela, para uma camiseta no cartão, sem frete e sem Pix, a Tech fica R$ 0,25 abaixo da Tech Modal; a Core, R$ 17,75 abaixo da Camiseta Minimal. A primeira diferença é de centavos; a segunda pode pesar se você aceita tanto viscose quanto algodão.",
+          "O cupom EMCASACOMCECILIA dá 15% na loja online da Insider, sem valor mínimo e um por pedido. Não vale na loja física, não soma com outro cupom e não se aplica a pedido pago com gift card. A regra da loja exclui lançamentos, mas a marcação do catálogo nem sempre coincide com a aplicação no carrinho. Confira a linha do código em cada item antes de pagar.",
+          "Confira o preço no Pix nas duas lojas antes de decidir. Na Insider, o cupom soma com o desconto do Pix, salvo restrição da promoção. Nas condições consultadas, a Insider oferece frete grátis acima de R$ 399, depois do desconto; a Minimal, acima de R$ 500. Compare o total com entrega para o seu CEP."
+        ],
+        "links": [
+          {
+            "label": "cupom Insider",
+            "href": "/cupons/insider"
+          }
         ]
       },
       {
         "heading": "Troca e garantia",
         "paragraphs": [
-          "Se a dúvida é o tamanho, a Minimal dá mais prazo; se a dúvida é a cor, só a Insider tem garantia com prazo. A Insider troca de graça. O arrependimento vale por 7 dias úteis; a troca por insatisfação, por 21 dias corridos, com a peça sem uso, com etiqueta e sem lavagem; e o defeito, por 180 dias, com fotos. O pedido sai pelo Portal de Trocas.",
+          "Se a dúvida é o tamanho, a Minimal dá mais prazo para trocar. Para desbotamento, só a Tech tem garantia de cor com prazo publicado. A Insider troca de graça: por insatisfação, são 21 dias corridos, com a peça sem uso, com etiqueta e sem lavagem; o pedido sai pelo Portal de Trocas.",
           "A garantia de cor da Tech é de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida; a página da Tech diz a partir de que compra ela vale.",
           "A Minimal dá 30 dias corridos para arrependimento, troca por tamanho, produto errado ou expectativa não atendida, e 90 dias para defeito. A loja paga o frete da devolução e da primeira troca."
         ]
@@ -189965,23 +189974,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher por perfil",
         "paragraphs": [
-          "Pelos números da tabela, o tecido decide e o preço quase não decide: no primeiro par, o cupom deixa as duas na mesma faixa."
+          "Entre Tech e Tech Modal, o cupom deixa o preço próximo e a garantia pode decidir. Entre Core e Camiseta Minimal, pese a diferença de preço junto da sua preferência por viscose ou algodão."
         ],
         "bullets": [
           "Quer modal, com garantia de cor por escrito: Tech T-Shirt, com o cupom.",
           "Quer algodão com elastano e mais prazo para trocar por tamanho: Camiseta Minimal.",
           "Quer a peça que a Insider chama de mais encorpada, de viscose: Core, que com o cupom sai R$ 17,75 abaixo da Camiseta Minimal.",
-          "Olha só o preço: Tech Modal da Minimal, a mais barata sem cupom nenhum; com o cupom a Tech empata, e aí a garantia desempata."
+          "Prioriza o menor preço entre as quatro no cartão: Tech Modal sem cupom; com EMCASACOMCECILIA aplicado, a Tech fica R$ 0,25 abaixo, antes do frete."
         ],
-        "emphasis": "O Bruno preferia levar a Tech T-Shirt: com o cupom, ela sai no preço da Tech Modal e traz garantia de cor por escrito, e o modal é um tecido ótimo para o verão e para lugares quentes o ano todo."
+        "emphasis": "O Bruno preferia levar a Tech T-Shirt: nos preços comparados, com o cupom aplicado, ela fica quase no preço da Tech Modal e traz garantia de cor por escrito. A garantia de dois anos depende dos cuidados e das condições descritos acima."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é melhor, Insider ou Minimal Club? Depende do que pesa: tecido e garantia de cor apontam para a Insider; prazo de troca por tamanho aponta para a Minimal. O quadro por perfil resolve.",
+          "Qual é melhor, Insider ou Minimal Club? Entre as camisetas comparadas, a Tech da Insider tem garantia de cor com prazo; a Minimal Club oferece mais tempo para troca por tamanho e uma opção de algodão com elastano. As duas marcas têm camiseta de modal. Escolha pelo critério que pesa para você.",
           "Minimal Club vale a pena? Vale se o tamanho é a dúvida, porque a troca dela tem mais prazo e o frete da devolução fica por conta da loja. A seção de troca mostra as regras de cada uma.",
           "Camiseta Minimal ou Insider, qual a melhor? Pelo tecido, a Camiseta Minimal é algodão egípcio com elastano; a Insider tem Tech de modal e Core de viscose. Quem quer algodão fica na Minimal; quem quer modal com garantia de cor fica na Insider.",
-          "Camiseta Insider desbota? A Tech tem garantia de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida, para compras feitas a partir da data dos termos da loja. A página da Core não traz essa garantia."
+          "Camiseta Insider desbota? A Tech tem garantia de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida, para compras feitas a partir da data dos termos da loja. A página da Core não traz essa garantia.",
+          "Qual é o cupom da Insider? EMCASACOMCECILIA dá 15% de desconto nos itens elegíveis da loja online; confira as exclusões e a aplicação por item antes de pagar."
         ]
       }
     ],
@@ -189989,10 +189999,10 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Leve a Tech T-Shirt se quer modal com garantia de cor por escrito e o preço com o cupom, sem trocar de tecido.",
         "Leve a Camiseta Minimal se prefere algodão com elastano e quer mais prazo para trocar por tamanho.",
-        "Leve a Core se quer a peça que a Insider chama de mais encorpada, de viscose, e ela sai abaixo da Camiseta Minimal com o cupom."
+        "Leve a Core se quer a peça que a Insider chama de mais encorpada e prefere viscose. Nos preços comparados, ela custa menos que a Camiseta Minimal com o cupom aplicado."
       ],
       "skipIf": [
-        "Passe na Tech Modal da Minimal se a garantia de cor pesa: a única garantia de cor com prazo é a da Insider.",
+        "Passe na Tech Modal da Minimal se você exige garantia de cor com prazo publicado: entre as duas de modal, essa condição está documentada para a Tech T-Shirt da Insider.",
         "Passe na Core se o que você quer é algodão: ela é de viscose, com 6% de elastano."
       ]
     },
@@ -190527,8 +190537,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Insider publica quanto cada linha pode encolher. Aqui, a tabela, como lavar a Tech e a Perfect Top, e o vídeo em que o amarelo e o cheiro de suor saíram sem sabão.",
-    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% na Insider. Veja quanto cada linha pode encolher, como lavar e a mancha e o suor que saíram sem sabão no vídeo.",
+    "description": "Veja os limites de encolhimento da Insider e como lavar. O vídeo mostra a Perfect Top sem o amarelo da axila; Cecília relata que o cheiro também saiu, sem sabão.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% na Insider. Veja quanto cada linha pode encolher, como lavar e o relato da Cecília sobre a lavagem da Perfect Top.",
     "publishedAt": "6 de novembro de 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -190541,13 +190551,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pode encolher: a Insider publica um limite por linha, de 3% na Perfect Top a 8% na Tech. Lave pela etiqueta e escolha o tamanho antes, porque a troca não aceita peça lavada. No vídeo, uma Perfect Top saiu da máquina sem o amarelo da axila e sem o cheiro de suor, sem sabão e sem esfregar."
+          "Pode encolher: a Insider publica limites de 3% na Perfect Top a 8% na Tech. Escolha o tamanho antes de lavar e siga a etiqueta. No vídeo, a Perfect Top da Cecília aparece sem o amarelo da axila após uma lavagem sem sabão; ela também relata que o cheiro de suor saiu."
         ]
       },
       {
         "heading": "Quanto cada linha pode encolher",
         "paragraphs": [
-          "A Perfect Top é a linha que menos pode encolher; a Tech, a Core e a Oversized são as que mais. A tabela traz o limite de cada linha, com a água e a secadora que a etiqueta pede. É o máximo publicado pela marca, não o que a sua peça vai encolher."
+          "Entre as linhas desta tabela, a Perfect Top tem o menor limite publicado; Tech, Core e Oversized têm o maior. São os máximos informados pela Insider, não uma previsão de quanto a sua peça vai encolher. Confira também a água e a secadora permitidas para cada linha."
         ],
         "comparisonTable": {
           "caption": "Limite de encolhimento por linha, na central de ajuda da Insider",
@@ -190648,7 +190658,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que o vídeo mostra",
         "paragraphs": [
           "Usei: a Blusa de Alça The Perfect Top branca, que comprei, com a costura embaixo do braço amarelada e com cheiro de suor. A peça foi para a máquina a 30 °C, sem esfregar e sem sabão nenhum, dentro da sacola de lavar em que a Insider entrega o produto: não precisa comprar outra.",
-          "O vídeo mostra o antes e o depois em tela dividida: depois da lavagem, a peça está branca, sem o amarelo. O cheiro de suor também saiu, sem nenhum produto. No fim, fica o aviso: não é toda roupa que faz isso.",
+          "O vídeo mostra o antes e o depois em tela dividida: depois da lavagem, a peça está branca, sem o amarelo. Depois de lavar, também percebi que o cheiro de suor tinha saído. Não usei nenhum produto. No fim do vídeo, fica o aviso: não é toda roupa que faz isso.",
           "A etiqueta da Perfect Top pede sabão neutro e água abaixo de 30 °C: no dia a dia, siga a etiqueta. O vídeo mostra o que uma lavagem sem sabão fez nessa peça, não um método. Não medi a peça antes e depois, então ele não responde se ela encolheu; o limite da linha está na tabela."
         ],
         "links": [
@@ -190680,16 +190690,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Odor: o cheiro de suor saiu sem produto",
         "paragraphs": [
-          "Na Perfect Top do vídeo, o cheiro de suor saiu na lavagem, sem sabão e sem nenhum produto. É o resultado de uma peça, não uma garantia para todas.",
+          "Na Perfect Top que lavei, também percebi que o cheiro de suor saiu, sem sabão e sem nenhum produto. Essa percepção se refere àquela peça e àquela lavagem; o resultado pode variar.",
           "No papel, a marca só promete antiodor na Tech: a loja diz que o modal segura as bactérias do mau cheiro, e não diz por quantas lavagens isso dura. A página da Perfect Top não fala em antiodor."
         ]
       },
       {
-        "heading": "Trocar depois de lavar não dá",
+        "heading": "Troca por tamanho: prove antes de lavar",
         "paragraphs": [
-          "Peça lavada não volta: a troca por tamanho ou por insatisfação tem 21 dias corridos, e exige a peça sem uso, com a etiqueta e sem sinal de lavagem. O arrependimento vale por 7 dias úteis.",
-          "Então não dá para lavar, ver se encolhe e trocar. O tamanho se escolhe antes, pela tabela de medidas.",
-          "A central não descreve encolhimento como defeito. Se a peça encolher, pergunte ao atendimento pelo WhatsApp antes de contar com a troca. Para uma peça nova, o [cupom Insider](/cupons/insider) vale na loja online. A política de troca inteira está em [Insider Store é confiável?](/reviews/insider-store-e-confiavel)."
+          "Para a troca por tamanho ou insatisfação, a central informa 21 dias corridos e exige a peça sem uso, com etiqueta e sem sinal de lavagem.",
+          "Prove a peça e confira a tabela de medidas antes de lavar. Não conte com a troca por tamanho para testar quanto ela encolhe.",
+          "Se a peça encolher, consulte o atendimento pelo WhatsApp para avaliar o caso. A exigência de peça sem lavagem se refere à troca por tamanho ou insatisfação. A política completa está em [Insider Store é confiável?](/reviews/insider-store-e-confiavel). Se decidir por uma nova peça, veja as condições do [cupom Insider](/cupons/insider) para a loja online."
         ]
       },
       {
@@ -190698,7 +190708,7 @@ export const reviewsData: unknown[] = [
           "Camiseta Insider encolhe? Pode. A Insider publica um limite por linha, e a tabela de “Quanto cada linha pode encolher” traz o de cada uma.",
           "Camiseta Insider encolhe na secadora? A marca só libera a secadora, em baixa temperatura, na Perfect Top e na Oversized; nas outras, a Tech inclusive, ela pede varal à sombra. A tabela do início traz cada linha.",
           "Como lavar camiseta Insider? Depende da linha: a água vai de abaixo de 30 °C a abaixo de 40 °C, e só a Perfect Top e a Oversized aceitam secadora. A Perfect Top e a Tech pedem ciclo delicado, sem alvejante nem amaciante e sem torcer; o passo a passo está nos capítulos de lavagem.",
-          "Como tirar mancha da camiseta Insider? No vídeo, a costura amarela da axila de uma Perfect Top saiu só na máquina, a 30 °C, sem sabão e sem esfregar, e o cheiro de suor também. O capítulo de mancha traz o que a central indica para reduzir.",
+          "Como tirar mancha da camiseta Insider? No vídeo, a costura amarela da axila de uma Perfect Top aparece limpa após a lavagem a 30 °C, sem sabão e sem esfregar. A Cecília também relata que o cheiro saiu. Para o cuidado diário, siga a etiqueta; o capítulo de mancha reúne as orientações da central.",
           "Camiseta Insider mancha de desodorante? Pode amarelar a axila: a marca explica que a mancha vem do suor, da oleosidade e do antitranspirante com alumínio, e não é defeito da peça. As quatro dicas para reduzir estão no capítulo da mancha."
         ]
       }
