@@ -17,6 +17,7 @@
   "metaDescription": "Onde colar o SKEMCASACOMCECILIA na sacola da Skelt e o que conferir no resumo: 10% OFF em todo o site, que soma com a promoção e com os 5% do Pix.",
   "publishedAt": "21 de outubro de 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/skelt/cupom-skelt-capa-discover.webp",
@@ -159,21 +160,17 @@
         ],
         "rows": [
           [
-            "12 cidades, como São Paulo, Belo Horizonte, Curitiba e Goiânia",
+            "Sul, Sudeste e Centro-Oeste (inclui São Paulo, Belo Horizonte, Curitiba e Goiânia)",
             "Sem valor mínimo"
           ],
           [
-            "Sul, Sudeste e Centro-Oeste",
-            "A partir de R$ 199"
-          ],
-          [
             "Norte e Nordeste",
-            "A partir de R$ 299"
+            "A partir de R$ 199"
           ]
         ]
       },
       "postParagraphs": [
-        "Como o mínimo vale sobre o valor final, um desconto pode deixar o pedido abaixo da faixa da sua região. Se o pedido está perto do mínimo da sua região, confira o frete no resumo depois de aplicar o cupom."
+        "No Sul, no Sudeste e no Centro-Oeste não há valor mínimo, então o cupom não tira o frete grátis. No Norte e no Nordeste, o mínimo vale sobre o valor final, e um desconto pode deixar o pedido abaixo de R$ 199. Se o pedido está perto do mínimo, confira o frete no resumo depois de aplicar o cupom."
       ]
     },
     {
@@ -199,7 +196,7 @@
         "O cupom soma com o PRIMEIRA10? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar o PRIMEIRA10 trocou o SKEMCASACOMCECILIA.",
         "O cupom tira o brinde? Pode tirar. O valor mínimo dos brindes conta o pedido depois dos descontos, então o cupom e o Pix podem deixar o total abaixo da faixa.",
         "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial da Skelt. No Mercado Livre, vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link de compra da marca](https://meli.la/2unTb7k), que abre antes a página da Cecília no Mercado Livre, como todo link meli.la.",
-        "O cupom dá frete grátis? Depende da região e do valor final do pedido, já com o cupom: veja a tabela de frete acima antes de pagar.",
+        "O cupom dá frete grátis? Depende da região: no Sul, no Sudeste e no Centro-Oeste o frete é grátis sem valor mínimo, e no Norte e no Nordeste a partir de R$ 199, sobre o valor final com o cupom. Veja a tabela de frete acima antes de pagar.",
         "Onde coloco o cupom na Skelt? Na sacola, no campo \"Cupom de desconto\", abaixo do CEP, e depois clique em OK, antes de escolher a forma de pagamento.",
         "O cupom vale para quem já tem conta? Não testamos. Confira no checkout, depois de aplicar o código."
       ]

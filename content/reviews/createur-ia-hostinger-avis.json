@@ -89,7 +89,7 @@
           [
             "Petite boutique, avec peu de produits",
             "Créateur IA (offre Unlimited) ou WordPress avec WooCommerce",
-            "Le créateur intègre une boutique en ligne ; WooCommerce donne plus de contrôle sur la livraison et le paiement, mais demande de la configuration."
+            "Le créateur propose une boutique en ligne en option payante ; WooCommerce donne plus de contrôle sur la livraison et le paiement, mais demande de la configuration."
           ],
           [
             "Blog qui dépend de plugins (SEO, formulaires, espace membres)",
@@ -158,7 +158,7 @@
           ],
           [
             "Boutique en ligne",
-            "Intégrée aux offres Unlimited et Cloud Startup",
+            "Option payante, disponible sur les offres Unlimited et Cloud Startup",
             "WooCommerce, gratuit, avec des extensions payantes"
           ],
           [
@@ -186,7 +186,7 @@
         "**Les crédits.** Le mode avec IA consomme des crédits à chaque demande, et le solde de l'offre ne se renouvelle pas chaque mois. Même remplacer un texte ou une image avec Select & edit en consomme un peu ; seul le mode sans IA édite sans en dépenser.",
         "**Ce qui se passe si vous ne renouvelez pas.** La page prévient : une offre expirée et non renouvelée met le projet hors ligne et supprime les données. Exportez le code avant de la laisser expirer.",
         "**Remboursement sous 30 jours**, à condition d'avoir consommé moins de 30 crédits d'IA.",
-        "**La boutique en ligne** fait partie des offres Unlimited et Cloud Startup ; sur Unlimited, la page indique qu'elle est gratuite pendant 3 mois. Vérifiez au paiement ce qu'elle coûte ensuite.",
+        "**La boutique en ligne** est une option payante, disponible sur les offres Unlimited et Cloud Startup et facturée à part de l'offre. Vérifiez son prix au paiement.",
         "**Il n'y a pas d'appli native.** Ce que fait le créateur est une appli web adaptative, qui s'ouvre dans le navigateur du téléphone. Pour l'App Store et Google Play, c'est une autre voie."
       ],
       "postParagraphs": [
@@ -215,7 +215,7 @@
         "Le créateur IA de Hostinger fait-il le site tout seul ? Il monte la première version à partir de votre description, selon la page. Le contenu, les photos et les décisions commerciales restent les vôtres, et chaque demande en mode IA consomme des crédits.",
         "Faut-il savoir coder pour utiliser le créateur IA ? Non. La page dit qu'il n'exige aucune connaissance technique dans les deux modes. Pour ceux qui codent, le mode IA propose un éditeur de code.",
         "Peut-on migrer du créateur IA vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une appli demande une reconfiguration en dehors.",
-        "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne fait partie des offres Unlimited et Cloud Startup. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
+        "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne est disponible sur les offres Unlimited et Cloud Startup, en option payante. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
         "Existe-t-il un code promo pour le créateur IA de Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]

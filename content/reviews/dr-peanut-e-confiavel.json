@@ -17,6 +17,7 @@
   "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. A marca é confiável? Veja o CNPJ, de quem ela é, as regras de troca, o frete e o Reclame Aqui.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa-discover.webp",
@@ -32,7 +33,7 @@
   ],
   "cons": [
     "Na troca por outro produto, o frete de ida e o de volta são seus",
-    "O frete grátis depende do mínimo da região e é conferido depois do cupom",
+    "O frete grátis depende do mínimo da região e é conferido antes do cupom",
     "Reputação Boa (nota 7,4) nos últimos 6 meses, abaixo da de 12 meses",
     "A política de trocas não informa prazo para a troca por outro produto"
   ],
@@ -168,7 +169,7 @@
         ]
       },
       "postParagraphs": [
-        "O frete grátis vale na opção de entrega mais barata. Para quem usa cupom, o detalhe que conta é este: o mínimo é conferido sobre o total já com o desconto. Se o seu carrinho tem R$ 155 e o cupom tira 10%, o total cai para R$ 139,50 e o frete deixa de ser grátis no Sudeste. O aviso do carrinho mostra se você chegou lá, então olhe essa linha depois de aplicar o cupom.",
+        "O frete grátis vale na opção de entrega mais barata. Para quem usa cupom, o detalhe que conta é este: o mínimo é conferido sobre o valor do carrinho antes do desconto, como testamos em novembro. Se o seu carrinho tem R$ 155 e o cupom tira 10%, o total cai para R$ 139,50 e o frete segue grátis no Sudeste. O aviso do carrinho mostra se você chegou lá.",
         "Para pagar, o rodapé do site lista cartões (Visa, Mastercard, Diners, American Express, Elo e Hipercard), boleto, débito online pelos bancos (Itaú, Bradesco e Banco do Brasil) e Pix."
       ]
     },
@@ -201,7 +202,7 @@
       "heading": "Vale a pena comprar no site da Dr. Peanut?",
       "paragraphs": [
         "Do ponto de vista da confiança, sim. O CNPJ está ativo desde 2017, a empresa é uma fábrica brasileira, está ligada à Supley e mostra no rodapé o CNPJ e o endereço. As regras de troca e de frete estão escritas com número e prazo, e o arrependimento sai sem custo para você.",
-        "Os cuidados são pontuais. A troca por outro produto tem o frete por sua conta, então vale conferir o sabor ou o item antes de fechar o carrinho. O frete grátis depende do mínimo da sua região, contado depois do cupom. E, no Reclame Aqui, a reputação dos últimos 6 meses (Boa, 7,4) ficou abaixo da de 12 meses (Ótima, 8,1). Se você já pretendia comprar, vale usar o cupom e conferir o carrinho antes de pagar."
+        "Os cuidados são pontuais. A troca por outro produto tem o frete por sua conta, então vale conferir o sabor ou o item antes de fechar o carrinho. O frete grátis depende do mínimo da sua região, contado antes do cupom. E, no Reclame Aqui, a reputação dos últimos 6 meses (Boa, 7,4) ficou abaixo da de 12 meses (Ótima, 8,1). Se você já pretendia comprar, vale usar o cupom e conferir o carrinho antes de pagar."
       ]
     },
     {
@@ -214,7 +215,7 @@
         "O site da Dr. Peanut é seguro? O site oficial, drpeanut.com.br, mostra o selo \"Site Seguro SSL\", roda na plataforma VTEX e traz CNPJ e endereço no rodapé. Confira sempre o endereço antes de pagar.",
         "Qual é o CNPJ da Dr. Peanut? É 28.324.667/0001-69, da Body Food Fabricantes de Alimentos Saudáveis Ltda., com sede na Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba (PR).",
         "Posso trocar um produto da Dr. Peanut? Pode. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Por defeito, são 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras. Na troca por outro produto, o frete de ida e de volta é seu.",
-        "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom.",
+        "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor antes do cupom.",
         "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA dá 10% OFF em todo o site e vale na primeira compra e nas seguintes, em todas as formas de pagamento e somando com as promoções. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições atuais."
       ]
     }

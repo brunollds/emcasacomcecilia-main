@@ -17,10 +17,11 @@
   },
   "publishedAt": "26 de outubro de 2026",
   "publishedAtISO": "2026-10-26",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
-  "description": "Os números da Toda Up no Reclame Aqui em 26/10/2026: RA1000 nos últimos 6 meses, nota 8,5, 100% respondidas e 93,1% resolvidas, e o que muda na aba geral.",
-  "metaDescription": "Toda Up no Reclame Aqui com o cupom MAUAD de 10% OFF: RA1000, nota 8,5, 100% respondidas e 93,1% resolvidas, e o que fazer se der problema.",
+  "description": "Os números da Toda Up no Reclame Aqui em novembro: Ótima nos últimos 6 meses, nota 8,2, 100% respondidas e 89,9% resolvidas, e RA1000 em 12 meses, nota 8,3.",
+  "metaDescription": "Toda Up no Reclame Aqui com o cupom MAUAD de 10% OFF: Ótima, nota 8,2, 100% respondidas e 89,9% resolvidas, e o que fazer se der problema.",
   "image": "/images/reviews/toda-up/toda-up-reclame-aqui-capa-discover.webp",
   "imageAlt": "Modelo com o Sutiã Comfort Line da Toda Up e o topo do perfil Toda Up no Reclame Aqui em 26/10/2026, com a reputação RA1000 e o selo Empresa Verificada",
   "imageFit": "contain",
@@ -51,7 +52,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim: a Toda Up estava na RA1000 do Reclame Aqui nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA. O que muda entre as abas é o volume e o tempo de resposta; veja a tabela e [Toda Up é confiável?](/reviews/toda-up-e-confiavel)."
+        "Sim: a Toda Up estava com reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA. O que muda entre as abas é o volume e o tempo de resposta; veja a tabela e [Toda Up é confiável?](/reviews/toda-up-e-confiavel)."
       ]
     },
     {
@@ -79,69 +80,80 @@
     {
       "heading": "Os números da Toda Up",
       "paragraphs": [
-        "Cada coluna da tabela é uma aba do perfil, com o período dela. A leitura é de 26/10/2026. A aba de 6 meses mostra a faixa e a nota; a aba geral, na leitura feita, mostrou só os indicadores de reclamação."
+        "Cada coluna da tabela é uma aba do perfil, com o período dela. A leitura das abas de 6 e 12 meses é de 07/11/2026; a aba geral é da leitura de outubro. As abas de 6 e 12 meses mostram a faixa e a nota; a aba geral, na leitura feita, mostrou só os indicadores de reclamação."
       ],
       "comparisonTable": {
         "headers": [
           "Indicador",
-          "6 meses (01/04/2026 a 30/09/2026)",
+          "6 meses (01/05/2026 a 31/10/2026)",
+          "12 meses (01/11/2025 a 31/10/2026)",
           "Geral (27/10/2023 a 26/10/2026)"
         ],
         "rows": [
           [
             "Reputação",
+            "Ótima",
             "RA1000",
             "não consta nesta leitura"
           ],
           [
             "Nota",
-            "8,5",
+            "8,2",
+            "8,3",
             "não consta nesta leitura"
           ],
           [
             "Reclamações recebidas",
-            "357",
+            "383",
+            "950",
             "1.398"
           ],
           [
             "Respondidas",
+            "100%",
             "100%",
             "99%"
           ],
           [
             "Aguardando resposta",
             "0",
+            "0",
             "9"
           ],
           [
             "Resolvidas",
-            "93,1%",
+            "89,9%",
+            "91,5%",
             "92,1%"
           ],
           [
             "Voltariam a fazer negócio",
-            "76,1%",
+            "71%",
+            "72,9%",
             "74,9%"
           ],
           [
             "Reclamações avaliadas",
-            "218",
+            "217",
+            "527",
             "794"
           ],
           [
             "Nota média do consumidor",
-            "7,38",
+            "7,07",
+            "7,13",
             "7,48"
           ],
           [
             "Tempo médio de resposta",
-            "21 horas",
+            "1 dia e 7 horas",
+            "1 dia e 3 horas",
             "6 dias e 3 horas"
           ]
         ]
       },
       "postParagraphs": [
-        "A nota 8,5 é a nota de reputação, a que define a faixa; a nota média do consumidor (7,38 nos 6 meses) é a média dada por quem avaliou a resposta da loja."
+        "A nota 8,2 é a nota de reputação, a que define a faixa; a nota média do consumidor (7,07 nos 6 meses) é a média dada por quem avaliou a resposta da loja."
       ],
       "image": {
         "src": "/images/reviews/toda-up/toda-up-reclame-aqui-numeros-2610.webp",
@@ -154,21 +166,21 @@
     {
       "heading": "O que a conta entre as abas mostra",
       "paragraphs": [
-        "A aba geral soma 1.398 reclamações no período do cabeçalho da tabela, e a de 6 meses soma 357. A diferença, 1.041, cobre o resto do período: de 27/10/2023 a 31/03/2026 e os dias de outubro. Dividida por esses cerca de 30 meses, dá perto de 35 reclamações por mês. Nos 6 meses da aba recente, a média foi de cerca de 60 por mês. A conta é nossa, feita com as duas abas, e vale como ordem de grandeza.",
-        "O Reclame Aqui não mostrou quantas reclamações entraram em cada mês, então não dá para saber o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo e resolveu mais do que na média geral.",
+        "A aba geral soma 1.398 reclamações no período do cabeçalho da tabela, e a de 12 meses soma 950. A diferença, 448, cobre o período anterior à aba de 12 meses, cerca de 24 meses. Dividida por esse período, dá perto de 19 reclamações por mês. Nos 12 meses da aba recente, a média foi de cerca de 79 por mês, e nos 6 meses, de cerca de 64. A conta é nossa, feita com as abas, e vale como ordem de grandeza.",
+        "O Reclame Aqui não mostrou quantas reclamações entraram em cada mês, então não dá para saber o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo, mas resolveu um pouco menos do que na média geral.",
         "A aba geral começa em 2023. O domínio todaup.com é de 2025, pelo registro público do domínio, então a janela geral alcança um tempo anterior ao site atual. O perfil é o mesmo, pelo mesmo CNPJ, e o Reclame Aqui não separa as reclamações por nome da marca."
       ]
     },
     {
       "heading": "Como a Toda Up responde às reclamações",
       "paragraphs": [
-        "O tempo de resposta é o indicador que mais muda entre as abas: 21 horas nos 6 meses contra 6 dias e 3 horas na geral. Responder não é resolver: a aba recente também resolve mais (93,1% contra 92,1%) e tem mais gente que voltaria (76,1% contra 74,9%). Os percentuais são os que o Reclame Aqui exibe, sem recálculo."
+        "O tempo de resposta é o indicador que mais muda entre as abas: 1 dia e 7 horas nos 6 meses contra 6 dias e 3 horas na geral. Responder não é resolver: a aba de 6 meses resolve um pouco menos (89,9% contra 92,1%) e tem menos gente que voltaria (71% contra 74,9%). Os percentuais são os que o Reclame Aqui exibe, sem recálculo."
       ]
     },
     {
       "heading": "O que esta leitura não traz",
       "paragraphs": [
-        "A leitura ficou com a aba de 6 meses e a aba geral. Três partes do perfil ficaram de fora e não entram neste texto: a aba de 12 meses, o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. O problema mais citado está na lista de principais problemas, no próprio perfil."
+        "A leitura ficou com as abas de 6 meses, 12 meses e geral. Duas partes do perfil ficaram de fora e não entram neste texto: o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. O problema mais citado está na lista de principais problemas, no próprio perfil."
       ]
     },
     {
@@ -194,21 +206,21 @@
     {
       "heading": "Dá para confiar na Toda Up?",
       "paragraphs": [
-        "Pelo Reclame Aqui, dá. O perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, e os indicadores da aba geral ficam perto dos recentes. O que o leitor confere antes de pagar: o perfil é o empresa/toda-up, com o CNPJ 40.159.443/0001-44 no topo, e os números do dia."
+        "Pelo Reclame Aqui, dá. O perfil estava com reputação Ótima nos últimos 6 meses, com nota 8,2, e RA1000 nos 12 meses, e os indicadores da aba geral ficam perto dos recentes. O que o leitor confere antes de pagar: o perfil é o empresa/toda-up, com o CNPJ 40.159.443/0001-44 no topo, e os números do dia."
       ],
       "bullets": [
-        "Reputação: RA1000 nos 6 meses, com nota 8,5.",
-        "Respondidas e resolvidas: 100% e 93,1% nos 6 meses; 99% e 92,1% na aba geral.",
-        "Fora desta leitura: a aba de 12 meses, o histórico mês a mês e os principais problemas."
+        "Reputação: Ótima nos 6 meses, com nota 8,2, e RA1000 nos 12 meses, com nota 8,3.",
+        "Respondidas e resolvidas: 100% e 89,9% nos 6 meses; 100% e 91,5% nos 12 meses; 99% e 92,1% na aba geral.",
+        "Fora desta leitura: o histórico mês a mês e os principais problemas."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Toda Up é confiável segundo o Reclame Aqui? O perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. Esses números vêm das reclamações registradas e não medem a qualidade das peças.",
+        "A Toda Up é confiável segundo o Reclame Aqui? O perfil estava com reputação Ótima nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas, e RA1000 nos 12 meses. Esses números vêm das reclamações registradas e não medem a qualidade das peças.",
         "Qual perfil da Toda Up é o da loja? O perfil Toda Up, na página empresa/toda-up, com o CNPJ 40.159.443/0001-44, o mesmo do rodapé do site todaup.com.",
         "A Toda Up é a mesma empresa da Fita UP? Sim. O CNPJ do perfil e do site é o da FITA UP LTDA, e o FAQ da loja diz que a Fita UP virou Toda Up, com a mesma equipe. Não apareceu perfil separado da Fita UP no Reclame Aqui.",
-        "A Toda Up responde às reclamações? Nos últimos 6 meses, respondeu a 100%, em 21 horas em média. Na aba geral, respondeu a 99%, em 6 dias e 3 horas.",
+        "A Toda Up responde às reclamações? Nos últimos 6 meses, respondeu a 100%, em 1 dia e 7 horas em média. Na aba geral, respondeu a 99%, em 6 dias e 3 horas.",
         "O que fazer se o pedido da Toda Up atrasar? Guarde o número do pedido e o CPF, registre a data em que o prazo venceu e fale com a loja pelo WhatsApp do site ou pelo e-mail suporte@todaup.com. Se não resolver, registre no Reclame Aqui."
       ]
     }

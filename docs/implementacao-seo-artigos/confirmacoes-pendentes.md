@@ -2,6 +2,70 @@
 
 Data: 07/11/2026. Base: a main com os Macro-PRs 1 a 3 (#692, #694 e #695).
 
+## Andamento em 07/11/2026 (PR `fix/pendencias-auditoria`)
+
+Resolvidos por leitura no navegador, por testes de carrinho autorizados pelo Bruno (CEP 01310-100, sem ir ao pagamento) e por decisão editorial. Valem como fonte as leituras e os testes de 07/11.
+
+- **Decisão editorial:**
+  - a resposta rápida do domínio Hostinger;
+  - o frete da StyleKorean, com os dois valores;
+  - o "Passe se" do vestido de festa SHEIN;
+  - o cobertor IWS sem simulação;
+  - os alergênicos do pão Belive;
+  - a Gimoka, que já estava sem link.
+- **Reclame Aqui relido:**
+  - Black Skull: Ruim 5,9 em 6 meses e Regular 6,8 em 12;
+  - Skelt: RA1000 8,4;
+  - Toda Up: Ótima 8,2 em 6 meses e RA1000 em 12;
+  - Cléa: Regular 6,9 em 6 meses e Boa 7,1 em 12;
+  - Bagaggio: Boa 7,9 em 6 meses e Ruim 5,8 em 12;
+  - Mais Mu: Boa 7,1, só a janela de 6 meses;
+  - SHEIN: 7,5.
+- **Trustpilot relido:** Hostinger 4,6, YesStyle 4,4 e SHEIN 3,8.
+- **Hostinger:**
+  - a Black Friday de 2026 vai de 19/10 a 14/12 (confirmado);
+  - os créditos do Criador com IA vêm no plano (confirmado);
+  - a loja virtual é cobrada à parte (corrigido).
+- **Testes de carrinho:**
+  - Belive e Dr. Peanut: o mínimo do frete grátis conta o valor antes do cupom;
+  - Skelt: frete grátis sem mínimo no Sul, no Sudeste e no Centro-Oeste, e R$ 199 só para o Norte e o Nordeste.
+- **Fichas:**
+  - Bagaggio: a Joá comporta notebook de 16"; a Detroit mede 55 cm com as rodas; a Downtown PP é Travelcross e fica fora da garantia vitalícia;
+  - Dr. Peanut: caixa de 12 alfajores; Chocolate Branco com 0,8 g de açúcares por porção e 5,1 g por 100 g;
+  - Belive: o kit de cookies tem 10 pacotes de um só sabor;
+  - Nestlé: o Ninho Fases 1+ segue à venda na loja Nutre, e a Zero Lactose sai a R$ 169,43 na assinatura;
+  - Let's Eat It: o prazo conta da confirmação do pagamento.
+- **Growth:** preços de tabela de novembro. Com eles, a creatina da Probiótica e a da Max ficam abaixo da Growth. O whey continua com a Growth.
+
+### O que fica com o Bruno
+
+1. **Perguntar à parceria:**
+   - Hostinger: o dia da cobrança mensal; os 180 dias do VPS; os termos do link (12 meses e cliente novo); o crédito do Google Ads; o reembolso do plano gerenciado; os links KVM por mercado.
+   - YesStyle: o CECILIA010 no Guest Checkout.
+   - SHEIN: as 24 horas e o último código do 4CW5Y.
+   - Skelt: a live da BF; o modo de uso do removedor.
+   - Cléa: o reembolso de cupom, cashback e frete; o frete na devolução parcial.
+   - Bagaggio: o produto personalizado; as 3 horas da retirada.
+   - Let's Eat It: o frete grátis acima de R$ 1.000 (a página traz "acima de R$ 300" num dado oculto).
+   - IWS: "colchão e box só em loja física".
+   - Toda Up: os canais de venda.
+2. **No app ou logado:**
+   - YesStyle: a entrega no Brasil.
+   - Hostinger: os rótulos do hPanel em cada idioma.
+   - SHEIN: o 4CW5Y em outras regiões.
+   - Insider: o envio do gift card.
+   - Mais Mu: o cupom somado ao Pix, que só aparece no checkout.
+3. **Decidir:**
+   - O critério da Growth: preço de tabela ou Pix. Hoje o Pix dela está bem abaixo da tabela.
+   - O Starter do Reach. As páginas da Hostinger se contradizem, e o navegador tinha um código de indicação aplicado.
+4. **Refazer imagens no Job 6:** prints e quadros com números antigos.
+   - Reclame Aqui: Black Skull, Skelt, Toda Up, Cléa, Bagaggio, Mais Mu e SHEIN.
+   - Trustpilot da Hostinger.
+   - Os passos de renovação da Hostinger.
+   - O print do carrinho da Dr. Peanut.
+5. **Continuam bloqueados:** a tabela da Suavipan, por erro de certificado, e a política de devolução da SHEIN, que deu 404.
+6. **Preços sem releitura:** Nestlé, Dolce Gusto, DAMIE, IWS e Magalu.
+
 ## Resumo
 
 - **70 itens** para o Bruno decidir, em 18 grupos.

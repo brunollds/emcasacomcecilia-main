@@ -125,7 +125,7 @@
         ]
       },
       "postParagraphs": [
-        "La tabella non elenca il Giappone, il Messico, il Cile, il Perù, l'Argentina né la Colombia."
+        "La tabella non elenca il Giappone, il Messico, il Cile, il Perù, l'Argentina né la Colombia. Per Singapore e Malesia, le tabelle del negozio non coincidono: una indica US$ 50 e l'altra US$ 70, e la riga sopra usa US$ 70. Controlla il valore al checkout."
       ]
     },
     {
@@ -229,5 +229,5 @@
       "slug": "codice-ricompensa-yesstyle-cecilia010"
     }
   ],
-  "updatedAt": "2026-10-21"
+  "updatedAt": "2026-11-07"
 }

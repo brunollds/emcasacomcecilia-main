@@ -89,7 +89,7 @@
           [
             "Tienda pequeña, con pocos productos",
             "Creador con IA (plan Unlimited) o WordPress con WooCommerce",
-            "El creador tiene tienda online integrada; WooCommerce da más control sobre envío y pago, pero pide configuración."
+            "El creador ofrece una tienda online como complemento de pago; WooCommerce da más control sobre envío y pago, pero pide configuración."
           ],
           [
             "Blog que depende de plugins (SEO, formularios, área de miembros)",
@@ -158,7 +158,7 @@
           ],
           [
             "Tienda online",
-            "Integrada en los planes Unlimited y Cloud Startup",
+            "Complemento de pago, disponible en los planes Unlimited y Cloud Startup",
             "WooCommerce, gratis, con extensiones de pago"
           ],
           [
@@ -186,7 +186,7 @@
         "**Los créditos.** El modo con IA gasta créditos en cada petición, y el saldo del plan no se renueva cada mes. Hasta cambiar un texto o una imagen con Select & edit consume un poco; solo el modo sin IA edita sin gastar.",
         "**Qué pasa si no renuevas.** La página avisa: un plan vencido y sin renovar deja el proyecto fuera de línea y borra los datos. Exporta el código antes de dejarlo vencer.",
         "**Reembolso en 30 días**, siempre que hayas consumido menos de 30 créditos de IA.",
-        "**La tienda online** está incluida en los planes Unlimited y Cloud Startup; en el Unlimited, la página dice que es gratis durante 3 meses. Comprueba al pagar cuánto cuesta después.",
+        "**La tienda online** es un complemento de pago, disponible en los planes Unlimited y Cloud Startup y facturado aparte del plan. Comprueba su precio al pagar.",
         "**No existe app nativa.** Lo que hace el creador es una app web adaptable, que se abre en el navegador del móvil. Para la App Store y Google Play, es otro camino."
       ],
       "postParagraphs": [
@@ -215,7 +215,7 @@
         "¿El creador con IA de Hostinger hace la web solo? Monta la primera versión a partir de tu descripción, según la página. El contenido, las fotos y las decisiones de negocio siguen siendo tuyos, y cada petición en el modo con IA consume créditos.",
         "¿Hace falta saber programar para usar el creador con IA? No. La página dice que no exige conocimientos técnicos en ninguno de los dos modos. Quien sabe programar tiene un editor de código en el modo con IA.",
         "¿Se puede migrar del creador con IA a otro hosting? La página dice que el código fuente se puede exportar y alojar en otro sitio. El back end integrado, con base de datos e inicio de sesión, se queda en Hostinger, así que una app necesita reconfigurarse fuera de ella.",
-        "¿El creador con IA sirve para una tienda online? Para una tienda pequeña, sí: la tienda online es un elemento de los planes Unlimited y Cloud Startup. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
+        "¿El creador con IA sirve para una tienda online? Para una tienda pequeña, sí: la tienda online está disponible en los planes Unlimited y Cloud Startup como complemento de pago. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
         "¿Hay cupón para el creador con IA de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer periodo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
         "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
       ]

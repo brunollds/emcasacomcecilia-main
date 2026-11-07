@@ -356,7 +356,7 @@
       "À prendre si la description indique la composition, la doublure et la longueur en centimètres, et que les mesures de la pièce correspondent aux vôtres."
     ],
     "skipIf": [
-      "À éviter si le traitement ajouté à la livraison dépasse la date de la fête.",
+      "À éviter si la livraison prévue sur la page de la commande dépasse la date de la fête.",
       "À éviter si la pièce n'a pas de doublure et que la transparence vous gêne, ou si elle se nettoie uniquement à sec et que vous ne voulez pas de pressing."
     ]
   }

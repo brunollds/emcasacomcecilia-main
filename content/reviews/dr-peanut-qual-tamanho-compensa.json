@@ -18,6 +18,7 @@
   "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Pote de 250 g, 600 g ou kit: qual tamanho compensa, pelo preço por 100 g e o frete por região.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-discover.webp",
@@ -106,8 +107,8 @@
     {
       "heading": "Frete grátis: onde o kit compensa",
       "paragraphs": [
-        "O frete é grátis quando o total, já com o cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
-        "Com o cupom, o kit de 3 × 600 g (R$ 142,30) fica R$ 7,60 abaixo do limite do Sudeste e do Sul. O kit de 4 × 600 g (R$ 183,27) passa esse limite, mas não o das outras regiões. O kit de 5 × 600 g (R$ 227,18) passa o limite em todas as regiões."
+        "O frete é grátis quando o valor do carrinho, antes do cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
+        "O mínimo conta o preço antes do cupom, então o cupom não tira o frete grátis de quem já passou dele. O kit de 3 × 600 g (R$ 158,11) passa o limite do Sudeste e do Sul, mas não o das outras regiões. Os kits de 4 × 600 g (R$ 203,63) e de 5 × 600 g (R$ 252,42) passam o limite em todas as regiões."
       ]
     },
     {
@@ -132,7 +133,7 @@
       },
       "postParagraphs": [
         "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom em todas as quantidades: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo.",
-        "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. Com o cupom, isso dá 8 pastas (R$ 155,34) no Sul e no Sudeste e 11 pastas (R$ 213,59) nas outras regiões."
+        "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom. Na assinatura, o aviso do carrinho mostra quando o pedido chega lá."
       ]
     },
     {

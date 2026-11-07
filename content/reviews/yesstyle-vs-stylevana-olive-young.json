@@ -125,7 +125,7 @@
         ]
       },
       "postParagraphs": [
-        "The table does not list Japan, Mexico, Chile, Peru, Argentina or Colombia."
+        "The table does not list Japan, Mexico, Chile, Peru, Argentina or Colombia. For Singapore and Malaysia, the store's tables disagree: one says US$ 50 and the other US$ 70, and the row above uses US$ 70. Check the value at checkout."
       ]
     },
     {
@@ -229,5 +229,5 @@
       "slug": "yesstyle-reward-code-coupon-cecilia010"
     }
   ],
-  "updatedAt": "2026-10-21"
+  "updatedAt": "2026-11-07"
 }

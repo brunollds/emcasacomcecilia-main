@@ -251,7 +251,7 @@
         ]
       },
       "postParagraphs": [
-        "A tabela não lista o Brasil, o Japão, o México, o Chile, o Peru, a Argentina nem a Colômbia. Para o Brasil, o aviso do topo do site diz que o visitante vê os itens que podem ser enviados ao país, sem frete nem prazo publicados."
+        "A tabela não lista o Brasil, o Japão, o México, o Chile, o Peru, a Argentina nem a Colômbia. Para o Brasil, o aviso do topo do site diz que o visitante vê os itens que podem ser enviados ao país, sem frete nem prazo publicados. Para Singapura e Malásia, as tabelas da loja divergem: uma traz US$ 50 e outra US$ 70, e a linha acima usa US$ 70. Confira o valor no checkout."
       ]
     },
     {
@@ -371,5 +371,5 @@
       "slug": "codigo-cecilia010-yesstyle-como-usar"
     }
   ],
-  "updatedAt": "2026-10-21"
+  "updatedAt": "2026-11-07"
 }

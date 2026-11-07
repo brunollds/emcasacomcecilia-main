@@ -89,7 +89,7 @@
           [
             "Piccolo negozio, con pochi prodotti",
             "AI Builder (piano Unlimited) o WordPress con WooCommerce",
-            "L'AI Builder ha il negozio online integrato; WooCommerce dà più controllo su spedizione e pagamento, ma richiede configurazione."
+            "L'AI Builder offre il negozio online come componente a pagamento; WooCommerce dà più controllo su spedizione e pagamento, ma richiede configurazione."
           ],
           [
             "Blog che dipende da plugin (SEO, moduli, area riservata)",
@@ -158,7 +158,7 @@
           ],
           [
             "Negozio online",
-            "Integrato nei piani Unlimited e Cloud Startup",
+            "Componente a pagamento, disponibile nei piani Unlimited e Cloud Startup",
             "WooCommerce, gratuito, con estensioni a pagamento"
           ],
           [
@@ -186,7 +186,7 @@
         "**I crediti.** La modalità con IA consuma crediti a ogni richiesta, e il saldo del piano non si rinnova ogni mese. Anche cambiare un testo o un'immagine con Select & edit ne consuma un po'; solo la modalità senza IA modifica senza consumare.",
         "**Che cosa succede se non rinnovi.** La pagina avvisa: un piano scaduto e non rinnovato mette il progetto offline e cancella i dati. Esporta il codice prima di lasciarlo scadere.",
         "**Rimborso entro 30 giorni**, purché tu abbia consumato meno di 30 crediti IA.",
-        "**Il negozio online** è una voce dei piani Unlimited e Cloud Startup; nell'Unlimited, la pagina dice che è gratuito per 3 mesi. Controlla al checkout quanto costa dopo.",
+        "**Il negozio online** è un componente a pagamento, disponibile nei piani Unlimited e Cloud Startup e fatturato a parte rispetto al piano. Controlla il prezzo al checkout.",
         "**Non esiste un'app nativa.** Quello che fa l'AI Builder è un'app web responsive, che si apre nel browser del telefono. Per l'App Store e Google Play è un'altra strada."
       ],
       "postParagraphs": [
@@ -215,7 +215,7 @@
         "L'AI Builder di Hostinger fa il sito da solo? Monta la prima versione a partire dalla tua descrizione, secondo la pagina. I contenuti, le foto e le decisioni di business restano tuoi, e ogni richiesta in modalità IA consuma crediti.",
         "Serve saper programmare per usare l'AI Builder? No. La pagina dice che non richiede competenze tecniche in nessuna delle due modalità. Chi sa programmare ha un editor di codice nella modalità con IA.",
         "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app richiede una riconfigurazione fuori da lì.",
-        "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è una voce dei piani Unlimited e Cloud Startup. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
+        "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è disponibile nei piani Unlimited e Cloud Startup come componente a pagamento. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
         "C'è un coupon per l'AI Builder di Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]

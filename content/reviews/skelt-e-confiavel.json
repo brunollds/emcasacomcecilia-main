@@ -124,7 +124,7 @@
     {
       "heading": "Frete e brindes",
       "paragraphs": [
-        "O frete grátis depende da cidade e do valor final do pedido. A política de frete do site divide o grátis por região e avisa que pode mudar sem aviso:"
+        "O frete grátis depende da região. A política de frete do site divide o grátis por região e avisa que pode mudar sem aviso:"
       ],
       "comparisonTable": {
         "headers": [
@@ -133,21 +133,17 @@
         ],
         "rows": [
           [
-            "12 cidades (lista abaixo)",
+            "Sul, Sudeste e Centro-Oeste",
             "Sem valor mínimo"
           ],
           [
-            "Sul, Sudeste e Centro-Oeste",
-            "A partir de R$ 199"
-          ],
-          [
             "Norte e Nordeste",
-            "A partir de R$ 299"
+            "A partir de R$ 199"
           ]
         ]
       },
       "postParagraphs": [
-        "As 12 cidades sem valor mínimo são São Paulo, Belo Horizonte, Santo André, Goiânia, Niterói, Barueri, São Caetano do Sul, Taboão da Serra, São José dos Pinhais, Curitiba, Vitória e Balneário Camboriú.",
+        "No Sul, no Sudeste e no Centro-Oeste, o frete grátis vale sem valor mínimo, inclusive em São Paulo, Belo Horizonte, Curitiba e Goiânia. No Norte e no Nordeste, o mínimo vale sobre o valor final do pedido.",
         "Os brindes têm regra própria. O valor mínimo da campanha conta o pedido depois dos descontos. Por isso, um cupom ou o Pix que baixe o total abaixo do mínimo tira o brinde do carrinho. Num exemplo do próprio site, a campanha começava em R$ 249."
       ]
     },
@@ -194,7 +190,7 @@
         "A Skelt tem telefone de atendimento? Tem WhatsApp, no número (41) 3042-4721, e o e-mail contato@skelt.com.br. O site diz que responde em até 48 horas úteis.",
         "Quanto tempo tenho para trocar ou devolver um produto da Skelt? Sem defeito, 20 dias a partir da entrega; com defeito, 45 dias. A troca é só por produto de mesmo valor e em estoque. Para desistir, a loja pede o produto na embalagem original e sem sinais de uso. Pela lei, a compra online tem 7 dias de arrependimento (CDC, art. 49), independentemente dessa exigência.",
         "Quando o reembolso cai? Em até 7 dias úteis, contados do recebimento do produto e depois de conferido na central. A política não separa esse prazo por forma de pagamento.",
-        "A Skelt tem frete grátis? Tem frete grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte e Curitiba. Também há frete grátis a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e a partir de R$ 299 no Norte e Nordeste, sobre o valor final do pedido.",
+        "A Skelt tem frete grátis? Tem. No Sul, no Sudeste e no Centro-Oeste, inclusive em São Paulo, Belo Horizonte e Curitiba, o frete é grátis sem valor mínimo. No Norte e no Nordeste, é grátis a partir de R$ 199, sobre o valor final do pedido.",
         "Tem cupom na Skelt? Tem, o SKEMCASACOMCECILIA, com 10% OFF em todo o site, somando com as promoções e com os 5% do Pix. A loja aceita um cupom por pedido.",
         "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. O [link de compra da marca no Mercado Livre](https://meli.la/2unTb7k) abre antes a página da Cecília no Mercado Livre, como todo link meli.la."
       ]

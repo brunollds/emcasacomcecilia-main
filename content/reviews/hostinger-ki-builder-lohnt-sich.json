@@ -89,7 +89,7 @@
           [
             "Kleiner Shop mit wenigen Produkten",
             "KI-Builder (Tarif Unlimited) oder WordPress mit WooCommerce",
-            "Der KI-Builder hat einen integrierten Onlineshop; WooCommerce bietet mehr Kontrolle über Versand und Zahlung, verlangt aber Einrichtung."
+            "Der KI-Builder bietet einen Onlineshop als kostenpflichtige Ergänzung; WooCommerce bietet mehr Kontrolle über Versand und Zahlung, verlangt aber Einrichtung."
           ],
           [
             "Blog, der von Plugins abhängt (SEO, Formulare, Mitgliederbereich)",
@@ -158,7 +158,7 @@
           ],
           [
             "Onlineshop",
-            "Integriert in den Tarifen Unlimited und Cloud Startup",
+            "Kostenpflichtige Ergänzung, verfügbar in den Tarifen Unlimited und Cloud Startup",
             "WooCommerce, kostenlos, mit kostenpflichtigen Erweiterungen"
           ],
           [
@@ -186,7 +186,7 @@
         "**Das Guthaben.** Der KI-Modus verbraucht bei jeder Anfrage Guthaben, und das Guthaben des Tarifs erneuert sich nicht jeden Monat. Schon der Austausch eines Textes oder Bildes mit Select & edit verbraucht etwas; nur der Modus ohne KI bearbeitet kostenlos.",
         "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor der Tarif ausläuft.",
         "**Rückerstattung innerhalb von 30 Tagen**, sofern Sie weniger als 30 KI-Guthaben verbraucht haben.",
-        "**Der Onlineshop** gehört zu den Tarifen Unlimited und Cloud Startup; bei Unlimited ist er laut Seite 3 Monate kostenlos. Prüfen Sie an der Kasse, was er danach kostet.",
+        "**Der Onlineshop** ist eine kostenpflichtige Ergänzung, verfügbar in den Tarifen Unlimited und Cloud Startup und getrennt vom Tarif berechnet. Prüfen Sie den Preis an der Kasse.",
         "**Eine native App gibt es nicht.** Was der KI-Builder macht, ist eine responsive Web-App, die im Browser des Handys läuft. Für den App Store und Google Play ist es ein anderer Weg."
       ],
       "postParagraphs": [
@@ -215,7 +215,7 @@
         "Baut der KI-Builder von Hostinger die Website von allein? Laut Seite baut er die erste Version aus Ihrer Beschreibung. Inhalt, Fotos und unternehmerische Entscheidungen bleiben Ihre, und jede Anfrage im KI-Modus verbraucht Guthaben.",
         "Braucht man Programmierkenntnisse für den KI-Builder? Nein. Laut Seite sind in beiden Modi keine technischen Kenntnisse nötig. Wer programmieren kann, hat im KI-Modus einen Code-Editor.",
         "Kann man vom KI-Builder zu einem anderen Hoster migrieren? Laut Seite lässt sich der Quellcode exportieren und anderswo hosten. Das integrierte Back-End mit Datenbank und Login bleibt bei Hostinger, eine App muss also außerhalb neu konfiguriert werden.",
-        "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop gehört zu den Tarifen Unlimited und Cloud Startup. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
+        "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop ist in den Tarifen Unlimited und Cloud Startup als kostenpflichtige Ergänzung verfügbar. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
         "Gibt es einen Gutschein für den KI-Builder von Hostinger? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]

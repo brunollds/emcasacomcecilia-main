@@ -88,7 +88,7 @@
           [
             "商品不多的小店",
             "AI Builder（Unlimited 方案）或 WordPress 加 WooCommerce",
-            "AI Builder 內建網路商店；WooCommerce 對運費和付款的控制更細，但要自己設定。"
+            "AI Builder 以付費附加項提供網路商店；WooCommerce 對運費和付款的控制更細，但要自己設定。"
           ],
           [
             "依賴外掛的部落格（SEO、表單、會員區）",
@@ -157,7 +157,7 @@
           ],
           [
             "網路商店",
-            "Unlimited 和 Cloud Startup 方案內建",
+            "付費附加項，Unlimited 和 Cloud Startup 方案可用",
             "WooCommerce，免費，擴充功能要付費"
           ],
           [
@@ -185,7 +185,7 @@
         "**額度。**AI 模式每次請求都消耗額度，方案裡的餘額不會每月重置。就算用 Select & edit 換一段文字或一張圖片，也會消耗少量額度；只有不用 AI 的模式可以免費編輯。",
         "**不續約會怎樣。**頁面有提醒：方案到期未續約，專案會下線，資料會被刪除。別等到期，先匯出程式碼。",
         "**30 天內可退款**，前提是你使用的 AI 額度少於 30 個。",
-        "**網路商店**是 Unlimited 和 Cloud Startup 方案的功能；依頁面所說，Unlimited 有 3 個月免費。之後要花多少錢，請在結帳頁確認。",
+        "**網路商店**是付費附加項，Unlimited 和 Cloud Startup 方案可用，與方案分開收費。具體價格，請在結帳頁確認。",
         "**沒有原生 App。**AI Builder 做出來的是在手機瀏覽器裡開啟的響應式 Web 應用程式。要上架 App Store 或 Google Play，得走別的路。"
       ],
       "postParagraphs": [
@@ -214,7 +214,7 @@
         "Hostinger 的 AI Builder 能自己把網站做出來嗎？依頁面所說，它會根據你的描述搭出第一版。內容、照片和業務決策仍然是你的，AI 模式下每次請求都消耗額度。",
         "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人，在 AI 模式裡有程式碼編輯器。",
         "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，放到別處託管。含資料庫和登入的內建後端留在 Hostinger，所以應用程式在別處需要重新設定。",
-        "AI Builder 適合開網路商店嗎？小店可以：網路商店是 Unlimited 和 Cloud Startup 方案的功能。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
+        "AI Builder 適合開網路商店嗎？小店可以：網路商店在 Unlimited 和 Cloud Startup 方案中以付費附加項提供。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
         "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
         "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
       ]

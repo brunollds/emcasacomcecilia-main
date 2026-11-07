@@ -356,7 +356,7 @@
       "Take it if the description lists composition, lining and length in centimeters, and the garment's measurements match yours."
     ],
     "skipIf": [
-      "Skip it if processing plus delivery runs past the party date.",
+      "Skip it if the delivery estimate on the order page runs past the party date.",
       "Skip it if the piece has no lining and the sheerness bothers you, or if it is dry-clean only and you do not want a dry cleaner."
     ]
   }

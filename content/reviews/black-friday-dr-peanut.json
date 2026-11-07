@@ -32,7 +32,7 @@
   ],
   "cons": [
     "A loja entrou em novembro sem datas, produtos nem preços de Black Friday no site",
-    "O mínimo do frete grátis é conferido sobre o total já com o cupom",
+    "O frete grátis vale só na opção de entrega mais barata",
     "No Centro-Oeste, Nordeste e Norte, o frete grátis só começa em R$ 199,90",
     "Na troca por outro produto, o frete de ida e de volta é seu"
   ],
@@ -101,37 +101,34 @@
       "imageAspectRatio": 1.0423
     },
     {
-      "heading": "Frete grátis por região: a conta com o cupom",
+      "heading": "Frete grátis por região: o mínimo conta antes do cupom",
       "paragraphs": [
-        "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o **total já com o cupom**. O frete grátis vale na opção de entrega mais barata: Como o DREMCASACOMCECILIA tira 10%, o carrinho precisa passar do mínimo antes do desconto. A coluna da direita é a nossa conta: o valor mínimo dividido por 0,9, arredondado para cima."
+        "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o valor do carrinho **antes do cupom**. Testamos em novembro: um carrinho de R$ 163,45 liberou o frete grátis em São Paulo, e ele seguiu grátis depois do cupom, com o total em R$ 147,10, abaixo do mínimo. O frete grátis vale na opção de entrega mais barata."
       ],
       "comparisonTable": {
-        "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, com o cupom já aplicado, e o subtotal mínimo antes do cupom pela nossa conta.",
+        "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, conferido sobre o valor antes do cupom.",
         "headers": [
           "Região",
-          "Frete grátis a partir de (total com o cupom)",
-          "Subtotal mínimo antes do cupom (nossa conta)"
+          "Frete grátis a partir de (valor antes do cupom)"
         ],
         "rows": [
           [
             "São Paulo capital, Sudeste e Sul",
-            "R$ 149,90",
-            "R$ 166,56"
+            "R$ 149,90"
           ],
           [
             "Centro-Oeste, Nordeste e Norte",
-            "R$ 199,90",
-            "R$ 222,12"
+            "R$ 199,90"
           ]
         ]
       },
       "postParagraphs": [
-        "Um carrinho de R$ 155,00, por exemplo, passa de R$ 149,90, mas com os 10% fica em R$ 139,50 e o frete volta a ser cobrado em São Paulo capital, no Sudeste e no Sul. Se faltar pouco, confira o Total depois de aplicar o código e compare o custo do frete com o de um item extra.",
+        "Um carrinho de R$ 155,00, por exemplo, passa de R$ 149,90 e segue com frete grátis em São Paulo capital, no Sudeste e no Sul, mesmo com os 10% levando o total a R$ 139,50. Se faltar pouco para o mínimo, compare o custo do frete com o de um item extra.",
         "Os mínimos eram os mesmos em outubro e no início de novembro. Mesmo assim, reconfira o aviso do carrinho: ele mostra o mínimo da sua região no momento da compra."
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
       "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
-      "imageCaption": "Carrinho da Dr. Peanut antes do cupom: a faixa laranja no topo diz que o frete grátis conta o total já com o cupom, a partir de R$ 149,90. O marca-texto amarelo é nosso.",
+      "imageCaption": "Carrinho da Dr. Peanut antes do cupom: a faixa laranja no topo mostra o frete grátis a partir de R$ 149,90. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
       "imageAspectRatio": 1.6075
     },
@@ -143,7 +140,7 @@
       "bullets": [
         "**Código aceito:** o DREMCASACOMCECILIA aparece ao lado de \"Cupom de desconto\", sem letra faltando, e a linha \"Descontos\" mostra o valor abatido em reais. Sem essa linha, o desconto não entrou. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições e a data do último teste.",
         "**Preço da promoção:** o subtotal já traz o preço promocional do item. O cupom incide sobre ele.",
-        "**Frete:** olhe a faixa do frete grátis no topo do carrinho com o cupom já aplicado e compare com o mínimo da sua região.",
+        "**Frete:** a faixa do frete grátis no topo do carrinho conta o valor antes do cupom: compare o subtotal, sem o desconto, com o mínimo da sua região.",
         "**Peso e quantidade:** confira o peso do pote e quantos potes o combo traz. Compare o preço por quilo entre o pote avulso e o combo, em vez de olhar só o preço final. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
         "**Validade e lote:** veja a validade e o lote do produto no rótulo quando o pedido chegar. Se houver avaria, embalagem violada ou item errado, você pode recusar a encomenda na entrega e escrever o motivo no verso da nota fiscal.",
         "**Troca:** arrependimento são 7 dias corridos do recebimento, e a loja paga a devolução. A política da loja pede a embalagem original e o lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Os prazos completos (inclusive o de defeito) estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel).",
@@ -158,8 +155,8 @@
       "bullets": [
         "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não anunciou campanha: em novembro, o site segue sem datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
         "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste.",
-        "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido sobre o total já com o cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
-        "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? Pela nossa conta, R$ 166,56 em São Paulo capital, Sudeste e Sul e R$ 222,12 no Centro-Oeste, Nordeste e Norte. O aviso do carrinho confirma depois de aplicar o código.",
+        "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido antes do cupom, como testamos em novembro: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
+        "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? O mínimo da sua região: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. O cupom não entra nessa conta.",
         "A Dr. Peanut tem desconto no Pix? Tem: a ficha do produto mostra 3%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
         "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, e a loja paga a devolução (a política da loja pede a embalagem original e o lacre intactos). Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
         "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto está garantido."

@@ -17,6 +17,7 @@
   "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt. Autobronzeador, body splash e hidratante pelo rótulo, preço e frete: para quem compensa.",
   "publishedAt": "4 de novembro de 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/skelt/skelt-e-boa-capa.webp",
@@ -356,14 +357,14 @@
       "heading": "Cupom, frete e onde comprar",
       "paragraphs": [
         "O cupom SKEMCASACOMCECILIA tira 10% de todo o site oficial, inclusive do produto que já está em promoção e dos kits, em todas as formas de pagamento, e o Pix tira mais 5% sobre o total já com o cupom. No teste do cupom, um body splash e um mousse, de R$ 219,80 de lista, foram a R$ 178,04 com a promoção da loja e o cupom, e a R$ 169,13 no Pix. É um cupom por pedido: outro código da loja na sacola troca o nosso. O código vai no campo \"Cupom de desconto\" da sacola, abaixo do CEP, e a página do [cupom Skelt](/cupons/skelt) traz o passo a passo e as regras.",
-        "O que muda a conta é o frete. Ele é grátis sem mínimo em 12 cidades: São Paulo, Belo Horizonte, Santo André, Goiânia, Niterói, Barueri, São Caetano do Sul, Taboão da Serra, São José dos Pinhais, Curitiba, Vitória e Balneário Camboriú. Fora delas, o pedido precisa passar de R$ 199 no Sul, Sudeste e Centro-Oeste e de R$ 299 no Norte e Nordeste, contados sobre o valor final, depois do cupom e do Pix.  Dá para pagar no cartão, com parcelas sem juros que mudam por produto, no Pix, no Apple Pay e no Pagaleve.",
+        "O que muda a conta é o frete. Ele é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste. No Norte e no Nordeste, o pedido precisa passar de R$ 199.  Dá para pagar no cartão, com parcelas sem juros que mudam por produto, no Pix, no Apple Pay e no Pagaleve.",
         "A Skelt também vende no [Mercado Livre](https://meli.la/2unTb7k), onde o cupom não vale e o preço é o do anúncio. Antes de fechar, compare o preço do anúncio com o site oficial, que é onde o cupom e o Pix entram."
       ]
     },
     {
       "heading": "Dá para confiar na Skelt",
       "paragraphs": [
-        "Dá. A loja é de uma S/A registrada, a SKELT BEAUTY BRANDS, com sede em Curitiba, e publica as regras de troca, reembolso e frete: 20 dias para trocar sem defeito e 45 com defeito, contados da entrega, com a primeira devolução grátis. No Reclame Aqui, a loja respondeu a todas as reclamações dos últimos 6 meses e resolveu mais de 90%. As queixas mais comuns são produto com defeito e atraso, então confira o produto ao receber e abra o chamado cedo se o pedido atrasar. O ponto de atenção é que o perfil do Reclame Aqui está em nome de outro CNPJ ligado à marca, e o site não explica a ligação. CNPJ, site oficial e trocas estão em \"Skelt é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
+        "Dá. A loja é de uma S/A registrada, a SKELT BEAUTY BRANDS, com sede em Curitiba, e publica as regras de troca, reembolso e frete: 20 dias para trocar sem defeito e 45 com defeito, contados da entrega, com a primeira devolução grátis. No Reclame Aqui, a loja respondeu a quase todas as reclamações dos últimos 6 meses e resolveu mais de 90%. As queixas mais comuns são produto com defeito e atraso, então confira o produto ao receber e abra o chamado cedo se o pedido atrasar. O ponto de atenção é que o perfil do Reclame Aqui está em nome de outro CNPJ ligado à marca, e o site não explica a ligação. CNPJ, site oficial e trocas estão em \"Skelt é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
       ]
     },
     {
@@ -375,7 +376,7 @@
         "Para cheiro, o body splash pelo perfil das notas; o Solar Muse é o mais vendido, e os kits de miniaturas servem para provar antes.",
         "Para a mesma fragrância em creme, só seis das dez têm body cream, e três têm creme para mãos.",
         "Não vale ir ao Dark na primeira vez: o rótulo o marca como expert.",
-        "Não vale o pedido pequeno fora das 12 cidades: o frete grátis pede o mínimo da região, contado depois do cupom e do Pix.",
+        "Não vale o pedido pequeno no Norte e no Nordeste: o frete grátis pede R$ 199.",
         "Pele sensível, alergia ou gestação: na dúvida, o dermatologista, antes de qualquer autobronzeador ou fragrância."
       ],
       "emphasis": "Pelos números da tabela, para quem está começando a escolha é o Kit Iniciante: o mousse com cor-guia e a luva por menos que as duas peças avulsas."
@@ -400,7 +401,7 @@
     ],
     "skipIf": [
       "Você quer o bronze intenso logo na primeira vez: as versões Dark dizem \"intensa\" e nível expert no rótulo, e pedem quem já sabe aplicar.",
-      "Você compra pouco e mora fora das 12 cidades com frete grátis: o pedido precisa passar do mínimo da sua região, contado depois do cupom e do Pix."
+      "Você compra pouco e mora no Norte ou no Nordeste: lá o frete grátis pede valor mínimo."
     ]
   },
   "cta": {
