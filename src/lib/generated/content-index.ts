@@ -34112,7 +34112,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Introdução",
         "paragraphs": [
-          "Dormir bem começa no travesseiro certo para o ombro. O que pesa é a altura e a medida para o colchão. Mas investir em marcas de sono de alto padrão gera dúvidas sobre onde comprar, como economizar e se os cupons realmente funcionam.",
+          "Antes de comprar travesseiro ou roupa de cama, confira as medidas do produto, a altura desejada e as condições de entrega e troca.",
           "Por isso, criamos uma parceria com a I Wanna Sleep e temos o cupom exclusivo CECIEMCASA, que dá 10% de desconto em todo o site. Preparei este guia passo a passo simples para você ver exatamente onde inserir o código no checkout e confirmar que o desconto foi aplicado antes de pagar, evitando surpresas."
         ]
       },
@@ -34125,7 +34125,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Acesse o site oficial da I Wanna Sleep",
         "paragraphs": [
-          "O cupom só funciona no site oficial da marca (iwannasleep.com.br), que abre normalmente no navegador do celular ou do computador. Navegue pelas categorias e selecione os itens desejados. Seja o famoso Travesseiro IWS Snow, o Pillow Top ou os lençóis de bambu, escolha as medidas e modelos adequados antes de prosseguir. Mudar os itens depois de ir ao checkout pode limpar o cupom do carrinho. O cupom vale em todo o site, de travesseiros, box e pillow tops a cobertores, lençóis, sleepwear e acessórios."
+          "O cupom é usado no site oficial da marca (iwannasleep.com.br), no navegador do celular ou computador. Escolha os produtos e suas medidas antes de seguir; se alterar o carrinho, confira novamente se o código permanece aplicado. A disponibilidade pode variar por produto."
         ],
         "image": "/images/reviews/iwannasleep/1-escolha-produto.webp",
         "imageAlt": "Navegando no site oficial da I Wanna Sleep.",
@@ -34164,10 +34164,10 @@ export const reviewsData: unknown[] = [
           "Além dos 10% do cupom CECIEMCASA, confira altura, medidas, prazo e troca:"
         ],
         "bullets": [
-          "Altura ajustável: Se comprar o Travesseiro IWS Snow, lembre-se de que ele possui regulagem de altura por camadas. Faça testes nas primeiras noites para achar a altura perfeita para seu ombro.",
+          "Altura ajustável: no Travesseiro IWS Snow, dá para mudar a quantidade de flocos e ajustar a altura. Confira as instruções e experimente a regulagem; a adaptação varia de pessoa para pessoa.",
           "Medidas exatas: Para pillow tops e lençóis, meça a altura e largura exatas do seu colchão (padrão Solteiro, Casal, Queen ou King).",
           "Prazo de entrega: O carrinho mostra o prazo e o frete depois do CEP. O frete é calculado à parte e não entra no desconto.",
-          "Política de devolução: A I Wanna Sleep oferece um ótimo suporte, mas leia as diretrizes de troca para produtos de contato pessoal caso tenha dúvidas."
+          "Política de devolução: leia as condições de troca e teste aplicáveis ao produto antes de comprar."
         ]
       },
       {
@@ -34190,7 +34190,7 @@ export const reviewsData: unknown[] = [
           "Posso usar o cupom mais de uma vez? A regra de reutilização depende da política da loja. Se houver limite por conta ou por pedido, o checkout avisa.",
           "O desconto inclui frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 10%.",
           "E se o cupom não funcionar? Verifique se o código foi digitado corretamente (letras maiúsculas, sem espaços). Caso persista, entre em contato com o atendimento da I Wanna Sleep.",
-          "O cupom CECIEMCASA pode ser usado em compras com frete grátis? Sim, o cupom CECIEMCASA é aplicado sobre o valor dos produtos, enquanto o frete grátis é uma condição independente ativada por valor mínimo de compra ou promoções específicas. Quando ambas as regras se aplicam, você acumula o desconto do cupom e o frete grátis, pagando apenas o valor final dos itens.",
+          "O cupom CECIEMCASA pode ser usado em compras com frete grátis? As condições de frete e de cupom são verificadas no checkout. Aplique o código e confira a linha do frete para seu CEP e os itens do pedido antes de pagar.",
           "O cupom CECIEMCASA expira em alguma data? Não tem data de fim marcada. Aplique o código no checkout e confirme os 10% no resumo antes de pagar.",
           "O cupom CECIEMCASA funciona em aplicativo? A I Wanna Sleep não tem aplicativo: a compra é feita no site oficial (iwannasleep.com.br), que funciona no navegador do celular. É lá que você digita o código antes de pagar.",
           "O cupom CECIEMCASA é cumulativo com promoções? Sim, ele soma com as promoções vigentes da loja, inclusive em produtos que já estão com preço promocional, e vale em todas as formas de pagamento. Confira os 10% no resumo do pedido antes de pagar.",
@@ -34674,7 +34674,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelo que os dados públicos mostram: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso identifica a empresa, mas não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "Os dados públicos identificam a empresa: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -34705,10 +34705,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "Nas políticas, o que conta é troca, rastreio e Sleeptest. O site oficial da I Wanna Sleep disponibiliza informações sobre trocas e devoluções, além de ferramenta para rastreamento de pedidos.",
-          "O Sleeptest não é reembolso em dinheiro, e não se confunde com o direito de arrependimento de 7 dias das compras online. Pela política oficial, nos colchões são 100 dias desde a entrega, com uso mínimo de 15 dias, e a troca é por outro colchão, por conforto (não por tamanho). O colchão precisa estar com protetor, sem dano nem sujeira, com etiqueta e embalagem originais; vale uma troca por CPF, com nota fiscal. Há taxa de frete e montagem de R$ 300 para Belo Horizonte e região metropolitana; nas demais regiões, é preciso consultar o pós-venda. Se o novo colchão custa mais, paga-se a diferença; se custa menos, a diferença vira crédito na loja (o crédito online não vale em loja física).",
-          "Travesseiros e pillow tops têm 30 dias após o recebimento, com uso mínimo de 15 dias, e a troca gera crédito, sem custo, com envio pelos Correios, etiqueta e embalagem originais e nota fiscal. Produto comprado no e-commerce troca no e-commerce; o de loja física, na mesma loja.",
-          "O pagamento é no Pix ou no cartão, com parcelamento. O site também oferece atendimento ao cliente, com canais para tirar dúvidas sobre produtos, entregas e políticas de troca."
+          "O site oficial reúne políticas de troca e devolução e uma ferramenta de rastreamento. O Sleeptest é uma política comercial separada do direito de arrependimento das compras online; não é reembolso em dinheiro.",
+          "**Colchões:** pela política oficial, são 100 dias desde a entrega, com pelo menos 15 dias de uso. A troca é por conforto, não por tamanho, e vale uma vez por CPF, com nota fiscal.",
+          "O colchão precisa ter sido usado com protetor e estar sem dano nem sujeira, com etiqueta e embalagem originais. Para Belo Horizonte e região metropolitana, a política informa R$ 300 de frete e montagem; nas demais regiões, é preciso consultar o pós-venda.",
+          "Se o novo colchão custa mais, paga-se a diferença. Se custa menos, a diferença vira crédito na loja; crédito online não vale em loja física.",
+          "**Travesseiros e pillow tops:** são 30 dias após o recebimento, também com pelo menos 15 dias de uso. A troca gera crédito, sem custo, com envio pelos Correios, etiqueta e embalagem originais e nota fiscal.",
+          "Produto comprado no e-commerce troca no e-commerce; o de loja física, na mesma loja.",
+          "O pagamento é por Pix ou cartão, com parcelamento. Use os canais de atendimento do site para dúvidas sobre produto, entrega e troca."
         ],
         "bullets": [],
         "links": [
@@ -34738,7 +34741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na I Wanna Sleep?",
         "paragraphs": [
-          "Sim, com a ressalva de que este artigo trata só de identificação e de regras de compra, com dados públicos do site oficial e a política do Sleeptest. A qualidade do atendimento está na [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao), que olha a loja online. O que sustenta a resposta:"
+          "Os dados abaixo identificam a empresa e as regras de compra. Para avaliar o atendimento, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao), que olha a loja online. O que sustenta a leitura:"
         ],
         "bullets": [
           "CNPJ 43.783.630/0001-92, ativo desde 2021, com endereço em Belo Horizonte (MG).",
@@ -34751,7 +34754,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília mantém parceria comercial ativa com a I Wanna Sleep. No checkout do e-commerce oficial, o leitor pode testar o cupom CECIEMCASA para buscar 10% de desconto em produtos elegíveis, segundo as regras e vigência estabelecidas pela marca. A utilização do cupom não gera custo adicional para o leitor e ajuda a apoiar o projeto editorial."
+          "Temos parceria com a I Wanna Sleep e podemos receber comissão pelas compras com o cupom. O código regular CECIEMCASA dá 10% OFF no site oficial. Confira o desconto no checkout e consulte a página do cupom para condições atualizadas e ofertas temporárias."
         ],
         "bullets": [],
         "links": [
@@ -34767,7 +34770,7 @@ export const reviewsData: unknown[] = [
           "A I Wanna Sleep tem loja física ou é só online? A marca tem lojas físicas no Brasil além do site oficial, conforme a seção \"Nossas lojas\" disponível no site.",
           "Qual o CNPJ da I Wanna Sleep? A empresa opera sob o CNPJ 43.783.630/0001-92, com endereço registrado em Belo Horizonte, Minas Gerais.",
           "Como sei que estou no site oficial? Confirme se o domínio é iwannasleep.com.br antes de inserir dados de pagamento.",
-          "O cupom CECIEMCASA muda o preço final do produto? Quando aceito no checkout para um produto elegível, o código reduz o valor conforme as regras vigentes da marca, sem acrescentar cobrança ao pedido.",
+          "O cupom CECIEMCASA muda o preço final do produto? Sim. O código regular dá 10% OFF no site oficial; confira o desconto no resumo antes de pagar. Ofertas temporárias e condições atualizadas ficam na página do cupom.",
           "A I Wanna Sleep entrega para todo o Brasil ou só em capitais? A marca informa que utiliza transportadoras parceiras. A disponibilidade, o prazo e o valor do frete dependem do CEP e devem ser confirmados no carrinho antes da compra.",
           "Os produtos da I Wanna Sleep têm garantia? Os prazos e as condições podem variar conforme a categoria e a garantia informada na ficha do produto, sem afastar a garantia legal aplicável. Consulte a página do item e o atendimento oficial antes da compra; o Sleeptest é uma política comercial separada e possui regras próprias.",
           "Como funciona a troca ou devolução na I Wanna Sleep? Segundo a política oficial, compras feitas no e-commerce podem ter troca ou devolução solicitada em até 7 dias corridos do recebimento, observadas as condições publicadas pela marca. O Sleeptest é outra coisa: troca de colchão por conforto em até 100 dias, ou crédito de troca para travesseiros e pillow tops em até 30 dias, nunca reembolso em dinheiro.",
@@ -34779,9 +34782,10 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Conheça os produtos da I Wanna Sleep e teste o cupom CECIEMCASA no checkout",
+      "text": "Veja os produtos no site oficial e aplique o CECIEMCASA, de 10% OFF, no checkout. Confira o desconto antes de pagar.",
       "label": "Visitar loja",
-      "url": "https://www.iwannasleep.com.br/"
+      "url": "https://www.iwannasleep.com.br/",
+      "sponsored": true
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
@@ -34953,14 +34957,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na primeira noite, o lado gelado do Igloo esfriou na hora e bastou virar o cobertor quando o calor veio de madrugada. Ele faz mais sentido para quem esquenta dormindo ou divide a cama com alguém de outra temperatura. Ainda é cedo para falar de durabilidade; veja o capítulo Para quem vale a pena."
+          "Na nossa primeira noite, começamos com o lado quente e, quando esquentou de madrugada, bastou virar o cobertor para sentir o toque frio na hora. Ele faz mais sentido para quem sofre com calorão noturno. Ainda é cedo para falar de durabilidade; veja as medidas, o preço e o cupom CECIEMCASA abaixo."
         ]
       },
       {
         "heading": "O que é o Cobertor IWS Igloo",
         "paragraphs": [
           "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio. Basta virar o cobertor para trocar de sensação.",
-          "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. As medidas e tecnologias estão abaixo; as impressões da primeira noite vêm a seguir."
+          "A proposta de dupla face faz sentido para alternar a sensação quando a temperatura muda: foi o que fizemos na primeira noite, virando a mesma peça. Isso é diferente de ter duas zonas de temperatura independentes para o casal. As medidas e tecnologias estão abaixo; as impressões da primeira noite vêm a seguir."
         ],
         "bullets": [],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
@@ -34984,12 +34988,12 @@ export const reviewsData: unknown[] = [
           "O site oficial diz que o Cobertor IWS Igloo reúne seis tecnologias próprias da marca:"
         ],
         "bullets": [
-          "ICE-FEEL FIBER SYSTEM: fibras de poliamida no lado frio que, segundo a marca, dissipam o calor corporal e deixam o toque 3°C abaixo da temperatura ambiente.",
-          "WARM-FEEL FIBER SYSTEM: fibras de poliéster no lado quente, projetadas para reter o calor corporal de forma controlada.",
-          "DUAL-FACE TECHNOLOGY: a possibilidade de virar o cobertor para alternar entre a sensação fria e a quente.",
-          "SILK-GLIDE SURFACE: acabamento de superfície com textura sedosa nos dois lados.",
-          "BALANCE SYSTEM: peso calibrado para dar sensação de aconchego sem abafar.",
-          "AIR-FLOW SYSTEM: sistema de respirabilidade para reduzir o acúmulo de calor sob o cobertor."
+          "Toque frio (Ice-Feel Fiber System): fibras de poliamida no lado frio que, segundo a marca, dissipam o calor do corpo, com sensação até 3 °C abaixo da temperatura ambiente.",
+          "Toque quente (Warm-Feel Fiber System): fibras de poliéster no lado quente, projetadas, segundo a marca, para reter o calor corporal de forma controlada.",
+          "Dupla face térmica (Dual-Face): estrutura reversível que permite alternar entre toque refrescante e aconchego virando o cobertor na cama.",
+          "Acabamento sedoso (Silk-Glide): superfície de textura sedosa nos dois lados.",
+          "Peso equilibrado (Balance System): peso calibrado para dar sensação de aconchego sem abafar, segundo a marca.",
+          "Trama respirável (Air-Flow): sistema de respirabilidade, segundo a marca, para reduzir o acúmulo de calor sob o cobertor."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-2.webp",
         "imageAlt": "Grade com as seis tecnologias do Cobertor IWS Igloo: Ice-Feel Fiber System, Warm-Feel Fiber System, Dual-Face Technology, Silk-Glide Surface, Balance System e Air-Flow System",
@@ -35035,7 +35039,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Preço e estoque mudam com as promoções, então confira a disponibilidade no site antes de fechar o pedido. No checkout, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 dias em casa para compras no site oficial: se o produto não agradar, você recebe um crédito para trocar por outro produto do site."
+          "Em 24/10/2026, no site oficial, o Igloo custava R$ 997,00 no tamanho Casal/Queen (de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Confira o preço e o estoque atuais na loja.",
+          "No checkout, aplique o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA e confira os 10% de desconto adicional nos produtos elegíveis antes de pagar.",
+          "Para compras pelo site oficial, a marca anuncia teste de 30 dias com crédito para trocar por outro produto. Para receber o dinheiro de volta, o arrependimento de 7 dias corridos após o recebimento é o caminho; confira as condições na [página do Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) antes da compra."
         ],
         "bullets": [],
         "links": [
@@ -35054,7 +35060,7 @@ export const reviewsData: unknown[] = [
           "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco, com secagem natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
           "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? A proposta da marca é que sirva o ano todo: no verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor do corpo, diz a marca; no inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. A ideia é dispensar a troca de cobertor entre as estações.",
-          "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Essa é uma das propostas do produto: o cobertor tem um lado frio e um lado quente, e a ideia é que o casal escolha a face que agrada mais, virando a peça quando a necessidade mudar. Segundo a marca, o Balance System distribui o peso de forma uniforme e a tecnologia Air-Flow reduz a sensação de abafamento comum em cobertores tradicionais.",
+          "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Ele tem uma face de toque frio e outra de toque quente, e o casal vira a peça conforme a noite muda. Se uma pessoa sente calor e a outra frio ao mesmo tempo, virar o cobertor muda a sensação para os dois, porque não há zonas térmicas separadas na mesma cama.",
           "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? A marca diz que o peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande. Se o peso agrada é questão de preferência.",
           "Posso usar o Cobertor IWS Igloo com lençol ou em contato direto com a pele? A marca descreve a superfície Silk-Glide como sedosa nos dois lados. Como dica nossa, usar lençol por baixo ajuda a manter o cobertor limpo e a lavá-lo só quando for necessário. Quem tem pele sensível deve avaliar o contato direto por conta própria.",
           "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece [teste de 30 dias em casa](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) para compras feitas pelo site oficial. Se você não se adaptar, recebe um crédito para troca por outro produto do site, e não a devolução do valor em dinheiro. Leia os termos completos da política de teste na página do produto antes de comprar."
@@ -41192,14 +41198,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena? Para quem serve",
         "paragraphs": [
-          "Vale para a pausa com compressa em casa ou no trabalho; não para quem espera blackout total. Ela não substitui diagnóstico, tratamento ou medicamentos prescritos.",
-          "Pode fazer sentido para quem procura uma compressa reutilizável que cubra olhos e têmporas. Para dores frequentes ou incapacitantes, procure orientação profissional antes de depender de qualquer medida caseira."
+          "Pode fazer sentido para quem procura uma compressa reutilizável, fria ou quente, que cubra olhos e têmporas durante uma pausa em casa ou no trabalho. Não é a escolha para quem espera bloqueio total de luz: isso depende do ajuste no rosto.",
+          "Para dores frequentes ou incapacitantes, procure orientação profissional. A máscara não substitui diagnóstico, tratamento ou medicamentos prescritos."
         ],
         "bullets": [
-          "Serve a quem procura uma máscara térmica reutilizável, sem tiras, para fria ou quente.",
-          "Não serve a quem espera bloqueio total de luz: o resultado muda com o ajuste no rosto.",
-          "Verifique a disponibilidade, o preço e a política de troca antes de comprar.",
-          "Não deve ser usada como substituta de medicamentos ou acompanhamento de saúde."
+          "Confira se o formato de touca, sem tiras, atende ao seu uso.",
+          "Verifique a disponibilidade, o preço e a política de troca antes de comprar."
         ],
         "links": [
           {
@@ -41214,12 +41218,13 @@ export const reviewsData: unknown[] = [
           "Respostas práticas sobre a máscara térmica Aliv Head Gel IWS:"
         ],
         "bullets": [
-          "Quanto tempo a máscara Aliv Head Gel fica gelada? A sensação térmica varia conforme o ambiente e o uso. A marca indica preparar a máscara no congelador por 1 a 1h30 ou, no máximo, 2 horas na geladeira antes do uso frio.",
+          "Quanto tempo a máscara Aliv Head Gel fica gelada? A sensação térmica varia conforme o ambiente e o uso; o tempo de preparação não indica por quanto tempo ela ficará gelada. Para preparar o uso frio, a marca indica de 1 a 1h30 no congelador ou, no máximo, 2 horas na geladeira.",
           "O gel da máscara fica duro no freezer? A marca informa que o gel permanece flexível quando resfriado. Confira o estado do produto e use apenas se estiver confortável ao toque.",
           "Como aquecer a Aliv Head Gel no micro-ondas? A marca orienta aquecer por 15 a 30 segundos e testar a temperatura antes de encostar na pele. Não superaqueça.",
           "Como lavar a máscara Aliv Head Gel? Limpe a superfície externa com pano levemente umedecido. Não mergulhe o produto em água.",
           "Posso usar a Aliv Head Gel em pele machucada? A marca orienta evitar a aplicação direta em áreas machucadas da pele e testar a temperatura antes de cada uso.",
           "Quando a dor de cabeça pede atendimento de urgência? Quando vem de repente e muito forte, ou junto com fraqueza ou dormência num lado do corpo, fala enrolada, confusão, alteração na visão, febre com rigidez na nuca ou depois de uma pancada na cabeça. Nesses casos, procure um pronto-socorro ou ligue para o SAMU, no 192.",
+          "A máscara Aliv Head Gel cura enxaqueca? Não. Ela é uma compressa para conforto durante o repouso e não trata a enxaqueca nem substitui acompanhamento médico.",
           "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout. As regras estão na página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       }
@@ -41227,7 +41232,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Conheça a Aliv Head Gel IWS e confira preço, disponibilidade e condições do cupom na loja oficial.",
       "label": "Ver Aliv Head Gel IWS",
-      "url": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws"
+      "url": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws",
+      "sponsored": true
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
@@ -41258,8 +41264,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "No Reclame Aqui, de abril a setembro, a loja online da I Wanna Sleep teve RA1000, nota 8,5 e 90,6% das reclamações resolvidas. Veja as queixas mais comuns antes de comprar.",
-    "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF nos elegíveis: RA1000, nota 8,5 e 90,6% resolvidas de abril a setembro.",
+    "description": "No Reclame Aqui, de abril a setembro, a loja online da I Wanna Sleep teve RA1000 e nota 8,5. Veja as queixas mais comuns antes de comprar.",
+    "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF nos elegíveis: RA1000 e nota 8,5 entre abril e setembro.",
     "publishedAt": "24 de outubro de 2026",
     "publishedAtISO": "2026-10-24",
     "updatedAt": "2026-11-07",
@@ -41275,7 +41281,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, a mais alta do site, com nota 8,5 na janela de abril a setembro. Respondeu 100% das 189 reclamações e resolveu 90,6%; a queixa mais comum é atraso na entrega. Dá para confiar; para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil no dia da compra. Para desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -41289,8 +41295,8 @@ export const reviewsData: unknown[] = [
         "heading": "Os dados atuais no Reclame Aqui",
         "paragraphs": [
           "Os números abaixo são do perfil da loja online (iwannasleep.com.br), o canal do site oficial, consultado em 24 de outubro de 2026, com dados de abril a setembro.",
-          "A reputação é RA1000, a mais alta do Reclame Aqui, com nota 8,5/10 nos últimos seis meses. No período, a loja recebeu 189 reclamações, respondeu 100% delas, resolveu 90,6% e não tinha nenhuma aguardando resposta. Das 139 reclamações avaliadas por quem reclamou, a nota média foi 7,5, e 74,8% disseram que voltariam a fazer negócio. O tempo médio de resposta é de 1 dia e 1 hora.",
-          "A loja aparece em 5º lugar no ranking de melhores empresas da categoria Cama, mesa e banho do Reclame Aqui. A nota é calculada em janela móvel e muda com o tempo: confira o perfil no dia da sua compra."
+          "Na janela de abril a setembro de 2026, o perfil tinha RA 1000 e nota 8,5/10. Recebeu 189 reclamações, todas respondidas, e nenhuma aguardava resposta. Das 139 avaliadas por quem reclamou, a nota média foi 7,5, e 74,8% disseram que voltariam a fazer negócio. O tempo médio de resposta foi de 1 dia e 1 hora.",
+          "A loja aparece em 5º lugar no ranking da categoria Cama, mesa e banho do Reclame Aqui. O perfil reúne quem reclamou na plataforma, não todos os compradores. A nota é calculada em janela móvel e muda com o tempo, então confira o perfil no dia da compra."
         ],
         "bullets": [],
         "links": [
@@ -41300,14 +41306,14 @@ export const reviewsData: unknown[] = [
           }
         ],
         "image": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-perfil-2026-10.webp",
-        "imageAlt": "Painel de desempenho da IWS - I wanna sleep (Loja Online) no Reclame Aqui: reputação RA1000, nota 8,5 em seis meses, 189 reclamações recebidas, 100% respondidas e 90,6% resolvidas",
+        "imageAlt": "Painel de desempenho da IWS - I wanna sleep (Loja Online) no Reclame Aqui: reputação RA1000, nota 8,5 em seis meses, 189 reclamações recebidas, 100% respondidas e índice de solução de 90,6%",
         "imageCaption": "O painel da loja online no Reclame Aqui (dados de abril a setembro).",
         "imageFit": "contain"
       },
       {
         "heading": "Como a reputação chegou ao RA1000",
         "paragraphs": [
-          "O RA1000 é o selo que o Reclame Aqui dá às empresas com os melhores índices de atendimento no período: reclamações respondidas, índice de solução, nota dos consumidores e quantos voltariam a fazer negócio. No histórico dos últimos seis meses, a loja online da I Wanna Sleep teve reputação Boa de abril a julho, Ótima em agosto e chegou ao RA1000 em setembro."
+          "RA 1000 é o nível mais alto de reputação no Reclame Aqui e considera indicadores de resposta, solução e avaliação dos consumidores. No histórico de seis meses, a loja online aparecia como Boa de abril a julho, Ótima em agosto e RA 1000 em setembro."
         ],
         "bullets": []
       },
@@ -41331,7 +41337,7 @@ export const reviewsData: unknown[] = [
           "Compre pelo site oficial (iwannasleep.com.br), que é o canal avaliado neste artigo e onde o cupom vale.",
           "Leia a página do produto com atenção — materiais, medidas e tecnologias — para o que chegar não frustrar a expectativa.",
           "Guarde comprovante de pagamento e número do pedido para rastreamento e eventual contato com o suporte.",
-          "Se o produto chegar com problema, acione o suporte logo: o arrependimento vale por 7 dias na compra pela internet, e o prazo legal para reclamar de defeito aparente é de 30 dias em produto não durável e de 90 dias em durável, como um móvel; a garantia da marca é outra proteção, à parte. Não descarte a embalagem original antes da resolução.",
+          "Se o produto chegar com problema, acione o suporte logo e guarde a embalagem original até a resolução; na compra pela internet, o arrependimento vale por 7 dias após o recebimento.",
           "Consulte o perfil atualizado no Reclame Aqui no dia da sua compra — a nota muda com o tempo."
         ]
       },
@@ -41351,10 +41357,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a nota da I Wanna Sleep no Reclame Aqui? A loja online tem reputação RA1000 e nota 8,5/10 nos últimos seis meses (abril a setembro), com 90,6% das reclamações resolvidas e 74,8% dos consumidores dizendo que voltariam a fazer negócio.",
+          "Qual a nota da I Wanna Sleep no Reclame Aqui? A loja online tem reputação RA1000 e nota 8,5/10 nos últimos seis meses, entre abril e setembro, e 74,8% dos que avaliaram voltariam a fazer negócio.",
           "O que é o selo RA1000? É a reputação mais alta do Reclame Aqui, dada às empresas com os melhores índices de resposta, solução e avaliação dos consumidores no período. A loja online da I Wanna Sleep chegou a ele em setembro.",
           "O que mais aparece nas reclamações da I Wanna Sleep? Atraso na entrega é o problema mais citado no painel do Reclame Aqui (25,19% das reclamações dos últimos três anos), e travesseiros são o produto mais citado.",
-          "A I Wanna Sleep resolve as reclamações? Sim: segundo o Reclame Aqui, a loja online respondeu 100% das reclamações de abril a setembro e resolveu 90,6%, com tempo médio de resposta de 1 dia e 1 hora.",
+          "A I Wanna Sleep resolve as reclamações? Ela respondeu 100% das reclamações de abril a setembro, com tempo médio de resposta de 1 dia e 1 hora. Responder não garante solução: o índice de solução considera só as reclamações finalizadas e avaliadas.",
           "O cupom CECIEMCASA muda o preço final do produto? Muda, nos produtos elegíveis do site oficial: o código dá 10% de desconto, concedido pela marca por meio da parceria com o Em Casa com Cecília. O código e os links podem gerar comissão, sem custo extra para você."
         ]
       }
@@ -41407,7 +41413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Ingredientes, cuidados e preços estão abaixo."
+          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Na loja oficial, o cupom CECIEMCASA dá 10% OFF na unidade e nos kits."
         ]
       },
       {
@@ -41469,8 +41475,8 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Política oficial do Sleeptest",
-            "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
+            "label": "Ver regras e validade do cupom CECIEMCASA para I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
           }
         ]
       },
@@ -41478,6 +41484,12 @@ export const reviewsData: unknown[] = [
         "heading": "Garantia Sleeptest",
         "paragraphs": [
           "O produto é coberto pelo programa **Sleeptest** da I Wanna Sleep: são 30 dias, contados do recebimento, para testar. A marca exige uso mínimo de 15 dias antes de aceitar o pedido de troca, e o que você recebe é crédito de troca por outro item do catálogo, não reembolso. Confira as condições completas na política oficial."
+        ],
+        "links": [
+          {
+            "label": "Política oficial do Sleeptest",
+            "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
+          }
         ]
       },
       {
@@ -41514,7 +41526,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "Conheça a Melatonina Líquida IWS no site oficial e teste o cupom CECIEMCASA",
-      "label": "Ver na loja oficial",
+      "label": "Ver Melatonina Líquida IWS",
       "url": "https://www.iwannasleep.com.br/products/melatonina-liquida-iws-30ml-maracuja",
       "sponsored": true
     },
@@ -45229,9 +45241,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Qual linha escolher",
+        "paragraphs": [
+          "Identifique a melhor escolha para a sua rotina:"
+        ],
+        "bullets": [
+          "Quer apoio cervical: considere a linha Cervical (Cervical Coluna Relax®); com dor persistente, procure um profissional de saúde;",
+          "Quer um travesseiro fácil de higienizar: considere o Airgelly® 2.0 (lavável à mão); com alergia ou rinite, fale com um profissional de saúde;",
+          "Sente calor na cabeça durante a noite: considere o Travesseiro Snow® ou o Ergoblu™;",
+          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (chega alto e você retira o enchimento até o ponto, como no capítulo de regulagem de altura);",
+          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® no tamanho P, M ou G, com as alturas do mesmo capítulo;",
+          "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
+          "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
+          "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
+        "emphasisAfterParagraph": 1
+      },
+      {
         "heading": "As linhas de travesseiro da I Wanna Sleep",
         "paragraphs": [
-          "Dormir de lado, de costas ou com calor: a IWS tem uma linha para cada caso, e este guia percorre todas.",
+          "Use a seção Qual linha escolher para encontrar os modelos que combinam com sua prioridade e, depois, confira os detalhes de cada um. As categorias se sobrepõem: Cervical descreve o formato; Memory Foam, o material. Um mesmo modelo pode aparecer em mais de uma seção.",
           "Um travesseiro adequado pode ajudar a manter a cabeça e o pescoço em posição neutra em relação ao restante da coluna. Modelos muito altos ou baixos podem deixar o pescoço inclinado e contribuir para desconforto durante o sono. Para quem dorme de lado, a altura deve preencher o espaço entre o ombro e a cabeça sem forçar a inclinação cervical.",
           "Por isso a pergunta \"qual o melhor travesseiro\" não tem uma resposta única. Um modelo confortável para quem dorme de bruços pode não oferecer a altura adequada para quem dorme de lado; a melhor marca de travesseiro não é necessariamente a que mais vende, mas aquela que oferece material e altura compatíveis com o seu jeito de dormir.",
           "Um adiantamento antes de começar: o cupom CECIEMCASA está divulgado com 10% de desconto no site oficial da I Wanna Sleep, não apenas nos travesseiros. Como condições comerciais podem mudar, confirme o percentual e a elegibilidade no carrinho; voltamos ao cupom com mais detalhes no capítulo final."
@@ -45270,7 +45300,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
             "alt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep, foto oficial do produto",
-            "caption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica IWS.",
+            "caption": "Cervical Coluna Relax®: formato côncavo central e curvas onduladas, segundo a fabricante.",
             "objectFit": "square"
           }
         ]
@@ -45280,12 +45310,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O termo popular travesseiro da NASA refere-se à espuma viscoelástica (Memory Foam), originalmente desenvolvida na década de 1960 para absorver o impacto da aceleração nos astronautas.",
           "No sono, o viscoelástico molda-se ao contorno da cabeça e distribui a pressão pelos pontos de contato.",
-          "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto; a IWS destaca três:"
+          "Dentro da linha Memory Foam, compare o perfil e a capa de cada modelo. O catálogo da IWS inclui:"
         ],
         "bullets": [
           "Snow®: viscoelástico de alta densidade com capa de toque frio que ajuda na troca térmica, uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
           "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. Segundo a I Wanna Sleep, o formato reduz pontos de pressão em até 60%, e o modelo foi pensado para quem sente calor durante a noite;",
-          "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. Ajudam no conforto térmico, no controle de odores e no apoio em diferentes posições de sono;"
+          "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. Ajudam no conforto térmico, no controle de odores e no apoio em diferentes posições de sono."
         ],
         "links": [
           {
@@ -45315,7 +45345,8 @@ export const reviewsData: unknown[] = [
           "Travesseiros acumulam suor, poeira e resíduos com o uso, e a lavagem muda com o material. A linha antialérgica facilita a higiene com modelos que a marca indica para pessoas sensíveis a agentes alergênicos."
         ],
         "bullets": [
-          "Airgelly® 2.0: segundo a fabricante, o único travesseiro 100% lavável do catálogo, com material hipoalergênico. A lavagem é só à mão: a capa em água fria, sem máquina nem alvejante, secando em local fresco e ventilado, e a estrutura em água corrente. Ele acompanha um pad removível de Memory Foam de 1 cm para baixar a altura, e a ficha não traz instruções de lavagem para o pad. Vem com 30 dias de [Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest): troca por crédito, não devolução com reembolso, com uso mínimo de 15 dias e pedido em até 30 dias do recebimento, conforme o canal de compra;",
+          "Airgelly® 2.0: segundo a fabricante, o único travesseiro 100% lavável do catálogo, com material hipoalergênico. A lavagem é só à mão: capa em água fria, sem máquina nem alvejante, com secagem em local fresco e ventilado; estrutura em água corrente. Acompanha pad removível de Memory Foam de 1 cm para baixar a altura.",
+          "Airgelly® 2.0 e o [Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest): o prazo de 30 dias vale para troca por crédito, não para devolução com reembolso, com uso mínimo de 15 dias e pedido em até 30 dias do recebimento, conforme o canal de compra.",
           "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico ao carvão ativado, que, segundo a marca, atua contra odores e ácaros; a capa lava, a espuma não."
         ],
         "links": [
@@ -45385,7 +45416,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Linha Látex (Original Látex® e Blue Látex): látex natural tailandês com retorno elástico instantâneo e sustentação firme, naturalmente resistente à poeira e aos ácaros, sem o afundamento lento do memory foam;",
           "Linha Fibra (Magnum Pluma AirFiber e Skin®): enchimento sintético de toque macio, semelhante à pluma, sem usar pena animal. O Magnum tem capa 100% algodão e acabamento com corda dourada na costura, a maciez de travesseiro de hotel 5 estrelas. O Skin® usa o mesmo enchimento AirFiber com capa Airgelly® que reduz o atrito para quem se incomoda com as marcas de sono no rosto (\"sleep lines\"); a capa lava à mão em água fria e o enchimento não se lava;",
-          "Linha Pluma Natural: tem duas versões no catálogo, a Pena e Pluma Natural (entrada) e a Pluma Natural Premium (linha de luxo). É a família mais tradicional do catálogo, mas também a que menos cresce em busca nos últimos 12 meses: vale mais para quem já conhece e gosta do toque clássico do que como primeira escolha."
+          "Linha Pluma Natural: duas versões no catálogo, Pena e Pluma Natural e Pluma Natural Premium. É uma alternativa para quem prefere o toque tradicional de penas e plumas ao enchimento sintético."
         ],
         "links": [
           {
@@ -45459,24 +45490,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Qual linha escolher",
-        "paragraphs": [
-          "Identifique a melhor escolha para a sua rotina:"
-        ],
-        "bullets": [
-          "Quer apoio cervical: considere a linha Cervical (Cervical Coluna Relax®); com dor persistente, procure um profissional de saúde;",
-          "Quer um travesseiro fácil de higienizar: considere o Airgelly® 2.0 (lavável à mão); com alergia ou rinite, fale com um profissional de saúde;",
-          "Sente calor na cabeça durante a noite: considere o Travesseiro Snow® ou o Ergoblu™;",
-          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (chega alto e você retira o enchimento até o ponto, como no capítulo de regulagem de altura);",
-          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® no tamanho P, M ou G, com as alturas do mesmo capítulo;",
-          "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
-          "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
-          "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
-        ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
-        "emphasisAfterParagraph": 1
-      },
-      {
         "heading": "Onde comprar e o cupom CECIEMCASA",
         "paragraphs": [
           "A linha de travesseiros e acessórios ergonômicos está disponível na loja online oficial da I Wanna Sleep, com entrega sujeita à cobertura do CEP e às condições exibidas no checkout.",
@@ -45517,7 +45530,7 @@ export const reviewsData: unknown[] = [
           "Qual travesseiro da I Wanna Sleep é mais fácil de lavar? A fabricante apresenta o Airgelly® 2.0 como o único 100% lavável do catálogo, mas só à mão: capa em água fria e estrutura em água corrente, sem máquina. A ficha não dá instruções para o pad de memory foam que o acompanha. Nos modelos de viscoelástico, só a capa removível é lavada, conforme a etiqueta. Quem tem alergia deve falar com um profissional de saúde.",
           "Qual é a melhor marca de travesseiro? Não existe uma marca universalmente melhor. A escolha depende da posição de dormir, da altura, do material, do conforto percebido e de necessidades individuais. A IWS organiza o catálogo em linhas para facilitar essa comparação.",
           "Qual a diferença entre a linha Fibra e a linha Pluma Natural? A linha Fibra (Magnum Pluma AirFiber e Skin®) usa enchimento sintético que imita o toque da pluma, é mais em conta e não usa material de origem animal. A linha Pluma Natural usa penas e plumas reais, com toque mais macio e clássico, em duas versões de preço.",
-          "Como aplicar o cupom CECIEMCASA na I Wanna Sleep? Basta inserir o código CECIEMCASA no campo de cupom no carrinho do e-commerce oficial da marca."
+          "Qual é o cupom da I Wanna Sleep e como usar? O cupom CECIEMCASA dá 10% de desconto no site oficial da I Wanna Sleep. Para usá-lo, insira o código no campo de cupom do carrinho antes de fechar o pedido."
         ]
       }
     ],
@@ -45571,7 +45584,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
         "alt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep",
-        "caption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica."
+        "caption": "Cervical Coluna Relax®: formato côncavo central e curvas onduladas, segundo a fabricante."
       },
       {
         "image": "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
@@ -46067,7 +46080,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As quatro linhas de cobertor da I Wanna Sleep",
         "paragraphs": [
-          "Cada linha resolve um problema: calor e frio na mesma cama, inverno, peso ou toque. Abaixo, cada uma e o veredito por perfil."
+          "As quatro linhas têm propostas diferentes de face, acabamento e leveza. Abaixo, compare características declaradas pela marca e cuidados de cada peça."
         ]
       },
       {
@@ -46087,7 +46100,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Igloo",
-        "imageCaption": "Linha Igloo: um lado com frescor ativo Ice-Feel e o outro com aconchego Warm-Feel na mesma peça.",
+        "imageCaption": "Igloo: duas faces reversíveis, escolhidas ao virar a peça. Foto oficial da I Wanna Sleep.",
         "imageFit": "square",
         "links": [
           {
@@ -46104,16 +46117,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Huggy: fleece com sherpa sintética para o inverno",
         "paragraphs": [
-          "Quem já acordou às três da madrugada com as pontas dos pés geladas sabe que o frio de inverno não perdoa escolhas erradas de roupa de cama. Quando a temperatura ambiente desce para a casa dos 10°C ou menos, muitas casas brasileiras enfrentam um desafio térmico silencioso: a falta de isolamento térmico nas alvenarias faz o quarto esfriar rapidamente, e jogar três ou quatro cobertores pesados sobre o corpo costuma dar peso demais e pés que continuam frios.",
-          "É exatamente para responder a esse cenário de inverno rigoroso que a I Wanna Sleep projetou a Linha Huggy. Inspirado na palavra em inglês hug (abraço), o conceito desse modelo é envolver o corpo em um aconchego térmico contínuo e acolhedor, eliminando de vez aquela sensação desagradável de entrar em uma cama congelante.",
-          "O segredo do aquecimento eficiente não está no peso da coberta, mas na sua capacidade de reter o calor irradiado pelo corpo através da tecnologia Dual Touch:"
+          "O Huggy combina fleece com acabamento que imita pele de carneiro, chamado sheepskin ou sherpa sintético. É a opção para quem procura esse toque felpudo.",
+          "Na ficha da marca, o peso informado é de 2,9 kg no Casal/Queen e 3,3 kg no King/Super King. Esses números ajudam a comparar o peso, não o aquecimento."
         ],
         "bullets": [
-          "Lado Fleece (isolante térmico ativo): microfibras sintéticas de alta densidade tecidas para criar milhares de microbolsas de ar microscópicas que aprisionam o ar aquecido pelo próprio corpo, bloqueando o ar frio externo;",
-          "Lado Sheepskin sintético (efeito sherpa clássico): acabamento que reproduz com perfeição a textura aveludada, encaracolada e macia da pele de carneiro, quebrando a barreira gélida da cama no primeiro segundo de contato;",
-          "100% sintético e cruelty-free: feito em microfibra de poliéster, sem material de origem animal, segundo a marca;",
-          "Versatilidade Cama e Sofá: excelente caimento maleável tanto como cobertor principal na cama quanto como cobertor manta casal de generosas dimensões para sessões de cinema no sofá da sala;",
-          "Medidas: Casal/Queen (2,20m x 2,40m) e King/Super King (2,40m x 2,60m)."
+          "Casal/Queen: 2,20 × 2,40 m.",
+          "King/Super King: 2,40 × 2,60 m.",
+          "Acabamento sintético; não é lã nem pele natural de carneiro."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-huggy-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Huggy com capuz sherpa",
@@ -46128,23 +46138,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Puffer Ultralight: aquecimento leve que vira almofada",
+        "heading": "Puffer Ultralight: proposta de leveza",
         "paragraphs": [
-          "Cobertor pesado pode prender os pés e dificultar virar na cama. O Puffer aposta no ar preso em fibras ocas, não no peso.",
-          "Para romper com o paradigma de que cobertor bom precisa pesar uma tonelada, a I Wanna Sleep foi buscar inspiração no vestuário técnico de montanhismo para conceber a Linha Puffer Ultralight. Em vez de aquecer pela sobreposição maciça de camadas, o modelo utiliza o princípio termodinâmico do ar aprisionado.",
-          "O coração do Puffer Ultralight é o enchimento exclusivo AirFiber™ IWS: microfibras microscópicas ocas, como minúsculos tubos transparentes. O calor corporal penetra na fibra e aquece o ar preso dentro de cada microduto, gerando, segundo a marca, uma barreira térmica com peso bem menor que o de uma colcha comum."
+          "O Puffer Ultralight tem tecido externo de poliéster e enchimento AirFiber, segundo a ficha da I Wanna Sleep. A marca o apresenta como alternativa de aquecimento com menos volume."
         ],
         "bullets": [
-          "Costura em gomos compartimentados: o desenho em gomos ajuda a manter o enchimento distribuído pela peça;",
-          "O cobertor que vira almofada: dobrada, a peça serve de apoio às costas no sofá ou na poltrona;",
-          "O cobertor que vira travesseiro de viagem: compacto e leve, substitui travesseiro e manta na bagagem de mão, ideal para viagens de carro, avião ou finais de semana fora de casa;",
-          "Lavagem e secagem: siga a etiqueta da peça e o manual da lavadora, considerando o tamanho e o volume do cobertor;",
-          "Tamanhos: Casal/Queen e King/Super King.",
-          "Disponibilidade: o estoque de cada tamanho muda; confira na loja oficial a versão que você quer."
+          "Tamanhos da ficha: Casal/Queen, 2,20 × 2,40 m; King/Super King, 2,40 × 2,60 m.",
+          "A foto de embalagem mostra a peça compactada em um saco. Não confirma bolso integrado com zíper nem uso como travesseiro."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Puffer Ultralight",
-        "imageCaption": "Linha Puffer Ultralight: tecnologia AirFiber em gomos costurados e compartimento integrado para virar almofada/travesseiro.",
+        "imageCaption": "Puffer Ultralight: tecido e enchimento apresentados pela I Wanna Sleep como leves.",
         "imageFit": "square",
         "links": [
           {
@@ -46157,18 +46161,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cozy: o cobertor marshmallow com textura 3D Dots",
         "paragraphs": [
-          "Se você pesquisou recentemente por roupas de cama na internet, certamente notou uma expressão que virou febre no Brasil: o 'cobertor marshmallow' (com alta expressiva de buscas no Google Trends). Mas o que os consumidores realmente procuram por trás dessa expressão?",
-          "A busca é por um cobertor fofinho, encorpado, com toque aerado e volume visual de revista, que transmita a sensação reconfortante de afundar em uma nuvem ao deitar. Para atender a esse anseio de conforto tátil supremo, a I Wanna Sleep desenvolveu a Linha Cozy.",
-          "O Cozy une o acabamento aveludado de alto padrão a duas tecnologias proprietárias desenhadas para relaxamento sensorial e durabilidade estrutural:"
+          "O Cozy se diferencia pela superfície com pequenos relevos, que a I Wanna Sleep chama de 3D Dots, e pelo enchimento Long Fiber. A marca o apresenta como macio e apropriado para noites frias.",
+          "Compare esse acabamento com o fleece e a sherpa do Huggy. A preferência pelo toque é pessoal."
         ],
         "bullets": [
-          "Textura Tridimensional 3D Dots™: superfície com microrrelevos em formato de pequenos pontos acolchoados em três dimensões. É o que dá o toque marshmallow da linha;",
-          "Enchimento Estruturado Long Fiber IWS™: fibras longas e entrelaçadas que, segundo a marca, não se rompem nem empelotam nas lavagens e mantêm o volume fofo;",
-          "Elegância na cama posta: substitui edredons pesados com caimento drapeado impecável, disponível em Solteiro/Solteirão, Casal/Queen (2,20m x 2,40m) e King (2,40m x 2,60m) para colchões extralargos."
+          "Tamanhos consultados: Solteiro/Solteirão, 1,70 × 2,29 m; Casal/Queen, 2,20 × 2,40 m; King/Super King, 2,40 × 2,60 m.",
+          "Confira a medida da peça e o quanto quer que sobre nas laterais da cama."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa abraçando o Cobertor Cozy",
-        "imageCaption": "Linha Cozy: o autêntico toque 'marshmallow' com microrrelevos sensoriais 3D Dots e enchimento Long Fiber.",
+        "imageCaption": "Cozy: superfície com relevo 3D Dots e enchimento chamado Long Fiber pela marca.",
         "imageFit": "square",
         "links": [
           {
@@ -46181,7 +46183,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa da I Wanna Sleep",
         "paragraphs": [
-          "Os quatro modelos lado a lado pelas especificações do catálogo:"
+          "Compare as características informadas nas fichas consultadas em 07/11/2026. Os nomes comerciais não são uma medição independente de conforto."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -46195,95 +46197,67 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Proposta Central",
-              "Reversibilidade: uma face de toque fresco e outra de toque quente",
-              "Aconchego térmico supremo para inverno rigoroso",
-              "Aquecimento com peso quase nulo e alta mobilidade",
-              "Conforto sensorial marshmallow e cama posta sofisticada"
+              "Diferença para escolher",
+              "Duas faces reversíveis",
+              "Fleece com sherpa sintético",
+              "Proposta de leveza com enchimento AirFiber",
+              "Superfície em relevo 3D Dots"
             ],
             [
-              "Sensação Térmica",
-              "Dual-Face: toque frio Ice-Feel de um lado, aquecimento suave Warm-Feel do outro",
-              "Quente e envolvente (abraço térmico imediato)",
-              "Aquecimento moderado a alto com respirabilidade contínua",
-              "Quente, macio e acolhedor com distribuição uniforme"
+              "Como aparece na ficha",
+              "Face Ice-Feel ou Warm-Feel, conforme a orientação da peça",
+              "Acabamento felpudo sintético",
+              "Tecido externo de poliéster; enchimento AirFiber",
+              "Enchimento chamado Long Fiber pela marca"
             ],
             [
-              "Tecnologias Têxteis",
-              "Ice-Feel, Warm-Feel, Silk-Glide Surface™ e Air-Flow System™",
-              "Dual Touch (Fleece térmico + Sheepskin sintético)",
-              "Enchimento AirFiber™ IWS em gomos geométricos costurados",
-              "Textura 3D Dots™ + Enchimento Long Fiber IWS™"
-            ],
-            [
-              "Sensação no Corpo",
-              "Fluido e sedoso, com caimento anatômico deslizante",
-              "Denso e felpudo (toque aveludado pele de carneiro / sherpa)",
-              "Muito leve, segundo a marca",
-              "Encorpado, aerado, volumoso e aveludado"
-            ],
-            [
-              "Material",
-              "Respirável, com trama Air-Flow System™, segundo a marca",
-              "100% sintético e cruelty-free, segundo a marca",
-              "Fibras sintéticas",
-              "Fibras longas que não soltam fiapos, segundo a marca"
-            ],
-            [
-              "Portabilidade / Uso",
-              "Fixo na cama (ideal para noites inteiras)",
-              "Cama de casal/queen e manta de living no sofá",
-              "Alta: dobra compacto e, segundo a marca, vira travesseiro ou almofada",
-              "Fixo na cama e momentos de relaxamento no sofá"
-            ],
-            [
-              "Tamanhos Oficiais",
-              "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
-              "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
+              "Tamanhos consultados",
               "Casal/Queen e King/Super King",
-              "Solteiro/Solteirão, Casal/Queen (2,20x2,40m) e King (2,40x2,60m)"
+              "Casal/Queen e King/Super King",
+              "Casal/Queen e King/Super King",
+              "Solteiro/Solteirão, Casal/Queen e King/Super King"
             ],
             [
-              "Indicação Principal",
-              "Quem esquenta à noite, quem sente frio de madrugada e quartos com ar-condicionado",
-              "Noites de frio intenso e quem ama textura sherpa",
-              "Quem odeia peso nas pernas, viaja ou lê no sofá",
-              "Quem busca toque macio e cama fofa de hotel"
+              "O que conferir antes da compra",
+              "Face desejada e medida da cama",
+              "Peso e toque do acabamento",
+              "Volume da peça e instruções de lavagem",
+              "Textura e sobra desejada nas laterais"
             ]
           ]
         }
       },
       {
-        "heading": "Cuidados de lavagem e manutenção na vida real",
+        "heading": "Lavagem: confira a etiqueta de cada peça",
         "paragraphs": [
-          "Para preservar as propriedades térmicas e táteis dos seus cobertores IWS por mais tempo, alguns cuidados na lavanderia doméstica ajudam:"
+          "O tamanho e o volume do cobertor importam tanto quanto a capacidade nominal da máquina. Confira a etiqueta da sua peça e o manual da lavadora antes de lavar."
         ],
         "bullets": [
-          "Ciclo delicado e sabão neutro: utilize sempre água fria ou em temperatura ambiente com sabão líquido neutro. Evite alvejantes clorados ou amaciantes em excesso, que podem impermeabilizar as fibras e prejudicar a respirabilidade do Air-Flow e do Ice-Feel;",
-          "Etiqueta e manual da lavadora: siga a etiqueta de cada peça e o manual da sua máquina, considerando o tamanho e o volume do cobertor. Peças Casal/Queen e King ocupam bastante espaço no tambor;",
-          "Secagem natural à sombra: estenda a peça à sombra em local ventilado. Nunca passe ferro elétrico sobre as superfícies sintéticas (especialmente o lado Ice-Feel, a sherpa ou os 3D Dots), pois o calor concentrado funde as microfibras e elimina o efeito tátil original."
+          "Igloo: segundo a página do produto, lavagem à mão ou na máquina até 30 °C, sem alvejante, ferro ou lavagem a seco, com secagem natural.",
+          "Puffer Ultralight: segundo a página do produto, água fria e modo delicado, sem alvejante, secadora ou ferro.",
+          "Huggy e Cozy: siga a etiqueta da versão comprada e o manual da lavadora, considerando o volume da peça."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-embalagem-cuidados.webp",
         "imageAlt": "Cobertor I Wanna Sleep dobrado com bolsa de transporte e cartão de cuidados oficial",
-        "imageCaption": "Cuidados corretos de lavagem garantem longevidade às propriedades térmicas e táteis das peças.",
+        "imageCaption": "Confira os cuidados na etiqueta da peça e no manual da sua lavadora.",
         "imageFit": "square"
       },
       {
         "heading": "Qual escolher: o cobertor certo para cada perfil",
-        "emphasis": "Se fosse para a minha casa, eu levaria o Igloo, porque uma peça só serve para as noites quentes e as frias: basta virar.",
+        "emphasis": "Eu começaria pela diferença que quero na coberta: duas faces no Igloo, fleece com sherpa no Huggy, proposta de leveza no Puffer ou textura em relevo no Cozy.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "Escolha pelo frio que você sente e por quem divide a cama. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA aplicado:"
+          "Escolha pela característica que você quer comparar. A [página do cupom I Wanna Sleep](/cupons/i-wanna-sleep) reúne as condições do CECIEMCASA."
         ],
         "bullets": [
-          "Perfil 1: Quem Esquenta à Noite ou Dorme com Ar-Condicionado -> Vá de Igloo™. A peça é reversível: você vira a coberta e deixa voltado ao corpo o lado Ice-Feel, de toque fresco, ou o Warm-Feel, mais quentinho. O lado escolhido vale para a cama inteira: o Igloo não esfria um lado e aquece o outro ao mesmo tempo. A marca informa uma sensação térmica 2 a 3°C menor no lado Ice-Feel, em medição própria;",
-          "Perfil 2: O Amante do Inverno Rigoroso e Textura Sherpa -> Vá de Huggy®. Para noites congelantes em que os pés demoram a aquecer, a dobradinha de fleece isolante com sherpa sintética quebra a friagem na hora, em um tecido 100% sintético e cruelty-free;",
-          "Perfil 3: O Inimigo do Peso Opressivo e Amante da Portabilidade -> Vá de Puffer Ultralight™. Se você detesta sentir as pernas presas por mantas pesadas, viaja bastante ou gosta de ter uma coberta versátil que vira almofada no sofá e travesseiro no carro, as fibras ocas AirFiber entregam, segundo a marca, aquecimento com peso bem menor;",
-          "Perfil 4: O Fã do Toque Marshmallow e Cama de Revista -> Vá de Cozy™. Se a sua prioridade é o relaxamento sensorial e uma cama posta volumosa e sofisticada, o relevo 3D Dots dá o toque marshmallow, e o miolo Long Fiber mantém o volume, segundo a marca."
+          "Igloo: se quer alternar a face voltada ao corpo, virando a peça.",
+          "Huggy: se prefere fleece com acabamento sherpa sintético; confira também o peso.",
+          "Puffer Ultralight: se quer comparar a proposta de leveza e as medidas disponíveis.",
+          "Cozy: se a prioridade é o acabamento em relevo."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-ambiente.webp",
         "imageAlt": "Cobertor I Wanna Sleep texturizado sobre poltrona em ambiente aconchegante",
-        "imageCaption": "Qualquer que seja o seu perfil, as 4 linhas compartilham o mesmo padrão de acabamento premium.",
+        "imageCaption": "Cozy em ambiente de uso, em foto oficial da I Wanna Sleep.",
         "imageFit": "square",
         "links": [
           {
@@ -46299,15 +46273,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada linha, com o cupom CECIEMCASA aplicado",
         "paragraphs": [
-          "Os valores abaixo são preços de referência do site oficial da I Wanna Sleep; o preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. O valor com o cupom, na coluna final, é cálculo nosso, não simulação da loja: os 10% do CECIEMCASA por cima do preço já promocional. Confirme no carrinho se o cupom acumula com a promoção ativa daquele momento."
+          "Os valores são de referência do site oficial da I Wanna Sleep. O preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. A última coluna simula 10% de desconto sobre esses valores; confirme no carrinho se o CECIEMCASA acumula com a promoção ativa."
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Preços das 4 linhas de cobertores IWS com e sem o cupom CECIEMCASA",
+          "caption": "Valores de referência das 4 linhas de cobertores IWS e simulação com 10% do CECIEMCASA",
           "headers": [
             "Linha e tamanho",
-            "Preço oficial",
-            "Com CECIEMCASA (10%)*"
+            "Preço registrado",
+            "Simulação com 10%"
           ],
           "rows": [
             [
@@ -46355,10 +46329,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre cobertores IWS",
         "bullets": [
-          "O cobertor Igloo realmente fica gelado? Sim. A face com tecnologia Ice-Feel Fiber System™ dissipa o calor por contato direto, reduzindo a sensação térmica da pele em 2 a 3°C em comparação ao ambiente, segundo medição da marca com termômetro infravermelho. Para noites frias, basta virar a peça e utilizar o lado Warm-Feel.",
+          "O Igloo realmente fica gelado? A marca apresenta a face Ice-Feel como de toque frio e informa redução de 2 a 3 °C na sensação térmica, em medição própria. Para alternar a face em contato com o corpo, basta virar a peça.",
           "O cobertor Huggy é de pele ou lã de carneiro? Não. O acabamento sheepskin do Huggy é 100% sintético e cruelty-free, segundo a marca. Se você tem rinite ou alergia, converse com seu médico antes de escolher o tecido.",
-          "Como o cobertor Puffer Ultralight vira almofada ou travesseiro? Segundo a marca, a peça dobrada pode servir de almofada lombar ou de travesseiro de viagem. O enchimento de microfibras ocas AirFiber™ é compressível, o que ajuda a guardar e transportar.",
-          "Qual o tamanho de cobertor ideal para camas Queen e King? Para camas Casal e Queen, o tamanho padrão da IWS é 2,20m x 2,40m, garantindo cobertura farta nas laterais. Para colchões King e Super King (acima de 1,86m de largura), a medida indicada é 2,40m x 2,60m, evitando que os pés fiquem descobertos quando alguém se vira.",
+          "O Puffer vira almofada ou travesseiro? Segundo a marca, a peça dobrada pode servir de almofada ou de travesseiro de viagem. A foto mostra só a embalagem compacta, sem comprovar bolso com zíper nem o tempo de transformação.",
+          "Como escolher o tamanho? Compare as dimensões da peça com largura e comprimento do colchão e a sobra que deseja nas laterais. As fichas da marca trazem Casal/Queen de 2,20 × 2,40 m e King/Super King de 2,40 × 2,60 m; o Cozy também tem Solteiro/Solteirão.",
           "Como aplicar o cupom CECIEMCASA e o cobertor tem teste na cama? Basta inserir o código CECIEMCASA no carrinho do e-commerce oficial da I Wanna Sleep para obter 10% de desconto. A política Sleeptest da marca lista colchões, travesseiros e suplementos; para cobertores, confirme as condições na página do produto antes de comprar."
         ]
       }
@@ -46371,7 +46345,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Você passa noites de inverno rigoroso com os pés demorando a aquecer: aí o Huggy atende melhor.",
         "Você quer um cobertor fofinho e volumoso, de cama de revista: aí a linha é a Cozy.",
-        "Sua lavadora tem menos de 11 kg e você pensa no Huggy ou no Cozy em Casal/Queen ou King: eles pedem máquina de 11 a 13 kg."
+        "Sua lavadora não comporta o volume de um Casal/Queen ou King, segundo o manual."
       ]
     },
     "cta": {
@@ -46416,17 +46390,17 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp",
         "alt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Puffer Ultralight",
-        "caption": "Linha Puffer Ultralight: enchimento AirFiber em gomos e dobra compacta multifuncional."
+        "caption": "Puffer Ultralight em foto oficial da marca."
       },
       {
         "image": "/images/reviews/iwannasleep/cobertor-puffer-travesseiro-viagem.webp",
-        "alt": "Cobertor Puffer Ultralight compactado em bolsa, virando travesseiro de viagem",
-        "caption": "Compactado, o Puffer Ultralight vira travesseiro de viagem ou almofada em segundos."
+        "alt": "Pessoa segurando embalagens cinzas compactas do cobertor Puffer",
+        "caption": "Embalagens compactas do Puffer Ultralight."
       },
       {
         "image": "/images/reviews/iwannasleep/cobertor-cozy-oficial-uso.webp",
         "alt": "Foto oficial da I Wanna Sleep de pessoa abraçando o Cobertor Cozy",
-        "caption": "Linha Cozy: sensação sensorial de marshmallow com microrrelevos 3D Dots e enchimento Long Fiber."
+        "caption": "Cozy: textura em relevo da linha, em foto oficial da marca."
       }
     ]
   },
@@ -50086,7 +50060,7 @@ export const reviewsData: unknown[] = [
       "Indicado pela marca para crianças a partir de 2 anos, para uso em tecido e ambiente (não na pele)",
       "Aroma suave que pode virar um marcador do ritual de dormir, sem depender de remédio",
       "Uso simples: 1 a 3 borrifadas alguns minutos antes de deitar",
-      "Teste de 30 dias com crédito para troca (compras no site oficial) e 10% OFF com o cupom CECIEMCASA"
+      "Teste de 30 dias com crédito para troca (compras no site oficial, conforme as condições da página) e 10% OFF com o cupom CECIEMCASA"
     ],
     "cons": [
       "É um cosmético: a própria marca diz que não é medicamento e não tem efeito farmacológico, então o efeito depende do ritual",
@@ -50156,11 +50130,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar: 1 a 3 borrifadas, alguns minutos antes de deitar",
         "paragraphs": [
-          "A orientação da marca é borrifar de 1 a 3 vezes no travesseiro, no lençol ou no ambiente do quarto, alguns minutos antes de a criança se deitar. A embalagem não especifica distância nem tempo exato; os itens marcados como \"nossa sugestão\" são bom senso para não molhar o tecido."
+          "Segundo a marca, use de 1 a 3 borrifadas no travesseiro, no lençol ou no ambiente, alguns minutos antes de deitar; siga as instruções da embalagem correspondente."
         ],
         "bullets": [
           "Quantidade: de 1 a 3 borrifadas, como a marca indica;",
-          "Onde: no travesseiro (na parte de cima, longe do rosto), no lençol ou no ar do quarto. Nossa sugestão: borrifar a uns 20 a 30 cm para a névoa se espalhar sem encharcar o tecido;",
+          "Onde: travesseiro, lençol ou ambiente, conforme a marca;",
           "Quando: alguns minutos antes de a criança deitar, como a marca orienta, com ela fora da cama. O tecido deve estar seco na hora de deitar;",
           "Cuidados da marca: não usar em pele irritada ou lesionada, não ingerir, evitar contato com olhos, boca e mucosas, suspender o uso se houver irritação e guardar em local fresco, ao abrigo de luz intensa e fora do alcance de crianças;",
           "Objetos de apego: a marca fala em travesseiro, lençol e ambiente; naninhas e pelúcias não fazem parte da orientação."
@@ -50171,15 +50145,15 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Roteiro prático de 20 minutos para a hora de dormir",
+        "heading": "Roteiro prático para a hora de dormir",
         "paragraphs": [
-          "O spray é só uma peça. O que costuma funcionar é a sequência repetida, sempre na mesma ordem. O roteiro abaixo é uma sugestão editorial baseada em recomendações gerais de sono infantil, não um protocolo da marca; ajuste aos horários da sua casa. A Academia Americana de Pediatria orienta evitar telas na hora anterior ao sono ([AAP: Media and Young Minds](https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/)). O aroma é opcional, e a borrifada faz parte do preparo do quarto, dentro dos 20 minutos."
+          "O spray é só uma peça. O que costuma funcionar é a sequência repetida, sempre na mesma ordem. O roteiro abaixo é uma sugestão editorial baseada em recomendações gerais de sono infantil, não um protocolo da marca; ajuste aos horários da sua casa. A Academia Americana de Pediatria orienta evitar telas na hora anterior ao sono ([AAP: Media and Young Minds](https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/)). O aroma é opcional, e a borrifada faz parte do preparo do quarto."
         ],
         "bullets": [
-          "Passo 1, luz e telas (antes do roteiro, na hora que antecede o sono): desligue TV, tablets e celulares e troque a luz branca do teto por uma iluminação indireta e amarelada;",
-          "Passo 2, banho, pijama e preparo do quarto (cerca de 10 minutos): banho morno, pijama confortável, dentes escovados e, com a criança fora do quarto, 1 a 3 borrifadas no travesseiro e no lençol;",
-          "Passo 3, deitar (2 minutos): confira que o tecido está seco e faça um convite calmo para deitar;",
-          "Passo 4, aconchego (8 a 10 minutos): uma história curta em voz baixa, uma canção de ninar ou um cafuné até a respiração desacelerar."
+          "Passo 1: desligue telas uma hora antes do horário de dormir e organize uma transição com menos estímulos.",
+          "Passo 2: prepare banho, pijama e escovação conforme a rotina da casa.",
+          "Passo 3: se optar pelo spray, prepare o tecido ou ambiente com antecedência, seguindo o modo da marca e a embalagem. Não borrife para convidar a criança a deitar imediatamente depois.",
+          "Passo 4: reserve um momento calmo para ler uma história, cantar ou conversar. A sequência pode existir com ou sem o aroma."
         ],
         "image": "/images/reviews/iwannasleep/sleepspray-kidz-historia-antes-de-dormir.webp",
         "imageAlt": "Pai e mãe lendo um livro de histórias para o filho na cama, com luz de abajur acesa e o frasco do SleepSpray Kidz na mesa de cabeceira",
@@ -50235,16 +50209,16 @@ export const reviewsData: unknown[] = [
           "Este guia parte do rótulo, da página oficial e de recomendações gerais de sono infantil: por isso diz em que situação o spray faz sentido, não que ele \"funciona\".",
           "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, a criança tem 2 anos ou mais e não tem alergia respiratória, e você aceita gastar o valor de um frasco de 60 ml com um item de conforto. A loja oferece 30 dias de teste, com crédito de troca se a criança não se adaptar. É um jeito simples de repetir um sinal sensorial no fim do dia.",
           "Não faz sentido se a expectativa é um produto que faça a criança dormir sozinha com as telas ligadas e o horário desorganizado, nem como tratamento para insônia. Para despertares frequentes ou sonolência excessiva de dia, procure o pediatra: o problema pode não ser de rotina.",
-          "O que há de mais sólido neste guia não está no frasco: luz baixa, sem telas, horários regulares, banho e um momento calmo com um adulto. O spray é o marcador; o ritual é o que faz o trabalho."
+          "Luz mais baixa, horários regulares e um momento calmo com um adulto fazem parte da rotina descrita. O spray é um item aromático opcional, sem efeito comprovado sobre o sono."
         ],
         "bullets": []
       },
       {
-        "heading": "Preço, kits e garantia de 30 dias",
+        "heading": "Preço, kits e teste de 30 dias com crédito de troca",
         "paragraphs": [
-          "O frasco de 60 ml custa R$ 117,00 de tabela no site oficial (consulta de 29/09/2026), com kits de 3 frascos por R$ 234,00 (compre 2, leve 3) e de 5 por R$ 351,00 (compre 3, leve 5). Em 06/11/2026, a página mostrava promoção de R$ 99,00 por frasco e kits de R$ 198,00 e R$ 297,00. Promoções mudam, então confira o valor do dia. O frete é grátis acima de R$ 150,00.",
+          "Em 29/09/2026, a loja mostrava R$ 117 pelo frasco de 60 ml, com kits de 3 frascos por R$ 234 e de 5 por R$ 351. Confira o preço do dia e o frete no carrinho antes de comprar. O frete é grátis acima de R$ 150,00.",
           "Quanto rende? A marca não informa quantas borrifadas ou noites um frasco entrega, então não dá para calcular um custo por noite.",
-          "A garantia funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro. As condições gerais estão na [política Sleeptest da marca](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest); confirme na página do produto o que vale para o spray.",
+          "O teste funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro. As condições gerais estão na [política Sleeptest da marca](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest); confirme na página do produto o que vale para o spray.",
           "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
         ],
         "bullets": []
@@ -50280,10 +50254,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A partir de que idade posso usar o SleepSpray Kidz? A IWS indica o produto para crianças a partir de 2 anos. Para menores de 2 anos a página não traz orientação, então converse com o pediatra antes de usar qualquer aroma no quarto de um bebê.",
           "O SleepSpray Kidz é remédio ou tem melatonina? Não. A própria IWS informa que ele é um cosmético, sem efeito farmacológico, e livre de melatonina. O SleepSpray adulto é que traz melatonina na composição.",
-          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar.",
+          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar. Siga a embalagem e não ultrapasse essa orientação.",
           "Posso borrifar na pele, no rosto ou na naninha? Não. A marca orienta travesseiro, lençol e ambiente, e pede para evitar contato com olhos, boca e mucosas, não usar em pele irritada, não ingerir e suspender o uso em caso de irritação. Naninhas e pelúcias não fazem parte da orientação.",
           "O spray mancha a fronha? A página da IWS não fala sobre manchas. A base é aquosa; por segurança, teste em um canto discreto do tecido e deixe secar antes de deitar a criança.",
-          "O cheirinho perde o efeito se eu usar todas as noites? A IWS indica o produto para uso diário e apresenta a repetição como parte do ritual. Não encontramos estudo sobre perda de efeito; o que mais pesa no resultado é a consistência da rotina inteira, não só do aroma.",
+          "O cheirinho perde o efeito se usar todas as noites? A IWS indica o produto para uso diário e apresenta a repetição como parte do ritual, sem dados sobre perda de efeito. O que mais pesa é a consistência da rotina inteira, não só do aroma.",
           "Adulto pode usar o SleepSpray Kidz? Pode usar como perfume de cama se gostar do aroma, lembrando que é um produto de tecido, sem função farmacológica. Gestantes e pessoas com asma ou rinite devem consultar o médico antes de usar óleos essenciais em casa."
         ]
       }
@@ -52049,7 +52023,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "10 cm de altura e enchimento gomo a gomo",
         "paragraphs": [
-          "Muito protetor vendido como pillow top tem poucos centímetros e achata rápido. O Magnum tem **10 cm de altura quando afofado**, diz a marca. O detalhe do \"quando afofado\" importa: ele chega embalado e precisa ser aberto e descansar antes de ganhar o volume total (os passos estão logo abaixo).",
+          "O Magnum tem 10 cm de altura quando afofado, segundo a marca. Ele chega comprimido na embalagem e precisa ser aberto e descansar antes de ganhar volume; os passos estão abaixo.",
           "O enchimento é feito gomo a gomo: cada quadrado costurado recebe sua própria porção de AirFiber. A I Wanna Sleep compara com a manta acrílica comum, que é uma camada contínua, e diz que os gomos distribuem a fibra sem acumular em um canto da cama."
         ],
         "image": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-altura.webp",
@@ -52073,7 +52047,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Depende da origem do incômodo. Um colchão muito firme pode concentrar pressão em ombros e quadris, principalmente em quem dorme de lado. Nesse caso, uma camada de conforto por cima pode deixar a cama mais acolhedora sem trocar o colchão inteiro.",
           "O que o pillow top não faz é tratar problema de coluna. Hérnia de disco, dor que dura semanas, dor que irradia para as pernas ou que piora com o tempo precisam de avaliação de médico ou fisioterapeuta. E se o colchão já está afundado, o pillow top vai acompanhar o buraco: aí o problema é a base, não a superfície.",
-          "Por isso a pergunta certa antes de comprar é: **o meu colchão está firme demais ou está gasto?** Se está firme e em bom estado, o pillow top é uma solução mais barata do que um colchão novo. Se está gasto, o dinheiro rende mais em outro colchão."
+          "Antes de comprar, confira se o colchão está em bom estado e se o que você quer mudar é a superfície. O pillow top acrescenta uma camada por cima; ele não corrige afundamentos nem recupera uma base gasta."
         ]
       },
       {
@@ -52176,13 +52150,13 @@ export const reviewsData: unknown[] = [
         "heading": "Sleeptest: dá para trocar se não gostar?",
         "paragraphs": [
           "A I Wanna Sleep tem o programa Sleeptest, e para pillow tops o prazo é de **30 dias**. Pelas regras publicadas pela marca, a troca exige pelo menos 15 dias de uso, dentro dos 30 dias do recebimento, com o produto em perfeito estado, etiqueta e embalagem originais e nota fiscal.",
-          "A troca é feita como crédito, sem custo para o cliente, e compras do site são trocadas pelo próprio site. Guarde a embalagem até ter certeza: é ela que garante a troca se o pillow top não combinar com o seu sono."
+          "Pelo [regulamento do Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest), a troca é feita como crédito, e compras do site seguem pelo próprio site. A embalagem original é uma das condições: guarde-a junto com a nota fiscal e confira os demais critérios antes de pedir a troca."
         ]
       },
       {
         "heading": "Veredito: para quem o Magnum vale a pena",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena para um caso bem específico: **colchão em bom estado que ficou firme demais**. Nessa situação, ele custa uma fração de um colchão novo, adiciona 10 cm de conforto e ainda tem 30 dias de Sleeptest para tirar a dúvida na prática. Na página do produto, na mesma data dos preços da tabela, a nota exibida era 4,9 de 5, com 238 avaliações.",
+          "O Magnum faz sentido como opção para quem mantém um colchão em bom estado e quer uma camada mais macia na superfície. A marca informa 10 cm quando afofado e oferece Sleeptest de 30 dias, com as condições de troca do capítulo anterior. Na página do produto, consultada na mesma data dos preços da tabela, a nota era 4,9 de 5, com 238 avaliações. Compare o custo com o que você pretende gastar antes de decidir.",
           "Se o colchão já está gasto, ou se a dor nas costas é antiga e persistente, o melhor investimento é outro: um colchão novo ou uma consulta. Pillow top é conforto, não tratamento."
         ],
         "links": [
@@ -55282,7 +55256,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Tem uma campanha enxuta: a home da I Wanna Sleep traz os Kits Exclusivos Black, com brindes (dois travesseiros Magnum no Pillow Top, um travesseiro Bubble Gel no cobertor Igloo, meias no Huggy) e até 39% de desconto em kits, sem data de fim publicada. Não encontramos campanha oficial nos anos anteriores: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
           "O que a loja já fazia em outubro era vender o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto, e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
-          "Compare os kits com as tabelas deste guia: o selo só é vantagem se o preço do dia ficar abaixo delas. O carrinho mostra se o cupom entra em cada kit."
+          "Compare os kits com as tabelas deste guia, sempre no mesmo tamanho e composição, porque a referência é histórica. O carrinho mostra se o cupom entra em cada kit, e vale checar se o brinde anunciado serve para você."
         ]
       },
       {
@@ -55337,7 +55311,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+          "O preço riscado é uma referência exibida pela loja, não prova do preço praticado antes. Compare o preço anunciado da mesma versão com o registrado em outubro e confira frete, cupom e pagamento no total do carrinho."
         ],
         "links": [
           {
@@ -55496,14 +55470,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
-          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Simulamos o frete do Pillow Top Magnum casal com o CEP do centro de 12 capitais, e ele saiu grátis em todas.",
-          "Somando um dia útil de folga ao prazo do carrinho, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Na simulação feita em outubro, o Pillow Top Magnum casal teve frete grátis com o CEP do centro de 12 capitais. A loja calcula prazo e frete pelo CEP, então a condição pode mudar para outro endereço ou outro pedido.",
+          "A tabela traz nossa estimativa, com um dia útil de folga, de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira. Ela não é um calendário de entrega garantida."
         ],
         "comparisonTable": {
-          "caption": "Prazo mostrado no carrinho da I Wanna Sleep, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "caption": "Simulação em outubro com um CEP central por capital e o Pillow Top Magnum casal. Datas estimadas por nós, com um dia útil de folga; refaça a consulta com o seu CEP e considere a aprovação do pagamento.",
           "headers": [
             "Capital",
-            "Prazo no carrinho",
+            "Prazo simulado em outubro",
             "Pagar até (estimativa, dezembro)"
           ],
           "rows": [
@@ -55545,7 +55519,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "É uma estimativa com o prazo de outubro: se puder, peça antes, e pague com Pix ou cartão, porque o boleto pode levar até 72 horas para ser aprovado.",
+          "É uma estimativa com o prazo de outubro: se puder, peça antes. Confirme o prazo que aparece agora para o seu CEP e quando ele começa a contar; a aprovação leva até 24 horas no cartão e até 72 horas no boleto.",
           "A política de entrega da loja dá frete grátis acima de R$ 150 em travesseiros, pillow top, cobertores e no resto da linha leve. Abaixo disso, o carrinho mostra o valor para o seu CEP."
         ]
       },
@@ -55559,8 +55533,8 @@ export const reviewsData: unknown[] = [
           "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
           "Tem cupom de primeira compra na I Wanna Sleep? Use o CECIEMCASA, que dá 10% OFF em todo o site, com todas as formas de pagamento.",
           "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. É nelas que se compram colchões e box. Compras feitas no site não são trocadas nas lojas.",
-          "O Pillow Top Magnum fica mais barato na Black Friday? Na leitura de preços, ele já estava com cerca de 14% de desconto, a R$ 1.848 no casal. Se em novembro o preço do dia ficar abaixo disso, o desconto é maior que o de outubro.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos que o carrinho mostrou em outubro e um dia útil de folga, até o dia 15 em São Paulo e no Rio de Janeiro, até o dia 18 em Belo Horizonte e até o dia 7 em Recife."
+          "O Pillow Top Magnum fica mais barato na Black Friday? Em outubro, ele já tinha cerca de 14% de desconto, a R$ 1.848 no casal, antes do cupom e do Pix. Compare o preço da mesma versão com esse valor e confira frete e pagamento no total. Brindes e kits mudam o pacote, então o selo sozinho não mostra economia.",
+          "Até quando comprar para chegar antes do Natal? A tabela traz uma estimativa com prazos de outubro, não uma data limite atual. Consulte o prazo do seu CEP e do produto, e confirme quando a contagem começa após a aprovação do pagamento."
         ]
       }
     ],
@@ -61742,7 +61716,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende da altura e da troca. Para acertar a altura em casa, o Snow, da I Wanna Sleep, chega com 18 cm e você tira o enchimento; para ajustar por camadas e receber o dinheiro de volta, a Emma tem 14 noites de teste; para gastar menos, a Ortobom. Veja abaixo o teste e a troca de cada marca."
+          "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, que permite tirar enchimento, com os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca; a Emma, 14 noites com reembolso. Os dois modelos da Ortobom citados custam menos, mas as páginas não informam teste em casa."
         ]
       },
       {
@@ -61881,32 +61855,35 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ortobom: preço menor, teste não informado",
         "paragraphs": [
-          "A Ortobom é a mais barata dos três e não informa teste em casa: o Viscopur custa R$ 169 e o Conforto Regulável, R$ 159. O Viscopur é de espuma viscoelástica, com conforto firme. O Conforto Regulável, apesar de estar na mesma categoria, é de fibra siliconada, macio e com altura regulável.",
-          "As páginas dos dois informam garantia de 90 dias e não falam em noites de teste. A categoria tem outros modelos; olhamos só estes dois."
+          "Os dois modelos da Ortobom são os mais baratos entre os comparados: Viscopur a R$ 169 e Conforto Regulável a R$ 159. O Viscopur é descrito como viscoelástico e firme; o Conforto Regulável, como fibra siliconada, macio e regulável.",
+          "As páginas dos dois informam garantia de 90 dias e não mencionam noites de teste."
         ]
       },
       {
         "heading": "Teste, troca e garantia",
         "bullets": [
           "I Wanna Sleep: 30 dias de teste nos travesseiros, com pelo menos 15 dias de uso. Se você não se adaptar, recebe crédito para trocar por outro produto do site, sem custo de frete. Vale só para compras no site oficial, com a nota fiscal.",
-          "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, informa o site.",
+          "Emma: 14 noites de teste e 6 meses de garantia. A política comercial prevê recolhimento e reembolso total se você não se adaptar. Confira as condições vigentes antes de comprar.",
           "Ortobom: garantia de 90 dias nas páginas do Viscopur e do Conforto Regulável; as páginas não informam noites de teste."
         ],
         "image": {
           "src": "/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp",
           "alt": "Três linhas: calendário com 30 e um vale de troca, lua com 14 e dinheiro de volta, escudo com 90 e uma lua com ponto de interrogação",
-          "caption": "De cima para baixo: a I Wanna Sleep dá 30 dias de teste e crédito para troca; a Emma, 14 noites e o dinheiro de volta; a Ortobom informa 90 dias de garantia e não fala em teste.",
+          "caption": "I Wanna Sleep com 30 dias de teste e crédito para troca; Emma com 14 noites e reembolso; as páginas dos dois modelos Ortobom informam 90 dias de garantia, sem mencionar teste.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "postParagraphs": [
+          "Esses programas são benefícios comerciais e não substituem o prazo legal de arrependimento de 7 dias para compras online."
+        ]
       },
       {
         "heading": "Qual escolher pelo seu jeito de dormir",
         "bullets": [
           "Não sabe que altura prefere: Snow, que você ajusta em casa, ou um modelo da Emma, de camadas.",
           "Já sabe a altura que usa: Original Látex, em 11, 13 ou 15 cm.",
-          "Quer poder devolver e receber o dinheiro: Emma, com 14 noites.",
-          "Quer gastar menos: Ortobom, que não informa teste em casa nos dois modelos que consultamos.",
+          "Prefere um programa de adaptação com reembolso, em vez de crédito: a Emma oferece 14 noites.",
+          "Quer o menor preço da tabela: Viscopur e Conforto Regulável, da Ortobom. As páginas dos dois não informam teste em casa; confirme a condição atual.",
           "Dorme de lado: a Emma lembra que essa posição costuma pedir travesseiro mais alto. Dá para deixar mais enchimento no Snow ou escolher o Antiestress, que a Emma indica para quem dorme de lado."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura se ajusta tirando o enchimento e o teste é de 30 dias."
@@ -61939,7 +61916,7 @@ export const reviewsData: unknown[] = [
           "Travesseiro I Wanna Sleep é bom? Não testamos; a marca dá 30 dias de teste nos travesseiros, com crédito para troca se você não se adaptar.",
           "Travesseiro I Wanna Sleep vale a pena? Depende de como você dorme e de querer ajustar a altura em casa; o quadro mostra os modelos e os prazos de teste.",
           "Travesseiro Emma é bom? Não testamos; a Emma dá 14 noites de teste e 6 meses de garantia nos travesseiros, com reembolso se você não se adaptar.",
-          "Emma ou I Wanna Sleep: qual é melhor? Não há um melhor para todo mundo: o Snow ajusta tirando enchimento, a Emma ajusta por camadas, e só a Emma devolve o dinheiro no teste.",
+          "Emma ou I Wanna Sleep: qual é melhor? Depende do ajuste e da política de adaptação que você prefere. O Snow ajusta por enchimento e a I Wanna Sleep dá crédito para troca; a Emma ajusta por camadas e oferece reembolso em 14 noites.",
           "I Wanna Sleep ou Ortobom: qual escolher? Os dois modelos da Ortobom que consultamos custam menos, mas as páginas deles não informam teste; a I Wanna Sleep dá 30 dias, com crédito para troca.",
           "O travesseiro Snow tem regulagem de altura? Sim: ele chega com 18 cm, e você tira o enchimento até achar a altura mais confortável.",
           "Travesseiro Emma tem regulagem de altura? Sim, por camadas: 2 ou 3, conforme o modelo.",
@@ -61963,8 +61940,8 @@ export const reviewsData: unknown[] = [
         "Você quer um teste de 30 dias, com crédito para troca no site da marca."
       ],
       "skipIf": [
-        "Você quer teste com o dinheiro de volta: a Emma recolhe e reembolsa em 14 noites.",
-        "Você quer gastar menos e abre mão do teste em casa: os dois modelos da Ortobom consultados não informam teste.",
+        "Você prefere que o programa comercial de adaptação ofereça reembolso: a Emma informa recolhimento e reembolso em 14 noites.",
+        "Você procura preço menor e vai confirmar a política de adaptação: os dois modelos da Ortobom são mais baratos, mas as páginas não informam teste.",
         "Você tem dor no pescoço que não passa: procure um ortopedista ou fisioterapeuta antes da troca."
       ]
     },
@@ -83846,7 +83823,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do que pesa mais para você. Entre os modelos comparados, a Ortobom tem os travesseiros mais baratos, mas os materiais nem sempre se equivalem; para testar em casa e ter látex natural, a I Wanna Sleep. Altura e firmeza declaradas por cada marca também mudam a escolha."
+          "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural e teste com crédito para troca. Compare construção, altura e condições antes de escolher."
         ]
       },
       {
@@ -83862,7 +83839,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Par a par por material",
         "paragraphs": [
-          "Nos modelos da tabela, a Ortobom tem os preços menores, mas nem sempre o material é o mesmo (a Pluma de Ganso da Ortobom é 100% pluma de ganso; o Pena e Pluma da I Wanna Sleep tem 20% de pluma e 80% de pena). A I Wanna Sleep ganha no ajuste e no látex natural. Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido."
+          "Nos modelos da tabela, a Ortobom tem preços menores, mas nem sempre o material é o mesmo (a Pluma de Ganso da Ortobom é 100% pluma de ganso; o Pena e Pluma da I Wanna Sleep tem 20% de pluma e 80% de pena). A I Wanna Sleep ganha no ajuste e no látex natural. As linhas aproximam modelos de material parecido, sem garantir equivalência."
         ],
         "comparisonTable": {
           "caption": "Dados dos sites oficiais em 16/10/2026, sem códigos de desconto. Preços da Ortobom com São Paulo (capital) como cidade.",
@@ -84090,10 +84067,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura ajustável até 18 cm resolve para quem não sabe a altura.",
+        "emphasis": "Para quem quer variar a altura, o Snow permite retirar enchimento e ajustar até 18 cm. A regulagem permite experimentar alturas; não garante adaptação.",
         "bullets": [
-          "**Para gastar menos nos modelos comparados:** Ortobom. Viscopur a R$ 169; Royal Pillow e Conforto Regulável a R$ 159. Todos com 90 dias de garantia e sem teste em casa informado.",
-          "**Para testar em casa:** I Wanna Sleep, com 30 dias de teste e crédito para troca.",
+          "**Menor preço entre os modelos de entrada comparados:** Royal Pillow e Conforto Regulável da Ortobom, a R$ 159; Viscopur, a R$ 169. Todos têm 90 dias de garantia e sem teste em casa informado.",
+          "**Para experimentar pela política comercial:** I Wanna Sleep, com ao menos quinze dias de uso dentro dos trinta e crédito para troca, conforme as condições publicadas.",
           "**Para látex natural:** o Original Látex da I Wanna Sleep. O Pró Látex da Ortobom tem enchimento de espuma de alta resiliência 100% poliuretano, diz a página.",
           "**Para acertar a altura:** o Snow da I Wanna Sleep, ajustável até 18 cm, ou um dos reguláveis da Ortobom, com duas alturas.",
           "**Pillow top:** a I Wanna Sleep vende pillow top para colchão. Não é travesseiro. A comparação com o HR Gel, da Ortobom, está no capítulo Pillow top."
@@ -84102,9 +84079,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "I Wanna Sleep ou Ortobom: qual escolher? Entre os modelos comparados, para gastar menos, a Ortobom; para testar em casa e ter látex natural, a I Wanna Sleep.",
+          "I Wanna Sleep ou Ortobom: qual escolher? Compare o modelo e o uso: a Ortobom tinha opções de entrada mais baratas na consulta; a I Wanna Sleep oferecia látex natural e teste com crédito para troca. Não são produtos equivalentes em todos os materiais.",
           "Travesseiro Ortobom é bom? A marca informa a firmeza de cada modelo e 90 dias de garantia, sem teste em casa nas páginas.",
-          "Travesseiro I Wanna Sleep é bom? A marca dá 30 dias de teste, com crédito para troca se você não se adaptar.",
+          "Travesseiro I Wanna Sleep é bom? A ficha e a política ajudam a comparar construção e condições de teste, mas não substituem o uso pessoal. A marca oferece troca por crédito conforme as condições do Sleeptest.",
           "O Pró Látex da Ortobom é de látex? A ficha descreve espuma de alta resiliência 100% poliuretano, com \"Material: Látex\" no campo de material.",
           "Qual a altura do Viscopur da Ortobom? 14 cm, com 40 × 60 cm; a marca o indica para quem dorme de costas ou de bruços.",
           "Qual travesseiro Ortobom tem altura regulável? O Conforto Regulável e o King Premium, em duas alturas cada.",
@@ -84125,11 +84102,11 @@ export const reviewsData: unknown[] = [
     "affiliate": "i-wanna-sleep",
     "decision": {
       "takeIf": [
-        "Você quer testar o travesseiro em casa, com 30 dias e crédito para troca.",
+        "Você aceita as condições do teste: ao menos quinze dias de uso dentro dos trinta, com crédito para outro produto se a troca for aprovada.",
         "Você quer látex natural."
       ],
       "skipIf": [
-        "Você quer gastar menos: entre os modelos comparados, a Ortobom tem os mais baratos, com 90 dias de garantia e sem teste em casa informado.",
+        "Você quer gastar menos: entre os modelos de entrada comparados, a Ortobom tem opções mais baratas; confira o preço do modelo antes de decidir.",
         "Você procura um modelo que a marca indique para quem dorme de costas ou de bruços: o Viscopur, da Ortobom.",
         "Você procura Nápoles, Amore ou Soneca: não estão no catálogo online da Ortobom."
       ]
@@ -179277,7 +179254,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits de travesseiro: a conta por unidade",
         "paragraphs": [
-          "Quem vai trocar os travesseiros da casa inteira paga menos por unidade no kit, e a diferença é grande no de 10. Conta nossa: pelos preços de lista, o kit de 10 Snow custa R$ 2.870 e dez Snow Regular avulsos custam R$ 4.190, então cada travesseiro do kit sai por R$ 287, cerca de um terço a menos. Os kits de 2, 4, 6 e 8 ficam entre um e outro, e vale fazer a mesma conta na página antes de levar: divida o preço do kit pelo número de peças e compare com o avulso riscado. O kit de 4 Neck Plus estava esgotado, e o kit com o Skin junta o Snow ao travesseiro de capa lisa, para quem acorda com marca no rosto. O kit faz sentido para quem troca vários travesseiros de uma vez; para trocar um só, o avulso com o código da parceria é o caminho."
+          "Para comparar kit e avulsos, divida o preço do kit pelo número de peças e confira o preço de cada avulso no mesmo dia. Pela lista de preços, o kit de 10 Snow custava R$ 2.870 e dez Snow Regular avulsos somavam R$ 4.190: R$ 287 por unidade no kit, cerca de um terço a menos. Havia kits de 2, 4, 6 e 8; o kit de 4 Neck Plus estava esgotado, e o kit com o Skin juntava o Snow ao travesseiro de capa lisa. O kit pode fazer sentido ao trocar vários travesseiros; para um só, confira o avulso com o código da parceria."
         ]
       },
       {
@@ -179321,7 +179298,7 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista, sem o código."
         },
         "postParagraphs": [
-          "Leve o Igloo quando um sente calor e o outro frio na mesma cama, e o Cozy quando o que você quer é o toque marshmallow. O Puffer é para quem detesta peso na perna e para quem viaja; o Huggy, para o quarto que gela no inverno. A equipe recebeu o Igloo em parceria; as primeiras impressões estão no artigo dele."
+          "O Igloo tem duas faces para alternar conforme a preferência de temperatura. O Cozy é a opção de toque fofo; o Puffer é leve e vira almofada; o Huggy tem fleece e sherpa sintética. A equipe recebeu o Igloo em parceria; as primeiras impressões estão no artigo dele."
         ]
       },
       {
@@ -179427,13 +179404,13 @@ export const reviewsData: unknown[] = [
         "heading": "Para quem vale e para quem não vale",
         "bullets": [
           "Para o travesseiro, vale: a linha inteira, com altura e material na página, e o Snow para quem não sabe a altura.",
-          "Para a casa inteira, o kit: o de 10 Snow sai cerca de um terço mais barato por unidade que o avulso.",
-          "Para o cobertor, vale quando o clima do quarto ou quem divide a cama decide: Igloo para o casal em desacordo, Cozy para a cama fofa, Puffer para quem não quer peso, Huggy para o inverno.",
+          "Para trocar vários travesseiros, compare o preço por unidade do kit com o do avulso no mesmo dia; pela lista de preços, o kit de 10 Snow custava cerca de um terço menos por unidade.",
+          "Para o cobertor, compare o clima do quarto e a preferência de quem usa: o Igloo tem duas faces para alternar; o Cozy tem fibras longas; o Puffer vira almofada; e o Huggy combina fleece com sherpa sintética.",
           "Para a melatonina e o spray, vale só pelo rótulo: porção, modo de uso e o que tem dentro; o efeito não está lá e a conversa é com o médico.",
           "Não vale para colchão pelo site: o colchão se compra nas lojas de Belo Horizonte.",
           "Não vale comprar um item só, abaixo do mínimo do frete grátis: aí o frete é pago."
         ],
-        "emphasis": "Na dúvida, o Snow não erra: é o travesseiro que você acerta em casa, tirando flocos até a altura certa."
+        "emphasis": "O Snow permite retirar flocos para ajustar a altura em casa. Confira se o material e as dimensões também combinam com o que você procura."
       },
       {
         "heading": "Perguntas frequentes",
@@ -179443,7 +179420,7 @@ export const reviewsData: unknown[] = [
           "O travesseiro I Wanna Sleep é bom? Depende da posição em que você dorme e da altura de que precisa: o Snow se regula em casa, o Látex vem em três alturas fixas e os cervicais têm contorno para quem dorme de costas ou de lado.",
           "A melatonina da I Wanna Sleep é boa? É um suplemento em gotas ou em goma, e o rótulo traz a porção e o modo de uso; quantidade, horário e tempo de uso são conversa com o médico, como diz o capítulo da melatonina.",
           "A I Wanna Sleep tem loja em BH? Tem sete, e é nelas que se compra o colchão.",
-          "Qual travesseiro I Wanna Sleep escolher? Quem não sabe a altura vai no Snow; quem já sabe, no Látex P, M ou G; quem quer apoio no pescoço, num dos três cervicais; quem lava tudo, no Airgelly."
+          "Qual travesseiro I Wanna Sleep escolher? O Snow permite ajustar a altura; o Látex vem nas alturas P, M e G; os três cervicais têm contorno; e o Airgelly pode ser lavado por inteiro. Compare as medidas e o material antes de escolher."
         ]
       }
     ],

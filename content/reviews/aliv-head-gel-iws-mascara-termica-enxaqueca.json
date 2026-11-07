@@ -149,14 +149,12 @@
     {
       "heading": "Vale a pena? Para quem serve",
       "paragraphs": [
-        "Vale para a pausa com compressa em casa ou no trabalho; não para quem espera blackout total. Ela não substitui diagnóstico, tratamento ou medicamentos prescritos.",
-        "Pode fazer sentido para quem procura uma compressa reutilizável que cubra olhos e têmporas. Para dores frequentes ou incapacitantes, procure orientação profissional antes de depender de qualquer medida caseira."
+        "Pode fazer sentido para quem procura uma compressa reutilizável, fria ou quente, que cubra olhos e têmporas durante uma pausa em casa ou no trabalho. Não é a escolha para quem espera bloqueio total de luz: isso depende do ajuste no rosto.",
+        "Para dores frequentes ou incapacitantes, procure orientação profissional. A máscara não substitui diagnóstico, tratamento ou medicamentos prescritos."
       ],
       "bullets": [
-        "Serve a quem procura uma máscara térmica reutilizável, sem tiras, para fria ou quente.",
-        "Não serve a quem espera bloqueio total de luz: o resultado muda com o ajuste no rosto.",
-        "Verifique a disponibilidade, o preço e a política de troca antes de comprar.",
-        "Não deve ser usada como substituta de medicamentos ou acompanhamento de saúde."
+        "Confira se o formato de touca, sem tiras, atende ao seu uso.",
+        "Verifique a disponibilidade, o preço e a política de troca antes de comprar."
       ],
       "links": [
         {
@@ -171,12 +169,13 @@
         "Respostas práticas sobre a máscara térmica Aliv Head Gel IWS:"
       ],
       "bullets": [
-        "Quanto tempo a máscara Aliv Head Gel fica gelada? A sensação térmica varia conforme o ambiente e o uso. A marca indica preparar a máscara no congelador por 1 a 1h30 ou, no máximo, 2 horas na geladeira antes do uso frio.",
+        "Quanto tempo a máscara Aliv Head Gel fica gelada? A sensação térmica varia conforme o ambiente e o uso; o tempo de preparação não indica por quanto tempo ela ficará gelada. Para preparar o uso frio, a marca indica de 1 a 1h30 no congelador ou, no máximo, 2 horas na geladeira.",
         "O gel da máscara fica duro no freezer? A marca informa que o gel permanece flexível quando resfriado. Confira o estado do produto e use apenas se estiver confortável ao toque.",
         "Como aquecer a Aliv Head Gel no micro-ondas? A marca orienta aquecer por 15 a 30 segundos e testar a temperatura antes de encostar na pele. Não superaqueça.",
         "Como lavar a máscara Aliv Head Gel? Limpe a superfície externa com pano levemente umedecido. Não mergulhe o produto em água.",
         "Posso usar a Aliv Head Gel em pele machucada? A marca orienta evitar a aplicação direta em áreas machucadas da pele e testar a temperatura antes de cada uso.",
         "Quando a dor de cabeça pede atendimento de urgência? Quando vem de repente e muito forte, ou junto com fraqueza ou dormência num lado do corpo, fala enrolada, confusão, alteração na visão, febre com rigidez na nuca ou depois de uma pancada na cabeça. Nesses casos, procure um pronto-socorro ou ligue para o SAMU, no 192.",
+        "A máscara Aliv Head Gel cura enxaqueca? Não. Ela é uma compressa para conforto durante o repouso e não trata a enxaqueca nem substitui acompanhamento médico.",
         "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout. As regras estão na página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
       ]
     }
@@ -184,7 +183,8 @@
   "cta": {
     "text": "Conheça a Aliv Head Gel IWS e confira preço, disponibilidade e condições do cupom na loja oficial.",
     "label": "Ver Aliv Head Gel IWS",
-    "url": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws"
+    "url": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws",
+    "sponsored": true
   },
   "coupon": "CECIEMCASA",
   "affiliate": "i-wanna-sleep",
