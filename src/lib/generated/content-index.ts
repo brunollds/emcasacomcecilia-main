@@ -29142,7 +29142,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para nós, o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, o que facilita entrar em casa, e o puff separado permite mudar a configuração. O que muda a escolha é medir o acesso e escolher o tecido pela rotina da casa."
+          "Para nós, o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, o que facilita entrar em casa, e o puff separado permite mudar a configuração. O que muda a escolha é medir o acesso e escolher o tecido pela rotina da casa. O código CECILIA12 dá 12% OFF no site da Damie."
         ]
       },
       {
@@ -43835,7 +43835,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá modular ou retrátil: resposta rápida",
         "paragraphs": [
-          "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir."
+          "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
         ]
       },
       {
@@ -44949,7 +44949,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. Veja o capítulo Qual escolher: Aurora manual ou Levita elétrica."
+          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. O código CECILIA12 dá 12% OFF no site da DAMIE."
         ]
       },
       {
@@ -53683,7 +53683,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para escolher a poltrona de amamentação, olhe primeiro o apoio: braço firme na altura certa, encosto que acompanhe as costas e assento que deixe levantar com o bebê no colo. Balanço ajuda, mas não é obrigatório. O que muda a escolha é o orçamento e o espaço do quarto; veja as faixas de preço abaixo."
+          "Para escolher a poltrona de amamentação, olhe primeiro o apoio: braço firme na altura certa, encosto que acompanhe as costas e assento que deixe levantar com o bebê no colo. Balanço ajuda, mas não é obrigatório. O que muda a escolha é o orçamento e o espaço do quarto; na DAMIE, o código CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -54018,7 +54018,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é quanto tempo você vai usar; veja a conta do tempo de uso abaixo."
+          "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é o tempo de uso; na DAMIE, o código CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -77504,7 +77504,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá na Caixa, Inflow ou DAMIE: resposta rápida",
         "paragraphs": [
-          "Não, Inflow e Sofá na Caixa são empresas diferentes. A DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no Pix, com frete e configuração a conferir. A reputação no Reclame Aqui também pesa na escolha."
+          "Não, Inflow e Sofá na Caixa são empresas diferentes, e a DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no Pix, com frete e configuração a conferir; a reputação no Reclame Aqui também pesa. Na DAMIE, o código CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -77926,7 +77926,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá na caixa dura tanto quanto um montado? Resposta rápida",
         "paragraphs": [
-          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano; a ficha técnica abaixo ajuda a comparar."
+          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano, e o código CECILIA12 dá 12% OFF no site."
         ]
       },
       {
@@ -120725,7 +120725,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A escolha de móvel para presente costuma ficar entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável é a que mais faz sentido; para a sala, o sofá modular. O que pesa é o espaço, a porta e quem vai usar; a hora de comprar depende do prazo do seu CEP."
+          "Na hora de presentear, a escolha fica entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável; para a sala, o sofá modular. O que pesa é espaço, porta, quem usa e o prazo do CEP; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
         ]
       },
       {
@@ -127994,7 +127994,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, contra 6 meses na Valley Modular e 3 meses na Inflow. A devolução e o prazo também pesam na escolha."
+          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, contra 6 meses na Valley Modular e 3 meses na Inflow. O código CECILIA12 dá 12% OFF na DAMIE."
         ]
       },
       {
