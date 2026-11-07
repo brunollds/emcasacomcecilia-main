@@ -118423,13 +118423,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita, com sede em Curitiba. O ponto de atenção é que o perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, e o site não explica a ligação. Para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
+          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita e sede em Curitiba. O perfil da Skelt no Reclame Aqui está em nome de outra empresa, que tem a S/A como sócia. Os detalhes estão abaixo; para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
         ]
       },
       {
         "heading": "Quem opera a Skelt",
         "paragraphs": [
-          "Sim, é empresa registrada: o site e a Receita apontam a mesma S/A. O que pede atenção é que o Reclame Aqui da Skelt está em nome de outro CNPJ, e a ligação entre os dois não é explicada no site. Veja os dois lado a lado abaixo.",
+          "Sim, é empresa registrada: o site e a Receita apontam a mesma S/A. O perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, de empresa que tem a S/A como sócia. Veja os dois lado a lado abaixo.",
           "O rodapé do site traz a razão social SKELT BEAUTY BRANDS S/A e o CNPJ 38.290.785/0001-57, com a sede em Curitiba. Na consulta pública, esse CNPJ aparece como ativo, matriz, sociedade anônima fechada. O logradouro e o CEP são os mesmos no rodapé e na Receita: Rua Heitor Stockler de França, 396, Centro Cívico, Curitiba (PR), CEP 80030-030.",
           "O perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, o da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com nome fantasia SKELT COSMETICS. A S/A aparece como sócia dessa empresa na mesma consulta. As duas empresas têm datas de abertura diferentes. Já a marca diz, no próprio site, que surgiu em 2017: essa data é a da marca, não a de nenhum dos dois CNPJs."
         ],
@@ -118463,7 +118463,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "São dois CNPJs ligados à mesma marca, e que o site não explica essa ligação.",
+          "São dois CNPJs ligados por sociedade.",
           "O CNAE principal da S/A é de holding, não de varejo de cosméticos, e as fontes que lemos não dizem qual empresa emite a nota fiscal das compras feitas no site. Se a nota importa para você, confira na nota fiscal da sua compra qual CNPJ aparece."
         ],
         "images": [
@@ -118561,7 +118561,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar na Skelt?",
         "paragraphs": [
-          "Do lado da empresa, a Skelt mostra o que um comprador procura: uma S/A ativa com CNPJ no rodapé, sede em Curitiba, regras de troca e de frete publicadas e canais de atendimento. Os pontos de atenção são o perfil do Reclame Aqui ligado a outro CNPJ e a falta de explicação sobre essa ligação no site.",
+          "Do lado da empresa, a Skelt mostra o que um comprador procura: uma S/A ativa com CNPJ no rodapé, sede em Curitiba, regras de troca e de frete publicadas e canais de atendimento. O perfil do Reclame Aqui está em nome de outra empresa, que tem a S/A como sócia; essa é a ligação a conferir.",
           "O site declara que os produtos são 100% veganos e não são testados em animais. É uma afirmação da marca, não uma certificação de terceiros.",
           "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e use o cupom no checkout do site oficial."
         ]
@@ -118579,12 +118579,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Skelt é confiável? A loja é operada por empresa registrada, com CNPJ ativo e sede em Curitiba, e publica regras de troca, reembolso e frete. Os pontos de atenção são o perfil do Reclame Aqui ligado a outro CNPJ e a falta de explicação sobre essa ligação no site.",
+          "A Skelt é confiável? A loja é operada por empresa registrada, com CNPJ ativo e sede em Curitiba, e publica regras de troca, reembolso e frete. O ponto de atenção é o perfil do Reclame Aqui, em nome de outro CNPJ, de empresa que tem a S/A como sócia.",
           "De qual empresa é a Skelt? O rodapé do site identifica a SKELT BEAUTY BRANDS S/A como razão social. O perfil da marca no Reclame Aqui está em nome da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com a S/A como sócia. O autocompletar do Google sugere “skelt é da creamy”, e o Reclame Aqui lista a Creamy entre as marcas “também acessadas”. Este texto não afirma nenhuma relação societária entre as duas.",
           "Qual é o CNPJ da Skelt? O CNPJ da loja é 38.290.785/0001-57, da SKELT BEAUTY BRANDS S/A, com início de atividade em 2020 na consulta pública. O CNPJ 17.616.018/0001-15, da BELEZE & OLIVEIRA, é o que aparece no perfil do Reclame Aqui.",
           "O site skelt.com.br é o oficial? O endereço oficial é skelt.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública da Receita.",
           "A Skelt tem telefone de atendimento? Tem WhatsApp, no número (41) 3042-4721, e o e-mail contato@skelt.com.br. O site diz que responde em até 48 horas úteis.",
-          "Quanto tempo tenho para trocar ou devolver um produto da Skelt? Sem defeito, 20 dias a partir da entrega; com defeito, 45 dias. A troca é só por produto de mesmo valor e em estoque. Para desistir, a loja pede o produto na embalagem original e sem sinais de uso. Pela lei, a compra online tem 7 dias de arrependimento (CDC, art. 49), independentemente dessa exigência.",
+          "Quanto tempo tenho para trocar ou devolver um produto da Skelt? Sem defeito, 20 dias a partir da entrega; com defeito, 45 dias. A troca é só por produto de mesmo valor e em estoque. Para desistir, a loja pede o produto na embalagem original e sem sinais de uso. Pela lei, a compra online tem 7 dias de arrependimento, independentemente dessa exigência.",
           "Quando o reembolso cai? Em até 7 dias úteis, contados do recebimento do produto e depois de conferido na central. A política não separa esse prazo por forma de pagamento.",
           "A Skelt tem frete grátis? Tem. No Sul, no Sudeste e no Centro-Oeste, inclusive em São Paulo, Belo Horizonte e Curitiba, o frete é grátis sem valor mínimo. No Norte e no Nordeste, é grátis a partir de R$ 199, sobre o valor final do pedido.",
           "Tem cupom na Skelt? Tem, o SKEMCASACOMCECILIA, com 10% OFF em todo o site, somando com as promoções e com os 5% do Pix. A loja aceita um cupom por pedido.",
@@ -118637,7 +118637,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/skelt-reclame-aqui-capa-discover.webp",
-    "imageAlt": "Mousse autobronzeador da Skelt sobre fundo amarelo e o topo do perfil Skelt Cosméticos no Reclame Aqui em 22/10/2026: reputação Ótima, Empresa Verificada e avaliações de compra 4,6",
+    "imageAlt": "Mousse autobronzeador da Skelt e recorte do perfil Skelt Cosméticos no Reclame Aqui: reputação Ótima, Empresa Verificada e avaliações de compra 4,6.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -118669,7 +118669,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/skelt/skelt-reclame-aqui-faixa-mes-a-mes.webp",
-            "alt": "Quadro com a reputação da Skelt no Reclame Aqui mês a mês, de abril a setembro de 2026 (RA1000 em abril e Ótima de maio a setembro), e os números da aba de 6 meses: nota 8,3, 665 reclamações, 100% respondidas, 92,2% resolvidas, 73,7% voltariam e tempo médio de resposta de 10 dias e 4 horas",
+            "alt": "Quadro da reputação da Skelt de abril a setembro de 2026: nota 8,3, 665 reclamações recebidas, 100% respondidas e índice de solução de 92,2% entre as reclamações finalizadas e avaliadas; 73,7% voltariam a comprar e tempo médio de resposta de 10 dias e 4 horas.",
             "caption": "Quadro nosso com os dados do perfil Skelt Cosméticos no Reclame Aqui.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
@@ -118881,7 +118881,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Skelt e soma com o Pix. Veja o passo a passo na sacola e por que ele não vale no Mercado Livre.",
-    "metaDescription": "Onde colar o SKEMCASACOMCECILIA na sacola da Skelt e o que conferir no resumo: 10% OFF em todo o site, que soma com a promoção e com os 5% do Pix.",
+    "metaDescription": "Onde colar SKEMCASACOMCECILIA na sacola da Skelt: 10% OFF no site oficial. Veja o campo, o botão OK e o teste com promoção e Pix antes de conferir o total.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -118895,14 +118895,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA e dá 10% OFF em todo o site oficial. No nosso teste, ele entrou sobre um produto já em promoção, e o Pix de 5% da loja entrou depois, sobre o total com o cupom. Não vale no Mercado Livre; veja abaixo o passo a passo e as condições."
+          "Cole SKEMCASACOMCECILIA no campo “Cupom de desconto” da sacola e clique em OK: o [cupom Skelt](/cupons/skelt) dá 10% OFF no site oficial, somado à promoção do site e ao Pix de 5%. No teste, entrou sobre o preço promocional e o Pix foi calculado depois. Não vale no Mercado Livre."
         ]
       },
       {
         "heading": "O que é o cupom SKEMCASACOMCECILIA",
         "paragraphs": [
           "SKEMCASACOMCECILIA é o cupom da parceria do Em Casa com Cecília com a Skelt, marca brasileira de autobronzeador, body splash e hidratação corporal. O cupom vale só no site oficial, skelt.com.br.",
-          "O desconto é de 10% em todo o site. O cupom vale também em kits e combos, Se for comprar um kit, confira o valor no resumo da sacola.",
+          "O desconto é de 10% em todo o site, incluindo kits e combos. Se for comprar um kit, confira o valor no resumo da sacola.",
           "A loja aceita um cupom por pedido. Um cupom de primeira compra da própria loja também não soma com o nosso."
         ]
       },
@@ -118931,7 +118931,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Cole o código no campo \"Cupom de desconto\" e clique em OK",
         "paragraphs": [
-          "Na sacola, o campo \"Cupom de desconto\" fica abaixo do CEP. Cole o código SKEMCASACOMCECILIA e clique em OK. Depois de aplicado, o código aparece como etiqueta no campo e os descontos sobem. Se a etiqueta não aparecer, refaça a colagem antes de seguir. A loja aceita um cupom por pedido: aplicar outro código troca o que estiver na sacola."
+          "Na sacola, o campo \"Cupom de desconto\" fica abaixo do CEP. Cole SKEMCASACOMCECILIA e clique em OK. O código deve aparecer como etiqueta no campo; confira também o valor abatido e o total do pedido. A loja aceita um cupom por pedido: aplicar outro código substitui o anterior."
         ],
         "images": [
           {
@@ -118946,7 +118946,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confira o resumo antes de escolher o pagamento",
         "paragraphs": [
-          "O resumo mostra a linha de descontos, que junta a promoção do site, o cupom e o Pix. Confira se a linha de descontos sobe depois do OK; a conta completa está mais abaixo."
+          "Depois de aplicar, compare a linha \"Descontos\" e o total com os valores anteriores. No teste, essa linha reunia promoção do site, cupom e Pix; por isso, o valor abatido não era só o desconto do código. A tabela abaixo separa cada etapa."
         ],
         "images": [
           {
@@ -118961,7 +118961,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Escolha o Pix ou o cartão",
         "paragraphs": [
-          "No Pix, a loja tira mais 5% sobre o total que já tem o cupom: no teste, R$ 97,12 caíram para R$ 92,26. No cartão, a sacola mostra R$ 97,12 com o cupom aplicado.",
+          "No teste, o Pix da loja foi calculado sobre o total que já tinha o cupom; o cartão mostrava outro total, sem o desconto do Pix. Compare as duas opções no resumo. Os valores daquele carrinho estão na tabela a seguir.",
           "Não testamos Apple Pay, Vale ou Pagaleve, e o parcelamento muda por produto: se for pagar assim, confira o resumo antes de fechar."
         ]
       },
@@ -119050,7 +119050,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
-          "Se você já ia comprar na Skelt, o cupom vale: 10% em todo o site, soma com as promoções e com o Pix, e cai na sacola sem nenhum passo extra além de colar o código. Se a compra for pelo Mercado Livre, compare o preço do anúncio com o do site oficial, que depende do produto e do dia.",
+          "Se você já ia comprar no site oficial da Skelt, aplique SKEMCASACOMCECILIA e compare o total com e sem o código, incluindo frete e brinde. O cupom dá 10% e somou com a promoção e com o Pix nos testes deste guia. Se a compra for pelo Mercado Livre, compare com o preço do anúncio: o código não vale lá.",
           "Antes de comprar, leia também [Skelt é confiável?](/reviews/skelt-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/skelt-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -119059,7 +119059,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Skelt? O cupom é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial da Skelt.",
           "O cupom Skelt soma com produto em promoção? Sim. No nosso teste, os 10% entraram sobre o mousse que já estava com a promoção do site.",
-          "O cupom SKEMCASACOMCECILIA soma com o Pix? Sim. O Pix de 5% da loja entra sobre o total que já tem o cupom.",
+          "O cupom SKEMCASACOMCECILIA soma com o Pix? No teste, sim: o desconto do Pix da loja foi aplicado depois do cupom. A tabela mostra a ordem e os valores; confira a condição do Pix no seu resumo antes de pagar.",
           "O cupom soma com o PRIMEIRA10? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar o PRIMEIRA10 trocou o SKEMCASACOMCECILIA.",
           "O cupom tira o brinde? Pode tirar. O valor mínimo dos brindes conta o pedido depois dos descontos, então o cupom e o Pix podem deixar o total abaixo da faixa.",
           "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial da Skelt. No Mercado Livre, vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link de compra da marca](https://meli.la/2unTb7k), que abre antes a página da Cecília no Mercado Livre, como todo link meli.la.",
@@ -119096,7 +119096,7 @@ export const reviewsData: unknown[] = [
     "id": 587,
     "slug": "black-friday-skelt",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Skelt 2026: esquenta a partir de 5 de novembro, Black Friday em 27 e o cupom SKEMCASACOMCECILIA",
+    "title": "Black Friday Skelt 2026: preços para comparar e cupom SKEMCASACOMCECILIA",
     "seoTitle": "Black Friday Skelt 2026: datas, esquenta e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -119108,7 +119108,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Skelt faz esquenta e Black Friday em novembro, e o percentual ainda não saiu. Veja os preços de autobronzeador de outubro e como o cupom SKEMCASACOMCECILIA soma com o Pix.",
+    "description": "Compare as ofertas de novembro com os preços de outubro e veja como usar o SKEMCASACOMCECILIA. A ação de brindes com cupom de novembro já terminou.",
     "metaDescription": "Black Friday Skelt 2026: o cupom SKEMCASACOMCECILIA dá 10% OFF. O esquenta, a data da Black Friday, os preços de autobronzeador e o Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
@@ -119123,16 +119123,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Skelt começa o esquenta da Black Friday em 5 de novembro e faz a Black Friday em 27 de novembro; a loja ainda não publicou o percentual. O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções e com o Pix; compare o preço do dia com a tabela de outubro."
+          "Para avaliar a Black Friday da Skelt, compare o preço final de novembro com a tabela de outubro abaixo. O SKEMCASACOMCECILIA dá 10% OFF; confira a aplicação e o Pix no carrinho. A ação de brindes de 5 e 6 de novembro já terminou, e a Black Friday cai em 27 de novembro."
         ]
       },
       {
-        "heading": "As datas da Black Friday da Skelt",
+        "heading": "Datas e ofertas: o que foi confirmado",
         "paragraphs": [
-          "A Skelt tem duas datas: o esquenta começa em 5 de novembro, com uma live da coleção, e a Black Friday é em 27 de novembro, a sexta do calendário; a Cyber Monday cai em 30 de novembro. As datas vieram da loja. O percentual de desconto do esquenta e o da sexta ainda não foram publicados, e entram aqui quando a loja divulgar. O que a loja mostrava até aqui:"
+          "A Black Friday de 2026 cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em outubro, a coleção “BF - Live” indicava uma live de aquecimento; o nome sozinho não confirmava descontos. A ação de brindes e desconto progressivo de 5 e 6 de novembro anunciou 10%, 15% ou 20%, conforme o número de produtos, e já terminou; suas condições não garantem a oferta do dia 27. O registro de outubro mostrava:"
         ],
         "bullets": [
-          "A home traz as coleções \"Black Friday\", \"Pre Black Friday\" e \"BF - Live\", só pelo nome, sem percentual.",
+          "Em outubro, a home tinha coleções chamadas “Black Friday”, “Pre Black Friday” e “BF - Live”. Esses nomes eram indícios de preparação da campanha.",
           "Em outubro, a sacola mostrava a flash sale \"OUT/26\", com 10% em todo o site, sem prazo de fim à mostra; o preço de venda da tabela abaixo já traz esses 10%.",
           "A página da flash sale trazia 20% OFF no creme para mãos, também sem data de fim.",
           "Em outubro, o endereço /black-friday redirecionava para a home."
@@ -119212,7 +119212,7 @@ export const reviewsData: unknown[] = [
           "No teste, sem finalizar a compra, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12. No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26."
         ],
         "bullets": [
-          "Pix: o desconto de 5% entra depois do cupom, sobre o total que já está com desconto.",
+          "Pix: em outubro, os 5% entraram depois do cupom. Confira a condição vigente no resumo.",
           "Um cupom por pedido: a loja aceita só um. Se você aplicar outro código da loja, como o de primeira compra, ele troca o nosso.",
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
         ],
@@ -119257,33 +119257,33 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Vale esperar o esquenta ou a sexta?",
+        "heading": "Comprar agora ou esperar a sexta?",
         "paragraphs": [
-          "A loja ainda não publicou o percentual do esquenta nem o da sexta, então não há base para prometer que o dia 27 será melhor que o esquenta. A tabela de outubro deste guia é o que dá para comparar.",
-          "Se você precisa agora, o cupom e o Pix já estão ativos sobre o preço do dia. Se pode esperar, compare o preço que a loja mostrar a partir do esquenta com a tabela antes de comprar."
+          "Uma ação passada não garante que o preço será menor na sexta. Use a tabela de outubro como referência e compare o total do mesmo produto, com cupom, pagamento e frete.",
+          "Se precisa comprar agora, confira o desconto do SKEMCASACOMCECILIA e o total no Pix no carrinho. Se pode esperar, guarde o preço final para comparar com a oferta da sexta, sem presumir que ela será melhor."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Skelt? O esquenta começa no dia 5, com uma live, e a Black Friday é na última sexta-feira do mês, dia 27. As datas vieram da loja; o percentual de cada etapa ainda não foi publicado.",
-          "A Skelt tem Black Friday? Tem: um esquenta com live no começo do mês e a sexta-feira. O desconto de cada etapa ainda não foi publicado; a home mostra as coleções com esse nome, sem percentual.",
-          "A coleção \"BF - Live\" é desconto? O esquenta tem uma live da coleção. O percentual dela ainda não foi publicado.",
-          "O cupom vale na Black Friday? O SKEMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções da loja e com o Pix. Não testamos o cupom num produto com preço de esquenta ou de Black Friday; a sacola mostra o total antes de pagar.",
-          "Vale a pena esperar? Depende do que você precisa e do preço do dia. Compare o preço do esquenta e o da sexta com a tabela de outubro deste guia.",
+          "Quando é a Black Friday de 2026? Na última sexta de novembro. A Cyber Monday vem na segunda seguinte. A Skelt teve uma ação de descontos e brindes no começo de novembro, já encerrada.",
+          "A Skelt tem Black Friday? A loja usou coleções com esse nome e anunciou uma ação de desconto progressivo e brindes no começo de novembro. Essa ação já terminou; confira na loja as condições da campanha vigente.",
+          "O que era “BF - Live”? Era o nome da coleção que indicava uma live de aquecimento. O nome, por si só, não comprovava desconto.",
+          "O cupom vale na Black Friday? O SKEMCASACOMCECILIA dá 10% OFF no site. O desconto progressivo da ação encerrada não garante as condições de outra campanha. Confira o total na sacola antes de pagar.",
+          "Vale a pena esperar? Compare o preço final do mesmo produto, com cupom, forma de pagamento e frete. A tabela datada de outubro ajuda a verificar se a oferta de novembro ficou melhor.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2unTb7k).",
-          "O que muda quando a Skelt publicar o percentual? O guia ganha o desconto de cada etapa e o que o cupom faz na campanha."
+          "O desconto de uma ação anterior vale na sexta da Black Friday? Não presuma que sim. Prazo, percentual e brindes podem mudar; confira as condições da campanha e o resumo do pedido."
         ]
       }
     ],
     "pros": [
-      "Datas definidas: esquenta a partir de 5 de novembro e Black Friday em 27 de novembro",
+      "Preços de outubro registrados para comparar com as ofertas de novembro",
       "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site, com as promoções da loja",
-      "Com o Pix, o total cai mais 5%, sobre o valor que já está com o cupom",
+      "Em outubro, o Pix descontou 5% sobre o total já com o cupom; confira a condição vigente",
       "Frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste"
     ],
     "cons": [
-      "A loja ainda não publicou o percentual do esquenta nem o da sexta",
+      "O desconto de uma ação passada não garante o preço nem as condições da Black Friday",
       "A loja aceita um cupom por pedido: outro código da loja troca o nosso",
       "Brinde e frete contam o valor final do pedido, depois dos descontos"
     ],
@@ -121080,13 +121080,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual autobronzeador Skelt comprar",
         "paragraphs": [
-          "Não há um melhor para todos: a escolha depende de a pessoa já ter usado, da cor que quer e do formato. A Skelt vende sete autobronzeadores de corpo, e ninguém do site testou nenhum, então tudo vem do site oficial. O que pesa são cor-guia, intensidade e formato; veja a tabela e o capítulo final."
+          "Para a primeira aplicação, o Kit Iniciante é a escolha: o mousse tem cor-guia para mostrar onde você passou, e a luva vem junta. Água e Gel são incolores e a Skelt os indica para quem já sabe aplicar; para mais intensidade, as versões Dark são de nível expert."
         ]
       },
       {
         "heading": "Os 7 autobronzeadores Skelt lado a lado",
         "paragraphs": [
-          "A diferença entre eles está em quatro coisas: ter ou não cor-guia, a intensidade, o formato (mousse, água, gel ou bifásico) e o tempo que o produto fica na pele. A cor-guia é um tom terroso que sai no banho e mostra onde o produto já foi passado; não é o resultado final. Os sete são de corpo; a duração que a Skelt declara é de 7 a 12 dias. Nenhum vem com a luva. O preço por ml é o preço de venda dividido pelo volume do frasco. Onde a página manda seguir o tempo da embalagem, a célula diz isso; onde a página não traz o dado, também."
+          "A diferença prática entre os sete autobronzeadores está em quatro critérios principais: presença de cor-guia, intensidade do bronze, textura (mousse, água, gel ou bifásico) e tempo de pausa na pele antes do enxágue. A cor-guia é um pigmento terroso lavável que funciona como mapa visual durante a aplicação para evitar falhas; ela é removida no primeiro banho e não representa a cor final do bronzeado. Todos os sete produtos são voltados para uso corporal e possuem duração estimada pela Skelt de 7 a 12 dias. Nenhum frasco avulso acompanha luva aplicadora."
         ],
         "comparisonTable": {
           "headers": [
@@ -121173,7 +121173,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na ordem de mais vendidos do site da Skelt, a categoria de autobronzeadores começa com o Bifásico, seguido de Mousse, Mousse Dark, Água Dark, Água e Gel. O Mini Mousse aparece depois.",
+          "Na ordem de mais vendidos do site da Skelt, o Bifásico aparecia primeiro, seguido de Mousse, Mousse Dark, Água Dark, Água e Gel. O Mini Mousse vinha depois.",
           "Rendimento segundo a Skelt: de 5 a 8 aplicações no Mousse, no Mousse Dark, na Água e na Água Dark; de 6 a 8 no Gel; de 2 a 3 no Mini Mousse. A página do Bifásico não informa.",
           "Ficam fora da tabela o Autobronzeador Facial (30 ml, R$ 79,90) e o Spray Autobronzeador Gradual (120 ml, R$ 80,90), esgotados na leitura dos preços."
         ]
@@ -121231,7 +121231,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gel e Bifásico: para quem são",
         "paragraphs": [
-          "Gel incolor para os experientes; bifásico, com perfume. O [Gel Autobronzeador Hidratante](https://www.skelt.com.br/gel-autobronzeador-hidratante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem textura de gel, 120 ml, e custava R$ 98,90, o menor preço entre os frascos grandes. O [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), 120 ml, custava R$ 119,90 e é o primeiro na ordem de mais vendidos do site da Skelt.",
+          "Gel incolor para os experientes; bifásico, com perfume. O [Gel Autobronzeador Hidratante](https://www.skelt.com.br/gel-autobronzeador-hidratante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem textura de gel, 120 ml, e custava R$ 98,90, o menor preço entre os frascos grandes. O [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), 120 ml, custava R$ 119,90 e aparecia em primeiro na ordem de mais vendidos do site da Skelt.",
           "**Gel Hidratante, para quem já sabe aplicar e quer algo incolor.** Ele não tem cor-guia, e por isso a Skelt o indica aos mais experientes. Diz a Skelt: intensidade média, duração de 7 a 12 dias e secagem ultrarrápida. O tempo no corpo comanda a cor: 4 horas para um bronzeado moderado e 8 horas para o intenso, de acordo com a página. Rende de 6 a 8 aplicações. A Skelt o descreve como hidratante, com ácido hialurônico, aloe vera e pantenol na fórmula. Por ser incolor, ele não deixa a marca terrosa de um mousse com cor-guia, mas também não mostra onde você já passou.",
           "**Bifásico, para quem quer o bronze com perfume.** A Skelt o apresenta como o bronze que ela já vende, agora com fragrância de body splash: a Grand Bahama, com abacaxi, bergamota e água de coco no topo, e baunilha, musk e musgo de carvalho no fundo. Diz a Skelt: intensidade média, duração de 7 a 12 dias e 8 horas de ação. Antes de usar, agite o frasco. A marca manda aplicar com luva, em movimentos circulares, e esperar alguns minutos antes de se vestir ou se deitar. No banho, retire só com água morna.",
           "Uma lacuna importante: a página do Bifásico não informa se ele tem cor-guia, nem o rendimento em aplicações. Se isso pesa na sua decisão, o [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o que diz com todas as letras que tem cor-guia. Já a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), incolor como o Gel, a marca indica a quem tem experiência."
@@ -121360,7 +121360,7 @@ export const reviewsData: unknown[] = [
           "Quer mais cor e já usou: [Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 129,90, que a Skelt diz ser 2x mais intenso que o tradicional. Com a luva junto, o [Kit Iniciante Dark](https://www.skelt.com.br/kitiniciantedark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 137,62.",
           "Tem medo de manchar a roupa e já sabe aplicar: [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 119,90, incolor e sem cor-guia.",
           "Quer gastar menos para conhecer ou levar na viagem: [Mini Mousse](https://www.skelt.com.br/mini-autobronzeador-em-mousse-/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 58,90, com 45 ml (por ml, é o mais caro dos sete).",
-          "Quer o mais vendido: o [Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 119,90, primeiro na ordem de mais vendidos do site da Skelt, com ação de 8 horas e fragrância de body splash. A página não informa se tem cor-guia."
+          "Quer o que aparecia em primeiro na ordem de mais vendidos da Skelt: o [Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), por R$ 119,90, com ação de 8 horas e fragrância de body splash (Grand Bahama). A página não informa se tem cor-guia, então aplique com luva e movimentos circulares."
         ],
         "postParagraphs": [
           "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Skelt. As condições estão na [página do cupom Skelt](/cupons/skelt), e a conta dos kits com cupom e Pix fica no capítulo dos kits."
@@ -122163,13 +122163,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há vencedora geral: no mousse escuro, a Best Bronze sai mais barata no cartão enquanto está em promoção, e a Skelt passa à frente com cupom e Pix. No transparente e no kit com luva, a Skelt leva, e spray, gotas e lenço só a Best Bronze tem. O capítulo Qual escolher mostra o melhor caminho para cada caso."
+          "Não há vencedora geral: no mousse escuro, a Best Bronze sai mais barata no cartão enquanto está em promoção, e a conta da Skelt fica menor com cupom e Pix. Nos transparentes e kits comparados, a Skelt custa menos; spray, gotas e lenço aparecem só na Best Bronze. O capítulo Qual escolher mostra o melhor caminho para cada caso."
         ]
       },
       {
         "heading": "Qual equivale a qual",
         "paragraphs": [
-          "Os nomes não batem: o Dark Express Pro da Best Bronze equivale ao Mousse Dark da Skelt, e o Clear Vegan faz o papel da água ou do gel. A tabela junta cada tipo de produto, com o preço no cartão em 23/10/2026."
+          "Os nomes e as texturas não são iguais. Para opções com cor-guia mais escuras, o Dark Express Pro da Best Bronze fica ao lado do Mousse Dark da Skelt; para as transparentes, o Clear Vegan fica ao lado da Água e do Gel. A tabela traz os preços no cartão em 23/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -122233,7 +122233,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por 100 ml",
         "paragraphs": [
-          "A régua é o preço no cartão dividido pelo volume do frasco. Os volumes são parecidos (140 ml nos mousses da Skelt, 150 ml na Água e 120 ml no Gel; 150 ml na Best Bronze), mas a conta por 100 ml corrige essa diferença de volume e deixa os preços comparáveis."
+          "A régua é o preço no cartão dividido pelo volume do frasco. A conta por 100 ml ajuda a comparar embalagens de 120 a 150 ml; ela não pressupõe rendimento ou resultado iguais entre fórmulas e texturas."
         ],
         "comparisonTable": {
           "headers": [
@@ -122369,7 +122369,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nas páginas, a Best Bronze promete até 3 dias a mais de duração e mais aplicações por frasco no mousse escuro. A Skelt declara 7 a 12 dias e 5 a 8 aplicações.",
+          "Nas páginas, a Best Bronze declara 7 a 15 dias e cerca de 10 aplicações para o Dark Express Pro; a Skelt declara 7 a 12 dias e 5 a 8 aplicações para o Mousse Dark. As faixas de duração se sobrepõem e o resultado varia conforme o uso.",
           "O ativo bronzeador nas duas é a combinação de DHA e eritrulose. Na Skelt, o Mousse, a Água e o Gel trazem os selos de vegano, cruelty free e dermatologicamente testado; a página do Mousse Dark não mostra selos. A Best Bronze se diz vegana no Dark Express Pro e no Clear Vegan, e a página do Clear Vegan diz que o produto é fabricado nos Estados Unidos.",
           "Sobre o perfume: a lista da Skelt traz fragrância (Parfum) em todos os mousses e águas. A Best Bronze vende o Dark Express Pro na fragrância Vanilla ou Sem Fragrância, e a página do Clear Vegan diz que ele não tem cheiro."
         ]
@@ -122403,7 +122403,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Pelos números da tabela, para quem quer mousse com luva a escolha é o Kit Iniciante da Skelt, porque sai a R$ 111,26, contra R$ 158,00 do Clear com luva da Best Bronze.",
+        "emphasis": "Pelos preços comparados, o Kit Iniciante da Skelt custava R$ 111,26, contra R$ 158,00 do Clear com luva da Best Bronze. O primeiro tem mousse com cor-guia; o Clear é transparente. Escolha também pelo tipo de aplicação desejado.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "O veredito por perfil, com os preços."
@@ -122412,13 +122412,13 @@ export const reviewsData: unknown[] = [
           "**Mousse com cor-guia mais escuro:** empate apertado. No cartão, o Mousse Dark Express Pro da Best Bronze, em promoção (de R$ 172,00 por R$ 122,32), sai a R$ 81,55 por 100 ml, contra R$ 92,79 do [Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt (R$ 129,90). Com o cupom e o Pix, a Skelt cai para R$ 79,33 e passa à frente.",
           "**Transparente, sem cor-guia:** a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt, que a marca indica a quem já sabe aplicar. Sai a R$ 79,93 por 100 ml no cartão, contra R$ 83,33 do Mousse Clear Vegan da Best Bronze, e a R$ 68,34 com cupom e Pix.",
           "**Começar com luva:** o [Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt, R$ 111,26. Na Best Bronze, o Clear + Luva custa R$ 158,00 e o Dark Express + Luva, R$ 178,00.",
-          "**Spray, gotas ou lenço para o rosto:** só a Best Bronze tem hoje. A Skelt está sem spray e sem produto facial em estoque."
+          "**Spray, gotas ou lenço para o rosto:** esses formatos aparecem só na Best Bronze, e o spray e o facial da Skelt estavam sem estoque. Confira o estoque antes de comprar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Skelt ou Best Bronze, qual é melhor? Depende do produto: no mousse escuro o preço no cartão favorece a Best Bronze em promoção e o cupom com Pix favorece a Skelt, e no transparente e no kit com luva a Skelt sai mais barata.",
+          "Skelt ou Best Bronze, qual é melhor? Depende do produto: o preço por 100 ml do mousse escuro no cartão favorecia a Best Bronze em promoção, e a conta com cupom e Pix favorecia a Skelt. Nos transparentes e kits comparados, a Skelt custava menos.",
           "Qual dura mais? Segundo as páginas, a Best Bronze declara até 15 dias no mousse escuro e no Clear Vegan, e a Skelt declara 7 a 12 dias.",
           "Qual mancha menos a roupa? Na Skelt, a Água: a marca diz que a falta de cor-guia diminui a chance de manchar, e no Mousse Dark avisa que suor e atrito podem passar a cor para o tecido.",
           "Qual tem cheiro? A Skelt lista fragrância (Parfum) nos mousses e nas águas. A Best Bronze vende o Dark Express Pro na fragrância Vanilla ou Sem Fragrância, e a página do Clear Vegan diz que ele não tem cheiro.",
@@ -122430,8 +122430,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve a Skelt se você quer o transparente ou o kit com luva, que saem mais baratos nela.",
-        "Leve a Best Bronze se você quer spray, gotas ou lenço para o rosto."
+        "Leve a Skelt se você quer transparente ou kit com luva: nos modelos comparados, ela sai mais barata.",
+        "Leve a Best Bronze se você procura spray, gotas ou lenço para o rosto; confira o estoque atual."
       ],
       "skipIf": [
         "Passe o transparente se você nunca aplicou e quer ver onde passa.",
@@ -122780,20 +122780,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual body splash Skelt escolher",
         "paragraphs": [
-          "Como as dez fragrâncias da Skelt custam o mesmo, a escolha é pelo perfil: cítrico e fresco, floral ou doce e gourmand. O guia compara só o que a loja publica: notas, perfil e preço. O capítulo Qual escolher traz uma sugestão por perfil e por tipo de presente, com os kits."
+          "Para começar pela família de notas: Amalfi Sunset ou Unexpected Day no grupo cítrico e fresco; Hidden Flowers ou Mystic Bloom no floral; Velvet Milano ou Solar Muse no doce. O agrupamento é deste guia, pelas descrições da Skelt. Os dez frascos custam o mesmo, e o cupom SKEMCASACOMCECILIA dá 10% OFF no site."
         ]
       },
       {
         "heading": "As 10 fragrâncias lado a lado",
         "paragraphs": [
-          "A Skelt vende dez body splash de 100 ml a R$ 99,90, então a escolha é pelo perfil de notas. Ninguém do site usou nenhum deles, e este guia não diz qual é o mais cheiroso: cheiro é gosto, e a loja também não classifica. A Skelt não agrupa as dez num só lugar e o rótulo muda de página para página; o agrupamento deste guia (cítrico e fresco, floral, doce e gourmand) parte das notas publicadas. A loja também não compara seus produtos com perfumes de outras marcas, então a comparação é só entre as dez fragrâncias dela.",
+          "A Skelt vende dez body splash de 100 ml, todos a R$ 99,90. Este guia reúne as notas publicadas e as agrupa em cítrico e fresco, floral e doce e gourmand. O agrupamento é nosso; ninguém da equipe usou os produtos. A escolha é por preferência de notas, não por um ranking de cheiro.",
           "A tabela traz as notas de topo que a Skelt publica em cada página e o perfil em que o guia encaixou a fragrância. Onde a página não tem a pirâmide de notas, a célula diz isso e traz o que a descrição da loja cita. A posição é a do produto na ordem de mais vendidos do site da Skelt, entre todos os produtos da loja, e não só entre body splash."
         ],
         "comparisonTable": {
           "headers": [
             "Fragrância",
             "Perfil (do guia)",
-            "Notas de topo, segundo a Skelt",
+            "Notas publicadas ou descrição da fonte indicada",
             "Preço (23/10/2026)",
             "Mais vendidos"
           ],
@@ -123020,8 +123020,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits para presente: a conta contra os avulsos",
         "paragraphs": [
-          "A conta abaixo compara o preço de cada kit com a soma dos produtos avulsos, também a preço de venda do dia. A última coluna mostra o kit com o cupom SKEMCASACOMCECILIA e o Pix de 5% somado. No teste de carrinho, o cupom valeu em kit e somou com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt).",
-          "O cupom SKEMCASACOMCECILIA dá 10% em todo o site oficial da Skelt: um body splash avulso de R$ 99,90 sai a R$ 89,91 e, com mais 5% do Pix, a R$ 85,41."
+          "A tabela compara o preço de cada kit com a soma dos produtos avulsos. A última coluna simula o kit com o cupom SKEMCASACOMCECILIA e mais 5% do Pix. No teste de carrinho, o cupom valeu em kit e somou com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt).",
+          "Para o frasco avulso, a conta sobre R$ 99,90 fica em R$ 89,91 com cupom e em R$ 85,41 com cupom e mais 5% do Pix. Os valores dependem do preço e das condições do dia."
         ],
         "comparisonTable": {
           "headers": [
@@ -123029,7 +123029,7 @@ export const reviewsData: unknown[] = [
             "Preço (23/10/2026)",
             "Soma dos avulsos",
             "Diferença",
-            "Com cupom e Pix"
+            "Simulação: cupom e Pix"
           ],
           "rows": [
             [
@@ -123143,26 +123143,26 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: uma sugestão por perfil",
-        "emphasis": "Pelos números da tabela, para presente com hidratante a escolha é o Duo Hidden Flowers, porque sai 10,9% mais barato que os avulsos.",
+        "emphasis": "Para presente com hidratante, compare primeiro o Duo Hidden Flowers: na tabela, ele fica 10,9% abaixo dos mesmos itens avulsos. Confirme a diferença no dia da compra.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "Como as dez custam R$ 99,90, o preço não decide: o que decide é o perfil e se a compra é para presente. As sugestões partem das notas que a Skelt publica, e ninguém do site usou os produtos."
+          "Com as dez no mesmo preço, o que decide é o perfil e se a compra é para presente. As sugestões partem das notas que a Skelt publica, e ninguém do site usou os produtos."
         ],
         "bullets": [
           "Quer uma fragrância de dia, cítrica e leve: [Amalfi Sunset](https://www.skelt.com.br/body-splash-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Unexpected Day](https://www.skelt.com.br/body-splash-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
           "Quer floral: [Hidden Flowers](https://www.skelt.com.br/body-splash-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Mystic Bloom](https://www.skelt.com.br/body-splash-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
-          "Quer doce ou gourmand: [Velvet Milano](https://www.skelt.com.br/body-splash-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), que está em primeiro na ordem de mais vendidos do site da Skelt.",
+          "Quer doce ou gourmand: [Velvet Milano](https://www.skelt.com.br/body-splash-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), que está entre os mais vendidos do site da Skelt.",
           "Quer dar de presente com hidratante: o [Duo Hidden Flowers](https://www.skelt.com.br/duo-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (body splash e hidratante), em promoção, de R$ 197,90 por R$ 178,11. Com o creme para mãos junto, o [Duo + Creme para Mãos Hidden Flowers](https://www.skelt.com.br/duo-creme-para-maos-hidden--flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), também em promoção, de R$ 229,37 por R$ 194,96.",
           "Quer provar antes de levar o frasco grande: o [Kit Miniaturas Sellers Set](https://www.skelt.com.br/kit-miniaturas-sellers-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), com Amalfi Sunset, Velvet Milano e Hidden Flowers de 15 ml cada, R$ 99,90."
         ],
         "postParagraphs": [
-          "Com o cupom SKEMCASACOMCECILIA (10%) e o Pix de 5%, um body splash de R$ 99,90 sai a R$ 85,41. As condições estão na [página do cupom Skelt](/cupons/skelt)."
+          "Com o cupom SKEMCASACOMCECILIA (10%) e mais 5% no Pix, um body splash de R$ 99,90 sai por cerca de R$ 85,41. É simulação sobre o preço de venda; confira no carrinho. As condições estão na [página do cupom Skelt](/cupons/skelt)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o body splash Skelt mais cheiroso? Não há ranking de cheiro: é questão de gosto, e a Skelt também não classifica. O que a loja publica é a ordem de mais vendidos, em que o Solar Muse estava em primeiro, seguido de Mystic Bloom, Hidden Flowers e Amalfi Sunset entre os body splash; para escolher, use o perfil de notas.",
+          "Qual é o body splash Skelt mais cheiroso? Não há ranking de cheiro: é questão de gosto, e a Skelt também não classifica. Solar Muse aparece em primeiro na ordem de mais vendidos, mas essa ordem não mede preferência de cheiro.",
           "Algum body splash Skelt lembra perfume importado? A Skelt não compara os body splash com perfumes de outras marcas nas páginas, e este guia também não. A comparação aqui é só pelas notas que a loja publica, entre as dez fragrâncias dela.",
           "Qual body splash Skelt dura mais? A Skelt descreve as dez como de alta fixação, fixação prolongada ou perfumação duradoura, e não publica tempo em horas.",
           "Dá para usar o body splash Skelt no rosto? A página do Amalfi Sunset diz que o produto não deve ser aplicado na pele do rosto. Nos outros nove, a loja não traz essa frase, e a lista de ingredientes começa por álcool.",
@@ -156186,7 +156186,7 @@ export const reviewsData: unknown[] = [
             "Produto",
             "Conteúdo",
             "Preço no cartão (29/10/2026)",
-            "Hidratante por 100 g"
+            "Hidratante por 100 g (atribuído)"
           ],
           "rows": [
             [
@@ -156338,7 +156338,7 @@ export const reviewsData: unknown[] = [
         "heading": "Conjuntos: como a conta do hidratante foi feita",
         "paragraphs": [
           "No Kit Radiante só há hidratante, então a conta é direta: R$ 252,20 por 600 g dá R$ 42,03 por 100 g, e o kit custa 15,8% menos que os três avulsos somados (R$ 299,70).",
-          "Nos outros conjuntos, o guia tira do preço o valor avulso dos itens que não são hidratante: R$ 99,90 do body splash, R$ 32,90 do creme para mãos de 75 g e R$ 79,90 do perfume para cabelos de 140 ml. O que sobra é dividido pelos 200 g do hidratante. No duo com body splash, R$ 178,11 menos R$ 99,90 dá R$ 78,21 para o hidratante, ou R$ 39,11 por 100 g.",
+          "Nos outros conjuntos, o guia tira do preço o valor avulso dos itens que não são hidratante: R$ 99,90 do body splash, R$ 32,90 do creme para mãos de 75 g e R$ 79,90 do perfume para cabelos de 140 ml. O que sobra é dividido pelos 200 g do hidratante: é uma atribuição para comparação, não o preço cobrado separadamente no conjunto. No duo com body splash, R$ 178,11 menos R$ 99,90 dá R$ 78,21 para o hidratante, ou R$ 39,11 por 100 g.",
           "O resultado muda com o desconto do conjunto. No Duo + Creme para Mãos, o desconto sobre os avulsos é de 16,2%, e todo ele cai na conta do hidratante: R$ 31,08 por 100 g, a menor da tabela. Já a Linha Completa custa exatamente a soma dos avulsos (R$ 312,60), e os kits com perfume para cabelos de R$ 282,10 custam R$ 2,40 a mais que os itens separados. Nesses, o hidratante não fica mais barato que no avulso."
         ],
         "postParagraphs": [
@@ -156355,24 +156355,24 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Pelos números da tabela, para quem quer um hidratante só a escolha é pelo perfil, porque os seis avulsos custam o mesmo; para pagar menos por grama a escolha é o Kit Radiante, porque ele baixa a conta para R$ 42,03 por 100 g.",
+        "emphasis": "Para um hidratante só, a escolha é pelo perfil, já que os seis avulsos custam o mesmo. Para pagar menos por grama com três fragrâncias, o Kit Radiante sai a R$ 42,03 por 100 g; compare o total e as fragrâncias que você vai usar.",
         "paragraphs": [
           "O preço não decide entre as fragrâncias: decide o perfil. O que muda o custo é o formato."
         ],
         "bullets": [
           "Quer um hidratante só: cítrico, [Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz); floral, [Hidden Flowers](https://www.skelt.com.br/body-cream-hidde-flowers-1/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Mystic Bloom](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz); frutado, [Urban Beat](https://www.skelt.com.br/hidratante-desodorante-corporal-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz); doce, [Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
           "Quer pagar menos por grama e topa três fragrâncias: o [Kit Hidratação Corporal Radiante & Perfumada](https://www.skelt.com.br/kit-radiante-perfumada/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), com Amalfi Sunset, Urban Beat e Unexpected Day, a R$ 42,03 por 100 g.",
-          "Quer o body splash da mesma fragrância: o [duo com body splash](https://www.skelt.com.br/duo-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) baixa o hidratante para R$ 39,11 por 100 g, e o [Duo + Creme para Mãos](https://www.skelt.com.br/duo-creme-para-maos-hidden--flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) para R$ 31,08, se você também for usar o splash e o creme.",
+          "Quer o body splash da mesma fragrância: o [duo com body splash](https://www.skelt.com.br/duo-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) corresponde a R$ 39,11 por 100 g na conta atribuída ao hidratante, e o [Duo + Creme para Mãos](https://www.skelt.com.br/duo-creme-para-maos-hidden--flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) corresponde a R$ 31,08 por 100 g, se você também for usar o splash e o creme.",
           "Quer o perfume para cabelos junto: a Linha Completa e os kits com perfume não baixam o preço do hidratante. Compre o conjunto só se quiser os itens juntos."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual hidratante corporal Skelt escolher? Pelo perfil da fragrância: Amalfi Sunset e Unexpected Day são os cítricos, Hidden Flowers e Mystic Bloom os florais, Urban Beat o frutado e Velvet Milano o doce. O preço é o mesmo nos seis avulsos.",
-          "Quanto custa o hidratante corporal Skelt? R$ 99,90 o pote avulso, o que dá R$ 49,95 por 100 g no pote de 200 g.",
-          "Qual é o jeito mais barato de comprar o hidratante Skelt por grama? Entre os conjuntos só de hidratante, o Kit Radiante, com três potes de 200 g, a R$ 42,03 por 100 g. Contando o body splash e o creme pelo preço avulso, o Duo + Creme para Mãos deixa o hidratante a R$ 31,08 por 100 g.",
-          "Compensa o duo de hidratante com body splash? Se você vai usar o splash, sim pela conta: o duo custa R$ 178,11, 10,9% menos que os dois avulsos, e o hidratante sai a R$ 39,11 por 100 g.",
+          "Qual hidratante corporal Skelt escolher? Pelo perfil da fragrância: Amalfi Sunset e Unexpected Day são os cítricos, Hidden Flowers e Mystic Bloom os florais, Urban Beat o frutado e Velvet Milano o doce. O preço é o mesmo nos seis avulsos; confira os valores atuais na loja.",
+          "Quanto custa o hidratante corporal Skelt? R$ 99,90 o pote avulso; nos cinco avulsos com 200 g informados, dá R$ 49,95 por 100 g. A ficha avulsa do Velvet Milano não informa o peso.",
+          "Qual é o jeito mais barato de comprar o hidratante Skelt por grama? Entre os conjuntos só de hidratante com peso informado, o Kit Radiante, com três potes de 200 g, a R$ 42,03 por 100 g. Contando o body splash e o creme pelo preço avulso, a conta atribui ao hidratante do Duo + Creme para Mãos R$ 31,08 por 100 g.",
+          "Compensa o duo de hidratante com body splash? Se você vai usar o splash, sim pela conta: o duo custa R$ 178,11, 10,9% menos que os dois avulsos, e a conta atribui ao hidratante R$ 39,11 por 100 g.",
           "O kit com perfume para cabelos barateia o hidratante? Não. A Linha Completa custava a soma dos avulsos e os kits com perfume para cabelos custavam um pouco mais que os itens separados.",
           "Qual o peso do hidratante Velvet Milano? A ficha avulsa não informa. Nos duos Velvet Milano, a Skelt diz que o hidratante tem 200 g.",
           "O cupom vale no hidratante avulso? Pela regra da parceria, o SKEMCASACOMCECILIA vale em todos os produtos do site oficial, mas não testamos num hidratante avulso. Confira o desconto na sacola antes de pagar."
@@ -156432,14 +156432,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: vale o Solar Muse avulso ou em kit?",
         "paragraphs": [
-          "O Body Splash Solar Muse é vendido avulso, em frasco de 100 ml, pelo mesmo preço dos outros body splash da Skelt. Dos oito conjuntos que o levam, o kit com o Body Cream Amalfi Sunset é o que mais economiza frente aos avulsos; a conta de cada um está em Avulso ou kit."
+          "O Body Splash Solar Muse é vendido avulso, em frasco de 100 ml, pelo mesmo preço dos outros body splash da Skelt. Para só o Solar Muse, o frasco avulso basta. Dos oito conjuntos que o levam, o kit com Body Cream Amalfi Sunset é o que mais economiza, e compensa só se você quiser esse creme."
         ]
       },
       {
         "heading": "O que é o Body Splash Solar Muse",
         "paragraphs": [
           "Quem quer Solar Muse vai de avulso: [Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), spray de 100 ml. A loja o chama de \"o novo Body Splash da Skelt\" na página de um kit, e o slogan é \"Quente como você chega\". Tudo o que este guia diz sobre a fragrância é o que a Skelt publica.",
-          "O perfil olfativo da ficha é \"Solar, Cítrico e Adocicado (Floral Frutado Solar)\". A descrição fala em \"abertura luminosa e vibrante\", que \"evolui para um corpo floral quente e envolvente\" e termina num \"fundo magnético\". No campo Mood, a loja escreve que ele é \"para quem busca uma presença quente, confiante e sofisticada\" e o descreve como \"o verdadeiro cheiro da mulher brasileira\". Para comparar com as outras nove fragrâncias, veja o [guia de qual body splash Skelt escolher](/reviews/body-splash-skelt-qual-escolher).",
+          "A Skelt classifica o Solar Muse como floral frutado solar, com perfil cítrico e adocicado. A pirâmide publicada combina frutas e flores com baunilha, caramelo e madeiras no fundo. As notas estão detalhadas abaixo. Para comparar com as outras fragrâncias, veja o [guia de body splash Skelt](/reviews/body-splash-skelt-qual-escolher).",
           "A ficha declara o produto dermatologicamente testado, vegano, cruelty free e livre de parabenos e óleo mineral. Na Skelt não existe perfume Solar Muse: a fragrância aparece só no body splash, avulso ou dentro dos conjuntos."
         ],
         "images": [
@@ -156569,10 +156569,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avulso ou kit: o que a conta mostra",
         "paragraphs": [
-          "Só dois conjuntos economizam de verdade, e os dois estavam em promoção. O kit com o Body Cream Amalfi Sunset sai R$ 21,69 mais barato que os dois produtos avulsos (10,9%), e o Kit Fragrâncias com o body splash Amalfi Sunset sai R$ 19,60 mais barato (9,8%). Nos dois, a segunda fragrância é a Amalfi Sunset, e não a Solar Muse.",
-          "Os dois duos com Hidden Flowers e os dois kits de três itens sem perfume para cabelos custam menos de R$ 3,00 abaixo da soma dos avulsos. A vantagem deles é a embalagem de kit, não o preço.",
+          "Só dois conjuntos ficam claramente abaixo da soma dos avulsos, e os dois estavam em promoção: o kit com Body Cream Amalfi Sunset, R$ 21,69 a menos (10,9%), e o Kit Fragrâncias com body splash Amalfi Sunset, R$ 19,60 a menos (9,8%). Nos dois, a segunda fragrância é a Amalfi Sunset, e não a Solar Muse.",
+          "Nos dois duos com Hidden Flowers e nos dois kits de três itens sem perfume para cabelos, a diferença é menor que R$ 3 em relação aos mesmos produtos avulsos. Compare a composição do conjunto com o que você pretende comprar.",
           "Os dois conjuntos com o perfume para cabelos Amalfi Sunset custam R$ 2,40 e R$ 2,50 a mais que os mesmos produtos comprados separados.",
-          "Para quem quer só o Solar Muse, o avulso de R$ 99,90 resolve. Para quem também quer um hidratante, o kit com o Body Cream Amalfi Sunset é o mais barato dos oito, sabendo que o creme tem outra fragrância. Preço e promoção mudam, então vale o que aparece na sacola."
+          "Se quiser apenas o Solar Muse, o frasco avulso resolve. Se também quiser Body Cream Amalfi Sunset, o kit dos dois é o mais barato dos oito, sabendo que o creme tem outra fragrância. Confira a conta na sacola, com os produtos que você pretende levar."
         ]
       },
       {
@@ -156643,13 +156643,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Milos Breeze avulso, no trio ou em miniatura",
         "paragraphs": [
-          "O Body Splash Milos Breeze vem em frasco de 100 ml. No Trio Exotic Trip, com Grand Bahama e Pink Sands, a Skelt cobra um pouco menos que os três avulsos. Para conhecer antes, o Kit Miniaturas Exotic Set traz o Milos em 15 ml; a conta das três opções está em Como comprar."
+          "O Milos Breeze vem em frasco de 100 ml e também aparece no Trio Exotic Trip, com Grand Bahama e Pink Sands, e no Kit Miniaturas Exotic Set, em 15 ml. Pelos preços consultados, o trio custava um pouco menos que os três avulsos; confira o valor atual antes de escolher."
         ]
       },
       {
         "heading": "O que é o Body Splash Milos Breeze",
         "paragraphs": [
-          "Tudo o que vem abaixo é o que a Skelt publica na página do produto, e as contas são nossas, sobre o preço do dia.",
+          "As notas e características abaixo vêm da ficha da Skelt; as contas são nossas, com os preços da consulta.",
           "O [Body Splash Milos Breeze](https://www.skelt.com.br/body-splash-milos-breeze/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é um spray de 100 ml. A ficha resume a fragrância como \"Frescor com a energia do verão grego\" e diz que \"o mar azul da Grécia é a principal inspiração\", com \"notas aquosas e intensas\". As dez fragrâncias de body splash da Skelt, lado a lado, estão no [guia de qual body splash Skelt escolher](/reviews/body-splash-skelt-qual-escolher).",
           "A página anuncia \"alta fixação e projeção duradoura\", sem tempo em horas, e chama a fragrância de \"ideal para todos os momentos do dia\". O modo de uso da loja: \"Aplique a quantidade suficiente na área da sua escolha. Reaplique sempre que desejar.\"",
           "A página declara o produto vegano, cruelty free, sem parabenos e óleo mineral e dermatologicamente testado. A composição publicada começa por álcool etílico, seguido de água e perfume, e termina em citral."
@@ -156742,21 +156742,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trio ou avulso: qual compensa",
         "paragraphs": [
-          "Pelo preço, o trio quase empata com os avulsos: R$ 297,70 contra R$ 299,70 dos três frascos, uma diferença de R$ 2,00 (0,7%). Por ml, os dois ficam em cerca de R$ 1,00.",
-          "Então a decisão é pelas fragrâncias. Quem quer só o Milos Breeze compra o frasco avulso. Quem também quer o Grand Bahama e o Pink Sands, ou vai presentear, leva o trio e economiza R$ 2,00. Quem ainda não conhece nenhum dos três começa pelo Exotic Set, com as mesmas três fragrâncias em 15 ml."
+          "Pelos preços consultados, o trio quase empatava com os avulsos: R$ 297,70 contra R$ 299,70 pelos três frascos, diferença de R$ 2,00 (0,7%). Por ml, ambos ficavam perto de R$ 1,00.",
+          "A escolha depende das fragrâncias e do preço do dia. Quem quer só o Milos Breeze leva o frasco avulso; quem também quer o Grand Bahama e o Pink Sands pode levar o trio, que custava R$ 2,00 a menos. Quem ainda não conhece as três começa pelo Exotic Set, com as mesmas fragrâncias em 15 ml."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual o tamanho do Body Splash Milos Breeze? O frasco tem 100 ml, em spray, segundo a ficha. Em 15 ml, ele vem no Kit Miniaturas Exotic Set, com Grand Bahama e Pink Sands.",
-          "Quanto custa o Skelt Milos Breeze? R$ 99,90 no cartão. Com o cupom SKEMCASACOMCECILIA e os 5% do Pix, a conta dá R$ 85,41.",
-          "O Trio Exotic Trip compensa? Sai a R$ 297,70 com Grand Bahama, Milos Breeze e Pink Sands, R$ 2,00 a menos que os três avulsos. Compensa se você quer as três fragrâncias.",
-          "Tem hidratante Skelt Milos Breeze? Não. Nenhum produto do catálogo da Skelt traz hidratante, creme ou perfume para cabelos com a fragrância.",
+          "Quanto custa o Skelt Milos Breeze? Nos preços consultados, custava R$ 99,90 no cartão. Com 10% de cupom e 5% de Pix, a conta dá R$ 85,41; confira o valor final na sacola.",
+          "O Trio Exotic Trip compensa? Nos preços consultados, custava R$ 297,70, R$ 2,00 a menos que os três avulsos. Compensa se você quer as três fragrâncias; confira o preço atual antes de comprar.",
+          "Tem hidratante Skelt Milos Breeze? Não encontramos, no catálogo da Skelt, hidratante, creme ou perfume para cabelos com essa fragrância. Confira o catálogo atual.",
           "Qual a inspiração do Milos Breeze? Segundo a ficha, o mar azul da Grécia. A Skelt não compara o body splash com perfume de outra marca.",
           "Quanto tempo dura o Milos Breeze? A ficha diz \"alta fixação e projeção duradoura\" e não publica tempo em horas.",
           "Milos Breeze ou Grand Bahama? Pelas fichas, o Milos tem topo de água de coco e acorde aquoso e fundo de cedro e patchouli; o Grand Bahama tem abacaxi e bergamota no topo e baunilha e musgo de carvalho no fundo. Para comparar com o Solar Muse, veja o [artigo do Solar Muse](/reviews/body-splash-skelt-solar-muse).",
-          "O cupom vale no Milos Breeze sem promoção? Sim. Na sacola, o SKEMCASACOMCECILIA tirou 10% do frasco avulso, de R$ 99,90 para R$ 89,91. O passo a passo está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
+          "O cupom vale no Milos Breeze sem promoção? Sim: na sacola, o SKEMCASACOMCECILIA tirou 10% do frasco avulso, de R$ 99,90 para R$ 89,91. Confira o desconto na sua sacola; o passo a passo está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
         ]
       }
     ]
@@ -166351,7 +166351,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para hoje, o Bronzeado Instantâneo Skelt é uma maquiagem corporal que a fabricante informa durar de 12 a 24 horas. Para a semana, o mousse ou a água, que a Skelt diz durar de 7 a 12 dias, servem melhor. A diferença entre os dois está na seção seguinte."
+          "Para hoje, o Bronzeado Instantâneo é uma maquiagem corporal que a Skelt informa durar de 12 a 24 horas. Para uma cor por mais dias, a marca informa duração de 7 a 12 dias para o mousse e a água autobronzeadores."
         ]
       },
       {
@@ -166558,8 +166558,8 @@ export const reviewsData: unknown[] = [
         "heading": "Quando usar e quando esperar",
         "paragraphs": [
           "A Skelt pede pelo menos 3 dias depois da aplicação. Antes desse prazo, a página não indica o removedor. Se a ideia é um bronze para hoje, o [bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) é outro produto, com instruções próprias.",
-          "O [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem outra regra. Pela descrição da marca, após o tempo de ação, o produto se retira no banho e apenas com água morna. É o procedimento da marca para esse produto, não um substituto do removedor.",
-          "Sem o removedor, siga a página do seu autobronzeador. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
+          "O banho após o tempo de ação do [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) faz parte do ciclo de aplicação desse produto. Não use essa instrução como alternativa geral ao removedor.",
+          "Para outro autobronzeador, siga as instruções da embalagem e não recorra a misturas caseiras. Quem quer o brilho depois do bronze encontra o [iluminador corporal](/reviews/iluminador-corporal-skelt-como-usar) em outro artigo."
         ],
         "image": {
           "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-mao.webp",
@@ -166570,9 +166570,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Preço e o que vem junto",
+        "heading": "Preço do removedor e da luva, itens separados",
         "paragraphs": [
-          "A conta é só do removedor: a luva é peça de aplicação, não de remoção."
+          "A luva da tabela é vendida separadamente e serve para aplicar autobronzeador. Ela não acompanha o removedor como um kit e não é necessária para a retirada descrita pela marca."
         ],
         "comparisonTable": {
           "headers": [
@@ -166617,7 +166617,7 @@ export const reviewsData: unknown[] = [
           "Quanto tempo depois posso usar o removedor? Pelo menos 3 dias depois da aplicação, segundo a marca.",
           "Quanto tempo ele fica na pele? No mínimo 3 minutos, como indica a marca.",
           "Preciso da luva para tirar? Não. A luva é para aplicar o autobronzeador; o removedor se usa com toalha ou esponja molhadas em água morna.",
-          "Funciona? A página não traz dado de eficácia, e ninguém do site testou o produto.",
+          "O removedor funciona? A Skelt afirma que ele remove o bronze aplicado há alguns dias.",
           "Posso usar no rosto? A Skelt indica área corpo, então este texto não recomenda o rosto."
         ]
       }
@@ -166678,7 +166678,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem já tem bronze e quer brilho, o Iluminador Corporal Skelt é a compra avulsa. A Skelt diz que ele dura de 12 a 24 horas e indica corpo e rosto. Se a dúvida é o kit com mousse e luva, a conta está na seção de preços."
+          "Segundo a Skelt, aplique o iluminador com as mãos ou a luva, espalhe em movimentos circulares até uniformizar a cor e espere secar antes de se vestir. A marca indica corpo e rosto, com duração de 12 a 24 horas. Para escolher entre o avulso e o kit, veja a comparação de preços abaixo."
         ]
       },
       {
@@ -166701,7 +166701,7 @@ export const reviewsData: unknown[] = [
         "heading": "Corpo e rosto: as áreas de uso",
         "paragraphs": [
           "A Skelt indica o iluminador para corpo e rosto, com nível de iniciante a expert, num tom só, sem cor para escolher.",
-          "No rosto, comece com pouco, numa área pequena, e espere secar antes de julgar o brilho."
+          "A indicação de uso no rosto vem da ficha da Skelt; siga o modo de uso e as orientações da embalagem."
         ],
         "image": {
           "src": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-pele.webp",
@@ -166761,8 +166761,8 @@ export const reviewsData: unknown[] = [
           "Como usar o iluminador? Aplique uma quantidade generosa na mão ou na luva, espalhe em movimentos circulares até uma cor uniforme e espere secar antes de se vestir, conforme a marca.",
           "Quanto tempo dura? De 12 a 24 horas, pela descrição da marca.",
           "Serve no rosto? A Skelt indica corpo e rosto. Este texto segue essa indicação e não diz qual é o resultado no rosto.",
-          "Precisa de luva? Não. A Skelt diz que o produto pode ser passado com as mãos ou com a luva, vendida à parte por R$ 34,90.",
-          "Compensa comprar no kit? Se você quer as três peças (mousse, luva e iluminador), o kit sai R$ 62,92 mais barato que comprar cada uma separada. Se só quer o mousse e a luva, avulsos eles somam R$ 154,80, menos que o kit."
+          "Precisa de luva? Não. A Skelt diz que o produto pode ser passado com as mãos ou com a luva, que sai avulsa por R$ 34,90 na tabela de preços.",
+          "Compensa comprar no kit? Com as três peças avulsas somando R$ 254,70 e o kit a R$ 191,78, a diferença é de R$ 62,92, antes de cupom e Pix. Se você queria só o mousse e a luva, os dois avulsos somavam R$ 154,80, menos que o kit."
         ]
       }
     ],
@@ -178689,7 +178689,7 @@ export const reviewsData: unknown[] = [
           "**Kits e combos:** 55, do Kit Iniciante aos conjuntos de fragrância."
         ],
         "postParagraphs": [
-          "Os preços deste guia são os de lista. A loja costuma mostrar um desconto de campanha sobre eles, e o cupom entra depois, por cima."
+          "As tabelas mostram preços de lista. Compare o preço do dia e confira no carrinho a promoção e o cupom antes de pagar."
         ]
       },
       {
@@ -178782,13 +178782,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para tirar e para hoje: removedor e bronzeado instantâneo",
         "paragraphs": [
-          "Autobronzeador que ficou torto se tira com o Removedor, e cor para hoje não é autobronzeador: é o Bronzeado Instantâneo, que a Skelt classifica como maquiagem corporal. O Removedor de Autobronzeador é um spray para o corpo. Como a marca manda:",
-          "1. Agite o frasco.",
-          "2. Aplique na pele seca, pelo menos 3 dias depois do autobronzeador.",
-          "3. Deixe agir no mínimo 3 minutos.",
-          "4. Retire com toalha ou esponja molhadas em água morna.",
-          "Antes dos 3 dias, o removedor não é o caminho: a Skelt pede esse prazo. O Bifásico tem regra própria: sai no banho, só com água morna.",
-          "O Bronzeado Instantâneo dura de 12 a 24 horas, diz a Skelt, e é indicado para o corpo. Serve para o evento de hoje à noite; para a semana, o Mousse ou a Água. Quem quer brilho em vez de cor vai ao Iluminador, mais abaixo."
+          "O Removedor de Autobronzeador é um spray para o corpo. Confira o modo de uso no rótulo da versão que você tem, com o tempo de ação e a temperatura da água.",
+          "Para uma cor de curta duração, a Skelt classifica o Bronzeado Instantâneo como maquiagem corporal e informa duração de 12 a 24 horas. Para escolher um autobronzeador, consulte o [guia dos autobronzeadores Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
         ],
         "comparisonTable": {
           "headers": [
@@ -178999,7 +178994,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, frete e onde comprar",
         "paragraphs": [
-          "O cupom SKEMCASACOMCECILIA tira 10% de todo o site oficial, inclusive do produto que já está em promoção e dos kits, em todas as formas de pagamento, e o Pix tira mais 5% sobre o total já com o cupom. No teste do cupom, um body splash e um mousse, de R$ 219,80 de lista, foram a R$ 178,04 com a promoção da loja e o cupom, e a R$ 169,13 no Pix. É um cupom por pedido: outro código da loja na sacola troca o nosso. O código vai no campo \"Cupom de desconto\" da sacola, abaixo do CEP, e a página do [cupom Skelt](/cupons/skelt) traz o passo a passo e as regras.",
+          "O cupom SKEMCASACOMCECILIA dá 10% no site oficial, inclusive em produtos em promoção e kits, em todas as formas de pagamento; o Pix acrescenta 5% sobre o total após o cupom. No teste do cupom, um body splash e um mousse, de R$ 219,80 de lista, foram a R$ 178,04 com a promoção e o cupom, e a R$ 169,13 no Pix. É um cupom por pedido: outro código na sacola troca o nosso. Digite o código no campo \"Cupom de desconto\" da sacola, abaixo do CEP, e confira o total antes de pagar. A página do [cupom Skelt](/cupons/skelt) traz as regras.",
           "O que muda a conta é o frete. Ele é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste. No Norte e no Nordeste, o pedido precisa passar de R$ 199.  Dá para pagar no cartão, com parcelas sem juros que mudam por produto, no Pix, no Apple Pay e no Pagaleve.",
           "A Skelt também vende no [Mercado Livre](https://meli.la/2unTb7k), onde o cupom não vale e o preço é o do anúncio. Antes de fechar, compare o preço do anúncio com o site oficial, que é onde o cupom e o Pix entram."
         ]
@@ -179007,7 +179002,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Skelt",
         "paragraphs": [
-          "Dá. A loja é de uma S/A registrada, a SKELT BEAUTY BRANDS, com sede em Curitiba, e publica as regras de troca, reembolso e frete: 20 dias para trocar sem defeito e 45 com defeito, contados da entrega, com a primeira devolução grátis. No Reclame Aqui, a loja respondeu a quase todas as reclamações dos últimos 6 meses e resolveu mais de 90%. As queixas mais comuns são produto com defeito e atraso, então confira o produto ao receber e abra o chamado cedo se o pedido atrasar. O ponto de atenção é que o perfil do Reclame Aqui está em nome de outro CNPJ ligado à marca, e o site não explica a ligação. CNPJ, site oficial e trocas estão em \"Skelt é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
+          "Dá. A loja é de uma S/A registrada, a SKELT BEAUTY BRANDS, com sede em Curitiba, e publica as regras de troca, reembolso e frete: 20 dias para trocar sem defeito e 45 com defeito, contados da entrega, com a primeira devolução grátis. No Reclame Aqui, a loja respondeu a quase todas as reclamações dos últimos 6 meses e resolveu mais de 90%. As queixas mais comuns são produto com defeito e atraso, então confira o produto ao receber e abra o chamado cedo se o pedido atrasar. O perfil do Reclame Aqui está em nome de outra empresa ligada à marca, e o site não explica essa ligação. Detalhes em [Skelt é confiável?](/reviews/skelt-e-confiavel) e [Skelt no Reclame Aqui](/reviews/skelt-reclame-aqui-nota-reputacao)."
         ]
       },
       {
