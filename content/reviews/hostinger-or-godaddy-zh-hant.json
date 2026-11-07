@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger 還是 GoDaddy：用 SONAR20，Hostinger Premium 第一年和 4 年都比較便宜。以美元計算，並列出各方案包含的內容。",
-  "metaDescription": "SONAR20 讓 Hostinger 新購買享 20% 折扣。以美元計算 4 年總價，對比 GoDaddy，包括首期、續訂和各方案包含的內容。",
+  "description": "選主機前，先想清楚網站會上線多久。以美元計算，用 SONAR20 的 Hostinger Premium 在每個期間都比 GoDaddy Economy 便宜。",
+  "metaDescription": "SONAR20 讓 Hostinger 新購買享 20% 折扣。比較第一年和 4 年，看哪個比 GoDaddy 便宜，並列出各方案的續訂價格。",
   "publishedAt": "2026年11月6日",
   "publishedAtISO": "2026-11-06",
   "draft": false,
@@ -45,129 +45,105 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "新購買時，用 SONAR20 的 Hostinger 無論第一年還是 4 年，都比 GoDaddy 便宜。GoDaddy Starter 每年續訂較便宜，但方案列表裡沒有網域、電子郵件或 SSL。下面每個方案的計算都以美元計。"
+        "以美元計算，用 SONAR20 的 Hostinger Premium 在每個期間都比 GoDaddy Economy 便宜：第一年 US$ 38.30 對 US$ 83.88，4 年 US$ 76.42 對 US$ 515.52，續訂每年 US$ 131.88 對 US$ 143.88。兩個方案都附一年免費的網域和電子郵件。"
       ]
     },
     {
-      "heading": "入門方案並排看",
+      "heading": "要比較的一對方案",
       "paragraphs": [
-        "Hostinger 的 Premium 列有網域和電子郵件；GoDaddy Starter 兩者都沒有列。GoDaddy Economy 有 25 GB，並列有網域和電子郵件，網站需要自己的網址時，要拿它和 Premium 比較。"
+        "在 Hostinger 的國際站上，共享主機從 Premium 開始，附一年免費的網域和電子郵件。GoDaddy 同樣包含這兩項的方案是 Economy。這兩個是本文主要比較的對象。兩家的所有方案都免費提供 SSL。",
+        "本文依期間回答：第一年付多少、4 年付多少，以及各方案續訂時要付多少。GoDaddy 也有 Starter，它只包含網站本身，會在後面單獨說明。"
       ],
       "comparisonTable": {
         "headers": [
           "方案",
-          "網站數",
-          "儲存空間",
           "網域",
           "電子郵件",
-          "SSL"
+          "SSL",
+          "清單上的其他項目"
         ],
         "rows": [
           [
             "[Hostinger Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "3",
-            "20 GB SSD",
             "一年免費",
-            "一年免費",
-            "未列出"
-          ],
-          [
-            "GoDaddy Starter",
-            "1",
-            "10 GB NVMe",
-            "未列出",
-            "未列出",
-            "未列出"
+            "每個網站 2 個信箱，一年免費",
+            "免費",
+            "3 個網站、20 GB SSD、每週備份、CDN"
           ],
           [
             "GoDaddy Economy",
-            "1",
-            "25 GB NVMe",
-            "免費",
             "一年免費",
-            "一年"
+            "一年免費",
+            "免費",
+            "1 個網站、25 GB NVMe、cPanel"
           ]
         ]
       }
     },
     {
-      "heading": "Hostinger 的價格，含 SONAR20",
+      "heading": "第一年 Hostinger 較便宜",
       "paragraphs": [
-        "在購物車裡，SONAR20 可以和黑色星期五價格疊加：48 個月的 Premium 從 US$ 95.52 降到 US$ 76.42。優惠碼只在新購買時給 20% 折扣；續訂按原價計算。",
-        "我們的計算方式：在頁面價格上扣 20%，其他方案用同樣的規則。購物車裡只測試了 Premium；其他方案按同樣的方式計算。"
+        "如果網站只用一年，Hostinger 用 SONAR20 的 12 個月 Premium 是 US$ 38.30。GoDaddy Economy 第一年是 US$ 83.88。Hostinger 便宜 US$ 45.58。"
       ],
       "comparisonTable": {
-        "caption": "Hostinger 國際站 11 月 6 日的價格，以美元計。SONAR20 相關欄位為我們的計算。",
+        "caption": "11 月 6 日在各自購物車中讀取的首期金額，沒有實際購買。Hostinger 為 12 個月方案，並使用 SONAR20。",
         "headers": [
           "方案",
-          "頁面價，每月（48 個月）",
-          "用 SONAR20，每月",
-          "用 SONAR20，48 個月總價",
-          "續訂，每月"
+          "首期金額",
+          "網域和電子郵件"
         ],
         "rows": [
           [
-            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "US$ 1.99/月",
-            "US$ 1.59/月",
-            "US$ 76.42",
-            "US$ 10.99/月"
+            "[Hostinger Premium，12 個月，用 SONAR20](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 38.30",
+            "一年免費"
           ],
           [
-            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "US$ 2.79/月",
-            "US$ 2.23/月",
-            "US$ 107.14",
-            "US$ 16.99/月"
-          ],
-          [
-            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "US$ 7.99/月",
-            "US$ 6.39/月",
-            "US$ 306.82",
-            "US$ 25.99/月"
+            "GoDaddy Economy，1 年",
+            "US$ 83.88",
+            "一年免費"
           ]
         ]
       },
       "postParagraphs": [
-        "續訂時適用最後一欄的價格，不含 SONAR20。優惠碼的規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
+        "Hostinger 的購物車已套用黑色星期五價格：12 個月的 Premium 顯示 US$ 47.88，SONAR20 把它降到 US$ 38.30。優惠碼給的是新購買 20% 折扣。"
       ]
     },
     {
-      "heading": "4 年總價，含續訂",
+      "heading": "4 年內 Hostinger 較便宜",
       "paragraphs": [
-        "Hostinger 勝出：48 個月一次付清就能涵蓋 4 年，這段時間內不用續訂。GoDaddy 要滿 4 年，得續訂三次，每次都是標價。"
+        "差別在於兩家的收費方式。Hostinger 是 48 個月一次付清，這段時間內不用續訂。購物車已套用黑色星期五價格，48 個月的 Premium 顯示 US$ 95.52，SONAR20 把它降到 US$ 76.42。",
+        "GoDaddy 的促銷價只涵蓋第一個 1 年期。要滿 4 年，就得以標價續訂三次，Economy 每次 US$ 143.88。"
       ],
       "comparisonTable": {
         "headers": [
-          "選項",
-          "首期",
-          "每年續訂",
+          "方案",
+          "付款方式",
           "4 年總價"
         ],
         "rows": [
           [
-            "Hostinger Premium，48 個月，用 SONAR20",
-            "US$ 76.42，一次付清",
-            "4 年內不需續訂",
+            "[Hostinger Premium，48 個月，用 SONAR20](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "一次付清 US$ 76.42",
             "US$ 76.42"
           ],
           [
-            "GoDaddy Starter",
-            "US$ 71.88",
-            "US$ 71.88",
-            "US$ 287.52"
-          ],
-          [
             "GoDaddy Economy",
-            "US$ 83.88",
-            "US$ 143.88",
+            "第一年 US$ 83.88，另加 3 次續訂，每次 US$ 143.88",
             "US$ 515.52"
           ]
         ]
       },
       "postParagraphs": [
-        "GoDaddy 的計算沒有計入 Economy 第一年之後的額外項目，所以它的總價是下限。Deluxe 和 Ultimate 適合多個網站，沒有列入，因為購物車裡沒有查到它們的續訂價。"
+        "GoDaddy 也有 24 和 36 個月的期間，但本文沒有查核這些期間的美元價格，所以計算採用促銷的第一年加續訂。",
+        "以上總價都不含第一年後續訂網域和電子郵件的費用，兩家都是如此。"
+      ]
+    },
+    {
+      "heading": "過了付費期間：各方案續訂多少",
+      "paragraphs": [
+        "期間結束後，兩家都回到標價。SONAR20 只適用於新購買，所以 Hostinger 續訂按方案標價計算，不套用優惠碼。購物車顯示 Premium 在 48 個月後以每月 US$ 10.99 續訂 12 個月，即每年 US$ 131.88。12 個月方案的續訂價也相同。",
+        "GoDaddy 的購物車顯示，Economy 會在 2027 年 11 月以 US$ 143.88 續訂，比 Premium 每年多 US$ 12。"
       ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hant.webp",
@@ -178,47 +154,82 @@
       }
     },
     {
-      "heading": "第一年 Hostinger 也勝出",
+      "heading": "只要網站：GoDaddy Starter",
       "paragraphs": [
-        "12 個月的 Premium 在頁面上是 US$ 47.88，用 SONAR20 是 US$ 38.30。這比 GoDaddy Starter 的 US$ 71.88 少 US$ 33.58，比 Economy 的 US$ 83.88 少 US$ 45.58。",
-        "第一年過後順序會變：Premium 每年續訂 US$ 131.88，Economy 為 US$ 143.88，Starter 為 US$ 71.88。Starter 續訂較便宜，但列表上沒有網域、電子郵件或 SSL。"
+        "Starter 是 GoDaddy 只包含網站的方案：1 個網站、10 GB NVMe 和 cPanel，清單上沒有網域或電子郵件。SSL 和 GoDaddy 所有方案一樣，透過 AutoSSL 提供。它沒有首年折扣：購物車顯示 1 年 US$ 71.88，續訂價也是 US$ 71.88。",
+        "第一年和 4 年，Starter 都比用 SONAR20 的 Premium 貴。續訂時，它是本文三個方案中最便宜的，比 Premium 每年低 US$ 60。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "方案",
+          "第一年",
+          "4 年總價",
+          "每年續訂"
+        ],
+        "rows": [
+          [
+            "[Hostinger Premium，用 SONAR20](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 38.30",
+            "US$ 76.42",
+            "US$ 131.88"
+          ],
+          [
+            "GoDaddy Starter",
+            "US$ 71.88",
+            "US$ 287.52",
+            "US$ 71.88"
+          ],
+          [
+            "GoDaddy Economy",
+            "US$ 83.88",
+            "US$ 515.52",
+            "US$ 143.88"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "網域、電子郵件和 SSL：第一年後會到期的項目",
+      "paragraphs": [
+        "Premium 和 Economy 上，網域和電子郵件都是一年免費。之後兩家都各自續訂，上面的 4 年總價都不含這些費用。GoDaddy 的通知補充說，免費網域仍要收取 ICANN 費用。",
+        "SSL 不會到期。Hostinger 在每個方案都安裝免費憑證，不需額外設定或付費。GoDaddy 所有方案都包含 AutoSSL。Economy 的購物車另外加了 Standard SSL，一年免費，之後以 US$ 119.99 一年自動續訂：它是疊加在 AutoSSL 之上的付費憑證，續訂可以關閉。"
       ]
     },
     {
       "heading": "退款：兩家都是 30 天",
       "paragraphs": [
-        "兩家的退款說明：Hostinger 接受購買後 30 天內的退款申請，GoDaddy 的國際站頁面也列出 30 天退款保證。這一點兩家沒有差別。"
+        "Hostinger 接受購買後 30 天內的退款申請。GoDaddy 的國際站也寫明 30 天：方案卡片上寫 30 天，頁尾通知則說，年繳方案在 30 天內可全額退款，月繳方案為 48 小時內。這一點兩家不相上下。"
       ]
     },
     {
-      "heading": "入門方案包含什麼",
+      "heading": "需要更多：Unlimited 和 Cloud Startup",
       "paragraphs": [
-        "Premium 的列表還包括每週備份和 CDN；頁面沒有列出 SSL。GoDaddy Starter 的儲存空間附帶 cPanel，其餘都沒有列在清單上。",
-        "Economy 在購物車裡給的是一年免費的電子郵件和 SSL。一年後 SSL 會以 US$ 119.99 一年自動續訂，電子郵件也不再免費；4 年的表格兩者都沒有計入。"
+        "在 Premium 之上，Hostinger 還有不限網站數的 Unlimited，以及 Cloud Startup。以同樣的 20% 方式換算頁面價格：Unlimited 用 SONAR20 的 48 個月為 US$ 107.14，續訂每月 US$ 16.99；Cloud Startup 為 US$ 306.82，續訂每月 US$ 25.99。這兩個方案沒有在購物車中查核。GoDaddy 的 Deluxe 和 Ultimate 沒有列入，因為它們的續訂價也未查核。優惠碼的規則見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
-      "heading": "結論：怎麼選",
+      "heading": "依網站使用期間決定怎麼選",
       "paragraphs": [
-        "如果網站會上線 4 年，選 Hostinger：用 SONAR20 的 Premium 4 年共 US$ 76.42，GoDaddy Starter 為 US$ 287.52，Economy 為 US$ 515.52，而且 Premium 列有網域和電子郵件。",
-        "如果你打算讓網站用超過 4 年，又不需要網域和電子郵件，選 GoDaddy Starter：每年續訂 US$ 71.88，比 Premium 的續訂價低 US$ 60，但首期比較貴。",
-        "如果你要列表裡就有網域、電子郵件和 SSL，並接受每年續訂 US$ 143.88（比 Premium 的續訂價高），選 GoDaddy Economy。",
-        "三種情況下，付款前都先在購物車確認續訂價，促銷可能變動。"
+        "一年，要網域和電子郵件：Hostinger Premium 12 個月，用 SONAR20 為 US$ 38.30。同期間 Economy 多 US$ 45.58。",
+        "四年，要網域和電子郵件：Hostinger Premium 48 個月，用 SONAR20 為 US$ 76.42，涵蓋整段期間。Economy 的總價是這個數字的六倍以上。",
+        "只要網站、使用很多年：GoDaddy Starter 續訂最便宜，每年 US$ 71.88，但第一年和 4 年都比用 SONAR20 的 Premium 貴。",
+        "無論哪種情況，付款前都先在購物車確認續訂價，促銷可能變動。"
       ]
     },
     {
       "heading": "常見問題",
       "bullets": [
-        "Hostinger 和 GoDaddy 哪個比較好？這要看你打算用多久。第一年和 4 年內，用 SONAR20 的 Hostinger Premium 都比兩個 GoDaddy 方案便宜；之後 GoDaddy Starter 的續訂較便宜。更多判斷標準見[如何選擇網站主機](/zh-hant/reviews/choose-web-host-hostinger-zh-hant)。",
-        "GoDaddy 續訂價會一樣嗎？Economy 不一樣：購物車裡，一年方案在第一年後會回到標價，從 US$ 83.88 變成 US$ 143.88。Starter 沒有首年折扣，續訂價同樣是 US$ 71.88。",
-        "Hostinger 優惠碼能用在續訂上嗎？不能：SONAR20 只適用於新購買。續訂請看 [Hostinger 續訂指南](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)。",
-        "可以把網站從 GoDaddy 搬到 Hostinger 嗎？Hostinger 的說明頁寫道，免費遷移涵蓋來自其他公司的 Web、Cloud 或 Agency 方案網站；取消舊方案前，請先向客服確認你的方案。"
+        "Hostinger 和 GoDaddy 哪個比較好？以美元計算，用 SONAR20 的 Hostinger Premium 在第一年、4 年和續訂時，都比 GoDaddy Economy 便宜。GoDaddy Starter 只在續訂時勝出，而且清單上沒有網域或電子郵件。更多判斷標準見[如何選擇網站主機](/zh-hant/reviews/choose-web-host-hostinger-zh-hant)。",
+        "GoDaddy 續訂價會一樣嗎？Economy 不一樣：購物車中，一年方案在第一年後會從 US$ 83.88 回到標價 US$ 143.88。Starter 沒有首年折扣，續訂價同樣是 US$ 71.88。",
+        "Hostinger 優惠碼能用在續訂上嗎？不能。SONAR20 只適用於新購買，續訂按原價計算。續訂請看 [Hostinger 續訂指南](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)。",
+        "Hostinger Premium 附網域嗎？附，一年免費，並包含每個網站 2 個信箱。一年過後，網域會自行續訂，價格以 Hostinger 當時的標價為準。",
+        "可以把網站從 GoDaddy 搬到 Hostinger 嗎？Hostinger 的說明頁寫道，免費遷移涵蓋來自其他公司的 Web、Cloud 或 Agency 方案網站。取消舊方案前，請先向客服確認你的方案。"
       ]
     },
     {
       "heading": "寫這篇文章的人",
       "paragraphs": [
-        "Em Casa com Cecília 運行在 Hostinger 的代管服務上，網域自2024年起就在 Hostinger 註冊。關於 GoDaddy，本文採用的是其國際站頁面與購物車中以美元顯示的內容。"
+        "Em Casa com Cecília 運行在 Hostinger 上，網域也註冊在 Hostinger。關於 GoDaddy，本文只採用其國際站頁面與購物車中以美元顯示的內容；編輯團隊沒有人用過這項服務。"
       ]
     }
   ],
@@ -256,11 +267,11 @@
   "decision": {
     "takeIf": [
       "網站要上線 4 年，選 Hostinger：用 SONAR20 的 Premium 一次購買就涵蓋這段時間。",
-      "想要入門方案就附網域和電子郵件，還有每週備份，選 Hostinger。"
+      "專案只做一年、需要網域和電子郵件，選 Hostinger Premium：這段期間它比 Economy 便宜，續訂也比較便宜。"
     ],
     "skipIf": [
-      "網站會用超過 4 年，又不需要網域和電子郵件，選 GoDaddy Starter：續訂較便宜。",
-      "想要網域、電子郵件和 SSL 都在列表中，並接受每年續訂約 US$144，就選 GoDaddy Economy。"
+      "網站會用超過 4 年，又不需要網域和電子郵件，選 GoDaddy Starter：續訂最便宜。",
+      "想要 cPanel，並接受首期、4 年和續訂都比 Premium 貴，就選 GoDaddy Economy。"
     ]
   }
 }
