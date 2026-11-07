@@ -1,7 +1,7 @@
 # Plano diretor: auditorias de copy dos artigos (ChatGPT + Gemini)
 
 Este plano junta as duas auditorias de copy dos artigos publicados num conjunto só de mudanças, já
-decidido e conferido. Quem implementa não arbitra nada: aplica os lotes, um PR por lote, e roda os gates.
+decidido e conferido. Quem implementa não arbitra nada: aplica os lotes, um commit por lote em 4 Macro-PRs, e roda os gates.
 
 ## De onde veio
 
@@ -67,36 +67,56 @@ cobriu os 638.
 
 ## Como implementar
 
-Um lote por PR, um PR por vez. Os lotes mexem no mesmo conjunto de arquivos, e a catraca anti-prontuário e
-o snippet só encolhem, então PRs em paralelo se atropelam.
+São 4 Macro-PRs (decisão do Bruno, 07/11), com um commit por lote, na ordem da seção "Ordem sugerida":
 
-Para cada lote:
+| Macro-PR | Lotes |
+|---|---|
+| M1 | L35, L24, L29, L31, L17 |
+| M2 | L18, L30, L19, L20, L15, L23 |
+| M3 | L14, L16, L21, L22, L25–L28, L32–L34 |
+| M4 | famílias L01–L13 |
 
-1. Partir da `main` atualizada: `git fetch origin` e um branch novo a partir de `origin/main`.
-2. Conferir: `python -I docs/auditoria-copy-artigos/plano-diretor/aplicar.py Lxx --check`.
-   - Sem erro: seguir para o passo 3.
+Um Macro-PR por vez: o seguinte só começa depois do merge do anterior, a partir da `main` nova. Os lotes
+mexem no mesmo conjunto de arquivos, e a catraca anti-prontuário e o snippet só encolhem, então PRs em
+paralelo se atropelam. Dentro do Macro-PR, os lotes também são aplicados em sequência, no mesmo worktree.
+
+No começo de cada Macro-PR, partir da `main` atualizada: `git fetch origin` e um branch novo a partir de
+`origin/main`. Depois, para cada lote:
+
+1. Conferir: `python -I docs/auditoria-copy-artigos/plano-diretor/aplicar.py Lxx --check`.
+   - Sem erro: seguir para o passo 2.
    - Com erro, a `main` mudou naquele trecho depois de 07/11. O script não grava nada no artigo com erro.
      Abra o artigo, leia o `motivo` da proposta e refaça só aquela unidade sobre o texto novo, com a mesma
      intenção. Depois atualize `antes` e `depois` no `Lxx.json` e rode o `--check` de novo.
-3. Aplicar: `python -I docs/auditoria-copy-artigos/plano-diretor/aplicar.py Lxx`.
+2. Aplicar: `python -I docs/auditoria-copy-artigos/plano-diretor/aplicar.py Lxx`.
    - O script grava com indentação de 2 espaços e mantém o fim de linha do arquivo.
    - A ordem dentro de cada artigo já está resolvida: replace, depois add e remove, e por último o
      `move-sections`. Seis artigos reordenam seções, listados na tabela.
-4. Regenerar os índices com `node scripts/content/build-index.mjs` e commitar o que mudar em
-   `src/lib/generated/` e em `public/search-index*.json`. Cinco propostas trocam `title`.
-5. Rodar os gates: `npm run typecheck`, `npm run validate:content`, `npm run test:review-i18n` e
+3. Regenerar os índices com `node scripts/content/build-index.mjs` e rodar `npm run validate:content`.
+   Nas famílias, rodar também o `npm run test:review-i18n`. Assim o erro fica preso ao lote que o causou.
+4. Commitar o lote com os índices que mudarem (`src/lib/generated/` e `public/search-index*.json`; cinco
+   propostas trocam `title`), com o lote na mensagem, por exemplo
+   "fix: copy dos artigos da Toda Up (auditoria, L35)".
+
+No fim do Macro-PR:
+
+1. Rodar os gates: `npm run typecheck`, `npm run validate:content`, `npm run test:review-i18n` e
    `npm run test:article-d2`. O build completo fica com o CI.
-6. Revisar o diff à mão, por amostragem: em cada artigo, ao menos um trecho de cada proposta
-   `aplicar_ajustada` ou `rebasear`.
-7. Abrir o PR com o lote no título, por exemplo "fix: copy dos artigos da Toda Up (auditoria, L35)". No
-   corpo, as contagens do lote e a lista de `ajustes_pos_gate`.
+2. Revisar o diff por amostragem: em cada artigo, ao menos um trecho de cada proposta `aplicar_ajustada`
+   ou `rebasear`.
+3. Abrir o PR com os lotes no título, por exemplo "fix: copy dos artigos, auditoria M1 (L35, L24, L29,
+   L31, L17)". No corpo, as contagens de cada lote e a lista de `ajustes_pos_gate`.
+4. Passar pela revisão do Fable, uma vez por Macro-PR.
+
+Modelos: a aplicação é do script. O Sonnet refaz os trechos que o `--check` apontar e faz a leitura do
+diff por amostragem; o Haiku pode rodar e resumir os gates.
 
 Regras para quem implementa:
 
 - **Não reabrir a arbitragem.** Se um texto decidido parecer errado, anote no PR e siga com o resto. Só não
   aplique uma unidade que fira uma regra do CLAUDE.md, e diga qual.
-- **Fora do escopo:** `/cupons/*`, imagens e capas (o plano é só de texto). Também não passa pelo Job 3 nem
-  pelo Fable, porque nenhum artigo é novo.
+- **Fora do escopo:** `/cupons/*`, imagens e capas (o plano é só de texto). Também não passa pelo Job 3,
+  porque nenhum artigo é novo.
 - **Famílias de 10 (L01–L13):** o lote traz as 10 versões juntas. Aplique o lote inteiro, nunca só uma parte
   dos idiomas: o `test:review-i18n` exige a mesma estrutura nas 10.
 
