@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "São marcas do mesmo grupo Supley, mas não vendem os mesmos potes. A Max tem mais proteína a cada 100 g de pó no concentrado e no 3W (80 g contra 75 g, no 3W). A Probiótica tem mais sabores e versão zero lactose, e a creatina de 300 g empata. Veja o veredito em Qual escolher."
+        "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W desta comparação, e a Probiótica trouxe mais sabores e uma versão zero lactose. Na creatina de 300 g, composição declarada e preço empataram; veja o veredito em Qual escolher."
       ]
     },
     {
@@ -410,7 +410,7 @@
     },
     {
       "heading": "Qual escolher",
-      "emphasis": "Pelos números da tabela, para quem decide por proteína a cada 100 g de pó a escolha é a Max: o concentrado (70 g contra 67 g) e o 3W (80 g contra 75 g) dela têm mais proteína. Para mais sabores, zero lactose ou sachês e cápsulas de creatina, a escolha é a Probiótica.",
+      "emphasis": "Pelos números da tabela, para quem decide por custo e proteína por 100 g, a escolha é a Max no concentrado e no 3W: ela tem menor custo por 100 g de proteína e mais proteína por 100 g de pó (70 g contra 67 g; 80 g contra 75 g). Para mais sabores, versão zero lactose ou creatina em sachês e cápsulas, a escolha é a Probiótica.",
       "emphasisAfterParagraph": 1,
       "paragraphs": [
         "O veredito por tipo de produto, com os números de cada capítulo acima."
@@ -419,7 +419,7 @@
         "**Creatina:** o pote de 300 g tem a mesma porção (5 g) e o mesmo preço nas duas lojas, R$ 59,90. A escolha fica no tamanho e no formato: a Max tem o pote de 500 g, com a dose mais barata das duas lojas; a Probiótica tem sachês e cápsulas.",
         "**Whey concentrado:** o 100% Whey da Max tem 21 g de proteína em 30 g e custa R$ 210,39. O 100% Pure Whey da Probiótica tem 20 g em 30 g e custa R$ 252,49, com 13 sabores contra 7 e uma versão zero lactose.",
         "**Whey isolado:** os dois têm 26 g em 30 g. O da Probiótica traz vitaminas e minerais na tabela e custa R$ 20,10 a mais.",
-        "**3W:** pelo mesmo preço cheio, o da Max tem 32 g de proteína em 40 g, e o da Probiótica, 24 g em 32 g; a cada 100 g de pó, são 80 g contra 75 g.",
+        "**3W:** pelo mesmo preço cheio (R$ 273,55), o Top Whey 3W + Performance da Max tem 32 g de proteína em 40 g e 720 g no pote; o 3 Whey Protein da Probiótica tem 24 g em 32 g e 675 g no pote. A cada 100 g de pó, são 80 g contra 75 g.",
         "**Blend e entrada:** os dois blends custam R$ 79,00 e têm tabelas quase iguais. Entre os wheys de entrada, a Hiper da Probiótica tem 23 g em 40 g, e o Whey Pro da Max, 15 g em 40 g."
       ]
     },
@@ -441,13 +441,13 @@
     {
       "heading": "Transparência",
       "paragraphs": [
-        "A Max Titanium e a Probiótica são parceiras comissionadas do site, e as duas são do mesmo grupo. Comprar pelos links ou com os códigos não muda o preço para você."
+        "A Max Titanium e a Probiótica são parceiras comissionadas do site e fazem parte do mesmo grupo. Podemos receber comissão pelas compras, sem custo adicional para você. O desconto aplicado é o que aparece no carrinho."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Você quer o concentrado ou o 3W com mais proteína por porção."
+      "Você compara o concentrado Baunilha ou os 3W pelo custo por 100 g de proteína."
     ],
     "skipIf": [
       "Você quer mais sabores, versão zero lactose ou creatina em sachês e cápsulas: aí é a Probiótica.",

@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida: Hórus ou Égide",
       "paragraphs": [
-        "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g é o mais barato por dose, porque rende 50 doses de 6 g. Quem não quer cafeína tem o Night Train, e os números e o fechamento estão abaixo."
+        "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g sai mais barato por dose, porque rende 50 doses de 6 g, contra cerca de 36 no Hórus. Quem não quer cafeína tem o Night Train."
       ]
     },
     {
@@ -103,10 +103,8 @@
     {
       "heading": "Hórus ou Égide: o que muda no rótulo",
       "paragraphs": [
-        "Cafeína: 150 mg no Hórus e 200 mg no Égide. A diferença é de 50 mg por dose, e o Égide chega a esse número numa dose menor.",
-        "Dose: 8,4 g no Hórus e 6 g no Égide. É essa diferença que muda o número de doses do pote de 300 g: cerca de 36 no Hórus e 50 no Égide.",
-        "Beta-alanina e arginina: iguais, 2.000 mg e 1.000 mg por dose nos dois. Taurina: 1.000 mg no Hórus e 1.200 mg no Égide. Tirosina: só o Égide tem, 263 mg por dose.",
-        "Carboidrato: 3,3 g no Hórus, com 1,8 g de açúcares adicionados, e 0,8 g no Égide, sem açúcares em quantidade significativa. Para quem olha o açúcar do rótulo, o Égide é a linha com menos."
+        "O Égide reúne mais cafeína em uma porção menor que a do Hórus. A diferença no tamanho da porção muda o rendimento: no pote de 300 g, são 50 porções no Égide e cerca de 36 no Hórus.",
+        "Beta-alanina e arginina têm as mesmas quantidades declaradas por porção; taurina e tirosina diferem, como mostra o quadro."
       ],
       "images": [
         {
@@ -222,7 +220,7 @@
         "Menos cafeína por dose: Hórus, com 150 mg. O Égide tem 200 mg.",
         "Menor preço por dose: Égide de 300 g, a R$ 2,20 (R$ 1,98 com o cupom no teto). O Hórus de 300 g sai a R$ 2,47 (R$ 2,22 com o cupom).",
         "Menor preço do pote: Hórus de 300 g, R$ 88,89, ou Hórus de 150 g, R$ 46,89, para começar com um pote pequeno.",
-        "Menos carboidrato e sem açúcar adicionado no rótulo: Égide, com 0,8 g de carboidrato por dose. O Hórus tem 3,3 g, com 1,8 g de açúcares adicionados.",
+        "Menos carboidrato por dose no rótulo: Égide, com 0,8 g, e açúcares em quantidade não significativa. O Hórus tem 3,3 g de carboidrato, com 1,8 g de açúcares adicionados.",
         "Sem cafeína: Night Train, a R$ 3,05 por dose.",
         "Cupom MAX10EMCASACOMCECILIA: até 10% na Max Titanium, com o percentual variando por produto. As condições estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
       ],
@@ -247,7 +245,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
+    "text": "Compare Hórus, Égide e Night Train na loja oficial da Max Titanium e aplique MAX10EMCASACOMCECILIA no carrinho. O desconto é de até 10% e pode variar por produto.",
     "label": "Ir para a Max Titanium",
     "url": "https://www.maxtitanium.com.br/",
     "sponsored": true
