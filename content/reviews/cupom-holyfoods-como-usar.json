@@ -43,7 +43,7 @@
     {
       "heading": "1. Monte o carrinho e clique em \"Finalizar compra\"",
       "paragraphs": [
-        "Escolha o que quer e abra o carrinho. O carrinho lateral mostra os itens, o aviso da promoção da loja e o frete, mas não tem campo de cupom. Clique em “Finalizar compra” para chegar à tela em que o código é digitado.",
+        "Escolha o que quer e abra o carrinho. O carrinho lateral mostra os itens, o aviso da promoção da loja e o frete, mas não tem campo de cupom. O código é digitado na tela seguinte.",
         "Clique em \"Finalizar compra\". O endereço muda para seguro.holyfoods.com.br, e é assim mesmo: o checkout é da própria loja, com o mesmo carrinho."
       ]
     },

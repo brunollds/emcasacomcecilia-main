@@ -211,7 +211,7 @@
   "decision": {
     "takeIf": [
       "Você quer comprar de uma empresa com CNPJ ativo, site e checkout próprios e política de reembolso escrita.",
-      "Você quer avaliar a compra com a garantia comercial de trinta dias e consegue manter as demais unidades fechadas enquanto prova uma.",
+      "Você quer avaliar a compra com a garantia de satisfação de 30 dias e consegue manter as demais unidades fechadas enquanto prova uma.",
       "Você pode esperar o prazo de preparo e transporte que o checkout calcula pelo CEP."
     ],
     "skipIf": [
