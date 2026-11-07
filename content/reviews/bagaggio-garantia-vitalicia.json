@@ -17,6 +17,7 @@
   "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. A garantia vitalícia vale só para malas da marca: o que cobre, o que não cobre, o passo a passo e o dano no voo.",
   "publishedAt": "22 de outubro de 2026",
   "publishedAtISO": "2026-10-22",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/bagaggio/bagaggio-garantia-vitalicia-capa.webp",
@@ -26,14 +27,14 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta ou os 90 dias do Código de Defesa do Consumidor. Veja abaixo quem tem direito e como acionar."
+        "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta, além da garantia legal do Código de Defesa do Consumidor. Veja abaixo quem tem direito e como acionar."
       ]
     },
     {
       "heading": "Mochila tem garantia vitalícia?",
       "paragraphs": [
         "A resposta é não. A página oficial diz que a garantia vitalícia se aplica exclusivamente às malas da marca Bagaggio. As outras marcas que a página cita, como Travelcross e Swiss One, ficam de fora e seguem a garantia própria de cada fabricante.",
-        "Mochilas, bolsas e carteiras não entram na vitalícia, mesmo quando são da marca. Elas seguem a garantia da etiqueta ou, sem prazo na etiqueta, a garantia legal de 90 dias, contada a partir da compra ou da entrega."
+        "Mochilas, bolsas e carteiras não entram na vitalícia, mesmo quando são da marca. Elas seguem a garantia da etiqueta, que é a garantia da loja, e a garantia legal do Código de Defesa do Consumidor, que existe mesmo sem prazo na etiqueta: para produto durável, são 90 dias, contados da entrega, para reclamar de defeito aparente."
       ],
       "image": {
         "src": "/images/reviews/bagaggio/bf-mochila-floral-camelia.webp",
@@ -152,7 +153,7 @@
           [
             "Prazo",
             "Não expira",
-            "Prazo da etiqueta; sem prazo na etiqueta, 90 dias"
+            "Prazo da etiqueta, além da garantia legal do CDC"
           ],
           [
             "O que cobre",
@@ -194,13 +195,13 @@
       ],
       "bullets": [
         "Antes de despachar, fotografe a mala no estado em que ela está.",
-        "Ao desembarcar, inspecione a mala ainda no aeroporto, antes de sair da área de bagagens.",
-        "Se encontrar dano, faça a reclamação formal no balcão da companhia aérea, ainda no aeroporto. O registro, geralmente o RIB ou PIR, é o documento que garante o seu direito.",
+        "Ao desembarcar, inspecione a mala ainda no aeroporto, de preferência antes de sair da área de bagagens.",
+        "Se encontrar dano, faça a reclamação formal no balcão da companhia aérea, ainda no aeroporto. O registro, geralmente o RIB ou PIR, é o documento que comprova o problema.",
         "Guarde o comprovante de despacho, o cartão de embarque e as fotos."
       ],
       "postParagraphs": [
-        "A página cita três normas: a Resolução ANAC 400/2016, cujo art. 32 trata da bagagem avariada; a Convenção de Montreal, que a página diz valer para voos internacionais; e o Código de Defesa do Consumidor. Os prazos estão nas normas: confirme-os no site da [ANAC](https://www.gov.br/anac) antes de reclamar.",
-        "Esta seção é informativa e não substitui orientação jurídica."
+        "A página cita três normas: a Resolução ANAC 400/2016, cujo art. 32 trata da bagagem avariada; a Convenção de Montreal, que a página diz valer para voos internacionais; e o Código de Defesa do Consumidor. Os prazos estão nas normas e no site da [ANAC](https://www.gov.br/anac); o que vale para o dano percebido depois está abaixo.",
+        "Se só perceber o dano depois de sair do aeroporto, ainda dá para reclamar: comunique a companhia por escrito em até sete dias depois de receber a bagagem. O registro não garante indenização automática."
       ],
       "image": {
         "src": "/images/reviews/bagaggio/bagaggio-route-preta-ambiente.webp",
@@ -258,9 +259,9 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A mochila Bagaggio tem garantia vitalícia? Não, pelo texto da loja. A garantia vitalícia vale só para malas da marca Bagaggio. Mochila e bolsa seguem a garantia da etiqueta ou, sem prazo, 90 dias.",
+        "A mochila Bagaggio tem garantia vitalícia? Não, pelo texto da loja. A garantia vitalícia vale só para malas da marca Bagaggio. Mochila e bolsa seguem a garantia da etiqueta, além da garantia legal do Código de Defesa do Consumidor.",
         "A garantia vitalícia Bagaggio vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas depois do início do programa. Travelcross e Swiss One seguem a garantia do fabricante.",
-        "A garantia cobre dano causado pela companhia aérea? Não. A página diz que o dano no voo é responsabilidade da companhia, e orienta a registrar a reclamação no balcão, com o RIB ou PIR.",
+        "A garantia cobre dano causado pela companhia aérea? Não. A página diz que o dano no voo é responsabilidade da companhia, e orienta a registrar a reclamação no balcão, com o RIB ou PIR. Se o dano só aparecer depois, comunique a companhia por escrito em até sete dias após receber a bagagem.",
         "Como acionar a garantia da Bagaggio? Na compra online, pelo Troque Fácil, com o número do pedido e o CPF. Na compra em loja física, na loja da compra ou pelo e-mail atendimento@bagaggio.com.br.",
         "A garantia vale se eu estiver fora do Brasil? Não. Ela é restrita ao território brasileiro, e o acionamento só começa depois do retorno ao país.",
         "Posso passar a garantia para outra pessoa? Não. A garantia vale só para o comprador original e não é transferível.",

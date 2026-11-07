@@ -17,6 +17,7 @@
   "metaDescription": "O cupom CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep. Travesseiro I Wanna Sleep ou Ortobom: material, altura, lavagem, teste em casa e garantia.",
   "publishedAt": "16 de outubro de 2026",
   "publishedAtISO": "2026-10-16",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
@@ -27,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Depende do que pesa mais para você: para gastar menos, a Ortobom tem os travesseiros mais baratos; para testar em casa e ter látex natural, a I Wanna Sleep. Altura e firmeza também mudam a escolha, então veja nos capítulos abaixo o que cada marca declara e, no fim, o capítulo Qual escolher."
+        "Depende do que pesa mais para você. Entre os modelos comparados, a Ortobom tem os travesseiros mais baratos, mas os materiais nem sempre se equivalem; para testar em casa e ter látex natural, a I Wanna Sleep. Altura e firmeza declaradas por cada marca também mudam a escolha."
       ]
     },
     {
@@ -43,7 +44,7 @@
     {
       "heading": "Par a par por material",
       "paragraphs": [
-        "A Ortobom ganha no preço; a I Wanna Sleep, no ajuste e no látex natural. Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido."
+        "Nos modelos da tabela, a Ortobom tem os preços menores, mas nem sempre o material é o mesmo (a Pluma de Ganso da Ortobom é 100% pluma de ganso; o Pena e Pluma da I Wanna Sleep tem 20% de pluma e 80% de pena). A I Wanna Sleep ganha no ajuste e no látex natural. Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido."
       ],
       "comparisonTable": {
         "caption": "Dados dos sites oficiais em 16/10/2026, sem códigos de desconto. Preços da Ortobom com São Paulo (capital) como cidade.",
@@ -273,7 +274,7 @@
       "heading": "Qual escolher",
       "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura ajustável até 18 cm resolve para quem não sabe a altura.",
       "bullets": [
-        "**Para gastar menos:** Ortobom. Viscopur a R$ 169; Royal Pillow e Conforto Regulável a R$ 159. Todos com 90 dias de garantia e sem teste em casa informado.",
+        "**Para gastar menos nos modelos comparados:** Ortobom. Viscopur a R$ 169; Royal Pillow e Conforto Regulável a R$ 159. Todos com 90 dias de garantia e sem teste em casa informado.",
         "**Para testar em casa:** I Wanna Sleep, com 30 dias de teste e crédito para troca.",
         "**Para látex natural:** o Original Látex da I Wanna Sleep. O Pró Látex da Ortobom tem enchimento de espuma de alta resiliência 100% poliuretano, diz a página.",
         "**Para acertar a altura:** o Snow da I Wanna Sleep, ajustável até 18 cm, ou um dos reguláveis da Ortobom, com duas alturas.",
@@ -283,7 +284,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "I Wanna Sleep ou Ortobom: qual escolher? Para gastar menos, a Ortobom; para testar em casa e ter látex natural, a I Wanna Sleep.",
+        "I Wanna Sleep ou Ortobom: qual escolher? Entre os modelos comparados, para gastar menos, a Ortobom; para testar em casa e ter látex natural, a I Wanna Sleep.",
         "Travesseiro Ortobom é bom? A marca informa a firmeza de cada modelo e 90 dias de garantia, sem teste em casa nas páginas.",
         "Travesseiro I Wanna Sleep é bom? A marca dá 30 dias de teste, com crédito para troca se você não se adaptar.",
         "O Pró Látex da Ortobom é de látex? A ficha descreve espuma de alta resiliência 100% poliuretano, com \"Material: Látex\" no campo de material.",
@@ -306,7 +307,7 @@
   "affiliate": "i-wanna-sleep",
   "decision": {
     "takeIf": ["Você quer testar o travesseiro em casa, com 30 dias e crédito para troca.", "Você quer látex natural."],
-    "skipIf": ["Você quer gastar menos: a Ortobom tem os travesseiros mais baratos, com 90 dias de garantia e sem teste em casa informado.", "Você procura um modelo que a marca indique para quem dorme de costas ou de bruços: o Viscopur, da Ortobom.", "Você procura Nápoles, Amore ou Soneca: não estão no catálogo online da Ortobom."]
+    "skipIf": ["Você quer gastar menos: entre os modelos comparados, a Ortobom tem os mais baratos, com 90 dias de garantia e sem teste em casa informado.", "Você procura um modelo que a marca indique para quem dorme de costas ou de bruços: o Viscopur, da Ortobom.", "Você procura Nápoles, Amore ou Soneca: não estão no catálogo online da Ortobom."]
   },
   "editorialNote": "Podemos receber comissão pela I Wanna Sleep, a única parceira comissionada deste artigo. A Ortobom não é parceira: não há link comissionado nem código nosso para ela. Não testamos nenhum dos travesseiros; as contas e comparações são nossas, sobre o que os sites oficiais informam.",
   "relatedArticles": [

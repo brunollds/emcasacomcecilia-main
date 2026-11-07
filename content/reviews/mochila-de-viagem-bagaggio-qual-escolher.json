@@ -18,6 +18,7 @@
   "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale: medida, litros e qual vai como item pessoal no avião.",
   "publishedAt": "31 de outubro de 2026",
   "publishedAtISO": "2026-10-31",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
@@ -209,7 +210,7 @@
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
-        "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive em produto com preço riscado, como a Explore e a Voyage. Vale um cupom por pedido, e a promoção de 50% na 2ª peça é outro cupom, que não soma com ele. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste no carrinho, numa mala avulsa.",
+        "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive em produto com preço riscado, como a Explore e a Voyage. Vale um cupom por pedido, e a promoção de 50% na 2ª peça de outubro usava outro cupom, que não somava com ele. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste no carrinho, numa mala avulsa.",
         "Não testamos o cupom no carrinho de uma mochila, por isso não publicamos o valor final de nenhuma delas. Confira o desconto no resumo do pedido antes de pagar. A regra está na página do [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
       ]
     },
@@ -220,7 +221,7 @@
       ],
       "bullets": [
         "Só com a mochila, sem pagar bagagem: Explore fechada (33 litros, R$ 299,90) ou Vacuum Airtrack (28,1 litros, R$ 499,90). A Explore leva mais e custa menos; a Airtrack comprime a roupa, mas só com a bomba, que sobe o gasto para R$ 574,85 no kit.",
-        "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90, e fechada ainda cabe no compartimento de cima.",
+        "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90. Expandida, ela passa dos 25 cm de profundidade da mala pequena; meça carregada e confira a companhia e a tarifa. Fechada, cabe no compartimento de cima.",
         "Trabalho e viagem curta, com notebook de até 15,6 polegadas: Donna Grande, R$ 299,90, lembrando que ela só entra como mala pequena.",
         "Quer a nécessaire junto: kit Royale, R$ 449,80, com 20 litros na mochila e medida de item pessoal."
       ],
@@ -284,7 +285,7 @@
   "decision": {
     "takeIf": [
       "Quem quer voar só com a mochila, sem pagar bagagem: a Explore fechada ou a Vacuum Airtrack, na medida do item pessoal.",
-      "Quem faz viagem mais longa com a mala pequena incluída: a Voyage, que chega a 54 litros expandida.",
+      "Quem faz viagem mais longa com a mala pequena incluída: a Voyage, que chega a 54 litros expandida, mas, nessa configuração, passa dos 25 cm de profundidade da mala pequena. Meça carregada e confira a companhia e a tarifa.",
       "Quem precisa de trabalho e viagem curta com notebook de até 15,6 polegadas: a Donna Grande."
     ],
     "skipIf": [

@@ -16,6 +16,7 @@
   },
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "description": "Comfort Up, Comfort Line ou Comfort Slim, da Toda Up: os tamanhos de cada um, a tabela de busto da loja, o que a página diz de cada modelo e o preço.",
@@ -56,7 +57,7 @@
     {
       "heading": "Os três lado a lado",
       "paragraphs": [
-        "Os três custam o mesmo e a diferença é a faixa de tamanho, com estoque, cores e preço na tabela. O nome do modelo leva à página dele."
+        "Os três custam o mesmo e a diferença é a faixa de tamanho, com estoque, cores e preço na tabela, de 30/10/2026. O nome do modelo leva à página dele. Estoque e preço mudam: confira na loja."
       ],
       "comparisonTable": {
         "headers": [
@@ -266,7 +267,7 @@
     {
       "heading": "Preço, cupom e frete",
       "paragraphs": [
-        "Os três custam R$ 189,90 no cartão, de R$ 199,90.",
+        "Os três custavam R$ 189,90 no cartão, de R$ 199,90; o preço muda com a campanha, então confira na página de cada um.",
         "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive em produto que já está com desconto. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Para ver todos os cupons da loja, veja [o cupom da Toda Up](/cupons/toda-up).",
         "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas."
       ]
@@ -350,7 +351,7 @@
         "O Comfort Line serve em tomara que caia? Segundo a página, dá para usar assim ou combinar as alças. Antes de escolher, confira o busto na tabela.",
         "O cupom da Toda Up vale nos três modelos? Vale, porque o cupom é do site inteiro e dá 10% no carrinho. A campanha da loja pode entrar antes, então confira o total.",
         "De que é feito o tecido? Segundo o FAQ da loja, 76,6% é poliamida e 23,5% é elastano.",
-        "O Comfort Slim tem PP e M? Tem, mas com estoque mais curto: 3 de 5 variantes em cada um."
+        "O Comfort Slim tem PP e M? Tem, mas com estoque mais curto na tabela: 3 de 5 variantes em cada um."
       ]
     }
   ],
