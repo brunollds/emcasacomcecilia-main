@@ -113321,7 +113321,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Scegli OpenClaw se vuoi molti canali di messaggistica e app native per telefono e computer, e Hermes Agent se vuoi un agente che impara dall'uso. Il software è gratuito in entrambi, e il piano gestito di Hostinger va bene per tutti e due. Ciò che conta è cosa farà l'agente; guarda i profili qui sotto."
+          "Scegli OpenClaw se vuoi molti canali di messaggistica e app native per telefono e computer, e Hermes Agent se vuoi un agente che impara dall'uso. Il software è gratuito in entrambi, e il piano gestito di Hostinger va bene per tutti e due. Con il codice SONAR20 hai il 20% di sconto sull'acquisto nuovo, non su rinnovi né domini."
         ]
       },
       {
@@ -113607,7 +113607,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Elige OpenClaw si quieres muchos canales de mensajería y aplicaciones nativas para móvil y ordenador, y Hermes Agent si quieres un agente que aprende con el uso. El software es gratis en los dos, y el plan gestionado de Hostinger sirve para ambos. Lo que pesa es lo que el agente va a hacer; mira los perfiles más abajo."
+          "Elige OpenClaw si quieres muchos canales de mensajería y aplicaciones nativas para móvil y ordenador, y Hermes Agent si quieres un agente que aprende con el uso. El software es gratis en los dos, y el plan gestionado de Hostinger sirve para ambos. Con el código SONAR20 tienes un 20% de descuento en compra nueva, no en renovaciones ni dominios."
         ]
       },
       {
@@ -113891,7 +113891,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Wählen Sie OpenClaw, wenn Sie viele Nachrichtenkanäle und native Apps für Handy und Computer wollen, und Hermes Agent, wenn Sie einen Agenten wollen, der aus der Nutzung lernt. Die Software ist bei beiden kostenlos, und der verwaltete Tarif von Hostinger passt zu beiden. Entscheidend ist, was der Agent tun soll; sehen Sie sich unten die Profile an."
+          "Wählen Sie OpenClaw, wenn Sie viele Nachrichtenkanäle und native Apps für Handy und Computer wollen, und Hermes Agent, wenn Sie einen Agenten wollen, der aus der Nutzung lernt. Die Software ist bei beiden kostenlos, und der verwaltete Tarif von Hostinger passt zu beiden. Mit dem Code SONAR20 gibt es 20 % Rabatt auf Neukäufe, nicht auf Verlängerungen oder Domains."
         ]
       },
       {
@@ -114177,7 +114177,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Choisissez OpenClaw si vous voulez beaucoup de canaux de messagerie et des applications natives pour le téléphone et l'ordinateur, et Hermes Agent si vous voulez un agent qui apprend en s'utilisant. Le logiciel est gratuit pour les deux, et l'offre gérée d'Hostinger convient à l'un comme à l'autre. Ce qui compte, c'est ce que l'agent va faire ; voyez les profils plus bas."
+          "Choisissez OpenClaw si vous voulez beaucoup de canaux de messagerie et des applications natives pour le téléphone et l'ordinateur, et Hermes Agent si vous voulez un agent qui apprend à l'usage. Le logiciel est gratuit pour les deux, et l'offre gérée d'Hostinger convient aux deux. Code SONAR20 : 20 % sur un nouvel achat, hors renouvellement et domaines."
         ]
       },
       {
@@ -114461,7 +114461,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o OpenClaw se quer muitos canais de mensagem e aplicativos nativos para celular e computador, e o Hermes Agent se quer um agente que aprende com o uso. O software é grátis nos dois, e o plano gerenciado da Hostinger serve a ambos. O que pesa é o que o agente vai fazer; veja os perfis abaixo."
+          "Escolha o OpenClaw se quer muitos canais de mensagem e aplicativos nativos para celular e computador, e o Hermes Agent se quer um agente que aprende com o uso. O software é grátis nos dois, e o plano gerenciado da Hostinger serve a ambos. O SONAR20 dá 20% na compra nova, fora renovação e domínio."
         ]
       },
       {
@@ -114764,7 +114764,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "メッセージのチャンネルが多く、スマートフォンとパソコンのネイティブアプリもほしいなら OpenClaw、使うほど学習していくエージェントがほしいなら Hermes Agent を選んでください。ソフトウェアはどちらも無料で、Hostinger のマネージドプランはどちらにも使えます。決め手はエージェントに何をさせたいかです。下のタイプ別の案内を見てください。"
+          "メッセージのチャンネルが多く、スマートフォンとパソコンのネイティブアプリもほしいなら OpenClaw、使うほど学習していくエージェントがほしいなら Hermes Agent を選んでください。ソフトウェアはどちらも無料で、Hostinger のマネージドプランはどちらにも使えます。新規購入ならコード SONAR20 で 20% 割引ですが、更新とドメインは対象外です。"
         ]
       },
       {
@@ -115048,7 +115048,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "메시지 채널이 많고 휴대폰과 컴퓨터용 네이티브 앱도 원한다면 OpenClaw, 쓸수록 배우는 에이전트를 원한다면 Hermes Agent를 고르세요. 소프트웨어는 둘 다 무료이고, 호스팅어의 관리형 플랜은 둘 모두에 쓸 수 있습니다. 결정적인 것은 에이전트에게 무엇을 시킬지입니다. 아래의 유형별 안내를 보세요."
+          "메시지 채널이 많고 휴대폰과 컴퓨터용 네이티브 앱도 원한다면 OpenClaw, 쓸수록 배우는 에이전트를 원한다면 Hermes Agent를 고르세요. 소프트웨어는 둘 다 무료이고, 호스팅어의 관리형 플랜은 둘 모두에 쓸 수 있습니다. 신규 구매라면 코드 SONAR20으로 20% 할인되며, 갱신과 도메인은 제외입니다."
         ]
       },
       {
@@ -115334,7 +115334,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想要很多消息渠道，还要手机和电脑的原生应用，就选 OpenClaw；想要越用越会学习的智能体，就选 Hermes Agent。两者的软件都是免费的，Hostinger 的托管方案对两者都适用。关键是你想让智能体做什么，请看下面按需求划分的建议。"
+          "想要很多消息渠道，还要手机和电脑的原生应用，就选 OpenClaw；想要越用越会学习的智能体，就选 Hermes Agent。两者的软件都是免费的，Hostinger 的托管方案对两者都适用。新购时使用代码 SONAR20 可享 20% 折扣，续费和域名除外。"
         ]
       },
       {
@@ -115619,7 +115619,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想要很多訊息管道，還要手機和電腦的原生應用程式，就選 OpenClaw；想要越用越會學習的代理，就選 Hermes Agent。兩者的軟體都是免費的，Hostinger 的託管方案兩者都能用。關鍵在於你想讓代理做什麼，請看下面依需求分類的建議。"
+          "想要很多訊息管道，還要手機和電腦的原生應用程式，就選 OpenClaw；想要越用越會學習的代理，就選 Hermes Agent。兩者的軟體都是免費的，Hostinger 的託管方案兩者都能用。新購時使用代碼 SONAR20 可享 20% 折扣，續約和網域除外。"
         ]
       },
       {
@@ -115904,7 +115904,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Choose OpenClaw if you want many messaging channels and native apps for phone and computer, and Hermes Agent if you want an agent that learns from use. The software is free for both, and Hostinger's managed plan serves either. What matters is what the agent will do; see the profiles below."
+          "Choose OpenClaw if you want many messaging channels and native apps for phone and computer, and Hermes Agent if you want an agent that learns from use. The software is free for both, and Hostinger's managed plan serves either. With the code SONAR20, a new purchase gets 20% off, but renewals and domains do not."
         ]
       },
       {
