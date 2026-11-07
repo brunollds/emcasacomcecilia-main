@@ -29496,7 +29496,7 @@ export const reviewsData: unknown[] = [
       "Ensina a diferenciar Coupon Code de Reward Code para não ter erros no checkout",
       "Explica o empilhamento (stacking) para somar cupom do mês com o CECILIA010",
       "Mostra como economizar até 5% extra com o código de influenciadora oficial",
-      "Lista fontes oficiais de cupons da YesStyle para evitar códigos falsos ou expirados",
+      "Mostra onde achar os cupons da YesStyle em vigor para evitar códigos falsos ou expirados",
       "Direciona para a página atualizada do Em Casa com Cecília com a lista de cupons conferida"
     ],
     "cons": [
@@ -30611,7 +30611,7 @@ export const reviewsData: unknown[] = [
     "imageAlt": "밝은 테이블 위에 놓인 YesStyle의 K-beauty·한국 스킨케어 제품.",
     "pros": [
       "적격 프로모션 쿠폰에 최대 5%가 더해지는 인플루언서 코드",
-      "첫 구매(5% 추가)는 물론 기존 계정의 재구매(2% 추가)에도 계속 적용 가능",
+      "첫 구매(5% 추가)에도, 재구매(2% 추가)에도 적용 가능",
       "일정 금액 이상 무료 배송(최소 금액은 결제 화면에 표시)",
       "K-Beauty, 한국 패션, J-Beauty까지 폭넓은 카탈로그",
       "YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체라고 밝힙니다",
@@ -30840,7 +30840,7 @@ export const reviewsData: unknown[] = [
     "imageAlt": "YesStyleのK-beautyと韓国スキンケア商品が明るいテーブルに並んでいる様子。",
     "pros": [
       "対象のプロモーションクーポンに加えて、最大5%が上乗せされるインフルエンサーコード",
-      "初回購入（5%オフ）だけでなく、既存アカウントのリピート注文（2%オフ）にも継続して適用可能",
+      "初回購入（5%追加）にも、リピート注文（2%追加）にも使える",
       "一定額以上で送料無料(最低金額はチェックアウトに表示)",
       "K-Beauty、韓国ファッション、J-Beautyの豊富なラインナップ",
       "YesStyleは400以上の韓国コスメブランドの正規販売店だと述べています",
@@ -31069,7 +31069,7 @@ export const reviewsData: unknown[] = [
     "imageAlt": "擺在淺色桌面上的 YesStyle 韓系美妝與韓式保養產品。",
     "pros": [
       "網紅代碼，可在符合資格的促銷優惠券之外再疊加高達 5% 的優惠",
-      "首購（額外 5%）與現有帳號的回購訂單（額外 2%）皆可持續適用",
+      "首購（額外 5%）和回購訂單（額外 2%）皆可適用",
       "滿一定金額即享免運費，門檻會顯示在結帳頁",
       "商品豐富：韓系美妝、韓國服飾與日系美妝",
       "YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商",
@@ -31298,7 +31298,7 @@ export const reviewsData: unknown[] = [
     "imageAlt": "摆在浅色桌面上的 YesStyle 韩系美妆与韩式护肤产品。",
     "pros": [
       "达人代码，可在符合条件的促销优惠券之外再叠加高达 5% 的优惠",
-      "首单（额外 5%）与现有账户的回购订单（额外 2%）均可持续适用",
+      "首单（额外 5%）和回购订单（额外 2%）均可适用",
       "满一定金额即可免运费，门槛会在结账页显示",
       "商品丰富：韩系美妆、韩国时装和日系美妆",
       "YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商",
@@ -36854,7 +36854,7 @@ export const reviewsData: unknown[] = [
       "Teaches you to tell a Coupon Code from a Reward Code so you avoid checkout mistakes",
       "Explains stacking: adding the month's coupon on top of CECILIA010",
       "Shows how to save up to 5% extra with the official influencer code",
-      "Lists the official sources for YesStyle coupons so you avoid fake or expired codes",
+      "Shows where to find YesStyle's live coupons so you avoid fake or expired codes",
       "Points you to the updated Em Casa com Cecília page with the checked coupon list"
     ],
     "cons": [
@@ -37073,7 +37073,7 @@ export const reviewsData: unknown[] = [
       "Enseña a distinguir el Coupon Code del Reward Code para evitar errores en el checkout",
       "Explica cómo acumular el cupón del mes con CECILIA010",
       "Muestra cómo ahorrar hasta un 5% extra con el código oficial de influencer",
-      "Enumera las fuentes oficiales de cupones de YesStyle para evitar códigos falsos o caducados",
+      "Muestra dónde encontrar los cupones vigentes de YesStyle para evitar códigos falsos o caducados",
       "Te lleva a la página actualizada de Em Casa com Cecília con la lista de cupones comprobada"
     ],
     "cons": [
@@ -37292,7 +37292,7 @@ export const reviewsData: unknown[] = [
       "Apprend à distinguer le Coupon Code du Reward Code pour éviter les erreurs au paiement",
       "Explique le cumul : ajouter le coupon du mois à CECILIA010",
       "Montre comment économiser jusqu'à 5 % de plus avec le code officiel d'influenceuse",
-      "Liste les sources officielles de coupons YesStyle pour éviter les codes faux ou périmés",
+      "Indique où trouver les coupons YesStyle en cours pour éviter les codes faux ou périmés",
       "Renvoie à la page à jour d'Em Casa com Cecília, avec la liste de coupons vérifiée"
     ],
     "cons": [
@@ -37511,7 +37511,7 @@ export const reviewsData: unknown[] = [
       "Zeigt, wie Sie Coupon Code und Reward Code auseinanderhalten, um Fehler an der Kasse zu vermeiden",
       "Erklärt das Kombinieren: den Gutschein des Monats zusammen mit CECILIA010 nutzen",
       "Zeigt, wie Sie mit dem offiziellen Influencer-Code bis zu 5 % extra sparen",
-      "Nennt die offiziellen Quellen für YesStyle-Gutscheine, damit Sie gefälschte oder abgelaufene Codes vermeiden",
+      "Zeigt, wo Sie die aktuellen YesStyle-Gutscheine finden, damit Sie gefälschte oder abgelaufene Codes vermeiden",
       "Führt zur aktuellen Seite von Em Casa com Cecília mit der geprüften Gutscheinliste"
     ],
     "cons": [
@@ -37730,7 +37730,7 @@ export const reviewsData: unknown[] = [
       "결제 단계에서 실수하지 않도록 Coupon Code와 Reward Code의 차이를 알려 줍니다",
       "이달의 쿠폰과 CECILIA010을 함께 쓰는 중복 적용(스태킹) 방법을 설명합니다",
       "공식 인플루언서 코드로 최대 5%를 더 절약하는 방법을 보여 줍니다",
-      "가짜이거나 만료된 코드를 피하도록 YesStyle 쿠폰의 공식 출처를 정리했습니다",
+      "가짜이거나 만료된 코드를 피하도록 진행 중인 YesStyle 쿠폰을 찾는 곳을 정리했습니다",
       "확인을 마친 쿠폰 목록이 있는 Em Casa com Cecília 최신 페이지로 안내합니다"
     ],
     "cons": [
@@ -37949,7 +37949,7 @@ export const reviewsData: unknown[] = [
       "決済画面でのミスを防ぐために、Coupon CodeとReward Codeの違いがわかる",
       "今月のクーポンとCECILIA010を重ねる併用（スタッキング）の仕組みがわかる",
       "公式のインフルエンサーコードで最大5%を追加で節約する方法がわかる",
-      "偽物や期限切れのコードを避けられるよう、YesStyleクーポンの公式な入手先を紹介",
+      "偽物や期限切れのコードを避けられるよう、開催中のYesStyleクーポンの探し方を紹介",
       "Em Casa com Cecíliaの最新ページで、確認済みのクーポン一覧に進める"
     ],
     "cons": [
@@ -38168,7 +38168,7 @@ export const reviewsData: unknown[] = [
       "說明 Coupon Code 與 Reward Code 的差別，避免結帳時填錯",
       "解釋疊加（stacking）方式：當月優惠碼可以和 CECILIA010 一起用",
       "教你用官方網紅代碼額外省下高達 5%",
-      "列出 YesStyle 優惠碼的官方來源，避開假碼和過期碼",
+      "說明哪裡找得到目前有效的 YesStyle 優惠碼，避開假碼和過期碼",
       "帶你前往 Em Casa com Cecília 的最新頁面，那裡有核對過的優惠碼清單"
     ],
     "cons": [
@@ -38387,7 +38387,7 @@ export const reviewsData: unknown[] = [
       "讲清 Coupon Code 与 Reward Code 的区别，避免结账时填错",
       "说明叠加（stacking）方式：当月优惠码可以和 CECILIA010 一起用",
       "教你用官方网红代码额外省下高达 5%",
-      "列出 YesStyle 优惠码的官方来源，避开假码和过期码",
+      "说明去哪里找当前有效的 YesStyle 优惠码，避开假码和过期码",
       "指向 Em Casa com Cecília 的最新页面，那里有核对过的优惠码列表"
     ],
     "cons": [
@@ -49301,7 +49301,7 @@ export const reviewsData: unknown[] = [
       "Insegna a distinguere il Coupon Code dal Reward Code per evitare errori al checkout",
       "Spiega come sommare il coupon del mese a CECILIA010",
       "Mostra come risparmiare fino al 5% in più con il codice influencer ufficiale",
-      "Elenca le fonti ufficiali dei coupon YesStyle per evitare codici falsi o scaduti",
+      "Indica dove trovare i coupon YesStyle in corso per evitare codici falsi o scaduti",
       "Porta alla pagina aggiornata di Em Casa com Cecília con l'elenco dei coupon verificato"
     ],
     "cons": [
@@ -57881,7 +57881,7 @@ export const reviewsData: unknown[] = [
         "heading": "Après le Black Friday : Noël",
         "paragraphs": [
           "En 2024, le plus gros coupon de fin d'année n'a pas été celui du Black Friday : la semaine de Noël, YesStyle a offert 18 % sans minimum sur tout. En 2025, les coupons ouverts à tous les membres sont restés à 15 % jusqu'à la fin de l'année.",
-          "Pour un cadeau de Noël, comparez le délai estimé au paiement avec la date à laquelle vous devez recevoir la commande. Vérifiez aussi la disponibilité des articles."
+          "Pour un cadeau de Noël, comparez le délai estimé à la page de paiement avec la date à laquelle vous devez recevoir la commande. Vérifiez aussi la disponibilité des articles."
         ]
       },
       {
@@ -59613,7 +59613,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou página da Black Friday; pelo histórico, as ofertas principais entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa na busca do app, sem promessa de desconto fixo."
+          "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou a página da Black Friday; pelo histórico, as ofertas principais entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa na busca do app, sem promessa de desconto fixo."
         ]
       },
       {
@@ -59853,7 +59853,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Black Friday 2026 falls on November 27. In early November, SHEIN focuses promotions on its 11.11 sale before rolling out official Black Friday campaign pages; historically, major Black Friday deals launch after 11.11 and run through month-end. 4CW5Y is a referral code: you search for it in the search bar of the SHEIN app, with no fixed discount promised."
+          "Black Friday 2026 falls on November 27. In early November, SHEIN focuses promotions on its 11.11 sale and has not yet published a Black Friday page; historically, major Black Friday deals launch after 11.11 and run through month-end. 4CW5Y is a referral code: you search for it in the search bar of the SHEIN app, with no fixed discount promised."
         ]
       },
       {
@@ -60169,7 +60169,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday 2026 tombe le 27 novembre. Début novembre, SHEIN est en pleine promo 11.11 et n'a pas encore publié la page du Black Friday; d'après l'historique, les offres principales arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y est un code de parrainage : on le cherche dans l'appli, sans promesse de remise."
+          "Le Black Friday 2026 tombe le 27 novembre. Début novembre, SHEIN est en pleine promo 11.11 et n'a pas encore publié la page du Black Friday ; d'après l'historique, les offres principales arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y est un code de parrainage : on le cherche dans l'appli, sans promesse de remise."
         ]
       },
       {
@@ -60327,7 +60327,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der Black Friday 2026 fällt auf den 27. November. Anfang November konzentriert SHEIN seine Aktionen auf den 11.11, bevor offizielle Black-Friday-Seiten freigeschaltet werden; nach den Vorjahren starten die Hauptangebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y ist ein Empfehlungscode: Sie geben ihn in die Suchleiste der SHEIN-App ein, ohne festes Rabattversprechen."
+          "Der Black Friday 2026 fällt auf den 27. November. Anfang November konzentriert SHEIN seine Aktionen auf den 11.11 und hat noch keine Black-Friday-Seite veröffentlicht; nach den Vorjahren starten die Hauptangebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y ist ein Empfehlungscode: Sie geben ihn in die Suchleiste der SHEIN-App ein, ohne festes Rabattversprechen."
         ]
       },
       {
@@ -65612,7 +65612,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a SHEIN é uma loja legítima, operada no Brasil por uma empresa registrada. Veja o que pesa na decisão, como prazo, imposto e devolução, e o que conferir antes de pagar.",
-    "metaDescription": "SHEIN é confiável, com empresa no Brasil: pesquise 4CW5Y no app da SHEIN, código de indicação. Reputação Boa no Reclame Aqui no recorte até set/2026.",
+    "metaDescription": "SHEIN é confiável, com empresa no Brasil: pesquise 4CW5Y no app da SHEIN, código de indicação. Reputação Boa no Reclame Aqui nos seis meses até set/2026.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-07",
@@ -66898,7 +66898,7 @@ export const reviewsData: unknown[] = [
         "heading": "支払いの安全性と、データの扱い",
         "paragraphs": [
           "SHEIN は、システムと管理体制が ISO、NIST、PCI DSS の基準に沿っていると説明しています。また、お客様のデータは販売していないと述べています。",
-          "アカウントを作る前に、利用するサイトのプライバシーポリシーでその項目を読んでください。",
+          "お客様のデータが他の国や地域へ移転される可能性については、各マーケットのサイトのプライバシーポリシーに専用の項目があります。アカウントを作る前に、その項目を読んでください。",
           "偽サイトを避けるには、公式サイト（jp.shein.com）で買うか、スマートフォンの公式アプリストアからダウンロードした SHEIN のアプリを使ってください。"
         ]
       },
@@ -67049,7 +67049,7 @@ export const reviewsData: unknown[] = [
         "heading": "付款安全性與資料處理",
         "paragraphs": [
           "SHEIN 表示，公司的系統和管控措施與 ISO、NIST 及 PCI DSS 標準保持一致，也表示不會販售客戶資料。",
-          "建立帳號前，請閱讀你要使用的網站隱私權政策中的該段落。",
+          "客戶資料可能被傳送到哪些國家或地區，各市場網站的隱私權政策都有專門的段落說明。建立帳號前，請閱讀該段落。",
           "為避免進入假網站，請只在官方網站（台灣站為 shein.tw）購買，或使用從手機官方應用程式商店下載的 SHEIN App。"
         ]
       },
@@ -67199,7 +67199,7 @@ export const reviewsData: unknown[] = [
         "heading": "付款安全性与数据处理",
         "paragraphs": [
           "SHEIN 表示，公司的系统和管控措施与 ISO、NIST 及 PCI DSS 标准保持一致，也表示不会出售客户数据。",
-          "创建账户前，请阅读你要使用的网站隐私政策中的该章节。",
+          "客户数据可能被传送到哪些国家或地区，各市场网站的隐私政策都有专门的章节说明。创建账户前，请阅读该章节。",
           "为避免进入假网站，请只在官方网站（新加坡站为 sg.shein.com）购买，或使用从手机官方应用商店下载的 SHEIN App。"
         ]
       },
@@ -67573,7 +67573,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN or Temu? What each store publishes on shipping, delivery time and returns for the UK, and how to choose by what you are buying.",
+    "description": "SHEIN or Temu? What each store publishes on shipping, delivery time and returns for the UK, and how to choose by what you are buying, with what to check before paying.",
     "metaDescription": "SHEIN vs Temu: shipping, delivery time and returns published for the UK, and what to check before you buy.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
@@ -67702,7 +67702,7 @@ export const reviewsData: unknown[] = [
           "Which is cheaper, SHEIN or Temu? This article does not measure prices. Compare the final price of each item, with shipping and taxes, when you pay at each store.",
           "Which arrives faster, SHEIN or Temu? In the UK, SHEIN publishes 5 to 8 working days for Standard delivery, and Temu 6 to 13 working days (processing takes 1 to 3 days). This article does not test deliveries: check the date on the product page and in your order.",
           "SHEIN or Temu: what is the difference? Temu publishes the longer window, 90 days counted from purchase, while SHEIN takes most items back up to 30 days after receipt, so the two count from different points; shipping and delivery times are in the table above.",
-          "SHEIN or Temu for clothes? Check whether the item is returnable, the deadline and the return cost. In the UK table, Temu counts its 90 days from purchase; SHEIN counts up to 30 days from receipt for most items, with shorter periods for the categories listed above.",
+          "SHEIN or Temu for clothes? Check whether the item is returnable, the deadline and the return cost. In the UK table, Temu counts its 90 days from purchase; SHEIN counts up to 30 days from receipt for most items, with lingerie, underwear and costume jewelry only within the 14 days.",
           "Do SHEIN and Temu charge import tax? Import tax depends on the country. On its UK site, SHEIN says customers in the UK do not need to deal with customs. Before you pay, check at each store's checkout whether the total includes taxes.",
           "Are SHEIN and Temu the same company? No. They are different stores, each with its own rules for shipping, delivery and returns.",
           "Is 4CW5Y a coupon? No. It is Cecília's referral code at SHEIN, which you search for in the store's search bar."
@@ -67755,7 +67755,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres.",
+    "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres, y qué revisar antes de pagar.",
     "metaDescription": "SHEIN o Temu: envío, plazo de entrega y devoluciones que cada tienda publica en España y México, y qué revisar antes de comprar.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
@@ -67969,7 +67969,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat.",
+    "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat, avec les points à vérifier avant de payer.",
     "metaDescription": "SHEIN ou Temu : livraison, délai et retours publiés en France, douane de 3 € de l'UE et points à vérifier avant d'acheter.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -68152,7 +68152,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben und wie Sie je nach Einkauf wählen.",
+    "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben, wie Sie je nach Einkauf wählen und was Sie vor dem Bezahlen prüfen.",
     "metaDescription": "SHEIN oder Temu? Versand, Lieferzeit und Rückgabe für Deutschland, EU-Zoll von 3 € und was Sie vor dem Kauf prüfen sollten.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
@@ -68335,7 +68335,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia e come scegliere in base a ciò che compri.",
+    "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia, e come scegliere in base a ciò che compri, con i controlli da fare prima di pagare.",
     "metaDescription": "SHEIN o Temu? Spedizione, tempi di consegna e resi per l'Italia, dazio UE di 3 euro e cosa controllare prima di comprare.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -68536,7 +68536,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지에 따라 달라집니다. 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내의 반품 기한을 공개했습니다. 구매 전에 배송비와 세금을 포함한 최종 금액과 내 상품의 반품 조건을 확인하세요."
+          "모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지에 따라 달라지며, 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내의 반품 기한을 공개했습니다. 구매 전에 배송비와 세금을 포함한 최종 금액과 내 상품의 반품 조건을 확인하세요."
         ]
       },
       {
@@ -68715,7 +68715,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "すべての人に合うお店はありません。何を買うか、返品をどれだけ大事にするかで選ぶお店は変わります。Temu は購入日から90日以内（対象商品の場合）、SHEIN は購入から40日以内の返品期限を公表しています。買う前に、送料と税金を含めた最終価格と、その商品の返品条件を確認しましょう。"
+          "すべての人に合うお店はありません。何を買うか、返品をどれだけ大事にするかで選ぶお店は変わり、Temu は購入日から90日以内（対象商品の場合）、SHEIN は購入から40日以内の返品期限を公表しています。買う前に、送料と税金を含めた最終価格と、その商品の返品条件を確認しましょう。"
         ]
       },
       {
@@ -69448,7 +69448,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**Antes de recusar o pacote por uma cobrança alfandegária, fale com o atendimento.** Pela política da YesStyle, a loja não se responsabiliza por reembolso nem reenvio nesse caso.",
+          "**Antes de recusar o pacote por uma cobrança alfandegária, fale com o atendimento.** Pela [política da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.735), a loja não se responsabiliza por reembolso nem reenvio nesse caso.",
           "**Guarde o comprovante** do pagamento, com a data.",
           "**Mande o comprovante por e-mail** ao atendimento da YesStyle em até 30 dias da data dele. Sem comprovante, ou depois de 30 dias, a loja não analisa o pedido."
         ],
@@ -69739,7 +69739,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**Contact customer service before refusing a package over a customs charge.** Under YesStyle's policy, the store does not take responsibility for a refund or reshipment in that case.",
+          "**Contact customer service before refusing a package over a customs charge.** Under [YesStyle's policy](https://www.yesstyle.com/en/help/section.html/hsi.735), the store does not take responsibility for a refund or reshipment in that case.",
           "**Keep the receipt** of the payment, with its date.",
           "**Email the receipt** to YesStyle customer service within 30 days of its date. Without a receipt, or after 30 days, the store does not review the request."
         ],
@@ -73503,7 +73503,7 @@ export const reviewsData: unknown[] = [
           "YesStyle은 SHEIN과 같은 회사인가요? 아니요. YesStyle은 SHEIN Group의 브랜드 목록에 없고, 홍콩의 YesAsia Holdings 소속이라고 밝힙니다.",
           "StyleKorean의 주문 한도는 얼마인가요? 배송비를 제외하고 주문당 US$ 500이며, 이를 넘으면 두 번에 나눠 주문하라고 안내합니다.",
           "개봉한 뷰티 제품도 반품할 수 있나요? 단순 변심으로는 다섯 곳 모두 불가합니다. Stylevana는 새 제품이며 밀봉·미사용인 경우에 한해 단순 변심 반품을 받습니다.",
-          "YesStyle 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 일반 쿠폰 칸이 아니라 Reward Code 칸에 입력합니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
+          "YesStyle 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 일반 쿠폰 칸이 아니라 Reward Code 칸에 입력하며, 쇼핑몰 쿠폰과 함께 쓸 수 있습니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
         ]
       }
     ],
@@ -73736,7 +73736,7 @@ export const reviewsData: unknown[] = [
           "YesStyleはSHEINと同じですか？いいえ。YesStyleはSHEIN Groupのブランド一覧に載っておらず、香港のYesAsia Holdings傘下だと説明しています。",
           "StyleKoreanの注文の上限はいくらですか？送料を除いて1回US$500です。これを超えると、2回に分けるよう案内されます。",
           "開封した美容製品を返品できますか？気が変わっただけでは、5店のどこでも返品できません。Stylevanaは、新品・未開封・未使用の場合に限り、気が変わった場合の返品を受け付けます。",
-          "YesStyleのリワードコードはどこに入れますか？CECILIA010は、チェックアウトの通常のクーポン欄ではなく、Reward Codeの欄に入力します。現在のクーポンは、このサイトのYesStyleのページにあります。"
+          "YesStyleのリワードコードはどこに入れますか？CECILIA010は、チェックアウトの通常のクーポン欄ではなく、Reward Codeの欄に入力し、ショップのクーポンと併用できます。現在のクーポンは、このサイトのYesStyleのページにあります。"
         ]
       }
     ],
@@ -73969,7 +73969,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 和 SHEIN 是同一家嗎？不是。YesStyle 不在 SHEIN Group 的品牌清單上，並表示隸屬於香港的 YesAsia Holdings。",
           "StyleKorean 的訂單上限是多少？每筆訂單 US$500（不含運費），超過時商店要求拆成兩筆。",
           "已拆封的美妝品可以退嗎？五家店都不接受因改變心意而退；Stylevana 只在商品全新、密封、未使用時接受。",
-          "YesStyle 的獎勵碼填在哪裡？CECILIA010 填入結帳頁的 Reward Code 欄位（不是一般優惠券欄位）；目前的優惠券在本站的 YesStyle 頁面。"
+          "YesStyle 的獎勵碼填在哪裡？CECILIA010 填入結帳頁的 Reward Code 欄位（不是一般優惠券欄位），可與商店自己的優惠券疊加；目前的優惠券在本站的 YesStyle 頁面。"
         ]
       }
     ],
@@ -74202,7 +74202,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 和 SHEIN 是同一家公司吗？不是。YesStyle 不在 SHEIN Group 的品牌清单上，并表示隶属于香港的 YesAsia Holdings。",
           "StyleKorean 的订单上限是多少？每笔订单 US$500（不含运费），超过时商店要求拆成两笔。",
           "已拆封的美妆产品可以退吗？五家店都不接受因改变主意而退；Stylevana 只在产品全新、密封、未使用时接受。",
-          "YesStyle 的奖励码填在哪里？CECILIA010 填入结账页的 Reward Code 栏（不是普通优惠券栏）；目前的优惠券在本站的 YesStyle 页面。"
+          "YesStyle 的奖励码填在哪里？CECILIA010 填入结账页的 Reward Code 栏（不是普通优惠券栏），可与商店自己的优惠券叠加；目前的优惠券在本站的 YesStyle 页面。"
         ]
       }
     ],
@@ -91135,7 +91135,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Novo registro de domínio",
-              "Só em 96 horas, e algumas extensões não têm reembolso"
+              "Só em 96 horas, e só se tiverem passado mais de 24 horas desde um reembolso de domínio anterior; algumas extensões não têm reembolso"
             ],
             [
               "Registro .br (.com.br, .net.br)",
@@ -91199,7 +91199,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reclamações e avaliações",
         "paragraphs": [
-          "Na última consulta, a Hostinger tinha nota 8,4 no recorte de 12 meses do Reclame Aqui e 4,6 no Trustpilot, onde havia avaliações a convite da empresa. Os recortes e os detalhes estão no [artigo de reputação da Hostinger](/reviews/hostinger-reclame-aqui-nota-reputacao)."
+          "A Hostinger tem nota 8,4 no recorte de 12 meses do Reclame Aqui e 4,6 no Trustpilot, onde há avaliações a convite da empresa. Os recortes e os detalhes estão no [artigo de reputação da Hostinger](/reviews/hostinger-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -91354,7 +91354,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "New domain registration",
-              "Only within 96 hours, and some extensions are not refundable"
+              "Only within 96 hours, and only if more than 24 hours have passed since a previous domain refund; some extensions are not refundable"
             ],
             [
               "Domain renewal",
@@ -91414,7 +91414,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Complaints and reviews",
         "paragraphs": [
-          "When we last checked, Hostinger's Trustpilot score was 4.6, but the reviews included invitations from the company. That is a snapshot, not a measure of every customer's experience."
+          "Hostinger's Trustpilot score is 4.6, but the reviews include invitations from the company. That is a snapshot, not a measure of every customer's experience."
         ]
       },
       {
@@ -91629,7 +91629,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quejas y reseñas",
         "paragraphs": [
-          "En la última consulta, Hostinger tenía un 4,6 en Trustpilot. Entre las reseñas había invitaciones de la empresa; es una referencia de ese momento, no la experiencia de todos los clientes."
+          "Hostinger tiene un 4,6 en Trustpilot. Entre las reseñas hay invitaciones de la empresa; es una referencia puntual, no la experiencia de todos los clientes."
         ]
       },
       {
@@ -91844,7 +91844,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Plaintes et avis",
         "paragraphs": [
-          "Lors de la dernière consultation, Hostinger avait une note de 4,6 sur Trustpilot. Les avis comprenaient des invitations de l'entreprise : c'est une référence de ce moment, pas l'expérience de tous les clients."
+          "Hostinger a une note de 4,6 sur Trustpilot. Les avis comprennent des invitations de l'entreprise : c'est une référence ponctuelle, pas l'expérience de tous les clients."
         ]
       },
       {
@@ -92059,7 +92059,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Beschwerden und Bewertungen",
         "paragraphs": [
-          "Bei der letzten Prüfung lag Hostingers Trustpilot-Bewertung bei 4,6. Darunter waren vom Unternehmen eingeladene Bewertungen; der Wert ist eine Momentaufnahme und beschreibt nicht die Erfahrung aller Kunden."
+          "Hostingers Trustpilot-Bewertung liegt bei 4,6. Darunter sind vom Unternehmen eingeladene Bewertungen; der Wert ist eine Momentaufnahme und beschreibt nicht die Erfahrung aller Kunden."
         ]
       },
       {
@@ -92274,7 +92274,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reclami e recensioni",
         "paragraphs": [
-          "All'ultima verifica, Hostinger aveva un punteggio di 4,6 su Trustpilot. Le recensioni includevano inviti dell'azienda: è un riferimento di quel momento, non l'esperienza di tutti i clienti."
+          "Hostinger ha un punteggio di 4,6 su Trustpilot. Le recensioni includono inviti dell'azienda: è un riferimento puntuale, non l'esperienza di tutti i clienti."
         ]
       },
       {
@@ -92489,7 +92489,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "불만과 후기",
         "paragraphs": [
-          "최근 확인 당시 호스팅어의 Trustpilot 평점은 4.6이었습니다. 회사의 요청을 받아 작성된 후기도 포함됩니다. 이 수치는 당시의 기록이며 모든 고객의 경험을 나타내지는 않습니다."
+          "호스팅어의 Trustpilot 평점은 4.6입니다. 회사의 요청을 받아 작성된 후기도 포함됩니다. 이 수치는 한 시점의 기록이며 모든 고객의 경험을 나타내지는 않습니다."
         ]
       },
       {
@@ -92704,7 +92704,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "苦情とレビュー",
         "paragraphs": [
-          "最後に確認した時点で、HostingerのTrustpilot評価は4.6でした。会社からの招待によるレビューも含まれます。この時点の記録であり、すべての顧客の経験を示すものではありません。"
+          "HostingerのTrustpilot評価は4.6です。会社からの招待によるレビューも含まれます。この数字は一時点のものであり、すべての顧客の経験を示すものではありません。"
         ]
       },
       {
@@ -92919,7 +92919,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "投訴與評價",
         "paragraphs": [
-          "最近一次查詢時，Trustpilot 上的評分為 4.6，其中包含公司發出邀請而來的評價。這是當時的紀錄，不代表所有客戶的體驗。"
+          "Trustpilot 上的評分為 4.6，其中包含公司發出邀請而來的評價。這只是某一時點的紀錄，不代表所有客戶的體驗。"
         ]
       },
       {
@@ -93134,7 +93134,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "投诉与评价",
         "paragraphs": [
-          "最近一次查询时，Trustpilot 上的评分为 4.6，其中包含公司发出邀请而来的评价。这是当时的记录，不代表所有客户的体验。"
+          "Trustpilot 上的评分为 4.6，其中包含公司发出邀请而来的评价。这只是某一时点的记录，不代表所有客户的体验。"
         ]
       },
       {
@@ -93817,7 +93817,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger en Trustpilot en noviembre de 2026: TrustScore 4,6 y 73.830 opiniones. Revisa las opiniones invitadas de la muestra, los temas de las quejas y la renovación automática.",
+    "description": "Hostinger en Trustpilot en noviembre de 2026: TrustScore 4,6 con 73.830 opiniones, cómo influyen las invitaciones, qué dicen las quejas y cómo desactivar la renovación automática.",
     "metaDescription": "Hostinger en Trustpilot (noviembre de 2026): TrustScore 4,6 con 73.830 opiniones, 99 % de las negativas respondidas y cobros y renovación entre las quejas principales. Mira cómo desactivar la renovación.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
@@ -94104,7 +94104,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger sur Trustpilot en novembre 2026 : TrustScore 4,6 et 73 830 avis. Le guide examine les invitations dans l’échantillon, les plaintes et le renouvellement automatique.",
+    "description": "Hostinger sur Trustpilot en novembre 2026 : TrustScore 4,6 pour 73 830 avis, effet des invitations, plaintes les plus citées et désactivation du renouvellement automatique.",
     "metaDescription": "Hostinger sur Trustpilot (novembre 2026) : TrustScore 4,6 pour 73 830 avis, 99 % des avis négatifs traités, facturation et renouvellement parmi les plaintes principales. Voyez comment désactiver le renouvellement.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
@@ -94391,7 +94391,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger auf Trustpilot im November 2026: TrustScore 4,6 und 73.830 Bewertungen. Der Artikel prüft Einladungen in der Stichprobe, Beschwerdethemen und automatische Verlängerung.",
+    "description": "Hostinger auf Trustpilot im November 2026: TrustScore 4,6 bei 73.830 Bewertungen, Einfluss der Einladungen, häufigste Beschwerden und Abschalten der automatischen Verlängerung.",
     "metaDescription": "Hostinger auf Trustpilot (November 2026): TrustScore 4,6 aus 73.830 Bewertungen, 99 % der negativen beantwortet, Abrechnung und Verlängerung unter den häufigsten Beschwerden. So schalten Sie die Verlängerung ab.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
@@ -94678,7 +94678,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger su Trustpilot a novembre 2026: TrustScore 4,6 e 73.830 recensioni. L’articolo esamina inviti nel campione, temi dei reclami e rinnovo automatico.",
+    "description": "Hostinger su Trustpilot a novembre 2026: TrustScore 4,6 su 73.830 recensioni, come influiscono gli inviti, di cosa si lamentano i clienti e come disattivare il rinnovo automatico.",
     "metaDescription": "Hostinger su Trustpilot (novembre 2026): TrustScore 4,6 su 73.830 recensioni, 99% delle negative con risposta, fatturazione e rinnovo tra i reclami principali. Scopri come disattivare il rinnovo.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
@@ -94981,7 +94981,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,830건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갔을 수 있고, 우리가 읽은 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 신규 구매라면 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 첫 기간 20% 할인을 받을 수 있습니다."
+          "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,830건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갔을 수 있고, 표본의 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 신규 구매라면 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 첫 기간 20% 할인을 받을 수 있습니다."
         ]
       },
       {
@@ -95543,7 +95543,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,830 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分可能因此被拉高，我們讀到的投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。符合資格的新購買可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得首期 20% 折扣。"
+          "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,830 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分可能因此被拉高，樣本中的投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。符合資格的新購買可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得首期 20% 折扣。"
         ]
       },
       {
@@ -95824,7 +95824,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,830 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分可能因此被拉高，我们读到的投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。符合条件的新购可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得首期 20% 折扣。"
+          "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,830 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分可能因此被拉高，样本中的投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。符合条件的新购可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得首期 20% 折扣。"
         ]
       },
       {
@@ -96089,7 +96089,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "O cupom Hostinger SONAR20 dá 20% no primeiro período, em plano mensal ou anual, para cliente novo ou antigo. Veja onde colar o código, os preços e o que muda na renovação.",
+    "description": "O cupom Hostinger SONAR20 dá 20% no primeiro período de uma compra nova elegível, em plano mensal ou anual. Veja onde colar o código, os preços e o que muda na renovação.",
     "metaDescription": "SONAR20: 20% no primeiro período de compra nova elegível na Hostinger, mensal ou anual, inclusive para clientes atuais. Veja como aplicar e a renovação.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
@@ -96134,10 +96134,10 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Plano",
-            "48 meses sem SONAR20 — equivalente mensal",
-            "48 meses com SONAR20 — equivalente mensal e total",
-            "12 meses com SONAR20 — equivalente mensal e total",
-            "Renovação sem SONAR20 — equivalente mensal"
+            "48 meses sem SONAR20 (equivalente mensal)",
+            "48 meses com SONAR20 (equivalente mensal e total)",
+            "12 meses com SONAR20 (equivalente mensal e total)",
+            "Renovação sem SONAR20 (equivalente mensal)"
           ],
           "rows": [
             [
@@ -96273,7 +96273,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "The Hostinger coupon SONAR20 gives 20% off the first period, on a monthly or annual plan, for new or existing customers. See where to paste the code and what changes at renewal.",
+    "description": "The Hostinger coupon SONAR20 gives 20% off the first period of an eligible new purchase, on a monthly or annual plan. See where to paste the code and what changes at renewal.",
     "metaDescription": "Hostinger coupon SONAR20: 20% off the first period, on a monthly or annual plan. See where to paste the code in the cart and what changes at renewal.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
@@ -96543,7 +96543,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Utilisez **SONAR20** pour obtenir 20 % de réduction sur la première période d’un nouvel achat éligible d’un forfait mensuel ou annuel chez [Hostinger](/fr/coupons/hostinger), y compris pour un client existant qui souscrit un nouveau produit. Saisissez le code dans le panier et vérifiez la réduction avant de payer. Le renouvellement est facturé au prix catalogue, sans cette réduction."
+          "Utilisez **SONAR20** pour obtenir 20 % de réduction sur la première période d'un nouvel achat éligible d'un forfait mensuel ou annuel chez [Hostinger](/fr/coupons/hostinger), y compris pour un client existant qui souscrit un nouveau produit. Saisissez le code dans le panier et vérifiez la réduction avant de payer. Le renouvellement est facturé au prix catalogue, sans cette réduction."
         ]
       },
       {
@@ -96908,7 +96908,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger 쿠폰 SONAR20은 월간 플랜이든 연간 플랜이든, 신규 고객이든 기존 고객이든 첫 기간에 20%를 할인해 줍니다. 코드를 넣을 곳과 갱신 때 달라지는 점을 알려드립니다.",
+    "description": "Hostinger 쿠폰 SONAR20은 적용 대상 신규 구매의 첫 기간에 20%를 할인해 줍니다. 월간 플랜과 연간 플랜 모두 해당합니다. 코드를 넣을 곳과 갱신 때 달라지는 점을 알려드립니다.",
     "metaDescription": "Hostinger 쿠폰 SONAR20: 적용 대상 신규 구매의 첫 계약 기간 20% 할인. 월간·연간 플랜과 기존 고객의 새 제품 구매도 가능하며 갱신은 제외됩니다.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
@@ -96931,7 +96931,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20이 적용되는 범위",
         "paragraphs": [
           "제휴 규정상 SONAR20은 월간·연간 모든 플랜에 쓸 수 있고, 이미 Hostinger를 쓰는 고객에게도 적용됩니다. 2026년 10월 29일 장바구니에서 테스트했습니다. 글로벌 사이트의 “Have a coupon code?” 입력란에 코드를 넣자 48개월 Startup 플랜이 383.52달러에서 306.82달러가 되었습니다. 이 테스트에서 20%는 블랙프라이데이 가격에서 빠졌고, 링크 없이 코드만으로도 적용되었습니다. 당시 테스트 가격이며 현재 견적은 아닙니다.",
-          "이 글의 링크도 계속 쓸 수 있지만 규정이 따로 있습니다. 12개월 이상 플랜이고 신규 고객이어야 합니다. 그 밖의 경우에는 코드를 쓰세요. 다른 사이트의 코드는 다루지 않습니다."
+          "이 글의 링크로 Hostinger에 접속할 수도 있습니다. 장바구니에서 할인, 계약 기간, 총액을 결제 전에 확인하세요. SONAR20이 적용되지 않았다면 쿠폰 입력란에 입력하세요."
         ]
       },
       {
@@ -97035,7 +97035,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "HostingerのクーポンSONAR20は、月額プランでも年額プランでも、新規のお客様も既存のお客様も、最初の期間が20%割引になります。コードを入れる場所と、更新で変わることを紹介します。",
+    "description": "HostingerのクーポンSONAR20は、対象となる新規購入の最初の期間が20%割引になります。月額プランでも年額プランでも使えます。コードを入れる場所と、更新で変わることを紹介します。",
     "metaDescription": "HostingerクーポンSONAR20：月額・年額プランの最初の期間が20%割引。カートでコードを入れる場所と、更新で変わることを紹介します。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
@@ -97057,7 +97057,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20の対象",
         "paragraphs": [
           "提携のルールでは、SONAR20は月額・年額を問わずすべてのプランで使え、すでにHostingerを使っている方も対象です。2026年10月29日にカートで検証しました。グローバルサイトで「Have a coupon code?」欄にコードを入れると、48か月のStartupプランは383.52米ドルから306.82米ドルになりました。この検証では、20%はブラックフライデー価格から引かれ、リンクなしでもコードだけで有効でした。この金額は検証時のもので、現在の見積もりではありません。",
-          "この記事のリンクも引き続き使えますが、ルールは別です。12か月以上のプランで、新規のお客様が対象です。それ以外の場合はコードを使ってください。他サイトのコードは取り上げません。"
+          "この記事のリンクからHostingerにアクセスすることもできます。カートで、割引、契約期間、合計金額を支払い前に確認してください。SONAR20が適用されていない場合は、クーポン欄に入力してください。"
         ]
       },
       {
@@ -97162,7 +97162,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger 優惠碼 SONAR20 在首期享 20% 折扣，月付或年付方案都可以，新客戶或舊客戶都適用。看看優惠碼要輸入在哪裡，以及為什麼續訂沒有折扣。",
+    "description": "Hostinger 優惠碼 SONAR20 在符合條件的新購訂單首期享 20% 折扣，月付或年付方案都可以。看看優惠碼要輸入在哪裡，以及為什麼續訂沒有折扣。",
     "metaDescription": "Hostinger 優惠碼 SONAR20：月付或年付方案首期享 20% 折扣。看看在購物車哪裡輸入優惠碼，以及為什麼續訂沒有折扣。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
@@ -97185,7 +97185,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 涵蓋什麼",
         "paragraphs": [
           "依合作規則，SONAR20 適用於所有月付與年付方案，已經是 Hostinger 客戶的人也能用。2026 年 10 月 29 日，我們在購物車實際測試過：在全球站的「Have a coupon code?」欄位輸入優惠碼後，48 個月的 Startup 方案從 383.52 美元降到 306.82 美元。測試中，20% 是從黑色星期五價格扣掉的，優惠碼單獨就有效，不需要連結。這是當時的測試價格，不是目前報價。",
-          "本文的連結仍然有效，但規則不同：12 個月以上的方案，限新客戶。其他情況請用優惠碼。我們不提其他網站的優惠碼。"
+          "你也可以透過本文的連結進入 Hostinger。在購物車中，付款前確認折扣、訂閱期間和總價。如果 SONAR20 沒有生效，請在優惠碼欄位輸入。"
         ]
       },
       {
@@ -97289,7 +97289,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger 优惠码 SONAR20 在首个计费周期享 20% 折扣，月付或年付套餐均可，新老客户都适用。看看代码在哪里输入，以及续费时有什么变化。",
+    "description": "Hostinger 优惠码 SONAR20 在符合条件的新购订单首个计费周期享 20% 折扣，月付或年付套餐均可。看看代码在哪里输入，以及续费时有什么变化。",
     "metaDescription": "Hostinger 优惠码 SONAR20：月付或年付套餐首个周期享 20% 折扣。看看在购物车哪里输入代码，以及续费时有什么变化。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
@@ -97312,7 +97312,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 适用范围",
         "paragraphs": [
           "按合作规则，SONAR20 适用于所有月付和年付套餐，已经是 Hostinger 客户的人也可以用。2026 年 10 月 29 日，我们在购物车里测试过：在全球站的 “Have a coupon code?” 栏输入代码后，48 个月的 Startup 套餐从 383.52 美元降到 306.82 美元。测试中，20% 是从黑色星期五价格上扣的，代码单独就有效，不需要链接。这是当时的测试价格，不是当前报价。",
-          "本文的链接仍然有效，但规则不同：12 个月及以上的套餐，限新客户。其他情况请用代码。我们不提其他网站的代码。"
+          "你也可以通过本文的链接进入 Hostinger。在购物车里，付款前确认折扣、订阅周期和总价。如果 SONAR20 没有生效，请在优惠码栏输入。"
         ]
       },
       {
@@ -97438,7 +97438,7 @@ export const reviewsData: unknown[] = [
         "heading": "A Black Friday da Hostinger já começou?",
         "paragraphs": [
           "Já começou. A FAQ oficial da Hostinger diz: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026.\" A página global em inglês diz a mesma data.",
-          "Em 03/11, a página da campanha no Brasil mostra 80% off em hospedagem de sites, 66% em VPS e 74% no Reach (e-mail marketing). São os números dos banners, não o desconto de cada plano: o preço por plano está na tabela abaixo. O VPS fica de fora da conta deste texto, como explicamos mais abaixo.",
+          "Em 03/11, a página da campanha no Brasil mostra 80% off em hospedagem de sites, 66% em VPS e 74% no Reach (e-mail marketing). São os números dos banners, não o desconto de cada plano: o preço por plano está na tabela abaixo.",
           "Os números abaixo são só da campanha de 2026, lidos na página oficial."
         ],
         "images": [
@@ -97611,7 +97611,7 @@ export const reviewsData: unknown[] = [
         "heading": "Has Hostinger's Black Friday started?",
         "paragraphs": [
           "It has. Hostinger's official FAQ says: “Hostinger's Black Friday sale runs from October 19 to December 14, 2026.” The global page in English gives the same date.",
-          "On November 3, the campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach (email marketing). Those are the banner figures, not the discount on every plan. VPS is left out of the math in this article, as explained further down.",
+          "On November 3, the campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach (email marketing). Those are the banner figures, not the discount on every plan.",
           "The numbers below are for the 2026 campaign only, read from the official page."
         ],
         "images": []
@@ -97626,7 +97626,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Who should wait and who shouldn't",
         "paragraphs": [
-          "If you need your site online this week, compare today’s total with and without SONAR20, plus the renewal price. In our test, the code reduced the campaign price, but that does not guarantee the lowest price through the end of Black Friday.",
+          "If you need your site online this week, compare today's total with and without SONAR20, plus the renewal price. In our test, the code reduced the campaign price, but that does not guarantee the lowest price through the end of Black Friday.",
           "If you can wait, keep in mind that the campaign runs until mid-December, but no price is guaranteed until then. The 20% from SONAR20 comes off the campaign price: if the campaign changes, the total changes with it.",
           "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner shows 67% on November 3.",
           "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan.",
@@ -97713,7 +97713,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Black Friday Hostinger 2026 con SONAR20: un 20% adicional sobre el precio de la campaña. Ejemplo probado de Startup y qué revisar del total y la renovación.",
+    "description": "Black Friday Hostinger 2026 con SONAR20: un 20 % adicional sobre el precio de la campaña. Ejemplo probado de Startup y qué revisar del total y la renovación.",
     "metaDescription": "Black Friday Hostinger 2026 ya empezó y dura hasta el 14 de diciembre. El cupón SONAR20 quita un 20 % más del precio de la campaña. Renovación y cómo comprobarlo.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
@@ -97736,7 +97736,7 @@ export const reviewsData: unknown[] = [
         "heading": "¿Ya empezó la Black Friday de Hostinger?",
         "paragraphs": [
           "Ya empezó. La FAQ oficial de Hostinger dice: «La promoción Black Friday de Hostinger va del 19 de octubre al 14 de diciembre de 2026». La página global en inglés indica la misma fecha.",
-          "El 3 de noviembre, la página de la campaña en US$ muestra un 85 % de descuento en hosting web, un 67 % en VPS y un 75 % en Reach (email marketing). Son las cifras de los banners, no el descuento de cada plan. El VPS queda fuera de la cuenta de este texto, como explicamos más abajo.",
+          "El 3 de noviembre, la página de la campaña en US$ muestra un 85 % de descuento en hosting web, un 67 % en VPS y un 75 % en Reach (email marketing). Son las cifras de los banners, no el descuento de cada plan.",
           "Las cifras de abajo son solo de la campaña de 2026, leídas en la página oficial."
         ],
         "images": []
@@ -97753,7 +97753,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Si necesitas el sitio en línea esta semana, compara el total disponible ahora, con y sin SONAR20, y el precio de renovación. El código redujo el precio de la campaña en nuestra prueba; eso no garantiza el precio más bajo hasta el final de la Black Friday.",
           "Si puedes esperar, ten en cuenta que la campaña dura hasta mediados de diciembre, pero ningún precio está garantizado hasta entonces. El 20 % de SONAR20 sale del precio de la campaña: si la campaña cambia, el total cambia con ella.",
-          "La FAQ de Hostinger recomienda Premium para muchos sitios personales, empresariales y de WordPress. Revisa los planes disponibles en tu región. Para VPS, calcula el total en el carrito: el banner en US$ mostraba un 67% el 3 de noviembre.",
+          "La FAQ de Hostinger recomienda Premium para muchos sitios personales, empresariales y de WordPress. Revisa los planes disponibles en tu región. Para VPS, calcula el total en el carrito: el banner en US$ mostraba un 67 % el 3 de noviembre.",
           "Si ya eres cliente, revisa las ofertas de mejora de tu cuenta: la FAQ dice que los clientes actuales pueden recibir ofertas aparte. SONAR20 también vale para un plan nuevo. Bruno, que se encarga de este sitio, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción. Sus planes son hosting Business, VPS KVM 2, correo y dominios, todos con renovación automática. Em Casa com Cecília funciona en Hostinger."
         ]
       },
@@ -97860,7 +97860,7 @@ export const reviewsData: unknown[] = [
         "heading": "Le Black Friday de Hostinger a-t-il déjà commencé ?",
         "paragraphs": [
           "Oui. La FAQ officielle de Hostinger indique : « La promotion Black Friday de Hostinger a lieu du 19 octobre au 14 décembre 2026. » La page mondiale en anglais donne la même date.",
-          "Le 3 novembre, la page de la campagne en US$ affiche 85 % de réduction sur l’hébergement web, 67 % sur le VPS et 75 % sur Reach (e-mail marketing). Ce sont les chiffres des bannières, pas la réduction de chaque offre. Le VPS reste en dehors du calcul de cet article, comme nous l’expliquons plus bas.",
+          "Le 3 novembre, la page de la campagne en US$ affiche 85 % de réduction sur l’hébergement web, 67 % sur le VPS et 75 % sur Reach (e-mail marketing). Ce sont les chiffres des bannières, pas la réduction de chaque offre.",
           "Les chiffres ci-dessous concernent uniquement la campagne 2026, relevés sur la page officielle."
         ],
         "images": []
@@ -97984,7 +97984,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hat der Black Friday von Hostinger schon begonnen?",
         "paragraphs": [
           "Ja. Die offizielle FAQ von Hostinger sagt: „Die Black-Friday-Aktion von Hostinger läuft vom 19. Oktober bis zum 14. Dezember 2026.“ Die globale Seite auf Englisch nennt dasselbe Datum.",
-          "Am 3. November zeigt die Kampagnenseite in US$ 85 % Rabatt auf Webhosting, 67 % auf VPS und 75 % auf Reach (E-Mail-Marketing). Das sind die Bannerzahlen, nicht der Rabatt jedes Tarifs. VPS bleibt in der Rechnung dieses Textes außen vor, wie weiter unten erklärt.",
+          "Am 3. November zeigt die Kampagnenseite in US$ 85 % Rabatt auf Webhosting, 67 % auf VPS und 75 % auf Reach (E-Mail-Marketing). Das sind die Bannerzahlen, nicht der Rabatt jedes Tarifs.",
           "Die folgenden Zahlen betreffen nur die Aktion 2026 und stammen von der offiziellen Seite."
         ],
         "images": []
@@ -98108,7 +98108,7 @@ export const reviewsData: unknown[] = [
         "heading": "Il Black Friday di Hostinger è già iniziato?",
         "paragraphs": [
           "È già iniziato. La FAQ ufficiale di Hostinger dice: «La promozione Black Friday di Hostinger si svolge dal 19 ottobre al 14 dicembre 2026». La pagina globale in inglese riporta la stessa data.",
-          "Il 3 novembre la pagina della campagna in US$ mostra 85% di sconto sul web hosting, 67% sul VPS e 75% su Reach (email marketing). Sono le cifre dei banner, non lo sconto di ogni piano. Il VPS resta fuori dal conto di questo testo, come spieghiamo più sotto.",
+          "Il 3 novembre la pagina della campagna in US$ mostra 85% di sconto sul web hosting, 67% sul VPS e 75% su Reach (email marketing). Sono le cifre dei banner, non lo sconto di ogni piano.",
           "I numeri qui sotto riguardano solo la campagna 2026, letti sulla pagina ufficiale."
         ],
         "images": []
@@ -98232,7 +98232,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hostinger 블랙프라이데이는 이미 시작되었나요?",
         "paragraphs": [
           "이미 시작되었습니다. Hostinger 공식 FAQ에는 “Hostinger 블랙프라이데이 세일은 2026년 10월 19일부터 12월 14일까지 진행됩니다.”라고 나와 있습니다. 영어 글로벌 페이지도 같은 날짜를 알려 줍니다.",
-          "11월 3일 기준 US$ 캠페인 페이지에는 웹 호스팅 85% 할인, VPS 67% 할인, Reach(이메일 마케팅) 75% 할인이라고 나와 있습니다. 배너 수치일 뿐 모든 요금제의 할인율이 아닙니다. VPS는 아래에서 설명하듯 이 글의 계산에서 제외합니다.",
+          "11월 3일 기준 US$ 캠페인 페이지에는 웹 호스팅 85% 할인, VPS 67% 할인, Reach(이메일 마케팅) 75% 할인이라고 나와 있습니다. 배너 수치일 뿐 모든 요금제의 할인율이 아닙니다.",
           "아래 숫자는 2026년 캠페인만 해당하며 공식 페이지에서 확인한 것입니다."
         ],
         "images": []
@@ -98249,7 +98249,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "이번 주 안에 사이트를 열어야 한다면 현재 총액을 SONAR20 적용 전후로 비교하고 갱신 가격도 확인하세요. 저희 테스트에서는 캠페인 가격에서 할인이 적용됐지만, 블랙프라이데이가 끝날 때까지의 최저가를 보장하지는 않습니다.",
           "기다릴 수 있다 해도, 캠페인은 12월 중순까지 이어지지만 그때까지 가격이 보장되지는 않습니다. SONAR20의 20%는 캠페인 가격에서 빠지므로, 캠페인이 바뀌면 합계도 함께 바뀝니다.",
-          "Hostinger FAQ는 여러 개인·기업·워드프레스 사이트에 Premium을 권합니다. Hostinger는 이제 막 시작하는 사람이나 단순한 프로젝트에는 Single을 권합니다. 거주 지역에서 제공되는 요금제를 확인하세요. VPS는 장바구니에서 총액을 계산하세요. 11월 3일 US$ 배너는 67% 할인이었습니다.",
+          "Hostinger FAQ는 여러 개인·기업·워드프레스 사이트에 Premium을 권합니다. Hostinger는 이제 막 시작하는 사람이나 단순한 프로젝트에는 Single을 권합니다.  VPS는 장바구니에서 총액을 계산하세요. 11월 3일 US$ 배너는 67% 할인이었습니다.",
           "이미 고객이라면 계정에서 업그레이드 혜택을 확인하세요. FAQ에 따르면 기존 고객에게는 별도 혜택이 제공될 수 있습니다. SONAR20은 새 요금제에도 적용됩니다.",
           "이 사이트를 운영하는 Bruno는 2024년부터 Hostinger 고객이며 구독 기간이 24개월을 넘습니다. 요금제는 Business 호스팅, VPS KVM 2, 이메일, 도메인이고 모두 자동 갱신입니다. Em Casa com Cecília도 Hostinger에서 운영됩니다."
         ]
@@ -98357,7 +98357,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hostingerのブラックフライデーはもう始まっていますか？",
         "paragraphs": [
           "始まっています。Hostinger公式のFAQには「Hostingerのブラックフライデーセールは2026年10月19日から12月14日まで開催されます」とあります。英語のグローバルページも同じ日付です。",
-          "11月3日時点で、米ドル建てのキャンペーンページにはウェブホスティング85%オフ、VPS 67%オフ、Reach（メールマーケティング）75%オフと出ています。これはバナーの数字で、すべてのプランの割引ではありません。VPSはこの記事の計算には含めません。理由は下で説明します。",
+          "11月3日時点で、米ドル建てのキャンペーンページにはウェブホスティング85%オフ、VPS 67%オフ、Reach（メールマーケティング）75%オフと出ています。これはバナーの数字で、すべてのプランの割引ではありません。",
           "以下の数字は2026年のキャンペーンだけのもので、公式ページで確認しました。"
         ],
         "images": []
@@ -98374,7 +98374,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "今週中にサイトを公開する必要があるなら、現在の合計をSONAR20の適用前後で比べ、更新料金も確認してください。こちらのテストではキャンペーン価格から割引されましたが、ブラックフライデー終了までの最安値を保証するものではありません。",
           "待てる場合も、キャンペーンは12月中旬まで続きますが、それまで価格が保証されるわけではありません。SONAR20の20%はキャンペーン価格から引かれるので、キャンペーンが変われば合計も変わります。",
-          "HostingerのFAQは、多くの個人・ビジネス・WordPressサイト向けにPremiumを勧めています。Hostingerは、これから始める人やシンプルなプロジェクトにはSingleを勧めています。お住まいの地域で提供されているプランを確認してください。VPSはカートで合計を計算してください。11月3日の米ドル建てバナーは67%オフでした。",
+          "HostingerのFAQは、多くの個人・ビジネス・WordPressサイト向けにPremiumを勧めています。Hostingerは、これから始める人やシンプルなプロジェクトにはSingleを勧めています。VPSはカートで合計を計算してください。11月3日の米ドル建てバナーは67%オフでした。",
           "すでに利用中の場合は、アカウントのアップグレード特典を確認してください。FAQによると、既存のお客様には別のオファーが出ることがあります。SONAR20は新しいプランにも使えます。",
           "このサイトを運営するBrunoは、2024年からHostingerを利用していて、契約期間は24か月を超えています。プランはBusinessホスティング、VPS KVM 2、メール、ドメインで、すべて自動更新です。Em Casa com CecíliaもHostingerで動いています。"
         ]
@@ -98482,7 +98482,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hostinger 的黑色星期五已經開始了嗎？",
         "paragraphs": [
           "已經開始。Hostinger 官方 FAQ 寫道：「Hostinger 黑色星期五促銷從 2026 年 10 月 19 日持續到 12 月 14 日。」英文全球頁面給出的日期相同。",
-          "11 月 3 日，美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach（電子郵件行銷）75% 折扣。這是橫幅數字，並非每個方案的折扣。VPS 不在本文的計算範圍內，下方會說明。",
+          "11 月 3 日，美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach（電子郵件行銷）75% 折扣。這是橫幅數字，並非每個方案的折扣。",
           "以下數字只針對 2026 年的活動，取自官方頁面。"
         ],
         "images": []
@@ -98499,7 +98499,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "如果這週就需要讓網站上線，請比較目前使用 SONAR20 前後的總價，也看續約價格。在我們的測試中，優惠碼確實從活動價上減了一部分，但這不保證到黑色星期五結束前都是最低價。",
           "如果可以等，要知道活動持續到 12 月中旬，但在那之前沒有任何價格有保證。SONAR20 的 20% 是從活動價中扣除的：活動一變，總價也會跟著變。",
-          "Hostinger FAQ 為許多個人、企業與 WordPress 網站推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。請確認你所在地區提供哪些方案。VPS 請在購物車計算總價：11 月 3 日的美元版橫幅顯示 67% 折扣。",
+          "Hostinger FAQ 為許多個人、企業與 WordPress 網站推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。VPS 請在購物車計算總價：11 月 3 日的美元版橫幅顯示 67% 折扣。",
           "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。",
           "負責本站的 Bruno 自 2024 年起就是 Hostinger 客戶，訂閱已超過 24 個月。他的方案有 Business 代管、VPS KVM 2、電子郵件與網域，全部自動續約。Em Casa com Cecília 就運行在 Hostinger 上。"
         ]
@@ -98607,7 +98607,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hostinger 的黑色星期五已经开始了吗？",
         "paragraphs": [
           "已经开始。Hostinger 官方 FAQ 写道：“Hostinger 黑色星期五促销从 2026 年 10 月 19 日持续到 12 月 14 日。”英文全球页面给出的日期相同。",
-          "11 月 3 日，美元版活动页面显示网站托管 85% 折扣、VPS 67% 折扣、Reach（邮件营销）75% 折扣。这是横幅数字，并非每个方案的折扣。VPS 不在本文的计算范围内，下面会说明。",
+          "11 月 3 日，美元版活动页面显示网站托管 85% 折扣、VPS 67% 折扣、Reach（邮件营销）75% 折扣。这是横幅数字，并非每个方案的折扣。",
           "以下数字只针对 2026 年的活动，取自官方页面。"
         ],
         "images": []
@@ -98624,7 +98624,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "如果这周就需要让网站上线，请比较当前使用 SONAR20 前后的总价，也看续费价格。在我们的测试中，优惠码确实从活动价里减了一部分，但这不保证到黑色星期五结束前都是最低价。",
           "如果可以等，要知道活动持续到 12 月中旬，但在那之前没有任何价格有保证。SONAR20 的 20% 是从活动价里减的：活动一变，总价也会跟着变。",
-          "Hostinger FAQ 为许多个人、企业和 WordPress 网站推荐 Premium。Hostinger 建议刚起步或项目简单的用户选 Single。请确认你所在地区提供哪些方案。VPS 请在购物车中计算总价：11 月 3 日的美元版横幅显示 67% 折扣。",
+          "Hostinger FAQ 为许多个人、企业和 WordPress 网站推荐 Premium。Hostinger 建议刚起步或项目简单的用户选 Single。VPS 请在购物车中计算总价：11 月 3 日的美元版横幅显示 67% 折扣。",
           "如果你已经是客户，请查看账户里的升级优惠：FAQ 说现有客户可能会收到单独的优惠。SONAR20 也适用于新方案。",
           "负责本站的 Bruno 从 2024 年起就是 Hostinger 客户，订阅已超过 24 个月。他的方案有 Business 托管、VPS KVM 2、邮箱和域名，全部自动续费。Em Casa com Cecília 就运行在 Hostinger 上。"
         ]
@@ -108282,7 +108282,7 @@ export const reviewsData: unknown[] = [
           "Tem cupom de desconto da Hostinger para o OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período.",
           "Quanto custa depois do primeiro período? Na renovação, o SONAR20 não se aplica: a tabela traz R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2. Confirme a cobrança atual antes de renovar.",
           "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, numa compra nova elegível com a mesma conta; a renovação do serviço atual fica fora. São 20% no primeiro período, e o registro de domínio também fica fora. Confira o total no carrinho."
         ]
       },
       {
@@ -108514,7 +108514,7 @@ export const reviewsData: unknown[] = [
           "Do you need an OpenAI or Anthropic account? No. On both options you can use Hostinger's AI credits. You only need an account with a provider if you prefer your own key.",
           "Is there a Hostinger discount coupon for OpenClaw? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period.",
           "Does the managed plan work for Hermes Agent or Paperclip? Yes. All three are on the same plan, \"AI automation apps\", at the same price. The Paperclip page does not list AI credits, so bring your own key.",
-          "Can existing Hostinger customers use SONAR20? It can apply to an eligible new purchase with the same account, not to renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
+          "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account; renewal of the current service is excluded. It gives 20% off the first term, and domain registration is also excluded. Check the cart total."
         ]
       },
       {
@@ -111990,7 +111990,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Sinnvoll nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
         ],
         "postParagraphs": [
-          "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen. Die Schritte stehen unter [So nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Aktionsdetails unter [sehen Sie sich die Aktion an](/de/reviews/hostinger-black-friday-angebote)."
+          "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen. Die Schritte stehen unter [So nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Aktionsdetails unter [Hostinger Black Friday](/de/reviews/hostinger-black-friday-angebote)."
         ]
       },
       {
@@ -112068,7 +112068,7 @@ export const reviewsData: unknown[] = [
         "heading": "Gutschein SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**: **20 % im ersten Zeitraum** eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen. Die Schritte stehen unter [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Bedingungen unter [die Seite von Hostinger auf der Website](/de/coupons/hostinger)."
+          "**SONAR20**: **20 % im ersten Zeitraum** eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen. Die Schritte stehen unter [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Bedingungen auf [der Hostinger-Seite dieser Website](/de/coupons/hostinger)."
         ]
       },
       {
@@ -113312,7 +113312,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw o Hermes Agent: confronta interfacce, canali, memoria e voci di costo per eseguire ciascuno su Hostinger.",
+    "description": "OpenClaw o Hermes Agent: confronta interfacce, canali, memoria e voci di costo per eseguire ciascuno su Hostinger, tra VPS, piano gestito e modello IA.",
     "metaDescription": "OpenClaw o Hermes Agent: interfaccia, memoria, costi IA, gestito o VPS. SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
@@ -113520,7 +113520,7 @@ export const reviewsData: unknown[] = [
           "Serve saper programmare? Per avviare il gestito no: scegli i canali e incolli il token. Nel VPS serve conoscere le basi dei server, come root, Docker e aggiornamenti. Programmare entra in gioco solo se vuoi mettere mano al codice del progetto.",
           "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona o di un team che si fida a vicenda, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
           "Quale scegliere se uso già Claude Code? Claude Code è uno strumento per programmare nel terminale e non sostituisce nessuno dei due. Entrambi accettano la chiave di Anthropic: OpenClaw elenca Anthropic tra i provider, e il README di Hermes Agent riporta la chiave di Anthropic tra i segreti. Se vuoi un agente che impara dall'uso, Hermes Agent si adatta meglio. Se vuoi molti canali e un'app sul telefono, OpenClaw.",
-          "Un cliente Hostinger esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
+          "Un cliente Hostinger esistente può usare SONAR20? Sì, su un nuovo acquisto idoneo con lo stesso account; il rinnovo del servizio attuale è escluso. Offre il 20% sul primo periodo, e anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
         ]
       },
       {
@@ -113597,7 +113597,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw o Hermes Agent: compara interfaces, canales, memoria y categorías de coste para ejecutar cada uno en Hostinger.",
+    "description": "OpenClaw o Hermes Agent: compara interfaces, canales, memoria y categorías de coste para ejecutar cada uno en Hostinger, con VPS, plan gestionado y modelo de IA.",
     "metaDescription": "OpenClaw o Hermes Agent: interfaz, memoria, coste de IA y gestionado o VPS. SONAR20 da un 20 % en el primer periodo de una compra nueva elegible.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
@@ -113806,7 +113806,7 @@ export const reviewsData: unknown[] = [
           "¿Hace falta saber programar? Para poner en marcha el gestionado, no: eliges los canales y pegas el token. En el VPS, hace falta saber lo básico de servidores, como root, Docker y actualizaciones. Programar solo entra si quieres tocar el código del proyecto.",
           "¿Es seguro? Depende de cómo lo uses. Las dos políticas de seguridad piden el mismo cuidado: uso por una persona o un equipo que confía entre sí, sin exposición directa a internet y con revisión de lo que instalas de terceros.",
           "¿Cuál elegir si ya uso Claude Code? Claude Code es una herramienta para programar en la terminal y no sustituye a ninguno de los dos. Los dos aceptan clave de Anthropic: OpenClaw incluye a Anthropic entre los proveedores, y el README de Hermes Agent trae la clave de Anthropic entre los secretos. Si quieres un agente que aprende con el uso, Hermes Agent encaja mejor. Si quieres muchos canales y app en el móvil, OpenClaw.",
-          "¿Un cliente existente de Hostinger puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. Da un 20 % en el primer periodo; el registro de dominio también queda fuera. Comprueba el total del carrito."
+          "¿Un cliente existente de Hostinger puede usar SONAR20? Sí, en una compra nueva elegible con la misma cuenta; la renovación del servicio actual queda fuera. Da un 20 % en el primer periodo, y el registro de dominio también queda fuera. Comprueba el total del carrito."
         ]
       },
       {
@@ -113882,7 +113882,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw oder Hermes Agent: Oberflächen, Kanäle, Gedächtnis und Kostenarten für den Betrieb bei Hostinger im Vergleich.",
+    "description": "OpenClaw oder Hermes Agent: Oberflächen, Kanäle, Gedächtnis und Kostenarten für den Betrieb bei Hostinger im Vergleich, mit VPS, verwaltetem Tarif und KI-Modell.",
     "metaDescription": "OpenClaw oder Hermes Agent: Oberfläche, Gedächtnis, KI-Kosten, verwaltet oder VPS. SONAR20 gibt 20 % im ersten Zeitraum eines berechtigten Neukaufs.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
@@ -114090,7 +114090,7 @@ export const reviewsData: unknown[] = [
           "Muss man programmieren können? Für den verwalteten Tarif nicht: Sie wählen die Kanäle und fügen den Token ein. Beim VPS braucht es Grundwissen über Server, etwa Root, Docker und Aktualisierungen. Programmieren kommt nur ins Spiel, wenn Sie den Code des Projekts anpassen wollen.",
           "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person oder ein Team mit gegenseitigem Vertrauen, keine direkte Erreichbarkeit aus dem Internet und eine Prüfung dessen, was Sie von Dritten installieren.",
           "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keinen der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README von Hermes Agent führt den Anthropic-Schlüssel unter den Secrets auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, OpenClaw.",
-          "Können Hostinger-Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
+          "Können Hostinger-Bestandskunden SONAR20 nutzen? Ja, bei einem berechtigten Neukauf mit demselben Konto; die Verlängerung des bestehenden Dienstes ist ausgeschlossen. Er gibt 20 % auf die erste Laufzeit, und Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
         ]
       },
       {
@@ -114167,7 +114167,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw ou Hermes Agent : comparez interfaces, canaux, mémoire et postes de coût pour un usage chez Hostinger.",
+    "description": "OpenClaw ou Hermes Agent : comparez interfaces, canaux, mémoire et postes de coût pour un usage chez Hostinger, entre VPS, offre gérée et modèle d'IA.",
     "metaDescription": "OpenClaw ou Hermes Agent : interface, mémoire, coûts d'IA, offre gérée ou VPS. SONAR20 : 20 % sur la première période d'un nouvel achat éligible.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
@@ -114376,7 +114376,7 @@ export const reviewsData: unknown[] = [
           "Faut-il savoir programmer ? Pour lancer l'offre gérée, non : vous choisissez les canaux et collez le jeton. En VPS, il faut connaître les bases des serveurs, comme root, Docker et les mises à jour. La programmation n'entre en jeu que si vous voulez toucher au code du projet.",
           "Est-ce sûr ? Cela dépend de l'usage. Les deux politiques de sécurité demandent la même précaution : usage par une personne ou une équipe de confiance mutuelle, sans exposition directe à l'internet et avec un examen de ce que vous installez de tiers.",
           "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw cite Anthropic parmi ses fournisseurs, et le README de Hermes Agent range la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une appli sur le téléphone, OpenClaw.",
-          "Un client Hostinger existant peut-il utiliser SONAR20 ? Il peut s'appliquer à un nouvel achat éligible avec le même compte, pas au renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
+          "Un client Hostinger existant peut-il utiliser SONAR20 ? Oui, sur un nouvel achat éligible avec le même compte ; le renouvellement du service actuel est exclu. La réduction est de 20 % sur la première période, et l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
         ]
       },
       {
@@ -114452,7 +114452,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw ou Hermes Agent: canais, memória, aprendizado, licença e custo real na Hostinger, com preços lidos em 21/10/2026.",
+    "description": "OpenClaw ou Hermes Agent: compare interfaces, canais, memória e as categorias de custo para rodar cada um na Hostinger, entre VPS, plano gerenciado e modelo de IA.",
     "metaDescription": "OpenClaw ou Hermes Agent na Hostinger, com o SONAR20 e 20% OFF: qual escolher, canais, memória, modelos de IA e o preço com e sem o código.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
@@ -114678,7 +114678,7 @@ export const reviewsData: unknown[] = [
           "Precisa saber programar? Para subir o gerenciado, não: você escolhe os canais e cola o token. No VPS, é preciso saber o básico de servidor, como root, Docker e atualizações. Programar só entra se você quiser mexer no código do projeto.",
           "É seguro? Depende de como você usa. As duas políticas de segurança pedem o mesmo cuidado: uso por uma pessoa ou uma equipe que confia entre si, sem exposição direta à internet e com revisão do que você instala de terceiros.",
           "Qual escolher se já uso o Claude Code? O Claude Code é uma ferramenta para programar no terminal e não substitui nenhum dos dois. Os dois aceitam chave da Anthropic: o OpenClaw lista a Anthropic entre os provedores, e o README do Hermes Agent traz a chave da Anthropic entre os segredos. Se você quer um agente que aprende com o uso, o Hermes Agent combina melhor. Se quer muitos canais e app no celular, o OpenClaw.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, numa compra nova elegível com a mesma conta; a renovação do serviço atual fica fora. São 20% no primeiro período, e o registro de domínio também fica fora. Confira o total no carrinho."
         ]
       },
       {
@@ -114944,7 +114944,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "マネージドでは、商品説明と管理画面で AI クレジットの有無、残高、使い切った後の扱いを確認してください。継続利用や自動課金を前提にしないでください。VPS では Hostinger が Docker でアシスタントをインストールし、更新とサーバーのセキュリティはご自身で管理します。",
-          "マネージドは 30 日以内なら、製品の条件に従って返金を依頼できます。VPS の繰り返しの返金は別のルールに従います。契約前に適用規約を確認してください。表示された期間は無条件の保証ではありません。VPS のアップグレードと暗号資産での支払いは返金の対象外です。",
+          "マネージドは 30 日以内なら、製品の条件に従って返金を依頼できます。VPS の繰り返しの返金は別のルールに従います。VPS のアップグレードと暗号資産での支払いは返金の対象外です。",
           "プランを選ぶ前に必要なスペックを計算したいなら、[OpenClaw に最適な VPS](/ja/reviews/best-vps-for-openclaw-ja)をお読みください。キャンペーンについては、[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja)をご覧ください。"
         ]
       },
@@ -114963,7 +114963,7 @@ export const reviewsData: unknown[] = [
           "プログラミングの知識は必要ですか？マネージドを立ち上げるだけなら不要です。チャンネルを選んでトークンを貼り付けます。VPS では、root、Docker、更新といったサーバーの基本が必要です。プログラミングが必要になるのは、プロジェクトのコードを触りたいときだけです。",
           "安全ですか？使い方しだいです。二つのセキュリティポリシーは同じ注意を求めています。信頼できる一人、または互いに信頼し合うチームが使い、インターネットに直接さらさず、サードパーティのものをインストールする前に中身を確認することです。",
           "すでに Claude Code を使っていたら、どちらを選べばいいですか？Claude Code はターミナルで開発するためのツールで、どちらの代わりにもなりません。どちらも Anthropic のキーに対応しています。OpenClaw はプロバイダーの一つに Anthropic を挙げ、Hermes Agent の README は Anthropic のキーをシークレットの一つとして挙げています。使うほど学習するエージェントがほしいなら Hermes Agent が合います。チャンネルが多くスマートフォンのアプリもほしいなら OpenClaw です。",
-          "既存ユーザーもSONAR20を使える？ 同じアカウントでも対象の新規購入には使える場合がありますが、現在のサービスの更新には使えません。初回契約期間が20%割引で、ドメイン登録も対象外です。カートの総額を確認してください。"
+          "既存ユーザーもSONAR20を使える？ はい、同じアカウントで対象の新規購入に使えます。現在のサービスの更新は対象外です。初回契約期間が20%割引で、ドメイン登録も対象外です。カートの総額を確認してください。"
         ]
       },
       {
@@ -115228,7 +115228,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "관리형은 상품 안내와 관리 화면에서 AI 크레딧 포함 여부, 잔액과 소진 후의 처리를 확인하세요. 잔액이 소진된 뒤에도 서비스가 계속되거나 요금이 자동으로 청구된다고 가정하지 마세요. VPS에서는 호스팅어가 Docker로 어시스턴트를 설치하고, 업데이트와 서버 보안은 직접 챙깁니다.",
-          "관리형은 제품 조건에 따라 30일 안에 환불을 요청할 수 있습니다. 반복 VPS 환불에는 별도 규칙이 적용됩니다. 구매 전에 적용 정책을 확인하세요. 안내된 기간이 무조건적인 보장은 아닙니다. VPS 업그레이드와 암호화폐 결제는 환불되지 않습니다.",
+          "관리형은 제품 조건에 따라 30일 안에 환불을 요청할 수 있습니다. 반복 VPS 환불에는 별도 규칙이 적용됩니다. VPS 업그레이드와 암호화폐 결제는 환불되지 않습니다.",
           "플랜을 고르기 전에 필요한 사양부터 계산하고 싶다면 [OpenClaw에 가장 좋은 VPS](/ko/reviews/best-vps-for-openclaw-ko)를 읽어 보세요. 캠페인은 [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)에서 확인하세요."
         ]
       },
@@ -115247,7 +115247,7 @@ export const reviewsData: unknown[] = [
           "프로그래밍을 알아야 하나요? 관리형을 띄우는 데는 필요 없습니다. 채널을 고르고 토큰을 붙여 넣으면 됩니다. VPS에서는 root, Docker, 업데이트 같은 서버 기초가 필요합니다. 프로그래밍은 프로젝트 코드를 직접 손보려는 경우에만 필요합니다.",
           "안전한가요? 쓰는 방법에 달려 있습니다. 두 보안 정책이 요구하는 주의는 같습니다. 믿을 수 있는 한 사람이나 서로 신뢰하는 팀이 쓰고, 인터넷에 직접 노출하지 않고, 서드파티를 설치하기 전에 내용을 검토하는 것입니다.",
           "이미 Claude Code를 쓰는데 무엇을 고를까요? Claude Code는 터미널에서 프로그래밍하는 도구이며 둘 중 어느 것도 대신하지 못합니다. 둘 다 Anthropic 키를 받습니다. OpenClaw는 제공업체 중 하나로 Anthropic을 들고, Hermes Agent의 README는 Anthropic 키를 시크릿의 하나로 듭니다. 쓸수록 배우는 에이전트를 원한다면 Hermes Agent가 더 맞습니다. 채널이 많고 휴대폰 앱도 원한다면 OpenClaw입니다.",
-          "기존 호스팅어 고객도 SONAR20을 쓸 수 있나요? 같은 계정의 대상 신규 구매에는 적용될 수 있지만, 현재 서비스의 갱신에는 적용되지 않습니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요."
+          "기존 호스팅어 고객도 SONAR20을 쓸 수 있나요? 네, 같은 계정의 대상 신규 구매에는 적용됩니다. 현재 서비스의 갱신은 제외됩니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요."
         ]
       },
       {
@@ -115514,7 +115514,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "托管套餐请在商品说明与控制面板确认是否包含 AI 额度、余额及用完后的处理方式，不要预设服务会继续或自动产生费用。VPS 由 Hostinger 通过 Docker 安装助手，更新与服务器安全由你负责。",
-          "托管套餐有 30 天可申请退款，按产品条件办理。VPS 重复退款有各自的规则。购买前请确认适用政策；所列期限并非无条件保证。VPS 升级和加密货币支付不可退款。",
+          "托管套餐有 30 天可申请退款，按产品条件办理。VPS 重复退款有各自的规则。VPS 升级和加密货币支付不可退款。",
           "如果想在选方案之前先算出所需配置，请读[OpenClaw 最适合的 VPS](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。活动方面，请看 [Hostinger 的黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
         ]
       },
@@ -115799,7 +115799,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "託管方案請在商品說明與管理面板確認是否包含 AI 額度、餘額及用完後的處理方式，不要預設服務會繼續或自動產生費用。VPS 由 Hostinger 透過 Docker 安裝助理，更新與伺服器安全由你負責。",
-          "託管方案有 30 天可申請退款，依產品條件辦理。VPS 重複退款有各自的規則。購買前請確認適用政策；所列期間並非無條件保證。VPS 升級和加密貨幣付款不可退款。",
+          "託管方案有 30 天可申請退款，依產品條件辦理。VPS 重複退款有各自的規則。VPS 升級和加密貨幣付款不可退款。",
           "如果想在選方案之前先算出所需配置，請讀 [OpenClaw 最適合的 VPS](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)。活動方面，請看 [Hostinger 的黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
         ]
       },
@@ -115894,7 +115894,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw vs Hermes Agent: compare interfaces, channels, memory and the cost categories for running each one on Hostinger.",
+    "description": "OpenClaw vs Hermes Agent: compare interfaces, channels, memory and the cost categories for running each one on Hostinger, from VPS or managed hosting to AI model charges.",
     "metaDescription": "OpenClaw vs Hermes Agent: interfaces, memory, AI costs and managed or VPS hosting. SONAR20 gives 20% off the first period of an eligible new purchase.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
@@ -116103,7 +116103,7 @@ export const reviewsData: unknown[] = [
           "Do you need to know how to code? To set up the managed plan, no: you choose the channels and paste the token. On a VPS, you need the basics of servers, such as root, Docker and updates. Coding only comes in if you want to change the project's code.",
           "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person or a team that trusts each other, no direct exposure to the internet, and a review of whatever you install from third parties.",
           "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
-          "Can existing Hostinger customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
+          "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account; renewal of the current service is excluded. It gives 20% off the first term, and domain registration is also excluded. Check the cart total."
         ]
       },
       {
@@ -116240,7 +116240,7 @@ export const reviewsData: unknown[] = [
           "**Agenten zum Koordinieren.** Paperclip führt kein KI-Modell aus: Es koordiniert Agenten, die über andere Programme laufen, etwa Claude Code, Codex, Cursor, Gemini CLI und OpenClaw.",
           "**Postgres.** Das ist die Datenbank, in der Paperclip Agenten, Aufgaben und Protokolle speichert. Bei der lokalen Installation ist sie eingebaut und startet von selbst. In der Produktion empfiehlt das Projekt selbst, auf ein eigenes Postgres zu zeigen. Beim verwalteten Angebot ist die Datenbank inklusive. Beim VPS liegt die Datenbank bei Ihnen.",
           "**KI-Anbindung.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Mit dem Schlüssel berechnet der Anbieter die Nutzung direkt Ihnen. Beim verwalteten Angebot verlangt Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement und listet keine enthaltenen KI-Guthaben auf. Ohne eine dieser Verbindungen antwortet das Team nicht.",
-          "**Budget und Abrechnung.** Richten Sie Budget- und Pausenrichtlinien ein, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Überwachen Sie auch Verbrauch und Grenzen beim Modellanbieter: Paperclip ersetzt nicht die Abrechnungsbedingungen Ihres Kontos.",
+          "**Budget und Abrechnung.** Richten Sie Budget- und Pausenrichtlinien ein, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Überwachen Sie auch Verbrauch und Grenzen beim Modellanbieter.",
           "**Serverkenntnisse, wenn es ein VPS ist.** Beim VPS müssen Sie wissen, was Docker ist, ein Programm, das jede Anwendung isoliert in einem Container ausführt, und bereit sein, das System zu aktualisieren und abzusichern. Wenn das nichts für Sie ist, löst das verwaltete Angebot es."
         ],
         "postParagraphs": [
@@ -116287,14 +116287,14 @@ export const reviewsData: unknown[] = [
             [
               "Erstattung",
               "30 Tage",
-              "30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen abgeschlossen wurde"
+              "30 Tage laut Richtlinie; zwischen VPS-Erstattungen gilt ein Abstand von 180 Tagen"
             ]
           ]
         },
         "postParagraphs": [
           "**Das verwaltete Angebot passt zu Ihnen, wenn** Sie Paperclip laufen haben wollen, ohne etwas zu installieren, nicht wissen, was Root oder Docker ist, und es vorziehen, dass Hostinger sich um Datenbank, Updates und Backups kümmert.",
           "**Der VPS passt zu Ihnen, wenn** Sie andere Programme auf demselben Server betreiben wollen, etwa eine Website oder n8n (ein Automatisierungswerkzeug), sich mit Servern auskennen oder es lernen wollen und Datenbank und Konfiguration unter Ihrer Kontrolle haben möchten.",
-          "Zur Erstattung: Die 180-Tage-Regel für VPS ist dieselbe wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie des Unternehmens liest. Die 180 Tage zählen ab dem Abschluss Ihrer letzten VPS-Erstattung: Wenn Sie in den letzten 180 Tagen eine erhalten haben, gilt für den neuen VPS die 30-Tage-Garantie nicht."
+          "Zur Erstattung: Die 180-Tage-Regel für VPS ist dieselbe wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie des Unternehmens liest. Für frühere VPS-Erstattungen gilt ein Intervall von 180 Tagen; prüfen Sie Bedingungen und Ausschlüsse in der [Erstattungsrichtlinie](https://www.hostinger.com/legal/refund-policy) vor dem Kauf."
         ]
       },
       {
@@ -116468,7 +116468,7 @@ export const reviewsData: unknown[] = [
           "**Agenti da coordinare.** Paperclip non fa girare un modello IA: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
           "**Postgres.** È il database in cui Paperclip conserva agenti, compiti e registri. Nell’installazione locale è integrato e parte da solo. In produzione, il progetto stesso consiglia di puntare a un Postgres tuo. Sul gestito, il database è incluso. Sul VPS, il database è a tuo carico.",
           "**Collegamento all’IA.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Con la chiave, il fornitore fa pagare l’uso, direttamente a te. Sul gestito, Hostinger chiede una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo, e non elenca crediti IA inclusi. Senza una di queste connessioni, il team non risponde.",
-          "**Budget e fatturazione.** Configura le politiche di budget e pausa prima di avviare la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Controlla anche consumo e limiti del fornitore del modello: Paperclip non sostituisce le condizioni di fatturazione del tuo account.",
+          "**Budget e fatturazione.** Configura le politiche di budget e pausa prima di avviare la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Controlla anche consumo e limiti del fornitore del modello.",
           "**Conoscenze di server, se è un VPS.** Sul VPS, devi sapere cos’è Docker, un programma che fa girare ogni applicazione isolata in un container, e accettare di aggiornare e proteggere il sistema. Se non fa per te, il gestito risolve."
         ],
         "postParagraphs": [
@@ -116515,14 +116515,14 @@ export const reviewsData: unknown[] = [
             [
               "Rimborso",
               "30 giorni",
-              "30 giorni solo se l’ultimo rimborso VPS è stato completato più di 180 giorni fa"
+              "30 giorni secondo la politica; tra un rimborso VPS e l’altro vale un intervallo di 180 giorni"
             ]
           ]
         },
         "postParagraphs": [
           "**Il gestito fa per te se** vuoi Paperclip funzionante senza installare nulla, non sai cosa sono root e Docker, e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup.",
           "**Il VPS fa per te se** vuoi far girare altri programmi sullo stesso server, come un sito o un n8n (strumento di automazione), sai mettere le mani su un server o vuoi imparare, e vuoi avere database e configurazione sotto il tuo controllo.",
-          "Per il rimborso, la regola dei 180 giorni per il VPS è la stessa dell’[articolo sull’affidabilità di Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell’azienda. I 180 giorni contano dal completamento dell’ultimo rimborso VPS: se ne hai ricevuto uno negli ultimi 180 giorni, il nuovo VPS non ha la garanzia di 30 giorni."
+          "Per il rimborso, la regola dei 180 giorni per il VPS è la stessa dell’[articolo sull’affidabilità di Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell’azienda. Per i rimborsi VPS precedenti vale un intervallo di 180 giorni; controlla condizioni ed esclusioni nella [politica di rimborso](https://www.hostinger.com/legal/refund-policy) prima di acquistare."
         ]
       },
       {
@@ -116697,7 +116697,7 @@ export const reviewsData: unknown[] = [
           "**Des agents à coordonner.** Paperclip ne fait pas tourner de modèle d’IA : il coordonne des agents qui fonctionnent via d’autres programmes, comme Claude Code, Codex, Cursor, Gemini CLI et OpenClaw.",
           "**Postgres.** C’est la base de données où Paperclip enregistre les agents, les tâches et les historiques. Dans l’installation locale, elle est intégrée et démarre toute seule. En production, le projet recommande lui-même de pointer vers un Postgres à vous. Sur le géré, la base de données est incluse. Sur le VPS, la base de données est à votre charge.",
           "**Connexion à l’IA.** Une clé d’API est le mot de passe que le programme utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Avec la clé, le fournisseur facture l’usage, directement à vous. Sur le géré, Hostinger demande une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif, et ne liste pas de crédits d’IA inclus. Sans l’une de ces connexions, l’équipe ne répond pas.",
-          "**Budget et facturation.** Configurez les règles de budget et de pause avant de lancer l’équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser bien plus qu’un assistant avec qui vous discutez de temps en temps. Surveillez aussi la consommation et les limites chez le fournisseur du modèle : Paperclip ne remplace pas les conditions de facturation de votre compte.",
+          "**Budget et facturation.** Configurez les règles de budget et de pause avant de lancer l’équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser bien plus qu’un assistant avec qui vous discutez de temps en temps. Surveillez aussi la consommation et les limites chez le fournisseur du modèle.",
           "**Des connaissances de serveur, si c’est un VPS.** Sur un VPS, il faut savoir ce qu’est Docker, un programme qui fait tourner chaque application isolée dans un conteneur, et accepter de mettre à jour et de sécuriser le système. Si ce n’est pas pour vous, le géré règle la question."
         ],
         "postParagraphs": [
@@ -116744,14 +116744,14 @@ export const reviewsData: unknown[] = [
             [
               "Remboursement",
               "30 jours",
-              "30 jours seulement si votre dernier remboursement de VPS a été finalisé il y a plus de 180 jours"
+              "30 jours selon la politique ; un intervalle de 180 jours s’applique entre les remboursements de VPS"
             ]
           ]
         },
         "postParagraphs": [
           "**Le géré vous convient si** vous voulez Paperclip qui fonctionne sans rien installer, si vous ne savez pas ce que sont root et Docker, et si vous préférez que Hostinger s’occupe de la base de données, des mises à jour et des sauvegardes.",
           "**Le VPS vous convient si** vous voulez faire tourner d’autres programmes sur le même serveur, comme un site ou un n8n (outil d’automatisation), si vous savez manipuler un serveur ou voulez apprendre, et si vous voulez garder la base de données et la configuration sous votre contrôle.",
-          "Pour le remboursement, la règle des 180 jours pour le VPS est la même que dans l’[article sur la confiance envers Hostinger](/fr/reviews/hostinger-est-il-fiable), qui lit la politique de l’entreprise. Les 180 jours courent à partir de la finalisation de votre dernier remboursement de VPS : si vous en avez reçu un ces 180 derniers jours, le nouveau VPS n’a pas la garantie de 30 jours."
+          "Pour le remboursement, la règle des 180 jours pour le VPS est la même que dans l’[article sur la confiance envers Hostinger](/fr/reviews/hostinger-est-il-fiable), qui lit la politique de l’entreprise. Un intervalle de 180 jours s’applique aux remboursements de VPS précédents ; vérifiez les conditions et exclusions dans la [politique de remboursement](https://www.hostinger.com/legal/refund-policy) avant de souscrire."
         ]
       },
       {
@@ -117199,14 +117199,14 @@ export const reviewsData: unknown[] = [
             [
               "返金",
               "30日間",
-              "前回の VPS 返金の完了から180日を超えている場合に限り、30日間"
+              "ポリシーに基づき30日間。VPS の返金には180日の間隔がある"
             ]
           ]
         },
         "postParagraphs": [
           "**マネージドが向いているのは、**何もインストールせずに Paperclip を動かしたい方、root も Docker も分からない方、データベース、更新、バックアップを Hostinger に任せたい方です。",
           "**VPS が向いているのは、**同じサーバーでサイトや n8n（自動化ツール）など他のプログラムも動かしたい方、サーバーを扱える方や学びたい方、データベースと設定を自分の管理下に置きたい方です。",
-          "返金については、VPS の180日ルールは、同社の方針を読み解いた[Hostinger の信頼性についての記事](/ja/reviews/hostinger-trust-guide-ja)と同じです。180日は前回の VPS 返金の完了日から数えます。過去180日以内に VPS の返金を受けている場合、新しい VPS には30日間の保証はありません。"
+          "返金については、VPS の180日ルールは、同社の方針を読み解いた[Hostinger の信頼性についての記事](/ja/reviews/hostinger-trust-guide-ja)と同じです。以前の VPS 返金には180日の間隔が適用されます。契約前に、条件と除外事項を[返金ポリシー](https://www.hostinger.com/legal/refund-policy)で確認してください。"
         ]
       },
       {
@@ -117426,14 +117426,14 @@ export const reviewsData: unknown[] = [
             [
               "환불",
               "30일",
-              "마지막 VPS 환불 완료일로부터 180일이 지난 경우에만 30일"
+              "정책에 따라 30일. VPS 환불 사이에는 180일 간격이 있음"
             ]
           ]
         },
         "postParagraphs": [
           "**관리형이 맞는 경우는** 아무것도 설치하지 않고 Paperclip을 쓰고 싶고, root도 Docker도 모르며, 데이터베이스와 업데이트와 백업을 Hostinger가 맡아 주기를 바랄 때입니다.",
           "**VPS가 맞는 경우는** 같은 서버에서 사이트나 n8n(자동화 도구) 같은 다른 프로그램도 돌리고 싶고, 서버를 다룰 줄 알거나 배우고 싶으며, 데이터베이스와 설정을 직접 통제하고 싶을 때입니다.",
-          "환불에 관해, VPS의 180일 규칙은 회사 정책을 읽은 [Hostinger 신뢰성 글](/ko/reviews/hostinger-trust-guide-ko)과 같습니다. 180일은 마지막 VPS 환불이 완료된 날부터 셉니다. 최근 180일 안에 VPS 환불을 받았다면 새 VPS에는 30일 보장이 없습니다."
+          "환불에 관해, VPS의 180일 규칙은 회사 정책을 읽은 [Hostinger 신뢰성 글](/ko/reviews/hostinger-trust-guide-ko)과 같습니다. 이전 VPS 환불에는 180일 간격이 적용됩니다. 계약 전에 조건과 제외 사항을 [환불 정책](https://www.hostinger.com/legal/refund-policy)에서 확인하세요."
         ]
       },
       {
@@ -117655,14 +117655,14 @@ export const reviewsData: unknown[] = [
             [
               "退款",
               "30 天",
-              "仅当上一次 VPS 退款完成已超过 180 天时，才有 30 天"
+              "按政策提供 30 天；VPS 退款之间有 180 天间隔"
             ]
           ]
         },
         "postParagraphs": [
           "**托管版适合您，如果** 您想不安装任何东西就让 Paperclip 跑起来，不知道什么是 root 和 Docker，并且希望由 Hostinger 负责数据库、更新和备份。",
           "**VPS 适合您，如果** 您想在同一台服务器上运行其他程序，比如网站或 n8n（自动化工具），会操作服务器或想学，并且希望数据库和配置都在自己掌控之中。",
-          "关于退款，VPS 的 180 天规则与[关于 Hostinger 是否可靠的文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)相同，那篇文章解读了该公司的政策。180 天从上一次 VPS 退款完成之日算起：如果您在最近 180 天内收到过 VPS 退款，新的 VPS 就没有 30 天保障。"
+          "关于退款，VPS 的 180 天规则与[关于 Hostinger 是否可靠的文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)相同，那篇文章解读了该公司的政策。先前的 VPS 退款适用 180 天的间隔；购买前请在[退款政策](https://www.hostinger.com/legal/refund-policy)中确认条件和例外。"
         ]
       },
       {
@@ -117883,14 +117883,14 @@ export const reviewsData: unknown[] = [
             [
               "退款",
               "30 天",
-              "僅當上一次 VPS 退款完成已超過 180 天時，才有 30 天"
+              "依政策提供 30 天；VPS 退款之間有 180 天間隔"
             ]
           ]
         },
         "postParagraphs": [
           "**代管方案適合您，如果** 您想不安裝任何東西就讓 Paperclip 跑起來，不知道什麼是 root 和 Docker，並且希望由 Hostinger 負責資料庫、更新和備份。",
           "**VPS 適合您，如果** 您想在同一台伺服器上執行其他程式，例如網站或 n8n（自動化工具），會操作伺服器或想學，並且希望資料庫和設定都在自己掌控之中。",
-          "關於退款，VPS 的 180 天規則與[關於 Hostinger 是否可靠的文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)相同，那篇文章解讀了該公司的政策。180 天從上一次 VPS 退款完成之日算起：如果您在最近 180 天內收到過 VPS 退款，新的 VPS 就沒有 30 天保障。"
+          "關於退款，VPS 的 180 天規則與[關於 Hostinger 是否可靠的文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)相同，那篇文章解讀了該公司的政策。先前的 VPS 退款適用 180 天的間隔；購買前請在[退款政策](https://www.hostinger.com/legal/refund-policy)中確認條件與例外。"
         ]
       },
       {
@@ -118176,7 +118176,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como começar, em ordem",
+        "heading": "Três formas de começar: escolha uma",
         "bullets": [
           "**Rodar no seu computador.** O README oficial pede Node.js 24.11 ou mais novo. Confira a versão com o comando node -v no terminal e depois rode npx paperclipai@latest onboard --yes. A interface abre em http://localhost:3100, e o banco Postgres é criado sozinho. Não há custo de servidor, mas o Paperclip só roda enquanto o computador estiver ligado. Se você assina o Claude ou o Codex, o README também aceita entrar pela assinatura, sem chave de API, com o Python 3 e o programa do provedor instalados.",
           "**Contratar o gerenciado.** Assine o plano “Apps de automação com IA” com 24 meses, com o código SONAR20 no carrinho. Depois da assinatura, a Hostinger prepara a instância e o banco. Você entra no painel, conecta seus agentes e cola a chave de IA (ou usa a assinatura do ChatGPT).",
@@ -118334,7 +118334,7 @@ export const reviewsData: unknown[] = [
           "**Agentes para coordinar.** Paperclip no ejecuta un modelo de IA: coordina agentes que funcionan mediante otros programas, como Claude Code, Codex, Cursor, Gemini CLI y OpenClaw.",
           "**Postgres.** Es la base de datos donde Paperclip guarda agentes, tareas y registros. En la instalación local, viene integrada y arranca sola. En producción, el propio proyecto recomienda apuntar a un Postgres tuyo. En el gestionado, la base de datos viene incluida. En el VPS, la base de datos queda por tu cuenta.",
           "**Conexión con IA.** La clave de API es la contraseña que el programa usa para pedir respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. Con la clave, el proveedor cobra por el uso, directamente a ti. En el gestionado, Hostinger pide una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT, y no lista créditos de IA incluidos. Sin una de esas conexiones, el equipo no responde.",
-          "**Presupuesto y cobro.** Configura la política de presupuesto y pausa antes de iniciar el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Controla también el consumo y los límites del proveedor del modelo: Paperclip no sustituye las condiciones de cobro de tu cuenta.",
+          "**Presupuesto y cobro.** Configura la política de presupuesto y pausa antes de iniciar el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Controla también el consumo y los límites del proveedor del modelo.",
           "**Conocimientos de servidor, si es VPS.** En el VPS, necesitas saber qué es Docker, un programa que ejecuta cada aplicación aislada en un contenedor, y aceptar actualizar y proteger el sistema. Si eso no es para ti, el gestionado lo resuelve."
         ],
         "postParagraphs": [
@@ -118381,14 +118381,14 @@ export const reviewsData: unknown[] = [
             [
               "Reembolso",
               "30 días",
-              "30 días, solo si el último reembolso de VPS se completó hace más de 180 días"
+              "30 días según la política; hay un intervalo de 180 días entre reembolsos de VPS"
             ]
           ]
         },
         "postParagraphs": [
           "**El gestionado es para ti si** quieres Paperclip funcionando sin instalar nada, no sabes qué es root ni Docker, y prefieres que Hostinger se ocupe de la base de datos, las actualizaciones y las copias de seguridad.",
           "**El VPS es para ti si** quieres ejecutar otros programas en el mismo servidor, como un sitio web o n8n (una herramienta de automatización), sabes manejar un servidor o quieres aprender, y quieres tener la base de datos y la configuración bajo tu control.",
-          "Sobre el reembolso, la regla de los 180 días para el VPS es la misma del [artículo sobre la confianza en Hostinger](/es/reviews/hostinger-es-confiable), que lee la política de la empresa. Los 180 días cuentan desde que se completó tu último reembolso de VPS: si recibiste uno en los últimos 180 días, el nuevo VPS no tiene la garantía de 30 días."
+          "Sobre el reembolso, la regla de los 180 días para el VPS es la misma del [artículo sobre la confianza en Hostinger](/es/reviews/hostinger-es-confiable), que lee la política de la empresa. Se aplica un intervalo de 180 días a los reembolsos de VPS anteriores; revisa las condiciones y exclusiones en la [política de reembolso](https://www.hostinger.com/legal/refund-policy) antes de contratar."
         ]
       },
       {
@@ -132551,7 +132551,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o app não funcionar",
         "paragraphs": [
-          "Confira estes três pontos. Se o problema persistir, procure a central de ajuda da YesStyle."
+          "Confira estes três pontos:"
         ],
         "bullets": [
           "Baixe só pelos links oficiais da App Store e do Google Play.",
@@ -132746,7 +132746,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "If the app doesn't work",
         "paragraphs": [
-          "Check these three points. If the problem persists, use YesStyle’s help center."
+          "Check these three points:"
         ],
         "bullets": [
           "Download only from the official App Store and Google Play links.",
@@ -133716,7 +133716,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "アプリが動かないとき",
         "paragraphs": [
-          "次の3点を確認してください。解決しない場合は、YesStyleのヘルプセンターをご利用ください。"
+          "次の3点を確認してください。"
         ],
         "bullets": [
           "ダウンロードは、App StoreとGoogle Playの公式リンクからのみ行ってください。",
@@ -133910,7 +133910,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "앱이 작동하지 않을 때",
         "paragraphs": [
-          "다음 세 가지를 확인하세요. 해결되지 않으면 YesStyle 고객센터를 이용하세요."
+          "다음 세 가지를 확인하세요."
         ],
         "bullets": [
           "App Store와 Google Play의 공식 링크로만 내려받으세요.",
@@ -134104,7 +134104,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如果 App 无法使用",
         "paragraphs": [
-          "请检查这三点。仍未解决时，请使用 YesStyle 帮助中心。"
+          "请检查这三点："
         ],
         "bullets": [
           "只通过 App Store 和 Google Play 的官方链接下载。",
@@ -134298,7 +134298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如果 App 無法使用",
         "paragraphs": [
-          "請檢查這三點。仍未解決時，請使用 YesStyle 說明中心。"
+          "請檢查這三點："
         ],
         "bullets": [
           "只透過 App Store 和 Google Play 的官方連結下載。",
@@ -144682,7 +144682,7 @@ export const reviewsData: unknown[] = [
           "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual está disponível nos planos Unlimited e Cloud Startup, como complemento cobrado à parte. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
           "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. O Premium custava R$ 7,99/mês com o SONAR20 (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
           "Tem cupom para o Criador com IA da Hostinger? Use SONAR20 para 20% no primeiro período de uma compra nova elegível. Confira a assinatura e os serviços incluídos no carrinho; registro de domínio e renovação ficam fora.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
         ]
       },
       {
@@ -144946,7 +144946,7 @@ export const reviewsData: unknown[] = [
           "Can you migrate from the AI Builder to another host? The page says the source code can be exported and hosted elsewhere. The built-in back end, with database and login, stays at Hostinger, so an app needs reconfiguring outside it.",
           "Is the AI Builder good for an online store? For a small store, yes: the online store is available on the Unlimited and Cloud Startup plans as a paid add-on. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
           "Is there a coupon for Hostinger's AI Builder? Use SONAR20 for 20% off the first term of an eligible new purchase. Check the subscription and included services in the cart; domain registration and renewal are excluded.",
-          "Can existing Hostinger customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
+          "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account, not on renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
         ]
       },
       {
@@ -145210,7 +145210,7 @@ export const reviewsData: unknown[] = [
           "¿Se puede migrar del creador con IA a otro hosting? La página dice que el código fuente se puede exportar y alojar en otro sitio. El back end integrado, con base de datos e inicio de sesión, se queda en Hostinger, así que una app necesita reconfigurarse fuera de ella.",
           "¿El creador con IA sirve para una tienda online? Para una tienda pequeña, sí: la tienda online está disponible en los planes Unlimited y Cloud Startup como complemento de pago. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
           "¿Hay cupón para el creador con IA de Hostinger? Usa SONAR20 para un 20 % en el primer periodo de una compra nueva elegible. Comprueba la suscripción y los servicios incluidos en el carrito; registro de dominio y renovación quedan fuera.",
-          "¿Un cliente existente de Hostinger puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. Da un 20 % en el primer periodo; el registro de dominio también queda fuera. Comprueba el total del carrito."
+          "¿Un cliente existente de Hostinger puede usar SONAR20? Sí, en una compra nueva elegible con la misma cuenta, no en la renovación del servicio actual. Da un 20 % en el primer periodo; el registro de dominio también queda fuera. Comprueba el total del carrito."
         ]
       },
       {
@@ -145474,7 +145474,7 @@ export const reviewsData: unknown[] = [
           "Peut-on migrer du créateur IA vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une appli demande une reconfiguration en dehors.",
           "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne est disponible sur les offres Unlimited et Cloud Startup, en option payante. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
           "Existe-t-il un code pour le créateur IA Hostinger ? Utilisez SONAR20 pour 20 % sur la première période d'un nouvel achat éligible. Vérifiez l'abonnement et les services inclus au panier ; enregistrement de domaine et renouvellement sont exclus.",
-          "Un client Hostinger existant peut-il utiliser SONAR20 ? Il peut s'appliquer à un nouvel achat éligible avec le même compte, pas au renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
+          "Un client Hostinger existant peut-il utiliser SONAR20 ? Oui, sur un nouvel achat éligible avec le même compte, pas sur le renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
         ]
       },
       {
@@ -145738,7 +145738,7 @@ export const reviewsData: unknown[] = [
           "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app richiede una riconfigurazione fuori da lì.",
           "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è disponibile nei piani Unlimited e Cloud Startup come componente a pagamento. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
           "C'è un coupon per il builder IA Hostinger? Usa SONAR20 per il 20% sul primo periodo di un nuovo acquisto idoneo. Controlla abbonamento e servizi inclusi nel carrello; registrazione di dominio e rinnovo sono esclusi.",
-          "Un cliente Hostinger esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
+          "Un cliente Hostinger esistente può usare SONAR20? Sì, su un nuovo acquisto idoneo con lo stesso account, non sul rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
         ]
       },
       {
@@ -146002,7 +146002,7 @@ export const reviewsData: unknown[] = [
           "Kann man vom KI-Builder zu einem anderen Hoster migrieren? Laut Seite lässt sich der Quellcode exportieren und anderswo hosten. Das integrierte Back-End mit Datenbank und Login bleibt bei Hostinger, eine App muss also außerhalb neu konfiguriert werden.",
           "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop ist in den Tarifen Unlimited und Cloud Startup als kostenpflichtige Ergänzung verfügbar. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
           "Gibt es einen Gutschein für Hostingers KI-Builder? Nutzen Sie SONAR20 für 20 % auf die erste Laufzeit eines berechtigten Neukaufs. Prüfen Sie Abonnement und enthaltene Dienste im Warenkorb; Domainregistrierungen und Verlängerungen sind ausgeschlossen.",
-          "Können Hostinger-Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
+          "Können Hostinger-Bestandskunden SONAR20 nutzen? Ja, bei einem berechtigten Neukauf mit demselben Konto, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
         ]
       },
       {
@@ -146529,7 +146529,7 @@ export const reviewsData: unknown[] = [
           "AI Builder에서 다른 호스팅으로 옮길 수 있나요? 페이지에 따르면 소스 코드를 내보내 다른 곳에서 호스팅할 수 있습니다. 데이터베이스와 로그인이 있는 내장 백엔드는 Hostinger에 남기 때문에, 앱은 밖에서 다시 설정해야 합니다.",
           "AI Builder는 온라인 스토어에 맞나요? 작은 스토어라면 맞습니다. 온라인 스토어는 Unlimited와 Cloud Startup 플랜에서 유료 옵션으로 이용할 수 있습니다. 배송과 결제 규칙이 있는 큰 스토어는 WooCommerce를 쓰는 WordPress가 더 세밀하게 제어할 수 있습니다.",
           "Hostinger AI 빌더 쿠폰이 있나요? SONAR20으로 대상 신규 구매의 첫 계약 기간에 20% 할인을 받을 수 있습니다. 장바구니에서 구독과 포함 서비스를 확인하세요. 도메인 등록과 갱신은 제외됩니다.",
-          "기존 Hostinger 고객도 SONAR20을 쓸 수 있나요? 같은 계정의 대상 신규 구매에는 적용될 수 있지만 현재 서비스 갱신에는 적용되지 않습니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요."
+          "기존 Hostinger 고객도 SONAR20을 쓸 수 있나요? 네, 같은 계정의 대상 신규 구매에는 적용되며, 현재 서비스 갱신에는 적용되지 않습니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요."
         ]
       },
       {
@@ -146793,7 +146793,7 @@ export const reviewsData: unknown[] = [
           "能从 AI Builder 迁到别的主机吗？页面说源代码可以导出，放到别处托管。带数据库和登录的内置后端留在 Hostinger，所以应用在别处需要重新配置。",
           "AI Builder 适合开网店吗？小店可以：网店在 Unlimited 和 Cloud Startup 套餐中以付费附加项提供。对运费和支付规则复杂的大店，WordPress 加 WooCommerce 控制得更细。",
           "Hostinger AI建站工具有优惠码吗？SONAR20适用于符合资格的新购首个合同期间，折扣20%。请在购物车确认订阅与内含服务；域名注册与续费除外。",
-          "已有客户也能用SONAR20吗？同一账户符合资格的新购可适用，但当前服务的续费不适用。首个合同期间折扣20%，域名注册也除外。请确认购物车总额。"
+          "已有客户也能用SONAR20吗？可以，同一账户符合资格的新购适用，但当前服务的续费不适用。首个合同期间折扣20%，域名注册也除外。请确认购物车总额。"
         ]
       },
       {
@@ -147057,7 +147057,7 @@ export const reviewsData: unknown[] = [
           "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，放到別處託管。含資料庫和登入的內建後端留在 Hostinger，所以應用程式在別處需要重新設定。",
           "AI Builder 適合開網路商店嗎？小店可以：網路商店在 Unlimited 和 Cloud Startup 方案中以付費附加項提供。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
           "Hostinger AI建站工具有優惠碼嗎？SONAR20適用於符合資格的新購首個合約期間，折扣20%。請在購物車確認訂閱與內含服務；網域註冊與續約除外。",
-          "舊客戶也能用SONAR20嗎？同一帳號符合資格的新購可適用，但目前服務的續約不適用。首個合約期間折扣20%，網域註冊也除外。請確認購物車總額。"
+          "舊客戶也能用SONAR20嗎？可以，同一帳號符合資格的新購適用，但目前服務的續約不適用。首個合約期間折扣20%，網域註冊也除外。請確認購物車總額。"
         ]
       },
       {
@@ -147298,7 +147298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual caminho escolher",
         "paragraphs": [
-          "**Eu compraria na Hostinger** se o painel único fosse uma vantagem para a minha rotina e a renovação estivesse dentro do orçamento. Confiro o preço de renovação antes de pagar.",
+          "**Eu compraria na Hostinger** se o painel único fosse uma vantagem para a minha rotina e a renovação estivesse dentro do orçamento. Conferiria o preço de renovação antes de pagar.",
           "**Eu manteria fora e conectaria o DNS** se já tivesse o domínio ou preferisse separar os serviços. Antes de alterar a configuração, conferiria os registros usados pelo site e pelo e-mail.",
           "**Eu transferiria o registro** apenas depois de confirmar elegibilidade da extensão, bloqueios, custo e efeito no prazo de validade. Compare esse conjunto com o preço que paga hoje; incluir um ano não transforma toda transferência em economia.",
           "Se a dúvida é somente onde hospedar o site, comece avaliando a conexão sem transferência. Planeje qualquer alteração de DNS sem presumir que um desses caminhos garanta continuidade."
@@ -147318,7 +147318,7 @@ export const reviewsData: unknown[] = [
           "Posso trocar de hospedagem sem perder o domínio? Você pode manter o registro onde está e conectar a nova hospedagem por DNS, sem transferir o domínio. Confira os registros usados pelo site e pelo e-mail antes da mudança.",
           "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
           "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
-          "Dá para transferir o domínio da Hostinger para outro registrador? Depende da elegibilidade da extensão e dos bloqueios aplicáveis. Confira o procedimento e, quando exigido, desbloqueie, obtenha o código e confirme a solicitação. Uma transferência concluída não recebe reembolso padrão.",
+          "Dá para transferir o domínio da Hostinger para outro registrador? Dá, desde que a extensão permita e não haja bloqueio. Confira o procedimento e, quando exigido, desbloqueie, obtenha o código e confirme a solicitação. Uma transferência concluída não recebe reembolso padrão.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
@@ -147411,7 +147411,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The domain is a separate account from the hosting: it can stay at Hostinger or elsewhere, and the site works either way. Choose by the renewal price and by how easy it is to leave, not by the first year. Buy at Hostinger if you want everything in one panel, and transfer only eligible domains (generic extensions: at least 60 days since registration or the last transfer)."
+          "The domain is a separate account: it can stay at Hostinger or elsewhere, and the site works either way. Choose by the renewal price and how easy it is to leave, not by the first year. Buy at Hostinger if you want one panel; transfer only eligible domains (generic extensions: 60 days or more since registration or the last transfer)."
         ]
       },
       {
@@ -147535,7 +147535,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Can I change hosting without losing the domain? You can keep the registration where it is and connect the new hosting through DNS, without transferring the domain. Check the website and email records before changing them.",
           "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
-          "Can I transfer a domain from Hostinger to another registrar? It depends on extension eligibility and applicable locks. Check the procedure and, where required, unlock it, obtain the code and confirm the request. A completed transfer is excluded from standard refunds.",
+          "Can I transfer a domain from Hostinger to another registrar? Yes, as long as the extension allows it and there is no lock. Check the procedure and, where required, unlock it, obtain the code and confirm the request. A completed transfer is excluded from standard refunds.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
@@ -147752,7 +147752,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Puedo cambiar de hosting sin perder el dominio? Puedes mantener el registro donde está y conectar el nuevo hosting mediante DNS, sin transferir el dominio. Comprueba los registros del sitio y del correo antes de cambiarlos.",
           "¿Necesito un dominio para tener correo? Sí. Para una dirección como tu@tuempresa.com, el dominio tiene que existir; el hosting no es obligatorio, y Hostinger dice que se puede usar el dominio solo para correo o para redirigir a otro sitio.",
-          "¿Puedo transferir un dominio de Hostinger a otro registrador? Depende de la elegibilidad de la extensión y de los bloqueos aplicables. Comprueba el procedimiento y, cuando corresponda, desbloquea, obtén el código y confirma la solicitud. Una transferencia completada queda fuera del reembolso estándar.",
+          "¿Puedo transferir un dominio de Hostinger a otro registrador? Sí, siempre que la extensión lo permita y no haya bloqueo. Comprueba el procedimiento y, cuando corresponda, desbloquea, obtén el código y confirma la solicitud. Una transferencia completada queda fuera del reembolso estándar.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
@@ -147969,7 +147969,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Puis-je changer d’hébergement sans perdre le domaine ? Vous pouvez conserver son enregistrement et connecter le nouvel hébergement par DNS, sans transférer le domaine. Vérifiez les enregistrements du site et de l’e-mail avant de les modifier.",
           "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
-          "Puis-je transférer un domaine Hostinger vers un autre registrar ? Cela dépend de l’éligibilité de l’extension et des verrouillages applicables. Vérifiez la procédure puis, si nécessaire, déverrouillez, obtenez le code et confirmez la demande. Un transfert abouti est exclu du remboursement standard.",
+          "Puis-je transférer un domaine Hostinger vers un autre registrar ? Oui, à condition que l’extension le permette et qu’il n’y ait pas de verrouillage. Vérifiez la procédure puis, si nécessaire, déverrouillez, obtenez le code et confirmez la demande. Un transfert abouti est exclu du remboursement standard.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
@@ -148186,7 +148186,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Posso cambiare hosting senza perdere il dominio? Puoi mantenere la registrazione dov’è e collegare il nuovo hosting tramite DNS, senza trasferire il dominio. Controlla i record del sito e della posta prima di modificarli.",
           "Mi serve un dominio per avere l'e-mail? Sì. Per un indirizzo come tu@tuaazienda.com, il dominio deve esistere; l'hosting non è obbligatorio, e Hostinger dice che si può usare il dominio solo per l'e-mail o per reindirizzare a un altro sito.",
-          "Posso trasferire un dominio Hostinger a un altro registrar? Dipende dall’idoneità dell’estensione e dai blocchi applicabili. Verifica la procedura e, dove richiesto, sblocca, ottieni il codice e conferma la richiesta. Un trasferimento completato è escluso dal rimborso standard.",
+          "Posso trasferire un dominio Hostinger a un altro registrar? Sì, purché l’estensione lo consenta e non ci siano blocchi. Verifica la procedura e, dove richiesto, sblocca, ottieni il codice e conferma la richiesta. Un trasferimento completato è escluso dal rimborso standard.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
@@ -148403,7 +148403,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Kann ich das Hosting wechseln, ohne die Domain zu verlieren? Sie können die Registrierung beibehalten und das neue Hosting per DNS verbinden, ohne die Domain umzuziehen. Prüfen Sie Website- und E-Mail-Einträge vor der Änderung.",
           "Braucht man eine Domain für E-Mail? Ja. Für eine Adresse wie sie@ihrefirma.com muss die Domain existieren; ein Hosting ist nicht nötig, und Hostinger sagt, dass man die Domain nur für E-Mail oder für die Weiterleitung auf eine andere Website nutzen kann.",
-          "Kann ich eine Hostinger-Domain zu einem anderen Registrar umziehen? Das hängt von der Endung und den geltenden Sperren ab. Prüfen Sie das Verfahren und entsperren Sie die Domain, holen Sie den Code und bestätigen Sie den Antrag, soweit erforderlich. Ein abgeschlossener Transfer ist von der regulären Erstattung ausgeschlossen.",
+          "Kann ich eine Hostinger-Domain zu einem anderen Registrar umziehen? Ja, sofern die Endung es zulässt und keine Sperre besteht. Prüfen Sie das Verfahren und entsperren Sie die Domain, holen Sie den Code und bestätigen Sie den Antrag, soweit erforderlich. Ein abgeschlossener Transfer ist von der regulären Erstattung ausgeschlossen.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
@@ -148620,7 +148620,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "ドメインを失わずにホスティングを変えられる？ 登録はそのままにし、DNSで新しいホスティングへ接続できます。ドメインの移管は不要です。変更前にサイトとメールのDNSレコードを確認してください。",
           "メールを使うのにドメインは必要ですか？ はい。you@yourcompany.comのようなアドレスには、ドメインが必要です。ホスティングは必須ではなく、Hostingerは、ドメインをメール専用にしたり、別のサイトへの転送だけに使ったりできると書いています。",
-          "Hostingerのドメインを別のレジストラへ移せる？ 拡張子の移管条件と適用されるロックによります。手順を確認し、必要に応じてロック解除、コード取得、申請の確認を行ってください。完了した移管は通常の返金対象外です。",
+          "Hostingerのドメインを別のレジストラへ移せる？ はい。拡張子の移管条件を満たし、ロックがなければ移せます。手順を確認し、必要に応じてロック解除、コード取得、申請の確認を行ってください。完了した移管は通常の返金対象外です。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
@@ -148837,7 +148837,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "도메인을 잃지 않고 호스팅을 바꿀 수 있나요? 도메인 등록은 그대로 두고 DNS로 새 호스팅에 연결할 수 있습니다. 도메인을 이전할 필요는 없습니다. 바꾸기 전에 사이트와 이메일의 DNS 레코드를 확인하세요.",
           "이메일을 쓰려면 도메인이 필요한가요? 네. you@yourcompany.com 같은 주소에는 도메인이 있어야 합니다. 호스팅은 필수가 아니며, Hostinger는 도메인을 이메일 전용으로 쓰거나 다른 사이트로 연결하는 용도로만 쓸 수 있다고 말합니다.",
-          "Hostinger 도메인을 다른 등록 기관으로 이전할 수 있나요? 확장자의 이전 자격과 적용되는 잠금에 따라 다릅니다. 절차를 확인하고 필요한 경우 잠금을 풀고 코드를 받아 신청을 확인하세요. 완료된 이전은 일반 환불 대상에서 제외됩니다.",
+          "Hostinger 도메인을 다른 등록 기관으로 이전할 수 있나요? 네, 확장자가 이전을 허용하고 잠금이 없다면 가능합니다. 절차를 확인하고 필요한 경우 잠금을 풀고 코드를 받아 신청을 확인하세요. 완료된 이전은 일반 환불 대상에서 제외됩니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
@@ -149054,7 +149054,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "换主机会丢失域名吗？可以保留原本注册，通过DNS连接新主机，不必转移域名。变更前请确认网站与邮箱使用的DNS记录。",
           "用邮箱一定要有域名吗？要。像 you@yourcompany.com 这样的地址，域名必须存在；主机不是必需的，Hostinger 说域名可以只用于邮箱，或只用来跳转到另一个网站。",
-          "可以把Hostinger域名转到其他注册商吗？取决于域名后缀资格与适用锁定。请确认程序，按需解锁、取得代码并确认申请。已完成的转移不在一般退款范围内。",
+          "可以把Hostinger域名转到其他注册商吗？可以，只要域名后缀允许且没有锁定。请确认程序，按需解锁、取得代码并确认申请。已完成的转移不在一般退款范围内。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
@@ -149271,7 +149271,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "換主機會失去網域嗎？可以保留原本註冊，透過DNS連接新主機，不必轉移網域。變更前請確認網站與電子郵件使用的DNS記錄。",
           "使用電子郵件一定要有網域嗎？要。像 you@yourcompany.com 這樣的位址，網域必須存在；主機不是必需的，Hostinger 說網域可以只用於電子郵件，或只用來轉址到另一個網站。",
-          "可以把Hostinger網域轉到其他註冊商嗎？取決於網域後綴資格與適用鎖定。請確認程序，依需要解鎖、取得代碼並確認申請。已完成的轉移不在一般退款範圍內。",
+          "可以把Hostinger網域轉到其他註冊商嗎？可以，只要網域後綴允許且沒有鎖定。請確認程序，依需要解鎖、取得代碼並確認申請。已完成的轉移不在一般退款範圍內。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
@@ -149926,7 +149926,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qué es cada uno",
         "paragraphs": [
           "El **hosting compartido** es un servidor dividido entre varios clientes. Hostinger se encarga del sistema, del servidor web y de las actualizaciones; tú entras al panel, instalas WordPress o subes los archivos del sitio y listo. En Hostinger son los planes Single, Premium y Unlimited, y el Cloud Startup, que es la misma idea con más recursos.",
-          "Un **VPS** (servidor privado virtual) es una máquina virtual solo tuya, con procesador, memoria y disco reservados y acceso root, la cuenta de administración del sistema. Tú asumes la configuración, las actualizaciones y la seguridad. Una plantilla puede traer WordPress preinstalado y facilitar el inicio; la administración posterior sigue siendo tuya. Los planes comparados son KVM 1, 2, 4 y 8.",
+          "Un **VPS** (servidor privado virtual) es una máquina virtual solo tuya, con procesador, memoria y disco reservados y acceso root, la cuenta de administración del sistema. Tú asumes la configuración, las actualizaciones y la seguridad.  Los planes comparados son KVM 1, 2, 4 y 8.",
           "La diferencia no es «mejor o peor». Es quién cuida el servidor y cuántos recursos quedan reservados para ti."
         ]
       },
@@ -150163,14 +150163,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour un blog, un portfolio ou une petite boutique, commencez par comparer les forfaits mutualisés qui prennent en charge votre application. Envisagez un VPS si vous avez besoin de réglages, de logiciels ou d'un accès root absents de ces forfaits, et de quelqu'un pour administrer le serveur. Ne choisissez pas seulement d'après le nom du forfait : le tableau par scénario aide à comparer."
+          "Pour un blog, un portfolio ou une petite boutique, comparez d'abord les forfaits mutualisés compatibles avec votre application. Envisagez un VPS s'il vous faut des réglages, des logiciels ou un accès root absents de ces forfaits, et quelqu'un pour administrer le serveur. Ne choisissez pas seulement d'après le nom du forfait : le tableau par scénario aide à comparer."
         ]
       },
       {
         "heading": "Ce qu'est chacun",
         "paragraphs": [
           "L'**hébergement mutualisé** est un serveur partagé entre plusieurs clients. Hostinger s'occupe du système, du serveur web et des mises à jour ; vous entrez dans le panneau, installez WordPress ou envoyez les fichiers du site, et c'est tout. Chez Hostinger, ce sont les forfaits Single, Premium et Unlimited, et le Cloud Startup, qui suit la même idée avec plus de ressources.",
-          "Un **VPS** est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés et accès root, le compte d'administration du système. La configuration, les mises à jour et la sécurité restent à votre charge. Un modèle peut inclure WordPress préinstallé et faciliter le démarrage ; l'administration par la suite vous revient. Les offres comparées sont KVM 1, 2, 4 et 8.",
+          "Un **VPS** est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés et accès root, le compte d'administration du système. La configuration, les mises à jour et la sécurité restent à votre charge.  Les offres comparées sont KVM 1, 2, 4 et 8.",
           "La différence n'est pas « meilleur ou moins bon ». C'est qui s'occupe du serveur et quelle part des ressources vous est réservée."
         ]
       },
@@ -150414,7 +150414,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cos'è ciascuno",
         "paragraphs": [
           "L'**hosting condiviso** è un server diviso tra più clienti. Hostinger si occupa del sistema, del server web e degli aggiornamenti; tu entri nel pannello, installi WordPress o carichi i file del sito, e basta. Su Hostinger sono i piani Single, Premium e Unlimited, più il Cloud Startup, che è la stessa idea con più risorse.",
-          "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati e accesso root, l'account di amministrazione del sistema. Configurazione, aggiornamenti e sicurezza restano a tuo carico. Un template può includere WordPress preinstallato e facilitare l'avvio; l'amministrazione successiva resta tua. I piani confrontati sono KVM 1, 2, 4 e 8.",
+          "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati e accesso root, l'account di amministrazione del sistema. Configurazione, aggiornamenti e sicurezza restano a tuo carico.  I piani confrontati sono KVM 1, 2, 4 e 8.",
           "La differenza non è «meglio o peggio». È chi si occupa del server e quante risorse restano riservate a te."
         ]
       },
@@ -150658,7 +150658,7 @@ export const reviewsData: unknown[] = [
         "heading": "Was beides ist",
         "paragraphs": [
           "**Shared Hosting** ist ein Server, der unter mehreren Kunden aufgeteilt wird. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Single, Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
-          "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz sowie Root-Zugriff, dem Administratorkonto des Systems. Konfiguration, Updates und Sicherheit liegen bei Ihnen. Eine Vorlage kann WordPress vorinstalliert mitbringen und den Einstieg erleichtern; die spätere Administration bleibt bei Ihnen. Verglichen werden KVM 1, 2, 4 und 8.",
+          "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz sowie Root-Zugriff, dem Administratorkonto des Systems. Konfiguration, Updates und Sicherheit liegen bei Ihnen.  Verglichen werden KVM 1, 2, 4 und 8.",
           "Der Unterschied ist nicht „besser oder schlechter“. Es geht darum, wer den Server betreut und wie viele Ressourcen für Sie reserviert sind."
         ]
       },
@@ -150902,7 +150902,7 @@ export const reviewsData: unknown[] = [
         "heading": "それぞれの仕組み",
         "paragraphs": [
           "**共有ホスティング**は、一台のサーバーを複数の顧客で分け合う方式です。システム、ウェブサーバー、アップデートは Hostinger が面倒を見ます。あなたはパネルに入って WordPress を入れるか、サイトのファイルをアップロードするだけです。Hostinger では Single、Premium、Unlimited のプラン、そして同じ考え方でリソースを増やした Cloud Startup がこれにあたります。",
-          "**VPS**（仮想専用サーバー）は、プランで決まったリソースと root 権限を持つ仮想マシンです。root はシステムの管理者アカウントで、設定、更新、セキュリティはあなたが担います。WordPress が導入済みのテンプレートを使えば初期設定は減らせますが、その後の運用まで Hostinger が引き受けるわけではありません。比較するのは KVM 1、2、4、8 です。",
+          "**VPS**（仮想専用サーバー）は、プランで決まったリソースと root 権限を持つ仮想マシンです。root はシステムの管理者アカウントで、設定、更新、セキュリティはあなたが担います。比較するのは KVM 1、2、4、8 です。",
           "違いは「どちらが優れているか」ではありません。誰がサーバーを管理するか、どれだけのリソースが専用に確保されるか、です。"
         ]
       },
@@ -151036,7 +151036,7 @@ export const reviewsData: unknown[] = [
         "emphasisAfterParagraph": 3,
         "paragraphs": [
           "**共有ホスティング**は、ブログ、ポートフォリオ、会社サイト、小さなショップに。サーバーの運用は Hostinger が担います。プランは Premium が出発点。Node.js のサイトや、サイトが成長したときは、VPS を考える前に Unlimited か Cloud Startup です。Node.js を使うだけでは VPS は必要ありません。",
-          "**VPS** は、表に示したような管理権限や設定が必要な場合に比較対象になります。KVM はアプリケーションの要件で選び、管理にかかる時間や費用も含めてください。KVM 1 で足りると決めつけず、メモリだけが限界だとも考えないでください。",
+          "**VPS** は、表に示したような管理権限や設定が必要な場合に比較対象になります。KVM はアプリケーションの要件で選び、管理にかかる時間や費用も含めてください。",
           "**迷ったら共有ホスティング。** VPS が必要になったら、新たに契約し、環境を整えて、サイトを移すことになります。"
         ]
       },
@@ -151146,7 +151146,7 @@ export const reviewsData: unknown[] = [
         "heading": "둘은 무엇이 다른가",
         "paragraphs": [
           "**공유 호스팅**은 한 서버를 여러 고객이 나눠 쓰는 방식입니다. 시스템, 웹 서버, 업데이트는 호스팅어가 맡고, 이용자는 패널에 들어가 WordPress를 설치하거나 사이트 파일을 올리면 끝입니다. 호스팅어에서는 Single, Premium, Unlimited 플랜과, 같은 방식에 자원을 더한 Cloud Startup이 여기에 해당합니다.",
-          "**VPS**(가상 사설 서버)는 플랜에 정해진 자원과 root 접근을 제공하는 가상 머신입니다. root는 시스템 관리자 계정이며, 설정, 업데이트와 보안은 이용자가 맡습니다. WordPress가 미리 설치된 템플릿으로 시작할 수는 있지만, 이후 서버 관리까지 호스팅어가 맡는 것은 아닙니다. 비교 대상은 KVM 1, 2, 4, 8입니다.",
+          "**VPS**(가상 사설 서버)는 플랜에 정해진 자원과 root 접근을 제공하는 가상 머신입니다. root는 시스템 관리자 계정이며, 설정, 업데이트와 보안은 이용자가 맡습니다.  비교 대상은 KVM 1, 2, 4, 8입니다.",
           "차이는 “어느 쪽이 더 좋으냐”가 아닙니다. 누가 서버를 돌보는지, 그리고 얼마만큼의 자원이 예약되는지의 차이입니다."
         ]
       },
@@ -151280,7 +151280,7 @@ export const reviewsData: unknown[] = [
         "emphasisAfterParagraph": 3,
         "paragraphs": [
           "**공유 호스팅**은 블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰에 맞습니다. 서버 유지는 호스팅어의 몫입니다. 플랜 중에서는 Premium이 출발점이고, Node.js 사이트이거나 사이트가 커지면 VPS를 생각하기 전에 Unlimited나 Cloud Startup으로 올라가세요. Node.js만으로는 VPS가 필요하지 않습니다.",
-          "**VPS**는 표에 나온 관리 권한과 설정이 필요할 때 비교 대상이 됩니다. KVM은 애플리케이션 요구 사항으로 고르고, 관리 시간과 비용도 함께 계산하세요. KVM 1이 항상 충분하다고 보지 말고, RAM만 한계라고 여기지도 마세요.",
+          "**VPS**는 표에 나온 관리 권한과 설정이 필요할 때 비교 대상이 됩니다. KVM은 애플리케이션 요구 사항으로 고르고, 관리 시간과 비용도 함께 계산하세요. ",
           "**망설여진다면 공유 호스팅입니다.** VPS가 나중에 필요해지면 새로 계약하고 환경을 설정한 뒤 사이트를 옮기면 됩니다."
         ]
       },
@@ -151390,7 +151390,7 @@ export const reviewsData: unknown[] = [
         "heading": "两者各是什么",
         "paragraphs": [
           "**共享主机**是一台服务器由多位客户分用。系统、Web 服务器和更新由 Hostinger 负责；你进入面板，安装 WordPress 或上传网站文件，就完成了。在 Hostinger，这是 Single、Premium 和 Unlimited 套餐，还有 Cloud Startup，思路相同，资源更多。",
-          "**VPS**（虚拟专用服务器）是一台提供套餐资源和 root 权限的虚拟机。root 是系统管理员账户；配置、更新和安全由你负责。预装 WordPress 的模板可以简化起步，但之后的服务器管理不会因此转交给 Hostinger。本文比较 KVM 1、2、4 和 8。",
+          "**VPS**（虚拟专用服务器）是一台提供套餐资源和 root 权限的虚拟机。root 是系统管理员账户；配置、更新和安全由你负责。本文比较 KVM 1、2、4 和 8。",
           "区别不在于“谁更好”，而在于谁来照看服务器，以及有多少资源是专门留给你的。"
         ]
       },
@@ -151524,7 +151524,7 @@ export const reviewsData: unknown[] = [
         "emphasisAfterParagraph": 3,
         "paragraphs": [
           "**共享主机**适合博客、作品集、公司网站、小型网店，服务器维护由 Hostinger 负责。套餐里 Premium 是起点；Node.js 网站或网站长大了，先升到 Unlimited 或 Cloud Startup，再考虑 VPS。Node.js 本身不需要 VPS。",
-          "**VPS** 适合在需要场景表所述控制权和配置时比较。按应用要求选择 KVM，并计入管理时间或费用。不要假定 KVM 1 总是够用，也不要把内存看成唯一限制。",
+          "**VPS** 适合在需要场景表所述控制权和配置时比较。按应用要求选择 KVM，并计入管理时间或费用。",
           "**拿不准，就选共享主机。** 如果之后需要 VPS，那就是一份新合同，还要配置环境并迁移网站。"
         ]
       },
@@ -151634,7 +151634,7 @@ export const reviewsData: unknown[] = [
         "heading": "兩者各是什麼",
         "paragraphs": [
           "**共享主機**是一台伺服器由多位客戶分用。系統、Web 伺服器與更新由 Hostinger 負責；你進入面板，安裝 WordPress 或上傳網站檔案，就完成了。在 Hostinger，這是 Single、Premium 與 Unlimited 方案，還有 Cloud Startup，想法相同，資源更多。",
-          "**VPS**（虛擬專屬伺服器）是一台提供方案資源與 root 權限的虛擬機器。root 是系統管理帳號；設定、更新與安全由你負責。預裝 WordPress 的範本可以簡化起步，但之後的伺服器管理不會因此交給 Hostinger。本文比較 KVM 1、2、4 與 8。",
+          "**VPS**（虛擬專屬伺服器）是一台提供方案資源與 root 權限的虛擬機器。root 是系統管理帳號；設定、更新與安全由你負責。本文比較 KVM 1、2、4 與 8。",
           "差別不在於「誰比較好」，而在於誰來照顧伺服器，以及有多少資源是專門留給你的。"
         ]
       },
@@ -151768,7 +151768,7 @@ export const reviewsData: unknown[] = [
         "emphasisAfterParagraph": 3,
         "paragraphs": [
           "**共享主機**適合部落格、作品集、公司網站、小型網路商店，伺服器維護由 Hostinger 負責。方案裡 Premium 是起點；Node.js 網站或網站長大了，先升到 Unlimited 或 Cloud Startup，再考慮 VPS。Node.js 本身不需要 VPS。",
-          "**VPS** 適合在需要情境表所述控制權與設定時比較。依應用需求選擇 KVM，並計入管理時間或費用。不要假設 KVM 1 總是足夠，也別把記憶體視為唯一限制。",
+          "**VPS** 適合在需要情境表所述控制權與設定時比較。依應用需求選擇 KVM，並計入管理時間或費用。",
           "**拿不定主意，就選共享主機。** 如果之後需要 VPS，那是一份新合約，還要設定環境並遷移網站。"
         ]
       },
@@ -151857,7 +151857,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em novembro, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas avaliações negativas visíveis que lemos, apareceram problemas de entrega internacional e rastreio, e a nota global não separa países."
+          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em novembro, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas avaliações negativas visíveis, apareceram problemas de entrega internacional e rastreio, e a nota global não separa países."
         ]
       },
       {
@@ -151888,7 +151888,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que aparece nas queixas",
         "paragraphs": [
-          "Nas avaliações negativas visíveis que lemos, os temas foram estes, sem contar nem ranquear:"
+          "Nas avaliações negativas visíveis, os temas foram estes, sem contar nem ranquear:"
         ],
         "bullets": [
           "Atraso na entrega e espera longa, em pacote que vem de fora.",
@@ -151975,7 +151975,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "Nas avaliações negativas visíveis que lemos, apareceram problemas de entrega e rastreio. Antes de pagar, confira o frete e o prazo para o seu endereço no checkout. Para Portugal, o IVA já vem no preço, e os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Nas avaliações negativas visíveis, apareceram problemas de entrega e rastreio. Antes de pagar, confira o frete e o prazo para o seu endereço no checkout. Para Portugal, o IVA já vem no preço, e os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Depois de pagar, guarde o número do pedido e o código de rastreio: é com eles que se abre um chamado no atendimento se o pacote atrasar ou o rastreio parar.",
           "Se você decidiu comprar, a página de [cupons YesStyle e código de recompensa](/cupons/yesstyle) aqui do site leva à loja. O link é de afiliado: a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você."
         ]
@@ -152046,7 +152046,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle has a good Trustpilot score, with one caveat. In November 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. The visible negative reviews we read mentioned international delivery and tracking, and the score is global and doesn't separate countries."
+          "YesStyle has a good Trustpilot score, with one caveat. In November 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. The visible negative reviews mentioned international delivery and tracking, and the score is global and doesn't separate countries."
         ]
       },
       {
@@ -152077,7 +152077,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What shows up in the complaints",
         "paragraphs": [
-          "In the visible negative reviews we read, the themes were these, without counting or ranking them:"
+          "In the visible negative reviews, the themes were these, without counting or ranking them:"
         ],
         "bullets": [
           "Late delivery and long waits, on a package coming from abroad.",
@@ -152164,7 +152164,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Before you pay",
         "paragraphs": [
-          "The negative reviews we read included delivery and tracking problems. Before paying, check the shipping cost and delivery estimate for your address at checkout. Rates and how delivery times are counted for each country are covered in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "The visible negative reviews included delivery and tracking problems. Before paying, check the shipping cost and delivery estimate for your address at checkout. Rates and how delivery times are counted for each country are covered in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
           "After paying, keep the order number and the tracking code: they are what you need to open a ticket with customer service if the package is late or tracking stops.",
           "If you've decided to buy, our page on [YesStyle coupons and the reward code](/en/coupons/yesstyle) leads to the store. The link is an affiliate link: a purchase may earn Em Casa com Cecília a commission, at no extra cost to you."
         ]
@@ -152234,7 +152234,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle tiene buena calificación en Trustpilot, con una salvedad. En noviembre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. En las opiniones negativas visibles que leímos aparecían problemas de envío internacional y seguimiento. La nota es global y no separa países."
+          "YesStyle tiene buena calificación en Trustpilot, con una salvedad. En noviembre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. Las opiniones negativas visibles mencionan problemas de envío internacional y seguimiento, y la nota es global y no separa países."
         ]
       },
       {
@@ -152265,7 +152265,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué aparece en las quejas",
         "paragraphs": [
-          "En las opiniones negativas visibles que leímos, los temas son los siguientes, sin contarlos ni ordenarlos:"
+          "En las opiniones negativas visibles, los temas son los siguientes, sin contarlos ni ordenarlos:"
         ],
         "bullets": [
           "Retraso en la entrega y espera larga, en un paquete que viene de fuera.",
@@ -152352,7 +152352,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "En las opiniones negativas visibles que leímos, los problemas fueron de envío y seguimiento. Antes de pagar, comprueba el coste de envío y el plazo para tu dirección en el checkout. Los importes y el cómputo de plazos están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "En las opiniones negativas visibles, los problemas fueron de envío y seguimiento. Antes de pagar, comprueba el coste de envío y el plazo para tu dirección en el checkout. Los importes y el cómputo de plazos están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
           "Después de pagar, guarda el número de pedido y el código de seguimiento: con ellos se abre una incidencia en atención al cliente si el paquete se retrasa o el seguimiento se detiene.",
           "Si ya decidiste comprar, la página de [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle) de este sitio lleva a la tienda. El enlace es de afiliado: la compra puede generar una comisión para Em Casa com Cecília, sin coste extra para ti."
         ]
@@ -152422,7 +152422,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle a une bonne note sur Trustpilot, avec une réserve. En novembre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Dans les avis négatifs visibles que nous avons lus, apparaissaient des problèmes de livraison internationale et de suivi. La note est globale et ne distingue pas les pays."
+          "YesStyle a une bonne note sur Trustpilot, avec une réserve. En novembre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Les avis négatifs visibles font état de problèmes de livraison internationale et de suivi, et la note est globale : elle ne distingue pas les pays."
         ]
       },
       {
@@ -152453,7 +152453,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce qui ressort des plaintes",
         "paragraphs": [
-          "Dans les avis négatifs visibles que nous avons lus, les thèmes sont les suivants, sans les compter ni les classer :"
+          "Dans les avis négatifs visibles, les thèmes sont les suivants, sans les compter ni les classer :"
         ],
         "bullets": [
           "Retard de livraison et longue attente, sur un colis venu de l’étranger.",
@@ -152540,7 +152540,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avant de payer",
         "paragraphs": [
-          "Dans les avis négatifs visibles que nous avons lus, les problèmes concernaient la livraison et le suivi. Avant de payer, vérifiez les frais de port et le délai pour votre adresse, affichés au paiement. Les montants et le décompte des délais figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "Dans les avis négatifs visibles, les problèmes concernaient la livraison et le suivi. Avant de payer, vérifiez les frais de port et le délai pour votre adresse, affichés au paiement. Les montants et le décompte des délais figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
           "Après le paiement, gardez le numéro de commande et le code de suivi : ce sont eux qui permettent d’ouvrir un ticket auprès du service client si le colis tarde ou si le suivi s’arrête.",
           "Si vous avez décidé d’acheter, la page des [codes promo YesStyle et du code récompense](/fr/coupons/yesstyle) de notre site mène à la boutique. Le lien est affilié : l’achat peut rapporter une commission à Em Casa com Cecília, sans frais supplémentaires pour vous."
         ]
@@ -152592,7 +152592,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i temi dei reclami e i limiti di un punteggio globale.",
+    "description": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i temi dei reclami nelle recensioni negative e i limiti di un punteggio globale.",
     "metaDescription": "YesStyle su Trustpilot a novembre 2026: punteggio 4,4 su 104 mila recensioni, 71% di cinque stelle, reclami su consegna e tracking. Scopri cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -152610,7 +152610,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. A novembre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Nelle recensioni negative visibili che abbiamo letto comparivano problemi di consegna internazionale e tracking. Il punteggio è globale e non distingue i paesi."
+          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. A novembre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Le recensioni negative visibili segnalano problemi di consegna internazionale e tracking, e il punteggio è globale e non distingue i paesi."
         ]
       },
       {
@@ -152641,7 +152641,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cosa emerge dai reclami",
         "paragraphs": [
-          "Nelle recensioni negative visibili che abbiamo letto, i temi sono i seguenti, senza contarli né classificarli:"
+          "Nelle recensioni negative visibili, i temi sono i seguenti, senza contarli né classificarli:"
         ],
         "bullets": [
           "Ritardo nella consegna e lunga attesa, su un pacco che arriva dall’estero.",
@@ -152728,7 +152728,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prima di pagare",
         "paragraphs": [
-          "Nelle recensioni negative visibili che abbiamo letto, i problemi riguardavano consegna e tracking. Prima di pagare, controlla spese di spedizione e tempi per il tuo indirizzo nel checkout. Importi e conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "Nelle recensioni negative visibili, i problemi riguardavano consegna e tracking. Prima di pagare, controlla spese di spedizione e tempi per il tuo indirizzo nel checkout. Importi e conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
           "Dopo il pagamento, conserva il numero d’ordine e il codice di tracking: servono per aprire una richiesta all’assistenza se il pacco ritarda o il tracking si ferma.",
           "Se hai deciso di comprare, la pagina dei [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle) di questo sito porta al negozio. Il link è di affiliazione: l’acquisto può generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per te."
         ]
@@ -152798,7 +152798,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Im November 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den sichtbaren negativen Bewertungen, die wir gelesen haben, ging es um die internationale Lieferung und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern."
+          "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Im November 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den sichtbaren negativen Bewertungen ging es um die internationale Lieferung und die Sendungsverfolgung, und die Note ist global und trennt nicht nach Ländern."
         ]
       },
       {
@@ -152829,7 +152829,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was in den Beschwerden auftaucht",
         "paragraphs": [
-          "In den sichtbaren negativen Bewertungen, die wir gelesen haben, ging es um folgende Punkte, ohne sie zu zählen oder zu ordnen:"
+          "In den sichtbaren negativen Bewertungen ging es um folgende Punkte, ohne sie zu zählen oder zu ordnen:"
         ],
         "bullets": [
           "Verspätete Lieferung und lange Wartezeit bei einem Paket aus dem Ausland.",
@@ -152916,7 +152916,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vor dem Bezahlen",
         "paragraphs": [
-          "In den sichtbaren negativen Bewertungen, die wir gelesen haben, ging es um Lieferung und Sendungsverfolgung. Prüfen Sie vor der Zahlung Versandkosten und Lieferzeit für Ihre Adresse im Checkout. Beträge und Berechnung der Lieferzeiten stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "In den sichtbaren negativen Bewertungen ging es um Lieferung und Sendungsverfolgung. Prüfen Sie vor der Zahlung Versandkosten und Lieferzeit für Ihre Adresse im Checkout. Beträge und Berechnung der Lieferzeiten stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
           "Bewahren Sie nach der Zahlung Bestellnummer und Tracking-Code auf: Damit eröffnet man beim Kundenservice eine Anfrage, wenn das Paket sich verspätet oder das Tracking stehen bleibt.",
           "Wenn Sie sich zum Kauf entschieden haben, führt die Seite zu [YesStyle-Gutscheinen und Reward Code](/de/coupons/yesstyle) hier auf der Website zum Shop. Der Link ist ein Affiliate-Link: Ein Kauf kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie."
         ]
@@ -152986,7 +152986,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年11月時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。表示されていた低評価レビューには、国際配送や追跡の問題がありました。この評価は世界全体のもので、国別には分かれていません。"
+          "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年11月時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。表示されていた低評価レビューには国際配送や追跡の問題があり、この評価は世界全体のもので国別には分かれていません。"
         ]
       },
       {
@@ -153174,7 +153174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 11월 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 보이는 부정적 리뷰에서는 해외 배송과 배송 추적 문제가 나왔습니다. 이 평점은 전 세계를 합친 것이며 국가별로 나뉘어 있지 않습니다."
+          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 11월 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 보이는 부정적 리뷰에서는 해외 배송과 배송 추적 문제가 나왔고, 이 평점은 전 세계를 합친 것이라 국가별로 나뉘어 있지 않습니다."
         ]
       },
       {
@@ -153968,7 +153968,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: who writes the reviews, and from where",
         "paragraphs": [
-          "The www.shein.com profile we read combines reviews from different countries, without reporting how many came from each one. It does not isolate delivery or customer service for your destination.",
+          "The www.shein.com profile combines reviews from different countries, without reporting how many came from each one. It does not isolate delivery or customer service for your destination.",
           "The UK Trustpilot site showed the same profile and figures.",
           "So the score speaks for the store's customers worldwide, not for how an order to your address will go."
         ],
@@ -154063,7 +154063,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN en Trustpilot: la calificación de 3,8 registrada en noviembre de 2026, los temas de entrega y reembolso en las opiniones leídas y los límites de un perfil global.",
+    "description": "SHEIN tiene 3,8 sobre 5 en Trustpilot en noviembre de 2026. Las opiniones negativas tratan de paquetes y reembolsos, y el perfil es global: no separa los países.",
     "metaDescription": "SHEIN en Trustpilot en noviembre de 2026: calificación 3,8 con 353.527 opiniones, 59 % de cinco estrellas y 18 % de una, quejas por entregas y reembolsos. Lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
@@ -154146,7 +154146,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: quién opina, y desde dónde",
         "paragraphs": [
-          "El perfil de www.shein.com leído reúne opiniones de distintos países, sin informar cuántas vienen de cada uno. No aísla la entrega ni el servicio al cliente de tu destino.",
+          "El perfil de www.shein.com reúne opiniones de distintos países, sin informar cuántas vienen de cada uno. No aísla la entrega ni el servicio al cliente de tu destino.",
           "El sitio de Trustpilot del Reino Unido mostraba el mismo perfil y las mismas cifras.",
           "Por eso la calificación habla de los clientes de la tienda en todo el mundo, no de cómo irá un pedido a tu dirección."
         ],
@@ -154241,7 +154241,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN sur Trustpilot : la note de 3,8 relevée en novembre 2026, les thèmes de livraison et de remboursement dans les avis lus, et les limites du profil mondial.",
+    "description": "SHEIN affiche 3,8 sur 5 sur Trustpilot en novembre 2026. Les avis négatifs portent sur des colis et des remboursements, et le profil est mondial : il ne sépare pas les pays.",
     "metaDescription": "SHEIN sur Trustpilot en novembre 2026 : TrustScore de 3,8 pour 353 527 avis, 59 % de cinq étoiles et 18 % d’une, plaintes sur la livraison et les remboursements. Ce que la note ne montre pas.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -154324,7 +154324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot : qui donne son avis, et d’où",
         "paragraphs": [
-          "Le profil www.shein.com lu rassemble des avis de plusieurs pays, sans en préciser le nombre pour chacun. Il n’isole pas la livraison ni le service client de votre destination.",
+          "Le profil www.shein.com rassemble des avis de plusieurs pays, sans en préciser le nombre pour chacun. Il n’isole pas la livraison ni le service client de votre destination.",
           "Le site britannique de Trustpilot affichait le même profil et les mêmes chiffres.",
           "La note parle donc des clients de la boutique dans le monde entier, pas de la façon dont se passera une commande à votre adresse."
         ],
@@ -154419,7 +154419,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN su Trustpilot: il 3,8 rilevato a novembre 2026, i temi di consegna e rimborso nelle recensioni lette e i limiti del profilo globale.",
+    "description": "SHEIN ha 3,8 su 5 su Trustpilot a novembre 2026. Le recensioni negative riguardano soprattutto pacchi e rimborsi, e il profilo è globale: non separa i paesi.",
     "metaDescription": "SHEIN su Trustpilot a novembre 2026: 3,8 su 353.527 recensioni, 59% di cinque stelle, 18% di una. Reclami su consegne e rimborsi, e cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -154502,7 +154502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: chi recensisce, e da dove",
         "paragraphs": [
-          "Il profilo www.shein.com letto raccoglie recensioni di più paesi, senza indicare quante ne arrivino da ciascuno. Non isola la consegna o l’assistenza per la tua destinazione.",
+          "Il profilo www.shein.com raccoglie recensioni di più paesi, senza indicare quante ne arrivino da ciascuno. Non isola la consegna o l’assistenza per la tua destinazione.",
           "Il sito britannico di Trustpilot mostrava lo stesso profilo e gli stessi numeri.",
           "Per questo il punteggio parla dei clienti del negozio in tutto il mondo, non di come andrà un ordine al tuo indirizzo."
         ],
@@ -154597,7 +154597,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN auf Trustpilot: der im November 2026 erfasste Wert 3,8, Themen zu Lieferung und Erstattung in den gelesenen Bewertungen und die Grenzen des globalen Profils.",
+    "description": "SHEIN hat auf Trustpilot im November 2026 3,8 von 5. Die negativen Bewertungen drehen sich um Pakete und Erstattungen, und das Profil ist global: Es trennt die Länder nicht.",
     "metaDescription": "SHEIN auf Trustpilot im November 2026: 3,8 aus 353.527 Bewertungen, 59 % fünf Sterne, 18 % ein Stern. Beschwerden über Zustellung und Erstattungen und was die Zahl nicht zeigt.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
@@ -154680,7 +154680,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: wer bewertet, und von wo",
         "paragraphs": [
-          "Das gelesene Profil www.shein.com enthält Bewertungen aus mehreren Ländern, ohne die Anzahl je Land auszuweisen. Es weist weder Zustellung noch Kundenservice für Ihr Ziel gesondert aus.",
+          "Das Profil www.shein.com enthält Bewertungen aus mehreren Ländern, ohne die Anzahl je Land auszuweisen. Es weist weder Zustellung noch Kundenservice für Ihr Ziel gesondert aus.",
           "Die britische Trustpilot-Seite zeigte dasselbe Profil mit denselben Zahlen.",
           "Die Zahl spricht deshalb für die Kunden des Shops weltweit, nicht dafür, wie eine Bestellung an Ihre Adresse läuft."
         ],
@@ -158593,7 +158593,7 @@ export const reviewsData: unknown[] = [
           "¿Qué es Reach 500? Es el nombre que Grow tiene en el carrito de Hostinger, por su límite de 500 destinatarios. Envía 3.500 correos al mes.",
           "¿Hostinger Reach o Mailchimp? Para una lista de hasta 1.000 destinatarios y un sitio en Hostinger, Reach. Para empezar gratis o para una lista de más de 1.000 contactos, Mailchimp o Brevo.",
           "¿El código SONAR20 vale en Hostinger Reach? Vale: en la prueba de Bruno, el descuento se aplicó al Reach 500 de 24 meses. En los otros planes y períodos no se probó; revisa el carrito.",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Puede aplicarse a una compra nueva elegible, incluso con cuenta existente. El registro de dominio y la renovación quedan fuera. Bruno probó Reach 500 de 24 meses; para otros planes y períodos, revisa el carrito."
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Vale para una compra nueva elegible, incluso con cuenta existente. El registro de dominio y la renovación quedan fuera. Bruno probó Reach 500 de 24 meses; para otros planes y períodos, revisa el carrito."
         ]
       },
       {
@@ -163128,7 +163128,7 @@ export const reviewsData: unknown[] = [
           "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
           "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
           "O cupom SONAR20 vale no plano de WordPress da Hostinger? SONAR20: 20% no primeiro período de compra nova elegível. Confira o plano WordPress no carrinho; registro de domínio e renovação ficam fora.",
-          "O SONAR20 vale para cliente antigo? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. Registro de domínio também fica fora. Aplique o código e confira o total no carrinho."
+          "O SONAR20 vale para cliente antigo? Vale numa compra nova elegível com a mesma conta, não na renovação do serviço atual. Registro de domínio também fica fora. Aplique o código e confira o total no carrinho."
         ]
       },
       {
@@ -163324,7 +163324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 code and price",
         "paragraphs": [
-          "Use **SONAR20** for 20% off the first term of an eligible new purchase, including with an existing account. Check that it applies to your WordPress plan and confirm the cart total; domain registration and renewals are excluded. Conditions at [Hostinger coupons](/en/coupons/hostinger)."
+          "Use **SONAR20** for 20% off the first period of an eligible new purchase, including with an existing account. Check that it applies to your WordPress plan and confirm the cart total; domain registration and renewals are excluded. Conditions at [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
@@ -164164,7 +164164,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "So fangen Sie an: die Checkliste",
         "bullets": [
-          "**1. Anforderungen auflisten.** Zählen Sie Websites und prüfen Sie Speicher, Anwendung, erwartete Last und Wiederherstellung vor der Wahl.",
+          "**1. Listen Sie die Anforderungen auf.** Zählen Sie Websites und prüfen Sie Speicher, Anwendung, erwartete Last und Wiederherstellung vor der Wahl.",
           "**2. Klären Sie die Domain.** Prüfen Sie, ob Ihr Tarif eine Domain enthält, oder nutzen Sie eine Domain, die Sie schon haben. Notieren Sie, wann sie verlängert wird.",
           "**3. Installieren Sie WordPress im Panel.** Sie müssen die Dateien nicht von Hand herunterladen.",
           "**4. Wählen Sie das Theme vor dem Inhalt.** Ein Theme zu wechseln, wenn die Seite schon voll ist, macht Mehrarbeit. Nehmen Sie ein einfaches, das regelmäßig gepflegt wird.",
@@ -164613,7 +164613,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰과 가격",
         "paragraphs": [
-          "**SONAR20**은 기존 계정도 대상 신규 구매의 첫 계약 기간에 20% 할인됩니다. WordPress 요금제에 적용되는지와 장바구니 총액을 확인하세요. 도메인 등록과 갱신은 제외됩니다. 조건은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요."
+          "**SONAR20**은 기존 계정도 대상 신규 구매의 첫 계약 기간에 20% 할인됩니다. WordPress 플랜에 적용되는지와 장바구니 총액을 확인하세요. 도메인 등록과 갱신은 제외됩니다. 조건은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요."
         ]
       },
       {
@@ -180980,7 +180980,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Talla: la medida, no la letra",
         "paragraphs": [
-          "La M puede variar de una prenda a otra. Regla práctica: comprueba si la guía indica medidas del cuerpo o de la prenda. Compara la tabla corporal con tu cuerpo; las medidas de la prenda pueden compararse con una que te quede bien, usando el mismo método. La diferencia entre dos prendas no es la holgura entre ropa y cuerpo. Una prenda sin guía en centímetros es para pasar. Si no queda claro el tipo de medida, confirma antes de comprar. Mira la [guía de tallas de SHEIN](/es/reviews/tallas-shein)."
+          "La M puede variar de una prenda a otra. Regla práctica, sin prueba nuestra: comprueba si la guía indica medidas del cuerpo o de la prenda. Compara la tabla corporal con tu cuerpo; las medidas de la prenda pueden compararse con una que te quede bien, usando el mismo método. La diferencia entre dos prendas no es la holgura entre ropa y cuerpo. Una prenda sin guía en centímetros es para pasar. Si no queda claro el tipo de medida, confirma antes de comprar. Mira la [guía de tallas de SHEIN](/es/reviews/tallas-shein)."
         ]
       },
       {
@@ -181136,7 +181136,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taille : les mensurations, pas la lettre",
         "paragraphs": [
-          "Le M peut varier d'un vêtement à l'autre. Règle pratique : vérifiez si le guide indique les mensurations du corps ou les dimensions du vêtement. Comparez un tableau corporel au corps ; les dimensions de l'article peuvent se comparer à un vêtement qui vous va bien, mesuré de la même façon. L'écart entre deux vêtements n'est pas l'aisance entre corps et vêtement. Un article sans guide en centimètres, passez votre chemin. Si le type de mesure est flou, vérifiez avant d'acheter. Voir le [guide des tailles SHEIN](/fr/reviews/tailles-shein)."
+          "Le M peut varier d'un vêtement à l'autre. Règle pratique, non testée par nous : vérifiez si le guide indique les mensurations du corps ou les dimensions du vêtement. Comparez un tableau corporel au corps ; les dimensions de l'article peuvent se comparer à un vêtement qui vous va bien, mesuré de la même façon. L'écart entre deux vêtements n'est pas l'aisance entre corps et vêtement. Un article sans guide en centimètres, passez votre chemin. Si le type de mesure est flou, vérifiez avant d'acheter. Voir le [guide des tailles SHEIN](/fr/reviews/tailles-shein)."
         ]
       },
       {
@@ -181292,7 +181292,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Größe: die Maße, nicht der Buchstabe",
         "paragraphs": [
-          "Ein M kann von Teil zu Teil verschieden ausfallen. Faustregel: Prüfen Sie, ob der Guide Körper- oder Kleidungsmaße nennt. Körpermaße vergleichen Sie mit dem Körper; Artikelmaße mit einem gut passenden Kleidungsstück, auf dieselbe Weise gemessen. Der Unterschied zwischen zwei Kleidungsstücken ist nicht die Zugabe zwischen Körper und Kleidung. Ein Teil ohne Guide in Zentimetern lassen Sie besser liegen. Ist die Messart unklar, sollten Sie vor dem Kauf nachfragen. Mehr dazu im [SHEIN-Größenguide](/de/reviews/shein-groessen)."
+          "Ein M kann von Teil zu Teil verschieden ausfallen. Faustregel, nicht von uns getestet: Prüfen Sie, ob der Guide Körper- oder Kleidungsmaße nennt. Körpermaße vergleichen Sie mit dem Körper; Artikelmaße mit einem gut passenden Kleidungsstück, auf dieselbe Weise gemessen. Der Unterschied zwischen zwei Kleidungsstücken ist nicht die Zugabe zwischen Körper und Kleidung. Ein Teil ohne Guide in Zentimetern lassen Sie besser liegen. Ist die Messart unklar, sollten Sie vor dem Kauf nachfragen. Mehr dazu im [SHEIN-Größenguide](/de/reviews/shein-groessen)."
         ]
       },
       {
@@ -181448,7 +181448,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taglia: le misure, non la lettera",
         "paragraphs": [
-          "La M può cambiare da un capo all'altro. Regola pratica: controlla se la guida indica misure del corpo o del capo. Confronta la tabella del corpo con le tue misure; le misure del capo si confrontano con un capo che ti sta bene, misurato nello stesso modo. La differenza tra due capi non è il margine tra corpo e indumento. Un capo senza guida in centimetri è da lasciar perdere. Se il tipo di misura non è chiaro, verifica prima di comprare. Vedi la [guida alle taglie SHEIN](/it/reviews/taglie-shein)."
+          "La M può cambiare da un capo all'altro. Regola pratica, non testata da noi: controlla se la guida indica misure del corpo o del capo. Confronta la tabella del corpo con le tue misure; le misure del capo si confrontano con un capo che ti sta bene, misurato nello stesso modo. La differenza tra due capi non è il margine tra corpo e indumento. Un capo senza guida in centimetri è da lasciar perdere. Se il tipo di misura non è chiaro, verifica prima di comprare. Vedi la [guida alle taglie SHEIN](/it/reviews/taglie-shein)."
         ]
       },
       {
@@ -181632,7 +181632,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "기본 옷은 실제 필요한 것의 배송비·세금 포함 총액을 비교하세요. 무료배송 기준을 넘는 것만으로 충분하지 않아요.",
           "한 달 여유가 있는 행사용 옷: 상품 설명과 사이즈 가이드를 읽고 사면 살 만해요.",
-          "날짜가 정해졌다면 예정일과 입어 볼 여유가 맞을 때만 주문을 고려하세요. 현지 발송도 정시 도착을 보장하지 않아요.",
+          "날짜가 정해졌다면 예정일과 입어 볼 여유가 맞을 때만 주문을 고려하세요.",
           "비싼 울 제품이나 테일러드 옷: 치수를 알고, 입어 보는 대신 반품을 받아들일 수 있는 분께만 살 만해요.",
           "사기 전에 꼭 입어 봐야 하는 분: 맞지 않아요."
         ],
@@ -181656,7 +181656,7 @@ export const reviewsData: unknown[] = [
         "상품 설명에 소재, 안감, 세탁 방법이 나와 있어서 놀랄 일이 없어요."
       ],
       "skipIf": [
-        "정해진 날짜에 필요한 옷인데 예상 배송일 이후에 입어 보거나 대안을 찾을 여유가 없는 경우. 현지 발송도 정시 도착을 보장하지 않아요.",
+        "정해진 날짜에 필요한 옷인데 예상 배송일 이후에 입어 보거나 대안을 찾을 여유가 없는 경우.",
         "사기 전에 입어 봐야 해요. 맞지 않으면 반품하게 돼요.",
         "비싼 옷인데 세탁 방법과 안감을 확인하지 않았어요. 드라이클리닝만 가능하고 안감이 없는 코트는 무엇을 원하는지 분명한 사람이 사는 옷이에요."
       ]
@@ -181788,7 +181788,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "基本の服は、本当に必要な物の送料・税金込みの総額で比べてください。送料無料ラインを超えるだけでは十分ではありません。",
           "1か月の余裕がある行事用の服：商品説明とサイズガイドを読んでから買う価値あり。",
-          "日付が決まっている場合、予定と試着の余裕が合うときだけ注文を検討してください。現地発送も定時到着を保証しません。",
+          "日付が決まっている場合、予定と試着の余裕が合うときだけ注文を検討してください。",
           "高価なウールや、仕立ての服：サイズがわかっていて、試着の代わりに返品を受け入れられる人だけ買う価値あり。",
           "買う前に試着したい人：向きません。"
         ],
@@ -181812,7 +181812,7 @@ export const reviewsData: unknown[] = [
         "商品説明に素材、裏地、洗濯方法が書いてあり、どれも驚きにならない。"
       ],
       "skipIf": [
-        "決まった日に必要な服で、配送予定から試着や代替品の準備までの余裕がない場合。現地発送も期日どおりの到着を保証しません。",
+        "決まった日に必要な服で、配送予定から試着や代替品の準備までの余裕がない場合。",
         "買う前に試着が必要。合わなければ返品になる。",
         "高価な服なのに、洗濯方法と裏地を確認していない。ドライクリーニングのみで裏地がないコートは、欲しいものが決まっている人の買い物です。"
       ]
@@ -181944,7 +181944,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "基本款請比較真正需要商品的含運、含稅總額。超過免運門檻本身不代表划算。",
           "還有一個月時間的場合服飾：看過商品說明與尺碼表再買，就值得。",
-          "有日期要求時，只有預計時間和試穿餘裕相容才考慮下單；當地出貨不保證準時。",
+          "有日期要求時，只有預計時間和試穿餘裕相容才考慮下單。",
           "貴的羊毛或訂製剪裁單品：只適合已經知道尺寸，並且願意用退貨代替試穿的人。",
           "下單前一定要試穿的人：不適合。"
         ],
@@ -181968,7 +181968,7 @@ export const reviewsData: unknown[] = [
         "商品說明寫了材質、內裡與洗滌方式，對你來說沒有意外。"
       ],
       "skipIf": [
-        "需要在固定日期穿到，但預計送達時間沒有留下試穿或尋找替代品的餘裕。當地出貨也不保證準時。",
+        "需要在固定日期穿到，但預計送達時間沒有留下試穿或尋找替代品的餘裕。",
         "買之前必須試穿，不合身就得退貨。",
         "是貴的單品，但你沒有看洗滌方式和內裡。只能乾洗又沒有內裡的大衣，只適合早就知道自己要什麼的人。"
       ]
@@ -182100,7 +182100,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "基本款请比较真正需要商品的含运费、含税总额。超过包邮门槛本身不代表划算。",
           "还有一个月时间的场合服装：看过商品说明和尺码表再买，就值得。",
-          "有日期要求时，只有预计时间和试穿余地相容才考虑下单；当地发货不保证准时。",
+          "有日期要求时，只有预计时间和试穿余地相容才考虑下单。",
           "贵的羊毛或定制剪裁单品：只适合已经知道尺码，并且愿意用退货代替试穿的人。",
           "下单前一定要试穿的人：不适合。"
         ],
@@ -182124,7 +182124,7 @@ export const reviewsData: unknown[] = [
         "商品说明写了材质、内里和洗涤方式，对你来说没有意外。"
       ],
       "skipIf": [
-        "需要在固定日期穿到，但预计送达时间没有留下试穿或寻找替代品的余地。当地发货也不保证准时。",
+        "需要在固定日期穿到，但预计送达时间没有留下试穿或寻找替代品的余地。",
         "买之前必须试穿，不合身就得退货。",
         "是贵的单品，但你没有看洗涤方式和内里。只能干洗又没有内里的大衣，只适合早就知道自己要什么的人。"
       ]
@@ -182429,7 +182429,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "A medida da peça no guia, em centímetros, dá a folga que você usa, e o tipo de ajuste e a elasticidade batem com o que você espera do tecido.",
-        "A página tem relatos de compradores com medidas próximas às suas, lidos como informação complementar; a letra que outra pessoa pediu não garante o seu caimento."
+        "A página tem relatos de compradores com medidas próximas às suas, que você lê como informação complementar; a letra que outra pessoa pediu não garante o seu caimento."
       ],
       "skipIf": [
         "Você escolheu pela letra de sempre sem abrir o guia da peça: a mesma letra muda de marca para marca.",
@@ -182914,7 +182914,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "En el ejemplo DAZY, la prenda M mide 93 cm y su tabla corporal indica 82–86 cm: diferencia de 7–11 cm. En Essnce, la modelo de busto 87 cm lleva una S que mide 78 cm. Son dos ejemplos de producto, no una fórmula para toda tela con o sin elastano. La elasticidad no sustituye evaluar la holgura y el ajuste que buscas.",
-          "Las guías leídas advierten de una variación de 1–2 cm en la medida de la prenda, y las descripciones de las dos camisetas mencionan cambios de la tela tras lavarla en casa. Entre tallas, revisa juntos tabla corporal, medidas de la prenda, corte y elasticidad. No subas automáticamente ni elijas una prenda igual o menor que tu cuerpo solo porque la tela estira. Si falta información, confirma las indicaciones de la prenda antes de pedir."
+          "La guía advierte de una variación de 1–2 cm en la medida de la prenda, y las descripciones de las dos camisetas mencionan cambios de la tela tras lavarla en casa. Entre tallas, revisa juntos tabla corporal, medidas de la prenda, corte y elasticidad. No subas automáticamente ni elijas una prenda igual o menor que tu cuerpo solo porque la tela estira. Si falta información, confirma las indicaciones de la prenda antes de pedir."
         ]
       },
       {
@@ -182973,7 +182973,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "La medida de la prenda en la guía, en centímetros, da la holgura que usas, y el tipo de ajuste y la elasticidad encajan con lo que esperas de la tela.",
-        "Encuentras en la tabla de compradores de la ficha a alguien con medidas cercanas a las tuyas y lo lees como apoyo."
+        "Encuentras en la tabla de compradores de la ficha a alguien con medidas cercanas a las tuyas y lo lees como apoyo: la talla que pidió otra persona no garantiza tu ajuste."
       ],
       "skipIf": [
         "Elegiste por tu letra de siempre sin abrir la guía de la prenda: la misma letra cambia de marca en marca.",
@@ -183014,7 +183014,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Aller sur SHEIN",
-      "text": "Ouvrez le guide et identifiez tableau corporel ou dimensions du vêtement. Comparez des références équivalentes avant de choisir.",
+      "text": "Ouvrez le guide et vérifiez si le tableau est celui du corps ou celui du vêtement. Comparez des références équivalentes avant de choisir.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -183245,7 +183245,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "La mesure de l'article dans le guide, en centimètres, donne l'aisance que vous voulez, et le type de coupe et l'élasticité correspondent à ce que vous attendez du tissu.",
-        "Vous trouvez dans le tableau des acheteurs de la fiche quelqu’un aux mesures proches des vôtres et le lisez en complément."
+        "Vous trouvez dans le tableau des acheteurs de la fiche quelqu’un aux mesures proches des vôtres et le lisez en complément : la taille commandée par une autre personne ne garantit pas votre tombé."
       ],
       "skipIf": [
         "Vous avez choisi d'après votre lettre habituelle sans ouvrir le guide de l'article : la même lettre change d'une marque à l'autre.",
@@ -183286,7 +183286,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Zu SHEIN",
-      "text": "Öffnen Sie den Guide und unterscheiden Sie Körper- und Artikelmaße. Vor der Größenwahl gleichartige Angaben vergleichen.",
+      "text": "Öffnen Sie den Guide und prüfen Sie, ob die Tabelle den Körper oder den Artikel beschreibt. Vergleichen Sie vor der Größenwahl gleichartige Angaben.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -183517,7 +183517,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Das Maß des Artikels im Guide in Zentimetern gibt die Weite, die Sie möchten, und Schnitt und Elastizität passen zu dem, was Sie vom Stoff erwarten.",
-        "Sie finden in der Käufertabelle der Seite jemanden mit ähnlichen Maßen und lesen dessen Angaben als Ergänzung."
+        "Sie finden in der Käufertabelle der Seite jemanden mit ähnlichen Maßen und lesen dessen Angaben als Ergänzung: Die Größe, die eine andere Person bestellt hat, garantiert Ihre Passform nicht."
       ],
       "skipIf": [
         "Sie haben nach Ihrem üblichen Buchstaben gewählt, ohne den Guide des Artikels zu öffnen: Derselbe Buchstabe ändert sich von Marke zu Marke.",
@@ -183558,7 +183558,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Vai su SHEIN",
-      "text": "Apri la guida e identifica tabella corporea o misure del capo. Confronta riferimenti equivalenti prima di scegliere.",
+      "text": "Apri la guida e verifica se la tabella è del corpo o del capo. Confronta riferimenti equivalenti prima di scegliere.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -183789,7 +183789,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "La misura del capo nella guida, in centimetri, dà l'ampiezza che preferisci, e tipo di vestibilità ed elasticità corrispondono a ciò che ti aspetti dal tessuto.",
-        "Trovi nella tabella degli acquirenti della scheda qualcuno con misure vicine alle tue e lo leggi come supporto."
+        "Trovi nella tabella degli acquirenti della scheda qualcuno con misure vicine alle tue e lo leggi come supporto: la taglia ordinata da un’altra persona non garantisce la tua vestibilità."
       ],
       "skipIf": [
         "Hai scelto dalla lettera abituale senza aprire la guida del capo: la stessa lettera cambia da marchio a marchio.",
@@ -184605,7 +184605,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "商品尺寸的公分數能給你想要的寬鬆，版型和彈性也符合你對布料的期待。",
-        "你能把尺寸相近買家的心得當作輔助參考。不過，她下單的尺碼不保證你的合身度。"
+        "你能把尺寸相近買家的心得當作輔助參考。不過，對方下單的尺碼不保證你的合身度。"
       ],
       "skipIf": [
         "沒有打開商品的尺碼表，只憑平常的字母選碼。同一個字母在不同品牌裡尺寸不同。",
@@ -184877,7 +184877,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "商品尺寸的厘米数能给你想要的宽松，版型和弹性也符合你对面料的期待。",
-        "你能把尺寸相近买家的心得当作辅助参考。不过，她下单的尺码不保证你的合身度。"
+        "你能把尺寸相近买家的心得当作辅助参考。不过，对方下单的尺码不保证你的合身度。"
       ],
       "skipIf": [
         "没有打开商品的尺码表，只凭平时的字母选码。同一个字母在不同品牌里尺寸不同。",
@@ -186962,7 +186962,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ドメインは対象外",
         "paragraphs": [
-          "ドメインは別に判断が必要です。更新はSONAR20と通常の返金の対象外です。パネルのドメイン画面に更新用の専用スイッチがあり、請求は期限の27日前に予定されています。新規登録の返金期間は拡張子とポリシーの条件によって異なり（通常は96時間）。",
+          "ドメインは別に判断が必要です。更新はSONAR20と通常の返金の対象外です。パネルのドメイン画面に更新用の専用スイッチがあり、請求は期限の27日前に予定されています。新規登録の返金期間は拡張子とポリシーの条件によって異なります（通常は96時間）。そのため、すべてのドメインにこの期間を当てはめないでください。",
           "その請求の前に、ドメインを決めてください。料金を確認し、このレジストラに置く必要があるかを確かめてから、更新させます。登録、移管、ドメインを外に置く方法は[Hostinger のドメイン](/ja/reviews/hostinger-domain-ja)にあります。"
         ]
       },
@@ -192206,7 +192206,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os planos de entrada das duas, o Single da Hostinger e o Inicial da GoDaddy, vêm só com o site: nenhum dos dois traz domínio nem e-mail. Quem quer os dois inclusos sobe um degrau nas duas empresas, para o Premium e o Economy, que dão domínio e e-mail grátis no primeiro ano. O SSL é grátis em todos os planos das duas.",
           "O artigo compara um par de cada vez e responde por prazo: o que você paga no primeiro ano, o que paga em dois anos, o que paga em quatro anos e quanto cada plano cobra para renovar.",
-          "Preços e condições consultados nas páginas brasileiras e nos carrinhos em 06/11/2026, sem concluir a compra."
+          "Preços de 06/11/2026, das páginas brasileiras e dos carrinhos das duas empresas."
         ],
         "comparisonTable": {
           "headers": [
@@ -192259,7 +192259,7 @@ export const reviewsData: unknown[] = [
           "Para um site que vai durar um ano, o plano de 12 meses da Hostinger com o SONAR20 perde para a GoDaddy nos dois pares: por R$ 19,22 no par só com o site e por R$ 24,02 no par com domínio e e-mail."
         ],
         "comparisonTable": {
-          "caption": "Pagamento de 12 meses de hospedagem, nos valores consultados. Na Hostinger, com o SONAR20.",
+          "caption": "Pagamento de 12 meses de hospedagem. Na Hostinger, com o SONAR20.",
           "headers": [
             "Plano",
             "Pagamento no 1º ano",
@@ -192298,7 +192298,7 @@ export const reviewsData: unknown[] = [
           "Para um site que vai durar dois anos, o plano de 24 meses da Hostinger com o SONAR20 já custa menos que a GoDaddy nos dois pares: R$ 95,95 a menos no par só com o site e R$ 290,35 a menos no par com domínio e e-mail."
         ],
         "comparisonTable": {
-          "caption": "Pagamento antecipado de 24 meses de hospedagem, nos valores consultados. Na Hostinger, com SONAR20. Não inclui renovar domínio e e-mail após o primeiro ano.",
+          "caption": "Pagamento antecipado de 24 meses de hospedagem. Na Hostinger, com SONAR20. Não inclui renovar domínio e e-mail após o primeiro ano.",
           "headers": [
             "Plano",
             "Hospedagem por 2 anos",
@@ -192328,14 +192328,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pelos preços de renovação consultados, 12 meses mais uma renovação custariam mais que o plano de 24 meses nas duas lojas. Na Hostinger, o Single sairia por R$ 402,98 e o Premium, por R$ 611,78. Na GoDaddy, o Inicial sairia por R$ 371,76 e o Economy, por R$ 719,76."
+          "Pelos preços de renovação das duas empresas, 12 meses mais uma renovação custariam mais que o plano de 24 meses nas duas lojas. Na Hostinger, o Single sairia por R$ 402,98 e o Premium, por R$ 611,78. Na GoDaddy, o Inicial sairia por R$ 371,76 e o Economy, por R$ 719,76."
         ]
       },
       {
         "heading": "Em 4 anos, a Hostinger custa menos nos dois pares",
         "paragraphs": [
           "Na Hostinger, a compra de 48 meses cobre a hospedagem pelos quatro anos, sem renovação desse serviço durante o período. No carrinho, o Single de 48 meses saiu por R$ 230,02 com o SONAR20, e o Premium, por R$ 383,62.",
-          "Na GoDaddy, a conta usa o plano de 36 meses mais uma renovação anual. Mantidos os preços de renovação consultados, são R$ 482,04 mais R$ 275,88 no Inicial e R$ 957,24 mais R$ 599,88 no Economy. A renovação será cobrada depois dos 36 meses; seu valor futuro pode mudar."
+          "Na GoDaddy, a conta usa o plano de 36 meses mais uma renovação anual. Mantidos os preços de renovação atuais, são R$ 482,04 mais R$ 275,88 no Inicial e R$ 957,24 mais R$ 599,88 no Economy. A renovação será cobrada depois dos 36 meses; seu valor futuro pode mudar."
         ],
         "comparisonTable": {
           "headers": [
@@ -192375,7 +192375,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Depois do período pago: quanto cada plano cobra na renovação",
         "paragraphs": [
-          "Depois do período promocional, a renovação das duas empresas sai pelo preço de tabela. O SONAR20 vale só na compra nova. Na consulta, o carrinho da Hostinger informava cobrança a cada 12 meses: R$ 287,88 pelo Single e R$ 467,88 pelo Premium. Os equivalentes mensais eram R$ 23,99 e R$ 38,99; confira o valor vigente quando chegar a renovação.",
+          "Depois do período promocional, a renovação das duas empresas sai pelo preço de tabela. O SONAR20 vale só na compra nova. O carrinho da Hostinger informa cobrança a cada 12 meses: R$ 287,88 pelo Single e R$ 467,88 pelo Premium. Os equivalentes mensais são R$ 23,99 e R$ 38,99; confira o valor vigente quando chegar a renovação.",
           "No par só com o site, o Inicial renova por R$ 275,88 ao ano, R$ 12 abaixo do Single. No par com domínio e e-mail, o Economy renova por R$ 599,88, R$ 132 acima do Premium."
         ],
         "image": {
@@ -192389,8 +192389,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E o plano de 1 mês?",
         "paragraphs": [
-          "Na consulta, a Hostinger oferecia o Single de um mês por R$ 29,99 e o Premium por R$ 48,99. O SONAR20 não reduzia esses dois preços mensais, e a renovação indicada era pelo mesmo valor de cada plano.",
-          "Mantido esse preço, doze meses de Single pagos mês a mês somam R$ 359,88, cerca de três vezes o plano de 12 meses com o código. No carrinho consultado, o menor prazo do GoDaddy Inicial era de 12 meses. O pagamento mensal da Hostinger pode atender a um teste ou projeto curto, mas custa mais se você mantiver o site por um ano."
+          "A Hostinger vende o Single de um mês por R$ 29,99 e o Premium por R$ 48,99. O SONAR20 não reduz esses dois preços mensais, e a renovação é pelo mesmo valor de cada plano.",
+          "Mantido esse preço, doze meses de Single pagos mês a mês somam R$ 359,88, cerca de três vezes o plano de 12 meses com o código. No carrinho, o menor prazo do Inicial da GoDaddy é de 12 meses. O pagamento mensal da Hostinger pode atender a um teste ou projeto curto, mas custa mais se você mantiver o site por um ano."
         ]
       },
       {
@@ -192409,7 +192409,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisa de mais: Unlimited e Cloud Startup",
         "paragraphs": [
-          "Acima do Premium, a página consultada lista o Unlimited, com sites ilimitados, 50 GB NVMe e backup diário, e o Cloud Startup. Com 20% de desconto sobre o preço de página, os 48 meses saem por R$ 498,82 no Unlimited e R$ 1.535,62 no Cloud Startup, com renovações anunciadas de R$ 64,99 e R$ 129,99 ao mês. Esses dois valores são cálculos, sem conferência no carrinho nesta comparação."
+          "Acima do Premium, a página da Hostinger lista o Unlimited, com sites ilimitados, 50 GB NVMe e backup diário, e o Cloud Startup. Com 20% de desconto sobre o preço de página, os 48 meses saem por R$ 498,82 no Unlimited e R$ 1.535,62 no Cloud Startup, com renovações anunciadas de R$ 64,99 e R$ 129,99 ao mês. Esses dois valores são cálculos; confirme no carrinho antes de contar com eles."
         ],
         "links": [
           {
@@ -192435,7 +192435,7 @@ export const reviewsData: unknown[] = [
           "O cupom da Hostinger vale na renovação? Não. O SONAR20 vale só na compra nova, e a renovação sai pelo preço de tabela. Para a renovação, veja o [guia de renovação da Hostinger](/reviews/hostinger-renovacao-cupom-sonar20).",
           "O Single da Hostinger vem com domínio? Não. No cartão do plano, domínio e e-mail aparecem como não incluídos. Quem quer os dois na Hostinger começa no Premium, que dá domínio e e-mail grátis por um ano.",
           "Dá para levar o site da GoDaddy para a Hostinger? A página de ajuda da Hostinger diz que a migração grátis vale para site de outra empresa nos planos Web, Cloud ou Agency. Confira o seu plano com o suporte antes de cancelar o antigo.",
-          "Qual é o cupom da Hostinger? SONAR20 dá 20% na compra nova dos planos de 12, 24 e 48 meses comparados; não vale na renovação e não reduziu os preços mensais do Single e do Premium consultados."
+          "Qual é o cupom da Hostinger? SONAR20 dá 20% na compra nova dos planos de 12, 24 e 48 meses comparados; não vale na renovação e não reduz os preços mensais do Single e do Premium."
         ]
       },
       {
@@ -192448,17 +192448,17 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a Hostinger se pode pagar 24 ou 48 meses de hospedagem de uma vez: com o SONAR20, Single e Premium custam menos que os respectivos planos da GoDaddy nos cenários comparados.",
-        "Considere o Hostinger Premium se quer domínio e e-mail grátis no primeiro ano e uma renovação de hospedagem menor que a do Economy. Para comparar o gasto completo depois desse ano, some também as renovações de domínio e e-mail."
+        "Considere o Premium da Hostinger se quer domínio e e-mail grátis no primeiro ano e uma renovação de hospedagem menor que a do Economy. Para comparar o gasto completo depois desse ano, some também as renovações de domínio e e-mail."
       ],
       "skipIf": [
-        "Considere a GoDaddy Inicial se precisa apenas da hospedagem por um ano: ela custa menos que o Single nesse prazo. Sua renovação anual consultada também fica abaixo da do Single, embora a Hostinger custe menos nas contas de dois e quatro anos.",
+        "Considere a GoDaddy Inicial se precisa apenas da hospedagem por um ano: ela custa menos que o Single nesse prazo. A renovação anual dela também fica abaixo da do Single, embora a Hostinger custe menos nas contas de dois e quatro anos.",
         "Considere a GoDaddy Economy se o projeto dura um ano e você quer domínio e e-mail incluídos nesse período: ela custa menos que o Premium nesse prazo, mas renova a quase 600 reais por ano em hospedagem, sem contar domínio e e-mail."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses comparados. O código não vale na renovação e não reduziu os preços mensais do Single e do Premium consultados.",
+      "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses comparados. O código não vale na renovação e não reduz os preços mensais do Single e do Premium.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -192542,7 +192542,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "On Hostinger's international site, shared hosting starts at Premium, which includes a domain and email free for the first year. GoDaddy's plan with the same two items is Economy. These two are the main pair of this article. Both include a free SSL certificate on the plans compared here.",
           "The article answers by horizon: what you pay in the first year, over 2 years and over 4 years, and what each plan charges to renew. GoDaddy also sells Starter, a plan with the site only, and it gets its own section further down.",
-          "Prices and terms were checked on the international sites and in their carts on November 6, 2026, without completing a purchase."
+          "Prices from the international sites and their carts, November 6, 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -192737,7 +192737,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "If you need more: Unlimited and Cloud Startup",
         "paragraphs": [
-          "Above Premium, the page consulted listed Unlimited, with unlimited sites, and Cloud Startup. At 20% off the page prices, the 48-month totals with SONAR20 are US$107.14 for Unlimited and US$306.82 for Cloud Startup, with advertised renewals of US$16.99 and US$25.99 a month. Those two totals are calculations, not prices checked in the cart for this comparison."
+          "Above Premium, Hostinger's page lists Unlimited, with unlimited sites, and Cloud Startup. At 20% off the page prices, the 48-month totals with SONAR20 are US$107.14 for Unlimited and US$306.82 for Cloud Startup, with advertised renewals of US$16.99 and US$25.99 a month. Those two totals are calculations; confirm them in the cart."
         ],
         "links": [
           {
@@ -192848,7 +192848,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Compara Hostinger Premium con SONAR20 y GoDaddy Economy en dólares: hosting por 1, 2 y 4 años, renovación y gastos de dominio y correo aparte.",
+    "description": "Compara Hostinger Premium con SONAR20 y GoDaddy Economy en dólares: hosting por 1, 2 y 4 años, la renovación anual y los gastos de dominio y correo que se pagan aparte.",
     "metaDescription": "SONAR20 da 20% en compras nuevas elegibles de Hostinger. Compara el hosting con GoDaddy en dólares: 1, 2 y 4 años, más la renovación.",
     "publishedAt": "6 de noviembre de 2026",
     "publishedAtISO": "2026-11-06",
@@ -192863,7 +192863,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En los precios internacionales consultados, Hostinger Premium con SONAR20 cuesta menos que GoDaddy Economy por 1, 2 y 4 años de hosting. Su renovación anual anunciada también es menor. Ambos incluyen dominio y correo gratis solo el primer año; renovarlos después cuesta aparte y queda fuera de los totales comparados."
+          "En los precios internacionales, Hostinger Premium con SONAR20 cuesta menos que GoDaddy Economy por 1, 2 y 4 años de hosting. Su renovación anual anunciada también es menor. Ambos incluyen dominio y correo gratis solo el primer año; renovarlos después cuesta aparte y queda fuera de los totales comparados."
         ]
       },
       {
@@ -192871,7 +192871,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "En el sitio internacional de Hostinger, el hosting compartido empieza en Premium, que incluye dominio y correo gratis el primer año. El plan de GoDaddy con esos mismos dos elementos es Economy. Estos dos son el par principal de este artículo. El SSL es gratis en todos los planes de las dos empresas.",
           "El artículo responde por plazo: lo que pagas el primer año, en dos años y en cuatro años, y lo que cobra cada plan al renovar. GoDaddy también vende Starter, un plan solo con el sitio, y tiene su propia sección más abajo.",
-          "Consultamos las páginas internacionales y sus carritos en dólares el 6 de noviembre de 2026, sin comprar. Las cuentas con renovaciones futuras suponen que los importes anunciados no cambian."
+          "Precios del 6 de noviembre de 2026, de las páginas internacionales y sus carritos en dólares. Las cuentas con renovaciones futuras suponen que los importes anunciados no cambian."
         ],
         "comparisonTable": {
           "headers": [
@@ -192905,7 +192905,7 @@ export const reviewsData: unknown[] = [
           "Para un sitio que va a durar un año, el Premium de 12 meses de Hostinger con SONAR20 cuesta 19,10 US$. GoDaddy Economy cuesta 83,88 US$ en su primer año. La diferencia es de 64,78 US$ a favor de Hostinger."
         ],
         "comparisonTable": {
-          "caption": "Importes de hosting observados en los carritos, sin comprar. Hostinger corresponde al pago anticipado de 12 meses con SONAR20. El dominio y el correo son gratis el primer año; GoDaddy indica una tarifa de ICANN para el dominio.",
+          "caption": "Importes de hosting de los carritos. Hostinger corresponde al pago anticipado de 12 meses con SONAR20. El dominio y el correo son gratis el primer año; GoDaddy indica una tarifa de ICANN para el dominio.",
           "headers": [
             "Plan",
             "Pago del primer año",
@@ -192993,8 +192993,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Después del período pagado: lo que cobra cada plan al renovar",
         "paragraphs": [
-          "SONAR20 se aplica a una compra nueva elegible, no a la renovación. En la consulta, el carrito de Premium anunciaba una renovación de 12 meses a 10,99 US$ al mes, equivalente a 131,88 US$ al año, después del contrato de 48 meses. El contrato de 12 meses mostraba la misma tarifa de renovación.",
-          "Para Economy de un año, GoDaddy mostraba una renovación de 143,88 US$, 12 US$ más que Premium por año. Usamos esa tarifa anual como hipótesis en la cuenta de cuatro años; comprueba el importe de renovación de la duración que contrates."
+          "SONAR20 se aplica a una compra nueva elegible, no a la renovación. El carrito de Premium anuncia una renovación de 12 meses a 10,99 US$ al mes, equivalente a 131,88 US$ al año, después del contrato de 48 meses. El contrato de 12 meses muestra la misma tarifa de renovación.",
+          "Para Economy de un año, GoDaddy muestra una renovación de 143,88 US$, 12 US$ más que Premium por año. La cuenta de cuatro años supone esa tarifa anual; comprueba el importe de renovación de la duración que contrates."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-es.webp",
@@ -193007,7 +193007,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "¿Y el plan de 1 mes?",
         "paragraphs": [
-          "En la consulta, Premium de un mes figuraba a 12,99 US$, sin descuento de SONAR20, y anunciaba la misma tarifa al renovar. Si se mantuviera durante doce meses, sumaría 155,88 US$, unas ocho veces el contrato de 12 meses con el código. La opción mensual permite contratar un período corto con un desembolso inicial menor, pero tiene un coste mensual más alto."
+          "Premium de un mes figura a 12,99 US$, sin descuento de SONAR20, y anuncia la misma tarifa al renovar. Si se mantuviera durante doce meses, sumaría 155,88 US$, unas ocho veces el contrato de 12 meses con el código. La opción mensual permite contratar un período corto con un desembolso inicial menor, pero tiene un coste mensual más alto."
         ]
       },
       {
@@ -193066,7 +193066,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si necesitas más: Unlimited y Cloud Startup",
         "paragraphs": [
-          "Por encima de Premium, la página consultada ofrece Unlimited, con sitios ilimitados, y Cloud Startup. Con un 20% de descuento sobre el precio de página, 48 meses quedan en 107,14 US$ para Unlimited y 306,82 US$ para Cloud Startup, con renovaciones anunciadas de 16,99 y 25,99 US$ al mes. Son cálculos que no se confirmaron en el carrito para esta comparación. Los planes Deluxe y Ultimate de GoDaddy quedan fuera porque no se verificó su renovación."
+          "Por encima de Premium, la página consultada ofrece Unlimited, con sitios ilimitados, y Cloud Startup. Con un 20% de descuento sobre el precio de página, 48 meses quedan en 107,14 US$ para Unlimited y 306,82 US$ para Cloud Startup, con renovaciones anunciadas de 16,99 y 25,99 US$ al mes. Son cálculos: confírmalos en el carrito. Los planes Deluxe y Ultimate de GoDaddy quedan fuera de la comparación."
         ],
         "links": [
           {
@@ -193088,7 +193088,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuál es mejor, Hostinger o GoDaddy? Por precio de hosting, Premium con SONAR20 cuesta menos que Economy en los escenarios internacionales consultados de uno, dos y cuatro años, y tiene una renovación anual anunciada menor. Dominio y correo solo son gratis el primer año. Starter tiene la renovación anual más baja, pero no el menor coste acumulado en esos plazos. Más criterios están en [cómo elegir un hosting web](/es/reviews/como-elegir-hosting-hostinger).",
+          "¿Cuál es mejor, Hostinger o GoDaddy? Por precio de hosting, Premium con SONAR20 cuesta menos que Economy en los escenarios internacionales de uno, dos y cuatro años, y tiene una renovación anual anunciada menor. Dominio y correo solo son gratis el primer año. Starter tiene la renovación anual más baja, pero no el menor coste acumulado en esos plazos. Más criterios están en [cómo elegir un hosting web](/es/reviews/como-elegir-hosting-hostinger).",
           "¿GoDaddy renueva al mismo precio? En la consulta, Economy de un año mostraba 83,88 US$ por el primer período y 143,88 US$ por la renovación anual. Starter mostraba 71,88 US$ tanto por el primer año como por la renovación. Revisa la tarifa anunciada para el plazo que elijas.",
           "¿El cupón de Hostinger funciona en la renovación? No. SONAR20 da descuento en compras nuevas elegibles; la renovación se cobra a la tarifa del plan, sin ese descuento. Consulta la [guía de renovación de Hostinger](/es/reviews/hostinger-renovacion-cupon-sonar20).",
           "¿Hostinger Premium incluye dominio? Sí, gratis por 1 año, junto con 2 cuentas de correo por sitio. Después de ese año, el dominio se renueva por su cuenta, al precio actual de Hostinger.",
@@ -193192,7 +193192,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Aux tarifs internationaux consultés, Hostinger Premium avec SONAR20 coûte moins que GoDaddy Economy pour un, deux et quatre ans d'hébergement. Son renouvellement annuel annoncé est également moins cher. Le domaine et l'e-mail sont gratuits uniquement la première année ; leurs renouvellements sont facturés séparément et exclus des totaux comparés."
+          "Aux tarifs internationaux, Hostinger Premium avec SONAR20 coûte moins que GoDaddy Economy pour un, deux et quatre ans d'hébergement. Son renouvellement annuel annoncé est également moins cher. Le domaine et l'e-mail sont gratuits uniquement la première année ; leurs renouvellements sont facturés séparément et exclus des totaux comparés."
         ]
       },
       {
@@ -193200,7 +193200,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sur le site international, l'hébergement mutualisé de Hostinger commence au Premium, qui inclut un domaine et un e-mail gratuits la première année. Le forfait de GoDaddy qui propose les mêmes deux éléments est l'Economy. Ce sont les deux forfaits principaux de cet article. Le SSL est gratuit sur chaque forfait chez les deux entreprises.",
           "L'article répond selon la durée : ce que vous payez la première année, sur deux ans et sur quatre ans, et ce que chaque forfait coûte au renouvellement. GoDaddy vend aussi le Starter, un forfait pour le site seul, qui a sa propre section plus bas.",
-          "Tarifs relevés sur les pages internationales et dans les paniers en dollars américains le 6 novembre 2026, sans achat. Les calculs intégrant des renouvellements futurs supposent que les tarifs annoncés restent inchangés."
+          "Tarifs du 6 novembre 2026, pages internationales et paniers en dollars américains. Les calculs intégrant des renouvellements futurs supposent que les tarifs annoncés restent inchangés."
         ],
         "comparisonTable": {
           "headers": [
@@ -193234,7 +193234,7 @@ export const reviewsData: unknown[] = [
           "Pour un site qui doit durer un an, le Premium de Hostinger sur 12 mois avec le SONAR20 coûte 19,10 US$. L'Economy de GoDaddy coûte 83,88 US$ pour sa première année. La différence est de 64,78 US$ en faveur de Hostinger."
         ],
         "comparisonTable": {
-          "caption": "Montants d'hébergement relevés dans les paniers, sans achat. Hostinger correspond au paiement anticipé de 12 mois avec SONAR20. Le domaine et l'e-mail sont gratuits la première année ; GoDaddy indique des frais ICANN pour le domaine.",
+          "caption": "Montants d'hébergement des paniers. Hostinger correspond au paiement anticipé de 12 mois avec SONAR20. Le domaine et l'e-mail sont gratuits la première année ; GoDaddy indique des frais ICANN pour le domaine.",
           "headers": [
             "Forfait",
             "Paiement de la première année",
@@ -193322,8 +193322,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Après la période payée : ce que chaque forfait coûte au renouvellement",
         "paragraphs": [
-          "SONAR20 s'applique à un nouvel achat éligible, pas au renouvellement. Lors de la consultation, le panier de Premium annonçait un renouvellement de 12 mois à 10,99 US$ par mois après le contrat de 48 mois, soit 131,88 US$ par an. Le contrat de 12 mois affichait le même tarif de renouvellement.",
-          "Pour Economy sur un an, GoDaddy affichait un renouvellement de 143,88 US$, soit 12 US$ de plus par an que Premium. Nous utilisons ce tarif annuel comme hypothèse dans le calcul sur quatre ans ; vérifiez le renouvellement annoncé pour la durée que vous choisissez."
+          "SONAR20 s'applique à un nouvel achat éligible, pas au renouvellement. Le panier de Premium annonce un renouvellement de 12 mois à 10,99 US$ par mois après le contrat de 48 mois, soit 131,88 US$ par an. Le contrat de 12 mois affiche le même tarif de renouvellement.",
+          "Pour Economy sur un an, GoDaddy affiche un renouvellement de 143,88 US$, soit 12 US$ de plus par an que Premium. Le calcul sur quatre ans suppose ce tarif annuel ; vérifiez le renouvellement annoncé pour la durée que vous choisissez."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-fr.webp",
@@ -193336,7 +193336,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Et le forfait d'un mois ?",
         "paragraphs": [
-          "Lors de la consultation, Premium sur un mois était affiché à 12,99 US$, sans réduction SONAR20, avec le même tarif annoncé au renouvellement. À tarif inchangé, douze mois reviendraient à 155,88 US$, environ huit fois le contrat de 12 mois avec le code. L'option mensuelle permet une courte souscription avec un paiement initial plus faible, mais un coût mensuel plus élevé."
+          "Premium sur un mois est affiché à 12,99 US$, sans réduction SONAR20, avec le même tarif annoncé au renouvellement. À tarif inchangé, douze mois reviendraient à 155,88 US$, environ huit fois le contrat de 12 mois avec le code. L'option mensuelle permet une courte souscription avec un paiement initial plus faible, mais un coût mensuel plus élevé."
         ]
       },
       {
@@ -193395,7 +193395,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si vous avez besoin de plus : Unlimited et Cloud Startup",
         "paragraphs": [
-          "Au-dessus de Premium, la page consultée propose Unlimited, avec des sites illimités, et Cloud Startup. Avec 20 % de réduction sur le prix affiché pour 48 mois, on obtient 107,14 US$ pour Unlimited et 306,82 US$ pour Cloud Startup, avec des renouvellements annoncés de 16,99 et 25,99 US$ par mois. Ce sont des calculs, non confirmés dans le panier pour ce comparatif. Deluxe et Ultimate de GoDaddy restent hors comparaison, leur renouvellement n'ayant pas été vérifié."
+          "Au-dessus de Premium, la page consultée propose Unlimited, avec des sites illimités, et Cloud Startup. Avec 20 % de réduction sur le prix affiché pour 48 mois, on obtient 107,14 US$ pour Unlimited et 306,82 US$ pour Cloud Startup, avec des renouvellements annoncés de 16,99 et 25,99 US$ par mois. Ce sont des calculs : confirmez-les dans le panier. Deluxe et Ultimate de GoDaddy restent hors comparaison."
         ],
         "links": [
           {
@@ -193422,7 +193422,7 @@ export const reviewsData: unknown[] = [
           "Le code Hostinger fonctionne-t-il au renouvellement ? Non. SONAR20 réduit le prix des nouveaux achats éligibles ; le renouvellement est facturé au tarif du forfait, sans cette réduction. Consultez le [guide de renouvellement Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20).",
           "Le Premium de Hostinger inclut-il un domaine ? Oui, le domaine est gratuit pendant un an, tout comme les deux boîtes e-mail par site indiquées dans l'offre consultée. Après cette année, leurs renouvellements sont facturés séparément, aux tarifs applicables.",
           "Puis-je migrer mon site de GoDaddy vers Hostinger ? La page d'aide de Hostinger indique que la migration gratuite couvre un site venant d'une autre société sur les forfaits Web, Cloud ou Agency ; vérifiez votre forfait avec le support avant de résilier l'ancien.",
-          "Quel est le code promo Hostinger ? SONAR20 offre 20 % de réduction sur la première période des nouveaux achats éligibles ; il ne réduit pas le renouvellement et ne s'appliquait pas à Premium sur un mois lors de notre consultation."
+          "Quel est le code promo Hostinger ? SONAR20 offre 20 % de réduction sur la première période des nouveaux achats éligibles ; il ne réduit pas le renouvellement et n'a pas réduit le prix affiché de Premium sur un mois."
         ]
       },
       {
@@ -193435,7 +193435,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Saisissez SONAR20 dans le champ de code promo du panier international ou passez par le lien pour obtenir 20 % sur la première période d'un nouvel achat éligible. Lors de la consultation, Premium sur un mois ne bénéficiait pas de la réduction. Vérifiez le total avant de payer ; SONAR20 ne réduit pas le renouvellement.",
+      "text": "Saisissez SONAR20 dans le champ de code promo du panier international ou passez par le lien pour obtenir 20 % sur la première période d'un nouvel achat éligible. SONAR20 n'a pas réduit le prix affiché de Premium sur un mois. Vérifiez le total avant de payer ; SONAR20 ne réduit pas le renouvellement.",
       "label": "Voir les forfaits d'hébergement avec le SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -193465,7 +193465,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Choisissez Hostinger Premium si vous pouvez payer 24 ou 48 mois d'hébergement à l'avance : avec SONAR20, les montants consultés sont inférieurs à ceux d'Economy.",
+        "Choisissez Hostinger Premium si vous pouvez payer 24 ou 48 mois d'hébergement à l'avance : avec SONAR20, les montants sont inférieurs à ceux d'Economy.",
         "Choisissez Hostinger Premium pour un an d'hébergement : le contrat de 12 mois avec SONAR20 coûte moins qu'Economy et affiche un renouvellement annuel inférieur ; le domaine et l'e-mail ne sont gratuits que la première année."
       ],
       "skipIf": [
@@ -193521,14 +193521,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Ai prezzi internazionali rilevati in dollari, Hostinger Premium con SONAR20 costa meno di GoDaddy Economy per 1, 2 e 4 anni di hosting. Anche il rinnovo annuale indicato è più basso. Dominio ed e-mail sono gratis solo il primo anno: i rinnovi successivi si aggiungono agli importi confrontati."
+          "Ai prezzi internazionali in dollari, Hostinger Premium con SONAR20 costa meno di GoDaddy Economy per 1, 2 e 4 anni di hosting. Anche il rinnovo annuale indicato è più basso. Dominio ed e-mail sono gratis solo il primo anno: i rinnovi successivi si aggiungono agli importi confrontati."
         ]
       },
       {
         "heading": "La coppia da confrontare",
         "paragraphs": [
           "Sul sito internazionale, l'hosting condiviso della Hostinger parte dal Premium, che include dominio ed e-mail gratis il primo anno. Il piano di GoDaddy con gli stessi due elementi è l'Economy. Questi due sono la coppia principale di questo articolo. L'SSL è gratis in ogni piano delle due aziende.",
-          "Prezzi e condizioni letti sulle pagine internazionali e nei carrelli in dollari il 6 novembre 2026, senza acquistare. I calcoli con rinnovi futuri presuppongono che i prezzi indicati restino invariati."
+          "L'articolo risponde per periodo: cosa paghi il primo anno, in due anni e in quattro anni, e cosa costa ogni piano al rinnovo. GoDaddy vende anche lo Starter, un piano con solo il sito, e ha una sezione propria più avanti. I calcoli con rinnovi futuri presuppongono che i prezzi indicati restino invariati."
         ],
         "comparisonTable": {
           "headers": [
@@ -193562,7 +193562,7 @@ export const reviewsData: unknown[] = [
           "Per un sito che durerà un anno, il Premium di 12 mesi della Hostinger con SONAR20 costa 19,10 US$. GoDaddy Economy costa 83,88 US$ per il primo anno. La differenza è di 64,78 US$ a favore della Hostinger."
         ],
         "comparisonTable": {
-          "caption": "Prezzi di hosting per dodici mesi letti nei carrelli, senza acquistare. Per Hostinger è incluso lo sconto SONAR20; dominio ed e-mail sono gratis solo il primo anno.",
+          "caption": "Prezzi di hosting per dodici mesi dei carrelli. Per Hostinger è incluso lo sconto SONAR20; dominio ed e-mail sono gratis solo il primo anno.",
           "headers": [
             "Piano",
             "Pagamento del primo anno",
@@ -193723,7 +193723,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se ti serve di più: Unlimited e Cloud Startup",
         "paragraphs": [
-          "Sopra Premium, la pagina internazionale di Hostinger presenta Unlimited, con siti illimitati, e Cloud Startup. Sottraendo il 20% dai prezzi di pagina rilevati, calcoliamo 107,14 US$ per 48 mesi di Unlimited e 306,82 US$ per Cloud Startup. I rinnovi mensili indicati sono rispettivamente 16,99 e 25,99 US$. Questi totali sono nostri calcoli e non sono stati confermati nel carrello per questo confronto. Deluxe e Ultimate di GoDaddy restano fuori dal confronto dei prezzi perché qui non ne è stato verificato il rinnovo."
+          "Sopra Premium, la pagina internazionale di Hostinger presenta Unlimited, con siti illimitati, e Cloud Startup. Sottraendo il 20% dai prezzi di pagina rilevati, calcoliamo 107,14 US$ per 48 mesi di Unlimited e 306,82 US$ per Cloud Startup. I rinnovi mensili indicati sono rispettivamente 16,99 e 25,99 US$. Questi totali sono calcoli: confermali nel carrello. Deluxe e Ultimate di GoDaddy restano fuori dal confronto dei prezzi."
         ],
         "links": [
           {
@@ -193849,14 +193849,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Bei den erfassten internationalen Preisen in US-Dollar kostet Hostinger Premium mit SONAR20 für 1, 2 und 4 Jahre weniger als GoDaddy Economy. Auch der angezeigte jährliche Verlängerungspreis ist niedriger. Domain und E-Mail sind bei beiden nur im ersten Jahr gratis; ihre späteren Kosten kommen zu den verglichenen Hosting-Beträgen hinzu."
+          "Bei den internationalen Preisen in US-Dollar kostet Hostinger Premium mit SONAR20 für 1, 2 und 4 Jahre weniger als GoDaddy Economy. Auch der angezeigte jährliche Verlängerungspreis ist niedriger. Domain und E-Mail sind bei beiden nur im ersten Jahr gratis; ihre späteren Kosten kommen zu den verglichenen Hosting-Beträgen hinzu."
         ]
       },
       {
         "heading": "Die zwei Tarife im Vergleich",
         "paragraphs": [
           "Auf der internationalen Seite der Hostinger beginnt das Webhosting beim Premium, der eine Domain und E-Mail für das erste Jahr gratis enthält. Der GoDaddy-Tarif mit denselben beiden Posten ist der Economy. Diese beiden sind das Hauptpaar dieses Artikels. Das SSL ist bei beiden Unternehmen auf jedem Tarif gratis.",
-          "Die Preise stammen von den internationalen Seiten und Warenkörben in US-Dollar, abgelesen am 6. November 2026 ohne Kauf. Rechnungen mit späteren Verlängerungen setzen voraus, dass die angezeigten Verlängerungspreise unverändert bleiben."
+          "Der Artikel antwortet nach Laufzeit: was Sie im ersten Jahr, über zwei Jahre und über vier Jahre zahlen und was jeder Tarif bei der Verlängerung kostet. GoDaddy verkauft außerdem den Starter, einen Tarif nur für die Website, der weiter unten einen eigenen Abschnitt hat. Rechnungen mit späteren Verlängerungen setzen voraus, dass die angezeigten Verlängerungspreise unverändert bleiben."
         ],
         "comparisonTable": {
           "headers": [
@@ -193890,7 +193890,7 @@ export const reviewsData: unknown[] = [
           "Für eine Website, die ein Jahr läuft, kostet der Premium der Hostinger über 12 Monate mit SONAR20 19,10 US$. Der Economy von GoDaddy kostet für sein erstes Jahr 83,88 US$. Der Unterschied beträgt 64,78 US$ zugunsten der Hostinger."
         ],
         "comparisonTable": {
-          "caption": "Im Warenkorb abgelesene Hosting-Preise für zwölf Monate, ohne Kauf. Bei Hostinger ist SONAR20 berücksichtigt; Domain und E-Mail sind jeweils nur im ersten Jahr gratis.",
+          "caption": "Hosting-Preise für zwölf Monate laut Warenkorb. Bei Hostinger ist SONAR20 berücksichtigt; Domain und E-Mail sind jeweils nur im ersten Jahr gratis.",
           "headers": [
             "Tarif",
             "Zahlung im ersten Jahr",
@@ -194051,7 +194051,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wenn Sie mehr brauchen: Unlimited und Cloud Startup",
         "paragraphs": [
-          "Oberhalb von Premium nennt die internationale Hostinger-Seite Unlimited mit unbegrenzter Anzahl an Websites und Cloud Startup. Mit 20 % Abzug vom erfassten Seitenpreis ergeben sich für 48 Monate rechnerisch 107,14 US$ für Unlimited und 306,82 US$ für Cloud Startup. Die genannten monatlichen Verlängerungspreise betragen 16,99 beziehungsweise 25,99 US$. Diese Summen sind eigene Berechnungen und wurden für diesen Vergleich nicht im Warenkorb bestätigt. GoDaddy Deluxe und Ultimate bleiben außerhalb des Preisvergleichs, weil ihre Verlängerung hier nicht geprüft wurde."
+          "Oberhalb von Premium nennt die internationale Hostinger-Seite Unlimited mit unbegrenzter Anzahl an Websites und Cloud Startup. Mit 20 % Abzug vom erfassten Seitenpreis ergeben sich für 48 Monate rechnerisch 107,14 US$ für Unlimited und 306,82 US$ für Cloud Startup. Die genannten monatlichen Verlängerungspreise betragen 16,99 beziehungsweise 25,99 US$. Diese Summen sind Berechnungen: bestätigen Sie sie im Warenkorb. GoDaddy Deluxe und Ultimate bleiben außerhalb des Preisvergleichs."
         ],
         "links": [
           {
@@ -194177,14 +194177,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "2026年11月6日に国際サイトとカートで確認した米ドル価格では、SONAR20適用後のHostinger Premiumは、1年・2年・4年のホスティング料金でGoDaddy Economyを下回りました。SONAR20は更新には適用されませんが、年間更新料もPremiumがUS$131.88、EconomyがUS$143.88で、Premiumの方が低い金額でした。両プランのドメインとメールが無料なのは最初の1年だけです。"
+          "米ドル価格では、SONAR20適用後のHostinger Premiumは、1年・2年・4年のホスティング料金でGoDaddy Economyを下回ります。SONAR20は更新には適用されませんが、年間更新料もPremiumがUS$131.88、EconomyがUS$143.88で、Premiumの方が低い金額でした。両プランのドメインとメールが無料なのは最初の1年だけです。"
         ]
       },
       {
         "heading": "比べる2つのプラン",
         "paragraphs": [
           "Hostingerの国際サイトでは、共有ホスティングの入口はPremiumで、ドメインとメールが初年度無料で付きます。GoDaddyで同じ2つが付くのはEconomyです。この記事の主な比較はこの2つです。SSLは両社のすべてのプランで無料です。",
-          "この記事は期間ごとに答えます。初年度に払う額、2年間で払う額、4年間で払う額、そして各プランの更新料です。GoDaddyにはサイトだけのStarterというプランもあり、後の節で別に扱います。"
+          "この記事は期間ごとに答えます。初年度に払う額、2年間で払う額、4年間で払う額、そして各プランの更新料です。GoDaddyにはサイトだけのStarterというプランもあり、後の節で別に扱います。価格は2026年11月6日時点の国際サイトとカートの米ドル価格で、更新料が続く前提の計算は更新価格が変わらないものとして出しています。"
         ],
         "comparisonTable": {
           "headers": [
@@ -194218,7 +194218,7 @@ export const reviewsData: unknown[] = [
           "1年だけ使うサイトなら、SONAR20を使ったHostingerの12か月PremiumはUS$19.10です。GoDaddy Economyは初年度にUS$83.88かかります。その差はUS$64.78で、Hostingerのほうが安くなります。"
         ],
         "comparisonTable": {
-          "caption": "購入せずにカートで確認した最初の12か月のホスティング料金。HostingerはSONAR20適用後の金額です。追加商品や手数料を含む最終支払額はカートで確認してください。",
+          "caption": "カートに表示された最初の12か月のホスティング料金。HostingerはSONAR20適用後の金額です。追加商品や手数料を含む最終支払額はカートで確認してください。",
           "headers": [
             "プラン",
             "初年度の支払い額",
@@ -194373,7 +194373,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "返金：年間プランは両社とも30日と案内",
         "paragraphs": [
-          "確認した案内では、Hostingerの返金申請期限は購入から30日以内でした。GoDaddyの国際サイトは、年間プランを30日以内、月額プランを48時間以内と案内していました。"
+          "Hostingerの返金申請期限は購入から30日以内です。GoDaddyの国際サイトは、年間プランを30日以内、月額プランを48時間以内と案内しています。"
         ]
       },
       {
@@ -194405,7 +194405,7 @@ export const reviewsData: unknown[] = [
           "GoDaddyは更新も同じ価格ですか？ Economyは違います。カートでは1年プランが、1年目の後に定価に戻り、US$83.88からUS$143.88になると表示されています。Starterには初年度割引がなく、同じUS$71.88で更新されます。",
           "Hostingerのクーポンは更新にも使えますか？ いいえ。SONAR20は新規購入にだけ適用され、更新は通常価格で請求されます。更新については[Hostingerの更新ガイド](/ja/reviews/hostinger-renewal-sonar20-ja)をご覧ください。",
           "Hostinger Premiumにはドメインが付いていますか？ この記事で比較したプランでは、ドメインとサイトごとの2つのメールボックスが最初の1年間無料と案内されていました。その後のドメインとメールの更新料、自動更新設定は、それぞれ確認してください。",
-          "GoDaddyのサイトをHostingerに移せますか？ 対応できるかは、サイトの作成方法や移行先のホスティングプランによって変わる場合があります。現在のサービスを解約する前に、サイトの構成と移行先のプランをHostingerのサポートに伝え、無料移行の対象か確認してください。",
+          "GoDaddyのサイトをHostingerに移せますか？ Hostingerのヘルプページによると、無料の移行は、他社のWeb、Cloud、Agencyプランのサイトに対応しています。古いプランを解約する前に、サポートで自分のプランを確認してください。",
           "Hostingerのクーポンコードは何ですか？ SONAR20は対象となる新規購入の初回契約期間を20%割引にするコードで、更新には適用されません。"
         ]
       },
@@ -194490,7 +194490,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "미국 달러로 확인한 호스팅어 Premium과 GoDaddy Economy의 1년·2년·4년 호스팅 비용과 갱신가를 비교합니다. SONAR20 적용 금액과 별도로 드는 비용도 살펴보세요.",
+    "description": "미국 달러 기준으로 호스팅어 Premium과 GoDaddy Economy의 1년·2년·4년 호스팅 비용과 갱신가를 비교합니다. SONAR20 적용 금액과 별도로 드는 비용도 살펴보세요.",
     "metaDescription": "SONAR20은 호스팅어의 할인 대상 신규 구매에 20% 할인을 제공합니다. 미국 달러 기준 1년·2년·4년 호스팅 비용과 갱신가를 GoDaddy와 비교하세요.",
     "publishedAt": "2026년 11월 6일",
     "publishedAtISO": "2026-11-06",
@@ -194505,14 +194505,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "2026년 11월 6일 국제 사이트와 장바구니에서 확인한 미국 달러 가격으로는, SONAR20을 적용한 호스팅어 Premium의 1년·2년·4년 호스팅 비용이 GoDaddy Economy보다 낮았습니다. SONAR20은 갱신에는 적용되지 않으며, 연간 갱신가도 Premium US$ 131.88, Economy US$ 143.88로 Premium이 낮았습니다. 두 플랜의 도메인과 이메일은 첫 1년만 무료입니다."
+          "미국 달러 가격으로는, SONAR20을 적용한 호스팅어 Premium의 1년·2년·4년 호스팅 비용이 GoDaddy Economy보다 낮습니다. SONAR20은 갱신에는 적용되지 않으며, 연간 갱신가도 Premium US$ 131.88, Economy US$ 143.88로 Premium이 낮았습니다. 두 플랜의 도메인과 이메일은 첫 1년만 무료입니다."
         ]
       },
       {
         "heading": "나란히 놓고 볼 두 플랜",
         "paragraphs": [
           "호스팅어 국제 사이트에서 공유 호스팅은 Premium부터 시작하며, 도메인과 이메일이 1년 무료로 포함됩니다. GoDaddy에서 같은 두 가지가 포함된 플랜은 Economy입니다. 이 두 플랜이 이 글의 주요 비교 대상입니다. SSL은 두 회사의 모든 플랜에서 무료입니다.",
-          "이 글은 기간별로 답합니다. 첫 해에 내는 금액, 2년 동안 내는 금액, 4년 동안 내는 금액, 그리고 각 플랜의 갱신가입니다. GoDaddy에는 사이트만 제공하는 Starter 플랜도 있으며, 아래 별도 항목에서 다룹니다."
+          "이 글은 기간별로 답합니다. 첫 해에 내는 금액, 2년 동안 내는 금액, 4년 동안 내는 금액, 그리고 각 플랜의 갱신가입니다. GoDaddy에는 사이트만 제공하는 Starter 플랜도 있으며, 아래 별도 항목에서 다룹니다. 가격은 2026년 11월 6일 기준 국제 사이트와 장바구니의 미국 달러 가격이며, 갱신이 이어지는 계산은 갱신가가 바뀌지 않는다고 가정합니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -194546,7 +194546,7 @@ export const reviewsData: unknown[] = [
           "1년 동안만 운영할 사이트라면, SONAR20을 적용한 호스팅어 12개월 Premium은 US$ 19.10입니다. GoDaddy Economy는 첫 해에 US$ 83.88입니다. 차이는 US$ 64.78로, 호스팅어가 더 저렴합니다."
         ],
         "comparisonTable": {
-          "caption": "구매 없이 장바구니에서 확인한 첫 12개월 호스팅 요금. 호스팅어는 SONAR20 적용 금액입니다. 별도 상품과 수수료를 포함한 최종 결제액은 장바구니에서 확인하세요.",
+          "caption": "장바구니에 표시된 첫 12개월 호스팅 요금. 호스팅어는 SONAR20 적용 금액입니다. 별도 상품과 수수료를 포함한 최종 결제액은 장바구니에서 확인하세요.",
           "headers": [
             "플랜",
             "첫 해 결제 금액",
@@ -194701,7 +194701,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "환불: 연간 플랜은 두 곳 모두 30일 안내",
         "paragraphs": [
-          "확인한 안내에서 호스팅어의 환불 요청 기한은 구매 후 30일이었습니다. GoDaddy 국제 사이트는 연간 플랜을 30일 이내, 월간 플랜을 48시간 이내로 안내했습니다."
+          "호스팅어의 환불 요청 기한은 구매 후 30일입니다. GoDaddy 국제 사이트는 연간 플랜을 30일 이내, 월간 플랜을 48시간 이내로 안내합니다."
         ]
       },
       {
@@ -194733,7 +194733,7 @@ export const reviewsData: unknown[] = [
           "GoDaddy는 갱신도 같은 가격인가요? Economy는 아닙니다. 장바구니에서 1년 플랜은 첫 해 후 정가로 돌아가 US$ 83.88에서 US$ 143.88이 됩니다. Starter는 첫 해 할인이 없어서 같은 US$ 71.88로 갱신됩니다.",
           "호스팅어 쿠폰은 갱신에도 적용되나요? 아니요. SONAR20은 신규 구매에만 적용되며, 갱신은 정가로 청구됩니다. 갱신은 [호스팅어 갱신 가이드](/ko/reviews/hostinger-renewal-sonar20-ko)를 보세요.",
           "호스팅어 Premium에는 도메인이 포함되나요? 이 글에서 비교한 플랜에는 도메인과 사이트당 메일함 2개가 첫 1년 무료로 안내되어 있었습니다. 이후 도메인과 이메일의 갱신 요금 및 자동 갱신 설정은 각각 확인해야 합니다.",
-          "GoDaddy 사이트를 호스팅어로 옮길 수 있나요? 사이트를 만든 방식과 이전할 호스팅 플랜에 따라 지원 여부가 달라질 수 있습니다. 기존 서비스를 해지하기 전에 호스팅어 지원팀에 현재 사이트와 이전할 플랜을 알려 무료 이전 대상인지 확인하세요.",
+          "GoDaddy 사이트를 호스팅어로 옮길 수 있나요? 호스팅어 도움말 페이지에 따르면 무료 이전은 다른 회사의 Web, Cloud, Agency 플랜 사이트에 적용됩니다. 기존 플랜을 해지하기 전에 지원팀에서 본인의 플랜을 확인하세요.",
           "호스팅어 할인 코드는 무엇인가요? SONAR20은 할인 대상 신규 구매의 첫 계약 기간에 20% 할인을 제공하며, 갱신에는 적용되지 않습니다."
         ]
       },
@@ -194841,7 +194841,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "在 Hostinger 的国际站上，共享主机从 Premium 起步，附一年免费的域名和邮箱。GoDaddy 中同样包含这两项的套餐是 Economy。这两个是本文主要比较的对象。两家的所有套餐都免费提供 SSL。",
           "本文按期间回答：第一年付多少、2 年付多少、4 年付多少，以及各套餐续费时要付多少。GoDaddy 也有 Starter，它只包含网站本身，会在后面单独说明。",
-          "本文价格记录于 2026 年 11 月 6 日，来自两家国际站页面与美元购物车，没有实际购买。表中比较主机费用，不含域名和邮箱免费期后的续费，也不含另购 SSL。付款前请在结账页确认税费及其他收费。涉及未来续费的总额，均假设续费价格保持本文记录的金额。"
+          "价格为 2026 年 11 月 6 日两家国际站页面与美元购物车的美元报价。表中比较主机费用，不含域名和邮箱免费期后的续费，也不含另购 SSL。付款前请在结账页确认税费及其他收费。涉及未来续费的总额，均假设续费价格保持本文记录的金额。"
         ],
         "comparisonTable": {
           "headers": [
@@ -194964,7 +194964,7 @@ export const reviewsData: unknown[] = [
         "heading": "过了付费期间：各套餐续费多少",
         "paragraphs": [
           "期间结束后，两家都回到标价。SONAR20 只适用于新购买，所以 Hostinger 续费按套餐标价计算，不套用优惠码。购物车显示 Premium 在 48 个月后以每月 US$ 10.99 续费 12 个月，即每年 US$ 131.88。12 个月套餐的续费价也相同。",
-          "查价时，GoDaddy 的 12 个月 Economy 购物车列出的下一期年度续费价格为 US$ 143.88，比 Premium 记录的年度续费价格多 US$ 12。"
+          "GoDaddy 的 12 个月 Economy 购物车列出的下一期年度续费价格为 US$ 143.88，比 Premium 的年度续费价格多 US$ 12。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hans.webp",
@@ -195036,7 +195036,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "需要更多：Unlimited 和 Cloud Startup",
         "paragraphs": [
-          "在 Premium 之上，本文记录的 Hostinger 页面还列有不限网站数的 Unlimited，以及 Cloud Startup。若将页面上的 48 个月首期金额乘以 0.8，Unlimited 的估算为 US$ 107.14，Cloud Startup 为 US$ 306.82；页面列出的续费月价分别为 US$ 16.99 和 US$ 25.99。这两笔首期金额由页面价格计算得出，并非购物车的确定结算额。GoDaddy Deluxe 和 Ultimate 因缺少已核对的续费价格，未纳入比较。"
+          "在 Premium 之上，本文记录的 Hostinger 页面还列有不限网站数的 Unlimited，以及 Cloud Startup。若将页面上的 48 个月首期金额乘以 0.8，Unlimited 的估算为 US$ 107.14，Cloud Startup 为 US$ 306.82；页面列出的续费月价分别为 US$ 16.99 和 US$ 25.99。这两笔首期金额由页面价格计算得出，并非购物车的确定结算额。GoDaddy Deluxe 和 Ultimate 不在本次比较范围内。"
         ],
         "links": [
           {
@@ -195170,7 +195170,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "在 Hostinger 的國際站上，共享主機從 Premium 開始，附一年免費的網域和電子郵件。GoDaddy 同樣包含這兩項的方案是 Economy。這兩個是本文主要比較的對象。兩家的所有方案都免費提供 SSL。",
           "本文依期間回答：第一年付多少、2 年付多少、4 年付多少，以及各方案續訂時要付多少。GoDaddy 也有 Starter，它只包含網站本身，會在後面單獨說明。",
-          "本文價格記錄於 2026 年 11 月 6 日，來自兩家國際站頁面與美元購物車，沒有實際購買。表中比較主機費，不含網域與電子郵件免費期後的續訂費，也不含另購 SSL。付款前請在結帳頁確認稅費及其他收費。涉及未來續訂的總額，均假設續訂價維持本文記錄的金額。"
+          "價格為 2026 年 11 月 6 日兩家國際站頁面與美元購物車的美元報價。表中比較主機費，不含網域與電子郵件免費期後的續訂費，也不含另購 SSL。付款前請在結帳頁確認稅費及其他收費。涉及未來續訂的總額，均假設續訂價維持本文記錄的金額。"
         ],
         "comparisonTable": {
           "headers": [
@@ -195293,7 +195293,7 @@ export const reviewsData: unknown[] = [
         "heading": "過了付費期間：各方案續訂多少",
         "paragraphs": [
           "期間結束後，兩家都回到標價。SONAR20 只適用於新購買，所以 Hostinger 續訂按方案標價計算，不套用優惠碼。購物車顯示 Premium 在 48 個月後以每月 US$ 10.99 續訂 12 個月，即每年 US$ 131.88。12 個月方案的續訂價也相同。",
-          "查價時，GoDaddy 的 12 個月 Economy 購物車列出的下一期年度續訂價為 US$ 143.88，比 Premium 記錄的年度續訂價多 US$ 12。"
+          "GoDaddy 的 12 個月 Economy 購物車列出的下一期年度續訂價為 US$ 143.88，比 Premium 的年度續訂價多 US$ 12。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hant.webp",
