@@ -42523,7 +42523,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "K-Beauty é o nome dos cosméticos e das tendências de beleza da Coreia, do skincare à maquiagem. A rotina em camadas é uma das práticas mais conhecidas, mas não é obrigatória: uma rotina simples pode bastar. Fora da Coreia, a oferta muda por marca e por país; a YesStyle reúne várias marcas num carrinho só."
+          "K-Beauty é o nome dos cosméticos e das tendências de beleza da Coreia, do skincare à maquiagem. A rotina em camadas é conhecida, mas opcional. Fora da Coreia, a oferta muda por marca e país; a YesStyle reúne várias marcas num carrinho só e o código de recompensa CECILIA010 dá 5% extra na primeira compra."
         ]
       },
       {
@@ -42669,7 +42669,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "K-Beauty is the name for Korean cosmetics and beauty trends, from skincare to makeup. The multi-layer routine is one of its best-known practices, but it is optional: a simple routine can be enough. Outside Korea, availability varies by brand and country; YesStyle gathers many brands in one cart."
+          "K-Beauty is the name for Korean cosmetics and beauty trends, from skincare to makeup. The multi-layer routine is one of its best-known practices, but it is optional. Outside Korea, availability varies by brand and country; YesStyle gathers many brands in one cart, and the Reward Code CECILIA010 gives 5% extra off your first purchase."
         ]
       },
       {
@@ -42815,7 +42815,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "K-Beauty es el nombre de los cosméticos y las tendencias de belleza de Corea, del skincare al maquillaje. La rutina en capas es una de sus prácticas más conocidas, pero no es obligatoria: una rutina simple puede bastar. Fuera de Corea, la oferta cambia según la marca y el país; YesStyle reúne varias marcas en un solo carrito."
+          "K-Beauty es el nombre de los cosméticos y las tendencias de belleza de Corea, del skincare al maquillaje. La rutina en capas es conocida, pero opcional. Fuera de Corea, la oferta cambia según marca y país; YesStyle reúne varias marcas en un carrito y el código de recompensa CECILIA010 da un 5 % extra en la primera compra."
         ]
       },
       {
@@ -42961,7 +42961,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La K-Beauty désigne les cosmétiques et les tendances beauté de la Corée, du skincare au maquillage. La routine en couches est l’une de ses pratiques les plus connues, mais elle n’est pas obligatoire : une routine simple peut suffire. Hors de Corée, l’offre varie selon la marque et le pays ; YesStyle réunit plusieurs marques dans un seul panier."
+          "La K-Beauty désigne les cosmétiques et les tendances beauté de la Corée, du skincare au maquillage. La routine en couches est connue, mais facultative. Hors de Corée, l’offre varie selon la marque et le pays ; YesStyle réunit plusieurs marques dans un panier et le code de récompense CECILIA010 donne 5 % de plus sur la première commande."
         ]
       },
       {
@@ -43107,7 +43107,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "K-Beauty steht für Kosmetik und Beauty-Trends aus Korea, von Skincare bis Make-up. Das Schichten (Layering) ist eine bekannte Praxis, aber keine Pflicht: Eine einfache Routine kann genügen. Außerhalb Koreas unterscheidet sich das Angebot je nach Marke und Land; YesStyle bündelt viele Marken in einem Warenkorb."
+          "K-Beauty steht für Kosmetik und Beauty-Trends aus Korea, von Skincare bis Make-up. Das Schichten (Layering) ist eine bekannte Praxis, aber keine Pflicht. Außerhalb Koreas unterscheidet sich das Angebot je nach Marke und Land; YesStyle bündelt viele Marken in einem Warenkorb, und der Reward Code CECILIA010 bringt 5 % extra beim ersten Einkauf."
         ]
       },
       {
@@ -43253,7 +43253,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "간단히 답하면",
         "paragraphs": [
-          "K-뷰티는 스킨케어부터 메이크업까지 아우르는 한국의 화장품과 뷰티 트렌드를 가리키는 말입니다. 여러 겹을 쌓는 루틴은 널리 알려진 방식 중 하나지만 꼭 따라야 하는 것은 아니며, 간단한 루틴으로 충분할 수도 있습니다. 판매 여부와 방식은 브랜드와 나라에 따라 다릅니다. YesStyle은 여러 브랜드를 장바구니 하나에 담을 수 있습니다."
+          "K-뷰티는 스킨케어부터 메이크업까지 아우르는 한국의 화장품과 뷰티 트렌드를 가리키는 말입니다. 여러 겹을 쌓는 루틴은 널리 알려진 방식 중 하나지만 꼭 따라야 하는 것은 아닙니다. 판매 여부와 방식은 브랜드와 나라에 따라 다르지만, YesStyle은 여러 브랜드를 장바구니 하나에 담을 수 있고 리워드 코드 CECILIA010으로 첫 구매 5%를 추가 할인받습니다."
         ]
       },
       {
@@ -43399,7 +43399,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡単に答えると",
         "paragraphs": [
-          "K-Beautyは、スキンケアからメイクまで、韓国発のコスメと美容トレンドを指す言葉です。何層も重ねるルーティンはよく知られた方法の一つですが、必須ではなく、シンプルなケアで足りることもあります。韓国の外では、取り扱いはブランドや国によって変わります。YesStyleなら複数のブランドを1つのカートにまとめられます。"
+          "K-Beautyは、スキンケアからメイクまで、韓国発のコスメと美容トレンドを指す言葉です。何層も重ねるルーティンはよく知られた方法の一つですが、必須ではありません。韓国の外では取り扱いがブランドや国によって変わりますが、YesStyleなら複数のブランドを1つのカートにまとめられ、リワードコードCECILIA010で初回購入が5%追加割引になります。"
         ]
       },
       {
@@ -43545,7 +43545,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡短回答",
         "paragraphs": [
-          "K-Beauty 指韓國的化妝品與美妝潮流，從保養到彩妝。多層疊擦是最廣為人知的做法之一，但並非必須，簡單的流程也許就夠了。在韓國以外，供貨會因品牌和國家而異；YesStyle 可以把多個品牌放進同一個購物車。"
+          "K-Beauty 指韓國的化妝品與美妝潮流，從保養到彩妝。多層疊擦是最廣為人知的做法之一，但並非必須。在韓國以外，供貨會因品牌和國家而異；YesStyle 可以把多個品牌放進同一個購物車，使用獎勵碼 CECILIA010 首購還能額外優惠 5%。"
         ]
       },
       {
@@ -43691,7 +43691,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "K-Beauty 指韩国的化妆品和美妆潮流，从护肤到彩妆。多层叠涂是最广为人知的做法之一，但并非必须，简单的流程也许就够了。在韩国以外，供货因品牌和国家而异；YesStyle 可以把多个品牌放进同一个购物车。"
+          "K-Beauty 指韩国的化妆品和美妆潮流，从护肤到彩妆。多层叠涂是最广为人知的做法之一，但并非必须。在韩国以外，供货因品牌和国家而异；YesStyle 可以把多个品牌放进同一个购物车，用奖励码 CECILIA010 首次购买还能额外优惠 5%。"
         ]
       },
       {
@@ -49656,7 +49656,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "La K-Beauty è il nome dei cosmetici e delle tendenze di bellezza della Corea, dallo skincare al trucco. La routine a strati è una pratica molto nota, ma non è obbligatoria: una routine semplice può bastare. Fuori dalla Corea l’offerta cambia da marchio a marchio e da paese a paese; YesStyle riunisce molti marchi in un unico carrello."
+          "La K-Beauty è il nome dei cosmetici e delle tendenze di bellezza della Corea, dallo skincare al trucco. La routine a strati è nota, ma facoltativa. Fuori dalla Corea l’offerta cambia per marchio e paese; YesStyle riunisce molti marchi in un carrello e il codice ricompensa CECILIA010 dà il 5% in più sul primo acquisto."
         ]
       },
       {
