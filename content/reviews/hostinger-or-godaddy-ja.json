@@ -31,7 +31,7 @@
     }
   ],
   "description": "ホスティングの料金を比べる前に、サイトを何年使うかを考えてください。米ドルでは、SONAR20を使ったHostinger PremiumはGoDaddy Economyより、どの期間で比べても安くなります。",
-  "metaDescription": "SONAR20で新規のHostinger購入が20%割引になります。初年度と4年間で、GoDaddyより安いのはどちらか、各プランが更新時にいくら請求するかを確認できます。",
+  "metaDescription": "SONAR20で新規のHostinger購入が20%割引になります。初年度、2年間、4年間で、GoDaddyより安いのはどちらか、各プランの更新料も確認できます。",
   "publishedAt": "2026年11月6日",
   "publishedAtISO": "2026-11-06",
   "draft": false,
@@ -45,14 +45,14 @@
     {
       "heading": "クイックアンサー",
       "paragraphs": [
-        "米ドルで見ると、SONAR20を使ったHostinger Premiumはどの期間で比べてもGoDaddy Economyより安くなります。初年度はUS$38.30対US$83.88、4年間はUS$76.42対US$515.52、更新の1年分はUS$131.88対US$143.88です。どちらのプランも、ドメインとメールが1年間無料で付きます。"
+        "米ドルで見ると、SONAR20を使ったHostinger Premiumは初年度（US$19.10対US$83.88）、2年間（US$38.21対US$155.76）、4年間（US$76.42対US$359.52）、更新の1年分（US$131.88対US$143.88）のどれで比べてもGoDaddy Economyより安くなります。どちらも、ドメインとメールが1年間無料で付きます。"
       ]
     },
     {
       "heading": "比べる2つのプラン",
       "paragraphs": [
         "Hostingerの国際サイトでは、共有ホスティングの入口はPremiumで、ドメインとメールが初年度無料で付きます。GoDaddyで同じ2つが付くのはEconomyです。この記事の主な比較はこの2つです。SSLは両社のすべてのプランで無料です。",
-        "この記事は期間ごとに答えます。初年度に払う額、4年間で払う額、そして各プランの更新料です。GoDaddyにはサイトだけのStarterというプランもあり、後の節で別に扱います。"
+        "この記事は期間ごとに答えます。初年度に払う額、2年間で払う額、4年間で払う額、そして各プランの更新料です。GoDaddyにはサイトだけのStarterというプランもあり、後の節で別に扱います。"
       ],
       "comparisonTable": {
         "headers": [
@@ -83,7 +83,7 @@
     {
       "heading": "初年度はHostingerのほうが安い",
       "paragraphs": [
-        "1年だけ使うサイトなら、SONAR20を使ったHostingerの12か月PremiumはUS$38.30です。GoDaddy Economyは初年度にUS$83.88かかります。その差はUS$45.58で、Hostingerのほうが安くなります。"
+        "1年だけ使うサイトなら、SONAR20を使ったHostingerの12か月PremiumはUS$19.10です。GoDaddy Economyは初年度にUS$83.88かかります。その差はUS$64.78で、Hostingerのほうが安くなります。"
       ],
       "comparisonTable": {
         "caption": "11月6日に各カートで購入せずに確認した初年度の支払い額。Hostingerは12か月プランにSONAR20を適用した金額です。",
@@ -95,7 +95,7 @@
         "rows": [
           [
             "[Hostinger Premium、12か月、SONAR20適用](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "US$38.30",
+            "US$19.10",
             "1年間無料"
           ],
           [
@@ -106,14 +106,45 @@
         ]
       },
       "postParagraphs": [
-        "Hostingerのカートには、ブラックフライデーの価格がすでに適用されていました。12か月のPremiumはUS$47.88と表示され、SONAR20でUS$38.30になりました。このコードは新規購入の20%割引です。"
+        "Hostingerのカートには、ブラックフライデーの価格がすでに適用されていました。12か月のPremiumはコードなしで月額US$1.99、SONAR20を使うと月額US$1.59と表示され、24か月・48か月のプランと同じ月額でした。このコードは新規購入の20%割引です。"
       ]
+    },
+    {
+      "heading": "2年間ではHostingerのほうが安い",
+      "paragraphs": [
+        "2年使うサイトなら、SONAR20を使ったHostingerの24か月Premiumは1回の購入でUS$38.21です。GoDaddyの24か月Economyは、US$155.76で、1年目と更新1回を払う場合（US$227.76）より安くなります。Starterには割引がないので、2年分でUS$143.76です。"
+      ],
+      "comparisonTable": {
+        "caption": "同じ日に各カートで購入せずに確認した2年間の支払い額。Hostingerは24か月プランにSONAR20を適用した金額です。GoDaddyは24か月プランで、1年目と更新1回を払うより安くなります。",
+        "headers": [
+          "プラン",
+          "2年間の支払い額",
+          "ドメインとメール"
+        ],
+        "rows": [
+          [
+            "[Hostinger Premium、24か月、SONAR20適用](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$38.21",
+            "1年間無料"
+          ],
+          [
+            "GoDaddy Economy、24か月",
+            "US$155.76",
+            "1年間無料"
+          ],
+          [
+            "GoDaddy Starter、2年（12か月と、同じ価格での更新1回）",
+            "US$143.76",
+            "なし"
+          ]
+        ]
+      }
     },
     {
       "heading": "4年間ではHostingerのほうが安い",
       "paragraphs": [
         "差は、両社の請求の仕方にあります。Hostingerは48か月分を一度に払い、その期間は更新がありません。カートではブラックフライデーの価格がすでに適用されており、48か月のPremiumはUS$95.52と表示され、SONAR20でUS$76.42になりました。",
-        "GoDaddyでは、プロモーション価格は最初の1年の期間だけに適用されます。4年にするには、定価での年間更新を3回払うことになります。Economyは更新1回あたりUS$143.88です。"
+        "GoDaddyでは、プロモーション価格は最初の期間だけに適用され、更新は定価で請求されます。4年にする最も安い方法は、36か月のEconomy（US$215.64）に、年間更新を1回（US$143.88）足すことです。"
       ],
       "comparisonTable": {
         "headers": [
@@ -129,13 +160,13 @@
           ],
           [
             "GoDaddy Economy",
-            "1年目US$83.88、更新3回でそれぞれUS$143.88",
-            "US$515.52"
+            "36か月でUS$215.64、更新1回でUS$143.88",
+            "US$359.52"
           ]
         ]
       },
       "postParagraphs": [
-        "GoDaddyには24か月と36か月の期間もありますが、米ドルでの価格はこの記事のために確認していないので、計算には割引の1年目と更新を使っています。",
+        "GoDaddyの60か月EconomyはUS$359.40で、5年分をカバーします。上の4年の方法とほぼ同じ金額です。",
         "合計には、どちらの会社でも1年目の後のドメインとメールの更新は含めていません。"
       ]
     },
@@ -154,35 +185,45 @@
       }
     },
     {
+      "heading": "1か月プランはどうですか？",
+      "paragraphs": [
+        "HostingerはPremiumを月額US$12.99でも販売しています。SONAR20は月額プランには適用されません。毎月同じUS$12.99が請求されます。この方法で12か月使うとUS$155.88で、コードを使った12か月プランの約8倍です。短いお試しにだけ向いています。"
+      ]
+    },
+    {
       "heading": "サイトだけ必要なら：GoDaddy Starter",
       "paragraphs": [
         "Starterは、サイトだけのGoDaddyプランです。1サイト、10 GB NVMe、cPanelで、ドメインもメールもリストにありません。SSLは、すべてのGoDaddyプランと同じくAutoSSLで提供されます。初年度の割引はありません。カートでは1年US$71.88と表示され、同じUS$71.88で更新されます。",
-        "初年度でも4年間でも、StarterはSONAR20を使ったPremiumより高くなります。更新時は、この記事の3つのプランで最も安く、Premiumより年にしてUS$60安くなります。"
+        "初年度でも2年間でも4年間でも、StarterはSONAR20を使ったPremiumより高くなります。更新時は、この記事の3つのプランで最も安く、Premiumより年にしてUS$60安くなります。"
       ],
       "comparisonTable": {
         "headers": [
           "プラン",
           "初年度",
+          "2年の合計",
           "4年の合計",
           "年ごとの更新料"
         ],
         "rows": [
           [
             "[Hostinger Premium、SONAR20適用](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "US$38.30",
+            "US$19.10",
+            "US$38.21",
             "US$76.42",
             "US$131.88"
           ],
           [
             "GoDaddy Starter",
             "US$71.88",
+            "US$143.76",
             "US$287.52",
             "US$71.88"
           ],
           [
             "GoDaddy Economy",
             "US$83.88",
-            "US$515.52",
+            "US$155.76",
+            "US$359.52",
             "US$143.88"
           ]
         ]
@@ -210,16 +251,17 @@
     {
       "heading": "サイトを何年使うかで選ぶ",
       "paragraphs": [
-        "1年、ドメインとメールも含める場合：SONAR20を使ったHostinger Premiumの12か月で、US$38.30です。同じ期間のEconomyは、US$45.58高くなります。",
-        "4年、ドメインとメールも含める場合：SONAR20を使ったHostinger Premiumの48か月で、期間全体でUS$76.42です。Economyは、その6倍以上になります。",
-        "サイトだけを長く使う場合：GoDaddy Starterは更新料が年額US$71.88でいちばん安いですが、初年度も4年間でもSONAR20を使ったPremiumより高くなります。",
+        "1年、ドメインとメールも含める場合：SONAR20を使ったHostinger Premiumの12か月で、US$19.10です。同じ期間のEconomyは、US$64.78高くなります。",
+        "2年、ドメインとメールも含める場合：SONAR20を使ったHostinger Premiumの24か月で、US$38.21です。Economyの24か月はUS$155.76です。",
+        "4年、ドメインとメールも含める場合：SONAR20を使ったHostinger Premiumの48か月で、期間全体でUS$76.42です。Economyは、その4倍以上になります。",
+        "サイトだけを長く使う場合：GoDaddy Starterは更新料が年額US$71.88でいちばん安いですが、初年度も2年間も4年間もSONAR20を使ったPremiumより高くなります。",
         "どの場合も、支払う前にカートで更新料を確認してください。プロモーションは変わることがあります。"
       ]
     },
     {
       "heading": "よくある質問",
       "bullets": [
-        "HostingerとGoDaddy、どちらがいいですか？ 米ドルでは、SONAR20を使ったHostinger PremiumはGoDaddy Economyより、初年度、4年間の合計、更新のどれで比べても安くなります。GoDaddy Starterが勝つのは更新料だけで、そのプランにはドメインもメールもリストにありません。その他の判断基準は[レンタルサーバーの選び方](/ja/reviews/choose-web-host-hostinger-ja)にあります。",
+        "HostingerとGoDaddy、どちらがいいですか？ 米ドルでは、SONAR20を使ったHostinger PremiumはGoDaddy Economyより、初年度、2年間、4年間の合計、更新のどれで比べても安くなります。GoDaddy Starterが勝つのは更新料だけで、そのプランにはドメインもメールもリストにありません。その他の判断基準は[レンタルサーバーの選び方](/ja/reviews/choose-web-host-hostinger-ja)にあります。",
         "GoDaddyは更新も同じ価格ですか？ Economyは違います。カートでは1年プランが、1年目の後に定価に戻り、US$83.88からUS$143.88になると表示されています。Starterには初年度割引がなく、同じUS$71.88で更新されます。",
         "Hostingerのクーポンは更新にも使えますか？ いいえ。SONAR20は新規購入にだけ適用され、更新は通常価格で請求されます。更新については[Hostingerの更新ガイド](/ja/reviews/hostinger-renewal-sonar20-ja)をご覧ください。",
         "Hostinger Premiumにはドメインが付いていますか？ はい。1年間無料で、サイトごとに2つのメールボックスも付きます。その後、ドメインは、Hostingerの現在の価格で自動更新されます。",
@@ -266,12 +308,12 @@
   ],
   "decision": {
     "takeIf": [
-      "4年間サイトを続けるなら、Hostingerを選んでください。SONAR20を使ったPremiumは、1回の購入で4年分をカバーします。",
+      "ドメインとメールが必要で2年以上サイトを続けるなら、Hostingerを選んでください。SONAR20を使ったPremiumは、1回の購入で全期間をカバーし、Economyより安くなります。",
       "1年間のプロジェクトで、ドメインとメールが必要なら、Hostinger Premiumを選んでください。その期間はEconomyより安く、更新料も安くなります。"
     ],
     "skipIf": [
       "ドメインもメールも不要で、4年をはるかに超えて使うつもりなら、GoDaddy Starterを選んでください。更新料がいちばん安いプランです。",
-      "cPanelがほしく、初年度・4年間・更新のすべてでPremiumより高くなっても構わないなら、GoDaddy Economyを選んでください。"
+      "cPanelがほしく、初年度・2年間・4年間・更新のすべてでPremiumより高くなっても構わないなら、GoDaddy Economyを選んでください。"
     ]
   }
 }
