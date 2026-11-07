@@ -1,0 +1,75 @@
+{
+  "id": "shein-1111-2026",
+  "affiliate": "shein",
+  "slot": "mid",
+  "href": "https://onelink.shein.com/59/67g9ljav4fwu",
+  "art": {
+    "kind": "tag",
+    "value": "90%"
+  },
+  "code": "97GK527",
+  "copy": {
+    "pt": {
+      "headline": "SHEIN 11.11: Até 90% OFF em +800 mil produtos",
+      "text": "Campanha da própria SHEIN. As condições aparecem no site da SHEIN.",
+      "action": "Ver a campanha",
+      "tag": "ATÉ"
+    },
+    "en": {
+      "headline": "SHEIN 11.11: Up to 90% off on 800,000+ products",
+      "text": "Run by SHEIN itself. The terms are on the SHEIN website.",
+      "action": "See the offer",
+      "tag": "UP TO"
+    },
+    "es": {
+      "headline": "SHEIN 11.11: hasta un 90 % de descuento en más de 800 000 productos",
+      "text": "Una campaña de la propia SHEIN. Las condiciones están en el sitio de SHEIN.",
+      "action": "Ver la oferta",
+      "tag": "HASTA"
+    },
+    "fr": {
+      "headline": "SHEIN 11.11 : jusqu’à 90 % de réduction sur plus de 800 000 produits",
+      "text": "Une campagne de SHEIN. Les conditions sont sur le site de SHEIN.",
+      "action": "Voir l’offre",
+      "tag": "JUSQU’À"
+    },
+    "it": {
+      "headline": "SHEIN 11.11: fino al 90% di sconto su oltre 800.000 prodotti",
+      "text": "Una campagna di SHEIN. Le condizioni sono sul sito di SHEIN.",
+      "action": "Vedi l’offerta",
+      "tag": "FINO AL"
+    },
+    "de": {
+      "headline": "SHEIN 11.11: Bis zu 90 % Rabatt auf über 800.000 Produkte",
+      "text": "Eine Aktion von SHEIN. Die Bedingungen stehen auf der SHEIN-Website.",
+      "action": "Zum Angebot",
+      "tag": "BIS ZU"
+    },
+    "ja": {
+      "headline": "SHEIN 11.11：80万点以上の商品が最大90%オフ",
+      "text": "SHEIN公式のキャンペーンです。条件はSHEINのサイトでご確認ください。",
+      "action": "キャンペーンを見る",
+      "tag": "最大"
+    },
+    "ko": {
+      "headline": "SHEIN 11.11: 80만 개 이상 상품 최대 90% 할인",
+      "text": "SHEIN 자체 프로모션입니다. 조건은 SHEIN 사이트에서 확인하세요.",
+      "action": "혜택 보기",
+      "tag": "최대"
+    },
+    "zh-hans": {
+      "headline": "SHEIN 11.11：80万+商品低至1折",
+      "text": "SHEIN官方活动，具体条件以SHEIN网站为准。",
+      "action": "查看活动",
+      "tag": "最高"
+    },
+    "zh-hant": {
+      "headline": "SHEIN 11.11：80萬+商品低至1折",
+      "text": "SHEIN官方活動，具體條件以SHEIN網站為準。",
+      "action": "查看活動",
+      "tag": "最高"
+    }
+  },
+  "source": "Mensagem da campanha (Mega Promoção 11.11, #SHEIN1111) e link enviados pelo Bruno em 07/11/2026; a loja mostra \"termina em 38 dias\", sem data fixa",
+  "verifiedAt": "2026-11-07"
+}
