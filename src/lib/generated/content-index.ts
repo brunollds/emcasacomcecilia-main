@@ -54939,7 +54939,7 @@ export const reviewsData: unknown[] = [
     "id": 332,
     "slug": "black-friday-letseatit",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Let's Eat It 2026: já começou, com Le Creuset até 40% OFF, Porto Brasil até 60% e La Maison até 70%",
+    "title": "Black Friday Let's Eat It 2026: já começou, com Le Creuset até 50% OFF, Porto Brasil até 60% e La Maison até 70%",
     "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e Porto Brasil",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -54951,8 +54951,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Let's Eat It já está no ar, com Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 40%. Veja como o Pix e o cupom MAUAD entram na conta.",
-    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 40%.",
+    "description": "A Black Friday da Let's Eat It já está no ar, com Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 50%. Veja como o Pix e o cupom MAUAD entram na conta.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 50%.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
     "updatedAt": "2026-11-07",
@@ -54978,13 +54978,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
         "paragraphs": [
-          "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70%; o dia da Black Friday é 27 de novembro. A Le Creuset tem coleção de promoção, de 15% a 40% OFF. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
+          "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70%; o dia da Black Friday é 27 de novembro. A Le Creuset tem coleção de promoção, de 15% a 50% OFF. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
         ]
       },
       {
         "heading": "A Let's Eat It tem Black Friday?",
         "paragraphs": [
-          "Tem, e já começou. A home traz a coleção \"Best Sellers - Black Friday\" e anuncia a La Maison com até 70% OFF, a Linha Sintonia, de taças e copos, também com até 70%, a Porto Brasil com até 60% OFF, as peças de Natal de 20% a 60% de desconto e a Le Creuset Colorful, com \"descontos imperdíveis\", mais 15% de cashback e 5% no Pix. A loja não publica até quando a campanha vale.",
+          "Tem, e já começou. A home traz a coleção \"Best Sellers - Black Friday\" e anuncia a La Maison com até 70% OFF, a Linha Sintonia, de taças e copos, também com até 70%, a Porto Brasil com até 60% OFF, as peças de Natal de 20% a 60% de desconto e a Le Creuset com até 50% OFF, mais 15% de cashback e 5% no Pix. A loja não publica até quando a campanha vale.",
           "O \"até\" é o teto de cada marca: o desconto da peça é o que a página dela mostra. Em outubro, antes da campanha, a loja já oferecia a coleção Natal Let's com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado. Ou seja, o selo da Porto Brasil é o mesmo de outubro, e só o preço do dia diz se há desconto novo. As tabelas abaixo são a régua.",
           "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia."
         ],
@@ -55008,7 +55008,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
         "paragraphs": [
-          "Na Black Friday, a Le Creuset tem coleção própria de promoção, anunciada na home com o banner Le Creuset Colorful. A coleção Promoção Le Creuset lista 146 peças; nas 47 primeiras que lemos, o desconto ia de 15% a 40%, quase sempre 25%. A panela Redonda Signature de 20 cm, a R$ 2.329 pelo preço cheio, estava por R$ 1.746,75 com 25% OFF, e na cor Cool Mint, por R$ 1.513,85, com 35%.",
+          "Na Black Friday, a Le Creuset tem coleção própria de promoção, anunciada na home com o banner \"Le Creuset até 50% OFF\". A coleção Promoção Le Creuset lista 146 peças, com desconto de 15% a 50%: a maioria tem 30%, os 50% ficam em seis utensílios de silicone em pré-venda, e quase todas as panelas Signature têm 25%. A panela Redonda Signature de 20 cm, a R$ 2.329 pelo preço cheio, estava por R$ 1.746,75 com 25% OFF, e na cor Cool Mint, por R$ 1.513,85, com 35%.",
           "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas. É essa a tabela de referência."
         ],
         "image": {
@@ -55222,9 +55222,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Le Creuset de 15% a 40% OFF, Porto Brasil até 60%, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
-          "Le Creuset fica mais barata na Black Friday? Fica. A coleção Promoção Le Creuset traz peças de 15% a 40% OFF, a maioria com 25%. A panela Redonda Signature de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75.",
-          "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 40%, e a maioria das panelas Signature tem 25%.",
+          "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Le Creuset de 15% a 50% OFF, Porto Brasil até 60%, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
+          "Le Creuset fica mais barata na Black Friday? Fica. A coleção Promoção Le Creuset traz peças de 15% a 50% OFF, a maioria com 30%; os 50% ficam em utensílios de silicone. A panela Redonda Signature de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75.",
+          "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 50%, e a maioria das panelas Signature tem 25%.",
           "A Let's Eat It tem frete grátis? Só em casos específicos: a política de frete cita Le Creuset e Zwilling em pedidos acima de R$ 1.000 em produtos dessas marcas. No resto, o frete é calculado pelo CEP e pelo peso do pedido, e o carrinho mostra o valor. O envio da devolução sai por conta da loja.",
           "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
           "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
@@ -79585,8 +79585,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black November da Black Skull já está no ar, com desconto progressivo de até 40% e frete grátis. Veja os preços de outubro de whey e creatina e como o CECILIA10 entra.",
-    "metaDescription": "Black Friday Black Skull 2026: o cupom CECILIA10 dá 10% em todo o site. Desconto progressivo de até 40% e frete grátis, com a campanha já no ar.",
+    "description": "A Black November da Black Skull já está no ar, com desconto progressivo de 15% a 25% e frete grátis. Veja os preços de outubro de whey e creatina e como o CECILIA10 entra.",
+    "metaDescription": "Black Friday Black Skull 2026: o cupom CECILIA10 dá 10% em todo o site. Progressivo de 15% a 25% e frete grátis, com a campanha já no ar.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-07",
@@ -79597,7 +79597,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "A Black November já está no ar, com desconto progressivo e selos de até 40%",
+      "A Black November já está no ar, com desconto progressivo de 15% a 25% conforme o número de produtos",
       "O CECILIA10 dá 10% em todo o site e somou com as promoções de outubro; no progressivo, confira a linha Descontos",
       "Em outubro, a Creatina Creator 300 g saía por R$ 29,90, contra R$ 49,90 do preço de lista",
       "O cupom vale em todas as formas de pagamento, com cartão em até 8 vezes sem juros e Pix parcelado em 4 vezes",
@@ -79605,7 +79605,7 @@ export const reviewsData: unknown[] = [
       "Arrependimento de 7 dias corridos, com o envio pago pela loja"
     ],
     "cons": [
-      "A loja não publicou as regras completas do desconto progressivo nem a data de fim da campanha",
+      "O progressivo só vale nos produtos da página da campanha, e a loja não publicou a data de fim",
       "A troca comum tem frete de ida e de volta pago por quem comprou",
       "A loja não anuncia desconto próprio no Pix",
       "Frete grátis só acima de R$ 299,90 nas demais regiões",
@@ -79615,15 +79615,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Black Skull 2026",
         "paragraphs": [
-          "A Black November da Black Skull já está no ar, com desconto progressivo (quanto mais itens, maior o desconto), selos de até 40% e frete grátis anunciado. O CECILIA10 dá 10% em todo o site e somou com as promoções testadas em outubro; no progressivo, confira a linha de descontos na sacola antes de pagar."
+          "A Black November da Black Skull já está no ar, com desconto progressivo (2 produtos dão 15%, 3 dão 20% e 4 ou mais, 25%) e frete grátis anunciado. O CECILIA10 dá 10% em todo o site e somou com as promoções testadas em outubro; no progressivo, confira a linha de descontos na sacola antes de pagar."
         ]
       },
       {
         "heading": "O que está no ar na Black November da Black Skull",
         "paragraphs": [
-          "A Black November da Black Skull já começou. A página da campanha, blackfriday2026 no site oficial, diz que \"quanto mais você leva, maior o desconto\": é um desconto progressivo, e os produtos aparecem com selos de 16%, 22%, 33% e 40%. A mesma página anuncia frete grátis para todo o Brasil, com a ressalva \"consulte as regras\".",
-          "A loja não publicou as regras completas do progressivo, como quantos itens dão cada faixa, nem a data de fim. A página de Black Friday da loja diz que a data \"acontece na última sexta-feira de novembro\", que em 2026 é 27 de novembro, e que as ofertas ficam disponíveis durante todo o mês.",
-          "Na prática: monte a sacola com mais de um item, veja o selo de cada produto e a linha \"Descontos\" antes de pagar. O desconto progressivo é da loja; o CECILIA10 é outro desconto, do campo do cupom, e o que ele faz na sacola está na seção do cupom, abaixo."
+          "A Black November da Black Skull já começou. A página da campanha, blackfriday2026 no site oficial, diz que \"quanto mais você leva, maior o desconto\": 2 produtos dão 15%, 3 dão 20% e 4 ou mais, 25%. O desconto entra sozinho no carrinho, vale também para mais de uma unidade do mesmo produto e só para os produtos daquela página. Alguns produtos ainda aparecem com preço riscado e selos de 33% a 40%, e a página não diz se as faixas somam com eles. A mesma página anuncia frete grátis para todo o Brasil, com a ressalva \"consulte as regras\".",
+          "A loja não publicou a data de fim. A página de Black Friday da loja diz que a data \"acontece na última sexta-feira de novembro\", que em 2026 é 27 de novembro, e que as ofertas ficam disponíveis durante todo o mês.",
+          "Na prática: escolha os produtos na página da campanha e veja a linha \"Descontos\" antes de pagar: com 2 itens ou mais, a faixa aparece ali. O desconto progressivo é da loja; o CECILIA10 é outro desconto, do campo do cupom, e o que ele faz na sacola está na seção do cupom, abaixo."
         ]
       },
       {
@@ -79710,7 +79710,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O kit com 2 Whey Turbo 907 g saía por R$ 132,81, contra R$ 139,80 de lista. Na creatina, o refil de 500 g do Creator saía por R$ 39,90 (cerca de R$ 0,08 por grama), e o Creator de 300 g, por R$ 29,90 (cerca de R$ 0,10 por grama).",
-          "Uma oferta da Black November só é vantagem se o preço do dia, já com o selo do progressivo, ficar abaixo desta tabela. Compare com o preço do dia de outubro, não com o preço de lista.",
+          "Uma oferta da Black November só é vantagem se o preço do dia, já com o progressivo, ficar abaixo desta tabela. Compare com o preço do dia de outubro, não com o preço de lista.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
         ]
       },
@@ -79719,7 +79719,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Vale. O **CECILIA10** dá 10% de desconto em todo o site da Black Skull, vale com todas as formas de pagamento e soma com as promoções vigentes. O desconto vem em cima do preço já reduzido, sem substituí-lo.",
           "No nosso teste na sacola, havia uma regata, um kit de whey, creatina e pré-treino e uma glutamina. Dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
-          "Esse teste foi feito em outubro, em itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes; ainda não testamos o CECILIA10 num item com o selo do desconto progressivo. Aplique o código na sacola e confira a linha \"Descontos\": se ela mostrar os 10%, o cupom entrou.",
+          "Esse teste foi feito em outubro, em itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes; ainda não testamos o CECILIA10 numa sacola com o desconto progressivo. Aplique o código na sacola e confira a linha \"Descontos\": se ela mostrar os 10%, o cupom entrou.",
           "A conta pode ser feita no próprio carrinho, na linha \"Descontos\", antes de finalizar.",
           "O passo a passo do campo do cupom está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições do dia ficam na [página do cupom da Black Skull](/cupons/black-skull)."
         ],
@@ -79804,9 +79804,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Black Skull? A Black November já começou, com desconto progressivo e selos de até 40%. A página da loja diz que as ofertas ficam disponíveis durante todo o mês e que a Black Friday acontece na última sexta-feira de novembro; a loja não informa data de fim.",
+          "Quando começa e quanto dura a Black Friday da Black Skull? A Black November já começou, com desconto progressivo de 15% a 25% nos produtos da página da campanha. A página da loja diz que as ofertas ficam disponíveis durante todo o mês e que a Black Friday acontece na última sexta-feira de novembro; a loja não informa data de fim.",
           "Qual é o cupom da Black Skull na Black Friday? O CECILIA10, 10% em todo o site, em todas as formas de pagamento. É o mesmo código do resto do ano, e as condições do dia ficam na página do cupom da Black Skull.",
-          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste na sacola, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Num item com o selo do desconto progressivo ainda não testamos; a linha Descontos da sacola mostra.",
+          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste na sacola, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Numa sacola com o desconto progressivo ainda não testamos; a linha Descontos da sacola mostra.",
           "O CECILIA10 vale em qualquer forma de pagamento? Vale em todas as formas de pagamento da loja: cartão em até 8 vezes sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4 vezes sem juros e boleto à vista.",
           "O frete da Black Skull é grátis? Depende da região. O frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
           "A Black Skull tem desconto no Pix? A loja não anuncia desconto próprio no Pix. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o CECILIA10 vale nelas.",
@@ -129323,8 +129323,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "description": "A Toda Up já está em Black November, com todo o site em desconto e até 35% OFF. Veja os carrinhos de exemplo, os preços para comparar e como o cupom da loja entra na conta.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Black Friday: Black November com até 35% OFF, brinde por valor de pedido e preços de outubro para comparar.",
+    "description": "A Toda Up já está em Black November, com todo o site em desconto e selos de até 40%. Veja os carrinhos de exemplo, os preços para comparar e como o cupom da loja entra na conta.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Black Friday: Black November com até 40% OFF, brinde por valor de pedido e preços de outubro para comparar.",
     "image": "/images/reviews/toda-up/black-friday-toda-up-capa-discover.webp",
     "imageAlt": "Banner Black Friday antecipada da Toda Up com uma modelo de sutiã tomara que caia preto, com o logo da loja e o título Black Friday da Toda Up",
     "imageFit": "contain",
@@ -129355,14 +129355,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com até 35% OFF e calcinha de brinde por valor de pedido. O cupom MAUAD, de 10%, somou com a campanha de outubro no carrinho; na Black November, confira o total antes de pagar."
+          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com selos de até 40% OFF e calcinha de brinde por valor de pedido. O cupom MAUAD, de 10%, somou com a campanha de outubro no carrinho; na Black November, confira o total antes de pagar."
         ]
       },
       {
         "heading": "O que a Black November da Toda Up mostra",
         "paragraphs": [
-          "A home da Toda Up anuncia a \"Black November: todo site com desconto\", e o banner da campanha fala em até 35% OFF; nos produtos, lemos selos de 15%, 16%, 20% e 33%. O desconto é por peça, e o que vale é o preço na página de cada uma: compare com a tabela de outubro deste guia, mais abaixo.",
-          "O mesmo banner traz brindes por valor de pedido: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. O banner não diz o modelo nem o tamanho do brinde: confira se ele entra no carrinho antes de pagar.",
+          "A home da Toda Up anuncia a \"Black November: todo site com desconto\", e os produtos aparecem com selos de 15%, 16%, 20% e até 40%, este no protetor de silicone. O banner do começo da campanha falava em até 35% OFF e já saiu da home. O desconto é por peça, e o que vale é o preço na página de cada uma: compare com a tabela de outubro deste guia, mais abaixo.",
+          "O banner trazia, e os selos dos produtos seguem anunciando, brindes por valor de pedido: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. O banner não diz o modelo nem o tamanho do brinde: confira se ele entra no carrinho antes de pagar.",
           "A loja não publica até quando a Black November vale nem se a regra muda na sexta, 27/11/2026. Confira o desconto no seu carrinho antes de pagar.",
           "Em outubro, a campanha se chamava \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site, e o desconto era progressivo: entrava sozinho no carrinho, sem código, pelo subtotal dos produtos. Foi nessa regra que testamos o cupom, e é ela que os carrinhos abaixo usam. Se a progressiva segue valendo na Black November, o site não diz: veja se a linha da campanha aparece no seu carrinho."
         ],
@@ -129392,7 +129392,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-banner-black-november.webp",
           "alt": "Banner da Black November da Toda Up com até 35% OFF, uma modelo de sutiã e os brindes: acima de R$ 199 ganhe calcinha fio dental, acima de R$ 299 ganhe calcinha e protetor de silicone",
-          "caption": "A Black November e os brindes por valor de pedido, no banner da home da Toda Up.",
+          "caption": "O banner que abriu a Black November na home da Toda Up, com os brindes por valor de pedido.",
           "objectFit": "contain",
           "aspectRatio": 2.9197
         }
@@ -129631,10 +129631,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto, até 35% OFF e brindes por valor de pedido. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
+          "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto, selos de até 40% OFF e brindes por valor de pedido. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
           "A Toda Up tem Black Friday? Sim. Em outubro, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo carrinho; agora mostra a \"Black November\", com desconto por peça.",
           "O cupom da Toda Up vale na Black November? No teste de outubro, na Black Antecipada, os 10% do cupom saíram depois do desconto da campanha. Sobre os preços da Black November, não testamos: confira a linha do cupom no carrinho.",
-          "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com até 35% OFF no banner e selos de 15%, 16%, 20% e 33% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
+          "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com selos de 15%, 16%, 20% e até 40% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
           "A Black November da Toda Up tem brinde? Tem, pelo banner da campanha: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. Confira o brinde no carrinho antes de pagar.",
           "A Black November tem frete grátis? A faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil, não frete grátis; o brinde é que começa em R$ 199 de pedido. Na Black Antecipada de outubro, a faixa anunciava frete grátis em todo o site. Confira o frete pelo CEP no carrinho.",
           "Vale esperar a Black Friday? A loja não anunciou regra para a data. Compare o preço do dia com a tabela de outubro deste guia."
