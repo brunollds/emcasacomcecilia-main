@@ -1038,5 +1038,566 @@
   "lote": "L36",
   "propostas": 3,
   "unidades": 3
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "toda-up",
+  "chaves": [],
+  "slugs": [
+   "fita-up-ou-blumi-ou-lib",
+   "kit-toda-up-quando-compensa",
+   "skinup-ou-cotton-up-toda-up",
+   "sutia-toda-up-qual-escolher",
+   "toda-up-e-boa"
+  ],
+  "lote": "L37",
+  "propostas": 5,
+  "unidades": 5
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "insider",
+  "chaves": [],
+  "slugs": [
+   "insider-ou-minimal-club"
+  ],
+  "lote": "L38",
+  "propostas": 1,
+  "unidades": 1
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "max-titanium",
+  "chaves": [],
+  "slugs": [
+   "creatina-max-titanium-qual-pote",
+   "max-titanium-e-boa",
+   "max-titanium-e-confiavel",
+   "max-titanium-ou-dux",
+   "max-titanium-ou-growth",
+   "max-titanium-ou-probiotica",
+   "max-titanium-reclame-aqui-nota-reputacao",
+   "pre-treino-max-titanium-horus-ou-egide",
+   "whey-max-titanium-qual-escolher"
+  ],
+  "lote": "L39",
+  "propostas": 9,
+  "unidades": 9
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "probiotica",
+  "chaves": [],
+  "slugs": [
+   "creatina-probiotica-qual-compensa",
+   "monodose-probiotica-sache-ou-pote",
+   "probiotica-e-boa",
+   "probiotica-reclame-aqui-nota-reputacao",
+   "whey-probiotica-qual-escolher"
+  ],
+  "lote": "L40",
+  "propostas": 5,
+  "unidades": 5
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "clea-store",
+  "chaves": [],
+  "slugs": [
+   "alfaiataria-verao-clea-store",
+   "body-clea-store-second-skin-qual-escolher",
+   "camiseta-clea-store-e-boa",
+   "clea-store-e-boa",
+   "clea-store-e-confiavel",
+   "clea-store-mercado-livre-ou-site",
+   "look-trabalho-alfaiataria-feminina-clea-store"
+  ],
+  "lote": "L41",
+  "propostas": 7,
+  "unidades": 7
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "damie",
+  "chaves": [],
+  "slugs": [
+   "poltrona-charles-eames-design-iconico-e-alternativas",
+   "poltrona-de-amamentacao-como-escolher",
+   "poltrona-de-amamentacao-vs-poltrona-reclinavel",
+   "presente-de-natal-para-casa-moveis",
+   "sofa-damie-modular-vale-a-pena",
+   "sofa-modular-ou-retratil-qual-escolher",
+   "sofa-na-caixa-inflow-ou-damie",
+   "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+   "valley-inflow-ou-damie"
+  ],
+  "lote": "L42",
+  "propostas": 9,
+  "unidades": 9
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "dolce-gusto",
+  "chaves": [],
+  "slugs": [
+   "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
+   "dolce-gusto-mini-me-2-0-vale-a-pena"
+  ],
+  "lote": "L43",
+  "propostas": 2,
+  "unidades": 2
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "belive",
+  "chaves": [],
+  "slugs": [
+   "belive-e-boa",
+   "belive-e-confiavel",
+   "belive-reclame-aqui-nota-reputacao",
+   "bolinho-kids-belive-lancheira",
+   "bolinho-sem-acucar-belive-ou-suavipan",
+   "brownie-sem-acucar-belive",
+   "cookies-sem-acucar-belive",
+   "panetone-belive-e-bom",
+   "pao-de-mel-sem-acucar-belive",
+   "snack-proteico-ou-snack-de-arroz-belive"
+  ],
+  "lote": "L44",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "i-wanna-sleep",
+  "chaves": [],
+  "slugs": [
+   "aliv-head-gel-iws-mascara-termica-enxaqueca",
+   "i-wanna-sleep-e-boa",
+   "i-wanna-sleep-e-confiavel",
+   "i-wanna-sleep-ou-ortobom",
+   "i-wanna-sleep-reclame-aqui-nota-reputacao",
+   "melatonina-gummy-iws-para-que-serve-como-tomar",
+   "pillow-top-magnum-iws-colchao-dor-nas-costas",
+   "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
+   "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+   "sleepspray-kidz-iws-como-funciona-ritual-do-sono",
+   "travesseiro-i-wanna-sleep-ou-emma"
+  ],
+  "lote": "L45",
+  "propostas": 11,
+  "unidades": 11
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "black-skull",
+  "chaves": [],
+  "slugs": [
+   "black-skull-e-boa",
+   "black-skull-e-confiavel",
+   "black-skull-ou-dux",
+   "black-skull-ou-integralmedica",
+   "black-skull-ou-max-titanium",
+   "creatina-black-skull-qual-escolher",
+   "creatina-com-sabor-qual-escolher",
+   "pre-treino-black-skull-bope-ou-bone-crusher",
+   "whey-black-skull-qual-escolher"
+  ],
+  "lote": "L46",
+  "propostas": 9,
+  "unidades": 9
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "bagaggio",
+  "chaves": [],
+  "slugs": [
+   "bagaggio-e-boa-malas-mochilas",
+   "bagaggio-e-confiavel",
+   "bagaggio-garantia-vitalicia",
+   "bagaggio-reclame-aqui-nota-reputacao",
+   "conjunto-de-malas-bagaggio-compensa",
+   "mala-de-bordo-bagaggio-qual-compensa",
+   "mala-policarbonato-ou-abs-bagaggio",
+   "mochila-de-viagem-bagaggio-qual-escolher",
+   "mochila-escolar-bagaggio",
+   "mochila-notebook-bagaggio-qual-escolher",
+   "tamanho-mala-bagaggio-p-m-g"
+  ],
+  "lote": "L47",
+  "propostas": 11,
+  "unidades": 11
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "dr-peanut",
+  "chaves": [],
+  "slugs": [
+   "dr-peanut-e-boa",
+   "dr-peanut-melhor-sabor",
+   "dr-peanut-ou-la-ganexa",
+   "dr-peanut-qual-tamanho-compensa",
+   "snacks-dr-peanut-qual-escolher"
+  ],
+  "lote": "L48",
+  "propostas": 5,
+  "unidades": 5
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "holyfoods",
+  "chaves": [],
+  "slugs": [
+   "holyfoods-e-confiavel"
+  ],
+  "lote": "L49",
+  "propostas": 1,
+  "unidades": 1
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "letseatit",
+  "chaves": [],
+  "slugs": [
+   "faqueiro-laguiole-la-maison-qual-escolher",
+   "guardanapo-de-tecido-quantos-tamanho",
+   "jogo-americano-tecido-tamanho-cor",
+   "le-creuset-original-como-saber",
+   "le-creuset-qual-tamanho-escolher",
+   "le-creuset-vale-a-pena",
+   "lets-eat-it-e-boa",
+   "lets-eat-it-reclame-aqui-nota-reputacao",
+   "mesa-posta-dia-a-dia-o-que-comprar",
+   "porto-brasil-e-boa",
+   "presente-de-casamento-ideias-por-preco",
+   "taca-base-esfera-e-tacas-coloridas"
+  ],
+  "lote": "L50",
+  "propostas": 12,
+  "unidades": 12
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "magalu",
+  "chaves": [],
+  "slugs": [
+   "cupom-magalu-em-casa-com-cecilia",
+   "magazine-voce-e-confiavel"
+  ],
+  "lote": "L51",
+  "propostas": 2,
+  "unidades": 2
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "mais-mu",
+  "chaves": [],
+  "slugs": [
+   "barra-de-proteina-mais-mu-qual-escolher",
+   "mais-mu-e-boa",
+   "mais-mu-ou-dux",
+   "mais-mu-ou-growth",
+   "pre-treino-exquenta-mais-mu-e-bom",
+   "whey-mais-mu-qual-escolher"
+  ],
+  "lote": "L52",
+  "propostas": 6,
+  "unidades": 6
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "simple-organic",
+  "chaves": [],
+  "slugs": [
+   "simple-organic-e-confiavel"
+  ],
+  "lote": "L53",
+  "propostas": 1,
+  "unidades": 1
+ },
+ {
+  "tipo": "m5-pt",
+  "loja": "skelt",
+  "chaves": [],
+  "slugs": [
+   "autobronzeador-skelt-qual-escolher",
+   "body-splash-skelt-milos-breeze",
+   "body-splash-skelt-solar-muse",
+   "bronzeado-instantaneo-skelt-ou-autobronzeador",
+   "hidratante-corporal-skelt-qual-fragrancia",
+   "iluminador-corporal-skelt-como-usar",
+   "removedor-autobronzeador-skelt-como-tirar",
+   "skelt-e-boa",
+   "skelt-e-confiavel",
+   "skelt-ou-best-bronze",
+   "skelt-reclame-aqui-nota-reputacao"
+  ],
+  "lote": "L54",
+  "propostas": 11,
+  "unidades": 11
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "chaves": [
+   "hostinger-openclaw-melhor-vps"
+  ],
+  "slugs": [
+   "best-vps-for-openclaw",
+   "best-vps-for-openclaw-ja",
+   "best-vps-for-openclaw-ko",
+   "best-vps-for-openclaw-zh-hans",
+   "best-vps-for-openclaw-zh-hant",
+   "bester-vps-fuer-openclaw",
+   "meilleur-vps-pour-openclaw",
+   "mejor-vps-para-openclaw",
+   "melhor-vps-para-openclaw",
+   "miglior-vps-per-openclaw"
+  ],
+  "lote": "L55",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "chaves": [
+   "hostinger-ou-hostgator"
+  ],
+  "slugs": [
+   "choisir-hebergeur-hostinger",
+   "choose-web-host-hostinger-ja",
+   "choose-web-host-hostinger-ko",
+   "choose-web-host-hostinger-zh-hans",
+   "choose-web-host-hostinger-zh-hant",
+   "como-elegir-hosting-hostinger",
+   "hostinger-ou-hostgator",
+   "how-to-choose-web-host-hostinger",
+   "scegliere-hosting-hostinger",
+   "webhoster-waehlen-hostinger"
+  ],
+  "lote": "L56",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "chaves": [
+   "hostinger-ai-builder"
+  ],
+  "slugs": [
+   "creador-ia-hostinger-vale-la-pena",
+   "createur-ia-hostinger-avis",
+   "creatore-ia-hostinger-conviene",
+   "hostinger-ai-builder-ja",
+   "hostinger-ai-builder-ko",
+   "hostinger-ai-builder-worth-it",
+   "hostinger-ai-builder-zh-hans",
+   "hostinger-ai-builder-zh-hant",
+   "hostinger-horizons-vale-a-pena",
+   "hostinger-ki-builder-lohnt-sich"
+  ],
+  "lote": "L57",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "chaves": [
+   "hostinger-reach-ou-mailchimp-brevo"
+  ],
+  "slugs": [
+   "hostinger-reach-ja",
+   "hostinger-reach-ko",
+   "hostinger-reach-mailchimp-o-brevo",
+   "hostinger-reach-mailchimp-ou-brevo",
+   "hostinger-reach-o-mailchimp-brevo",
+   "hostinger-reach-oder-mailchimp-brevo",
+   "hostinger-reach-ou-mailchimp-brevo",
+   "hostinger-reach-vs-mailchimp-brevo",
+   "hostinger-reach-zh-hans",
+   "hostinger-reach-zh-hant"
+  ],
+  "lote": "L58",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "chaves": [
+   "hostinger-openclaw-gerenciado-ou-vps"
+  ],
+  "slugs": [
+   "openclaw-hostinger-gere-ou-vps",
+   "openclaw-hostinger-gerenciado-ou-vps",
+   "openclaw-hostinger-gestionado-o-vps",
+   "openclaw-hostinger-gestito-o-vps",
+   "openclaw-hostinger-managed-or-vps",
+   "openclaw-hostinger-managed-or-vps-ja",
+   "openclaw-hostinger-managed-or-vps-ko",
+   "openclaw-hostinger-managed-or-vps-zh-hans",
+   "openclaw-hostinger-managed-or-vps-zh-hant",
+   "openclaw-hostinger-verwaltet-oder-vps"
+  ],
+  "lote": "L59",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "chaves": [
+   "hostinger-openclaw-ou-hermes-agent"
+  ],
+  "slugs": [
+   "openclaw-o-hermes-agent",
+   "openclaw-o-hermes-agent-quale-scegliere",
+   "openclaw-oder-hermes-agent",
+   "openclaw-ou-hermes-agent",
+   "openclaw-ou-hermes-agent-que-choisir",
+   "openclaw-vs-hermes-agent",
+   "openclaw-vs-hermes-agent-ja",
+   "openclaw-vs-hermes-agent-ko",
+   "openclaw-vs-hermes-agent-zh-hans",
+   "openclaw-vs-hermes-agent-zh-hant"
+  ],
+  "lote": "L60",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "chaves": [
+   "hostinger-paperclip-ai"
+  ],
+  "slugs": [
+   "paperclip-ai-hostinger",
+   "paperclip-ai-hostinger-anleitung",
+   "paperclip-ai-hostinger-guida",
+   "paperclip-ai-hostinger-guide",
+   "paperclip-ai-hostinger-guide-fr",
+   "paperclip-ai-hostinger-ja",
+   "paperclip-ai-hostinger-ko",
+   "paperclip-ai-hostinger-zh-hans",
+   "paperclip-ai-hostinger-zh-hant",
+   "paperclip-ai-que-es-hostinger"
+  ],
+  "lote": "L61",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "chaves": [
+   "hostinger-vps-ou-compartilhada"
+  ],
+  "slugs": [
+   "vps-o-hosting-compartido-cual-elegir",
+   "vps-o-hosting-condiviso",
+   "vps-oder-shared-hosting",
+   "vps-or-shared-hosting-ja",
+   "vps-or-shared-hosting-ko",
+   "vps-or-shared-hosting-which-to-choose",
+   "vps-or-shared-hosting-zh-hans",
+   "vps-or-shared-hosting-zh-hant",
+   "vps-ou-hebergement-mutualise",
+   "vps-ou-hospedagem-compartilhada-qual-escolher"
+  ],
+  "lote": "L62",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "hostinger",
+  "chaves": [
+   "hostinger-wordpress"
+  ],
+  "slugs": [
+   "wordpress-bei-hostinger",
+   "wordpress-chez-hostinger",
+   "wordpress-en-hostinger",
+   "wordpress-hostinger-ja",
+   "wordpress-hostinger-ko",
+   "wordpress-hostinger-zh-hans",
+   "wordpress-hostinger-zh-hant",
+   "wordpress-na-hostinger",
+   "wordpress-on-hostinger",
+   "wordpress-su-hostinger"
+  ],
+  "lote": "L63",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "shein",
+  "chaves": [
+   "shein-11-11"
+  ],
+  "slugs": [
+   "shein-11-11-auswahl-angebote",
+   "shein-11-11-picks-ja",
+   "shein-11-11-picks-ko",
+   "shein-11-11-picks-zh-hans",
+   "shein-11-11-picks-zh-hant",
+   "shein-11-11-sale-picks",
+   "shein-11-11-selecao-da-cecilia",
+   "shein-11-11-seleccion-ofertas",
+   "shein-11-11-selection-promos",
+   "shein-11-11-selezione-offerte"
+  ],
+  "lote": "L64",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "yesstyle",
+  "chaves": [
+   "yesstyle-trust"
+  ],
+  "slugs": [
+   "es-yesstyle-de-fiar-y-seguro",
+   "is-yesstyle-legit-and-safe-review",
+   "ist-yesstyle-serioes-und-sicher",
+   "yesstyle-e-affidabile-e-sicuro",
+   "yesstyle-e-confiavel",
+   "yesstyle-est-il-fiable-et-sur",
+   "yesstyle-trust-guide-ja",
+   "yesstyle-trust-guide-ko",
+   "yesstyle-trust-guide-zh-hans",
+   "yesstyle-trust-guide-zh-hant"
+  ],
+  "lote": "L65",
+  "propostas": 10,
+  "unidades": 10
+ },
+ {
+  "tipo": "m5-familias",
+  "loja": "yesstyle",
+  "chaves": [
+   "yesstyle-kbeauty"
+  ],
+  "slugs": [
+   "k-beauty-marcas-coreanas-tendencia-mundial",
+   "k-beauty-o-que-e-onde-comprar",
+   "k-beauty-tendance-beaute-coreenne",
+   "k-beauty-tendenza-bellezza-coreana",
+   "k-beauty-trend-explained-where-to-buy",
+   "k-beauty-trend-koreanische-marken-kaufen",
+   "yesstyle-kbeauty-guide-ja",
+   "yesstyle-kbeauty-guide-ko",
+   "yesstyle-kbeauty-guide-zh-hans",
+   "yesstyle-kbeauty-guide-zh-hant"
+  ],
+  "lote": "L66",
+  "propostas": 10,
+  "unidades": 10
  }
 ]

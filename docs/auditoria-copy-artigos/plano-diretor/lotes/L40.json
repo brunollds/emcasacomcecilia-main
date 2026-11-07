@@ -1,0 +1,138 @@
+{
+  "lote": "L40",
+  "tipo": "m5-pt",
+  "loja": "probiotica",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "creatina-probiotica-qual-compensa",
+      "arquivo": "content/reviews/creatina-probiotica-qual-compensa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "creatina-probiotica-qual-compensa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "O código entra no lugar da frase de encaminhamento ou de redundância; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O pote de 300 g tem o menor custo por grama entre as versões comparadas. O de 100 g é a compra menor e custa mais por grama; a Creapure tem o selo de origem; a monodose entrega a porção em sachê. Compare formato e custo antes de escolher."
+              ],
+              "depois": [
+                "O pote de 300 g tem o menor custo por grama entre as versões comparadas. O de 100 g é a compra menor e custa mais por grama; a Creapure tem o selo de origem; a monodose entrega a porção em sachê. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "monodose-probiotica-sache-ou-pote",
+      "arquivo": "content/reviews/monodose-probiotica-sache-ou-pote.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "monodose-probiotica-sache-ou-pote-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "O código entra no lugar da frase de encaminhamento ou de redundância; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Pelo preço por dose, o pote de 300 g ganha: cada porção de 5 g sai por menos da metade do preço do sachê. A monodose só compensa se a dose já separada valer essa diferença de preço para você; o guia mostra quando."
+              ],
+              "depois": [
+                "Pelo preço por dose, o pote de 300 g ganha: cada porção de 5 g sai por menos da metade do preço do sachê. A monodose só compensa se a dose já separada valer essa diferença para você. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "probiotica-e-boa",
+      "arquivo": "content/reviews/probiotica-e-boa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "probiotica-e-boa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "O código entra no lugar da frase de encaminhamento ou de redundância; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O 100% Pure Whey declara o tipo de proteína e a proteína por dose; o Zero Lactose declara \"sem lactose\", e a creatina traz 5 g por porção. Para escolher, compare a composição, o aviso de alergênicos e o preço de cada versão."
+              ],
+              "depois": [
+                "O 100% Pure Whey declara o tipo de proteína e a proteína por dose; o Zero Lactose declara \"sem lactose\", e a creatina traz 5 g por porção. Para escolher, compare composição, alergênicos e preço. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF, com variação por produto."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "probiotica-reclame-aqui-nota-reputacao",
+      "arquivo": "content/reviews/probiotica-reclame-aqui-nota-reputacao.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "probiotica-reclame-aqui-nota-reputacao-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "O código entra no lugar da frase de encaminhamento ou de redundância; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses, e 55,2% de quem avaliou disseram que voltariam a comprar. A Supley opera a loja e tem perfil próprio; veja abaixo qual perfil olhar. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
+              ],
+              "depois": [
+                "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses, e 55,2% de quem avaliou disseram que voltariam a comprar. A Supley opera a loja e tem perfil próprio; veja abaixo qual perfil olhar. Para comprar, o [cupom Probiótica](/cupons/probiotica) traz o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "whey-probiotica-qual-escolher",
+      "arquivo": "content/reviews/whey-probiotica-qual-escolher.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "whey-probiotica-qual-escolher-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "O código entra no lugar da frase de encaminhamento ou de redundância; veredito e condição mantidos.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. Zero Lactose declara ausência de lactose; Iso Pro tem mais proteína por porção entre os cinco itens comparados. Confira os preços antes de comprar: a tabela mostra como o preço de lista do Hiper muda a escolha."
+              ],
+              "depois": [
+                "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. Zero Lactose declara ausência de lactose; Iso Pro tem mais proteína por porção entre os cinco itens. O preço de lista do Hiper muda a escolha, e no site oficial o PRO10EMCASACOMCECILIA dá até 10% OFF."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

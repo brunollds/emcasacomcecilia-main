@@ -1,0 +1,193 @@
+{
+  "lote": "L41",
+  "tipo": "m5-pt",
+  "loja": "clea-store",
+  "base_main": "1687c85f",
+  "artigos": [
+    {
+      "slug": "alfaiataria-verao-clea-store",
+      "arquivo": "content/reviews/alfaiataria-verao-clea-store.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "alfaiataria-verao-clea-store-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código e benefício principal entram no lugar da frase de encaminhamento ou como fecho; decisão de compra da marca parceira.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Na grade de outubro, a Cléa Store não tinha conjunto de alfaiataria pronto, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom. O que decide é o tamanho: veja a Grade do dia."
+              ],
+              "depois": [
+                "Na grade de outubro, a Cléa Store não tinha conjunto de alfaiataria pronto, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom, e o que decide é o tamanho. O CSEMCASACOMCECILIA dá 10% OFF no site."
+              ]
+            }
+          ],
+          "motivo_70": "o código e a condição do tamanho cabem acima de 60 palavras"
+        }
+      ]
+    },
+    {
+      "slug": "body-clea-store-second-skin-qual-escolher",
+      "arquivo": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "body-clea-store-second-skin-qual-escolher-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código e benefício principal entram no lugar da frase de encaminhamento ou como fecho; decisão de compra da marca parceira.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "O body certo depende do uso: gola alta e manga longa para o frio, regata para o dia a dia, frente única ou ombro único para a noite. O mais barato é o Regata Cavado. O que pesa é o uso e o tamanho; veja abaixo a escolha por uso, a tabela e o cupom."
+              ],
+              "depois": [
+                "O body certo depende do uso: gola alta e manga longa para o frio, regata para o dia a dia, frente única ou ombro único para a noite. O mais barato é o Regata Cavado. O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, e soma com as promoções."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "camiseta-clea-store-e-boa",
+      "arquivo": "content/reviews/camiseta-clea-store-e-boa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "camiseta-clea-store-e-boa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código e benefício principal entram no lugar da frase de encaminhamento ou como fecho; decisão de compra da marca parceira.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica. O que pesa na escolha é a cor e a quantidade; veja o capítulo final."
+              ],
+              "depois": [
+                "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica, e o que pesa na escolha é a cor e a quantidade. O CSEMCASACOMCECILIA dá 10% OFF no site, e soma com as promoções."
+              ]
+            }
+          ],
+          "motivo_70": "a condição da escolha e o código cabem acima de 60 palavras"
+        }
+      ]
+    },
+    {
+      "slug": "clea-store-e-boa",
+      "arquivo": "content/reviews/clea-store-e-boa.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "clea-store-e-boa-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código e benefício principal entram no lugar da frase de encaminhamento ou como fecho; decisão de compra da marca parceira.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10% que soma com as promoções. Camisetas e bodies saem em P, M e G. O que muda a escolha é o tamanho e o preço por peça do kit; veja os capítulos da camiseta e do cupom."
+              ],
+              "depois": [
+                "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis. Camisetas e bodies saem em P, M e G; o que muda a escolha é o tamanho e o preço por peça do kit. O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, e soma com as promoções."
+              ]
+            }
+          ],
+          "motivo_70": "o fato dos tamanhos e o código cabem acima de 60 palavras"
+        }
+      ]
+    },
+    {
+      "slug": "clea-store-e-confiavel",
+      "arquivo": "content/reviews/clea-store-e-confiavel.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "clea-store-e-confiavel-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código e benefício principal entram no lugar da frase de encaminhamento ou como fecho; decisão de compra da marca parceira.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Sim, a Cléa Store é confiável: CNPJ ativo, site oficial com dados publicados, devolução sem custo e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui em novembro. O que mais pesa é o frete, grátis só acima de um valor mínimo. Para comprar com desconto, use o [cupom Cléa Store](/cupons/clea-store)."
+              ],
+              "depois": [
+                "Sim, a Cléa Store é confiável: CNPJ ativo, site oficial com dados publicados, devolução sem custo e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui em novembro. O que mais pesa é o frete, grátis só acima de um valor mínimo. O [cupom Cléa Store](/cupons/clea-store) traz o CSEMCASACOMCECILIA, 10% OFF em todo o site."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "clea-store-mercado-livre-ou-site",
+      "arquivo": "content/reviews/clea-store-mercado-livre-ou-site.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "clea-store-mercado-livre-ou-site-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código e benefício principal entram no lugar da frase de encaminhamento ou como fecho; decisão de compra da marca parceira.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Na comparação de outubro, para quase todo o essencial (t-shirts e bodies), o Mercado Livre saía mais barato que o site com o cupom; para variedade, cupom e cashback, o site é melhor. Os preços do Mercado Livre mudam rápido, então confira os dois antes de comprar."
+              ],
+              "depois": [
+                "Na comparação de outubro, para quase todo o essencial (t-shirts e bodies), o Mercado Livre saía mais barato que o site com o cupom; para variedade, cupom e cashback, o site é melhor. No site vale o CSEMCASACOMCECILIA, com 10% OFF. Os preços do Mercado Livre mudam rápido, então confira os dois."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+      "arquivo": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "look-trabalho-alfaiataria-feminina-clea-store-pt-m5-P001",
+          "trilha": "m5",
+          "decisao": "aplicar",
+          "motivo": "Código e benefício principal entram no lugar da frase de encaminhamento ou como fecho; decisão de compra da marca parceira.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/0/paragraphs",
+              "antes": [
+                "Dá para montar três looks de trabalho com alfaiataria e peças da Cléa Store: um neutro com blazer e camisa, um com body por baixo do blazer e um com colete e calça vermelhos. Nos dois primeiros, a calça de alfaiataria é sua e fica fora da conta. A loja não vende o look pronto."
+              ],
+              "depois": [
+                "Dá para montar três looks de trabalho com alfaiataria e peças da Cléa Store: um neutro com blazer e camisa, um com body por baixo do blazer e um com colete e calça vermelhos. Nos dois primeiros, a calça é sua e fica fora da conta. O CSEMCASACOMCECILIA dá 10% OFF no site."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -85,7 +85,7 @@ depois o M5, da revisão do código na resposta rápida:
 | M2 | L18, L30, L19, L20, L15, L23 |
 | M3 | L14, L16, L21, L22, L25–L28, L32–L34 |
 | M4 | famílias L01–L13 |
-| M5 | L36 (complemento, 3 unidades) no primeiro commit; depois o código na resposta rápida, de L37 em diante (ver "M5" abaixo) |
+| M5 | L36 (complemento, 3 unidades) no primeiro commit; depois o código na resposta rápida, L37–L66 (ver "M5" abaixo) |
 
 Um Macro-PR por vez: o seguinte só começa depois do merge do anterior, a partir da `main` nova. Os lotes
 mexem no mesmo conjunto de arquivos, e a catraca anti-prontuário e o snippet só encolhem, então PRs em
@@ -160,6 +160,44 @@ o benefício e a condição principal quando o cupom vale para o assunto do arti
   - artigos de reputação e restrições do MAUAD seguem o brief.
 - **Max Titanium, Probiótica e Insider:** nos artigos "como usar", esperar a remedição de ~14/11 da
   canibalização com `/cupons/<loja>`.
+- **Links da resposta rápida:** o link que já existe (a âncora "cupom <loja>" para `/cupons/<loja>`) fica, com a
+  mesma âncora e o mesmo endereço; não se acrescenta link.
+
+### Resultado (07/11, sobre `1687c85f`)
+
+A fila foi refeita sobre a `main` depois do M4 e do L36. Ficaram de fora:
+- os 255 artigos que já trazem o código na resposta rápida;
+- os 17 sem código simples no `coupon` (Lejour, 3 da DAMIE e 8 sem loja);
+- os 3 rascunhos.
+
+Os "como usar" de Max Titanium, Probiótica e Insider já trazem o código, então nenhum precisou esperar.
+
+Sobraram 366 respostas rápidas sem o código: 136 artigos em PT e 23 famílias. Cada pacote passou por:
+- um analista (Sonnet);
+- um revisor independente (Sonnet), que corrigiu 39 decisões;
+- a conferência mecânica (Haiku);
+- depois, uma passada que repôs 26 âncoras "cupom <loja>" que a primeira versão tinha tirado.
+
+| Decisão | Respostas rápidas |
+|---|---:|
+| incluir o código | 237 |
+| manter sem código, com a exceção | 129 |
+
+O registro completo, artigo por artigo, com o motivo de cada decisão, está em `m5-decisoes.json`. Os lotes vão de
+L37 a L66:
+- de L37 a L54, um por loja em PT, na ordem da seção "Ordem sugerida";
+- de L55 a L66, uma família de 10 idiomas por lote.
+
+Quem fica sem código:
+- **Famílias inteiras:**
+  - SHEIN: 6 famílias (é confiável, vale a pena, vestido de festa, reputação, tamanho e o comparativo com Shopee e Temu). O 4CW5Y não dá desconto nem ajuda a decisão do título;
+  - Hostinger domínio: o SONAR20 não vale em domínio;
+  - YesStyle: 4 famílias (reputação, entrega por país, vs Olive Young e vs alternativas). São artigos de reputação ou comparativos neutros.
+- **PT (19 artigos):** os de reputação (Reclame Aqui e "é confiável") em que o código não ajuda a decisão, e os
+  guias de uso, tamanho e saúde.
+
+Com os lotes L36 a L66 aplicados em sequência sobre a `main`, passaram `build-index`, `validate:content`,
+`test:review-i18n`, `test:article-d2` e `test:store-banners`.
 
 ## Ordem sugerida
 
