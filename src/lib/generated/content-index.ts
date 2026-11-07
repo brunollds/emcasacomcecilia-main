@@ -84210,7 +84210,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e tinha reputação Ótima no Reclame Aqui em 16/10/2026. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) reúne o desconto da parceria."
+          "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e reputação Ótima no Reclame Aqui nos últimos 6 meses. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF no site oficial."
         ]
       },
       {
@@ -84422,7 +84422,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com a leitura certa: em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+          "Sim, com a leitura certa: a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. O [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF em tudo no site oficial."
         ]
       },
       {
@@ -89079,7 +89079,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. Não confunda com o Double Chocolate Sem Glúten Sem Lactose, que contém açúcar."
+          "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. O Double Chocolate Sem Glúten Sem Lactose contém açúcar, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -89407,7 +89407,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata."
+          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó e não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata; no site oficial da Belive, o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -89747,7 +89747,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pão de mel proteico da Belive troca carboidrato por proteína: 6 g de proteína e 16 g de carboidratos por unidade, contra 2 g e 23 g do comum. Os dois têm 0 g de açúcares e quase as mesmas calorias. O que pesa é a proteína; o kit de 10 e os preços estão no capítulo de preços."
+          "O pão de mel proteico da Belive troca carboidrato por proteína: 6 g de proteína e 16 g de carboidratos por unidade, contra 2 g e 23 g do comum. Os dois têm 0 g de açúcares e quase as mesmas calorias. O que pesa é a proteína, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -131654,7 +131654,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g; veja abaixo."
+          "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -131933,7 +131933,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g e sai mais barato por grama de proteína. Os de arroz têm, em média, menos sódio; compare o sabor na tabela."
+          "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g e sai mais barato por grama de proteína. Os de arroz têm, em média, menos sódio, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -132166,7 +132166,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não tem bolinho kids, veja abaixo."
+          "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não o traz, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -177767,7 +177767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha, com rótulos publicados para comparar. Nos doces, confira a versão, porque nomes parecidos têm fórmulas diferentes. O preço por unidade e o frete por região pesam na decisão."
+          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha, com rótulos publicados para comparar. Nos doces, confira a versão, porque nomes parecidos têm fórmulas diferentes. Preço por unidade e frete por região pesam, e no site oficial o código MAUAD dá 10% OFF em tudo."
         ]
       },
       {
@@ -178507,7 +178507,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que muda a decisão é o carboidrato: a conta é com o nutricionista, e os números estão na tabela por 100 g."
+          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que decide é o carboidrato, conta para o nutricionista; no site oficial, o código MAUAD dá 10% OFF."
         ]
       },
       {
