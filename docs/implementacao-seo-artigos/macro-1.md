@@ -29,8 +29,7 @@ Também entraram:
 
 ## Pendentes (não aplicados, aguardam prova ou decisão)
 
-- **Black Skull:** a página da Black Friday lista 2 produtos = 15%, 3 = 20% e 4 ou mais = 25%. O artigo diz que a loja não publicou faixas e cita selos de 16% a 40%. Releitura única: confirmar antes de trocar.
-- **Banners que não apareceram na home:** Mais Mu (Blue Friday, até 50%) e Belive (Black November, até 30%). Toda Up: os selos não batem com o "até 35%". Let's Eat It: banner "Le Creuset até 50%", contra 15% a 40% no artigo.
+- ~~Black Skull, Mais Mu, Belive, Toda Up e Let's Eat It~~: conferidos de novo em 07/11. Mais Mu e Belive estavam certas: o banner está numa imagem e na faixa rotativa do topo, que a leitura de texto não pegou. Corrigidos: Black Skull (faixas 2 = 15%, 3 = 20%, 4 ou mais = 25%, só nos produtos da página), Toda Up (o banner de 35% saiu; selos de até 40%) e Let's Eat It (a coleção da Le Creuset vai de 15% a 50%, a maioria com 30%).
 - **Preços não relidos** (403, 429 ou CAPTCHA): Nestlé Nutre, Dolce Gusto, Magalu, a maior parte de DAMIE e IWS, Bagaggio e Black Skull.
 - **Magalu:** o Cliente Ouro de 7 e 8/11 envelhece depois do dia 8.
 - **Cléa:** o reembolso de cupom, cashback e frete não tem fonte pública.
