@@ -74529,7 +74529,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses, e 55,2% de quem avaliou disseram que voltariam a comprar. A Supley opera a loja e tem perfil próprio; veja abaixo qual perfil olhar. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
+          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses, e 55,2% de quem avaliou disseram que voltariam a comprar. A Supley opera a loja e tem perfil próprio; veja abaixo qual perfil olhar. Para comprar, o [cupom Probiótica](/cupons/probiotica) traz o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial."
         ]
       },
       {
@@ -143290,7 +143290,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote de 300 g tem o menor custo por grama entre as versões comparadas. O de 100 g é a compra menor e custa mais por grama; a Creapure tem o selo de origem; a monodose entrega a porção em sachê. Compare formato e custo antes de escolher."
+          "O pote de 300 g tem o menor custo por grama entre as versões comparadas. O de 100 g é a compra menor e custa mais por grama; a Creapure tem o selo de origem; a monodose entrega a porção em sachê. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções."
         ]
       },
       {
@@ -143535,7 +143535,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço por dose, o pote de 300 g ganha: cada porção de 5 g sai por menos da metade do preço do sachê. A monodose só compensa se a dose já separada valer essa diferença de preço para você; o guia mostra quando."
+          "Pelo preço por dose, o pote de 300 g ganha: cada porção de 5 g sai por menos da metade do preço do sachê. A monodose só compensa se a dose já separada valer essa diferença para você. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções."
         ]
       },
       {
@@ -175971,7 +175971,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O 100% Pure Whey declara o tipo de proteína e a proteína por dose; o Zero Lactose declara \"sem lactose\", e a creatina traz 5 g por porção. Para escolher, compare a composição, o aviso de alergênicos e o preço de cada versão."
+          "O 100% Pure Whey declara o tipo de proteína e a proteína por dose; o Zero Lactose declara \"sem lactose\", e a creatina traz 5 g por porção. Para escolher, compare composição, alergênicos e preço. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF, com variação por produto."
         ]
       },
       {
@@ -190385,7 +190385,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Probiótica comprar",
         "paragraphs": [
-          "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. Zero Lactose declara ausência de lactose; Iso Pro tem mais proteína por porção entre os cinco itens comparados. Confira os preços antes de comprar: a tabela mostra como o preço de lista do Hiper muda a escolha."
+          "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. Zero Lactose declara ausência de lactose; Iso Pro tem mais proteína por porção entre os cinco itens. O preço de lista do Hiper muda a escolha, e no site oficial o PRO10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
