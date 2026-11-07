@@ -252,7 +252,7 @@
   "decision": {
     "takeIf": [
       "Nehmen Sie YesStyle, wenn Sie vom Kauf zurücktreten oder die Größe tauschen können möchten, mit dem Rückgabeantrag innerhalb von 14 Tagen.",
-      "Nehmen Sie Olive Young Global, wenn Sie nur bei Defekt oder falschem Artikel zurückgeben wollen und 30 Tage für den Antrag möchten."
+      "Ziehen Sie Olive Young Global in Betracht, wenn Ihnen bei einer genehmigten Rückgabe die Erstattung auf die ursprüngliche Zahlungsart wichtig ist. Der Antrag ist innerhalb von 30 Tagen nach Erhalt möglich, aber nur bei Defekt oder einem falsch gelieferten Artikel."
     ],
     "skipIf": [
       "Lassen Sie Olive Young Global aus, wenn Sie eventuell vom Kauf zurücktreten müssen: Es nimmt nur bei Defekt oder falschem Artikel zurück.",

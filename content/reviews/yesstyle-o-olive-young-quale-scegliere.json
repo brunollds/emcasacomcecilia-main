@@ -252,7 +252,7 @@
   "decision": {
     "takeIf": [
       "Scegli YesStyle se vuoi poter ripensarci sull'acquisto o cambiare taglia, con la richiesta di reso entro 14 giorni.",
-      "Scegli Olive Young Global se prevedi di restituire solo per difetto o articolo sbagliato e vuoi 30 giorni per chiedere."
+      "Considera Olive Young Global se preferisci che un reso approvato sia rimborsato sul metodo di pagamento originale. La richiesta va fatta entro 30 giorni dal ricevimento, ma sono ammessi solo difetti o articoli sbagliati inviati dal negozio."
     ],
     "skipIf": [
       "Lascia stare Olive Young Global se potresti dover ripensarci sull'acquisto: accetta solo difetto o articolo sbagliato.",

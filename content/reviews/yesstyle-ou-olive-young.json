@@ -270,7 +270,7 @@
   "decision": {
     "takeIf": [
       "Leve a YesStyle se você quer poder desistir da compra ou trocar o tamanho, com o pedido de devolução em até 14 dias.",
-      "Leve a Olive Young Global se você só espera devolver por defeito ou item errado e quer 30 dias para pedir."
+      "Considere a Olive Young Global se prefere que uma devolução aprovada seja reembolsada na forma de pagamento original. Ela dá 30 dias do recebimento para pedir, mas só aceita defeito ou item enviado errado."
     ],
     "skipIf": [
       "Passe na Olive Young Global se pode precisar desistir da compra: ela só aceita defeito ou item errado.",

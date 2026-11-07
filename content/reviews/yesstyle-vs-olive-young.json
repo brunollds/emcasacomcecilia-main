@@ -252,7 +252,7 @@
   "decision": {
     "takeIf": [
       "Take YesStyle if you want to be able to change your mind about a purchase or exchange a size, with the return request made within 14 days.",
-      "Take Olive Young Global if you only expect to return for a defect or wrong item and want 30 days to ask."
+      "Consider Olive Young Global if you prefer an approved return to be refunded to your original payment method. It allows 30 days from receipt to request a return, but only for a defect or a wrong item sent by the store."
     ],
     "skipIf": [
       "Skip Olive Young Global if you might need to change your mind about a purchase: it only accepts defects or wrong items.",

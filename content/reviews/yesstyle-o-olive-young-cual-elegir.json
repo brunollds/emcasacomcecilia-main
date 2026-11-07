@@ -252,7 +252,7 @@
   "decision": {
     "takeIf": [
       "Elige YesStyle si quieres poder desistir de la compra o cambiar la talla, con la solicitud de devolución en un plazo de 14 días.",
-      "Elige Olive Young Global si solo esperas devolver por defecto o artículo equivocado y quieres 30 días para pedirlo."
+      "Considera Olive Young Global si prefieres que una devolución aprobada se reembolse en la forma de pago original. Da 30 días desde la recepción para solicitarla, pero solo acepta defecto o artículo equivocado enviado por la tienda."
     ],
     "skipIf": [
       "Descarta Olive Young Global si puedes necesitar desistir de la compra: solo acepta defecto o artículo equivocado.",

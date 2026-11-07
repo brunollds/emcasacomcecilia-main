@@ -72073,7 +72073,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e código de recompensa",
         "paragraphs": [
-          "O CECILIA010 é o código de recompensa da Cecília na YesStyle: vai no campo Reward Code do checkout e dá até 5% de desconto na primeira compra e 2% nas seguintes, somando com os cupons da loja. Os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle). Não há código nosso nas outras lojas deste comparativo."
+          "O CECILIA010 é o código de recompensa da Cecília na YesStyle: vai no campo Reward Code do checkout, não na caixa de cupom promocional, e dá até 5% de desconto na primeira compra e 2% nas seguintes, somando com os cupons da loja. Os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle). Não há código nosso nas outras lojas deste comparativo."
         ],
         "links": [
           {
@@ -72105,7 +72105,7 @@ export const reviewsData: unknown[] = [
           "Posso devolver produto de beleza aberto? Não por arrependimento, em nenhuma das cinco lojas; o Stylevana aceita arrependimento só com o produto novo, lacrado e sem uso.",
           "Qual loja entrega mais rápido? As lojas publicam o prazo do envio, não o total: para Portugal, o Stylevana indica 6 a 11 dias úteis e a YesStyle 10 a 15, sem contar o tempo para o item sair de Hong Kong; para o Brasil, nenhuma das duas publica prazo.",
           "YesStyle ou Shopee? A Shopee é um marketplace no Remessa Conforme, com devolução em 7 dias pela Garantia Shopee, e a YesStyle fica fora do programa, com o imposto cobrado depois que o pacote chega.",
-          "Onde vai o código de recompensa da YesStyle? O CECILIA010 vai no campo Reward Code do checkout, e os cupons do momento ficam na página da YesStyle aqui do site."
+          "Onde vai o código de recompensa da YesStyle? O CECILIA010 vai no campo Reward Code do checkout, não na caixa de cupom promocional, e soma com os cupons da loja. Os cupons do momento ficam na página da YesStyle aqui do site."
         ]
       }
     ],
@@ -72168,7 +72168,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "No store is best for everyone: the choice changes with the country and with what the store takes back. Decide by returns, using the table below: at none of the five stores can an opened beauty product be returned for a change of mind."
+          "No store is best for everyone: the choice changes with the country and with what the store takes back. Check first that it ships to your address, then compare returns: none of the five accepts an opened beauty product for a change of mind. YesStyle and Stylevana both allow 14 days after delivery to request a return."
         ]
       },
       {
@@ -72315,7 +72315,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Partnership and Reward Code",
         "paragraphs": [
-          "CECILIA010 is Cecília's Reward Code at YesStyle: it goes in the Reward Code field at checkout and gives up to 5% off the first purchase and 2% off the following ones, stacking with the store's coupons. Current coupons are at [YesStyle coupons and Reward Code](/en/coupons/yesstyle). We have no code of our own at the other stores in this comparison."
+          "CECILIA010 is Cecília's Reward Code at YesStyle: it goes in the separate Reward Code field at checkout, not in the coupon box, and gives up to 5% off the first purchase and 2% off the following ones, stacking with the store's coupons. Current coupons are at [YesStyle coupons and Reward Code](/en/coupons/yesstyle). We have no code of our own at the other stores in this comparison."
         ],
         "links": [
           {
@@ -72338,7 +72338,7 @@ export const reviewsData: unknown[] = [
           "Is YesStyle the same as SHEIN? No: YesStyle does not appear in the SHEIN Group's list of brands and says it belongs to YesAsia Holdings, of Hong Kong.",
           "What is the order limit at StyleKorean? US$ 500 per order, not counting shipping; above that, the store asks you to split it into two orders.",
           "Can I return an opened beauty product? Not for a change of mind, at any of the five stores; Stylevana accepts a change of mind only if the product is new, sealed and unused.",
-          "Where does the YesStyle Reward Code go? CECILIA010 goes in the Reward Code field at checkout, and the current coupons are on the YesStyle page here on the site."
+          "Where does the YesStyle Reward Code go? CECILIA010 goes in the separate Reward Code field at checkout, not in the coupon box, and stacks with the store's own coupons. Current coupons are on the YesStyle page here on the site."
         ]
       }
     ],
@@ -72401,7 +72401,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "No hay una tienda mejor para todo el mundo: la elección cambia con el país y con lo que la tienda acepta de vuelta. Decide por la devolución, con la tabla de abajo: en ninguna de las cinco se devuelve por arrepentimiento un producto de belleza abierto."
+          "No hay una tienda mejor para todo el mundo: la elección cambia con el país y con lo que la tienda acepta de vuelta. Primero comprueba que envíe a tu dirección y compara las devoluciones: ninguna de las cinco acepta por arrepentimiento un producto de belleza abierto. YesStyle y Stylevana dan 14 días desde la recepción para pedir la devolución."
         ]
       },
       {
@@ -72548,7 +72548,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Colaboración y código de recompensa",
         "paragraphs": [
-          "CECILIA010 es el código de recompensa de Cecília en YesStyle: va en el campo Reward Code del checkout y da hasta un 5 % de descuento en la primera compra y un 2 % en las siguientes, sumándose a los cupones de la tienda. Los cupones del momento están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle). No tenemos código propio en las otras tiendas de esta comparación."
+          "CECILIA010 es el código de recompensa de Cecília en YesStyle: va en el campo Reward Code del checkout, no en el de cupón promocional, y da hasta un 5 % de descuento en la primera compra y un 2 % en las siguientes, sumándose a los cupones de la tienda. Los cupones del momento están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle). No tenemos código propio en las otras tiendas de esta comparación."
         ],
         "links": [
           {
@@ -72571,7 +72571,7 @@ export const reviewsData: unknown[] = [
           "¿YesStyle es lo mismo que SHEIN? No: YesStyle no aparece en la lista de marcas del SHEIN Group y dice pertenecer a YesAsia Holdings, de Hong Kong.",
           "¿Cuál es el límite de pedido en StyleKorean? US$ 500 por pedido, sin el envío; por encima, la tienda pide dividirlo en dos pedidos.",
           "¿Puedo devolver un producto de belleza abierto? No por arrepentimiento, en ninguna de las cinco tiendas; Stylevana acepta el arrepentimiento solo con el producto nuevo, precintado y sin usar.",
-          "¿Dónde va el código de recompensa de YesStyle? CECILIA010 va en el campo Reward Code del checkout, y los cupones del momento están en la página de YesStyle de este sitio."
+          "¿Dónde va el código de recompensa de YesStyle? CECILIA010 va en el campo Reward Code del checkout, no en el de cupón promocional, y se suma a los cupones de la tienda. Los cupones del momento están en la página de YesStyle de este sitio."
         ]
       }
     ],
@@ -72634,7 +72634,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend du pays et de ce que la boutique reprend. Décidez selon le retour, avec le tableau ci-dessous : dans aucune des cinq, un produit de beauté ouvert ne se retourne pour changement d'avis."
+          "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend du pays et de ce que la boutique reprend. Vérifiez d'abord qu'elle livre à votre adresse, puis comparez les retours : aucune des cinq ne reprend un produit de beauté ouvert pour changement d'avis. YesStyle et Stylevana accordent 14 jours après réception pour demander un retour."
         ]
       },
       {
@@ -72781,7 +72781,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Partenariat et code récompense",
         "paragraphs": [
-          "CECILIA010 est le code récompense de Cecília chez YesStyle : il se saisit dans le champ Reward Code au paiement et donne jusqu'à 5 % de réduction sur le premier achat et 2 % sur les suivants, cumulables avec les coupons de la boutique. Les coupons du moment sont sur [coupons YesStyle et code récompense](/fr/coupons/yesstyle). Nous n'avons pas de code à nous dans les autres boutiques de ce comparatif."
+          "CECILIA010 est le code récompense de Cecília chez YesStyle : il se saisit dans le champ Reward Code au paiement, et non dans le champ des codes promo, et donne jusqu'à 5 % de réduction sur le premier achat et 2 % sur les suivants, cumulables avec les coupons de la boutique. Les coupons du moment sont sur [coupons YesStyle et code récompense](/fr/coupons/yesstyle). Nous n'avons pas de code à nous dans les autres boutiques de ce comparatif."
         ],
         "links": [
           {
@@ -72804,7 +72804,7 @@ export const reviewsData: unknown[] = [
           "YesStyle, est-ce pareil que SHEIN ? Non : YesStyle ne figure pas dans la liste des marques du SHEIN Group et dit appartenir à YesAsia Holdings, de Hong Kong.",
           "Quelle est la limite de commande chez StyleKorean ? US$ 500 par commande, hors frais de port ; au-delà, la boutique demande de la scinder en deux commandes.",
           "Puis-je retourner un produit de beauté ouvert ? Pas pour changement d'avis, dans aucune des cinq boutiques ; Stylevana accepte le changement d'avis seulement si le produit est neuf, scellé et inutilisé.",
-          "Où va le code récompense de YesStyle ? CECILIA010 se saisit dans le champ Reward Code au paiement, et les coupons du moment sont sur la page YesStyle de ce site."
+          "Où va le code récompense de YesStyle ? CECILIA010 se saisit dans le champ Reward Code au paiement, et non dans le champ des codes promo, et se cumule avec les coupons de la boutique. Les coupons du moment sont sur la page YesStyle de ce site."
         ]
       }
     ],
@@ -72867,7 +72867,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt vom Land ab und davon, was der Shop zurücknimmt. Entscheiden Sie nach der Rückgabe, anhand der Tabelle unten: In keinem der fünf Shops kann ein geöffnetes Beauty-Produkt wegen Nichtgefallens zurückgegeben werden."
+          "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt vom Land ab und davon, was der Shop zurücknimmt. Prüfen Sie zuerst, ob er an Ihre Adresse liefert, und vergleichen Sie dann die Rückgabe: Keiner der fünf Shops nimmt ein geöffnetes Beauty-Produkt wegen Nichtgefallens zurück. YesStyle und Stylevana gewähren 14 Tage ab Erhalt für den Rückgabeantrag."
         ]
       },
       {
@@ -73014,7 +73014,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Partnerschaft und Reward Code",
         "paragraphs": [
-          "CECILIA010 ist der Reward Code von Cecília bei YesStyle: Er kommt im Checkout in das Feld Reward Code und gibt bis zu 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden, zusätzlich zu den Gutscheinen des Shops. Die aktuellen Gutscheine stehen unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle). In den anderen Shops dieses Vergleichs haben wir keinen eigenen Code."
+          "CECILIA010 ist der Reward Code von Cecília bei YesStyle: Er wird im Checkout in das Feld Reward Code eingetragen, nicht in das Gutscheinfeld, und gibt bis zu 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden, zusätzlich zu den Gutscheinen des Shops. Die aktuellen Gutscheine stehen unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle). In den anderen Shops dieses Vergleichs haben wir keinen eigenen Code."
         ],
         "links": [
           {
@@ -73037,7 +73037,7 @@ export const reviewsData: unknown[] = [
           "Ist YesStyle dasselbe wie SHEIN? Nein: YesStyle steht nicht in der Markenliste der SHEIN Group und gibt an, zur YesAsia Holdings in Hongkong zu gehören.",
           "Was ist die Bestellgrenze bei StyleKorean? US$ 500 pro Bestellung, ohne den Versand; darüber verlangt der Shop, sie in zwei Bestellungen aufzuteilen.",
           "Kann ich ein geöffnetes Beauty-Produkt zurückgeben? Nicht wegen Nichtgefallens, in keinem der fünf Shops; Stylevana akzeptiert Nichtgefallen nur bei neuem, versiegeltem und unbenutztem Produkt.",
-          "Wohin kommt der Reward Code von YesStyle? CECILIA010 kommt im Checkout in das Feld Reward Code, und die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
+          "Wohin kommt der Reward Code von YesStyle? CECILIA010 wird im Checkout in das Feld Reward Code eingetragen, nicht in das Gutscheinfeld, und lässt sich mit den Gutscheinen des Shops kombinieren. Die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
         ]
       }
     ],
@@ -73100,7 +73100,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "In breve",
         "paragraphs": [
-          "Non esiste un negozio migliore per tutti: la scelta cambia con il paese e con ciò che il negozio accetta indietro. Decidi in base ai resi, con la tabella qui sotto: in nessuno dei cinque si restituisce per ripensamento un prodotto di bellezza aperto."
+          "Non esiste un negozio migliore per tutti: la scelta cambia con il paese e con ciò che il negozio accetta indietro. Verifica prima che spedisca al tuo indirizzo, poi confronta i resi: nessuno dei cinque negozi accetta per ripensamento un prodotto di bellezza aperto. YesStyle e Stylevana concedono 14 giorni dalla ricezione per chiedere il reso."
         ]
       },
       {
@@ -73247,7 +73247,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Collaborazione e codice ricompensa",
         "paragraphs": [
-          "CECILIA010 è il codice ricompensa di Cecília su YesStyle: si inserisce nel campo Reward Code del checkout e dà fino al 5% di sconto sul primo acquisto e il 2% sui successivi, in aggiunta ai coupon del negozio. I coupon del momento sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle). Non abbiamo un codice nostro negli altri negozi di questo confronto."
+          "CECILIA010 è il codice ricompensa di Cecília su YesStyle: va inserito nel campo Reward Code del checkout, non in quello dei coupon promozionali, e dà fino al 5% di sconto sul primo acquisto e il 2% sui successivi, in aggiunta ai coupon del negozio. I coupon del momento sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle). Non abbiamo un codice nostro negli altri negozi di questo confronto."
         ],
         "links": [
           {
@@ -73270,7 +73270,7 @@ export const reviewsData: unknown[] = [
           "YesStyle è uguale a SHEIN? No: YesStyle non compare nell'elenco dei marchi del SHEIN Group e dice di appartenere a YesAsia Holdings, di Hong Kong.",
           "Qual è il limite d'ordine di StyleKorean? US$ 500 per ordine, spedizione esclusa; oltre, il negozio chiede di dividerlo in due ordini.",
           "Posso restituire un prodotto di bellezza aperto? Non per ripensamento, in nessuno dei cinque negozi; Stylevana accetta il ripensamento solo con il prodotto nuovo, sigillato e mai usato.",
-          "Dove va il codice ricompensa di YesStyle? CECILIA010 va nel campo Reward Code del checkout, e i coupon del momento sono nella pagina YesStyle di questo sito."
+          "Dove va il codice ricompensa di YesStyle? CECILIA010 va nel campo Reward Code del checkout, non in quello dei coupon promozionali, e si somma ai coupon del negozio. I coupon del momento sono nella pagina YesStyle di questo sito."
         ]
       }
     ],
@@ -73333,7 +73333,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라와 반품으로 무엇을 받아 주는지에 따라 선택이 달라집니다. 반품 조건으로 고르면 됩니다. 다섯 곳 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다. 아래 표를 참고하세요."
+          "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라와 반품 조건에 따라 달라지니, 먼저 쇼핑몰이 내 배송지로 배송하는지 확인하세요. YesStyle과 Stylevana는 수령 후 14일 안에 반품을 신청해야 하며, 다섯 쇼핑몰 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다."
         ]
       },
       {
@@ -73480,7 +73480,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "제휴와 리워드 코드",
         "paragraphs": [
-          "CECILIA010은 YesStyle에서 쓰는 Cecília의 리워드 코드입니다. 결제 화면의 Reward Code 칸에 입력하면 첫 구매에 최대 5%, 이후 구매에 2%가 할인되며, 쇼핑몰 쿠폰과 함께 쓸 수 있습니다. 지금 쓸 수 있는 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 있습니다. 이 비교에 나오는 다른 쇼핑몰에는 저희 코드가 없습니다."
+          "CECILIA010은 YesStyle에서 쓰는 Cecília의 리워드 코드입니다. 결제 화면의 일반 쿠폰 칸이 아니라 Reward Code 칸에 입력하면 첫 구매에 최대 5%, 이후 구매에 2%가 할인되며, 쇼핑몰 쿠폰과 함께 쓸 수 있습니다. 지금 쓸 수 있는 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 있습니다. 이 비교에 나오는 다른 쇼핑몰에는 저희 코드가 없습니다."
         ],
         "links": [
           {
@@ -73503,7 +73503,7 @@ export const reviewsData: unknown[] = [
           "YesStyle은 SHEIN과 같은 회사인가요? 아니요. YesStyle은 SHEIN Group의 브랜드 목록에 없고, 홍콩의 YesAsia Holdings 소속이라고 밝힙니다.",
           "StyleKorean의 주문 한도는 얼마인가요? 배송비를 제외하고 주문당 US$ 500이며, 이를 넘으면 두 번에 나눠 주문하라고 안내합니다.",
           "개봉한 뷰티 제품도 반품할 수 있나요? 단순 변심으로는 다섯 곳 모두 불가합니다. Stylevana는 새 제품이며 밀봉·미사용인 경우에 한해 단순 변심 반품을 받습니다.",
-          "YesStyle 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 Reward Code 칸에 입력합니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
+          "YesStyle 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 일반 쿠폰 칸이 아니라 Reward Code 칸에 입력합니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
         ]
       }
     ],
@@ -73566,7 +73566,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "みんなにとって一番のショップというものはありません。選び方は、住んでいる国と、返品で何を受け付けてくれるかで変わります。返品の条件で決めましょう。5店とも、開封した美容製品は気が変わっただけでは返品できません。比較は下の表のとおりです。"
+          "みんなにとって一番のショップはありません。選び方は住んでいる国と返品条件で変わるので、まずお届け先に対応しているか確認してください。YesStyleとStylevanaは受け取りから14日以内に返品を申請でき、5店とも開封した美容製品は気が変わっただけでは返品できません。"
         ]
       },
       {
@@ -73713,7 +73713,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "提携とリワードコード",
         "paragraphs": [
-          "CECILIA010は、YesStyleでのCecíliaのリワードコードです。チェックアウトのReward Codeの欄に入力すると、初回の購入で最大5%、2回目以降は2%の割引になり、ショップのクーポンと併用できます。現在のクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にまとめています。この比較の他のショップには、私たちのコードはありません。"
+          "CECILIA010は、YesStyleでのCecíliaのリワードコードです。チェックアウトの通常のクーポン欄ではなく、Reward Codeの欄に入力すると、初回の購入で最大5%、2回目以降は2%の割引になり、ショップのクーポンと併用できます。現在のクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にまとめています。この比較の他のショップには、私たちのコードはありません。"
         ],
         "links": [
           {
@@ -73736,7 +73736,7 @@ export const reviewsData: unknown[] = [
           "YesStyleはSHEINと同じですか？いいえ。YesStyleはSHEIN Groupのブランド一覧に載っておらず、香港のYesAsia Holdings傘下だと説明しています。",
           "StyleKoreanの注文の上限はいくらですか？送料を除いて1回US$500です。これを超えると、2回に分けるよう案内されます。",
           "開封した美容製品を返品できますか？気が変わっただけでは、5店のどこでも返品できません。Stylevanaは、新品・未開封・未使用の場合に限り、気が変わった場合の返品を受け付けます。",
-          "YesStyleのリワードコードはどこに入れますか？CECILIA010は、チェックアウトのReward Codeの欄に入力します。現在のクーポンは、このサイトのYesStyleのページにあります。"
+          "YesStyleのリワードコードはどこに入れますか？CECILIA010は、チェックアウトの通常のクーポン欄ではなく、Reward Codeの欄に入力します。現在のクーポンは、このサイトのYesStyleのページにあります。"
         ]
       }
     ],
@@ -73799,7 +73799,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "沒有對所有人都最適合的商店：選擇取決於所在國家，以及商店退貨接受什麼。依退貨條件來選即可，詳見下方表格：五家店都不接受已拆封的美妝品因改變心意而退。"
+          "沒有對所有人都最適合的商店：選擇取決於所在國家，以及商店退貨接受什麼。先確認商店是否配送到你的地址。YesStyle 與 Stylevana 都須在收到商品後 14 天內提出申請，五家店都不接受因改變心意而退回已拆封的美妝品。"
         ]
       },
       {
@@ -73946,7 +73946,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合作與獎勵碼",
         "paragraphs": [
-          "CECILIA010 是 Cecília 在 YesStyle 的獎勵碼（Reward Code）：填入結帳頁的 Reward Code 欄位，首次購物最高優惠 5%，之後每次優惠 2%，可與商店自己的優惠券疊加。目前的優惠券見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。本文比較的其他商店，我們沒有專屬代碼。"
+          "CECILIA010 是 Cecília 在 YesStyle 的獎勵碼（Reward Code）：填入結帳頁的 Reward Code 欄位（不是一般優惠券欄位），首次購物最高優惠 5%，之後每次優惠 2%，可與商店自己的優惠券疊加。目前的優惠券見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。本文比較的其他商店，我們沒有專屬代碼。"
         ],
         "links": [
           {
@@ -73969,7 +73969,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 和 SHEIN 是同一家嗎？不是。YesStyle 不在 SHEIN Group 的品牌清單上，並表示隸屬於香港的 YesAsia Holdings。",
           "StyleKorean 的訂單上限是多少？每筆訂單 US$500（不含運費），超過時商店要求拆成兩筆。",
           "已拆封的美妝品可以退嗎？五家店都不接受因改變心意而退；Stylevana 只在商品全新、密封、未使用時接受。",
-          "YesStyle 的獎勵碼填在哪裡？CECILIA010 填入結帳頁的 Reward Code 欄位；目前的優惠券在本站的 YesStyle 頁面。"
+          "YesStyle 的獎勵碼填在哪裡？CECILIA010 填入結帳頁的 Reward Code 欄位（不是一般優惠券欄位）；目前的優惠券在本站的 YesStyle 頁面。"
         ]
       }
     ],
@@ -74032,7 +74032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "没有对所有人都最合适的商店：选择取决于所在国家，以及商店退货接受什么。按退货条件来选即可，详见下面的表格：五家店都不接受已拆封的美妆产品因改变主意而退。"
+          "没有对所有人都最合适的商店：选择取决于所在国家，以及商店退货接受什么。先确认商店是否配送到你的地址。YesStyle 与 Stylevana 都须在收到商品后 14 天内提出申请，五家店都不接受因改变主意而退回已拆封的美妆产品。"
         ]
       },
       {
@@ -74179,7 +74179,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合作与奖励码",
         "paragraphs": [
-          "CECILIA010 是 Cecília 在 YesStyle 的奖励码（Reward Code）：填入结账页的 Reward Code 栏，首次购物最高优惠 5%，之后每次优惠 2%，可与商店自己的优惠券叠加。目前的优惠券见 [YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)。本文比较的其他商店，我们没有专属代码。"
+          "CECILIA010 是 Cecília 在 YesStyle 的奖励码（Reward Code）：填入结账页的 Reward Code 栏（不是普通优惠券栏），首次购物最高优惠 5%，之后每次优惠 2%，可与商店自己的优惠券叠加。目前的优惠券见 [YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)。本文比较的其他商店，我们没有专属代码。"
         ],
         "links": [
           {
@@ -74202,7 +74202,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 和 SHEIN 是同一家公司吗？不是。YesStyle 不在 SHEIN Group 的品牌清单上，并表示隶属于香港的 YesAsia Holdings。",
           "StyleKorean 的订单上限是多少？每笔订单 US$500（不含运费），超过时商店要求拆成两笔。",
           "已拆封的美妆产品可以退吗？五家店都不接受因改变主意而退；Stylevana 只在产品全新、密封、未使用时接受。",
-          "YesStyle 的奖励码填在哪里？CECILIA010 填入结账页的 Reward Code 栏；目前的优惠券在本站的 YesStyle 页面。"
+          "YesStyle 的奖励码填在哪里？CECILIA010 填入结账页的 Reward Code 栏（不是普通优惠券栏）；目前的优惠券在本站的 YesStyle 页面。"
         ]
       }
     ],
@@ -105650,7 +105650,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a YesStyle se você quer poder desistir da compra ou trocar o tamanho, com o pedido de devolução em até 14 dias.",
-        "Leve a Olive Young Global se você só espera devolver por defeito ou item errado e quer 30 dias para pedir."
+        "Considere a Olive Young Global se prefere que uma devolução aprovada seja reembolsada na forma de pagamento original. Ela dá 30 dias do recebimento para pedir, mas só aceita defeito ou item enviado errado."
       ],
       "skipIf": [
         "Passe na Olive Young Global se pode precisar desistir da compra: ela só aceita defeito ou item errado.",
@@ -105932,7 +105932,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Take YesStyle if you want to be able to change your mind about a purchase or exchange a size, with the return request made within 14 days.",
-        "Take Olive Young Global if you only expect to return for a defect or wrong item and want 30 days to ask."
+        "Consider Olive Young Global if you prefer an approved return to be refunded to your original payment method. It allows 30 days from receipt to request a return, but only for a defect or a wrong item sent by the store."
       ],
       "skipIf": [
         "Skip Olive Young Global if you might need to change your mind about a purchase: it only accepts defects or wrong items.",
@@ -106194,7 +106194,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Elige YesStyle si quieres poder desistir de la compra o cambiar la talla, con la solicitud de devolución en un plazo de 14 días.",
-        "Elige Olive Young Global si solo esperas devolver por defecto o artículo equivocado y quieres 30 días para pedirlo."
+        "Considera Olive Young Global si prefieres que una devolución aprobada se reembolse en la forma de pago original. Da 30 días desde la recepción para solicitarla, pero solo acepta defecto o artículo equivocado enviado por la tienda."
       ],
       "skipIf": [
         "Descarta Olive Young Global si puedes necesitar desistir de la compra: solo acepta defecto o artículo equivocado.",
@@ -106456,7 +106456,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Prenez YesStyle si vous voulez pouvoir changer d'avis sur l'achat ou échanger une taille, avec la demande de retour faite sous 14 jours.",
-        "Prenez Olive Young Global si vous ne comptez retourner que pour un défaut ou un article erroné et voulez 30 jours pour demander."
+        "Envisagez Olive Young Global si vous préférez qu’un retour approuvé soit remboursé sur le moyen de paiement d’origine. La demande se fait sous 30 jours après réception, uniquement pour un défaut ou un article erroné envoyé par la boutique."
       ],
       "skipIf": [
         "Passez votre tour pour Olive Young Global si vous risquez de devoir changer d'avis sur l'achat : elle n'accepte que le défaut ou l'article erroné.",
@@ -106718,7 +106718,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Nehmen Sie YesStyle, wenn Sie vom Kauf zurücktreten oder die Größe tauschen können möchten, mit dem Rückgabeantrag innerhalb von 14 Tagen.",
-        "Nehmen Sie Olive Young Global, wenn Sie nur bei Defekt oder falschem Artikel zurückgeben wollen und 30 Tage für den Antrag möchten."
+        "Ziehen Sie Olive Young Global in Betracht, wenn Ihnen bei einer genehmigten Rückgabe die Erstattung auf die ursprüngliche Zahlungsart wichtig ist. Der Antrag ist innerhalb von 30 Tagen nach Erhalt möglich, aber nur bei Defekt oder einem falsch gelieferten Artikel."
       ],
       "skipIf": [
         "Lassen Sie Olive Young Global aus, wenn Sie eventuell vom Kauf zurücktreten müssen: Es nimmt nur bei Defekt oder falschem Artikel zurück.",
@@ -106980,7 +106980,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Scegli YesStyle se vuoi poter ripensarci sull'acquisto o cambiare taglia, con la richiesta di reso entro 14 giorni.",
-        "Scegli Olive Young Global se prevedi di restituire solo per difetto o articolo sbagliato e vuoi 30 giorni per chiedere."
+        "Considera Olive Young Global se preferisci che un reso approvato sia rimborsato sul metodo di pagamento originale. La richiesta va fatta entro 30 giorni dal ricevimento, ma sono ammessi solo difetti o articoli sbagliati inviati dal negozio."
       ],
       "skipIf": [
         "Lascia stare Olive Young Global se potresti dover ripensarci sull'acquisto: accetta solo difetto o articolo sbagliato.",
@@ -107242,7 +107242,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "YesStyle은 단순 변심으로 반품하거나 사이즈를 바꿀 수도 있다면 고르세요. 반품 신청은 14일 안에 해야 합니다.",
-        "Olive Young Global은 반품한다 해도 불량이나 오배송뿐이고, 신청 기한 30일이 필요하다면 고르세요."
+        "승인된 반품의 환불을 원래 결제 수단으로 받고 싶다면 Olive Young Global을 고려할 수 있습니다. 신청은 수령 후 30일 안에 해야 하며, 불량이나 쇼핑몰의 오배송만 해당합니다."
       ],
       "skipIf": [
         "Olive Young Global은 단순 변심으로 반품할 수도 있다면 건너뛰세요. 불량이나 오배송만 받아 줍니다.",
@@ -107504,7 +107504,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "YesStyleは、気が変わって返品したい方や、サイズ交換が必要になりそうな方に向いています。返品の申請は14日以内です。",
-        "Olive Young Globalは、返品するとしても不良品か違う商品の場合だけで、申請に30日ほしい方に向いています。"
+        "承認された返品の返金を元の支払い方法で受け取りたい場合は、Olive Young Globalが選択肢になります。申請は受け取りから30日以内ですが、対象は不良品かショップが違う商品を送った場合だけです。"
       ],
       "skipIf": [
         "Olive Young Globalは、気が変わって返品する可能性があるなら見送りましょう。受け付けるのは、不良品か違う商品の場合だけです。",
@@ -107766,7 +107766,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "選 YesStyle：如果你可能因改變心意而退貨，或需要更換尺寸，申請退貨的期限是 14 天。",
-        "選 Olive Young Global：如果你退貨只可能是因為瑕疵或寄錯，而且希望有 30 天的申請期限。"
+        "如果希望核准退貨後預設退回原付款方式，可以考慮 Olive Young Global。須在收貨後 30 天內申請，但只接受瑕疵或店家寄錯商品的情況。"
       ],
       "skipIf": [
         "別選 Olive Young Global：如果你可能因改變心意而退貨，它只接受瑕疵或寄錯的商品。",
@@ -108028,7 +108028,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "选 YesStyle：如果你可能因改变主意而退货，或需要更换尺寸，申请退货的期限是 14 天。",
-        "选 Olive Young Global：如果你退货只可能是因为瑕疵或寄错，而且希望有 30 天的申请期限。"
+        "如果希望获批退货后默认退回原付款方式，可以考虑 Olive Young Global。须在收货后 30 天内申请，但只接受瑕疵或店家寄错商品的情况。"
       ],
       "skipIf": [
         "别选 Olive Young Global：如果你可能因改变主意而退货，它只接受瑕疵或寄错的商品。",
