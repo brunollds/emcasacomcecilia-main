@@ -204,7 +204,7 @@
       ]
     },
     {
-      "heading": "Como começar, em ordem",
+      "heading": "Três formas de começar: escolha uma",
       "bullets": [
         "**Rodar no seu computador.** O README oficial pede Node.js 24.11 ou mais novo. Confira a versão com o comando node -v no terminal e depois rode npx paperclipai@latest onboard --yes. A interface abre em http://localhost:3100, e o banco Postgres é criado sozinho. Não há custo de servidor, mas o Paperclip só roda enquanto o computador estiver ligado. Se você assina o Claude ou o Codex, o README também aceita entrar pela assinatura, sem chave de API, com o Python 3 e o programa do provedor instalados.",
         "**Contratar o gerenciado.** Assine o plano “Apps de automação com IA” com 24 meses, com o código SONAR20 no carrinho. Depois da assinatura, a Hostinger prepara a instância e o banco. Você entra no painel, conecta seus agentes e cola a chave de IA (ou usa a assinatura do ChatGPT).",

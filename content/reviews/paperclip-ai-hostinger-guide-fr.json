@@ -92,7 +92,7 @@
         "**Des agents à coordonner.** Paperclip ne fait pas tourner de modèle d’IA : il coordonne des agents qui fonctionnent via d’autres programmes, comme Claude Code, Codex, Cursor, Gemini CLI et OpenClaw.",
         "**Postgres.** C’est la base de données où Paperclip enregistre les agents, les tâches et les historiques. Dans l’installation locale, elle est intégrée et démarre toute seule. En production, le projet recommande lui-même de pointer vers un Postgres à vous. Sur le géré, la base de données est incluse. Sur le VPS, la base de données est à votre charge.",
         "**Connexion à l’IA.** Une clé d’API est le mot de passe que le programme utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Avec la clé, le fournisseur facture l’usage, directement à vous. Sur le géré, Hostinger demande une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif, et ne liste pas de crédits d’IA inclus. Sans l’une de ces connexions, l’équipe ne répond pas.",
-        "**Budget et facturation.** Configurez les règles de budget et de pause avant de lancer l’équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser bien plus qu’un assistant avec qui vous discutez de temps en temps. Surveillez aussi la consommation et les limites chez le fournisseur du modèle : Paperclip ne remplace pas les conditions de facturation de votre compte.",
+        "**Budget et facturation.** Configurez les règles de budget et de pause avant de lancer l’équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser bien plus qu’un assistant avec qui vous discutez de temps en temps. Surveillez aussi la consommation et les limites chez le fournisseur du modèle.",
         "**Des connaissances de serveur, si c’est un VPS.** Sur un VPS, il faut savoir ce qu’est Docker, un programme qui fait tourner chaque application isolée dans un conteneur, et accepter de mettre à jour et de sécuriser le système. Si ce n’est pas pour vous, le géré règle la question."
       ],
       "postParagraphs": [
@@ -139,14 +139,14 @@
           [
             "Remboursement",
             "30 jours",
-            "30 jours seulement si votre dernier remboursement de VPS a été finalisé il y a plus de 180 jours"
+            "30 jours selon la politique ; un intervalle de 180 jours s’applique entre les remboursements de VPS"
           ]
         ]
       },
       "postParagraphs": [
         "**Le géré vous convient si** vous voulez Paperclip qui fonctionne sans rien installer, si vous ne savez pas ce que sont root et Docker, et si vous préférez que Hostinger s’occupe de la base de données, des mises à jour et des sauvegardes.",
         "**Le VPS vous convient si** vous voulez faire tourner d’autres programmes sur le même serveur, comme un site ou un n8n (outil d’automatisation), si vous savez manipuler un serveur ou voulez apprendre, et si vous voulez garder la base de données et la configuration sous votre contrôle.",
-        "Pour le remboursement, la règle des 180 jours pour le VPS est la même que dans l’[article sur la confiance envers Hostinger](/fr/reviews/hostinger-est-il-fiable), qui lit la politique de l’entreprise. Les 180 jours courent à partir de la finalisation de votre dernier remboursement de VPS : si vous en avez reçu un ces 180 derniers jours, le nouveau VPS n’a pas la garantie de 30 jours."
+        "Pour le remboursement, la règle des 180 jours pour le VPS est la même que dans l’[article sur la confiance envers Hostinger](/fr/reviews/hostinger-est-il-fiable), qui lit la politique de l’entreprise. Un intervalle de 180 jours s’applique aux remboursements de VPS précédents ; vérifiez les conditions et exclusions dans la [politique de remboursement](https://www.hostinger.com/legal/refund-policy) avant de souscrire."
       ]
     },
     {

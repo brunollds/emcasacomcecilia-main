@@ -139,14 +139,14 @@
           [
             "退款",
             "30 天",
-            "仅当上一次 VPS 退款完成已超过 180 天时，才有 30 天"
+            "按政策提供 30 天；VPS 退款之间有 180 天间隔"
           ]
         ]
       },
       "postParagraphs": [
         "**托管版适合您，如果** 您想不安装任何东西就让 Paperclip 跑起来，不知道什么是 root 和 Docker，并且希望由 Hostinger 负责数据库、更新和备份。",
         "**VPS 适合您，如果** 您想在同一台服务器上运行其他程序，比如网站或 n8n（自动化工具），会操作服务器或想学，并且希望数据库和配置都在自己掌控之中。",
-        "关于退款，VPS 的 180 天规则与[关于 Hostinger 是否可靠的文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)相同，那篇文章解读了该公司的政策。180 天从上一次 VPS 退款完成之日算起：如果您在最近 180 天内收到过 VPS 退款，新的 VPS 就没有 30 天保障。"
+        "关于退款，VPS 的 180 天规则与[关于 Hostinger 是否可靠的文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)相同，那篇文章解读了该公司的政策。先前的 VPS 退款适用 180 天的间隔；购买前请在[退款政策](https://www.hostinger.com/legal/refund-policy)中确认条件和例外。"
       ]
     },
     {

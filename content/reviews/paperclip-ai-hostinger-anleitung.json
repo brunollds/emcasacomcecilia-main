@@ -91,7 +91,7 @@
         "**Agenten zum Koordinieren.** Paperclip führt kein KI-Modell aus: Es koordiniert Agenten, die über andere Programme laufen, etwa Claude Code, Codex, Cursor, Gemini CLI und OpenClaw.",
         "**Postgres.** Das ist die Datenbank, in der Paperclip Agenten, Aufgaben und Protokolle speichert. Bei der lokalen Installation ist sie eingebaut und startet von selbst. In der Produktion empfiehlt das Projekt selbst, auf ein eigenes Postgres zu zeigen. Beim verwalteten Angebot ist die Datenbank inklusive. Beim VPS liegt die Datenbank bei Ihnen.",
         "**KI-Anbindung.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Mit dem Schlüssel berechnet der Anbieter die Nutzung direkt Ihnen. Beim verwalteten Angebot verlangt Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement und listet keine enthaltenen KI-Guthaben auf. Ohne eine dieser Verbindungen antwortet das Team nicht.",
-        "**Budget und Abrechnung.** Richten Sie Budget- und Pausenrichtlinien ein, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Überwachen Sie auch Verbrauch und Grenzen beim Modellanbieter: Paperclip ersetzt nicht die Abrechnungsbedingungen Ihres Kontos.",
+        "**Budget und Abrechnung.** Richten Sie Budget- und Pausenrichtlinien ein, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Überwachen Sie auch Verbrauch und Grenzen beim Modellanbieter.",
         "**Serverkenntnisse, wenn es ein VPS ist.** Beim VPS müssen Sie wissen, was Docker ist, ein Programm, das jede Anwendung isoliert in einem Container ausführt, und bereit sein, das System zu aktualisieren und abzusichern. Wenn das nichts für Sie ist, löst das verwaltete Angebot es."
       ],
       "postParagraphs": [
@@ -138,14 +138,14 @@
           [
             "Erstattung",
             "30 Tage",
-            "30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen abgeschlossen wurde"
+            "30 Tage laut Richtlinie; zwischen VPS-Erstattungen gilt ein Abstand von 180 Tagen"
           ]
         ]
       },
       "postParagraphs": [
         "**Das verwaltete Angebot passt zu Ihnen, wenn** Sie Paperclip laufen haben wollen, ohne etwas zu installieren, nicht wissen, was Root oder Docker ist, und es vorziehen, dass Hostinger sich um Datenbank, Updates und Backups kümmert.",
         "**Der VPS passt zu Ihnen, wenn** Sie andere Programme auf demselben Server betreiben wollen, etwa eine Website oder n8n (ein Automatisierungswerkzeug), sich mit Servern auskennen oder es lernen wollen und Datenbank und Konfiguration unter Ihrer Kontrolle haben möchten.",
-        "Zur Erstattung: Die 180-Tage-Regel für VPS ist dieselbe wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie des Unternehmens liest. Die 180 Tage zählen ab dem Abschluss Ihrer letzten VPS-Erstattung: Wenn Sie in den letzten 180 Tagen eine erhalten haben, gilt für den neuen VPS die 30-Tage-Garantie nicht."
+        "Zur Erstattung: Die 180-Tage-Regel für VPS ist dieselbe wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie des Unternehmens liest. Für frühere VPS-Erstattungen gilt ein Intervall von 180 Tagen; prüfen Sie Bedingungen und Ausschlüsse in der [Erstattungsrichtlinie](https://www.hostinger.com/legal/refund-policy) vor dem Kauf."
       ]
     },
     {
