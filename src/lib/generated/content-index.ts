@@ -36186,7 +36186,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Magalu](/cupons/magalu) da Cecília tem dez faixas pelo valor do carrinho. Exemplo: o 100EMCASACOMCECILIA dá 100 reais de desconto em compras a partir de 4.999,90 reais. Vale só no navegador, na loja Magazine Você da Cecília, em itens vendidos e entregues pelo Magalu."
+          "O [cupom Magalu](/cupons/magalu) da Cecília tem dez faixas, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, conforme o valor do carrinho: quanto maior a compra, maior o desconto fixo. Vale só no navegador, na loja Magazine Você da Cecília, em itens vendidos e entregues pelo Magalu."
         ]
       },
       {
@@ -36424,7 +36424,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta direta: o Magazine Você é confiável?",
         "paragraphs": [
-          "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, e o domínio magazinevoce.com.br está registrado em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido; o estoque e o envio dependem de quem anuncia cada produto. Confira o endereço no checklist abaixo; para desconto, use o [cupom Magalu](/cupons/magalu)."
+          "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, com o domínio magazinevoce.com.br em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido; estoque e envio dependem de quem anuncia o produto. Na loja da Cecília, os códigos do [cupom Magalu](/cupons/magalu), de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, valem só no navegador."
         ]
       },
       {
