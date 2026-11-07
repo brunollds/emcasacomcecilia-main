@@ -145,3 +145,13 @@ Reescrita pelo Fable 5.1 em dois pares, cada um por prazo (1º ano, 4 anos, reno
 - Com domínio e e-mail: Premium × Economy. Premium com o SONAR20 no carrinho: 48 meses R$ 383,62, 12 meses R$ 143,90, renovação R$ 38,99/mês.
 
 Os fatos estão em `fatos-h9.md`, na seção CORREÇÕES. As 9 traduções serão refeitas na mesma estrutura, com os preços em dólar (decisão do Bruno: opção b).
+
+## 10. 2 anos, 1 mês e a conta de 4 anos da GoDaddy (07/11/2026)
+
+Bruno notou que faltava comparar 24 meses e 1 mês. Lido no carrinho em 06/11 à noite, sem comprar (Hostinger pelo link de indicação, que aplica o mesmo desconto do SONAR20):
+- **2 anos (PT):** Single 24 meses R$ 191,81 × Inicial 24 meses R$ 287,76; Premium R$ 249,41 × Economy R$ 539,76. A Hostinger já ganha nos dois pares. Nas duas lojas, 12 meses + 1 renovação sai mais caro que o plano de 24 meses.
+- **4 anos (correção):** o caminho mais barato da GoDaddy é 36 meses + 1 renovação: Inicial R$ 482,04 + R$ 275,88 = R$ 757,92 (antes R$ 923,52); Economy R$ 957,24 + R$ 599,88 = R$ 1.557,12 (antes R$ 1.919,52).
+- **1 mês:** Single R$ 29,99 e Premium R$ 48,99, sem o desconto do código e renovando pelo mesmo preço. O Inicial da GoDaddy não tem prazo mensal (o menu vai de 12 a 60 meses).
+- **Dólar:** o Premium de 12 meses caiu para US$ 19,10 (US$ 1,59/mês em 12, 24 e 48 meses); 24 meses US$ 38,21; 1 mês US$ 12,99. GoDaddy Economy: 24 meses US$ 155,76, 36 meses US$ 215,64, 60 meses US$ 359,40; 4 anos = 36 + 1 renovação = US$ 359,52 (antes US$ 515,52).
+
+Os fatos estão em `fatos-carrinho-0611.md` (scratchpad da sessão). Reescrita: PT e EN pelo Sonnet 5.5, as 8 outras versões traduzidas do EN pelo Sonnet 5.5 e relidas pelo Haiku 5.5 (pedido do Bruno: sem o Fable nesta rodada).
