@@ -31541,7 +31541,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta de 06/11/2026, nos últimos seis meses do painel, a Damie tinha nota 7,9 e reputação Boa no Reclame Aqui, com 100% das reclamações respondidas e índice de solução de 83,1% entre as finalizadas e avaliadas. O problema mais citado é o atraso na entrega. Para comprar com desconto, o [cupom CECILIA12](/cupons/damie) dá 12% OFF no site da Damie."
+          "Sim, a Damie é confiável, com a entrega como ponto de atenção. No painel do Reclame Aqui de 06/11/2026, nos últimos seis meses, tem nota 7,9, reputação Boa e 100% das reclamações respondidas; o problema mais citado é o atraso. O [cupom CECILIA12](/cupons/damie) dá 12% OFF no site da Damie."
         ]
       },
       {
@@ -31635,7 +31635,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Damie?",
         "paragraphs": [
-          "Pelos números do Reclame Aqui, nos últimos seis meses, a Damie responde todas as reclamações e resolve 83,1% das finalizadas e avaliadas, com nota 7,9 e reputação Boa. A reputação passou de Ótima para Boa no último mês do painel, e 70,2% dos consumidores que avaliaram voltariam a fazer negócio. O ponto fraco é a entrega. Antes de fechar o pedido, confira o prazo pelo CEP, meça o acesso e registre o recebimento em foto."
+          "Sim, dá para confiar, com a entrega como ponto de atenção. Pelos números do Reclame Aqui, nos últimos seis meses, a Damie responde todas as reclamações e resolve 83,1% das finalizadas e avaliadas, com nota 7,9 e reputação Boa. A reputação passou de Ótima para Boa no último mês do painel, e 70,2% dos consumidores que avaliaram voltariam a fazer negócio. O ponto fraco é a entrega. Antes de fechar o pedido, confira o prazo pelo CEP, meça o acesso e registre o recebimento em foto."
         ]
       },
       {
@@ -31646,7 +31646,7 @@ export const reviewsData: unknown[] = [
           "A nota da Damie é boa para o setor de móveis online? O Reclame Aqui classifica a nota 7,9 como Boa. Não comparamos a Damie com o setor inteiro; no ranking da categoria Ecommerce - Móveis e Decoração, ela aparecia em 52º lugar. A comparação com a Inflow e a Sofá na Caixa está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie).",
           "A Damie resolve reclamações? Nos últimos seis meses do painel, a Damie respondeu 100% das reclamações. Entre as finalizadas e avaliadas pelo consumidor, o índice de solução era 83,1%, e 70,2% disseram que voltariam a fazer negócio.",
           "É possível desistir ou cancelar uma compra da Damie? Sim. Na compra pela internet, o [Código de Defesa do Consumidor, no artigo 49](https://consumidor.gov.br/pages/conteudo/publico/102), dá 7 dias de arrependimento, contados da compra ou do recebimento do produto. Os 30 dias são uma política da própria Damie, com condições: segundo a [página do teste](https://www.damie.com.br/pages/teste-por-30-dias), o produto volta completo, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira, e o pedido é feito pelo WhatsApp da Damie, com o nome completo e a nota fiscal.",
-          "A Damie é confiável para comprar sofá pela internet? Nos últimos seis meses do painel, a Damie tinha nota 7,9 e reputação Boa, com 100% de respostas e índice de solução de 83,1% entre as reclamações finalizadas e avaliadas. O principal risco é a entrega: no painel de até três anos, o atraso é o problema mais citado, e móveis grandes exigem medir corredores e elevadores antes da compra.",
+          "A Damie é confiável para comprar sofá pela internet? Sim, com atenção à entrega. Nos últimos seis meses do painel, a Damie tinha nota 7,9 e reputação Boa, com 100% de respostas e índice de solução de 83,1% entre as reclamações finalizadas e avaliadas. O principal risco é a entrega: no painel de até três anos, o atraso é o problema mais citado, e móveis grandes exigem medir corredores e elevadores antes da compra.",
           "Quanto tempo a Damie demora para entregar? O prazo muda com a região e o produto: confira pelo CEP no carrinho antes de fechar. Segundo a Damie, a produção leva em média 5 dias úteis, e o prazo conta a partir da confirmação do pagamento. O frete de poltronas e sofás é grátis no Sul e no Sudeste, e o Norte e o Nordeste são atendidos pelo Mercado Livre.",
           "O que acontece se o sofá Damie chegar com defeito? A Damie dá garantia de 1 ano contra defeitos de fabricação. Se o produto chegar avariado, fotografe a embalagem e o produto antes de abrir completamente, acione o suporte da Damie o quanto antes e não descarte as caixas até a resolução.",
           "A Damie vende no Mercado Livre ou só no site oficial? Nos dois. O site oficial (damie.com.br) tem o catálogo completo e as personalizações, e é onde o cupom CECILIA12 vale. Pelos anúncios oficiais no Mercado Livre, a Damie atende o Norte e o Nordeste, e lá o cupom não vale.",
@@ -32810,7 +32810,7 @@ export const reviewsData: unknown[] = [
         "heading": "Veredito: vale o investimento?",
         "paragraphs": [
           "Para nós, valeu: depois de mais de um ano, o sofá é um dos móveis mais usados da casa. O puff serve para esticar as pernas na TV e vira assento extra nas visitas; tomada com USB e carregamento por indução foram opcionais escolhidos por nós.",
-          "Para decidir, compare acesso, medidas da sala, quantidade de módulos, tecido e preço da configuração completa. Se a entrada for estreita, peça as medidas das caixas à Damie. A passagem observada na nossa casa não garante a passagem na sua."
+          "Para decidir, compare acesso, medidas da sala, quantidade de módulos, tecido e preço da configuração completa. Se a entrada for estreita, peça as medidas das caixas à Damie."
         ]
       },
       {
@@ -34674,7 +34674,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os dados públicos identificam a empresa: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "Sim, pelos dados públicos: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -41265,7 +41265,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "No Reclame Aqui, de abril a setembro, a loja online da I Wanna Sleep teve reputação RA1000 e nota 8,5. Veja as queixas mais comuns, como o atraso na entrega, antes de comprar.",
-    "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF nos elegíveis: RA1000 e nota 8,5 entre abril e setembro.",
+    "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF em todo o site: RA1000 e nota 8,5 entre abril e setembro.",
     "publishedAt": "24 de outubro de 2026",
     "publishedAtISO": "2026-10-24",
     "updatedAt": "2026-11-07",
@@ -41281,7 +41281,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil no dia da compra. Para desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro, então dá para comprar no site oficial. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil no dia da compra. Para desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -41344,7 +41344,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Com o cupom CECIEMCASA, 10% nos elegíveis do site oficial, sem custo a mais para você."
+          "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Com o cupom CECIEMCASA, 10% em todo o site oficial, sem custo a mais para você."
         ],
         "bullets": [],
         "links": [
@@ -41361,7 +41361,7 @@ export const reviewsData: unknown[] = [
           "O que é o selo RA1000? É a reputação mais alta do Reclame Aqui, dada às empresas com os melhores índices de resposta, solução e avaliação dos consumidores no período. A loja online da I Wanna Sleep chegou a ele em setembro.",
           "O que mais aparece nas reclamações da I Wanna Sleep? Atraso na entrega é o problema mais citado no painel do Reclame Aqui (25,19% das reclamações dos últimos três anos), e travesseiros são o produto mais citado.",
           "A I Wanna Sleep resolve as reclamações? Ela respondeu 100% das reclamações de abril a setembro, com tempo médio de resposta de 1 dia e 1 hora. Responder não garante solução: o índice de solução considera só as reclamações finalizadas e avaliadas.",
-          "O cupom CECIEMCASA muda o preço final do produto? Muda, nos produtos elegíveis do site oficial: o código dá 10% de desconto, concedido pela marca por meio da parceria com o Em Casa com Cecília. O código e os links podem gerar comissão, sem custo extra para você."
+          "O cupom CECIEMCASA muda o preço final do produto? Muda, em todo o site oficial: o código dá 10% de desconto, concedido pela marca por meio da parceria com o Em Casa com Cecília. O código e os links podem gerar comissão, sem custo extra para você."
         ]
       }
     ],
@@ -50152,7 +50152,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Passo 1: desligue telas uma hora antes do horário de dormir e organize uma transição com menos estímulos.",
           "Passo 2: prepare banho, pijama e escovação conforme a rotina da casa.",
-          "Passo 3: se optar pelo spray, prepare o tecido ou ambiente com antecedência, seguindo o modo da marca e a embalagem. Não borrife para convidar a criança a deitar imediatamente depois.",
+          "Passo 3: se optar pelo spray, borrife o travesseiro ou o lençol alguns minutos antes de a criança deitar, como a marca orienta, e confira que o tecido está seco.",
           "Passo 4: reserve um momento calmo para ler uma história, cantar ou conversar. A sequência pode existir com ou sem o aroma."
         ],
         "image": "/images/reviews/iwannasleep/sleepspray-kidz-historia-antes-de-dormir.webp",
@@ -52511,7 +52511,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "25% de desconto e frete grátis em todos os pedidos",
-      "Cupom CECI somou com a assinatura no nosso teste (5% na época)",
+      "Cupom CECI somou com a assinatura no nosso teste",
       "Geração 1 e NEO na mesma assinatura",
       "Cancela sem multa até 1 dia antes do pedido"
     ],
@@ -52630,7 +52630,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Quem toma pouco café pode escolher entregas a cada 2 ou 3 meses. Um exemplo é receber 6 caixas a cada 2 meses, em vez de 3 todo mês. Assim o pedido supera o mínimo de R$ 100 do CECI. Confira no checkout se o código entra na assinatura.",
+          "Quem toma pouco café pode escolher entregas a cada 2 ou 3 meses. Um exemplo é receber 6 caixas a cada 2 meses, em vez de 3 todo mês. Assim o pedido supera o mínimo de R$ 100 do CECI.",
           "O CECI vale para compras a partir de R$ 100. No nosso teste, ele entrou com subtotal de R$ 119,60, que ficou em R$ 89,70 depois dos 25%, por isso a tabela considera o subtotal antes do desconto. O checkout pode arredondar alguns centavos."
         ]
       },
@@ -56517,12 +56517,12 @@ export const reviewsData: unknown[] = [
           "O Nutren Senior entrou na Black Friday da Nestlé Nutre? A ausência dele numa arte não permite concluir que a linha esteja fora. Confira o SKU que você procura e compare o preço atual com a referência de outubro deste guia.",
           "Quanto custa o Nutren Senior 740 g? Na leitura de outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
           "O Nutren Senior fica mais barato na Black Friday? Depende do produto e da oferta. Compare o mesmo SKU, tamanho, quantidade, pagamento e frete. Na tabela de outubro, o kit de duas latas sem sabor aparecia a R$ 263,49; isso não é preço atual nem comprova economia de toda a linha.",
-          "O cupom CECI vale para o Nutren Senior? Vale nos itens elegíveis da loja, com 10% OFF e todas as formas de pagamento. Sobre o preço histórico de R$ 190,61 da lata zero lactose, a simulação dá R$ 171,55. Confira o preço atual e o desconto no carrinho.",
+          "O cupom CECI vale para o Nutren Senior? Vale nos itens elegíveis da loja, com 10% OFF, todas as formas de pagamento e soma com os preços da Black Friday. Sobre o preço histórico de R$ 190,61 da lata zero lactose, a simulação dá R$ 171,55. Confira o preço atual e o desconto no carrinho.",
           "Quais produtos ficam fora do cupom CECI? Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Nos demais produtos da loja, o cupom dá 10% OFF.",
           "A Nestlé Nutre tem frete grátis? Tem, acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
           "Como funciona a assinatura da Nestlé Nutre? São 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, segundo a FAQ da loja. A assinatura é por CPF, paga no cartão de crédito, com entregas a cada 30, 60 ou 90 dias, e dá para cancelar sem custo.",
           "A Nestlé Nutre parcela sem juros? Parcela, em até 6 vezes sem juros no cartão, com parcela mínima de R$ 75. No Pix, a loja não anuncia desconto.",
-          "Até quando comprar para chegar antes do Natal? A tabela estima datas com os prazos simulados em outubro, dois dias de processamento e um dia útil de folga. Ela não garante chegada: confira o prazo atual do seu CEP e o marco de contagem informado no pedido antes de pagar."
+          "Até quando comprar para chegar antes do Natal? Pela tabela, com os prazos simulados em outubro, dois dias de processamento e um dia útil de folga: em dezembro, até o dia 16 em São Paulo, até o dia 10 no Rio de Janeiro e até o dia 1º em Manaus. Confira o prazo atual do seu CEP antes de pagar."
         ]
       }
     ],
@@ -77911,7 +77911,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá na caixa dura tanto quanto um montado? Resposta rápida",
         "paragraphs": [
-          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há meses, ainda sem anos de uso; a ficha técnica abaixo ajuda a comparar."
+          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano; a ficha técnica abaixo ajuda a comparar."
         ]
       },
       {
@@ -78046,7 +78046,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que eu vi depois de meses com o sofá na caixa da DAMIE",
         "paragraphs": [
-          "Uso o sofá modular da DAMIE desde junho de 2026. São meses de uso, não anos:",
+          "Uso o sofá modular da DAMIE há mais de um ano. É tempo de uso real, não de teste de laboratório:",
           "\"O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como se arrepender de comprar um sofá desses.\"",
           "Os itens elétricos são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico.",
           "Contei como foi a decisão de compra e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
@@ -84188,7 +84188,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta de 16/10/2026, a loja Belive estava identificada como NHD Foods, com CNPJ ativo, e tinha reputação Ótima no Reclame Aqui. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) reúne o desconto da parceria."
+          "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e tinha reputação Ótima no Reclame Aqui em 16/10/2026. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) reúne o desconto da parceria."
         ]
       },
       {
@@ -84400,7 +84400,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta de 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+          "Sim, com a leitura certa: em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
         ]
       },
       {
@@ -84543,7 +84543,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar esses números antes de comprar",
         "paragraphs": [
-          "O melhor resultado da consulta está na aba de 6 meses, com nota 8,1. Para decidir, olhe também a resolução e o tamanho da amostra: uma nota Ótima não garante o resultado do seu pedido."
+          "Sim, com a leitura certa: o melhor resultado está na aba de 6 meses, com nota 8,1, mas a resolução ficou em 80% entre as avaliadas e a amostra é pequena. Uma nota Ótima não garante o resultado do seu pedido."
         ],
         "bullets": [
           "Compare os períodos: nos 12 meses, a nota era 7,8 e 70% de quem avaliou disse que voltaria a comprar.",
@@ -84555,7 +84555,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável segundo o Reclame Aqui? Em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. Nos 6 meses, só 15 das 39 reclamações recebidas tinham avaliação.",
+          "A Belive é confiável segundo o Reclame Aqui? Sim, com a leitura certa: em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. Nos 6 meses, só 15 das 39 reclamações recebidas tinham avaliação.",
           "Qual a nota da Belive no Reclame Aqui? Em outubro, a nota era 8,1 nos últimos 6 meses, 7,8 nos últimos 12 meses e 7,5 em 2025.",
           "A Belive responde às reclamações? Em outubro, as três abas mostravam 100% respondidas. A resolução, calculada entre as avaliadas, ficou em 80% nas abas de 6 e 12 meses e 75% em 2025.",
           "O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.",
@@ -121017,7 +121017,7 @@ export const reviewsData: unknown[] = [
           "Chega antes do Natal se eu comprar na Black Friday? Depende do CEP e do produto. O prazo aparece no frete, antes de pagar, e conta da confirmação do pagamento: confira ali, sem contar com data de chegada.",
           "Puff de piscina pode ficar no sol e na chuva? Só o de tecido impermeável com proteção UV. Segundo a DAMIE, o tecido dos puffs e da espreguiçadeira Garden não absorve água e pode ficar perto da piscina e até submerso.",
           "Poltrona de cinema precisa de tomada? As elétricas precisam de uma tomada por perto. Confira na configuração da Cinema 2.0 se há motor antes de comprar.",
-          "O CECILIA12 vale na Black Friday? Hoje ele soma com as promoções e com o Pix. Na campanha, confira no carrinho se soma; a [página do cupom](/cupons/damie) traz a data do último teste.",
+          "O CECILIA12 vale na Black Friday? Hoje ele soma com as promoções e com o Pix. a [página do cupom](/cupons/damie) traz a data do último teste.",
           "Quanto custa uma poltrona de cinema para casa? A Cinema 2.0 da DAMIE ia de R$ 5.438 a R$ 8.380 no modelo de 2 lugares, conforme o revestimento. No varejo, as linhas de 2 e 3 lugares estavam de cerca de R$ 3.800 a R$ 7.900."
         ]
       }
@@ -128265,7 +128265,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Valley Modular é a mesma empresa que a Inflow ou a Sofá na Caixa? Não. A Valley Modular é o nome fantasia da Valley Art LTDA. (CNPJ 30.105.567/0001-93, Hortolândia, SP, ativa desde 2018). A Inflow é da Fast Living Comércio e Distribuição Ltda. (Itapeva, MG, desde 2022) e a Sofá na Caixa é outra empresa, de Rafard (SP). Cada uma tem site e regras próprios.",
-          "Valley Modular é confiável? A empresa tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, o perfil está sem reputação definida, com duas reclamações, uma respondida. São poucos registros para avaliar o atendimento; a ficha e o FAQ divulgam seis meses de garantia.",
+          "Valley Modular é confiável? Sim, a empresa existe e opera: tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, o perfil está sem reputação definida, com duas reclamações, uma respondida. São poucos registros para avaliar o atendimento; a ficha e o FAQ divulgam seis meses de garantia.",
           "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa com coleta e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, a DAMIE com puff ficava abaixo da Valley Modular com apoio nas duas linhas: R$ 3.850 contra R$ 4.175 no 2 lugares e R$ 5.100 contra R$ 5.986 no 3 lugares.",
           "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular divulga seis meses; a Inflow, três meses e noventa dias para relatar defeito na política. Na devolução por arrependimento, a Inflow exige o produto lacrado; confirme o procedimento antes de comprar.",
           "Posso devolver o sofá da Valley Modular depois de abrir? A política publicada fala em 7 dias, na embalagem original e sem sinais de mau uso, por defeito, modelo errado ou medida errada; ela não trata do sofá já expandido nem diz quem paga o frete de volta. Antes de abrir a caixa, confirme com a loja como fica a devolução do sofá expandido.",
