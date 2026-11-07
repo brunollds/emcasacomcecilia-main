@@ -141,15 +141,14 @@
     {
       "heading": "O que fazer se o cupom CECI não funcionar?",
       "paragraphs": [
-        "Se o CECI não aplicar, o motivo está numa destas situações:",
-        "O cupom CECI é verificado e atualizado regularmente. Se encontrar algum problema, avise nos comentários ou no WhatsApp do grupo de promoções para validarmos."
+        "Se o CECI não aplicar, confira os pontos abaixo antes de tentar novamente. Se a grafia e o valor mínimo estiverem corretos, consulte as regras atuais na página do cupom e procure o atendimento oficial da NESCAFÉ Dolce Gusto para verificar o seu pedido."
       ],
       "bullets": [
         "Código digitado incorretamente: Verifique se digitou CECI sem espaços ou caracteres extras.",
         "Compra mínima não atingida: O valor dos produtos no carrinho deve ser de no mínimo R$ 100.",
         "Carrinho vazio: Adicione pelo menos um produto ao carrinho antes de aplicar o cupom.",
         "Kit ou combo com regra própria: o CECI soma com as promoções, mas, se algum kit não aceitar o cupom, o resumo do carrinho mostra; teste o carrinho sem ele.",
-        "Cupom expirado: o código é reconfirmado todo mês. Se não funcionar, volte aqui para conferir o cupom válido do mês atual.",
+        "Validade da campanha: confira as condições e o registro de verificação mais recente na página do cupom. A reconfirmação mensal não dispensa conferir a aceitação do CECI no resumo do pedido.",
         "Problema técnico: limpe o cache do navegador, tente outro navegador ou o app oficial, ou entre em contato com o suporte da NESCAFÉ."
       ]
     },

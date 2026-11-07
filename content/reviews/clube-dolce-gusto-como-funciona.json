@@ -33,8 +33,8 @@
     {
       "heading": "Como funciona o Clube Dolce Gusto",
       "paragraphs": [
-        "Se você já compra cápsulas todo mês, o Clube transforma caixa vazia em pontos: é o programa de fidelidade oficial da marca. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
-        "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Em vez de jogar as caixas fora, registre os códigos das compras da rotina. Quem já tem cadastro ou já comprou na loja oficial tem a participação vinculada à mesma conta.",
+        "Se você já compra cápsulas, cadastre os códigos antes de jogar as caixas fora. O Clube Dolce Gusto é o programa de fidelidade oficial da marca: você ganha pontos com os códigos de 12 dígitos das embalagens Geração 1 ou com o preparo de cápsulas NEO pelo aplicativo. Depois, pode trocar o saldo por cápsulas, acessórios e prêmios.",
+        "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Em vez de descartar as embalagens, registre os códigos das compras da rotina diretamente no seu perfil.",
         "Pelo regulamento, cada ponto expira 12 meses depois de cadastrado; o FAQ do site fala em 6 meses sem atividade na conta. Para não perder pontos, use o saldo antes de 6 meses."
       ],
       "bullets": [
@@ -45,9 +45,26 @@
       "links": [
         {
           "label": "Acessar site oficial Dolce Gusto",
-          "href": "https://www.nescafe-dolcegusto.com.br/"
+          "href": "https://www.nescafe-dolcegusto.com.br/",
+          "sponsored": true
         }
       ]
+    },
+    {
+      "heading": "Passo a passo para cadastrar seus códigos",
+      "paragraphs": [
+        "O registro dos pontos no programa varia conforme o sistema da sua cafeteira:"
+      ],
+      "bullets": [
+        "Acesse a sua conta oficial no site da Dolce Gusto com seu login e senha.",
+        "Clique na aba lateral ou menu principal identificado como “Club”.",
+        "Selecione a opção de digitar código e preencha o código no campo “Insira seu Código”.",
+        "Confirme a validação e preste atenção a letras e números parecidos que geram erros comuns de digitação, como a letra O e o número 0.",
+        "No caso de cápsulas NEO, certifique-se de que a máquina NEO esteja pareada ao aplicativo no celular durante as extrações para que os pontos entrem de forma automática."
+      ],
+      "image": "/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp",
+      "imageAlt": "Tutorial e campo de inserção de código de 12 dígitos no site da Dolce Gusto",
+      "imageFit": "contain"
     },
     {
       "heading": "Como acumular pontos no Clube",
@@ -69,10 +86,10 @@
     {
       "heading": "Onde e como trocar os pontos por prêmios",
       "paragraphs": [
-        "Dá para usar os pontos de dois jeitos no site: direto no carrinho ou na Loja de Prêmios.",
-        "No carrinho, troque os pontos por produtos Dolce Gusto na compra do site.",
-        "Na Loja de Prêmios oficial: para trocar por itens e prêmios de marcas parceiras ou acessórios de café, acesse a vitrine dedicada do Clube Dolce Gusto.",
-        "Antes de resgatar, confira as restrições de cada recompensa, porque nem todo item aceita pontos em qualquer compra. E use o saldo antes de 6 meses, para não perder pontos."
+        "Dá para aproveitar os pontos acumulados de dois caminhos no site oficial: direto no carrinho ou na Loja de Prêmios dedicada.",
+        "No carrinho do e-commerce: você pode abater o saldo diretamente em produtos e cápsulas Dolce Gusto ao fechar um pedido.",
+        "Na Loja de Prêmios oficial: acesse a vitrine exclusiva do Clube para resgatar itens de marcas parceiras e acessórios de café.",
+        "Antes de resgatar, confira as regras e restrições de cada recompensa, pois nem todo item aceita pontos em qualquer compra. Lembre-se de usar o saldo antes de 6 meses para não perder os pontos."
       ],
       "image": "/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp",
       "imageAlt": "Tela de resgate de pontos para troca por produtos ou prêmios no site oficial",
@@ -80,31 +97,16 @@
       "links": [
         {
           "label": "Acessar Loja de Prêmios",
-          "href": "https://club.nescafe-dolcegusto.com.br/"
+          "href": "https://club.nescafe-dolcegusto.com.br/",
+          "sponsored": true
         }
       ]
     },
     {
-      "heading": "Passo a passo para cadastrar seus códigos",
-      "paragraphs": [
-        "Para cadastrar os códigos da Geração 1:"
-      ],
-      "bullets": [
-        "Acesse a sua conta oficial no site da Dolce Gusto com seu login e senha.",
-        "Clique na aba lateral ou menu principal identificado como “Club”.",
-        "Selecione a opção de digitar código e preencha o código no campo “Insira seu Código”.",
-        "Confirme a validação e preste atenção a letras e números parecidos que geram erros comuns de digitação, como a letra O e o número 0.",
-        "No caso de cápsulas NEO, certifique-se de que a máquina NEO esteja pareada ao aplicativo no celular durante as extrações para que os pontos entrem de forma automática."
-      ],
-      "image": "/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp",
-      "imageAlt": "Tutorial e campo de inserção de código de 12 dígitos no site da Dolce Gusto",
-      "imageFit": "contain"
-    },
-    {
       "heading": "Economize ainda mais usando o cupom CECI",
       "paragraphs": [
-        "A melhor tática é combinar o desconto do CECI com os pontos de cada caixa. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 10% de desconto direto em compras a partir de R$ 100.",
-        "Comprar com o CECI e depois cadastrar os códigos das caixas são duas etapas separadas. Ao aplicar o cupom CECI no carrinho, você paga menos pelas caixas de cápsulas e a compra online pode render pontos de bônus. Quando as caixas chegarem, cadastre o código interno de cada uma para acumular mais pontos. O cupom dá desconto na compra e não mexe nos pontos: usar o CECI não é resgatar pontos no mesmo carrinho."
+        "Na loja oficial, o cupom CECI dá 10% de desconto em compras a partir de R$ 100. Digite-o no carrinho e confira o desconto antes de pagar.",
+        "Quando as caixas chegarem, cadastre os códigos internos para acumular os pontos. São operações separadas: comprar com CECI não é resgatar pontos no mesmo carrinho. Os possíveis bônus da compra online seguem as regras do Clube."
       ],
       "image": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
       "imageAlt": "Cecília tomando café em casa, representando a rotina de consumo Dolce Gusto",
@@ -126,7 +128,7 @@
     {
       "heading": "Vale a pena participar do Clube?",
       "paragraphs": [
-        "Vale a pena se você já compra cápsulas todo mês; se compra de vez em quando, o saldo pode zerar antes de virar prêmio. O Clube é gratuito e recompensa um hábito que você já tem. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.",
+        "O Clube faz sentido para quem já compra cápsulas e quer aproveitar os códigos das embalagens. O cadastro é gratuito. Antes de contar com um prêmio, confira seu saldo, a validade dos pontos e as condições do resgate.",
         "A dica: guarde as caixas numa gaveta, digite os códigos uma vez por mês e use o saldo antes de 6 meses. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
       ]
     },
@@ -155,7 +157,8 @@
   "cta": {
     "text": "Cadastre-se no Clube Dolce Gusto e aproveite o cupom CECI para economizar na loja oficial.",
     "label": "Acessar loja oficial",
-    "url": "https://www.nescafe-dolcegusto.com.br/"
+    "url": "https://www.nescafe-dolcegusto.com.br/",
+    "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",

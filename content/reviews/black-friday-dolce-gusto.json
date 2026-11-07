@@ -51,11 +51,31 @@
       ],
       "comparisonTable": {
         "caption": "Máquinas nos banners da Black Friday do site oficial, com 30 cápsulas e 10 vezes sem juros, ao lado do preço cheio e do preço de outubro. As ofertas mudam sem aviso: confira na loja.",
-        "headers": ["Máquina", "Preço cheio", "Em outubro", "Na Black Friday"],
+        "headers": [
+          "Máquina",
+          "Preço cheio",
+          "Em outubro",
+          "Na Black Friday"
+        ],
         "rows": [
-          ["Mini Me 2.0", "R$ 599,90", "R$ 429,90 a R$ 449,90, conforme a cor", "R$ 369,90, com 30 cápsulas"],
-          ["Genio S Basic", "R$ 679,90", "R$ 479,90", "R$ 409,90, com 30 cápsulas"],
-          ["Genio S Plus", "R$ 779,90", "R$ 589,90", "R$ 499,90, com 30 cápsulas"]
+          [
+            "Mini Me 2.0",
+            "R$ 599,90",
+            "R$ 429,90 a R$ 449,90, conforme a cor",
+            "R$ 369,90, com 30 cápsulas"
+          ],
+          [
+            "Genio S Basic",
+            "R$ 679,90",
+            "R$ 479,90",
+            "R$ 409,90, com 30 cápsulas"
+          ],
+          [
+            "Genio S Plus",
+            "R$ 779,90",
+            "R$ 589,90",
+            "R$ 499,90, com 30 cápsulas"
+          ]
         ]
       },
       "postParagraphs": [
@@ -94,15 +114,55 @@
       },
       "comparisonTable": {
         "caption": "Preços do site oficial em outubro e ofertas anunciadas pela Nestlé para a Black Friday de 2024. Os preços mudam quase todo dia.",
-        "headers": ["Produto", "Preço cheio no site", "Em outubro", "Black Friday 2024"],
+        "headers": [
+          "Produto",
+          "Preço cheio no site",
+          "Em outubro",
+          "Black Friday 2024"
+        ],
         "rows": [
-          ["Mini Me 2.0", "R$ 599,90", "R$ 429,90 a R$ 449,90, conforme a cor", "Mini Me a partir de R$ 399,90"],
-          ["Genio S Basic", "R$ 679,90", "R$ 479,90", "A partir de R$ 499,90"],
-          ["Genio S Plus", "R$ 779,90", "R$ 589,90", "A partir de R$ 599,90"],
-          ["Genio S Touch", "R$ 979,90", "R$ 689,90", "Genio Touch a partir de R$ 699,90"],
-          ["Caixa regular de cápsulas", "—", "A partir de R$ 17,90 (em promoção)", "Bebidas a partir de R$ 13,90"],
-          ["DGusta, por cápsula", "—", "A partir de R$ 1,79 (em promoção)", "A partir de R$ 1,39"],
-          ["Cafés NEO", "—", "A partir de R$ 21,90 (em promoção)", "A partir de R$ 19,90"]
+          [
+            "Mini Me 2.0",
+            "R$ 599,90",
+            "R$ 429,90 a R$ 449,90, conforme a cor",
+            "Mini Me a partir de R$ 399,90"
+          ],
+          [
+            "Genio S Basic",
+            "R$ 679,90",
+            "R$ 479,90",
+            "A partir de R$ 499,90"
+          ],
+          [
+            "Genio S Plus",
+            "R$ 779,90",
+            "R$ 589,90",
+            "A partir de R$ 599,90"
+          ],
+          [
+            "Genio S Touch",
+            "R$ 979,90",
+            "R$ 689,90",
+            "Genio Touch a partir de R$ 699,90"
+          ],
+          [
+            "Caixa regular de cápsulas",
+            "—",
+            "A partir de R$ 17,90 (em promoção)",
+            "Bebidas a partir de R$ 13,90"
+          ],
+          [
+            "DGusta, por cápsula",
+            "—",
+            "A partir de R$ 1,79 (em promoção)",
+            "A partir de R$ 1,39"
+          ],
+          [
+            "Cafés NEO",
+            "—",
+            "A partir de R$ 21,90 (em promoção)",
+            "A partir de R$ 19,90"
+          ]
         ]
       },
       "postParagraphs": [
@@ -165,7 +225,7 @@
     {
       "heading": "Como não cair em desconto falso",
       "bullets": [
-        "**Compare com a tabela de outubro.** O preço riscado no site é o cheio, que quase ninguém paga: em outubro, a Genio S Basic já estava R$ 200 abaixo dele.",
+        "**Compare com a tabela de outubro.** O preço riscado no site é o preço cheio. Em outubro, a Genio S Basic já estava R$ 200 abaixo dele; use esse preço como referência para avaliar a oferta.",
         "**Some o frete.** O banner da Black Friday dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos; o carrinho mostra se o seu pedido entrou.",
         "**Confira o sistema.** Cápsula NEO não serve em máquina Original sem o adaptador, e cápsula Original não serve em máquina NEO.",
         "**Escolha a voltagem com calma.** No combo da Mini Me, ela é escolhida no carrinho e não pode ser trocada depois.",
@@ -176,12 +236,12 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quando começa e quanto dura a Black Friday da Dolce Gusto? Já começou no site oficial, com promoções novas todos os dias, e o grande dia é a última sexta-feira de novembro, dia 27. Em 2023 e 2024, a campanha da Nestlé durou o mês inteiro.",
+        "Quando começa e quanto dura a Black Friday da Dolce Gusto? A campanha já começou no site oficial, com anúncio de promoções novas todos os dias, e o grande dia é a última sexta-feira de novembro. Em 2023 e 2024, a Nestlé anunciou ofertas durante novembro inteiro.",
         "Quais máquinas estão em oferta na Black Friday da Dolce Gusto? Nos banners, a Mini Me 2.0 a R$ 369,90, a Genio S Basic a R$ 409,90 e a Genio S Plus a R$ 499,90, todas com 30 cápsulas e em 10 vezes sem juros, abaixo do preço de outubro e do anunciado na Black Friday de 2024.",
-        "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S estão abaixo de outubro e ainda vêm com 30 cápsulas. Nas cápsulas, compare a oferta do dia com a régua de 2024 da tabela antes de fechar.",
+        "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S ficaram abaixo dos preços de outubro e incluíam 30 cápsulas. Antes de fechar, compare o valor do seu modelo, a voltagem e o frete. Nas cápsulas, compare a oferta do dia com as referências da tabela.",
         "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. Se ele soma com a oferta do dia, o carrinho mostra antes de pagar.",
         "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro, as promoções partiam de R$ 17,90 e R$ 1,79.",
-        "Cápsula NEO serve na Mini Me ou na Genio S? Não. NEO e Original são sistemas diferentes; com o Adaptador NEO Start, a máquina Original aceita cinco cafés NEO.",
+        "Cápsula NEO serve na Mini Me ou na Genio S? Só com o Adaptador NEO Start, e apenas nos cinco cafés NEO da linha. Sem o adaptador, as cápsulas NEO não servem diretamente nessas máquinas.",
         "A Black Friday da Dolce Gusto tem frete grátis? Tem: o banner da campanha dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos. O carrinho mostra se o seu pedido entrou.",
         "A oferta do dia da Dolce Gusto soma com outras promoções? Não com combo de máquina, combo de bebidas nem resgate de pontos, pelo regulamento do site. Se soma com o cupom CECI, o carrinho mostra antes de pagar."
       ]
