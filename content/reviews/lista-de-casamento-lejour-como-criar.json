@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Como criar a lista de casamento na Lejour em três passos: cadastro do casal, lista de presentes, quem paga a taxa e como sacar. Veja o que decidir antes de começar.",
+  "description": "Como criar a lista de casamento na Lejour: prévia em três passos, conta para salvar, taxa dos presentes, titularidade e saque por Pix.",
   "metaDescription": "Como criar a lista de casamento na Lejour em 3 passos, com as telas do cadastro, a taxa dos presentes e o saque por Pix. Consulta de 14/10/2026.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
@@ -29,13 +29,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Criar a lista de casamento na Lejour leva 3 passos sem login, com os nomes do casal, a data e o tema do site, e uma conta grátis guarda o que vocês fizeram. Depois é só montar a lista de presentes. Antes, decidam em nome de quem ela fica, por causa do saque; veja abaixo."
+        "Os três primeiros passos da Lejour montam a prévia do site: nomes, data e tema. Depois, crie uma conta para salvar, monte os presentes virtuais e defina quem paga a taxa. O saque vai ao CPF de quem publica a lista; combinem isso antes."
       ]
     },
     {
       "heading": "Antes de começar: decidam no CPF de quem a lista fica",
       "paragraphs": [
-        "O cadastro da lista tem 3 passos e começa sem login. Refizemos o cadastro com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
+        "A prévia do site tem 3 passos e começa sem login. Refizemos o início com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
         "O dinheiro dos presentes só sai por Pix para uma chave do mesmo CPF de quem publicou a lista, e a Lejour pede validação de identidade, com documento com foto e selfie, antes do primeiro saque. Por isso, combinem antes quem vai criar a conta e publicar a lista: ela deve ficar no CPF da pessoa que vai receber o dinheiro.",
         "Os detalhes de prazo e segurança do saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
       ]
@@ -43,7 +43,7 @@
     {
       "heading": "1. Abra a Lejour pelo link e digite os nomes do casal",
       "paragraphs": [
-        "Abra a Lejour pelo botão deste guia. O cadastro começa na tela \"Queremos conhecer vocês\", com a pergunta \"Como vocês querem ser chamados?\". Há dois campos, \"Seu nome\" e \"Nome do seu amor\", separados por um \"&\". Os nomes digitados aparecem depois no topo do site do casal. Acima do título, uma barra de progresso marca \"1/3\"."
+        "Abra a Lejour pelo botão deste guia. Na tela \"Queremos conhecer vocês\", preencha \"Seu nome\" e \"Nome do seu amor\" como desejam aparecer no site do casal. Esse é o primeiro dos três passos da prévia."
       ],
       "image": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
       "imageAlt": "Passo 1 do cadastro na Lejour: tela Queremos conhecer vocês, com os campos de nome do casal e o progresso 1/3",
@@ -54,7 +54,7 @@
     {
       "heading": "2. Escolha a data do casamento",
       "paragraphs": [
-        "O passo 2 faz a pergunta \"Quando será o grande dia?\" e mostra a data no formato dia/mês/ano. Logo abaixo, a Lejour avisa: \"Não se preocupem, vocês poderão alterar a data se precisarem!\". A barra de progresso marca \"2/3\"."
+        "Em \"Quando será o grande dia?\", escolha a data no formato dia/mês/ano. A tela informa que vocês podem alterá-la depois, se precisarem."
       ],
       "image": "/images/reviews/lejour/lejour-cadastro-02-data-do-casamento.webp",
       "imageAlt": "Passo 2 do cadastro na Lejour: tela Quando será o grande dia, com o campo da data e o aviso de que ela pode ser alterada",
@@ -65,7 +65,7 @@
     {
       "heading": "3. Escolha o tema do site",
       "paragraphs": [
-        "O passo 3, \"Qual tema vocês mais gostam?\", mostra a prévia do site do casal e, abaixo dela, quatro bolinhas de cor, uma delas marcada. A Lejour avisa: \"Lembrando que vocês podem alterar o tema quando quiserem!\". A prévia traz o nome do casal no topo, a \"Mensagem inicial\" e a seção \"Sobre o casal\". A barra de progresso marca \"3/3\"."
+        "Em \"Qual tema vocês mais gostam?\", escolha a opção e confira a prévia com os nomes do casal. A tela informa que o tema pode ser alterado depois."
       ],
       "image": {
         "src": "/images/reviews/lejour/lejour-lista-capa.webp",

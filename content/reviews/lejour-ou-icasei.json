@@ -30,7 +30,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Em taxa, Lejour, iCasei e Casar.com ficam perto, então a escolha não se resolve só pelo percentual: o que separa as três é o tempo do site no ar, os saques, o prazo do cartão e a confirmação de presença. Veja abaixo a conta de uma lista de exemplo e o capítulo Qual escolher, por perfil."
+        "No plano grátis, Lejour, iCasei e Casar.com cobram a mesma taxa: 3,89% por presente. O que separa as três é o tempo do site no ar depois da festa, os saques, o prazo do cartão e a confirmação de presença. Veja abaixo a conta de uma lista de exemplo."
       ]
     },
     {
@@ -110,7 +110,7 @@
         ]
       },
       "postParagraphs": [
-        "Dados dos sites oficiais. O Premium da Lejour está em promoção, e os preços do iCasei mudam com o período contratado."
+        "Dados dos sites oficiais. O Premium da Lejour estava em promoção, e os preços do iCasei variavam conforme o período contratado."
       ]
     },
     {
@@ -427,7 +427,7 @@
     },
     {
       "heading": "Qual escolher, por perfil",
-      "emphasis": "Se fosse para o meu casamento, eu levaria o Premium da Lejour, porque, com os preços de outubro, na lista de R$ 20.000 ele deixa mais que os outros.",
+      "emphasis": "Se fosse para o meu casamento, eu levaria o Premium da Lejour: na simulação de R$ 20.000 pagos por Pix, com a taxa e o plano por conta do casal, ele deixa o maior saldo, R$ 6,50 a mais que o Basic do iCasei.",
       "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Não há uma plataforma certa para todo casal. O que decide é o tamanho da lista, a data e o que vocês querem receber."
@@ -472,8 +472,15 @@
   },
   "affiliate": "lejour",
   "decision": {
-    "takeIf": ["Você quer pagar o plano uma vez só e manter o site no ar depois da festa: na Lejour o plano é pago uma vez, e o site fica aberto por 90 dias após o casamento.", "A lista é grande e a taxa menor do plano pago compensa o preço dele."],
-    "skipIf": ["Você quer produtos de várias lojas na mesma lista: o Casar.com reúne seis lojas, e a Lejour concentra na Fast Shop.", "Você quer sacar sem limite e sem pagar plano: no iCasei e no Casar.com os saques são ilimitados, e no Basic da Lejour só 2 são grátis.", "Seu casamento é a mais de 6 meses e você não quer pagar plano: o Casar.com é grátis até 30 dias depois do casamento, e o Basic do iCasei vence antes da festa."]
+    "takeIf": [
+      "Você quer pagar o plano uma vez só e manter o site no ar depois da festa: na Lejour o plano é pago uma vez, e o site fica aberto por 90 dias após o casamento.",
+      "A lista é grande e a taxa menor do plano pago compensa o preço dele."
+    ],
+    "skipIf": [
+      "Você quer produtos de várias lojas na mesma lista: o Casar.com reúne seis lojas, e a Lejour concentra na Fast Shop.",
+      "Você quer sacar sem limite e sem pagar plano: no iCasei e no Casar.com os saques são ilimitados, e no Basic da Lejour só 2 são grátis.",
+      "Seu casamento é a mais de 6 meses e você não quer pagar plano: o Casar.com é grátis até 30 dias depois do casamento, e o Basic do iCasei vence antes da festa."
+    ]
   },
   "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal. iCasei e Casar.com não são parceiros. Não fizemos lista de casamento real em nenhuma das três.",
   "relatedArticles": [
