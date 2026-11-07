@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "SONAR20을 쓰면 호스팅어 Premium은 첫 해와 4년 모두 더 저렴합니다. 미국 달러로 계산을 보고, 각 플랜에 무엇이 들어 있는지 확인하세요.",
-  "metaDescription": "SONAR20을 쓰면 신규 호스팅어 구매가 20% 할인됩니다. 미국 달러로 GoDaddy와의 4년 계산, 첫 해, 갱신가, 플랜별 포함 내용을 확인하세요.",
+  "description": "호스팅 가격을 비교하기 전에 사이트를 얼마나 오래 운영할지 먼저 따져 보세요. 미국 달러 기준으로 SONAR20을 적용한 호스팅어 Premium은 어떤 기간으로 봐도 GoDaddy Economy보다 저렴합니다.",
+  "metaDescription": "SONAR20을 쓰면 신규 호스팅어 구매가 20% 할인됩니다. 첫 해와 4년 동안 GoDaddy보다 저렴한 쪽이 어디인지, 각 플랜이 갱신 시 얼마를 받는지 확인하세요.",
   "publishedAt": "2026년 11월 6일",
   "publishedAtISO": "2026-11-06",
   "draft": false,
@@ -45,129 +45,105 @@
     {
       "heading": "빠른 답변",
       "paragraphs": [
-        "신규 구매라면 SONAR20을 적용한 호스팅어가 첫 해와 4년 모두 GoDaddy보다 저렴합니다. GoDaddy Starter는 연 갱신비가 더 낮지만, 플랜 목록에 도메인, 이메일, SSL이 없습니다. 각각의 계산은 아래에 미국 달러로 있습니다."
+        "미국 달러로 보면 SONAR20을 적용한 호스팅어 Premium은 어떤 기간으로 봐도 GoDaddy Economy보다 저렴합니다. 첫 해는 US$ 38.30 대 US$ 83.88, 4년 합계는 US$ 76.42 대 US$ 515.52, 갱신 1년은 US$ 131.88 대 US$ 143.88입니다. 두 플랜 모두 도메인과 이메일을 1년 무료로 포함합니다."
       ]
     },
     {
-      "heading": "입문 플랜을 나란히 비교",
+      "heading": "나란히 놓고 볼 두 플랜",
       "paragraphs": [
-        "호스팅어 Premium에는 도메인과 이메일이 포함되고, GoDaddy Starter에는 둘 다 없습니다. 25 GB의 GoDaddy Economy에는 둘 다 포함되며, 사이트에 자체 주소가 필요할 때 Premium과 비교할 플랜입니다."
+        "호스팅어 국제 사이트에서 공유 호스팅은 Premium부터 시작하며, 도메인과 이메일이 1년 무료로 포함됩니다. GoDaddy에서 같은 두 가지가 포함된 플랜은 Economy입니다. 이 두 플랜이 이 글의 주요 비교 대상입니다. SSL은 두 회사의 모든 플랜에서 무료입니다.",
+        "이 글은 기간별로 답합니다. 첫 해에 내는 금액, 4년 동안 내는 금액, 그리고 각 플랜의 갱신가입니다. GoDaddy에는 사이트만 제공하는 Starter 플랜도 있으며, 아래 별도 항목에서 다룹니다."
       ],
       "comparisonTable": {
         "headers": [
           "플랜",
-          "사이트",
-          "저장 공간",
           "도메인",
           "이메일",
-          "SSL"
+          "SSL",
+          "목록의 기타 항목"
         ],
         "rows": [
           [
             "[호스팅어 Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "3",
-            "20 GB SSD",
             "1년 무료",
-            "1년 무료",
-            "목록에 없음"
-          ],
-          [
-            "GoDaddy Starter",
-            "1",
-            "10 GB NVMe",
-            "목록에 없음",
-            "목록에 없음",
-            "목록에 없음"
+            "사이트당 메일함 2개, 1년 무료",
+            "무료",
+            "사이트 3개, 20 GB SSD, 주간 백업, CDN"
           ],
           [
             "GoDaddy Economy",
-            "1",
-            "25 GB NVMe",
-            "무료",
             "1년 무료",
-            "1년 동안"
+            "1년 무료",
+            "무료",
+            "사이트 1개, 25 GB NVMe, cPanel"
           ]
         ]
       }
     },
     {
-      "heading": "호스팅어 가격: SONAR20 적용",
+      "heading": "첫 해에는 호스팅어가 더 저렴합니다",
       "paragraphs": [
-        "SONAR20은 블랙프라이데이 가격과 함께 적용됩니다. 카트에서 48개월 Premium이 US$ 95.52에서 US$ 76.42로 내려갔습니다. 이 코드는 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다.",
-        "당사 계산은 페이지 가격에서 20%를 빼는 방식이며, 다른 플랜도 같은 규칙을 적용했습니다. 카트에서 확인한 것은 Premium뿐이고, 나머지는 같은 계산을 따릅니다."
+        "1년 동안만 운영할 사이트라면, SONAR20을 적용한 호스팅어 12개월 Premium은 US$ 38.30입니다. GoDaddy Economy는 첫 해에 US$ 83.88입니다. 차이는 US$ 45.58로, 호스팅어가 더 저렴합니다."
       ],
       "comparisonTable": {
-        "caption": "호스팅어 국제 사이트의 11월 6일 가격(미국 달러). SONAR20 열은 당사의 계산입니다.",
+        "caption": "첫 해 결제 금액. 11월 6일 각 장바구니에서 구매하지 않고 확인했습니다. 호스팅어는 12개월 플랜에 SONAR20을 적용한 금액입니다.",
         "headers": [
           "플랜",
-          "프로모션가(월, 48개월)",
-          "SONAR20 적용(월)",
-          "SONAR20 적용(48개월 총액)",
-          "갱신가(월)"
+          "첫 해 결제 금액",
+          "도메인과 이메일"
         ],
         "rows": [
           [
-            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "US$ 1.99",
-            "US$ 1.59",
-            "US$ 76.42",
-            "US$ 10.99"
+            "[호스팅어 Premium, 12개월, SONAR20 적용](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 38.30",
+            "1년 무료"
           ],
           [
-            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "US$ 2.79",
-            "US$ 2.23",
-            "US$ 107.14",
-            "US$ 16.99"
-          ],
-          [
-            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "US$ 7.99",
-            "US$ 6.39",
-            "US$ 306.82",
-            "US$ 25.99"
+            "GoDaddy Economy, 1년",
+            "US$ 83.88",
+            "1년 무료"
           ]
         ]
       },
       "postParagraphs": [
-        "갱신 때는 마지막 열이 적용되며 SONAR20은 쓰이지 않습니다. 코드 규칙은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
+        "호스팅어 장바구니에는 블랙프라이데이 가격이 이미 적용되어 있었습니다. 12개월 Premium은 US$ 47.88로 표시되었고, SONAR20을 적용하자 US$ 38.30이 되었습니다. 이 코드는 신규 구매에 20% 할인을 줍니다."
       ]
     },
     {
-      "heading": "갱신을 포함한 4년",
+      "heading": "4년 동안도 호스팅어가 더 저렴합니다",
       "paragraphs": [
-        "호스팅어가 이깁니다. 48개월 분을 한 번에 결제하면 그 4년 동안은 갱신이 없습니다. GoDaddy는 1년 갱신을 세 번 거쳐야 4년이 되며, 갱신마다 정가가 적용됩니다."
+        "차이는 두 회사가 요금을 받는 방식에 있습니다. 호스팅어는 48개월 분을 한 번에 결제하며, 그 기간 안에는 갱신이 없습니다. 블랙프라이데이 가격이 이미 적용된 장바구니에서 48개월 Premium은 US$ 95.52로 표시되었고, SONAR20을 적용하자 US$ 76.42가 되었습니다.",
+        "GoDaddy의 프로모션가는 첫 1년 기간에만 적용됩니다. 4년이 되려면 정가로 연간 갱신을 세 번 해야 합니다. Economy는 갱신 한 번에 US$ 143.88입니다."
       ],
       "comparisonTable": {
         "headers": [
-          "옵션",
-          "첫 기간",
-          "연간 갱신가",
+          "플랜",
+          "결제 방식",
           "4년 합계"
         ],
         "rows": [
           [
-            "[호스팅어 Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48개월, SONAR20 적용",
-            "US$ 76.42, 일시불",
-            "4년 안에는 없음",
+            "[호스팅어 Premium, 48개월, SONAR20 적용](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 76.42 일시불 1회",
             "US$ 76.42"
           ],
           [
-            "GoDaddy Starter",
-            "US$ 71.88",
-            "US$ 71.88",
-            "US$ 287.52"
-          ],
-          [
             "GoDaddy Economy",
-            "US$ 83.88",
-            "US$ 143.88",
+            "1년 차 US$ 83.88, 갱신 3회 각 US$ 143.88",
             "US$ 515.52"
           ]
         ]
       },
       "postParagraphs": [
-        "GoDaddy 계산에는 1년 이후 Economy의 추가 혜택을 넣지 않았으므로, 그 합계는 최소값입니다. 여러 사이트용 Deluxe와 Ultimate는 카트에서 갱신가를 확인하지 않아 제외했습니다."
+        "GoDaddy는 24개월과 36개월 기간도 판매하지만, 이 글에서는 해당 기간의 미국 달러 가격을 확인하지 않았습니다. 그래서 계산에는 프로모션 1년과 갱신을 사용했습니다.",
+        "합계에는 두 회사 모두 1년 이후의 도메인과 이메일 갱신이 포함되지 않습니다."
+      ]
+    },
+    {
+      "heading": "유료 기간이 끝난 뒤: 플랜별 갱신가",
+      "paragraphs": [
+        "기간이 끝나면 두 회사 모두 정가로 돌아갑니다. SONAR20은 신규 구매에만 적용되므로, 호스팅어 갱신은 정가로 청구됩니다. 장바구니에 따르면 Premium은 48개월 후 12개월 동안 월 US$ 10.99로 갱신되며, 연간 US$ 131.88입니다. 12개월 플랜도 같은 요율로 갱신됩니다.",
+        "GoDaddy 장바구니에는 Economy가 2027년 11월에 US$ 143.88로 갱신된다고 나와 있습니다. Premium보다 연간 US$ 12 높습니다."
       ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-ko.webp",
@@ -178,47 +154,82 @@
       }
     },
     {
-      "heading": "첫 해에도 호스팅어가 앞섭니다",
+      "heading": "사이트만 필요하다면: GoDaddy Starter",
       "paragraphs": [
-        "12개월 Premium은 페이지 가격이 US$ 47.88, SONAR20을 쓰면 US$ 38.30입니다. GoDaddy Starter(US$ 71.88)보다 US$ 33.58 저렴하고, Economy(US$ 83.88)보다 US$ 45.58 저렴합니다.",
-        "1년 후에는 순위가 바뀝니다. Premium은 연 US$ 131.88로 갱신되고, Economy는 US$ 143.88, Starter는 US$ 71.88입니다. Starter는 갱신이 더 싸지만, 목록에 도메인, 이메일, SSL이 없습니다."
+        "Starter는 사이트만 제공하는 GoDaddy 플랜으로, 사이트 1개, 10 GB NVMe, cPanel이 포함되며 목록에 도메인이나 이메일은 없습니다. SSL은 모든 GoDaddy 플랜과 마찬가지로 AutoSSL로 제공됩니다. 첫 해 할인은 없습니다. 장바구니에는 1년에 US$ 71.88로 나오고, 같은 US$ 71.88로 갱신됩니다.",
+        "첫 해와 4년 모두 Starter는 SONAR20을 적용한 Premium보다 비쌉니다. 갱신할 때는 이 글의 세 플랜 중 가장 저렴하며, Premium보다 연간 US$ 60 낮습니다."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "플랜",
+          "첫 해",
+          "4년 합계",
+          "연간 갱신가"
+        ],
+        "rows": [
+          [
+            "[호스팅어 Premium, SONAR20 적용](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 38.30",
+            "US$ 76.42",
+            "US$ 131.88"
+          ],
+          [
+            "GoDaddy Starter",
+            "US$ 71.88",
+            "US$ 287.52",
+            "US$ 71.88"
+          ],
+          [
+            "GoDaddy Economy",
+            "US$ 83.88",
+            "US$ 515.52",
+            "US$ 143.88"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "도메인, 이메일, SSL: 1년 후 만료되는 것",
+      "paragraphs": [
+        "Premium과 Economy에서 도메인과 이메일은 1년 동안 무료입니다. 그 뒤에는 두 회사 모두 각각 따로 갱신되며, 위의 4년 합계에는 포함되지 않습니다. GoDaddy 안내에 따르면 무료 도메인에는 ICANN 수수료가 붙습니다.",
+        "SSL은 만료되지 않습니다. 호스팅어는 모든 플랜에 무료 인증서를 설치하며, 별도의 설정이나 비용이 없습니다. GoDaddy는 모든 플랜에 AutoSSL을 포함합니다. Economy 장바구니에는 Standard SSL도 추가되어 있습니다. 1년 무료이고, 그 후에는 연 US$ 119.99로 자동 갱신됩니다. AutoSSL 위에 얹는 유료 인증서이며, 갱신은 끌 수 있습니다."
       ]
     },
     {
       "heading": "환불: 두 곳 모두 30일",
       "paragraphs": [
-        "각 사이트의 안내에 따르면, 호스팅어는 구매 후 30일 이내 환불 요청을 받으며, GoDaddy의 국제 사이트에도 30일 환불 보장이 나와 있습니다. 이 점에서는 어느 쪽도 앞서지 않습니다."
+        "호스팅어는 구매 후 30일 이내 환불 요청을 받습니다. GoDaddy의 국제 사이트도 30일을 말합니다. 플랜 카드에는 30일이 표시되어 있고, 하단 안내에는 연간 플랜은 30일 이내, 월간 플랜은 48시간 이내에 전액 환불된다고 되어 있습니다. 이 점에서는 두 회사가 같습니다."
       ]
     },
     {
-      "heading": "입문 플랜에 포함된 것",
+      "heading": "더 필요하다면: Unlimited와 Cloud Startup",
       "paragraphs": [
-        "Premium 목록에는 주간 백업과 CDN도 포함됩니다. SSL은 페이지에 나와 있지 않습니다. GoDaddy Starter에는 저장 공간과 함께 cPanel이 제공되며, 나머지는 목록에서 빠져 있습니다.",
-        "Economy는 카트에서 이메일과 SSL이 1년 무료입니다. 그 후 SSL은 연 US$ 119.99로 자동 갱신되고, 이메일은 더 이상 무료가 아닙니다. 4년 표에는 둘 다 넣지 않았습니다."
+        "Premium 위에는 사이트 수가 무제한인 Unlimited와 Cloud Startup이 있습니다. 페이지 가격에 같은 20% 계산을 적용하면, Unlimited 48개월은 SONAR20으로 US$ 107.14이고 월 US$ 16.99로 갱신됩니다. Cloud Startup은 US$ 306.82이고 월 US$ 25.99로 갱신됩니다. 이 두 플랜은 장바구니에서 확인하지 않았습니다. GoDaddy의 Deluxe와 Ultimate는 갱신가도 확인하지 않아서 제외했습니다. 쿠폰 규칙은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
       ]
     },
     {
-      "heading": "어떤 플랜을 고를까: 결론",
+      "heading": "사이트를 얼마나 오래 운영할지에 따른 선택",
       "paragraphs": [
-        "4년 동안 사이트를 운영한다면 호스팅어입니다. SONAR20을 적용한 Premium은 4년 전체가 US$ 76.42로, Starter(US$ 287.52), Economy(US$ 515.52)보다 저렴하며 도메인과 이메일도 목록에 있습니다.",
-        "사이트를 4년을 훌쩍 넘게 운영할 계획이고 도메인이나 이메일이 필요 없다면 GoDaddy Starter입니다. 갱신은 연 US$ 71.88로, Premium 갱신가보다 US$ 60 낮지만 첫 기간 비용은 더 높습니다.",
-        "도메인, 이메일, SSL이 목록에 있고 연 US$ 143.88의 갱신을 감수할 수 있다면 GoDaddy Economy입니다. Premium 갱신가보다 높습니다.",
-        "어느 경우든 결제 전에 카트에서 갱신가를 확인하세요. 프로모션은 바뀔 수 있습니다."
+        "1년, 도메인과 이메일 포함: SONAR20을 적용한 호스팅어 Premium 12개월이 US$ 38.30입니다. 같은 기간 Economy는 US$ 45.58 더 비쌉니다.",
+        "4년, 도메인과 이메일 포함: SONAR20을 적용한 호스팅어 Premium 48개월이 전체 기간 US$ 76.42입니다. Economy는 그보다 6배 넘게 비쌉니다.",
+        "사이트만 오래 쓸 경우: GoDaddy Starter는 연간 갱신가가 US$ 71.88로 가장 낮지만, 첫 해와 4년 모두 SONAR20을 적용한 Premium보다 비쌉니다.",
+        "어떤 경우든 결제 전에 장바구니에서 갱신가를 확인하세요. 프로모션은 바뀔 수 있습니다."
       ]
     },
     {
       "heading": "자주 묻는 질문",
       "bullets": [
-        "호스팅어와 GoDaddy 중 어느 쪽이 나은가요? 사이트를 얼마나 오래 쓸지에 따라 다릅니다. 첫 해와 4년 합계 모두 SONAR20을 적용한 호스팅어 Premium이 두 GoDaddy 플랜보다 저렴합니다. 그 이후에는 GoDaddy Starter의 갱신이 더 쌉니다. 다른 기준은 [웹 호스트 고르는 법](/ko/reviews/choose-web-host-hostinger-ko)에 있습니다.",
-        "GoDaddy는 갱신도 같은 가격인가요? Economy는 아닙니다. 카트에서 1년 플랜은 첫 해 후 정가로 돌아가 US$ 83.88에서 US$ 143.88이 됩니다. Starter는 첫 해 할인이 없어서 같은 US$ 71.88로 갱신됩니다.",
-        "호스팅어 쿠폰은 갱신에도 적용되나요? 아니요. SONAR20은 신규 구매에서만 적용됩니다. 갱신은 [호스팅어 갱신 가이드](/ko/reviews/hostinger-renewal-sonar20-ko)를 보세요.",
-        "GoDaddy 사이트를 호스팅어로 옮길 수 있나요? 호스팅어 도움말 페이지에 따르면, 무료 이전은 다른 회사에서 온 Web, Cloud 또는 Agency 플랜의 사이트에 적용됩니다. 기존 서비스를 해지하기 전에 지원팀에 본인 플랜을 확인하세요."
+        "호스팅어와 GoDaddy 중 어느 쪽이 나은가요? 미국 달러 기준으로 SONAR20을 적용한 호스팅어 Premium은 첫 해, 4년 합계, 갱신 모두에서 GoDaddy Economy보다 저렴합니다. GoDaddy Starter가 앞서는 것은 갱신뿐이며, 그 플랜은 목록에 도메인과 이메일이 없습니다. 다른 기준은 [웹 호스트 고르는 법](/ko/reviews/choose-web-host-hostinger-ko)에 있습니다.",
+        "GoDaddy는 갱신도 같은 가격인가요? Economy는 아닙니다. 장바구니에서 1년 플랜은 첫 해 후 정가로 돌아가 US$ 83.88에서 US$ 143.88이 됩니다. Starter는 첫 해 할인이 없어서 같은 US$ 71.88로 갱신됩니다.",
+        "호스팅어 쿠폰은 갱신에도 적용되나요? 아니요. SONAR20은 신규 구매에만 적용되며, 갱신은 정가로 청구됩니다. 갱신은 [호스팅어 갱신 가이드](/ko/reviews/hostinger-renewal-sonar20-ko)를 보세요.",
+        "호스팅어 Premium에는 도메인이 포함되나요? 네. 1년 무료이며, 사이트당 메일함 2개도 함께 제공됩니다. 그 후 도메인은 호스팅어의 현재 가격으로 자동 갱신됩니다.",
+        "GoDaddy 사이트를 호스팅어로 옮길 수 있나요? 호스팅어 도움말 페이지에 따르면, 무료 이전은 다른 회사의 Web, Cloud 또는 Agency 플랜 사이트에 적용됩니다. 기존 플랜을 해지하기 전에 지원팀에 본인 플랜을 확인하세요."
       ]
     },
     {
       "heading": "작성자 소개",
       "paragraphs": [
-        "Em Casa com Cecília는 호스팅어에서 운영되며, 도메인도 2024년부터 호스팅어에 등록되어 있습니다. GoDaddy에 대해서는 이 글이 국제 사이트와 카트에 미국 달러로 표시된 내용을 사용합니다."
+        "Em Casa com Cecília는 호스팅어에서 운영되며, 도메인도 호스팅어에 등록되어 있습니다. GoDaddy에 대해서는 이 글이 국제 사이트와 장바구니에 미국 달러로 표시된 내용만 사용했습니다. 팀 중 누구도 GoDaddy를 써 본 적이 없습니다."
       ]
     }
   ],
@@ -255,12 +266,12 @@
   ],
   "decision": {
     "takeIf": [
-      "4년 동안 사이트를 운영할 거라면 호스팅어를 고르세요. SONAR20을 적용한 Premium은 한 번의 결제로 그 기간을 채웁니다.",
-      "도메인과 이메일이 입문 플랜 목록에 있고 주간 백업도 필요하다면 호스팅어를 고르세요."
+      "4년 동안 사이트를 운영한다면 호스팅어를 고르세요. SONAR20을 적용한 Premium은 한 번의 결제로 4년 전체를 채웁니다.",
+      "1년짜리 프로젝트에 도메인과 이메일이 필요하다면 호스팅어 Premium을 고르세요. 그 기간에는 Economy보다 저렴하고, 갱신도 더 쌉니다."
     ],
     "skipIf": [
-      "사이트를 4년 훌쩍 넘게 운영할 계획이고 도메인이나 이메일이 필요 없다면 GoDaddy Starter로 가세요. 갱신 비용이 더 적습니다.",
-      "도메인, 이메일, SSL이 목록에 있고 연 약 US$ 144의 갱신을 감수한다면 GoDaddy Economy로 가세요."
+      "사이트를 4년을 훌쩍 넘게 운영할 계획이고 도메인이나 이메일이 필요 없다면 GoDaddy Starter로 가세요. 갱신 비용이 가장 낮습니다.",
+      "cPanel을 원하고 첫 해, 4년, 갱신 모두에서 Premium보다 더 내도 괜찮다면 GoDaddy Economy로 가세요."
     ]
   }
 }
