@@ -32390,7 +32390,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conclusão",
         "paragraphs": [
-          "A air fryer levou para a bancada de casa o ar quente em circulação já usado em fornos. Sua história passa por aparelhos de formatos e recursos diferentes, até o modelo compacto lançado pela Philips em 2010.",
+          "A air fryer levou para a bancada de casa o ar quente em circulação já usado em fornos. Sua história passa por aparelhos de formatos e recursos diferentes, até a Airfryer lançada pela Philips em 2010.",
           "Quer usar melhor a sua? Leia [Air fryer: 10 fatos sobre como funciona e como usar melhor](/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia) ou faça a [batata rústica crocante](/receitas/batatas-rusticas-crocantes-na-air-fryer)."
         ],
         "image": {
@@ -36459,7 +36459,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para o atendimento ao comprador, o perfil é “Magazine Luiza - Loja Online”. Com dados até 30/09/2026, tinha reputação RA1000 e nota 8,2 de 10 no recorte de seis meses. A imagem abaixo mostra os indicadores desse recorte. No histórico de até três anos, o problema mais citado era atraso na entrega (24,18%).",
           "O perfil “Influenciador Magalu (Magazine Você)” trata do programa e não é verificado pelo Reclame Aqui. No mesmo recorte, aparecia como Não Recomendada, com 55 reclamações e nenhuma respondida. As cinco reclamações mais recentes da página eram de influenciadores sobre comissão; essa amostra não descreve todas as queixas.",
-          "Se o problema é com um pedido, procure o atendimento do Magalu, que vendeu ou intermediou a compra. Os indicadores acima são históricos e não substituem a conferência de quem vende e entrega o produto."
+          "Se o problema é com um pedido, procure o atendimento do Magalu, que vendeu ou intermediou a compra. Esses indicadores são históricos e não substituem a conferência de quem vende e entrega o produto."
         ],
         "image": {
           "src": "/images/reviews/magalu/reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
@@ -36502,7 +36502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A loja do Em Casa com Cecília",
         "paragraphs": [
-          "A minha loja segue esses critérios: o endereço é magazinevoce.com.br/magazineemcasacomcecilia/ e mostra o selo do programa com o nome Emcasacomcecilia. Os cupons da Cecília (que começam em 10EMCASACOMCECILIA e sobem de forma escalonada até 100EMCASACOMCECILIA) valem só para compras pelo navegador dentro da minha loja, em produtos vendidos e entregues pelo Magalu. As faixas e as regras estão no guia do cupom."
+          "A minha loja segue esses critérios: o endereço é magazinevoce.com.br/magazineemcasacomcecilia/ e mostra o selo do programa com o nome Emcasacomcecilia. Os cupons da Cecília (que começam em 10EMCASACOMCECILIA e sobem de forma escalonada até 100EMCASACOMCECILIA) valem só para compras pelo navegador (não no app do Magalu) dentro da minha loja, em produtos vendidos e entregues pelo Magalu. As faixas e as regras estão no guia do cupom."
         ],
         "links": [
           {
@@ -36518,7 +36518,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "magazinevoce.com.br é confiável? É o domínio do programa oficial, registrado em nome da Magazine Luiza S/A (CNPJ 47.960.950/0001-21) desde 2011. O Magalu cobra e atende o pedido; confira na página do produto quem vende e entrega.",
+          "magazinevoce.com.br é confiável? Sim: é o domínio do programa oficial, registrado em nome da Magazine Luiza S/A (CNPJ 47.960.950/0001-21) desde 2011. O Magalu cobra e atende o pedido; confira na página do produto quem vende e entrega.",
           "O Magazine Você é golpe? Não: é o programa oficial de lojas de influenciador do Magalu; golpe é um site fora desse domínio que se passa por ele, ou um pagamento fora do checkout do Magalu.",
           "Comprar no Magalu é seguro? O Magalu tem CNPJ próprio e reputação RA1000 no Reclame Aqui, mas nenhuma nota garante uma compra sem problema: confira o \"Vendido e entregue por\" e desconfie de boleto ou link de cobrança recebido por mensagem.",
           "Comprar no Magalu pelo WhatsApp é seguro? Depende de quem está do outro lado: use o canal oficial da Lu, aberto pela central de atendimento do Magalu; no aviso sobre pedidos internacionais taxados, o Magalu diz que nunca envia boletos ou links de cobrança por e-mail, SMS ou WhatsApp.",
@@ -41973,7 +41973,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Tire os 4 parafusos de transporte da parte traseira com a chave inclusa, antes de ligar a máquina;",
           "Instale a máquina na água e no esgoto seguindo o manual do modelo ou com a assistência técnica, e ligue na tomada;",
-          "Se quiser, pareie com o aplicativo SmartThings pelo QR code; na estreia, enquanto isso, a máquina fez uma calibração do tambor vazio, e o procedimento certo está no manual;",
+          "Se quiser, pareie com o aplicativo SmartThings pelo QR code; na estreia, enquanto isso, a máquina girou o tambor vazio, e o procedimento certo está no manual;",
           "Abasteça a gaveta: compartimento 1 para a pré-lavagem, 2 para a lavagem principal (com a pecinha azul encaixada se o sabão for líquido) e o do meio, com a florzinha, para o amaciante, diluído antes em um pouco de água se for concentrado;",
           "Coloque a roupa respeitando o limite de carga do programa no manual (13 kg para lavar, 8 kg para secar);",
           "Escolha o programa, a temperatura e a centrifugação no painel (na estreia, Toalhas, 60 °C e 800 RPM) e inicie: a máquina pesa a carga e recalcula o tempo;",
@@ -51209,7 +51209,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com ressalva no pós-venda. A Let's Eat It tem empresa identificada, showroom em São Paulo e presença no localizador da Le Creuset Brasil. A reputação no Reclame Aqui era Boa de abril a setembro, mas a resposta demorava cerca de 16 dias; confira devolução e frete antes de comprar, porque os textos da loja divergem."
+          "Sim, com ressalva no pós-venda. A Let's Eat It é uma empresa identificada, com showroom em São Paulo e presença no localizador da Le Creuset Brasil. A reputação no Reclame Aqui era Boa de abril a setembro, mas a resposta demorava cerca de 16 dias; confira devolução e frete antes de comprar, porque os textos da loja divergem."
         ]
       },
       {
@@ -51401,7 +51401,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito",
         "paragraphs": [
-          "Pelo que conferi, a Let's Eat It é uma loja confiável, com ressalva no pós-venda: empresa identificada, presença no localizador da Le Creuset Brasil e política dedicada de devolução de 30 dias. Eu conferiria as condições antes de fechar o pedido, porque o site também mantém textos diferentes sobre devolução e frete.",
+          "A Let's Eat It é uma loja confiável, com ressalva no pós-venda: empresa identificada, presença no localizador da Le Creuset Brasil e política dedicada de devolução de 30 dias. Eu conferiria as condições antes de fechar o pedido, porque o site também mantém textos diferentes sobre devolução e frete.",
           "O cuidado principal é com a expectativa de pós-venda: os dados do Reclame Aqui mostram boa resposta e solução entre quem avaliou, mas satisfação menor e espera pelo atendimento. Guarde nota fiscal, confirmação do pedido e fotos de eventual avaria para documentar o contato com a loja."
         ],
         "links": [
@@ -51492,7 +51492,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. Para o desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
+          "Sim, com uma ressalva: a Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. Para o desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
         ]
       },
       {
@@ -51582,7 +51582,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O dado que mais pesa a favor da Let's Eat It é a constância. Quase nada ficou sem resposta no período, e quem marca o caso como resolvido é o próprio cliente, não a empresa.",
           "A reputação ficou em Boa em todos os meses de abril a setembro, e não só num bom mês. A loja também aparece em 13º lugar no ranking de melhores empresas da categoria lojas de decoração e está no Reclame Aqui há 6 anos, com CNPJ e telefone de contato no perfil.",
-          "Esses números ajudam a avaliar o pós-venda: no recorte consultado, quase todas as reclamações tiveram resposta e a maioria das avaliadas foi marcada como resolvida. Não são uma previsão para cada pedido novo."
+          "Esses números ajudam a avaliar o pós-venda: no recorte de abril a setembro, quase todas as reclamações tiveram resposta e a maioria das avaliadas foi marcada como resolvida. Não são uma previsão para cada pedido novo."
         ]
       },
       {
@@ -51681,7 +51681,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A loja Let's Eat It é confiável segundo o Reclame Aqui? A reputação é Boa, com nota 7,6 de 10 no recorte de abril a setembro, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio. Confira o perfil atual antes da compra.",
+          "A loja Let's Eat It é confiável segundo o Reclame Aqui? Sim, com uma ressalva. A reputação é Boa, com nota 7,6 de 10 no recorte de abril a setembro, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio. Confira o perfil atual antes da compra.",
           "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, no recorte de abril a setembro. A nota média dada pelos consumidores nas 50 avaliações é 5,6.",
           "A Let's Eat It responde às reclamações? Sim: 99,1% das 115 reclamações do recorte de abril a setembro tinham resposta; só uma aguardava retorno. Esse índice muda com o tempo.",
           "Por que 94% foram resolvidas, mas só 54% voltariam a comprar? Os dois índices vêm das mesmas 50 avaliações e medem coisas diferentes: se o problema foi resolvido e se o consumidor compraria de novo. Os percentuais, sozinhos, não mostram os motivos.",
@@ -51873,7 +51873,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pix, cashback, frete e primeira compra: o que mais existe na loja",
         "paragraphs": [
-          "O Pix pode somar com o cupom; cashback e frete têm condições próprias. Confira o valor final no checkout."
+          "O Pix soma com o cupom; cashback e frete têm condições próprias. Confira o valor final no checkout."
         ],
         "bullets": [
           "Pix: muitos produtos mostram um preço com 5% de desconto no Pix — o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Esse desconto soma com o MAUAD: pela nossa conta, aplicando um desconto sobre o outro, o jogo sairia por R$ 56,77 no Pix com o cupom, sem o frete.",
@@ -74911,7 +74911,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Veja quem opera a Dr. Peanut, o CNPJ, a ligação com a Supley e as regras publicadas de compra, frete e atendimento antes de decidir.",
+    "description": "Sim, a Dr. Peanut é confiável: marca de Curitiba com CNPJ ativo, ligada à Supley. Veja as regras de troca, o frete grátis por região e a reputação no Reclame Aqui.",
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. A marca é confiável? Veja o CNPJ, de quem ela é, as regras de troca, o frete e o Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -74939,7 +74939,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Dr. Peanut é uma marca brasileira de Curitiba, com CNPJ ativo e ligação à Supley, o mesmo grupo da Max Titanium. O Reclame Aqui mostra reputação Boa nos últimos 6 meses e Ótima nos últimos 12. Frete grátis e troca têm regras próprias, então confira antes de comprar, e use o [cupom Dr. Peanut](/cupons/dr-peanut) no carrinho."
+          "Sim, a Dr. Peanut é confiável: marca brasileira de Curitiba, com CNPJ ativo e ligação à Supley, o mesmo grupo da Max Titanium. O Reclame Aqui mostra reputação Boa nos últimos 6 meses e Ótima nos últimos 12. Frete grátis e troca têm regras próprias, então confira antes de comprar, e use o [cupom Dr. Peanut](/cupons/dr-peanut) no carrinho."
         ]
       },
       {
@@ -75106,7 +75106,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dr. Peanut é confiável? A empresa tem CNPJ ativo, fábrica em Curitiba e a Supley como sócia, com políticas de compra publicadas. No Reclame Aqui, a reputação é Boa nos últimos 6 meses e Ótima nos últimos 12; confira períodos e condições antes de comprar.",
+          "A Dr. Peanut é confiável? Sim. A empresa tem CNPJ ativo, fábrica em Curitiba e a Supley como sócia, com políticas de compra publicadas. No Reclame Aqui, a reputação é Boa nos últimos 6 meses e Ótima nos últimos 12; confira períodos e condições antes de comprar.",
           "A Dr. Peanut é brasileira? Sim. A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., com matriz em Curitiba (PR) e atividade de fabricação de produtos alimentícios no CNPJ.",
           "A Dr. Peanut é da Max Titanium? Não: as duas são marcas irmãs, ligadas à mesma empresa, a Supley. O site da Dr. Peanut chega a vender um whey que leva o nome das duas.",
           "De quem é a Dr. Peanut? A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., e a Supley Laboratório de Alimentos e Suplementos Nutricionais aparece como sócia no CNPJ. A Supley reúne também Max Titanium, Probiótica e Znack That.",
@@ -75380,7 +75380,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dá para confiar na Dr. Peanut?",
         "paragraphs": [
           "Dá para comprar com cautela. O Reclame Aqui mostra uma empresa que responde quase tudo (95,6% nos últimos 6 meses) e resolve a maior parte entre as reclamações avaliadas (84,2%), com reputação Boa em 6 meses (nota 7,4) e Ótima em 12 meses (nota 8,1). As avaliações de compra do perfil estavam em 4,6 de 5.",
-          "Foram 68 reclamações nos 6 meses mais recentes, contra 121 nos seis anteriores (189 na janela de 12 meses). A contagem caiu, mas sem o volume de vendas não dá para saber se a taxa por pedido caiu. O tempo médio de resposta do recorte recente foi 7 dias e 7 horas.",
+          "Foram 68 reclamações nos 6 meses mais recentes, contra 121 nos seis anteriores (189 na janela de 12 meses). A contagem caiu, mas sem o volume de vendas não dá para saber se a taxa por pedido caiu. O tempo médio de resposta nos últimos 6 meses foi 7 dias e 7 horas.",
           "Os pontos de atenção são dois. Só 52,6% de quem avaliou nos últimos 6 meses voltaria a fazer negócio, e o que mais aparece nas queixas é pedido não recebido e entrega. Por isso, acompanhe o rastreio, guarde o número do pedido e abra o perfil no Reclame Aqui no dia da compra."
         ]
       },
@@ -75775,13 +75775,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O que conta é o valor total final do carrinho, já com os descontos, inclusive o do cupom da parceria: se o carrinho só passa do mínimo antes do desconto, confira se o frete grátis continua depois de aplicar o código. A faixa do topo do site diz \"Frete grátis para todo Brasil - consulte as regras\", e as regras são as faixas acima.",
           "Depois que o pedido é feito, a loja não cobra nenhuma taxa. Se alguém pedir pagamento extra por Pix, link ou boleto para \"liberar\" ou \"reenviar\" a entrega, desconfie: é o tipo de mensagem usada em golpes.",
-          "Como a parcela mínima é de R$ 50, um pedido pequeno não chega às 8 vezes: o número de parcelas sem juros que aparece no checkout depende do total do carrinho."
+          ""
         ],
         "bullets": [
           "**Extravio ou roubo no transporte:** pela política, a loja reenvia o pedido sem custo.",
           "**Entrega não reconhecida:** a política pede contestação em até dez dias.",
           "**Item errado:** avise a loja em até sete dias, conforme a política.",
-          "**Cartão:** Amex, Visa, Mastercard, Hipercard, Elo e Diners; até oito parcelas sem juros, com mínimo de R$ 50 por parcela.",
+          "**Cartão:** Amex, Visa, Mastercard, Hipercard, Elo e Diners; até oito parcelas sem juros, com mínimo de R$ 50 por parcela. Em pedido pequeno, o número de parcelas sem juros que aparece no checkout depende do total do carrinho.",
           "**Outros meios publicados:** Pix, Pix parcelado em quatro vezes sem juros e boleto à vista."
         ]
       },
@@ -76589,7 +76589,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena usar a Lejour?",
         "paragraphs": [
-          "A Lejour tem CNPJ ativo desde 2017 e trabalha com a Fast Shop. A central descreve saque por Pix para o CPF de quem publicou a lista, após validação de identidade, e o perfil no Reclame Aqui tinha reputação Ótima nos últimos 12 meses. Esses dados ajudam a avaliar o serviço, sem garantir o resultado de cada caso. O plano Basic permite começar sem custo de plano e conhecer o formato, com taxa sobre presentes.",
+          "Do ponto de vista da confiança, sim. A Lejour tem CNPJ ativo desde 2017 e trabalha com a Fast Shop. A central descreve saque por Pix para o CPF de quem publicou a lista, após validação de identidade, e o perfil no Reclame Aqui tinha reputação Ótima nos últimos 12 meses. Esses dados ajudam a avaliar o serviço, sem garantir o resultado de cada caso. O plano Basic permite começar sem custo de plano e conhecer o formato, com taxa sobre presentes.",
           "A taxa de 3,89% do Basic pesa mais quanto maior a lista; compare com Premium e Pro se a expectativa de presentes em dinheiro for alta. Para pagamento no cartão, a central informa que o crédito fica disponível 15 dias corridos depois da compra. Como o presente vira crédito em dinheiro, avalie se esse formato atende ao casal."
         ]
       },
@@ -77136,14 +77136,14 @@ export const reviewsData: unknown[] = [
           "**Basic:** para começar sem custo de plano e avaliar se o site e a lista atendem ao casal. Considere a taxa dos presentes, o domínio opcional e a quantidade de saques além dos dois gratuitos.",
           "**Premium:** compare se o casal quer domínio e os recursos pagos, se pretende fazer vários saques ou se espera que a redução da taxa compense o preço do plano.",
           "**Pro:** considere se os idiomas e os recursos adicionais fazem diferença para os convidados. Pela taxa, compare o custo extra com a diferença de percentual da tabela.",
-          "Na dúvida, comece no Basic: com o Premium em promoção, a R$ 99,90, e o casal pagando a taxa, a conta chega a R$ 16.650 em presentes, como mostra a simulação abaixo. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
+          "Na dúvida, comece no Basic: com o Premium em promoção, a R$ 99,90, e o casal pagando a taxa, o plano só compensa a partir de R$ 16.650 em presentes, como mostra a simulação abaixo. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
         ],
         "postParagraphs": [
           "O cálculo usa o preço do plano dividido pela diferença entre as taxas. No exemplo Basic versus Premium, a diferença é de 0,60 ponto percentual: R$ 99,90 ÷ 0,006. A tabela mostra também as outras duas comparações, sem contar domínio, saques ou recursos extras.",
           "Se a taxa fica com os convidados, essa redução beneficia os convidados, não o saldo líquido do casal. Nesse caso, avalie o plano pelos recursos e pelos demais custos que ele evita. Se o casal paga a taxa, refaça a conta com o preço efetivamente disponível no painel; o Premium usado neste exemplo estava em promoção."
         ],
         "comparisonTable": {
-          "caption": "Ponto de equilíbrio pela redução da taxa, com os preços usados na conta. Conta nossa, supondo que o casal pague a taxa; não inclui domínio, saques ou outros recursos.",
+          "caption": "Ponto de equilíbrio pela redução da taxa, calculado com os preços da tabela de planos e supondo que o casal pague a taxa; não inclui domínio, saques ou outros recursos.",
           "headers": [
             "Comparação",
             "Diferença na taxa",
@@ -77187,7 +77187,7 @@ export const reviewsData: unknown[] = [
           "Qual a taxa da Lejour? Depende do plano; os percentuais estão na tabela de taxas acima. Num presente de R$ 200 no Basic, cerca de R$ 8 pela nossa conta.",
           "Quem paga a taxa da lista de presentes? O casal escolhe: a taxa pode sair do valor que o casal recebe ou ser paga pelos convidados. A opção fica em Configurações, em \"Sobre site e lista\".",
           "Os presentes da Lejour são entregues em casa? Não. Todos os presentes da lista são virtuais: o convidado dá um valor, que vira crédito em dinheiro para o casal usar por Pix ou em produtos da Fast Shop.",
-          "Dá para usar o dinheiro da lista na Fast Shop? Sim. O casal pode usar o crédito em dinheiro, em produtos da Fast Shop ou dividir entre os dois. A página da Fast Shop consultada informava cashback mínimo de 4% nas compras com o crédito; confira as condições atuais antes de contar com esse valor.",
+          "Dá para usar o dinheiro da lista na Fast Shop? Sim. O casal pode usar o crédito em dinheiro, em produtos da Fast Shop ou dividir entre os dois. A Fast Shop informava cashback mínimo de 4% nas compras com o crédito; as condições podem mudar, então confirme antes de contar com esse valor.",
           "Em quanto tempo o dinheiro cai na conta? Presentes pagos por Pix ou boleto viram crédito depois da confirmação do pagamento, e os pagos no cartão, em 15 dias corridos. O saque por Pix sai em até 1 dia útil, depois da validação de identidade.",
           "O convidado pode parcelar o presente? Sim. No cartão, o convidado parcela em até 12x, com juros de 3,49% ao mês pagos por ele, e também pode pagar por Pix ou boleto."
         ]
@@ -77237,7 +77237,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como criar a lista de casamento na Lejour: prévia em três passos, conta para salvar, taxa dos presentes, titularidade e saque por Pix.",
+    "description": "Como criar a lista de casamento na Lejour: prévia do site em três passos, conta para salvar, quem paga a taxa dos presentes, titularidade da lista e saque por Pix.",
     "metaDescription": "Como criar a lista de casamento na Lejour em 3 passos, com as telas do cadastro, a taxa dos presentes e o saque por Pix. Consulta de 14/10/2026.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -77253,7 +77253,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os três primeiros passos da Lejour montam a prévia do site: nomes, data e tema. Depois, crie uma conta para salvar, monte os presentes virtuais e defina quem paga a taxa. O saque vai ao CPF de quem publica a lista; combinem isso antes."
+          "Os três primeiros passos da Lejour montam a prévia do site: nomes, data e tema. Depois, criem uma conta para salvar, montem os presentes virtuais e definam quem paga a taxa. O saque vai ao CPF de quem publica a lista; combinem isso antes."
         ]
       },
       {
@@ -79593,7 +79593,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o catálogo da loja mostrava em 14 de outubro de 2026. Onde há desconto, o preço de lista aparece ao lado do preço do dia. Os dois valores são anteriores ao cupom CECILIA10."
+          "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o catálogo da loja mostrava em 14 de outubro de 2026. Onde há desconto, o preço de lista aparece ao lado do preço de outubro. Os dois valores são anteriores ao cupom CECILIA10."
         ],
         "image": {
           "src": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
@@ -79774,7 +79774,7 @@ export const reviewsData: unknown[] = [
           "O frete da Black Skull é grátis? Depende da região. O frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
           "A Black Skull tem desconto no Pix? A loja não anuncia desconto próprio no Pix. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o CECILIA10 vale nelas.",
           "Dá para trocar um produto comprado na Black Friday? Dá. O arrependimento vale 7 dias corridos depois do recebimento, com a loja pagando a postagem. A troca comum pode ser pedida em até 30 dias corridos da entrega, com frete pago por você e produto lacrado. Defeito fica por conta da loja.",
-          "Compro na Black Friday e dou de Natal: o prazo de troca dá? Conta da entrega: um pedido recebido no começo de dezembro pode ter troca comum pedida até o fim do mês. O arrependimento, de 7 dias, é de quem comprou.",
+          "Compro na Black Friday e dou de Natal: o prazo de troca dá? Conta da entrega: um pedido recebido no começo de dezembro pode ter troca comum pedida em até 30 dias corridos da entrega. O arrependimento, de 7 dias, é de quem comprou.",
           "Vale a pena esperar a sexta-feira para comprar? Não dá para prever o preço da sexta-feira. Compare a oferta atual com a tabela de outubro para o mesmo produto, incluindo frete e desconto. Considere também estoque e prazo de entrega: estar abaixo da tabela hoje não impede uma oferta melhor depois."
         ]
       }
@@ -80092,7 +80092,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia de Black Friday da Dr. Peanut: como conferir ofertas, aplicar DREMCASACOMCECILIA e comparar o total com o frete grátis por região.",
+    "description": "Guia de Black Friday da Dr. Peanut: como conferir as ofertas, aplicar o cupom DREMCASACOMCECILIA e comparar o total com o mínimo do frete grátis da sua região.",
     "metaDescription": "DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Black Friday 2026: confira ofertas, desconto aplicado e mínimo de frete do seu pedido.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
@@ -80232,7 +80232,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Dr. Peanut? Não identificamos anúncio de campanha: em novembro, o site não tinha datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
+          "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não anunciou campanha: em novembro, o site não tinha datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
           "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste.",
           "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido antes do cupom, como testamos em novembro: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
           "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? O mínimo da sua região: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. O cupom não entra nessa conta.",
@@ -82228,7 +82228,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você escolhe pelos menores custos por proteína ou creatina da tabela: os produtos Black Skull lideravam nesse recorte, antes dos descontos."
+        "Você escolhe pelos menores custos por proteína ou creatina da tabela: os produtos Black Skull tinham os menores custos, antes dos descontos."
       ],
       "skipIf": [
         "Você quer mais proteína por dose e aceita pagar mais por ela: aí é a Max Titanium.",
@@ -90014,7 +90014,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Na cotação de 18/10/2026, o 80% HD tinha o menor custo por 100 g de proteína entre os wheys comparados. O 100% HD sem cupom e a Growth no Pix tinham valores próximos. A tabela usa cartão, sem cupom e sem frete; na Black Skull, o preço consultado era igual nas formas de pagamento."
+          "Na cotação de 18/10/2026, o 80% HD tinha o menor custo por 100 g de proteína entre os wheys comparados. O 100% HD sem cupom e a Growth no Pix tinham valores próximos. A tabela usa cartão, sem cupom e sem frete; na Black Skull, o preço era igual nas formas de pagamento."
         ],
         "comparisonTable": {
           "headers": [
@@ -90064,7 +90064,7 @@ export const reviewsData: unknown[] = [
         "heading": "Whey 100% HD ou Whey Concentrado da Growth",
         "paragraphs": [
           "Nos preços de outubro, sem frete, os custos por 100 g de proteína eram próximos: R$ 26,66 no 100% HD da Black Skull, de 1,8 kg, sem cupom, e R$ 26,34 na Growth pelo Pix. No cartão, a Growth custava R$ 29,26 por 100 g.",
-          "Aplicando os 10% do **CECILIA10** ao preço de outubro, o pote Black Skull de 1,8 kg ficava em R$ 251,91: **R$ 23,99 por 100 g de proteína** e R$ 5,04 por dose. Nesse recorte, o custo ficava abaixo da Growth no Pix e no cartão, sem incluir frete.",
+          "Aplicando os 10% do **CECILIA10** ao preço de outubro, o pote Black Skull de 1,8 kg ficava em R$ 251,91: **R$ 23,99 por 100 g de proteína** e R$ 5,04 por dose. Nesses preços, o custo ficava abaixo da Growth no Pix e no cartão, sem incluir frete.",
           "A Growth usa proteína concentrada do soro do leite. O 100% HD combina proteínas do soro (concentrada, isolada e hidrolisada), proteína concentrada de leite e peptídeos hidrolisados. A página da Black Skull chama esses peptídeos de colágeno hidrolisado; a lista de ingredientes diz apenas “peptídeos hidrolisados”. Se você quer proteína só do soro, compare o 80% HD com a Growth; o 100% HD é um blend, e os preços dele estão na tabela acima."
         ],
         "images": [
@@ -90247,7 +90247,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Menor custo por grama de proteína, em outubro:** Whey 80% HD da Black Skull, R$ 23,17 por 100 g sem cupom ou R$ 20,86 com CECILIA10, sem frete.",
           "**Quer whey só de soro do leite:** Whey 80% HD da Black Skull ou Whey Concentrado da Growth, com a mesma dose de 30 g e 23 g de proteína.",
-          "**Quer o Whey 100% HD:** com o CECILIA10, ele sai por menos grama de proteína que a Growth, no Pix ou no cartão; sem cupom, fica perto da Growth no Pix.",
+          "**Quer o Whey 100% HD:** com o CECILIA10, ele custa menos por grama de proteína que a Growth, no Pix ou no cartão; sem cupom, fica perto da Growth no Pix.",
           "**Menor custo de creatina em outubro:** Creator refil de 500 g da Black Skull, R$ 0,40 por dose antes do cupom, sem frete. O refil não vem com dosador.",
           "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 10% mais caro que o Pix. Na Black Skull, o preço não muda."
         ],
@@ -90259,8 +90259,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Black Skull ou Growth: qual é melhor? Nos preços de outubro, sem frete, a Black Skull tinha menor custo na creatina e, com CECILIA10, também no whey. Sem cupom, o 100% HD e a Growth no Pix tinham custos próximos por grama de proteína. Fórmula e frete também pesam na escolha.",
-          "Qual whey tinha menor custo, Black Skull ou Growth? Nos preços de outubro, o 80% HD da Black Skull tinha o menor preço por 100 g de proteína, sem frete. Isso não compara sabor, digestão nem resultado de uso.",
-          "Qual creatina tinha menor custo, Black Skull ou Growth? Nos preços de outubro, sem frete, o Creator refil de 500 g tinha o menor custo entre os produtos da tabela. Todos os comparados declaram creatina monohidratada e 5 g por dose.",
+          "Qual whey custa menos por proteína, Black Skull ou Growth? Nos preços de outubro, o 80% HD da Black Skull tinha o menor preço por 100 g de proteína, sem frete. Isso não compara sabor, digestão nem resultado de uso.",
+          "Qual creatina custa menos, Black Skull ou Growth? Nos preços de outubro, sem frete, o Creator refil de 500 g tinha o menor custo entre os produtos da tabela. Todos os comparados declaram creatina monohidratada e 5 g por dose.",
           "Black Skull é boa? Esta comparação responde só por rótulo e preço. Quem é a marca, o site oficial e as trocas estão em [Black Skull é confiável?](/reviews/black-skull-e-confiavel).",
           "A Growth tem cupom? Não temos cupom da Growth, porque ela não é parceira do site. Na loja dela, o Pix sai cerca de 10% mais barato que o cartão.",
           "Vale esperar a Black Friday? O CECILIA10 soma com as promoções do site. Os preços deste guia são de antes de novembro; a Black Friday da Black Skull tem guia próprio: [Black Friday Black Skull](/reviews/black-friday-black-skull)."
@@ -99820,7 +99820,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A loja tem lista de casamento? Quando verificamos, a página de lista de presentes estava sem itens. Confira no site antes de contar com essa função; se ela não estiver disponível, combine a peça diretamente com o casal.",
+          "A loja tem lista de casamento? A página de lista de presentes estava sem itens. Confira no site antes de contar com essa função; se ela não estiver disponível, combine a peça diretamente com o casal.",
           "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
           "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 128,42; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Moedor de Pimenta Black Onyx, Le Creuset](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 295,20.",
           "O que dar de presente de casamento de R$ 300 a 700? [Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-pratos-chapeu-organico-preto-matte-450ml-28x6-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 322,90; [Jogo 6 Taças Champagne Ardea Verde Selva 220 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 329,90; [Faqueiro Aço Inox Avalon 30 peças, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 383,90; e [Travessa Retangular Heritage Cotton 26 cm, Le Creuset](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 529,00.",
@@ -99860,7 +99860,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe o aparelho Shimeji Gold se o casal usa micro-ondas e lava-louças todo dia: ele leva filete dourado.",
-        "Passe se depende da lista de presentes da loja sem ter confirmado que a função está disponível; quando verificamos, ela estava sem itens."
+        "Passe se depende da lista de presentes da loja sem ter confirmado que a função está disponível; a página da lista estava sem itens."
       ]
     }
   },
@@ -104661,7 +104661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, a Growth tinha o menor custo de proteína nos wheys comparados. Na creatina sem sabor de quinhentos gramas, a Mais Mu ficava abaixo com o código, enquanto a Growth tinha vantagem no Pix sem ele. Compare o preço atual e o total com frete antes de escolher; as contas por 100 g estão abaixo."
+          "Nos preços de outubro, a Growth tinha o menor custo de proteína nos wheys comparados. Na creatina sem sabor de 500 g, a Mais Mu ficava abaixo com o código, enquanto a Growth tinha vantagem no Pix sem ele. Compare o preço atual e o total com frete antes de escolher; as contas por 100 g estão abaixo."
         ]
       },
       {
@@ -118561,7 +118561,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar na Skelt?",
         "paragraphs": [
-          "Do lado da empresa, a Skelt mostra o que um comprador procura: uma S/A ativa com CNPJ no rodapé, sede em Curitiba, regras de troca e de frete publicadas e canais de atendimento. O perfil do Reclame Aqui está em nome de outra empresa, que tem a S/A como sócia; essa é a ligação a conferir.",
+          "Do lado da empresa, a Skelt mostra o que um comprador procura: uma S/A ativa com CNPJ no rodapé, sede em Curitiba, regras de troca e de frete publicadas e canais de atendimento. O perfil do Reclame Aqui está em nome de outra empresa, que tem a S/A como sócia.",
           "O site declara que os produtos são 100% veganos e não são testados em animais. É uma afirmação da marca, não uma certificação de terceiros.",
           "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e use o cupom no checkout do site oficial."
         ]
@@ -118579,7 +118579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Skelt é confiável? A loja é operada por empresa registrada, com CNPJ ativo e sede em Curitiba, e publica regras de troca, reembolso e frete. O ponto de atenção é o perfil do Reclame Aqui, em nome de outro CNPJ, de empresa que tem a S/A como sócia.",
+          "A Skelt é confiável? Sim. A loja é operada por empresa registrada, com CNPJ ativo e sede em Curitiba, e publica regras de troca, reembolso e frete. O ponto de atenção é o perfil do Reclame Aqui, em nome de outro CNPJ, de empresa que tem a S/A como sócia.",
           "De qual empresa é a Skelt? O rodapé do site identifica a SKELT BEAUTY BRANDS S/A como razão social. O perfil da marca no Reclame Aqui está em nome da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com a S/A como sócia. O autocompletar do Google sugere “skelt é da creamy”, e o Reclame Aqui lista a Creamy entre as marcas “também acessadas”. Este texto não afirma nenhuma relação societária entre as duas.",
           "Qual é o CNPJ da Skelt? O CNPJ da loja é 38.290.785/0001-57, da SKELT BEAUTY BRANDS S/A, com início de atividade em 2020 na consulta pública. O CNPJ 17.616.018/0001-15, da BELEZE & OLIVEIRA, é o que aparece no perfil do Reclame Aqui.",
           "O site skelt.com.br é o oficial? O endereço oficial é skelt.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública da Receita.",
@@ -119108,8 +119108,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Compare as ofertas de novembro com os preços de outubro e veja como usar o SKEMCASACOMCECILIA. A ação de brindes com cupom de novembro já terminou.",
-    "metaDescription": "Black Friday Skelt 2026: o cupom SKEMCASACOMCECILIA dá 10% OFF. O esquenta, a data da Black Friday, os preços de autobronzeador e o Pix.",
+    "description": "Compare as ofertas de novembro com os preços de outubro e veja como usar o SKEMCASACOMCECILIA. A ação de brindes com cupom em novembro já terminou; a Black Friday vem depois.",
+    "metaDescription": "Black Friday Skelt 2026: o cupom SKEMCASACOMCECILIA dá 10% OFF. A data da Black Friday, os preços de autobronzeador de outubro e o Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -119127,7 +119127,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Datas e ofertas: o que foi confirmado",
+        "heading": "Datas e ofertas da Black Friday Skelt",
         "paragraphs": [
           "A Black Friday de 2026 cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em outubro, a coleção “BF - Live” indicava uma live de aquecimento; o nome sozinho não confirmava descontos. A ação de brindes e desconto progressivo de 5 e 6 de novembro anunciou 10%, 15% ou 20%, conforme o número de produtos, e já terminou; suas condições não garantem a oferta do dia 27. O registro de outubro mostrava:"
         ],
@@ -119150,7 +119150,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços para comparar",
         "paragraphs": [
-          "Guarde os preços de venda de outubro, antes do cupom: são eles que valem na comparação com o esquenta e com a sexta. Quando o produto mostra preço cheio, a tabela traz os dois valores."
+          "Guarde os preços de venda de outubro, antes do cupom: são eles que valem na comparação com as ofertas de novembro e com a sexta. Quando o produto mostra preço cheio, a tabela traz os dois valores."
         ],
         "comparisonTable": {
           "headers": [
@@ -119237,9 +119237,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como se preparar para o esquenta e para a sexta",
+        "heading": "Como se preparar para a sexta",
         "paragraphs": [
-          "Estas etapas valem no esquenta e na Black Friday:"
+          "Estas etapas valem em qualquer oferta, inclusive na Black Friday:"
         ],
         "image": {
           "src": "/images/reviews/skelt/black-friday-skelt-capa.webp",
@@ -119511,7 +119511,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar na Bagaggio?",
         "paragraphs": [
-          "A loja publica CNPJ, sede no Brasil, regras de troca, reembolso e garantia. No Reclame Aqui, o perfil da loja virtual é Boa em 6 meses e Ruim em 12. Confira as condições do seu pedido; as datas de marca, e-commerce e CNPJ estão separadas no quadro histórico.",
+          "Sim, vale comprar na Bagaggio: a loja publica CNPJ, sede no Brasil, regras de troca, reembolso e garantia. No Reclame Aqui, o perfil da loja virtual é Boa em 6 meses e Ruim em 12. Confira as condições do seu pedido; as datas de marca, e-commerce e CNPJ estão separadas no quadro histórico.",
           "Este texto fala da loja. Se a marca é boa para a mala que você procura, é outra pergunta, e ela fica para os artigos de produto.",
           "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e use o cupom no carrinho do site oficial."
         ],
@@ -119536,7 +119536,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Bagaggio é confiável? A empresa que opera o site tem CNPJ ativo e publica regras de troca, reembolso e garantia. No Reclame Aqui, o perfil da loja virtual é Boa em 6 meses e Ruim em 12; confira também prazo e condições do pedido.",
+          "A Bagaggio é confiável? Sim. A empresa que opera o site tem CNPJ ativo e publica regras de troca, reembolso e garantia. No Reclame Aqui, o perfil da loja virtual é Boa em 6 meses e Ruim em 12; confira também prazo e condições do pedido.",
           "De qual país é a Bagaggio? A própria marca diz que é brasileira e que foi fundada em 1942 no Rio de Janeiro. A empresa que opera o site está registrada no Brasil, com sede em Duque de Caxias (RJ).",
           "Qual é o CNPJ da Bagaggio? O CNPJ do rodapé do site é 08.956.394/0001-68, da BAG-ONLINE COMERCIO DE BOLSAS LTDA. Confira o número na consulta pública da Receita.",
           "O site bagaggio.com.br é seguro e oficial? O endereço oficial é bagaggio.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a Receita.",
@@ -119802,7 +119802,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Bagaggio?",
         "paragraphs": [
-          "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de maio a outubro, mas a janela de 12 meses até outubro ainda estava Ruim, então a melhora é recente. Esses números mostram o atendimento registrado, não o resultado de um novo pedido."
+          "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de maio a outubro, mas a janela de 12 meses até outubro ainda estava Ruim, então a melhora é recente. Essa reputação mostra o atendimento registrado, não o resultado de um novo pedido."
         ],
         "bullets": [
           "Confira se está no perfil Loja Virtual e se o CNPJ corresponde ao site.",
@@ -119950,7 +119950,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que aconteceu no nosso teste",
         "paragraphs": [
-          "Em 22/10/2026, montamos sacolas no site até o resumo, sem identificação e sem finalizar. Aplicamos o cupom nos três produtos da tabela. O Pix da tabela veio de uma consulta à loja, não de uma etapa de pagamento. Não houve compra, e a sacola foi esvaziada depois."
+          "Em 22/10/2026, montamos sacolas no site até o resumo, sem identificação e sem finalizar. Aplicamos o cupom nos três produtos da tabela. Não houve compra, e a sacola foi esvaziada depois."
         ],
         "comparisonTable": {
           "headers": [
@@ -120004,7 +120004,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e retirada",
         "paragraphs": [
-          "O frete é calculado pelo CEP, no carrinho, e o cupom não muda o frete. A loja não divulga frete grátis como regra geral, então confira o valor no resumo antes de pagar. A retirada em lojas próximas aparece conforme a disponibilidade, e só o titular da compra retira, com documento original com foto."
+          "O frete é calculado pelo CEP, no carrinho, e o cupom não muda o frete. A loja não divulga frete grátis, então confira o valor no resumo antes de pagar. A retirada em lojas próximas aparece conforme a disponibilidade, e só o titular da compra retira, com documento original com foto."
         ]
       },
       {
@@ -122600,7 +122600,7 @@ export const reviewsData: unknown[] = [
         "heading": "Creator ou Creatine: a página não explica a diferença",
         "paragraphs": [
           "Creator e Creatine sem sabor têm a mesma lista de ingredientes (creatina monohidratada), a mesma porção de 5 g e o mesmo número de notificação. O [refil de 500 g da Creatine](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-refil500g/p) custa R$ 78,90 e o do Creator, R$ 39,90, quase o dobro. A página não explica a diferença, e o rótulo não permite dizer qual tem melhor qualidade.",
-          "Pela conta do rótulo, o Creator refil de 500 g é a opção mais barata por grama de creatina da marca. O Creator de 300 g também sai na frente do [Creatine de 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p): R$ 9,97 contra R$ 13,97 por 100 g. Quem quer só creatina monohidratada e decide pelo preço fica com o Creator.",
+          "Pela conta do rótulo, o Creator refil de 500 g é a opção mais barata por grama de creatina entre as avulsas da marca. O Creator de 300 g também sai na frente do [Creatine de 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p): R$ 9,97 contra R$ 13,97 por 100 g. Quem quer só creatina monohidratada e decide pelo preço fica com o Creator.",
           "Na página, o modo de consumo indica 1 dosador de 5 g em água, uma vez ao dia, ou o que um nutricionista ou outro profissional da saúde orientar. O refil Creator 500 g avisa que não acompanha dosador. Na linha Creator, o aviso diz que pode conter amendoim e derivados de soja, leite, ovo e trigo, e que não contém lactose nem glúten. Confira as instruções e os avisos da embalagem que você vai comprar."
         ],
         "images": [
@@ -122786,14 +122786,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As 10 fragrâncias lado a lado",
         "paragraphs": [
-          "A Skelt vende dez body splash de 100 ml, todos a R$ 99,90. Este guia reúne as notas publicadas e as agrupa em cítrico e fresco, floral e doce e gourmand. O agrupamento é nosso; ninguém da equipe usou os produtos. A escolha é por preferência de notas, não por um ranking de cheiro.",
+          "A Skelt vende dez body splash de 100 ml, todos a R$ 99,90. Este guia reúne as notas publicadas e as agrupa em três perfis: cítrico e fresco, floral, e doce e gourmand. O agrupamento é nosso. A escolha é por preferência de notas, não por um ranking de cheiro.",
           "A tabela traz as notas de topo que a Skelt publica em cada página e o perfil em que o guia encaixou a fragrância. Onde a página não tem a pirâmide de notas, a célula diz isso e traz o que a descrição da loja cita. A posição é a do produto na ordem de mais vendidos do site da Skelt, entre todos os produtos da loja, e não só entre body splash."
         ],
         "comparisonTable": {
           "headers": [
             "Fragrância",
             "Perfil (do guia)",
-            "Notas publicadas ou descrição da fonte indicada",
+            "Notas de topo ou descrição da Skelt",
             "Preço (23/10/2026)",
             "Mais vendidos"
           ],
@@ -123146,7 +123146,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Para presente com hidratante, compare primeiro o Duo Hidden Flowers: na tabela, ele fica 10,9% abaixo dos mesmos itens avulsos. Confirme a diferença no dia da compra.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "Com as dez no mesmo preço, o que decide é o perfil e se a compra é para presente. As sugestões partem das notas que a Skelt publica, e ninguém do site usou os produtos."
+          "Com as dez no mesmo preço, o que decide é o perfil e se a compra é para presente. As sugestões partem das notas que a Skelt publica."
         ],
         "bullets": [
           "Quer uma fragrância de dia, cítrica e leve: [Amalfi Sunset](https://www.skelt.com.br/body-splash-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Unexpected Day](https://www.skelt.com.br/body-splash-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
@@ -123474,7 +123474,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os pré-treinos da Black Skull pelo rótulo",
         "paragraphs": [
-          "A comparação reúne o [Bone Crusher de 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula--150g/p), o [BOPE de 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bope-150g/p), o [kit de três BOPE de 150 g](https://www.blackskullusa.com.br/combo-pre-treino-bope-c-3-unid/p) e o [Legacy](https://www.blackskullusa.com.br/pre-treino-legacy/p). A composição usa o Bone Crusher 150 g, exceto Uva.",
+          "A comparação reúne o [Bone Crusher de 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula--150g/p), o [BOPE de 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bope-150g/p), o [kit de três BOPE de 150 g](https://www.blackskullusa.com.br/combo-pre-treino-bope-c-3-unid/p) e o [Legacy](https://www.blackskullusa.com.br/pre-treino-legacy/p). Os números de composição do Bone Crusher são os do pote de 150 g, exceto o sabor Uva.",
           "A tabela traz os valores por dose, como estão na tabela nutricional da página de cada produto. A creatina é de 3000 mg por dose no BOPE e no Bone Crusher 150 g, e de 2000 mg no Legacy. O carboidrato é de 2,2 a 2,3 g por dose no BOPE (a lista de ingredientes inclui maltodextrina), 0,9 g no Bone Crusher 150 g e 1,5 g no Legacy."
         ],
         "comparisonTable": {
@@ -123720,7 +123720,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Compare 80% HD, 100% HD, 3W Core, Gourmet e Turbo por composição, proteína declarada e custo de referência. O guia distingue versões e tamanhos.",
+    "description": "Whey Black Skull: 80% HD, 100% HD, 3W Core, Gourmet e Turbo comparados por proteína declarada, composição e custo por 100 g de proteína, versão por versão.",
     "metaDescription": "O cupom CECILIA10 dá 10% OFF em todo o site da Black Skull. Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
@@ -123971,7 +123971,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "80% HD Refil 900 g — preço de Morango/Cookies",
+              "80% HD Refil 900 g (preço de Morango/Cookies)",
               "30 g, 23 g de proteína",
               "30",
               "R$ 159,90",
@@ -124940,7 +124940,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Pelos preços da tabela, o kit de 5 × 600 g tem o menor custo por 100 g. Confira se os 3 kg cabem no consumo e na validade das embalagens; depois compare o total com frete.",
         "emphasisAfterParagraph": 5,
         "paragraphs": [
-          "Na tabela, o kit de 5 × 600 g sai a R$ 8,41 por 100 g sem cupom e R$ 7,57 com o código, e, com o código, o total passa do mínimo de frete grátis em todas as regiões. Esse resultado favorece o kit se você pretende consumir os 3 kg dentro da validade das embalagens.",
+          "Na tabela, o kit de 5 × 600 g sai a R$ 8,41 por 100 g sem cupom e R$ 7,57 com o código, e o total passa do mínimo de frete grátis em todas as regiões já antes do cupom. Esse resultado favorece o kit se você pretende consumir os 3 kg dentro da validade das embalagens.",
           "Para levar um único pote, o de 600 g custa menos por 100 g que o de 250 g: R$ 9,98 sem cupom ou R$ 8,98 com o código, antes do frete.",
           "Para testar a pasta, leve 2 × 250 g em vez do pote avulso de 250 g: sai R$ 9,53 por 100 g, 8% abaixo do avulso. O pote de 250 g sozinho só faz sentido se você quer um pote só.",
           "Para quem busca 1 kg, ou quer potes de 250 g todo mês, a assinatura com o cupom: 4 pastas saem por R$ 77,67, R$ 7,77 por 100 g, abaixo do kit de 4 × 250 g com cupom (R$ 79,23). Sem assinatura, o kit de 4 × 250 g.",
@@ -127088,7 +127088,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "metaDescription": "Whey Mais Mu com o cupom MMEMCASACOMCECILIA e 10% OFF: pote, refil, sachê e isolado comparados por dose e por 100 g de proteína.",
-    "description": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e cupom.",
+    "description": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e quanto cai com o cupom e o Pix.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "updatedAt": "2026-11-07",
@@ -127783,7 +127783,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preço por unidade e por grama de proteína",
         "paragraphs": [
           "O preço da unidade é o da página no preço normal, sem Pix e sem cupom. Para o R$ por grama de proteína, dividimos esse preço pela proteína declarada por unidade. É uma régua de custo entre estes produtos, não uma classificação de qualidade.",
-          "O cupom de 10% e o Pix de 3% podem somar, mas essas contas não entram nos valores desta seção. As regras do código e da compra estão na seção seguinte."
+          "O cupom de 10% soma com o Pix de 3%, mas essas contas não entram nos valores desta seção. As regras do código e da compra estão em Cupom e compra, mais abaixo."
         ]
       },
       {
@@ -127814,9 +127814,9 @@ export const reviewsData: unknown[] = [
           "Nenhuma das barras e dos wafers ganha em tudo. Por unidade, os números apontam para caminhos diferentes:"
         ],
         "bullets": [
-          "**Mais proteína por unidade e menor custo por grama no recorte:** Mukebar 720 g, com 15 g numa barra de 60 g e R$ 0,86 por grama de proteína na conta de referência. A tabela nutricional é do sabor Chocolate com Avelã.",
-          "**Menor gasto por unidade no recorte:** Chocowheyfer Sem Cobertura, a R$ 5,99. É um wafer de 25 g com 6 g de proteína, não uma barra do mesmo tamanho da Mukebar.",
-          "**Menos açúcar total e calorias por unidade entre as tabelas lidas:** Veggie Wafer, de 25 g. Apesar do nome vegetal, contém glúten e pode conter leite.",
+          "**Mais proteína por unidade e menor custo por grama entre estes produtos:** Mukebar 720 g, com 15 g numa barra de 60 g e R$ 0,86 por grama de proteína na conta de referência. A tabela nutricional é do sabor Chocolate com Avelã.",
+          "**Menor gasto por unidade entre estes produtos:** Chocowheyfer Sem Cobertura, a R$ 5,99. É um wafer de 25 g com 6 g de proteína, não uma barra do mesmo tamanho da Mukebar.",
+          "**Menos açúcar total e calorias por unidade entre os produtos comparados:** Veggie Wafer, de 25 g. Apesar do nome vegetal, contém glúten e pode conter leite.",
           "**Unidade intermediária:** Crush Bar, com 35 g e 10 g de proteína; consulte as duas linhas de sabores para calorias e açúcar.",
           "**Wafer maior, com mais proteína por unidade:** Chocowheyfer Max, com 50 g e 12 g de proteína. Os quatro sabores variam em calorias e açúcar, como mostra a tabela."
         ],
@@ -127832,7 +127832,7 @@ export const reviewsData: unknown[] = [
           "Chocowheyfer tem açúcar? Nos sabores com tabela nesta comparação, há açúcar total e 0 g de açúcar adicionado declarado. Veja a quantidade por sabor na tabela de calorias; “zero adicionado” não significa ausência de açúcar total.",
           "Mukebar tem glúten? No sabor Chocolate com Avelã, sim: a página declara CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos demais sabores, confira o aviso de alérgenos na página e na embalagem antes de comprar.",
           "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem a Chocowheyfer Max, com 12 g em 50 g.",
-          "Tem barra vegana? Não encontramos barra vegana à venda no catálogo consultado. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostrava selo vegano. Confira o aviso de alérgenos antes de comprar."
+          "Tem barra vegana? A listagem da loja não traz barra vegana. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostra selo vegano. Confira o aviso de alérgenos antes de comprar."
         ]
       }
     ],
@@ -127865,8 +127865,8 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Quando o sabor decide sozinho: esta comparação não avalia gosto.",
-        "Quando a escolha depende de uma restrição que o rótulo consultado não esclarece.",
-        "Quando é necessária opção vegetal certificada: a página consultada não mostrava selo vegano, e o Veggie Wafer pode conter leite."
+        "Quando a escolha depende de uma restrição que o rótulo não esclarece.",
+        "Quando é necessária opção vegetal certificada: a página não mostra selo vegano, e o Veggie Wafer pode conter leite."
       ]
     }
   },
@@ -128604,7 +128604,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. Nas páginas brasileiras da marca, não encontramos guia de número de série, gravação ou selo para autenticar a peça. Em caso de dúvida sobre uma peça, o SAC da marca é o caminho."
+          "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo para autenticar a peça. Em caso de dúvida sobre uma peça, o SAC da marca é o caminho."
         ]
       },
       {
@@ -128736,7 +128736,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Existe Le Creuset falsa? A Le Creuset Brasil publicou um alerta sobre falsas promoções e descontos em mídias sociais e em páginas da internet. Ela pede atenção a qualquer oferta que não venha dos canais oficiais: o site da marca, e-mail com \"@lecreuset.com\" ou um parceiro autorizado.",
           "Le Creuset é made in France ou Tailândia? Depende do produto. Na ficha da caçarola buffet de ferro fundido que lemos, o país de origem é France. Na da mini cocotte de cerâmica, é Tailândia. Nenhuma das três fichas lidas traz China.",
-          "Le Creuset tem número de série para conferir? Nas páginas brasileiras que consultamos, não encontramos guia de número de série, gravação ou selo. Em caso de dúvida sobre uma peça, procure o SAC da marca.",
+          "Le Creuset tem número de série para conferir? Não: as páginas brasileiras da marca não trazem guia de número de série, gravação ou selo. Em caso de dúvida sobre uma peça, procure o SAC da marca.",
           "A garantia da Le Creuset vale se eu comprei em outra loja? Segundo a marca, a análise de garantia vale para qualquer produto Le Creuset, independentemente do país ou do canal de compra. Guarde a nota fiscal ou outro comprovante de propriedade.",
           "O outlet da Le Creuset vende peça original? O outlet é loja oficial da marca. Vende seconds, B-grade e modelos descontinuados, com pequenas variações, sem troca nem devolução por desistência depois da venda na loja física, e com garantia para defeito de fabricação.",
           "Como saber se uma loja é revendedora autorizada da Le Creuset? Procure a loja no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, buscando pela cidade. A lista é da própria Le Creuset Brasil."
@@ -130881,7 +130881,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-quadro-2710.webp",
           "alt": "Quadro com o preço de 15 produtos da Black Skull no site com o CECILIA10 e no Mercado Livre",
-          "caption": "Quadro nosso com os preços lidos; em amarelo, o menor preço de cada produto, antes do frete.",
+          "caption": "Quadro nosso com os preços dos dois canais; em amarelo, o menor preço de cada produto, antes do frete.",
           "objectFit": "contain",
           "aspectRatio": 1.1152
         },
@@ -155876,7 +155876,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Somamos as peças avulsas de 32 conjuntos Bagaggio: 24 custam a soma exata. Veja as diferenças de preço e o que conferir antes de comprar.",
+    "description": "Somamos as peças avulsas de 32 conjuntos Bagaggio: 24 custam a soma exata e 6 saem mais baratos. Veja a diferença de cada um e o que conferir antes de comprar.",
     "metaDescription": "CECILIA10: 10% OFF na Bagaggio. Dos 32 conjuntos conferidos, 24 custam a soma das peças avulsas. Veja a conta e confira o total no carrinho.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
@@ -156055,7 +156055,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a garantia?",
         "paragraphs": [
-          "A garantia vitalícia anunciada para malas da marca Bagaggio compradas a partir de 29/04/2024 cobre vícios de fabricação, conforme o regulamento. Veja as condições no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia). A garantia vale para as malas do conjunto, inclusive a Downtown PP."
+          "A garantia vitalícia anunciada para malas da marca Bagaggio compradas a partir de 29/04/2024 cobre vícios de fabricação, conforme o regulamento. Veja as condições no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia). A Downtown PP do conjunto com a Detroit G é da linha Travelcross e fica fora da garantia vitalícia."
         ]
       },
       {
@@ -156069,7 +156069,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Conjunto de malas Bagaggio compensa? Se você precisa de todas as peças e o custo final for menor que o das mesmas malas avulsas, pode compensar. Dos 32 conjuntos conferidos, 24 custam a soma exata dos produtos avulsos.",
-          "Havia conjuntos mais baratos que as peças separadas? Seis disponíveis: Malta P e M Branca e Marrom, Malta P e M Preta, Nova Bahamas P e G Preta, Detroit P e M Preta e Santiago P e G Azul e Preta.",
+          "Havia conjuntos mais baratos que as peças separadas? Seis disponíveis: Malta P e M Branca e Marrom, Malta P e M Preta, Nova Bahamas P e G Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
           "Qual tinha a maior diferença de preço? Entre os disponíveis, o Malta P e M Branca e Marrom: R$ 174,95 abaixo das peças avulsas. O Nova Bahamas P e G Bege tinha diferença maior, mas estava sem estoque.",
           "Conjunto de 3 malas de bordo Bagaggio vale a pena? Pelo preço, não muda nada. O conjunto de três malas de bordo Detroit custava R$ 749,70, o mesmo que três malas avulsas de R$ 249,90.",
           "O cupom CECILIA10 vale para conjunto de malas? Pela regra, o CECILIA10 vale em todo o site, inclusive em produto com desconto. Ainda não testamos o cupom num conjunto, então confira o desconto no resumo do pedido.",
@@ -156643,13 +156643,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Milos Breeze avulso, no trio ou em miniatura",
         "paragraphs": [
-          "O Milos Breeze vem em frasco de 100 ml e também aparece no Trio Exotic Trip, com Grand Bahama e Pink Sands, e no Kit Miniaturas Exotic Set, em 15 ml. Pelos preços consultados, o trio custava um pouco menos que os três avulsos; confira o valor atual antes de escolher."
+          "O Milos Breeze vem em frasco de 100 ml e também aparece no Trio Exotic Trip, com Grand Bahama e Pink Sands, e no Kit Miniaturas Exotic Set, em 15 ml. Pelos preços da tabela, o trio custava um pouco menos que os três avulsos; confira o valor atual antes de escolher."
         ]
       },
       {
         "heading": "O que é o Body Splash Milos Breeze",
         "paragraphs": [
-          "As notas e características abaixo vêm da ficha da Skelt; as contas são nossas, com os preços da consulta.",
+          "As notas e características abaixo vêm da ficha da Skelt; as contas são nossas, sobre os preços da tabela.",
           "O [Body Splash Milos Breeze](https://www.skelt.com.br/body-splash-milos-breeze/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é um spray de 100 ml. A ficha resume a fragrância como \"Frescor com a energia do verão grego\" e diz que \"o mar azul da Grécia é a principal inspiração\", com \"notas aquosas e intensas\". As dez fragrâncias de body splash da Skelt, lado a lado, estão no [guia de qual body splash Skelt escolher](/reviews/body-splash-skelt-qual-escolher).",
           "A página anuncia \"alta fixação e projeção duradoura\", sem tempo em horas, e chama a fragrância de \"ideal para todos os momentos do dia\". O modo de uso da loja: \"Aplique a quantidade suficiente na área da sua escolha. Reaplique sempre que desejar.\"",
           "A página declara o produto vegano, cruelty free, sem parabenos e óleo mineral e dermatologicamente testado. A composição publicada começa por álcool etílico, seguido de água e perfume, e termina em citral."
@@ -156742,7 +156742,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trio ou avulso: qual compensa",
         "paragraphs": [
-          "Pelos preços consultados, o trio quase empatava com os avulsos: R$ 297,70 contra R$ 299,70 pelos três frascos, diferença de R$ 2,00 (0,7%). Por ml, ambos ficavam perto de R$ 1,00.",
+          "Pelos preços da tabela, o trio quase empatava com os avulsos: R$ 297,70 contra R$ 299,70 pelos três frascos, diferença de R$ 2,00 (0,7%). Por ml, ambos ficavam perto de R$ 1,00.",
           "A escolha depende das fragrâncias e do preço do dia. Quem quer só o Milos Breeze leva o frasco avulso; quem também quer o Grand Bahama e o Pink Sands pode levar o trio, que custava R$ 2,00 a menos. Quem ainda não conhece as três começa pelo Exotic Set, com as mesmas fragrâncias em 15 ml."
         ]
       },
@@ -156750,9 +156750,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual o tamanho do Body Splash Milos Breeze? O frasco tem 100 ml, em spray, segundo a ficha. Em 15 ml, ele vem no Kit Miniaturas Exotic Set, com Grand Bahama e Pink Sands.",
-          "Quanto custa o Skelt Milos Breeze? Nos preços consultados, custava R$ 99,90 no cartão. Com 10% de cupom e 5% de Pix, a conta dá R$ 85,41; confira o valor final na sacola.",
-          "O Trio Exotic Trip compensa? Nos preços consultados, custava R$ 297,70, R$ 2,00 a menos que os três avulsos. Compensa se você quer as três fragrâncias; confira o preço atual antes de comprar.",
-          "Tem hidratante Skelt Milos Breeze? Não encontramos, no catálogo da Skelt, hidratante, creme ou perfume para cabelos com essa fragrância. Confira o catálogo atual.",
+          "Quanto custa o Skelt Milos Breeze? Nos preços da tabela, custava R$ 99,90 no cartão. Com 10% de cupom e 5% de Pix, a conta dá R$ 85,41; confira o valor final na sacola.",
+          "O Trio Exotic Trip compensa? Nos preços da tabela, custava R$ 297,70, R$ 2,00 a menos que os três avulsos. Compensa se você quer as três fragrâncias; confira o preço atual antes de comprar.",
+          "Tem hidratante Skelt Milos Breeze? Não. O catálogo da Skelt não traz hidratante, creme ou perfume para cabelos com essa fragrância.",
           "Qual a inspiração do Milos Breeze? Segundo a ficha, o mar azul da Grécia. A Skelt não compara o body splash com perfume de outra marca.",
           "Quanto tempo dura o Milos Breeze? A ficha diz \"alta fixação e projeção duradoura\" e não publica tempo em horas.",
           "Milos Breeze ou Grand Bahama? Pelas fichas, o Milos tem topo de água de coco e acorde aquoso e fundo de cedro e patchouli; o Grand Bahama tem abacaxi e bergamota no topo e baunilha e musgo de carvalho no fundo. Para comparar com o Solar Muse, veja o [artigo do Solar Muse](/reviews/body-splash-skelt-solar-muse).",
@@ -157644,7 +157644,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No recorte da tabela, o Corrente Bege tinha o menor preço por peça e o Linho Off White Borda Verde, o maior. Antes de comprar para quatro lugares, confirme a quantidade vendida, a disponibilidade e o total com frete. Peças esgotadas na consulta ficaram fora da seleção."
+          "No recorte da tabela, o Corrente Bege tinha o menor preço por peça e o Linho Off White Borda Verde, o maior. Antes de comprar para quatro lugares, confirme a quantidade vendida, a disponibilidade e o total com frete. Peças esgotadas ficaram fora da seleção."
         ]
       },
       {
@@ -165245,7 +165245,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Quer pagar menos na marca Bagaggio: a Detroit, a mais barata da lista.",
-        "Quer uma Bagaggio mais leve que a Detroit: a Route; a Downtown Travelcross pesa menos entre as malas da tabela.",
+        "Quer uma Bagaggio mais leve que a Detroit: a Route; a mais leve da tabela é a Downtown Travelcross.",
         "Quer mais espaço e aceita uma medida maior: a Cartagena, com 51,3 litros."
       ],
       "skipIf": [
@@ -165832,7 +165832,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Presente de Natal na Bagaggio por faixa de preço: carteira, nécessaire, bolsa e mochila, com o preço de cartão e o cupom CECILIA10.",
+    "description": "Presente de Natal na Bagaggio por faixa de preço: carteira, nécessaire, bolsa de viagem e mochila para notebook, com o preço de cartão e o cupom CECILIA10 de 10%.",
     "metaDescription": "Presente de Natal na Bagaggio com o cupom CECILIA10 e 10% OFF: as opções em três faixas de preço, com o preço de cartão de cada uma.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
@@ -166080,7 +166080,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "A ideia é ganhar desconto no kit Joá: ele custa a soma das peças, sem desconto próprio.",
-        "Passe se a ideia é somar a promoção da segunda peça com o CECILIA10: ela usava outro cupom e não acumulava."
+        "A ideia é somar a promoção da segunda peça com o CECILIA10: ela usava outro cupom e não acumulava."
       ]
     }
   },
@@ -166761,7 +166761,7 @@ export const reviewsData: unknown[] = [
           "Como usar o iluminador? Aplique uma quantidade generosa na mão ou na luva, espalhe em movimentos circulares até uma cor uniforme e espere secar antes de se vestir, conforme a marca.",
           "Quanto tempo dura? De 12 a 24 horas, pela descrição da marca.",
           "Serve no rosto? A Skelt indica corpo e rosto. Este texto segue essa indicação e não diz qual é o resultado no rosto.",
-          "Precisa de luva? Não. A Skelt diz que o produto pode ser passado com as mãos ou com a luva, que sai avulsa por R$ 34,90 na tabela de preços.",
+          "Precisa de luva? Não. A Skelt diz que o produto pode ser passado com as mãos ou com a luva, que sai avulsa por R$ 34,90.",
           "Compensa comprar no kit? Com as três peças avulsas somando R$ 254,70 e o kit a R$ 191,78, a diferença é de R$ 62,92, antes de cupom e Pix. Se você queria só o mousse e a luva, os dois avulsos somavam R$ 154,80, menos que o kit."
         ]
       }
@@ -174051,7 +174051,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os modelos e o preço de cada um",
         "paragraphs": [
-          "Cinco modelos, com as cores agrupadas: três ficam no limite nominal do item pessoal de LATAM e Azul citado abaixo. Os preços no cartão, as medidas e os litros foram consultados nas páginas dos produtos em 31/10/2026; a expansão muda a classificação.",
+          "Cinco modelos, com as cores agrupadas: três ficam no limite nominal do item pessoal de LATAM e Azul citado abaixo. Os preços no cartão, as medidas e os litros são os das páginas dos produtos em 31/10/2026; a expansão muda a classificação.",
           "A Explore aparece com preço riscado de R$ 399,90, e a Voyage, de R$ 649,90. As duas colunas da direita cruzam a medida da loja com o item pessoal (45 × 35 × 20 cm) e a mala pequena (55 × 35 × 25 cm) que LATAM e Azul publicam; a regra inteira está no capítulo da bagagem de mão."
         ],
         "comparisonTable": {
@@ -175365,7 +175365,7 @@ export const reviewsData: unknown[] = [
           "Conta nossa: com a tabela nutricional de cada rótulo e o preço do site, que está no capítulo do cupom, a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100."
         ],
         "comparisonTable": {
-          "caption": "Proteína declarada por porção nos rótulos consultados. Quantidade no pote e custo por 100 g de proteína são estimativas próprias, com o preço do site antes do cupom.",
+          "caption": "Proteína declarada por porção nos rótulos. Quantidade no pote e custo por 100 g de proteína são estimativas próprias, com o preço do site antes do cupom.",
           "headers": [
             "Whey",
             "Proteína por dose",
@@ -175651,7 +175651,7 @@ export const reviewsData: unknown[] = [
           "A creatina da Black Skull é boa? Pelo rótulo, o Creator traz só creatina monohidratada e sai mais barato por grama que o Creatine, que tem a mesma lista de ingredientes.",
           "A Black Skull tem whey zero lactose ou isolado? Não, segundo a loja: os wheys comparados declaram \"Contém lactose\". Confira o rótulo da versão que você vai comprar.",
           "O cupom CECILIA10 vale no Mercado Livre? Não: ele vale só no site da Black Skull, onde dá 10% e soma com as promoções do site.",
-          "A Black Skull é confiável? Os dados da empresa e a reputação estão em dois guias próprios, linkados no capítulo de confiabilidade."
+          "A Black Skull é confiável? Pelo que a empresa publica, sim: CNPJ ativo e regras de troca, frete e atendimento no site. Os dados da empresa e a reputação estão em dois guias próprios, linkados no capítulo de confiabilidade."
         ]
       }
     ],
@@ -176291,7 +176291,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Simple Organic é confiável? É a marca da Simple Organic Beauty S.A., empresa ativa de Florianópolis com o CNPJ no rodapé do site, o mesmo do Reclame Aqui, que publica regras de troca, frete e pagamento. O ponto de atenção é o prazo de troca, de 7 dias com o lacre inviolado.",
+          "A Simple Organic é confiável? Sim. É a marca da Simple Organic Beauty S.A., empresa ativa de Florianópolis com o CNPJ no rodapé do site, o mesmo do Reclame Aqui, que publica regras de troca, frete e pagamento. O ponto de atenção é o prazo de troca, de 7 dias com o lacre inviolado.",
           "A Simple Organic é da Hypera? Pela própria marca, sim: a página Sobre nós diz que a Simple faz parte da Hypera Pharma desde 2020. A empresa que opera o site segue sendo a Simple Organic Beauty S.A.",
           "A Simple Organic tem loja física? Tem: a página Onde encontrar lista 10 pontos em nove cidades, de Fortaleza a Porto Alegre, quase todos em shopping. Brasília não está na lista; o capítulo de lojas traz a relação completa.",
           "Qual é o site oficial da Simple Organic? É simpleorganic.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública.",
@@ -176423,7 +176423,7 @@ export const reviewsData: unknown[] = [
               "99,9%"
             ],
             [
-              "Índice de solução — finalizadas e avaliadas",
+              "Índice de solução (finalizadas e avaliadas)",
               "90,2%",
               "88,2%",
               "84,4%",
@@ -179002,7 +179002,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Skelt",
         "paragraphs": [
-          "Dá. A loja é de uma S/A registrada, a SKELT BEAUTY BRANDS, com sede em Curitiba, e publica as regras de troca, reembolso e frete: 20 dias para trocar sem defeito e 45 com defeito, contados da entrega, com a primeira devolução grátis. No Reclame Aqui, a loja respondeu a quase todas as reclamações dos últimos 6 meses e resolveu mais de 90%. As queixas mais comuns são produto com defeito e atraso, então confira o produto ao receber e abra o chamado cedo se o pedido atrasar. O perfil do Reclame Aqui está em nome de outra empresa ligada à marca, e o site não explica essa ligação. Detalhes em [Skelt é confiável?](/reviews/skelt-e-confiavel) e [Skelt no Reclame Aqui](/reviews/skelt-reclame-aqui-nota-reputacao)."
+          "Dá. A loja é de uma S/A registrada, a SKELT BEAUTY BRANDS, com sede em Curitiba, e publica as regras de troca, reembolso e frete: 20 dias para trocar sem defeito e 45 com defeito, contados da entrega, com a primeira devolução grátis. No Reclame Aqui, a loja respondeu a quase todas as reclamações dos últimos 6 meses e resolveu mais de 90%. As queixas mais comuns são produto com defeito e atraso, então confira o produto ao receber e abra o chamado cedo se o pedido atrasar. O perfil do Reclame Aqui está em nome de outra empresa, que tem a S/A como sócia. Detalhes em [Skelt é confiável?](/reviews/skelt-e-confiavel) e [Skelt no Reclame Aqui](/reviews/skelt-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -180312,7 +180312,7 @@ export const reviewsData: unknown[] = [
               "99,1%"
             ],
             [
-              "Índice de solução — reclamações finalizadas e avaliadas",
+              "Índice de solução (reclamações finalizadas e avaliadas)",
               "94%"
             ],
             [
@@ -180326,7 +180326,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Entre os avaliadores do recorte usado na tabela, 54% disseram que voltariam a comprar. O índice de solução não mede a satisfação de todos os clientes. No histórico de até 3 anos, produto não recebido é o tema mais citado, seguido das taças;. Relatos de falsificação são alegações de consumidores, sem confirmação; a presença no localizador Le Creuset é um dado separado. Guarde a nota fiscal e confira a peça ao receber.",
+          "Entre os avaliadores do recorte usado na tabela, 54% disseram que voltariam a comprar. O índice de solução não mede a satisfação de todos os clientes. No histórico de até 3 anos, produto não recebido é o tema mais citado, seguido das taças. Relatos de falsificação são alegações de consumidores, sem confirmação; a presença no localizador Le Creuset é um dado separado. Guarde a nota fiscal e confira a peça ao receber.",
           "A política de troca ajuda: 30 dias da entrega para devolver, com reembolso integral ou crédito na loja sem validade, frete grátis na devolução, promoção que também pode ser devolvida e defeito coberto por 90 dias. Há também um texto padrão de reembolso com regras diferentes: se uma regra decidir a sua compra, peça a confirmação por escrito ao atendimento. A loja física é a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h, sem agendamento; quem mora perto troca ali, mas o pedido do site não pode ser retirado lá. O CNPJ completo, as políticas e o que observar antes de comprar estão em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel)."
         ],
         "images": [
@@ -188103,7 +188103,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você quer comprar de uma empresa com CNPJ ativo, site e checkout próprios e política de reembolso escrita.",
-        "Você quer avaliar a compra com a garantia comercial de trinta dias e consegue manter as demais unidades fechadas enquanto prova uma.",
+        "Você quer avaliar a compra com a garantia de satisfação de 30 dias e consegue manter as demais unidades fechadas enquanto prova uma.",
         "Você pode esperar o prazo de preparo e transporte que o checkout calcula pelo CEP."
       ],
       "skipIf": [
@@ -188163,7 +188163,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com atenção à entrega: na aba de seis meses, a HolyFoods tem reputação Boa, nota 7,5 e todas as reclamações respondidas. Entre as avaliadas, 91,1% foram resolvidas. Pedido não recebido é a maior categoria da janela geral; abaixo estão os períodos e o que fazer se o pedido der problema."
+          "Sim, com atenção à entrega: na aba de seis meses, a HolyFoods tem reputação Boa, nota 7,5 e todas as reclamações respondidas. Entre as avaliadas, 91,1% foram resolvidas. Pedido não recebido é a maior categoria de reclamações do perfil; abaixo estão os períodos e o que fazer se o pedido der problema."
         ]
       },
       {
@@ -188411,7 +188411,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Monte o carrinho e clique em \"Finalizar compra\"",
         "paragraphs": [
-          "Escolha o que quer e abra o carrinho. O carrinho lateral mostra os itens, o aviso da promoção da loja e o frete, mas não tem campo de cupom. Clique em “Finalizar compra” para chegar à tela em que o código é digitado.",
+          "Escolha o que quer e abra o carrinho. O carrinho lateral mostra os itens, o aviso da promoção da loja e o frete, mas não tem campo de cupom. O código é digitado na tela seguinte.",
           "Clique em \"Finalizar compra\". O endereço muda para seguro.holyfoods.com.br, e é assim mesmo: o checkout é da própria loja, com o mesmo carrinho."
         ]
       },
@@ -188709,7 +188709,7 @@ export const reviewsData: unknown[] = [
           "caption": "Mesma leitura da tabela dos kits, com os 30% já no preço; o rendimento é o da página de cada produto."
         },
         "postParagraphs": [
-          "A sopa avulsa sai a R$ 3,48 por porção de 250 g, e o pack, de 10 sachês individuais, a R$ 4,19 por sachê, pelo número que a loja mostra no card dele. Pelos números dela, o sachê do pack sai mais caro que a porção do avulso. Antes de comparar, confira o peso de cada sachê na embalagem que chegar.",
+          "A sopa avulsa sai a R$ 3,48 por porção de 250 g, e o pack, de 10 sachês individuais, a R$ 4,19 por sachê, pelo número que a loja mostra no card dele. Pelos números dela, o sachê do pack sai mais caro que a porção do avulso. Confira o peso de cada sachê na embalagem que chegar.",
           "Risoto e mac são uma refeição por embalagem, com 20 g de proteína. A página dos produtos diz que são sem glúten e que alguns levam leite e lactose, então confira o rótulo se isso importa na sua casa. Ficam fechados na despensa, sem congelador, e o preparo é de 15 a 20 minutos no fogão. Quem quer rendimento pelo preço vai no avulso; quem quer a porção separada de sopa vai no pack."
         ],
         "images": [
@@ -189465,7 +189465,7 @@ export const reviewsData: unknown[] = [
           "Já compra pasta de amendoim na Dr. Peanut: o whey entra no mesmo pedido e ajuda a passar do frete grátis.",
           "Precisa evitar glúten ou lactose: as duas lojas declaram leite, e a Dr. Peanut diz que pode conter trigo, cevada e aveia. Confira a embalagem do sabor escolhido."
         ],
-        "emphasis": "Com o pote e o preço iguais, o cupom decide: o da Dr. Peanut dá 10%, já conferido no checkout, e soma com o Pix; o da Max depende do percentual do carrinho."
+        "emphasis": "Com o pote e o preço iguais, o cupom decide: o da Dr. Peanut dá 10% e soma com o Pix; o da Max depende do percentual do carrinho."
       },
       {
         "heading": "Perguntas frequentes",
