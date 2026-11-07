@@ -127,7 +127,7 @@
         "caption": "Preços da loja para compra avulsa, sem frete. Simulação com CECI de 10%, válido em todas as formas de pagamento. Custo por porção declarada: uma cápsula, 12 g de pó ou uma garrafa; valores arredondados a centavos.",
         "headers": [
           "Produto",
-          "Preço consultado",
+          "Preço da loja",
           "Com o CECI",
           "Custo por porção"
         ],
