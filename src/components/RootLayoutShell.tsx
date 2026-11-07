@@ -5,6 +5,7 @@ import Footer from '@/components/Footer';
 import Analytics from '@/components/Analytics';
 import Clarity from '@/components/Clarity';
 import ConsentBanner from '@/components/ConsentBanner';
+import LanguageSuggestion from '@/components/language/LanguageSuggestion';
 import { getConsentCopy } from '@/components/consent/consentCopy';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { LOCALES, findLocaleByHtmlLang, type Locale } from '@/lib/i18n/locales';
@@ -188,6 +189,7 @@ export function RootLayoutShell({
         {children}
         <Footer lang={lang} />
         <ConsentBanner copy={getConsentCopy(loc)} />
+        <LanguageSuggestion />
         <Analytics />
         <Clarity />
       </body>
