@@ -87,7 +87,7 @@
         "Conta nossa: a proteína estimada na embalagem é o peso líquido ÷ o peso da porção × a proteína por porção. O preço por 100 g de proteína é o preço ÷ essa quantidade estimada × 100. Quanto menor o resultado, menor o custo por proteína declarada; as bases e a hipótese estão na legenda."
       ],
       "comparisonTable": {
-        "caption": "Preços de venda de 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porções e proteínas das tabelas nutricionais de cada sabor; Super Whey: baunilha, porção de 120 g. Exceção: Performance de 1,8 kg, estimativa com 32 g de proteína em 40 g de pó, condicionada à confirmação do rótulo do sabor. O custo considera a proteína total declarada, inclusive as diferentes fontes do Super Whey.",
+        "caption": "Preços de venda de 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porções e proteínas das tabelas nutricionais de cada sabor; Super Whey: baunilha, porção de 120 g. No Performance de 1,8 kg, a conta usa a porção do rótulo de 900 g (32 g de proteína em 40 g): confira a tabela nutricional do sabor. O custo considera a proteína total declarada, inclusive as diferentes fontes do Super Whey.",
         "headers": [
           "Produto",
           "Dose: proteína por dose",
@@ -141,9 +141,9 @@
           [
             "[Top Whey 3W + Performance 1,8 kg](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-18kg-max-titanium/p)",
             "40 g: até 32 g",
-            "1.440 g se a porção declarar 32 g",
+            "1.440 g (pela porção de 900 g)",
             "R$ 519,86",
-            "R$ 36,10 com a hipótese de 32 g por porção"
+            "R$ 36,10"
           ],
           [
             "[IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
@@ -184,7 +184,7 @@
       "heading": "Top Whey 3W: a dose de 40 g e três versões",
       "paragraphs": [
         "As versões do Top Whey 3W combinam concentrado, isolado e hidrolisado do soro, mas têm proporções de proteína diferentes. Nas porções comparadas, a + Performance tem mais proteína que a + Sabor e a + Natural. Segundo a descrição da loja, a + Performance traz 11 vitaminas e 6 minerais, e a + Natural usa estévia e taumatina. Esses ingredientes ajudam a distinguir as fórmulas; não comprovam qualidade superior.",
-        "Para quem já escolheu a + Performance, o pote de 1,8 kg exige maior desembolso. Compare os tamanhos pelo preço e pelo rótulo do mesmo sabor: a vantagem calculada para o maior depende da hipótese indicada na tabela. A + Natural entra pela preferência por estévia e taumatina; no preço registrado, não é a opção de menor custo por proteína."
+        "Para quem já escolheu a + Performance, o pote de 1,8 kg exige maior desembolso. Compare os tamanhos pelo preço e pelo rótulo do mesmo sabor: nos valores da tabela, o de 1,8 kg sai quase R$ 2 mais barato por 100 g de proteína. A + Natural entra pela preferência por estévia e taumatina; no preço registrado, não é a opção de menor custo por proteína."
       ],
       "images": [
         {
@@ -248,10 +248,10 @@
     },
     {
       "heading": "Qual whey escolher",
-      "emphasis": "Pelos valores do quadro, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre as versões Top Whey 3W comparadas, a + Performance tem maior proporção de proteína no pó; a escolha do pote de 1,8 kg depende da confirmação do rótulo e do preço. O cupom MAX10EMCASACOMCECILIA dá até 10%, com percentual variável por produto no carrinho.",
+      "emphasis": "Pelos valores do quadro, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre as versões Top Whey 3W comparadas, a + Performance tem maior proporção de proteína no pó; o pote de 1,8 kg sai mais barato por proteína na tabela. O cupom MAX10EMCASACOMCECILIA dá até 10%, com percentual variável por produto no carrinho.",
       "bullets": [
         "Prioriza custo por proteína: Whey Pro lidera no preço promocional registrado, seguido do 100% Whey Refil. Confira se essa ordem se mantém no carrinho.",
-        "Já escolheu o Top Whey 3W + Performance: o tamanho de 1,8 kg pode reduzir o custo por proteína na hipótese do quadro, mas exige maior desembolso. Confirme o rótulo do sabor antes de comparar com 900 g.",
+        "Já escolheu o Top Whey 3W + Performance: o de 1,8 kg sai mais barato por proteína na tabela, com desembolso maior; confira o rótulo do sabor.",
         "Procura isolado e menos carboidrato que o 100% Whey: IsoWhey, com custo maior por proteína no quadro e declaração de lactose no rótulo.",
         "Procura uma mistura com mais carboidrato que proteína: considere o Super Whey pela composição. Seu menor preço por embalagem não representa menor custo por proteína.",
         "Precisa evitar lactose: os rótulos declaram lactose. Decisões sobre intolerância, quantidade de consumo e outras questões de saúde devem ser feitas com médico ou nutricionista."
@@ -260,7 +260,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual whey da Max Titanium compensa mais? No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre os tamanhos do Top Whey 3W + Performance, a vantagem do maior depende do rótulo do sabor e do preço; a tabela explicita a hipótese usada.",
+        "Qual whey da Max Titanium compensa mais? No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre os tamanhos do Top Whey 3W + Performance, o de 1,8 kg sai mais barato por proteína na tabela; confira o rótulo do sabor.",
         "Super Whey é whey? Ele contém proteínas do soro, junto com colágeno, maltodextrina e frutose. Compare a composição na mesma quantidade de pó e o custo por proteína declarada; a porção maior não significa maior proporção de proteína.",
         "A Max Titanium tem whey zero lactose? Os wheys do quadro declaram “contém lactose”. Confirme o catálogo atual e o rótulo da versão que pretende comprar.",
         "O cupom da Max dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto.",
