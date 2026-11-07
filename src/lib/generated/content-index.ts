@@ -38820,7 +38820,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A originalidade dos produtos é declarada pela própria loja; ao receber, confira lote, validade e lacre. Para comprar com desconto, use o código de recompensa CECILIA010 (5% extra na primeira compra), que soma com os [cupons YesStyle](/cupons/yesstyle)."
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A originalidade dos produtos é declarada pela própria loja; ao receber, confira lote, validade e lacre. Para comprar com desconto, use o código de recompensa CECILIA010 (5% extra na primeira compra), que pode somar com [cupons YesStyle](/cupons/yesstyle) elegíveis."
         ]
       },
       {
@@ -39924,7 +39924,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle is legitimate: a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The store itself declares that its products are authentic; on arrival, check batch number, expiry date and seal. To save, use the Reward Code CECILIA010 (5% extra off your first purchase), which stacks with the [YesStyle coupons](/en/coupons/yesstyle)."
+          "Yes, YesStyle is legitimate: a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The store itself declares that its products are authentic; on arrival, check batch number, expiry date and seal. To save, use the Reward Code CECILIA010 (5% extra off your first purchase), which can stack with eligible [YesStyle coupons](/en/coupons/yesstyle)."
         ]
       },
       {
@@ -40070,7 +40070,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle es legítima: una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, cotizada en bolsa. La originalidad la declara la propia tienda; al recibir el pedido, comprueba lote, caducidad y precinto. Para ahorrar, usa el código de recompensa CECILIA010 (5 % extra en la primera compra), que se suma a los [cupones de YesStyle](/es/coupons/yesstyle)."
+          "Sí, YesStyle es legítima: una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, cotizada en bolsa. La originalidad la declara la propia tienda; al recibir el pedido, comprueba lote, caducidad y precinto. Para ahorrar, usa el código de recompensa CECILIA010 (5 % extra en la primera compra), que puede sumarse a los [cupones de YesStyle](/es/coupons/yesstyle) elegibles."
         ]
       },
       {
@@ -40215,7 +40215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle est légitime : entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. L'authenticité des produits est déclarée par la boutique elle-même ; à la réception, vérifiez lot, péremption et scellé. Pour économiser, utilisez le code de récompense CECILIA010 (5 % de plus sur la première commande), cumulable avec les [coupons YesStyle](/fr/coupons/yesstyle)."
+          "Oui, YesStyle est légitime : une entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. L'authenticité des produits est déclarée par la boutique elle-même ; à la réception, vérifiez lot, péremption et scellé. Pour économiser, utilisez le code de récompense CECILIA010 (5 % de plus sur la première commande), cumulable avec les [coupons YesStyle](/fr/coupons/yesstyle) éligibles."
         ]
       },
       {
@@ -40360,7 +40360,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Die Echtheit der Produkte erklärt der Shop selbst; kontrollieren Sie beim Empfang Charge, Haltbarkeitsdatum und Siegel. Um mit Rabatt zu kaufen, nutzen Sie den Reward Code CECILIA010 (5 % extra beim ersten Einkauf), der sich mit den Angeboten auf [YesStyle-Gutscheine](/de/coupons/yesstyle) kombinieren lässt."
+          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Die Echtheit der Produkte erklärt der Shop selbst; kontrollieren Sie beim Empfang Charge, Haltbarkeitsdatum und Siegel. Um mit Rabatt zu kaufen, nutzen Sie den Reward Code CECILIA010 (5 % extra beim ersten Einkauf), der sich mit berechtigten Aktionsgutscheinen kombinieren lässt (siehe [YesStyle-Gutscheine](/de/coupons/yesstyle))."
         ]
       },
       {
@@ -40505,7 +40505,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "먼저 결론부터",
         "paragraphs": [
-          "네, YesStyle은 2006년에 설립된 홍콩 기업으로, 상장사인 YesAsia Holdings가 지배하는 정상적인 회사입니다. 제품이 정품이라는 것은 매장의 자체 설명이니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 리워드 코드 CECILIA010으로 첫 구매 5%를 추가 할인받을 수 있고, [YesStyle 쿠폰](/ko/coupons/yesstyle)과 함께 쓸 수 있습니다."
+          "네, YesStyle은 2006년에 설립된 홍콩 기업으로, 상장사인 YesAsia Holdings가 지배하는 정상적인 회사입니다. 제품이 정품이라는 것은 매장의 자체 설명이니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 리워드 코드 CECILIA010으로 첫 구매 5%를 추가 할인받을 수 있고, 적용 가능한 [YesStyle 쿠폰](/ko/coupons/yesstyle)과 함께 쓸 수 있습니다."
         ]
       },
       {
@@ -40650,7 +40650,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "はい、YesStyleは2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営する正規の会社です。商品が本物かどうかは店側の自己申告なので、届いたらロット番号、使用期限、封の状態を確認してください。割引で買うなら、リワードコードCECILIA010で初回購入が5%追加割引になり、[YesStyleのクーポン](/ja/coupons/yesstyle)と併用できます。"
+          "はい、YesStyleは2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営する正規の会社です。商品が本物かどうかは店側の自己申告なので、届いたらロット番号、使用期限、封の状態を確認してください。割引で買うなら、リワードコードCECILIA010で初回購入が5%追加割引になり、対象の[YesStyleのクーポン](/ja/coupons/yesstyle)と併用できます。"
         ]
       },
       {
@@ -40795,7 +40795,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。商品是否為正品是店家自己的說法，收到商品時請檢查批號、有效期限與封條。想用優惠購買，可以使用獎勵碼 CECILIA010（首次購買額外優惠 5%），它可與 [YesStyle 優惠券](/zh-hant/coupons/yesstyle) 疊加。"
+          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。商品是否為正品是店家自己的說法，收到商品時請檢查批號、有效期限與封條。想用優惠購買，可以使用獎勵碼 CECILIA010（首次購買額外優惠 5%），它可與適用的 [YesStyle 優惠券](/zh-hant/coupons/yesstyle) 疊加。"
         ]
       },
       {
@@ -40939,7 +40939,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。商品是否正品是店家自己的说法，收货时请核对批号、有效期和封条。想优惠购买，可以使用奖励码 CECILIA010（首次购买额外优惠 5%），它可与 [YesStyle 优惠券](/zh-hans/coupons/yesstyle) 叠加。"
+          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。商品是否正品是店家自己的说法，收货时请核对批号、有效期和封条。想优惠购买，可以使用奖励码 CECILIA010（首次购买额外优惠 5%），它可与适用的 [YesStyle 优惠券](/zh-hans/coupons/yesstyle) 叠加。"
         ]
       },
       {
@@ -49509,7 +49509,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. L'originalità dei prodotti è dichiarata dal negozio stesso; alla consegna controlla lotto, scadenza e sigillo. Per comprare con lo sconto, usa il codice ricompensa CECILIA010 (5% in più sul primo acquisto), che si somma ai [coupon YesStyle](/it/coupons/yesstyle)."
+          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. L'originalità dei prodotti è dichiarata dal negozio stesso; alla consegna controlla lotto, scadenza e sigillo. Per comprare con lo sconto, usa il codice ricompensa CECILIA010 (5% in più sul primo acquisto), che può sommarsi ai [coupon YesStyle](/it/coupons/yesstyle) idonei."
         ]
       },
       {
@@ -52019,7 +52019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: o Pillow Top Magnum vale a pena?",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. Na dúvida sobre dor nas costas, o caminho é o médico; o CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
+          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma; na dúvida sobre dor nas costas, o caminho é o médico. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
         ]
       },
       {
@@ -81860,7 +81860,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de catálogo de outubro, o Whey 80% HD e o Creator, da Black Skull, são os mais baratos por grama de proteína e por dose de creatina, e a Max Titanium tem mais opções de whey 3W com sabor e vende a creatina Creapure. O que pesa é o critério: menor preço por proteína ou mais proteína por dose. O CECILIA10 dá 10% OFF na Black Skull."
+          "Nos preços de outubro, o Whey 80% HD e o Creator, da Black Skull, são os mais baratos por grama de proteína e por dose de creatina; a Max Titanium tem mais whey 3W com sabor e creatina Creapure. O que pesa é o critério: preço por proteína ou proteína por dose. O CECILIA10 dá 10% OFF na Black Skull."
         ]
       },
       {
@@ -82319,7 +82319,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W, e a Probiótica trouxe mais sabores e zero lactose; na creatina de 300 g, composição e preço empataram. Na Max, o código MAX10EMCASACOMCECILIA dá até 10% OFF."
+          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W, e a Probiótica trouxe mais sabores e zero lactose; na creatina de 300 g, rótulo e preço empataram. Na Max, o código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -84210,7 +84210,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e reputação Ótima no Reclame Aqui nos últimos 6 meses. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF no site oficial."
+          "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e tinha reputação Ótima no Reclame Aqui entre abril e setembro. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF no site oficial."
         ]
       },
       {
@@ -84422,7 +84422,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com a leitura certa: a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. O [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF em tudo no site oficial."
+          "Sim, com a leitura certa: a Belive tinha reputação Ótima no Reclame Aqui nos 6 meses até setembro, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. O [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF em tudo no site oficial."
         ]
       },
       {
@@ -102755,7 +102755,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, a Black Skull sai mais barata que a Dux no custo por 100 g de whey e de creatina no cartão. Só a Dux declara Creapure e vende whey isolado. A escolha é entre menor preço por grama e isolado com Creapure; na Black Skull vale o CECILIA10, com 10% OFF no site todo."
+          "Nos preços de outubro, a Black Skull sai mais barata que a Dux no custo por 100 g de whey e de creatina no cartão. Só a Dux declara Creapure e vende whey isolado nesta comparação. A escolha é entre menor preço por grama e isolado mais Creapure; na Black Skull vale o CECILIA10, com 10% OFF no site todo."
         ]
       },
       {
@@ -112166,7 +112166,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si le modèle d'IA reste chez le fournisseur (clé d'API ou crédits IA de Hostinger), le KVM 1 (4 Go) est le point de départ. Avec un modèle local, la plus petite recette demande 8 GiB, et le KVM 4 (16 Go) est le premier avec de la marge. SONAR20 donne 20 % sur un VPS neuf, pas au renouvellement."
+          "Si le modèle d'IA reste chez le fournisseur (clé d'API ou crédits IA de Hostinger), le KVM 1 (4 Go) est le point de départ. Avec un modèle local, la plus petite recette demande 8 GiB, et le KVM 4 (16 Go) est le premier avec de la marge. SONAR20 donne 20 % sur un nouveau VPS, pas au renouvellement."
         ]
       },
       {
@@ -119677,7 +119677,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, com nota 7,9, mas Ruim nos 12 meses até outubro, com nota 5,8. No semestre, respondeu a 100% e resolveu 92,5%, e a leitura muda conforme o perfil olhado. O CECILIA10 dá 10% OFF em todo o site; o [cupom Bagaggio](/cupons/bagaggio) traz as regras."
+          "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, com nota 7,9, mas Ruim nos 12 meses até outubro, com nota 5,8. No semestre, respondeu a 100% e resolveu 92,5%; para o site, vale o perfil Loja Virtual. O CECILIA10 dá 10% OFF em todo o site; o [cupom Bagaggio](/cupons/bagaggio) traz as regras."
         ]
       },
       {
@@ -120425,7 +120425,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta, além da garantia legal. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
+          "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta, além da garantia legal. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -121150,7 +121150,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual autobronzeador Skelt comprar",
         "paragraphs": [
-          "Para a primeira aplicação, o Kit Iniciante é a escolha: o mousse tem cor-guia para mostrar onde você passou, e a luva vem junta. Água e Gel são incolores e indicados a quem já sabe aplicar; para mais intensidade, as Dark são de nível expert. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
+          "Para a primeira aplicação, o Kit Iniciante é a escolha: o mousse tem cor-guia para mostrar onde você passou, e a luva vem junta. Água e Gel são incolores e a Skelt os indica a quem já sabe aplicar; para mais intensidade, as Dark são de nível expert. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
@@ -123538,7 +123538,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: BOPE ou Bone Crusher",
         "paragraphs": [
-          "Pelo rótulo, o BOPE ganha no preço por dose e o Bone Crusher ganha em beta-alanina, arginina e menos carboidrato. No catálogo de outubro, nenhum pré-treino da Black Skull era sem cafeína, e o Legacy é o que tem mais por dose, então o que pesa é o preço por dose e o tamanho do pote. O CECILIA10 dá 10% OFF em todo o site."
+          "Pelo rótulo, o BOPE ganha no preço por dose e o Bone Crusher, em beta-alanina, arginina e menos carboidrato. No catálogo de outubro, nenhum pré-treino da Black Skull era sem cafeína, e o Legacy tem mais por dose; pesam o preço por dose e o tamanho do pote. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -125091,7 +125091,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na grade de outubro, a Cléa Store não tinha conjunto de alfaiataria pronto, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom, e o que decide é o tamanho. O CSEMCASACOMCECILIA dá 10% OFF no site."
+          "Em outubro, a Cléa Store não tinha conjunto de alfaiataria pronto, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom, e o que decide é o tamanho. O CSEMCASACOMCECILIA dá 10% OFF no site."
         ]
       },
       {
@@ -125527,7 +125527,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda o peso da porção, o carboidrato e o preço por grama. Entre as com sabor, a Creatine Black Skull de 300 g tem o menor custo por grama de creatina; a Max 7Belo declara carboidrato em quantidade não significativa. Na Black Skull, o CECILIA10 dá 10% OFF."
+          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda a porção, o carboidrato e o preço por grama. Entre as com sabor, a Creatine Black Skull de 300 g tem o menor custo por grama; a Max 7Belo declara carboidrato em quantidade não significativa. Na Black Skull, o CECILIA10 dá 10% OFF."
         ]
       },
       {
@@ -128389,7 +128389,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para receita de até 2 L, a 20 cm (2,4 L) basta se a receita não encostar na borda; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa decide; para servir à mesa, vale o buffet. No site da Let's Eat It, o código MAUAD dá 5%."
+          "Para receita de até 2 L, basta a 20 cm (2,4 L); acima disso, a 24 cm (4,2 L) custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa decide; para servir à mesa, vale o buffet. No site da Let's Eat It, o código MAUAD dá 5%."
         ]
       },
       {
@@ -145299,7 +145299,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le créateur IA de Hostinger, l'ancien Horizons, vaut le coup pour qui veut un site ou une appli web simple sans coder et accepte que l'IA monte la première version. Qui a besoin de plugins, d'un thème à soi et d'un contrôle total est mieux sur WordPress. SONAR20 donne 20 % à l'achat neuf du forfait, pas au renouvellement."
+          "Le créateur IA de Hostinger, l'ancien Horizons, vaut le coup pour qui veut un site ou une appli web simple sans coder et accepte que l'IA monte la première version. Qui a besoin de plugins, d'un thème à soi et d'un contrôle total est mieux sur WordPress. SONAR20 donne 20 % sur le nouvel achat du forfait, pas au renouvellement."
         ]
       },
       {
@@ -155735,7 +155735,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do produto. Nas malas da marca, a página traz garantia vitalícia com regulamento e medidas completas; nas mochilas e bolsas, a garantia tem prazo e falta em parte das linhas; a Downtown PP e a Mochila Tech são Travelcross. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
+          "Depende do produto. Nas malas da marca, a página traz garantia vitalícia com regulamento e medidas completas; nas mochilas e bolsas, a garantia tem prazo e falta em parte das linhas; a Downtown PP e a Mochila Tech constam como Travelcross no cadastro da loja. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -156861,7 +156861,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo, o de dezoito acrescenta a colher e o de trinta, garfo e colher de sobremesa. Escolha pelos talheres de que precisa; o Branco era o mais barato entre os de trinta. No site, o código MAUAD dá 5% e soma com o Pix."
+          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo, o de dezoito acrescenta a colher e o de trinta, garfo e colher de sobremesa. Escolha pelos talheres de que precisa; o Branco era o mais barato entre os de trinta. Na Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
         ]
       },
       {
@@ -161296,7 +161296,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Au renouvellement, le forfait Premium de Hostinger est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Avant de choisir, vérifiez que le forfait couvre l'application, l'espace et la sauvegarde, pas seulement le nombre de sites. Le code SONAR20 donne 20 % sur un achat neuf, pas au renouvellement."
+          "Au renouvellement, le forfait Premium de Hostinger est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Avant de choisir, vérifiez que le forfait couvre l'application, l'espace et la sauvegarde, pas seulement le nombre de sites. Le code SONAR20 donne 20 % sur un nouvel achat, pas au renouvellement."
         ]
       },
       {
@@ -162982,7 +162982,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem já decidiu usar WordPress na Hostinger, o Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. O que decide é o número de sites, o backup e a renovação. O SONAR20 dá 20% no primeiro período de uma compra nova; renovação e domínio ficam fora."
+          "Para quem já decidiu usar WordPress na Hostinger, o Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. Decidem o número de sites, o backup e a renovação. O SONAR20 dá 20% no primeiro período de uma compra nova; renovação e domínio ficam fora."
         ]
       },
       {
@@ -163646,7 +163646,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, Premium couvre jusqu'à trois sites ; Unlimited, avec sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du renouvellement. SONAR20 donne 20 % sur la première période d'un nouvel achat ; renouvellement et domaine sont exclus."
+          "Si vous avez déjà choisi WordPress chez Hostinger, Premium couvre jusqu'à trois sites ; Unlimited, avec sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du renouvellement. SONAR20 donne 20 % sur la première période d'un nouvel achat ; renouvellement et domaine sont exclus."
         ]
       },
       {
@@ -165380,7 +165380,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Bagaggio, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm. O CECILIA10 dá 10% OFF em todo o site."
+          "Na seleção, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -178507,7 +178507,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que decide é o carboidrato, conta para o nutricionista; no site oficial, o código MAUAD dá 10% OFF."
+          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que decide é o carboidrato, e a conta é com o nutricionista; no site oficial, o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -179562,7 +179562,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis. Camisetas e bodies saem em P, M e G; o que muda a escolha é o tamanho e o preço por peça do kit. O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, e soma com as promoções."
+          "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis. Camisetas e bodies saem em P, M e G; o que muda a escolha é o tamanho e o preço por peça do kit. O CSEMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções."
         ]
       },
       {
