@@ -144458,7 +144458,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Criador com IA da Hostinger, o antigo Horizons, vale a pena para quem quer um site ou um app web simples sem programar e aceita que a IA monte a primeira versão. Quem precisa de plugins, tema próprio e controle total segue melhor no WordPress. O que decide é o tipo de projeto; o quadro está abaixo."
+          "O Criador com IA da Hostinger, o antigo Horizons, vale a pena para quem quer um site ou um app web simples sem programar e aceita que a IA monte a primeira versão. Quem precisa de plugins, tema próprio e controle total segue melhor no WordPress. O SONAR20 dá 20% na compra nova do plano, não na renovação."
         ]
       },
       {
@@ -144771,7 +144771,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Hostinger's AI Builder, the former Horizons, is worth it if you want a simple website or web app without coding and you're fine with the AI building the first version. If you need plugins, your own theme and full control, WordPress is the better fit. What decides it is the type of project; the table is below."
+          "Hostinger's AI Builder, the former Horizons, is worth it if you want a simple website or web app without coding and you're fine with the AI building the first version. If you need plugins, your own theme and full control, WordPress is the better fit. SONAR20 gives 20% off a new plan purchase, not a renewal."
         ]
       },
       {
@@ -145035,7 +145035,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El creador con IA de Hostinger, el antiguo Horizons, vale la pena si quieres una web o una app web sencilla sin programar y aceptas que la IA monte la primera versión. Si necesitas plugins, un tema propio y control total, WordPress te conviene más. Lo que decide es el tipo de proyecto; el cuadro está más abajo."
+          "El creador con IA de Hostinger, el antiguo Horizons, vale la pena si quieres una web o una app web sencilla sin programar y aceptas que la IA monte la primera versión. Si necesitas plugins, un tema propio y control total, WordPress te conviene más. SONAR20 da 20 % en la compra nueva del plan, no en la renovación."
         ]
       },
       {
@@ -145299,7 +145299,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le créateur IA de Hostinger, l'ancien Horizons, vaut le coup pour qui veut un site ou une appli web simple sans coder et accepte que l'IA monte la première version. Qui a besoin de plugins, d'un thème à soi et d'un contrôle total est mieux sur WordPress. Ce qui tranche, c'est le type de projet ; le tableau est plus bas."
+          "Le créateur IA de Hostinger, l'ancien Horizons, vaut le coup pour qui veut un site ou une appli web simple sans coder et accepte que l'IA monte la première version. Qui a besoin de plugins, d'un thème à soi et d'un contrôle total est mieux sur WordPress. SONAR20 donne 20 % à l'achat neuf du forfait, pas au renouvellement."
         ]
       },
       {
@@ -145563,7 +145563,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "L'AI Builder di Hostinger, l'ex Horizons, conviene a chi vuole un sito o un'app web semplici senza programmare e accetta che sia l'IA a montare la prima versione. Chi ha bisogno di plugin, di un tema proprio e del pieno controllo sta meglio su WordPress. Quello che decide è il tipo di progetto; la tabella è qui sotto."
+          "L'AI Builder di Hostinger, l'ex Horizons, conviene a chi vuole un sito o un'app web semplici senza programmare e accetta che sia l'IA a montare la prima versione. Chi ha bisogno di plugin, di un tema proprio e del pieno controllo sta meglio su WordPress. Il codice SONAR20 dà il 20% sull'acquisto nuovo del piano, non sul rinnovo."
         ]
       },
       {
@@ -145827,7 +145827,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der KI-Builder von Hostinger, das frühere Horizons, lohnt sich für alle, die eine einfache Website oder Web-App ohne Programmieren wollen und akzeptieren, dass die KI die erste Version baut. Wer Plugins, ein eigenes Theme und volle Kontrolle braucht, ist mit WordPress besser bedient. Entscheidend ist die Art des Projekts; die Tabelle steht weiter unten."
+          "Der KI-Builder von Hostinger, das frühere Horizons, lohnt sich für alle, die eine einfache Website oder Web-App ohne Programmieren wollen und akzeptieren, dass die KI die erste Version baut. Wer Plugins, ein eigenes Theme und volle Kontrolle braucht, ist mit WordPress besser bedient. Der Code SONAR20 gibt 20 % auf den Neukauf des Tarifs, nicht auf die Verlängerung."
         ]
       },
       {
@@ -146091,7 +146091,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Hostinger の AI Builder（旧 Horizons）は、プログラミングなしでシンプルなサイトや Web アプリを作りたく、最初のバージョンを AI に任せてよい人に向いています。プラグイン、独自テーマ、完全な制御が必要なら WordPress のほうが向いています。決め手はプロジェクトの種類で、早見表は下にあります。"
+          "Hostinger の AI Builder（旧 Horizons）は、プログラミングなしでシンプルなサイトや Web アプリを作りたく、最初のバージョンを AI に任せてよい人に向いています。プラグイン、独自テーマ、完全な制御が必要なら WordPress のほうが向いています。SONAR20 でプランの新規購入が 20% オフになります（更新は対象外）。"
         ]
       },
       {
@@ -146354,7 +146354,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger의 AI Builder(구 Horizons)는 코딩 없이 간단한 사이트나 웹 앱을 만들고 싶고, 첫 버전은 AI가 만들어도 괜찮은 사람에게 맞습니다. 플러그인, 직접 고른 테마, 완전한 제어가 필요하면 WordPress가 낫습니다. 결정하는 것은 프로젝트의 종류이며, 아래 표에 정리했습니다."
+          "Hostinger의 AI Builder(구 Horizons)는 코딩 없이 간단한 사이트나 웹 앱을 만들고 싶고, 첫 버전은 AI가 만들어도 괜찮은 사람에게 맞습니다. 플러그인, 직접 고른 테마, 완전한 제어가 필요하면 WordPress가 낫습니다. SONAR20 코드는 플랜 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
         ]
       },
       {
@@ -146618,7 +146618,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的 AI Builder（原 Horizons）适合想不写代码就做一个简单网站或 Web 应用、也接受由 AI 搭出第一版的人。需要插件、自己的主题和完全控制的，还是 WordPress 更合适。起决定作用的是项目类型，下面有一张表。"
+          "Hostinger 的 AI Builder（原 Horizons）适合想不写代码就做一个简单网站或 Web 应用、也接受由 AI 搭出第一版的人。需要插件、自己的主题和完全控制的，还是 WordPress 更合适。SONAR20 可让新购套餐享 20% 折扣，续费不适用。"
         ]
       },
       {
@@ -146882,7 +146882,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的 AI Builder（原 Horizons）適合想不寫程式就做一個簡單網站或 Web 應用程式、也接受由 AI 搭出第一版的人。需要外掛、自己的主題和完全控制的，還是 WordPress 比較合適。起決定作用的是專案類型，下面有一張表。"
+          "Hostinger 的 AI Builder（原 Horizons）適合想不寫程式就做一個簡單網站或 Web 應用程式、也接受由 AI 搭出第一版的人。需要外掛、自己的主題和完全控制的，還是 WordPress 比較合適。SONAR20 可讓新購方案享 20% 折扣，續訂不適用。"
         ]
       },
       {
