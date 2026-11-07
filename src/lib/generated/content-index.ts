@@ -46629,7 +46629,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e como economizar com o CECILIA010",
         "paragraphs": [
-          "Os três produtos são vendidos pela YesStyle, que hoje está com a entrega ao Brasil suspensa temporariamente. Os preços são cotados em dólar e o frete é internacional, com valor e prazo que dependem do destino.",
+          "Os três produtos são vendidos pela YesStyle, que está com a entrega ao Brasil suspensa no site e no app. Os preços são cotados em dólar e o frete é internacional, com valor e prazo que dependem do destino.",
           "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e podem ser usados junto com o CECILIA010, conforme as regras de cada cupom, inclusive aqueles cupons especiais que chegam só para a sua conta. Os cupons ativos da loja estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
           "Sobre impostos: a YesStyle reembolsa as taxas alfandegárias de pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete), com as exceções da política da loja. Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias da data do comprovante. O reembolso vem em crédito na YesStyle."
         ],
@@ -46672,7 +46672,7 @@ export const reviewsData: unknown[] = [
           "O que é PDRN? É um ingrediente feito de fragmentos de DNA, muito usado em cosméticos coreanos que prometem firmeza, segundo as marcas. Na lip mask da Abib, a marca informa origem vegetal (centella asiática e ginkgo biloba).",
           "Retinal é a mesma coisa que ácido retinoico? Não. O retinal é um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
           "A lip mask da Abib tem cheiro forte? Tem cheirinho de doce. Eu tenho sensibilidade a cheiros fortes, e esse não me incomodou.",
-          "A YesStyle entrega no Brasil? Hoje, não: a entrega ao Brasil está suspensa temporariamente. Para taxas alfandegárias cobradas na chegada, a loja prevê reembolso em crédito para pedidos abaixo de US$ 1.000, conforme a política dela.",
+          "A YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Para taxas alfandegárias cobradas na chegada, a loja prevê reembolso em crédito para pedidos abaixo de US$ 1.000, conforme a política dela.",
           "Onde uso o código CECILIA010? No campo Reward Code do checkout. Ele dá 5% na primeira compra e 2% nas seguintes, e pode ser usado junto com um cupom do campo Coupon Code, conforme as regras desse cupom."
         ]
       }
@@ -55169,43 +55169,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Presente de Natal: até quando pedir",
         "paragraphs": [
-          "A Let's Eat It conta o prazo de entrega a partir da confirmação do pagamento. Somando um dia útil de folga ao prazo mais longo de cada região, fizemos a conta de até quando pagar para o pedido chegar antes do Natal."
+          "A loja separa o pedido no mesmo dia ou no dia útil seguinte, e a entrega leva de 5 a 10 dias úteis depois do despacho, com prazo maior em período promocional. Somando um dia útil de folga ao prazo mais longo, pague até 8 de dezembro para o pedido chegar antes do Natal."
         ],
-        "comparisonTable": {
-          "caption": "Prazos da política de frete da Let's Eat It e a nossa estimativa de data limite. A loja avisa que, em períodos promocionais, os prazos podem mudar.",
-          "headers": [
-            "Região",
-            "Prazo da loja",
-            "Pagar até (estimativa)"
-          ],
-          "rows": [
-            [
-              "São Paulo capital",
-              "3 a 5 dias úteis",
-              "16 de dezembro"
-            ],
-            [
-              "Interior de SP e Grande São Paulo",
-              "4 a 7 dias úteis",
-              "14 de dezembro"
-            ],
-            [
-              "Sul e Sudeste",
-              "5 a 8 dias úteis",
-              "11 de dezembro"
-            ],
-            [
-              "Centro-Oeste",
-              "6 a 9 dias úteis",
-              "10 de dezembro"
-            ],
-            [
-              "Norte e Nordeste",
-              "7 a 12 dias úteis",
-              "7 de dezembro"
-            ]
-          ]
-        },
         "postParagraphs": [
           "É uma estimativa: se puder, peça antes. A loja não tem entrega expressa e não deixa retirar pedidos do site na Casa Let's.",
           "Se o presente for para outra pessoa, a troca ou devolução pode ser pedida em até 30 dias do recebimento, inclusive de item comprado em promoção, com etiqueta de devolução paga pela loja. Em São Paulo, dá para trocar na hora na Casa Let's."
@@ -55244,7 +55209,7 @@ export const reviewsData: unknown[] = [
           "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
           "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom só pode ser usado a partir de 7 dias depois da compra que o gerou, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom. Para usar na sexta da Black Friday, a compra que gera o cupom precisa ser de pelo menos 7 dias antes; os termos estão na página do cashback.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa conta com o prazo mais longo da loja e um dia útil de folga, a data limite vai de meados de dezembro em São Paulo capital ao começo de dezembro no Norte e no Nordeste; a tabela do guia traz cada região."
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite é no começo de dezembro; o capítulo do presente de Natal traz a conta."
         ]
       }
     ],
@@ -56958,13 +56923,13 @@ export const reviewsData: unknown[] = [
       "As datas de fim e os dias de 15% sem valor mínimo de 2026 ainda não saíram: o que vem depois é estimativa pelo histórico",
       "O cupom de faixa da Black Friday é o mesmo do resto do ano",
       "Os cupons são só para membros, valem um por pedido e não descontam o frete",
-      "A YesStyle não entrega no Brasil desde 28 de outubro"
+      "A entrega ao Brasil está suspensa no site e no app"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da YesStyle já está no ar: a home tem a Mega Sale, com ofertas por produto e banners de até 50% off, e um cupom de faixa dá 8%, 10% ou 15%. O CECILIA010 soma com ele, no Reward Code. Mas, hoje, a loja não entrega no Brasil."
+          "A Black Friday da YesStyle já está no ar: a home tem a Mega Sale, com ofertas por produto e banners de até 50% off, e um cupom de faixa dá 8%, 10% ou 15%. O CECILIA010 soma com ele, no Reward Code. Mas a entrega ao Brasil está suspensa no site e no app."
         ]
       },
       {
@@ -57112,7 +57077,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega no Brasil: a YesStyle parou",
         "paragraphs": [
-          "Hoje, conferido no app, a YesStyle não oferece entrega para o Brasil. Os envios voltaram por um tempo e foram suspensos de novo, então a Black Friday da loja, hoje, serve a quem recebe em outro país. O que a loja publica, o prazo e o frete de Portugal e a política de reembolso de impostos da alfândega, que vale em pedidos elegíveis abaixo de US$ 1.000, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal). O reembolso cobre só encargos da alfândega (imposto sobre vendas, IVA e GST ficam de fora) e exige enviar o comprovante de pagamento ao atendimento da YesStyle em até 30 dias da data dele. Se a entrega voltar, o frete e o prazo aparecem no checkout, e o cupom não desconta o frete."
+          "A entrega ao Brasil está suspensa no site e no app, então a Black Friday da loja serve a quem recebe em outro país. O que a loja publica, o prazo e o frete de Portugal e a política de reembolso de impostos da alfândega, que vale em pedidos elegíveis abaixo de US$ 1.000, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal). O reembolso cobre só encargos da alfândega (imposto sobre vendas, IVA e GST ficam de fora) e exige enviar o comprovante de pagamento ao atendimento da YesStyle em até 30 dias da data dele. Se a entrega voltar, o frete e o prazo aparecem no checkout, e o cupom não desconta o frete."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -57168,7 +57133,7 @@ export const reviewsData: unknown[] = [
           "O CECILIA010 vale na Black Friday? Vale. Ele vai no campo Reward Code, e as regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
           "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
           "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
-          "A YesStyle entrega no Brasil? Não: hoje, conferido no app, a loja não oferece entrega para o Brasil. Os envios voltaram por um tempo e foram suspensos de novo; o que a loja publica está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "A YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app; o que a loja publica está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Vou pagar imposto comprando na YesStyle? Onde a loja entrega, pode haver cobrança na chegada do pacote. Em pedidos elegíveis abaixo de US$ 1.000, a YesStyle devolve os encargos de alfândega em crédito na loja, se você mandar o comprovante em até 30 dias da data dele. Imposto sobre vendas, IVA e GST ficam de fora."
         ]
       }
@@ -64268,6 +64233,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Código de indicação SHEIN: pesquise 4CW5Y no app da SHEIN, sem desconto fixo. Passo a passo com telas e o que ele abre.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-capa-discover.webp",
@@ -64361,7 +64327,6 @@ export const reviewsData: unknown[] = [
           "O código de indicação é a mesma coisa que cupom? Não. Segundo a SHEIN, o código vai na caixa de busca, e não como cupom.",
           "Como saber meu código de indicação da SHEIN? O código de indicação sai do programa de afiliados da SHEIN. Depois do cadastro, feito pela busca \"afiliado\" no aplicativo, ele aparece na página inicial de afiliado.",
           "O código de indicação de 2024 ou 2025 ainda vale? Os códigos do programa antigo, que acabou em 2024, foram desativados junto com o cupom de R$ 10. No programa atual, o código leva à página do afiliado, sem desconto fixo, e o 4CW5Y é o código atual da Cecília.",
-          "O 4CW5Y funciona fora do Brasil? Sim. O código de indicação é da SHEIN, sem país: a SHEIN leva cada pessoa à loja da região dela.",
           "Preciso criar uma conta nova para usar o código? Não: quando conferimos, a pesquisa abriu a página mesmo sem login. Ofertas só para novos usuários, quando existem, aparecem marcadas na campanha.",
           "Dá para usar o código de indicação no computador? A SHEIN fala em pesquisar o código no aplicativo; o guia mostra o site no celular, e no computador não conferimos."
         ]
@@ -69355,7 +69320,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente: no momento, a loja não oferece entrega para o país. Veja abaixo a tabela e o capítulo do imposto."
+          "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa no site e no app. Veja abaixo a tabela e o capítulo do imposto."
         ]
       },
       {
@@ -69399,7 +69364,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a loja mostra sobre o Brasil",
         "paragraphs": [
           "A tabela de frete e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
-          "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express. Isso mostra que esse pedido saiu, não que os envios voltaram: em 28/10/2026, a loja não oferecia entrega para o Brasil. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
+          "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express. Isso mostra que esse pedido saiu, não que os envios voltaram: a entrega ao Brasil está suspensa no site e no app. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
         ]
       },
       {
@@ -69536,8 +69501,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente; no momento, a loja não oferece entrega para o país.",
-          "A YesStyle voltou a entregar no Brasil? Não: depois da pausa de julho não houve aviso de retomada. Um pedido nosso feito em setembro saiu dois dias depois, mas, na última leitura, a loja não oferecia entrega para o Brasil.",
+          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: um pedido nosso saiu em setembro, mas a entrega está suspensa no site e no app.",
+          "A YesStyle voltou a entregar no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Um pedido nosso feito em setembro saiu dois dias depois, mas isso não quer dizer que os envios voltaram.",
           "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
           "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
           "A YesStyle tem taxa ou imposto? Em Portugal, o IVA já vem no preço; no Brasil, o pacote paga Imposto de Importação mais ICMS depois que chega, veja o exemplo no capítulo do imposto.",
@@ -71863,7 +71828,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A YesStyle mantém no ar o aviso de julho que pausou os novos pedidos ao Brasil, sem aviso de retomada. A Olive Young Global cita o Brasil entre os países sem envio.",
+          "A entrega da YesStyle ao Brasil está suspensa no site e no app. A Olive Young Global cita o Brasil entre os países sem envio.",
           "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele muda de uma versão para outra: a em inglês não traz o Brasil, e as traduções mais antigas ainda trazem. A central de ajuda dele também cita o Brasil, num artigo dela, entre as regiões em que o imposto de importação não está incluído no checkout."
         ]
       },
@@ -72119,7 +72084,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher",
         "emphasis": "Pelos números da tabela, para quem mora no Brasil a escolha é a Jolse, porque é a única que publica frete para o país.",
         "bullets": [
-          "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em setembro, mas não publica frete nem prazo.",
+          "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em setembro, mas a entrega ao Brasil está suspensa no site e no app.",
           "Quem mora em Portugal: as cinco lojas entregam e todas publicam a partir de quanto o frete é grátis, então a escolha passa pelo imposto e pela devolução, nas tabelas acima.",
           "Em qualquer país: confira na página oficial de cada loja o envio, quem paga o imposto e o que ela aceita de volta antes de fechar o pedido."
         ]
@@ -79135,7 +79100,7 @@ export const reviewsData: unknown[] = [
           "O site da Cléa Store é seguro? O endereço oficial é cleastore.com.br, e o pagamento é feito somente no site. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio ou mensagem.",
           "De onde é a Cléa Store? A empresa fica em Jaraguá do Sul (SC), segundo os dados públicos de CNPJ. A Clea Store Ltda. está no endereço Rua Erwino Menegotti, 1589, bairro Água Verde.",
           "Qual é o CNPJ da Cléa Store? O CNPJ é 27.310.985/0001-08, da Clea Store Ltda., que consta como ativo nos dados públicos. Ele aparece no rodapé do site e na política de privacidade.",
-          "Quanto tempo tenho para devolver um produto da Cléa Store? São 30 dias corridos após o recebimento, 90 para defeito de fabricação e 7 para arrependimento, com devolução grátis: a postagem não é cobrada de você. O passo a passo está no capítulo Como pedir a devolução.",
+          "Quanto tempo tenho para devolver um produto da Cléa Store? São 30 dias corridos após o recebimento, 90 para defeito de fabricação e 7 para arrependimento, com devolução grátis: a postagem não é cobrada de você. Pela política da loja, o frete pago na compra só volta se o pedido inteiro for devolvido. O passo a passo está no capítulo Como pedir a devolução.",
           "A Cléa Store tem frete grátis? Tem, segundo a faixa do site, em pedidos acima de R$ 599. Abaixo desse valor, o frete é calculado no checkout.",
           "Como funciona o cashback da Cléa Store? Você recebe 10% da compra em créditos, automaticamente, liberados em até 1 dia útil e com validade de 30 dias. O saldo acumula e é usado no campo \"Utilize seu saldo de créditos\", na etapa de pagamento.",
           "Tem cupom de primeira compra na Cléa Store? O nosso cupom, CSEMCASACOMCECILIA, dá 10% OFF em todo o site e vale também para quem já comprou na loja. Veja as regras na [página do cupom da Cléa Store](/cupons/clea-store)."
@@ -83107,7 +83072,7 @@ export const reviewsData: unknown[] = [
           "caption": "Tabelas publicadas pela loja: 40 porções por embalagem, salvo o Caramelo Salgado, com cerca de 17."
         },
         "postParagraphs": [
-          "Para comparar proteína, use a coluna por 100 g. Na colher, o Leite em Pó aparece com 3 g e o Avelã com 2,9 g, mas os dois têm 20 g por 100 g. A diferença na colher vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano, Caramelo Salgado, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
+          "Para comparar proteína, use a coluna por 100 g. Na colher, o Chocolate Branco aparece com 3 g e o Avelã com 2,9 g, mas por 100 g são 17 g contra 20 g. A diferença entre a porção e os 100 g vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano, Caramelo Salgado, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
           "Na gordura saturada, Bombom Italiano e Cookies & Cream têm a menor, com 1,1 g por colher, e Beijinho a maior, com 2 g. O sódio vai de 19 mg (Brownie) a 49 mg (Caramelo Salgado) por colher; sem o Caramelo, nenhum sabor passa de 29 mg (Doce de Leite e Leite em Pó). As imagens trazem também fibras, de 0 g (Caramelo Salgado) a 1 g por colher, e gorduras totais, de 6,5 a 7,3 g."
         ]
       },
@@ -99522,7 +99487,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix. Confira no checkout como os dois descontos aparecem. As condições do cupom estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
           "A conta é simples: 5% sobre o subtotal, sem frete. Na faixa 3, R$ 5.250,69 menos R$ 262,53 dão R$ 4.988,16, ou R$ 831,36 por pessoa para seis pessoas. O frete é calculado à parte, pelo CEP.",
-          "O prazo para chegar antes do Natal muda por região: pela política de frete da loja, a entrega leva de 3 a 12 dias úteis, contados da confirmação do pagamento. A data-limite para pedir está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit), e no checkout o prazo aparece para o seu CEP antes do pagamento."
+          "Pela política padrão de frete da loja, a entrega leva de 5 a 10 dias úteis depois do despacho, e o pedido é separado no mesmo dia ou no dia útil seguinte. A data-limite para pedir está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit), e no checkout o prazo aparece para o seu CEP antes do pagamento."
         ]
       },
       {
@@ -100207,8 +100172,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prazo para chegar antes do Natal",
         "paragraphs": [
-          "A Let's Eat It não tem entrega expressa. O prazo segue a política de frete da loja e conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, com prazos intermediários para as outras regiões. O valor e o prazo do frete do seu CEP aparecem só no checkout, depois de preencher o endereço.",
-          "Para um presente com data, a conta é de trás para frente: partindo do dia do Natal, desconte os dias úteis da sua região e faça o pedido antes disso. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+          "A Let's Eat It não tem entrega expressa. O prazo segue a política padrão de frete da loja: de 5 a 10 dias úteis depois do despacho, e o pedido é separado no mesmo dia ou no dia útil seguinte. O valor e o prazo do frete do seu CEP aparecem só no checkout, depois de preencher o endereço.",
+          "Para um presente com data, a conta é de trás para frente: partindo do dia do Natal, desconte a separação e os 5 a 10 dias úteis de entrega e faça o pedido antes disso. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
         ]
       },
       {
@@ -100230,7 +100195,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o prazo de entrega para chegar antes do Natal? Conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, pela política de frete da loja. A data-limite de pedido está no guia de Black Friday da Let's Eat It.",
+          "Qual é o prazo de entrega para chegar antes do Natal? Pela política padrão de frete da loja, são 5 a 10 dias úteis depois do despacho, com a separação do pedido no mesmo dia ou no dia útil seguinte. A data-limite de pedido está no guia de Black Friday da Let's Eat It.",
           "Posso trocar um presente? A página de reembolso e trocas da loja fala em 30 dias contados do recebimento, com troca por produto equivalente, reembolso ou crédito. O site tem outro texto de política com regras diferentes: guarde a nota fiscal e confirme a condição por escrito com o atendimento antes de presentear com data marcada.",
           "O cupom MAUAD vale em promoção? Sim. Pelo nosso teste, ele soma com as promoções vigentes do site e com o desconto do Pix. O checkout mostra o valor final antes do pagamento.",
           "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou um eletroportátil, como a Chaleira Elétrica Positano de R$ 649,00 (127 V)."
@@ -100552,6 +100517,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Body Second Skin da Cléa Store, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: os 6 modelos por uso, gola, cores, tamanho e preço, e o leve 3.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
@@ -100685,7 +100651,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de 3 bodies: quanto sai cada peça",
         "paragraphs": [
-          "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos, a página não mostra preço de três peças.",
+          "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos conferidos, a página não mostra preço de três peças.",
           "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de outubro."
         ]
       },
@@ -100826,7 +100792,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe nos bodies de decote se você não quer decote na frente ou nas costas: fique no Gola Alta ou no Duplo, de gola alta.",
         "Passe se você veste fora do P, M e G: os seis modelos só vêm nesses tamanhos.",
-        "Passe se você quer o kit de três peças em outro modelo: só o Gola Alta e o Duplo têm."
+        "Passe se você quer o kit de três peças em outro modelo: nos modelos conferidos, só o Gola Alta e o Duplo têm."
       ]
     },
     "pros": [],
@@ -102261,7 +102227,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "O cartão só pode ser comprado em pedido individual, sem outros produtos no carrinho.",
-          "Ele vai para o e-mail de quem compra, que encaminha à pessoa presenteada. A página também mostra a opção \"Quero enviar como presente\", com e-mail e data para o presenteado, mas não explica se o cartão chega direto a essa pessoa: confira o fluxo no checkout antes de contar com isso. O envio sai depois da confirmação do pagamento.",
+          "O gift card é enviado para o e-mail cadastrado na compra. O envio sai depois da confirmação do pagamento.",
           "Vale por 12 meses a partir do recebimento por e-mail. Não é reembolsável e não pode ser revendido.",
           "A página limita quantos cartões cada conta pode comprar por dia.",
           "O cartão fica fora da campanha de brindes."
@@ -102691,7 +102657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Insider vale presente? Vale: a loja vende gift card virtual de R$ 50 a R$ 1.000, enviado por e-mail a quem comprou, com validade de 12 meses a partir do recebimento.",
+          "Insider vale presente? Vale: a loja vende gift card virtual de R$ 50 a R$ 1.000, enviado para o e-mail cadastrado na compra, com validade de 12 meses a partir do recebimento.",
           "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, mas a troca sai em vale-troca para usar no site. Pela política da loja, cueca, calcinha e sutiã só trocam por defeito.",
           "Cupom vale no gift card? Vale na compra do cartão: no nosso teste, o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
           "Chega a tempo do Natal? Depende da cidade e da data da aprovação do pagamento. A tabela da seção \"Até quando pedir\" traz a data limite de cada capital, e a loja diz que os prazos podem mudar em alta demanda.",
@@ -105433,7 +105399,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Brasil",
-              "Aviso de pausa de 03/07/2026 ainda no ar; um pedido nosso foi enviado",
+              "Entrega suspensa no site e no app; um pedido nosso de setembro foi enviado",
               "Não entrega"
             ],
             [
@@ -105456,7 +105422,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
           "alt": "Grade com 24 siglas de países, cada uma com dois pontos: o da esquerda para a YesStyle e o da direita para a Olive Young",
-          "caption": "Verde: entrega; amarelo: entrega sem prazo publicado ou, no Brasil, com o aviso de pausa da YesStyle; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana.",
+          "caption": "Verde: entrega; amarelo: entrega sem prazo publicado ou, no Brasil, com a entrega da YesStyle suspensa; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -105613,7 +105579,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A FAQ de países elegíveis da Olive Young Global diz que o envio não está disponível para países que não estão na lista, e cita Espanha, Brasil e Índia como exemplos. O seletor de destino da loja tem 61 países e não tem o Brasil. A tabela de envio, com a transportadora de cada país (DHL, FedEx, LX Pantos, UPS ou KSE), também não tem o Brasil.",
           "A loja diz que a lista pode mudar: países podem ser suspensos ou removidos a qualquer momento. A linha \"outras regiões\", de 15 dias, não diz quais países cobre, e a FAQ fala de países fora da lista. Para o Brasil, então, a resposta é a da FAQ: não é enviado.",
-          "As páginas lidas não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e o aviso que pausou os novos pedidos ao país segue na central da loja sem aviso de retomada. Mesmo assim, um pedido nosso foi enviado dois dias depois de feito."
+          "As páginas lidas não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e a entrega ao país está suspensa no site e no app. Mesmo assim, um pedido nosso de setembro foi enviado dois dias depois de feito."
         ]
       },
       {
@@ -105626,7 +105592,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher, conforme o país",
         "bullets": [
-          "Mora no Brasil: a Olive Young Global não entrega, e a YesStyle não publica prazo nem frete para o país, embora um pedido nosso tenha sido enviado.",
+          "Mora no Brasil: a Olive Young Global não entrega, e a entrega da YesStyle ao país está suspensa no site e no app, embora um pedido nosso de setembro tenha sido enviado.",
           "Mora em Portugal: as duas entregam, e a YesStyle publica o prazo (10 a 15 dias úteis no Standard) e a Olive Young só a regra de frete. Nas duas, o frete é grátis a partir de US$ 60; abaixo disso, a YesStyle cobra US$ 5 e a Olive Young, US$ 25.",
           "Mora nos Estados Unidos: a comparação é com a OLIVE YOUNG US, e nas duas o frete grátis começa em US$ 35.",
           "Pesa a devolução: a YesStyle aceita desistência e troca de tamanho, com o número de devolução pedido em até 14 dias; a Olive Young só aceita defeito ou item errado, em 30 dias.",
@@ -119197,7 +119163,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As datas da Black Friday da Skelt",
         "paragraphs": [
-          "A Skelt tem duas datas: o esquenta começa em 5 de novembro, com a live da coleção \"BF - Live\", e a Black Friday é em 27 de novembro, a sexta do calendário; a Cyber Monday cai em 30 de novembro. As datas vieram da loja. O percentual de desconto do esquenta e o da sexta ainda não foram publicados, e entram aqui quando a loja divulgar. O que a loja mostrava até aqui:"
+          "A Skelt tem duas datas: o esquenta começa em 5 de novembro, com uma live da coleção, e a Black Friday é em 27 de novembro, a sexta do calendário; a Cyber Monday cai em 30 de novembro. As datas vieram da loja. O percentual de desconto do esquenta e o da sexta ainda não foram publicados, e entram aqui quando a loja divulgar. O que a loja mostrava até aqui:"
         ],
         "bullets": [
           "A home traz as coleções \"Black Friday\", \"Pre Black Friday\" e \"BF - Live\", só pelo nome, sem percentual.",
@@ -119336,7 +119302,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Skelt? O esquenta começa no dia 5, com uma live, e a Black Friday é na última sexta-feira do mês, dia 27. As datas vieram da loja; o percentual de cada etapa ainda não foi publicado.",
           "A Skelt tem Black Friday? Tem: um esquenta com live no começo do mês e a sexta-feira. O desconto de cada etapa ainda não foi publicado; a home mostra as coleções com esse nome, sem percentual.",
-          "A coleção \"BF - Live\" é desconto? É a coleção da live de esquenta. O percentual dela ainda não foi publicado.",
+          "A coleção \"BF - Live\" é desconto? O esquenta tem uma live da coleção. O percentual dela ainda não foi publicado.",
           "O cupom vale na Black Friday? O SKEMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções da loja e com o Pix. Não testamos o cupom num produto com preço de esquenta ou de Black Friday; a sacola mostra o total antes de pagar.",
           "Vale a pena esperar? Depende do que você precisa e do preço do dia. Compare o preço do esquenta e o da sexta com a tabela de outubro deste guia.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2unTb7k).",
@@ -119550,7 +119516,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frete e retirada em loja",
         "paragraphs": [
           "O frete é calculado pelo CEP no carrinho, e a marca diz que entrega em todo o país. O site não publica uma política de frete grátis.",
-          "Na retirada em loja, a página Retire em Loja diz que o pedido fica pronto 3 horas depois da aprovação, e a política de trocas fala em até 3 horas para retirar. Como não fica claro se as 3 horas são para o pedido ficar pronto ou para você buscar, espere o aviso de que ele está pronto e confirme o prazo com a loja. A retirada só é feita pelo titular da compra, com documento original com foto."
+          "Na retirada em loja, o pedido fica pronto para retirada em até 3 horas depois da aprovação: espere o aviso de pedido pronto. A retirada só é feita pelo titular da compra, com documento original com foto."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-cartagena-preta.webp",
@@ -120319,7 +120285,7 @@ export const reviewsData: unknown[] = [
           "Confira o prazo de entrega pelo seu CEP na sacola.",
           "Confira o total depois do cupom e do Pix, antes de finalizar.",
           "Compre só pelo site oficial, pelo link da parceria (bagaggio.com.br) ou numa loja física da marca.",
-          "Se for retirar na loja, veja se há loja perto. A política da loja fala em até 3 horas para retirar, sem dizer quando o prazo começa a contar: espere o aviso de que o pedido está pronto e, na dúvida, confirme com a loja. A retirada é do titular da compra, com documento original com foto.",
+          "Se for retirar na loja, veja se há loja perto. O pedido fica pronto para retirada em até 3 horas depois da aprovação: espere o aviso de pedido pronto. A retirada é do titular da compra, com documento original com foto.",
           "Guarde o print da sacola e o número do pedido.",
           "Compra pela internet tem direito de arrependimento de 7 dias corridos depois do recebimento, pelo Código de Defesa do Consumidor (art. 49). Essa regra vale só para compra pelo site.",
           "O atendimento é pelo chat do site, de segunda a sexta, das 9h às 18h. Para trocas e garantia, a loja também indica o e-mail atendimento@bagaggio.com.br."
@@ -120357,7 +120323,7 @@ export const reviewsData: unknown[] = [
           "O cupom CECILIA10 vale na Black Friday? Ele vale em todo o site, com o Pix. Se soma com os preços da campanha, não testamos: aplique na sacola e confira a linha do desconto antes de pagar.",
           "O leve 3, pague 2 soma com o cupom? Não testamos. A promoção é da loja, e as condições dela aparecem no site. Confira o total da sacola com o cupom antes de pagar.",
           "Garantia vitalícia vale para mochila? Não. Ela vale só para malas da marca compradas depois do início do programa.",
-          "Dá para retirar na loja? Sim, quando há loja perto. A política fala em até 3 horas, sem dizer quando o prazo começa a contar: espere o aviso de que o pedido está pronto e, na dúvida, confirme com a loja. Precisa do titular da compra, com documento original com foto.",
+          "Dá para retirar na loja? Sim, quando há loja perto. O pedido fica pronto para retirada em até 3 horas depois da aprovação: espere o aviso de pedido pronto. Precisa do titular da compra, com documento original com foto.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2KeydkG)."
         ]
       }
@@ -126803,6 +126769,7 @@ export const reviewsData: unknown[] = [
     "description": "Exquenta Mais Mu em potes de 300 g e 500 g, sachês e versões sem cafeína: cafeína e taurina por dose pelo rótulo, doses por pote e preço por dose com os preços de 25/10/2026.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-capa.webp",
@@ -127046,7 +127013,7 @@ export const reviewsData: unknown[] = [
           "**Sachê de 20 g (15 unidades, R$ 194,85):** R$ 12,99 por dose; R$ 11,69 com o cupom; R$ 12,60 no Pix."
         ],
         "postParagraphs": [
-          "Com o cupom e o Pix somados, a conta dá R$ 4,40 por dose no pote de 500 g de R$ 125,99 e R$ 7,51 no de 300 g. É conta nossa, ainda sem conferir no checkout com os dois juntos.",
+          "Com o cupom e o Pix somados, a conta dá R$ 4,40 por dose no pote de 500 g de R$ 125,99 e R$ 7,51 no de 300 g. O cupom é válido em todas as formas de pagamento, inclusive no Pix.",
           "Os combos com creatina ficam fora desta conta. O pote de 1 kg de Exquenta só existe no combo com Creatina Refil 500 g (R$ 335,19, no Pix R$ 325,13), e a loja não separa o preço do Exquenta dentro dele. Os outros dois combos, de 300 g com creatina de 210 g e de 500 g com creatina refil, também somam creatina."
         ]
       },
@@ -132439,7 +132406,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle tem app para Android e iPhone, com a mesma conta do site. No app, o CECILIA010, código de recompensa, entra no campo \"Influencer / Rewards Code\" do checkout, ao lado do \"Coupon Code\". Em 28/10/2026 o app seguia sem entrega para o Brasil."
+          "Sim, a YesStyle tem app para Android e iPhone, com a mesma conta do site. No app, o CECILIA010, código de recompensa, entra no campo \"Influencer / Rewards Code\" do checkout, ao lado do \"Coupon Code\". A entrega ao Brasil está suspensa no site e no app."
         ]
       },
       {
@@ -132478,7 +132445,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega: o Brasil continua fora",
         "paragraphs": [
-          "A YesStyle continua sem entrega para o Brasil: conferimos no app. Comprar pelo app não muda isso.",
+          "A entrega ao Brasil está suspensa no site e no app. Comprar pelo app não muda isso.",
           "Quem está em Portugal encontra o detalhe em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
         ]
       },
@@ -132580,7 +132547,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A YesStyle tem app? Sim, para Android e iPhone, nos links oficiais do Google Play e da App Store. A loja diz para baixar só por esses dois.",
           "O CECILIA010 vale no app? Sim. No checkout, toque em \"Enter Code\" e digite o código no campo \"Influencer / Rewards Code\". Ele é código de recompensa, com até 5% extra, e soma com o cupom da loja, que vai no campo \"Coupon Code\".",
-          "O app da YesStyle entrega no Brasil? Não. Na conferência no app, a YesStyle seguia sem entrega para o Brasil, como no site.",
+          "O app da YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app.",
           "Ganho pontos por baixar o app? Sim, uma vez por conta: 50 pontos YS no primeiro download do app com login. Reinstalar ou usar outro aparelho não dá de novo, e os pontos não são o código de recompensa.",
           "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Na época do teste do app não havia um ativo; os cupons ativos ficam na página da loja."
         ]
@@ -156142,7 +156109,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a garantia?",
         "paragraphs": [
-          "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, e as fichas dos conjuntos trazem \"Garantia Vitalícia *confira regulamento\". O que cobre e como acionar estão no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia). A Downtown PP, do conjunto Downtown PP e Detroit G Preta, é da linha Travelcross, que a página da garantia vitalícia deixa de fora: nesse conjunto, a vitalícia vale para a Detroit G, não para a Downtown PP."
+          "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, e as fichas dos conjuntos trazem \"Garantia Vitalícia *confira regulamento\". O que cobre e como acionar estão no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia). A garantia vale para as malas do conjunto, inclusive a Downtown PP."
         ]
       },
       {
@@ -179933,7 +179900,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Toda Up vende e de onde veio",
         "paragraphs": [
-          "Se você quer sutiã, segunda pele ou adesivo, vai encontrar tudo na mesma loja, em cinco grupos. A marca é de Biguaçu (SC) e começou com a Fita UP, a fita adesiva para decote; cresceu, passou a se chamar Toda Up, e a fita continua à venda. A loja oficial é a todaup.com, e a marca também vende no Mercado Livre, na Amazon e em lojas físicas parceiras ([onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original)).",
+          "Se você quer sutiã, segunda pele ou adesivo, vai encontrar tudo na mesma loja, em cinco grupos. A marca é de Biguaçu (SC) e começou com a Fita UP, a fita adesiva para decote; cresceu, passou a se chamar Toda Up, e a fita continua à venda. A loja oficial é a todaup.com, e a marca também vende no Mercado Livre, na Amazon e em lojas físicas parceiras, mas o cupom MAUAD vale só no site oficial ([onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original)).",
           "As linhas, com o capítulo de cada uma abaixo:"
         ],
         "bullets": [
@@ -180324,7 +180291,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial da marca. O que pesa contra é o prazo fora de São Paulo e a peça frágil; veja os capítulos de frete e de louça."
+          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial da marca. O que pesa contra é o prazo de entrega e a peça frágil; veja os capítulos de frete e de louça."
         ]
       },
       {
@@ -180371,7 +180338,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e frete",
         "paragraphs": [
           "O código da Let's Eat It é o MAUAD e dá 5% em todo o site, em todas as formas de pagamento, somando com as promoções, a pré-venda e o desconto do Pix, que sai em muitos produtos. Ele vai no campo \"Código de desconto\" do checkout, e a linha \"Desconto no pedido\" aparece no resumo antes do pagamento; o frete entra na etapa seguinte. Conta nossa: se o Pix incide sobre o preço que já saiu com o código, os dois juntos tiram 9,75% do preço de lista, não 10%. A loja não publica cupom de primeira compra. O MAUAD dá 5% no site, e a loja não publica regra de uso por CPF. O passo a passo e as regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
-          "O frete é o que mais muda a conta: o valor sai por CEP e peso, simulado na página do produto, e a política padrão da loja cita frete grátis só para Le Creuset e Zwilling acima de R$ 1.000; confirme no carrinho. A loja informa: o pedido é separado no mesmo dia ou no dia útil seguinte, e a entrega leva de 3 a 5 dias úteis em São Paulo capital, de 4 a 7 no interior e na Grande São Paulo, de 5 a 8 no Sul e no Sudeste, de 6 a 9 no Centro-Oeste e de 7 a 12 no Norte e no Nordeste, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo do seu CEP mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
+          "O frete é o que mais muda a conta: o valor sai por CEP e peso, simulado na página do produto, e a política padrão da loja cita frete grátis só para Le Creuset e Zwilling acima de R$ 1.000; confirme no carrinho. A loja informa: o pedido é separado no mesmo dia ou no dia útil seguinte, e a entrega leva de 5 a 10 dias úteis depois do despacho, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo de entrega mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
         ]
       },
       {
@@ -180431,7 +180398,7 @@ export const reviewsData: unknown[] = [
           "Para quem quer Le Creuset com nota fiscal num canal que a marca lista, a loja vale, e o código tira 5% até da Le Creuset.",
           "Para a louça do dia a dia e o aparelho de jantar completo, a Porto Brasil, que é onde a promoção da loja está.",
           "Para presente de casamento ou de quem cozinha, a loja tem as faixas numa vitrine só, com troca em 30 dias da entrega.",
-          "Não vale para quem precisa da peça em poucos dias fora de São Paulo: o prazo chega a 12 dias úteis, e sobe em promoção.",
+          "Não vale para quem precisa da peça em poucos dias: a entrega leva de 5 a 10 dias úteis depois do despacho, e sobe em promoção.",
           "Não vale para quem quer frete grátis em qualquer pedido: na compra, a política padrão só cita Le Creuset e Zwilling acima de R$ 1.000.",
           "Pense duas vezes no cristal se o pedido vai longe: taças são o que mais quebra no caminho, e a reposição depende das fotos no dia da chegada."
         ],
@@ -180456,7 +180423,7 @@ export const reviewsData: unknown[] = [
         "Você compra no site com o código e paga no Pix: os dois descontos valem no mesmo pedido."
       ],
       "skipIf": [
-        "Você precisa da peça em poucos dias fora de São Paulo: o prazo chega a 12 dias úteis no Norte e no Nordeste.",
+        "Você precisa da peça em poucos dias: a entrega leva de 5 a 10 dias úteis depois do despacho.",
         "Você quer frete grátis em qualquer pedido: ele só vale nos pedidos maiores de Le Creuset e Zwilling, e o resto paga frete por CEP e peso.",
         "A peça é de cristal e você não quer o risco do transporte: taças estão entre os problemas mais citados no Reclame Aqui."
       ]
@@ -189537,7 +189504,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete: o mínimo conta antes do cupom",
         "paragraphs": [
-          "A Dr. Peanut dá frete grátis acima de R$ 149,90 no Sul e no Sudeste, e acima de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom, como testamos em novembro, então o cupom não tira o frete grátis de quem já passou dele. O pote de R$ 224,39 passa dos dois mínimos sozinho. A Max tem a regra de frete dela: veja o total no carrinho antes de comparar."
+          "A Dr. Peanut dá frete grátis acima de R$ 149,90 no Sul e no Sudeste, e acima de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom, como testamos em novembro, então o cupom não tira o frete grátis de quem já passou dele. O pote de R$ 224,39 passa dos dois mínimos sozinho, e no nosso teste o whey com o cupom DREMCASACOMCECILIA saiu com frete grátis. A Max tem a regra de frete dela: veja o total no carrinho antes de comparar."
         ]
       },
       {
