@@ -1,0 +1,82 @@
+{
+  "lote": "L36",
+  "tipo": "complemento",
+  "loja": "varias",
+  "base_main": "a9e81ac9",
+  "artigos": [
+    {
+      "slug": "ist-yesstyle-serioes-und-sicher",
+      "arquivo": "content/reviews/ist-yesstyle-serioes-und-sicher.json",
+      "locale": "de",
+      "propostas": [
+        {
+          "id": "ist-yesstyle-serioes-und-sicher-de-r02-gemini-P003",
+          "trilha": "gemini",
+          "decisao": "aplicar_ajustada",
+          "motivo": "Acerta a maiúscula do rótulo do botão (\"Shop besuchen\"). A chave sponsored fica de fora: o template já dá rel sponsored ao cta sem ela.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/cta",
+              "antes": {
+                "text": "K-Beauty auf YesStyle bestellen mit Code CECILIA010",
+                "label": "Shop Besuchen",
+                "url": "https://ystyle.co/rQYQv"
+              },
+              "depois": {
+                "text": "K-Beauty auf YesStyle bestellen mit Code CECILIA010",
+                "label": "Shop besuchen",
+                "url": "https://ystyle.co/rQYQv"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nutren-just-protein-para-que-serve",
+      "arquivo": "content/reviews/nutren-just-protein-para-que-serve.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "nutren-just-protein-para-que-serve-pt-r02-gemini-P002",
+          "trilha": "gemini",
+          "decisao": "aplicar_ajustada",
+          "motivo": "Responde o FAQ direto, com valores que já estão na seção da tabela; ajustado para não afirmar 0 g de gorduras, já que a ficha diz sem quantidades significativas.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/7/bullets/0",
+              "antes": "Qual a tabela nutricional do Nutren Just Protein? Os valores por porção de 15 g estão no capítulo Tabela nutricional da embalagem de 280g, acima.",
+              "depois": "Qual a tabela nutricional do Nutren Just Protein? Cada porção de 15 g (duas colheres de sopa cheias) fornece 52 kcal, 13 g de proteína, 0 g de carboidratos e 76 mg de sódio, sem quantidades significativas de gorduras ou fibras."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nutren-senior-zero-lactose-ficha-tecnica",
+      "arquivo": "content/reviews/nutren-senior-zero-lactose-ficha-tecnica.json",
+      "locale": "pt",
+      "propostas": [
+        {
+          "id": "nutren-senior-zero-lactose-ficha-tecnica-pt-r02-gemini-P001",
+          "trilha": "gemini",
+          "decisao": "aplicar",
+          "motivo": "Corrige o tempo verbal: o preço é de uma data passada, então \"era\" é o correto.",
+          "ordem": null,
+          "unidades": [
+            {
+              "op": "replace",
+              "ponteiro": "/contentSections/6/paragraphs/0",
+              "antes": "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial é R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
+              "depois": "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial era de R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

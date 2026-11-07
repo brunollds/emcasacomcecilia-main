@@ -17,6 +17,15 @@ traz o texto exato de cada mudança.
 Os 162 artigos que o Gemini não começou e os 145 que ele só analisou não deixam buraco, porque o ChatGPT
 cobriu os 638.
 
+**Complemento (07/11, L36).** O cruzamento das 3.027 propostas gravadas com o plano achou 112 sem destino:
+- 109 do Gemini, em 40 artigos, gravadas noutro formato (`field`/`before`/`after` e o "pronto" no arquivo), que o
+  script de montagem leu como não prontas: Dolce Gusto e Nutren em PT, e as famílias SHEIN e YesStyle "é
+  confiável" e YesStyle vs Olive Young;
+- 3 do ChatGPT que a auditoria deixou "pendente".
+
+Foram arbitradas sobre a `main` depois do M4 (`a9e81ac9`). Entram 3, no L36; as outras 109 estão no
+`nao-aplicar.json`. As 270 rejeitadas pelo revisor da própria auditoria ficaram de fora, como antes.
+
 ## Como foi decidido
 
 1. **Conferência contra a `main` de 07/11 (`aae5ed12`).** A base das auditorias estava 8 commits atrás e,
@@ -51,7 +60,7 @@ cobriu os 638.
 | `lotes.json` | os 35 lotes: tipo, loja, slugs e contagens |
 | `lotes/Lxx.json` | o lote, artigo por artigo, e por proposta: `decisao`, `motivo`, `ordem` e `unidades` (`op`, `ponteiro`, `antes`, `depois`) |
 | `aplicar.py` | aplica um lote e confere cada "antes" antes de gravar |
-| `nao-aplicar.json` | 924 propostas que não entram: 550 descartadas e 374 já cobertas pela `main`, cada uma com o motivo |
+| `nao-aplicar.json` | 1.033 propostas que não entram: 615 descartadas e 418 já cobertas pela `main`, cada uma com o motivo (109 delas são do complemento L36) |
 | `depende-confirmacao.json` | 185 propostas que esperam uma resposta do Bruno, para depois |
 
 ### Decisões
@@ -76,7 +85,7 @@ depois o M5, da revisão do código na resposta rápida:
 | M2 | L18, L30, L19, L20, L15, L23 |
 | M3 | L14, L16, L21, L22, L25–L28, L32–L34 |
 | M4 | famílias L01–L13 |
-| M5 | código na resposta rápida, L36 em diante (ver "M5" abaixo), depois do merge do M4 |
+| M5 | L36 (complemento, 3 unidades) no primeiro commit; depois o código na resposta rápida, de L37 em diante (ver "M5" abaixo) |
 
 Um Macro-PR por vez: o seguinte só começa depois do merge do anterior, a partir da `main` nova. Os lotes
 mexem no mesmo conjunto de arquivos, e a catraca anti-prontuário e o snippet só encolhem, então PRs em
@@ -130,7 +139,7 @@ o benefício e a condição principal quando o cupom vale para o assunto do arti
 
 - **Quando:** a análise de um artigo pode começar quando o Macro-PR dele entrar na `main`, sobre o texto
   final. A escrita entra num PR só, depois do merge do M4, a partir da `main` nova.
-- **Formato:** a entrega são lotes neste mesmo formato (`lotes/L36.json`, `L37.json`…; uma família de 10
+- **Formato:** a entrega são lotes neste mesmo formato (`lotes/L37.json`, `L38.json`…; uma família de 10
   idiomas num lote só), aplicados pelo `aplicar.py` com o mesmo fluxo, os mesmos gates e o Fable no fim.
   Cada proposta registra a decisão por artigo; quem "mantém sem código" leva a exceção no `motivo`.
 - **Regras da resposta rápida:**
@@ -207,8 +216,9 @@ Colunas:
 | L33 | PT | simple-organic | 5 | 13 | 48 | 4/8/1 | 13/0 | — | 0 | |
 | L34 | PT | skelt | 14 | 29 | 95 | 1/24/4 | 28/1 | — | 0 | |
 | L35 | PT | toda-up | 19 | 43 | 194 | 9/29/5 | 41/2 | — | 0 | |
+| L36 | complemento | nestle-nutre, yesstyle | 3 | 3 | 3 | 1/2/0 | 0/3 | — | 0 | |
 
-Total: 628 artigos, 1.536 propostas e 4.412 unidades. Os campos mais tocados são `contentSections` (3.654
+Total de L01–L35: 628 artigos, 1.536 propostas e 4.412 unidades; o L36 soma 3 propostas em 3 artigos. Os campos mais tocados são `contentSections` (3.654
 unidades), `decision` (278), `cta` (194), `description` (95) e `metaDescription` (57).
 
 ## Depende de confirmação (para o Bruno, fora dos lotes)

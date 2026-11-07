@@ -1025,5 +1025,18 @@
   "lote": "L35",
   "propostas": 43,
   "unidades": 194
+ },
+ {
+  "tipo": "complemento",
+  "loja": "varias",
+  "chaves": [],
+  "slugs": [
+   "ist-yesstyle-serioes-und-sicher",
+   "nutren-just-protein-para-que-serve",
+   "nutren-senior-zero-lactose-ficha-tecnica"
+  ],
+  "lote": "L36",
+  "propostas": 3,
+  "unidades": 3
  }
 ]
