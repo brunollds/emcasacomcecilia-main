@@ -885,6 +885,13 @@ for (const review of reviews) {
   if (JSON.stringify(prontuario) !== JSON.stringify(expected)) {
     report(`checkReviewProse: ${JSON.stringify(prontuario)}, esperado ${JSON.stringify(expected)}`);
   }
+  const quickAnswerAfterIntro = checkReviewProse({
+    contentSections: [
+      { heading: 'Como usar o cupom', paragraphs: ['Introdução.'] },
+      { heading: 'Resposta rápida', paragraphs: ['Sai por R$ 99.'] },
+    ],
+  });
+  if (!quickAnswerAfterIntro.quickAnswerPrice) report('checkReviewProse não viu o R$ na resposta rápida que vem depois da introdução');
   if (getProseProblems(prontuario, undefined).length !== 4) report('artigo fora da lista furando as 4 regras não deu 4 problemas');
   if (getProseProblems(prontuario, undefined, expected).length !== 0) report('a lista de pendentes não tolerou o que registra');
   if (getProseProblems(prontuario, 'campanha', { ...expected, bodyDates: undefined }).length !== 0) {
