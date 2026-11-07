@@ -67,7 +67,8 @@ const countDates = (texts: string[]) => texts.reduce((total, text) => total + fi
 
 export function checkReviewProse(review: ProseReview): ProseFindings {
   const sections = review.contentSections ?? [];
-  const quickAnswer = /^resposta rápida/i.test(sections[0]?.heading ?? '') ? sections[0] : undefined;
+  // Pelo título, não pela posição: há artigos com a resposta rápida logo depois de uma introdução.
+  const quickAnswer = sections.find((section) => /^resposta rápida/i.test(section.heading ?? ''));
   let bodyDates = 0;
   let datesOutsideBody = 0;
   for (const section of sections) {
