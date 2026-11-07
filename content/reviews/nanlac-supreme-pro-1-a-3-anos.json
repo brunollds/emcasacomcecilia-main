@@ -238,26 +238,27 @@
             "cerca de 56 porções de 100 ml, ou 5,7 litros"
           ],
           [
-            "7 medidas de 4,7 g por copo de 210 ml",
-            "32,9 g de pó por copo"
+            "7 medidas de 4,7 g para preparo com 210 ml de água",
+            "32,9 g de pó por porção de 7 medidas"
           ],
           [
             "800 g ÷ 32,9 g",
-            "cerca de 24 copos de 210 ml"
+            "cerca de 24 porções de 7 medidas, cada uma preparada com 210 ml de água"
           ],
           [
-            "24 copos em 3 por dia",
+            "24 porções de 7 medidas, em 3 porções por dia",
             "cerca de 8 dias"
           ],
           [
-            "24 copos em 2 por dia",
+            "24 porções de 7 medidas, em 2 porções por dia",
             "cerca de 12 dias"
           ]
         ]
       },
       "postParagraphs": [
-        "Com o preço da compra única (R$ 95,53), o custo de um copo de 210 ml fica em cerca de R$ 3,93 (conta nossa: R$ 95,53 ÷ 24,3 copos). É uma conta de referência: a quantidade real depende de quanto a criança toma e de como se mede o pó."
-      ]
+        "Na compra única de R$ 95,53, a porção de 7 medidas (32,9 g), preparada com 210 ml de água, sai por cerca de R$ 3,93. Conta nossa: 800 g ÷ 32,9 g = cerca de 24,3 porções; R$ 95,53 ÷ 24,3. Os 210 ml são a água indicada no preparo, não o volume final. O consumo da criança deve seguir a orientação profissional."
+      ],
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
       "heading": "Conservação",
@@ -291,7 +292,7 @@
       ],
       "postParagraphs": [
         "Pela Nota Técnica Conjunta nº 17/2026, só os lotes informados oficialmente estão sendo recolhidos. Confira as informações oficiais atualizadas antes de usar uma lata. Se a criança tiver vômitos, diarreia ou muito sono depois de consumir um lote da lista, a nota técnica orienta levar a criança a atendimento médico, com a embalagem ou uma foto dela.",
-        "Os lotes listados venciam em 2026. Não encontramos notícia do caso depois do recolhimento, e a loja vende o produto normalmente. Na dúvida, ligue para a Nestlé antes de usar uma lata comprada no começo do ano."
+        "Confira o lote e os comunicados oficiais atualizados antes de usar o produto. A loja vender o produto não diz se a sua lata está na lista; em caso de dúvida, confirme com a Nestlé pelo 0800 761 2500."
       ]
     },
     {
@@ -333,10 +334,10 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O Nanlac Supreme Pro foi recolhido? Alguns lotes do 800 g (1 a 3 anos) entraram no recolhimento da RE 32/2026. Segundo a Nota Técnica Conjunta nº 17/2026, só os lotes listados estão sendo recolhidos. Confira o lote no fundo da lata e compare com a lista oficial atualizada.",
+        "O Nanlac Supreme Pro foi recolhido? A RE 32/2026 e a Nota Técnica Conjunta nº 17/2026 incluem lotes específicos da lata de 800 g para 1 a 3 anos. Confira o número no fundo da lata e os comunicados oficiais atualizados, porque a lista pode mudar.",
         "Nanlac Supreme Pro é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre e a nota técnica do Ministério da Saúde e da Anvisa.",
         "Como preparar o Nanlac Supreme Pro? Ferva a água por 5 minutos, espere até 70 °C e use 14,1 g de pó (3 colheres rasas de 4,7 g) para 90 ml de água, conforme o rótulo.",
-        "Quanto rende a lata de Nanlac Supreme Pro de 800 g? Cerca de 5,7 litros de preparo ou 24 copos de 210 ml, em conta nossa feita com as medidas do rótulo.",
+        "Quanto rende a lata de Nanlac Supreme Pro de 800 g? Pela nossa conta com as medidas do rótulo, cerca de 56 porções de 100 ml preparado. Com 7 medidas e 210 ml de água por porção, são cerca de 24 porções; os 210 ml são a água usada no preparo.",
         "Quanto tempo dura a lata aberta do Nanlac Supreme Pro? O rótulo diz até 30 dias, com a lata bem tampada em local seco, fresco e arejado."
       ]
     }

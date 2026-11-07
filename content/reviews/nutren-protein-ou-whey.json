@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não existe um melhor no rótulo: o Nutren Protein em pó contém whey, mas também cafeína, lactose e glúten, e quem quer só a proteína do soro quer o Nutren Just Protein. O que pesa é cafeína, lactose e preço por porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+        "Não existe um melhor pelo rótulo: o Nutren Protein em pó tem whey com cafeína, lactose e glúten, e quem quer só a proteína do soro encontra no Nutren Just Protein uma versão isolada e sem sabor. Na loja oficial da Nestlé Nutre, o cupom CECI dá 10% OFF em itens elegíveis."
       ]
     },
     {
@@ -46,12 +46,32 @@
       },
       "comparisonTable": {
         "caption": "Nomes e descrições da loja oficial da Nestlé Nutre.",
-        "headers": ["Produto", "O que é, segundo a Nestlé", "O que o número do nome quer dizer"],
+        "headers": [
+          "Produto",
+          "O que é, segundo a Nestlé",
+          "O que o número do nome quer dizer"
+        ],
         "rows": [
-          ["Nutren Protein Baunilha ou Chocolate, 400 g (Baunilha também em 800 g)", "Suplemento alimentar em pó \"com Whey Protein, Cafeína e 20 vitaminas e minerais\"", "400 g e 800 g são o peso da lata: cerca de 13 e 25 porções de 31,5 g"],
-          ["Nutren Protein 15g de Proteínas, 260 ml", "Bebida pronta para beber, com \"15g de proteínas e 9 vitaminas e minerais por porção\"", "15 g é a proteína da garrafa"],
-          ["Nutren Just Protein 280 g e sachê de 15 g", "\"100% whey protein isolado\", sem sabor", "15 g é o tamanho da porção (2 colheres de sopa ou 1 sachê), com 13 g de proteína"],
-          ["Nutren 1.5 Protein, 200 ml", "Fórmula enteral modificada, hiperproteica e hipercalórica", "Fica fora desta comparação: não é o Nutren Protein, e a página dele diz \"Usar somente sob orientação médica ou de nutricionista\""]
+          [
+            "Nutren Protein Baunilha ou Chocolate, 400 g (Baunilha também em 800 g)",
+            "Suplemento alimentar em pó \"com Whey Protein, Cafeína e 20 vitaminas e minerais\"",
+            "400 g e 800 g são o peso da lata: cerca de 13 e 25 porções de 31,5 g"
+          ],
+          [
+            "Nutren Protein 15g de Proteínas, 260 ml",
+            "Bebida pronta para beber, com \"15g de proteínas e 9 vitaminas e minerais por porção\"",
+            "15 g é a proteína da garrafa"
+          ],
+          [
+            "Nutren Just Protein 280 g e sachê de 15 g",
+            "\"100% whey protein isolado\", sem sabor",
+            "15 g é o tamanho da porção (2 colheres de sopa ou 1 sachê), com 13 g de proteína"
+          ],
+          [
+            "Nutren 1.5 Protein, 200 ml",
+            "Fórmula enteral modificada, hiperproteica e hipercalórica",
+            "Fica fora desta comparação: não é o Nutren Protein, e a página dele diz \"Usar somente sob orientação médica ou de nutricionista\""
+          ]
         ]
       },
       "postParagraphs": [
@@ -69,17 +89,97 @@
       "heading": "Tabela comparativa pelo rótulo",
       "comparisonTable": {
         "caption": "Valores das páginas oficiais da Nestlé Nutre e da YoPRO, lidos em 12/10/2026. Cada linha tem a sua porção; compare a proteína pela porção, não pelo peso da embalagem. A lactose do Just Protein vem do rótulo da lata, na foto da página do produto. Na YoPRO, os valores por porção estão no seletor \"por Porção (250ml)\" da tabela; a primeira tela mostra por 100 g/ml.",
-        "headers": ["Produto", "Porção", "Calorias", "Proteína", "Açúcares totais", "Lactose", "Cafeína"],
+        "headers": [
+          "Produto",
+          "Porção",
+          "Calorias",
+          "Proteína",
+          "Açúcares totais",
+          "Lactose",
+          "Cafeína"
+        ],
         "rows": [
-          ["Nutren Protein Baunilha, pó", "31,5 g", "120 kcal", "14 g", "10 g", "Contém (FAQ da Nestlé)", "80 mg"],
-          ["Nutren Protein Baunilha, pó com 180 ml de leite desnatado", "31,5 g + 180 ml", "182 kcal", "20 g (6 g vêm do leite)", "19 g", "Contém", "80 mg"],
-          ["Nutren Protein Chocolate, pó", "31,5 g", "116 kcal", "14 g", "10 g", "Contém (FAQ da Nestlé)", "80 mg (FAQ da Nestlé)"],
-          ["Nutren Protein pronto para beber, Baunilha ou Chocolate", "260 ml (1 garrafa)", "112 kcal (Baunilha) / 114 kcal (Chocolate)", "15 g", "12 g", "0 g (tabela)", "A tabela não traz"],
-          ["Nutren Just Protein", "15 g", "52 kcal", "13 g", "0 g", "Contém (rótulo da lata)", "A tabela não traz"],
-          ["Nutren Senior Café com Leite, pó", "31,5 g", "130 kcal", "11 g", "5,7 g", "A página não informa", "A tabela não traz"],
-          ["Nutren Senior Sem Sabor Zero Lactose, pó", "27,5 g", "113 kcal", "10 g", "5 g", "0 g", "A tabela não traz"],
-          ["YoPRO Chocolate 15 g, bebida láctea UHT", "250 ml (1 unidade)", "172 kcal", "15 g", "18 g", "0 g", "A tabela não traz"],
-          ["Whey protein (categoria)", "Depende do produto", "Depende do rótulo", "Depende do rótulo", "Depende do rótulo", "Depende do rótulo", "Depende do rótulo"]
+          [
+            "Nutren Protein Baunilha, pó",
+            "31,5 g",
+            "120 kcal",
+            "14 g",
+            "10 g",
+            "Contém (FAQ da Nestlé)",
+            "80 mg"
+          ],
+          [
+            "Nutren Protein Baunilha, pó com 180 ml de leite desnatado",
+            "31,5 g + 180 ml",
+            "182 kcal",
+            "20 g (6 g vêm do leite)",
+            "19 g",
+            "Contém",
+            "80 mg"
+          ],
+          [
+            "Nutren Protein Chocolate, pó",
+            "31,5 g",
+            "116 kcal",
+            "14 g",
+            "10 g",
+            "Contém (FAQ da Nestlé)",
+            "80 mg (FAQ da Nestlé)"
+          ],
+          [
+            "Nutren Protein pronto para beber, Baunilha ou Chocolate",
+            "260 ml (1 garrafa)",
+            "112 kcal (Baunilha) / 114 kcal (Chocolate)",
+            "15 g",
+            "12 g",
+            "0 g (tabela)",
+            "A tabela não traz"
+          ],
+          [
+            "Nutren Just Protein",
+            "15 g",
+            "52 kcal",
+            "13 g",
+            "0 g",
+            "Contém (rótulo da lata)",
+            "A tabela não traz"
+          ],
+          [
+            "Nutren Senior Café com Leite, pó",
+            "31,5 g",
+            "130 kcal",
+            "11 g",
+            "5,7 g",
+            "A página não informa",
+            "A tabela não traz"
+          ],
+          [
+            "Nutren Senior Sem Sabor Zero Lactose, pó",
+            "27,5 g",
+            "113 kcal",
+            "10 g",
+            "5 g",
+            "0 g",
+            "A tabela não traz"
+          ],
+          [
+            "YoPRO Chocolate 15 g, bebida láctea UHT",
+            "250 ml (1 unidade)",
+            "172 kcal",
+            "15 g",
+            "18 g",
+            "0 g",
+            "A tabela não traz"
+          ],
+          [
+            "Whey protein (categoria)",
+            "Depende do produto",
+            "Depende do rótulo",
+            "Depende do rótulo",
+            "Depende do rótulo",
+            "Depende do rótulo",
+            "Depende do rótulo"
+          ]
         ]
       },
       "postParagraphs": [
@@ -89,7 +189,7 @@
     {
       "heading": "Nutren Protein ou whey protein",
       "paragraphs": [
-        "Pelo rótulo, a diferença principal é o que vem junto da proteína. O pó traz a proteína junto com cafeína, lactose, glúten e vitaminas e minerais (números na tabela acima); quem quer só a proteína do soro está falando do Just Protein. O Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", traz 13 g de proteína em 15 g, com carboidratos e açúcares em 0 g; a tabela dele não tem linha de cafeína nem de vitaminas, e o rótulo lista só proteína isolada do soro de leite de vaca e lecitina de soja.",
+        "A diferença está no que vem junto da proteína. O Nutren Protein em pó traz whey, cafeína, lactose, glúten, vitaminas e minerais. O Just Protein é whey isolado sem sabor: declara 13 g de proteína em 15 g de pó, com carboidratos e açúcares em 0 g, e lista só proteína isolada do soro de leite de vaca e lecitina de soja. Se você evita cafeína, confira o rótulo do Just Protein, porque a tabela dele não informa esse dado.",
         "Se você compara com o whey de outra marca, use o rótulo dele: proteína por porção, tamanho da porção, açúcares e se tem cafeína. A ficha completa do isolado da Nestlé está no nosso guia do Just Protein."
       ],
       "images": [
@@ -181,7 +281,7 @@
       "paragraphs": [
         "Não existe um melhor no rótulo: cada produto serve a uma necessidade diferente, e a quantidade certa é assunto para o médico ou o nutricionista."
       ],
-      "emphasis": "Pelos números da tabela, para quem quer só a proteína do soro a escolha é o Just Protein, porque ele traz 13 g de proteína em 15 g com açúcares em 0 g.",
+      "emphasis": "Para quem quer só a proteína do soro, o Just Protein é a opção de whey isolado sem sabor: declara 13 g de proteína em 15 g de pó e açúcares em 0 g. Para escolher, confira ingredientes e restrições no rótulo do produto que você vai usar.",
       "bullets": [
         "Quer só a proteína do soro do leite, com carboidratos e açúcares em 0 g na tabela: o Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", com 13 g de proteína em 15 g.",
         "Quer um suplemento com vitaminas e minerais: o Nutren Protein em pó, com 14 g de proteína em 31,5 g, mas também 80 mg de cafeína, lactose e glúten.",
@@ -220,8 +320,7 @@
   "affiliate": "nestle-nutre",
   "decision": {
     "takeIf": [
-      "Você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela.",
-      "Você quer evitar cafeína e glúten: a tabela do Just Protein não lista cafeína e a loja o marca como sem glúten."
+      "Você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela."
     ],
     "skipIf": [
       "Você quer vitaminas e minerais junto da proteína: aí é o Nutren Protein em pó.",

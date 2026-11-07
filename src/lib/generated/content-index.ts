@@ -35103,18 +35103,18 @@ export const reviewsData: unknown[] = [
       "10% de desconto sobre o valor dos produtos no site oficial da Nestlé Nutre",
       "Vale para os produtos da loja, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses",
       "Código de parceria do blog com a Nestlé Nutre, aplicado direto no checkout",
-      "Basta digitar CECI no campo de cupom do checkout"
+      "Basta digitar CECI no campo de cupom do checkout",
+      "Pode somar com promoções participantes; confira o valor final no carrinho"
     ],
     "cons": [
       "Não vale para Alfamino, Alfaré nem fórmulas infantis para bebês de 0 a 12 meses, como NAN",
-      "O desconto não incide sobre o valor do frete",
-      "Soma com as promoções da loja; o valor final do carrinho confirma"
+      "O desconto não incide sobre o valor do frete"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: como usar o cupom CECI",
         "paragraphs": [
-          "O [cupom Nestlé Nutre](/cupons/nestle-nutre) é o CECI e dá 10% sobre os produtos da loja oficial, não sobre o frete. Você digita CECI no campo de cupom do checkout e confere a linha do desconto antes de pagar. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; veja a seção de produtos excluídos."
+          "O [cupom oficial da Nestlé Nutre](/cupons/nestle-nutre) é o CECI e dá 10% sobre os produtos elegíveis da loja oficial, sem incidir sobre o frete. Digite o código no campo de cupom do carrinho e confira o desconto antes de pagar. Fórmulas infantis de 0 a 12 meses, como a linha NAN, e os itens Alfamino e Alfaré ficam de fora."
         ]
       },
       {
@@ -35179,7 +35179,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confirme o desconto antes de pagar",
         "paragraphs": [
-          "Esse é o passo mais importante. No teste de 26/10, num carrinho com duas latas de Nutren Fortify, o CECI tirou 10% do total (de R$ 283,78 para R$ 255,40). Agora, no seu pedido: confira se o desconto realmente apareceu no valor total antes de finalizar a compra. Se o cupom não funcionar, verifique se o código foi digitado corretamente, se algum item do carrinho é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses (que ficam de fora da promoção) e se há outra campanha ativa na loja que possa interferir no desconto. Se nada disso explicar, avise pelo contato do Em Casa com Cecília para que a informação seja revisada."
+          "No teste de 26/10, num carrinho com duas latas de Nutren Fortify, o CECI tirou 10% do total: de R$ 283,78 para R$ 255,40.",
+          "No seu pedido, confira a linha do desconto e o total antes de pagar.",
+          "Se o desconto não aparecer, confira se digitou CECI corretamente, se há Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses no carrinho (itens excluídos) e se outra campanha ativa pode interferir. Se nada disso explicar, avise pelo contato do Em Casa com Cecília para revisarmos a informação."
         ],
         "image": "/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
         "imageAlt": "Resumo do pedido na loja da Nestlé Nutre com o cupom CECI aplicado: subtotal de R$ 1.121,84, desconto de R$ 112,18 (10%) e total de R$ 1.009,66.",
@@ -35205,13 +35207,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Onde a Nestlé Nutre entra nessa história",
-        "paragraphs": [
-          "A parceria com a Nestlé Nutre nasceu justamente dessas conversas sobre alimentação da família toda — não só das crianças, mas dos adultos e dos mais velhos também. O CECI é o código da nossa parceria com a loja oficial: o desconto de cada compra aparece no carrinho. Assim que tiver experiência de uso para compartilhar, este espaço será atualizado.",
-          "Se você já pesquisou e sabe qual produto da linha quer comprar, o cupom ajuda a economizar 10% nessa decisão."
-        ]
-      },
-      {
         "heading": "Veredito",
         "paragraphs": [
           "Se você já escolheu o produto, o passo final é simples: no checkout do site da Nestlé Nutre, digite CECI, clique em aplicar e confira se o desconto de 10% apareceu no valor total antes de pagar. Só confira se nenhum item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses, já que eles ficam de fora da promoção.",
@@ -35219,8 +35214,9 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Usar o cupom CECI na Nestlé Nutre",
-            "href": "https://www.nestlenutre.com.br/"
+            "label": "Usar o cupom CECI na loja oficial Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/",
+            "sponsored": true
           }
         ]
       },
@@ -35232,7 +35228,7 @@ export const reviewsData: unknown[] = [
           "O cupom pode ser usado mais de uma vez? A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.",
           "É necessário receita médica para comprar? Confira na página do produto se há alguma exigência; as regras de venda são da loja. De forma geral, itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de médico ou nutricionista.",
           "O desconto inclui o frete? Não. O desconto de 10% incide sobre o valor dos produtos; o frete é calculado à parte, conforme a política da loja.",
-          "O cupom CECI funciona em produtos que já estão com desconto ou em combo? Sim. O CECI soma com as promoções vigentes da loja, inclusive em produtos com preço promocional. O resumo do carrinho mostra o desconto antes de pagar.",
+          "O cupom CECI funciona em produtos que já estão com desconto ou em combo? Ele pode somar com promoções participantes, mas as condições variam. Confira se o desconto aparece no resumo do carrinho antes de pagar.",
           "Qual o valor mínimo de compra para usar o cupom CECI? Não tem valor mínimo. O frete é calculado separadamente.",
           "O cupom CECI dá frete grátis? O cupom em si, não: ele aplica 10% sobre o valor dos produtos. Frete, prazo e condições de entrega seguem a política da loja e podem mudar; confira o frete no checkout, pelo seu CEP.",
           "Como saber se o cupom CECI foi aplicado corretamente? Depois de inserir o código CECI no campo de cupom do checkout, o desconto aparece no resumo do pedido. Se não aparecer, verifique se nenhum item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses, se o código foi digitado corretamente e se há outra campanha ou cupom ativo que possa interferir.",
@@ -35241,16 +35237,17 @@ export const reviewsData: unknown[] = [
           "Onde encontro o cupom Nestlé Nutren? O cupom CECI é o código de parceria do blog Em Casa com Cecília com a Nestlé Nutre: 10% OFF em produtos da loja oficial, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. A ficha atualizada fica na página de cupons do Em Casa com Cecília, e o código é aplicado no campo de cupom do checkout.",
           "Existe desconto de laboratório para produtos Nutren? O cupom CECI é um código de parceria para compras no site da loja. Condições para laboratórios, clínicas ou compras corporativas, se existirem, devem ser consultadas diretamente com a Nestlé Nutre; o atendimento da loja é 0800 770 2461, de segunda a sexta, das 8h às 17h, segundo o site da loja.",
           "Existe o programa \"Nestlé meu desconto nutrição\"? Não encontramos um programa com esse nome. A Nestlé Nutre tem o Programa Nestlé Nutre, voltado a pacientes e cuidadores, que, segundo a página do programa, oferece conteúdos e serviços gratuitos e um cupom de 10% todo mês para usar na loja. É um benefício separado, com cadastro; o CECI é aplicado no campo de cupom do checkout.",
-          "Como funciona o programa de desconto Nutren? A Nestlé Nutre tem o Programa Nestlé Nutre, com cadastro, que inclui um cupom de 10% por mês, e o Programa de Assinaturas, com 10% nos três primeiros pedidos e 15% a partir do quarto pedido seguido. O cupom CECI é diferente: é aplicado no campo de cupom do checkout, na compra avulsa.",
+          "Como funciona o programa de desconto Nutren? O Programa de Assinaturas dá 10% nos três primeiros pedidos e 15% a partir do quarto pedido seguido. O cupom CECI é diferente: é aplicado no campo de cupom do checkout, na compra avulsa.",
           "O cupom Nestlé CECI vale para outros produtos da marca? O CECI foi cadastrado para a loja Nestlé Nutre (nestlenutre.com.br), exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Produtos Nestlé vendidos em outros sites, mercados ou farmácias não fazem parte da parceria.",
-          "Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI dá 10% OFF em Nutren Senior e nos demais produtos elegíveis. Promoções pontuais podem aparecer no site oficial, e o CECI soma com elas; o valor final do carrinho é a referência."
+          "Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI dá 10% OFF em Nutren Senior e nos demais produtos elegíveis. Promoções pontuais podem aparecer no site oficial; confira no carrinho se o CECI soma com a oferta escolhida."
         ]
       }
     ],
     "cta": {
       "text": "Compre no site oficial com cupom CECI",
-      "label": "Ver produtos",
-      "url": "https://www.nestlenutre.com.br/"
+      "label": "Ver produtos na loja oficial",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
@@ -35303,8 +35300,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
-          "O catálogo tem quatro frentes da Nestlé mais parceiras no mesmo checkout: Suplementação, Nutrição Clínica, Pediátrica e Envelhecimento Saudável. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
-          "Um diferencial pouco conhecido é o Programa Nestlé Nutre, um serviço de suporte ao paciente com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat (em parceria com a Becare). É um programa separado da nossa parceria com o cupom CECI, mas vale conhecer se você ou alguém da família usa produtos da linha com frequência."
+          "O catálogo reúne Suplementação, Nutrição Clínica, Pediátrica e Envelhecimento Saudável. A loja também vende marcas parceiras, como Sundown, Pure Encapsulations e Vital Proteins, no mesmo checkout.",
+          "O Programa Nestlé Nutre oferece suporte ao paciente, com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de atendimento nutricional gratuito por chat em parceria com a Becare. É um programa separado da nossa parceria com o CECI."
         ],
         "bullets": [],
         "images": [
@@ -35325,7 +35322,7 @@ export const reviewsData: unknown[] = [
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
           "O direito de arrependimento vale por até 7 dias corridos a partir do recebimento. A devolução é pedida pelo SAC da loja, e a Nestlé (ou a marca parceira) paga a coleta ou a postagem. O produto volta na embalagem original ou similar, com a nota fiscal e, quando houver, o manual e os acessórios.",
-          "Quando o produto chega ao centro de distribuição, a loja confere essas condições e devolve o valor total. No cartão, o estorno sai de uma vez, na fatura seguinte ou na posterior, seja qual for o número de parcelas. Produto com defeito ou entregue errado não entra no arrependimento: nesse caso, fale com o SAC e explique o problema.",
+          "Quando o produto chega ao centro de distribuição, a loja confere essas condições e devolve o valor total. No cartão, o estorno sai de uma vez, na fatura seguinte ou na posterior, seja qual for o número de parcelas. Se o produto chegou com defeito ou foi entregue errado, informe também o problema ao SAC para receber as instruções de atendimento.",
           "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. A home da loja anuncia frete grátis acima de R$ 200, mas esse valor pode mudar com as campanhas: confira o frete e o prazo no carrinho, com o seu CEP. O parcelamento chega a 6x sem juros no cartão."
         ],
         "bullets": []
@@ -35371,15 +35368,16 @@ export const reviewsData: unknown[] = [
           "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
           "A Nestlé Nutre entrega no meu CEP? Digite o CEP no carrinho: o site mostra se entrega, o prazo e o frete antes do pagamento.",
           "Como funciona a devolução na Nestlé Nutre? Pelo direito de arrependimento, você pede a devolução ao SAC em até 7 dias corridos após o recebimento, com o produto na embalagem original ou similar e a nota fiscal. A Nestlé paga a coleta e, no cartão, o estorno sai na fatura seguinte ou na posterior.",
-          "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente, separado da parceria do cupom CECI com este blog.",
+          "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde e atendimento nutricional gratuito. O programa é separado da parceria do cupom CECI com este blog.",
           "O cupom CECI soma com as promoções da Nestlé Nutre? No nosso teste, sim: o CECI deu 10% OFF nos produtos elegíveis junto com as promoções da loja. Ele não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; confira a linha do desconto no resumo antes de pagar."
         ]
       }
     ],
     "cta": {
       "text": "Conheça a linha Nestlé Nutre e aproveite o cupom CECI",
-      "label": "Visitar loja",
-      "url": "https://www.nestlenutre.com.br/"
+      "label": "Abrir a loja oficial Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
@@ -35427,7 +35425,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual Nutren é para quem",
         "paragraphs": [
-          "Não existe um Nutren melhor que os outros: cada linha tem um público definido pela própria Nestlé, do Senior (acima dos 50 anos) ao Active (jovens e adultos). O que pesa é quem vai usar e a orientação do médico ou nutricionista. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+          "O Senior é para pessoas a partir dos 50 anos; o Protein tem pó com cafeína e versão pronta; o Control tem finalidade específica no metabolismo de açúcares; o Active é complemento para jovens e adultos. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       },
       {
@@ -35547,7 +35545,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Senior: para que serve e quais versões existem",
         "paragraphs": [
-          "O Senior é para quem tem mais de 50 anos. A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\"; para uma condição de saúde, a escolha é do médico ou nutricionista. É complemento alimentar, não remédio.",
+          "O Senior é para pessoas a partir dos 50 anos, como informam as páginas de produto. Para uma condição de saúde, a escolha é do médico ou nutricionista.",
           "Há o pó em latas de 740 g, o Premium de 370 g, que a Nestlé diz ter \"colágeno FORTIGEL® e ômega 3\", e o pronto de 200 ml, isento de lactose. O Senior Sem Sabor de 740 g (o que não é Zero Lactose) traz na lata 20 g de proteína na porção diária de 55 g, tomada em duas doses de 27,5 g. Pelo FAQ da linha, o pó e o pronto não contêm glúten; só as cápsulas Senior A-Z contêm."
         ],
         "images": [
@@ -35572,7 +35570,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Protein: pó com cafeína ou garrafa pronta",
         "paragraphs": [
-          "O Protein em lata tem cafeína, em baunilha e chocolate; a garrafa pronta é outro produto. A proteína e a cafeína da porção estão na tabela acima; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
+          "O Protein em lata contém cafeína e tem sabores baunilha e chocolate; a garrafa pronta é outro produto. A proteína e a cafeína da porção estão no quadro acima. Os 20 g do destaque do pó incluem 180 ml de leite desnatado. A página avisa que o pó não deve ser consumido por gestantes, lactantes e crianças; o FAQ informa lactose e glúten no pó.",
           "A garrafa pronta de 260 ml é outro produto, com os valores da tabela acima, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
         ],
         "image": {
@@ -35613,7 +35611,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Active: o complemento para jovens e adultos",
         "paragraphs": [
-          "O Active é complemento para jovens e adultos. A diferença para o Senior, na resposta da própria marca: \"Nutren Active foi feito para jovens e adultos e Nutren Senior para pessoas com mais de 50 anos\".",
+          "O Active é complemento para jovens e adultos. A marca diferencia o Senior pela faixa etária: a partir dos 50 anos.",
           "A lata tem 400 g, em baunilha, chocolate e morango. Na porção de 31,5 g da baunilha são 7,5 g de proteína, ou 14 g com 180 ml de leite desnatado. O FAQ diz que o Active contém lactose e glúten e que ele não pode ser fervido: se quiser quente, junte leite quente."
         ],
         "image": {
@@ -35640,7 +35638,7 @@ export const reviewsData: unknown[] = [
           "Cafeína: das tabelas lidas, só a do Nutren Protein em pó traz cafeína, 80 mg por porção; a da garrafa de 260 ml não traz linha de cafeína.",
           "Glúten: o Protein em pó e o Active contêm; Senior em pó e pronto e Control não contêm.",
           "Lactose: o Senior Zero Lactose, o Senior pronto, o Control e a garrafa do Protein trazem 0 g; o Protein em pó e o Active contêm, segundo o FAQ, e a página do Senior Premium também diz que contém.",
-          "Açúcares: o Protein em pó e o Active têm pouco açúcar adicionado por porção, e o Control tem bem mais mesmo isento de sacarose, frutose, glicose e lactose. Os valores por porção estão na tabela do início."
+          "Açúcares: as versões de Protein, Active e Control do quadro declaram açúcares adicionados. No Control, isso aparece mesmo com sacarose, frutose, glicose e lactose em 0 g. Confira a porção de cada versão antes de comparar os valores."
         ]
       },
       {
@@ -35717,8 +35715,8 @@ export const reviewsData: unknown[] = [
           "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé."
         ],
         "bullets": [
-          "Nutren Senior: linha para adultos acima dos 50 anos. Pelos números da tabela, para quem precisa de zero lactose a escolha é o Senior Zero Lactose ou o Control, porque trazem 0 g de lactose por porção.",
-          "Nutren Protein: para jovens e adultos que querem \"foco e energia\"; o pó tem 80 mg de cafeína por porção e não é para gestantes, lactantes e crianças.",
+          "Nutren Senior: linha para pessoas a partir dos 50 anos. O Senior Sem Sabor Zero Lactose tem 0 g de lactose por porção no quadro, assim como o Senior pronto, o Protein pronto e o Control. Quem tem restrição ou necessidade específica deve avaliar a composição com o médico ou nutricionista.",
+          "Nutren Protein: o pó contém cafeína e não deve ser consumido por gestantes, lactantes e crianças. A bebida pronta tem composição diferente, apresentada no quadro.",
           "Nutren Control: para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
           "Nutren Active: complemento para jovens e adultos.",
           "As porções mudam de uma linha para outra (27,5 g, 31,5 g, 40 g, 42 g de pó; 200 ou 260 ml de bebida). Compare a tabela com isso em mente."
@@ -35727,16 +35725,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual Nutren escolher? Depende de quem vai usar e do que o médico ou nutricionista indicou: a Nestlé destina o Senior a quem tem mais de 50 anos, o Active a jovens e adultos, o Protein a quem quer foco e energia (com 80 mg de cafeína no pó) e o Control ao manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
+          "Qual Nutren escolher? Confira a apresentação e a faixa etária no quadro inicial. As quatro linhas têm composições e finalidades diferentes; para uma necessidade de saúde, a escolha é do médico ou nutricionista.",
           "Para que serve o Nutren Senior? É a linha da Nestlé para pessoas a partir dos 50 anos, detalhada no capítulo do Senior; para uma condição de saúde, quem decide é o médico ou nutricionista.",
-          "Nutren Protein ou Nutren Senior: qual o melhor? Não há um melhor: o Senior é para quem tem mais de 50 anos e o Protein para jovens e adultos, e o Protein em pó tem cafeína, lactose e glúten, enquanto o Senior em pó e pronto não contém glúten.",
+          "Nutren Protein ou Nutren Senior: qual o melhor? A escolha depende da apresentação e da orientação profissional. O Senior é a linha para pessoas a partir dos 50 anos; o Protein em pó contém cafeína, lactose e glúten, enquanto o Senior em pó e pronto não contém glúten, segundo o FAQ da linha.",
           "Para que serve o Nutren Control? A Nestlé o indica para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
           "Nutren Control é para diabéticos? A indicação da Nestlé fala em pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação profissional; para quem tem diabetes, quem decide é o médico ou nutricionista que acompanha a pessoa.",
           "Nutren Control tem açúcar? Tem: a tabela mostra açúcares totais e adicionados nos dois formatos mesmo com sacarose, frutose, glicose e lactose em 0 g, como detalha o capítulo do Control; quem precisa controlar açúcares deve levar a tabela ao médico ou nutricionista.",
           "Como preparar o Nutren Control em pó? Pelo rótulo da lata de 380 g: 5 colheres de sopa (42 g) com 50 ml de água até formar uma pasta, depois mais 130 ml de água, e consumir logo após o preparo.",
           "Nutren Control tem glúten? Não: o rótulo do pó e o FAQ do pronto dizem que não contém glúten, e o pó contém derivados de leite e soja.",
-          "Para que serve o Nutren Active? A Nestlé o descreve como complemento para jovens e adultos que precisam de mais energia e disposição; ele contém lactose e glúten.",
-          "Qual a diferença entre Nutren Active e Nutren Senior? Pela Nestlé, o Active é para jovens e adultos e o Senior para pessoas com mais de 50 anos, e as tabelas têm porções e nutrientes diferentes.",
+          "Para que serve o Nutren Active? É complemento alimentar para jovens e adultos, segundo a Nestlé. Contém lactose e glúten; a composição da versão Baunilha está no quadro.",
+          "Qual a diferença entre Nutren Active e Nutren Senior? A Nestlé destina o Active a jovens e adultos e o Senior a pessoas a partir dos 50 anos. As porções e a composição de cada apresentação estão no quadro do início.",
           "Nutren Protein tem cafeína? O pó tem 80 mg por porção de 31,5 g e não deve ser consumido por gestantes, lactantes e crianças; a tabela da garrafa de 260 ml não traz linha de cafeína.",
           "Nutren Senior tem glúten e lactose? O Senior em pó e pronto não contém glúten, segundo o FAQ; o Zero Lactose e o pronto têm 0 g de lactose, e a tabela do Café com Leite não traz linha de lactose; a página do Premium diz que ele contém lactose.",
           "Nutren Senior engorda? Nas páginas que lemos, a Nestlé não fala em ganho de peso para o Senior, e no FAQ do Control escreve que \"nenhum alimento por si só tem o poder de engordar ou emagrecer\"; o peso depende de toda a alimentação e da orientação do médico ou nutricionista.",
@@ -35857,7 +35855,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o Nutren Senior Zero Lactose",
         "paragraphs": [
           "O Zero Lactose é composto lácteo com cálcio, proteínas e vitamina D, para adultos acima de 50 anos. A enzima lactase entra na lista de ingredientes das duas latas de 740 g.",
-          "Os benefícios declarados na ficha oficial incluem proteínas e nutrientes voltados a adultos 50+. Na versão sem sabor, a marca também afirma auxílio na manutenção das funções do tecido ósseo e do músculo esquelético. Na baunilha, destaca cálcio e vitamina D."
+          "As duas versões têm a mesma base de ingredientes, com proteínas e cálcio. Para escolher entre elas, confira a lista: a baunilha acrescenta aromatizante e sucralose, enquanto a sem sabor não traz esses dois itens na lista oficial."
         ],
         "image": "/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp",
         "imageAlt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g com os benefícios declarados pela marca: nutrição diária para adultos 50+, proteínas, cálcio, vitamina D e nutrientes essenciais",
@@ -42120,7 +42118,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar o Nutren Just Protein na cozinha e no dia a dia",
         "paragraphs": [
-          "O modo de preparo indicado pela fabricante é adicionar 2 colheres de sopa cheias (15g) em 120ml de água e misturar imediatamente até homogeneizar, consumindo a porção logo após o preparo. O rótulo orienta adultos a consumir uma porção ao dia e, depois de aberta, a usar o conteúdo da lata em até 30 dias, mantendo-a bem fechada em local fresco e seco.",
+          "Para o preparo indicado pela fabricante, adicione 2 colheres de sopa cheias (15 g) em 120 ml de água e misture imediatamente até homogeneizar. Consuma a porção logo após o preparo. O rótulo orienta adultos a consumir uma porção ao dia.",
+          "Depois de abrir a lata, use o conteúdo em até 30 dias. Mantenha a embalagem bem fechada em local fresco e seco.",
           "As combinações abaixo são sugestões editoriais para variar o consumo, não substituem o preparo oficial nem orientação profissional. Ao testar o pó em receitas, adicione aos poucos e observe a consistência, porque sabor, textura e dissolução dependem dos ingredientes e da temperatura.",
           "O rótulo diz que gestantes, lactantes e crianças não devem consumir. Quem tem alergia, intolerância, doença crônica ou necessidade específica de proteína deve falar com um profissional de saúde antes."
         ],
@@ -44301,10 +44300,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é creatina e para que serve?",
         "paragraphs": [
-          "Se você começou a pesquisar creatina, é fácil ter a impressão de que todos os potes entregam exatamente a mesma coisa. O pó costuma ser branco, o sabor é discreto e quase todas as marcas falam em desempenho. A diferença começa a aparecer quando olhamos a composição, a porção, o rendimento e o preço por grama.",
           "A creatina é um composto que o próprio organismo produz a partir de aminoácidos e que também está presente em alimentos. A maior parte fica armazenada nos músculos, onde participa do sistema de energia rápida usado principalmente em esforços curtos e intensos. A forma monohidratada é a apresentação mais comum nos suplementos comparados neste guia.",
-          "Para comparar, olhe o rótulo: ingrediente único, porção e rendimento. Dúvida de uso e saúde vai para médico ou nutricionista.",
-          "É nesse contexto que a Nutren entra: não como uma creatina “mais forte” por carregar a marca Nestlé, mas como uma nova apresentação de creatina monohidratada que precisa ser comparada com Growth, FTW e Lavitan pelos dados que realmente mudam a compra."
+          "Para comparar, olhe o rótulo: ingrediente único, porção e rendimento. Dúvida de uso e saúde vai para médico ou nutricionista."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nutren-creatina-300g-composicao.webp",
@@ -44325,7 +44322,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Creatina é boa?",
         "paragraphs": [
-          "Sim para quem quer creatina monohidratada sem mistura, pelo rótulo. O que decide é preço por 100 g e porção, na tabela do capítulo Comparativo auditável.",
+          "Sim para quem quer creatina monohidratada sem mistura, pelo rótulo. Para comparar a compra, veja o preço por 100 g e a porção na tabela “Nutren, Growth, FTW e Lavitan: composição, porção e preço”.",
           "O que não dá para concluir apenas pelo nome da marca é que ela seja mais eficaz ou mais pura do que as concorrentes. Sem laudos comparáveis dos mesmos lotes, a resposta mais útil é esta: a Nutren oferece a formulação esperada, e sua vantagem ou desvantagem depende do preço final, do tamanho da porção, da embalagem e do canal em que você prefere comprar."
         ],
         "bullets": []
@@ -44350,10 +44347,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "Comparativo auditável: Nutren, Growth, FTW e Lavitan",
+        "heading": "Nutren, Growth, FTW e Lavitan: composição, porção e preço",
         "paragraphs": [
-          "Na tabela, as quatro marcas lado a lado pelo custo por 100 g, com a Nutren com o CECI e a Growth no Pix praticamente empatadas. Os preços vêm dos sites oficiais, consultados em agosto de 2026 (Nutren, FTW e Lavitan) e atualizados em outubro de 2026 (Growth e Nutren). O R$ 53,91 da Nutren é o cálculo de 10% sobre R$ 59,90, não um teste de carrinho. As porções diferem (Growth 5 g, Nutren 3 g), então a base comum é o custo por 100 g, não o número de porções.",
-          "Não atribuímos superioridade de pureza, eficácia ou controle de qualidade sem laudo comparável dos mesmos lotes. A expressão “100% monohidratada” descreve a composição declarada; não substitui ensaio laboratorial independente."
+          "A base comum da tabela é o custo por 100 g, porque a Growth usa porção de 5 g e a Nutren, de 3 g. Os preços vêm dos sites oficiais, consultados entre agosto e outubro de 2026. Nutren com o CECI e Growth no Pix ficam praticamente empatadas; o R$ 53,91 da Nutren é o preço de R$ 59,90 com 10% de desconto."
         ],
         "comparisonTable": {
           "caption": "Comparação entre Nutren, Growth, FTW e Lavitan por composição, embalagem, porção, rendimento, preço e custo por 100 gramas",
@@ -44412,7 +44408,8 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Ver o preço da Nutren Creatina no catálogo oficial",
-            "href": "https://www.nestlenutre.com.br/catalog/category/view/id/9"
+            "href": "https://www.nestlenutre.com.br/catalog/category/view/id/9",
+            "sponsored": true
           },
           {
             "label": "Ver a Creatina Monohidratada 250 g no site oficial da Growth",
@@ -44493,11 +44490,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
           "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
-          "Qual foi a mais barata no comparativo? Nutren com o CECI e Growth no Pix ficaram praticamente empatadas na amostra, a R$ 17,97 e R$ 17,96 por 100 g (diferença de R$ 0,01), com a FTW à vista logo acima, a R$ 18,97; os valores estão na tabela do capítulo Comparativo auditável. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
+          "Qual foi a mais barata no comparativo? Nutren com o CECI e Growth no Pix ficaram praticamente empatadas na amostra, a R$ 17,97 e R$ 17,96 por 100 g (diferença de R$ 0,01), com a FTW à vista logo acima, a R$ 18,97. Os valores estão na tabela “Nutren, Growth, FTW e Lavitan: composição, porção e preço”. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
           "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
           "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
           "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
-          "A creatina trata sarcopenia ou problemas cognitivos? Este suplemento não é medicamento. A alegação funcional autorizada refere-se ao auxílio no desempenho físico em exercícios repetidos, curtos e de alta intensidade."
+          "A creatina trata sarcopenia ou problemas cognitivos? Este suplemento não é medicamento. A alegação funcional autorizada refere-se ao auxílio no desempenho físico em exercícios repetidos, curtos e de alta intensidade.",
+          "Qual é o cupom da Nestlé Nutre? O cupom CECI dá 10% na loja oficial da Nestlé Nutre, na Nutren Creatina e em outros produtos, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Confira no carrinho se ele foi aceito antes de pagar."
         ]
       }
     ],
@@ -50332,7 +50330,7 @@ export const reviewsData: unknown[] = [
       "O método da pasta é o mesmo que a Nestlé indica: pouco líquido primeiro e o restante depois",
       "Números oficiais por porção: cerca de 130 kcal e 11 g de proteína nos sabores; 113 kcal e 10 g no Sem Sabor Zero Lactose",
       "O Sem Sabor entra em receitas doces e salgadas, segundo a marca, sempre adicionado no final do preparo",
-      "Cupom CECI de 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis"
+      "Cupom CECI de 10% OFF em produtos elegíveis na Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses"
     ],
     "cons": [
       "Não pode ferver e deve ser consumido logo após o preparo; a marca não informa uma temperatura máxima",
@@ -50349,9 +50347,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que o Nutren Senior empelota",
         "paragraphs": [
-          "Quem prepara suplemento em pó conhece a cena: pó no copo, o líquido todo de uma vez, a colher batendo no vidro e, no fim, bolinhas secas boiando ou uma massa grudada no fundo. Para quem toma, a bebida fica desagradável. Para quem cuida de um pai, uma mãe ou um avô, o copo ainda pode ser recusado pela metade, e um suplemento que não é barato acaba na pia.",
-          "O motivo é comum a quase todo pó rico em proteína e leite: quando muito líquido encontra o pó de uma vez, só a camada de fora molha, fica gelatinosa e forma uma capa que protege o miolo seco. Mexer com mais força não resolve, porque a colher apenas empurra as bolinhas de um lado para o outro.",
-          "A solução não é truque de blog. A própria Nestlé indica, na página do produto, o contrário de despejar tudo: começar com pouco líquido, formar uma pasta e só depois completar. É o que chamamos aqui de método da pasta."
+          "Quem prepara suplemento em pó conhece a cena: o líquido entra todo de uma vez, e o pó fica em bolinhas secas ou grudado no fundo do copo.",
+          "A Nestlé orienta começar com pouco líquido, formar uma pasta e só depois completar. O passo a passo abaixo separa as medidas por versão; confira a indicação da sua lata."
         ],
         "bullets": []
       },
@@ -50592,7 +50589,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI (10% OFF)",
+      "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI: 10% OFF no valor dos produtos. Confira no carrinho se o desconto se aplica.",
       "label": "Ver Nutren Senior na Nestlé Nutre",
       "url": "https://www.nestlenutre.com.br/nutren-senior",
       "sponsored": true
@@ -50928,7 +50925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O FiberMais Sem Sabor entra no café, nas bebidas e nas refeições, sempre ao final do preparo e sem ferver. A medida é 3 colheres de chá na lata e 1 sachê duas vezes ao dia nos sachês. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+          "A Nestlé orienta acrescentar o FiberMais Sem Sabor ao fim do preparo, sem ferver. A dose muda conforme a apresentação: 3 colheres de chá na lata de 260 g ou 1 sachê de 5 g duas vezes ao dia. Na Nestlé Nutre, o cupom CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       },
       {
@@ -50939,11 +50936,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 1.643835616438356,
         "paragraphs": [
-          "Nem sempre é simples conciliar a rotina da cozinha com o consumo adequado de fibras. Frutas, verduras, leguminosas e cereais continuam importantes na alimentação; um suplemento não substitui a variedade que esses alimentos oferecem. Quando há indicação de suplementação, uma opção sem sabor pode facilitar a inclusão do produto nas preparações que já fazem parte do dia a dia.",
-          "Este guia trata do FiberMais Sem Sabor, nas apresentações de lata de 260 g e sachês de 5 g. A Nestlé descreve a fórmula como uma combinação de goma guar parcialmente hidrolisada, também conhecida pela sigla PHGG, e inulina. São fibras de origem vegetal. As versões com sabor ou com colágeno têm características próprias e não devem receber automaticamente as mesmas medidas e informações nutricionais.",
-          "A fabricante diz que o Sem Sabor mistura a alimentos e bebidas sem alterar sabor, cheiro ou textura — característica declarada, não testada aqui. No preparo, a referência é mexer até a dissolução completa, em vez de prometer que qualquer mistura ficará pronta em um número fixo de segundos.",
-          "A classificação como fibra solúvel também não permite concluir, por si só, que o produto suporta qualquer temperatura ou substitui uma avaliação nutricional. Para usar na cozinha, as informações mais úteis são a apresentação correta, a quantidade indicada no rótulo e o momento de incorporar à receita.",
-          "Lata e sachês têm medidas diferentes: uma colher de sopa não equivale a um sachê. Confira também o rótulo da unidade adquirida, especialmente se houver mudança de formulação ou embalagem."
+          "O FiberMais Sem Sabor, nas apresentações de lata de 260 g e sachês de 5 g, é descrito pela Nestlé como uma combinação de goma guar parcialmente hidrolisada (PHGG) e inulina, fibras de origem vegetal. As versões com sabor ou colágeno têm rótulo próprio.",
+          "A fabricante apresenta o Sem Sabor para misturar em alimentos e bebidas sem alterar sabor, cheiro ou textura. Mexa até dissolver, seguindo as instruções da apresentação.",
+          "Lata e sachês têm recomendações diferentes, detalhadas a seguir. O suplemento não substitui a variedade de frutas, verduras, leguminosas e cereais."
         ],
         "bullets": [],
         "links": [
@@ -50955,6 +50950,92 @@ export const reviewsData: unknown[] = [
           {
             "label": "Informações e recomendação de uso do FiberMais Sem Sabor em sachês de 5 g",
             "href": "https://www.nestlenutre.com.br/fibermais-sem-sabor-display-10-sache-5",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Lata ou sachê: medidas, informação nutricional e cuidados de uso",
+        "paragraphs": [
+          "A lata (260 g) indica 3 colheres de chá (7,6 g) ao dia; os sachês (5 g), 1 sachê duas vezes ao dia (10 g no total). São recomendações de apresentações distintas, não medidas equivalentes. A necessidade individual deve ser discutida com um profissional de saúde.",
+          "A necessidade e a tolerância ao suplemento são individuais. Siga o rótulo e a orientação profissional, sem aumentar a quantidade por conta própria.",
+          "A ingestão de líquidos varia com idade, condições de saúde e restrições; siga a orientação do seu médico ou nutricionista.",
+          "A tabela abaixo reproduz os valores informados nas páginas oficiais, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
+          "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
+          "Na compra pela Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A soma com outras promoções depende da campanha; confira o desconto no carrinho."
+        ],
+        "bullets": [],
+        "comparisonTable": {
+          "caption": "FiberMais Sem Sabor: lata de 260 g e caixa com 10 sachês de 5 g, conforme páginas oficiais consultadas em 02/10/2026",
+          "headers": [
+            "Informação",
+            "Lata de 260 g",
+            "Caixa com 10 sachês de 5 g"
+          ],
+          "rows": [
+            [
+              "Recomendação diária informada",
+              "3 colheres de chá (7,6 g)",
+              "1 sachê duas vezes ao dia (10 g no total)"
+            ],
+            [
+              "Porção da tabela nutricional",
+              "7,6 g",
+              "10 g (2 sachês)"
+            ],
+            [
+              "Valor energético por porção declarada",
+              "16 kcal",
+              "21 kcal"
+            ],
+            [
+              "Fibras alimentares por porção declarada",
+              "6,6 g",
+              "8,7 g"
+            ],
+            [
+              "Açúcares totais / adicionados por porção",
+              "0,3 g / 0,3 g",
+              "0,4 g / 0,4 g"
+            ],
+            [
+              "Sódio por porção declarada",
+              "5,8 mg",
+              "7,6 mg"
+            ],
+            [
+              "Rendimento calculado na referência diária informada",
+              "Aproximadamente 34 porções de 7,6 g (260 dividido por 7,6)",
+              "5 porções de 10 g (10 sachês divididos por 2)"
+            ],
+            [
+              "Diferença prática",
+              "É necessário medir a quantidade de pó",
+              "Cada sachê contém 5 g, sem necessidade de medir com colher"
+            ],
+            [
+              "Comparação de custo",
+              "Divida o preço da lata por 260 g e compare a oferta vigente",
+              "Divida o preço da caixa por 50 g e compare a oferta vigente"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Guia do cupom Nestlé Nutre CECI e regras de 10% OFF",
+            "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
+          },
+          {
+            "label": "Conferir produtos elegíveis e condições do cupom CECI de 10%",
+            "href": "/cupons/nestle-nutre"
+          },
+          {
+            "label": "Como tomar Nutren Senior sem empelotar: método da pasta",
+            "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
+          },
+          {
+            "label": "Conferir as apresentações de FiberMais na loja oficial Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/fibermais",
             "sponsored": true
           }
         ]
@@ -51044,92 +51125,6 @@ export const reviewsData: unknown[] = [
           {
             "label": "Receita de chocolate quente cremoso no site oficial FiberMais",
             "href": "https://www.fibermais.com.br/receitas/chocolate-quente-cremoso-fibermais"
-          }
-        ]
-      },
-      {
-        "heading": "Lata ou sachê: medidas, informação nutricional e cuidados de uso",
-        "paragraphs": [
-          "A lata (260 g) indica 3 colheres de chá (7,6 g) ao dia; os sachês (5 g), 1 sachê duas vezes ao dia (10 g no total). São recomendações de apresentações distintas, não medidas equivalentes. A necessidade individual deve ser discutida com um profissional de saúde.",
-          "A necessidade e a tolerância ao suplemento são individuais. Siga o rótulo e a orientação profissional, sem aumentar a quantidade por conta própria.",
-          "A ingestão de líquidos varia com idade, condições de saúde e restrições; siga a orientação do seu médico ou nutricionista.",
-          "A tabela abaixo reproduz os valores informados nas páginas oficiais, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
-          "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
-          "Na compra pela Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A soma com outras promoções depende da campanha; confira o desconto no carrinho."
-        ],
-        "bullets": [],
-        "comparisonTable": {
-          "caption": "FiberMais Sem Sabor: lata de 260 g e caixa com 10 sachês de 5 g, conforme páginas oficiais consultadas em 02/10/2026",
-          "headers": [
-            "Informação",
-            "Lata de 260 g",
-            "Caixa com 10 sachês de 5 g"
-          ],
-          "rows": [
-            [
-              "Recomendação diária informada",
-              "3 colheres de chá (7,6 g)",
-              "1 sachê duas vezes ao dia (10 g no total)"
-            ],
-            [
-              "Porção da tabela nutricional",
-              "7,6 g",
-              "10 g (2 sachês)"
-            ],
-            [
-              "Valor energético por porção declarada",
-              "16 kcal",
-              "21 kcal"
-            ],
-            [
-              "Fibras alimentares por porção declarada",
-              "6,6 g",
-              "8,7 g"
-            ],
-            [
-              "Açúcares totais / adicionados por porção",
-              "0,3 g / 0,3 g",
-              "0,4 g / 0,4 g"
-            ],
-            [
-              "Sódio por porção declarada",
-              "5,8 mg",
-              "7,6 mg"
-            ],
-            [
-              "Rendimento calculado na referência diária informada",
-              "Aproximadamente 34 porções de 7,6 g (260 dividido por 7,6)",
-              "5 porções de 10 g (10 sachês divididos por 2)"
-            ],
-            [
-              "Diferença prática",
-              "É necessário medir a quantidade de pó",
-              "Cada sachê contém 5 g, sem necessidade de medir com colher"
-            ],
-            [
-              "Comparação de custo",
-              "Divida o preço da lata por 260 g e compare a oferta vigente",
-              "Divida o preço da caixa por 50 g e compare a oferta vigente"
-            ]
-          ]
-        },
-        "links": [
-          {
-            "label": "Guia do cupom Nestlé Nutre CECI e regras de 10% OFF",
-            "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
-          },
-          {
-            "label": "Conferir produtos elegíveis e condições do cupom CECI de 10%",
-            "href": "/cupons/nestle-nutre"
-          },
-          {
-            "label": "Como tomar Nutren Senior sem empelotar: método da pasta",
-            "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
-          },
-          {
-            "label": "Conferir as apresentações de FiberMais na loja oficial Nestlé Nutre",
-            "href": "https://www.nestlenutre.com.br/fibermais",
-            "sponsored": true
           }
         ]
       },
@@ -52270,7 +52265,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual Ninho comprar",
         "paragraphs": [
-          "Para café, vitamina, bolo e recheio, o Ninho certo é o Leite Ninho Integral, que é leite em pó de verdade. Os outros são compostos lácteos, fórmula infantil ou semidesnatado, e o nome na frente da embalagem diz qual é. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto em fórmulas de 0 a 12 meses."
+          "Para café, vitamina, bolo e recheio, o Ninho certo é o Leite Ninho Integral, que é leite em pó de verdade. Os outros são compostos lácteos, fórmula infantil ou semidesnatado; o nome na frente da embalagem diz qual é. Na Nestlé Nutre, o cupom CECI dá 10% OFF, exceto em fórmulas de 0 a 12 meses, Alfamino e Alfaré."
         ]
       },
       {
@@ -52285,13 +52280,14 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/nutren/ninho-integral-instantaneo-oficial.webp",
         "imageAlt": "Foto oficial da Nestlé: lata de Leite Ninho Integral Instantâneo de 380 g",
         "imageCaption": "Ninho Integral Instantâneo: leite em pó integral enriquecido com vitaminas e minerais.",
-        "imageFit": "square"
+        "imageFit": "square",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "Ninho Fases 1+ e Fases 3+: o que muda",
         "paragraphs": [
           "O **Ninho Fases 1+** é uma fórmula infantil de seguimento para crianças de 1 a 3 anos, com prebióticos (FOS e inulina) na lista de ingredientes. Na tabela da loja, ele tem 4,2 g de açúcares adicionados a cada 100 g de pó, e o preparo segue o de fórmula: água fervida, resfriada a cerca de 70 °C, e colher-medida nivelada.",
-          "O **Ninho Fases 3+** é um composto lácteo com óleos vegetais e fibras para crianças a partir de 3 anos, com ferro, cálcio, zinco e vitaminas A, C, D, E e do complexo B.",
+          "O **Ninho Fases 3+** é um composto lácteo com óleos vegetais e fibras formulado para crianças em fase pré-escolar (tradicionalmente a partir de 3 anos; embalagens recentes da Nestlé também identificam a versão Idade Escolar para 4 a 10 anos). Ele traz ferro, cálcio, zinco e vitaminas A, C, D, E e do complexo B. Confira sempre a faixa indicada na frente da lata.",
           "O Guia Alimentar do Ministério da Saúde para menores de 2 anos recomenda manter a amamentação e não oferecer alimentos com açúcar adicionado nessa idade. A escolha do leite da criança é uma conversa para ter com o pediatra ou nutricionista."
         ],
         "image": "/images/reviews/nutren/ninho-fases-1-e-3-oficial.webp",
@@ -52329,7 +52325,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual Ninho usar em bolo e recheio",
         "paragraphs": [
           "Quando uma receita de bolo de Ninho ou recheio de Ninho pede \"leite Ninho\", ela está falando do **Leite Ninho Integral**, o leite em pó. É ele que dá o sabor e a cor clara que todo mundo procura.",
-          "Composto lácteo e fórmula têm outros ingredientes e custam mais por quilo; para cozinhar, o leite em pó integral é a escolha mais simples e mais barata.",
+          "Para cozinhar, escolha o produto identificado no rótulo como leite em pó integral. Compostos lácteos e fórmulas têm outros ingredientes; compare o preço por quilo se quiser saber qual embalagem custa menos.",
           "O Ninho Integral Instantâneo também serve: leite em pó integral que dissolve em qualquer temperatura, diz a Nestlé. Para polvilhar o bolo pronto, peneire o leite em pó por cima na hora de servir."
         ],
         "image": "/images/reviews/nutren/ninho-bolo-receitas-nestle-oficial.webp",
@@ -52455,10 +52451,10 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A escolha depende do uso, e o nome técnico na frente da embalagem diz o que o produto é."
         ],
-        "emphasis": "Pelos números da tabela, para a cozinha a escolha é o Integral Instantâneo, porque os compostos custam mais por pacote e não são leite.",
+        "emphasis": "Para bolo e recheio, a escolha é o Leite Ninho Integral ou Integral Instantâneo, porque a receita pede leite em pó integral. O nome técnico na embalagem ajuda a distinguir dos compostos e das fórmulas.",
         "bullets": [
           "Café, vitamina, bolo e recheio: **Leite Ninho Integral**, o leite em pó. O Integral Instantâneo também serve, e custava R$ 19,81 (lata de 380 g) na Nestlé Nutre.",
-          "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. A partir de 3 anos, o Fases 3+ é composto lácteo. A escolha do leite da criança é conversa para ter com o pediatra ou nutricionista.",
+          "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. Para crianças maiores (a partir de 3 ou 4 anos, dependendo da versão do Fases 3+ ou Idade Escolar), o produto é composto lácteo. Na dúvida, converse com o pediatra ou nutricionista.",
           "Família: o Forti+ Fibras e o Zero Lactose são compostos lácteos, e o Ninho Adulto é leite semidesnatado.",
           "Comprar com desconto: na Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (**CECI**) deu 10% no nosso teste de checkout, e a assinatura reduz o preço de parte da linha."
         ]
@@ -56235,8 +56231,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Month da Nestlé Nutre já começou, com até 25% OFF e mais 10% com o cupom CECI. O Nutren Senior não aparece nos banners; veja os preços para comparar e o prazo do Natal.",
-    "metaDescription": "Black Friday Nutren 2026: o cupom CECI dá 10% OFF e soma com até 25% do Black Month da Nestlé Nutre. O Nutren Senior, os preços e o Natal.",
+    "description": "A Nestlé Nutre abriu a Black Month 2026. Compare o Nutren Senior com os preços de outubro deste guia e use o cupom CECI, de 10% OFF, nos produtos elegíveis.",
+    "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre. Black Friday Nutren 2026: ofertas da Black Month, preços históricos do Senior e comparação com assinatura.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
     "updatedAt": "2026-11-07",
@@ -56263,15 +56259,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Nutren 2026",
         "paragraphs": [
-          "A Nestlé Nutre já abriu a Black Month: novembro inteiro com até 25% OFF e mais 10% com cupom, e o esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai até 22 de novembro; o Nutren Senior não aparece nos banners. O cupom dos 10% é o [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, com todas as formas de pagamento."
+          "A Black Month da Nestlé Nutre já começou. O [cupom Nestlé Nutre](/cupons/nestle-nutre), CECI, dá 10% OFF nos produtos elegíveis, com todas as formas de pagamento. Para o Nutren Senior, compare o mesmo produto e tamanho com a tabela de outubro: a ausência dele nos banners não diz se há oferta."
         ]
       },
       {
         "heading": "O que já está no ar na Black Month da Nestlé Nutre",
         "paragraphs": [
           "\"Começou a Black Month Nestlé Nutre\", diz a home da loja. Na mensagem que a Nestlé Nutre mandou aos clientes, o Black Month é \"novembro inteiro de ofertas\" nas categorias Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com \"até 25% OFF\" e \"+10% OFF adicional com cupom\". Esse cupom, para quem compra pelo site, é o CECI: 10% OFF, com todas as formas de pagamento. A loja aceita um cupom por pedido, então o CECI entra no lugar de qualquer outro código, não junto.",
-          "Na arte da campanha, pela Nutrição Adulta, aparecem o Nutren Just Protein e o Nutren Control, sem percentual por produto. O Nutren Senior não aparece nela nem no Esquenta Black Friday: até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, de 1º a 22 de novembro ou enquanto durarem os estoques, exceto fórmulas infantis para lactentes e de seguimento para lactentes, pelo banner da loja.",
-          "Para o Nutren Senior, a Creatina e o FiberMais, a régua segue sendo a tabela de outubro deste guia: um selo de desconto só é vantagem se o preço do dia ficar abaixo dela. Para o Just Protein e o Nutren Control, a mesma conta: a tabela deles está mais abaixo. A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro; se o Nutren Senior ganhar oferta até lá, compare com as tabelas.",
+          "A arte de início de novembro, pela Nutrição Adulta, mostra o Nutren Just Protein e o Nutren Control, sem percentual por produto. O esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai de 1º a 22 de novembro ou enquanto durarem os estoques, com até 25% OFF pelo banner da loja, exceto fórmulas infantis para lactentes e de seguimento para lactentes. Esses materiais não mostram todos os produtos em promoção; confira o preço do item escolhido no site.",
+          "Use as tabelas de outubro como referência para o mesmo SKU, tamanho, quantidade e forma de compra. Some o frete e confira o CECI no carrinho. Para o Just Protein e o Nutren Control, a tabela deles está mais abaixo. A Black Friday de 2026 é em 27/11 e a Cyber Monday em 30/11; uma oferta anterior ou posterior pode ser melhor para o seu pedido.",
           "Dois cuidados: o CECI não vale em fórmulas infantis de 0 a 12 meses, e o Nestonutri, para crianças de 1 a 3 anos, segue a indicação do rótulo; na dúvida, o pediatra."
         ]
       },
@@ -56338,7 +56334,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Repare nos kits: o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). Conferimos no carrinho que o preço do kit vale para as duas latas.",
           "A comparação das formas de compra por 100 g, da lata de 370 g ao kit e à assinatura, está em [Nutren Senior: qual tamanho e qual forma de compra compensam](/reviews/nutren-senior-kit-combo-ou-assinatura).",
-          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela. Os preços da loja mudam: confira na página do produto."
+          "Compare o total do pedido para o mesmo produto, quantidade e pagamento. O preço de outubro é uma referência, não o único critério para decidir."
         ],
         "links": [
           {
@@ -56445,10 +56441,10 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "bullets": [
-          "**Assinatura:** a loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias, e o preço de assinatura de cada produto está nas tabelas acima.",
+          "**Assinatura:** a FAQ da loja informa 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias. As tabelas acima registram os preços de assinatura vistos em outubro, sem garantir o valor de uma cobrança futura.",
           "**Regras da assinatura:** uma assinatura ativa por CPF, paga só no cartão de crédito, com frete grátis acima de R$ 200. Dá para pular até duas entregas por ano e cancelar sem custo.",
           "**Compra única com o CECI:** o cupom dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday. Pela nossa conta, a lata de 740 g do Nutren Senior Zero Lactose, de R$ 190,61, sai por R$ 171,55, e o kit com duas latas sem sabor, de R$ 263,49, sai por R$ 237,14.",
-          "**Qual sai mais barato?** Na primeira entrega, os dois caminhos ficaram perto em outubro: na lata zero lactose, R$ 169,43 na assinatura e R$ 171,55 na compra única com o CECI; no kit sem sabor, R$ 237,14 nos dois. Para uma compra de vez em quando, a compra única com o cupom resolve; para quem usa todo mês, a assinatura sobe para 15% a partir da terceira entrega.",
+          "**Qual sai mais barato?** Na referência de outubro, a lata zero lactose custava R$ 169,43 na assinatura e R$ 171,55 na simulação de compra única com o CECI; no kit sem sabor, a conta era R$ 237,14 nos dois caminhos. Para decidir hoje, compare o preço atualizado, o frete e a frequência de reposição. O desconto progressivo da assinatura exige recorrências consecutivas.",
           "**Frete grátis:** acima de R$ 400 na compra única, na transportadora que o site define, e acima de R$ 200 na assinatura. Uma lata de 740 g sozinha não chega a R$ 400; três latas zero lactose passam do valor mesmo com o cupom (R$ 514,65, pela nossa conta)."
         ],
         "links": [
@@ -56467,7 +56463,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Cartão de crédito:** até 6 vezes sem juros, com parcela mínima de R$ 75. Um pedido de R$ 150, por exemplo, sai em 2 vezes de R$ 75.",
           "**Pix:** o QR Code aparece ao fechar o pedido. A loja não anuncia desconto no Pix.",
-          "**Dano, falta de item ou desistência:** avise a loja em até 7 dias da entrega, pelo 0800-770-2461 ou pelo e-mail do atendimento.",
+          "**Dano, falta de item ou desistência:** avise a loja em até 7 dias da entrega, pelo 0800-770-2461 ou pelo atendimento. Em caso de defeito, vale o prazo do Código de Defesa do Consumidor, que pode ser maior. Guarde fotos, nota e protocolo.",
           "**Troca e devolução:** seguem o Código de Defesa do Consumidor e são pedidas pelo atendimento da loja. No cartão, o estorno sai de uma vez, na fatura seguinte ou na outra."
         ],
         "links": [
@@ -56480,7 +56476,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
-          "A Nestlé Nutre não publica prazos por região: a página de cada produto tem um calculador de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail.",
+          "O prazo atual aparece no cálculo de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail. A tabela abaixo usa a simulação de outubro com essa premissa; não é data de entrega contratada para novembro ou dezembro. Refaça o cálculo para o endereço de entrega.",
           "Em outubro, simulamos no calculador o frete de três latas de 740 g do Nutren Senior Zero Lactose (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
@@ -56538,15 +56534,15 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Nestlé Nutre? Já começou: a loja chama novembro de Black Month, \"novembro inteiro de ofertas\" em Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com até 25% OFF e mais 10% com cupom. O esquenta, com até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, vai até o dia 22 ou enquanto durarem os estoques. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte.",
           "Qual cupom usar nos 10% adicionais do Black Month da Nestlé Nutre? O CECI: 10% OFF, com todas as formas de pagamento, sobre os preços da campanha. A loja aceita um cupom por pedido, e o CECI não vale em fórmulas infantis de 0 a 12 meses.",
-          "O Nutren Senior entrou na Black Friday da Nestlé Nutre? Ele não aparece na arte do Black Month, que traz o Just Protein e o Nutren Control pela Nutrição Adulta, nem no banner do esquenta. Pode haver desconto na página do produto mesmo assim: compare o preço do dia com as tabelas de outubro deste guia; se ficar abaixo, o desconto é maior que o de outubro.",
+          "O Nutren Senior entrou na Black Friday da Nestlé Nutre? A ausência dele numa arte não permite concluir que a linha esteja fora. Confira o SKU que você procura e compare o preço atual com a referência de outubro deste guia.",
           "Quanto custa o Nutren Senior 740 g? Na leitura de outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
-          "O Nutren Senior fica mais barato na Black Friday? Em outubro, ele já estava abaixo do preço riscado, e o kit com duas latas saía por cerca de R$ 131,75 a lata. Se em novembro o preço do dia ficar abaixo das tabelas deste guia, o desconto é maior que o de outubro.",
-          "O cupom CECI vale para o Nutren Senior? Vale. O CECI dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday: pela nossa conta, a lata zero lactose de R$ 190,61 sai por R$ 171,55.",
+          "O Nutren Senior fica mais barato na Black Friday? Depende do produto e da oferta. Compare o mesmo SKU, tamanho, quantidade, pagamento e frete. Na tabela de outubro, o kit de duas latas sem sabor aparecia a R$ 263,49; isso não é preço atual nem comprova economia de toda a linha.",
+          "O cupom CECI vale para o Nutren Senior? Vale nos itens elegíveis da loja, com 10% OFF e todas as formas de pagamento. Sobre o preço histórico de R$ 190,61 da lata zero lactose, a simulação dá R$ 171,55. Confira o preço atual e o desconto no carrinho.",
           "Quais produtos ficam fora do cupom CECI? Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Nos demais produtos da loja, o cupom dá 10% OFF.",
           "A Nestlé Nutre tem frete grátis? Tem, acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
-          "Como funciona a assinatura da Nestlé Nutre? A loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, com entregas a cada 30, 60 ou 90 dias. É uma assinatura por CPF, paga no cartão de crédito, e dá para cancelar sem custo.",
+          "Como funciona a assinatura da Nestlé Nutre? São 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, segundo a FAQ da loja. A assinatura é por CPF, paga no cartão de crédito, com entregas a cada 30, 60 ou 90 dias, e dá para cancelar sem custo.",
           "A Nestlé Nutre parcela sem juros? Parcela, em até 6 vezes sem juros no cartão, com parcela mínima de R$ 75. No Pix, a loja não anuncia desconto.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que a loja mostrou em outubro, os dois dias de processamento e um dia útil de folga, pague em dezembro até o dia 16 em São Paulo, até o dia 10 no Rio de Janeiro e até o dia 1º em Manaus."
+          "Até quando comprar para chegar antes do Natal? A tabela estima datas com os prazos simulados em outubro, dois dias de processamento e um dia útil de folga. Ela não garante chegada: confira o prazo atual do seu CEP e o marco de contagem informado no pedido antes de pagar."
         ]
       }
     ],
@@ -61261,15 +61257,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe um melhor entre os três: cada rótulo informa os números numa base diferente, e a escolha depende da dose indicada pelo médico ou nutricionista. O que mais pesa é a lactose e o fato de o Ensure não publicar a tabela por porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren Senior."
+          "Não existe um melhor entre os três: cada rótulo usa uma base diferente, e a escolha depende da dose indicada pelo médico ou nutricionista. O que mais pesa é a lactose, e o Ensure não publica a tabela por porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren Senior."
         ]
       },
       {
         "heading": "Como comparar os três rótulos",
         "paragraphs": [
-          "O que muda de um rótulo para o outro é a base dos números, e é isso que este capítulo explica antes da tabela.",
-          "Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, variando por versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
-          "Para comparar, olhe a mesma coisa nos três: o tamanho da porção, a proteína por dose, o cálcio, a vitamina D, a lactose e o glúten. A tabela abaixo junta o que cada página oficial informa; o glúten fica na seção Lactose e glúten."
+          "A Nutren publica os números por porção de 27,5 g, 31,5 g ou 55 g, conforme a versão; a Sustagen usa 40 g. A página do Ensure orienta 6 medidas por preparo, sem informar o peso em gramas.",
+          "Compare a base de cada número antes de olhar proteína, cálcio e vitamina D. A tabela abaixo reúne os dados publicados pelas marcas; a seção Lactose e glúten trata dessas duas informações."
         ],
         "image": {
           "src": "/images/reviews/nutren/nutren-ensure-sustagen-porcao.webp",
@@ -61375,9 +61370,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ensure Baunilha Pó: o que a Abbott informa",
         "paragraphs": [
-          "O Ensure não publica a tabela por porção: a página informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, \"com alto teor de vitamina C, D, e Cálcio\". Ela diz também que o produto não contém glúten e que a lata vem em 400 g e 850 g.",
+          "Na página do Ensure, a Abbott informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, “com alto teor de vitamina C, D, e Cálcio”. Também informa que o Ensure Baunilha Pó não contém glúten e está disponível em latas de 400 g e 850 g.",
           "O preparo é de 6 medidas em 195 ml de água, e a lata de 400 g rende cerca de 7 porções. A Abbott informa que o Ensure pó contém lactose; só o Ensure Protein não contém.",
-          "O texto da página não traz a tabela por porção. Sem ela, o cálcio e a vitamina D do Ensure não entram na comparação em números: vale o que está impresso na lata."
+          "Para o Ensure, cálcio e vitamina D aparecem só como “alto teor”; para a fórmula que você vai comprar, confira o rótulo da lata."
         ]
       },
       {
@@ -61440,7 +61435,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Não há vencedor entre os três: a escolha segue o que cada pessoa precisa e a orientação do médico ou do nutricionista."
         ],
-        "emphasis": "Pelos números da tabela, para quem precisa evitar lactose a escolha é o Nutren Senior Zero Lactose, porque é o único que informa 0 g de lactose por porção.",
+        "emphasis": "O Nutren Senior Sem Sabor Zero Lactose é o único que informa 0 g de lactose por porção. Zero lactose não significa sem leite: leve essa diferença e o rótulo à consulta.",
         "emphasisAfterParagraph": 1,
         "bullets": [
           "Quem precisa evitar lactose: só o Nutren Senior Sem Sabor Zero Lactose informa 0 g de lactose por porção na tabela oficial; o Sustagen Senior avisa que contém lactose, e a Abbott diz o mesmo do Ensure pó.",
@@ -61459,7 +61454,8 @@ export const reviewsData: unknown[] = [
           "Nutren Senior tem lactose? A versão Sem Sabor Zero Lactose tem 0 g de lactose por porção, segundo a tabela oficial. As páginas do Café com Leite e do Sem Sabor comum não trazem a linha de lactose: confira o rótulo da lata.",
           "Ensure tem lactose? Sim: segundo a Abbott, o Ensure pó contém lactose, e só o Ensure Protein não contém.",
           "Sustagen Senior tem lactose? Sim: o rótulo oficial diz \"contém lactose\".",
-          "Qual tem mais proteína por porção? Depende do tamanho da porção: a tabela do capítulo Os três rótulos lado a lado põe as doses lado a lado, e o Ensure informa 17 g em duas porções, sem dizer o peso delas."
+          "Qual tem mais proteína por porção? Depende do tamanho da porção: a tabela do capítulo Os três rótulos lado a lado põe as doses lado a lado, e o Ensure informa 17 g em duas porções, sem dizer o peso delas.",
+          "Qual é o cupom de desconto da Nestlé Nutre? O cupom CECI dá 10% na loja oficial, em produtos Nestlé Nutre como o Nutren Senior, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Confira no carrinho se ele foi aceito antes de pagar."
         ]
       }
     ],
@@ -63506,7 +63502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe um melhor no rótulo: o Nutren Protein em pó contém whey, mas também cafeína, lactose e glúten, e quem quer só a proteína do soro quer o Nutren Just Protein. O que pesa é cafeína, lactose e preço por porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+          "Não existe um melhor pelo rótulo: o Nutren Protein em pó tem whey com cafeína, lactose e glúten, e quem quer só a proteína do soro encontra no Nutren Just Protein uma versão isolada e sem sabor. Na loja oficial da Nestlé Nutre, o cupom CECI dá 10% OFF em itens elegíveis."
         ]
       },
       {
@@ -63666,7 +63662,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Protein ou whey protein",
         "paragraphs": [
-          "Pelo rótulo, a diferença principal é o que vem junto da proteína. O pó traz a proteína junto com cafeína, lactose, glúten e vitaminas e minerais (números na tabela acima); quem quer só a proteína do soro está falando do Just Protein. O Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", traz 13 g de proteína em 15 g, com carboidratos e açúcares em 0 g; a tabela dele não tem linha de cafeína nem de vitaminas, e o rótulo lista só proteína isolada do soro de leite de vaca e lecitina de soja.",
+          "A diferença está no que vem junto da proteína. O Nutren Protein em pó traz whey, cafeína, lactose, glúten, vitaminas e minerais. O Just Protein é whey isolado sem sabor: declara 13 g de proteína em 15 g de pó, com carboidratos e açúcares em 0 g, e lista só proteína isolada do soro de leite de vaca e lecitina de soja. Se você evita cafeína, confira o rótulo do Just Protein, porque a tabela dele não informa esse dado.",
           "Se você compara com o whey de outra marca, use o rótulo dele: proteína por porção, tamanho da porção, açúcares e se tem cafeína. A ficha completa do isolado da Nestlé está no nosso guia do Just Protein."
         ],
         "images": [
@@ -63758,7 +63754,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Não existe um melhor no rótulo: cada produto serve a uma necessidade diferente, e a quantidade certa é assunto para o médico ou o nutricionista."
         ],
-        "emphasis": "Pelos números da tabela, para quem quer só a proteína do soro a escolha é o Just Protein, porque ele traz 13 g de proteína em 15 g com açúcares em 0 g.",
+        "emphasis": "Para quem quer só a proteína do soro, o Just Protein é a opção de whey isolado sem sabor: declara 13 g de proteína em 15 g de pó e açúcares em 0 g. Para escolher, confira ingredientes e restrições no rótulo do produto que você vai usar.",
         "bullets": [
           "Quer só a proteína do soro do leite, com carboidratos e açúcares em 0 g na tabela: o Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", com 13 g de proteína em 15 g.",
           "Quer um suplemento com vitaminas e minerais: o Nutren Protein em pó, com 14 g de proteína em 31,5 g, mas também 80 mg de cafeína, lactose e glúten.",
@@ -63797,8 +63793,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "nestle-nutre",
     "decision": {
       "takeIf": [
-        "Você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela.",
-        "Você quer evitar cafeína e glúten: a tabela do Just Protein não lista cafeína e a loja o marca como sem glúten."
+        "Você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela."
       ],
       "skipIf": [
         "Você quer vitaminas e minerais junto da proteína: aí é o Nutren Protein em pó.",
@@ -85626,7 +85621,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren A-Z Multi engorda? As calorias por cápsula",
         "paragraphs": [
-          "O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares totais, açúcares adicionados, proteínas, gorduras totais, gorduras saturadas, gorduras trans, fibras alimentares e sódio. Ou seja, o número que o frasco traz para calorias é \"não significativo\". O que pesa na balança continua sendo o conjunto do que cada pessoa come no dia."
+          "O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares totais, açúcares adicionados, proteínas, gorduras totais, gorduras saturadas, gorduras trans, fibras alimentares e sódio."
         ]
       },
       {
@@ -85696,7 +85691,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto dura o frasco e quanto custa",
         "paragraphs": [
-          "Com 1 cápsula por dia, o frasco de 60 cápsulas dura 60 dias, e o de 30 dura 30. Na leitura dos preços, a página do produto na Nestlé Nutre mostrava o de 60 cápsulas de R$ 69,89 por R$ 48,92 (30% de desconto), e a assinatura a R$ 41,93. Pela nossa conta, são cerca de R$ 0,82 por dia na compra única e R$ 0,70 na assinatura."
+          "Com 1 cápsula por dia, o frasco de 60 cápsulas dura 60 dias, e o de 30 dura 30. Na leitura dos preços, a página do produto na Nestlé Nutre mostrava o de 60 cápsulas de R$ 69,89 por R$ 48,92 (30% de desconto), e a assinatura a R$ 41,93. Pela nossa conta, eram cerca de R$ 0,82 por dia na compra única e R$ 0,70 na assinatura. Confira o preço atual na loja."
         ]
       },
       {
@@ -85708,6 +85703,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Nutren A-Z Multi serve para homens e mulheres? O rótulo indica o Multi para adultos maiores de 19 anos, na dose de 1 cápsula ao dia. A linha tem também o A-Z Mulher, com dose de 2 cápsulas por dia.",
           "Nutren A-Z Multi tem glúten? Não. O rótulo diz \"não contém glúten\" e informa que contém derivados de soja.",
           "Nutren A-Z Multi engorda? O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares, proteínas ou gorduras.",
           "Nutren A-Z Multi, como tomar? Uma cápsula ao dia, por adultos maiores de 19 anos, sem exceder a recomendação diária do rótulo.",
@@ -85979,26 +85975,27 @@ export const reviewsData: unknown[] = [
               "cerca de 56 porções de 100 ml, ou 5,7 litros"
             ],
             [
-              "7 medidas de 4,7 g por copo de 210 ml",
-              "32,9 g de pó por copo"
+              "7 medidas de 4,7 g para preparo com 210 ml de água",
+              "32,9 g de pó por porção de 7 medidas"
             ],
             [
               "800 g ÷ 32,9 g",
-              "cerca de 24 copos de 210 ml"
+              "cerca de 24 porções de 7 medidas, cada uma preparada com 210 ml de água"
             ],
             [
-              "24 copos em 3 por dia",
+              "24 porções de 7 medidas, em 3 porções por dia",
               "cerca de 8 dias"
             ],
             [
-              "24 copos em 2 por dia",
+              "24 porções de 7 medidas, em 2 porções por dia",
               "cerca de 12 dias"
             ]
           ]
         },
         "postParagraphs": [
-          "Com o preço da compra única (R$ 95,53), o custo de um copo de 210 ml fica em cerca de R$ 3,93 (conta nossa: R$ 95,53 ÷ 24,3 copos). É uma conta de referência: a quantidade real depende de quanto a criança toma e de como se mede o pó."
-        ]
+          "Na compra única de R$ 95,53, a porção de 7 medidas (32,9 g), preparada com 210 ml de água, sai por cerca de R$ 3,93. Conta nossa: 800 g ÷ 32,9 g = cerca de 24,3 porções; R$ 95,53 ÷ 24,3. Os 210 ml são a água indicada no preparo, não o volume final. O consumo da criança deve seguir a orientação profissional."
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "Conservação",
@@ -86032,7 +86029,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Pela Nota Técnica Conjunta nº 17/2026, só os lotes informados oficialmente estão sendo recolhidos. Confira as informações oficiais atualizadas antes de usar uma lata. Se a criança tiver vômitos, diarreia ou muito sono depois de consumir um lote da lista, a nota técnica orienta levar a criança a atendimento médico, com a embalagem ou uma foto dela.",
-          "Os lotes listados venciam em 2026. Não encontramos notícia do caso depois do recolhimento, e a loja vende o produto normalmente. Na dúvida, ligue para a Nestlé antes de usar uma lata comprada no começo do ano."
+          "Confira o lote e os comunicados oficiais atualizados antes de usar o produto. A loja vender o produto não diz se a sua lata está na lista; em caso de dúvida, confirme com a Nestlé pelo 0800 761 2500."
         ]
       },
       {
@@ -86074,10 +86071,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Nanlac Supreme Pro foi recolhido? Alguns lotes do 800 g (1 a 3 anos) entraram no recolhimento da RE 32/2026. Segundo a Nota Técnica Conjunta nº 17/2026, só os lotes listados estão sendo recolhidos. Confira o lote no fundo da lata e compare com a lista oficial atualizada.",
+          "O Nanlac Supreme Pro foi recolhido? A RE 32/2026 e a Nota Técnica Conjunta nº 17/2026 incluem lotes específicos da lata de 800 g para 1 a 3 anos. Confira o número no fundo da lata e os comunicados oficiais atualizados, porque a lista pode mudar.",
           "Nanlac Supreme Pro é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre e a nota técnica do Ministério da Saúde e da Anvisa.",
           "Como preparar o Nanlac Supreme Pro? Ferva a água por 5 minutos, espere até 70 °C e use 14,1 g de pó (3 colheres rasas de 4,7 g) para 90 ml de água, conforme o rótulo.",
-          "Quanto rende a lata de Nanlac Supreme Pro de 800 g? Cerca de 5,7 litros de preparo ou 24 copos de 210 ml, em conta nossa feita com as medidas do rótulo.",
+          "Quanto rende a lata de Nanlac Supreme Pro de 800 g? Pela nossa conta com as medidas do rótulo, cerca de 56 porções de 100 ml preparado. Com 7 medidas e 210 ml de água por porção, são cerca de 24 porções; os 210 ml são a água usada no preparo.",
           "Quanto tempo dura a lata aberta do Nanlac Supreme Pro? O rótulo diz até 30 dias, com a lata bem tampada em local seco, fresco e arejado."
         ]
       }
@@ -86332,7 +86329,8 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
         "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
         "imageCaption": "Modo de preparo impresso na lata do Nanlac Supreme Pro.",
-        "imageFit": "portrait"
+        "imageFit": "portrait",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "Recolhimento de janeiro: lotes do Comfor",
@@ -86350,7 +86348,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem cada uma faz sentido, pelo rótulo",
         "paragraphs": [
-          "A decisão é do pediatra ou nutricionista. Pelo rótulo, quem procura mais HMOs declarados encontra quatro no Supreme Pro; o Comfor declara um. Na dúvida, a decisão é do pediatra. Olhando só o que cada rótulo declara:"
+          "A escolha da fórmula cabe ao pediatra ou nutricionista que acompanha a criança. Considerando exclusivamente as informações declaradas nos rótulos de cada lata:"
         ],
         "bullets": [
           "Quem procura mais HMOs declarados na tabela encontra quatro no Supreme Pro. O Comfor declara um, o 2'-FL.",
@@ -86448,7 +86446,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Nanlac Supreme Pro e o Aptanutri Profutura 3 são fórmulas para crianças de 1 a 3 anos, e a escolha depende do rótulo. Veja o que cada um declara, o preparo e o preço.",
+    "description": "Nanlac Supreme Pro e Aptanutri Profutura 3: diferenças de rótulo, versões, preparo e custo por litro para crianças de 1 a 3 anos.",
     "metaDescription": "Nanlac Supreme Pro (1 a 3 anos), com o cupom CECI de 10% OFF na Nestlé Nutre, comparado à Aptanutri Profutura 3: HMO, DHA, ARA e preço por litro.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
@@ -86463,13 +86461,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nanlac Supreme Pro e o Aptanutri Profutura 3 são fórmulas para crianças de 1 a 3 anos, e a escolha depende do rótulo. O Nanlac declara quatro HMOs; o Aptanutri, GOS, FOS e nucleotídeos. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto fórmulas de 0 a 12 meses."
+          "O Nanlac Supreme Pro declara HMOs; o Aptanutri Profutura 3, GOS, FOS e nucleotídeos. Essas são diferenças de composição publicadas pelos fabricantes, não uma escala de qualidade. Na Nestlé Nutre, o cupom CECI dá 10% OFF no Nanlac, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       },
       {
         "heading": "Duas fórmulas de 1 a 3 anos, de fabricantes diferentes",
         "paragraphs": [
-          "No rótulo, a diferença é HMO (Nanlac) contra prebióticos (Aptanutri). Não são leite em pó nem composto lácteo. A Nestlé Nutre vende o Nanlac Supreme Pro como \"fórmula infantil de primeira infância\", e a Danone descreve o Aptanutri Profutura 3 como \"fórmula infantil de seguimento em pó, à base de proteínas lácteas intactas\".",
+          "Os rótulos destacam ingredientes diferentes: quatro HMOs no Nanlac e GOS, FOS e nucleotídeos no Aptanutri Profutura 3. Não são leite em pó nem composto lácteo. A Nestlé Nutre vende o Nanlac como \"fórmula infantil de primeira infância\", e a Danone descreve o Aptanutri como \"fórmula infantil de seguimento em pó, à base de proteínas lácteas intactas\".",
           "As duas páginas oficiais trazem o aviso de que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade. Este comparativo fala só das latas de 1 a 3 anos."
         ],
         "comparisonTable": {
@@ -86514,7 +86512,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Profutura 3 ou Profutura Gold 3: qual versão entra na comparação",
         "paragraphs": [
-          "A Danone vende duas latas de 800 g para a mesma faixa. A **Profutura 3** é a de preço menor e a mais citada nas buscas. A **Profutura Gold 3** traz o HMO 2'FL adicionado, e a página da Danone não informa a quantidade. Na tabela publicada, as duas têm 9,2 g de proteínas e prebióticos GOS e FOS na mesma proporção. Mudam, por exemplo, as calorias, os açúcares adicionados e as vitaminas."
+          "A Danone apresenta duas latas de 800 g para a mesma faixa de idade. A Profutura 3 é a de menor preço na tabela; a Profutura Gold 3 declara o HMO 2'FL adicionado, sem informar a quantidade. As tabelas mostram diferenças nas calorias, nos açúcares adicionados e nas vitaminas."
         ],
         "comparisonTable": {
           "headers": [
@@ -86553,7 +86551,8 @@ export const reviewsData: unknown[] = [
               "R$ 107,59",
               "R$ 119,49"
             ]
-          ]
+          ],
+          "caption": "Dados das páginas oficiais. Valores nutricionais por 100 g de pó, salvo a linha de preço."
         },
         "postParagraphs": [
           "Nas seções seguintes, a coluna do Aptanutri é a da Profutura 3. Quem procura HMO no rótulo deve olhar a Gold 3, que é outro produto, com outro preço."
@@ -86562,11 +86561,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada rótulo declara",
         "paragraphs": [
-          "Os números abaixo vêm das páginas dos fabricantes: Nestlé Nutre, Mundo Danone e a página da Danone para profissionais de saúde. A comparação é só do que está impresso. Não diz qual fórmula \"faz mais\" por uma criança."
+          "A tabela reúne as informações publicadas pela Nestlé Nutre, Mundo Danone e Danone para profissionais de saúde. As colunas comparam declarações dos fabricantes, não o efeito de cada fórmula em uma criança."
         ],
         "comparisonTable": {
           "headers": [
-            "Por 100 g de pó",
+            "Item por 100 g de pó, salvo indicação de 100 ml preparado",
             "Nanlac Supreme Pro",
             "Aptanutri Profutura 3"
           ],
@@ -86654,7 +86653,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As duas fórmulas contêm lactose e leite. O Aptanutri declara também ovo e peixe, e pode conter soja. A Danone destaca na página o ácido palmítico na posição beta-2 e o DHA e o ARA \"ligados ao fosfolipídio\". São características de formulação que o fabricante cita; não as comparamos. Pela lista de ingredientes da página da Mundo Danone, o Aptanutri começa por lactose, leite parcialmente desnatado, proteína de soro do leite, óleos vegetais (girassol alto oleico, canola, girassol e palma), maltodextrina, GOS e FOS. O ovo e o peixe dos alérgenos vêm de dois itens da lista: fosfolipídeos do ovo e óleo de peixe. O ARA vem de óleo de Mortierella alpina.",
+          "As duas fórmulas contêm leite e lactose. O Aptanutri declara também ovo e peixe e pode conter soja. A Danone destaca ácido palmítico na posição beta-2 e DHA e ARA \"ligados ao fosfolipídio\"; características que o fabricante cita na página.",
+          "Na lista da Mundo Danone, o Aptanutri começa por lactose, leite parcialmente desnatado, proteína de soro do leite, óleos vegetais (girassol alto oleico, canola, girassol e palma), maltodextrina, GOS e FOS. Os alérgenos ovo e peixe correspondem a fosfolipídeos do ovo e óleo de peixe na lista; o ARA vem de óleo de Mortierella alpina.",
           "A tabela da Danone não diz com qual diluição foi calculada a coluna \"por 100 ml\". Por isso, compare as colunas \"por 100 g\" entre si, que não dependem do preparo."
         ],
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
@@ -86697,7 +86697,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Siga sempre as medidas da lata que está em casa, sem aumentar nem diminuir o pó. Preparo errado é risco, e a quantidade por dia é assunto para o pediatra."
+          "Siga sempre as medidas da lata que está em casa, sem aumentar nem diminuir o pó. Preparo errado é risco. A escolha da fórmula e a quantidade diária devem ser orientadas pelo pediatra ou nutricionista."
         ],
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
         "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
@@ -86707,7 +86707,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto rende a lata e quanto custa o litro",
         "paragraphs": [
-          "A Danone informa que a lata de 800 g da Profutura 3 rende 5.333 ml. Pela proporção de 14,1 g a cada 100 ml, o Nanlac rende cerca de 5,7 litros. Conta nossa: dividindo o preço da lata pelo rendimento:"
+          "A Danone informa rendimento de 5.333 ml para a lata de 800 g da Profutura 3. Para o Nanlac, nossa conta com 14,1 g de pó por 100 ml preparado resulta em cerca de 5,7 litros por lata de 800 g. A tabela divide o preço da lata pelo rendimento de referência."
         ],
         "comparisonTable": {
           "headers": [
@@ -86729,24 +86729,25 @@ export const reviewsData: unknown[] = [
               "5,3 L (informado pela Danone)",
               "cerca de R$ 20,17"
             ]
-          ]
+          ],
+          "caption": "Conta nossa com preços das lojas oficiais, sem frete e antes do cupom. Nanlac: rendimento calculado pela diluição do rótulo; Aptanutri: rendimento informado pela Danone. Valores aproximados."
         },
         "postParagraphs": [
           "É uma conta de referência. O rendimento real depende de como se mede o pó. O rendimento de 5,3 litros do Aptanutri Profutura 3 é o publicado na página da Danone."
-        ]
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
-        "heading": "Para quem cada uma faz sentido, pelo rótulo",
+        "heading": "Como ler as diferenças dos rótulos",
         "paragraphs": [
-          "A decisão sobre qual fórmula dar a uma criança é do pediatra ou nutricionista. Pelo rótulo, quem procura HMO declarado encontra quatro no Nanlac Supreme Pro; a Profutura 3 não declara nenhum. Na dúvida, a decisão é do pediatra. Olhando só o que cada rótulo declara:"
+          "A escolha da fórmula cabe ao pediatra ou nutricionista que acompanha a criança. A lista abaixo reúne diferenças declaradas nas latas, sem indicar uma fórmula por ingrediente nem concluir superioridade nutricional."
         ],
         "bullets": [
-          "Quem procura HMO no rótulo encontra quatro no Nanlac Supreme Pro. No Aptanutri, procure a versão Profutura Gold 3, que declara o 2'FL.",
-          "Quem procura prebióticos GOS e FOS e nucleotídeos na tabela encontra os três no Aptanutri Profutura 3.",
-          "Quem compara proteína, DHA e ARA por 100 g vê números maiores no Nanlac nas três linhas.",
-          "Quem compara preço por litro preparado paga menos no Nanlac, com os preços da leitura.",
-          "Quem compara açúcares adicionados vê 31 g por 100 g no Nanlac e 33 g no Aptanutri Profutura 3.",
-          "Quem precisa evitar leite, lactose, soja, ovo ou peixe deve ler o alergênico no rótulo da lata. As duas fórmulas contêm leite e lactose, e só o Aptanutri declara ovo e peixe."
+          "Para o Aptanutri, confira o nome completo: a Profutura Gold 3 declara HMO; a Profutura 3 não declara.",
+          "No Nanlac, os HMOs são uma diferença declarada. No Aptanutri Profutura 3, aparecem GOS, FOS e nucleotídeos. As quantidades estão nas tabelas acima.",
+          "Compare os nutrientes na mesma base: por 100 g de pó. A linha de energia por 100 ml preparado é identificada separadamente.",
+          "Pelos preços da tabela, o custo de referência por litro preparado era menor no Nanlac. Isso compara custo, não adequação para a criança.",
+          "Para restrições alimentares, confira os alérgenos na lata que receber: os avisos diferem entre as fórmulas."
         ],
         "postParagraphs": [
           "Lotes específicos do Nanlac Supreme Pro 800 g entraram no recolhimento de janeiro (Anvisa, RE nº 32/2026). Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos)."
@@ -86756,7 +86757,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e quanto custa",
         "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
         "paragraphs": [
-          "Preços lidos em 17/10/2026, nas lojas oficiais de cada fabricante."
+          "Preços lidos em 17/10/2026, nas lojas oficiais de cada fabricante. Confira os valores atuais antes de comprar."
         ],
         "comparisonTable": {
           "headers": [
@@ -86796,9 +86797,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Nanlac Supreme Pro ou Aptanutri Profutura: qual escolher? Não há resposta única. O rótulo do Nanlac declara 4 HMOs e mais proteína, DHA e ARA por 100 g. O do Aptanutri Profutura 3 declara GOS, FOS e nucleotídeos. A escolha é do pediatra ou nutricionista, e o preço por litro preparado pesa para quem compara custo.",
+          "Nanlac Supreme Pro ou Aptanutri Profutura: qual escolher? Não há resposta única pelo nome da marca. As tabelas acima mostram as diferenças declaradas de ingredientes e nutrientes, além do preparo e do custo por litro. Veja também a distinção entre Profutura 3 e Profutura Gold 3.",
           "O Aptanutri Profutura 3 tem HMO? A página da Danone para a Profutura 3 não declara HMO. A Profutura Gold 3 traz o HMO 2'FL adicionado, sem informar a quantidade.",
-          "Aptanutri Profutura 3 e Profutura Gold 3 são o mesmo produto? Não. A Danone vende as duas latas de 800 g, com tabelas e preços diferentes. A Gold 3 tem 2'FL e custava R$ 119,49 na leitura dos preços, contra R$ 107,59 da Profutura 3.",
+          "Aptanutri Profutura 3 e Profutura Gold 3 são o mesmo produto? Não. São duas latas de 800 g com tabelas diferentes. A Gold 3 declara 2'FL. A comparação de composição e preço está na seção que distingue as duas versões acima.",
           "O Aptanutri é fórmula infantil ou composto lácteo? É fórmula infantil de seguimento para a primeira infância, de 1 a 3 anos, segundo a Danone.",
           "Nanlac e Aptanutri servem para menores de 1 ano? Não. As duas páginas oficiais avisam que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.",
           "Quanto rende a lata de 800 g? O Nanlac Supreme Pro rende cerca de 5,7 litros (conta nossa, com as medidas do rótulo). A Danone informa 5,3 litros para a Profutura 3."
@@ -86858,7 +86859,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Entre o Nanlac Supreme Pro e o Ninho Fases 1+, fórmulas da Nestlé para 1 a 3 anos, a diferença está no rótulo. O Nanlac traz HMO, DHA e ARA; o Ninho, prebióticos e menos açúcar. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto fórmulas de 0 a 12 meses."
+          "Nanlac Supreme Pro e Ninho Fases 1+ são fórmulas de 1 a 3 anos: o Nanlac declara HMOs, DHA e ARA, e o Ninho, FOS e inulina, com menos açúcares. A escolha deve ser conversada com o pediatra ou nutricionista. Na Nestlé Nutre, o CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas de 0 a 12 meses."
         ]
       },
       {
@@ -87069,14 +87070,14 @@ export const reviewsData: unknown[] = [
               "30 ml"
             ],
             [
-              "Copo de 210 ml",
+              "Pó para 7 medidas rasas da colher própria de cada lata",
               "7 colheres rasas (32,9 g)",
               "7 colheres rasas (32,2 g)"
             ]
           ]
         },
         "postParagraphs": [
-          "O rótulo do Nanlac manda não guardar o que sobra e, se for absolutamente necessário, refrigerar abaixo de 5 °C por no máximo 24 horas. O Ninho segue a mesma orientação na página da Nestlé. A lata do Nanlac pede consumo em até 30 dias depois de aberta; a do Ninho, em até 4 semanas."
+          "O rótulo do Nanlac orienta não guardar restos. Quando for absolutamente necessário, o produto reconstituído deve ser refrigerado abaixo de 5 °C por no máximo 24 horas. Para o Ninho, confira as instruções da embalagem adquirida. A lata do Nanlac recomenda consumo em até 30 dias depois de aberta; a do Ninho, em até 4 semanas."
         ],
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
         "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
@@ -87106,7 +87107,7 @@ export const reviewsData: unknown[] = [
             "Preço (de tabela)",
             "Por 100 g",
             "Por 100 ml preparado",
-            "Por copo de 210 ml"
+            "Por porção de 7 medidas da própria lata"
           ],
           "rows": [
             [
@@ -87140,28 +87141,26 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Contas nossas: preço dividido pelo peso da lata, e depois pelas medidas do rótulo de cada produto (14,1 g por 100 ml no Nanlac, 13,8 g no Ninho). Na lata de 800 g, o Nanlac custa cerca de 1,9 vez o Ninho por 100 g. Na Nestlé Nutre, o Ninho de 800 g saiu mais caro por 100 g do que o de 400 g e o de 1,2 kg. O Nanlac tem ainda o combo \"leve 5, pague 4\" por R$ 449,56 (conta nossa: R$ 89,91 por lata).",
+          "Contas nossas: preço dividido pelo peso da lata e pelas medidas do rótulo de cada produto (14,1 g por 100 ml no Nanlac, 13,8 g no Ninho). A última coluna usa 7 medidas de cada lata: 32,9 g no Nanlac e 32,2 g no Ninho. A água do preparo, 210 ml (7 colheres de 30 ml), vem antes do pó; não é o volume final. Na lata de 800 g, o Nanlac custa cerca de 1,9 vez o Ninho por 100 g. Na cotação da Nestlé Nutre, o Ninho de 800 g sai mais caro por 100 g que o de 400 g e o de 1,2 kg. O combo Nanlac \"leve 5, pague 4\" custa R$ 449,56, ou cerca de R$ 89,91 por lata.",
           "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos são de 1 a 3 anos e não estão nas exceções. As condições vigentes ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre). Preço e desconto mudam, e o que vale é o da loja no momento da compra."
         ]
       },
       {
-        "heading": "Para quem cada um faz sentido, pelo rótulo",
+        "heading": "Diferenças para conversar com o pediatra",
         "paragraphs": [
-          "A escolha entre as duas é do pediatra e da família. Pelo rótulo, quem procura HMOs, DHA e ARA declarados encontra os três no Nanlac Supreme Pro; o Ninho não declara nenhum. Na dúvida, a decisão é do pediatra. Pelo que cada rótulo mostra, estes são os perfis:"
+          "A escolha da fórmula é uma conversa com o pediatra ou nutricionista. Nos rótulos e preços comparados, estas são as diferenças:"
         ],
         "bullets": [
-          "Quem quer uma fórmula com HMOs, DHA e ARA declarados no rótulo: o Nanlac Supreme Pro é o que traz esses itens.",
-          "Quem prefere menos açúcares adicionados na tabela, mais proteína por 100 g e prebióticos declarados: o Ninho Fases 1+ é o que traz esses números.",
-          "Quem compara preço por 100 g ou por copo: o Ninho Fases 1+ ficou mais barato na loja oficial.",
-          "Quem tem restrição a leite, soja ou lactose: nenhum dos dois, pelos alérgenos declarados."
-        ],
-        "postParagraphs": [
-          "Antes de trocar de fórmula, converse com o pediatra ou nutricionista."
+          "O Nanlac Supreme Pro declara HMOs, DHA e ARA; esses itens não constam no rótulo do Ninho Fases 1+ comparado.",
+          "O Ninho Fases 1+ declara FOS e inulina e tem menos açúcares adicionados e mais proteína por 100 g de pó na tabela.",
+          "O Ninho Fases 1+ é mais barato por 100 g e por porção de 7 medidas, na tabela de preços.",
+          "Os dois contêm leite, derivados de soja e lactose. Confira as restrições com o profissional que acompanha a criança."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "O cupom CECI vale para Nanlac e Ninho Fases 1+? Sim. Na Nestlé Nutre, o CECI dá 10% OFF nessas fórmulas de 1 a 3 anos; não vale para fórmulas de 0 a 12 meses, Alfamino e Alfaré.",
           "Nanlac ou Ninho Fases 1+? As duas são fórmulas infantis de seguimento para 1 a 3 anos. O Nanlac Supreme Pro declara HMOs, DHA e ARA; o Ninho Fases 1+ declara prebióticos (FOS e inulina) e tem bem menos açúcares adicionados por 100 g.",
           "Ninho Fases 1+ é fórmula ou composto lácteo? Segundo a lata, é fórmula infantil de seguimento para crianças de primeira infância. O composto lácteo da linha é o Ninho Fases 3+, para crianças a partir de 3 anos.",
           "Ninho Fases 1+ tem DHA ou ARA? O rótulo da lata não declara DHA nem ARA. O Nanlac Supreme Pro declara os dois.",
@@ -87434,7 +87433,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ingredientes e alérgenos",
         "paragraphs": [
           "No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O rótulo traz ferro, manganês e selênio em formas quelatadas: bisglicinato de ferro, bisglicinato de manganês e selenometionina.",
-          "No Centrum, a Drogasil lista como excipientes celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício (a Extrafarma traz a mesma lista). A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose. A Drogasil também informa que o Centrum contém itens de origem animal: vitamina A de origem suína e vitamina D3 de origem bovina e ovina. Quem precisa evitar um desses itens deve ler o rótulo do frasco."
+          "No Centrum, a Drogasil lista excipientes como celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício; a Extrafarma traz a mesma lista. As fontes divergem sobre lactose: ela aparece na lista de ingredientes, enquanto a embalagem consultada informa que não contém. Se você precisa evitar lactose, confirme essa informação no rótulo do frasco e com o fabricante antes de escolher. A Drogasil também lista vitamina A de origem suína e vitamina D3 de origem bovina e ovina."
         ]
       },
       {
@@ -87497,11 +87496,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Nutren A-Z ou Centrum? Os dois têm uma unidade por dia e 60 por frasco. O Nutren tem doses maiores de ferro, ácido fólico, vitaminas A e E, selênio, cobre, cromo e molibdênio e saiu mais barato por dia nas lojas comparadas; o Centrum traz cálcio, fósforo, magnésio e iodo.",
+          "Nutren A-Z ou Centrum? Compare a composição e o formato: o Nutren é cápsula softgel; o Centrum A a Zinco Adulto é comprimido e lista também cálcio, fósforo, magnésio e iodo. A tabela acima mostra as quantidades por unidade.",
           "O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.",
           "O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.",
-          "O Centrum A a Zinco tem lactose? A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose.",
-          "Qual custa menos por dia? Na leitura dos preços, o Nutren A-Z Multi saía a R$ 0,82 por dia na Nestlé Nutre e o Centrum A a Zinco a R$ 2,35 por dia na Extrafarma (contas nossas).",
+          "O Centrum A a Zinco tem lactose? As fontes consultadas divergem: a lista de ingredientes cita lactose e a embalagem informa que não contém. Para uma compra que exige evitar lactose, confirme no rótulo do frasco e com o fabricante.",
+          "Qual custa menos por dia? Nos preços levantados, o Nutren A-Z Multi custava menos por dia. Veja a tabela de preços acima para o valor, a loja e a data da comparação.",
           "Posso tomar os dois juntos? O rótulo do Nutren orienta consultar um profissional de saúde ao consumir outros suplementos.",
           "Centrum A a Zinco e Centrum Mulher ou Homem são o mesmo produto? Não. Este texto trata só do Centrum A a Zinco Adulto."
         ]
@@ -87509,12 +87508,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico."
+        "Centrum A a Zinco Adulto: você procura cálcio, fósforo, magnésio e iodo no mesmo multivitamínico, nutrientes listados na tabela desse produto.",
+        "Nutren A-Z Multi: você prefere cápsula softgel ou compara pelo menor preço por dia entre as embalagens e lojas da tabela."
       ],
       "skipIf": [
-        "Você prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitaminas A e E, ou menor preço por dia nas lojas comparadas: nesse caso, o Nutren A-Z Multi.",
-        "Você segue dieta sem produtos de origem animal: os dois têm itens de origem animal.",
-        "Você está grávida ou amamentando: a Drogasil avisa que o Centrum só deve ser usado com orientação médica."
+        "Você segue dieta sem produtos de origem animal: nenhum dos dois atende a esse critério.",
+        "Você precisa escolher por dose, uso com outros medicamentos, gravidez ou amamentação: leve essa dúvida a um médico ou nutricionista."
       ]
     },
     "pros": [],
@@ -87776,13 +87775,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nenhuma das duas é melhor para todos: Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são fórmulas de 1 litro com 1,5 kcal por mL, e a escolha é do médico ou do nutricionista. O que muda é a fibra e o preço por 1.000 kcal. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+          "Nenhuma das duas é superior para todos: Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são dietas de 1 litro, e a indicação é do médico ou do nutricionista. O que muda entre elas é a fibra e o custo por 1.000 kcal. Para quem tem indicação de Isosource, o cupom CECI dá 10% na loja oficial Nestlé Nutre."
         ]
       },
       {
         "heading": "Qual versão de cada lado",
         "paragraphs": [
-          "Nenhuma das duas se escolhe sozinha: é o médico ou o nutricionista que define a fórmula, a quantidade e a via. Este texto só compara o que os rótulos e as páginas mostram e as contas de preço.",
           "Isosource 1.5 Sem Sabor, 1 L, é o produto da Nestlé Health Science vendido na Nestlé Nutre, em caixa Tetra Square com tampa.",
           "Trophic 1.5, da Prodiet, na versão Baunilha, caixa de 1 L, lida na página da Droga Raia. O Isosource 1.0 existe só em pó, de 400 g, e o 1.5 é líquido. Por isso o 1.0 não entra aqui.",
           "A tabela completa do Isosource está lida no rótulo. Da Trophic, usamos só o que os cartões oficiais da Prodiet mostram nas fotos do produto numa loja, porque a tabela completa da caixa não estava publicada nas fontes lidas. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve)."
@@ -87886,7 +87884,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde entra o cupom CECI",
         "paragraphs": [
-          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Isosource não está nas exceções. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre). A Prodiet não é parceira do site, e não temos código para a Trophic."
+          "O cupom CECI garante 10% OFF na loja oficial da Nestlé Nutre em todas as formas de pagamento, exceto para fórmulas infantis de 0 a 12 meses e as linhas Alfamino e Alfaré. O Isosource 1.5 não está nessas exceções e é elegível ao desconto. A Prodiet não é parceira do site, por isso não há cupom para a Trophic. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre)."
         ]
       },
       {
@@ -87905,13 +87903,13 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Veja o Isosource 1.5 Sem Sabor na Nestlé Nutre e aplique o cupom CECI no carrinho.",
-      "label": "Ver na Nestlé Nutre",
+      "label": "Ver Isosource 1.5 na Nestlé Nutre",
       "url": "https://www.nestlenutre.com.br/isosource-1-5-sem-sabor",
       "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Não recebemos os produtos.",
+    "editorialNote": "Comparativo de rótulos e páginas oficiais. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre. Usar somente sob orientação médica ou de nutricionista; fórmula, quantidade e via são definidas pelo profissional.",
     "relatedArticles": [
       {
         "slug": "isosource-1-5-para-que-serve"
@@ -131382,7 +131380,7 @@ export const reviewsData: unknown[] = [
         "Assine se já sabe que vai repetir a compra."
       ],
       "skipIf": [
-        "Passe o combo: pelos preços lidos, o kit do mesmo produto sai mais barato.",
+        "Passe o combo: o kit do mesmo produto sai mais barato na compra única.",
         "Passe a lata de 370 g se o preço por grama pesa mais que a menor entrada."
       ]
     },
@@ -131401,7 +131399,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O kit de duas latas de 740 g sai mais barato por grama, tanto na compra única quanto na assinatura. A lata de 370 g custa 53% mais por grama que o kit. O CECI não foi testado com o kit nem com a assinatura: confira no carrinho."
+          "O kit de duas latas de 740 g sai mais barato por grama, tanto na compra única quanto na assinatura, antes do frete. A lata de 370 g custa 53% mais por grama que o kit. Para o CECI no kit e na assinatura, confira o desconto no carrinho antes de pagar."
         ]
       },
       {
@@ -195333,8 +195331,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mov Flex é cápsula, FiberMais é fibra em pó, só em limão, e o Nutren Protein com Colágeno é bebida pronta. Veja forma, porção e preço com o cupom CECI de cada um.",
-    "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre: Mov Flex, FiberMais Colágeno e Nutren Protein com Colágeno, com forma, porção e custo por dia de cada um.",
+    "description": "Compare Mov Flex em cápsulas, FiberMais com fibras e colágeno no sabor limão e Nutren Protein em bebida pronta. Veja composição, porção e preço com o CECI.",
+    "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre. Compare Mov Flex, FiberMais e Nutren Protein com Colágeno por forma, composição e custo por porção.",
     "publishedAt": "6 de novembro de 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -195349,13 +195347,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "São três produtos diferentes, e a escolha depende da forma: cápsulas de colágeno tipo II, pó de fibra com peptídeos ou bebida pronta de proteína. O cupom CECI dá 10% nos três. O que decide é o que cada porção traz e quanto custa por dia; veja o quadro do início e o veredito no fim."
+          "Mov Flex é cápsula de colágeno tipo II; FiberMais combina fibra e peptídeos em pó; Nutren Protein com Colágeno é bebida pronta com proteína. O CECI dá 10% nos três. Compare a composição e o custo por porção: a garrafa não informa a quantidade de colágeno, e os produtos têm ingredientes e apresentações diferentes."
         ]
       },
       {
         "heading": "Os três lado a lado: forma e o que vem junto",
         "paragraphs": [
-          "Cada um pede um jeito diferente de tomar. A tabela mostra o que cada porção declara no rótulo; como uma porção é cápsula, outra é colher de pó e outra é garrafa, o número de uma linha não se compara direto com o da linha de baixo."
+          "O quadro reúne apresentações e porções diferentes: uma cápsula, 12 g de pó ou uma garrafa. Ele mostra o que cada rótulo declara; a quantidade de colágeno, sozinha, não demonstra que um produto substitui o outro."
         ],
         "comparisonTable": {
           "caption": "Por porção, pelo que os rótulos e as páginas da Nestlé Nutre declaram. Compare a forma antes do número.",
@@ -195394,24 +195392,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Mov Flex: o que tem e como tomar",
         "paragraphs": [
-          "O Mov Flex é a escolha de quem quer resolver em uma cápsula por dia, sem preparar nada; quem busca fibra ou proteína junto fica com um dos outros dois.",
+          "O Mov Flex é a opção em cápsula do trio e dispensa preparo. Para quem procura fibras, há o FiberMais; para quem procura uma bebida pronta com proteína, há o Nutren Protein com Colágeno.",
           "A loja informa: \"suplemento alimentar com colágeno tipo II, vitamina D e magnésio\", em cápsula.",
-          "O modo de uso é \"Ingerir 1 cápsula ao dia.\" A página também pede para não exceder a recomendação diária e manter o produto fora do alcance de crianças.",
-          "Uma cápsula tem 6 kcal; o que muda o peso é o total de calorias do dia, não a cápsula. A tabela mostra só a porção.",
+          "O modo de uso da página é \"Ingerir 1 cápsula ao dia.\" Ela também pede para não exceder a recomendação diária e manter o produto fora do alcance de crianças.",
           "Na dúvida, fale com um médico ou nutricionista."
         ]
       },
       {
-        "heading": "FiberMais Colágeno: fibra com colágeno, só no limão",
+        "heading": "FiberMais Colágeno: pó com fibras e sabor limão",
         "paragraphs": [
-          "O FiberMais é o pó do trio, e na loja ele existe só no sabor limão. Serve para quem quer fibra numa bebida do dia, não para quem busca cápsula.",
+          "O FiberMais é o pó do trio. A versão comparada tem sabor limão e é a opção para quem procura fibras numa bebida preparada com água.",
           "A página o chama de \"suplemento de fibras sabor limão com colágeno Verisol®\", adoçado com Stevia e com aroma natural, e diz que é um \"suplemento alimentar de fibras em pó 100% solúveis\".",
-          "O uso é de 2 colheres de sopa ao dia, misturadas em 195 ml de água e mexidas até dissolver por completo. A lata rende 25 porções: tomando uma por dia, são 25 dias."
+          "O modo de uso informado pela loja é de 2 colheres de sopa ao dia, misturadas em 195 ml de água e mexidas até dissolver por completo."
         ],
         "image": {
           "src": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
           "alt": "Lata de 300 g do FiberMais com Colágeno sabor limão, suplemento alimentar de fibras em pó da Nestlé Health Science",
-          "caption": "A lata de 300 g do FiberMais com Colágeno, o único sabor que a loja vende. Foto da loja oficial da Nestlé Nutre.",
+          "caption": "FiberMais com Colágeno sabor limão, lata de 300 g. Foto da loja oficial da Nestlé Nutre.",
           "objectFit": "contain",
           "aspectRatio": 1
         }
@@ -195433,51 +195430,49 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Colágeno tipo II e peptídeos: a diferença no rótulo",
         "paragraphs": [
-          "A diferença está no que cada rótulo declara: a forma e a quantidade por porção. O Mov Flex fala em colágeno tipo II não desnaturado, em miligramas; o FiberMais fala em peptídeos bioativos de colágeno, em gramas.",
-          "Regra prática, sem teste nosso, só pelo nome que cada rótulo dá: peptídeo é colágeno já quebrado em pedaços menores; tipo II é uma das variedades de colágeno, e o Mov Flex a nomeia.",
-          "Os números não se comparam direto: uma porção é cápsula, a outra é colher de pó, e nenhum dos rótulos diz qual forma funciona melhor.",
-          "Quem busca \"colágeno tipo 2\" encontra esse nome no Mov Flex. No FiberMais, o rótulo fala em peptídeos; na garrafa, nem essa linha existe."
+          "Quem procura colágeno tipo II encontra essa identificação no Mov Flex: o rótulo declara colágeno de frango com colágeno tipo II não desnaturado. O FiberMais declara peptídeos bioativos de colágeno.",
+          "Esses nomes identificam os ingredientes declarados. As quantidades da tabela, em porções diferentes, não demonstram qual produto funciona melhor. No Nutren Protein com Colágeno, a página não informa a quantidade de colágeno por garrafa."
         ]
       },
       {
         "heading": "Preço com o cupom e onde comprar",
         "paragraphs": [
-          "Conta nossa: o CECI tira 10% do preço de hoje, sem frete. A tabela mostra cada produto com o cupom e o custo por dia.",
-          "Quem assina paga menos que o preço com o cupom na compra avulsa: a loja mostra R$ 51,93 no Mov Flex e R$ 111,22 no FiberMais na assinatura.",
-          "Os três estão na loja oficial da Nestlé Nutre, e o CECI se digita no checkout. As exceções do [cupom Nestlé Nutre](/cupons/nestle-nutre), Alfamino, Alfaré e fórmulas infantis, não alcançam nenhum dos três. O passo a passo está no [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
+          "Conta nossa, com os preços da loja de 06/11/2026: aplicamos os 10% do CECI ao preço da compra avulsa e dividimos pelo número de porções da embalagem. O custo por porção permite calcular o gasto conforme o consumo; a garrafa da tabela não equivale a uma recomendação de consumo diário.",
+          "Na assinatura, a loja mostra R$ 51,93 para o Mov Flex e R$ 111,22 para o FiberMais. Esses valores ficam abaixo da compra avulsa com CECI. Antes de escolher a assinatura, confira as condições, a frequência de entrega e o total no carrinho.",
+          "Os três estão na loja oficial da Nestlé Nutre. Digite CECI no checkout e confira o desconto no resumo do pedido. As exceções do [cupom Nestlé Nutre](/cupons/nestle-nutre), Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, não incluem os três produtos comparados. O passo a passo está no [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preço de hoje lido na loja em 06/11. As duas últimas colunas aplicam os 10% do CECI sobre ele.",
+          "caption": "Preços da loja para compra avulsa, sem frete. Simulação com CECI de 10%, válido em todas as formas de pagamento. Custo por porção declarada: uma cápsula, 12 g de pó ou uma garrafa; valores arredondados a centavos.",
           "headers": [
             "Produto",
-            "Preço de hoje",
+            "Preço consultado",
             "Com o CECI",
-            "Custo por dia"
+            "Custo por porção"
           ],
           "rows": [
             [
               "Nutren Mov Flex, 30 cápsulas",
               "R$ 59,92",
               "R$ 53,93",
-              "R$ 1,80 (30 dias)"
+              "R$ 1,80 por cápsula"
             ],
             [
               "FiberMais Colágeno Limão, 300 g",
               "R$ 127,11",
               "R$ 114,40",
-              "R$ 4,58 (25 porções)"
+              "R$ 4,58 por 12 g de pó"
             ],
             [
               "Nutren Protein com Colágeno, 260 ml",
               "R$ 11,90",
               "R$ 10,71",
-              "R$ 10,71 (uma garrafa)"
+              "R$ 10,71 por garrafa"
             ],
             [
               "Combo de 10 garrafas",
               "R$ 119,00",
               "R$ 107,10",
-              "R$ 10,71 cada"
+              "R$ 10,71 por garrafa"
             ]
           ]
         }
@@ -195485,10 +195480,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Pelo custo por dia e pela forma, o Mov Flex é o mais barato dos três e o único em cápsula: R$ 1,80 por dia, contra R$ 4,58 do FiberMais e R$ 10,71 da garrafa.",
-          "Quer fibra numa bebida diária? Fique com o FiberMais, sabendo que a loja só o tem em limão e que cada dia custa mais que o dobro do Mov Flex.",
-          "Quer bebida pronta com proteína? O Nutren Protein com Colágeno é a escolha, mas é o item de maior custo por dia, e o rótulo não diz quanto colágeno ele tem.",
-          "Entre os três, olhe primeiro a forma que cabe na sua rotina e só depois o custo por dia da tabela."
+          "Para quem procura colágeno tipo II em cápsula, o Mov Flex é a opção do trio. Na simulação, cada cápsula custa R$ 1,80.",
+          "Para quem procura fibras em pó com peptídeos de colágeno, o FiberMais reúne esses componentes no sabor limão. O custo calculado é de R$ 4,58 pela porção de 12 g.",
+          "Para quem procura uma bebida pronta com proteína, o Nutren Protein com Colágeno dispensa preparo. A garrafa sai por R$ 10,71 na simulação, mas a página não informa quantos gramas de colágeno ela contém.",
+          "Escolha pela composição e pelo formato que procura. O menor custo por porção, sozinho, não demonstra que um desses produtos substitui os outros."
         ]
       },
       {
@@ -195496,7 +195491,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Nutren Mov Flex para que serve? É a cápsula de colágeno tipo II da Nestlé, com vitamina D e magnésio na mesma cápsula, uma por dia. O que cada cápsula traz está na tabela do início, e o modo de uso, no capítulo dele.",
           "Como tomar o Nutren Mov Flex? Uma cápsula por dia, sem exceder a recomendação da embalagem; o detalhe está no capítulo do Mov Flex.",
-          "Nutren Mov Flex engorda? Cada cápsula tem 6 kcal, e o total de calorias do seu dia é o que conta; a tabela mostra só a porção.",
+          "Nutren Mov Flex engorda? O rótulo declara 6 kcal por cápsula. Esse dado, sozinho, não permite concluir se haverá ganho ou perda de peso.",
           "Qual o colágeno da Nestlé? São três produtos com formas diferentes: cápsula de colágeno tipo II, pó com peptídeos e bebida pronta. O veredito por perfil está no fim do texto.",
           "O cupom CECI vale no Mov Flex? Vale: o CECI cobre os produtos Nestlé Nutre, e só ficam de fora Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Confira o desconto no resumo do pedido antes de pagar."
         ]
@@ -195518,7 +195513,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você quer saber quanto colágeno tem na garrafa: o rótulo não traz essa linha.",
-        "Você quer outro sabor de FiberMais: na loja só existe o limão."
+        "Você não gosta de limão: esse é o sabor do FiberMais comparado neste guia."
       ]
     },
     "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Ninguém da equipe tomou os produtos; comparamos o que os rótulos e as páginas da loja informam.",

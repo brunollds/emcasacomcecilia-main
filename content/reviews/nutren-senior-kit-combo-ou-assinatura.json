@@ -42,7 +42,7 @@
       "Assine se já sabe que vai repetir a compra."
     ],
     "skipIf": [
-      "Passe o combo: pelos preços lidos, o kit do mesmo produto sai mais barato.",
+      "Passe o combo: o kit do mesmo produto sai mais barato na compra única.",
       "Passe a lata de 370 g se o preço por grama pesa mais que a menor entrada."
     ]
   },
@@ -61,7 +61,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O kit de duas latas de 740 g sai mais barato por grama, tanto na compra única quanto na assinatura. A lata de 370 g custa 53% mais por grama que o kit. O CECI não foi testado com o kit nem com a assinatura: confira no carrinho."
+        "O kit de duas latas de 740 g sai mais barato por grama, tanto na compra única quanto na assinatura, antes do frete. A lata de 370 g custa 53% mais por grama que o kit. Para o CECI no kit e na assinatura, confira o desconto no carrinho antes de pagar."
       ]
     },
     {
