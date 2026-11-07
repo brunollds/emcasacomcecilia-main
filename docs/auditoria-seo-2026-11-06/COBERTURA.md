@@ -1,0 +1,83 @@
+# Cobertura da continuação SEO
+
+**530 de 530 publicados** concluídos nesta rodada com análise e documentação por agentes distintos. **0 pendentes**; 87 revisões anteriores e três rascunhos ficam separados.
+
+Esta tabela registra revisão documental, sem implementação ou publicação. O inventário completo com hashes e situação individual está em [cobertura.json](cobertura.json).
+
+| Relatório | Artigos revisados |
+|---|---:|
+| [family-hostinger-ai-builder.md](family-hostinger-ai-builder.md) | 10 |
+| [family-hostinger-black-friday.md](family-hostinger-black-friday.md) | 10 |
+| [family-hostinger-cupom-como-funciona.md](family-hostinger-cupom-como-funciona.md) | 10 |
+| [family-hostinger-dominio.md](family-hostinger-dominio.md) | 10 |
+| [family-hostinger-openclaw-gerenciado-ou-vps.md](family-hostinger-openclaw-gerenciado-ou-vps.md) | 10 |
+| [family-hostinger-openclaw-melhor-vps.md](family-hostinger-openclaw-melhor-vps.md) | 10 |
+| [family-hostinger-openclaw-ou-hermes-agent.md](family-hostinger-openclaw-ou-hermes-agent.md) | 10 |
+| [family-hostinger-ou-hostgator.md](family-hostinger-ou-hostgator.md) | 10 |
+| [family-hostinger-paperclip-ai.md](family-hostinger-paperclip-ai.md) | 10 |
+| [family-hostinger-reach-ou-mailchimp-brevo.md](family-hostinger-reach-ou-mailchimp-brevo.md) | 10 |
+| [family-hostinger-renovacao-cupom.md](family-hostinger-renovacao-cupom.md) | 10 |
+| [family-hostinger-reputation.md](family-hostinger-reputation.md) | 10 |
+| [family-hostinger-trust-guide.md](family-hostinger-trust-guide.md) | 10 |
+| [family-hostinger-vps-ou-compartilhada.md](family-hostinger-vps-ou-compartilhada.md) | 10 |
+| [family-hostinger-wordpress.md](family-hostinger-wordpress.md) | 10 |
+| [family-shein-11-11.md](family-shein-11-11.md) | 10 |
+| [family-shein-black-friday.md](family-shein-black-friday.md) | 10 |
+| [family-shein-referral-code.md](family-shein-referral-code.md) | 10 |
+| [family-shein-reputation.md](family-shein-reputation.md) | 10 |
+| [family-shein-tamanho.md](family-shein-tamanho.md) | 10 |
+| [family-shein-trust.md](family-shein-trust.md) | 10 |
+| [family-shein-vale-a-pena.md](family-shein-vale-a-pena.md) | 10 |
+| [family-shein-vestido-festa.md](family-shein-vestido-festa.md) | 10 |
+| [family-shein-vs-shopee-temu.md](family-shein-vs-shopee-temu.md) | 10 |
+| [family-yesstyle-app.md](family-yesstyle-app.md) | 10 |
+| [family-yesstyle-black-friday.md](family-yesstyle-black-friday.md) | 10 |
+| [family-yesstyle-reputation.md](family-yesstyle-reputation.md) | 10 |
+| [family-yesstyle-shipping-by-country.md](family-yesstyle-shipping-by-country.md) | 10 |
+| [family-yesstyle-skincare-30.md](family-yesstyle-skincare-30.md) | 10 |
+| [family-yesstyle-vs-alternatives.md](family-yesstyle-vs-alternatives.md) | 10 |
+| [family-yesstyle-vs-olive-young.md](family-yesstyle-vs-olive-young.md) | 10 |
+| [singles-01.md](singles-01.md) | 5 |
+| [singles-02.md](singles-02.md) | 5 |
+| [singles-03.md](singles-03.md) | 5 |
+| [singles-04.md](singles-04.md) | 5 |
+| [singles-05.md](singles-05.md) | 5 |
+| [singles-06.md](singles-06.md) | 5 |
+| [singles-07.md](singles-07.md) | 5 |
+| [singles-08.md](singles-08.md) | 5 |
+| [singles-09.md](singles-09.md) | 5 |
+| [singles-10.md](singles-10.md) | 5 |
+| [singles-11.md](singles-11.md) | 5 |
+| [singles-12.md](singles-12.md) | 5 |
+| [singles-13.md](singles-13.md) | 5 |
+| [singles-14.md](singles-14.md) | 5 |
+| [singles-15.md](singles-15.md) | 5 |
+| [singles-16.md](singles-16.md) | 5 |
+| [singles-17.md](singles-17.md) | 5 |
+| [singles-18.md](singles-18.md) | 5 |
+| [singles-19.md](singles-19.md) | 5 |
+| [singles-20.md](singles-20.md) | 5 |
+| [singles-21.md](singles-21.md) | 5 |
+| [singles-22.md](singles-22.md) | 5 |
+| [singles-23.md](singles-23.md) | 5 |
+| [singles-24.md](singles-24.md) | 5 |
+| [singles-25.md](singles-25.md) | 5 |
+| [singles-26.md](singles-26.md) | 5 |
+| [singles-27.md](singles-27.md) | 5 |
+| [singles-28.md](singles-28.md) | 5 |
+| [singles-29.md](singles-29.md) | 5 |
+| [singles-30.md](singles-30.md) | 5 |
+| [singles-31.md](singles-31.md) | 5 |
+| [singles-32.md](singles-32.md) | 5 |
+| [singles-33.md](singles-33.md) | 5 |
+| [singles-34.md](singles-34.md) | 5 |
+| [singles-35.md](singles-35.md) | 5 |
+| [singles-36.md](singles-36.md) | 5 |
+| [singles-37.md](singles-37.md) | 5 |
+| [singles-38.md](singles-38.md) | 5 |
+| [singles-39.md](singles-39.md) | 5 |
+| [singles-40.md](singles-40.md) | 5 |
+| [singles-41.md](singles-41.md) | 5 |
+| [singles-42.md](singles-42.md) | 5 |
+| [singles-43.md](singles-43.md) | 5 |
+| [singles-44.md](singles-44.md) | 5 |

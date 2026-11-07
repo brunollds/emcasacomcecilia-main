@@ -93,3 +93,7 @@ release-meta.json
 docs/Memoria de Artigos/memreview/.obsidian/workspace.json
 docs/Memoria de Artigos/memreview/.obsidian/workspace-mobile.json
 docs/Memoria de Artigos/memreview/.obsidian/graph.json
+
+# áreas de trabalho das auditorias de SEO e de busca
+.tmp-seo-audit-*/
+.tmp-search-review-*/
