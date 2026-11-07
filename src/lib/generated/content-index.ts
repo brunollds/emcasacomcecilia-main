@@ -45025,7 +45025,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Levita: minha experiência com a poltrona em casa",
         "paragraphs": [
-          "A Levita compartilha com a Aurora uma presença envolvente e a proposta de ser uma poltrona de destaque na sala, mas segue por outra rota de uso. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e base giratória. A marca publica 360° na página do produto e até 280° na FAQ, então vale confirmar a especificação da versão comprada antes de fechar.",
+          "A Levita compartilha com a Aurora uma presença envolvente e a proposta de ser uma poltrona de destaque na sala, mas segue por outra rota de uso. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e base giratória. A nossa gira 280°, o mesmo ângulo da FAQ da marca; a página do produto fala em 360°.",
           "Poder fazer esses pequenos ajustes me ajuda a encontrar a posição para leitura, televisão ou descanso. A troca é prática: a Levita precisa de uma tomada próxima e de área de abertura; a Aurora remove a tomada da equação, mas usa uma alavanca e um puff deslocável. São características para comparar com a planta da casa e a rotina, não um ranking de conforto.",
           "A foto abaixo me mostra usando a Levita em casa."
         ],
@@ -45069,7 +45069,7 @@ export const reviewsData: unknown[] = [
             [
               "Giro informado",
               "360° na página oficial",
-              "360° na página do produto e até 280° na FAQ; confirmar na versão comprada"
+              "280° (conferido na nossa)"
             ],
             [
               "Infraestrutura",
@@ -45117,7 +45117,7 @@ export const reviewsData: unknown[] = [
           "Poltrona com puff vale a pena em uma sala pequena? Pode funcionar se o puff puder ser reposicionado quando não estiver em uso, mas ele não reduz a área ocupada pelo conjunto. Meça o espaço com a poltrona e o puff na posição de descanso e mantenha as passagens livres.",
           "A Aurora ou a Levita é melhor? Depende do uso: Aurora privilegia reclinação manual e puff separado; Levita oferece ajustes elétricos independentes e requer tomada próxima.",
           "A Aurora da DAMIE tem puff? Sim. A página oficial informa que a Aurora acompanha puff independente no conjunto.",
-          "A Levita gira 360°? A DAMIE publica 360° na página do produto e até 280° na FAQ da Levita. Confirme a especificação da versão que vai comprar antes de fechar.",
+          "A Levita gira 360°? Não. A nossa gira 280°, o mesmo ângulo da FAQ da DAMIE, embora a página do produto fale em 360°.",
           "Qual é o cupom da DAMIE? O código é CECILIA12; teste-o no checkout para 12% em itens elegíveis e confirme as condições antes de finalizar."
         ]
       }
