@@ -189,15 +189,15 @@
     {
       "heading": "Se o pedido der problema",
       "paragraphs": [
-        "A regra vem da própria loja. Comece pelo canal dela. Se a loja não resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil."
+        "Comece pelos canais da Bagaggio e guarde o protocolo. Se não houver solução, registre a queixa no perfil correspondente à compra."
       ],
       "bullets": [
         "Compra pelo site: fale pelo chat do site, de segunda a sexta, das 9h às 18h. Para trocas e garantia, o e-mail é atendimento@bagaggio.com.br.",
         "Compra em loja física: trocas e garantia podem ser pedidas em qualquer loja Bagaggio.",
         "Desistência de compra pelo site, em até 7 dias corridos depois do recebimento: pelo Troque Fácil, com o número do pedido e o CPF. A devolução pode virar vale-trocas ou restituição do valor pago.",
-        "Pedido ainda com a transportadora: recuse a entrega. O estorno sai na mesma forma de pagamento, depois que a mercadoria volta ao centro de distribuição.",
+        "Se você pediu cancelamento ou desistiu e o pedido já está com a transportadora, a Bagaggio orienta recusar a entrega. Pela política da loja, o estorno na forma de pagamento ocorre após a volta da mercadoria ao centro de distribuição. Se quiser manter a compra, registre o atraso no atendimento.",
         "Cartão: o estorno é pedido à administradora e pode cair em até duas faturas. Boleto: o crédito vai para a conta corrente do mesmo CPF da nota, em até 10 dias úteis depois do recebimento do produto.",
-        "Frete: o reembolso do frete só sai na devolução integral do pedido."
+        "Frete: a política da Bagaggio informa reembolso do frete só na devolução integral do pedido. Em devolução parcial, peça o detalhamento dos valores ao atendimento."
       ],
       "postParagraphs": [
         "Se o prazo de entrega passou, guarde o número do pedido e o CPF da compra e registre a data em que o prazo venceu. Esses dados ajudam em qualquer contato com a loja."
@@ -223,15 +223,13 @@
     {
       "heading": "Dá para confiar na Bagaggio?",
       "paragraphs": [
-        "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de maio a outubro, mas a janela de 12 meses até outubro ainda estava Ruim, então a melhora é recente."
+        "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de maio a outubro, mas a janela de 12 meses até outubro ainda estava Ruim, então a melhora é recente. Essa reputação mostra o atendimento registrado, não o resultado de um novo pedido."
       ],
       "bullets": [
-        "Nota: 7,9 de maio a outubro (Boa) e 5,8 nos 12 meses até outubro (Ruim).",
-        "Respondidas: 100% de maio a outubro. Resolvidas: 92,5%.",
-        "Voltariam a fazer negócio: 61,1% de maio a outubro e 33,4% nos 12 meses até outubro.",
-        "Tempo médio de resposta: 7 dias e 4 horas de maio a outubro.",
-        "Problema mais citado na aba geral: atraso na entrega, com 29,95%.",
-        "Cuidado prático: acompanhe o rastreio, guarde o número do pedido e abra o chamado cedo se a entrega atrasar."
+        "Confira se está no perfil Loja Virtual e se o CNPJ corresponde ao site.",
+        "Abra a aba atual antes de comprar, porque os números mudam.",
+        "Para pedido em andamento, guarde o prazo prometido, acompanhe o rastreio e registre o atraso no canal da loja.",
+        "Para saber quem vende e conhecer as políticas de compra, veja [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
       ]
     },
     {

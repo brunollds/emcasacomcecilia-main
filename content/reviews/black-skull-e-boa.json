@@ -30,7 +30,7 @@
     "Cupom CECILIA10 de 10% no site todo, que soma com as promoções do site e vale em todas as formas de pagamento"
   ],
   "cons": [
-    "Nenhum whey isolado nem sem lactose: todos os wheys declaram \"Contém lactose\"",
+    "Os wheys comparados declaram \"Contém lactose\", e a loja informa que não vende isolado nem zero lactose",
     "O nome do whey confunde: o \"100%\" do 100% HD não é a porcentagem de proteína",
     "O cupom não vale no Mercado Livre"
   ],
@@ -38,7 +38,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, pelo rótulo: o whey 80% HD tem mais proteína por dose que o 100% HD, e a creatina Creator traz só creatina monohidratada. O que muda a compra é o whey escolhido, porque o \"100%\" do nome não é a porcentagem de proteína; a conta está no capítulo do whey."
+        "Pelo rótulo, sim: o whey 80% HD declara 23 g de proteína em cada 30 g de dose e teve o menor custo por proteína entre os cinco wheys comparados. O nome \"100%\" do 100% HD não indica a porcentagem de proteína do pó, e a Creator traz só creatina monohidratada."
       ]
     },
     {
@@ -59,15 +59,15 @@
       "heading": "O whey da Black Skull é bom?",
       "paragraphs": [
         "É bom no sentido do rótulo: a tabela nutricional diz quanto de proteína vem em cada dose, e o preço por proteína cabe numa conta. O que atrapalha é o nome do pote.",
-        "O ponto que decide é o 80% HD: ele tem mais proteína por dose que o 100% HD, numa dose menor. O \"100%\" do 100% HD não é a porcentagem de proteína, já que o pó dele tem 60% de proteína, contra 77% do 80% HD, que também é o de menor preço por proteína da linha.",
+        "O ponto que decide é o 80% HD: ele tem mais proteína por dose que o 100% HD, numa dose menor. O \"100%\" do 100% HD não é a porcentagem de proteína, já que o pó dele tem 60% de proteína, contra 77% do 80% HD, que também tem o menor preço por proteína entre os cinco produtos comparados.",
         "Conta nossa: com a tabela nutricional de cada rótulo e o preço do site, que está no capítulo do cupom, a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100."
       ],
       "comparisonTable": {
-        "caption": "Proteína por dose do rótulo. R$ por 100 g de proteína: conta nossa, com o preço do site antes do cupom.",
+        "caption": "Proteína declarada por porção nos rótulos. Quantidade no pote e custo por 100 g de proteína são estimativas próprias, com o preço do site antes do cupom.",
         "headers": [
           "Whey",
           "Proteína por dose",
-          "Proteína no pote",
+          "Proteína estimada no pote",
           "R$ por 100 g de proteína"
         ],
         "rows": [
@@ -104,7 +104,7 @@
         ]
       },
       "postParagraphs": [
-        "A loja informa: todos esses wheys declaram \"Contém lactose\", e a Black Skull não vende whey isolado nem zero lactose. O 80% HD leva só proteína concentrada (WPC); o 100% HD e o 3W Core misturam concentrado, isolado e hidrolisado. O único com \"WPI\" no nome, o Whey Protein (WPI, WPC, WPH), tem 11 g em 25 g de dose e também contém lactose.",
+        "A loja informa que todos esses wheys declaram \"Contém lactose\" e que não vende whey isolado nem zero lactose. O 80% HD leva só proteína concentrada (WPC); o 100% HD e o 3W Core misturam concentrado, isolado e hidrolisado, então não são isolados. O único com \"WPI\" no nome, o Whey Protein (WPI, WPC, WPH), tem 11 g em 25 g de dose e também contém lactose.",
         "**80% HD:** serve a quem quer pagar menos pela proteína e aceita uma lista simples. Não é o whey para quem procura isolado ou mistura de proteínas.",
         "**100% HD:** serve a quem quer uma mistura de proteínas para o dia a dia, em muitos sabores; o de 1,8 kg compensa quando se compra o pote grande de uma vez. Não escolha se o critério é preço por proteína: sai mais caro que o 80% HD pelo mesmo preço do refil.",
         "**3W Core:** serve a quem quer a dose mais proteica da linha. Não escolha pelo preço, porque é o mais caro por proteína entre os cinco da tabela.",
@@ -141,7 +141,7 @@
         "A Creatine Turbo lista creatina monohidratada e maltodextrina, com 5 g de creatina e 5 g de carboidrato em cada dose de 10 g. Por isso ela não é só creatina, e o preço por grama de creatina é mais de três vezes o do Creator."
       ],
       "comparisonTable": {
-        "caption": "Doses e creatina por dose do rótulo. R$ por 100 g de creatina: conta nossa, preço do site ÷ creatina do pote × 100.",
+        "caption": "Porções e creatina declaradas nos rótulos. Custo por 100 g de creatina é estimativa própria, com o preço do site antes do cupom.",
         "headers": [
           "Creatina",
           "Doses",
@@ -332,24 +332,24 @@
     },
     {
       "heading": "Para quem vale e para quem não vale",
-      "emphasis": "Se você escolhe whey pelo rótulo, comece pelo 80% HD: traz mais proteína por dose que o 100% HD e é o de menor preço por proteína da linha.",
+      "emphasis": "Se você escolhe whey pelo rótulo, comece pelo 80% HD: traz mais proteína por dose que o 100% HD e tem o menor preço por proteína entre os cinco wheys comparados.",
       "bullets": [
         "Vale para quem compra suplemento pela tabela nutricional e pelo preço por proteína, e não pelo nome do pote.",
         "Vale para quem quer creatina só monohidratada pelo menor preço por grama: o Creator refil de 500 g.",
-        "Não vale para quem procura whey isolado ou sem lactose: a Black Skull não vende nenhum.",
+        "Não vale para quem procura whey isolado ou sem lactose: a loja informa que não vende nenhum.",
         "Não vale para quem quer usar o cupom no Mercado Livre: o CECILIA10 vale só no site."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O whey da Black Skull é bom? Pelo rótulo, sim: a tabela nutricional traz a proteína por dose, e o 80% HD tem mais proteína por dose que o 100% HD. A conta está no capítulo do whey.",
+        "O whey da Black Skull é bom? Pelo rótulo, sim: o 80% HD declara mais proteína por dose que o 100% HD e teve o menor custo por proteína entre os cinco wheys comparados.",
         "Qual whey da Black Skull compensa mais? Para pagar menos por proteína, o 80% HD Refil 900 g; para uma mistura de proteínas em muitos sabores, o 100% HD; para a dose mais proteica, o 3W Core.",
         "80% ou 100% HD: qual escolher? O 80% HD tem mais proteína por dose e sai mais barato por proteína. O \"100%\" do nome do outro não é a porcentagem de proteína do pó.",
         "A creatina da Black Skull é boa? Pelo rótulo, o Creator traz só creatina monohidratada e sai mais barato por grama que o Creatine, que tem a mesma lista de ingredientes.",
-        "A Black Skull tem whey zero lactose ou isolado? Não: todos os wheys da loja declaram que contêm lactose.",
+        "A Black Skull tem whey zero lactose ou isolado? Não, segundo a loja: os wheys comparados declaram \"Contém lactose\". Confira o rótulo da versão que você vai comprar.",
         "O cupom CECILIA10 vale no Mercado Livre? Não: ele vale só no site da Black Skull, onde dá 10% e soma com as promoções do site.",
-        "A Black Skull é confiável? Os dados da empresa e a reputação estão em dois guias próprios, linkados no capítulo de confiabilidade."
+        "A Black Skull é confiável? Pelo que a empresa publica, sim: CNPJ ativo e regras de troca, frete e atendimento no site. Os dados da empresa e a reputação estão em dois guias próprios, linkados no capítulo de confiabilidade."
       ]
     }
   ],
@@ -367,7 +367,7 @@
       "Você quer creatina só monohidratada pelo menor preço por grama."
     ],
     "skipIf": [
-      "Você precisa de whey isolado ou sem lactose: todos os da loja declaram lactose.",
+      "Você precisa de whey isolado ou sem lactose: a loja informa que não vende esses tipos.",
       "Você quer usar o cupom no Mercado Livre: o CECILIA10 vale só no site."
     ]
   },

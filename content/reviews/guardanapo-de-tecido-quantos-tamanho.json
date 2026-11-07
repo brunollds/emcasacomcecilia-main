@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pela conta nossa, compre um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Nas fichas lidas, a medida é 45 x 45 cm ou 40 x 40 cm. O de 45 serve melhor no almoço e no jantar, e o de 40 no café, como mostram as tabelas abaixo."
+        "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Entre as medidas das fichas, nossa sugestão é o de 45 x 45 cm para almoço e jantar, e o de 40 x 40 cm para café e lanche."
       ]
     },
     {
@@ -41,11 +41,11 @@
         "headers": [
           "Guardanapo (Decortextil)",
           "Medida",
-          "Preço",
-          "2 pessoas (3)",
-          "4 pessoas (5)",
-          "6 pessoas (7)",
-          "8 pessoas (9)"
+          "Preço usado na conta",
+          "2 pessoas: 3 peças",
+          "4 pessoas: 5 peças",
+          "6 pessoas: 7 peças",
+          "8 pessoas: 9 peças"
         ],
         "rows": [
           [
@@ -87,8 +87,8 @@
         ]
       },
       "postParagraphs": [
-        "Entre parênteses, o número de guardanapos com a reserva. Os totais não incluem frete, que sai pelo CEP.",
-        "O cupom MAUAD dá 5% no site, vale em todas as formas de pagamento e soma com os 5% do Pix; na conta nossa sobre esses preços, os sete Poá Terracota de uma mesa de seis pessoas saem de R$ 392,00 por R$ 372,40 com o cupom e por R$ 353,78 com o cupom e o Pix, sem frete.",
+        "Os totais incluem um guardanapo de reserva e não incluem frete, que sai pelo CEP.",
+        "O cupom MAUAD dá 5% de desconto no site em todas as formas de pagamento e acumula com os 5% do Pix. Aplicando o cupom aos valores da tabela, o conjunto de sete guardanapos Poá Terracota (mesa para seis com reserva) baixa de R$ 392,00 para R$ 372,40 no cartão e para R$ 353,78 no Pix, sem contar o frete calculado pelo CEP.",
         "O [guia da mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) conta um guardanapo por pessoa, sem reserva, para uma mesa de seis. Se for seguir a conta daqui, some uma peça."
       ],
       "images": [
@@ -126,7 +126,7 @@
         ]
       },
       "postParagraphs": [
-        "A sugestão por refeição é conta nossa: a página não diz. O de 45 x 45 cm cobre mais o colo, então vai melhor no almoço e no jantar, com prato principal e molho. O de 40 x 40 cm serve no café da manhã, no lanche e na sobremesa, e também ocupa menos espaço dobrado sobre o prato.",
+        "Nossa sugestão é usar o de 45 x 45 cm no almoço e no jantar, com prato principal e molho, porque ele cobre mais o colo. O de 40 x 40 cm ocupa menos espaço dobrado sobre o prato e serve no café da manhã, no lanche e na sobremesa.",
         "Se a casa vai usar o mesmo jogo em todas as refeições, o de 45 x 45 cm resolve as duas situações. A medida não define o preço: o Oliva de 45 cm custa R$ 0,90 a menos que o Abelha de 40 cm."
       ],
       "images": [
@@ -190,10 +190,11 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quantos guardanapos de tecido comprar por pessoa? Um por pessoa em cada refeição, mais um de reserva por mesa, pela conta nossa. Para quatro pessoas, são cinco; para seis, sete.",
-        "Qual o tamanho ideal de guardanapo de pano? Nas fichas lidas, as medidas são 45 x 45 cm e 40 x 40 cm, e nenhuma é chamada de padrão. Pela conta nossa, o de 45 vai melhor no almoço e no jantar, e o de 40 no café e no lanche.",
-        "Guardanapo de tecido pode ir na máquina e na secadora? A ficha dos guardanapos de algodão lidos manda lavar à mão, em até 40 °C, e não usar secadora. A secagem indicada é natural, à sombra.",
-        "Guardanapo de tecido precisa passar? A ficha diz para passar em temperatura média, com ferro morno de até 150 °C."
+        "Quantos guardanapos de tecido comprar por pessoa? Recomendamos um guardanapo por pessoa em cada refeição mais um de reserva por mesa. Para quatro pessoas, compre cinco peças; para seis pessoas, sete peças.",
+        "Qual o tamanho ideal de guardanapo de pano? Nas fichas, as medidas são 45 x 45 cm e 40 x 40 cm; nenhuma é chamada de padrão. Nossa sugestão é o de 45 para almoço e jantar, e o de 40 para café e lanche.",
+        "Guardanapo de tecido pode ir na máquina e na secadora? A ficha dos guardanapos de algodão manda lavar à mão, em até 40 °C, e não usar secadora. A secagem indicada é natural, à sombra.",
+        "Guardanapo de tecido precisa passar? A ficha diz para passar em temperatura média, com ferro morno de até 150 °C.",
+        "Qual é o cupom da Let's Eat It e como usar? O cupom MAUAD oferece 5% de desconto em todo o site oficial da Let's Eat It, válido em todas as formas de pagamento e acumulando com os 5% de desconto à vista no Pix."
       ]
     }
   ],
@@ -205,7 +206,7 @@
     ],
     "skipIf": [
       "Passe o de 40 x 40 cm como jogo único se a casa serve almoço com molho: o de 45 cobre mais o colo.",
-      "Passe qualquer um dos quatro se a máquina decide: a página manda lavar à mão, sem secadora."
+      "Evite os quatro modelos se você só lava na máquina: as fichas indicam lavagem à mão e não permitem secadora."
     ]
   },
   "pros": [],

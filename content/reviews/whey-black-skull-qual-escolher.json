@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Para pagar menos pela proteína, o Whey 80% HD Refil 900 g é o mais barato da Black Skull; para uso diário, vale o 100% HD. Veja a comparação por dose e preço por 100 g.",
+  "description": "Whey Black Skull: 80% HD, 100% HD, 3W Core, Gourmet e Turbo comparados por proteína declarada, composição e custo por 100 g de proteína, versão por versão.",
   "metaDescription": "O cupom CECILIA10 dá 10% OFF em todo o site da Black Skull. Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo.",
   "publishedAt": "23 de outubro de 2026",
   "publishedAtISO": "2026-10-23",
@@ -25,26 +25,26 @@
   "imageAspect": "landscape",
   "decision": {
     "takeIf": [
-      "Leve o 80% HD Refil 900 g se você quer pagar menos por proteína.",
-      "Leve o 100% HD, de preferência o de 1,8 kg, se você quer uma mistura de proteínas para o uso diário.",
-      "Leve o 3W Core se você quer uma dose com muita proteína: são 31 g por dose."
+      "Compare o 80% HD Refil 900 g se a prioridade é o custo por proteína declarada; ele tem o menor custo entre as versões comparadas.",
+      "Se prefere a composição do 100% HD, compare as gramagens: a embalagem de 1,8 kg tem menor custo por proteína nessa linha, mas exige maior compra.",
+      "Compare o 3W Core se procura a porção declarada de 31 g de proteína em 40 g de produto."
     ],
     "skipIf": [
-      "Passe na Black Skull se você procura whey isolado ou sem lactose: todos os wheys declaram \"Contém lactose\".",
+      "Passe na Black Skull se você procura whey isolado ou sem lactose: os wheys da linha declaram \"Contém lactose\".",
       "Passe no Gourmet e no Turbo se você escolhe pelo nome do pote: eles têm outra dose e outra conta."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Veja os wheys da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+    "text": "Compare a versão e o preço no site da Black Skull e aplique CECILIA10 no carrinho: 10% em qualquer forma de pagamento, também nas promoções. Confira o desconto e o total com frete antes de pagar.",
     "label": "Ir para a Black Skull",
     "url": "https://www.blackskullusa.com.br/",
     "sponsored": true
   },
   "coupon": "CECILIA10",
   "affiliate": "black-skull",
-  "editorialNote": "Não tomamos os wheys. Podemos receber comissão pelo cupom CECILIA10.",
+  "editorialNote": "Não tomamos os wheys; a comparação usa rótulos e preços da loja, sem laudo de proteína. Para adequação à sua dieta, consulte nutricionista ou médico. Podemos receber comissão pelo CECILIA10.",
   "relatedArticles": [
     {
       "slug": "melhor-whey-qual-escolher-por-objetivo"
@@ -60,15 +60,15 @@
     {
       "heading": "Resposta rápida: qual whey da Black Skull comprar",
       "paragraphs": [
-        "Para pagar menos pela proteína, o Whey 80% HD Refil 900 g é o mais barato da linha. Para uso diário, com mistura de proteínas, vale o 100% HD, de preferência o de 1,8 kg. O que muda a decisão é a proteína por dose; o capítulo de veredito, perto do fim, traz o whey de cada objetivo."
+        "O 80% HD Refil 900 g tem o menor custo por proteína entre as versões comparadas. Para uma mistura de proteínas, o 100% HD de 1,8 kg tem o menor custo da linha 100% HD, e o 3W Core declara 31 g de proteína por porção, com custo maior por proteína."
       ]
     },
     {
       "heading": "Como lemos a linha: preço por 100 g de proteína",
       "paragraphs": [
-        "A Black Skull vende 11 wheys e um kit de Turbo, e a diferença entre eles está em quatro coisas: quanto de proteína vem em cada dose, quanto custa a proteína (não o pote), o que a lista de ingredientes diz e o sabor, que só você escolhe.",
+        "A Black Skull vende 11 wheys e um kit de Turbo. A comparação considera proteína declarada por porção, custo dessa proteína, ingredientes e sabores cadastrados. O preço do pote sozinho não resume essas diferenças.",
         "O preço do pote engana porque dois potes de 900 g não têm a mesma quantidade de proteína dentro. A régua deste artigo é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100, com a tabela nutricional do rótulo e o preço de venda de 23/10/2026. Exemplo com o 80% HD: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína.",
-        "Todos os wheys da linha declaram \"Contém lactose\": a Black Skull não tem whey isolado nem sem lactose no site."
+        "Todos os wheys da linha declaram \"Contém lactose\" no catálogo do site. Algumas fórmulas listam proteína isolada na mistura, o que não equivale a um whey vendido como isolado."
       ]
     },
     {
@@ -118,7 +118,7 @@
         ]
       },
       "postParagraphs": [
-        "O pote de 900 g custava R$ 10,00 a mais que o refil, com a mesma tabela. O 1,8 kg é o menor preço por proteína da linha 100% HD, com R$ 26,66, mas pede R$ 279,90 de uma vez. Quem compra o refil de 900 g paga R$ 30,46.",
+        "Na linha 100% HD, o pote de 900 g custa mais que o refil com a mesma tabela nutricional. A embalagem de 1,8 kg tem o menor custo por proteína, mas exige maior desembolso. A tabela acima permite comparar as duas decisões: quanto você paga de uma vez e quanto paga pela proteína.",
         "Para ver o 100% HD ao lado de outra marca, leia [Black Skull ou Growth](/reviews/black-skull-ou-growth). O que a loja diz sobre o colágeno do 100% HD está no capítulo \"Atenção ao nome\"."
       ],
       "image": {
@@ -130,14 +130,14 @@
       }
     },
     {
-      "heading": "80% HD: o mais barato por proteína da linha",
+      "heading": "80% HD: o menor custo por proteína, com preço que varia por sabor",
       "paragraphs": [
-        "O [Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) custava R$ 159,90, com 23 g de proteína em cada dose de 30 g (77%) e 30 porções. A conta dá R$ 23,17 por 100 g de proteína, o menor número da linha. A lista de ingredientes traz só WPC (proteína concentrada do soro do leite), e o produto contém lactose.",
-        "É o único whey da linha com preço diferente por sabor: o Banana saía a R$ 139,90, ou R$ 20,28 por 100 g de proteína. Morango e Cookies saíam a R$ 159,90. Chocolate e Baunilha estavam sem estoque.",
+        "O [Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) declara 23 g de proteína em porção de 30 g, cerca de 77% do pó, com 30 porções. A lista traz WPC, proteína concentrada do soro do leite, e o produto contém lactose. A conta de referência usa o preço de Morango e Cookies; o sabor Banana custa menos, como explicado abaixo.",
+        "É o único whey da linha com preço diferente por sabor: Banana sai a R$ 139,90, ou R$ 20,28 por 100 g de proteína. Morango e Cookies custam R$ 159,90. Chocolate e Baunilha estavam sem estoque.",
         "O \"80\" do nome também não é o teor exato do pó: a tabela mostra 23 g em 30 g, cerca de 77%, e é essa conta que vale."
       ],
       "postParagraphs": [
-        "Contra o 100% HD Refil, que custa os mesmos R$ 159,90, a diferença é de R$ 7,29 por 100 g de proteína a favor do 80% HD (R$ 23,17 contra R$ 30,46). Em troca, a lista do 80% HD é mais simples: só WPC, sem isolado, hidrolisado nem peptídeos."
+        "Com o 100% HD Refil ao mesmo preço, o 80% HD tem menor custo pela proteína declarada. A composição também é diferente: o 80% HD lista só WPC, sem isolado, hidrolisado ou peptídeos. Isso descreve a fórmula, não comprova qualidade superior."
       ]
     },
     {
@@ -146,7 +146,7 @@
         "O 3W Core tem 31 g de proteína em 40 g; o 100% HD, 21 g em 35 g. Os dois misturam WPC, WPI e WPH, mas o rótulo é outro.",
         "O [3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p) pede dois dosadores por dose (77,5% de proteína no pó), tem 22 porções e custava R$ 279,90. A lista traz WPC, WPI e WPH, sem peptídeos. A conta dá R$ 41,04 por 100 g de proteína.",
         "O 100% HD Refil 900 g (60% de proteína no pó) tem 25 porções e custava R$ 159,90, com peptídeos hidrolisados e proteína concentrada de leite na lista. A conta dá R$ 30,46 por 100 g de proteína, R$ 10,58 a menos que o 3W Core.",
-        "Na prática, o 3W Core entrega mais proteína por dose (31 g contra 21 g) e custa mais por proteína. Se você quer uma dose com muita proteína, o 3W Core é o da linha. Se o que importa é o preço da proteína, o 100% HD sai mais barato."
+        "O 3W Core declara mais proteína por porção, mas também uma porção maior: 31 g em 40 g, contra 21 g em 35 g do 100% HD. Ele tem maior concentração de proteína no pó e custo maior por proteína. Compare esses critérios separadamente."
       ],
       "postParagraphs": [
         "A Max Titanium também vende um 3W, com outra conta de preço e de dose. A comparação está em [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium)."
@@ -162,11 +162,11 @@
     {
       "heading": "Sabor: o que a loja mostra e o que não mostra",
       "paragraphs": [
-        "A Black Skull não publica venda por sabor. O que o site mostra é a lista de sabores de cada whey, quais têm estoque e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. Por isso o sabor fica com você: escolha o que gosta, entre os que têm estoque na tabela.",
-        "Na ordem de produtos do site, considerando só wheys e o kit de Turbo, o 80% HD Refil 900 g vinha em primeiro, o 100% HD Refil 900 g em segundo e o 100% HD pote de 900 g em terceiro."
+        "A Black Skull não publica venda por sabor. O site mostra a lista de sabores de cada whey e quais têm estoque, e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. O estoque da tabela pode mudar; antes de comprar, confira a versão que você quer e escolha o sabor que gosta.",
+        "Na ordem de produtos do site, considerando só wheys e o kit de Turbo, o 80% HD Refil 900 g aparece em primeiro, o 100% HD Refil 900 g em segundo e o 100% HD pote de 900 g em terceiro. É a posição na página, não uma contagem de vendas."
       ],
       "comparisonTable": {
-        "caption": "Sabores com estoque no site oficial. A ordem dos sabores é a do cadastro da loja.",
+        "caption": "Disponibilidade do site oficial; não representa estoque atual. A ordem dos sabores é a do cadastro da loja.",
         "headers": [
           "Produto",
           "Sabores com estoque",
@@ -244,17 +244,17 @@
     {
       "heading": "Quadro da linha: os 11 wheys e o kit de Turbo do site",
       "paragraphs": [
-        "Na mesma régua, o 80% HD Refil é o menor preço por proteína e o Gourmet 450 g, o maior. Todos declaram \"Contém lactose\". O número mais baixo não decide a compra sozinho: a dose, o tipo de proteína e o sabor mudam de produto para produto."
+        "O quadro compara o custo pela proteína declarada, não pelo peso total do pó. Na linha do 80% HD, o preço é o de Morango e Cookies; Banana tem preço menor. Composição, tamanho da porção e quantidade comprada continuam relevantes para decidir."
       ],
       "image": {
         "src": "/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
         "alt": "Quadro desenhado com o preço por 100 g de proteína dos wheys da Black Skull em 23/10/2026, do 80% HD Refil (R$ 23,17) ao Gourmet 450 g (R$ 47,17)",
-        "caption": "Quadro: Em Casa com Cecília, com os preços do site.",
+        "caption": "Quadro: Em Casa com Cecília. No 80% HD, o valor é o de Morango/Cookies; Banana tem valor menor, detalhado no texto.",
         "objectFit": "wide",
         "aspectRatio": 1.7778
       },
       "comparisonTable": {
-        "caption": "Preços de venda do site oficial, antes do cupom. R$ por 100 g de proteína: preço ÷ (porções × proteína por dose) × 100, com a tabela nutricional. O Turbo é hipercalórico: a conta é só de referência.",
+        "caption": "Preços de referência, sem frete ou cupom. Custo por 100 g de proteína = preço ÷ (porções × proteína declarada por porção) × 100. 80% HD: preço de Morango/Cookies; Banana é o caso separado. Turbo é hipercalórico, com conta apenas de referência.",
         "headers": [
           "Produto",
           "Dose e proteína por dose",
@@ -264,7 +264,7 @@
         ],
         "rows": [
           [
-            "80% HD Refil 900 g",
+            "80% HD Refil 900 g (preço de Morango/Cookies)",
             "30 g, 23 g de proteína",
             "30",
             "R$ 159,90",
@@ -352,55 +352,38 @@
     },
     {
       "heading": "Qual whey da Black Skull para cada objetivo",
-      "emphasis": "Pelos números da tabela, para pagar menos pela proteína a escolha é o 80% HD Refil 900 g, porque sai a R$ 23,17 por 100 g de proteína, o menor número da linha.",
+      "emphasis": "O 80% HD Refil 900 g tem o menor custo por proteína da linha: R$ 23,17 por 100 g em Morango/Cookies e R$ 20,28 em Banana. O sabor muda o preço; refaça a conta com a oferta da versão que pretende comprar.",
       "emphasisAfterParagraph": 1,
       "paragraphs": [
-        "Cada objetivo de compra leva um whey diferente. O R$ por 100 g de proteína é a conta que usamos no artigo inteiro, e a última coluna mostra o mesmo número com o cupom CECILIA10."
+        "Depois de comparar os rótulos, escolha o que quer priorizar: custo por proteína, composição, tamanho da embalagem ou quantidade de proteína declarada por porção. O resumo abaixo aponta para essas diferenças; os valores completos ficam no quadro da linha."
       ],
       "comparisonTable": {
-        "caption": "Preços de venda do site oficial, antes do cupom. R$ por 100 g de proteína: conta nossa, com a proteína por dose e as porções da tabela nutricional de cada rótulo. Com CECILIA10: preço menos 10%.",
+        "caption": "Resumo de critérios. Porções conforme o rótulo de cada produto.",
         "headers": [
-          "Se você quer…",
-          "Leve…",
-          "Preço",
-          "R$ por 100 g de proteína",
-          "Com CECILIA10"
+          "Prioridade de compra",
+          "Opção para comparar",
+          "O que conferir"
         ],
         "rows": [
           [
-            "Pagar menos pela proteína",
+            "Custo por proteína",
             "[Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
-            "R$ 159,90",
-            "R$ 23,17",
-            "R$ 20,86"
+            "Preço do sabor escolhido e rótulo atual"
           ],
           [
-            "Um whey de uso diário, com mistura de proteínas e 11 sabores",
-            "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
-            "R$ 159,90",
-            "R$ 30,46",
-            "R$ 27,41"
+            "Mistura do 100% HD",
+            "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p) ou [Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
+            "Composição, quantidade que quer comprar e custo por proteína"
           ],
           [
-            "O menor preço por proteína da linha 100% HD",
-            "[Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
-            "R$ 279,90",
-            "R$ 26,66",
-            "R$ 23,99"
-          ],
-          [
-            "Mais proteína por dose",
+            "Porção declarada de 31 g de proteína",
             "[Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p) (31 g em 40 g)",
-            "R$ 279,90",
-            "R$ 41,04",
-            "R$ 36,94"
+            "São 40 g de produto por porção; compare também a concentração e o custo"
           ],
           [
-            "Um pote pequeno",
+            "Embalagem pequena",
             "[Whey 100% HD Gourmet 450 g](https://www.blackskullusa.com.br/whey-100-gourmet-450/p), só se a dose de 12 g servir",
-            "R$ 84,90",
-            "R$ 47,17",
-            "R$ 42,45"
+            "Fórmula diferente, com 12 g de proteína em 30 g de produto; não é só o 100% HD menor"
           ]
         ]
       },
@@ -412,17 +395,17 @@
       "heading": "Cupom CECILIA10",
       "paragraphs": [
         "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, com todas as formas de pagamento, e soma com as promoções vigentes. No teste de checkout, o desconto valeu em todos os itens do carrinho, inclusive nos que já estavam em promoção. Vale para conta nova e antiga. O frete é calculado pela loja e fica fora do cupom. O código não vale no Mercado Livre: lá vale o preço do anúncio.",
-        "Na prática, o cupom tira R$ 15,99 do refil de 900 g (R$ 159,90 viram R$ 143,91) e R$ 27,99 do 1,8 kg e do 3W Core (R$ 279,90 viram R$ 251,91). No 80% HD sabor Banana, que saía a R$ 139,90, a conta com o cupom dá R$ 125,91, ou R$ 18,25 por 100 g de proteína. O passo a passo do código está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e as regras ficam na página do [cupom Black Skull](/cupons/black-skull)."
+        "Aplicado aos preços de referência, o CECILIA10 reduz o custo calculado em 10%; o valor final depende do sabor, da embalagem e da oferta do dia. Veja [como usar o código na Black Skull](/reviews/cupom-black-skull-como-usar) e as condições na página do [cupom Black Skull](/cupons/black-skull)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual whey da Black Skull é o mais barato por proteína? O Whey 80% HD Refil 900 g: R$ 23,17 por 100 g de proteína, ou R$ 20,28 no sabor Banana. Entre os 100% HD, o de 1,8 kg, com R$ 26,66.",
-        "A Black Skull tem whey isolado ou sem lactose? Não: todos os wheys da linha declaram \"Contém lactose\", e a busca por \"isolado\" no site voltou sem resultado.",
+        "Qual whey da Black Skull é o mais barato por proteína? O Whey 80% HD Refil 900 g: R$ 23,17 por 100 g de proteína em Morango/Cookies, ou R$ 20,28 no sabor Banana. Entre os 100% HD, o de 1,8 kg, com R$ 26,66.",
+        "A Black Skull tem whey isolado ou sem lactose? No catálogo do site, os wheys declaram \"Contém lactose\". Confirme o rótulo da versão que você quer.",
         "O 100% HD tem colágeno? O texto de venda da loja fala em \"peptídeos hidrolisados de colágeno\", e a lista de ingredientes diz só \"peptídeos hidrolisados\". A quantidade não é publicada.",
-        "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor, então o guia não escolhe sabor. A lista dos sabores com estoque está no capítulo de sabor.",
-        "Whey ajuda a emagrecer ou a ganhar massa? Este artigo compara rótulo, tabela e preço, e não trata desse objetivo. Quem tem objetivo de saúde ou de dieta deve falar com nutricionista."
+        "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor, então a comparação não escolhe sabor. A tabela mostra as opções e o estoque informado pelo site; confirme o estoque atual da versão que prefere.",
+        "Whey ajuda a emagrecer ou a ganhar massa? Esse efeito não é medido aqui: a comparação é de rótulo, composição e custo. Para objetivo de saúde ou dieta, fale com nutricionista."
       ]
     }
   ]

@@ -34,7 +34,7 @@
     {
       "heading": "O que vai em cada lugar",
       "paragraphs": [
-        "A conta deste guia é nossa e usa quatro peças por lugar, sem taça e sem sobremesa:"
+        "A conta considera quatro grupos por lugar, com os três talheres dentro de um deles:"
       ],
       "bullets": [
         "1 jogo americano.",
@@ -43,7 +43,7 @@
         "1 prato raso."
       ],
       "postParagraphs": [
-        "A ordem da lista é a ordem de compra. O jogo americano vem em 1 unidade, e o guardanapo tem na página o preço de uma peça, então você compra o número exato de pessoas e usa com o que já tem. O faqueiro é vendido em jogo e custa mais de uma vez só. Os pratos ficam por último porque quase toda casa já tem algum prato raso para começar.",
+        "Comece pelo tecido: jogo americano e guardanapo, usando os pratos e talheres que já tem. O jogo americano é anunciado por unidade; para o guardanapo, a conta assume uma peça por anúncio, conforme a descrição da página. O faqueiro vem em jogo e pede uma compra maior de uma vez. Deixe os pratos para depois se os de casa já atendem.",
         "Os preços são do cartão, lidos na Let's Eat It em 29/10/2026, e todas as peças estavam disponíveis nesse dia."
       ]
     },
@@ -166,7 +166,8 @@
             "R$ 207,40",
             "R$ 157,65"
           ]
-        ]
+        ],
+        "caption": "Faixa econômica para 2 e 4 pessoas, no cartão e sem frete."
       },
       "postParagraphs": [
         "Sem os pratos, para quem usa os de casa, a faixa fica em R$ 330,80 para 2 pessoas e R$ 462,60 para 4."
@@ -230,7 +231,8 @@
             "R$ 262,05",
             "R$ 212,30"
           ]
-        ]
+        ],
+        "caption": "Faixa intermediária para 2 e 4 pessoas, no cartão e sem frete."
       },
       "postParagraphs": [
         "Dá para subir de faixa aos poucos: o faqueiro fica, e você troca primeiro o tecido, depois os pratos. As faixas também se misturam, como o Limone com o Oliva."
@@ -260,8 +262,8 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "O que comprar primeiro para a mesa posta? O tecido: um jogo americano e um guardanapo por pessoa, que funcionam com os pratos e talheres que você já tem.",
-        "Quanto custa uma mesa posta para 2 pessoas? Com as peças deste guia, a partir de R$ 414,80 no cartão, com o faqueiro de 12 peças inteiro, pelos preços do guia.",
-        "Quanto custa uma mesa posta para 4 pessoas? De R$ 630,60 na faixa econômica a R$ 849,20 na intermediária, no cartão e sem frete, pelos preços do guia.",
+        "Quanto custa uma mesa posta para 2 pessoas? Na faixa econômica, R$ 414,80 no cartão e sem frete, com o faqueiro de 12 peças inteiro. Você pode começar só pelo tecido e usar pratos e talheres de casa.",
+        "Quanto custa uma mesa posta para 4 pessoas? R$ 630,60 na faixa econômica e R$ 849,20 na intermediária, no cartão e sem frete.",
         "Dá para montar a mesa posta sem taça? Sim. A taça ficou fora da conta porque a Sphere só é vendida em jogo de 6, de R$ 289,00 a R$ 298,00.",
         "Guardanapo de tecido pode ir na máquina? Pela ficha do Poá Terracota e do Bordado Oliva, não: a lavagem é à mão, até 40 °C, sem secadora e sem alvejante."
       ]

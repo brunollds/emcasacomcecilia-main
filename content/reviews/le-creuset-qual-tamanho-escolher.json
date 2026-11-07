@@ -28,8 +28,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Escolheu o tamanho? Veja as cores disponíveis da Le Creuset no site da Let's Eat It.",
-    "label": "Ir para a Let's Eat It",
+    "text": "Escolheu seu tamanho? Veja as cores disponíveis e use o cupom MAUAD para 5% OFF no site da Let's Eat It.",
+    "label": "Ver Le Creuset na Let's Eat It",
     "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
     "sponsored": true
   },
@@ -51,7 +51,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para receita de até 2 L, a 20 cm (2,4 L) basta; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O que muda a escolha é o volume da panela que você já usa, medido abaixo; para servir à mesa, vale o buffet."
+        "Para receita de até 2 L, a 20 cm (2,4 L) basta se a receita não encostar na borda; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa, medido abaixo, decide; para servir à mesa, vale o buffet."
       ]
     },
     {
@@ -185,22 +185,22 @@
     {
       "heading": "Como saber de quantos litros você precisa",
       "paragraphs": [
-        "O número que decide é o litro, e o jeito mais seguro de chegar nele é medir o que você já usa."
+        "Compare o volume da receita que você mais faz com a capacidade total da panela. A receita precisa deixar espaço livre, e essa margem depende do preparo."
       ],
       "bullets": [
-        "Pegue a panela que você mais usa no dia a dia. Encha de água até a borda com um copo medidor e anote os litros.",
-        "Pense na receita mais cheia que você faz nela. Se ela chega perto da borda, ou você precisa mexer devagar para não derramar, a panela é pequena para o seu uso.",
-        "Compare o resultado com 2,4 L (20 cm) e com 4,2 L (24 cm). Até 2 L, a 20 cm resolve com folga. Acima disso, a 24 cm é o tamanho que cobre. Em fritura a conta muda: a Le Creuset limita o óleo a 1/3 da capacidade.",
-        "Confira se a tampa fecha com folga. Receita que sobe, como arroz, sopa ou ensopado em fervura, precisa de espaço livre entre o líquido e a tampa."
+        "Confira a capacidade da panela que você já usa. Se medir com água até a borda, anote que esse é o volume total, não o limite para cozinhar.",
+        "Pense na sua receita mais cheia: se chega perto da borda ou derrama ao mexer, você precisa de mais espaço.",
+        "Compare as capacidades nominais: 2,4 L na Redonda de 20 cm e 4,2 L na de 24 cm. Escolha a que acomoda a receita e a margem necessária ao preparo.",
+        "Confira os cuidados de uso da linha para o tipo de preparo; uma receita que sobe ou ferve precisa de espaço livre."
       ],
       "postParagraphs": [
-        "Se a sua medida cair entre 2,4 e 4,2 L, a 20 cm fica apertada nas receitas cheias e a 24 cm sobra nas pequenas: entre as duas, a 24 cm é a que não limita a receita. A capacidade é a nominal, até a borda: numa 24 cm de 4,2 L, o óleo de fritura fica em cerca de 1,4 L. Quem quer levar a panela do forno direto para a mesa como peça de servir não precisa dessa conta: o caminho é a caçarola buffet, tratada na próxima seção."
+        "Se a receita já fica apertada na sua panela, compare o volume dela com o próximo tamanho da tabela, sem usar a borda como limite de cozimento. A capacidade é a nominal, até a borda: numa 24 cm de 4,2 L, o óleo de fritura fica em cerca de 1,4 L. Quem procura uma peça baixa e larga para servir do forno à mesa pode considerar a buffet da seção seguinte."
       ]
     },
     {
       "heading": "Caçarola buffet: quando faz sentido",
       "paragraphs": [
-        "A buffet é a Le Creuset para servir à mesa, baixa e larga. A loja a descreve como peça ampla e baixa para cozinhar e servir, do forno para a mesa. É esse o papel dela: ir direto à mesa, sem trocar de travessa.",
+        "A caçarola buffet é baixa e larga, descrita pela loja para cozinhar e servir. A marca destaca o uso do forno direto à mesa, como peça de servir.",
         "A Let's Eat It tinha estes tamanhos no site:"
       ],
       "bullets": [
@@ -239,7 +239,7 @@
         "A escolha mais segura parte do volume da receita que você mais faz."
       ],
       "bullets": [
-        "**Receita de até 2 L:** a 20 cm (2,4 L) leva com folga para a tampa fechar. Em fritura, o óleo vai só até 1/3 da capacidade.",
+        "**Receita de até 2 L:** a 20 cm (2,4 L) leva bem se a receita não encosta na borda. Em fritura, o óleo vai só até 1/3 da capacidade.",
         "**Receita de 2 a 3,5 L:** a 24 cm (4,2 L). Na 20 cm, ela chega à borda ou não cabe.",
         "**Receita de 3,5 a 4,5 L:** a 26 cm, com 5,3 L. Acima disso, a tabela do início: 28 cm (6,7 L) ou 30 cm (8,4 L)."
       ],
@@ -273,7 +273,7 @@
   "decision": {
     "takeIf": [
       "Para receitas de 2 a 3,5 L: a 24 cm, que cobre a receita cheia e sai mais barata por litro.",
-      "Para receitas de até 2 L: a 20 cm, com folga para a tampa fechar. Em fritura, o óleo vai só até 1/3 da capacidade.",
+      "Para receitas de até 2 L: a 20 cm, se a receita não encosta na borda. Em fritura, o óleo vai só até 1/3 da capacidade.",
       "Para levar a panela do forno direto à mesa: a caçarola buffet."
     ],
     "skipIf": [

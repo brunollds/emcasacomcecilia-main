@@ -300,7 +300,7 @@
         "**Mais Mu:** preço por 100 g de proteína no concentrado a partir do refil de 900 g (R$ 56,00 contra R$ 61,48 no cartão) e no 1,8 kg (R$ 50,00 contra R$ 53,99).",
         "**Mais Mu:** preço por 100 g de proteína no isolado do refil de 900 g (R$ 71,63 contra R$ 77,90 no cartão).",
         "**Mais Mu:** preço por grama de creatina no refil de 500 g sem sabor (R$ 15,98 contra R$ 21,63 da Dux de 300 g).",
-        "**Mais Mu:** cupom de 10% em todo o site, inclusive em produto em oferta. Não temos cupom da Dux.",
+        "**Mais Mu:** cupom MMEMCASACOMCECILIA de 10% em todo o site, inclusive em oferta. Não temos código de parceria para a Dux.",
         "**Mais Mu:** no isolado, a página diz \"não contém glúten\"; a da Dux diz \"contém glúten\"."
       ]
     },
@@ -328,7 +328,7 @@
         "Mais Mu ou Dux: qual whey? No concentrado, a Mais Mu sai mais barata por 100 g de proteína a partir do refil de 900 g. A dose de proteína é a mesma, 20 g, mas a Dux a entrega em 30 g de pó, contra 36 g da Mais Mu.",
         "Qual creatina compensa mais? Por grama, o refil de 500 g da Mais Mu, a R$ 15,98 no cartão. A Dux de 300 g sai a R$ 21,63, e a Creapure dela, a R$ 91,63.",
         "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz \"proteína 100% pura, sem blends\" no concentrado. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
-        "A Dux tem cupom? Nós não temos cupom da Dux: ela não é parceira do site, e o MMEMCASACOMCECILIA vale só na Mais Mu.",
+        "A Dux tem cupom? Não temos código de parceria para a Dux. O MMEMCASACOMCECILIA vale somente na Mais Mu.",
         "A Mais Mu é boa? Este texto não responde a isso. Reputação e confiança da loja estão em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
         "Creatina Mais Mu é pura? A página diz \"100% Pura\", monohidratada e \"não é de origem animal\". É o que o texto da loja diz; não há laudo de terceiros neste texto.",
         "Creatina Mais Mu tem selo Creapure? As páginas da Mais Mu não declaram Creapure nem laudo.",
@@ -343,8 +343,8 @@
       "Leve a Dux se você quer o selo Creapure declarado e aceita pagar bem mais por grama de creatina."
     ],
     "skipIf": [
-      "Passe na Dux se você depende de cupom: não temos cupom da Dux.",
-      "Passe na Mais Mu se você pesa o Pix maior e o frete grátis mais baixo: a Dux leva nos dois."
+      "Passe na Dux se você depende de cupom: não temos código de parceria para ela.",
+      "Passe na Mais Mu se você pesa só o Pix maior ou o frete grátis mais baixo: a Dux leva nos dois, mas o total é que decide."
     ]
   },
   "pros": [],

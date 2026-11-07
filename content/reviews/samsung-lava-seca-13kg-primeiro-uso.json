@@ -98,7 +98,7 @@
     },
     {
       "key": "Motor",
-      "value": "Digital Inverter da Samsung (alta durabilidade e economia)"
+      "value": "Digital Inverter da Samsung"
     },
     {
       "key": "Conectividade",
@@ -118,10 +118,10 @@
     }
   ],
   "pros": [
-    "Secagem real que entrega roupas e toalhas prontas para uso, um alívio em dias de chuva",
+    "Na estreia com quatro toalhas, as peças estavam secas e prontas para guardar quando conferi na manhã seguinte",
     "Impressão de usar menos sabão e amaciante do que na lavadora de abertura superior, sem medição",
     "Conectividade SmartThings que permite acompanhar tempo, diagnósticos e consumo de água e energia",
-    "Funcionamento silencioso com motor calibrado e lavagem suave que abre as fibras das toalhas"
+    "Funcionamento silencioso percebido na estreia, com as toalhas macias ao final"
   ],
   "cons": [
     "Manual impresso resumido a uma folha com QR code, exigindo o celular para consultar detalhes",
@@ -182,9 +182,9 @@
       "imageCaption": "Dona Amélia instalada no canto. Ao lado, a antiga Dona Consuelo de testemunha."
     },
     {
-      "heading": "App SmartThings, calibração do tambor e a gaveta de sabão",
+      "heading": "App SmartThings, giro do tambor e a gaveta de sabão",
       "paragraphs": [
-        "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina fez uma calibração do tambor vazio, que entendi como o ajuste dos sensores de peso da carga. Foi o que observei na estreia, não um passo a passo de instalação: o procedimento correto está no manual do modelo. O aplicativo é opcional e não é condição para lavar.",
+        "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina girou o tambor vazio, o que entendi como ajuste dos sensores de peso da carga. Foi o que observei na estreia, não um passo a passo de instalação: o procedimento correto está no manual do modelo. O aplicativo é opcional e não é condição para lavar.",
         "Pelo aplicativo dá para ver o tempo restante, os diagnósticos, o aviso de autolimpeza (a cada 40 ciclos) e o consumo de energia e água.",
         "A gaveta tem três partes: 1 para pré-lavagem, 2 para lavagem principal e a do meio para amaciante. A parte 2 traz pecinha azul para sabão líquido.",
         "Uma surpresa para quem vem de lavadoras de abertura superior: a impressão é de gastar menos sabão. A lavagem frontal funciona por tombamento da roupa, e uma única tampinha de sabão líquido pareceu suficiente nessa carga de quatro toalhas, sem comparação medida. Já o amaciante concentrado pede diluição prévia em um pouco de água para não grudar no dispenser."
@@ -223,7 +223,7 @@
       "bullets": [
         "Tire os 4 parafusos de transporte da parte traseira com a chave inclusa, antes de ligar a máquina;",
         "Instale a máquina na água e no esgoto seguindo o manual do modelo ou com a assistência técnica, e ligue na tomada;",
-        "Se quiser, pareie com o aplicativo SmartThings pelo QR code; na estreia, enquanto isso, a máquina fez uma calibração do tambor vazio, e o procedimento certo está no manual;",
+        "Se quiser, pareie com o aplicativo SmartThings pelo QR code; na estreia, enquanto isso, a máquina girou o tambor vazio, e o procedimento certo está no manual;",
         "Abasteça a gaveta: compartimento 1 para a pré-lavagem, 2 para a lavagem principal (com a pecinha azul encaixada se o sabão for líquido) e o do meio, com a florzinha, para o amaciante, diluído antes em um pouco de água se for concentrado;",
         "Coloque a roupa respeitando o limite de carga do programa no manual (13 kg para lavar, 8 kg para secar);",
         "Escolha o programa, a temperatura e a centrifugação no painel (na estreia, Toalhas, 60 °C e 800 RPM) e inicie: a máquina pesa a carga e recalcula o tempo;",
@@ -277,11 +277,11 @@
       "heading": "Perguntas frequentes sobre a Samsung 13 kg",
       "bullets": [
         "Qual é o modelo exato da lava e seca? Samsung WD13FG6B34BEAZ, da linha Lava e Seca Smart WD13FG com AI Control Branca 127V, com capacidade para 13,0 kg de lavagem e 8,0 kg de secagem.",
-        "Como usar a lava e seca Samsung pela primeira vez? Tire os parafusos de transporte, instale, pareie com o SmartThings, se quiser,, abasteça a gaveta, coloque a roupa respeitando o limite de carga do programa no manual e escolha programa, temperatura e centrifugação; o passo a passo está na seção acima.",
+        "Como usar a lava e seca Samsung pela primeira vez? Retire os quatro parafusos de transporte na traseira, faça a instalação hidráulica e elétrica conforme o manual, abasteça a gaveta de sabão e amaciante, respeite a carga do programa escolhido (até 13 kg para lavar ou 8 kg para secar) e selecione o ciclo no painel. O pareamento com o SmartThings é opcional; o passo a passo completo está na seção acima.",
         "Quais são as dimensões e o peso da máquina? Estão no quadro do produto, no topo: a máquina tem 60 cm de largura e passou na nossa porta de 80 cm, mas meça o vão livre antes da entrega.",
         "O que é a tecnologia Ecobubble e VRT Plus? O Ecobubble transforma o sabão em bolhas ativas para penetrar mais rápido nas fibras, enquanto o VRT Plus (VRT+) é o sistema de sensores que reduz ruídos e vibrações durante a centrifugação.",
         "Ela higieniza a seco? O modelo é anunciado pela Samsung como 3 em 1 (lava, seca e higieniza a seco com a tecnologia Air Wash, que usa ar quente sem água). Os resultados prometidos são alegações da fabricante; não testamos essa função.",
-        "O motor é econômico? Sim, ela conta com motor Digital Inverter da Samsung, que oferece alta eficiência energética, baixo ruído e durabilidade superior.",
+        "O motor é econômico? O modelo tem motor Digital Inverter da Samsung. Para saber o consumo, consulte os dados de eficiência do modelo e considere o programa e a carga que você usa.",
         "A lava e seca passa em portas padrão de 80 cm? Sim, no nosso teste passou na porta de 80 cm da lavanderia (a máquina tem 60 cm de largura), mas meça o vão livre e a moldura antes da entrega.",
         "É obrigatório retirar os parafusos de transporte? Sim! São 4 parafusos compridos na parte traseira que travam o tambor durante o frete. Eles devem ser retirados com a chave inclusa antes da primeira ligação.",
         "Quanto tempo demorou o primeiro ciclo completo? O visor estimou 2h04 para a lavagem das toalhas a 60 °C (recalculado pelo sensor de peso) e 2h45 para a secagem da mesma carga. Não cronometramos: o ciclo terminou à noite e conferi as toalhas na manhã seguinte.",

@@ -14,7 +14,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "O mesmo pote de whey Dr. Peanut custa igual na Max Titanium e na Dr. Peanut, nos mesmos cinco sabores. Veja o preço por 100 g de proteína, o cupom de cada loja e o frete.",
+  "description": "O mesmo whey Dr. Peanut aparece com o mesmo preço na Max Titanium e na Dr. Peanut, nos mesmos cinco sabores. Veja o preço por 100 g de proteína, o cupom de cada loja e o frete.",
   "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no whey Dr. Peanut, que a Max Titanium também vende. Veja sabores e preço por 100 g nas duas lojas.",
   "publishedAt": "5 de novembro de 2026",
   "publishedAtISO": "2026-11-05",
@@ -49,7 +49,7 @@
     {
       "heading": "Os cinco sabores",
       "paragraphs": [
-        "As duas lojas vendem os cinco sabores, Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos pelo mesmo preço. No rótulo, eles mudam pouco: os açúcares totais ficam entre 8,5 g e 11 g por dose, e a Paçoca, que não existe na pasta, tem o dobro de sódio dos outros. A comparação de sabores da pasta está em [Dr. Peanut: qual o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
+        "As duas lojas tinham os cinco sabores, Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos pelo mesmo preço. No rótulo, eles mudam pouco: os açúcares totais ficam entre 8,5 g e 11 g por dose, e a Paçoca, que não existe na pasta, tem o dobro de sódio dos outros. A comparação de sabores da pasta está em [Dr. Peanut: qual o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
       ],
       "images": [
         {
@@ -100,7 +100,7 @@
       "heading": "Cupom e Pix em cada loja",
       "paragraphs": [
         "Na Dr. Peanut, o cupom DREMCASACOMCECILIA dá 10% em todo o site, e no checkout deste whey ele funcionou e somou com o Pix. A linha do desconto aparece no carrinho antes de pagar.",
-        "Na Max Titanium, o cupom MAX10EMCASACOMCECILIA também funciona neste pote. Ele dá até 10%, e o percentual muda de produto para produto, então o valor certo aparece no carrinho. Se a Max der os 10% cheios, os dois carrinhos empatam no cupom e a diferença fica no Pix e no frete de cada loja; se der menos, a Dr. Peanut sai mais barata. Antes de fechar, ponha o pote nos dois carrinhos com o cupom de cada uma e compare o total.",
+        "Na Max Titanium, o cupom MAX10EMCASACOMCECILIA também funciona neste pote. Ele dá até 10%, e o percentual muda de produto para produto, então o valor certo aparece no carrinho. Mesmo com percentuais diferentes, Pix e frete podem mudar o total de cada pedido. Antes de fechar, ponha o pote nos dois carrinhos com o cupom de cada uma e compare o total.",
         "O Pix é desconto da própria loja, e cada uma tem o seu. O valor de cada um aparece na tela de pagamento. As regras dos códigos estão em [cupom Dr. Peanut](/cupons/dr-peanut) e [cupons da Max Titanium](/cupons/max-titanium)."
       ]
     },
@@ -116,18 +116,18 @@
         "Com o mesmo pote, os mesmos sabores e o mesmo preço, a loja sai do carrinho, não do produto: o cupom de cada uma, o Pix e o frete."
       ],
       "bullets": [
-        "Quer o desconto certo antes de abrir o carrinho: Dr. Peanut, com os 10% do cupom somados ao Pix.",
+        "Quer o cupom da Dr. Peanut somado ao Pix: Dr. Peanut, conferindo o total com frete no carrinho.",
         "Já compra na Max ou quer levar outro produto dela no mesmo pedido: Max, com o cupom dela, comparando o total dos dois carrinhos.",
         "Já compra pasta de amendoim na Dr. Peanut: o whey entra no mesmo pedido e ajuda a passar do frete grátis.",
         "Precisa evitar glúten ou lactose: nenhuma das duas serve, pelo rótulo."
       ],
-      "emphasis": "Pelos números da tabela, com o pote e o preço iguais, a escolha é a Dr. Peanut com o cupom, porque os 10% estão confirmados e somam com o Pix; a Max só empata se der os 10% cheios no carrinho."
+      "emphasis": "Com o pote e o preço iguais, o cupom decide: o da Dr. Peanut dá 10% e soma com o Pix; o da Max depende do percentual do carrinho."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "O whey Dr. Peanut é da Max Titanium? O pote leva as duas marcas: a página do produto o apresenta como criação da Max Titanium em parceria com a Dr. Peanut, e as duas marcas são do mesmo grupo.",
-        "Quais sabores tem o whey Dr. Peanut? Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, nas duas lojas e pelo mesmo preço.",
+        "Quais sabores tem o whey Dr. Peanut? Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, nas duas lojas e pelo mesmo preço. Confira sabores e valores atuais na loja.",
         "O cupom DREMCASACOMCECILIA soma com o Pix? Sim: no checkout do whey, o cupom funcionou e somou com o desconto no Pix da Dr. Peanut.",
         "O cupom da Max vale no whey Dr. Peanut? Vale: o MAX10EMCASACOMCECILIA funciona neste pote, com até 10%. O capítulo do cupom diz como comparar os dois carrinhos.",
         "O whey Dr. Peanut tem glúten ou lactose? Sim, pelo rótulo: o pote contém glúten e lactose, e nenhuma das lojas vende versão sem um deles."
@@ -138,12 +138,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você quer o desconto confirmado de 10%, somado ao Pix: compre na Dr. Peanut com o cupom.",
+      "Você quer o cupom da Dr. Peanut, que soma com o Pix: compre na Dr. Peanut e confira o total no carrinho.",
       "Você já compra na Max: o cupom dela funciona no pote, e o que decide é o total do carrinho."
     ],
     "skipIf": [
       "Você precisa evitar glúten ou lactose: o rótulo diz que o pote contém os dois.",
-      "Você compara só o preço da vitrine: ele é igual nas duas lojas, e o que decide é o total do carrinho com o cupom e o frete."
+      "Você compara só o preço da vitrine: ele aparece igual nas duas lojas, e o que decide é o total do carrinho com o cupom e o frete."
     ]
   },
   "cta": {

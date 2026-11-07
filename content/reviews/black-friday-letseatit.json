@@ -83,16 +83,52 @@
       },
       "comparisonTable": {
         "caption": "Le Creuset na Let's Eat It em 8 de outubro de 2026. O preço cheio vale para a maioria das cores; o desconto, só para a cor indicada. No Pix, a página do produto mostra mais 5% de desconto.",
-        "headers": ["Peça", "Preço cheio", "Com desconto"],
+        "headers": [
+          "Peça",
+          "Preço cheio",
+          "Com desconto"
+        ],
         "rows": [
-          ["Panela Redonda Signature 20 cm, 2,4 L", "R$ 2.329", "Sem desconto"],
-          ["Panela Redonda Signature 24 cm, 4,2 L", "R$ 2.949", "Sem desconto"],
-          ["Panela Redonda Signature 26 cm, 5,3 L", "R$ 3.089", "Sem desconto"],
-          ["Panela Oval Signature 31 cm, 6,3 L", "R$ 3.399", "R$ 2.889,15 na cor laranja (15% OFF)"],
-          ["Molheira Signature 18 cm, 1,8 L", "R$ 2.299", "R$ 1.954,15 na cor laranja (15% OFF)"],
-          ["Skillet Signature com alça, 26 cm", "R$ 1.739", "Sem desconto"],
-          ["Caneca de cerâmica, 400 ml", "R$ 189", "R$ 132,30 na cor Nectar, em pré-venda (30% OFF)"],
-          ["Mini Cocotte de cerâmica, 250 ml", "R$ 239", "R$ 167,30 nas cores Flint e Nectar (30% OFF)"]
+          [
+            "Panela Redonda Signature 20 cm, 2,4 L",
+            "R$ 2.329",
+            "Sem desconto"
+          ],
+          [
+            "Panela Redonda Signature 24 cm, 4,2 L",
+            "R$ 2.949",
+            "Sem desconto"
+          ],
+          [
+            "Panela Redonda Signature 26 cm, 5,3 L",
+            "R$ 3.089",
+            "Sem desconto"
+          ],
+          [
+            "Panela Oval Signature 31 cm, 6,3 L",
+            "R$ 3.399",
+            "R$ 2.889,15 na cor laranja (15% OFF)"
+          ],
+          [
+            "Molheira Signature 18 cm, 1,8 L",
+            "R$ 2.299",
+            "R$ 1.954,15 na cor laranja (15% OFF)"
+          ],
+          [
+            "Skillet Signature com alça, 26 cm",
+            "R$ 1.739",
+            "Sem desconto"
+          ],
+          [
+            "Caneca de cerâmica, 400 ml",
+            "R$ 189",
+            "R$ 132,30 na cor Nectar, em pré-venda (30% OFF)"
+          ],
+          [
+            "Mini Cocotte de cerâmica, 250 ml",
+            "R$ 239",
+            "R$ 167,30 nas cores Flint e Nectar (30% OFF)"
+          ]
         ]
       },
       "postParagraphs": [
@@ -120,13 +156,37 @@
       },
       "comparisonTable": {
         "caption": "Porto Brasil na Let's Eat It em outubro: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
-        "headers": ["Peça", "Preço riscado", "Preço do dia"],
+        "headers": [
+          "Peça",
+          "Preço riscado",
+          "Preço do dia"
+        ],
         "rows": [
-          ["Aparelho de jantar Stoneware Orgânico, 30 peças (Preto Matte, Petroleum ou Arauco)", "R$ 1.446,67", "R$ 868"],
-          ["Aparelho de jantar Stoneware Bio Oceano, 30 peças", "R$ 1.398,33", "R$ 839"],
-          ["Aparelho de jantar Stoneware Orgânico Gold, 30 peças (Lua, Shimeji ou Forest)", "R$ 3.416,50", "R$ 2.049,90"],
-          ["Jogo de 6 pratos multiuso Stoneware Linho, 18,6 cm", "R$ 722,25", "R$ 288,90"],
-          ["Jogo de 4 travessas ovais rasas G Stoneware Orgânico New White, 36 cm", "R$ 679,37", "R$ 271,75"]
+          [
+            "Aparelho de jantar Stoneware Orgânico, 30 peças (Preto Matte, Petroleum ou Arauco)",
+            "R$ 1.446,67",
+            "R$ 868"
+          ],
+          [
+            "Aparelho de jantar Stoneware Bio Oceano, 30 peças",
+            "R$ 1.398,33",
+            "R$ 839"
+          ],
+          [
+            "Aparelho de jantar Stoneware Orgânico Gold, 30 peças (Lua, Shimeji ou Forest)",
+            "R$ 3.416,50",
+            "R$ 2.049,90"
+          ],
+          [
+            "Jogo de 6 pratos multiuso Stoneware Linho, 18,6 cm",
+            "R$ 722,25",
+            "R$ 288,90"
+          ],
+          [
+            "Jogo de 4 travessas ovais rasas G Stoneware Orgânico New White, 36 cm",
+            "R$ 679,37",
+            "R$ 271,75"
+          ]
         ]
       },
       "postParagraphs": [
@@ -161,7 +221,7 @@
         "A loja separa o pedido no mesmo dia ou no dia útil seguinte, e a entrega leva de 5 a 10 dias úteis depois do despacho, com prazo maior em período promocional. Somando um dia útil de folga ao prazo mais longo, pague até 8 de dezembro para o pedido chegar antes do Natal."
       ],
       "postParagraphs": [
-        "É uma estimativa: se puder, peça antes. A loja não tem entrega expressa e não deixa retirar pedidos do site na Casa Let's.",
+        "É uma estimativa, não uma garantia: se puder, peça antes. A loja não tem entrega expressa e não deixa retirar pedidos do site na Casa Let's.",
         "Se o presente for para outra pessoa, a troca ou devolução pode ser pedida em até 30 dias do recebimento, inclusive de item comprado em promoção, com etiqueta de devolução paga pela loja. Em São Paulo, dá para trocar na hora na Casa Let's."
       ]
     },
@@ -198,7 +258,7 @@
         "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
         "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom só pode ser usado a partir de 7 dias depois da compra que o gerou, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom. Para usar na sexta da Black Friday, a compra que gera o cupom precisa ser de pelo menos 7 dias antes; os termos estão na página do cashback.",
         "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
-        "Até quando comprar para chegar antes do Natal? Pela nossa conta, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite é no começo de dezembro; o capítulo do presente de Natal traz a conta."
+        "Até quando comprar para chegar antes do Natal? Pela nossa estimativa, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite cai no começo de dezembro. Confirme a previsão para o seu CEP, pois os prazos podem mudar em períodos promocionais."
       ]
     }
   ],

@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pelo rótulo e pelo preço por 100 g, o melhor sabor depende do que você procura: Avelã e Leite em Pó têm mais proteína, Cookies & Cream e Brownie têm menos açúcar, e o Brownie tem menos sódio. Para começar sem pensar, o trio que a loja destaca no Combo Best Sellers é Avelã, Bueníssimo e Cookies & Cream. O capítulo de perfil detalha cada critério."
+        "Pelo rótulo, o melhor sabor depende do critério. Avelã e Leite em Pó têm mais proteína por 100 g; Brownie e Cookies & Cream têm menos açúcar, e o Brownie, menos sódio. O Combo Best Sellers da loja junta Avelã, Bueníssimo e Cookies & Cream, mas o gosto é você quem decide."
       ]
     },
     {
@@ -126,10 +126,11 @@
             "R$ 98,21",
             "R$ 8,73"
           ]
-        ]
+        ],
+        "caption": "Preços exibidos na loja, sem frete. Coluna com cupom: estimativa de 10%, sem outros descontos de pagamento."
       },
       "postParagraphs": [
-        "O preço é o mesmo em todos os sabores do mesmo tamanho. Então o sabor não muda a conta: o que muda é o tamanho e o combo. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g. Nos combos, o preço depende só do número de potes e do tamanho, qualquer que seja a mistura de sabores. Na página de combos, todo par de 600 g custava R$ 110,20, todo trio R$ 158,11, todo quarteto R$ 203,63 e todo combo de cinco R$ 252,42. Os combos de 250 g seguem a mesma lógica, de R$ 47,64 pelo par a R$ 109,12 pelos cinco. Pela nossa conta, até um par de 250 g em combo (R$ 9,53 por 100 g) sai mais barato por 100 g que um pote de 600 g avulso (R$ 9,98). A loja tinha ainda combos \"Comprou, Ganhou\", uma pasta pelo preço normal com alfajor ou wafer de brinde. Os combos mudam com frequência: confira a página no dia da compra."
+        "Na tabela, o sabor não muda o preço dentro do mesmo tamanho: o que muda é o tamanho e o combo. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g, e os combos reduzem mais esse custo: até o par de 250 g fica abaixo do pote avulso de 600 g por 100 g. Os combos e os brindes mudam; confira o valor no dia da compra."
       ],
       "image": {
         "src": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
@@ -418,7 +419,7 @@
       "emphasis": "Pelos números da tabela, para quem quer menos açúcar com menos poliol a escolha é o Brownie, porque é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g.",
       "emphasisAfterParagraph": 1,
       "paragraphs": [
-        "Pelo rótulo por 100 g, comece pelo trio do Combo Best Sellers e ajuste por proteína, açúcar ou sódio nos itens abaixo. Na colher, o arredondamento do rótulo embaralha a ordem."
+        "Compare os sabores pelo critério que importa para você: açúcar, proteína, sódio ou preço por peso. A posição na vitrine e o nome Best Sellers são informações da loja, não uma prova de qual sabor você vai preferir."
       ],
       "bullets": [
         "**Quer o sabor que a loja mais destaca:** Avelã, Bueníssimo e Cookies & Cream, os três do Combo Best Sellers. A vitrine \"Mais Vendidos\" da home abria com Bombom Italiano, Bueníssimo e Avelã, nessa ordem, e a listagem de pastas, na ordem padrão \"Mais vendidos\", começava do mesmo jeito. É a ordem que a loja mostra, sem número de vendas.",
@@ -484,11 +485,18 @@
             "Sim",
             "Sim"
           ]
-        ]
+        ],
+        "caption": "Simulação com cupom de 10% e sem desconto adicional de pagamento. O frete depende do CEP: confirme no carrinho."
       },
       "postParagraphs": [
         "O cupom não tira o frete grátis de quem já passou do mínimo: o Combo Best Sellers passa de R$ 149,90 pelo preço de tabela e segue com frete grátis no Sul e no Sudeste mesmo com os 10%. O combo de cinco potes de 250 g, a R$ 109,12 pelo preço de tabela, não chega ao mínimo. Confira o carrinho antes de pagar.",
         "Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de ida e o de volta ficam por sua conta. O passo a passo do código no carrinho está no [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Se você pode esperar novembro, veja o que a loja já anunciou em [Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis](/reviews/black-friday-dr-peanut)."
+      ],
+      "links": [
+        {
+          "label": "Ver regras e validade do cupom DREMCASACOMCECILIA",
+          "href": "/cupons/dr-peanut"
+        }
       ]
     },
     {
