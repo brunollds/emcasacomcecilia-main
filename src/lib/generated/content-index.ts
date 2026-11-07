@@ -110456,7 +110456,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "AI モデルをプロバイダー側に置く場合（API キーでも Hostinger のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、最小レシピの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。サーバーを扱いたくない人は、下で紹介するマネージドを見てください。"
+          "AI モデルをプロバイダー側に置く場合（API キーでも Hostinger のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、最小レシピの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。SONAR20 で VPS の新規購入が 20% オフになります（更新は対象外）。"
         ]
       },
       {
@@ -110740,7 +110740,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "AI 모델을 제공업체에 두면(API 키든 호스팅어 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 가장 작은 레시피의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. 서버를 직접 다루고 싶지 않다면 아래의 관리형을 보세요."
+          "AI 모델을 제공업체에 두면(API 키든 호스팅어 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 가장 작은 레시피의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. SONAR20 코드는 VPS 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
         ]
       },
       {
@@ -111026,7 +111026,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果 AI 模型放在供应商那边（无论用 API 密钥还是 Hostinger 额度），起点是 4 GB 的 KVM 1。如果用本地模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一个有余量的套餐。不想管服务器的人，请看下面的托管方案。"
+          "如果 AI 模型放在供应商那边（无论用 API 密钥还是 Hostinger 额度），起点是 4 GB 的 KVM 1。如果用本地模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一个有余量的套餐。SONAR20 可让新购 VPS 享 20% 折扣，续费不适用。"
         ]
       },
       {
@@ -111311,7 +111311,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果 AI 模型放在供應商那邊（不論用 API 金鑰或 Hostinger 額度），起點是 4 GB 的 KVM 1。如果用本機模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。不想管伺服器的人，請看下面的託管方案。"
+          "如果 AI 模型放在供應商那邊（不論用 API 金鑰或 Hostinger 額度），起點是 4 GB 的 KVM 1。如果用本機模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。SONAR20 可讓新購 VPS 享 20% 折扣，續訂不適用。"
         ]
       },
       {
@@ -111596,7 +111596,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "If the AI model runs at a provider, through an API key or Hostinger's AI credits, KVM 1, with 4 GB, is the starting point. For a local model, the smallest recipe sets an 8 GiB floor, and KVM 4, with 16 GB, is the first plan with room to spare. If you do not want to look after a server, see the managed option below."
+          "If the AI model runs at a provider, via an API key or Hostinger's AI credits, KVM 1, with 4 GB, is the starting point. For a local model, the smallest recipe needs 8 GiB, and KVM 4, with 16 GB, is the first plan with room to spare. SONAR20 gives 20% off a new VPS, not a renewal."
         ]
       },
       {
@@ -111880,7 +111880,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt das kleinste Rezept 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Wer sich nicht um einen Server kümmern will, sieht sich unten den verwalteten Weg an."
+          "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt das kleinste Rezept 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Der Code SONAR20 gibt 20 % auf einen neuen VPS, nicht auf die Verlängerung."
         ]
       },
       {
@@ -112166,7 +112166,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si le modèle d'IA reste chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la plus petite recette demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Si vous ne voulez pas gérer un serveur, regardez l'offre gérée, plus bas."
+          "Si le modèle d'IA reste chez le fournisseur (clé d'API ou crédits IA de Hostinger), le KVM 1 (4 Go) est le point de départ. Avec un modèle local, la plus petite recette demande 8 GiB, et le KVM 4 (16 Go) est le premier avec de la marge. SONAR20 donne 20 % sur un VPS neuf, pas au renouvellement."
         ]
       },
       {
@@ -112451,7 +112451,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Con el modelo de IA en el proveedor, por tu clave de API o los créditos de IA de Hostinger, el KVM 1, con 4 GB, es el punto de partida. Con un modelo local, la receta más pequeña pide 8 GiB, y el KVM 4, con 16 GB, es el primero con margen. Si no quieres ocuparte de un servidor, mira la opción gestionada, más abajo."
+          "Con el modelo de IA en el proveedor (clave de API o créditos de IA de Hostinger), el KVM 1 (4 GB) es el punto de partida. Con un modelo local, la receta mínima pide 8 GiB, y el KVM 4 (16 GB) es el primero con margen. SONAR20 da 20 % en un VPS nuevo, no en la renovación."
         ]
       },
       {
@@ -112735,7 +112735,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o modelo de IA no provedor, pela chave de API ou pelos créditos da Hostinger, o KVM 1, com 4 GB, é o ponto de partida. Com modelo local, a menor receita pede 8 GiB, e o KVM 4, com 16 GB, é o primeiro com folga. Quem não quer cuidar de servidor deve ver o gerenciado, abaixo."
+          "Com o modelo de IA no provedor, pela chave de API ou pelos créditos da Hostinger, o KVM 1, com 4 GB, é o ponto de partida. Com modelo local, a menor receita pede 8 GiB, e o KVM 4, com 16 GB, é o primeiro com folga. O SONAR20 dá 20% no VPS em compra nova, não na renovação."
         ]
       },
       {
@@ -113036,7 +113036,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Con il modello IA presso il fornitore, tramite la tua chiave API o i crediti IA di Hostinger, il KVM 1, con 4 GB, è il punto di partenza. Con un modello locale la ricetta più piccola chiede 8 GiB, e il KVM 4, con 16 GB, è il primo con margine. Se non vuoi occuparti di un server, guarda il gestito, più sotto."
+          "Con il modello IA presso il fornitore (chiave API o crediti IA di Hostinger), il KVM 1 (4 GB) è il punto di partenza. Con un modello locale la ricetta più piccola chiede 8 GiB, e il KVM 4 (16 GB) è il primo con margine. Il codice SONAR20 dà il 20% su un VPS nuovo, non sul rinnovo."
         ]
       },
       {

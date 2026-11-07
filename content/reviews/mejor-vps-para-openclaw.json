@@ -46,7 +46,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Con el modelo de IA en el proveedor, por tu clave de API o los créditos de IA de Hostinger, el KVM 1, con 4 GB, es el punto de partida. Con un modelo local, la receta más pequeña pide 8 GiB, y el KVM 4, con 16 GB, es el primero con margen. Si no quieres ocuparte de un servidor, mira la opción gestionada, más abajo."
+        "Con el modelo de IA en el proveedor (clave de API o créditos de IA de Hostinger), el KVM 1 (4 GB) es el punto de partida. Con un modelo local, la receta mínima pide 8 GiB, y el KVM 4 (16 GB) es el primero con margen. SONAR20 da 20 % en un VPS nuevo, no en la renovación."
       ]
     },
     {
