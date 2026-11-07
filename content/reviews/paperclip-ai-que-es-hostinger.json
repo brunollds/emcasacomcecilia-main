@@ -46,13 +46,14 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Paperclip organiza un equipo de agentes de IA, con cargos, metas y un límite de gasto para cada uno, pero no ejecuta la IA: las claves son tuyas. En Hostinger, funciona en el plan gestionado o en un VPS. Lo que cambia la decisión es quién se ocupa del servidor; mira la comparación más abajo."
+        "Paperclip organiza equipos de agentes de IA con roles, metas, presupuesto y aprobaciones. Conectas los agentes a los modelos con tus propias cuentas, por API o suscripción compatible. En Hostinger, la decisión principal es quién administra el servidor: Hostinger en el gestionado o tú en un VPS."
       ]
     },
     {
       "heading": "Qué es Paperclip, en lenguaje sencillo",
       "paragraphs": [
-        "Paperclip es un programa para organizar un equipo de agentes de IA: en vez de un solo asistente, montas el equipo con cargos, metas y un límite de gasto para cada agente. Piensa en una pequeña empresa. Hay un dueño, gerentes y empleados, cada uno con su función. Paperclip hace eso con agentes de IA: cada agente tiene un cargo, una descripción de trabajo y un superior. Quien está arriba delega tareas, y quien está abajo responde ante él. En la documentación, aparecen cinco ideas en el proyecto."
+        "Piensa en una pequeña empresa: cada agente tiene un rol, una descripción de trabajo y un superior. Quien coordina reparte tareas; los demás las ejecutan e informan del avance.",
+        "Paperclip organiza esa estructura y reúne metas, presupuesto, aprobaciones y registros. Los cinco conceptos siguientes muestran cómo lo describe la documentación."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -73,7 +74,7 @@
     {
       "heading": "¿Es confiable? Qué se puede comprobar",
       "paragraphs": [
-        "“Confiable” es una palabra grande. Se puede separar lo que es verificable de lo que no.",
+        "Para valorar el proyecto, comprueba el origen del código, la licencia, dónde se ejecuta y qué dicen las fuentes sobre datos y seguridad.",
         "**Quién lo mantiene.** El repositorio oficial, github.com/paperclipai/paperclip, dice que el proyecto lo mantiene el equipo de Paperclip, y el aviso de copyright dice “MIT © 2026 Paperclip Labs, Inc.”. El sitio del proyecto, paperclip.ing, apunta al mismo repositorio. No lo confundas con los forks y copias del código que aparecen en la búsqueda.",
         "**Licencia.** MIT. Significa que el código es abierto: cualquiera puede leerlo, auditarlo y usarlo. También significa que nadie está obligado a mantener la versión que instalaste.",
         "**Dónde funciona.** Tú eliges. Puede funcionar en tu computadora, en un servidor propio o en el plan gestionado de Hostinger. El sitio del proyecto dice que la versión autoalojada no exige una cuenta en Paperclip.",
@@ -90,8 +91,8 @@
       "bullets": [
         "**Agentes para coordinar.** Paperclip no ejecuta un modelo de IA: coordina agentes que funcionan mediante otros programas, como Claude Code, Codex, Cursor, Gemini CLI y OpenClaw.",
         "**Postgres.** Es la base de datos donde Paperclip guarda agentes, tareas y registros. En la instalación local, viene integrada y arranca sola. En producción, el propio proyecto recomienda apuntar a un Postgres tuyo. En el gestionado, la base de datos viene incluida. En el VPS, la base de datos queda por tu cuenta.",
-        "**Claves de IA tuyas.** La clave de API es la contraseña que el programa usa para pedir respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. El proveedor cobra por el uso, directamente a ti. En el gestionado, Hostinger pide una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT, y no lista créditos de IA incluidos. Sin una de esas conexiones, el equipo no responde.",
-        "**Presupuesto mensual por agente.** Define el tope antes de encender el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Sin tope, el gasto es lo que cobre el proveedor a fin de mes.",
+        "**Conexión con IA.** La clave de API es la contraseña que el programa usa para pedir respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. Con la clave, el proveedor cobra por el uso, directamente a ti. En el gestionado, Hostinger pide una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT, y no lista créditos de IA incluidos. Sin una de esas conexiones, el equipo no responde.",
+        "**Presupuesto y cobro.** Configura la política de presupuesto y pausa antes de iniciar el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Controla también el consumo y los límites del proveedor del modelo: Paperclip no sustituye las condiciones de cobro de tu cuenta.",
         "**Conocimientos de servidor, si es VPS.** En el VPS, necesitas saber qué es Docker, un programa que ejecuta cada aplicación aislada en un contenedor, y aceptar actualizar y proteger el sistema. Si eso no es para ti, el gestionado lo resuelve."
       ],
       "postParagraphs": [
@@ -131,8 +132,8 @@
             "Por tu cuenta"
           ],
           [
-            "Claves de IA",
-            "Tuyas; la página no lista créditos de Hostinger",
+            "Conexión con IA",
+            "Clave de API o suscripción activa de ChatGPT, según la configuración; la página no enumera créditos de IA incluidos",
             "Tuyas; la página habla de traer tus propias claves de API"
           ],
           [
@@ -161,7 +162,7 @@
       ]
     },
     {
-      "heading": "Cómo empezar, en orden",
+      "heading": "Tres formas de empezar: elige una",
       "bullets": [
         "**Ejecutarlo en tu computadora.** El README oficial pide Node.js 24.11 o más nuevo. Comprueba la versión con el comando node -v en la terminal y después ejecuta npx paperclipai@latest onboard --yes. La interfaz se abre en http://localhost:3100, y la base de datos Postgres se crea sola. No hay costo de servidor, pero Paperclip solo funciona mientras la computadora esté encendida. Si tienes una suscripción a Claude o a Codex, el README también acepta entrar con la suscripción, sin clave de API, con Python 3 y el programa del proveedor instalados.",
         "**Contratar el gestionado.** Suscríbete al plan “Aplicaciones de automatización con IA” por 24 meses con el código SONAR20 en el carrito. Después de la suscripción, Hostinger prepara la instancia y la base de datos. Entras al panel, conectas tus agentes y pegas una clave de IA (o usas la suscripción de ChatGPT).",
@@ -177,7 +178,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Paperclip es gratis? El programa es de código abierto, con licencia MIT, y se puede instalar en tu computadora sin pagar a Hostinger. El uso de los modelos de IA lo cobra el proveedor, y el gestionado y el VPS son planes de pago.",
+        "¿Paperclip es gratis? El programa es de código abierto, con licencia MIT, y puede instalarse en la computadora sin contratar Hostinger. El gestionado y el VPS son de pago; el acceso a modelos usa tus cuentas por API o suscripción compatible, con los costes y límites del proveedor.",
         "¿Paperclip es confiable? No se puede dar un veredicto. Se puede comprobar que el código es público, que el repositorio indica al equipo de Paperclip (Paperclip Labs, Inc. en el aviso de copyright) como responsable, y que las fallas de seguridad se reportan por un canal oficial en GitHub. No encontramos auditoría independiente en las fuentes leídas.",
         "¿Necesita clave de API? En la mayoría de los casos, sí. En el gestionado, Hostinger acepta una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT. En el VPS, la página pide que traigas tus claves. En la computadora, el README también acepta la suscripción de Claude o de Codex, sin clave de API.",
         "¿Funciona con Ollama? Depende del agente que conectes. El README de Paperclip no menciona Ollama, un programa para ejecutar un modelo de IA en la propia computadora. OpenClaw, por ejemplo, documenta modelos locales; en Paperclip, el modelo queda con el agente que conectes.",

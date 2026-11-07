@@ -46,13 +46,14 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Paperclip 会把一组 AI 智能体组织起来，给每个智能体设定职位、目标和支出上限，但它本身不运行 AI，密钥需要您自己准备。在 Hostinger 上，它可以跑在托管套餐或 VPS 上。决定选择的是服务器由谁来管，区别见下方对比。"
+        "Paperclip 管理 AI 智能体团队的角色、目标、预算和审批。您用自己的账户并通过 API 或兼容订阅为智能体连接模型。在 Hostinger，主要选择是让 Hostinger 管理服务器的托管版，还是由自己管理的 VPS。"
       ]
     },
     {
       "heading": "Paperclip 是什么，用大白话说",
       "paragraphs": [
-        "Paperclip 是一个用来组织 AI 智能体团队的程序：您不是只用一个助手，而是为每个智能体设定职位、目标和支出上限，组成一个团队。可以把它想成一家小公司，有老板、经理和员工，各有各的职责。Paperclip 用 AI 智能体来做这件事：每个智能体都有职位、岗位说明和上级。上级分派任务，下级向上级汇报。官方文档中，这个项目有五个核心概念。"
+        "可以把它想成一家小公司：每个智能体都有角色、岗位说明和上级。协调方分派任务，其他智能体执行并汇报进度。",
+        "Paperclip 管理这套组织结构，汇集目标、预算、审批和记录。下列五个概念对应官方文档中的说明。"
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -73,7 +74,7 @@
     {
       "heading": "可靠吗？哪些可以核实",
       "paragraphs": [
-        "“可靠”是个很大的词。可以把能核实的和不能核实的分开来看。",
+        "评估项目时，请核对代码来源、许可证、运行位置，以及来源如何说明数据和安全问题。",
         "**由谁维护。** 官方仓库 github.com/paperclipai/paperclip 写明项目由 Paperclip 团队维护，版权声明为“MIT © 2026 Paperclip Labs, Inc.”。项目网站 paperclip.ing 指向同一个仓库。不要把它与搜索中出现的分叉（fork）和代码副本混为一谈。",
         "**许可证。** MIT。意思是代码开放，任何人都可以阅读、审计和使用。也意味着没有人有义务持续维护您安装的那个版本。",
         "**在哪里运行。** 由您选择。可以在自己的电脑上、自己的服务器上，或 Hostinger 的托管套餐上运行。项目网站说明，自托管版本不需要 Paperclip 账号。",
@@ -90,8 +91,8 @@
       "bullets": [
         "**要协调的智能体。** Paperclip 不运行 AI 模型：它协调通过其他程序运行的智能体，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
         "**Postgres。** Paperclip 用它保存智能体、任务和记录的数据库。本地安装时它是内置的，会自动启动。生产环境中，项目本身建议指向您自己的 Postgres。托管版包含数据库。VPS 上，数据库由您自己负责。",
-        "**您自己的 AI 密钥。** API 密钥是程序向提供商（如 Anthropic 的 Claude、OpenAI 等）请求回复时使用的密码。提供商按用量直接向您收费。托管版需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅，Hostinger 并没有列出附带的 AI 额度。没有这类连接，团队就不会回应。",
-        "**每个智能体的月度预算。** 启动团队之前先定好上限。每天都在干活的五个智能体，花费可能远高于偶尔聊几句的助手。没有上限的话，花费就是月底提供商开出的账单。",
+        "**连接模型。** API 密钥是程序向提供商（如 Anthropic 的 Claude、OpenAI 等）请求回复时使用的密码。用密钥时，提供商按用量直接向您收费。托管版需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅，Hostinger 并没有列出附带的 AI 额度。没有这类连接，团队就不会回应。",
+        "**预算和计费。** 启动团队前，请设置预算和暂停策略。每天都在干活的五个智能体，花费可能远高于偶尔聊几句的助手。另外查看模型提供商的用量与限制。",
         "**如果用 VPS，需要懂服务器。** 用 VPS 时，您得知道什么是 Docker（一种让每个应用在独立容器中运行的程序），并接受自己更新和保护系统。如果这不适合您，托管版可以解决。"
       ],
       "postParagraphs": [
@@ -131,8 +132,8 @@
             "由您负责"
           ],
           [
-            "AI 密钥",
-            "您自己的；页面没有列出 Hostinger 提供的额度",
+            "AI 连接",
+            "按配置使用 API 密钥或有效 ChatGPT 订阅；页面未列出包含的 AI 额度",
             "您自己的；页面写的是自带 API 密钥"
           ],
           [
@@ -161,7 +162,7 @@
       ]
     },
     {
-      "heading": "按顺序开始",
+      "heading": "三种开始方式：选择一种",
       "bullets": [
         "**在自己的电脑上运行。** 官方 README 要求 Node.js 24.11 或更新版本。在终端中用 node -v 命令确认版本，然后运行 npx paperclipai@latest onboard --yes。界面会在 http://localhost:3100 打开，Postgres 数据库会自动创建。没有服务器费用，但 Paperclip 只在电脑开机时运行。如果您订阅了 Claude 或 Codex，README 也支持用订阅登录而无需 API 密钥，前提是装有 Python 3 和提供商的程序。",
         "**购买托管版。** 选择“AI 自动化应用”套餐的 24 个月，并在购物车里填入代码 SONAR20。订阅之后，Hostinger 会准备好实例和数据库。您进入面板，连接自己的智能体，再粘贴 AI 密钥（也可以使用 ChatGPT 订阅）。",
@@ -177,7 +178,7 @@
     {
       "heading": "常见问题",
       "bullets": [
-        "Paperclip 免费吗？ 这个程序是开源的，采用 MIT 许可证，可以装在自己的电脑上而无需向 Hostinger 付费。AI 模型的使用费由提供商收取，托管版和 VPS 是付费套餐。",
+        "Paperclip 免费吗？ 程序采用 MIT 开源许可证，可以不购买 Hostinger 而安装在自己的电脑上。托管版和 VPS 需付费；模型使用您自己的 API 账户或兼容订阅，受提供商的费用和限制约束。",
         "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。在所查阅的资料中，我们没有找到独立审计。",
         "需要 API 密钥吗？ 大多数情况下需要。托管版可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅；VPS 则要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
         "能搭配 Ollama 使用吗？ 取决于您连接的智能体。Paperclip 的 README 没有提到 Ollama，这是一个在自己电脑上运行 AI 模型的程序。例如 OpenClaw 记录了本地模型的用法；而在 Paperclip 中，模型取决于您连接的智能体。",

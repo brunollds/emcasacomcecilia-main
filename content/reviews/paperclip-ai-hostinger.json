@@ -45,7 +45,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Paperclip organiza uma equipe de agentes de IA, com cargos, metas e limite de gasto para cada um, mas não roda a IA: as chaves são suas. Na Hostinger, roda no plano gerenciado ou num VPS. O que muda a decisão é quem cuida do servidor; veja a comparação e os preços abaixo."
+        "O Paperclip organiza equipes de agentes de IA, com papéis, metas, orçamento e aprovações. Você conecta os agentes aos modelos pelas suas próprias contas, por API ou assinatura compatível. Na Hostinger, a escolha principal é quem administra o servidor: a empresa, no gerenciado, ou você, no VPS."
       ]
     },
     {
@@ -89,8 +89,8 @@
       "bullets": [
         "**Agentes para coordenar.** O Paperclip não roda modelo de IA: ele coordena agentes que funcionam por outros programas, como Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
         "**Postgres.** É o banco de dados onde o Paperclip guarda agentes, tarefas e registros. Na instalação local, ele vem embutido e sobe sozinho. Em produção, o próprio projeto recomenda apontar para um Postgres seu. No gerenciado, o banco vem incluído. No VPS, o banco fica com você.",
-        "**Chaves de IA suas.** Chave de API é a senha que o programa usa para pedir respostas a um provedor, como Anthropic (Claude), OpenAI ou outro. O provedor cobra pelo uso, direto de você. No gerenciado, a Hostinger pede a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT, e não lista créditos de IA incluídos. Sem uma dessas conexões, a equipe não responde.",
-        "**Orçamento mensal por agente.** Defina o teto antes de ligar a equipe. Cinco agentes com tarefas diárias podem gastar bem mais do que um assistente que você conversa de vez em quando. Sem teto, o gasto é só o que o provedor cobrar no fim do mês.",
+        "**Conexão com a IA.** Chave de API é a senha que o programa usa para pedir respostas a um provedor, como Anthropic (Claude), OpenAI ou outro. Com a chave, o provedor cobra pelo uso, direto de você. No gerenciado, a Hostinger pede a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT, e não lista créditos de IA incluídos. Sem uma dessas conexões, a equipe não responde.",
+        "**Orçamento e cobrança.** Configure a política de orçamento e de pausa antes de iniciar a equipe. Cinco agentes com tarefas diárias podem gastar bem mais do que um assistente que você conversa de vez em quando. Acompanhe também o consumo e os limites no painel do provedor do modelo.",
         "**Conhecimento de servidor, se for VPS.** Na VPS, você precisa saber o que é Docker, um programa que roda cada aplicativo isolado num contêiner, e aceitar atualizar e proteger o sistema. Se isso não é para você, o gerenciado resolve."
       ],
       "postParagraphs": [
@@ -130,21 +130,21 @@
             "Com você"
           ],
           [
-            "Chaves de IA",
-            "Suas; a página não lista créditos da Hostinger",
+            "Conexão com a IA",
+            "Chave de API ou assinatura ChatGPT ativa, conforme a configuração; a página não lista créditos de IA incluídos",
             "Suas; a página fala em trazer as próprias chaves de API"
           ],
           [
             "Reembolso",
             "30 dias",
-            "30 dias só se o último reembolso de VPS tiver sido concluído há mais de 180 dias"
+            "30 dias conforme a política; há intervalo de 180 dias entre reembolsos de VPS"
           ]
         ]
       },
       "postParagraphs": [
         "**O gerenciado serve para você se** quer o Paperclip funcionando sem instalar nada, não sabe o que é root nem Docker, e prefere que a Hostinger cuide do banco, das atualizações e dos backups.",
         "**O VPS serve para você se** quer rodar outros programas no mesmo servidor, como um site ou um n8n (ferramenta de automação), sabe mexer num servidor ou quer aprender, e quer ter o banco e a configuração sob seu controle.",
-        "Sobre o reembolso, a regra dos 180 dias para VPS é a mesma do [artigo sobre a confiança na Hostinger](/reviews/hostinger-e-confiavel), que lê a política da empresa. Os 180 dias contam da conclusão do último reembolso de VPS: se você recebeu um nos últimos 180 dias, o novo VPS não tem a garantia de 30 dias."
+        "Sobre o reembolso, a regra dos 180 dias para VPS é a mesma do [artigo sobre a confiança na Hostinger](/reviews/hostinger-e-confiavel), que lê a política da empresa. Há um intervalo de 180 dias aplicável a reembolsos de VPS anteriores; confira as condições e exclusões na [política de reembolso](https://www.hostinger.com/legal/refund-policy) antes de contratar."
       ]
     },
     {
@@ -220,7 +220,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. O uso dos modelos de IA é cobrado pelo provedor, e o gerenciado e o VPS são planos pagos.",
+        "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. A hospedagem gerenciada e o VPS são planos pagos; o acesso aos modelos usa suas próprias contas, por API ou assinatura compatível, com os custos e limites do provedor.",
         "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não encontramos auditoria independente nas fontes lidas.",
         "Precisa de chave de API? Na maioria dos casos, sim. No gerenciado, a Hostinger aceita a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT. No VPS, a página pede que você traga as suas chaves. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
         "Roda com Ollama? Depende do agente que você conecta. O README do Paperclip não cita o Ollama, um programa para rodar modelo de IA no próprio computador. O OpenClaw, por exemplo, documenta modelos locais; no Paperclip, o modelo fica com o agente que você conecta.",

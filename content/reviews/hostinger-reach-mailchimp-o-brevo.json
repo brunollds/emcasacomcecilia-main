@@ -197,7 +197,7 @@
       "paragraphs": [
         "**Conviene** a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Il Grow copre una lista fino a 500 con automazioni; il Pro, una fino a 1.000 e WhatsApp. Il rinnovo del Grow (2,49 US$ al mese) e del Pro (3,99 US$ al mese) fa parte della decisione: controllalo prima di pagare.",
         "**Resta sul piano gratuito di Mailchimp o di Brevo** se la lista è all'inizio e non sai ancora se manderai email spesso. Reach non ha un piano gratuito.",
-        "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se ti servono più di 7 invii al mese a tutta la lista: i piani Reach si fermano a 1.000 destinatari e 7.000 email al mese.",
+        "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se il totale delle email del mese, automazioni incluse, supera i 7.000 del Pro. I piani Reach si fermano a 1.000 destinatari.",
         "Se fosse per il mio sito, sceglierei il Reach Grow, perché copre una lista fino a 500 con automazioni e si rinnova a 2,49 US$ al mese."
       ]
     },
@@ -211,7 +211,7 @@
         "Cos'è il Reach 500? È il nome che il Grow ha nel carrello di Hostinger, per il limite di 500 destinatari. Invia 3.500 email al mese.",
         "Hostinger Reach o Mailchimp? Per una lista fino a 1.000 destinatari e un sito su Hostinger, Reach. Per partire gratis o per una lista oltre i 1.000 contatti, Mailchimp o Brevo.",
         "Il codice SONAR20 vale per Hostinger Reach? Sì: nel test di Bruno, lo sconto è stato applicato al Reach 500 da 24 mesi. Sugli altri piani e periodi non è stato testato; controlla nel carrello.",
-        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+        "SONAR20 vale per chi è già cliente di Hostinger? Vale su un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo restano esclusi. Bruno ha testato Reach 500 da 24 mesi; per gli altri piani e periodi, controlla nel carrello."
       ]
     },
     {
@@ -224,7 +224,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Abbiamo testato il codice con Reach 500 per 24 mesi; per gli altri piani, controlla nel carrello.",
+    "text": "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Bruno ha testato Reach 500 da 24 mesi. Controlla gli altri piani e periodi nel carrello; registrazione di dominio e rinnovo sono esclusi.",
     "label": "Vedi i piani Reach con il SONAR20",
     "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -247,11 +247,11 @@
     "takeIf": [
       "Scegli Reach se hai già un sito su Hostinger e la lista sta entro i 1.000 destinatari.",
       "Scegli Reach Pro se ti serve inviare messaggi su WhatsApp.",
-      "Scegli Reach se scrivi alla lista al massimo una volta a settimana, entro il limite mensile di invio del piano."
+      "Scegli Reach se i destinatari unici del mese e il totale delle email di campagne e automazioni rientrano nei limiti mensili del piano."
     ],
     "skipIf": [
       "Lascia stare se la lista è all'inizio e sta nel piano gratuito di Mailchimp o di Brevo.",
-      "Lascia stare se la lista supera i 1.000 contatti o se scrivi a tutti più di 7 volte al mese."
+      "Lascia stare se i destinatari unici o le email del mese superano i limiti del piano scelto."
     ]
   }
 }

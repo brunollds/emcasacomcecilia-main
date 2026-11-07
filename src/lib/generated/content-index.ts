@@ -116154,13 +116154,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Paperclip organisiert ein Team aus KI-Agenten, mit Rollen, Zielen und einer Ausgabengrenze für jeden, führt aber die KI nicht aus: Die Schlüssel sind Ihre. Bei Hostinger läuft es im verwalteten Tarif oder auf einem VPS. Entscheidend ist, wer sich um den Server kümmert; sehen Sie den Vergleich unten."
+          "Paperclip organisiert Teams aus KI-Agenten mit Rollen, Zielen, Budgets und Freigaben. Sie verbinden die Agenten über Ihre eigenen Konten mit den Modellen, per API oder unterstütztem Abonnement. Bei Hostinger entscheidet vor allem die Serververwaltung: Hostinger im verwalteten Tarif oder Sie selbst beim VPS."
         ]
       },
       {
         "heading": "Was Paperclip ist, in einfachen Worten",
         "paragraphs": [
-          "Paperclip ist ein Programm, um ein Team aus KI-Agenten zu organisieren: Statt eines einzelnen Assistenten stellen Sie das Team mit Rollen, Zielen und einer Ausgabengrenze für jeden Agenten zusammen. Denken Sie an ein kleines Unternehmen. Es gibt eine Inhaberin oder einen Inhaber, Führungskräfte und Mitarbeitende, jeweils mit eigener Aufgabe. Paperclip macht das mit KI-Agenten: Jeder Agent hat eine Rolle, eine Stellenbeschreibung und einen Vorgesetzten. Wer weiter oben steht, delegiert Aufgaben, und wer weiter unten steht, berichtet ihm. In der Dokumentation tauchen im Projekt fünf Ideen auf."
+          "Stellen Sie sich ein kleines Unternehmen vor: Jeder Agent hat eine Rolle, eine Aufgabenbeschreibung und einen Vorgesetzten. Die Koordination verteilt Aufgaben; die anderen führen sie aus und berichten über den Fortschritt.",
+          "Paperclip organisiert diese Struktur und bündelt Ziele, Budgets, Freigaben und Protokolle. Die folgenden fünf Begriffe zeigen, wie die Dokumentation das beschreibt."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -116181,7 +116182,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ist es vertrauenswürdig? Was sich überprüfen lässt",
         "paragraphs": [
-          "„Vertrauenswürdig“ ist ein großes Wort. Man kann trennen, was überprüfbar ist und was nicht.",
+          "Um das Projekt einzuschätzen, prüfen Sie Herkunft und Lizenz des Codes, den Betriebsort sowie die Angaben der Quellen zu Daten und Sicherheit.",
           "**Wer es pflegt.** Das offizielle Repository, github.com/paperclipai/paperclip, nennt das Paperclip-Team als Betreuer des Projekts, und der Copyright-Hinweis lautet „MIT © 2026 Paperclip Labs, Inc.“. Die Website des Projekts, paperclip.ing, verweist auf dasselbe Repository. Verwechseln Sie es nicht mit Forks und Kopien des Codes, die in der Suche auftauchen.",
           "**Lizenz.** MIT. Das heißt, der Code ist offen: Jeder darf ihn lesen, prüfen und nutzen. Es heißt auch, dass niemand verpflichtet ist, die von Ihnen installierte Version weiter zu pflegen.",
           "**Wo es läuft.** Das entscheiden Sie. Es kann auf Ihrem Computer, auf einem eigenen Server oder im verwalteten Tarif von Hostinger laufen. Die Website des Projekts sagt, dass die selbst gehostete Version kein Paperclip-Konto verlangt.",
@@ -116198,8 +116199,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agenten zum Koordinieren.** Paperclip führt kein KI-Modell aus: Es koordiniert Agenten, die über andere Programme laufen, etwa Claude Code, Codex, Cursor, Gemini CLI und OpenClaw.",
           "**Postgres.** Das ist die Datenbank, in der Paperclip Agenten, Aufgaben und Protokolle speichert. Bei der lokalen Installation ist sie eingebaut und startet von selbst. In der Produktion empfiehlt das Projekt selbst, auf ein eigenes Postgres zu zeigen. Beim verwalteten Angebot ist die Datenbank inklusive. Beim VPS liegt die Datenbank bei Ihnen.",
-          "**Eigene KI-Schlüssel.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Der Anbieter berechnet die Nutzung direkt Ihnen. Beim verwalteten Angebot verlangt Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement und listet keine enthaltenen KI-Guthaben auf. Ohne eine dieser Verbindungen antwortet das Team nicht.",
-          "**Monatliches Budget pro Agent.** Legen Sie die Obergrenze fest, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Ohne Obergrenze sind die Ausgaben das, was der Anbieter am Monatsende berechnet.",
+          "**KI-Anbindung.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Mit dem Schlüssel berechnet der Anbieter die Nutzung direkt Ihnen. Beim verwalteten Angebot verlangt Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement und listet keine enthaltenen KI-Guthaben auf. Ohne eine dieser Verbindungen antwortet das Team nicht.",
+          "**Budget und Abrechnung.** Richten Sie Budget- und Pausenrichtlinien ein, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Überwachen Sie auch Verbrauch und Grenzen beim Modellanbieter: Paperclip ersetzt nicht die Abrechnungsbedingungen Ihres Kontos.",
           "**Serverkenntnisse, wenn es ein VPS ist.** Beim VPS müssen Sie wissen, was Docker ist, ein Programm, das jede Anwendung isoliert in einem Container ausführt, und bereit sein, das System zu aktualisieren und abzusichern. Wenn das nichts für Sie ist, löst das verwaltete Angebot es."
         ],
         "postParagraphs": [
@@ -116239,8 +116240,8 @@ export const reviewsData: unknown[] = [
               "Bei Ihnen"
             ],
             [
-              "KI-Schlüssel",
-              "Ihre; die Seite listet keine Guthaben von Hostinger",
+              "KI-Anbindung",
+              "API-Schlüssel oder aktives ChatGPT-Abonnement je nach Einrichtung; die Seite nennt kein enthaltenes KI-Guthaben",
               "Ihre; die Seite spricht davon, eigene API-Schlüssel mitzubringen"
             ],
             [
@@ -116269,7 +116270,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "So fangen Sie an, der Reihe nach",
+        "heading": "Drei Möglichkeiten zum Start: Wählen Sie eine aus",
         "bullets": [
           "**Auf Ihrem Computer betreiben.** Die offizielle README verlangt Node.js 24.11 oder neuer. Prüfen Sie die Version mit dem Befehl node -v im Terminal und führen Sie dann npx paperclipai@latest onboard --yes aus. Die Oberfläche öffnet sich unter http://localhost:3100, und die Postgres-Datenbank wird von selbst angelegt. Es entstehen keine Serverkosten, aber Paperclip läuft nur, solange der Computer eingeschaltet ist. Wenn Sie Claude oder Codex abonniert haben, erlaubt die README auch die Anmeldung über das Abonnement, ohne API-Schlüssel, mit installiertem Python 3 und dem Programm des Anbieters.",
           "**Das verwaltete Angebot buchen.** Bestellen Sie den Plan „KI-Automatisierungs-Apps“ mit 24 Monaten und dem Code SONAR20 im Warenkorb. Nach der Bestellung bereitet Hostinger die Instanz und die Datenbank vor. Sie melden sich im Panel an, verbinden Ihre Agenten und tragen einen KI-Schlüssel ein (oder nutzen das ChatGPT-Abonnement).",
@@ -116285,7 +116286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Ist Paperclip kostenlos? Das Programm ist Open Source, unter MIT-Lizenz, und lässt sich auf Ihrem Computer installieren, ohne Hostinger zu bezahlen. Die Nutzung der KI-Modelle berechnet der Anbieter, und das verwaltete Angebot und der VPS sind kostenpflichtige Tarife.",
+          "Ist Paperclip kostenlos? Das Programm ist Open Source unter MIT-Lizenz und lässt sich ohne Hostinger-Vertrag auf Ihrem Computer installieren. Verwaltetes Hosting und VPS sind kostenpflichtig. Der Modellzugang erfolgt über Ihre eigenen Konten per API oder unterstütztem Abonnement, mit den Kosten und Grenzen des Anbieters.",
           "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. In den gelesenen Quellen haben wir kein unabhängiges Audit gefunden.",
           "Braucht man einen API-Schlüssel? In den meisten Fällen ja. Beim verwalteten Angebot akzeptiert Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement. Beim VPS verlangt die Seite, dass man eigene Schlüssel mitbringt. Auf dem Computer akzeptiert die README auch das Abonnement von Claude oder Codex, ohne API-Schlüssel.",
           "Läuft es mit Ollama? Das hängt vom Agenten ab, den Sie verbinden. Die README von Paperclip nennt Ollama nicht, ein Programm, um ein KI-Modell auf dem eigenen Computer auszuführen. OpenClaw dokumentiert zum Beispiel lokale Modelle; bei Paperclip liegt das Modell beim Agenten, den Sie verbinden.",
@@ -116381,13 +116382,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Paperclip organizza una squadra di agenti IA, con ruoli, obiettivi e un limite di spesa per ciascuno, ma non fa girare l’IA: le chiavi sono tue. Su Hostinger, gira sul piano gestito o su un VPS. Ciò che cambia la decisione è chi si occupa del server; vedi il confronto qui sotto."
+          "Paperclip organizza squadre di agenti IA con ruoli, obiettivi, budget e approvazioni. Colleghi gli agenti ai modelli con i tuoi account, tramite API o abbonamento compatibile. Su Hostinger la scelta principale riguarda chi gestisce il server: Hostinger nel piano gestito o tu sul VPS."
         ]
       },
       {
         "heading": "Che cos’è Paperclip, in parole semplici",
         "paragraphs": [
-          "Paperclip è un programma per organizzare una squadra di agenti IA: invece di un solo assistente, metti insieme la squadra con ruoli, obiettivi e un limite di spesa per ogni agente. Pensa a una piccola azienda. C’è un titolare, ci sono dei responsabili e dei dipendenti, ciascuno con la sua funzione. Paperclip fa questo con gli agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta sopra delega i compiti, e chi sta sotto risponde a lui. Nella documentazione, nel progetto compaiono cinque idee."
+          "Pensa a una piccola azienda: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi coordina assegna i compiti; gli altri li eseguono e riferiscono sull’avanzamento.",
+          "Paperclip organizza questa struttura e riunisce obiettivi, budget, approvazioni e registri. I cinque concetti seguenti mostrano come lo descrive la documentazione."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -116408,7 +116410,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "È affidabile? Cosa si può verificare",
         "paragraphs": [
-          "“Affidabile” è una parola grossa. Si può separare ciò che è verificabile da ciò che non lo è.",
+          "Per valutare il progetto, controlla origine e licenza del codice, dove viene eseguito e cosa dicono le fonti su dati e sicurezza.",
           "**Chi lo mantiene.** Il repository ufficiale, github.com/paperclipai/paperclip, dice che il progetto è mantenuto dal team Paperclip, e l’avviso di copyright riporta “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confonderlo con i fork e le copie del codice che compaiono nella ricerca.",
           "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, controllarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che hai installato.",
           "**Dove gira.** Scegli tu. Può girare sul tuo computer, su un server tuo o sul piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
@@ -116425,8 +116427,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agenti da coordinare.** Paperclip non fa girare un modello IA: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
           "**Postgres.** È il database in cui Paperclip conserva agenti, compiti e registri. Nell’installazione locale è integrato e parte da solo. In produzione, il progetto stesso consiglia di puntare a un Postgres tuo. Sul gestito, il database è incluso. Sul VPS, il database è a tuo carico.",
-          "**Chiavi IA tue.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Il fornitore fa pagare l’uso, direttamente a te. Sul gestito, Hostinger chiede una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo, e non elenca crediti IA inclusi. Senza una di queste connessioni, il team non risponde.",
-          "**Budget mensile per agente.** Fissa il tetto prima di accendere la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Senza tetto, la spesa è quella che il fornitore addebita a fine mese.",
+          "**Collegamento all’IA.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Con la chiave, il fornitore fa pagare l’uso, direttamente a te. Sul gestito, Hostinger chiede una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo, e non elenca crediti IA inclusi. Senza una di queste connessioni, il team non risponde.",
+          "**Budget e fatturazione.** Configura le politiche di budget e pausa prima di avviare la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Controlla anche consumo e limiti del fornitore del modello: Paperclip non sostituisce le condizioni di fatturazione del tuo account.",
           "**Conoscenze di server, se è un VPS.** Sul VPS, devi sapere cos’è Docker, un programma che fa girare ogni applicazione isolata in un container, e accettare di aggiornare e proteggere il sistema. Se non fa per te, il gestito risolve."
         ],
         "postParagraphs": [
@@ -116466,8 +116468,8 @@ export const reviewsData: unknown[] = [
               "A tuo carico"
             ],
             [
-              "Chiavi IA",
-              "Tue; la pagina non elenca crediti di Hostinger",
+              "Collegamento all’IA",
+              "Chiave API o abbonamento ChatGPT attivo secondo la configurazione; la pagina non elenca crediti IA inclusi",
               "Tue; la pagina parla di portare le proprie chiavi API"
             ],
             [
@@ -116496,7 +116498,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Come iniziare, in ordine",
+        "heading": "Tre modi per iniziare: scegline uno",
         "bullets": [
           "**Farlo girare sul tuo computer.** Il README ufficiale richiede Node.js 24.11 o più recente. Controlla la versione con il comando node -v nel terminale e poi esegui npx paperclipai@latest onboard --yes. L’interfaccia si apre su http://localhost:3100, e il database Postgres viene creato da solo. Non ci sono costi di server, ma Paperclip gira solo finché il computer è acceso. Se hai un abbonamento a Claude o a Codex, il README accetta anche l’accesso tramite abbonamento, senza chiave API, con Python 3 e il programma del fornitore installati.",
           "**Attivare il gestito.** Sottoscrivi il piano “App di automazione IA” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l’acquisto, Hostinger prepara l’istanza e il database. Entra nel pannello, collega i tuoi agenti e inserisci una chiave IA (o usa l’abbonamento ChatGPT).",
@@ -116512,7 +116514,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Paperclip è gratis? Il programma è open source, con licenza MIT, e si può installare sul tuo computer senza pagare Hostinger. L’uso dei modelli IA è addebitato dal fornitore, e il gestito e il VPS sono piani a pagamento.",
+          "Paperclip è gratis? Il programma è open source con licenza MIT e si può installare sul computer senza sottoscrivere Hostinger. Hosting gestito e VPS sono a pagamento; i modelli usano i tuoi account tramite API o abbonamento compatibile, con costi e limiti del fornitore.",
           "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
           "Serve una chiave API? Nella maggior parte dei casi, sì. Sul gestito, Hostinger accetta una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo. Sul VPS, la pagina chiede di portare le proprie chiavi. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
           "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
@@ -116609,13 +116611,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Paperclip organise une équipe d’agents d’IA, avec des postes, des objectifs et une limite de dépense pour chacun, mais il ne fait pas tourner l’IA : les clés sont les vôtres. Chez Hostinger, il tourne sur l’offre gérée ou sur un VPS. Ce qui change la décision, c’est qui s’occupe du serveur ; voyez la comparaison ci-dessous."
+          "Paperclip organise des équipes d’agents d’IA avec des rôles, des objectifs, des budgets et des approbations. Vous connectez les agents aux modèles avec vos propres comptes, par API ou abonnement compatible. Chez Hostinger, le choix principal porte sur la gestion du serveur : Hostinger dans l’offre gérée, ou vous sur un VPS."
         ]
       },
       {
         "heading": "Ce qu’est Paperclip, en langage courant",
         "paragraphs": [
-          "Paperclip est un programme pour organiser une équipe d’agents d’IA : au lieu d’un seul assistant, vous montez l’équipe avec des postes, des objectifs et une limite de dépense pour chaque agent. Pensez à une petite entreprise. Il y a un patron, des responsables et des employés, chacun avec sa fonction. Paperclip fait cela avec des agents d’IA : chaque agent a un poste, une description de travail et un supérieur. Celui qui est au-dessus délègue des tâches, et celui qui est en dessous lui rend des comptes. Dans la documentation, cinq idées apparaissent dans le projet."
+          "Pensez à une petite entreprise : chaque agent a un rôle, une description de travail et un supérieur. La coordination répartit les tâches ; les autres les exécutent et rendent compte de l’avancement.",
+          "Paperclip organise cette structure et réunit objectifs, budgets, approbations et historiques. Les cinq concepts suivants montrent comment la documentation le décrit."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -116636,7 +116639,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Est-il fiable ? Ce que l’on peut vérifier",
         "paragraphs": [
-          "« Fiable » est un grand mot. On peut séparer ce qui est vérifiable de ce qui ne l’est pas.",
+          "Pour évaluer le projet, vérifiez l’origine du code, sa licence, son hébergement et ce que les sources indiquent sur les données et la sécurité.",
           "**Qui le maintient.** Le dépôt officiel, github.com/paperclipai/paperclip, indique que le projet est maintenu par l’équipe Paperclip, et la mention de copyright dit « MIT © 2026 Paperclip Labs, Inc. ». Le site du projet, paperclip.ing, renvoie au même dépôt. Ne le confondez pas avec les forks et copies du code qui apparaissent dans la recherche.",
           "**Licence.** MIT. Cela veut dire que le code est ouvert : tout le monde peut le lire, l’auditer et l’utiliser. Cela veut aussi dire que personne n’est obligé de maintenir la version que vous avez installée.",
           "**Où il tourne.** Vous choisissez. Il peut tourner sur votre ordinateur, sur un serveur à vous ou sur l’offre gérée de Hostinger. Le site du projet indique que la version auto-hébergée n’exige pas de compte Paperclip.",
@@ -116653,8 +116656,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Des agents à coordonner.** Paperclip ne fait pas tourner de modèle d’IA : il coordonne des agents qui fonctionnent via d’autres programmes, comme Claude Code, Codex, Cursor, Gemini CLI et OpenClaw.",
           "**Postgres.** C’est la base de données où Paperclip enregistre les agents, les tâches et les historiques. Dans l’installation locale, elle est intégrée et démarre toute seule. En production, le projet recommande lui-même de pointer vers un Postgres à vous. Sur le géré, la base de données est incluse. Sur le VPS, la base de données est à votre charge.",
-          "**Vos propres clés d’IA.** Une clé d’API est le mot de passe que le programme utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Le fournisseur facture l’usage, directement à vous. Sur le géré, Hostinger demande une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif, et ne liste pas de crédits d’IA inclus. Sans l’une de ces connexions, l’équipe ne répond pas.",
-          "**Un budget mensuel par agent.** Fixez le plafond avant d’allumer l’équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser bien plus qu’un assistant avec qui vous discutez de temps en temps. Sans plafond, la dépense est ce que le fournisseur facture en fin de mois.",
+          "**Connexion à l’IA.** Une clé d’API est le mot de passe que le programme utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Avec la clé, le fournisseur facture l’usage, directement à vous. Sur le géré, Hostinger demande une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif, et ne liste pas de crédits d’IA inclus. Sans l’une de ces connexions, l’équipe ne répond pas.",
+          "**Budget et facturation.** Configurez les règles de budget et de pause avant de lancer l’équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser bien plus qu’un assistant avec qui vous discutez de temps en temps. Surveillez aussi la consommation et les limites chez le fournisseur du modèle : Paperclip ne remplace pas les conditions de facturation de votre compte.",
           "**Des connaissances de serveur, si c’est un VPS.** Sur un VPS, il faut savoir ce qu’est Docker, un programme qui fait tourner chaque application isolée dans un conteneur, et accepter de mettre à jour et de sécuriser le système. Si ce n’est pas pour vous, le géré règle la question."
         ],
         "postParagraphs": [
@@ -116694,8 +116697,8 @@ export const reviewsData: unknown[] = [
               "À votre charge"
             ],
             [
-              "Clés d’IA",
-              "Les vôtres ; la page ne liste pas de crédits Hostinger",
+              "Connexion à l’IA",
+              "Clé d’API ou abonnement ChatGPT actif selon la configuration ; la page ne mentionne pas de crédits d’IA inclus",
               "Les vôtres ; la page parle d’apporter vos propres clés d’API"
             ],
             [
@@ -116724,7 +116727,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Comment commencer, dans l’ordre",
+        "heading": "Trois façons de commencer : choisissez-en une",
         "bullets": [
           "**Le faire tourner sur votre ordinateur.** Le README officiel demande Node.js 24.11 ou plus récent. Vérifiez la version avec la commande node -v dans le terminal, puis lancez npx paperclipai@latest onboard --yes. L’interface s’ouvre sur http://localhost:3100, et la base Postgres est créée toute seule. Il n’y a pas de coût de serveur, mais Paperclip ne tourne que tant que l’ordinateur est allumé. Si vous avez un abonnement Claude ou Codex, le README accepte aussi de se connecter avec l’abonnement, sans clé d’API, avec Python 3 et le programme du fournisseur installés.",
           "**Souscrire le géré.** Choisissez l’offre « Applications d’automatisation IA » sur 24 mois, avec le code SONAR20 dans le panier. Après la souscription, Hostinger prépare l’instance et la base de données. Vous vous connectez au panneau, connectez vos agents et collez une clé d’IA (ou utilisez l’abonnement ChatGPT).",
@@ -116740,7 +116743,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Paperclip est-il gratuit ? Le programme est open source, sous licence MIT, et peut s’installer sur votre ordinateur sans payer Hostinger. L’usage des modèles d’IA est facturé par le fournisseur, et le géré et le VPS sont des offres payantes.",
+          "Paperclip est-il gratuit ? Le programme est open source sous licence MIT et peut s’installer sur votre ordinateur sans souscrire chez Hostinger. L’hébergement géré et les VPS sont payants ; les modèles utilisent vos comptes par API ou abonnement compatible, avec les coûts et limites du fournisseur.",
           "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Nous n’avons pas trouvé d’audit indépendant dans les sources lues.",
           "Faut-il une clé d’API ? Dans la plupart des cas, oui. Sur le géré, Hostinger accepte une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif. Sur le VPS, la page demande d’apporter vos propres clés. Sur l’ordinateur, le README accepte aussi l’abonnement Claude ou Codex, sans clé d’API.",
           "Fonctionne-t-il avec Ollama ? Cela dépend de l’agent que vous connectez. Le README de Paperclip ne cite pas Ollama, un programme pour faire tourner un modèle d’IA sur son propre ordinateur. OpenClaw, par exemple, documente des modèles locaux ; dans Paperclip, le modèle reste du côté de l’agent que vous connectez.",
@@ -116836,7 +116839,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Paperclip organizes a team of AI agents, with roles, goals and a spending cap for each one, but it does not run the AI: the keys are yours. On Hostinger, it runs on the managed plan or on a VPS. What changes the decision is who looks after the server; see the comparison below."
+          "Paperclip organizes teams of AI agents with roles, goals, budgets and approvals. You connect the agents to models through your own accounts, by API or compatible subscription. On Hostinger, the main choice is who manages the server: Hostinger on managed hosting, or you on a VPS."
         ]
       },
       {
@@ -116880,8 +116883,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agents to coordinate.** Paperclip does not run an AI model: it coordinates agents that work through other programs, such as Claude Code, Codex, Cursor, Gemini CLI and OpenClaw.",
           "**Postgres.** This is the database where Paperclip stores agents, tasks and records. In the local install, it comes built in and starts on its own. In production, the project itself recommends pointing to a Postgres of your own. On managed, the database is included. On the VPS, the database is up to you.",
-          "**Your own AI keys.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. The provider charges for usage, directly to you. On managed, Hostinger asks for an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription, and it does not list included AI credits. Without one of these connections, the team does not answer.",
-          "**A monthly budget per agent.** Set the cap before you turn the team on. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Without a cap, the spending is whatever the provider charges at the end of the month.",
+          "**AI connection.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. With a key, the provider bills you directly for usage. On managed, Hostinger asks for an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription, and it does not list included AI credits. Without one of these connections, the team does not answer.",
+          "**Budget and billing.** Configure the budget and pause policy before starting the team. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Also monitor usage and limits in the model provider’s dashboard.",
           "**Server knowledge, if you go with a VPS.** On a VPS, you need to know what Docker is, a program that runs each application isolated in a container, and accept updating and securing the system. If that is not for you, managed solves it."
         ],
         "postParagraphs": [
@@ -116921,21 +116924,21 @@ export const reviewsData: unknown[] = [
               "Up to you"
             ],
             [
-              "AI keys",
-              "Yours; the page does not list Hostinger credits",
+              "AI connection",
+              "API key or active ChatGPT subscription, depending on setup; the page does not list included AI credits",
               "Yours; the page talks about bringing your own API keys"
             ],
             [
               "Refund",
               "30 days",
-              "30 days, only if your last VPS refund was completed more than 180 days ago"
+              "30 days under the policy; a 180-day interval applies between VPS refunds"
             ]
           ]
         },
         "postParagraphs": [
           "**Managed is for you if** you want Paperclip running without installing anything, you do not know what root or Docker is, and you prefer Hostinger to look after the database, the updates and the backups.",
           "**The VPS is for you if** you want to run other programs on the same server, such as a website or n8n (an automation tool), you know your way around a server or want to learn, and you want the database and the configuration under your control.",
-          "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. The 180 days count from the completion of your last VPS refund: if you received one in the last 180 days, the new VPS does not have the 30-day guarantee."
+          "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. A 180-day interval applies to previous VPS refunds; check the conditions and exclusions in the [refund policy](https://www.hostinger.com/legal/refund-policy) before buying."
         ]
       },
       {
@@ -116951,7 +116954,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "How to get started, in order",
+        "heading": "Three ways to get started: choose one",
         "bullets": [
           "**Run it on your computer.** The official README requires Node.js 24.11 or newer. Check the version with the command node -v in the terminal, then run npx paperclipai@latest onboard --yes. The interface opens at http://localhost:3100, and the Postgres database is created on its own. There is no server cost, but Paperclip only runs while your computer is on. If you subscribe to Claude or Codex, the README also lets you sign in through the subscription, without an API key, with Python 3 and the provider’s program installed.",
           "**Subscribe to managed.** Sign up for the “AI automation apps” plan for 24 months, with the code SONAR20 in the cart. After the subscription, Hostinger prepares the instance and the database. You log into the panel, connect your agents and paste in an AI key (or use the ChatGPT subscription).",
@@ -116967,7 +116970,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Is Paperclip free? The program is open source, under the MIT license, and you can install it on your computer without paying Hostinger. The use of AI models is charged by the provider, and managed and the VPS are paid plans.",
+          "Is Paperclip free? The program is open source under the MIT license and can be installed on your computer without buying Hostinger hosting. Managed hosting and VPS plans are paid. Model access uses your own accounts through an API or supported subscription, under the provider’s costs and limits.",
           "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. We found no independent audit in the sources read.",
           "Does it need an API key? In most cases, yes. On managed, Hostinger accepts an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription. On the VPS, the page asks you to bring your own keys. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
           "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
@@ -117063,13 +117066,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Paperclip は、役割・目標・支出の上限を持つ AI エージェントのチームを管理しますが、AI そのものは動かしません。キーはご自身のものです。Hostinger ではマネージドプランか VPS で動かせます。決め手はサーバーを誰が管理するかで、違いは下の比較で確認できます。"
+          "Paperclip は、役割、目標、予算、承認を持つ AI エージェントのチームを管理します。モデルへは、API キーまたは対応するサブスクリプションを使い、ご自身のアカウントでエージェントを接続します。Hostinger では、サーバーの管理を Hostinger に任せるマネージドか、自分で管理する VPS かが主な選択です。"
         ]
       },
       {
         "heading": "Paperclip とは、やさしく言うと",
         "paragraphs": [
-          "Paperclip は、AI エージェントのチームを管理するプログラムです。アシスタントを一つ使うのではなく、役割、目標、エージェントごとの支出上限を決めてチームを組みます。小さな会社を思い浮かべてください。オーナー、マネージャー、社員がいて、それぞれに役割があります。Paperclip はこれを AI エージェントで行います。各エージェントには役職、職務内容、上司がいます。上の立場の者が仕事を割り振り、下の立場の者はその上司に報告します。公式ドキュメントでは、プロジェクトの柱として五つの考え方が紹介されています。"
+          "小さな会社を思い浮かべてください。各エージェントに役割、職務内容、上司があります。まとめ役がタスクを割り振り、ほかのエージェントが実行して進捗を報告します。",
+          "Paperclipはその組織を管理し、目標、予算、承認、記録をまとめます。公式ドキュメントで説明されている五つの概念を以下に整理します。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -117090,7 +117094,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "信頼できるか。確認できること",
         "paragraphs": [
-          "「信頼できる」は大きな言葉です。確認できることと、できないことを分けて見ていきます。",
+          "プロジェクトを評価するには、コードの出所、ライセンス、実行場所、データと安全性について情報源が示している内容を確認します。",
           "**誰が保守しているか。** 公式リポジトリ github.com/paperclipai/paperclip には、プロジェクトは Paperclip チームが保守していると書かれ、著作権表示には「MIT © 2026 Paperclip Labs, Inc.」とあります。プロジェクトのサイト paperclip.ing も同じリポジトリを指しています。検索に出てくるフォークやコードのコピーと混同しないでください。",
           "**ライセンス。** MIT です。コードが公開されていて、誰でも読み、監査し、使えるということです。同時に、あなたがインストールしたバージョンを保守し続ける義務は誰にもありません。",
           "**どこで動かすか。** 選べます。自分のコンピューター、自前のサーバー、Hostinger のマネージドプランのいずれでも動かせます。プロジェクトのサイトによると、セルフホスト版に Paperclip のアカウントは不要です。",
@@ -117107,8 +117111,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**調整するエージェント。** Paperclip は AI モデルを動かしません。Claude Code、Codex、Cursor、Gemini CLI、OpenClaw など、他のプログラムで動くエージェントを調整します。",
           "**Postgres。** Paperclip がエージェント、タスク、記録を保存するデータベースです。ローカルへのインストールでは組み込みで、自動的に起動します。本番環境では、プロジェクト自身が自前の Postgres を指定することを勧めています。マネージドではデータベースが含まれます。VPS では、データベースはご自身で管理します。",
-          "**ご自身の AI キー。** API キーは、プログラムがプロバイダー（Anthropic の Claude、OpenAI など）に応答を求めるときのパスワードです。プロバイダーは使った分をあなたに直接請求します。マネージド版では、Hostinger は OpenAI、Anthropic、Gemini、Cursor のいずれかの API キー、または有効な ChatGPT サブスクリプションを求めており、AI クレジットが含まれるとは記載されていません。これらの接続がなければ、チームは応答しません。",
-          "**エージェントごとの月間予算。** チームを起動する前に上限を決めてください。毎日仕事をする五つのエージェントは、たまにしか話しかけないアシスタントよりずっと多くの費用がかかることがあります。上限がなければ、費用は月末にプロバイダーが請求した額そのままです。",
+          "**モデルへの接続。** API キーは、プログラムがプロバイダー（Anthropic の Claude、OpenAI など）に応答を求めるときのパスワードです。キーを使うと、プロバイダーは使った分をあなたに直接請求します。マネージド版では、Hostinger は OpenAI、Anthropic、Gemini、Cursor のいずれかの API キー、または有効な ChatGPT サブスクリプションを求めており、AI クレジットが含まれるとは記載されていません。これらの接続がなければ、チームは応答しません。",
+          "**予算と請求。** チームを起動する前に、予算と停止のポリシーを設定してください。毎日仕事をする五つのエージェントは、たまにしか話しかけないアシスタントよりずっと多くの費用がかかることがあります。モデルのプロバイダー側でも利用状況と制限を確認してください。",
           "**VPS の場合のサーバーの知識。** VPS では、Docker（アプリを独立したコンテナで動かすプログラム）が何かを知っている必要があり、システムの更新と保護を自分で行うことを受け入れる必要があります。それが難しければ、マネージドが向いています。"
         ],
         "postParagraphs": [
@@ -117148,8 +117152,8 @@ export const reviewsData: unknown[] = [
               "ご自身で用意"
             ],
             [
-              "AI キー",
-              "ご自身のもの。ページに Hostinger のクレジットの記載はない",
+              "AI への接続",
+              "設定によって API キーまたは有効な ChatGPT サブスクリプション。ページに含まれる AI クレジットの記載はない",
               "ご自身のもの。ページには自分の API キーを持ち込むと記載"
             ],
             [
@@ -117178,7 +117182,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "始め方を順番に",
+        "heading": "始め方は三つ：一つを選ぶ",
         "bullets": [
           "**自分のコンピューターで動かす。** 公式 README は Node.js 24.11 以上を求めています。ターミナルで node -v を実行してバージョンを確認し、続けて npx paperclipai@latest onboard --yes を実行します。画面は http://localhost:3100 で開き、Postgres のデータベースは自動で作られます。サーバー費用はかかりませんが、Paperclip はコンピューターの電源が入っている間しか動きません。Claude または Codex を契約している場合、README では API キーなしでそのサブスクリプションからログインすることもでき、Python 3 とプロバイダーのプログラムのインストールが必要です。",
           "**マネージドを契約する。** 「AI 自動化アプリ」プランの24か月を選び、カートにコード SONAR20 を入れて契約します。契約後、Hostinger がインスタンスとデータベースを用意します。パネルに入り、エージェントを接続して、AI キーを貼り付けます（ChatGPT サブスクリプションでも接続できます）。",
@@ -117194,7 +117198,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "Paperclip は無料ですか？ プログラムはオープンソースで MIT ライセンスです。Hostinger に支払わず、自分のコンピューターにインストールできます。AI モデルの利用料はプロバイダーが請求し、マネージドと VPS は有料プランです。",
+          "Paperclip は無料ですか？ プログラムはオープンソースで MIT ライセンスです。Hostinger に支払わず、自分のコンピューターにインストールできます。マネージドと VPS は有料プランです。モデルへの接続は、ご自身のアカウントで API または対応するサブスクリプションを使い、プロバイダーの料金と制限に従います。",
           "Paperclip は信頼できますか？ 結論を出すことはできません。確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を責任者としていること、セキュリティ上の不具合は GitHub の公式窓口で報告されることです。調べた情報源には、独立した監査は見つかりませんでした。",
           "API キーは必要ですか？ ほとんどの場合は必要です。マネージド版では、OpenAI、Anthropic、Gemini、Cursor のいずれかの API キー、または有効な ChatGPT サブスクリプションが使えます。VPS では、ページがご自身のキーを持ち込むよう求めています。コンピューターで動かす場合は、README により Claude または Codex のサブスクリプションでも、API キーなしで利用できます。",
           "Ollama で動きますか？ 接続するエージェント次第です。Paperclip の README には、AI モデルを自分のコンピューターで動かすプログラムである Ollama への言及がありません。たとえば OpenClaw はローカルモデルを文書化していますが、Paperclip ではモデルは接続したエージェント側にあります。",
@@ -117289,13 +117293,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Paperclip은 역할, 목표, 지출 한도를 가진 AI 에이전트 팀을 관리하지만 AI 자체를 실행하지는 않습니다. 키는 직접 준비해야 합니다. Hostinger에서는 관리형 플랜이나 VPS에서 실행할 수 있습니다. 판단의 기준은 서버를 누가 관리하느냐이며, 차이는 아래 비교에서 확인할 수 있습니다."
+          "Paperclip은 역할, 목표, 예산, 승인 규칙을 갖춘 AI 에이전트 팀을 관리합니다. 모델에는 자신의 계정으로, API 키나 지원되는 구독을 써서 에이전트를 연결합니다. Hostinger에서는 서버를 Hostinger가 맡는 관리형과 직접 관리하는 VPS 중 무엇을 고르느냐가 주된 선택입니다."
         ]
       },
       {
         "heading": "Paperclip이란, 쉬운 말로",
         "paragraphs": [
-          "Paperclip은 AI 에이전트 팀을 관리하는 프로그램입니다. 어시스턴트 하나를 쓰는 대신, 에이전트마다 직책, 목표, 지출 한도를 정해 팀을 꾸립니다. 작은 회사를 떠올려 보세요. 대표, 관리자, 직원이 있고 각자 맡은 일이 있습니다. Paperclip은 이를 AI 에이전트로 구현합니다. 각 에이전트에게는 직책, 직무 설명, 상급자가 있습니다. 위에 있는 쪽이 일을 나누어 주고, 아래에 있는 쪽은 그에게 보고합니다. 공식 문서에는 이 프로젝트의 핵심으로 다섯 가지 개념이 나옵니다."
+          "작은 회사를 떠올려 보세요. 각 에이전트에는 역할, 직무 설명, 상급자가 있습니다. 조정하는 쪽이 일을 배분하고 다른 에이전트가 수행한 뒤 진행 상황을 보고합니다.",
+          "Paperclip은 이 조직을 관리하고 목표, 예산, 승인, 기록을 모읍니다. 공식 문서에서 설명하는 다섯 가지 개념을 아래에 정리했습니다."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -117316,7 +117321,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "믿을 만한가? 확인할 수 있는 것",
         "paragraphs": [
-          "'믿을 만하다'는 큰 말입니다. 확인할 수 있는 것과 없는 것을 나누어 볼 수 있습니다.",
+          "프로젝트를 평가하려면 코드 출처, 라이선스, 실행 장소, 자료에 설명된 데이터와 보안 내용을 확인하세요.",
           "**누가 관리하는가.** 공식 저장소 github.com/paperclipai/paperclip에는 이 프로젝트를 Paperclip 팀이 관리한다고 적혀 있고, 저작권 표기는 'MIT © 2026 Paperclip Labs, Inc.'입니다. 프로젝트 사이트 paperclip.ing도 같은 저장소를 가리킵니다. 검색에 나오는 포크나 코드 복사본과 혼동하지 마세요.",
           "**라이선스.** MIT입니다. 코드가 공개되어 있어 누구나 읽고, 감사하고, 사용할 수 있다는 뜻입니다. 또한 설치한 버전을 계속 관리해 줄 의무가 누구에게도 없다는 뜻이기도 합니다.",
           "**어디서 실행하는가.** 선택할 수 있습니다. 컴퓨터, 자체 서버, Hostinger 관리형 플랜 모두 가능합니다. 프로젝트 사이트에 따르면 셀프 호스팅 버전에는 Paperclip 계정이 필요 없습니다.",
@@ -117333,8 +117338,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**조율할 에이전트.** Paperclip은 AI 모델을 실행하지 않습니다. Claude Code, Codex, Cursor, Gemini CLI, OpenClaw 같은 다른 프로그램으로 동작하는 에이전트를 조율합니다.",
           "**Postgres.** Paperclip이 에이전트, 작업, 기록을 저장하는 데이터베이스입니다. 로컬 설치에서는 내장되어 있고 저절로 시작됩니다. 운영 환경에서는 프로젝트 자체가 별도의 Postgres를 지정하라고 권합니다. 관리형에는 데이터베이스가 포함됩니다. VPS에서는 데이터베이스를 직접 관리합니다.",
-          "**자신의 AI 키.** API 키는 프로그램이 제공업체(Anthropic의 Claude, OpenAI 등)에 응답을 요청할 때 쓰는 비밀번호입니다. 제공업체는 사용한 만큼 사용자에게 직접 청구합니다. 관리형에서는 Hostinger가 OpenAI, Anthropic, Gemini, Cursor 중 하나의 API 키 또는 활성 ChatGPT 구독을 요구하며, AI 크레딧이 포함된다는 말은 없습니다. 이런 연결이 없으면 팀은 응답하지 않습니다.",
-          "**에이전트별 월 예산.** 팀을 켜기 전에 한도를 정하세요. 매일 일하는 에이전트 다섯 개는 가끔 대화하는 어시스턴트 하나보다 훨씬 많은 비용이 들 수 있습니다. 한도가 없으면 비용은 월말에 제공업체가 청구하는 금액 그대로입니다.",
+          "**모델 연결.** API 키는 프로그램이 제공업체(Anthropic의 Claude, OpenAI 등)에 응답을 요청할 때 쓰는 비밀번호입니다. 키를 쓰면 제공업체가 사용한 만큼 사용자에게 직접 청구합니다. 관리형에서는 Hostinger가 OpenAI, Anthropic, Gemini, Cursor 중 하나의 API 키 또는 활성 ChatGPT 구독을 요구하며, AI 크레딧이 포함된다는 말은 없습니다. 이런 연결이 없으면 팀은 응답하지 않습니다.",
+          "**예산과 청구.** 팀을 시작하기 전에 예산과 일시 중지 정책을 설정하세요. 매일 일하는 에이전트 다섯 개는 가끔 대화하는 어시스턴트 하나보다 훨씬 많은 비용이 들 수 있습니다. 모델 제공업체의 사용량과 한도도 확인하세요.",
           "**VPS라면 서버 지식.** VPS에서는 Docker(앱을 컨테이너에 격리해 실행하는 프로그램)가 무엇인지 알아야 하고, 시스템 업데이트와 보안을 직접 맡는 것을 받아들여야 합니다. 그것이 부담스럽다면 관리형이 해결해 줍니다."
         ],
         "postParagraphs": [
@@ -117374,8 +117379,8 @@ export const reviewsData: unknown[] = [
               "직접 관리"
             ],
             [
-              "AI 키",
-              "직접 준비. 페이지에 Hostinger 크레딧 언급 없음",
+              "AI 연결",
+              "설정에 따라 API 키 또는 활성 ChatGPT 구독. 페이지에 포함된 AI 크레딧은 나열되어 있지 않음",
               "직접 준비. 페이지에 자신의 API 키를 가져오라고 안내"
             ],
             [
@@ -117404,7 +117409,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "시작하는 순서",
+        "heading": "시작하는 세 가지 방법: 하나를 선택하세요",
         "bullets": [
           "**컴퓨터에서 실행하기.** 공식 README는 Node.js 24.11 이상을 요구합니다. 터미널에서 node -v 명령으로 버전을 확인한 다음 npx paperclipai@latest onboard --yes를 실행하세요. 화면은 http://localhost:3100에서 열리고 Postgres 데이터베이스는 저절로 만들어집니다. 서버 비용은 없지만 Paperclip은 컴퓨터가 켜져 있는 동안에만 작동합니다. Claude나 Codex를 구독 중이라면 README에서 API 키 없이 구독으로 로그인하는 방법도 지원하며, 이때는 Python 3와 제공업체의 프로그램이 설치되어 있어야 합니다.",
           "**관리형 가입하기.** 'AI 자동화 앱' 플랜의 24개월을 선택하고 장바구니에 코드 SONAR20을 넣어 가입하세요. 가입 후 Hostinger가 인스턴스와 데이터베이스를 준비합니다. 패널에 들어가 에이전트를 연결하고 AI 키를 붙여 넣으면 됩니다(ChatGPT 구독으로도 연결할 수 있습니다).",
@@ -117420,7 +117425,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "Paperclip은 무료인가요? 프로그램은 MIT 라이선스의 오픈 소스이며, Hostinger에 돈을 내지 않고 컴퓨터에 설치할 수 있습니다. AI 모델 사용료는 제공업체가 청구하고, 관리형과 VPS는 유료 플랜입니다.",
+          "Paperclip은 무료인가요? 프로그램은 MIT 라이선스의 오픈 소스이며, Hostinger에 돈을 내지 않고 컴퓨터에 설치할 수 있습니다. 관리형과 VPS는 유료 플랜입니다. 모델 연결은 자신의 계정으로 API 또는 지원되는 구독을 쓰며, 제공업체의 비용과 한도가 적용됩니다.",
           "Paperclip은 믿을 만한가요? 결론을 내릴 수는 없습니다. 확인할 수 있는 것은 코드가 공개되어 있다는 점, 저장소가 Paperclip 팀(저작권 표기로는 Paperclip Labs, Inc.)을 책임자로 밝힌다는 점, 보안 결함은 GitHub의 공식 창구로 신고된다는 점입니다. 살펴본 자료에서 독립적인 감사는 찾지 못했습니다.",
           "API 키가 필요한가요? 대부분의 경우 필요합니다. 관리형에서는 OpenAI, Anthropic, Gemini, Cursor 중 하나의 API 키 또는 활성 ChatGPT 구독을 쓸 수 있습니다. VPS에서는 페이지가 자신의 키를 가져오라고 안내합니다. 컴퓨터에서는 README에 따라 Claude나 Codex 구독으로도 API 키 없이 쓸 수 있습니다.",
           "Ollama와 함께 작동하나요? 연결하는 에이전트에 따라 다릅니다. Paperclip의 README에는 AI 모델을 컴퓨터에서 직접 실행하는 프로그램인 Ollama가 언급되어 있지 않습니다. 예를 들어 OpenClaw는 로컬 모델을 문서화하고 있지만, Paperclip에서 모델은 연결한 에이전트 쪽에 있습니다.",
@@ -117517,13 +117522,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Paperclip 会把一组 AI 智能体组织起来，给每个智能体设定职位、目标和支出上限，但它本身不运行 AI，密钥需要您自己准备。在 Hostinger 上，它可以跑在托管套餐或 VPS 上。决定选择的是服务器由谁来管，区别见下方对比。"
+          "Paperclip 管理 AI 智能体团队的角色、目标、预算和审批。您用自己的账户并通过 API 或兼容订阅为智能体连接模型。在 Hostinger，主要选择是让 Hostinger 管理服务器的托管版，还是由自己管理的 VPS。"
         ]
       },
       {
         "heading": "Paperclip 是什么，用大白话说",
         "paragraphs": [
-          "Paperclip 是一个用来组织 AI 智能体团队的程序：您不是只用一个助手，而是为每个智能体设定职位、目标和支出上限，组成一个团队。可以把它想成一家小公司，有老板、经理和员工，各有各的职责。Paperclip 用 AI 智能体来做这件事：每个智能体都有职位、岗位说明和上级。上级分派任务，下级向上级汇报。官方文档中，这个项目有五个核心概念。"
+          "可以把它想成一家小公司：每个智能体都有角色、岗位说明和上级。协调方分派任务，其他智能体执行并汇报进度。",
+          "Paperclip 管理这套组织结构，汇集目标、预算、审批和记录。下列五个概念对应官方文档中的说明。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -117544,7 +117550,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "可靠吗？哪些可以核实",
         "paragraphs": [
-          "“可靠”是个很大的词。可以把能核实的和不能核实的分开来看。",
+          "评估项目时，请核对代码来源、许可证、运行位置，以及来源如何说明数据和安全问题。",
           "**由谁维护。** 官方仓库 github.com/paperclipai/paperclip 写明项目由 Paperclip 团队维护，版权声明为“MIT © 2026 Paperclip Labs, Inc.”。项目网站 paperclip.ing 指向同一个仓库。不要把它与搜索中出现的分叉（fork）和代码副本混为一谈。",
           "**许可证。** MIT。意思是代码开放，任何人都可以阅读、审计和使用。也意味着没有人有义务持续维护您安装的那个版本。",
           "**在哪里运行。** 由您选择。可以在自己的电脑上、自己的服务器上，或 Hostinger 的托管套餐上运行。项目网站说明，自托管版本不需要 Paperclip 账号。",
@@ -117561,8 +117567,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**要协调的智能体。** Paperclip 不运行 AI 模型：它协调通过其他程序运行的智能体，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
           "**Postgres。** Paperclip 用它保存智能体、任务和记录的数据库。本地安装时它是内置的，会自动启动。生产环境中，项目本身建议指向您自己的 Postgres。托管版包含数据库。VPS 上，数据库由您自己负责。",
-          "**您自己的 AI 密钥。** API 密钥是程序向提供商（如 Anthropic 的 Claude、OpenAI 等）请求回复时使用的密码。提供商按用量直接向您收费。托管版需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅，Hostinger 并没有列出附带的 AI 额度。没有这类连接，团队就不会回应。",
-          "**每个智能体的月度预算。** 启动团队之前先定好上限。每天都在干活的五个智能体，花费可能远高于偶尔聊几句的助手。没有上限的话，花费就是月底提供商开出的账单。",
+          "**连接模型。** API 密钥是程序向提供商（如 Anthropic 的 Claude、OpenAI 等）请求回复时使用的密码。用密钥时，提供商按用量直接向您收费。托管版需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅，Hostinger 并没有列出附带的 AI 额度。没有这类连接，团队就不会回应。",
+          "**预算和计费。** 启动团队前，请设置预算和暂停策略。每天都在干活的五个智能体，花费可能远高于偶尔聊几句的助手。另外查看模型提供商的用量与限制。",
           "**如果用 VPS，需要懂服务器。** 用 VPS 时，您得知道什么是 Docker（一种让每个应用在独立容器中运行的程序），并接受自己更新和保护系统。如果这不适合您，托管版可以解决。"
         ],
         "postParagraphs": [
@@ -117602,8 +117608,8 @@ export const reviewsData: unknown[] = [
               "由您负责"
             ],
             [
-              "AI 密钥",
-              "您自己的；页面没有列出 Hostinger 提供的额度",
+              "AI 连接",
+              "按配置使用 API 密钥或有效 ChatGPT 订阅；页面未列出包含的 AI 额度",
               "您自己的；页面写的是自带 API 密钥"
             ],
             [
@@ -117632,7 +117638,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "按顺序开始",
+        "heading": "三种开始方式：选择一种",
         "bullets": [
           "**在自己的电脑上运行。** 官方 README 要求 Node.js 24.11 或更新版本。在终端中用 node -v 命令确认版本，然后运行 npx paperclipai@latest onboard --yes。界面会在 http://localhost:3100 打开，Postgres 数据库会自动创建。没有服务器费用，但 Paperclip 只在电脑开机时运行。如果您订阅了 Claude 或 Codex，README 也支持用订阅登录而无需 API 密钥，前提是装有 Python 3 和提供商的程序。",
           "**购买托管版。** 选择“AI 自动化应用”套餐的 24 个月，并在购物车里填入代码 SONAR20。订阅之后，Hostinger 会准备好实例和数据库。您进入面板，连接自己的智能体，再粘贴 AI 密钥（也可以使用 ChatGPT 订阅）。",
@@ -117648,7 +117654,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "Paperclip 免费吗？ 这个程序是开源的，采用 MIT 许可证，可以装在自己的电脑上而无需向 Hostinger 付费。AI 模型的使用费由提供商收取，托管版和 VPS 是付费套餐。",
+          "Paperclip 免费吗？ 程序采用 MIT 开源许可证，可以不购买 Hostinger 而安装在自己的电脑上。托管版和 VPS 需付费；模型使用您自己的 API 账户或兼容订阅，受提供商的费用和限制约束。",
           "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。在所查阅的资料中，我们没有找到独立审计。",
           "需要 API 密钥吗？ 大多数情况下需要。托管版可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅；VPS 则要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
           "能搭配 Ollama 使用吗？ 取决于您连接的智能体。Paperclip 的 README 没有提到 Ollama，这是一个在自己电脑上运行 AI 模型的程序。例如 OpenClaw 记录了本地模型的用法；而在 Paperclip 中，模型取决于您连接的智能体。",
@@ -117744,13 +117750,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "Paperclip 會把一組 AI 代理組織起來，為每個代理設定職位、目標和支出上限，但它本身不執行 AI，金鑰要由您自己準備。在 Hostinger 上，它可以跑在代管方案或 VPS 上。決定選擇的是伺服器由誰來管理，差異請見下方比較。"
+          "Paperclip 管理 AI 代理團隊的角色、目標、預算和核准。您用自己的帳號並透過 API 或相容訂閱為代理連接模型。在 Hostinger，主要選擇是讓 Hostinger 管理伺服器的代管方案，還是由自己管理的 VPS。"
         ]
       },
       {
         "heading": "Paperclip 是什麼，用白話說",
         "paragraphs": [
-          "Paperclip 是一個用來組織 AI 代理團隊的程式：您不是只用一個助理，而是為每個代理設定職位、目標和支出上限，組成一支團隊。可以把它想成一家小公司，有老闆、主管和員工，各有各的職責。Paperclip 用 AI 代理來做這件事：每個代理都有職位、職務說明和上級。上級分派任務，下級向上級回報。官方文件中，這個專案有五個核心概念。"
+          "可以把它想成一家小公司：每個代理都有角色、職務說明和上級。協調方分派任務，其他代理執行並回報進度。",
+          "Paperclip 管理這套組織結構，彙集目標、預算、核准和紀錄。下列五個概念對應官方文件中的說明。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -117771,7 +117778,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "可靠嗎？哪些可以查證",
         "paragraphs": [
-          "「可靠」是個很大的詞。可以把能查證的和不能查證的分開來看。",
+          "評估專案時，請核對程式碼來源、授權、執行位置，以及來源如何說明資料與安全問題。",
           "**由誰維護。** 官方儲存庫 github.com/paperclipai/paperclip 寫明專案由 Paperclip 團隊維護，著作權聲明為「MIT © 2026 Paperclip Labs, Inc.」。專案網站 paperclip.ing 指向同一個儲存庫。不要把它與搜尋中出現的分支（fork）和程式碼副本混為一談。",
           "**授權。** MIT。意思是程式碼公開，任何人都可以閱讀、稽核和使用。也意味著沒有人有義務持續維護您安裝的那個版本。",
           "**在哪裡執行。** 由您選擇。可以在自己的電腦上、自己的伺服器上，或 Hostinger 的代管方案上執行。專案網站說明，自行架設的版本不需要 Paperclip 帳號。",
@@ -117788,8 +117795,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**要協調的代理。** Paperclip 不執行 AI 模型：它協調透過其他程式運作的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
           "**Postgres。** Paperclip 用它保存代理、任務和紀錄的資料庫。本機安裝時它是內建的，會自動啟動。正式環境中，專案本身建議指向您自己的 Postgres。代管方案包含資料庫。VPS 上，資料庫由您自己負責。",
-          "**您自己的 AI 金鑰。** API 金鑰是程式向供應商（如 Anthropic 的 Claude、OpenAI 等）要求回覆時使用的密碼。供應商依用量直接向您收費。代管方案需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱，Hostinger 並沒有列出附帶的 AI 額度。沒有這類連接，團隊就不會回應。",
-          "**每個代理的月預算。** 啟動團隊之前先訂好上限。每天都在做事的五個代理，花費可能遠高於偶爾聊幾句的助理。沒有上限的話，花費就是月底供應商開出的帳單。",
+          "**連接模型。** API 金鑰是程式向供應商（如 Anthropic 的 Claude、OpenAI 等）要求回覆時使用的密碼。使用金鑰時，供應商依用量直接向您收費。代管方案需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱，Hostinger 並沒有列出附帶的 AI 額度。沒有這類連接，團隊就不會回應。",
+          "**預算與計費。** 啟動團隊前，請設定預算和暫停政策。每天都在做事的五個代理，花費可能遠高於偶爾聊幾句的助理。另外查看模型供應商的用量與限制。",
           "**如果用 VPS，需要懂伺服器。** 用 VPS 時，您得知道什麼是 Docker（一種讓每個應用程式在獨立容器中執行的程式），並接受自己更新和保護系統。如果這不適合您，代管方案可以解決。"
         ],
         "postParagraphs": [
@@ -117829,8 +117836,8 @@ export const reviewsData: unknown[] = [
               "由您負責"
             ],
             [
-              "AI 金鑰",
-              "您自己的；頁面沒有列出 Hostinger 提供的額度",
+              "AI 連接",
+              "依設定使用 API 金鑰或有效 ChatGPT 訂閱；頁面未列出包含的 AI 額度",
               "您自己的；頁面寫的是自備 API 金鑰"
             ],
             [
@@ -117859,7 +117866,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "依序開始",
+        "heading": "三種開始方式：選擇一種",
         "bullets": [
           "**在自己的電腦上執行。** 官方 README 要求 Node.js 24.11 或更新版本。在終端機中用 node -v 指令確認版本，然後執行 npx paperclipai@latest onboard --yes。介面會在 http://localhost:3100 開啟，Postgres 資料庫會自動建立。沒有伺服器費用，但 Paperclip 只在電腦開機時執行。如果您訂閱了 Claude 或 Codex，README 也支援用訂閱登入而不需要 API 金鑰，前提是裝有 Python 3 和供應商的程式。",
           "**購買代管方案。** 選擇「AI 自動化應用」方案的 24 個月，並在購物車裡填入代碼 SONAR20。訂閱之後，Hostinger 會準備好實例和資料庫。您進入面板，連接自己的代理，再貼上 AI 金鑰（也可以使用 ChatGPT 訂閱）。",
@@ -117875,7 +117882,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "Paperclip 免費嗎？ 這個程式是開源的，採用 MIT 授權，可以裝在自己的電腦上而不需向 Hostinger 付費。AI 模型的使用費由供應商收取，代管方案和 VPS 是付費方案。",
+          "Paperclip 免費嗎？ 程式採用 MIT 開源授權，可以不購買 Hostinger 而安裝在自己的電腦上。代管方案與 VPS 需付費；模型使用您自己的 API 帳號或相容訂閱，受供應商的費用和限制約束。",
           "Paperclip 可靠嗎？ 無法下定論。可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。在所查閱的資料中，我們沒有找到獨立稽核。",
           "需要 API 金鑰嗎？ 大多數情況下需要。代管方案可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱；VPS 則要求您自備金鑰。在電腦上執行時，README 也支援 Claude 或 Codex 的訂閱，不需要 API 金鑰。",
           "能搭配 Ollama 使用嗎？ 取決於您連接的代理。Paperclip 的 README 沒有提到 Ollama，這是一個在自己電腦上執行 AI 模型的程式。例如 OpenClaw 記錄了本機模型的用法；而在 Paperclip 中，模型取決於您連接的代理。",
@@ -117970,7 +117977,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Paperclip organiza uma equipe de agentes de IA, com cargos, metas e limite de gasto para cada um, mas não roda a IA: as chaves são suas. Na Hostinger, roda no plano gerenciado ou num VPS. O que muda a decisão é quem cuida do servidor; veja a comparação e os preços abaixo."
+          "O Paperclip organiza equipes de agentes de IA, com papéis, metas, orçamento e aprovações. Você conecta os agentes aos modelos pelas suas próprias contas, por API ou assinatura compatível. Na Hostinger, a escolha principal é quem administra o servidor: a empresa, no gerenciado, ou você, no VPS."
         ]
       },
       {
@@ -118014,8 +118021,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agentes para coordenar.** O Paperclip não roda modelo de IA: ele coordena agentes que funcionam por outros programas, como Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
           "**Postgres.** É o banco de dados onde o Paperclip guarda agentes, tarefas e registros. Na instalação local, ele vem embutido e sobe sozinho. Em produção, o próprio projeto recomenda apontar para um Postgres seu. No gerenciado, o banco vem incluído. No VPS, o banco fica com você.",
-          "**Chaves de IA suas.** Chave de API é a senha que o programa usa para pedir respostas a um provedor, como Anthropic (Claude), OpenAI ou outro. O provedor cobra pelo uso, direto de você. No gerenciado, a Hostinger pede a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT, e não lista créditos de IA incluídos. Sem uma dessas conexões, a equipe não responde.",
-          "**Orçamento mensal por agente.** Defina o teto antes de ligar a equipe. Cinco agentes com tarefas diárias podem gastar bem mais do que um assistente que você conversa de vez em quando. Sem teto, o gasto é só o que o provedor cobrar no fim do mês.",
+          "**Conexão com a IA.** Chave de API é a senha que o programa usa para pedir respostas a um provedor, como Anthropic (Claude), OpenAI ou outro. Com a chave, o provedor cobra pelo uso, direto de você. No gerenciado, a Hostinger pede a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT, e não lista créditos de IA incluídos. Sem uma dessas conexões, a equipe não responde.",
+          "**Orçamento e cobrança.** Configure a política de orçamento e de pausa antes de iniciar a equipe. Cinco agentes com tarefas diárias podem gastar bem mais do que um assistente que você conversa de vez em quando. Acompanhe também o consumo e os limites no painel do provedor do modelo.",
           "**Conhecimento de servidor, se for VPS.** Na VPS, você precisa saber o que é Docker, um programa que roda cada aplicativo isolado num contêiner, e aceitar atualizar e proteger o sistema. Se isso não é para você, o gerenciado resolve."
         ],
         "postParagraphs": [
@@ -118055,21 +118062,21 @@ export const reviewsData: unknown[] = [
               "Com você"
             ],
             [
-              "Chaves de IA",
-              "Suas; a página não lista créditos da Hostinger",
+              "Conexão com a IA",
+              "Chave de API ou assinatura ChatGPT ativa, conforme a configuração; a página não lista créditos de IA incluídos",
               "Suas; a página fala em trazer as próprias chaves de API"
             ],
             [
               "Reembolso",
               "30 dias",
-              "30 dias só se o último reembolso de VPS tiver sido concluído há mais de 180 dias"
+              "30 dias conforme a política; há intervalo de 180 dias entre reembolsos de VPS"
             ]
           ]
         },
         "postParagraphs": [
           "**O gerenciado serve para você se** quer o Paperclip funcionando sem instalar nada, não sabe o que é root nem Docker, e prefere que a Hostinger cuide do banco, das atualizações e dos backups.",
           "**O VPS serve para você se** quer rodar outros programas no mesmo servidor, como um site ou um n8n (ferramenta de automação), sabe mexer num servidor ou quer aprender, e quer ter o banco e a configuração sob seu controle.",
-          "Sobre o reembolso, a regra dos 180 dias para VPS é a mesma do [artigo sobre a confiança na Hostinger](/reviews/hostinger-e-confiavel), que lê a política da empresa. Os 180 dias contam da conclusão do último reembolso de VPS: se você recebeu um nos últimos 180 dias, o novo VPS não tem a garantia de 30 dias."
+          "Sobre o reembolso, a regra dos 180 dias para VPS é a mesma do [artigo sobre a confiança na Hostinger](/reviews/hostinger-e-confiavel), que lê a política da empresa. Há um intervalo de 180 dias aplicável a reembolsos de VPS anteriores; confira as condições e exclusões na [política de reembolso](https://www.hostinger.com/legal/refund-policy) antes de contratar."
         ]
       },
       {
@@ -118145,7 +118152,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. O uso dos modelos de IA é cobrado pelo provedor, e o gerenciado e o VPS são planos pagos.",
+          "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. A hospedagem gerenciada e o VPS são planos pagos; o acesso aos modelos usa suas próprias contas, por API ou assinatura compatível, com os custos e limites do provedor.",
           "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não encontramos auditoria independente nas fontes lidas.",
           "Precisa de chave de API? Na maioria dos casos, sim. No gerenciado, a Hostinger aceita a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT. No VPS, a página pede que você traga as suas chaves. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
           "Roda com Ollama? Depende do agente que você conecta. O README do Paperclip não cita o Ollama, um programa para rodar modelo de IA no próprio computador. O OpenClaw, por exemplo, documenta modelos locais; no Paperclip, o modelo fica com o agente que você conecta.",
@@ -118241,13 +118248,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Paperclip organiza un equipo de agentes de IA, con cargos, metas y un límite de gasto para cada uno, pero no ejecuta la IA: las claves son tuyas. En Hostinger, funciona en el plan gestionado o en un VPS. Lo que cambia la decisión es quién se ocupa del servidor; mira la comparación más abajo."
+          "Paperclip organiza equipos de agentes de IA con roles, metas, presupuesto y aprobaciones. Conectas los agentes a los modelos con tus propias cuentas, por API o suscripción compatible. En Hostinger, la decisión principal es quién administra el servidor: Hostinger en el gestionado o tú en un VPS."
         ]
       },
       {
         "heading": "Qué es Paperclip, en lenguaje sencillo",
         "paragraphs": [
-          "Paperclip es un programa para organizar un equipo de agentes de IA: en vez de un solo asistente, montas el equipo con cargos, metas y un límite de gasto para cada agente. Piensa en una pequeña empresa. Hay un dueño, gerentes y empleados, cada uno con su función. Paperclip hace eso con agentes de IA: cada agente tiene un cargo, una descripción de trabajo y un superior. Quien está arriba delega tareas, y quien está abajo responde ante él. En la documentación, aparecen cinco ideas en el proyecto."
+          "Piensa en una pequeña empresa: cada agente tiene un rol, una descripción de trabajo y un superior. Quien coordina reparte tareas; los demás las ejecutan e informan del avance.",
+          "Paperclip organiza esa estructura y reúne metas, presupuesto, aprobaciones y registros. Los cinco conceptos siguientes muestran cómo lo describe la documentación."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -118268,7 +118276,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "¿Es confiable? Qué se puede comprobar",
         "paragraphs": [
-          "“Confiable” es una palabra grande. Se puede separar lo que es verificable de lo que no.",
+          "Para valorar el proyecto, comprueba el origen del código, la licencia, dónde se ejecuta y qué dicen las fuentes sobre datos y seguridad.",
           "**Quién lo mantiene.** El repositorio oficial, github.com/paperclipai/paperclip, dice que el proyecto lo mantiene el equipo de Paperclip, y el aviso de copyright dice “MIT © 2026 Paperclip Labs, Inc.”. El sitio del proyecto, paperclip.ing, apunta al mismo repositorio. No lo confundas con los forks y copias del código que aparecen en la búsqueda.",
           "**Licencia.** MIT. Significa que el código es abierto: cualquiera puede leerlo, auditarlo y usarlo. También significa que nadie está obligado a mantener la versión que instalaste.",
           "**Dónde funciona.** Tú eliges. Puede funcionar en tu computadora, en un servidor propio o en el plan gestionado de Hostinger. El sitio del proyecto dice que la versión autoalojada no exige una cuenta en Paperclip.",
@@ -118285,8 +118293,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agentes para coordinar.** Paperclip no ejecuta un modelo de IA: coordina agentes que funcionan mediante otros programas, como Claude Code, Codex, Cursor, Gemini CLI y OpenClaw.",
           "**Postgres.** Es la base de datos donde Paperclip guarda agentes, tareas y registros. En la instalación local, viene integrada y arranca sola. En producción, el propio proyecto recomienda apuntar a un Postgres tuyo. En el gestionado, la base de datos viene incluida. En el VPS, la base de datos queda por tu cuenta.",
-          "**Claves de IA tuyas.** La clave de API es la contraseña que el programa usa para pedir respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. El proveedor cobra por el uso, directamente a ti. En el gestionado, Hostinger pide una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT, y no lista créditos de IA incluidos. Sin una de esas conexiones, el equipo no responde.",
-          "**Presupuesto mensual por agente.** Define el tope antes de encender el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Sin tope, el gasto es lo que cobre el proveedor a fin de mes.",
+          "**Conexión con IA.** La clave de API es la contraseña que el programa usa para pedir respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. Con la clave, el proveedor cobra por el uso, directamente a ti. En el gestionado, Hostinger pide una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT, y no lista créditos de IA incluidos. Sin una de esas conexiones, el equipo no responde.",
+          "**Presupuesto y cobro.** Configura la política de presupuesto y pausa antes de iniciar el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Controla también el consumo y los límites del proveedor del modelo: Paperclip no sustituye las condiciones de cobro de tu cuenta.",
           "**Conocimientos de servidor, si es VPS.** En el VPS, necesitas saber qué es Docker, un programa que ejecuta cada aplicación aislada en un contenedor, y aceptar actualizar y proteger el sistema. Si eso no es para ti, el gestionado lo resuelve."
         ],
         "postParagraphs": [
@@ -118326,8 +118334,8 @@ export const reviewsData: unknown[] = [
               "Por tu cuenta"
             ],
             [
-              "Claves de IA",
-              "Tuyas; la página no lista créditos de Hostinger",
+              "Conexión con IA",
+              "Clave de API o suscripción activa de ChatGPT, según la configuración; la página no enumera créditos de IA incluidos",
               "Tuyas; la página habla de traer tus propias claves de API"
             ],
             [
@@ -118356,7 +118364,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cómo empezar, en orden",
+        "heading": "Tres formas de empezar: elige una",
         "bullets": [
           "**Ejecutarlo en tu computadora.** El README oficial pide Node.js 24.11 o más nuevo. Comprueba la versión con el comando node -v en la terminal y después ejecuta npx paperclipai@latest onboard --yes. La interfaz se abre en http://localhost:3100, y la base de datos Postgres se crea sola. No hay costo de servidor, pero Paperclip solo funciona mientras la computadora esté encendida. Si tienes una suscripción a Claude o a Codex, el README también acepta entrar con la suscripción, sin clave de API, con Python 3 y el programa del proveedor instalados.",
           "**Contratar el gestionado.** Suscríbete al plan “Aplicaciones de automatización con IA” por 24 meses con el código SONAR20 en el carrito. Después de la suscripción, Hostinger prepara la instancia y la base de datos. Entras al panel, conectas tus agentes y pegas una clave de IA (o usas la suscripción de ChatGPT).",
@@ -118372,7 +118380,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Paperclip es gratis? El programa es de código abierto, con licencia MIT, y se puede instalar en tu computadora sin pagar a Hostinger. El uso de los modelos de IA lo cobra el proveedor, y el gestionado y el VPS son planes de pago.",
+          "¿Paperclip es gratis? El programa es de código abierto, con licencia MIT, y puede instalarse en la computadora sin contratar Hostinger. El gestionado y el VPS son de pago; el acceso a modelos usa tus cuentas por API o suscripción compatible, con los costes y límites del proveedor.",
           "¿Paperclip es confiable? No se puede dar un veredicto. Se puede comprobar que el código es público, que el repositorio indica al equipo de Paperclip (Paperclip Labs, Inc. en el aviso de copyright) como responsable, y que las fallas de seguridad se reportan por un canal oficial en GitHub. No encontramos auditoría independiente en las fuentes leídas.",
           "¿Necesita clave de API? En la mayoría de los casos, sí. En el gestionado, Hostinger acepta una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT. En el VPS, la página pide que traigas tus claves. En la computadora, el README también acepta la suscripción de Claude o de Codex, sin clave de API.",
           "¿Funciona con Ollama? Depende del agente que conectes. El README de Paperclip no menciona Ollama, un programa para ejecutar un modelo de IA en la propia computadora. OpenClaw, por ejemplo, documenta modelos locales; en Paperclip, el modelo queda con el agente que conectes.",
@@ -158023,7 +158031,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Vale a pena** para quem já tem site na Hostinger e uma lista de até 1.000 destinatários. Pelo preço publicado, o Grow e o Pro custam menos que os planos pagos do Mailchimp e do Brevo na mesma faixa, e a renovação do Reach (R$ 10,99/mês no Grow, R$ 19,99/mês no Pro) também fica abaixo deles. O Grow cobre lista de até 500 com automações; o Pro, lista de até 1.000 e WhatsApp.",
           "**Fique no plano grátis do Mailchimp ou do Brevo** se a lista está começando e você ainda não sabe se vai mandar e-mail com frequência. O Reach não tem plano grátis na página brasileira.",
-          "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você precisa de mais de 7 envios por mês para a lista toda: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês.",
+          "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se o total de e-mails do mês, automações incluídas, passa de 7.000, o teto do Pro. Os planos do Reach param em 1.000 destinatários.",
           "Se fosse para o meu site, eu levaria o Reach Grow, porque cobre a lista de até 500 com automações e renova abaixo dos planos pagos do Mailchimp e do Brevo."
         ]
       },
@@ -158037,7 +158045,7 @@ export const reviewsData: unknown[] = [
           "O que é o Reach 500? É o nome do plano Grow no carrinho da Hostinger, pelo limite de 500 destinatários. Ele manda 3.500 e-mails por mês.",
           "Hostinger Reach ou Mailchimp? Para lista de até 1.000 destinatários, o Reach custa menos pelo preço publicado. Para começar sem pagar ou para lista maior, o Mailchimp.",
           "O código SONAR20 vale no Hostinger Reach? Vale: no teste do Bruno, o Reach 500 de 24 meses foi de R$ 215,76 para R$ 172,61. Nos outros planos e períodos, não testamos; confira no carrinho.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+          "O SONAR20 vale para quem já é cliente? Vale em compra nova elegível, mesmo com conta existente. Registro de domínio e renovação ficam fora. Bruno testou o Reach 500 de 24 meses no site brasileiro; outros planos e períodos, confira no carrinho."
         ]
       },
       {
@@ -158051,17 +158059,17 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Leve o Reach se já tem site na Hostinger e a lista cabe em até 1.000 destinatários.",
         "Leve o Reach Pro se precisa mandar mensagem por WhatsApp.",
-        "Leve se manda para a lista até uma vez por semana, dentro do limite mensal de envio do plano."
+        "Leve se os destinatários únicos do mês e o total de e-mails de campanhas e automações couberem nos limites mensais do plano."
       ],
       "skipIf": [
         "Passe se a lista está começando e cabe no plano grátis do Mailchimp ou do Brevo.",
-        "Passe se a lista passa de 1.000 contatos ou se você manda para todos mais de 7 vezes por mês."
+        "Passe se os destinatários únicos ou o total de e-mails do mês ultrapassarem os limites do plano escolhido."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Testamos no Reach 500 de 24 meses; nos outros planos, confira no carrinho.",
+      "text": "SONAR20: 20% no primeiro período de compra nova elegível. Bruno testou no site brasileiro, no Reach 500 de 24 meses. Confira outros planos e períodos no carrinho; registro de domínio e renovação ficam fora.",
       "label": "Ver os planos do Reach com o SONAR20",
       "url": "https://www.hostinger.com/br/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -158277,7 +158285,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Worth it** for anyone who already has a Hostinger site and a list of up to 1,000 recipients. Grow covers a list of up to 500 with automations; Pro covers a list of up to 1,000 and WhatsApp. The renewal of Grow (US$ 2.49 a month) and of Pro (US$ 3.99 a month) is part of the decision, so check it before you pay.",
           "**Stay on the free Mailchimp or Brevo plan** if your list is just starting and you don't yet know whether you will send email often. Reach has no free plan.",
-          "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if you need more than 7 sends to the whole list a month: the Reach plans stop at 1,000 recipients and 7,000 emails a month.",
+          "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if your monthly emails, automations included, pass 7,000, the Pro ceiling. The Reach plans stop at 1,000 recipients.",
           "If it were for my site, I would take Reach Grow, because it covers a list of up to 500 with automations and renews at US$ 2.49 a month."
         ]
       },
@@ -158291,7 +158299,7 @@ export const reviewsData: unknown[] = [
           "What is Reach 500? It is the name Grow takes in the Hostinger cart, after its limit of 500 recipients. It sends 3,500 emails a month.",
           "Hostinger Reach or Mailchimp? For a list of up to 1,000 recipients and a Hostinger site, Reach. To start for free, or for a list above 1,000 contacts, Mailchimp or Brevo.",
           "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods it was not tested; check the cart.",
-          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+          "Can existing Hostinger customers use SONAR20? It applies to an eligible new purchase, even with an existing account. Domain registration and renewal are excluded. Bruno tested Reach 500 for 24 months; check other plans and periods at checkout."
         ]
       },
       {
@@ -158304,7 +158312,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We tested it on Reach 500 for 24 months; on the other plans, check the cart.",
+      "text": "SONAR20: 20% off the first period of an eligible new purchase. Bruno tested Reach 500 for 24 months. Check other plans and periods at checkout; domain registration and renewal are excluded.",
       "label": "See the Reach plans with SONAR20",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -158327,11 +158335,11 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Take Reach if you already have a Hostinger site and your list fits within 1,000 recipients.",
         "Take Reach Pro if you need to send messages on WhatsApp.",
-        "Take it if you send to your list at most once a week, within the plan's monthly sending limit."
+        "Take it if both the unique recipients in a month and the total of campaign and automation emails fit the plan's limits."
       ],
       "skipIf": [
         "Skip it if your list is just starting and fits in the free plan of Mailchimp or Brevo.",
-        "Skip it if your list is past 1,000 contacts or if you send to everyone more than 7 times a month."
+        "Skip it if the unique recipients or the total of monthly emails exceed the plan's limits."
       ]
     }
   },
@@ -158531,7 +158539,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Vale la pena** para quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. Grow cubre una lista de hasta 500 con automatizaciones; Pro, una de hasta 1.000 y WhatsApp. La renovación de Grow (2,49 US$ al mes) y de Pro (3,99 US$ al mes) entra en la decisión, así que revísala antes de pagar.",
           "**Quédate en el plan gratis de Mailchimp o de Brevo** si la lista está empezando y aún no sabes si vas a enviar correos con frecuencia. Reach no tiene plan gratis.",
-          "**Ve a Mailchimp o Brevo** si la lista pasa de 1.000 contactos o si necesitas más de 7 envíos al mes a toda la lista: los planes de Reach llegan hasta 1.000 destinatarios y 7.000 correos al mes.",
+          "**Ve a Mailchimp o Brevo** si la lista pasa de 1.000 contactos o si el total de correos del mes, con automatizaciones incluidas, supera los 7.000 del Pro. Los planes de Reach llegan hasta 1.000 destinatarios.",
           "Si fuera para mi sitio, elegiría Reach Grow, porque cubre una lista de hasta 500 con automatizaciones y renueva a 2,49 US$ al mes."
         ]
       },
@@ -158545,7 +158553,7 @@ export const reviewsData: unknown[] = [
           "¿Qué es Reach 500? Es el nombre que Grow tiene en el carrito de Hostinger, por su límite de 500 destinatarios. Envía 3.500 correos al mes.",
           "¿Hostinger Reach o Mailchimp? Para una lista de hasta 1.000 destinatarios y un sitio en Hostinger, Reach. Para empezar gratis o para una lista de más de 1.000 contactos, Mailchimp o Brevo.",
           "¿El código SONAR20 vale en Hostinger Reach? Vale: en la prueba de Bruno, el descuento se aplicó al Reach 500 de 24 meses. En los otros planes y períodos no se probó; revisa el carrito.",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Puede aplicarse a una compra nueva elegible, incluso con cuenta existente. El registro de dominio y la renovación quedan fuera. Bruno probó Reach 500 de 24 meses; para otros planes y períodos, revisa el carrito."
         ]
       },
       {
@@ -158558,7 +158566,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. Lo probamos en Reach 500 de 24 meses; en los demás planes, revisa el carrito.",
+      "text": "SONAR20: 20% en el primer período de una compra nueva elegible. Bruno probó Reach 500 de 24 meses. Revisa los demás planes y períodos en el carrito; el registro de dominio y la renovación quedan fuera.",
       "label": "Ver los planes de Reach con el SONAR20",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -158581,11 +158589,11 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Elige Reach si ya tienes un sitio en Hostinger y tu lista cabe en hasta 1.000 destinatarios.",
         "Elige Reach Pro si necesitas enviar mensajes por WhatsApp.",
-        "Elígelo si envías a tu lista como máximo una vez por semana, dentro del límite mensual de envío del plan."
+        "Elígelo si los destinatarios únicos del mes y el total de correos de campañas y automatizaciones caben en los límites mensuales del plan."
       ],
       "skipIf": [
         "Déjalo si la lista está empezando y cabe en el plan gratis de Mailchimp o de Brevo.",
-        "Déjalo si la lista pasa de 1.000 contactos o si envías a todos más de 7 veces al mes."
+        "Déjalo si los destinatarios únicos o los correos del mes superan los límites del plan elegido."
       ]
     }
   },
@@ -158785,7 +158793,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Ça vaut le coup** pour qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Grow couvre une liste jusqu'à 500 avec des automatisations ; Pro, une liste jusqu'à 1 000 et WhatsApp. Le renouvellement de Grow (2,49 US$ par mois) et de Pro (3,99 US$ par mois) fait partie de la décision : vérifiez-le avant de payer.",
           "**Restez sur le forfait gratuit de Mailchimp ou de Brevo** si la liste débute et que vous ne savez pas encore si vous enverrez des e-mails souvent. Reach n'a pas de forfait gratuit.",
-          "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou s'il vous faut plus de 7 envois par mois à toute la liste : les forfaits Reach s'arrêtent à 1 000 destinataires et 7 000 e-mails par mois.",
+          "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou si le total des e-mails du mois, automatisations comprises, dépasse les 7 000 du Pro. Les forfaits Reach s'arrêtent à 1 000 destinataires.",
           "Si c'était pour mon site, je prendrais Reach Grow, parce qu'il couvre une liste jusqu'à 500 avec des automatisations et se renouvelle à 2,49 US$ par mois."
         ]
       },
@@ -158799,7 +158807,7 @@ export const reviewsData: unknown[] = [
           "Qu'est-ce que Reach 500 ? C'est le nom que prend Grow dans le panier Hostinger, d'après sa limite de 500 destinataires. Il envoie 3 500 e-mails par mois.",
           "Hostinger Reach ou Mailchimp ? Pour une liste allant jusqu'à 1 000 destinataires et un site chez Hostinger, Reach. Pour démarrer gratuitement ou pour une liste de plus de 1 000 contacts, Mailchimp ou Brevo.",
           "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Oui : lors du test de Bruno, la réduction s'est appliquée à Reach 500 pour 24 mois. Pour les autres forfaits et périodes, il n'a pas été testé ; vérifiez le panier.",
-          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Il s'applique à un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus. Bruno a testé Reach 500 pour 24 mois ; pour les autres forfaits et périodes, vérifiez au panier."
         ]
       },
       {
@@ -158812,7 +158820,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous l'avons testé sur Reach 500 pour 24 mois ; pour les autres forfaits, vérifiez dans le panier.",
+      "text": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Bruno a testé Reach 500 pour 24 mois. Vérifiez les autres forfaits et périodes au panier ; l'enregistrement de domaine et le renouvellement sont exclus.",
       "label": "Voir les forfaits Reach avec le SONAR20",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -158835,11 +158843,11 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Prenez Reach si vous avez déjà un site chez Hostinger et que votre liste tient dans 1 000 destinataires.",
         "Prenez Reach Pro si vous avez besoin d'envoyer des messages sur WhatsApp.",
-        "Prenez-le si vous écrivez à votre liste au plus une fois par semaine, dans la limite d'envoi mensuelle du forfait."
+        "Prenez-le si les destinataires uniques du mois et le total des e-mails de campagnes et d'automatisations respectent les limites mensuelles du forfait."
       ],
       "skipIf": [
         "Passez votre chemin si la liste débute et tient dans le forfait gratuit de Mailchimp ou de Brevo.",
-        "Passez votre chemin si la liste dépasse 1 000 contacts ou si vous écrivez à tout le monde plus de 7 fois par mois."
+        "Passez votre chemin si les destinataires uniques ou les e-mails du mois dépassent les limites du forfait choisi."
       ]
     }
   },
@@ -159042,7 +159050,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Conviene** a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Il Grow copre una lista fino a 500 con automazioni; il Pro, una fino a 1.000 e WhatsApp. Il rinnovo del Grow (2,49 US$ al mese) e del Pro (3,99 US$ al mese) fa parte della decisione: controllalo prima di pagare.",
           "**Resta sul piano gratuito di Mailchimp o di Brevo** se la lista è all'inizio e non sai ancora se manderai email spesso. Reach non ha un piano gratuito.",
-          "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se ti servono più di 7 invii al mese a tutta la lista: i piani Reach si fermano a 1.000 destinatari e 7.000 email al mese.",
+          "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se il totale delle email del mese, automazioni incluse, supera i 7.000 del Pro. I piani Reach si fermano a 1.000 destinatari.",
           "Se fosse per il mio sito, sceglierei il Reach Grow, perché copre una lista fino a 500 con automazioni e si rinnova a 2,49 US$ al mese."
         ]
       },
@@ -159056,7 +159064,7 @@ export const reviewsData: unknown[] = [
           "Cos'è il Reach 500? È il nome che il Grow ha nel carrello di Hostinger, per il limite di 500 destinatari. Invia 3.500 email al mese.",
           "Hostinger Reach o Mailchimp? Per una lista fino a 1.000 destinatari e un sito su Hostinger, Reach. Per partire gratis o per una lista oltre i 1.000 contatti, Mailchimp o Brevo.",
           "Il codice SONAR20 vale per Hostinger Reach? Sì: nel test di Bruno, lo sconto è stato applicato al Reach 500 da 24 mesi. Sugli altri piani e periodi non è stato testato; controlla nel carrello.",
-          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+          "SONAR20 vale per chi è già cliente di Hostinger? Vale su un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo restano esclusi. Bruno ha testato Reach 500 da 24 mesi; per gli altri piani e periodi, controlla nel carrello."
         ]
       },
       {
@@ -159069,7 +159077,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Abbiamo testato il codice con Reach 500 per 24 mesi; per gli altri piani, controlla nel carrello.",
+      "text": "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Bruno ha testato Reach 500 da 24 mesi. Controlla gli altri piani e periodi nel carrello; registrazione di dominio e rinnovo sono esclusi.",
       "label": "Vedi i piani Reach con il SONAR20",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -159092,11 +159100,11 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Scegli Reach se hai già un sito su Hostinger e la lista sta entro i 1.000 destinatari.",
         "Scegli Reach Pro se ti serve inviare messaggi su WhatsApp.",
-        "Scegli Reach se scrivi alla lista al massimo una volta a settimana, entro il limite mensile di invio del piano."
+        "Scegli Reach se i destinatari unici del mese e il totale delle email di campagne e automazioni rientrano nei limiti mensili del piano."
       ],
       "skipIf": [
         "Lascia stare se la lista è all'inizio e sta nel piano gratuito di Mailchimp o di Brevo.",
-        "Lascia stare se la lista supera i 1.000 contatti o se scrivi a tutti più di 7 volte al mese."
+        "Lascia stare se i destinatari unici o le email del mese superano i limiti del piano scelto."
       ]
     }
   },
@@ -159299,7 +159307,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Es lohnt sich** für alle, die schon eine Hostinger-Website und eine Liste mit bis zu 1.000 Empfängern haben. Der Grow deckt eine Liste bis 500 mit Automatisierungen ab; der Pro eine bis 1.000 und WhatsApp. Die Verlängerung von Grow (2,49 US$ im Monat) und Pro (3,99 US$ im Monat) gehört zur Entscheidung; prüfen Sie sie, bevor Sie zahlen.",
           "**Bleiben Sie beim kostenlosen Tarif von Mailchimp oder Brevo**, wenn die Liste gerade erst beginnt und Sie noch nicht wissen, ob Sie oft E-Mails verschicken werden. Reach hat keinen kostenlosen Tarif.",
-          "**Gehen Sie zu Mailchimp oder Brevo**, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn Sie mehr als 7 Sendungen im Monat an die ganze Liste brauchen: Die Reach-Tarife enden bei 1.000 Empfängern und 7.000 E-Mails im Monat.",
+          "**Gehen Sie zu Mailchimp oder Brevo**, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn die E-Mails im Monat, Automationen eingerechnet, die 7.000 des Pro überschreiten. Die Reach-Tarife enden bei 1.000 Empfängern.",
           "Wäre es für meine Website, würde ich den Reach Grow nehmen, weil er eine Liste bis 500 mit Automatisierungen abdeckt und sich für 2,49 US$ im Monat verlängert."
         ]
       },
@@ -159313,7 +159321,7 @@ export const reviewsData: unknown[] = [
           "Was ist Reach 500? Das ist der Name des Grow-Tarifs im Hostinger-Warenkorb, nach dem Limit von 500 Empfängern. Er verschickt 3.500 E-Mails im Monat.",
           "Hostinger Reach oder Mailchimp? Für eine Liste bis 1.000 Empfänger und eine Hostinger-Website: Reach. Für einen kostenlosen Start oder eine Liste über 1.000 Kontakte: Mailchimp oder Brevo.",
           "Gilt der Code SONAR20 bei Hostinger Reach? Ja: In Brunos Test wurde der Rabatt beim Reach 500 über 24 Monate angewendet. Bei den anderen Tarifen und Zeiträumen wurde er nicht getestet; prüfen Sie im Warenkorb.",
-          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Bei einem berechtigten Neukauf gilt er auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen. Bruno testete Reach 500 für 24 Monate; andere Tarife und Laufzeiten prüfen Sie im Warenkorb."
         ]
       },
       {
@@ -159326,7 +159334,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder nutzen Sie den Link: 20 % im ersten Zeitraum. Getestet haben wir ihn mit Reach 500 über 24 Monate; bei den anderen Tarifen prüfen Sie den Warenkorb.",
+      "text": "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. Bruno testete Reach 500 für 24 Monate. Andere Tarife und Laufzeiten prüfen Sie im Warenkorb; Domainregistrierung und Verlängerung sind ausgeschlossen.",
       "label": "Die Reach-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -159349,11 +159357,11 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Nehmen Sie Reach, wenn Sie schon eine Hostinger-Website haben und Ihre Liste in 1.000 Empfänger passt.",
         "Nehmen Sie Reach Pro, wenn Sie Nachrichten über WhatsApp verschicken müssen.",
-        "Nehmen Sie es, wenn Sie Ihre Liste höchstens einmal pro Woche anschreiben, innerhalb des monatlichen Versandlimits des Tarifs."
+        "Nehmen Sie es, wenn die eindeutigen Empfänger im Monat und alle Kampagnen- und Automatisierungs-E-Mails zusammen in die Monatslimits des Tarifs passen."
       ],
       "skipIf": [
         "Lassen Sie es, wenn die Liste gerade erst beginnt und in den kostenlosen Tarif von Mailchimp oder Brevo passt.",
-        "Lassen Sie es, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn Sie alle öfter als 7-mal im Monat anschreiben."
+        "Lassen Sie es, wenn die eindeutigen Empfänger oder E-Mails im Monat die Grenzen des gewählten Tarifs überschreiten."
       ]
     }
   },
@@ -159556,7 +159564,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**使う価値あり。** Hostinger のサイトをすでにお持ちで、宛先が1,000件までなら。Grow は自動化つきで500件まで、Pro は WhatsApp つきで1,000件まで使えます。12か月の月額は Grow が US$ 1.74、Pro が US$ 2.79で、更新時は US$ 2.49 と US$ 3.99 です。",
           "**Mailchimp か Brevo の無料プランのままに。** リストが始まったばかりで、どのくらいの頻度で送るか決めていないなら。Reach には国際サイトでも無料プランがありません。",
-          "**Mailchimp か Brevo へ。** リストが1,000件を超える、またはリスト全体への送信が月に7回を超えるなら。Reach のプランは1,000件・月7,000通で終わります。",
+          "**Mailchimp か Brevo へ。** リストが1,000件を超える、または月の総メール数（自動配信を含む）がProの7,000通を超えるなら。Reach のプランは1,000件で終わります。",
           "自分のサイトに使うなら、Reach Grow を選びます。500件までのリストに自動化がつき、更新時も月 US$ 2.49 だからです。"
         ]
       },
@@ -159570,7 +159578,7 @@ export const reviewsData: unknown[] = [
           "Reach 500 とは何？ カートで Grow に付いている名前で、宛先500件の上限を指します。月3,500通送れます。",
           "Hostinger Reach と Mailchimp、どちらが良い？ 宛先が1,000件までなら Reach です。無料で始めたい、またはリストがもっと大きいなら Mailchimp か Brevo です。",
           "SONAR20 は Hostinger Reach でも使える？ 使えます。Bruno が試した Reach 500 の24か月プランで、割引が反映されました。ほかのプランや期間は試していないので、カートで確認してください。",
-          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
+          "SONAR20は既存のHostingerのお客様でも使えますか？ 既存アカウントでも、対象となる新規購入なら使えます。ドメイン登録と更新は対象外です。BrunoがReach 500の24か月で試しました。ほかのプランや期間はカートで確認してください。"
         ]
       },
       {
@@ -159583,7 +159591,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。Reach 500 の24か月で試しました。ほかのプランはカートで確認してください。",
+      "text": "SONAR20：対象となる新規購入の最初の期間が20%割引です。BrunoがReach 500の24か月で確認しました。ほかのプランや期間はカートで確認してください。ドメイン登録と更新は対象外です。",
       "label": "SONAR20 で Reach のプランを見る",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -159606,11 +159614,11 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Hostinger のサイトがあり、リストが1,000件までなら、Reach を選びます。",
         "WhatsApp でメッセージを送る必要があるなら、Reach Pro を選びます。",
-        "リストへの送信が週1回までで、プランの月間送信上限に収まるなら、選びます。"
+        "月に送る異なる宛先数と、キャンペーン・自動配信の合計通数が、どちらもプランの上限内なら検討できます。"
       ],
       "skipIf": [
         "リストが始まったばかりで、Mailchimp か Brevo の無料プランに収まるなら、見送ります。",
-        "リストが1,000件を超える、またはリスト全体に月7回より多く送るなら、見送ります。"
+        "月に送る異なる宛先数や送信通数が、Reach の最上位プラン（Pro）の上限を超えるなら、見送ります。"
       ]
     }
   },
@@ -159812,7 +159820,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**쓸 만합니다.** Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면. Grow는 500명까지 자동화를 제공하고, Pro는 1,000명과 WhatsApp을 제공합니다. 12개월 동안 월 US$ 1.74와 US$ 2.79이고, 갱신 시 US$ 2.49와 US$ 3.99입니다.",
           "**Mailchimp나 Brevo의 무료 플랜에 머무르세요.** 리스트가 막 시작했고 메일을 얼마나 자주 보낼지 아직 모른다면. Reach에는 국제 사이트에서도 무료 플랜이 없습니다.",
-          "**Mailchimp나 Brevo로 가세요.** 리스트가 1,000명을 넘거나 한 달에 전체 리스트로 7번보다 많이 보내야 할 때. Reach 플랜은 수신자 1,000명과 월 7,000통에서 멈춥니다.",
+          "**Mailchimp나 Brevo로 가세요.** 리스트가 1,000명을 넘거나, 자동화 메일을 포함한 한 달 메일 총량이 Pro 7,000통을 넘을 때. Reach 플랜은 수신자 1,000명에서 멈춥니다.",
           "제 사이트라면 Reach Grow를 고릅니다. 500명까지의 리스트에 자동화가 붙고, 갱신해도 월 US$ 2.49이기 때문입니다."
         ]
       },
@@ -159826,7 +159834,7 @@ export const reviewsData: unknown[] = [
           "Reach 500은 무엇인가요? 장바구니에서 Grow 플랜을 부르는 이름으로, 수신자 500명 한도를 뜻합니다. 월 3,500통을 보냅니다.",
           "Hostinger Reach와 Mailchimp 중 무엇이 나은가요? 수신자가 1,000명 이하라면 Reach입니다. 무료로 시작하고 싶거나 리스트가 더 크다면 Mailchimp나 Brevo입니다.",
           "SONAR20이 Hostinger Reach에도 적용되나요? 적용됩니다. Bruno가 Reach 500 24개월 플랜으로 테스트했더니 할인이 적용됐습니다. 다른 플랜과 기간은 테스트하지 않았으니 장바구니에서 확인하세요.",
-          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
+          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 기존 계정이 있어도 대상이 되는 신규 구매에는 쓸 수 있습니다. 도메인 등록과 갱신은 제외됩니다. Bruno가 Reach 500 24개월 플랜으로 확인했습니다. 다른 플랜과 기간은 장바구니에서 확인하세요."
         ]
       },
       {
@@ -159839,7 +159847,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요: 첫 기간 20% 할인. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. Reach 500 24개월은 테스트했고, 다른 플랜은 장바구니에서 확인하세요.",
+      "text": "SONAR20: 대상 신규 구매의 첫 기간 20% 할인. Bruno가 Reach 500 24개월로 확인했습니다. 다른 플랜과 기간은 장바구니에서 확인하세요. 도메인 등록과 갱신은 제외됩니다.",
       "label": "SONAR20로 Reach 플랜 보기",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -159863,11 +159871,11 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Hostinger에 사이트가 있고 리스트가 1,000명 이하라면 Reach를 고르세요.",
         "WhatsApp으로 메시지를 보내야 한다면 Reach Pro를 고르세요.",
-        "리스트에 주 1회까지만 보내고 플랜의 월 발송 한도 안에 들어간다면 고르세요."
+        "월간 고유 수신자 수와 캠페인·자동화 메일의 합계가 모두 플랜 한도 안에 들면 검토하세요."
       ],
       "skipIf": [
         "리스트가 막 시작했고 Mailchimp나 Brevo의 무료 플랜 안에 들어간다면 넘기세요.",
-        "리스트가 1,000명을 넘거나 전체 리스트에 한 달에 8회 이상 보낸다면 넘기세요."
+        "월간 고유 수신자 수나 메일 총량이 Reach 최상위 플랜(Pro)의 한도를 넘는다면 넘기세요."
       ]
     }
   },
@@ -160069,7 +160077,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**值得用：** 如果你已在 Hostinger 有网站，且收件人在 1,000 人以内。Grow 为 500 人提供自动化，Pro 支持 1,000 人并包含 WhatsApp。首 12 个月每月分别是 US$ 1.74 和 US$ 2.79，续费分别是 US$ 2.49 和 US$ 3.99。",
           "**先用免费版：** 如果名单刚起步，而且你还不确定会多频繁地发邮件，就留在 Mailchimp 或 Brevo 的免费版。Reach 在国际站上也没有免费版。",
-          "**选 Mailchimp 或 Brevo：** 如果名单超过 1,000 人，或者你每月要给整个名单发送超过 7 次邮件。Reach 套餐在 1,000 名收件人和每月 7,000 封邮件处停止。",
+          "**选 Mailchimp 或 Brevo：** 如果名单超过 1,000 人，或者当月邮件总数（含自动化）超过 Pro 的 7,000 封。Reach 套餐在 1,000 名收件人处停止。",
           "如果是我自己的网站，我会选 Reach Grow：它为 500 人以内的名单提供自动化，续费后每月也只要 US$ 2.49。"
         ]
       },
@@ -160083,7 +160091,7 @@ export const reviewsData: unknown[] = [
           "Reach 500 是什么？它是购物车中 Grow 套餐的名称，对应 500 名收件人的上限，每月 3,500 封邮件。",
           "Hostinger Reach 还是 Mailchimp？如果收件人在 1,000 人以内，选 Reach。如果想免费开始，或名单超过 1,000 人，选 Mailchimp 或 Brevo。",
           "SONAR20 适用于 Hostinger Reach 吗？适用。Bruno 用 Reach 500 的 24 个月套餐测试过，折扣已生效。其他套餐和周期没有测试，请在购物车确认。",
-          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+          "已有 Hostinger 账户的客户也能用 SONAR20 吗？符合条件的新购即使已有账户也可以适用。域名注册和续费不适用。Bruno 测试了 Reach 500 的 24 个月套餐；其他套餐和周期请在购物车确认。"
         ]
       },
       {
@@ -160096,7 +160104,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们测试过 Reach 500 的 24 个月套餐；其他套餐请在购物车确认。",
+      "text": "SONAR20：符合条件的新购首个周期优惠 20%。Bruno 测试了 Reach 500 的 24 个月套餐。其他套餐和周期请在购物车确认；域名注册和续费除外。",
       "label": "通过 SONAR20 查看 Reach 套餐",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -160120,11 +160128,11 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "如果你已在 Hostinger 有网站，且名单在 1,000 人以内，就选 Reach。",
         "如果需要用 WhatsApp 发消息，就选 Reach Pro。",
-        "如果给名单每周最多发一次，且在套餐的每月发送上限之内，就选它。"
+        "当月不同收件人数与营销活动、自动邮件的总封数都在套餐额度内时，可以考虑该套餐。"
       ],
       "skipIf": [
         "如果名单刚起步，在 Mailchimp 或 Brevo 的免费版额度内，就先不选。",
-        "如果名单超过 1,000 人，或每月要给整个名单发送超过 7 次，就不选。"
+        "如果当月不同收件人数或邮件总封数超过 Reach 最高套餐（Pro）的额度，就不选。"
       ]
     }
   },
@@ -160326,7 +160334,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**值得用：** 如果你已在 Hostinger 有網站，且收件人在 1,000 人以內。Grow 為 500 人提供自動化，Pro 支援 1,000 人並含 WhatsApp。前 12 個月每月分別是 US$ 1.74 和 US$ 2.79，續訂分別是 US$ 2.49 和 US$ 3.99。",
           "**先用免費版：** 如果名單剛起步，而且你還不確定會多頻繁地寄信，就留在 Mailchimp 或 Brevo 的免費版。Reach 在國際站上也沒有免費版。",
-          "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者你每月要給整個名單寄送超過 7 次郵件。Reach 方案在 1,000 位收件人和每月 7,000 封郵件處停止。",
+          "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者當月郵件總數（含自動化）超過 Pro 的 7,000 封。Reach 方案在 1,000 位收件人處停止。",
           "如果是我自己的網站，我會選 Reach Grow：它為 500 人以內的名單提供自動化，續訂後每月也只要 US$ 2.49。"
         ]
       },
@@ -160340,7 +160348,7 @@ export const reviewsData: unknown[] = [
           "Reach 500 是什麼？它是購物車中 Grow 方案的名稱，對應 500 位收件人的上限，每月 3,500 封郵件。",
           "Hostinger Reach 還是 Mailchimp？如果收件人在 1,000 人以內，選 Reach。如果想免費開始，或名單超過 1,000 人，選 Mailchimp 或 Brevo。",
           "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間沒有測試，請在購物車確認。",
-          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
+          "已有 Hostinger 帳號的客戶也能用 SONAR20 嗎？符合條件的新購即使已有帳號也可以適用。網域註冊和續訂不適用。Bruno 測試了 Reach 500 的 24 個月方案；其他方案和期間請在購物車確認。"
         ]
       },
       {
@@ -160353,7 +160361,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們測試過 Reach 500 的 24 個月方案；其他方案請在購物車確認。",
+      "text": "SONAR20：符合條件的新購首期優惠 20%。Bruno 測試了 Reach 500 的 24 個月方案。其他方案和期間請在購物車確認；網域註冊和續訂除外。",
       "label": "用 SONAR20 查看 Reach 方案",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -160377,11 +160385,11 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "如果你已在 Hostinger 有網站，且名單在 1,000 人以內，就選 Reach。",
         "如果需要用 WhatsApp 發訊息，就選 Reach Pro。",
-        "如果對名單每週最多寄一次，且在方案的每月寄送上限之內，就選它。"
+        "當月不同收件人數與行銷活動、自動郵件的總封數都在方案額度內時，可以考慮該方案。"
       ],
       "skipIf": [
         "如果名單剛起步，在 Mailchimp 或 Brevo 的免費版額度內，就先不選。",
-        "如果名單超過 1,000 人，或每月要給整個名單寄超過 7 次，就不選。"
+        "如果當月不同收件人數或郵件總封數超過 Reach 最高方案（Pro）的額度，就不選。"
       ]
     }
   },
@@ -184893,7 +184901,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Ao contratar um plano novo, use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% de desconto na compra.",
+      "text": "Ao contratar um novo plano elegível, aplique SONAR20 no carrinho para 20% de desconto na compra. O código não se aplica à renovação nem a domínios; confira o total antes de pagar.",
       "label": "Ver os planos da Hostinger com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -184994,7 +185002,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Conta nossa, pelos preços da tabela: renovar o Premium por mais 48 meses custa R$ 1.871,52, quase quatro vezes o que se pagou no primeiro período.",
-          "Na dúvida entre dois planos, compare pela coluna da renovação, não pela de entrada: é nela que o orçamento fica depois do primeiro período. A página oferece o total em até 12 parcelas na compra; para a renovação, ela não diz, então não conte com parcelas antes de ver as formas de pagamento no resumo."
+          "Compare o custo total do primeiro período com o da renovação para o prazo que pretende manter, além dos recursos de que precisa. No exemplo da tabela, a renovação muda bastante o orçamento. A página oferece o total em até 12 parcelas na compra; na renovação, confira as formas de pagamento no resumo antes de contar com parcelamento."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-pt.webp",
@@ -185046,7 +185054,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Desligar não muda o estado do serviço: ele fica ativo até o vencimento e não é cobrado de novo. O que já foi cobrado não volta por esse caminho; o reembolso tem regra própria, no capítulo seguinte. No plano mensal com fatura pendente, a fatura é cancelada e a assinatura vence no fim do ciclo. Com fatura paga em parte, com créditos aplicados ou com ciclo de um ano ou mais, pode ser preciso falar com o suporte, pelo assistente de IA da Hostinger.",
-          "Dois detalhes pesam na decisão. Para trocar o prazo do plano na renovação, a renovação automática precisa estar ligada. E, se o plano vencer, o aviso no cartão dele diz que os sites saem do ar. Na dúvida, desligue a chave só quando já tiver decidido não renovar."
+          "Para trocar o prazo do plano na renovação, a renovação automática precisa estar ligada. Se o plano vencer, os sites podem sair do ar, como avisa o cartão do serviço. Escolha entre manter a cobrança automática ou renovar manualmente, considerando o preço e a data; se desligar a chave e quiser continuar, programe a renovação antes do vencimento."
         ]
       },
       {
@@ -185073,7 +185081,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domínio fica de fora",
         "paragraphs": [
-          "O domínio não tem reembolso na renovação e também não leva o SONAR20, então ele pede uma decisão separada. A renovação dele tem chave própria, na área de domínios do painel, e é cobrada 27 dias antes do vencimento. Só o registro novo tem um prazo curto de reembolso, de 96 horas em geral, conforme a extensão (168 horas no .br); a renovação não tem nenhum.",
+          "O domínio pede uma decisão separada: a renovação não recebe SONAR20 e fica fora do reembolso padrão. Ela tem chave própria na área de domínios do painel, com cobrança prevista 27 dias antes do vencimento. Para um registro novo, o prazo depende da extensão (96 horas em geral; 168 horas no .br) e das condições da política, então não aplique esse prazo a todo domínio.",
           "Decida o domínio antes dessa cobrança: veja o preço, veja se ele precisa ficar nesse registrador e só então deixe renovar. Os caminhos de registrar, transferir ou deixar o domínio fora estão em [domínio na Hostinger](/reviews/dominio-hostinger-comprar-transferir-ou-fora)."
         ]
       },
@@ -185090,7 +185098,7 @@ export const reviewsData: unknown[] = [
           "Trate o domínio à parte, com preço e decisão próprios."
         ],
         "postParagraphs": [
-          "Na dúvida, deixe a renovação automática ligada no que você usa e desligue só no que já decidiu deixar."
+          "Mantenha a renovação automática nos serviços que quer continuar pagando pelo preço informado. Se preferir decidir a cada cobrança, desligue a chave e anote o prazo para renovar manualmente. Confira cada serviço, incluindo os domínios."
         ],
         "emphasis": "Renovação se decide com calma, antes de a cobrança chegar, e não no dia do vencimento."
       },
@@ -185099,7 +185107,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O cupom da Hostinger vale na renovação? Não: o SONAR20 dá 20% numa compra nova, e a renovação sai pelo preço da tabela. O capítulo do SONAR20 explica onde o código entra.",
           "Como cancelar a renovação automática da Hostinger? Em Faturamento, Assinaturas, desligue a chave do serviço; ele segue ativo até o vencimento. O passo a passo está no capítulo de como desligar.",
-          "A Hostinger reembolsa a renovação? Sim, em até 30 dias da cobrança, na hospedagem e no VPS KVM; a renovação de domínio não tem reembolso. As exceções estão no capítulo do reembolso.",
+          "A Hostinger reembolsa a renovação? Sim, em até 30 dias da cobrança, na hospedagem e no VPS KVM elegíveis; a renovação de domínio não tem reembolso. As exceções estão no capítulo do reembolso.",
           "Quando a Hostinger cobra a renovação automática? No plano anual, 14 dias antes do vencimento; no mensal, no dia do vencimento. O domínio tem prazo próprio, no capítulo de quando a Hostinger cobra.",
           "O que acontece se o plano da Hostinger vencer? Os sites saem do ar, como avisa o cartão do plano. Para não chegar a isso, renove antes do vencimento ou deixe a renovação automática ligada."
         ]
@@ -185163,7 +185171,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "When you buy a new plan, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the purchase.",
+      "text": "For an eligible new plan, enter SONAR20 in the cart for 20% off the purchase. The code does not apply to renewals or domains; check the total before paying.",
       "label": "See Hostinger plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -185257,7 +185265,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Our math: from the table prices, renewing Premium for another 48 months costs US$ 527.52 (48 × 10.99), more than five times the US$ 95.52 of the first period.",
-          "If you are torn between two plans, compare them by the renewal column, not the entry one: that is where your budget ends up after the first period."
+          "Compare the total cost of the first term with renewal for the term you expect to keep, alongside the features you need. The table shows how much the ongoing budget can change; check the renewal amount and payment options in your account before deciding."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-en.webp",
@@ -185309,7 +185317,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Switching it off does not change the service's state: it stays active until the due date and is not charged again. What has already been charged does not come back this way; refunds have their own rule, in the next section. On a monthly plan with an unpaid invoice, the invoice is cancelled and the subscription ends at the close of the cycle. With a partly paid invoice, applied credits or a cycle of a year or more, you may need to talk to support, through Hostinger's AI assistant.",
-          "Two details weigh on the decision. To change the plan's term at renewal, auto-renewal has to be on. And if the plan expires, the notice on its card says the sites go offline. When in doubt, switch the toggle off only once you have decided not to renew."
+          "Auto-renew must be on to change the plan term at renewal. If the plan expires, its websites can go offline, as the plan card warns. Choose automatic billing or manual renewal based on the price and charge date. If you turn it off but want to keep the service, schedule manual renewal before expiry."
         ]
       },
       {
@@ -185336,7 +185344,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "The domain is left out",
         "paragraphs": [
-          "The domain has no refund on renewal and does not take SONAR20 either, so it calls for a separate decision. Its renewal has its own toggle, in the domains area of the panel, and is charged 27 days before it is due. Only a new registration has a short refund window, of 96 hours in general, depending on the extension; renewal has none.",
+          "The domain needs a separate decision: renewal is excluded from SONAR20 and from standard refunds. It has its own switch in the domains area of the panel, with billing scheduled 27 days before expiry. For a new registration, the refund window depends on the extension (96 hours in general) and the policy conditions, so do not apply it to every domain.",
           "Decide on the domain before that charge: check the price, check whether it has to stay with this registrar and only then let it renew. The paths for registering, transferring or leaving the domain out are in [domain at Hostinger](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere)."
         ]
       },
@@ -185353,7 +185361,7 @@ export const reviewsData: unknown[] = [
           "Handle the domain separately, with its own price and decision."
         ],
         "postParagraphs": [
-          "When in doubt, leave auto-renewal on for what you use and switch it off only for what you have already decided to drop."
+          "Keep auto-renew on for services you want to continue paying for at the stated price. If you prefer to decide before each charge, turn it off and set a reminder to renew manually before expiry. Check every service separately, including domains."
         ],
         "emphasis": "Renewal is something to decide calmly, before the charge arrives, not on the due date."
       },
@@ -185362,7 +185370,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Does the Hostinger coupon work on renewal? No: SONAR20 gives 20% off a new purchase, and renewal is charged at the list price. The SONAR20 section explains where the code comes in.",
           "How do I cancel Hostinger auto-renewal? Under Billing, then Subscriptions, switch off the service's toggle; it stays active until the due date. The steps are in the section on how to turn it off.",
-          "Does Hostinger refund a renewal? Yes, within 30 days of the charge, on hosting and VPS KVM; domain renewal has no refund. The exceptions are in the refund section.",
+          "Does Hostinger refund a renewal? Yes, within 30 days of the charge, on eligible hosting and VPS KVM; domain renewal has no refund. The exceptions are in the refund section.",
           "When does Hostinger charge the automatic renewal? On an annual plan, 14 days before the due date; on a monthly one, on the due date. The domain has its own deadline, in the section on when Hostinger charges.",
           "What happens if my Hostinger plan expires? The sites go offline, as the plan's card warns. To avoid that, renew before the due date or leave auto-renewal on."
         ]
@@ -185426,7 +185434,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Al contratar un plan nuevo, usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% de descuento en la compra.",
+      "text": "Al contratar un nuevo plan elegible, introduce SONAR20 en el carrito para obtener un 20% de descuento en la compra. El código no se aplica a la renovación ni a dominios; comprueba el total antes de pagar.",
       "label": "Ver los planes de Hostinger con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -185520,7 +185528,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Cuenta nuestra: con los precios de la tabla, renovar el Premium por otros 48 meses cuesta 527,52 US$ (48 × 10,99), más de cinco veces los 95,52 US$ del primer período.",
-          "Si dudas entre dos planes, compáralos por la columna de la renovación, no por la de entrada: ahí queda tu presupuesto después del primer período."
+          "Compara el coste total del primer período con el de la renovación para el plazo que quieras mantener, además de las funciones que necesitas. La tabla muestra cuánto puede cambiar el presupuesto; comprueba el importe y los medios de pago de la renovación en tu cuenta antes de decidir."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-es.webp",
@@ -185572,7 +185580,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Desactivarla no cambia el estado del servicio: sigue activo hasta el vencimiento y no se vuelve a cobrar. Lo que ya se cobró no vuelve por este camino; el reembolso tiene su propia regla, en el apartado siguiente. En el plan mensual con una factura pendiente, la factura se cancela y la suscripción vence al final del ciclo. Con una factura pagada en parte, con créditos aplicados o con un ciclo de un año o más, puede hacer falta hablar con el soporte, a través del asistente de IA de Hostinger.",
-          "Dos detalles pesan en la decisión. Para cambiar el plazo del plan en la renovación, la renovación automática tiene que estar activada. Y, si el plan vence, el aviso en su tarjeta dice que los sitios se caen. Ante la duda, desactiva el interruptor solo cuando ya hayas decidido no renovar."
+          "Para cambiar la duración del plan al renovar, la renovación automática debe estar activada. Si el plan vence, los sitios pueden quedar fuera de línea, como advierte su tarjeta. Elige entre cobro automático y renovación manual según el precio y la fecha. Si desactivas el cobro pero quieres seguir con el servicio, programa la renovación antes del vencimiento."
         ]
       },
       {
@@ -185599,7 +185607,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "El dominio queda fuera",
         "paragraphs": [
-          "El dominio no tiene reembolso en la renovación y tampoco lleva el SONAR20, así que pide una decisión aparte. Su renovación tiene un interruptor propio, en el área de dominios del panel, y se cobra 27 días antes del vencimiento. Solo el registro nuevo tiene un plazo corto de reembolso, de 96 horas por lo general, según la extensión; la renovación no tiene ninguno.",
+          "El dominio necesita una decisión aparte: la renovación queda fuera de SONAR20 y del reembolso estándar. Tiene su propio interruptor en el área de dominios del panel, con cobro previsto 27 días antes del vencimiento. En un registro nuevo, el plazo de reembolso depende de la extensión (96 horas por lo general) y de las condiciones de la política, así que las 96 horas no valen para cualquier dominio.",
           "Decide sobre el dominio antes de ese cobro: mira el precio, mira si tiene que quedarse en ese registrador y solo entonces deja que se renueve. Los caminos de registrar, transferir o dejar el dominio fuera están en [dominio en Hostinger](/es/reviews/dominio-hostinger-comprar-o-transferir)."
         ]
       },
@@ -185616,7 +185624,7 @@ export const reviewsData: unknown[] = [
           "Trata el dominio aparte, con su precio y su decisión."
         ],
         "postParagraphs": [
-          "Ante la duda, deja la renovación automática activada en lo que usas y desactívala solo en lo que ya decidiste dejar."
+          "Mantén la renovación automática en los servicios que quieras seguir pagando al precio indicado. Si prefieres decidir antes de cada cobro, desactívala y anota el plazo para renovar manualmente. Revisa cada servicio por separado, incluidos los dominios."
         ],
         "emphasis": "La renovación se decide con calma, antes de que llegue el cobro, y no el día del vencimiento."
       },
@@ -185625,7 +185633,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿El cupón de Hostinger vale en la renovación? No: el SONAR20 da 20% en una compra nueva, y la renovación sale al precio de lista. El apartado del SONAR20 explica dónde entra el código.",
           "¿Cómo cancelar la renovación automática de Hostinger? En Facturación, Suscripciones, desactiva el interruptor del servicio; sigue activo hasta el vencimiento. El paso a paso está en el apartado de cómo desactivarla.",
-          "¿Hostinger reembolsa la renovación? Sí, dentro de los 30 días del cobro, en hosting y en VPS KVM; la renovación de dominio no tiene reembolso. Las excepciones están en el apartado del reembolso.",
+          "¿Hostinger reembolsa la renovación? Sí, dentro de los 30 días del cobro, en hosting y en VPS KVM elegibles; la renovación de dominio no tiene reembolso. Las excepciones están en el apartado del reembolso.",
           "¿Cuándo cobra Hostinger la renovación automática? En el plan anual, 14 días antes del vencimiento; en el mensual, el día del vencimiento. El dominio tiene su propio plazo, en el apartado de cuándo cobra Hostinger.",
           "¿Qué pasa si vence mi plan de Hostinger? Los sitios se caen, como avisa la tarjeta del plan. Para no llegar a eso, renueva antes del vencimiento o deja la renovación automática activada."
         ]
@@ -185689,7 +185697,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "En souscrivant un nouveau forfait, saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % de réduction sur l'achat.",
+      "text": "Pour un nouveau forfait éligible, saisissez SONAR20 dans le panier pour obtenir 20 % de réduction sur l'achat. Le code ne s'applique ni aux renouvellements ni aux domaines ; vérifiez le total avant de payer.",
       "label": "Voir les forfaits Hostinger avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -185783,7 +185791,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Notre calcul : d'après les prix du tableau, renouveler Premium pour 48 mois de plus coûte 527,52 US$ (48 × 10,99), soit plus de cinq fois les 95,52 US$ de la première période.",
-          "Si vous hésitez entre deux forfaits, comparez-les par la colonne du renouvellement, pas par celle du prix d'appel : c'est là que se joue votre budget après la première période."
+          "Comparez le coût total de la première période et celui du renouvellement pour la durée souhaitée, ainsi que les fonctions nécessaires. Le tableau montre l'écart possible dans le budget ; vérifiez le montant et les moyens de paiement du renouvellement dans votre compte avant de choisir."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-fr.webp",
@@ -185835,7 +185843,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Le désactiver ne change pas l'état du service : il reste actif jusqu'à l'échéance et n'est plus débité. Ce qui a déjà été prélevé ne revient pas par ce chemin ; le remboursement a sa propre règle, dans la section suivante. Sur un forfait mensuel avec une facture en attente, la facture est annulée et l'abonnement prend fin à la fin du cycle. Avec une facture partiellement payée, des crédits appliqués ou un cycle d'un an ou plus, il peut falloir contacter le support, via l'assistant IA de Hostinger.",
-          "Deux détails pèsent dans la décision. Pour changer la durée du forfait au renouvellement, le renouvellement automatique doit être activé. Et si le forfait arrive à échéance, l'avertissement sur sa carte indique que les sites sont mis hors ligne. Dans le doute, ne coupez l'interrupteur que lorsque vous avez décidé de ne pas renouveler."
+          "Le renouvellement automatique doit être actif pour modifier la durée du forfait au renouvellement. À l'expiration, les sites peuvent devenir indisponibles, comme l'indique la fiche du forfait. Choisissez le prélèvement automatique ou le renouvellement manuel selon le prix et la date. Si vous désactivez l'option mais souhaitez conserver le service, programmez son renouvellement avant l'échéance."
         ]
       },
       {
@@ -185862,7 +185870,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le domaine reste à part",
         "paragraphs": [
-          "Le domaine n'est pas remboursable au renouvellement et n'accepte pas non plus le SONAR20, il appelle donc une décision à part. Son renouvellement a son propre interrupteur, dans la zone des domaines du panneau, et il est prélevé 27 jours avant l'échéance. Seul l'enregistrement neuf a un court délai de remboursement, de 96 heures en général, selon l'extension ; le renouvellement n'en a aucun.",
+          "Le domaine appelle une décision distincte : son renouvellement est exclu de SONAR20 et du remboursement standard. Il dispose de son propre interrupteur dans la zone des domaines du panneau, avec un prélèvement prévu 27 jours avant l'échéance. Pour un nouvel enregistrement, le délai de remboursement dépend de l'extension (96 heures en général) et des conditions de la politique : ne l'appliquez pas à tous les domaines.",
           "Décidez pour le domaine avant ce prélèvement : regardez le prix, voyez s'il doit rester chez ce registraire et ne le laissez se renouveler qu'ensuite. Les voies pour enregistrer, transférer ou laisser le domaine de côté sont dans [domaine chez Hostinger](/fr/reviews/domaine-hostinger-acheter-ou-transferer)."
         ]
       },
@@ -185879,7 +185887,7 @@ export const reviewsData: unknown[] = [
           "Traitez le domaine à part, avec son prix et sa décision."
         ],
         "postParagraphs": [
-          "Dans le doute, laissez le renouvellement automatique activé sur ce que vous utilisez et ne le coupez que sur ce que vous avez déjà décidé d'abandonner."
+          "Gardez le renouvellement automatique pour les services que vous souhaitez continuer à payer au prix indiqué. Si vous préférez décider avant chaque prélèvement, désactivez-le et notez la date limite pour renouveler manuellement. Vérifiez chaque service séparément, domaines compris."
         ],
         "emphasis": "Un renouvellement se décide au calme, avant l'arrivée du prélèvement, et non le jour de l'échéance."
       },
@@ -185888,7 +185896,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Le code Hostinger vaut-il au renouvellement ? Non : le SONAR20 donne 20 % sur un nouvel achat, et le renouvellement est facturé au prix catalogue. La section du SONAR20 explique où le code intervient.",
           "Comment annuler le renouvellement automatique de Hostinger ? Dans Facturation, Abonnements, désactivez l'interrupteur du service ; il reste actif jusqu'à l'échéance. Le pas-à-pas est dans la section sur la désactivation.",
-          "Hostinger rembourse-t-il le renouvellement ? Oui, dans les 30 jours suivant le prélèvement, pour l'hébergement et le VPS KVM ; le renouvellement de domaine n'est pas remboursable. Les exceptions sont dans la section du remboursement.",
+          "Hostinger rembourse-t-il le renouvellement ? Oui, dans les 30 jours suivant le prélèvement, pour l'hébergement et le VPS KVM éligibles ; le renouvellement de domaine n'est pas remboursable. Les exceptions sont dans la section du remboursement.",
           "Quand Hostinger prélève-t-il le renouvellement automatique ? Sur le forfait annuel, 14 jours avant l'échéance ; sur le mensuel, le jour de l'échéance. Le domaine a son propre délai, dans la section sur le moment du prélèvement.",
           "Que se passe-t-il si mon forfait Hostinger arrive à échéance ? Les sites sont mis hors ligne, comme l'indique la carte du forfait. Pour éviter cela, renouvelez avant l'échéance ou laissez le renouvellement automatique activé."
         ]
@@ -185952,7 +185960,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Geben Sie beim Kauf eines neuen Tarifs den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % Rabatt auf den Kauf.",
+      "text": "Geben Sie bei einem berechtigten neuen Tarif SONAR20 im Warenkorb ein: 20 % Rabatt auf den Kauf. Der Code gilt nicht für Verlängerungen oder Domains. Prüfen Sie den Gesamtbetrag vor der Zahlung.",
       "label": "Hostinger-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -185985,7 +185993,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Unsere Rechnung: Wer den Premium-Tarif um weitere 48 Monate verlängert, zahlt nach den Tabellenpreisen 527,52 US$, mehr als das Fünffache der 95,52 US$ aus dem ersten Zeitraum.",
-          "Wenn Sie zwischen zwei Tarifen schwanken, vergleichen Sie die Spalte der Verlängerung, nicht die des Einstiegs: Dort liegt Ihr Budget nach dem ersten Zeitraum."
+          "Vergleichen Sie die Gesamtkosten der ersten Laufzeit mit denen der Verlängerung für den gewünschten Zeitraum und prüfen Sie die benötigten Funktionen. Die Tabelle zeigt, wie stark sich das Budget ändern kann. Kontrollieren Sie vor der Entscheidung den Verlängerungsbetrag und die Zahlungsoptionen in Ihrem Konto."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-de.webp",
@@ -186098,7 +186106,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Das Ausschalten ändert den Status des Dienstes nicht: Er bleibt bis zum Ablauf aktiv und wird nicht erneut belastet. Was schon abgebucht wurde, kommt auf diesem Weg nicht zurück; für die Erstattung gelten eigene Regeln, im nächsten Kapitel. Bei einem Monatstarif mit offener Rechnung wird die Rechnung storniert, und das Abonnement endet am Ende des Zyklus. Bei teilweise bezahlter Rechnung, angewendeten Guthaben oder einer Laufzeit von einem Jahr oder mehr kann der Weg über den Support nötig sein, über den KI-Assistenten von Hostinger.",
-          "Zwei Details wiegen bei der Entscheidung schwer. Um die Laufzeit des Tarifs bei der Verlängerung zu ändern, muss die automatische Verlängerung eingeschaltet sein. Und läuft der Tarif ab, warnt der Hinweis auf seiner Karte, dass die Websites offline gehen. Schalten Sie den Schalter im Zweifel erst aus, wenn Sie sich gegen die Verlängerung entschieden haben."
+          "Um die Laufzeit bei der Verlängerung zu ändern, muss die automatische Verlängerung eingeschaltet sein. Läuft der Tarif ab, können die Websites offline gehen; darauf weist die Tarifkarte hin. Wählen Sie automatische Abbuchung oder manuelle Verlängerung anhand von Preis und Termin. Wenn Sie abschalten, den Dienst aber behalten wollen, planen Sie die manuelle Verlängerung vor Ablauf."
         ]
       },
       {
@@ -186125,7 +186133,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Domain bleibt außen vor",
         "paragraphs": [
-          "Die Domain wird bei der Verlängerung nicht erstattet und bekommt auch SONAR20 nicht, deshalb braucht sie eine eigene Entscheidung. Ihre Verlängerung hat einen eigenen Schalter, im Domainbereich des Panels, und wird 27 Tage vor Ablauf abgebucht. Nur die Neuregistrierung hat eine kurze Erstattungsfrist von in der Regel 96 Stunden, je nach Endung; die Verlängerung hat keine.",
+          "Die Domain braucht eine eigene Entscheidung: Die Verlängerung ist von SONAR20 und der regulären Erstattung ausgeschlossen. Sie hat im Domainbereich des Panels einen eigenen Schalter; die Abbuchung ist 27 Tage vor Ablauf vorgesehen. Bei einer Neuregistrierung hängen die Erstattungsfrist (in der Regel 96 Stunden) und die Bedingungen von der Endung und der Richtlinie ab; die 96 Stunden gelten deshalb nicht für jede Domain.",
           "Entscheiden Sie die Domain vor dieser Abbuchung: Schauen Sie auf den Preis, prüfen Sie, ob sie bei diesem Registrar bleiben muss, und lassen Sie sie erst dann verlängern. Die Wege Registrieren, Umziehen oder die Domain draußen lassen stehen in [Domain bei Hostinger](/de/reviews/hostinger-domain-kaufen-oder-umziehen)."
         ]
       },
@@ -186142,7 +186150,7 @@ export const reviewsData: unknown[] = [
           "Behandeln Sie die Domain getrennt, mit eigenem Preis und eigener Entscheidung."
         ],
         "postParagraphs": [
-          "Lassen Sie im Zweifel die automatische Verlängerung bei dem eingeschaltet, was Sie nutzen, und schalten Sie sie nur bei dem aus, was Sie schon aufgeben wollten."
+          "Lassen Sie die automatische Verlängerung für Dienste aktiv, die Sie zum angegebenen Preis weiterbezahlen möchten. Wollen Sie vor jeder Abbuchung entscheiden, schalten Sie sie aus und notieren Sie die Frist für die manuelle Verlängerung. Prüfen Sie jeden Dienst einzeln, auch Domains."
         ],
         "emphasis": "Über eine Verlängerung entscheidet man in Ruhe, bevor die Abbuchung kommt, und nicht am Ablauftag."
       },
@@ -186151,7 +186159,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Gilt der Hostinger-Gutschein bei der Verlängerung? Nein: SONAR20 gibt 20 % auf einen Neukauf, die Verlängerung läuft zum Tabellenpreis. Das Kapitel zu SONAR20 erklärt, wo der Code gilt.",
           "Wie kündige ich die automatische Verlängerung bei Hostinger? Schalten Sie unter Abrechnung und Abonnements den Schalter des Dienstes aus; er bleibt bis zum Ablauf aktiv. Die Schritte stehen im Kapitel zum Ausschalten.",
-          "Erstattet Hostinger die Verlängerung? Ja, innerhalb von 30 Tagen ab der Abbuchung, beim Hosting und beim VPS KVM; die Domain-Verlängerung wird nicht erstattet. Die Ausnahmen stehen im Kapitel zur Erstattung.",
+          "Erstattet Hostinger die Verlängerung? Ja, innerhalb von 30 Tagen ab der Abbuchung, beim berechtigten Hosting und beim VPS KVM; die Domain-Verlängerung wird nicht erstattet. Die Ausnahmen stehen im Kapitel zur Erstattung.",
           "Wann bucht Hostinger die automatische Verlängerung ab? Beim Jahrestarif 14 Tage vor Ablauf, beim Monatstarif am Ablauftag. Die Domain hat eine eigene Frist, im Kapitel zur Abbuchung.",
           "Was passiert, wenn der Hostinger-Tarif abläuft? Die Websites gehen offline, wie der Hinweis auf der Karte des Tarifs warnt. Damit es nicht so weit kommt, verlängern Sie vor dem Ablauf oder lassen die automatische Verlängerung eingeschaltet."
         ]
@@ -186215,7 +186223,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Quando sottoscrivi un piano nuovo, inserisci il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% di sconto sull'acquisto.",
+      "text": "Per un nuovo piano idoneo, inserisci SONAR20 nel carrello per il 20% di sconto sull'acquisto. Il codice non vale per rinnovi o domini: verifica il totale prima di pagare.",
       "label": "Vedi i piani Hostinger con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -186248,7 +186256,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Il nostro calcolo, sui prezzi della tabella: rinnovare il Premium per altri 48 mesi costa 527,52 US$, più di cinque volte i 95,52 US$ pagati nel primo periodo.",
-          "Se sei indeciso tra due piani, confrontali dalla colonna del rinnovo, non da quella d'ingresso: è lì che si ferma il budget dopo il primo periodo."
+          "Confronta il costo totale del primo periodo con quello del rinnovo per la durata che vuoi mantenere, oltre alle funzioni necessarie. La tabella mostra quanto può cambiare il budget; prima di decidere, verifica nel tuo account l'importo e i metodi di pagamento del rinnovo."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-it.webp",
@@ -186361,7 +186369,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Spegnerlo non cambia lo stato del servizio: resta attivo fino alla scadenza e non viene addebitato di nuovo. Quello che è già stato addebitato non torna indietro per questa strada; il rimborso ha una regola propria, nel capitolo seguente. Nel piano mensile con fattura in sospeso, la fattura viene annullata e l'abbonamento scade a fine ciclo. Con fattura pagata in parte, con crediti applicati o con ciclo di un anno o più, può servire parlare con l'assistenza, tramite l'assistente IA di Hostinger.",
-          "Due dettagli pesano sulla decisione. Per cambiare la durata del piano al rinnovo, il rinnovo automatico deve essere attivo. E se il piano scade, l'avviso sulla sua scheda dice che i siti vanno offline. Nel dubbio, spegni l'interruttore solo quando hai già deciso di non rinnovare."
+          "Per cambiare la durata del piano al rinnovo, il rinnovo automatico deve essere attivo. Se il piano scade, i siti possono andare offline, come avverte la scheda del servizio. Scegli tra addebito automatico e rinnovo manuale considerando prezzo e data. Se lo disattivi ma vuoi mantenere il servizio, programma il rinnovo prima della scadenza."
         ]
       },
       {
@@ -186388,7 +186396,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Il dominio resta fuori",
         "paragraphs": [
-          "Il dominio non ha rimborso sul rinnovo e non prende nemmeno il SONAR20, quindi chiede una decisione a parte. Il suo rinnovo ha un interruttore proprio, nell'area domini del pannello, e viene addebitato 27 giorni prima della scadenza. Solo la registrazione nuova ha un breve termine di rimborso, di 96 ore in genere, a seconda dell'estensione; il rinnovo non ne ha nessuno.",
+          "Il dominio richiede una decisione separata: il rinnovo è escluso da SONAR20 e dal rimborso standard. Ha un interruttore proprio nella sezione domini del pannello, con addebito previsto 27 giorni prima della scadenza. Per una nuova registrazione, il termine di rimborso dipende dall'estensione (96 ore in genere) e dalle condizioni della politica: le 96 ore non valgono per tutti i domini.",
           "Decidi il dominio prima di quell'addebito: guarda il prezzo, verifica se deve restare in questo registrar e solo allora lascialo rinnovare. I percorsi per registrare, trasferire o lasciare fuori il dominio sono in [dominio su Hostinger](/it/reviews/dominio-hostinger-comprare-o-trasferire)."
         ]
       },
@@ -186405,7 +186413,7 @@ export const reviewsData: unknown[] = [
           "Tratta il dominio a parte, con prezzo e decisione propri."
         ],
         "postParagraphs": [
-          "Nel dubbio, lascia attivo il rinnovo automatico su ciò che usi e spegnilo solo su ciò che hai già deciso di lasciare."
+          "Lascia attivo il rinnovo automatico per i servizi che vuoi continuare a pagare al prezzo indicato. Se preferisci decidere prima di ogni addebito, disattivalo e annota il termine per rinnovare manualmente. Controlla separatamente ogni servizio, domini compresi."
         ],
         "emphasis": "Il rinnovo si decide con calma, prima che arrivi l'addebito, e non il giorno della scadenza."
       },
@@ -186414,7 +186422,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Il coupon di Hostinger vale sul rinnovo? No: il SONAR20 dà il 20% su un acquisto nuovo, e il rinnovo costa il prezzo di listino. Il capitolo sul SONAR20 spiega dove entra il codice.",
           "Come annullare il rinnovo automatico di Hostinger? In Fatturazione, Abbonamenti, spegni l'interruttore del servizio; resta attivo fino alla scadenza. Il passo per passo è nel capitolo su come spegnerlo.",
-          "Hostinger rimborsa il rinnovo? Sì, entro 30 giorni dall'addebito, per l'hosting e il VPS KVM; il rinnovo del dominio non è rimborsabile. Le eccezioni sono nel capitolo sul rimborso.",
+          "Hostinger rimborsa il rinnovo? Sì, entro 30 giorni dall'addebito, per l'hosting e il VPS KVM idonei; il rinnovo del dominio non è rimborsabile. Le eccezioni sono nel capitolo sul rimborso.",
           "Quando Hostinger addebita il rinnovo automatico? Nel piano annuale, 14 giorni prima della scadenza; nel mensile, il giorno della scadenza. Il dominio ha un termine proprio, nel capitolo su quando Hostinger addebita.",
           "Cosa succede se il piano di Hostinger scade? I siti vanno offline, come avverte la scheda del piano. Per non arrivarci, rinnova prima della scadenza o lascia attivo il rinnovo automatico."
         ]
@@ -186478,7 +186486,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "새 플랜에 가입할 때 장바구니의 쿠폰란에 SONAR20 코드를 입력하거나 이 링크로 들어오세요. 구매에 20% 할인이 적용됩니다.",
+      "text": "대상이 되는 신규 플랜을 구매할 때 장바구니의 쿠폰란에 SONAR20을 입력하면 구매에 20% 할인이 적용됩니다. 갱신과 도메인에는 적용되지 않으니 결제 전에 총액을 확인하세요.",
       "label": "SONAR20으로 호스팅어 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -186572,7 +186580,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "우리 계산: 표의 가격으로 Premium을 48개월 더 갱신하면 US$ 527.52입니다. 첫 기간에 낸 US$ 95.52의 다섯 배가 넘습니다.",
-          "두 플랜 사이에서 고민된다면 첫 기간 열이 아니라 갱신 열로 비교하세요. 첫 기간이 지나면 예산에 남는 것은 그 가격입니다."
+          "필요한 기능과 함께, 유지하려는 기간의 첫 계약 총액과 갱신 총액을 비교하세요. 표처럼 갱신 때 예산이 크게 달라질 수 있습니다. 결정하기 전에 계정에서 갱신 금액과 결제 수단을 확인하세요."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-ko.webp",
@@ -186624,7 +186632,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "끈다고 서비스 상태가 바뀌지는 않습니다. 만료일까지 활성 상태이고 다시 청구되지 않습니다. 이미 결제된 금액은 이 방법으로 돌아오지 않으며, 환불에는 별도 규칙이 있습니다(다음 장). 미결제 청구서가 있는 월 단위 플랜은 청구서가 취소되고 구독은 주기 끝에 만료됩니다. 일부만 결제된 청구서, 적용된 크레딧, 1년 이상의 주기라면 호스팅어 AI 어시스턴트를 통해 고객지원에 문의해야 할 수 있습니다.",
-          "결정에 영향을 주는 점이 둘 있습니다. 갱신 때 플랜 기간을 바꾸려면 자동 갱신이 켜져 있어야 합니다. 또 플랜이 만료되면 플랜 카드의 안내대로 사이트가 내려갑니다. 확신이 없다면 갱신하지 않기로 정한 뒤에 스위치를 끄세요."
+          "갱신 때 계약 기간을 바꾸려면 자동 갱신이 켜져 있어야 합니다. 요금제가 만료되면 서비스 카드의 안내처럼 사이트가 중단될 수 있습니다. 가격과 결제일을 보고 자동 결제와 수동 갱신 중에서 선택하세요. 자동 갱신을 껐어도 계속 사용할 서비스라면 만료 전에 수동 갱신할 일정을 잡으세요."
         ]
       },
       {
@@ -186651,7 +186659,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "도메인은 별도입니다",
         "paragraphs": [
-          "도메인은 갱신 환불이 없고 SONAR20도 적용되지 않으므로 따로 결정해야 합니다. 도메인 갱신 스위치는 패널의 도메인 영역에 따로 있고, 만료 27일 전에 청구됩니다. 짧은 환불 기한은 새 등록에만 있고 확장자에 따라 다르지만 보통 96시간이며, 갱신에는 없습니다.",
+          "도메인은 따로 결정해야 합니다. 갱신에는 SONAR20이 적용되지 않으며 일반 환불 대상에서도 제외됩니다. 패널의 도메인 영역에 갱신 스위치가 따로 있고, 만료 27일 전에 청구됩니다. 신규 등록의 환불 기한은 확장자와 정책 조건에 따라 다르며 보통 96시간입니다.",
           "이 청구 전에 도메인을 결정하세요. 가격을 보고, 이 등록기관에 둘 필요가 있는지 확인한 다음에 갱신하게 두세요. 등록, 이전, 또는 다른 곳에 두는 방법은 [호스팅어 도메인](/ko/reviews/hostinger-domain-ko)에 있습니다."
         ]
       },
@@ -186668,7 +186676,7 @@ export const reviewsData: unknown[] = [
           "도메인은 가격과 결정을 따로 두세요."
         ],
         "postParagraphs": [
-          "확신이 없다면 쓰는 서비스는 자동 갱신을 켜 두고, 이미 그만두기로 한 서비스만 끄세요."
+          "표시된 가격으로 계속 사용할 서비스는 자동 갱신을 유지해도 됩니다. 결제할 때마다 직접 결정하고 싶다면 자동 갱신을 끄고 수동 갱신 기한을 적어 두세요. 도메인을 포함해 서비스별로 따로 확인하세요."
         ],
         "emphasis": "갱신은 청구가 오기 전에 차분히 정하는 일이지, 만료일에 서두를 일이 아닙니다."
       },
@@ -186677,7 +186685,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "호스팅어 쿠폰은 갱신에도 적용되나요? 아니요. SONAR20은 새 구매에 20%를 주고, 갱신은 표의 가격으로 나갑니다. 코드를 넣는 위치는 SONAR20 장에서 설명합니다.",
           "호스팅어 자동 갱신은 어떻게 취소하나요? 결제, 구독에서 서비스 스위치를 끄세요. 서비스는 만료일까지 활성 상태입니다. 순서는 끄는 방법 장에 있습니다.",
-          "호스팅어는 갱신을 환불해 주나요? 네, 호스팅과 VPS KVM은 결제일부터 30일 이내에 가능하고, 도메인 갱신은 환불되지 않습니다. 예외는 환불 장에 있습니다.",
+          "호스팅어는 갱신을 환불해 주나요? 네, 대상 호스팅과 VPS KVM은 결제일부터 30일 이내에 가능하고, 도메인 갱신은 환불되지 않습니다. 예외는 환불 장에 있습니다.",
           "호스팅어는 자동 갱신을 언제 청구하나요? 연 단위 플랜은 만료 14일 전, 월 단위는 만료일 당일입니다. 도메인은 따로 정해져 있으며 결제 시점 장에 있습니다.",
           "호스팅어 플랜이 만료되면 어떻게 되나요? 플랜 카드의 안내대로 사이트가 내려갑니다. 그렇게 되지 않으려면 만료 전에 갱신하거나 자동 갱신을 켜 두세요."
         ]
@@ -186741,7 +186749,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "新しいプランを契約するときは、カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。購入が20%割引になります。",
+      "text": "対象となる新規プランを申し込む際、カートでSONAR20を入力すると購入が20%割引になります。更新とドメインには使えません。支払う前に総額を確認してください。",
       "label": "SONAR20 で Hostinger のプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -186774,7 +186782,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "私たちの計算：表の料金で Premium をさらに48か月更新するとUS$527.52かかり、最初の期間のUS$95.52の5倍を超えます。",
-          "2つのプランで迷ったら、最初の期間の列ではなく更新料の列で比べてください。最初の期間が終わったあと、予算に残るのはそちらです。"
+          "必要な機能に加え、利用したい期間の初回総額と更新総額を比較しましょう。表のように更新後の予算は大きく変わることがあります。決める前に、アカウントで更新額と支払方法を確認してください。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-ja.webp",
@@ -186887,7 +186895,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "止めてもサービスの状態は変わらず、期限まで有効で、再び請求されることもありません。すでに請求された分は、この方法では戻りません。返金には別のルールがあり、次の章で説明します。未払いの請求書がある月払いのプランでは、請求書が取り消され、契約はサイクルの終わりに期限切れになります。一部が支払い済みの請求書、適用済みのクレジット、1年以上のサイクルでは、Hostinger の AI アシスタント経由でサポートに連絡する必要があるかもしれません。",
-          "判断で効く点が2つあります。更新時にプランの期間を変えるには、自動更新がオンになっている必要があります。また、プランが期限切れになると、そのカードの通知にあるとおりサイトは表示されなくなります。迷ったら、更新しないと決めてからスイッチをオフにしてください。"
+          "更新時に契約期間を変更するには、自動更新を有効にする必要があります。プランが失効すると、サービスのカードが案内するようにサイトが停止することがあります。料金と請求日を見て、自動請求と手動更新を選んでください。自動更新を切っても使い続ける場合は、期限前に手動更新する予定を立てましょう。"
         ]
       },
       {
@@ -186914,7 +186922,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ドメインは対象外",
         "paragraphs": [
-          "ドメインは更新の返金がなく、SONAR20 も使えないため、別に判断が必要です。更新のスイッチはパネルのドメインの画面に別にあり、期限の27日前に請求されます。短い返金期間があるのは新規登録だけで、拡張子によって異なりますが、通常は96時間です。更新にはありません。",
+          "ドメインは別に判断が必要です。更新はSONAR20と通常の返金の対象外です。パネルのドメイン画面に更新用の専用スイッチがあり、請求は期限の27日前に予定されています。新規登録の返金期間は拡張子とポリシーの条件によって異なり（通常は96時間）。",
           "その請求の前に、ドメインを決めてください。料金を確認し、このレジストラに置く必要があるかを確かめてから、更新させます。登録、移管、ドメインを外に置く方法は[Hostinger のドメイン](/ja/reviews/hostinger-domain-ja)にあります。"
         ]
       },
@@ -186931,7 +186939,7 @@ export const reviewsData: unknown[] = [
           "ドメインは別に扱い、料金も判断も個別にする。"
         ],
         "postParagraphs": [
-          "迷ったら、使っているものは自動更新をオンのままにして、手放すと決めたものだけをオフにしてください。"
+          "表示された料金で使い続けたいサービスは、自動更新を維持できます。請求前に毎回判断したい場合は自動更新を切り、手動更新の期限を控えましょう。ドメインも含め、サービスごとに確認してください。"
         ],
         "emphasis": "更新は、請求が来る前に落ち着いて決めるもので、期限の当日に決めるものではありません。"
       },
@@ -186940,7 +186948,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger のクーポンは更新で使えますか？ いいえ。SONAR20 は新規購入が20%オフになるコードで、更新は表の料金のままです。コードが使える場所は SONAR20 の章で説明しています。",
           "Hostinger の自動更新はどうやって止めますか？ 請求、サブスクリプションでサービスのスイッチをオフにします。期限までは有効なままです。手順は止め方の章にあります。",
-          "Hostinger は更新の返金に応じますか？ はい。ホスティングと VPS KVM は請求から30日以内です。ドメインの更新は返金されません。例外は返金の章にあります。",
+          "Hostinger は更新の返金に応じますか？ はい。対象のホスティングと VPS KVM は請求から30日以内です。ドメインの更新は返金されません。例外は返金の章にあります。",
           "Hostinger はいつ自動更新を請求しますか？ 年間プランは期限の14日前、月払いは期限の当日です。ドメインには別の期限があり、請求のタイミングの章にあります。",
           "Hostinger のプランが期限切れになるとどうなりますか？ プランのカードの通知にあるとおり、サイトは表示されなくなります。そうならないよう、期限の前に更新するか、自動更新をオンのままにしてください。"
         ]
@@ -187004,7 +187012,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "訂購新方案時，在購物車的優惠碼欄位輸入 SONAR20，或從這個連結進入：購買享 20% 折扣。",
+      "text": "訂購符合資格的新方案時，在購物車的優惠碼欄位輸入 SONAR20，購買享 20% 折扣。續訂與網域不適用；付款前請確認總額。",
       "label": "用 SONAR20 查看 Hostinger 方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -187098,7 +187106,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "我們的計算：按價目表，Premium 再續訂 48 個月要 US$ 527.52，是首期所付 US$ 95.52 的五倍多。",
-          "在兩個方案之間猶豫時，請比較續訂那一欄，而不是首期那一欄：首期過後，預算裡留下的就是這個價格。"
+          "除了需要的功能，也要比較預計使用期間的首期總額與續訂總額。價目表顯示，續訂可能大幅改變預算；決定前請到帳戶確認續訂金額與付款方式。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hant.webp",
@@ -187150,7 +187158,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "關閉不會改變服務狀態：它在到期前仍然有效，也不會再被扣款。已經扣的款不會因此退回；退款有自己的規則，見下一章。月繳方案若有未付帳單，帳單會被取消，訂閱在週期結束時到期。若帳單只付了一部分、已套用點數，或週期為一年以上，可能需要透過 Hostinger 的 AI 助理聯絡客服。",
-          "有兩個細節會影響決定。要在續訂時更換方案期限，自動續訂必須是開啟的。而且方案一旦到期，方案卡片上的提示說明網站會下線。拿不定主意時，等你決定不續訂了再關閉開關。"
+          "要在續訂時更改方案期間，自動續訂必須開啟。方案到期後，網站可能如服務卡片所示停止運作。請依價格與扣款日選擇自動扣款或手動續訂；若關閉自動續訂但仍要使用，請安排在到期前手動完成。"
         ]
       },
       {
@@ -187177,7 +187185,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "網域不在其中",
         "paragraphs": [
-          "網域續訂沒有退款，也不適用 SONAR20，所以要另外決定。它的續訂開關在面板的網域區域，於到期前 27 天扣款。只有新註冊才有短暫的退款期，通常為 96 小時（因網域後綴而異）；續訂則完全沒有。",
+          "網域要分開決定：續訂不適用SONAR20，也不在一般退款範圍內。面板的網域區有獨立開關，預定在到期前27天扣款。新註冊的退款期限取決於網域後綴及政策條件，通常為96小時。",
           "請在這筆扣款前決定網域：先看價格，確認它是否需要留在這家註冊商，再讓它續訂。註冊、轉入或把網域放在別處的做法，見 [Hostinger 網域](/zh-hant/reviews/hostinger-domain-zh-hant)。"
         ]
       },
@@ -187194,7 +187202,7 @@ export const reviewsData: unknown[] = [
           "網域單獨處理，有自己的價格與決定。"
         ],
         "postParagraphs": [
-          "拿不定主意時，在你還在用的服務上保持自動續訂，只關閉已經決定不要的。"
+          "對於願意按所示價格繼續付費的服務，可以保留自動續訂。如果想在每次扣款前再決定，請關閉開關並記下手動續訂期限。包括網域在內，每項服務都要分開確認。"
         ],
         "emphasis": "續訂要在扣款到來前從容決定，而不是到期當天才倉促處理。"
       },
@@ -187203,7 +187211,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger 優惠碼適用於續訂嗎？不適用：SONAR20 讓新購買享 20% 折扣，續訂按價目表計價。SONAR20 一章說明了優惠碼用在哪裡。",
           "如何取消 Hostinger 的自動續訂？在「帳單」的「訂閱」中關閉該服務的開關；服務在到期前仍然有效。步驟見關閉自動續訂一章。",
-          "Hostinger 會退還續訂費用嗎？會，主機與 VPS KVM 在扣款日起 30 天內可以；網域續訂不能退款。例外見退款一章。",
+          "Hostinger 會退還續訂費用嗎？會，符合資格的主機與 VPS KVM 在扣款日起 30 天內可以；網域續訂不能退款。例外見退款一章。",
           "Hostinger 何時扣自動續訂的費用？年繳方案在到期前 14 天，月繳在到期當天；網域有自己的時間，見何時扣款一章。",
           "Hostinger 方案到期會怎樣？網站會下線，方案卡片上有提示。要避免這種情況，請在到期前續訂，或保持自動續訂開啟。"
         ]
@@ -187267,7 +187275,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "订购新套餐时，在购物车的优惠码栏输入 SONAR20，或从这个链接进入：购买享 20% 折扣。",
+      "text": "订购符合资格的新套餐时，在购物车的优惠码栏输入 SONAR20，购买享 20% 折扣。续费与域名不适用；付款前请确认总额。",
       "label": "用 SONAR20 查看 Hostinger 套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -187361,7 +187369,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "我们的计算：按价目表，Premium 再续费 48 个月要 US$ 527.52，是首期所付 US$ 95.52 的五倍多。",
-          "在两个套餐之间犹豫时，请比较续费那一列，而不是首期那一列：首期过后，预算里留下的就是这个价格。"
+          "除了需要的功能，也要比较预计使用期间的首期总额与续费总额。价格表显示，续费可能大幅改变预算；决定前请到账户确认续费金额与付款方式。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hans.webp",
@@ -187413,7 +187421,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "关闭不会改变服务状态：它在到期前仍然有效，也不会再被扣款。已经扣的款不会因此退回；退款有自己的规则，见下一章。按月套餐若有未付账单，账单会被取消，订阅在周期结束时到期。若账单只付了一部分、已使用余额抵扣，或周期为一年以上，可能需要通过 Hostinger 的 AI 助手联系客服。",
-          "有两个细节会影响决定。要在续费时更换套餐期限，自动续费必须是开启的。而且套餐一旦到期，套餐卡片上的提示说明网站会下线。拿不定主意时，等你决定不续费了再关闭开关。"
+          "要在续费时更改套餐期限，自动续费必须开启。套餐到期后，网站可能如服务卡片所示停止运行。请根据价格与扣款日选择自动扣款或手动续费；如果关闭自动续费但仍要使用，请安排在到期前手动完成。"
         ]
       },
       {
@@ -187440,7 +187448,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "域名不在其中",
         "paragraphs": [
-          "域名续费没有退款，也不适用 SONAR20，所以要另外决定。它的续费开关在面板的域名区域，于到期前 27 天扣款。只有新注册才有短暂的退款期，通常为 96 小时（因域名后缀而异）；续费则完全没有。",
+          "域名要单独决定：续费不适用SONAR20，也不在一般退款范围内。面板的域名区域有独立开关，预计在到期前27天扣款。新注册的退款期限取决于域名后缀及政策条件，通常为96小时。",
           "请在这笔扣款前决定域名：先看价格，确认它是否需要留在这家注册商，再让它续费。注册、转入或把域名放在别处的做法，见 [Hostinger 域名](/zh-hans/reviews/hostinger-domain-zh-hans)。"
         ]
       },
@@ -187457,7 +187465,7 @@ export const reviewsData: unknown[] = [
           "域名单独处理，有自己的价格和决定。"
         ],
         "postParagraphs": [
-          "拿不定主意时，在你还在用的服务上保持自动续费，只关闭已经决定不要的。"
+          "对于愿意按所示价格继续付费的服务，可以保留自动续费。如果想在每次扣款前再决定，请关闭开关并记下手动续费期限。包括域名在内，每项服务都要分开确认。"
         ],
         "emphasis": "续费要在扣款到来前从容决定，而不是到期当天才仓促处理。"
       },
@@ -187466,7 +187474,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger 优惠码适用于续费吗？不适用：SONAR20 让新购买享 20% 折扣，续费按价目表计价。SONAR20 一章说明了优惠码用在哪里。",
           "如何取消 Hostinger 的自动续费？在“账单”的“订阅”中关闭该服务的开关；服务在到期前仍然有效。步骤见关闭自动续费一章。",
-          "Hostinger 会退还续费费用吗？会，主机与 VPS KVM 在扣款日起 30 天内可以；域名续费不能退款。例外见退款一章。",
+          "Hostinger 会退还续费费用吗？会，符合资格的主机与 VPS KVM 在扣款日起 30 天内可以；域名续费不能退款。例外见退款一章。",
           "Hostinger 什么时候扣自动续费的费用？按年套餐在到期前 14 天，按月在到期当天；域名有自己的时间，见什么时候扣款一章。",
           "Hostinger 套餐到期会怎样？网站会下线，套餐卡片上有提示。要避免这种情况，请在到期前续费，或保持自动续费开启。"
         ]

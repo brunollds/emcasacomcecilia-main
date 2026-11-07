@@ -55,7 +55,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Geben Sie beim Kauf eines neuen Tarifs den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % Rabatt auf den Kauf.",
+    "text": "Geben Sie bei einem berechtigten neuen Tarif SONAR20 im Warenkorb ein: 20 % Rabatt auf den Kauf. Der Code gilt nicht für Verlängerungen oder Domains. Prüfen Sie den Gesamtbetrag vor der Zahlung.",
     "label": "Hostinger-Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -88,7 +88,7 @@
       ],
       "postParagraphs": [
         "Unsere Rechnung: Wer den Premium-Tarif um weitere 48 Monate verlängert, zahlt nach den Tabellenpreisen 527,52 US$, mehr als das Fünffache der 95,52 US$ aus dem ersten Zeitraum.",
-        "Wenn Sie zwischen zwei Tarifen schwanken, vergleichen Sie die Spalte der Verlängerung, nicht die des Einstiegs: Dort liegt Ihr Budget nach dem ersten Zeitraum."
+        "Vergleichen Sie die Gesamtkosten der ersten Laufzeit mit denen der Verlängerung für den gewünschten Zeitraum und prüfen Sie die benötigten Funktionen. Die Tabelle zeigt, wie stark sich das Budget ändern kann. Kontrollieren Sie vor der Entscheidung den Verlängerungsbetrag und die Zahlungsoptionen in Ihrem Konto."
       ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-de.webp",
@@ -201,7 +201,7 @@
       ],
       "postParagraphs": [
         "Das Ausschalten ändert den Status des Dienstes nicht: Er bleibt bis zum Ablauf aktiv und wird nicht erneut belastet. Was schon abgebucht wurde, kommt auf diesem Weg nicht zurück; für die Erstattung gelten eigene Regeln, im nächsten Kapitel. Bei einem Monatstarif mit offener Rechnung wird die Rechnung storniert, und das Abonnement endet am Ende des Zyklus. Bei teilweise bezahlter Rechnung, angewendeten Guthaben oder einer Laufzeit von einem Jahr oder mehr kann der Weg über den Support nötig sein, über den KI-Assistenten von Hostinger.",
-        "Zwei Details wiegen bei der Entscheidung schwer. Um die Laufzeit des Tarifs bei der Verlängerung zu ändern, muss die automatische Verlängerung eingeschaltet sein. Und läuft der Tarif ab, warnt der Hinweis auf seiner Karte, dass die Websites offline gehen. Schalten Sie den Schalter im Zweifel erst aus, wenn Sie sich gegen die Verlängerung entschieden haben."
+        "Um die Laufzeit bei der Verlängerung zu ändern, muss die automatische Verlängerung eingeschaltet sein. Läuft der Tarif ab, können die Websites offline gehen; darauf weist die Tarifkarte hin. Wählen Sie automatische Abbuchung oder manuelle Verlängerung anhand von Preis und Termin. Wenn Sie abschalten, den Dienst aber behalten wollen, planen Sie die manuelle Verlängerung vor Ablauf."
       ]
     },
     {
@@ -228,7 +228,7 @@
     {
       "heading": "Die Domain bleibt außen vor",
       "paragraphs": [
-        "Die Domain wird bei der Verlängerung nicht erstattet und bekommt auch SONAR20 nicht, deshalb braucht sie eine eigene Entscheidung. Ihre Verlängerung hat einen eigenen Schalter, im Domainbereich des Panels, und wird 27 Tage vor Ablauf abgebucht. Nur die Neuregistrierung hat eine kurze Erstattungsfrist von in der Regel 96 Stunden, je nach Endung; die Verlängerung hat keine.",
+        "Die Domain braucht eine eigene Entscheidung: Die Verlängerung ist von SONAR20 und der regulären Erstattung ausgeschlossen. Sie hat im Domainbereich des Panels einen eigenen Schalter; die Abbuchung ist 27 Tage vor Ablauf vorgesehen. Bei einer Neuregistrierung hängen die Erstattungsfrist (in der Regel 96 Stunden) und die Bedingungen von der Endung und der Richtlinie ab; die 96 Stunden gelten deshalb nicht für jede Domain.",
         "Entscheiden Sie die Domain vor dieser Abbuchung: Schauen Sie auf den Preis, prüfen Sie, ob sie bei diesem Registrar bleiben muss, und lassen Sie sie erst dann verlängern. Die Wege Registrieren, Umziehen oder die Domain draußen lassen stehen in [Domain bei Hostinger](/de/reviews/hostinger-domain-kaufen-oder-umziehen)."
       ]
     },
@@ -245,7 +245,7 @@
         "Behandeln Sie die Domain getrennt, mit eigenem Preis und eigener Entscheidung."
       ],
       "postParagraphs": [
-        "Lassen Sie im Zweifel die automatische Verlängerung bei dem eingeschaltet, was Sie nutzen, und schalten Sie sie nur bei dem aus, was Sie schon aufgeben wollten."
+        "Lassen Sie die automatische Verlängerung für Dienste aktiv, die Sie zum angegebenen Preis weiterbezahlen möchten. Wollen Sie vor jeder Abbuchung entscheiden, schalten Sie sie aus und notieren Sie die Frist für die manuelle Verlängerung. Prüfen Sie jeden Dienst einzeln, auch Domains."
       ],
       "emphasis": "Über eine Verlängerung entscheidet man in Ruhe, bevor die Abbuchung kommt, und nicht am Ablauftag."
     },
@@ -254,7 +254,7 @@
       "bullets": [
         "Gilt der Hostinger-Gutschein bei der Verlängerung? Nein: SONAR20 gibt 20 % auf einen Neukauf, die Verlängerung läuft zum Tabellenpreis. Das Kapitel zu SONAR20 erklärt, wo der Code gilt.",
         "Wie kündige ich die automatische Verlängerung bei Hostinger? Schalten Sie unter Abrechnung und Abonnements den Schalter des Dienstes aus; er bleibt bis zum Ablauf aktiv. Die Schritte stehen im Kapitel zum Ausschalten.",
-        "Erstattet Hostinger die Verlängerung? Ja, innerhalb von 30 Tagen ab der Abbuchung, beim Hosting und beim VPS KVM; die Domain-Verlängerung wird nicht erstattet. Die Ausnahmen stehen im Kapitel zur Erstattung.",
+        "Erstattet Hostinger die Verlängerung? Ja, innerhalb von 30 Tagen ab der Abbuchung, beim berechtigten Hosting und beim VPS KVM; die Domain-Verlängerung wird nicht erstattet. Die Ausnahmen stehen im Kapitel zur Erstattung.",
         "Wann bucht Hostinger die automatische Verlängerung ab? Beim Jahrestarif 14 Tage vor Ablauf, beim Monatstarif am Ablauftag. Die Domain hat eine eigene Frist, im Kapitel zur Abbuchung.",
         "Was passiert, wenn der Hostinger-Tarif abläuft? Die Websites gehen offline, wie der Hinweis auf der Karte des Tarifs warnt. Damit es nicht so weit kommt, verlängern Sie vor dem Ablauf oder lassen die automatische Verlängerung eingeschaltet."
       ]
