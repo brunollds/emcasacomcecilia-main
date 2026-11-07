@@ -82798,7 +82798,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, o melhor sabor depende do critério. Avelã e Leite em Pó têm mais proteína por 100 g; Brownie e Cookies & Cream têm menos açúcar, e o Brownie, menos sódio. O Combo Best Sellers da loja junta Avelã, Bueníssimo e Cookies & Cream, mas o gosto é você quem decide."
+          "Pelo rótulo, o melhor sabor depende do critério. Avelã e Leite em Pó têm mais proteína por 100 g; Brownie e Cookies & Cream têm menos açúcar, e o Brownie, menos sódio. O gosto é você quem decide, e o código DREMCASACOMCECILIA dá 10% no site oficial."
         ]
       },
       {
@@ -124462,7 +124462,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade. O que pesa é a proteína que você quer; veja em Qual escolher."
+          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias e o menor preço por unidade. O que pesa é a proteína que você quer, e o código DREMCASACOMCECILIA dá 10% no site oficial."
         ]
       },
       {
@@ -124805,7 +124805,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O kit de 5 potes de 600 g tem o menor custo por 100 g entre os formatos comparados, mas leva 3 kg. Para um pote só, o de 600 g custa menos por grama que o de 250 g. Compare a quantidade que você consome, a validade e o frete antes de escolher."
+          "O kit de 5 potes de 600 g tem o menor custo por 100 g entre os formatos comparados, mas leva 3 kg. Para um pote só, o de 600 g custa menos por grama que o de 250 g. O código DREMCASACOMCECILIA dá 10% no site oficial e soma com as promoções; compare consumo, validade e frete."
         ]
       },
       {
@@ -126014,7 +126014,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há vencedora geral: a La Ganexa tem pasta só de amendoim, vegana ou sem lactose, e o pote de 1 kg dela costuma ter menor custo por 100 g. A Dr. Peanut custa menos nos potes pequenos com sabor de sobremesa, com o cupom de 10%. O que decide é o seu perfil; veja em Onde cada uma ganha."
+          "Não há vencedora geral: a La Ganexa tem pasta só de amendoim, vegana ou sem lactose, e o pote de 1 kg dela costuma ter menor custo por 100 g. A Dr. Peanut custa menos nos potes pequenos com sabor de sobremesa, com o código DREMCASACOMCECILIA, que dá 10% no site oficial; o que decide é o seu perfil."
         ]
       },
       {
@@ -177537,7 +177537,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. A lactose pesa em tudo o que publica aviso, da pasta ao wafer, e o glúten no whey e em parte dos snacks; o alfajor não publica aviso. Os capítulos abaixo mostram cada rótulo."
+          "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. A lactose pesa em tudo o que publica aviso, e o glúten no whey e em parte dos snacks; o alfajor não publica aviso. O código DREMCASACOMCECILIA dá 10% no site oficial."
         ]
       },
       {
