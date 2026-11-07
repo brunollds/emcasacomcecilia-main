@@ -80969,7 +80969,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 442,
     "slug": "clea-store-aniversario-14-anos-t-shirt-brinde",
-    "title": "Aniversário Cléa Store 14 anos: T-Shirt Oversized de brinde em qualquer compra até 31/10, com o cupom CSEMCASACOMCECILIA",
+    "title": "Aniversário Cléa Store 14 anos: a T-Shirt de brinde já acabou, e o cupom CSEMCASACOMCECILIA segue valendo",
     "seoTitle": "Cléa Store 14 anos: T-Shirt de brinde até 31/10",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
@@ -187444,7 +187444,7 @@ export const reviewsData: unknown[] = [
     "id": 825,
     "slug": "brindes-skelt-black-friday-cupom",
     "locale": "pt",
-    "title": "Brindes Skelt na Black Friday: creme para mãos e Body Cream com o cupom, só por 48 horas",
+    "title": "Brindes Skelt na Black Friday: creme para mãos e Body Cream com o cupom (promoção de 48 horas encerrada)",
     "seoTitle": "Brindes Skelt na Black Friday: 2 brindes com o cupom",
     "type": "Promoção",
     "category": "guias-praticos-utilidade",

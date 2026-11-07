@@ -38,7 +38,7 @@ Também entraram:
 - **IWS:** "colchão e box só em loja física".
 - **Cobertor:** coluna própria de simulação.
 - **Gimoka:** URL da fabricante.
-- **Títulos:** dois que o revisor apontou como desatualizados, à espera do OK do Bruno:
+- **Títulos da Cléa e da Skelt:** já trocados, com o OK do Bruno. Os títulos antigos diziam:
   - `clea-store-aniversario-14-anos-t-shirt-brinde`: "T-Shirt… até 31/10".
   - `brindes-skelt-black-friday-cupom`: "só por 48 horas".
 
