@@ -210,7 +210,7 @@
   "decision": {
     "takeIf": [
       "Quer pagar menos na marca Bagaggio: a Detroit, a mais barata da lista.",
-      "Quer uma Bagaggio mais leve que a Detroit: a Route; a Downtown Travelcross pesa menos entre as malas da tabela.",
+      "Quer uma Bagaggio mais leve que a Detroit: a Route; a mais leve da tabela é a Downtown Travelcross.",
       "Quer mais espaço e aceita uma medida maior: a Cartagena, com 51,3 litros."
     ],
     "skipIf": [
