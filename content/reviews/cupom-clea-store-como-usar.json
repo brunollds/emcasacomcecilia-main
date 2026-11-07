@@ -33,7 +33,7 @@
     "Não soma com outro cupom: um voucher por pedido",
     "Não dá frete grátis: o frete grátis da loja começa acima de R$ 599",
     "O cashback previsto cai junto com o desconto: de R$ 25,80 para R$ 23,22 no teste",
-    "As condições de reembolso de uma compra com cupom precisam ser confirmadas com a loja."
+    "Pela política da loja, cupom, cashback e frete grátis não são reembolsados na devolução"
   ],
   "cta": {
     "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido. Confira a linha Desconto antes de pagar.",
@@ -199,7 +199,7 @@
     {
       "heading": "Se precisar devolver um produto comprado com cupom",
       "paragraphs": [
-        "A Cléa Store tem devolução grátis. Para devolver uma compra com cupom ou cashback, confirme com o atendimento o valor a reembolsar e o tratamento dos créditos.",
+        "A Cléa Store tem devolução grátis. Pela política da loja, cupom, cashback e frete grátis não são reembolsados; na dúvida sobre o valor, confirme com o atendimento antes de enviar.",
         "O quadro completo de prazos e do passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel). Os números da loja no Reclame Aqui estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
       ]
     },

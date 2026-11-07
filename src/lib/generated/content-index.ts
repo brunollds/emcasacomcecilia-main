@@ -52873,7 +52873,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que checamos sobre a Insider Store: CNPJ, loja física, trocas e reputação RA1000 no recorte de abril a setembro. Veja os cuidados com entrega e compra.",
+    "description": "A Insider Store tem CNPJ ativo desde 2016, loja física, trocas sem custo e reputação RA1000 no Reclame Aqui de abril a setembro. O ponto de atenção é a entrega.",
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF no site da Insider. A loja é confiável? CNPJ, loja física em São Paulo, trocas, garantia, frete e Reclame Aqui.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
@@ -52903,7 +52903,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os dados consultados apontam uma loja identificável: CNPJ ativo desde 2016, trocas e devoluções sem custo e reputação RA1000 no Reclame Aqui no recorte de abril a setembro. O principal ponto de atenção é a entrega, que concentra a maioria das queixas. No site oficial, o cupom [EMCASACOMCECILIA](/cupons/insider) dá 15% em itens elegíveis, exceto lançamentos."
+          "Sim, com atenção à entrega: a Insider tem CNPJ ativo desde 2016, trocas e devoluções sem custo e reputação RA1000 no Reclame Aqui de abril a setembro. A entrega concentra a maioria das queixas. No site oficial, o cupom [EMCASACOMCECILIA](/cupons/insider) dá 15% em itens elegíveis, exceto lançamentos."
         ]
       },
       {
@@ -53058,14 +53058,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar na Insider Store?",
         "paragraphs": [
-          "Os registros consultados sustentam uma avaliação favorável da confiança: empresa identificada por CNPJ, políticas publicadas, troca e devolução sem custo segundo a loja e reputação RA1000 no recorte de abril a setembro. A Concept Store no MorumbiShopping também permite ver e provar as peças antes de decidir. Confira o perfil e as regras atualizadas no dia da compra.",
+          "Sim. A empresa tem CNPJ ativo desde 2016, políticas publicadas, troca e devolução sem custo segundo a loja e reputação RA1000 no Reclame Aqui de abril a setembro. A Concept Store no MorumbiShopping também permite ver e provar as peças antes de decidir. Confira o perfil e as regras atualizadas no dia da compra.",
           "Os cuidados estão no prazo de entrega, nos relatos recentes e nas condições de troca da peça escolhida. Compare o preço final com o que você procura e confira a etiqueta e o guia de medidas."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Insider Store é confiável? Os registros consultados mostram CNPJ ativo e políticas publicadas. No recorte abril a setembro, a empresa tinha reputação RA1000 no Reclame Aqui. A central de ajuda informa troca e devolução gratuitas, com condições por produto e motivo. Isso ajuda a decidir, sem garantir a experiência de cada pedido.",
+          "A Insider Store é confiável? Sim. A empresa tem CNPJ ativo desde 2016, políticas publicadas e troca e devolução gratuitas, com condições por produto e motivo; de abril a setembro, tinha reputação RA1000 no Reclame Aqui.",
           "Qual é o CNPJ da Insider Store? É 26.520.188/0001-92, da Insider Comércio e Confecção de Peças do Vestuário Ltda., com sede em São Paulo.",
           "Qual é o site oficial da Insider? É insiderstore.com.br. A central de ajuda fica em suporte.insiderstore.com.br.",
           "A Insider tem loja física? Sim, no MorumbiShopping, em São Paulo. A nova Concept Store abre ao público de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
@@ -74246,7 +74246,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A loja oficial Probiótica é operada pela Supley. Confira domínio, CNPJ, trocas e frete, além da reputação Boa no Reclame Aqui.",
+    "description": "Sim, a Probiótica é confiável: a loja oficial é operada pela Supley, com CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Veja frete e prazos.",
     "metaDescription": "Com o PRO10EMCASACOMCECILIA, até 10% OFF na Probiótica: quem opera a loja, o CNPJ, o site oficial, as trocas e o frete.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -74291,7 +74291,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja oficial Probiótica é operada pela Supley, grupo que também reúne a Max Titanium. Identificação e política de trocas estão no site, e a reputação no Reclame Aqui é Boa. Os pontos de atenção são o frete por região e o atraso na entrega; o cupom PRO10EMCASACOMCECILIA dá até 10% OFF."
+          "Sim, a Probiótica é confiável: a loja oficial é operada pela Supley, grupo que também reúne a Max Titanium, publica identificação e política de trocas e tem reputação Boa no Reclame Aqui. Os pontos de atenção são o frete por região e o atraso na entrega; o cupom PRO10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -74460,14 +74460,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Probiótica?",
         "paragraphs": [
-          "A operação pela Supley, a identificação no rodapé e a política publicada permitem conferir quem vende e quais canais usar. A reputação Boa do Reclame Aqui reflete reclamações já registradas e não garante o resultado de um novo pedido.",
+          "Do ponto de vista da confiança, sim. A operação pela Supley, a identificação no rodapé e a política publicada mostram quem vende e quais canais usar. A reputação Boa do Reclame Aqui reflete reclamações já registradas e não garante o resultado de um novo pedido.",
           "Há dois pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. E o índice de solução é de 79,3% entre as reclamações finalizadas e avaliadas; atraso na entrega é o problema mais citado no Reclame Aqui, então acompanhe o rastreio do pedido."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Probiótica é confiável? A loja oficial é operada pela Supley e publica identificação e política de trocas. A reputação no Reclame Aqui é Boa, com 99% das reclamações respondidas nos últimos seis meses. Confira os dados e as condições de entrega antes de comprar.",
+          "A Probiótica é confiável? Sim. A loja oficial é operada pela Supley e publica identificação e política de trocas; a reputação no Reclame Aqui é Boa, com 99% das reclamações respondidas nos últimos seis meses.",
           "A Probiótica é da Supley? Sim. A própria Supley lista a Probiótica entre as marcas do grupo, ao lado de Max Titanium, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
           "A Probiótica é da Max Titanium? Não. As duas são marcas irmãs do mesmo grupo, a Supley, mas a Probiótica não pertence à Max Titanium.",
           "O site da Probiótica é seguro? O endereço oficial é probiotica.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
@@ -78350,7 +78350,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Max Titanium?",
         "paragraphs": [
-          "A identificação da loja pode ser conferida pelo domínio e pelo CNPJ do rodapé. A reputação Boa vale para o recorte de abril a setembro e não garante o resultado de um novo pedido.",
+          "Do ponto de vista da confiança, sim. A identificação da loja pode ser conferida pelo domínio e pelo CNPJ do rodapé, e a política de trocas está publicada. A reputação Boa vale para o recorte de abril a setembro e não garante o resultado de um novo pedido.",
           "Há três pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. No recorte de abril a setembro, o tempo médio de resposta no Reclame Aqui era de 7 dias e 9 horas, e 62,3% dos consumidores que avaliaram dizem que voltariam a fazer negócio. Atraso na entrega é o problema mais citado; acompanhe o rastreio do pedido e abra chamado cedo se ele parar."
         ]
       },
@@ -79385,7 +79385,7 @@ export const reviewsData: unknown[] = [
       "Não soma com outro cupom: um voucher por pedido",
       "Não dá frete grátis: o frete grátis da loja começa acima de R$ 599",
       "O cashback previsto cai junto com o desconto: de R$ 25,80 para R$ 23,22 no teste",
-      "As condições de reembolso de uma compra com cupom precisam ser confirmadas com a loja."
+      "Pela política da loja, cupom, cashback e frete grátis não são reembolsados na devolução"
     ],
     "cta": {
       "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido. Confira a linha Desconto antes de pagar.",
@@ -79551,7 +79551,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisar devolver um produto comprado com cupom",
         "paragraphs": [
-          "A Cléa Store tem devolução grátis. Para devolver uma compra com cupom ou cashback, confirme com o atendimento o valor a reembolsar e o tratamento dos créditos.",
+          "A Cléa Store tem devolução grátis. Pela política da loja, cupom, cashback e frete grátis não são reembolsados; na dúvida sobre o valor, confirme com o atendimento antes de enviar.",
           "O quadro completo de prazos e do passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel). Os números da loja no Reclame Aqui estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -101155,7 +101155,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que só o site tem",
         "paragraphs": [
-          "No levantamento, o site tinha 41 peças nas categorias lidas, e só 7 estavam no Mercado Livre. O que estava só no site:"
+          "Nas categorias do site havia 41 peças, e só 7 estavam no Mercado Livre. O que estava só no site:"
         ],
         "bullets": [
           "Alfaiataria: blazers, entre eles o [Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282) e os oversized [Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305) e [Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307), coletes, bermuda e calças de alfaiataria.",
@@ -190110,7 +190110,7 @@ export const reviewsData: unknown[] = [
           "Conta nossa: a proteína estimada na embalagem é o peso líquido ÷ o peso da porção × a proteína por porção. O preço por 100 g de proteína é o preço ÷ essa quantidade estimada × 100. Quanto menor o resultado, menor o custo por proteína declarada; as bases e a hipótese estão na legenda."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda de 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porções e proteínas das tabelas nutricionais de cada sabor; Super Whey: baunilha, porção de 120 g. Exceção: Performance de 1,8 kg, estimativa com 32 g de proteína em 40 g de pó, condicionada à confirmação do rótulo do sabor. O custo considera a proteína total declarada, inclusive as diferentes fontes do Super Whey.",
+          "caption": "Preços de venda de 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porções e proteínas das tabelas nutricionais de cada sabor; Super Whey: baunilha, porção de 120 g. No Performance de 1,8 kg, a conta usa a porção do rótulo de 900 g (32 g de proteína em 40 g): confira a tabela nutricional do sabor. O custo considera a proteína total declarada, inclusive as diferentes fontes do Super Whey.",
           "headers": [
             "Produto",
             "Dose: proteína por dose",
@@ -190164,9 +190164,9 @@ export const reviewsData: unknown[] = [
             [
               "[Top Whey 3W + Performance 1,8 kg](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-18kg-max-titanium/p)",
               "40 g: até 32 g",
-              "1.440 g se a porção declarar 32 g",
+              "1.440 g (pela porção de 900 g)",
               "R$ 519,86",
-              "R$ 36,10 com a hipótese de 32 g por porção"
+              "R$ 36,10"
             ],
             [
               "[IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
@@ -190207,7 +190207,7 @@ export const reviewsData: unknown[] = [
         "heading": "Top Whey 3W: a dose de 40 g e três versões",
         "paragraphs": [
           "As versões do Top Whey 3W combinam concentrado, isolado e hidrolisado do soro, mas têm proporções de proteína diferentes. Nas porções comparadas, a + Performance tem mais proteína que a + Sabor e a + Natural. Segundo a descrição da loja, a + Performance traz 11 vitaminas e 6 minerais, e a + Natural usa estévia e taumatina. Esses ingredientes ajudam a distinguir as fórmulas; não comprovam qualidade superior.",
-          "Para quem já escolheu a + Performance, o pote de 1,8 kg exige maior desembolso. Compare os tamanhos pelo preço e pelo rótulo do mesmo sabor: a vantagem calculada para o maior depende da hipótese indicada na tabela. A + Natural entra pela preferência por estévia e taumatina; no preço registrado, não é a opção de menor custo por proteína."
+          "Para quem já escolheu a + Performance, o pote de 1,8 kg exige maior desembolso. Compare os tamanhos pelo preço e pelo rótulo do mesmo sabor: nos valores da tabela, o de 1,8 kg sai quase R$ 2 mais barato por 100 g de proteína. A + Natural entra pela preferência por estévia e taumatina; no preço registrado, não é a opção de menor custo por proteína."
         ],
         "images": [
           {
@@ -190271,10 +190271,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual whey escolher",
-        "emphasis": "Pelos valores do quadro, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre as versões Top Whey 3W comparadas, a + Performance tem maior proporção de proteína no pó; a escolha do pote de 1,8 kg depende da confirmação do rótulo e do preço. O cupom MAX10EMCASACOMCECILIA dá até 10%, com percentual variável por produto no carrinho.",
+        "emphasis": "Pelos valores do quadro, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre as versões Top Whey 3W comparadas, a + Performance tem maior proporção de proteína no pó; o pote de 1,8 kg sai mais barato por proteína na tabela. O cupom MAX10EMCASACOMCECILIA dá até 10%, com percentual variável por produto no carrinho.",
         "bullets": [
           "Prioriza custo por proteína: Whey Pro lidera no preço promocional registrado, seguido do 100% Whey Refil. Confira se essa ordem se mantém no carrinho.",
-          "Já escolheu o Top Whey 3W + Performance: o tamanho de 1,8 kg pode reduzir o custo por proteína na hipótese do quadro, mas exige maior desembolso. Confirme o rótulo do sabor antes de comparar com 900 g.",
+          "Já escolheu o Top Whey 3W + Performance: o de 1,8 kg sai mais barato por proteína na tabela, com desembolso maior; confira o rótulo do sabor.",
           "Procura isolado e menos carboidrato que o 100% Whey: IsoWhey, com custo maior por proteína no quadro e declaração de lactose no rótulo.",
           "Procura uma mistura com mais carboidrato que proteína: considere o Super Whey pela composição. Seu menor preço por embalagem não representa menor custo por proteína.",
           "Precisa evitar lactose: os rótulos declaram lactose. Decisões sobre intolerância, quantidade de consumo e outras questões de saúde devem ser feitas com médico ou nutricionista."
@@ -190283,7 +190283,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual whey da Max Titanium compensa mais? No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre os tamanhos do Top Whey 3W + Performance, a vantagem do maior depende do rótulo do sabor e do preço; a tabela explicita a hipótese usada.",
+          "Qual whey da Max Titanium compensa mais? No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre os tamanhos do Top Whey 3W + Performance, o de 1,8 kg sai mais barato por proteína na tabela; confira o rótulo do sabor.",
           "Super Whey é whey? Ele contém proteínas do soro, junto com colágeno, maltodextrina e frutose. Compare a composição na mesma quantidade de pó e o custo por proteína declarada; a porção maior não significa maior proporção de proteína.",
           "A Max Titanium tem whey zero lactose? Os wheys do quadro declaram “contém lactose”. Confirme o catálogo atual e o rótulo da versão que pretende comprar.",
           "O cupom da Max dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto.",
@@ -190435,7 +190435,7 @@ export const reviewsData: unknown[] = [
         "heading": "100% Pure Whey: pote ou refil",
         "paragraphs": [
           "Pote e refil do Pure têm a mesma proteína declarada por porção na tabela. O refil custa R$ 16,84 menos por embalagem de 900 g; compare o mesmo sabor e o preço atual antes de escolher.",
-          "A embalagem fotografada declara 21 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 20 g: confirme com a loja o rótulo da versão e do sabor antes de comprar e confira a embalagem que chegar.",
+          "A embalagem fotografada declara 21 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 20 g: confira a embalagem que chegar.",
           "Serve para quem quer um concentrado comum e aceita a lactose que o rótulo declara."
         ],
         "image": {
@@ -190452,7 +190452,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O que decide o Zero Lactose é a declaração de lactose. A loja informa: \"lactose: não contém\" na página do produto.",
           "O aviso de alergênicos, porém, cita derivados de leite. Sem lactose não é sem leite, e quem tem intolerância à lactose decide com médico ou nutricionista.",
-          "A embalagem fotografada declara 22 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 21 g: confirme com a loja o rótulo da versão e do sabor antes de comprar e confira a embalagem que chegar.",
+          "A embalagem fotografada declara 22 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 21 g: confira a embalagem que chegar.",
           "Serve para quem procura um whey com ausência de lactose declarada. Entre os cinco itens da tabela, o Iso Pro tem mais proteína por porção, mas declara lactose."
         ],
         "image": {
@@ -190505,7 +190505,7 @@ export const reviewsData: unknown[] = [
           "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja.",
           "O Hiper é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
           "O cupom dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. O carrinho mostra o valor de cada item.",
-          "A Probiótica é confiável? A comparação de rótulos e preços não basta para responder sobre a reputação da marca. Veja a análise específica no [guia de confiabilidade da Probiótica](/reviews/probiotica-e-confiavel)."
+          "A Probiótica é confiável? Sim: loja operada pela Supley, CNPJ ativo e reputação Boa no Reclame Aqui. Os detalhes estão no [guia de confiabilidade da Probiótica](/reviews/probiotica-e-confiavel)."
         ]
       }
     ]
@@ -190526,8 +190526,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Veja os limites de encolhimento da Insider e como lavar. O vídeo mostra a Perfect Top sem o amarelo da axila; Cecília relata que o cheiro também saiu, sem sabão.",
-    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% na Insider. Veja quanto cada linha pode encolher, como lavar e o relato da Cecília sobre a lavagem da Perfect Top.",
+    "description": "Veja os limites de encolhimento da Insider e como lavar. O vídeo mostra a Perfect Top sem o amarelo da axila; percebi que o cheiro também saiu, sem sabão.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% na Insider. Veja quanto cada linha pode encolher, como lavar e o que percebi ao lavar a Perfect Top sem sabão.",
     "publishedAt": "6 de novembro de 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -190540,7 +190540,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pode encolher: a Insider publica limites de 3% na Perfect Top a 8% na Tech. Escolha o tamanho antes de lavar e siga a etiqueta. No vídeo, a Perfect Top da Cecília aparece sem o amarelo da axila após uma lavagem sem sabão; ela também relata que o cheiro de suor saiu."
+          "Pode encolher: a Insider publica limites de 3% na Perfect Top a 8% na Tech. Escolha o tamanho antes de lavar e siga a etiqueta. No vídeo, a Perfect Top aparece sem o amarelo da axila após uma lavagem sem sabão; ao tirar da máquina, percebi que o cheiro de suor também tinha saído."
         ]
       },
       {
@@ -190697,7 +190697,7 @@ export const reviewsData: unknown[] = [
           "Camiseta Insider encolhe? Pode. A Insider publica um limite por linha, e a tabela de “Quanto cada linha pode encolher” traz o de cada uma.",
           "Camiseta Insider encolhe na secadora? A marca só libera a secadora, em baixa temperatura, na Perfect Top e na Oversized; nas outras, a Tech inclusive, ela pede varal à sombra. A tabela do início traz cada linha.",
           "Como lavar camiseta Insider? Depende da linha: a água vai de abaixo de 30 °C a abaixo de 40 °C, e só a Perfect Top e a Oversized aceitam secadora. A Perfect Top e a Tech pedem ciclo delicado, sem alvejante nem amaciante e sem torcer; o passo a passo está nos capítulos de lavagem.",
-          "Como tirar mancha da camiseta Insider? No vídeo, a costura amarela da axila de uma Perfect Top aparece limpa após a lavagem a 30 °C, sem sabão e sem esfregar. A Cecília também relata que o cheiro saiu. Para o cuidado diário, siga a etiqueta; o capítulo de mancha reúne as orientações da central.",
+          "Como tirar mancha da camiseta Insider? No vídeo, a costura amarela da axila de uma Perfect Top aparece limpa após a lavagem a 30 °C, sem sabão e sem esfregar. Percebi que o cheiro também saiu. Para o cuidado diário, siga a etiqueta; o capítulo de mancha reúne as orientações da central.",
           "Camiseta Insider mancha de desodorante? Pode amarelar a axila: a marca explica que a mancha vem do suor, da oleosidade e do antitranspirante com alumínio, e não é defeito da peça. As quatro dicas para reduzir estão no capítulo da mancha."
         ]
       }
