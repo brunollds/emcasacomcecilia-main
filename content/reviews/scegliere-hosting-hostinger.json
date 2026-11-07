@@ -46,7 +46,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Guardando il rinnovo, il Premium della Hostinger è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Le promozioni durano 48 mesi, quindi il confronto giusto si fa per mese, con il rinnovo accanto, nella tabella qui sotto."
+        "Guardando il rinnovo, il Premium della Hostinger è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Prima di scegliere, verifica che il piano copra applicazione, spazio e backup, non solo il numero di siti."
       ]
     },
     {
@@ -175,13 +175,13 @@
     {
       "heading": "Coupon SONAR20 con la Hostinger",
       "paragraphs": [
-        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, l'e-mail professionale e il Reach. Sui piani di hosting di questa tabella non l'abbiamo testato; controlla nel carrello. Il codice vale anche sul VPS e su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
+        "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Lo abbiamo provato su Startup e-commerce, e-mail professionale e Reach. Per il piano hosting o VPS scelto, verifica l'applicazione nel carrello. Registrazione di dominio e rinnovo sono esclusi. Consulta i [coupon Hostinger](/it/coupons/hostinger)."
       ]
     },
     {
       "heading": "Quale scegliere: il verdetto",
       "paragraphs": [
-        "**Scegli il Premium** per un sito solo, come un blog, un portfolio o la pagina di un'azienda, o per fino a tre siti: costa meno in promozione e al rinnovo, e la promozione dura 48 mesi.",
+        "**Scegli il Premium** per un sito solo, come un blog, un portfolio o la pagina di un'azienda, o per fino a tre siti, se il piano copre il progetto: costa meno in promozione e al rinnovo, e la promozione dura 48 mesi.",
         "**Scegli l'Unlimited** per molti siti, senza limite di siti, con backup giornaliero e 50 GB NVMe. Il Cloud Startup, che si rinnova a più di 25 US$ al mese, ha senso solo se ti serve lo spazio in più.",
         "**In entrambi i casi**, guarda la colonna del rinnovo prima di pagare e controlla il valore nel carrello. La Hostinger è in campagna e i prezzi possono cambiare.",
         "Se fosse per il mio sito, prenderei il Premium per un sito solo, perché costa meno in promozione e al rinnovo."
@@ -190,13 +190,13 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Quale hosting è meglio? Dipende da quanti siti hai e da cosa pesa di più per te, la promozione o il rinnovo. Confronta il rinnovo, la durata, il paese del server e il VPS, come sopra.",
+        "Quale hosting è meglio? Dipende dai requisiti del progetto e dal costo completo, e da cosa pesa di più per te, la promozione o il rinnovo. Confronta il rinnovo, la durata, il paese del server e il VPS, come sopra.",
         "Quale piano Hostinger si rinnova al prezzo più basso? Il Premium, a 10,99 US$ al mese sul sito internazionale, dopo una promozione di 48 mesi a 2,49 US$.",
         "Conviene il VPS della Hostinger? Dipende dal carico del sito. Confronta vCPU, memoria e rinnovo: il KVM 1 si rinnova a 11,99 US$ al mese sul sito internazionale.",
         "La Hostinger dice dove si trovano i suoi server? Sì: l'elenco ufficiale cita data center in Europa, Asia, Nord America e Sud America per hosting web, cloud e VPS, in base alla disponibilità. La posta è conservata a parte, in Francia e Germania.",
-        "Il codice SONAR20 vale sul VPS? Sì. L'abbiamo provato sul piano Startup di e-commerce, del costruttore di negozi, e ha dato il 20% sul primo periodo.",
+        "SONAR20 vale sul VPS Hostinger? Sì, su un nuovo acquisto di VPS idoneo: 20% sul primo periodo. Controlla lo sconto del piano scelto nel carrello.",
         "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio.",
-        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi idonei con lo stesso account. Il rinnovo del piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
     {
@@ -209,7 +209,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+    "text": "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Registrazione di domini e rinnovo sono esclusi.",
     "label": "Vedi i piani di hosting con il SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -230,7 +230,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre: costa meno in promozione e al rinnovo.",
+      "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre, e il piano copre il progetto: costa meno in promozione e al rinnovo.",
       "Prendi un VPS se il sito ha bisogno di processore e memoria garantiti: il KVM 1 ha già 4 GB."
     ],
     "skipIf": [

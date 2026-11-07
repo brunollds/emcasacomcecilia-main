@@ -45,7 +45,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Os ciclos são diferentes, 48 meses e 3 anos, então a comparação justa é por mês, com a renovação ao lado, na tabela abaixo."
+        "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Antes de escolher, confira se o plano atende à aplicação, ao espaço e ao backup do projeto, não só ao número de sites."
       ]
     },
     {
@@ -270,14 +270,14 @@
     {
       "heading": "Cupom SONAR20 na Hostinger",
       "paragraphs": [
-        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, o e-mail profissional e o Reach. O código vale no VPS e em toda compra nova; na renovação, não. Nos planos de hospedagem desta tabela, não testamos; confira no carrinho. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
+        "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. Testamos o código no Startup de e-commerce, no e-mail profissional e no Reach; para o plano de hospedagem ou VPS que escolher, confira a aplicação no carrinho. Registro de domínio e renovação ficam fora. Condições em [cupons da Hostinger](/cupons/hostinger).",
         "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
       ]
     },
     {
       "heading": "Qual escolher: o veredito",
       "paragraphs": [
-        "**Escolha a Hostinger** para um site só, como blog, portfólio ou página de empresa: o Single custa menos na promoção e na renovação, e a promoção dura 48 meses. A Hostinger também é a escolha se você quer um VPS com mais memória pelo mesmo número de vCPU.",
+        "**Escolha a Hostinger** para um site só, como blog, portfólio ou página de empresa, se o plano atende ao projeto: o Single custa menos na promoção e na renovação, e a promoção dura 48 meses. A Hostinger também é a escolha se você quer um VPS com mais memória pelo mesmo número de vCPU.",
         "**Escolha a HostGator** para vários sites, ou se espaço em disco e backup diário em todo plano pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
         "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar.",
         "Se fosse para o meu site, eu levaria a Hostinger para um site só, porque o Single custa menos na promoção e na renovação."
@@ -286,13 +286,13 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é melhor, Hostinger ou HostGator? Depende do plano. Para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço.",
+        "Qual é melhor, Hostinger ou HostGator? Depende dos requisitos do projeto e do custo completo. Para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço.",
         "Qual renova mais barato, Hostinger ou HostGator? No plano de 1 site, a Hostinger: R$ 23,99/mês contra R$ 31,39/mês do preço regular da HostGator. No plano para vários sites, a HostGator: R$ 40,89/mês contra R$ 64,99/mês do Unlimited.",
         "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
         "A Hostinger tem servidor no Brasil? Tem: a lista oficial da Hostinger inclui o Brasil para hospedagem web, cloud e VPS, sujeita à disponibilidade. O e-mail da Hostinger fica à parte, na França e na Alemanha. A HostGator também declara servidores no Brasil.",
-        "O cupom SONAR20 vale no VPS da Hostinger? Vale. Testamos no plano Startup de e-commerce, do Criador de lojas, e o desconto é de 20% no primeiro período.",
+        "O SONAR20 vale no VPS da Hostinger? Vale, em compra nova elegível de VPS: 20% no primeiro período. Confira o desconto do plano escolhido no carrinho.",
         "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer.",
-        "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+        "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova elegível, com a mesma conta. A renovação do serviço que você já tem sai pelo preço de tabela, sem desconto."
       ]
     },
     {
@@ -304,18 +304,18 @@
   ],
   "decision": {
     "takeIf": [
-      "Leve a Hostinger se é um site só, como blog, portfólio ou página de empresa: o plano de 1 site custa menos na promoção e na renovação.",
+      "Leve a Hostinger se é um site só, como blog, portfólio ou página de empresa, e o Single atende ao projeto: ele custa menos na promoção e na renovação.",
       "Leve a Hostinger se quer um VPS com mais memória pelo mesmo número de vCPU."
     ],
     "skipIf": [
-      "Passe para a HostGator se vai ter vários sites: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
+      "Passe para a HostGator se vai ter vários sites e o plano M atende ao projeto: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
       "Passe para a HostGator se espaço em disco e backup diário em todo plano pesam para você."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+    "text": "SONAR20: 20% no primeiro período de compra nova elegível. Registro de domínio e renovação ficam fora do desconto.",
     "label": "Ver os planos com o SONAR20",
     "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
     "sponsored": true

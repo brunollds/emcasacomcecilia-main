@@ -113272,8 +113272,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw o Hermes Agent: canali, memoria, apprendimento, licenza e costo reale su Hostinger, con piani di server letti il 21 ottobre 2026.",
-    "metaDescription": "OpenClaw o Hermes Agent su Hostinger: quale scegliere, canali, memoria, modelli IA e il codice SONAR20, letti il 21 ottobre 2026.",
+    "description": "OpenClaw o Hermes Agent: confronta interfacce, canali, memoria e voci di costo per eseguire ciascuno su Hostinger.",
+    "metaDescription": "OpenClaw o Hermes Agent: interfaccia, memoria, costi IA, gestito o VPS. SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -113373,7 +113373,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Server.** Può essere il tuo computer, acceso di continuo, oppure un VPS, un server virtuale in affitto. Il VPS dà accesso root, il controllo totale della macchina, ma aggiornare e proteggere il sistema tocca a te. Più memoria RAM c'è, più programmi girano insieme senza bloccarsi.",
           "**Piano gestito.** Hostinger installa, aggiorna e mantiene l'assistente. OpenClaw e Hermes Agent sono nello stesso piano, «App di automazione con IA».",
-          "**Modello IA.** L'assistente chiede le risposte a un modello, come Claude, GPT o Gemini, che fa pagare l'uso. Ci sono due modi di pagare: una chiave API personale, con cui il provider ti fattura direttamente, oppure crediti IA acquistati su Hostinger. Il gestito di OpenClaw e quello di Hermes Agent includono un saldo iniziale; la ricarica non compare in una pagina pubblica, quindi controlla nel pannello. Per Nous Portal, il prezzo non è indicato nella pagina del progetto."
+          "**Modello IA.** L'assistente usa un modello esterno per rispondere. Verifica gli accessi disponibili nell'installazione scelta e come viene fatturato ciascuno. Con la tua chiave API, il provider ti fattura direttamente; con i crediti Hostinger, controlla saldo, limiti e condizioni nel pannello. Servizi come Nous Portal hanno condizioni proprie. Prima dell'uso, conferma il costo e cosa succede quando il saldo finisce."
         ],
         "postParagraphs": [
           "Il costo mensile dell'uso del modello non è indicato nelle fonti: dipende dal modello scelto e dal numero di conversazioni. Per questo la guida non riporta una stima del totale al mese."
@@ -113385,7 +113385,7 @@ export const reviewsData: unknown[] = [
           "Prima di iniziare, conferma tre cose. Valgono per entrambi gli agenti."
         ],
         "bullets": [
-          "**Modello IA.** L'agente non risponde da solo: chiede le risposte a un modello di un'altra azienda. Su Hostinger usi i crediti IA del piano o la tua chiave API, che il programma usa per parlare con il provider. Chi fa pagare l'uso è il provider, direttamente a te.",
+          "**Modello IA.** Scegli accesso e fatturazione: con la tua chiave API il provider ti fattura direttamente; con i crediti Hostinger verifica saldo e condizioni della piattaforma. Non trattare entrambe le vie come fatturazione diretta del provider.",
           "**Un canale di messaggistica.** Telegram è la strada più semplice. Crei il bot su BotFather, il bot ufficiale di Telegram per creare bot, e conservi il token. WhatsApp entra come dispositivo collegato, con la lettura di un codice QR.",
           "**Chi si occupa del server.** Nel gestito, Hostinger aggiorna e cura la sicurezza. Nel VPS, l'aggiornamento è tuo, con il pulsante Update di Docker Manager, e anche la sicurezza del server. Docker è il programma che esegue ogni applicazione isolata in un container."
         ],
@@ -113460,15 +113460,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nel gestito, il piano include un saldo iniziale di crediti IA, e ciò che lo supera viene addebitato in base al consumo. Nel VPS, Hostinger installa l'assistente con Docker, e l'aggiornamento e la sicurezza del server restano a tuo carico.",
-          "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, dopo un rimborso di VPS completato, ci sono 180 giorni di attesa prima del successivo. Gli upgrade del VPS e i pagamenti in criptovalute non sono rimborsabili.",
+          "Nel gestito, verifica nell’offerta e nel pannello se sono inclusi crediti IA, il saldo e cosa succede quando finisce; non dare per scontati la continuità del servizio o addebiti automatici. Nel VPS, Hostinger installa l’assistente con Docker; aggiornamento e sicurezza del server restano a tuo carico.",
+          "Il gestito ha 30 giorni per chiedere il rimborso secondo le condizioni del prodotto; per il VPS, verifica la politica applicabile prima di acquistare. Gli upgrade del VPS e i pagamenti in criptovalute non sono rimborsabili.",
           "Se vuoi fare il conto dei requisiti prima di scegliere il piano, leggi il [miglior VPS per OpenClaw](/it/reviews/miglior-vps-per-openclaw). Per la campagna, guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte)."
         ]
       },
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Controlla l'importo nel carrello prima di pagare.",
+          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, mensile o annuale, anche con account esistente. Registrazione di domini e rinnovo sono esclusi; il rinnovo si paga al prezzo di listino. Consulta le condizioni nella [pagina Hostinger](/it/coupons/hostinger).",
           "Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
@@ -113480,7 +113480,7 @@ export const reviewsData: unknown[] = [
           "Serve saper programmare? Per avviare il gestito no: scegli i canali e incolli il token. Nel VPS serve conoscere le basi dei server, come root, Docker e aggiornamenti. Programmare entra in gioco solo se vuoi mettere mano al codice del progetto.",
           "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona o di un team che si fida a vicenda, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
           "Quale scegliere se uso già Claude Code? Claude Code è uno strumento per programmare nel terminale e non sostituisce nessuno dei due. Entrambi accettano la chiave di Anthropic: OpenClaw elenca Anthropic tra i provider, e il README di Hermes Agent riporta la chiave di Anthropic tra i segreti. Se vuoi un agente che impara dall'uso, Hermes Agent si adatta meglio. Se vuoi molti canali e un'app sul telefono, OpenClaw.",
-          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+          "Un cliente Hostinger esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
         ]
       },
       {
@@ -113494,7 +113494,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+      "text": "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Registrazione di domini e rinnovo sono esclusi.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113557,8 +113557,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw o Hermes Agent: canales, memoria, aprendizaje, licencia y coste real en Hostinger, con planes de servidor leídos el 21 de octubre de 2026.",
-    "metaDescription": "OpenClaw o Hermes Agent en Hostinger: cuál elegir, canales, memoria, modelos de IA y el código SONAR20, leídos el 21 de octubre de 2026.",
+    "description": "OpenClaw o Hermes Agent: compara interfaces, canales, memoria y categorías de coste para ejecutar cada uno en Hostinger.",
+    "metaDescription": "OpenClaw o Hermes Agent: interfaz, memoria, coste de IA y gestionado o VPS. SONAR20 da un 20 % en el primer periodo de una compra nueva elegible.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -113659,7 +113659,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Servidor.** Puede ser tu ordenador, encendido todo el tiempo, o un VPS, un servidor virtual alquilado. El VPS da acceso root, el control total de la máquina, pero eres tú quien actualiza y protege el sistema. Cuanta más memoria RAM, más programas funcionan a la vez sin bloquearse.",
           "**Plan gestionado.** Hostinger instala, actualiza y mantiene el asistente. OpenClaw y Hermes Agent están en el mismo plan, «Aplicaciones de automatización con IA».",
-          "**Modelo de IA.** El asistente pide las respuestas a un modelo, como Claude, GPT o Gemini, que cobra por el uso. Hay dos formas de pagar: una clave de API propia, con la que el proveedor te cobra directamente, o créditos de IA comprados en Hostinger. El gestionado de OpenClaw y el de Hermes Agent traen saldo inicial; la recarga no aparece en una página pública, así que consúltala en el panel. En Nous Portal, el precio no se indica en la página del proyecto."
+          "**Modelo de IA.** El asistente usa un modelo externo para responder. Comprueba las opciones de acceso de la instalación elegida y cómo se cobra cada una. Con tu propia clave de API, el proveedor te cobra directamente; con créditos de Hostinger, revisa saldo, límites y condiciones en el panel. Servicios como Nous Portal tienen condiciones propias. Antes de usarlo, confirma el coste y qué ocurre cuando se agota el saldo."
         ],
         "postParagraphs": [
           "El coste mensual del uso del modelo no figura en las fuentes: depende del modelo elegido y del número de conversaciones. Por eso esta guía no incluye una estimación del total mensual."
@@ -113671,7 +113671,7 @@ export const reviewsData: unknown[] = [
           "Antes de empezar, confirma tres cosas. Valen para los dos agentes."
         ],
         "bullets": [
-          "**Modelo de IA.** El agente no responde solo: pide las respuestas a un modelo de otra empresa. En Hostinger, usas los créditos de IA del plan o tu clave de API, que el programa utiliza para hablar con el proveedor. Quien cobra por el uso es el proveedor, directamente a ti.",
+          "**Modelo de IA.** Elige la forma de acceso y cobro: con tu clave de API, el proveedor te factura directamente; con créditos de Hostinger, consulta saldo y condiciones de la plataforma. No trates ambas vías como cobro directo del proveedor.",
           "**Un canal de mensajería.** Telegram es el camino más sencillo. Creas el bot en BotFather, el bot oficial de Telegram para crear bots, y guardas el token. WhatsApp entra como dispositivo vinculado, con lectura de un código QR.",
           "**Quién cuida el servidor.** En el gestionado, Hostinger actualiza y se ocupa de la seguridad. En el VPS, la actualización es tuya, con el botón Update del Docker Manager, y la seguridad del servidor también. Docker es el programa que ejecuta cada aplicación aislada en un contenedor."
         ],
@@ -113746,15 +113746,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "En el gestionado, el plan trae saldo inicial de créditos de IA, y lo que pase de ahí se cobra según el consumo. En el VPS, Hostinger instala el asistente con Docker, y la actualización y la seguridad del servidor quedan de tu parte.",
-          "El gestionado tiene 30 días para pedir el reembolso. En el VPS, tras un reembolso de VPS completado, hay 180 días de espera hasta el siguiente. Las mejoras del VPS y los pagos en criptomonedas no se reembolsan.",
+          "En el gestionado, comprueba en la oferta y el panel si hay créditos de IA incluidos, el saldo y qué ocurre al agotarlo; no des por hecho que el servicio continúa ni que se cobra automáticamente. En el VPS, Hostinger instala el asistente con Docker, y la actualización y la seguridad del servidor quedan de tu parte.",
+          "El gestionado tiene 30 días para pedir el reembolso según las condiciones del producto; en el VPS, revisa la política aplicable antes de contratar. Las mejoras del VPS y los pagos en criptomonedas no se reembolsan.",
           "Si quieres hacer la cuenta de requisitos antes de elegir el plan, lee el [mejor VPS para OpenClaw](/es/reviews/mejor-vps-para-openclaw). Para la campaña, mira [el Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas)."
         ]
       },
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Comprueba el importe en el carrito antes de pagar.",
+          "Introduce **SONAR20** en el carrito: 20 % en el primer periodo de una compra nueva elegible, mensual o anual, también con cuenta existente. El registro de dominios y la renovación quedan fuera; la renovación se cobra al precio de lista. Consulta las condiciones en la [página de Hostinger](/es/coupons/hostinger).",
           "Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
@@ -113766,7 +113766,7 @@ export const reviewsData: unknown[] = [
           "¿Hace falta saber programar? Para poner en marcha el gestionado, no: eliges los canales y pegas el token. En el VPS, hace falta saber lo básico de servidores, como root, Docker y actualizaciones. Programar solo entra si quieres tocar el código del proyecto.",
           "¿Es seguro? Depende de cómo lo uses. Las dos políticas de seguridad piden el mismo cuidado: uso por una persona o un equipo que confía entre sí, sin exposición directa a internet y con revisión de lo que instalas de terceros.",
           "¿Cuál elegir si ya uso Claude Code? Claude Code es una herramienta para programar en la terminal y no sustituye a ninguno de los dos. Los dos aceptan clave de Anthropic: OpenClaw incluye a Anthropic entre los proveedores, y el README de Hermes Agent trae la clave de Anthropic entre los secretos. Si quieres un agente que aprende con el uso, Hermes Agent encaja mejor. Si quieres muchos canales y app en el móvil, OpenClaw.",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+          "¿Un cliente existente de Hostinger puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. Da un 20 % en el primer periodo; el registro de dominio también queda fuera. Comprueba el total del carrito."
         ]
       },
       {
@@ -113780,7 +113780,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer periodo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+      "text": "SONAR20: 20 % en el primer periodo de una compra nueva elegible. No se aplica al registro de dominios ni a la renovación.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113842,8 +113842,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw oder Hermes Agent: Kanäle, Gedächtnis, Lernen, Lizenz und die tatsächlichen Kosten bei Hostinger, mit am 21. Oktober 2026 abgelesenen Serverplänen.",
-    "metaDescription": "OpenClaw oder Hermes Agent bei Hostinger: welcher passt, Kanäle, Gedächtnis, KI-Modelle und der Code SONAR20, abgelesen am 21. Oktober 2026.",
+    "description": "OpenClaw oder Hermes Agent: Oberflächen, Kanäle, Gedächtnis und Kostenarten für den Betrieb bei Hostinger im Vergleich.",
+    "metaDescription": "OpenClaw oder Hermes Agent: Oberfläche, Gedächtnis, KI-Kosten, verwaltet oder VPS. SONAR20 gibt 20 % im ersten Zeitraum eines berechtigten Neukaufs.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -113943,7 +113943,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Server.** Das kann Ihr Computer sein, der ständig eingeschaltet bleibt, oder ein VPS, ein gemieteter virtueller Server. Der VPS gibt Root-Zugriff, die volle Kontrolle über die Maschine, aber Sie sind es, der das System aktualisiert und schützt. Je mehr RAM, desto mehr Programme laufen gleichzeitig, ohne zu haken.",
           "**Verwalteter Tarif.** Hostinger installiert, aktualisiert und betreut den Assistenten. OpenClaw und Hermes Agent sind im selben Tarif, „AI automation apps“.",
-          "**KI-Modell.** Der Assistent lässt seine Antworten von einem Modell wie Claude, GPT oder Gemini erzeugen, das die Nutzung berechnet. Es gibt zwei Wege zu zahlen: einen eigenen API-Schlüssel, bei dem der Anbieter direkt mit Ihnen abrechnet, oder bei Hostinger gekaufte KI-Guthaben. Der verwaltete Tarif von OpenClaw und der von Hermes Agent enthalten ein Startguthaben; das Aufladen steht auf keiner öffentlichen Seite, prüfen Sie es also im Dashboard. Bei Nous Portal ist der Preis auf der Projektseite nicht angegeben."
+          "**KI-Modell.** Der Assistent nutzt ein externes Modell für Antworten. Prüfen Sie die Zugangsoptionen der gewählten Installation und deren Abrechnung. Mit eigenem API-Schlüssel rechnet der Anbieter direkt mit Ihnen ab; bei Hostinger-Credits prüfen Sie Guthaben, Limits und Bedingungen im Dashboard. Dienste wie Nous Portal haben eigene Bedingungen. Klären Sie vor der Nutzung Kosten und Verhalten bei aufgebrauchtem Guthaben."
         ],
         "postParagraphs": [
           "Die monatlichen Kosten der Modellnutzung sind in den Quellen nicht angegeben: Sie hängen vom gewählten Modell und von der Zahl der Gespräche ab. Deshalb enthält dieser Leitfaden keine Schätzung der monatlichen Gesamtsumme."
@@ -113955,7 +113955,7 @@ export const reviewsData: unknown[] = [
           "Bevor Sie anfangen, klären Sie drei Dinge. Sie gelten für beide Agenten."
         ],
         "bullets": [
-          "**KI-Modell.** Der Agent antwortet nicht von allein: Er lässt seine Antworten von einem Modell eines anderen Unternehmens erzeugen. Bei Hostinger nutzen Sie die KI-Guthaben des Tarifs oder Ihren API-Schlüssel, mit dem das Programm mit dem Anbieter spricht. Die Nutzung berechnet der Anbieter, direkt Ihnen.",
+          "**KI-Modell.** Wählen Sie Zugang und Abrechnung: Mit eigenem API-Schlüssel rechnet der Anbieter direkt mit Ihnen ab; bei Hostinger-Guthaben prüfen Sie Saldo und Plattformbedingungen. Behandeln Sie nicht beide Wege als direkte Anbieterabrechnung.",
           "**Ein Nachrichtenkanal.** Telegram ist der einfachste Weg. Sie erstellen den Bot bei BotFather, dem offiziellen Telegram-Bot zum Erstellen von Bots, und bewahren den Token auf. WhatsApp kommt als verknüpftes Gerät hinzu, per QR-Code-Scan.",
           "**Wer sich um den Server kümmert.** Beim verwalteten Tarif aktualisiert und schützt Hostinger. Beim VPS liegt die Aktualisierung bei Ihnen, über die Schaltfläche Update im Docker Manager, und die Sicherheit des Servers ebenfalls. Docker ist das Programm, das jede Anwendung isoliert in einem Container ausführt."
         ],
@@ -114030,15 +114030,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Der verwaltete Tarif enthält ein Startguthaben an KI-Credits, und was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung und Sicherheit des Servers liegen bei Ihnen.",
-          "Beim verwalteten Tarif haben Sie 30 Tage, um eine Erstattung zu beantragen. Beim VPS gilt nach einer abgeschlossenen VPS-Erstattung eine Sperrfrist von 180 Tagen bis zur nächsten. Upgrades für den VPS und Zahlungen in Kryptowährung sind nicht erstattungsfähig.",
+          "Prüfen Sie beim verwalteten Angebot und im Dashboard, ob KI-Credits enthalten sind, wie hoch das Guthaben ist und was bei dessen Verbrauch geschieht. Gehen Sie weder von fortgesetztem Betrieb noch von automatischer Abrechnung aus. Beim VPS installiert Hostinger den Assistenten mit Docker; Aktualisierung und Sicherheit des Servers liegen bei Ihnen.",
+          "Der verwaltete Tarif hat 30 Tage für eine Erstattungsanfrage gemäß den Produktbedingungen; beim VPS prüfen Sie vor dem Kauf die anwendbare Richtlinie. Upgrades für den VPS und Zahlungen in Kryptowährung sind nicht erstattungsfähig.",
           "Wenn Sie die Anforderungen durchrechnen wollen, bevor Sie den Tarif wählen, lesen Sie den [besten VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw). Zur Aktion sehen Sie [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote)."
         ]
       },
       {
         "heading": "Gutschein SONAR20",
         "paragraphs": [
-          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen.",
+          "Geben Sie **SONAR20** im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, monatlich oder jährlich, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; die Verlängerung wird zum Listenpreis berechnet. Bedingungen stehen auf der [Hostinger-Seite](/de/coupons/hostinger).",
           "Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
@@ -114050,7 +114050,7 @@ export const reviewsData: unknown[] = [
           "Muss man programmieren können? Für den verwalteten Tarif nicht: Sie wählen die Kanäle und fügen den Token ein. Beim VPS braucht es Grundwissen über Server, etwa Root, Docker und Aktualisierungen. Programmieren kommt nur ins Spiel, wenn Sie den Code des Projekts anpassen wollen.",
           "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person oder ein Team mit gegenseitigem Vertrauen, keine direkte Erreichbarkeit aus dem Internet und eine Prüfung dessen, was Sie von Dritten installieren.",
           "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keinen der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README von Hermes Agent führt den Anthropic-Schlüssel unter den Secrets auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, OpenClaw.",
-          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+          "Können Hostinger-Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
         ]
       },
       {
@@ -114064,7 +114064,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+      "text": "SONAR20 gibt 20 % im ersten Zeitraum eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind ausgeschlossen.",
       "label": "Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114127,8 +114127,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw ou Hermes Agent : canaux, mémoire, apprentissage, licence et coût réel chez Hostinger, avec des offres de serveur relevées le 21 octobre 2026.",
-    "metaDescription": "OpenClaw ou Hermes Agent chez Hostinger : lequel choisir, canaux, mémoire, modèles d'IA et le code SONAR20, relevés le 21 octobre 2026.",
+    "description": "OpenClaw ou Hermes Agent : comparez interfaces, canaux, mémoire et postes de coût pour un usage chez Hostinger.",
+    "metaDescription": "OpenClaw ou Hermes Agent : interface, mémoire, coûts d'IA, offre gérée ou VPS. SONAR20 : 20 % sur la première période d'un nouvel achat éligible.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -114229,7 +114229,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Le serveur.** Il peut s'agir de votre ordinateur, allumé en permanence, ou d'un VPS, un serveur virtuel loué. Le VPS donne l'accès root, le contrôle total de la machine, mais c'est vous qui mettez à jour et protégez le système. Plus il y a de mémoire RAM, plus de programmes tournent en même temps sans ralentir.",
           "**L'offre gérée.** Hostinger installe, met à jour et maintient l'assistant. OpenClaw et Hermes Agent sont dans la même offre, « Applications d'automatisation IA ».",
-          "**Le modèle d'IA.** L'assistant demande ses réponses à un modèle, comme Claude, GPT ou Gemini, qui facture l'usage. Il y a deux façons de payer : une clé d'API personnelle, avec laquelle le fournisseur vous facture directement, ou des crédits d'IA achetés chez Hostinger. L'offre gérée d'OpenClaw et celle de Hermes Agent incluent un solde de départ ; la recharge n'apparaît sur aucune page publique, donc vérifiez dans le tableau de bord. Pour Nous Portal, le prix n'est pas indiqué sur la page du projet."
+          "**Le modèle d'IA.** L'assistant utilise un modèle externe pour répondre. Vérifiez les accès disponibles dans l'installation choisie et leur facturation. Avec votre clé d'API, le fournisseur vous facture directement ; avec les crédits Hostinger, vérifiez le solde, les limites et les conditions dans le tableau de bord. Des services comme Nous Portal ont leurs propres conditions. Avant utilisation, confirmez le coût et ce qui se passe lorsque le solde est épuisé."
         ],
         "postParagraphs": [
           "Le coût mensuel de l'usage du modèle n'est pas indiqué dans les sources : il dépend du modèle choisi et du nombre de conversations. C'est pourquoi ce guide ne donne pas d'estimation du total par mois."
@@ -114241,7 +114241,7 @@ export const reviewsData: unknown[] = [
           "Avant de commencer, vérifiez trois choses. Elles valent pour les deux agents."
         ],
         "bullets": [
-          "**Modèle d'IA.** L'agent ne répond pas tout seul : il demande les réponses à un modèle d'une autre entreprise. Chez Hostinger, vous utilisez les crédits d'IA de l'offre ou votre clé d'API, que le programme utilise pour parler au fournisseur. C'est le fournisseur qui facture l'usage, directement à vous.",
+          "**Modèle d'IA.** Choisissez le mode d'accès et de facturation : avec votre clé d'API, le fournisseur vous facture directement ; avec les crédits Hostinger, vérifiez le solde et les conditions de la plateforme. Ne traitez pas les deux voies comme une facturation directe du fournisseur.",
           "**Un canal de messagerie.** Telegram est le plus simple. Vous créez le bot avec BotFather, le bot officiel de Telegram pour créer des bots, et vous gardez le jeton. WhatsApp s'ajoute comme appareil associé, en scannant un code QR.",
           "**Qui s'occupe du serveur.** En géré, Hostinger met à jour et assure la sécurité. En VPS, la mise à jour vous revient, avec le bouton Update de Docker Manager, et la sécurité du serveur aussi. Docker est le programme qui fait tourner chaque application isolée dans un conteneur."
         ],
@@ -114316,15 +114316,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "En géré, l'offre inclut un solde de départ de crédits d'IA, et ce qui dépasse est facturé selon la consommation. En VPS, Hostinger installe l'assistant avec Docker, et la mise à jour et la sécurité du serveur restent à votre charge.",
-          "L'offre gérée accorde 30 jours pour demander un remboursement. En VPS, après un remboursement de VPS terminé, un délai de carence de 180 jours s'applique avant le suivant. Les mises à niveau du VPS et les paiements en cryptomonnaie ne sont pas remboursables.",
+          "En géré, vérifiez dans l'offre et le tableau de bord si des crédits d'IA sont inclus, leur solde et ce qui se passe à leur épuisement ; ne présumez ni la continuité du service ni une facturation automatique. En VPS, Hostinger installe l'assistant avec Docker ; la mise à jour et la sécurité du serveur restent à votre charge.",
+          "L'offre gérée accorde 30 jours pour demander un remboursement, selon les conditions du produit ; pour le VPS, consultez la politique applicable avant d'acheter. Les mises à niveau du VPS et les paiements en cryptomonnaie ne sont pas remboursables.",
           "Si vous voulez faire le calcul des besoins avant de choisir l'offre, lisez le [meilleur VPS pour OpenClaw](/fr/reviews/meilleur-vps-pour-openclaw). Pour la campagne, voyez [le Black Friday d'Hostinger](/fr/reviews/black-friday-hostinger-offres)."
         ]
       },
       {
         "heading": "Code promo SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Vérifiez le montant dans le panier avant de payer.",
+          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, mensuel ou annuel, y compris avec un compte existant. L'enregistrement de domaines et le renouvellement sont exclus ; le renouvellement est facturé au prix catalogue. Consultez la [page Hostinger](/fr/coupons/hostinger).",
           "Où coller le code est expliqué dans [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
@@ -114336,7 +114336,7 @@ export const reviewsData: unknown[] = [
           "Faut-il savoir programmer ? Pour lancer l'offre gérée, non : vous choisissez les canaux et collez le jeton. En VPS, il faut connaître les bases des serveurs, comme root, Docker et les mises à jour. La programmation n'entre en jeu que si vous voulez toucher au code du projet.",
           "Est-ce sûr ? Cela dépend de l'usage. Les deux politiques de sécurité demandent la même précaution : usage par une personne ou une équipe de confiance mutuelle, sans exposition directe à l'internet et avec un examen de ce que vous installez de tiers.",
           "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw cite Anthropic parmi ses fournisseurs, et le README de Hermes Agent range la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une appli sur le téléphone, OpenClaw.",
-          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+          "Un client Hostinger existant peut-il utiliser SONAR20 ? Il peut s'appliquer à un nouvel achat éligible avec le même compte, pas au renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
         ]
       },
       {
@@ -114350,7 +114350,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+      "text": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible, hors enregistrement de domaines et renouvellement.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114511,9 +114511,9 @@ export const reviewsData: unknown[] = [
           "O software não tem custo nos dois casos. O gasto real vem de três lugares:"
         ],
         "bullets": [
-          "**Servidor.** Pode ser o seu computador, ligado o tempo todo, ou um VPS, um servidor virtual alugado. O VPS dá acesso root, o controle total da máquina, mas quem atualiza e protege o sistema é você. Quanto mais memória RAM, mais programas rodam ao mesmo tempo sem travar.",
-          "**Plano gerenciado.** A Hostinger instala, atualiza e mantém o assistente. OpenClaw e Hermes Agent estão no mesmo plano, \"Apps de automação com IA\".",
-          "**Modelo de IA.** O assistente pede as respostas a um modelo, como Claude, GPT ou Gemini, que cobra pelo uso. Há duas formas de pagar: uma chave de API própria, em que o provedor cobra direto de você, ou créditos de IA comprados na Hostinger. O gerenciado do OpenClaw e o do Hermes Agent trazem saldo inicial; a recarga não aparece em página pública, então confira no painel. No Nous Portal, o preço não está informado na página do projeto."
+          "**Servidor ou plano gerenciado.** Você pode executar o agente no próprio computador, alugar um VPS e administrá-lo ou contratar a instalação e manutenção gerenciadas. Compare recursos e responsabilidade de operação: RAM sozinha não garante que uma carga rode sem travar.",
+          "**Na Hostinger.** OpenClaw e Hermes Agent aparecem no mesmo plano de aplicativos de automação com IA. Os planos e preços em reais estão na tabela abaixo.",
+          "**Modelo de IA.** O assistente usa um modelo externo para responder. O custo depende do modelo escolhido e do número de conversas, e as formas de pagar estão em Antes de instalar. No Nous Portal, o preço não está informado na página do projeto."
         ],
         "postParagraphs": [
           "Os preços de servidor e de plano estão numa tabela só, no capítulo Onde rodar na Hostinger, mais abaixo. O custo mensal do uso de modelo não está informado nas fontes: depende do modelo escolhido e do número de conversas. Por isso este guia não traz estimativa de total por mês."
@@ -114525,7 +114525,7 @@ export const reviewsData: unknown[] = [
           "Antes de começar, confirme três coisas. Valem para os dois agentes."
         ],
         "bullets": [
-          "**Modelo de IA.** O agente não responde sozinho: ele pede as respostas a um modelo de outra empresa. Na Hostinger, você usa os créditos de IA do plano ou a sua chave de API, que o programa usa para falar com o provedor. Quem cobra pelo uso é o provedor, direto de você.",
+          "**Modelo de IA.** Escolha a forma de acesso e de cobrança: com chave de API própria, o provedor cobra diretamente; com créditos da Hostinger, confira saldo e condições na plataforma. Não trate as duas formas como cobrança direta do provedor.",
           "**Um canal de mensagem.** O Telegram é o caminho mais simples. Você cria o bot no BotFather, o bot oficial do Telegram para criar bots, e guarda o token. O WhatsApp entra como aparelho vinculado, com leitura de QR code.",
           "**Quem cuida do servidor.** No gerenciado, a Hostinger atualiza e mantém a segurança. No VPS, a atualização é sua, pelo botão Update do Docker Manager, e a segurança do servidor também. Docker é o programa que roda cada aplicativo isolado num contêiner."
         ],
@@ -114618,15 +114618,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No gerenciado, o plano traz saldo inicial de créditos de IA, e o que passar dele é cobrado conforme o consumo. No VPS, a Hostinger instala o assistente com Docker, e a atualização e a segurança do servidor ficam com você.",
-          "O gerenciado tem 30 dias para pedir reembolso. No VPS, depois de um reembolso de VPS concluído, há 180 dias de carência até o próximo. Upgrades de VPS e pagamentos em criptomoeda ficam fora do reembolso.",
+          "No gerenciado, confira na oferta e no painel se há créditos de IA incluídos, qual é o saldo e o que acontece quando ele acaba; não presuma continuidade nem cobrança automática depois do esgotamento. No VPS, a Hostinger instala o assistente com Docker, e a atualização e a segurança do servidor ficam com você.",
+          "O gerenciado tem 30 dias para pedir reembolso, conforme as condições do produto; no VPS, reembolsos repetidos seguem regras próprias. Upgrades de VPS e pagamentos em criptomoeda ficam fora do reembolso.",
           "Se você quer a conta de requisitos antes de escolher o plano, leia o [melhor VPS para o OpenClaw](/reviews/melhor-vps-para-openclaw). Para a campanha, veja [a Black Friday da Hostinger](/reviews/black-friday-hostinger)."
         ]
       },
       {
         "heading": "Cupom SONAR20",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Confira o valor no carrinho antes de pagar.",
+          "Use **SONAR20** no carrinho: 20% no primeiro período de uma compra nova elegível, mensal ou anual, inclusive para quem já tem conta. Registro de domínio e renovação ficam fora do desconto. Confira as condições na [página da Hostinger](/cupons/hostinger).",
           "Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
@@ -114638,7 +114638,7 @@ export const reviewsData: unknown[] = [
           "Precisa saber programar? Para subir o gerenciado, não: você escolhe os canais e cola o token. No VPS, é preciso saber o básico de servidor, como root, Docker e atualizações. Programar só entra se você quiser mexer no código do projeto.",
           "É seguro? Depende de como você usa. As duas políticas de segurança pedem o mesmo cuidado: uso por uma pessoa ou uma equipe que confia entre si, sem exposição direta à internet e com revisão do que você instala de terceiros.",
           "Qual escolher se já uso o Claude Code? O Claude Code é uma ferramenta para programar no terminal e não substitui nenhum dos dois. Os dois aceitam chave da Anthropic: o OpenClaw lista a Anthropic entre os provedores, e o README do Hermes Agent traz a chave da Anthropic entre os segredos. Se você quer um agente que aprende com o uso, o Hermes Agent combina melhor. Se quer muitos canais e app no celular, o OpenClaw.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+          "O SONAR20 vale para quem já é cliente da Hostinger? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
         ]
       },
       {
@@ -114662,7 +114662,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+      "text": "SONAR20: 20% no primeiro período de uma compra nova elegível. Registro de domínio e renovação não recebem esse desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114714,8 +114714,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw と Hermes Agent を比較。チャンネル、メモリ、学習、ライセンス、Hostinger での実際の費用を、2026年10月21日に確認したサーバープランで解説します。",
-    "metaDescription": "Hostinger で OpenClaw と Hermes Agent のどちらを選ぶか。チャンネル、メモリ、AI モデル、SONAR20 コードを、2026年10月21日時点で確認しました。",
+    "description": "OpenClaw と Hermes Agent の画面、チャンネル、メモリ、Hostinger での運用にかかる費目を比較します。",
+    "metaDescription": "OpenClaw と Hermes Agent：画面、メモリ、AI 費用、マネージドと VPS。SONAR20 で対象の新規購入の初回期間が20%割引。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -114816,7 +114816,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**サーバー。** 常に電源を入れたままにしたご自身のパソコンか、借りる仮想サーバーの VPS を使います。VPS では root アクセス（マシン全体を操作できる権限）が得られますが、システムの更新と保護はご自身で行います。メモリ（RAM）が多いほど、同時に多くのプログラムを動かしても止まりにくくなります。",
           "**マネージドプラン。** Hostinger がアシスタントをインストールし、更新し、維持します。OpenClaw と Hermes Agent は同じプラン「AI自動化アプリ」に入っています。",
-          "**AI モデル。** アシスタントは Claude、GPT、Gemini などのモデルに回答を頼み、モデルは利用量に応じて料金を請求します。支払い方法は二つあります。プロバイダーが直接請求するご自身の API キーを使うか、Hostinger で AI クレジットを購入するかです。OpenClaw のマネージドにも Hermes Agent のマネージドにも初期の残高が付きますが、追加購入の価格は公開ページに載っていないので、管理画面で確認してください。Nous Portal の価格は、プロジェクトのページに載っていません。"
+          "**AI モデル。** アシスタントは外部モデルで回答を作ります。選んだ構成で利用できる接続方法と、それぞれの課金を確認してください。自分の API キーではプロバイダーが直接請求します。Hostinger のクレジットでは、管理画面で残高、上限、条件を確認します。Nous Portal などのサービスには独自の条件があります。利用前に、料金と、残高がなくなった後の扱いを確認してください。"
         ],
         "postParagraphs": [
           "モデルの月々の利用料は、情報源に載っていません。選ぶモデルと会話の数しだいです。そのため、このガイドでは月額の合計の目安は出していません。"
@@ -114828,7 +114828,7 @@ export const reviewsData: unknown[] = [
           "始める前に、三つのことを確認してください。どちらのエージェントにも当てはまります。"
         ],
         "bullets": [
-          "**AI モデル。** エージェントは自分だけでは答えません。他社のモデルに回答を頼みます。Hostinger では、プランの AI クレジットか、ご自身の API キー（プログラムがプロバイダーと通信するための鍵）を使います。利用料はプロバイダーが直接請求します。",
+          "**AI モデル。** 接続と支払い方法を決めてください。自分の API キーならプロバイダーが直接請求します。Hostinger のクレジットなら、Hostinger 側の残高と条件を確認します。両方をプロバイダーの直接請求として扱わないでください。",
           "**メッセージのチャンネル。** いちばん簡単なのは Telegram です。Telegram の公式のボット作成ボット BotFather でボットを作り、トークンを保管します。WhatsApp は連携した端末として、QR コードを読み取って接続します。",
           "**サーバーを誰が管理するか。** マネージドでは、Hostinger が更新とセキュリティを担当します。VPS では、更新は Docker Manager の Update ボタンでご自身が行い、サーバーのセキュリティもご自身の役目です。Docker は、アプリをコンテナの中で分離して動かすプログラムです。"
         ],
@@ -114903,15 +114903,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "マネージドでは、プランに AI クレジットの初期残高が付き、それを超えた分は使用量に応じて請求されます。VPS では、Hostinger が Docker でアシスタントをインストールし、更新とサーバーのセキュリティはご自身で行います。",
-          "マネージドは 30 日以内なら返金を依頼できます。VPS は、VPS の返金が完了してから 180 日たつまで、次の返金は受けられません。VPS のアップグレードと暗号資産での支払いは返金の対象外です。",
+          "マネージドでは、商品説明と管理画面で AI クレジットの有無、残高、使い切った後の扱いを確認してください。継続利用や自動課金を前提にしないでください。VPS では Hostinger が Docker でアシスタントをインストールし、更新とサーバーのセキュリティはご自身で管理します。",
+          "マネージドは 30 日以内なら、製品の条件に従って返金を依頼できます。VPS の繰り返しの返金は別のルールに従います。契約前に適用規約を確認してください。表示された期間は無条件の保証ではありません。VPS のアップグレードと暗号資産での支払いは返金の対象外です。",
           "プランを選ぶ前に必要なスペックを計算したいなら、[OpenClaw に最適な VPS](/ja/reviews/best-vps-for-openclaw-ja)をお読みください。キャンペーンについては、[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja)をご覧ください。"
         ]
       },
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから申し込んでください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。支払う前に、カートで金額を確認してください。",
+          "カートに **SONAR20** を入力してください。対象の新規購入で初回期間が20%割引になり、月額・年額契約や既存アカウントも対象です。ドメイン登録と更新は対象外で、更新は通常料金です。条件は [Hostinger のクーポンページ](/ja/coupons/hostinger) を確認してください。",
           "コードを貼り付ける場所は、[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
@@ -114923,7 +114923,7 @@ export const reviewsData: unknown[] = [
           "プログラミングの知識は必要ですか？マネージドを立ち上げるだけなら不要です。チャンネルを選んでトークンを貼り付けます。VPS では、root、Docker、更新といったサーバーの基本が必要です。プログラミングが必要になるのは、プロジェクトのコードを触りたいときだけです。",
           "安全ですか？使い方しだいです。二つのセキュリティポリシーは同じ注意を求めています。信頼できる一人、または互いに信頼し合うチームが使い、インターネットに直接さらさず、サードパーティのものをインストールする前に中身を確認することです。",
           "すでに Claude Code を使っていたら、どちらを選べばいいですか？Claude Code はターミナルで開発するためのツールで、どちらの代わりにもなりません。どちらも Anthropic のキーに対応しています。OpenClaw はプロバイダーの一つに Anthropic を挙げ、Hermes Agent の README は Anthropic のキーをシークレットの一つとして挙げています。使うほど学習するエージェントがほしいなら Hermes Agent が合います。チャンネルが多くスマートフォンのアプリもほしいなら OpenClaw です。",
-          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
+          "既存ユーザーもSONAR20を使える？ 同じアカウントでも対象の新規購入には使える場合がありますが、現在のサービスの更新には使えません。初回契約期間が20%割引で、ドメイン登録も対象外です。カートの総額を確認してください。"
         ]
       },
       {
@@ -114937,7 +114937,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+      "text": "SONAR20：対象の新規購入で初回期間が20%割引。ドメイン登録と更新は対象外です。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114999,8 +114999,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw와 Hermes Agent를 비교합니다. 채널, 메모리, 학습, 라이선스, 호스팅어에서 드는 실제 비용을 2026년 10월 21일에 확인한 서버 플랜으로 정리했습니다.",
-    "metaDescription": "호스팅어에서 OpenClaw와 Hermes Agent 중 무엇을 고를까요? 채널, 메모리, AI 모델, SONAR20 코드를 2026년 10월 21일 기준으로 확인했습니다.",
+    "description": "OpenClaw와 Hermes Agent의 인터페이스, 채널, 메모리와 호스팅어에서 각각 드는 운영 비용 항목을 비교합니다.",
+    "metaDescription": "OpenClaw와 Hermes Agent: 인터페이스, 메모리, AI 비용, 관리형과 VPS 비교. SONAR20은 적용 대상 신규 구매의 첫 기간에 20% 할인됩니다.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -115100,7 +115100,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**서버.** 항상 켜 둔 자신의 컴퓨터를 쓰거나, 가상 서버인 VPS를 빌릴 수 있습니다. VPS는 머신 전체를 제어하는 root 권한을 주지만, 시스템 업데이트와 보안은 직접 챙겨야 합니다. 메모리(RAM)가 많을수록 여러 프로그램을 동시에 돌려도 덜 멈춥니다.",
           "**관리형 플랜.** 호스팅어가 어시스턴트를 설치하고, 업데이트하고, 유지합니다. OpenClaw와 Hermes Agent는 같은 플랜인 'AI 자동화 앱'에 들어 있습니다.",
-          "**AI 모델.** 어시스턴트는 Claude, GPT, Gemini 같은 모델에 답변을 요청하고, 모델은 사용량에 따라 요금을 받습니다. 내는 방법은 두 가지입니다. 제공업체가 직접 청구하는 자체 API 키를 쓰거나, 호스팅어에서 AI 크레딧을 사는 것입니다. OpenClaw 관리형과 Hermes Agent 관리형 모두 초기 잔액이 포함되어 있습니다. 추가 충전 가격은 공개 페이지에 없으니 관리 화면에서 확인하세요. Nous Portal의 가격은 프로젝트 페이지에 나와 있지 않습니다."
+          "**AI 모델.** 어시스턴트는 외부 모델로 답변을 만듭니다. 선택한 설치 방식에서 제공하는 접속 방법과 각각의 요금을 확인하세요. 자체 API 키를 쓰면 제공업체가 직접 청구합니다. 호스팅어 크레딧을 쓰면 관리 화면에서 잔액, 한도와 조건을 확인하세요. Nous Portal 같은 서비스는 별도 조건이 있습니다. 사용 전에 비용과 잔액 소진 후의 처리를 확인하세요."
         ],
         "postParagraphs": [
           "모델 사용에 드는 월 비용은 출처에 나와 있지 않습니다. 고르는 모델과 대화 수에 따라 달라집니다. 그래서 이 가이드는 월 합계 추정치를 싣지 않았습니다."
@@ -115112,7 +115112,7 @@ export const reviewsData: unknown[] = [
           "시작하기 전에 세 가지를 확인하세요. 두 에이전트 모두에 해당합니다."
         ],
         "bullets": [
-          "**AI 모델.** 에이전트는 혼자서 답하지 못합니다. 다른 회사의 모델에 답변을 요청합니다. 호스팅어에서는 플랜의 AI 크레딧이나 자체 API 키(프로그램이 제공업체와 통신하는 데 쓰는 열쇠)를 씁니다. 사용료는 제공업체가 여러분에게 직접 청구합니다.",
+          "**AI 모델.** 접근과 결제 방식을 정하세요. 자체 API 키를 쓰면 제공업체가 직접 청구하며, 호스팅어 크레딧을 쓰면 플랫폼의 잔액과 조건을 확인합니다. 두 방식을 모두 제공업체의 직접 청구로 설명하면 안 됩니다.",
           "**메시지 채널.** 가장 간단한 길은 텔레그램입니다. 텔레그램의 공식 봇 제작 봇인 BotFather에서 봇을 만들고 토큰을 보관합니다. 왓츠앱은 연결된 기기로 들어가며 QR 코드를 읽어 연결합니다.",
           "**서버를 누가 관리하는가.** 관리형에서는 호스팅어가 업데이트와 보안을 맡습니다. VPS에서는 Docker Manager의 Update 버튼으로 직접 업데이트하고, 서버 보안도 직접 챙깁니다. Docker는 각 앱을 컨테이너 안에 격리해 실행하는 프로그램입니다."
         ],
@@ -115187,15 +115187,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "관리형에서는 플랜에 AI 크레딧 초기 잔액이 포함되고, 그 이상은 사용량에 따라 청구됩니다. VPS에서는 호스팅어가 Docker로 어시스턴트를 설치해 주고, 업데이트와 서버 보안은 직접 챙깁니다.",
-          "관리형은 30일 안에 환불을 요청할 수 있습니다. VPS는 VPS 환불이 완료된 뒤 180일이 지나야 다음 환불을 받을 수 있습니다. VPS 업그레이드와 암호화폐 결제는 환불되지 않습니다.",
+          "관리형은 상품 안내와 관리 화면에서 AI 크레딧 포함 여부, 잔액과 소진 후의 처리를 확인하세요. 잔액이 소진된 뒤에도 서비스가 계속되거나 요금이 자동으로 청구된다고 가정하지 마세요. VPS에서는 호스팅어가 Docker로 어시스턴트를 설치하고, 업데이트와 서버 보안은 직접 챙깁니다.",
+          "관리형은 제품 조건에 따라 30일 안에 환불을 요청할 수 있습니다. 반복 VPS 환불에는 별도 규칙이 적용됩니다. 구매 전에 적용 정책을 확인하세요. 안내된 기간이 무조건적인 보장은 아닙니다. VPS 업그레이드와 암호화폐 결제는 환불되지 않습니다.",
           "플랜을 고르기 전에 필요한 사양부터 계산하고 싶다면 [OpenClaw에 가장 좋은 VPS](/ko/reviews/best-vps-for-openclaw-ko)를 읽어 보세요. 캠페인은 [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)에서 확인하세요."
         ]
       },
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나, 이 글의 링크로 들어가세요. **첫 결제 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두 쓸 수 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 결제하기 전에 장바구니에서 금액을 확인하세요.",
+          "장바구니에 **SONAR20**을 입력하세요. 적용 대상 신규 구매의 첫 기간 20% 할인으로, 월간·연간 계약과 기존 계정도 가능합니다. 도메인 등록과 갱신은 제외되며 갱신은 정가로 청구됩니다. 조건은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요.",
           "코드를 붙여 넣는 위치는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
@@ -115207,7 +115207,7 @@ export const reviewsData: unknown[] = [
           "프로그래밍을 알아야 하나요? 관리형을 띄우는 데는 필요 없습니다. 채널을 고르고 토큰을 붙여 넣으면 됩니다. VPS에서는 root, Docker, 업데이트 같은 서버 기초가 필요합니다. 프로그래밍은 프로젝트 코드를 직접 손보려는 경우에만 필요합니다.",
           "안전한가요? 쓰는 방법에 달려 있습니다. 두 보안 정책이 요구하는 주의는 같습니다. 믿을 수 있는 한 사람이나 서로 신뢰하는 팀이 쓰고, 인터넷에 직접 노출하지 않고, 서드파티를 설치하기 전에 내용을 검토하는 것입니다.",
           "이미 Claude Code를 쓰는데 무엇을 고를까요? Claude Code는 터미널에서 프로그래밍하는 도구이며 둘 중 어느 것도 대신하지 못합니다. 둘 다 Anthropic 키를 받습니다. OpenClaw는 제공업체 중 하나로 Anthropic을 들고, Hermes Agent의 README는 Anthropic 키를 시크릿의 하나로 듭니다. 쓸수록 배우는 에이전트를 원한다면 Hermes Agent가 더 맞습니다. 채널이 많고 휴대폰 앱도 원한다면 OpenClaw입니다.",
-          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
+          "기존 호스팅어 고객도 SONAR20을 쓸 수 있나요? 같은 계정의 대상 신규 구매에는 적용될 수 있지만, 현재 서비스의 갱신에는 적용되지 않습니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요."
         ]
       },
       {
@@ -115221,7 +115221,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+      "text": "SONAR20: 적용 대상 신규 구매의 첫 기간 20% 할인. 도메인 등록과 갱신에는 적용되지 않습니다.",
       "label": "할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115284,8 +115284,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "对比 OpenClaw 和 Hermes Agent：渠道、记忆、学习、许可证，以及在 Hostinger 上的实际花费，服务器方案以 2026 年 10 月 21 日查到的数据为准。",
-    "metaDescription": "在 Hostinger 上该选 OpenClaw 还是 Hermes Agent？渠道、记忆、AI 模型，以及 SONAR20 代码，数据截至 2026年10月21日。",
+    "description": "比较 OpenClaw 与 Hermes Agent 的界面、渠道、记忆，以及在 Hostinger 上运行各自的费用项目。",
+    "metaDescription": "OpenClaw 与 Hermes Agent：界面、记忆、AI 费用、托管或 VPS。SONAR20 为符合条件的新购提供首期 20% 折扣。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -115386,7 +115386,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**服务器。** 可以用你自己一直开着的电脑，也可以租 VPS，即虚拟服务器。VPS 能获得 root 权限，也就是对整台机器的完全控制，但系统的更新和防护要你自己负责。内存（RAM）越大，同时运行的程序越多也越不容易卡住。",
           "**托管方案。** 由 Hostinger 安装、更新并维护助手。OpenClaw 和 Hermes Agent 在同一个方案里，名为“AI 自动化应用”。",
-          "**AI 模型。** 助手要向 Claude、GPT 或 Gemini 这类模型索取回答，模型按用量收费。付费方式有两种：用你自己的 API 密钥，由服务商直接向你收费；或者在 Hostinger 购买 AI 额度。OpenClaw 的托管和 Hermes Agent 的托管都带有初始余额；充值价格没有公开页面可查，请到控制面板确认。Nous Portal 的价格，项目页面没有标出。"
+          "**AI 模型。** 助手使用外部模型回答。请确认所选安装方式提供哪些访问选项，以及各自如何计费。使用自己的 API 密钥时，由服务商直接收费；使用 Hostinger 额度时，请在控制面板确认余额、上限与条件。Nous Portal 等服务有各自的条件。使用前请确认费用，以及余额用完后如何处理。"
         ],
         "postParagraphs": [
           "模型每月的使用费用，来源中没有标出：取决于你选的模型和对话数量。所以本指南不给出每月总额的估算。"
@@ -115398,7 +115398,7 @@ export const reviewsData: unknown[] = [
           "开始前，请先确认三件事。对两个智能体都适用。"
         ],
         "bullets": [
-          "**AI 模型。** 智能体自己不能作答，它要向另一家公司的模型索取回答。在 Hostinger 上，你可以用方案里的 AI 额度，或者自己的 API 密钥（程序用来与服务商通信的密钥）。使用费由服务商直接向你收取。",
+          "**AI 模型。** 先选接入和付费方式。使用自己的 API 密钥，由服务商直接计费；使用 Hostinger 额度，则确认平台余额与条件。不要把两种方式都视为服务商直接收费。",
           "**一个聊天渠道。** Telegram 是最简单的路径。你在 BotFather（Telegram 官方的建机器人的机器人）里创建机器人，并保存好令牌。WhatsApp 则作为已关联的设备接入，需要扫描二维码。",
           "**谁来管服务器。** 托管的话，由 Hostinger 负责更新和安全。VPS 的话，更新要你自己通过 Docker Manager 的 Update 按钮完成，服务器安全也是你的事。Docker 是把每个应用隔离在容器里运行的程序。"
         ],
@@ -115473,15 +115473,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "托管方案包含初始的 AI 额度余额，超出部分按用量收费。VPS 上，Hostinger 用 Docker 安装助手，更新和服务器安全由你自己负责。",
-          "托管有 30 天可申请退款。VPS 在一次 VPS 退款完成后，要再过 180 天才能申请下一次退款。VPS 升级和加密货币支付不可退款。",
+          "托管套餐请在商品说明与控制面板确认是否包含 AI 额度、余额及用完后的处理方式，不要预设服务会继续或自动产生费用。VPS 由 Hostinger 通过 Docker 安装助手，更新与服务器安全由你负责。",
+          "托管套餐有 30 天可申请退款，按产品条件办理。VPS 重复退款有各自的规则。购买前请确认适用政策；所列期限并非无条件保证。VPS 升级和加密货币支付不可退款。",
           "如果想在选方案之前先算出所需配置，请读[OpenClaw 最适合的 VPS](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。活动方面，请看 [Hostinger 的黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
         ]
       },
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。付款前，请在购物车里确认金额。",
+          "在购物车输入 **SONAR20**：符合条件的新购首期享 20% 折扣，月付、年付及已有账户均可。域名注册及续费不适用；续费按标价收费。条件请看 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。",
           "代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
@@ -115493,7 +115493,7 @@ export const reviewsData: unknown[] = [
           "需要会编程吗？启动托管版不需要：选好渠道，粘贴令牌就行。用 VPS 则需要懂服务器基础，比如 root、Docker 和更新。只有想改项目代码时才需要编程。",
           "安全吗？取决于你怎么用。两个安全政策要求的注意事项是一样的：由一位受信任的人或互相信任的团队使用，不直接暴露在互联网上，并审查你安装的第三方内容。",
           "如果我已经在用 Claude Code，该选哪个？Claude Code 是在终端里编程的工具，不能替代这两者中的任何一个。两者都支持 Anthropic 的密钥：OpenClaw 把 Anthropic 列为服务商之一，Hermes Agent 的 README 把 Anthropic 密钥列在密钥项里。想要越用越会学习的智能体，Hermes Agent 更合适；想要很多渠道和手机应用，选 OpenClaw。",
-          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+          "已有客户也能用 SONAR20 吗？同一账户符合条件的新购可以适用，但当前服务的续费不适用。首个合同期间享 20% 折扣，域名注册也除外。请确认购物车总额。"
         ]
       },
       {
@@ -115507,7 +115507,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+      "text": "SONAR20：符合条件的新购首期享 20% 折扣，域名注册及续费不适用。",
       "label": "通过 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115569,8 +115569,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "比較 OpenClaw 與 Hermes Agent：管道、記憶、學習、授權，以及在 Hostinger 上的實際花費，伺服器方案以 2026 年 10 月 21 日查到的資料為準。",
-    "metaDescription": "在 Hostinger 上該選 OpenClaw 還是 Hermes Agent？管道、記憶、AI 模型，以及 SONAR20 代碼，資料截至 2026年10月21日。",
+    "description": "比較 OpenClaw 與 Hermes Agent 的介面、管道、記憶，以及在 Hostinger 上執行各自的費用項目。",
+    "metaDescription": "OpenClaw 與 Hermes Agent：介面、記憶、AI 費用、託管或 VPS。SONAR20 為符合資格的新購買提供首期 20% 折扣。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -115671,7 +115671,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**伺服器。** 可以用你自己一直開著的電腦，也可以租用 VPS，也就是虛擬伺服器。VPS 能取得 root 權限，也就是對整台機器的完全控制，但系統的更新與防護要由你自己負責。記憶體（RAM）越大，同時執行的程式越多也越不容易卡住。",
           "**託管方案。** 由 Hostinger 安裝、更新並維護助理。OpenClaw 與 Hermes Agent 在同一個方案裡，名為「AI 自動化應用程式」。",
-          "**AI 模型。** 助理要向 Claude、GPT 或 Gemini 這類模型取得回答，模型依用量收費。付費方式有兩種：使用你自己的 API 金鑰，由供應商直接向你收費；或是在 Hostinger 購買 AI 額度。OpenClaw 的託管與 Hermes Agent 的託管都附有初始餘額；儲值價格沒有公開頁面可查，請到管理面板確認。Nous Portal 的價格，專案頁面沒有標示。"
+          "**AI 模型。** 助理使用外部模型回答。請確認所選安裝方式提供哪些存取選項，以及各自如何計費。使用自己的 API 金鑰時，由供應商直接收費；使用 Hostinger 額度時，請在管理面板確認餘額、上限與條件。Nous Portal 等服務有各自的條件。使用前請確認費用，以及餘額用完後如何處理。"
         ],
         "postParagraphs": [
           "模型每月的使用費用，來源中沒有標示：取決於你選的模型與對話數量。所以本指南不提供每月總額的估算。"
@@ -115683,7 +115683,7 @@ export const reviewsData: unknown[] = [
           "開始前，請先確認三件事。兩個代理都適用。"
         ],
         "bullets": [
-          "**AI 模型。** 代理自己無法作答，它要向另一家公司的模型取得回答。在 Hostinger 上，你可以使用方案中的 AI 額度，或是自己的 API 金鑰（程式用來與供應商通訊的金鑰）。使用費由供應商直接向你收取。",
+          "**AI 模型。** 先選存取與付費方式。使用自己的 API 金鑰，由供應商直接計費；使用 Hostinger 額度，則確認平台餘額與條件。不要把兩種方式都視為供應商直接收費。",
           "**一個訊息管道。** Telegram 是最簡單的路徑。你在 BotFather（Telegram 官方用來建立機器人的機器人）裡建立機器人，並保存好權杖。WhatsApp 則以已連結裝置的方式接入，需要掃描 QR code。",
           "**誰來管伺服器。** 託管的話，由 Hostinger 負責更新與安全。VPS 的話，更新要由你自己透過 Docker Manager 的 Update 按鈕完成，伺服器安全也是你的事。Docker 是把每個應用程式隔離在容器中執行的程式。"
         ],
@@ -115758,15 +115758,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "託管方案附有初始的 AI 額度餘額，超出的部分依用量收費。VPS 上，Hostinger 用 Docker 安裝助理，更新與伺服器安全由你自己負責。",
-          "託管有 30 天可申請退款。VPS 在一次 VPS 退款完成後，要再過 180 天才能申請下一次退款。VPS 升級和加密貨幣付款不可退款。",
+          "託管方案請在商品說明與管理面板確認是否包含 AI 額度、餘額及用完後的處理方式，不要預設服務會繼續或自動產生費用。VPS 由 Hostinger 透過 Docker 安裝助理，更新與伺服器安全由你負責。",
+          "託管方案有 30 天可申請退款，依產品條件辦理。VPS 重複退款有各自的規則。購買前請確認適用政策；所列期間並非無條件保證。VPS 升級和加密貨幣付款不可退款。",
           "如果想在選方案之前先算出所需配置，請讀 [OpenClaw 最適合的 VPS](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)。活動方面，請看 [Hostinger 的黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
         ]
       },
       {
         "heading": "優惠碼 SONAR20",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。付款前，請在購物車裡確認金額。",
+          "在購物車輸入 **SONAR20**：符合資格的新購買首期享 20% 折扣，月付、年付及既有帳號均可。網域註冊及續訂不適用；續訂按定價計算。條件請看 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。",
           "代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
@@ -115778,7 +115778,7 @@ export const reviewsData: unknown[] = [
           "需要會寫程式嗎？啟動託管版不需要：選好管道，貼上權杖就行。用 VPS 則需要懂伺服器基礎，例如 root、Docker 和更新。只有想修改專案程式碼時才需要寫程式。",
           "安全嗎？取決於你怎麼用。兩個安全政策要求的注意事項是一樣的：由一位受信任的人或互相信任的團隊使用，不直接暴露在網際網路上，並審查你安裝的第三方內容。",
           "如果我已經在用 Claude Code，該選哪個？Claude Code 是在終端機裡寫程式的工具，無法取代這兩者中的任何一個。兩者都支援 Anthropic 的金鑰：OpenClaw 把 Anthropic 列為供應商之一，Hermes Agent 的 README 把 Anthropic 金鑰列在密鑰項目裡。想要越用越會學習的代理，Hermes Agent 比較合適；想要很多管道和手機應用程式，選 OpenClaw。",
-          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
+          "既有客戶也能用 SONAR20 嗎？同一帳號符合資格的新購買可以適用，但目前服務的續約不適用。首個合約期間享 20% 折扣，網域註冊也除外。請確認購物車總額。"
         ]
       },
       {
@@ -115792,7 +115792,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+      "text": "SONAR20：符合資格的新購買首期享 20% 折扣，網域註冊及續訂不適用。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115854,8 +115854,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw or Hermes Agent: channels, memory, learning, license and the real cost on Hostinger, with server plans read on 21 October 2026.",
-    "metaDescription": "OpenClaw or Hermes Agent on Hostinger: which to choose, channels, memory, AI models and the SONAR20 code, read on 21 October 2026.",
+    "description": "OpenClaw vs Hermes Agent: compare interfaces, channels, memory and the cost categories for running each one on Hostinger.",
+    "metaDescription": "OpenClaw vs Hermes Agent: interfaces, memory, AI costs and managed or VPS hosting. SONAR20 gives 20% off the first period of an eligible new purchase.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-07",
@@ -115954,9 +115954,9 @@ export const reviewsData: unknown[] = [
           "The software costs nothing in either case. The real spending comes from three places:"
         ],
         "bullets": [
-          "**Server.** It can be your own computer, switched on all the time, or a VPS, a rented virtual server. A VPS gives you root access, full control of the machine, but you are the one who updates and secures the system. The more RAM, the more programs run at once without stalling.",
-          "**Managed plan.** Hostinger installs, updates and maintains the assistant. OpenClaw and Hermes Agent are on the same plan, “AI automation apps”.",
-          "**AI model.** The assistant asks a model, such as Claude, GPT or Gemini, for its replies, and the model charges for use. There are two ways to pay: your own API key, where the provider bills you directly, or AI credits bought from Hostinger. The managed OpenClaw and Hermes Agent plans come with starting credit; top-ups do not appear on a public page, so check the dashboard. For Nous Portal, the price is not stated on the project page."
+          "**Server or managed plan.** You can run the agent on your own computer, rent a VPS and manage it yourself, or hire managed installation and maintenance. Compare resources and operating responsibility: RAM alone does not guarantee that a workload runs without stalling.",
+          "**On Hostinger.** OpenClaw and Hermes Agent appear in the same AI automation apps plan. Plan options are in the table below.",
+          "**AI model.** The assistant uses an external model to reply. The cost depends on the model you choose and on how many conversations you have, and the ways to pay are under Before you install. On Nous Portal, the price is not stated on the project page."
         ],
         "postParagraphs": [
           "The monthly cost of model use is not stated in the sources: it depends on the model you pick and the number of conversations. That is why this guide gives no estimate of a monthly total."
@@ -115968,7 +115968,7 @@ export const reviewsData: unknown[] = [
           "Before you start, confirm three things. They apply to both agents."
         ],
         "bullets": [
-          "**AI model.** The agent does not answer on its own: it asks a model from another company for its replies. On Hostinger, you use the plan's AI credits or your own API key, which the program uses to talk to the provider. The provider charges for use, directly to you.",
+          "**AI model.** Choose the access and billing method. With your own API key, the provider bills you directly; with Hostinger credits, check the platform's balance and terms. Do not treat both routes as direct provider billing.",
           "**A messaging channel.** Telegram is the simplest route. You create the bot in BotFather, Telegram's official bot for making bots, and keep the token. WhatsApp joins as a linked device, by scanning a QR code.",
           "**Who looks after the server.** On the managed plan, Hostinger handles updates and security. On a VPS, updating is up to you, with the Update button in Docker Manager, and so is the server's security. Docker is the program that runs each application isolated in a container."
         ],
@@ -116043,15 +116043,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "On the managed plan, the plan includes starting AI credit, and anything beyond it is billed by consumption. On a VPS, Hostinger installs the assistant with Docker, and updating and securing the server are up to you.",
-          "The managed plan has a 30-day refund window. On a VPS, after a completed VPS refund, a 180-day cooldown applies before the next one. VPS upgrades and cryptocurrency payments are not refundable.",
+          "For managed hosting, check the offer and the dashboard for any included AI credits, the balance and what happens when it runs out; do not assume the service continues or that billing starts automatically. On a VPS, Hostinger installs the assistant with Docker, and updating and securing the server are up to you.",
+          "The managed plan has a 30-day refund window, under the product's conditions; repeat VPS refunds follow their own rules. VPS upgrades and cryptocurrency payments are not refundable.",
           "If you want the requirements worked out before choosing a plan, read the [best VPS for OpenClaw](/en/reviews/best-vps-for-openclaw). For the campaign, see [Hostinger's Black Friday](/en/reviews/hostinger-black-friday)."
         ]
       },
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or enter through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Check the amount in the cart before paying.",
+          "Enter **SONAR20** in the cart: 20% off the first period of an eligible new purchase, monthly or annual, including with an existing account. Domain registration and renewal are excluded. See the [Hostinger coupon page](/en/coupons/hostinger) for conditions.",
           "Where to paste the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
@@ -116063,7 +116063,7 @@ export const reviewsData: unknown[] = [
           "Do you need to know how to code? To set up the managed plan, no: you choose the channels and paste the token. On a VPS, you need the basics of servers, such as root, Docker and updates. Coding only comes in if you want to change the project's code.",
           "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person or a team that trusts each other, no direct exposure to the internet, and a review of whatever you install from third parties.",
           "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
-          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+          "Can existing Hostinger customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
         ]
       },
       {
@@ -116077,7 +116077,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+      "text": "SONAR20: 20% off the first period of an eligible new purchase. Domain registration and renewal are excluded.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -160432,7 +160432,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Os ciclos são diferentes, 48 meses e 3 anos, então a comparação justa é por mês, com a renovação ao lado, na tabela abaixo."
+          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Antes de escolher, confira se o plano atende à aplicação, ao espaço e ao backup do projeto, não só ao número de sites."
         ]
       },
       {
@@ -160657,14 +160657,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 na Hostinger",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, o e-mail profissional e o Reach. O código vale no VPS e em toda compra nova; na renovação, não. Nos planos de hospedagem desta tabela, não testamos; confira no carrinho. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
+          "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. Testamos o código no Startup de e-commerce, no e-mail profissional e no Reach; para o plano de hospedagem ou VPS que escolher, confira a aplicação no carrinho. Registro de domínio e renovação ficam fora. Condições em [cupons da Hostinger](/cupons/hostinger).",
           "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
         ]
       },
       {
         "heading": "Qual escolher: o veredito",
         "paragraphs": [
-          "**Escolha a Hostinger** para um site só, como blog, portfólio ou página de empresa: o Single custa menos na promoção e na renovação, e a promoção dura 48 meses. A Hostinger também é a escolha se você quer um VPS com mais memória pelo mesmo número de vCPU.",
+          "**Escolha a Hostinger** para um site só, como blog, portfólio ou página de empresa, se o plano atende ao projeto: o Single custa menos na promoção e na renovação, e a promoção dura 48 meses. A Hostinger também é a escolha se você quer um VPS com mais memória pelo mesmo número de vCPU.",
           "**Escolha a HostGator** para vários sites, ou se espaço em disco e backup diário em todo plano pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
           "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar.",
           "Se fosse para o meu site, eu levaria a Hostinger para um site só, porque o Single custa menos na promoção e na renovação."
@@ -160673,13 +160673,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é melhor, Hostinger ou HostGator? Depende do plano. Para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço.",
+          "Qual é melhor, Hostinger ou HostGator? Depende dos requisitos do projeto e do custo completo. Para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço.",
           "Qual renova mais barato, Hostinger ou HostGator? No plano de 1 site, a Hostinger: R$ 23,99/mês contra R$ 31,39/mês do preço regular da HostGator. No plano para vários sites, a HostGator: R$ 40,89/mês contra R$ 64,99/mês do Unlimited.",
           "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
           "A Hostinger tem servidor no Brasil? Tem: a lista oficial da Hostinger inclui o Brasil para hospedagem web, cloud e VPS, sujeita à disponibilidade. O e-mail da Hostinger fica à parte, na França e na Alemanha. A HostGator também declara servidores no Brasil.",
-          "O cupom SONAR20 vale no VPS da Hostinger? Vale. Testamos no plano Startup de e-commerce, do Criador de lojas, e o desconto é de 20% no primeiro período.",
+          "O SONAR20 vale no VPS da Hostinger? Vale, em compra nova elegível de VPS: 20% no primeiro período. Confira o desconto do plano escolhido no carrinho.",
           "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova elegível, com a mesma conta. A renovação do serviço que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -160691,18 +160691,18 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve a Hostinger se é um site só, como blog, portfólio ou página de empresa: o plano de 1 site custa menos na promoção e na renovação.",
+        "Leve a Hostinger se é um site só, como blog, portfólio ou página de empresa, e o Single atende ao projeto: ele custa menos na promoção e na renovação.",
         "Leve a Hostinger se quer um VPS com mais memória pelo mesmo número de vCPU."
       ],
       "skipIf": [
-        "Passe para a HostGator se vai ter vários sites: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
+        "Passe para a HostGator se vai ter vários sites e o plano M atende ao projeto: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
         "Passe para a HostGator se espaço em disco e backup diário em todo plano pesam para você."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+      "text": "SONAR20: 20% no primeiro período de compra nova elegível. Registro de domínio e renovação ficam fora do desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -160770,7 +160770,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. The promotions run for 48 months, so the fair comparison is per month, with the renewal next to it, in the table below."
+          "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. Start with your application's requirements, not just site count, then compare the monthly price with the renewal next to it, in the table below."
         ]
       },
       {
@@ -160899,13 +160899,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 on Hostinger",
         "paragraphs": [
-          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table, we did not test it; check in the cart. The code also works on the VPS and on every new purchase; on renewal, it does not. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
+          "Enter **SONAR20** in the cart for 20% off the first term of an eligible new purchase, including with an existing account. We tested it on e-commerce Startup, professional email and Reach. For the hosting or VPS plan you choose, check its application in the cart. Domain registration and renewal are excluded. See [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
         "heading": "Which to choose: the verdict",
         "paragraphs": [
-          "**Choose Premium** for one site, such as a blog, a portfolio or a company page, or for up to three sites: it costs less in the promotion and at renewal, and the promotion lasts 48 months.",
+          "**Choose Premium** for one site, such as a blog, a portfolio or a company page, or for up to three sites, if storage and backup meet your needs: it costs less in the promotion and at renewal, and the promotion lasts 48 months.",
           "**Choose Unlimited** for many sites, with no site limit, daily backups and 50 GB of NVMe. Cloud Startup, which renews at more than US$25 a month, only pays off if you need the extra storage.",
           "**In both cases**, read the renewal column before you pay and confirm the amount in the cart. Hostinger is running a campaign, and prices can change.",
           "If it were for my site, I would take Premium for one site, because it costs less in the promotion and at renewal."
@@ -160914,13 +160914,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Which web host is better? It depends on how many sites you have and on whether the promotion or the renewal matters more to you. Compare the renewal, the cycle, the server's country and the VPS, as above.",
+          "Which web host is better? It depends on what the application needs, on storage and backup, and on whether the promotion or the renewal matters more to you. Site count alone does not decide it.",
           "Which Hostinger plan renews for the least? Premium, at US$10.99 a month on the international site, after a 48-month promotion at US$2.49.",
           "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
           "Does Hostinger say where its servers are? Yes. Its official list names data centers in Europe, Asia, North America and South America for web, cloud and VPS plans, subject to availability. Email is stored separately, in France and Germany.",
-          "Does the SONAR20 code work on the VPS? Yes, it works on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
+          "Does SONAR20 work on a Hostinger VPS? Yes, on an eligible new VPS purchase: 20% off the first term. Check your plan's discount in the cart.",
           "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires.",
-          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on an eligible new purchase with the same account. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -160933,7 +160933,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+      "text": "SONAR20: 20% off the first period of an eligible new purchase. Domain registration and renewal are excluded.",
       "label": "See the hosting plans with SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -160954,7 +160954,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three: it costs less in the promotion and at renewal.",
+        "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three, and its storage and backup meet your needs: it costs less in the promotion and at renewal.",
         "Take a VPS if the site needs guaranteed processor and memory: KVM 1 already has 4 GB."
       ],
       "skipIf": [
@@ -161011,7 +161011,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Por la renovación, el Premium de Hostinger es el plan más barato, y el Unlimited es el de muchos sitios, sin límite de sitios. Las promociones duran 48 meses, así que la comparación justa es por mes, con la renovación al lado, en la tabla de abajo."
+          "Por la renovación, el Premium de Hostinger es el plan más barato, y el Unlimited es el de muchos sitios, sin límite de sitios. Antes de elegir, confirma que el plan cubre la aplicación, el espacio y el backup, no solo la cantidad de sitios."
         ]
       },
       {
@@ -161140,13 +161140,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 en Hostinger",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: **20% en el primer período**. Lo probamos en el carrito con tres productos: el plan Startup de e-commerce, del creador de tiendas, el correo profesional y el Reach. En los planes de hosting de esta tabla, no lo probamos; confirma en el carrito. El código también vale en el VPS y en toda compra nueva; en la renovación, no. La regla completa está en [cupones de Hostinger](/es/coupons/hostinger)."
+          "Introduce **SONAR20** en el carrito para un 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Lo probamos en Startup de e-commerce, correo profesional y Reach. Para el plan de hosting o VPS que elijas, comprueba la aplicación en el carrito. Registro de dominio y renovación quedan fuera. Consulta [cupones de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
         "heading": "Cuál elegir: el veredicto",
         "paragraphs": [
-          "**Elige el Premium** para un sitio, como un blog, un portafolio o la página de una empresa, o para hasta tres sitios: cuesta menos en la promoción y en la renovación, y la promoción dura 48 meses.",
+          "**Elige el Premium** para un sitio, como un blog, un portafolio o la página de una empresa, o para hasta tres sitios, si el plan cubre el proyecto: cuesta menos en la promoción y en la renovación, y la promoción dura 48 meses.",
           "**Elige el Unlimited** para muchos sitios, sin límite de sitios, con backup diario y 50 GB de NVMe. El Cloud Startup, que renueva a más de 25 US$ al mes, solo compensa si necesitas el almacenamiento extra.",
           "**En los dos casos**, mira la columna de renovación antes de pagar y confirma el monto en el carrito. Hostinger está en campaña y los precios pueden cambiar.",
           "Si fuera para mi sitio, llevaría el Premium para un solo sitio, porque cuesta menos en la promoción y en la renovación."
@@ -161155,13 +161155,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Qué hosting es mejor? Depende de cuántos sitios tengas y de si pesa más la promoción o la renovación. Compara la renovación, el ciclo, el país del servidor y el VPS, como arriba.",
+          "¿Qué hosting es mejor? Depende de los requisitos del proyecto y del costo total, y de si pesa más la promoción o la renovación. Compara la renovación, el ciclo, el país del servidor y el VPS, como arriba.",
           "¿Qué plan de Hostinger renueva más barato? El Premium, a 10,99 US$ al mes en el sitio internacional, después de una promoción de 48 meses a 2,49 US$.",
           "¿Vale la pena el VPS de Hostinger? Depende de la carga que tenga el sitio. Compara vCPU, memoria y renovación: el KVM 1 renueva a 11,99 US$ al mes en el sitio internacional.",
           "¿Hostinger dice dónde están sus servidores? Sí: su lista oficial cita centros de datos en Europa, Asia, Norteamérica y Sudamérica para hosting web, cloud y VPS, según la disponibilidad. El correo se guarda aparte, en Francia y Alemania.",
-          "¿El código SONAR20 vale en el VPS? Sí, vale en el VPS. Lo probamos en el plan Startup de e-commerce, del creador de tiendas, y dio 20% en el primer período.",
+          "¿SONAR20 vale en el VPS de Hostinger? Sí, en una compra nueva elegible de VPS: 20% en el primer período. Revisa el descuento del plan elegido en el carrito.",
           "¿Se puede cambiar de hosting sin perder el sitio? Sí, pasando los archivos y la base de datos al nuevo hosting. Haz el cambio antes de que venza el plan anterior.",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva elegible con la misma cuenta. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -161174,7 +161174,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+      "text": "SONAR20: 20 % en el primer período de compra nueva elegible. No se aplica al registro de dominios ni a la renovación.",
       "label": "Ver los planes de hosting con el SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -161195,7 +161195,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Lleva el Premium si es un solo sitio, como un blog, un portafolio o la página de una empresa, o hasta tres: cuesta menos en la promoción y en la renovación.",
+        "Lleva el Premium si es un solo sitio, como un blog, un portafolio o la página de una empresa, o hasta tres, y el plan cubre el proyecto: cuesta menos en la promoción y en la renovación.",
         "Lleva un VPS si el sitio necesita procesador y memoria garantizados: el KVM 1 ya trae 4 GB."
       ],
       "skipIf": [
@@ -161252,7 +161252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Au renouvellement, le forfait Premium de Hostinger est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Les promotions durent 48 mois : la comparaison juste se fait donc par mois, avec le renouvellement à côté, dans le tableau ci-dessous."
+          "Au renouvellement, le forfait Premium de Hostinger est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Avant de choisir, vérifiez que le forfait couvre l'application, l'espace et la sauvegarde, pas seulement le nombre de sites."
         ]
       },
       {
@@ -161381,13 +161381,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le code SONAR20 chez Hostinger",
         "paragraphs": [
-          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, l'e-mail professionnel et Reach. Sur les forfaits d'hébergement de ce tableau, nous ne l'avons pas testé : vérifiez dans le panier. Le code vaut sur le VPS et sur tout nouvel achat, mais pas sur le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger)."
+          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Nous l'avons testé sur Startup e-commerce, l'e-mail professionnel et Reach. Pour le forfait d'hébergement ou VPS choisi, vérifiez la remise au panier. Enregistrement de domaine et renouvellement sont exclus. Voir [les codes promo Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
         "heading": "Lequel choisir : le verdict",
         "paragraphs": [
-          "**Choisissez Premium** pour un site, comme un blog, un portfolio ou la page d'une entreprise, ou pour jusqu'à trois sites : il coûte moins en promotion et au renouvellement, et la promotion dure 48 mois.",
+          "**Choisissez Premium** pour un site, comme un blog, un portfolio ou la page d'une entreprise, ou pour jusqu'à trois sites, si le forfait couvre le projet : il coûte moins en promotion et au renouvellement, et la promotion dure 48 mois.",
           "**Choisissez Unlimited** pour beaucoup de sites, sans limite de sites, avec des sauvegardes quotidiennes et 50 Go de NVMe. Cloud Startup, qui se renouvelle à plus de 25 US$ par mois, ne se justifie que si vous avez besoin du stockage en plus.",
           "**Dans les deux cas**, regardez la colonne du renouvellement avant de payer et confirmez le montant dans le panier. Hostinger est en campagne et les prix peuvent changer.",
           "Si c'était pour mon site, je prendrais Premium pour un seul site, parce qu'il coûte moins en promotion et au renouvellement."
@@ -161396,13 +161396,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quel hébergeur est le meilleur ? Cela dépend du nombre de sites et de ce qui compte le plus pour vous, la promotion ou le renouvellement. Comparez le renouvellement, le cycle, le pays du serveur et le VPS, comme plus haut.",
+          "Quel hébergeur est le meilleur ? Cela dépend des besoins du projet et du coût complet, et de ce qui compte le plus pour vous, la promotion ou le renouvellement. Comparez le renouvellement, le cycle, le pays du serveur et le VPS, comme plus haut.",
           "Quel forfait Hostinger se renouvelle le moins cher ? Premium, à 10,99 US$ par mois sur le site international, après une promotion sur 48 mois à 2,49 US$.",
           "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
           "Hostinger indique-t-il où se trouvent ses serveurs ? Oui : sa liste officielle cite des centres de données en Europe, en Asie, en Amérique du Nord et en Amérique du Sud pour l'hébergement web, cloud et VPS, selon la disponibilité. Les e-mails sont stockés à part, en France et en Allemagne.",
-          "Le code SONAR20 fonctionne-t-il sur le VPS ? Oui, il vaut sur le VPS. Nous l'avons testé sur le forfait Startup e-commerce, du créateur de boutiques, et il a donné 20 % sur la première période.",
+          "SONAR20 fonctionne-t-il sur un VPS Hostinger ? Oui, sur un nouvel achat de VPS éligible : 20 % sur la première période. Vérifiez la remise du forfait choisi dans le panier.",
           "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait.",
-          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat éligible avec le même compte. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -161415,7 +161415,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+      "text": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible, hors enregistrement de domaines et renouvellement.",
       "label": "Voir les forfaits d'hébergement avec le SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -161436,7 +161436,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez Premium s'il s'agit d'un seul site, comme un blog, un portfolio ou la page d'une entreprise, ou de trois sites au plus : il coûte moins en promotion et au renouvellement.",
+        "Prenez Premium s'il s'agit d'un seul site, comme un blog, un portfolio ou la page d'une entreprise, ou de trois sites au plus, si le forfait couvre le projet : il coûte moins en promotion et au renouvellement.",
         "Prenez un VPS si le site a besoin d'un processeur et d'une mémoire garantis : le KVM 1 offre déjà 4 Go."
       ],
       "skipIf": [
@@ -161493,7 +161493,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Guardando il rinnovo, il Premium della Hostinger è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Le promozioni durano 48 mesi, quindi il confronto giusto si fa per mese, con il rinnovo accanto, nella tabella qui sotto."
+          "Guardando il rinnovo, il Premium della Hostinger è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Prima di scegliere, verifica che il piano copra applicazione, spazio e backup, non solo il numero di siti."
         ]
       },
       {
@@ -161622,13 +161622,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 con la Hostinger",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, l'e-mail professionale e il Reach. Sui piani di hosting di questa tabella non l'abbiamo testato; controlla nel carrello. Il codice vale anche sul VPS e su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
+          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Lo abbiamo provato su Startup e-commerce, e-mail professionale e Reach. Per il piano hosting o VPS scelto, verifica l'applicazione nel carrello. Registrazione di dominio e rinnovo sono esclusi. Consulta i [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
         "heading": "Quale scegliere: il verdetto",
         "paragraphs": [
-          "**Scegli il Premium** per un sito solo, come un blog, un portfolio o la pagina di un'azienda, o per fino a tre siti: costa meno in promozione e al rinnovo, e la promozione dura 48 mesi.",
+          "**Scegli il Premium** per un sito solo, come un blog, un portfolio o la pagina di un'azienda, o per fino a tre siti, se il piano copre il progetto: costa meno in promozione e al rinnovo, e la promozione dura 48 mesi.",
           "**Scegli l'Unlimited** per molti siti, senza limite di siti, con backup giornaliero e 50 GB NVMe. Il Cloud Startup, che si rinnova a più di 25 US$ al mese, ha senso solo se ti serve lo spazio in più.",
           "**In entrambi i casi**, guarda la colonna del rinnovo prima di pagare e controlla il valore nel carrello. La Hostinger è in campagna e i prezzi possono cambiare.",
           "Se fosse per il mio sito, prenderei il Premium per un sito solo, perché costa meno in promozione e al rinnovo."
@@ -161637,13 +161637,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Quale hosting è meglio? Dipende da quanti siti hai e da cosa pesa di più per te, la promozione o il rinnovo. Confronta il rinnovo, la durata, il paese del server e il VPS, come sopra.",
+          "Quale hosting è meglio? Dipende dai requisiti del progetto e dal costo completo, e da cosa pesa di più per te, la promozione o il rinnovo. Confronta il rinnovo, la durata, il paese del server e il VPS, come sopra.",
           "Quale piano Hostinger si rinnova al prezzo più basso? Il Premium, a 10,99 US$ al mese sul sito internazionale, dopo una promozione di 48 mesi a 2,49 US$.",
           "Conviene il VPS della Hostinger? Dipende dal carico del sito. Confronta vCPU, memoria e rinnovo: il KVM 1 si rinnova a 11,99 US$ al mese sul sito internazionale.",
           "La Hostinger dice dove si trovano i suoi server? Sì: l'elenco ufficiale cita data center in Europa, Asia, Nord America e Sud America per hosting web, cloud e VPS, in base alla disponibilità. La posta è conservata a parte, in Francia e Germania.",
-          "Il codice SONAR20 vale sul VPS? Sì. L'abbiamo provato sul piano Startup di e-commerce, del costruttore di negozi, e ha dato il 20% sul primo periodo.",
+          "SONAR20 vale sul VPS Hostinger? Sì, su un nuovo acquisto di VPS idoneo: 20% sul primo periodo. Controlla lo sconto del piano scelto nel carrello.",
           "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio.",
-          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi idonei con lo stesso account. Il rinnovo del piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -161656,7 +161656,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+      "text": "SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Registrazione di domini e rinnovo sono esclusi.",
       "label": "Vedi i piani di hosting con il SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -161677,7 +161677,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre: costa meno in promozione e al rinnovo.",
+        "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre, e il piano copre il progetto: costa meno in promozione e al rinnovo.",
         "Prendi un VPS se il sito ha bisogno di processore e memoria garantiti: il KVM 1 ha già 4 GB."
       ],
       "skipIf": [
@@ -161734,7 +161734,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Bei der Verlängerung ist Hostingers Premium der günstigste Tarif, und der Unlimited ist der Tarif für viele Websites, ohne Begrenzung der Websites. Die Aktionen laufen 48 Monate, deshalb vergleicht man fair pro Monat, mit der Verlängerung daneben, in der Tabelle unten."
+          "Bei der Verlängerung ist Hostingers Premium der günstigste Tarif, und der Unlimited ist der Tarif für viele Websites, ohne Begrenzung der Websites. Prüfen Sie vor der Wahl, ob der Tarif Anwendung, Speicher und Backup abdeckt, nicht nur die Anzahl der Websites."
         ]
       },
       {
@@ -161863,13 +161863,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20 bei Hostinger",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link in diesem Artikel: Sie erhalten **20 % auf den ersten Zeitraum**. Wir haben den Code im Warenkorb bei drei Produkten getestet: beim Startup-Tarif für E-Commerce aus dem Shop-Ersteller, bei der professionellen E-Mail und bei Reach. Bei den Hosting-Tarifen dieser Tabelle haben wir nicht getestet; prüfen Sie es im Warenkorb. Beim VPS gilt der Code. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Alle Regeln stehen auf der Seite der [Hostinger-Gutscheine](/de/coupons/hostinger)."
+          "Geben Sie **SONAR20** im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs, auch mit bestehendem Konto. Wir haben ihn bei E-Commerce Startup, geschäftlicher E-Mail und Reach getestet. Prüfen Sie für den gewählten Hosting- oder VPS-Tarif die Anwendung im Warenkorb. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Siehe [Hostinger-Gutscheine](/de/coupons/hostinger)."
         ]
       },
       {
         "heading": "Welcher Tarif passt: das Fazit",
         "paragraphs": [
-          "**Wählen Sie den Premium** für eine einzelne Website, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder für bis zu drei Websites: Er kostet in der Aktion und bei der Verlängerung weniger, und die Aktion läuft 48 Monate.",
+          "**Wählen Sie den Premium** für eine einzelne Website, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder für bis zu drei Websites, wenn der Tarif zum Projekt passt: Er kostet in der Aktion und bei der Verlängerung weniger, und die Aktion läuft 48 Monate.",
           "**Wählen Sie den Unlimited** für viele Websites, ohne Begrenzung der Websites, mit täglichem Backup und 50 GB NVMe. Der Cloud Startup, der sich zu mehr als 25 US$ pro Monat verlängert, lohnt sich nur, wenn Sie den zusätzlichen Speicher brauchen.",
           "**In beiden Fällen** sehen Sie vor dem Bezahlen auf die Spalte der Verlängerung und prüfen den Betrag im Warenkorb. Die Hostinger hat eine Kampagne laufen, und die Preise können sich ändern.",
           "Wenn es um meine Website ginge, würde ich den Premium für eine einzelne Website nehmen, weil er in der Aktion und bei der Verlängerung weniger kostet."
@@ -161878,13 +161878,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Welcher Hoster ist besser? Das hängt davon ab, wie viele Websites Sie haben und ob Ihnen die Aktion oder die Verlängerung wichtiger ist. Vergleichen Sie Verlängerung, Laufzeit, Land des Servers und VPS, wie oben.",
+          "Welcher Hoster ist besser? Das hängt von den Anforderungen des Projekts und den Gesamtkosten ab und davon, ob Ihnen die Aktion oder die Verlängerung wichtiger ist. Vergleichen Sie Verlängerung, Laufzeit, Land des Servers und VPS, wie oben.",
           "Welcher Hostinger-Tarif verlängert sich am günstigsten? Der Premium, zu 10,99 US$ pro Monat auf der internationalen Seite, nach einer Aktion über 48 Monate zu 2,49 US$.",
           "Lohnt sich der VPS der Hostinger? Das hängt von der Last der Website ab. Vergleichen Sie vCPU, Arbeitsspeicher und Verlängerung: Der KVM 1 verlängert sich zu 11,99 US$ pro Monat auf der internationalen Seite.",
           "Sagt die Hostinger, wo ihre Server stehen? Ja: Die offizielle Liste nennt Rechenzentren in Europa, Asien, Nordamerika und Südamerika für Web-, Cloud- und VPS-Tarife, je nach Verfügbarkeit. E-Mail-Postfächer liegen getrennt in Frankreich und Deutschland.",
-          "Gilt der Code SONAR20 beim VPS? Ja, SONAR20 gilt beim VPS; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce aus dem Shop-Ersteller, und er gab 20 % auf den ersten Zeitraum.",
+          "Gilt SONAR20 beim Hostinger-VPS? Ja, bei einem berechtigten VPS-Neukauf: 20 % auf die erste Laufzeit. Prüfen Sie den Rabatt des gewählten Tarifs im Warenkorb.",
           "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft.",
-          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+          "Gilt SONAR20 auch für Hostinger-Bestandskunden? Ja, bei einem berechtigten Neukauf mit demselben Konto. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -161897,7 +161897,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+      "text": "SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind ausgeschlossen.",
       "label": "Hosting-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -161918,7 +161918,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie den Premium, wenn es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei: Er kostet in der Aktion und bei der Verlängerung weniger.",
+        "Nehmen Sie den Premium, wenn es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei, und der Tarif zum Projekt passt: Er kostet in der Aktion und bei der Verlängerung weniger.",
         "Nehmen Sie einen VPS, wenn Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht: Der KVM 1 hat schon 4 GB."
       ],
       "skipIf": [
@@ -161975,7 +161975,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安です。割引は48か月続くので、月額に直して更新料を横に並べた表を下に載せました。"
+          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安で、アプリの要件も先に確かめてください。割引は48か月続くので、月額に直して更新料を横に並べた表を下に載せました。"
         ]
       },
       {
@@ -162098,19 +162098,19 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "KVM 2は、KVM 1の2倍のvCPUと2倍のメモリがあります。料金は2026年10月30日に確認したものです。長い期間で契約する前に、カートで更新料を確認してください。"
+          "KVM 2は、KVM 1の2倍のvCPUと2倍のメモリがあります。長い期間で契約する前に、カートで更新料を確認してください。"
         ]
       },
       {
         "heading": "HostingerのクーポンSONAR20",
         "paragraphs": [
-          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ると、**最初の期間が20%割引**になります。カートで試したのは3つです。ショップ作成ツールのE-commerce向けStartupプラン、プロ仕様のメール、Reachです。この表のホスティングプランは試していません。VPSでも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。ルールの詳細は[Hostingerのクーポン](/ja/coupons/hostinger)にあります。"
+          "カートで**SONAR20**を入力すると、対象の新規購入の初回契約期間が20%割引になります。既存アカウントでも対象になります。私たちが試したのはStartupのEコマース、プロ仕様メール、Reachです。選んだホスティングやVPSプランへの適用はカートで確認してください。ドメイン登録と更新は対象外です。[Hostingerのクーポン](/ja/coupons/hostinger)をご覧ください。"
         ]
       },
       {
         "heading": "結論：どれを選ぶか",
         "paragraphs": [
-          "**3サイトまでならPremium**です。ブログ、ポートフォリオ、会社の紹介ページなどに向いています。確認したプランの中で、割引価格も更新料もいちばん低く、割引は48か月続きます。処理能力とメモリを確実に使いたいなら、VPSのKVM 1（1 vCPU、4 GB）かKVM 2（2 vCPU、8 GB）を見てください。",
+          "**3サイトまでならPremium**です。ブログ、ポートフォリオ、会社の紹介ページなどに向いていますが、アプリ、容量、バックアップの条件に合うか先に確認してください。確認したプランの中で、割引価格も更新料もいちばん低く、割引は48か月続きます。処理能力とメモリを確実に使いたいなら、VPSのKVM 1（1 vCPU、4 GB）かKVM 2（2 vCPU、8 GB）を見てください。",
           "**サイトが4つ以上**ある場合や、容量と毎日のバックアップが大事な場合は、**Unlimited**です。更新後は月額US$16.99です。Cloud Startupは、追加の性能が必要な人向けです。",
           "**どの場合も**、支払う前に更新料の欄を見て、カートで金額を確認してください。キャンペーン中なので、料金は変わることがあります。",
           "自分のサイトなら、サイトが1つのときはPremiumを選びます。割引価格も更新料も、確認したプランの中でいちばん低いからです。"
@@ -162119,13 +162119,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "1つのサイトなら、どのプランがいちばん安い？ 3サイトまで使えるPremiumです。割引価格は月額US$2.49、更新後は月額US$10.99で、期間は48か月です。",
+          "1つのサイトなら、どのプランがいちばん安い？ アプリ、容量、バックアップの条件に合えば、3サイトまで使えるPremiumです。割引価格は月額US$2.49、更新後は月額US$10.99で、期間は48か月です。",
           "Hostingerの更新料はいくらですか？ 国際サイトで確認したところ、Premiumは月額US$10.99、Unlimitedは月額US$16.99、Cloud Startupは月額US$25.99です。国や通貨で変わることがあるので、支払う前にカートで確認してください。",
           "VPSはどのプランから見ればいいですか？ 入門のKVM 1（1 vCPU、4 GB、50 GB NVMe）は、24か月契約で割引価格が月額US$6.49、更新後は月額US$11.99です。KVM 2は2 vCPU、8 GBで、割引価格は月額US$8.79です。長い期間で契約する前に、カートで更新料を確認してください。",
           "Hostingerはサーバーの場所を公開していますか？ はい。公式の一覧には、ウェブ、クラウド、VPSのプランについて、ヨーロッパ、アジア、北米、南米のデータセンターが載っています。空き状況によります。メールは別に、フランスとドイツに保存されます。",
-          "SONAR20はVPSでも使えますか？ VPSでも使えます。カートで確認してください。試したのはE-commerce向けのStartupプランで、割引は最初の期間の20%です。",
+          "SONAR20はVPSでも使えますか？ はい、対象の新規VPS購入なら初回契約期間が20%割引になります。カートで割引を確認してください。",
           "サイトを消さずに別のサーバーへ移せますか？ はい。ファイルとデータベースを新しいサーバーに移せば可能です。新しいサービスが無料の移行に対応しているか確認し、古いプランの期限が切れる前に移してください。",
-          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、同じアカウントで対象の新規購入に使えます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -162138,7 +162138,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+      "text": "SONAR20：対象の新規購入で初回期間が20%割引。ドメイン登録と更新は対象外です。",
       "label": "SONAR20で料金プランを見る",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162159,7 +162159,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Premiumを選ぶのは、サイトが3つまでの場合です。ブログ、ポートフォリオ、会社の紹介ページなら、割引価格も更新料も確認したプランの中でいちばん低くなります。",
+        "Premiumを選ぶのは、サイトが3つまでで、アプリ、容量、バックアップの条件に合う場合です。ブログ、ポートフォリオ、会社の紹介ページなら、割引価格も更新料も確認したプランの中でいちばん低くなります。",
         "VPSを選ぶのは、処理能力とメモリを確実に使いたい場合です。入門のKVM 1でも、メモリは4 GBあります。"
       ],
       "skipIf": [
@@ -162215,7 +162215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 호스팅어 Premium, 그보다 많으면 Unlimited를 보면 됩니다. 프로모션은 48개월이므로, 월 단위 가격에 갱신가를 나란히 둔 표를 아래에 실었습니다."
+          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 호스팅어 Premium, 그보다 많으면 Unlimited를 보되 애플리케이션 요구 사항부터 확인하세요. 프로모션은 48개월이므로, 월 단위 가격에 갱신가를 나란히 둔 표를 아래에 실었습니다."
         ]
       },
       {
@@ -162338,19 +162338,19 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "KVM 2는 KVM 1보다 vCPU와 메모리가 두 배입니다. 가격은 2026년 10월 30일에 확인한 것입니다. 긴 기간으로 결제하기 전에 카트에서 갱신가를 확인하세요."
+          "KVM 2는 KVM 1보다 vCPU와 메모리가 두 배입니다. 긴 기간으로 결제하기 전에 카트에서 갱신가를 확인하세요."
         ]
       },
       {
         "heading": "SONAR20 쿠폰",
         "paragraphs": [
-          "카트의 쿠폰 칸에 **SONAR20**을 입력하거나 이 글의 링크로 들어가면 **첫 기간 20% 할인**이 적용됩니다. 카트에서 테스트한 것은 세 가지입니다. 스토어 빌더의 Startup 이커머스 플랜, 전문 이메일, Reach입니다. 이 표의 호스팅 플랜은 테스트하지 않았으니 카트에서 확인하세요. VPS와 모든 신규 구매에 적용되며, 갱신에는 적용되지 않습니다. 규칙 전체는 [호스팅어 쿠폰](/ko/coupons/hostinger)에 있습니다."
+          "카트에서 **SONAR20**을 입력하면 대상 신규 구매의 첫 계약 기간에 20% 할인이 적용됩니다. 기존 계정이 있어도 적용됩니다. 저희는 Startup 이커머스, 전문 이메일과 Reach에서 시험했습니다. 선택한 호스팅이나 VPS 플랜의 적용 여부는 카트에서 확인하세요. 도메인 등록과 갱신은 제외됩니다. [호스팅어 쿠폰](/ko/coupons/hostinger)을 확인하세요."
         ]
       },
       {
         "heading": "어떤 플랜을 고를까: 결론",
         "paragraphs": [
-          "**사이트가 3개까지**, 예를 들어 블로그, 포트폴리오, 회사 소개 페이지라면 Premium입니다. 확인한 플랜 중 프로모션가와 갱신가가 모두 가장 낮고, 프로모션은 48개월 동안 이어집니다. 처리 능력과 메모리를 보장받아야 한다면 VPS의 KVM 1(1 vCPU, 4 GB)이나 KVM 2(2 vCPU, 8 GB)를 보세요.",
+          "**사이트가 3개까지**, 예를 들어 블로그, 포트폴리오, 회사 소개 페이지이고 애플리케이션, 공간, 백업 요구에 맞는다면 Premium입니다. 확인한 플랜 중 프로모션가와 갱신가가 모두 가장 낮고, 프로모션은 48개월 동안 이어집니다. 처리 능력과 메모리를 보장받아야 한다면 VPS의 KVM 1(1 vCPU, 4 GB)이나 KVM 2(2 vCPU, 8 GB)를 보세요.",
           "**사이트가 4개 이상**이거나 공간과 일일 백업이 중요하다면 **Unlimited**입니다. 갱신가는 월 US$ 16.99입니다. Cloud Startup은 추가 성능이 필요한 사람을 위한 플랜입니다.",
           "**어느 경우든** 결제 전에 갱신가 칸을 보고 카트에서 금액을 확인하세요. 캠페인 중이라 가격은 바뀔 수 있습니다.",
           "제 사이트라면 사이트가 하나일 때 Premium을 고릅니다. 확인한 플랜 중 프로모션가와 갱신가가 가장 낮기 때문입니다."
@@ -162359,13 +162359,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "사이트 하나라면 어떤 플랜이 가장 저렴한가요? 사이트 3개까지 쓸 수 있는 Premium입니다. 프로모션가는 월 US$ 2.49, 갱신가는 월 US$ 10.99이고 프로모션은 48개월입니다.",
+          "사이트 하나라면 어떤 플랜이 가장 저렴한가요? 애플리케이션, 공간, 백업 요구에 맞다면 사이트 3개까지 쓸 수 있는 Premium입니다. 프로모션가는 월 US$ 2.49, 갱신가는 월 US$ 10.99이고 프로모션은 48개월입니다.",
           "호스팅어 갱신가는 얼마인가요? 국제 사이트에서 확인한 결과 Premium은 월 US$ 10.99, Unlimited는 월 US$ 16.99, Cloud Startup은 월 US$ 25.99입니다. 국가와 통화에 따라 다를 수 있으니 결제 전에 카트에서 확인하세요.",
           "VPS는 어떤 플랜부터 보면 되나요? 입문 플랜인 KVM 1(1 vCPU, 4 GB, 50 GB NVMe)은 24개월 기준 프로모션가가 월 US$ 6.49, 갱신가가 월 US$ 11.99입니다. KVM 2는 2 vCPU, 8 GB이고 프로모션가는 월 US$ 8.79입니다. 긴 기간으로 결제하기 전에 카트에서 갱신가를 확인하세요.",
           "호스팅어 서버는 어느 나라에 있나요? 공식 목록에 웹, 클라우드, VPS 플랜용으로 유럽, 아시아, 북미, 남미의 데이터 센터가 나와 있으며 여유 상황에 따라 달라집니다. 이메일은 따로 프랑스와 독일에 저장됩니다.",
-          "SONAR20은 VPS에도 적용되나요? 네, VPS에도 적용됩니다. 테스트한 것은 스토어 빌더의 Startup 이커머스 플랜이고, 할인은 첫 기간 20%입니다.",
+          "SONAR20은 VPS에도 적용되나요? 네, 대상 신규 VPS 구매의 첫 계약 기간에 20% 할인이 적용됩니다. 카트에서 플랜의 할인을 확인하세요.",
           "사이트를 잃지 않고 호스팅을 옮길 수 있나요? 가능합니다. 파일과 데이터베이스를 새 호스팅으로 옮기면 됩니다. 새 호스팅이 무료 이전을 제공하는지 확인하고, 기존 플랜이 끝나기 전에 옮기세요.",
-          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 같은 계정으로 대상 신규 구매를 하면 쓸 수 있습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -162378,7 +162378,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "카트의 쿠폰 칸에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+      "text": "SONAR20: 적용 대상 신규 구매의 첫 기간 20% 할인. 도메인 등록과 갱신에는 적용되지 않습니다.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162400,7 +162400,7 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "사이트가 3개까지라면 Premium을 고르세요. 블로그, 포트폴리오, 회사 소개 페이지에 맞고, 프로모션가와 갱신가가 확인한 플랜 중 가장 낮습니다.",
+        "사이트가 3개까지이고 애플리케이션, 공간, 백업 요구에 맞는다면 Premium을 고르세요. 블로그, 포트폴리오, 회사 소개 페이지에 맞고, 프로모션가와 갱신가가 확인한 플랜 중 가장 낮습니다.",
         "처리 능력과 메모리를 보장받아야 한다면 VPS를 고르세요. 입문 플랜인 KVM 1도 메모리가 4 GB입니다."
       ],
       "skipIf": [
@@ -162456,7 +162456,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited。促销期为 48 个月，所以下面的表格按月列出价格，并把续费价放在旁边。"
+          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited，但要先确认应用、空间和备份需求。促销期为 48 个月，所以下面的表格按月列出价格，并把续费价放在旁边。"
         ]
       },
       {
@@ -162579,19 +162579,19 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "KVM 2 的 vCPU 和内存都是 KVM 1 的两倍。价格是 2026年10月30日读取的。购买长周期之前，先在购物车确认续费价。"
+          "KVM 2 的 vCPU 和内存都是 KVM 1 的两倍。购买长周期之前，先在购物车确认续费价。"
         ]
       },
       {
         "heading": "SONAR20 优惠码",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，**首个周期享 20% 折扣**。我们在购物车里测试了三项产品：商店建站工具的 Startup 电商套餐、专业邮箱和 Reach。这张表里的主机套餐和 VPS 都适用，请在购物车确认价格。这 20% 适用于所有新购；续费按标价收费，没有折扣。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
+          "符合条件的新购首个周期享 20% 折扣。在购物车的优惠码栏输入 **SONAR20**，已有账户也可适用。我们在购物车里测试过 Startup 电商、专业邮箱和 Reach；选定的主机或 VPS 套餐请在购物车确认适用情况。域名注册与续费除外。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
         "heading": "结论：怎么选",
         "paragraphs": [
-          "**网站在 3 个以内**，比如博客、作品集或公司介绍页，选 Premium。在查看的套餐里，它的促销价和续费价都最低，促销期长达 48 个月。需要保证处理器和内存，就看 VPS 的 KVM 1（1 vCPU，4 GB）或 KVM 2（2 vCPU，8 GB）。",
+          "**网站在 3 个以内**，比如博客、作品集或公司介绍页，且应用、空间和备份需求都符合，选 Premium。在查看的套餐里，它的促销价和续费价都最低，促销期长达 48 个月。需要保证处理器和内存，就看 VPS 的 KVM 1（1 vCPU，4 GB）或 KVM 2（2 vCPU，8 GB）。",
           "**网站超过 3 个**，或者存储和每日备份对你很重要，选 **Unlimited**。续费价每月 US$ 16.99。Cloud Startup 留给确实需要额外性能的人。",
           "**无论哪种**，付款前先看续费价那一栏，并在购物车确认金额。目前正在做促销，价格可能变化。",
           "如果是我自己的网站，只有一个网站时我会选 Premium，因为它的促销价和续费价都是查看的套餐里最低的。"
@@ -162600,13 +162600,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "网站只有一个，哪个套餐最便宜？3 个网站以内用 Premium。促销价每月 US$ 2.49，续费价每月 US$ 10.99，促销期 48 个月。",
+          "网站只有一个，哪个套餐最便宜？应用、空间和备份需求符合的话，3 个网站以内用 Premium。促销价每月 US$ 2.49，续费价每月 US$ 10.99，促销期 48 个月。",
           "Hostinger 续费多少钱？在国际站上看到的是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各国和货币可能不同，付款前请在购物车确认。",
           "VPS 从哪个套餐看起？入门的 KVM 1（1 vCPU，4 GB，50 GB NVMe）按 24 个月计，促销价每月 US$ 6.49，续费价每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促销价每月 US$ 8.79。购买长周期之前，先在购物车确认续费价。",
           "Hostinger 的服务器在哪个国家？官方列表中，网站、云和 VPS 套餐在欧洲、亚洲、北美和南美都有数据中心，以实际可用为准。邮箱另外存放在法国和德国。",
-          "SONAR20 能用在 VPS 上吗？能，VPS 也适用，请在购物车确认。测试过的是商店建站工具的 Startup 电商套餐，优惠是首个周期 20%。",
+          "SONAR20 能用在 VPS 上吗？能，符合条件的新购 VPS 首个周期享 20% 折扣，请在购物车确认。",
           "能换主机而不丢失网站吗？可以，把文件和数据库迁到新主机即可。确认新主机是否提供免费迁移，并在旧套餐到期前完成。",
-          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，同一账户符合条件的新购可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -162619,7 +162619,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+      "text": "SONAR20：符合条件的新购首个周期享 20% 折扣，域名注册及续费不适用。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162641,7 +162641,7 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "网站在 3 个以内，选 Premium：适合博客、作品集和公司介绍页，促销价和续费价都是查看的套餐里最低的。",
+        "网站在 3 个以内，且应用、空间和备份需求都符合，选 Premium：适合博客、作品集和公司介绍页，促销价和续费价都是查看的套餐里最低的。",
         "需要保证处理器和内存，选 VPS：入门的 KVM 1 也有 4 GB 内存。"
       ],
       "skipIf": [
@@ -162697,7 +162697,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited。促銷期為 48 個月，所以下面的表格按月列出價格，並把續訂價放在旁邊。"
+          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited，但要先確認應用程式、空間與備份需求。促銷期為 48 個月，所以下面的表格按月列出價格，並把續訂價放在旁邊。"
         ]
       },
       {
@@ -162820,19 +162820,19 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "KVM 2 的 vCPU 和記憶體都是 KVM 1 的兩倍。價格是 2026年10月30日讀取的。購買長週期之前，先在購物車確認續訂價。"
+          "KVM 2 的 vCPU 和記憶體都是 KVM 1 的兩倍。購買長週期之前，先在購物車確認續訂價。"
         ]
       },
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [
-          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，**首期享 20% 折扣**。我們在購物車裡測試了三項產品：商店建站工具的 Startup 電商方案、專業電子郵件和 Reach。這張表裡的主機方案沒有測試，請在購物車確認。VPS 也適用。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
+          "符合資格的新購買首期享 20% 折扣。在購物車的優惠碼欄位輸入 **SONAR20**，已有帳號也可適用。我們在購物車裡測試過 Startup 電商方案、專業電子郵件和 Reach；選定的主機或 VPS 方案請在購物車確認適用情形。網域註冊與續訂除外。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
         "heading": "結論：怎麼選",
         "paragraphs": [
-          "**網站在 3 個以內**，例如部落格、作品集或公司介紹頁，選 Premium。在查看的方案裡，它的促銷價和續訂價都最低，促銷期長達 48 個月。需要保證處理器和記憶體，就看 VPS 的 KVM 1（1 vCPU，4 GB）或 KVM 2（2 vCPU，8 GB）。",
+          "**網站在 3 個以內**，例如部落格、作品集或公司介紹頁，且應用程式、空間與備份需求都符合，選 Premium。在查看的方案裡，它的促銷價和續訂價都最低，促銷期長達 48 個月。需要保證處理器和記憶體，就看 VPS 的 KVM 1（1 vCPU，4 GB）或 KVM 2（2 vCPU，8 GB）。",
           "**網站超過 3 個**，或是儲存空間和每日備份對你很重要，選 **Unlimited**。續訂價每月 US$ 16.99。Cloud Startup 留給確實需要額外效能的人。",
           "**無論哪種**，付款前先看續訂價那一欄，並在購物車確認金額。目前正在進行促銷，價格可能變動。",
           "如果是我自己的網站，只有一個網站時我會選 Premium，因為它的促銷價和續訂價都是查看的方案裡最低的。"
@@ -162841,13 +162841,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "網站只有一個，哪個方案最便宜？3 個網站以內用 Premium。促銷價每月 US$ 2.49，續訂價每月 US$ 10.99，促銷期 48 個月。",
+          "網站只有一個，哪個方案最便宜？應用程式、空間與備份需求符合的話，3 個網站以內用 Premium。促銷價每月 US$ 2.49，續訂價每月 US$ 10.99，促銷期 48 個月。",
           "Hostinger 續訂要多少錢？在國際站上看到的是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各國和貨幣可能不同，付款前請在購物車確認。",
           "VPS 從哪個方案看起？入門的 KVM 1（1 vCPU，4 GB，50 GB NVMe）以 24 個月計，促銷價每月 US$ 6.49，續訂價每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促銷價每月 US$ 8.79。購買長週期之前，先在購物車確認續訂價。",
           "Hostinger 的伺服器在哪個國家？官方清單中，網站、雲端和 VPS 方案在歐洲、亞洲、北美和南美都有資料中心，以實際可用為準。信箱另外存放在法國和德國。",
-          "SONAR20 能用在 VPS 上嗎？能，請在購物車確認。測試過的是商店建站工具的 Startup 電商方案，優惠是首期 20%。",
+          "SONAR20 能用在 VPS 上嗎？能，符合資格的新購 VPS 首期享 20% 折扣，請在購物車確認。",
           "能換主機而不遺失網站嗎？可以，把檔案和資料庫搬到新主機即可。請確認新主機是否提供免費搬遷，並在舊方案到期前完成。",
-          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，同一帳號符合資格的新購買可享 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
@@ -162860,7 +162860,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
+      "text": "SONAR20：符合資格的新購買首期享 20% 折扣，網域註冊及續訂不適用。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162882,7 +162882,7 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "網站在 3 個以內，選 Premium：適合部落格、作品集和公司介紹頁，促銷價和續訂價都是查看的方案裡最低的。",
+        "網站在 3 個以內，且應用程式、空間與備份需求都符合，選 Premium：適合部落格、作品集和公司介紹頁，促銷價和續訂價都是查看的方案裡最低的。",
         "需要保證處理器和記憶體，選 VPS：入門的 KVM 1 也有 4 GB 記憶體。"
       ],
       "skipIf": [
@@ -192136,8 +192136,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Antes de comparar preço de hospedagem, responda: por quanto tempo o site fica no ar? A GoDaddy só ganha em 1 ano. A partir de 2 anos, a Hostinger custa menos nos dois pares.",
-    "metaDescription": "O SONAR20 dá 20% na compra nova da Hostinger. Veja quem custa menos que a GoDaddy em 1, 2 e 4 anos e o que cada plano cobra na renovação.",
+    "description": "Nas contas de hospedagem, a GoDaddy custa menos por 1 ano; a Hostinger com SONAR20, por 2 e 4 anos. Veja também a renovação e os gastos com domínio e e-mail.",
+    "metaDescription": "SONAR20 dá 20% na compra nova dos planos Hostinger comparados de 12, 24 e 48 meses. Compare com a GoDaddy e veja a renovação.",
     "publishedAt": "6 de novembro de 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -192150,14 +192150,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende de quanto tempo o site fica no ar. Para um ano, a GoDaddy cobra menos nos dois pares de planos. A partir de dois anos, a Hostinger com o SONAR20 custa menos nos dois pares, e em quatro anos a diferença passa de três vezes."
+          "Para um ano, a GoDaddy cobra menos nos dois pares de planos. Para dois e quatro anos, a Hostinger com SONAR20 custa menos. Os totais são só de hospedagem: domínio e e-mail, depois do primeiro ano, renovam à parte nas duas empresas."
         ]
       },
       {
         "heading": "Dois pares para comparar",
         "paragraphs": [
           "Os planos de entrada das duas, o Single da Hostinger e o Inicial da GoDaddy, vêm só com o site: nenhum dos dois traz domínio nem e-mail. Quem quer os dois inclusos sobe um degrau nas duas empresas, para o Premium e o Economy, que dão domínio e e-mail grátis no primeiro ano. O SSL é grátis em todos os planos das duas.",
-          "O artigo compara um par de cada vez e responde por prazo: o que você paga no primeiro ano, o que paga em dois anos, o que paga em quatro anos e quanto cada plano cobra para renovar."
+          "O artigo compara um par de cada vez e responde por prazo: o que você paga no primeiro ano, o que paga em dois anos, o que paga em quatro anos e quanto cada plano cobra para renovar.",
+          "Preços e condições consultados nas páginas brasileiras e nos carrinhos em 06/11/2026, sem concluir a compra."
         ],
         "comparisonTable": {
           "headers": [
@@ -192210,7 +192211,7 @@ export const reviewsData: unknown[] = [
           "Para um site que vai durar um ano, o plano de 12 meses da Hostinger com o SONAR20 perde para a GoDaddy nos dois pares: por R$ 19,22 no par só com o site e por R$ 24,02 no par com domínio e e-mail."
         ],
         "comparisonTable": {
-          "caption": "Pagamento do primeiro ano, lido no carrinho em 06/11, sem comprar. Na Hostinger, o plano de 12 meses com o SONAR20.",
+          "caption": "Pagamento de 12 meses de hospedagem, nos valores consultados. Na Hostinger, com o SONAR20.",
           "headers": [
             "Plano",
             "Pagamento no 1º ano",
@@ -192249,10 +192250,10 @@ export const reviewsData: unknown[] = [
           "Para um site que vai durar dois anos, o plano de 24 meses da Hostinger com o SONAR20 já custa menos que a GoDaddy nos dois pares: R$ 95,95 a menos no par só com o site e R$ 290,35 a menos no par com domínio e e-mail."
         ],
         "comparisonTable": {
-          "caption": "Pagamento por 2 anos, lido no carrinho na mesma data, sem comprar. Na Hostinger, o plano de 24 meses com o SONAR20. Na GoDaddy, o plano de 24 meses, que sai mais barato que 1 ano mais uma renovação.",
+          "caption": "Pagamento antecipado de 24 meses de hospedagem, nos valores consultados. Na Hostinger, com SONAR20. Não inclui renovar domínio e e-mail após o primeiro ano.",
           "headers": [
             "Plano",
-            "Pagamento por 2 anos",
+            "Hospedagem por 2 anos",
             "Domínio e e-mail"
           ],
           "rows": [
@@ -192279,20 +192280,20 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nas duas lojas, 12 meses mais uma renovação custam mais que o plano de 24 meses. Na Hostinger, o Single sairia por R$ 402,98 e o Premium, por R$ 611,78. Na GoDaddy, o Inicial sairia por R$ 371,76 e o Economy, por R$ 719,76."
+          "Pelos preços de renovação consultados, 12 meses mais uma renovação custariam mais que o plano de 24 meses nas duas lojas. Na Hostinger, o Single sairia por R$ 402,98 e o Premium, por R$ 611,78. Na GoDaddy, o Inicial sairia por R$ 371,76 e o Economy, por R$ 719,76."
         ]
       },
       {
         "heading": "Em 4 anos, a Hostinger custa menos nos dois pares",
         "paragraphs": [
-          "A diferença está em como cada uma cobra. Na Hostinger, você paga os 48 meses de uma vez e não renova nada nesse prazo. No carrinho, o Single de 48 meses saiu por R$ 230,02 com o SONAR20, e o Premium, por R$ 383,62.",
-          "Na GoDaddy, o caminho mais barato para quatro anos é o plano de 36 meses mais uma renovação anual, que sai pelo preço de lista: R$ 482,04 mais R$ 275,88 no Inicial, e R$ 957,24 mais R$ 599,88 no Economy."
+          "Na Hostinger, a compra de 48 meses cobre a hospedagem pelos quatro anos, sem renovação desse serviço durante o período. No carrinho, o Single de 48 meses saiu por R$ 230,02 com o SONAR20, e o Premium, por R$ 383,62.",
+          "Na GoDaddy, a conta usa o plano de 36 meses mais uma renovação anual. Mantidos os preços de renovação consultados, são R$ 482,04 mais R$ 275,88 no Inicial e R$ 957,24 mais R$ 599,88 no Economy. A renovação será cobrada depois dos 36 meses; seu valor futuro pode mudar."
         ],
         "comparisonTable": {
           "headers": [
             "Plano",
             "Como você paga",
-            "Total em 4 anos"
+            "Hospedagem em 4 anos"
           ],
           "rows": [
             [
@@ -192315,7 +192316,8 @@ export const reviewsData: unknown[] = [
               "36 meses por R$ 957,24, mais 1 renovação de R$ 599,88",
               "R$ 1.557,12"
             ]
-          ]
+          ],
+          "caption": "Hospedagem por quatro anos: pagamento antecipado de 48 meses na Hostinger e projeção de 36 meses mais uma renovação na GoDaddy."
         },
         "postParagraphs": [
           "Pela mesma conta, o Inicial custa mais de três vezes o Single, e o Economy, cerca de quatro vezes o Premium.",
@@ -192325,7 +192327,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Depois do período pago: quanto cada plano cobra na renovação",
         "paragraphs": [
-          "Passado o período, as duas voltam ao preço de tabela. O SONAR20 vale só na compra nova; a renovação da Hostinger sai pelo preço de tabela do plano. O carrinho diz que o Single renova a cada 12 meses por R$ 23,99 ao mês, ou R$ 287,88 por ano; o Premium, por R$ 38,99 ao mês, ou R$ 467,88 por ano.",
+          "Depois do período promocional, a renovação das duas empresas sai pelo preço de tabela. O SONAR20 vale só na compra nova. Na consulta, o carrinho da Hostinger informava cobrança a cada 12 meses: R$ 287,88 pelo Single e R$ 467,88 pelo Premium. Os equivalentes mensais eram R$ 23,99 e R$ 38,99; confira o valor vigente quando chegar a renovação.",
           "No par só com o site, o Inicial renova por R$ 275,88 ao ano, R$ 12 abaixo do Single. No par com domínio e e-mail, o Economy renova por R$ 599,88, R$ 132 acima do Premium."
         ],
         "image": {
@@ -192339,14 +192341,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E o plano de 1 mês?",
         "paragraphs": [
-          "A Hostinger também vende 1 mês: o Single sai por R$ 29,99 e o Premium, por R$ 48,99. O SONAR20 não vale nesse plano, e ele renova pelo mesmo preço todo mês.",
-          "Doze meses de Single pagos mês a mês somam R$ 359,88, cerca de três vezes o plano de 12 meses com o código. A GoDaddy não tem plano mensal no Inicial: o menor prazo no carrinho é 12 meses. O plano de 1 mês serve só para testar."
+          "Na consulta, a Hostinger oferecia o Single de um mês por R$ 29,99 e o Premium por R$ 48,99. O SONAR20 não reduzia esses dois preços mensais, e a renovação indicada era pelo mesmo valor de cada plano.",
+          "Mantido esse preço, doze meses de Single pagos mês a mês somam R$ 359,88, cerca de três vezes o plano de 12 meses com o código. No carrinho consultado, o menor prazo do GoDaddy Inicial era de 12 meses. O pagamento mensal da Hostinger pode atender a um teste ou projeto curto, mas custa mais se você mantiver o site por um ano."
         ]
       },
       {
         "heading": "Domínio, e-mail e SSL: o que vence depois do 1º ano",
         "paragraphs": [
-          "No Premium e no Economy, o domínio e o e-mail são grátis por um ano. Depois, cada um renova à parte, nas duas empresas, e as contas de 4 anos acima não incluem isso.",
+          "No Premium e no Economy, o domínio e o e-mail são grátis por um ano. Depois, cada um renova à parte, nas duas empresas. As contas de dois e quatro anos acima excluem essas renovações; se pretende manter os dois serviços, some o custo deles.",
           "O SSL não entra nessa lista. A Hostinger instala um certificado grátis em todos os planos. A GoDaddy inclui o AutoSSL, um certificado DV da Sectigo que se renova sozinho enquanto a hospedagem estiver ativa. O carrinho do Economy acrescenta um \"SSL Padrão\" grátis por um ano, que depois renova sozinho por R$ 429,99 ao ano: é um certificado pago além do AutoSSL, e quem não quer esse extra desliga a renovação dele."
         ]
       },
@@ -192359,26 +192361,33 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisa de mais: Unlimited e Cloud Startup",
         "paragraphs": [
-          "Acima do Premium, a Hostinger tem o Unlimited, com sites ilimitados, 50 GB NVMe e backup diário, e o Cloud Startup. Pela mesma conta de 20% sobre o preço de página, os 48 meses do Unlimited saem por R$ 498,82 com o SONAR20 e renovam a R$ 64,99 ao mês; os do Cloud Startup, por R$ 1.535,62, com renovação de R$ 129,99 ao mês. Esses dois não foram conferidos no carrinho. Os planos Deluxe e Ultimate da GoDaddy ficam de fora porque a renovação deles também não foi conferida. As regras do código estão em [cupom Hostinger](/cupons/hostinger)."
+          "Acima do Premium, a página consultada lista o Unlimited, com sites ilimitados, 50 GB NVMe e backup diário, e o Cloud Startup. Com 20% de desconto sobre o preço de página, os 48 meses saem por R$ 498,82 no Unlimited e R$ 1.535,62 no Cloud Startup, com renovações anunciadas de R$ 64,99 e R$ 129,99 ao mês. Esses dois valores são cálculos, sem conferência no carrinho nesta comparação."
+        ],
+        "links": [
+          {
+            "label": "cupom Hostinger",
+            "href": "/cupons/hostinger"
+          }
         ]
       },
       {
         "heading": "Qual escolher, pelo tempo que o site vai ficar no ar",
         "paragraphs": [
           "Um ano, só o site: GoDaddy Inicial, a opção mais barata nesse prazo. Um ano, com domínio e e-mail: GoDaddy Economy, pelo mesmo motivo. Nos dois casos, a Hostinger fica de R$ 19 a R$ 24 acima.",
-          "Dois anos, só o site: Hostinger Single de 24 meses com o SONAR20, R$ 95,95 abaixo do Inicial. Dois anos, com domínio e e-mail: Hostinger Premium de 24 meses com o SONAR20, R$ 290,35 abaixo do Economy.",
-          "Quatro anos, só o site: Hostinger Single de 48 meses com o SONAR20. O Inicial custa mais de três vezes esse valor no mesmo prazo. Quatro anos, com domínio e e-mail: Hostinger Premium de 48 meses com o SONAR20; o Economy custa cerca de quatro vezes esse valor.",
+          "Dois anos, só o site: Hostinger Single de 24 meses com o SONAR20, R$ 95,95 abaixo do Inicial. Com domínio e e-mail grátis no primeiro ano: Hostinger Premium de 24 meses com o SONAR20, R$ 290,35 abaixo do Economy na hospedagem. Para manter domínio e e-mail no segundo ano, some a renovação dos dois serviços.",
+          "Quatro anos, só o site: Hostinger Single de 48 meses com o SONAR20. Na projeção de 36 meses mais uma renovação, o Inicial custa mais de três vezes esse valor. Com domínio e e-mail, o Economy nessa mesma projeção custa cerca de quatro vezes o Premium de 48 meses com SONAR20. Domínio e e-mail são grátis só no primeiro ano; as renovações ficam fora da conta.",
           "Em qualquer caso, confira no carrinho o preço da renovação antes de pagar: as promoções mudam."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é melhor, Hostinger ou GoDaddy? Depende do prazo. Para um ano, a GoDaddy custa menos nos dois pares de planos; a partir de dois anos, a Hostinger com o SONAR20 custa menos nos dois, porque paga o prazo todo de uma vez. A comparação com a HostGator está em [Hostinger ou HostGator](/reviews/hostinger-ou-hostgator).",
+          "Qual é melhor, Hostinger ou GoDaddy? Depende do prazo. Pelo custo de hospedagem, a GoDaddy custa menos por um ano nos dois pares; a partir de dois anos, a Hostinger com SONAR20 custa menos nos dois. A comparação com a HostGator está em [Hostinger ou HostGator](/reviews/hostinger-ou-hostgator).",
           "A GoDaddy renova pelo mesmo preço? Não. O carrinho mostra que o plano de 1 ano volta ao preço de lista na renovação: quase o triplo no Inicial e cinco vezes no Economy. Os valores da renovação estão na tabela de 4 anos, e os do primeiro ano, na de 1 ano.",
           "O cupom da Hostinger vale na renovação? Não. O SONAR20 vale só na compra nova, e a renovação sai pelo preço de tabela. Para a renovação, veja o [guia de renovação da Hostinger](/reviews/hostinger-renovacao-cupom-sonar20).",
           "O Single da Hostinger vem com domínio? Não. No cartão do plano, domínio e e-mail aparecem como não incluídos. Quem quer os dois na Hostinger começa no Premium, que dá domínio e e-mail grátis por um ano.",
-          "Dá para levar o site da GoDaddy para a Hostinger? A página de ajuda da Hostinger diz que a migração grátis vale para site de outra empresa nos planos Web, Cloud ou Agency. Confira o seu plano com o suporte antes de cancelar o antigo."
+          "Dá para levar o site da GoDaddy para a Hostinger? A página de ajuda da Hostinger diz que a migração grátis vale para site de outra empresa nos planos Web, Cloud ou Agency. Confira o seu plano com o suporte antes de cancelar o antigo.",
+          "Qual é o cupom da Hostinger? SONAR20 dá 20% na compra nova dos planos de 12, 24 e 48 meses comparados; não vale na renovação e não reduziu os preços mensais do Single e do Premium consultados."
         ]
       },
       {
@@ -192390,18 +192399,18 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve a Hostinger se o site vai ficar no ar 2 anos ou mais: com o SONAR20, o Single e o Premium custam menos que a GoDaddy desde o plano de 24 meses, e os 48 meses cobrem 4 anos com uma compra só.",
-        "Leve a Hostinger Premium se quer domínio e e-mail e vai manter o site depois do primeiro ano: ele renova por menos que o Economy."
+        "Leve a Hostinger se pode pagar 24 ou 48 meses de hospedagem de uma vez: com o SONAR20, Single e Premium custam menos que os respectivos planos da GoDaddy nos cenários comparados.",
+        "Considere o Hostinger Premium se quer domínio e e-mail grátis no primeiro ano e uma renovação de hospedagem menor que a do Economy. Para comparar o gasto completo depois desse ano, some também as renovações de domínio e e-mail."
       ],
       "skipIf": [
-        "Passe para a GoDaddy Inicial só se o projeto dura 1 ano e precisa apenas do site, sem domínio nem e-mail: é o mais barato nesse prazo.",
-        "Passe para a GoDaddy Economy só se o projeto dura 1 ano, com domínio e e-mail inclusos e você aceita renovar a quase 600 reais por ano depois."
+        "Considere a GoDaddy Inicial se precisa apenas da hospedagem por um ano: ela custa menos que o Single nesse prazo. Sua renovação anual consultada também fica abaixo da do Single, embora a Hostinger custe menos nas contas de dois e quatro anos.",
+        "Considere a GoDaddy Economy se o projeto dura um ano e você quer domínio e e-mail incluídos nesse período: ela custa menos que o Premium nesse prazo, mas renova a quase 600 reais por ano em hospedagem, sem contar domínio e e-mail."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% em compra nova. Na renovação, o código não vale.",
+      "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses comparados. O código não vale na renovação e não reduziu os preços mensais do Single e do Premium consultados.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -192462,8 +192471,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Before comparing hosting prices, ask how long the site will stay online. In US dollars, Hostinger Premium with SONAR20 costs less than GoDaddy Economy at every horizon.",
-    "metaDescription": "SONAR20 takes 20% off a new Hostinger purchase. See who costs less than GoDaddy in year 1, over 2 and 4 years, and what each plan charges to renew.",
+    "description": "In US dollars, Hostinger Premium with SONAR20 costs less than GoDaddy Economy in the 1-, 2- and 4-year hosting comparisons. Domain and email renewals cost extra.",
+    "metaDescription": "SONAR20 takes 20% off new 12-, 24- and 48-month Hostinger Premium purchases. Compare hosting and renewal costs with GoDaddy.",
     "publishedAt": "November 6, 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -192477,14 +192486,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "In US dollars, Hostinger Premium with SONAR20 costs less than GoDaddy Economy in the first year (US$19.10 against US$83.88), over 2 years (US$38.21 against US$155.76), over 4 years (US$76.42 against US$359.52) and at renewal (US$131.88 against US$143.88 a year). Both include a domain and email free for 1 year."
+          "In US dollars, Hostinger Premium with SONAR20 costs less than GoDaddy Economy over one, two and four years of hosting. Its quoted annual hosting renewal is also lower. Both include a domain and email free for the first year, and those renewals are not in the hosting totals."
         ]
       },
       {
         "heading": "The pair to compare",
         "paragraphs": [
-          "On Hostinger's international site, shared hosting starts at Premium, which includes a domain and email free for the first year. GoDaddy's plan with the same two items is Economy. These two are the main pair of this article. SSL is free on every plan at both companies.",
-          "The article answers by horizon: what you pay in the first year, over 2 years and over 4 years, and what each plan charges to renew. GoDaddy also sells Starter, a plan with the site only, and it gets its own section further down."
+          "On Hostinger's international site, shared hosting starts at Premium, which includes a domain and email free for the first year. GoDaddy's plan with the same two items is Economy. These two are the main pair of this article. Both include a free SSL certificate on the plans compared here.",
+          "The article answers by horizon: what you pay in the first year, over 2 years and over 4 years, and what each plan charges to renew. GoDaddy also sells Starter, a plan with the site only, and it gets its own section further down.",
+          "Prices and terms were checked on the international sites and in their carts on November 6, 2026, without completing a purchase."
         ],
         "comparisonTable": {
           "headers": [
@@ -192518,7 +192528,7 @@ export const reviewsData: unknown[] = [
           "For a site that will last one year, Hostinger's 12-month Premium with SONAR20 costs US$19.10. GoDaddy Economy costs US$83.88 for its first year. The difference is US$64.78 in Hostinger's favor."
         ],
         "comparisonTable": {
-          "caption": "First-year payment, read in each cart on November 6, without buying. At Hostinger, the 12-month plan with SONAR20.",
+          "caption": "Twelve-month hosting prices recorded in the carts. Hostinger's price includes SONAR20. Check the full cart total for any separate charges.",
           "headers": [
             "Plan",
             "First-year payment",
@@ -192544,13 +192554,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Over 2 years, Hostinger costs less",
         "paragraphs": [
-          "For a site that will last two years, Hostinger's 24-month Premium with SONAR20 is one purchase of US$38.21. GoDaddy's 24-month Economy plan costs US$155.76, which is less than paying the first year and one renewal (US$227.76). Starter has no discount, so two years of it cost US$143.76."
+          "For two years of hosting, Premium's 24-month price with SONAR20 was US$38.21 upfront. Economy's 24-month price was US$155.76. At the quoted renewal rate, buying one year of Economy and renewing once would total US$227.76. One year of Starter plus one renewal at its quoted rate would total US$143.76."
         ],
         "comparisonTable": {
-          "caption": "Two-year payment, read in each cart on the same date, without buying. At Hostinger, the 24-month plan with SONAR20. At GoDaddy, the 24-month plan, which costs less than 1 year plus a renewal.",
+          "caption": "Premium and Economy use their quoted 24-month upfront prices; Premium includes SONAR20. Starter uses one year plus one renewal at the quoted rate. Domain and email renewals after year one are excluded.",
           "headers": [
             "Plan",
-            "Two-year payment",
+            "Hosting over 2 years",
             "Domain and email"
           ],
           "rows": [
@@ -192575,14 +192585,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Over 4 years, Hostinger costs less",
         "paragraphs": [
-          "The difference is in how each company charges. At Hostinger, you pay the 48 months at once and renew nothing within that time. In the cart, with the Black Friday price already applied, the 48-month Premium showed US$95.52, and SONAR20 took it to US$76.42.",
-          "At GoDaddy, the promotional price covers the first term only, and renewals are charged at the list price. The cheapest path to four years is the 36-month Economy plan at US$215.64, plus one yearly renewal of US$143.88."
+          "Hostinger's 48-month purchase covers hosting for four years without a hosting renewal during that period. In the cart, the Black Friday price for Premium was US$95.52, reduced to US$76.42 with SONAR20. Domain and email renewals after the first year are separate.",
+          "For exactly four years of Economy hosting, the projection uses 36 months at US$215.64 plus one annual renewal at the quoted US$143.88. It totals US$359.52 if the renewal rate stays unchanged."
         ],
         "comparisonTable": {
           "headers": [
             "Plan",
             "How you pay",
-            "4-year total"
+            "Hosting: exactly 4 years"
           ],
           "rows": [
             [
@@ -192595,18 +192605,19 @@ export const reviewsData: unknown[] = [
               "US$215.64 for 36 months, plus 1 renewal of US$143.88",
               "US$359.52"
             ]
-          ]
+          ],
+          "caption": "Premium uses a 48-month upfront purchase. Economy uses 36 months plus one annual renewal at the quoted rate."
         },
         "postParagraphs": [
-          "GoDaddy's 60-month Economy plan costs US$359.40 and covers 5 years for about the same money as the 4-year path above.",
+          "The quoted 60-month Economy price was US$359.40 upfront: US$0.12 less than the projected four-year route above, with a fifth year of hosting included. It is the lower total outlay of these two options, although it requires paying the full amount at the start.",
           "The totals do not include renewing the domain or the email after the first year, at either company."
         ]
       },
       {
         "heading": "After the paid period: what each plan charges to renew",
         "paragraphs": [
-          "Once the period ends, both companies go back to the list price. SONAR20 applies to a new purchase only, so Hostinger's renewal is charged at the plan's list price. The cart says Premium renews after 48 months at US$10.99 a month for 12 months, which is US$131.88 a year. The 12-month plan renews at the same rate.",
-          "GoDaddy's cart says Economy renews in November 2027 for US$143.88. That is US$12 a year above Premium."
+          "After the promotional term, Premium and Economy renew at their list prices. SONAR20 applies only to a new purchase. The cart quoted Premium's renewal after 48 months at US$131.88 for 12 months, equivalent to US$10.99 a month. It quoted the same renewal rate for the 12-month plan. Future renewal prices may change.",
+          "For Economy's one-year purchase, GoDaddy's cart quoted the next annual hosting renewal at US$143.88, US$12 more than Premium's quoted annual renewal."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-en.webp",
@@ -192619,22 +192630,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What about the 1-month plan?",
         "paragraphs": [
-          "Hostinger sells Premium by the month at US$12.99. SONAR20 does not apply to the monthly plan, and it renews at the same US$12.99 every month. Twelve months this way come to US$155.88, about eight times the 12-month plan with the code. It is useful only for a short test."
+          "The cart quoted Premium at US$12.99 for one month, with the same monthly renewal price. SONAR20 did not reduce that price. At an unchanged rate, twelve monthly payments total US$155.88, about eight times the 12-month purchase with the code. Paying monthly can suit a short project or test, but costs more if you keep the site for a year."
         ]
       },
       {
         "heading": "If you only need the site: GoDaddy Starter",
         "paragraphs": [
           "Starter is GoDaddy's plan with the site only: 1 site, 10 GB NVMe and cPanel, with no domain or email on the list. SSL comes through AutoSSL, like every GoDaddy plan. It has no first-year discount: the cart showed US$71.88 for 1 year, and it renews at the same US$71.88.",
-          "In the first year, over 2 years and over 4 years, Starter costs more than Premium with SONAR20. At renewal, it is the cheapest of the three plans in this article, US$60 a year below Premium."
+          "Starter costs more than Premium with SONAR20 in the one-, two- and four-year hosting comparisons. It has the lowest quoted annual renewal of the three plans, US$60 below Premium. That lower renewal does not make it cheaper overall within the first four years."
         ],
         "comparisonTable": {
           "headers": [
             "Plan",
-            "First year",
-            "2-year total",
-            "4-year total",
-            "Renewal per year"
+            "Hosting: first year",
+            "Hosting: 2 years",
+            "Hosting: exactly 4 years",
+            "Quoted annual hosting renewal"
           ],
           "rows": [
             [
@@ -192658,46 +192669,54 @@ export const reviewsData: unknown[] = [
               "US$359.52",
               "US$143.88"
             ]
-          ]
+          ],
+          "caption": "Hosting charges only; domain and email renewals are excluded. Future hosting renewals use the quoted rates."
         }
       },
       {
         "heading": "Domain, email and SSL: what expires after the first year",
         "paragraphs": [
-          "On Premium and on Economy, the domain and the email are free for one year. After that, each one renews on its own, at both companies, and the 4-year totals above do not include them. GoDaddy's notice adds that the free domain carries the ICANN fee.",
-          "SSL does not expire. Hostinger installs a free certificate on every plan, with no extra setup or cost. GoDaddy includes AutoSSL on every plan. The Economy cart also adds a Standard SSL, free for one year and then auto-renewed at US$119.99 a year: it is a paid certificate on top of AutoSSL, and you can switch off its renewal."
+          "On Premium and Economy, the domain and email are free for one year. After that, each service renews separately at both companies. The two- and four-year hosting totals exclude those renewals. GoDaddy's notice also lists an ICANN fee for the free domain, so check the full cart total before paying.",
+          "Hostinger includes a free certificate, and GoDaddy includes AutoSSL, on the hosting plans compared here. The Economy cart also listed a Standard SSL, free for one year and then set to auto-renew at US$119.99 a year. That is an extra paid certificate on top of AutoSSL; check its renewal setting if you do not want to keep it."
         ]
       },
       {
-        "heading": "Refunds: 30 days at both",
+        "heading": "Refunds: check GoDaddy's window for your plan",
         "paragraphs": [
-          "Hostinger accepts a refund request within 30 days of purchase. GoDaddy's international page says the same: 30 days on the plan cards, and the footer notice gives a full refund on an annual plan within 30 days, or within 48 hours on a monthly plan. On this point, the two are tied."
+          "Hostinger accepts a refund request within 30 days of purchase. GoDaddy's international page lists 30 days on the plan cards; its footer gives a full refund within 30 days on an annual plan and within 48 hours on a monthly plan. Check the refund terms for the plan you buy, especially if it is monthly."
         ]
       },
       {
         "heading": "If you need more: Unlimited and Cloud Startup",
         "paragraphs": [
-          "Above Premium, Hostinger has Unlimited, with unlimited sites, and Cloud Startup. By the same 20% math on the page price, 48 months of Unlimited come to US$107.14 with SONAR20 and renew at US$16.99 a month; Cloud Startup comes to US$306.82 and renews at US$25.99 a month. These two were not checked in the cart. GoDaddy's Deluxe and Ultimate plans are left out because their renewal was not checked either. The code's rules are on the [Hostinger coupon page](/en/coupons/hostinger)."
+          "Above Premium, the page consulted listed Unlimited, with unlimited sites, and Cloud Startup. At 20% off the page prices, the 48-month totals with SONAR20 are US$107.14 for Unlimited and US$306.82 for Cloud Startup, with advertised renewals of US$16.99 and US$25.99 a month. Those two totals are calculations, not prices checked in the cart for this comparison."
+        ],
+        "links": [
+          {
+            "label": "Check the SONAR20 terms on the Hostinger coupon page",
+            "href": "/en/coupons/hostinger"
+          }
         ]
       },
       {
         "heading": "Which to choose, by how long the site will stay online",
         "paragraphs": [
           "One year, with a domain and email: Hostinger Premium for 12 months with SONAR20, at US$19.10. Economy costs US$64.78 more in the same period.",
-          "Two years, with a domain and email: Hostinger Premium for 24 months with SONAR20, at US$38.21. Economy costs US$155.76 on its 24-month plan.",
-          "Four years, with a domain and email: Hostinger Premium for 48 months with SONAR20, at US$76.42 for the whole period. Economy costs more than four times that.",
-          "Only the site, for many years: GoDaddy Starter is the plan with the cheapest renewal, US$71.88 a year, but it costs more than Premium with SONAR20 in the first year, over 2 years and over 4 years.",
+          "Two years of hosting: Hostinger Premium for 24 months with SONAR20 costs US$38.21, against US$155.76 for Economy. Both include a domain and email free for the first year; add their separate renewal costs if you keep those services in year two.",
+          "Four years of hosting: Premium's 48-month price with SONAR20 was US$76.42. Economy projects to US$359.52 for 36 months plus one annual renewal at the quoted rate. Its 60-month offer was slightly lower, at US$359.40 upfront, but both options cost more than four times Premium's four-year price. Domain and email renewals are extra.",
+          "If you only need the site, Starter has the lowest annual renewal: US$71.88, against US$131.88 for Premium. Premium with SONAR20 still costs less over the first four years. For a longer project, compare accumulated payments over your intended term, using the renewal prices available when you buy.",
           "In every case, check the renewal price in the cart before paying: promotions change."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Which is better, Hostinger or GoDaddy? In US dollars, Hostinger Premium with SONAR20 costs less than GoDaddy Economy in the first year, over 2 years, over 4 years and at renewal. GoDaddy Starter only wins at renewal, with no domain or email on its list. More criteria are in [how to choose a web host](/en/reviews/how-to-choose-web-host-hostinger).",
+          "Which is better, Hostinger or GoDaddy? For hosting costs, Premium with SONAR20 costs less than Economy over one, two and four years, and its annual renewal is lower. Domain and email renewals are extra. GoDaddy Starter has the lowest annual renewal, but costs more than Premium over the first four years. More criteria are in [how to choose a web host](/en/reviews/how-to-choose-web-host-hostinger).",
           "Does GoDaddy renew at the same price? Economy does not: the cart shows the 1-year plan going from US$83.88 to US$143.88 at renewal. Starter has no first-year discount and renews at the same US$71.88.",
           "Does the Hostinger coupon work on the renewal? No. SONAR20 applies to a new purchase only, and the renewal is charged at the list price. For the renewal, see the [Hostinger renewal guide](/en/reviews/hostinger-renewal-price-coupon-sonar20).",
-          "Does Hostinger Premium come with a domain? Yes, free for 1 year, along with 2 mailboxes per site. After that year, the domain renews on its own, at Hostinger's current price.",
-          "Can I move my site from GoDaddy to Hostinger? Hostinger's help page says free migration covers a site from another company on the Web, Cloud or Agency plans. Check your plan with support before cancelling the old one."
+          "Does Hostinger Premium come with a domain? Yes, a domain and 2 mailboxes per site are free for the first year. After that, each renews separately.",
+          "Can I move my site from GoDaddy to Hostinger? Hostinger's help page says free migration covers a site from another company on the Web, Cloud or Agency plans. Check your plan with support before cancelling the old one.",
+          "What is the Hostinger coupon code? SONAR20 gives 20% off a new purchase of the 12-, 24- and 48-month Premium plans compared here; it does not apply to renewal and did not reduce the quoted one-month Premium price."
         ]
       },
       {
@@ -192710,7 +192729,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off a new purchase. The code does not apply to the renewal.",
+      "text": "Enter SONAR20 in the cart's coupon field, or use the link, for 20% off a new purchase of the 12-, 24- or 48-month Premium plans compared here. It does not apply to renewal and did not reduce the quoted one-month Premium price.",
       "label": "See the hosting plans with SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -192740,11 +192759,11 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take Hostinger Premium if you want a domain and email for 2 years or more: with SONAR20, one purchase covers the whole period and costs less than Economy.",
-        "Take Hostinger Premium if the project is for one year with a domain and email: it costs less than Economy in that period and also renews for less."
+        "Choose Hostinger Premium if you can pay upfront for 24 or 48 months of hosting: with SONAR20 it costs less than Economy in those comparisons, and the domain and email renewals are extra.",
+        "Choose Hostinger Premium if the project needs one year of hosting with a domain and email included: its 12-month price is lower than Economy's. Its quoted annual hosting renewal is also lower."
       ],
       "skipIf": [
-        "Go with GoDaddy Starter if you only need the site, with no domain or email, and plan to keep it well beyond 4 years: it has the cheapest renewal.",
+        "Consider GoDaddy Starter if you only need hosting and prioritize the lowest quoted annual renewal. It costs more than Premium over the first four years; a longer-term choice needs a total-cost comparison for your intended duration.",
         "Go with GoDaddy Economy if you prefer cPanel and accept paying more than Premium in the first year, over 2 and 4 years and at renewal."
       ]
     }
@@ -192781,8 +192800,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Antes de comparar precios, pregunta cuánto tiempo estará en línea el sitio. En dólares, Hostinger Premium con SONAR20 cuesta menos que GoDaddy Economy en todos los plazos.",
-    "metaDescription": "SONAR20 da 20% en una compra nueva de Hostinger. Mira quién cuesta menos que GoDaddy en 1, 2 y 4 años, y lo que cobra cada plan al renovar.",
+    "description": "Compara Hostinger Premium con SONAR20 y GoDaddy Economy en dólares: hosting por 1, 2 y 4 años, renovación y gastos de dominio y correo aparte.",
+    "metaDescription": "SONAR20 da 20% en compras nuevas elegibles de Hostinger. Compara el hosting con GoDaddy en dólares: 1, 2 y 4 años, más la renovación.",
     "publishedAt": "6 de noviembre de 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -192796,14 +192815,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En dólares, Hostinger Premium con SONAR20 cuesta menos que GoDaddy Economy en el primer año (19,10 US$ contra 83,88 US$), en 2 años (38,21 US$ contra 155,76 US$), en 4 años (76,42 US$ contra 359,52 US$) y en la renovación (131,88 US$ contra 143,88 US$ al año). Los dos incluyen dominio y correo gratis por 1 año."
+          "En los precios internacionales consultados, Hostinger Premium con SONAR20 cuesta menos que GoDaddy Economy por 1, 2 y 4 años de hosting. Su renovación anual anunciada también es menor. Ambos incluyen dominio y correo gratis solo el primer año; renovarlos después cuesta aparte y queda fuera de los totales comparados."
         ]
       },
       {
         "heading": "La pareja a comparar",
         "paragraphs": [
           "En el sitio internacional de Hostinger, el hosting compartido empieza en Premium, que incluye dominio y correo gratis el primer año. El plan de GoDaddy con esos mismos dos elementos es Economy. Estos dos son el par principal de este artículo. El SSL es gratis en todos los planes de las dos empresas.",
-          "El artículo responde por plazo: lo que pagas el primer año, en dos años y en cuatro años, y lo que cobra cada plan al renovar. GoDaddy también vende Starter, un plan solo con el sitio, y tiene su propia sección más abajo."
+          "El artículo responde por plazo: lo que pagas el primer año, en dos años y en cuatro años, y lo que cobra cada plan al renovar. GoDaddy también vende Starter, un plan solo con el sitio, y tiene su propia sección más abajo.",
+          "Consultamos las páginas internacionales y sus carritos en dólares el 6 de noviembre de 2026, sin comprar. Las cuentas con renovaciones futuras suponen que los importes anunciados no cambian."
         ],
         "comparisonTable": {
           "headers": [
@@ -192837,7 +192857,7 @@ export const reviewsData: unknown[] = [
           "Para un sitio que va a durar un año, el Premium de 12 meses de Hostinger con SONAR20 cuesta 19,10 US$. GoDaddy Economy cuesta 83,88 US$ en su primer año. La diferencia es de 64,78 US$ a favor de Hostinger."
         ],
         "comparisonTable": {
-          "caption": "Pago del primer año, leído en cada carrito el 6 de noviembre, sin comprar. En Hostinger, el plan de 12 meses con SONAR20.",
+          "caption": "Importes de hosting observados en los carritos, sin comprar. Hostinger corresponde al pago anticipado de 12 meses con SONAR20. El dominio y el correo son gratis el primer año; GoDaddy indica una tarifa de ICANN para el dominio.",
           "headers": [
             "Plan",
             "Pago del primer año",
@@ -192857,16 +192877,16 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "El carrito de Hostinger ya tenía aplicado el precio del Black Friday: el Premium de 12 meses mostraba 1,99 US$ al mes sin el código y 1,59 US$ al mes con SONAR20, la misma tarifa mensual que los planes de 24 y 48 meses. El código da 20% de descuento en una compra nueva."
+          "El carrito ya mostraba la promoción de Black Friday: Premium de 12 meses anunciaba 1,99 US$ al mes antes de SONAR20 y 1,59 US$ con el descuento. La tarifa mensual mostrada era la misma para 24 y 48 meses. Es una equivalencia mensual redondeada de un pago anticipado; usa el total del carrito para comparar. SONAR20 da 20% en compras nuevas elegibles."
         ]
       },
       {
         "heading": "En 2 años, Hostinger cuesta menos",
         "paragraphs": [
-          "Para un sitio que va a durar dos años, el Premium de 24 meses de Hostinger con SONAR20 es una sola compra de 38,21 US$. El plan Economy de 24 meses de GoDaddy cuesta 155,76 US$, que es menos que pagar el primer año y una renovación (227,76 US$). Starter no tiene descuento, así que dos años de él cuestan 143,76 US$."
+          "Para dos años de hosting, Premium de 24 meses con SONAR20 requiere un pago anticipado de 38,21 US$. Economy de 24 meses cuesta 155,76 US$. Con los importes consultados, contratar un año de Economy y renovarlo una vez sumaría 227,76 US$; hacer lo mismo con Starter sumaría 143,76 US$. Estas dos últimas cifras son cálculos que suponen que la renovación mantiene el precio anunciado."
         ],
         "comparisonTable": {
-          "caption": "Pago de dos años, leído en cada carrito en la misma fecha, sin comprar. En Hostinger, el plan de 24 meses con SONAR20. En GoDaddy, el plan de 24 meses, que cuesta menos que 1 año más una renovación.",
+          "caption": "Hosting por dos años: pagos de 24 meses observados para Premium y Economy; cálculo de 12 meses más una renovación para Starter. Se supone que la renovación conserva el precio anunciado. No se incluye renovar dominio ni correo después del primer año.",
           "headers": [
             "Plan",
             "Pago de dos años",
@@ -192894,8 +192914,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "En 4 años, Hostinger cuesta menos",
         "paragraphs": [
-          "La diferencia está en cómo cobra cada empresa. En Hostinger pagas los 48 meses de una vez y no renuevas nada dentro de ese tiempo. En el carrito, con el precio del Black Friday ya aplicado, el Premium de 48 meses mostraba 95,52 US$, y SONAR20 lo bajó a 76,42 US$.",
-          "En GoDaddy, el precio promocional cubre solo el primer período, y las renovaciones se cobran al precio de lista. El camino más barato para llegar a cuatro años es el plan Economy de 36 meses a 215,64 US$, más una renovación anual de 143,88 US$."
+          "En Hostinger pagas los 48 meses de hosting de una vez y no renuevas el hosting durante ese período. El carrito mostraba Premium a 95,52 US$ con la promoción de Black Friday y a 76,42 US$ con SONAR20. El dominio y el correo solo son gratis el primer año.",
+          "Para comparar exactamente 48 meses, calculamos Economy de GoDaddy por 36 meses a 215,64 US$, más una renovación anual a la tarifa anunciada de 143,88 US$: 359,52 US$ en total. Esa renovación es un gasto futuro estimado, no un precio garantizado."
         ],
         "comparisonTable": {
           "headers": [
@@ -192914,18 +192934,19 @@ export const reviewsData: unknown[] = [
               "215,64 US$ por 36 meses, más 1 renovación de 143,88 US$",
               "359,52 US$"
             ]
-          ]
+          ],
+          "caption": "Hosting por 48 meses: pago anticipado de Premium frente al cálculo de 36 meses de Economy más una renovación anual al precio anunciado. Dominio y correo después del primer año quedan fuera. La alternativa Economy de 60 meses se detalla debajo."
         },
         "postParagraphs": [
-          "El plan Economy de 60 meses de GoDaddy cuesta 359,40 US$ y cubre 5 años por casi el mismo dinero que el camino de 4 años de arriba.",
+          "Si aceptas pagar cinco años por adelantado, Economy de 60 meses figuraba a 359,40 US$: 0,12 US$ menos que el escenario de 36 meses más una renovación. Entre estas dos opciones de Economy, el contrato de 60 meses supone un menor desembolso total para cubrir al menos cuatro años y añade un quinto año de hosting. El pago sigue siendo mayor que los 76,42 US$ de Premium por 48 meses.",
           "Los totales no incluyen renovar el dominio ni el correo después del primer año, en ninguna de las dos empresas."
         ]
       },
       {
         "heading": "Después del período pagado: lo que cobra cada plan al renovar",
         "paragraphs": [
-          "Terminado el período, las dos empresas vuelven al precio de lista. SONAR20 se aplica solo a una compra nueva, así que la renovación de Hostinger se cobra al precio de lista del plan. El carrito dice que el Premium se renueva después de 48 meses a 10,99 US$ al mes durante 12 meses, lo que son 131,88 US$ al año. El plan de 12 meses se renueva al mismo precio.",
-          "El carrito de GoDaddy dice que Economy se renueva en noviembre de 2027 por 143,88 US$. Eso es 12 US$ al año más que el Premium."
+          "SONAR20 se aplica a una compra nueva elegible, no a la renovación. En la consulta, el carrito de Premium anunciaba una renovación de 12 meses a 10,99 US$ al mes, equivalente a 131,88 US$ al año, después del contrato de 48 meses. El contrato de 12 meses mostraba la misma tarifa de renovación.",
+          "Para Economy de un año, GoDaddy mostraba una renovación de 143,88 US$, 12 US$ más que Premium por año. Usamos esa tarifa anual como hipótesis en la cuenta de cuatro años; comprueba el importe de renovación de la duración que contrates."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-es.webp",
@@ -192938,14 +192959,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "¿Y el plan de 1 mes?",
         "paragraphs": [
-          "Hostinger vende el Premium por mes a 12,99 US$. SONAR20 no se aplica al plan mensual, y este se renueva al mismo 12,99 US$ cada mes. Doce meses así suman 155,88 US$, unas ocho veces el plan de 12 meses con el código. Sirve solo para una prueba corta."
+          "En la consulta, Premium de un mes figuraba a 12,99 US$, sin descuento de SONAR20, y anunciaba la misma tarifa al renovar. Si se mantuviera durante doce meses, sumaría 155,88 US$, unas ocho veces el contrato de 12 meses con el código. La opción mensual permite contratar un período corto con un desembolso inicial menor, pero tiene un coste mensual más alto."
         ]
       },
       {
         "heading": "Si solo necesitas el sitio: GoDaddy Starter",
         "paragraphs": [
           "Starter es el plan de GoDaddy solo con el sitio: 1 sitio, 10 GB NVMe y cPanel, sin dominio ni correo en la lista. El SSL llega por AutoSSL, como en todos los planes de GoDaddy. No tiene descuento en el primer año: el carrito mostró 71,88 US$ por 1 año, y se renueva al mismo 71,88 US$.",
-          "En el primer año, en 2 años y en 4 años, Starter cuesta más que el Premium con SONAR20. En la renovación es el más barato de los tres planes de este artículo, 60 US$ al año menos que el Premium."
+          "Con los importes consultados, Starter cuesta más que Premium con SONAR20 en los escenarios de 1, 2 y 4 años. Su renovación anual anunciada es 60 US$ menor que la de Premium. Para decidir a más largo plazo, hay que sumar la contratación inicial y todas las renovaciones del plazo previsto."
         ],
         "comparisonTable": {
           "headers": [
@@ -192977,46 +192998,54 @@ export const reviewsData: unknown[] = [
               "359,52 US$",
               "143,88 US$"
             ]
-          ]
+          ],
+          "caption": "Importes de hosting en dólares estadounidenses. Premium usa contratos iniciales de 12, 24 y 48 meses; Economy, contratos de 12 y 24 meses y el cálculo de 36 meses más una renovación; Starter, 12 meses más las renovaciones necesarias. Las proyecciones mantienen las tarifas anunciadas. Dominio y correo posteriores al primer año quedan fuera. Economy también ofrecía 60 meses por 359,40 US$."
         }
       },
       {
-        "heading": "Dominio, correo y SSL: lo que vence después del primer año",
+        "heading": "Dominio, correo y SSL: qué está incluido y qué se cobra aparte",
         "paragraphs": [
-          "En Premium y en Economy, el dominio y el correo son gratis por un año. Después, cada uno se renueva por su cuenta, en las dos empresas, y los totales de 4 años de arriba no los incluyen. El aviso de GoDaddy agrega que el dominio gratis lleva la tarifa de ICANN.",
-          "El SSL no vence. Hostinger instala un certificado gratis en todos los planes, sin configuración ni costo extra. GoDaddy incluye AutoSSL en todos los planes. El carrito de Economy también agrega un Standard SSL, gratis por un año y después con renovación automática a 119,99 US$ al año: es un certificado pagado además de AutoSSL, y puedes apagar su renovación."
+          "En Premium y Economy, el dominio y el correo son gratis por un año. Después se renuevan por separado; sus renovaciones quedan fuera de los totales de dos y cuatro años. El aviso de GoDaddy también indica una tarifa de ICANN para el dominio gratuito. Comprueba esos cargos al comparar cuánto pagarás por el conjunto.",
+          "Hostinger incluye SSL gratis y GoDaddy incluye AutoSSL en los planes comparados. En la consulta, el carrito de Economy también añadía Standard SSL, gratis por un año y después con renovación automática a 119,99 US$ al año. Es un certificado de pago adicional a AutoSSL; revisa esa partida y desactiva su renovación si no quieres mantenerlo."
         ]
       },
       {
-        "heading": "Reembolso: 30 días en ambos",
+        "heading": "Reembolso: el plazo depende del plan",
         "paragraphs": [
-          "Hostinger acepta una solicitud de reembolso dentro de los 30 días de la compra. La página internacional de GoDaddy dice lo mismo: 30 días en las tarjetas de los planes, y el aviso del pie da reembolso total en un plan anual dentro de 30 días, o dentro de 48 horas en un plan mensual. En este punto, los dos están empatados."
+          "Hostinger anuncia un plazo de 30 días desde la compra para pedir un reembolso. La página internacional de GoDaddy indica 30 días en las tarjetas de los planes; su aviso del pie prevé reembolso total en 30 días para un plan anual y en 48 horas para uno mensual. Revisa las condiciones del plan que contratas, sobre todo si es mensual."
         ]
       },
       {
         "heading": "Si necesitas más: Unlimited y Cloud Startup",
         "paragraphs": [
-          "Por encima de Premium, Hostinger tiene Unlimited, con sitios ilimitados, y Cloud Startup. Con la misma cuenta, el 20% sobre el precio de página, 48 meses de Unlimited quedan en 107,14 US$ con SONAR20 y se renuevan a 16,99 US$ al mes; Cloud Startup queda en 306,82 US$ y se renueva a 25,99 US$ al mes. Estos dos no se verificaron en el carrito. Los planes Deluxe y Ultimate de GoDaddy quedan fuera porque tampoco se verificó su renovación. Las reglas del código están en la [página de cupones de Hostinger](/es/coupons/hostinger)."
+          "Por encima de Premium, la página consultada ofrece Unlimited, con sitios ilimitados, y Cloud Startup. Con un 20% de descuento sobre el precio de página, 48 meses quedan en 107,14 US$ para Unlimited y 306,82 US$ para Cloud Startup, con renovaciones anunciadas de 16,99 y 25,99 US$ al mes. Son cálculos que no se confirmaron en el carrito para esta comparación. Los planes Deluxe y Ultimate de GoDaddy quedan fuera porque no se verificó su renovación."
+        ],
+        "links": [
+          {
+            "label": "Consultar condiciones del cupón Hostinger SONAR20",
+            "href": "/es/coupons/hostinger"
+          }
         ]
       },
       {
         "heading": "Cuál elegir, según cuánto tiempo estará en línea el sitio",
         "paragraphs": [
-          "Un año, con dominio y correo: el Premium de Hostinger por 12 meses con SONAR20, a 19,10 US$. Economy cuesta 64,78 US$ más en el mismo período.",
-          "Dos años, con dominio y correo: el Premium de Hostinger por 24 meses con SONAR20, a 38,21 US$. Economy cuesta 155,76 US$ en su plan de 24 meses.",
-          "Cuatro años, con dominio y correo: el Premium de Hostinger por 48 meses con SONAR20, a 76,42 US$ por todo el período. Economy cuesta más de cuatro veces eso.",
-          "Solo el sitio, por muchos años: GoDaddy Starter es el plan con la renovación más barata, 71,88 US$ al año, pero cuesta más que el Premium con SONAR20 en el primer año, en 2 años y en 4 años.",
-          "En todos los casos, revisa el precio de renovación en el carrito antes de pagar: las promociones cambian."
+          "Un año de hosting: Premium de 12 meses con SONAR20 figuraba a 19,10 US$, frente a 83,88 US$ de Economy. La diferencia es de 64,78 US$. Ambos ofrecen dominio y correo gratis el primer año; GoDaddy también indica una tarifa de ICANN para el dominio. Comprueba cómo figura ese cargo en el total del carrito.",
+          "Dos años de hosting: Premium de 24 meses figuraba a 38,21 US$ con SONAR20, frente a 155,76 US$ de Economy. Añade la renovación del dominio y del correo después del primer año si quieres mantenerlos.",
+          "Cuatro años de hosting: Premium de 48 meses figuraba a 76,42 US$ con SONAR20. Economy suma 359,52 US$ en el escenario de 36 meses más una renovación al precio anunciado. Si aceptas pagar cinco años, Economy de 60 meses figuraba a 359,40 US$. En ambos casos, dominio y correo después del primer año se pagan aparte.",
+          "Si solo necesitas hosting, Starter tiene la menor renovación anual anunciada: 71,88 US$. Aun así, Premium cuesta menos en los escenarios de uno, dos y cuatro años. Una renovación menor por sí sola no demuestra un menor gasto acumulado a más largo plazo.",
+          "Antes de pagar, comprueba el total del carrito, el plazo contratado, los extras y el precio de renovación. Las promociones y las tarifas pueden cambiar."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuál es mejor, Hostinger o GoDaddy? En dólares, el Premium de Hostinger con SONAR20 cuesta menos que el Economy de GoDaddy en el primer año, en 2 años, en 4 años y en la renovación. GoDaddy Starter solo gana en la renovación, sin dominio ni correo en su lista. Más criterios están en [cómo elegir un hosting web](/es/reviews/como-elegir-hosting-hostinger).",
-          "¿GoDaddy renueva al mismo precio? El Economy no: en el carrito, el plan de 1 año pasa de 83,88 US$ a 143,88 US$ al renovar. El Starter no tiene descuento en el primer año y se renueva al mismo 71,88 US$.",
-          "¿El cupón de Hostinger funciona en la renovación? No. SONAR20 se aplica solo a una compra nueva, y la renovación se cobra al precio de lista. Para la renovación, mira la [guía de renovación de Hostinger](/es/reviews/hostinger-renovacion-cupon-sonar20).",
+          "¿Cuál es mejor, Hostinger o GoDaddy? Por precio de hosting, Premium con SONAR20 cuesta menos que Economy en los escenarios internacionales consultados de uno, dos y cuatro años, y tiene una renovación anual anunciada menor. Dominio y correo solo son gratis el primer año. Starter tiene la renovación anual más baja, pero no el menor coste acumulado en esos plazos. Más criterios están en [cómo elegir un hosting web](/es/reviews/como-elegir-hosting-hostinger).",
+          "¿GoDaddy renueva al mismo precio? En la consulta, Economy de un año mostraba 83,88 US$ por el primer período y 143,88 US$ por la renovación anual. Starter mostraba 71,88 US$ tanto por el primer año como por la renovación. Revisa la tarifa anunciada para el plazo que elijas.",
+          "¿El cupón de Hostinger funciona en la renovación? No. SONAR20 da descuento en compras nuevas elegibles; la renovación se cobra a la tarifa del plan, sin ese descuento. Consulta la [guía de renovación de Hostinger](/es/reviews/hostinger-renovacion-cupon-sonar20).",
           "¿Hostinger Premium incluye dominio? Sí, gratis por 1 año, junto con 2 cuentas de correo por sitio. Después de ese año, el dominio se renueva por su cuenta, al precio actual de Hostinger.",
-          "¿Puedo mover mi sitio de GoDaddy a Hostinger? La página de ayuda de Hostinger dice que la migración gratuita cubre un sitio de otra empresa en los planes Web, Cloud o Agency. Revisa tu plan con el soporte antes de cancelar el anterior."
+          "¿Puedo mover mi sitio de GoDaddy a Hostinger? La página de ayuda de Hostinger dice que la migración gratuita cubre un sitio de otra empresa en los planes Web, Cloud o Agency. Revisa tu plan con el soporte antes de cancelar el anterior.",
+          "¿Cuál es el cupón de Hostinger? SONAR20 da un 20% de descuento en el primer período de compras nuevas elegibles; no se aplica a la renovación ni al Premium de un mes."
         ]
       },
       {
@@ -193029,7 +193058,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. El código vale para compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+      "text": "Introduce SONAR20 en el campo de cupón del carrito internacional o entra por el enlace para obtener un 20% en el primer período de una compra nueva elegible. En la consulta, Premium de un mes no recibió el descuento. Comprueba el total antes de pagar; SONAR20 no descuenta la renovación.",
       "label": "Ver los planes de hosting con el SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -193059,12 +193088,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige Hostinger si quieres dominio y correo por 2 años o más: con SONAR20, una sola compra cubre el período y cuesta menos que Economy.",
-        "Elige Hostinger si el proyecto dura un año con dominio y correo: cuesta menos que Economy en ese período y también se renueva por menos."
+        "Elige Hostinger Premium si puedes pagar 24 o 48 meses de hosting por adelantado: con SONAR20, los importes consultados son menores que los de Economy.",
+        "Elige Hostinger Premium si necesitas un año de hosting: el contrato de 12 meses con SONAR20 cuesta menos que Economy y tiene una renovación anual anunciada menor; dominio y correo son gratis solo el primer año."
       ],
       "skipIf": [
-        "Elige GoDaddy Starter si solo necesitas el sitio, sin dominio ni correo, y piensas mantenerlo bastante más de 4 años: tiene la renovación más barata.",
-        "Elige GoDaddy Economy si prefieres cPanel y aceptas pagar más que el Premium en el primer año, en 2 y 4 años y en la renovación."
+        "Considera GoDaddy Starter si buscas cPanel y ya resuelves el dominio y el correo por separado: tiene la menor renovación anual anunciada, pero compara el gasto acumulado, porque Premium cuesta menos en los escenarios de uno, dos y cuatro años.",
+        "Considera GoDaddy Economy si prefieres cPanel y aceptas los importes de hosting más altos comparados aquí."
       ]
     }
   },
@@ -193100,8 +193129,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Combien de temps le site restera-t-il en ligne ? En dollars américains, le Premium de Hostinger avec le SONAR20 coûte moins que l'Economy de GoDaddy, quelle que soit la durée.",
-    "metaDescription": "Le SONAR20 donne 20 % sur un achat neuf chez Hostinger. Voyez qui coûte moins que GoDaddy sur 1, 2 et 4 ans, et le renouvellement de chaque forfait.",
+    "description": "Hostinger Premium avec SONAR20 ou GoDaddy Economy : comparez en dollars l'hébergement sur 1, 2 et 4 ans, le renouvellement et les frais séparés du domaine et de l'e-mail.",
+    "metaDescription": "SONAR20 offre 20 % sur un nouvel achat éligible chez Hostinger. Comparez avec GoDaddy en dollars : 1, 2 et 4 ans, puis le renouvellement.",
     "publishedAt": "6 novembre 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -193115,14 +193144,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "En dollars américains, le Premium de Hostinger avec le SONAR20 coûte moins que l'Economy de GoDaddy la première année (19,10 US$ contre 83,88 US$), sur 2 ans (38,21 US$ contre 155,76 US$), sur 4 ans (76,42 US$ contre 359,52 US$) et au renouvellement (131,88 US$ contre 143,88 US$ par an). Les deux incluent un domaine et un e-mail gratuits pendant 1 an."
+          "Aux tarifs internationaux consultés, Hostinger Premium avec SONAR20 coûte moins que GoDaddy Economy pour un, deux et quatre ans d'hébergement. Son renouvellement annuel annoncé est également moins cher. Le domaine et l'e-mail sont gratuits uniquement la première année ; leurs renouvellements sont facturés séparément et exclus des totaux comparés."
         ]
       },
       {
         "heading": "Les deux forfaits à comparer",
         "paragraphs": [
           "Sur le site international, l'hébergement mutualisé de Hostinger commence au Premium, qui inclut un domaine et un e-mail gratuits la première année. Le forfait de GoDaddy qui propose les mêmes deux éléments est l'Economy. Ce sont les deux forfaits principaux de cet article. Le SSL est gratuit sur chaque forfait chez les deux entreprises.",
-          "L'article répond selon la durée : ce que vous payez la première année, sur deux ans et sur quatre ans, et ce que chaque forfait coûte au renouvellement. GoDaddy vend aussi le Starter, un forfait pour le site seul, qui a sa propre section plus bas."
+          "L'article répond selon la durée : ce que vous payez la première année, sur deux ans et sur quatre ans, et ce que chaque forfait coûte au renouvellement. GoDaddy vend aussi le Starter, un forfait pour le site seul, qui a sa propre section plus bas.",
+          "Tarifs relevés sur les pages internationales et dans les paniers en dollars américains le 6 novembre 2026, sans achat. Les calculs intégrant des renouvellements futurs supposent que les tarifs annoncés restent inchangés."
         ],
         "comparisonTable": {
           "headers": [
@@ -193156,7 +193186,7 @@ export const reviewsData: unknown[] = [
           "Pour un site qui doit durer un an, le Premium de Hostinger sur 12 mois avec le SONAR20 coûte 19,10 US$. L'Economy de GoDaddy coûte 83,88 US$ pour sa première année. La différence est de 64,78 US$ en faveur de Hostinger."
         ],
         "comparisonTable": {
-          "caption": "Paiement de la première année, relevé dans le panier de chaque site le 6 novembre, sans achat. Chez Hostinger, il s'agit du forfait de 12 mois avec le SONAR20.",
+          "caption": "Montants d'hébergement relevés dans les paniers, sans achat. Hostinger correspond au paiement anticipé de 12 mois avec SONAR20. Le domaine et l'e-mail sont gratuits la première année ; GoDaddy indique des frais ICANN pour le domaine.",
           "headers": [
             "Forfait",
             "Paiement de la première année",
@@ -193176,16 +193206,16 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Le panier de Hostinger avait déjà le prix du Black Friday appliqué : le Premium sur 12 mois affichait 1,99 US$ par mois sans le code et 1,59 US$ par mois avec le SONAR20, soit le même tarif mensuel que les forfaits de 24 et 48 mois. Le code donne 20 % sur un achat neuf."
+          "Le panier affichait déjà la promotion du Black Friday : Premium sur 12 mois annonçait 1,99 US$ par mois avant SONAR20 et 1,59 US$ après réduction. Le tarif mensuel affiché était identique sur 24 et 48 mois. Il s'agit d'un équivalent mensuel arrondi pour un paiement anticipé ; comparez les totaux du panier. SONAR20 offre 20 % sur les nouveaux achats éligibles."
         ]
       },
       {
         "heading": "Sur 2 ans, Hostinger coûte moins",
         "paragraphs": [
-          "Pour un site qui doit durer deux ans, le Premium de Hostinger sur 24 mois avec le SONAR20 est un seul achat de 38,21 US$. Le forfait Economy de GoDaddy sur 24 mois coûte 155,76 US$, soit moins que la première année plus un renouvellement (227,76 US$). Le Starter n'a pas de remise : deux ans de Starter coûtent donc 143,76 US$."
+          "Pour deux ans d'hébergement, Premium sur 24 mois avec SONAR20 demande un paiement anticipé de 38,21 US$. Economy sur 24 mois coûte 155,76 US$. Aux tarifs consultés, un an d'Economy suivi d'un renouvellement reviendrait à 227,76 US$ ; la même formule avec Starter reviendrait à 143,76 US$. Ces deux derniers montants sont des calculs supposant le maintien du tarif de renouvellement annoncé."
         ],
         "comparisonTable": {
-          "caption": "Paiement sur deux ans, relevé dans le panier de chaque site à la même date, sans achat. Chez Hostinger, il s'agit du forfait de 24 mois avec le SONAR20. Chez GoDaddy, le forfait de 24 mois, qui coûte moins que 1 an plus un renouvellement.",
+          "caption": "Deux ans d'hébergement : paiements de 24 mois relevés pour Premium et Economy ; calcul de 12 mois plus un renouvellement pour Starter, au tarif annoncé supposé inchangé. Le renouvellement du domaine et de l'e-mail après la première année est exclu.",
           "headers": [
             "Forfait",
             "Paiement sur deux ans",
@@ -193213,8 +193243,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sur 4 ans, Hostinger coûte moins",
         "paragraphs": [
-          "La différence tient à la manière dont chaque entreprise facture. Chez Hostinger, vous payez les 48 mois d'un coup et ne renouvelez rien pendant cette durée. Dans le panier, avec le prix du Black Friday déjà appliqué, le Premium sur 48 mois affichait 95,52 US$, et le SONAR20 l'a fait descendre à 76,42 US$.",
-          "Chez GoDaddy, le prix promotionnel ne couvre que la première période, et les renouvellements sont facturés au prix catalogue. Le chemin le moins cher vers quatre ans est le forfait Economy sur 36 mois à 215,64 US$, plus un renouvellement annuel de 143,88 US$."
+          "Chez Hostinger, vous payez 48 mois d'hébergement en une fois, sans renouveler l'hébergement pendant cette période. Le panier affichait Premium à 95,52 US$ avec la promotion du Black Friday, puis à 76,42 US$ avec SONAR20. Le domaine et l'e-mail restent gratuits uniquement la première année.",
+          "Pour comparer exactement 48 mois, nous calculons Economy sur 36 mois à 215,64 US$, puis un renouvellement annuel au tarif annoncé de 143,88 US$ : soit 359,52 US$. Ce renouvellement est une dépense future estimée, pas un tarif garanti."
         ],
         "comparisonTable": {
           "headers": [
@@ -193233,23 +193263,24 @@ export const reviewsData: unknown[] = [
               "215,64 US$ pour 36 mois, puis 1 renouvellement de 143,88 US$",
               "359,52 US$"
             ]
-          ]
+          ],
+          "caption": "48 mois d'hébergement : paiement anticipé de Premium face au calcul de 36 mois d'Economy plus un renouvellement annuel au tarif annoncé. Le domaine et l'e-mail après la première année sont exclus. L'offre Economy de 60 mois est détaillée ci-dessous."
         },
         "postParagraphs": [
-          "Le forfait Economy de GoDaddy sur 60 mois coûte 359,40 US$ et couvre 5 ans pour à peu près le même prix que le chemin sur 4 ans ci-dessus.",
+          "Si vous acceptez de payer cinq ans à l'avance, Economy sur 60 mois était affiché à 359,40 US$, soit 0,12 US$ de moins que le scénario de 36 mois plus un renouvellement. Parmi ces deux options d'Economy, le contrat de 60 mois représente la dépense totale la plus faible pour couvrir au moins quatre ans, avec une cinquième année d'hébergement incluse. Son prix reste supérieur aux 76,42 US$ de Premium sur 48 mois.",
           "Les totaux n'incluent pas le renouvellement du domaine ni celui de l'e-mail après la première année, chez aucune des deux entreprises."
         ]
       },
       {
         "heading": "Après la période payée : ce que chaque forfait coûte au renouvellement",
         "paragraphs": [
-          "Une fois la période écoulée, les deux entreprises reviennent au prix catalogue. Le SONAR20 ne vaut que pour un achat neuf : le renouvellement de Hostinger est donc facturé au prix catalogue du forfait. Le panier indique que le Premium se renouvelle après 48 mois à 10,99 US$ par mois pendant 12 mois, soit 131,88 US$ par an. Le forfait sur 12 mois se renouvelle au même tarif.",
-          "Le panier de GoDaddy indique que l'Economy se renouvelle en novembre 2027 pour 143,88 US$. C'est 12 US$ par an de plus que le Premium."
+          "SONAR20 s'applique à un nouvel achat éligible, pas au renouvellement. Lors de la consultation, le panier de Premium annonçait un renouvellement de 12 mois à 10,99 US$ par mois après le contrat de 48 mois, soit 131,88 US$ par an. Le contrat de 12 mois affichait le même tarif de renouvellement.",
+          "Pour Economy sur un an, GoDaddy affichait un renouvellement de 143,88 US$, soit 12 US$ de plus par an que Premium. Nous utilisons ce tarif annuel comme hypothèse dans le calcul sur quatre ans ; vérifiez le renouvellement annoncé pour la durée que vous choisissez."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-fr.webp",
           "alt": "Graphique en barres du prix par mois des forfaits Hostinger sur la première période et au renouvellement : Premium, Unlimited et Cloud Startup en hébergement, et KVM 1, 2, 4 et 8 en VPS ; pour tous, le renouvellement coûte plus cher",
-          "caption": "Chaque forfait en deux barres : le prix par mois sur la première période et au renouvellement. Tableau d'Em Casa com Cecília, d'après les prix de la page de Hostinger.",
+          "caption": "Chaque forfait en deux barres : le prix par mois sur la première période et au renouvellement. Graphique d'Em Casa com Cecília, d'après les prix de la page de Hostinger.",
           "objectFit": "contain",
           "aspectRatio": 1
         }
@@ -193257,14 +193288,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Et le forfait d'un mois ?",
         "paragraphs": [
-          "Hostinger vend le Premium au mois à 12,99 US$. Le SONAR20 ne s'applique pas au forfait mensuel, qui se renouvelle au même 12,99 US$ chaque mois. Douze mois ainsi reviennent à 155,88 US$, environ huit fois le forfait de 12 mois avec le code. Il ne sert que pour un court essai."
+          "Lors de la consultation, Premium sur un mois était affiché à 12,99 US$, sans réduction SONAR20, avec le même tarif annoncé au renouvellement. À tarif inchangé, douze mois reviendraient à 155,88 US$, environ huit fois le contrat de 12 mois avec le code. L'option mensuelle permet une courte souscription avec un paiement initial plus faible, mais un coût mensuel plus élevé."
         ]
       },
       {
         "heading": "Si vous n'avez besoin que du site : GoDaddy Starter",
         "paragraphs": [
           "Le Starter est le forfait de GoDaddy pour le site seul : 1 site, 10 Go NVMe et cPanel, sans domaine ni e-mail dans la liste. Le SSL passe par AutoSSL, comme sur tous les forfaits GoDaddy. Il n'a pas de remise la première année : le panier affichait 71,88 US$ pour 1 an, et il se renouvelle au même 71,88 US$.",
-          "La première année, sur 2 ans et sur 4 ans, le Starter coûte plus cher que le Premium avec le SONAR20. Au renouvellement, c'est le moins cher des trois forfaits de cet article, 60 US$ par an de moins que le Premium."
+          "Aux tarifs consultés, Starter coûte plus que Premium avec SONAR20 dans les scénarios sur un, deux et quatre ans. Son renouvellement annuel annoncé est inférieur de 60 US$ à celui de Premium. Pour choisir sur une durée plus longue, il faut additionner le contrat initial et tous les renouvellements prévus."
         ],
         "comparisonTable": {
           "headers": [
@@ -193296,46 +193327,54 @@ export const reviewsData: unknown[] = [
               "359,52 US$",
               "143,88 US$"
             ]
-          ]
+          ],
+          "caption": "Hébergement en dollars américains. Premium utilise des contrats initiaux de 12, 24 et 48 mois ; Economy, des contrats de 12 et 24 mois puis un calcul de 36 mois plus un renouvellement ; Starter, 12 mois plus les renouvellements nécessaires. Les projections maintiennent les tarifs annoncés. Domaine et e-mail après la première année sont exclus. Economy proposait aussi 60 mois à 359,40 US$."
         }
       },
       {
-        "heading": "Domaine, e-mail et SSL : ce qui expire après la première année",
+        "heading": "Domaine, e-mail et SSL : services inclus et frais séparés",
         "paragraphs": [
-          "Sur le Premium comme sur l'Economy, le domaine et l'e-mail sont gratuits pendant un an. Ensuite, chacun se renouvelle séparément, chez les deux entreprises, et les totaux sur 4 ans ci-dessus ne les incluent pas. La mention de GoDaddy précise que le domaine gratuit est soumis aux frais de l'ICANN.",
-          "Le SSL n'expire pas. Hostinger installe un certificat gratuit sur chaque forfait, sans configuration ni coût supplémentaire. GoDaddy inclut AutoSSL sur chaque forfait. Le panier de l'Economy ajoute aussi un SSL Standard, gratuit pendant un an puis renouvelé automatiquement à 119,99 US$ par an : c'est un certificat payant en plus d'AutoSSL, et vous pouvez désactiver son renouvellement."
+          "Sur Premium comme sur Economy, le domaine et l'e-mail sont gratuits pendant un an. Leurs renouvellements sont ensuite facturés séparément et exclus des totaux sur deux et quatre ans. GoDaddy indique aussi des frais ICANN pour le domaine gratuit. Vérifiez ces frais pour comparer le coût de l'ensemble.",
+          "Hostinger inclut le SSL gratuit et GoDaddy inclut AutoSSL dans les forfaits comparés. Lors de la consultation, le panier d'Economy ajoutait aussi SSL Standard, gratuit pendant un an puis renouvelé automatiquement à 119,99 US$ par an. Ce certificat payant s'ajoute à AutoSSL ; vérifiez cette ligne et désactivez son renouvellement si vous ne souhaitez pas le conserver."
         ]
       },
       {
-        "heading": "Remboursement : 30 jours chez les deux",
+        "heading": "Remboursement : le délai dépend du forfait",
         "paragraphs": [
-          "Hostinger accepte une demande de remboursement dans les 30 jours suivant l'achat. La page internationale de GoDaddy dit la même chose : 30 jours sur les cartes des forfaits, et la mention en bas de page prévoit un remboursement complet sur un forfait annuel dans les 30 jours, ou dans les 48 heures sur un forfait mensuel. Sur ce point, les deux sont à égalité."
+          "Hostinger annonce un délai de 30 jours après l'achat pour demander un remboursement. La page internationale de GoDaddy annonce 30 jours sur les cartes des forfaits ; sa mention en bas de page prévoit un remboursement complet sous 30 jours pour un forfait annuel et sous 48 heures pour un forfait mensuel. Vérifiez les conditions du forfait choisi, surtout s'il est mensuel."
         ]
       },
       {
         "heading": "Si vous avez besoin de plus : Unlimited et Cloud Startup",
         "paragraphs": [
-          "Au-dessus du Premium, Hostinger propose l'Unlimited, avec des sites illimités, et le Cloud Startup. Avec le même calcul de 20 % sur le prix affiché, 48 mois d'Unlimited reviennent à 107,14 US$ avec le SONAR20 et se renouvellent à 16,99 US$ par mois ; le Cloud Startup revient à 306,82 US$ et se renouvelle à 25,99 US$ par mois. Ces deux forfaits n'ont pas été vérifiés dans le panier. Les forfaits Deluxe et Ultimate de GoDaddy sont laissés de côté, leur renouvellement n'ayant pas non plus été vérifié. Les règles du code sont sur la [page des codes promo Hostinger](/fr/coupons/hostinger)."
+          "Au-dessus de Premium, la page consultée propose Unlimited, avec des sites illimités, et Cloud Startup. Avec 20 % de réduction sur le prix affiché pour 48 mois, on obtient 107,14 US$ pour Unlimited et 306,82 US$ pour Cloud Startup, avec des renouvellements annoncés de 16,99 et 25,99 US$ par mois. Ce sont des calculs, non confirmés dans le panier pour ce comparatif. Deluxe et Ultimate de GoDaddy restent hors comparaison, leur renouvellement n'ayant pas été vérifié."
+        ],
+        "links": [
+          {
+            "label": "Consulter les conditions du code promo Hostinger SONAR20",
+            "href": "/fr/coupons/hostinger"
+          }
         ]
       },
       {
         "heading": "Lequel choisir selon la durée du site",
         "paragraphs": [
-          "Un an, avec domaine et e-mail : le Premium de Hostinger sur 12 mois avec le SONAR20, à 19,10 US$. L'Economy coûte 64,78 US$ de plus sur la même période.",
-          "Deux ans, avec domaine et e-mail : le Premium de Hostinger sur 24 mois avec le SONAR20, à 38,21 US$. L'Economy coûte 155,76 US$ sur son forfait de 24 mois.",
-          "Quatre ans, avec domaine et e-mail : le Premium de Hostinger sur 48 mois avec le SONAR20, à 76,42 US$ pour toute la période. L'Economy coûte plus de quatre fois ce montant.",
-          "Seulement le site, pendant de nombreuses années : le Starter de GoDaddy est le forfait au renouvellement le moins cher, 71,88 US$ par an, mais il coûte plus que le Premium avec le SONAR20 la première année, sur 2 ans et sur 4 ans.",
-          "Dans tous les cas, vérifiez le prix du renouvellement dans le panier avant de payer : les promotions changent."
+          "Un an d'hébergement : Premium sur 12 mois avec SONAR20 était affiché à 19,10 US$, contre 83,88 US$ pour Economy, soit 64,78 US$ d'écart. Les deux offrent le domaine et l'e-mail la première année ; GoDaddy indique aussi des frais ICANN pour le domaine. Vérifiez comment ces frais figurent dans le total du panier.",
+          "Deux ans d'hébergement : Premium sur 24 mois était affiché à 38,21 US$ avec SONAR20, contre 155,76 US$ pour Economy. Ajoutez le renouvellement du domaine et de l'e-mail après la première année si vous souhaitez les conserver.",
+          "Quatre ans d'hébergement : Premium sur 48 mois était affiché à 76,42 US$ avec SONAR20. Economy atteint 359,52 US$ dans le scénario de 36 mois plus un renouvellement au tarif annoncé. Si vous acceptez de payer cinq ans, Economy sur 60 mois était affiché à 359,40 US$. Domaine et e-mail après la première année restent à payer séparément.",
+          "Pour l'hébergement seul, Starter a le renouvellement annuel annoncé le plus bas : 71,88 US$. Premium coûte pourtant moins dans les scénarios sur un, deux et quatre ans. Un renouvellement moins cher ne suffit pas à démontrer un coût cumulé inférieur sur une durée plus longue.",
+          "Avant de payer, vérifiez le total du panier, la durée du contrat, les suppléments et le tarif de renouvellement. Les promotions et les tarifs peuvent changer."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Lequel est le meilleur, Hostinger ou GoDaddy ? En dollars américains, le Premium de Hostinger avec le SONAR20 coûte moins que l'Economy de GoDaddy la première année, sur 2 ans, sur 4 ans et au renouvellement. Seul le Starter de GoDaddy gagne au renouvellement, sans domaine ni e-mail dans sa liste. D'autres critères figurent dans [comment choisir un hébergeur web](/fr/reviews/choisir-hebergeur-hostinger).",
-          "GoDaddy se renouvelle-t-il au même prix ? L'Economy non : dans le panier, le forfait d'un an passe de 83,88 US$ à 143,88 US$ au renouvellement. Le Starter n'a pas de remise la première année et se renouvelle au même 71,88 US$.",
-          "Le code Hostinger fonctionne-t-il au renouvellement ? Non : le SONAR20 ne vaut que pour un achat neuf, et le renouvellement est facturé au prix catalogue. Pour le renouvellement, consultez le [guide de renouvellement Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20).",
-          "Le Premium de Hostinger inclut-il un domaine ? Oui, gratuit pendant 1 an, avec 2 boîtes e-mail par site. Après cette année, le domaine se renouvelle de lui-même, au prix actuel de Hostinger.",
-          "Puis-je migrer mon site de GoDaddy vers Hostinger ? La page d'aide de Hostinger indique que la migration gratuite couvre un site venant d'une autre société sur les forfaits Web, Cloud ou Agency ; vérifiez votre forfait avec le support avant de résilier l'ancien."
+          "Lequel est le meilleur, Hostinger ou GoDaddy ? Pour le prix de l'hébergement, Premium avec SONAR20 coûte moins qu'Economy dans les scénarios internationaux consultés sur un, deux et quatre ans, avec un renouvellement annuel annoncé inférieur. Domaine et e-mail ne sont gratuits que la première année. Starter a le renouvellement annuel le plus bas, mais pas le coût cumulé le plus faible sur ces durées. D'autres critères figurent dans [comment choisir un hébergeur web](/fr/reviews/choisir-hebergeur-hostinger).",
+          "Le renouvellement de GoDaddy coûte-t-il le même prix ? Lors de la consultation, Economy sur un an affichait 83,88 US$ pour la première période, puis 143,88 US$ pour le renouvellement annuel. Starter affichait 71,88 US$ pour la première année comme pour le renouvellement. Vérifiez le tarif annoncé pour la durée choisie.",
+          "Le code Hostinger fonctionne-t-il au renouvellement ? Non. SONAR20 réduit le prix des nouveaux achats éligibles ; le renouvellement est facturé au tarif du forfait, sans cette réduction. Consultez le [guide de renouvellement Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20).",
+          "Le Premium de Hostinger inclut-il un domaine ? Oui, le domaine est gratuit pendant un an, tout comme les deux boîtes e-mail par site indiquées dans l'offre consultée. Après cette année, leurs renouvellements sont facturés séparément, aux tarifs applicables.",
+          "Puis-je migrer mon site de GoDaddy vers Hostinger ? La page d'aide de Hostinger indique que la migration gratuite couvre un site venant d'une autre société sur les forfaits Web, Cloud ou Agency ; vérifiez votre forfait avec le support avant de résilier l'ancien.",
+          "Quel est le code promo Hostinger ? SONAR20 offre 20 % de réduction sur la première période des nouveaux achats éligibles ; il ne réduit pas le renouvellement et ne s'appliquait pas à Premium sur un mois lors de notre consultation."
         ]
       },
       {
@@ -193348,7 +193387,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+      "text": "Saisissez SONAR20 dans le champ de code promo du panier international ou passez par le lien pour obtenir 20 % sur la première période d'un nouvel achat éligible. Lors de la consultation, Premium sur un mois ne bénéficiait pas de la réduction. Vérifiez le total avant de payer ; SONAR20 ne réduit pas le renouvellement.",
       "label": "Voir les forfaits d'hébergement avec le SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -193378,12 +193417,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez Hostinger si vous voulez un domaine et un e-mail pendant 2 ans ou plus : avec le SONAR20, un seul achat couvre toute la période et coûte moins que l'Economy.",
-        "Prenez Hostinger si le projet dure un an avec un domaine et un e-mail : il coûte moins que l'Economy sur cette période, et il se renouvelle aussi moins cher."
+        "Choisissez Hostinger Premium si vous pouvez payer 24 ou 48 mois d'hébergement à l'avance : avec SONAR20, les montants consultés sont inférieurs à ceux d'Economy.",
+        "Choisissez Hostinger Premium pour un an d'hébergement : le contrat de 12 mois avec SONAR20 coûte moins qu'Economy et affiche un renouvellement annuel inférieur ; le domaine et l'e-mail ne sont gratuits que la première année."
       ],
       "skipIf": [
-        "Choisissez le Starter de GoDaddy si vous voulez seulement le site, sans domaine ni e-mail, et comptez le garder bien au-delà de 4 ans : c'est le forfait au renouvellement le moins cher.",
-        "Choisissez l'Economy de GoDaddy si vous préférez cPanel et acceptez de payer plus que le Premium la première année, sur 2 et 4 ans et au renouvellement."
+        "Envisagez GoDaddy Starter si vous souhaitez cPanel et gérez déjà le domaine et l'e-mail séparément : son renouvellement annuel annoncé est le plus bas, mais comparez le coût cumulé, car Premium coûte moins sur un, deux et quatre ans.",
+        "Envisagez GoDaddy Economy si vous préférez cPanel et acceptez les montants d'hébergement plus élevés comparés ici."
       ]
     }
   },
@@ -193419,8 +193458,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Prima di confrontare i prezzi, chiediti per quanto tempo il sito resterà online. In dollari, Hostinger Premium con SONAR20 costa meno di GoDaddy Economy in ogni periodo.",
-    "metaDescription": "SONAR20 dà il 20% su un acquisto nuovo di Hostinger. Vedi chi costa meno di GoDaddy in 1, 2 e 4 anni, e cosa costa ogni piano al rinnovo.",
+    "description": "Hostinger Premium con SONAR20 e GoDaddy Economy: confronto in dollari dei costi di hosting per 1, 2 e 4 anni, del rinnovo annuale e delle spese aggiuntive.",
+    "metaDescription": "SONAR20: 20% sui nuovi piani Hostinger Premium di 12, 24 o 48 mesi. Confronto con GoDaddy in dollari: hosting, rinnovi e costi aggiuntivi.",
     "publishedAt": "6 novembre 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -193434,14 +193473,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "In dollari, Hostinger Premium con SONAR20 costa meno di GoDaddy Economy nel primo anno (19,10 US$ contro 83,88 US$), in 2 anni (38,21 US$ contro 155,76 US$), in 4 anni (76,42 US$ contro 359,52 US$) e al rinnovo (131,88 US$ contro 143,88 US$ all'anno). Entrambi includono dominio ed e-mail gratis per 1 anno."
+          "Ai prezzi internazionali rilevati in dollari, Hostinger Premium con SONAR20 costa meno di GoDaddy Economy per 1, 2 e 4 anni di hosting. Anche il rinnovo annuale indicato è più basso. Dominio ed e-mail sono gratis solo il primo anno: i rinnovi successivi si aggiungono agli importi confrontati."
         ]
       },
       {
         "heading": "La coppia da confrontare",
         "paragraphs": [
           "Sul sito internazionale, l'hosting condiviso della Hostinger parte dal Premium, che include dominio ed e-mail gratis il primo anno. Il piano di GoDaddy con gli stessi due elementi è l'Economy. Questi due sono la coppia principale di questo articolo. L'SSL è gratis in ogni piano delle due aziende.",
-          "L'articolo risponde per periodo: cosa paghi il primo anno, in due anni e in quattro anni, e cosa costa ogni piano al rinnovo. GoDaddy vende anche lo Starter, un piano con solo il sito, e ha una sezione propria più avanti."
+          "Prezzi e condizioni letti sulle pagine internazionali e nei carrelli in dollari il 6 novembre 2026, senza acquistare. I calcoli con rinnovi futuri presuppongono che i prezzi indicati restino invariati."
         ],
         "comparisonTable": {
           "headers": [
@@ -193475,7 +193514,7 @@ export const reviewsData: unknown[] = [
           "Per un sito che durerà un anno, il Premium di 12 mesi della Hostinger con SONAR20 costa 19,10 US$. GoDaddy Economy costa 83,88 US$ per il primo anno. La differenza è di 64,78 US$ a favore della Hostinger."
         ],
         "comparisonTable": {
-          "caption": "Pagamento del primo anno, letto in ogni carrello il 6 novembre, senza acquistare. In Hostinger, il piano di 12 mesi con SONAR20.",
+          "caption": "Prezzi di hosting per dodici mesi letti nei carrelli, senza acquistare. Per Hostinger è incluso lo sconto SONAR20; dominio ed e-mail sono gratis solo il primo anno.",
           "headers": [
             "Piano",
             "Pagamento del primo anno",
@@ -193495,7 +193534,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Il carrello della Hostinger aveva già il prezzo del Black Friday: il Premium di 12 mesi mostrava 1,99 US$ al mese senza il codice e 1,59 US$ al mese con SONAR20, la stessa tariffa mensile dei piani da 24 e 48 mesi. Il codice dà il 20% di sconto su un acquisto nuovo."
+          "Il carrello Hostinger rilevato aveva già il prezzo del Black Friday. Premium di dodici mesi mostrava 1,99 US$ al mese senza codice e 1,59 US$ con SONAR20. Anche i piani di 24 e 48 mesi mostravano 1,59 US$ al mese con il codice. Queste tariffe mensili sono arrotondate; le tabelle riportano i totali rilevati. Su questi nuovi piani Premium, lo sconto era del 20% sul primo periodo pagato."
         ]
       },
       {
@@ -193504,7 +193543,7 @@ export const reviewsData: unknown[] = [
           "Per un sito che durerà due anni, il Premium di 24 mesi della Hostinger con SONAR20 è un unico acquisto da 38,21 US$. Il piano Economy di 24 mesi di GoDaddy costa 155,76 US$, meno che pagare il primo anno e un rinnovo (227,76 US$). Lo Starter non ha sconto, quindi due anni costano 143,76 US$."
         ],
         "comparisonTable": {
-          "caption": "Pagamento di due anni, letto in ogni carrello nella stessa data, senza acquistare. In Hostinger, il piano di 24 mesi con SONAR20. In GoDaddy, il piano di 24 mesi, che costa meno di 1 anno più un rinnovo.",
+          "caption": "Costi di hosting per due anni: Premium ed Economy sono le offerte di 24 mesi lette nei carrelli; Starter è un nostro calcolo di dodici mesi più un rinnovo allo stesso prezzo. Esclusi dominio ed e-mail dopo il primo anno.",
           "headers": [
             "Piano",
             "Pagamento di due anni",
@@ -193532,8 +193571,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "In 4 anni, Hostinger costa meno",
         "paragraphs": [
-          "La differenza sta in come addebita ciascuna azienda. In Hostinger paghi i 48 mesi in una volta e non rinnovi nulla in quel periodo. Nel carrello, con il prezzo del Black Friday già applicato, il Premium di 48 mesi mostrava 95,52 US$, e SONAR20 lo ha portato a 76,42 US$.",
-          "Da GoDaddy, il prezzo promozionale copre solo il primo periodo, e i rinnovi si pagano al prezzo di listino. Il percorso più economico per arrivare a quattro anni è il piano Economy di 36 mesi a 215,64 US$, più un rinnovo annuale da 143,88 US$."
+          "Con Hostinger paghi l'hosting per 48 mesi in anticipo. In quel periodo non rinnovi l'hosting; dominio ed e-mail si pagano separatamente dopo il primo anno gratuito. Nel carrello, Premium di 48 mesi costava 95,52 US$ con il prezzo del Black Friday e 76,42 US$ con SONAR20.",
+          "Per coprire esattamente quattro anni con GoDaddy, calcoliamo Economy di 36 mesi a 215,64 US$ più un rinnovo annuale da 143,88 US$. Il totale è 359,52 US$, se il rinnovo resta al prezzo indicato. L'offerta rilevata di 60 mesi costa invece 359,40 US$: è leggermente più economica, ma richiede di pagare cinque anni in anticipo."
         ],
         "comparisonTable": {
           "headers": [
@@ -193552,18 +193591,19 @@ export const reviewsData: unknown[] = [
               "215,64 US$ per 36 mesi, più 1 rinnovo da 143,88 US$",
               "359,52 US$"
             ]
-          ]
+          ],
+          "caption": "Hosting per quattro anni: prezzo anticipato rilevato per Hostinger e nostro calcolo di 36 mesi più un rinnovo al prezzo indicato per GoDaddy. Esclusi i rinnovi di dominio ed e-mail e lo Standard SSL aggiuntivo."
         },
         "postParagraphs": [
-          "Il piano Economy di 60 mesi di GoDaddy costa 359,40 US$ e copre 5 anni con circa la stessa spesa del percorso a 4 anni qui sopra.",
+          "L'offerta Economy di 60 mesi copre cinque anni di hosting e costa 0,12 US$ meno del calcolo di 36 mesi più un rinnovo annuale. È un'alternativa da confrontare se vuoi pagare cinque anni in anticipo.",
           "I totali non includono il rinnovo del dominio né dell'e-mail dopo il primo anno, in nessuna delle due aziende."
         ]
       },
       {
         "heading": "Dopo il periodo pagato: quanto costa ogni piano al rinnovo",
         "paragraphs": [
-          "Finito il periodo, entrambe le aziende tornano al prezzo di listino. SONAR20 vale solo per un acquisto nuovo, quindi il rinnovo della Hostinger si paga al prezzo di listino del piano. Il carrello dice che il Premium si rinnova dopo 48 mesi a 10,99 US$ al mese per 12 mesi, cioè 131,88 US$ all'anno. Il piano di 12 mesi si rinnova allo stesso prezzo.",
-          "Il carrello di GoDaddy dice che l'Economy si rinnova a novembre 2027 per 143,88 US$. Sono 12 US$ all'anno in più del Premium."
+          "Terminato il primo periodo pagato, si applica il prezzo di rinnovo del piano. SONAR20 non dà uno sconto sul rinnovo. Il carrello Hostinger rilevato indicava per Premium, dopo 48 mesi, un rinnovo di dodici mesi a 10,99 US$ al mese: 131,88 US$ all'anno. Per il piano di dodici mesi era indicata la stessa tariffa.",
+          "Per Economy di un anno, il carrello GoDaddy indicava un rinnovo annuale di 143,88 US$, cioè 12 US$ in più del Premium. Usiamo questi prezzi nei calcoli; non sono una garanzia che le tariffe restino invariate negli anni successivi."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-it.webp",
@@ -193576,7 +193616,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E il piano di 1 mese?",
         "paragraphs": [
-          "Hostinger vende il Premium a mese a 12,99 US$. SONAR20 non vale sul piano mensile, che si rinnova allo stesso 12,99 US$ ogni mese. Dodici mesi così arrivano a 155,88 US$, circa otto volte il piano di 12 mesi con il codice. Serve solo per una prova breve."
+          "Per Premium con pagamento mensile sono stati rilevati 12,99 US$ senza sconto SONAR20 e un rinnovo mensile dello stesso importo. A prezzo invariato, dodici mesi costano 155,88 US$: circa otto volte l'offerta rilevata di dodici mesi con il codice. Il pagamento mensile può servire se ti basta un periodo breve o non vuoi anticipare un anno di spesa."
         ]
       },
       {
@@ -193615,46 +193655,54 @@ export const reviewsData: unknown[] = [
               "359,52 US$",
               "143,88 US$"
             ]
-          ]
+          ],
+          "caption": "Costi di hosting ai prezzi rilevati. Premium usa il piano di 12, 24 o 48 mesi secondo la colonna. Economy su quattro anni e Starter su due o quattro anni sono nostri calcoli con rinnovi a prezzo invariato. Esclusi i rinnovi di dominio ed e-mail e lo Standard SSL aggiuntivo."
         }
       },
       {
-        "heading": "Dominio, e-mail e SSL: cosa scade dopo il primo anno",
+        "heading": "Dominio, e-mail e SSL: cosa è incluso e cosa si paga a parte",
         "paragraphs": [
-          "Su Premium e su Economy, dominio ed e-mail sono gratis per un anno. Dopo, ciascuno si rinnova per conto proprio, in entrambe le aziende, e i totali a 4 anni qui sopra non li includono. L'avviso di GoDaddy aggiunge che il dominio gratuito porta la tassa ICANN.",
-          "L'SSL non scade. La Hostinger installa un certificato gratuito su ogni piano, senza configurazione né costo extra. GoDaddy include AutoSSL in ogni piano. Il carrello dell'Economy aggiunge anche un Standard SSL, gratis per un anno e poi rinnovato in automatico a 119,99 US$ all'anno: è un certificato a pagamento in aggiunta ad AutoSSL, e puoi disattivarne il rinnovo."
+          "Su Premium ed Economy, dominio ed e-mail sono gratis per un anno. Poi si rinnovano separatamente: questi costi sono esclusi dai confronti su due e quattro anni. GoDaddy segnala inoltre un contributo ICANN per il dominio gratuito.",
+          "Entrambi includono SSL gratuito: Hostinger indica certificati gratuiti e GoDaddy include AutoSSL. Il carrello Economy rilevato includeva anche Standard SSL, gratuito per un anno e poi rinnovato automaticamente a 119,99 US$ all'anno. È un prodotto aggiuntivo a pagamento, distinto da AutoSSL. Controllalo nel carrello e disattivane il rinnovo se non ti serve."
         ]
       },
       {
-        "heading": "Rimborso: 30 giorni per entrambi",
+        "heading": "Rimborso: il termine dipende dal piano",
         "paragraphs": [
-          "Hostinger accetta una richiesta di rimborso entro 30 giorni dall'acquisto. La pagina internazionale di GoDaddy dice lo stesso: 30 giorni nelle schede dei piani, e l'avviso in fondo alla pagina prevede il rimborso completo su un piano annuale entro 30 giorni, o entro 48 ore su un piano mensile. Su questo punto i due sono pari."
+          "Hostinger annuncia un termine di 30 giorni dall'acquisto per chiedere il rimborso. La pagina internazionale di GoDaddy indica 30 giorni nelle schede dei piani; il suo avviso in fondo alla pagina prevede il rimborso completo entro 30 giorni per un piano annuale e entro 48 ore per uno mensile. Controlla le condizioni del piano che scegli, soprattutto se è mensile."
         ]
       },
       {
         "heading": "Se ti serve di più: Unlimited e Cloud Startup",
         "paragraphs": [
-          "Sopra il Premium, la Hostinger ha Unlimited, con siti illimitati, e Cloud Startup. Con lo stesso calcolo del 20% sul prezzo di pagina, 48 mesi di Unlimited arrivano a 107,14 US$ con SONAR20 e si rinnovano a 16,99 US$ al mese; Cloud Startup arriva a 306,82 US$ e si rinnova a 25,99 US$ al mese. Questi due non sono stati verificati nel carrello. I piani Deluxe e Ultimate di GoDaddy sono esclusi perché anche il loro rinnovo non è stato verificato. Le regole del codice sono nella [pagina dei coupon Hostinger](/it/coupons/hostinger)."
+          "Sopra Premium, la pagina internazionale di Hostinger presenta Unlimited, con siti illimitati, e Cloud Startup. Sottraendo il 20% dai prezzi di pagina rilevati, calcoliamo 107,14 US$ per 48 mesi di Unlimited e 306,82 US$ per Cloud Startup. I rinnovi mensili indicati sono rispettivamente 16,99 e 25,99 US$. Questi totali sono nostri calcoli e non sono stati confermati nel carrello per questo confronto. Deluxe e Ultimate di GoDaddy restano fuori dal confronto dei prezzi perché qui non ne è stato verificato il rinnovo."
+        ],
+        "links": [
+          {
+            "label": "Coupon Hostinger SONAR20: consulta le condizioni",
+            "href": "/it/coupons/hostinger"
+          }
         ]
       },
       {
         "heading": "Quale scegliere, in base a quanto durerà il sito",
         "paragraphs": [
-          "Un anno, con dominio ed e-mail: il Premium della Hostinger per 12 mesi con SONAR20, a 19,10 US$. L'Economy costa 64,78 US$ in più nello stesso periodo.",
-          "Due anni, con dominio ed e-mail: il Premium della Hostinger per 24 mesi con SONAR20, a 38,21 US$. L'Economy costa 155,76 US$ nel suo piano di 24 mesi.",
-          "Quattro anni, con dominio ed e-mail: il Premium della Hostinger per 48 mesi con SONAR20, a 76,42 US$ per tutto il periodo. L'Economy costa più di quattro volte tanto.",
-          "Solo il sito, per molti anni: GoDaddy Starter è il piano con il rinnovo più economico, 71,88 US$ all'anno, ma costa più del Premium con SONAR20 nel primo anno, in 2 anni e in 4 anni.",
-          "In ogni caso, controlla il prezzo del rinnovo nel carrello prima di pagare: le promozioni cambiano."
+          "Un anno di hosting: Premium di dodici mesi con SONAR20 è stato rilevato a 19,10 US$. Economy costa 64,78 US$ in più. Entrambi includono dominio ed e-mail gratis per il primo anno.",
+          "Due anni di hosting: nell'offerta rilevata, Premium di 24 mesi con SONAR20 costa 38,21 US$ ed Economy di 24 mesi costa 155,76 US$. Dominio ed e-mail si pagano a parte dopo il primo anno.",
+          "Quattro anni di hosting: Premium di 48 mesi con SONAR20 è stato rilevato a 76,42 US$. Economy di 36 mesi più un rinnovo al prezzo indicato dà un totale di 359,52 US$. L'offerta Economy di cinque anni costa 359,40 US$. Per entrambi, dominio ed e-mail dopo il primo anno sono spese aggiuntive.",
+          "Solo hosting: Starter ha il rinnovo annuale indicato più basso, 71,88 US$. Premium con SONAR20 resta però meno costoso nel confronto su uno, due e quattro anni. Per un progetto più lungo, somma il pagamento iniziale e tutti i rinnovi previsti.",
+          "Prima di pagare, controlla nel carrello il totale, i servizi aggiuntivi e il prezzo di rinnovo. Promozioni e tariffe possono cambiare."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Qual è meglio, Hostinger o GoDaddy? In dollari, il Premium della Hostinger con SONAR20 costa meno dell'Economy di GoDaddy nel primo anno, in 2 anni, in 4 anni e al rinnovo. Lo Starter di GoDaddy vince solo al rinnovo, senza dominio né e-mail nella lista. Altri criteri sono in [come scegliere un hosting web](/it/reviews/scegliere-hosting-hostinger).",
+          "Qual è meglio, Hostinger o GoDaddy? Ai prezzi internazionali rilevati in dollari, Premium con SONAR20 costa meno di Economy per uno, due e quattro anni di hosting. Dominio ed e-mail sono gratis solo il primo anno. Starter ha il rinnovo annuale più basso, ma non il costo complessivo più basso in questi periodi. Trovi altri criteri nella guida su [come scegliere un hosting web](/it/reviews/scegliere-hosting-hostinger).",
           "GoDaddy si rinnova allo stesso prezzo? L'Economy no: nel carrello il piano di 1 anno passa da 83,88 US$ a 143,88 US$ al rinnovo. Lo Starter non ha sconto nel primo anno e si rinnova allo stesso 71,88 US$.",
           "Il coupon Hostinger vale sul rinnovo? No. SONAR20 vale solo per un acquisto nuovo, e il rinnovo si paga al prezzo di listino. Per il rinnovo, vedi la [guida al rinnovo Hostinger](/it/reviews/hostinger-rinnovo-codice-sonar20).",
           "Il Premium della Hostinger include un dominio? Sì, gratis per 1 anno, insieme a 2 caselle e-mail per sito. Dopo quell'anno il dominio si rinnova per conto proprio, al prezzo attuale della Hostinger.",
-          "Posso spostare il sito da GoDaddy a Hostinger? La pagina di aiuto della Hostinger dice che la migrazione gratuita copre un sito di un'altra società sui piani Web, Cloud o Agency. Verifica il tuo piano con il supporto prima di disdire il vecchio."
+          "Posso spostare il sito da GoDaddy a Hostinger? La pagina di aiuto della Hostinger dice che la migrazione gratuita copre un sito di un'altra società sui piani Web, Cloud o Agency. Verifica il tuo piano con il supporto prima di disdire il vecchio.",
+          "Qual è il codice sconto Hostinger? SONAR20 dà il 20% sul primo periodo dei nuovi piani Premium di 12, 24 o 48 mesi rilevati in questo confronto; il rinnovo non riceve questo sconto."
         ]
       },
       {
@@ -193667,7 +193715,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale per ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+      "text": "Inserisci SONAR20 nel campo coupon del carrello internazionale oppure apri il link. Nei nuovi piani Premium di 12, 24 o 48 mesi rilevati qui, lo sconto era del 20% sul primo periodo pagato. Controlla il totale e il prezzo di rinnovo prima di acquistare. Lo sconto non si applica al rinnovo.",
       "label": "Vedi i piani di hosting con il SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -193697,12 +193745,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prendi la Hostinger se ti servono dominio ed e-mail per 2 anni o più: con SONAR20, un solo acquisto copre il periodo e costa meno dell'Economy.",
-        "Prendi la Hostinger se il progetto dura un anno con dominio ed e-mail: costa meno dell'Economy in quel periodo e si rinnova anche a meno."
+        "Scegli Hostinger Premium se vuoi pagare 24 o 48 mesi di hosting in anticipo: con SONAR20, i costi rilevati sono inferiori a Economy.",
+        "Scegli Hostinger Premium se cerchi dodici mesi di hosting con dominio ed e-mail nel primo anno: il prezzo iniziale rilevato e il rinnovo annuale indicato sono inferiori a Economy; dominio ed e-mail sono gratis solo il primo anno."
       ],
       "skipIf": [
-        "Scegli GoDaddy Starter se ti serve solo il sito, senza dominio né e-mail, e pensi di tenerlo ben oltre 4 anni: ha il rinnovo più economico.",
-        "Scegli GoDaddy Economy se preferisci cPanel e accetti di pagare più del Premium nel primo anno, in 2 e 4 anni e al rinnovo."
+        "Valuta GoDaddy Starter se cerchi cPanel e hosting senza dominio o e-mail inclusi: il rinnovo annuale indicato costa meno, ma Premium con SONAR20 costa meno complessivamente su uno, due e quattro anni.",
+        "Valuta GoDaddy Economy se vuoi cPanel con dominio ed e-mail nel primo anno e accetti i costi di hosting rilevati più alti rispetto a Premium."
       ]
     }
   },
@@ -193738,8 +193786,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Wie lange soll die Website online bleiben? In US-Dollar kostet der Premium von Hostinger mit SONAR20 bei jeder Laufzeit weniger als der Economy von GoDaddy.",
-    "metaDescription": "SONAR20 gibt 20 % auf einen Neukauf bei der Hostinger. Wer kostet in 1, 2 und 4 Jahren weniger als GoDaddy, und was kostet jeder Tarif bei Verlängerung?",
+    "description": "Hostinger Premium mit SONAR20 und GoDaddy Economy: Hosting-Kosten in US-Dollar für 1, 2 und 4 Jahre, jährliche Verlängerung und Zusatzkosten im Vergleich.",
+    "metaDescription": "SONAR20: 20% auf neue Hostinger-Premium-Tarife für 12, 24 oder 48 Monate. Hosting und Verlängerung im Vergleich mit GoDaddy, in US-Dollar.",
     "publishedAt": "6. November 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -193753,14 +193801,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "In US-Dollar kostet der Premium der Hostinger mit SONAR20 weniger als der Economy von GoDaddy im ersten Jahr (19,10 US$ gegenüber 83,88 US$), über 2 Jahre (38,21 US$ gegenüber 155,76 US$), über 4 Jahre (76,42 US$ gegenüber 359,52 US$) und bei der Verlängerung (131,88 US$ gegenüber 143,88 US$ pro Jahr). Beide enthalten eine Domain und E-Mail für 1 Jahr gratis."
+          "Bei den erfassten internationalen Preisen in US-Dollar kostet Hostinger Premium mit SONAR20 für 1, 2 und 4 Jahre weniger als GoDaddy Economy. Auch der angezeigte jährliche Verlängerungspreis ist niedriger. Domain und E-Mail sind bei beiden nur im ersten Jahr gratis; ihre späteren Kosten kommen zu den verglichenen Hosting-Beträgen hinzu."
         ]
       },
       {
         "heading": "Die zwei Tarife im Vergleich",
         "paragraphs": [
           "Auf der internationalen Seite der Hostinger beginnt das Webhosting beim Premium, der eine Domain und E-Mail für das erste Jahr gratis enthält. Der GoDaddy-Tarif mit denselben beiden Posten ist der Economy. Diese beiden sind das Hauptpaar dieses Artikels. Das SSL ist bei beiden Unternehmen auf jedem Tarif gratis.",
-          "Der Artikel antwortet nach Laufzeit: was Sie im ersten Jahr, über zwei Jahre und über vier Jahre zahlen und was jeder Tarif bei der Verlängerung kostet. GoDaddy verkauft außerdem den Starter, einen Tarif nur für die Website, der weiter unten einen eigenen Abschnitt hat."
+          "Die Preise stammen von den internationalen Seiten und Warenkörben in US-Dollar, abgelesen am 6. November 2026 ohne Kauf. Rechnungen mit späteren Verlängerungen setzen voraus, dass die angezeigten Verlängerungspreise unverändert bleiben."
         ],
         "comparisonTable": {
           "headers": [
@@ -193794,7 +193842,7 @@ export const reviewsData: unknown[] = [
           "Für eine Website, die ein Jahr läuft, kostet der Premium der Hostinger über 12 Monate mit SONAR20 19,10 US$. Der Economy von GoDaddy kostet für sein erstes Jahr 83,88 US$. Der Unterschied beträgt 64,78 US$ zugunsten der Hostinger."
         ],
         "comparisonTable": {
-          "caption": "Zahlung im ersten Jahr, am 6. November im Warenkorb jedes Anbieters abgelesen, ohne Kauf. Bei der Hostinger ist es der Tarif über 12 Monate mit SONAR20.",
+          "caption": "Im Warenkorb abgelesene Hosting-Preise für zwölf Monate, ohne Kauf. Bei Hostinger ist SONAR20 berücksichtigt; Domain und E-Mail sind jeweils nur im ersten Jahr gratis.",
           "headers": [
             "Tarif",
             "Zahlung im ersten Jahr",
@@ -193814,7 +193862,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Im Warenkorb der Hostinger war der Black-Friday-Preis schon abgezogen: Der Premium über 12 Monate zeigte ohne den Code 1,99 US$ pro Monat und mit SONAR20 1,59 US$ pro Monat, denselben Monatssatz wie die Tarife über 24 und 48 Monate. Der Code gibt 20 % auf einen Neukauf."
+          "Im erfassten Hostinger-Warenkorb war der Black-Friday-Preis bereits berücksichtigt. Premium für zwölf Monate zeigte ohne Code 1,99 US$ und mit SONAR20 1,59 US$ pro Monat. Auch für 24 und 48 Monate wurden mit dem Code 1,59 US$ pro Monat angezeigt. Diese Monatsangaben sind gerundet; die Tabellen verwenden die erfassten Gesamtbeträge. Bei diesen neuen Premium-Tarifen betrug der Rabatt 20 % auf den ersten bezahlten Zeitraum."
         ]
       },
       {
@@ -193823,7 +193871,7 @@ export const reviewsData: unknown[] = [
           "Für eine Website, die zwei Jahre läuft, ist der Premium der Hostinger über 24 Monate mit SONAR20 ein einziger Kauf über 38,21 US$. Der 24-Monats-Tarif Economy von GoDaddy kostet 155,76 US$, also weniger als das erste Jahr plus eine Verlängerung (227,76 US$). Der Starter hat keinen Rabatt, daher kosten zwei Jahre davon 143,76 US$."
         ],
         "comparisonTable": {
-          "caption": "Zahlung über zwei Jahre, am selben Datum im Warenkorb jedes Anbieters abgelesen, ohne Kauf. Bei der Hostinger ist es der Tarif über 24 Monate mit SONAR20. Bei GoDaddy der Tarif über 24 Monate, der weniger kostet als 1 Jahr plus eine Verlängerung.",
+          "caption": "Hosting-Kosten für zwei Jahre: Premium und Economy als abgelesene 24-Monats-Angebote; Starter als eigene Rechnung aus zwölf Monaten plus einer Verlängerung zum unveränderten Preis. Domain und E-Mail nach dem ersten Jahr sind nicht eingerechnet.",
           "headers": [
             "Tarif",
             "Zahlung über zwei Jahre",
@@ -193851,8 +193899,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Über 4 Jahre kostet die Hostinger weniger",
         "paragraphs": [
-          "Der Unterschied liegt darin, wie jeder Anbieter abrechnet. Bei der Hostinger zahlen Sie die 48 Monate auf einmal und verlängern in dieser Zeit nichts. Im Warenkorb, mit schon abgezogenem Black-Friday-Preis, zeigte der Premium über 48 Monate 95,52 US$, und der SONAR20 brachte ihn auf 76,42 US$.",
-          "Bei GoDaddy deckt der Aktionspreis nur den ersten Zeitraum ab, und Verlängerungen werden zum Listenpreis berechnet. Der günstigste Weg zu vier Jahren ist der Economy über 36 Monate für 215,64 US$, plus eine jährliche Verlängerung von 143,88 US$."
+          "Bei Hostinger zahlen Sie das Hosting für 48 Monate im Voraus. Eine Hosting-Verlängerung fällt in diesem Zeitraum nicht an; Domain und E-Mail werden nach dem ersten Gratisjahr separat berechnet. Im Warenkorb kostete Premium für 48 Monate zum Black-Friday-Preis 95,52 US$ und mit SONAR20 76,42 US$.",
+          "Für genau vier Jahre rechnen wir bei GoDaddy mit Economy für 36 Monate zu 215,64 US$ plus einer jährlichen Verlängerung zu 143,88 US$. Das ergibt 359,52 US$, sofern der angezeigte Verlängerungspreis bestehen bleibt. Das erfasste 60-Monats-Angebot kostet mit 359,40 US$ sogar etwas weniger, erfordert aber die Vorauszahlung für fünf Jahre."
         ],
         "comparisonTable": {
           "headers": [
@@ -193871,18 +193919,19 @@ export const reviewsData: unknown[] = [
               "215,64 US$ für 36 Monate, plus 1 Verlängerung zu 143,88 US$",
               "359,52 US$"
             ]
-          ]
+          ],
+          "caption": "Hosting für vier Jahre: Hostinger als abgelesener Vorauszahlungspreis, GoDaddy als eigene Rechnung aus 36 Monaten plus einer Verlängerung zum angezeigten Preis. Domain- und E-Mail-Verlängerungen sowie zusätzliches Standard-SSL sind nicht enthalten."
         },
         "postParagraphs": [
-          "Der 60-Monats-Tarif Economy von GoDaddy kostet 359,40 US$ und deckt 5 Jahre ab, für etwa dasselbe Geld wie der 4-Jahres-Weg oben.",
+          "Das erfasste Economy-Angebot für 60 Monate deckt fünf Jahre Hosting ab. Es kostet 0,12 US$ weniger als die Rechnung aus 36 Monaten plus einer Jahresverlängerung. Wer fünf Jahre im Voraus bezahlen möchte, sollte diese Alternative mitprüfen.",
           "Die Summen enthalten nicht die Verlängerung von Domain oder E-Mail nach dem ersten Jahr, bei keinem der beiden Anbieter."
         ]
       },
       {
         "heading": "Nach dem bezahlten Zeitraum: was jeder Tarif bei der Verlängerung kostet",
         "paragraphs": [
-          "Sobald der Zeitraum endet, gehen beide Anbieter zum Listenpreis zurück. Der SONAR20 gilt nur für einen Neukauf, daher wird die Verlängerung der Hostinger zum Listenpreis des Tarifs berechnet. Der Warenkorb zeigt, dass sich der Premium nach 48 Monaten zu 10,99 US$ pro Monat für 12 Monate verlängert, also 131,88 US$ pro Jahr. Der Tarif über 12 Monate verlängert sich zum gleichen Satz.",
-          "Der Warenkorb von GoDaddy zeigt, dass sich der Economy im November 2027 zu 143,88 US$ verlängert. Das sind 12 US$ pro Jahr mehr als beim Premium."
+          "Nach dem ersten bezahlten Zeitraum gilt der jeweilige Verlängerungspreis. SONAR20 gewährt keinen Rabatt auf die Verlängerung. Der erfasste Hostinger-Warenkorb nannte für Premium nach 48 Monaten 10,99 US$ pro Monat bei einer Verlängerung um zwölf Monate, also 131,88 US$ pro Jahr. Für den 12-Monats-Tarif wurde derselbe Satz angezeigt.",
+          "Beim einjährigen Economy-Tarif zeigte der GoDaddy-Warenkorb eine jährliche Verlängerung zu 143,88 US$. Das sind 12 US$ mehr als bei Premium. Diese angezeigten Preise bilden die Grundlage der Rechnungen; sie sind keine Garantie für unveränderte Preise in späteren Jahren."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-de.webp",
@@ -193895,7 +193944,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Und der Tarif über 1 Monat?",
         "paragraphs": [
-          "Die Hostinger verkauft den Premium monatlich für 12,99 US$. SONAR20 gilt nicht für den Monatstarif, und er verlängert sich jeden Monat zu denselben 12,99 US$. Zwölf Monate auf diese Weise kommen auf 155,88 US$, etwa das Achtfache des 12-Monats-Tarifs mit dem Code. Er taugt nur für einen kurzen Test."
+          "Für Premium mit monatlicher Zahlung wurden 12,99 US$ ohne SONAR20-Rabatt und derselbe Betrag für die monatliche Verlängerung erfasst. Zwölf Monate kosten bei unverändertem Preis rechnerisch 155,88 US$, etwa das Achtfache des erfassten 12-Monats-Angebots mit dem Code. Monatliche Zahlung kommt infrage, wenn Sie nur einen kurzen Zeitraum benötigen oder nicht für ein Jahr im Voraus zahlen möchten."
         ]
       },
       {
@@ -193934,46 +193983,54 @@ export const reviewsData: unknown[] = [
               "359,52 US$",
               "143,88 US$"
             ]
-          ]
+          ],
+          "caption": "Hosting-Kosten zu den erfassten Preisen. Premium nutzt je nach Spalte den 12-, 24- oder 48-Monats-Tarif. Economy über vier Jahre und Starter über zwei oder vier Jahre sind eigene Rechnungen mit unveränderten Verlängerungspreisen. Domain- und E-Mail-Verlängerungen sowie zusätzliches Standard-SSL sind nicht enthalten."
         }
       },
       {
-        "heading": "Domain, E-Mail und SSL: was nach dem ersten Jahr abläuft",
+        "heading": "Domain, E-Mail und SSL: was inklusive ist und was extra kostet",
         "paragraphs": [
-          "Beim Premium wie beim Economy sind Domain und E-Mail ein Jahr lang gratis. Danach verlängert sich jedes Angebot separat, bei beiden Anbietern, und die Summen über 4 Jahre oben enthalten sie nicht. Der Hinweis von GoDaddy ergänzt, dass für die kostenlose Domain die ICANN-Gebühr anfällt.",
-          "Das SSL läuft nicht ab. Die Hostinger installiert auf jedem Tarif ein kostenloses Zertifikat, ohne zusätzliche Einrichtung oder Kosten. GoDaddy legt auf jedem Tarif AutoSSL an. Der Warenkorb des Economy fügt außerdem ein Standard-SSL hinzu, ein Jahr gratis und danach automatisch verlängert für 119,99 US$ pro Jahr: Das ist ein kostenpflichtiges Zertifikat zusätzlich zu AutoSSL, und Sie können dessen Verlängerung abschalten."
+          "Bei Premium und Economy sind Domain und E-Mail ein Jahr lang gratis. Danach werden beide separat verlängert; diese Kosten fehlen in den Vergleichen über zwei und vier Jahre. Für die Gratisdomain nennt GoDaddy außerdem eine ICANN-Gebühr.",
+          "Kostenloses SSL ist bei beiden Anbietern enthalten: Hostinger nennt kostenlose Zertifikate, GoDaddy AutoSSL. Der erfasste Economy-Warenkorb enthielt zusätzlich Standard-SSL, im ersten Jahr gratis und danach mit automatischer Verlängerung zu 119,99 US$ pro Jahr. Dieses kostenpflichtige Zusatzprodukt ist von AutoSSL zu unterscheiden. Prüfen Sie es im Warenkorb und deaktivieren Sie seine Verlängerung, wenn Sie es nicht benötigen."
         ]
       },
       {
-        "heading": "Erstattung: 30 Tage bei beiden",
+        "heading": "Erstattung: Die Frist hängt vom Tarif ab",
         "paragraphs": [
-          "Die Hostinger nimmt eine Erstattungsanfrage innerhalb von 30 Tagen nach dem Kauf an. Die internationale Seite von GoDaddy sagt dasselbe: 30 Tage auf den Tarifkarten, und der Hinweis am Seitenende sieht bei einem Jahrestarif eine volle Erstattung innerhalb von 30 Tagen vor, bei einem Monatstarif innerhalb von 48 Stunden. In diesem Punkt liegen beide gleichauf."
+          "Hostinger nennt eine Frist von 30 Tagen nach dem Kauf für Erstattungsanfragen. Die internationale GoDaddy-Seite nennt 30 Tage auf den Tarifkarten; der Hinweis am Seitenende sieht eine volle Erstattung innerhalb von 30 Tagen bei einem Jahrestarif und innerhalb von 48 Stunden bei einem Monatstarif vor. Prüfen Sie die Bedingungen des gewählten Tarifs, besonders bei einem Monatstarif."
         ]
       },
       {
         "heading": "Wenn Sie mehr brauchen: Unlimited und Cloud Startup",
         "paragraphs": [
-          "Über dem Premium hat die Hostinger den Unlimited mit unbegrenzter Anzahl an Websites und den Cloud Startup. Mit derselben 20-%-Rechnung auf den Seitenpreis kosten 48 Monate Unlimited mit SONAR20 107,14 US$ und verlängern sich zu 16,99 US$ pro Monat; der Cloud Startup kostet 306,82 US$ und verlängert sich zu 25,99 US$ pro Monat. Diese beiden wurden nicht im Warenkorb geprüft. GoDaddys Tarife Deluxe und Ultimate bleiben außen vor, weil auch ihre Verlängerung nicht geprüft wurde. Die Regeln des Codes stehen auf der [Gutscheinseite der Hostinger](/de/coupons/hostinger)."
+          "Oberhalb von Premium nennt die internationale Hostinger-Seite Unlimited mit unbegrenzter Anzahl an Websites und Cloud Startup. Mit 20 % Abzug vom erfassten Seitenpreis ergeben sich für 48 Monate rechnerisch 107,14 US$ für Unlimited und 306,82 US$ für Cloud Startup. Die genannten monatlichen Verlängerungspreise betragen 16,99 beziehungsweise 25,99 US$. Diese Summen sind eigene Berechnungen und wurden für diesen Vergleich nicht im Warenkorb bestätigt. GoDaddy Deluxe und Ultimate bleiben außerhalb des Preisvergleichs, weil ihre Verlängerung hier nicht geprüft wurde."
+        ],
+        "links": [
+          {
+            "label": "Hostinger-Gutschein SONAR20: Bedingungen prüfen",
+            "href": "/de/coupons/hostinger"
+          }
         ]
       },
       {
         "heading": "Welcher Tarif passt, je nachdem wie lange die Website online bleibt",
         "paragraphs": [
-          "Ein Jahr, mit Domain und E-Mail: der Premium der Hostinger über 12 Monate mit SONAR20, zu 19,10 US$. Der Economy kostet im selben Zeitraum 64,78 US$ mehr.",
-          "Zwei Jahre, mit Domain und E-Mail: der Premium der Hostinger über 24 Monate mit SONAR20, zu 38,21 US$. Der Economy kostet im 24-Monats-Tarif 155,76 US$.",
-          "Vier Jahre, mit Domain und E-Mail: der Premium der Hostinger über 48 Monate mit SONAR20, zu 76,42 US$ für den ganzen Zeitraum. Der Economy kostet mehr als das Vierfache.",
-          "Nur die Website, über viele Jahre: Der Starter von GoDaddy hat die günstigste Verlängerung, 71,88 US$ pro Jahr, kostet aber im ersten Jahr, über 2 Jahre und über 4 Jahre mehr als der Premium mit SONAR20.",
-          "In jedem Fall prüfen Sie den Verlängerungspreis im Warenkorb, bevor Sie zahlen: Aktionen ändern sich."
+          "Ein Jahr Hosting: Hostinger Premium für zwölf Monate mit SONAR20 wurde mit 19,10 US$ erfasst. Economy kostet 64,78 US$ mehr. Domain und E-Mail sind bei beiden im ersten Jahr gratis.",
+          "Zwei Jahre Hosting: Premium für 24 Monate mit SONAR20 kostet im erfassten Angebot 38,21 US$, Economy für 24 Monate 155,76 US$. Domain und E-Mail kosten nach dem ersten Jahr zusätzlich.",
+          "Vier Jahre Hosting: Premium für 48 Monate mit SONAR20 wurde mit 76,42 US$ erfasst. Economy ergibt mit 36 Monaten plus einer Verlängerung zum angezeigten Preis 359,52 US$. Das Economy-Angebot für fünf Jahre kostet 359,40 US$. Domain und E-Mail nach dem ersten Jahr kommen jeweils hinzu.",
+          "Nur Hosting: Starter hat mit 71,88 US$ den niedrigsten angezeigten jährlichen Verlängerungspreis. Über ein, zwei und vier Jahre ist Premium mit SONAR20 in diesem Vergleich dennoch günstiger. Für längere Projekte müssen Sie Anfangszahlung und spätere Verlängerungen zusammenrechnen.",
+          "Prüfen Sie vor dem Bezahlen den Gesamtbetrag, zusätzliche Leistungen und den Verlängerungspreis im Warenkorb. Aktionen und Preise können sich ändern."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Welcher ist besser, Hostinger oder GoDaddy? In US-Dollar kostet der Premium der Hostinger mit SONAR20 weniger als der Economy von GoDaddy im ersten Jahr, über 2 Jahre, über 4 Jahre und bei der Verlängerung. Nur der Starter von GoDaddy gewinnt bei der Verlängerung, ohne Domain oder E-Mail in seiner Liste. Weitere Kriterien stehen in [wie man einen Webhoster wählt](/de/reviews/webhoster-waehlen-hostinger).",
+          "Welcher ist besser, Hostinger oder GoDaddy? Bei den erfassten internationalen Hosting-Preisen in US-Dollar ist Premium mit SONAR20 über ein, zwei und vier Jahre günstiger als Economy. Domain und E-Mail sind nur im ersten Jahr gratis. Starter hat den niedrigsten jährlichen Verlängerungspreis, aber nicht die niedrigsten Gesamtkosten in diesen Zeiträumen. Weitere Kriterien finden Sie im [Leitfaden zur Wahl eines Webhosters](/de/reviews/webhoster-waehlen-hostinger).",
           "Verlängert sich GoDaddy zum gleichen Preis? Der Economy nicht: Im Warenkorb steigt der Einjahrestarif bei der Verlängerung von 83,88 US$ auf 143,88 US$. Der Starter hat keinen Rabatt im ersten Jahr und verlängert sich zu denselben 71,88 US$.",
           "Gilt der Hostinger-Gutschein bei der Verlängerung? Nein: Der SONAR20 gilt nur für einen Neukauf, und die Verlängerung wird zum Listenpreis berechnet. Zur Verlängerung siehe den [Verlängerungsleitfaden der Hostinger](/de/reviews/hostinger-verlaengerung-code-sonar20).",
           "Ist im Premium der Hostinger eine Domain enthalten? Ja, ein Jahr gratis, zusammen mit 2 Postfächern pro Website. Danach verlängert sich die Domain selbst, zum aktuellen Preis der Hostinger.",
-          "Kann ich meine Website von GoDaddy zur Hostinger umziehen? Die Hilfeseite der Hostinger sagt, dass die kostenlose Migration eine Website von einem anderen Anbieter auf den Tarifen Web, Cloud oder Agency abdeckt. Prüfen Sie Ihren Tarif mit dem Support, bevor Sie den alten kündigen."
+          "Kann ich meine Website von GoDaddy zur Hostinger umziehen? Die Hilfeseite der Hostinger sagt, dass die kostenlose Migration eine Website von einem anderen Anbieter auf den Tarifen Web, Cloud oder Agency abdeckt. Prüfen Sie Ihren Tarif mit dem Support, bevor Sie den alten kündigen.",
+          "Wie lautet der Hostinger-Gutscheincode? SONAR20 gewährt bei den hier erfassten neuen Premium-Tarifen für 12, 24 oder 48 Monate 20 % Rabatt auf den ersten bezahlten Zeitraum; die Verlängerung erhält diesen Rabatt nicht."
         ]
       },
       {
@@ -193986,7 +194043,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+      "text": "Geben Sie SONAR20 im Gutscheinfeld des internationalen Warenkorbs ein oder öffnen Sie den Link. Bei den hier erfassten neuen Premium-Tarifen für 12, 24 oder 48 Monate betrug der Rabatt 20 % auf den ersten bezahlten Zeitraum. Prüfen Sie vor dem Bezahlen den Endbetrag und den Verlängerungspreis. Für die Verlängerung gilt der Rabatt nicht.",
       "label": "Hosting-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -194016,12 +194073,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie Hostinger, wenn Sie Domain und E-Mail für 2 Jahre oder länger wollen: Mit SONAR20 deckt ein einziger Kauf den Zeitraum ab und kostet weniger als der Economy.",
-        "Nehmen Sie Hostinger, wenn Sie für ein Jahr eine Domain und E-Mail brauchen: In diesem Zeitraum kostet er weniger als der Economy, und er verlängert sich ebenfalls günstiger."
+        "Wählen Sie Hostinger Premium, wenn Sie 24 oder 48 Monate Hosting im Voraus bezahlen möchten: Mit SONAR20 liegen die erfassten Hosting-Kosten unter Economy.",
+        "Wählen Sie Hostinger Premium, wenn Sie zwölf Monate Hosting mit Domain und E-Mail im ersten Jahr suchen: Sowohl der erfasste Anfangspreis als auch die angezeigte Jahresverlängerung liegen unter Economy; Domain und E-Mail sind nur im ersten Jahr gratis."
       ],
       "skipIf": [
-        "Wählen Sie GoDaddy Starter, wenn Sie nur die Website wollen, ohne Domain oder E-Mail, und sie weit über 4 Jahre behalten: Er verlängert sich am günstigsten.",
-        "Wählen Sie GoDaddy Economy, wenn Sie cPanel bevorzugen und in Kauf nehmen, im ersten Jahr, über 2 und 4 Jahre und bei der Verlängerung mehr als den Premium zu zahlen."
+        "Prüfen Sie GoDaddy Starter, wenn Sie cPanel und Hosting ohne enthaltene Domain oder E-Mail suchen: Die angezeigte Jahresverlängerung ist günstiger, doch über ein, zwei und vier Jahre kostet Premium mit SONAR20 insgesamt weniger.",
+        "Prüfen Sie GoDaddy Economy, wenn Sie cPanel sowie Domain und E-Mail im ersten Jahr wünschen und die höheren erfassten Hosting-Kosten gegenüber Premium akzeptieren."
       ]
     }
   },
@@ -194057,8 +194114,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "ホスティングの料金を比べる前に、サイトを何年使うかを考えてください。米ドルでは、SONAR20を使ったHostinger PremiumはGoDaddy Economyより、どの期間で比べても安くなります。",
-    "metaDescription": "SONAR20で新規のHostinger購入が20%割引になります。初年度、2年間、4年間で、GoDaddyより安いのはどちらか、各プランの更新料も確認できます。",
+    "description": "Hostinger PremiumとGoDaddy Economyの1年・2年・4年のホスティング料金と更新料を米ドルで比較。SONAR20適用額と、別途かかる費用を確認できます。",
+    "metaDescription": "SONAR20でHostingerの対象となる新規購入が20%割引に。1年・2年・4年のホスティング料金と更新料を、GoDaddyと米ドルで比較します。",
     "publishedAt": "2026年11月6日",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -194072,7 +194129,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "米ドルで見ると、SONAR20を使ったHostinger Premiumは初年度（US$19.10対US$83.88）、2年間（US$38.21対US$155.76）、4年間（US$76.42対US$359.52）、更新の1年分（US$131.88対US$143.88）のどれで比べてもGoDaddy Economyより安くなります。どちらも、ドメインとメールが1年間無料で付きます。"
+          "2026年11月6日に国際サイトとカートで確認した米ドル価格では、SONAR20適用後のHostinger Premiumは、1年・2年・4年のホスティング料金でGoDaddy Economyを下回りました。SONAR20は更新には適用されませんが、年間更新料もPremiumがUS$131.88、EconomyがUS$143.88で、Premiumの方が低い金額でした。両プランのドメインとメールが無料なのは最初の1年だけです。"
         ]
       },
       {
@@ -194113,7 +194170,7 @@ export const reviewsData: unknown[] = [
           "1年だけ使うサイトなら、SONAR20を使ったHostingerの12か月PremiumはUS$19.10です。GoDaddy Economyは初年度にUS$83.88かかります。その差はUS$64.78で、Hostingerのほうが安くなります。"
         ],
         "comparisonTable": {
-          "caption": "11月6日に各カートで購入せずに確認した初年度の支払い額。Hostingerは12か月プランにSONAR20を適用した金額です。",
+          "caption": "購入せずにカートで確認した最初の12か月のホスティング料金。HostingerはSONAR20適用後の金額です。追加商品や手数料を含む最終支払額はカートで確認してください。",
           "headers": [
             "プラン",
             "初年度の支払い額",
@@ -194133,7 +194190,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Hostingerのカートには、ブラックフライデーの価格がすでに適用されていました。12か月のPremiumはコードなしで月額US$1.99、SONAR20を使うと月額US$1.59と表示され、24か月・48か月のプランと同じ月額でした。このコードは新規購入の20%割引です。"
+          "確認時のHostingerのカートには、ブラックフライデー価格が適用されていました。12か月のPremiumはコードなしで月額換算US$1.99、SONAR20適用後はUS$1.59と表示されました。割引後の月額換算表示は24か月・48か月プランも同じですが、実際には選んだ期間の料金を先払いします。SONAR20は対象となる新規購入の初回契約期間を20%割引にします。"
         ]
       },
       {
@@ -194142,7 +194199,7 @@ export const reviewsData: unknown[] = [
           "2年使うサイトなら、SONAR20を使ったHostingerの24か月Premiumは1回の購入でUS$38.21です。GoDaddyの24か月Economyは、US$155.76で、1年目と更新1回を払う場合（US$227.76）より安くなります。Starterには割引がないので、2年分でUS$143.76です。"
         ],
         "comparisonTable": {
-          "caption": "同じ日に各カートで購入せずに確認した2年間の支払い額。Hostingerは24か月プランにSONAR20を適用した金額です。GoDaddyは24か月プランで、1年目と更新1回を払うより安くなります。",
+          "caption": "PremiumとEconomyはカートで確認した24か月のホスティング料金で、PremiumはSONAR20適用後です。Starterは12か月分と同額の更新1回を足した計算です。ドメインとメールの2年目の更新料は含みません。",
           "headers": [
             "プラン",
             "2年間の支払い額",
@@ -194171,7 +194228,7 @@ export const reviewsData: unknown[] = [
         "heading": "4年間ではHostingerのほうが安い",
         "paragraphs": [
           "差は、両社の請求の仕方にあります。Hostingerは48か月分を一度に払い、その期間は更新がありません。カートではブラックフライデーの価格がすでに適用されており、48か月のPremiumはUS$95.52と表示され、SONAR20でUS$76.42になりました。",
-          "GoDaddyでは、プロモーション価格は最初の期間だけに適用され、更新は定価で請求されます。4年にする最も安い方法は、36か月のEconomy（US$215.64）に、年間更新を1回（US$143.88）足すことです。"
+          "GoDaddyのプロモーション価格は初回の契約期間に適用されます。ちょうど4年分を比べるため、Economyの36か月分US$215.64に年間更新1回US$143.88を足すと、US$359.52です。これは確認時の更新料が続くと仮定した計算です。"
         ],
         "comparisonTable": {
           "headers": [
@@ -194190,18 +194247,19 @@ export const reviewsData: unknown[] = [
               "36か月でUS$215.64、更新1回でUS$143.88",
               "US$359.52"
             ]
-          ]
+          ],
+          "caption": "48か月のホスティング料金比較。Premiumはカートの一括支払額、Economyは36か月分に確認時の年間更新料を足した見積もりです。ドメイン・メールの更新料や追加商品・手数料は含みません。"
         },
         "postParagraphs": [
-          "GoDaddyの60か月EconomyはUS$359.40で、5年分をカバーします。上の4年の方法とほぼ同じ金額です。",
+          "GoDaddy Economyの60か月一括払いはUS$359.40で、上の4年分の計算よりUS$0.12安く、5年間使えます。5年分を先払いできるなら、この選択肢も比較してください。4年分の計算とは、支払時期と契約期間が異なります。",
           "合計には、どちらの会社でも1年目の後のドメインとメールの更新は含めていません。"
         ]
       },
       {
-        "heading": "1年目の後：各プランの更新料",
+        "heading": "初回契約期間の終了後：各プランの更新料",
         "paragraphs": [
           "期間が終わると、両社とも定価に戻ります。SONAR20は新規購入にだけ適用されるので、Hostingerの更新は通常価格で請求されます。カートによると、Premiumは48か月の後、12か月分が月額US$10.99で更新され、年にするとUS$131.88です。12か月プランも同じ料金で更新されます。",
-          "GoDaddyのカートでは、Economyが2027年11月にUS$143.88で更新されると表示されています。Premiumより年にしてUS$12高くなります。"
+          "確認したGoDaddy Economyの12か月契約のカートには、次回の年間更新料がUS$143.88と表示されていました。Premiumの年間更新料US$131.88よりUS$12高い金額です。長期契約の将来の更新料は、実際の更新前に改めて確認してください。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-ja.webp",
@@ -194214,7 +194272,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1か月プランはどうですか？",
         "paragraphs": [
-          "HostingerはPremiumを月額US$12.99でも販売しています。SONAR20は月額プランには適用されません。毎月同じUS$12.99が請求されます。この方法で12か月使うとUS$155.88で、コードを使った12か月プランの約8倍です。短いお試しにだけ向いています。"
+          "国際サイトで確認したPremiumの1か月料金はUS$12.99でした。この料金が12か月続くと仮定するとUS$155.88で、SONAR20適用後の12か月一括払いUS$19.10の約8.16倍です。この月払いの計算にはコード割引を反映していません。月額プランへの割引適用は、選んだ商品と期間でカートを確認してください。利用期間が短い場合や、年間料金の先払いを避けたい場合に比較できる選択肢です。"
         ]
       },
       {
@@ -194253,46 +194311,54 @@ export const reviewsData: unknown[] = [
               "US$359.52",
               "US$143.88"
             ]
-          ]
+          ],
+          "caption": "ホスティング料金のみの比較。Premiumの各列は12・24・48か月の別々の新規契約です。Starterの2年・4年合計は年US$71.88が続くと仮定し、Economyの4年合計は36か月分に年間更新1回を加えています。ドメイン・メールの更新料や追加商品・手数料は含みません。"
         }
       },
       {
-        "heading": "ドメイン、メール、SSL：1年目の後に期限が切れるもの",
+        "heading": "ドメイン、メール、SSL：無料期間と追加費用",
         "paragraphs": [
           "PremiumとEconomyでは、ドメインとメールが1年間無料です。その後は、両社とも、それぞれが別々に更新されます。上の4年の合計には含めていません。GoDaddyの案内では、無料のドメインにはICANNの手数料がかかるとされています。",
-          "SSLは期限切れになりません。Hostingerは、すべてのプランに無料の証明書を入れ、追加の設定も費用もかかりません。GoDaddyは、すべてのプランにAutoSSLが含まれます。Economyのカートにはさらに Standard SSL が加わり、1年間は無料ですが、その後は年額US$119.99で自動更新されます。AutoSSLに加えて払う有料の証明書で、更新はオフにできます。"
+          "確認したホスティングプランには無料SSLが含まれています。GoDaddyにはAutoSSLが含まれ、確認したEconomyのカートには別商品としてStandard SSLも追加されていました。こちらは最初の1年が無料で、その後は年額US$119.99で自動更新される条件でした。無料のAutoSSLと区別し、追加商品の必要性と自動更新設定を確認してください。"
         ]
       },
       {
-        "heading": "返金：両社とも30日",
+        "heading": "返金：年間プランは両社とも30日と案内",
         "paragraphs": [
-          "Hostingerは、購入から30日以内の返金請求を受け付けます。GoDaddyの国際ページにも同じく30日とあります。プランのカードには30日と書かれ、フッターの案内では、年間プランは30日以内、月額プランは48時間以内に全額返金されるとされています。この点では両社は並んでいます。"
+          "確認した案内では、Hostingerの返金申請期限は購入から30日以内でした。GoDaddyの国際サイトは、年間プランを30日以内、月額プランを48時間以内と案内していました。"
         ]
       },
       {
         "heading": "さらに必要なら：UnlimitedとCloud Startup",
         "paragraphs": [
-          "Premiumより上には、サイト数無制限のUnlimitedとCloud Startupがあります。ページ価格に同じ20%の計算を当てはめると、Unlimitedの48か月はSONAR20でUS$107.14、更新は月額US$16.99です。Cloud StartupはUS$306.82、更新は月額US$25.99です。この2つはカートでは確認していません。GoDaddyのDeluxeとUltimateは、更新料も確認していないため外しています。このコードのルールは[Hostingerのクーポンページ](/ja/coupons/hostinger)にあります。"
+          "Premiumの仕様では足りない場合は、UnlimitedやCloud Startupも比較できます。当時のページ価格にSONAR20の20%割引が適用されると仮定した48か月分の計算額は、UnlimitedがUS$107.14、Cloud StartupがUS$306.82です。ページに表示された月額更新料は、それぞれUS$16.99とUS$25.99でした。これらは計算額で、カートの確定金額ではありません。GoDaddyのDeluxeとUltimateは更新料を確認していないため、比較から外しています。"
+        ],
+        "links": [
+          {
+            "label": "HostingerクーポンSONAR20の適用条件を確認",
+            "href": "/ja/coupons/hostinger"
+          }
         ]
       },
       {
         "heading": "サイトを何年使うかで選ぶ",
         "paragraphs": [
-          "1年、ドメインとメールも含める場合：SONAR20を使ったHostinger Premiumの12か月で、US$19.10です。同じ期間のEconomyは、US$64.78高くなります。",
-          "2年、ドメインとメールも含める場合：SONAR20を使ったHostinger Premiumの24か月で、US$38.21です。Economyの24か月はUS$155.76です。",
-          "4年、ドメインとメールも含める場合：SONAR20を使ったHostinger Premiumの48か月で、期間全体でUS$76.42です。Economyは、その4倍以上になります。",
-          "サイトだけを長く使う場合：GoDaddy Starterは更新料が年額US$71.88でいちばん安いですが、初年度も2年間も4年間もSONAR20を使ったPremiumより高くなります。",
-          "どの場合も、支払う前にカートで更新料を確認してください。プロモーションは変わることがあります。"
+          "1年使う場合：確認時のHostinger Premiumは、SONAR20適用後の12か月分がUS$19.10で、EconomyよりUS$64.78安い料金でした。両プランともドメインとメールは最初の1年が無料です。",
+          "2年使う場合：Premiumの24か月分はSONAR20適用後でUS$38.21、EconomyはUS$155.76でした。ドメインとメールを使い続けるなら、2年目の更新料を別に加えてください。",
+          "4年使う場合：Premiumの48か月一括払いはSONAR20適用後でUS$76.42でした。Economyは36か月分に確認時の年間更新料を加えるとUS$359.52です。60か月一括払いはUS$359.40と少し安いものの、5年契約になります。ドメインとメールの初年度以降の料金は別です。",
+          "サイトだけを長く使う場合：Starterは確認時の年間更新料がUS$71.88と最も低いものの、4年間のホスティング料金はSONAR20を使ったPremiumよりUS$211.10高くなります。長く使う場合は、利用予定期間の支払総額を比べてください。",
+          "支払う前に、契約期間、更新料、ドメイン・メールの料金、追加商品を確認してください。表示価格やプロモーションは変わることがあります。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "HostingerとGoDaddy、どちらがいいですか？ 米ドルでは、SONAR20を使ったHostinger PremiumはGoDaddy Economyより、初年度、2年間、4年間の合計、更新のどれで比べても安くなります。GoDaddy Starterが勝つのは更新料だけで、そのプランにはドメインもメールもリストにありません。その他の判断基準は[レンタルサーバーの選び方](/ja/reviews/choose-web-host-hostinger-ja)にあります。",
+          "HostingerとGoDaddy、どちらがいいですか？ この記事で確認した米ドル価格と、更新料が続くという仮定では、SONAR20適用後のPremiumは1年・2年・4年のホスティング料金でEconomyより安く、年間更新料もPremiumの方が低い金額です。Starterは年間更新料が低くても、長期の累計額まで常に安いとは限りません。ドメインとメールの初年度以降の料金は別に比較してください。価格以外の判断基準は[レンタルサーバーの選び方](/ja/reviews/choose-web-host-hostinger-ja)にあります。",
           "GoDaddyは更新も同じ価格ですか？ Economyは違います。カートでは1年プランが、1年目の後に定価に戻り、US$83.88からUS$143.88になると表示されています。Starterには初年度割引がなく、同じUS$71.88で更新されます。",
           "Hostingerのクーポンは更新にも使えますか？ いいえ。SONAR20は新規購入にだけ適用され、更新は通常価格で請求されます。更新については[Hostingerの更新ガイド](/ja/reviews/hostinger-renewal-sonar20-ja)をご覧ください。",
-          "Hostinger Premiumにはドメインが付いていますか？ はい。1年間無料で、サイトごとに2つのメールボックスも付きます。その後、ドメインは、Hostingerの現在の価格で自動更新されます。",
-          "GoDaddyのサイトをHostingerに移せますか？ Hostingerのヘルプページによると、無料の移行は、他社のWeb、Cloud、Agencyプランのサイトに対応しています。古いプランを解約する前に、サポートで自分のプランを確認してください。"
+          "Hostinger Premiumにはドメインが付いていますか？ この記事で比較したプランでは、ドメインとサイトごとの2つのメールボックスが最初の1年間無料と案内されていました。その後のドメインとメールの更新料、自動更新設定は、それぞれ確認してください。",
+          "GoDaddyのサイトをHostingerに移せますか？ 対応できるかは、サイトの作成方法や移行先のホスティングプランによって変わる場合があります。現在のサービスを解約する前に、サイトの構成と移行先のプランをHostingerのサポートに伝え、無料移行の対象か確認してください。",
+          "Hostingerのクーポンコードは何ですか？ SONAR20は対象となる新規購入の初回契約期間を20%割引にするコードで、更新には適用されません。"
         ]
       },
       {
@@ -194305,7 +194371,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。新規購入が20%割引になります。このコードは更新には適用されません。",
+      "text": "国際サイトのカートにあるクーポン欄にSONAR20を入力するか、このリンクから進んでください。対象となる新規購入の初回契約期間が20%割引になり、更新には適用されません。支払う前に割引額と契約期間を確認してください。",
       "label": "SONAR20で料金プランを見る",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -194335,12 +194401,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "ドメインとメールが必要で2年以上サイトを続けるなら、Hostingerを選んでください。SONAR20を使ったPremiumは、1回の購入で全期間をカバーし、Economyより安くなります。",
-        "1年間のプロジェクトで、ドメインとメールが必要なら、Hostinger Premiumを選んでください。その期間はEconomyより安く、更新料も安くなります。"
+        "2年分または4年分のホスティングを一括で先払いできるなら、SONAR20適用後のPremiumはこの比較でEconomyより安くなります。",
+        "1年のプロジェクトでドメインとメールが必要なら、確認時はPremiumが価格面で有利でした。SONAR20適用後のホスティング料金はUS$19.10でした。"
       ],
       "skipIf": [
-        "ドメインもメールも不要で、4年をはるかに超えて使うつもりなら、GoDaddy Starterを選んでください。更新料がいちばん安いプランです。",
-        "cPanelがほしく、初年度・2年間・4年間・更新のすべてでPremiumより高くなっても構わないなら、GoDaddy Economyを選んでください。"
+        "ドメインとメールが不要で、長く使う予定ならStarterも比較対象です。Starterは年間更新料がUS$71.88と最も低いものの、4年間のホスティング料金はPremiumよりUS$211.10高くなります。",
+        "cPanelが必須なら、GoDaddy StarterとEconomyを比較し、初年度のドメインとメールの無料特典が必要かで選んでください。"
       ]
     }
   },
@@ -194376,8 +194442,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "호스팅 가격을 비교하기 전에 사이트를 얼마나 오래 운영할지 먼저 따져 보세요. 미국 달러 기준으로 SONAR20을 적용한 호스팅어 Premium은 어떤 기간으로 봐도 GoDaddy Economy보다 저렴합니다.",
-    "metaDescription": "SONAR20을 쓰면 신규 호스팅어 구매가 20% 할인됩니다. 첫 해, 2년, 4년 동안 GoDaddy보다 저렴한 쪽이 어디인지, 각 플랜의 갱신가도 확인하세요.",
+    "description": "미국 달러로 확인한 호스팅어 Premium과 GoDaddy Economy의 1년·2년·4년 호스팅 비용과 갱신가를 비교합니다. SONAR20 적용 금액과 별도로 드는 비용도 살펴보세요.",
+    "metaDescription": "SONAR20은 호스팅어의 할인 대상 신규 구매에 20% 할인을 제공합니다. 미국 달러 기준 1년·2년·4년 호스팅 비용과 갱신가를 GoDaddy와 비교하세요.",
     "publishedAt": "2026년 11월 6일",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -194391,7 +194457,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "미국 달러로 보면 SONAR20을 적용한 호스팅어 Premium은 GoDaddy Economy보다 첫 해(US$ 19.10 대 US$ 83.88), 2년(US$ 38.21 대 US$ 155.76), 4년(US$ 76.42 대 US$ 359.52), 갱신(연간 US$ 131.88 대 US$ 143.88) 모두 저렴합니다. 두 플랜 모두 도메인과 이메일을 1년 무료로 포함합니다."
+          "2026년 11월 6일 국제 사이트와 장바구니에서 확인한 미국 달러 가격으로는, SONAR20을 적용한 호스팅어 Premium의 1년·2년·4년 호스팅 비용이 GoDaddy Economy보다 낮았습니다. SONAR20은 갱신에는 적용되지 않으며, 연간 갱신가도 Premium US$ 131.88, Economy US$ 143.88로 Premium이 낮았습니다. 두 플랜의 도메인과 이메일은 첫 1년만 무료입니다."
         ]
       },
       {
@@ -194432,7 +194498,7 @@ export const reviewsData: unknown[] = [
           "1년 동안만 운영할 사이트라면, SONAR20을 적용한 호스팅어 12개월 Premium은 US$ 19.10입니다. GoDaddy Economy는 첫 해에 US$ 83.88입니다. 차이는 US$ 64.78로, 호스팅어가 더 저렴합니다."
         ],
         "comparisonTable": {
-          "caption": "첫 해 결제 금액. 11월 6일 각 장바구니에서 구매하지 않고 확인했습니다. 호스팅어는 12개월 플랜에 SONAR20을 적용한 금액입니다.",
+          "caption": "구매 없이 장바구니에서 확인한 첫 12개월 호스팅 요금. 호스팅어는 SONAR20 적용 금액입니다. 별도 상품과 수수료를 포함한 최종 결제액은 장바구니에서 확인하세요.",
           "headers": [
             "플랜",
             "첫 해 결제 금액",
@@ -194452,7 +194518,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "호스팅어 장바구니에는 블랙프라이데이 가격이 이미 적용되어 있었습니다. 12개월 Premium은 코드 없이 월 US$ 1.99, SONAR20을 적용하면 월 US$ 1.59로 표시되었고, 이는 24개월·48개월 플랜과 같은 월 요금입니다. 이 코드는 신규 구매에 20% 할인을 줍니다."
+          "확인 당시 호스팅어 장바구니에는 블랙프라이데이 가격이 적용되어 있었습니다. 12개월 Premium은 코드 없이 월 환산 US$ 1.99, SONAR20 적용 시 US$ 1.59로 표시됐습니다. 할인 후 월 환산 표시액은 24개월·48개월 플랜도 같았지만, 실제 결제는 선택한 기간의 선결제입니다. SONAR20은 할인 대상 신규 구매의 첫 계약 기간에 20%를 할인합니다."
         ]
       },
       {
@@ -194461,7 +194527,7 @@ export const reviewsData: unknown[] = [
           "2년 동안 운영할 사이트라면, SONAR20을 적용한 호스팅어 24개월 Premium은 한 번의 결제로 US$ 38.21입니다. GoDaddy의 24개월 Economy는 US$ 155.76로, 첫 해와 갱신 1회를 내는 경우(US$ 227.76)보다 저렴합니다. Starter는 할인이 없어서 2년 비용이 US$ 143.76입니다."
         ],
         "comparisonTable": {
-          "caption": "같은 날 각 장바구니에서 구매하지 않고 확인한 2년 결제 금액. 호스팅어는 24개월 플랜에 SONAR20을 적용한 금액입니다. GoDaddy는 24개월 플랜으로, 1년 더하기 갱신 1회보다 저렴합니다.",
+          "caption": "Premium과 Economy는 장바구니에서 확인한 24개월 호스팅 요금입니다. Premium에는 SONAR20이 적용됐습니다. Starter는 12개월 요금에 같은 요금의 갱신 1회를 더한 계산입니다. 도메인과 이메일의 2년 차 갱신비는 제외했습니다.",
           "headers": [
             "플랜",
             "2년 결제 금액",
@@ -194490,7 +194556,7 @@ export const reviewsData: unknown[] = [
         "heading": "4년 동안도 호스팅어가 더 저렴합니다",
         "paragraphs": [
           "차이는 두 회사가 요금을 받는 방식에 있습니다. 호스팅어는 48개월 분을 한 번에 결제하며, 그 기간 안에는 갱신이 없습니다. 블랙프라이데이 가격이 이미 적용된 장바구니에서 48개월 Premium은 US$ 95.52로 표시되었고, SONAR20을 적용하자 US$ 76.42가 되었습니다.",
-          "GoDaddy의 프로모션가는 첫 기간에만 적용되고, 갱신은 정가로 청구됩니다. 4년까지 가는 가장 저렴한 방법은 36개월 Economy(US$ 215.64)에 연간 갱신 1회(US$ 143.88)를 더하는 것입니다."
+          "GoDaddy의 프로모션가는 첫 계약 기간에 적용됩니다. 정확히 4년을 비교하기 위해 36개월 Economy US$ 215.64에 연간 갱신 1회 US$ 143.88을 더하면 US$ 359.52입니다. 이는 확인 당시 갱신가가 유지된다는 가정에 따른 계산입니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -194509,10 +194575,11 @@ export const reviewsData: unknown[] = [
               "36개월 US$ 215.64, 갱신 1회 US$ 143.88",
               "US$ 359.52"
             ]
-          ]
+          ],
+          "caption": "48개월 호스팅 비용 비교. Premium은 장바구니의 선결제액이며, Economy는 36개월 요금에 확인 당시 연간 갱신가를 더한 예상 합계입니다. 도메인·이메일 갱신비와 별도 상품·수수료는 제외했습니다."
         },
         "postParagraphs": [
-          "GoDaddy의 60개월 Economy는 US$ 359.40로 5년을 커버하며, 위의 4년 방법과 비슷한 금액입니다.",
+          "GoDaddy Economy 60개월 선결제액은 US$ 359.40로, 위의 4년 계산보다 US$ 0.12 적고 5년을 이용할 수 있습니다. 5년 선결제가 가능하다면 이 선택지도 비교하세요. 4년 계산과는 결제 시점과 계약 기간이 다릅니다.",
           "합계에는 두 회사 모두 1년 이후의 도메인과 이메일 갱신이 포함되지 않습니다."
         ]
       },
@@ -194520,7 +194587,7 @@ export const reviewsData: unknown[] = [
         "heading": "유료 기간이 끝난 뒤: 플랜별 갱신가",
         "paragraphs": [
           "기간이 끝나면 두 회사 모두 정가로 돌아갑니다. SONAR20은 신규 구매에만 적용되므로, 호스팅어 갱신은 정가로 청구됩니다. 장바구니에 따르면 Premium은 48개월 후 12개월 동안 월 US$ 10.99로 갱신되며, 연간 US$ 131.88입니다. 12개월 플랜도 같은 요율로 갱신됩니다.",
-          "GoDaddy 장바구니에는 Economy가 2027년 11월에 US$ 143.88로 갱신된다고 나와 있습니다. Premium보다 연간 US$ 12 높습니다."
+          "확인한 GoDaddy Economy 12개월 장바구니에는 다음 연간 갱신가가 US$ 143.88로 표시되어 있었습니다. 이는 Premium의 연간 갱신가 US$ 131.88보다 US$ 12 높습니다. 장기 플랜의 향후 갱신가는 실제 갱신 전에 다시 확인해야 합니다."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-ko.webp",
@@ -194533,7 +194600,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1개월 플랜은 어떤가요?",
         "paragraphs": [
-          "호스팅어는 Premium을 월 단위로 월 US$ 12.99에 판매합니다. SONAR20은 월 단위 플랜에는 적용되지 않으며, 매달 같은 US$ 12.99가 청구됩니다. 이렇게 12개월을 쓰면 US$ 155.88로, 코드를 적용한 12개월 플랜의 약 8배입니다. 짧은 테스트용으로만 쓸 만합니다."
+          "확인한 국제 사이트의 Premium 1개월 요금은 US$ 12.99였습니다. 이 금액이 12개월 동안 유지된다고 가정하면 US$ 155.88로, SONAR20을 적용한 12개월 선결제액 US$ 19.10의 약 8.16배입니다. 이 월별 결제 계산에는 코드 할인을 반영하지 않았습니다. 월간 플랜의 할인 적용 여부는 선택한 상품과 기간으로 장바구니에서 확인하세요. 필요한 기간이 짧거나 연간 선결제를 피하려는 경우에 비교할 수 있습니다."
         ]
       },
       {
@@ -194572,46 +194639,54 @@ export const reviewsData: unknown[] = [
               "US$ 359.52",
               "US$ 143.88"
             ]
-          ]
+          ],
+          "caption": "호스팅 비용만 비교했습니다. Premium의 각 열은 각각 12·24·48개월 신규 계약이며, Starter의 2년·4년 합계는 연 US$ 71.88이 유지된다는 가정입니다. Economy의 4년 합계는 36개월 요금에 연간 갱신 1회를 더했습니다. 도메인·이메일 갱신비와 별도 상품·수수료는 제외했습니다."
         }
       },
       {
-        "heading": "도메인, 이메일, SSL: 1년 후 만료되는 것",
+        "heading": "도메인, 이메일, SSL: 무료 제공 기간과 추가 비용",
         "paragraphs": [
           "Premium과 Economy에서 도메인과 이메일은 1년 동안 무료입니다. 그 뒤에는 두 회사 모두 각각 따로 갱신되며, 위의 4년 합계에는 포함되지 않습니다. GoDaddy 안내에 따르면 무료 도메인에는 ICANN 수수료가 붙습니다.",
-          "SSL은 만료되지 않습니다. 호스팅어는 모든 플랜에 무료 인증서를 설치하며, 별도의 설정이나 비용이 없습니다. GoDaddy는 모든 플랜에 AutoSSL을 포함합니다. Economy 장바구니에는 Standard SSL도 추가되어 있습니다. 1년 무료이고, 그 후에는 연 US$ 119.99로 자동 갱신됩니다. AutoSSL 위에 얹는 유료 인증서이며, 갱신은 끌 수 있습니다."
+          "확인한 호스팅 플랜에는 무료 SSL이 포함되어 있습니다. GoDaddy는 AutoSSL을 포함하며, 확인한 Economy 장바구니에는 별도 상품인 Standard SSL도 추가되어 있었습니다. 이 상품은 첫 1년 무료이고 이후 연 US$ 119.99로 자동 갱신되는 조건이었습니다. 무료 AutoSSL과 구분해 추가 상품의 필요성과 자동 갱신 설정을 확인하세요."
         ]
       },
       {
-        "heading": "환불: 두 곳 모두 30일",
+        "heading": "환불: 연간 플랜은 두 곳 모두 30일 안내",
         "paragraphs": [
-          "호스팅어는 구매 후 30일 이내 환불 요청을 받습니다. GoDaddy의 국제 사이트도 30일을 말합니다. 플랜 카드에는 30일이 표시되어 있고, 하단 안내에는 연간 플랜은 30일 이내, 월간 플랜은 48시간 이내에 전액 환불된다고 되어 있습니다. 이 점에서는 두 회사가 같습니다."
+          "확인한 안내에서 호스팅어의 환불 요청 기한은 구매 후 30일이었습니다. GoDaddy 국제 사이트는 연간 플랜을 30일 이내, 월간 플랜을 48시간 이내로 안내했습니다."
         ]
       },
       {
         "heading": "더 필요하다면: Unlimited와 Cloud Startup",
         "paragraphs": [
-          "Premium 위에는 사이트 수가 무제한인 Unlimited와 Cloud Startup이 있습니다. 페이지 가격에 같은 20% 계산을 적용하면, Unlimited 48개월은 SONAR20으로 US$ 107.14이고 월 US$ 16.99로 갱신됩니다. Cloud Startup은 US$ 306.82이고 월 US$ 25.99로 갱신됩니다. 이 두 플랜은 장바구니에서 확인하지 않았습니다. GoDaddy의 Deluxe와 Ultimate는 갱신가도 확인하지 않아서 제외했습니다. 쿠폰 규칙은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
+          "Premium의 사양으로 부족하다면 Unlimited와 Cloud Startup도 비교할 수 있습니다. 당시 페이지 가격에 SONAR20의 20% 할인이 적용된다고 가정한 48개월 계산액은 Unlimited US$ 107.14, Cloud Startup US$ 306.82입니다. 페이지에 표시된 월 갱신가는 각각 US$ 16.99와 US$ 25.99였습니다. 이 금액은 계산값으로, 장바구니의 확정 결제액이 아닙니다. GoDaddy Deluxe와 Ultimate는 갱신가를 확인하지 않아 비교에서 제외했습니다."
+        ],
+        "links": [
+          {
+            "label": "호스팅어 쿠폰 SONAR20 적용 조건 확인",
+            "href": "/ko/coupons/hostinger"
+          }
         ]
       },
       {
         "heading": "사이트를 얼마나 오래 운영할지에 따른 선택",
         "paragraphs": [
-          "1년, 도메인과 이메일 포함: SONAR20을 적용한 호스팅어 Premium 12개월이 US$ 19.10입니다. 같은 기간 Economy는 US$ 64.78 더 비쌉니다.",
-          "2년, 도메인과 이메일 포함: SONAR20을 적용한 호스팅어 Premium 24개월이 US$ 38.21입니다. Economy 24개월 플랜은 US$ 155.76입니다.",
-          "4년, 도메인과 이메일 포함: SONAR20을 적용한 호스팅어 Premium 48개월이 전체 기간 US$ 76.42입니다. Economy는 그보다 4배 넘게 비쌉니다.",
-          "사이트만 오래 쓸 경우: GoDaddy Starter는 연간 갱신가가 US$ 71.88로 가장 낮지만, 첫 해, 2년, 4년 모두 SONAR20을 적용한 Premium보다 비쌉니다.",
-          "어떤 경우든 결제 전에 장바구니에서 갱신가를 확인하세요. 프로모션은 바뀔 수 있습니다."
+          "1년 운영: 확인 당시 SONAR20을 적용한 호스팅어 Premium 12개월은 US$ 19.10으로, Economy보다 US$ 64.78 저렴했습니다. 두 플랜 모두 도메인과 이메일은 첫 1년 무료입니다.",
+          "2년 운영: Premium 24개월 호스팅 요금은 SONAR20 적용 시 US$ 38.21, Economy 24개월은 US$ 155.76이었습니다. 도메인과 이메일을 계속 쓰려면 2년 차 갱신비를 별도로 더해야 합니다.",
+          "4년 운영: Premium 48개월 선결제액은 SONAR20 적용 시 US$ 76.42였습니다. Economy는 36개월에 확인 당시 연간 갱신가를 더하면 US$ 359.52입니다. Economy 60개월 선결제액은 US$ 359.40로 조금 더 낮지만, 5년 계약입니다. 도메인과 이메일의 첫해 이후 비용은 별도입니다.",
+          "사이트만 오래 운영: Starter는 확인 당시 연간 갱신가가 US$ 71.88로 가장 낮지만, 4년 누적 호스팅 비용은 SONAR20을 적용한 Premium보다 US$ 211.10 높습니다. 더 길게 운영한다면 예정 기간의 선결제액과 갱신가를 합쳐 비교하세요.",
+          "결제 전에는 계약 기간, 갱신가, 도메인·이메일 비용과 추가 상품을 확인하세요. 표시된 가격과 프로모션은 바뀔 수 있습니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "호스팅어와 GoDaddy 중 어느 쪽이 나은가요? 미국 달러 기준으로 SONAR20을 적용한 호스팅어 Premium은 첫 해, 2년, 4년 합계, 갱신 모두에서 GoDaddy Economy보다 저렴합니다. GoDaddy Starter가 앞서는 것은 갱신뿐이며, 그 플랜은 목록에 도메인과 이메일이 없습니다. 다른 기준은 [웹 호스트 고르는 법](/ko/reviews/choose-web-host-hostinger-ko)에 있습니다.",
+          "호스팅어와 GoDaddy 중 어느 쪽이 나은가요? 이 글에서 확인한 미국 달러 가격과 갱신가 유지 가정으로는, SONAR20을 적용한 Premium의 1년·2년·4년 호스팅 비용이 Economy보다 낮고 연간 갱신가도 Premium이 낮습니다. Starter는 연간 갱신가가 더 낮지만, 장기 누적 비용까지 항상 저렴한 것은 아닙니다. 도메인과 이메일의 첫해 이후 비용은 별도로 비교하세요. 가격 외 기준은 [웹 호스트 고르는 법](/ko/reviews/choose-web-host-hostinger-ko)에 있습니다.",
           "GoDaddy는 갱신도 같은 가격인가요? Economy는 아닙니다. 장바구니에서 1년 플랜은 첫 해 후 정가로 돌아가 US$ 83.88에서 US$ 143.88이 됩니다. Starter는 첫 해 할인이 없어서 같은 US$ 71.88로 갱신됩니다.",
           "호스팅어 쿠폰은 갱신에도 적용되나요? 아니요. SONAR20은 신규 구매에만 적용되며, 갱신은 정가로 청구됩니다. 갱신은 [호스팅어 갱신 가이드](/ko/reviews/hostinger-renewal-sonar20-ko)를 보세요.",
-          "호스팅어 Premium에는 도메인이 포함되나요? 네. 1년 무료이며, 사이트당 메일함 2개도 함께 제공됩니다. 그 후 도메인은 호스팅어의 현재 가격으로 자동 갱신됩니다.",
-          "GoDaddy 사이트를 호스팅어로 옮길 수 있나요? 호스팅어 도움말 페이지에 따르면, 무료 이전은 다른 회사의 Web, Cloud 또는 Agency 플랜 사이트에 적용됩니다. 기존 플랜을 해지하기 전에 지원팀에 본인 플랜을 확인하세요."
+          "호스팅어 Premium에는 도메인이 포함되나요? 이 글에서 비교한 플랜에는 도메인과 사이트당 메일함 2개가 첫 1년 무료로 안내되어 있었습니다. 이후 도메인과 이메일의 갱신 요금 및 자동 갱신 설정은 각각 확인해야 합니다.",
+          "GoDaddy 사이트를 호스팅어로 옮길 수 있나요? 사이트를 만든 방식과 이전할 호스팅 플랜에 따라 지원 여부가 달라질 수 있습니다. 기존 서비스를 해지하기 전에 호스팅어 지원팀에 현재 사이트와 이전할 플랜을 알려 무료 이전 대상인지 확인하세요.",
+          "호스팅어 할인 코드는 무엇인가요? SONAR20은 할인 대상 신규 구매의 첫 계약 기간에 20% 할인을 제공하며, 갱신에는 적용되지 않습니다."
         ]
       },
       {
@@ -194624,7 +194699,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "카트의 쿠폰 칸에 SONAR20을 입력하거나 이 링크로 들어가세요. 신규 구매에 20% 할인이 적용됩니다. 이 코드는 갱신에는 적용되지 않습니다.",
+      "text": "국제 사이트 장바구니의 쿠폰 입력란에 SONAR20을 입력하거나 이 링크로 들어가세요. 할인 대상 신규 구매의 첫 계약 기간에 20% 할인을 제공하며, 갱신에는 적용되지 않습니다. 결제 전에 할인 적용액과 계약 기간을 확인하세요.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -194654,12 +194729,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "도메인과 이메일이 필요하고 2년 이상 운영한다면 호스팅어 Premium을 고르세요. SONAR20을 적용하면 한 번의 결제로 전체 기간을 채우고 Economy보다 저렴합니다.",
-        "1년짜리 프로젝트에 도메인과 이메일이 필요하다면 호스팅어 Premium을 고르세요. 그 기간에는 Economy보다 저렴하고, 갱신도 더 쌉니다."
+        "2년 또는 4년 호스팅을 선결제할 수 있다면, SONAR20을 적용한 Premium이 이 비교에서 Economy보다 저렴합니다.",
+        "1년 프로젝트에 도메인과 이메일이 필요하다면 Premium이 가격 면에서 유리했습니다. 확인 당시 호스팅 요금은 SONAR20 적용 시 US$ 19.10이었습니다."
       ],
       "skipIf": [
-        "사이트를 4년을 훌쩍 넘게 운영할 계획이고 도메인이나 이메일이 필요 없다면 GoDaddy Starter로 가세요. 갱신 비용이 가장 낮습니다.",
-        "cPanel을 원하고 첫 해, 2년, 4년, 갱신 모두에서 Premium보다 더 내도 괜찮다면 GoDaddy Economy로 가세요."
+        "도메인과 이메일이 필요 없고 장기간 운영할 계획이라면 Starter도 비교 대상입니다. Starter는 연 갱신가가 가장 낮지만, 4년 호스팅 비용은 Premium보다 US$ 211.10 높습니다.",
+        "cPanel이 필수라면 GoDaddy Starter와 Economy 중 도메인과 이메일의 첫해 무료 제공 필요 여부로 고르세요."
       ]
     }
   },
@@ -194695,8 +194770,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "选主机前，先想清楚网站会上线多久。以美元计算，用 SONAR20 的 Hostinger Premium 在每个期间都比 GoDaddy Economy 便宜。",
-    "metaDescription": "SONAR20 让 Hostinger 新购买享 20% 折扣。比较第一年、2 年和 4 年，看哪个比 GoDaddy 便宜，并列出各套餐的续费价格。",
+    "description": "按国际站美元报价，对比 Hostinger Premium 使用 SONAR20 与 GoDaddy Economy 的 1、2、4 年主机费用及续费价格，并说明首年后哪些费用另计。",
+    "metaDescription": "SONAR20 为 Hostinger 符合条件的新购买提供首期 20% 折扣。按国际站美元报价，对比 Premium 与 GoDaddy 的 1、2、4 年主机费用及续费价格。",
     "publishedAt": "2026年11月6日",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -194710,14 +194785,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "以美元计算，用 SONAR20 的 Hostinger Premium 在第一年（US$ 19.10 对 US$ 83.88）、2 年（US$ 38.21 对 US$ 155.76）、4 年（US$ 76.42 对 US$ 359.52）和续费（每年 US$ 131.88 对 US$ 143.88）上都比 GoDaddy Economy 便宜。两个套餐都附一年免费的域名和邮箱。"
+          "按本文记录的国际站美元报价及续费价格不变的假设，Hostinger Premium 使用 SONAR20 的 1、2、4 年主机费用都低于本文比较的 GoDaddy Economy 方案，年度续费报价也更低。两个套餐的域名和邮箱只免费一年，之后的费用另计。GoDaddy Starter 的年度续费价格更低，但长期总支出仍要加上首期费用比较。"
         ]
       },
       {
         "heading": "要比较的一对套餐",
         "paragraphs": [
           "在 Hostinger 的国际站上，共享主机从 Premium 起步，附一年免费的域名和邮箱。GoDaddy 中同样包含这两项的套餐是 Economy。这两个是本文主要比较的对象。两家的所有套餐都免费提供 SSL。",
-          "本文按期间回答：第一年付多少、2 年付多少、4 年付多少，以及各套餐续费时要付多少。GoDaddy 也有 Starter，它只包含网站本身，会在后面单独说明。"
+          "本文按期间回答：第一年付多少、2 年付多少、4 年付多少，以及各套餐续费时要付多少。GoDaddy 也有 Starter，它只包含网站本身，会在后面单独说明。",
+          "本文价格记录于 2026 年 11 月 6 日，来自两家国际站页面与美元购物车，没有实际购买。表中比较主机费用，不含域名和邮箱免费期后的续费，也不含另购 SSL。付款前请在结账页确认税费及其他收费。涉及未来续费的总额，均假设续费价格保持本文记录的金额。"
         ],
         "comparisonTable": {
           "headers": [
@@ -194751,7 +194827,7 @@ export const reviewsData: unknown[] = [
           "如果网站只用一年，Hostinger 用 SONAR20 的 12 个月 Premium 为 US$ 19.10。GoDaddy Economy 第一年为 US$ 83.88。Hostinger 便宜 US$ 64.78。"
         ],
         "comparisonTable": {
-          "caption": "11 月 6 日在各自购物车中读取的首期金额，没有实际购买。Hostinger 为 12 个月套餐，并使用 SONAR20。",
+          "caption": "两家购物车记录的首期主机费用，没有实际购买。Hostinger 为使用 SONAR20 的 12 个月套餐；其他费用另计。",
           "headers": [
             "套餐",
             "首期金额",
@@ -194771,7 +194847,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Hostinger 的购物车已应用黑色星期五价格：12 个月的 Premium 不用码时显示每月 US$ 1.99，用 SONAR20 后每月 US$ 1.59，与 24 个月和 48 个月套餐的月费相同。优惠码给的是新购买 20% 折扣。"
+          "查价时，Hostinger 购物车已应用黑色星期五价格：Premium 预付 12 个月，不用码的平均月费显示为 US$ 1.99，使用 SONAR20 后显示为 US$ 1.59。24 和 48 个月套餐使用码后显示的平均月费也为 US$ 1.59。这些是按预付期限换算并四舍五入后的月均金额，付款总额以购物车为准。SONAR20 为符合条件的新购买提供首期 20% 折扣。"
         ]
       },
       {
@@ -194780,7 +194856,7 @@ export const reviewsData: unknown[] = [
           "如果网站要用两年，Hostinger 用 SONAR20 的 24 个月 Premium 一次购买为 US$ 38.21。GoDaddy 的 24 个月 Economy 套餐为 US$ 155.76，比付第一年加一次续费（US$ 227.76）更便宜。Starter 没有折扣，两年费用为 US$ 143.76。"
         ],
         "comparisonTable": {
-          "caption": "同一天在各自购物车中读取的两年金额，没有实际购买。Hostinger 为 24 个月套餐，并使用 SONAR20。GoDaddy 为 24 个月套餐，比 1 年加一次续费更便宜。",
+          "caption": "Premium 与 Economy 为购物车记录的 24 个月首期主机费用，Premium 已使用 SONAR20。Starter 为计算值：US$ 71.88 加一次同价年度续费，共 US$ 143.76；假设续费价格不变。其他费用另计，没有实际购买。",
           "headers": [
             "套餐",
             "两年金额",
@@ -194809,13 +194885,13 @@ export const reviewsData: unknown[] = [
         "heading": "4 年内 Hostinger 更便宜",
         "paragraphs": [
           "差别在于两家的收费方式。Hostinger 是 48 个月一次付清，这段时间内不用续费。购物车已应用黑色星期五价格，48 个月的 Premium 显示 US$ 95.52，SONAR20 把它降到 US$ 76.42。",
-          "GoDaddy 的促销价只涵盖第一个期间，续费按标价收取。要满 4 年，最便宜的路径是 36 个月 Economy（US$ 215.64），再加一次年度续费（US$ 143.88）。"
+          "GoDaddy 的促销价只涵盖首期。按 36 个月 Economy 的 US$ 215.64 加一次年度续费 US$ 143.88 计算，四年主机费用为 US$ 359.52；这是基于续费价格不变的估算。另有 60 个月套餐，付款金额略低，但需一次预付五年。"
         ],
         "comparisonTable": {
           "headers": [
             "套餐",
             "付款方式",
-            "4 年总价"
+            "4 年主机费用"
           ],
           "rows": [
             [
@@ -194828,10 +194904,11 @@ export const reviewsData: unknown[] = [
               "36 个月 US$ 215.64，另加 1 次续费 US$ 143.88",
               "US$ 359.52"
             ]
-          ]
+          ],
+          "caption": "Premium 为 48 个月首期主机费用；Economy 为 36 个月首期加一次年度续费的估算，假设续费价格不变。域名、邮箱及其他额外费用未计入。"
         },
         "postParagraphs": [
-          "GoDaddy 的 60 个月 Economy 为 US$ 359.40，涵盖 5 年，金额与上面的 4 年方案大致相同。",
+          "记录中的 GoDaddy Economy 60 个月套餐为 US$ 359.40，比上述四年估算少 US$ 0.12，并涵盖五年。如果能接受一次付清五年，这个套餐也应纳入比较；36 个月加一次续费并非最低付款金额。",
           "以上总价都不含第一年后续费域名和邮箱的费用，两家都是如此。"
         ]
       },
@@ -194839,7 +194916,7 @@ export const reviewsData: unknown[] = [
         "heading": "过了付费期间：各套餐续费多少",
         "paragraphs": [
           "期间结束后，两家都回到标价。SONAR20 只适用于新购买，所以 Hostinger 续费按套餐标价计算，不套用优惠码。购物车显示 Premium 在 48 个月后以每月 US$ 10.99 续费 12 个月，即每年 US$ 131.88。12 个月套餐的续费价也相同。",
-          "GoDaddy 的购物车显示，Economy 会在 2027 年 11 月以 US$ 143.88 续费，比 Premium 每年多 US$ 12。"
+          "查价时，GoDaddy 的 12 个月 Economy 购物车列出的下一期年度续费价格为 US$ 143.88，比 Premium 记录的年度续费价格多 US$ 12。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hans.webp",
@@ -194852,7 +194929,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "按月套餐呢？",
         "paragraphs": [
-          "Hostinger 的 Premium 也可以按月购买，每月 US$ 12.99。SONAR20 不适用于按月套餐，每月照样收取同样的 US$ 12.99。这样用满 12 个月是 US$ 155.88，约为用优惠码的 12 个月套餐的 8 倍。它只适合短期试用。"
+          "查价时，Hostinger Premium 的月付套餐为每月 US$ 12.99，本文记录中未获得 SONAR20 折扣。若月费不变，连续使用 12 个月需 US$ 155.88，约为使用优惠码预付 12 个月套餐的 8.2 倍。月付适合只需短期使用、或不想预付一整年的人比较。"
         ]
       },
       {
@@ -194864,10 +194941,10 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "套餐",
-            "第一年",
-            "2 年总价",
-            "4 年总价",
-            "每年续费"
+            "第一年主机费用",
+            "2 年主机费用",
+            "4 年主机费用",
+            "年度续费报价"
           ],
           "rows": [
             [
@@ -194891,46 +194968,54 @@ export const reviewsData: unknown[] = [
               "US$ 359.52",
               "US$ 143.88"
             ]
-          ]
+          ],
+          "caption": "仅比较主机费用。Premium 的 1、2、4 年栏分别采用 12、24、48 个月首期套餐；Economy 的四年栏为 36 个月加一次年度续费。Starter 的两年与四年栏按每年 US$ 71.88 计算。续费估算假设价格不变；域名、邮箱与其他额外费用另计。"
         }
       },
       {
-        "heading": "域名、邮箱和 SSL：第一年后会到期的项目",
+        "heading": "域名、邮箱和 SSL：免费项目与额外费用",
         "paragraphs": [
           "Premium 和 Economy 上，域名和邮箱都是一年免费。之后两家都各自续费，上面的 4 年总价都不含这些费用。GoDaddy 的通知补充说，免费域名仍要收取 ICANN 费用。",
-          "SSL 不会到期。Hostinger 在每个套餐都安装免费证书，不需额外设置或付费。GoDaddy 所有套餐都包含 AutoSSL。Economy 的购物车另外加了 Standard SSL，一年免费，之后以 US$ 119.99 一年自动续费：它是叠加在 AutoSSL 之上的付费证书，续费可以关闭。"
+          "本文比较的套餐都包含免费 SSL：Hostinger 为免费证书，GoDaddy 为 AutoSSL。查价时，Economy 购物车另列 Standard SSL，首年免费，之后以每年 US$ 119.99 自动续费。这是 AutoSSL 之外的付费项目；如果不需要，请检查购物车及自动续费设置。"
         ]
       },
       {
-        "heading": "退款：两家都是 30 天",
+        "heading": "年付套餐退款：两家列出的期限都是 30 天",
         "paragraphs": [
-          "Hostinger 接受购买后 30 天内的退款申请。GoDaddy 的国际站也写明 30 天：套餐卡片上写 30 天，页脚通知则说，年付套餐在 30 天内可全额退款，月付套餐为 48 小时内。这一点两家不相上下。"
+          "本文记录的 Hostinger 退款申请期限为购买后 30 天。GoDaddy 国际站页脚通知写明：年付套餐在 30 天内可全额退款，月付套餐为 48 小时内。"
         ]
       },
       {
         "heading": "需要更多：Unlimited 和 Cloud Startup",
         "paragraphs": [
-          "在 Premium 之上，Hostinger 还有不限网站数的 Unlimited，以及 Cloud Startup。按同样的 20% 方式换算页面价格：Unlimited 用 SONAR20 的 48 个月为 US$ 107.14，续费每月 US$ 16.99；Cloud Startup 为 US$ 306.82，续费每月 US$ 25.99。这两个套餐没有在购物车中核查。GoDaddy 的 Deluxe 和 Ultimate 没有列入，因为它们的续费价也未核查。优惠码的规则见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+          "在 Premium 之上，本文记录的 Hostinger 页面还列有不限网站数的 Unlimited，以及 Cloud Startup。若将页面上的 48 个月首期金额乘以 0.8，Unlimited 的估算为 US$ 107.14，Cloud Startup 为 US$ 306.82；页面列出的续费月价分别为 US$ 16.99 和 US$ 25.99。这两笔首期金额由页面价格计算得出，并非购物车的确定结算额。GoDaddy Deluxe 和 Ultimate 因缺少已核对的续费价格，未纳入比较。"
+        ],
+        "links": [
+          {
+            "label": "查看 SONAR20 的适用条件与续费规则",
+            "href": "/zh-hans/coupons/hostinger"
+          }
         ]
       },
       {
         "heading": "按网站使用期间决定怎么选",
         "paragraphs": [
-          "一年，要域名和邮箱：Hostinger Premium 12 个月，用 SONAR20 为 US$ 19.10。同期间 Economy 多 US$ 64.78。",
-          "两年，要域名和邮箱：Hostinger Premium 24 个月，用 SONAR20 为 US$ 38.21。Economy 的 24 个月套餐为 US$ 155.76。",
-          "四年，要域名和邮箱：Hostinger Premium 48 个月，用 SONAR20 为 US$ 76.42，覆盖整段期间。Economy 的总价是这个数字的四倍以上。",
-          "只要网站、用很多年：GoDaddy Starter 续费最便宜，每年 US$ 71.88，但第一年、2 年和 4 年都比用 SONAR20 的 Premium 贵。",
-          "无论哪种情况，付款前都先在购物车确认续费价，促销可能变动。"
+          "只用一年，并需要首年免费的域名和邮箱：记录中的 Hostinger Premium 12 个月使用 SONAR20 为 US$ 19.10，比 Economy 少 US$ 64.78。",
+          "使用两年：Premium 24 个月使用 SONAR20 的主机费用为 US$ 38.21，Economy 24 个月为 US$ 155.76。两家的域名和邮箱在首年后都另计费用。",
+          "使用四年：Premium 48 个月使用 SONAR20 的主机费用为 US$ 76.42。若续费价格不变，Economy 的 36 个月加一次年度续费估算为 US$ 359.52；如果能接受预付五年，也可比较 US$ 359.40 的 60 个月套餐。域名和邮箱在首年后另计费用。",
+          "使用超过四年：Starter 记录的年度续费价格为 US$ 71.88，比 Premium 少 US$ 60。若 Starter 每年保持 US$ 71.88，前四年的主机费用为 US$ 287.52，比 Premium 预付 48 个月多 US$ 211.10。续费更低不代表第五年起总支出就更低，应把预计使用年数的首期与续费费用相加。",
+          "付款前确认所选期限、首期付款总额、续费价格，以及免费期后仍需要的域名和邮箱费用。促销与续费报价可能变动。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "Hostinger 和 GoDaddy 哪个更好？以美元计算，用 SONAR20 的 Hostinger Premium 在第一年、2 年、4 年和续费时，都比 GoDaddy Economy 便宜。GoDaddy Starter 只在续费时胜出，而且清单上没有域名或邮箱。更多判断标准见[如何选择网站主机](/zh-hans/reviews/choose-web-host-hostinger-zh-hans)。",
+          "Hostinger 和 GoDaddy 哪个更好？按本文记录的国际站美元报价，Premium 使用 SONAR20 的 12、24 个月主机费用低于 Economy 同期套餐；48 个月主机费用也低于 Economy 的 36 个月加一次年度续费估算，后者假设续费价格不变。Premium 记录的年度续费价格低于 Economy。Starter 的年度续费价格更低，但首期更贵，不能据此判定长期总支出最低。其他选择标准见[如何选择网站主机](/zh-hans/reviews/choose-web-host-hostinger-zh-hans)。",
           "GoDaddy 续费价会一样吗？Economy 不一样：购物车中，一年套餐在第一年后会从 US$ 83.88 回到标价 US$ 143.88。Starter 没有首年折扣，续费价同样是 US$ 71.88。",
           "Hostinger 优惠码能用在续费上吗？不能。SONAR20 只适用于新购买，续费按原价计算。续费请看 [Hostinger 续费指南](/zh-hans/reviews/hostinger-renewal-sonar20-zh-hans)。",
-          "Hostinger Premium 附域名吗？附，一年免费，并包含每个网站 2 个邮箱。一年过后，域名会自行续费，价格以 Hostinger 当时的标价为准。",
-          "可以把网站从 GoDaddy 迁到 Hostinger 吗？Hostinger 的说明页写道，免费迁移涵盖来自其他公司的 Web、Cloud 或 Agency 套餐网站。取消旧套餐前，请先向客服确认你的套餐。"
+          "Hostinger Premium 附域名吗？本文记录的套餐包含一年免费域名，以及每个网站 2 个免费一年的邮箱；一年后继续使用这些服务需另付费，请确认各自的续费价格与自动续费设置。",
+          "可以把网站从 GoDaddy 迁到 Hostinger 吗？Hostinger 的说明页写道，免费迁移涵盖来自其他公司的 Web、Cloud 或 Agency 套餐网站。取消旧套餐前，请先向客服确认你的套餐。",
+          "Hostinger 的优惠码是什么？SONAR20 为符合条件的新购买提供首期 20% 折扣；续费按标价计算，本文记录的 Premium 月付套餐未获得这项折扣。"
         ]
       },
       {
@@ -194943,7 +195028,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接进入：首个周期享 20% 折扣，只适用于新购买；续费按标价收费，没有折扣。",
+      "text": "在国际站购物车的优惠码栏输入 SONAR20，或通过本文链接查看套餐。符合条件的新购买首期可享 20% 折扣；付款前确认折扣金额及续费价格。本文记录的 Premium 月付套餐未获得折扣，续费也按标价计算。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -194973,12 +195058,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "需要域名和邮箱、网站要上线 2 年以上，选 Hostinger Premium：用 SONAR20 一次购买就覆盖整段时间，而且比 Economy 便宜。",
-        "项目只做一年、需要域名和邮箱，选 Hostinger Premium：这段期间它比 Economy 便宜，续费也更便宜。"
+        "网站预计使用两年或四年，且能预付相应期限：按本文记录的价格及续费价格不变的假设，Premium 24 或 48 个月套餐使用 SONAR20 后，主机费用低于 Economy 的对应比较方案。域名和邮箱只免费一年。",
+        "项目只做一年，且需要首年免费的域名和邮箱：本文记录的 Premium 12 个月套餐使用 SONAR20 为 US$ 19.10，比 Economy 少 US$ 64.78。"
       ],
       "skipIf": [
-        "网站会用超过 4 年，又不需要域名和邮箱，选 GoDaddy Starter：续费最便宜。",
-        "想要 cPanel，并接受首期、2 年、4 年和续费都比 Premium 贵，就选 GoDaddy Economy。"
+        "优先考虑较低的年度续费支出，且不需要套餐赠送域名和邮箱：可比较 GoDaddy Starter，但须先计算预计使用期限内的总费用；使用超过四年并不自动代表 Starter 的总支出更低。",
+        "一定要使用 cPanel：本文列出的 GoDaddy Starter 和 Economy 都提供 cPanel，请按网站容量及首年域名、邮箱需求选择。"
       ]
     }
   },
@@ -195014,8 +195099,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "選主機前，先想清楚網站會上線多久。以美元計算，用 SONAR20 的 Hostinger Premium 在每個期間都比 GoDaddy Economy 便宜。",
-    "metaDescription": "SONAR20 讓 Hostinger 新購買享 20% 折扣。比較第一年、2 年和 4 年，看哪個比 GoDaddy 便宜，並列出各方案的續訂價格。",
+    "description": "依國際站美元報價，比較 Hostinger Premium 用 SONAR20 與 GoDaddy Economy 的 1、2、4 年主機費及續訂價，並說明首年後哪些費用另計。",
+    "metaDescription": "SONAR20 為 Hostinger 符合條件的新購買提供首期 20% 折扣。依國際站美元報價，比較 Premium 與 GoDaddy 的 1、2、4 年主機費及續訂價。",
     "publishedAt": "2026年11月6日",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -195029,14 +195114,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "以美元計算，用 SONAR20 的 Hostinger Premium 在第一年（US$ 19.10 對 US$ 83.88）、2 年（US$ 38.21 對 US$ 155.76）、4 年（US$ 76.42 對 US$ 359.52）和續訂（每年 US$ 131.88 對 US$ 143.88）上都比 GoDaddy Economy 便宜。兩個方案都附一年免費的網域和電子郵件。"
+          "依本文記錄的國際站美元報價及續訂價不變的假設，Hostinger Premium 使用 SONAR20 的 1、2、4 年主機費都低於本文比較的 GoDaddy Economy 方案，年度續訂報價也較低。兩個方案的網域和電子郵件只免費一年，之後的費用另計。GoDaddy Starter 的年度續訂價較低，但長期總支出仍要加上首期費用比較。"
         ]
       },
       {
         "heading": "要比較的一對方案",
         "paragraphs": [
           "在 Hostinger 的國際站上，共享主機從 Premium 開始，附一年免費的網域和電子郵件。GoDaddy 同樣包含這兩項的方案是 Economy。這兩個是本文主要比較的對象。兩家的所有方案都免費提供 SSL。",
-          "本文依期間回答：第一年付多少、2 年付多少、4 年付多少，以及各方案續訂時要付多少。GoDaddy 也有 Starter，它只包含網站本身，會在後面單獨說明。"
+          "本文依期間回答：第一年付多少、2 年付多少、4 年付多少，以及各方案續訂時要付多少。GoDaddy 也有 Starter，它只包含網站本身，會在後面單獨說明。",
+          "本文價格記錄於 2026 年 11 月 6 日，來自兩家國際站頁面與美元購物車，沒有實際購買。表中比較主機費，不含網域與電子郵件免費期後的續訂費，也不含另購 SSL。付款前請在結帳頁確認稅費及其他收費。涉及未來續訂的總額，均假設續訂價維持本文記錄的金額。"
         ],
         "comparisonTable": {
           "headers": [
@@ -195070,7 +195156,7 @@ export const reviewsData: unknown[] = [
           "如果網站只用一年，Hostinger 用 SONAR20 的 12 個月 Premium 是 US$ 19.10。GoDaddy Economy 第一年是 US$ 83.88。Hostinger 便宜 US$ 64.78。"
         ],
         "comparisonTable": {
-          "caption": "11 月 6 日在各自購物車中讀取的首期金額，沒有實際購買。Hostinger 為 12 個月方案，並使用 SONAR20。",
+          "caption": "兩家購物車記錄的首期主機費，沒有實際購買。Hostinger 為使用 SONAR20 的 12 個月方案；其他費用另計。",
           "headers": [
             "方案",
             "首期金額",
@@ -195090,7 +195176,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Hostinger 的購物車已套用黑色星期五價格：12 個月的 Premium 不用碼時顯示每月 US$ 1.99，用 SONAR20 後每月 US$ 1.59，與 24 個月和 48 個月方案的月費相同。優惠碼給的是新購買 20% 折扣。"
+          "查價時，Hostinger 購物車已套用黑色星期五價格：Premium 預付 12 個月，不用碼的平均月費顯示為 US$ 1.99，使用 SONAR20 後顯示為 US$ 1.59。24 和 48 個月方案使用碼後顯示的平均月費也為 US$ 1.59。這些是預付期間換算並四捨五入後的月均金額，付款總額以購物車為準。SONAR20 為符合條件的新購買提供首期 20% 折扣。"
         ]
       },
       {
@@ -195099,7 +195185,7 @@ export const reviewsData: unknown[] = [
           "如果網站要用兩年，Hostinger 用 SONAR20 的 24 個月 Premium 一次購買是 US$ 38.21。GoDaddy 的 24 個月 Economy 方案是 US$ 155.76，比付第一年加一次續訂（US$ 227.76）更便宜。Starter 沒有折扣，兩年費用是 US$ 143.76。"
         ],
         "comparisonTable": {
-          "caption": "同一天在各自購物車中讀取的兩年金額，沒有實際購買。Hostinger 為 24 個月方案，並使用 SONAR20。GoDaddy 為 24 個月方案，比 1 年加一次續訂更便宜。",
+          "caption": "Premium 與 Economy 為購物車記錄的 24 個月首期主機費，Premium 已套用 SONAR20。Starter 為計算值：US$ 71.88 加一次同價年度續訂，共 US$ 143.76；假設續訂價不變。其他費用另計，沒有實際購買。",
           "headers": [
             "方案",
             "兩年金額",
@@ -195128,13 +195214,13 @@ export const reviewsData: unknown[] = [
         "heading": "4 年內 Hostinger 較便宜",
         "paragraphs": [
           "差別在於兩家的收費方式。Hostinger 是 48 個月一次付清，這段時間內不用續訂。購物車已套用黑色星期五價格，48 個月的 Premium 顯示 US$ 95.52，SONAR20 把它降到 US$ 76.42。",
-          "GoDaddy 的促銷價只涵蓋第一個期間，續訂按標價收取。要滿 4 年，最便宜的路徑是 36 個月 Economy（US$ 215.64），再加一次年度續訂（US$ 143.88）。"
+          "GoDaddy 的促銷價只涵蓋首期。若以 36 個月 Economy 的 US$ 215.64 加上一次年度續訂 US$ 143.88 計算，四年主機費為 US$ 359.52；這是假設續訂價不變的試算。另有 60 個月方案，付款金額略低，但需一次預付五年。"
         ],
         "comparisonTable": {
           "headers": [
             "方案",
             "付款方式",
-            "4 年總價"
+            "4 年主機費"
           ],
           "rows": [
             [
@@ -195147,10 +195233,11 @@ export const reviewsData: unknown[] = [
               "36 個月 US$ 215.64，另加 1 次續訂 US$ 143.88",
               "US$ 359.52"
             ]
-          ]
+          ],
+          "caption": "Premium 為 48 個月首期主機費；Economy 為 36 個月首期加一次年度續訂的試算，假設續訂價不變。網域、電子郵件及其他額外費用未計入。"
         },
         "postParagraphs": [
-          "GoDaddy 的 60 個月 Economy 是 US$ 359.40，涵蓋 5 年，金額與上面的 4 年方案大致相同。",
+          "記錄中的 GoDaddy Economy 60 個月方案為 US$ 359.40，比上述四年試算少 US$ 0.12，並涵蓋五年。若能接受一次付清五年，這個方案也應納入比較；36 個月加一次續訂並非最低付款金額。",
           "以上總價都不含第一年後續訂網域和電子郵件的費用，兩家都是如此。"
         ]
       },
@@ -195158,7 +195245,7 @@ export const reviewsData: unknown[] = [
         "heading": "過了付費期間：各方案續訂多少",
         "paragraphs": [
           "期間結束後，兩家都回到標價。SONAR20 只適用於新購買，所以 Hostinger 續訂按方案標價計算，不套用優惠碼。購物車顯示 Premium 在 48 個月後以每月 US$ 10.99 續訂 12 個月，即每年 US$ 131.88。12 個月方案的續訂價也相同。",
-          "GoDaddy 的購物車顯示，Economy 會在 2027 年 11 月以 US$ 143.88 續訂，比 Premium 每年多 US$ 12。"
+          "查價時，GoDaddy 的 12 個月 Economy 購物車列出的下一期年度續訂價為 US$ 143.88，比 Premium 記錄的年度續訂價多 US$ 12。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hant.webp",
@@ -195171,7 +195258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "按月方案呢？",
         "paragraphs": [
-          "Hostinger 的 Premium 也可以按月購買，每月 US$ 12.99。SONAR20 不適用於按月方案，每月照樣收取同樣的 US$ 12.99。這樣用滿 12 個月是 US$ 155.88，約為用優惠碼的 12 個月方案的 8 倍。它只適合短期試用。"
+          "查價時，Hostinger Premium 的月繳方案為每月 US$ 12.99，本文記錄中未取得 SONAR20 折扣。若月費不變，連續使用 12 個月需 US$ 155.88，約為使用優惠碼預付 12 個月方案的 8.2 倍。月繳適合只需短期使用、或不想預付一整年的人比較。"
         ]
       },
       {
@@ -195183,10 +195270,10 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "方案",
-            "第一年",
-            "2 年總價",
-            "4 年總價",
-            "每年續訂"
+            "第一年主機費",
+            "2 年主機費",
+            "4 年主機費",
+            "年度續訂報價"
           ],
           "rows": [
             [
@@ -195210,46 +195297,54 @@ export const reviewsData: unknown[] = [
               "US$ 359.52",
               "US$ 143.88"
             ]
-          ]
+          ],
+          "caption": "僅比較主機費。Premium 的 1、2、4 年欄分別採用 12、24、48 個月首期方案；Economy 的四年欄為 36 個月加一次年度續訂。Starter 的兩年與四年欄按每年 US$ 71.88 計算。續訂試算假設價格不變；網域、電子郵件與其他額外費用另計。"
         }
       },
       {
-        "heading": "網域、電子郵件和 SSL：第一年後會到期的項目",
+        "heading": "網域、電子郵件和 SSL：免費項目與額外費用",
         "paragraphs": [
           "Premium 和 Economy 上，網域和電子郵件都是一年免費。之後兩家都各自續訂，上面的 4 年總價都不含這些費用。GoDaddy 的通知補充說，免費網域仍要收取 ICANN 費用。",
-          "SSL 不會到期。Hostinger 在每個方案都安裝免費憑證，不需額外設定或付費。GoDaddy 所有方案都包含 AutoSSL。Economy 的購物車另外加了 Standard SSL，一年免費，之後以 US$ 119.99 一年自動續訂：它是疊加在 AutoSSL 之上的付費憑證，續訂可以關閉。"
+          "本文比較的方案都包含免費 SSL：Hostinger 為免費憑證，GoDaddy 為 AutoSSL。查價時，Economy 購物車另列 Standard SSL，首年免費，之後以每年 US$ 119.99 自動續訂。這是 AutoSSL 之外的付費項目；若不需要，請檢查購物車及自動續訂設定。"
         ]
       },
       {
-        "heading": "退款：兩家都是 30 天",
+        "heading": "年繳方案退款：兩家列出的期限都是 30 天",
         "paragraphs": [
-          "Hostinger 接受購買後 30 天內的退款申請。GoDaddy 的國際站也寫明 30 天：方案卡片上寫 30 天，頁尾通知則說，年繳方案在 30 天內可全額退款，月繳方案為 48 小時內。這一點兩家不相上下。"
+          "本文記錄的 Hostinger 退款申請期限為購買後 30 天。GoDaddy 國際站頁尾通知寫明：年繳方案在 30 天內可全額退款，月繳方案為 48 小時內。"
         ]
       },
       {
         "heading": "需要更多：Unlimited 和 Cloud Startup",
         "paragraphs": [
-          "在 Premium 之上，Hostinger 還有不限網站數的 Unlimited，以及 Cloud Startup。以同樣的 20% 方式換算頁面價格：Unlimited 用 SONAR20 的 48 個月為 US$ 107.14，續訂每月 US$ 16.99；Cloud Startup 為 US$ 306.82，續訂每月 US$ 25.99。這兩個方案沒有在購物車中查核。GoDaddy 的 Deluxe 和 Ultimate 沒有列入，因為它們的續訂價也未查核。優惠碼的規則見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
+          "在 Premium 之上，本文記錄的 Hostinger 頁面還列有不限網站數的 Unlimited，以及 Cloud Startup。若將頁面上的 48 個月首期金額乘以 0.8，Unlimited 的試算為 US$ 107.14，Cloud Startup 為 US$ 306.82；頁面列出的續訂月費分別為 US$ 16.99 和 US$ 25.99。這兩筆首期金額由頁面價格計算得出，並非購物車的確定結算額。GoDaddy Deluxe 和 Ultimate 因缺少已核對的續訂價，未納入比較。"
+        ],
+        "links": [
+          {
+            "label": "查看 SONAR20 的適用條件與續訂規則",
+            "href": "/zh-hant/coupons/hostinger"
+          }
         ]
       },
       {
         "heading": "依網站使用期間決定怎麼選",
         "paragraphs": [
-          "一年，要網域和電子郵件：Hostinger Premium 12 個月，用 SONAR20 為 US$ 19.10。同期間 Economy 多 US$ 64.78。",
-          "兩年，要網域和電子郵件：Hostinger Premium 24 個月，用 SONAR20 為 US$ 38.21。Economy 的 24 個月方案為 US$ 155.76。",
-          "四年，要網域和電子郵件：Hostinger Premium 48 個月，用 SONAR20 為 US$ 76.42，涵蓋整段期間。Economy 的總價是這個數字的四倍以上。",
-          "只要網站、使用很多年：GoDaddy Starter 續訂最便宜，每年 US$ 71.88，但第一年、2 年和 4 年都比用 SONAR20 的 Premium 貴。",
-          "無論哪種情況，付款前都先在購物車確認續訂價，促銷可能變動。"
+          "只用一年，並需要首年免費的網域和電子郵件：記錄中的 Hostinger Premium 12 個月使用 SONAR20 為 US$ 19.10，比 Economy 少 US$ 64.78。",
+          "使用兩年：Premium 24 個月使用 SONAR20 的主機費為 US$ 38.21，Economy 24 個月為 US$ 155.76。兩家的網域和電子郵件在第一年後都另計。",
+          "使用四年：Premium 48 個月使用 SONAR20 的主機費為 US$ 76.42。若續訂價不變，Economy 的 36 個月加一次年度續訂試算為 US$ 359.52；若能接受預付五年，也可比較 US$ 359.40 的 60 個月方案。網域和電子郵件在第一年後另計。",
+          "使用超過四年：Starter 記錄的年度續訂價為 US$ 71.88，比 Premium 少 US$ 60。若 Starter 每年維持 US$ 71.88，前四年的主機費為 US$ 287.52，比 Premium 預付 48 個月多 US$ 211.10。續訂較低不代表第五年起總支出就較低，應把預計使用年數的首期與續訂費加總。",
+          "付款前確認所選期間、首期付款總額、續訂價，以及免費期後仍需要的網域和電子郵件費用。促銷與續訂報價可能變動。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "Hostinger 和 GoDaddy 哪個比較好？以美元計算，用 SONAR20 的 Hostinger Premium 在第一年、2 年、4 年和續訂時，都比 GoDaddy Economy 便宜。GoDaddy Starter 只在續訂時勝出，而且清單上沒有網域或電子郵件。更多判斷標準見[如何選擇網站主機](/zh-hant/reviews/choose-web-host-hostinger-zh-hant)。",
+          "Hostinger 和 GoDaddy 哪個比較好？依本文記錄的國際站美元報價，Premium 使用 SONAR20 的 12、24 個月主機費低於 Economy 同期方案；48 個月主機費也低於 Economy 的 36 個月加一次年度續訂試算，後者假設續訂價不變。Premium 記錄的年度續訂價低於 Economy。Starter 的年度續訂價更低，但首期較貴，不能據此判定長期總支出最低。其他選擇標準見[如何選擇網站主機](/zh-hant/reviews/choose-web-host-hostinger-zh-hant)。",
           "GoDaddy 續訂價會一樣嗎？Economy 不一樣：購物車中，一年方案在第一年後會從 US$ 83.88 回到標價 US$ 143.88。Starter 沒有首年折扣，續訂價同樣是 US$ 71.88。",
           "Hostinger 優惠碼能用在續訂上嗎？不能。SONAR20 只適用於新購買，續訂按原價計算。續訂請看 [Hostinger 續訂指南](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)。",
-          "Hostinger Premium 附網域嗎？附，一年免費，並包含每個網站 2 個信箱。一年過後，網域會自行續訂，價格以 Hostinger 當時的標價為準。",
-          "可以把網站從 GoDaddy 搬到 Hostinger 嗎？Hostinger 的說明頁寫道，免費遷移涵蓋來自其他公司的 Web、Cloud 或 Agency 方案網站。取消舊方案前，請先向客服確認你的方案。"
+          "Hostinger Premium 附網域嗎？本文記錄的方案包含一年免費網域，以及每個網站 2 個免費一年的信箱；一年後繼續使用這些服務需另付費，請確認各自的續訂價格與自動續訂設定。",
+          "可以把網站從 GoDaddy 搬到 Hostinger 嗎？Hostinger 的說明頁寫道，免費遷移涵蓋來自其他公司的 Web、Cloud 或 Agency 方案網站。取消舊方案前，請先向客服確認你的方案。",
+          "Hostinger 的優惠碼是什麼？SONAR20 為符合條件的新購買提供首期 20% 折扣；續訂按標價計算，本文記錄的 Premium 月繳方案未取得這項折扣。"
         ]
       },
       {
@@ -195262,7 +195357,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
+      "text": "在國際站購物車的優惠碼欄位輸入 SONAR20，或從本文連結查看方案。符合條件的新購買首期可享 20% 折扣；付款前確認折扣金額及續訂價。本文記錄的 Premium 月繳方案未取得折扣，續訂也按標價計算。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -195292,12 +195387,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "需要網域和電子郵件、網站要上線 2 年以上，選 Hostinger Premium：用 SONAR20 一次購買就涵蓋整段時間，而且比 Economy 便宜。",
-        "專案只做一年、需要網域和電子郵件，選 Hostinger Premium：這段期間它比 Economy 便宜，續訂也比較便宜。"
+        "網站預計使用兩年或四年，且能預付相應期間：依本文記錄的價格及續訂價不變的假設，Premium 24 或 48 個月方案使用 SONAR20 後，主機費低於 Economy 的對應比較方案。網域和電子郵件只免費一年。",
+        "專案只做一年，且需要首年免費的網域和電子郵件：本文記錄的 Premium 12 個月方案使用 SONAR20 為 US$ 19.10，比 Economy 少 US$ 64.78。"
       ],
       "skipIf": [
-        "網站會用超過 4 年，又不需要網域和電子郵件，選 GoDaddy Starter：續訂最便宜。",
-        "想要 cPanel，並接受首期、2 年、4 年和續訂都比 Premium 貴，就選 GoDaddy Economy。"
+        "優先考慮較低的年度續訂支出，且不需要方案附贈網域和電子郵件：可比較 GoDaddy Starter，但須先加總預計使用期間的費用；使用超過四年並不自動代表 Starter 的總支出較低。",
+        "一定要使用 cPanel：本文列出的 GoDaddy Starter 和 Economy 都提供 cPanel，請依網站容量及首年網域、電子郵件需求選擇。"
       ]
     }
   },

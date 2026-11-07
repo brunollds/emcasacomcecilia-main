@@ -129,9 +129,9 @@
         "O software não tem custo nos dois casos. O gasto real vem de três lugares:"
       ],
       "bullets": [
-        "**Servidor.** Pode ser o seu computador, ligado o tempo todo, ou um VPS, um servidor virtual alugado. O VPS dá acesso root, o controle total da máquina, mas quem atualiza e protege o sistema é você. Quanto mais memória RAM, mais programas rodam ao mesmo tempo sem travar.",
-        "**Plano gerenciado.** A Hostinger instala, atualiza e mantém o assistente. OpenClaw e Hermes Agent estão no mesmo plano, \"Apps de automação com IA\".",
-        "**Modelo de IA.** O assistente pede as respostas a um modelo, como Claude, GPT ou Gemini, que cobra pelo uso. Há duas formas de pagar: uma chave de API própria, em que o provedor cobra direto de você, ou créditos de IA comprados na Hostinger. O gerenciado do OpenClaw e o do Hermes Agent trazem saldo inicial; a recarga não aparece em página pública, então confira no painel. No Nous Portal, o preço não está informado na página do projeto."
+        "**Servidor ou plano gerenciado.** Você pode executar o agente no próprio computador, alugar um VPS e administrá-lo ou contratar a instalação e manutenção gerenciadas. Compare recursos e responsabilidade de operação: RAM sozinha não garante que uma carga rode sem travar.",
+        "**Na Hostinger.** OpenClaw e Hermes Agent aparecem no mesmo plano de aplicativos de automação com IA. Os planos e preços em reais estão na tabela abaixo.",
+        "**Modelo de IA.** O assistente usa um modelo externo para responder. O custo depende do modelo escolhido e do número de conversas, e as formas de pagar estão em Antes de instalar. No Nous Portal, o preço não está informado na página do projeto."
       ],
       "postParagraphs": [
         "Os preços de servidor e de plano estão numa tabela só, no capítulo Onde rodar na Hostinger, mais abaixo. O custo mensal do uso de modelo não está informado nas fontes: depende do modelo escolhido e do número de conversas. Por isso este guia não traz estimativa de total por mês."
@@ -143,7 +143,7 @@
         "Antes de começar, confirme três coisas. Valem para os dois agentes."
       ],
       "bullets": [
-        "**Modelo de IA.** O agente não responde sozinho: ele pede as respostas a um modelo de outra empresa. Na Hostinger, você usa os créditos de IA do plano ou a sua chave de API, que o programa usa para falar com o provedor. Quem cobra pelo uso é o provedor, direto de você.",
+        "**Modelo de IA.** Escolha a forma de acesso e de cobrança: com chave de API própria, o provedor cobra diretamente; com créditos da Hostinger, confira saldo e condições na plataforma. Não trate as duas formas como cobrança direta do provedor.",
         "**Um canal de mensagem.** O Telegram é o caminho mais simples. Você cria o bot no BotFather, o bot oficial do Telegram para criar bots, e guarda o token. O WhatsApp entra como aparelho vinculado, com leitura de QR code.",
         "**Quem cuida do servidor.** No gerenciado, a Hostinger atualiza e mantém a segurança. No VPS, a atualização é sua, pelo botão Update do Docker Manager, e a segurança do servidor também. Docker é o programa que roda cada aplicativo isolado num contêiner."
       ],
@@ -236,15 +236,15 @@
         ]
       },
       "postParagraphs": [
-        "No gerenciado, o plano traz saldo inicial de créditos de IA, e o que passar dele é cobrado conforme o consumo. No VPS, a Hostinger instala o assistente com Docker, e a atualização e a segurança do servidor ficam com você.",
-        "O gerenciado tem 30 dias para pedir reembolso. No VPS, depois de um reembolso de VPS concluído, há 180 dias de carência até o próximo. Upgrades de VPS e pagamentos em criptomoeda ficam fora do reembolso.",
+        "No gerenciado, confira na oferta e no painel se há créditos de IA incluídos, qual é o saldo e o que acontece quando ele acaba; não presuma continuidade nem cobrança automática depois do esgotamento. No VPS, a Hostinger instala o assistente com Docker, e a atualização e a segurança do servidor ficam com você.",
+        "O gerenciado tem 30 dias para pedir reembolso, conforme as condições do produto; no VPS, reembolsos repetidos seguem regras próprias. Upgrades de VPS e pagamentos em criptomoeda ficam fora do reembolso.",
         "Se você quer a conta de requisitos antes de escolher o plano, leia o [melhor VPS para o OpenClaw](/reviews/melhor-vps-para-openclaw). Para a campanha, veja [a Black Friday da Hostinger](/reviews/black-friday-hostinger)."
       ]
     },
     {
       "heading": "Cupom SONAR20",
       "paragraphs": [
-        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Confira o valor no carrinho antes de pagar.",
+        "Use **SONAR20** no carrinho: 20% no primeiro período de uma compra nova elegível, mensal ou anual, inclusive para quem já tem conta. Registro de domínio e renovação ficam fora do desconto. Confira as condições na [página da Hostinger](/cupons/hostinger).",
         "Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
       ]
     },
@@ -256,7 +256,7 @@
         "Precisa saber programar? Para subir o gerenciado, não: você escolhe os canais e cola o token. No VPS, é preciso saber o básico de servidor, como root, Docker e atualizações. Programar só entra se você quiser mexer no código do projeto.",
         "É seguro? Depende de como você usa. As duas políticas de segurança pedem o mesmo cuidado: uso por uma pessoa ou uma equipe que confia entre si, sem exposição direta à internet e com revisão do que você instala de terceiros.",
         "Qual escolher se já uso o Claude Code? O Claude Code é uma ferramenta para programar no terminal e não substitui nenhum dos dois. Os dois aceitam chave da Anthropic: o OpenClaw lista a Anthropic entre os provedores, e o README do Hermes Agent traz a chave da Anthropic entre os segredos. Se você quer um agente que aprende com o uso, o Hermes Agent combina melhor. Se quer muitos canais e app no celular, o OpenClaw.",
-        "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+        "O SONAR20 vale para quem já é cliente da Hostinger? Pode valer numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
       ]
     },
     {
@@ -280,7 +280,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+    "text": "SONAR20: 20% no primeiro período de uma compra nova elegível. Registro de domínio e renovação não recebem esse desconto.",
     "label": "Ver os planos com o SONAR20",
     "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
