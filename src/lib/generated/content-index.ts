@@ -75685,7 +75685,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, em empresa e regras de compra: a loja pertence à GDS Grow Dietary Supplements do Brasil, com CNPJ ativo desde 2014, e publica regras de troca, frete e atendimento. A marca se apresenta como brasileira, apesar do USA no nome. O capítulo Vale a pena comprar reúne os cuidados antes de fechar o pedido; para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
+          "Sim, em empresa e regras de compra: a loja pertence à GDS Grow Dietary Supplements do Brasil, com CNPJ ativo desde 2014, e publica regras de troca, frete e atendimento. A marca se apresenta como brasileira, apesar do USA no nome. O [cupom Black Skull](/cupons/black-skull) traz o CECILIA10, 10% OFF em todo o site, inclusive em itens em promoção."
         ]
       },
       {
@@ -81860,7 +81860,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de catálogo de outubro, o Whey 80% HD e o Creator, da Black Skull, são os mais baratos por grama de proteína e por dose de creatina. A Max Titanium tem mais opções de whey 3W com sabor e vende a creatina Creapure. O que pesa é o critério: menor preço por proteína ou mais proteína por dose."
+          "Nos preços de catálogo de outubro, o Whey 80% HD e o Creator, da Black Skull, são os mais baratos por grama de proteína e por dose de creatina, e a Max Titanium tem mais opções de whey 3W com sabor e vende a creatina Creapure. O que pesa é o critério: menor preço por proteína ou mais proteína por dose. O CECILIA10 dá 10% OFF na Black Skull."
         ]
       },
       {
@@ -102755,7 +102755,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, a Black Skull sai mais barata que a Dux no custo por 100 g de whey e de creatina no cartão. Só a Dux declara o selo Creapure e vende whey isolado nesta comparação. A decisão depende da prioridade: menor preço por grama ou isolado e Creapure declarado."
+          "Nos preços de outubro, a Black Skull sai mais barata que a Dux no custo por 100 g de whey e de creatina no cartão. Só a Dux declara Creapure e vende whey isolado. A escolha é entre menor preço por grama e isolado com Creapure; na Black Skull vale o CECILIA10, com 10% OFF no site todo."
         ]
       },
       {
@@ -122560,7 +122560,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual creatina da Black Skull comprar",
         "paragraphs": [
-          "Se você quer só creatina, o Creator refil de 500 g tinha o menor preço por grama entre as avulsas da Black Skull. Creator e Creatine sem sabor listam creatina monohidratada; o Turbo acrescenta maltodextrina. Para 1 kg, compare os kits à parte, pois o volume de compra muda a conta."
+          "Se você quer só creatina, o Creator refil de 500 g tinha o menor preço por grama entre as avulsas da Black Skull. Creator e Creatine sem sabor listam creatina monohidratada; o Turbo acrescenta maltodextrina. Para 1 kg, compare os kits à parte; o CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -123538,7 +123538,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: BOPE ou Bone Crusher",
         "paragraphs": [
-          "Pelo rótulo, o BOPE ganha no preço por dose e o Bone Crusher ganha em beta-alanina, arginina e menos carboidrato. No catálogo de outubro, nenhum pré-treino da Black Skull era sem cafeína, e o Legacy é o que tem mais por dose. O que pesa é o preço por dose e o tamanho do pote."
+          "Pelo rótulo, o BOPE ganha no preço por dose e o Bone Crusher ganha em beta-alanina, arginina e menos carboidrato. No catálogo de outubro, nenhum pré-treino da Black Skull era sem cafeína, e o Legacy é o que tem mais por dose, então o que pesa é o preço por dose e o tamanho do pote. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -123837,7 +123837,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Black Skull comprar",
         "paragraphs": [
-          "O 80% HD Refil 900 g tem o menor custo por proteína entre as versões comparadas. Para uma mistura de proteínas, o 100% HD de 1,8 kg tem o menor custo da linha 100% HD, e o 3W Core declara 31 g de proteína por porção, com custo maior por proteína."
+          "O 80% HD Refil 900 g tem o menor custo por proteína entre as versões comparadas. Para uma mistura, o 100% HD de 1,8 kg tem o menor custo da linha 100% HD, e o 3W Core declara 31 g por porção, com custo maior por proteína. O CECILIA10 dá 10% OFF em todo o site da Black Skull."
         ]
       },
       {
@@ -125527,7 +125527,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda o peso da porção, o carboidrato e o preço por grama. Entre as opções com sabor, a Creatine Black Skull de 300 g tem o menor custo por grama de creatina; a Max 7Belo declara carboidrato em quantidade não significativa."
+          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda o peso da porção, o carboidrato e o preço por grama. Entre as com sabor, a Creatine Black Skull de 300 g tem o menor custo por grama de creatina; a Max 7Belo declara carboidrato em quantidade não significativa. Na Black Skull, o CECILIA10 dá 10% OFF."
         ]
       },
       {
@@ -125775,7 +125775,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Skull tem a creatina mais barata por 100 g de produto e a whey 80% HD mais barata por 100 g de proteína, entre os tamanhos comparados. O menor preço da Integralmédica fica acima nas duas contas. Nas fontes oficiais, são empresas diferentes; o veredito por perfil está em Qual escolher."
+          "A Black Skull tem a creatina mais barata por 100 g de produto e a whey 80% HD mais barata por 100 g de proteína, entre os tamanhos comparados, e o menor preço da Integralmédica fica acima nas duas contas. Nas fontes oficiais, são empresas diferentes. Na Black Skull, o CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -175410,7 +175410,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, sim: o whey 80% HD declara 23 g de proteína em cada 30 g de dose e teve o menor custo por proteína entre os cinco wheys comparados. O nome \"100%\" do 100% HD não indica a porcentagem de proteína do pó, e a Creator traz só creatina monohidratada."
+          "Pelo rótulo, sim: o whey 80% HD declara 23 g de proteína em cada 30 g de dose e teve o menor custo por proteína entre os cinco wheys comparados. O \"100%\" do 100% HD não indica a proteína do pó, e a Creator traz só creatina monohidratada. O CECILIA10 dá 10% OFF em todo o site da Black Skull."
         ]
       },
       {
