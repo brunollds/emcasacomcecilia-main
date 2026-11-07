@@ -160476,7 +160476,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Antes de escolher, confira se o plano atende à aplicação, ao espaço e ao backup do projeto, não só ao número de sites."
+          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Antes de escolher, confira se o plano atende à aplicação, ao espaço e ao backup do projeto, não só ao número de sites. O SONAR20 dá 20% na compra nova da Hostinger, não na renovação."
         ]
       },
       {
@@ -160814,7 +160814,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. Start with your application's requirements, not just site count, then compare the monthly price with the renewal next to it, in the table below."
+          "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. Start with your application's requirements, not just site count. SONAR20 gives 20% off a new Hostinger purchase, not a renewal."
         ]
       },
       {
@@ -161055,7 +161055,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Por la renovación, el Premium de Hostinger es el plan más barato, y el Unlimited es el de muchos sitios, sin límite de sitios. Antes de elegir, confirma que el plan cubre la aplicación, el espacio y el backup, no solo la cantidad de sitios."
+          "Por la renovación, el Premium de Hostinger es el plan más barato, y el Unlimited es el de muchos sitios, sin límite de sitios. Antes de elegir, confirma que el plan cubre la aplicación, el espacio y el backup, no solo la cantidad de sitios. El código SONAR20 da 20 % en compra nueva, no en la renovación."
         ]
       },
       {
@@ -161296,7 +161296,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Au renouvellement, le forfait Premium de Hostinger est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Avant de choisir, vérifiez que le forfait couvre l'application, l'espace et la sauvegarde, pas seulement le nombre de sites."
+          "Au renouvellement, le forfait Premium de Hostinger est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Avant de choisir, vérifiez que le forfait couvre l'application, l'espace et la sauvegarde, pas seulement le nombre de sites. Le code SONAR20 donne 20 % sur un achat neuf, pas au renouvellement."
         ]
       },
       {
@@ -161537,7 +161537,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Guardando il rinnovo, il Premium della Hostinger è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Prima di scegliere, verifica che il piano copra applicazione, spazio e backup, non solo il numero di siti."
+          "Guardando il rinnovo, il Premium della Hostinger è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Prima di scegliere, verifica che il piano copra applicazione, spazio e backup, non solo il numero di siti. Il codice SONAR20 dà il 20% su un acquisto nuovo, non sul rinnovo."
         ]
       },
       {
@@ -161778,7 +161778,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Bei der Verlängerung ist Hostingers Premium der günstigste Tarif, und der Unlimited ist der Tarif für viele Websites, ohne Begrenzung der Websites. Prüfen Sie vor der Wahl, ob der Tarif Anwendung, Speicher und Backup abdeckt, nicht nur die Anzahl der Websites."
+          "Bei der Verlängerung ist Hostingers Premium der günstigste Tarif, und der Unlimited ist der Tarif für viele Websites, ohne Begrenzung der Websites. Prüfen Sie vor der Wahl, ob der Tarif Anwendung, Speicher und Backup abdeckt, nicht nur die Anzahl der Websites. Der Code SONAR20 gibt 20 % auf einen Neukauf, nicht auf die Verlängerung."
         ]
       },
       {
@@ -162019,7 +162019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安で、アプリの要件も先に確かめてください。割引は48か月続くので、月額に直して更新料を横に並べた表を下に載せました。"
+          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安で、アプリの要件も先に確かめてください。SONAR20 を使うと、Hostinger の新規購入が 20% オフになります（更新は対象外）。"
         ]
       },
       {
@@ -162259,7 +162259,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 호스팅어 Premium, 그보다 많으면 Unlimited를 보되 애플리케이션 요구 사항부터 확인하세요. 프로모션은 48개월이므로, 월 단위 가격에 갱신가를 나란히 둔 표를 아래에 실었습니다."
+          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 호스팅어 Premium, 그보다 많으면 Unlimited를 보되 애플리케이션 요구 사항부터 확인하세요. SONAR20 코드는 호스팅어 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
         ]
       },
       {
@@ -162500,7 +162500,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited，但要先确认应用、空间和备份需求。促销期为 48 个月，所以下面的表格按月列出价格，并把续费价放在旁边。"
+          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited，但要先确认应用、空间和备份需求。SONAR20 可让 Hostinger 新购享 20% 折扣，续费不适用。"
         ]
       },
       {
@@ -162741,7 +162741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited，但要先確認應用程式、空間與備份需求。促銷期為 48 個月，所以下面的表格按月列出價格，並把續訂價放在旁邊。"
+          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited，但要先確認應用程式、空間與備份需求。SONAR20 可讓 Hostinger 新購享 20% 折扣，續訂不適用。"
         ]
       },
       {
