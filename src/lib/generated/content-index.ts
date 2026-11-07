@@ -128852,7 +128852,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Toda Up é o nome novo da Fita Up: a FITA UP LTDA, empresa brasileira com CNPJ ativo desde 2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa."
+          "Sim, a Toda Up é o nome novo da Fita Up, segundo a loja: a FITA UP LTDA, empresa brasileira com CNPJ ativo desde 2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa."
         ]
       },
       {
@@ -128914,7 +128914,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O endereço oficial é todaup.com. Antes de digitar qualquer dado, confira o endereço na barra do navegador, principalmente se o link chegou por anúncio ou mensagem.",
           "Depois, role até o rodapé. Ele traz o CNPJ 40.159.443/0001-44 e o endereço em Biguaçu/SC. Compare o número com a consulta pública do CNPJ: deve aparecer a FITA UP LTDA, ativa.",
-          "Faça a compra dentro do site. O domínio antigo, fitaup.com, é da mesma marca e aparece linkado na home. Endereço parecido, com outra terminação, não é nenhum dos dois domínios da marca: confira o CNPJ no rodapé antes de comprar."
+          "Faça a compra dentro do site. O domínio antigo, fitaup.com, é da mesma marca e aparece linkado na home. Se um endereço tiver outra terminação ou parecer diferente, volte a todaup.com digitando o endereço na barra e confirme o canal com a loja antes de fornecer dados."
         ]
       },
       {
@@ -129024,7 +129024,7 @@ export const reviewsData: unknown[] = [
           "Qual é o CNPJ da Toda Up? O CNPJ do rodapé do site é 40.159.443/0001-44, da FITA UP LTDA, ativa desde 2020 na consulta pública. Confira o número na consulta pública do CNPJ.",
           "A Toda Up é a Fita UP? Sim. Segundo o FAQ da loja, a Fita UP cresceu e virou Toda Up, com a mesma equipe e a mesma empresa; mudaram o nome, o visual do site, as embalagens e o logo.",
           "A Fita Up mudou de nome? Faliu? Mudou de nome: não faliu nem fechou. No FAQ da loja, a resposta a \"A Fita UP acabou?\" é \"Não, ela evoluiu!\", e a \"Toda Up é outra empresa?\", \"Nadinha!\". A fita segue à venda no todaup.com, com o mesmo CNPJ no rodapé.",
-          "A Fita Up é golpe? Não. A Fita Up é a marca antiga da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 2020, e a Toda Up é a mesma empresa com marca nova. A nota, as reclamações e as respostas da loja estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
+          "A Fita Up é golpe? Não. A Fita Up é a marca antiga da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 2020, e a Toda Up é a mesma empresa com marca nova, segundo a loja. Confira o endereço antes de comprar; a nota, as reclamações e as respostas estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
           "O site todaup.com é o oficial? É. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública do CNPJ. O domínio antigo, fitaup.com, é da mesma marca.",
           "Posso trocar uma peça da Toda Up em 30 dias? Sim. Troca por modelo, tamanho ou cor e devolução por arrependimento têm até 30 dias corridos depois do recebimento, pelo portal de trocas, com o CPF da titular e o número do pedido.",
           "Quando o reembolso cai? A política não diz. No cartão, o estorno é feito pela administradora; nas outras formas, pelo procedimento financeiro da loja.",
@@ -129094,7 +129094,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar",
         "paragraphs": [
-          "O site da Toda Up não cita o Reclame Aqui, nem nota de reputação nem selo. O Reclame Aqui mostra o que a loja não mostra: quantas reclamações recebeu, quantas respondeu, quantas resolveu e quanta gente voltaria a comprar.",
+          "O Reclame Aqui reúne reclamações, respostas e avaliações do atendimento. O índice de resposta considera as reclamações registradas; solução, nota do consumidor e voltaria a fazer negócio vêm de quem finalizou e avaliou a reclamação. Esses grupos não representam todos os compradores.",
           "Os números abaixo são de uma leitura só e mudam com o tempo. Confira de novo no dia da compra."
         ]
       },
@@ -129157,13 +129157,13 @@ export const reviewsData: unknown[] = [
               "9"
             ],
             [
-              "Resolvidas",
+              "Índice de solução entre reclamações finalizadas e avaliadas",
               "89,9%",
               "91,5%",
               "92,1%"
             ],
             [
-              "Voltariam a fazer negócio",
+              "Voltariam a fazer negócio, entre quem finalizou e avaliou",
               "71%",
               "72,9%",
               "74,9%"
@@ -129236,13 +129236,13 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Toda Up e pode receber comissão pelas compras feitas com o cupom MAUAD, o cupom da Toda Up. Os números acima vêm do perfil público no Reclame Aqui.",
-          "O cupom dá 10% OFF em todo o site da Toda Up. Os detalhes estão na [página da Toda Up](/cupons/toda-up), e o passo a passo e o teste no carrinho, em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+          "O cupom dá 10% OFF em todo o site da Toda Up. As regras de validade e aplicação estão na [página do cupom da Toda Up](/cupons/toda-up), e o passo a passo para aplicar no carrinho consta em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ]
       },
       {
         "heading": "Dá para confiar na Toda Up?",
         "paragraphs": [
-          "Pelo Reclame Aqui, dá. O perfil estava com reputação Ótima nos últimos 6 meses, com nota 8,2, e RA1000 nos 12 meses, e os indicadores da aba geral ficam perto dos recentes. O que o leitor confere antes de pagar: o perfil é o empresa/toda-up, com o CNPJ 40.159.443/0001-44 no topo, e os números do dia."
+          "Pelos dados do Reclame Aqui, sim. O perfil tinha reputação Ótima nos últimos 6 meses, com nota 8,2, e RA1000 nos 12 meses, e os indicadores da aba geral ficam perto dos recentes. Antes de fechar a compra, confira se o perfil segue em empresa/toda-up sob o CNPJ 40.159.443/0001-44 e veja os números atualizados."
         ],
         "bullets": [
           "Reputação: Ótima nos 6 meses, com nota 8,2, e RA1000 nos 12 meses, com nota 8,3.",
@@ -129253,7 +129253,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Toda Up é confiável segundo o Reclame Aqui? O perfil estava com reputação Ótima nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas, e RA1000 nos 12 meses. Esses números vêm das reclamações registradas e não medem a qualidade das peças.",
+          "A Toda Up é confiável segundo o Reclame Aqui? O perfil tinha reputação Ótima nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas, e RA1000 nos 12 meses. Esses números decorrem do atendimento pós-venda registrado e não avaliam a modelagem nem o tecido dos sutiãs.",
           "Qual perfil da Toda Up é o da loja? O perfil Toda Up, na página empresa/toda-up, com o CNPJ 40.159.443/0001-44, o mesmo do rodapé do site todaup.com.",
           "A Toda Up é a mesma empresa da Fita UP? Sim. O CNPJ do perfil e do site é o da FITA UP LTDA, e o FAQ da loja diz que a Fita UP virou Toda Up, com a mesma equipe. Não apareceu perfil separado da Fita UP no Reclame Aqui.",
           "A Toda Up responde às reclamações? Nos últimos 6 meses, respondeu a 100%, em 1 dia e 7 horas em média. Na aba geral, respondeu a 99%, em 6 dias e 3 horas.",
@@ -129315,7 +129315,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 10% OFF em todo o site oficial, inclusive em produto que já está em promoção. No carrinho de teste, ele somou também com a progressiva da Black Antecipada. Essa soma foi testada só nessa campanha: em outra, leia as regras dela antes de contar com ela."
+          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 10% OFF em todo o site oficial, inclusive em produto já em promoção. No teste da Black Antecipada, a progressiva entrou primeiro e o cupom tirou 10% do que sobrou. Em outra campanha, confira a ordem das linhas de desconto no resumo antes de pagar."
         ]
       },
       {
@@ -129361,7 +129361,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confira o total antes de pagar",
         "paragraphs": [
-          "Confira três valores: o subtotal, as linhas de desconto e o total. No teste abaixo, com um Comfort Up, subtotal, desconto e total bateram entre si. Se os seus números não baterem, refaça a colagem do código antes de seguir."
+          "Confira o subtotal, as linhas de desconto e o total. Se o valor for diferente do esperado, revise produtos, quantidades, frete e campanha, além da aplicação do MAUAD. Use o resumo do seu pedido como referência antes de pagar."
         ]
       },
       {
@@ -129450,7 +129450,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Toda Up? O cupom é MAUAD, com 10% OFF em todo o site oficial da Toda Up.",
           "O cupom Toda Up vale em produto em promoção? Sim. No teste do carrinho, os 10% entraram sobre o preço promocional; os valores estão na tabela do teste.",
-          "O cupom soma com a promoção da Black Antecipada? Sim. A progressiva entra primeiro e o cupom tira 10% do que sobra; os dois carrinhos estão na tabela do teste. Em outra campanha, confira no resumo do pedido.",
+          "O cupom soma com a promoção da Black Antecipada? No teste, sim: a progressiva entrou primeiro e o cupom tirou 10% do que sobrou. Os dois carrinhos estão na tabela do teste. Em outra campanha, confira as regras e as linhas do seu pedido.",
           "Onde coloco o cupom na Toda Up? Pelo botão desta página, o site já abre com o cupom aplicado. Se a linha não aparecer no resumo, cole o código no campo de cupom ou desconto, no checkout, e aplique.",
           "Dá para usar mais de um cupom? A loja não publica o limite. Confira no carrinho.",
           "Posso trocar a compra? Sim. Troca de modelo, tamanho ou cor e arrependimento em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
@@ -129623,7 +129623,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços para comparar",
         "paragraphs": [
-          "Estes são os preços de outubro: os preços de venda das coleções públicas do menu da Toda Up (Sutiãs, Calcinhas, Adesivos e Conjuntos), lidos em 26/10/2026, antes da progressiva e do cupom. Quando o produto mostrava o preço \"de\", a tabela traz os dois. Na Black November, só é desconto novo o que ficar abaixo do preço de venda desta tabela."
+          "Estes são os preços de venda das coleções públicas, lidos em 26/10/2026 antes da progressiva e do cupom. Use-os como referência: compare a mesma peça e tamanho e confira desconto e frete no total atual."
         ],
         "comparisonTable": {
           "headers": [
@@ -129782,7 +129782,7 @@ export const reviewsData: unknown[] = [
         "heading": "Comprar agora ou esperar a sexta",
         "paragraphs": [
           "A loja não publica quanto tempo a Black November dura, nem anunciou outra regra para 27/11. O desconto da campanha já está no preço de cada peça, e a tabela de outubro deste guia é a régua para comparar.",
-          "Quem já sabe o que quer compra com o desconto da peça e o cupom, conferindo o total no carrinho. Quem pode esperar compara o preço do site na semana de 23/11 e em 27/11 com a tabela acima. As condições atuais do cupom ficam na [página da Toda Up](/cupons/toda-up)."
+          "Se você já escolheu, confira desconto, cupom e frete no carrinho. Se preferir esperar, compare a mesma peça e tamanho com a referência de outubro e com as condições do dia. As regras atuais do cupom ficam na [página da Toda Up](/cupons/toda-up)."
         ]
       },
       {
@@ -129851,7 +129851,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Fita Up é a fita adesiva para seios da Toda Up, a marca que antes se chamava Fita Up. O passo a passo é um só para o tomara que caia e o decote, e a largura, P, M ou G, segue o guia de tamanhos. Dá para reutilizar, mas a marca não recomenda: a fita perde cola."
+          "A Fita Up é a fita adesiva para seios da Toda Up, marca que antes se chamava Fita Up. A loja publica um passo a passo só, para tomara que caia e decote, e as larguras são P, M e G. A Toda Up não recomenda reutilizar, porque a fita perde cola."
         ]
       },
       {
@@ -129936,7 +129936,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A Toda Up diz que a fita sustenta de seios pequenos a grandes. No FAQ da loja, porém, a marca fala em segurança até o tamanho 52, abaixo do 54 da tabela. Acima de 54, ela não indica a fita. A loja não usa o termo plus size e não tem largura maior que a G.",
-          "A loja também não publica a largura da fita em centímetros nem os metros do rolo. O guia é da marca e pode mudar; na dúvida entre duas larguras, a página do produto é a referência."
+          "A loja também não publica a largura da fita em centímetros nem os metros do rolo. Se a diferença entre 52 e 54 afetar sua escolha, confirme a indicação com a Toda Up antes de comprar."
         ]
       },
       {
@@ -129948,15 +129948,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para reutilizar?",
         "paragraphs": [
-          "Dá, mas a Toda Up não recomenda: a fita perde cola e sustentação a cada uso. Os outros motivos de a fita descolar estão no [guia de cuidados da Fita Up](/reviews/fita-up-cuidados-cola-pele-agua)."
+          "A Toda Up não recomenda reutilizar a fita: segundo a marca, ela perde cola e sustentação a cada uso. Os outros motivos de descolar estão no [guia de cuidados da Fita Up](/reviews/fita-up-cuidados-cola-pele-agua)."
         ]
       },
       {
-        "heading": "Quando escolher outro",
+        "heading": "Fita, protetor e sutiã de silicone: funções diferentes",
         "paragraphs": [
-          "A escolha entre os três adesivos é de formato: fita que se corta, peça pronta ou só protetor.",
-          "O [Protetor de Silicone Ultrafino](/reviews/protetor-de-silicone-mamilo-como-usar) (R$ 69,90, de R$ 99,90) é o protetor de silicone da mesma categoria Adesivos. Ele não substitui a fita: o passo a passo da Toda Up começa por um protetor de mamilo.",
-          "O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) (R$ 149,90, de R$ 159,90) é o outro adesivo da categoria: uma peça de silicone pronta, no lugar da fita que se corta."
+          "A fita é cortada e posicionada conforme a roupa. O sutiã de silicone é uma peça pronta; o protetor de mamilo tem outra função e aparece como complemento no passo a passo da fita.",
+          "O [Protetor de Silicone Ultrafino](/reviews/protetor-de-silicone-mamilo-como-usar) custava R$ 69,90, de R$ 99,90. Ele não substitui a fita: a Toda Up manda aplicar um protetor de mamilo antes da fita.",
+          "O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) custava R$ 149,90, de R$ 159,90. É uma peça de silicone pronta, no lugar da fita que se corta. O guia específico explica o uso."
         ]
       },
       {
@@ -129968,8 +129968,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Fita Up é reutilizável? Dá para colar de novo, mas a Toda Up não recomenda: a fita perde cola e sustentação a cada uso.",
-          "Qual largura da Fita Up escolher? Pelo guia da marca, P sustenta até o tamanho 44, M até o 48 e G até o 54.",
+          "A Fita Up é reutilizável? A Toda Up não recomenda reutilizar, porque informa perda de cola e sustentação a cada uso.",
+          "Qual largura da Fita Up escolher? O guia da Toda Up indica P até 44, M até 48 e G até 54. Se a roupa ficar perto desse limite, confira a indicação com a marca antes de comprar.",
           "Fita Up serve para plus size? A Toda Up diz que a fita sustenta de seios pequenos a grandes. Pelo guia de tamanhos, a largura G sustenta até o tamanho 54; no FAQ da loja, a marca fala em segurança até o 52. A loja não usa o termo plus size nem tem largura maior que a G.",
           "A Fita Up serve para tomara que caia? A Toda Up não cita o tomara que caia pelo nome: descreve a fita como sustentação sem sutiã, ajustável à roupa ou ao decote, com um passo a passo só, resumido acima.",
           "A Fita Up é a Toda Up? Sim. A loja diz que a marca Fita Up virou Toda Up, com o mesmo produto no catálogo.",
@@ -130062,7 +130062,7 @@ export const reviewsData: unknown[] = [
           "Para tirar, remova devagar, de cima para baixo."
         ],
         "postParagraphs": [
-          "A Toda Up diz que o sutiã é hipoalergênico e, mesmo assim, pede um pré-teste antes da primeira aplicação."
+          "A Toda Up pede pré-teste antes da primeira aplicação, mesmo descrevendo o produto como hipoalergênico. A página também informa que o sutiã não é indicado para gestantes e lactantes."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-passo-a-passo-2710.webp",
@@ -130098,7 +130098,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O 44 aparece em duas faixas. Se o seu sutiã é 44, confira a circunferência do busto no guia de medidas da página."
+          "O número 44 aparece em M e G. Se for o seu caso, confirme com a Toda Up qual tamanho ela indica antes de comprar."
         ]
       },
       {
@@ -130187,7 +130187,8 @@ export const reviewsData: unknown[] = [
               "Leve 2 com 16% OFF + brinde: R$ 269,90",
               "Leve 3: R$ 139,80"
             ]
-          ]
+          ],
+          "caption": "Preços e kits podem mudar; confira a oferta atual na página do produto."
         },
         "postParagraphs": [
           "A fita sustenta e se ajusta ao decote, o protetor evita que o seio marque no tecido, e o sutiã é a peça pronta, com fecho e tamanho pelo busto. O protetor tem guia próprio em [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar). Preços e kits mudam com as campanhas da loja."
@@ -130196,17 +130197,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e preço",
         "paragraphs": [
-          "O sutiã se compra no site oficial da Toda Up, na categoria Adesivos, pelo botão desta página. O [cupom Toda Up](/cupons/toda-up) dá 10% e somou com os kits Leve 2 e Leve 3 no carrinho."
+          "O sutiã se compra no site oficial da Toda Up, na categoria Adesivos, pelo botão desta página. O [cupom Toda Up](/cupons/toda-up) dá 10% e somou com os kits Leve 2 e Leve 3 da loja; se o sutiã entra no desconto, confirme no carrinho antes de pagar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O sutiã de silicone invisível pode ser usado mais de uma vez? Sim, até 12 vezes, pela Toda Up. Lavar e guardar como indica a embalagem ajuda a conservar a cola.",
-          "Qual tamanho escolher? P para sutiã 38 a 40, M de 42 a 44 e G de 44 a 48, pela tabela da marca.",
+          "Qual tamanho escolher? Pela marca, P para sutiã 38 a 40, M de 42 a 44 e G de 44 a 48. Como o 44 aparece em duas faixas, confirme a indicação com a loja.",
           "Para qual roupa serve? Vestido de festa e frente única, sem alças e com as costas nuas. Para tomara que caia, a Toda Up indica a Fita Up.",
           "O sutiã de silicone invisível é hipoalergênico? A Toda Up diz que sim e pede um pré-teste antes da aplicação.",
-          "O cupom vale no sutiã? Vale: o cupom da Toda Up dá 10% e somou com os kits Leve 2 e Leve 3 no carrinho.",
+          "O cupom vale no sutiã? O cupom da Toda Up dá 10%. Ele somou com kits Leve 2 e Leve 3 da loja; se o sutiã entra no desconto, confirme no carrinho antes de pagar.",
           "É a mesma coisa que a Fita Up? Não. A Fita Up é a fita que se corta, e o sutiã é a peça pronta, com fecho.",
           "Como lavar o sutiã de silicone? Com água e sabão neutro, secando ao natural, pela orientação da Toda Up."
         ]
@@ -130265,7 +130266,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Protetor de Silicone da Toda Up é o adesivo para roupa, não o protetor de amamentação. O tamanho vai pelo número do sutiã: 8 cm até o 46, 10 cm até o 50, 12 cm até o 54. A Toda Up diz que dá para reutilizar até 30 vezes, com a lavagem que ela descreve, resumida abaixo."
+          "O Protetor de Silicone da Toda Up é o adesivo para roupa, não o de amamentação. O tamanho vai pelo número do sutiã: 8 cm até o 46, 10 cm até o 50, 12 cm até o 54; 46 e 50 aparecem em duas faixas. A Toda Up diz que dá para reutilizar até 30 vezes, com a lavagem abaixo."
         ]
       },
       {
@@ -130312,12 +130313,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O guia é da Toda Up e pode mudar. Os números 46 e 50 aparecem em duas faixas; na dúvida entre dois tamanhos, confira o seu número exato no guia."
+          "O guia é da Toda Up e pode mudar. Como os números 46 e 50 aparecem em duas faixas, consulte a marca sobre qual tamanho escolher para você antes de comprar."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-tamanhos-2710.webp",
-          "alt": "Quadro com o tamanho do protetor de silicone da Toda Up pelo número do sutiã: 34 a 46 pede P de 8 cm, 46 a 50 pede M de 10 cm e 50 a 54 pede G de 12 cm",
-          "caption": "O tamanho pelo número do sutiã, no guia da Toda Up. Quadro nosso.",
+          "alt": "Quadro da Toda Up: sutiã 34 a 46 corresponde a P de 8 cm, 46 a 50 a M de 10 cm e 50 a 54 a G de 12 cm; 46 e 50 aparecem em duas faixas.",
+          "caption": "Faixas do guia da Toda Up: 46 e 50 aparecem em dois tamanhos. Na dúvida, consulte a marca. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 2.5052
         }
@@ -130357,7 +130358,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e preço",
         "paragraphs": [
           "O protetor se compra no site oficial da Toda Up, a marca nova da mesma empresa da Fita Up, como explica [Toda Up é confiável?](/reviews/toda-up-e-confiavel). O preço está na seção \"O que é o protetor de silicone\" e pode mudar. Na mesma leitura, a página oferecia o kit \"Leve 3\" por R$ 139,80 (de R$ 299,70) e, em \"Leve junto\", sugeria o Case Protetor de Silicone, a R$ 49,90 (de R$ 79,90).",
-          "O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de carrinho, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up."
+          "O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de carrinho, sem finalizar a compra. O protetor avulso não foi testado nesse carrinho; confira o desconto antes de pagar. O botão desta página abre o site da Toda Up."
         ]
       },
       {
@@ -130367,7 +130368,7 @@ export const reviewsData: unknown[] = [
           "Qual tamanho do protetor pedir? Pelo FAQ da Toda Up, sutiã 34 a 46 pede o de 8 cm (P), 46 a 50 o de 10 cm (M) e 50 a 54 o de 12 cm (G).",
           "Quantas vezes dá para usar o protetor? A Toda Up diz até 30 vezes, com a lavagem à mão que a página descreve.",
           "Como lavar o protetor de silicone? À mão, logo depois do uso, com água fria ou morna e sabão neutro; secar à sombra com o adesivo para cima e guardar na película original.",
-          "O cupom vale no protetor? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste no carrinho; confira no carrinho.",
+          "O cupom vale no protetor? No teste de carrinho, o cupom somou com os kits Leve 2 e Leve 3, sem concluir a compra. O protetor avulso não foi testado; confira o desconto no carrinho.",
           "Como colocar o protetor? A página do protetor não traz passo a passo. No passo a passo da Fita Up, a Toda Up põe o protetor na pele antes da fita."
         ]
       }
@@ -167485,7 +167486,7 @@ export const reviewsData: unknown[] = [
         "heading": "Comfort Slim: o minimalista, do PP ao GG",
         "paragraphs": [
           "O Slim é o minimalista: esconde sob a roupa ou aparece sob transparência. Vai do PP (34-36) ao GG (44-46).",
-          "PP e M estavam com o estoque mais curto, 3 de 5 variantes cada. Se a sua faixa for uma delas, confira antes de decidir."
+          "PP e M tinham menos combinações de cor disponíveis: 3 de 5 em cada um. Se a sua faixa for uma delas, confira antes de decidir."
         ],
         "images": [
           {
@@ -167619,7 +167620,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quer a maior faixa de tamanho, até o G3: [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
           "Quer usar em tomara que caia ou com as alças combinadas, a partir do P: [Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
-          "Quer o modelo mais minimalista, do PP ao GG: [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), com menos peças em PP e M."
+          "Quer o modelo mais minimalista, do PP ao GG: [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), com menos combinações de cor em PP e M."
         ],
         "styling": {
           "layout": "tags",
@@ -167687,7 +167688,7 @@ export const reviewsData: unknown[] = [
           "O Comfort Line serve em tomara que caia? Segundo a página, dá para usar assim ou combinar as alças. Antes de escolher, confira o busto na tabela.",
           "O cupom da Toda Up vale nos três modelos? Vale, porque o cupom é do site inteiro e dá 10% no carrinho. A campanha da loja pode entrar antes, então confira o total.",
           "De que é feito o tecido? Segundo o FAQ da loja, 76,6% é poliamida e 23,5% é elastano.",
-          "O Comfort Slim tem PP e M? Tem, mas com estoque mais curto na tabela: 3 de 5 variantes em cada um."
+          "O Comfort Slim tem PP e M? Tem, mas com menos combinações de cor disponíveis: 3 de 5 em cada um. Confira a variante no dia da compra."
         ]
       }
     ],
@@ -174414,13 +174415,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SkinUp é a linha de segunda pele da Toda Up: corte a laser, sem costura, feita para sumir sob roupa justa. A Cotton Up é a linha de algodão, mais barata, com dois tops e uma calcinha. O que muda a escolha é a roupa por cima e a faixa de tamanho de cada linha, na tabela abaixo."
+          "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata, com dois tops e uma calcinha. O que muda a escolha é a roupa por cima e a faixa de tamanho, na tabela abaixo."
         ]
       },
       {
         "heading": "O que é cada linha",
         "paragraphs": [
-          "SkinUp some na roupa; Cotton Up é algodão: as duas dividem o site, sem se comparar. A SkinUp é a linha de segunda pele: a loja descreve as peças com corte a laser, acabamento ultrafino e sem costura, para a peça desaparecer na roupa. Hoje ela tem o Top Segunda Pele, o Sutiã Top Alça Fina, o Sutiã Clássico e quatro calcinhas: biquíni, cós alto, fio dental e fio dental cós alto. As cores são tons de pele (Creme ou Baunilha, Caramelo, Avelã e Rose) e preto.",
+          "A proposta da SkinUp é a segunda pele; a da Cotton Up, o básico de algodão. A SkinUp tem corte a laser, acabamento ultrafino e sem costura, descritos pela loja para uma peça discreta sob roupa justa. A linha tem o Top Segunda Pele, o Sutiã Top Alça Fina, o Sutiã Clássico e quatro calcinhas: biquíni, cós alto, fio dental e fio dental cós alto. As cores são tons de pele (Creme ou Baunilha, Caramelo, Avelã e Rose) e preto.",
           "A Cotton Up é a linha de algodão, com o Top Faixa, o Top Triangular e a Calcinha Biquíni, em preto, branco e cinza. As páginas falam em algodão premium, toque suave e sustentação leve. Não há corte a laser nem a proposta de sumir sob a roupa: é o básico de algodão para o dia a dia.",
           "Para o sutiã com copo da linha Comfort, veja [o guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher); para a peça adesiva, [o sutiã de silicone](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
@@ -174441,10 +174442,10 @@ export const reviewsData: unknown[] = [
           "A decisão começa pela roupa que vai por cima e termina na faixa de tamanho, porque as duas linhas não vestem igual."
         ],
         "bullets": [
-          "Blusa de alça fina, regata ou roupa justa, e a peça tem de sumir: SkinUp. O [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do PP ao GG e tem as alças mais finas; o [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do P ao G1 e tem alça larga, sem regulagem.",
+          "Para reduzir marcas sob roupa justa ou usar com alça fina, compare a proposta SkinUp da loja. O [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do PP ao GG e tem as alças mais finas; o [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do P ao G1 e tem alça larga, sem regulagem.",
           "Quer efeito push-up sem aro: o [Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), do P ao G1. É a única peça das duas linhas com bojo fixo.",
           "Quer algodão, sustentação leve e o preço menor: Cotton Up, com o [Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) ou o [Top Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), do P ao G1, os dois com alças e bojo removível.",
-          "Calcinha que não marca sob legging ou vestido de malha: as quatro calcinhas SkinUp, sem costura. Calcinha de algodão para o dia a dia: a [Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
+          "Para reduzir marcas sob legging ou vestido de malha, compare as quatro calcinhas SkinUp sem costura. Calcinha de algodão para o dia a dia: a [Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
           "Veste PP: só o Sutiã Top Alça Fina tem PP (34-36). O Top Segunda Pele, o Clássico e as peças Cotton Up começam no P, e o P de cada linha é um número diferente (38-40 na SkinUp, 36-38 na Cotton Up)."
         ]
       },
@@ -174802,7 +174803,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Calcinha Cós Alto SkinUp",
               "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-              "howTo": "Com a cintura alta por baixo de calça de cós alto ou vestido, sem a linha da calcinha aparecer.",
+              "howTo": "Por baixo de calça de cós alto ou vestido, com a cintura da peça alinhada à roupa.",
               "occasion": "Calça de cós alto, saia e vestido.",
               "pairsWith": [
                 {
@@ -174821,7 +174822,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Calcinha Biquíni Cotton Up",
               "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-              "howTo": "Como calcinha de algodão do dia a dia; sem o corte a laser, não é a peça para roupa colada.",
+              "howTo": "Como calcinha de algodão do dia a dia. Sem o acabamento a laser da SkinUp, não é a peça pensada para roupa colada.",
               "occasion": "Casa, pijama e roupa larga.",
               "pairsWith": [
                 {
@@ -174948,8 +174949,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: o veredito por perfil",
         "paragraphs": [
-          "Se a roupa por cima é justa, de alça fina ou clara, e a peça precisa sumir, a SkinUp é a linha: o Sutiã Top Alça Fina para regata e alcinha (e para quem veste PP), o Top Segunda Pele para o mínimo de estrutura, o Clássico para quem quer push-up sem aro. As calcinhas SkinUp seguem a mesma lógica, sem costura, do P ao G1.",
-          "Se a prioridade é algodão e preço, a Cotton Up resolve: dois tops de sustentação leve a R$ 132,90 e uma calcinha a R$ 39,90, em preto, branco e cinza, do P ao G1. É a escolha para casa, pijama e roupa larga, não para a blusa colada.",
+          "Se a prioridade é reduzir marcas sob roupa justa, a SkinUp é a proposta da loja: Alça Fina para regata e alcinha e para quem precisa de PP; Top Segunda Pele para estrutura mais simples; Clássico para quem quer push-up sem aro. As calcinhas seguem a proposta sem costura, do P ao G1.",
+          "Se a prioridade é algodão e preço, a Cotton Up é a opção: os dois tops de sustentação leve custam R$ 132,90 e a calcinha, R$ 39,90, em preto, branco e cinza, do P ao G1. É a escolha para casa, pijama e roupa larga; sob blusa colada, o resultado depende da peça por cima.",
           "Nos dois casos, a faixa de tamanho decide o resto: meça e compare com a coluna da peça na tabela acima, porque a mesma letra muda de medida entre os tops da própria SkinUp e muda de número entre as duas linhas."
         ],
         "images": [
@@ -174978,7 +174979,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Quem usa roupa por cima justa, clara ou de alça fina e quer que a peça suma: a SkinUp, sem costura.",
+        "Quem quer reduzir marcas sob roupa justa ou procura um top de alça fina: compare a SkinUp, conferindo cor, formato e medidas.",
         "Quem veste PP e quer um top sem costura: só o Sutiã Top Alça Fina tem PP.",
         "Quem quer algodão e preço menor para casa e roupa larga: a Cotton Up."
       ],
@@ -175018,7 +175019,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Entre no site oficial da Toda Up pelo botão. O cupom já vem aplicado: confira a linha de desconto no resumo do pedido.",
+      "text": "Entre no site oficial da Toda Up pelo botão. Confira se MAUAD aparece na linha de desconto e veja o total no resumo do pedido.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -175048,17 +175049,17 @@ export const reviewsData: unknown[] = [
         "heading": "Como a conta é feita",
         "paragraphs": [
           "A Toda Up vende as peças avulsas e também em kit: top com calcinha, sutiã com protetor de silicone e combinações de sutiãs. A página de cada kit mostra o preço do kit e um preço riscado, mas não compara com as mesmas peças compradas separadas. É essa conta que fizemos aqui.",
-          "Preços lidos em 31/10/2026, no site da loja. A economia é a soma das peças avulsas de hoje menos o preço do kit de hoje, e a porcentagem é sobre essa soma, não sobre o preço riscado. O cupom fica fora da conta, porque nenhum destes kits passou pelo carrinho com ele; a seção do cupom explica. Alguns kits aparecem mais de uma vez no site, com preços diferentes: usamos a página que estava à venda.",
+          "Preços lidos em 31/10/2026, no site da loja. A economia é a soma das peças avulsas daquele dia menos o preço do kit na mesma leitura, e a porcentagem é sobre essa soma, não sobre o preço riscado. O cupom fica fora da conta, porque nenhum destes kits passou pelo carrinho com ele; a seção do cupom explica. Alguns kits aparecem mais de uma vez no site, com preços diferentes: usamos a página que estava à venda.",
           "A régua de leitura: economia até R$ 20 é “quase não economiza”; de R$ 20 a R$ 50, “economiza pouco”; acima de R$ 50 e de 20%, “compensa”."
         ]
       },
       {
         "heading": "Os kits lado a lado",
         "paragraphs": [
-          "A tabela traz cada kit à venda, o que vem nele, o preço do kit, a soma das mesmas peças avulsas e a diferença. O nome do kit leva à loja."
+          "A tabela reúne os kits comparados, com as peças, o preço do kit, a soma das mesmas peças avulsas e a diferença. O nome do kit leva à loja."
         ],
         "comparisonTable": {
-          "caption": "Preços da loja, sem cupom.",
+          "caption": "Preços da loja, sem cupom; compare os valores atuais no carrinho.",
           "headers": [
             "Kit",
             "Peças",
@@ -175331,7 +175332,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Kit da Toda Up é mais barato que comprar separado? Depende do kit. Os de 3 conjuntos, os de sutiã com protetor, o Kit Invisible Up e o Kit Comfort Up saem de 22% a 30% abaixo das peças avulsas; os kits de 1 conjunto economizam menos de R$ 20.",
+          "Kit da Toda Up é mais barato que comprar separado? Depende do kit e das peças que você usaria. Os de 3 conjuntos, os de sutiã com protetor, o Kit Invisible Up e o Kit Comfort Up saem de 22% a 30% abaixo das peças avulsas; os kits de 1 conjunto economizam menos de R$ 20.",
           "Quanto custa cada conjunto no kit de 3? R$ 124,39 no Cotton Up e R$ 166,63 no SkinUp, contra R$ 172,80 e R$ 214,81 comprando as peças avulsas.",
           "O Kit Invisible Up vem com a case? Vem. A página diz que acompanha a Case Protetor de Silicone tamanho P (8 cm), além do sutiã de silicone e do par de protetores.",
           "Quantos sutiãs tem o Kit Comfort Up? Três: Comfort Up, Comfort Slim e Comfort Line, na mesma cor, Preto ou Rose.",
@@ -179879,7 +179880,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Toda Up é boa? Sim, para quem mede o busto antes de comprar: o que a loja diz dos sutiãs Comfort, da SkinUp, da Cotton Up e da Fita Up, quanto custa com o código e onde comprar.",
+    "description": "Sutiãs, segunda pele e adesivos Toda Up: como comparar formatos e medidas pelas páginas da loja, quais kits avaliar e como usar o código de desconto.",
     "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up. Sutiãs Comfort, SkinUp, Cotton Up e Fita Up pela página da loja, os kits que compensam e onde comprar.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
@@ -179894,7 +179895,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem quer sutiã de todo dia ou segunda pele e mede o busto antes de comprar: a Toda Up vende três sutiãs Comfort, as linhas SkinUp e Cotton Up, a Fita Up e os adesivos, no site oficial. O que decide é a sua medida na tabela de cada peça; veja os capítulos abaixo."
+          "Na Toda Up, comece pelo formato da peça e pela tabela de medidas do modelo. Os três Comfort têm o mesmo tecido e preço de lista, mas tamanhos e alças diferentes; só o Comfort Up chega ao G3. SkinUp serve para roupa justa ou de alça fina, e Cotton Up para algodão e roupa larga."
         ]
       },
       {
@@ -179957,7 +179958,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SkinUp e Cotton Up: segunda pele ou algodão",
         "paragraphs": [
-          "A escolha entre as duas linhas é pela roupa que vai por cima: a SkinUp é para sumir sob roupa justa, clara ou de alça fina, e a Cotton Up é o básico de algodão para casa e roupa larga. A loja descreve a SkinUp com corte a laser e acabamento ultrafino, sem costura, e tem três tops nela. O Top Segunda Pele é o top fixo de alça larga, sem fecho e sem regulagem, para quem quer o mínimo de estrutura. O Sutiã Top Alça Fina tem alças finas reguláveis e fecho de quatro níveis, e é o único top da loja com PP, e a loja diz que a alça some sob a alça da regata. O Sutiã Clássico é o de bojo fixo, sem aro, com o efeito push-up que a página promete, e o mais caro das duas linhas. Na Cotton Up, o Top Faixa é reto e o Top Triangular tem o decote em V; os dois vêm com bojo removível, em algodão com 5% de elastano no Faixa, e a própria loja classifica a sustentação como leve."
+          "A SkinUp é descrita pela loja como segunda pele de corte a laser e acabamento ultrafino, sem costura. O Top Segunda Pele tem alça larga, sem fecho ou regulagem; o Sutiã Top Alça Fina tem alças reguláveis e fecho de quatro níveis. Entre os cinco tops comparados neste capítulo, o Alça Fina é o único com PP. O Sutiã Clássico tem bojo fixo, sem aro, e efeito push-up anunciado pela marca.",
+          "Na Cotton Up, o Top Faixa tem corte reto e o Top Triangular, decote em V. Ambos têm bojo removível; o Faixa é descrito como algodão com 5% de elastano, e a loja classifica a sustentação como leve.",
+          "Compare a peça com a roupa que vai por cima e com as suas medidas. O acabamento divulgado pela marca ajuda a escolher o formato, mas não garante invisibilidade em toda roupa."
         ],
         "comparisonTable": {
           "headers": [
@@ -180001,13 +180004,13 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista do site, sem o código; os cinco tops estavam com desconto de promoção no dia."
         },
         "postParagraphs": [
-          "O número não passa de uma linha para a outra: o P da Cotton Up é 36-38 e o da SkinUp, 38-40. Para blusa colada, não escolha a Cotton Up: ela não tem o corte a laser que faz a SkinUp sumir na roupa. Para quem veste PP, só o Alça Fina. As medidas em centímetros de cada top e das calcinhas, e as sugestões de combinação de cada peça, estão no [guia SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
+          "A numeração muda entre as linhas: P é 36–38 na Cotton Up e 38–40 na SkinUp. Confira a tabela do modelo, sem converter o tamanho automaticamente. As medidas em centímetros e as combinações sugeridas estão no [guia SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
         ],
         "images": [
           {
             "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
             "alt": "Sutiã Top Alça Fina SkinUp preto, com alças finas e decote em V, em foto oficial da loja",
-            "caption": "O Sutiã Top Alça Fina: o único top da loja com PP. Imagem: Toda Up.",
+            "caption": "Sutiã Top Alça Fina, o único com PP entre os tops deste capítulo. Imagem: Toda Up.",
             "objectFit": "wide",
             "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
           }
@@ -180078,7 +180081,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up: a fita que deu nome à marca",
         "paragraphs": [
-          "A Fita Up é para o decote que nenhum sutiã resolve, e a largura se escolhe pelo tamanho da roupa: P até o 44, M até o 48 e G até o 54, pelo guia da página. A loja a descreve como fita adesiva para seios, de poliéster com elastano e cola acrílica à base de água, e a marca fala em até 12 horas no corpo. O uso é cortar um pedaço por vez, colar da base do seio para cima, sem esticar, com o protetor de mamilo por baixo, e tirar devagar com hidratante ou óleo. Dá para colar de novo, mas a marca não recomenda, porque a fita perde cola a cada uso: conte um pedaço por uso. Por que ela descola, se dá alergia e se pode molhar está em [Fita Up não cola ou descola?](/reviews/fita-up-cuidados-cola-pele-agua). Vem em Bege, Marrom e Preto. Se você quer uma peça pronta, pule a fita: o Sutiã de Silicone Invisível é a opção de colar sem cortar, no capítulo seguinte."
+          "A Fita Up é a opção adesiva cortada para o decote, disponível em Bege, Marrom e Preto. O guia da marca indica P até o 44, M até o 48 e G até o 54; o FAQ fala em até 52 com segurança. Se essa diferença afetar sua escolha, confirme a indicação com a Toda Up antes de comprar. O [passo a passo da Fita Up](/reviews/fita-up-como-usar) reúne aplicação, remoção e precauções; para problemas de cola, veja [os cuidados com pele e água](/reviews/fita-up-cuidados-cola-pele-agua). Conte um pedaço por uso. Se prefere uma peça pronta de colar, compare o Sutiã de Silicone Invisível no capítulo de adesivos."
         ],
         "images": [
           {
@@ -180173,8 +180176,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o código e onde comprar",
         "paragraphs": [
-          "O código da Toda Up tira 10% de todo o site, inclusive da peça que já está em promoção, e a compra é só no site oficial. No teste do carrinho, os 10% saíram do preço promocional do Comfort Up; num carrinho maior, a promoção progressiva da loja entrou primeiro, sozinha, e o código tirou mais 10% do que sobrou. É assim que a conta funciona em campanha: a linha da loja vem antes, a do código depois, e o total do carrinho é o que vale. Pelo botão desta página, o site já abre com o código aplicado; se a linha não aparecer no resumo do pedido, cole MAUAD no campo de cupom do checkout. O passo a passo e as regras estão na página do [cupom Toda Up](/cupons/toda-up).",
-          "A loja libera frete grátis em campanhas; fora delas, o frete sai pelo CEP no checkout, por Sedex, Loggi ou Jadlog. A campanha de fim de ano da loja tem guia próprio, listado no fim; nenhum preço de campanha entra aqui, porque ele muda sem aviso."
+          "O código da Toda Up tira 10% no site oficial, inclusive sobre peça em promoção. No teste com o Comfort Up, o desconto saiu do preço promocional; em um carrinho maior, a promoção progressiva entrou antes e o código aplicou 10% sobre o valor restante. Confira as linhas no resumo do pedido.",
+          "Pelo botão deste artigo, a loja abre com o código aplicado. Se a linha não aparecer, cole MAUAD no campo de cupom. O passo a passo e as condições estão na página do [cupom Toda Up](/cupons/toda-up). A marca também vende em outros canais; este desconto é do site oficial.",
+          "O frete é informado pelo CEP no checkout. Confira se há campanha de frete grátis para o pedido escolhido."
         ]
       },
       {
@@ -180193,19 +180197,19 @@ export const reviewsData: unknown[] = [
         "heading": "Para quem vale e para quem não vale",
         "bullets": [
           "Para o sutiã de todo dia com a maior faixa de tamanho, o Comfort Up; para tomara que caia, o Comfort Line, a partir do P.",
-          "Para a peça que some sob regata e roupa justa, a SkinUp; o Sutiã Top Alça Fina é o único top da loja com PP.",
+          "Para comparar segunda pele sob regata ou roupa justa, veja a SkinUp; entre os cinco tops do capítulo, o Alça Fina é o único com PP.",
           "Para algodão e preço menor, em casa e sob roupa larga, a Cotton Up.",
           "Para o decote sem sutiã, a Fita Up, cortada por uso, ou o Sutiã de Silicone Invisível, pronto.",
           "Para três conjuntos ou os três sutiãs de uma vez, os kits de três conjuntos ou o Kit Comfort Up; o de um conjunto quase não economiza.",
           "Não vale para quem veste PP e quer o Comfort Line, o Top Segunda Pele ou um kit de top e calcinha: todos começam no P.",
           "Não vale para quem precisa saber o prazo do reembolso antes de comprar: a política não fixa."
         ],
-        "emphasis": "Se fosse para mim, eu começaria pelo Comfort Up: é o sutiã de todo dia que eu indicaria a quem ainda não sabe a própria medida."
+        "emphasis": "Antes de escolher um Comfort, confira a medida na coluna daquele modelo. A mesma letra não tem a mesma medida nos três."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Toda Up é boa? Para quem quer sutiã de todo dia ou segunda pele com a tabela de medidas na página, sim: três sutiãs Comfort, as linhas SkinUp e Cotton Up e os adesivos, só no site oficial; o que decide é a sua medida na coluna da peça, como mostram os capítulos das linhas.",
+          "A Toda Up é boa? Depende da peça: cada linha tem um uso definido, e a tabela de medidas de cada modelo mostra o tamanho certo. O cupom deste artigo vale só no site oficial.",
           "Toda Up tem cupom? Tem: o código da Toda Up, MAUAD, dá 10% em todo o site, inclusive em peça já em promoção, e soma com a promoção da loja; o capítulo do preço mostra como ele entra no carrinho.",
           "A Toda Up é confiável? É: empresa registrada em Biguaçu (SC), com o CNPJ no rodapé, troca em 30 dias e reputação Ótima no Reclame Aqui; os números estão no capítulo de confiança.",
           "Sutiã da Toda Up é bom? Pela página da loja, os três sutiãs Comfort têm o mesmo tecido e o mesmo preço, e o que muda é a faixa de tamanho e as alças; o capítulo dos sutiãs resume, e o guia dos Comfort, listado no fim, traz a tabela de busto.",
@@ -188956,7 +188960,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer o menor preço sem depender de promoção do dia e a troca de 30 dias pelo portal da marca: compre no site com o cupom.",
+        "Você comparou o total com frete e prefere comprar no site com MAUAD e troca pelo portal da marca.",
         "Você quer ver a fita pessoalmente antes de levar e mora perto de uma loja parceira."
       ],
       "skipIf": [
@@ -188988,11 +188992,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço de tabela, o site oficial da Toda Up com o cupom é o lugar mais em conta, e ainda tem a troca pelo portal da marca. A loja oficial no Mercado Livre às vezes fica abaixo, mas só em promoção do dia; o veredito e o que conferir estão em \"Qual canal escolher\"."
+          "Nos preços comparados, o site oficial da Toda Up com MAUAD tem o menor preço do produto antes do frete, além da troca pelo portal da marca. Uma promoção no Mercado Livre pode mudar essa ordem. Compare o total para o seu CEP; o capítulo “Qual canal escolher” mostra o que conferir."
         ]
       },
       {
-        "heading": "Onde a Fita Up é vendida hoje",
+        "heading": "Onde a Fita Up é vendida",
         "paragraphs": [
           "A Fita Up não é exclusiva do site: a própria Toda Up vende também no Mercado Livre, na Amazon e pela Drogasil e pela Droga Raia, e a marca lista lojas físicas parceiras."
         ],
@@ -189068,7 +189072,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom MAUAD: só no site oficial",
         "paragraphs": [
           "O MAUAD dá 10% e vale só no site oficial; no Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela.",
-          "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, a fita do site fica abaixo de todos os outros canais. O Mercado Livre só fica mais barato quando a loja oficial roda promoção, com desconto do produto e cupom da loja somados, e isso muda de um dia para o outro. Antes de fechar no site, abra [a loja oficial da Fita Up](https://meli.la/2qNDns1) e veja se há promoção no momento; sem ela, o site com o cupom ganha.",
+          "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, o produto no site fica abaixo dos demais canais comparados, antes do frete. Promoções do Mercado Livre podem mudar a ordem. Confira a oferta atual [na loja oficial da Fita Up](https://meli.la/2qNDns1) e compare o total para o seu CEP.",
           "Os preços da tabela são sem frete. No site, uma fita sozinha fica abaixo da faixa de frete grátis (compras acima de R$ 199), então ponha o CEP no carrinho antes de comparar; no Mercado Livre, o anúncio com Full mostra o frete e o dia da entrega. Para duas fitas, o kit Leve 2 do site aceitou o MAUAD no nosso teste de carrinho e chega mais perto do frete grátis.",
           "Para comprar no site com o cupom, [use este link da Toda Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao). As regras do cupom estão na [página da Toda Up em Cupons](/cupons/toda-up)."
         ],
@@ -189083,22 +189087,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up perto de mim",
         "paragraphs": [
-          "Para ver a fita perto de você, o caminho é o localizador de lojas parceiras da própria marca. A Toda Up publica a [lista de lojas parceiras](https://todaup.com/pages/localizador-lojas-parceiras) com 1.659 pontos, e dá para filtrar as lojas por \"Pronta-entrega\" e por \"Delivery\", para quem quer a fita no mesmo dia sem sair de casa.",
-          "Num raio de 15 km, o localizador mostra 13 pontos no Rio, 26 em Belo Horizonte e mais de 50 em São Paulo. Em Florianópolis, perto da sede da marca, são 33 no mesmo raio. A lista traz o WhatsApp de cada loja: chame ou ligue antes de ir, para saber se a cor e o tamanho estão na prateleira."
+          "Para encontrar a fita perto de você, consulte a [lista de lojas parceiras](https://todaup.com/pages/localizador-lojas-parceiras). Ela tem 1.659 pontos e filtros de “Pronta-entrega” e “Delivery”. Confirme estoque e prazo com a loja; o filtro não garante entrega no mesmo dia.",
+          "Num raio de 15 km, o localizador mostrava 13 pontos no Rio, 26 em Belo Horizonte e mais de 50 em São Paulo. Em Florianópolis, perto da sede da marca, eram 33 no mesmo raio. A lista traz o WhatsApp de cada loja: chame ou ligue antes de ir, para saber se a cor e o tamanho estão na prateleira."
         ]
       },
       {
         "heading": "Qual canal escolher",
         "paragraphs": [
-          "Pelo preço de tabela, o site com o cupom é a compra mais em conta e a única com a troca pelo portal da marca; o Mercado Livre só passa à frente em dia de promoção.",
-          "**Menor preço sem promoção:** site oficial, com o MAUAD. É também o canal em que a política de troca da marca vale sem ressalva.",
+          "Nos preços comparados, o site com MAUAD tem o menor preço do produto antes do frete e a troca pelo portal da marca. Para decidir o canal, confira promoção, entrega e total no dia da compra.",
+          "**Menor preço de produto na tabela, antes do frete:** site oficial com MAUAD. A troca dessa compra segue o portal da marca.",
           "**Dia de promoção:** confira a loja oficial do Mercado Livre pelo botão abaixo antes de fechar; com desconto do produto e cupom da loja somados, ela pode ficar abaixo do site.",
           "**Prefere a Amazon:** compre da loja da Toda Up, enviada pela Amazon, e não do vendedor de fora do mesmo anúncio.",
           "**Outro marketplace:** compre só da loja oficial da marca; de outro vendedor, a troca e a garantia ficam com ele.",
           "**Quer ver antes de levar:** a loja parceira mais perto, depois de chamar no WhatsApp.",
           "**Drogasil e Droga Raia:** só se já estiver lá; há uma variação, sem estoque."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up do site oficial com o cupom. Vale conferir e comparar o preço no Mercado Livre e na Amazon, mas normalmente é o site que dá o melhor custo-benefício.",
+        "emphasis": "Se fosse para a minha casa, eu começaria pelo site oficial com MAUAD. Antes de fechar, compararia o total com frete e a previsão de entrega com a loja oficial no Mercado Livre e a Toda Up na Amazon.",
         "links": [
           {
             "label": "Ver no Mercado Livre",
@@ -189115,9 +189119,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Fita Up onde comprar? No site oficial da Toda Up, com o cupom, e também na loja oficial do Mercado Livre, na Amazon, na Drogasil e em lojas parceiras. O capítulo \"Onde a Fita Up é vendida hoje\" mostra o vendedor de cada um.",
+          "Fita Up onde comprar? No site oficial da Toda Up, com o cupom, e também na loja oficial do Mercado Livre, na Amazon, na Drogasil e em lojas parceiras. O capítulo \"Onde a Fita Up é vendida\" mostra o vendedor de cada um.",
           "Fita Up original no Mercado Livre? Sim, quando o vendedor é a loja oficial Fita Up, com o selo de loja oficial; revendedores de fora são outra coisa. O capítulo \"Fita Up original\" explica o que conferir.",
-          "Fita Up tem na Drogasil? Tem uma variação, vendida pela própria Fita UP, mas sem estoque nas duas redes hoje. O capítulo \"Onde a Fita Up é vendida hoje\" traz o resto.",
+          "Fita Up tem na Drogasil? Havia uma variação vendida pela própria Fita UP, sem estoque na Drogasil e na Droga Raia. Confira a disponibilidade atual no anúncio.",
           "Fita Up tem loja física? Tem, nas lojas parceiras que a marca lista no localizador. O capítulo \"Fita Up perto de mim\" diz como achar a mais próxima."
         ]
       }
@@ -189675,7 +189679,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up ou Lib: formato e tamanho",
         "paragraphs": [
-          "O que separa as duas é como você acerta o tamanho. A Fita Up vem em três larguras, escolhidas pelo número do sutiã: P até o 44, M até o 48 e G até o 54. A Lib é um rolo de 9 cm x 5 m que você corta na medida do decote; a página da Drogasil não diz para quais tamanhos de busto ele serve. O passo a passo de colar e tirar a Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+          "O que separa as duas é como você acerta o tamanho. A Fita Up vem em três larguras, escolhidas pelo número do sutiã: P até o 44, M até o 48 e G até o 54. O FAQ da marca menciona até o 52, então confirme sua numeração com a loja antes de comprar. A Lib é um rolo de 9 cm x 5 m que você corta na medida do decote; a página da Drogasil não diz para quais tamanhos de busto ele serve. O passo a passo de colar e tirar a Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -189686,7 +189690,7 @@ export const reviewsData: unknown[] = [
           "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         },
         "postParagraphs": [
-          "A Lib pede mais atenção ao relógio: a página da Drogasil manda tirar a fita antes do limite, porque passar dele pode irritar a pele, e não indica o uso em gestantes, lactantes ou peles sensíveis. Os protetores de mamilo já vêm na caixa da Lib; na Fita Up, o passo a passo pede o protetor antes de colar. Em qualquer uma das duas, teste a fita antes numa área pequena da pele."
+          "A Lib pede mais atenção ao relógio: a página da Drogasil manda tirar a fita antes do limite de dez horas, porque passar dele pode irritar a pele, e desaconselha o uso em gestantes, lactantes ou peles sensíveis. Os protetores de mamilo já vêm na caixa da Lib; na Fita Up, o passo a passo pede o protetor antes de colar. Em qualquer uma das duas, teste a fita antes numa área pequena da pele."
         ],
         "comparisonTable": {
           "caption": "Preços de 05/11. O da Lib é o da Drogasil, sem promoção.",
@@ -190780,10 +190784,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as informações publicadas pela Toda Up; ninguém do site usou a fita. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "decision": {
       "takeIf": [
-        "Use a Fita Up se você pode colar em pele limpa e seca e tirar em até 12 horas, ou em até 8 no calor."
+        "Considere a Fita Up se as restrições da marca não se aplicam a você e consegue seguir o pré-teste, a aplicação em pele limpa e seca e os limites de até 12 horas, ou até 8 acima de 30 °C."
       ],
       "skipIf": [
-        "Passe se você amamenta, está grávida ou tem a pele irritada: a marca não recomenda o uso.",
+        "Passe se você amamenta, está grávida, tem menos de 18 anos ou tem pele hipersensível, intolerante, queimada ou irritada: a marca não recomenda o uso.",
         "Passe se precisa de algo para piscina ou mar: a marca não fala desse uso para a fita."
       ]
     },
@@ -190811,19 +190815,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up diz que a cola da Fita Up é hipoalergênica, resistente à água e ao suor, e dura até 12 horas no corpo, ou até 8 no calor. Ela descola mais na pele úmida ou com creme e quando é reaproveitada. A marca não recomenda o uso na amamentação nem na gestação."
+          "Se a Fita Up não cola, confira os cuidados da Toda Up: pele limpa e seca, sem creme ou óleo, e um pedaço novo. A marca pede pré-teste e informa até 12 horas de uso, ou até 8 acima de 30 °C. Não recomenda a fita na gestação nem na amamentação; as demais restrições estão abaixo."
         ]
       },
       {
         "heading": "Por que a Fita Up descola ou não cola",
         "paragraphs": [
-          "Pela aba \"Como usar e remover\" da página do produto e pelo FAQ da loja, a fita segura menos nestes casos:"
+          "Se a fita não cola ou começa a soltar, confira as orientações de aplicação, tempo de uso e armazenamento publicadas pela Toda Up:"
         ],
         "bullets": [
           "**Pele com creme, óleo ou úmida:** a marca pede a pele limpa e seca antes de colar.",
           "**Fita puxada demais:** o passo a passo manda colar da base do seio para cima, sem esticar demais.",
-          "**Fita reaproveitada:** dá para colar de novo, mas a marca diz que a fita perde cola e sustentação a cada uso, e não recomenda.",
-          "**Calor acima de 30 graus:** nesses dias, o FAQ fala em até 8 horas de uso, e não nas 12 de sempre.",
+          "**Fita reaproveitada:** a Toda Up não recomenda reutilizar. É possível recolocar, mas a fita perde cola e sustentação a cada uso.",
+          "**Calor acima de 30 °C:** o FAQ limita o uso a até 8 horas; a página do produto informa até 12 horas nas demais condições.",
           "**Rolo vencido ou mal guardado:** a validade é de até 1 ano depois de aberto, longe de calor, umidade e luz."
         ],
         "postParagraphs": [
@@ -190841,7 +190845,7 @@ export const reviewsData: unknown[] = [
         "heading": "Fita Up dá alergia? Machuca a pele?",
         "paragraphs": [
           "A Toda Up descreve a cola como \"hipoalergênica e dermatologicamente testada\", mas pede um pré-teste com um pedaço pequeno, porque cada pele reage de um jeito. O adesivo é acrílico à base de água, e o tecido, 98,5% poliéster e 1,5% elastano, pelo FAQ da loja.",
-          "Para tirar sem machucar, a Toda Up orienta passar hidratante, óleo corporal ou água morna sobre a fita e puxar devagar, pelas laterais. Com qualquer incômodo na pele, a marca manda suspender o uso e procurar o médico."
+          "Para remover a fita, a Toda Up orienta passar hidratante, óleo corporal ou água morna sobre ela e puxar devagar, pelas laterais. Com qualquer incômodo na pele, a marca manda suspender o uso e procurar o médico."
         ]
       },
       {
@@ -190896,11 +190900,11 @@ export const reviewsData: unknown[] = [
           "A Fita Up pode molhar? A Toda Up diz que a fita é resistente à água e ao suor. A marca não diz que ela é à prova d'água: essa expressão é do protetor de silicone.",
           "Pode usar a Fita Up na piscina? A marca não fala de piscina nem de mar para a fita; diz só que ela é resistente à água e ao suor.",
           "A Fita Up dá alergia? A Toda Up descreve a cola como hipoalergênica e dermatologicamente testada, mas pede um pré-teste com um pedaço pequeno, porque cada pele reage de um jeito.",
-          "Por que a Fita Up não cola? Os motivos que a marca aponta são pele úmida ou com creme, fita esticada demais, pedaço reaproveitado e calor acima de 30 graus, quando o uso cai para até 8 horas.",
-          "Dá para reutilizar a Fita Up? Dá, mas a Toda Up não recomenda: a fita perde cola e sustentação a cada uso.",
+          "Por que a Fita Up não cola? Confira se a pele está limpa e seca, sem creme ou óleo, se o pedaço é novo e se a fita foi aplicada sem esticar demais. Esses são cuidados publicados pela Toda Up. Acima de 30 °C, o FAQ limita o uso a até 8 horas.",
+          "Dá para reutilizar a Fita Up? A Toda Up não recomenda. É possível recolocar, mas a fita perde cola e sustentação a cada uso.",
           "Quanto tempo a Fita Up dura no corpo? Até 12 horas, pela página do produto, e até 8 horas em dias acima de 30 graus, pelo FAQ.",
           "Pode usar a Fita Up amamentando? A Toda Up não recomenda a fita na amamentação nem na gestação.",
-          "Como tirar a Fita Up sem doer? Passe hidratante, óleo corporal ou água morna sobre a fita e puxe devagar, pelas laterais, como orienta a marca."
+          "Como tirar a Fita Up sem doer? A orientação da Toda Up é passar hidratante, óleo corporal ou água morna sobre a fita e puxar devagar, pelas laterais. Esse procedimento não garante uma retirada sem dor."
         ]
       }
     ]
@@ -190935,16 +190939,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer o sutiã de silicone mais barato com o cupom, para vestido de festa ou costas nuas: a Toda Up, pelo site oficial.",
-        "Você veste EG ou quer o sutiã que a loja diz durar mais usos: a Hope, com 25 a 30 contra 12 da Toda Up."
+        "Você prefere cobertura de silicone e o menor preço entre as duas peças: a Toda Up com o cupom MAUAD.",
+        "Você procura tamanho EG ou prioriza a maior quantidade de usos declarada pela marca: a Hope. Confira a tabela de medidas antes de comprar."
       ],
       "skipIf": [
-        "Você procura fita para seios: a Hope não tem, e a fita é a Fita Up.",
-        "Você quer silicone e veste EG: a Toda Up para no G (44/48), e a Hope, que tem EG, é de tecido."
+        "Você procura fita para seios: veja a Fita Up. A Fashion Tape da Hope é para prender roupa.",
+        "Você procura cobertura de silicone em EG: a Toda Up vai até G (44/48), e a Hope tem cobertura de tecido, com adesivo de silicone por dentro."
       ]
     },
     "cta": {
-      "text": "Para comprar o sutiã no site oficial, entre pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+      "text": "Abra o site oficial da Toda Up pelo botão e confira se o desconto de 10% do MAUAD aparece no carrinho antes de pagar.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -190976,16 +190980,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom MAUAD, o sutiã da Toda Up sai mais barato que o da Hope, que custa o mesmo na página. A Hope diz até 30 usos, contra 12 da Toda Up, e tem tamanho EG. Se você procura fita para seios, a Hope não tem, e o capítulo sobre a fita mostra o que muda."
+          "Com MAUAD, o sutiã da Toda Up fica abaixo do preço da Hope na página. A Hope tem EG e declara de 25 a 30 usos; a Toda Up, até 12. Para fita de seios, há a Fita Up; a Fashion Tape da Hope é para prender roupa."
         ]
       },
       {
         "heading": "As duas lado a lado",
         "paragraphs": [
-          "Na página, as duas custam o mesmo. O que separa é o cupom, que só a Toda Up tem, o material (silicone numa, tecido na outra) e o tamanho, que na Hope chega ao EG. O passo a passo de colar e tirar a peça da Toda Up está em [Sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
+          "Preços e catálogo vêm das páginas das lojas, em 6 de novembro de 2026: Toda Up com MAUAD e Hope pelo preço de página. A cobertura é de silicone na Toda Up e de tecido na Hope; as duas aderem à pele. O passo a passo de colar e tirar a peça da Toda Up está em [Sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Páginas das lojas, lidas em 6 de novembro de 2026. Preço da Toda Up com o cupom MAUAD.",
+          "caption": "Informações das páginas das lojas. Toda Up com MAUAD; Hope pelo preço de página. Usos declarados pelas marcas.",
           "headers": [
             "",
             "Sutiã de Silicone Invisível (Toda Up)",
@@ -191018,7 +191022,7 @@ export const reviewsData: unknown[] = [
               "Decote profundo nas costas"
             ],
             [
-              "Usos",
+              "Usos declarados pelas marcas",
               "Até 12 vezes",
               "De 25 a 30 vezes"
             ],
@@ -191040,47 +191044,54 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho: a Hope tem EG",
         "paragraphs": [
-          "A Toda Up vai até o G (44/48). Se você veste EG, só a Hope tem esse tamanho.",
+          "Entre as duas peças comparadas, a Hope oferece EG; a Toda Up vai até G (44/48). As letras dos tamanhos não garantem a mesma medida nas duas marcas.",
           "Cada marca tem a própria tabela: meça o busto e confira a da loja escolhida antes de pagar."
         ]
       },
       {
         "heading": "Quantas vezes dá para usar e como lavar",
         "paragraphs": [
-          "A Hope diz na página do produto que o sutiã “pode ser usado de 25 à 30 vezes”. A Toda Up diz até 12 vezes, na página do produto e no FAQ: menos da metade do número da Hope.",
+          "A Hope declara de 25 a 30 usos; a Toda Up, até 12. Essas quantidades ajudam a comparar a expectativa de reutilização, mas não comprovam qual peça durará mais no seu uso.",
           "Na lavagem, as duas pedem água e sabão neutro e secagem ao natural. A Hope pede lavagem à mão; a Toda Up só fala em água e sabão neutro."
         ]
       },
       {
         "heading": "A Hope tem fita para seios?",
         "paragraphs": [
-          "Não. A Hope vende a Fashion Tape, 36 fitas dupla face descartáveis numa caixinha, para prender roupa. Quem quer fita para o busto fica com a Fita Up, da Toda Up: o jeito de colar, tirar e até quando ela segura está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+          "A Hope não tem fita para seios. A Fashion Tape traz 36 fitas dupla face descartáveis para prender roupa. Para o busto, há a Fita Up, da Toda Up: veja as instruções de aplicação, retirada e tempo de uso em [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ]
       },
       {
         "heading": "Preço com o cupom e onde comprar",
         "paragraphs": [
-          "Conta nossa, pelos preços de página: as duas custam o mesmo na loja, e só a Toda Up tem desconto. O [cupom Toda Up](/cupons/toda-up) dá 10% no site oficial e tira R$ 14,99 do sutiã; a Hope fica no preço de página.",
+          "Conta nossa: os 10% do MAUAD reduzem o sutiã da Toda Up de R$ 149,90 para R$ 134,91. A diferença é de R$ 14,99 em relação ao preço da Hope na página, que não tem desconto aplicado.",
           "Na fita, a Fita Up custa R$ 116,90 na página e, com o cupom, R$ 105,21; no Leve 2, cada uma sai por R$ 84,17 com o cupom, R$ 168,34 as duas.",
           "O sutiã se compra no site oficial da Toda Up, pelo botão deste artigo; a fita, no site e nas lojas listadas em [Fita Up original: onde comprar](/reviews/fita-up-onde-comprar-original). A Hope vende na loja oficial da marca."
+        ],
+        "links": [
+          {
+            "label": "cupom Toda Up",
+            "href": "/cupons/toda-up"
+          }
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "**Quer o sutiã mais barato com cupom, de silicone e para vestido de festa ou costas nuas:** Toda Up, com o MAUAD, R$ 14,99 abaixo da Hope na página.",
-          "**Veste EG, ou quer mais usos do mesmo sutiã:** Hope, que diz de 25 a 30 vezes, contra 12 da Toda Up.",
-          "**Quer fita para seios:** a Fita Up, já que a Hope não tem fita para o busto.",
+          "**Prefere cobertura de silicone e menor preço entre as duas peças:** Toda Up com MAUAD, considerando os valores da tabela.",
+          "**Procura EG ou prioriza a quantidade de usos declarada:** Hope, após conferir as medidas.",
+          "**Quer fita para seios:** a Fita Up. A Fashion Tape da Hope é para prender roupa.",
           "Antes de pagar, meça o busto e confira a tabela da loja escolhida."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O sutiã adesivo da Hope é bom? A página descreve cobertura de tecido, silicone por dentro, fecho central, até 30 usos e tamanho EG. Ela não diz como o sutiã se comporta no uso; isso fica com quem já comprou.",
+          "O sutiã adesivo da Hope é bom? A página descreve cobertura de tecido, adesivo interno de silicone, fecho central, tamanho EG e de 25 a 30 usos. Essas informações ajudam a escolher, mas não bastam para avaliar conforto, aderência ou durabilidade.",
           "Como lavar o sutiã adesivo da Hope? À mão, com sabão neutro, secando naturalmente.",
-          "A Hope tem fita para seios? Não. A Fashion Tape é fita dupla face para prender roupa; a fita para seios é a [Fita Up](/reviews/fita-up-como-usar), da Toda Up.",
-          "Qual sai mais barato com cupom? O sutiã da Toda Up, com o MAUAD; os valores estão na tabela do início."
+          "A Hope tem fita para seios? Não. A Fashion Tape é fita dupla face para prender roupa; para o busto, há a [Fita Up](/reviews/fita-up-como-usar), da Toda Up.",
+          "Qual sai mais barato com cupom? Entre as duas peças e pelos valores da tabela, o sutiã da Toda Up com MAUAD fica abaixo do preço de página da Hope.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira as condições na página do cupom Toda Up."
         ]
       }
     ]
@@ -191115,18 +191126,18 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer o sutiã com bojo, precisa de GG ou só aceita preto, e a roupa tem decote, transparência ou alça fina: a Lupo.",
-        "Você quer silicone que cola na pele para vestido de festa ou frente única, com tamanho até o G: o Sutiã de Silicone Invisível, com o cupom.",
-        "Você só quer cobrir o mamilo: o Protetor de Silicone Ultrafino da Toda Up, que não é sutiã."
+        "Você procura bojo de tecido em preto: considere o Sutiã Aderente da Lupo e confira a numeração na tabela.",
+        "Você procura um sutiã de silicone para vestido de festa ou frente única: a Toda Up indica o Sutiã de Silicone Invisível para essas roupas, na grade de 38/40 a 44/48.",
+        "Você só quer cobrir o mamilo: considere o Protetor de Silicone Ultrafino da Toda Up, que não é sutiã."
       ],
       "skipIf": [
-        "Você usa GG e a Toda Up não serve: ela para no G.",
-        "Você precisa saber como lavar e quantas vezes usar o da Lupo: a página não traz isso.",
-        "Você procura fita para seios na Lupo: a loja oficial não tem; a fita é a da Toda Up."
+        "Passe o sutiã da Toda Up se você usa 36 ou 50: esses números aparecem só na grade da Lupo. Para o 48, confira também o G 44/48 da Toda Up.",
+        "Adie a escolha da Lupo se você precisa confirmar os cuidados: a página não informa lavagem nem quantidade de usos; peça essas orientações à marca.",
+        "Passe os dois sutiãs se você procura fita para seios: a Lupo não tem, e a fita é a Fita Up, da Toda Up."
       ]
     },
     "cta": {
-      "text": "Para comprar o Sutiã de Silicone Invisível no site oficial, entre pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+      "text": "O botão leva ao site oficial da Toda Up pelo link com MAUAD. Confira a aplicação do desconto e o total do Sutiã de Silicone Invisível no carrinho.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -191158,16 +191169,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom MAUAD, o sutiã de silicone da Toda Up sai um pouco mais barato que o aderente da Lupo. A Lupo tem bojo de tecido e vai ao GG, só em preto; a Toda Up é de silicone e vai até o G. Seu número e a roupa decidem, e a tabela de tamanho mostra cada uma."
+          "Nos preços comparados, o sutiã da Toda Up fica um pouco mais barato com MAUAD. A Lupo tem bojo de tecido em preto, do 36 ao 50; a Toda Up tem sutiã de silicone, do 38/40 ao 44/48. Confira a numeração e as indicações de roupa de cada loja: as letras dos tamanhos não são equivalentes."
         ]
       },
       {
         "heading": "As duas lado a lado",
         "paragraphs": [
-          "O que separa as duas é o material. A Lupo vende um sutiã aderente de tecido, com bojo leve e macio e silicone por dentro; a Toda Up vende um adesivo de silicone, que cola na pele e serve para vestido de festa e frente única."
+          "A Lupo descreve uma peça de tecido com bojo leve e macio e silicone aderente por dentro. A Toda Up apresenta um sutiã adesivo de silicone para vestido de festa e frente única. Compare a construção e o formato de cada peça com o recorte da roupa que você pretende usar."
         ],
         "comparisonTable": {
-          "caption": "Lido nas páginas das lojas. O preço da Toda Up leva o cupom MAUAD.",
+          "caption": "Características e indicações informadas pelas lojas. O valor com MAUAD é um cálculo de 10% sobre o preço publicado pela Toda Up.",
           "headers": [
             "",
             "Sutiã Aderente da Lupo",
@@ -191197,7 +191208,7 @@ export const reviewsData: unknown[] = [
             [
               "Quantas vezes usar",
               "A página não informa",
-              "Até 12 vezes"
+              "Até 12 vezes, segundo a Toda Up"
             ],
             [
               "Preço na página",
@@ -191248,14 +191259,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Quem usa 36 ou 50 só acha o tamanho na Lupo: a Toda Up vai do 38/40 ao 44/48."
+          "Entre as duas grades, os números 36 e 50 aparecem apenas na Lupo. Já o 48 aparece no GG da Lupo e no G 44/48 da Toda Up: compare a numeração, não só a letra. A grade não garante estoque; confira o tamanho na loja."
         ]
       },
       {
         "heading": "Bojo, cor e roupa",
         "paragraphs": [
-          "A Lupo diz que o bojo é leve e macio, que sustenta, cobre o busto, aproxima e desenha o colo. Na descrição da loja, o bojo interno é aderente de silicone de \"uso clínico\". A peça só aparece na cor preta.",
-          "Para roupa com decote, transparência ou alça fina, a Lupo; para vestido de festa ou frente única, sem alça e de costas nuas, a Toda Up. Quando o tamanho serve nas duas, é a roupa que decide."
+          "Na página da Lupo, o Sutiã Aderente aparece em preto, com composição principal de 100% poliéster e silicone aderente na parte interna do bojo. É uma opção para quem procura bojo de tecido nessa cor.",
+          "A Lupo indica a peça para decote, transparência e alça fina, com costas livres; a Toda Up indica a sua para vestido de festa e frente única, sem alças e com costas nuas. As indicações podem se sobrepor. Compare o formato da peça com o recorte da roupa, além da numeração."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
@@ -191275,18 +191286,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Lupo tem fita para seios?",
         "paragraphs": [
-          "Não na loja oficial.",
+          "A Lupo não tem fita para seios na loja oficial.",
           "Quem procura fita encontra a Fita Up, da Toda Up, em P, M e G; a Toda Up diz que a cola dura até 12 horas. Veja [Fita Up: como usar](/reviews/fita-up-como-usar) e [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original)."
         ]
       },
       {
         "heading": "Preço com o cupom e onde comprar",
         "paragraphs": [
-          "Conta nossa, pelos preços de página: o sutiã da Toda Up cai para R$ 134,91 com o MAUAD, R$ 4,99 abaixo dos R$ 139,90 da Lupo. O da Toda Up se compra no site oficial, pelo botão desta página; o da Lupo, na loja da marca, pelo preço de página.",
-          "O MAUAD dá 10% no site da Toda Up. A página da marca diz que cupom não acumula com kit, \"salvo cupons de influenciadoras\": o MAUAD soma com o Leve 2 da Fita Up, e duas unidades saem por R$ 168,34, ou R$ 84,17 cada. As regras estão no [cupom Toda Up](/cupons/toda-up)."
+          "Os preços das páginas das lojas são de 06/11/2026. Conta nossa: aplicar os 10% do MAUAD ao preço publicado do sutiã da Toda Up resulta em R$ 134,91, R$ 4,99 abaixo dos R$ 139,90 da Lupo, antes do frete. Confira o preço e o total no carrinho antes de comprar.",
+          "O MAUAD também soma com o Leve 2 da Fita Up: duas unidades saem por R$ 168,34, ou R$ 84,17 cada. Consulte as condições do cupom Toda Up no link abaixo."
         ],
         "comparisonTable": {
-          "caption": "Preços de 06/11 nas páginas das lojas; a coluna do cupom aplica os 10% do MAUAD.",
+          "caption": "Preços publicados pelas lojas, antes do frete. A coluna com MAUAD aplica 10% de desconto aos valores da Toda Up.",
           "headers": [
             "",
             "Preço na página",
@@ -191314,25 +191325,38 @@ export const reviewsData: unknown[] = [
               "R$ 105,21"
             ]
           ]
-        }
+        },
+        "links": [
+          {
+            "label": "cupom Toda Up",
+            "href": "/cupons/toda-up"
+          }
+        ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Quer GG, bojo de tecido e roupa com decote ou alça fina: o Sutiã Aderente da Lupo, que só vem em preto.",
-          "Quer silicone que cola na pele, para vestido de festa ou frente única, até o G: o Sutiã de Silicone Invisível da Toda Up, que sai por R$ 134,91 com o cupom. Antes de colar, leia o [guia de uso do sutiã](/reviews/sutia-de-silicone-invisivel-como-usar).",
-          "Quer cobrir só o mamilo: o Protetor de Silicone Ultrafino da Toda Up, que não é sutiã. O preço com o cupom está na tabela acima.",
-          "Pelo preço, a Toda Up fica um pouco abaixo. Pelo tamanho, quem usa 50 fica com a Lupo."
+          "Quer bojo de tecido em preto: considere o Sutiã Aderente da Lupo. Se usa 36 ou 50, a grade publicada também favorece essa opção; confirme o estoque do tamanho.",
+          "Quer um sutiã de silicone para vestido de festa ou frente única: considere o Sutiã de Silicone Invisível da Toda Up, indicado pela marca para essas roupas. Confira a grade de 38/40 a 44/48 e leia o [guia de uso do sutiã](/reviews/sutia-de-silicone-invisivel-como-usar).",
+          "Quer cobrir só o mamilo: considere o Protetor de Silicone Ultrafino da Toda Up. Ele tem outra função e não substitui o sutiã.",
+          "Quer o menor preço entre os dois sutiãs: a Toda Up com MAUAD fica um pouco abaixo da Lupo. Confira o total com frete antes de comprar."
+        ],
+        "links": [
+          {
+            "label": "Comparar também os sutiãs da Toda Up e da Zee Rucci",
+            "href": "/reviews/toda-up-ou-zee-rucci"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O sutiã adesivo da Lupo é bom? A página da Lupo informa tamanho, bojo e roupa indicada, mas não diz como lavar nem quantas vezes usar; a Toda Up diz até 12 vezes. Sem esses dois dados, a escolha fica pelo tamanho e pela roupa.",
-          "Como lavar o sutiã aderente da Lupo? A página não informa. A Toda Up pede água e sabão neutro, com secagem ao natural.",
+          "O sutiã adesivo da Lupo é bom? As informações da página permitem comparar tamanho, construção e roupa indicada, mas não comprovam conforto, aderência ou sustentação no uso.",
+          "Como lavar o sutiã aderente da Lupo? A página não informa. Peça as instruções à Lupo antes de lavar.",
           "A Lupo tem fita para seios? Não na loja oficial. A fita da Toda Up é a Fita Up, em P, M e G.",
-          "Qual tamanho escolher? Use a tabela de tamanho: a Lupo vai do 36 ao 50, e a Toda Up do 38/40 ao 44/48.",
-          "Qual sai mais barato? Com o cupom MAUAD, a Toda Up; a conta está no capítulo de preço."
+          "Qual tamanho escolher? Compare a numeração das marcas: a Lupo vai do 36 ao 50, e a Toda Up do 38/40 ao 44/48. O 48 aparece no GG da Lupo e no G da Toda Up; as letras não são equivalentes.",
+          "Qual sai mais barato? O sutiã da Toda Up com MAUAD fica abaixo do preço publicado pela Lupo, antes do frete.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira as condições na página do cupom."
         ]
       }
     ]
@@ -191357,7 +191381,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-06",
     "draft": false,
     "isNew": true,
-    "description": "A Toda Up tem a fita e o protetor de silicone mais baratos com o cupom MAUAD; a Zee Rucci tem o sutiã adesivo mais barato. Veja tamanhos, preço e o que cada marca diz.",
+    "description": "Nos preços comparados, a Toda Up com MAUAD custa menos na fita por embalagem e no protetor; a Zee Rucci, no sutiã. Compare tamanhos e limites de reutilização.",
     "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Fita, sutiã adesivo e protetor de mamilo da Toda Up ou da Zee Rucci: preço com cupom e tamanhos.",
     "image": "/images/reviews/toda-up/toda-up-ou-zee-rucci-capa.webp",
     "imageAlt": "Fita Up colada no busto, o Sutiã de Silicone Invisível e protetores de silicone no braço, todos da Toda Up, com o logo da Toda Up e o título Toda Up ou Zee Rucci?",
@@ -191367,16 +191391,18 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer protetor de mamilo em 10 ou 12 cm, ou fita escolhida pela largura do sutiã: fique com a Toda Up, com o cupom MAUAD.",
-        "Você quer o sutiã adesivo mais barato e usa tamanho de 40 a 46: a Zee Rucci tem o menor preço desta comparação."
+        "Você procura protetor de mamilo de 10 ou 12 cm: esses diâmetros aparecem na Toda Up entre as opções comparadas.",
+        "Você quer escolher entre três larguras de fita: a Fita Up tem P, M e G. Confira o guia da marca antes de escolher.",
+        "Você quer o sutiã adesivo de menor preço e sua numeração está entre 40 e 46: a Zee Rucci custa menos nos valores comparados."
       ],
       "skipIf": [
-        "Você quer o sutiã adesivo que a loja diz durar mais usos: a Zee Rucci diz até 30, e a Toda Up, até 12.",
-        "Você quer fita e protetores na mesma caixa: a Zee Rucci diz que a dela traz 5 pares."
+        "Adie a compra da Fita Up se você precisa conhecer a metragem: a marca não a publica.",
+        "Prefira a fita da Zee Rucci se você quer 5 pares de protetores na mesma caixa: esse conteúdo está informado na página dela.",
+        "Adie a escolha entre os sutiãs se você exige uma quantidade garantida de reutilizações: os limites anunciados não comprovam quantos usos você conseguirá."
       ]
     },
     "cta": {
-      "text": "Para comprar na Toda Up a fita, o sutiã ou o protetor, entre pelo botão: o cupom MAUAD já vem aplicado no carrinho.",
+      "text": "O botão leva ao site oficial da Toda Up pelo link com MAUAD. Escolha a fita, o sutiã ou o protetor e confira o desconto e o total no carrinho.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -191408,13 +191434,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom MAUAD, a fita e o protetor de silicone da Toda Up saem mais baratos que os da Zee Rucci. O sutiã adesivo da Zee Rucci custa menos e diz até 30 usos. O que muda a escolha da fita é a largura e os protetores na caixa: a tabela da fita mostra os dois lado a lado."
+          "Nos preços comparados, a fita e o protetor da Toda Up com MAUAD exigem menor desembolso; o sutiã da Zee Rucci custa menos. Na fita, compare também o conteúdo da embalagem: a Toda Up não publica a metragem do rolo. Nos sutiãs, até 30 usos da Zee Rucci e até 12 da Toda Up são limites anunciados pelas marcas."
         ]
       },
       {
         "heading": "Fita Up ou fita da Zee Rucci",
         "paragraphs": [
-          "Na unidade e no Leve 2, a Fita Up com o cupom sai mais barata que a Fita Adesiva Push Up da Zee Rucci. Conta nossa, com o preço de página e os 10% do [cupom Toda Up](/cupons/toda-up) (MAUAD): a Fita Up sai por R$ 105,21 na unidade e por R$ 84,17 cada no Leve 2, enquanto a fita da Zee Rucci custa R$ 112,90 na página (R$ 107,26 à vista)."
+          "Os preços abaixo são de 06/11/2026. Conta nossa: com os 10% do MAUAD, a Fita Up fica em R$ 105,21 por embalagem ou R$ 168,34 no Leve 2, equivalente a R$ 84,17 cada. Por embalagem, o desembolso é menor que o da Zee Rucci, inclusive no preço à vista. Os valores não incluem frete; confira as condições do cupom Toda Up no link abaixo e o total no carrinho."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -191424,11 +191450,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "A Zee Rucci traz mais coisa na caixa: 5 metros e 5 pares de protetores de mamilo. A página dela diz que a fita é 95% algodão e 5% elastano, e que é descartável. A Toda Up diz a largura de cada tamanho e não publica a metragem do rolo, enquanto a Zee Rucci diz a metragem e não a largura. Por isso não dá para comparar as duas por metro.",
-          "Quem quer os protetores na mesma caixa leva a da Zee Rucci, que tem tamanho único. Quem escolhe pela largura do sutiã fica com a Fita Up, que vem em P, M e G. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+          "A Zee Rucci informa 5 metros de fita e 5 pares de protetores de mamilo na caixa. A fita tem composição declarada de 95% algodão e 5% elastano e é descartável. A Toda Up oferece três larguras, mas não publica a metragem; a Zee Rucci publica a metragem, mas não a largura. O menor preço por embalagem da Fita Up não permite concluir qual rende mais ou custa menos por aplicação.",
+          "Quer os protetores na mesma caixa e a metragem informada: considere a Zee Rucci. Quer escolher entre larguras P, M e G: considere a Fita Up e confira o guia da marca. No maior tamanho, há divergência entre o guia, que indica até 54, e o FAQ, que menciona até 52; confirme com a Toda Up se essa diferença afetar sua escolha. Veja [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas, lidos em 06/11.",
+          "caption": "Preços por embalagem, antes do frete. Os valores da Toda Up com MAUAD incluem o desconto de 10%; o Leve 2 exige a compra de duas unidades.",
           "headers": [
             "",
             "Fita Up (Toda Up)",
@@ -191436,13 +191462,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Preço",
+              "Preço por embalagem",
               "R$ 116,90 na página; R$ 105,21 com o cupom MAUAD; R$ 84,17 cada com o cupom no Leve 2",
               "R$ 112,90 na página; R$ 107,26 à vista"
             ],
             [
               "Tamanho",
-              "P, M e G, pela largura do sutiã",
+              "Três larguras: P, M e G; conferir o guia de numeração da marca",
               "Tamanho único"
             ],
             [
@@ -191452,7 +191478,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Duração",
-              "Até 12 horas no corpo",
+              "Até 12 horas no corpo, segundo a Toda Up",
               "Sem prazo informado"
             ],
             [
@@ -191466,12 +191492,18 @@ export const reviewsData: unknown[] = [
               "Bege, bege claro e areia"
             ]
           ]
-        }
+        },
+        "links": [
+          {
+            "label": "cupom Toda Up",
+            "href": "/cupons/toda-up"
+          }
+        ]
       },
       {
         "heading": "Sutiã adesivo: o da Zee Rucci custa menos",
         "paragraphs": [
-          "No sutiã adesivo, a Zee Rucci ganha no preço: o Sutiã Adesivo Costas Nuas custa R$ 99,90 na página (R$ 94,91 à vista), e o Sutiã de Silicone Invisível da Toda Up, equivalente dele, sai por R$ 134,91 com o MAUAD. A diferença é de R$ 35,01 a favor da Zee Rucci."
+          "No sutiã adesivo, a Zee Rucci tem o menor preço da comparação. Frente ao valor da Toda Up com MAUAD, a diferença é de R$ 35,01 pelo preço de página da Zee Rucci ou de R$ 40,00 pelo preço à vista, antes do frete. A tabela mostra a base dessas contas."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
@@ -191481,11 +191513,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "A Zee Rucci diz que o sutiã não é descartável e aguenta até 30 vezes; a Toda Up diz até 12. Na conta por uso, a vantagem da Zee Rucci cresce. A Toda Up diz que o sutiã serve a vestido de festa e frente única, sem alças e costas nuas.",
-          "A Zee Rucci vai de 40 a 46; a Toda Up vai de 38/40 a 44/48. Quem usa 38 ou 48 só encontra o tamanho na Toda Up. Como usar o sutiã da Toda Up está em [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
+          "As marcas anunciam até 30 usos para o sutiã da Zee Rucci e até 12 para o da Toda Up. Esses limites não demonstram a durabilidade em condições iguais nem permitem concluir qual terá menor custo por uso. A indicação da Toda Up inclui vestido de festa e frente única, sem alças e com costas nuas.",
+          "Para quem usa de 40 a 46 e prioriza o preço, a Zee Rucci é a opção de menor desembolso nesta comparação. Os tamanhos 38 e 48 aparecem só na grade da Toda Up. Confira a tabela da marca antes de escolher; a numeração, sozinha, não garante o ajuste. Veja [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas.",
+          "caption": "Preços e características publicados pelas lojas. Valores antes do frete; MAUAD aplicado por cálculo. Quantidades de usos são limites anunciados pelas marcas.",
           "headers": [
             "",
             "Sutiã de Silicone Invisível (Toda Up)",
@@ -191504,13 +191536,13 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Colagem",
-              "Adesivo que adere à pele; \"hipoalergênico\" e \"com efeito lifting\", nas palavras da loja; sem alças e costas nuas",
-              "Cola que adere ao seio; sem fecho nas costas, com fecho frontal regulador que aproxima os seios"
+              "Adesivo de silicone que adere à pele; sem alças e com costas nuas, conforme a descrição da Toda Up",
+              "Cola que adere ao seio; sem fecho nas costas, com fecho frontal regulador para aproximar os seios, conforme a descrição da Zee Rucci"
             ],
             [
               "Usos",
               "Até 12 vezes, pela página do produto e pelo FAQ",
-              "Até 30 vezes; não é descartável"
+              "Até 30 vezes, segundo a Zee Rucci; não é descartável"
             ],
             [
               "Lavagem",
@@ -191523,7 +191555,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Protetor de mamilo: a Toda Up tem três tamanhos",
         "paragraphs": [
-          "No protetor de mamilo, a Toda Up ganha no preço: com o MAUAD, o Protetor de Silicone Ultrafino sai por R$ 53,91, e o equivalente da Zee Rucci, o Protetor de Mamilos Silicone Ultrafino, custa R$ 72,90 na página (R$ 69,26 à vista). A diferença é de R$ 18,99 a favor da Toda Up."
+          "No protetor de mamilo, a Toda Up com MAUAD tem o menor preço da comparação. A diferença calculada é de R$ 18,99 frente ao preço de página da Zee Rucci ou R$ 15,35 frente ao preço à vista, antes do frete. Compare também o diâmetro: o menor valor só ajuda se o tamanho atender ao que você procura."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
@@ -191537,7 +191569,7 @@ export const reviewsData: unknown[] = [
           "Pela loja da Zee Rucci, o protetor é reutilizável, tem cola hipoalergênica e impede o bico de marcar a roupa. A Toda Up não recomenda o protetor na gestação nem na amamentação. Como ele funciona está em [protetor de silicone para mamilo: como usar](/reviews/protetor-de-silicone-mamilo-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas.",
+          "caption": "Preços e características publicados pelas lojas. Valores antes do frete; MAUAD aplicado por cálculo. A Toda Up publica limites diferentes de reutilização na página do produto e no FAQ.",
           "headers": [
             "",
             "Protetor de Silicone Ultrafino (Toda Up)",
@@ -191570,19 +191602,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Quer protetor em mais de um tamanho pelo menor preço: a Toda Up, com o cupom MAUAD, em P, M ou G.",
-          "Quer fita pela largura do sutiã: a Fita Up com o cupom MAUAD, que sai mais barata que a da Zee Rucci na unidade. Para comprar a original, veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original). Quer fita com protetores na caixa e 5 metros: a da Zee Rucci.",
-          "Quer o sutiã adesivo mais barato e usa de 40 a 46: a Zee Rucci. Ela diz até 30 usos, contra 12 da Toda Up.",
-          "Em resumo, a Toda Up leva a conta na fita e no protetor, e a Zee Rucci leva no sutiã adesivo."
+          "Quer protetor de 10 ou 12 cm: considere a Toda Up, que oferece esses diâmetros e tem o menor preço entre os protetores comparados com MAUAD. Confira os cuidados no [guia do protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar).",
+          "Quer escolher entre três larguras de fita: considere a Fita Up. O preço por embalagem com MAUAD é menor, mas a metragem não informada impede comparar o rendimento. Veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original).",
+          "Quer fita com metragem declarada e protetores na mesma caixa: a Zee Rucci informa 5 metros e 5 pares. A largura não aparece na página dela; confirme esse dado se ele for decisivo.",
+          "Quer o sutiã adesivo de menor preço e usa de 40 a 46: considere a Zee Rucci. Para 38 ou 48, confira a grade da Toda Up. Os limites de reutilização anunciados não garantem o custo por uso."
+        ],
+        "links": [
+          {
+            "label": "Comparar também os sutiãs da Toda Up e da Lupo",
+            "href": "/reviews/toda-up-ou-lupo-sutia-adesivo"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A fita da Zee Rucci é boa? Sem uso, o que dá para dizer é o que a página dela publica: 5 metros, 5 pares de protetores, 95% algodão e descartável. A tabela da fita põe isso ao lado da Fita Up, que tem três larguras e sai mais barata com o cupom.",
+          "A fita da Zee Rucci é boa? A composição e o conteúdo da caixa não comprovam aderência, conforto ou sustentação no uso. A página informa 5 metros e 5 pares de protetores, mas não a largura. A Fita Up custa menos por embalagem com MAUAD nos preços comparados; faltam dados para comparar rendimento.",
           "A fita da Zee Rucci é a Fita Up? Não. A Fita Up é da Toda Up, e a fita da Zee Rucci é a Fita Adesiva Push Up, de outra marca.",
-          "O sutiã adesivo da Zee Rucci é bom? Ele custa menos que o sutiã da Toda Up com o cupom e diz até 30 usos; a tabela do sutiã mostra o resto.",
-          "Qual protetor de mamilo é mais barato? O da Toda Up, com o cupom MAUAD; a tabela do protetor mostra os dois preços."
+          "O sutiã adesivo da Zee Rucci é bom? Ele tem o menor preço entre os dois sutiãs comparados, mas preço e limite anunciado de até 30 usos não comprovam qualidade ou ajuste.",
+          "Qual protetor de mamilo é mais barato? Nos valores comparados, o da Toda Up com MAUAD custa menos, inclusive frente ao preço à vista da Zee Rucci. Confira o total com frete no carrinho.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site da marca; as regras estão na [página do cupom Toda Up](/cupons/toda-up)."
         ]
       }
     ]
@@ -191617,16 +191656,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer escolher a largura da fita pelo número do sutiã, em bege, marrom ou preto: a Fita Up.",
-        "Você quer o adesivo de mamilo mais barato, com tamanhos em centímetros e uso à prova d’água: o Protetor de Silicone Ultrafino da Toda Up."
+        "Leve a Fita Up se quer escolher entre três larguras e as cores bege, marrom e preto. Acima do 48, confirme o tamanho com a Toda Up: o guia vai até o 54, mas o FAQ menciona até o 52.",
+        "Leve o Protetor de Silicone Ultrafino se busca o menor preço entre os dois protetores comparados e tamanhos informados em centímetros. A Toda Up o anuncia como à prova d’água."
       ],
       "skipIf": [
-        "Você quer a fita mais barata e aceita um tamanho só, até o 48: a fita da Trifil, com 5 metros e 10 protetores no combo.",
-        "Você amamenta ou está grávida: o FAQ da Toda Up não recomenda o protetor de silicone nesses casos."
+        "Passe na Fita Up se a prioridade é o menor preço entre as duas fitas e o tamanho único anunciado até o 48 atende você: a Trifil custa menos e inclui 5 metros de fita e 10 protetores.",
+        "Passe no Protetor de Silicone Ultrafino da Toda Up se está grávida ou amamenta: o FAQ da loja não recomenda essa peça nesses casos."
       ]
     },
     "cta": {
-      "text": "Para comprar a Fita Up no site oficial, entre pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+      "text": "Para comprar a Fita Up no site oficial, use o botão com o cupom MAUAD e confira o desconto no carrinho antes de pagar.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -191658,7 +191697,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Fita Up e Trifil Up são marcas diferentes, e a fita da Trifil custa menos mesmo com o cupom MAUAD, mas tem um tamanho só, até o 48. A Fita Up tem três larguras, e no adesivo de mamilo o protetor da Toda Up é o mais barato. O que pesa em cada caso está em “Qual escolher”."
+          "A Fita Up é da Toda Up; a Trifil tem sua própria linha Up. Nos preços comparados, a fita da Trifil custa menos mesmo com o MAUAD na Toda Up, mas tem tamanho único, anunciado até o 48. A Fita Up oferece três larguras; entre os protetores de mamilo comparados, o da Toda Up custa menos."
         ]
       },
       {
@@ -191670,10 +191709,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As duas fitas lado a lado",
         "paragraphs": [
-          "A escolha da fita começa pelo tamanho: a Fita Up se escolhe pela largura, com o número do sutiã, e a fita da Trifil vem num tamanho só. Na cola, as duas páginas prometem o mesmo: hipoalergênica, resistente à água e ao suor, por até 12 horas. O que muda é o tamanho, o que vem na caixa e o preço."
+          "A escolha da fita começa pelo tamanho: a Fita Up oferece três larguras, escolhidas pelo número do sutiã, e a Trifil vem num tamanho só. Nos preços de 6 de novembro de 2026, as duas páginas anunciam características semelhantes: adesivo hipoalergênico, resistência à água e ao suor e uso por até 12 horas. Essas promessas não mostram desempenho igual; a tabela abaixo reúne tamanho, conteúdo da caixa e preço."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas, lidos em 6 de novembro de 2026. A Toda Up leva o cupom MAUAD.",
+          "caption": "Preços das páginas das lojas e cálculo com MAUAD na Toda Up, sem frete. O valor por unidade no Leve 2 exige a compra de duas fitas.",
           "headers": [
             "",
             "Fita Up (Toda Up)",
@@ -191687,7 +191726,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Preço com o cupom MAUAD",
-              "R$ 105,21; R$ 84,17 cada no Leve 2",
+              "R$ 105,21 por unidade; no Leve 2, R$ 168,34 pelas duas (R$ 84,17 cada)",
               "Não se aplica: o cupom é da Toda Up"
             ],
             [
@@ -191728,9 +191767,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Conta nossa, com o MAUAD de 10% sobre o preço da página; a Trifil entra com o preço da página dela, porque o cupom não vale lá. O código está no [cupom Toda Up](/cupons/toda-up).",
-          "Mesmo com o cupom, a fita da Trifil custa menos, e o combo ainda traz 10 protetores e uma lata. A Fita Up mostra a largura, mas não a metragem, e a Trifil faz o contrário. Por isso não dá para comparar preço por metro: a conta fica no preço e no que cada caixa traz.",
-          "Para quem usa numeração alta, a diferença está no tamanho: a Fita Up na G vai até o 54 pelo guia da marca, e a Trifil, até o 48. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+          "Conta nossa: 10% de desconto com MAUAD sobre o preço da unidade ou do kit Leve 2 da Toda Up; no kit, o total é dividido por duas fitas. A Trifil entra pelo preço da página, porque o código não vale lá. Os valores não incluem frete. O código está no [cupom Toda Up](/cupons/toda-up).",
+          "Nos preços da tabela, a fita da Trifil custa menos mesmo com MAUAD na Toda Up, e o combo ainda traz 10 protetores e uma lata. A Fita Up mostra a largura, mas não a metragem, e a Trifil faz o contrário. Por isso não dá para comparar preço por metro: a conta fica no preço e no que cada caixa traz.",
+          "Para quem usa acima do 48, a Fita Up exige uma confirmação antes da compra: o guia indica G até o 54, mas o FAQ menciona até o 52. Consulte a Toda Up sobre a sua numeração. A Trifil anuncia limite de 48. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -191746,7 +191785,7 @@ export const reviewsData: unknown[] = [
           "A Trifil vende o “Sutiã Adesivo Trifil Invisível Up” como sutiã, mas a peça é um adesivo de mamilo, como o Protetor de Silicone Ultrafino da Toda Up. Por isso a comparação é com ele, e não com o Sutiã de Silicone Invisível. A página da Trifil diz que a peça tem baixa sustentação e “cola cirúrgica feita para cateter”."
         ],
         "comparisonTable": {
-          "caption": "Preços de página e com o cupom MAUAD, pela mesma conta da tabela de cima.",
+          "caption": "Preços da página, sem frete. O cálculo da Toda Up aplica 10% de desconto com MAUAD a uma unidade; o código não vale na Trifil.",
           "headers": [
             "",
             "Protetor de Silicone Ultrafino (Toda Up)",
@@ -191805,8 +191844,8 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher",
         "paragraphs": [
           "**Quer escolher a fita pela largura e ter cor bege, marrom ou preto:** Fita Up. São três larguras, e a Trifil tem um tamanho só, com numeração até o 48.",
-          "**Quer a fita mais barata e serve no 48:** Trifil. Com o cupom MAUAD, a Fita Up de uma unidade custa R$ 105,21, e a Trifil sai por R$ 61,90, sem cupom, com 5 metros e 10 protetores junto.",
-          "**Quer só o adesivo de mamilo:** o Protetor de Silicone Ultrafino da Toda Up, com o cupom, sai por R$ 53,91, contra R$ 89,90 do sutiã adesivo da Trifil. O FAQ da Toda Up não recomenda o protetor na gestação nem na amamentação.",
+          "**Quer pagar menos entre as duas fitas e usa até o 48:** a Trifil é a opção de menor preço na tabela, com 5 metros e 10 protetores. Confira se o tamanho único anunciado pela marca atende você.",
+          "**Quer só o adesivo de mamilo pelo menor preço entre os dois:** o Protetor de Silicone Ultrafino da Toda Up custa menos na tabela, com MAUAD aplicado. O FAQ da Toda Up não recomenda o protetor na gestação nem na amamentação.",
           "Quem quer um sutiã com bojo e fecho, e não só o adesivo de mamilo, encontra o modelo da Toda Up em [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ]
       },
@@ -191814,9 +191853,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Fita Up é da Trifil? Não. A Fita Up é da Toda Up, antiga Fita UP, de Biguaçu (SC). A Trifil tem a própria linha Up, com fita e adesivo de mamilo. Onde comprar a original está em [Fita Up: onde comprar a original](/reviews/fita-up-onde-comprar-original).",
-          "A fita da Trifil é boa? A página diz que ela é hipoalergênica, resistente à água e ao suor e dura até 12 horas, como a Fita Up. O que muda é o tamanho único e o combo com 10 protetores: veja a tabela de “As duas fitas lado a lado”.",
-          "Qual fita serve até o tamanho 54? A Fita Up, na G, pelo guia de tamanhos da marca. O FAQ da Toda Up fala em até o 52 com segurança, então confirme com a marca antes de comprar. A Trifil diz até o 48.",
-          "O sutiã adesivo da Trifil é um sutiã? A Trifil chama a peça assim, mas ela é um adesivo de mamilo. Por isso a comparação é com o Protetor de Silicone Ultrafino."
+          "A fita da Trifil é boa? As páginas anunciam as mesmas características da Fita Up, mas isso não mostra conforto nem aderência. Nos preços comparados, ela custa menos, tem tamanho único anunciado até o 48 e um combo com 10 protetores; veja a tabela de “As duas fitas lado a lado”.",
+          "Qual fita serve até o tamanho 54? O guia da Fita Up indica a G até o 54, mas o FAQ da Toda Up menciona até o 52. Confirme sua numeração com a marca antes de comprar; a Trifil anuncia até o 48.",
+          "O sutiã adesivo da Trifil é um sutiã? A Trifil chama a peça assim, mas ela é um adesivo de mamilo. Por isso a comparação é com o Protetor de Silicone Ultrafino.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto na Toda Up; confira as regras e o valor aplicado no carrinho."
         ]
       }
     ]
@@ -191841,7 +191881,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-06",
     "draft": false,
     "isNew": true,
-    "description": "Com o cupom MAUAD, o protetor de silicone da Toda Up custa metade do da Intimissimi; as copas de silicone da Intimissimi saem mais baratas. A fita depende do kit.",
+    "description": "Com MAUAD, o protetor da Toda Up custa cerca de metade do da Intimissimi. Compare também as copas bege M/G e o preço das fitas por unidade ou no kit.",
     "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Fita, sutiã adesivo e protetor de mamilo da Toda Up ou da Intimissimi: preço com cupom e tamanhos.",
     "image": "/images/reviews/toda-up/toda-up-ou-intimissimi-capa.webp",
     "imageAlt": "Mão segurando o Sutiã de Silicone Invisível e três modelos com as embalagens da Toda Up, com o logo da Toda Up e o título Toda Up ou Intimissimi?",
@@ -191851,16 +191891,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer protetor de mamilo pelo menor preço ou em 10 ou 12 cm: fique com a Toda Up, com o cupom MAUAD.",
-        "Você quer fita escolhida pela largura do sutiã, ou leva duas: a Fita Up no Leve 2 com o cupom sai mais barata por unidade."
+        "Você quer o protetor de menor preço entre os comparados ou procura diâmetro de 10 ou 12 cm: considere a Toda Up com MAUAD, pelos valores da tabela.",
+        "Você vai comprar duas unidades de fita e prioriza o preço por unidade: o Leve 2 da Fita Up com MAUAD fica abaixo da fita bege da Intimissimi. Isso não indica maior rendimento."
       ],
       "skipIf": [
-        "Você quer o sutiã adesivo mais barato: as Copas de Silicone da Intimissimi custam menos que o sutiã da Toda Up com o cupom.",
-        "Você quer uma fita só, pelo menor preço da unidade: a fita de tecido da Intimissimi custa menos que uma Fita Up com o cupom."
+        "Você prioriza o menor preço entre os sutiãs comparados: as Copas de Silicone bege em M e G da Intimissimi custam menos que o sutiã da Toda Up com MAUAD.",
+        "Você quer uma fita só, pelo menor desembolso: a fita bege da Intimissimi custa menos que uma Fita Up com MAUAD, pelos valores da tabela."
       ]
     },
     "cta": {
-      "text": "Para comprar na Toda Up a fita, o sutiã ou o protetor, entre pelo botão: o cupom MAUAD já vem aplicado no carrinho.",
+      "text": "Abra o site oficial da Toda Up pelo botão e confira se o desconto de 10% do MAUAD aparece no carrinho da fita, do sutiã ou do protetor antes de pagar.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -191892,13 +191932,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom MAUAD, o protetor de silicone da Toda Up custa metade do da Intimissimi, e em três tamanhos. As copas de silicone da Intimissimi saem mais baratas que o sutiã adesivo da Toda Up. Na fita, decide a quantidade: uma sai mais barata na Intimissimi, duas no Leve 2 da Fita Up; a conta está na primeira tabela."
+          "Nos valores comparados, o protetor da Toda Up com MAUAD custa cerca de metade do da Intimissimi. As copas bege M/G da Intimissimi custam menos que o sutiã da Toda Up com cupom. A fita avulsa custa menos na Intimissimi; a Fita Up no Leve 2 fica abaixo por unidade."
         ]
       },
       {
         "heading": "Fita Up ou fita da Intimissimi",
         "paragraphs": [
-          "Numa unidade, a Fita Adesiva Tapa-Seio da Intimissimi custa menos: R$ 89,00 na página, contra R$ 105,21 da Fita Up com o [cupom Toda Up](/cupons/toda-up) (MAUAD). No Leve 2, a conta vira: com o cupom, a Fita Up sai por R$ 84,17 cada. Conta nossa, com o preço de página da Toda Up e os 10% do cupom, que a loja deixa somar com o kit."
+          "Os preços e as informações das três comparações vêm das páginas das lojas, em 6 de novembro de 2026. Entre as fitas comparadas, a Intimissimi custa menos na compra avulsa; a Fita Up no Leve 2 fica abaixo por unidade. Conta nossa: com os 10% do MAUAD, o kit sai por R$ 168,34, ou R$ 84,17 cada. Sem a metragem das fitas, essa diferença não demonstra menor custo por aplicação."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -191908,11 +191948,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "As páginas informam coisas diferentes. A Toda Up diz a largura de cada tamanho, a composição (98,5% poliéster e 1,5% elastano) e a duração de até 12 horas no corpo, mas não publica a metragem do rolo. A Intimissimi diz só que a fita é de tecido, de tamanho único, para cobrir ou dar suporte ao seio em vestido muito decotado na frente ou nas costas, sem metragem, largura nem duração.",
-          "Por higiene, a Intimissimi só aceita devolver a fita sem sinal de uso e com a embalagem intacta; com defeito, a devolução é garantida. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar), e os cuidados com a pele e a cola, em [Fita Up não cola ou descola?](/reviews/fita-up-cuidados-cola-pele-agua)."
+          "A Fita Up oferece escolha entre P, M e G. O guia da Toda Up associa esses tamanhos aos sutiãs até 44, 48 e 54, mas o FAQ fala em até 52 com segurança. Se você veste 54, confirme a indicação com a marca antes de comprar. A Intimissimi apresenta a fita de tamanho único para cobrir ou dar suporte ao seio em roupas decotadas, sem medidas publicadas que permitam comparar o ajuste.",
+          "A política informada pela Intimissimi exige fita sem sinais de uso e embalagem intacta para devolução por higiene; para defeitos, a loja informa garantia de devolução. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar), e os cuidados com a pele e a cola, em [Fita Up não cola ou descola?](/reviews/fita-up-cuidados-cola-pele-agua)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas, lidos em 06/11.",
+          "caption": "Preços por unidade e no kit: Toda Up com MAUAD e Intimissimi na versão bege.",
           "headers": [
             "",
             "Fita Up (Toda Up)",
@@ -191921,12 +191961,12 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Preço",
-              "R$ 116,90 na página; R$ 105,21 com o cupom MAUAD; R$ 84,17 cada com o cupom no Leve 2",
+              "R$ 116,90 na página; R$ 105,21 com MAUAD; no Leve 2 com MAUAD, R$ 168,34 pelas duas, ou R$ 84,17 cada",
               "R$ 89,00 na página"
             ],
             [
               "Tamanho",
-              "P, M e G (até o sutiã 44, 48 e 54, pelo guia da loja)",
+              "P, M e G: até 44, 48 e 54 no guia; o FAQ informa até 52 com segurança",
               "Tamanho único"
             ],
             [
@@ -191936,12 +191976,12 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Metragem e largura",
-              "Largura por tamanho; metragem não publicada",
+              "Largura varia por tamanho; confira a medida escolhida. Metragem não publicada",
               "Nenhuma das duas publicada"
             ],
             [
-              "Duração",
-              "Até 12 horas no corpo",
+              "Tempo de uso informado pela loja",
+              "Até 12 horas no corpo; um pedaço por uso",
               "Sem prazo informado"
             ],
             [
@@ -191950,12 +191990,18 @@ export const reviewsData: unknown[] = [
               "Bege"
             ]
           ]
-        }
+        },
+        "links": [
+          {
+            "label": "cupom Toda Up",
+            "href": "/cupons/toda-up"
+          }
+        ]
       },
       {
         "heading": "Sutiã adesivo: as copas da Intimissimi custam menos",
         "paragraphs": [
-          "No sutiã adesivo, a Intimissimi custa menos: as Copas de Silicone, equivalente do Sutiã de Silicone Invisível, saem por R$ 109,00 na página, em M e G, e o sutiã da Toda Up, por R$ 134,91 com o MAUAD. A diferença é de R$ 25,91 a favor da Intimissimi. A loja descreve as copas como \"um verdadeiro sutiã sem alças e sem a parte de trás\"."
+          "Para deixar as costas livres, as Copas de Silicone bege em M e G da Intimissimi custam R$ 25,91 menos que o sutiã da Toda Up com MAUAD. A Toda Up também oferece P. Confira as medidas antes de escolher pelo preço: as letras dos tamanhos não garantem ajuste equivalente."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
@@ -191965,11 +192011,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "As duas peças grudam por um adesivo interno e se fecham na frente: a Intimissimi diz que o gancho central reforça o efeito push-up. A Toda Up diz que o sutiã dela dura até 12 usos; a Intimissimi não informa quantos. Na lavagem, a Toda Up pede água e sabão neutro, e a Intimissimi, lavar à mão a até 40 ºC.",
-          "Nos tamanhos, a Toda Up vende P (38/40), M (42/44) e G (44/48); a Intimissimi, M e G, sem tabela de busto na página. A Intimissimi também tem uma versão de tamanho único, mais barata, e uma branca, mais cara: o preço muda com a versão. Como usar o sutiã da Toda Up está em [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
+          "As duas peças aderem à pele e têm fecho na frente. A Toda Up declara até 12 usos; a Intimissimi não informa uma quantidade. Isso não permite concluir qual dura mais. Siga as instruções de lavagem de cada peça, resumidas na tabela.",
+          "A Intimissimi também tem uma versão de tamanho único mais barata e uma branca mais cara; o preço da tabela se refere à bege em M e G. Para aplicar e retirar a peça da Toda Up, veja [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas.",
+          "caption": "Toda Up com MAUAD e Copas de Silicone bege M/G da Intimissimi. Especificações e usos informados pelas lojas.",
           "headers": [
             "",
             "Sutiã de Silicone Invisível (Toda Up)",
@@ -191989,7 +192035,7 @@ export const reviewsData: unknown[] = [
             [
               "Fecho",
               "Fecho na frente, unido depois de colar os dois lados",
-              "Gancho central, que reforça o push-up"
+              "Gancho central"
             ],
             [
               "Usos",
@@ -192005,9 +192051,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Protetor de mamilo: o da Toda Up custa metade",
+        "heading": "Protetor de mamilo: o da Toda Up custa cerca de metade",
         "paragraphs": [
-          "No protetor de mamilo, a diferença é grande: com o MAUAD, o Protetor de Silicone Ultrafino da Toda Up sai por R$ 53,91, e o Protetor de Silicone Opaco da Intimissimi custa R$ 109,00 na página. A Toda Up fica R$ 55,09 mais barata."
+          "Para cobrir o mamilo, a Toda Up permite escolher o diâmetro e, com MAUAD, custa R$ 55,09 menos que o protetor da Intimissimi. Se você procura uma peça com fecho, veja o capítulo de sutiã adesivo. O tamanho chamado de grande pela Intimissimi não permite concluir que ele equivale ao G da Toda Up."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
@@ -192017,11 +192063,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "A Toda Up vende P (8 cm), M (10 cm) e G (12 cm), em três cores; a Intimissimi, um tamanho só, que ela chama de grande, com acabamento opaco. A Toda Up diz que o protetor dura até 30 usos na página do produto (o FAQ da loja fala em 20), tem validade de 2 anos depois de aberto e é à prova d'água, com uso em roupa de banho.",
+          "A Toda Up informa quantidades diferentes de reutilização: até 30 usos na página do produto e até 20 no FAQ. Validade e uso com água são declarações da marca.",
           "A Intimissimi não diz quantos usos e sugere guardar os protetores na embalagem original. A Toda Up não recomenda o protetor na gestação nem na amamentação. Como ele funciona está em [protetor de silicone para mamilo: como usar](/reviews/protetor-de-silicone-mamilo-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas.",
+          "caption": "Toda Up com MAUAD e Intimissimi pelo preço de página. Usos, validade e resistência à água são informações das lojas.",
           "headers": [
             "",
             "Protetor de Silicone Ultrafino (Toda Up)",
@@ -192059,25 +192105,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que só a Intimissimi vende",
         "paragraphs": [
-          "A Intimissimi tem peças adesivas sem equivalente na Toda Up: copas adesivas de tecido, em M e G, e sutiãs com copa adesiva e aro, como um tomara que caia e um bandeau, nos tamanhos 42 a 46. Quem quer um sutiã adesivo com aro encontra isso lá, não na Toda Up."
+          "A Intimissimi tem copas adesivas de tecido em M e G e sutiãs com copa adesiva e aro, como um tomara que caia e um bandeau, nos tamanhos 42 a 46. São opções para quem procura tecido ou aro, sem equivalente na Toda Up."
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Quer protetor de mamilo pelo menor preço, ou em 10 ou 12 cm: a Toda Up, com o cupom MAUAD.",
-          "Quer fita pela largura do sutiã, ou vai levar duas: a Fita Up no Leve 2 com o cupom. Para comprar a original, veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original). Quer só uma fita, pelo menor preço: a da Intimissimi.",
-          "Quer o sutiã adesivo mais barato: as Copas de Silicone da Intimissimi. Quer o tamanho P ou o número de usos dito pela loja: o sutiã da Toda Up.",
-          "Em resumo, a Toda Up leva a conta no protetor e na fita em kit; a Intimissimi, no sutiã adesivo e na fita avulsa."
+          "Quer o protetor de menor preço entre os comparados ou procura diâmetro de 10 ou 12 cm: considere a Toda Up com MAUAD, pelos valores da tabela.",
+          "Vai levar duas unidades de fita e prioriza o preço por unidade: Fita Up no Leve 2 com MAUAD. Quer uma unidade com o menor desembolso: a fita bege da Intimissimi. Veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original).",
+          "Prioriza preço no sutiã adesivo: as Copas de Silicone bege em M e G da Intimissimi custam menos que o sutiã da Toda Up. Procura tamanho P: considere a Toda Up e confira as medidas antes de comprar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Intimissimi tem fita para seios? Tem: a Fita Adesiva Tapa-Seio, de tecido e tamanho único. A página não informa metragem, largura nem duração.",
-          "As copas de silicone da Intimissimi são boas? Sem uso, o que dá para dizer é o que a página publica: adesivo interno, gancho central, M e G, lavagem à mão. Elas custam menos que o sutiã da Toda Up com o cupom, mas a Intimissimi não diz quantos usos aguentam.",
-          "Qual protetor de mamilo é mais barato? O da Toda Up, com o cupom MAUAD: custa metade do Protetor de Silicone Opaco da Intimissimi.",
-          "Posso devolver a fita ou as copas da Intimissimi? Só sem sinal de uso e com a embalagem intacta, por higiene; com defeito, a loja garante a devolução."
+          "As copas de silicone da Intimissimi são boas? Adesivo interno, gancho central e instruções de lavagem descrevem a peça, mas não comprovam conforto ou durabilidade. A versão bege em M e G custa menos que o sutiã da Toda Up com MAUAD; a Intimissimi não informa uma quantidade de usos.",
+          "Qual protetor de mamilo é mais barato? Pelos valores da tabela, o da Toda Up com MAUAD custa cerca de metade do Protetor de Silicone Opaco da Intimissimi.",
+          "Posso devolver a fita ou as copas da Intimissimi? A política informada pela loja exige peças sem sinais de uso e embalagem intacta por higiene; para defeitos, a Intimissimi informa garantia de devolução.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira as condições na página do cupom Toda Up."
         ]
       }
     ]

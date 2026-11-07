@@ -28,7 +28,7 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você quer o menor preço sem depender de promoção do dia e a troca de 30 dias pelo portal da marca: compre no site com o cupom.",
+      "Você comparou o total com frete e prefere comprar no site com MAUAD e troca pelo portal da marca.",
       "Você quer ver a fita pessoalmente antes de levar e mora perto de uma loja parceira."
     ],
     "skipIf": [
@@ -60,11 +60,11 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pelo preço de tabela, o site oficial da Toda Up com o cupom é o lugar mais em conta, e ainda tem a troca pelo portal da marca. A loja oficial no Mercado Livre às vezes fica abaixo, mas só em promoção do dia; o veredito e o que conferir estão em \"Qual canal escolher\"."
+        "Nos preços comparados, o site oficial da Toda Up com MAUAD tem o menor preço do produto antes do frete, além da troca pelo portal da marca. Uma promoção no Mercado Livre pode mudar essa ordem. Compare o total para o seu CEP; o capítulo “Qual canal escolher” mostra o que conferir."
       ]
     },
     {
-      "heading": "Onde a Fita Up é vendida hoje",
+      "heading": "Onde a Fita Up é vendida",
       "paragraphs": [
         "A Fita Up não é exclusiva do site: a própria Toda Up vende também no Mercado Livre, na Amazon e pela Drogasil e pela Droga Raia, e a marca lista lojas físicas parceiras."
       ],
@@ -140,7 +140,7 @@
       "heading": "Cupom MAUAD: só no site oficial",
       "paragraphs": [
         "O MAUAD dá 10% e vale só no site oficial; no Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela.",
-        "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, a fita do site fica abaixo de todos os outros canais. O Mercado Livre só fica mais barato quando a loja oficial roda promoção, com desconto do produto e cupom da loja somados, e isso muda de um dia para o outro. Antes de fechar no site, abra [a loja oficial da Fita Up](https://meli.la/2qNDns1) e veja se há promoção no momento; sem ela, o site com o cupom ganha.",
+        "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, o produto no site fica abaixo dos demais canais comparados, antes do frete. Promoções do Mercado Livre podem mudar a ordem. Confira a oferta atual [na loja oficial da Fita Up](https://meli.la/2qNDns1) e compare o total para o seu CEP.",
         "Os preços da tabela são sem frete. No site, uma fita sozinha fica abaixo da faixa de frete grátis (compras acima de R$ 199), então ponha o CEP no carrinho antes de comparar; no Mercado Livre, o anúncio com Full mostra o frete e o dia da entrega. Para duas fitas, o kit Leve 2 do site aceitou o MAUAD no nosso teste de carrinho e chega mais perto do frete grátis.",
         "Para comprar no site com o cupom, [use este link da Toda Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao). As regras do cupom estão na [página da Toda Up em Cupons](/cupons/toda-up)."
       ],
@@ -155,22 +155,22 @@
     {
       "heading": "Fita Up perto de mim",
       "paragraphs": [
-        "Para ver a fita perto de você, o caminho é o localizador de lojas parceiras da própria marca. A Toda Up publica a [lista de lojas parceiras](https://todaup.com/pages/localizador-lojas-parceiras) com 1.659 pontos, e dá para filtrar as lojas por \"Pronta-entrega\" e por \"Delivery\", para quem quer a fita no mesmo dia sem sair de casa.",
-        "Num raio de 15 km, o localizador mostra 13 pontos no Rio, 26 em Belo Horizonte e mais de 50 em São Paulo. Em Florianópolis, perto da sede da marca, são 33 no mesmo raio. A lista traz o WhatsApp de cada loja: chame ou ligue antes de ir, para saber se a cor e o tamanho estão na prateleira."
+        "Para encontrar a fita perto de você, consulte a [lista de lojas parceiras](https://todaup.com/pages/localizador-lojas-parceiras). Ela tem 1.659 pontos e filtros de “Pronta-entrega” e “Delivery”. Confirme estoque e prazo com a loja; o filtro não garante entrega no mesmo dia.",
+        "Num raio de 15 km, o localizador mostrava 13 pontos no Rio, 26 em Belo Horizonte e mais de 50 em São Paulo. Em Florianópolis, perto da sede da marca, eram 33 no mesmo raio. A lista traz o WhatsApp de cada loja: chame ou ligue antes de ir, para saber se a cor e o tamanho estão na prateleira."
       ]
     },
     {
       "heading": "Qual canal escolher",
       "paragraphs": [
-        "Pelo preço de tabela, o site com o cupom é a compra mais em conta e a única com a troca pelo portal da marca; o Mercado Livre só passa à frente em dia de promoção.",
-        "**Menor preço sem promoção:** site oficial, com o MAUAD. É também o canal em que a política de troca da marca vale sem ressalva.",
+        "Nos preços comparados, o site com MAUAD tem o menor preço do produto antes do frete e a troca pelo portal da marca. Para decidir o canal, confira promoção, entrega e total no dia da compra.",
+        "**Menor preço de produto na tabela, antes do frete:** site oficial com MAUAD. A troca dessa compra segue o portal da marca.",
         "**Dia de promoção:** confira a loja oficial do Mercado Livre pelo botão abaixo antes de fechar; com desconto do produto e cupom da loja somados, ela pode ficar abaixo do site.",
         "**Prefere a Amazon:** compre da loja da Toda Up, enviada pela Amazon, e não do vendedor de fora do mesmo anúncio.",
         "**Outro marketplace:** compre só da loja oficial da marca; de outro vendedor, a troca e a garantia ficam com ele.",
         "**Quer ver antes de levar:** a loja parceira mais perto, depois de chamar no WhatsApp.",
         "**Drogasil e Droga Raia:** só se já estiver lá; há uma variação, sem estoque."
       ],
-      "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up do site oficial com o cupom. Vale conferir e comparar o preço no Mercado Livre e na Amazon, mas normalmente é o site que dá o melhor custo-benefício.",
+      "emphasis": "Se fosse para a minha casa, eu começaria pelo site oficial com MAUAD. Antes de fechar, compararia o total com frete e a previsão de entrega com a loja oficial no Mercado Livre e a Toda Up na Amazon.",
       "links": [
         {
           "label": "Ver no Mercado Livre",
@@ -187,9 +187,9 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Fita Up onde comprar? No site oficial da Toda Up, com o cupom, e também na loja oficial do Mercado Livre, na Amazon, na Drogasil e em lojas parceiras. O capítulo \"Onde a Fita Up é vendida hoje\" mostra o vendedor de cada um.",
+        "Fita Up onde comprar? No site oficial da Toda Up, com o cupom, e também na loja oficial do Mercado Livre, na Amazon, na Drogasil e em lojas parceiras. O capítulo \"Onde a Fita Up é vendida\" mostra o vendedor de cada um.",
         "Fita Up original no Mercado Livre? Sim, quando o vendedor é a loja oficial Fita Up, com o selo de loja oficial; revendedores de fora são outra coisa. O capítulo \"Fita Up original\" explica o que conferir.",
-        "Fita Up tem na Drogasil? Tem uma variação, vendida pela própria Fita UP, mas sem estoque nas duas redes hoje. O capítulo \"Onde a Fita Up é vendida hoje\" traz o resto.",
+        "Fita Up tem na Drogasil? Havia uma variação vendida pela própria Fita UP, sem estoque na Drogasil e na Droga Raia. Confira a disponibilidade atual no anúncio.",
         "Fita Up tem loja física? Tem, nas lojas parceiras que a marca lista no localizador. O capítulo \"Fita Up perto de mim\" diz como achar a mais próxima."
       ]
     }
