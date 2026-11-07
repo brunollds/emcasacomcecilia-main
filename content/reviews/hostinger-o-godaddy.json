@@ -189,7 +189,7 @@
     {
       "heading": "¿Y el plan de 1 mes?",
       "paragraphs": [
-        "Premium de un mes figura a 12,99 US$, sin descuento de SONAR20, y anuncia la misma tarifa al renovar. Si se mantuviera durante doce meses, sumaría 155,88 US$, unas ocho veces el contrato de 12 meses con el código. La opción mensual permite contratar un período corto con un desembolso inicial menor, pero tiene un coste mensual más alto."
+        "Premium de un mes figura a 12,99 US$, no admite el descuento de SONAR20 y anuncia la misma tarifa al renovar. Si se mantuviera durante doce meses, sumaría 155,88 US$, unas ocho veces el contrato de 12 meses con el código. La opción mensual permite contratar un período corto con un desembolso inicial menor, pero tiene un coste mensual más alto."
       ]
     },
     {
@@ -288,7 +288,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Introduce SONAR20 en el campo de cupón del carrito internacional o entra por el enlace para obtener un 20% en el primer período de una compra nueva elegible. En la consulta, Premium de un mes no recibió el descuento. Comprueba el total antes de pagar; SONAR20 no descuenta la renovación.",
+    "text": "Introduce SONAR20 en el campo de cupón del carrito internacional o entra por el enlace para obtener un 20% en el primer período de una compra nueva elegible. SONAR20 no se aplica a Premium de un mes. Comprueba el total antes de pagar; SONAR20 no descuenta la renovación.",
     "label": "Ver los planes de hosting con el SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true

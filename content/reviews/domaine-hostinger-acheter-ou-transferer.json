@@ -46,7 +46,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Vous pouvez enregistrer le domaine chez Hostinger ou le garder chez un autre registrar et le connecter à l’hébergement. Comparez renouvellement, contrôle de l’enregistrement et travail d’un changement ultérieur. Un domaine existant n’a pas besoin d’être transféré pour utiliser l’hébergement Hostinger ; vérifiez l’éligibilité de l’extension avant tout transfert."
+        "Le domaine est un compte à part : il peut rester chez Hostinger ou ailleurs, le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité de partir, pas la première année. Achetez chez Hostinger pour tout avoir dans un panneau ; ne transférez qu’un domaine éligible (génériques : 60 jours depuis l’enregistrement ou le dernier transfert)."
       ]
     },
     {
@@ -206,7 +206,7 @@
   "decision": {
     "takeIf": [
       "Prenez le domaine chez Hostinger si le site sera hébergé chez elle et que vous voulez domaine, DNS et renouvellement dans le même panneau.",
-      "Transférez si l’extension et les verrouillages le permettent et si le coût et les conditions de renouvellement justifient le changement."
+      "Ne transférez que si le domaine remplit les conditions de l’extension (en générique, 60 jours ou plus depuis l’enregistrement ou le dernier transfert, sans verrouillage) et si le renouvellement chez Hostinger compense ce que vous payez aujourd’hui."
     ],
     "skipIf": [
       "Passez votre chemin si vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou si le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",

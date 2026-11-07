@@ -189,7 +189,7 @@
     {
       "heading": "Et le forfait d'un mois ?",
       "paragraphs": [
-        "Premium sur un mois est affiché à 12,99 US$, sans réduction SONAR20, avec le même tarif annoncé au renouvellement. À tarif inchangé, douze mois reviendraient à 155,88 US$, environ huit fois le contrat de 12 mois avec le code. L'option mensuelle permet une courte souscription avec un paiement initial plus faible, mais un coût mensuel plus élevé."
+        "Premium sur un mois est affiché à 12,99 US$, SONAR20 ne s'applique pas à ce forfait, et le renouvellement est annoncé au même tarif. À tarif inchangé, douze mois reviendraient à 155,88 US$, environ huit fois le contrat de 12 mois avec le code. L'option mensuelle permet une courte souscription avec un paiement initial plus faible, mais un coût mensuel plus élevé."
       ]
     },
     {
@@ -275,7 +275,7 @@
         "Le code Hostinger fonctionne-t-il au renouvellement ? Non. SONAR20 réduit le prix des nouveaux achats éligibles ; le renouvellement est facturé au tarif du forfait, sans cette réduction. Consultez le [guide de renouvellement Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20).",
         "Le Premium de Hostinger inclut-il un domaine ? Oui, le domaine est gratuit pendant un an, tout comme les deux boîtes e-mail par site indiquées dans l'offre consultée. Après cette année, leurs renouvellements sont facturés séparément, aux tarifs applicables.",
         "Puis-je migrer mon site de GoDaddy vers Hostinger ? La page d'aide de Hostinger indique que la migration gratuite couvre un site venant d'une autre société sur les forfaits Web, Cloud ou Agency ; vérifiez votre forfait avec le support avant de résilier l'ancien.",
-        "Quel est le code promo Hostinger ? SONAR20 offre 20 % de réduction sur la première période des nouveaux achats éligibles ; il ne réduit pas le renouvellement et n'a pas réduit le prix affiché de Premium sur un mois."
+        "Quel est le code promo Hostinger ? SONAR20 offre 20 % de réduction sur la première période des nouveaux achats éligibles ; il ne s'applique ni au renouvellement ni à Premium sur un mois."
       ]
     },
     {
@@ -288,7 +288,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Saisissez SONAR20 dans le champ de code promo du panier international ou passez par le lien pour obtenir 20 % sur la première période d'un nouvel achat éligible. SONAR20 n'a pas réduit le prix affiché de Premium sur un mois. Vérifiez le total avant de payer ; SONAR20 ne réduit pas le renouvellement.",
+    "text": "Saisissez SONAR20 dans le champ de code promo du panier international ou passez par le lien pour obtenir 20 % sur la première période d'un nouvel achat éligible. SONAR20 ne s'applique pas à Premium sur un mois. Vérifiez le total avant de payer ; SONAR20 ne s'applique pas au renouvellement.",
     "label": "Voir les forfaits d'hébergement avec le SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true

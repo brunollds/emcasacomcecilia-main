@@ -46,7 +46,7 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Sie können die Domain bei Hostinger registrieren oder bei einem anderen Registrar belassen und mit dem Hosting verbinden. Vergleichen Sie Verlängerung, Kontrolle der Registrierung und Aufwand eines späteren Wechsels. Eine vorhandene Domain muss für Hosting bei Hostinger nicht umziehen; prüfen Sie vor einem Transfer die Voraussetzungen der Endung."
+        "Die Domain ist ein vom Hosting getrenntes Konto: Sie kann bei Hostinger oder anderswo liegen, die Website läuft in beiden Fällen. Entscheiden Sie nach Verlängerungspreis und Wechselaufwand, nicht nach dem ersten Jahr. Kaufen Sie bei Hostinger für alles in einem Panel und ziehen Sie nur eine geeignete Domain um (generische Endungen: 60 Tage seit Registrierung oder letztem Transfer)."
       ]
     },
     {
@@ -206,7 +206,7 @@
   "decision": {
     "takeIf": [
       "Nehmen Sie die Domain bei Hostinger, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen.",
-      "Ziehen Sie um, wenn Endung und Sperren es zulassen und Kosten sowie Verlängerungsbedingungen den Wechsel rechtfertigen."
+      "Ziehen Sie nur um, wenn die Domain die Voraussetzungen der Endung erfüllt (bei generischen Endungen mindestens 60 Tage seit Registrierung oder letztem Transfer, ohne Sperre) und sich die Verlängerung bei Hostinger gegenüber Ihrem heutigen Preis lohnt."
     ],
     "skipIf": [
       "Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Stellen Sie das DNS um und lassen Sie die Registrierung, wo sie ist.",

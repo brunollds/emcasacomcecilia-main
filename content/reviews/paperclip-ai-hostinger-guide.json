@@ -52,7 +52,8 @@
     {
       "heading": "What Paperclip is, in plain language",
       "paragraphs": [
-        "Paperclip is a program for organizing a team of AI agents: instead of a single assistant, you build the team with roles, goals and a spending cap for each agent. Think of a small company. There is an owner, managers and employees, each with their own job. Paperclip does the same with AI agents: each agent has a role, a job description and a boss. Whoever is above delegates tasks, and whoever is below answers to them. In the documentation, five ideas show up in the project."
+        "Think of a small company: each agent has a role, a job description and a boss. Whoever coordinates hands out the tasks; the others carry them out and report progress.",
+        "Paperclip organizes this structure and brings together goals, budgets, approvals and records. The five concepts below show how the documentation describes it."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -73,7 +74,7 @@
     {
       "heading": "Is it reliable? What you can verify",
       "paragraphs": [
-        "“Reliable” is a big word. You can separate what is verifiable from what is not.",
+        "To assess the project, check where the code comes from, the license, where it runs and what the sources say about data and security.",
         "**Who maintains it.** The official repository, github.com/paperclipai/paperclip, says the project is maintained by the Paperclip team, and the copyright notice reads “MIT © 2026 Paperclip Labs, Inc.”. The project’s website, paperclip.ing, points to the same repository. Do not confuse it with the forks and copies of the code that show up in search.",
         "**License.** MIT. It means the code is open: anyone can read it, audit it and use it. It also means nobody is obliged to keep maintaining the version you installed.",
         "**Where it runs.** You choose. It can run on your computer, on a server of your own or on Hostinger’s managed plan. The project’s website says the self-hosted version does not require a Paperclip account.",

@@ -51,7 +51,8 @@
     {
       "heading": "O que é o Paperclip, em linguagem comum",
       "paragraphs": [
-        "O Paperclip é um programa para organizar uma equipe de agentes de IA: em vez de um assistente só, você monta a equipe com cargos, metas e um limite de gasto para cada agente. Pense em uma pequena empresa. Tem um dono, gerentes e funcionários, cada um com a sua função. O Paperclip faz isso com agentes de IA: cada agente tem um cargo, uma descrição de trabalho e um superior. Quem está acima delega tarefas, e quem está abaixo responde a ele. Na documentação, cinco ideias aparecem no projeto."
+        "Pense em uma pequena empresa: cada agente tem um cargo, uma descrição de trabalho e um superior. Quem coordena distribui as tarefas; os demais as executam e informam o andamento.",
+        "O Paperclip organiza essa estrutura e reúne metas, orçamento, aprovações e registros. Os cinco conceitos a seguir mostram como a documentação descreve isso."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -72,7 +73,7 @@
     {
       "heading": "É confiável? O que dá para conferir",
       "paragraphs": [
-        "“Confiável” é uma palavra grande. Dá para separar o que é verificável do que não é.",
+        "Para avaliar o projeto, confira a origem do código, a licença, onde ele roda e o que as fontes dizem sobre dados e segurança.",
         "**Quem mantém.** O repositório oficial, github.com/paperclipai/paperclip, diz que o projeto é mantido pela equipe Paperclip, e o aviso de copyright diz “MIT © 2026 Paperclip Labs, Inc.”. O site do projeto, paperclip.ing, aponta para o mesmo repositório. Não confunda com forks e cópias do código que aparecem na busca.",
         "**Licença.** MIT. Quer dizer que o código é aberto: qualquer pessoa pode ler, auditar e usar. Também quer dizer que ninguém é obrigado a manter a versão que você instalou.",
         "**Onde roda.** Você escolhe. Pode rodar no seu computador, num servidor próprio ou no plano gerenciado da Hostinger. O site do projeto diz que a versão auto-hospedada não exige conta no Paperclip.",

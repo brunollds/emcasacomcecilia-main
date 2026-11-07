@@ -130,9 +130,9 @@
         "Le logiciel ne coûte rien dans les deux cas. La vraie dépense vient de trois endroits :"
       ],
       "bullets": [
-        "**Le serveur.** Il peut s'agir de votre ordinateur, allumé en permanence, ou d'un VPS, un serveur virtuel loué. Le VPS donne l'accès root, le contrôle total de la machine, mais c'est vous qui mettez à jour et protégez le système. Plus il y a de mémoire RAM, plus de programmes tournent en même temps sans ralentir.",
-        "**L'offre gérée.** Hostinger installe, met à jour et maintient l'assistant. OpenClaw et Hermes Agent sont dans la même offre, « Applications d'automatisation IA ».",
-        "**Le modèle d'IA.** L'assistant utilise un modèle externe pour répondre. Vérifiez les accès disponibles dans l'installation choisie et leur facturation. Avec votre clé d'API, le fournisseur vous facture directement ; avec les crédits Hostinger, vérifiez le solde, les limites et les conditions dans le tableau de bord. Des services comme Nous Portal ont leurs propres conditions. Avant utilisation, confirmez le coût et ce qui se passe lorsque le solde est épuisé."
+        "**Serveur ou offre gérée.** Vous pouvez exécuter l'agent sur votre propre ordinateur, louer un VPS et l'administrer vous-même, ou souscrire l'installation et la maintenance gérées. Comparez les ressources et la responsabilité d'exploitation : la RAM seule ne garantit pas qu'une charge tourne sans se bloquer.",
+        "**Chez Hostinger.** OpenClaw et Hermes Agent figurent dans la même offre, « Applications d'automatisation IA ». Les options d'offre sont dans le tableau ci-dessous.",
+        "**Modèle d'IA.** L'assistant utilise un modèle externe pour répondre. Le coût dépend du modèle choisi et du nombre de conversations, et les moyens de payer sont dans « Avant d'installer ». Pour Nous Portal, le prix n'est pas indiqué sur la page du projet."
       ],
       "postParagraphs": [
         "Le coût mensuel de l'usage du modèle n'est pas indiqué dans les sources : il dépend du modèle choisi et du nombre de conversations. C'est pourquoi ce guide ne donne pas d'estimation du total par mois."

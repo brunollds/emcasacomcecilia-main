@@ -46,7 +46,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Puoi registrare il dominio su Hostinger oppure tenerlo presso un altro registrar e collegarlo all’hosting. Confronta rinnovo, controllo della registrazione e lavoro per cambiare in seguito. Se hai già il dominio, ospitare il sito su Hostinger non richiede di trasferirlo; controlla l’idoneità dell’estensione prima di chiedere il trasferimento."
+        "Il dominio è un account separato dall’hosting: può restare su Hostinger o altrove, e il sito funziona in entrambi i casi. Scegli in base al prezzo di rinnovo e alla facilità di uscita, non al primo anno. Compra su Hostinger se vuoi tutto in un pannello e trasferisci solo un dominio idoneo (generici: 60 giorni dalla registrazione o dall’ultimo trasferimento)."
       ]
     },
     {
@@ -206,7 +206,7 @@
   "decision": {
     "takeIf": [
       "Prendi il dominio su Hostinger se il sito sarà ospitato lì e vuoi dominio, DNS e rinnovo nello stesso pannello.",
-      "Trasferisci se estensione e blocchi lo consentono e se costo e condizioni di rinnovo giustificano il cambiamento."
+      "Trasferisci solo se il dominio rispetta i requisiti dell’estensione (nei generici, almeno 60 giorni dalla registrazione o dall’ultimo trasferimento, senza blocchi) e il rinnovo su Hostinger compensa ciò che paghi oggi."
     ],
     "skipIf": [
       "Lascia stare se hai già un dominio presso un altro registrar, preferisci tenere gli account separati o il rinnovo di lì è più basso: punta il DNS e lascia la registrazione dov'è.",

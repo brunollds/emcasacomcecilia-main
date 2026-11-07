@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "按国际站美元报价，对比 Hostinger Premium 使用 SONAR20 与 GoDaddy Economy 的 1、2、4 年主机费用及续费价格，并说明首年后哪些费用另计。",
-  "metaDescription": "SONAR20 为 Hostinger 符合条件的新购买提供首期 20% 折扣。按国际站美元报价，对比 Premium 与 GoDaddy 的 1、2、4 年主机费用及续费价格。",
+  "description": "以美元计算，使用 SONAR20 的 Hostinger Premium 在 1、2、4 年的主机费用对比中都比 GoDaddy Economy 便宜。域名和邮箱的续费另计。",
+  "metaDescription": "SONAR20 让 Hostinger Premium 的 12、24、48 个月新购买享 20% 折扣。对比 GoDaddy 的主机费用，并列出各套餐的续费价格。",
   "publishedAt": "2026年11月6日",
   "publishedAtISO": "2026-11-06",
   "draft": false,
@@ -45,7 +45,7 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "按本文记录的国际站美元报价及续费价格不变的假设，Hostinger Premium 使用 SONAR20 的 1、2、4 年主机费用都低于本文比较的 GoDaddy Economy 方案，年度续费报价也更低。两个套餐的域名和邮箱只免费一年，之后的费用另计。GoDaddy Starter 的年度续费价格更低，但长期总支出仍要加上首期费用比较。"
+        "以美元计算，使用 SONAR20 的 Hostinger Premium，一年、两年和四年的主机费用都比 GoDaddy Economy 低。它的年度主机续费报价也更低。两个套餐的域名和邮箱第一年免费，这些续费不计入主机总价。"
       ]
     },
     {
@@ -53,7 +53,7 @@
       "paragraphs": [
         "在 Hostinger 的国际站上，共享主机从 Premium 起步，附一年免费的域名和邮箱。GoDaddy 中同样包含这两项的套餐是 Economy。这两个是本文主要比较的对象。两家的所有套餐都免费提供 SSL。",
         "本文按期间回答：第一年付多少、2 年付多少、4 年付多少，以及各套餐续费时要付多少。GoDaddy 也有 Starter，它只包含网站本身，会在后面单独说明。",
-        "价格为 2026 年 11 月 6 日两家国际站页面与美元购物车的美元报价。表中比较主机费用，不含域名和邮箱免费期后的续费，也不含另购 SSL。付款前请在结账页确认税费及其他收费。涉及未来续费的总额，均假设续费价格保持本文记录的金额。"
+        "价格来自两家国际站及其购物车，2026 年 11 月 6 日。"
       ],
       "comparisonTable": {
         "headers": [
@@ -87,7 +87,7 @@
         "如果网站只用一年，Hostinger 用 SONAR20 的 12 个月 Premium 为 US$ 19.10。GoDaddy Economy 第一年为 US$ 83.88。Hostinger 便宜 US$ 64.78。"
       ],
       "comparisonTable": {
-        "caption": "两家购物车记录的首期主机费用，没有实际购买。Hostinger 为使用 SONAR20 的 12 个月套餐；其他费用另计。",
+        "caption": "购物车中的 12 个月主机价格。Hostinger 的价格已含 SONAR20。如有另行收取的费用，请以购物车总额为准。",
         "headers": [
           "套餐",
           "首期金额",
@@ -107,7 +107,7 @@
         ]
       },
       "postParagraphs": [
-        "查价时，Hostinger 购物车已应用黑色星期五价格：Premium 预付 12 个月，不用码的平均月费显示为 US$ 1.99，使用 SONAR20 后显示为 US$ 1.59。24 和 48 个月套餐使用码后显示的平均月费也为 US$ 1.59。这些是按预付期限换算并四舍五入后的月均金额，付款总额以购物车为准。SONAR20 为符合条件的新购买提供首期 20% 折扣。"
+        "Hostinger 的购物车已应用黑色星期五价格：12 个月的 Premium 不用码时显示每月 US$ 1.99，用 SONAR20 后每月 US$ 1.59，与 24 个月和 48 个月套餐的月费相同。优惠码给新购买 20% 折扣。"
       ]
     },
     {
@@ -116,7 +116,7 @@
         "如果网站要用两年，Hostinger 用 SONAR20 的 24 个月 Premium 一次购买为 US$ 38.21。GoDaddy 的 24 个月 Economy 套餐为 US$ 155.76，比付第一年加一次续费（US$ 227.76）更便宜。Starter 没有折扣，两年费用为 US$ 143.76。"
       ],
       "comparisonTable": {
-        "caption": "Premium 与 Economy 为购物车记录的 24 个月首期主机费用，Premium 已使用 SONAR20。Starter 为计算值：US$ 71.88 加一次同价年度续费，共 US$ 143.76；假设续费价格不变。其他费用另计，没有实际购买。",
+        "caption": "Premium 和 Economy 采用 24 个月预付报价，Premium 已含 SONAR20。Starter 按一年加一次续费的报价计算。第一年后的域名和邮箱续费不计入。",
         "headers": [
           "套餐",
           "两年金额",
@@ -145,7 +145,7 @@
       "heading": "4 年内 Hostinger 更便宜",
       "paragraphs": [
         "差别在于两家的收费方式。Hostinger 是 48 个月一次付清，这段时间内不用续费。购物车已应用黑色星期五价格，48 个月的 Premium 显示 US$ 95.52，SONAR20 把它降到 US$ 76.42。",
-        "GoDaddy 的促销价只涵盖首期。按 36 个月 Economy 的 US$ 215.64 加一次年度续费 US$ 143.88 计算，四年主机费用为 US$ 359.52；这是基于续费价格不变的估算。另有 60 个月套餐，付款金额略低，但需一次预付五年。"
+        "Economy 要恰好覆盖四年，推算为 36 个月 US$ 215.64 加一次年度续费 US$ 143.88。续费价格不变时，合计 US$ 359.52。"
       ],
       "comparisonTable": {
         "headers": [
@@ -165,10 +165,10 @@
             "US$ 359.52"
           ]
         ],
-        "caption": "Premium 为 48 个月首期主机费用；Economy 为 36 个月首期加一次年度续费的估算，假设续费价格不变。域名、邮箱及其他额外费用未计入。"
+        "caption": "Premium 为 48 个月预付；Economy 为 36 个月加一次按报价的年度续费。"
       },
       "postParagraphs": [
-        "记录中的 GoDaddy Economy 60 个月套餐为 US$ 359.40，比上述四年估算少 US$ 0.12，并涵盖五年。如果能接受一次付清五年，这个套餐也应纳入比较；36 个月加一次续费并非最低付款金额。",
+        "GoDaddy Economy 的 60 个月套餐一次付清 US$ 359.40，比上述四年推算少 US$ 0.12，并含第五年主机。就这两个方案而言，它的总付款更低，但需要一开始就付清全部金额。",
         "以上总价都不含第一年后续费域名和邮箱的费用，两家都是如此。"
       ]
     },
@@ -176,7 +176,7 @@
       "heading": "过了付费期间：各套餐续费多少",
       "paragraphs": [
         "期间结束后，两家都回到标价。SONAR20 只适用于新购买，所以 Hostinger 续费按套餐标价计算，不套用优惠码。购物车显示 Premium 在 48 个月后以每月 US$ 10.99 续费 12 个月，即每年 US$ 131.88。12 个月套餐的续费价也相同。",
-        "GoDaddy 的 12 个月 Economy 购物车列出的下一期年度续费价格为 US$ 143.88，比 Premium 的年度续费价格多 US$ 12。"
+        "Economy 一年期购买的下一期年度主机续费，GoDaddy 购物车报价为 US$ 143.88，比 Premium 的年度续费报价多 US$ 12。"
       ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hans.webp",
@@ -189,7 +189,7 @@
     {
       "heading": "按月套餐呢？",
       "paragraphs": [
-        "查价时，Hostinger Premium 的月付套餐为每月 US$ 12.99，本文记录中未获得 SONAR20 折扣。若月费不变，连续使用 12 个月需 US$ 155.88，约为使用优惠码预付 12 个月套餐的 8.2 倍。月付适合只需短期使用、或不想预付一整年的人比较。"
+        "购物车中，Premium 一个月的价格为 US$ 12.99，续费的月价相同。SONAR20 不适用于一个月套餐。价格不变时，连续付 12 个月共 US$ 155.88，约为用优惠码一次购买 12 个月套餐的 8 倍。按月付费适合短期项目或测试，但网站要用一年的话成本更高。"
       ]
     },
     {
@@ -229,30 +229,30 @@
             "US$ 143.88"
           ]
         ],
-        "caption": "仅比较主机费用。Premium 的 1、2、4 年栏分别采用 12、24、48 个月首期套餐；Economy 的四年栏为 36 个月加一次年度续费。Starter 的两年与四年栏按每年 US$ 71.88 计算。续费估算假设价格不变；域名、邮箱与其他额外费用另计。"
+        "caption": "仅含主机费用，不含域名和邮箱的续费。未来的主机续费按报价计算。"
       }
     },
     {
-      "heading": "域名、邮箱和 SSL：免费项目与额外费用",
+      "heading": "域名、邮箱和 SSL：第一年后会到期的项目",
       "paragraphs": [
         "Premium 和 Economy 上，域名和邮箱都是一年免费。之后两家都各自续费，上面的 4 年总价都不含这些费用。GoDaddy 的通知补充说，免费域名仍要收取 ICANN 费用。",
-        "本文比较的套餐都包含免费 SSL：Hostinger 为免费证书，GoDaddy 为 AutoSSL。查价时，Economy 购物车另列 Standard SSL，首年免费，之后以每年 US$ 119.99 自动续费。这是 AutoSSL 之外的付费项目；如果不需要，请检查购物车及自动续费设置。"
+        "本文比较的主机套餐中，Hostinger 含免费证书，GoDaddy 含 AutoSSL。Economy 的购物车另列了 Standard SSL，第一年免费，之后以每年 US$ 119.99 自动续费。它是 AutoSSL 之外的付费证书；不想保留的话，请检查它的续费设置。"
       ]
     },
     {
-      "heading": "年付套餐退款：两家列出的期限都是 30 天",
+      "heading": "退款：先确认 GoDaddy 对你所选套餐的期限",
       "paragraphs": [
-        "本文记录的 Hostinger 退款申请期限为购买后 30 天。GoDaddy 国际站页脚通知写明：年付套餐在 30 天内可全额退款，月付套餐为 48 小时内。"
+        "Hostinger 接受购买后 30 天内的退款申请。GoDaddy 国际站的套餐卡片上写 30 天；页脚则写明，年付套餐 30 天内可全额退款，月付套餐为 48 小时内。请确认你所购套餐的退款条款，月付套餐尤其要注意。"
       ]
     },
     {
       "heading": "需要更多：Unlimited 和 Cloud Startup",
       "paragraphs": [
-        "在 Premium 之上，本文记录的 Hostinger 页面还列有不限网站数的 Unlimited，以及 Cloud Startup。若将页面上的 48 个月首期金额乘以 0.8，Unlimited 的估算为 US$ 107.14，Cloud Startup 为 US$ 306.82；页面列出的续费月价分别为 US$ 16.99 和 US$ 25.99。这两笔首期金额由页面价格计算得出，并非购物车的确定结算额。GoDaddy Deluxe 和 Ultimate 不在本次比较范围内。"
+        "在 Premium 之上，Hostinger 页面还列有不限网站数的 Unlimited 和 Cloud Startup。按页面价格减 20% 计算，使用 SONAR20 的 48 个月总价为 Unlimited US$ 107.14、Cloud Startup US$ 306.82，页面标示的续费为每月 US$ 16.99 和 US$ 25.99。这两个总价是计算值，请在购物车中确认。"
       ],
       "links": [
         {
-          "label": "查看 SONAR20 的适用条件与续费规则",
+          "label": "到 Hostinger 优惠码页面查看 SONAR20 的条件",
           "href": "/zh-hans/coupons/hostinger"
         }
       ]
@@ -260,22 +260,22 @@
     {
       "heading": "按网站使用期间决定怎么选",
       "paragraphs": [
-        "只用一年，并需要首年免费的域名和邮箱：记录中的 Hostinger Premium 12 个月使用 SONAR20 为 US$ 19.10，比 Economy 少 US$ 64.78。",
-        "使用两年：Premium 24 个月使用 SONAR20 的主机费用为 US$ 38.21，Economy 24 个月为 US$ 155.76。两家的域名和邮箱在首年后都另计费用。",
-        "使用四年：Premium 48 个月使用 SONAR20 的主机费用为 US$ 76.42。若续费价格不变，Economy 的 36 个月加一次年度续费估算为 US$ 359.52；如果能接受预付五年，也可比较 US$ 359.40 的 60 个月套餐。域名和邮箱在首年后另计费用。",
-        "使用超过四年：Starter 记录的年度续费价格为 US$ 71.88，比 Premium 少 US$ 60。若 Starter 每年保持 US$ 71.88，前四年的主机费用为 US$ 287.52，比 Premium 预付 48 个月多 US$ 211.10。续费更低不代表第五年起总支出就更低，应把预计使用年数的首期与续费费用相加。",
-        "付款前确认所选期限、首期付款总额、续费价格，以及免费期后仍需要的域名和邮箱费用。促销与续费报价可能变动。"
+        "一年，要域名和邮箱：Hostinger Premium 12 个月，用 SONAR20 为 US$ 19.10。同期间 Economy 多 US$ 64.78。",
+        "两年的主机：Hostinger Premium 24 个月，用 SONAR20 为 US$ 38.21，Economy 为 US$ 155.76。两个套餐的域名和邮箱第一年都免费；第二年继续用这些服务的话，请另加续费。",
+        "四年的主机：Premium 48 个月，用 SONAR20 为 US$ 76.42。Economy 36 个月加一次按报价的年度续费，推算为 US$ 359.52；其 60 个月方案一次付清 US$ 359.40，略低一点，但两者都超过 Premium 四年价格的四倍。域名和邮箱的续费另计。",
+        "只要网站的话，Starter 的年度续费最低：US$ 71.88，Premium 为 US$ 131.88。前四年用 SONAR20 的 Premium 总价仍然更低。项目更长的话，按预计使用期限比较累计付款，续费价格以购买时的报价为准。",
+        "无论哪种情况，付款前都先在购物车确认续费价：促销会变动。"
       ]
     },
     {
       "heading": "常见问题",
       "bullets": [
-        "Hostinger 和 GoDaddy 哪个更好？按本文记录的国际站美元报价，Premium 使用 SONAR20 的 12、24 个月主机费用低于 Economy 同期套餐；48 个月主机费用也低于 Economy 的 36 个月加一次年度续费估算，后者假设续费价格不变。Premium 记录的年度续费价格低于 Economy。Starter 的年度续费价格更低，但首期更贵，不能据此判定长期总支出最低。其他选择标准见[如何选择网站主机](/zh-hans/reviews/choose-web-host-hostinger-zh-hans)。",
+        "Hostinger 和 GoDaddy 哪个更好？就主机费用而言，使用 SONAR20 的 Premium 在一年、两年和四年都比 Economy 便宜，年度续费也更低。域名和邮箱的续费另计。GoDaddy Starter 的年度续费最低，但前四年比 Premium 贵。更多选择标准见[如何选择网站主机](/zh-hans/reviews/choose-web-host-hostinger-zh-hans)。",
         "GoDaddy 续费价会一样吗？Economy 不一样：购物车中，一年套餐在第一年后会从 US$ 83.88 回到标价 US$ 143.88。Starter 没有首年折扣，续费价同样是 US$ 71.88。",
         "Hostinger 优惠码能用在续费上吗？不能。SONAR20 只适用于新购买，续费按原价计算。续费请看 [Hostinger 续费指南](/zh-hans/reviews/hostinger-renewal-sonar20-zh-hans)。",
-        "Hostinger Premium 附域名吗？本文记录的套餐包含一年免费域名，以及每个网站 2 个免费一年的邮箱；一年后继续使用这些服务需另付费，请确认各自的续费价格与自动续费设置。",
+        "Hostinger Premium 附域名吗？附，域名和每个网站 2 个邮箱第一年免费。之后各自单独续费。",
         "可以把网站从 GoDaddy 迁到 Hostinger 吗？Hostinger 的说明页写道，免费迁移涵盖来自其他公司的 Web、Cloud 或 Agency 套餐网站。取消旧套餐前，请先向客服确认你的套餐。",
-        "Hostinger 的优惠码是什么？SONAR20 为符合条件的新购买提供首期 20% 折扣；续费按标价计算，本文记录的 Premium 月付套餐未获得这项折扣。"
+        "Hostinger 的优惠码是什么？SONAR20 为本文比较的 12、24、48 个月 Premium 新购买提供 20% 折扣；不适用于续费，也不适用于一个月的 Premium 套餐。"
       ]
     },
     {
@@ -288,7 +288,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在国际站购物车的优惠码栏输入 SONAR20，或通过本文链接查看套餐。符合条件的新购买首期可享 20% 折扣；付款前确认折扣金额及续费价格。本文记录的 Premium 月付套餐未获得折扣，续费也按标价计算。",
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接：本文比较的 12、24 或 48 个月 Premium 新购买享 20% 折扣。不适用于续费，也不适用于一个月的 Premium 套餐。",
     "label": "通过 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -318,12 +318,12 @@
   ],
   "decision": {
     "takeIf": [
-      "网站预计使用两年或四年，且能预付相应期限：按本文记录的价格及续费价格不变的假设，Premium 24 或 48 个月套餐使用 SONAR20 后，主机费用低于 Economy 的对应比较方案。域名和邮箱只免费一年。",
-      "项目只做一年，且需要首年免费的域名和邮箱：本文记录的 Premium 12 个月套餐使用 SONAR20 为 US$ 19.10，比 Economy 少 US$ 64.78。"
+      "能一次预付 24 或 48 个月主机费用的话，选 Hostinger Premium：用 SONAR20 时，这两种比较里它都比 Economy 便宜，域名和邮箱的续费另计。",
+      "项目只需一年主机、并要包含域名和邮箱的话，选 Hostinger Premium：它的 12 个月价格比 Economy 低，年度主机续费报价也更低。"
     ],
     "skipIf": [
-      "优先考虑较低的年度续费支出，且不需要套餐赠送域名和邮箱：可比较 GoDaddy Starter，但须先计算预计使用期限内的总费用；使用超过四年并不自动代表 Starter 的总支出更低。",
-      "一定要使用 cPanel：本文列出的 GoDaddy Starter 和 Economy 都提供 cPanel，请按网站容量及首年域名、邮箱需求选择。"
+      "只需要主机、又最看重最低年度续费的话，可以考虑 GoDaddy Starter。它前四年比 Premium 贵；更长期的选择，要按预计使用期限比较总费用。",
+      "更喜欢 cPanel、并能接受第一年、2 年、4 年和续费都比 Premium 贵的话，选 GoDaddy Economy。"
     ]
   }
 }

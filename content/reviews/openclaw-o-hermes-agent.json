@@ -130,9 +130,9 @@
         "El software no cuesta nada en ninguno de los dos casos. El gasto real viene de tres sitios:"
       ],
       "bullets": [
-        "**Servidor.** Puede ser tu ordenador, encendido todo el tiempo, o un VPS, un servidor virtual alquilado. El VPS da acceso root, el control total de la máquina, pero eres tú quien actualiza y protege el sistema. Cuanta más memoria RAM, más programas funcionan a la vez sin bloquearse.",
-        "**Plan gestionado.** Hostinger instala, actualiza y mantiene el asistente. OpenClaw y Hermes Agent están en el mismo plan, «Aplicaciones de automatización con IA».",
-        "**Modelo de IA.** El asistente usa un modelo externo para responder. Comprueba las opciones de acceso de la instalación elegida y cómo se cobra cada una. Con tu propia clave de API, el proveedor te cobra directamente; con créditos de Hostinger, revisa saldo, límites y condiciones en el panel. Servicios como Nous Portal tienen condiciones propias. Antes de usarlo, confirma el coste y qué ocurre cuando se agota el saldo."
+        "**Servidor o plan gestionado.** Puedes ejecutar el agente en tu propio ordenador, alquilar un VPS y administrarlo tú, o contratar la instalación y el mantenimiento gestionados. Compara recursos y responsabilidad de operación: la RAM por sí sola no garantiza que una carga funcione sin bloquearse.",
+        "**En Hostinger.** OpenClaw y Hermes Agent aparecen en el mismo plan, «Aplicaciones de automatización con IA». Las opciones de plan están en la tabla de más abajo.",
+        "**Modelo de IA.** El asistente usa un modelo externo para responder. El coste depende del modelo elegido y del número de conversaciones, y las formas de pago están en «Antes de instalar». En Nous Portal, el precio no figura en la página del proyecto."
       ],
       "postParagraphs": [
         "El coste mensual del uso del modelo no figura en las fuentes: depende del modelo elegido y del número de conversaciones. Por eso esta guía no incluye una estimación del total mensual."

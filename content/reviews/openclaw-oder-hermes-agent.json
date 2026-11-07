@@ -129,9 +129,9 @@
         "Die Software kostet in beiden Fällen nichts. Die tatsächlichen Ausgaben entstehen an drei Stellen:"
       ],
       "bullets": [
-        "**Server.** Das kann Ihr Computer sein, der ständig eingeschaltet bleibt, oder ein VPS, ein gemieteter virtueller Server. Der VPS gibt Root-Zugriff, die volle Kontrolle über die Maschine, aber Sie sind es, der das System aktualisiert und schützt. Je mehr RAM, desto mehr Programme laufen gleichzeitig, ohne zu haken.",
-        "**Verwalteter Tarif.** Hostinger installiert, aktualisiert und betreut den Assistenten. OpenClaw und Hermes Agent sind im selben Tarif, „AI automation apps“.",
-        "**KI-Modell.** Der Assistent nutzt ein externes Modell für Antworten. Prüfen Sie die Zugangsoptionen der gewählten Installation und deren Abrechnung. Mit eigenem API-Schlüssel rechnet der Anbieter direkt mit Ihnen ab; bei Hostinger-Credits prüfen Sie Guthaben, Limits und Bedingungen im Dashboard. Dienste wie Nous Portal haben eigene Bedingungen. Klären Sie vor der Nutzung Kosten und Verhalten bei aufgebrauchtem Guthaben."
+        "**Server oder verwalteter Tarif.** Sie können den Agenten auf Ihrem eigenen Computer ausführen, einen VPS mieten und selbst verwalten oder die verwaltete Installation und Wartung buchen. Vergleichen Sie Ressourcen und Betriebsverantwortung: RAM allein garantiert nicht, dass eine Last ohne Hänger läuft.",
+        "**Bei Hostinger.** OpenClaw und Hermes Agent erscheinen im selben Tarif, „AI automation apps“. Die Tarifoptionen stehen in der Tabelle weiter unten.",
+        "**KI-Modell.** Der Assistent nutzt ein externes Modell für Antworten. Die Kosten hängen vom gewählten Modell und von der Zahl der Gespräche ab, und die Zahlungswege stehen unter „Bevor Sie installieren“. Bei Nous Portal ist der Preis auf der Projektseite nicht angegeben."
       ],
       "postParagraphs": [
         "Die monatlichen Kosten der Modellnutzung sind in den Quellen nicht angegeben: Sie hängen vom gewählten Modell und von der Zahl der Gespräche ab. Deshalb enthält dieser Leitfaden keine Schätzung der monatlichen Gesamtsumme."
