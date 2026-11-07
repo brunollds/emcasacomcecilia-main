@@ -119407,7 +119407,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé e na consulta pública. No Reclame Aqui, a reputação muda conforme o período: Boa em 6 meses e Ruim em 12. Antes de comprar, confira entrega, troca e cobertura da garantia; para o desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
+          "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé e na consulta pública. No Reclame Aqui, a reputação muda conforme o período: Boa em 6 meses e Ruim em 12. Antes de comprar, confira entrega, troca e garantia; o CECILIA10 dá 10% OFF em todo o site, e o [cupom Bagaggio](/cupons/bagaggio) traz as regras."
         ]
       },
       {
@@ -119677,7 +119677,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, com nota 7,9, mas Ruim nos 12 meses até outubro, com nota 5,8. No semestre, respondeu a 100% e resolveu 92,5%. O que muda a leitura é o perfil: o capítulo Qual perfil olhar mostra qual vale para o site. Para comprar com desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
+          "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, com nota 7,9, mas Ruim nos 12 meses até outubro, com nota 5,8. No semestre, respondeu a 100% e resolveu 92,5%, e a leitura muda conforme o perfil olhado. O CECILIA10 dá 10% OFF em todo o site; o [cupom Bagaggio](/cupons/bagaggio) traz as regras."
         ]
       },
       {
@@ -120425,7 +120425,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta, além da garantia legal do Código de Defesa do Consumidor. Veja abaixo quem tem direito e como acionar."
+          "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta, além da garantia legal. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -155493,7 +155493,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "As três malas de policarbonato da tabela custaram de 3,6 a 6 vezes a Detroit de ABS, sem ganhar litros e pesando mais. São modelos diferentes, não uma comparação isolada do material. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros."
+          "As três malas de policarbonato da tabela custaram de 3,6 a 6 vezes a Detroit de ABS, sem ganhar litros e pesando mais. São modelos diferentes, e as fichas não comparam a resistência: a decisão fica em preço, peso e litros. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -155735,7 +155735,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do produto. Nas malas da marca, a página traz garantia vitalícia com regulamento e medidas completas; nas mochilas e bolsas, a garantia tem prazo e falta em parte das linhas. A Downtown PP e a Mochila Tech aparecem como Travelcross no cadastro da loja."
+          "Depende do produto. Nas malas da marca, a página traz garantia vitalícia com regulamento e medidas completas; nas mochilas e bolsas, a garantia tem prazo e falta em parte das linhas; a Downtown PP e a Mochila Tech são Travelcross. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -155961,7 +155961,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço dos produtos, 24 dos 32 conjuntos conferidos não economizavam em relação às mesmas peças avulsas. Seis conjuntos disponíveis custavam menos. Isso só favorece o conjunto se você precisar de todas as malas; compare também o total com frete e desconto no carrinho."
+          "Pelo preço dos produtos, 24 dos 32 conjuntos conferidos não economizavam em relação às mesmas peças avulsas. Seis conjuntos disponíveis custavam menos. Isso só favorece o conjunto se você precisar de todas as malas; compare o total no carrinho, onde o CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -165134,7 +165134,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross, e a garantia vitalícia não vale para ela. Confira o selo BORDO e a medida na página do produto antes de comprar."
+          "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross e fica sem garantia vitalícia. Confira selo BORDO e medida; o CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -165380,7 +165380,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na seleção da Bagaggio, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Esses nomes ajudam a comparar o catálogo. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm."
+          "Na Bagaggio, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -165652,7 +165652,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para gastar pouco, a Horizonte Slim está entre as três mais baratas, e a descrição oficial diz que ela serve para notebook de até 15,6 polegadas. Se você quer couro, a faixa de preço é bem mais alta. O que muda a escolha é o tamanho do seu notebook, e a tabela abaixo mostra a medida de cada modelo."
+          "Para gastar pouco, a Horizonte Slim está entre as três mais baratas, e a descrição oficial diz que ela serve para notebook de até 15,6 polegadas. Se você quer couro, a faixa de preço é bem mais alta; o que muda a escolha é o tamanho do seu notebook. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -166185,7 +166185,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, só três trazem garantia na ficha, de 90 dias; nos demais, vale a garantia legal. Se a criança quer um personagem, veja a seção de licenciadas."
+          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, só três trazem garantia na ficha, de 90 dias; nos demais, vale a garantia legal. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -174115,7 +174115,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelas medidas da loja e pelas regras de LATAM e Azul, Airtrack, Royale e Explore sem expandir ficam no limite do item pessoal. Voyage e Donna Grande passam dos 45 cm de altura. A escolha depende da companhia, da franquia da passagem e da medida da mochila carregada."
+          "Pelas medidas da loja e pelas regras de LATAM e Azul, Airtrack, Royale e Explore sem expandir ficam no limite do item pessoal. Voyage e Donna Grande passam dos 45 cm de altura. A escolha depende da companhia, da franquia e da mochila carregada; o CECILIA10 dá 10% OFF em todo o site, um cupom por pedido."
         ]
       },
       {
