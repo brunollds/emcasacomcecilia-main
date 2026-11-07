@@ -116188,7 +116188,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Paperclip organisiert Teams aus KI-Agenten mit Rollen, Zielen, Budgets und Freigaben. Sie verbinden die Agenten über Ihre eigenen Konten mit den Modellen, per API oder unterstütztem Abonnement. Bei Hostinger entscheidet vor allem die Serververwaltung: Hostinger im verwalteten Tarif oder Sie selbst beim VPS."
+          "Paperclip organisiert Teams aus KI-Agenten mit Rollen, Zielen, Budgets und Freigaben, verbunden mit den Modellen über Ihre eigenen Konten. Bei Hostinger entscheidet vor allem die Serververwaltung: Hostinger im verwalteten Tarif oder Sie selbst beim VPS. Der Code SONAR20 gibt 20 % auf Neukäufe, nicht auf Verlängerungen oder Domains."
         ]
       },
       {
@@ -116416,7 +116416,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Paperclip organizza squadre di agenti IA con ruoli, obiettivi, budget e approvazioni. Colleghi gli agenti ai modelli con i tuoi account, tramite API o abbonamento compatibile. Su Hostinger la scelta principale riguarda chi gestisce il server: Hostinger nel piano gestito o tu sul VPS."
+          "Paperclip organizza squadre di agenti IA con ruoli, obiettivi, budget e approvazioni, collegate ai modelli con i tuoi account. Su Hostinger la scelta principale riguarda chi gestisce il server: Hostinger nel piano gestito o tu sul VPS. Il codice SONAR20 dà il 20% sull'acquisto nuovo, non su rinnovi né domini."
         ]
       },
       {
@@ -116645,7 +116645,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Paperclip organise des équipes d’agents d’IA avec des rôles, des objectifs, des budgets et des approbations. Vous connectez les agents aux modèles avec vos propres comptes, par API ou abonnement compatible. Chez Hostinger, le choix principal porte sur la gestion du serveur : Hostinger dans l’offre gérée, ou vous sur un VPS."
+          "Paperclip organise des équipes d’agents d’IA avec des rôles, des objectifs, des budgets et des approbations, reliées aux modèles par vos propres comptes. Chez Hostinger, le choix principal porte sur la gestion du serveur : Hostinger dans l’offre gérée, ou vous sur un VPS. Le code SONAR20 donne 20 % sur un nouvel achat, hors renouvellement et domaines."
         ]
       },
       {
@@ -116873,7 +116873,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Paperclip organizes teams of AI agents with roles, goals, budgets and approvals. You connect the agents to models through your own accounts, by API or compatible subscription. On Hostinger, the main choice is who manages the server: Hostinger on managed hosting, or you on a VPS."
+          "Paperclip organizes teams of AI agents with roles, goals, budgets and approvals, connected to models through your own accounts. On Hostinger, the main choice is who manages the server: Hostinger on managed hosting, or you on a VPS. The code SONAR20 gives 20% off new purchases, not renewals or domains."
         ]
       },
       {
@@ -117101,7 +117101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Paperclip は、役割、目標、予算、承認を持つ AI エージェントのチームを管理します。モデルへは、API キーまたは対応するサブスクリプションを使い、ご自身のアカウントでエージェントを接続します。Hostinger では、サーバーの管理を Hostinger に任せるマネージドか、自分で管理する VPS かが主な選択です。"
+          "Paperclip は、役割、目標、予算、承認を持つ AI エージェントのチームを管理し、モデルへは自分のアカウントで接続します。Hostinger では、サーバーの管理を Hostinger に任せるマネージドか、自分で管理する VPS かが主な選択です。新規購入ならコード SONAR20 で 20% 割引、更新とドメインは対象外です。"
         ]
       },
       {
@@ -117328,7 +117328,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Paperclip은 역할, 목표, 예산, 승인 규칙을 갖춘 AI 에이전트 팀을 관리합니다. 모델에는 자신의 계정으로, API 키나 지원되는 구독을 써서 에이전트를 연결합니다. Hostinger에서는 서버를 Hostinger가 맡는 관리형과 직접 관리하는 VPS 중 무엇을 고르느냐가 주된 선택입니다."
+          "Paperclip은 역할, 목표, 예산, 승인 규칙을 갖춘 AI 에이전트 팀을 관리하며, 모델에는 자신의 계정으로 연결합니다. Hostinger에서는 서버를 Hostinger가 맡는 관리형과 직접 관리하는 VPS 중 무엇을 고르느냐가 주된 선택입니다. 신규 구매라면 코드 SONAR20으로 20% 할인되고, 갱신과 도메인은 제외입니다."
         ]
       },
       {
@@ -117557,7 +117557,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Paperclip 管理 AI 智能体团队的角色、目标、预算和审批。您用自己的账户并通过 API 或兼容订阅为智能体连接模型。在 Hostinger，主要选择是让 Hostinger 管理服务器的托管版，还是由自己管理的 VPS。"
+          "Paperclip 管理 AI 智能体团队的角色、目标、预算和审批，并用您自己的账户连接模型。在 Hostinger，主要选择是让 Hostinger 管理服务器的托管版，还是由自己管理的 VPS。新购时使用代码 SONAR20 可享 20% 折扣，续费和域名除外。"
         ]
       },
       {
@@ -117785,7 +117785,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "Paperclip 管理 AI 代理團隊的角色、目標、預算和核准。您用自己的帳號並透過 API 或相容訂閱為代理連接模型。在 Hostinger，主要選擇是讓 Hostinger 管理伺服器的代管方案，還是由自己管理的 VPS。"
+          "Paperclip 管理 AI 代理團隊的角色、目標、預算和核准，並用您自己的帳號連接模型。在 Hostinger，主要選擇是讓 Hostinger 管理伺服器的代管方案，還是由自己管理的 VPS。新購時使用代碼 SONAR20 可享 20% 折扣，續約和網域除外。"
         ]
       },
       {
@@ -118012,7 +118012,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Paperclip organiza equipes de agentes de IA, com papéis, metas, orçamento e aprovações. Você conecta os agentes aos modelos pelas suas próprias contas, por API ou assinatura compatível. Na Hostinger, a escolha principal é quem administra o servidor: a empresa, no gerenciado, ou você, no VPS."
+          "O Paperclip organiza equipes de agentes de IA, com papéis, metas, orçamento e aprovações, ligadas aos modelos pelas suas próprias contas. Na Hostinger, a escolha principal é quem administra o servidor: a empresa, no gerenciado, ou você, no VPS. O código SONAR20 dá 20% na compra nova, fora renovação e domínio."
         ]
       },
       {
@@ -118284,7 +118284,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Paperclip organiza equipos de agentes de IA con roles, metas, presupuesto y aprobaciones. Conectas los agentes a los modelos con tus propias cuentas, por API o suscripción compatible. En Hostinger, la decisión principal es quién administra el servidor: Hostinger en el gestionado o tú en un VPS."
+          "Paperclip organiza equipos de agentes de IA con roles, metas, presupuesto y aprobaciones, conectados a los modelos con tus propias cuentas. En Hostinger, la decisión principal es quién administra el servidor: Hostinger en el gestionado o tú en un VPS. El código SONAR20 da un 20% en compra nueva, sin renovaciones ni dominios."
         ]
       },
       {
