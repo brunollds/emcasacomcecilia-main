@@ -41646,7 +41646,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, pesam o plugue de 20A e o pingamento após o preparo. Ela usa cápsulas ORIGINAL; cafés pretos NEO selecionados pedem o Adaptador NEO Start, só com água quente."
+          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, pesam o plugue de 20A e o pingamento; ela usa cápsulas ORIGINAL, e cafés NEO selecionados pedem adaptador. Na loja oficial, o CECI dá 10% OFF acima do pedido mínimo."
         ]
       },
       {
@@ -42278,7 +42278,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Genio S Plus costuma ser a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem o painel touch, e compensa quando a diferença de preço para a Touch for relevante. A Basic serve a quem quer o essencial, quando estiver mais barata que a Plus. A Touch é para quem prefere comandos por toque."
+          "A Genio S Plus costuma ser a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem o painel touch, e compensa quando a diferença de preço para a Touch for relevante. A Basic serve a quem quer o essencial, se estiver mais barata que a Plus. Na loja oficial, o CECI dá 10% OFF acima do pedido mínimo."
         ]
       },
       {
