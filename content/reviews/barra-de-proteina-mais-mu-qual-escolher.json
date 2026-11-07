@@ -246,7 +246,7 @@
       "heading": "Preço por unidade e por grama de proteína",
       "paragraphs": [
         "O preço da unidade é o da página no preço normal, sem Pix e sem cupom. Para o R$ por grama de proteína, dividimos esse preço pela proteína declarada por unidade. É uma régua de custo entre estes produtos, não uma classificação de qualidade.",
-        "O cupom de 10% e o Pix de 3% podem somar, mas essas contas não entram nos valores desta seção. As regras do código e da compra estão na seção seguinte."
+        "O cupom de 10% soma com o Pix de 3%, mas essas contas não entram nos valores desta seção. As regras do código e da compra estão em Cupom e compra, mais abaixo."
       ]
     },
     {
@@ -277,9 +277,9 @@
         "Nenhuma das barras e dos wafers ganha em tudo. Por unidade, os números apontam para caminhos diferentes:"
       ],
       "bullets": [
-        "**Mais proteína por unidade e menor custo por grama no recorte:** Mukebar 720 g, com 15 g numa barra de 60 g e R$ 0,86 por grama de proteína na conta de referência. A tabela nutricional é do sabor Chocolate com Avelã.",
-        "**Menor gasto por unidade no recorte:** Chocowheyfer Sem Cobertura, a R$ 5,99. É um wafer de 25 g com 6 g de proteína, não uma barra do mesmo tamanho da Mukebar.",
-        "**Menos açúcar total e calorias por unidade entre as tabelas lidas:** Veggie Wafer, de 25 g. Apesar do nome vegetal, contém glúten e pode conter leite.",
+        "**Mais proteína por unidade e menor custo por grama entre estes produtos:** Mukebar 720 g, com 15 g numa barra de 60 g e R$ 0,86 por grama de proteína na conta de referência. A tabela nutricional é do sabor Chocolate com Avelã.",
+        "**Menor gasto por unidade entre estes produtos:** Chocowheyfer Sem Cobertura, a R$ 5,99. É um wafer de 25 g com 6 g de proteína, não uma barra do mesmo tamanho da Mukebar.",
+        "**Menos açúcar total e calorias por unidade entre os produtos comparados:** Veggie Wafer, de 25 g. Apesar do nome vegetal, contém glúten e pode conter leite.",
         "**Unidade intermediária:** Crush Bar, com 35 g e 10 g de proteína; consulte as duas linhas de sabores para calorias e açúcar.",
         "**Wafer maior, com mais proteína por unidade:** Chocowheyfer Max, com 50 g e 12 g de proteína. Os quatro sabores variam em calorias e açúcar, como mostra a tabela."
       ],
@@ -295,7 +295,7 @@
         "Chocowheyfer tem açúcar? Nos sabores com tabela nesta comparação, há açúcar total e 0 g de açúcar adicionado declarado. Veja a quantidade por sabor na tabela de calorias; “zero adicionado” não significa ausência de açúcar total.",
         "Mukebar tem glúten? No sabor Chocolate com Avelã, sim: a página declara CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos demais sabores, confira o aviso de alérgenos na página e na embalagem antes de comprar.",
         "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem a Chocowheyfer Max, com 12 g em 50 g.",
-        "Tem barra vegana? Não encontramos barra vegana à venda no catálogo consultado. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostrava selo vegano. Confira o aviso de alérgenos antes de comprar."
+        "Tem barra vegana? A listagem da loja não traz barra vegana. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostra selo vegano. Confira o aviso de alérgenos antes de comprar."
       ]
     }
   ],
@@ -328,8 +328,8 @@
     ],
     "skipIf": [
       "Quando o sabor decide sozinho: esta comparação não avalia gosto.",
-      "Quando a escolha depende de uma restrição que o rótulo consultado não esclarece.",
-      "Quando é necessária opção vegetal certificada: a página consultada não mostrava selo vegano, e o Veggie Wafer pode conter leite."
+      "Quando a escolha depende de uma restrição que o rótulo não esclarece.",
+      "Quando é necessária opção vegetal certificada: a página não mostra selo vegano, e o Veggie Wafer pode conter leite."
     ]
   }
 }
