@@ -19,6 +19,7 @@
   "metaDescription": "Vestido de fiesta SHEIN: ocasión, tela, talla y plazo para Navidad y graduación, con tres vestidos de la tienda leídos en la página de cada producto.",
   "publishedAt": "30 de octubre de 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -292,9 +293,9 @@
       ]
     },
     {
-      "heading": "Plazo: sume hasta la fecha de la fiesta",
+      "heading": "Plazo: compare con la fecha de la fiesta",
       "paragraphs": [
-        "El pedido pasa por el procesamiento antes del envío. Sume los días de procesamiento a la entrega que muestra la página del pedido. Si la suma pasa de la fecha de la fiesta, ese vestido no es la compra adecuada para esa fecha."
+        "El pedido pasa por el procesamiento antes del envío. Compare la entrega prevista que muestra la página del pedido con la fecha de la fiesta y deje margen. Si la previsión queda cerca de la fiesta o la pasa, ese vestido no es la compra adecuada para esa fecha."
       ],
       "images": [
         {
@@ -343,7 +344,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Sume los días de procesamiento y la entrega prevista de la página, y compare con la fecha de la fiesta.",
+        "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Compare la entrega prevista de la página con la fecha de la fiesta y deje margen.",
         "¿Cómo saber si el vestido es largo o midi? Por el largo que declara la descripción y por la medida en centímetros de la guía de tallas de la prenda.",
         "¿Se puede usar el 4CW5Y para conseguir descuento? No. Es un código de invitación: no da descuento y no es un cupón."
       ]

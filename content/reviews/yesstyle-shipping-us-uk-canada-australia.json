@@ -19,7 +19,7 @@
   "metaDescription": "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Delivery times, free shipping and taxes from the store's Oct 13, 2026 table.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -109,7 +109,7 @@
             "New Zealand",
             "Express, 3 to 5 business days",
             "from US$ 100",
-            "US$ 12/US$ 18 with order-value bands from table (add bands or remove vague cell)"
+            "Depends on the order value; see the cost at checkout"
           ]
         ]
       },
@@ -166,7 +166,7 @@
         "**Awaiting Stock: 7, 7-14, 21 or 30 days:** the store buys the item from the supplier after the order, and it leaves the warehouse within that time, in business days."
       ],
       "postParagraphs": [
-        "An order with one in-stock item and one awaiting-stock item usually ships together, when the last one becomes available. With a 7-14 days item, a US Standard order takes 14 to 25 business days."
+        "An order with one in-stock item and one awaiting-stock item can ship in more than one shipment; if it ships together, it is when the last one becomes available. With a 7-14 days item, a US Standard order takes 14 to 25 business days."
       ]
     },
     {
@@ -200,7 +200,7 @@
         "aspectRatio": 3.5907
       },
       "bullets": [
-        "**Pay the charge** when the package arrives: if you refuse the package because of the charge, you get neither a refund nor a reshipment.",
+        "**Pay the charge** when the package arrives: YesStyle says it is not responsible for a refund or reshipment of a package refused over customs issues.",
         "**Keep the receipt** of the payment, with its date.",
         "**Email the receipt** to YesStyle customer service within 30 days of its date. Without a receipt, or after 30 days, the store does not review the request."
       ],
@@ -262,7 +262,7 @@
         "How do I pay at YesStyle? With a Visa, Mastercard, American Express or JCB card, PayPal, Apple Pay or Google Pay. Your bank may charge an international transaction fee.",
         "How do I return a YesStyle product? Request an RMA number within 14 days of receipt and ship the package within 30 days; opened beauty products and supplements cannot be returned, and a skin reaction gives no refund.",
         "Does YesStyle ship to US territories and Northern Ireland? To US territories, yes: places such as Puerto Rico, Guam and the US Virgin Islands have their own table, with Standard in 9 to 14 business days and free shipping from US$ 80. Northern Ireland is not served at the moment.",
-        "Why does delivery time vary from one order to another? Because the total adds the availability of each item, which can take up to 30 business days, to the shipping time, and the order usually ships together, when the last item becomes available.",
+        "Why does delivery time vary from one order to another? Because the total adds the availability of each item, which can take up to 30 business days, to the shipping time, and the order can ship in more than one shipment; if it ships together, it is when the last item becomes available.",
         "Where can I find YesStyle's coupons and the Reward Code? On the YesStyle page on this site, which lists today's coupons and the CECILIA010 Reward Code. The code goes in the Reward Code field at checkout."
       ]
     }

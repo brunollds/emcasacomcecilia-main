@@ -17,6 +17,7 @@
   },
   "publishedAt": "28 ottobre 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -162,8 +163,8 @@
     {
       "heading": "Punti YS e il coupon dell'app",
       "paragraphs": [
-        "Chi accede dall'app ottiene 50 punti YS, una sola volta. Reinstallare non assegna di nuovo i punti. I punti non sono il codice ricompensa: si applicano nella fase \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
-        "Lo shop dice di lanciare, una volta al mese e a un orario casuale, un coupon di 24 ore valido solo per ordini fatti dall'app; al controllo non ce n'era uno attivo, e il coupon in evidenza nell'app era lo stesso del sito. I coupon attivi dello shop sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle)."
+        "I 50 punti YS valgono solo per il primo download dell'app con accesso all'account: chi ha già usato l'offerta, accede da un altro dispositivo o reinstalla l'app non li riceve di nuovo. I termini dello shop parlano di accredito dopo un giorno, mentre la pagina dell'app indica che è immediato. I punti non sono il codice ricompensa: si applicano nella fase \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
+        "Lo shop dice di lanciare, una volta al mese e a un orario casuale, un coupon di 24 ore valido solo per ordini fatti dall'app; durante il test dell'app non ce n'era uno attivo, e il coupon in evidenza era lo stesso del sito. Poiché va e viene, i coupon attivi dello shop sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle)."
       ]
     },
     {
@@ -185,8 +186,8 @@
       "bullets": [
         "YesStyle ha un'app? Sì, per Android e iPhone, nei link ufficiali di Google Play e dell'App Store. Lo shop dice di scaricarla solo da questi due.",
         "Il CECILIA010 vale nell'app? Sì. Al checkout, tocca \"Enter Code\" e digita il codice nel campo \"Influencer / Rewards Code\". È un codice ricompensa, con fino al 5% in più, e si somma al coupon dello shop, che va nel campo \"Coupon Code\".",
-        "Si guadagnano punti scaricando l'app? Sì, 50 punti YS accedendo dall'app, una sola volta. Reinstallare non li assegna di nuovo, e i punti non sono il codice ricompensa.",
-        "L'app ha un coupon esclusivo? Lo shop dice di pubblicare un coupon di 24 ore, una volta al mese, solo per ordini fatti nell'app. Al controllo non ce n'era uno attivo."
+        "Si guadagnano punti scaricando l'app? Sì, la prima volta: 50 punti YS al primo download dell'app con accesso, una sola volta per account. Reinstallare o usare un altro dispositivo non li assegna di nuovo, e i punti non sono il codice ricompensa.",
+        "L'app ha un coupon esclusivo? Lo shop dice di pubblicare un coupon di 24 ore, una volta al mese, solo per ordini fatti nell'app. Durante il test dell'app non ce n'era uno attivo; i coupon attivi sono nella pagina dello shop."
       ]
     }
   ]

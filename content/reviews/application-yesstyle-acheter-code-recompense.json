@@ -17,6 +17,7 @@
   },
   "publishedAt": "28 octobre 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -162,8 +163,8 @@
     {
       "heading": "Points YS et le coupon de l'appli",
       "paragraphs": [
-        "Se connecter via l'appli rapporte 50 points YS, une seule fois. Réinstaller ne redonne pas les points. Les points ne sont pas le code récompense : ils s'appliquent à l'étape « Payment Information » de la validation de commande, et le CECILIA010 se saisit sur l'écran « Enter Code ». L'un ne remplace pas l'autre.",
-        "La boutique indique qu'elle lance, une fois par mois et à une heure aléatoire, un coupon de 24 heures valable uniquement pour une commande passée dans l'appli ; lors de la vérification, aucun n'était actif, et le coupon mis en avant dans l'appli était le même que sur le site. Les coupons actifs de la boutique figurent dans [coupons YesStyle et code récompense](/fr/coupons/yesstyle)."
+        "Les 50 points YS ne valent que pour le premier téléchargement de l'appli suivi d'une connexion au compte : celui qui a déjà profité de l'offre, se connecte depuis un autre appareil ou réinstalle l'appli ne les reçoit pas de nouveau. Les conditions de la boutique parlent d'un crédit après un jour, et la page de l'appli annonce qu'il est immédiat. Les points ne sont pas le code récompense : ils s'appliquent à l'étape « Payment Information » de la validation de commande, et le CECILIA010 se saisit sur l'écran « Enter Code ». L'un ne remplace pas l'autre.",
+        "La boutique indique qu'elle lance, une fois par mois et à une heure aléatoire, un coupon de 24 heures valable uniquement pour une commande passée dans l'appli ; lors du test de l'appli, aucun n'était actif, et le coupon mis en avant était le même que sur le site. Comme il va et vient, les coupons actifs de la boutique figurent dans [coupons YesStyle et code récompense](/fr/coupons/yesstyle)."
       ]
     },
     {
@@ -185,8 +186,8 @@
       "bullets": [
         "YesStyle a-t-il une appli ? Oui, pour Android et iPhone, sur les liens officiels de Google Play et de l'App Store. La boutique indique de télécharger uniquement depuis ces deux liens.",
         "Le CECILIA010 fonctionne-t-il dans l'appli ? Oui. À la validation de commande, touchez « Enter Code » et saisissez le code dans le champ « Influencer / Rewards Code ». C'est un code de récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de la boutique, qui se saisit dans le champ « Coupon Code ».",
-        "Gagne-t-on des points en téléchargeant l'appli ? Oui, 50 points YS en se connectant via l'appli, une seule fois. Réinstaller ne les redonne pas, et les points ne sont pas le code récompense.",
-        "L'appli a-t-elle un coupon exclusif ? La boutique indique publier un coupon de 24 heures, une fois par mois, réservé aux commandes dans l'appli. Lors de la vérification, aucun n'était actif."
+        "Gagne-t-on des points en téléchargeant l'appli ? Oui, si c'est la première fois : 50 points YS au premier téléchargement de l'appli suivi d'une connexion, une fois par compte. Réinstaller ou changer d'appareil ne les redonne pas, et les points ne sont pas le code récompense.",
+        "L'appli a-t-elle un coupon exclusif ? La boutique indique publier un coupon de 24 heures, une fois par mois, réservé aux commandes dans l'appli. Lors du test de l'appli, aucun n'était actif ; les coupons actifs figurent sur la page de la boutique."
       ]
     }
   ]

@@ -19,6 +19,7 @@
   "metaDescription": "YesStyle ou Olive Young ? Livraison gratuite, délai, taxes et retours par pays, d'après les pages officielles.",
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -73,7 +74,7 @@
       "paragraphs": [
         "Les taxes changent d'un pays à l'autre dans les deux boutiques. Chez Olive Young, elles sont ajoutées au paiement dans certains pays et laissées à la livraison dans d'autres, à la charge du client.",
         "**Olive Young.** La page répartit les pays en groupes. Au Royaume-Uni, en Norvège, en Australie et à Singapour, la taxe apparaît comme perçue à l'achat. Le Royaume-Uni peut percevoir la TVA et des frais sur les commandes de plus de 135 £ ; la Norvège a une TVA de 25 %, l'Australie une GST de 10 %, et Singapour 9 %. Dans l'Union européenne, pour les commandes passées depuis le 31/07/2026, Olive Young calcule et perçoit au paiement la TVA du pays et 3 € de droits d'importation par code HS (catégorie douanière), une fois l'adresse saisie ; sur une commande de moins de 60 $US avec livraison, la TVA s'applique aussi à la livraison. La boutique indique que rien d'autre n'est perçu à la livraison. Au Canada et en Israël, la perception a lieu à la livraison : le Canada peut percevoir la TVA sur les commandes de plus de 20 CA$, et Israël des taxes au-delà de 75 $US, et le transporteur local peut facturer des frais. La boutique n'accepte ni retour ni remboursement pour cause de taxe ou de frais d'importation (FAQ sur les taxes de l'UE).",
-        "**YesStyle.** Depuis le 01/07/2026, l'Union européenne perçoit 3 € par catégorie douanière sur les colis de moins de 150 €, et YesStyle indique que, pour l'instant, elle règle ces frais à la place du client (article sur la livraison). YesStyle rembourse les frais de douane perçus à la livraison sur les commandes de moins de 1 000 $US, en crédit boutique, si vous envoyez le justificatif sous 30 jours."
+        "**YesStyle.** Depuis le 01/07/2026, l'Union européenne perçoit 3 € par catégorie douanière sur les colis de moins de 150 €, et YesStyle indique que, pour l'instant, elle règle ces frais à la place du client (article sur la livraison). YesStyle rembourse en crédit boutique les taxes et frais liés à la douane payés à la livraison, sur les commandes de moins de 1 000 $US (montant avant remise et hors livraison), si le justificatif lui parvient sous 30 jours à compter de la date du paiement. Les taxes sur les ventes (TVA, GST) de certaines destinations, dont l'Union européenne et le Royaume-Uni, et les frais du transporteur, comme le stockage, ne sont pas couverts."
       ]
     },
     {
@@ -124,7 +125,7 @@
     {
       "heading": "Programme de membres et points",
       "paragraphs": [
-        "Chez Olive Young, OY MEMBERS est gratuit et rend de 0,5 % à 2,5 % de l'achat en points ; l'inscription donne tout de suite le niveau BABY. Les autres niveaux sont recalculés le premier lundi de janvier et de juillet, d'après les achats du semestre précédent, et montent aussitôt si les achats du semestre en cours dépassent le seuil. Sur la page des membres, la tranche de chaque niveau est la suivante ; le niveau actuel est valable jusqu'à la fin de l'année."
+        "Chez Olive Young, OY MEMBERS est gratuit et rend de 0,5 % à 2,5 % de l'achat en points ; l'inscription donne tout de suite le niveau BABY. Les autres niveaux sont recalculés le premier lundi de janvier et de juillet, d'après les achats du semestre précédent, et, si les achats du semestre en cours dépassent le seuil, le niveau supérieur s'applique dès le lendemain, vers minuit heure coréenne. Sur la page des membres, la tranche de chaque niveau est la suivante ; selon cette page, le programme court jusqu'à la fin de l'année et peut changer ou prendre fin."
       ],
       "comparisonTable": {
         "headers": [
@@ -168,7 +169,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
         "alt": "Graphique en barres avec les cinq niveaux d'OY MEMBERS, de BABY à GOLD, l'achat du semestre qui mène à chacun et le pourcentage de points rendus",
-        "caption": "Niveaux d'OY MEMBERS : achats du semestre, en $US, et points rendus, de 0,5 % à 2,5 %. Page des membres ; le niveau actuel est valable jusqu'à la fin de l'année.",
+        "caption": "Niveaux d'OY MEMBERS : achats du semestre, en $US, et points rendus, de 0,5 % à 2,5 %. Page des membres ; le programme court jusqu'à la fin de l'année et peut changer.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }

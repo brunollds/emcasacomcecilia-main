@@ -19,6 +19,7 @@
   "metaDescription": "YesStyle oder Olive Young? Kostenloser Versand, Lieferzeit, Steuern und Rückgabe je Land, nach den offiziellen Seiten.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -73,7 +74,7 @@
       "paragraphs": [
         "Die Steuern ändern sich in beiden Shops von Land zu Land. Bei Olive Young werden sie in einigen Ländern im Checkout erhoben und in anderen bei der Lieferung fällig, auf Kosten des Kunden.",
         "**Olive Young.** Die Seite teilt die Länder in Gruppen ein. Im Vereinigten Königreich, in Norwegen, Australien und Singapur erscheint die Steuer als beim Kauf erhoben. Das Vereinigte Königreich kann bei Bestellungen über 135 £ Mehrwertsteuer und Gebühren erheben; Norwegen hat 25 % Mehrwertsteuer, Australien 10 % GST und Singapur 9 %. In der Europäischen Union berechnet und erhebt Olive Young bei Bestellungen seit dem 31.07.2026 im Checkout die Mehrwertsteuer des Landes und 3 € Einfuhrzoll je HS-Code (Zollkategorie), sobald Sie die Adresse eingeben; bei einer Bestellung unter 60 US-$ mit Versand fällt die Mehrwertsteuer auch auf den Versand an. Der Shop sagt, dass bei der Lieferung nichts weiter erhoben wird. In Kanada und Israel fällt die Erhebung bei der Lieferung an: Kanada kann bei Bestellungen über 20 CA$ Mehrwertsteuer erheben, Israel Gebühren über 75 US-$, und der lokale Transporteur kann eine Gebühr verlangen. Der Shop nimmt wegen Steuern oder Einfuhrgebühren weder zurück noch erstattet er (FAQ zu den EU-Gebühren).",
-        "**YesStyle.** Seit dem 01.07.2026 erhebt die Europäische Union 3 € je Zollkategorie bei Paketen unter 150 €, und YesStyle sagt, dass sie diese Gebühr vorerst für den Kunden übernimmt (Versandartikel). YesStyle erstattet bei der Lieferung erhobene Zollgebühren bei Bestellungen unter 1.000 US-$ als Shop-Guthaben, wenn Sie den Beleg innerhalb von 30 Tagen senden."
+        "**YesStyle.** Seit dem 01.07.2026 erhebt die Europäische Union 3 € je Zollkategorie bei Paketen unter 150 €, und YesStyle sagt, dass sie diese Gebühr vorerst für den Kunden übernimmt (Versandartikel). YesStyle erstattet zollbezogene Steuern und Gebühren, die bei der Lieferung gezahlt wurden, bei Bestellungen unter 1.000 US-$ (Betrag vor Rabatt und ohne Versand) als Shop-Guthaben, wenn der Beleg innerhalb von 30 Tagen nach dem Zahlungsdatum bei YesStyle eingeht. Verkaufssteuern (MwSt., GST) bei einigen Zielen, darunter die Europäische Union und das Vereinigte Königreich, sowie Gebühren des Zustellers wie Lagerung sind nicht erfasst."
       ]
     },
     {
@@ -124,7 +125,7 @@
     {
       "heading": "Mitgliedsprogramm und Punkte",
       "paragraphs": [
-        "Bei Olive Young ist OY MEMBERS kostenlos und gibt 0,5 % bis 2,5 % des Einkaufs in Punkten zurück; die Anmeldung bringt sofort die Stufe BABY. Die anderen Stufen werden am ersten Montag im Januar und im Juli neu berechnet, nach dem Einkauf des vorherigen Halbjahres, und steigen sofort, wenn der Einkauf des laufenden Halbjahres die Grenze überschreitet. Auf der Mitgliederseite ist die Spanne jeder Stufe diese; die aktuelle Stufe gilt bis zum Jahresende."
+        "Bei Olive Young ist OY MEMBERS kostenlos und gibt 0,5 % bis 2,5 % des Einkaufs in Punkten zurück; die Anmeldung bringt sofort die Stufe BABY. Die anderen Stufen werden am ersten Montag im Januar und im Juli neu berechnet, nach dem Einkauf des vorherigen Halbjahres, und eine höhere Stufe gilt ab dem nächsten Tag, gegen Mitternacht koreanischer Zeit, wenn der Einkauf des laufenden Halbjahres die Grenze überschreitet. Auf der Mitgliederseite ist die Spanne jeder Stufe diese; laut dieser Seite läuft das Programm bis zum Jahresende und kann sich ändern oder enden."
       ],
       "comparisonTable": {
         "headers": [
@@ -168,7 +169,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
         "alt": "Balkendiagramm mit den fünf Stufen von OY MEMBERS, von BABY bis GOLD, dem Einkauf im Halbjahr, der zu jeder führt, und dem Prozentsatz der zurückgegebenen Punkte",
-        "caption": "Stufen von OY MEMBERS: Einkauf im Halbjahr, in US-$, und Punkte zurück, von 0,5 % bis 2,5 %. Mitgliederseite; die aktuelle Stufe gilt bis zum Jahresende.",
+        "caption": "Stufen von OY MEMBERS: Einkauf im Halbjahr, in US-$, und Punkte zurück, von 0,5 % bis 2,5 %. Mitgliederseite; das Programm läuft bis zum Jahresende und kann sich ändern.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }

@@ -19,6 +19,7 @@
   "metaDescription": "YesStyle o Olive Young? Spedizione gratuita, tempi, imposte e resi per paese, secondo le pagine ufficiali.",
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -73,7 +74,7 @@
       "paragraphs": [
         "Le imposte cambiano da un paese all'altro in entrambi i negozi. Su Olive Young, entrano al checkout in alcuni paesi e restano alla consegna in altri, a carico del cliente.",
         "**Olive Young.** La pagina divide i paesi in gruppi. Nel Regno Unito, in Norvegia, in Australia e a Singapore, l'imposta risulta riscossa all'acquisto. Il Regno Unito può riscuotere IVA e tasse sugli ordini oltre 135 £; la Norvegia ha un'IVA del 25%, l'Australia una GST del 10%, e Singapore del 9%. Nell'Unione Europea, dagli ordini effettuati il 31/07/2026, Olive Young calcola e riscuote al checkout l'IVA del paese e 3 € di dazio d'importazione per codice HS (categoria doganale), dopo che inserisci l'indirizzo; su un ordine sotto 60 USD con spedizione, l'IVA si applica anche alla spedizione. Il negozio dice che alla consegna non viene riscosso nient'altro. In Canada e in Israele, il prelievo avviene alla consegna: il Canada può riscuotere l'IVA sugli ordini oltre 20 CA$, e Israele tasse oltre 75 USD, e il corriere locale può addebitare una tariffa. Il negozio non accetta resi né rimborsi per imposte o tasse d'importazione (FAQ sulle tasse UE).",
-        "**YesStyle.** Dal 01/07/2026, l'Unione Europea riscuote 3 € per categoria doganale sui pacchi sotto i 150 €, e YesStyle dice che, per ora, paga lei questa tassa al posto del cliente (articolo sulla spedizione). YesStyle rimborsa le spese doganali addebitate alla consegna sugli ordini sotto 1.000 USD, in credito del negozio, se invii la ricevuta entro 30 giorni."
+        "**YesStyle.** Dal 01/07/2026, l'Unione Europea riscuote 3 € per categoria doganale sui pacchi sotto i 150 €, e YesStyle dice che, per ora, paga lei questa tassa al posto del cliente (articolo sulla spedizione). YesStyle rimborsa in credito del negozio le imposte e le spese doganali pagate alla consegna, sugli ordini sotto 1.000 USD (importo prima dello sconto e senza spedizione), se la ricevuta le arriva entro 30 giorni dalla data del pagamento. Le imposte sulle vendite (IVA, GST) di alcune destinazioni, tra cui l'Unione Europea e il Regno Unito, e le tariffe del corriere, come il deposito, non sono coperte."
       ]
     },
     {
@@ -124,7 +125,7 @@
     {
       "heading": "Programma soci e punti",
       "paragraphs": [
-        "Su Olive Young, OY MEMBERS è gratuito e restituisce dallo 0,5% al 2,5% dell'acquisto in punti; l'iscrizione dà subito il livello BABY. Gli altri livelli vengono ricalcolati il primo lunedì di gennaio e di luglio, in base agli acquisti del semestre precedente, e salgono subito se gli acquisti del semestre in corso superano la soglia. Nella pagina dei soci, la fascia di ciascun livello è questa; il livello attuale vale fino a fine anno."
+        "Su Olive Young, OY MEMBERS è gratuito e restituisce dallo 0,5% al 2,5% dell'acquisto in punti; l'iscrizione dà subito il livello BABY. Gli altri livelli vengono ricalcolati il primo lunedì di gennaio e di luglio, in base agli acquisti del semestre precedente, e, se gli acquisti del semestre in corso superano la soglia, il livello superiore scatta il giorno dopo, intorno alla mezzanotte coreana. Nella pagina dei soci, la fascia di ciascun livello è questa; secondo la pagina, il programma vale fino a fine anno e può cambiare o terminare."
       ],
       "comparisonTable": {
         "headers": [
@@ -168,7 +169,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
         "alt": "Grafico a barre con i cinque livelli di OY MEMBERS, da BABY a GOLD, l'acquisto nel semestre che porta a ciascuno e la percentuale di punti restituiti",
-        "caption": "Livelli di OY MEMBERS: acquisti nel semestre, in USD, e punti restituiti, dallo 0,5% al 2,5%. Pagina dei soci; il livello attuale vale fino a fine anno.",
+        "caption": "Livelli di OY MEMBERS: acquisti nel semestre, in USD, e punti restituiti, dallo 0,5% al 2,5%. Pagina dei soci; il programma vale fino a fine anno e può cambiare.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }

@@ -19,6 +19,7 @@
   "metaDescription": "Taglia su SHEIN: la lettera cambia da marchio a marchio. Il 4CW5Y è un codice invito da cercare nell'app. Misura in cm e leggi la guida di ogni capo.",
   "publishedAt": "4 novembre 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -202,7 +203,7 @@
       },
       "postParagraphs": [
         "L'ampiezza è la differenza tra il capo e il tuo corpo, e rivela la vestibilità prima ancora di indossarlo. Con lo stesso calcolo, nella guida DAZY la M è indicata per un busto da 82 a 86 cm. Restano da 7 a 11 cm di ampiezza su una maglietta a vestibilità regolare e poca elasticità. Quando c'è solo la misura del capo, l'elasticità fa le veci dell'ampiezza: sulla Essnce, con elasticità alta, la modella della scheda porta la S, che misura 78 cm, 9 cm meno del suo busto.",
-        "La guida avverte che la misura del capo può variare di 1-2 cm, e la descrizione delle due magliette avverte che il tessuto cambia misura dopo il lavaggio in casa. Se la tua misura cade al limite di una taglia, decidono questi 2 cm. Quindi: un tessuto senza elasticità o con poca elasticità chiede ampiezza, e al limite la taglia sopra; un tessuto con elasticità media o alta chiede la taglia la cui misura è uguale o inferiore alla tua, perché troppa ampiezza su un capo elastico lo fa diventare largo."
+        "La guida avverte che la misura del capo può variare di 1-2 cm, e la descrizione delle due magliette avverte che il tessuto cambia misura dopo il lavaggio in casa. Se la tua misura cade al limite di una taglia, decidono questi 2 cm. Quindi: un tessuto senza elasticità o con poca elasticità chiede ampiezza, e al limite la taglia sopra; un tessuto con elasticità media o alta accetta meno ampiezza, ma la scelta segue sempre la misura del capo, la vestibilità e l'ampiezza che vuoi, e la tabella del corpo, se c'è, entra nel calcolo. La modella della scheda Essnce è un esempio, non una regola."
       ]
     },
     {
@@ -229,7 +230,7 @@
         "Misura busto, vita e fianchi e annotali in centimetri.",
         "Apri la guida alle taglie del capo e tienila in CM.",
         "Controlla se la tabella è del capo o del corpo. Confrontala con la tua misura e conta l'ampiezza.",
-        "Leggi il tipo di vestibilità e l'elasticità: un tessuto che non si allunga chiede ampiezza; uno che si allunga, la taglia della tua misura.",
+        "Leggi il tipo di vestibilità e l'elasticità: un tessuto che non si allunga chiede ampiezza; uno che si allunga accetta meno ampiezza, senza sostituire la misura del capo.",
         "Guarda la valutazione di vestibilità degli acquirenti e cerca nella loro tabella qualcuno con le tue misure.",
         "Considera una variazione di 1-2 cm sul capo e il cambiamento dopo il lavaggio.",
         "Conserva la conferma d'ordine e il tracciamento: con quelli si fa il reso, se il capo non va bene."
@@ -242,7 +243,7 @@
       "heading": "Quale taglia ordinare: il riassunto per situazione",
       "bullets": [
         "Tessuto senza elastan, senza elasticità o con poca (la maglietta DAZY): la taglia la cui misura del capo dà l'ampiezza che preferisci; se la tua misura cade al limite, quella sopra.",
-        "Tessuto con elastan, elasticità media o alta, e solo la misura del capo nella guida (la Essnce): la taglia la cui misura è uguale o inferiore alla tua, come fa la modella della scheda.",
+        "Tessuto con elastan, elasticità media o alta, e solo la misura del capo nella guida (la Essnce): una taglia con meno ampiezza può andare bene, come per la modella della scheda, che è solo un esempio; controlla la misura del capo, la vestibilità e l'ampiezza che vuoi.",
         "Marchio che la scheda segnala come più piccolo (DAZY): leggi la tabella del corpo del marchio stesso, non la tua lettera abituale.",
         "Tra due taglie e senza certezza: quella che, nella tabella degli acquirenti, ha ordinato chi ha le tue misure; senza nessuno di simile, decide l'ampiezza, con la regola del tessuto."
       ],

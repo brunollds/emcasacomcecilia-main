@@ -17,6 +17,7 @@
   },
   "publishedAt": "2026年10月28日",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -162,8 +163,8 @@
     {
       "heading": "YS 积分和 App 优惠券",
       "paragraphs": [
-        "通过 App 登录可获得 50 个 YS 积分，仅限一次。重新安装不会再次发放。积分不是奖励码：积分在结账的“Payment Information”步骤使用，而 CECILIA010 填在“Enter Code”界面。两者不能互相替代。",
-        "商店表示，每月会在随机时间发放一次仅限 App 下单使用的 24 小时优惠券；核查时没有可用的，App 里主推的优惠券与网站相同。商店当前可用的优惠券见[YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。"
+        "50 个 YS 积分仅限首次下载 App 并登录账户时获得：已经参与过该活动、在其他设备登录或重新安装 App，都不会再次发放。商店条款写的是一天后到账，App 页面则说立即到账。积分不是奖励码：积分在结账的“Payment Information”步骤使用，而 CECILIA010 填在“Enter Code”界面。两者不能互相替代。",
+        "商店表示，每月会在随机时间发放一次仅限 App 下单使用的 24 小时优惠券；测试 App 时没有可用的，主推的优惠券与网站相同。优惠券时有变化，商店可用的优惠券见[YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。"
       ]
     },
     {
@@ -185,8 +186,8 @@
       "bullets": [
         "YesStyle 有 App 吗？有，适用于 Android 和 iPhone，通过 Google Play 和 App Store 的官方链接下载。商店表示只应从这两处下载。",
         "CECILIA010 在 App 里能用吗？能。在结账页点击“Enter Code”，把代码填入“Influencer / Rewards Code”输入框。它是奖励码，最高额外优惠 5%，可与填在“Coupon Code”输入框的商店优惠券叠加。",
-        "下载 App 能获得积分吗？能，通过 App 登录可获得 50 个 YS 积分，仅限一次。重新安装不会再次发放，积分也不是奖励码。",
-        "App 有专属优惠券吗？商店表示每月发布一次 24 小时优惠券，仅限 App 下单使用。核查时没有可用的。"
+        "下载 App 能获得积分吗？能，首次下载 App 并登录可获得 50 个 YS 积分，每个账户仅限一次。重新安装或换设备登录不会再次发放，积分也不是奖励码。",
+        "App 有专属优惠券吗？商店表示每月发布一次 24 小时优惠券，仅限 App 下单使用。测试 App 时没有可用的。可用的优惠券请看商店页面。"
       ]
     }
   ]

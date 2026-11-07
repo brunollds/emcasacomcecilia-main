@@ -15,10 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat. Temu est celle qui laisse le plus de temps.",
+  "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat. Temu publie le délai le plus long.",
   "metaDescription": "SHEIN ou Temu : livraison, délai et retours publiés en France, douane de 3 € de l'UE et points à vérifier avant d'acheter.",
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -32,7 +33,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Il n'existe pas de boutique meilleure pour tout le monde : le choix dépend de ce que vous achetez et de l'importance du retour, et Temu est celle qui laisse le plus de temps, 90 jours après l'achat. Nous ne mesurons pas les prix et ne testons pas les livraisons. Le chapitre « Que choisir, selon votre achat » plus bas montre quoi vérifier dans chaque cas."
+        "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend de ce que vous achetez et de l'importance du retour. Temu publie le délai le plus long, 90 jours après l'achat, alors que SHEIN compte à partir de la réception. Nous ne mesurons pas les prix et ne testons pas les livraisons. Le chapitre « Que choisir, selon votre achat » montre quoi vérifier dans chaque cas."
       ]
     },
     {
@@ -76,7 +77,7 @@
     {
       "heading": "Taxes et douane",
       "paragraphs": [
-        "Depuis le 1er juillet 2026, l'UE applique 3 € de droits de douane par catégorie de produit aux commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie depuis l'extérieur de l'UE : la douane ne départage donc pas SHEIN et Temu.",
+        "Depuis le 1er juillet 2026, l'UE applique 3 € de droits de douane par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie depuis l'extérieur de l'UE : la douane ne départage donc pas SHEIN et Temu.",
         "Avant de payer, vérifiez sur la page de paiement de chaque boutique si le total inclut les taxes, et comparez ce montant final, pas seulement le prix de l'article."
       ]
     },
@@ -86,7 +87,7 @@
         "Les délais de retour publiés ne se comptent pas de la même façon : Temu les compte à partir de l'achat, SHEIN à partir de la réception."
       ],
       "bullets": [
-        "**Temu :** 90 jours après l'achat selon la politique de Temu, et 14 jours de rétractation prévus par la loi, à compter de la réception. Le premier retour de chaque commande est gratuit ; à partir du deuxième, les frais de retour sont à votre charge.",
+        "**Temu :** 90 jours après l'achat selon la politique de Temu, et 14 jours de rétractation prévus par la loi, à compter de la réception. Les 90 jours valent pour la plupart des articles ; certains ont leurs propres conditions, vérifiez donc la politique de Temu pour votre article. Le premier retour de chaque commande est gratuit ; à partir du deuxième, les frais de retour sont à votre charge.",
         "**SHEIN :** la plupart des articles jusqu'à 30 jours après réception selon la politique de SHEIN, et 14 jours de rétractation prévus par la loi, à compter de la réception. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours."
       ]
     },
@@ -107,7 +108,7 @@
     },
     {
       "heading": "Que choisir, selon votre achat",
-      "emphasis": "Selon les chiffres du tableau, pour qui achète des vêtements sans les essayer, le bon choix est Temu, parce qu'elle laisse 90 jours pour retourner.",
+      "emphasis": "Pour des vêtements que vous ne pouvez pas essayer, comparez le point de départ de chaque délai : Temu compte ses 90 jours depuis l'achat, SHEIN depuis la réception, et dans chaque boutique certains articles ont leurs propres conditions. Vérifiez celles de votre article avant de choisir.",
       "bullets": [
         "**Vous voulez avoir de la marge pour retourner :** Temu, avec 90 jours après l'achat, ou SHEIN, avec la plupart des articles jusqu'à 30 jours après réception.",
         "**Il vous faut l'article pour une date précise :** vérifiez le délai de livraison sur la page du produit ou dans votre commande.",
@@ -143,9 +144,9 @@
         "SHEIN ou Temu : lequel choisir ? Cela dépend de ce que vous achetez et de l'importance du retour : Temu laisse 90 jours après l'achat, et SHEIN reprend la plupart des articles jusqu'à 30 jours après réception.",
         "Lequel est le moins cher, SHEIN ou Temu ? Cet article ne mesure pas les prix. Comparez le prix final de chaque article, avec la livraison et les taxes, au moment de payer dans chaque boutique.",
         "Lequel livre le plus vite, SHEIN ou Temu ? Cet article ne teste pas les livraisons. SHEIN publie 4 à 8 jours ouvrés pour la livraison Standard ; Temu indique le délai sur la page du produit (préparation en 1 à 3 jours). Vérifiez la date sur la page du produit et dans votre commande.",
-        "SHEIN ou Temu : quelle différence ? Temu laisse plus de temps pour retourner, 90 jours après l'achat, tandis que SHEIN reprend la plupart des articles jusqu'à 30 jours après réception ; la livraison et les délais figurent dans le tableau ci-dessus.",
-        "SHEIN ou Temu pour des vêtements ? Pour des vêtements, pesez le retour : Temu laisse 90 jours après l'achat et SHEIN, pour la plupart des articles, jusqu'à 30 jours après réception ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
-        "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
+        "SHEIN ou Temu : quelle différence ? Temu publie le délai le plus long, 90 jours après l'achat, tandis que SHEIN reprend la plupart des articles jusqu'à 30 jours après réception, donc les deux ne comptent pas à partir du même moment ; la livraison et les délais figurent dans le tableau ci-dessus.",
+        "SHEIN ou Temu pour des vêtements ? Pour des vêtements, pesez le retour et les conditions de votre article : Temu laisse 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception, pour la plupart des articles dans les deux cas ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
+        "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
         "SHEIN et Temu sont-ils la même entreprise ? Non. Ce sont deux boutiques différentes, chacune avec ses propres règles d'expédition, de livraison et de retour.",
         "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília chez SHEIN, que l'on recherche dans la barre de recherche de la boutique."
       ]
@@ -173,7 +174,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Prenez Temu si vous achetez des vêtements sans les essayer et voulez le plus de temps pour les retourner : 90 jours, comptés à partir de l'achat."
+      "Prenez Temu si vous achetez des vêtements sans les essayer et voulez le plus long délai publié pour les retourner : 90 jours, comptés à partir de l'achat, si votre article entre dans sa politique."
     ],
     "skipIf": [
       "Passez votre tour chez SHEIN si vous voulez retourner avec plus de marge que les 30 jours après réception qu'elle accorde pour la plupart des articles."

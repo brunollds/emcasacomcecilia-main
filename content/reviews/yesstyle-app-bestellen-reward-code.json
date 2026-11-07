@@ -17,6 +17,7 @@
   },
   "publishedAt": "28. Oktober 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -162,8 +163,8 @@
     {
       "heading": "YS-Punkte und der Gutschein der App",
       "paragraphs": [
-        "Wer sich über die App anmeldet, erhält einmalig 50 YS-Punkte. Eine Neuinstallation bringt die Punkte nicht erneut. Die Punkte sind nicht der Reward Code: Sie werden im Schritt „Payment Information“ des Checkouts eingelöst, der CECILIA010 gehört auf den Bildschirm „Enter Code“. Das eine ersetzt das andere nicht.",
-        "Der Shop gibt an, einmal im Monat zu einer zufälligen Uhrzeit einen 24-Stunden-Gutschein zu veröffentlichen, der nur für Bestellungen über die App gilt; bei der Prüfung war keiner aktiv, und der in der App hervorgehobene Gutschein war derselbe wie auf der Website. Die aktiven Gutscheine des Shops stehen unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle)."
+        "Die 50 YS-Punkte gibt es nur beim ersten Download der App mit Anmeldung im Konto: Wer das Angebot schon genutzt hat, sich auf einem anderen Gerät anmeldet oder die App neu installiert, erhält sie nicht erneut. Laut den Bedingungen des Shops erscheinen die Punkte nach einem Tag, die App-Seite spricht von sofort. Die Punkte sind nicht der Reward Code: Sie werden im Schritt „Payment Information“ des Checkouts eingelöst, der CECILIA010 gehört auf den Bildschirm „Enter Code“. Das eine ersetzt das andere nicht.",
+        "Der Shop gibt an, einmal im Monat zu einer zufälligen Uhrzeit einen 24-Stunden-Gutschein zu veröffentlichen, der nur für Bestellungen über die App gilt; beim Test der App war keiner aktiv, und der hervorgehobene Gutschein war derselbe wie auf der Website. Da er kommt und geht, stehen die aktiven Gutscheine des Shops unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle)."
       ]
     },
     {
@@ -185,8 +186,8 @@
       "bullets": [
         "Hat YesStyle eine App? Ja, für Android und iPhone, über die offiziellen Links von Google Play und App Store. Der Shop gibt an, dass man nur über diese beiden Links herunterladen soll.",
         "Gilt der CECILIA010 in der App? Ja. Tippen Sie im Checkout auf „Enter Code“ und geben Sie den Code in das Feld „Influencer / Rewards Code“ ein. Er ist ein Reward Code mit bis zu 5 % extra und lässt sich mit dem Gutschein des Shops kombinieren, der in das Feld „Coupon Code“ gehört.",
-        "Bekommt man Punkte für den Download der App? Ja, 50 YS-Punkte bei der Anmeldung über die App, einmalig. Eine Neuinstallation bringt sie nicht erneut, und die Punkte sind nicht der Reward Code.",
-        "Hat die App einen exklusiven Gutschein? Der Shop gibt an, einmal im Monat einen 24-Stunden-Gutschein nur für Bestellungen in der App zu veröffentlichen. Bei der Prüfung war keiner aktiv."
+        "Bekommt man Punkte für den Download der App? Ja, beim ersten Mal: 50 YS-Punkte beim ersten Download der App mit Anmeldung, einmalig pro Konto. Eine Neuinstallation oder ein anderes Gerät bringt sie nicht erneut, und die Punkte sind nicht der Reward Code.",
+        "Hat die App einen exklusiven Gutschein? Der Shop gibt an, einmal im Monat einen 24-Stunden-Gutschein nur für Bestellungen in der App zu veröffentlichen. Beim Test der App war keiner aktiv; die aktiven Gutscheine stehen auf der Seite des Shops."
       ]
     }
   ]

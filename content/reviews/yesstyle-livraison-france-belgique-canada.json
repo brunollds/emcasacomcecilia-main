@@ -19,7 +19,7 @@
   "metaDescription": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, livraison gratuite et taxes d'après la grille de la boutique du 13 octobre 2026.",
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -52,7 +52,7 @@
         ],
         "rows": [
           [
-            "France (la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna)",
+            "France (la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, les Terres australes françaises, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna)",
             "Standard, 10 à 15 jours ouvrés",
             "dès US$ 45",
             "US$ 5"
@@ -124,7 +124,7 @@
         "**Réapprovisionnement : 7 jours, 7 à 14 jours, 21 jours ou 30 jours :** la boutique achète l'article au fournisseur après la commande, et il quitte l'entrepôt dans ce délai, en jours ouvrés."
       ],
       "postParagraphs": [
-        "Une commande avec un article en stock et un autre en réapprovisionnement part en général en un seul envoi, quand le dernier devient disponible. Avec un article « Réapprovisionnement : 7 à 14 jours », la commande pour la France prend de 17 à 29 jours ouvrés."
+        "Une commande avec un article en stock et un autre en réapprovisionnement peut partir en plusieurs envois, et en un seul envoi seulement quand le dernier devient disponible. Avec un article « Réapprovisionnement : 7 à 14 jours », la commande pour la France prend de 17 à 29 jours ouvrés."
       ]
     },
     {
@@ -155,7 +155,7 @@
         "aspectRatio": 3.5907
       },
       "bullets": [
-        "**Réglez la somme demandée** à l'arrivée du colis : si vous refusez le colis à cause des frais, vous n'obtenez ni remboursement ni réexpédition.",
+        "**Réglez la somme demandée** à l'arrivée du colis : YesStyle indique ne pas être responsable du remboursement ni de la réexpédition d'un colis refusé pour des questions douanières.",
         "**Gardez le justificatif** du paiement, avec sa date.",
         "**Envoyez le justificatif par e-mail** au service client de YesStyle dans les 30 jours suivant sa date. Sans justificatif, ou après 30 jours, la boutique n'examine pas la demande."
       ],
@@ -216,8 +216,8 @@
         "YesStyle rembourse-t-il les frais de douane ? Oui, en crédit en boutique, sur les commandes de moins de US$ 1 000, si vous envoyez le justificatif au service client dans les 30 jours. La TVA déjà perçue au paiement n'est pas remboursée.",
         "Comment payer sur YesStyle ? Par carte (Visa, Mastercard, American Express ou JCB), PayPal, Apple Pay ou Google Pay. Votre banque peut appliquer des frais de transaction internationale.",
         "Comment retourner un produit YesStyle ? Demandez un numéro de RMA dans les 14 jours suivant la réception et expédiez le colis dans les 30 jours ; les produits de beauté ouverts et les compléments alimentaires ne sont pas repris, et une réaction cutanée ne donne pas droit à un remboursement.",
-        "YesStyle livre-t-il dans toute la France ? Non : la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna.",
-        "Pourquoi le délai change-t-il d'une commande à l'autre ? Parce qu'il additionne la disponibilité des articles, qui peut aller jusqu'à 30 jours ouvrés, au délai d'expédition, et la commande part en général en un seul envoi, quand le dernier article devient disponible.",
+        "YesStyle livre-t-il dans toute la France ? Non : la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, les Terres australes françaises, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna.",
+        "Pourquoi le délai change-t-il d'une commande à l'autre ? Parce qu'il additionne la disponibilité des articles, qui peut aller jusqu'à 30 jours ouvrés, au délai d'expédition, et la commande peut partir en plusieurs envois, et en un seul envoi seulement quand le dernier article devient disponible.",
         "Où trouver les coupons et le code récompense de YesStyle ? Sur la page YesStyle de ce site, avec les coupons du moment et le code récompense CECILIA010, qui se saisit dans le champ « Reward Code »."
       ]
     }

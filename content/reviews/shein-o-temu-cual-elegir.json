@@ -15,10 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres. Temu da más plazo para devolver.",
+  "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres. Temu publica el plazo más largo.",
   "metaDescription": "SHEIN o Temu: envío, plazo de entrega y devoluciones que cada tienda publica en España y México, y qué revisar antes de comprar.",
   "publishedAt": "13 de octubre de 2026",
   "publishedAtISO": "2026-10-13",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -32,7 +33,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "No existe una tienda mejor para todo el mundo: la elección depende de lo que vayas a comprar y de cuánto te importe poder devolverlo, y Temu es la que da más plazo, 90 días desde la compra. No medimos precios ni probamos entregas. El capítulo «Cuál elegir, según lo que vayas a comprar» más abajo muestra qué revisar en cada caso."
+        "Ninguna tienda es la mejor para todos: depende de lo que compres y de cuánto te importe poder devolverlo. Temu publica el plazo más largo, 90 días desde la compra; SHEIN cuenta desde la recepción. No medimos precios ni probamos entregas. El capítulo «Cuál elegir, según lo que vayas a comprar» más abajo muestra qué revisar en cada caso."
       ]
     },
     {
@@ -107,7 +108,7 @@
     {
       "heading": "Impuestos y aduana",
       "paragraphs": [
-        "En España, desde el 1 de julio de 2026, la UE aplica 3 € de derechos de aduana por categoría de producto a los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe desde fuera de la UE, así que la aduana no decide entre SHEIN y Temu.",
+        "En España, desde el 1 de julio de 2026, la UE aplica 3 € de derechos de aduana por categoría de producto a los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe desde fuera de la UE, así que la aduana no decide entre SHEIN y Temu.",
         "Antes de pagar, revisa en el checkout de cada tienda si el total ya incluye los impuestos, y compara esa cifra final, no solo el precio del artículo."
       ]
     },
@@ -117,7 +118,7 @@
         "Los plazos de devolución que publican las tiendas se cuentan de forma distinta: Temu los cuenta desde la compra y SHEIN, desde la recepción."
       ],
       "bullets": [
-        "**Temu:** 90 días desde la compra. En España, además, 14 días de desistimiento por ley, desde la recepción. La primera devolución de cada pedido es gratis; desde la segunda, en España pagas el envío de vuelta y en México se descuentan MX$99 del reembolso.",
+        "**Temu:** 90 días desde la compra. En España, además, 14 días de desistimiento por ley, desde la recepción. Los 90 días valen para la mayoría de los artículos; algunos tienen condiciones propias, así que revisa la política de Temu para tu artículo. La primera devolución de cada pedido es gratis; desde la segunda, en España pagas el envío de vuelta y en México se descuentan MX$99 del reembolso.",
         "**SHEIN:** en España, 14 días de desistimiento por ley, desde la recepción, y la mayoría de los artículos hasta 30 días después de recibirlos según la política de SHEIN; la lencería, la ropa interior y la bisutería, solo dentro de los 14 días. En México, hasta 30 días después de recibir el pedido."
       ]
     },
@@ -138,7 +139,7 @@
     },
     {
       "heading": "Cuál elegir, según lo que vayas a comprar",
-      "emphasis": "Por los números de la tabla, para quien compra ropa sin probársela la opción es Temu, porque da 90 días para devolver.",
+      "emphasis": "Para la ropa que no puedes probarte, compara desde cuándo cuenta cada plazo: Temu cuenta sus 90 días desde la compra, SHEIN desde la recepción, y en cada tienda algunos artículos tienen condiciones propias. Revisa las de tu artículo antes de elegir.",
       "bullets": [
         "**Quieres poder devolver con margen:** Temu, con 90 días desde la compra, o SHEIN, con la mayoría de los artículos hasta 30 días después de recibirlos.",
         "**Lo necesitas para una fecha concreta:** revisa el plazo de entrega en la página del producto o en tu pedido.",
@@ -174,9 +175,9 @@
         "¿SHEIN o Temu: cuál elijo? Depende de lo que vayas a comprar y de cuánto te importe poder devolverlo: Temu da 90 días desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos.",
         "¿Cuál es más barato, SHEIN o Temu? Este artículo no mide precios. Compara el precio final de cada artículo, con envío e impuestos, a la hora de pagar en cada tienda.",
         "¿Cuál llega más rápido, SHEIN o Temu? Este artículo no prueba entregas. En España, SHEIN publica de 8 a 11 días laborables para el envío estándar y Temu muestra el plazo en la página del producto. En México, Temu publica de 4 a 28 días hábiles para el envío estándar. Revisa la fecha en la página del producto y en tu pedido.",
-        "¿SHEIN o Temu: cuál es la diferencia? Temu da más plazo para devolver, 90 días desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos; el envío y los plazos de entrega están en las tablas de arriba.",
-        "¿SHEIN o Temu para ropa? Para la ropa, pesa la devolución: Temu da 90 días desde la compra y SHEIN, la mayoría de los artículos hasta 30 días después de recibirlos; la lencería, la ropa interior y la bisutería de SHEIN, solo dentro de los 14 días en España.",
-        "¿SHEIN y Temu pagan aduana? En España, la UE aplica 3 € por categoría de producto a los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe así, por lo que la aduana no decide entre SHEIN y Temu.",
+        "¿SHEIN o Temu: cuál es la diferencia? Temu publica el plazo más largo, 90 días contados desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos, así que cada una cuenta desde un punto distinto; el envío y los plazos de entrega están en las tablas de arriba.",
+        "¿SHEIN o Temu para ropa? Para la ropa, pesan la devolución y las condiciones de tu artículo: Temu da 90 días desde la compra y SHEIN hasta 30 días después de recibirlos, las dos en la mayoría de los artículos; la lencería, la ropa interior y la bisutería de SHEIN, solo dentro de los 14 días en España.",
+        "¿SHEIN y Temu pagan aduana? En España, la UE aplica 3 € por categoría de producto a los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe así, por lo que la aduana no decide entre SHEIN y Temu.",
         "¿SHEIN y Temu son la misma empresa? No. Son tiendas distintas, cada una con sus propias reglas de envío, entrega y devolución.",
         "¿El código 4CW5Y es un cupón? No. Es el código de referido de Cecília en SHEIN, que se busca en la barra de búsqueda de la tienda."
       ]
@@ -204,7 +205,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Lleva Temu si compras ropa sin probártela y quieres el mayor plazo para devolver: son 90 días, contados desde la compra."
+      "Lleva Temu si compras ropa sin probártela y quieres el mayor plazo publicado para devolver: 90 días contados desde la compra, si tu artículo entra en su política."
     ],
     "skipIf": [
       "Pasa de SHEIN si quieres devolver con más margen que los 30 días después de la recepción que da en la mayoría de los artículos."

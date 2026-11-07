@@ -19,6 +19,7 @@
   "metaDescription": "Abito da festa SHEIN: occasione, tessuto, taglia e tempi per Natale e laurea, con tre abiti del negozio letti nella pagina di ogni prodotto.",
   "publishedAt": "30 ottobre 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -292,9 +293,9 @@
       ]
     },
     {
-      "heading": "Tempi: sommate fino alla data della festa",
+      "heading": "Tempi: confrontate con la data della festa",
       "paragraphs": [
-        "L'ordine passa per l'elaborazione prima della spedizione. Sommate i giorni di elaborazione alla consegna indicata nella pagina dell'ordine. Se la somma supera la data della festa, quell'abito non è l'acquisto giusto per quella data."
+        "L'ordine passa per l'elaborazione prima della spedizione. Confrontate la consegna prevista nella pagina dell'ordine con la data della festa, lasciando un margine. Se la previsione cade vicino alla festa o dopo, quell'abito non è l'acquisto giusto per quella data."
       ],
       "images": [
         {
@@ -343,7 +344,7 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell'ordine. Sommate i giorni di elaborazione e la consegna prevista della pagina, e confrontate con la data della festa.",
+        "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell'ordine. Confrontate la consegna prevista della pagina con la data della festa, lasciando un margine.",
         "Come capire se l'abito è lungo o midi? Dalla lunghezza dichiarata nella descrizione e dalla misura in centimetri nella guida alle taglie del capo.",
         "Si può usare il 4CW5Y per avere uno sconto? No. È un codice di invito: non dà sconto e non è un coupon."
       ]

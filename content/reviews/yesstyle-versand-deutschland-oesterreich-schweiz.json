@@ -19,7 +19,7 @@
   "metaDescription": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Gratisversand und MwSt. laut Versandtabelle vom 13.10.2026 sowie Zollerstattung.",
   "publishedAt": "13. Oktober 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -130,7 +130,7 @@
         "**Mit Wartezeit: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage:** Der Shop kauft den Artikel nach der Bestellung beim Lieferanten ein, und er verlässt das Lager in dieser Zeit, gerechnet in Werktagen."
       ],
       "postParagraphs": [
-        "Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet, wird in der Regel zusammen verschickt, sobald der letzte verfügbar ist. Mit einem Artikel „Mit Wartezeit: 7–14 Tage“ braucht die Bestellung nach Deutschland 17 bis 29 Werktage."
+        "Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet, kann in mehreren Sendungen verschickt werden; kommt alles zusammen, dann erst, sobald der letzte verfügbar ist. Mit einem Artikel „Mit Wartezeit: 7–14 Tage“ braucht die Bestellung nach Deutschland 17 bis 29 Werktage."
       ]
     },
     {
@@ -161,7 +161,7 @@
         "aspectRatio": 3.5907
       },
       "bullets": [
-        "**Zahlen Sie die Abgabe**, wenn das Paket ankommt: Wer die Annahme des Pakets wegen der Gebühr verweigert, bekommt weder eine Erstattung noch einen erneuten Versand.",
+        "**Zahlen Sie die Abgabe**, wenn das Paket ankommt: YesStyle erklärt, für eine Erstattung oder einen erneuten Versand eines wegen Zollfragen verweigerten Pakets nicht verantwortlich zu sein.",
         "**Bewahren Sie den Zahlungsbeleg auf**, mit dem Datum.",
         "**Schicken Sie den Beleg per E-Mail** innerhalb von 30 Tagen ab Belegdatum an den Kundenservice von YesStyle. Ohne Beleg oder nach 30 Tagen prüft der Shop den Antrag nicht."
       ],
@@ -223,7 +223,7 @@
         "Wie kann ich bei YesStyle bezahlen? Mit Visa, Mastercard, American Express oder JCB, mit PayPal, Apple Pay oder Google Pay. Bei einer Zahlung in Dollar kann Ihre Bank eine Gebühr für internationale Transaktionen berechnen.",
         "Wie gebe ich ein Produkt von YesStyle zurück? Fordern Sie die RMA-Nummer innerhalb von 14 Tagen nach Erhalt an und schicken Sie das Paket innerhalb von 30 Tagen ab. Geöffnete Beauty-Produkte und Nahrungsergänzungsmittel werden nicht zurückgenommen, und eine Hautreaktion begründet keinen Anspruch auf Erstattung.",
         "Von wo versendet YesStyle? Jede Bestellung verlässt das Lager von YesStyle in Hongkong.",
-        "Warum ändert sich die Lieferzeit von Bestellung zu Bestellung? Weil sich die Gesamtzeit aus der Verfügbarkeit der Artikel, die bis zu 30 Werktage dauern kann, und der Versanddauer zusammensetzt. Die Bestellung wird in der Regel zusammen verschickt, sobald der letzte Artikel verfügbar ist.",
+        "Warum ändert sich die Lieferzeit von Bestellung zu Bestellung? Weil sich die Gesamtzeit aus der Verfügbarkeit der Artikel, die bis zu 30 Werktage dauern kann, und der Versanddauer zusammensetzt. Die Bestellung kann in mehreren Sendungen verschickt werden; wird alles zusammen verschickt, dann erst, sobald der letzte Artikel verfügbar ist.",
         "Wo finde ich die Gutscheine und den Reward Code von YesStyle? Auf der YesStyle-Seite dieser Website, mit den aktuellen Gutscheinen und dem Reward Code CECILIA010, der in das Feld Reward Code kommt."
       ]
     }

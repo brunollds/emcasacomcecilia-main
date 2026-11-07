@@ -16,11 +16,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A YesStyle entrega em Portugal, com prazo e frete publicados, mas na última leitura não oferecia entrega para o Brasil. Veja a tabela e o capítulo do imposto.",
+  "description": "A YesStyle entrega em Portugal, com prazo e frete publicados, mas no momento não oferece entrega para o Brasil. Veja a tabela e o capítulo do imposto.",
   "metaDescription": "YesStyle com o código de recompensa CECILIA010, até 5% na primeira compra: prazo, frete e imposto para Portugal, com o envio ao Brasil suspenso.",
   "publishedAt": "13 de outubro de 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
@@ -33,7 +33,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, os envios voltaram por um tempo, quando um pedido nosso saiu, e foram suspensos de novo: na última leitura, a loja não oferecia entrega para o país. Veja abaixo a tabela e o capítulo do imposto."
+        "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente: no momento, a loja não oferece entrega para o país. Veja abaixo a tabela e o capítulo do imposto."
       ]
     },
     {
@@ -77,7 +77,7 @@
       "heading": "O que a loja mostra sobre o Brasil",
       "paragraphs": [
         "A tabela de frete e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
-        "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express. Os envios ao Brasil voltaram nesse intervalo e foram suspensos de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
+        "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express. Isso mostra que esse pedido saiu, não que os envios voltaram: em 28/10/2026, a loja não oferecia entrega para o Brasil. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
       ]
     },
     {
@@ -126,7 +126,7 @@
         "**Aguardando estoque: 7, 7-14, 21 ou 30 dias:** a loja compra o item do fornecedor depois do pedido, e ele sai do armazém nesse prazo, em dias úteis."
       ],
       "postParagraphs": [
-        "Pedido com um item em estoque e outro aguardando estoque normalmente sai junto, quando o último fica disponível. Com um item de 7-14 dias, o pedido para Portugal passa a levar de 17 a 29 dias úteis."
+        "Pedido com um item em estoque e outro aguardando estoque pode sair em mais de um envio; se sair tudo junto, só quando o último fica disponível. Com um item de 7-14 dias, o pedido para Portugal passa a levar de 17 a 29 dias úteis."
       ]
     },
     {
@@ -159,7 +159,7 @@
         "aspectRatio": 3.5907
       },
       "bullets": [
-        "**Pague a cobrança** quando o pacote chegar: quem recusa o pacote por causa da taxa não recebe reembolso nem reenvio.",
+        "**Pague a cobrança** quando o pacote chegar: a YesStyle diz que não se responsabiliza por reembolso nem reenvio de pacote recusado por questões alfandegárias.",
         "**Guarde o comprovante** do pagamento, com a data.",
         "**Mande o comprovante por e-mail** ao atendimento da YesStyle em até 30 dias da data dele. Sem comprovante, ou depois de 30 dias, a loja não analisa o pedido."
       ],
@@ -214,15 +214,15 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: os envios voltaram por um tempo, quando um pedido nosso saiu, e foram suspensos de novo; na última leitura, a loja não oferecia entrega para o país.",
-        "A YesStyle voltou a entregar no Brasil? Voltou por um tempo, sem aviso de retomada depois da pausa de julho (um pedido nosso feito em setembro foi enviado dois dias depois), e suspendeu de novo: na última leitura, a loja não oferecia entrega para o Brasil.",
+        "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente; no momento, a loja não oferece entrega para o país.",
+        "A YesStyle voltou a entregar no Brasil? Não: depois da pausa de julho não houve aviso de retomada. Um pedido nosso feito em setembro saiu dois dias depois, mas, na última leitura, a loja não oferecia entrega para o Brasil.",
         "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
         "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
         "A YesStyle tem taxa ou imposto? Em Portugal, o IVA já vem no preço; no Brasil, o pacote paga Imposto de Importação mais ICMS depois que chega, veja o exemplo no capítulo do imposto.",
         "A YesStyle reembolsa a taxa da alfândega? Sim, em crédito na loja, em pedidos abaixo de US$ 1.000, com o comprovante mandado ao atendimento em até 30 dias; no Brasil, a política não cita o ICMS.",
         "Como pagar na YesStyle? Com cartão Visa, Mastercard, American Express ou JCB, PayPal, Apple Pay ou Google Pay; na compra em dólar, o banco pode cobrar taxa de transação internacional.",
         "Como devolver um produto da YesStyle? Peça o número de RMA em até 14 dias do recebimento e despache o pacote em até 30 dias; produto de beleza aberto e suplemento não voltam, e reação na pele não dá reembolso.",
-        "Por que o prazo muda de um pedido para outro? Porque ele soma a disponibilidade dos itens, que pode levar até 30 dias úteis, ao prazo do envio, e o pedido normalmente sai junto, quando o último item fica disponível.",
+        "Por que o prazo muda de um pedido para outro? Porque ele soma a disponibilidade dos itens, que pode levar até 30 dias úteis, ao prazo do envio, e o pedido pode sair em mais de um envio; se sair tudo junto, só quando o último item fica disponível.",
         "Onde ficam os cupons e o código de recompensa da YesStyle? Na página da YesStyle aqui do site, com os cupons do momento e o CECILIA010, que vai no campo Reward Code."
       ]
     }
