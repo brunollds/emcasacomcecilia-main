@@ -36,14 +36,14 @@
       "paragraphs": [
         "Se a compra é no site oficial da HolyFoods, o [cupom HolyFoods](/cupons/holyfoods) da parceria é o EMCASA: 15% OFF em todo o site, de sopa e macarrão a risoto e pack. A HolyFoods vende refeições para preparar em casa, que se guardam fechadas na despensa; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
         "Quem busca cupom de primeira compra encontra aqui o nosso código e nenhum outro: o EMCASA é o que a parceria dá, e é o que a linha de desconto vai mostrar. O botão desta página leva à loja, mas não aplica o código: você copia o EMCASA e digita na hora de finalizar.",
-        "O desconto sai do preço que está no carrinho. Se o produto já vem com a promoção da loja, os 15% saem do preço promocional, não do preço de lista. Ele é o extra de quem já ia comprar, não o motivo da compra.",
+        "O desconto sai do preço que está no carrinho. Nos dois testes da Black, os 15% foram aplicados ao preço que já tinha a promoção da loja. Confira o valor descontado e o total antes de pagar.",
         "No vídeo do fim do artigo, a Cecília prepara o Mac Queijo na panela."
       ]
     },
     {
       "heading": "1. Monte o carrinho e clique em \"Finalizar compra\"",
       "paragraphs": [
-        "Escolha o que quer e abra o carrinho. O carrinho lateral mostra os itens, o aviso da promoção da loja e o frete, mas não tem campo de cupom: tentar ali é o motivo mais comum de \"o cupom não funciona\". O código fica para a próxima tela.",
+        "Escolha o que quer e abra o carrinho. O carrinho lateral mostra os itens, o aviso da promoção da loja e o frete, mas não tem campo de cupom. Clique em “Finalizar compra” para chegar à tela em que o código é digitado.",
         "Clique em \"Finalizar compra\". O endereço muda para seguro.holyfoods.com.br, e é assim mesmo: o checkout é da própria loja, com o mesmo carrinho."
       ]
     },
@@ -139,7 +139,7 @@
     {
       "heading": "O cupom não funcionou: o que conferir",
       "paragraphs": [
-        "Quando o EMCASA não entra, a causa costuma ser uma destas, e o resumo do pedido mostra qual:"
+        "Se o EMCASA não entrar, confira estes pontos antes de pagar:"
       ],
       "bullets": [
         "**Digitou no carrinho.** O carrinho lateral não tem campo de cupom. Vá em \"Finalizar compra\" e use \"Inserir cupom de desconto\".",
@@ -156,10 +156,10 @@
     {
       "heading": "Quando o cupom vale a pena",
       "paragraphs": [
-        "Se a compra já ia ser no site da HolyFoods, o cupom vale: 15% a mais sobre o preço que já está lá, com um passo extra, o de digitar o código na tela certa. Durante a Black da loja, o desconto grande é o dos 30%, já no preço; o cupom é o acréscimo, e só se a linha de desconto mostrar. Os preços e os kits da campanha estão no [guia de Black Friday da HolyFoods](/reviews/black-friday-holyfoods).",
+        "Na compra pelo site oficial, o EMCASA dá 15% de desconto sobre os produtos. Aplique na tela de finalizar e confira o desconto. Os preços e os kits da campanha estão no [guia de Black Friday da HolyFoods](/reviews/black-friday-holyfoods).",
         "Passe do cupom quando a compra é na loja física, na revenda ou no Mercado Livre, ou quando o checkout não mostra a linha do desconto. Antes de comprar pela primeira vez, leia [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel), com a empresa, a garantia de 30 dias e a reputação no Reclame Aqui."
       ],
-      "emphasis": "Cupom de 15% não decide compra nenhuma: ele é o troco de quem já ia comprar. Escolha pelo preço do dia e deixe o cupom ser o extra."
+      "emphasis": "Nos dois testes, o EMCASA descontou R$ 10,47 e R$ 50,19. Para o seu pedido, compare o total com produtos e frete depois de aplicar o código."
     },
     {
       "heading": "Perguntas frequentes",
@@ -181,7 +181,7 @@
     ],
     "skipIf": [
       "Você vai comprar na loja física, na revenda ou no Mercado Livre: o código é da loja online.",
-      "Você espera que o carrinho lateral ou o link da parceria apliquem o código sozinhos: nenhum dos dois aplica."
+      "O checkout recusa o código ou não mostra o desconto depois da aplicação."
     ]
   },
   "cta": {

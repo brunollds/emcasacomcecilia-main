@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Dá para confiar: a HolyFoods é uma empresa ativa desde 2023, com CNPJ no rodapé, loja online própria e garantia de 30 dias depois de receber. No Reclame Aqui a reputação é Boa, mas as queixas são de entrega. O que pesa é o pedido que não chega; veja em Entrega e frete como rastrear e o que fazer."
+        "Dá para comprar, com atenção à entrega: a HolyFoods tem CNPJ ativo e loja online própria. No Reclame Aqui a reputação é Boa, e a entrega é o principal ponto de atenção. Veja como conferir o site e acompanhar o pedido."
       ]
     },
     {
@@ -83,7 +83,7 @@
     {
       "heading": "O que a loja vende",
       "paragraphs": [
-        "É comida de despensa, não de congelador: sopas, macarrões, risotos, aveia, mel e kits que ficam fechados no armário e levam de 15 a 20 minutos no fogão. O quadro mostra as linhas e quanto cada uma rende; o preço fica na página da loja e, na Black, no artigo da Black Friday, entre os relacionados."
+        "A loja vende refeições de despensa, como sopas, macarrões e risotos, além de aveia, mel e kits. As refeições exigem preparo; confira o modo e o tempo na embalagem de cada produto. O quadro mostra as linhas e os rendimentos publicados. Os preços estão na loja e, para a campanha, no artigo de Black Friday entre os relacionados."
       ],
       "comparisonTable": {
         "headers": [
@@ -170,7 +170,7 @@
     {
       "heading": "O que o Reclame Aqui mostra",
       "paragraphs": [
-        "A reputação é Boa, mas caiu: nos últimos 6 meses, de maio a outubro, a HolyFoods tem nota 7,5, 251 reclamações, todas respondidas, 91,1% resolvidas e 51,9% de consumidores que voltariam a fazer negócio, e em 2025 a reputação era Ótima, com nota 8,1. Os números por período e o que as reclamações recentes mostram estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
+        "Em 05/11/2026, a HolyFoods tinha nota 7,5, Boa, na janela de maio a outubro. Das 251 reclamações recebidas, 136 tinham avaliação; entre as avaliadas, 91,1% foram resolvidas e 51,9% declararam intenção de voltar a fazer negócio. Todas as recebidas tinham resposta. Em 2025, a nota era 8,1, Ótima. Os períodos estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
       ]
     },
     {
@@ -190,7 +190,7 @@
     {
       "heading": "HolyFoods é confiável? O que pesa",
       "paragraphs": [
-        "Pelos dados públicos, dá para comprar: o CNPJ é ativo e igual ao do perfil no Reclame Aqui, o site e o checkout são da própria loja, a política de reembolso está escrita e a garantia de 30 dias aceita unidade provada. Do lado do Reclame Aqui, a empresa responde a todas as reclamações e resolve nove em cada dez nos últimos 6 meses.",
+        "Pelos dados públicos, dá para comprar: o CNPJ é ativo e igual ao do perfil no Reclame Aqui, o site e o checkout são da própria loja, a política de reembolso está escrita e a garantia de 30 dias aceita unidade provada. Do lado do Reclame Aqui, a empresa responde a todas as reclamações e resolve cerca de nove em cada dez das avaliadas nos últimos 6 meses.",
         "O ponto de atenção é a entrega: a queixa mais citada é pedido que não chegou, e a nota de 2025 para cá caiu. Se o prazo importa, compre com folga e use o rastreio. Este artigo fala da loja, não do cardápio: o que comer, e quanto, é conversa com o nutricionista.",
         "Se for comprar, entre pelo holyfoods.com.br, confira o CNPJ no rodapé, guarde o número do pedido e veja o desconto antes de pagar."
       ]
@@ -211,11 +211,11 @@
   "decision": {
     "takeIf": [
       "Você quer comprar de uma empresa com CNPJ ativo, site e checkout próprios e política de reembolso escrita.",
-      "Você prefere decidir com garantia: 30 dias para devolver, mesmo com uma unidade provada.",
+      "Você quer avaliar a compra com a garantia comercial de trinta dias e consegue manter as demais unidades fechadas enquanto prova uma.",
       "Você pode esperar o prazo de preparo e transporte que o checkout calcula pelo CEP."
     ],
     "skipIf": [
-      "Você precisa da comida numa data fixa: pedido que não chega é a queixa mais citada no Reclame Aqui.",
+      "A previsão de preparo e transporte para o seu CEP não atende à data em que você precisa do pedido.",
       "Você vai abrir mais de uma embalagem para provar: a garantia pede as demais fechadas.",
       "Você quer usar o EMCASA em loja física ou revendedor: o código é da loja online."
     ]

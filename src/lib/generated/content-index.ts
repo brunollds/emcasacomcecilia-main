@@ -187941,7 +187941,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para confiar: a HolyFoods é uma empresa ativa desde 2023, com CNPJ no rodapé, loja online própria e garantia de 30 dias depois de receber. No Reclame Aqui a reputação é Boa, mas as queixas são de entrega. O que pesa é o pedido que não chega; veja em Entrega e frete como rastrear e o que fazer."
+          "Dá para comprar, com atenção à entrega: a HolyFoods tem CNPJ ativo e loja online própria. No Reclame Aqui a reputação é Boa, e a entrega é o principal ponto de atenção. Veja como conferir o site e acompanhar o pedido."
         ]
       },
       {
@@ -187997,7 +187997,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja vende",
         "paragraphs": [
-          "É comida de despensa, não de congelador: sopas, macarrões, risotos, aveia, mel e kits que ficam fechados no armário e levam de 15 a 20 minutos no fogão. O quadro mostra as linhas e quanto cada uma rende; o preço fica na página da loja e, na Black, no artigo da Black Friday, entre os relacionados."
+          "A loja vende refeições de despensa, como sopas, macarrões e risotos, além de aveia, mel e kits. As refeições exigem preparo; confira o modo e o tempo na embalagem de cada produto. O quadro mostra as linhas e os rendimentos publicados. Os preços estão na loja e, para a campanha, no artigo de Black Friday entre os relacionados."
         ],
         "comparisonTable": {
           "headers": [
@@ -188084,7 +188084,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "A reputação é Boa, mas caiu: nos últimos 6 meses, de maio a outubro, a HolyFoods tem nota 7,5, 251 reclamações, todas respondidas, 91,1% resolvidas e 51,9% de consumidores que voltariam a fazer negócio, e em 2025 a reputação era Ótima, com nota 8,1. Os números por período e o que as reclamações recentes mostram estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
+          "Em 05/11/2026, a HolyFoods tinha nota 7,5, Boa, na janela de maio a outubro. Das 251 reclamações recebidas, 136 tinham avaliação; entre as avaliadas, 91,1% foram resolvidas e 51,9% declararam intenção de voltar a fazer negócio. Todas as recebidas tinham resposta. Em 2025, a nota era 8,1, Ótima. Os períodos estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -188104,7 +188104,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "HolyFoods é confiável? O que pesa",
         "paragraphs": [
-          "Pelos dados públicos, dá para comprar: o CNPJ é ativo e igual ao do perfil no Reclame Aqui, o site e o checkout são da própria loja, a política de reembolso está escrita e a garantia de 30 dias aceita unidade provada. Do lado do Reclame Aqui, a empresa responde a todas as reclamações e resolve nove em cada dez nos últimos 6 meses.",
+          "Pelos dados públicos, dá para comprar: o CNPJ é ativo e igual ao do perfil no Reclame Aqui, o site e o checkout são da própria loja, a política de reembolso está escrita e a garantia de 30 dias aceita unidade provada. Do lado do Reclame Aqui, a empresa responde a todas as reclamações e resolve cerca de nove em cada dez das avaliadas nos últimos 6 meses.",
           "O ponto de atenção é a entrega: a queixa mais citada é pedido que não chegou, e a nota de 2025 para cá caiu. Se o prazo importa, compre com folga e use o rastreio. Este artigo fala da loja, não do cardápio: o que comer, e quanto, é conversa com o nutricionista.",
           "Se for comprar, entre pelo holyfoods.com.br, confira o CNPJ no rodapé, guarde o número do pedido e veja o desconto antes de pagar."
         ]
@@ -188125,11 +188125,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você quer comprar de uma empresa com CNPJ ativo, site e checkout próprios e política de reembolso escrita.",
-        "Você prefere decidir com garantia: 30 dias para devolver, mesmo com uma unidade provada.",
+        "Você quer avaliar a compra com a garantia comercial de trinta dias e consegue manter as demais unidades fechadas enquanto prova uma.",
         "Você pode esperar o prazo de preparo e transporte que o checkout calcula pelo CEP."
       ],
       "skipIf": [
-        "Você precisa da comida numa data fixa: pedido que não chega é a queixa mais citada no Reclame Aqui.",
+        "A previsão de preparo e transporte para o seu CEP não atende à data em que você precisa do pedido.",
         "Você vai abrir mais de uma embalagem para provar: a garantia pede as demais fechadas.",
         "Você quer usar o EMCASA em loja física ou revendedor: o código é da loja online."
       ]
@@ -188171,8 +188171,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "HolyFoods no Reclame Aqui: reputação Boa nos últimos 6 meses, nota 7,5 e 91,1% resolvidas. Do que as pessoas reclamam e o que fazer se o pedido der problema.",
-    "metaDescription": "O cupom EMCASA dá 15% OFF no site da HolyFoods. No Reclame Aqui: reputação Boa, nota 7,5, 91,1% resolvidas e as queixas mais comuns.",
+    "description": "HolyFoods no Reclame Aqui: reputação Boa nos últimos 6 meses, nota 7,5 e 91,1% das avaliadas resolvidas. Do que as pessoas reclamam e o que fazer se o pedido der problema.",
+    "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. No Reclame Aqui: reputação Boa, nota 7,5, 91,1% das avaliadas resolvidas e as queixas mais comuns.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
     "draft": false,
@@ -188185,7 +188185,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com atenção à entrega: nos últimos 6 meses a HolyFoods tem reputação Boa no Reclame Aqui, nota 7,5, todas as reclamações respondidas e nove em cada dez resolvidas. A queixa mais comum é pedido não recebido, e a nota já foi melhor. Veja abaixo os números por período e o que fazer se o pedido der problema."
+          "Sim, com atenção à entrega: na aba de seis meses, a HolyFoods tem reputação Boa, nota 7,5 e todas as reclamações respondidas. Entre as avaliadas, 91,1% foram resolvidas. Pedido não recebido é a maior categoria da janela geral; abaixo estão os períodos e o que fazer se o pedido der problema."
         ]
       },
       {
@@ -188198,7 +188198,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da HolyFoods",
         "paragraphs": [
-          "Olhe primeiro a aba de 6 meses, a mais recente: é a que diz como a loja está atendendo agora. As outras três mostram de onde ela veio."
+          "Em 05/11/2026, a aba de 6 meses mostrava o atendimento mais recente. As outras três abas são períodos mais longos e sobrepostos, então compare os indicadores sem tratá-los como grupos independentes."
         ],
         "comparisonTable": {
           "headers": [
@@ -188238,14 +188238,14 @@ export const reviewsData: unknown[] = [
               "100%"
             ],
             [
-              "Resolvidas",
+              "Resolvidas entre as avaliadas",
               "91,1%",
               "87%",
               "88,1%",
               "87,8%"
             ],
             [
-              "Voltariam a fazer negócio",
+              "Intenção de voltar, entre as avaliadas",
               "51,9%",
               "56,7%",
               "67,9%",
@@ -188276,7 +188276,7 @@ export const reviewsData: unknown[] = [
           "caption": "Abas do perfil da HolyFoods no Reclame Aqui, lidas em 05/11. \"2025\" é o ano inteiro; \"Geral\" é todo o histórico do perfil."
         },
         "postParagraphs": [
-          "A nota de reputação é a que define a faixa (Boa, Ótima). A nota média do consumidor é outra conta: a média que quem reclamou deu ao atendimento, e aqui ela fica bem abaixo da nota de reputação."
+          "Na aba de seis meses, 136 das 251 recebidas tinham avaliação. A resolução, a intenção de voltar e a nota do consumidor se referem a quem avaliou. A nota de reputação define a faixa Boa; a nota do consumidor é uma medida diferente, mostrada na tabela."
         ]
       },
       {
@@ -188299,20 +188299,20 @@ export const reviewsData: unknown[] = [
         "heading": "Como a loja responde",
         "paragraphs": [
           "Responde a tudo: nas quatro abas, 100% das reclamações têm resposta da loja. O tempo médio nos últimos 6 meses é de 1 dia e 15 horas, mais lento que em 2025 e mais rápido que na aba de 12 meses.",
-          "Responder não é resolver. A resolução dos 6 meses é a mais alta da tabela; o que fica atrás é a vontade de voltar e a nota do consumidor. Resumindo: a loja responde e encerra a maioria dos casos, mas a experiência de quem reclama pesa na nota."
+          "A resposta da empresa e a resolução avaliada pelo consumidor são indicadores diferentes. Na janela recente da tabela, a resolução entre avaliadas era mais alta; a intenção de voltar e a nota do consumidor eram menores que nas outras abas."
         ]
       },
       {
         "heading": "Se o pedido der problema",
         "paragraphs": [
-          "Comece pela loja, com o número do pedido na mão, e deixe o Reclame Aqui por último. Na ordem:"
+          "Comece pelo rastreio e pelo atendimento da loja, com o número do pedido em mãos. Separe o problema de entrega de uma devolução de produto já recebido:"
         ],
         "bullets": [
           "**1. Rastreie o pedido.** No menu do site há o \"Rastrear pedido\", que acompanha a entrega. A loja informa: a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o prazo do transporte soma a isso; o prazo e o frete aparecem no checkout, pelo CEP.",
           "**2. Fale no WhatsApp da loja,** de segunda a sexta, das 9h às 18h.",
           "**3. Escreva para contato@holyfoods.com.br** com o número do pedido e, se houve avaria, item diferente ou falta, com fotos. Se a embalagem chegar claramente violada, dá para recusá-la na entrega.",
-          "**4. Use o arrependimento ou a garantia.** O arrependimento vale 7 dias depois do recebimento, com devolução sem custo e restituição inclusive do frete. A garantia de satisfação vale 30 dias corridos depois de receber, mesmo com uma unidade aberta, desde que as demais estejam fechadas, com reembolso dos produtos devolvidos. O pedido é pelo mesmo e-mail. O reembolso volta pelo meio de pagamento da compra: no Pix, até 7 dias úteis depois de validada a devolução; no cartão, pode aparecer em até duas faturas.",
-          "**5. Só então o Reclame Aqui,** com o número do pedido e as conversas anteriores guardadas."
+          "**4. Para produto recebido, veja a devolução aplicável.** O arrependimento vale 7 dias depois do recebimento; a garantia de satisfação vale 30 dias corridos, com uma unidade aberta se as demais estiverem fechadas. Para pedido não entregue, informe a ocorrência ao atendimento em vez de aguardar esses prazos.",
+          "**5. Se o atendimento não resolver, registre a reclamação.** Guarde número do pedido, rastreio e conversas para descrever o ocorrido."
         ],
         "images": [
           {
@@ -188334,23 +188334,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na HolyFoods: o veredito",
         "paragraphs": [
-          "Dá, com o pedido acompanhado de perto. O perfil está na faixa Boa, responde a todas as reclamações e resolve nove em cada dez nos últimos 6 meses. O ponto de atenção é a entrega, a maior queixa, e o fato de os números recentes estarem abaixo dos de 2025 em nota e em vontade de voltar. A tabela do início traz cada período.",
+          "Dá, com o pedido acompanhado de perto. O perfil está na faixa Boa e responde a todas as reclamações. Entre as avaliadas da aba de seis meses, cerca de nove em cada dez foram resolvidas. A entrega é o principal ponto de atenção, e nota e intenção de voltar estão abaixo das de 2025. A tabela do início traz cada período.",
           "A Cecília comprou um kit da HolyFoods pelo TikTok Shop antes da parceria: a abertura da caixa e o risoto feito em casa estão no vídeo do fim do artigo."
         ],
         "bullets": [
           "O que conferir no dia: o perfil empresa/holysoup com o nome HolyFoods, o CNPJ 50.874.415/0001-62 e a aba de 6 meses.",
           "O que guardar: número do pedido, fotos da caixa e das quantidades ao receber e as conversas com a loja.",
-          "Quando o Reclame Aqui entra: depois do e-mail e da garantia, com o prazo vencido anotado."
+          "Se o atendimento não resolver: registre o ocorrido com número do pedido, rastreio e conversas guardadas."
         ],
-        "emphasis": "Loja que responde a tudo e resolve a maior parte passa no teste. O cuidado que fica é com a entrega, e ele pede o pedido acompanhado do começo ao fim."
+        "emphasis": "Loja que responde a tudo e resolve a maior parte das avaliadas passa no teste. O cuidado que fica é com a entrega: acompanhe o pedido do começo ao fim."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "HolyFoods é confiável no Reclame Aqui? Sim, com atenção à entrega: a reputação dos últimos 6 meses é Boa e a loja responde a todas as reclamações. Os números de cada período estão no capítulo \"Os números da HolyFoods\".",
+          "HolyFoods é confiável no Reclame Aqui? Sim, com atenção à entrega: a reputação da aba de seis meses é Boa e a loja responde a todas as reclamações. Os números de cada período estão no capítulo \"Os números da HolyFoods\".",
           "O perfil holysoup no Reclame Aqui é o da HolyFoods? Sim: o endereço do perfil é empresa/holysoup, mas o nome na página é HolyFoods e o CNPJ é o mesmo do rodapé do site. Para achar, busque \"holy foods\", com espaço.",
-          "O que fazer se o pedido da HolyFoods não chegou? Rastreie pelo menu do site, fale no WhatsApp ou em contato@holyfoods.com.br com o número do pedido, use o arrependimento ou a garantia se for o caso, e deixe o Reclame Aqui por último. O passo a passo está em \"Se o pedido der problema\".",
-          "Quanto tempo a HolyFoods leva para responder no Reclame Aqui? Responde a todas, em cerca de um dia e meio nos últimos 6 meses. O comparativo com os outros períodos está na tabela do início."
+          "O que fazer se o pedido da HolyFoods não chegou? Consulte o rastreio e fale com a loja pelo WhatsApp ou por contato@holyfoods.com.br, com o número do pedido. Se não resolver, guarde os registros para reclamar; a garantia de satisfação trata de produto recebido.",
+          "Quanto tempo a HolyFoods leva para responder no Reclame Aqui? Na aba de seis meses, a média é de 1 dia e 15 horas, e isso não é um prazo garantido."
         ]
       }
     ],
@@ -188426,14 +188426,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se a compra é no site oficial da HolyFoods, o [cupom HolyFoods](/cupons/holyfoods) da parceria é o EMCASA: 15% OFF em todo o site, de sopa e macarrão a risoto e pack. A HolyFoods vende refeições para preparar em casa, que se guardam fechadas na despensa; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
           "Quem busca cupom de primeira compra encontra aqui o nosso código e nenhum outro: o EMCASA é o que a parceria dá, e é o que a linha de desconto vai mostrar. O botão desta página leva à loja, mas não aplica o código: você copia o EMCASA e digita na hora de finalizar.",
-          "O desconto sai do preço que está no carrinho. Se o produto já vem com a promoção da loja, os 15% saem do preço promocional, não do preço de lista. Ele é o extra de quem já ia comprar, não o motivo da compra.",
+          "O desconto sai do preço que está no carrinho. Nos dois testes da Black, os 15% foram aplicados ao preço que já tinha a promoção da loja. Confira o valor descontado e o total antes de pagar.",
           "No vídeo do fim do artigo, a Cecília prepara o Mac Queijo na panela."
         ]
       },
       {
         "heading": "1. Monte o carrinho e clique em \"Finalizar compra\"",
         "paragraphs": [
-          "Escolha o que quer e abra o carrinho. O carrinho lateral mostra os itens, o aviso da promoção da loja e o frete, mas não tem campo de cupom: tentar ali é o motivo mais comum de \"o cupom não funciona\". O código fica para a próxima tela.",
+          "Escolha o que quer e abra o carrinho. O carrinho lateral mostra os itens, o aviso da promoção da loja e o frete, mas não tem campo de cupom. Clique em “Finalizar compra” para chegar à tela em que o código é digitado.",
           "Clique em \"Finalizar compra\". O endereço muda para seguro.holyfoods.com.br, e é assim mesmo: o checkout é da própria loja, com o mesmo carrinho."
         ]
       },
@@ -188529,7 +188529,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom não funcionou: o que conferir",
         "paragraphs": [
-          "Quando o EMCASA não entra, a causa costuma ser uma destas, e o resumo do pedido mostra qual:"
+          "Se o EMCASA não entrar, confira estes pontos antes de pagar:"
         ],
         "bullets": [
           "**Digitou no carrinho.** O carrinho lateral não tem campo de cupom. Vá em \"Finalizar compra\" e use \"Inserir cupom de desconto\".",
@@ -188546,10 +188546,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando o cupom vale a pena",
         "paragraphs": [
-          "Se a compra já ia ser no site da HolyFoods, o cupom vale: 15% a mais sobre o preço que já está lá, com um passo extra, o de digitar o código na tela certa. Durante a Black da loja, o desconto grande é o dos 30%, já no preço; o cupom é o acréscimo, e só se a linha de desconto mostrar. Os preços e os kits da campanha estão no [guia de Black Friday da HolyFoods](/reviews/black-friday-holyfoods).",
+          "Na compra pelo site oficial, o EMCASA dá 15% de desconto sobre os produtos. Aplique na tela de finalizar e confira o desconto. Os preços e os kits da campanha estão no [guia de Black Friday da HolyFoods](/reviews/black-friday-holyfoods).",
           "Passe do cupom quando a compra é na loja física, na revenda ou no Mercado Livre, ou quando o checkout não mostra a linha do desconto. Antes de comprar pela primeira vez, leia [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel), com a empresa, a garantia de 30 dias e a reputação no Reclame Aqui."
         ],
-        "emphasis": "Cupom de 15% não decide compra nenhuma: ele é o troco de quem já ia comprar. Escolha pelo preço do dia e deixe o cupom ser o extra."
+        "emphasis": "Nos dois testes, o EMCASA descontou R$ 10,47 e R$ 50,19. Para o seu pedido, compare o total com produtos e frete depois de aplicar o código."
       },
       {
         "heading": "Perguntas frequentes",
@@ -188571,7 +188571,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você vai comprar na loja física, na revenda ou no Mercado Livre: o código é da loja online.",
-        "Você espera que o carrinho lateral ou o link da parceria apliquem o código sozinhos: nenhum dos dois aplica."
+        "O checkout recusa o código ou não mostra o desconto depois da aplicação."
       ]
     },
     "cta": {
@@ -188731,7 +188731,7 @@ export const reviewsData: unknown[] = [
           "caption": "Mesma leitura da tabela dos kits, com os 30% já no preço; o rendimento é o da página de cada produto."
         },
         "postParagraphs": [
-          "A sopa avulsa sai a R$ 3,48 por porção, e o pack, de 10 sachês individuais, a R$ 4,19 por porção, pelo número que a loja mostra no card dele. Pelos números dela, a porção do pack sai mais cara que a do avulso: o que o pack compra é o sachê de uma porção, sem sobra na panela. O tamanho da porção, confira na embalagem que chegar.",
+          "A sopa avulsa sai a R$ 3,48 por porção de 250 g, e o pack, de 10 sachês individuais, a R$ 4,19 por sachê, pelo número que a loja mostra no card dele. Pelos números dela, o sachê do pack sai mais caro que a porção do avulso. Antes de comparar, confira o peso de cada sachê na embalagem que chegar.",
           "Risoto e mac são uma refeição por embalagem, com 20 g de proteína. A página dos produtos diz que são sem glúten e que alguns levam leite e lactose, então confira o rótulo se isso importa na sua casa. Ficam fechados na despensa, sem congelador, e o preparo é de 15 a 20 minutos no fogão. Quem quer rendimento pelo preço vai no avulso; quem quer a porção separada de sopa vai no pack."
         ],
         "images": [
@@ -188834,7 +188834,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual kit levar na Black",
         "paragraphs": [
           "Pelos números da tabela, o perfil decide:",
-          "**Primeira vez na loja:** o Descoberta. É o menor, a loja o indica para conhecer, e a garantia cobre a unidade aberta. Ele fica abaixo do mínimo do frete grátis em qualquer região, então some o frete na conta.",
+          "**Primeira vez na loja:** o Descoberta. É o menor, a loja o indica para conhecer, e a garantia cobre a unidade aberta. Ele fica abaixo dos três mínimos publicados do frete grátis, então some o frete na conta.",
           "**Abastecer a despensa:** o Despensa Cheia. Antes do cupom, é o que passa os três mínimos publicados do frete grátis, e é o único com o carrinho testado no EMCASA (o frete saiu grátis a R$ 284,41; confira o resumo no seu CEP). O custo por refeição menor vem das sopas; se você não quer sopa, a Rotina Resolvida é só massa e risoto, com 15 refeições.",
           "**Pedido avulso:** a sopa, o risoto e o mac custam o mesmo na Black. Escolha pelo rendimento da tabela de avulsos.",
           "Antes de pagar:"
@@ -188845,7 +188845,7 @@ export const reviewsData: unknown[] = [
           "Veja a linha \"Descontos\" e o frete antes de pagar.",
           "Guarde o número do pedido: você vai precisar dele no rastreio e na garantia."
         ],
-        "emphasis": "Pelos números da tabela, quem quer abastecer a despensa fecha a melhor conta por refeição no Despensa Cheia; quem só quer conhecer começa pelo Descoberta.",
+        "emphasis": "Pela contagem da loja, quem quer abastecer a despensa fecha a menor média por refeição no Despensa Cheia, que inclui sachês de sopa; quem só quer conhecer começa pelo Descoberta.",
         "emphasisAfterParagraph": 1
       },
       {
