@@ -19,6 +19,7 @@
   "metaDescription": "Taille SHEIN : la lettre change selon la marque. Le 4CW5Y est un code de parrainage à chercher dans l'appli. Mesurez en cm et suivez le guide de l'article.",
   "publishedAt": "4 novembre 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -202,7 +203,7 @@
       },
       "postParagraphs": [
         "L'aisance, c'est la différence entre le vêtement et votre corps ; elle révèle la coupe avant même que vous ne l'enfiliez. Avec le même calcul, pour le guide DAZY, le M est prévu pour un buste de 82 à 86 cm. Il reste 7 à 11 cm d'aisance sur un t-shirt à coupe régulière et à élasticité légère. Quand il n'existe que la mesure du vêtement, l'élasticité joue le rôle de l'aisance : sur l'Essnce, à élasticité forte, le mannequin de la fiche porte le S, qui mesure 78 cm, soit 9 cm de moins que son buste.",
-        "Le guide prévient que la mesure de l'article peut varier de 1 à 2 cm, et la description des deux t-shirts prévient que le tissu change de dimensions après un lavage à la maison. Si votre mesure tombe à la limite d'une taille, ces 2 cm décident. Donc : un tissu sans élasticité ou à élasticité légère demande de l'aisance, et à la limite la taille au-dessus ; un tissu à élasticité moyenne ou forte demande la taille dont la mesure est égale ou inférieure à la vôtre, car trop d'aisance sur un article qui s'étire donne un vêtement flottant."
+        "Le guide prévient que la mesure de l'article peut varier de 1 à 2 cm, et la description des deux t-shirts prévient que le tissu change de dimensions après un lavage à la maison. Si votre mesure tombe à la limite d'une taille, ces 2 cm décident. Donc : un tissu sans élasticité ou à élasticité légère demande de l'aisance, et à la limite la taille au-dessus ; un tissu à élasticité moyenne ou forte accepte moins d'aisance, mais le choix suit toujours la mesure de l'article, la coupe et l'aisance que vous voulez, et le tableau du corps, s'il existe, entre dans le calcul. Le mannequin de la fiche Essnce est un exemple, pas une règle."
       ]
     },
     {
@@ -229,7 +230,7 @@
         "Mesurez buste, taille et hanches et notez-les en centimètres.",
         "Ouvrez le guide des tailles de l'article et laissez-le en CM.",
         "Regardez si le tableau concerne l'article ou le corps. Comparez-le à votre mesure et calculez l'aisance.",
-        "Lisez le type de coupe et l'élasticité : un tissu qui ne s'étire pas demande de l'aisance ; un tissu qui s'étire, la taille de votre mesure.",
+        "Lisez le type de coupe et l'élasticité : un tissu qui ne s'étire pas demande de l'aisance ; un tissu qui s'étire accepte moins d'aisance, sans remplacer la mesure de l'article.",
         "Consultez l'avis des acheteurs sur la coupe et cherchez dans leur tableau quelqu'un qui a vos mesures.",
         "Prévoyez une variation de 1 à 2 cm sur l'article et le changement après lavage.",
         "Gardez la confirmation de commande et le suivi : c'est avec eux que se fait le retour si l'article ne convient pas."
@@ -242,7 +243,7 @@
       "heading": "Quelle taille commander : le résumé par situation",
       "bullets": [
         "Tissu sans élasthanne, élasticité nulle ou légère (le t-shirt DAZY) : la taille dont la mesure du vêtement donne l'aisance que vous voulez ; si votre mesure tombe à la limite, la taille au-dessus.",
-        "Tissu avec élasthanne, élasticité moyenne ou forte, et seulement la mesure du vêtement dans le guide (l'Essnce) : la taille dont la mesure est égale ou inférieure à la vôtre, comme le fait le mannequin de la fiche.",
+        "Tissu avec élasthanne, élasticité moyenne ou forte, et seulement la mesure du vêtement dans le guide (l'Essnce) : une taille avec moins d'aisance peut convenir, comme pour le mannequin de la fiche, qui n'est qu'un exemple ; vérifiez la mesure de l'article, la coupe et l'aisance que vous voulez.",
         "Marque dont la fiche prévient qu'elle taille petit (DAZY) : lisez le tableau du corps de la marque elle-même, pas votre lettre habituelle.",
         "Entre deux tailles et sans certitude : celle que le tableau des acheteurs ayant vos mesures a commandée ; sans personne de comparable, l'aisance décide, selon la règle du tissu."
       ],

@@ -17,6 +17,7 @@
   },
   "publishedAt": "October 28, 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -162,8 +163,8 @@
     {
       "heading": "YS points and the app coupon",
       "paragraphs": [
-        "Signing in through the app earns you 50 YS points, once. Reinstalling doesn't give the points again. The points are not the reward code: they are applied at the \"Payment Information\" step of checkout, while CECILIA010 goes on the \"Enter Code\" screen. One doesn't replace the other.",
-        "The store says it releases, once a month and at a random time, a 24-hour coupon that only works on orders placed through the app; at the time of checking there wasn't an active one, and the coupon featured in the app was the same as on the website. The store's active coupons are on [YesStyle coupons and reward code](/en/coupons/yesstyle)."
+        "The 50 YS points apply only to the first download of the app with a sign-in to your account: if you have already used the offer, sign in on another device or reinstall the app, you don't get them again. The store's terms say the points arrive after one day, while the app page says it is immediate. The points are not the reward code: they are applied at the \"Payment Information\" step of checkout, while CECILIA010 goes on the \"Enter Code\" screen. One doesn't replace the other.",
+        "The store says it releases, once a month and at a random time, a 24-hour coupon that only works on orders placed through the app; when the app was tested there wasn't an active one, and the coupon featured in the app was the same as on the website. Since it comes and goes, the store's active coupons are on [YesStyle coupons and reward code](/en/coupons/yesstyle)."
       ]
     },
     {
@@ -185,8 +186,8 @@
       "bullets": [
         "Does YesStyle have an app? Yes, for Android and iPhone, at the official Google Play and App Store links. The store says to download only from those two.",
         "Does CECILIA010 work in the app? Yes. At checkout, tap \"Enter Code\" and type the code in the \"Influencer / Rewards Code\" field. It is a reward code, with up to 5% extra, and it stacks with the store coupon, which goes in the \"Coupon Code\" field.",
-        "Do I earn points for downloading the app? Yes, 50 YS points when you sign in through the app, once. Reinstalling doesn't give them again, and the points are not the reward code.",
-        "Does the app have an exclusive coupon? The store says it publishes a 24-hour coupon, once a month, only for orders in the app. At the time of checking there wasn't an active one."
+        "Do I earn points for downloading the app? Yes, once per account: 50 YS points on the first download of the app with a sign-in. Reinstalling or using another device doesn't give them again, and the points are not the reward code.",
+        "Does the app have an exclusive coupon? The store says it publishes a 24-hour coupon, once a month, only for orders in the app. When the app was tested there wasn't an active one; the active coupons are on the store page."
       ]
     }
   ]

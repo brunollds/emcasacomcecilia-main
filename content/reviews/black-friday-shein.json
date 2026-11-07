@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Veja o calendário, o imposto zero até US$ 50 e o código de indicação 4CW5Y.",
-  "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases de desconto do histórico e imposto zero até US$ 50.",
+  "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Calendário, imposto de importação zero até US$ 50 e código de indicação 4CW5Y.",
+  "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases do histórico e imposto de importação zero até US$ 50.",
   "publishedAt": "11 de outubro de 2026",
   "publishedAtISO": "2026-10-11",
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
@@ -73,7 +73,7 @@
       },
       "postParagraphs": [
         "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta. Se a SHEIN repetir o padrão, as ofertas de Black Friday entram depois do 11.11 e vão até o fim do mês. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
-        "Nos três anos, o desconto máximo subiu perto do fim: quem pode esperar ganha, e quem precisa de tamanho difícil não espera a última fase."
+        "Nos três anos, o desconto máximo subiu perto do fim. Isso não garante que a peça que você quer fique mais barata: compare o preço final e o estoque; se precisa de tamanho difícil, não espere a última fase."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
@@ -103,12 +103,12 @@
       "heading": "O imposto na Black Friday: o que mudou em 2026",
       "paragraphs": [
         "A SHEIN está no Remessa Conforme, então o imposto aparece no checkout, junto do pedido. Em regra não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 12 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502/2026 confirmou que o governo pode manter a alíquota zero nessa faixa.",
-        "A conta vale por pedido e usa o valor do produto mais o frete, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
+        "A conta vale por pedido e usa o valor do produto mais o frete e o seguro, quando houver, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
       ],
       "comparisonTable": {
         "caption": "Pela página de impostos da SHEIN. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
         "headers": [
-          "Pedido (produto + frete)",
+          "Pedido (produto + frete + seguro, se houver)",
           "Imposto de importação",
           "ICMS",
           "Exemplo da SHEIN, sem o subsídio"
@@ -193,7 +193,7 @@
       "heading": "Antes de pagar: o que conferir",
       "bullets": [
         "Se o produto é de Envio Nacional ou internacional.",
-        "Se o pedido internacional ficou em até US$ 50, contando o frete e já com os descontos.",
+        "Se o pedido internacional ficou em até US$ 50, contando frete e seguro, se houver, e já com os descontos.",
         "Quanto deu o ICMS no resumo do pedido.",
         "Se o cupom entrou e se os pontos foram abatidos.",
         "O prazo de entrega, se a compra for presente de Natal.",
@@ -207,7 +207,7 @@
         "A Black Friday da SHEIN vai até quando? Em 2024 e 2025, foi até o fim de novembro. Em 2023, até o sábado depois da Black Friday. A de 2026 ainda não tem data de fim.",
         "O que é o 11.11 da SHEIN? É a promoção do Dia dos Solteiros, no dia 11 do mês 11. A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases de desconto até o fim do mês.",
         "Tem imposto nas compras da SHEIN na Black Friday? Tem ICMS, de 17% a 20% conforme o estado, em toda compra internacional. O imposto de importação é zero nos pedidos de até US$ 50 e de 60%, menos US$ 30 no valor do imposto, acima disso.",
-        "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto e frete, já com os descontos. Acima disso, o imposto de importação volta.",
+        "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto, frete e seguro (se houver), já com os descontos. Acima disso, o imposto de importação volta.",
         "Produto de Envio Nacional paga imposto de importação? Não. Os produtos de Envio Nacional já estão no Brasil e não pagam imposto de importação.",
         "Posso usar mais de um cupom na SHEIN? Um cupom da SHEIN por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para somar o cupom da loja desse vendedor.",
         "O 4CW5Y é cupom de desconto? Não. É o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e vê as condições para a sua conta.",

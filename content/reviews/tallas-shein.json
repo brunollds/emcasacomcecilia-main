@@ -19,6 +19,7 @@
   "metaDescription": "Talla en SHEIN: la letra cambia de marca. El 4CW5Y es un código de referido que se busca en la app. Mide en cm y lee la guía de cada prenda.",
   "publishedAt": "4 de noviembre de 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -202,7 +203,7 @@
       },
       "postParagraphs": [
         "La holgura es la diferencia entre la prenda y tu cuerpo, y cuenta el corte antes de que te la pongas. Con la misma cuenta, con la guía de DAZY, la M está indicada para un busto de 82 a 86 cm. Quedan de 7 a 11 cm de holgura en una camiseta de ajuste regular y poca elasticidad. Cuando solo existe la medida de la prenda, la elasticidad hace el papel de la holgura: en la Essnce, de alta elasticidad, la modelo de la ficha lleva la S, que mide 78 cm, 9 cm menos que su busto.",
-        "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta pide la talla cuya medida queda igual o por debajo de la tuya, porque mucha holgura en una prenda que estira se vuelve ropa ancha."
+        "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta admite menos holgura, pero la elección sigue la medida de la prenda, el corte y la holgura que quieres; si hay tabla del cuerpo, también entra en la cuenta. La modelo de la ficha de la Essnce es un ejemplo, no una regla."
       ]
     },
     {
@@ -229,7 +230,7 @@
         "Mide busto, cintura y cadera y anótalos en centímetros.",
         "Abre la guía de tallas de la prenda y déjala en CM.",
         "Mira si la tabla es de la prenda o del cuerpo. Compárala con tu medida y cuenta la holgura.",
-        "Lee el tipo de ajuste y la elasticidad: una tela que no estira pide holgura; una que estira, la talla de tu medida.",
+        "Lee el tipo de ajuste y la elasticidad: una tela que no estira pide holgura; una que estira admite menos holgura, sin sustituir la medida de la prenda.",
         "Revisa la valoración de ajuste de los compradores y busca en su tabla a alguien con tus medidas.",
         "Cuenta con una variación de 1 a 2 cm en la prenda y con el cambio tras el lavado.",
         "Guarda la confirmación del pedido y el seguimiento: con ellos se hace la devolución si la prenda no te queda."
@@ -242,7 +243,7 @@
       "heading": "Qué talla pedir: el resumen por situación",
       "bullets": [
         "Tela sin elastano, con elasticidad nula o poca (la camiseta DAZY): la talla cuya medida de la prenda da la holgura que usas; si tu medida cae en el límite, la de arriba.",
-        "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): la talla cuya medida queda igual o por debajo de la tuya, como hace la modelo de la ficha.",
+        "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): una talla con menos holgura puede servir, como la de la modelo de la ficha, que es solo un ejemplo; revisa la medida de la prenda, el ajuste y la holgura que quieres.",
         "Marca que la ficha avisa que queda pequeña (la DAZY): lee la tabla de cuerpo de la propia marca, no tu letra de siempre.",
         "Entre dos tallas y sin certeza: la que pidieron en la tabla de compradores con tus medidas; sin nadie parecido, decide la holgura, según la regla de la tela."
       ],

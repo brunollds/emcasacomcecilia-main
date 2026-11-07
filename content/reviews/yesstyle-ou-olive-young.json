@@ -20,6 +20,7 @@
   "metaDescription": "O código de recompensa CECILIA010 dá até 5% de desconto na YesStyle. YesStyle ou Olive Young Global: frete, prazo, imposto e entrega por país.",
   "publishedAt": "21 de outubro de 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
@@ -99,7 +100,7 @@
       "paragraphs": [
         "O imposto muda de país para país nas duas lojas. Na Olive Young, ele entra no checkout em alguns países e fica para a entrega em outros, por conta do cliente.",
         "**Olive Young.** A página separa os países em grupos. No Reino Unido, na Noruega, na Austrália e em Singapura, o imposto aparece como cobrado na compra. O Reino Unido pode cobrar IVA e taxas em pedidos acima de £ 135; a Noruega tem IVA de 25%, a Austrália, GST de 10%, e Singapura, 9%. Na União Europeia, desde os pedidos feitos em 31/07/2026, a Olive Young calcula e cobra no checkout o IVA do país e € 3 de imposto de importação por código HS (categoria aduaneira), depois que você digita o endereço; em pedido abaixo de US$ 60 com frete, o IVA também incide sobre o frete. A loja diz que nada mais é cobrado na entrega. No Canadá e em Israel, a cobrança cai na entrega: o Canadá pode cobrar IVA em pedidos acima de CA$ 20, e Israel, taxas acima de US$ 75, e a transportadora local pode cobrar uma taxa. Portugal é da União Europeia, então o imposto da Olive Young já aparece no total do checkout. A loja não aceita devolução nem reembolso por causa de imposto ou taxa de importação (FAQ de taxas da UE).",
-        "**YesStyle.** Em Portugal, o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 01/07/2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, por enquanto, paga essa taxa pelo cliente (artigo de entrega). No Brasil, o imposto cai depois que o pacote chega: fora do Remessa Conforme, a Receita cobra Imposto de Importação de 60% e ICMS de 17% a 20%, conforme o estado. A YesStyle reembolsa taxas de alfândega cobradas na entrega em pedidos abaixo de US$ 1.000, em crédito na loja, se você mandar o comprovante em até 30 dias. A política não cita o ICMS. Os números do Brasil vêm do artigo de entrega."
+        "**YesStyle.** Em Portugal, o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 01/07/2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, por enquanto, paga essa taxa pelo cliente (artigo de entrega). No Brasil, o imposto cai depois que o pacote chega: fora do Remessa Conforme, a Receita cobra Imposto de Importação de 60% e ICMS de 17% a 20%, conforme o estado. A YesStyle reembolsa em crédito na loja impostos e taxas ligados à alfândega pagos na entrega, em pedidos abaixo de US$ 1.000 (valor antes do desconto e sem frete), se o comprovante chegar à loja em até 30 dias da data do pagamento. Imposto sobre vendas (IVA, GST) de alguns destinos, como a União Europeia e o Reino Unido, e taxas da transportadora, como armazenagem, não entram. A política não cita o ICMS. Os números do Brasil vêm do artigo de entrega."
       ]
     },
     {
@@ -150,7 +151,7 @@
     {
       "heading": "Programa de membros e pontos",
       "paragraphs": [
-        "Na Olive Young, o OY MEMBERS é grátis e devolve de 0,5% a 2,5% da compra em pontos; o cadastro dá o nível BABY na hora. Os outros níveis são recalculados na primeira segunda-feira de janeiro e de julho, pela compra do semestre anterior, e sobem na hora se a compra do semestre atual passar do limite. Na página de membros, a faixa de cada nível é esta; o nível atual vale até o fim do ano."
+        "Na Olive Young, o OY MEMBERS é grátis e devolve de 0,5% a 2,5% da compra em pontos; o cadastro dá o nível BABY na hora. Os outros níveis são recalculados na primeira segunda-feira de janeiro e de julho, pela compra do semestre anterior, e, se a compra do semestre atual passar do limite, o nível maior vale no dia seguinte, por volta da meia-noite da Coreia. Na página de membros, a faixa de cada nível é esta; segundo a página, o programa vale até o fim do ano e pode mudar ou acabar."
       ],
       "comparisonTable": {
         "headers": [
@@ -194,7 +195,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
         "alt": "Gráfico de barras com os cinco níveis do OY MEMBERS, de BABY a GOLD, a compra no semestre que leva a cada um e a porcentagem de pontos de volta",
-        "caption": "Níveis do OY MEMBERS: compra no semestre, em US$, e pontos de volta, de 0,5% a 2,5%. Página de membros; o nível atual vale até o fim do ano.",
+        "caption": "Níveis do OY MEMBERS: compra no semestre, em US$, e pontos de volta, de 0,5% a 2,5%. Página de membros; o programa vale até o fim do ano e pode mudar.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }

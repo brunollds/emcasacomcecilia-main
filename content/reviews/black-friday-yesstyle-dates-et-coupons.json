@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Le Black Friday de YesStyle est déjà en cours, avec Mega Sale et un coupon par palier de 8 à 15 %. Voyez où saisir le code CECILIA010 et quand arrivent les jours à 15 %.",
-  "metaDescription": "YesStyle a-t-il un Black Friday ? Oui, il est en cours : Mega Sale, coupon par palier de 8 à 15 %, jours à 15 % sans minimum et cumul avec le code récompense CECILIA010.",
+  "description": "Le Black Friday de YesStyle est déjà en cours, avec Mega Sale et un coupon par palier de 8 à 15 %. Voyez où saisir le code CECILIA010 et ce qu'il faut attendre des jours à 15 %.",
+  "metaDescription": "YesStyle a-t-il un Black Friday ? Oui, il est en cours : Mega Sale, coupon par palier de 8 à 15 % et cumul avec le code récompense CECILIA010.",
   "publishedAt": "11 octobre 2026",
   "publishedAtISO": "2026-10-11",
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -31,8 +31,8 @@
   "pros": [
     "Calendrier officiel 2024 et 2025, tiré des pages de règles de chaque coupon",
     "Le code récompense se cumule avec le coupon YesStyle, y compris pendant le Black Friday",
-    "Les jours à 15 % sans minimum, n'importe quel panier obtient la remise maximale du coupon",
-    "YesStyle rembourse les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique"
+    "En 2024 et 2025, lors des jours à 15 % sans minimum, n'importe quel panier a obtenu la remise maximale du coupon",
+    "YesStyle rembourse les frais de douane sur les commandes éligibles de moins de 1 000 US$, sous forme de crédit en boutique"
   ],
   "cons": [
     "La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis : la suite est une estimation d'après l'historique",
@@ -44,13 +44,13 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Oui, YesStyle fait le Black Friday, et il est déjà en cours : la page d'accueil affiche la Mega Sale, avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier de la semaine donne 8 %, 10 % ou 15 %. CECILIA010 se cumule avec lui, dans le champ Reward Code. Les jours à 15 % sans minimum restent à venir."
+        "Oui, le Black Friday de YesStyle est en cours : la Mega Sale est à l'accueil, avec des bannières jusqu'à 50 % de remise, et un coupon par palier donne 8 %, 10 % ou 15 %. CECILIA010 se cumule avec lui, dans le champ Reward Code. Les jours à 15 % sans minimum de 2026 ne sont pas annoncés."
       ]
     },
     {
       "heading": "Quand commence le Black Friday de YesStyle",
       "paragraphs": [
-        "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier de la semaine (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours. La livraison standard est gratuite dès 35 US$. La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis."
+        "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier du moment (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours : vérifiez celui en cours avant d'acheter. La fin d'un coupon ne signifie pas la fin de la campagne. La livraison standard gratuite dès 35 US$ dépend de la destination : la page de paiement affiche la vôtre. La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis."
       ],
       "comparisonTable": {
         "caption": "Coupons ouverts à tous les membres en 2025, d'après les pages d'aide de YesStyle ; chaque phase dure jusqu'au début de la suivante. Dates en heure GMT, qui est celle qui compte pour la boutique.",
@@ -130,8 +130,8 @@
       },
       "bullets": [
         "**Panier de 199 US$ ou plus :** le coupon par palier donne déjà 15 % n'importe quel jour, le même pourcentage que les jours sans minimum. Ce qui peut changer autour du vendredi, c'est le prix promotionnel de chaque produit, pas le coupon.",
-        "**Panier entre 79 US$ et 199 US$ :** le coupon par palier donne 8 % ou 10 %. Les jours sans minimum, le même panier obtient 15 %.",
-        "**Panier de moins de 79 US$ :** le coupon par palier ne donne rien. C'est celui qui gagne le plus à attendre les jours à 15 % sans minimum."
+        "**Panier entre 79 US$ et 199 US$ :** le coupon par palier donne 8 % ou 10 %. Si les jours sans minimum reviennent, le même panier obtiendrait 15 %.",
+        "**Panier de moins de 79 US$ :** le coupon par palier ne donne rien. Si les jours à 15 % sans minimum reviennent, c'est celui qui gagne le plus à attendre."
       ]
     },
     {
@@ -192,7 +192,7 @@
     {
       "heading": "Livraison et taxes",
       "paragraphs": [
-        "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les taxes et les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique. Ce que la boutique publie sur la livraison et la façon de demander le remboursement se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
+        "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si la douane taxe le colis à l'arrivée, YesStyle rembourse ces frais sur les commandes éligibles de moins de 1 000 US$, sous forme de crédit en boutique. La taxe de vente, la TVA et la GST ne sont pas couvertes, et le justificatif de paiement doit parvenir au service client dans les 30 jours suivant sa date. Ce que la boutique publie sur la livraison et la façon de demander le remboursement se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
       ]
     },
     {
@@ -233,15 +233,15 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Quand commence le Black Friday de YesStyle et combien de temps dure-t-il ? Il a déjà commencé : la page d'accueil de la boutique affiche la Black Friday Mega Sale et le coupon par palier de la semaine. YesStyle n'a pas encore publié la fin ; en 2024 et 2025, les coupons portant le nom Black Friday ont duré jusqu'au Cyber Monday.",
+        "Quand commence le Black Friday de YesStyle et combien de temps dure-t-il ? Il a déjà commencé : la page d'accueil de la boutique affiche la Black Friday Mega Sale et un coupon par palier. YesStyle n'a pas encore publié la fin ; en 2024 et 2025, les coupons portant le nom Black Friday ont duré jusqu'au Cyber Monday.",
         "Quel est le coupon YesStyle pendant le Black Friday ? Il change tous les quelques jours. La page YesStyle de ce site affiche le code de la semaine, avec la date à laquelle il a été vérifié.",
-        "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. Les jours proches du vendredi et du Cyber Monday, YesStyle ouvre généralement 15 % sans minimum.",
+        "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. En 2024 et 2025, YesStyle a ouvert 15 % sans minimum les jours proches du vendredi et du Cyber Monday ; rien n'est encore annoncé pour 2026.",
         "Chez YesStyle, vaut-il mieux acheter pendant le Black Friday ou le Cyber Monday ? En 2024 et 2025, les deux ont eu 15 % sans minimum, donc le plafond du coupon a été le même. Ce qui change d'un jour à l'autre, c'est le prix promotionnel de chaque produit.",
         "YesStyle a-t-il des promotions en dehors du Black Friday ? Oui. Le coupon par palier, à 8 %, 10 % et 15 %, tourne presque toute l'année et change de nom tous les quelques jours.",
         "CECILIA010 est-il valable pendant le Black Friday ? Oui. Il va dans le champ Reward Code, et les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
         "Peut-on utiliser deux coupons YesStyle dans la même commande ? Non : c'est un coupon par commande. Le code récompense est autre chose et va dans un autre champ de la page de paiement.",
         "Faut-il un compte YesStyle pour utiliser le coupon du Black Friday ? Oui. Les coupons sont réservés aux membres, et qui commande en invité n'a pas la remise.",
-        "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes de moins de 1 000 US$, YesStyle rembourse ces taxes sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours."
+        "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes éligibles de moins de 1 000 US$, YesStyle rembourse les frais de douane sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours suivant sa date. La taxe de vente, la TVA et la GST ne sont pas couvertes."
       ]
     }
   ],

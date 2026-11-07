@@ -17,6 +17,7 @@
   },
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "description": "Sim, a YesStyle tem app para Android e iPhone. Veja onde o código de recompensa CECILIA010 entra no checkout do app, o que muda do site e o que checar se ele não funcionar.",
@@ -169,8 +170,8 @@
     {
       "heading": "Pontos YS e o cupom do app",
       "paragraphs": [
-        "Quem entra na conta pelo app ganha 50 pontos YS, uma vez. Reinstalar não dá os pontos de novo. Os pontos não são o código de recompensa: eles se aplicam na etapa \"Payment Information\" do checkout, e o CECILIA010 entra na tela \"Enter Code\". Um não substitui o outro.",
-        "A loja diz que lança, uma vez por mês e em horário aleatório, um cupom de 24 horas que só vale em pedido feito pelo app; na conferência não havia um ativo, e o cupom em destaque no app era o mesmo do site. Os cupons ativos da loja ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
+        "Os 50 pontos YS valem só para o primeiro download do app com login na conta: quem já usou a oferta, entra em outro aparelho ou reinstala o app não ganha de novo. Os termos da loja falam em crédito após um dia, e a página do app diz que é imediato. Os pontos não são o código de recompensa: eles se aplicam na etapa \"Payment Information\" do checkout, e o CECILIA010 entra na tela \"Enter Code\". Um não substitui o outro.",
+        "A loja diz que lança, uma vez por mês e em horário aleatório, um cupom de 24 horas que só vale em pedido feito pelo app; na época do teste do app não havia um ativo, e o cupom em destaque era o mesmo do site. Como ele vem e vai, os cupons ativos da loja ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
       ]
     },
     {
@@ -193,8 +194,8 @@
         "A YesStyle tem app? Sim, para Android e iPhone, nos links oficiais do Google Play e da App Store. A loja diz para baixar só por esses dois.",
         "O CECILIA010 vale no app? Sim. No checkout, toque em \"Enter Code\" e digite o código no campo \"Influencer / Rewards Code\". Ele é código de recompensa, com até 5% extra, e soma com o cupom da loja, que vai no campo \"Coupon Code\".",
         "O app da YesStyle entrega no Brasil? Não. Na conferência no app, a YesStyle seguia sem entrega para o Brasil, como no site.",
-        "Ganho pontos por baixar o app? Sim, 50 pontos YS ao entrar na conta pelo app, uma vez. Reinstalar não dá de novo, e os pontos não são o código de recompensa.",
-        "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Na conferência não havia um ativo."
+        "Ganho pontos por baixar o app? Sim, uma vez por conta: 50 pontos YS no primeiro download do app com login. Reinstalar ou usar outro aparelho não dá de novo, e os pontos não são o código de recompensa.",
+        "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Na época do teste do app não havia um ativo; os cupons ativos ficam na página da loja."
       ]
     }
   ]

@@ -19,7 +19,7 @@
   "metaDescription": "YesStyle spedisce in Italia? Tempi, spedizione gratuita e IVA secondo la tabella del negozio del 13/10/2026, e come ottenere il rimborso delle spese doganali.",
   "publishedAt": "13 ottobre 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -112,7 +112,7 @@
         "**In attesa di stock: 7, 7-14, 21 o 30 giorni:** il negozio acquista l'articolo dal fornitore dopo l'ordine, e l'articolo esce dal magazzino in quel numero di giorni lavorativi."
       ],
       "postParagraphs": [
-        "Un ordine con un articolo disponibile e uno in attesa di stock di solito parte tutto insieme, quando anche l'ultimo diventa disponibile. Con un articolo a 7-14 giorni, l'ordine per l'Italia richiede da 17 a 29 giorni lavorativi."
+        "Un ordine con un articolo disponibile e uno in attesa di stock può partire in più spedizioni; se parte tutto insieme, è quando anche l'ultimo diventa disponibile. Con un articolo a 7-14 giorni, l'ordine per l'Italia richiede da 17 a 29 giorni lavorativi."
       ]
     },
     {
@@ -141,7 +141,7 @@
         "aspectRatio": 5.8707
       },
       "bullets": [
-        "**Paga l'addebito** quando arriva il pacco: se rifiuti il pacco per via dell'addebito, non ricevi né il rimborso né un nuovo invio.",
+        "**Paga l'addebito** quando arriva il pacco: YesStyle dichiara di non essere responsabile del rimborso né del nuovo invio di un pacco rifiutato per questioni doganali.",
         "**Conserva la ricevuta** del pagamento, con la data.",
         "**Manda la ricevuta via e-mail** al servizio clienti di YesStyle entro 30 giorni dalla sua data. Senza ricevuta, o dopo 30 giorni, il negozio non esamina la richiesta."
       ],
@@ -203,7 +203,7 @@
         "Come si paga su YesStyle? Con carta Visa, Mastercard, American Express o JCB, con PayPal, Apple Pay o Google Pay. Pagando in dollari, la banca può addebitare una commissione per transazione internazionale.",
         "Come si restituisce un prodotto di YesStyle? Chiedi il numero RMA entro 14 giorni dalla ricezione e spedisci il pacco entro 30 giorni; i prodotti di bellezza aperti e gli integratori non si restituiscono, e una reazione cutanea non dà diritto al rimborso.",
         "Da dove spedisce YesStyle? Ogni ordine parte dal magazzino di YesStyle a Hong Kong.",
-        "Perché i tempi cambiano da un ordine all'altro? Perché ai tempi della spedizione si aggiunge la disponibilità degli articoli, che può richiedere fino a 30 giorni lavorativi, e l'ordine di solito parte tutto insieme, quando l'ultimo articolo diventa disponibile.",
+        "Perché i tempi cambiano da un ordine all'altro? Perché ai tempi della spedizione si aggiunge la disponibilità degli articoli, che può richiedere fino a 30 giorni lavorativi, e l'ordine può partire in più spedizioni; se parte tutto insieme, è quando l'ultimo articolo diventa disponibile.",
         "Dove trovo i coupon e il codice ricompensa di YesStyle? Nella pagina di YesStyle su questo sito, con i coupon del momento e con CECILIA010, che va nel campo Reward Code."
       ]
     }

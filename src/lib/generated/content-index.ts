@@ -46457,6 +46457,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Skincare coreano aos 30 com o código CECILIA010 e até 5% extra na YesStyle: testei o adesivo de olhos, o creme PDRN e a lip mask da Abib.",
     "publishedAt": "28 de setembro de 2026",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
@@ -46475,7 +46476,7 @@ export const reviewsData: unknown[] = [
       "PDRN e retinal agem devagar: não espere diferença visível na primeira semana",
       "O retinal pede protetor solar de dia: quem, como eu, nunca usou vai ter que começar",
       "Na primeira vez, fiquei na dúvida sobre o lado certo do adesivo",
-      "Compra internacional: o prazo de entrega é maior que o de uma loja nacional"
+      "Compra internacional: frete e prazo de entrega variam conforme o destino"
     ],
     "contentSections": [
       {
@@ -46607,8 +46608,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Efeito levinho: não espere mudança no primeiro dia nem na primeira semana; o benefício vem com constância;",
           "Protetor solar de dia: quem usa retinal à noite precisa de protetor durante o dia. Para quem, como eu, nunca usou, esse é o primeiro hábito a criar;",
-          "Gravidez e amamentação: derivados de vitamina A pedem orientação médica antes do uso;",
-          "Pele sensível: se arder ou avermelhar, diminua a frequência e procure um dermatologista."
+          "Gravidez: evite derivados de vitamina A, como o retinal, e converse com seu médico; amamentação: peça orientação médica antes do uso;",
+          "Pele sensível: se arder ou avermelhar, pare de usar o produto e, se não passar, procure um dermatologista."
         ]
       },
       {
@@ -46627,9 +46628,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e como economizar com o CECILIA010",
         "paragraphs": [
-          "Os três produtos são vendidos pela YesStyle, que entrega no Brasil (confira no checkout se o envio aparece para o seu CEP). Os preços são cotados em dólar e o frete é internacional, então o prazo é maior que o de uma loja nacional.",
-          "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e somam com o CECILIA010, inclusive aqueles cupons especiais que chegam só para a sua conta. Os cupons ativos da loja estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
-          "Sobre impostos: a YesStyle reembolsa as taxas alfandegárias de pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete). Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle."
+          "Os três produtos são vendidos pela YesStyle, que hoje está com a entrega ao Brasil suspensa temporariamente. Os preços são cotados em dólar e o frete é internacional, com valor e prazo que dependem do destino.",
+          "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e podem ser usados junto com o CECILIA010, conforme as regras de cada cupom, inclusive aqueles cupons especiais que chegam só para a sua conta. Os cupons ativos da loja estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
+          "Sobre impostos: a YesStyle reembolsa as taxas alfandegárias de pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete), com as exceções da política da loja. Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias da data do comprovante. O reembolso vem em crédito na YesStyle."
         ],
         "links": [
           {
@@ -46670,8 +46671,8 @@ export const reviewsData: unknown[] = [
           "O que é PDRN? É um ingrediente feito de fragmentos de DNA, muito usado em cosméticos coreanos que prometem firmeza, segundo as marcas. Na lip mask da Abib, a marca informa origem vegetal (centella asiática e ginkgo biloba).",
           "Retinal é a mesma coisa que ácido retinoico? Não. O retinal é um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
           "A lip mask da Abib tem cheiro forte? Tem cheirinho de doce. Eu tenho sensibilidade a cheiros fortes, e esse não me incomodou.",
-          "A YesStyle entrega no Brasil? Sim, mas confira no checkout se o envio aparece para o seu CEP. Para taxas alfandegárias cobradas na chegada, a loja oferece reembolso em crédito para pedidos abaixo de US$ 1.000.",
-          "Onde uso o código CECILIA010? No campo Reward Code do checkout. Ele dá 5% na primeira compra e 2% nas seguintes, e soma com o cupom que você colocar no campo Coupon Code."
+          "A YesStyle entrega no Brasil? Hoje, não: a entrega ao Brasil está suspensa temporariamente. Para taxas alfandegárias cobradas na chegada, a loja prevê reembolso em crédito para pedidos abaixo de US$ 1.000, conforme a política dela.",
+          "Onde uso o código CECILIA010? No campo Reward Code do checkout. Ele dá 5% na primeira compra e 2% nas seguintes, e pode ser usado junto com um cupom do campo Coupon Code, conforme as regras desse cupom."
         ]
       }
     ],
@@ -46718,6 +46719,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Korean skincare at 30 for beginners: I tried Abib's eye patch, PDRN cream and lip mask. Texture, scent, how to use them and the CECILIA010 code at YesStyle.",
     "publishedAt": "September 28, 2026",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
@@ -46736,7 +46738,7 @@ export const reviewsData: unknown[] = [
       "PDRN and retinal work slowly: don't expect a visible difference in the first week",
       "Retinal calls for sunscreen in the daytime: if you've never used it, like me, you'll have to start",
       "The first time, I wasn't sure which side of the patch was the right one",
-      "International purchase: delivery takes longer than from a local store"
+      "International purchase: shipping cost and delivery time depend on your destination"
     ],
     "contentSections": [
       {
@@ -46868,8 +46870,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Gentle effect: don't expect a change on the first day or in the first week; the benefit comes with consistency;",
           "Sunscreen in the daytime: if you use retinal at night, you need sunscreen during the day. For someone who has never used it, like me, this is the first habit to build;",
-          "Pregnancy and breastfeeding: vitamin A derivatives call for medical advice before use;",
-          "Sensitive skin: if it stings or turns red, use it less often and see a dermatologist."
+          "Pregnancy: avoid vitamin A derivatives such as retinal and talk to your doctor; breastfeeding: ask your doctor before use;",
+          "Sensitive skin: if it stings or turns red, stop using the product and, if it doesn't settle, see a dermatologist."
         ]
       },
       {
@@ -46888,9 +46890,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Where to buy and how to save with CECILIA010",
         "paragraphs": [
-          "All three products are sold by YesStyle (check at checkout that shipping shows up for your address). Prices are quoted in dollars and shipping is international, so delivery takes longer than from a local store.",
-          "At checkout, enter the code CECILIA010 in the Reward Code field: it gives 5% off your first purchase and 2% off the following ones. Promotional coupons go in the other field, Coupon Code, and stack with CECILIA010, including those special coupons that arrive only for your account. The store's active coupons are in [YesStyle coupons and reward code](/en/coupons/yesstyle).",
-          "About taxes: YesStyle refunds customs fees on orders under US$ 1,000 (the amount before coupons, excluding shipping). If you're charged on arrival, pay, keep the receipt and send it to the store's support within 30 days. The refund comes as YesStyle credit."
+          "All three products are sold by YesStyle (check at checkout that shipping shows up for your address). Prices are quoted in dollars and shipping is international, so cost and delivery time depend on your destination.",
+          "At checkout, enter the code CECILIA010 in the Reward Code field: it gives 5% off your first purchase and 2% off the following ones. Promotional coupons go in the other field, Coupon Code, and can be used together with CECILIA010, depending on each coupon's rules, including those special coupons that arrive only for your account. The store's active coupons are in [YesStyle coupons and reward code](/en/coupons/yesstyle).",
+          "About taxes: YesStyle refunds customs fees on orders under US$ 1,000 (the amount before coupons, excluding shipping), with the exceptions in the store's policy. If you're charged on arrival, pay, keep the receipt and send it to the store's support within 30 days of the receipt date. The refund comes as YesStyle credit."
         ],
         "links": [
           {
@@ -46931,7 +46933,7 @@ export const reviewsData: unknown[] = [
           "What is PDRN? It's an ingredient made of DNA fragments, widely used in Korean cosmetics that, according to the brands, promise firmness. In the Abib lip mask, the brand states a plant origin (centella asiatica and ginkgo biloba).",
           "Is retinal the same as retinoic acid? No. Retinal is a vitamin A derivative that the skin converts into retinoic acid. That's why its action is more gradual, and it calls for sunscreen during the day.",
           "Does the Abib lip mask have a strong scent? It has a candy-like scent. I'm sensitive to strong smells, and this one didn't bother me.",
-          "Where do I use the CECILIA010 code? In the Reward Code field at checkout. It gives 5% off your first purchase and 2% off the following ones, and stacks with the coupon you enter in the Coupon Code field."
+          "Where do I use the CECILIA010 code? In the Reward Code field at checkout. It gives 5% off your first purchase and 2% off the following ones, and can be used together with a coupon entered in the Coupon Code field, depending on that coupon's rules."
         ]
       }
     ],
@@ -46978,6 +46980,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Skincare coreano a los 30 para principiantes: probé el parche de ojos, la crema PDRN y la mascarilla de labios de Abib. Textura, olor, cómo usarlos y el código CECILIA010 en YesStyle.",
     "publishedAt": "28 de septiembre de 2026",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
@@ -46996,7 +46999,7 @@ export const reviewsData: unknown[] = [
       "El PDRN y el retinal actúan despacio: no esperes una diferencia visible en la primera semana",
       "El retinal pide protector solar de día: quien, como yo, nunca lo ha usado tendrá que empezar",
       "La primera vez, dudé sobre cuál era el lado correcto del parche",
-      "Compra internacional: el plazo de entrega es mayor que el de una tienda local"
+      "Compra internacional: el costo del envío y el plazo dependen del destino"
     ],
     "contentSections": [
       {
@@ -47128,8 +47131,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Efecto suavecito: no esperes cambios el primer día ni la primera semana; el beneficio llega con constancia;",
           "Protector solar de día: quien usa retinal por la noche necesita protector durante el día. Para quien, como yo, nunca lo ha usado, ese es el primer hábito que crear;",
-          "Embarazo y lactancia: los derivados de la vitamina A requieren orientación médica antes de usarlos;",
-          "Piel sensible: si arde o se enrojece, reduce la frecuencia y consulta a un dermatólogo."
+          "Embarazo: evita los derivados de la vitamina A, como el retinal, y habla con tu médico; lactancia: pide orientación médica antes de usarlos;",
+          "Piel sensible: si arde o se enrojece, deja de usar el producto y, si no mejora, consulta a un dermatólogo."
         ]
       },
       {
@@ -47148,9 +47151,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dónde comprar y cómo ahorrar con el CECILIA010",
         "paragraphs": [
-          "Los tres productos los vende YesStyle (comprueba en el pago que el envío aparece para tu dirección). Los precios se cotizan en dólares y el envío es internacional, así que el plazo es mayor que el de una tienda local.",
-          "En el pago, usa el código CECILIA010 en el campo Reward Code: da un 5% de descuento en la primera compra y un 2% en las siguientes. Los cupones promocionales van en el otro campo, Coupon Code, y se suman al CECILIA010, incluso esos cupones especiales que llegan solo a tu cuenta. Los cupones activos de la tienda están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
-          "Sobre los impuestos: YesStyle reembolsa las tasas de aduana de los pedidos por debajo de US$ 1.000 (valor antes de los cupones, sin el envío). Si te cobran al llegar, paga, guarda el comprobante y envíalo a atención al cliente de la tienda en un plazo de 30 días. El reembolso llega como crédito en YesStyle."
+          "Los tres productos los vende YesStyle (comprueba en el pago que el envío aparece para tu dirección). Los precios se cotizan en dólares y el envío es internacional, así que el costo y el plazo dependen del destino.",
+          "En el pago, usa el código CECILIA010 en el campo Reward Code: da un 5% de descuento en la primera compra y un 2% en las siguientes. Los cupones promocionales van en el otro campo, Coupon Code, y pueden usarse junto con el CECILIA010, según las reglas de cada cupón, incluso esos cupones especiales que llegan solo a tu cuenta. Los cupones activos de la tienda están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
+          "Sobre los impuestos: YesStyle reembolsa las tasas de aduana de los pedidos por debajo de US$ 1.000 (valor antes de los cupones, sin el envío), con las excepciones de la política de la tienda. Si te cobran al llegar, paga, guarda el comprobante y envíalo a atención al cliente de la tienda en un plazo de 30 días desde la fecha del comprobante. El reembolso llega como crédito en YesStyle."
         ],
         "links": [
           {
@@ -47191,7 +47194,7 @@ export const reviewsData: unknown[] = [
           "¿Qué es el PDRN? Es un ingrediente hecho de fragmentos de ADN, muy usado en cosméticos coreanos que, según las marcas, prometen firmeza. En la lip mask de Abib, la marca informa origen vegetal (centella asiática y ginkgo biloba).",
           "¿El retinal es lo mismo que el ácido retinoico? No. El retinal es un derivado de la vitamina A que la piel convierte en ácido retinoico. Por eso la acción es más gradual, y pide protector solar durante el día.",
           "¿La lip mask de Abib tiene olor fuerte? Tiene un olorcito a dulce. Soy sensible a los olores fuertes, y este no me molestó.",
-          "¿Dónde uso el código CECILIA010? En el campo Reward Code del pago. Da un 5% en la primera compra y un 2% en las siguientes, y se suma al cupón que pongas en el campo Coupon Code."
+          "¿Dónde uso el código CECILIA010? En el campo Reward Code del pago. Da un 5% en la primera compra y un 2% en las siguientes, y puede usarse junto con un cupón del campo Coupon Code, según las reglas de ese cupón."
         ]
       }
     ],
@@ -47236,6 +47239,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Skincare coréen à 30 ans pour débutantes : j'ai testé le patch yeux, la crème PDRN et le masque lèvres Abib. Texture, odeur, mode d'emploi et code CECILIA010 chez YesStyle.",
     "publishedAt": "28 septembre 2026",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
@@ -47254,7 +47258,7 @@ export const reviewsData: unknown[] = [
       "Le PDRN et le rétinal agissent lentement : n'attendez pas de différence visible dès la première semaine",
       "Le rétinal demande une crème solaire de jour : celles qui, comme moi, n'en ont jamais utilisé devront s'y mettre",
       "La première fois, j'ai hésité sur le bon côté du patch",
-      "Achat international : le délai de livraison est plus long que celui d'une boutique locale"
+      "Achat international : les frais et le délai de livraison dépendent de la destination"
     ],
     "contentSections": [
       {
@@ -47386,8 +47390,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Effet tout doux : n'attendez pas de changement dès le premier jour ni la première semaine ; le bénéfice vient avec la régularité ;",
           "Crème solaire de jour : qui utilise du rétinal le soir a besoin d'une crème solaire pendant la journée. Pour celles qui, comme moi, n'en ont jamais utilisé, c'est la première habitude à prendre ;",
-          "Grossesse et allaitement : les dérivés de la vitamine A demandent l'avis d'un médecin avant utilisation ;",
-          "Peau sensible : si ça pique ou si ça rougit, espacez les applications et consultez un dermatologue."
+          "Grossesse : évitez les dérivés de la vitamine A, comme le rétinal, et parlez-en à votre médecin ; allaitement : demandez l'avis d'un médecin avant utilisation ;",
+          "Peau sensible : si ça pique ou si ça rougit, arrêtez le produit et, si cela ne passe pas, consultez un dermatologue."
         ]
       },
       {
@@ -47406,9 +47410,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Où acheter et comment économiser avec CECILIA010",
         "paragraphs": [
-          "Les trois produits sont vendus par YesStyle (vérifiez au paiement que l'envoi apparaît pour votre adresse). Les prix sont affichés en dollars et l'expédition est internationale, donc le délai est plus long que celui d'une boutique locale.",
-          "Au paiement, utilisez le code CECILIA010 dans le champ Reward Code : il donne 5 % de réduction sur la première commande et 2 % sur les suivantes. Les coupons promotionnels vont dans l'autre champ, Coupon Code, et se cumulent avec CECILIA010, y compris ces coupons spéciaux qui n'arrivent que sur votre compte. Les coupons actifs de la boutique sont dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
-          "À propos des taxes : YesStyle rembourse les frais de douane des commandes inférieures à 1 000 US$ (montant avant les coupons, hors expédition). Si des frais vous sont demandés à l'arrivée, payez, gardez le justificatif et envoyez-le au service client de la boutique dans un délai de 30 jours. Le remboursement vient sous forme de crédit chez YesStyle."
+          "Les trois produits sont vendus par YesStyle (vérifiez au paiement que l'envoi apparaît pour votre adresse). Les prix sont affichés en dollars et l'expédition est internationale, donc le coût et le délai dépendent de la destination.",
+          "Au paiement, utilisez le code CECILIA010 dans le champ Reward Code : il donne 5 % de réduction sur la première commande et 2 % sur les suivantes. Les coupons promotionnels vont dans l'autre champ, Coupon Code, et peuvent être utilisés avec CECILIA010, selon les règles de chaque coupon, y compris ces coupons spéciaux qui n'arrivent que sur votre compte. Les coupons actifs de la boutique sont dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
+          "À propos des taxes : YesStyle rembourse les frais de douane des commandes inférieures à 1 000 US$ (montant avant les coupons, hors expédition), sous réserve des exceptions de la politique de la boutique. Si des frais vous sont demandés à l'arrivée, payez, gardez le justificatif et envoyez-le au service client de la boutique dans un délai de 30 jours à compter de la date du justificatif. Le remboursement vient sous forme de crédit chez YesStyle."
         ],
         "links": [
           {
@@ -47449,7 +47453,7 @@ export const reviewsData: unknown[] = [
           "Qu'est-ce que le PDRN ? C'est un ingrédient fabriqué à partir de fragments d'ADN, très utilisé dans les cosmétiques coréens qui promettent de la fermeté, selon les marques. Dans la lip mask d'Abib, la marque indique une origine végétale (centella asiatica et ginkgo biloba).",
           "Le rétinal est-il la même chose que l'acide rétinoïque ? Non. Le rétinal est un dérivé de la vitamine A que la peau convertit en acide rétinoïque. C'est pourquoi l'action est plus progressive, et il demande une crème solaire pendant la journée.",
           "La lip mask d'Abib a-t-elle une odeur forte ? Elle a une petite odeur sucrée. Je suis sensible aux odeurs fortes, et celle-ci ne m'a pas dérangée.",
-          "Où utiliser le code CECILIA010 ? Dans le champ Reward Code du paiement. Il donne 5 % sur la première commande et 2 % sur les suivantes, et se cumule avec le coupon que vous saisissez dans le champ Coupon Code."
+          "Où utiliser le code CECILIA010 ? Dans le champ Reward Code du paiement. Il donne 5 % sur la première commande et 2 % sur les suivantes, et peut être utilisé avec un coupon saisi dans le champ Coupon Code, selon les règles de ce coupon."
         ]
       }
     ],
@@ -47496,6 +47500,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Koreanische Hautpflege mit 30 für Einsteiger: Ich habe Abibs Augenpatch, die PDRN-Creme und die Lippenmaske getestet. Textur, Duft, Anwendung und der Code CECILIA010 bei YesStyle.",
     "publishedAt": "28. September 2026",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
@@ -47514,7 +47519,7 @@ export const reviewsData: unknown[] = [
       "PDRN und Retinal wirken langsam: Erwarten Sie in der ersten Woche keinen sichtbaren Unterschied",
       "Retinal verlangt tagsüber Sonnenschutz: Wer wie ich noch nie welchen benutzt hat, muss damit anfangen",
       "Beim ersten Mal war ich unsicher, welche Seite des Patches die richtige ist",
-      "Internationaler Kauf: Die Lieferzeit ist länger als bei einem lokalen Shop"
+      "Internationaler Kauf: Versandkosten und Lieferzeit hängen vom Zielort ab"
     ],
     "contentSections": [
       {
@@ -47646,8 +47651,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Sanfter Effekt: Erwarten Sie weder am ersten Tag noch in der ersten Woche eine Veränderung; der Nutzen kommt mit Regelmäßigkeit;",
           "Sonnenschutz tagsüber: Wer abends Retinal benutzt, braucht tagsüber Sonnenschutz. Für jemanden, der wie ich noch nie welchen benutzt hat, ist das die erste Gewohnheit, die man aufbauen muss;",
-          "Schwangerschaft und Stillzeit: Vitamin-A-Derivate erfordern vor der Anwendung ärztlichen Rat;",
-          "Empfindliche Haut: Wenn es brennt oder sich rötet, seltener anwenden und eine Hautärztin oder einen Hautarzt aufsuchen."
+          "Schwangerschaft: Vermeiden Sie Vitamin-A-Derivate wie Retinal und sprechen Sie mit Ihrer Ärztin oder Ihrem Arzt; Stillzeit: Holen Sie vor der Anwendung ärztlichen Rat ein;",
+          "Empfindliche Haut: Wenn es brennt oder sich rötet, setzen Sie das Produkt ab und suchen Sie, falls es nicht abklingt, eine Hautärztin oder einen Hautarzt auf."
         ]
       },
       {
@@ -47666,9 +47671,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wo kaufen und wie Sie mit CECILIA010 sparen",
         "paragraphs": [
-          "Die drei Produkte verkauft YesStyle (prüfen Sie an der Kasse, ob der Versand für Ihre Adresse angezeigt wird). Die Preise werden in Dollar angegeben und der Versand ist international, daher dauert die Lieferung länger als bei einem lokalen Shop.",
-          "Geben Sie an der Kasse den Code CECILIA010 im Feld Reward Code ein: Er gibt 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden. Aktionscoupons kommen in das andere Feld, Coupon Code, und lassen sich mit CECILIA010 kombinieren, auch diese besonderen Coupons, die nur auf Ihr Konto kommen. Die aktiven Coupons des Shops finden Sie unter [YesStyle-Coupons und Reward Code](/de/coupons/yesstyle).",
-          "Zu den Steuern: YesStyle erstattet die Zollgebühren bei Bestellungen unter 1.000 US$ (Betrag vor den Coupons, ohne Versand). Wenn bei der Ankunft etwas verlangt wird, zahlen Sie, heben Sie den Beleg auf und schicken Sie ihn innerhalb von 30 Tagen an den Kundenservice des Shops. Die Erstattung kommt als Guthaben bei YesStyle."
+          "Die drei Produkte verkauft YesStyle (prüfen Sie an der Kasse, ob der Versand für Ihre Adresse angezeigt wird). Die Preise werden in Dollar angegeben und der Versand ist international, daher hängen Kosten und Lieferzeit vom Zielort ab.",
+          "Geben Sie an der Kasse den Code CECILIA010 im Feld Reward Code ein: Er gibt 5 % Rabatt auf den ersten Einkauf und 2 % auf die folgenden. Aktionscoupons kommen in das andere Feld, Coupon Code, und lassen sich je nach den Regeln des jeweiligen Coupons mit CECILIA010 kombinieren, auch diese besonderen Coupons, die nur auf Ihr Konto kommen. Die aktiven Coupons des Shops finden Sie unter [YesStyle-Coupons und Reward Code](/de/coupons/yesstyle).",
+          "Zu den Steuern: YesStyle erstattet die Zollgebühren bei Bestellungen unter 1.000 US$ (Betrag vor den Coupons, ohne Versand), mit den Ausnahmen der Shop-Richtlinie. Wenn bei der Ankunft etwas verlangt wird, zahlen Sie, heben Sie den Beleg auf und schicken Sie ihn innerhalb von 30 Tagen ab Belegdatum an den Kundenservice des Shops. Die Erstattung kommt als Guthaben bei YesStyle."
         ],
         "links": [
           {
@@ -47709,7 +47714,7 @@ export const reviewsData: unknown[] = [
           "Was ist PDRN? Es ist ein Inhaltsstoff aus DNA-Fragmenten, der häufig in koreanischer Kosmetik steckt, die laut den Marken Straffheit verspricht. Bei der Lip Mask von Abib gibt die Marke einen pflanzlichen Ursprung an (Centella asiatica und Ginkgo biloba).",
           "Ist Retinal dasselbe wie Retinsäure? Nein. Retinal ist ein Derivat von Vitamin A, das die Haut in Retinsäure umwandelt. Deshalb ist die Wirkung schrittweiser, und es verlangt tagsüber Sonnenschutz.",
           "Hat die Lip Mask von Abib einen starken Geruch? Sie hat einen süßlichen Duft. Ich reagiere empfindlich auf starke Gerüche, und dieser hat mich nicht gestört.",
-          "Wo verwende ich den Code CECILIA010? Im Feld Reward Code an der Kasse. Er gibt 5 % auf den ersten Einkauf und 2 % auf die folgenden und lässt sich mit dem Coupon kombinieren, den Sie im Feld Coupon Code eingeben."
+          "Wo verwende ich den Code CECILIA010? Im Feld Reward Code an der Kasse. Er gibt 5 % auf den ersten Einkauf und 2 % auf die folgenden und lässt sich mit einem Coupon im Feld Coupon Code kombinieren, je nach dessen Regeln."
         ]
       }
     ],
@@ -47756,6 +47761,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Skincare coreana a 30 anni per principianti: ho provato la patch occhi, la crema PDRN e la maschera labbra di Abib. Consistenza, profumo, come usarle e il codice CECILIA010 su YesStyle.",
     "publishedAt": "28 settembre 2026",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
@@ -47774,7 +47780,7 @@ export const reviewsData: unknown[] = [
       "PDRN e retinale agiscono lentamente: non aspettarti una differenza visibile nella prima settimana",
       "Il retinale richiede la protezione solare di giorno: chi, come me, non l'ha mai usata dovrà iniziare",
       "La prima volta ho avuto dei dubbi su quale fosse il lato giusto della patch",
-      "Acquisto internazionale: i tempi di consegna sono più lunghi rispetto a un negozio locale"
+      "Acquisto internazionale: costi e tempi di consegna dipendono dalla destinazione"
     ],
     "contentSections": [
       {
@@ -47906,8 +47912,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Effetto leggero: non aspettarti cambiamenti il primo giorno né la prima settimana; il beneficio arriva con la costanza;",
           "Protezione solare di giorno: chi usa il retinale la sera ha bisogno della protezione solare durante il giorno. Per chi, come me, non l'ha mai usata, è la prima abitudine da creare;",
-          "Gravidanza e allattamento: i derivati della vitamina A richiedono il parere del medico prima dell'uso;",
-          "Pelle sensibile: se brucia o arrossa, riduci la frequenza e consulta un dermatologo."
+          "Gravidanza: evita i derivati della vitamina A, come il retinale, e parlane con il medico; allattamento: chiedi il parere del medico prima dell'uso;",
+          "Pelle sensibile: se brucia o arrossa, sospendi il prodotto e, se non passa, consulta un dermatologo."
         ]
       },
       {
@@ -47926,9 +47932,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dove comprare e come risparmiare con il CECILIA010",
         "paragraphs": [
-          "I tre prodotti sono venduti da YesStyle (controlla al checkout che la spedizione compaia per il tuo indirizzo). I prezzi sono in dollari e la spedizione è internazionale, quindi i tempi sono più lunghi rispetto a un negozio locale.",
-          "Al checkout, usa il codice CECILIA010 nel campo Reward Code: dà il 5% di sconto sul primo acquisto e il 2% sui successivi. I coupon promozionali vanno nell'altro campo, Coupon Code, e si sommano al CECILIA010, compresi quei coupon speciali che arrivano solo sul tuo account. I coupon attivi del negozio sono in [coupon YesStyle e codice reward](/it/coupons/yesstyle).",
-          "Sulle imposte: YesStyle rimborsa le spese doganali sugli ordini sotto i 1.000 US$ (importo prima dei coupon, spedizione esclusa). Se ti viene addebitato qualcosa all'arrivo, paga, conserva la ricevuta e inviala all'assistenza del negozio entro 30 giorni. Il rimborso arriva sotto forma di credito su YesStyle."
+          "I tre prodotti sono venduti da YesStyle (controlla al checkout che la spedizione compaia per il tuo indirizzo). I prezzi sono in dollari e la spedizione è internazionale, quindi costi e tempi dipendono dalla destinazione.",
+          "Al checkout, usa il codice CECILIA010 nel campo Reward Code: dà il 5% di sconto sul primo acquisto e il 2% sui successivi. I coupon promozionali vanno nell'altro campo, Coupon Code, e si possono usare insieme al CECILIA010, secondo le regole di ciascun coupon, compresi quei coupon speciali che arrivano solo sul tuo account. I coupon attivi del negozio sono in [coupon YesStyle e codice reward](/it/coupons/yesstyle).",
+          "Sulle imposte: YesStyle rimborsa le spese doganali sugli ordini sotto i 1.000 US$ (importo prima dei coupon, spedizione esclusa), con le eccezioni previste dalla politica del negozio. Se ti viene addebitato qualcosa all'arrivo, paga, conserva la ricevuta e inviala all'assistenza del negozio entro 30 giorni dalla data della ricevuta. Il rimborso arriva sotto forma di credito su YesStyle."
         ],
         "links": [
           {
@@ -47969,7 +47975,7 @@ export const reviewsData: unknown[] = [
           "Che cos'è il PDRN? È un ingrediente fatto di frammenti di DNA, molto usato nei cosmetici coreani che, secondo i marchi, promettono fermezza. Nella lip mask di Abib, il marchio informa un'origine vegetale (centella asiatica e ginkgo biloba).",
           "Il retinale è la stessa cosa dell'acido retinoico? No. Il retinale è un derivato della vitamina A che la pelle converte in acido retinoico. Per questo l'azione è più graduale, e richiede la protezione solare durante il giorno.",
           "La lip mask di Abib ha un odore forte? Ha un profumino dolce. Sono sensibile agli odori forti, e questo non mi ha dato fastidio.",
-          "Dove uso il codice CECILIA010? Nel campo Reward Code del checkout. Dà il 5% sul primo acquisto e il 2% sui successivi, e si somma al coupon che inserisci nel campo Coupon Code."
+          "Dove uso il codice CECILIA010? Nel campo Reward Code del checkout. Dà il 5% sul primo acquisto e il 2% sui successivi, e si può usare insieme a un coupon inserito nel campo Coupon Code, secondo le regole di quel coupon."
         ]
       }
     ],
@@ -48017,6 +48023,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "30대 한국 스킨케어 입문. 아비브 아이 패치, PDRN 크림, 립 마스크를 써 봤어요. 질감, 향, 사용법, YesStyle의 CECILIA010 코드까지 담았습니다.",
     "publishedAt": "2026년 9월 28일",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -48036,7 +48043,7 @@ export const reviewsData: unknown[] = [
       "PDRN과 레티날은 천천히 작용하니 첫 주에 눈에 보이는 차이를 기대하지 말 것",
       "레티날을 쓰면 낮에는 선크림이 필요함. 저처럼 한 번도 안 써 본 사람은 이 습관부터 만들어야 함",
       "처음에는 패치의 앞뒤를 헷갈렸음",
-      "해외 구매라 가까운 쇼핑몰보다 배송 기간이 긺"
+      "해외 구매라 배송비와 배송 기간이 배송지에 따라 달라짐"
     ],
     "contentSections": [
       {
@@ -48168,8 +48175,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "은은한 효과: 첫날이나 첫 주의 변화를 기대하지 마세요. 꾸준히 쓸 때 효과가 나타나요.",
           "낮에는 선크림: 밤에 레티날을 쓰는 사람은 낮에 선크림이 필요해요. 저처럼 써 본 적 없는 사람에게는 이게 가장 먼저 만들 습관이에요.",
-          "임신과 수유: 비타민 A 유도체는 사용 전에 의사와 상담하세요.",
-          "민감한 피부: 따갑거나 붉어지면 횟수를 줄이고 피부과 전문의를 찾아가세요."
+          "임신 중: 레티날 같은 비타민 A 유도체는 피하고 의사와 상담하세요. 수유 중: 사용 전에 의사와 상담하세요.",
+          "민감한 피부: 따갑거나 붉어지면 사용을 멈추고, 가라앉지 않으면 피부과 전문의를 찾아가세요."
         ]
       },
       {
@@ -48188,9 +48195,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "구매처와 CECILIA010으로 아끼는 법",
         "paragraphs": [
-          "세 제품 모두 YesStyle에서 팔아요(내 주소로 배송이 표시되는지 결제 화면에서 확인하세요). 가격은 달러로 표시되고 배송은 국제 배송이라서 가까운 쇼핑몰보다 배송 기간이 길어요.",
-          "결제할 때 Reward Code 칸에 CECILIA010 코드를 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인돼요. 프로모션 쿠폰은 다른 칸인 Coupon Code에 입력하고 CECILIA010과 함께 쓸 수 있어요. 회원님 계정으로만 오는 특별 쿠폰도 마찬가지예요. 쇼핑몰의 사용 가능한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 모아 두었어요.",
-          "세금에 대해: YesStyle은 US$1,000 미만 주문(쿠폰 적용 전 금액, 배송비 제외)의 관세를 환급해 줘요. 도착했을 때 청구되면 납부하고 영수증을 보관했다가 30일 안에 쇼핑몰 고객센터로 보내세요. 환급은 YesStyle 크레딧으로 들어와요."
+          "세 제품 모두 YesStyle에서 팔아요(내 주소로 배송이 표시되는지 결제 화면에서 확인하세요). 가격은 달러로 표시되고 배송은 국제 배송이라서 배송비와 기간은 배송지에 따라 달라요.",
+          "결제할 때 Reward Code 칸에 CECILIA010 코드를 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인돼요. 프로모션 쿠폰은 다른 칸인 Coupon Code에 입력하고 각 쿠폰의 조건에 따라 CECILIA010과 함께 쓸 수 있어요. 회원님 계정으로만 오는 특별 쿠폰도 마찬가지예요. 쇼핑몰의 사용 가능한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 모아 두었어요.",
+          "세금에 대해: YesStyle은 US$1,000 미만 주문(쿠폰 적용 전 금액, 배송비 제외)의 관세를 환급해 줘요(쇼핑몰 정책에 따른 예외가 있어요). 도착했을 때 청구되면 납부하고 영수증을 보관했다가 영수증 날짜로부터 30일 안에 쇼핑몰 고객센터로 보내세요. 환급은 YesStyle 크레딧으로 들어와요."
         ],
         "links": [
           {
@@ -48231,7 +48238,7 @@ export const reviewsData: unknown[] = [
           "PDRN이 뭔가요? DNA 조각으로 만든 성분으로, 브랜드들이 탄력을 내세우는 한국 화장품에 많이 쓰여요. 아비브 립 마스크는 아비브가 식물 유래(병풀과 은행나무)라고 밝혀요.",
           "레티날은 레티노산과 같은 건가요? 아니에요. 레티날은 비타민 A 유도체로 피부에서 레티노산으로 바뀌어요. 그래서 작용이 더 서서히 일어나고, 낮에는 선크림이 필요해요.",
           "아비브 립 마스크는 향이 강한가요? 달콤한 향이 나요. 저는 강한 향에 예민한 편인데 이건 거슬리지 않았어요.",
-          "CECILIA010은 어디에 쓰나요? 결제 화면의 Reward Code 칸이에요. 첫 구매는 5%, 이후 구매는 2% 할인되고, Coupon Code 칸에 넣은 쿠폰과 함께 쓸 수 있어요."
+          "CECILIA010은 어디에 쓰나요? 결제 화면의 Reward Code 칸이에요. 첫 구매는 5%, 이후 구매는 2% 할인되고, Coupon Code 칸에 넣은 쿠폰과 그 쿠폰의 조건에 따라 함께 쓸 수 있어요."
         ]
       }
     ],
@@ -48277,6 +48284,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "30代のコリアンスキンケア入門。Abibのアイパッチ、PDRNクリーム、リップマスクを試しました。テクスチャー、香り、使い方、YesStyleでのCECILIA010コードまでまとめています。",
     "publishedAt": "2026年9月28日",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -48296,7 +48304,7 @@ export const reviewsData: unknown[] = [
       "PDRNとレチナールはゆっくり働くので、1週間目から目に見える違いは期待しないで",
       "レチナールを使うなら日中は日焼け止めが必要。私のように使ったことがない人は、まずその習慣から",
       "初めてのときは、アイパッチの表裏がわからず迷った",
-      "海外購入なので、地元のショップより届くまでに時間がかかる"
+      "海外購入なので、送料と届くまでの日数はお届け先によって変わる"
     ],
     "contentSections": [
       {
@@ -48428,8 +48436,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "おだやかな効果：初日も1週間目も変化は期待しないで。続けることで効果が出てきます。",
           "日中は日焼け止め：夜にレチナールを使うなら、日中は日焼け止めが必要。私のように使ったことがない人には、これが最初に身につける習慣です。",
-          "妊娠中・授乳中：ビタミンA誘導体は、使う前に医師に相談してください。",
-          "敏感肌：ヒリヒリしたり赤くなったりしたら、頻度を減らして皮膚科を受診してください。"
+          "妊娠中：レチナールなどのビタミンA誘導体は避けて、医師に相談してください。授乳中：使う前に医師に相談してください。",
+          "敏感肌：ヒリヒリしたり赤くなったりしたら、使用をやめて、おさまらなければ皮膚科を受診してください。"
         ]
       },
       {
@@ -48448,9 +48456,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "購入先とCECILIA010での節約",
         "paragraphs": [
-          "3品ともYesStyleで販売されています（お届け先の住所宛てに配送が表示されるか、チェックアウトで確認してください）。価格はドル表示で、送料は国際送料なので、地元のショップより届くまでに時間がかかります。",
-          "チェックアウトでは、Reward Codeの欄にCECILIA010を入力してください。初回購入は5％オフ、2回目以降は2％オフになります。プロモーションクーポンは別の欄、Coupon Codeに入力し、CECILIA010と併用できます。あなたのアカウントだけに届く特別クーポンも同様です。ショップで有効なクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にまとめています。",
-          "税金について：YesStyleは、US$1,000未満の注文（クーポン適用前、送料を除く金額）の関税を払い戻します。到着時に請求があった場合は、支払って領収書を保管し、30日以内にショップのサポートへ送ってください。払い戻しはYesStyleのクレジットで行われます。"
+          "3品ともYesStyleで販売されています（お届け先の住所宛てに配送が表示されるか、チェックアウトで確認してください）。価格はドル表示で、送料は国際送料なので、費用と日数はお届け先によって変わります。",
+          "チェックアウトでは、Reward Codeの欄にCECILIA010を入力してください。初回購入は5％オフ、2回目以降は2％オフになります。プロモーションクーポンは別の欄、Coupon Codeに入力し、各クーポンの条件に沿ってCECILIA010と併用できます。あなたのアカウントだけに届く特別クーポンも同様です。ショップで有効なクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にまとめています。",
+          "税金について：YesStyleは、US$1,000未満の注文（クーポン適用前、送料を除く金額）の関税を払い戻します（ショップのポリシーに定める例外あり）。到着時に請求があった場合は、支払って領収書を保管し、領収書の日付から30日以内にショップのサポートへ送ってください。払い戻しはYesStyleのクレジットで行われます。"
         ],
         "links": [
           {
@@ -48491,7 +48499,7 @@ export const reviewsData: unknown[] = [
           "PDRNとは？ DNAの断片から作られる成分で、ハリをうたうコリアンコスメによく使われています（ブランドによる）。AbibのリップマスクについてはAbibが植物由来（ツボクサとイチョウ）と説明しています。",
           "レチナールはレチノイン酸と同じ？ いいえ。レチナールはビタミンA誘導体で、肌の中でレチノイン酸に変わります。そのため作用はゆるやかで、日中は日焼け止めが必要です。",
           "Abibのリップマスクはにおいが強い？ 甘い香りがします。私は強い香りが苦手ですが、これは気になりませんでした。",
-          "CECILIA010はどこで使う？ チェックアウトのReward Codeの欄です。初回購入は5％、2回目以降は2％で、Coupon Codeの欄に入れたクーポンと併用できます。"
+          "CECILIA010はどこで使う？ チェックアウトのReward Codeの欄です。初回購入は5％、2回目以降は2％で、Coupon Codeの欄に入れたクーポンと、そのクーポンの条件に沿って併用できます。"
         ]
       }
     ],
@@ -48536,6 +48544,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "30 歲韓國保養新手入門：試用 Abib 眼膜貼、PDRN 面霜與護唇膜。質地、味道、用法，以及 YesStyle 的 CECILIA010 代碼一次說清楚。",
     "publishedAt": "2026年9月28日",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -48555,7 +48564,7 @@ export const reviewsData: unknown[] = [
       "PDRN 與視黃醛作用緩慢：第一週別期待看到明顯差別",
       "用視黃醛，白天就要擦防曬。像我這樣從沒用過的人，得先養成這個習慣",
       "第一次用的時候，我不確定眼膜貼要貼哪一面",
-      "跨境購買，到貨時間比本地商店更長"
+      "跨境購買，運費和到貨時間取決於寄送目的地"
     ],
     "contentSections": [
       {
@@ -48687,8 +48696,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "效果溫和：別期待第一天或第一週就有變化；好處來自持之以恆；",
           "白天防曬：晚上用視黃醛的人，白天需要防曬。對像我這樣從沒用過的人來說，這是要養成的第一個習慣；",
-          "懷孕與哺乳期：維生素 A 衍生物，使用前需要諮詢醫師；",
-          "敏感肌：如果刺痛或泛紅，就減少頻率，並諮詢皮膚科醫師。"
+          "懷孕期：避免使用視黃醛等維生素 A 衍生物，並諮詢醫師；哺乳期：使用前需要諮詢醫師；",
+          "敏感肌：如果刺痛或泛紅，請停止使用；若沒有緩解，再諮詢皮膚科醫師。"
         ]
       },
       {
@@ -48707,9 +48716,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "哪裡買，以及如何用 CECILIA010 省錢",
         "paragraphs": [
-          "這三樣產品都在 YesStyle 販售（請在結帳時確認是否顯示可寄送到你的地址）。價格以美元報價，運費是國際運費，所以到貨時間比本地商店更長。",
-          "結帳時，請在 Reward Code 欄位輸入代碼 CECILIA010：首次購買享 5% 折扣，之後每次 2%。促銷優惠券要填在另一個欄位 Coupon Code，而且可以和 CECILIA010 疊加，包括只會發到你帳號的特別優惠券。商店目前有效的優惠券請見[YesStyle 優惠券與回饋代碼](/zh-hant/coupons/yesstyle)。",
-          "關於稅費：YesStyle 會補償低於 1,000 美元訂單的關稅（指使用優惠券前的金額，不含運費）。如果到貨時被收費，請先付款、保留收據，並在 30 天內寄給商店客服。補償會以 YesStyle 額度的形式發放。"
+          "這三樣產品都在 YesStyle 販售（請在結帳時確認是否顯示可寄送到你的地址）。價格以美元報價，運費是國際運費，所以費用和到貨時間取決於寄送目的地。",
+          "結帳時，請在 Reward Code 欄位輸入代碼 CECILIA010：首次購買享 5% 折扣，之後每次 2%。促銷優惠券要填在另一個欄位 Coupon Code，而且可以依各優惠券的規則和 CECILIA010 疊加使用，包括只會發到你帳號的特別優惠券。商店目前有效的優惠券請見[YesStyle 優惠券與回饋代碼](/zh-hant/coupons/yesstyle)。",
+          "關於稅費：YesStyle 會補償低於 1,000 美元訂單的關稅（指使用優惠券前的金額，不含運費），商店政策另有例外。如果到貨時被收費，請先付款、保留收據，並在收據日期起 30 天內寄給商店客服。補償會以 YesStyle 額度的形式發放。"
         ],
         "links": [
           {
@@ -48750,7 +48759,7 @@ export const reviewsData: unknown[] = [
           "PDRN 是什麼？ 它是以 DNA 片段製成的成分，常見於主打緊緻的韓國化妝品（依品牌說明）。Abib 說明其護唇膜中的 PDRN 來自植物（積雪草與銀杏）。",
           "視黃醛和視黃酸是同一種東西嗎？ 不是。視黃醛是維生素 A 的衍生物，肌膚會把它轉化為視黃酸。所以作用更循序漸進，白天需要擦防曬。",
           "Abib 護唇膜味道重嗎？ 有甜甜的香氣。我對濃烈的味道比較敏感，這個並沒有困擾我。",
-          "CECILIA010 填在哪裡？ 填在結帳頁的 Reward Code 欄位。首次購買享 5%，之後每次 2%，而且可以和你填在 Coupon Code 欄位的優惠券疊加。"
+          "CECILIA010 填在哪裡？ 填在結帳頁的 Reward Code 欄位。首次購買享 5%，之後每次 2%，而且可以依規則和你填在 Coupon Code 欄位的優惠券疊加使用。"
         ]
       }
     ],
@@ -48796,6 +48805,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "30 岁韩国护肤新手入门：试用 Abib 眼贴、PDRN 面霜和唇膜。质地、气味、用法，以及 YesStyle 上的 CECILIA010 代码一次说清。",
     "publishedAt": "2026年9月28日",
     "publishedAtISO": "2026-09-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -48815,7 +48825,7 @@ export const reviewsData: unknown[] = [
       "PDRN 和视黄醛起效缓慢：第一周别指望看到明显差别",
       "用视黄醛，白天就要涂防晒。像我这样从没用过的人，得先养成这个习惯",
       "第一次用时，我拿不准眼贴该贴哪一面",
-      "跨境购买，到货时间比本地商店更长"
+      "跨境购买，运费和到货时间取决于寄送目的地"
     ],
     "contentSections": [
       {
@@ -48947,8 +48957,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "效果温和：别指望第一天或第一周就有变化；好处来自坚持；",
           "白天防晒：晚上用视黄醛的人，白天需要防晒。对像我这样从没用过的人来说，这是要养成的第一个习惯；",
-          "怀孕和哺乳期：维生素 A 衍生物，使用前需要咨询医生；",
-          "敏感肌：如果刺痛或发红，就减少频率，并咨询皮肤科医生。"
+          "怀孕期：避免使用视黄醛等维生素 A 衍生物，并咨询医生；哺乳期：使用前需要咨询医生；",
+          "敏感肌：如果刺痛或发红，请停止使用；若没有缓解，再咨询皮肤科医生。"
         ]
       },
       {
@@ -48967,9 +48977,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "哪里买，以及如何用 CECILIA010 省钱",
         "paragraphs": [
-          "这三件产品都在 YesStyle 销售（请在结账时确认是否显示可寄送到你的地址）。价格以美元报价，运费是国际运费，所以到货时间比本地商店更长。",
-          "结账时，请在 Reward Code 栏位输入代码 CECILIA010：首次购买享 5% 折扣，之后每次 2%。促销优惠券要填在另一个栏位 Coupon Code，并且可以和 CECILIA010 叠加，包括只发到你账户的特别优惠券。商店目前有效的优惠券见[YesStyle 优惠券和奖励代码](/zh-hans/coupons/yesstyle)。",
-          "关于税费：YesStyle 会报销低于 1,000 美元订单的关税（指使用优惠券前的金额，不含运费）。如果到货时被收费，请先付款、保留收据，并在 30 天内发给商店客服。报销以 YesStyle 额度的形式发放。"
+          "这三件产品都在 YesStyle 销售（请在结账时确认是否显示可寄送到你的地址）。价格以美元报价，运费是国际运费，所以费用和到货时间取决于寄送目的地。",
+          "结账时，请在 Reward Code 栏位输入代码 CECILIA010：首次购买享 5% 折扣，之后每次 2%。促销优惠券要填在另一个栏位 Coupon Code，并且可以按各优惠券的规则和 CECILIA010 叠加使用，包括只发到你账户的特别优惠券。商店目前有效的优惠券见[YesStyle 优惠券和奖励代码](/zh-hans/coupons/yesstyle)。",
+          "关于税费：YesStyle 会报销低于 1,000 美元订单的关税（指使用优惠券前的金额，不含运费），商店政策另有例外。如果到货时被收费，请先付款、保留收据，并在收据日期起 30 天内发给商店客服。报销以 YesStyle 额度的形式发放。"
         ],
         "links": [
           {
@@ -49010,7 +49020,7 @@ export const reviewsData: unknown[] = [
           "PDRN 是什么？ 它是用 DNA 片段制成的成分，常见于主打紧致的韩国化妆品（据品牌说明）。Abib 说明其唇膜中的 PDRN 来自植物（积雪草和银杏）。",
           "视黄醛和视黄酸是一回事吗？ 不是。视黄醛是维生素 A 的衍生物，皮肤会把它转化为视黄酸。所以作用更循序渐进，白天需要涂防晒。",
           "Abib 唇膜气味重吗？ 有甜甜的香气。我对浓烈气味比较敏感，这个并没有困扰我。",
-          "CECILIA010 填在哪里？ 填在结账页的 Reward Code 栏位。首次购买享 5%，之后每次 2%，并且可以和你填在 Coupon Code 栏位的优惠券叠加。"
+          "CECILIA010 填在哪里？ 填在结账页的 Reward Code 栏位。首次购买享 5%，之后每次 2%，并且可以按规则和你填在 Coupon Code 栏位的优惠券叠加使用。"
         ]
       }
     ],
@@ -56926,7 +56936,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday YesStyle 2026: o código de recompensa CECILIA010 dá até 5% extra. A Mega Sale, os cupons da loja por faixa e os dias de 15% sem mínimo.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
@@ -56937,8 +56947,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Calendário oficial de 2024 e 2025, tirado das páginas de regras de cada cupom",
       "O código de recompensa soma com o cupom da YesStyle, inclusive na Black Friday",
-      "Nos dias de 15% sem valor mínimo, qualquer carrinho ganha o desconto máximo do cupom",
-      "A YesStyle devolve os impostos de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja"
+      "Em 2024 e 2025, nos dias de 15% sem valor mínimo, qualquer carrinho ganhou o desconto máximo do cupom",
+      "A YesStyle devolve os encargos de alfândega em pedidos elegíveis abaixo de US$ 1.000, em crédito na loja"
     ],
     "cons": [
       "As datas de fim e os dias de 15% sem valor mínimo de 2026 ainda não saíram: o que vem depois é estimativa pelo histórico",
@@ -56950,13 +56960,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da YesStyle já está no ar: a home tem a Mega Sale, com ofertas por produto e banners de até 50% off, e o cupom de faixa da semana dá 8%, 10% ou 15%. O CECILIA010 soma com ele, no Reward Code. Mas, hoje, a loja não entrega no Brasil."
+          "A Black Friday da YesStyle já está no ar: a home tem a Mega Sale, com ofertas por produto e banners de até 50% off, e um cupom de faixa dá 8%, 10% ou 15%. O CECILIA010 soma com ele, no Reward Code. Mas, hoje, a loja não entrega no Brasil."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da YesStyle",
         "paragraphs": [
-          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. Em 2026, a campanha já começou: a home da loja traz a \"Black Friday Mega Sale\", com ofertas por produto e banners de até 50% off, e o cupom de faixa da semana (8% acima de US$ 79, 10% acima de US$ 149 e 15% acima de US$ 199), que a loja troca a cada poucos dias. O frete padrão é grátis acima de US$ 35. As datas de fim e dos dias de 15% sem mínimo de 2026 ainda não saíram."
+          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. Em 2026, a campanha já começou: a home da loja traz a \"Black Friday Mega Sale\", com ofertas por produto e banners de até 50% off, e o cupom de faixa do momento (8% acima de US$ 79, 10% acima de US$ 149 e 15% acima de US$ 199), que a loja troca a cada poucos dias: confira o vigente antes de comprar. O fim de um cupom não encerra a campanha. O frete padrão grátis acima de US$ 35 depende do destino: o checkout mostra o seu. As datas de fim e dos dias de 15% sem mínimo de 2026 ainda não saíram."
         ],
         "comparisonTable": {
           "caption": "Cupons abertos a todos os membros em 2025, pelas páginas de ajuda da YesStyle; cada fase vai até o início da seguinte. Datas no horário GMT, que é o que vale para a loja.",
@@ -57036,8 +57046,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Carrinho de US$ 199 ou mais:** o cupom de faixa já dá 15% em qualquer dia, o mesmo percentual dos dias sem mínimo. O que pode mudar perto da sexta-feira é o preço promocional de cada produto, não o cupom.",
-          "**Carrinho entre US$ 79 e US$ 199:** o cupom de faixa dá 8% ou 10%. Nos dias sem mínimo, o mesmo carrinho ganha 15%.",
-          "**Carrinho abaixo de US$ 79:** o cupom de faixa não dá nada. É quem mais ganha esperando os dias de 15% sem mínimo."
+          "**Carrinho entre US$ 79 e US$ 199:** o cupom de faixa dá 8% ou 10%. Se os dias sem mínimo voltarem, o mesmo carrinho ganha 15%.",
+          "**Carrinho abaixo de US$ 79:** o cupom de faixa não dá nada. Se os dias de 15% sem mínimo voltarem, é quem mais ganha esperando."
         ]
       },
       {
@@ -57098,7 +57108,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega no Brasil: a YesStyle parou",
         "paragraphs": [
-          "Hoje, conferido no app, a YesStyle não oferece entrega para o Brasil. Os envios voltaram por um tempo e foram suspensos de novo, então a Black Friday da loja, hoje, serve a quem recebe em outro país. O que a loja publica, o prazo e o frete de Portugal e a política de reembolso de impostos da alfândega, que vale em pedidos abaixo de US$ 1.000, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal). Se a entrega voltar, o frete e o prazo aparecem no checkout, e o cupom não desconta o frete."
+          "Hoje, conferido no app, a YesStyle não oferece entrega para o Brasil. Os envios voltaram por um tempo e foram suspensos de novo, então a Black Friday da loja, hoje, serve a quem recebe em outro país. O que a loja publica, o prazo e o frete de Portugal e a política de reembolso de impostos da alfândega, que vale em pedidos elegíveis abaixo de US$ 1.000, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal). O reembolso cobre só encargos da alfândega (imposto sobre vendas, IVA e GST ficam de fora) e exige enviar o comprovante de pagamento ao atendimento da YesStyle em até 30 dias da data dele. Se a entrega voltar, o frete e o prazo aparecem no checkout, e o cupom não desconta o frete."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -57146,16 +57156,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da YesStyle? Já começou: a home da loja traz a Black Friday Mega Sale e o cupom de faixa da semana. A YesStyle ainda não publicou o fim; em 2024 e 2025, os cupons com o nome Black Friday foram até a Cyber Monday.",
+          "Quando começa e quanto dura a Black Friday da YesStyle? Já começou: a home da loja traz a Black Friday Mega Sale e um cupom de faixa. A YesStyle ainda não publicou o fim; em 2024 e 2025, os cupons com o nome Black Friday foram até a Cyber Monday.",
           "Qual é o cupom da YesStyle na Black Friday? Ele muda a cada poucos dias. A página da YesStyle aqui no site mostra o código da semana, com a data em que foi conferido.",
-          "O cupom da Black Friday da YesStyle tem valor mínimo? O cupom de faixa tem: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. Nos dias perto da sexta-feira e da Cyber Monday, a YesStyle costuma liberar 15% sem valor mínimo.",
+          "O cupom da Black Friday da YesStyle tem valor mínimo? O cupom de faixa tem: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. Em 2024 e 2025, a YesStyle liberou 15% sem valor mínimo nos dias perto da sexta-feira e da Cyber Monday; para 2026, ainda não há anúncio.",
           "Na YesStyle, é melhor comprar na Black Friday ou na Cyber Monday? Em 2024 e 2025, as duas tiveram 15% sem valor mínimo, então o teto do cupom foi o mesmo. O que muda de um dia para o outro é o preço promocional de cada produto.",
           "A YesStyle tem promoção fora da Black Friday? Tem. O cupom de faixa, de 8%, 10% e 15%, roda quase o ano inteiro e muda de nome a cada três ou quatro dias.",
           "O CECILIA010 vale na Black Friday? Vale. Ele vai no campo Reward Code, e as regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
           "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
           "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
           "A YesStyle entrega no Brasil? Não: hoje, conferido no app, a loja não oferece entrega para o Brasil. Os envios voltaram por um tempo e foram suspensos de novo; o que a loja publica está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
-          "Vou pagar imposto comprando na YesStyle? Onde a loja entrega, pode haver cobrança na chegada do pacote. Em pedidos abaixo de US$ 1.000, a YesStyle devolve esses impostos em crédito na loja, se você mandar o comprovante em até 30 dias."
+          "Vou pagar imposto comprando na YesStyle? Onde a loja entrega, pode haver cobrança na chegada do pacote. Em pedidos elegíveis abaixo de US$ 1.000, a YesStyle devolve os encargos de alfândega em crédito na loja, se você mandar o comprovante em até 30 dias da data dele. Imposto sobre vendas, IVA e GST ficam de fora."
         ]
       }
     ],
@@ -57197,11 +57207,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle's Black Friday is already on, with the Mega Sale and a tiered coupon of 8% to 15% this week. See where the CECILIA010 Reward Code goes and when the 15% days arrive.",
-    "metaDescription": "Does YesStyle have a Black Friday sale? Yes, it is on now: Mega Sale, tiered coupon of 8% to 15%, 15% no-minimum days and how to stack the CECILIA010 Reward Code.",
+    "description": "YesStyle's Black Friday is already on, with the Mega Sale and a tiered coupon of 8% to 15%. See where the CECILIA010 Reward Code goes and what to expect from the 15% days.",
+    "metaDescription": "Does YesStyle have a Black Friday sale? Yes, it is on: Mega Sale, tiered coupon of 8% to 15% and how to stack the CECILIA010 Reward Code.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -57213,8 +57223,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Official 2024 and 2025 calendar, taken from the rules page of each coupon",
       "The Reward Code stacks with the YesStyle coupon, Black Friday included",
-      "On the 15% days with no minimum, any cart gets the coupon's maximum discount",
-      "YesStyle refunds customs duties on orders under US$ 1,000, as store credit"
+      "In 2024 and 2025, on the 15% days with no minimum, any cart got the coupon's maximum discount",
+      "YesStyle refunds customs charges on eligible orders under US$ 1,000, as store credit"
     ],
     "cons": [
       "The end date and the 15% no-minimum days for 2026 are not out yet: what comes next is an estimate based on past years",
@@ -57226,13 +57236,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle does Black Friday, and it is already on: the home page has the Mega Sale, with per-product deals and banners up to 50% off, and this week's tiered coupon gives 8%, 10% or 15%. CECILIA010 stacks with it, in the Reward Code field. The 15% no-minimum days are the part still to come."
+          "Yes, YesStyle does Black Friday, and it is already on: the home page has the Mega Sale, with per-product deals and banners up to 50% off, and a tiered coupon gives 8%, 10% or 15%. CECILIA010 stacks with it, in the Reward Code field. YesStyle has not yet announced the 15% no-minimum days for 2026."
         ]
       },
       {
         "heading": "When YesStyle's Black Friday starts",
         "paragraphs": [
-          "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. In 2026 the campaign has already started: on November 3, the store's home page shows the \"Black Friday Mega Sale\", with per-product deals and banners up to 50% off, and this week's tiered coupon (8% over US$ 79, 10% over US$ 149 and 15% over US$ 199), which the store swaps every few days. Standard shipping is free over US$ 35. The end date and the 15% no-minimum days for 2026 are not out yet."
+          "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. In 2026 the campaign has already started: on November 3, the store's home page shows the \"Black Friday Mega Sale\", with per-product deals and banners up to 50% off, and the tiered coupon on offer at the time (8% over US$ 79, 10% over US$ 149 and 15% over US$ 199), which the store swaps every few days, so check the current one before you buy. A coupon ending does not mean the campaign has ended. Free standard shipping over US$ 35 depends on the destination: the checkout shows yours. The end date and the 15% no-minimum days for 2026 are not out yet."
         ],
         "comparisonTable": {
           "caption": "Coupons open to all members in 2025, from YesStyle's help pages; each phase runs until the next one begins. Dates are in GMT, which is what counts for the store.",
@@ -57312,8 +57322,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Cart of US$ 199 or more:** the tiered coupon already gives 15% on any day, the same percentage as the no-minimum days. What can change around Friday is the promotional price of each product, not the coupon.",
-          "**Cart between US$ 79 and US$ 199:** the tiered coupon gives 8% or 10%. On the no-minimum days, the same cart gets 15%.",
-          "**Cart under US$ 79:** the tiered coupon gives nothing. These are the carts that gain most by waiting for the 15% days with no minimum."
+          "**Cart between US$ 79 and US$ 199:** the tiered coupon gives 8% or 10%. If the no-minimum days return, the same cart would get 15%.",
+          "**Cart under US$ 79:** the tiered coupon gives nothing. If the 15% days with no minimum return, these are the carts that gain most from waiting."
         ]
       },
       {
@@ -57374,7 +57384,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Delivery and taxes",
         "paragraphs": [
-          "Shipping and delivery time appear at checkout, and the coupon does not discount shipping. If the package is taxed on arrival, YesStyle refunds the taxes and customs fees on orders under US$ 1,000, as store credit. What the store publishes about delivery and how to ask for the refund is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
+          "Shipping and delivery time appear at checkout, and the coupon does not discount shipping. If customs charges the package on arrival, YesStyle refunds those charges on eligible orders under US$ 1,000, as store credit. Sales tax, VAT and GST are not covered, and the payment receipt must reach customer service within 30 days of its date. What the store publishes about delivery and how to ask for the refund is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
         ]
       },
       {
@@ -57415,15 +57425,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "When does YesStyle's Black Friday start and how long does it last? It has already started: the store's home page has the Black Friday Mega Sale and this week's tiered coupon. YesStyle has not published the end yet; in 2024 and 2025, the coupons named Black Friday ran until Cyber Monday.",
+          "When does YesStyle's Black Friday start and how long does it last? It has already started: the store's home page has the Black Friday Mega Sale and a tiered coupon. YesStyle has not published the end yet; in 2024 and 2025, the coupons named Black Friday ran until Cyber Monday.",
           "What is the YesStyle coupon on Black Friday? It changes every few days. The YesStyle page here on the site shows this week's code, with the date it was checked.",
-          "Does the YesStyle Black Friday coupon have a minimum order value? The tiered coupon does: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. On the days around Friday and Cyber Monday, YesStyle usually opens 15% with no minimum.",
+          "Does the YesStyle Black Friday coupon have a minimum order value? The tiered coupon does: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. In 2024 and 2025, YesStyle opened 15% with no minimum on the days around Friday and Cyber Monday; nothing is announced for 2026 yet.",
           "Is it better to buy on Black Friday or Cyber Monday at YesStyle? In 2024 and 2025, both had 15% with no minimum, so the coupon cap was the same. What changes from one day to the next is the promotional price of each product.",
           "Does YesStyle have promotions outside Black Friday? Yes. The tiered coupon, with 8%, 10% and 15%, runs almost all year and changes its name every few days.",
           "Does CECILIA010 work on Black Friday? Yes. It goes in the Reward Code field, and the Black Friday coupon rules say the coupons are valid together with Reward Codes.",
           "Can I use two YesStyle coupons on the same order? No: it is one coupon per order. The Reward Code is a different thing and goes in another checkout field.",
           "Do I need a YesStyle account to use the Black Friday coupon? Yes. The coupons are for members only, and guest checkouts get no discount.",
-          "Will I pay tax when buying from YesStyle? There may be a charge when the package arrives. On orders under US$ 1,000, YesStyle refunds those taxes as store credit, if you send the receipt within 30 days."
+          "Will I pay tax when buying from YesStyle? There may be a charge when the package arrives. On eligible orders under US$ 1,000, YesStyle refunds the customs charges as store credit, if you send the receipt within 30 days of its date. Sales tax, VAT and GST are not covered."
         ]
       }
     ],
@@ -57465,11 +57475,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "El Black Friday de YesStyle ya está en marcha, con la Mega Sale y un cupón por tramos de 8% a 15% esta semana. Mira dónde va el código CECILIA010 y cuándo llegan los días de 15%.",
+    "description": "El Black Friday de YesStyle ya está en marcha, con la Mega Sale y un cupón por tramos de 8% a 15%. Mira dónde va el código CECILIA010 y qué esperar de los días de 15%.",
     "metaDescription": "El Black Friday de YesStyle 2026 ya empezó: Mega Sale, cupón de 8% a 15% por tramos, días de 15% sin mínimo y cómo sumar el código CECILIA010.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -57481,8 +57491,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Calendario oficial de 2024 y 2025, sacado de las páginas de reglas de cada cupón",
       "El código de recompensa se suma al cupón de YesStyle, también en el Black Friday",
-      "En los días de 15% sin compra mínima, cualquier carrito recibe el descuento máximo del cupón",
-      "YesStyle devuelve los impuestos de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda"
+      "En 2024 y 2025, en los días de 15% sin compra mínima, cualquier carrito recibió el descuento máximo del cupón",
+      "YesStyle devuelve los cargos de aduana en pedidos elegibles de menos de US$ 1.000, como crédito en la tienda"
     ],
     "cons": [
       "La fecha de fin y los días de 15% sin mínimo de 2026 aún no han salido: lo que viene después es una estimación según el historial",
@@ -57494,13 +57504,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El Black Friday de YesStyle ya está en marcha: la página principal tiene la Mega Sale, con ofertas por producto y banners de hasta 50% de descuento, y el cupón por tramos de esta semana da 8%, 10% o 15%. CECILIA010 se suma a él, en el campo Reward Code. Los días de 15% sin mínimo son lo que falta por llegar."
+          "El Black Friday de YesStyle ya está en marcha: la página principal tiene la Mega Sale, con ofertas por producto y banners de hasta 50% de descuento, y un cupón por tramos da 8%, 10% o 15%. CECILIA010 se suma a él, en el campo Reward Code. YesStyle aún no ha anunciado los días de 15% sin mínimo de 2026."
         ]
       },
       {
         "heading": "Cuándo empieza el Black Friday de YesStyle",
         "paragraphs": [
-          "YesStyle publica las reglas de cada cupón en el centro de ayuda del sitio, con día y hora de inicio y de fin. La tabla de abajo trae las fechas de 2025; en 2024, las fases siguieron el mismo orden y empezaron uno o dos días después. En 2026 la campaña ya empezó: el 3 de noviembre, la página principal de la tienda trae la \"Black Friday Mega Sale\", con ofertas por producto y banners de hasta 50% de descuento, y el cupón por tramos de la semana (8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199), que la tienda cambia cada pocos días. El envío estándar es gratis desde US$ 35. La fecha de fin y los días de 15% sin mínimo de 2026 aún no han salido."
+          "YesStyle publica las reglas de cada cupón en el centro de ayuda del sitio, con día y hora de inicio y de fin. La tabla de abajo trae las fechas de 2025; en 2024, las fases siguieron el mismo orden y empezaron uno o dos días después. En 2026 la campaña ya empezó: el 3 de noviembre, la página principal de la tienda trae la \"Black Friday Mega Sale\", con ofertas por producto y banners de hasta 50% de descuento, y el cupón por tramos de ese momento (8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199), que la tienda cambia cada pocos días: revisa el vigente antes de comprar. Que un cupón termine no significa que la campaña haya terminado. El envío estándar gratis desde US$ 35 depende del destino: el checkout muestra el tuyo. La fecha de fin y los días de 15% sin mínimo de 2026 aún no han salido."
         ],
         "comparisonTable": {
           "caption": "Cupones abiertos a todos los miembros en 2025, según las páginas de ayuda de YesStyle; cada fase dura hasta el inicio de la siguiente. Fechas en horario GMT, que es el que vale para la tienda.",
@@ -57580,8 +57590,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Carrito de US$ 199 o más:** el cupón por tramos ya da 15% cualquier día, el mismo porcentaje de los días sin mínimo. Lo que puede cambiar cerca del viernes es el precio promocional de cada producto, no el cupón.",
-          "**Carrito entre US$ 79 y US$ 199:** el cupón por tramos da 8% o 10%. En los días sin mínimo, el mismo carrito recibe 15%.",
-          "**Carrito de menos de US$ 79:** el cupón por tramos no da nada. Es el que más gana esperando los días de 15% sin mínimo."
+          "**Carrito entre US$ 79 y US$ 199:** el cupón por tramos da 8% o 10%. Si vuelven los días sin mínimo, el mismo carrito recibiría 15%.",
+          "**Carrito de menos de US$ 79:** el cupón por tramos no da nada. Si vuelven los días de 15% sin mínimo, es el que más gana esperando."
         ]
       },
       {
@@ -57642,7 +57652,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Envío e impuestos",
         "paragraphs": [
-          "El envío y el plazo aparecen en el checkout, y el cupón no descuenta el envío. Si hay que pagar impuestos cuando llegue el paquete, YesStyle reembolsa los impuestos y las tasas de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda. Lo que la tienda publica sobre el envío y cómo pedir el reembolso está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
+          "El envío y el plazo aparecen en el checkout, y el cupón no descuenta el envío. Si la aduana cobra cargos al llegar el paquete, YesStyle reembolsa esos cargos en pedidos elegibles de menos de US$ 1.000, como crédito en la tienda. El impuesto sobre las ventas, el IVA y el GST no están cubiertos, y el comprobante de pago debe llegar al servicio de atención al cliente en un plazo de 30 días desde su fecha. Lo que la tienda publica sobre el envío y cómo pedir el reembolso está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
         ]
       },
       {
@@ -57683,15 +57693,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuándo empieza y cuánto dura el Black Friday de YesStyle? Ya empezó: la página principal de la tienda trae la Black Friday Mega Sale y el cupón por tramos de la semana. YesStyle aún no ha publicado el fin; en 2024 y 2025, los cupones con el nombre Black Friday duraron hasta el Cyber Monday.",
+          "¿Cuándo empieza y cuánto dura el Black Friday de YesStyle? Ya empezó: la página principal de la tienda trae la Black Friday Mega Sale y un cupón por tramos. YesStyle aún no ha publicado el fin; en 2024 y 2025, los cupones con el nombre Black Friday duraron hasta el Cyber Monday.",
           "¿Cuál es el cupón de YesStyle en el Black Friday? Cambia cada pocos días. La página de YesStyle de este sitio muestra el código de la semana, con la fecha en que se comprobó.",
-          "¿El cupón del Black Friday de YesStyle tiene compra mínima? El cupón por tramos sí: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. En los días cercanos al viernes y al Cyber Monday, YesStyle suele abrir 15% sin compra mínima.",
+          "¿El cupón del Black Friday de YesStyle tiene compra mínima? El cupón por tramos sí: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. En 2024 y 2025, YesStyle abrió 15% sin compra mínima en los días cercanos al viernes y al Cyber Monday; para 2026 aún no hay nada anunciado.",
           "¿En YesStyle es mejor comprar en el Black Friday o en el Cyber Monday? En 2024 y 2025, los dos tuvieron 15% sin compra mínima, así que el tope del cupón fue el mismo. Lo que cambia de un día a otro es el precio promocional de cada producto.",
           "¿YesStyle tiene promociones fuera del Black Friday? Sí. El cupón por tramos, de 8%, 10% y 15%, funciona casi todo el año y cambia de nombre cada pocos días.",
           "¿CECILIA010 vale en el Black Friday? Sí. Va en el campo Reward Code, y las reglas de los cupones del Black Friday dicen que valen junto con los Reward Codes.",
           "¿Se pueden usar dos cupones de YesStyle en el mismo pedido? No: es un cupón por pedido. El código de recompensa es otra cosa y va en otro campo del checkout.",
           "¿Necesito una cuenta en YesStyle para usar el cupón del Black Friday? Sí. Los cupones son solo para miembros, y quien compra como invitado se queda sin el descuento.",
-          "¿Pagaré impuestos comprando en YesStyle? Puede haber un cobro cuando llegue el paquete. En pedidos de menos de US$ 1.000, YesStyle devuelve esos impuestos como crédito en la tienda, si envías el comprobante en un plazo de 30 días."
+          "¿Pagaré impuestos comprando en YesStyle? Puede haber un cobro cuando llegue el paquete. En pedidos elegibles de menos de US$ 1.000, YesStyle devuelve los cargos de aduana como crédito en la tienda, si envías el comprobante en un plazo de 30 días desde su fecha. El impuesto sobre las ventas, el IVA y el GST no están cubiertos."
         ]
       }
     ],
@@ -57733,11 +57743,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Le Black Friday de YesStyle est déjà en cours, avec Mega Sale et un coupon par palier de 8 à 15 %. Voyez où saisir le code CECILIA010 et quand arrivent les jours à 15 %.",
-    "metaDescription": "YesStyle a-t-il un Black Friday ? Oui, il est en cours : Mega Sale, coupon par palier de 8 à 15 %, jours à 15 % sans minimum et cumul avec le code récompense CECILIA010.",
+    "description": "Le Black Friday de YesStyle est déjà en cours, avec Mega Sale et un coupon par palier de 8 à 15 %. Voyez où saisir le code CECILIA010 et ce qu'il faut attendre des jours à 15 %.",
+    "metaDescription": "YesStyle a-t-il un Black Friday ? Oui, il est en cours : Mega Sale, coupon par palier de 8 à 15 % et cumul avec le code récompense CECILIA010.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -57749,8 +57759,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Calendrier officiel 2024 et 2025, tiré des pages de règles de chaque coupon",
       "Le code récompense se cumule avec le coupon YesStyle, y compris pendant le Black Friday",
-      "Les jours à 15 % sans minimum, n'importe quel panier obtient la remise maximale du coupon",
-      "YesStyle rembourse les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique"
+      "En 2024 et 2025, lors des jours à 15 % sans minimum, n'importe quel panier a obtenu la remise maximale du coupon",
+      "YesStyle rembourse les frais de douane sur les commandes éligibles de moins de 1 000 US$, sous forme de crédit en boutique"
     ],
     "cons": [
       "La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis : la suite est une estimation d'après l'historique",
@@ -57762,13 +57772,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle fait le Black Friday, et il est déjà en cours : la page d'accueil affiche la Mega Sale, avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier de la semaine donne 8 %, 10 % ou 15 %. CECILIA010 se cumule avec lui, dans le champ Reward Code. Les jours à 15 % sans minimum restent à venir."
+          "Oui, le Black Friday de YesStyle est en cours : la Mega Sale est à l'accueil, avec des bannières jusqu'à 50 % de remise, et un coupon par palier donne 8 %, 10 % ou 15 %. CECILIA010 se cumule avec lui, dans le champ Reward Code. Les jours à 15 % sans minimum de 2026 ne sont pas annoncés."
         ]
       },
       {
         "heading": "Quand commence le Black Friday de YesStyle",
         "paragraphs": [
-          "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier de la semaine (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours. La livraison standard est gratuite dès 35 US$. La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis."
+          "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier du moment (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours : vérifiez celui en cours avant d'acheter. La fin d'un coupon ne signifie pas la fin de la campagne. La livraison standard gratuite dès 35 US$ dépend de la destination : la page de paiement affiche la vôtre. La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis."
         ],
         "comparisonTable": {
           "caption": "Coupons ouverts à tous les membres en 2025, d'après les pages d'aide de YesStyle ; chaque phase dure jusqu'au début de la suivante. Dates en heure GMT, qui est celle qui compte pour la boutique.",
@@ -57848,8 +57858,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Panier de 199 US$ ou plus :** le coupon par palier donne déjà 15 % n'importe quel jour, le même pourcentage que les jours sans minimum. Ce qui peut changer autour du vendredi, c'est le prix promotionnel de chaque produit, pas le coupon.",
-          "**Panier entre 79 US$ et 199 US$ :** le coupon par palier donne 8 % ou 10 %. Les jours sans minimum, le même panier obtient 15 %.",
-          "**Panier de moins de 79 US$ :** le coupon par palier ne donne rien. C'est celui qui gagne le plus à attendre les jours à 15 % sans minimum."
+          "**Panier entre 79 US$ et 199 US$ :** le coupon par palier donne 8 % ou 10 %. Si les jours sans minimum reviennent, le même panier obtiendrait 15 %.",
+          "**Panier de moins de 79 US$ :** le coupon par palier ne donne rien. Si les jours à 15 % sans minimum reviennent, c'est celui qui gagne le plus à attendre."
         ]
       },
       {
@@ -57910,7 +57920,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Livraison et taxes",
         "paragraphs": [
-          "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les taxes et les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique. Ce que la boutique publie sur la livraison et la façon de demander le remboursement se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
+          "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si la douane taxe le colis à l'arrivée, YesStyle rembourse ces frais sur les commandes éligibles de moins de 1 000 US$, sous forme de crédit en boutique. La taxe de vente, la TVA et la GST ne sont pas couvertes, et le justificatif de paiement doit parvenir au service client dans les 30 jours suivant sa date. Ce que la boutique publie sur la livraison et la façon de demander le remboursement se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
         ]
       },
       {
@@ -57951,15 +57961,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quand commence le Black Friday de YesStyle et combien de temps dure-t-il ? Il a déjà commencé : la page d'accueil de la boutique affiche la Black Friday Mega Sale et le coupon par palier de la semaine. YesStyle n'a pas encore publié la fin ; en 2024 et 2025, les coupons portant le nom Black Friday ont duré jusqu'au Cyber Monday.",
+          "Quand commence le Black Friday de YesStyle et combien de temps dure-t-il ? Il a déjà commencé : la page d'accueil de la boutique affiche la Black Friday Mega Sale et un coupon par palier. YesStyle n'a pas encore publié la fin ; en 2024 et 2025, les coupons portant le nom Black Friday ont duré jusqu'au Cyber Monday.",
           "Quel est le coupon YesStyle pendant le Black Friday ? Il change tous les quelques jours. La page YesStyle de ce site affiche le code de la semaine, avec la date à laquelle il a été vérifié.",
-          "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. Les jours proches du vendredi et du Cyber Monday, YesStyle ouvre généralement 15 % sans minimum.",
+          "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. En 2024 et 2025, YesStyle a ouvert 15 % sans minimum les jours proches du vendredi et du Cyber Monday ; rien n'est encore annoncé pour 2026.",
           "Chez YesStyle, vaut-il mieux acheter pendant le Black Friday ou le Cyber Monday ? En 2024 et 2025, les deux ont eu 15 % sans minimum, donc le plafond du coupon a été le même. Ce qui change d'un jour à l'autre, c'est le prix promotionnel de chaque produit.",
           "YesStyle a-t-il des promotions en dehors du Black Friday ? Oui. Le coupon par palier, à 8 %, 10 % et 15 %, tourne presque toute l'année et change de nom tous les quelques jours.",
           "CECILIA010 est-il valable pendant le Black Friday ? Oui. Il va dans le champ Reward Code, et les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
           "Peut-on utiliser deux coupons YesStyle dans la même commande ? Non : c'est un coupon par commande. Le code récompense est autre chose et va dans un autre champ de la page de paiement.",
           "Faut-il un compte YesStyle pour utiliser le coupon du Black Friday ? Oui. Les coupons sont réservés aux membres, et qui commande en invité n'a pas la remise.",
-          "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes de moins de 1 000 US$, YesStyle rembourse ces taxes sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours."
+          "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes éligibles de moins de 1 000 US$, YesStyle rembourse les frais de douane sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours suivant sa date. La taxe de vente, la TVA et la GST ne sont pas couvertes."
         ]
       }
     ],
@@ -58001,11 +58011,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Der Black Friday von YesStyle läuft schon, mit Mega Sale und einem Staffelgutschein von 8 bis 15 %. So nutzen Sie den Reward Code CECILIA010 und wann die 15-%-Tage kommen.",
-    "metaDescription": "Hat YesStyle einen Black Friday? Ja, er läuft schon: Mega Sale, Staffelgutschein von 8 bis 15 %, 15-%-Tage ohne Mindestbestellwert und wie sich der Reward Code CECILIA010 addieren lässt.",
+    "description": "Der Black Friday von YesStyle läuft schon, mit Mega Sale und Staffelgutschein von 8 bis 15 %. So nutzen Sie den Reward Code CECILIA010 und was die 15-%-Tage bringen könnten.",
+    "metaDescription": "Hat YesStyle einen Black Friday? Ja, er läuft schon: Mega Sale, Staffelgutschein von 8 bis 15 % und wie sich der Reward Code CECILIA010 addieren lässt.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58017,8 +58027,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Offizieller Kalender von 2024 und 2025, aus den Regelseiten der einzelnen Gutscheine",
       "Der Reward Code lässt sich mit dem YesStyle-Gutschein addieren, auch am Black Friday",
-      "An den 15-%-Tagen ohne Mindestbestellwert bekommt jeder Warenkorb den Höchstrabatt des Gutscheins",
-      "YesStyle erstattet die Zollgebühren bei Bestellungen unter US$ 1.000 als Guthaben im Shop"
+      "2024 und 2025 bekam an den 15-%-Tagen ohne Mindestbestellwert jeder Warenkorb den Höchstrabatt des Gutscheins",
+      "YesStyle erstattet die Zollgebühren bei berechtigten Bestellungen unter US$ 1.000 als Guthaben im Shop"
     ],
     "cons": [
       "Das Enddatum und die 15-%-Tage ohne Mindestbestellwert für 2026 sind noch nicht veröffentlicht: Was danach kommt, ist eine Schätzung nach den Vorjahren",
@@ -58030,13 +58040,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ja, YesStyle macht einen Black Friday, und er läuft bereits: Auf der Startseite steht die Mega Sale mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt, und der Staffelgutschein der Woche gibt 8 %, 10 % oder 15 %. Der CECILIA010 lässt sich damit addieren, im Feld Reward Code. Die 15-%-Tage ohne Mindestbestellwert stehen noch aus."
+          "Ja, YesStyle macht einen Black Friday, und er läuft bereits: Auf der Startseite steht die Mega Sale mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt, und ein Staffelgutschein gibt 8 %, 10 % oder 15 %. Der CECILIA010 lässt sich damit addieren, im Feld Reward Code. Die 15-%-Tage ohne Mindestbestellwert hat YesStyle für 2026 noch nicht angekündigt."
         ]
       },
       {
         "heading": "Wann der Black Friday bei YesStyle beginnt",
         "paragraphs": [
-          "YesStyle veröffentlicht die Regeln jedes Gutscheins im Hilfecenter der Website, mit Tag und Uhrzeit für Beginn und Ende. Die Tabelle unten zeigt die Termine von 2025; 2024 folgten die Phasen in derselben Reihenfolge und begannen ein bis zwei Tage später. 2026 läuft die Aktion bereits: Am 3. November zeigt die Startseite des Shops die „Black Friday Mega Sale“ mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt sowie den Staffelgutschein der Woche (8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199), den der Shop alle paar Tage austauscht. Der Standardversand ist ab US$ 35 kostenlos. Das Enddatum und die 15-%-Tage ohne Mindestbestellwert für 2026 sind noch nicht veröffentlicht."
+          "YesStyle veröffentlicht die Regeln jedes Gutscheins im Hilfecenter der Website, mit Tag und Uhrzeit für Beginn und Ende. Die Tabelle unten zeigt die Termine von 2025; 2024 folgten die Phasen in derselben Reihenfolge und begannen ein bis zwei Tage später. 2026 läuft die Aktion bereits: Am 3. November zeigt die Startseite des Shops die „Black Friday Mega Sale“ mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt sowie den damaligen Staffelgutschein (8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199), den der Shop alle paar Tage austauscht; prüfen Sie vor dem Kauf den aktuellen. Dass ein Gutschein endet, heißt nicht, dass die Aktion vorbei ist. Ob der Standardversand ab US$ 35 kostenlos ist, hängt vom Zielort ab: Im Checkout sehen Sie Ihren. Das Enddatum und die 15-%-Tage ohne Mindestbestellwert für 2026 sind noch nicht veröffentlicht."
         ],
         "comparisonTable": {
           "caption": "Für alle Mitglieder offene Gutscheine 2025, nach den Hilfeseiten von YesStyle; jede Phase läuft bis zum Beginn der nächsten. Zeiten in GMT, das ist die Zeit, die für den Shop gilt.",
@@ -58064,7 +58074,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026 fällt der Black Friday auf den 27. November und der Cyber Monday auf den 30. November. Wenn YesStyle das Muster wiederholt, dürften die 15-%-Tage ohne Mindestbestellwert dürften um diese beiden Termine liegen. Das ist eine Schätzung nach den Vorjahren: Der Shop kann alles ändern, und dieser Ratgeber wird aktualisiert, sobald die Seiten für 2026 erscheinen.",
+          "2026 fällt der Black Friday auf den 27. November und der Cyber Monday auf den 30. November. Wenn YesStyle das Muster wiederholt, dürften die 15-%-Tage ohne Mindestbestellwert um diese beiden Termine liegen. Das ist eine Schätzung nach den Vorjahren: Der Shop kann alles ändern, und dieser Ratgeber wird aktualisiert, sobald die Seiten für 2026 erscheinen.",
           "Die Gutscheine wechseln zu einer festen Uhrzeit in GMT. 2025 wechselten die Staffelgutscheine um 2 Uhr GMT, und der 15-%-Gutschein ohne Mindestbestellwert begann um 8 Uhr GMT."
         ]
       },
@@ -58116,8 +58126,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Warenkorb ab US$ 199:** Der Staffelgutschein gibt schon an jedem Tag 15 %, denselben Prozentsatz wie die Tage ohne Mindestbestellwert. Was sich rund um den Freitag ändern kann, ist der Aktionspreis der einzelnen Produkte, nicht der Gutschein.",
-          "**Warenkorb zwischen US$ 79 und US$ 199:** Der Staffelgutschein gibt 8 % oder 10 %. An den Tagen ohne Mindestbestellwert bekommt derselbe Warenkorb 15 %.",
-          "**Warenkorb unter US$ 79:** Der Staffelgutschein gibt nichts. Hier lohnt das Warten auf die 15-%-Tage ohne Mindestbestellwert am meisten."
+          "**Warenkorb zwischen US$ 79 und US$ 199:** Der Staffelgutschein gibt 8 % oder 10 %. Kehren die Tage ohne Mindestbestellwert zurück, bekäme derselbe Warenkorb 15 %.",
+          "**Warenkorb unter US$ 79:** Der Staffelgutschein gibt nichts. Kehren die 15-%-Tage ohne Mindestbestellwert zurück, lohnt hier das Warten am meisten."
         ]
       },
       {
@@ -58178,7 +58188,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lieferung und Steuern",
         "paragraphs": [
-          "Versand und Lieferzeit erscheinen im Checkout, und der Gutschein mindert den Versand nicht. Wird das Paket bei der Ankunft besteuert, erstattet YesStyle die Steuern und Zollgebühren bei Bestellungen unter US$ 1.000 als Guthaben im Shop. Was der Shop zur Lieferung veröffentlicht und wie man die Erstattung beantragt, steht im [Lieferratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
+          "Versand und Lieferzeit erscheinen im Checkout, und der Gutschein mindert den Versand nicht. Erhebt der Zoll bei der Ankunft Abgaben auf das Paket, erstattet YesStyle diese Abgaben bei berechtigten Bestellungen unter US$ 1.000 als Guthaben im Shop. Umsatzsteuer, MwSt. und GST sind nicht abgedeckt, und der Zahlungsbeleg muss innerhalb von 30 Tagen nach seinem Datum beim Kundenservice eingehen. Was der Shop zur Lieferung veröffentlicht und wie man die Erstattung beantragt, steht im [Lieferratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
         ]
       },
       {
@@ -58219,15 +58229,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Wann beginnt der Black Friday bei YesStyle und wie lange dauert er? Er hat bereits begonnen: Auf der Startseite des Shops stehen die Black Friday Mega Sale und der Staffelgutschein der Woche. Das Ende hat YesStyle noch nicht veröffentlicht; 2024 und 2025 liefen die Gutscheine mit dem Namen Black Friday bis zum Cyber Monday.",
+          "Wann beginnt der Black Friday bei YesStyle und wie lange dauert er? Er hat bereits begonnen: Auf der Startseite des Shops stehen die Black Friday Mega Sale und ein Staffelgutschein. Das Ende hat YesStyle noch nicht veröffentlicht; 2024 und 2025 liefen die Gutscheine mit dem Namen Black Friday bis zum Cyber Monday.",
           "Welcher YesStyle-Gutschein gilt am Black Friday? Er wechselt alle paar Tage. Die YesStyle-Seite hier auf der Website zeigt den Code der Woche mit dem Datum, an dem er geprüft wurde.",
-          "Hat der Black-Friday-Gutschein von YesStyle einen Mindestbestellwert? Der Staffelgutschein schon: 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199. An den Tagen rund um den Freitag und den Cyber Monday öffnet YesStyle meist 15 % ohne Mindestbestellwert.",
+          "Hat der Black-Friday-Gutschein von YesStyle einen Mindestbestellwert? Der Staffelgutschein schon: 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199. 2024 und 2025 hat YesStyle an den Tagen rund um den Freitag und den Cyber Monday 15 % ohne Mindestbestellwert geöffnet; für 2026 ist noch nichts angekündigt.",
           "Kauft man bei YesStyle besser am Black Friday oder am Cyber Monday? 2024 und 2025 hatten beide 15 % ohne Mindestbestellwert, die Obergrenze des Gutscheins war also dieselbe. Was sich von einem Tag zum anderen ändert, ist der Aktionspreis der einzelnen Produkte.",
           "Hat YesStyle auch außerhalb des Black Friday Aktionen? Ja. Der Staffelgutschein mit 8 %, 10 % und 15 % läuft fast das ganze Jahr und wechselt alle paar Tage den Namen.",
           "Gilt der CECILIA010 am Black Friday? Ja. Er kommt in das Feld Reward Code, und die Regeln der Black-Friday-Gutscheine besagen, dass sie zusammen mit Reward Codes gelten.",
           "Kann man zwei YesStyle-Gutscheine in derselben Bestellung nutzen? Nein: Es gilt ein Gutschein pro Bestellung. Der Reward Code ist etwas anderes und kommt in ein anderes Feld des Checkouts.",
           "Braucht man ein YesStyle-Konto, um den Black-Friday-Gutschein zu nutzen? Ja. Die Gutscheine gelten nur für Mitglieder, und wer als Gast bestellt, bekommt den Rabatt nicht.",
-          "Zahle ich Steuern, wenn ich bei YesStyle kaufe? Bei der Ankunft des Pakets kann eine Abgabe anfallen. Bei Bestellungen unter US$ 1.000 erstattet YesStyle diese Steuern als Guthaben im Shop, wenn Sie den Beleg innerhalb von 30 Tagen schicken."
+          "Zahle ich Steuern, wenn ich bei YesStyle kaufe? Bei der Ankunft des Pakets kann eine Abgabe anfallen. Bei berechtigten Bestellungen unter US$ 1.000 erstattet YesStyle die Zollabgaben als Guthaben im Shop, wenn Sie den Beleg innerhalb von 30 Tagen nach seinem Datum schicken. Umsatzsteuer, MwSt. und GST sind nicht abgedeckt."
         ]
       }
     ],
@@ -58269,11 +58279,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Il Black Friday di YesStyle è già attivo, con Mega Sale e un coupon a scaglioni dall'8% al 15% in settimana. Scopri dove va il codice CECILIA010 e quando arrivano i giorni al 15%.",
-    "metaDescription": "YesStyle ha il Black Friday? Sì, è già attivo: Mega Sale, coupon a scaglioni dall'8% al 15%, giorni al 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
+    "description": "Il Black Friday di YesStyle è già attivo, con Mega Sale e un coupon a scaglioni dall'8% al 15%. Scopri dove va il codice CECILIA010 e cosa aspettarsi dai giorni al 15%.",
+    "metaDescription": "YesStyle ha il Black Friday? Sì, è già attivo: Mega Sale, coupon a scaglioni dall'8% al 15% e come sommare il codice ricompensa CECILIA010.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58285,8 +58295,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Calendario ufficiale 2024 e 2025, preso dalle pagine delle regole di ogni coupon",
       "Il codice ricompensa si somma al coupon di YesStyle, anche durante il Black Friday",
-      "Nei giorni al 15% senza minimo, qualsiasi carrello ottiene lo sconto massimo del coupon",
-      "YesStyle rimborsa le tasse doganali sugli ordini inferiori a US$ 1.000, come credito nel negozio"
+      "Nel 2024 e nel 2025, nei giorni al 15% senza minimo, qualsiasi carrello ha ottenuto lo sconto massimo del coupon",
+      "YesStyle rimborsa gli oneri doganali sugli ordini idonei inferiori a US$ 1.000, come credito nel negozio"
     ],
     "cons": [
       "La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti: il resto è una stima basata sullo storico",
@@ -58298,13 +58308,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle fa il Black Friday ed è già attivo: la home ha la Mega Sale, con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni della settimana dà l'8%, il 10% o il 15%. CECILIA010 si somma a esso, nel campo Reward Code. I giorni al 15% senza minimo devono ancora arrivare."
+          "Sì, YesStyle fa il Black Friday ed è già attivo: la home ha la Mega Sale, con offerte per prodotto e banner fino al 50% di sconto, e un coupon a scaglioni dà l'8%, il 10% o il 15%. CECILIA010 si somma a esso, nel campo Reward Code. I giorni al 15% senza minimo del 2026 non sono ancora annunciati."
         ]
       },
       {
         "heading": "Quando inizia il Black Friday di YesStyle",
         "paragraphs": [
-          "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Nel 2026 la campagna è già iniziata: il 3 novembre la home del negozio mostra la «Black Friday Mega Sale», con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni della settimana (8% sopra US$ 79, 10% sopra US$ 149 e 15% sopra US$ 199), che il negozio cambia ogni pochi giorni. La spedizione standard è gratuita sopra US$ 35. La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti."
+          "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Nel 2026 la campagna è già iniziata: il 3 novembre la home del negozio mostra la «Black Friday Mega Sale», con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni di quel momento (8% sopra US$ 79, 10% sopra US$ 149 e 15% sopra US$ 199), che il negozio cambia ogni pochi giorni: controlla quello attuale prima di comprare. La scadenza di un coupon non significa che la campagna sia finita. La spedizione standard gratuita sopra US$ 35 dipende dalla destinazione: il checkout mostra la tua. La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti."
         ],
         "comparisonTable": {
           "caption": "Coupon aperti a tutti i membri nel 2025, dalle pagine di assistenza di YesStyle; ogni fase dura fino all'inizio della successiva. Date in orario GMT, che è quello che vale per il negozio.",
@@ -58384,8 +58394,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Carrello da US$ 199 o più:** il coupon a scaglioni dà già il 15% in qualsiasi giorno, la stessa percentuale dei giorni senza minimo. Quello che può cambiare vicino al venerdì è il prezzo promozionale di ogni prodotto, non il coupon.",
-          "**Carrello tra US$ 79 e US$ 199:** il coupon a scaglioni dà l'8% o il 10%. Nei giorni senza minimo, lo stesso carrello ottiene il 15%.",
-          "**Carrello sotto US$ 79:** il coupon a scaglioni non dà nulla. È il carrello che guadagna di più aspettando i giorni al 15% senza minimo."
+          "**Carrello tra US$ 79 e US$ 199:** il coupon a scaglioni dà l'8% o il 10%. Se i giorni senza minimo tornano, lo stesso carrello otterrebbe il 15%.",
+          "**Carrello sotto US$ 79:** il coupon a scaglioni non dà nulla. Se i giorni al 15% senza minimo tornano, è il carrello che guadagna di più aspettando."
         ]
       },
       {
@@ -58446,7 +58456,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Consegna e tasse",
         "paragraphs": [
-          "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini inferiori a US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
+          "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se la dogana tassa il pacco all'arrivo, YesStyle rimborsa questi oneri sugli ordini idonei inferiori a US$ 1.000, come credito nel negozio. Imposta sulle vendite, IVA e GST non sono coperte, e la ricevuta di pagamento deve arrivare all'assistenza clienti entro 30 giorni dalla sua data. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
         ]
       },
       {
@@ -58487,15 +58497,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Quando inizia il Black Friday di YesStyle e quanto dura? È già iniziato: la home del negozio ha la Black Friday Mega Sale e il coupon a scaglioni della settimana. YesStyle non ha ancora pubblicato la fine; nel 2024 e nel 2025 i coupon con il nome Black Friday sono durati fino al Cyber Monday.",
+          "Quando inizia il Black Friday di YesStyle e quanto dura? È già iniziato: la home del negozio ha la Black Friday Mega Sale e un coupon a scaglioni. YesStyle non ha ancora pubblicato la fine; nel 2024 e nel 2025 i coupon con il nome Black Friday sono durati fino al Cyber Monday.",
           "Qual è il coupon di YesStyle nel Black Friday? Cambia ogni pochi giorni. La pagina di YesStyle qui sul sito mostra il codice della settimana, con la data in cui è stato controllato.",
-          "Il coupon del Black Friday di YesStyle ha un importo minimo? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nei giorni vicini al venerdì e al Cyber Monday, YesStyle di solito apre il 15% senza minimo.",
+          "Il coupon del Black Friday di YesStyle ha un importo minimo? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nel 2024 e nel 2025 YesStyle ha aperto il 15% senza minimo nei giorni vicini al venerdì e al Cyber Monday; per il 2026 non c'è ancora nulla di annunciato.",
           "Su YesStyle è meglio comprare nel Black Friday o nel Cyber Monday? Nel 2024 e nel 2025 entrambi hanno avuto il 15% senza minimo, quindi il tetto del coupon è stato lo stesso. Ciò che cambia da un giorno all'altro è il prezzo promozionale di ogni prodotto.",
           "YesStyle ha promozioni fuori dal Black Friday? Sì. Il coupon a scaglioni, dell'8%, 10% e 15%, resta attivo quasi tutto l'anno e cambia nome ogni pochi giorni.",
           "CECILIA010 vale nel Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
           "Si possono usare due coupon di YesStyle nello stesso ordine? No: è un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
           "Serve un account su YesStyle per usare il coupon del Black Friday? Sì. I coupon sono solo per i membri, e chi acquista come ospite resta senza sconto.",
-          "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini inferiori a US$ 1.000, YesStyle rimborsa queste tasse come credito nel negozio, se invii la ricevuta entro 30 giorni."
+          "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini idonei inferiori a US$ 1.000, YesStyle rimborsa gli oneri doganali come credito nel negozio, se invii la ricevuta entro 30 giorni dalla sua data. Imposta sulle vendite, IVA e GST non sono coperte."
         ]
       }
     ],
@@ -58537,11 +58547,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle은 블랙프라이데이를 할까요? 네, 지금 진행 중입니다. 11월 3일 스토어에 올라온 내용, 이번 주 구간별 쿠폰, 2024년과 2025년 일정, 최소 금액 없는 15% 데이, 그리고 리워드 코드 CECILIA010를 함께 쓰는 방법을 정리했습니다.",
+    "description": "YesStyle은 블랙프라이데이를 할까요? 네, 지금 진행 중입니다. 11월 3일 스토어에 올라온 내용, 구간별 쿠폰, 2024년과 2025년 일정, 최소 금액 없는 15% 데이, 그리고 리워드 코드 CECILIA010를 함께 쓰는 방법을 정리했습니다.",
     "metaDescription": "YesStyle 블랙프라이데이 세일을 하나요? 네, 진행 중입니다: Mega Sale, 8~15% 구간별 쿠폰, 최소 금액 없는 15% 데이, 리워드 코드 CECILIA010 함께 쓰는 법.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58553,8 +58563,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "2024년과 2025년 공식 일정, 각 쿠폰의 규정 페이지에서 확인",
       "리워드 코드는 YesStyle 쿠폰과 함께 쓸 수 있고, 블랙프라이데이에도 마찬가지",
-      "최소 금액 없는 15% 데이에는 어떤 장바구니든 쿠폰의 최대 할인을 받음",
-      "YesStyle은 US$ 1,000 미만 주문에서 낸 관세 등 세금을 스토어 크레딧으로 돌려줌"
+      "2024년과 2025년 최소 금액 없는 15% 데이에는 어떤 장바구니든 쿠폰의 최대 할인을 받았음",
+      "YesStyle은 대상이 되는 US$ 1,000 미만 주문에서 낸 관세 등 세금을 스토어 크레딧으로 돌려줌"
     ],
     "cons": [
       "2026년 종료일과 최소 금액 없는 15% 데이는 아직 나오지 않음: 앞으로의 일정은 과거 기록으로 한 추정",
@@ -58566,13 +58576,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "네, YesStyle은 블랙프라이데이를 하고 있고 이미 진행 중입니다. 홈에는 Mega Sale이 열려 상품별 특가와 최대 50% 할인 배너가 걸려 있고, 이번 주 구간별 쿠폰은 8%, 10%, 15%입니다. CECILIA010은 Reward Code 칸에 넣어 함께 쓸 수 있습니다. 최소 금액 없는 15% 데이는 아직 남아 있습니다."
+          "네, YesStyle은 블랙프라이데이를 하고 있고 이미 진행 중입니다. 홈에는 Mega Sale이 열려 상품별 특가와 최대 50% 할인 배너가 걸려 있고, 구간별 쿠폰은 8%, 10%, 15%입니다. CECILIA010은 Reward Code 칸에 넣어 함께 쓸 수 있습니다. YesStyle은 2026년 최소 금액 없는 15% 데이를 아직 발표하지 않았습니다."
         ]
       },
       {
         "heading": "YesStyle 블랙프라이데이는 언제 시작하나요",
         "paragraphs": [
-          "YesStyle은 각 쿠폰의 규정을 시작·종료 날짜와 시각까지 적어 사이트 고객센터에 올립니다. 아래 표는 2025년 일정입니다. 2024년에도 단계는 같은 순서로 진행됐고, 하루나 이틀 늦게 시작했습니다. 2026년에는 캠페인이 이미 시작됐습니다. 11월 3일 기준 스토어 홈에는 상품별 특가와 최대 50% 할인 배너가 걸린 “Black Friday Mega Sale”과 이번 주 구간별 쿠폰(US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%)이 있으며, 쿠폰은 스토어가 며칠마다 바꿉니다. 기본 배송은 US$ 35 이상 무료입니다. 2026년 종료일과 최소 금액 없는 15% 데이는 아직 나오지 않았습니다."
+          "YesStyle은 각 쿠폰의 규정을 시작·종료 날짜와 시각까지 적어 사이트 고객센터에 올립니다. 아래 표는 2025년 일정입니다. 2024년에도 단계는 같은 순서로 진행됐고, 하루나 이틀 늦게 시작했습니다. 2026년에는 캠페인이 이미 시작됐습니다. 11월 3일 기준 스토어 홈에는 상품별 특가와 최대 50% 할인 배너가 걸린 “Black Friday Mega Sale”과 구간별 쿠폰(US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%)이 있으며, 쿠폰은 스토어가 며칠마다 바꾸므로 구매 전에 현재 쿠폰을 확인하세요. 쿠폰이 끝났다고 캠페인이 끝난 것은 아닙니다. US$ 35 이상 기본 배송 무료는 배송지에 따라 다르며, 결제 화면에서 확인할 수 있습니다. 2026년 종료일과 최소 금액 없는 15% 데이는 아직 나오지 않았습니다."
         ],
         "comparisonTable": {
           "caption": "2025년에 모든 회원이 쓸 수 있던 쿠폰, YesStyle 도움말 페이지 기준. 각 단계는 다음 단계가 시작될 때까지 이어집니다. 날짜와 시각은 스토어 기준인 GMT입니다.",
@@ -58652,8 +58662,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**US$ 199 이상 장바구니:** 구간별 쿠폰이 아무 날이나 15%를 줍니다. 최소 금액 없는 날과 같은 비율입니다. 금요일 즈음에 달라질 수 있는 것은 쿠폰이 아니라 상품별 프로모션 가격입니다.",
-          "**US$ 79~199 장바구니:** 구간별 쿠폰은 8% 또는 10%입니다. 최소 금액 없는 날에는 같은 장바구니가 15%를 받습니다.",
-          "**US$ 79 미만 장바구니:** 구간별 쿠폰으로는 할인이 없습니다. 최소 금액 없는 15% 데이를 기다리면 가장 이득을 보는 쪽입니다."
+          "**US$ 79~199 장바구니:** 구간별 쿠폰은 8% 또는 10%입니다. 최소 금액 없는 날이 다시 오면 같은 장바구니가 15%를 받습니다.",
+          "**US$ 79 미만 장바구니:** 구간별 쿠폰으로는 할인이 없습니다. 최소 금액 없는 15% 데이가 다시 온다면 기다려서 가장 이득을 보는 쪽입니다."
         ]
       },
       {
@@ -58714,7 +58724,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "배송과 세금",
         "paragraphs": [
-          "배송비와 배송 기간은 결제 화면에 나오고, 쿠폰은 배송비에는 적용되지 않습니다. 도착했을 때 소포에 세금이 붙으면, YesStyle은 US$ 1,000 미만 주문의 세금과 관세를 스토어 크레딧으로 환급합니다. 스토어가 배송에 대해 공개한 내용과 환급 신청 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다."
+          "배송비와 배송 기간은 결제 화면에 나오고, 쿠폰은 배송비에는 적용되지 않습니다. 도착했을 때 세관에서 소포에 세금이 붙으면, YesStyle은 대상이 되는 US$ 1,000 미만 주문의 관세 등 비용을 스토어 크레딧으로 환급합니다. 판매세, VAT, GST는 대상이 아니며, 결제 영수증은 날짜로부터 30일 안에 고객센터로 보내야 합니다. 스토어가 배송에 대해 공개한 내용과 환급 신청 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다."
         ]
       },
       {
@@ -58755,15 +58765,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "YesStyle 블랙프라이데이는 언제 시작하고 얼마나 오래 가나요? 이미 시작했습니다. 스토어 홈에 Black Friday Mega Sale과 이번 주 구간별 쿠폰이 있습니다. YesStyle은 종료일을 아직 발표하지 않았고, 2024년과 2025년에는 Black Friday 이름의 쿠폰이 사이버 먼데이까지 이어졌습니다.",
+          "YesStyle 블랙프라이데이는 언제 시작하고 얼마나 오래 가나요? 이미 시작했습니다. 스토어 홈에 Black Friday Mega Sale과 구간별 쿠폰이 있습니다. YesStyle은 종료일을 아직 발표하지 않았고, 2024년과 2025년에는 Black Friday 이름의 쿠폰이 사이버 먼데이까지 이어졌습니다.",
           "블랙프라이데이에 YesStyle 쿠폰은 무엇인가요? 며칠마다 바뀝니다. 이 사이트의 YesStyle 페이지에 이번 주 코드가 확인한 날짜와 함께 나와 있습니다.",
-          "YesStyle 블랙프라이데이 쿠폰에는 최소 금액이 있나요? 구간별 쿠폰에는 있습니다. US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%입니다. 금요일과 사이버 먼데이 즈음에는 YesStyle이 최소 금액 없는 15%를 열어 주는 경우가 많습니다.",
+          "YesStyle 블랙프라이데이 쿠폰에는 최소 금액이 있나요? 구간별 쿠폰에는 있습니다. US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%입니다. 2024년과 2025년에는 금요일과 사이버 먼데이 즈음에 YesStyle이 최소 금액 없는 15%를 열었습니다. 2026년은 아직 발표되지 않았습니다.",
           "YesStyle은 블랙프라이데이와 사이버 먼데이 중 언제 사는 게 낫나요? 2024년과 2025년에는 둘 다 최소 금액 없는 15%였으므로 쿠폰 상한은 같았습니다. 날마다 달라지는 것은 상품별 프로모션 가격입니다.",
           "YesStyle은 블랙프라이데이 말고도 프로모션이 있나요? 있습니다. 8%, 10%, 15%의 구간별 쿠폰이 거의 일 년 내내 진행되고, 며칠마다 이름이 바뀝니다.",
           "CECILIA010은 블랙프라이데이에도 되나요? 됩니다. Reward Code 칸에 넣으며, 블랙프라이데이 쿠폰 규정에도 리워드 코드와 함께 쓸 수 있다고 되어 있습니다.",
           "YesStyle 쿠폰 두 개를 한 주문에 쓸 수 있나요? 안 됩니다. 주문당 쿠폰은 하나입니다. 리워드 코드는 다른 것이고 결제 화면의 다른 칸에 넣습니다.",
           "블랙프라이데이 쿠폰을 쓰려면 YesStyle 계정이 필요한가요? 필요합니다. 쿠폰은 회원 전용이고, 비회원으로 구매하면 할인을 받지 못합니다.",
-          "YesStyle에서 사면 세금을 내나요? 소포가 도착할 때 부과될 수 있습니다. US$ 1,000 미만 주문은 영수증을 30일 안에 보내면 YesStyle이 그 세금을 스토어 크레딧으로 돌려줍니다."
+          "YesStyle에서 사면 세금을 내나요? 소포가 도착할 때 부과될 수 있습니다. 대상이 되는 US$ 1,000 미만 주문은 영수증 날짜로부터 30일 안에 보내면 YesStyle이 그 관세 등 비용을 스토어 크레딧으로 돌려줍니다. 판매세, VAT, GST는 대상이 아닙니다."
         ]
       }
     ],
@@ -58805,11 +58815,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyleはブラックフライデーをやる？はい、すでに開催中です。11月3日時点のストアの内容、今週の段階式クーポン、2024年と2025年のスケジュール、最低金額なしの15%の日、そしてリワードコードCECILIA010の併用方法をまとめました。",
+    "description": "YesStyleはブラックフライデーをやる？はい、すでに開催中です。11月3日時点のストアの内容、段階式クーポン、2024年と2025年のスケジュール、最低金額なしの15%の日、そしてリワードコードCECILIA010の併用方法をまとめました。",
     "metaDescription": "YesStyleにブラックフライデーはある？はい、開催中です：Mega Sale、8〜15%の段階式クーポン、最低金額なしの15%の日、リワードコードCECILIA010の併用方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58821,8 +58831,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "2024年と2025年の公式スケジュールを、各クーポンのルールページから確認",
       "リワードコードはYesStyleのクーポンと併用でき、ブラックフライデーも同じ",
-      "最低金額なしの15%の日は、どのカートでもクーポンの最大割引が適用される",
-      "YesStyleは、US$1,000未満の注文にかかった関税などの税金を、ストアクレジットで返金する"
+      "2024年と2025年の最低金額なしの15%の日は、どのカートでもクーポンの最大割引が適用された",
+      "YesStyleは、対象となるUS$1,000未満の注文にかかった関税などの税金を、ストアクレジットで返金する"
     ],
     "cons": [
       "2026年の終了日と最低金額なしの15%の日はまだ未発表。この先の予定は過去の実績からの推定",
@@ -58834,13 +58844,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "YesStyleのブラックフライデーは、もう始まっています。ホームにはMega Saleがあり、商品ごとのセールと最大50%OFFのバナーが並び、今週の段階式クーポンは8%、10%、15%です。CECILIA010はReward Code欄に入れて併用できます。最低金額なしの15%の日は、これからです。"
+          "YesStyleのブラックフライデーは、もう始まっています。ホームにはMega Saleがあり、商品ごとのセールと最大50%OFFのバナーが並び、段階式クーポンは8%、10%、15%です。CECILIA010はReward Code欄に入れて併用できます。2026年の最低金額なしの15%の日は、YesStyleからまだ発表されていません。"
         ]
       },
       {
         "heading": "YesStyleのブラックフライデーはいつ始まる？",
         "paragraphs": [
-          "YesStyleは、各クーポンのルールを、開始日時と終了日時つきでサイトのヘルプセンターに公開しています。下の表は2025年の日程です。2024年も段階は同じ順番で、1〜2日遅れて始まりました。2026年はキャンペーンがすでに始まっています。11月3日時点で、ストアのホームには、商品ごとのセールと最大50%OFFのバナーが並ぶ「Black Friday Mega Sale」と、今週の段階式クーポン（US$79以上で8%、US$149以上で10%、US$199以上で15%）があり、クーポンはストアが数日ごとに替えます。通常配送はUS$35以上で無料です。2026年の終了日と最低金額なしの15%の日はまだ出ていません。"
+          "YesStyleは、各クーポンのルールを、開始日時と終了日時つきでサイトのヘルプセンターに公開しています。下の表は2025年の日程です。2024年も段階は同じ順番で、1〜2日遅れて始まりました。2026年はキャンペーンがすでに始まっています。11月3日時点で、ストアのホームには、商品ごとのセールと最大50%OFFのバナーが並ぶ「Black Friday Mega Sale」と、段階式クーポン（US$79以上で8%、US$149以上で10%、US$199以上で15%）があり、クーポンはストアが数日ごとに替えるため、購入前に最新のものを確認してください。クーポンが終わっても、キャンペーンが終わったわけではありません。通常配送のUS$35以上無料は配送先によって異なり、チェックアウトで確認できます。2026年の終了日と最低金額なしの15%の日はまだ出ていません。"
         ],
         "comparisonTable": {
           "caption": "2025年に全会員が使えたクーポン（YesStyleのヘルプページより）。各段階は次の段階が始まるまで続きます。日時はストアの基準であるGMTです。",
@@ -58889,7 +58899,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "US$149",
+              "US$79",
               "8%"
             ],
             [
@@ -58920,8 +58930,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**US$199以上のカート：**段階式クーポンで、いつでも15%になります。最低金額なしの日と同じ割引率です。金曜日の前後で変わりうるのは、クーポンではなく各商品のセール価格です。",
-          "**US$149〜US$199のカート：**段階式クーポンは8%か10%です。最低金額なしの日なら、同じカートが15%になります。",
-          "**US$149未満のカート：**段階式クーポンでは何も割引されません。最低金額なしの15%の日を待って得をするのは、このカートです。"
+          "**US$79〜US$199のカート：**段階式クーポンは8%か10%です。最低金額なしの日が戻れば、同じカートが15%になります。",
+          "**US$79未満のカート：**段階式クーポンでは何も割引されません。最低金額なしの15%の日が戻れば、待って得をするのは、このカートです。"
         ]
       },
       {
@@ -58938,7 +58948,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "先にログインしてからカートを作ってください。クーポンは会員限定です。",
-          "カートを作り、狙っている段階（US$149、US$149、US$199）を超えているか確認します。",
+          "カートを作り、狙っている段階（US$79、US$149、US$199）を超えているか確認します。",
           "その日のクーポンをCoupon Code欄に入力します。",
           "CECILIA010をReward Code欄に入力します。初回購入は5%、2回目以降は2%です。",
           "支払う前に、注文の概要で2つの割引が反映されているか確認します。"
@@ -58982,7 +58992,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "配送と税金",
         "paragraphs": [
-          "送料と配送日数はチェックアウトに表示され、クーポンは送料には使えません。荷物が到着時に課税された場合、YesStyleは、US$1,000未満の注文にかかった税金と関税を、ストアクレジットで返金します。ストアが配送について公開している内容と、返金の申請方法は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。"
+          "送料と配送日数はチェックアウトに表示され、クーポンは送料には使えません。荷物の到着時に税関で課税された場合、YesStyleは、対象となるUS$1,000未満の注文について、その関税などの費用をストアクレジットで返金します。売上税、VAT、GSTは対象外で、支払い領収書は日付から30日以内にカスタマーサービスへ送る必要があります。ストアが配送について公開している内容と、返金の申請方法は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。"
         ]
       },
       {
@@ -59023,15 +59033,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "YesStyleのブラックフライデーはいつ始まり、いつまで続きますか？もう始まっています。ストアのホームにBlack Friday Mega Saleと今週の段階式クーポンがあります。YesStyleは終了日をまだ発表していません。2024年と2025年は、「Black Friday」の名前のクーポンがサイバーマンデーまで続きました。",
+          "YesStyleのブラックフライデーはいつ始まり、いつまで続きますか？もう始まっています。ストアのホームにBlack Friday Mega Saleと段階式クーポンがあります。YesStyleは終了日をまだ発表していません。2024年と2025年は、「Black Friday」の名前のクーポンがサイバーマンデーまで続きました。",
           "ブラックフライデーのYesStyleのクーポンは何ですか？数日ごとに替わります。このサイトのYesStyleのページに、今週のコードが、確認した日付つきで載っています。",
-          "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$79以上で8%、US$149以上で10%、US$199以上で15%です。金曜日とサイバーマンデーの前後は、最低金額なしの15%になることが多いです。",
+          "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$79以上で8%、US$149以上で10%、US$199以上で15%です。2024年と2025年は、金曜日とサイバーマンデーの前後に最低金額なしの15%が開放されました。2026年はまだ発表されていません。",
           "YesStyleは、ブラックフライデーとサイバーマンデーのどちらで買うのがお得ですか？2024年と2025年は、どちらも最低金額なしの15%だったので、クーポンの上限は同じでした。日によって変わるのは、各商品のセール価格です。",
           "YesStyleにはブラックフライデー以外にもセールがありますか？あります。8%、10%、15%の段階式クーポンはほぼ一年中実施されていて、数日ごとに名前が替わります。",
           "CECILIA010はブラックフライデーでも使えますか？使えます。Reward Code欄に入力します。ブラックフライデーのクーポンのルールにも、リワードコードと併用できると書かれています。",
           "YesStyleのクーポンを同じ注文で2枚使えますか？使えません。1注文につきクーポンは1枚です。リワードコードは別のもので、チェックアウトの別の欄に入力します。",
           "YesStyleのブラックフライデーのクーポンを使うには、アカウントが必要ですか？必要です。クーポンは会員限定で、ゲスト購入では割引されません。",
-          "YesStyleで買うと税金はかかりますか？荷物の到着時に課税されることがあります。US$1,000未満の注文なら、領収書を30日以内に送ると、YesStyleがその税金をストアクレジットで返金します。"
+          "YesStyleで買うと税金はかかりますか？荷物の到着時に課税されることがあります。対象となるUS$1,000未満の注文なら、領収書の日付から30日以内に送ると、YesStyleがその関税などの費用をストアクレジットで返金します。売上税、VAT、GSTは対象外です。"
         ]
       }
     ],
@@ -59073,11 +59083,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 有黑色星期五嗎？有，而且已經開始。本文整理了 11 月 3 日商店頁面的內容、本週的階梯優惠券、2024 年與 2025 年日程、無最低消費的 15% 日子，以及如何疊加獎勵碼 CECILIA010。",
+    "description": "YesStyle 有黑色星期五嗎？有，而且已經開始。本文整理了 11 月 3 日商店頁面的內容、階梯優惠券、2024 年與 2025 年日程、無最低消費的 15% 日子，以及如何疊加獎勵碼 CECILIA010。",
     "metaDescription": "YesStyle 有黑色星期五嗎？有，已經開始：Mega Sale、8% 至 15% 的階梯優惠券、無最低消費的 15% 日子，以及獎勵碼 CECILIA010 的疊加方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59089,8 +59099,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "2024 年與 2025 年的官方日程，取自各優惠券的規則頁面",
       "獎勵碼可與 YesStyle 優惠券疊加，黑色星期五也一樣",
-      "在無最低消費的 15% 日子，任何購物車都能拿到優惠券的最高折扣",
-      "訂單低於 1,000 美元時，YesStyle 會以店鋪抵用金退還關稅等稅費"
+      "2024 年與 2025 年，在無最低消費的 15% 日子，任何購物車都拿到了優惠券的最高折扣",
+      "符合條件且低於 1,000 美元的訂單，YesStyle 會以店鋪抵用金退還關稅等稅費"
     ],
     "cons": [
       "2026 年的結束日期和無最低消費的 15% 日子尚未公布：之後的安排只是依往年紀錄的推測",
@@ -59102,13 +59112,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "先說結論",
         "paragraphs": [
-          "有，YesStyle 的黑色星期五已經開始。首頁上有 Mega Sale，商品各有特價，橫幅最高標 50% off；本週的階梯優惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 欄位，可與它疊加。無最低消費的 15% 日子還沒到。"
+          "有，YesStyle 的黑色星期五已經開始。首頁上有 Mega Sale，商品各有特價，橫幅最高標 50% off；階梯優惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 欄位，可與它疊加。YesStyle 尚未公布 2026 年無最低消費的 15% 日子。"
         ]
       },
       {
         "heading": "YesStyle 黑色星期五何時開始",
         "paragraphs": [
-          "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年活動已經開始：11 月 3 日，商店首頁有「Black Friday Mega Sale」，商品各有特價，橫幅最高標 50% off，還有本週的階梯優惠券（滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%），商店每隔幾天更換一次。標準運費滿 US$ 35 免運費。2026 年的結束日期和無最低消費的 15% 日子尚未公布。"
+          "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年活動已經開始：11 月 3 日，商店首頁有「Black Friday Mega Sale」，商品各有特價，橫幅最高標 50% off，還有當時的階梯優惠券（滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%），商店每隔幾天更換一次，購買前請確認目前有效的券。一張券到期，不代表活動結束。標準運費滿 US$ 35 免運費是否適用取決於送達地，結帳頁會顯示你的情況。2026 年的結束日期和無最低消費的 15% 日子尚未公布。"
         ],
         "comparisonTable": {
           "caption": "2025 年開放給所有會員的優惠券，取自 YesStyle 說明頁面；每個階段持續到下一階段開始。日期與時間採用 GMT，這是商店的計時標準。",
@@ -59188,8 +59198,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**購物車滿 US$ 199：**階梯優惠券任何一天都給 15%，與無最低消費的日子比例相同。接近週五可能變動的是每件商品的促銷價，而不是優惠券。",
-          "**購物車介於 US$ 79 到 US$ 199 之間：**階梯優惠券給 8% 或 10%。在無最低消費的日子，同一個購物車能拿到 15%。",
-          "**購物車低於 US$ 79：**階梯優惠券一毛也不折。等無最低消費的 15% 日子，這類購物車受益最多。"
+          "**購物車介於 US$ 79 到 US$ 199 之間：**階梯優惠券給 8% 或 10%。如果無最低消費的日子再次出現，同一個購物車能拿到 15%。",
+          "**購物車低於 US$ 79：**階梯優惠券一毛也不折。如果無最低消費的 15% 日子再次出現，對這類購物車來說，等待最划算。"
         ]
       },
       {
@@ -59250,7 +59260,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "配送與稅費",
         "paragraphs": [
-          "運費與送達時間會顯示在結帳頁，優惠券不折抵運費。如果包裹到貨時被課稅，YesStyle 會對 1,000 美元以下的訂單，以店鋪抵用金退還稅費與關稅。商店公布的配送資訊，以及如何申請退款，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
+          "運費與送達時間會顯示在結帳頁，優惠券不折抵運費。如果包裹到貨時被海關收取費用，YesStyle 會對符合條件且低於 1,000 美元的訂單，以店鋪抵用金退還這些關稅等費用。銷售稅、加值稅（VAT）與 GST 不在退還範圍內，付款憑證須在其日期起 30 天內寄給客服。商店公布的配送資訊，以及如何申請退款，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
         ]
       },
       {
@@ -59291,15 +59301,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "YesStyle 的黑色星期五何時開始、持續多久？已經開始：商店首頁有 Black Friday Mega Sale 和本週的階梯優惠券。YesStyle 還沒有公布結束日期；2024 年與 2025 年，名稱為 Black Friday 的優惠券一直持續到網購星期一。",
+          "YesStyle 的黑色星期五何時開始、持續多久？已經開始：商店首頁有 Black Friday Mega Sale 和階梯優惠券。YesStyle 還沒有公布結束日期；2024 年與 2025 年，名稱為 Black Friday 的優惠券一直持續到網購星期一。",
           "YesStyle 黑色星期五的優惠券是什麼？它每隔幾天換一次。本站的 YesStyle 頁面會顯示本週的代碼，並標明核對的日期。",
-          "YesStyle 黑色星期五的優惠券有最低消費嗎？階梯優惠券有：滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%。接近週五與網購星期一的幾天，YesStyle 通常會開放無最低消費的 15%。",
+          "YesStyle 黑色星期五的優惠券有最低消費嗎？階梯優惠券有：滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%。2024 年與 2025 年，YesStyle 在接近週五與網購星期一的幾天開放了無最低消費的 15%；2026 年尚未公布。",
           "在 YesStyle，黑色星期五和網購星期一哪個買比較划算？2024 年與 2025 年，兩者都是無最低消費的 15%，所以優惠券的上限相同。每天不同的是每件商品的促銷價。",
           "YesStyle 在黑色星期五以外也有促銷嗎？有。8%、10% 與 15% 的階梯優惠券幾乎全年都在，每隔幾天換一次名稱。",
           "CECILIA010 在黑色星期五能用嗎？能用。它填在 Reward Code 欄位，黑色星期五優惠券的規則也寫明可與獎勵碼一起使用。",
           "同一筆訂單能用兩張 YesStyle 優惠券嗎？不能：每筆訂單一張優惠券。獎勵碼是另一回事，填在結帳頁的另一個欄位。",
           "使用黑色星期五優惠券需要 YesStyle 帳號嗎？需要。優惠券僅限會員，以訪客身分購買拿不到折扣。",
-          "在 YesStyle 購物要繳稅嗎？包裹到貨時可能會被課稅。1,000 美元以下的訂單，如果你在 30 天內寄出憑證，YesStyle 會以店鋪抵用金退還這些稅費。"
+          "在 YesStyle 購物要繳稅嗎？包裹到貨時可能會被課稅。符合條件且低於 1,000 美元的訂單，如果你在憑證日期起 30 天內寄出憑證，YesStyle 會以店鋪抵用金退還關稅等費用。銷售稅、加值稅（VAT）與 GST 不在退還範圍內。"
         ]
       }
     ],
@@ -59341,11 +59351,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 有黑色星期五吗？有，而且已经开始。本文整理了 11 月 3 日商店页面的内容、本周的阶梯优惠券、2024 年和 2025 年日程、无最低消费的 15% 日子，以及如何叠加奖励码 CECILIA010。",
+    "description": "YesStyle 有黑色星期五吗？有，而且已经开始。本文整理了 11 月 3 日商店页面的内容、阶梯优惠券、2024 年和 2025 年日程、无最低消费的 15% 日子，以及如何叠加奖励码 CECILIA010。",
     "metaDescription": "YesStyle 有黑色星期五吗？有，已经开始：Mega Sale、8% 至 15% 的阶梯优惠券、无最低消费的 15% 日子，以及奖励码 CECILIA010 的叠加方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59357,8 +59367,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "2024 年和 2025 年的官方日程，取自各优惠券的规则页面",
       "奖励码可与 YesStyle 优惠券叠加，黑色星期五也一样",
-      "在无最低消费的 15% 日子，任何购物车都能拿到优惠券的最高折扣",
-      "订单低于 1,000 美元时，YesStyle 会以店铺抵用金退还关税等税费"
+      "2024 年和 2025 年，在无最低消费的 15% 日子，任何购物车都拿到了优惠券的最高折扣",
+      "符合条件且低于 1,000 美元的订单，YesStyle 会以店铺抵用金退还关税等税费"
     ],
     "cons": [
       "2026 年的结束日期和无最低消费的 15% 日子尚未公布：之后的安排只是根据往年记录的推测",
@@ -59370,13 +59380,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "先说结论",
         "paragraphs": [
-          "有，YesStyle 的黑色星期五已经开始。首页上有 Mega Sale，商品各有特价，横幅最高标 50% off；本周的阶梯优惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 栏位，可与它叠加。无最低消费的 15% 日子还没到。"
+          "有，YesStyle 的黑色星期五已经开始。首页上有 Mega Sale，商品各有特价，横幅最高标 50% off；阶梯优惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 栏位，可与它叠加。YesStyle 尚未公布 2026 年无最低消费的 15% 日子。"
         ]
       },
       {
         "heading": "YesStyle 黑色星期五何时开始",
         "paragraphs": [
-          "YesStyle 会在网站的帮助中心公布每张优惠券的规则，写明开始和结束的日期与时间。下表是 2025 年的日期。2024 年各阶段的顺序相同，只是晚一两天开始。2026 年活动已经开始：11 月 3 日，商店首页有“Black Friday Mega Sale”，商品各有特价，横幅最高标 50% off，还有本周的阶梯优惠券（满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%），商店每隔几天更换一次。标准运费满 US$ 35 免运费。2026 年的结束日期和无最低消费的 15% 日子尚未公布。"
+          "YesStyle 会在网站的帮助中心公布每张优惠券的规则，写明开始和结束的日期与时间。下表是 2025 年的日期。2024 年各阶段的顺序相同，只是晚一两天开始。2026 年活动已经开始：11 月 3 日，商店首页有“Black Friday Mega Sale”，商品各有特价，横幅最高标 50% off，还有当时的阶梯优惠券（满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%），商店每隔几天更换一次，购买前请确认当前有效的券。一张券到期，不代表活动结束。标准运费满 US$ 35 免运费是否适用取决于送达地，结账页会显示你的情况。2026 年的结束日期和无最低消费的 15% 日子尚未公布。"
         ],
         "comparisonTable": {
           "caption": "2025 年向所有会员开放的优惠券，取自 YesStyle 帮助页面；每个阶段持续到下一阶段开始。日期和时间采用 GMT，这是商店的计时标准。",
@@ -59456,8 +59466,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**购物车满 US$ 199：**阶梯优惠券任何一天都给 15%，与无最低消费的日子比例相同。临近周五可能变化的是每件商品的促销价，而不是优惠券。",
-          "**购物车在 US$ 79 到 US$ 199 之间：**阶梯优惠券给 8% 或 10%。在无最低消费的日子，同一个购物车能拿到 15%。",
-          "**购物车低于 US$ 79：**阶梯优惠券一分也不减。等无最低消费的 15% 日子，这类购物车受益最多。"
+          "**购物车在 US$ 79 到 US$ 199 之间：**阶梯优惠券给 8% 或 10%。如果无最低消费的日子再次出现，同一个购物车能拿到 15%。",
+          "**购物车低于 US$ 79：**阶梯优惠券一分也不减。如果无最低消费的 15% 日子再次出现，对这类购物车来说，等待最划算。"
         ]
       },
       {
@@ -59518,7 +59528,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "配送与税费",
         "paragraphs": [
-          "运费和送达时间会显示在结账页，优惠券不抵扣运费。如果包裹到货时被征税，YesStyle 会对 1,000 美元以下的订单，以店铺抵用金退还税费和关税。商店公布的配送信息，以及如何申请退款，请见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
+          "运费和送达时间会显示在结账页，优惠券不抵扣运费。如果包裹到货时被海关征收费用，YesStyle 会对符合条件且低于 1,000 美元的订单，以店铺抵用金退还这些关税等费用。销售税、增值税（VAT）和 GST 不在退还范围内，付款凭证需在其日期起 30 天内寄给客服。商店公布的配送信息，以及如何申请退款，请见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
         ]
       },
       {
@@ -59559,15 +59569,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "YesStyle 的黑色星期五何时开始、持续多久？已经开始：商店首页有 Black Friday Mega Sale 和本周的阶梯优惠券。YesStyle 还没有公布结束日期；2024 年和 2025 年，名称为 Black Friday 的优惠券一直持续到网络星期一。",
+          "YesStyle 的黑色星期五何时开始、持续多久？已经开始：商店首页有 Black Friday Mega Sale 和阶梯优惠券。YesStyle 还没有公布结束日期；2024 年和 2025 年，名称为 Black Friday 的优惠券一直持续到网络星期一。",
           "YesStyle 黑色星期五的优惠券是什么？它每隔几天换一次。本站的 YesStyle 页面会显示本周的代码，并标明核对的日期。",
-          "YesStyle 黑色星期五的优惠券有最低消费吗？阶梯优惠券有：满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%。临近周五和网络星期一的几天，YesStyle 通常会开放无最低消费的 15%。",
+          "YesStyle 黑色星期五的优惠券有最低消费吗？阶梯优惠券有：满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%。2024 年和 2025 年，YesStyle 在临近周五和网络星期一的几天开放了无最低消费的 15%；2026 年尚未公布。",
           "在 YesStyle，黑色星期五和网络星期一哪个买更划算？2024 年和 2025 年，两者都是无最低消费的 15%，所以优惠券的上限相同。每天不同的是每件商品的促销价。",
           "YesStyle 在黑色星期五以外也有促销吗？有。8%、10% 和 15% 的阶梯优惠券几乎全年都在，每隔几天换一次名称。",
           "CECILIA010 在黑色星期五能用吗？能用。它填在 Reward Code 栏位，黑色星期五优惠券的规则也写明可与奖励码一起使用。",
           "同一笔订单能用两张 YesStyle 优惠券吗？不能：每笔订单一张优惠券。奖励码是另一回事，填在结账页的另一个栏位。",
           "使用黑色星期五优惠券需要 YesStyle 账号吗？需要。优惠券仅限会员，以访客身份购买拿不到折扣。",
-          "在 YesStyle 购物要交税吗？包裹到货时可能会被征税。1,000 美元以下的订单，如果你在 30 天内寄出凭证，YesStyle 会以店铺抵用金退还这些税费。"
+          "在 YesStyle 购物要交税吗？包裹到货时可能会被征税。符合条件且低于 1,000 美元的订单，如果你在凭证日期起 30 天内寄出凭证，YesStyle 会以店铺抵用金退还关税等费用。销售税、增值税（VAT）和 GST 不在退还范围内。"
         ]
       }
     ],
@@ -59609,11 +59619,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Veja o calendário, o imposto zero até US$ 50 e o código de indicação 4CW5Y.",
-    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases de desconto do histórico e imposto zero até US$ 50.",
+    "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Calendário, imposto de importação zero até US$ 50 e código de indicação 4CW5Y.",
+    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases do histórico e imposto de importação zero até US$ 50.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
@@ -59671,7 +59681,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta. Se a SHEIN repetir o padrão, as ofertas de Black Friday entram depois do 11.11 e vão até o fim do mês. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
-          "Nos três anos, o desconto máximo subiu perto do fim: quem pode esperar ganha, e quem precisa de tamanho difícil não espera a última fase."
+          "Nos três anos, o desconto máximo subiu perto do fim. Isso não garante que a peça que você quer fique mais barata: compare o preço final e o estoque; se precisa de tamanho difícil, não espere a última fase."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
@@ -59701,12 +59711,12 @@ export const reviewsData: unknown[] = [
         "heading": "O imposto na Black Friday: o que mudou em 2026",
         "paragraphs": [
           "A SHEIN está no Remessa Conforme, então o imposto aparece no checkout, junto do pedido. Em regra não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 12 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502/2026 confirmou que o governo pode manter a alíquota zero nessa faixa.",
-          "A conta vale por pedido e usa o valor do produto mais o frete, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
+          "A conta vale por pedido e usa o valor do produto mais o frete e o seguro, quando houver, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
         ],
         "comparisonTable": {
           "caption": "Pela página de impostos da SHEIN. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
           "headers": [
-            "Pedido (produto + frete)",
+            "Pedido (produto + frete + seguro, se houver)",
             "Imposto de importação",
             "ICMS",
             "Exemplo da SHEIN, sem o subsídio"
@@ -59796,7 +59806,7 @@ export const reviewsData: unknown[] = [
         "heading": "Antes de pagar: o que conferir",
         "bullets": [
           "Se o produto é de Envio Nacional ou internacional.",
-          "Se o pedido internacional ficou em até US$ 50, contando o frete e já com os descontos.",
+          "Se o pedido internacional ficou em até US$ 50, contando frete e seguro, se houver, e já com os descontos.",
           "Quanto deu o ICMS no resumo do pedido.",
           "Se o cupom entrou e se os pontos foram abatidos.",
           "O prazo de entrega, se a compra for presente de Natal.",
@@ -59810,7 +59820,7 @@ export const reviewsData: unknown[] = [
           "A Black Friday da SHEIN vai até quando? Em 2024 e 2025, foi até o fim de novembro. Em 2023, até o sábado depois da Black Friday. A de 2026 ainda não tem data de fim.",
           "O que é o 11.11 da SHEIN? É a promoção do Dia dos Solteiros, no dia 11 do mês 11. A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases de desconto até o fim do mês.",
           "Tem imposto nas compras da SHEIN na Black Friday? Tem ICMS, de 17% a 20% conforme o estado, em toda compra internacional. O imposto de importação é zero nos pedidos de até US$ 50 e de 60%, menos US$ 30 no valor do imposto, acima disso.",
-          "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto e frete, já com os descontos. Acima disso, o imposto de importação volta.",
+          "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto, frete e seguro (se houver), já com os descontos. Acima disso, o imposto de importação volta.",
           "Produto de Envio Nacional paga imposto de importação? Não. Os produtos de Envio Nacional já estão no Brasil e não pagam imposto de importação.",
           "Posso usar mais de um cupom na SHEIN? Um cupom da SHEIN por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para somar o cupom da loja desse vendedor.",
           "O 4CW5Y é cupom de desconto? Não. É o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e vê as condições para a sua conta.",
@@ -59856,7 +59866,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN Black Friday 2026: it falls on Nov 27, SHEIN is in its 11.11 sale and has not announced the campaign. Past phases, \"up to 90%\", points and returns.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59866,7 +59876,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "In the last three years, the deals started before Black Friday and kept going after it",
-      "Returns within 20 days, with the first return of each order free"
+      "Returns within 20 days under SHEIN's published terms, with the first return of each order free"
     ],
     "cons": [
       "The \"up to 90%\" applies to some items, not the whole cart",
@@ -59911,7 +59921,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "In 2026, 11.11 falls on a Wednesday and Black Friday on a Friday. If SHEIN repeats the pattern, the Black Friday deals will come after 11.11 and run to the end of the month. This is an estimate based on past years, and this guide is updated when SHEIN announces the 2026 campaign.",
-          "In all three years, the maximum discount went up near the end: if you can wait, you gain, and if you need a hard-to-find size, don't wait for the last phase."
+          "In all three years, the maximum discount went up near the end. That does not mean the item you want gets cheaper: compare the final price and stock, and if you need a hard-to-find size, don't wait for the last phase."
         ]
       },
       {
@@ -59951,7 +59961,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Exchanges and returns after Black Friday",
         "bullets": [
-          "**Deadline:** up to 20 days after you receive it, even if you simply did not like the piece.",
+          "**Deadline:** up to 20 days after you receive it, even if you simply did not like the piece. That is the window SHEIN publishes; the policy of your country's SHEIN site, shown on your order page, is the one that applies.",
           "**Items that can only be returned within 7 days:** bodysuits, swimwear, underwear, earrings and piercings, and pet products, plus cosmetics, party items and craft items with the seal broken. These can only be returned within the 7-day withdrawal period, counted from delivery.",
           "**Coupon:** on a partial return, the coupon counts as used and is not given back; if the order falls below the minimum, the difference comes out of the refund.",
           "**Tax:** the import tax paid is not refunded once the order has shipped."
@@ -59974,7 +59984,7 @@ export const reviewsData: unknown[] = [
           "Can I use more than one coupon on SHEIN? One SHEIN coupon per order.",
           "Is 4CW5Y a discount coupon? No. It is Cecília's SHEIN referral code: you search for the code in the SHEIN app and see the conditions for your account.",
           "Is there free shipping on SHEIN's Black Friday? Free shipping changes with each phase of the campaign: check yours in the cart before paying.",
-          "How long do I have to return what I bought on Black Friday? Up to 20 days after you receive it. Underwear, swimwear, bodysuits, earrings and a few other items can only be returned within 7 days."
+          "How long do I have to return what I bought on Black Friday? Up to 20 days after you receive it, under SHEIN's published terms (check the policy of your country's SHEIN site on your order page). Underwear, swimwear, bodysuits, earrings and a few other items can only be returned within 7 days."
         ]
       }
     ],
@@ -60014,7 +60024,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday SHEIN 2026: cae el 27/11, SHEIN está en el 11.11 y no anunció la campaña. Historial de fases, el «hasta 90 %», puntos y devolución.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60024,7 +60034,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "En los tres últimos años, las ofertas empezaron antes del Black Friday y siguieron después",
-      "Devolución en hasta 20 días, con la primera devolución de cada pedido gratis"
+      "Devolución en hasta 20 días según las condiciones publicadas por SHEIN, con la primera devolución de cada pedido gratis"
     ],
     "cons": [
       "El \"hasta 90%\" vale para algunos artículos, no para todo el carrito",
@@ -60069,7 +60079,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "En 2026, el 11.11 cae en miércoles y el Black Friday en viernes. Si SHEIN repite el patrón, las ofertas de Black Friday entrarán después del 11.11 y durarán hasta fin de mes. Es una estimación según el historial, y esta guía se actualiza cuando SHEIN anuncie la campaña de 2026.",
-          "En los tres años, el descuento máximo subió cerca del final: quien puede esperar gana, y quien necesita una talla difícil no espera a la última fase."
+          "En los tres años, el descuento máximo subió cerca del final. Eso no garantiza que el artículo que quieres salga más barato: compara el precio final y el stock, y si necesitas una talla difícil, no esperes a la última fase."
         ]
       },
       {
@@ -60109,7 +60119,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cambios y devoluciones después del Black Friday",
         "bullets": [
-          "**Plazo:** hasta 20 días después de recibirlo, aunque simplemente no te haya gustado la prenda.",
+          "**Plazo:** hasta 20 días después de recibirlo, aunque simplemente no te haya gustado la prenda. Es el plazo que publica SHEIN; vale la política de la web de SHEIN de tu país, que aparece en la página de tu pedido.",
           "**Artículos que solo se devuelven en 7 días:** bodies, ropa de playa, ropa interior, aretes y piercings, productos para mascotas, y cosméticos, artículos de fiesta y de manualidades con el sello abierto. Estos solo se pueden devolver dentro del plazo de arrepentimiento de 7 días, contado desde la entrega.",
           "**Cupón:** en una devolución parcial, el cupón cuenta como usado y no se devuelve; si el pedido queda por debajo del mínimo, la diferencia sale del reembolso.",
           "**Impuesto:** el impuesto de importación pagado no se devuelve después de que el pedido fue enviado."
@@ -60132,7 +60142,7 @@ export const reviewsData: unknown[] = [
           "¿Puedo usar más de un cupón en SHEIN? Un cupón de SHEIN por pedido.",
           "¿El 4CW5Y es un cupón de descuento? No. Es el código de referido de Cecília en SHEIN: buscas el código en la app de SHEIN y ves las condiciones para tu cuenta.",
           "¿Hay envío gratis en el Black Friday de SHEIN? El envío gratis cambia en cada fase de la campaña: revisa el de tu pedido en el carrito antes de pagar.",
-          "¿Cuánto tiempo tengo para devolver lo que compré en el Black Friday? Hasta 20 días después de recibirlo. Ropa interior, ropa de playa, bodies, aretes y algunos otros artículos solo se devuelven dentro de 7 días."
+          "¿Cuánto tiempo tengo para devolver lo que compré en el Black Friday? Hasta 20 días después de recibirlo, según las condiciones publicadas por SHEIN (revisa la política de la web de SHEIN de tu país en la página de tu pedido). Ropa interior, ropa de playa, bodies, aretes y algunos otros artículos solo se devuelven dentro de 7 días."
         ]
       }
     ],
@@ -60172,7 +60182,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday SHEIN 2026 : le 27/11, SHEIN est au 11.11 et n'a pas annoncé la campagne. Historique des phases, le « jusqu'à 90 % », points et retour.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60182,7 +60192,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "Ces trois dernières années, les offres ont commencé avant le Black Friday et ont continué après",
-      "Retour sous 20 jours, le premier retour de chaque commande étant gratuit"
+      "Retour sous 20 jours selon les conditions publiées par SHEIN, le premier retour de chaque commande étant gratuit"
     ],
     "cons": [
       "Le « jusqu'à 90 % » vaut pour certains articles, pas pour tout le panier",
@@ -60227,7 +60237,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "En 2026, le 11.11 tombe un mercredi et le Black Friday un vendredi. Si SHEIN reprend le schéma, les offres du Black Friday arriveront après le 11.11 et dureront jusqu'à la fin du mois. C'est une estimation d'après l'historique, et ce guide est mis à jour quand SHEIN annoncera la campagne de 2026.",
-          "Ces trois années, la remise maximale a grimpé vers la fin : qui peut attendre y gagne, et qui cherche une taille difficile à trouver n'attend pas la dernière phase."
+          "Ces trois années, la remise maximale a grimpé vers la fin. Cela ne garantit pas que l'article voulu sera moins cher : comparez le prix final et le stock, et si vous cherchez une taille difficile à trouver, n'attendez pas la dernière phase."
         ]
       },
       {
@@ -60267,7 +60277,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Échanges et retours après le Black Friday",
         "bullets": [
-          "**Délai :** jusqu'à 20 jours après la réception, même si la pièce ne vous a simplement pas plu.",
+          "**Délai :** jusqu'à 20 jours après la réception, même si la pièce ne vous a simplement pas plu. C'est le délai publié par SHEIN ; c'est la politique du site SHEIN de votre pays, indiquée sur la page de votre commande, qui s'applique.",
           "**Articles qui ne se retournent que sous 7 jours :** bodies, maillots et vêtements de plage, sous-vêtements, boucles d'oreilles et piercings, produits pour animaux, ainsi que cosmétiques, articles de fête et de loisirs créatifs au scellé ouvert. Ceux-ci ne peuvent être retournés que dans le délai de rétractation de 7 jours, compté à partir de la livraison.",
           "**Coupon :** en cas de retour partiel, le coupon compte comme utilisé et n'est pas rendu ; si la commande passe sous le minimum, la différence est retirée du remboursement.",
           "**Taxe :** la taxe d'importation payée n'est pas remboursée une fois la commande expédiée."
@@ -60290,7 +60300,7 @@ export const reviewsData: unknown[] = [
           "Puis-je utiliser plus d'un coupon sur SHEIN ? Un coupon SHEIN par commande.",
           "Le 4CW5Y est-il un coupon de réduction ? Non. C'est le code de parrainage SHEIN de Cecília : vous recherchez le code dans l'appli SHEIN et voyez les conditions pour votre compte.",
           "La livraison est-elle gratuite pendant le Black Friday de SHEIN ? La livraison gratuite change à chaque phase de la campagne : vérifiez celle de votre commande dans le panier avant de payer.",
-          "De combien de temps est-ce que je dispose pour retourner mes achats du Black Friday ? Jusqu'à 20 jours après la réception. Sous-vêtements, maillots, bodies, boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
+          "De combien de temps est-ce que je dispose pour retourner mes achats du Black Friday ? Jusqu'à 20 jours après la réception, selon les conditions publiées par SHEIN (vérifiez la politique du site SHEIN de votre pays sur la page de votre commande). Sous-vêtements, maillots, bodies, boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
         ]
       }
     ],
@@ -60327,10 +60337,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Der Black Friday 2026 fällt auf den 27. November, und SHEIN, derzeit beim 11.11, hat die Aktion noch nicht angekündigt. Kalender von 2023 bis 2025, Gutscheine, Punkte und Rückgabe.",
-    "metaDescription": "Black Friday SHEIN 2026: fällt auf den 27.11., SHEIN ist beim 11.11 und hat die Aktion nicht angekündigt. Phasen der Vorjahre, „bis zu 90 %“, Punkte, Rückgabe.",
+    "metaDescription": "Black Friday SHEIN 2026: SHEIN ist beim 11.11 und hat die Aktion noch nicht angekündigt. Phasen der Vorjahre, „bis zu 90 %“, Punkte, Rückgabe.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60340,7 +60350,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "In den letzten drei Jahren begannen die Angebote vor dem Black Friday und liefen danach weiter",
-      "Rückgabe innerhalb von 20 Tagen, die erste Rückgabe jeder Bestellung ist kostenlos"
+      "Rückgabe innerhalb von 20 Tagen nach den veröffentlichten SHEIN-Bedingungen, die erste Rückgabe jeder Bestellung ist kostenlos"
     ],
     "cons": [
       "Das „bis zu 90 %“ gilt für einzelne Artikel, nicht für den ganzen Warenkorb",
@@ -60385,7 +60395,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026 fällt der 11.11 auf einen Mittwoch und der Black Friday auf einen Freitag. Wenn SHEIN das Muster wiederholt, kommen die Black-Friday-Angebote nach dem 11.11 und laufen bis Monatsende. Das ist eine Schätzung nach den Vorjahren, und dieser Ratgeber wird aktualisiert, sobald SHEIN die Aktion 2026 ankündigt.",
-          "In allen drei Jahren stieg der Höchstrabatt gegen Ende: Wer warten kann, gewinnt, und wer eine schwer zu findende Größe braucht, wartet nicht auf die letzte Phase."
+          "In allen drei Jahren stieg der Höchstrabatt gegen Ende. Das heißt nicht, dass der gewünschte Artikel günstiger wird: Vergleichen Sie Endpreis und Bestand, und wer eine schwer zu findende Größe braucht, wartet nicht auf die letzte Phase."
         ]
       },
       {
@@ -60425,7 +60435,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Umtausch und Rückgabe nach dem Black Friday",
         "bullets": [
-          "**Frist:** bis zu 20 Tage nach Erhalt, auch wenn Ihnen das Teil einfach nicht gefallen hat.",
+          "**Frist:** bis zu 20 Tage nach Erhalt, auch wenn Ihnen das Teil einfach nicht gefallen hat. Das ist die von SHEIN veröffentlichte Frist; maßgeblich ist die Rückgaberegelung der SHEIN-Seite Ihres Landes, die auf der Seite Ihrer Bestellung steht.",
           "**Artikel, die nur innerhalb von 7 Tagen zurückgehen:** Bodys, Bademode, Unterwäsche, Ohrringe und Piercings, Tierbedarf sowie Kosmetik, Partyartikel und Bastelbedarf mit geöffnetem Siegel. Diese können nur innerhalb der Widerrufsfrist von 7 Tagen zurückgegeben werden, gerechnet ab Lieferung.",
           "**Gutschein:** Bei einer Teilrückgabe gilt der Gutschein als eingelöst und wird nicht zurückgegeben; fällt die Bestellung unter den Mindestwert, wird die Differenz von der Erstattung abgezogen.",
           "**Steuer:** Der gezahlte Einfuhrzoll wird nicht erstattet, sobald die Bestellung versandt wurde."
@@ -60448,7 +60458,7 @@ export const reviewsData: unknown[] = [
           "Kann ich bei SHEIN mehr als einen Gutschein nutzen? Ein SHEIN-Gutschein pro Bestellung.",
           "Ist 4CW5Y ein Rabattgutschein? Nein. Es ist Cecílias SHEIN-Empfehlungscode: Sie suchen den Code in der SHEIN-App und sehen die Bedingungen für Ihr Konto.",
           "Gibt es am Black Friday von SHEIN kostenlosen Versand? Der kostenlose Versand ändert sich mit jeder Phase der Aktion: Prüfen Sie den Ihrer Bestellung im Warenkorb, bevor Sie bezahlen.",
-          "Wie lange habe ich Zeit, am Black Friday Gekauftes zurückzugeben? Bis zu 20 Tage nach Erhalt. Unterwäsche, Bademode, Bodys, Ohrringe und einige andere Artikel gehen nur innerhalb von 7 Tagen zurück."
+          "Wie lange habe ich Zeit, am Black Friday Gekauftes zurückzugeben? Bis zu 20 Tage nach Erhalt, nach den veröffentlichten SHEIN-Bedingungen (prüfen Sie die Regelung der SHEIN-Seite Ihres Landes auf der Seite Ihrer Bestellung). Unterwäsche, Bademode, Bodys, Ohrringe und einige andere Artikel gehen nur innerhalb von 7 Tagen zurück."
         ]
       }
     ],
@@ -60488,7 +60498,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday SHEIN 2026: cade il 27/11, SHEIN è nell'11.11 e non ha annunciato la campagna. Storico delle fasi, il «fino al 90%», punti e reso.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60498,7 +60508,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "Negli ultimi tre anni le offerte sono iniziate prima del Black Friday e sono continuate dopo",
-      "Reso entro 20 giorni, con il primo reso di ogni ordine gratuito"
+      "Reso entro 20 giorni secondo le condizioni pubblicate da SHEIN, con il primo reso di ogni ordine gratuito"
     ],
     "cons": [
       "Il «fino al 90%» vale per alcuni articoli, non per tutto il carrello",
@@ -60543,7 +60553,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Nel 2026 l'11.11 cade di mercoledì e il Black Friday di venerdì. Se SHEIN ripete lo schema, le offerte del Black Friday arriveranno dopo l'11.11 e andranno fino a fine mese. È una stima basata sullo storico, e questa guida viene aggiornata quando SHEIN annuncerà la campagna del 2026.",
-          "In tutti e tre gli anni lo sconto massimo è salito verso la fine: chi può aspettare ci guadagna, e chi cerca una taglia difficile da trovare non aspetta l'ultima fase."
+          "In tutti e tre gli anni lo sconto massimo è salito verso la fine. Non significa che l'articolo che vuoi costi meno: confronta prezzo finale e disponibilità, e se cerchi una taglia difficile da trovare non aspettare l'ultima fase."
         ]
       },
       {
@@ -60583,7 +60593,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cambi e resi dopo il Black Friday",
         "bullets": [
-          "**Termine:** fino a 20 giorni dopo la ricezione, anche se il capo semplicemente non ti è piaciuto.",
+          "**Termine:** fino a 20 giorni dopo la ricezione, anche se il capo semplicemente non ti è piaciuto. È il termine pubblicato da SHEIN; vale la politica del sito SHEIN del tuo paese, che trovi nella pagina del tuo ordine.",
           "**Articoli che si rendono solo entro 7 giorni:** body, costumi da bagno, intimo, orecchini e piercing, prodotti per animali, oltre a cosmetici, articoli per feste e per il fai da te con il sigillo aperto. Questi si possono rendere solo entro il termine di recesso di 7 giorni, contato dalla consegna.",
           "**Coupon:** in un reso parziale il coupon conta come usato e non viene restituito; se l'ordine scende sotto il minimo, la differenza viene tolta dal rimborso.",
           "**Imposta:** l'imposta di importazione pagata non viene rimborsata dopo che l'ordine è stato spedito."
@@ -60606,7 +60616,7 @@ export const reviewsData: unknown[] = [
           "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine.",
           "Il 4CW5Y è un coupon sconto? No. È il codice invito SHEIN di Cecília: cerchi il codice nell'app SHEIN e vedi le condizioni per il tuo account.",
           "C'è la spedizione gratuita nel Black Friday di SHEIN? La spedizione gratuita cambia a ogni fase della campagna: controlla quella del tuo ordine nel carrello prima di pagare.",
-          "Quanto tempo ho per rendere ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione. Intimo, costumi da bagno, body, orecchini e alcuni altri articoli si rendono solo entro 7 giorni."
+          "Quanto tempo ho per rendere ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione, secondo le condizioni pubblicate da SHEIN (controlla la politica del sito SHEIN del tuo paese nella pagina del tuo ordine). Intimo, costumi da bagno, body, orecchini e alcuni altri articoli si rendono solo entro 7 giorni."
         ]
       }
     ],
@@ -60646,7 +60656,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 블랙프라이데이 2026: 11월 27일, SHEIN은 11.11 세일 중이며 아직 미발표. 지난 단계, '최대 90%', 포인트, 반품.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60656,7 +60666,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "지난 3년간 할인은 블랙프라이데이 전에 시작해 그 뒤로도 이어졌습니다",
-      "20일 안에 반품할 수 있고, 주문마다 첫 반품은 무료입니다"
+      "SHEIN이 공개한 조건으로 20일 안에 반품할 수 있고, 주문마다 첫 반품은 무료입니다"
     ],
     "cons": [
       "'최대 90%'는 일부 상품에만 해당하며 장바구니 전체가 아닙니다",
@@ -60701,7 +60711,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026년에는 11.11이 수요일, 블랙프라이데이가 금요일입니다. SHEIN이 같은 패턴을 되풀이한다면 블랙프라이데이 할인은 11.11 이후에 시작해 월말까지 이어질 것입니다. 지난 기록에 따른 추정이며, SHEIN이 2026년 캠페인을 발표하면 이 가이드를 업데이트합니다.",
-          "3년 모두 최대 할인율은 끝으로 갈수록 올랐습니다. 기다릴 수 있는 사람은 이득을 보고, 구하기 어려운 사이즈가 필요한 사람은 마지막 단계까지 기다리지 마세요."
+          "3년 모두 최대 할인율은 끝으로 갈수록 올랐습니다. 그렇다고 원하는 상품이 더 싸지는 것은 아니니 최종 가격과 재고를 비교하세요. 구하기 어려운 사이즈가 필요하다면 마지막 단계까지 기다리지 마세요."
         ]
       },
       {
@@ -60741,7 +60751,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "블랙프라이데이 이후 교환과 반품",
         "bullets": [
-          "**기간:** 수령 후 20일 이내. 단순히 마음에 들지 않아도 반품할 수 있습니다.",
+          "**기간:** 수령 후 20일 이내. 단순히 마음에 들지 않아도 반품할 수 있습니다. SHEIN이 공개한 기간이며, 실제로는 주문 페이지에 나오는 해당 국가 SHEIN 사이트의 반품 정책이 적용됩니다.",
           "**7일 안에만 반품되는 상품:** 보디수트, 수영복, 속옷, 귀걸이와 피어싱, 반려동물용품, 그리고 봉인을 뜯은 화장품, 파티용품, 공예용품. 이 상품들은 배송일부터 7일의 청약 철회 기간 안에서만 반품할 수 있습니다.",
           "**쿠폰:** 부분 반품이면 쿠폰은 사용한 것으로 처리되어 돌아오지 않습니다. 주문이 최소 금액 아래로 내려가면 그 차액이 환불액에서 빠집니다.",
           "**세금:** 낸 수입세는 주문이 발송된 뒤에는 돌려받지 못합니다."
@@ -60764,7 +60774,7 @@ export const reviewsData: unknown[] = [
           "SHEIN에서 쿠폰을 두 개 이상 쓸 수 있나요? SHEIN 쿠폰은 주문당 하나입니다.",
           "4CW5Y는 할인 쿠폰인가요? 아니요. Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 계정의 조건을 볼 수 있습니다.",
           "SHEIN 블랙프라이데이에 무료 배송이 있나요? 무료 배송은 캠페인 단계마다 달라집니다. 결제 전에 장바구니에서 주문의 배송비를 확인하세요.",
-          "블랙프라이데이에 산 상품은 얼마나 반품할 수 있나요? 수령 후 20일 이내입니다. 속옷, 수영복, 보디수트, 귀걸이 등 일부 상품은 7일 안에만 반품됩니다."
+          "블랙프라이데이에 산 상품은 얼마나 반품할 수 있나요? SHEIN이 공개한 조건으로는 수령 후 20일 이내입니다(해당 국가 SHEIN 사이트의 반품 정책은 주문 페이지에서 확인하세요). 속옷, 수영복, 보디수트, 귀걸이 등 일부 상품은 7일 안에만 반품됩니다."
         ]
       }
     ],
@@ -60804,7 +60814,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN ブラックフライデー 2026：11月27日。SHEINは11.11セール中で未発表。過去のフェーズ、「最大90%」、ポイント、返品。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60814,7 +60824,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "過去3年間、セールはブラックフライデーの前に始まり、その後も続きました",
-      "20日以内に返品でき、各注文の最初の返品は無料です"
+      "SHEINの公開条件では20日以内に返品でき、各注文の最初の返品は無料です"
     ],
     "cons": [
       "「最大90%」は一部の商品が対象で、カート全体ではありません",
@@ -60859,7 +60869,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026年は、11.11が水曜日、ブラックフライデーが金曜日にあたります。SHEINが同じパターンを繰り返すなら、ブラックフライデーのセールは11.11の後に始まり、月末まで続くはずです。これは過去の実績からの推定で、SHEINが2026年のキャンペーンを発表したら、このガイドを更新します。",
-          "3年とも、最大割引率は終盤に向けて上がりました。待てる人は得をしますが、見つけにくいサイズが必要な人は、最後のフェーズまで待たないでください。"
+          "3年とも、最大割引率は終盤に向けて上がりました。ただし、欲しい商品が安くなるとは限りません。最終価格と在庫を比べ、見つけにくいサイズが必要な人は、最後のフェーズまで待たないでください。"
         ]
       },
       {
@@ -60899,7 +60909,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ブラックフライデーのあとの交換と返品",
         "bullets": [
-          "**期間：** 受け取りから20日以内。気に入らなかっただけでも返品できます。",
+          "**期間：** 受け取りから20日以内。気に入らなかっただけでも返品できます。これはSHEINが公開している期間です。実際には、注文ページに表示されるお住まいの国のSHEINサイトの返品ポリシーが適用されます。",
           "**7日以内しか返品できない商品：** ボディスーツ、水着、下着、ピアスとイヤリング、ペット用品、そして開封済みの化粧品、パーティー用品、手芸用品。これらは、配達日から数える7日間の撤回期間内にのみ返品できます。",
           "**クーポン：** 一部返品の場合、クーポンは使用済みとして扱われ、戻りません。注文が最低金額を下回る場合は、その差額が返金額から引かれます。",
           "**税金：** 支払った輸入税は、注文の発送後は戻りません。"
@@ -60922,7 +60932,7 @@ export const reviewsData: unknown[] = [
           "SHEINでクーポンを複数使えますか？SHEINのクーポンは1注文につき1枚です。",
           "4CW5Yは割引クーポンですか？いいえ。CecíliaのSHEIN紹介コードです。SHEINのアプリでコードを検索すると、ご自身のアカウントの条件が表示されます。",
           "SHEINのブラックフライデーは送料無料ですか？送料無料はキャンペーンのフェーズごとに変わります。支払う前に、カートでご自分の注文の送料を確認してください。",
-          "ブラックフライデーに買った商品は、どのくらいの期間返品できますか？受け取りから20日以内です。下着、水着、ボディスーツ、ピアスなど一部の商品は、7日以内にしか返品できません。"
+          "ブラックフライデーに買った商品は、どのくらいの期間返品できますか？SHEINの公開条件では、受け取りから20日以内です（お住まいの国のSHEINサイトの返品ポリシーは注文ページで確認してください）。下着、水着、ボディスーツ、ピアスなど一部の商品は、7日以内にしか返品できません。"
         ]
       }
     ],
@@ -60962,7 +60972,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，SHEIN 正辦 11.11、尚未公布。往年階段、「最高 90%」、點數與退貨。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60972,7 +60982,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "過去三年，優惠都在黑色星期五之前開始，並在之後持續",
-      "20 天內可退貨，每筆訂單的第一次退貨免費"
+      "按 SHEIN 公布的條件，20 天內可退貨，每筆訂單的第一次退貨免費"
     ],
     "cons": [
       "「最高 90%」只適用於部分商品，不是整個購物車",
@@ -61017,7 +61027,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用相同的模式，黑色星期五的優惠會在 11.11 之後到來，持續到月底。這是依往年所做的推估，等 SHEIN 公布 2026 年的活動後，本指南會跟著更新。",
-          "三年來，最高折扣都在接近月底時調高：等得起的人比較划算，需要不好買的尺寸的人，別等到最後一個階段。"
+          "三年來，最高折扣都在接近月底時調高。但這不代表你想買的商品會更便宜：請比較最終價格和庫存，需要不好買的尺寸的人，別等到最後一個階段。"
         ]
       },
       {
@@ -61057,7 +61067,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "黑色星期五之後的換貨與退貨",
         "bullets": [
-          "**期限：** 收貨後 20 天內，即使只是不喜歡也可以退。",
+          "**期限：** 收貨後 20 天內，即使只是不喜歡也可以退。這是 SHEIN 公布的期限，實際以訂單頁面顯示的所在國家 SHEIN 站點的退貨政策為準。",
           "**只能 7 天內退的商品：** 連身衣、泳裝、內衣、耳環與穿孔飾品、寵物用品，以及已拆封的化妝品、派對用品與手作用品。這些商品只能在自送達日起算的 7 天猶豫期內退貨。",
           "**優惠券：** 部分退貨時，優惠券視為已使用，不會退回；如果訂單低於最低消費，差額會從退款中扣除。",
           "**稅金：** 訂單寄出之後，已繳的進口稅不會退還。"
@@ -61080,7 +61090,7 @@ export const reviewsData: unknown[] = [
           "在 SHEIN 可以同時使用多張優惠券嗎？每筆訂單只能使用一張 SHEIN 優惠券。",
           "4CW5Y 是折扣優惠券嗎？不是。它是 Cecília 的 SHEIN 推薦碼：你在 SHEIN App 裡搜尋這個碼，就能看到適用於你帳號的條件。",
           "SHEIN 黑色星期五有免運費嗎？免運費會隨活動階段改變：付款前，請在購物車裡確認你這筆訂單的運費。",
-          "黑色星期五買的東西，多久內可以退貨？收貨後 20 天內。內衣、泳裝、連身衣、耳環等部分商品只能在 7 天內退貨。"
+          "黑色星期五買的東西，多久內可以退貨？按 SHEIN 公布的條件，收貨後 20 天內（請在訂單頁面查看所在國家 SHEIN 站點的退貨政策）。內衣、泳裝、連身衣、耳環等部分商品只能在 7 天內退貨。"
         ]
       }
     ],
@@ -61120,7 +61130,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，SHEIN 正办 11.11、尚未公布。往年阶段、“最高 90%”、积分与退货。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -61130,7 +61140,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "过去三年，优惠都在黑色星期五之前开始，并在之后继续",
-      "20 天内可退货，每笔订单的第一次退货免费"
+      "按 SHEIN 公布的条件，20 天内可退货，每笔订单的第一次退货免费"
     ],
     "cons": [
       "“最高 90%”只适用于部分商品，不是整个购物车",
@@ -61175,7 +61185,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用同样的模式，黑色星期五的优惠会在 11.11 之后到来，持续到月底。这是根据往年做的推测，等 SHEIN 公布 2026 年的活动后，本指南会随之更新。",
-          "三年来，最高折扣都在接近月底时提高：等得起的人更划算，需要难买尺码的人不要等到最后一个阶段。"
+          "三年来，最高折扣都在接近月底时提高。但这不代表你想买的商品会更便宜：请比较最终价格和库存，需要难买尺码的人不要等到最后一个阶段。"
         ]
       },
       {
@@ -61215,7 +61225,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "黑色星期五之后的换货与退货",
         "bullets": [
-          "**期限：** 收货后 20 天内，即使只是不喜欢也可以退。",
+          "**期限：** 收货后 20 天内，即使只是不喜欢也可以退。这是 SHEIN 公布的期限，实际以订单页面显示的所在国家 SHEIN 站点的退货政策为准。",
           "**只能 7 天内退的商品：** 连体衣、泳装、内衣、耳环和穿孔饰品、宠物用品，以及已拆封的化妆品、派对用品和手工艺用品。这些商品只能在自送达日起算的 7 天反悔期内退货。",
           "**优惠券：** 部分退货时，优惠券视为已使用，不会退回；如果订单低于最低消费，差额会从退款中扣除。",
           "**税金：** 订单发出之后，已缴的进口税不会退还。"
@@ -61238,7 +61248,7 @@ export const reviewsData: unknown[] = [
           "在 SHEIN 可以同时用多张优惠券吗？每笔订单只能用一张 SHEIN 优惠券。",
           "4CW5Y 是折扣优惠券吗？不是。它是 Cecília 的 SHEIN 推荐码：你在 SHEIN App 里搜索这个码，就能看到适用于你账户的条件。",
           "SHEIN 黑色星期五有免运费吗？免运费会随活动阶段变化：付款前，请在购物车里确认你这笔订单的运费。",
-          "黑色星期五买的东西，多久内可以退货？收货后 20 天内。内衣、泳装、连体衣、耳环等部分商品只能在 7 天内退货。"
+          "黑色星期五买的东西，多久内可以退货？按 SHEIN 公布的条件，收货后 20 天内（请在订单页面查看所在国家 SHEIN 站点的退货政策）。内衣、泳装、连体衣、耳环等部分商品只能在 7 天内退货。"
         ]
       }
     ],
@@ -65631,10 +65641,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a SHEIN é uma loja legítima, operada no Brasil por uma empresa registrada. Veja o que pesa na decisão, como prazo, imposto e devolução, e o que conferir antes de pagar.",
-    "metaDescription": "SHEIN é confiável, com empresa no Brasil e nota 7,5 no Reclame Aqui: pesquise 4CW5Y no app da SHEIN, código de indicação.",
+    "metaDescription": "SHEIN é confiável, com empresa no Brasil e reputação Boa no Reclame Aqui: pesquise 4CW5Y no app da SHEIN, código de indicação.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/shein-e-confiavel-capa-discover.webp",
@@ -65647,7 +65657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui é Boa. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um e o que conferir antes de pagar."
+          "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui era Boa na última consulta. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um e o que conferir antes de pagar."
         ]
       },
       {
@@ -65686,7 +65696,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10. Os números abaixo são dos seis meses até 30 de setembro de 2026, consultados em 28/10/2026."
+          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10. Os números abaixo são dos seis meses até 30 de setembro de 2026, consultados em 28/10/2026. É uma fotografia desse período, não a nota de hoje."
         ],
         "comparisonTable": {
           "caption": "Perfil da SHEIN no Reclame Aqui, na janela de seis meses descrita acima; as duas últimas linhas são dos últimos três anos.",
@@ -65802,18 +65812,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na SHEIN?",
         "paragraphs": [
-          "Sim, desde que você compre pelo site ou pelo aplicativo oficial. Nos últimos seis meses, a SHEIN tinha reputação Boa, com nota 7,5 de 10; os percentuais de resposta e solução estão no quadro acima.",
+          "Sim, desde que você compre pelo site ou pelo aplicativo oficial. Na janela de seis meses do quadro acima, a SHEIN tinha reputação Boa, com nota 7,5 de 10; os percentuais de resposta e solução estão lá.",
           "O problema mais citado é produto não recebido, então confira o prazo na página do pedido, o imposto no resumo e guarde a confirmação da compra."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui; os números estão no quadro acima.",
+          "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui na janela consultada; os números estão no quadro acima.",
           "É seguro comprar na SHEIN com cartão de crédito? A SHEIN aceita cartão brasileiro em até 6 vezes e diz que não coleta o número do cartão internacional. Compre só pelo site oficial ou pelo aplicativo.",
           "A SHEIN é de que país? A SHEIN nasceu na China e tem sede em Singapura, segundo o Financial Times; em 2026, o fundador disse que as raízes da empresa estão em Guangdong, segundo a BBC e o The Straits Times. No Brasil, quem opera a loja é a In Glow Brasil.",
           "O que a SHEIN vende? Roupa feminina, masculina e infantil, sapatos, bolsas, joias, beleza, casa e decoração, eletrônicos, brinquedos, itens para pets e até alimentos. Parte é da marca SHEIN, e parte vem de outros fornecedores.",
-          "A SHEIN tem Reclame Aqui? Tem, com reputação \"Boa\"; os números da janela estão no quadro 'O que o Reclame Aqui mostra', acima.",
+          "A SHEIN tem Reclame Aqui? Tem, com reputação \"Boa\" na janela consultada; os números estão no quadro 'O que o Reclame Aqui mostra', acima.",
           "Quanto tempo demora a entrega da SHEIN no Brasil? O pedido internacional leva de 3 a 5 dias para ser processado, e o prazo de entrega aparece na página do pedido.",
           "A SHEIN cobra taxa? Toda compra internacional paga ICMS de 17% a 20%, e o imposto de importação é zero nos pedidos de até US$ 50. A tabela e o exemplo de cálculo estão no guia de Black Friday da SHEIN.",
           "O que fazer se o pedido da SHEIN não chegar? Fale com o atendimento em até 90 dias do pagamento. Se o pedido aparece como entregue e não chegou, o prazo é de 60 dias a partir da entrega.",
@@ -66043,6 +66053,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿SHEIN es confiable y segura? Quién opera los sitios de España y México, de qué país es, si es seguro pagar, la devolución, la aduana y qué revisar antes de pagar.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -66129,7 +66140,7 @@ export const reviewsData: unknown[] = [
           "**México (shein.com.mx):** devolución hasta 30 días desde la recepción."
         ],
         "postParagraphs": [
-          "Desde el 1 de julio de 2026, la UE cobra 3 € de derecho de aduana por categoría de producto en los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Esa regla vale para España, que es de la UE, y no para México.",
+          "Desde el 1 de julio de 2026, la UE cobra 3 € de derecho de aduana por categoría de producto en los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Esta regla vale para España, que es de la UE, y no para México.",
           "Fuera de la UE, los impuestos de importación dependen del país. Revísalos en el checkout antes de pagar."
         ]
       },
@@ -66182,7 +66193,7 @@ export const reviewsData: unknown[] = [
           "¿Qué vende SHEIN? Ropa de mujer, de hombre y de niños, zapatos, bolsas, bisutería, belleza, hogar, electrónica, juguetes y productos para mascotas, entre otras cosas. Parte es de la marca SHEIN, y parte viene de otros proveedores.",
           "¿Quién opera SHEIN en España y en México? En España, Infinite Styles Services Co., Limited (“ISSL”). En México, “SHEIN”, con domicilio en Salamanca 87, Colonia Roma Norte, Ciudad de México.",
           "¿Cuál es el plazo de devolución de SHEIN? En España, 14 días por ley desde la recepción, y la mayoría de los artículos hasta 30 días después de recibirlos según la política de SHEIN; lencería, ropa interior y bisutería solo dentro de los 14 días. En México, hasta 30 días desde la recepción.",
-          "¿Hay aduana en los pedidos de SHEIN? En España, la UE cobra 3 € de derecho de aduana por categoría de producto en los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Esa regla no vale para México: revisa los impuestos de importación en el checkout antes de pagar.",
+          "¿Hay aduana en los pedidos de SHEIN? En España, la UE cobra 3 € de derecho de aduana por categoría de producto en los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Esta regla no vale para México: revisa los impuestos de importación en el checkout antes de pagar.",
           "¿Cómo sé si el sitio de SHEIN es el oficial? Compra solo en el sitio oficial de tu mercado (es.shein.com en España, shein.com.mx en México) o en la app de SHEIN descargada de la tienda de aplicaciones oficial de tu teléfono.",
           "¿4CW5Y es un cupón? No. Es el código de referido de Cecília para SHEIN, que se busca en el buscador de SHEIN, no en el campo de cupón."
         ]
@@ -66230,6 +66241,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN est-il fiable et sûr ? Qui l'exploite en France, d'où vient l'entreprise, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -66295,7 +66307,7 @@ export const reviewsData: unknown[] = [
           "**France (fr.shein.com) :** droit de rétractation légal de 14 jours, à compter de la réception. Selon la politique commerciale de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception. Certains articles, comme la lingerie, les sous-vêtements et les bijoux fantaisie, ne se retournent que dans ces 14 jours."
         ],
         "postParagraphs": [
-          "Depuis le 1er juillet 2026, l'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382)."
+          "Depuis le 1er juillet 2026, l'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382)."
         ]
       },
       {
@@ -66347,7 +66359,7 @@ export const reviewsData: unknown[] = [
           "Que vend SHEIN ? Des vêtements pour femmes, hommes et enfants, des chaussures, des sacs, des bijoux, des produits de beauté, des articles pour la maison, de l'électronique et des articles pour animaux, entre autres. Une partie est de la marque SHEIN, et une partie vient d'autres fournisseurs.",
           "Qui exploite SHEIN en France ? Infinite Styles Services Co., Limited (« ISSL »), selon la politique de confidentialité du site. Le site du groupe, sheingroup.com, appartient à Roadget Business Pte. Ltd., de Singapour.",
           "Quel est le délai de retour chez SHEIN ? 14 jours de rétractation légale, à compter de la réception, et la plupart des articles jusqu'à 30 jours après la réception selon la politique de SHEIN. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours.",
-          "Y a-t-il des frais de douane sur les commandes SHEIN ? L'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382).",
+          "Y a-t-il des frais de douane sur les commandes SHEIN ? L'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382).",
           "Comment savoir si le site SHEIN est le site officiel ? Achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'application SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone.",
           "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília pour SHEIN, qui se cherche dans la barre de recherche de SHEIN, pas dans le champ des coupons."
         ]
@@ -66395,6 +66407,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Ist SHEIN seriös und sicher? Betreiber in Deutschland, Herkunft, Daten, Rückgabefristen ab Erhalt, EU-Zoll von € 3, Verfahren und Mitteilung der EU-Behörden.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -66455,7 +66468,7 @@ export const reviewsData: unknown[] = [
         "heading": "Rückgabe und Zoll",
         "paragraphs": [
           "Für Bestellungen über de.shein.com beträgt das gesetzliche Widerrufsrecht 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden. Einige Artikel, zum Beispiel Lingerie, Unterwäsche und Modeschmuck, können nur innerhalb der 14 Tage zurückgegeben werden. Quelle: Rückgaberichtlinie der SHEIN-Website für Deutschland, eingesehen am 12.10.2026.",
-          "Beim Zoll gilt seit dem 1. Juli 2026 eine EU-Regel: Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen im Wert von bis zu 150 €, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen."
+          "Beim Zoll gilt seit dem 1. Juli 2026 eine EU-Regel: Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen."
         ]
       },
       {
@@ -66507,7 +66520,7 @@ export const reviewsData: unknown[] = [
           "Was verkauft SHEIN? Unter anderem Damen-, Herren- und Kinderkleidung, Schuhe, Taschen, Schmuck, Beauty-Produkte, Artikel für Haus und Wohnen, Elektronik, Spielzeug und Haustierzubehör. Ein Teil stammt von der Marke SHEIN, ein Teil von anderen Lieferanten.",
           "Wer betreibt SHEIN in Deutschland? Laut der Datenschutzerklärung von de.shein.com betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
           "Wie lange kann ich eine Bestellung bei SHEIN zurückgeben? Das gesetzliche Widerrufsrecht gilt 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden, einige Artikel wie Lingerie, Unterwäsche und Modeschmuck nur innerhalb der 14 Tage.",
-          "Muss ich bei SHEIN Zoll zahlen? Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen im Wert von bis zu 150 €, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen.",
+          "Muss ich bei SHEIN Zoll zahlen? Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen.",
           "Woran erkenne ich die offizielle SHEIN-Website? Die Adresse für Deutschland ist de.shein.com. Die App ist die von SHEIN im offiziellen App-Store Ihres Smartphones.",
           "Ist 4CW5Y ein Gutschein? Nein. Es ist der Empfehlungscode von Cecília bei SHEIN, der in der Suchleiste von SHEIN gesucht wird, nicht im Gutscheinfeld."
         ]
@@ -66555,6 +66568,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN è affidabile e sicuro? Gestore in Italia, origine, dati, termini di reso dal ricevimento, dazio UE di € 3, procedimento e notifica delle autorità UE.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -66615,7 +66629,7 @@ export const reviewsData: unknown[] = [
         "heading": "Reso e dogana",
         "paragraphs": [
           "Per gli ordini su it.shein.com il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento. Alcuni articoli, come lingerie, intimo e bigiotteria, si possono restituire solo entro i 14 giorni. Fonte: politica di reso del sito di SHEIN per l'Italia, consultata il 12/10/2026.",
-          "Per la dogana vale una regola UE in vigore dal 1° luglio 2026: l'UE applica un dazio doganale di 3 € per categoria di prodotto sui pacchi di valore fino a 150 € spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare."
+          "Per la dogana vale una regola UE in vigore dal 1° luglio 2026: l'UE applica un dazio doganale di 3 € per categoria di prodotto sui pacchi di valore inferiore a 150 € spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare."
         ]
       },
       {
@@ -66667,7 +66681,7 @@ export const reviewsData: unknown[] = [
           "Cosa vende SHEIN? Tra le altre cose, abbigliamento donna, uomo e bambini, scarpe, borse, gioielli, prodotti di bellezza, articoli per la casa, elettronica, giocattoli e prodotti per animali. Una parte è del marchio SHEIN, un'altra arriva da altri fornitori.",
           "Chi gestisce SHEIN in Italia? Secondo l'informativa sulla privacy di it.shein.com, il sito è gestito da Infinite Styles Services Co., Limited («ISSL»). Il sito del gruppo, sheingroup.com, è di Roadget Business Pte. Ltd., di Singapore.",
           "Quanto tempo ho per restituire un ordine di SHEIN? Il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento; alcuni, come lingerie, intimo e bigiotteria, solo entro i 14 giorni.",
-          "Devo pagare la dogana su SHEIN? L'UE applica un dazio doganale di 3 € per categoria di prodotto sui pacchi di valore fino a 150 € spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare.",
+          "Devo pagare la dogana su SHEIN? L'UE applica un dazio doganale di 3 € per categoria di prodotto sui pacchi di valore inferiore a 150 € spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare.",
           "Come capisco se il sito di SHEIN è quello ufficiale? L'indirizzo per l'Italia è it.shein.com, e l'app è quella di SHEIN nell'app store ufficiale del tuo telefono.",
           "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN: si cerca nella barra di ricerca di SHEIN, non nel campo del coupon."
         ]
@@ -66860,9 +66874,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN は信頼できるのか。日本のサイトの運営会社、どこの国の会社か、何が買えるか、データの扱い、返品期限、関税、支払う前に確認することをまとめました。",
-    "metaDescription": "SHEIN は信頼できる？日本のサイトの運営会社、どこの国の会社か、返品期限（購入日から40日）、関税、支払う前に確認することをまとめました。",
+    "metaDescription": "SHEIN は信頼できる？日本のサイトの運営会社、どこの国の会社か、返品期限（ほとんどの新品は購入日から40日）、関税、支払う前に確認することをまとめました。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -66920,7 +66935,7 @@ export const reviewsData: unknown[] = [
         "heading": "返品と関税",
         "paragraphs": [
           "この記事の運営会社と返品期限は、jp.shein.com のプライバシーポリシーと返品ポリシーによるもので、2026年10月12日に確認しました。関税のルールは、税関（Japan Customs）のカスタムスアンサー1006によるもので、同じ日に確認しました。",
-          "日本のサイトの返品期限は、購入日から40日以内です。",
+          "日本のサイトの返品期限は、条件を満たす新品のほとんどの商品で、購入日から40日以内です。対象外の商品もあるため、最新の返品ポリシーで確認してください。",
           "税関によると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、免税にならない物品が定められていて、主なものは、革製のカバン、ハンドバッグ、手袋など、編物製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴の底）が革製の履物類などです。輸入にかかる税金や手数料は、支払う前にチェックアウトで確認してください。"
         ]
       },
@@ -66954,7 +66969,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN は信頼できる？",
         "paragraphs": [
           "はい、公式サイト（jp.shein.com）か公式アプリで買うかぎり、信頼できるお店です。日本のサイトの運営会社は、プライバシーポリシーによるとシンガポールの Fashion Choice Pte. Ltd. で、SHEIN はお客様のデータを販売していないと述べています。",
-          "支払う前に、注文ページの送料と配送日数、チェックアウトの輸入税や手数料、返品期限を確認し、注文の確認を保存しておきましょう。日本のサイトの返品期限は、購入日から40日以内です。"
+          "支払う前に、注文ページの送料と配送日数、チェックアウトの輸入税や手数料、返品期限を確認し、注文の確認を保存しておきましょう。日本のサイトの返品期限は、条件を満たす新品のほとんどの商品で、購入日から40日以内です。対象外の商品もあるため、最新の返品ポリシーで確認してください。"
         ]
       },
       {
@@ -66965,7 +66980,7 @@ export const reviewsData: unknown[] = [
           "SHEIN はどこの国の会社ですか？ フィナンシャル・タイムズによると、SHEIN は中国で生まれ、本社はシンガポールにあります。2026年には、創業者が広東省は SHEIN のルーツがある場所だと語ったと、BBC とストレーツ・タイムズが報じました。",
           "SHEIN では何が買えますか？ レディース服、メンズ服、キッズ服、シューズ、バッグ、アクセサリー、美容用品、インテリア、電子機器、おもちゃ、ペット用品などがあります。SHEIN ブランドの商品と、ほかのサプライヤーの商品があります。",
           "日本で SHEIN を運営しているのは誰ですか？ jp.shein.com のプライバシーポリシーによると、シンガポールの Fashion Choice Pte. Ltd. です。",
-          "SHEIN の返品期限は何日ですか？ 日本のサイトでは、購入日から40日以内です。",
+          "SHEIN の返品期限は何日ですか？ 日本のサイトでは、条件を満たす新品のほとんどの商品が購入日から40日以内です。対象外の商品もあるため、最新の返品ポリシーで確認してください。",
           "SHEIN で買うと関税はかかりますか？ 税関のカスタムスアンサーによると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、革製のカバン、ハンドバッグ、手袋など、編物製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴の底）が革製の履物類など、免税にならない物品があります。",
           "SHEIN の公式サイトはどう見分けますか？ 日本の公式サイトのアドレスは jp.shein.com です。アプリは、スマートフォンの公式アプリストアからダウンロードした SHEIN のアプリを使ってください。",
           "4CW5Y はクーポンですか？ いいえ。Cecília の SHEIN 紹介コードで、SHEIN の検索バーに入力するものです。"
@@ -67314,6 +67329,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. SHEIN ou Shopee: frete, prazo, devolução e imposto lado a lado com Temu e AliExpress.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/shein-ou-shopee-temu-capa-discover.webp",
@@ -67326,14 +67342,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe uma loja melhor para todo mundo: a escolha depende do que você vai comprar e de quanto pesa poder devolver, e a Temu é a que dá mais prazo, 90 dias contados da compra. Não medimos preço nem testamos entregas. O capítulo Qual escolher, conforme a compra, mostra o que conferir em cada caso."
+          "Não existe uma loja melhor para todo mundo: a escolha depende do que você vai comprar e de quanto pesa poder devolver, e a Temu publica o maior prazo, 90 dias contados da compra, enquanto a SHEIN conta do recebimento. Não medimos preço nem testamos entregas. O capítulo Qual escolher, conforme a compra, mostra o que conferir em cada caso."
         ]
       },
       {
         "heading": "SHEIN, Shopee, Temu e AliExpress lado a lado",
         "paragraphs": [
           "O que separa as quatro é devolução e prazo: a tabela junta as regras que cada loja publica e a nota no Reclame Aqui.",
-          "Os números vêm das regras que cada loja publica no Brasil e do Reclame Aqui dos últimos seis meses. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
+          "Os números vêm das regras que cada loja publica no Brasil e do Reclame Aqui, nos seis meses indicados na tabela de reputação. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
         ],
         "comparisonTable": {
           "caption": "Frete, prazo, devolução, imposto e Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress no Brasil, conferidos em 13/10/2026.",
@@ -67409,7 +67425,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.5
         },
         "bullets": [
-          "**Temu:** 90 dias a partir da compra, e nunca menos de 7 dias depois de receber. A primeira devolução de cada pedido é grátis; da segunda em diante, a Temu desconta R$ 35 do reembolso. Pedido de devolução feito mais de 7 dias depois de receber também tem taxa. O imposto de importação não volta no reembolso.",
+          "**Temu:** 90 dias a partir da compra, e nunca menos de 7 dias depois de receber. A primeira devolução de cada pedido é grátis; da segunda em diante, a Temu desconta R$ 35 do reembolso. Pedido de devolução feito mais de 7 dias depois de receber também tem taxa. O prazo vale para a maioria dos itens: alguns têm condição própria, então confira a política da Temu para a sua peça. O imposto de importação não volta no reembolso.",
           "**SHEIN:** 20 dias depois de receber. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso. Alguns itens, como roupa íntima e roupa de banho, só voltam em 7 dias.",
           "**Shopee:** 7 dias depois de receber, pelo aplicativo, pela Garantia Shopee. Vale também para quem mudou de ideia.",
           "**AliExpress:** pela política, 7 dias depois de receber para desistir da compra, com a devolução paga por você, e 30 dias para peça com defeito, danificada ou diferente do anúncio (90 em bens duráveis), com a devolução paga pelo vendedor. As peças que abrimos mostravam devolução grátis até 15 dias: confira esse selo na página do produto. Roupa só volta sem uso, com as etiquetas e o adesivo de higiene."
@@ -67483,7 +67499,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher, conforme a compra",
-        "emphasis": "Pelos números da tabela, para quem compra roupa sem provar a escolha é a Temu, porque dá 90 dias para devolver.",
+        "emphasis": "Para roupa que você não pode provar, compare de onde cada prazo começa a contar: a Temu conta os 90 dias da compra, a SHEIN conta os 20 dias do recebimento, e em cada loja alguns itens têm condição própria. Veja a condição da sua peça antes de decidir.",
         "bullets": [
           "**Quer poder devolver com folga:** Temu, com 90 dias da compra, ou SHEIN, com 20 dias do recebimento; Shopee e AliExpress dão 7 dias.",
           "**Precisa receber até uma data:** confira o prazo na página do produto ou do pedido. Na Shopee, ele muda de vendedor para vendedor; no AliExpress, a página da peça traz a data estimada e o reembolso se o pedido não chegar em 50 dias.",
@@ -67530,19 +67546,19 @@ export const reviewsData: unknown[] = [
           "SHEIN ou Shopee: qual escolher? Depende do que você vai comprar e de quanto pesa poder devolver: a SHEIN dá 20 dias para devolução e a Shopee 7, e o prazo de entrega da Shopee muda de vendedor para vendedor.",
           "Qual é mais barato, SHEIN ou Shopee? Este artigo não mede preço. Compare o preço final de cada peça, com frete e imposto, na hora de pagar em cada loja.",
           "Qual chega mais rápido, SHEIN ou Shopee? A SHEIN publica, no Envio Global, de 3 a 5 dias para processar o pedido e uma estimativa de entrega; na Shopee, o prazo depende do vendedor e aparece na página do produto.",
-          "SHEIN ou Temu: qual a diferença? A Temu dá mais prazo para devolver e a SHEIN tem nota melhor no Reclame Aqui; frete e prazos estão na tabela acima.",
-          "SHEIN ou AliExpress? A SHEIN dá 20 dias para devolução, e o AliExpress, 7 para desistir, mas as peças que abrimos nele mostravam devolução grátis até 15 dias. As duas publicam a mesma regra de imposto. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos últimos seis meses.",
-          "SHEIN ou Shopee para roupas? Para roupa, pese a devolução: a SHEIN dá 20 dias e a Shopee 7, e na Shopee cada peça vem de um vendedor.",
+          "SHEIN ou Temu: qual a diferença? A Temu publica o prazo de devolução mais longo (90 dias, contados da compra) e a SHEIN tem nota melhor no Reclame Aqui; frete e prazos estão na tabela acima.",
+          "SHEIN ou AliExpress? A SHEIN dá 20 dias para devolução, e o AliExpress, 7 para desistir, mas as peças que abrimos nele mostravam devolução grátis até 15 dias. As duas publicam a mesma regra de imposto. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos seis meses da tabela.",
+          "SHEIN ou Shopee para roupas? Para roupa, pese a devolução e a condição da sua peça: a SHEIN dá 20 dias e a Shopee 7, e na Shopee cada peça vem de um vendedor.",
           "SHEIN, Shopee e Temu pagam imposto? Nas compras do exterior, a SHEIN, a Shopee e o AliExpress publicam a mesma regra: ICMS de 17% a 20% e imposto de importação zero até US$ 50. A Temu não publica a alíquota nas páginas de envio e de devolução, e o imposto de importação não volta no reembolso.",
           "A SHEIN e a Temu são a mesma coisa? Não. São lojas diferentes, cada uma com as suas regras de frete, prazo e devolução.",
-          "Qual a nota de cada loja no Reclame Aqui? Nos últimos seis meses: SHEIN 7,6 (Boa), Shopee 6,7 (Regular), AliExpress 6,0 (Regular) e Temu 5,8 (Ruim). A nota mede o atendimento a quem reclama, não a qualidade do produto.",
+          "Qual a nota de cada loja no Reclame Aqui? Nos seis meses da tabela: SHEIN 7,6 (Boa), Shopee 6,7 (Regular), AliExpress 6,0 (Regular) e Temu 5,8 (Ruim). A nota mede o atendimento a quem reclama, não a qualidade do produto.",
           "O 4CW5Y é cupom? Não. É o código de indicação da Cecília na SHEIN, que se pesquisa na busca da loja."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve a Temu se você compra roupa sem provar e quer o maior prazo para devolver: são 90 dias, contados da compra."
+        "Leve a Temu se você compra roupa sem provar e quer o maior prazo publicado para devolver: 90 dias contados da compra, se a peça se enquadra na política."
       ],
       "skipIf": [
         "Passe na SHEIN se você quer devolver com mais folga do que 20 dias."
@@ -67586,10 +67602,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN or Temu? What each store publishes on shipping, delivery time and returns for the UK, and how to choose by what you are buying. Temu gives the longest return window.",
+    "description": "SHEIN or Temu? What each store publishes on shipping, delivery time and returns for the UK, and how to choose by what you are buying. Temu publishes the longest return window.",
     "metaDescription": "SHEIN vs Temu: shipping, delivery time and returns published for the UK, and what to check before you buy.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -67603,7 +67620,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "There is no store that is best for everyone: the choice depends on what you buy and how much being able to return it matters, and Temu is the one that gives the most time, 90 days from purchase. We do not measure prices or test deliveries. The chapter \"Which to choose, depending on what you're buying\" below shows what to check in each case."
+          "No store is best for everyone: the choice depends on what you buy and how much returning matters. Temu publishes the longest window, 90 days from purchase, while SHEIN counts from receipt. We do not measure prices or test deliveries. The chapter \"Which to choose, depending on what you're buying\" below shows what to check in each case."
         ]
       },
       {
@@ -67639,7 +67656,7 @@ export const reviewsData: unknown[] = [
             [
               "Returns",
               "14 days by law, from receipt; most items up to 30 days after receipt under SHEIN's policy; lingerie, underwear and costume jewelry only within the 14 days",
-              "14 days by law, from receipt; 90 days from purchase under Temu's policy; the first return of each order is free, from the second you pay the return cost"
+              "14 days by law, from receipt; 90 days from purchase under Temu's policy for most items (some, clothing included, have their own conditions); the first return of each order is free, from the second you pay the return cost"
             ]
           ]
         }
@@ -67656,7 +67673,7 @@ export const reviewsData: unknown[] = [
           "The published return windows are counted differently: Temu counts from the purchase, SHEIN from receipt."
         ],
         "bullets": [
-          "**Temu:** 90 days from purchase under Temu's policy, and 14 days by law from receipt. The first return of each order is free; from the second, you pay the return cost.",
+          "**Temu:** 90 days from purchase under Temu's policy, and 14 days by law from receipt. The 90 days apply to most items; some, clothing included, have their own conditions, so check Temu's policy for your item. The first return of each order is free; from the second, you pay the return cost.",
           "**SHEIN:** most items up to 30 days after receipt under SHEIN's policy, and 14 days by law from receipt. Lingerie, underwear and costume jewelry only come back within the 14 days. In the US, SHEIN's site (SHEIN US Services, LLC) publishes returns up to 30 days after delivery."
         ]
       },
@@ -67677,7 +67694,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Which to choose, depending on what you're buying",
-        "emphasis": "By the numbers in the table, for anyone buying clothes without trying them on, the pick is Temu, because it gives 90 days to return.",
+        "emphasis": "For clothes you cannot try on, compare where each window starts: Temu counts its 90 days from purchase, SHEIN counts from receipt, and in each store some items have their own conditions. Check your item's conditions before choosing.",
         "bullets": [
           "**You want room to return things:** Temu, with 90 days from purchase, or SHEIN, with most items up to 30 days after receipt.",
           "**You need it by a certain date:** check the delivery time on the product page or in your order.",
@@ -67713,8 +67730,8 @@ export const reviewsData: unknown[] = [
           "SHEIN or Temu: which should I choose? It depends on what you are buying and how much being able to return it matters: Temu gives 90 days from purchase, and SHEIN takes most items back up to 30 days after receipt.",
           "Which is cheaper, SHEIN or Temu? This article does not measure prices. Compare the final price of each item, with shipping and taxes, when you pay at each store.",
           "Which arrives faster, SHEIN or Temu? In the UK, SHEIN publishes 5 to 8 working days for Standard delivery, and Temu 6 to 13 working days (processing takes 1 to 3 days). This article does not test deliveries: check the date on the product page and in your order.",
-          "SHEIN or Temu: what is the difference? Temu gives more time to return, 90 days from purchase, while SHEIN takes most items back up to 30 days after receipt; shipping and delivery times are in the table above.",
-          "SHEIN or Temu for clothes? For clothes, weigh the return window: Temu gives 90 days from purchase and SHEIN up to 30 days after receipt on most items, and lingerie, underwear and costume jewelry only come back within 14 days.",
+          "SHEIN or Temu: what is the difference? Temu publishes the longer window, 90 days counted from purchase, while SHEIN takes most items back up to 30 days after receipt, so the two count from different points; shipping and delivery times are in the table above.",
+          "SHEIN or Temu for clothes? For clothes, weigh the return window and your item's conditions: Temu gives 90 days from purchase and SHEIN up to 30 days after receipt, both on most items, and lingerie, underwear and costume jewelry only come back within 14 days.",
           "Do SHEIN and Temu charge import tax? Import tax depends on the country. On its UK site, SHEIN says customers in the UK do not need to deal with customs. Before you pay, check at each store's checkout whether the total includes taxes.",
           "Are SHEIN and Temu the same company? No. They are different stores, each with its own rules for shipping, delivery and returns.",
           "Is 4CW5Y a coupon? No. It is Cecília's referral code at SHEIN, which you search for in the store's search bar."
@@ -67743,7 +67760,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take Temu if you buy clothes without trying them on and want the longest time to return them: 90 days, counted from purchase."
+        "Take Temu if you buy clothes without trying them on and want the longest published window to return them: 90 days, counted from purchase, if your item qualifies under its policy."
       ],
       "skipIf": [
         "Skip SHEIN if you want more room to return than the 30 days after receipt it gives on most items."
@@ -67767,10 +67784,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres. Temu da más plazo para devolver.",
+    "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres. Temu publica el plazo más largo.",
     "metaDescription": "SHEIN o Temu: envío, plazo de entrega y devoluciones que cada tienda publica en España y México, y qué revisar antes de comprar.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -67784,7 +67802,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "No existe una tienda mejor para todo el mundo: la elección depende de lo que vayas a comprar y de cuánto te importe poder devolverlo, y Temu es la que da más plazo, 90 días desde la compra. No medimos precios ni probamos entregas. El capítulo «Cuál elegir, según lo que vayas a comprar» más abajo muestra qué revisar en cada caso."
+          "Ninguna tienda es la mejor para todos: depende de lo que compres y de cuánto te importe poder devolverlo. Temu publica el plazo más largo, 90 días desde la compra; SHEIN cuenta desde la recepción. No medimos precios ni probamos entregas. El capítulo «Cuál elegir, según lo que vayas a comprar» más abajo muestra qué revisar en cada caso."
         ]
       },
       {
@@ -67859,7 +67877,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Impuestos y aduana",
         "paragraphs": [
-          "En España, desde el 1 de julio de 2026, la UE aplica 3 € de derechos de aduana por categoría de producto a los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe desde fuera de la UE, así que la aduana no decide entre SHEIN y Temu.",
+          "En España, desde el 1 de julio de 2026, la UE aplica 3 € de derechos de aduana por categoría de producto a los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe desde fuera de la UE, así que la aduana no decide entre SHEIN y Temu.",
           "Antes de pagar, revisa en el checkout de cada tienda si el total ya incluye los impuestos, y compara esa cifra final, no solo el precio del artículo."
         ]
       },
@@ -67869,7 +67887,7 @@ export const reviewsData: unknown[] = [
           "Los plazos de devolución que publican las tiendas se cuentan de forma distinta: Temu los cuenta desde la compra y SHEIN, desde la recepción."
         ],
         "bullets": [
-          "**Temu:** 90 días desde la compra. En España, además, 14 días de desistimiento por ley, desde la recepción. La primera devolución de cada pedido es gratis; desde la segunda, en España pagas el envío de vuelta y en México se descuentan MX$99 del reembolso.",
+          "**Temu:** 90 días desde la compra. En España, además, 14 días de desistimiento por ley, desde la recepción. Los 90 días valen para la mayoría de los artículos; algunos tienen condiciones propias, así que revisa la política de Temu para tu artículo. La primera devolución de cada pedido es gratis; desde la segunda, en España pagas el envío de vuelta y en México se descuentan MX$99 del reembolso.",
           "**SHEIN:** en España, 14 días de desistimiento por ley, desde la recepción, y la mayoría de los artículos hasta 30 días después de recibirlos según la política de SHEIN; la lencería, la ropa interior y la bisutería, solo dentro de los 14 días. En México, hasta 30 días después de recibir el pedido."
         ]
       },
@@ -67890,7 +67908,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Cuál elegir, según lo que vayas a comprar",
-        "emphasis": "Por los números de la tabla, para quien compra ropa sin probársela la opción es Temu, porque da 90 días para devolver.",
+        "emphasis": "Para la ropa que no puedes probarte, compara desde cuándo cuenta cada plazo: Temu cuenta sus 90 días desde la compra, SHEIN desde la recepción, y en cada tienda algunos artículos tienen condiciones propias. Revisa las de tu artículo antes de elegir.",
         "bullets": [
           "**Quieres poder devolver con margen:** Temu, con 90 días desde la compra, o SHEIN, con la mayoría de los artículos hasta 30 días después de recibirlos.",
           "**Lo necesitas para una fecha concreta:** revisa el plazo de entrega en la página del producto o en tu pedido.",
@@ -67926,9 +67944,9 @@ export const reviewsData: unknown[] = [
           "¿SHEIN o Temu: cuál elijo? Depende de lo que vayas a comprar y de cuánto te importe poder devolverlo: Temu da 90 días desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos.",
           "¿Cuál es más barato, SHEIN o Temu? Este artículo no mide precios. Compara el precio final de cada artículo, con envío e impuestos, a la hora de pagar en cada tienda.",
           "¿Cuál llega más rápido, SHEIN o Temu? Este artículo no prueba entregas. En España, SHEIN publica de 8 a 11 días laborables para el envío estándar y Temu muestra el plazo en la página del producto. En México, Temu publica de 4 a 28 días hábiles para el envío estándar. Revisa la fecha en la página del producto y en tu pedido.",
-          "¿SHEIN o Temu: cuál es la diferencia? Temu da más plazo para devolver, 90 días desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos; el envío y los plazos de entrega están en las tablas de arriba.",
-          "¿SHEIN o Temu para ropa? Para la ropa, pesa la devolución: Temu da 90 días desde la compra y SHEIN, la mayoría de los artículos hasta 30 días después de recibirlos; la lencería, la ropa interior y la bisutería de SHEIN, solo dentro de los 14 días en España.",
-          "¿SHEIN y Temu pagan aduana? En España, la UE aplica 3 € por categoría de producto a los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe así, por lo que la aduana no decide entre SHEIN y Temu.",
+          "¿SHEIN o Temu: cuál es la diferencia? Temu publica el plazo más largo, 90 días contados desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos, así que cada una cuenta desde un punto distinto; el envío y los plazos de entrega están en las tablas de arriba.",
+          "¿SHEIN o Temu para ropa? Para la ropa, pesan la devolución y las condiciones de tu artículo: Temu da 90 días desde la compra y SHEIN hasta 30 días después de recibirlos, las dos en la mayoría de los artículos; la lencería, la ropa interior y la bisutería de SHEIN, solo dentro de los 14 días en España.",
+          "¿SHEIN y Temu pagan aduana? En España, la UE aplica 3 € por categoría de producto a los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe así, por lo que la aduana no decide entre SHEIN y Temu.",
           "¿SHEIN y Temu son la misma empresa? No. Son tiendas distintas, cada una con sus propias reglas de envío, entrega y devolución.",
           "¿El código 4CW5Y es un cupón? No. Es el código de referido de Cecília en SHEIN, que se busca en la barra de búsqueda de la tienda."
         ]
@@ -67956,7 +67974,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Lleva Temu si compras ropa sin probártela y quieres el mayor plazo para devolver: son 90 días, contados desde la compra."
+        "Lleva Temu si compras ropa sin probártela y quieres el mayor plazo publicado para devolver: 90 días contados desde la compra, si tu artículo entra en su política."
       ],
       "skipIf": [
         "Pasa de SHEIN si quieres devolver con más margen que los 30 días después de la recepción que da en la mayoría de los artículos."
@@ -67980,10 +67998,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat. Temu est celle qui laisse le plus de temps.",
+    "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat. Temu publie le délai le plus long.",
     "metaDescription": "SHEIN ou Temu : livraison, délai et retours publiés en France, douane de 3 € de l'UE et points à vérifier avant d'acheter.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -67997,7 +68016,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Il n'existe pas de boutique meilleure pour tout le monde : le choix dépend de ce que vous achetez et de l'importance du retour, et Temu est celle qui laisse le plus de temps, 90 jours après l'achat. Nous ne mesurons pas les prix et ne testons pas les livraisons. Le chapitre « Que choisir, selon votre achat » plus bas montre quoi vérifier dans chaque cas."
+          "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend de ce que vous achetez et de l'importance du retour. Temu publie le délai le plus long, 90 jours après l'achat, alors que SHEIN compte à partir de la réception. Nous ne mesurons pas les prix et ne testons pas les livraisons. Le chapitre « Que choisir, selon votre achat » montre quoi vérifier dans chaque cas."
         ]
       },
       {
@@ -68041,7 +68060,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taxes et douane",
         "paragraphs": [
-          "Depuis le 1er juillet 2026, l'UE applique 3 € de droits de douane par catégorie de produit aux commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie depuis l'extérieur de l'UE : la douane ne départage donc pas SHEIN et Temu.",
+          "Depuis le 1er juillet 2026, l'UE applique 3 € de droits de douane par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie depuis l'extérieur de l'UE : la douane ne départage donc pas SHEIN et Temu.",
           "Avant de payer, vérifiez sur la page de paiement de chaque boutique si le total inclut les taxes, et comparez ce montant final, pas seulement le prix de l'article."
         ]
       },
@@ -68051,7 +68070,7 @@ export const reviewsData: unknown[] = [
           "Les délais de retour publiés ne se comptent pas de la même façon : Temu les compte à partir de l'achat, SHEIN à partir de la réception."
         ],
         "bullets": [
-          "**Temu :** 90 jours après l'achat selon la politique de Temu, et 14 jours de rétractation prévus par la loi, à compter de la réception. Le premier retour de chaque commande est gratuit ; à partir du deuxième, les frais de retour sont à votre charge.",
+          "**Temu :** 90 jours après l'achat selon la politique de Temu, et 14 jours de rétractation prévus par la loi, à compter de la réception. Les 90 jours valent pour la plupart des articles ; certains ont leurs propres conditions, vérifiez donc la politique de Temu pour votre article. Le premier retour de chaque commande est gratuit ; à partir du deuxième, les frais de retour sont à votre charge.",
           "**SHEIN :** la plupart des articles jusqu'à 30 jours après réception selon la politique de SHEIN, et 14 jours de rétractation prévus par la loi, à compter de la réception. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours."
         ]
       },
@@ -68072,7 +68091,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Que choisir, selon votre achat",
-        "emphasis": "Selon les chiffres du tableau, pour qui achète des vêtements sans les essayer, le bon choix est Temu, parce qu'elle laisse 90 jours pour retourner.",
+        "emphasis": "Pour des vêtements que vous ne pouvez pas essayer, comparez le point de départ de chaque délai : Temu compte ses 90 jours depuis l'achat, SHEIN depuis la réception, et dans chaque boutique certains articles ont leurs propres conditions. Vérifiez celles de votre article avant de choisir.",
         "bullets": [
           "**Vous voulez avoir de la marge pour retourner :** Temu, avec 90 jours après l'achat, ou SHEIN, avec la plupart des articles jusqu'à 30 jours après réception.",
           "**Il vous faut l'article pour une date précise :** vérifiez le délai de livraison sur la page du produit ou dans votre commande.",
@@ -68108,9 +68127,9 @@ export const reviewsData: unknown[] = [
           "SHEIN ou Temu : lequel choisir ? Cela dépend de ce que vous achetez et de l'importance du retour : Temu laisse 90 jours après l'achat, et SHEIN reprend la plupart des articles jusqu'à 30 jours après réception.",
           "Lequel est le moins cher, SHEIN ou Temu ? Cet article ne mesure pas les prix. Comparez le prix final de chaque article, avec la livraison et les taxes, au moment de payer dans chaque boutique.",
           "Lequel livre le plus vite, SHEIN ou Temu ? Cet article ne teste pas les livraisons. SHEIN publie 4 à 8 jours ouvrés pour la livraison Standard ; Temu indique le délai sur la page du produit (préparation en 1 à 3 jours). Vérifiez la date sur la page du produit et dans votre commande.",
-          "SHEIN ou Temu : quelle différence ? Temu laisse plus de temps pour retourner, 90 jours après l'achat, tandis que SHEIN reprend la plupart des articles jusqu'à 30 jours après réception ; la livraison et les délais figurent dans le tableau ci-dessus.",
-          "SHEIN ou Temu pour des vêtements ? Pour des vêtements, pesez le retour : Temu laisse 90 jours après l'achat et SHEIN, pour la plupart des articles, jusqu'à 30 jours après réception ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
-          "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
+          "SHEIN ou Temu : quelle différence ? Temu publie le délai le plus long, 90 jours après l'achat, tandis que SHEIN reprend la plupart des articles jusqu'à 30 jours après réception, donc les deux ne comptent pas à partir du même moment ; la livraison et les délais figurent dans le tableau ci-dessus.",
+          "SHEIN ou Temu pour des vêtements ? Pour des vêtements, pesez le retour et les conditions de votre article : Temu laisse 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception, pour la plupart des articles dans les deux cas ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
+          "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
           "SHEIN et Temu sont-ils la même entreprise ? Non. Ce sont deux boutiques différentes, chacune avec ses propres règles d'expédition, de livraison et de retour.",
           "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília chez SHEIN, que l'on recherche dans la barre de recherche de la boutique."
         ]
@@ -68138,7 +68157,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez Temu si vous achetez des vêtements sans les essayer et voulez le plus de temps pour les retourner : 90 jours, comptés à partir de l'achat."
+        "Prenez Temu si vous achetez des vêtements sans les essayer et voulez le plus long délai publié pour les retourner : 90 jours, comptés à partir de l'achat, si votre article entre dans sa politique."
       ],
       "skipIf": [
         "Passez votre tour chez SHEIN si vous voulez retourner avec plus de marge que les 30 jours après réception qu'elle accorde pour la plupart des articles."
@@ -68162,10 +68181,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben und wie Sie je nach Einkauf wählen. Temu hat die längste Rückgabefrist von allen.",
+    "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben und wie Sie je nach Einkauf wählen. Temu nennt die längste Rückgabefrist ab Kauf.",
     "metaDescription": "SHEIN oder Temu? Versand, Lieferzeit und Rückgabe für Deutschland, EU-Zoll von 3 € und was Sie vor dem Kauf prüfen sollten.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -68179,7 +68199,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt davon ab, was Sie kaufen und wie wichtig die Rückgabe ist, und Temu ist der Shop mit der längsten Frist, 90 Tage ab Kauf. Preise messen und Lieferungen testen wir nicht. Das Kapitel „Was zu welchem Einkauf passt“ weiter unten zeigt, was Sie im jeweiligen Fall prüfen sollten."
+          "Kein Shop ist für alle der beste: Die Wahl hängt davon ab, was Sie kaufen und wie wichtig die Rückgabe ist. Temu veröffentlicht die längste Frist, 90 Tage ab Kauf, während SHEIN ab Erhalt zählt. Preise messen und Lieferungen testen wir nicht. Das Kapitel „Was zu welchem Einkauf passt“ weiter unten zeigt, was Sie im jeweiligen Fall prüfen sollten."
         ]
       },
       {
@@ -68223,7 +68243,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Zoll und Steuern",
         "paragraphs": [
-          "Seit dem 1. Juli 2026 erhebt die EU 3 € Zoll pro Warenkategorie auf Sendungen im Wert von bis zu 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der von außerhalb der EU liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
+          "Seit dem 1. Juli 2026 erhebt die EU 3 € Zoll pro Warenkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der von außerhalb der EU liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
           "Prüfen Sie vor dem Bezahlen an der Kasse jedes Shops, ob der Gesamtbetrag die Steuern schon enthält, und vergleichen Sie diesen Endbetrag, nicht nur den Preis des Artikels."
         ]
       },
@@ -68233,7 +68253,7 @@ export const reviewsData: unknown[] = [
           "Die veröffentlichten Rückgabefristen werden unterschiedlich gezählt: Temu zählt ab dem Kauf, SHEIN ab Erhalt."
         ],
         "bullets": [
-          "**Temu:** 90 Tage ab Kauf nach der Regel von Temu und 14 Tage gesetzliches Widerrufsrecht ab Erhalt. Die erste Rücksendung jeder Bestellung ist kostenlos; ab der zweiten tragen Sie die Rücksendekosten.",
+          "**Temu:** 90 Tage ab Kauf nach der Regel von Temu und 14 Tage gesetzliches Widerrufsrecht ab Erhalt. Die 90 Tage gelten für die meisten Artikel; manche haben eigene Bedingungen, prüfen Sie daher die Regel von Temu für Ihren Artikel. Die erste Rücksendung jeder Bestellung ist kostenlos; ab der zweiten tragen Sie die Rücksendekosten.",
           "**SHEIN:** die meisten Artikel bis zu 30 Tage nach Erhalt nach der Rückgaberegel von SHEIN und 14 Tage gesetzliches Widerrufsrecht ab Erhalt. Dessous, Unterwäsche und Modeschmuck lassen sich nur innerhalb der 14 Tage zurückgeben."
         ]
       },
@@ -68254,7 +68274,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Was zu welchem Einkauf passt",
-        "emphasis": "Nach den Zahlen der Tabelle ist für alle, die Kleidung kaufen, ohne sie anzuprobieren, Temu die richtige Wahl, weil der Shop 90 Tage zum Zurückgeben lässt.",
+        "emphasis": "Bei Kleidung, die Sie nicht anprobieren können, vergleichen Sie, wo die Frist beginnt: Temu zählt seine 90 Tage ab Kauf, SHEIN ab Erhalt, und in beiden Shops haben manche Artikel eigene Bedingungen. Prüfen Sie die Bedingungen Ihres Artikels, bevor Sie sich entscheiden.",
         "bullets": [
           "**Sie möchten viel Zeit zum Zurückschicken haben:** Temu mit 90 Tagen ab Kauf oder SHEIN mit den meisten Artikeln bis zu 30 Tage nach Erhalt.",
           "**Die Ware muss bis zu einem bestimmten Datum da sein:** Prüfen Sie die Lieferzeit auf der Produktseite oder in der Bestellung.",
@@ -68290,9 +68310,9 @@ export const reviewsData: unknown[] = [
           "SHEIN oder Temu: Was passt besser? Das hängt davon ab, was Sie kaufen und wie wichtig Ihnen die Rückgabe ist: Temu gibt 90 Tage ab Kauf, und SHEIN nimmt die meisten Artikel bis zu 30 Tage nach Erhalt zurück.",
           "Was ist günstiger, SHEIN oder Temu? Preise vergleichen wir in diesem Artikel nicht. Vergleichen Sie an der Kasse den Endpreis jedes Artikels mit Versand und Steuern.",
           "Wer liefert schneller, SHEIN oder Temu? Lieferungen testen wir nicht. SHEIN zeigt bei Standard das Ankunftsdatum an; Temu zeigt die Zeit auf der Produktseite (Bearbeitung in 1 bis 3 Tagen). Prüfen Sie das Datum auf der Produktseite und in Ihrer Bestellung.",
-          "SHEIN oder Temu: Was ist der Unterschied? Temu lässt mehr Zeit für die Rückgabe, 90 Tage ab Kauf, während SHEIN die meisten Artikel bis zu 30 Tage nach Erhalt zurücknimmt; Versand und Lieferzeiten stehen in der Tabelle oben.",
-          "SHEIN oder Temu für Kleidung? Bei Kleidung zählt die Rückgabe: Temu gibt 90 Tage ab Kauf und SHEIN bei den meisten Artikeln bis zu 30 Tage nach Erhalt; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
-          "Zahlen SHEIN und Temu Zoll? Die EU erhebt 3 € pro Warenkategorie auf Sendungen im Wert von bis zu 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der so liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
+          "SHEIN oder Temu: Was ist der Unterschied? Temu nennt die längere Frist, 90 Tage ab Kauf, während SHEIN die meisten Artikel bis zu 30 Tage nach Erhalt zurücknimmt, die beiden Fristen beginnen also zu unterschiedlichen Zeitpunkten; Versand und Lieferzeiten stehen in der Tabelle oben.",
+          "SHEIN oder Temu für Kleidung? Bei Kleidung zählen die Rückgabe und die Bedingungen Ihres Artikels: Temu gibt 90 Tage ab Kauf und SHEIN bis zu 30 Tage nach Erhalt, beide bei den meisten Artikeln; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
+          "Zahlen SHEIN und Temu Zoll? Die EU erhebt 3 € pro Warenkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der so liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
           "Sind SHEIN und Temu dasselbe Unternehmen? Nein. Es sind verschiedene Shops, jeder mit eigenen Regeln für Versand, Lieferzeit und Rückgabe.",
           "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN, den Sie in der Suche des Shops suchen."
         ]
@@ -68320,7 +68340,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie Temu, wenn Sie Kleidung kaufen, ohne sie anzuprobieren, und die längste Frist zum Zurückgeben wollen: 90 Tage, ab dem Kauf gezählt."
+        "Nehmen Sie Temu, wenn Sie Kleidung kaufen, ohne sie anzuprobieren, und die längste veröffentlichte Frist zum Zurückgeben wollen: 90 Tage, ab dem Kauf gezählt, sofern Ihr Artikel unter die Regel fällt."
       ],
       "skipIf": [
         "Lassen Sie SHEIN aus, wenn Sie mehr Zeit zum Zurückgeben möchten als die 30 Tage nach Erhalt, die bei den meisten Artikeln gelten."
@@ -68344,10 +68364,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia e come scegliere in base a ciò che compri. Temu concede più tempo per i resi.",
+    "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia e come scegliere in base a ciò che compri. Temu ha il termine più lungo dall'acquisto.",
     "metaDescription": "SHEIN o Temu? Spedizione, tempi di consegna e resi per l'Italia, dazio UE di 3 euro e cosa controllare prima di comprare.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -68361,7 +68382,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Non esiste un negozio migliore per tutti: la scelta dipende da cosa compri e da quanto conta poter restituire, e Temu è quello che concede più tempo, 90 giorni dall'acquisto. Non misuriamo i prezzi e non testiamo le consegne. Il capitolo «Quale scegliere, a seconda dell'acquisto» qui sotto mostra cosa controllare in ogni caso."
+          "Non esiste un negozio migliore per tutti: la scelta dipende da cosa compri e da quanto conta poter restituire. Temu pubblica il termine più lungo, 90 giorni dall'acquisto, mentre SHEIN conta dal ricevimento. Non misuriamo i prezzi e non testiamo le consegne. Il capitolo «Quale scegliere, a seconda dell'acquisto» qui sotto mostra cosa controllare in ogni caso."
         ]
       },
       {
@@ -68397,7 +68418,7 @@ export const reviewsData: unknown[] = [
             [
               "Resi",
               "14 giorni di recesso per legge dal ricevimento; la maggior parte degli articoli fino a 30 giorni dal ricevimento secondo SHEIN; lingerie, biancheria intima e bigiotteria solo entro i 14 giorni",
-              "14 giorni di recesso per legge; 90 giorni dall'acquisto secondo Temu; il primo reso di ogni ordine è gratis, dal secondo paghi tu il costo del reso"
+              "14 giorni di recesso per legge; 90 giorni dall'acquisto secondo Temu per la maggior parte degli articoli (alcuni, abbigliamento compreso, hanno condizioni proprie); il primo reso di ogni ordine è gratis, dal secondo paghi tu il costo del reso"
             ]
           ]
         }
@@ -68405,7 +68426,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dogana e imposte",
         "paragraphs": [
-          "Dal 1° luglio 2026 l'UE applica 3 euro di dazio doganale per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce da fuori UE, quindi la dogana non decide tra SHEIN e Temu.",
+          "Dal 1° luglio 2026 l'UE applica 3 euro di dazio doganale per categoria di prodotto sugli ordini inferiori a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce da fuori UE, quindi la dogana non decide tra SHEIN e Temu.",
           "Prima di pagare, controlla al checkout se il totale include le imposte e confronta quella cifra finale, non solo il prezzo dell'articolo."
         ]
       },
@@ -68415,7 +68436,7 @@ export const reviewsData: unknown[] = [
           "I termini per il reso pubblicati si contano in modo diverso: Temu li conta dall'acquisto, SHEIN dal ricevimento."
         ],
         "bullets": [
-          "**Temu:** 90 giorni dall'acquisto secondo la politica di Temu, e 14 giorni di recesso per legge. Il primo reso di ogni ordine è gratis; dal secondo paghi tu il costo del reso.",
+          "**Temu:** 90 giorni dall'acquisto secondo la politica di Temu, e 14 giorni di recesso per legge. I 90 giorni valgono per la maggior parte degli articoli; alcuni, abbigliamento compreso, hanno condizioni proprie, quindi controlla la politica di Temu per il tuo articolo. Il primo reso di ogni ordine è gratis; dal secondo paghi tu il costo del reso.",
           "**SHEIN:** la maggior parte degli articoli fino a 30 giorni dal ricevimento secondo la politica di SHEIN, e 14 giorni di recesso per legge dal ricevimento. Lingerie, biancheria intima e bigiotteria si possono restituire solo entro i 14 giorni."
         ]
       },
@@ -68436,7 +68457,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quale scegliere, a seconda dell'acquisto",
-        "emphasis": "Secondo i numeri della tabella, per chi compra vestiti senza provarli la scelta è Temu, perché dà 90 giorni per restituire.",
+        "emphasis": "Per i vestiti che non puoi provare, confronta da quando parte il conteggio: Temu conta i suoi 90 giorni dall'acquisto, SHEIN dal ricevimento, e in ogni negozio alcuni articoli hanno condizioni proprie. Controlla quelle del tuo articolo prima di scegliere.",
         "bullets": [
           "**Vuoi poter restituire con calma:** Temu, con 90 giorni dall'acquisto, o SHEIN, con la maggior parte degli articoli fino a 30 giorni dal ricevimento.",
           "**Ti serve l'ordine entro una certa data:** controlla il tempo di consegna nella pagina del prodotto o dell'ordine.",
@@ -68472,9 +68493,9 @@ export const reviewsData: unknown[] = [
           "SHEIN o Temu: quale scegliere? Dipende da cosa compri e da quanto conta poter restituire: Temu dà 90 giorni dall'acquisto, e SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento.",
           "Quale costa meno, SHEIN o Temu? In questo articolo non misuriamo i prezzi. Confronta al checkout il prezzo finale di ogni articolo, con spedizione e imposte.",
           "Quale consegna più in fretta, SHEIN o Temu? Le consegne non le testiamo. SHEIN pubblica 6-12 giorni lavorativi per la spedizione Standard; Temu mostra il tempo nella pagina del prodotto (preparazione in 1-3 giorni). Controlla la data nella pagina del prodotto e nell'ordine.",
-          "SHEIN o Temu: qual è la differenza? Temu dà più tempo per restituire, 90 giorni dall'acquisto, mentre SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento; spedizione e tempi di consegna sono nella tabella qui sopra.",
-          "SHEIN o Temu per i vestiti? Per i vestiti, pesa il reso: Temu dà 90 giorni dall'acquisto e SHEIN, per la maggior parte degli articoli, fino a 30 giorni dal ricevimento; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
-          "SHEIN e Temu pagano la dogana? L'UE applica 3 euro per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
+          "SHEIN o Temu: qual è la differenza? Temu pubblica il termine più lungo, 90 giorni contati dall'acquisto, mentre SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento, quindi i due conteggi partono da punti diversi; spedizione e tempi di consegna sono nella tabella qui sopra.",
+          "SHEIN o Temu per i vestiti? Per i vestiti, pesano il reso e le condizioni del tuo articolo: Temu dà 90 giorni dall'acquisto e SHEIN fino a 30 giorni dal ricevimento, per la maggior parte degli articoli in entrambi i casi; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
+          "SHEIN e Temu pagano la dogana? L'UE applica 3 euro per categoria di prodotto sugli ordini inferiori a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
           "SHEIN e Temu sono la stessa azienda? No. Sono negozi diversi, ciascuno con le proprie regole su spedizione, consegna e reso.",
           "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN, che si cerca nella barra di ricerca del negozio."
         ]
@@ -68502,7 +68523,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Scegli Temu se compri vestiti senza provarli e vuoi il termine più lungo per restituirli: 90 giorni, contati dall'acquisto."
+        "Scegli Temu se compri vestiti senza provarli e vuoi il termine più lungo pubblicato per restituirli: 90 giorni, contati dall'acquisto, se il tuo articolo rientra nella sua politica."
       ],
       "skipIf": [
         "Lascia perdere SHEIN se vuoi restituire con più margine dei 30 giorni dal ricevimento che concede per la maggior parte degli articoli."
@@ -68530,6 +68551,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN과 테무 중 어디가 나을까요? 한국에 공개된 배송비, 배송 기간, 반품 기한을 비교하고 구매 목적에 따라 고르는 방법을 정리했습니다.",
     "publishedAt": "2026년 10월 13일",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -68543,7 +68565,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지에 따라 달라지며, 반품 기한이 가장 긴 곳은 테무로 구매 후 90일 이내입니다. 가격은 비교하지 않았고 배송도 테스트하지 않았습니다. 무엇을 확인할지는 '구매 목적에 따라 고르기'에 정리했습니다."
+          "모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지에 따라 달라지며, 반품 기한이 가장 길게 공개된 곳은 테무로 구매 후 90일 이내이고, SHEIN은 수령 후부터 셉니다. 가격은 비교하지 않았고 배송도 테스트하지 않았습니다. 무엇을 확인할지는 '구매 목적에 따라 고르기'에 정리했습니다."
         ]
       },
       {
@@ -68590,7 +68612,7 @@ export const reviewsData: unknown[] = [
           "공개된 반품 기한은 SHEIN이 수령 후 60일, 테무가 구매 후 90일입니다. 테무는 구매일부터, SHEIN은 받은 날부터 셉니다."
         ],
         "bullets": [
-          "**테무:** 구매 후 90일 이내. 같은 주문의 첫 반품은 무료이고, 두 번째 반품부터 테무가 환불액에서 배송비 2,500원을 공제합니다.",
+          "**테무:** 구매 후 90일 이내. 대부분의 상품에 적용되며 일부 상품은 조건이 따로 있으니 테무 정책에서 내 상품을 확인하세요. 같은 주문의 첫 반품은 무료이고, 두 번째 반품부터 테무가 환불액에서 배송비 2,500원을 공제합니다.",
           "**SHEIN:** 수령 후 60일 이내."
         ]
       },
@@ -68614,7 +68636,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "구매 목적에 따라 고르기",
-        "emphasis": "표의 숫자로 보면, 입어 보지 않고 옷을 사는 사람에게는 테무가 맞습니다. 반품 기한이 90일이기 때문입니다.",
+        "emphasis": "입어 볼 수 없는 옷이라면 기한이 어디서부터 시작하는지 비교하세요. 테무는 구매 후 90일, SHEIN은 수령 후 60일부터 세고, 두 쇼핑몰 모두 상품에 따라 조건이 다릅니다. 고르기 전에 내 상품의 조건을 확인하세요.",
         "bullets": [
           "**여유 있게 반품하고 싶다면:** 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내입니다.",
           "**정해진 날짜까지 받아야 한다면:** 상품 페이지나 주문 내역에서 배송 기간을 확인하세요.",
@@ -68650,7 +68672,7 @@ export const reviewsData: unknown[] = [
           "SHEIN과 테무 중 어디가 더 나은가요? 모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지, 언제까지 받아야 하는지에 따라 고르세요.",
           "SHEIN과 테무 중 어디가 더 저렴한가요? 이 글은 가격을 비교하지 않습니다. 결제 화면에서 배송비와 세금을 포함한 최종 금액을 쇼핑몰별로 비교하세요.",
           "SHEIN과 테무 중 어디가 더 빨리 도착하나요? 이 글은 배송을 테스트하지 않았습니다. SHEIN은 이코노믹 배송 3~5영업일(처리 1~3일), 테무는 일반 배송 6~11일을 안내합니다.",
-          "SHEIN과 테무는 무엇이 다른가요? 가장 큰 차이는 반품 기한입니다. 테무는 구매 후 90일, SHEIN은 수령 후 60일이며, 배송비와 배송 기간은 위 표에 있습니다.",
+          "SHEIN과 테무는 무엇이 다른가요? 가장 큰 차이는 반품 기한과 기산점입니다. 테무는 구매 후 90일, SHEIN은 수령 후 60일부터 세며, 배송비와 배송 기간은 위 표에 있습니다.",
           "SHEIN과 테무는 같은 회사인가요? 아니요. 서로 다른 쇼핑몰이며, 배송비·배송 기간·반품 규정이 각각 따로 있습니다.",
           "SHEIN과 테무는 얼마 동안 반품할 수 있나요? SHEIN은 수령 후 60일 이내, 테무는 구매 후 90일 이내입니다. 테무는 같은 주문의 첫 반품은 무료이고, 두 번째 반품부터 배송비 2,500원을 공제합니다.",
           "해외에서 오는 상품에도 세금이 붙나요? 수입 세금은 나라마다 다릅니다. 총 금액은 결제 전에 각 쇼핑몰의 결제 화면에서 확인하세요.",
@@ -68680,7 +68702,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "옷을 입어 보지 않고 사면서 반품 기한을 가장 길게 두고 싶다면 테무를 고르세요. 구매 후 90일 이내입니다."
+        "옷을 입어 보지 않고 사면서 가장 길게 공개된 반품 기한을 원한다면 테무를 고르세요. 구매 후 90일 이내이며, 내 상품이 정책에 해당하는 경우입니다."
       ],
       "skipIf": [
         "수령 후 60일보다 더 긴 반품 기한이 필요하다면 SHEIN은 건너뛰세요."
@@ -68708,6 +68730,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN と Temu はどっちがいい？日本向けに公表されている送料、お届け日数、返品を比べ、買うものに合わせた選び方と買う前の確認点をまとめました。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -68721,7 +68744,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "すべての人に合うお店はありません。何を買うか、返品できることをどれだけ大事にするかで選ぶお店は変わり、返品期限がいちばん長いのは Temu で、購入日から90日以内です。価格は比べておらず、配送も試していません。何を確認するかは「買うものに合わせた選び方」にまとめました。"
+          "すべての人に合うお店はありません。何を買うか、返品できることをどれだけ大事にするかで選ぶお店は変わり、返品期限がいちばん長く公表されているのは Temu で、購入日から90日以内です（対象商品の場合）。価格は比べておらず、配送も試していません。何を確認するかは「買うものに合わせた選び方」にまとめました。"
         ]
       },
       {
@@ -68757,7 +68780,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "返品",
-              "購入から40日以内",
+              "購入から40日以内（ほとんどの新品が対象。対象外の商品あり）",
               "購入日から90日以内。同じ注文の2回目以降の返品は、送料550円が返金額から差し引かれます（1回目は無料）"
             ]
           ]
@@ -68776,8 +68799,8 @@ export const reviewsData: unknown[] = [
           "公表されている返品期限は、SHEIN が購入から40日以内、Temu が購入日から90日以内です。"
         ],
         "bullets": [
-          "**Temu：** 購入日から90日以内。同じ注文の1回目の返品は無料で、2回目以降は Temu が返金額から送料550円を差し引きます。",
-          "**SHEIN：** 購入から40日以内。"
+          "**Temu：** 購入日から90日以内。対象は多くの商品で、商品によっては条件があります。Temu の返品ポリシーで確認してください。同じ注文の1回目の返品は無料で、2回目以降は Temu が返金額から送料550円を差し引きます。",
+          "**SHEIN：** 購入から40日以内。対象は新品の多くで、対象外の商品があります。詳しくは SHEIN 日本の返品ポリシーで確認してください。"
         ]
       },
       {
@@ -68800,7 +68823,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "買うものに合わせた選び方",
-        "emphasis": "表の数字で見ると、試着せずに服を買う人には Temu が向いています。返品期限が90日あるからです。",
+        "emphasis": "試着できない服を買うときは、期限の長さだけでなく、対象になる商品かどうかを見ましょう。Temu は購入日から90日以内、SHEIN は購入から40日以内ですが、どちらも商品によって条件が異なります。",
         "bullets": [
           "**返品に余裕がほしい：** Temu は購入日から90日以内、SHEIN は購入から40日以内です。",
           "**いつまでに届いてほしい：** 商品ページや注文ページで、お届けの目安を確認しましょう。",
@@ -68838,7 +68861,7 @@ export const reviewsData: unknown[] = [
           "SHEIN と Temu はどちらが早く届きますか？ この記事では配送を試していません。SHEIN はお急ぎ便のお届け予定を注文ページに表示し、Temu は通常配送で5〜14日（処理は1〜3日）と公表しています。送料とお届け日数は上の表にまとめました。",
           "SHEIN と Temu の違いは何ですか？ いちばん違うのは返品期限です。Temu は購入日から90日以内、SHEIN は購入から40日以内で、送料とお届け日数は上の表のとおりです。",
           "SHEIN と Temu は同じ会社ですか？ いいえ。別々のお店で、送料、お届け日数、返品のルールもそれぞれ違います。",
-          "SHEIN と Temu の返品期限はいつまでですか？ SHEIN は購入から40日以内、Temu は購入日から90日以内です。Temu は同じ注文の1回目の返品が無料で、2回目以降は送料550円が返金額から差し引かれます。",
+          "SHEIN と Temu の返品期限はいつまでですか？ SHEIN は購入から40日以内（対象外の商品あり）、Temu は購入日から90日以内（対象商品の場合）です。Temu は同じ注文の1回目の返品が無料で、2回目以降は送料550円が返金額から差し引かれます。",
           "海外から届く荷物には、関税がかかりますか？ 税関によると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、革製のカバンやハンドバッグ、編物（ニット）製の衣類（Tシャツ、セーターなど）、革靴など、免税にならない物品もあります。どのお店で買っても同じです。",
           "4CW5Y はクーポンですか？ いいえ。SHEIN の紹介コードで、SHEIN の検索バーで検索します。"
         ]
@@ -68866,10 +68889,10 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "試着せずに服を買い、返品期限をいちばん長く取りたいなら、Temu を選びましょう。購入日から90日以内です。"
+        "試着せずに服を買い、返品期限を長く取りたいなら、Temu を選びましょう。購入日から90日以内で、対象になる商品かどうかを確認します。"
       ],
       "skipIf": [
-        "SHEIN の購入から40日より長い返品期限がほしいなら、SHEIN は見送りましょう。"
+        "購入から40日より長い返品期限がほしいなら、SHEIN は見送りましょう。対象外の商品もあります。"
       ]
     }
   },
@@ -68894,6 +68917,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 還是 Temu？比較兩家平台在新加坡與馬來西亞公布的運費、時效與退貨，以及依購物需求怎麼選。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -68907,7 +68931,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "沒有一家平台適合所有人：怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。退貨期限最長的是 Temu，購買後 90 天內。我們不比較價格，也沒有測試配送。買前要確認什麼，見下文「依購物需求怎麼選」。"
+          "沒有一家平台適合所有人：怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。公布的退貨期限最長的是 Temu：新加坡站大多數商品為購買後 90 天內。我們不比較價格，也沒有測試配送。買前要確認什麼，見下文「依購物需求怎麼選」。"
         ]
       },
       {
@@ -68943,8 +68967,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "退貨",
-              "大多數全新商品在收到後 15 天內；Especificar S$3 vs S$4 pela página",
-              "購買後 90 天內（按 Temu 的退貨政策）；每筆訂單第一次退貨免費，第二次起從退款中扣除退貨運費（投遞點每件約 S$2.55）"
+              "大多數全新商品在收到後 15 天內；第二次退貨起要扣費，金額以 SHEIN 頁面為準",
+              "購買後 90 天內，大多數商品適用，服飾等部分品類另有條件（按 Temu 的退貨政策）；每筆訂單第一次退貨免費，第二次起從退款中扣除退貨運費（投遞點每件約 S$2.55）"
             ]
           ]
         }
@@ -68986,7 +69010,7 @@ export const reviewsData: unknown[] = [
           "兩家公布的退貨期限相差很大：Temu 從購買日起算，SHEIN 從收到商品起算。"
         ],
         "bullets": [
-          "**Temu：** 購買後 90 天內，新加坡和馬來西亞都一樣。每筆訂單第一次退貨免費，第二次起從退款中扣除退貨運費。",
+          "**Temu：** 新加坡站為購買後 90 天內，適用於大多數商品，服飾等部分品類另有條件；馬來西亞站的條件以該站頁面為準。每筆訂單第一次退貨免費，第二次起從退款中扣除退貨運費。",
           "**SHEIN：** 新加坡站大多數全新商品在收到後 15 天內，馬來西亞站在收到後 20 天內。同一訂單第二次退貨起要扣費。"
         ]
       },
@@ -69010,7 +69034,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "依購物需求怎麼選",
-        "emphasis": "依表格上的數字，買衣服沒辦法試穿的人，選 Temu：它給 90 天的退貨期限。",
+        "emphasis": "買衣服沒辦法試穿時，先比較兩家的退貨期限從哪天開始算：Temu 的 90 天從購買日算起，SHEIN 從收到商品算起，兩家都有條件不同的品類。下單前先確認你要買的那件商品適用什麼條件。",
         "bullets": [
           "**想要有充裕的退貨時間：** Temu 是購買後 90 天內；SHEIN 新加坡站是收到後 15 天內，馬來西亞站是 20 天內。",
           "**需要在某個日期前收到：** 到商品頁面或訂單頁面確認送達時間。",
@@ -69048,7 +69072,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 和 Temu 哪個比較快到貨？ 這篇文章沒有測試配送。在新加坡，SHEIN 公布標準配送 3–5 個工作日，Temu 公布 3–6 個工作日（處理 1–3 天）；在馬來西亞，SHEIN 是 3–5 個工作日，Temu 是 4–15 個工作日（處理 1–3 天）。",
           "SHEIN 和 Temu 有什麼差別？ 差別最大的是退貨期限：Temu 是購買後 90 天內，SHEIN 新加坡站是收到後 15 天內，馬來西亞站是 20 天內。運費和時效見上面的表格。",
           "SHEIN 和 Temu 是同一家公司嗎？ 不是。它們是不同的平台，運費、時效和退貨規則各不相同。",
-          "SHEIN 和 Temu 的退貨期限是多久？ SHEIN 新加坡站大多數全新商品在收到後 15 天內，馬來西亞站在收到後 20 天內；Temu 在兩個國家都是購買後 90 天內，每筆訂單第一次退貨免費。",
+          "SHEIN 和 Temu 的退貨期限是多久？ SHEIN 新加坡站大多數全新商品在收到後 15 天內，馬來西亞站在收到後 20 天內；Temu 公布的是購買後 90 天內（新加坡站適用於大多數商品，服飾等部分品類另有條件，馬來西亞站以該站頁面為準），每筆訂單第一次退貨免費。",
           "4CW5Y 是優惠券嗎？ 不是。它是 SHEIN 的推薦碼，要在 SHEIN 的搜尋欄搜尋。"
         ]
       }
@@ -69075,7 +69099,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "買衣服沒辦法試穿、又想要最長的退貨期限，就選 Temu：購買後 90 天內。"
+        "買衣服沒辦法試穿、又想要公布的最長退貨期限，就選 Temu：購買後 90 天內，前提是這件商品適用該政策。"
       ],
       "skipIf": [
         "如果你想要比 SHEIN 更長的退貨期限，就先別選 SHEIN：新加坡站收到後 15 天內，馬來西亞站收到後 20 天內。"
@@ -69103,6 +69127,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 还是 Temu？对比两家平台在新加坡与马来西亚公布的运费、时效与退货，以及按购物需求怎么选。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -69116,7 +69141,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。退货期限最长的是 Temu，购买后 90 天内。我们不比较价格，也没有测试配送。买前要确认什么，见下文「按购物需求怎么选」。"
+          "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。公布的退货期限最长的是 Temu：新加坡站大多数商品为购买后 90 天内。我们不比较价格，也没有测试配送。买前要确认什么，见下文「按购物需求怎么选」。"
         ]
       },
       {
@@ -69152,8 +69177,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "退货",
-              "大多数全新商品在收到后 15 天内；Especificar qual método custa S$3 vs S$4 pela página da loja",
-              "购买后 90 天内（按 Temu 的退货政策）；每个订单第一次退货免费，第二次起从退款中扣除退货运费（投递点每件约 S$2.55）"
+              "大多数全新商品在收到后 15 天内；第二次退货起要扣费，金额以 SHEIN 页面为准",
+              "购买后 90 天内，大多数商品适用，服饰等部分品类另有条件（按 Temu 的退货政策）；每个订单第一次退货免费，第二次起从退款中扣除退货运费（投递点每件约 S$2.55）"
             ]
           ]
         }
@@ -69195,7 +69220,7 @@ export const reviewsData: unknown[] = [
           "两家公布的退货期限相差很大：Temu 从购买日算起，SHEIN 从收到商品算起。"
         ],
         "bullets": [
-          "**Temu：** 购买后 90 天内，新加坡和马来西亚都一样。每个订单第一次退货免费，第二次起从退款中扣除退货运费。",
+          "**Temu：** 新加坡站为购买后 90 天内，适用于大多数商品，服饰等部分品类另有条件；马来西亚站的条件以该站页面为准。每个订单第一次退货免费，第二次起从退款中扣除退货运费。",
           "**SHEIN：** 新加坡站大多数全新商品在收到后 15 天内，马来西亚站在收到后 20 天内。同一订单第二次退货起要扣费。"
         ]
       },
@@ -69219,7 +69244,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "按购物需求怎么选",
-        "emphasis": "按表格里的数字，买衣服没法试穿的人，选 Temu：它给 90 天的退货期限。",
+        "emphasis": "买衣服没法试穿时，先比较两家的退货期限从哪天开始算：Temu 的 90 天从购买日算起，SHEIN 从收到商品算起，两家都有条件不同的品类。下单前先确认你要买的那件商品适用什么条件。",
         "bullets": [
           "**想要有充裕的退货时间：** Temu 是购买后 90 天内；SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。",
           "**需要在某个日期前收到：** 到商品页面或订单页面确认送达时间。",
@@ -69257,7 +69282,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 和 Temu 哪个到货更快？ 这篇文章没有测试配送。在新加坡，SHEIN 公布标准配送 3–5 个工作日，Temu 公布 3–6 个工作日（处理 1–3 天）；在马来西亚，SHEIN 是 3–5 个工作日，Temu 是 4–15 个工作日（处理 1–3 天）。",
           "SHEIN 和 Temu 有什么区别？ 差别最大的是退货期限：Temu 是购买后 90 天内，SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。运费和时效见上面的表格。",
           "SHEIN 和 Temu 是同一家公司吗？ 不是。它们是不同的平台，运费、时效和退货规则各不相同。",
-          "SHEIN 和 Temu 的退货期限是多久？ SHEIN 新加坡站大多数全新商品在收到后 15 天内，马来西亚站在收到后 20 天内；Temu 在两个国家都是购买后 90 天内，每个订单第一次退货免费。",
+          "SHEIN 和 Temu 的退货期限是多久？ SHEIN 新加坡站大多数全新商品在收到后 15 天内，马来西亚站在收到后 20 天内；Temu 公布的是购买后 90 天内（新加坡站适用于大多数商品，服饰等部分品类另有条件，马来西亚站以该站页面为准），每个订单第一次退货免费。",
           "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 的推荐码，要在 SHEIN 的搜索栏搜索。"
         ]
       }
@@ -69284,7 +69309,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "买衣服没法试穿、又想要最长的退货期限，就选 Temu：购买后 90 天内。"
+        "买衣服没法试穿、又想要公布的最长退货期限，就选 Temu：购买后 90 天内，前提是这件商品适用该政策。"
       ],
       "skipIf": [
         "如果你想要比 SHEIN 更长的退货期限，就先别选 SHEIN：新加坡站收到后 15 天内，马来西亚站收到后 20 天内。"
@@ -69309,11 +69334,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A YesStyle entrega em Portugal, com prazo e frete publicados, mas na última leitura não oferecia entrega para o Brasil. Veja a tabela e o capítulo do imposto.",
+    "description": "A YesStyle entrega em Portugal, com prazo e frete publicados, mas no momento não oferece entrega para o Brasil. Veja a tabela e o capítulo do imposto.",
     "metaDescription": "YesStyle com o código de recompensa CECILIA010, até 5% na primeira compra: prazo, frete e imposto para Portugal, com o envio ao Brasil suspenso.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
@@ -69326,7 +69351,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, os envios voltaram por um tempo, quando um pedido nosso saiu, e foram suspensos de novo: na última leitura, a loja não oferecia entrega para o país. Veja abaixo a tabela e o capítulo do imposto."
+          "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente: no momento, a loja não oferece entrega para o país. Veja abaixo a tabela e o capítulo do imposto."
         ]
       },
       {
@@ -69370,7 +69395,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a loja mostra sobre o Brasil",
         "paragraphs": [
           "A tabela de frete e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
-          "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express. Os envios ao Brasil voltaram nesse intervalo e foram suspensos de novo: em 28/10/2026, a loja não oferecia entrega para o Brasil. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
+          "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express. Isso mostra que esse pedido saiu, não que os envios voltaram: em 28/10/2026, a loja não oferecia entrega para o Brasil. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
         ]
       },
       {
@@ -69419,7 +69444,7 @@ export const reviewsData: unknown[] = [
           "**Aguardando estoque: 7, 7-14, 21 ou 30 dias:** a loja compra o item do fornecedor depois do pedido, e ele sai do armazém nesse prazo, em dias úteis."
         ],
         "postParagraphs": [
-          "Pedido com um item em estoque e outro aguardando estoque normalmente sai junto, quando o último fica disponível. Com um item de 7-14 dias, o pedido para Portugal passa a levar de 17 a 29 dias úteis."
+          "Pedido com um item em estoque e outro aguardando estoque pode sair em mais de um envio; se sair tudo junto, só quando o último fica disponível. Com um item de 7-14 dias, o pedido para Portugal passa a levar de 17 a 29 dias úteis."
         ]
       },
       {
@@ -69452,7 +69477,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**Pague a cobrança** quando o pacote chegar: quem recusa o pacote por causa da taxa não recebe reembolso nem reenvio.",
+          "**Pague a cobrança** quando o pacote chegar: a YesStyle diz que não se responsabiliza por reembolso nem reenvio de pacote recusado por questões alfandegárias.",
           "**Guarde o comprovante** do pagamento, com a data.",
           "**Mande o comprovante por e-mail** ao atendimento da YesStyle em até 30 dias da data dele. Sem comprovante, ou depois de 30 dias, a loja não analisa o pedido."
         ],
@@ -69507,15 +69532,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: os envios voltaram por um tempo, quando um pedido nosso saiu, e foram suspensos de novo; na última leitura, a loja não oferecia entrega para o país.",
-          "A YesStyle voltou a entregar no Brasil? Voltou por um tempo, sem aviso de retomada depois da pausa de julho (um pedido nosso feito em setembro foi enviado dois dias depois), e suspendeu de novo: na última leitura, a loja não oferecia entrega para o Brasil.",
+          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente; no momento, a loja não oferece entrega para o país.",
+          "A YesStyle voltou a entregar no Brasil? Não: depois da pausa de julho não houve aviso de retomada. Um pedido nosso feito em setembro saiu dois dias depois, mas, na última leitura, a loja não oferecia entrega para o Brasil.",
           "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
           "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
           "A YesStyle tem taxa ou imposto? Em Portugal, o IVA já vem no preço; no Brasil, o pacote paga Imposto de Importação mais ICMS depois que chega, veja o exemplo no capítulo do imposto.",
           "A YesStyle reembolsa a taxa da alfândega? Sim, em crédito na loja, em pedidos abaixo de US$ 1.000, com o comprovante mandado ao atendimento em até 30 dias; no Brasil, a política não cita o ICMS.",
           "Como pagar na YesStyle? Com cartão Visa, Mastercard, American Express ou JCB, PayPal, Apple Pay ou Google Pay; na compra em dólar, o banco pode cobrar taxa de transação internacional.",
           "Como devolver um produto da YesStyle? Peça o número de RMA em até 14 dias do recebimento e despache o pacote em até 30 dias; produto de beleza aberto e suplemento não voltam, e reação na pele não dá reembolso.",
-          "Por que o prazo muda de um pedido para outro? Porque ele soma a disponibilidade dos itens, que pode levar até 30 dias úteis, ao prazo do envio, e o pedido normalmente sai junto, quando o último item fica disponível.",
+          "Por que o prazo muda de um pedido para outro? Porque ele soma a disponibilidade dos itens, que pode levar até 30 dias úteis, ao prazo do envio, e o pedido pode sair em mais de um envio; se sair tudo junto, só quando o último item fica disponível.",
           "Onde ficam os cupons e o código de recompensa da YesStyle? Na página da YesStyle aqui do site, com os cupons do momento e o CECILIA010, que vai no campo Reward Code."
         ]
       }
@@ -69562,7 +69587,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Delivery times, free shipping and taxes from the store's Oct 13, 2026 table.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -69652,7 +69677,7 @@ export const reviewsData: unknown[] = [
               "New Zealand",
               "Express, 3 to 5 business days",
               "from US$ 100",
-              "US$ 12/US$ 18 with order-value bands from table (add bands or remove vague cell)"
+              "Depends on the order value; see the cost at checkout"
             ]
           ]
         },
@@ -69709,7 +69734,7 @@ export const reviewsData: unknown[] = [
           "**Awaiting Stock: 7, 7-14, 21 or 30 days:** the store buys the item from the supplier after the order, and it leaves the warehouse within that time, in business days."
         ],
         "postParagraphs": [
-          "An order with one in-stock item and one awaiting-stock item usually ships together, when the last one becomes available. With a 7-14 days item, a US Standard order takes 14 to 25 business days."
+          "An order with one in-stock item and one awaiting-stock item can ship in more than one shipment; if it ships together, it is when the last one becomes available. With a 7-14 days item, a US Standard order takes 14 to 25 business days."
         ]
       },
       {
@@ -69743,7 +69768,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**Pay the charge** when the package arrives: if you refuse the package because of the charge, you get neither a refund nor a reshipment.",
+          "**Pay the charge** when the package arrives: YesStyle says it is not responsible for a refund or reshipment of a package refused over customs issues.",
           "**Keep the receipt** of the payment, with its date.",
           "**Email the receipt** to YesStyle customer service within 30 days of its date. Without a receipt, or after 30 days, the store does not review the request."
         ],
@@ -69805,7 +69830,7 @@ export const reviewsData: unknown[] = [
           "How do I pay at YesStyle? With a Visa, Mastercard, American Express or JCB card, PayPal, Apple Pay or Google Pay. Your bank may charge an international transaction fee.",
           "How do I return a YesStyle product? Request an RMA number within 14 days of receipt and ship the package within 30 days; opened beauty products and supplements cannot be returned, and a skin reaction gives no refund.",
           "Does YesStyle ship to US territories and Northern Ireland? To US territories, yes: places such as Puerto Rico, Guam and the US Virgin Islands have their own table, with Standard in 9 to 14 business days and free shipping from US$ 80. Northern Ireland is not served at the moment.",
-          "Why does delivery time vary from one order to another? Because the total adds the availability of each item, which can take up to 30 business days, to the shipping time, and the order usually ships together, when the last item becomes available.",
+          "Why does delivery time vary from one order to another? Because the total adds the availability of each item, which can take up to 30 business days, to the shipping time, and the order can ship in more than one shipment; if it ships together, it is when the last item becomes available.",
           "Where can I find YesStyle's coupons and the Reward Code? On the YesStyle page on this site, which lists today's coupons and the CECILIA010 Reward Code. The code goes in the Reward Code field at checkout."
         ]
       }
@@ -69852,7 +69877,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos y envío gratis según la tabla de la tienda del 13 de octubre de 2026, e impuestos.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -69872,7 +69897,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Plazo y costo de envío en España, México, Chile, Perú, Argentina y Colombia",
         "paragraphs": [
-          "El envío Standard tarda de 10 a 15 días hábiles en España, de 10 a 13 en México, de 15 a 20 en Chile, de 15 a 22 en Perú y Colombia y de 15 a 27 en Argentina, con los valores en dólares estadounidenses, como los publica la tienda. La tabla de abajo sale de la tabla de envío vigente desde el 13 de octubre de 2026 (07:15 GMT), leída el mismo día; los impuestos, de las páginas de impuestos de la tienda, leídas el 12 de octubre de 2026. Remover frase; manter só tabela 13/10 + impostos 12/10",
+          "El envío Standard tarda de 10 a 15 días hábiles en España, de 10 a 13 en México, de 15 a 20 en Chile, de 15 a 22 en Perú y Colombia y de 15 a 27 en Argentina, con los valores en dólares estadounidenses, como los publica la tienda. La tabla de abajo sale de la tabla de envío vigente desde el 13 de octubre de 2026 (07:15 GMT), leída el mismo día; los impuestos, de las páginas de impuestos de la tienda, leídas el 12 de octubre de 2026.",
           "Al plazo del envío se suma el tiempo que tarda el producto en salir del almacén, que se explica más abajo."
         ],
         "comparisonTable": {
@@ -69975,7 +70000,7 @@ export const reviewsData: unknown[] = [
           "**A la espera de producto: 7, 7-14, 21 o 30 días:** la tienda le compra el producto al proveedor después del pedido, y el producto sale del almacén en ese plazo, en días hábiles."
         ],
         "postParagraphs": [
-          "Un pedido con un producto disponible y otro a la espera de producto suele salir junto, cuando el último está disponible. Con un producto de 7-14 días, el pedido a España pasa a tardar de 17 a 29 días hábiles."
+          "Un pedido con un producto disponible y otro a la espera de producto puede salir en más de un envío; si sale todo junto, solo cuando el último está disponible. Con un producto de 7-14 días, el pedido a España pasa a tardar de 17 a 29 días hábiles."
         ]
       },
       {
@@ -70005,7 +70030,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.0156
         },
         "bullets": [
-          "**Paga el cobro** cuando llegue el paquete: si rechazas el paquete por el cobro, no recibes reembolso ni reenvío.",
+          "**Paga el cobro** cuando llegue el paquete: YesStyle indica que no se hace responsable del reembolso ni del reenvío de un paquete rechazado por cuestiones aduaneras.",
           "**Guarda el comprobante** del pago, con su fecha.",
           "**Envía el comprobante por correo electrónico** a atención al cliente de YesStyle en un máximo de 30 días desde su fecha. Sin comprobante, o pasados los 30 días, la tienda no revisa la solicitud."
         ],
@@ -70067,7 +70092,7 @@ export const reviewsData: unknown[] = [
           "¿Cómo pagar en YesStyle? Con tarjeta Visa, Mastercard, American Express o JCB, con PayPal, Apple Pay o Google Pay y, solo si la dirección de entrega está en México, con OXXO. El banco puede cobrar una tarifa por transacción internacional.",
           "¿Cómo devolver un producto de YesStyle? Pide el número de RMA en un máximo de 14 días desde la recepción y envía el paquete en un máximo de 30 días; los productos de belleza abiertos y los suplementos no se devuelven, y una reacción en la piel no da derecho a reembolso.",
           "¿YesStyle envía a toda España? No: el envío no incluye las Baleares, las Canarias (Tenerife incluida), Ceuta ni Melilla.",
-          "¿Por qué el plazo cambia de un pedido a otro? Porque suma la disponibilidad de los productos, que puede llevar hasta 30 días hábiles, al plazo del envío, y el pedido suele salir junto, cuando el último producto está disponible.",
+          "¿Por qué el plazo cambia de un pedido a otro? Porque suma la disponibilidad de los productos, que puede llevar hasta 30 días hábiles, al plazo del envío, y el pedido puede salir en más de un envío; si sale todo junto, solo cuando el último producto está disponible.",
           "¿Dónde están los cupones y el código de recompensa de YesStyle? En la página de YesStyle de este sitio, con los cupones vigentes y CECILIA010, que va en el campo Código de Recompensa (Reward Code)."
         ]
       }
@@ -70114,7 +70139,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, livraison gratuite et taxes d'après la grille de la boutique du 13 octobre 2026.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -70147,7 +70172,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "France (la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna)",
+              "France (la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, les Terres australes françaises, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna)",
               "Standard, 10 à 15 jours ouvrés",
               "dès US$ 45",
               "US$ 5"
@@ -70219,7 +70244,7 @@ export const reviewsData: unknown[] = [
           "**Réapprovisionnement : 7 jours, 7 à 14 jours, 21 jours ou 30 jours :** la boutique achète l'article au fournisseur après la commande, et il quitte l'entrepôt dans ce délai, en jours ouvrés."
         ],
         "postParagraphs": [
-          "Une commande avec un article en stock et un autre en réapprovisionnement part en général en un seul envoi, quand le dernier devient disponible. Avec un article « Réapprovisionnement : 7 à 14 jours », la commande pour la France prend de 17 à 29 jours ouvrés."
+          "Une commande avec un article en stock et un autre en réapprovisionnement peut partir en plusieurs envois, et en un seul envoi seulement quand le dernier devient disponible. Avec un article « Réapprovisionnement : 7 à 14 jours », la commande pour la France prend de 17 à 29 jours ouvrés."
         ]
       },
       {
@@ -70250,7 +70275,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**Réglez la somme demandée** à l'arrivée du colis : si vous refusez le colis à cause des frais, vous n'obtenez ni remboursement ni réexpédition.",
+          "**Réglez la somme demandée** à l'arrivée du colis : YesStyle indique ne pas être responsable du remboursement ni de la réexpédition d'un colis refusé pour des questions douanières.",
           "**Gardez le justificatif** du paiement, avec sa date.",
           "**Envoyez le justificatif par e-mail** au service client de YesStyle dans les 30 jours suivant sa date. Sans justificatif, ou après 30 jours, la boutique n'examine pas la demande."
         ],
@@ -70311,8 +70336,8 @@ export const reviewsData: unknown[] = [
           "YesStyle rembourse-t-il les frais de douane ? Oui, en crédit en boutique, sur les commandes de moins de US$ 1 000, si vous envoyez le justificatif au service client dans les 30 jours. La TVA déjà perçue au paiement n'est pas remboursée.",
           "Comment payer sur YesStyle ? Par carte (Visa, Mastercard, American Express ou JCB), PayPal, Apple Pay ou Google Pay. Votre banque peut appliquer des frais de transaction internationale.",
           "Comment retourner un produit YesStyle ? Demandez un numéro de RMA dans les 14 jours suivant la réception et expédiez le colis dans les 30 jours ; les produits de beauté ouverts et les compléments alimentaires ne sont pas repris, et une réaction cutanée ne donne pas droit à un remboursement.",
-          "YesStyle livre-t-il dans toute la France ? Non : la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna.",
-          "Pourquoi le délai change-t-il d'une commande à l'autre ? Parce qu'il additionne la disponibilité des articles, qui peut aller jusqu'à 30 jours ouvrés, au délai d'expédition, et la commande part en général en un seul envoi, quand le dernier article devient disponible.",
+          "YesStyle livre-t-il dans toute la France ? Non : la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, les Terres australes françaises, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna.",
+          "Pourquoi le délai change-t-il d'une commande à l'autre ? Parce qu'il additionne la disponibilité des articles, qui peut aller jusqu'à 30 jours ouvrés, au délai d'expédition, et la commande peut partir en plusieurs envois, et en un seul envoi seulement quand le dernier article devient disponible.",
           "Où trouver les coupons et le code récompense de YesStyle ? Sur la page YesStyle de ce site, avec les coupons du moment et le code récompense CECILIA010, qui se saisit dans le champ « Reward Code »."
         ]
       }
@@ -70359,7 +70384,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Gratisversand und MwSt. laut Versandtabelle vom 13.10.2026 sowie Zollerstattung.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -70470,7 +70495,7 @@ export const reviewsData: unknown[] = [
           "**Mit Wartezeit: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage:** Der Shop kauft den Artikel nach der Bestellung beim Lieferanten ein, und er verlässt das Lager in dieser Zeit, gerechnet in Werktagen."
         ],
         "postParagraphs": [
-          "Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet, wird in der Regel zusammen verschickt, sobald der letzte verfügbar ist. Mit einem Artikel „Mit Wartezeit: 7–14 Tage“ braucht die Bestellung nach Deutschland 17 bis 29 Werktage."
+          "Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet, kann in mehreren Sendungen verschickt werden; kommt alles zusammen, dann erst, sobald der letzte verfügbar ist. Mit einem Artikel „Mit Wartezeit: 7–14 Tage“ braucht die Bestellung nach Deutschland 17 bis 29 Werktage."
         ]
       },
       {
@@ -70501,7 +70526,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**Zahlen Sie die Abgabe**, wenn das Paket ankommt: Wer die Annahme des Pakets wegen der Gebühr verweigert, bekommt weder eine Erstattung noch einen erneuten Versand.",
+          "**Zahlen Sie die Abgabe**, wenn das Paket ankommt: YesStyle erklärt, für eine Erstattung oder einen erneuten Versand eines wegen Zollfragen verweigerten Pakets nicht verantwortlich zu sein.",
           "**Bewahren Sie den Zahlungsbeleg auf**, mit dem Datum.",
           "**Schicken Sie den Beleg per E-Mail** innerhalb von 30 Tagen ab Belegdatum an den Kundenservice von YesStyle. Ohne Beleg oder nach 30 Tagen prüft der Shop den Antrag nicht."
         ],
@@ -70563,7 +70588,7 @@ export const reviewsData: unknown[] = [
           "Wie kann ich bei YesStyle bezahlen? Mit Visa, Mastercard, American Express oder JCB, mit PayPal, Apple Pay oder Google Pay. Bei einer Zahlung in Dollar kann Ihre Bank eine Gebühr für internationale Transaktionen berechnen.",
           "Wie gebe ich ein Produkt von YesStyle zurück? Fordern Sie die RMA-Nummer innerhalb von 14 Tagen nach Erhalt an und schicken Sie das Paket innerhalb von 30 Tagen ab. Geöffnete Beauty-Produkte und Nahrungsergänzungsmittel werden nicht zurückgenommen, und eine Hautreaktion begründet keinen Anspruch auf Erstattung.",
           "Von wo versendet YesStyle? Jede Bestellung verlässt das Lager von YesStyle in Hongkong.",
-          "Warum ändert sich die Lieferzeit von Bestellung zu Bestellung? Weil sich die Gesamtzeit aus der Verfügbarkeit der Artikel, die bis zu 30 Werktage dauern kann, und der Versanddauer zusammensetzt. Die Bestellung wird in der Regel zusammen verschickt, sobald der letzte Artikel verfügbar ist.",
+          "Warum ändert sich die Lieferzeit von Bestellung zu Bestellung? Weil sich die Gesamtzeit aus der Verfügbarkeit der Artikel, die bis zu 30 Werktage dauern kann, und der Versanddauer zusammensetzt. Die Bestellung kann in mehreren Sendungen verschickt werden; wird alles zusammen verschickt, dann erst, sobald der letzte Artikel verfügbar ist.",
           "Wo finde ich die Gutscheine und den Reward Code von YesStyle? Auf der YesStyle-Seite dieser Website, mit den aktuellen Gutscheinen und dem Reward Code CECILIA010, der in das Feld Reward Code kommt."
         ]
       }
@@ -70610,7 +70635,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle spedisce in Italia? Tempi, spedizione gratuita e IVA secondo la tabella del negozio del 13/10/2026, e come ottenere il rimborso delle spese doganali.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -70703,7 +70728,7 @@ export const reviewsData: unknown[] = [
           "**In attesa di stock: 7, 7-14, 21 o 30 giorni:** il negozio acquista l'articolo dal fornitore dopo l'ordine, e l'articolo esce dal magazzino in quel numero di giorni lavorativi."
         ],
         "postParagraphs": [
-          "Un ordine con un articolo disponibile e uno in attesa di stock di solito parte tutto insieme, quando anche l'ultimo diventa disponibile. Con un articolo a 7-14 giorni, l'ordine per l'Italia richiede da 17 a 29 giorni lavorativi."
+          "Un ordine con un articolo disponibile e uno in attesa di stock può partire in più spedizioni; se parte tutto insieme, è quando anche l'ultimo diventa disponibile. Con un articolo a 7-14 giorni, l'ordine per l'Italia richiede da 17 a 29 giorni lavorativi."
         ]
       },
       {
@@ -70732,7 +70757,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 5.8707
         },
         "bullets": [
-          "**Paga l'addebito** quando arriva il pacco: se rifiuti il pacco per via dell'addebito, non ricevi né il rimborso né un nuovo invio.",
+          "**Paga l'addebito** quando arriva il pacco: YesStyle dichiara di non essere responsabile del rimborso né del nuovo invio di un pacco rifiutato per questioni doganali.",
           "**Conserva la ricevuta** del pagamento, con la data.",
           "**Manda la ricevuta via e-mail** al servizio clienti di YesStyle entro 30 giorni dalla sua data. Senza ricevuta, o dopo 30 giorni, il negozio non esamina la richiesta."
         ],
@@ -70794,7 +70819,7 @@ export const reviewsData: unknown[] = [
           "Come si paga su YesStyle? Con carta Visa, Mastercard, American Express o JCB, con PayPal, Apple Pay o Google Pay. Pagando in dollari, la banca può addebitare una commissione per transazione internazionale.",
           "Come si restituisce un prodotto di YesStyle? Chiedi il numero RMA entro 14 giorni dalla ricezione e spedisci il pacco entro 30 giorni; i prodotti di bellezza aperti e gli integratori non si restituiscono, e una reazione cutanea non dà diritto al rimborso.",
           "Da dove spedisce YesStyle? Ogni ordine parte dal magazzino di YesStyle a Hong Kong.",
-          "Perché i tempi cambiano da un ordine all'altro? Perché ai tempi della spedizione si aggiunge la disponibilità degli articoli, che può richiedere fino a 30 giorni lavorativi, e l'ordine di solito parte tutto insieme, quando l'ultimo articolo diventa disponibile.",
+          "Perché i tempi cambiano da un ordine all'altro? Perché ai tempi della spedizione si aggiunge la disponibilità degli articoli, che può richiedere fino a 30 giorni lavorativi, e l'ordine può partire in più spedizioni; se parte tutto insieme, è quando l'ultimo articolo diventa disponibile.",
           "Dove trovo i coupon e il codice ricompensa di YesStyle? Nella pagina di YesStyle su questo sito, con i coupon del momento e con CECILIA010, che va nel campo Reward Code."
         ]
       }
@@ -70841,7 +70866,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle은 한국으로 배송하나요? Express 영업일 3~5일, US$ 50 이상 무료배송, 세관 부과금 환급 방법을 2026년 10월 13일 배송표 기준으로 정리했습니다.",
     "publishedAt": "2026년 10월 13일",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -70934,7 +70959,7 @@ export const reviewsData: unknown[] = [
           "**Awaiting Stock: 7 days, 7-14 days, 21 days, 30 days(입고 대기: 7일, 7~14일, 21일, 30일):** 주문이 들어온 뒤 YesStyle이 공급업체에서 상품을 사들이고, 표시된 영업일 안에 창고에서 출고됩니다."
         ],
         "postParagraphs": [
-          "재고가 있는 상품과 입고 대기 상품을 함께 주문하면 보통 마지막 상품이 준비될 때 한꺼번에 출고됩니다. ‘Awaiting Stock: 7-14 days’ 상품이 있으면 한국행 주문은 영업일 10~19일이 걸립니다."
+          "재고가 있는 상품과 입고 대기 상품을 함께 주문하면 여러 번에 나뉘어 출고될 수 있으며, 한꺼번에 출고된다면 마지막 상품이 준비된 때입니다. ‘Awaiting Stock: 7-14 days’ 상품이 있으면 한국행 주문은 영업일 10~19일이 걸립니다."
         ]
       },
       {
@@ -70963,7 +70988,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**부과금을 내세요:** 패키지가 도착했을 때 냅니다. 부과금 때문에 패키지 수령을 거부하면 환급도 재발송도 받을 수 없습니다.",
+          "**부과금을 내세요:** 패키지가 도착했을 때 냅니다. YesStyle은 통관 문제로 수령이 거부된 패키지에 대해 환급이나 재발송 책임을 지지 않는다고 밝히고 있습니다.",
           "**영수증을 보관하세요:** 날짜가 적힌 납부 영수증을 보관합니다.",
           "**영수증을 이메일로 보내세요:** 영수증 날짜로부터 30일 안에 YesStyle 고객센터로 보냅니다. 영수증이 없거나 30일이 지나면 YesStyle은 요청을 검토하지 않습니다."
         ],
@@ -71025,7 +71050,7 @@ export const reviewsData: unknown[] = [
           "YesStyle은 어떻게 결제하나요? Visa, Mastercard, American Express, JCB 카드와 PayPal, Apple Pay, Google Pay로 결제합니다. 달러로 결제하면 카드사나 은행이 해외 결제 수수료를 부과할 수 있습니다.",
           "YesStyle 상품은 어떻게 반품하나요? 수령 후 14일 안에 RMA 번호를 요청하고 30일 안에 패키지를 발송하세요. 개봉한 뷰티 제품과 건강보조식품은 반품할 수 없고, 피부 반응이 있어도 환불되지 않습니다.",
           "YesStyle은 어디에서 발송하나요? 모든 주문은 홍콩에 있는 YesStyle 창고에서 출고됩니다.",
-          "주문마다 배송 기간이 다른 이유는 무엇인가요? 상품별 준비 기간(최대 영업일 30일)에 배송 기간이 더해지고, 주문은 보통 마지막 상품이 준비될 때 한꺼번에 출고되기 때문입니다.",
+          "주문마다 배송 기간이 다른 이유는 무엇인가요? 상품별 준비 기간(최대 영업일 30일)에 배송 기간이 더해지고, 주문은 여러 번에 나뉘어 출고될 수 있고, 한꺼번에 출고된다면 마지막 상품이 준비된 때이기 때문입니다.",
           "YesStyle 쿠폰과 리워드 코드는 어디에서 확인하나요? 이 사이트의 YesStyle 페이지에서 지금 유효한 쿠폰을 볼 수 있고, CECILIA010은 Reward Code 칸에 입력합니다."
         ]
       }
@@ -71072,7 +71097,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyleは日本に配送できる？Expressで4〜5営業日、US$50以上で送料無料です。2026年10月13日からの送料表と、関税の返金の条件をまとめました。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -71165,7 +71190,7 @@ export const reviewsData: unknown[] = [
           "**Awaiting Stock: 7 days、7-14 days、21 days、30 days（入荷待ち：7日、7〜14日、21日、30日）：** 注文のあとにストアがサプライヤーから商品を仕入れ、表示された営業日数で倉庫から出荷されます。"
         ],
         "postParagraphs": [
-          "在庫のある商品と入荷待ちの商品を一緒に注文すると、通常は最後の商品がそろった時点でまとめて出荷されます。「Awaiting Stock: 7-14 days」の商品があると、日本への注文は11〜19営業日かかります。"
+          "在庫のある商品と入荷待ちの商品を一緒に注文すると、複数に分けて出荷される場合があり、まとめて出荷されるなら最後の商品がそろった時点になります。「Awaiting Stock: 7-14 days」の商品があると、日本への注文は11〜19営業日かかります。"
         ]
       },
       {
@@ -71194,7 +71219,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**請求された料金を支払う：** 荷物が届いたときに支払ってください。請求を理由に荷物の受け取りを拒否すると、返金も再送もありません。",
+          "**請求された料金を支払う：** 荷物が届いたときに支払ってください。YesStyleは、通関上の問題で受け取りを拒否された荷物について、返金や再送の責任を負わないとしています。",
           "**領収書を保管する：** 支払いの日付が入った領収書を保管してください。",
           "**領収書をメールで送る：** 領収書の日付から30日以内に、YesStyleのカスタマーサービスへ送ってください。領収書がない場合や30日を過ぎた場合、ストアは申請を審査しません。"
         ],
@@ -71256,7 +71281,7 @@ export const reviewsData: unknown[] = [
           "YesStyleの支払い方法は何ですか？Visa、Mastercard、American Express、JCBの各カード、PayPal、Apple Pay、Google Payで支払えます。米ドルでの支払いでは、カード会社や銀行が海外事務手数料を請求する場合があります。",
           "YesStyleの商品は、どうやって返品しますか？受け取りから14日以内にRMA番号を申請し、30日以内に荷物を発送してください。開封した美容製品とサプリメントは返品できず、肌に合わなかった場合も返金されません。",
           "YesStyleは、どこから発送しますか？香港の倉庫から発送します。",
-          "注文によって届くまでの日数が違うのは、なぜですか？商品ごとの出荷までの日数（最大30営業日）に配送日数が加わり、注文は通常、最後の商品がそろった時点でまとめて出荷されるからです。",
+          "注文によって届くまでの日数が違うのは、なぜですか？商品ごとの出荷までの日数（最大30営業日）に配送日数が加わり、注文は複数に分けて出荷されることがあり、まとめて出荷される場合は最後の商品がそろった時点になるからです。",
           "YesStyleのクーポンとリワードコードは、どこで見られますか？このサイトのYesStyleのページです。今日のクーポンと、Reward Code欄に入力するCECILIA010が載っています。"
         ]
       }
@@ -71303,7 +71328,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 會寄到台灣、香港與澳門嗎？依 2026年10月13日起的運費表，整理 Express 與順豐的運送時間、免運門檻，以及海關費用的退款條件。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -71408,7 +71433,7 @@ export const reviewsData: unknown[] = [
           "**Awaiting Stock: 7 days、7-14 days、21 days 或 30 days（待補貨，7 天、7 至 14 天、21 天或 30 天）：** 商店在下單後才向供應商採購，商品會在所示時間內從倉庫寄出，以工作天計。"
         ],
         "postParagraphs": [
-          "同時含有庫存商品與待補貨商品的訂單，通常會等最後一件商品備妥後一起寄出。若有一件「Awaiting Stock: 7-14 days」的商品，寄往台灣的訂單就需要 10 至 20 個工作天。"
+          "同時含有庫存商品與待補貨商品的訂單，可能分多次寄出；若一起寄出，則要等最後一件商品備妥。若有一件「Awaiting Stock: 7-14 days」的商品，寄往台灣的訂單就需要 10 至 20 個工作天。"
         ]
       },
       {
@@ -71437,7 +71462,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**包裹送達時付清費用：** 因被收費而拒收包裹，不會獲得退款，也不會重寄。",
+          "**包裹送達時付清費用：** YesStyle 表示，因海關問題被拒收的包裹，店方不負責退款或重寄。",
           "**保留付款收據**，收據上要有日期。",
           "**以電子郵件把收據寄給 YesStyle 客服**，期限為收據日期起 30 天內。沒有收據或超過 30 天，商店不會受理申請。"
         ],
@@ -71499,7 +71524,7 @@ export const reviewsData: unknown[] = [
           "在 YesStyle 怎麼付款？可用 Visa、Mastercard、American Express 或 JCB 信用卡，也可用 PayPal、Apple Pay 或 Google Pay；以美元付款時，銀行可能收取海外交易手續費。",
           "在 YesStyle 怎麼退貨？請在收到商品後 14 天內申請 RMA 編號，並在 30 天內寄出包裹；已拆封的美妝品和營養補充品無法退貨，皮膚反應也不能退款。",
           "YesStyle 從哪裡寄出？從位於香港的倉庫寄出。",
-          "為什麼不同訂單的送達時間不一樣？因為送達時間等於每件商品的備貨時間（最長可達 30 個工作天）加上運送時間，而且訂單通常會等最後一件商品備妥後一起寄出。",
+          "為什麼不同訂單的送達時間不一樣？因為送達時間等於每件商品的備貨時間（最長可達 30 個工作天）加上運送時間，而且訂單可能分多次寄出，若一起寄出，則要等最後一件商品備妥。",
           "YesStyle 的優惠券和獎勵碼在哪裡？在本站的 YesStyle 頁面，有今日的優惠券，以及填在 Reward Code 欄位的 CECILIA010。"
         ]
       }
@@ -71546,7 +71571,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 会寄到新加坡与马来西亚吗？依据 2026年10月13日起生效的运费表，整理两地的运送时间、免运费门槛、GST 与销售税，以及海关费用的退款条件。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -71645,7 +71670,7 @@ export const reviewsData: unknown[] = [
           "**Awaiting Stock: 7 days、7-14 days、21 days 或 30 days（待补货，7 天、7 至 14 天、21 天或 30 天）：** 商店在下单后才向供应商采购，商品会在所示时间内从仓库寄出，以工作日计。"
         ],
         "postParagraphs": [
-          "同时含有库存商品与待补货商品的订单，通常会等最后一件商品备妥后一起寄出。若有一件「Awaiting Stock: 7-14 days」的商品，寄往新加坡的订单就需要 10 至 19 个工作日。"
+          "同时含有库存商品与待补货商品的订单，可能分多次寄出；若一起寄出，则要等最后一件商品备妥。若有一件「Awaiting Stock: 7-14 days」的商品，寄往新加坡的订单就需要 10 至 19 个工作日。"
         ]
       },
       {
@@ -71675,7 +71700,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.5907
         },
         "bullets": [
-          "**包裹送达时付清费用：** 因被收费而拒收包裹的，既不退款，也不重寄。",
+          "**包裹送达时付清费用：** YesStyle 表示，因海关问题被拒收的包裹，店方不负责退款或重寄。",
           "**保留付款收据**，收据上要有日期。",
           "**用电邮把收据发给 YesStyle 客服**，期限为收据日期起 30 天内。没有收据或超过 30 天，商店不会受理申请。"
         ],
@@ -71737,7 +71762,7 @@ export const reviewsData: unknown[] = [
           "在 YesStyle 怎么付款？可用 Visa、Mastercard、American Express、JCB 信用卡、PayPal、Apple Pay 或 Google Pay；以美元付款时，银行可能收取海外交易手续费。",
           "在 YesStyle 怎么退货？请在收到商品后 14 天内申请 RMA 编号，并在 30 天内寄出包裹；已拆封的美妆产品和营养补充品无法退货，皮肤反应也不能退款。",
           "YesStyle 从哪里寄出？从位于香港的仓库寄出。",
-          "为什么不同订单的送达时间不一样？因为送达时间由每件商品的备货时间（最长可达 30 个工作日）加上运送时间组成，而且订单通常会等最后一件商品备妥后一起寄出。",
+          "为什么不同订单的送达时间不一样？因为送达时间由每件商品的备货时间（最长可达 30 个工作日）加上运送时间组成，而且订单可能分多次寄出，若一起寄出，则要等最后一件商品备妥。",
           "YesStyle 的优惠券和奖励码在哪里？在本站的 YesStyle 页面：那里列有今日的优惠券，以及要填入 Reward Code 栏位的奖励码 CECILIA010。"
         ]
       }
@@ -105288,6 +105313,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código de recompensa CECILIA010 dá até 5% de desconto na YesStyle. YesStyle ou Olive Young Global: frete, prazo, imposto e entrega por país.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
@@ -105367,7 +105393,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O imposto muda de país para país nas duas lojas. Na Olive Young, ele entra no checkout em alguns países e fica para a entrega em outros, por conta do cliente.",
           "**Olive Young.** A página separa os países em grupos. No Reino Unido, na Noruega, na Austrália e em Singapura, o imposto aparece como cobrado na compra. O Reino Unido pode cobrar IVA e taxas em pedidos acima de £ 135; a Noruega tem IVA de 25%, a Austrália, GST de 10%, e Singapura, 9%. Na União Europeia, desde os pedidos feitos em 31/07/2026, a Olive Young calcula e cobra no checkout o IVA do país e € 3 de imposto de importação por código HS (categoria aduaneira), depois que você digita o endereço; em pedido abaixo de US$ 60 com frete, o IVA também incide sobre o frete. A loja diz que nada mais é cobrado na entrega. No Canadá e em Israel, a cobrança cai na entrega: o Canadá pode cobrar IVA em pedidos acima de CA$ 20, e Israel, taxas acima de US$ 75, e a transportadora local pode cobrar uma taxa. Portugal é da União Europeia, então o imposto da Olive Young já aparece no total do checkout. A loja não aceita devolução nem reembolso por causa de imposto ou taxa de importação (FAQ de taxas da UE).",
-          "**YesStyle.** Em Portugal, o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 01/07/2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, por enquanto, paga essa taxa pelo cliente (artigo de entrega). No Brasil, o imposto cai depois que o pacote chega: fora do Remessa Conforme, a Receita cobra Imposto de Importação de 60% e ICMS de 17% a 20%, conforme o estado. A YesStyle reembolsa taxas de alfândega cobradas na entrega em pedidos abaixo de US$ 1.000, em crédito na loja, se você mandar o comprovante em até 30 dias. A política não cita o ICMS. Os números do Brasil vêm do artigo de entrega."
+          "**YesStyle.** Em Portugal, o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 01/07/2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, por enquanto, paga essa taxa pelo cliente (artigo de entrega). No Brasil, o imposto cai depois que o pacote chega: fora do Remessa Conforme, a Receita cobra Imposto de Importação de 60% e ICMS de 17% a 20%, conforme o estado. A YesStyle reembolsa em crédito na loja impostos e taxas ligados à alfândega pagos na entrega, em pedidos abaixo de US$ 1.000 (valor antes do desconto e sem frete), se o comprovante chegar à loja em até 30 dias da data do pagamento. Imposto sobre vendas (IVA, GST) de alguns destinos, como a União Europeia e o Reino Unido, e taxas da transportadora, como armazenagem, não entram. A política não cita o ICMS. Os números do Brasil vêm do artigo de entrega."
         ]
       },
       {
@@ -105418,7 +105444,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Programa de membros e pontos",
         "paragraphs": [
-          "Na Olive Young, o OY MEMBERS é grátis e devolve de 0,5% a 2,5% da compra em pontos; o cadastro dá o nível BABY na hora. Os outros níveis são recalculados na primeira segunda-feira de janeiro e de julho, pela compra do semestre anterior, e sobem na hora se a compra do semestre atual passar do limite. Na página de membros, a faixa de cada nível é esta; o nível atual vale até o fim do ano."
+          "Na Olive Young, o OY MEMBERS é grátis e devolve de 0,5% a 2,5% da compra em pontos; o cadastro dá o nível BABY na hora. Os outros níveis são recalculados na primeira segunda-feira de janeiro e de julho, pela compra do semestre anterior, e, se a compra do semestre atual passar do limite, o nível maior vale no dia seguinte, por volta da meia-noite da Coreia. Na página de membros, a faixa de cada nível é esta; segundo a página, o programa vale até o fim do ano e pode mudar ou acabar."
         ],
         "comparisonTable": {
           "headers": [
@@ -105462,7 +105488,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "Gráfico de barras com os cinco níveis do OY MEMBERS, de BABY a GOLD, a compra no semestre que leva a cada um e a porcentagem de pontos de volta",
-          "caption": "Níveis do OY MEMBERS: compra no semestre, em US$, e pontos de volta, de 0,5% a 2,5%. Página de membros; o nível atual vale até o fim do ano.",
+          "caption": "Níveis do OY MEMBERS: compra no semestre, em US$, e pontos de volta, de 0,5% a 2,5%. Página de membros; o programa vale até o fim do ano e pode mudar.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -105586,6 +105612,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle or Olive Young? See free shipping, delivery time, tax and returns by country, from the official pages.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -105640,7 +105667,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Tax varies from country to country at both stores. At Olive Young, it is added at checkout in some countries and left for delivery in others, paid by the customer.",
           "**Olive Young.** The page splits the countries into groups. In the United Kingdom, Norway, Australia and Singapore, tax shows up as charged at purchase. The United Kingdom may charge VAT and fees on orders above £135; Norway has 25% VAT, Australia 10% GST, and Singapore 9%. In the European Union, for orders placed since Jul 31, 2026, Olive Young calculates and charges at checkout the country's VAT and €3 of import duty per HS code (customs category), once you enter your address; on an order under US$60 with shipping, VAT also applies to the shipping. The store says nothing else is charged on delivery. In Canada and Israel, the charge falls on delivery: Canada may charge VAT on orders above CA$20, and Israel, fees above US$75, and the local carrier may charge a fee. The store does not accept returns or refunds because of tax or import fees (EU fees FAQ).",
-          "**YesStyle.** Since Jul 1, 2026, the European Union charges €3 per customs category on parcels under €150, and YesStyle says that, for now, it pays this fee on the customer's behalf (shipping article). YesStyle refunds customs fees charged on delivery for orders under US$1,000, as store credit, if you send the receipt within 30 days."
+          "**YesStyle.** Since Jul 1, 2026, the European Union charges €3 per customs category on parcels under €150, and YesStyle says that, for now, it pays this fee on the customer's behalf (shipping article). YesStyle refunds customs-related taxes and fees paid on delivery, as store credit, on orders under US$1,000 (the amount before discounts and without shipping), if the receipt reaches the store within 30 days of the payment date. Sales-type taxes (VAT, GST) for some destinations, including the European Union and the United Kingdom, and courier fees such as storage are not covered."
         ]
       },
       {
@@ -105691,7 +105718,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Membership program and points",
         "paragraphs": [
-          "At Olive Young, OY MEMBERS is free and returns 0.5% to 2.5% of your purchase in points; signing up gives you the BABY tier right away. The other tiers are recalculated on the first Monday of January and July, based on the previous half-year's purchases, and go up immediately if the current half-year's purchases pass the threshold. On the members page, the range for each tier is as follows; the current tier is valid until the end of the year."
+          "At Olive Young, OY MEMBERS is free and returns 0.5% to 2.5% of your purchase in points; signing up gives you the BABY tier right away. The other tiers are recalculated on the first Monday of January and July, based on the previous half-year's purchases, and a higher tier takes effect the next day, around midnight Korean time, if the current half-year's purchases pass the threshold. On the members page, the range for each tier is as follows; the page says the program runs until the end of the year and may change or end."
         ],
         "comparisonTable": {
           "headers": [
@@ -105735,7 +105762,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "Bar chart with the five OY MEMBERS tiers, from BABY to GOLD, the half-year purchases that lead to each and the percentage of points back",
-          "caption": "OY MEMBERS tiers: purchases in the half-year, in US$, and points back, from 0.5% to 2.5%. Members page; the current tier is valid until the end of the year.",
+          "caption": "OY MEMBERS tiers: purchases in the half-year, in US$, and points back, from 0.5% to 2.5%. Members page; the program runs until the end of the year and may change.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -105847,6 +105874,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿YesStyle u Olive Young? Mira el envío gratis, el plazo, el impuesto y la devolución por país, según las páginas oficiales.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -105901,7 +105929,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "El impuesto cambia de un país a otro en las dos tiendas. En Olive Young, entra en el pago en algunos países y queda para la entrega en otros, a cargo del cliente.",
           "**Olive Young.** La página separa los países en grupos. En Reino Unido, Noruega, Australia y Singapur, el impuesto aparece como cobrado en la compra. Reino Unido puede cobrar IVA y tasas en pedidos de más de 135 £; Noruega tiene un IVA del 25 %, Australia un GST del 10 % y Singapur del 9 %. En la Unión Europea, desde los pedidos hechos el 31/07/2026, Olive Young calcula y cobra en el pago el IVA del país y 3 € de impuesto de importación por código HS (categoría aduanera), después de que escribas la dirección; en un pedido de menos de 60 US$ con envío, el IVA también recae sobre el envío. La tienda dice que no se cobra nada más en la entrega. En Canadá e Israel, el cobro cae en la entrega: Canadá puede cobrar IVA en pedidos de más de 20 CA$, e Israel, tasas por encima de 75 US$, y el transportista local puede cobrar una tarifa. La tienda no acepta devolución ni reembolso por impuestos o tasas de importación (FAQ de tasas de la UE).",
-          "**YesStyle.** Desde el 01/07/2026, la Unión Europea cobra 3 € por categoría aduanera en paquetes de menos de 150 €, y YesStyle dice que, por ahora, paga esa tasa por el cliente (artículo de envío). YesStyle reembolsa las tasas de aduana cobradas en la entrega en pedidos de menos de 1.000 US$, en crédito de la tienda, si envías el comprobante en un plazo de 30 días."
+          "**YesStyle.** Desde el 01/07/2026, la Unión Europea cobra 3 € por categoría aduanera en paquetes de menos de 150 €, y YesStyle dice que, por ahora, paga esa tasa por el cliente (artículo de envío). YesStyle reembolsa, en crédito de la tienda, los impuestos y tasas de aduana pagados en la entrega en pedidos de menos de 1.000 US$ (importe antes del descuento y sin envío), si el comprobante le llega en un plazo de 30 días desde la fecha del pago. Los impuestos sobre ventas (IVA, GST) de algunos destinos, como la Unión Europea y el Reino Unido, y las tarifas del transportista, como el almacenaje, no entran."
         ]
       },
       {
@@ -105952,7 +105980,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Programa de miembros y puntos",
         "paragraphs": [
-          "En Olive Young, OY MEMBERS es gratis y devuelve de un 0,5 % a un 2,5 % de la compra en puntos; el registro da el nivel BABY al instante. Los otros niveles se recalculan el primer lunes de enero y de julio, según la compra del semestre anterior, y suben al instante si la compra del semestre actual supera el límite. En la página de miembros, el rango de cada nivel es este; el nivel actual vale hasta el final del año."
+          "En Olive Young, OY MEMBERS es gratis y devuelve de un 0,5 % a un 2,5 % de la compra en puntos; el registro da el nivel BABY al instante. Los otros niveles se recalculan el primer lunes de enero y de julio, según la compra del semestre anterior, y, si la compra del semestre actual supera el límite, el nivel superior rige desde el día siguiente, hacia la medianoche de Corea. En la página de miembros, el rango de cada nivel es este; según esa página, el programa vale hasta el final del año y puede cambiar o terminar."
         ],
         "comparisonTable": {
           "headers": [
@@ -105996,7 +106024,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "Gráfico de barras con los cinco niveles de OY MEMBERS, de BABY a GOLD, la compra en el semestre que lleva a cada uno y el porcentaje de puntos de vuelta",
-          "caption": "Niveles de OY MEMBERS: compra en el semestre, en US$, y puntos de vuelta, del 0,5 % al 2,5 %. Página de miembros; el nivel actual vale hasta el final del año.",
+          "caption": "Niveles de OY MEMBERS: compra en el semestre, en US$, y puntos de vuelta, del 0,5 % al 2,5 %. Página de miembros; el programa vale hasta el final del año y puede cambiar.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -106108,6 +106136,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle ou Olive Young ? Livraison gratuite, délai, taxes et retours par pays, d'après les pages officielles.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -106162,7 +106191,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Les taxes changent d'un pays à l'autre dans les deux boutiques. Chez Olive Young, elles sont ajoutées au paiement dans certains pays et laissées à la livraison dans d'autres, à la charge du client.",
           "**Olive Young.** La page répartit les pays en groupes. Au Royaume-Uni, en Norvège, en Australie et à Singapour, la taxe apparaît comme perçue à l'achat. Le Royaume-Uni peut percevoir la TVA et des frais sur les commandes de plus de 135 £ ; la Norvège a une TVA de 25 %, l'Australie une GST de 10 %, et Singapour 9 %. Dans l'Union européenne, pour les commandes passées depuis le 31/07/2026, Olive Young calcule et perçoit au paiement la TVA du pays et 3 € de droits d'importation par code HS (catégorie douanière), une fois l'adresse saisie ; sur une commande de moins de 60 $US avec livraison, la TVA s'applique aussi à la livraison. La boutique indique que rien d'autre n'est perçu à la livraison. Au Canada et en Israël, la perception a lieu à la livraison : le Canada peut percevoir la TVA sur les commandes de plus de 20 CA$, et Israël des taxes au-delà de 75 $US, et le transporteur local peut facturer des frais. La boutique n'accepte ni retour ni remboursement pour cause de taxe ou de frais d'importation (FAQ sur les taxes de l'UE).",
-          "**YesStyle.** Depuis le 01/07/2026, l'Union européenne perçoit 3 € par catégorie douanière sur les colis de moins de 150 €, et YesStyle indique que, pour l'instant, elle règle ces frais à la place du client (article sur la livraison). YesStyle rembourse les frais de douane perçus à la livraison sur les commandes de moins de 1 000 $US, en crédit boutique, si vous envoyez le justificatif sous 30 jours."
+          "**YesStyle.** Depuis le 01/07/2026, l'Union européenne perçoit 3 € par catégorie douanière sur les colis de moins de 150 €, et YesStyle indique que, pour l'instant, elle règle ces frais à la place du client (article sur la livraison). YesStyle rembourse en crédit boutique les taxes et frais liés à la douane payés à la livraison, sur les commandes de moins de 1 000 $US (montant avant remise et hors livraison), si le justificatif lui parvient sous 30 jours à compter de la date du paiement. Les taxes sur les ventes (TVA, GST) de certaines destinations, dont l'Union européenne et le Royaume-Uni, et les frais du transporteur, comme le stockage, ne sont pas couverts."
         ]
       },
       {
@@ -106213,7 +106242,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Programme de membres et points",
         "paragraphs": [
-          "Chez Olive Young, OY MEMBERS est gratuit et rend de 0,5 % à 2,5 % de l'achat en points ; l'inscription donne tout de suite le niveau BABY. Les autres niveaux sont recalculés le premier lundi de janvier et de juillet, d'après les achats du semestre précédent, et montent aussitôt si les achats du semestre en cours dépassent le seuil. Sur la page des membres, la tranche de chaque niveau est la suivante ; le niveau actuel est valable jusqu'à la fin de l'année."
+          "Chez Olive Young, OY MEMBERS est gratuit et rend de 0,5 % à 2,5 % de l'achat en points ; l'inscription donne tout de suite le niveau BABY. Les autres niveaux sont recalculés le premier lundi de janvier et de juillet, d'après les achats du semestre précédent, et, si les achats du semestre en cours dépassent le seuil, le niveau supérieur s'applique dès le lendemain, vers minuit heure coréenne. Sur la page des membres, la tranche de chaque niveau est la suivante ; selon cette page, le programme court jusqu'à la fin de l'année et peut changer ou prendre fin."
         ],
         "comparisonTable": {
           "headers": [
@@ -106257,7 +106286,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "Graphique en barres avec les cinq niveaux d'OY MEMBERS, de BABY à GOLD, l'achat du semestre qui mène à chacun et le pourcentage de points rendus",
-          "caption": "Niveaux d'OY MEMBERS : achats du semestre, en $US, et points rendus, de 0,5 % à 2,5 %. Page des membres ; le niveau actuel est valable jusqu'à la fin de l'année.",
+          "caption": "Niveaux d'OY MEMBERS : achats du semestre, en $US, et points rendus, de 0,5 % à 2,5 %. Page des membres ; le programme court jusqu'à la fin de l'année et peut changer.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -106369,6 +106398,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle oder Olive Young? Kostenloser Versand, Lieferzeit, Steuern und Rückgabe je Land, nach den offiziellen Seiten.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -106423,7 +106453,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Die Steuern ändern sich in beiden Shops von Land zu Land. Bei Olive Young werden sie in einigen Ländern im Checkout erhoben und in anderen bei der Lieferung fällig, auf Kosten des Kunden.",
           "**Olive Young.** Die Seite teilt die Länder in Gruppen ein. Im Vereinigten Königreich, in Norwegen, Australien und Singapur erscheint die Steuer als beim Kauf erhoben. Das Vereinigte Königreich kann bei Bestellungen über 135 £ Mehrwertsteuer und Gebühren erheben; Norwegen hat 25 % Mehrwertsteuer, Australien 10 % GST und Singapur 9 %. In der Europäischen Union berechnet und erhebt Olive Young bei Bestellungen seit dem 31.07.2026 im Checkout die Mehrwertsteuer des Landes und 3 € Einfuhrzoll je HS-Code (Zollkategorie), sobald Sie die Adresse eingeben; bei einer Bestellung unter 60 US-$ mit Versand fällt die Mehrwertsteuer auch auf den Versand an. Der Shop sagt, dass bei der Lieferung nichts weiter erhoben wird. In Kanada und Israel fällt die Erhebung bei der Lieferung an: Kanada kann bei Bestellungen über 20 CA$ Mehrwertsteuer erheben, Israel Gebühren über 75 US-$, und der lokale Transporteur kann eine Gebühr verlangen. Der Shop nimmt wegen Steuern oder Einfuhrgebühren weder zurück noch erstattet er (FAQ zu den EU-Gebühren).",
-          "**YesStyle.** Seit dem 01.07.2026 erhebt die Europäische Union 3 € je Zollkategorie bei Paketen unter 150 €, und YesStyle sagt, dass sie diese Gebühr vorerst für den Kunden übernimmt (Versandartikel). YesStyle erstattet bei der Lieferung erhobene Zollgebühren bei Bestellungen unter 1.000 US-$ als Shop-Guthaben, wenn Sie den Beleg innerhalb von 30 Tagen senden."
+          "**YesStyle.** Seit dem 01.07.2026 erhebt die Europäische Union 3 € je Zollkategorie bei Paketen unter 150 €, und YesStyle sagt, dass sie diese Gebühr vorerst für den Kunden übernimmt (Versandartikel). YesStyle erstattet zollbezogene Steuern und Gebühren, die bei der Lieferung gezahlt wurden, bei Bestellungen unter 1.000 US-$ (Betrag vor Rabatt und ohne Versand) als Shop-Guthaben, wenn der Beleg innerhalb von 30 Tagen nach dem Zahlungsdatum bei YesStyle eingeht. Verkaufssteuern (MwSt., GST) bei einigen Zielen, darunter die Europäische Union und das Vereinigte Königreich, sowie Gebühren des Zustellers wie Lagerung sind nicht erfasst."
         ]
       },
       {
@@ -106474,7 +106504,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mitgliedsprogramm und Punkte",
         "paragraphs": [
-          "Bei Olive Young ist OY MEMBERS kostenlos und gibt 0,5 % bis 2,5 % des Einkaufs in Punkten zurück; die Anmeldung bringt sofort die Stufe BABY. Die anderen Stufen werden am ersten Montag im Januar und im Juli neu berechnet, nach dem Einkauf des vorherigen Halbjahres, und steigen sofort, wenn der Einkauf des laufenden Halbjahres die Grenze überschreitet. Auf der Mitgliederseite ist die Spanne jeder Stufe diese; die aktuelle Stufe gilt bis zum Jahresende."
+          "Bei Olive Young ist OY MEMBERS kostenlos und gibt 0,5 % bis 2,5 % des Einkaufs in Punkten zurück; die Anmeldung bringt sofort die Stufe BABY. Die anderen Stufen werden am ersten Montag im Januar und im Juli neu berechnet, nach dem Einkauf des vorherigen Halbjahres, und eine höhere Stufe gilt ab dem nächsten Tag, gegen Mitternacht koreanischer Zeit, wenn der Einkauf des laufenden Halbjahres die Grenze überschreitet. Auf der Mitgliederseite ist die Spanne jeder Stufe diese; laut dieser Seite läuft das Programm bis zum Jahresende und kann sich ändern oder enden."
         ],
         "comparisonTable": {
           "headers": [
@@ -106518,7 +106548,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "Balkendiagramm mit den fünf Stufen von OY MEMBERS, von BABY bis GOLD, dem Einkauf im Halbjahr, der zu jeder führt, und dem Prozentsatz der zurückgegebenen Punkte",
-          "caption": "Stufen von OY MEMBERS: Einkauf im Halbjahr, in US-$, und Punkte zurück, von 0,5 % bis 2,5 %. Mitgliederseite; die aktuelle Stufe gilt bis zum Jahresende.",
+          "caption": "Stufen von OY MEMBERS: Einkauf im Halbjahr, in US-$, und Punkte zurück, von 0,5 % bis 2,5 %. Mitgliederseite; das Programm läuft bis zum Jahresende und kann sich ändern.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -106630,6 +106660,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle o Olive Young? Spedizione gratuita, tempi, imposte e resi per paese, secondo le pagine ufficiali.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -106684,7 +106715,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Le imposte cambiano da un paese all'altro in entrambi i negozi. Su Olive Young, entrano al checkout in alcuni paesi e restano alla consegna in altri, a carico del cliente.",
           "**Olive Young.** La pagina divide i paesi in gruppi. Nel Regno Unito, in Norvegia, in Australia e a Singapore, l'imposta risulta riscossa all'acquisto. Il Regno Unito può riscuotere IVA e tasse sugli ordini oltre 135 £; la Norvegia ha un'IVA del 25%, l'Australia una GST del 10%, e Singapore del 9%. Nell'Unione Europea, dagli ordini effettuati il 31/07/2026, Olive Young calcola e riscuote al checkout l'IVA del paese e 3 € di dazio d'importazione per codice HS (categoria doganale), dopo che inserisci l'indirizzo; su un ordine sotto 60 USD con spedizione, l'IVA si applica anche alla spedizione. Il negozio dice che alla consegna non viene riscosso nient'altro. In Canada e in Israele, il prelievo avviene alla consegna: il Canada può riscuotere l'IVA sugli ordini oltre 20 CA$, e Israele tasse oltre 75 USD, e il corriere locale può addebitare una tariffa. Il negozio non accetta resi né rimborsi per imposte o tasse d'importazione (FAQ sulle tasse UE).",
-          "**YesStyle.** Dal 01/07/2026, l'Unione Europea riscuote 3 € per categoria doganale sui pacchi sotto i 150 €, e YesStyle dice che, per ora, paga lei questa tassa al posto del cliente (articolo sulla spedizione). YesStyle rimborsa le spese doganali addebitate alla consegna sugli ordini sotto 1.000 USD, in credito del negozio, se invii la ricevuta entro 30 giorni."
+          "**YesStyle.** Dal 01/07/2026, l'Unione Europea riscuote 3 € per categoria doganale sui pacchi sotto i 150 €, e YesStyle dice che, per ora, paga lei questa tassa al posto del cliente (articolo sulla spedizione). YesStyle rimborsa in credito del negozio le imposte e le spese doganali pagate alla consegna, sugli ordini sotto 1.000 USD (importo prima dello sconto e senza spedizione), se la ricevuta le arriva entro 30 giorni dalla data del pagamento. Le imposte sulle vendite (IVA, GST) di alcune destinazioni, tra cui l'Unione Europea e il Regno Unito, e le tariffe del corriere, come il deposito, non sono coperte."
         ]
       },
       {
@@ -106735,7 +106766,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Programma soci e punti",
         "paragraphs": [
-          "Su Olive Young, OY MEMBERS è gratuito e restituisce dallo 0,5% al 2,5% dell'acquisto in punti; l'iscrizione dà subito il livello BABY. Gli altri livelli vengono ricalcolati il primo lunedì di gennaio e di luglio, in base agli acquisti del semestre precedente, e salgono subito se gli acquisti del semestre in corso superano la soglia. Nella pagina dei soci, la fascia di ciascun livello è questa; il livello attuale vale fino a fine anno."
+          "Su Olive Young, OY MEMBERS è gratuito e restituisce dallo 0,5% al 2,5% dell'acquisto in punti; l'iscrizione dà subito il livello BABY. Gli altri livelli vengono ricalcolati il primo lunedì di gennaio e di luglio, in base agli acquisti del semestre precedente, e, se gli acquisti del semestre in corso superano la soglia, il livello superiore scatta il giorno dopo, intorno alla mezzanotte coreana. Nella pagina dei soci, la fascia di ciascun livello è questa; secondo la pagina, il programma vale fino a fine anno e può cambiare o terminare."
         ],
         "comparisonTable": {
           "headers": [
@@ -106779,7 +106810,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "Grafico a barre con i cinque livelli di OY MEMBERS, da BABY a GOLD, l'acquisto nel semestre che porta a ciascuno e la percentuale di punti restituiti",
-          "caption": "Livelli di OY MEMBERS: acquisti nel semestre, in USD, e punti restituiti, dallo 0,5% al 2,5%. Pagina dei soci; il livello attuale vale fino a fine anno.",
+          "caption": "Livelli di OY MEMBERS: acquisti nel semestre, in USD, e punti restituiti, dallo 0,5% al 2,5%. Pagina dei soci; il programma vale fino a fine anno e può cambiare.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -106891,6 +106922,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle과 Olive Young, 어디가 나을까요? 나라별 무료배송 기준, 배송 기간, 세금, 반품을 공식 페이지로 비교합니다.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -106945,7 +106977,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "세금은 나라마다, 그리고 쇼핑몰마다 다릅니다. Olive Young은 어떤 나라에서는 결제할 때 세금을 받고, 어떤 나라에서는 배달 때 구매자가 부담하게 합니다.",
           "**Olive Young.** 페이지는 나라를 그룹으로 나눕니다. 영국, 노르웨이, 호주, 싱가포르에서는 세금이 구매 시점에 부과됩니다. 영국은 £135를 넘는 주문에 VAT와 수수료가 붙을 수 있고, 노르웨이는 VAT 25%, 호주는 GST 10%, 싱가포르는 9%입니다. EU에서는 2026년 7월 31일 이후 주문부터, 주소를 입력하면 결제 화면에서 해당 국가의 VAT와 HS 코드(관세 분류)당 €3의 수입 관세를 계산해 받습니다. 배송비를 포함해 US$60 미만인 주문은 VAT가 배송비에도 붙습니다. 쇼핑몰은 배달 때 더 이상 받지 않는다고 밝힙니다. 캐나다와 이스라엘은 배달 때 부과됩니다. 캐나다는 CA$20를 넘는 주문에 VAT가 붙을 수 있고, 이스라엘은 US$75를 넘으면 수수료가 붙으며 현지 운송사가 수수료를 받기도 합니다. 쇼핑몰은 세금이나 수입 수수료를 이유로 한 반품과 환불은 받지 않습니다(EU 세금 FAQ).",
-          "**YesStyle.** 2026년 7월 1일부터 EU는 €150 미만 소포에 관세 분류당 €3를 부과하며, YesStyle은 당분간 이 수수료를 고객 대신 낸다고 밝혔습니다(배송 글). 배달 때 부과된 통관 수수료는 US$1,000 미만 주문이라면 영수증을 30일 안에 보내면 스토어 크레딧으로 환급됩니다."
+          "**YesStyle.** 2026년 7월 1일부터 EU는 €150 미만 소포에 관세 분류당 €3를 부과하며, YesStyle은 당분간 이 수수료를 고객 대신 낸다고 밝혔습니다(배송 글). 배달 때 낸 통관 관련 세금과 수수료는 US$1,000 미만 주문(할인 전 금액, 배송비 제외)이라면 결제일로부터 30일 안에 영수증이 도착해야 스토어 크레딧으로 환급됩니다. EU와 영국 등 일부 배송지의 판매세(VAT, GST)와 보관료 같은 운송업체 수수료는 대상이 아닙니다."
         ]
       },
       {
@@ -106996,7 +107028,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "멤버십과 포인트",
         "paragraphs": [
-          "Olive Young의 OY MEMBERS는 무료이고 구매 금액의 0.5%에서 2.5%를 포인트로 돌려줍니다. 가입하면 바로 BABY 등급이 됩니다. 나머지 등급은 매년 1월과 7월의 첫째 월요일에 직전 반기의 구매 금액으로 다시 계산되고, 이번 반기의 구매 금액이 기준을 넘으면 그 즉시 올라갑니다. 멤버 페이지에 나온 등급별 구간은 아래와 같고, 현재 등급은 그해 말까지 유효합니다."
+          "Olive Young의 OY MEMBERS는 무료이고 구매 금액의 0.5%에서 2.5%를 포인트로 돌려줍니다. 가입하면 바로 BABY 등급이 됩니다. 나머지 등급은 매년 1월과 7월의 첫째 월요일에 직전 반기의 구매 금액으로 다시 계산되고, 이번 반기의 구매 금액이 기준을 넘으면 다음 날(한국 시간 자정 무렵) 등급이 올라갑니다. 멤버 페이지에 나온 등급별 구간은 아래와 같고, 이 페이지에 따르면 프로그램은 연말까지 유효하며 바뀌거나 끝날 수 있습니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -107040,7 +107072,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "BABY부터 GOLD까지 OY MEMBERS의 다섯 등급, 각 등급에 필요한 반기 구매 금액, 포인트 적립률을 보여 주는 막대 그래프",
-          "caption": "OY MEMBERS 등급: 반기 구매 금액(US$)과 포인트 적립률(0.5%~2.5%). 멤버 페이지 기준이며, 현재 등급은 그해 말까지 유효합니다.",
+          "caption": "OY MEMBERS 등급: 반기 구매 금액(US$)과 포인트 적립률(0.5%~2.5%). 멤버 페이지 기준이며, 프로그램은 연말까지 유효하고 바뀔 수 있습니다.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -107152,6 +107184,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyleとOlive Young、どちらを選ぶ？ 国ごとの送料無料の条件、配送日数、税金、返品を、公式ページにもとづいて比べます。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -107206,7 +107239,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "税金は国と店によって違います。Olive Youngでは、チェックアウトで税金を徴収する国と、配達時に購入者が負担する国があります。",
           "**Olive Young。** ページは国をグループに分けています。イギリス、ノルウェー、オーストラリア、シンガポールでは、税金は購入時に徴収されます。イギリスは£135を超える注文にVATや手数料がかかることがあり、ノルウェーはVAT 25%、オーストラリアはGST 10%、シンガポールは9%です。EUでは、2026年7月31日以降の注文から、住所を入力するとチェックアウトでその国のVATと、HSコード（関税分類）ごとに€3の輸入関税が計算・徴収されます。送料込みでUS$60未満の注文では、VATは送料にもかかります。ショップは、配達時にそれ以上は請求されないと説明しています。カナダとイスラエルでは配達時の請求になります。カナダはCA$20を超える注文にVATがかかることがあり、イスラエルはUS$75を超えると手数料がかかり、現地の運送会社が手数料を取ることもあります。ショップは、税金や輸入手数料を理由とした返品・返金を受け付けません（EU税金FAQ）。",
-          "**YesStyle。** 2026年7月1日から、EUは€150未満の荷物に関税分類ごとに€3を課していて、YesStyleは現時点ではこの手数料を顧客のかわりに負担しているとしています（配送の記事）。配達時に課された通関手数料は、US$1,000未満の注文なら、領収書を30日以内に送るとストアクレジットで返金されます。"
+          "**YesStyle。** 2026年7月1日から、EUは€150未満の荷物に関税分類ごとに€3を課していて、YesStyleは現時点ではこの手数料を顧客のかわりに負担しているとしています（配送の記事）。配達時に支払った通関関連の税金と手数料は、US$1,000未満の注文（割引前の金額で、送料は含みません）なら、支払日から30日以内に領収書が届くとストアクレジットで返金されます。EUや英国を含む一部の配送先の売上系の税金（VAT、GST）と、保管料などの運送会社の手数料は対象外です。"
         ]
       },
       {
@@ -107257,7 +107290,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "メンバープログラムとポイント",
         "paragraphs": [
-          "Olive Youngでは、OY MEMBERSは無料で、購入額の0.5〜2.5%がポイントで戻ります。登録するとすぐにBABYレベルになります。そのほかのレベルは、毎年1月と7月の最初の月曜日に、前の半期の購入額で再計算されます。今期の購入額が基準を超えると、その場で上がります。メンバーページに出ている各レベルの金額帯は次のとおりで、現在のレベルは年末まで有効です。"
+          "Olive Youngでは、OY MEMBERSは無料で、購入額の0.5〜2.5%がポイントで戻ります。登録するとすぐにBABYレベルになります。そのほかのレベルは、毎年1月と7月の最初の月曜日に、前の半期の購入額で再計算されます。今期の購入額が基準を超えると、翌日（韓国時間の午前0時ごろ）に上のレベルになります。メンバーページに出ている各レベルの金額帯は次のとおりで、同ページによるとプログラムは年末まで有効で、変更または終了することがあります。"
         ],
         "comparisonTable": {
           "headers": [
@@ -107301,7 +107334,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "OY MEMBERSの5つのレベル（BABYからGOLDまで）、各レベルに必要な半期の購入額、ポイント還元率を示す棒グラフ",
-          "caption": "OY MEMBERSのレベル：半期の購入額（US$）とポイント還元率（0.5〜2.5%）。メンバーページより。現在のレベルは年末まで有効です。",
+          "caption": "OY MEMBERSのレベル：半期の購入額（US$）とポイント還元率（0.5〜2.5%）。メンバーページより。プログラムは年末まで有効で、変更されることがあります。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -107413,6 +107446,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 還是 Olive Young？依國家比較免運門檻、送達時間、稅金與退貨，依據官方頁面。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -107467,7 +107501,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "稅金因國家而異，兩家都是如此。Olive Young 在部分國家於結帳時收取稅金，在另一些國家則由顧客在收貨時負擔。",
           "**Olive Young。** 頁面把國家分成幾組。在英國、挪威、澳洲與新加坡，稅金在購買時收取。英國對超過 £135 的訂單可能收取 VAT 與手續費；挪威 VAT 為 25%，澳洲 GST 為 10%，新加坡為 9%。在歐盟，自2026年7月31日起的訂單，你填入地址後，結帳頁會計算並收取該國的 VAT，以及每個 HS 編碼（海關品類）€3 的進口關稅；運費含在內未滿 US$60 的訂單，VAT 也會加在運費上。店家表示收貨時不會再收其他費用。在加拿大與以色列，則在收貨時收取：加拿大對超過 CA$20 的訂單可能收取 VAT，以色列對超過 US$75 的訂單收取手續費，當地的承運商也可能收費。店家不接受因稅金或進口費用而退貨或退款（歐盟稅金 FAQ）。",
-          "**YesStyle。** 自2026年7月1日起，歐盟對 €150 以下的包裹按每個海關品類收取 €3，YesStyle 表示目前由它替顧客支付這筆費用（運送文章）。收貨時被收取的海關費用，如果訂單低於 US$1,000，在 30 天內寄上收據，會以店內額度退還。"
+          "**YesStyle。** 自2026年7月1日起，歐盟對 €150 以下的包裹按每個海關品類收取 €3，YesStyle 表示目前由它替顧客支付這筆費用（運送文章）。收貨時支付的海關相關稅費，如果訂單低於 US$1,000（折扣前金額，不含運費），且收據在付款日起 30 天內送達，會以店內額度退還。部分目的地（包括歐盟與英國）的銷售類稅項（VAT、GST），以及倉儲等承運商費用，不在退還範圍內。"
         ]
       },
       {
@@ -107518,7 +107552,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "會員方案與點數",
         "paragraphs": [
-          "在 Olive Young，OY MEMBERS 免費，依購買金額回饋 0.5% 至 2.5% 的點數，註冊後立即成為 BABY 等級。其他等級在每年 1 月與 7 月的第一個週一，依上一個半年的購買金額重新計算；本期購買金額超過門檻時會立即升級。會員頁面列出的各等級區間如下，目前的等級有效至年底。"
+          "在 Olive Young，OY MEMBERS 免費，依購買金額回饋 0.5% 至 2.5% 的點數，註冊後立即成為 BABY 等級。其他等級在每年 1 月與 7 月的第一個週一，依上一個半年的購買金額重新計算；本期購買金額超過門檻時，次日（韓國時間零點前後）升級。會員頁面列出的各等級區間如下，頁面稱該計畫有效至年底，並可能變更或終止。"
         ],
         "comparisonTable": {
           "headers": [
@@ -107562,7 +107596,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "長條圖：OY MEMBERS 從 BABY 到 GOLD 的五個等級、每個等級所需的半年購買金額，以及回饋點數的百分比",
-          "caption": "OY MEMBERS 等級：半年購買金額（US$）與回饋點數（0.5% 至 2.5%）。依據會員頁面；目前的等級有效至年底。",
+          "caption": "OY MEMBERS 等級：半年購買金額（US$）與回饋點數（0.5% 至 2.5%）。依據會員頁面；該計畫有效至年底，可能變更。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -107674,6 +107708,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 还是 Olive Young？按国家比较免运费门槛、送达时间、税费和退货，依据官方页面。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -107728,7 +107763,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "税费因国家而异，两家都是如此。Olive Young 在部分国家于结账时收取税费，在另一些国家则由顾客在收货时负担。",
           "**Olive Young。** 页面把国家分成几组。在英国、挪威、澳大利亚和新加坡，税费在购买时收取。英国对超过 £135 的订单可能收取 VAT 和手续费；挪威 VAT 为 25%，澳大利亚 GST 为 10%，新加坡为 9%。在欧盟，自2026年7月31日起的订单，你填写地址后，结账页会计算并收取该国的 VAT，以及每个 HS 编码（海关品类）€3 的进口关税；运费含在内未满 US$60 的订单，VAT 也会加在运费上。店家表示收货时不会再收其他费用。在加拿大和以色列，则在收货时收取：加拿大对超过 CA$20 的订单可能收取 VAT，以色列对超过 US$75 的订单收取手续费，当地的承运商也可能收费。店家不接受因税费或进口费用而退货或退款（欧盟税费 FAQ）。",
-          "**YesStyle。** 自2026年7月1日起，欧盟对 €150 以下的包裹按每个海关品类收取 €3，YesStyle 表示目前由它替顾客支付这笔费用（运送文章）。收货时被收取的海关费用，如果订单低于 US$1,000，在 30 天内寄上收据，会以店内额度退还。"
+          "**YesStyle。** 自2026年7月1日起，欧盟对 €150 以下的包裹按每个海关品类收取 €3，YesStyle 表示目前由它替顾客支付这笔费用（运送文章）。收货时支付的海关相关税费，如果订单低于 US$1,000（折扣前金额，不含运费），且收据在付款日起 30 天内送达，会以店内额度退还。部分目的地（包括欧盟和英国）的销售类税项（VAT、GST），以及仓储等承运商费用，不在退还范围内。"
         ]
       },
       {
@@ -107779,7 +107814,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "会员计划与积分",
         "paragraphs": [
-          "在 Olive Young，OY MEMBERS 免费，按购买额返还 0.5% 至 2.5% 的积分，注册后立即成为 BABY 等级。其他等级在每年 1 月和 7 月的第一个星期一，按上一个半年的购买额重新计算；本期购买额超过门槛时会立即升级。会员页面列出的各等级区间如下，目前的等级有效至年底。"
+          "在 Olive Young，OY MEMBERS 免费，按购买额返还 0.5% 至 2.5% 的积分，注册后立即成为 BABY 等级。其他等级在每年 1 月和 7 月的第一个星期一，按上一个半年的购买额重新计算；本期购买额超过门槛时，次日（韩国时间零点前后）升级。会员页面列出的各等级区间如下，页面称该计划有效至年底，并可能变更或终止。"
         ],
         "comparisonTable": {
           "headers": [
@@ -107823,7 +107858,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
           "alt": "柱状图：OY MEMBERS 从 BABY 到 GOLD 的五个等级、每个等级所需的半年购买额，以及返还积分的百分比",
-          "caption": "OY MEMBERS 等级：半年购买额（US$）与返还积分（0.5% 至 2.5%）。依据会员页面；目前的等级有效至年底。",
+          "caption": "OY MEMBERS 等级：半年购买额（US$）与返还积分（0.5% 至 2.5%）。依据会员页面；该计划有效至年底，可能变更。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -132210,6 +132245,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Sim, a YesStyle tem app para Android e iPhone. Veja onde o código de recompensa CECILIA010 entra no checkout do app, o que muda do site e o que checar se ele não funcionar.",
@@ -132362,8 +132398,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pontos YS e o cupom do app",
         "paragraphs": [
-          "Quem entra na conta pelo app ganha 50 pontos YS, uma vez. Reinstalar não dá os pontos de novo. Os pontos não são o código de recompensa: eles se aplicam na etapa \"Payment Information\" do checkout, e o CECILIA010 entra na tela \"Enter Code\". Um não substitui o outro.",
-          "A loja diz que lança, uma vez por mês e em horário aleatório, um cupom de 24 horas que só vale em pedido feito pelo app; na conferência não havia um ativo, e o cupom em destaque no app era o mesmo do site. Os cupons ativos da loja ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
+          "Os 50 pontos YS valem só para o primeiro download do app com login na conta: quem já usou a oferta, entra em outro aparelho ou reinstala o app não ganha de novo. Os termos da loja falam em crédito após um dia, e a página do app diz que é imediato. Os pontos não são o código de recompensa: eles se aplicam na etapa \"Payment Information\" do checkout, e o CECILIA010 entra na tela \"Enter Code\". Um não substitui o outro.",
+          "A loja diz que lança, uma vez por mês e em horário aleatório, um cupom de 24 horas que só vale em pedido feito pelo app; na época do teste do app não havia um ativo, e o cupom em destaque era o mesmo do site. Como ele vem e vai, os cupons ativos da loja ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
         ]
       },
       {
@@ -132386,8 +132422,8 @@ export const reviewsData: unknown[] = [
           "A YesStyle tem app? Sim, para Android e iPhone, nos links oficiais do Google Play e da App Store. A loja diz para baixar só por esses dois.",
           "O CECILIA010 vale no app? Sim. No checkout, toque em \"Enter Code\" e digite o código no campo \"Influencer / Rewards Code\". Ele é código de recompensa, com até 5% extra, e soma com o cupom da loja, que vai no campo \"Coupon Code\".",
           "O app da YesStyle entrega no Brasil? Não. Na conferência no app, a YesStyle seguia sem entrega para o Brasil, como no site.",
-          "Ganho pontos por baixar o app? Sim, 50 pontos YS ao entrar na conta pelo app, uma vez. Reinstalar não dá de novo, e os pontos não são o código de recompensa.",
-          "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Na conferência não havia um ativo."
+          "Ganho pontos por baixar o app? Sim, uma vez por conta: 50 pontos YS no primeiro download do app com login. Reinstalar ou usar outro aparelho não dá de novo, e os pontos não são o código de recompensa.",
+          "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Na época do teste do app não havia um ativo; os cupons ativos ficam na página da loja."
         ]
       }
     ]
@@ -132411,6 +132447,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "October 28, 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -132556,8 +132593,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YS points and the app coupon",
         "paragraphs": [
-          "Signing in through the app earns you 50 YS points, once. Reinstalling doesn't give the points again. The points are not the reward code: they are applied at the \"Payment Information\" step of checkout, while CECILIA010 goes on the \"Enter Code\" screen. One doesn't replace the other.",
-          "The store says it releases, once a month and at a random time, a 24-hour coupon that only works on orders placed through the app; at the time of checking there wasn't an active one, and the coupon featured in the app was the same as on the website. The store's active coupons are on [YesStyle coupons and reward code](/en/coupons/yesstyle)."
+          "The 50 YS points apply only to the first download of the app with a sign-in to your account: if you have already used the offer, sign in on another device or reinstall the app, you don't get them again. The store's terms say the points arrive after one day, while the app page says it is immediate. The points are not the reward code: they are applied at the \"Payment Information\" step of checkout, while CECILIA010 goes on the \"Enter Code\" screen. One doesn't replace the other.",
+          "The store says it releases, once a month and at a random time, a 24-hour coupon that only works on orders placed through the app; when the app was tested there wasn't an active one, and the coupon featured in the app was the same as on the website. Since it comes and goes, the store's active coupons are on [YesStyle coupons and reward code](/en/coupons/yesstyle)."
         ]
       },
       {
@@ -132579,8 +132616,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Does YesStyle have an app? Yes, for Android and iPhone, at the official Google Play and App Store links. The store says to download only from those two.",
           "Does CECILIA010 work in the app? Yes. At checkout, tap \"Enter Code\" and type the code in the \"Influencer / Rewards Code\" field. It is a reward code, with up to 5% extra, and it stacks with the store coupon, which goes in the \"Coupon Code\" field.",
-          "Do I earn points for downloading the app? Yes, 50 YS points when you sign in through the app, once. Reinstalling doesn't give them again, and the points are not the reward code.",
-          "Does the app have an exclusive coupon? The store says it publishes a 24-hour coupon, once a month, only for orders in the app. At the time of checking there wasn't an active one."
+          "Do I earn points for downloading the app? Yes, once per account: 50 YS points on the first download of the app with a sign-in. Reinstalling or using another device doesn't give them again, and the points are not the reward code.",
+          "Does the app have an exclusive coupon? The store says it publishes a 24-hour coupon, once a month, only for orders in the app. When the app was tested there wasn't an active one; the active coupons are on the store page."
         ]
       }
     ]
@@ -132604,6 +132641,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de octubre de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -132749,8 +132787,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Puntos YS y el cupón de la app",
         "paragraphs": [
-          "Quien inicia sesión desde la app recibe 50 puntos YS, una sola vez. Reinstalar no vuelve a dar los puntos. Los puntos no son el código de recompensa: se aplican en el paso \"Payment Information\" del checkout, y el CECILIA010 entra en la pantalla \"Enter Code\". Uno no sustituye al otro.",
-          "La tienda indica que lanza, una vez al mes y a una hora aleatoria, un cupón de 24 horas que solo vale en pedidos hechos desde la app; en la comprobación no había ninguno activo, y el cupón destacado en la app era el mismo de la web. Los cupones activos de la tienda están en [cupones YesStyle y código de recompensa](/es/coupons/yesstyle)."
+          "Los 50 puntos YS valen solo para la primera descarga de la app con inicio de sesión en la cuenta: quien ya usó la oferta, entra desde otro dispositivo o reinstala la app no los recibe de nuevo. Los términos de la tienda hablan de acreditación al cabo de un día, y la página de la app dice que es inmediata. Los puntos no son el código de recompensa: se aplican en el paso \"Payment Information\" del checkout, y el CECILIA010 entra en la pantalla \"Enter Code\". Uno no sustituye al otro.",
+          "La tienda indica que lanza, una vez al mes y a una hora aleatoria, un cupón de 24 horas que solo vale en pedidos hechos desde la app; cuando se probó la app no había ninguno activo, y el cupón destacado era el mismo de la web. Como va y viene, los cupones activos de la tienda están en [cupones YesStyle y código de recompensa](/es/coupons/yesstyle)."
         ]
       },
       {
@@ -132772,8 +132810,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿YesStyle tiene app? Sí, para Android e iPhone, en los enlaces oficiales de Google Play y la App Store. La tienda indica que se descargue solo desde esos dos.",
           "¿El CECILIA010 vale en la app? Sí. En el checkout, toca \"Enter Code\" y escribe el código en el campo \"Influencer / Rewards Code\". Es un código de recompensa, con hasta un 5 % extra, y se suma al cupón de la tienda, que va en el campo \"Coupon Code\".",
-          "¿Gano puntos por descargar la app? Sí, 50 puntos YS al iniciar sesión desde la app, una sola vez. Reinstalar no los da de nuevo, y los puntos no son el código de recompensa.",
-          "¿La app tiene un cupón exclusivo? La tienda indica que publica un cupón de 24 horas, una vez al mes, solo para pedidos en la app. En la comprobación no había ninguno activo."
+          "¿Gano puntos por descargar la app? Sí, una vez por cuenta: 50 puntos YS en la primera descarga de la app con inicio de sesión. Reinstalar o usar otro dispositivo no los da de nuevo, y los puntos no son el código de recompensa.",
+          "¿La app tiene un cupón exclusivo? La tienda indica que publica un cupón de 24 horas, una vez al mes, solo para pedidos en la app. Cuando se probó la app no había ninguno activo; los cupones activos están en la página de la tienda."
         ]
       }
     ]
@@ -132797,6 +132835,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 octobre 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -132942,8 +132981,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Points YS et le coupon de l'appli",
         "paragraphs": [
-          "Se connecter via l'appli rapporte 50 points YS, une seule fois. Réinstaller ne redonne pas les points. Les points ne sont pas le code récompense : ils s'appliquent à l'étape « Payment Information » de la validation de commande, et le CECILIA010 se saisit sur l'écran « Enter Code ». L'un ne remplace pas l'autre.",
-          "La boutique indique qu'elle lance, une fois par mois et à une heure aléatoire, un coupon de 24 heures valable uniquement pour une commande passée dans l'appli ; lors de la vérification, aucun n'était actif, et le coupon mis en avant dans l'appli était le même que sur le site. Les coupons actifs de la boutique figurent dans [coupons YesStyle et code récompense](/fr/coupons/yesstyle)."
+          "Les 50 points YS ne valent que pour le premier téléchargement de l'appli suivi d'une connexion au compte : celui qui a déjà profité de l'offre, se connecte depuis un autre appareil ou réinstalle l'appli ne les reçoit pas de nouveau. Les conditions de la boutique parlent d'un crédit après un jour, et la page de l'appli annonce qu'il est immédiat. Les points ne sont pas le code récompense : ils s'appliquent à l'étape « Payment Information » de la validation de commande, et le CECILIA010 se saisit sur l'écran « Enter Code ». L'un ne remplace pas l'autre.",
+          "La boutique indique qu'elle lance, une fois par mois et à une heure aléatoire, un coupon de 24 heures valable uniquement pour une commande passée dans l'appli ; lors du test de l'appli, aucun n'était actif, et le coupon mis en avant était le même que sur le site. Comme il va et vient, les coupons actifs de la boutique figurent dans [coupons YesStyle et code récompense](/fr/coupons/yesstyle)."
         ]
       },
       {
@@ -132965,8 +133004,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle a-t-il une appli ? Oui, pour Android et iPhone, sur les liens officiels de Google Play et de l'App Store. La boutique indique de télécharger uniquement depuis ces deux liens.",
           "Le CECILIA010 fonctionne-t-il dans l'appli ? Oui. À la validation de commande, touchez « Enter Code » et saisissez le code dans le champ « Influencer / Rewards Code ». C'est un code de récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de la boutique, qui se saisit dans le champ « Coupon Code ».",
-          "Gagne-t-on des points en téléchargeant l'appli ? Oui, 50 points YS en se connectant via l'appli, une seule fois. Réinstaller ne les redonne pas, et les points ne sont pas le code récompense.",
-          "L'appli a-t-elle un coupon exclusif ? La boutique indique publier un coupon de 24 heures, une fois par mois, réservé aux commandes dans l'appli. Lors de la vérification, aucun n'était actif."
+          "Gagne-t-on des points en téléchargeant l'appli ? Oui, si c'est la première fois : 50 points YS au premier téléchargement de l'appli suivi d'une connexion, une fois par compte. Réinstaller ou changer d'appareil ne les redonne pas, et les points ne sont pas le code récompense.",
+          "L'appli a-t-elle un coupon exclusif ? La boutique indique publier un coupon de 24 heures, une fois par mois, réservé aux commandes dans l'appli. Lors du test de l'appli, aucun n'était actif ; les coupons actifs figurent sur la page de la boutique."
         ]
       }
     ]
@@ -132990,6 +133029,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 ottobre 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -133135,8 +133175,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Punti YS e il coupon dell'app",
         "paragraphs": [
-          "Chi accede dall'app ottiene 50 punti YS, una sola volta. Reinstallare non assegna di nuovo i punti. I punti non sono il codice ricompensa: si applicano nella fase \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
-          "Lo shop dice di lanciare, una volta al mese e a un orario casuale, un coupon di 24 ore valido solo per ordini fatti dall'app; al controllo non ce n'era uno attivo, e il coupon in evidenza nell'app era lo stesso del sito. I coupon attivi dello shop sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle)."
+          "I 50 punti YS valgono solo per il primo download dell'app con accesso all'account: chi ha già usato l'offerta, accede da un altro dispositivo o reinstalla l'app non li riceve di nuovo. I termini dello shop parlano di accredito dopo un giorno, mentre la pagina dell'app indica che è immediato. I punti non sono il codice ricompensa: si applicano nella fase \"Payment Information\" del checkout, mentre il CECILIA010 va nella schermata \"Enter Code\". Uno non sostituisce l'altro.",
+          "Lo shop dice di lanciare, una volta al mese e a un orario casuale, un coupon di 24 ore valido solo per ordini fatti dall'app; durante il test dell'app non ce n'era uno attivo, e il coupon in evidenza era lo stesso del sito. Poiché va e viene, i coupon attivi dello shop sono in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle)."
         ]
       },
       {
@@ -133158,8 +133198,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle ha un'app? Sì, per Android e iPhone, nei link ufficiali di Google Play e dell'App Store. Lo shop dice di scaricarla solo da questi due.",
           "Il CECILIA010 vale nell'app? Sì. Al checkout, tocca \"Enter Code\" e digita il codice nel campo \"Influencer / Rewards Code\". È un codice ricompensa, con fino al 5% in più, e si somma al coupon dello shop, che va nel campo \"Coupon Code\".",
-          "Si guadagnano punti scaricando l'app? Sì, 50 punti YS accedendo dall'app, una sola volta. Reinstallare non li assegna di nuovo, e i punti non sono il codice ricompensa.",
-          "L'app ha un coupon esclusivo? Lo shop dice di pubblicare un coupon di 24 ore, una volta al mese, solo per ordini fatti nell'app. Al controllo non ce n'era uno attivo."
+          "Si guadagnano punti scaricando l'app? Sì, la prima volta: 50 punti YS al primo download dell'app con accesso, una sola volta per account. Reinstallare o usare un altro dispositivo non li assegna di nuovo, e i punti non sono il codice ricompensa.",
+          "L'app ha un coupon esclusivo? Lo shop dice di pubblicare un coupon di 24 ore, una volta al mese, solo per ordini fatti nell'app. Durante il test dell'app non ce n'era uno attivo; i coupon attivi sono nella pagina dello shop."
         ]
       }
     ]
@@ -133183,6 +133223,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28. Oktober 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -133328,8 +133369,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YS-Punkte und der Gutschein der App",
         "paragraphs": [
-          "Wer sich über die App anmeldet, erhält einmalig 50 YS-Punkte. Eine Neuinstallation bringt die Punkte nicht erneut. Die Punkte sind nicht der Reward Code: Sie werden im Schritt „Payment Information“ des Checkouts eingelöst, der CECILIA010 gehört auf den Bildschirm „Enter Code“. Das eine ersetzt das andere nicht.",
-          "Der Shop gibt an, einmal im Monat zu einer zufälligen Uhrzeit einen 24-Stunden-Gutschein zu veröffentlichen, der nur für Bestellungen über die App gilt; bei der Prüfung war keiner aktiv, und der in der App hervorgehobene Gutschein war derselbe wie auf der Website. Die aktiven Gutscheine des Shops stehen unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle)."
+          "Die 50 YS-Punkte gibt es nur beim ersten Download der App mit Anmeldung im Konto: Wer das Angebot schon genutzt hat, sich auf einem anderen Gerät anmeldet oder die App neu installiert, erhält sie nicht erneut. Laut den Bedingungen des Shops erscheinen die Punkte nach einem Tag, die App-Seite spricht von sofort. Die Punkte sind nicht der Reward Code: Sie werden im Schritt „Payment Information“ des Checkouts eingelöst, der CECILIA010 gehört auf den Bildschirm „Enter Code“. Das eine ersetzt das andere nicht.",
+          "Der Shop gibt an, einmal im Monat zu einer zufälligen Uhrzeit einen 24-Stunden-Gutschein zu veröffentlichen, der nur für Bestellungen über die App gilt; beim Test der App war keiner aktiv, und der hervorgehobene Gutschein war derselbe wie auf der Website. Da er kommt und geht, stehen die aktiven Gutscheine des Shops unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle)."
         ]
       },
       {
@@ -133351,8 +133392,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hat YesStyle eine App? Ja, für Android und iPhone, über die offiziellen Links von Google Play und App Store. Der Shop gibt an, dass man nur über diese beiden Links herunterladen soll.",
           "Gilt der CECILIA010 in der App? Ja. Tippen Sie im Checkout auf „Enter Code“ und geben Sie den Code in das Feld „Influencer / Rewards Code“ ein. Er ist ein Reward Code mit bis zu 5 % extra und lässt sich mit dem Gutschein des Shops kombinieren, der in das Feld „Coupon Code“ gehört.",
-          "Bekommt man Punkte für den Download der App? Ja, 50 YS-Punkte bei der Anmeldung über die App, einmalig. Eine Neuinstallation bringt sie nicht erneut, und die Punkte sind nicht der Reward Code.",
-          "Hat die App einen exklusiven Gutschein? Der Shop gibt an, einmal im Monat einen 24-Stunden-Gutschein nur für Bestellungen in der App zu veröffentlichen. Bei der Prüfung war keiner aktiv."
+          "Bekommt man Punkte für den Download der App? Ja, beim ersten Mal: 50 YS-Punkte beim ersten Download der App mit Anmeldung, einmalig pro Konto. Eine Neuinstallation oder ein anderes Gerät bringt sie nicht erneut, und die Punkte sind nicht der Reward Code.",
+          "Hat die App einen exklusiven Gutschein? Der Shop gibt an, einmal im Monat einen 24-Stunden-Gutschein nur für Bestellungen in der App zu veröffentlichen. Beim Test der App war keiner aktiv; die aktiven Gutscheine stehen auf der Seite des Shops."
         ]
       }
     ]
@@ -133376,6 +133417,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -133521,8 +133563,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YSポイントとアプリのクーポン",
         "paragraphs": [
-          "アプリからログインすると、50 YSポイントがもらえます（1回限り）。再インストールしても、ポイントは再付与されません。ポイントはリワードコードではありません。ポイントはチェックアウトの「Payment Information」のステップで使い、CECILIA010は「Enter Code」画面に入力します。どちらか一方が、もう一方の代わりになることはありません。",
-          "ショップによると、月に1回、ランダムな時間に、アプリからの注文でのみ使える24時間限定クーポンが配布されます。確認時点では有効なものはなく、アプリで目立つ場所にあったクーポンはウェブサイトと同じでした。ショップの有効なクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)に載せています。"
+          "50 YSポイントがもらえるのは、アプリを初めてダウンロードしてアカウントにログインしたときだけです。すでにこの特典を使った場合や、別の端末でのログイン、再インストールでは再付与されません。ショップの規約ではポイントの反映は1日後とされていますが、アプリのページでは即時と案内されています。ポイントはリワードコードではありません。ポイントはチェックアウトの「Payment Information」のステップで使い、CECILIA010は「Enter Code」画面に入力します。どちらか一方が、もう一方の代わりになることはありません。",
+          "ショップによると、月に1回、ランダムな時間に、アプリからの注文でのみ使える24時間限定クーポンが配布されます。アプリをテストした時点では有効なものはなく、目立つ場所にあったクーポンはウェブサイトと同じでした。入れ替わりがあるため、ショップの有効なクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)に載せています。"
         ]
       },
       {
@@ -133544,8 +133586,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyleにアプリはありますか？ あります。AndroidとiPhone向けで、Google PlayとApp Storeの公式リンクから入手できます。ショップは、この2つからのみダウンロードするよう案内しています。",
           "アプリでCECILIA010は使えますか？ 使えます。チェックアウトで「Enter Code」をタップし、「Influencer / Rewards Code」欄にコードを入力します。リワードコードで、最大5%の追加割引が付き、「Coupon Code」欄に入力する店舗クーポンと併用できます。",
-          "アプリをダウンロードするとポイントがもらえますか？ はい、アプリからログインすると50 YSポイントがもらえます（1回限り）。再インストールしても再付与されず、ポイントはリワードコードではありません。",
-          "アプリ限定のクーポンはありますか？ ショップによると、月に1回、アプリからの注文のみで使える24時間のクーポンを公開しています。確認時点では有効なものはありませんでした。"
+          "アプリをダウンロードするとポイントがもらえますか？ はい、初めてアプリをダウンロードしてログインした場合に、50 YSポイントがもらえます（アカウントにつき1回限り）。再インストールや別の端末では再付与されず、ポイントはリワードコードではありません。",
+          "アプリ限定のクーポンはありますか？ ショップによると、月に1回、アプリからの注文のみで使える24時間のクーポンを公開しています。アプリをテストした時点では有効なものはありませんでした。有効なクーポンはショップのページでご確認ください。"
         ]
       }
     ]
@@ -133569,6 +133611,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "2026년 10월 28일",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -133714,8 +133757,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YS 포인트와 앱 쿠폰",
         "paragraphs": [
-          "앱으로 로그인하면 YS 포인트 50점을 한 번 받습니다. 앱을 다시 설치해도 포인트는 다시 지급되지 않습니다. 포인트는 리워드 코드가 아닙니다. 포인트는 결제 화면의 \"Payment Information\" 단계에서 적용하고, CECILIA010은 \"Enter Code\" 화면에 입력합니다. 어느 쪽도 다른 쪽을 대신하지 못합니다.",
-          "쇼핑몰은 한 달에 한 번, 무작위 시간에 앱으로 주문한 건에만 쓸 수 있는 24시간 쿠폰을 낸다고 안내합니다. 확인 시점에는 사용 가능한 쿠폰이 없었고, 앱에서 눈에 띄던 쿠폰은 웹사이트와 같았습니다. 쇼핑몰의 사용 가능한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 있습니다."
+          "YS 포인트 50점은 앱을 처음 내려받아 계정에 로그인할 때만 받을 수 있습니다. 이미 이 혜택을 사용했거나 다른 기기에서 로그인하거나 앱을 다시 설치해도 다시 지급되지 않습니다. 쇼핑몰 약관에는 포인트가 하루 뒤 반영된다고 되어 있고, 앱 페이지에는 즉시 지급이라고 안내되어 있습니다. 포인트는 리워드 코드가 아닙니다. 포인트는 결제 화면의 \"Payment Information\" 단계에서 적용하고, CECILIA010은 \"Enter Code\" 화면에 입력합니다. 어느 쪽도 다른 쪽을 대신하지 못합니다.",
+          "쇼핑몰은 한 달에 한 번, 무작위 시간에 앱으로 주문한 건에만 쓸 수 있는 24시간 쿠폰을 낸다고 안내합니다. 앱을 테스트한 시점에는 사용 가능한 쿠폰이 없었고, 눈에 띄던 쿠폰은 웹사이트와 같았습니다. 쿠폰은 바뀌므로 쇼핑몰의 사용 가능한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 있습니다."
         ]
       },
       {
@@ -133737,8 +133780,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle에 앱이 있나요? 네, Android와 iPhone용이 있으며 Google Play와 App Store의 공식 링크에서 받을 수 있습니다. 쇼핑몰은 이 두 곳에서만 내려받으라고 안내합니다.",
           "앱에서도 CECILIA010을 쓸 수 있나요? 네. 결제 화면에서 \"Enter Code\"를 누르고 \"Influencer / Rewards Code\" 칸에 코드를 입력하세요. 리워드 코드이며 최대 5% 추가 할인을 주고, \"Coupon Code\" 칸에 입력하는 쇼핑몰 쿠폰과 함께 쓸 수 있습니다.",
-          "앱을 내려받으면 포인트를 받나요? 네, 앱으로 로그인하면 YS 포인트 50점을 한 번 받습니다. 다시 설치해도 다시 지급되지 않으며, 포인트는 리워드 코드가 아닙니다.",
-          "앱 전용 쿠폰이 있나요? 쇼핑몰은 한 달에 한 번, 앱 주문에만 쓸 수 있는 24시간 쿠폰을 공개한다고 안내합니다. 확인 시점에는 사용 가능한 쿠폰이 없었습니다."
+          "앱을 내려받으면 포인트를 받나요? 네, 앱을 처음 내려받아 로그인하면 YS 포인트 50점을 계정당 한 번 받습니다. 다시 설치하거나 다른 기기에서 로그인해도 다시 지급되지 않으며, 포인트는 리워드 코드가 아닙니다.",
+          "앱 전용 쿠폰이 있나요? 쇼핑몰은 한 달에 한 번, 앱 주문에만 쓸 수 있는 24시간 쿠폰을 공개한다고 안내합니다. 앱을 테스트한 시점에는 사용 가능한 쿠폰이 없었습니다. 사용 가능한 쿠폰은 쇼핑몰 페이지에서 확인하세요."
         ]
       }
     ]
@@ -133762,6 +133805,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -133907,8 +133951,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YS 积分和 App 优惠券",
         "paragraphs": [
-          "通过 App 登录可获得 50 个 YS 积分，仅限一次。重新安装不会再次发放。积分不是奖励码：积分在结账的“Payment Information”步骤使用，而 CECILIA010 填在“Enter Code”界面。两者不能互相替代。",
-          "商店表示，每月会在随机时间发放一次仅限 App 下单使用的 24 小时优惠券；核查时没有可用的，App 里主推的优惠券与网站相同。商店当前可用的优惠券见[YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。"
+          "50 个 YS 积分仅限首次下载 App 并登录账户时获得：已经参与过该活动、在其他设备登录或重新安装 App，都不会再次发放。商店条款写的是一天后到账，App 页面则说立即到账。积分不是奖励码：积分在结账的“Payment Information”步骤使用，而 CECILIA010 填在“Enter Code”界面。两者不能互相替代。",
+          "商店表示，每月会在随机时间发放一次仅限 App 下单使用的 24 小时优惠券；测试 App 时没有可用的，主推的优惠券与网站相同。优惠券时有变化，商店可用的优惠券见[YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。"
         ]
       },
       {
@@ -133930,8 +133974,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle 有 App 吗？有，适用于 Android 和 iPhone，通过 Google Play 和 App Store 的官方链接下载。商店表示只应从这两处下载。",
           "CECILIA010 在 App 里能用吗？能。在结账页点击“Enter Code”，把代码填入“Influencer / Rewards Code”输入框。它是奖励码，最高额外优惠 5%，可与填在“Coupon Code”输入框的商店优惠券叠加。",
-          "下载 App 能获得积分吗？能，通过 App 登录可获得 50 个 YS 积分，仅限一次。重新安装不会再次发放，积分也不是奖励码。",
-          "App 有专属优惠券吗？商店表示每月发布一次 24 小时优惠券，仅限 App 下单使用。核查时没有可用的。"
+          "下载 App 能获得积分吗？能，首次下载 App 并登录可获得 50 个 YS 积分，每个账户仅限一次。重新安装或换设备登录不会再次发放，积分也不是奖励码。",
+          "App 有专属优惠券吗？商店表示每月发布一次 24 小时优惠券，仅限 App 下单使用。测试 App 时没有可用的。可用的优惠券请看商店页面。"
         ]
       }
     ]
@@ -133955,6 +133999,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -134100,8 +134145,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YS 點數和 App 優惠券",
         "paragraphs": [
-          "透過 App 登入可獲得 YS 點數 50 點，限一次。重新安裝不會再次發放。點數不是獎勵碼：點數在結帳的「Payment Information」步驟使用，而 CECILIA010 填在「Enter Code」畫面。兩者不能互相取代。",
-          "商店表示，每月會在隨機時間發放一次僅限 App 下單使用的 24 小時優惠券；查核時沒有可用的，App 裡主打的優惠券與網站相同。商店目前可用的優惠券請見[YesStyle 優惠券和獎勵碼](/zh-hant/coupons/yesstyle)。"
+          "YS 點數 50 點僅限首次下載 App 並登入帳戶時獲得：已經參加過該活動、在其他裝置登入或重新安裝 App，都不會再次發放。商店條款寫的是一天後入帳，App 頁面則說立即入帳。點數不是獎勵碼：點數在結帳的「Payment Information」步驟使用，而 CECILIA010 填在「Enter Code」畫面。兩者不能互相取代。",
+          "商店表示，每月會在隨機時間發放一次僅限 App 下單使用的 24 小時優惠券；測試 App 時沒有可用的，主打的優惠券與網站相同。優惠券時有變動，商店可用的優惠券請見[YesStyle 優惠券和獎勵碼](/zh-hant/coupons/yesstyle)。"
         ]
       },
       {
@@ -134123,8 +134168,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle 有 App 嗎？有，適用於 Android 和 iPhone，透過 Google Play 和 App Store 的官方連結下載。商店表示只應從這兩處下載。",
           "CECILIA010 在 App 裡能用嗎？能。在結帳頁點選「Enter Code」，把代碼填入「Influencer / Rewards Code」欄位。它是獎勵碼，最高額外優惠 5%，可與填在「Coupon Code」欄位的商店優惠券疊加。",
-          "下載 App 能獲得點數嗎？能，透過 App 登入可獲得 YS 點數 50 點，限一次。重新安裝不會再次發放，點數也不是獎勵碼。",
-          "App 有專屬優惠券嗎？商店表示每月發布一次 24 小時優惠券，僅限 App 下單使用。查核時沒有可用的。"
+          "下載 App 能獲得點數嗎？能，首次下載 App 並登入可獲得 YS 點數 50 點，每個帳戶限一次。重新安裝或換裝置登入不會再次發放，點數也不是獎勵碼。",
+          "App 有專屬優惠券嗎？商店表示每月發布一次 24 小時優惠券，僅限 App 下單使用。測試 App 時沒有可用的。可用的優惠券請看商店頁面。"
         ]
       }
     ]
@@ -134148,6 +134193,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "A SHEIN anuncia até 85% off na Mega Promoção 11.11, e a Cecília escolheu 19 peças em 5 grupos, de pijamas a masculino. Veja os descontos, os tamanhos e o link de cada peça.",
@@ -134667,7 +134713,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calça jeans pantalona com cintura elástica",
         "bullets": [
-          "Preço: R$ 131,96 (de R$ 164,95, -20%), com frete grátis.",
+          "Preço: R$ 131,96 (de R$ 164,95, -20%).",
           "Tamanhos: PP a G.",
           "Nota 4,31 na loja, com 48 comentários."
         ],
@@ -151619,6 +151665,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle na Trustpilot em 28/10/2026: nota 4,4 em 104 mil avaliações, 71% de cinco estrelas, queixas de entrega e rastreio. Veja o que a nota não mostra.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-discover.webp",
@@ -151631,7 +151678,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em 28/10/2026, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas; as queixas se concentram na entrega internacional e no rastreio. A nota é global e não separa países."
+          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em 28/10/2026, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas negativas que lemos, as queixas eram de entrega internacional e rastreio. A nota é global e não separa países."
         ]
       },
       {
@@ -151749,7 +151796,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "As queixas se concentram na entrega, então o que você confere antes de pagar é o frete e o prazo do seu país, que aparecem no checkout. Para Portugal, a YesStyle publica prazo e frete na tabela dela, e o IVA já vem no preço; os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Nas negativas que lemos, os temas eram de entrega, então o que você confere antes de pagar é o frete e o prazo do seu país, que aparecem no checkout. Para Portugal, a YesStyle publica prazo e frete na tabela dela, e o IVA já vem no preço; os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Depois de pagar, guarde o número do pedido e o código de rastreio: é com eles que se abre um chamado no atendimento se o pacote atrasar ou o rastreio parar.",
           "Se você decidiu comprar, a página de [cupons YesStyle e código de recompensa](/cupons/yesstyle) aqui do site leva à loja. O link é de afiliado: a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você."
         ]
@@ -151758,7 +151805,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A YesStyle tem boa nota na Trustpilot? O TrustScore era 4,4, com o rótulo \"Excellent\", em 104.552 avaliações; 71% davam cinco estrelas e 7%, uma.",
-          "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas que lemos, os temas são de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
+          "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas que lemos, os temas eram de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
           "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, a loja respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a resposta pode usar inteligência artificial.",
           "A YesStyle entrega no Brasil? Não: a loja não oferecia entrega para o Brasil, num teste nosso no app. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
         ]
@@ -151806,6 +151853,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle on Trustpilot on October 28, 2026: 4.4 from 104,000 reviews, 71% five-star, delivery and tracking complaints. See what the score doesn't show.",
     "publishedAt": "October 29, 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -151819,7 +151867,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle has a good Trustpilot score, with one caveat. On October 28, 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star; complaints concentrate on international delivery and tracking. The score is global and doesn't separate countries."
+          "YesStyle has a good Trustpilot score, with one caveat. On October 28, 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. In the negative reviews we read, the complaints were about international delivery and tracking. The score is global and doesn't separate countries."
         ]
       },
       {
@@ -151937,7 +151985,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Before you pay",
         "paragraphs": [
-          "The complaints concentrate on delivery, so what you check before paying is the shipping cost and delivery time for your country, which appear in the checkout. The rates and how the delivery time is counted for each country are in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "In the negative reviews we read, they were about delivery, so what you check before paying is the shipping cost and delivery time for your country, which appear in the checkout. The rates and how the delivery time is counted for each country are in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
           "After paying, keep the order number and the tracking code: they are what you need to open a ticket with customer service if the package is late or tracking stops.",
           "If you've decided to buy, our page on [YesStyle coupons and the reward code](/en/coupons/yesstyle) leads to the store. The link is an affiliate link: a purchase may earn Em Casa com Cecília a commission, at no extra cost to you."
         ]
@@ -151993,6 +152041,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle en Trustpilot el 28 de octubre de 2026: 4,4 con 104 mil opiniones, 71 % de cinco estrellas, quejas de envío y seguimiento. Mira lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -152006,7 +152055,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle tiene buena calificación en Trustpilot, con una salvedad. El 28 de octubre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas; las quejas se concentran en el envío internacional y el seguimiento. La nota es global y no separa países."
+          "YesStyle tiene buena calificación en Trustpilot, con una salvedad. El 28 de octubre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. En las opiniones negativas que leímos, las quejas eran sobre el envío internacional y el seguimiento. La nota es global y no separa países."
         ]
       },
       {
@@ -152124,7 +152173,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "Las quejas se concentran en el envío, así que lo que conviene comprobar antes de pagar es el coste de envío y el plazo de tu país, que aparecen en el checkout. Los valores y el cómputo del plazo por país están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "En las opiniones negativas que leímos, las opiniones trataban del envío, así que lo que conviene comprobar antes de pagar es el coste de envío y el plazo de tu país, que aparecen en el checkout. Los valores y el cómputo del plazo por país están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
           "Después de pagar, guarda el número de pedido y el código de seguimiento: con ellos se abre una incidencia en atención al cliente si el paquete se retrasa o el seguimiento se detiene.",
           "Si ya decidiste comprar, la página de [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle) de este sitio lleva a la tienda. El enlace es de afiliado: la compra puede generar una comisión para Em Casa com Cecília, sin coste extra para ti."
         ]
@@ -152180,6 +152229,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle sur Trustpilot le 28 octobre 2026 : note de 4,4 sur 104 000 avis, 71 % de cinq étoiles, plaintes de livraison et de suivi. Voyez ce que la note ne montre pas.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -152193,7 +152243,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle a une bonne note sur Trustpilot, avec une réserve. Le 28 octobre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles ; les plaintes se concentrent sur la livraison internationale et le suivi. La note est globale et ne distingue pas les pays."
+          "YesStyle a une bonne note sur Trustpilot, avec une réserve. Le 28 octobre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Dans les avis négatifs que nous avons lus, les plaintes portaient sur la livraison internationale et le suivi. La note est globale et ne distingue pas les pays."
         ]
       },
       {
@@ -152311,7 +152361,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avant de payer",
         "paragraphs": [
-          "Les plaintes se concentrent sur la livraison ; ce qu’il faut donc vérifier avant de payer, ce sont les frais de port et le délai pour votre pays, qui apparaissent au paiement. Les montants et le décompte du délai par pays figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "Dans les avis négatifs que nous avons lus, ces avis portaient sur la livraison ; ce qu’il faut donc vérifier avant de payer, ce sont les frais de port et le délai pour votre pays, qui apparaissent au paiement. Les montants et le décompte du délai par pays figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
           "Après le paiement, gardez le numéro de commande et le code de suivi : ce sont eux qui permettent d’ouvrir un ticket auprès du service client si le colis tarde ou si le suivi s’arrête.",
           "Si vous avez décidé d’acheter, la page des [codes promo YesStyle et du code récompense](/fr/coupons/yesstyle) de notre site mène à la boutique. Le lien est affilié : l’achat peut rapporter une commission à Em Casa com Cecília, sans frais supplémentaires pour vous."
         ]
@@ -152367,6 +152417,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle su Trustpilot al 28 ottobre 2026: punteggio 4,4 su 104 mila recensioni, 71% di cinque stelle, reclami su consegna e tracking. Scopri cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -152380,7 +152431,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. Il 28 ottobre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle; i reclami si concentrano sulla consegna internazionale e sul tracking. Il punteggio è globale e non distingue i paesi."
+          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. Il 28 ottobre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Nelle recensioni negative che abbiamo letto, i reclami riguardavano la consegna internazionale e il tracking. Il punteggio è globale e non distingue i paesi."
         ]
       },
       {
@@ -152498,7 +152549,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prima di pagare",
         "paragraphs": [
-          "I reclami si concentrano sulla consegna, quindi ciò che conviene controllare prima di pagare sono le spese di spedizione e i tempi del tuo paese, che compaiono nel checkout. I valori e il conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "Nelle recensioni negative che abbiamo letto, i temi riguardavano la consegna, quindi ciò che conviene controllare prima di pagare sono le spese di spedizione e i tempi del tuo paese, che compaiono nel checkout. I valori e il conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
           "Dopo il pagamento, conserva il numero d’ordine e il codice di tracking: servono per aprire una richiesta all’assistenza se il pacco ritarda o il tracking si ferma.",
           "Se hai deciso di comprare, la pagina dei [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle) di questo sito porta al negozio. Il link è di affiliazione: l’acquisto può generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per te."
         ]
@@ -152554,6 +152605,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle auf Trustpilot am 28. Oktober 2026: Note 4,4 bei 104.000 Bewertungen, 71 % Fünf-Sterne, Beschwerden zu Lieferung und Sendungsverfolgung. Was die Note nicht zeigt.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -152567,7 +152619,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Am 28. Oktober 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne; die Beschwerden konzentrieren sich auf die internationale Lieferung und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern."
+          "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Am 28. Oktober 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den negativen Bewertungen, die wir gelesen haben, ging es in den Beschwerden um die internationale Lieferung und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern."
         ]
       },
       {
@@ -152685,7 +152737,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vor dem Bezahlen",
         "paragraphs": [
-          "Die Beschwerden konzentrieren sich auf die Lieferung, daher prüfen Sie vor dem Bezahlen die Versandkosten und die Lieferzeit für Ihr Land, die im Checkout erscheinen. Die Beträge und die Zählung der Lieferzeit je Land stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "In den negativen Bewertungen, die wir gelesen haben, ging es um die Lieferung, daher prüfen Sie vor dem Bezahlen die Versandkosten und die Lieferzeit für Ihr Land, die im Checkout erscheinen. Die Beträge und die Zählung der Lieferzeit je Land stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
           "Bewahren Sie nach der Zahlung Bestellnummer und Tracking-Code auf: Damit eröffnet man beim Kundenservice eine Anfrage, wenn das Paket sich verspätet oder das Tracking stehen bleibt.",
           "Wenn Sie sich zum Kauf entschieden haben, führt die Seite zu [YesStyle-Gutscheinen und Reward Code](/de/coupons/yesstyle) hier auf der Website zum Shop. Der Link ist ein Affiliate-Link: Ein Kauf kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie."
         ]
@@ -152737,10 +152789,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年10月28日時点のYesStyleのTrustpilot評価：104,552件のレビューでTrustScoreは4.4、71%が星5つ。苦情は国際配送に集中していて、この評価はあなたの国のことを何も示しません。",
-    "metaDescription": "2026年10月28日のYesStyleのTrustpilot：10万4千件のレビューで評価4.4、星5つは71%。苦情は配送と追跡が中心。評価が示さないことを確認しましょう。",
+    "description": "2026年10月28日時点のYesStyleのTrustpilot評価：104,552件のレビューでTrustScoreは4.4、71%が星5つ。読んだ低評価レビューの苦情は国際配送が中心で、この評価はあなたの国のことを何も示しません。",
+    "metaDescription": "2026年10月28日のYesStyleのTrustpilot：10万4千件のレビューで評価4.4、星5つは71%。読んだ低評価レビューの苦情は配送と追跡が中心。評価が示さないことを確認しましょう。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -152754,7 +152807,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年10月28日時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。苦情は国際配送と追跡に集中しています。この評価は世界全体のもので、国別には分かれていません。"
+          "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年10月28日時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。私たちが読んだ低評価レビューでは、苦情は国際配送と追跡に関するものでした。この評価は世界全体のもので、国別には分かれていません。"
         ]
       },
       {
@@ -152872,7 +152925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "支払う前に",
         "paragraphs": [
-          "苦情は配送に集中しているので、支払う前に確認するのは、チェックアウトに表示されるお住まいの国の送料と配送日数です。配送日数の数え方や金額は[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。",
+          "読んだ低評価レビューのテーマは配送だったので、支払う前に確認するのは、チェックアウトに表示されるお住まいの国の送料と配送日数です。配送日数の数え方や金額は[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。",
           "支払ったあとは、注文番号と追跡コードを保管しておいてください。荷物が遅れたり追跡が止まったりしたときに、サポートへ問い合わせるにはこの2つが必要です。",
           "購入を決めたなら、当サイトの[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)のページからショップへ移動できます。このリンクはアフィリエイトリンクです。購入によりEm Casa com Cecíliaに手数料が入ることがありますが、あなたに追加費用はかかりません。"
         ]
@@ -152924,10 +152977,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026년 10월 28일 기준 YesStyle의 Trustpilot 평점: 리뷰 104,552건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 불만은 해외 배송에 몰려 있고, 이 평점은 회원님이 사는 나라에 대해서는 아무것도 알려 주지 않습니다.",
-    "metaDescription": "2026년 10월 28일 YesStyle의 Trustpilot: 리뷰 10만 4천 건에 평점 4.4, 별 다섯 개 71%. 불만은 배송과 배송 추적이 중심입니다. 평점이 보여 주지 않는 부분을 확인해 보세요.",
+    "description": "2026년 10월 28일 기준 YesStyle의 Trustpilot 평점: 리뷰 104,552건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 읽은 부정적 리뷰의 불만은 해외 배송에 관한 것이고, 이 평점은 회원님이 사는 나라에 대해서는 아무것도 알려 주지 않습니다.",
+    "metaDescription": "2026년 10월 28일 YesStyle의 Trustpilot: 리뷰 10만 4천 건에 평점 4.4, 별 다섯 개 71%. 읽은 부정적 리뷰의 불만은 배송과 배송 추적이 중심입니다. 평점이 보여 주지 않는 부분을 확인해 보세요.",
     "publishedAt": "2026년 10월 29일",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -152941,7 +152995,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 10월 28일 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 불만은 해외 배송과 배송 추적에 몰려 있습니다. 이 평점은 전 세계를 합친 것이며 국가별로 나뉘어 있지 않습니다."
+          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 10월 28일 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 저희가 읽은 부정적 리뷰에서 불만은 해외 배송과 배송 추적에 관한 것이었습니다. 이 평점은 전 세계를 합친 것이며 국가별로 나뉘어 있지 않습니다."
         ]
       },
       {
@@ -153059,7 +153113,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "결제하기 전에",
         "paragraphs": [
-          "불만이 배송에 몰려 있으니 결제 전에 확인할 것은 결제 화면에 표시되는 회원님 나라의 배송비와 배송 기간입니다. 기간을 세는 방식과 금액은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
+          "읽은 부정적 리뷰의 주제가 배송이었으니 결제 전에 확인할 것은 결제 화면에 표시되는 회원님 나라의 배송비와 배송 기간입니다. 기간을 세는 방식과 금액은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
           "결제한 뒤에는 주문 번호와 운송장 번호를 보관해 두세요. 소포가 늦어지거나 배송 추적이 멈췄을 때 고객센터에 문의하려면 이 두 가지가 필요합니다.",
           "구매하기로 했다면, 이 사이트의 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle) 페이지에서 쇼핑몰로 갈 수 있습니다. 제휴 링크입니다. 이 링크로 구매하면 Em Casa com Cecília에 수수료가 생길 수 있으며, 추가 비용은 없습니다."
         ]
@@ -153111,10 +153165,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 在 Trustpilot 上 2026年10月28日的评分：104,552 条评价，TrustScore 4.4，71% 为五星。投诉集中在国际配送，而这个评分并不能说明你所在国家的情况。",
-    "metaDescription": "YesStyle 在 Trustpilot 2026年10月28日：10.4 万条评价，评分 4.4，五星占 71%。投诉集中在配送和物流追踪。看看评分没有告诉你的部分。",
+    "description": "YesStyle 在 Trustpilot 上 2026年10月28日的评分：104,552 条评价，TrustScore 4.4，71% 为五星。我们读过的差评涉及国际配送，而这个评分并不能说明你所在国家的情况。",
+    "metaDescription": "YesStyle 在 Trustpilot 2026年10月28日：10.4 万条评价，评分 4.4，五星占 71%。读过的差评涉及配送和物流追踪。看看评分没有告诉你的部分。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -153128,7 +153183,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 上的评分不错，但有一个前提。2026年10月28日，TrustScore 为 4.4，评价超过 10.4 万条，71% 是五星；投诉集中在国际配送和物流追踪。这个评分是全球合并的，没有按国家区分。"
+          "YesStyle 在 Trustpilot 上的评分不错，但有一个前提。2026年10月28日，TrustScore 为 4.4，评价超过 10.4 万条，71% 是五星；在我们读过的差评中，投诉涉及国际配送和物流追踪。这个评分是全球合并的，没有按国家区分。"
         ]
       },
       {
@@ -153246,7 +153301,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款之前",
         "paragraphs": [
-          "投诉集中在配送上，所以付款前要核对的是你所在国家的运费和送达时间，它们会显示在结账页面。送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+          "在我们读过的差评中，投诉涉及配送，所以付款前要核对的是你所在国家的运费和送达时间，它们会显示在结账页面。送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
           "付款之后，请保存订单号和物流追踪码：如果包裹延误或物流追踪停止，联系客服时需要用到它们。",
           "如果你已经决定购买，本站的 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)页面会带你去商店。这是联盟链接：通过它购买，Em Casa com Cecília 可能获得佣金，你不需要多付费用。"
         ]
@@ -153298,10 +153353,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 在 Trustpilot 上 2026年10月28日的評分：104,552 則評價，TrustScore 4.4，71% 為五星。投訴集中在國際運送，而這個評分並不能說明你所在國家的情況。",
-    "metaDescription": "YesStyle 在 Trustpilot 2026年10月28日：10.4 萬則評價，評分 4.4，五星占 71%。投訴集中在運送和物流追蹤。看看評分沒有告訴你的部分。",
+    "description": "YesStyle 在 Trustpilot 上 2026年10月28日的評分：104,552 則評價，TrustScore 4.4，71% 為五星。我們讀過的差評涉及國際運送，而這個評分並不能說明你所在國家的情況。",
+    "metaDescription": "YesStyle 在 Trustpilot 2026年10月28日：10.4 萬則評價，評分 4.4，五星占 71%。讀過的差評涉及運送和物流追蹤。看看評分沒有告訴你的部分。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -153315,7 +153371,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 上的評分不錯，但有一個前提。2026年10月28日，TrustScore 為 4.4，評價超過 10.4 萬則，71% 是五星；投訴集中在國際運送和物流追蹤。這個評分是全球合併的，沒有按國家區分。"
+          "YesStyle 在 Trustpilot 上的評分不錯，但有一個前提。2026年10月28日，TrustScore 為 4.4，評價超過 10.4 萬則，71% 是五星；在我們讀過的差評中，投訴涉及國際運送和物流追蹤。這個評分是全球合併的，沒有按國家區分。"
         ]
       },
       {
@@ -153433,7 +153489,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款之前",
         "paragraphs": [
-          "投訴集中在運送上，所以付款前要核對的是你所在國家的運費和送達時間，它們會顯示在結帳頁面。送達時間的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+          "在我們讀過的差評中，投訴涉及運送，所以付款前要核對的是你所在國家的運費和送達時間，它們會顯示在結帳頁面。送達時間的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
           "付款之後，請保存訂單編號和物流追蹤碼：如果包裹延誤或物流追蹤停止，聯絡客服時需要用到它們。",
           "如果你已經決定購買，本站的 [YesStyle 優惠券和獎勵碼](/zh-hant/coupons/yesstyle)頁面會帶你去商店。這是聯盟連結：透過它購買，Em Casa com Cecília 可能獲得傭金，你不需要多付費用。"
         ]
@@ -153488,10 +153544,11 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "description": "O que a nota 7,5 da SHEIN no Reclame Aqui mede em 28/10/2026, por que produto não recebido lidera as queixas e o que a Trustpilot acrescenta.",
-    "metaDescription": "SHEIN no Reclame Aqui em 28/10/2026: reputação Boa, nota 7,5, 95,3% respondidas e 77,8% resolvidas. Produto não recebido lidera as queixas. Veja o que fazer antes de pagar.",
+    "description": "O que a nota 7,5 da SHEIN no Reclame Aqui mede em 28/10/2026, por que produto não recebido lidera as queixas dos últimos três anos e o que a Trustpilot acrescenta.",
+    "metaDescription": "SHEIN no Reclame Aqui (abril a setembro): reputação Boa, nota 7,5, 95,3% respondidas. Produto não recebido lidera as queixas dos últimos 3 anos.",
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
     "imageAlt": "Logo da SHEIN e a nota 3,8 da Trustpilot em cinco estrelas, preenchidas até a nota, na leitura de 28/10/2026",
     "imageFit": "contain",
@@ -153522,7 +153579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A reputação é Boa, com ressalvas. A SHEIN tinha nota 7,5 no Reclame Aqui nos últimos seis meses, com 95,3% das reclamações respondidas e 77,8% resolvidas. A queixa mais citada é produto não recebido, e quase três em cada dez pessoas que avaliaram não voltariam a comprar."
+          "A reputação é Boa, com ressalvas. Nos seis meses de abril a setembro, a SHEIN tinha nota 7,5 no Reclame Aqui, com 95,3% das reclamações respondidas e 77,8% resolvidas entre as avaliadas. Produto não recebido é a queixa mais citada nos últimos três anos, e quase três em cada dez avaliadores não voltariam a comprar."
         ]
       },
       {
@@ -153608,7 +153665,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na SHEIN pelo Reclame Aqui?",
         "paragraphs": [
-          "Pelo Reclame Aqui, a SHEIN responde e resolve a maior parte. A reputação era Boa, com nota 7,5 nos últimos seis meses, 95,3% das 32.431 reclamações respondidas e 77,8% dadas como resolvidas por quem avaliou.",
+          "Pelo Reclame Aqui, a SHEIN responde e resolve a maior parte. A reputação era Boa, com nota 7,5 nos últimos seis meses, 95,3% das 32.431 reclamações respondidas e 77,8% dadas como resolvidas entre as 13.858 avaliadas.",
           "As ressalvas são três: produto não recebido lidera as queixas do recorte de 3 anos, com 36,47%; a resposta leva em média 3 dias e 5 horas, com 1.343 reclamações na fila; e quase três em cada dez de quem avaliou não voltariam a fazer negócio."
         ]
       },
@@ -153653,6 +153710,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN on Trustpilot on October 28, 2026: TrustScore 3.8 from 353,435 reviews, 59% five stars and 18% one star, complaints about delivery and refunds. See what the score does not show.",
     "publishedAt": "October 29, 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -153666,7 +153724,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. That score came from 353,435 reviews by customers in many countries, and the most common complaints are packages that never arrived and refunds that were late or denied. The profile is global and does not separate countries."
+          "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. That score came from 353,435 reviews by customers in many countries, and the themes in the negative reviews we read are packages that never arrived and refunds that were late or denied. The profile is global and does not separate countries."
         ]
       },
       {
@@ -153710,7 +153768,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "These are the points where an online order most often goes wrong. They say where to look: the tracking after dispatch, the proof of delivery, the return receipt and the refund request."
+          "These are the themes in the reviews we read, not a measure of how often an order goes wrong. They say where to look: the tracking after dispatch, the proof of delivery, the return receipt and the refund request."
         ]
       },
       {
@@ -153768,7 +153826,7 @@ export const reviewsData: unknown[] = [
         "heading": "Can you trust SHEIN based on Trustpilot?",
         "paragraphs": [
           "Going by Trustpilot, the numbers are these: a TrustScore of 3.8, \"Great\", from 353,435 reviews, 59% of them five stars and 18% one star, with 98% of negative reviews answered, usually within 24 hours.",
-          "The caveats are about scope and theme. The profile is global and does not separate countries, so it says how the store behaves overall, not how an order to your address will go. And the complaints are about packages that never arrived and about refunds that were late or denied: that is the part of the purchase where the risk sits, and the score alone does not tell you how often it happens."
+          "The caveats are about scope and theme. The profile is global and does not separate countries, so it says how the store behaves overall, not how an order to your address will go. And the negative reviews we read are about packages that never arrived and about refunds that were late or denied: the score alone does not tell you how often that happens."
         ]
       },
       {
@@ -153830,6 +153888,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN en Trustpilot el 28 de octubre de 2026: calificación 3,8 con 353.435 opiniones, 59 % de cinco estrellas y 18 % de una, quejas por entregas y reembolsos. Lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -153843,7 +153902,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Esa calificación sale de 353.435 opiniones de clientes de varios países, y las quejas más comunes son paquetes que no llegaron y reembolsos tardíos o negados. El perfil es global y no separa países."
+          "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Esa calificación sale de 353.435 opiniones de clientes de varios países, y los temas de las opiniones negativas leídas son paquetes que no llegaron y reembolsos tardíos o negados. El perfil es global y no separa países."
         ]
       },
       {
@@ -153887,7 +153946,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Son los puntos en los que una compra en línea suele fallar. Dicen dónde mirar: el seguimiento después del envío, la prueba de entrega, el comprobante de la devolución y la solicitud de reembolso."
+          "Son los temas de las opiniones leídas, no una medida de con qué frecuencia falla un pedido. Dicen dónde mirar: el seguimiento después del envío, la prueba de entrega, el comprobante de la devolución y la solicitud de reembolso."
         ]
       },
       {
@@ -153945,7 +154004,7 @@ export const reviewsData: unknown[] = [
         "heading": "¿Se puede confiar en SHEIN por Trustpilot?",
         "paragraphs": [
           "Por Trustpilot, los números son estos: TrustScore 3,8, \"Great\", con 353.435 opiniones, 59 % de cinco estrellas y 18 % de una, y el 98 % de las negativas respondidas, en general en menos de 24 horas.",
-          "Las salvedades son de alcance y de tema. El perfil es global y no separa países, así que dice cómo se comporta la tienda en conjunto, no cómo irá un pedido a tu dirección. Y las quejas son de paquetes que no llegaron y de reembolsos tardíos o negados: esa es la parte de la compra donde está el riesgo, y la calificación sola no dice con qué frecuencia pasa."
+          "Las salvedades son de alcance y de tema. El perfil es global y no separa países, así que dice cómo se comporta la tienda en conjunto, no cómo irá un pedido a tu dirección. Y las opiniones negativas leídas tratan de paquetes que no llegaron y de reembolsos tardíos o negados: la calificación sola no dice con qué frecuencia pasa."
         ]
       },
       {
@@ -154007,6 +154066,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN sur Trustpilot le 28 octobre 2026 : TrustScore de 3,8 pour 353 435 avis, 59 % de cinq étoiles et 18 % d’une, plaintes sur la livraison et les remboursements. Ce que la note ne montre pas.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -154020,7 +154080,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Cette note vient de 353 435 avis de clients de nombreux pays, et les plaintes les plus fréquentes portent sur des colis jamais reçus et sur des remboursements tardifs ou refusés. Le profil est mondial et ne distingue pas les pays."
+          "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Cette note vient de 353 435 avis de clients de nombreux pays, et les thèmes des avis négatifs lus sont des colis jamais reçus et des remboursements tardifs ou refusés. Le profil est mondial et ne distingue pas les pays."
         ]
       },
       {
@@ -154064,7 +154124,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Ce sont les points où une commande en ligne échoue le plus souvent. Ils disent où regarder : le suivi après l’expédition, la preuve de livraison, le justificatif du retour et la demande de remboursement."
+          "Ce sont les thèmes des avis lus, pas une mesure de la fréquence des problèmes. Ils disent où regarder : le suivi après l’expédition, la preuve de livraison, le justificatif du retour et la demande de remboursement."
         ]
       },
       {
@@ -154122,7 +154182,7 @@ export const reviewsData: unknown[] = [
         "heading": "Peut-on faire confiance à SHEIN d’après Trustpilot ?",
         "paragraphs": [
           "D’après Trustpilot, les chiffres sont ceux-ci : un TrustScore de 3,8, « Great », pour 353 435 avis, dont 59 % à cinq étoiles et 18 % à une étoile, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
-          "Les réserves portent sur le périmètre et sur le thème. Le profil est mondial et ne distingue pas les pays : il dit comment la boutique se comporte dans l’ensemble, pas comment se passera une commande à votre adresse. Et les plaintes parlent de colis jamais reçus et de remboursements tardifs ou refusés : c’est la partie de l’achat où se trouve le risque, et la note seule ne dit pas à quelle fréquence cela arrive."
+          "Les réserves portent sur le périmètre et sur le thème. Le profil est mondial et ne distingue pas les pays : il dit comment la boutique se comporte dans l’ensemble, pas comment se passera une commande à votre adresse. Et les avis négatifs lus parlent de colis jamais reçus et de remboursements tardifs ou refusés : la note seule ne dit pas à quelle fréquence cela arrive."
         ]
       },
       {
@@ -154184,6 +154244,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN su Trustpilot al 28 ottobre 2026: 3,8 su 353.435 recensioni, 59% di cinque stelle, 18% di una. Reclami su consegne e rimborsi, e cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -154197,7 +154258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Il punteggio viene da 353.435 recensioni di clienti di molti paesi, e i reclami più frequenti riguardano i pacchi non consegnati e i rimborsi in ritardo o negati. Il profilo è globale e non separa i paesi."
+          "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Il punteggio viene da 353.435 recensioni di clienti di molti paesi, e i temi delle recensioni negative lette sono i pacchi non consegnati e i rimborsi in ritardo o negati. Il profilo è globale e non separa i paesi."
         ]
       },
       {
@@ -154241,7 +154302,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Sono i punti in cui un acquisto online si inceppa più spesso. Indicano dove guardare: il tracciamento dopo la spedizione, la prova di consegna, la ricevuta del reso e la richiesta di rimborso."
+          "Sono i temi delle recensioni lette, non una misura di quanto spesso un ordine va storto. Indicano dove guardare: il tracciamento dopo la spedizione, la prova di consegna, la ricevuta del reso e la richiesta di rimborso."
         ]
       },
       {
@@ -154299,7 +154360,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ci si può fidare di SHEIN guardando Trustpilot?",
         "paragraphs": [
           "Da Trustpilot, i numeri sono questi: TrustScore 3,8, «Great», su 353.435 recensioni, il 59% di cinque stelle e il 18% di una, con risposta al 98% delle negative, di solito entro 24 ore.",
-          "Le riserve sono di ambito e di tema. Il profilo è globale e non separa i paesi, quindi dice come si comporta il negozio nell’insieme, non come andrà un ordine al tuo indirizzo. E i reclami parlano di pacchi non consegnati e di rimborsi in ritardo o negati: è la parte dell’acquisto in cui sta il rischio, e il punteggio da solo non dice quanto spesso succeda."
+          "Le riserve sono di ambito e di tema. Il profilo è globale e non separa i paesi, quindi dice come si comporta il negozio nell’insieme, non come andrà un ordine al tuo indirizzo. E le recensioni negative lette parlano di pacchi non consegnati e di rimborsi in ritardo o negati: il punteggio da solo non dice quanto spesso succeda."
         ]
       },
       {
@@ -154361,6 +154422,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN auf Trustpilot am 28. Oktober 2026: 3,8 aus 353.435 Bewertungen, 59 % fünf Sterne, 18 % ein Stern. Beschwerden über Zustellung und Erstattungen und was die Zahl nicht zeigt.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -154374,7 +154436,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Die Zahl stammt aus 353.435 Bewertungen von Kunden aus vielen Ländern, und die häufigsten Beschwerden betreffen nicht zugestellte Pakete sowie verspätete oder abgelehnte Erstattungen. Das Profil ist global und trennt nicht nach Ländern."
+          "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Die Zahl stammt aus 353.435 Bewertungen von Kunden aus vielen Ländern, und die Themen der gelesenen negativen Bewertungen sind nicht zugestellte Pakete sowie verspätete oder abgelehnte Erstattungen. Das Profil ist global und trennt nicht nach Ländern."
         ]
       },
       {
@@ -154418,7 +154480,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Das sind die Stellen, an denen eine Online-Bestellung am häufigsten schiefgeht. Sie zeigen, wohin Sie schauen sollten: auf die Sendungsverfolgung nach dem Versand, den Zustellnachweis, den Beleg der Rücksendung und den Erstattungsantrag."
+          "Das sind die Themen der gelesenen Bewertungen, kein Maß dafür, wie oft eine Bestellung schiefgeht. Sie zeigen, wohin Sie schauen sollten: auf die Sendungsverfolgung nach dem Versand, den Zustellnachweis, den Beleg der Rücksendung und den Erstattungsantrag."
         ]
       },
       {
@@ -154476,7 +154538,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kann man SHEIN nach Trustpilot vertrauen?",
         "paragraphs": [
           "Nach Trustpilot sind die Zahlen diese: ein TrustScore von 3,8, „Great“, aus 353.435 Bewertungen, 59 % mit fünf Sternen und 18 % mit einem Stern, und 98 % der negativen Bewertungen mit einer Antwort, meist innerhalb von 24 Stunden.",
-          "Die Vorbehalte betreffen den Rahmen und das Thema. Das Profil ist global und trennt nicht nach Ländern, es sagt also, wie sich der Shop insgesamt verhält, nicht, wie eine Bestellung an Ihre Adresse läuft. Und die Beschwerden handeln von nicht zugestellten Paketen und von verspäteten oder abgelehnten Erstattungen: Das ist der Teil des Kaufs, in dem das Risiko liegt, und die Zahl allein sagt nicht, wie oft es passiert."
+          "Die Vorbehalte betreffen den Rahmen und das Thema. Das Profil ist global und trennt nicht nach Ländern, es sagt also, wie sich der Shop insgesamt verhält, nicht, wie eine Bestellung an Ihre Adresse läuft. Und die gelesenen negativen Bewertungen handeln von nicht zugestellten Paketen und von verspäteten oder abgelehnten Erstattungen: Die Zahl allein sagt nicht, wie oft das passiert."
         ]
       },
       {
@@ -154534,10 +154596,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年10月28日時点の SHEIN の Trustpilot 評価です。TrustScore 3.8（レビュー 353,435 件）、星 1 つが 18%、苦情は届かない荷物と返金に集中。数字が示すことと示さないことをまとめました。",
-    "metaDescription": "SHEIN の Trustpilot（2026年10月28日）：TrustScore 3.8、レビュー 353,435 件、星 5 つ 59%、星 1 つ 18%。届かない荷物と返金が苦情の中心です。支払う前にすることも紹介します。",
+    "description": "2026年10月28日時点の SHEIN の Trustpilot 評価です。TrustScore 3.8（レビュー 353,435 件）、星 1 つが 18%、否定的なレビューのテーマは届かない荷物と返金。数字が示すことと示さないことをまとめました。",
+    "metaDescription": "SHEIN の Trustpilot（2026年10月28日）：TrustScore 3.8、レビュー 353,435 件、星 5 つ 59%、星 1 つ 18%。否定的なレビューのテーマは届かない荷物と返金です。支払う前にすることも紹介します。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -154551,7 +154614,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "評価は良好ですが、注意が要ります。SHEIN の Trustpilot の TrustScore は 5 点満点で 3.8、ラベルは「Great」で、各国の顧客による 353,435 件のレビューに基づいています。苦情の中心は届かない荷物と返金で、星 1 つが 18% を占めます。"
+          "評価は良好ですが、注意が要ります。SHEIN の Trustpilot の TrustScore は 5 点満点で 3.8、ラベルは「Great」で、各国の顧客による 353,435 件のレビューに基づいています。読んだ否定的なレビューのテーマは届かない荷物と返金で、星 1 つは 18% です。"
         ]
       },
       {
@@ -154580,7 +154643,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "苦情に出てくること",
         "paragraphs": [
-          "2026年10月28日にプロフィールで見られた否定的なレビューを読み、テーマを書き出しました。件数は数えず、順位も付けていません。テーマは配送と返金に集まっています："
+          "2026年10月28日にプロフィールで見られた否定的なレビューを読み、テーマを書き出しました。件数は数えず、順位も付けていません。テーマは配送と返金です："
         ],
         "bullets": [
           "荷物の紛失、盗難、未着。顧客が納得していない配達完了の写真が添えられていることもあります。",
@@ -154653,7 +154716,7 @@ export const reviewsData: unknown[] = [
         "heading": "Trustpilot を見て SHEIN は信頼できる？",
         "paragraphs": [
           "Trustpilot で見ると、SHEIN は評価が良く、返信もしています。2026年10月28日時点で TrustScore 3.8、レビュー 353,435 件のうち 59% が星 5 つで、否定的なレビューの 98% に返信がありました。",
-          "注意点は三つです。苦情は届かない荷物と返金に集中していて、星 1 つが 18% あること。返信率は高くても、問題が解決したことまでは示さないこと。そして、プロフィールは世界共通で、お住まいの国の配送を示すものではないことです。"
+          "注意点は三つです。読んだ否定的なレビューのテーマが届かない荷物と返金で、星 1 つが 18% あること。返信率は高くても、問題が解決したことまでは示さないこと。そして、プロフィールは世界共通で、お住まいの国の配送を示すものではないことです。"
         ]
       },
       {
@@ -154710,10 +154773,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026년 10월 28일 기준 SHEIN의 Trustpilot 평점입니다. 리뷰 353,435건에 TrustScore 3.8, 별 한 개 18%, 받지 못한 소포와 환불에 몰린 불만, 그리고 숫자가 보여 주는 것과 보여 주지 않는 것을 담았습니다.",
-    "metaDescription": "SHEIN Trustpilot(2026년 10월 28일): TrustScore 3.8, 리뷰 353,435건, 별 다섯 개 59%, 별 한 개 18%. 소포와 환불에 불만이 몰려 있습니다. 결제 전에 할 일도 정리했습니다.",
+    "description": "2026년 10월 28일 기준 SHEIN의 Trustpilot 평점입니다. 리뷰 353,435건에 TrustScore 3.8, 별 한 개 18%, 받지 못한 소포와 환불이라는 부정적 리뷰의 주제, 그리고 숫자가 보여 주는 것과 보여 주지 않는 것을 담았습니다.",
+    "metaDescription": "SHEIN Trustpilot(2026년 10월 28일): TrustScore 3.8, 리뷰 353,435건, 별 다섯 개 59%, 별 한 개 18%. 부정적 리뷰의 주제는 소포와 환불입니다. 결제 전에 할 일도 정리했습니다.",
     "publishedAt": "2026년 10월 29일",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -154727,7 +154791,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 답변",
         "paragraphs": [
-          "평점은 괜찮은 편이지만 단서가 있습니다. SHEIN의 Trustpilot TrustScore는 5점 만점에 3.8이고 표시는 \"Great\"이며, 여러 나라 고객이 남긴 리뷰 353,435건을 바탕으로 합니다. 불만은 받지 못한 소포와 환불에 집중되어 있고, 별 한 개가 18%입니다."
+          "평점은 괜찮은 편이지만 단서가 있습니다. SHEIN의 Trustpilot TrustScore는 5점 만점에 3.8이고 표시는 \"Great\"이며, 여러 나라 고객이 남긴 리뷰 353,435건을 바탕으로 합니다. 읽은 부정적 리뷰의 주제는 받지 못한 소포와 환불이고, 별 한 개는 18%입니다."
         ]
       },
       {
@@ -154756,7 +154820,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "불만에서 나타나는 것",
         "paragraphs": [
-          "2026년 10월 28일에 프로필에서 볼 수 있는 부정적 리뷰를 읽고 주제를 적었습니다. 건수를 세거나 순위를 매기지는 않았습니다. 주제는 배송과 환불에 몰려 있습니다:"
+          "2026년 10월 28일에 프로필에서 볼 수 있는 부정적 리뷰를 읽고 주제를 적었습니다. 건수를 세거나 순위를 매기지는 않았습니다. 주제는 배송과 환불입니다:"
         ],
         "bullets": [
           "소포가 분실되거나 도난당했거나 배송되지 않았고, 배송 완료 사진에 이의가 제기된 경우.",
@@ -154829,7 +154893,7 @@ export const reviewsData: unknown[] = [
         "heading": "Trustpilot으로 SHEIN을 믿을 수 있을까요?",
         "paragraphs": [
           "Trustpilot으로 보면 SHEIN은 평점이 좋은 편이고 답변도 합니다. 2026년 10월 28일 기준 TrustScore 3.8, 리뷰 353,435건 중 59%가 별 다섯 개였고, 부정적 리뷰의 98%에 답변이 달렸습니다.",
-          "단서는 세 가지입니다. 불만이 받지 못한 소포와 환불에 몰려 있고 별 한 개가 18%라는 점, 답변율이 높아도 문제가 해결되었다는 뜻은 아니라는 점, 그리고 프로필이 글로벌이어서 회원님이 계신 나라의 배송을 보여 주지 않는다는 점입니다."
+          "단서는 세 가지입니다. 읽은 부정적 리뷰의 주제가 받지 못한 소포와 환불이고 별 한 개가 18%라는 점, 답변율이 높아도 문제가 해결되었다는 뜻은 아니라는 점, 그리고 프로필이 글로벌이어서 회원님이 계신 나라의 배송을 보여 주지 않는다는 점입니다."
         ]
       },
       {
@@ -154886,10 +154950,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年10月28日 SHEIN 在 Trustpilot 的评分：TrustScore 3.8，共 353,435 条评价，18% 为一星；投诉集中在包裹未送达和退款。看看数据说明了什么，又没有说明什么。",
-    "metaDescription": "SHEIN 在 Trustpilot（2026年10月28日）：评分 3.8，共 353,435 条评价，59% 五星、18% 一星。投诉集中在包裹未送达和退款。付款之前该做什么，这里也有。",
+    "description": "2026年10月28日 SHEIN 在 Trustpilot 的评分：TrustScore 3.8，共 353,435 条评价，18% 为一星；负面评价的主题是包裹未送达和退款。看看数据说明了什么，又没有说明什么。",
+    "metaDescription": "SHEIN 在 Trustpilot（2026年10月28日）：评分 3.8，共 353,435 条评价，59% 五星、18% 一星。负面评价的主题是包裹未送达和退款。付款之前该做什么，这里也有。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -154903,7 +154968,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "口碑不错，但有保留。SHEIN 在 Trustpilot 的 TrustScore 为 3.8（满分 5 分），网站标注为“Great”，基于多个国家顾客留下的 353,435 条评价。投诉集中在包裹未送达和退款上，一星评价占 18%。"
+          "口碑不错，但有保留。SHEIN 在 Trustpilot 的 TrustScore 为 3.8（满分 5 分），网站标注为“Great”，基于多个国家顾客留下的 353,435 条评价。读到的负面评价，主题是包裹未送达和退款，一星评价占 18%。"
         ]
       },
       {
@@ -154932,7 +154997,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "投诉里出现了什么",
         "paragraphs": [
-          "2026年10月28日，阅读了主页上可见的负面评价，记下主题，不计数也不排序。主题集中在配送和退款："
+          "2026年10月28日，阅读了主页上可见的负面评价，记下主题，不计数也不排序。主题是配送和退款："
         ],
         "bullets": [
           "包裹丢失、被盗或未送达，配送完成的照片受到质疑。",
@@ -155005,7 +155070,7 @@ export const reviewsData: unknown[] = [
         "heading": "凭 Trustpilot 可以信任 SHEIN 吗？",
         "paragraphs": [
           "从 Trustpilot 来看，SHEIN 的评分不错，也会回复。2026年10月28日，TrustScore 为 3.8，353,435 条评价中 59% 是五星，98% 的负面评价得到了回复。",
-          "保留之处有三点：投诉集中在包裹未送达和退款上，一星占 18%；回复率再高，也不说明问题已经解决；主页是全球性的，看不出你所在国家的配送情况。"
+          "保留之处有三点：读到的负面评价主题是包裹未送达和退款，一星占 18%；回复率再高，也不说明问题已经解决；主页是全球性的，看不出你所在国家的配送情况。"
         ]
       },
       {
@@ -155062,10 +155127,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年10月28日 SHEIN 在 Trustpilot 的評分：TrustScore 3.8，共 353,435 則評價，18% 為一星；投訴集中在包裹未送達和退款。看看數據說明了什麼，又沒有說明什麼。",
-    "metaDescription": "SHEIN 在 Trustpilot（2026年10月28日）：評分 3.8，共 353,435 則評價，59% 五星、18% 一星。投訴集中在包裹未送達和退款。付款之前該做什麼，這裡也有。",
+    "description": "2026年10月28日 SHEIN 在 Trustpilot 的評分：TrustScore 3.8，共 353,435 則評價，18% 為一星；負面評價的主題是包裹未送達和退款。看看數據說明了什麼，又沒有說明什麼。",
+    "metaDescription": "SHEIN 在 Trustpilot（2026年10月28日）：評分 3.8，共 353,435 則評價，59% 五星、18% 一星。負面評價的主題是包裹未送達和退款。付款之前該做什麼，這裡也有。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -155079,7 +155145,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡要回答",
         "paragraphs": [
-          "口碑不錯，但有保留。SHEIN 在 Trustpilot 的 TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，依據多個國家顧客留下的 353,435 則評價。投訴集中在包裹未送達和退款上，一星評價佔 18%。"
+          "口碑不錯，但有保留。SHEIN 在 Trustpilot 的 TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，依據多個國家顧客留下的 353,435 則評價。讀到的負面評價，主題是包裹未送達和退款，一星評價佔 18%。"
         ]
       },
       {
@@ -155108,7 +155174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "投訴裡出現了什麼",
         "paragraphs": [
-          "2026年10月28日，閱讀了檔案上可見的負面評價，記下主題，不計數也不排序。主題集中在配送和退款："
+          "2026年10月28日，閱讀了檔案上可見的負面評價，記下主題，不計數也不排序。主題是配送和退款："
         ],
         "bullets": [
           "包裹遺失、被竊或未送達，配送完成的照片受到質疑。",
@@ -155181,7 +155247,7 @@ export const reviewsData: unknown[] = [
         "heading": "憑 Trustpilot 可以信任 SHEIN 嗎？",
         "paragraphs": [
           "從 Trustpilot 來看，SHEIN 的評分不錯，也會回覆。2026年10月28日，TrustScore 為 3.8，353,435 則評價中 59% 是五星，98% 的負面評價得到了回覆。",
-          "保留之處有三點：投訴集中在包裹未送達和退款上，一星佔 18%；回覆率再高，也不說明問題已經解決；檔案是全球性的，看不出你所在地的配送情況。"
+          "保留之處有三點：讀到的負面評價主題是包裹未送達和退款，一星佔 18%；回覆率再高，也不說明問題已經解決；檔案是全球性的，看不出你所在地的配送情況。"
         ]
       },
       {
@@ -168891,6 +168957,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Vestido de festa SHEIN: ocasião, tecido, tamanho e prazo; pesquise 4CW5Y no app da SHEIN, código de indicação.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
@@ -169061,7 +169128,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os dois vestidos internacionais seguem a regra de US$ 50, que soma produto e frete. O de lantejoulas, de R$ 303,12, fica acima desse valor, e o resumo do pedido mostra o imposto antes de pagar.",
+          "Nos dois vestidos internacionais, o limite de US$ 50 soma produto, frete e, se houver, seguro. O de lantejoulas é o mais caro dos três, e o resumo do pedido mostra o imposto antes de pagar.",
           "O curto da Via Vilarinho é de Envio Nacional, e a regra de importação não entra na conta dele."
         ],
         "images": [
@@ -169176,9 +169243,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Prazo: some a data da festa",
+        "heading": "Prazo: compare com a data da festa",
         "paragraphs": [
-          "O pedido internacional é processado em 3 a 5 dias antes do envio. Some esse prazo à entrega que a página do pedido mostra. Se a soma passar da data da festa, esse vestido não é a compra certa para aquela data.",
+          "O pedido internacional é processado em 3 a 5 dias antes do envio. Compare a previsão de entrega que a página do pedido mostra com a data da festa e deixe folga. Se a previsão chegar perto da festa ou passar dela, esse vestido não é a compra certa para aquela data.",
           "Cada vendedor de Envio Nacional tem prazo próprio. A página do produto mostra o seu."
         ],
         "images": [
@@ -169195,14 +169262,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Imposto: o limite de US$ 50",
         "paragraphs": [
-          "Compra internacional de até US$ 50, somando produto e frete, não paga imposto de importação. Acima disso, a alíquota é de 60%, com desconto de US$ 30 no valor do imposto. O ICMS, de 17% a 20% por estado, continua em toda compra internacional.",
+          "Para pessoa física que compra em site certificado no Remessa Conforme, o imposto de importação é zero até US$ 50, somando produto, frete e, se houver, seguro. Acima disso, até US$ 3.000, a alíquota é de 60%, com desconto de US$ 30 no valor do imposto. O ICMS, de 17% a 20% por estado, é cobrado em toda compra internacional, com ou sem certificação, e incide também sobre o frete, o seguro e o imposto de importação.",
           "A conta usa o que você paga pelo produto e pelo frete, já com desconto e cupom. A regra começou em maio e pode mudar de novo. Para o quadro completo de prazo, devolução e imposto, leia [SHEIN é confiável?](/reviews/shein-e-confiavel)."
         ]
       },
       {
         "heading": "Trocas e devolução",
         "paragraphs": [
-          "A devolução é em até 20 dias depois do recebimento. A primeira de cada pedido é grátis; as seguintes descontam R$ 45 do reembolso.",
+          "A devolução é em até 20 dias depois do recebimento, nas condições da política da SHEIN. A primeira de cada pedido é grátis; as seguintes descontam R$ 45 do reembolso.",
           "Para trocar de tamanho, conte com devolução e reembolso, e faça um pedido novo com a medida certa."
         ]
       },
@@ -169232,9 +169299,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Vestido de festa da SHEIN chega a tempo para o Natal? Depende da data do pedido. Some os dias de processamento e a previsão de entrega da página, e compare com a data da festa.",
+          "Vestido de festa da SHEIN chega a tempo para o Natal? Depende da data do pedido. Compare a previsão de entrega da página com a data da festa e deixe folga.",
           "Como saber se o vestido é longo ou midi? Pelo comprimento que a descrição declara e pela medida em centímetros no guia de tamanho da peça.",
-          "A SHEIN cobra imposto no vestido? Não, em pedido internacional de até US$ 50 com o frete. Acima disso, o imposto de importação volta, e o ICMS continua em toda compra internacional.",
+          "A SHEIN cobra imposto no vestido? Imposto de importação, não, em pedido internacional de até US$ 50 com o frete, para pessoa física em site certificado. Acima disso, ele volta, e o ICMS é cobrado em toda compra internacional.",
           "Dá para usar o 4CW5Y para ganhar desconto? Não. É código de indicação: não dá desconto e não é cupom."
         ]
       }
@@ -169271,6 +169338,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN party dress: occasion, fabric, size and timing for Christmas and graduation, with three dresses from the store read on each product page.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -169544,9 +169612,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Timing: add up to the party date",
+        "heading": "Timing: compare with the party date",
         "paragraphs": [
-          "The order goes through processing before shipping. Add the processing days to the delivery estimate the order page shows. If the total goes past the party date, that dress is not the right buy for that date."
+          "The order goes through processing before shipping. Compare the delivery estimate the order page shows with the party date, and leave some margin. If the estimate lands close to the party or past it, that dress is not the right buy for that date."
         ],
         "images": [
           {
@@ -169595,7 +169663,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Will a SHEIN party dress arrive in time for Christmas? It depends on the order date. Add the processing days and the delivery estimate on the page, and compare with the party date.",
+          "Will a SHEIN party dress arrive in time for Christmas? It depends on the order date. Compare the delivery estimate on the page with the party date, and leave some margin.",
           "How can I tell if the dress is long or midi? By the length the description states and by the measurement in centimeters in the piece's size guide.",
           "Can I use 4CW5Y to get a discount? No. It is a referral code: it gives no discount and is not a coupon."
         ]
@@ -169633,6 +169701,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Vestido de fiesta SHEIN: ocasión, tela, talla y plazo para Navidad y graduación, con tres vestidos de la tienda leídos en la página de cada producto.",
     "publishedAt": "30 de octubre de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -169906,9 +169975,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Plazo: sume hasta la fecha de la fiesta",
+        "heading": "Plazo: compare con la fecha de la fiesta",
         "paragraphs": [
-          "El pedido pasa por el procesamiento antes del envío. Sume los días de procesamiento a la entrega que muestra la página del pedido. Si la suma pasa de la fecha de la fiesta, ese vestido no es la compra adecuada para esa fecha."
+          "El pedido pasa por el procesamiento antes del envío. Compare la entrega prevista que muestra la página del pedido con la fecha de la fiesta y deje margen. Si la previsión queda cerca de la fiesta o la pasa, ese vestido no es la compra adecuada para esa fecha."
         ],
         "images": [
           {
@@ -169957,7 +170026,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Sume los días de procesamiento y la entrega prevista de la página, y compare con la fecha de la fiesta.",
+          "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Compare la entrega prevista de la página con la fecha de la fiesta y deje margen.",
           "¿Cómo saber si el vestido es largo o midi? Por el largo que declara la descripción y por la medida en centímetros de la guía de tallas de la prenda.",
           "¿Se puede usar el 4CW5Y para conseguir descuento? No. Es un código de invitación: no da descuento y no es un cupón."
         ]
@@ -169995,6 +170064,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Robe de soirée SHEIN : occasion, tissu, taille et délai pour Noël et la remise de diplôme, avec trois robes de la boutique lues sur la page de chaque produit.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -170268,9 +170338,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Délai : comptez jusqu'à la date de la fête",
+        "heading": "Délai : comparez avec la date de la fête",
         "paragraphs": [
-          "La commande passe par le traitement avant l'expédition. Ajoutez les jours de traitement à la livraison indiquée sur la page de la commande. Si le total dépasse la date de la fête, cette robe n'est pas le bon achat pour cette date."
+          "La commande passe par le traitement avant l'expédition. Comparez la livraison prévue indiquée sur la page de la commande avec la date de la fête, en gardant une marge. Si la prévision tombe près de la fête ou après, cette robe n'est pas le bon achat pour cette date."
         ],
         "images": [
           {
@@ -170319,7 +170389,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Une robe de soirée SHEIN arrive-t-elle à temps pour Noël ? Cela dépend de la date de commande. Ajoutez les jours de traitement et la livraison prévue indiquée sur la page, puis comparez avec la date de la fête.",
+          "Une robe de soirée SHEIN arrive-t-elle à temps pour Noël ? Cela dépend de la date de commande. Comparez la livraison prévue indiquée sur la page avec la date de la fête, en gardant une marge.",
           "Comment savoir si la robe est longue ou midi ? Par la longueur que déclare la description et par la mesure en centimètres du guide des tailles de la pièce.",
           "Peut-on utiliser le 4CW5Y pour obtenir une réduction ? Non. C'est un code de parrainage : il ne donne aucune réduction et n'est pas un coupon."
         ]
@@ -170357,6 +170427,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN-Partykleid: Anlass, Stoff, Größe und Lieferzeit für Weihnachten und Abschlussfeier, mit drei Kleidern aus dem Shop, gelesen auf der Seite jedes Produkts.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -170630,9 +170701,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Lieferzeit: Rechnen Sie bis zum Termin der Feier",
+        "heading": "Lieferzeit: Vergleichen Sie mit dem Termin der Feier",
         "paragraphs": [
-          "Die Bestellung durchläuft vor dem Versand die Bearbeitung. Addieren Sie die Bearbeitungstage zur Lieferung, die die Bestellseite anzeigt. Liegt die Summe nach dem Termin der Feier, ist dieses Kleid für diesen Termin nicht der richtige Kauf."
+          "Die Bestellung durchläuft vor dem Versand die Bearbeitung. Vergleichen Sie den voraussichtlichen Liefertermin auf der Bestellseite mit dem Termin der Feier und planen Sie einen Puffer ein. Liegt er knapp davor oder danach, ist dieses Kleid für diesen Termin nicht der richtige Kauf."
         ],
         "images": [
           {
@@ -170681,7 +170752,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Kommt ein SHEIN-Partykleid rechtzeitig zu Weihnachten an? Das hängt vom Bestelldatum ab. Addieren Sie die Bearbeitungstage und den voraussichtlichen Liefertermin der Seite und vergleichen Sie mit dem Termin der Feier.",
+          "Kommt ein SHEIN-Partykleid rechtzeitig zu Weihnachten an? Das hängt vom Bestelldatum ab. Vergleichen Sie den voraussichtlichen Liefertermin der Seite mit dem Termin der Feier und planen Sie einen Puffer ein.",
           "Woran erkennt man, ob das Kleid lang oder midi ist? An der Länge, die die Beschreibung angibt, und am Maß in Zentimetern in der Größentabelle des Teils.",
           "Kann man mit 4CW5Y einen Rabatt bekommen? Nein. Es ist ein Empfehlungscode: Er gibt keinen Rabatt und ist kein Gutschein."
         ]
@@ -170719,6 +170790,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Abito da festa SHEIN: occasione, tessuto, taglia e tempi per Natale e laurea, con tre abiti del negozio letti nella pagina di ogni prodotto.",
     "publishedAt": "30 ottobre 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -170992,9 +171064,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Tempi: sommate fino alla data della festa",
+        "heading": "Tempi: confrontate con la data della festa",
         "paragraphs": [
-          "L'ordine passa per l'elaborazione prima della spedizione. Sommate i giorni di elaborazione alla consegna indicata nella pagina dell'ordine. Se la somma supera la data della festa, quell'abito non è l'acquisto giusto per quella data."
+          "L'ordine passa per l'elaborazione prima della spedizione. Confrontate la consegna prevista nella pagina dell'ordine con la data della festa, lasciando un margine. Se la previsione cade vicino alla festa o dopo, quell'abito non è l'acquisto giusto per quella data."
         ],
         "images": [
           {
@@ -171043,7 +171115,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell'ordine. Sommate i giorni di elaborazione e la consegna prevista della pagina, e confrontate con la data della festa.",
+          "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell'ordine. Confrontate la consegna prevista della pagina con la data della festa, lasciando un margine.",
           "Come capire se l'abito è lungo o midi? Dalla lunghezza dichiarata nella descrizione e dalla misura in centimetri nella guida alle taglie del capo.",
           "Si può usare il 4CW5Y per avere uno sconto? No. È un codice di invito: non dà sconto e non è un coupon."
         ]
@@ -171081,6 +171153,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 파티 드레스: 크리스마스와 졸업식을 위한 행사, 소재, 사이즈, 배송 기간 가이드. 쇼핑몰의 드레스 3벌은 각 상품 페이지에서 확인한 내용입니다.",
     "publishedAt": "2026년 10월 30일",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -171356,7 +171429,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "배송 기간: 파티 날짜에서 거꾸로 계산",
         "paragraphs": [
-          "주문은 발송 전에 처리 과정을 거칩니다. 주문 페이지에 표시되는 배송 일정에 처리 일수를 더하세요. 합계가 파티 날짜를 넘긴다면, 그 날짜에는 그 드레스가 맞는 선택이 아닙니다."
+          "주문은 발송 전에 처리 과정을 거칩니다. 주문 페이지에 표시되는 배송 예정일을 파티 날짜와 비교하고 여유를 두세요. 예정일이 파티 날짜에 가깝거나 넘긴다면, 그 날짜에는 그 드레스가 맞는 선택이 아닙니다."
         ],
         "images": [
           {
@@ -171405,7 +171478,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN 파티 드레스는 크리스마스에 맞춰 도착하나요? 주문 날짜에 따라 다릅니다. 처리 일수와 페이지의 배송 예정일을 더해 파티 날짜와 비교하세요.",
+          "SHEIN 파티 드레스는 크리스마스에 맞춰 도착하나요? 주문 날짜에 따라 다릅니다. 페이지의 배송 예정일을 파티 날짜와 비교하고 여유를 두세요.",
           "드레스가 롱인지 미디인지 어떻게 알 수 있나요? 설명에 적힌 길이와 해당 상품 사이즈 가이드의 센티미터 치수로 확인하세요.",
           "4CW5Y로 할인을 받을 수 있나요? 아니요. 추천 코드이므로 할인이 없고 쿠폰도 아닙니다."
         ]
@@ -171443,6 +171516,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEINのパーティードレス選び：クリスマスと卒業式に向けて、場面、生地、サイズ、納期を解説。お店の3着は各商品ページで確認済みです。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -171718,7 +171792,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "納期：パーティーの日から逆算する",
         "paragraphs": [
-          "注文は発送前に処理を経ます。注文ページに表示される配達日に、その処理日数を足してください。合計がパーティーの日を過ぎるなら、その日にはそのドレスは正しい買い物ではありません。"
+          "注文は発送前に処理を経ます。注文ページに表示される配達予定日をパーティーの日と比べ、余裕を持たせてください。予定日がパーティーの日に近いか過ぎているなら、その日にはそのドレスは正しい買い物ではありません。"
         ],
         "images": [
           {
@@ -171767,7 +171841,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "SHEINのパーティードレスはクリスマスに間に合いますか？注文日しだいです。処理日数とページの配達予定日を足して、パーティーの日と比べてください。",
+          "SHEINのパーティードレスはクリスマスに間に合いますか？注文日しだいです。ページの配達予定日をパーティーの日と比べ、余裕を持たせてください。",
           "ドレスがロングかミディかは、どう見分けますか？説明に書かれた丈と、その商品のサイズガイドにあるセンチ表記で判断できます。",
           "4CW5Yで割引は受けられますか？いいえ。紹介コードなので割引はなく、クーポンでもありません。"
         ]
@@ -171805,6 +171879,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 派對洋裝：針對聖誕節與畢業典禮，說明場合、布料、尺寸與到貨時間，三件洋裝皆已在各商品頁查證。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -172080,7 +172155,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "到貨時間：從聚會日期往回推",
         "paragraphs": [
-          "訂單出貨前要先經過處理。請把處理天數加到訂單頁面顯示的送達時間上。如果總和超過聚會日期，那件洋裝就不適合那個日期。"
+          "訂單出貨前要先經過處理。請把訂單頁面顯示的預計送達時間與聚會日期比較，並預留餘裕。如果預計日期緊貼著聚會或已經超過，那件洋裝就不適合那個日期。"
         ],
         "images": [
           {
@@ -172129,7 +172204,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "SHEIN 的派對洋裝趕得上聖誕節嗎？取決於下單日期。把處理天數和頁面上的預計送達日期加起來，再與聚會日期比較。",
+          "SHEIN 的派對洋裝趕得上聖誕節嗎？取決於下單日期。把頁面上的預計送達日期與聚會日期比較，並預留餘裕。",
           "怎麼知道洋裝是長版還是中長款？看說明中標明的長度，以及該商品尺寸指南裡以公分標示的尺寸。",
           "可以用 4CW5Y 取得折扣嗎？不行。它是推薦碼，沒有折扣，也不是優惠券。"
         ]
@@ -172167,6 +172242,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 派对礼服：针对圣诞和毕业典礼，讲解场合、面料、尺码与到货时间，三条裙子均在各商品页核对过。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -172442,7 +172518,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "到货时间：从聚会日期往回推",
         "paragraphs": [
-          "订单发货前要先经过处理。把处理天数加到订单页显示的送达时间上。如果总和超过聚会日期，那条裙子就不适合那个日期。"
+          "订单发货前要先经过处理。把订单页显示的预计送达时间与聚会日期比较，并留出余量。如果预计日期紧挨着聚会或已经超过，那条裙子就不适合那个日期。"
         ],
         "images": [
           {
@@ -172491,7 +172567,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "SHEIN 的派对礼服能赶上圣诞吗？取决于下单日期。把处理天数和页面上的预计送达日期加起来，再与聚会日期比较。",
+          "SHEIN 的派对礼服能赶上圣诞吗？取决于下单日期。把页面上的预计送达日期与聚会日期比较，并留出余量。",
           "怎么知道裙子是长款还是中长款？看描述中标明的长度，以及该商品尺码指南里以厘米标注的尺寸。",
           "可以用 4CW5Y 获得折扣吗？不能。它是推荐码，没有折扣，也不是优惠券。"
         ]
@@ -180202,6 +180278,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN vale a pena para peça de medida conhecida e sem pressa. Pesquise 4CW5Y no app da SHEIN: código de indicação, sem desconto. Frete, prazo e devolução.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
@@ -180316,7 +180393,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e imposto: a faixa que vale",
         "paragraphs": [
-          "Entre R$ 69 e uns R$ 270, o pedido internacional não paga frete nem imposto de importação: é a faixa em que a SHEIN compensa mais. Conta nossa: pela página de envio da loja e pelo dólar do dia, o frete custa R$ 15 abaixo de R$ 69 e é grátis a partir daí; o imposto de importação começa quando o pedido passa de US$ 50, que davam perto de R$ 270. Pedidos de até US$ 50, somando produto e frete, não pagam imposto de importação. A SHEIN está na lista da Receita dos sites certificados no Remessa Conforme, e a regra vale para pessoa física. Os tributos aparecem no checkout, antes de pagar.",
+          "Quando fizemos a conta, o pedido internacional entre R$ 69 e uns R$ 270 não pagava frete nem imposto de importação, e é a faixa em que a SHEIN compensa mais. Pela página de envio da loja e pelo dólar do dia, o frete custava R$ 15 abaixo de R$ 69 e era grátis a partir daí; ele muda com o destino, o vendedor e as condições da compra, então confira na página do pedido. O imposto de importação começa quando o pedido passa de US$ 50, que davam perto de R$ 270. Pedidos de até US$ 50, somando produto, frete e seguro (se houver), não pagam imposto de importação. A SHEIN está na lista da Receita dos sites certificados no Remessa Conforme, e a regra vale para pessoa física. Os tributos aparecem no checkout, antes de pagar.",
           "Acima de US$ 50, a alíquota é de 60% com desconto de US$ 30 no imposto, e por isso ele começa pequeno: um pedido de US$ 60 paga US$ 6, um de US$ 75 paga US$ 15 e um de US$ 100 paga US$ 30. O casaco da tabela paga cerca de R$ 146 de imposto de importação. Em cima disso vem o ICMS, de 17% a 20%, que muda de estado para estado e vale em toda compra internacional, abaixo ou acima dos US$ 50; a SHEIN diz que subsidia a parte do ICMS que incide sobre o valor do produto, por critérios dela, cliente a cliente, e o que sobra está no resumo do pedido.",
           "A armadilha é a base da conta: o imposto incide sobre o que você paga, já com promoção e cupom, não sobre o preço riscado. Uma peça de lista acima de US$ 50 pode cair na faixa zero depois do desconto; o contrário não acontece. Quando não: a peça que sozinha passa dos US$ 50 paga imposto de qualquer jeito, e aí o que decide é se ela vale o que custa com o imposto no resumo, não o preço da vitrine."
         ]
@@ -180354,7 +180431,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho: a medida, não a letra",
         "paragraphs": [
-          "O M da SHEIN não é o seu M: cada peça tem o próprio guia em centímetros, e é ele que decide, não a letra. Regra prática, sem teste nosso: meça uma roupa sua que veste bem, deitada, e compare com a medida da peça do guia, não com a medida do seu corpo; a diferença entre as duas é a folga que você gosta. Peça sem guia em centímetros é peça para passar. O que medir em cada tipo de roupa, e como ler o guia de cada produto, está no [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil)."
+          "O M da SHEIN não é o seu M: cada peça tem o próprio guia em centímetros, e é ele que decide, não a letra. Regra prática, sem teste nosso: meça uma roupa sua que veste bem, deitada, e compare com a medida da peça no guia; a diferença entre as duas peças é o caimento que você gosta. Se a tabela mostrada for do corpo, compare com a medida do seu corpo. Peça sem guia em centímetros é peça para passar. O que medir em cada tipo de roupa, e como ler o guia de cada produto, está no [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil)."
         ]
       },
       {
@@ -180436,6 +180513,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN is worth it for a piece whose size you know and that can wait. Search 4CW5Y in the SHEIN app: referral code, no discount. Delivery and returns.",
     "publishedAt": "November 4, 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -180512,7 +180590,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Size: the measurements, not the letter",
         "paragraphs": [
-          "SHEIN's M isn't your M: each piece has its own size guide in centimeters, and that is what decides, not the letter. Rule of thumb, not tested by us: measure a garment you own that fits you well, lying flat, and compare it with the measurement in the piece's guide, not with your body measurements; the difference between the two is the room you like. A piece without a guide in centimeters is one to skip. What to measure for each type of garment, and how to read each product's guide, is in the [SHEIN size guide](/en/reviews/shein-size-guide)."
+          "SHEIN's M isn't your M: each piece has its own size guide in centimeters, and that is what decides, not the letter. Rule of thumb, not tested by us: measure a garment you own that fits you well, lying flat, and compare it with the garment measurement in the piece's guide; the difference between the two garments is the fit you like. If the table shown is a body chart, compare it with your body measurements instead. A piece without a guide in centimeters is one to skip. What to measure for each type of garment, and how to read each product's guide, is in the [SHEIN size guide](/en/reviews/shein-size-guide)."
         ]
       },
       {
@@ -180591,6 +180669,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN vale la pena para prendas de talla conocida y sin prisa. Busca 4CW5Y en la app de SHEIN: código de referido, sin descuento. Envío y devolución.",
     "publishedAt": "4 de noviembre de 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -180667,7 +180746,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Talla: la medida, no la letra",
         "paragraphs": [
-          "La M de SHEIN no es tu M: cada prenda tiene su propia guía de tallas en centímetros, y es esa la que decide, no la letra. Regla práctica, sin prueba nuestra: mide una prenda tuya que te quede bien, extendida, y compárala con la medida de la prenda en la guía, no con la medida de tu cuerpo; la diferencia entre ambas es la holgura que te gusta. Una prenda sin guía en centímetros es para pasar. Qué medir en cada tipo de ropa y cómo leer la guía de cada producto está en la [guía de tallas de SHEIN](/es/reviews/tallas-shein)."
+          "La M de SHEIN no es tu M: cada prenda tiene su propia guía de tallas en centímetros, y es esa la que decide, no la letra. Regla práctica, sin prueba nuestra: mide una prenda tuya que te quede bien, extendida, y compárala con la medida de la prenda en la guía; la diferencia entre ambas prendas es el calce que te gusta. Si la tabla que se muestra es de medidas del cuerpo, compárala con las medidas de tu cuerpo. Una prenda sin guía en centímetros es para pasar. Qué medir en cada tipo de ropa y cómo leer la guía de cada producto está en la [guía de tallas de SHEIN](/es/reviews/tallas-shein)."
         ]
       },
       {
@@ -180746,6 +180825,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN vaut le coup pour une pièce à taille connue, sans urgence. Cherchez 4CW5Y dans l'appli SHEIN : code de parrainage, sans réduction. Livraison, retour.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -180822,7 +180902,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taille : les mensurations, pas la lettre",
         "paragraphs": [
-          "Le M de SHEIN n'est pas votre M : chaque article a son propre guide des tailles en centimètres, et c'est lui qui décide, pas la lettre. Règle pratique, non testée par nous : mesurez un vêtement à vous qui vous va bien, à plat, et comparez-le à la mesure de l'article dans le guide, pas à vos propres mensurations ; la différence entre les deux, c'est l'aisance que vous aimez. Un article sans guide en centimètres, passez votre chemin. Ce qu'il faut mesurer selon le type de vêtement, et comment lire le guide de chaque produit, est dans le [guide des tailles SHEIN](/fr/reviews/tailles-shein)."
+          "Le M de SHEIN n'est pas votre M : chaque article a son propre guide des tailles en centimètres, et c'est lui qui décide, pas la lettre. Règle pratique, non testée par nous : mesurez un vêtement à vous qui vous va bien, à plat, et comparez-le à la mesure de l'article dans le guide ; la différence entre les deux vêtements, c'est la coupe que vous aimez. Si le tableau affiché est un tableau de mensurations du corps, comparez avec vos propres mensurations. Un article sans guide en centimètres, passez votre chemin. Ce qu'il faut mesurer selon le type de vêtement, et comment lire le guide de chaque produit, est dans le [guide des tailles SHEIN](/fr/reviews/tailles-shein)."
         ]
       },
       {
@@ -180901,6 +180981,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN lohnt sich für Teile mit bekannter Größe und ohne Eile. Suchen Sie 4CW5Y in der SHEIN-App: Empfehlungscode, kein Rabatt. Lieferung und Rückgabe.",
     "publishedAt": "4. November 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -180977,7 +181058,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Größe: die Maße, nicht der Buchstabe",
         "paragraphs": [
-          "Das M von SHEIN ist nicht Ihr M: Jedes Teil hat seinen eigenen Größenguide in Zentimetern, und der entscheidet, nicht der Buchstabe. Faustregel, nicht von uns getestet: Messen Sie ein Kleidungsstück, das Ihnen gut passt, flach ausgelegt, und vergleichen Sie es mit dem Maß des Teils im Guide, nicht mit Ihren Körpermaßen; der Unterschied zwischen beiden ist die Weite, die Sie mögen. Ein Teil ohne Guide in Zentimetern lassen Sie besser liegen. Was Sie bei welcher Kleidungsart messen und wie Sie den Guide jedes Produkts lesen, steht im [SHEIN-Größenguide](/de/reviews/shein-groessen)."
+          "Das M von SHEIN ist nicht Ihr M: Jedes Teil hat seinen eigenen Größenguide in Zentimetern, und der entscheidet, nicht der Buchstabe. Faustregel, nicht von uns getestet: Messen Sie ein Kleidungsstück, das Ihnen gut passt, flach ausgelegt, und vergleichen Sie es mit dem Maß des Teils im Guide; der Unterschied zwischen den beiden Teilen ist die Passform, die Sie mögen. Zeigt die Tabelle Körpermaße, vergleichen Sie mit Ihren eigenen Körpermaßen. Ein Teil ohne Guide in Zentimetern lassen Sie besser liegen. Was Sie bei welcher Kleidungsart messen und wie Sie den Guide jedes Produkts lesen, steht im [SHEIN-Größenguide](/de/reviews/shein-groessen)."
         ]
       },
       {
@@ -181056,6 +181137,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN conviene per capi di taglia nota e senza fretta. Cerca 4CW5Y nell'app SHEIN: codice invito, nessuno sconto. Spedizione, tempi e resi.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -181132,7 +181214,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taglia: le misure, non la lettera",
         "paragraphs": [
-          "La M di SHEIN non è la tua M: ogni capo ha la sua guida alle taglie in centimetri, ed è quella a decidere, non la lettera. Regola pratica, non testata da noi: misura un capo tuo che ti sta bene, disteso, e confrontalo con la misura del capo nella guida, non con le misure del tuo corpo; la differenza tra le due è l'ampiezza che ti piace. Un capo senza guida in centimetri è da lasciar perdere. Cosa misurare per ogni tipo di capo e come leggere la guida di ogni prodotto è nella [guida alle taglie SHEIN](/it/reviews/taglie-shein)."
+          "La M di SHEIN non è la tua M: ogni capo ha la sua guida alle taglie in centimetri, ed è quella a decidere, non la lettera. Regola pratica, non testata da noi: misura un capo tuo che ti sta bene, disteso, e confrontalo con la misura del capo nella guida; la differenza tra i due capi è la vestibilità che ti piace. Se la tabella mostrata è del corpo, confrontala con le misure del tuo corpo. Un capo senza guida in centimetri è da lasciar perdere. Cosa misurare per ogni tipo di capo e come leggere la guida di ogni prodotto è nella [guida alle taglie SHEIN](/it/reviews/taglie-shein)."
         ]
       },
       {
@@ -181211,6 +181293,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "치수를 알고 급하지 않은 옷이라면 SHEIN은 살 만해요. 앱 검색창에서 4CW5Y를 검색하세요. SHEIN 추천 코드이고 할인은 없어요. 배송과 반품도 확인하세요.",
     "publishedAt": "2026년 11월 4일",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -181287,7 +181370,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "사이즈: 글자보다 치수",
         "paragraphs": [
-          "SHEIN의 M은 평소 입던 M과 같지 않을 수 있어요. 상품마다 센티미터로 된 사이즈 가이드가 있고, 기준은 글자가 아니라 그 가이드예요. 일반 기준(직접 테스트하지 않음): 평소 잘 맞는 옷을 평평하게 놓고 재서, 상품 사이즈 가이드의 치수와 비교하세요. 몸의 치수와 비교하는 게 아니에요. 두 치수의 차이가 평소 좋아하는 여유분이에요. 센티미터 사이즈 가이드가 없는 상품은 건너뛰세요. 옷 종류별로 재는 법과 상품별 사이즈 가이드 읽는 법은 [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)에 있어요."
+          "SHEIN의 M은 평소 입던 M과 같지 않을 수 있어요. 상품마다 센티미터로 된 사이즈 가이드가 있고, 기준은 글자가 아니라 그 가이드예요. 일반 기준(직접 테스트하지 않음): 평소 잘 맞는 옷을 평평하게 놓고 재서, 상품 사이즈 가이드의 치수와 비교하세요. 두 옷의 치수 차이가 평소 좋아하는 핏이에요. 표시된 표가 몸 치수 표라면 본인의 몸 치수와 비교하세요. 센티미터 사이즈 가이드가 없는 상품은 건너뛰세요. 옷 종류별로 재는 법과 상품별 사이즈 가이드 읽는 법은 [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)에 있어요."
         ]
       },
       {
@@ -181366,6 +181449,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "サイズが分かっていて急がない服なら、SHEINは買う価値あり。アプリの検索欄で4CW5Yを検索してください。紹介コードで、割引にはなりません。送料、配送日数、返品も確認を。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -181442,7 +181526,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "サイズ：文字ではなく寸法",
         "paragraphs": [
-          "SHEINのMは、あなたのMとは限りません。商品ごとにセンチ表記のサイズガイドがあり、決めるのは文字ではなくそのガイドです。目安（当サイトでは未検証）：普段よく合う服を平らに置いて寸法を測り、商品のサイズガイドの寸法と比べてください。比べるのは体の寸法ではありません。その差が、あなたの好みのゆとりです。センチ表記のないサイズガイドの商品は見送ってください。服の種類ごとの測り方と、商品ごとのサイズガイドの読み方は[SHEINのサイズガイド](/ja/reviews/shein-size-guide-ja)にまとめています。"
+          "SHEINのMは、あなたのMとは限りません。商品ごとにセンチ表記のサイズガイドがあり、決めるのは文字ではなくそのガイドです。目安（当サイトでは未検証）：普段よく合う服を平らに置いて寸法を測り、商品のサイズガイドの寸法と比べてください。その差が、あなたの好みのシルエットの目安です。表示されている表が体の寸法の表なら、ご自身の体の寸法と比べてください。センチ表記のないサイズガイドの商品は見送ってください。服の種類ごとの測り方と、商品ごとのサイズガイドの読み方は[SHEINのサイズガイド](/ja/reviews/shein-size-guide-ja)にまとめています。"
         ]
       },
       {
@@ -181521,6 +181605,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "尺碼已知、不急著要的衣服，SHEIN 值得買。在 SHEIN App 搜尋 4CW5Y，這是推薦碼，沒有折扣。另外也要看運費、運送時間與退貨。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -181597,7 +181682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "尺碼：看公分，不看字母",
         "paragraphs": [
-          "SHEIN 的 M 不一定是你的 M。每件商品都有自己的公分尺碼表，決定尺碼的是尺碼表，不是字母。經驗法則（未經我們實測）：把一件你穿起來很合身的衣服平放量尺寸，和商品尺碼表上的數字比較，不要和你身體的尺寸比。兩者的差距，就是你喜歡的寬鬆度。沒有公分尺碼表的商品就別買。各類衣服怎麼量，以及怎麼看每件商品的尺碼表，請看 [SHEIN 尺碼指南](/zh-hant/reviews/shein-size-guide-zh-hant)。"
+          "SHEIN 的 M 不一定是你的 M。每件商品都有自己的公分尺碼表，決定尺碼的是尺碼表，不是字母。經驗法則（未經我們實測）：把一件你穿起來很合身的衣服平放量尺寸，和商品尺碼表上的數字比較。兩件衣服的差距，就是你喜歡的版型。如果表上標的是人體尺寸，就和你自己的身體尺寸比較。沒有公分尺碼表的商品就別買。各類衣服怎麼量，以及怎麼看每件商品的尺碼表，請看 [SHEIN 尺碼指南](/zh-hant/reviews/shein-size-guide-zh-hant)。"
         ]
       },
       {
@@ -181676,6 +181761,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "尺码已知、不着急的衣服，SHEIN 值得买。在 SHEIN App 搜索 4CW5Y，这是推荐码，没有折扣。另外也要看运费、配送时间和退货。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -181752,7 +181838,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "尺码：看厘米，不看字母",
         "paragraphs": [
-          "SHEIN 的 M 不一定是你的 M。每件商品都有自己的厘米尺码表，决定尺码的是尺码表，不是字母。经验法则（未经我们实测）：把一件你穿着很合身的衣服平放量尺寸，和商品尺码表上的数字比较，不要和你身体的尺寸比。两者的差距，就是你喜欢的宽松度。没有厘米尺码表的商品就别买。各类衣服怎么量，以及怎么看每件商品的尺码表，请看 [SHEIN 尺码指南](/zh-hans/reviews/shein-size-guide-zh-hans)。"
+          "SHEIN 的 M 不一定是你的 M。每件商品都有自己的厘米尺码表，决定尺码的是尺码表，不是字母。经验法则（未经我们实测）：把一件你穿着很合身的衣服平放量尺寸，和商品尺码表上的数字比较。两件衣服的差距，就是你喜欢的版型。如果表上标的是人体尺寸，就和你自己的身体尺寸比较。没有厘米尺码表的商品就别买。各类衣服怎么量，以及怎么看每件商品的尺码表，请看 [SHEIN 尺码指南](/zh-hans/reviews/shein-size-guide-zh-hans)。"
         ]
       },
       {
@@ -181831,6 +181917,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Tamanho na SHEIN: a letra muda de marca para marca; o 4CW5Y é código de indicação, pesquisado no app. Meça em centímetros e leia o guia de cada peça.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/tamanho-shein-capa.webp",
@@ -182023,7 +182110,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A folga é a diferença entre a peça e o seu corpo, e ela conta a modelagem antes de você vestir. Pela mesma conta, com o guia da DAZY, o M é indicado para busto de 82 a 86 cm. Sobram de 7 a 11 cm de folga numa camiseta de ajuste regular e elasticidade \"Pouco\". Quando só existe a medida da peça, a elasticidade faz o papel da folga: na Essnce, de elasticidade \"Muito\", a modelo da página veste o S, que mede 78 cm, 9 cm a menos que o busto dela.",
-          "O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade \"Não\" ou \"Pouco\" pede folga, e no limite a letra de cima; tecido \"Médio\" ou \"Muito\" pede a letra cuja medida fica igual ou abaixo da sua, porque folga grande numa peça que estica vira roupa larga."
+          "O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade \"Não\" ou \"Pouco\" pede folga, e no limite a letra de cima; tecido \"Médio\" ou \"Muito\" aceita folga menor, mas a escolha segue a medida da peça, a modelagem e a folga que você quer; a tabela do corpo, quando existe, também entra na conta. A modelo da Essnce é um exemplo, não uma regra."
         ]
       },
       {
@@ -182073,7 +182160,7 @@ export const reviewsData: unknown[] = [
           "Meça busto, cintura e quadril e anote em centímetros.",
           "Abra o \"Guia de tamanhos\" da peça e deixe em CM; o \"BR Tamanho\" mostra a letra daqui ao lado da internacional.",
           "Veja se a tabela é da peça ou do corpo. Compare com a sua medida e conte a folga.",
-          "Leia o tipo de ajuste e a elasticidade: tecido que não estica pede folga; tecido que estica, a letra da sua medida.",
+          "Leia o tipo de ajuste e a elasticidade: tecido que não estica pede folga; tecido que estica aceita folga menor, sem dispensar a medida da peça.",
           "Confira \"Como o comprador avaliou o look\" e procure, na tabela de compradores, alguém com as suas medidas.",
           "Em peça de Envio Nacional, procure a tabela do vendedor na galeria de fotos.",
           "Conte com 1 a 2 cm de variação na peça e com a mudança depois da lavagem.",
@@ -182087,7 +182174,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual letra pedir: o resumo por situação",
         "bullets": [
           "Tecido sem elastano, elasticidade \"Não\" ou \"Pouco\" (a camiseta DAZY): a letra cuja medida da peça dá a folga que você usa; se a sua medida cai no limite, a de cima.",
-          "Tecido com elastano, elasticidade \"Médio\" ou \"Muito\", e só a medida da peça no guia (a Essnce): a letra cuja medida fica igual ou abaixo da sua, como faz a modelo da página.",
+          "Tecido com elastano, elasticidade \"Médio\" ou \"Muito\", e só a medida da peça no guia (a Essnce): uma letra com folga menor pode servir, como a da modelo da página, que é só um exemplo; confira a medida da peça, o ajuste e a folga que você quer.",
           "Marca que a página avisa ser menor (a DAZY): leia a tabela do corpo da própria marca, não a sua letra de sempre; o \"BR Tamanho\" já faz a conversão no seletor.",
           "Envio Nacional: a tabela do vendedor, com a letra brasileira.",
           "Entre duas letras e sem certeza: a que a tabela de compradores com as suas medidas pediu; sem ninguém parecido, a folga decide, pela regra do tecido."
@@ -182137,6 +182224,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Size at SHEIN: the letter changes by brand. The 4CW5Y is a SHEIN referral code, searched in the app. Measure in cm and read each piece's size guide.",
     "publishedAt": "November 4, 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -182320,7 +182408,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Ease is the difference between the garment and your body, and it shows the cut before you put it on. By the same math, with the DAZY guide, M is meant for a bust of 82 to 86 cm. That leaves 7 to 11 cm of ease in a regular-fit T-shirt with slight stretch. When only the garment measurement exists, stretch takes the place of ease: in the Essnce, with high stretch, the model on the page wears S, which measures 78 cm, 9 cm less than her bust.",
-          "The guide warns that the piece measurement can vary by 1 to 2 cm, and the descriptions of both T-shirts warn that the fabric changes size after washing at home. If your measurement falls on the edge of one size, those 2 cm decide. So: fabric with no or slight stretch calls for ease, and on the edge the size above; fabric with medium or high stretch calls for the size whose measurement is equal to or below yours, because a lot of ease in a stretchy piece just ends up baggy."
+          "The guide warns that the piece measurement can vary by 1 to 2 cm, and the descriptions of both T-shirts warn that the fabric changes size after washing at home. If your measurement falls on the edge of one size, those 2 cm decide. So: fabric with no or slight stretch calls for ease, and on the edge the size above; fabric with medium or high stretch accepts less ease, but the choice still follows the piece measurement, the cut and the ease you want; when there is a body table, it goes into the calculation too. The model on the Essnce page is an example, not a rule."
         ]
       },
       {
@@ -182347,7 +182435,7 @@ export const reviewsData: unknown[] = [
           "Measure bust, waist and hips and write them down in centimeters.",
           "Open the piece's size guide and keep it on CM.",
           "Check whether the table is for the piece or for the body. Compare it with your measurement and count the ease.",
-          "Read the fit type and the stretch: fabric that doesn't stretch calls for ease; fabric that stretches, the size that matches your measurement.",
+          "Read the fit type and the stretch: fabric that doesn't stretch calls for ease; fabric that stretches accepts less ease, without replacing the piece measurement.",
           "Check the buyers' fit rating and look in their table for someone with your measurements.",
           "Allow for 1 to 2 cm of variation in the piece and for the change after washing.",
           "Keep the order confirmation and the tracking number: a return depends on them, if the piece doesn't fit."
@@ -182360,7 +182448,7 @@ export const reviewsData: unknown[] = [
         "heading": "Which size to order: a summary by situation",
         "bullets": [
           "Fabric without elastane, with no or slight stretch (the DAZY T-shirt): the size whose piece measurement gives the ease you want; if your measurement falls on the edge, the one above.",
-          "Fabric with elastane, medium or high stretch, and only the piece measurement in the guide (the Essnce): the size whose measurement is equal to or below yours, as the model on the page does.",
+          "Fabric with elastane, medium or high stretch, and only the piece measurement in the guide (the Essnce): a size with less ease can work, like the model on the page, who is only an example; check the piece measurement, the fit and the ease you want.",
           "A brand the page warns runs smaller (the DAZY): read the brand's own body table, not your usual letter.",
           "Between two sizes and unsure: the one that the buyer with your measurements ordered, in the buyers' table; with nobody similar, the ease decides, by the fabric rule."
         ],
@@ -182408,6 +182496,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Talla en SHEIN: la letra cambia de marca. El 4CW5Y es un código de referido que se busca en la app. Mide en cm y lee la guía de cada prenda.",
     "publishedAt": "4 de noviembre de 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -182591,7 +182680,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "La holgura es la diferencia entre la prenda y tu cuerpo, y cuenta el corte antes de que te la pongas. Con la misma cuenta, con la guía de DAZY, la M está indicada para un busto de 82 a 86 cm. Quedan de 7 a 11 cm de holgura en una camiseta de ajuste regular y poca elasticidad. Cuando solo existe la medida de la prenda, la elasticidad hace el papel de la holgura: en la Essnce, de alta elasticidad, la modelo de la ficha lleva la S, que mide 78 cm, 9 cm menos que su busto.",
-          "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta pide la talla cuya medida queda igual o por debajo de la tuya, porque mucha holgura en una prenda que estira se vuelve ropa ancha."
+          "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta admite menos holgura, pero la elección sigue la medida de la prenda, el corte y la holgura que quieres; si hay tabla del cuerpo, también entra en la cuenta. La modelo de la ficha de la Essnce es un ejemplo, no una regla."
         ]
       },
       {
@@ -182618,7 +182707,7 @@ export const reviewsData: unknown[] = [
           "Mide busto, cintura y cadera y anótalos en centímetros.",
           "Abre la guía de tallas de la prenda y déjala en CM.",
           "Mira si la tabla es de la prenda o del cuerpo. Compárala con tu medida y cuenta la holgura.",
-          "Lee el tipo de ajuste y la elasticidad: una tela que no estira pide holgura; una que estira, la talla de tu medida.",
+          "Lee el tipo de ajuste y la elasticidad: una tela que no estira pide holgura; una que estira admite menos holgura, sin sustituir la medida de la prenda.",
           "Revisa la valoración de ajuste de los compradores y busca en su tabla a alguien con tus medidas.",
           "Cuenta con una variación de 1 a 2 cm en la prenda y con el cambio tras el lavado.",
           "Guarda la confirmación del pedido y el seguimiento: con ellos se hace la devolución si la prenda no te queda."
@@ -182631,7 +182720,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qué talla pedir: el resumen por situación",
         "bullets": [
           "Tela sin elastano, con elasticidad nula o poca (la camiseta DAZY): la talla cuya medida de la prenda da la holgura que usas; si tu medida cae en el límite, la de arriba.",
-          "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): la talla cuya medida queda igual o por debajo de la tuya, como hace la modelo de la ficha.",
+          "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): una talla con menos holgura puede servir, como la de la modelo de la ficha, que es solo un ejemplo; revisa la medida de la prenda, el ajuste y la holgura que quieres.",
           "Marca que la ficha avisa que queda pequeña (la DAZY): lee la tabla de cuerpo de la propia marca, no tu letra de siempre.",
           "Entre dos tallas y sin certeza: la que pidieron en la tabla de compradores con tus medidas; sin nadie parecido, decide la holgura, según la regla de la tela."
         ],
@@ -182679,6 +182768,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Taille SHEIN : la lettre change selon la marque. Le 4CW5Y est un code de parrainage à chercher dans l'appli. Mesurez en cm et suivez le guide de l'article.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -182862,7 +182952,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "L'aisance, c'est la différence entre le vêtement et votre corps ; elle révèle la coupe avant même que vous ne l'enfiliez. Avec le même calcul, pour le guide DAZY, le M est prévu pour un buste de 82 à 86 cm. Il reste 7 à 11 cm d'aisance sur un t-shirt à coupe régulière et à élasticité légère. Quand il n'existe que la mesure du vêtement, l'élasticité joue le rôle de l'aisance : sur l'Essnce, à élasticité forte, le mannequin de la fiche porte le S, qui mesure 78 cm, soit 9 cm de moins que son buste.",
-          "Le guide prévient que la mesure de l'article peut varier de 1 à 2 cm, et la description des deux t-shirts prévient que le tissu change de dimensions après un lavage à la maison. Si votre mesure tombe à la limite d'une taille, ces 2 cm décident. Donc : un tissu sans élasticité ou à élasticité légère demande de l'aisance, et à la limite la taille au-dessus ; un tissu à élasticité moyenne ou forte demande la taille dont la mesure est égale ou inférieure à la vôtre, car trop d'aisance sur un article qui s'étire donne un vêtement flottant."
+          "Le guide prévient que la mesure de l'article peut varier de 1 à 2 cm, et la description des deux t-shirts prévient que le tissu change de dimensions après un lavage à la maison. Si votre mesure tombe à la limite d'une taille, ces 2 cm décident. Donc : un tissu sans élasticité ou à élasticité légère demande de l'aisance, et à la limite la taille au-dessus ; un tissu à élasticité moyenne ou forte accepte moins d'aisance, mais le choix suit toujours la mesure de l'article, la coupe et l'aisance que vous voulez, et le tableau du corps, s'il existe, entre dans le calcul. Le mannequin de la fiche Essnce est un exemple, pas une règle."
         ]
       },
       {
@@ -182889,7 +182979,7 @@ export const reviewsData: unknown[] = [
           "Mesurez buste, taille et hanches et notez-les en centimètres.",
           "Ouvrez le guide des tailles de l'article et laissez-le en CM.",
           "Regardez si le tableau concerne l'article ou le corps. Comparez-le à votre mesure et calculez l'aisance.",
-          "Lisez le type de coupe et l'élasticité : un tissu qui ne s'étire pas demande de l'aisance ; un tissu qui s'étire, la taille de votre mesure.",
+          "Lisez le type de coupe et l'élasticité : un tissu qui ne s'étire pas demande de l'aisance ; un tissu qui s'étire accepte moins d'aisance, sans remplacer la mesure de l'article.",
           "Consultez l'avis des acheteurs sur la coupe et cherchez dans leur tableau quelqu'un qui a vos mesures.",
           "Prévoyez une variation de 1 à 2 cm sur l'article et le changement après lavage.",
           "Gardez la confirmation de commande et le suivi : c'est avec eux que se fait le retour si l'article ne convient pas."
@@ -182902,7 +182992,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quelle taille commander : le résumé par situation",
         "bullets": [
           "Tissu sans élasthanne, élasticité nulle ou légère (le t-shirt DAZY) : la taille dont la mesure du vêtement donne l'aisance que vous voulez ; si votre mesure tombe à la limite, la taille au-dessus.",
-          "Tissu avec élasthanne, élasticité moyenne ou forte, et seulement la mesure du vêtement dans le guide (l'Essnce) : la taille dont la mesure est égale ou inférieure à la vôtre, comme le fait le mannequin de la fiche.",
+          "Tissu avec élasthanne, élasticité moyenne ou forte, et seulement la mesure du vêtement dans le guide (l'Essnce) : une taille avec moins d'aisance peut convenir, comme pour le mannequin de la fiche, qui n'est qu'un exemple ; vérifiez la mesure de l'article, la coupe et l'aisance que vous voulez.",
           "Marque dont la fiche prévient qu'elle taille petit (DAZY) : lisez le tableau du corps de la marque elle-même, pas votre lettre habituelle.",
           "Entre deux tailles et sans certitude : celle que le tableau des acheteurs ayant vos mesures a commandée ; sans personne de comparable, l'aisance décide, selon la règle du tissu."
         ],
@@ -182950,6 +183040,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Größe bei SHEIN: je Marke ändert sich der Buchstabe. Der 4CW5Y ist ein Empfehlungscode für die Suche in der App. Messen Sie in cm und prüfen Sie den Guide.",
     "publishedAt": "4. November 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -183133,7 +183224,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Die Weite ist der Unterschied zwischen Kleidungsstück und Körper, und sie verrät den Schnitt, bevor Sie es anziehen. Nach derselben Rechnung ist M im DAZY-Guide für einen Brustumfang von 82 bis 86 cm gedacht. Bei einem Shirt mit regulärem Schnitt und leichter Elastizität bleiben so 7 bis 11 cm Weite. Gibt es nur das Maß des Kleidungsstücks, übernimmt die Elastizität die Rolle der Weite: Bei der Essnce mit starker Elastizität trägt das Model auf der Produktseite Größe S, die 78 cm misst, also 9 cm weniger als ihr Brustumfang.",
-          "Der Guide weist darauf hin, dass sich das Maß des Artikels um 1 bis 2 cm unterscheiden kann, und die Beschreibung beider Shirts warnt, dass sich der Stoff nach dem Waschen zu Hause verändert. Liegt Ihr Maß genau an der Grenze einer Größe, entscheiden diese 2 cm. Also: Stoff ohne oder mit wenig Elastizität verlangt Weite, und an der Grenze die Größe darüber; Stoff mit mittlerer oder starker Elastizität verlangt die Größe, deren Maß gleich Ihrem oder darunter liegt, denn viel Weite an einem dehnbaren Stoff wird zu weiter Kleidung."
+          "Der Guide weist darauf hin, dass sich das Maß des Artikels um 1 bis 2 cm unterscheiden kann, und die Beschreibung beider Shirts warnt, dass sich der Stoff nach dem Waschen zu Hause verändert. Liegt Ihr Maß genau an der Grenze einer Größe, entscheiden diese 2 cm. Also: Stoff ohne oder mit wenig Elastizität verlangt Weite, und an der Grenze die Größe darüber; Stoff mit mittlerer oder starker Elastizität verträgt weniger Weite, aber die Wahl richtet sich weiter nach dem Artikelmaß, dem Schnitt und der Weite, die Sie möchten, und die Körpertabelle, falls vorhanden, gehört mit in die Rechnung. Das Model auf der Essnce-Seite ist ein Beispiel, keine Regel."
         ]
       },
       {
@@ -183160,7 +183251,7 @@ export const reviewsData: unknown[] = [
           "Messen Sie Brust, Taille und Hüfte und notieren Sie sie in Zentimetern.",
           "Öffnen Sie den Größenguide des Artikels und lassen Sie ihn auf CM.",
           "Prüfen Sie, ob die Tabelle zum Artikel oder zum Körper gehört. Vergleichen Sie mit Ihrem Maß und rechnen Sie die Weite aus.",
-          "Lesen Sie Schnitt und Elastizität: Stoff ohne Dehnung braucht Weite; Stoff mit Dehnung die Größe Ihres Maßes.",
+          "Lesen Sie Schnitt und Elastizität: Stoff ohne Dehnung braucht Weite; Stoff mit Dehnung verträgt weniger Weite, ersetzt aber nicht das Artikelmaß.",
           "Sehen Sie sich die Passformbewertung der Käufer an und suchen Sie in deren Tabelle jemanden mit Ihren Maßen.",
           "Rechnen Sie mit 1 bis 2 cm Abweichung am Artikel und mit der Veränderung nach dem Waschen.",
           "Bewahren Sie die Bestellbestätigung und die Sendungsnummer auf: Damit läuft die Rückgabe, wenn der Artikel nicht passt."
@@ -183173,7 +183264,7 @@ export const reviewsData: unknown[] = [
         "heading": "Welche Größe bestellen: die Übersicht nach Situation",
         "bullets": [
           "Stoff ohne Elasthan, ohne oder mit leichter Elastizität (das DAZY-Shirt): die Größe, deren Artikelmaß die Weite ergibt, die Sie möchten; liegt Ihr Maß an der Grenze, die Größe darüber.",
-          "Stoff mit Elasthan, mittlerer oder starker Elastizität, und nur das Artikelmaß im Guide (die Essnce): die Größe, deren Maß gleich Ihrem oder darunter liegt, wie es das Model auf der Seite vormacht.",
+          "Stoff mit Elasthan, mittlerer oder starker Elastizität, und nur das Artikelmaß im Guide (die Essnce): eine Größe mit weniger Weite kann passen, wie beim Model auf der Seite, das nur ein Beispiel ist; prüfen Sie Artikelmaß, Schnitt und die Weite, die Sie möchten.",
           "Marke, bei der die Seite warnt, dass sie kleiner ausfällt (DAZY): Lesen Sie die Körpertabelle der Marke selbst, nicht Ihren üblichen Buchstaben.",
           "Zwischen zwei Größen und unsicher: die, die in der Käufertabelle jemand mit Ihren Maßen bestellt hat; ohne Vergleichsperson entscheidet die Weite nach der Stoffregel."
         ],
@@ -183221,6 +183312,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Taglia su SHEIN: la lettera cambia da marchio a marchio. Il 4CW5Y è un codice invito da cercare nell'app. Misura in cm e leggi la guida di ogni capo.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -183404,7 +183496,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "L'ampiezza è la differenza tra il capo e il tuo corpo, e rivela la vestibilità prima ancora di indossarlo. Con lo stesso calcolo, nella guida DAZY la M è indicata per un busto da 82 a 86 cm. Restano da 7 a 11 cm di ampiezza su una maglietta a vestibilità regolare e poca elasticità. Quando c'è solo la misura del capo, l'elasticità fa le veci dell'ampiezza: sulla Essnce, con elasticità alta, la modella della scheda porta la S, che misura 78 cm, 9 cm meno del suo busto.",
-          "La guida avverte che la misura del capo può variare di 1-2 cm, e la descrizione delle due magliette avverte che il tessuto cambia misura dopo il lavaggio in casa. Se la tua misura cade al limite di una taglia, decidono questi 2 cm. Quindi: un tessuto senza elasticità o con poca elasticità chiede ampiezza, e al limite la taglia sopra; un tessuto con elasticità media o alta chiede la taglia la cui misura è uguale o inferiore alla tua, perché troppa ampiezza su un capo elastico lo fa diventare largo."
+          "La guida avverte che la misura del capo può variare di 1-2 cm, e la descrizione delle due magliette avverte che il tessuto cambia misura dopo il lavaggio in casa. Se la tua misura cade al limite di una taglia, decidono questi 2 cm. Quindi: un tessuto senza elasticità o con poca elasticità chiede ampiezza, e al limite la taglia sopra; un tessuto con elasticità media o alta accetta meno ampiezza, ma la scelta segue sempre la misura del capo, la vestibilità e l'ampiezza che vuoi, e la tabella del corpo, se c'è, entra nel calcolo. La modella della scheda Essnce è un esempio, non una regola."
         ]
       },
       {
@@ -183431,7 +183523,7 @@ export const reviewsData: unknown[] = [
           "Misura busto, vita e fianchi e annotali in centimetri.",
           "Apri la guida alle taglie del capo e tienila in CM.",
           "Controlla se la tabella è del capo o del corpo. Confrontala con la tua misura e conta l'ampiezza.",
-          "Leggi il tipo di vestibilità e l'elasticità: un tessuto che non si allunga chiede ampiezza; uno che si allunga, la taglia della tua misura.",
+          "Leggi il tipo di vestibilità e l'elasticità: un tessuto che non si allunga chiede ampiezza; uno che si allunga accetta meno ampiezza, senza sostituire la misura del capo.",
           "Guarda la valutazione di vestibilità degli acquirenti e cerca nella loro tabella qualcuno con le tue misure.",
           "Considera una variazione di 1-2 cm sul capo e il cambiamento dopo il lavaggio.",
           "Conserva la conferma d'ordine e il tracciamento: con quelli si fa il reso, se il capo non va bene."
@@ -183444,7 +183536,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quale taglia ordinare: il riassunto per situazione",
         "bullets": [
           "Tessuto senza elastan, senza elasticità o con poca (la maglietta DAZY): la taglia la cui misura del capo dà l'ampiezza che preferisci; se la tua misura cade al limite, quella sopra.",
-          "Tessuto con elastan, elasticità media o alta, e solo la misura del capo nella guida (la Essnce): la taglia la cui misura è uguale o inferiore alla tua, come fa la modella della scheda.",
+          "Tessuto con elastan, elasticità media o alta, e solo la misura del capo nella guida (la Essnce): una taglia con meno ampiezza può andare bene, come per la modella della scheda, che è solo un esempio; controlla la misura del capo, la vestibilità e l'ampiezza che vuoi.",
           "Marchio che la scheda segnala come più piccolo (DAZY): leggi la tabella del corpo del marchio stesso, non la tua lettera abituale.",
           "Tra due taglie e senza certezza: quella che, nella tabella degli acquirenti, ha ordinato chi ha le tue misure; senza nessuno di simile, decide l'ampiezza, con la regola del tessuto."
         ],
@@ -183492,6 +183584,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 사이즈는 브랜드마다 다릅니다. 4CW5Y는 앱에서 검색하는 추천 코드이며 쿠폰이 아니고 할인도 없습니다. cm로 재고 상품 가이드를 읽으십시오.",
     "publishedAt": "2026년 11월 4일",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -183675,7 +183768,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "여유분은 옷과 자신의 몸의 차이로, 입기 전에 핏이 얼마나 넉넉한지 알려 줍니다. 같은 계산을 DAZY 가이드에 적용하면 M은 가슴둘레 82~86cm인 사람에게 맞습니다. 레귤러 핏이고 신축성이 약간 있는 티셔츠라면 7~11cm의 여유가 남습니다. 상품 치수만 있을 때는 신축성이 여유분의 역할을 합니다. 신축성이 많이 늘어나는 Essnce에서는, 페이지의 모델이 78cm인 S를 입고 있습니다. 이는 모델의 가슴둘레보다 9cm 작은 수치입니다.",
-          "가이드에는 상품 치수가 1~2cm 달라질 수 있다고 나와 있고, 두 티셔츠 모두 집에서 세탁하면 원단 치수가 바뀔 수 있다고 적혀 있습니다. 자신의 치수가 사이즈 경계에 걸리면 이 2cm가 결정합니다. 그러니 신축성이 없거나 약간 있는 원단은 여유가 필요하므로 경계에서는 위 사이즈를 고르고, 신축성이 중간이거나 많이 늘어나는 원단은 상품 치수가 자신의 치수와 같거나 작은 사이즈를 고르십시오. 잘 늘어나는 원단에서 여유가 크면 헐렁해지기 때문입니다."
+          "가이드에는 상품 치수가 1~2cm 달라질 수 있다고 나와 있고, 두 티셔츠 모두 집에서 세탁하면 원단 치수가 바뀔 수 있다고 적혀 있습니다. 자신의 치수가 사이즈 경계에 걸리면 이 2cm가 결정합니다. 그러니 신축성이 없거나 약간 있는 원단은 여유가 필요하므로 경계에서는 위 사이즈를 고르고, 신축성이 중간이거나 많이 늘어나는 원단은 여유가 적어도 입을 수 있습니다. 그래도 기준은 상품 치수, 핏, 원하는 여유이고, 신체 치수표가 있으면 함께 보십시오. Essnce 모델은 하나의 예일 뿐 규칙이 아닙니다."
         ]
       },
       {
@@ -183702,7 +183795,7 @@ export const reviewsData: unknown[] = [
           "가슴둘레, 허리둘레, 엉덩이둘레를 재서 cm로 적어 두십시오.",
           "상품의 사이즈 가이드를 열고, 단위를 cm로 맞추십시오.",
           "표가 상품 치수인지 신체 치수인지 확인하고, 자신의 치수와 비교해 여유분을 계산하십시오.",
-          "핏 타입과 신축성을 읽으십시오. 늘어나지 않는 원단은 여유가 필요하고, 늘어나는 원단은 자신의 치수에 맞는 사이즈면 됩니다.",
+          "핏 타입과 신축성을 읽으십시오. 늘어나지 않는 원단은 여유가 필요하고, 늘어나는 원단은 여유가 적어도 되지만 상품 치수를 확인하는 일은 생략할 수 없습니다.",
           "구매자 착용감 평가를 확인하고, 구매자 표에서 자신과 치수가 비슷한 사람을 찾으십시오.",
           "상품 치수는 1~2cm 차이가 날 수 있고, 세탁 후에도 바뀔 수 있다는 점을 감안하십시오.",
           "주문 확인서와 배송 추적 번호를 보관하십시오. 맞지 않을 때 반품은 이 두 가지로 진행됩니다."
@@ -183715,7 +183808,7 @@ export const reviewsData: unknown[] = [
         "heading": "어떤 사이즈를 고를까: 상황별 요약",
         "bullets": [
           "스판덱스가 없는 원단이고 신축성이 없거나 약간 있는 경우(DAZY 티셔츠): 상품 치수를 보고, 원하는 여유가 나오는 사이즈를 고르십시오. 치수가 경계에 걸리면 위 사이즈를 고르십시오.",
-          "스판덱스가 들어 있고 신축성이 중간이거나 많이 늘어나며, 상품 치수만 있는 가이드(Essnce): 상품 치수가 자신의 치수와 같거나 작은 사이즈를 고르십시오. 페이지의 모델이 고른 방식과 같습니다.",
+          "스판덱스가 들어 있고 신축성이 중간이거나 많이 늘어나며, 상품 치수만 있는 가이드(Essnce): 여유가 적은 사이즈도 맞을 수 있습니다. 페이지의 모델이 그 예입니다. 상품 치수, 핏, 원하는 여유를 확인하십시오.",
           "페이지에서 작게 나온다고 안내하는 브랜드(DAZY): 평소 입던 사이즈 글자가 아니라 그 브랜드의 신체 치수표를 읽으십시오.",
           "두 사이즈 사이에서 확신이 없을 때: 구매자 표에서 자신과 치수가 비슷한 사람이 고른 사이즈를 보십시오. 비슷한 사람이 없다면 원단의 신축성 기준으로 여유를 정하십시오."
         ],
@@ -183763,6 +183856,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEINのサイズはブランドで変わります。紹介コード4CW5Yはアプリで検索するもので、クーポンではありません。cmで測り、商品のガイドを読みましょう。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -183946,7 +184040,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "ゆとりは、服と自分の体の差のことで、着る前にどれくらい余裕があるかがわかります。同じ計算をDAZYのガイドで行うと、Mは胸囲82〜86cmの人向けです。レギュラーフィットで伸縮性がわずかなTシャツなら、7〜11cmのゆとりがあります。商品の寸法しかない場合は、伸縮性がゆとりの役割を果たします。よく伸びるEssnceでは、ページのモデルはSサイズ（78cm）を着ていて、それはモデルの胸囲より9cm小さい数字です。",
-          "ガイドには、商品の寸法が1〜2cmずれることがあると書かれています。2つのTシャツの商品説明にも、家で洗濯すると生地のサイズが変わることがあると書かれています。自分の寸法がサイズの境目にあるなら、この2cmで決まります。そのため、伸縮性がない、またはわずかな生地はゆとりが必要なので、境目では上のサイズを選びます。伸縮性が中くらい、またはよく伸びる生地は、商品の寸法が自分の寸法と同じか、それより小さいサイズを選びます。よく伸びる生地でゆとりが大きいと、ゆるくなってしまうからです。"
+          "ガイドには、商品の寸法が1〜2cmずれることがあると書かれています。2つのTシャツの商品説明にも、家で洗濯すると生地のサイズが変わることがあると書かれています。自分の寸法がサイズの境目にあるなら、この2cmで決まります。そのため、伸縮性がない、またはわずかな生地はゆとりが必要なので、境目では上のサイズを選びます。伸縮性が中くらい、またはよく伸びる生地は、ゆとりが少なめでも着られます。それでも選ぶ基準は、商品の寸法、シルエット、ほしいゆとりで、体の寸法の表があるときはそれも合わせて見ます。Essnceのモデルは一例で、決まりではありません。"
         ]
       },
       {
@@ -183973,7 +184067,7 @@ export const reviewsData: unknown[] = [
           "胸囲、ウエスト、ヒップを測り、cmで書き留める。",
           "商品のサイズガイドを開き、単位をcmにする。",
           "表が商品の寸法か体の寸法かを確かめ、自分の寸法と比べてゆとりを計算する。",
-          "フィットのタイプと伸縮性を読む。伸びない生地はゆとりが必要で、伸びる生地は自分の寸法に合うサイズでよい。",
+          "フィットのタイプと伸縮性を読む。伸びない生地はゆとりが必要で、伸びる生地はゆとりが少なめでも着られるが、商品の寸法を見る手間は省けない。",
           "購入者の着用感の評価を確認し、購入者の表で自分と近い寸法の人を探す。",
           "商品の寸法は1〜2cmずれることがあり、洗濯後も変わることを見込んでおく。",
           "注文確認と配送の追跡番号を保存しておく。合わなかったときの返品は、この2つで進む。"
@@ -183986,7 +184080,7 @@ export const reviewsData: unknown[] = [
         "heading": "どのサイズを選ぶか：状況別のまとめ",
         "bullets": [
           "スパンデックスを含まず、伸縮性がない、またはわずかな生地（DAZYのTシャツ）：商品の寸法で、ほしいゆとりが出るサイズを選ぶ。寸法が境目なら、上のサイズ。",
-          "スパンデックスを含み、伸縮性が中くらいかよく伸び、商品の寸法しかないガイド（Essnce）：商品の寸法が自分の寸法と同じか、それより小さいサイズを選ぶ。ページのモデルと同じ選び方です。",
+          "スパンデックスを含み、伸縮性が中くらいかよく伸び、商品の寸法しかないガイド（Essnce）：ゆとりが少なめのサイズでも合うことがある。ページのモデルがその一例です。商品の寸法、フィット、ほしいゆとりを確かめる。",
           "ページで小さめだと注意書きされているブランド（DAZY）：いつものサイズ文字ではなく、そのブランドの体の寸法の表を読む。",
           "2つのサイズで迷い、確信がないとき：購入者の表で、自分と寸法が近い人が選んだサイズを見る。近い人がいなければ、生地の伸縮性のルールでゆとりを決める。"
         ],
@@ -184034,6 +184128,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 尺碼因品牌而異。4CW5Y 是推薦碼，要在 App 裡搜尋使用，不是優惠券。請用公分量身體，並閱讀每件商品的尺碼表。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -184217,7 +184312,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "寬鬆量是衣服和你身體之間的差距，穿之前就能看出版型鬆緊。用 DAZY 的尺碼表來算：M 碼適合胸圍 82 到 86 公分的人。常規版型、稍有彈性的 T 恤，還留有 7 到 11 公分的寬鬆。只有商品尺寸時，彈性就取代寬鬆的作用。Essnce 的彈性很大，頁面上的模特穿 S 碼，S 碼尺寸是 78 公分，比模特的胸圍小 9 公分。",
-          "尺碼表寫明，商品尺寸可能有 1 到 2 公分的誤差；兩件 T 恤的說明也都提到，布料在家洗過後尺寸會變。如果你的尺寸剛好落在兩個尺碼的交界，這 2 公分就會決定結果。所以：布料沒有彈性或稍有彈性，需要寬鬆，交界就選大一號；布料彈性中等或很大，就選商品尺寸小於或等於你尺寸的尺碼，因為彈性大的布料寬鬆一多，就會顯得鬆垮。"
+          "尺碼表寫明，商品尺寸可能有 1 到 2 公分的誤差；兩件 T 恤的說明也都提到，布料在家洗過後尺寸會變。如果你的尺寸剛好落在兩個尺碼的交界，這 2 公分就會決定結果。所以：布料沒有彈性或稍有彈性，需要寬鬆，交界就選大一號；布料彈性中等或很大，可以接受較少的寬鬆，但選碼仍要看商品尺寸、版型和你想要的寬鬆量，有身體尺寸表時也一併參考。Essnce 頁面上的模特只是一個例子，不是規則。"
         ]
       },
       {
@@ -184244,7 +184339,7 @@ export const reviewsData: unknown[] = [
           "量好胸圍、腰圍和臀圍，以公分記下來。",
           "打開商品的尺碼表，單位保持為公分。",
           "確認表格是商品尺寸還是身體尺寸，和你的尺寸比較，算出寬鬆量。",
-          "看版型和彈性：不會伸縮的布料需要寬鬆；會伸縮的，就選和你尺寸相符的尺碼。",
+          "看版型和彈性：不會伸縮的布料需要寬鬆；會伸縮的可以接受較少的寬鬆，但仍要看商品尺寸。",
           "看買家對合身度的評價，並在買家表裡找和你尺寸相近的人。",
           "商品尺寸可能有 1 到 2 公分的誤差，洗過後也會變，都要算進去。",
           "保存訂單確認與物流單號：不合適時，退貨要靠它們辦理。"
@@ -184257,7 +184352,7 @@ export const reviewsData: unknown[] = [
         "heading": "怎麼選碼：各種情況一覽",
         "bullets": [
           "布料不含氨綸、沒有彈性或稍有彈性（DAZY 的 T 恤）：看商品尺寸，選出能留給你所需寬鬆的尺碼；尺寸正好卡在交界，就選大一號。",
-          "布料含氨綸、彈性中等或很大，且只有商品尺寸（Essnce）：選商品尺寸小於或等於你尺寸的尺碼，和頁面上模特的選法一樣。",
+          "布料含氨綸、彈性中等或很大，且只有商品尺寸（Essnce）：寬鬆量較少的尺碼也可能合適，頁面上的模特就是一例；請核對商品尺寸、版型和你想要的寬鬆量。",
           "頁面提醒偏小的品牌（DAZY）：不要看你平常的字母，要讀該品牌自己的身體尺寸表。",
           "兩個尺碼之間拿不定主意：看買家表裡和你尺寸相近的人選了哪個。找不到相近的人，就照布料的規則，由寬鬆量來決定。"
         ],
@@ -184305,6 +184400,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN 尺码因品牌而异。4CW5Y 是推荐码，在 App 里搜索使用，不是优惠券。请用厘米量身体，并阅读每件商品的尺码表。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -184488,7 +184584,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "宽松量是衣服和你身体之间的差值，穿之前就能看出版型的松紧。用 DAZY 的尺码表来算：M 码适合胸围 82 到 86 厘米的人。常规版型、略有弹性的 T 恤，还留有 7 到 11 厘米的宽松。只有商品尺寸时，弹性就代替了宽松的作用。Essnce 的弹性很大，页面上的模特穿的是 S 码，S 码尺寸 78 厘米，比模特的胸围小 9 厘米。",
-          "尺码表写明，商品尺寸可能有 1 到 2 厘米的误差；两件 T 恤的说明也都提到，面料在家洗过后尺寸会变。如果你的尺寸正好卡在两个尺码的边界，这 2 厘米就会决定结果。所以：面料没有弹性或略有弹性，需要宽松，边界上选大一号；面料弹性中等或很大，就选商品尺寸小于或等于你尺寸的尺码，因为弹性大的面料宽松一多，就会显得松垮。"
+          "尺码表写明，商品尺寸可能有 1 到 2 厘米的误差；两件 T 恤的说明也都提到，面料在家洗过后尺寸会变。如果你的尺寸正好卡在两个尺码的边界，这 2 厘米就会决定结果。所以：面料没有弹性或略有弹性，需要宽松，边界上选大一号；面料弹性中等或很大，可以接受较少的宽松，但选码仍要看商品尺寸、版型和你想要的宽松量，有身体尺寸表时也一并参考。Essnce 页面上的模特只是一个例子，不是规则。"
         ]
       },
       {
@@ -184515,7 +184611,7 @@ export const reviewsData: unknown[] = [
           "量好胸围、腰围和臀围，以厘米记下来。",
           "打开商品的尺码表，单位保持为厘米。",
           "确认表格是商品尺寸还是身体尺寸，和你的尺寸比较，算出宽松量。",
-          "看版型和弹性：不会伸缩的面料需要宽松；会伸缩的，就选与你尺寸相符的尺码。",
+          "看版型和弹性：不会伸缩的面料需要宽松；会伸缩的可以接受较少的宽松，但仍要看商品尺寸。",
           "看买家对合身度的评价，并在买家表里找和你尺寸相近的人。",
           "商品尺寸可能有 1 到 2 厘米的误差，洗过后也会变，都要算进去。",
           "保存订单确认和物流单号：不合适时，退货要靠它们办理。"
@@ -184528,7 +184624,7 @@ export const reviewsData: unknown[] = [
         "heading": "怎么选码：各种情况一览",
         "bullets": [
           "面料不含氨纶，没有弹性或略有弹性（DAZY T 恤）：看商品尺寸，选出能留给你所需宽松的尺码；尺寸正好卡在边界，就选大一号。",
-          "面料含氨纶，弹性中等或很大，且只有商品尺寸（Essnce）：选商品尺寸小于或等于你尺寸的尺码，和页面上模特的选法一样。",
+          "面料含氨纶，弹性中等或很大，且只有商品尺寸（Essnce）：宽松量较少的尺码也可能合适，页面上的模特就是一例；请核对商品尺寸、版型和你想要的宽松量。",
           "页面提醒偏小的品牌（DAZY）：不要看你平时的字母，要读该品牌自己的身体尺寸表。",
           "两个尺码之间拿不定主意：看买家表里和你尺寸相近的人选了哪个。找不到相近的人，就按面料的规则，由宽松量来决定。"
         ],

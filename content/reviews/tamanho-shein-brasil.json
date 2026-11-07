@@ -19,6 +19,7 @@
   "metaDescription": "Tamanho na SHEIN: a letra muda de marca para marca; o 4CW5Y é código de indicação, pesquisado no app. Meça em centímetros e leia o guia de cada peça.",
   "publishedAt": "4 de novembro de 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/shein/tamanho-shein-capa.webp",
@@ -211,7 +212,7 @@
       },
       "postParagraphs": [
         "A folga é a diferença entre a peça e o seu corpo, e ela conta a modelagem antes de você vestir. Pela mesma conta, com o guia da DAZY, o M é indicado para busto de 82 a 86 cm. Sobram de 7 a 11 cm de folga numa camiseta de ajuste regular e elasticidade \"Pouco\". Quando só existe a medida da peça, a elasticidade faz o papel da folga: na Essnce, de elasticidade \"Muito\", a modelo da página veste o S, que mede 78 cm, 9 cm a menos que o busto dela.",
-        "O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade \"Não\" ou \"Pouco\" pede folga, e no limite a letra de cima; tecido \"Médio\" ou \"Muito\" pede a letra cuja medida fica igual ou abaixo da sua, porque folga grande numa peça que estica vira roupa larga."
+        "O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade \"Não\" ou \"Pouco\" pede folga, e no limite a letra de cima; tecido \"Médio\" ou \"Muito\" aceita folga menor, mas a escolha segue a medida da peça, a modelagem e a folga que você quer; a tabela do corpo, quando existe, também entra na conta. A modelo da Essnce é um exemplo, não uma regra."
       ]
     },
     {
@@ -261,7 +262,7 @@
         "Meça busto, cintura e quadril e anote em centímetros.",
         "Abra o \"Guia de tamanhos\" da peça e deixe em CM; o \"BR Tamanho\" mostra a letra daqui ao lado da internacional.",
         "Veja se a tabela é da peça ou do corpo. Compare com a sua medida e conte a folga.",
-        "Leia o tipo de ajuste e a elasticidade: tecido que não estica pede folga; tecido que estica, a letra da sua medida.",
+        "Leia o tipo de ajuste e a elasticidade: tecido que não estica pede folga; tecido que estica aceita folga menor, sem dispensar a medida da peça.",
         "Confira \"Como o comprador avaliou o look\" e procure, na tabela de compradores, alguém com as suas medidas.",
         "Em peça de Envio Nacional, procure a tabela do vendedor na galeria de fotos.",
         "Conte com 1 a 2 cm de variação na peça e com a mudança depois da lavagem.",
@@ -275,7 +276,7 @@
       "heading": "Qual letra pedir: o resumo por situação",
       "bullets": [
         "Tecido sem elastano, elasticidade \"Não\" ou \"Pouco\" (a camiseta DAZY): a letra cuja medida da peça dá a folga que você usa; se a sua medida cai no limite, a de cima.",
-        "Tecido com elastano, elasticidade \"Médio\" ou \"Muito\", e só a medida da peça no guia (a Essnce): a letra cuja medida fica igual ou abaixo da sua, como faz a modelo da página.",
+        "Tecido com elastano, elasticidade \"Médio\" ou \"Muito\", e só a medida da peça no guia (a Essnce): uma letra com folga menor pode servir, como a da modelo da página, que é só um exemplo; confira a medida da peça, o ajuste e a folga que você quer.",
         "Marca que a página avisa ser menor (a DAZY): leia a tabela do corpo da própria marca, não a sua letra de sempre; o \"BR Tamanho\" já faz a conversão no seletor.",
         "Envio Nacional: a tabela do vendedor, com a letra brasileira.",
         "Entre duas letras e sem certeza: a que a tabela de compradores com as suas medidas pediu; sem ninguém parecido, a folga decide, pela regra do tecido."

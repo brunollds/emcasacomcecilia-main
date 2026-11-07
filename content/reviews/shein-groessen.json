@@ -19,6 +19,7 @@
   "metaDescription": "Größe bei SHEIN: je Marke ändert sich der Buchstabe. Der 4CW5Y ist ein Empfehlungscode für die Suche in der App. Messen Sie in cm und prüfen Sie den Guide.",
   "publishedAt": "4. November 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -202,7 +203,7 @@
       },
       "postParagraphs": [
         "Die Weite ist der Unterschied zwischen Kleidungsstück und Körper, und sie verrät den Schnitt, bevor Sie es anziehen. Nach derselben Rechnung ist M im DAZY-Guide für einen Brustumfang von 82 bis 86 cm gedacht. Bei einem Shirt mit regulärem Schnitt und leichter Elastizität bleiben so 7 bis 11 cm Weite. Gibt es nur das Maß des Kleidungsstücks, übernimmt die Elastizität die Rolle der Weite: Bei der Essnce mit starker Elastizität trägt das Model auf der Produktseite Größe S, die 78 cm misst, also 9 cm weniger als ihr Brustumfang.",
-        "Der Guide weist darauf hin, dass sich das Maß des Artikels um 1 bis 2 cm unterscheiden kann, und die Beschreibung beider Shirts warnt, dass sich der Stoff nach dem Waschen zu Hause verändert. Liegt Ihr Maß genau an der Grenze einer Größe, entscheiden diese 2 cm. Also: Stoff ohne oder mit wenig Elastizität verlangt Weite, und an der Grenze die Größe darüber; Stoff mit mittlerer oder starker Elastizität verlangt die Größe, deren Maß gleich Ihrem oder darunter liegt, denn viel Weite an einem dehnbaren Stoff wird zu weiter Kleidung."
+        "Der Guide weist darauf hin, dass sich das Maß des Artikels um 1 bis 2 cm unterscheiden kann, und die Beschreibung beider Shirts warnt, dass sich der Stoff nach dem Waschen zu Hause verändert. Liegt Ihr Maß genau an der Grenze einer Größe, entscheiden diese 2 cm. Also: Stoff ohne oder mit wenig Elastizität verlangt Weite, und an der Grenze die Größe darüber; Stoff mit mittlerer oder starker Elastizität verträgt weniger Weite, aber die Wahl richtet sich weiter nach dem Artikelmaß, dem Schnitt und der Weite, die Sie möchten, und die Körpertabelle, falls vorhanden, gehört mit in die Rechnung. Das Model auf der Essnce-Seite ist ein Beispiel, keine Regel."
       ]
     },
     {
@@ -229,7 +230,7 @@
         "Messen Sie Brust, Taille und Hüfte und notieren Sie sie in Zentimetern.",
         "Öffnen Sie den Größenguide des Artikels und lassen Sie ihn auf CM.",
         "Prüfen Sie, ob die Tabelle zum Artikel oder zum Körper gehört. Vergleichen Sie mit Ihrem Maß und rechnen Sie die Weite aus.",
-        "Lesen Sie Schnitt und Elastizität: Stoff ohne Dehnung braucht Weite; Stoff mit Dehnung die Größe Ihres Maßes.",
+        "Lesen Sie Schnitt und Elastizität: Stoff ohne Dehnung braucht Weite; Stoff mit Dehnung verträgt weniger Weite, ersetzt aber nicht das Artikelmaß.",
         "Sehen Sie sich die Passformbewertung der Käufer an und suchen Sie in deren Tabelle jemanden mit Ihren Maßen.",
         "Rechnen Sie mit 1 bis 2 cm Abweichung am Artikel und mit der Veränderung nach dem Waschen.",
         "Bewahren Sie die Bestellbestätigung und die Sendungsnummer auf: Damit läuft die Rückgabe, wenn der Artikel nicht passt."
@@ -242,7 +243,7 @@
       "heading": "Welche Größe bestellen: die Übersicht nach Situation",
       "bullets": [
         "Stoff ohne Elasthan, ohne oder mit leichter Elastizität (das DAZY-Shirt): die Größe, deren Artikelmaß die Weite ergibt, die Sie möchten; liegt Ihr Maß an der Grenze, die Größe darüber.",
-        "Stoff mit Elasthan, mittlerer oder starker Elastizität, und nur das Artikelmaß im Guide (die Essnce): die Größe, deren Maß gleich Ihrem oder darunter liegt, wie es das Model auf der Seite vormacht.",
+        "Stoff mit Elasthan, mittlerer oder starker Elastizität, und nur das Artikelmaß im Guide (die Essnce): eine Größe mit weniger Weite kann passen, wie beim Model auf der Seite, das nur ein Beispiel ist; prüfen Sie Artikelmaß, Schnitt und die Weite, die Sie möchten.",
         "Marke, bei der die Seite warnt, dass sie kleiner ausfällt (DAZY): Lesen Sie die Körpertabelle der Marke selbst, nicht Ihren üblichen Buchstaben.",
         "Zwischen zwei Größen und unsicher: die, die in der Käufertabelle jemand mit Ihren Maßen bestellt hat; ohne Vergleichsperson entscheidet die Weite nach der Stoffregel."
       ],

@@ -19,6 +19,7 @@
   "metaDescription": "SHEIN party dress: occasion, fabric, size and timing for Christmas and graduation, with three dresses from the store read on each product page.",
   "publishedAt": "October 30, 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -292,9 +293,9 @@
       ]
     },
     {
-      "heading": "Timing: add up to the party date",
+      "heading": "Timing: compare with the party date",
       "paragraphs": [
-        "The order goes through processing before shipping. Add the processing days to the delivery estimate the order page shows. If the total goes past the party date, that dress is not the right buy for that date."
+        "The order goes through processing before shipping. Compare the delivery estimate the order page shows with the party date, and leave some margin. If the estimate lands close to the party or past it, that dress is not the right buy for that date."
       ],
       "images": [
         {
@@ -343,7 +344,7 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Will a SHEIN party dress arrive in time for Christmas? It depends on the order date. Add the processing days and the delivery estimate on the page, and compare with the party date.",
+        "Will a SHEIN party dress arrive in time for Christmas? It depends on the order date. Compare the delivery estimate on the page with the party date, and leave some margin.",
         "How can I tell if the dress is long or midi? By the length the description states and by the measurement in centimeters in the piece's size guide.",
         "Can I use 4CW5Y to get a discount? No. It is a referral code: it gives no discount and is not a coupon."
       ]

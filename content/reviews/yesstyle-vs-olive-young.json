@@ -19,6 +19,7 @@
   "metaDescription": "YesStyle or Olive Young? See free shipping, delivery time, tax and returns by country, from the official pages.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -73,7 +74,7 @@
       "paragraphs": [
         "Tax varies from country to country at both stores. At Olive Young, it is added at checkout in some countries and left for delivery in others, paid by the customer.",
         "**Olive Young.** The page splits the countries into groups. In the United Kingdom, Norway, Australia and Singapore, tax shows up as charged at purchase. The United Kingdom may charge VAT and fees on orders above £135; Norway has 25% VAT, Australia 10% GST, and Singapore 9%. In the European Union, for orders placed since Jul 31, 2026, Olive Young calculates and charges at checkout the country's VAT and €3 of import duty per HS code (customs category), once you enter your address; on an order under US$60 with shipping, VAT also applies to the shipping. The store says nothing else is charged on delivery. In Canada and Israel, the charge falls on delivery: Canada may charge VAT on orders above CA$20, and Israel, fees above US$75, and the local carrier may charge a fee. The store does not accept returns or refunds because of tax or import fees (EU fees FAQ).",
-        "**YesStyle.** Since Jul 1, 2026, the European Union charges €3 per customs category on parcels under €150, and YesStyle says that, for now, it pays this fee on the customer's behalf (shipping article). YesStyle refunds customs fees charged on delivery for orders under US$1,000, as store credit, if you send the receipt within 30 days."
+        "**YesStyle.** Since Jul 1, 2026, the European Union charges €3 per customs category on parcels under €150, and YesStyle says that, for now, it pays this fee on the customer's behalf (shipping article). YesStyle refunds customs-related taxes and fees paid on delivery, as store credit, on orders under US$1,000 (the amount before discounts and without shipping), if the receipt reaches the store within 30 days of the payment date. Sales-type taxes (VAT, GST) for some destinations, including the European Union and the United Kingdom, and courier fees such as storage are not covered."
       ]
     },
     {
@@ -124,7 +125,7 @@
     {
       "heading": "Membership program and points",
       "paragraphs": [
-        "At Olive Young, OY MEMBERS is free and returns 0.5% to 2.5% of your purchase in points; signing up gives you the BABY tier right away. The other tiers are recalculated on the first Monday of January and July, based on the previous half-year's purchases, and go up immediately if the current half-year's purchases pass the threshold. On the members page, the range for each tier is as follows; the current tier is valid until the end of the year."
+        "At Olive Young, OY MEMBERS is free and returns 0.5% to 2.5% of your purchase in points; signing up gives you the BABY tier right away. The other tiers are recalculated on the first Monday of January and July, based on the previous half-year's purchases, and a higher tier takes effect the next day, around midnight Korean time, if the current half-year's purchases pass the threshold. On the members page, the range for each tier is as follows; the page says the program runs until the end of the year and may change or end."
       ],
       "comparisonTable": {
         "headers": [
@@ -168,7 +169,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
         "alt": "Bar chart with the five OY MEMBERS tiers, from BABY to GOLD, the half-year purchases that lead to each and the percentage of points back",
-        "caption": "OY MEMBERS tiers: purchases in the half-year, in US$, and points back, from 0.5% to 2.5%. Members page; the current tier is valid until the end of the year.",
+        "caption": "OY MEMBERS tiers: purchases in the half-year, in US$, and points back, from 0.5% to 2.5%. Members page; the program runs until the end of the year and may change.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }

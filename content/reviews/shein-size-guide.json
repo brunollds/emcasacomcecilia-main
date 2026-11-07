@@ -19,6 +19,7 @@
   "metaDescription": "Size at SHEIN: the letter changes by brand. The 4CW5Y is a SHEIN referral code, searched in the app. Measure in cm and read each piece's size guide.",
   "publishedAt": "November 4, 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -202,7 +203,7 @@
       },
       "postParagraphs": [
         "Ease is the difference between the garment and your body, and it shows the cut before you put it on. By the same math, with the DAZY guide, M is meant for a bust of 82 to 86 cm. That leaves 7 to 11 cm of ease in a regular-fit T-shirt with slight stretch. When only the garment measurement exists, stretch takes the place of ease: in the Essnce, with high stretch, the model on the page wears S, which measures 78 cm, 9 cm less than her bust.",
-        "The guide warns that the piece measurement can vary by 1 to 2 cm, and the descriptions of both T-shirts warn that the fabric changes size after washing at home. If your measurement falls on the edge of one size, those 2 cm decide. So: fabric with no or slight stretch calls for ease, and on the edge the size above; fabric with medium or high stretch calls for the size whose measurement is equal to or below yours, because a lot of ease in a stretchy piece just ends up baggy."
+        "The guide warns that the piece measurement can vary by 1 to 2 cm, and the descriptions of both T-shirts warn that the fabric changes size after washing at home. If your measurement falls on the edge of one size, those 2 cm decide. So: fabric with no or slight stretch calls for ease, and on the edge the size above; fabric with medium or high stretch accepts less ease, but the choice still follows the piece measurement, the cut and the ease you want; when there is a body table, it goes into the calculation too. The model on the Essnce page is an example, not a rule."
       ]
     },
     {
@@ -229,7 +230,7 @@
         "Measure bust, waist and hips and write them down in centimeters.",
         "Open the piece's size guide and keep it on CM.",
         "Check whether the table is for the piece or for the body. Compare it with your measurement and count the ease.",
-        "Read the fit type and the stretch: fabric that doesn't stretch calls for ease; fabric that stretches, the size that matches your measurement.",
+        "Read the fit type and the stretch: fabric that doesn't stretch calls for ease; fabric that stretches accepts less ease, without replacing the piece measurement.",
         "Check the buyers' fit rating and look in their table for someone with your measurements.",
         "Allow for 1 to 2 cm of variation in the piece and for the change after washing.",
         "Keep the order confirmation and the tracking number: a return depends on them, if the piece doesn't fit."
@@ -242,7 +243,7 @@
       "heading": "Which size to order: a summary by situation",
       "bullets": [
         "Fabric without elastane, with no or slight stretch (the DAZY T-shirt): the size whose piece measurement gives the ease you want; if your measurement falls on the edge, the one above.",
-        "Fabric with elastane, medium or high stretch, and only the piece measurement in the guide (the Essnce): the size whose measurement is equal to or below yours, as the model on the page does.",
+        "Fabric with elastane, medium or high stretch, and only the piece measurement in the guide (the Essnce): a size with less ease can work, like the model on the page, who is only an example; check the piece measurement, the fit and the ease you want.",
         "A brand the page warns runs smaller (the DAZY): read the brand's own body table, not your usual letter.",
         "Between two sizes and unsure: the one that the buyer with your measurements ordered, in the buyers' table; with nobody similar, the ease decides, by the fabric rule."
       ],

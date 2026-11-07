@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Il Black Friday di YesStyle è già attivo, con Mega Sale e un coupon a scaglioni dall'8% al 15% in settimana. Scopri dove va il codice CECILIA010 e quando arrivano i giorni al 15%.",
-  "metaDescription": "YesStyle ha il Black Friday? Sì, è già attivo: Mega Sale, coupon a scaglioni dall'8% al 15%, giorni al 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
+  "description": "Il Black Friday di YesStyle è già attivo, con Mega Sale e un coupon a scaglioni dall'8% al 15%. Scopri dove va il codice CECILIA010 e cosa aspettarsi dai giorni al 15%.",
+  "metaDescription": "YesStyle ha il Black Friday? Sì, è già attivo: Mega Sale, coupon a scaglioni dall'8% al 15% e come sommare il codice ricompensa CECILIA010.",
   "publishedAt": "11 ottobre 2026",
   "publishedAtISO": "2026-10-11",
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -31,8 +31,8 @@
   "pros": [
     "Calendario ufficiale 2024 e 2025, preso dalle pagine delle regole di ogni coupon",
     "Il codice ricompensa si somma al coupon di YesStyle, anche durante il Black Friday",
-    "Nei giorni al 15% senza minimo, qualsiasi carrello ottiene lo sconto massimo del coupon",
-    "YesStyle rimborsa le tasse doganali sugli ordini inferiori a US$ 1.000, come credito nel negozio"
+    "Nel 2024 e nel 2025, nei giorni al 15% senza minimo, qualsiasi carrello ha ottenuto lo sconto massimo del coupon",
+    "YesStyle rimborsa gli oneri doganali sugli ordini idonei inferiori a US$ 1.000, come credito nel negozio"
   ],
   "cons": [
     "La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti: il resto è una stima basata sullo storico",
@@ -44,13 +44,13 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Sì, YesStyle fa il Black Friday ed è già attivo: la home ha la Mega Sale, con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni della settimana dà l'8%, il 10% o il 15%. CECILIA010 si somma a esso, nel campo Reward Code. I giorni al 15% senza minimo devono ancora arrivare."
+        "Sì, YesStyle fa il Black Friday ed è già attivo: la home ha la Mega Sale, con offerte per prodotto e banner fino al 50% di sconto, e un coupon a scaglioni dà l'8%, il 10% o il 15%. CECILIA010 si somma a esso, nel campo Reward Code. I giorni al 15% senza minimo del 2026 non sono ancora annunciati."
       ]
     },
     {
       "heading": "Quando inizia il Black Friday di YesStyle",
       "paragraphs": [
-        "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Nel 2026 la campagna è già iniziata: il 3 novembre la home del negozio mostra la «Black Friday Mega Sale», con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni della settimana (8% sopra US$ 79, 10% sopra US$ 149 e 15% sopra US$ 199), che il negozio cambia ogni pochi giorni. La spedizione standard è gratuita sopra US$ 35. La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti."
+        "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Nel 2026 la campagna è già iniziata: il 3 novembre la home del negozio mostra la «Black Friday Mega Sale», con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni di quel momento (8% sopra US$ 79, 10% sopra US$ 149 e 15% sopra US$ 199), che il negozio cambia ogni pochi giorni: controlla quello attuale prima di comprare. La scadenza di un coupon non significa che la campagna sia finita. La spedizione standard gratuita sopra US$ 35 dipende dalla destinazione: il checkout mostra la tua. La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti."
       ],
       "comparisonTable": {
         "caption": "Coupon aperti a tutti i membri nel 2025, dalle pagine di assistenza di YesStyle; ogni fase dura fino all'inizio della successiva. Date in orario GMT, che è quello che vale per il negozio.",
@@ -130,8 +130,8 @@
       },
       "bullets": [
         "**Carrello da US$ 199 o più:** il coupon a scaglioni dà già il 15% in qualsiasi giorno, la stessa percentuale dei giorni senza minimo. Quello che può cambiare vicino al venerdì è il prezzo promozionale di ogni prodotto, non il coupon.",
-        "**Carrello tra US$ 79 e US$ 199:** il coupon a scaglioni dà l'8% o il 10%. Nei giorni senza minimo, lo stesso carrello ottiene il 15%.",
-        "**Carrello sotto US$ 79:** il coupon a scaglioni non dà nulla. È il carrello che guadagna di più aspettando i giorni al 15% senza minimo."
+        "**Carrello tra US$ 79 e US$ 199:** il coupon a scaglioni dà l'8% o il 10%. Se i giorni senza minimo tornano, lo stesso carrello otterrebbe il 15%.",
+        "**Carrello sotto US$ 79:** il coupon a scaglioni non dà nulla. Se i giorni al 15% senza minimo tornano, è il carrello che guadagna di più aspettando."
       ]
     },
     {
@@ -192,7 +192,7 @@
     {
       "heading": "Consegna e tasse",
       "paragraphs": [
-        "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se il pacco viene tassato all'arrivo, YesStyle rimborsa le tasse e i dazi doganali sugli ordini inferiori a US$ 1.000, come credito nel negozio. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
+        "La spedizione e i tempi compaiono nel checkout, e il coupon non sconta la spedizione. Se la dogana tassa il pacco all'arrivo, YesStyle rimborsa questi oneri sugli ordini idonei inferiori a US$ 1.000, come credito nel negozio. Imposta sulle vendite, IVA e GST non sono coperte, e la ricevuta di pagamento deve arrivare all'assistenza clienti entro 30 giorni dalla sua data. Ciò che il negozio pubblica sulla consegna e come chiedere il rimborso è nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
       ]
     },
     {
@@ -233,15 +233,15 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Quando inizia il Black Friday di YesStyle e quanto dura? È già iniziato: la home del negozio ha la Black Friday Mega Sale e il coupon a scaglioni della settimana. YesStyle non ha ancora pubblicato la fine; nel 2024 e nel 2025 i coupon con il nome Black Friday sono durati fino al Cyber Monday.",
+        "Quando inizia il Black Friday di YesStyle e quanto dura? È già iniziato: la home del negozio ha la Black Friday Mega Sale e un coupon a scaglioni. YesStyle non ha ancora pubblicato la fine; nel 2024 e nel 2025 i coupon con il nome Black Friday sono durati fino al Cyber Monday.",
         "Qual è il coupon di YesStyle nel Black Friday? Cambia ogni pochi giorni. La pagina di YesStyle qui sul sito mostra il codice della settimana, con la data in cui è stato controllato.",
-        "Il coupon del Black Friday di YesStyle ha un importo minimo? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nei giorni vicini al venerdì e al Cyber Monday, YesStyle di solito apre il 15% senza minimo.",
+        "Il coupon del Black Friday di YesStyle ha un importo minimo? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nel 2024 e nel 2025 YesStyle ha aperto il 15% senza minimo nei giorni vicini al venerdì e al Cyber Monday; per il 2026 non c'è ancora nulla di annunciato.",
         "Su YesStyle è meglio comprare nel Black Friday o nel Cyber Monday? Nel 2024 e nel 2025 entrambi hanno avuto il 15% senza minimo, quindi il tetto del coupon è stato lo stesso. Ciò che cambia da un giorno all'altro è il prezzo promozionale di ogni prodotto.",
         "YesStyle ha promozioni fuori dal Black Friday? Sì. Il coupon a scaglioni, dell'8%, 10% e 15%, resta attivo quasi tutto l'anno e cambia nome ogni pochi giorni.",
         "CECILIA010 vale nel Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
         "Si possono usare due coupon di YesStyle nello stesso ordine? No: è un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
         "Serve un account su YesStyle per usare il coupon del Black Friday? Sì. I coupon sono solo per i membri, e chi acquista come ospite resta senza sconto.",
-        "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini inferiori a US$ 1.000, YesStyle rimborsa queste tasse come credito nel negozio, se invii la ricevuta entro 30 giorni."
+        "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini idonei inferiori a US$ 1.000, YesStyle rimborsa gli oneri doganali come credito nel negozio, se invii la ricevuta entro 30 giorni dalla sua data. Imposta sulle vendite, IVA e GST non sono coperte."
       ]
     }
   ],
