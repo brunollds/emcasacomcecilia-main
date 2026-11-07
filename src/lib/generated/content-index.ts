@@ -108077,7 +108077,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o gerenciado se quer o assistente funcionando sem cuidar de servidor, e o VPS se quer acesso root e rodar outros programas na mesma máquina. As duas opções aceitam os créditos de IA da Hostinger ou a sua chave de API. O que pesa é a manutenção que você aceita; veja os preços abaixo."
+          "Escolha o gerenciado se quer o assistente funcionando sem cuidar de servidor, e o VPS se quer acesso root e rodar outros programas na mesma máquina. As duas opções aceitam os créditos de IA ou a sua chave de API; o SONAR20 dá 20% em compra nova de qualquer uma, não na renovação. Pesa a manutenção que você aceita."
         ]
       },
       {
@@ -108368,7 +108368,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Choose managed if you want the assistant running without looking after a server, and the VPS if you want root access and to run other programs on the same machine. Both options accept Hostinger's AI credits or your own API key. What matters is how much maintenance you are willing to take on."
+          "Choose managed if you want the assistant running without looking after a server, and the VPS if you want root access and to run other programs on the same machine. Both accept Hostinger's AI credits or your own API key; SONAR20 gives 20% on a new purchase of either, not on renewal. Maintenance is what matters."
         ]
       },
       {
@@ -108600,7 +108600,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Elige el gestionado si quieres el asistente funcionando sin ocuparte de un servidor, y el VPS si quieres acceso root y ejecutar otros programas en la misma máquina. Las dos opciones aceptan los créditos de IA de Hostinger o tu propia clave de API. Lo que pesa es el mantenimiento que estás dispuesto a asumir."
+          "Elige el gestionado si quieres el asistente funcionando sin ocuparte de un servidor, y el VPS si quieres acceso root y ejecutar otros programas en la misma máquina. Ambos aceptan los créditos de IA de Hostinger o tu propia clave de API; SONAR20 da 20% en una compra nueva de cualquiera, no en la renovación. Pesa el mantenimiento que asumes."
         ]
       },
       {
@@ -108832,7 +108832,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Choisissez le géré si vous voulez l'assistant en marche sans vous occuper d'un serveur, et le VPS si vous voulez un accès root et faire tourner d'autres programmes sur la même machine. Les deux options acceptent les crédits d'IA de Hostinger ou votre propre clé d'API. Ce qui compte, c'est la maintenance que vous acceptez de prendre en charge."
+          "Choisissez le géré si vous voulez l'assistant en marche sans serveur à gérer, et le VPS si vous voulez un accès root et d'autres programmes sur la même machine. Les deux acceptent les crédits d'IA de Hostinger ou votre clé d'API ; SONAR20 donne 20 % sur un nouvel achat des deux, pas au renouvellement. Reste la maintenance à assumer."
         ]
       },
       {
@@ -109063,7 +109063,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Wählen Sie die verwaltete Option, wenn der Assistent laufen soll, ohne dass Sie sich um einen Server kümmern, und den VPS, wenn Sie Root-Zugriff wollen und weitere Programme auf demselben Rechner betreiben möchten. Beide Optionen akzeptieren das KI-Guthaben von Hostinger oder Ihren eigenen API-Schlüssel. Entscheidend ist, wie viel Wartung Sie übernehmen wollen."
+          "Wählen Sie die verwaltete Option, wenn der Assistent ohne Serverpflege laufen soll, und den VPS, wenn Sie Root-Zugriff und weitere Programme auf demselben Rechner wollen. Beide nehmen das KI-Guthaben von Hostinger oder Ihren API-Schlüssel an; SONAR20 gibt 20 % auf einen Neukauf beider, nicht auf die Verlängerung. Entscheidend ist die Wartung, die Sie übernehmen."
         ]
       },
       {
@@ -109295,7 +109295,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Scegli il gestito se vuoi l'assistente attivo senza occuparti di un server, e il VPS se vuoi accesso root e far girare altri programmi sulla stessa macchina. Entrambe le opzioni accettano i crediti IA di Hostinger o la tua chiave API. Quel che conta è la manutenzione che sei disposto ad accettare."
+          "Scegli il gestito se vuoi l'assistente attivo senza occuparti di un server, e il VPS se vuoi accesso root e altri programmi sulla stessa macchina. Entrambi accettano i crediti IA di Hostinger o la tua chiave API; SONAR20 dà il 20% su un nuovo acquisto di entrambi, non sul rinnovo. Conta la manutenzione che accetti."
         ]
       },
       {
@@ -109527,7 +109527,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "서버 관리에 시간을 쓰지 않고 어시스턴트를 바로 쓰고 싶다면 관리형을, root 접근이 필요하거나 같은 서버에서 다른 프로그램도 돌리고 싶다면 VPS를 고르세요. 두 방식 모두 호스팅어의 AI 크레딧이나 직접 가진 API 키를 쓸 수 있습니다. 결정은 서버 관리를 어디까지 맡을 수 있느냐에 달려 있습니다."
+          "서버 관리에 시간을 쓰지 않고 바로 쓰고 싶다면 관리형을, root 접근이 필요하거나 같은 서버에서 다른 프로그램도 돌리고 싶다면 VPS를 고르세요. 두 방식 모두 호스팅어의 AI 크레딧이나 직접 가진 API 키를 쓸 수 있습니다. SONAR20은 둘 다 신규 구매에 20% 할인이고 갱신에는 적용되지 않으며, 결정은 맡을 수 있는 관리 범위에 달려 있습니다."
         ]
       },
       {
@@ -109760,7 +109760,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "サーバーの管理に時間をかけず、アシスタントをすぐ動かしたいならマネージド、root 権限が欲しい、または同じマシンで他のプログラムも動かしたいなら VPS を選んでください。どちらも Hostinger の AI クレジットか自分の API キーを使えます。決め手は、どこまでサーバーの管理を引き受けられるかです。"
+          "サーバー管理に時間をかけず、すぐ動かしたいならマネージド、root 権限が欲しい、または同じマシンで他のプログラムも動かしたいなら VPS を選んでください。どちらも Hostinger の AI クレジットか自分の API キーを使えます。SONAR20 はどちらも新規購入で 20% 割引、更新時は対象外で、決め手は、引き受けられる管理の範囲です。"
         ]
       },
       {
@@ -109992,7 +109992,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "不想花時間管伺服器、想讓助理直接上線，就選託管；想要 root 權限，或想在同一台機器上運行其他程式，就選 VPS。兩種方式都可以使用 Hostinger 的 AI 額度，或你自己的 API 金鑰。關鍵在於你願意承擔多少伺服器維護工作。"
+          "不想花時間管伺服器、想讓助理直接上線，就選託管；想要 root 權限，或想在同一台機器上運行其他程式，就選 VPS。兩種方式都可以使用 Hostinger 的 AI 額度或你自己的 API 金鑰。SONAR20 對兩者的新購都減 20%，續訂不適用，關鍵在於你願意承擔的維護。"
         ]
       },
       {
@@ -110224,7 +110224,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "不想花时间管服务器、想让助理直接运行，就选托管；想要 root 权限，或想在同一台机器上运行其他程序，就选 VPS。两种方式都可以使用 Hostinger 的 AI 额度，或你自己的 API 密钥。关键在于你愿意承担多少服务器维护工作。"
+          "不想花时间管服务器、想让助理直接运行，就选托管；想要 root 权限，或想在同一台机器上运行其他程序，就选 VPS。两种方式都可以使用 Hostinger 的 AI 额度或你自己的 API 密钥。SONAR20 对两者的新购都减 20%，续费不适用，关键在于你愿意承担的维护。"
         ]
       },
       {
