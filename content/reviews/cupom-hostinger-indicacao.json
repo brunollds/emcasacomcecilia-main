@@ -31,7 +31,7 @@
     }
   ],
   "description": "O cupom Hostinger SONAR20 dá 20% no primeiro período, em plano mensal ou anual, para cliente novo ou antigo. Veja onde colar o código, os preços e o que muda na renovação.",
-  "metaDescription": "O SONAR20 dá 20% OFF na Hostinger em toda compra nova, em plano mensal ou anual, também para quem já é cliente. Veja onde colar o código no carrinho.",
+  "metaDescription": "SONAR20: 20% no primeiro período de compra nova elegível na Hostinger, mensal ou anual, inclusive para clientes atuais. Veja como aplicar e a renovação.",
   "publishedAt": "19 de outubro de 2026",
   "publishedAtISO": "2026-10-19",
   "updatedAt": "2026-11-07",
@@ -45,14 +45,14 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Tem cupom: o código **SONAR20** dá 20% de desconto no primeiro período de qualquer plano da [Hostinger](/cupons/hostinger), mensal ou anual, para cliente novo ou antigo. Cole o código no campo \"Tem um cupom de desconto?\" do carrinho, ou entre pelo link deste artigo. A renovação não tem desconto: sai pelo preço de tabela."
+        "Use **SONAR20** para ter 20% de desconto no primeiro período de uma compra nova elegível na [Hostinger](/cupons/hostinger), em plano mensal ou anual, inclusive para quem já é cliente. Cole o código no campo \"Tem um cupom de desconto?\" do carrinho e confira o abatimento antes de pagar. A renovação sai pelo preço de tabela, sem esse desconto."
       ]
     },
     {
       "heading": "O que o SONAR20 cobre",
       "paragraphs": [
         "Pela regra da parceria, o SONAR20 vale em todos os planos, mensais e anuais, e também para quem já é cliente da Hostinger. Em 29/10/2026, testamos no carrinho: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
-        "O link deste artigo continua valendo, com as regras dele: planos de 12 meses ou mais, para cliente novo. Nos outros casos, use o código. Não citamos códigos de outros sites."
+        "Você também pode acessar a Hostinger pelo link deste artigo. No carrinho, confira o desconto, o período contratado e o total antes de pagar. Se SONAR20 não estiver aplicado, use o campo de cupom."
       ]
     },
     {
@@ -70,15 +70,15 @@
     {
       "heading": "Quanto custa com e sem o cupom",
       "paragraphs": [
-        "O SONAR20 tira 20% do preço da campanha; a tabela mostra o total de cada plano. Os preços são os que a Hostinger mostrava em 19/10/2026, em reais e por mês, e podem mudar a qualquer momento."
+        "A tabela reúne os preços mostrados em 19/10/2026 no site brasileiro. Os valores por mês são equivalentes mensais do período contratado; os totais com SONAR20 aparecem entre parênteses. Não são uma cotação atual: confira o total e a renovação no carrinho antes de pagar."
       ],
       "comparisonTable": {
         "headers": [
           "Plano",
-          "48 meses sem o cupom",
-          "48 meses com o SONAR20",
-          "12 meses com o SONAR20",
-          "Renovação (preço padrão)"
+          "48 meses sem SONAR20 — equivalente mensal",
+          "48 meses com SONAR20 — equivalente mensal e total",
+          "12 meses com SONAR20 — equivalente mensal e total",
+          "Renovação sem SONAR20 — equivalente mensal"
         ],
         "rows": [
           [
@@ -128,7 +128,9 @@
     {
       "heading": "Plano mensal, anual e quem já é cliente",
       "paragraphs": [
-        "O SONAR20 dá 20% no primeiro período em plano mensal ou anual, para cliente novo ou antigo. O código vale no VPS; no domínio avulso e na renovação, não vale. No e-mail e nos agentes de IA, confira no carrinho se o desconto aparece. Quem já é cliente usa o código em qualquer plano ou produto novo: testamos numa conta antiga, e o SONAR20 tirou 20% de um produto novo, por cima do desconto da campanha. A renovação de um plano que você já tem sai pelo preço de tabela."
+        "O SONAR20 dá 20% no primeiro período de uma compra nova elegível, em plano mensal ou anual, inclusive para quem já tem conta e contrata um produto novo. Vale em todos os planos; não vale para domínio avulso nem renovação.",
+        "No e-mail e nos agentes de IA, confira no carrinho se o desconto aparece. No teste em uma conta antiga, o SONAR20 tirou 20% de um produto novo, sobre o desconto da campanha.",
+        "Contratar um produto novo é diferente de renovar o que você já tem: a renovação sai pelo preço de tabela, sem os 20%."
       ]
     },
     {
@@ -149,9 +151,9 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Hostinger tem cupom? Tem: o código SONAR20 dá 20% no primeiro período de qualquer plano, mensal ou anual.",
+        "Hostinger tem cupom? Sim: SONAR20 dá 20% no primeiro período de uma compra nova elegível, em plano mensal ou anual. Não vale para domínio avulso nem renovação.",
         "Onde coloco o cupom da Hostinger? No carrinho, no campo \"Tem um cupom de desconto?\" (\"Have a coupon code?\" no site global). Cole SONAR20 e aplique antes de pagar.",
-        "O SONAR20 vale para quem já é cliente? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%.",
+        "O SONAR20 vale para quem já é cliente? Sim, na contratação de um plano ou produto novo elegível, não na renovação do que você já tem. Aplique o código e confira o desconto no resumo antes de pagar.",
         "O cupom dá desconto na renovação? Não: a renovação sai pelo preço de tabela, que o carrinho mostra logo abaixo do plano. Os 20% valem só em compra nova.",
         "O SONAR20 vale na Black Friday? Sim: no teste no carrinho, os 20% saíram do preço da campanha."
       ]
@@ -160,7 +162,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+    "text": "Use SONAR20 no campo de cupom e confira os 20% no primeiro período da compra nova elegível antes de pagar. Você também pode acessar a Hostinger pelo nosso link. A renovação sai pelo preço de tabela, sem o desconto do código.",
     "label": "Ver os planos com desconto",
     "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true

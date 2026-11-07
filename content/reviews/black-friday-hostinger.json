@@ -70,10 +70,10 @@
       "comparisonTable": {
         "headers": [
           "Plano (48 meses)",
-          "Campanha, sem o cupom",
-          "Com o SONAR20",
-          "Total com o SONAR20",
-          "Renovação"
+          "Equivalente mensal da campanha",
+          "Equivalente mensal com SONAR20",
+          "Total inicial com SONAR20 (48 meses)",
+          "Renovação, sem SONAR20"
         ],
         "rows": [
           [
@@ -107,17 +107,18 @@
         ]
       },
       "postParagraphs": [
-        "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para o valor da tabela com o SONAR20. Num teste de 29/10/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
+        "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para R$ 229,92 com o SONAR20. Num teste de 29/10/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
         "Onde colar o código e por que a renovação não tem desconto está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
       ]
     },
     {
       "heading": "Quem deve esperar e quem não deve",
       "paragraphs": [
-        "Se você precisa do site no ar esta semana, não espere. Nos planos de 48 meses que conferimos, a campanha com o SONAR20 já é o menor preço.",
+        "Se precisa colocar o site no ar esta semana, compare o total disponível agora, com e sem SONAR20, e o preço de renovação. O código reduziu o preço da campanha no nosso teste; isso não garante que o valor será o menor até o fim da Black Friday.",
         "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
-        "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner mostra 66% em 03/11, e a conta deste texto não cobre esse plano.",
-        "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo. O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
+        "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner mostra 66% em 03/11.",
+        "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo.",
+        "O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
       ]
     },
     {
