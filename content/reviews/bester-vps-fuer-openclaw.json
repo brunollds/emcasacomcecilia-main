@@ -95,18 +95,18 @@
       },
       "postParagraphs": [
         "Zwei Details zum lokalen Modell. Der Kontext ist die Textmenge (Tokens, Wortteile), die das Modell auf einmal liest. Bleiben weniger als 20 % des Kontextfensters übrig, warnt OpenClaw, mit einer Untergrenze von 8 Tausend Tokens; unter 10 % blockiert es die Antwort, mit einer Untergrenze von 4 Tausend Tokens.",
-        "Auf den gelesenen Seiten der KVM-Tarife nennt keine eine Grafikkarte (GPU). Die Dokumentation sagt auch nicht, wie schnell ein lokales Modell ohne sie liefe."
+        "Auf den Seiten der KVM-Tarife in diesem Vergleich nennt keine eine Grafikkarte (GPU). Die Dokumentation sagt auch nicht, wie schnell ein lokales Modell ohne sie liefe."
       ]
     },
     {
       "heading": "Welchen KVM-Tarif wählen",
       "paragraphs": [
-        "Der passende Tarif folgt dem Ort, an dem das Modell läuft. KVM ist der Name der virtuellen Server von Hostinger, und die Tabelle zeigt alle vier. Lesen Sie jeden Tarif im Licht der Dokumentation; es ist unsere Lesart, keine Messung:"
+        "Der passende Tarif folgt dem Ort, an dem das Modell läuft. KVM ist der Name der virtuellen Server von Hostinger, und die Tabelle zeigt alle vier. Lesen Sie jeden Tarif im Licht der Dokumentation; es ist eine Deutung, keine Messung:"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
         "alt": "Übersicht mit drei Zeilen: Modell außerhalb des Servers (API-Schlüssel oder Guthaben) führt zum KVM 1; kleines lokales Modell führt zum KVM 2, an der Grenze, oder zum KVM 4; lokales Modell mit mehr Kontext oder weiteren Programmen führt zum KVM 4 oder KVM 8",
-        "caption": "Nach der OpenClaw-Dokumentation; wir haben die Leistung nicht gemessen."
+        "caption": "Nach der OpenClaw-Dokumentation; ohne Leistungsmessung."
       },
       "comparisonTable": {
         "headers": [

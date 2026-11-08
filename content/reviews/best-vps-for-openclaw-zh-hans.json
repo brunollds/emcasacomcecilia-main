@@ -96,18 +96,18 @@
       },
       "postParagraphs": [
         "关于本地模型还有两点。上下文是模型一次能读取的文本量（token，也就是词的片段）。当上下文窗口剩余不到 20% 时，OpenClaw 会发出警告，下限为 8 千 token；不到 10% 时，它会拦截回答，下限为 4 千 token。",
-        "在查看过的 KVM 套餐页面中，没有一个列出显卡（GPU）。文档也没有说明没有显卡时本地模型能有多快。"
+        "在对比的 KVM 套餐页面中，没有一个列出显卡（GPU）。文档也没有说明没有显卡时本地模型能有多快。"
       ]
     },
     {
       "heading": "该选哪个 KVM 套餐",
       "paragraphs": [
-        "套餐取决于模型在哪里运行。KVM 是 Hostinger 虚拟服务器的名称，表格列出了全部四个。请对照文档来读每个套餐；这是我们对文档的解读，不是实测："
+        "套餐取决于模型在哪里运行。KVM 是 Hostinger 虚拟服务器的名称，表格列出了全部四个。请对照文档来读每个套餐；这是对文档的解读，不是实测："
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
         "alt": "三行的图表：模型在服务器之外（API 密钥或额度）选 KVM 1；小型本地模型选 KVM 2（在边缘）或 KVM 4；上下文更大的本地模型或还要运行其他程序，选 KVM 4 或 KVM 8",
-        "caption": "依据 OpenClaw 的文档；我们没有测过性能。"
+        "caption": "依据 OpenClaw 的文档；没有性能实测。"
       },
       "comparisonTable": {
         "headers": [

@@ -29275,7 +29275,7 @@ export const reviewsData: unknown[] = [
           "Tipo: Código de Influenciador / Código de Recompensa (Reward Code)",
           "Onde usar: Campo \"Código de Recompensa\" (Reward Code) no checkout da YesStyle",
           "Combina com: cupons promocionais elegíveis, cada um no seu campo",
-          "Validade: Código ativo no programa oficial de influenciadores (verificado regularmente)"
+          "Validade: Código ativo no programa oficial de influenciadores"
         ],
         "links": [
           {
@@ -29427,12 +29427,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O CECILIA010 é cupom ou código de recompensa? Ele funciona como código de recompensa/influenciador da YesStyle e oferece até 5% extra (5% 1ª compra / 2% recorrente) quando aplicado no campo correto. A vantagem é que pode ser usado junto com cupons elegíveis.",
           "Posso somar o CECILIA010 ao cupom da promoção do mês? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma até 5% extra (5% na primeira compra e 2% em compras recorrentes) aos cupons promocionais elegíveis confirmados no checkout.",
-          "O CECILIA010 tem validade? Funciona enquanto o programa de influenciadores da YesStyle estiver ativo e o código for verificado regularmente.",
+          "O CECILIA010 tem validade? Funciona enquanto o programa de influenciadores da YesStyle estiver ativo.",
           "Comprar na YesStyle é seguro? A empresa é legítima: é de Hong Kong e existe desde 2006. Isso não garante que os produtos sejam originais; veja o que conferir antes da compra em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel).",
           "Quanto tempo demora para chegar no Brasil? A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada está em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal). Quando a entrega está disponível, o prazo aparece no checkout, e a alfândega pode somar alguns dias.",
           "Vou pagar taxa de importação? Pode acontecer. Pela [política da YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), pedidos abaixo de US$ 1.000 (antes do cupom e sem o frete) podem ter os impostos e taxas alfandegárias devolvidos em Crédito da Loja: você paga, guarda o comprovante e pede em até 30 dias, contados da data do comprovante de pagamento.",
           "Qual a melhor forma de pagar? Cartão de crédito internacional (Visa, Mastercard, Amex) ou PayPal. A YesStyle deixa escolher a moeda do pedido e converte pelo [câmbio interno dela](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fixado no momento do pedido; o banco ou a operadora do cartão podem cobrar tarifa de compra internacional.",
-          "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não encontramos auditoria independente que confirme isso; na entrega, confira lote, validade e lacre.",
+          "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não há auditoria independente que confirme isso nas fontes do guia; na entrega, confira lote, validade e lacre.",
           "Posso devolver produtos? A política é limitada para compras internacionais. Produtos com defeito ou envio errado podem ser devolvidos. Produtos de K-beauty (skincare, maquiagem) geralmente não podem ser devolvidos por questões de higiene, a menos que estejam selados.",
           "O que é o Elite Club? É o programa de fidelidade da YesStyle. O nível Bronze vem com o primeiro pedido, o Silver com US$ 100 em compras acumuladas e o Gold com US$ 500; cada nível rende mais YS Points por dólar e dá cupons de 12% OFF. O CECILIA010 continua no campo Reward Code, em qualquer nível.",
           "O site tem versão em português? Sim! No topo do site você pode selecionar o idioma para português.",
@@ -29497,7 +29497,7 @@ export const reviewsData: unknown[] = [
       "Explica o empilhamento (stacking) para somar cupom do mês com o CECILIA010",
       "Mostra como economizar até 5% extra com o código de influenciadora oficial",
       "Mostra onde achar os cupons da YesStyle em vigor para evitar códigos falsos ou expirados",
-      "Direciona para a página atualizada do Em Casa com Cecília com a lista de cupons conferida"
+      "Direciona para a página atualizada do Em Casa com Cecília com a lista de cupons em vigor"
     ],
     "cons": [
       "Cupons promocionais mensais possuem prazos curtos (geralmente de 72h a 30 dias)",
@@ -29525,7 +29525,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 6 de novembro de 2026.",
+      "text": "Na nossa página, a lista de cupons da YesStyle está atualizada em 6 de novembro de 2026.",
       "label": "Ver cupons ativos da YesStyle",
       "url": "/cupons/yesstyle",
       "sponsored": false
@@ -29729,7 +29729,7 @@ export const reviewsData: unknown[] = [
           "Type: Influencer Code / Reward Code",
           "Where to use it: \"Reward Code\" field at YesStyle checkout",
           "Works with: eligible promo coupons, each in its own field",
-          "Validity: Code active in the official influencer program (checked regularly)"
+          "Validity: Code active in the official influencer program"
         ],
         "links": [
           {
@@ -29873,11 +29873,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Is CECILIA010 a coupon or a Reward Code? It works as a YesStyle Reward Code/influencer code and gives up to 5% extra (5% 1st order / 2% repeat) when applied in the right field. The advantage is that it can be used together with eligible coupons.",
           "Can I stack CECILIA010 with the month's promo coupon? Yes! It goes in the \"Reward Code\" field, while coupons go in the \"Coupon Code\" field. That way you add up to 5% extra (5% on the first order and 2% on repeat orders) to the eligible promo coupons confirmed at checkout.",
-          "Does CECILIA010 expire? It works as long as YesStyle's influencer program is active and the code is checked regularly.",
+          "Does CECILIA010 expire? It works as long as YesStyle's influencer program is active.",
           "Is it safe to buy on YesStyle? The company is legitimate: it is based in Hong Kong and has operated since 2006. That does not guarantee the products are original; see what to check before ordering in [Is YesStyle legit and safe?](/en/reviews/is-yesstyle-legit-and-safe-review).",
           "Will I pay import tax? It can happen. Under [YesStyle's policy](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), orders under US$ 1,000 (before the coupon and without shipping) may get customs taxes and fees back as YesStyle Credit: you pay, keep the receipt and ask within 30 days of the date on the proof of payment.",
           "What is the best way to pay? International credit card (Visa, Mastercard, Amex) or PayPal. YesStyle lets you choose the order currency and converts at [its own internal exchange rate](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), set when the order is placed; your bank or card issuer may add a foreign transaction fee.",
-          "Are YesStyle products authentic or counterfeit? YesStyle says it is an authorized reseller of more than 400 Korean beauty brands, buying from the manufacturers or from authorized distributors. We found no independent audit confirming this; on delivery, check the batch number, expiry date and seal.",
+          "Are YesStyle products authentic or counterfeit? YesStyle says it is an authorized reseller of more than 400 Korean beauty brands, buying from the manufacturers or from authorized distributors. There is no independent audit confirming this in the guide’s sources; on delivery, check the batch number, expiry date and seal.",
           "Can I return products? The policy is limited for international purchases. Defective or wrongly shipped products can be returned. K-beauty products (skincare, makeup) generally cannot be returned for hygiene reasons, unless they are sealed.",
           "What is the Elite Club? It is YesStyle's loyalty program. Bronze comes with any order of at least US$ 1 after coupons and points, Silver with US$ 100 in accumulated purchases and Gold with US$ 500; each tier earns more YS Points per US$ 1 and gives 12% OFF coupons. CECILIA010 stays in the Reward Code field at any tier.",
           "Does the site have other languages? Yes! At the top of the site you can switch the language.",
@@ -29958,7 +29958,7 @@ export const reviewsData: unknown[] = [
           "Tipo: código de influencer / código de recompensa (Reward Code)",
           "Dónde usarlo: campo \"Código de recompensa\" (Reward Code) en el checkout de YesStyle",
           "Se combina con: cupones promocionales elegibles, cada uno en su campo",
-          "Vigencia: código activo en el programa oficial de influencers (verificado con regularidad)"
+          "Vigencia: código activo en el programa oficial de influencers"
         ],
         "links": [
           {
@@ -30102,11 +30102,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿CECILIA010 es un cupón o un código de recompensa? Funciona como código de recompensa/influencer de YesStyle y ofrece hasta un 5% extra (5% 1.ª compra / 2% recurrente) cuando se aplica en el campo correcto. La ventaja es que se puede usar junto con cupones elegibles.",
           "¿Puedo sumar CECILIA010 al cupón de la promoción del mes? ¡Sí! Va en el campo \"Reward Code\", mientras que los cupones van en el campo \"Coupon Code\". Así sumas hasta un 5% extra (5% en la primera compra y 2% en las compras recurrentes) a los cupones promocionales elegibles confirmados en el checkout.",
-          "¿CECILIA010 tiene vigencia? Funciona mientras el programa de influencers de YesStyle esté activo y el código se verifique con regularidad.",
+          "¿CECILIA010 tiene vigencia? Funciona mientras el programa de influencers de YesStyle esté activo.",
           "¿Es seguro comprar en YesStyle? La empresa es legítima: tiene sede en Hong Kong y fue fundada en 2006. Eso no garantiza que los productos sean originales; mira qué revisar antes de comprar en [¿YesStyle es confiable y seguro?](/es/reviews/es-yesstyle-de-fiar-y-seguro).",
           "¿Pagaré tasa de importación? Puede ocurrir. Según la [política de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), los pedidos de menos de US$ 1.000 (antes del cupón y sin el envío) pueden recuperar los impuestos y tasas aduaneras como crédito de YesStyle: pagas, guardas el comprobante y lo pides en un plazo de 30 días, contados desde la fecha del comprobante de pago.",
           "¿Cuál es la mejor forma de pagar? Tarjeta de crédito internacional (Visa, Mastercard, Amex) o PayPal. YesStyle permite elegir la moneda del pedido y convierte con [su propio tipo de cambio interno](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fijado al hacer el pedido; tu banco o el emisor de la tarjeta pueden cobrar una comisión por compra internacional.",
-          "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No encontramos una auditoría independiente que lo confirme; al recibir el pedido, comprueba el lote, la caducidad y el precinto.",
+          "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No hay una auditoría independiente que lo confirme en las fuentes de la guía; al recibir el pedido, comprueba el lote, la caducidad y el precinto.",
           "¿Puedo devolver productos? La política es limitada para las compras internacionales. Los productos defectuosos o enviados por error se pueden devolver. Los productos de K-beauty (cuidado de la piel, maquillaje) generalmente no se pueden devolver por motivos de higiene, salvo que estén sellados.",
           "¿Qué es el Elite Club? Es el programa de fidelidad de YesStyle. El nivel Bronze llega con cualquier pedido de al menos US$ 1 después de cupones y puntos, el Silver con US$ 100 en compras acumuladas y el Gold con US$ 500; cada nivel da más YS Points por cada US$ 1 y cupones de 12% OFF. CECILIA010 sigue en el campo Reward Code, en cualquier nivel.",
           "¿El sitio tiene otros idiomas? ¡Sí! En la parte superior del sitio puedes cambiar el idioma.",
@@ -30187,7 +30187,7 @@ export const reviewsData: unknown[] = [
           "Type : code d'influenceuse / code de récompense (Reward Code)",
           "Où l'utiliser : champ « Code de récompense » (Reward Code) au paiement YesStyle",
           "Se combine avec : les coupons promotionnels éligibles, chacun dans son champ",
-          "Validité : code actif dans le programme officiel d'influenceurs (vérifié régulièrement)"
+          "Validité : code actif dans le programme officiel d'influenceurs"
         ],
         "links": [
           {
@@ -30331,11 +30331,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "CECILIA010 est-il un coupon ou un code de récompense ? Il fonctionne comme un code de récompense/d'influenceuse YesStyle et offre jusqu'à 5 % en plus (5 % 1re commande / 2 % suivantes) lorsqu'il est appliqué dans le bon champ. L'avantage, c'est qu'il peut être utilisé avec les coupons éligibles.",
           "Puis-je cumuler CECILIA010 avec le coupon de la promotion du mois ? Oui ! Il se saisit dans le champ « Reward Code », tandis que les coupons vont dans le champ « Coupon Code ». Vous ajoutez ainsi jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes) aux coupons promotionnels éligibles confirmés au paiement.",
-          "CECILIA010 a-t-il une date de validité ? Il fonctionne tant que le programme d'influenceurs de YesStyle est actif et que le code est vérifié régulièrement.",
+          "CECILIA010 a-t-il une date de validité ? Il fonctionne tant que le programme d'influenceurs de YesStyle est actif.",
           "Est-il sûr d'acheter sur YesStyle ? L'entreprise est légitime : elle est basée à Hong Kong et a été fondée en 2006. Cela ne garantit pas que les produits soient originaux ; voyez ce qu'il faut vérifier avant de commander dans [YesStyle est-il fiable et sûr ?](/fr/reviews/yesstyle-est-il-fiable-et-sur).",
           "Vais-je payer des taxes d'importation ? Cela peut arriver. Selon la [politique de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), les commandes de moins de 1 000 US$ (avant le coupon et hors livraison) peuvent se faire rembourser les taxes et frais de douane sous forme de crédit YesStyle : vous payez, conservez le justificatif et en faites la demande dans les 30 jours suivant la date du justificatif de paiement.",
           "Quel est le meilleur moyen de paiement ? Carte de crédit internationale (Visa, Mastercard, Amex) ou PayPal. YesStyle permet de choisir la devise de la commande et convertit selon [son propre taux de change interne](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fixé au moment de la commande ; votre banque ou l'émetteur de la carte peuvent facturer des frais sur les achats à l'étranger.",
-          "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en achetant auprès des fabricants ou de distributeurs autorisés. Nous n'avons trouvé aucun audit indépendant qui le confirme ; à la livraison, vérifiez le lot, la date de péremption et le scellé.",
+          "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en achetant auprès des fabricants ou de distributeurs autorisés. Il n'existe aucun audit indépendant qui le confirme dans les sources du guide ; à la livraison, vérifiez le lot, la date de péremption et le scellé.",
           "Puis-je retourner des produits ? La politique est limitée pour les achats internationaux. Les produits défectueux ou envoyés par erreur peuvent être retournés. Les produits de K-beauty (soins, maquillage) ne peuvent généralement pas être retournés pour des raisons d'hygiène, sauf s'ils sont scellés.",
           "Qu'est-ce que l'Elite Club ? C'est le programme de fidélité de YesStyle. Le niveau Bronze arrive avec toute commande d'au moins 1 US$ après coupons et points, le Silver avec 100 US$ d'achats cumulés et le Gold avec 500 US$ ; chaque niveau rapporte plus de YS Points par dollar et donne des coupons de 12 % OFF. CECILIA010 reste dans le champ Reward Code, quel que soit le niveau.",
           "Le site existe-t-il dans d'autres langues ? Oui ! En haut du site, vous pouvez changer la langue.",
@@ -30416,7 +30416,7 @@ export const reviewsData: unknown[] = [
           "Typ: Influencer-Code / Belohnungscode (Reward Code)",
           "Wo eingeben: Feld „Belohnungscode“ (Reward Code) im Checkout von YesStyle",
           "Kombinierbar mit: berechtigten Aktionsgutscheinen, jeweils im eigenen Feld",
-          "Gültigkeit: im offiziellen Influencer-Programm aktiver Code (wird regelmäßig geprüft)"
+          "Gültigkeit: im offiziellen Influencer-Programm aktiver Code"
         ],
         "links": [
           {
@@ -30560,11 +30560,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Ist CECILIA010 ein Gutschein oder ein Belohnungscode? Er funktioniert als Belohnungs-/Influencer-Code von YesStyle und bringt bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen), wenn er im richtigen Feld eingegeben wird. Der Vorteil: Er lässt sich zusammen mit berechtigten Gutscheinen nutzen.",
           "Kann ich CECILIA010 mit dem Gutschein der Monatsaktion kombinieren? Ja! Er kommt ins Feld „Reward Code“, die Gutscheine ins Feld „Coupon Code“. So kommen bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) zu den berechtigten Aktionsgutscheinen hinzu, die im Checkout bestätigt werden.",
-          "Hat CECILIA010 ein Ablaufdatum? Er funktioniert, solange das Influencer-Programm von YesStyle aktiv ist und der Code regelmäßig geprüft wird.",
+          "Hat CECILIA010 ein Ablaufdatum? Er funktioniert, solange das Influencer-Programm von YesStyle aktiv ist.",
           "Ist der Einkauf bei YesStyle sicher? Das Unternehmen ist seriös: Es stammt aus Hongkong und wurde 2006 gegründet. Das garantiert aber nicht, dass die Produkte original sind; was Sie vor der Bestellung prüfen können, steht in [Ist YesStyle seriös und sicher?](/de/reviews/ist-yesstyle-serioes-und-sicher).",
           "Muss ich Einfuhrabgaben zahlen? Das kann vorkommen. Nach der [Richtlinie von YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212) können bei Bestellungen unter US$ 1.000 (vor Abzug des Gutscheins und ohne Versand) Steuern und Zollgebühren als Store Credit erstattet werden: Sie zahlen, bewahren den Beleg auf und stellen den Antrag innerhalb von 30 Tagen, gerechnet ab dem Datum des Zahlungsbelegs.",
           "Wie bezahle ich am besten? Internationale Kreditkarte (Visa, Mastercard, Amex) oder PayPal. YesStyle lässt Sie die Währung der Bestellung wählen und rechnet zum [eigenen internen Wechselkurs](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708) um, der bei der Bestellung festgelegt wird; Ihre Bank oder Ihr Kartenanbieter kann eine Auslandseinsatzgebühr berechnen.",
-          "Sind die Produkte von YesStyle original oder gefälscht? YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei autorisierten Händlern einzukaufen. Eine unabhängige Prüfung, die das bestätigt, haben wir nicht gefunden; kontrollieren Sie bei der Lieferung Charge, Haltbarkeitsdatum und Siegel.",
+          "Sind die Produkte von YesStyle original oder gefälscht? YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei autorisierten Händlern einzukaufen. Eine unabhängige Prüfung, die das bestätigt, gibt es in den Quellen des Leitfadens nicht; kontrollieren Sie bei der Lieferung Charge, Haltbarkeitsdatum und Siegel.",
           "Kann ich Produkte zurückgeben? Bei internationalen Käufen ist die Richtlinie eingeschränkt. Defekte oder falsch gelieferte Produkte können zurückgegeben werden. K-Beauty-Produkte (Skincare, Make-up) können aus hygienischen Gründen in der Regel nicht zurückgegeben werden, es sei denn, sie sind versiegelt.",
           "Was ist der Elite Club? Das Treueprogramm von YesStyle. Die Stufe Bronze erreichen Sie mit der ersten Bestellung, Silver mit US$ 100 und Gold mit US$ 500 an kumulierten Einkäufen; jede Stufe bringt mehr YS Points pro Dollar und Gutscheine über 12 % Rabatt. CECILIA010 bleibt auf jeder Stufe im Feld Reward Code.",
           "Gibt es die Website in anderen Sprachen? Ja! Oben auf der Seite können Sie die Sprache wechseln.",
@@ -30656,7 +30656,7 @@ export const reviewsData: unknown[] = [
           "유형: 인플루언서 코드 / 리워드 코드(Reward Code)",
           "사용 위치: YesStyle 결제 화면의 '리워드 코드'(Reward Code) 칸",
           "병용: 적격 프로모션 쿠폰과 각자의 칸에서 함께 사용 가능",
-          "유효 기간: 공식 인플루언서 프로그램에서 유효(정기적으로 확인)"
+          "유효 기간: 공식 인플루언서 프로그램에서 유효"
         ],
         "links": [
           {
@@ -30800,11 +30800,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "CECILIA010은 쿠폰인가요, 리워드 코드인가요? YesStyle의 리워드/인플루언서 코드로 작동하며, 올바른 칸에 입력하면 최대 5%(첫 구매 5% / 재구매 2%)가 추가됩니다. 적격 쿠폰과 함께 쓸 수 있다는 것이 장점입니다.",
           "CECILIA010을 이달의 프로모션 쿠폰과 함께 쓸 수 있나요? 네! CECILIA010은 'Reward Code' 칸에, 쿠폰은 'Coupon Code' 칸에 입력합니다. 이렇게 결제 화면에서 확인되는 적격 프로모션 쿠폰에 최대 5%(첫 구매 5%, 재구매 2%)를 더할 수 있습니다.",
-          "CECILIA010에는 유효 기간이 있나요? YesStyle 인플루언서 프로그램이 활성 상태이고 코드가 정기적으로 확인되는 동안 사용할 수 있습니다.",
+          "CECILIA010에는 유효 기간이 있나요? YesStyle 인플루언서 프로그램이 활성 상태인 동안 사용할 수 있습니다.",
           "YesStyle에서 구매해도 안전한가요? 회사는 2006년에 설립된 실제 홍콩 기업입니다. 다만 그것이 제품이 정품이라는 보장은 아닙니다. 구매 전에 확인할 점은 [YesStyle 신뢰할 수 있을까?](/ko/reviews/yesstyle-trust-guide-ko)에서 살펴보세요.",
           "수입세를 내야 하나요? 그럴 수 있습니다. YesStyle [정책](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)에 따르면 US$ 1,000 미만 주문(쿠폰 할인 전, 배송비 제외)은 수입세 등을 스토어 크레딧으로 환급받을 수 있습니다. 먼저 결제하고 영수증을 보관한 뒤, 결제 영수증 날짜부터 30일 이내에 신청하세요.",
           "가장 좋은 결제 방법은 무엇인가요? 국제 신용카드(Visa, Mastercard, Amex) 또는 PayPal입니다. YesStyle에서는 주문 통화를 고를 수 있고, 환산은 주문 시점의 [YesStyle 자체 환율](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)로 정해집니다. 은행이나 카드사가 해외 결제 수수료를 따로 청구할 수 있습니다.",
-          "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체이며 제조사 또는 제조사가 인정한 유통업체에서 매입한다고 밝힙니다. 이 주장을 뒷받침하는 독립적인 감사는 찾지 못했으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요.",
+          "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체이며 제조사 또는 제조사가 인정한 유통업체에서 매입한다고 밝힙니다. 이 주장을 뒷받침하는 독립적인 감사는 이 가이드의 출처에 없으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요.",
           "제품을 반품할 수 있나요? 해외 구매는 반품 조건이 제한적입니다. 불량품이나 오배송 제품은 반품할 수 있습니다. K-beauty 제품(스킨케어, 메이크업)은 위생상의 이유로 밀봉된 경우가 아니면 보통 반품할 수 없습니다.",
           "Elite Club이 무엇인가요? YesStyle의 멤버십 프로그램입니다. Bronze는 US$ 1 이상 주문, Silver는 누적 US$ 100, Gold는 누적 US$ 500으로 달성하며, 등급이 오를수록 YS Point가 늘고 12% OFF 쿠폰도 받습니다. CECILIA010은 어느 등급에서든 Reward Code 칸에 입력합니다.",
           "사이트에서 다른 언어도 지원하나요? 네! 사이트 상단에서 언어를 바꿀 수 있습니다.",
@@ -30885,7 +30885,7 @@ export const reviewsData: unknown[] = [
           "種類：インフルエンサーコード / リワードコード(Reward Code)",
           "入力場所：YesStyleのチェックアウトにある「リワードコード」(Reward Code)欄",
           "併用：対象のプロモーションクーポンと、それぞれの欄で併用できます",
-          "有効期間：公式インフルエンサープログラムで有効(定期的に確認しています)"
+          "有効期間：公式インフルエンサープログラムで有効"
         ],
         "links": [
           {
@@ -31029,11 +31029,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "CECILIA010はクーポンですか、リワードコードですか？YesStyleのリワードコード/インフルエンサーコードとして使え、正しい欄に入力すると最大5%(初回購入5% / リピーター2%)が追加されます。対象のクーポンと併用できるのが強みです。",
           "CECILIA010は月のプロモーションクーポンと併用できますか？はい！CECILIA010は「Reward Code」欄、クーポンは「Coupon Code」欄に入力します。こうして、チェックアウトで確認できた対象のプロモーションクーポンに、最大5%(初回購入5%、2回目以降の購入2%)を上乗せできます。",
-          "CECILIA010に有効期限はありますか？YesStyleのインフルエンサープログラムが続き、コードが定期的に確認されているかぎり使えます。",
+          "CECILIA010に有効期限はありますか？YesStyleのインフルエンサープログラムが続くかぎり使えます。",
           "YesStyleで買い物しても安全ですか？会社は2006年創業の香港企業で、実在します。ただし、それは商品が正規品であることの保証にはなりません。購入前に確認したい点は[YesStyleは安全？信頼性と評判](/ja/reviews/yesstyle-trust-guide-ja)をご覧ください。",
           "輸入税はかかりますか？かかる場合があります。YesStyleの[ポリシー](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)では、1,000米ドル未満の注文(クーポン割引前、送料を除く)は、輸入税などをストアクレジットで返金してもらえる場合があります。先に支払って領収書を保管し、領収書の支払日から30日以内に申請してください。",
           "支払い方法は何がおすすめですか？国際ブランドのクレジットカード(Visa、Mastercard、Amex)またはPayPalです。YesStyleでは注文の通貨を選べ、換算は[YesStyle独自の為替レート](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)で注文時に確定します。海外利用手数料は銀行やカード会社が別に請求する場合があります。",
-          "YesStyleの商品は本物ですか、偽物ですか？YesStyleは、400以上の韓国コスメブランドの正規販売店であり、メーカーまたはメーカーが認めた販売元から仕入れていると述べています。この主張を裏付ける第三者の監査は見つかっていません。届いたら、ロット番号、使用期限、封の状態を確認してください。",
+          "YesStyleの商品は本物ですか、偽物ですか？YesStyleは、400以上の韓国コスメブランドの正規販売店であり、メーカーまたはメーカーが認めた販売元から仕入れていると述べています。この主張を裏付ける第三者の監査は、このガイドの情報源にはありません。届いたら、ロット番号、使用期限、封の状態を確認してください。",
           "返品はできますか？海外からの購入では返品の条件が限られます。不良品や誤配送は返品できます。K-beauty商品(スキンケア、メイクアップ)は、衛生上の理由から、未開封でないかぎり通常は返品できません。",
           "Elite Clubとは何ですか？YesStyleのロイヤルティプログラムです。Bronzeは1米ドル以上の注文、Silverは累計100米ドル、Goldは累計500米ドルで到達し、レベルが上がるほどYS Pointが増えて12% OFFクーポンももらえます。CECILIA010は、どのレベルでもReward Code欄に入力します。",
           "サイトは他の言語にも対応していますか？はい！サイト上部で言語を切り替えられます。",
@@ -31114,7 +31114,7 @@ export const reviewsData: unknown[] = [
           "類型：網紅代碼 / 獎勵碼（Reward Code）",
           "使用位置：YesStyle 結帳頁的「獎勵碼」（Reward Code）欄位",
           "可搭配：符合資格的促銷優惠券，各填各的欄位",
-          "有效期限：在官方網紅計畫中持續有效（定期確認）"
+          "有效期限：在官方網紅計畫中持續有效"
         ],
         "links": [
           {
@@ -31258,11 +31258,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "CECILIA010 是優惠券還是獎勵碼？它是 YesStyle 的獎勵碼/網紅代碼，填在正確的欄位後可額外享高達 5% 優惠（首購 5% / 回購 2%）。好處是可以和符合資格的優惠券一起使用。",
           "CECILIA010 可以和當月的促銷優惠券疊加嗎？可以！它填在「Reward Code」欄位，優惠券填在「Coupon Code」欄位。這樣就能在結帳頁確認符合資格的促銷優惠券之上，再額外享高達 5% 優惠（首購 5%，回購 2%）。",
-          "CECILIA010 有有效期限嗎？只要 YesStyle 的網紅計畫仍在進行，並且代碼經過定期確認，它就有效。",
+          "CECILIA010 有有效期限嗎？只要 YesStyle 的網紅計畫仍在進行，它就有效。",
           "在 YesStyle 購物安全嗎？YesStyle 是 2006 年起營運的香港公司，公司本身真實存在。但這不代表商品為正品；下單前該核對什麼，請見[YesStyle 值得信賴嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。",
           "我要繳納進口關稅嗎？有可能。依 YesStyle 的[政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的訂單（優惠券折扣前，不含運費）可憑憑證申請退還進口稅等，以商店餘額形式發放。請先付款並保留憑證，自付款憑證日期起 30 天內申請。",
           "最好用什麼方式付款？國際信用卡（Visa、Mastercard、Amex）或 PayPal。在 YesStyle 可自選訂單幣別，並依[YesStyle 的內部匯率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)在下單時換算；銀行或發卡機構可能另收海外交易手續費。",
-          "YesStyle 的商品是正品還是仿冒品？YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。我們沒有找到能證實這一點的獨立稽核；收到商品時請檢查批號、有效期限與封條。",
+          "YesStyle 的商品是正品還是仿冒品？YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。本指南的資料來源中沒有能證實這一點的獨立稽核；收到商品時請檢查批號、有效期限與封條。",
           "可以退貨嗎？跨境訂單的退貨政策有限。有瑕疵或寄錯貨的商品可以退。韓系美妝商品（保養、彩妝）基於衛生考量通常不能退，除非未拆封。",
           "Elite Club 是什麼？YesStyle 的會員計畫。Bronze 需有一筆至少 1 美元的訂單，Silver 需累計消費 100 美元，Gold 需累計 500 美元；等級越高，YS Point 越多，還能領到 12% OFF 優惠券。無論哪個等級，CECILIA010 都填在 Reward Code 欄位。",
           "網站有其他語言版本嗎？有！在網站頂端可以切換語言。",
@@ -31343,7 +31343,7 @@ export const reviewsData: unknown[] = [
           "类型：达人代码 / 奖励码（Reward Code）",
           "使用位置：YesStyle 结账页的“奖励码”（Reward Code）栏位",
           "可搭配：符合条件的促销优惠券，各填各的栏位",
-          "有效期：在官方达人计划中保持有效（定期核实）"
+          "有效期：在官方达人计划中保持有效"
         ],
         "links": [
           {
@@ -31487,11 +31487,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "CECILIA010 是优惠券还是奖励码？它是 YesStyle 的奖励码/达人代码，填在正确的栏位后可额外享高达 5% 优惠（首单 5% / 回购 2%）。好处是可以和符合条件的优惠券一起使用。",
           "CECILIA010 可以和当月的促销优惠券叠加吗？可以！它填在“Reward Code”栏位，优惠券填在“Coupon Code”栏位。这样就能在结账页确认符合条件的促销优惠券之上，再额外享高达 5% 优惠（首单 5%，回购 2%）。",
-          "CECILIA010 有有效期吗？只要 YesStyle 的达人计划仍在进行，并且代码经过定期核实，它就有效。",
+          "CECILIA010 有有效期吗？只要 YesStyle 的达人计划仍在进行，它就有效。",
           "在 YesStyle 购物安全吗？YesStyle 是 2006 年起运营的香港公司，公司本身真实存在。但这不代表商品为正品；下单前该核对什么，请见[YesStyle 值得信赖吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。",
           "我要缴纳进口关税吗？有可能。按 YesStyle 的[政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的订单（优惠券折扣前，不含运费）可凭凭证申请退还进口税等，以商店余额形式发放。请先付款并保留凭证，自付款凭证日期起 30 天内申请。",
           "最好用什么方式付款？国际信用卡（Visa、Mastercard、Amex）或 PayPal。在 YesStyle 可自选订单币种，并按[YesStyle 的内部汇率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)在下单时换算；银行或发卡机构可能另收境外交易手续费。",
-          "YesStyle 的商品是正品还是仿冒品？YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。我们没有找到能证实这一点的独立审核；收货时请核对批号、有效期和封条。",
+          "YesStyle 的商品是正品还是仿冒品？YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。本指南的资料来源中没有能证实这一点的独立审核；收货时请核对批号、有效期和封条。",
           "可以退货吗？跨境订单的退货政策有限。有瑕疵或发错货的商品可以退。韩系美妆商品（护肤、彩妆）出于卫生原因通常不能退，除非未拆封。",
           "Elite Club 是什么？YesStyle 的会员计划。Bronze 需有一笔至少 1 美元的订单，Silver 需累计消费 100 美元，Gold 需累计 500 美元；等级越高，YS Point 越多，还能领到 12% OFF 优惠券。无论哪个等级，CECILIA010 都填在 Reward Code 栏位。",
           "网站有其他语言版本吗？有！在网站顶部可以切换语言。",
@@ -36855,7 +36855,7 @@ export const reviewsData: unknown[] = [
       "Explains stacking: adding the month's coupon on top of CECILIA010",
       "Shows how to save up to 5% extra with the official influencer code",
       "Shows where to find YesStyle's live coupons so you avoid fake or expired codes",
-      "Points you to the updated Em Casa com Cecília page with the checked coupon list"
+      "Points you to the updated Em Casa com Cecília page with the current coupon list"
     ],
     "cons": [
       "Promotional monthly coupons have short deadlines (usually from 72 hours to 30 days)",
@@ -36883,7 +36883,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "On our page, the YesStyle coupon list was checked on November 6, 2026.",
+      "text": "On our page, the YesStyle coupon list is current as of November 6, 2026.",
       "label": "View Active YesStyle Coupons",
       "url": "/en/coupons/yesstyle",
       "sponsored": false
@@ -37074,7 +37074,7 @@ export const reviewsData: unknown[] = [
       "Explica cómo acumular el cupón del mes con CECILIA010",
       "Muestra cómo ahorrar hasta un 5% extra con el código oficial de influencer",
       "Muestra dónde encontrar los cupones vigentes de YesStyle para evitar códigos falsos o caducados",
-      "Te lleva a la página actualizada de Em Casa com Cecília con la lista de cupones comprobada"
+      "Te lleva a la página actualizada de Em Casa com Cecília con la lista de cupones vigentes"
     ],
     "cons": [
       "Los cupones promocionales mensuales tienen plazos cortos (por lo general, de 72 horas a 30 días)",
@@ -37102,7 +37102,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 6 de noviembre de 2026.",
+      "text": "En nuestra página, la lista de cupones de YesStyle está actualizada al 6 de noviembre de 2026.",
       "label": "Ver cupones activos de YesStyle",
       "url": "/es/coupons/yesstyle",
       "sponsored": false
@@ -37293,7 +37293,7 @@ export const reviewsData: unknown[] = [
       "Explique le cumul : ajouter le coupon du mois à CECILIA010",
       "Montre comment économiser jusqu'à 5 % de plus avec le code officiel d'influenceuse",
       "Indique où trouver les coupons YesStyle en cours pour éviter les codes faux ou périmés",
-      "Renvoie à la page à jour d'Em Casa com Cecília, avec la liste de coupons vérifiée"
+      "Renvoie à la page à jour d'Em Casa com Cecília, avec la liste de coupons en vigueur"
     ],
     "cons": [
       "Les coupons promotionnels mensuels ont des délais courts (en général de 72 heures à 30 jours)",
@@ -37321,7 +37321,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 6 novembre 2026.",
+      "text": "Sur notre page, la liste des coupons YesStyle est à jour au 6 novembre 2026.",
       "label": "Voir les coupons YesStyle actifs",
       "url": "/fr/coupons/yesstyle",
       "sponsored": false
@@ -37512,7 +37512,7 @@ export const reviewsData: unknown[] = [
       "Erklärt das Kombinieren: den Gutschein des Monats zusammen mit CECILIA010 nutzen",
       "Zeigt, wie Sie mit dem offiziellen Influencer-Code bis zu 5 % extra sparen",
       "Zeigt, wo Sie die aktuellen YesStyle-Gutscheine finden, damit Sie gefälschte oder abgelaufene Codes vermeiden",
-      "Führt zur aktuellen Seite von Em Casa com Cecília mit der geprüften Gutscheinliste"
+      "Führt zur aktuellen Seite von Em Casa com Cecília mit der Liste der gültigen Gutscheine"
     ],
     "cons": [
       "Monatliche Aktionsgutscheine haben kurze Laufzeiten (meist von 72 Stunden bis 30 Tage)",
@@ -37540,7 +37540,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 6. November 2026 geprüft.",
+      "text": "Auf unserer Seite ist die Liste der YesStyle-Gutscheine auf dem Stand vom 6. November 2026.",
       "label": "Aktive YesStyle-Gutscheine ansehen",
       "url": "/de/coupons/yesstyle",
       "sponsored": false
@@ -37731,7 +37731,7 @@ export const reviewsData: unknown[] = [
       "이달의 쿠폰과 CECILIA010을 함께 쓰는 중복 적용(스태킹) 방법을 설명합니다",
       "공식 인플루언서 코드로 최대 5%를 더 절약하는 방법을 보여 줍니다",
       "가짜이거나 만료된 코드를 피하도록 진행 중인 YesStyle 쿠폰을 찾는 곳을 정리했습니다",
-      "확인을 마친 쿠폰 목록이 있는 Em Casa com Cecília 최신 페이지로 안내합니다"
+      "현재 유효한 쿠폰 목록이 있는 Em Casa com Cecília 최신 페이지로 안내합니다"
     ],
     "cons": [
       "월별 프로모션 쿠폰은 기한이 짧습니다(보통 72시간에서 30일)",
@@ -37759,7 +37759,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 6일에 확인했습니다.",
+      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 6일 기준입니다.",
       "label": "사용 가능한 YesStyle 쿠폰 보기",
       "url": "/ko/coupons/yesstyle",
       "sponsored": false
@@ -37950,7 +37950,7 @@ export const reviewsData: unknown[] = [
       "今月のクーポンとCECILIA010を重ねる併用（スタッキング）の仕組みがわかる",
       "公式のインフルエンサーコードで最大5%を追加で節約する方法がわかる",
       "偽物や期限切れのコードを避けられるよう、開催中のYesStyleクーポンの探し方を紹介",
-      "Em Casa com Cecíliaの最新ページで、確認済みのクーポン一覧に進める"
+      "Em Casa com Cecíliaの最新ページで、有効なクーポン一覧に進める"
     ],
     "cons": [
       "月ごとのプロモクーポンは期限が短い（たいてい72時間〜30日）",
@@ -37978,7 +37978,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "当サイトのYesStyleクーポン一覧は2026年11月6日に確認しました。",
+      "text": "当サイトのYesStyleクーポン一覧は2026年11月6日時点の内容です。",
       "label": "利用できるYesStyleクーポンを見る",
       "url": "/ja/coupons/yesstyle",
       "sponsored": false
@@ -38169,7 +38169,7 @@ export const reviewsData: unknown[] = [
       "解釋疊加（stacking）方式：當月優惠碼可以和 CECILIA010 一起用",
       "教你用官方網紅代碼額外省下高達 5%",
       "說明哪裡找得到目前有效的 YesStyle 優惠碼，避開假碼和過期碼",
-      "帶你前往 Em Casa com Cecília 的最新頁面，那裡有核對過的優惠碼清單"
+      "帶你前往 Em Casa com Cecília 的最新頁面，那裡有目前有效的優惠碼清單"
     ],
     "cons": [
       "每月的促銷優惠碼效期很短（通常 72 小時到 30 天）",
@@ -38197,7 +38197,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站頁面的 YesStyle 優惠碼列表於2026年11月6日核對。",
+      "text": "本站頁面的 YesStyle 優惠碼列表更新於2026年11月6日。",
       "label": "查看 YesStyle 優惠碼",
       "url": "/zh-hant/coupons/yesstyle",
       "sponsored": false
@@ -38388,7 +38388,7 @@ export const reviewsData: unknown[] = [
       "说明叠加（stacking）方式：当月优惠码可以和 CECILIA010 一起用",
       "教你用官方网红代码额外省下高达 5%",
       "说明去哪里找当前有效的 YesStyle 优惠码，避开假码和过期码",
-      "指向 Em Casa com Cecília 的最新页面，那里有核对过的优惠码列表"
+      "指向 Em Casa com Cecília 的最新页面，那里有当前有效的优惠码列表"
     ],
     "cons": [
       "每月的促销优惠码有效期很短（通常 72 小时到 30 天）",
@@ -38416,7 +38416,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站页面的 YesStyle 优惠码列表于2026年11月6日核对。",
+      "text": "本站页面的 YesStyle 优惠码列表更新于2026年11月6日。",
       "label": "查看 YesStyle 优惠码",
       "url": "/zh-hans/coupons/yesstyle",
       "sponsored": false
@@ -49078,7 +49078,7 @@ export const reviewsData: unknown[] = [
           "Tipo: codice influencer / codice ricompensa (Reward Code)",
           "Dove usarlo: campo “Codice ricompensa” (Reward Code) al checkout di YesStyle",
           "Si abbina a: coupon promozionali idonei, ciascuno nel suo campo",
-          "Validità: codice attivo nel programma ufficiale per influencer (verificato regolarmente)"
+          "Validità: codice attivo nel programma ufficiale per influencer"
         ],
         "links": [
           {
@@ -49222,11 +49222,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "CECILIA010 è un coupon o un codice ricompensa? Funziona come codice ricompensa/influencer di YesStyle e offre fino al 5% extra (5% sul 1º ordine / 2% sui successivi) se applicato nel campo giusto. Il vantaggio è che si può usare insieme ai coupon idonei.",
           "Posso sommare CECILIA010 al coupon della promozione del mese? Sì! Va nel campo “Reward Code”, mentre i coupon vanno nel campo “Coupon Code”. Così aggiungi fino al 5% extra (5% sul primo ordine e 2% sugli acquisti successivi) ai coupon promozionali idonei confermati al checkout.",
-          "CECILIA010 ha una scadenza? Funziona finché il programma per influencer di YesStyle è attivo e il codice viene verificato regolarmente.",
+          "CECILIA010 ha una scadenza? Funziona finché il programma per influencer di YesStyle è attivo.",
           "Comprare su YesStyle è sicuro? L'azienda è legittima: ha sede a Hong Kong ed è stata fondata nel 2006. Questo non garantisce che i prodotti siano originali; vedi cosa controllare prima di ordinare in [YesStyle è affidabile e sicuro?](/it/reviews/yesstyle-e-affidabile-e-sicuro).",
           "Pagherò tasse di importazione? Può succedere. Secondo la [politica di YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), per gli ordini inferiori a 1.000 US$ (prima dello sconto del coupon e senza spedizione) imposte e tasse doganali possono essere rimborsate come Credito del negozio: paghi, conservi la ricevuta e fai richiesta entro 30 giorni, contati dalla data della ricevuta di pagamento.",
           "Qual è il modo migliore per pagare? Carta di credito internazionale (Visa, Mastercard, Amex) o PayPal. YesStyle permette di scegliere la valuta dell'ordine e converte con [il proprio tasso di cambio interno](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fissato al momento dell'ordine; la banca o l'emittente della carta possono applicare una commissione sugli acquisti all'estero.",
-          "I prodotti YesStyle sono originali o contraffatti? YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, acquistando dai produttori o da distributori autorizzati. Non abbiamo trovato un audit indipendente che lo confermi; alla consegna, controlla lotto, scadenza e sigillo.",
+          "I prodotti YesStyle sono originali o contraffatti? YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, acquistando dai produttori o da distributori autorizzati. Nelle fonti della guida non c’è un audit indipendente che lo confermi; alla consegna, controlla lotto, scadenza e sigillo.",
           "Posso restituire i prodotti? La politica è limitata per gli acquisti internazionali. I prodotti difettosi o spediti per errore possono essere restituiti. I prodotti di K-beauty (skincare, make-up) in genere non possono essere restituiti per ragioni igieniche, a meno che non siano sigillati.",
           "Che cos'è l'Elite Club? Il programma fedeltà di YesStyle. Il livello Bronze arriva con il primo ordine, il Silver con 100 US$ di acquisti accumulati e il Gold con 500 US$; ogni livello dà più YS Points per dollaro e coupon da 12% OFF. CECILIA010 resta nel campo Reward Code a qualsiasi livello.",
           "Il sito ha altre lingue? Sì! In alto nel sito puoi cambiare la lingua.",
@@ -49293,7 +49293,7 @@ export const reviewsData: unknown[] = [
       "Spiega come sommare il coupon del mese a CECILIA010",
       "Mostra come risparmiare fino al 5% in più con il codice influencer ufficiale",
       "Indica dove trovare i coupon YesStyle in corso per evitare codici falsi o scaduti",
-      "Porta alla pagina aggiornata di Em Casa com Cecília con l'elenco dei coupon verificato"
+      "Porta alla pagina aggiornata di Em Casa com Cecília con l'elenco dei coupon in vigore"
     ],
     "cons": [
       "I coupon promozionali mensili hanno scadenze brevi (di solito da 72 ore a 30 giorni)",
@@ -49321,7 +49321,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 6 novembre 2026.",
+      "text": "Sulla nostra pagina, l'elenco dei coupon YesStyle è aggiornato al 6 novembre 2026.",
       "label": "Vedi i coupon YesStyle attivi",
       "url": "/it/coupons/yesstyle",
       "sponsored": false
@@ -57115,7 +57115,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da YesStyle? Já começou: a home da loja traz a Black Friday Mega Sale e um cupom de faixa. A YesStyle ainda não publicou o fim; em 2024 e 2025, os cupons com o nome Black Friday foram até a Cyber Monday.",
-          "Qual é o cupom da YesStyle na Black Friday? Ele muda a cada poucos dias. A página da YesStyle aqui no site mostra o código da semana, com a data em que foi conferido.",
+          "Qual é o cupom da YesStyle na Black Friday? Ele muda a cada poucos dias. A página da YesStyle aqui no site mostra o código da semana, com a data.",
           "O cupom da Black Friday da YesStyle tem valor mínimo? O cupom de faixa tem: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. Em 2024 e 2025, a YesStyle liberou 15% sem valor mínimo nos dias perto da sexta-feira e da Cyber Monday; para 2026, ainda não há anúncio.",
           "Na YesStyle, é melhor comprar na Black Friday ou na Cyber Monday? Em 2024 e 2025, as duas tiveram 15% sem valor mínimo, então o teto do cupom foi o mesmo. O que muda de um dia para o outro é o preço promocional de cada produto.",
           "A YesStyle tem promoção fora da Black Friday? Tem. O cupom de faixa, de 8%, 10% e 15%, roda quase o ano inteiro e muda de nome a cada três ou quatro dias.",
@@ -57384,7 +57384,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "When does YesStyle's Black Friday start and how long does it last? It has already started: the store's home page has the Black Friday Mega Sale and a tiered coupon. YesStyle has not published the end yet; in 2024 and 2025, the coupons named Black Friday ran until Cyber Monday.",
-          "What is the YesStyle coupon on Black Friday? It changes every few days. The YesStyle page here on the site shows this week's code, with the date it was checked.",
+          "What is the YesStyle coupon on Black Friday? It changes every few days. The YesStyle page here on the site shows this week's code, with the date.",
           "Does the YesStyle Black Friday coupon have a minimum order value? The tiered coupon does: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. In 2024 and 2025, YesStyle opened 15% with no minimum on the days around Friday and Cyber Monday; nothing is announced for 2026 yet.",
           "Is it better to buy on Black Friday or Cyber Monday at YesStyle? In 2024 and 2025, both had 15% with no minimum, so the coupon cap was the same. What changes from one day to the next is the promotional price of each product.",
           "Does YesStyle have promotions outside Black Friday? Yes. The tiered coupon, with 8%, 10% and 15%, runs almost all year and changes its name every few days.",
@@ -57652,7 +57652,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Cuándo empieza y cuánto dura el Black Friday de YesStyle? Ya empezó: la página principal de la tienda trae la Black Friday Mega Sale y un cupón por tramos. YesStyle aún no ha publicado el fin; en 2024 y 2025, los cupones con el nombre Black Friday duraron hasta el Cyber Monday.",
-          "¿Cuál es el cupón de YesStyle en el Black Friday? Cambia cada pocos días. La página de YesStyle de este sitio muestra el código de la semana, con la fecha en que se comprobó.",
+          "¿Cuál es el cupón de YesStyle en el Black Friday? Cambia cada pocos días. La página de YesStyle de este sitio muestra el código de la semana, con la fecha.",
           "¿El cupón del Black Friday de YesStyle tiene compra mínima? El cupón por tramos sí: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. En 2024 y 2025, YesStyle abrió 15% sin compra mínima en los días cercanos al viernes y al Cyber Monday; para 2026 aún no hay nada anunciado.",
           "¿En YesStyle es mejor comprar en el Black Friday o en el Cyber Monday? En 2024 y 2025, los dos tuvieron 15% sin compra mínima, así que el tope del cupón fue el mismo. Lo que cambia de un día a otro es el precio promocional de cada producto.",
           "¿YesStyle tiene promociones fuera del Black Friday? Sí. El cupón por tramos, de 8%, 10% y 15%, funciona casi todo el año y cambia de nombre cada pocos días.",
@@ -57920,7 +57920,7 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Quand commence le Black Friday de YesStyle et combien de temps dure-t-il ? Il a déjà commencé : la page d'accueil de la boutique affiche la Black Friday Mega Sale et un coupon par palier. YesStyle n'a pas encore publié la fin ; en 2024 et 2025, les coupons portant le nom Black Friday ont duré jusqu'au Cyber Monday.",
-          "Quel est le coupon YesStyle pendant le Black Friday ? Il change tous les quelques jours. La page YesStyle de ce site affiche le code de la semaine, avec la date à laquelle il a été vérifié.",
+          "Quel est le coupon YesStyle pendant le Black Friday ? Il change tous les quelques jours. La page YesStyle de ce site affiche le code de la semaine, avec la date.",
           "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. En 2024 et 2025, YesStyle a ouvert 15 % sans minimum les jours proches du vendredi et du Cyber Monday ; rien n'est encore annoncé pour 2026.",
           "Chez YesStyle, vaut-il mieux acheter pendant le Black Friday ou le Cyber Monday ? En 2024 et 2025, les deux ont eu 15 % sans minimum, donc le plafond du coupon a été le même. Ce qui change d'un jour à l'autre, c'est le prix promotionnel de chaque produit.",
           "YesStyle a-t-il des promotions en dehors du Black Friday ? Oui. Le coupon par palier, à 8 %, 10 % et 15 %, tourne presque toute l'année et change de nom tous les quelques jours.",
@@ -58188,7 +58188,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Wann beginnt der Black Friday bei YesStyle und wie lange dauert er? Er hat bereits begonnen: Auf der Startseite des Shops stehen die Black Friday Mega Sale und ein Staffelgutschein. Das Ende hat YesStyle noch nicht veröffentlicht; 2024 und 2025 liefen die Gutscheine mit dem Namen Black Friday bis zum Cyber Monday.",
-          "Welcher YesStyle-Gutschein gilt am Black Friday? Er wechselt alle paar Tage. Die YesStyle-Seite hier auf der Website zeigt den Code der Woche mit dem Datum, an dem er geprüft wurde.",
+          "Welcher YesStyle-Gutschein gilt am Black Friday? Er wechselt alle paar Tage. Die YesStyle-Seite hier auf der Website zeigt den Code der Woche mit dem Datum.",
           "Hat der Black-Friday-Gutschein von YesStyle einen Mindestbestellwert? Der Staffelgutschein schon: 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199. 2024 und 2025 hat YesStyle an den Tagen rund um den Freitag und den Cyber Monday 15 % ohne Mindestbestellwert geöffnet; für 2026 ist noch nichts angekündigt.",
           "Kauft man bei YesStyle besser am Black Friday oder am Cyber Monday? 2024 und 2025 hatten beide 15 % ohne Mindestbestellwert, die Obergrenze des Gutscheins war also dieselbe. Was sich von einem Tag zum anderen ändert, ist der Aktionspreis der einzelnen Produkte.",
           "Hat YesStyle auch außerhalb des Black Friday Aktionen? Ja. Der Staffelgutschein mit 8 %, 10 % und 15 % läuft fast das ganze Jahr und wechselt alle paar Tage den Namen.",
@@ -58456,7 +58456,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Quando inizia il Black Friday di YesStyle e quanto dura? È già iniziato: la home del negozio ha la Black Friday Mega Sale e un coupon a scaglioni. YesStyle non ha ancora pubblicato la fine; nel 2024 e nel 2025 i coupon con il nome Black Friday sono durati fino al Cyber Monday.",
-          "Qual è il coupon di YesStyle nel Black Friday? Cambia ogni pochi giorni. La pagina di YesStyle qui sul sito mostra il codice della settimana, con la data in cui è stato controllato.",
+          "Qual è il coupon di YesStyle nel Black Friday? Cambia ogni pochi giorni. La pagina di YesStyle qui sul sito mostra il codice della settimana, con la data.",
           "Il coupon del Black Friday di YesStyle ha un importo minimo? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nel 2024 e nel 2025 YesStyle ha aperto il 15% senza minimo nei giorni vicini al venerdì e al Cyber Monday; per il 2026 non c'è ancora nulla di annunciato.",
           "Su YesStyle è meglio comprare nel Black Friday o nel Cyber Monday? Nel 2024 e nel 2025 entrambi hanno avuto il 15% senza minimo, quindi il tetto del coupon è stato lo stesso. Ciò che cambia da un giorno all'altro è il prezzo promozionale di ogni prodotto.",
           "YesStyle ha promozioni fuori dal Black Friday? Sì. Il coupon a scaglioni, dell'8%, 10% e 15%, resta attivo quasi tutto l'anno e cambia nome ogni pochi giorni.",
@@ -58724,7 +58724,7 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "YesStyle 블랙프라이데이는 언제 시작하고 얼마나 오래 가나요? 이미 시작했습니다. 스토어 홈에 Black Friday Mega Sale과 구간별 쿠폰이 있습니다. YesStyle은 종료일을 아직 발표하지 않았고, 2024년과 2025년에는 Black Friday 이름의 쿠폰이 사이버 먼데이까지 이어졌습니다.",
-          "블랙프라이데이에 YesStyle 쿠폰은 무엇인가요? 며칠마다 바뀝니다. 이 사이트의 YesStyle 페이지에 이번 주 코드가 확인한 날짜와 함께 나와 있습니다.",
+          "블랙프라이데이에 YesStyle 쿠폰은 무엇인가요? 며칠마다 바뀝니다. 이 사이트의 YesStyle 페이지에 이번 주 코드가 날짜와 함께 나와 있습니다.",
           "YesStyle 블랙프라이데이 쿠폰에는 최소 금액이 있나요? 구간별 쿠폰에는 있습니다. US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%입니다. 2024년과 2025년에는 금요일과 사이버 먼데이 즈음에 YesStyle이 최소 금액 없는 15%를 열었습니다. 2026년은 아직 발표되지 않았습니다.",
           "YesStyle은 블랙프라이데이와 사이버 먼데이 중 언제 사는 게 낫나요? 2024년과 2025년에는 둘 다 최소 금액 없는 15%였으므로 쿠폰 상한은 같았습니다. 날마다 달라지는 것은 상품별 프로모션 가격입니다.",
           "YesStyle은 블랙프라이데이 말고도 프로모션이 있나요? 있습니다. 8%, 10%, 15%의 구간별 쿠폰이 거의 일 년 내내 진행되고, 며칠마다 이름이 바뀝니다.",
@@ -58992,7 +58992,7 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "YesStyleのブラックフライデーはいつ始まり、いつまで続きますか？もう始まっています。ストアのホームにBlack Friday Mega Saleと段階式クーポンがあります。YesStyleは終了日をまだ発表していません。2024年と2025年は、「Black Friday」の名前のクーポンがサイバーマンデーまで続きました。",
-          "ブラックフライデーのYesStyleのクーポンは何ですか？数日ごとに替わります。このサイトのYesStyleのページに、今週のコードが、確認した日付つきで載っています。",
+          "ブラックフライデーのYesStyleのクーポンは何ですか？数日ごとに替わります。このサイトのYesStyleのページに、今週のコードが、日付つきで載っています。",
           "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$79以上で8%、US$149以上で10%、US$199以上で15%です。2024年と2025年は、金曜日とサイバーマンデーの前後に最低金額なしの15%が開放されました。2026年はまだ発表されていません。",
           "YesStyleは、ブラックフライデーとサイバーマンデーのどちらで買うのがお得ですか？2024年と2025年は、どちらも最低金額なしの15%だったので、クーポンの上限は同じでした。日によって変わるのは、各商品のセール価格です。",
           "YesStyleにはブラックフライデー以外にもセールがありますか？あります。8%、10%、15%の段階式クーポンはほぼ一年中実施されていて、数日ごとに名前が替わります。",
@@ -59260,7 +59260,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "YesStyle 的黑色星期五何時開始、持續多久？已經開始：商店首頁有 Black Friday Mega Sale 和階梯優惠券。YesStyle 還沒有公布結束日期；2024 年與 2025 年，名稱為 Black Friday 的優惠券一直持續到網購星期一。",
-          "YesStyle 黑色星期五的優惠券是什麼？它每隔幾天換一次。本站的 YesStyle 頁面會顯示本週的代碼，並標明核對的日期。",
+          "YesStyle 黑色星期五的優惠券是什麼？它每隔幾天換一次。本站的 YesStyle 頁面會顯示本週的代碼，並標明日期。",
           "YesStyle 黑色星期五的優惠券有最低消費嗎？階梯優惠券有：滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%。2024 年與 2025 年，YesStyle 在接近週五與網購星期一的幾天開放了無最低消費的 15%；2026 年尚未公布。",
           "在 YesStyle，黑色星期五和網購星期一哪個買比較划算？2024 年與 2025 年，兩者都是無最低消費的 15%，所以優惠券的上限相同。每天不同的是每件商品的促銷價。",
           "YesStyle 在黑色星期五以外也有促銷嗎？有。8%、10% 與 15% 的階梯優惠券幾乎全年都在，每隔幾天換一次名稱。",
@@ -59528,7 +59528,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "YesStyle 的黑色星期五何时开始、持续多久？已经开始：商店首页有 Black Friday Mega Sale 和阶梯优惠券。YesStyle 还没有公布结束日期；2024 年和 2025 年，名称为 Black Friday 的优惠券一直持续到网络星期一。",
-          "YesStyle 黑色星期五的优惠券是什么？它每隔几天换一次。本站的 YesStyle 页面会显示本周的代码，并标明核对的日期。",
+          "YesStyle 黑色星期五的优惠券是什么？它每隔几天换一次。本站的 YesStyle 页面会显示本周的代码，并标明日期。",
           "YesStyle 黑色星期五的优惠券有最低消费吗？阶梯优惠券有：满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%。2024 年和 2025 年，YesStyle 在临近周五和网络星期一的几天开放了无最低消费的 15%；2026 年尚未公布。",
           "在 YesStyle，黑色星期五和网络星期一哪个买更划算？2024 年和 2025 年，两者都是无最低消费的 15%，所以优惠券的上限相同。每天不同的是每件商品的促销价。",
           "YesStyle 在黑色星期五以外也有促销吗？有。8%、10% 和 15% 的阶梯优惠券几乎全年都在，每隔几天换一次名称。",
@@ -64319,7 +64319,7 @@ export const reviewsData: unknown[] = [
           "O código de indicação é a mesma coisa que cupom? Não. Segundo a SHEIN, o código vai na caixa de busca, e não como cupom.",
           "Como saber meu código de indicação da SHEIN? O código de indicação sai do programa de afiliados da SHEIN. Depois do cadastro, feito pela busca \"afiliado\" no aplicativo, ele aparece na página inicial de afiliado.",
           "O código de indicação de 2024 ou 2025 ainda vale? Os códigos do programa antigo, que acabou em 2024, foram desativados junto com o cupom de R$ 10. No programa atual, o código leva à página do afiliado, com a seleção de produtos e descontos da SHEIN, e o 4CW5Y é o código atual da Cecília.",
-          "Preciso criar uma conta nova para usar o código? Não: quando conferimos, a pesquisa abriu a página mesmo sem login. Ofertas só para novos usuários, quando existem, aparecem marcadas na campanha.",
+          "Preciso criar uma conta nova para usar o código? Não: a pesquisa abre a página mesmo sem login. Ofertas só para novos usuários, quando existem, aparecem marcadas na campanha.",
           "Dá para usar o código de indicação no computador? Dá: copie o 4CW5Y e pesquise no site da SHEIN, ou use o link da Cecília. O guia mostra o site no celular."
         ]
       }
@@ -64457,7 +64457,7 @@ export const reviewsData: unknown[] = [
           "Is the referral code the same as a coupon? No. According to SHEIN, the code goes in the search box, not as a coupon.",
           "How do I find my SHEIN referral code? The referral code comes from SHEIN's affiliate program. After you sign up, using the search for the affiliate program in the app, it appears on the affiliate home page.",
           "Is a 2024 or 2025 referral code still valid? Codes from the old program, which ended in 2024, were deactivated along with the old program's coupon. In the current program, the code leads to the affiliate's page, with SHEIN's selection of products and discounts, and 4CW5Y is Cecília's current code.",
-          "Do I need to create a new account to use the code? No: when we checked, the search opened the page even without logging in. Offers for new users only, when they exist, are marked on the campaign.",
+          "Do I need to create a new account to use the code? No: the search opens the page even without logging in. Offers for new users only, when they exist, are marked on the campaign.",
           "Can I use the referral code on a computer? Yes: open the SHEIN website, directly or through Cecília's link, and search for 4CW5Y there. The guide shows the website on a phone."
         ]
       }
@@ -64595,7 +64595,7 @@ export const reviewsData: unknown[] = [
           "¿El código de referido es lo mismo que un cupón? No. Según SHEIN, el código va en el cuadro de búsqueda y no como cupón.",
           "¿Cómo saber cuál es mi código de referido de SHEIN? El código de referido sale del programa de afiliados de SHEIN. Después del registro, hecho con la búsqueda \"afiliado\" en la app, aparece en la página de inicio de afiliado.",
           "¿Sigue valiendo un código de referido de 2024 o 2025? Los códigos del programa antiguo, que terminó en 2024, se desactivaron junto con el cupón del programa antiguo. En el programa actual, el código lleva a la página del afiliado, con una selección de productos y descuentos de SHEIN, y 4CW5Y es el código actual de Cecília.",
-          "¿Necesito crear una cuenta nueva para usar el código? No: cuando lo comprobamos, la búsqueda abrió la página incluso sin iniciar sesión. Las ofertas solo para usuarios nuevos, cuando existen, aparecen marcadas en la campaña.",
+          "¿Necesito crear una cuenta nueva para usar el código? No: la búsqueda abre la página incluso sin iniciar sesión. Las ofertas solo para usuarios nuevos, cuando existen, aparecen marcadas en la campaña.",
           "¿Se puede usar el código de referido en el ordenador? Sí: abre el sitio de SHEIN, directamente o con el enlace de Cecília, y busca ahí 4CW5Y. La guía muestra el sitio en el móvil."
         ]
       }
@@ -64733,7 +64733,7 @@ export const reviewsData: unknown[] = [
           "Le code de parrainage est-il la même chose qu'un code promo ? Non. Selon SHEIN, le code se saisit dans la zone de recherche, et non comme un code promo.",
           "Comment connaître mon code de parrainage SHEIN ? Le code de parrainage vient du programme d'affiliation de SHEIN. Après l'inscription, faite par la recherche du programme d'affiliation dans l'application, il apparaît sur la page d'accueil de l'affilié.",
           "Un code de parrainage de 2024 ou 2025 est-il encore valable ? Les codes de l'ancien programme, terminé en 2024, ont été désactivés avec le code promo de l'ancien programme. Dans le programme actuel, le code mène à la page de l'affilié, avec une sélection de produits et de réductions de SHEIN, et 4CW5Y est le code actuel de Cecília.",
-          "Dois-je créer un nouveau compte pour utiliser le code ? Non : lors de notre vérification, la recherche a ouvert la page même sans connexion. Les offres réservées aux nouveaux clients, quand il y en a, sont signalées dans la campagne.",
+          "Dois-je créer un nouveau compte pour utiliser le code ? Non : la recherche ouvre la page même sans connexion. Les offres réservées aux nouveaux clients, quand il y en a, sont signalées dans la campagne.",
           "Peut-on utiliser le code de parrainage sur ordinateur ? Oui : ouvrez le site SHEIN, directement ou par le lien de Cecília, et recherchez-y 4CW5Y. Le guide montre le site sur téléphone."
         ]
       }
@@ -64871,7 +64871,7 @@ export const reviewsData: unknown[] = [
           "Ist der Empfehlungscode dasselbe wie ein Gutschein? Nein. Laut SHEIN gehört der Code ins Suchfeld und nicht als Gutschein.",
           "Wie finde ich meinen SHEIN-Empfehlungscode? Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Nach der Anmeldung, die über die Suche nach dem Affiliate-Programm in der App erfolgt, erscheint er auf der Startseite für Affiliates.",
           "Gilt ein Empfehlungscode von 2024 oder 2025 noch? Die Codes des alten Programms, das 2024 endete, wurden zusammen mit dem Gutschein des alten Programms deaktiviert. Im aktuellen Programm führt der Code zur Seite des Affiliates, mit einer Auswahl an Produkten und Rabatten von SHEIN, und 4CW5Y ist der aktuelle Code von Cecília.",
-          "Muss ich ein neues Konto anlegen, um den Code zu nutzen? Nein: Bei unserer Prüfung öffnete die Suche die Seite auch ohne Anmeldung. Angebote nur für Neukunden werden, falls es welche gibt, in der Kampagne gekennzeichnet.",
+          "Muss ich ein neues Konto anlegen, um den Code zu nutzen? Nein: Die Suche öffnet die Seite auch ohne Anmeldung. Angebote nur für Neukunden werden, falls es welche gibt, in der Kampagne gekennzeichnet.",
           "Kann ich den Empfehlungscode am Computer nutzen? Ja: Öffnen Sie die SHEIN-Website, direkt oder über Cecílias Link, und suchen Sie dort nach 4CW5Y. Die Anleitung zeigt die Website auf dem Smartphone."
         ]
       }
@@ -65009,7 +65009,7 @@ export const reviewsData: unknown[] = [
           "Il codice invito è la stessa cosa di un coupon? No. Secondo SHEIN, il codice va nella casella di ricerca, non come coupon.",
           "Come trovo il mio codice invito SHEIN? Il codice invito si ottiene tramite il programma di affiliazione di SHEIN. Dopo la registrazione, fatta cercando il programma di affiliazione nell'app, compare nella home dell'affiliato.",
           "Il codice invito del 2024 o del 2025 vale ancora? I codici del vecchio programma, finito nel 2024, sono stati disattivati insieme al coupon del vecchio programma. Nel programma attuale il codice porta alla pagina dell'affiliato, con una selezione di prodotti e sconti di SHEIN, e 4CW5Y è il codice attuale di Cecília.",
-          "Devo creare un nuovo account per usare il codice? No: quando abbiamo controllato, la ricerca ha aperto la pagina anche senza accesso. Le offerte solo per nuovi utenti, quando ci sono, sono segnalate nella campagna.",
+          "Devo creare un nuovo account per usare il codice? No: la ricerca apre la pagina anche senza accesso. Le offerte solo per nuovi utenti, quando ci sono, sono segnalate nella campagna.",
           "Posso usare il codice invito da computer? Sì: apri il sito SHEIN, direttamente o dal link di Cecília, e cerca lì 4CW5Y. La guida mostra il sito su smartphone."
         ]
       }
@@ -65147,7 +65147,7 @@ export const reviewsData: unknown[] = [
           "추천 코드는 쿠폰과 같은 건가요? 아니요. SHEIN에 따르면 코드는 쿠폰이 아니라 검색창에 입력합니다.",
           "내 SHEIN 추천 코드는 어떻게 알 수 있나요? 추천 코드는 SHEIN의 제휴 프로그램에서 발급됩니다. 앱에서 제휴 프로그램을 검색해 가입하면 제휴 파트너 홈 페이지에 나타납니다.",
           "2024년이나 2025년 추천 코드도 아직 유효한가요? 2024년에 끝난 이전 프로그램의 코드는 이전 프로그램의 쿠폰과 함께 비활성화되었습니다. 현재 프로그램에서 코드는 제휴 파트너의 페이지로 이동시켜 SHEIN의 상품과 할인 모음을 보여 주며, 4CW5Y는 Cecília의 현재 코드입니다.",
-          "코드를 쓰려면 새 계정을 만들어야 하나요? 아니요. 확인했을 때 로그인하지 않아도 검색하면 페이지가 열렸습니다. 신규 회원 전용 혜택이 있으면 캠페인에 표시됩니다.",
+          "코드를 쓰려면 새 계정을 만들어야 하나요? 아니요. 로그인하지 않아도 검색하면 페이지가 열립니다. 신규 회원 전용 혜택이 있으면 캠페인에 표시됩니다.",
           "추천 코드를 컴퓨터에서도 쓸 수 있나요? 네. SHEIN 사이트를 직접 열거나 Cecília의 링크로 열고, 거기서 4CW5Y를 검색하세요. 이 가이드는 스마트폰 사이트를 보여 줍니다."
         ]
       }
@@ -65285,7 +65285,7 @@ export const reviewsData: unknown[] = [
           "紹介コードはクーポンと同じですか？ いいえ。SHEINによると、コードはクーポンではなく検索ボックスに入力します。",
           "自分のSHEIN紹介コードはどうやって知りますか？ 紹介コードはSHEINのアフィリエイトプログラムで発行されます。アプリでアフィリエイトプログラムを検索して登録すると、アフィリエイターのホームページに表示されます。",
           "2024年や2025年の紹介コードはまだ使えますか？ 2024年に終了した旧プログラムのコードは、旧プログラムのクーポンとともに無効になりました。現在のプログラムではコードはアフィリエイターのページに案内し、SHEINの商品と割引の特集が表示されます。4CW5Yは現在のCecíliaのコードです。",
-          "コードを使うのに新しいアカウントは必要ですか？ いいえ。確認したところ、ログインなしでも検索でページが開きました。新規ユーザー限定のオファーがある場合は、キャンペーンに表示されます。",
+          "コードを使うのに新しいアカウントは必要ですか？ いいえ。ログインなしでも、検索でページが開きます。新規ユーザー限定のオファーがある場合は、キャンペーンに表示されます。",
           "紹介コードはパソコンでも使えますか？ 使えます。SHEINのサイトを直接、またはCecíliaのリンクから開き、そこで4CW5Yを検索してください。このガイドはスマートフォンのサイトを紹介しています。"
         ]
       }
@@ -65423,7 +65423,7 @@ export const reviewsData: unknown[] = [
           "推薦碼和優惠券是一回事嗎？不是。據 SHEIN 說明，推薦碼要填在搜尋框裡，而不是當作優惠券使用。",
           "怎麼知道我自己的 SHEIN 推薦碼？推薦碼來自 SHEIN 的聯盟計畫。在 App 中搜尋聯盟計畫完成註冊後，它會顯示在聯盟推廣者的首頁。",
           "2024 年或 2025 年的推薦碼還有效嗎？2024 年結束的舊計畫的推薦碼，已和舊計畫的優惠券一起停用。在現行計畫中，推薦碼會帶你進入聯盟推廣者的頁面，頁面裡有 SHEIN 的精選商品和折扣，4CW5Y 是 Cecília 目前的推薦碼。",
-          "使用推薦碼需要新建帳號嗎？不需要：我們檢查時，即使沒有登入，搜尋也能開啟頁面。僅限新用戶的優惠如果有，會在活動中標明。",
+          "使用推薦碼需要新建帳號嗎？不需要：即使沒有登入，搜尋也能開啟頁面。僅限新用戶的優惠如果有，會在活動中標明。",
           "推薦碼可以在電腦上使用嗎？可以：直接開啟 SHEIN 網站，或透過 Cecília 的連結開啟，然後在那裡搜尋 4CW5Y。本攻略展示的是手機上的網站。"
         ]
       }
@@ -65561,7 +65561,7 @@ export const reviewsData: unknown[] = [
           "推荐码和优惠券是一回事吗？不是。据 SHEIN 说明，推荐码要填在搜索框里，而不是当作优惠券使用。",
           "怎么知道我自己的 SHEIN 推荐码？推荐码来自 SHEIN 的联盟计划。在应用中搜索联盟计划完成注册后，它会显示在联盟推广者的首页。",
           "2024 年或 2025 年的推荐码还有效吗？2024 年结束的旧计划的推荐码，已和旧计划的优惠券一起停用。在现行计划中，推荐码会带你进入联盟推广者的页面，页面里有 SHEIN 的精选商品和折扣，4CW5Y 是 Cecília 目前的推荐码。",
-          "使用推荐码需要新建账号吗？不需要：我们检查时，即使没有登录，搜索也能打开页面。仅限新用户的优惠如果有，会在活动中标明。",
+          "使用推荐码需要新建账号吗？不需要：即使没有登录，搜索也能打开页面。仅限新用户的优惠如果有，会在活动中标明。",
           "推荐码可以在电脑上使用吗？可以：直接打开 SHEIN 网站，或通过 Cecília 的链接打开，然后在那里搜索 4CW5Y。本攻略展示的是手机上的网站。"
         ]
       }
@@ -65618,7 +65618,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui era Boa na última consulta. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um e o que conferir antes de pagar."
+          "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui estava Boa em setembro. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um e o que conferir antes de pagar."
         ]
       },
       {
@@ -65657,7 +65657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10. Os números abaixo são dos seis meses até 30 de setembro de 2026, consultados em 28/10/2026. É uma fotografia desse período, não a nota de hoje."
+          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10. Os números abaixo são dos seis meses até 30 de setembro de 2026. É uma fotografia desse período, não a nota de hoje."
         ],
         "comparisonTable": {
           "caption": "Perfil da SHEIN no Reclame Aqui, na janela de seis meses descrita acima; as duas últimas linhas são dos últimos três anos.",
@@ -65780,11 +65780,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui na janela consultada; os números estão no quadro acima.",
+          "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui na janela de seis meses; os números estão no quadro acima.",
           "É seguro comprar na SHEIN com cartão de crédito? A SHEIN aceita cartão brasileiro em até 6 vezes e diz que não coleta o número do cartão internacional. Compre só pelo site oficial ou pelo aplicativo.",
           "A SHEIN é de que país? A SHEIN nasceu na China e tem sede em Singapura, segundo o Financial Times; em 2026, o fundador disse que as raízes da empresa estão em Guangdong, segundo a BBC e o The Straits Times. No Brasil, quem opera a loja é a In Glow Brasil.",
           "O que a SHEIN vende? Roupa feminina, masculina e infantil, sapatos, bolsas, joias, beleza, casa e decoração, eletrônicos, brinquedos, itens para pets e até alimentos. Parte é da marca SHEIN, e parte vem de outros fornecedores.",
-          "A SHEIN tem Reclame Aqui? Tem, com reputação \"Boa\" na janela consultada; os números estão no quadro 'O que o Reclame Aqui mostra', acima.",
+          "A SHEIN tem Reclame Aqui? Tem, com reputação \"Boa\" na janela de seis meses; os números estão no quadro 'O que o Reclame Aqui mostra', acima.",
           "Quanto tempo demora a entrega da SHEIN no Brasil? O pedido internacional leva de 3 a 5 dias para ser processado, e o prazo de entrega aparece na página do pedido.",
           "A SHEIN cobra taxa? Toda compra internacional paga ICMS de 17% a 20%, e o imposto de importação é zero nos pedidos de até US$ 50. A tabela e o exemplo de cálculo estão no guia de Black Friday da SHEIN.",
           "O que fazer se o pedido da SHEIN não chegar? Fale com o atendimento em até 90 dias do pagamento. Se o pedido aparece como entregue e não chegou, o prazo é de 60 dias a partir da entrega.",
@@ -65915,7 +65915,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Returns and import tax",
         "paragraphs": [
-          "Sources: the privacy and returns policies of the SHEIN sites in the US and the UK, read on October 12, 2026. Policies change, so check the current text on the site before you buy."
+          "Sources: the privacy and returns policies of the SHEIN sites in the US and the UK, as of October 12, 2026. Policies change, so check the current text on the site before you buy."
         ],
         "bullets": [
           "**United States (us.shein.com):** returns within 30 days of delivery.",
@@ -66094,7 +66094,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Devoluciones y aduana",
         "paragraphs": [
-          "Fuentes: las políticas de privacidad y de devolución de los sitios de SHEIN de España y México, leídas el 12/10/2026."
+          "Fuentes: las políticas de privacidad y de devolución de los sitios de SHEIN de España y México, vigentes al 12/10/2026."
         ],
         "bullets": [
           "**España (es.shein.com):** derecho de desistimiento de 14 días por ley, contados desde la recepción. Según la política comercial de SHEIN, la mayoría de los artículos puede devolverse hasta 30 días después de recibirlos. Algunos artículos, como lencería, ropa interior y bisutería, solo se devuelven dentro de esos 14 días.",
@@ -66262,7 +66262,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Retours et douane",
         "paragraphs": [
-          "Sources : la politique de confidentialité et la politique de retour du site SHEIN France, consultées le 12/10/2026."
+          "Sources : la politique de confidentialité et la politique de retour du site SHEIN France, versions du 12/10/2026."
         ],
         "bullets": [
           "**France (fr.shein.com) :** droit de rétractation légal de 14 jours, à compter de la réception. Selon la politique commerciale de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception. Certains articles, comme la lingerie, les sous-vêtements et les bijoux fantaisie, ne se retournent que dans ces 14 jours."
@@ -66389,7 +66389,7 @@ export const reviewsData: unknown[] = [
         "heading": "Wer SHEIN betreibt und woher es kommt",
         "paragraphs": [
           "SHEIN beschreibt sich als globalen Online-Händler für Mode und Lifestyle. Nach eigener Aussage produziert SHEIN bedarfsgesteuert („on demand“) in kleinen Chargen. Jeder Markt hat seine eigene Website, und die Datenschutzerklärung jeder Website nennt das verantwortliche Unternehmen.",
-          "Laut der Datenschutzerklärung von de.shein.com (eingesehen am 12.10.2026) betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website für Deutschland. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
+          "Laut der Datenschutzerklärung von de.shein.com (Stand: 12.10.2026) betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website für Deutschland. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
           "Laut Financial Times ist SHEIN in China entstanden. 2026 sagte der Gründer, Xu Yangtian, bei einer Veranstaltung der Regierung der Provinz Guangdong, die Provinz sei der Ort, an dem die Wurzeln von SHEIN liegen, wie BBC und The Straits Times berichten. Alle drei Berichte halten fest, dass der Firmensitz in Singapur liegt."
         ],
         "image": {
@@ -66428,7 +66428,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Rückgabe und Zoll",
         "paragraphs": [
-          "Für Bestellungen über de.shein.com beträgt das gesetzliche Widerrufsrecht 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden. Einige Artikel, zum Beispiel Lingerie, Unterwäsche und Modeschmuck, können nur innerhalb der 14 Tage zurückgegeben werden. Quelle: Rückgaberichtlinie der SHEIN-Website für Deutschland, eingesehen am 12.10.2026.",
+          "Für Bestellungen über de.shein.com beträgt das gesetzliche Widerrufsrecht 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden. Einige Artikel, zum Beispiel Lingerie, Unterwäsche und Modeschmuck, können nur innerhalb der 14 Tage zurückgegeben werden. Quelle: Rückgaberichtlinie der SHEIN-Website für Deutschland, Stand 12.10.2026.",
           "Beim Zoll gilt seit dem 1. Juli 2026 eine EU-Regel: Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen."
         ]
       },
@@ -66550,7 +66550,7 @@ export const reviewsData: unknown[] = [
         "heading": "Chi gestisce SHEIN e da dove viene",
         "paragraphs": [
           "SHEIN si descrive come un rivenditore online globale di moda e lifestyle. Dice di produrre su richiesta, in piccoli lotti. Ogni mercato ha il suo sito, e l'informativa sulla privacy di ciascuno indica l'azienda responsabile.",
-          "Per l'Italia, secondo l'informativa sulla privacy di it.shein.com (consultata il 12/10/2026), il sito è gestito da Infinite Styles Services Co., Limited («ISSL»). Il sito del gruppo, sheingroup.com, è di Roadget Business Pte. Ltd., di Singapore.",
+          "Per l'Italia, secondo l'informativa sulla privacy di it.shein.com (versione del 12/10/2026), il sito è gestito da Infinite Styles Services Co., Limited («ISSL»). Il sito del gruppo, sheingroup.com, è di Roadget Business Pte. Ltd., di Singapore.",
           "Secondo il Financial Times, SHEIN è nata in Cina. Nel 2026, a un evento del governo del Guangdong, il fondatore, Xu Yangtian, ha detto che la provincia è dove si trovano le radici di SHEIN, secondo la BBC e The Straits Times. Tutti e tre i resoconti riportano che la sede dell'azienda è a Singapore."
         ],
         "image": {
@@ -66589,7 +66589,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reso e dogana",
         "paragraphs": [
-          "Per gli ordini su it.shein.com il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento. Alcuni articoli, come lingerie, intimo e bigiotteria, si possono restituire solo entro i 14 giorni. Fonte: politica di reso del sito di SHEIN per l'Italia, consultata il 12/10/2026.",
+          "Per gli ordini su it.shein.com il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento. Alcuni articoli, come lingerie, intimo e bigiotteria, si possono restituire solo entro i 14 giorni. Fonte: politica di reso del sito di SHEIN per l'Italia, versione del 12/10/2026.",
           "Per la dogana vale una regola UE in vigore dal 1° luglio 2026: l'UE applica un dazio doganale di 3 € per categoria di prodotto sui pacchi di valore inferiore a 150 € spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare."
         ]
       },
@@ -66724,7 +66724,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN에서 파는 상품",
         "paragraphs": [
-          "SHEIN은 옷만 파는 곳이 아닙니다. SHEIN 브랜드 상품도 있고, 전 세계 공급업체 네트워크에서 오는 상품도 있습니다. 2026년 10월 13일에 확인한 kr.shein.com 메뉴에는 다음 카테고리가 있었습니다."
+          "SHEIN은 옷만 파는 곳이 아닙니다. SHEIN 브랜드 상품도 있고, 전 세계 공급업체 네트워크에서 오는 상품도 있습니다. 2026년 10월 13일 기준 kr.shein.com 메뉴에는 다음 카테고리가 있습니다."
         ],
         "bullets": [
           "여성의류, 남성복, 여성 플러스 의류, 속옷 & 잠옷.",
@@ -66745,7 +66745,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "반품 기한과 세금 확인",
         "paragraphs": [
-          "kr.shein.com의 반품 정책에 따르면 반품은 수령 후 60일 이내에 할 수 있습니다. 출처: kr.shein.com의 개인정보 처리방침과 반품 정책, 2026년 10월 12일 확인.",
+          "kr.shein.com의 반품 정책에 따르면 반품은 수령 후 60일 이내에 할 수 있습니다. 출처: kr.shein.com의 개인정보 처리방침과 반품 정책, 2026년 10월 12일 기준.",
           "수입 세금은 나라에 따라 다릅니다. 결제 전에 결제 화면에서 총액과 세금을 확인하세요."
         ]
       },
@@ -66895,7 +66895,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "返品と関税",
         "paragraphs": [
-          "この記事の運営会社と返品期限は、jp.shein.com のプライバシーポリシーと返品ポリシーによるもので、2026年10月12日に確認しました。関税のルールは、税関（Japan Customs）のカスタムスアンサー1006によるもので、同じ日に確認しました。",
+          "この記事の運営会社と返品期限は、jp.shein.com のプライバシーポリシーと返品ポリシーによるもので、2026年10月12日時点の内容です。関税のルールは、税関（Japan Customs）のカスタムスアンサー1006によるもので、同じ日時点の内容です。",
           "日本のサイトの返品期限は、条件を満たす新品のほとんどの商品で、購入日から40日以内です。対象外の商品もあるため、最新の返品ポリシーで確認してください。",
           "税関によると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、免税にならない物品が定められていて、主なものは、革製のカバン、ハンドバッグ、手袋など、編物製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴の底）が革製の履物類などです。輸入にかかる税金や手数料は、支払う前にチェックアウトで確認してください。"
         ]
@@ -67046,7 +67046,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "退貨與進口稅",
         "paragraphs": [
-          "本文的營運公司與退貨期限，取自 SHEIN 台灣站（shein.tw）的隱私權政策與退貨政策（2026 年 10 月 12 日查閱）。",
+          "本文的營運公司與退貨期限，取自 SHEIN 台灣站（shein.tw）的隱私權政策與退貨政策（截至 2026 年 10 月 12 日）。",
           "台灣站的退貨期限是收到商品後 15 天內。",
           "進口稅依收件地而異，付款前請在結帳頁面確認總金額是否已包含進口稅。"
         ]
@@ -67196,7 +67196,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "退货与进口税",
         "paragraphs": [
-          "本文的运营公司取自 SHEIN 新加坡站（sg.shein.com）的隐私政策（2026 年 10 月 12 日查阅）。新加坡站的退货政策本文未查阅，所以这里不给出退货天数。",
+          "本文的运营公司取自 SHEIN 新加坡站（sg.shein.com）的隐私政策（截至 2026 年 10 月 12 日）。本文不给出退货天数，请以新加坡站的退货政策为准。",
           "请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算（收到商品、送达，还是下单），并看看有没有期限更短的商品。",
           "进口税依收货地而异，付款前请在结账页面确认总金额是否已包含进口税。"
         ]
@@ -67242,7 +67242,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 是哪个国家的公司？ 据《金融时报》报道，SHEIN 诞生于中国，总部位于新加坡。2026 年，创始人表示 SHEIN 的根在广东，这是 BBC 与《海峡时报》的报道。",
           "SHEIN 卖什么？ 有女装、男装、童装、鞋子、包袋、珠宝配饰、美妆、家居用品、电子产品、玩具和宠物用品等。部分是 SHEIN 品牌，部分来自其他供应商。",
           "SHEIN 新加坡站由谁运营？ 根据 sg.shein.com 的隐私政策，是 Fashion Choice Pte. Ltd.。",
-          "SHEIN 新加坡站的退货期限是多久？ 新加坡站的退货政策本文未查阅，所以不给出天数。请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。",
+          "SHEIN 新加坡站的退货期限是多久？ 本文不给出天数。请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。",
           "怎么确认 SHEIN 的网站是官方的？ 新加坡站的网址是 sg.shein.com。App 请使用从手机官方应用商店下载的 SHEIN App。",
           "4CW5Y 是优惠券吗？ 不是，它是 Cecília 的 SHEIN 推荐码，但用它有优惠：通过她的链接打开 SHEIN，再复制代码在 App 或网站里搜索，会进入精选商品、促销和折扣的页面。优惠多少、涵盖哪些商品由 SHEIN 决定。"
         ]
@@ -67313,7 +67313,7 @@ export const reviewsData: unknown[] = [
           "Os números vêm das regras que cada loja publica no Brasil e do Reclame Aqui, nos seis meses indicados na tabela de reputação. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
         ],
         "comparisonTable": {
-          "caption": "Frete, prazo, devolução, imposto e Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress no Brasil, conferidos em 13/10/2026.",
+          "caption": "Frete, prazo, devolução, imposto e Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress no Brasil, em 13/10/2026.",
           "headers": [
             "Critério",
             "SHEIN",
@@ -67533,7 +67533,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Este artigo é editorial. Podemos receber comissão pelos links da SHEIN, da Shopee, da Temu e do AliExpress.",
+    "editorialNote": "Este artigo é editorial. Podemos receber comissão pelos links da SHEIN, da Shopee, da Temu e do AliExpress. Ninguém da equipe usou os produtos.",
     "relatedArticles": [
       {
         "slug": "shein-e-confiavel"
@@ -67588,7 +67588,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN and Temu side by side in the UK",
         "paragraphs": [
           "What separates the two is returns and delivery time: the table brings together what each store publishes in the UK.",
-          "Sources, checked on October 12 and 13, 2026: the privacy, shipping and returns pages of SHEIN's UK site, and Temu's shipping and returns pages for the UK."
+          "Sources, as of October 12 and 13, 2026: the privacy, shipping and returns pages of SHEIN's UK site, and Temu's shipping and returns pages for the UK."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
@@ -67597,7 +67597,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain"
         },
         "comparisonTable": {
-          "caption": "Shipping, delivery time and returns published by SHEIN and Temu for the United Kingdom, checked on October 12 and 13, 2026.",
+          "caption": "Shipping, delivery time and returns published by SHEIN and Temu for the United Kingdom, as of October 12 and 13, 2026.",
           "headers": [
             "Criterion",
             "SHEIN",
@@ -67690,7 +67690,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN or Temu: which should I choose? It depends on what you are buying and how much being able to return it matters: Temu gives 90 days from purchase, and SHEIN takes most items back up to 30 days after receipt.",
           "Which is cheaper, SHEIN or Temu? This article does not measure prices. Compare the final price of each item, with shipping and taxes, when you pay at each store.",
-          "Which arrives faster, SHEIN or Temu? In the UK, SHEIN publishes 5 to 8 working days for Standard delivery, and Temu 6 to 13 working days (processing takes 1 to 3 days). This article does not test deliveries: check the date on the product page and in your order.",
+          "Which arrives faster, SHEIN or Temu? In the UK, SHEIN publishes 5 to 8 working days for Standard delivery, and Temu 6 to 13 working days (processing takes 1 to 3 days). Check the date on the product page and in your order.",
           "SHEIN or Temu: what is the difference? Temu publishes the longer window, 90 days counted from purchase, while SHEIN takes most items back up to 30 days after receipt, so the two count from different points; shipping and delivery times are in the table above.",
           "SHEIN or Temu for clothes? Check whether the item is returnable, the deadline and the return cost. In the UK table, Temu counts its 90 days from purchase; SHEIN counts up to 30 days from receipt for most items, with lingerie, underwear and costume jewelry only within the 14 days.",
           "Do SHEIN and Temu charge import tax? Import tax depends on the country. On its UK site, SHEIN says customers in the UK do not need to deal with customs. Before you pay, check at each store's checkout whether the total includes taxes.",
@@ -67707,7 +67707,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "This article is editorial. We may earn a commission on SHEIN and Temu links.",
+    "editorialNote": "This article is editorial. We may earn a commission on SHEIN and Temu links. No one on the team used the products.",
     "relatedArticles": [
       {
         "slug": "is-shein-legit-and-safe"
@@ -67770,7 +67770,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN y Temu lado a lado en España",
         "paragraphs": [
           "Lo que separa a las dos es la devolución y el plazo: las tablas reúnen lo que cada tienda publica en España y en México.",
-          "Fuentes de España, consultadas el 12 y el 13 de octubre de 2026: las políticas de privacidad, de envío y de devolución del sitio de SHEIN en España, y las páginas de envío y devolución de Temu para España."
+          "Fuentes de España, a 12 y 13 de octubre de 2026: las políticas de privacidad, de envío y de devolución del sitio de SHEIN en España, y las páginas de envío y devolución de Temu para España."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
@@ -67779,7 +67779,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain"
         },
         "comparisonTable": {
-          "caption": "Envío, plazo de entrega y devolución que publican SHEIN y Temu para España, consultados el 12 y el 13 de octubre de 2026.",
+          "caption": "Envío, plazo de entrega y devolución que publican SHEIN y Temu para España, a 12 y 13 de octubre de 2026.",
           "headers": [
             "Criterio",
             "SHEIN",
@@ -67807,10 +67807,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN y Temu lado a lado en México",
         "paragraphs": [
-          "Fuentes de México, consultadas el 12 y el 13 de octubre de 2026: las páginas de envío y devolución del sitio de SHEIN en México (shein.com.mx) y las de Temu para México."
+          "Fuentes de México, a 12 y 13 de octubre de 2026: las páginas de envío y devolución del sitio de SHEIN en México (shein.com.mx) y las de Temu para México."
         ],
         "comparisonTable": {
-          "caption": "Envío, plazo de entrega y devolución que publican SHEIN y Temu para México, consultados el 12 y el 13 de octubre de 2026.",
+          "caption": "Envío, plazo de entrega y devolución que publican SHEIN y Temu para México, a 12 y 13 de octubre de 2026.",
           "headers": [
             "Criterio",
             "SHEIN",
@@ -67904,7 +67904,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿SHEIN o Temu: cuál elijo? Depende de lo que vayas a comprar y de cuánto te importe poder devolverlo: Temu da 90 días desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos.",
           "¿Cuál es más barato, SHEIN o Temu? Este artículo no mide precios. Compara el precio final de cada artículo, con envío e impuestos, a la hora de pagar en cada tienda.",
-          "¿Cuál llega más rápido, SHEIN o Temu? Este artículo no prueba entregas. En España, SHEIN publica de 8 a 11 días laborables para el envío estándar y Temu muestra el plazo en la página del producto. En México, Temu publica de 4 a 28 días hábiles para el envío estándar. Revisa la fecha en la página del producto y en tu pedido.",
+          "¿Cuál llega más rápido, SHEIN o Temu? En España, SHEIN publica de 8 a 11 días laborables para el envío estándar y Temu muestra el plazo en la página del producto. En México, Temu publica de 4 a 28 días hábiles para el envío estándar. Revisa la fecha en la página del producto y en tu pedido.",
           "¿SHEIN o Temu: cuál es la diferencia? Temu publica el plazo más largo, 90 días contados desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos, así que cada una cuenta desde un punto distinto; el envío y los plazos de entrega están en las tablas de arriba.",
           "¿SHEIN o Temu para ropa? Confirma si la prenda admite devolución, hasta cuándo y a qué costo. Temu da 90 días desde la compra y SHEIN hasta 30 días después de recibirlos, en la mayoría de los artículos; la lencería, la ropa interior y la bisutería de SHEIN, solo dentro de los 14 días en España.",
           "¿SHEIN y Temu pagan aduana? En España, la UE aplica 3 € por categoría de producto a los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe así, por lo que la aduana no decide entre SHEIN y Temu.",
@@ -67921,7 +67921,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Este artículo es editorial. Podemos recibir comisión por los enlaces de SHEIN y Temu.",
+    "editorialNote": "Este artículo es editorial. Podemos recibir comisión por los enlaces de SHEIN y Temu. Nadie del equipo usó los productos.",
     "relatedArticles": [
       {
         "slug": "shein-es-confiable-y-seguro"
@@ -67984,7 +67984,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN et Temu côte à côte en France",
         "paragraphs": [
           "Ce qui sépare les deux, c'est le retour et le délai : le tableau réunit ce que chaque boutique publie en France.",
-          "Sources, consultées les 12 et 13 octobre 2026 : les pages de confidentialité, de livraison et de retour du site de SHEIN en France, et les pages de livraison et de retour de Temu pour la France."
+          "Sources, en date des 12 et 13 octobre 2026 : les pages de confidentialité, de livraison et de retour du site de SHEIN en France, et les pages de livraison et de retour de Temu pour la France."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-home-fr-2026-10-12.webp",
@@ -67993,7 +67993,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain"
         },
         "comparisonTable": {
-          "caption": "Livraison, délai et retours publiés par SHEIN et Temu pour la France, consultés les 12 et 13 octobre 2026.",
+          "caption": "Livraison, délai et retours publiés par SHEIN et Temu pour la France, en date des 12 et 13 octobre 2026.",
           "headers": [
             "Critère",
             "SHEIN",
@@ -68087,7 +68087,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN ou Temu : lequel choisir ? Cela dépend de ce que vous achetez et de l'importance du retour : Temu laisse 90 jours après l'achat, et SHEIN reprend la plupart des articles jusqu'à 30 jours après réception.",
           "Lequel est le moins cher, SHEIN ou Temu ? Cet article ne mesure pas les prix. Comparez le prix final de chaque article, avec la livraison et les taxes, au moment de payer dans chaque boutique.",
-          "Lequel livre le plus vite, SHEIN ou Temu ? Cet article ne teste pas les livraisons. SHEIN publie 4 à 8 jours ouvrés pour la livraison Standard ; Temu indique le délai sur la page du produit (préparation en 1 à 3 jours). Vérifiez la date sur la page du produit et dans votre commande.",
+          "Lequel livre le plus vite, SHEIN ou Temu ? SHEIN publie 4 à 8 jours ouvrés pour la livraison Standard ; Temu indique le délai sur la page du produit (préparation en 1 à 3 jours). Vérifiez la date sur la page du produit et dans votre commande.",
           "SHEIN ou Temu : quelle différence ? Temu publie le délai le plus long, 90 jours après l'achat, tandis que SHEIN reprend la plupart des articles jusqu'à 30 jours après réception, donc les deux ne comptent pas à partir du même moment ; la livraison et les délais figurent dans le tableau ci-dessus.",
           "SHEIN ou Temu pour des vêtements ? Vérifiez si l'article peut être retourné, jusqu'à quand et à quels frais. Temu laisse 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception, pour la plupart des articles ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
           "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
@@ -68104,7 +68104,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Cet article est éditorial. Nous pouvons toucher une commission sur les liens SHEIN et Temu.",
+    "editorialNote": "Cet article est éditorial. Nous pouvons toucher une commission sur les liens SHEIN et Temu. Personne de l'équipe n'a utilisé les produits.",
     "relatedArticles": [
       {
         "slug": "shein-est-il-fiable-et-sur"
@@ -68167,7 +68167,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN und Temu im Vergleich für Deutschland",
         "paragraphs": [
           "Was die beiden trennt, sind Rückgabe und Lieferzeit: Die Tabelle fasst zusammen, was jeder Shop für Deutschland veröffentlicht.",
-          "Quellen, abgerufen am 12. und 13.10.2026: Datenschutzerklärung sowie die Seiten zu Versand und Rückgabe der SHEIN-Website für Deutschland und die Seiten von Temu zu Versand und Rückgabe für Deutschland."
+          "Quellen, Stand 12. und 13.10.2026: Datenschutzerklärung sowie die Seiten zu Versand und Rückgabe der SHEIN-Website für Deutschland und die Seiten von Temu zu Versand und Rückgabe für Deutschland."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-home-de-2026-10-12.webp",
@@ -68176,7 +68176,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain"
         },
         "comparisonTable": {
-          "caption": "Versand, Lieferzeit und Rückgabe, wie SHEIN und Temu sie für Deutschland veröffentlichen, abgerufen am 12. und 13.10.2026.",
+          "caption": "Versand, Lieferzeit und Rückgabe, wie SHEIN und Temu sie für Deutschland veröffentlichen, Stand 12. und 13.10.2026.",
           "headers": [
             "Kriterium",
             "SHEIN",
@@ -68270,7 +68270,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN oder Temu: Was passt besser? Das hängt davon ab, was Sie kaufen und wie wichtig Ihnen die Rückgabe ist: Temu gibt 90 Tage ab Kauf, und SHEIN nimmt die meisten Artikel bis zu 30 Tage nach Erhalt zurück.",
           "Was ist günstiger, SHEIN oder Temu? Preise vergleichen wir in diesem Artikel nicht. Vergleichen Sie an der Kasse den Endpreis jedes Artikels mit Versand und Steuern.",
-          "Wer liefert schneller, SHEIN oder Temu? Lieferungen testen wir nicht. SHEIN zeigt bei Standard das Ankunftsdatum an; Temu zeigt die Zeit auf der Produktseite (Bearbeitung in 1 bis 3 Tagen). Prüfen Sie das Datum auf der Produktseite und in Ihrer Bestellung.",
+          "Wer liefert schneller, SHEIN oder Temu? SHEIN zeigt bei Standard das Ankunftsdatum an; Temu zeigt die Zeit auf der Produktseite (Bearbeitung in 1 bis 3 Tagen). Prüfen Sie das Datum auf der Produktseite und in Ihrer Bestellung.",
           "SHEIN oder Temu: Was ist der Unterschied? Temu nennt die längere Frist, 90 Tage ab Kauf, während SHEIN die meisten Artikel bis zu 30 Tage nach Erhalt zurücknimmt, die beiden Fristen beginnen also zu unterschiedlichen Zeitpunkten; Versand und Lieferzeiten stehen in der Tabelle oben.",
           "SHEIN oder Temu für Kleidung? Prüfen Sie, ob der Artikel zurückgegeben werden kann, bis wann und zu welchen Kosten. Temu gibt 90 Tage ab Kauf und SHEIN bis zu 30 Tage nach Erhalt, bei den meisten Artikeln; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
           "Zahlen SHEIN und Temu Zoll? Die EU erhebt 3 € pro Warenkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der so liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
@@ -68287,7 +68287,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Dieser Artikel ist redaktionell. Über die Links zu SHEIN und Temu erhalten wir möglicherweise eine Provision.",
+    "editorialNote": "Dieser Artikel ist redaktionell. Über die Links zu SHEIN und Temu erhalten wir möglicherweise eine Provision. Niemand aus dem Team hat die Produkte genutzt.",
     "relatedArticles": [
       {
         "slug": "ist-shein-serioes-und-sicher"
@@ -68350,7 +68350,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN e Temu a confronto in Italia",
         "paragraphs": [
           "Ciò che separa i due è il reso e il tempo di consegna: la tabella raccoglie ciò che ogni negozio pubblica in Italia.",
-          "Fonti, consultate il 12 e il 13 ottobre 2026: informativa sulla privacy e pagine su spedizione e resi del sito SHEIN per l'Italia, e pagine su spedizione e resi di Temu per l'Italia."
+          "Fonti, al 12 e 13 ottobre 2026: informativa sulla privacy e pagine su spedizione e resi del sito SHEIN per l'Italia, e pagine su spedizione e resi di Temu per l'Italia."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
@@ -68359,7 +68359,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain"
         },
         "comparisonTable": {
-          "caption": "Spedizione, tempi di consegna e resi pubblicati da SHEIN e Temu per l'Italia, consultati il 12 e il 13 ottobre 2026.",
+          "caption": "Spedizione, tempi di consegna e resi pubblicati da SHEIN e Temu per l'Italia, al 12 e 13 ottobre 2026.",
           "headers": [
             "Criterio",
             "SHEIN",
@@ -68453,7 +68453,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN o Temu: quale scegliere? Dipende da cosa compri e da quanto conta poter restituire: Temu dà 90 giorni dall'acquisto, e SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento.",
           "Quale costa meno, SHEIN o Temu? In questo articolo non misuriamo i prezzi. Confronta al checkout il prezzo finale di ogni articolo, con spedizione e imposte.",
-          "Quale consegna più in fretta, SHEIN o Temu? Le consegne non le testiamo. SHEIN pubblica 6-12 giorni lavorativi per la spedizione Standard; Temu mostra il tempo nella pagina del prodotto (preparazione in 1-3 giorni). Controlla la data nella pagina del prodotto e nell'ordine.",
+          "Quale consegna più in fretta, SHEIN o Temu? SHEIN pubblica 6-12 giorni lavorativi per la spedizione Standard; Temu mostra il tempo nella pagina del prodotto (preparazione in 1-3 giorni). Controlla la data nella pagina del prodotto e nell'ordine.",
           "SHEIN o Temu: qual è la differenza? Temu pubblica il termine più lungo, 90 giorni contati dall'acquisto, mentre SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento, quindi i due conteggi partono da punti diversi; spedizione e tempi di consegna sono nella tabella qui sopra.",
           "SHEIN o Temu per i vestiti? Verifica se il capo è restituibile, entro quando e a quale costo. Temu dà 90 giorni dall'acquisto e SHEIN fino a 30 giorni dal ricevimento, per la maggior parte degli articoli; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
           "SHEIN e Temu pagano la dogana? L'UE applica 3 euro per categoria di prodotto sugli ordini inferiori a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
@@ -68470,7 +68470,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Articolo editoriale. Possiamo ricevere una commissione sugli acquisti fatti con i link di SHEIN e Temu.",
+    "editorialNote": "Articolo editoriale. Possiamo ricevere una commissione sugli acquisti fatti con i link di SHEIN e Temu. Nessuno del team ha usato i prodotti.",
     "relatedArticles": [
       {
         "slug": "shein-e-affidabile-e-sicuro"
@@ -68542,7 +68542,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain"
         },
         "comparisonTable": {
-          "caption": "SHEIN과 테무가 한국에 공개한 배송비, 배송 기간, 반품 (2026년 10월 12일·13일 확인)",
+          "caption": "SHEIN과 테무가 한국에 공개한 배송비, 배송 기간, 반품 (2026년 10월 12일·13일 기준)",
           "headers": [
             "항목",
             "SHEIN",
@@ -68632,7 +68632,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN과 테무 중 어디가 더 나은가요? 모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지, 언제까지 받아야 하는지에 따라 고르세요.",
           "SHEIN과 테무 중 어디가 더 저렴한가요? 이 글은 가격을 비교하지 않습니다. 결제 화면에서 배송비와 세금을 포함한 최종 금액을 쇼핑몰별로 비교하세요.",
-          "SHEIN과 테무 중 어디가 더 빨리 도착하나요? 이 글은 배송을 테스트하지 않았습니다. SHEIN은 이코노믹 배송 3~5영업일(처리 1~3일), 테무는 일반 배송 6~11일을 안내합니다.",
+          "SHEIN과 테무 중 어디가 더 빨리 도착하나요? SHEIN은 이코노믹 배송 3~5영업일(처리 1~3일), 테무는 일반 배송 6~11일을 안내합니다.",
           "SHEIN과 테무는 무엇이 다른가요? 가장 큰 차이는 반품 기한과 기산점입니다. 테무는 구매 후 90일, SHEIN은 수령 후 60일부터 세며, 일수만으로 고를 수는 없습니다. 배송비와 배송 기간은 위 표에 있습니다.",
           "SHEIN과 테무는 같은 회사인가요? 아니요. 서로 다른 쇼핑몰이며, 배송비·배송 기간·반품 규정이 각각 따로 있습니다.",
           "SHEIN과 테무는 얼마 동안 반품할 수 있나요? SHEIN은 수령 후 60일 이내, 테무는 구매 후 90일 이내입니다. 테무는 같은 주문의 첫 반품은 무료이고, 두 번째 반품부터 배송비 2,500원을 공제합니다.",
@@ -68649,7 +68649,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "이 글은 편집 콘텐츠입니다. SHEIN과 테무 링크로 구매하면 수수료를 받을 수 있습니다.",
+    "editorialNote": "이 글은 편집 콘텐츠입니다. SHEIN과 테무 링크로 구매하면 수수료를 받을 수 있습니다. 팀원 누구도 제품을 사용하지 않았습니다.",
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-ko"
@@ -68722,7 +68722,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.8605
         },
         "comparisonTable": {
-          "caption": "SHEIN と Temu が日本向けに公表している送料、お届け日数、返品（2026年10月12日・13日に確認）",
+          "caption": "SHEIN と Temu が日本向けに公表している送料、お届け日数、返品（2026年10月12日・13日時点）",
           "headers": [
             "項目",
             "SHEIN",
@@ -68819,7 +68819,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN と Temu はどちらがいいですか？ すべての人に合うお店はありません。何を買うか、返品できることをどれだけ大事にするか、いつまでに受け取りたいかで選びましょう。",
           "SHEIN と Temu はどちらが安いですか？ この記事は価格を比べていません。支払うときに、お店ごとの支払い画面で、送料と税金を含めた合計金額を比べてください。",
-          "SHEIN と Temu はどちらが早く届きますか？ この記事では配送を試していません。SHEIN はお急ぎ便のお届け予定を注文ページに表示し、Temu は通常配送で5〜14日（処理は1〜3日）と公表しています。送料とお届け日数は上の表にまとめました。",
+          "SHEIN と Temu はどちらが早く届きますか？ SHEIN はお急ぎ便のお届け予定を注文ページに表示し、Temu は通常配送で5〜14日（処理は1〜3日）と公表しています。送料とお届け日数は上の表にまとめました。",
           "SHEIN と Temu の違いは何ですか？ いちばん違うのは返品期限です。Temu は購入日から90日以内、SHEIN は購入から40日以内です。日数だけでは選べないので、その商品の返品条件と期限を比べましょう。送料とお届け日数は上の表のとおりです。",
           "SHEIN と Temu は同じ会社ですか？ いいえ。別々のお店で、送料、お届け日数、返品のルールもそれぞれ違います。",
           "SHEIN と Temu の返品期限はいつまでですか？ SHEIN は購入から40日以内（対象外の商品あり）、Temu は購入日から90日以内（対象商品の場合）です。Temu は同じ注文の1回目の返品が無料で、2回目以降は送料550円が返金額から差し引かれます。",
@@ -68836,7 +68836,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "この記事は編集コンテンツです。SHEIN と Temu のリンクから購入された場合、報酬を受け取ることがあります。",
+    "editorialNote": "この記事は編集コンテンツです。SHEIN と Temu のリンクから購入された場合、報酬を受け取ることがあります。スタッフは誰も商品を使っていません。",
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-ja"
@@ -68874,7 +68874,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 還是 Temu？比較兩家平台在新加坡和馬來西亞公布的運費、配送時間與退貨規則，以及依購物需求怎麼選、購買前要確認什麼。這篇文章不比較價格，也沒有測試配送。",
+    "description": "SHEIN 還是 Temu？比較兩家平台在新加坡和馬來西亞公布的運費、配送時間與退貨規則，以及依購物需求怎麼選、購買前要確認什麼。這篇文章不比較價格。",
     "metaDescription": "SHEIN 還是 Temu？比較兩家平台在新加坡與馬來西亞公布的運費、時效與退貨，以及依購物需求怎麼選。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
@@ -68909,7 +68909,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "SHEIN 和 Temu 在新加坡公布的運費、時效與退貨（2026 年 10 月 12 日和 13 日查閱）",
+          "caption": "SHEIN 和 Temu 在新加坡公布的運費、時效與退貨（截至 2026 年 10 月 12 日和 13 日）",
           "headers": [
             "項目",
             "SHEIN",
@@ -68940,7 +68940,7 @@ export const reviewsData: unknown[] = [
           "出處：SHEIN 馬來西亞站（my.shein.com）的運送與退貨頁面，以及 Temu 針對馬來西亞的運送與退貨頁面。"
         ],
         "comparisonTable": {
-          "caption": "SHEIN 和 Temu 在馬來西亞公布的運費、時效與退貨（2026 年 10 月 12 日和 13 日查閱）",
+          "caption": "SHEIN 和 Temu 在馬來西亞公布的運費、時效與退貨（截至 2026 年 10 月 12 日和 13 日）",
           "headers": [
             "項目",
             "SHEIN",
@@ -69030,7 +69030,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 和 Temu 哪個比較好？ 沒有一家平台適合所有人。依你要買什麼、退貨對你有多重要，以及需要在哪天前收到來選。",
           "SHEIN 和 Temu 哪個比較便宜？ 這篇文章不比較價格。付款前，到各平台的結帳頁面，比較含運費與稅金的總金額。",
-          "SHEIN 和 Temu 哪個比較快到貨？ 這篇文章沒有測試配送。在新加坡，SHEIN 公布標準配送 3–5 個工作日，Temu 公布 3–6 個工作日（處理 1–3 天）；在馬來西亞，SHEIN 是 3–5 個工作日，Temu 是 4–15 個工作日（處理 1–3 天）。",
+          "SHEIN 和 Temu 哪個比較快到貨？ 在新加坡，SHEIN 公布標準配送 3–5 個工作日，Temu 公布 3–6 個工作日（處理 1–3 天）；在馬來西亞，SHEIN 是 3–5 個工作日，Temu 是 4–15 個工作日（處理 1–3 天）。",
           "SHEIN 和 Temu 有什麼差別？ 差別最大的是退貨期限與起算點：Temu 是購買後 90 天內，SHEIN 新加坡站是收到後 15 天內，馬來西亞站是 20 天內。只看天數不夠，請比較商品適用的截止日與條件；運費和時效見上面的表格。",
           "SHEIN 和 Temu 是同一家公司嗎？ 不是。它們是不同的平台，運費、時效和退貨規則各不相同。",
           "SHEIN 和 Temu 的退貨期限是多久？ SHEIN 新加坡站大多數全新商品在收到後 15 天內，馬來西亞站在收到後 20 天內；Temu 公布的是購買後 90 天內（新加坡站適用於大多數商品，服飾等部分品類另有條件，馬來西亞站以該站頁面為準），每筆訂單第一次退貨免費。",
@@ -69046,7 +69046,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "本文為編輯內容。透過本文的 SHEIN 和 Temu 連結購買，我們可能獲得傭金。",
+    "editorialNote": "本文為編輯內容。透過本文的 SHEIN 和 Temu 連結購買，我們可能獲得傭金。團隊成員沒有使用過這些商品。",
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-zh-hant"
@@ -69084,7 +69084,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 还是 Temu？对比两家平台在新加坡和马来西亚公布的运费、配送时间与退货规则，以及怎么按购物需求来选，买前要确认什么。这篇文章不比较价格，也没有测试配送。",
+    "description": "SHEIN 还是 Temu？对比两家平台在新加坡和马来西亚公布的运费、配送时间与退货规则，以及怎么按购物需求来选，买前要确认什么。这篇文章不比较价格。",
     "metaDescription": "SHEIN 还是 Temu？对比两家平台在新加坡与马来西亚公布的运费、时效与退货，以及按购物需求怎么选。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
@@ -69119,7 +69119,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "SHEIN 和 Temu 在新加坡公布的运费、时效与退货（2026 年 10 月 12 日和 13 日查阅）",
+          "caption": "SHEIN 和 Temu 在新加坡公布的运费、时效与退货（截至 2026 年 10 月 12 日和 13 日）",
           "headers": [
             "项目",
             "SHEIN",
@@ -69150,7 +69150,7 @@ export const reviewsData: unknown[] = [
           "出处：SHEIN 马来西亚站（my.shein.com）的配送与退货页面，以及 Temu 针对马来西亚的配送与退货页面。"
         ],
         "comparisonTable": {
-          "caption": "SHEIN 和 Temu 在马来西亚公布的运费、时效与退货（2026 年 10 月 12 日和 13 日查阅）",
+          "caption": "SHEIN 和 Temu 在马来西亚公布的运费、时效与退货（截至 2026 年 10 月 12 日和 13 日）",
           "headers": [
             "项目",
             "SHEIN",
@@ -69240,7 +69240,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 和 Temu 哪个更好？ 没有一家平台适合所有人。按你要买什么、退货对你有多重要，以及需要在哪天前收到来选。",
           "SHEIN 和 Temu 哪个更便宜？ 这篇文章不比较价格。付款前，到各平台的结账页面，比较含运费与税金的总金额。",
-          "SHEIN 和 Temu 哪个到货更快？ 这篇文章没有测试配送。在新加坡，SHEIN 公布标准配送 3–5 个工作日，Temu 公布 3–6 个工作日（处理 1–3 天）；在马来西亚，SHEIN 是 3–5 个工作日，Temu 是 4–15 个工作日（处理 1–3 天）。",
+          "SHEIN 和 Temu 哪个到货更快？ 在新加坡，SHEIN 公布标准配送 3–5 个工作日，Temu 公布 3–6 个工作日（处理 1–3 天）；在马来西亚，SHEIN 是 3–5 个工作日，Temu 是 4–15 个工作日（处理 1–3 天）。",
           "SHEIN 和 Temu 有什么区别？ 差别最大的是退货期限与起算点：Temu 是购买后 90 天内，SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。只看天数不够，请比较商品适用的截止日与条件；运费和时效见上面的表格。",
           "SHEIN 和 Temu 是同一家公司吗？ 不是。它们是不同的平台，运费、时效和退货规则各不相同。",
           "SHEIN 和 Temu 的退货期限是多久？ SHEIN 新加坡站大多数全新商品在收到后 15 天内，马来西亚站在收到后 20 天内；Temu 公布的是购买后 90 天内（新加坡站适用于大多数商品，服饰等部分品类另有条件，马来西亚站以该站页面为准），每个订单第一次退货免费。",
@@ -69256,7 +69256,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "本文为编辑内容。通过本文的 SHEIN 和 Temu 链接购买，我们可能获得佣金。",
+    "editorialNote": "本文为编辑内容。通过本文的 SHEIN 和 Temu 链接购买，我们可能获得佣金。团队成员没有使用过这些商品。",
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-zh-hans"
@@ -69319,7 +69319,7 @@ export const reviewsData: unknown[] = [
         "heading": "Prazo e frete no Brasil e em Portugal",
         "paragraphs": [
           "Para Portugal, a YesStyle publica envio Standard em 10 a 15 dias úteis, frete grátis a partir de US$ 60 (US$ 5 abaixo disso) e o IVA de 23% já no preço, com os valores em dólar, como a loja publica. Para o Brasil, não publica prazo, frete nem frete grátis.",
-          "Um pedido nosso, feito na YesStyle em setembro, foi enviado dois dias depois pela transportadora Anjun Express. A tabela abaixo vem do frete em vigor em 13/10/2026, lido no mesmo dia.",
+          "Um pedido nosso, feito na YesStyle em setembro, foi enviado dois dias depois pela transportadora Anjun Express. A tabela abaixo traz o frete em vigor em 13/10/2026.",
           "Ao prazo do envio se soma o tempo para o item sair do armazém, explicado mais abaixo."
         ],
         "comparisonTable": {
@@ -69376,7 +69376,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como se conta o prazo",
         "paragraphs": [
           "Todo pedido sai do armazém da YesStyle em Hong Kong. O prazo soma dois tempos: o item sair do armazém e o envio. A loja conta os dois em dias úteis, no horário de Hong Kong (GMT+8).",
-          "Conta nossa, somando os prazos da loja (1 a 3 dias úteis para sair do armazém e 10 a 15 de envio): em Portugal, um pedido só com itens em estoque leva de 11 a 18 dias úteis.",
+          "Somando os prazos da loja (1 a 3 dias úteis para sair do armazém e 10 a 15 de envio): em Portugal, um pedido só com itens em estoque leva de 11 a 18 dias úteis.",
           "Se o pagamento precisar de verificação, a contagem começa no dia em que o pedido é aprovado. Feriados e picos de pedidos também podem atrasar a saída."
         ],
         "image": {
@@ -69568,7 +69568,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Delivery time and shipping cost in the US, UK, Canada, Australia, Ireland and New Zealand",
         "paragraphs": [
-          "Standard takes 7 to 11 business days in the US, 5 to 12 in the UK, 7 to 14 in Canada, 6 to 8 in Australia, 12 to 18 in Ireland and 7 to 14 in New Zealand, with amounts in US dollars, as the store publishes them. The table below comes from the shipping table in force since October 13, 2026 (07:15 GMT), read the same day; the tax details come from the store's tax pages, read on October 12, 2026.",
+          "Standard takes 7 to 11 business days in the US, 5 to 12 in the UK, 7 to 14 in Canada, 6 to 8 in Australia, 12 to 18 in Ireland and 7 to 14 in New Zealand, with amounts in US dollars, as the store publishes them. The table below comes from the shipping table in force since October 13, 2026 (07:15 GMT); the tax details come from the store's tax pages as of October 12, 2026.",
           "The time for the item to leave the warehouse, explained below, comes on top of the shipping time."
         ],
         "comparisonTable": {
@@ -69666,7 +69666,7 @@ export const reviewsData: unknown[] = [
         "heading": "How delivery time is counted",
         "paragraphs": [
           "Every order ships from YesStyle's warehouse in Hong Kong. The total time is the time for the item to become available plus the shipping time, and the store counts both in business days, in Hong Kong time (GMT+8).",
-          "By our count, adding up the store's figures (1 to 3 business days to leave the warehouse and 7 to 11 of shipping): in the US, an order with in-stock items only takes 8 to 14 business days by Standard.",
+          "Adding up the store's figures (1 to 3 business days to leave the warehouse and 7 to 11 of shipping): in the US, an order with in-stock items only takes 8 to 14 business days by Standard.",
           "If the payment needs verification, the count starts on the day the order is approved. Holidays and order peaks can also delay dispatch."
         ],
         "image": {
@@ -69932,7 +69932,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cómo se cuenta el plazo",
         "paragraphs": [
           "Todo pedido sale del almacén de YesStyle en Hong Kong. El plazo total es el tiempo que tarda el producto en estar disponible más el plazo del envío, y la tienda cuenta los dos en días hábiles, en hora de Hong Kong (GMT+8).",
-          "Cuenta nuestra, sumando los plazos de la tienda (1 a 3 días hábiles para salir del almacén y 10 a 15 de envío): en España, un pedido solo con productos en stock tarda de 11 a 18 días hábiles.",
+          "Sumando los plazos de la tienda (1 a 3 días hábiles para salir del almacén y 10 a 15 de envío): en España, un pedido solo con productos en stock tarda de 11 a 18 días hábiles.",
           "Si el pago necesita verificación, el plazo empieza a contar el día en que se aprueba el pedido. Los días festivos y los picos de pedidos también pueden retrasar la salida."
         ],
         "image": {
@@ -70120,7 +70120,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Délais et frais de livraison en France, en Belgique et au Canada",
         "paragraphs": [
-          "En France et en Belgique, la livraison Standard prend 10 à 15 jours ouvrés, et au Canada (Premium Standard) 7 à 14, avec des montants en dollars américains, comme la boutique les publie. La grille ci-dessous est celle en vigueur depuis le 13 octobre 2026 (07 h 15 GMT), lue le même jour ; les taxes viennent des pages de taxes de la boutique, lues le 12 octobre 2026.",
+          "En France et en Belgique, la livraison Standard prend 10 à 15 jours ouvrés, et au Canada (Premium Standard) 7 à 14, avec des montants en dollars américains, comme la boutique les publie. La grille ci-dessous est celle en vigueur depuis le 13 octobre 2026 (07 h 15 GMT) ; les taxes viennent des pages de taxes de la boutique (état au 12 octobre 2026).",
           "Au délai d'expédition s'ajoute le temps nécessaire pour que l'article quitte l'entrepôt, expliqué plus bas."
         ],
         "comparisonTable": {
@@ -70176,7 +70176,7 @@ export const reviewsData: unknown[] = [
         "heading": "Comment se calcule le délai",
         "paragraphs": [
           "Toute commande part de l'entrepôt de YesStyle à Hong Kong. Le délai total additionne le temps que met l'article à être disponible et le délai d'expédition, et la boutique compte les deux en jours ouvrés, à l'heure de Hong Kong (GMT+8).",
-          "Calcul de notre côté, en additionnant les délais de la boutique (1 à 3 jours ouvrés pour quitter l'entrepôt et 10 à 15 d'expédition) : en France, une commande composée uniquement d'articles en stock prend de 11 à 18 jours ouvrés.",
+          "En additionnant les délais de la boutique (1 à 3 jours ouvrés pour quitter l'entrepôt et 10 à 15 d'expédition) : en France, une commande composée uniquement d'articles en stock prend de 11 à 18 jours ouvrés.",
           "Si le paiement doit être vérifié, le décompte commence le jour où la commande est approuvée. Les jours fériés et les pics de commandes peuvent aussi retarder l'expédition."
         ],
         "image": {
@@ -70365,7 +70365,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lieferzeit und Versandkosten in Deutschland, Österreich und der Schweiz",
         "paragraphs": [
-          "In allen drei Ländern dauert der Standardversand 10 bis 15 Werktage, mit Beträgen in US-Dollar, wie der Shop sie veröffentlicht. Die Tabelle unten stammt aus der Versandtabelle, die seit dem 13. Oktober 2026 (07:15 GMT) gilt und am selben Tag abgerufen wurde; die Steuern stammen aus den Steuerseiten des Shops (Stand: 12. Oktober 2026).",
+          "In allen drei Ländern dauert der Standardversand 10 bis 15 Werktage, mit Beträgen in US-Dollar, wie der Shop sie veröffentlicht. Die Tabelle unten stammt aus der Versandtabelle, die seit dem 13. Oktober 2026 (07:15 GMT) gilt; die Steuern stammen aus den Steuerseiten des Shops (Stand: 12. Oktober 2026).",
           "Zur Versanddauer kommt die Zeit hinzu, bis der Artikel das Lager verlässt. Mehr dazu weiter unten."
         ],
         "comparisonTable": {
@@ -70427,7 +70427,7 @@ export const reviewsData: unknown[] = [
         "heading": "So wird die Lieferzeit gerechnet",
         "paragraphs": [
           "Jede Bestellung verlässt das Lager von YesStyle in Hongkong. Die Gesamtzeit ist die Zeit bis zur Verfügbarkeit des Artikels plus die Versanddauer, und der Shop zählt beides in Werktagen, nach Hongkonger Zeit (GMT+8).",
-          "Nach unserer Rechnung, aus den Zeiten des Shops zusammengezählt (1 bis 3 Werktage, bis der Artikel das Lager verlässt, und 10 bis 15 für den Versand): In Deutschland braucht eine Bestellung, die nur vorrätige Artikel enthält, 11 bis 18 Werktage.",
+          "Aus den Zeiten des Shops zusammengezählt (1 bis 3 Werktage, bis der Artikel das Lager verlässt, und 10 bis 15 für den Versand): In Deutschland braucht eine Bestellung, die nur vorrätige Artikel enthält, 11 bis 18 Werktage.",
           "Muss die Zahlung geprüft werden, beginnt die Zählung an dem Tag, an dem die Bestellung freigegeben wird. Feiertage und Bestellspitzen können den Versand ebenfalls verzögern."
         ],
         "image": {
@@ -70616,7 +70616,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tempi e spese di spedizione in Italia",
         "paragraphs": [
-          "In Italia la spedizione Standard richiede da 10 a 15 giorni lavorativi, con importi in dollari, come li pubblica il negozio. La tabella qui sotto è quella in vigore dal 13 ottobre 2026 (07:15 GMT), consultata lo stesso giorno; le imposte vengono dalle pagine fiscali del negozio, consultate il 12 ottobre 2026.",
+          "In Italia la spedizione Standard richiede da 10 a 15 giorni lavorativi, con importi in dollari, come li pubblica il negozio. La tabella qui sotto è quella in vigore dal 13 ottobre 2026 (07:15 GMT); le imposte vengono dalle pagine fiscali del negozio (dati al 12 ottobre 2026).",
           "Ai tempi della spedizione si aggiunge il tempo che l'articolo impiega a uscire dal magazzino, spiegato più sotto."
         ],
         "comparisonTable": {
@@ -70660,7 +70660,7 @@ export const reviewsData: unknown[] = [
         "heading": "Come si contano i tempi",
         "paragraphs": [
           "Ogni ordine parte dal magazzino di YesStyle a Hong Kong. Il tempo totale è il tempo di disponibilità dell'articolo più quello della spedizione, e il negozio li conta entrambi in giorni lavorativi, secondo l'ora di Hong Kong (GMT+8).",
-          "Il conto è nostro, sommando i tempi del negozio (da 1 a 3 giorni lavorativi per uscire dal magazzino e da 10 a 15 di spedizione): in Italia un ordine con soli articoli disponibili richiede da 11 a 18 giorni lavorativi.",
+          "Sommando i tempi del negozio (da 1 a 3 giorni lavorativi per uscire dal magazzino e da 10 a 15 di spedizione): in Italia un ordine con soli articoli disponibili richiede da 11 a 18 giorni lavorativi.",
           "Se il pagamento richiede una verifica, il conteggio parte dal giorno in cui l'ordine viene approvato. Anche le festività e i picchi di ordini possono ritardare la partenza."
         ],
         "image": {
@@ -70847,7 +70847,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "한국 배송 기간과 배송비",
         "paragraphs": [
-          "수치는 2026년 10월 13일(07:15 GMT)부터 적용된 YesStyle 배송표를 같은 날 확인한 것입니다. 금액은 YesStyle이 게시한 대로 US$입니다.",
+          "수치는 2026년 10월 13일(07:15 GMT)부터 적용된 YesStyle 배송표 기준입니다. 금액은 YesStyle이 게시한 대로 US$입니다.",
           "표의 배송 기간에는 상품이 창고에서 출고되기까지의 시간이 더해집니다. 아래에서 설명합니다."
         ],
         "comparisonTable": {
@@ -71078,7 +71078,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "日本向けの配送日数と送料",
         "paragraphs": [
-          "日本の数字は、2026年10月13日（07:15 GMT）から有効なYesStyleの送料表によるもので、同日に確認しました。金額は、ストアの表示どおり米ドルです。",
+          "日本の数字は、2026年10月13日（07:15 GMT）から有効なYesStyleの送料表によるものです。金額は、ストアの表示どおり米ドルです。",
           "表の日数は配送だけの日数です。これに、商品が倉庫から出るまでの時間が加わります（後述）。"
         ],
         "comparisonTable": {
@@ -71309,7 +71309,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "台灣、香港與澳門的運送時間與運費",
         "paragraphs": [
-          "運送時間與運費取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的運費表，於同日查閱。金額以美元計，與商店公布的相同。",
+          "運送時間與運費取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的運費表。金額以美元計，與商店公布的相同。",
           "運送天數之外，還要加上商品從倉庫寄出前所需的時間，下面會說明。"
         ],
         "comparisonTable": {
@@ -71552,7 +71552,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "新加坡与马来西亚的运送时间与运费",
         "paragraphs": [
-          "运送时间与运费取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的运费表，同日查阅；税费取自 YesStyle 各地区的税费页面，2026年10月12日查阅。金额以美元计，与商店公布的相同。",
+          "运送时间与运费取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的运费表；税费取自 YesStyle 各地区的税费页面（截至2026年10月12日）。金额以美元计，与商店公布的相同。",
           "运送时间之外，还要加上商品从仓库寄出前所需的时间，下一节会说明。"
         ],
         "comparisonTable": {
@@ -71868,7 +71868,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "A Olive Young Global entrega em Portugal (seletor de destino do site, lido em 21/10/2026), mas a página de envio não tem linha para o país: o prazo não é publicado, e o frete segue a regra geral da FAQ dela."
+          "A Olive Young Global entrega em Portugal (seletor de destino do site, em 21/10/2026), mas a página de envio não tem linha para o país: o prazo não é publicado, e o frete segue a regra geral da FAQ dela."
         ]
       },
       {
@@ -93253,7 +93253,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a nota diz e o que não diz",
         "paragraphs": [
           "A nota Ótima é o ponto de partida, mas ela resume muita coisa. Vale ver o que está por trás dela.",
-          "O perfil mostra um quadro para cada período. A tabela reúne as duas abas lidas em 19/10/2026, com as datas que o próprio Reclame Aqui mostra embaixo de cada uma."
+          "O perfil mostra um quadro para cada período. A tabela reúne as duas abas, com as datas que o próprio Reclame Aqui mostra embaixo de cada uma."
         ],
         "comparisonTable": {
           "headers": [
@@ -93424,7 +93424,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Lemos as 100 avaliações de 5 estrelas e as 100 de 1 estrela mais recentes. Das de 5 estrelas, 78 foram convidadas pela empresa; das de 1 estrela, 92 foram espontâneas. As duas amostras cobrem períodos diferentes, então não medem quanto o convite pesa na nota geral. Entre as 86 queixas de verdade (14 eram elogios com a nota errada), os temas mais citados foram o atendimento por IA sem chegar a uma pessoa (cerca de 45), cobrança e renovação (cerca de 38) e domínios (cerca de 27). A cobrança aparece nos dois sites; o atendimento por IA aparece mais no Trustpilot."
+          "Entre as 100 avaliações de 5 estrelas mais recentes, 78 foram convidadas pela empresa; entre as 100 de 1 estrela mais recentes, 92 foram espontâneas. As duas amostras cobrem períodos diferentes, então não medem quanto o convite pesa na nota geral. Entre as 86 queixas de verdade (14 eram elogios com a nota errada), os temas mais citados foram o atendimento por IA sem chegar a uma pessoa (cerca de 45), cobrança e renovação (cerca de 38) e domínios (cerca de 27). A cobrança aparece nos dois sites; o atendimento por IA aparece mais no Trustpilot."
         ]
       },
       {
@@ -93630,7 +93630,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Three readings that change the math",
         "paragraphs": [
-          "To see what sits behind the 4.6, the 100 most recent one-star reviews and the 100 most recent five-star reviews were read on October 24, 2026, in all languages. Trustpilot labels each review as “Invited”, when the company sent the request, or as organic, when the person came on their own. The table compares the two groups."
+          "To see what sits behind the 4.6, look at the 100 most recent one-star reviews and the 100 most recent five-star reviews, in all languages, as of October 24, 2026. Trustpilot labels each review as “Invited”, when the company sent the request, or as organic, when the person came on their own. The table compares the two groups."
         ],
         "comparisonTable": {
           "headers": [
@@ -93670,7 +93670,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What people complain about",
         "paragraphs": [
-          "After setting aside the 14 misrated praises, 86 real complaints were left among the 100 most recent one-star reviews. Each complaint was tagged by theme from its title and excerpt, and one complaint can carry more than one theme, so the counts are approximate. These are the themes, from the most to the least cited:"
+          "After setting aside the 14 misrated praises, 86 real complaints were left among the 100 most recent one-star reviews. One complaint can carry more than one theme, so the counts are approximate. These are the themes, from the most to the least cited:"
         ],
         "bullets": [
           "**AI support and not reaching a person:** about 45 of 86. Part of these are about the AI tools of the website builder, not about support.",
@@ -93683,8 +93683,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "The most frequent countries among the 100 one-star reviews were the United States (18), India (14), France (8), the United Kingdom (6) and the Netherlands (6).",
-          "Trustpilot itself publishes an automatic summary of the profile, generated by the site’s AI from 12,464 reviews. It lists as praise a stable hosting service, helpful support with fast human agents on technical problems, and a panel that is easy for beginners. It lists as complaints a very automated service with difficulty reaching a person, hard account recovery, billing, and strict rules for domain renewal. That matches what we found in the sample.",
-          "The first theme deserves a note. In the titles read, the recurring complaint is not a wrong answer but not getting past the AI agent to a person. Our reading: for a customer with a site down, that wait is the problem.",
+          "Trustpilot itself publishes an automatic summary of the profile, generated by the site’s AI from 12,464 reviews. It lists as praise a stable hosting service, helpful support with fast human agents on technical problems, and a panel that is easy for beginners. It lists as complaints a very automated service with difficulty reaching a person, hard account recovery, billing, and strict rules for domain renewal. That matches the sample.",
+          "The first theme deserves a note. In the review titles, the recurring complaint is not a wrong answer but not getting past the AI agent to a person. Our reading: for a customer with a site down, that wait is the problem.",
           "The reviews do not split the billing complaints by reason. The link with automatic renewal is our reading, and it is where the check should start."
         ]
       },
@@ -93716,7 +93716,7 @@ export const reviewsData: unknown[] = [
         "heading": "What Hostinger answers",
         "paragraphs": [
           "On Trustpilot, the company says it responds to 99% of negative reviews, usually within 24 hours. In our sample, 80 of the 86 complaints had a reply; the six without one had all been posted in the previous 24 hours. The page also warns that the company may use AI in its responses.",
-          "The replies were counted, not graded, so this text does not say whether the answers solve the problem. Before buying, read a few replies on the profile, especially the ones about billing and about reaching a person."
+          "The numbers show how many complaints got a reply, not what the replies say, so this text does not say whether the answers solve the problem. Before buying, read a few replies on the profile, especially the ones about billing and about reaching a person."
         ]
       },
       {
@@ -93724,7 +93724,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, who also signs this text, has been a Hostinger customer since 2024, for more than 24 months: Business hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. The Em Casa com Cecília site runs on Hostinger.",
           "Each time he had a problem, support solved it, mainly the AI agent, and he has never seen the service go down.",
-          "That is his account, with his use, and it needs an honest counterpoint: the AI support that solved his problems is the theme that shows up most in the complaints read, about 45 of 86, even if part of them are about the AI tools of the website builder. His case says nothing about someone who could not get past the agent, or who was charged without expecting it."
+          "That is his account, with his use, and it needs an honest counterpoint: the AI support that solved his problems is the theme that shows up most in the complaints, about 45 of 86, even if part of them are about the AI tools of the website builder. His case says nothing about someone who could not get past the agent, or who was charged without expecting it."
         ]
       },
       {
@@ -93740,7 +93740,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "What is Hostinger’s Trustpilot score? A TrustScore of 4.6 out of 5, from 73,830 reviews, with 87% five stars and 7% one star.",
           "Are Hostinger’s Trustpilot reviews reliable? The profile is claimed and managed by the company, which invites customers to review. In our sample, 78 of the 100 most recent five-star reviews were invited, and 92 of the 100 most recent one-star reviews were organic. Trustpilot says it does not check reviews one by one.",
-          "What do Hostinger customers complain about on Trustpilot? In the 86 complaints read among the 100 most recent one-star reviews, the main themes were AI support and not reaching a person (about 45), billing and renewal (about 38) and domains (about 27).",
+          "What do Hostinger customers complain about on Trustpilot? Among the 86 complaints in the 100 most recent one-star reviews, the main themes were AI support and not reaching a person (about 45), billing and renewal (about 38) and domains (about 27).",
           "Does Hostinger answer negative reviews? Yes. The page says the company responds to 99% of negative reviews, usually within 24 hours, and may use AI in the replies. In our sample, 80 of 86 complaints had a reply.",
           "How do I turn off Hostinger’s automatic renewal? In your profile, open Billing, then Subscriptions, find the service and click the toggle switch next to it. Review the warnings and confirm. The product stays active until the expiry date.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%, except on domain registration. The renewal of a plan you already have is charged at the list price, with no discount."
@@ -93917,7 +93917,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tres lecturas que cambian la cuenta",
         "paragraphs": [
-          "Para ver qué hay detrás del 4,6, el 24 de octubre de 2026 se leyeron las 100 opiniones de una estrella más recientes y las 100 de cinco estrellas más recientes, en todos los idiomas. Trustpilot marca cada opinión como «Invitada», cuando la empresa envió la solicitud, o como espontánea, cuando la persona llegó por su cuenta. La tabla compara los dos grupos."
+          "Para ver qué hay detrás del 4,6, miremos las 100 opiniones de una estrella más recientes y las 100 de cinco estrellas más recientes, en todos los idiomas, al 24 de octubre de 2026. Trustpilot marca cada opinión como «Invitada», cuando la empresa envió la solicitud, o como espontánea, cuando la persona llegó por su cuenta. La tabla compara los dos grupos."
         ],
         "comparisonTable": {
           "headers": [
@@ -93957,7 +93957,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "De qué se quejan las personas",
         "paragraphs": [
-          "Descontados los 14 elogios con nota equivocada, quedaron 86 quejas reales entre las 100 opiniones de una estrella más recientes. Cada queja se clasificó por tema a partir del título y el fragmento; una queja puede tener más de un tema, así que los conteos son aproximados. Estos son los temas, de más a menos citados:"
+          "Descontados los 14 elogios con nota equivocada, quedaron 86 quejas reales entre las 100 opiniones de una estrella más recientes. Una queja puede tener más de un tema, así que los conteos son aproximados. Estos son los temas, de más a menos citados:"
         ],
         "bullets": [
           "**Atención por IA y no llegar a una persona:** unas 45 de 86. Parte de estas quejas habla de las herramientas de IA del constructor de sitios, no del soporte.",
@@ -93970,8 +93970,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Los países más frecuentes entre las 100 opiniones de una estrella fueron Estados Unidos (18), India (14), Francia (8), Reino Unido (6) y Países Bajos (6).",
-          "Trustpilot publica por su cuenta un resumen automático del perfil, generado por la IA del propio sitio a partir de 12.464 opiniones. Lista como elogios un servicio de hosting estable, un soporte útil con agentes humanos rápidos ante problemas técnicos y un panel fácil para principiantes. Lista como quejas un servicio muy automatizado con dificultad para llegar a una persona, una recuperación de cuenta difícil, cobros y reglas estrictas para la renovación de dominios. Eso coincide con lo que encontramos en la muestra.",
-          "El primer tema merece una nota. En los títulos leídos, lo que se repite no es una respuesta equivocada, sino no poder pasar del agente de IA a una persona. Nuestra lectura: para un cliente con el sitio fuera de línea, esa espera es el problema.",
+          "Trustpilot publica por su cuenta un resumen automático del perfil, generado por la IA del propio sitio a partir de 12.464 opiniones. Lista como elogios un servicio de hosting estable, un soporte útil con agentes humanos rápidos ante problemas técnicos y un panel fácil para principiantes. Lista como quejas un servicio muy automatizado con dificultad para llegar a una persona, una recuperación de cuenta difícil, cobros y reglas estrictas para la renovación de dominios. Coincide con la muestra.",
+          "El primer tema merece una nota. En los títulos, lo que se repite no es una respuesta equivocada, sino no poder pasar del agente de IA a una persona. Nuestra lectura: para un cliente con el sitio fuera de línea, esa espera es el problema.",
           "Las opiniones no separan los cobros por motivo. La relación con la renovación automática es una lectura nuestra, y es por ahí donde conviene empezar a revisar."
         ]
       },
@@ -94003,7 +94003,7 @@ export const reviewsData: unknown[] = [
         "heading": "Lo que responde Hostinger",
         "paragraphs": [
           "En Trustpilot, la empresa dice que responde al 99 % de las opiniones negativas, por lo general en 24 horas. En nuestra muestra, 80 de las 86 quejas tenían respuesta; las seis sin respuesta se habían publicado en las 24 horas anteriores. La página también advierte que la empresa puede usar IA en sus respuestas.",
-          "Las respuestas se contaron sin calificarlas, así que este texto no dice si resuelven el problema. Antes de contratar, lee algunas respuestas en el perfil, sobre todo las que hablan de cobros y de no poder llegar a una persona."
+          "Las cifras solo dicen cuántas quejas tuvieron respuesta, no qué dicen las respuestas, así que este texto no dice si resuelven el problema. Antes de contratar, lee algunas respuestas en el perfil, sobre todo las que hablan de cobros y de no poder llegar a una persona."
         ]
       },
       {
@@ -94011,7 +94011,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, que también firma este texto, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción: hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. El sitio Em Casa com Cecília funciona en Hostinger.",
           "Cada vez que tuvo un problema, el soporte lo resolvió, sobre todo el agente de IA, y nunca vio caer el servicio.",
-          "Es su cuenta, con su uso, y hace falta una contrapartida honesta: el soporte por IA que resolvió sus problemas es el tema que más aparece en las quejas leídas, unas 45 de 86, aunque parte de ellas hable de las herramientas de IA del constructor de sitios. Su caso no dice nada de quien no logró pasar del agente, ni de quien recibió un cobro que no esperaba."
+          "Es su cuenta, con su uso, y hace falta una contrapartida honesta: el soporte por IA que resolvió sus problemas es el tema que más aparece en las quejas, unas 45 de 86, aunque parte de ellas hable de las herramientas de IA del constructor de sitios. Su caso no dice nada de quien no logró pasar del agente, ni de quien recibió un cobro que no esperaba."
         ]
       },
       {
@@ -94027,7 +94027,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Cuál es la calificación de Hostinger en Trustpilot? Un TrustScore de 4,6 sobre 5, con 73.830 opiniones, el 87 % de cinco estrellas y el 7 % de una estrella.",
           "¿Son confiables las opiniones de Hostinger en Trustpilot? El perfil está reclamado y lo administra la empresa, que invita a los clientes a opinar. En nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Trustpilot dice que no revisa las opiniones una por una.",
-          "¿De qué se quejan los clientes de Hostinger en Trustpilot? En las 86 quejas leídas entre las 100 opiniones de una estrella más recientes, los temas principales fueron la atención por IA y no llegar a una persona (unas 45), los cobros y la renovación (unas 38) y los dominios (unas 27).",
+          "¿De qué se quejan los clientes de Hostinger en Trustpilot? Entre las 86 quejas de las 100 opiniones de una estrella más recientes, los temas principales fueron la atención por IA y no llegar a una persona (unas 45), los cobros y la renovación (unas 38) y los dominios (unas 27).",
           "¿Hostinger responde a las opiniones negativas? Sí. La página dice que la empresa responde al 99 % de las opiniones negativas, por lo general en 24 horas, y que puede usar IA en las respuestas. En nuestra muestra, 80 de las 86 quejas tenían respuesta.",
           "¿Cómo desactivo la renovación automática de Hostinger? En hPanel, abre tu perfil, entra en Facturación y luego en Suscripciones, busca el servicio y haz clic en el interruptor que está al lado. Lee los avisos y confirma. El producto sigue activo hasta la fecha de vencimiento.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %, salvo en el registro de dominios. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
@@ -94204,7 +94204,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trois lectures qui changent le calcul",
         "paragraphs": [
-          "Pour voir ce qui se cache derrière le 4,6, les 100 avis à une étoile les plus récents et les 100 avis à cinq étoiles les plus récents ont été lus le 24 octobre 2026, dans toutes les langues. Trustpilot marque chaque avis comme « invité », quand l’entreprise a envoyé la demande, ou comme spontané, quand la personne est venue d’elle-même. Le tableau compare les deux groupes."
+          "Pour voir ce qui se cache derrière le 4,6, regardons les 100 avis à une étoile les plus récents et les 100 avis à cinq étoiles les plus récents, toutes langues confondues, au 24 octobre 2026. Trustpilot marque chaque avis comme « invité », quand l’entreprise a envoyé la demande, ou comme spontané, quand la personne est venue d’elle-même. Le tableau compare les deux groupes."
         ],
         "comparisonTable": {
           "headers": [
@@ -94244,7 +94244,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce dont les gens se plaignent",
         "paragraphs": [
-          "Une fois écartés les 14 éloges mal notés, il restait 86 plaintes réelles parmi les 100 avis à une étoile les plus récents. Chaque plainte a été classée par thème d’après son titre et son extrait ; une plainte peut porter sur plusieurs thèmes, donc les décomptes sont approximatifs. Voici les thèmes, du plus cité au moins cité :"
+          "Une fois écartés les 14 éloges mal notés, il restait 86 plaintes réelles parmi les 100 avis à une étoile les plus récents. Une plainte peut porter sur plusieurs thèmes, donc les décomptes sont approximatifs. Voici les thèmes, du plus cité au moins cité :"
         ],
         "bullets": [
           "**Support par IA et impossibilité de joindre une personne :** environ 45 sur 86. Une partie concerne les outils d’IA du créateur de sites, et non le support.",
@@ -94257,8 +94257,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Les pays les plus fréquents parmi les 100 avis à une étoile étaient les États-Unis (18), l’Inde (14), la France (8), le Royaume-Uni (6) et les Pays-Bas (6).",
-          "Trustpilot publie lui-même un résumé automatique du profil, généré par l’IA du site à partir de 12 464 avis. Il retient comme éloges un hébergement stable, un support utile avec des agents humains rapides sur les problèmes techniques, et un tableau de bord facile pour les débutants. Il retient comme plaintes un service très automatisé, difficile à joindre pour parler à une personne, une récupération de compte compliquée, la facturation et des règles strictes pour le renouvellement des domaines. Cela correspond à ce que nous avons trouvé dans l’échantillon.",
-          "Le premier thème mérite une précision. Dans les titres lus, la plainte qui revient n’est pas une mauvaise réponse, mais l’impossibilité de dépasser l’agent d’IA pour parler à une personne. Notre lecture : pour un client dont le site est hors ligne, cette attente est le problème.",
+          "Trustpilot publie lui-même un résumé automatique du profil, généré par l’IA du site à partir de 12 464 avis. Il retient comme éloges un hébergement stable, un support utile avec des agents humains rapides sur les problèmes techniques, et un tableau de bord facile pour les débutants. Il retient comme plaintes un service très automatisé, difficile à joindre pour parler à une personne, une récupération de compte compliquée, la facturation et des règles strictes pour le renouvellement des domaines. Cela correspond à l’échantillon.",
+          "Le premier thème mérite une précision. Dans les titres, la plainte qui revient n’est pas une mauvaise réponse, mais l’impossibilité de dépasser l’agent d’IA pour parler à une personne. Notre lecture : pour un client dont le site est hors ligne, cette attente est le problème.",
           "Les avis ne séparent pas les plaintes de facturation par motif. Le lien avec le renouvellement automatique est notre lecture, et c’est par là qu’il faut commencer la vérification."
         ]
       },
@@ -94290,7 +94290,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ce que répond Hostinger",
         "paragraphs": [
           "Sur Trustpilot, l’entreprise affirme répondre à 99 % des avis négatifs, en général dans les 24 heures. Dans notre échantillon, 80 des 86 plaintes avaient une réponse ; les six sans réponse avaient été publiées dans les 24 heures précédentes. La page indique aussi que l’entreprise peut utiliser l’IA pour ses réponses.",
-          "Les réponses ont été comptées sans être notées, donc ce texte ne dit pas si elles règlent le problème. Avant d’acheter, lisez quelques réponses sur le profil, surtout celles qui concernent la facturation et l’impossibilité de joindre une personne."
+          "Les chiffres indiquent seulement combien de plaintes ont une réponse, pas ce qu’elles disent, donc ce texte ne dit pas si elles règlent le problème. Avant d’acheter, lisez quelques réponses sur le profil, surtout celles qui concernent la facturation et l’impossibilité de joindre une personne."
         ]
       },
       {
@@ -94298,7 +94298,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, qui signe aussi ce texte, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement : hébergement Business, un VPS KVM 2, e-mail Business et domaines, tous avec renouvellement automatique. Le site Em Casa com Cecília tourne sur Hostinger.",
           "Chaque fois qu’il a eu un problème, le support l’a résolu, surtout l’agent d’IA, et il n’a jamais vu le service tomber.",
-          "C’est son compte, avec son usage, et il faut une contrepartie honnête : le support par IA qui a réglé ses problèmes est le thème le plus présent dans les plaintes lues, environ 45 sur 86, même si une partie concerne les outils d’IA du créateur de sites. Son cas ne dit rien de ceux qui n’ont pas réussi à dépasser l’agent, ni de ceux qui ont été débités sans s’y attendre."
+          "C’est son compte, avec son usage, et il faut une contrepartie honnête : le support par IA qui a réglé ses problèmes est le thème le plus présent dans les plaintes, environ 45 sur 86, même si une partie concerne les outils d’IA du créateur de sites. Son cas ne dit rien de ceux qui n’ont pas réussi à dépasser l’agent, ni de ceux qui ont été débités sans s’y attendre."
         ]
       },
       {
@@ -94314,7 +94314,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quelle est la note de Hostinger sur Trustpilot ? Un TrustScore de 4,6 sur 5, pour 73 830 avis, avec 87 % de cinq étoiles et 7 % d’une étoile.",
           "Les avis Hostinger sur Trustpilot sont-ils fiables ? Le profil est revendiqué et géré par l’entreprise, qui invite ses clients à noter. Dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Trustpilot dit qu’il ne vérifie pas les avis un par un.",
-          "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Dans les 86 plaintes lues parmi les 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
+          "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Parmi les 86 plaintes des 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
           "Hostinger répond-il aux avis négatifs ? Oui. La page indique que l’entreprise répond à 99 % des avis négatifs, en général dans les 24 heures, et qu’elle peut utiliser l’IA dans ses réponses. Dans notre échantillon, 80 des 86 plaintes avaient une réponse.",
           "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez votre profil, puis Facturation et Abonnements, repérez le service et cliquez sur le bouton à bascule à côté. Lisez les avertissements et confirmez. Le produit reste actif jusqu’à l’échéance.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %, sauf sur l’enregistrement d’un domaine. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
@@ -94491,7 +94491,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Drei Lesarten, die die Rechnung ändern",
         "paragraphs": [
-          "Um zu sehen, was hinter der 4,6 steckt, haben wir am 24. Oktober 2026 die 100 neuesten Ein-Stern- und die 100 neuesten Fünf-Stern-Bewertungen gelesen, in allen Sprachen. Trustpilot kennzeichnet jede Bewertung als „eingeladen“, wenn die Firma die Anfrage geschickt hat, oder als spontan, wenn die Person von selbst kam. Die Tabelle vergleicht die beiden Gruppen."
+          "Um zu sehen, was hinter der 4,6 steckt, schauen wir auf die 100 neuesten Ein-Stern- und die 100 neuesten Fünf-Stern-Bewertungen in allen Sprachen, Stand 24. Oktober 2026. Trustpilot kennzeichnet jede Bewertung als „eingeladen“, wenn die Firma die Anfrage geschickt hat, oder als spontan, wenn die Person von selbst kam. Die Tabelle vergleicht die beiden Gruppen."
         ],
         "comparisonTable": {
           "headers": [
@@ -94531,7 +94531,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Worüber sich die Leute beschweren",
         "paragraphs": [
-          "Nach Abzug der 14 falsch bewerteten Lobe blieben unter den 100 neuesten Ein-Stern-Bewertungen 86 echte Beschwerden übrig. Wir haben Titel und Auszüge gelesen und jede Beschwerde nach Thema eingeordnet; eine Beschwerde kann mehrere Themen haben, die Zählungen sind daher ungefähr. Das sind die Themen, von den meistgenannten zu den seltensten:"
+          "Nach Abzug der 14 falsch bewerteten Lobe blieben unter den 100 neuesten Ein-Stern-Bewertungen 86 echte Beschwerden übrig. Eine Beschwerde kann mehrere Themen haben, die Zählungen sind daher ungefähr. Das sind die Themen, von den meistgenannten zu den seltensten:"
         ],
         "bullets": [
           "**KI-Support und keine Verbindung zu einem Menschen:** etwa 45 von 86. Ein Teil betrifft die KI-Werkzeuge des Website-Baukastens und nicht den Support.",
@@ -94544,8 +94544,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Die häufigsten Länder unter den 100 Ein-Stern-Bewertungen waren die Vereinigten Staaten (18), Indien (14), Frankreich (8), das Vereinigte Königreich (6) und die Niederlande (6).",
-          "Trustpilot veröffentlicht selbst eine automatische Zusammenfassung des Profils, von der KI der Seite aus 12.464 Bewertungen erstellt. Als Lob nennt sie stabiles Hosting, einen hilfreichen Support mit schnellen menschlichen Mitarbeitenden bei technischen Problemen und ein für Einsteiger einfaches Panel. Als Beschwerden nennt sie einen stark automatisierten Dienst, bei dem man schwer eine Person erreicht, eine schwierige Kontowiederherstellung, Abrechnung und strenge Regeln bei der Domain-Verlängerung. Das deckt sich mit dem, was wir in der Stichprobe fanden.",
-          "Das erste Thema verdient einen Hinweis. In den Titeln, die wir gelesen haben, wiederholt sich nicht eine falsche Antwort, sondern das Nicht-Durchkommen vom KI-Agenten zu einem Menschen. Unsere Lesart: Für einen Kunden mit ausgefallener Seite ist diese Wartezeit das Problem.",
+          "Trustpilot veröffentlicht selbst eine automatische Zusammenfassung des Profils, von der KI der Seite aus 12.464 Bewertungen erstellt. Als Lob nennt sie stabiles Hosting, einen hilfreichen Support mit schnellen menschlichen Mitarbeitenden bei technischen Problemen und ein für Einsteiger einfaches Panel. Als Beschwerden nennt sie einen stark automatisierten Dienst, bei dem man schwer eine Person erreicht, eine schwierige Kontowiederherstellung, Abrechnung und strenge Regeln bei der Domain-Verlängerung. Das passt zur Stichprobe.",
+          "Das erste Thema verdient einen Hinweis. In den Titeln wiederholt sich nicht eine falsche Antwort, sondern das Nicht-Durchkommen vom KI-Agenten zu einem Menschen. Unsere Lesart: Für einen Kunden mit ausgefallener Seite ist diese Wartezeit das Problem.",
           "Die Bewertungen trennen die Abrechnungsbeschwerden nicht nach Grund. Die Verbindung zur automatischen Verlängerung ist unsere Lesart, und dort sollte die Prüfung beginnen."
         ]
       },
@@ -94577,7 +94577,7 @@ export const reviewsData: unknown[] = [
         "heading": "Was Hostinger antwortet",
         "paragraphs": [
           "Auf Trustpilot sagt das Unternehmen, dass es auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort; die sechs ohne Antwort waren alle in den 24 Stunden davor veröffentlicht worden. Die Seite warnt außerdem, dass das Unternehmen KI für Antworten nutzen kann.",
-          "Wir haben die Antworten gezählt und nicht bewertet, daher sagt dieser Text nicht, ob die Antworten das Problem lösen. Lesen Sie vor dem Kauf einige Antworten im Profil, vor allem die zu Abbuchungen und zur fehlenden Erreichbarkeit einer Person."
+          "Die Zahlen zeigen nur, wie viele Beschwerden eine Antwort haben, nicht deren Inhalt, daher sagt dieser Text nicht, ob die Antworten das Problem lösen. Lesen Sie vor dem Kauf einige Antworten im Profil, vor allem die zu Abbuchungen und zur fehlenden Erreichbarkeit einer Person."
         ]
       },
       {
@@ -94585,7 +94585,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, der diesen Text ebenfalls unterzeichnet, ist seit 2024 Kunde bei Hostinger, mit mehr als 24 Monaten Laufzeit: Business-Hosting, ein VPS KVM 2, Business-E-Mail und Domains, alle mit automatischer Verlängerung. Die Seite Em Casa com Cecília läuft auf Hostinger.",
           "Jedes Mal, wenn er ein Problem hatte, hat der Support es gelöst, vor allem der KI-Agent, und er hat nie einen Ausfall erlebt.",
-          "Das ist sein Konto, mit seiner Nutzung, und es braucht ein ehrliches Gegengewicht: Der KI-Support, der seine Probleme gelöst hat, ist das Thema, das in den Beschwerden, die wir gelesen haben, am häufigsten vorkommt, etwa 45 von 86, auch wenn ein Teil davon die KI-Werkzeuge des Website-Baukastens betrifft. Sein Fall sagt nichts über jemanden aus, der nicht am Agenten vorbeikam, oder über jemanden, der unerwartet abgebucht wurde."
+          "Das ist sein Konto, mit seiner Nutzung, und es braucht ein ehrliches Gegengewicht: Der KI-Support, der seine Probleme gelöst hat, ist das Thema, das in den Beschwerden am häufigsten vorkommt, etwa 45 von 86, auch wenn ein Teil davon die KI-Werkzeuge des Website-Baukastens betrifft. Sein Fall sagt nichts über jemanden aus, der nicht am Agenten vorbeikam, oder über jemanden, der unerwartet abgebucht wurde."
         ]
       },
       {
@@ -94601,7 +94601,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Wie hoch ist die Trustpilot-Bewertung von Hostinger? Der TrustScore liegt bei 4,6 von 5, aus 73.830 Bewertungen, mit 87 % Fünf-Sterne- und 7 % Ein-Stern-Bewertungen.",
           "Sind die Trustpilot-Bewertungen von Hostinger verlässlich? Das Profil ist beansprucht und wird von der Firma verwaltet, die Kunden zur Bewertung einlädt. In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Trustpilot sagt, dass es die Bewertungen nicht einzeln prüft.",
-          "Worüber beschweren sich Hostinger-Kunden auf Trustpilot? In den 86 Beschwerden, die wir unter den 100 neuesten Ein-Stern-Bewertungen gelesen haben, waren die wichtigsten Themen KI-Support und keine Verbindung zu einem Menschen (etwa 45), Abrechnung und Verlängerung (etwa 38) und Domains (etwa 27).",
+          "Worüber beschweren sich Hostinger-Kunden auf Trustpilot? Unter den 86 Beschwerden in den 100 neuesten Ein-Stern-Bewertungen waren die wichtigsten Themen KI-Support und keine Verbindung zu einem Menschen (etwa 45), Abrechnung und Verlängerung (etwa 38) und Domains (etwa 27).",
           "Antwortet Hostinger auf negative Bewertungen? Ja. Die Seite sagt, dass das Unternehmen auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden, und dass es für Antworten KI nutzen kann. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort.",
           "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel Ihr Profil, dann Abrechnung und Abonnements, suchen Sie den Dienst und klicken Sie auf den Schalter daneben. Lesen Sie die Hinweise und bestätigen Sie. Das Produkt bleibt bis zum Ablaufdatum aktiv.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %, außer bei der Domainregistrierung. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
@@ -94778,7 +94778,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tre letture che cambiano il conto",
         "paragraphs": [
-          "Per capire cosa c’è dietro il 4,6, il 24 ottobre 2026 sono state lette le 100 recensioni a una stella più recenti e le 100 a cinque stelle più recenti, in tutte le lingue. Trustpilot contrassegna ogni recensione come «invitata», quando l’azienda ha mandato la richiesta, oppure come spontanea, quando la persona è arrivata da sola. La tabella confronta i due gruppi."
+          "Per capire cosa c’è dietro il 4,6, guardiamo le 100 recensioni a una stella più recenti e le 100 a cinque stelle più recenti, in tutte le lingue, al 24 ottobre 2026. Trustpilot contrassegna ogni recensione come «invitata», quando l’azienda ha mandato la richiesta, oppure come spontanea, quando la persona è arrivata da sola. La tabella confronta i due gruppi."
         ],
         "comparisonTable": {
           "headers": [
@@ -94818,7 +94818,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Di cosa si lamentano le persone",
         "paragraphs": [
-          "Tolti i 14 elogi con il voto sbagliato, tra le 100 recensioni a una stella più recenti sono rimasti 86 reclami veri. Ogni reclamo è stato classificato per tema in base a titolo ed estratto; un reclamo può riguardare più temi, quindi i conteggi sono approssimativi. Questi sono i temi, dal più citato al meno citato:"
+          "Tolti i 14 elogi con il voto sbagliato, tra le 100 recensioni a una stella più recenti sono rimasti 86 reclami veri. Un reclamo può riguardare più temi, quindi i conteggi sono approssimativi. Questi sono i temi, dal più citato al meno citato:"
         ],
         "bullets": [
           "**Supporto con l’IA e impossibilità di parlare con una persona:** circa 45 su 86. Una parte riguarda gli strumenti di IA del costruttore di siti, non il supporto.",
@@ -94831,8 +94831,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "I paesi più frequenti tra le 100 recensioni a una stella sono stati Stati Uniti (18), India (14), Francia (8), Regno Unito (6) e Paesi Bassi (6).",
-          "Trustpilot pubblica da sé un riepilogo automatico del profilo, generato dall’IA del sito a partire da 12.464 recensioni. Tra i pregi indica un hosting stabile, un supporto utile con operatori umani rapidi sui problemi tecnici e un pannello facile per chi inizia. Tra i reclami indica un servizio molto automatizzato con difficoltà a parlare con una persona, un recupero dell’account difficile, la fatturazione e regole rigide sul rinnovo dei domini. Corrisponde a quello che abbiamo trovato nel campione.",
-          "Il primo tema merita una nota. Nei titoli letti, la lamentela che torna non è una risposta sbagliata, ma non riuscire a superare l’agente IA per arrivare a una persona. La nostra lettura: per un cliente con il sito fuori uso, quell’attesa è il problema.",
+          "Trustpilot pubblica da sé un riepilogo automatico del profilo, generato dall’IA del sito a partire da 12.464 recensioni. Tra i pregi indica un hosting stabile, un supporto utile con operatori umani rapidi sui problemi tecnici e un pannello facile per chi inizia. Tra i reclami indica un servizio molto automatizzato con difficoltà a parlare con una persona, un recupero dell’account difficile, la fatturazione e regole rigide sul rinnovo dei domini. Corrisponde al campione.",
+          "Il primo tema merita una nota. Nei titoli, la lamentela che torna non è una risposta sbagliata, ma non riuscire a superare l’agente IA per arrivare a una persona. La nostra lettura: per un cliente con il sito fuori uso, quell’attesa è il problema.",
           "Le recensioni non separano i reclami di fatturazione per motivo. Il legame con il rinnovo automatico è una nostra lettura, ed è da lì che conviene iniziare il controllo."
         ]
       },
@@ -94864,7 +94864,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cosa risponde la Hostinger",
         "paragraphs": [
           "Su Trustpilot l’azienda dice di rispondere al 99% delle recensioni negative, di solito entro 24 ore. Nel nostro campione, 80 degli 86 reclami avevano una risposta; i sei senza risposta erano stati pubblicati nelle 24 ore precedenti. La pagina avverte anche che l’azienda può usare l’IA nelle risposte.",
-          "Le risposte sono state contate senza valutarle, quindi questo testo non dice se risolvono il problema. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti e sull’impossibilità di parlare con una persona."
+          "I numeri dicono solo quante segnalazioni hanno avuto una risposta, non cosa dicono le risposte, quindi questo testo non dice se risolvono il problema. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti e sull’impossibilità di parlare con una persona."
         ]
       },
       {
@@ -94872,7 +94872,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, che firma anche questo testo, è cliente della Hostinger dal 2024, con più di 24 mesi di abbonamento: hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Il sito Em Casa com Cecília gira sulla Hostinger.",
           "Ogni volta che ha avuto un problema, l’assistenza l’ha risolto, soprattutto l’agente IA, e non ha mai visto un’interruzione del servizio.",
-          "È la sua esperienza, con il suo uso, e serve un contrappeso onesto: l’assistenza con l’IA che ha risolto i suoi problemi è il tema più presente nei reclami letti, circa 45 su 86, anche se una parte riguarda gli strumenti di IA del costruttore di siti. Il suo caso non dice nulla di chi non è riuscito a superare l’agente, né di chi ha subito un addebito che non si aspettava."
+          "È la sua esperienza, con il suo uso, e serve un contrappeso onesto: l’assistenza con l’IA che ha risolto i suoi problemi è il tema più presente nei reclami, circa 45 su 86, anche se una parte riguarda gli strumenti di IA del costruttore di siti. Il suo caso non dice nulla di chi non è riuscito a superare l’agente, né di chi ha subito un addebito che non si aspettava."
         ]
       },
       {
@@ -94888,7 +94888,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual è il punteggio della Hostinger su Trustpilot? Un TrustScore di 4,6 su 5, da 73.830 recensioni, con l’87% di cinque stelle e il 7% di una stella.",
           "Le recensioni Hostinger su Trustpilot sono affidabili? Il profilo è rivendicato e gestito dall’azienda, che invita i clienti a recensire. Nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. Trustpilot dice che non verifica le recensioni una per una.",
-          "Di cosa si lamentano i clienti Hostinger su Trustpilot? Negli 86 reclami letti tra le 100 recensioni a una stella più recenti, i temi principali erano il supporto con l’IA e l’impossibilità di parlare con una persona (circa 45), la fatturazione e il rinnovo (circa 38) e i domini (circa 27).",
+          "Di cosa si lamentano i clienti Hostinger su Trustpilot? Tra gli 86 reclami delle 100 recensioni a una stella più recenti, i temi principali erano il supporto con l’IA e l’impossibilità di parlare con una persona (circa 45), la fatturazione e il rinnovo (circa 38) e i domini (circa 27).",
           "La Hostinger risponde alle recensioni negative? Sì. La pagina dice che l’azienda risponde al 99% delle recensioni negative, di solito entro 24 ore, e che può usare l’IA nelle risposte. Nel nostro campione, 80 degli 86 reclami avevano una risposta.",
           "Come disattivo il rinnovo automatico della Hostinger? In hPanel, apri il tuo profilo, vai su Fatturazione e poi su Abbonamenti, trova il servizio e clicca l’interruttore accanto. Leggi gli avvisi e conferma. Il prodotto resta attivo fino alla scadenza.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%, tranne sulla registrazione di domini. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
@@ -95063,7 +95063,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "계산을 바꾸는 세 가지 읽는 법",
         "paragraphs": [
-          "4.6 뒤에 무엇이 있는지 보려고, 2026년 10월 24일에 모든 언어의 최신 별 한 개 리뷰 100건과 최신 별 다섯 개 리뷰 100건을 읽었습니다. Trustpilot은 각 리뷰에 회사가 요청을 보낸 경우 “Invited”, 본인이 직접 쓴 경우 Organic이라는 표시를 붙입니다. 아래 표는 두 집단을 비교한 것입니다."
+          "4.6 뒤에 무엇이 있는지 보려고, 2026년 10월 24일 기준으로 모든 언어의 최신 별 한 개 리뷰 100건과 최신 별 다섯 개 리뷰 100건을 봅니다. Trustpilot은 각 리뷰에 회사가 요청을 보낸 경우 “Invited”, 본인이 직접 쓴 경우 Organic이라는 표시를 붙입니다. 아래 표는 두 집단을 비교한 것입니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -95103,7 +95103,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "사람들이 불평하는 내용",
         "paragraphs": [
-          "청구와 갱신 불만은 AI 지원 다음으로 많은 주제입니다. 별점과 글이 어긋나는 14건을 빼면, 최신 별 한 개 리뷰 100건 중 불만은 86건이 남았습니다. 제목과 발췌 내용을 읽고 주제별로 분류했기 때문에 건수는 대략적입니다. 많이 언급된 순서대로 정리하면 다음과 같습니다."
+          "청구와 갱신 불만은 AI 지원 다음으로 많은 주제입니다. 별점과 글이 어긋나는 14건을 빼면, 최신 별 한 개 리뷰 100건 중 불만은 86건이 남았습니다. 한 불만이 여러 주제에 걸칠 수 있어 건수는 대략적입니다. 많이 언급된 순서대로 정리하면 다음과 같습니다."
         ],
         "bullets": [
           "**AI 지원, 사람과 연결되지 않음:** 86건 중 약 45건. 일부는 지원이 아니라 웹사이트 빌더의 AI 도구에 관한 것입니다.",
@@ -95146,7 +95146,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hostinger의 답변",
         "paragraphs": [
           "회사는 부정적 리뷰의 99%에 답하며, 보통 24시간 이내라고 말합니다. 우리 표본에서는 86건의 불만 중 80건에 답변이 있었고, 답변이 없던 6건은 모두 직전 24시간 안에 올라온 글이었습니다. 페이지는 또한 회사가 답변에 AI를 쓸 수 있다고 밝힙니다.",
-          "우리가 센 것은 답변의 유무뿐이고 내용은 평가하지 않았습니다. 그래서 이 글은 답변이 문제를 해결하는지 말하지 않습니다. 구매 전에 프로필에서 답변을 몇 개 읽어 보세요. 특히 청구에 관한 답변을 확인하세요."
+          "수치가 보여 주는 것은 답변의 유무뿐이고 내용은 아닙니다. 그래서 이 글은 답변이 문제를 해결하는지 말하지 않습니다. 구매 전에 프로필에서 답변을 몇 개 읽어 보세요. 특히 청구에 관한 답변을 확인하세요."
         ]
       },
       {
@@ -95160,7 +95160,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger를 믿어도 될까요?",
         "paragraphs": [
-          "Trustpilot 기준으로는 그렇습니다. 확인한 시점에 점수는 리뷰 73,830건에 4.6이었고, 그중 87%가 별 다섯 개였습니다. 프로필에 따르면 회사는 부정적 리뷰의 99%에 답합니다. 우리 표본에서는 86건 불만 중 80건(약 93%)에 답변이 있었습니다.",
+          "Trustpilot 기준으로는 그렇습니다. 2026년 11월 기준으로 점수는 리뷰 73,830건에 4.6이었고, 그중 87%가 별 다섯 개였습니다. 프로필에 따르면 회사는 부정적 리뷰의 99%에 답합니다. 우리 표본에서는 86건 불만 중 80건(약 93%)에 답변이 있었습니다.",
           "단서는 점수가 어떻게 만들어졌는지, 그리고 불만의 내용입니다. 프로필은 회사가 관리합니다. 표본에서 최신 별 다섯 개 100건 중 78건은 초대받은 리뷰였고, 최신 별 한 개 100건 중 92건은 자발적이었습니다. 불만은 사람에게 닿지 않는 AI 지원, 청구와 갱신, 도메인에 집중됩니다. 호스팅에서는 자동 갱신이 만료 전에 알아서 청구하므로, 청구와의 연결은 우리의 해석입니다.",
           "실제로는 이렇게 하세요. 갱신일을 확인하고, 계속 쓰지 않을 생각이면 자동 갱신을 끄고, 구매 전에 프로필에서 별 한 개 리뷰를 읽어 보세요. 숫자는 매달 바뀌기 때문입니다."
         ]
@@ -95168,8 +95168,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "Hostinger는 Trustpilot 평점이 좋은가요? 확인한 시점에 TrustScore는 5점 만점에 4.6이었고, 별 다섯 개가 87%, 별 한 개가 7%였습니다.",
-          "Hostinger의 가장 흔한 불만은 무엇인가요? 최신 별 한 개 리뷰 100건 중 읽은 86건의 불만에서는 AI 지원과 사람에게 닿지 않는 문제(약 45건), 청구와 갱신(약 38건), 도메인(약 27건)이 가장 많았습니다.",
+          "Hostinger는 Trustpilot 평점이 좋은가요? 2026년 11월 기준으로 TrustScore는 5점 만점에 4.6이었고, 별 다섯 개가 87%, 별 한 개가 7%였습니다.",
+          "Hostinger의 가장 흔한 불만은 무엇인가요? 최신 별 한 개 리뷰 100건 중 86건의 불만에서는 AI 지원과 사람에게 닿지 않는 문제(약 45건), 청구와 갱신(약 38건), 도메인(약 27건)이 가장 많았습니다.",
           "Hostinger는 부정적 리뷰에 답하나요? 네. 페이지에 따르면 부정적 리뷰의 99%에 답하며, 보통 24시간 이내입니다. 표본에서는 86건 중 80건의 불만에 답변이 있었습니다.",
           "Hostinger 자동 갱신은 어떻게 끄나요? hPanel에서 프로필의 청구, 구독 순으로 열고 서비스 옆의 토글 스위치를 누른 뒤, 주의 사항을 확인하고 확정하세요. 제품은 만료일까지 계속 활성 상태입니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다(도메인 등록은 제외). 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
@@ -95344,7 +95344,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "数字が変わる三つの読み方",
         "paragraphs": [
-          "4.6 の裏側を見るため、全言語の直近の星 1 つのレビュー 100 件と、直近の星 5 つのレビュー 100 件を 2026年10月24日に読みました。Trustpilot は各レビューに、企業が依頼を送った「Invited」か、本人が自発的に書いた「Organic」かの表示を付けています。表は二つのグループを比べたものです。"
+          "4.6 の裏側を見るため、全言語の直近の星 1 つのレビュー 100 件と、直近の星 5 つのレビュー 100 件（2026年10月24日時点）を見ます。Trustpilot は各レビューに、企業が依頼を送った「Invited」か、本人が自発的に書いた「Organic」かの表示を付けています。表は二つのグループを比べたものです。"
         ],
         "comparisonTable": {
           "headers": [
@@ -95384,7 +95384,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "人々が不満に感じていること",
         "paragraphs": [
-          "請求と更新の苦情は、AI サポートに次いで多いテーマです。星と文章が食い違う 14 件を除くと、直近の星 1 つのレビュー 100 件の中に苦情が 86 件残りました。タイトルと抜粋を読んでテーマごとに分類したので、件数はおおよそです。多く挙げられた順に、次のとおりです。"
+          "請求と更新の苦情は、AI サポートに次いで多いテーマです。星と文章が食い違う 14 件を除くと、直近の星 1 つのレビュー 100 件の中に苦情が 86 件残りました。1 件の苦情が複数のテーマにまたがることがあるため、件数はおおよそです。多く挙げられた順に、次のとおりです。"
         ],
         "bullets": [
           "**AI サポートと、人に繋がらないこと:** 86 件中約 45 件。一部は、サイトビルダーの AI ツールに関するもので、サポートそのものではありません。",
@@ -95427,7 +95427,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hostinger の返信について",
         "paragraphs": [
           "同社は、否定的なレビューの 99% に返信し、多くは 24 時間以内だとしています。私たちのサンプルでは、86 件の苦情のうち 80 件に返信があり、返信のなかった 6 件はすべて直前の 24 時間以内の投稿でした。ページは、返信に AI を使うことがあるとも記しています。",
-          "私たちが数えたのは返信の有無だけで、中身は採点していません。そのため、この文章では返信が問題を解決しているかどうかは言えません。契約の前に、プロフィールでいくつか返信を読んでみてください。特に請求に関するものがおすすめです。"
+          "数字が示すのは返信の有無だけで、中身ではありません。そのため、この文章では返信が問題を解決しているかどうかは言えません。契約の前に、プロフィールでいくつか返信を読んでみてください。特に請求に関するものがおすすめです。"
         ]
       },
       {
@@ -95441,7 +95441,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger は信頼できますか？",
         "paragraphs": [
-          "Trustpilot で見るなら、はいです。読み取った時点で、スコアは 73,830 件のレビューで 4.6、そのうち 87% が星 5 つでした。ページによると、企業は否定的なレビューの 99% に返信しています。私たちのサンプルでは 86 件の苦情のうち 80 件（約 93%）に返信がありました。",
+          "Trustpilot で見るなら、はいです。2026年11月時点で、スコアは 73,830 件のレビューで 4.6、そのうち 87% が星 5 つでした。ページによると、企業は否定的なレビューの 99% に返信しています。私たちのサンプルでは 86 件の苦情のうち 80 件（約 93%）に返信がありました。",
           "注意点は、スコアの作られ方と苦情の中身です。プロフィールは企業が管理し、サンプルでは直近の星 5 つの 100 件のうち 78 件が招待によるもので、直近の星 1 つの 100 件のうち 92 件は自発的でした。苦情は、人に繋がらない AI サポート、請求と更新、ドメインに集中しています。ホスティングでは自動更新が期限の前に自動で請求するため、請求との結びつきは私たちの読みです。",
           "実際には、更新日を確認し、続けるつもりがなければ自動更新をオフにして、購入の前にプロフィールの星 1 つのレビューを読んでください。数字は毎月変わるからです。"
         ]
@@ -95449,8 +95449,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "Hostinger の Trustpilot 評価は高いですか？読み取った時点で、TrustScore は 5 点満点中 4.6 でした。星 5 つが 87%、星 1 つが 7% です。",
-          "Hostinger の主な苦情は何ですか？直近の星 1 つのレビュー 100 件から読んだ 86 件の苦情では、AI サポートと人に繋がらないこと（約 45 件）、請求と更新（約 38 件）、ドメイン（約 27 件）が上位でした。",
+          "Hostinger の Trustpilot 評価は高いですか？2026年11月時点で、TrustScore は 5 点満点中 4.6 でした。星 5 つが 87%、星 1 つが 7% です。",
+          "Hostinger の主な苦情は何ですか？直近の星 1 つのレビュー 100 件にある 86 件の苦情では、AI サポートと人に繋がらないこと（約 45 件）、請求と更新（約 38 件）、ドメイン（約 27 件）が上位でした。",
           "Hostinger は否定的なレビューに返信しますか？はい。ページによると、否定的なレビューの 99% に返信し、多くは 24 時間以内です。サンプルでは、86 件の苦情のうち 80 件に返信がありました。",
           "Hostinger の自動更新はどう止めますか？ hPanel でプロフィールから「請求」「サブスクリプション」の順に開き、サービスの横のトグルスイッチをクリックして、注意事項を確認し確定します。製品は期限日まで有効なままです。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます（ドメイン登録は対象外です）。すでにお持ちのプランの更新は通常料金で、割引はありません。"
@@ -95625,7 +95625,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "改變判斷的三種讀法",
         "paragraphs": [
-          "為了看清 4.6 背後的情況，我們於 2026 年 10 月 24 日閱讀了各語言中最近的 100 則一星評價和最近的 100 則五星評價。Trustpilot 會把每則評價標示為「Invited」（公司發出邀請）或 Organic（用戶自發）。下表比較了這兩組。"
+          "為了看清 4.6 背後的情況，下面看各語言中最近的 100 則一星評價和最近的 100 則五星評價（截至 2026 年 10 月 24 日）。Trustpilot 會把每則評價標示為「Invited」（公司發出邀請）或 Organic（用戶自發）。下表比較了這兩組。"
         ],
         "comparisonTable": {
           "headers": [
@@ -95665,7 +95665,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "人們在抱怨什麼",
         "paragraphs": [
-          "帳單與續訂是僅次於 AI 客服的第二大投訴主題。剔除 14 則星等與文字不一致的評價後，最近的 100 則一星評價中還剩 86 則投訴。我們閱讀了標題和摘要，依主題標示了每則投訴，所以數量是近似值。依被提及次數從多到少，主題如下："
+          "帳單與續訂是僅次於 AI 客服的第二大投訴主題。剔除 14 則星等與文字不一致的評價後，最近的 100 則一星評價中還剩 86 則投訴。一則投訴可能涉及多個主題，所以數量是近似值。依被提及次數從多到少，主題如下："
         ],
         "bullets": [
           "**AI 客服，無法找到真人：** 86 則中約 45 則。其中一部分說的是網站搭建工具的 AI 功能，而不是客服本身。",
@@ -95708,7 +95708,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hostinger 如何回覆",
         "paragraphs": [
           "公司表示會回覆 99% 的負面評價，通常在 24 小時內。在我們的樣本中，86 則投訴裡有 80 則得到了回覆，沒有回覆的 6 則都是在此前 24 小時內發布的。頁面還提醒，公司可能在回覆中使用 AI。",
-          "我們只統計了有沒有回覆，沒有評價回覆的內容，所以本文無法說明這些回覆是否解決了問題。購買前，請在檔案上讀幾則回覆，尤其是關於帳單的。"
+          "數字只反映有沒有回覆，不反映回覆的內容，所以本文無法說明這些回覆是否解決了問題。購買前，請在檔案上讀幾則回覆，尤其是關於帳單的。"
         ]
       },
       {
@@ -95722,7 +95722,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "可以信任 Hostinger 嗎？",
         "paragraphs": [
-          "從 Trustpilot 來看，可以。在查閱的時間點，分數為 4.6，共 73,830 則評價，其中 87% 是五星。檔案顯示公司回覆了 99% 的負面評價；在我們的樣本中，86 則投訴裡有 80 則（約 93%）得到了回覆。",
+          "從 Trustpilot 來看，可以。2026 年 11 月，分數為 4.6，共 73,830 則評價，其中 87% 是五星。檔案顯示公司回覆了 99% 的負面評價；在我們的樣本中，86 則投訴裡有 80 則（約 93%）得到了回覆。",
           "需要留意的是分數是怎麼形成的，以及投訴說了什麼。檔案由公司管理。在樣本中，最近 100 則五星評價裡有 78 則是受邀的，最近 100 則一星評價裡有 92 則是自發的。投訴集中在無法找到真人的 AI 客服、帳單與續訂，以及網域。在主機服務上，自動續訂會在到期前自動扣款，它與帳單投訴的關聯是我們的看法。",
           "實際操作：確認續訂日期，不打算繼續的話就關閉自動續訂；購買前打開檔案讀幾則一星評價，因為這些數字每個月都會變。"
         ]
@@ -95730,8 +95730,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "Hostinger 在 Trustpilot 上的評分高嗎？在查閱的時間點，TrustScore 為滿分 5 分中的 4.6，其中五星占 87%，一星占 7%。",
-          "Hostinger 最常見的投訴是什麼？在讀過的最近 100 則一星評價中的 86 則投訴裡，主要主題是 AI 客服和無法找到真人（約 45 則）、帳單和續訂（約 38 則）以及網域（約 27 則）。",
+          "Hostinger 在 Trustpilot 上的評分高嗎？2026 年 11 月，TrustScore 為滿分 5 分中的 4.6，其中五星占 87%，一星占 7%。",
+          "Hostinger 最常見的投訴是什麼？在最近 100 則一星評價的 86 則投訴裡，主要主題是 AI 客服和無法找到真人（約 45 則）、帳單和續訂（約 38 則）以及網域（約 27 則）。",
           "Hostinger 會回覆負面評價嗎？會。頁面顯示，公司回覆了 99% 的負面評價，通常在 24 小時內。在我們的樣本中，86 則投訴中有 80 則有回覆。",
           "如何關閉 Hostinger 的自動續訂？在 hPanel 中打開個人檔案，依序進入帳單和訂閱，找到服務並點擊旁邊的開關，閱讀提示後確認。產品會保持有效直到到期日。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣（網域註冊除外）。已有方案的續訂按定價計算，沒有折扣。"
@@ -95906,7 +95906,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "改变判断的三种读法",
         "paragraphs": [
-          "为了看清 4.6 背后的情况，我们于 2026 年 10 月 24 日阅读了各语言中最近的 100 条一星评价和最近的 100 条五星评价。Trustpilot 会把每条评价标注为“Invited”（公司发出邀请）或 Organic（用户自发）。下表比较了这两组。"
+          "为了看清 4.6 背后的情况，下面看各语言中最近的 100 条一星评价和最近的 100 条五星评价（截至 2026 年 10 月 24 日）。Trustpilot 会把每条评价标注为“Invited”（公司发出邀请）或 Organic（用户自发）。下表比较了这两组。"
         ],
         "comparisonTable": {
           "headers": [
@@ -95946,7 +95946,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "人们在抱怨什么",
         "paragraphs": [
-          "账单与续费是仅次于 AI 客服的第二大投诉主题。剔除 14 条星级与文字不一致的评价后，最近的 100 条一星评价中还剩 86 条投诉。我们阅读了标题和摘要，按主题标注了每条投诉，所以数量是近似值。按被提及次数从多到少，主题如下："
+          "账单与续费是仅次于 AI 客服的第二大投诉主题。剔除 14 条星级与文字不一致的评价后，最近的 100 条一星评价中还剩 86 条投诉。一条投诉可能涉及多个主题，所以数量是近似值。按被提及次数从多到少，主题如下："
         ],
         "bullets": [
           "**AI 客服，无法找到真人：** 86 条中约 45 条。其中一部分说的是网站搭建工具的 AI 功能，而不是客服本身。",
@@ -95989,7 +95989,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hostinger 如何回复",
         "paragraphs": [
           "公司表示会回复 99% 的负面评价，通常在 24 小时内。在我们的样本中，86 条投诉里有 80 条得到了回复，没有回复的 6 条都是在此前 24 小时内发布的。页面还提醒，公司可能在回复中使用 AI。",
-          "我们只统计了有没有回复，没有评价回复的内容，所以本文无法说明这些回复是否解决了问题。购买前，请在主页上读几条回复，尤其是关于账单的。"
+          "数字只反映有没有回复，不反映回复的内容，所以本文无法说明这些回复是否解决了问题。购买前，请在主页上读几条回复，尤其是关于账单的。"
         ]
       },
       {
@@ -96003,7 +96003,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "可以信任 Hostinger 吗？",
         "paragraphs": [
-          "从 Trustpilot 来看，可以。在查阅的时间点，分数为 4.6，共 73,830 条评价，其中 87% 是五星。主页显示公司回复了 99% 的负面评价；在我们的样本中，86 条投诉里有 80 条（约 93%）得到了回复。",
+          "从 Trustpilot 来看，可以。2026 年 11 月，分数为 4.6，共 73,830 条评价，其中 87% 是五星。主页显示公司回复了 99% 的负面评价；在我们的样本中，86 条投诉里有 80 条（约 93%）得到了回复。",
           "需要留意的是分数是怎么形成的，以及投诉说了什么。主页由公司管理。在样本中，最近 100 条五星评价里有 78 条是受邀的，最近 100 条一星评价里有 92 条是自发的。投诉集中在无法找到真人的 AI 客服、账单与续费，以及域名。在主机服务上，自动续费会在到期前自动扣款，它与账单投诉的联系是我们的看法。",
           "实际操作：确认续费日期，不打算继续的话就关闭自动续费；购买前打开主页读几条一星评价，因为这些数字每个月都会变。"
         ]
@@ -96011,8 +96011,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "Hostinger 在 Trustpilot 上的评分高吗？在查阅的时间点，TrustScore 为满分 5 分中的 4.6，其中五星占 87%，一星占 7%。",
-          "Hostinger 最常见的投诉是什么？在读过的最近 100 条一星评价中的 86 条投诉里，主要主题是 AI 客服和无法找到真人（约 45 条）、账单和续费（约 38 条）以及域名（约 27 条）。",
+          "Hostinger 在 Trustpilot 上的评分高吗？2026 年 11 月，TrustScore 为满分 5 分中的 4.6，其中五星占 87%，一星占 7%。",
+          "Hostinger 最常见的投诉是什么？在最近 100 条一星评价的 86 条投诉里，主要主题是 AI 客服和无法找到真人（约 45 条）、账单和续费（约 38 条）以及域名（约 27 条）。",
           "Hostinger 会回复负面评价吗？会。页面显示，公司回复了 99% 的负面评价，通常在 24 小时内。在我们的样本中，86 条投诉中有 80 条有回复。",
           "如何关闭 Hostinger 的自动续费？在 hPanel 中打开个人资料，依次进入账单和订阅，找到服务并点击旁边的开关，阅读提示后确认。产品会保持有效直到到期日。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣（域名注册除外）。已有套餐的续费按标价收费，没有折扣。"
@@ -96101,7 +96101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o SONAR20 cobre",
         "paragraphs": [
-          "O SONAR20 vale em todos os planos, mensais e anuais, em compra nova, também para quem já é cliente da Hostinger. Em 07/11/2026, testamos no carrinho: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
+          "O SONAR20 vale em todos os planos, mensais e anuais, em compra nova, também para quem já é cliente da Hostinger. No carrinho, em 07/11/2026: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
           "Você também pode acessar a Hostinger pelo link deste artigo. No carrinho, confira o desconto, o período contratado e o total antes de pagar. Se SONAR20 não estiver aplicado, use o campo de cupom."
         ]
       },
@@ -96179,7 +96179,7 @@ export const reviewsData: unknown[] = [
         "heading": "Plano mensal, anual e quem já é cliente",
         "paragraphs": [
           "O SONAR20 dá 20% no primeiro período de uma compra nova elegível, em plano mensal ou anual, inclusive para quem já tem conta e contrata um produto novo. Vale em todos os planos; não vale para domínio avulso nem renovação.",
-          "No e-mail e nos agentes de IA, confira no carrinho se o desconto aparece. No teste em uma conta antiga, o SONAR20 tirou 20% de um produto novo, sobre o desconto da campanha.",
+          "No e-mail e nos agentes de IA, confira no carrinho se o desconto aparece. Em conta antiga, o SONAR20 tirou 20% de um produto novo, sobre o desconto da campanha.",
           "Contratar um produto novo é diferente de renovar o que você já tem: a renovação sai pelo preço de tabela, sem os 20%."
         ]
       },
@@ -96205,7 +96205,7 @@ export const reviewsData: unknown[] = [
           "Onde coloco o cupom da Hostinger? No carrinho, no campo \"Tem um cupom de desconto?\" (\"Have a coupon code?\" no site global). Cole SONAR20 e aplique antes de pagar.",
           "O SONAR20 vale para quem já é cliente? Sim, na contratação de um plano ou produto novo elegível, não na renovação do que você já tem. Aplique o código e confira o desconto no resumo antes de pagar.",
           "O cupom dá desconto na renovação? Não: a renovação sai pelo preço de tabela, que o carrinho mostra logo abaixo do plano. Os 20% valem só em compra nova.",
-          "O SONAR20 vale na Black Friday? Sim: no teste no carrinho, os 20% saíram do preço da campanha."
+          "O SONAR20 vale na Black Friday? Sim: os 20% saem do preço da campanha."
         ]
       }
     ],
@@ -96286,7 +96286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What SONAR20 covers",
         "paragraphs": [
-          "SONAR20 is valid on all plans, monthly and annual, on a new purchase, including for people who are already Hostinger customers. On November 7, 2026, we tested it in the cart: with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. In the test, the 20% came off the Black Friday price, and the code worked on its own, without the link. Those are that test's prices, not a current quote.",
+          "SONAR20 is valid on all plans, monthly and annual, on a new purchase, including for people who are already Hostinger customers. In the cart on November 7, 2026, with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. The 20% came off the Black Friday price, and the code worked on its own, without the link. Those are the prices from that day, not a current quote.",
           "You can also visit Hostinger through the link in this article. In the cart, check the discount, the subscription period and the total before paying. If SONAR20 has not been applied, enter it in the coupon field."
         ]
       },
@@ -96332,7 +96332,7 @@ export const reviewsData: unknown[] = [
           "Where do I enter the Hostinger coupon? In the cart, in the “Have a coupon code?” field. Paste SONAR20 and apply it before paying.",
           "Can existing customers use SONAR20? Yes, when buying an eligible new plan or product, rather than renewing one they already have. Apply the code and check the discount in the order summary before paying.",
           "Does the coupon discount the renewal? No: renewal is charged at the list price, which the cart shows right below the plan. The 20% applies only to new purchases.",
-          "Does SONAR20 work on Black Friday? Yes: in the cart test, the 20% came off the campaign price. For a purchase today, apply SONAR20 and check your total before paying."
+          "Does SONAR20 work on Black Friday? Yes: the 20% comes off the campaign price. For a purchase today, apply SONAR20 and check your total before paying."
         ]
       }
     ],
@@ -96413,7 +96413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué cubre el SONAR20",
         "paragraphs": [
-          "En la prueba del 7 de noviembre de 2026 en el sitio global, SONAR20 en el campo «Have a coupon code?» redujo el Startup de 48 meses de US$ 383,52 a US$ 306,82. El 20% se descontó del precio de Black Friday y el código funcionó sin el enlace. Son los precios de esa prueba, no una cotización actual.",
+          "En el carrito del sitio global, el 7 de noviembre de 2026, SONAR20 en el campo «Have a coupon code?» redujo el Startup de 48 meses de US$ 383,52 a US$ 306,82. El 20% se descontó del precio de Black Friday y el código funcionó sin el enlace. Son los precios de ese día, no una cotización actual.",
           "También puedes acceder a Hostinger por el enlace de este artículo. En el carrito, revisa el descuento, el período contratado y el total antes de pagar. Si SONAR20 no está aplicado, introdúcelo en el campo de cupón."
         ]
       },
@@ -96459,7 +96459,7 @@ export const reviewsData: unknown[] = [
           "¿Dónde pongo el cupón de Hostinger? En el carrito, en el campo «Have a coupon code?». Pega SONAR20 y aplícalo antes de pagar.",
           "¿SONAR20 vale para clientes actuales? Sí, al contratar un plan o producto nuevo elegible, no al renovar uno que ya tienes. Aplica el código y revisa el descuento en el resumen antes de pagar.",
           "¿El cupón da descuento en la renovación? No: la renovación se cobra al precio de lista, que el carrito muestra justo debajo del plan. El 20 % vale solo en compra nueva.",
-          "¿El SONAR20 vale en Black Friday? Sí: en la prueba en el carrito, el 20% se descontó del precio de la campaña. Para una compra de hoy, aplica SONAR20 y revisa el total antes de pagar."
+          "¿El SONAR20 vale en Black Friday? Sí: el 20% se descuenta del precio de la campaña. Para una compra de hoy, aplica SONAR20 y revisa el total antes de pagar."
         ]
       }
     ],
@@ -96540,7 +96540,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce que couvre SONAR20",
         "paragraphs": [
-          "Lors du test du 7 novembre 2026 sur le site global, SONAR20 dans le champ « Have a coupon code? » a fait passer le forfait Startup de 48 mois de 383,52 USD à 306,82 USD. Les 20 % ont été retirés du prix du Black Friday et le code a fonctionné sans le lien. Ce sont les prix de ce test, pas un devis actuel.",
+          "Dans le panier du site global, le 7 novembre 2026, SONAR20 dans le champ « Have a coupon code? » a fait passer le forfait Startup de 48 mois de 383,52 USD à 306,82 USD. Les 20 % ont été retirés du prix du Black Friday et le code a fonctionné sans le lien. Ce sont les prix de ce jour-là, pas un devis actuel.",
           "Vous pouvez aussi accéder à Hostinger par le lien de cet article. Dans le panier, vérifiez la réduction, la durée souscrite et le total avant de payer. Si SONAR20 n’est pas appliqué, saisissez-le dans le champ de code promo."
         ]
       },
@@ -96586,7 +96586,7 @@ export const reviewsData: unknown[] = [
           "Où mettre le code promo Hostinger ? Dans le panier, dans le champ « Have a coupon code? ». Collez SONAR20 et appliquez-le avant de payer.",
           "SONAR20 est-il valable pour les clients existants ? Oui, pour un nouveau forfait ou produit éligible, pas pour renouveler celui que vous avez déjà. Appliquez le code et vérifiez la réduction dans le récapitulatif avant de payer.",
           "Le code donne-t-il une réduction sur le renouvellement ? Non : le renouvellement est facturé au prix catalogue, que le panier affiche juste sous le forfait. Les 20 % valent seulement sur un nouvel achat.",
-          "SONAR20 est-il valable pendant le Black Friday ? Oui : lors du test dans le panier, les 20 % ont été retirés du prix de la campagne. Pour un achat aujourd’hui, appliquez SONAR20 et vérifiez le total avant de payer."
+          "SONAR20 est-il valable pendant le Black Friday ? Oui : les 20 % sont retirés du prix de la campagne. Pour un achat aujourd’hui, appliquez SONAR20 et vérifiez le total avant de payer."
         ]
       }
     ],
@@ -96667,7 +96667,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was SONAR20 abdeckt",
         "paragraphs": [
-          "Im Test vom 7. November 2026 auf der globalen Website sank der Preis des Startup-Tarifs für 48 Monate mit SONAR20 im Feld „Have a coupon code?“ von 383,52 USD auf 306,82 USD. Die 20 % wurden vom Black-Friday-Preis abgezogen; der Code funktionierte ohne den Link. Das sind die Preise dieses Tests, kein aktuelles Angebot.",
+          "Im Warenkorb der globalen Website sank am 7. November 2026 der Preis des Startup-Tarifs für 48 Monate mit SONAR20 im Feld „Have a coupon code?“ von 383,52 USD auf 306,82 USD. Die 20 % wurden vom Black-Friday-Preis abgezogen; der Code funktionierte ohne den Link. Das sind die Preise dieses Tages, kein aktuelles Angebot.",
           "Sie können Hostinger auch über den Link in diesem Artikel aufrufen. Prüfen Sie im Warenkorb Rabatt, Vertragslaufzeit und Gesamtpreis vor der Zahlung. Falls SONAR20 nicht angewendet wurde, tragen Sie ihn im Gutscheinfeld ein."
         ]
       },
@@ -96713,7 +96713,7 @@ export const reviewsData: unknown[] = [
           "Wo trage ich den Hostinger-Gutschein ein? Im Warenkorb, im Feld „Have a coupon code?“. Fügen Sie SONAR20 ein und wenden Sie ihn an, bevor Sie zahlen.",
           "Gilt SONAR20 für Bestandskunden? Ja, beim Kauf eines berechtigten neuen Tarifs oder Produkts, nicht bei der Verlängerung eines bestehenden. Wenden Sie den Code an und prüfen Sie den Rabatt vor der Zahlung in der Bestellübersicht.",
           "Gibt der Gutschein Rabatt auf die Verlängerung? Nein: Die Verlängerung wird zum Listenpreis berechnet, den der Warenkorb direkt unter dem Tarif anzeigt. Die 20 % gelten nur bei einem Neukauf.",
-          "Gilt SONAR20 am Black Friday? Ja: Im Test im Warenkorb wurden die 20 % vom Preis der Aktion abgezogen. Wenden Sie SONAR20 für einen heutigen Kauf an und prüfen Sie den Gesamtpreis vor der Zahlung."
+          "Gilt SONAR20 am Black Friday? Ja: Die 20 % werden vom Preis der Aktion abgezogen. Wenden Sie SONAR20 für einen heutigen Kauf an und prüfen Sie den Gesamtpreis vor der Zahlung."
         ]
       }
     ],
@@ -96794,7 +96794,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cosa copre SONAR20",
         "paragraphs": [
-          "Nel test del 7 novembre 2026 sul sito globale, SONAR20 nel campo «Have a coupon code?» ha portato il piano Startup da 48 mesi da 383,52 USD a 306,82 USD. Il 20% è stato tolto dal prezzo del Black Friday e il codice ha funzionato senza il link. Sono i prezzi di quel test, non un preventivo attuale.",
+          "Nel carrello del sito globale, il 7 novembre 2026, SONAR20 nel campo «Have a coupon code?» ha portato il piano Startup da 48 mesi da 383,52 USD a 306,82 USD. Il 20% è stato tolto dal prezzo del Black Friday e il codice ha funzionato senza il link. Sono i prezzi di quel giorno, non un preventivo attuale.",
           "Puoi anche accedere a Hostinger tramite il link di questo articolo. Nel carrello, controlla sconto, durata e totale prima di pagare. Se SONAR20 non è applicato, inseriscilo nel campo coupon."
         ]
       },
@@ -96840,7 +96840,7 @@ export const reviewsData: unknown[] = [
           "Dove inserisco il coupon Hostinger? Nel carrello, nel campo «Have a coupon code?». Incolla SONAR20 e applica prima di pagare.",
           "SONAR20 vale per chi è già cliente? Sì, per acquistare un nuovo piano o prodotto idoneo, non per rinnovarne uno già in uso. Applica il codice e verifica lo sconto nel riepilogo prima di pagare.",
           "Il coupon dà sconto sul rinnovo? No: il rinnovo si paga al prezzo di listino, che il carrello mostra subito sotto il piano. I 20% valgono solo sugli acquisti nuovi.",
-          "SONAR20 vale durante il Black Friday? Sì: nel test nel carrello, il 20% è stato tolto dal prezzo della campagna. Per un acquisto di oggi, applica SONAR20 e controlla il totale prima di pagare."
+          "SONAR20 vale durante il Black Friday? Sì: il 20% viene tolto dal prezzo della campagna. Per un acquisto di oggi, applica SONAR20 e controlla il totale prima di pagare."
         ]
       }
     ],
@@ -96921,7 +96921,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20이 적용되는 범위",
         "paragraphs": [
-          "SONAR20은 월간·연간 모든 플랜의 신규 구매에 쓸 수 있고, 이미 Hostinger를 쓰는 고객에게도 적용됩니다. 2026년 11월 7일 장바구니에서 테스트했습니다. 글로벌 사이트의 “Have a coupon code?” 입력란에 코드를 넣자 48개월 Startup 플랜이 383.52달러에서 306.82달러가 되었습니다. 이 테스트에서 20%는 블랙프라이데이 가격에서 빠졌고, 링크 없이 코드만으로도 적용되었습니다. 당시 테스트 가격이며 현재 견적은 아닙니다.",
+          "SONAR20은 월간·연간 모든 플랜의 신규 구매에 쓸 수 있고, 이미 Hostinger를 쓰는 고객에게도 적용됩니다. 2026년 11월 7일 장바구니에서 글로벌 사이트의 “Have a coupon code?” 입력란에 코드를 넣자 48개월 Startup 플랜이 383.52달러에서 306.82달러가 되었습니다. 20%는 블랙프라이데이 가격에서 빠졌고, 링크 없이 코드만으로도 적용되었습니다. 당일 가격이며 현재 견적은 아닙니다.",
           "이 글의 링크로 Hostinger에 접속할 수도 있습니다. 장바구니에서 할인, 계약 기간, 총액을 결제 전에 확인하세요. SONAR20이 적용되지 않았다면 쿠폰 입력란에 입력하세요."
         ]
       },
@@ -96967,7 +96967,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 쿠폰은 어디에 넣나요? 장바구니의 “Have a coupon code?” 입력란입니다. SONAR20을 붙여넣고 결제 전에 적용하세요.",
           "SONAR20은 기존 고객도 쓸 수 있나요? 네. 적용 대상인 새 플랜이나 제품을 구매할 때 쓸 수 있고, 이미 사용 중인 플랜의 갱신에는 적용되지 않습니다. 결제 전에 코드를 적용하고 주문 요약에서 할인을 확인하세요.",
           "쿠폰으로 갱신도 할인되나요? 아니요. 갱신은 장바구니가 플랜 바로 아래에 보여 주는 정가로 청구되며, 20%는 신규 구매에만 적용됩니다.",
-          "SONAR20은 블랙프라이데이에도 되나요? 네. 장바구니 테스트에서 20%는 캠페인 가격에서 빠졌습니다. 지금 구매한다면 SONAR20을 적용하고 결제 전에 총액을 확인하세요."
+          "SONAR20은 블랙프라이데이에도 되나요? 네. 20%는 캠페인 가격에서 빠집니다. 지금 구매한다면 SONAR20을 적용하고 결제 전에 총액을 확인하세요."
         ]
       }
     ],
@@ -97047,7 +97047,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20の対象",
         "paragraphs": [
-          "SONAR20は月額・年額を問わずすべてのプランの新規購入で使え、すでにHostingerを使っている方も対象です。2026年11月7日にカートで検証しました。グローバルサイトで「Have a coupon code?」欄にコードを入れると、48か月のStartupプランは383.52米ドルから306.82米ドルになりました。この検証では、20%はブラックフライデー価格から引かれ、リンクなしでもコードだけで有効でした。この金額は検証時のもので、現在の見積もりではありません。",
+          "SONAR20は月額・年額を問わずすべてのプランの新規購入で使え、すでにHostingerを使っている方も対象です。2026年11月7日のカートでは、グローバルサイトで「Have a coupon code?」欄にコードを入れると、48か月のStartupプランは383.52米ドルから306.82米ドルになりました。20%はブラックフライデー価格から引かれ、リンクなしでもコードだけで有効でした。この金額はその日のもので、現在の見積もりではありません。",
           "この記事のリンクからHostingerにアクセスすることもできます。カートで、割引、契約期間、合計金額を支払い前に確認してください。SONAR20が適用されていない場合は、クーポン欄に入力してください。"
         ]
       },
@@ -97093,7 +97093,7 @@ export const reviewsData: unknown[] = [
           "Hostingerのクーポンはどこに入れますか？カートの「Have a coupon code?」欄です。SONAR20を貼り付けて、支払う前に適用してください。",
           "SONAR20は既存のお客様も使えますか？ はい。対象となる新しいプランや商品を購入する場合に使えます。すでに契約しているプランの更新は対象外です。支払い前にコードを適用し、注文概要で割引を確認してください。",
           "クーポンで更新も割引になりますか？いいえ。更新は、カートでプランの下に表示される通常料金で、20%割引は新規購入にだけ適用されます。",
-          "SONAR20はブラックフライデーでも使えますか？はい。カートでの検証では、20%はキャンペーン価格から引かれました。今購入する場合は、SONAR20を適用して支払い前に合計金額を確認してください。"
+          "SONAR20はブラックフライデーでも使えますか？はい。20%はキャンペーン価格から引かれます。今購入する場合は、SONAR20を適用して支払い前に合計金額を確認してください。"
         ]
       }
     ],
@@ -97175,7 +97175,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 涵蓋什麼",
         "paragraphs": [
-          "SONAR20 適用於所有月付與年付方案的新購訂單，已經是 Hostinger 客戶的人也能用。2026 年 11 月 7 日，我們在購物車實際測試過：在全球站的「Have a coupon code?」欄位輸入優惠碼後，48 個月的 Startup 方案從 383.52 美元降到 306.82 美元。測試中，20% 是從黑色星期五價格扣掉的，優惠碼單獨就有效，不需要連結。這是當時的測試價格，不是目前報價。",
+          "SONAR20 適用於所有月付與年付方案的新購訂單，已經是 Hostinger 客戶的人也能用。2026 年 11 月 7 日，在購物車中，全球站的「Have a coupon code?」欄位輸入優惠碼後，48 個月的 Startup 方案從 383.52 美元降到 306.82 美元。20% 是從黑色星期五價格扣掉的，優惠碼單獨就有效，不需要連結。這是當天的價格，不是目前報價。",
           "你也可以透過本文的連結進入 Hostinger。在購物車中，付款前確認折扣、訂閱期間和總價。如果 SONAR20 沒有生效，請在優惠碼欄位輸入。"
         ]
       },
@@ -97221,7 +97221,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 的優惠碼要輸入在哪裡？在購物車的「Have a coupon code?」欄位。付款前貼上 SONAR20 並套用。",
           "SONAR20 現有客戶能用嗎？ 可以，用於購買符合條件的新方案或新產品，不適用於續訂已有方案。付款前套用優惠碼，並在訂單摘要核對折扣。",
           "優惠碼對續訂有折扣嗎？沒有：續訂按定價計算，購物車會在方案下方顯示價格。20% 只適用於新購買。",
-          "SONAR20 在黑色星期五能用嗎？能：購物車測試中，20% 是從活動價扣掉的。如果現在購買，請套用 SONAR20，並在付款前核對總額。"
+          "SONAR20 在黑色星期五能用嗎？能：20% 是從活動價扣掉的。如果現在購買，請套用 SONAR20，並在付款前核對總額。"
         ]
       }
     ],
@@ -97302,7 +97302,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 适用范围",
         "paragraphs": [
-          "SONAR20 适用于所有月付和年付套餐的新购订单，已经是 Hostinger 客户的人也可以用。2026 年 11 月 7 日，我们在购物车里测试过：在全球站的 “Have a coupon code?” 栏输入代码后，48 个月的 Startup 套餐从 383.52 美元降到 306.82 美元。测试中，20% 是从黑色星期五价格上扣的，代码单独就有效，不需要链接。这是当时的测试价格，不是当前报价。",
+          "SONAR20 适用于所有月付和年付套餐的新购订单，已经是 Hostinger 客户的人也可以用。2026 年 11 月 7 日，在购物车中，全球站的 “Have a coupon code?” 栏输入代码后，48 个月的 Startup 套餐从 383.52 美元降到 306.82 美元。20% 是从黑色星期五价格上扣的，代码单独就有效，不需要链接。这是当天的价格，不是当前报价。",
           "你也可以通过本文的链接进入 Hostinger。在购物车里，付款前确认折扣、订阅周期和总价。如果 SONAR20 没有生效，请在优惠码栏输入。"
         ]
       },
@@ -97348,7 +97348,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 的优惠码在哪里输入？在购物车的 “Have a coupon code?” 栏。付款前粘贴 SONAR20 并应用。",
           "SONAR20 现有客户能用吗？ 可以，用于购买符合条件的新套餐或新产品，不适用于续费已有套餐。付款前应用代码，并在订单摘要核对折扣。",
           "优惠码对续费有折扣吗？没有：续费按标价收费，购物车会在套餐下方显示。20% 只适用于新购。",
-          "SONAR20 在黑色星期五能用吗？能：购物车测试中，20% 是从活动价上扣的。如果现在购买，请应用 SONAR20，并在付款前核对总额。"
+          "SONAR20 在黑色星期五能用吗？能：20% 是从活动价上扣的。如果现在购买，请应用 SONAR20，并在付款前核对总额。"
         ]
       }
     ],
@@ -97430,7 +97430,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Já começou. A FAQ oficial da Hostinger diz: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026.\" A página global em inglês diz a mesma data.",
           "Em 03/11, a página da campanha no Brasil mostra 80% off em hospedagem de sites, 66% em VPS e 74% no Reach (e-mail marketing). São os números dos banners, não o desconto de cada plano: o preço por plano está na tabela abaixo.",
-          "Os números abaixo são só da campanha de 2026, lidos na página oficial."
+          "Os números abaixo são só da campanha de 2026, da página oficial."
         ],
         "images": [
           {
@@ -97484,14 +97484,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para R$ 229,92 com o SONAR20. Num teste de 07/11/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
+          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para R$ 229,92 com o SONAR20. No carrinho do site brasileiro, em 07/11/2026, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
           "Onde colar o código e por que a renovação não tem desconto está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
       {
         "heading": "Quem deve esperar e quem não deve",
         "paragraphs": [
-          "Se precisa colocar o site no ar esta semana, compare o total disponível agora, com e sem SONAR20, e o preço de renovação. O código reduziu o preço da campanha no nosso teste; isso não garante que o valor será o menor até o fim da Black Friday.",
+          "Se precisa colocar o site no ar esta semana, compare o total disponível agora, com e sem SONAR20, e o preço de renovação. O código reduziu o preço da campanha; isso não garante que o valor será o menor até o fim da Black Friday.",
           "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
           "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner mostrava 67% em 03/11.",
           "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo.",
@@ -97517,7 +97517,7 @@ export const reviewsData: unknown[] = [
           "A Black Friday da Hostinger tem cupom? O preço da campanha entra sozinho, e o código SONAR20, no campo de cupom do carrinho, tira mais 20% dele. Não citamos códigos de outros sites.",
           "Até quando vai a Black Friday da Hostinger? Até meados de dezembro, segundo a FAQ oficial; a data exata está no começo do artigo.",
           "O preço da Black Friday continua na renovação? Não. Ele vale para o período inicial da assinatura. A renovação sai pelo preço normal do plano.",
-          "O SONAR20 vale junto com o preço da Black Friday? Sim: no nosso teste, os 20% saíram do preço da campanha. Como o preço muda, confira o total no carrinho.",
+          "O SONAR20 vale junto com o preço da Black Friday? Sim: os 20% saíram do preço da campanha. Como o preço muda, confira o total no carrinho.",
           "A garantia de reembolso vale na Black Friday? A FAQ diz que os planos elegíveis têm garantia de 30 dias, com termos e exclusões. O que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel).",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
@@ -97603,21 +97603,21 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "It has. Hostinger's official FAQ says: “Hostinger's Black Friday sale runs from October 19 to December 14, 2026.” The global page in English gives the same date.",
           "On November 3, the campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach (email marketing). Those are the banner figures, not the discount on every plan.",
-          "The numbers below are for the 2026 campaign only, read from the official page."
+          "The numbers below are for the 2026 campaign only, from the official page."
         ],
         "images": []
       },
       {
         "heading": "What you pay with the campaign and with SONAR20",
         "postParagraphs": [
-          "The discount applies on top of the campaign price. In a test on November 7, 2026 on the global site, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”). Plan, campaign and country can change the total, so check the amount in your cart.",
+          "The discount applies on top of the campaign price. In the cart on the global site, on November 7, 2026, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”). Plan, campaign and country can change the total, so check the amount in your cart.",
           "Where to paste the code and why renewal has no discount are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
       {
         "heading": "Who should wait and who shouldn't",
         "paragraphs": [
-          "If you need your site online this week, compare today's total with and without SONAR20, plus the renewal price. In our test, the code reduced the campaign price, but that does not guarantee the lowest price through the end of Black Friday.",
+          "If you need your site online this week, compare today's total with and without SONAR20, plus the renewal price. The code reduced the campaign price, but that does not guarantee the lowest price through the end of Black Friday.",
           "If you can wait, keep in mind that the campaign runs until mid-December, but no price is guaranteed until then. The 20% from SONAR20 comes off the campaign price: if the campaign changes, the total changes with it.",
           "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner shows 67% on November 3.",
           "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan.",
@@ -97643,7 +97643,7 @@ export const reviewsData: unknown[] = [
           "Does Hostinger's Black Friday have a coupon? The campaign price applies automatically, and the code SONAR20, entered in the cart's coupon field, takes another 20% off it. We don't mention codes from other sites.",
           "When does Hostinger's Black Friday end? In mid-December, according to the official FAQ; the exact date is at the start of the article.",
           "Does the Black Friday price carry over to renewal? No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",
-          "Does SONAR20 work together with the Black Friday price? Yes: in our test, the 20% came off the campaign price. Since the price changes, check the total in the cart.",
+          "Does SONAR20 work together with the Black Friday price? Yes: the 20% comes off the campaign price. Since the price changes, check the total in the cart.",
           "Does the refund guarantee apply on Black Friday? The FAQ says eligible plans have a 30-day guarantee, with terms and exclusions. What it leaves out is in [Is Hostinger reliable?](/en/reviews/is-hostinger-legit).",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
@@ -97728,21 +97728,21 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Ya empezó. La FAQ oficial de Hostinger dice: «La promoción Black Friday de Hostinger va del 19 de octubre al 14 de diciembre de 2026». La página global en inglés indica la misma fecha.",
           "El 3 de noviembre, la página de la campaña en US$ muestra un 85 % de descuento en hosting web, un 67 % en VPS y un 75 % en Reach (email marketing). Son las cifras de los banners, no el descuento de cada plan.",
-          "Las cifras de abajo son solo de la campaña de 2026, leídas en la página oficial."
+          "Las cifras de abajo son solo de la campaña de 2026, de la página oficial."
         ],
         "images": []
       },
       {
         "heading": "Cuánto cuesta con la campaña y con SONAR20",
         "postParagraphs": [
-          "El descuento se aplica sobre el precio de la campaña. En una prueba del 7 de noviembre de 2026 en el sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»). El plan, la campaña y el país pueden cambiar el total, así que revisa el importe en tu carrito.",
+          "El descuento se aplica sobre el precio de la campaña. En el carrito del sitio global, el 7 de noviembre de 2026, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»). El plan, la campaña y el país pueden cambiar el total, así que revisa el importe en tu carrito.",
           "Dónde pegar el código y por qué la renovación no tiene descuento está en [Cupón Hostinger SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
       {
         "heading": "Quién debe esperar y quién no",
         "paragraphs": [
-          "Si necesitas el sitio en línea esta semana, compara el total disponible ahora, con y sin SONAR20, y el precio de renovación. El código redujo el precio de la campaña en nuestra prueba; eso no garantiza el precio más bajo hasta el final de la Black Friday.",
+          "Si necesitas el sitio en línea esta semana, compara el total disponible ahora, con y sin SONAR20, y el precio de renovación. El código redujo el precio de la campaña; eso no garantiza el precio más bajo hasta el final de la Black Friday.",
           "Si puedes esperar, ten en cuenta que la campaña dura hasta mediados de diciembre, pero ningún precio está garantizado hasta entonces. El 20 % de SONAR20 sale del precio de la campaña: si la campaña cambia, el total cambia con ella.",
           "Para la mayoría de los sitios personales, empresariales y de WordPress, la propia FAQ recomienda el Premium. Hostinger recomienda el Single a quien empieza o tiene proyectos sencillos. Para VPS, calcula el total en el carrito: el banner en US$ mostraba un 67 % el 3 de noviembre.",
           "Si ya eres cliente, revisa las ofertas de mejora de tu cuenta: la FAQ dice que los clientes actuales pueden recibir ofertas aparte. SONAR20 también vale para un plan nuevo.",
@@ -97768,7 +97768,7 @@ export const reviewsData: unknown[] = [
           "¿La Black Friday de Hostinger tiene cupón? El precio de la campaña se aplica solo, y el código SONAR20, en el campo de cupón del carrito, quita un 20 % más. No citamos códigos de otros sitios.",
           "¿Hasta cuándo dura la Black Friday de Hostinger? Hasta mediados de diciembre, según la FAQ oficial; la fecha exacta está al comienzo del artículo.",
           "¿El precio de la Black Friday se mantiene en la renovación? No. Vale para el período inicial de la suscripción. La renovación se cobra al precio normal del plan.",
-          "¿SONAR20 vale junto con el precio de la Black Friday? Sí: en nuestra prueba, el 20 % salió del precio de la campaña. Como el precio cambia, comprueba el total en el carrito.",
+          "¿SONAR20 vale junto con el precio de la Black Friday? Sí: el 20 % salió del precio de la campaña. Como el precio cambia, comprueba el total en el carrito.",
           "¿La garantía de reembolso vale en la Black Friday? La FAQ dice que los planes elegibles tienen garantía de 30 días, con términos y exclusiones. Lo que queda fuera está en [¿Es fiable Hostinger?](/es/reviews/hostinger-es-confiable).",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
@@ -97853,21 +97853,21 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Oui. La FAQ officielle de Hostinger indique : « La promotion Black Friday de Hostinger a lieu du 19 octobre au 14 décembre 2026. » La page mondiale en anglais donne la même date.",
           "Le 3 novembre, la page de la campagne en US$ affiche 85 % de réduction sur l’hébergement web, 67 % sur le VPS et 75 % sur Reach (e-mail marketing). Ce sont les chiffres des bannières, pas la réduction de chaque offre.",
-          "Les chiffres ci-dessous concernent uniquement la campagne 2026, relevés sur la page officielle."
+          "Les chiffres ci-dessous concernent uniquement la campagne 2026, de la page officielle."
         ],
         "images": []
       },
       {
         "heading": "Ce que l’on paie avec la campagne et avec SONAR20",
         "postParagraphs": [
-          "La réduction s’applique sur le prix de la campagne. Lors d’un test du 7 novembre 2026 sur le site mondial, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »). L’offre, la campagne et le pays peuvent changer le total : vérifiez le montant dans votre panier.",
+          "La réduction s’applique sur le prix de la campagne. Dans le panier du site mondial, le 7 novembre 2026, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »). L’offre, la campagne et le pays peuvent changer le total : vérifiez le montant dans votre panier.",
           "Où coller le code et pourquoi le renouvellement n’a pas de réduction : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
       {
         "heading": "Qui doit attendre et qui ne le doit pas",
         "paragraphs": [
-          "Si vous avez besoin de votre site en ligne cette semaine, comparez le total disponible aujourd’hui avec et sans SONAR20, ainsi que le renouvellement. Le code a réduit le prix de la campagne lors de notre test ; cela ne garantit pas le prix le plus bas jusqu’à la fin du Black Friday.",
+          "Si vous avez besoin de votre site en ligne cette semaine, comparez le total disponible aujourd’hui avec et sans SONAR20, ainsi que le renouvellement. Le code a réduit le prix de la campagne ; cela ne garantit pas le prix le plus bas jusqu’à la fin du Black Friday.",
           "Si vous pouvez attendre, sachez que la campagne dure jusqu’à la mi-décembre, mais qu’aucun prix n’est garanti d’ici là. Les 20 % de SONAR20 sont retirés du prix de la campagne : si la campagne change, le total change aussi.",
           "Pour la plupart des sites personnels, professionnels et WordPress, la FAQ elle-même recommande Premium. Hostinger recommande Single à ceux qui débutent ou qui ont des projets simples. Pour un VPS, calculez le total dans le panier : la bannière en US$ affichait 67 % le 3 novembre.",
           "Si vous êtes déjà client, consultez les offres de mise à niveau de votre compte : la FAQ indique que les clients actuels peuvent recevoir des offres distinctes. SONAR20 vaut aussi pour une nouvelle offre.",
@@ -97893,7 +97893,7 @@ export const reviewsData: unknown[] = [
           "Le Black Friday de Hostinger a-t-il un code promo ? Le prix de la campagne s’applique automatiquement, et le code SONAR20, saisi dans le champ de code promo du panier, en retire encore 20 %. Nous ne citons pas de codes d’autres sites.",
           "Jusqu’à quand dure le Black Friday de Hostinger ? Jusqu’à la mi-décembre, selon la FAQ officielle ; la date exacte figure au début de l’article.",
           "Le prix du Black Friday continue-t-il au renouvellement ? Non. Il vaut pour la période initiale de l’abonnement. Le renouvellement se fait au prix normal de l’offre.",
-          "SONAR20 se cumule-t-il avec le prix du Black Friday ? Oui : lors de notre test, les 20 % ont été retirés du prix de la campagne. Comme le prix change, vérifiez le total dans le panier.",
+          "SONAR20 se cumule-t-il avec le prix du Black Friday ? Oui : les 20 % ont été retirés du prix de la campagne. Comme le prix change, vérifiez le total dans le panier.",
           "La garantie de remboursement vaut-elle pendant le Black Friday ? La FAQ indique que les offres éligibles bénéficient d’une garantie de 30 jours, avec conditions et exclusions. Ce qu’elle exclut se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable).",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
@@ -97985,14 +97985,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was Sie mit der Aktion und mit SONAR20 zahlen",
         "postParagraphs": [
-          "Der Rabatt wird auf den Aktionspreis angerechnet. Bei einem Test am 7. November 2026 auf der globalen Seite sank der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$. Tarif, Aktion und Land können die Summe verändern, prüfen Sie den Betrag also im Warenkorb.",
+          "Der Rabatt wird auf den Aktionspreis angerechnet. Im Warenkorb der globalen Seite sank am 7. November 2026 der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$. Tarif, Aktion und Land können die Summe verändern, prüfen Sie den Betrag also im Warenkorb.",
           "Wo Sie den Code einfügen und warum die Verlängerung keinen Rabatt hat, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
       {
         "heading": "Wer warten sollte und wer nicht",
         "paragraphs": [
-          "Wenn Ihre Website diese Woche online gehen soll, vergleichen Sie den aktuellen Gesamtbetrag mit und ohne SONAR20 sowie den Verlängerungspreis. In unserem Test senkte der Code den Aktionspreis. Das garantiert keinen Tiefstpreis bis zum Ende des Black Friday.",
+          "Wenn Ihre Website diese Woche online gehen soll, vergleichen Sie den aktuellen Gesamtbetrag mit und ohne SONAR20 sowie den Verlängerungspreis. Der Code senkte den Aktionspreis. Das garantiert keinen Tiefstpreis bis zum Ende des Black Friday.",
           "Wenn Sie warten können, bedenken Sie: Die Aktion läuft bis Mitte Dezember, aber bis dahin ist kein Preis garantiert. Die 20 % von SONAR20 werden vom Aktionspreis abgezogen: Ändert sich die Aktion, ändert sich auch die Summe.",
           "Für die meisten privaten, geschäftlichen und WordPress-Websites empfiehlt die FAQ selbst Premium. Hostinger empfiehlt Single für den Einstieg oder einfache Projekte. Berechnen Sie bei VPS den Gesamtbetrag im Warenkorb: Das US$-Banner zeigte am 3. November 67 % Rabatt.",
           "Wenn Sie schon Kunde sind, prüfen Sie die Upgrade-Angebote in Ihrem Konto: Laut FAQ können Bestandskunden gesonderte Angebote erhalten. SONAR20 gilt auch für einen neuen Tarif.",
@@ -98018,7 +98018,7 @@ export const reviewsData: unknown[] = [
           "Gibt es zum Black Friday von Hostinger einen Gutschein? Der Aktionspreis gilt automatisch, und der Code SONAR20 zieht im Gutscheinfeld des Warenkorbs weitere 20 % davon ab. Codes anderer Websites nennen wir nicht.",
           "Bis wann läuft der Black Friday von Hostinger? Laut der offiziellen FAQ bis Mitte Dezember; das genaue Datum steht am Anfang des Artikels.",
           "Gilt der Black-Friday-Preis auch bei der Verlängerung? Nein. Er gilt für den ersten Zeitraum des Abonnements. Die Verlängerung kostet den normalen Preis des Tarifs.",
-          "Gilt SONAR20 zusammen mit dem Black-Friday-Preis? Ja: In unserem Test wurden die 20 % vom Aktionspreis abgezogen. Da sich der Preis ändert, prüfen Sie die Summe im Warenkorb.",
+          "Gilt SONAR20 zusammen mit dem Black-Friday-Preis? Ja: Die 20 % wurden vom Aktionspreis abgezogen. Da sich der Preis ändert, prüfen Sie die Summe im Warenkorb.",
           "Gilt die Geld-zurück-Garantie am Black Friday? Laut FAQ haben berechtigte Tarife eine 30-Tage-Garantie, mit Bedingungen und Ausschlüssen. Was sie ausschließt, steht in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes).",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
@@ -98103,21 +98103,21 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "È già iniziato. La FAQ ufficiale di Hostinger dice: «La promozione Black Friday di Hostinger si svolge dal 19 ottobre al 14 dicembre 2026». La pagina globale in inglese riporta la stessa data.",
           "Il 3 novembre la pagina della campagna in US$ mostra 85% di sconto sul web hosting, 67% sul VPS e 75% su Reach (email marketing). Sono le cifre dei banner, non lo sconto di ogni piano.",
-          "I numeri qui sotto riguardano solo la campagna 2026, letti sulla pagina ufficiale."
+          "I numeri qui sotto riguardano solo la campagna 2026, dalla pagina ufficiale."
         ],
         "images": []
       },
       {
         "heading": "Quanto si paga con la campagna e con SONAR20",
         "postParagraphs": [
-          "Lo sconto si applica sul prezzo della campagna. In un test del 7 novembre 2026 sul sito globale, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»). Piano, campagna e paese possono cambiare il totale, quindi controlla l'importo nel carrello.",
+          "Lo sconto si applica sul prezzo della campagna. Nel carrello del sito globale, il 7 novembre 2026, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»). Piano, campagna e paese possono cambiare il totale, quindi controlla l'importo nel carrello.",
           "Dove incollare il codice e perché il rinnovo non ha sconto si trova in [Coupon Hostinger SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
       {
         "heading": "Chi deve aspettare e chi no",
         "paragraphs": [
-          "Se ti serve il sito online questa settimana, confronta il totale disponibile oggi, con e senza SONAR20, e il prezzo di rinnovo. Il codice ha ridotto il prezzo della campagna nel nostro test; questo non garantisce il prezzo più basso fino alla fine del Black Friday.",
+          "Se ti serve il sito online questa settimana, confronta il totale disponibile oggi, con e senza SONAR20, e il prezzo di rinnovo. Il codice ha ridotto il prezzo della campagna; questo non garantisce il prezzo più basso fino alla fine del Black Friday.",
           "Se puoi aspettare, tieni presente che la campagna dura fino a metà dicembre, ma nessun prezzo è garantito fino ad allora. Il 20% di SONAR20 si toglie dal prezzo della campagna: se la campagna cambia, cambia anche il totale.",
           "Per la maggior parte dei siti personali, aziendali e WordPress, la stessa FAQ consiglia Premium. Hostinger consiglia Single a chi inizia o ha progetti semplici. Per il VPS, calcola il totale nel carrello: il banner in US$ mostrava il 67% il 3 novembre.",
           "Se sei già cliente, controlla le offerte di upgrade del tuo account: la FAQ dice che i clienti attuali possono ricevere offerte separate. SONAR20 vale anche per un piano nuovo.",
@@ -98143,7 +98143,7 @@ export const reviewsData: unknown[] = [
           "Il Black Friday di Hostinger ha un coupon? Il prezzo della campagna si applica da solo, e il codice SONAR20, nel campo coupon del carrello, ne toglie un altro 20%. Non citiamo codici di altri siti.",
           "Fino a quando dura il Black Friday di Hostinger? Fino a metà dicembre, secondo la FAQ ufficiale; la data esatta è all’inizio dell’articolo.",
           "Il prezzo del Black Friday continua al rinnovo? No. Vale per il periodo iniziale dell’abbonamento. Il rinnovo costa il prezzo normale del piano.",
-          "SONAR20 vale insieme al prezzo del Black Friday? Sì: nel nostro test, il 20% è stato tolto dal prezzo della campagna. Poiché il prezzo cambia, controlla il totale nel carrello.",
+          "SONAR20 vale insieme al prezzo del Black Friday? Sì: il 20% è stato tolto dal prezzo della campagna. Poiché il prezzo cambia, controlla il totale nel carrello.",
           "La garanzia di rimborso vale durante il Black Friday? La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori si trova in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
@@ -98228,21 +98228,21 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "이미 시작되었습니다. Hostinger 공식 FAQ에는 “Hostinger 블랙프라이데이 세일은 2026년 10월 19일부터 12월 14일까지 진행됩니다.”라고 나와 있습니다. 영어 글로벌 페이지도 같은 날짜를 알려 줍니다.",
           "11월 3일 기준 US$ 캠페인 페이지에는 웹 호스팅 85% 할인, VPS 67% 할인, Reach(이메일 마케팅) 75% 할인이라고 나와 있습니다. 배너 수치일 뿐 모든 요금제의 할인율이 아닙니다.",
-          "아래 숫자는 2026년 캠페인만 해당하며 공식 페이지에서 확인한 것입니다."
+          "아래 숫자는 2026년 캠페인만 해당하며 공식 페이지의 것입니다."
         ],
         "images": []
       },
       {
         "heading": "캠페인과 SONAR20으로 얼마가 되는지",
         "postParagraphs": [
-          "할인은 캠페인 가격에 적용됩니다. 2026년 11월 7일 글로벌 사이트에서 한 테스트에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다. 요금제, 캠페인, 국가에 따라 합계가 달라질 수 있으니 금액은 장바구니에서 확인하세요.",
+          "할인은 캠페인 가격에 적용됩니다. 2026년 11월 7일 글로벌 사이트 장바구니에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다. 요금제, 캠페인, 국가에 따라 합계가 달라질 수 있으니 금액은 장바구니에서 확인하세요.",
           "코드를 붙여 넣을 위치와 갱신에 할인이 없는 이유는 [Hostinger 쿠폰 SONAR20](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
       {
         "heading": "기다려야 하는 사람과 그렇지 않은 사람",
         "paragraphs": [
-          "이번 주 안에 사이트를 열어야 한다면 현재 총액을 SONAR20 적용 전후로 비교하고 갱신 가격도 확인하세요. 저희 테스트에서는 캠페인 가격에서 할인이 적용됐지만, 블랙프라이데이가 끝날 때까지의 최저가를 보장하지는 않습니다.",
+          "이번 주 안에 사이트를 열어야 한다면 현재 총액을 SONAR20 적용 전후로 비교하고 갱신 가격도 확인하세요. 코드는 캠페인 가격에서 할인이 적용되지만, 블랙프라이데이가 끝날 때까지의 최저가를 보장하지는 않습니다.",
           "기다릴 수 있다 해도, 캠페인은 12월 중순까지 이어지지만 그때까지 가격이 보장되지는 않습니다. SONAR20의 20%는 캠페인 가격에서 빠지므로, 캠페인이 바뀌면 합계도 함께 바뀝니다.",
           "Hostinger FAQ는 대부분의 개인·기업·워드프레스 사이트에 Premium을 권합니다. Hostinger는 이제 막 시작하는 사람이나 단순한 프로젝트에는 Single을 권합니다. VPS는 장바구니에서 총액을 계산하세요. 11월 3일 US$ 배너는 67% 할인이었습니다.",
           "이미 고객이라면 계정에서 업그레이드 혜택을 확인하세요. FAQ에 따르면 기존 고객에게는 별도 혜택이 제공될 수 있습니다. SONAR20은 새 요금제에도 적용됩니다.",
@@ -98268,7 +98268,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 블랙프라이데이에 쿠폰이 있나요? 캠페인 가격은 자동으로 적용되고, 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 그 가격에서 20%가 더 빠집니다. 다른 사이트의 코드는 다루지 않습니다.",
           "Hostinger 블랙프라이데이는 언제까지인가요? 공식 FAQ에 따르면 12월 중순까지이며, 정확한 날짜는 글 맨 앞에 있습니다.",
           "블랙프라이데이 가격이 갱신 때도 이어지나요? 아니요. 구독의 첫 번째 기간에만 적용됩니다. 갱신은 요금제의 정상 가격으로 청구됩니다.",
-          "SONAR20을 블랙프라이데이 가격과 함께 쓸 수 있나요? 네. 저희 테스트에서는 20%가 캠페인 가격에서 빠졌습니다. 가격은 바뀌므로 장바구니에서 합계를 확인하세요.",
+          "SONAR20을 블랙프라이데이 가격과 함께 쓸 수 있나요? 네. 20%가 캠페인 가격에서 빠집니다. 가격은 바뀌므로 장바구니에서 합계를 확인하세요.",
           "블랙프라이데이에도 환불 보증이 적용되나요? FAQ에 따르면 대상 요금제에는 30일 보증이 있으며 조건과 제외 사항이 있습니다. 제외 사항은 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
@@ -98353,21 +98353,21 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "始まっています。Hostinger公式のFAQには「Hostingerのブラックフライデーセールは2026年10月19日から12月14日まで開催されます」とあります。英語のグローバルページも同じ日付です。",
           "11月3日時点で、米ドル建てのキャンペーンページにはウェブホスティング85%オフ、VPS 67%オフ、Reach（メールマーケティング）75%オフと出ています。これはバナーの数字で、すべてのプランの割引ではありません。",
-          "以下の数字は2026年のキャンペーンだけのもので、公式ページで確認しました。"
+          "以下の数字は2026年のキャンペーンだけのもので、公式ページのものです。"
         ],
         "images": []
       },
       {
         "heading": "キャンペーンとSONAR20でいくらになるか",
         "postParagraphs": [
-          "割引はキャンペーン価格に対して適用されます。2026年11月7日のグローバルサイトでのテストでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。プラン、キャンペーン、国によって合計は変わるため、金額はカートで確認してください。",
+          "割引はキャンペーン価格に対して適用されます。2026年11月7日、グローバルサイトのカートでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。プラン、キャンペーン、国によって合計は変わるため、金額はカートで確認してください。",
           "コードを貼る場所と、更新に割引がない理由は、[Hostingerクーポン SONAR20](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
       {
         "heading": "待つべき人と、待たなくてよい人",
         "paragraphs": [
-          "今週中にサイトを公開する必要があるなら、現在の合計をSONAR20の適用前後で比べ、更新料金も確認してください。こちらのテストではキャンペーン価格から割引されましたが、ブラックフライデー終了までの最安値を保証するものではありません。",
+          "今週中にサイトを公開する必要があるなら、現在の合計をSONAR20の適用前後で比べ、更新料金も確認してください。コードでキャンペーン価格から割引されますが、ブラックフライデー終了までの最安値を保証するものではありません。",
           "待てる場合も、キャンペーンは12月中旬まで続きますが、それまで価格が保証されるわけではありません。SONAR20の20%はキャンペーン価格から引かれるので、キャンペーンが変われば合計も変わります。",
           "HostingerのFAQは、ほとんどの個人・ビジネス・WordPressサイト向けにPremiumを勧めています。Hostingerは、これから始める人やシンプルなプロジェクトにはSingleを勧めています。VPSはカートで合計を計算してください。11月3日の米ドル建てバナーは67%オフでした。",
           "すでに利用中の場合は、アカウントのアップグレード特典を確認してください。FAQによると、既存のお客様には別のオファーが出ることがあります。SONAR20は新しいプランにも使えます。",
@@ -98393,7 +98393,7 @@ export const reviewsData: unknown[] = [
           "Hostingerのブラックフライデーにクーポンはありますか？ キャンペーン価格は自動で適用され、カートのクーポン欄にコードSONAR20を入れると、そこからさらに20%引きになります。他のサイトのコードは取り上げていません。",
           "Hostingerのブラックフライデーはいつまでですか？ 公式FAQによると12月中旬までです。正確な日付は記事の冒頭にあります。",
           "ブラックフライデーの価格は更新時も続きますか？ いいえ。契約の最初の期間にだけ適用されます。更新はプランの通常価格になります。",
-          "SONAR20はブラックフライデーの価格と併用できますか？ はい。こちらのテストでは、20%はキャンペーン価格から引かれました。価格は変わるので、カートで合計を確認してください。",
+          "SONAR20はブラックフライデーの価格と併用できますか？ はい。20%はキャンペーン価格から引かれます。価格は変わるので、カートで合計を確認してください。",
           "ブラックフライデーでも返金保証は使えますか？ FAQによると、対象プランには30日間の保証があり、条件と対象外があります。対象外は[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)にあります。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
@@ -98485,14 +98485,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "活動價加 SONAR20 要付多少",
         "postParagraphs": [
-          "折扣是在活動價的基礎上計算的。在 2026 年 11 月 7 日對全球網站的測試中，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。方案、活動和國家都可能改變總價，請以購物車中的金額為準。",
+          "折扣是在活動價的基礎上計算的。2026 年 11 月 7 日，在全球網站的購物車中，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。方案、活動和國家都可能改變總價，請以購物車中的金額為準。",
           "代碼貼在哪裡，以及為什麼續約沒有折扣，請見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
       {
         "heading": "誰該等，誰不必等",
         "paragraphs": [
-          "如果這週就需要讓網站上線，請比較目前使用 SONAR20 前後的總價，也看續約價格。在我們的測試中，優惠碼確實從活動價上減了一部分，但這不保證到黑色星期五結束前都是最低價。",
+          "如果這週就需要讓網站上線，請比較目前使用 SONAR20 前後的總價，也看續約價格。優惠碼確實會從活動價上減掉一部分，但這不保證到黑色星期五結束前都是最低價。",
           "如果可以等，要知道活動持續到 12 月中旬，但在那之前沒有任何價格有保證。SONAR20 的 20% 是從活動價中扣除的：活動一變，總價也會跟著變。",
           "Hostinger FAQ 為大多數個人、企業與 WordPress 網站推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。VPS 請在購物車計算總價：11 月 3 日的美元版橫幅顯示 67% 折扣。",
           "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。",
@@ -98518,7 +98518,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 的黑色星期五有優惠碼嗎？活動價會自動套用，在購物車的優惠碼欄位輸入代碼 SONAR20，可在此基礎上再減 20%。我們不提其他網站的代碼。",
           "Hostinger 的黑色星期五到什麼時候？根據官方 FAQ，到 12 月中旬；確切日期在文章開頭。",
           "黑色星期五的價格續約時還有效嗎？沒有。它只適用於訂閱的第一個期間。續約按方案的正常價格收費。",
-          "SONAR20 能和黑色星期五價格一起用嗎？可以：在我們的測試中，20% 是從活動價中扣除的。由於價格會變動，請在購物車裡核對總價。",
+          "SONAR20 能和黑色星期五價格一起用嗎？可以：20% 是從活動價中扣除的。由於價格會變動，請在購物車裡核對總價。",
           "黑色星期五期間退款保障有效嗎？FAQ 說符合條件的方案有 30 天保障，附帶條款與例外。不涵蓋的內容請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
@@ -98610,14 +98610,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "活动价加 SONAR20 要付多少",
         "postParagraphs": [
-          "折扣是在活动价的基础上计算的。在 2026 年 11 月 7 日对全球站点的测试中，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。方案、活动和国家都可能改变总价，请以购物车里的金额为准。",
+          "折扣是在活动价的基础上计算的。2026 年 11 月 7 日，在全球站点的购物车中，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。方案、活动和国家都可能改变总价，请以购物车里的金额为准。",
           "代码贴在哪里，以及为什么续费没有折扣，见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
       {
         "heading": "谁该等，谁不必等",
         "paragraphs": [
-          "如果这周就需要让网站上线，请比较当前使用 SONAR20 前后的总价，也看续费价格。在我们的测试中，优惠码确实从活动价里减了一部分，但这不保证到黑色星期五结束前都是最低价。",
+          "如果这周就需要让网站上线，请比较当前使用 SONAR20 前后的总价，也看续费价格。优惠码确实会从活动价里减掉一部分，但这不保证到黑色星期五结束前都是最低价。",
           "如果可以等，要知道活动持续到 12 月中旬，但在那之前没有任何价格有保证。SONAR20 的 20% 是从活动价里减的：活动一变，总价也会跟着变。",
           "Hostinger FAQ 为大多数个人、企业和 WordPress 网站推荐 Premium。Hostinger 建议刚起步或项目简单的用户选 Single。VPS 请在购物车中计算总价：11 月 3 日的美元版横幅显示 67% 折扣。",
           "如果你已经是客户，请查看账户里的升级优惠：FAQ 说现有客户可能会收到单独的优惠。SONAR20 也适用于新方案。",
@@ -98643,7 +98643,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 的黑色星期五有优惠码吗？活动价会自动生效，在购物车的优惠码栏输入代码 SONAR20，可在此基础上再减 20%。我们不提其他网站的代码。",
           "Hostinger 的黑色星期五到什么时候？据官方 FAQ，到 12 月中旬；确切日期在文章开头。",
           "黑色星期五的价格续费时还有效吗？没有。它只适用于订阅的首个周期。续费按方案的正常价格收取。",
-          "SONAR20 能和黑色星期五价格一起用吗？可以：在我们的测试中，20% 是从活动价里减的。由于价格会变，请在购物车里核对总价。",
+          "SONAR20 能和黑色星期五价格一起用吗？可以：20% 是从活动价里减的。由于价格会变，请在购物车里核对总价。",
           "黑色星期五期间退款保障有效吗？FAQ 说符合条件的方案有 30 天保障，附带条款和例外。不涵盖的内容见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
@@ -105415,7 +105415,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem entrega no seu país",
         "paragraphs": [
           "Depende do seu país. A YesStyle publica prazo e frete para 23 dos 24 países do comparativo, todos menos o Brasil. A Olive Young Global publica prazo para 10 deles e não atende os EUA, que têm loja americana própria. Nos outros 22 países, a comparação muda de um para outro.",
-          "Cada linha é um país; a última reúne os demais. A coluna da YesStyle vem da tabela de frete publicada em 13/10/2026. A da Olive Young vem da página de envio lida em 21/10/2026. Onde a loja não publica prazo ou frete, a célula diz isso."
+          "Cada linha é um país; a última reúne os demais. A coluna da YesStyle vem da tabela de frete publicada em 13/10/2026. A da Olive Young vem da página de envio de 21/10/2026. Onde a loja não publica prazo ou frete, a célula diz isso."
         ],
         "comparisonTable": {
           "headers": [
@@ -105580,7 +105580,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Olive Young Global aceita PayPal, Visa, Mastercard, American Express, Diners Club, Discover, JCB, UnionPay, Apple Pay e Alipay. Os valores são em dólar americano (US$) ou iene (¥), e o total cobrado pode variar com o câmbio na data da compra.",
           "A YesStyle lista Visa, Mastercard, American Express e JCB, PayPal, Google Pay e Apple Pay (página de pagamento, citada no artigo de entrega). Os preços saem em dólar; em outra moeda, a loja converte pelo câmbio dela no momento do pedido.",
-          "Nas duas lojas, a cobrança é em moeda estrangeira. A YesStyle avisa que o banco pode cobrar taxa de transação internacional; a página de envio da Olive Young não trata do assunto. Nenhuma das duas listou Pix ou boleto nas páginas lidas, então confira a forma de pagamento antes de fechar o pedido."
+          "Nas duas lojas, a cobrança é em moeda estrangeira. A YesStyle avisa que o banco pode cobrar taxa de transação internacional; a página de envio da Olive Young não trata do assunto. Nas fontes da comparação, nenhuma das duas lista Pix ou boleto, então confira a forma de pagamento antes de fechar o pedido."
         ]
       },
       {
@@ -105606,7 +105606,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A FAQ de países elegíveis da Olive Young Global diz que o envio não está disponível para países que não estão na lista, e cita Espanha, Brasil e Índia como exemplos. O seletor de destino da loja tem 61 países e não tem o Brasil. A tabela de envio, com a transportadora de cada país (DHL, FedEx, LX Pantos, UPS ou KSE), também não tem o Brasil.",
           "A loja diz que a lista pode mudar: países podem ser suspensos ou removidos a qualquer momento. A linha \"outras regiões\", de 15 dias, não diz quais países cobre, e a FAQ fala de países fora da lista. Para o Brasil, então, a resposta é a da FAQ: não é enviado.",
-          "As páginas lidas não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e a entrega ao país está suspensa no site e no app. Mesmo assim, um pedido nosso de setembro foi enviado dois dias depois de feito."
+          "As fontes da comparação não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e a entrega ao país está suspensa no site e no app. Mesmo assim, um pedido nosso de setembro foi enviado dois dias depois de feito."
         ]
       },
       {
@@ -105715,7 +105715,7 @@ export const reviewsData: unknown[] = [
         "heading": "Who ships to your country",
         "paragraphs": [
           "It depends on your country. YesStyle publishes delivery time and shipping for 23 of the comparison's countries. Olive Young Global publishes delivery time for 10 of them and does not serve the US, which has its own American store. The comparison changes from one country to the next.",
-          "The YesStyle data comes from the shipping table published on Oct 13, 2026. The Olive Young data comes from the shipping page read on Oct 21, 2026. Where a store does not publish delivery time or shipping, the grid marks it."
+          "The YesStyle data comes from the shipping table published on Oct 13, 2026. The Olive Young data comes from the shipping page of Oct 21, 2026. Where a store does not publish delivery time or shipping, the grid marks it."
         ],
         "postParagraphs": [
           "Where Olive Young does not publish a delivery time for your country, the general rule from its shipping FAQ applies (free from US$60, US$25 below; US$5 in Malaysia and Singapore) and the delivery time only appears at checkout, with your address.",
@@ -105977,7 +105977,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quién envía a tu país",
         "paragraphs": [
           "Depende de tu país. YesStyle publica plazo y envío para 23 países de la comparación. Olive Young Global publica plazo para 10 de ellos y no atiende a EE. UU., que tiene su propia tienda estadounidense. La comparación cambia de un país a otro.",
-          "Los datos de YesStyle salen de la tabla de envío publicada el 13/10/2026. Los de Olive Young salen de la página de envío leída el 21/10/2026. Donde la tienda no publica plazo o envío, la cuadrícula lo indica."
+          "Los datos de YesStyle salen de la tabla de envío publicada el 13/10/2026. Los de Olive Young salen de la página de envío del 21/10/2026. Donde la tienda no publica plazo o envío, la cuadrícula lo indica."
         ],
         "postParagraphs": [
           "Donde Olive Young no publica plazo para tu país, vale la regla general de su FAQ de envío (gratis desde 60 US$, 25 US$ por debajo; 5 US$ en Malasia y Singapur) y el plazo solo aparece en el pago, con la dirección.",
@@ -106239,7 +106239,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qui livre dans votre pays",
         "paragraphs": [
           "Cela dépend de votre pays. YesStyle publie délai et frais de livraison pour 23 pays de la comparaison. Olive Young Global publie le délai pour 10 d'entre eux et ne dessert pas les États-Unis, qui ont leur propre boutique américaine. La comparaison change d'un pays à l'autre.",
-          "Les données de YesStyle viennent du tableau des frais de livraison publié le 13/10/2026. Celles d'Olive Young viennent de la page de livraison consultée le 21/10/2026. Quand la boutique ne publie ni délai ni frais, la grille le signale."
+          "Les données de YesStyle viennent du tableau des frais de livraison publié le 13/10/2026. Celles d'Olive Young viennent de la page de livraison du 21/10/2026. Quand la boutique ne publie ni délai ni frais, la grille le signale."
         ],
         "postParagraphs": [
           "Quand Olive Young ne publie pas de délai pour votre pays, la règle générale de sa FAQ livraison s'applique (gratuit dès 60 $US, 25 $US en dessous ; 5 $US en Malaisie et à Singapour) et le délai n'apparaît qu'au paiement, avec l'adresse.",
@@ -106501,7 +106501,7 @@ export const reviewsData: unknown[] = [
         "heading": "Wer in Ihr Land liefert",
         "paragraphs": [
           "Das hängt von Ihrem Land ab. YesStyle veröffentlicht Lieferzeit und Versandkosten für 23 Länder des Vergleichs. Olive Young Global veröffentlicht die Lieferzeit für 10 davon und beliefert die USA nicht, die einen eigenen amerikanischen Shop haben. Der Vergleich ändert sich von Land zu Land.",
-          "Die Daten von YesStyle stammen aus der Versandtabelle, veröffentlicht am 13.10.2026. Die von Olive Young stammen aus der Versandseite, gelesen am 21.10.2026. Wo ein Shop keine Lieferzeit oder Versandkosten veröffentlicht, ist das im Raster vermerkt."
+          "Die Daten von YesStyle stammen aus der Versandtabelle, veröffentlicht am 13.10.2026. Die von Olive Young stammen aus der Versandseite vom 21.10.2026. Wo ein Shop keine Lieferzeit oder Versandkosten veröffentlicht, ist das im Raster vermerkt."
         ],
         "postParagraphs": [
           "Wo Olive Young für Ihr Land keine Lieferzeit veröffentlicht, gilt die allgemeine Regel der Versand-FAQ (kostenlos ab 60 US-$, darunter 25 US-$; 5 US-$ in Malaysia und Singapur), und die Lieferzeit erscheint erst im Checkout, mit der Adresse.",
@@ -106763,7 +106763,7 @@ export const reviewsData: unknown[] = [
         "heading": "Chi spedisce nel tuo paese",
         "paragraphs": [
           "Dipende dal tuo paese. YesStyle pubblica tempi e costi di spedizione per 23 paesi del confronto. Olive Young Global pubblica i tempi per 10 di questi e non serve gli USA, che hanno un proprio negozio americano. Il confronto cambia da un paese all'altro.",
-          "I dati di YesStyle vengono dalla tabella delle spedizioni pubblicata il 13/10/2026. Quelli di Olive Young vengono dalla pagina di spedizione letta il 21/10/2026. Dove il negozio non pubblica i tempi o i costi, la griglia lo segnala."
+          "I dati di YesStyle vengono dalla tabella delle spedizioni pubblicata il 13/10/2026. Quelli di Olive Young vengono dalla pagina di spedizione del 21/10/2026. Dove il negozio non pubblica i tempi o i costi, la griglia lo segnala."
         ],
         "postParagraphs": [
           "Dove Olive Young non pubblica i tempi per il tuo paese, vale la regola generale delle FAQ sulla spedizione (gratis da 60 USD, 25 USD sotto; 5 USD in Malesia e a Singapore) e i tempi compaiono solo al checkout, con l'indirizzo.",
@@ -107025,7 +107025,7 @@ export const reviewsData: unknown[] = [
         "heading": "사는 나라에는 어디가 배송할까",
         "paragraphs": [
           "사는 나라에 따라 다릅니다. YesStyle은 비교 대상 중 23개국의 배송 기간과 배송비를 공개합니다. Olive Young Global은 그중 10개국의 배송 기간을 공개하며, 미국으로는 배송하지 않습니다(미국에는 별도의 미국 쇼핑몰이 있습니다). 비교 결과는 나라마다 달라집니다.",
-          "YesStyle 자료는 2026년 10월 13일에 게시된 배송비 표를 따릅니다. Olive Young 자료는 2026년 10월 21일에 읽은 배송 페이지를 따릅니다. 쇼핑몰이 배송 기간이나 배송비를 공개하지 않은 곳은 그림에 그렇게 표시했습니다."
+          "YesStyle 자료는 2026년 10월 13일에 게시된 배송비 표를 따릅니다. Olive Young 자료는 2026년 10월 21일 기준 배송 페이지를 따릅니다. 쇼핑몰이 배송 기간이나 배송비를 공개하지 않은 곳은 그림에 그렇게 표시했습니다."
         ],
         "postParagraphs": [
           "Olive Young이 해당 나라의 배송 기간을 공개하지 않았다면 배송비 FAQ의 일반 규칙(US$60부터 무료배송, 그 미만은 US$25, 말레이시아와 싱가포르는 US$5)이 적용되고, 배송 기간은 주소를 넣은 결제 화면에서만 나옵니다.",
@@ -107287,7 +107287,7 @@ export const reviewsData: unknown[] = [
         "heading": "お住まいの国で配送しているのはどちらか",
         "paragraphs": [
           "お住まいの国によって変わります。YesStyleは比較対象のうち23か国の配送日数と送料を公表しています。Olive Young Globalは、そのうち10か国の配送日数を公表していますが、アメリカには配送しません（アメリカには専用のショップがあります）。比べ方は国によって変わります。",
-          "YesStyleのデータは、2026年10月13日時点の送料表にもとづきます。Olive Youngのデータは、2026年10月21日に読んだ配送ページにもとづきます。ショップが配送日数や送料を公表していないところは、図にそう示してあります。"
+          "YesStyleのデータは、2026年10月13日時点の送料表にもとづきます。Olive Youngのデータは、2026年10月21日時点の配送ページにもとづきます。ショップが配送日数や送料を公表していないところは、図にそう示してあります。"
         ],
         "postParagraphs": [
           "Olive Youngが国ごとの配送日数を公表していない場合は、送料FAQの共通ルール（US$60以上で送料無料、それ未満はUS$25。マレーシアとシンガポールはUS$5）が適用され、配送日数は住所を入れたチェックアウトで初めて表示されます。",
@@ -107549,7 +107549,7 @@ export const reviewsData: unknown[] = [
         "heading": "你所在的國家，哪一家寄得到",
         "paragraphs": [
           "要看你住在哪個國家。YesStyle 公布了比較表中 23 個國家的運送時間與運費。Olive Young Global 公布了其中 10 個國家的運送時間，且不寄往美國（美國有它自己的美國站）。兩家的比較結果因國而異。",
-          "YesStyle 的資料依據2026年10月13日公布的運費表；Olive Young 的資料依據2026年10月21日查閱的運送頁面。店家沒有公布運送時間或運費的地方，圖中會直接標明。"
+          "YesStyle 的資料依據2026年10月13日公布的運費表；Olive Young 的資料依據2026年10月21日的運送頁面。店家沒有公布運送時間或運費的地方，圖中會直接標明。"
         ],
         "postParagraphs": [
           "Olive Young 沒有公布該國運送時間的話，適用運費 FAQ 的通則（滿 US$60 免運，未滿為 US$25；馬來西亞與新加坡為 US$5），運送時間要填入地址後的結帳頁才會顯示。",
@@ -107811,7 +107811,7 @@ export const reviewsData: unknown[] = [
         "heading": "你所在的国家，哪一家寄得到",
         "paragraphs": [
           "要看你住在哪个国家。YesStyle 公布了对比表中 23 个国家的运送时间和运费。Olive Young Global 公布了其中 10 个国家的运送时间，并且不寄往美国（美国有它自己的美国站）。两家的比较结果因国而异。",
-          "YesStyle 的数据依据2026年10月13日公布的运费表；Olive Young 的数据依据2026年10月21日查阅的运送页面。店家没有公布运送时间或运费的地方，图中会直接标明。"
+          "YesStyle 的数据依据2026年10月13日公布的运费表；Olive Young 的数据依据2026年10月21日的运送页面。店家没有公布运送时间或运费的地方，图中会直接标明。"
         ],
         "postParagraphs": [
           "Olive Young 没有公布该国运送时间的，适用运费 FAQ 的通用规则（满 US$60 免运费，未满为 US$25；马来西亚和新加坡为 US$5），运送时间要在填入地址后的结账页才会显示。",
@@ -108223,7 +108223,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
           "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, mensal ou anual, inclusive com conta existente. Registro de domínio e renovação ficam fora do desconto; a renovação sai pelo preço de tabela. Confira as condições em [como usar o SONAR20](/reviews/cupom-hostinger-indicacao) e na [página da Hostinger](/cupons/hostinger).",
-          "Preços de planos de 24 meses, lidos em 21/10/2026:"
+          "Preços de planos de 24 meses, em 21/10/2026:"
         ],
         "comparisonTable": {
           "headers": [
@@ -110507,18 +110507,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "ローカルモデルについて、もう二点。コンテキストは、モデルが一度に読めるテキストの量（トークン、単語の断片）です。コンテキストウィンドウの残りが 20% を切ると OpenClaw は警告を出し（下限は 8,000 トークン）、10% を切ると回答をブロックします（下限は 4,000 トークン）。",
-          "確認した KVM プランのページには、グラフィックボード（GPU）の記載がありません。ドキュメントも、GPU なしでローカルモデルがどの程度の速度になるかを書いていません。"
+          "比較した KVM プランのページには、グラフィックボード（GPU）の記載がありません。ドキュメントも、GPU なしでローカルモデルがどの程度の速度になるかを書いていません。"
         ]
       },
       {
         "heading": "どの KVM プランを選ぶか",
         "paragraphs": [
-          "プランは、モデルをどこで動かすかで決まります。KVM は Hostinger の仮想サーバーの名前で、表には 4 つすべてを載せました。各プランはドキュメントに照らして読んでください。これは私たちの読み方であり、実測ではありません："
+          "プランは、モデルをどこで動かすかで決まります。KVM は Hostinger の仮想サーバーの名前で、表には 4 つすべてを載せました。各プランはドキュメントに照らして読んでください。これは解釈であり、実測ではありません："
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "3 行の表：サーバー外のモデル（API キーまたはクレジット）は KVM 1、小さいローカルモデルは KVM 2（ぎりぎり）か KVM 4、コンテキストが大きいローカルモデルや他のプログラムも動かす場合は KVM 4 か KVM 8",
-          "caption": "OpenClaw のドキュメントに基づく目安で、性能は測っていません。"
+          "caption": "OpenClaw のドキュメントに基づく目安で、性能の実測はありません。"
         },
         "comparisonTable": {
           "headers": [
@@ -110791,18 +110791,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "로컬 모델에 관한 세부 사항이 둘 더 있습니다. 컨텍스트는 모델이 한 번에 읽는 텍스트의 양(토큰, 단어 조각)입니다. 컨텍스트 창이 20% 미만으로 남으면 OpenClaw가 경고하며(하한 8천 토큰), 10% 미만이면 응답을 막습니다(하한 4천 토큰).",
-          "확인한 KVM 플랜 페이지 어디에도 그래픽 카드(GPU)는 나와 있지 않습니다. GPU 없이 로컬 모델이 어느 정도 속도로 도는지도 문서는 말하지 않습니다."
+          "비교한 KVM 플랜 페이지 어디에도 그래픽 카드(GPU)는 나와 있지 않습니다. GPU 없이 로컬 모델이 어느 정도 속도로 도는지도 문서는 말하지 않습니다."
         ]
       },
       {
         "heading": "어떤 KVM 플랜을 고를까",
         "paragraphs": [
-          "플랜은 모델이 어디서 도는지에 따라 정해집니다. KVM은 호스팅어 가상 서버의 이름이며, 표에는 네 가지를 모두 실었습니다. 각 플랜을 문서에 비춰 읽어 보세요. 우리의 해석이며 측정이 아닙니다:"
+          "플랜은 모델이 어디서 도는지에 따라 정해집니다. KVM은 호스팅어 가상 서버의 이름이며, 표에는 네 가지를 모두 실었습니다. 각 플랜을 문서에 비춰 읽어 보세요. 하나의 해석이며 측정이 아닙니다:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "세 줄짜리 표: 서버 밖의 모델(API 키 또는 크레딧)은 KVM 1, 작은 로컬 모델은 KVM 2(빠듯함) 또는 KVM 4, 컨텍스트가 큰 로컬 모델이나 다른 프로그램을 함께 돌리면 KVM 4 또는 KVM 8",
-          "caption": "OpenClaw 문서 기준이며, 성능은 측정하지 않았습니다."
+          "caption": "OpenClaw 문서 기준이며, 성능 측정은 없습니다."
         },
         "comparisonTable": {
           "headers": [
@@ -111077,18 +111077,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "关于本地模型还有两点。上下文是模型一次能读取的文本量（token，也就是词的片段）。当上下文窗口剩余不到 20% 时，OpenClaw 会发出警告，下限为 8 千 token；不到 10% 时，它会拦截回答，下限为 4 千 token。",
-          "在查看过的 KVM 套餐页面中，没有一个列出显卡（GPU）。文档也没有说明没有显卡时本地模型能有多快。"
+          "在对比的 KVM 套餐页面中，没有一个列出显卡（GPU）。文档也没有说明没有显卡时本地模型能有多快。"
         ]
       },
       {
         "heading": "该选哪个 KVM 套餐",
         "paragraphs": [
-          "套餐取决于模型在哪里运行。KVM 是 Hostinger 虚拟服务器的名称，表格列出了全部四个。请对照文档来读每个套餐；这是我们对文档的解读，不是实测："
+          "套餐取决于模型在哪里运行。KVM 是 Hostinger 虚拟服务器的名称，表格列出了全部四个。请对照文档来读每个套餐；这是对文档的解读，不是实测："
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "三行的图表：模型在服务器之外（API 密钥或额度）选 KVM 1；小型本地模型选 KVM 2（在边缘）或 KVM 4；上下文更大的本地模型或还要运行其他程序，选 KVM 4 或 KVM 8",
-          "caption": "依据 OpenClaw 的文档；我们没有测过性能。"
+          "caption": "依据 OpenClaw 的文档；没有性能实测。"
         },
         "comparisonTable": {
           "headers": [
@@ -111362,18 +111362,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "關於本機模型還有兩點。上下文是模型一次能讀取的文字量（token，也就是詞的片段）。當上下文視窗剩下不到 20% 時，OpenClaw 會發出警告，下限為 8 千個 token；不到 10% 時，它會擋下回覆，下限為 4 千個 token。",
-          "在看過的 KVM 方案頁面中，沒有任何一頁列出顯示卡（GPU）。文件也沒有說明沒有顯示卡時，本機模型能有多快。"
+          "在比較的 KVM 方案頁面中，沒有任何一頁列出顯示卡（GPU）。文件也沒有說明沒有顯示卡時，本機模型能有多快。"
         ]
       },
       {
         "heading": "該選哪個 KVM 方案",
         "paragraphs": [
-          "方案取決於模型在哪裡執行。KVM 是 Hostinger 虛擬伺服器的名稱，表格列出了全部四個。請對照文件來讀每個方案；這是我們對文件的解讀，不是實測："
+          "方案取決於模型在哪裡執行。KVM 是 Hostinger 虛擬伺服器的名稱，表格列出了全部四個。請對照文件來讀每個方案；這是對文件的解讀，不是實測："
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "三行的圖表：模型在伺服器之外（API 金鑰或額度）選 KVM 1；小型本機模型選 KVM 2（在邊緣）或 KVM 4；上下文更大的本機模型或還要執行其他程式，選 KVM 4 或 KVM 8",
-          "caption": "依據 OpenClaw 的文件；我們沒有測過效能。"
+          "caption": "依據 OpenClaw 的文件；沒有效能實測。"
         },
         "comparisonTable": {
           "headers": [
@@ -111647,18 +111647,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Two details on the local model. Context is the amount of text (tokens, pieces of words) the model reads at once. When less than 20% of the context window is left, OpenClaw warns, with a floor of 8 thousand tokens; below 10%, it blocks the answer, with a floor of 4 thousand tokens.",
-          "None of the KVM plan pages checked lists a graphics card (GPU). The documentation also does not say how fast a local model would run without one."
+          "None of the KVM plan pages in the comparison lists a graphics card (GPU). The documentation also does not say how fast a local model would run without one."
         ]
       },
       {
         "heading": "Which KVM plan to choose",
         "paragraphs": [
-          "The right plan follows where the model runs. KVM is the name of Hostinger's virtual servers, and the table lists all four. Read each plan against the documentation; it is our reading of it, not a measurement:"
+          "The right plan follows where the model runs. KVM is the name of Hostinger's virtual servers, and the table lists all four. Read each plan against the documentation; it is an interpretation of it, not a measurement:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "Chart with three rows: model outside the server (API key or credits) leads to KVM 1; small local model leads to KVM 2, at the limit, or to KVM 4; local model with more context or other programs leads to KVM 4 or KVM 8",
-          "caption": "Based on the OpenClaw documentation; we did not measure performance."
+          "caption": "Based on the OpenClaw documentation; no performance measurement."
         },
         "comparisonTable": {
           "headers": [
@@ -111931,18 +111931,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Zwei Details zum lokalen Modell. Der Kontext ist die Textmenge (Tokens, Wortteile), die das Modell auf einmal liest. Bleiben weniger als 20 % des Kontextfensters übrig, warnt OpenClaw, mit einer Untergrenze von 8 Tausend Tokens; unter 10 % blockiert es die Antwort, mit einer Untergrenze von 4 Tausend Tokens.",
-          "Auf den gelesenen Seiten der KVM-Tarife nennt keine eine Grafikkarte (GPU). Die Dokumentation sagt auch nicht, wie schnell ein lokales Modell ohne sie liefe."
+          "Auf den Seiten der KVM-Tarife in diesem Vergleich nennt keine eine Grafikkarte (GPU). Die Dokumentation sagt auch nicht, wie schnell ein lokales Modell ohne sie liefe."
         ]
       },
       {
         "heading": "Welchen KVM-Tarif wählen",
         "paragraphs": [
-          "Der passende Tarif folgt dem Ort, an dem das Modell läuft. KVM ist der Name der virtuellen Server von Hostinger, und die Tabelle zeigt alle vier. Lesen Sie jeden Tarif im Licht der Dokumentation; es ist unsere Lesart, keine Messung:"
+          "Der passende Tarif folgt dem Ort, an dem das Modell läuft. KVM ist der Name der virtuellen Server von Hostinger, und die Tabelle zeigt alle vier. Lesen Sie jeden Tarif im Licht der Dokumentation; es ist eine Deutung, keine Messung:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "Übersicht mit drei Zeilen: Modell außerhalb des Servers (API-Schlüssel oder Guthaben) führt zum KVM 1; kleines lokales Modell führt zum KVM 2, an der Grenze, oder zum KVM 4; lokales Modell mit mehr Kontext oder weiteren Programmen führt zum KVM 4 oder KVM 8",
-          "caption": "Nach der OpenClaw-Dokumentation; wir haben die Leistung nicht gemessen."
+          "caption": "Nach der OpenClaw-Dokumentation; ohne Leistungsmessung."
         },
         "comparisonTable": {
           "headers": [
@@ -112217,18 +112217,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Deux détails sur le modèle local. Le contexte est la quantité de texte (tokens, morceaux de mots) que le modèle lit d'un coup. Quand il reste moins de 20 % de la fenêtre de contexte, OpenClaw prévient, avec un plancher de 8 000 tokens ; sous 10 %, il bloque la réponse, avec un plancher de 4 000 tokens.",
-          "Parmi les pages de forfaits KVM lues, aucune ne mentionne de carte graphique (GPU). La documentation ne dit pas non plus quelle vitesse aurait un modèle local sans elle."
+          "Parmi les pages de forfaits KVM de la comparaison, aucune ne mentionne de carte graphique (GPU). La documentation ne dit pas non plus quelle vitesse aurait un modèle local sans elle."
         ]
       },
       {
         "heading": "Quel forfait KVM choisir",
         "paragraphs": [
-          "Le bon forfait suit l'endroit où tourne le modèle. KVM est le nom des serveurs virtuels d'Hostinger, et le tableau présente les quatre. Lisez chaque forfait à la lumière de la documentation ; c'est notre lecture, pas une mesure :"
+          "Le bon forfait suit l'endroit où tourne le modèle. KVM est le nom des serveurs virtuels d'Hostinger, et le tableau présente les quatre. Lisez chaque forfait à la lumière de la documentation ; c'est une interprétation, pas une mesure :"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "Tableau de trois lignes : modèle hors du serveur (clé d'API ou crédits) mène au KVM 1 ; petit modèle local mène au KVM 2, à la limite, ou au KVM 4 ; modèle local avec plus de contexte ou d'autres programmes mène au KVM 4 ou au KVM 8",
-          "caption": "D'après la documentation d'OpenClaw ; nous n'avons pas mesuré les performances."
+          "caption": "D'après la documentation d'OpenClaw ; sans mesure des performances."
         },
         "comparisonTable": {
           "headers": [
@@ -112502,18 +112502,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Dos detalles del modelo local. El contexto es la cantidad de texto (tokens, trozos de palabras) que el modelo lee de una vez. Cuando queda menos del 20% de la ventana de contexto, OpenClaw avisa, con un piso de 8 mil tokens; por debajo del 10%, bloquea la respuesta, con un piso de 4 mil tokens.",
-          "En las páginas de planes KVM consultadas, ninguna lista tarjeta gráfica (GPU). La documentación tampoco dice qué velocidad tendría un modelo local sin ella."
+          "En las páginas de planes KVM de la comparación, ninguna lista tarjeta gráfica (GPU). La documentación tampoco dice qué velocidad tendría un modelo local sin ella."
         ]
       },
       {
         "heading": "Qué plan KVM elegir",
         "paragraphs": [
-          "El plan correcto sigue a dónde corre el modelo. KVM es el nombre de los servidores virtuales de Hostinger, y la tabla trae los cuatro. Lee cada plan frente a la documentación; es nuestra lectura de ella, no una medición:"
+          "El plan correcto sigue a dónde corre el modelo. KVM es el nombre de los servidores virtuales de Hostinger, y la tabla trae los cuatro. Lee cada plan frente a la documentación; es una interpretación de ella, no una medición:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "Cuadro con tres filas: modelo fuera del servidor (clave de API o créditos) lleva al KVM 1; modelo local pequeño lleva al KVM 2, en el límite, o al KVM 4; modelo local con más contexto u otros programas lleva al KVM 4 o al KVM 8",
-          "caption": "Según la documentación de OpenClaw; no medimos el rendimiento."
+          "caption": "Según la documentación de OpenClaw; sin medición del rendimiento."
         },
         "comparisonTable": {
           "headers": [
@@ -112786,18 +112786,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Dois detalhes do modelo local. O contexto é a quantidade de texto (tokens, pedaços de palavras) que o modelo lê de uma vez. Quando sobra menos de 20% da janela de contexto, o OpenClaw avisa, com piso de 8 mil tokens; abaixo de 10%, ele bloqueia a resposta, com piso de 4 mil tokens.",
-          "Nas páginas de plano KVM lidas, nenhuma lista placa de vídeo (GPU). A documentação também não diz qual velocidade um modelo local teria sem ela."
+          "Nas páginas de plano KVM da comparação, nenhuma lista placa de vídeo (GPU). A documentação também não diz qual velocidade um modelo local teria sem ela."
         ]
       },
       {
         "heading": "Qual plano KVM escolher",
         "paragraphs": [
-          "O plano certo segue onde o modelo roda. KVM é o nome dos servidores virtuais da Hostinger, e a tabela traz os quatro, com preços de 24 meses de 21/10/2026 e o SONAR20 já aplicado. Leia cada plano diante da documentação; é a nossa leitura dela, não uma medição:"
+          "O plano certo segue onde o modelo roda. KVM é o nome dos servidores virtuais da Hostinger, e a tabela traz os quatro, com preços de 24 meses de 21/10/2026 e o SONAR20 já aplicado. Leia cada plano diante da documentação; é uma interpretação dela, não uma medição:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "Quadro com três linhas: modelo fora do servidor (chave de API ou créditos) leva ao KVM 1; modelo local pequeno leva ao KVM 2, no limite, ou ao KVM 4; modelo local com mais contexto ou outros programas leva ao KVM 4 ou ao KVM 8",
-          "caption": "Pela documentação do OpenClaw; não medimos desempenho."
+          "caption": "Pela documentação do OpenClaw; sem medição de desempenho."
         },
         "comparisonTable": {
           "headers": [
@@ -113087,18 +113087,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Due dettagli del modello locale. Il contesto è la quantità di testo (token, pezzi di parole) che il modello legge in una volta. Quando resta meno del 20% della finestra di contesto, OpenClaw avvisa, con un minimo di 8 mila token; sotto il 10% blocca la risposta, con un minimo di 4 mila token.",
-          "Nelle pagine dei piani KVM consultate, nessuna elenca una scheda video (GPU). La documentazione non dice nemmeno che velocità avrebbe un modello locale senza."
+          "Nelle pagine dei piani KVM della comparazione, nessuna elenca una scheda video (GPU). La documentazione non dice nemmeno che velocità avrebbe un modello locale senza."
         ]
       },
       {
         "heading": "Quale piano KVM scegliere",
         "paragraphs": [
-          "Il piano giusto segue dove gira il modello. KVM è il nome dei server virtuali di Hostinger, e la tabella ne riporta quattro. Leggi ogni piano alla luce della documentazione; è la nostra lettura, non una misurazione:"
+          "Il piano giusto segue dove gira il modello. KVM è il nome dei server virtuali di Hostinger, e la tabella ne riporta quattro. Leggi ogni piano alla luce della documentazione; è un'interpretazione, non una misurazione:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
           "alt": "Schema con tre righe: modello fuori dal server (chiave API o crediti) porta al KVM 1; piccolo modello locale porta al KVM 2, al limite, o al KVM 4; modello locale con più contesto o altri programmi porta al KVM 4 o al KVM 8",
-          "caption": "Secondo la documentazione di OpenClaw; non abbiamo misurato le prestazioni."
+          "caption": "Secondo la documentazione di OpenClaw; senza misurazione delle prestazioni."
         },
         "comparisonTable": {
           "headers": [
@@ -113522,7 +113522,7 @@ export const reviewsData: unknown[] = [
         "heading": "Chi scrive",
         "paragraphs": [
           "Em Casa com Cecília gira su Hostinger, come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno del team usa OpenClaw né Hermes Agent.",
-          "Questo testo riunisce le pagine di Hostinger e le politiche e le documentazioni ufficiali dei due progetti, lette il 21 ottobre 2026. Il confronto tra i due che OpenClaw pubblica è scritto dal progetto stesso, e compare con quel nome nella colonna della fonte della tabella."
+          "Questo testo riunisce le pagine di Hostinger e le politiche e le documentazioni ufficiali dei due progetti, nella versione del 21 ottobre 2026. Il confronto tra i due che OpenClaw pubblica è scritto dal progetto stesso, e compare con quel nome nella colonna della fonte della tabella."
         ]
       }
     ],
@@ -113808,7 +113808,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quién escribe",
         "paragraphs": [
           "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa OpenClaw ni Hermes Agent.",
-          "Este texto reúne las páginas de Hostinger y las políticas y documentaciones oficiales de los dos proyectos, leídas el 21 de octubre de 2026. La comparación entre los dos que publica OpenClaw la escribe el propio proyecto, y aparece con ese nombre en la columna de fuente de la tabla."
+          "Este texto reúne las páginas de Hostinger y las políticas y documentaciones oficiales de los dos proyectos, en su versión del 21 de octubre de 2026. La comparación entre los dos que publica OpenClaw la escribe el propio proyecto, y aparece con ese nombre en la columna de fuente de la tabla."
         ]
       }
     ],
@@ -114092,7 +114092,7 @@ export const reviewsData: unknown[] = [
         "heading": "Wer schreibt",
         "paragraphs": [
           "Em Casa com Cecília läuft bei Hostinger, als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand im Team nutzt OpenClaw oder Hermes Agent.",
-          "Dieser Text fasst die Seiten von Hostinger sowie die offiziellen Richtlinien und Dokumentationen der beiden Projekte zusammen, gelesen am 21. Oktober 2026. Der Vergleich der beiden, den OpenClaw veröffentlicht, stammt vom Projekt selbst und erscheint unter diesem Namen in der Quellenspalte der Tabelle."
+          "Dieser Text fasst die Seiten von Hostinger sowie die offiziellen Richtlinien und Dokumentationen der beiden Projekte zusammen, Stand: 21. Oktober 2026. Der Vergleich der beiden, den OpenClaw veröffentlicht, stammt vom Projekt selbst und erscheint unter diesem Namen in der Quellenspalte der Tabelle."
         ]
       }
     ],
@@ -114378,7 +114378,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qui écrit",
         "paragraphs": [
           "Em Casa com Cecília tourne chez Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l'équipe n'utilise OpenClaw ni Hermes Agent.",
-          "Ce texte rassemble les pages d'Hostinger et les politiques et documentations officielles des deux projets, lues le 21 octobre 2026. La comparaison entre les deux qu'OpenClaw publie est écrite par le projet lui-même, et apparaît sous ce nom dans la colonne des sources du tableau."
+          "Ce texte rassemble les pages d'Hostinger et les politiques et documentations officielles des deux projets, dans leur version du 21 octobre 2026. La comparaison entre les deux qu'OpenClaw publie est écrite par le projet lui-même, et apparaît sous ce nom dans la colonne des sources du tableau."
         ]
       }
     ],
@@ -114680,7 +114680,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem escreve",
         "paragraphs": [
           "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw nem o Hermes Agent.",
-          "Este texto reúne as páginas da Hostinger e as políticas e documentações oficiais dos dois projetos, lidas em 21/10/2026. A comparação entre os dois que o OpenClaw publica é escrita pelo próprio projeto, e aparece com esse nome na coluna de fonte da tabela."
+          "Este texto reúne as páginas da Hostinger e as políticas e documentações oficiais dos dois projetos, na versão de 21/10/2026. A comparação entre os dois que o OpenClaw publica é escrita pelo próprio projeto, e aparece com esse nome na coluna de fonte da tabela."
         ]
       }
     ],
@@ -114965,7 +114965,7 @@ export const reviewsData: unknown[] = [
         "heading": "運営者について",
         "paragraphs": [
           "Em Casa com Cecília は Hostinger の Node.js Web App で動いていて、Bruno は 2024 年からのお客様です。ホスティングと VPS KVM 2 を使っています。チームの誰も OpenClaw や Hermes Agent は使っていません。",
-          "この記事は、Hostinger のページと、二つのプロジェクトの公式のポリシーおよびドキュメントを、2026年10月21日に読んでまとめたものです。OpenClaw が公開している両者の比較はプロジェクト自身が書いたもので、表の出典の列にその名前を入れています。"
+          "この記事は、Hostinger のページと、二つのプロジェクトの公式のポリシーおよびドキュメントを、2026年10月21日時点の内容でまとめたものです。OpenClaw が公開している両者の比較はプロジェクト自身が書いたもので、表の出典の列にその名前を入れています。"
         ]
       }
     ],
@@ -115249,7 +115249,7 @@ export const reviewsData: unknown[] = [
         "heading": "작성자 소개",
         "paragraphs": [
           "Em Casa com Cecília는 호스팅어의 Node.js Web App으로 운영되며, Bruno는 2024년부터 호스팅과 VPS KVM 2를 쓰는 고객입니다. 팀 중 누구도 OpenClaw나 Hermes Agent는 쓰지 않습니다.",
-          "이 글은 호스팅어 페이지와 두 프로젝트의 공식 정책 및 문서를 2026년 10월 21일에 읽고 정리한 것입니다. OpenClaw가 공개한 두 프로젝트 비교는 프로젝트 자신이 쓴 글이며, 표의 출처 열에 그 이름을 적어 두었습니다."
+          "이 글은 호스팅어 페이지와 두 프로젝트의 공식 정책 및 문서를 2026년 10월 21일 기준으로 정리한 것입니다. OpenClaw가 공개한 두 프로젝트 비교는 프로젝트 자신이 쓴 글이며, 표의 출처 열에 그 이름을 적어 두었습니다."
         ]
       }
     ],
@@ -115535,7 +115535,7 @@ export const reviewsData: unknown[] = [
         "heading": "谁在写",
         "paragraphs": [
           "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App，Bruno 自 2024 年起就是客户，使用托管主机和一台 VPS KVM 2。团队中没有人使用 OpenClaw 或 Hermes Agent。",
-          "本文汇总了 Hostinger 的页面，以及两个项目的官方政策和文档，查阅日期为 2026年10月21日。OpenClaw 发布的两者对比是项目方自己写的，并在表格的来源列里标出了这个名称。"
+          "本文汇总了 Hostinger 的页面，以及两个项目的官方政策和文档，内容截至 2026年10月21日。OpenClaw 发布的两者对比是项目方自己写的，并在表格的来源列里标出了这个名称。"
         ]
       }
     ],
@@ -115820,7 +115820,7 @@ export const reviewsData: unknown[] = [
         "heading": "誰在寫",
         "paragraphs": [
           "Em Casa com Cecília 運行在 Hostinger 上，是一個 Node.js Web App，Bruno 自 2024 年起就是客戶，使用主機代管與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
-          "本文彙整了 Hostinger 的頁面，以及兩個專案的官方政策與文件，查閱日期為 2026年10月21日。OpenClaw 發布的兩者比較是專案方自己寫的，並在表格的來源欄標示了這個名稱。"
+          "本文彙整了 Hostinger 的頁面，以及兩個專案的官方政策與文件，內容截至 2026年10月21日。OpenClaw 發布的兩者比較是專案方自己寫的，並在表格的來源欄標示了這個名稱。"
         ]
       }
     ],
@@ -116105,7 +116105,7 @@ export const reviewsData: unknown[] = [
         "heading": "Who writes this",
         "paragraphs": [
           "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a VPS KVM 2. Nobody on the team uses OpenClaw or Hermes Agent.",
-          "This text gathers Hostinger's pages and the official policies and documentation of the two projects, read on 21 October 2026. The comparison between the two that OpenClaw publishes is written by the project itself, and appears under that name in the table's source column."
+          "This text gathers Hostinger's pages and the official policies and documentation of the two projects, as of 21 October 2026. The comparison between the two that OpenClaw publishes is written by the project itself, and appears under that name in the table's source column."
         ]
       }
     ],
@@ -116221,9 +116221,9 @@ export const reviewsData: unknown[] = [
           "**Wer es pflegt.** Das offizielle Repository, github.com/paperclipai/paperclip, nennt das Paperclip-Team als Betreuer des Projekts, und der Copyright-Hinweis lautet „MIT © 2026 Paperclip Labs, Inc.“. Die Website des Projekts, paperclip.ing, verweist auf dasselbe Repository. Verwechseln Sie es nicht mit Forks und Kopien des Codes, die in der Suche auftauchen.",
           "**Lizenz.** MIT. Das heißt, der Code ist offen: Jeder darf ihn lesen, prüfen und nutzen. Es heißt auch, dass niemand verpflichtet ist, die von Ihnen installierte Version weiter zu pflegen.",
           "**Wo es läuft.** Das entscheiden Sie. Es kann auf Ihrem Computer, auf einem eigenen Server oder im verwalteten Tarif von Hostinger laufen. Die Website des Projekts sagt, dass die selbst gehostete Version kein Paperclip-Konto verlangt.",
-          "**Wo Schlüssel und Daten liegen.** Das hängt vom Weg ab. Auf dem VPS sagt Hostinger selbst, dass sensible Daten, das Gedächtnis der Agenten und API-Zugangsdaten „vollständig in Ihrer Infrastruktur“ bleiben, also auf dem Server, den Sie gemietet haben. Beim verwalteten Angebot sagt die Seite, dass die Schlüssel in Ihrer verwalteten Instanz bleiben. Das ist die Beschreibung von Hostinger, keine Prüfung von uns.",
-          "**Sicherheit des Codes.** Das Repository bittet darum, Schwachstellen über die Security-Advisory-Funktion von GitHub zu melden und nicht in öffentlichen Issues. Bei dieser Lektüre haben wir weder unterstützte Versionen noch ein unabhängiges Audit noch veröffentlichte Advisories geprüft.",
-          "**Was sich nicht behaupten lässt.** Für diesen Ratgeber gibt es kein verifiziertes öffentliches Sicherheitsaudit. Es gibt auch keine unabhängige Bewertung und keine Drittbewertung für das Produkt. Die Zahl der Sterne auf GitHub zeigt Beliebtheit, nicht Sicherheit. Ein Agent mit Zugriff auf Ihre E-Mails, Ihre Bank oder andere Konten verdient besondere Vorsicht, egal welche Software. Zum Unternehmen, das hostet, lesen Sie [ob Hostinger vertrauenswürdig ist](/de/reviews/ist-hostinger-serioes)."
+          "**Wo Schlüssel und Daten liegen.** Das hängt vom Weg ab. Auf dem VPS sagt Hostinger selbst, dass sensible Daten, das Gedächtnis der Agenten und API-Zugangsdaten „vollständig in Ihrer Infrastruktur“ bleiben, also auf dem Server, den Sie gemietet haben. Beim verwalteten Angebot sagt die Seite, dass die Schlüssel in Ihrer verwalteten Instanz bleiben. Das ist die Beschreibung von Hostinger, keine unabhängige Prüfung.",
+          "**Sicherheit des Codes.** Das Repository bittet darum, Schwachstellen über die Security-Advisory-Funktion von GitHub zu melden und nicht in öffentlichen Issues. In den Quellen dieses Ratgebers finden sich weder unterstützte Versionen noch ein unabhängiges Audit noch veröffentlichte Advisories.",
+          "**Was sich nicht behaupten lässt.** In den Quellen dieses Ratgebers gibt es kein öffentliches Sicherheitsaudit. Es gibt auch keine unabhängige Bewertung und keine Drittbewertung für das Produkt. Die Zahl der Sterne auf GitHub zeigt Beliebtheit, nicht Sicherheit. Ein Agent mit Zugriff auf Ihre E-Mails, Ihre Bank oder andere Konten verdient besondere Vorsicht, egal welche Software. Zum Unternehmen, das hostet, lesen Sie [ob Hostinger vertrauenswürdig ist](/de/reviews/ist-hostinger-serioes)."
         ]
       },
       {
@@ -116295,7 +116295,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Welche VPS-Größe",
         "postParagraphs": [
-          "RAM ist der Arbeitsspeicher des Servers, und eine vCPU ist ein Prozessorkern. Je größer der VPS-Tarif, desto mehr Speicher und Rechenleistung hat er. Hostinger nennt auf den gelesenen Seiten keinen Mindestspeicher für Paperclip: Der KVM 1 ist der Ausgangspunkt, und wie viele Agenten Sie betreiben, entscheidet, ob er reicht. Die Tarife sind KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) und KVM 8 (8 vCPU, 32 GB, 400 GB)."
+          "RAM ist der Arbeitsspeicher des Servers, und eine vCPU ist ein Prozessorkern. Je größer der VPS-Tarif, desto mehr Speicher und Rechenleistung hat er. Hostinger nennt auf den Produktseiten keinen Mindestspeicher für Paperclip: Der KVM 1 ist der Ausgangspunkt, und wie viele Agenten Sie betreiben, entscheidet, ob er reicht. Die Tarife sind KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) und KVM 8 (8 vCPU, 32 GB, 400 GB)."
         ]
       },
       {
@@ -116322,7 +116322,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Ist Paperclip kostenlos? Das Programm ist Open Source unter MIT-Lizenz und lässt sich ohne Hostinger-Vertrag auf Ihrem Computer installieren. Verwaltetes Hosting und VPS sind kostenpflichtig. Der Modellzugang erfolgt über Ihre eigenen Konten per API oder unterstütztem Abonnement, mit den Kosten und Grenzen des Anbieters.",
-          "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. In den gelesenen Quellen haben wir kein unabhängiges Audit gefunden.",
+          "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. In den Quellen dieses Ratgebers gibt es kein unabhängiges Audit.",
           "Braucht man einen API-Schlüssel? In den meisten Fällen ja. Beim verwalteten Angebot akzeptiert Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement. Beim VPS verlangt die Seite, dass man eigene Schlüssel mitbringt. Auf dem Computer akzeptiert die README auch das Abonnement von Claude oder Codex, ohne API-Schlüssel.",
           "Läuft es mit Ollama? Das hängt vom Agenten ab, den Sie verbinden. Die README von Paperclip nennt Ollama nicht, ein Programm, um ein KI-Modell auf dem eigenen Computer auszuführen. OpenClaw dokumentiert zum Beispiel lokale Modelle; bei Paperclip liegt das Modell beim Agenten, den Sie verbinden.",
           "Gibt es einen Gutscheincode für Paperclip bei Hostinger? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
@@ -116332,7 +116332,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wer schreibt",
         "paragraphs": [
-          "Die Seite Em Casa com Cecília läuft bei Hostinger als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt Paperclip. Dieser Text fasst zusammen, was das offizielle Repository und Hostinger sagen, gelesen am 21.10.2026."
+          "Die Seite Em Casa com Cecília läuft bei Hostinger als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt Paperclip. Dieser Text fasst zusammen, was das offizielle Repository und Hostinger sagen."
         ]
       }
     ],
@@ -116449,9 +116449,9 @@ export const reviewsData: unknown[] = [
           "**Chi lo mantiene.** Il repository ufficiale, github.com/paperclipai/paperclip, dice che il progetto è mantenuto dal team Paperclip, e l’avviso di copyright riporta “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confonderlo con i fork e le copie del codice che compaiono nella ricerca.",
           "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, controllarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che hai installato.",
           "**Dove gira.** Scegli tu. Può girare sul tuo computer, su un server tuo o sul piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
-          "**Dove restano le chiavi e i dati.** Dipende dal percorso. Sul VPS, la stessa Hostinger dice che i dati sensibili, la memoria degli agenti e le credenziali API restano “interamente sulla tua infrastruttura”, cioè sul server che hai affittato. Sul gestito, la pagina dice che le chiavi restano nella tua istanza gestita. È la descrizione di Hostinger, non un nostro audit.",
-          "**Sicurezza del codice.** Il repository chiede che le vulnerabilità siano segnalate tramite la funzione Security Advisory di GitHub, e non in issue pubbliche. In questa lettura, non abbiamo verificato versioni supportate, audit indipendenti né advisory pubblicati.",
-          "**Cosa non si può affermare.** Non esiste un audit di sicurezza pubblico verificato per questa guida. Non c’è nemmeno una recensione indipendente né una valutazione di terzi per il prodotto. Il numero di stelle su GitHub mostra la popolarità, non la sicurezza. Un agente con accesso alla tua e-mail, alla banca o ad altri account merita una cautela in più, qualunque sia il software. Sull’azienda che ospita, vedi [se Hostinger è affidabile](/it/reviews/hostinger-e-affidabile)."
+          "**Dove restano le chiavi e i dati.** Dipende dal percorso. Sul VPS, la stessa Hostinger dice che i dati sensibili, la memoria degli agenti e le credenziali API restano “interamente sulla tua infrastruttura”, cioè sul server che hai affittato. Sul gestito, la pagina dice che le chiavi restano nella tua istanza gestita. È la descrizione di Hostinger, non un audit indipendente.",
+          "**Sicurezza del codice.** Il repository chiede che le vulnerabilità siano segnalate tramite la funzione Security Advisory di GitHub, e non in issue pubbliche. Nelle fonti di questa guida non compaiono versioni supportate, audit indipendenti né advisory pubblicati.",
+          "**Cosa non si può affermare.** Nelle fonti di questa guida non c’è un audit di sicurezza pubblico. Non c’è nemmeno una recensione indipendente né una valutazione di terzi per il prodotto. Il numero di stelle su GitHub mostra la popolarità, non la sicurezza. Un agente con accesso alla tua e-mail, alla banca o ad altri account merita una cautela in più, qualunque sia il software. Sull’azienda che ospita, vedi [se Hostinger è affidabile](/it/reviews/hostinger-e-affidabile)."
         ]
       },
       {
@@ -116523,7 +116523,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Che dimensione di VPS",
         "postParagraphs": [
-          "La RAM è la memoria del server, e una vCPU è un core del processore. Più grande è il piano VPS, più memoria ed elaborazione ha. Hostinger non indica, nelle pagine lette, un requisito minimo di memoria per Paperclip: il KVM 1 è il punto di partenza, e quanti agenti fai girare decide se basta. I piani sono KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) e KVM 8 (8 vCPU, 32 GB, 400 GB)."
+          "La RAM è la memoria del server, e una vCPU è un core del processore. Più grande è il piano VPS, più memoria ed elaborazione ha. Hostinger non indica, nelle pagine del prodotto, un requisito minimo di memoria per Paperclip: il KVM 1 è il punto di partenza, e quanti agenti fai girare decide se basta. I piani sono KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) e KVM 8 (8 vCPU, 32 GB, 400 GB)."
         ]
       },
       {
@@ -116550,7 +116550,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Paperclip è gratis? Il programma è open source con licenza MIT e si può installare sul computer senza sottoscrivere Hostinger. Hosting gestito e VPS sono a pagamento; i modelli usano i tuoi account tramite API o abbonamento compatibile, con costi e limiti del fornitore.",
-          "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
+          "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Nelle fonti di questa guida non ci sono audit indipendenti.",
           "Serve una chiave API? Nella maggior parte dei casi, sì. Sul gestito, Hostinger accetta una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo. Sul VPS, la pagina chiede di portare le proprie chiavi. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
           "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
           "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
@@ -116560,7 +116560,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chi scrive",
         "paragraphs": [
-          "Em Casa com Cecília gira su Hostinger come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno della squadra usa Paperclip: questo testo riunisce quello che dicono il repository ufficiale e Hostinger, letti il 21/10/2026."
+          "Em Casa com Cecília gira su Hostinger come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno della squadra usa Paperclip: questo testo riunisce quello che dicono il repository ufficiale e Hostinger."
         ]
       }
     ],
@@ -116678,9 +116678,9 @@ export const reviewsData: unknown[] = [
           "**Qui le maintient.** Le dépôt officiel, github.com/paperclipai/paperclip, indique que le projet est maintenu par l’équipe Paperclip, et la mention de copyright dit « MIT © 2026 Paperclip Labs, Inc. ». Le site du projet, paperclip.ing, renvoie au même dépôt. Ne le confondez pas avec les forks et copies du code qui apparaissent dans la recherche.",
           "**Licence.** MIT. Cela veut dire que le code est ouvert : tout le monde peut le lire, l’auditer et l’utiliser. Cela veut aussi dire que personne n’est obligé de maintenir la version que vous avez installée.",
           "**Où il tourne.** Vous choisissez. Il peut tourner sur votre ordinateur, sur un serveur à vous ou sur l’offre gérée de Hostinger. Le site du projet indique que la version auto-hébergée n’exige pas de compte Paperclip.",
-          "**Où se trouvent les clés et les données.** Cela dépend du chemin. Sur le VPS, Hostinger elle-même indique que les données sensibles, la mémoire des agents et les identifiants d’API restent « entièrement sur votre infrastructure », c’est-à-dire sur le serveur que vous avez loué. Sur le géré, la page indique que les clés restent dans votre instance gérée. C’est la description de Hostinger, pas un audit de notre part.",
-          "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées via la fonction Security Advisory de GitHub, et non dans des issues publiques. Dans cette lecture, nous n’avons vérifié ni les versions prises en charge, ni un audit indépendant, ni des advisories publiés.",
-          "**Ce que l’on ne peut pas affirmer.** Il n’y a pas d’audit de sécurité public vérifié pour ce guide. Il n’y a pas non plus d’avis indépendant ni de note de tiers pour le produit. Le nombre d’étoiles sur GitHub montre la popularité, pas la sécurité. Un agent ayant accès à votre messagerie, à votre banque ou à d’autres comptes mérite une prudence supplémentaire, quel que soit le logiciel. Pour l’entreprise qui l’héberge, voyez [si Hostinger est fiable](/fr/reviews/hostinger-est-il-fiable)."
+          "**Où se trouvent les clés et les données.** Cela dépend du chemin. Sur le VPS, Hostinger elle-même indique que les données sensibles, la mémoire des agents et les identifiants d’API restent « entièrement sur votre infrastructure », c’est-à-dire sur le serveur que vous avez loué. Sur le géré, la page indique que les clés restent dans votre instance gérée. C’est la description de Hostinger, pas un audit indépendant.",
+          "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées via la fonction Security Advisory de GitHub, et non dans des issues publiques. Dans les sources de ce guide, on ne trouve ni versions prises en charge, ni audit indépendant, ni advisories publiés.",
+          "**Ce que l’on ne peut pas affirmer.** Les sources de ce guide ne mentionnent aucun audit de sécurité public. Il n’y a pas non plus d’avis indépendant ni de note de tiers pour le produit. Le nombre d’étoiles sur GitHub montre la popularité, pas la sécurité. Un agent ayant accès à votre messagerie, à votre banque ou à d’autres comptes mérite une prudence supplémentaire, quel que soit le logiciel. Pour l’entreprise qui l’héberge, voyez [si Hostinger est fiable](/fr/reviews/hostinger-est-il-fiable)."
         ]
       },
       {
@@ -116752,7 +116752,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quelle taille de VPS",
         "postParagraphs": [
-          "La RAM est la mémoire du serveur, et un vCPU est un cœur de processeur. Plus l’offre de VPS est grande, plus elle a de mémoire et de puissance de calcul. Hostinger ne liste pas, dans les pages lues, de mémoire minimale requise pour Paperclip : le KVM 1 est le point de départ, et le nombre d’agents que vous faites tourner décide s’il suffit. Les offres sont KVM 1 (1 vCPU, 4 Go, 50 Go), KVM 2 (2 vCPU, 8 Go, 100 Go), KVM 4 (4 vCPU, 16 Go, 200 Go) et KVM 8 (8 vCPU, 32 Go, 400 Go)."
+          "La RAM est la mémoire du serveur, et un vCPU est un cœur de processeur. Plus l’offre de VPS est grande, plus elle a de mémoire et de puissance de calcul. Hostinger ne liste pas, sur les pages du produit, de mémoire minimale requise pour Paperclip : le KVM 1 est le point de départ, et le nombre d’agents que vous faites tourner décide s’il suffit. Les offres sont KVM 1 (1 vCPU, 4 Go, 50 Go), KVM 2 (2 vCPU, 8 Go, 100 Go), KVM 4 (4 vCPU, 16 Go, 200 Go) et KVM 8 (8 vCPU, 32 Go, 400 Go)."
         ]
       },
       {
@@ -116779,7 +116779,7 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Paperclip est-il gratuit ? Le programme est open source sous licence MIT et peut s’installer sur votre ordinateur sans souscrire chez Hostinger. L’hébergement géré et les VPS sont payants ; les modèles utilisent vos comptes par API ou abonnement compatible, avec les coûts et limites du fournisseur.",
-          "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Nous n’avons pas trouvé d’audit indépendant dans les sources lues.",
+          "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Il n’y a pas d’audit indépendant dans les sources de ce guide.",
           "Faut-il une clé d’API ? Dans la plupart des cas, oui. Sur le géré, Hostinger accepte une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif. Sur le VPS, la page demande d’apporter vos propres clés. Sur l’ordinateur, le README accepte aussi l’abonnement Claude ou Codex, sans clé d’API.",
           "Fonctionne-t-il avec Ollama ? Cela dépend de l’agent que vous connectez. Le README de Paperclip ne cite pas Ollama, un programme pour faire tourner un modèle d’IA sur son propre ordinateur. OpenClaw, par exemple, documente des modèles locaux ; dans Paperclip, le modèle reste du côté de l’agent que vous connectez.",
           "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
@@ -116789,7 +116789,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qui écrit",
         "paragraphs": [
-          "Em Casa com Cecília tourne sur Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l’équipe n’utilise Paperclip : ce texte réunit ce que disent le dépôt officiel et Hostinger, consultés le 21 octobre 2026."
+          "Em Casa com Cecília tourne sur Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l’équipe n’utilise Paperclip : ce texte réunit ce que disent le dépôt officiel et Hostinger."
         ]
       }
     ],
@@ -116906,9 +116906,9 @@ export const reviewsData: unknown[] = [
           "**Who maintains it.** The official repository, github.com/paperclipai/paperclip, says the project is maintained by the Paperclip team, and the copyright notice reads “MIT © 2026 Paperclip Labs, Inc.”. The project’s website, paperclip.ing, points to the same repository. Do not confuse it with the forks and copies of the code that show up in search.",
           "**License.** MIT. It means the code is open: anyone can read it, audit it and use it. It also means nobody is obliged to keep maintaining the version you installed.",
           "**Where it runs.** You choose. It can run on your computer, on a server of your own or on Hostinger’s managed plan. The project’s website says the self-hosted version does not require a Paperclip account.",
-          "**Where the keys and data live.** It depends on the path. On the VPS, Hostinger itself says that sensitive data, agent memory and API credentials stay “entirely on your infrastructure”, that is, on the server you rented. On managed, the page says the keys stay in your managed instance. This is Hostinger’s description, not an audit of ours.",
-          "**Code security.** The repository asks that vulnerabilities be reported through GitHub’s Security Advisory feature, not in public issues. In this reading, we did not check supported versions, independent audits or published advisories.",
-          "**What cannot be claimed.** There is no verified public security audit for this guide. There is also no independent review or third-party rating for the product. The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. For the company that hosts it, see [whether Hostinger is trustworthy](/en/reviews/is-hostinger-legit)."
+          "**Where the keys and data live.** It depends on the path. On the VPS, Hostinger itself says that sensitive data, agent memory and API credentials stay “entirely on your infrastructure”, that is, on the server you rented. On managed, the page says the keys stay in your managed instance. This is Hostinger’s description, not an independent audit.",
+          "**Code security.** The repository asks that vulnerabilities be reported through GitHub’s Security Advisory feature, not in public issues. The sources for this guide list no supported versions, independent audits or published advisories.",
+          "**What cannot be claimed.** The sources for this guide mention no public security audit. There is also no independent review or third-party rating for the product. The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. For the company that hosts it, see [whether Hostinger is trustworthy](/en/reviews/is-hostinger-legit)."
         ]
       },
       {
@@ -116980,7 +116980,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What size of VPS",
         "postParagraphs": [
-          "RAM is the server’s memory, and a vCPU is one processor core. The bigger the VPS plan, the more memory and processing power it has. Hostinger does not list a minimum memory requirement for Paperclip on the pages read: the KVM 1 is the starting point, and how many agents you run decides whether it is enough. The plans are KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) and KVM 8 (8 vCPU, 32 GB, 400 GB)."
+          "RAM is the server’s memory, and a vCPU is one processor core. The bigger the VPS plan, the more memory and processing power it has. Hostinger does not list a minimum memory requirement for Paperclip on its product pages: the KVM 1 is the starting point, and how many agents you run decides whether it is enough. The plans are KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) and KVM 8 (8 vCPU, 32 GB, 400 GB)."
         ]
       },
       {
@@ -117007,7 +117007,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Is Paperclip free? The program is open source under the MIT license and can be installed on your computer without buying Hostinger hosting. Managed hosting and VPS plans are paid. Model access uses your own accounts through an API or supported subscription, under the provider’s costs and limits.",
-          "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. We found no independent audit in the sources read.",
+          "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. There is no independent audit in this guide’s sources.",
           "Does it need an API key? In most cases, yes. On managed, Hostinger accepts an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription. On the VPS, the page asks you to bring your own keys. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
           "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
           "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
@@ -117017,7 +117017,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Who writes this",
         "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses Paperclip: this text gathers what the official repository and Hostinger say, read on October 21, 2026."
+          "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses Paperclip: this text gathers what the official repository and Hostinger say."
         ]
       }
     ],
@@ -117134,9 +117134,9 @@ export const reviewsData: unknown[] = [
           "**誰が保守しているか。** 公式リポジトリ github.com/paperclipai/paperclip には、プロジェクトは Paperclip チームが保守していると書かれ、著作権表示には「MIT © 2026 Paperclip Labs, Inc.」とあります。プロジェクトのサイト paperclip.ing も同じリポジトリを指しています。検索に出てくるフォークやコードのコピーと混同しないでください。",
           "**ライセンス。** MIT です。コードが公開されていて、誰でも読み、監査し、使えるということです。同時に、あなたがインストールしたバージョンを保守し続ける義務は誰にもありません。",
           "**どこで動かすか。** 選べます。自分のコンピューター、自前のサーバー、Hostinger のマネージドプランのいずれでも動かせます。プロジェクトのサイトによると、セルフホスト版に Paperclip のアカウントは不要です。",
-          "**キーとデータの置き場所。** 経路によって違います。VPS では、機密データ、エージェントのメモリ、API の認証情報は「すべてお客様のインフラ内」にあると Hostinger 自身が説明しており、つまり借りたサーバーの中です。マネージドでは、キーはご自身のマネージドインスタンスにあるとページに書かれています。これは Hostinger の説明であり、こちらで監査したものではありません。",
-          "**コードの安全性。** リポジトリは、脆弱性を公開の issue ではなく GitHub の Security Advisory 機能で報告するよう求めています。今回の調査では、サポート対象のバージョン、独立した監査、公開済みのアドバイザリーは確認していません。",
-          "**断言できないこと。** このガイドの時点で、検証済みの公開セキュリティ監査はありません。独立したレビューも、この製品に対する第三者の評価もありません。GitHub のスター数は人気を示すもので、安全性を示すものではありません。メール、銀行、その他のアカウントにアクセスできるエージェントは、どのソフトウェアでも特に注意が必要です。ホスティング会社については、[Hostinger は信頼できるか](/ja/reviews/hostinger-trust-guide-ja)をご覧ください。"
+          "**キーとデータの置き場所。** 経路によって違います。VPS では、機密データ、エージェントのメモリ、API の認証情報は「すべてお客様のインフラ内」にあると Hostinger 自身が説明しており、つまり借りたサーバーの中です。マネージドでは、キーはご自身のマネージドインスタンスにあるとページに書かれています。これは Hostinger の説明であり、独立した監査ではありません。",
+          "**コードの安全性。** リポジトリは、脆弱性を公開の issue ではなく GitHub の Security Advisory 機能で報告するよう求めています。このガイドの情報源には、サポート対象のバージョン、独立した監査、公開済みのアドバイザリーの記載がありません。",
+          "**断言できないこと。** このガイドの情報源には、公開されたセキュリティ監査の記載がありません。独立したレビューも、この製品に対する第三者の評価もありません。GitHub のスター数は人気を示すもので、安全性を示すものではありません。メール、銀行、その他のアカウントにアクセスできるエージェントは、どのソフトウェアでも特に注意が必要です。ホスティング会社については、[Hostinger は信頼できるか](/ja/reviews/hostinger-trust-guide-ja)をご覧ください。"
         ]
       },
       {
@@ -117208,7 +117208,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "VPS のサイズ",
         "postParagraphs": [
-          "RAM はサーバーのメモリ、vCPU はプロセッサーのコア一つ分です。VPS のプランが大きいほど、メモリと処理能力が増えます。確認したページには、Paperclip に必要な最小メモリの記載が Hostinger にありません。KVM 1 が出発点で、足りるかどうかは動かすエージェントの数で決まります。各プランの仕様は、KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）です。"
+          "RAM はサーバーのメモリ、vCPU はプロセッサーのコア一つ分です。VPS のプランが大きいほど、メモリと処理能力が増えます。Hostinger のページには、Paperclip に必要な最小メモリの記載がありません。KVM 1 が出発点で、足りるかどうかは動かすエージェントの数で決まります。各プランの仕様は、KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）です。"
         ]
       },
       {
@@ -117235,7 +117235,7 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "Paperclip は無料ですか？ プログラムはオープンソースで MIT ライセンスです。Hostinger に支払わず、自分のコンピューターにインストールできます。マネージドと VPS は有料プランです。モデルへの接続は、ご自身のアカウントで API または対応するサブスクリプションを使い、プロバイダーの料金と制限に従います。",
-          "Paperclip は信頼できますか？ 結論を出すことはできません。確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を責任者としていること、セキュリティ上の不具合は GitHub の公式窓口で報告されることです。調べた情報源には、独立した監査は見つかりませんでした。",
+          "Paperclip は信頼できますか？ 結論を出すことはできません。確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を責任者としていること、セキュリティ上の不具合は GitHub の公式窓口で報告されることです。このガイドの情報源には、独立した監査はありません。",
           "API キーは必要ですか？ ほとんどの場合は必要です。マネージド版では、OpenAI、Anthropic、Gemini、Cursor のいずれかの API キー、または有効な ChatGPT サブスクリプションが使えます。VPS では、ページがご自身のキーを持ち込むよう求めています。コンピューターで動かす場合は、README により Claude または Codex のサブスクリプションでも、API キーなしで利用できます。",
           "Ollama で動きますか？ 接続するエージェント次第です。Paperclip の README には、AI モデルを自分のコンピューターで動かすプログラムである Ollama への言及がありません。たとえば OpenClaw はローカルモデルを文書化していますが、Paperclip ではモデルは接続したエージェント側にあります。",
           "Hostinger で Paperclip に使えるクーポンはありますか？ あります。カートのクーポン欄にコード SONAR20 を入れると、最初の期間が20%引きになります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
@@ -117245,7 +117245,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "執筆者",
         "paragraphs": [
-          "Em Casa com Cecília は Hostinger 上で Node.js Web App として動いており、Bruno は2024年からのお客様で、ホスティングと VPS KVM 2 を利用しています。チームの誰も Paperclip を使っていません。この記事は、公式リポジトリと Hostinger の説明を2026年10月21日に読んでまとめたものです。"
+          "Em Casa com Cecília は Hostinger 上で Node.js Web App として動いており、Bruno は2024年からのお客様で、ホスティングと VPS KVM 2 を利用しています。チームの誰も Paperclip を使っていません。この記事は、公式リポジトリと Hostinger の説明をまとめたものです。"
         ]
       }
     ],
@@ -117361,9 +117361,9 @@ export const reviewsData: unknown[] = [
           "**누가 관리하는가.** 공식 저장소 github.com/paperclipai/paperclip에는 이 프로젝트를 Paperclip 팀이 관리한다고 적혀 있고, 저작권 표기는 'MIT © 2026 Paperclip Labs, Inc.'입니다. 프로젝트 사이트 paperclip.ing도 같은 저장소를 가리킵니다. 검색에 나오는 포크나 코드 복사본과 혼동하지 마세요.",
           "**라이선스.** MIT입니다. 코드가 공개되어 있어 누구나 읽고, 감사하고, 사용할 수 있다는 뜻입니다. 또한 설치한 버전을 계속 관리해 줄 의무가 누구에게도 없다는 뜻이기도 합니다.",
           "**어디서 실행하는가.** 선택할 수 있습니다. 컴퓨터, 자체 서버, Hostinger 관리형 플랜 모두 가능합니다. 프로젝트 사이트에 따르면 셀프 호스팅 버전에는 Paperclip 계정이 필요 없습니다.",
-          "**키와 데이터는 어디에 있는가.** 경로에 따라 다릅니다. VPS에서는 민감한 데이터, 에이전트 메모리, API 자격 증명이 '전적으로 고객의 인프라 안'에 있다고 Hostinger가 직접 밝히고 있으며, 곧 임대한 서버 안이라는 뜻입니다. 관리형에서는 키가 관리형 인스턴스에 있다고 페이지에 적혀 있습니다. 이는 Hostinger의 설명이며 직접 감사한 결과가 아닙니다.",
-          "**코드 보안.** 저장소는 취약점을 공개 이슈가 아니라 GitHub의 Security Advisory 기능으로 신고하라고 안내합니다. 이번 조사에서는 지원 버전, 독립적인 감사, 공개된 어드바이저리를 확인하지 않았습니다.",
-          "**단정할 수 없는 것.** 이 가이드 기준으로 검증된 공개 보안 감사는 없습니다. 독립적인 리뷰나 이 제품에 대한 제3자 평가도 없습니다. GitHub의 별 개수는 인기를 보여 줄 뿐 안전을 보여 주지 않습니다. 이메일, 은행, 다른 계정에 접근하는 에이전트는 어떤 소프트웨어든 특별히 조심해야 합니다. 호스팅 회사에 대해서는 [Hostinger는 믿을 만한가](/ko/reviews/hostinger-trust-guide-ko)를 보세요."
+          "**키와 데이터는 어디에 있는가.** 경로에 따라 다릅니다. VPS에서는 민감한 데이터, 에이전트 메모리, API 자격 증명이 '전적으로 고객의 인프라 안'에 있다고 Hostinger가 직접 밝히고 있으며, 곧 임대한 서버 안이라는 뜻입니다. 관리형에서는 키가 관리형 인스턴스에 있다고 페이지에 적혀 있습니다. 이는 Hostinger의 설명이며 독립적인 감사 결과가 아닙니다.",
+          "**코드 보안.** 저장소는 취약점을 공개 이슈가 아니라 GitHub의 Security Advisory 기능으로 신고하라고 안내합니다. 이 가이드의 자료에는 지원 버전, 독립적인 감사, 공개된 어드바이저리에 대한 내용이 없습니다.",
+          "**단정할 수 없는 것.** 이 가이드의 자료에는 공개된 보안 감사가 없습니다. 독립적인 리뷰나 이 제품에 대한 제3자 평가도 없습니다. GitHub의 별 개수는 인기를 보여 줄 뿐 안전을 보여 주지 않습니다. 이메일, 은행, 다른 계정에 접근하는 에이전트는 어떤 소프트웨어든 특별히 조심해야 합니다. 호스팅 회사에 대해서는 [Hostinger는 믿을 만한가](/ko/reviews/hostinger-trust-guide-ko)를 보세요."
         ]
       },
       {
@@ -117435,7 +117435,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "VPS는 어느 크기로",
         "postParagraphs": [
-          "RAM은 서버의 메모리이고 vCPU는 프로세서 코어 하나입니다. VPS 플랜이 클수록 메모리와 처리 능력이 늘어납니다. 확인한 페이지에는 Paperclip에 필요한 최소 메모리를 Hostinger가 밝혀 놓지 않았습니다. KVM 1이 출발점이고, 에이전트를 몇 개 돌리느냐에 따라 충분한지가 정해집니다. 플랜별 사양은 KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB), KVM 8 (8 vCPU, 32 GB, 400 GB)입니다."
+          "RAM은 서버의 메모리이고 vCPU는 프로세서 코어 하나입니다. VPS 플랜이 클수록 메모리와 처리 능력이 늘어납니다. Hostinger 페이지에는 Paperclip에 필요한 최소 메모리가 나와 있지 않습니다. KVM 1이 출발점이고, 에이전트를 몇 개 돌리느냐에 따라 충분한지가 정해집니다. 플랜별 사양은 KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB), KVM 8 (8 vCPU, 32 GB, 400 GB)입니다."
         ]
       },
       {
@@ -117462,7 +117462,7 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "Paperclip은 무료인가요? 프로그램은 MIT 라이선스의 오픈 소스이며, Hostinger에 돈을 내지 않고 컴퓨터에 설치할 수 있습니다. 관리형과 VPS는 유료 플랜입니다. 모델 연결은 자신의 계정으로 API 또는 지원되는 구독을 쓰며, 제공업체의 비용과 한도가 적용됩니다.",
-          "Paperclip은 믿을 만한가요? 결론을 내릴 수는 없습니다. 확인할 수 있는 것은 코드가 공개되어 있다는 점, 저장소가 Paperclip 팀(저작권 표기로는 Paperclip Labs, Inc.)을 책임자로 밝힌다는 점, 보안 결함은 GitHub의 공식 창구로 신고된다는 점입니다. 살펴본 자료에서 독립적인 감사는 찾지 못했습니다.",
+          "Paperclip은 믿을 만한가요? 결론을 내릴 수는 없습니다. 확인할 수 있는 것은 코드가 공개되어 있다는 점, 저장소가 Paperclip 팀(저작권 표기로는 Paperclip Labs, Inc.)을 책임자로 밝힌다는 점, 보안 결함은 GitHub의 공식 창구로 신고된다는 점입니다. 이 가이드의 자료에는 독립적인 감사가 없습니다.",
           "API 키가 필요한가요? 대부분의 경우 필요합니다. 관리형에서는 OpenAI, Anthropic, Gemini, Cursor 중 하나의 API 키 또는 활성 ChatGPT 구독을 쓸 수 있습니다. VPS에서는 페이지가 자신의 키를 가져오라고 안내합니다. 컴퓨터에서는 README에 따라 Claude나 Codex 구독으로도 API 키 없이 쓸 수 있습니다.",
           "Ollama와 함께 작동하나요? 연결하는 에이전트에 따라 다릅니다. Paperclip의 README에는 AI 모델을 컴퓨터에서 직접 실행하는 프로그램인 Ollama가 언급되어 있지 않습니다. 예를 들어 OpenClaw는 로컬 모델을 문서화하고 있지만, Paperclip에서 모델은 연결한 에이전트 쪽에 있습니다.",
           "Hostinger에서 Paperclip에 쓸 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣으면 첫 번째 기간 20% 할인이 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
@@ -117472,7 +117472,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "작성자",
         "paragraphs": [
-          "Em Casa com Cecília는 Hostinger에서 Node.js Web App으로 운영되며, Bruno는 2024년부터 호스팅과 VPS KVM 2를 쓰는 고객입니다. 팀 중에 Paperclip을 쓰는 사람은 없습니다. 이 글은 공식 저장소와 Hostinger의 설명을 2026년 10월 21일에 읽고 정리한 것입니다."
+          "Em Casa com Cecília는 Hostinger에서 Node.js Web App으로 운영되며, Bruno는 2024년부터 호스팅과 VPS KVM 2를 쓰는 고객입니다. 팀 중에 Paperclip을 쓰는 사람은 없습니다. 이 글은 공식 저장소와 Hostinger의 설명을 정리한 것입니다."
         ]
       }
     ],
@@ -117590,9 +117590,9 @@ export const reviewsData: unknown[] = [
           "**由谁维护。** 官方仓库 github.com/paperclipai/paperclip 写明项目由 Paperclip 团队维护，版权声明为“MIT © 2026 Paperclip Labs, Inc.”。项目网站 paperclip.ing 指向同一个仓库。不要把它与搜索中出现的分叉（fork）和代码副本混为一谈。",
           "**许可证。** MIT。意思是代码开放，任何人都可以阅读、审计和使用。也意味着没有人有义务持续维护您安装的那个版本。",
           "**在哪里运行。** 由您选择。可以在自己的电脑上、自己的服务器上，或 Hostinger 的托管套餐上运行。项目网站说明，自托管版本不需要 Paperclip 账号。",
-          "**密钥和数据放在哪里。** 取决于方式。在 VPS 上，Hostinger 自己表示敏感数据、智能体记忆和 API 凭据“完全保存在您自己的基础设施中”，也就是您租用的那台服务器里。在托管版上，页面说密钥保存在您的托管实例中。这是 Hostinger 的说法，不是我们做的审计。",
-          "**代码安全。** 仓库要求通过 GitHub 的 Security Advisory 功能报告漏洞，而不是公开的 issue。本次阅读中，我们没有核实受支持的版本、独立审计或已发布的安全公告。",
-          "**无法断言的部分。** 就本指南而言，没有经过核实的公开安全审计，也没有独立评测，更没有第三方对该产品的评分。GitHub 的 star 数量代表受欢迎程度，不代表安全。无论用哪种软件，能访问您的邮箱、银行或其他账号的智能体都值得格外小心。关于托管服务商本身，请看[Hostinger 靠谱吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+          "**密钥和数据放在哪里。** 取决于方式。在 VPS 上，Hostinger 自己表示敏感数据、智能体记忆和 API 凭据“完全保存在您自己的基础设施中”，也就是您租用的那台服务器里。在托管版上，页面说密钥保存在您的托管实例中。这是 Hostinger 的说法，不是独立审计。",
+          "**代码安全。** 仓库要求通过 GitHub 的 Security Advisory 功能报告漏洞，而不是公开的 issue。本指南所用的资料中，没有受支持的版本、独立审计或已发布的安全公告。",
+          "**无法断言的部分。** 就本指南的资料而言，没有公开的安全审计，也没有独立评测，更没有第三方对该产品的评分。GitHub 的 star 数量代表受欢迎程度，不代表安全。无论用哪种软件，能访问您的邮箱、银行或其他账号的智能体都值得格外小心。关于托管服务商本身，请看[Hostinger 靠谱吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
         ]
       },
       {
@@ -117664,7 +117664,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "VPS 选多大",
         "postParagraphs": [
-          "RAM 是服务器的内存，vCPU 是一个处理器核心。VPS 套餐越大，内存和处理能力越多。在已查阅的页面中，Hostinger 没有列出 Paperclip 的最低内存要求：KVM 1 是起点，够不够用取决于您运行多少个智能体。各套餐规格如下：KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）。"
+          "RAM 是服务器的内存，vCPU 是一个处理器核心。VPS 套餐越大，内存和处理能力越多。Hostinger 的页面没有列出 Paperclip 的最低内存要求：KVM 1 是起点，够不够用取决于您运行多少个智能体。各套餐规格如下：KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）。"
         ]
       },
       {
@@ -117691,7 +117691,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "Paperclip 免费吗？ 程序采用 MIT 开源许可证，可以不购买 Hostinger 而安装在自己的电脑上。托管版和 VPS 需付费；模型使用您自己的 API 账户或兼容订阅，受提供商的费用和限制约束。",
-          "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。在所查阅的资料中，我们没有找到独立审计。",
+          "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。本指南的资料中没有独立审计。",
           "需要 API 密钥吗？ 大多数情况下需要。托管版可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅；VPS 则要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
           "能搭配 Ollama 使用吗？ 取决于您连接的智能体。Paperclip 的 README 没有提到 Ollama，这是一个在自己电脑上运行 AI 模型的程序。例如 OpenClaw 记录了本地模型的用法；而在 Paperclip 中，模型取决于您连接的智能体。",
           "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
@@ -117701,7 +117701,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "作者",
         "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App，Bruno 自 2024 年起就是客户，使用托管主机和一台 VPS KVM 2。团队里没有人使用 Paperclip：本文汇总的是官方仓库和 Hostinger 的说法，阅读时间为 2026 年 10 月 21 日。"
+          "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App，Bruno 自 2024 年起就是客户，使用托管主机和一台 VPS KVM 2。团队里没有人使用 Paperclip：本文汇总的是官方仓库和 Hostinger 的说法。"
         ]
       }
     ],
@@ -117818,9 +117818,9 @@ export const reviewsData: unknown[] = [
           "**由誰維護。** 官方儲存庫 github.com/paperclipai/paperclip 寫明專案由 Paperclip 團隊維護，著作權聲明為「MIT © 2026 Paperclip Labs, Inc.」。專案網站 paperclip.ing 指向同一個儲存庫。不要把它與搜尋中出現的分支（fork）和程式碼副本混為一談。",
           "**授權。** MIT。意思是程式碼公開，任何人都可以閱讀、稽核和使用。也意味著沒有人有義務持續維護您安裝的那個版本。",
           "**在哪裡執行。** 由您選擇。可以在自己的電腦上、自己的伺服器上，或 Hostinger 的代管方案上執行。專案網站說明，自行架設的版本不需要 Paperclip 帳號。",
-          "**金鑰和資料放在哪裡。** 取決於方式。在 VPS 上，Hostinger 自己表示敏感資料、代理記憶和 API 憑證「完全保存在您自己的基礎設施中」，也就是您租用的那台伺服器裡。在代管方案上，頁面說金鑰保存在您的代管實例中。這是 Hostinger 的說法，不是我們做的稽核。",
-          "**程式碼安全。** 儲存庫要求透過 GitHub 的 Security Advisory 功能回報漏洞，而不是公開的 issue。這次閱讀中，我們沒有查證受支援的版本、獨立稽核或已發布的安全公告。",
-          "**無法斷言的部分。** 就本指南而言，沒有經過查證的公開安全稽核，也沒有獨立評測，更沒有第三方對該產品的評分。GitHub 的 star 數量代表受歡迎程度，不代表安全。無論用哪種軟體，能存取您的信箱、銀行或其他帳號的代理都值得格外小心。關於代管服務商本身，請看[Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+          "**金鑰和資料放在哪裡。** 取決於方式。在 VPS 上，Hostinger 自己表示敏感資料、代理記憶和 API 憑證「完全保存在您自己的基礎設施中」，也就是您租用的那台伺服器裡。在代管方案上，頁面說金鑰保存在您的代管實例中。這是 Hostinger 的說法，不是獨立稽核。",
+          "**程式碼安全。** 儲存庫要求透過 GitHub 的 Security Advisory 功能回報漏洞，而不是公開的 issue。本指南所用的資料中，沒有受支援的版本、獨立稽核或已發布的安全公告。",
+          "**無法斷言的部分。** 就本指南的資料而言，沒有公開的安全稽核，也沒有獨立評測，更沒有第三方對該產品的評分。GitHub 的 star 數量代表受歡迎程度，不代表安全。無論用哪種軟體，能存取您的信箱、銀行或其他帳號的代理都值得格外小心。關於代管服務商本身，請看[Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
         ]
       },
       {
@@ -117892,7 +117892,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "VPS 選多大",
         "postParagraphs": [
-          "RAM 是伺服器的記憶體，vCPU 是一個處理器核心。VPS 方案越大，記憶體和處理能力越多。在已查閱的頁面中，Hostinger 沒有列出 Paperclip 的最低記憶體需求：KVM 1 是起點，夠不夠用取決於您執行多少個代理。各方案規格如下：KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）。"
+          "RAM 是伺服器的記憶體，vCPU 是一個處理器核心。VPS 方案越大，記憶體和處理能力越多。Hostinger 的頁面沒有列出 Paperclip 的最低記憶體需求：KVM 1 是起點，夠不夠用取決於您執行多少個代理。各方案規格如下：KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）。"
         ]
       },
       {
@@ -117919,7 +117919,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "Paperclip 免費嗎？ 程式採用 MIT 開源授權，可以不購買 Hostinger 而安裝在自己的電腦上。代管方案與 VPS 需付費；模型使用您自己的 API 帳號或相容訂閱，受供應商的費用和限制約束。",
-          "Paperclip 可靠嗎？ 無法下定論。可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。在所查閱的資料中，我們沒有找到獨立稽核。",
+          "Paperclip 可靠嗎？ 無法下定論。可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。本指南的資料中沒有獨立稽核。",
           "需要 API 金鑰嗎？ 大多數情況下需要。代管方案可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱；VPS 則要求您自備金鑰。在電腦上執行時，README 也支援 Claude 或 Codex 的訂閱，不需要 API 金鑰。",
           "能搭配 Ollama 使用嗎？ 取決於您連接的代理。Paperclip 的 README 沒有提到 Ollama，這是一個在自己電腦上執行 AI 模型的程式。例如 OpenClaw 記錄了本機模型的用法；而在 Paperclip 中，模型取決於您連接的代理。",
           "Hostinger 上有適用於 Paperclip 的優惠碼嗎？ 有：在購物車的優惠碼欄輸入代碼 SONAR20，首個週期可減 20%。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
@@ -117929,7 +117929,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "作者",
         "paragraphs": [
-          "Em Casa com Cecília 執行在 Hostinger 上，是一個 Node.js Web App，Bruno 自 2024 年起就是客戶，使用主機代管和一台 VPS KVM 2。團隊裡沒有人使用 Paperclip：本文彙整的是官方儲存庫和 Hostinger 的說法，閱讀時間為 2026 年 10 月 21 日。"
+          "Em Casa com Cecília 執行在 Hostinger 上，是一個 Node.js Web App，Bruno 自 2024 年起就是客戶，使用主機代管和一台 VPS KVM 2。團隊裡沒有人使用 Paperclip：本文彙整的是官方儲存庫和 Hostinger 的說法。"
         ]
       }
     ],
@@ -118045,9 +118045,9 @@ export const reviewsData: unknown[] = [
           "**Quem mantém.** O repositório oficial, github.com/paperclipai/paperclip, diz que o projeto é mantido pela equipe Paperclip, e o aviso de copyright diz “MIT © 2026 Paperclip Labs, Inc.”. O site do projeto, paperclip.ing, aponta para o mesmo repositório. Não confunda com forks e cópias do código que aparecem na busca.",
           "**Licença.** MIT. Quer dizer que o código é aberto: qualquer pessoa pode ler, auditar e usar. Também quer dizer que ninguém é obrigado a manter a versão que você instalou.",
           "**Onde roda.** Você escolhe. Pode rodar no seu computador, num servidor próprio ou no plano gerenciado da Hostinger. O site do projeto diz que a versão auto-hospedada não exige conta no Paperclip.",
-          "**Onde ficam as chaves e os dados.** Depende do caminho. Na VPS, a própria Hostinger diz que dados sensíveis, memória dos agentes e credenciais de API ficam “inteiramente em sua infraestrutura”, ou seja, no servidor que você alugou. No gerenciado, a página diz que as chaves ficam na sua instância gerenciada. Isso é a descrição da Hostinger, não uma auditoria nossa.",
-          "**Segurança do código.** O repositório pede que vulnerabilidades sejam reportadas pelo recurso de Security Advisory do GitHub, e não em issues públicas. Nesta leitura, não verificamos versões suportadas, auditoria independente nem advisories publicados.",
-          "**O que não dá para afirmar.** Não há auditoria de segurança pública verificada para este guia. Também não há revisão independente nem nota de terceiros, como o Reclame Aqui, para o produto. O número de estrelas no GitHub mostra popularidade, não segurança. Um agente com acesso ao seu e-mail, ao banco ou a outras contas merece cuidado extra, seja qual for o software. Sobre a empresa que hospeda, veja [se a Hostinger é confiável](/reviews/hostinger-e-confiavel)."
+          "**Onde ficam as chaves e os dados.** Depende do caminho. Na VPS, a própria Hostinger diz que dados sensíveis, memória dos agentes e credenciais de API ficam “inteiramente em sua infraestrutura”, ou seja, no servidor que você alugou. No gerenciado, a página diz que as chaves ficam na sua instância gerenciada. Isso é a descrição da Hostinger, não uma auditoria independente.",
+          "**Segurança do código.** O repositório pede que vulnerabilidades sejam reportadas pelo recurso de Security Advisory do GitHub, e não em issues públicas. Nas fontes do guia, não aparecem versões suportadas, auditoria independente nem advisories publicados.",
+          "**O que não dá para afirmar.** Não há auditoria de segurança pública nas fontes deste guia. Também não há revisão independente nem nota de terceiros, como o Reclame Aqui, para o produto. O número de estrelas no GitHub mostra popularidade, não segurança. Um agente com acesso ao seu e-mail, ao banco ou a outras contas merece cuidado extra, seja qual for o software. Sobre a empresa que hospeda, veja [se a Hostinger é confiável](/reviews/hostinger-e-confiavel)."
         ]
       },
       {
@@ -118162,7 +118162,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "RAM é a memória do servidor, e vCPU é um núcleo de processador. Quanto maior o plano de VPS, mais memória e processamento ele tem. A Hostinger não lista, nas páginas lidas, um requisito mínimo de memória para o Paperclip: o KVM 1 é o ponto de partida, e quantos agentes você roda define se ele basta.",
+          "RAM é a memória do servidor, e vCPU é um núcleo de processador. Quanto maior o plano de VPS, mais memória e processamento ele tem. A Hostinger não lista, nas páginas do produto, um requisito mínimo de memória para o Paperclip: o KVM 1 é o ponto de partida, e quantos agentes você roda define se ele basta.",
           "A Hostinger está em campanha de Black Friday, e os preços mudam. Veja [a Black Friday da Hostinger](/reviews/black-friday-hostinger) e confira o valor no carrinho antes de pagar."
         ]
       },
@@ -118190,7 +118190,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. A hospedagem gerenciada e o VPS são planos pagos; o acesso aos modelos usa suas próprias contas, por API ou assinatura compatível, com os custos e limites do provedor.",
-          "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não encontramos auditoria independente nas fontes lidas.",
+          "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não há auditoria independente nas fontes do guia.",
           "Precisa de chave de API? Na maioria dos casos, sim. No gerenciado, a Hostinger aceita a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT. No VPS, a página pede que você traga as suas chaves. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
           "Roda com Ollama? Depende do agente que você conecta. O README do Paperclip não cita o Ollama, um programa para rodar modelo de IA no próprio computador. O OpenClaw, por exemplo, documenta modelos locais; no Paperclip, o modelo fica com o agente que você conecta.",
           "Tem cupom para o Paperclip na Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
@@ -118200,7 +118200,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escreve",
         "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o Paperclip: este texto reúne o que o repositório oficial e a Hostinger dizem, lidos em 21/10/2026."
+          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o Paperclip: este texto reúne o que o repositório oficial e a Hostinger dizem."
         ]
       }
     ],
@@ -118317,9 +118317,9 @@ export const reviewsData: unknown[] = [
           "**Quién lo mantiene.** El repositorio oficial, github.com/paperclipai/paperclip, dice que el proyecto lo mantiene el equipo de Paperclip, y el aviso de copyright dice “MIT © 2026 Paperclip Labs, Inc.”. El sitio del proyecto, paperclip.ing, apunta al mismo repositorio. No lo confundas con los forks y copias del código que aparecen en la búsqueda.",
           "**Licencia.** MIT. Significa que el código es abierto: cualquiera puede leerlo, auditarlo y usarlo. También significa que nadie está obligado a mantener la versión que instalaste.",
           "**Dónde funciona.** Tú eliges. Puede funcionar en tu computadora, en un servidor propio o en el plan gestionado de Hostinger. El sitio del proyecto dice que la versión autoalojada no exige una cuenta en Paperclip.",
-          "**Dónde quedan las claves y los datos.** Depende del camino. En el VPS, la propia Hostinger dice que los datos sensibles, la memoria de los agentes y las credenciales de API quedan “totalmente en tu infraestructura”, es decir, en el servidor que alquilaste. En el gestionado, la página dice que las claves quedan en tu instancia gestionada. Esta es la descripción de Hostinger, no una auditoría nuestra.",
-          "**Seguridad del código.** El repositorio pide que las vulnerabilidades se reporten mediante la función Security Advisory de GitHub, y no en issues públicos. En esta lectura, no verificamos versiones con soporte, auditoría independiente ni advisories publicados.",
-          "**Lo que no se puede afirmar.** No hay una auditoría de seguridad pública verificada para esta guía. Tampoco hay revisión independiente ni calificación de terceros para el producto. El número de estrellas en GitHub muestra popularidad, no seguridad. Un agente con acceso a tu correo, a tu banco o a otras cuentas merece un cuidado extra, sea cual sea el software. Sobre la empresa que lo aloja, mira [si Hostinger es confiable](/es/reviews/hostinger-es-confiable)."
+          "**Dónde quedan las claves y los datos.** Depende del camino. En el VPS, la propia Hostinger dice que los datos sensibles, la memoria de los agentes y las credenciales de API quedan “totalmente en tu infraestructura”, es decir, en el servidor que alquilaste. En el gestionado, la página dice que las claves quedan en tu instancia gestionada. Esta es la descripción de Hostinger, no una auditoría independiente.",
+          "**Seguridad del código.** El repositorio pide que las vulnerabilidades se reporten mediante la función Security Advisory de GitHub, y no en issues públicos. En las fuentes de esta guía no aparecen versiones con soporte, auditoría independiente ni advisories publicados.",
+          "**Lo que no se puede afirmar.** En las fuentes de esta guía no hay una auditoría de seguridad pública. Tampoco hay revisión independiente ni calificación de terceros para el producto. El número de estrellas en GitHub muestra popularidad, no seguridad. Un agente con acceso a tu correo, a tu banco o a otras cuentas merece un cuidado extra, sea cual sea el software. Sobre la empresa que lo aloja, mira [si Hostinger es confiable](/es/reviews/hostinger-es-confiable)."
         ]
       },
       {
@@ -118391,7 +118391,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué tamaño de VPS",
         "postParagraphs": [
-          "La RAM es la memoria del servidor, y una vCPU es un núcleo de procesador. Cuanto mayor es el plan de VPS, más memoria y procesamiento tiene. Hostinger no lista, en las páginas leídas, un requisito mínimo de memoria para Paperclip: el KVM 1 es el punto de partida, y cuántos agentes ejecutes define si basta. Los planes son KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) y KVM 8 (8 vCPU, 32 GB, 400 GB)."
+          "La RAM es la memoria del servidor, y una vCPU es un núcleo de procesador. Cuanto mayor es el plan de VPS, más memoria y procesamiento tiene. Hostinger no lista, en las páginas del producto, un requisito mínimo de memoria para Paperclip: el KVM 1 es el punto de partida, y cuántos agentes ejecutes define si basta. Los planes son KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) y KVM 8 (8 vCPU, 32 GB, 400 GB)."
         ]
       },
       {
@@ -118418,7 +118418,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Paperclip es gratis? El programa es de código abierto, con licencia MIT, y puede instalarse en la computadora sin contratar Hostinger. El gestionado y el VPS son de pago; el acceso a modelos usa tus cuentas por API o suscripción compatible, con los costes y límites del proveedor.",
-          "¿Paperclip es confiable? No se puede dar un veredicto. Se puede comprobar que el código es público, que el repositorio indica al equipo de Paperclip (Paperclip Labs, Inc. en el aviso de copyright) como responsable, y que las fallas de seguridad se reportan por un canal oficial en GitHub. No encontramos auditoría independiente en las fuentes leídas.",
+          "¿Paperclip es confiable? No se puede dar un veredicto. Se puede comprobar que el código es público, que el repositorio indica al equipo de Paperclip (Paperclip Labs, Inc. en el aviso de copyright) como responsable, y que las fallas de seguridad se reportan por un canal oficial en GitHub. No hay auditoría independiente en las fuentes de esta guía.",
           "¿Necesita clave de API? En la mayoría de los casos, sí. En el gestionado, Hostinger acepta una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT. En el VPS, la página pide que traigas tus claves. En la computadora, el README también acepta la suscripción de Claude o de Codex, sin clave de API.",
           "¿Funciona con Ollama? Depende del agente que conectes. El README de Paperclip no menciona Ollama, un programa para ejecutar un modelo de IA en la propia computadora. OpenClaw, por ejemplo, documenta modelos locales; en Paperclip, el modelo queda con el agente que conectes.",
           "¿Hay cupón para Paperclip en Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
@@ -118428,7 +118428,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quién escribe",
         "paragraphs": [
-          "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa Paperclip: este texto reúne lo que dicen el repositorio oficial y Hostinger, consultados el 21 de octubre de 2026."
+          "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa Paperclip: este texto reúne lo que dicen el repositorio oficial y Hostinger."
         ]
       }
     ],
@@ -135201,7 +135201,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de comprar",
         "bullets": [
-          "**Preço muda todo dia:** o preço e o desconto de cada peça são os do dia da leitura. A SHEIN muda os preços durante a campanha, e \"a partir de\" quer dizer que o preço muda por cor ou tamanho.",
+          "**Preço muda todo dia:** o preço e o desconto de cada peça são os do dia da publicação. A SHEIN muda os preços durante a campanha, e \"a partir de\" quer dizer que o preço muda por cor ou tamanho.",
           "**Tamanho:** se você está entre dois tamanhos, confira a tabela de medidas da peça antes de escolher, porque a grade muda de peça para peça.",
           "**O 4CW5Y dá desconto, sim, mas não é cupom:** abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, sem colar no checkout. Quanto e em quais peças, a SHEIN decide. Veja o [código de indicação SHEIN](/reviews/codigo-de-indicacao-shein) e a [página da SHEIN](/cupons/shein), com o link principal da loja.",
           "**Vai esperar a Black Friday?** O guia da [Black Friday SHEIN](/reviews/black-friday-shein) traz o que já se sabe da campanha de novembro.",
@@ -135212,7 +135212,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Até quando vai a 11.11 da SHEIN? Termina no dia seguinte ao 11.11, segundo a SHEIN; a data está na resposta rápida acima.",
-          "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da leitura, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
+          "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da publicação, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
           "O 4CW5Y é cupom? Não, mas dá desconto, sim. É o código de indicação da SHEIN: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site para chegar a uma seleção com promoções e descontos; ele não se cola no checkout.",
           "Os links levam direto à peça? Sim. A foto e o card de cada peça abrem a página dela dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
         ]
@@ -135371,7 +135371,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "Discounts read on October 28, 2026, on each piece's page."
+          "Discounts as of October 28, 2026, on each piece's page."
         ]
       },
       {
@@ -136065,7 +136065,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Before you buy",
         "bullets": [
-          "**The discount changes every day:** each piece's discount is the one from the day it was checked, and SHEIN changes the offers during the campaign.",
+          "**The discount changes every day:** each piece's discount is the one from the day of publication, and SHEIN changes the offers during the campaign.",
           "**Size:** if you are between two sizes, check the piece's size chart before choosing, because the sizing changes from piece to piece.",
           "**4CW5Y does give you a discount, but it is not a coupon:** open SHEIN through Cecília's link and search the code in the app or on the site, and do not paste it at checkout. SHEIN decides how much and on which pieces. See the [SHEIN referral code](/en/reviews/shein-referral-code-where-to-enter) and the [SHEIN page](/en/coupons/shein), with the store's main link.",
           "**Waiting for Black Friday?** The [SHEIN Black Friday](/en/reviews/shein-black-friday-dates-taxes) guide covers what is already known about the November campaign.",
@@ -136076,7 +136076,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Until when does SHEIN 11.11 run? It ends the day after 11.11, according to SHEIN; the date is in the quick answer above.",
-          "Can the discount on the pieces change? Yes. The discounts in this guide are the ones from the day they were checked, and SHEIN changes the offers during the campaign.",
+          "Can the discount on the pieces change? Yes. The discounts in this guide are the ones from the day of publication, and SHEIN changes the offers during the campaign.",
           "Is 4CW5Y a coupon? No, but it does give you a discount. It is SHEIN's referral code: open SHEIN through Cecília's link and search the code in the app or on the site to reach a selection with promotions and discounts; it is not pasted at checkout.",
           "Do the links go straight to the piece? Yes. The photo and the card of each piece open its page inside the 11.11 campaign, and the campaign link opens the Global Sale Selections page."
         ]
@@ -136235,7 +136235,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "Descuentos leídos el 28/10/2026, en la página de cada prenda."
+          "Descuentos del 28/10/2026, en la página de cada prenda."
         ]
       },
       {
@@ -136929,7 +136929,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de comprar",
         "bullets": [
-          "**El descuento cambia todos los días:** el descuento de cada prenda es el del día de la lectura, y SHEIN cambia las ofertas durante la campaña.",
+          "**El descuento cambia todos los días:** el descuento de cada prenda es el del día de la publicación, y SHEIN cambia las ofertas durante la campaña.",
           "**Talla:** si estás entre dos tallas, mira la tabla de medidas de la prenda antes de elegir, porque la talla cambia de una prenda a otra.",
           "**El 4CW5Y sí da descuento, pero no es un cupón:** abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, sin pegarlo en el checkout. Cuánto y en qué prendas lo decide SHEIN. Mira el [código de referido de SHEIN](/es/reviews/codigo-de-referido-shein-donde-ponerlo) y la [página de SHEIN](/es/coupons/shein), con el enlace principal de la tienda.",
           "**¿Vas a esperar al Black Friday?** La guía del [Black Friday de SHEIN](/es/reviews/black-friday-shein-fechas-impuestos) recoge lo que ya se sabe de la campaña de noviembre.",
@@ -136940,7 +136940,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Hasta cuándo va el 11.11 de SHEIN? Termina el día siguiente al 11.11, según SHEIN; la fecha está en la respuesta rápida de arriba.",
-          "¿Puede cambiar el descuento de las prendas? Sí. Los descuentos de esta guía son los del día de la lectura, y SHEIN cambia las ofertas durante la campaña.",
+          "¿Puede cambiar el descuento de las prendas? Sí. Los descuentos de esta guía son los del día de la publicación, y SHEIN cambia las ofertas durante la campaña.",
           "¿El 4CW5Y es un cupón? No, pero sí da descuento. Es el código de referido de SHEIN: abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio para llegar a una selección con promociones y descuentos; no se pega en el checkout.",
           "¿Los enlaces llevan directo a la prenda? Sí. La foto y la tarjeta de cada prenda abren su página dentro de la campaña 11.11, y el enlace de la campaña abre la página de Selecciones de Ventas Globales."
         ]
@@ -137099,7 +137099,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "Remises relevées le 28/10/2026, sur la page de chaque pièce."
+          "Remises du 28/10/2026, sur la page de chaque pièce."
         ]
       },
       {
@@ -137793,7 +137793,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avant d'acheter",
         "bullets": [
-          "**La remise change tous les jours :** la remise de chaque pièce est celle du jour du relevé, et SHEIN change les offres pendant la campagne.",
+          "**La remise change tous les jours :** la remise de chaque pièce est celle du jour de la publication, et SHEIN change les offres pendant la campagne.",
           "**Taille :** si vous hésitez entre deux tailles, regardez le guide des tailles de la pièce avant de choisir, parce que les tailles changent d'une pièce à l'autre.",
           "**Le 4CW5Y donne bien une remise, mais ce n'est pas un coupon :** ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site, sans le coller au paiement. SHEIN décide du montant et des pièces concernées. Voir le [code de parrainage SHEIN](/fr/reviews/code-de-parrainage-shein-ou-le-mettre) et la [page SHEIN](/fr/coupons/shein), avec le lien principal de la boutique.",
           "**Vous allez attendre le Black Friday ?** Le guide du [Black Friday SHEIN](/fr/reviews/black-friday-shein-dates-et-taxes) rassemble ce que l'on sait déjà de la campagne de novembre.",
@@ -137804,7 +137804,7 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Jusqu'à quand va le 11.11 de SHEIN ? Il se termine le lendemain du 11.11, d'après SHEIN ; la date est dans la réponse rapide ci-dessus.",
-          "La remise sur les pièces peut-elle changer ? Oui. Les remises de ce guide sont celles du jour du relevé, et SHEIN change les offres pendant la campagne.",
+          "La remise sur les pièces peut-elle changer ? Oui. Les remises de ce guide sont celles du jour de la publication, et SHEIN change les offres pendant la campagne.",
           "Le 4CW5Y est-il un coupon ? Non, mais il donne bien une remise. C'est le code de parrainage de SHEIN : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site pour arriver sur une sélection avec promotions et remises ; on ne le colle pas au paiement.",
           "Les liens mènent-ils directement à la pièce ? Oui. La photo et la carte de chaque pièce ouvrent sa page dans la campagne 11.11, et le lien de la campagne ouvre la page des Sélections des ventes mondiales."
         ]
@@ -137963,7 +137963,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "Sconti letti il 28/10/2026, nella scheda di ciascun articolo."
+          "Sconti del 28/10/2026, nella scheda di ciascun articolo."
         ]
       },
       {
@@ -138657,7 +138657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prima di comprare",
         "bullets": [
-          "**Lo sconto cambia ogni giorno:** lo sconto di ogni articolo è quello del giorno della lettura, e SHEIN cambia le offerte durante la campagna.",
+          "**Lo sconto cambia ogni giorno:** lo sconto di ogni articolo è quello del giorno della pubblicazione, e SHEIN cambia le offerte durante la campagna.",
           "**Taglia:** se sei tra due taglie, controlla la tabella delle misure dell'articolo prima di scegliere, perché la vestibilità cambia da capo a capo.",
           "**Il 4CW5Y dà sconto, sì, ma non è un coupon:** apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito, senza incollarlo al checkout. Quanto e su quali articoli lo decide SHEIN. Vedi il [codice invito SHEIN](/it/reviews/codice-invito-shein-dove-inserirlo) e la [pagina di SHEIN](/it/coupons/shein), con il link principale del negozio.",
           "**Aspetti il Black Friday?** La guida al [Black Friday SHEIN](/it/reviews/black-friday-shein-date-e-tasse) raccoglie quello che già si sa della campagna di novembre.",
@@ -138668,7 +138668,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Fino a quando dura l'11.11 di SHEIN? Termina il giorno dopo l'11.11, secondo SHEIN; la data è nella risposta rapida qui sopra.",
-          "Lo sconto degli articoli può cambiare? Sì: gli sconti sono quelli del giorno della lettura e SHEIN cambia le offerte durante la campagna.",
+          "Lo sconto degli articoli può cambiare? Sì: gli sconti sono quelli del giorno della pubblicazione e SHEIN cambia le offerte durante la campagna.",
           "Il 4CW5Y è un coupon? No, ma dà sconto, sì. È il codice invito di SHEIN: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito per arrivare a una selezione con promozioni e sconti; non si incolla al checkout.",
           "I link portano direttamente all'articolo? Sì. La foto e la scheda di ogni articolo aprono la sua pagina dentro la campagna 11.11, e il link della campagna apre la pagina delle Selezioni di Vendita Globali."
         ]
@@ -139521,7 +139521,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vor dem Kauf",
         "bullets": [
-          "**Der Rabatt ändert sich täglich:** Der Rabatt jedes Teils ist der vom Tag des Ablesens, und SHEIN ändert die Angebote während der Aktion.",
+          "**Der Rabatt ändert sich täglich:** Der Rabatt jedes Teils ist der vom Tag der Veröffentlichung, und SHEIN ändert die Angebote während der Aktion.",
           "**Größe:** Wenn Sie zwischen zwei Größen liegen, prüfen Sie die Maßtabelle des Teils, bevor Sie wählen, denn die Größen fallen von Teil zu Teil anders aus.",
           "**4CW5Y gibt Rabatt, ist aber kein Gutschein:** Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, nicht an der Kasse. Wie viel und bei welchen Teilen, entscheidet SHEIN. Siehe den [SHEIN-Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben) und die [SHEIN-Seite](/de/coupons/shein) mit dem Hauptlink des Shops.",
           "**Warten Sie auf den Black Friday?** Der Ratgeber zum [Black Friday bei SHEIN](/de/reviews/shein-black-friday-termine-steuern) fasst zusammen, was über die November-Aktion schon bekannt ist.",
@@ -139532,7 +139532,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Bis wann läuft der 11.11 von SHEIN? Er endet am Tag nach dem 11.11, laut SHEIN; das Datum steht oben in der kurzen Antwort.",
-          "Kann sich der Rabatt der Teile ändern? Ja: Die Rabatte sind die vom Tag des Ablesens, und SHEIN ändert die Angebote während der Aktion.",
+          "Kann sich der Rabatt der Teile ändern? Ja: Die Rabatte sind die vom Tag der Veröffentlichung, und SHEIN ändert die Angebote während der Aktion.",
           "Ist 4CW5Y ein Gutschein? Nein, aber er gibt Rabatt. Es ist der Empfehlungscode von SHEIN: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, um zu einer Auswahl mit Aktionen und Rabatten zu gelangen; an der Kasse wird er nicht eingegeben.",
           "Führen die Links direkt zum Teil? Ja. Foto und Karte jedes Teils öffnen seine Produktseite innerhalb der Aktion 11.11, und der Link der Aktion öffnet die Seite der globalen Sale-Auswahl."
         ]
@@ -139561,7 +139561,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN の11.11メガセール（2026年11月12日まで）でのCecíliaのセレクション。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選び、それぞれに割引、評価、キャンペーン内の商品ページへの直リンクつきです。割引は2026年10月28日に確認したものです。",
+    "description": "SHEIN の11.11メガセール（2026年11月12日まで）でのCecíliaのセレクション。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選び、それぞれに割引、評価、キャンペーン内の商品ページへの直リンクつきです。割引は2026年10月28日時点のものです。",
     "metaDescription": "SHEIN 11.11（2026年11月12日まで）：パジャマからメンズシャツまで、Cecíliaが選んだ19アイテム。アイテムごとの割引と評価つき。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11セレクションのアイテムのコラージュ：花柄パジャマ、キッズのセットアップ、カーディガン、パンプス、メンズシャツ、SHEIN のロゴ",
@@ -139691,7 +139691,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "割引は、2026年10月28日に各アイテムの商品ページで確認したものです。"
+          "割引は、2026年10月28日時点の各アイテムの商品ページの情報です。"
         ]
       },
       {
@@ -140385,7 +140385,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "買う前に",
         "bullets": [
-          "**割引は毎日変わります：** 各アイテムの割引は、確認した日のものです。SHEIN はキャンペーン中にセールの内容を変えます。",
+          "**割引は毎日変わります：** 各アイテムの割引は、公開日のものです。SHEIN はキャンペーン中にセールの内容を変えます。",
           "**サイズ：** 2つのサイズで迷っている場合は、選ぶ前に商品ページのサイズ表を確認してください。サイズ感はアイテムごとに違います。",
           "**4CW5Y は割引が受けられる紹介コードで、クーポンではありません：** Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索してください。チェックアウトには貼り付けません。割引額と対象アイテムは SHEIN が決めます。[SHEIN の紹介コード](/ja/reviews/shein-referral-code-ja) と、ショップのメインリンクを載せた [SHEIN のページ](/ja/coupons/shein) をご覧ください。",
           "**ブラックフライデーまで待ちますか？** [SHEIN のブラックフライデー](/ja/reviews/shein-black-friday-ja) のガイドに、11月のキャンペーンについて、これまでにわかっていることをまとめています。",
@@ -140396,7 +140396,7 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "SHEIN の11.11はいつまでですか？ SHEIN によると、11.11の翌日に終わります。日付は上の「まずは結論」にあります。",
-          "アイテムの割引は変わりますか？ はい。このガイドの割引は確認した日のもので、SHEIN はキャンペーン中にセールの内容を変えます。",
+          "アイテムの割引は変わりますか？ はい。このガイドの割引は公開日のもので、SHEIN はキャンペーン中にセールの内容を変えます。",
           "4CW5Y はクーポンですか？ いいえ、ただし割引は受けられます。SHEIN の紹介コードで、Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索するとプロモーションと割引のセレクションに進めます。チェックアウトには貼り付けません。",
           "リンクは商品に直接飛びますか？ はい。各アイテムの写真とカードは11.11キャンペーン内のその商品ページを開き、キャンペーンのリンクはグローバルセール セレクションのページを開きます。"
         ]
@@ -140425,7 +140425,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN 11.11 메가 세일(2026년 11월 12일까지)에서 Cecília가 고른 셀렉션입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지이며, 상품마다 할인율, 평점, 캠페인 안의 상품 페이지로 바로 가는 링크가 있습니다. 할인율은 2026년 10월 28일에 확인한 것입니다.",
+    "description": "SHEIN 11.11 메가 세일(2026년 11월 12일까지)에서 Cecília가 고른 셀렉션입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지이며, 상품마다 할인율, 평점, 캠페인 안의 상품 페이지로 바로 가는 링크가 있습니다. 할인율은 2026년 10월 28일 기준입니다.",
     "metaDescription": "SHEIN 11.11(2026년 11월 12일까지): 잠옷부터 남성 셔츠까지 Cecília가 고른 19가지. 상품마다 할인율과 평점이 있습니다.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 셀렉션 상품 콜라주: 꽃무늬 잠옷, 아동 세트, 가디건, 펌프스, 남성 셔츠와 SHEIN 로고",
@@ -140555,7 +140555,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "할인율은 2026년 10월 28일에 각 상품 페이지에서 확인한 것입니다."
+          "할인율은 2026년 10월 28일 기준 각 상품 페이지의 정보입니다."
         ]
       },
       {
@@ -141249,7 +141249,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "구매 전에 확인할 것",
         "bullets": [
-          "**할인율은 매일 바뀝니다:** 각 상품의 할인율은 확인한 날 기준입니다. SHEIN은 캠페인 중에 세일 내용을 바꿉니다.",
+          "**할인율은 매일 바뀝니다:** 각 상품의 할인율은 게시일 기준입니다. SHEIN은 캠페인 중에 세일 내용을 바꿉니다.",
           "**사이즈:** 두 사이즈 사이에서 고민된다면, 고르기 전에 상품 페이지의 사이즈표를 확인하세요. 사이즈 구성은 상품마다 다릅니다.",
           "**4CW5Y는 할인을 받을 수 있는 추천 코드이며 쿠폰은 아닙니다:** Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요. 결제 화면에는 붙여 넣지 않습니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. [SHEIN 추천 코드](/ko/reviews/shein-referral-code-ko)와 스토어의 대표 링크가 있는 [SHEIN 페이지](/ko/coupons/shein)를 보세요.",
           "**블랙 프라이데이를 기다리시나요?** [SHEIN 블랙 프라이데이](/ko/reviews/shein-black-friday-ko) 가이드에 11월 캠페인에 대해 지금까지 알려진 내용을 정리했습니다.",
@@ -141260,7 +141260,7 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "SHEIN 11.11은 언제까지인가요? SHEIN에 따르면 11.11 다음 날 끝납니다. 날짜는 위의 답변 요약에 있습니다.",
-          "상품 할인율이 바뀔 수 있나요? 네. 이 가이드의 할인율은 확인한 날 기준이고, SHEIN은 캠페인 중에 세일 내용을 바꿉니다.",
+          "상품 할인율이 바뀔 수 있나요? 네. 이 가이드의 할인율은 게시일 기준이고, SHEIN은 캠페인 중에 세일 내용을 바꿉니다.",
           "4CW5Y는 쿠폰인가요? 아니요, 하지만 할인은 받을 수 있습니다. SHEIN의 추천 코드로, Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인이 있는 셀렉션으로 이동하며 결제 화면에는 붙여 넣지 않습니다.",
           "링크를 누르면 바로 그 상품으로 가나요? 네. 각 상품의 사진과 카드는 11.11 캠페인 안에서 그 상품의 페이지를 열고, 캠페인 링크는 글로벌 세일 셀렉션 페이지를 엽니다."
         ]
@@ -141289,7 +141289,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília 在 SHEIN 11.11 大促（到 2026年11月12日）中的精选：19 件，分 5 组（睡衣、童装、女装、配饰、男装），每件都附当天折扣、评分，以及直达活动中该商品的链接。折扣读取于 2026年10月28日。",
+    "description": "Cecília 在 SHEIN 11.11 大促（到 2026年11月12日）中的精选：19 件，分 5 组（睡衣、童装、女装、配饰、男装），每件都附当天折扣、评分，以及直达活动中该商品的链接。折扣截至 2026年10月28日。",
     "metaDescription": "SHEIN 11.11 到 2026年11月12日：Cecília 挑的 19 件，从睡衣到男士衬衫，每件都附折扣和评分。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 精选拼图：碎花睡衣、儿童套装、开衫、高跟鞋和男士衬衫，带 SHEIN 标志",
@@ -141419,7 +141419,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "折扣读取于 2026年10月28日，来自每件商品的页面。"
+          "折扣截至 2026年10月28日，来自每件商品的页面。"
         ]
       },
       {
@@ -142113,7 +142113,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "下单前",
         "bullets": [
-          "**折扣天天变：**每件的折扣都是读取当天的。SHEIN 在活动期间会调整优惠。",
+          "**折扣天天变：**每件的折扣都是发布当天的。SHEIN 在活动期间会调整优惠。",
           "**尺码：**如果你在两个码之间犹豫，选之前先看商品页的尺码表，因为每件的尺码都不一样。",
           "**4CW5Y 是推荐码，确实有折扣，但不是优惠券：**通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，不粘贴到结算页。折扣多少、哪些商品，由 SHEIN 决定。见[SHEIN 推荐码](/zh-hans/reviews/shein-referral-code-zh-hans)和带商店主链接的[SHEIN 店铺页面](/zh-hans/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hans/reviews/shein-black-friday-zh-hans)指南整理了 11 月活动目前已知的信息。",
@@ -142124,7 +142124,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "SHEIN 11.11 到什么时候？据 SHEIN 称，到 11.11 的次日结束；日期见上面的快速回答。",
-          "这些商品的折扣会变吗？会。本文的折扣是读取当天的，SHEIN 在活动期间会调整优惠。",
+          "这些商品的折扣会变吗？会。本文的折扣是发布当天的，SHEIN 在活动期间会调整优惠。",
           "4CW5Y 是优惠券吗？不是，但确实有折扣。它是 SHEIN 的推荐码：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索，就能进入带促销和折扣的精选，不粘贴到结算页。",
           "链接直接到商品吗？是。每件商品的图片和卡片都在 11.11 活动里打开该商品的页面，活动链接打开的是全球热卖精选页面。"
         ]
@@ -142153,7 +142153,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília 在 SHEIN 11.11 大促（到 2026年11月12日）中的精選：19 件，分 5 組（睡衣、童裝、女裝、配件、男裝），每件都附當天折扣、評分，以及直達活動中該商品的連結。折扣查看於 2026年10月28日。",
+    "description": "Cecília 在 SHEIN 11.11 大促（到 2026年11月12日）中的精選：19 件，分 5 組（睡衣、童裝、女裝、配件、男裝），每件都附當天折扣、評分，以及直達活動中該商品的連結。折扣截至 2026年10月28日。",
     "metaDescription": "SHEIN 11.11 到 2026年11月12日：Cecília 挑的 19 件，從睡衣到男士襯衫，每件都附折扣和評分。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 精選拼圖：碎花睡衣、兒童套裝、開襟衫、高跟鞋和男士襯衫，附 SHEIN 標誌",
@@ -142283,7 +142283,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "折扣查看於 2026年10月28日，來自每件商品的頁面。"
+          "折扣截至 2026年10月28日，來自每件商品的頁面。"
         ]
       },
       {
@@ -142977,7 +142977,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "下單前",
         "bullets": [
-          "**折扣天天變：**每件的折扣都是查看當天的。SHEIN 在活動期間會調整優惠。",
+          "**折扣天天變：**每件的折扣都是發布當天的。SHEIN 在活動期間會調整優惠。",
           "**尺寸：**如果你在兩個尺寸之間猶豫，選之前先看商品頁的尺寸表，因為每件的尺寸都不一樣。",
           "**4CW5Y 是推薦碼，確實有折扣，但不是優惠券：**透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，不貼到結帳頁。折扣多少、哪些商品，由 SHEIN 決定。見[SHEIN 推薦碼](/zh-hant/reviews/shein-referral-code-zh-hant)和附商店主連結的[SHEIN 商店頁面](/zh-hant/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hant/reviews/shein-black-friday-zh-hant)指南整理了 11 月活動目前已知的資訊。",
@@ -142988,7 +142988,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "SHEIN 11.11 到什麼時候？據 SHEIN 表示，到 11.11 的隔天結束；日期見上面的快速回答。",
-          "這些商品的折扣會變嗎？會。本文的折扣是查看當天的，SHEIN 在活動期間會調整優惠。",
+          "這些商品的折扣會變嗎？會。本文的折扣是發布當天的，SHEIN 在活動期間會調整優惠。",
           "4CW5Y 是優惠券嗎？不是，但確實有折扣。它是 SHEIN 的推薦碼：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋，就能進入帶促銷和折扣的精選，不貼到結帳頁。",
           "連結直接到商品嗎？是。每件商品的圖片和卡片都在 11.11 活動裡開啟該商品的頁面，活動連結開啟的是全球熱銷精選頁面。"
         ]
@@ -144601,7 +144601,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e renovação",
         "paragraphs": [
-          "O Criador com IA não tem plano próprio: ele vem nos planos de hospedagem de sites, de 48 meses, pagos de uma vez ou em até 12 parcelas. Os preços abaixo são da página brasileira, lidos em novembro, na campanha de Black Friday. A coluna \"com o SONAR20\" é o preço com os 20% do cupom:"
+          "O Criador com IA não tem plano próprio: ele vem nos planos de hospedagem de sites, de 48 meses, pagos de uma vez ou em até 12 parcelas. Os preços abaixo são da página brasileira, de novembro, na campanha de Black Friday. A coluna \"com o SONAR20\" é o preço com os 20% do cupom:"
         ],
         "comparisonTable": {
           "headers": [
@@ -147213,7 +147213,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa na Hostinger",
         "paragraphs": [
-          "Preços da página de registro de domínio da Hostinger (Brasil), lidos em 28/10/2026, em campanha de Black Friday. O preço baixo do primeiro ano vale com prazo de 3 anos; a renovação é por ano, a partir do fim do prazo pago."
+          "Preços da página de registro de domínio da Hostinger (Brasil), em 28/10/2026, em campanha de Black Friday. O preço baixo do primeiro ano vale com prazo de 3 anos; a renovação é por ano, a partir do fim do prazo pago."
         ],
         "comparisonTable": {
           "headers": [
@@ -147250,7 +147250,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A leitura é esta: o .com.br renova pelo mesmo valor do primeiro ano cheio, R$ 64,99. O .com também, R$ 94,99. Já as extensões de R$ 5,99 renovam a mais de R$ 190 por ano: o preço de entrada não diz nada sobre o que você vai pagar no segundo ano. Olhe sempre a coluna da renovação.",
+          "O resumo é este: o .com.br renova pelo mesmo valor do primeiro ano cheio, R$ 64,99. O .com também, R$ 94,99. Já as extensões de R$ 5,99 renovam a mais de R$ 190 por ano: o preço de entrada não diz nada sobre o que você vai pagar no segundo ano. Olhe sempre a coluna da renovação.",
           "No .com.br com prazo de 3 anos, o R$ 1 é só do primeiro ano; a página não mostra o total dos três anos fora do carrinho, então confira o valor antes de pagar. Para comparar, o Registro.br, que administra os domínios .br, anuncia o registro a R$ 40 por ano: comprar lá é o caminho \"fora e apontar\" da tabela acima.",
           "A privacidade dos dados de contato (RDAP, o antigo WHOIS) vem incluída nas extensões compatíveis. O .com.br é a extensão do Brasil; fora do país, cada registrador tem a sua, e o preço muda com a moeda."
         ]
@@ -149437,7 +149437,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os planos de VPS: KVM 1 a 8",
         "paragraphs": [
-          "Os quatro planos KVM mudam só no tamanho. Specs lidas na página de VPS da Hostinger em 28/10/2026; preço mensal de plano de 24 meses, com os 20% do SONAR20, e a renovação ao lado."
+          "Os quatro planos KVM mudam só no tamanho. Specs da página de VPS da Hostinger em 28/10/2026; preço mensal de plano de 24 meses, com os 20% do SONAR20, e a renovação ao lado."
         ],
         "comparisonTable": {
           "headers": [
@@ -149508,7 +149508,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e renovação: a conta de verdade",
         "paragraphs": [
-          "A hospedagem compartilhada vende em plano de 48 meses; o VPS, em 24 meses. Os dois cobram o período inteiro de uma vez. Preços lidos em 28/10/2026, com os 20% do SONAR20, e a renovação ao lado:"
+          "A hospedagem compartilhada vende em plano de 48 meses; o VPS, em 24 meses. Os dois cobram o período inteiro de uma vez. Preços de 28/10/2026, com os 20% do SONAR20, e a renovação ao lado:"
         ],
         "comparisonTable": {
           "headers": [
@@ -149749,7 +149749,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "The VPS plans: KVM 1 to 8",
         "paragraphs": [
-          "The four KVM plans differ only in size. Specs read on Hostinger's VPS page on October 28, 2026."
+          "The four KVM plans differ only in size. Specs from Hostinger's VPS page as of October 28, 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -149993,7 +149993,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Los planes de VPS: KVM 1 a 8",
         "paragraphs": [
-          "Los cuatro planes KVM cambian solo de tamaño. Specs leídas en la página de VPS de Hostinger el 28 de octubre de 2026."
+          "Los cuatro planes KVM cambian solo de tamaño. Specs de la página de VPS de Hostinger del 28 de octubre de 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -150237,7 +150237,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Les forfaits VPS : KVM 1 à 8",
         "paragraphs": [
-          "Les quatre forfaits KVM ne changent que de taille. Specs lues sur la page VPS de Hostinger le 28 octobre 2026."
+          "Les quatre forfaits KVM ne changent que de taille. Specs de la page VPS de Hostinger au 28 octobre 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -150481,7 +150481,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "I piani VPS: da KVM 1 a 8",
         "paragraphs": [
-          "I quattro piani KVM cambiano solo di dimensione. Specifiche lette sulla pagina VPS di Hostinger il 28 ottobre 2026."
+          "I quattro piani KVM cambiano solo di dimensione. Specifiche dalla pagina VPS di Hostinger del 28 ottobre 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -150725,7 +150725,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die VPS-Tarife: KVM 1 bis 8",
         "paragraphs": [
-          "Die vier KVM-Tarife unterscheiden sich nur in der Größe. Specs auf der VPS-Seite von Hostinger am 28. Oktober 2026 gelesen."
+          "Die vier KVM-Tarife unterscheiden sich nur in der Größe. Specs von der VPS-Seite von Hostinger, Stand 28. Oktober 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -150969,7 +150969,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "VPS のプラン：KVM 1〜8",
         "paragraphs": [
-          "KVM の 4 プランは、サイズが違うだけです。スペックは 2026年10月28日に Hostinger の VPS ページで確認したものです。"
+          "KVM の 4 プランは、サイズが違うだけです。スペックは 2026年10月28日時点の Hostinger の VPS ページのものです。"
         ],
         "comparisonTable": {
           "headers": [
@@ -151213,7 +151213,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "VPS 플랜: KVM 1~8",
         "paragraphs": [
-          "KVM 4개 플랜은 크기만 다릅니다. 사양은 2026년 10월 28일에 호스팅어 VPS 페이지에서 확인한 내용입니다."
+          "KVM 4개 플랜은 크기만 다릅니다. 사양은 2026년 10월 28일 기준 호스팅어 VPS 페이지의 내용입니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -151457,7 +151457,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "VPS 套餐：KVM 1 至 8",
         "paragraphs": [
-          "四个 KVM 套餐只有规格大小不同。配置参数读自 2026 年 10 月 28 日的 Hostinger VPS 页面。"
+          "四个 KVM 套餐只有规格大小不同。配置参数取自 2026 年 10 月 28 日的 Hostinger VPS 页面。"
         ],
         "comparisonTable": {
           "headers": [
@@ -151701,7 +151701,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "VPS 方案：KVM 1 至 8",
         "paragraphs": [
-          "四個 KVM 方案只有規格大小不同。規格參數讀自 2026 年 10 月 28 日的 Hostinger VPS 頁面。"
+          "四個 KVM 方案只有規格大小不同。規格參數取自 2026 年 10 月 28 日的 Hostinger VPS 頁面。"
         ],
         "comparisonTable": {
           "headers": [
@@ -151866,7 +151866,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a nota mede",
         "paragraphs": [
           "O TrustScore é a nota do perfil na Trustpilot. A YesStyle tinha 4,4, com o rótulo \"Excellent\", em 104.909 avaliações; 11.757 delas foram publicadas nos últimos 12 meses. O perfil é reivindicado pela empresa e tem assinatura paga da Trustpilot, como a própria página informa.",
-          "A distribuição por estrela, na mesma leitura: 71% de cinco estrelas, 18% de quatro, 3% de três, 1% de duas e 7% de uma. Cinco e quatro estrelas somam a maior parte; a nota de uma estrela, com 7%, pesa mais do que as de duas e três juntas, e é nela que as queixas aparecem."
+          "A distribuição por estrela: 71% de cinco estrelas, 18% de quatro, 3% de três, 1% de duas e 7% de uma. Cinco e quatro estrelas somam a maior parte; a nota de uma estrela, com 7%, pesa mais do que as de duas e três juntas, e é nela que as queixas aparecem."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -151882,7 +151882,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem avalia, e de onde",
         "paragraphs": [
-          "O perfil lido, o de www.yesstyle.com, é global: ele não separa as avaliações por país, e a página não diz quantas vieram de Portugal ou de qualquer outro lugar. A nota junta compradores de países diferentes, com frete, prazo e alfândega diferentes.",
+          "O perfil, o de www.yesstyle.com, é global: ele não separa as avaliações por país, e a página não diz quantas vieram de Portugal ou de qualquer outro lugar. A nota junta compradores de países diferentes, com frete, prazo e alfândega diferentes.",
           "Para quem compra de Portugal, isso muda a leitura: a nota diz como a loja se comporta no conjunto, não como é a entrega no seu endereço. Esse dado está no checkout e na tabela de frete da loja, não na Trustpilot.",
           "No Reclame Aqui, a página da YesStyle não era verificada e não tinha nenhuma reclamação respondida pela empresa. Por isso, o centro deste artigo é a Trustpilot. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
         ]
@@ -151913,7 +151913,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que aparece nos elogios",
         "paragraphs": [
-          "Nas avaliações positivas, na mesma leitura, os temas são outros:"
+          "Nas avaliações positivas, os temas são outros:"
         ],
         "bullets": [
           "Preço baixo e promoções frequentes.",
@@ -151931,26 +151931,26 @@ export const reviewsData: unknown[] = [
         "heading": "O que a loja responde",
         "paragraphs": [
           "O perfil diz que a YesStyle respondeu a 98% das negativas, em geral em até 24 horas, e avisa que a resposta pode usar inteligência artificial.",
-          "Responder não é resolver. Não lemos o texto das respostas, então este artigo não diz se elas resolvem o problema de quem reclamou. Antes de comprar, vale abrir algumas avaliações de uma estrela no perfil e ler a resposta da loja embaixo de cada uma, em especial as de rastreio e extravio."
+          "Responder não é resolver. Este artigo não avalia o texto das respostas, então não diz se elas resolvem o problema de quem reclamou. Antes de comprar, vale abrir algumas avaliações de uma estrela no perfil e ler a resposta da loja embaixo de cada uma, em especial as de rastreio e extravio."
         ]
       },
       {
         "heading": "O que não dá para concluir",
         "paragraphs": [
-          "A nota responde a uma pergunta, não a todas. Quatro coisas que a leitura não sustenta:"
+          "A nota responde a uma pergunta, não a todas. Quatro coisas que a nota não sustenta:"
         ],
         "bullets": [
           "Que a nota vale para o seu país: o perfil é global e não separa as avaliações por origem.",
-          "Que a nota mede o produto: ela junta produto, entrega e atendimento numa avaliação só, e os temas de queixa que lemos são de entrega e de processamento do pedido.",
-          "Que a loja resolve as reclamações: o perfil mostra o índice de respostas, 98%, e o prazo delas; o texto das respostas não foi lido.",
+          "Que a nota mede o produto: ela junta produto, entrega e atendimento numa avaliação só, e os temas de queixa são de entrega e de processamento do pedido.",
+          "Que a loja resolve as reclamações: o perfil mostra o índice de respostas, 98%, e o prazo delas; este artigo não avalia o texto das respostas.",
           "O que o resumo de IA da Trustpilot diz: a página traz um resumo gerado por inteligência artificial, e este artigo não o usa como fonte."
         ]
       },
       {
         "heading": "Nossa checagem",
         "paragraphs": [
-          "Em 28/10/2026, lemos o perfil público da YesStyle na Trustpilot, sem login: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. No mesmo dia, lemos a página da YesStyle no Reclame Aqui, para conferir se a loja atende lá. Em novembro, a nota, o número de avaliações e a distribuição por estrela foram conferidos de novo.",
-          "No app da loja, num teste nosso sem compra, conferimos o checkout: ele tem o campo do código de recompensa, e a YesStyle não oferecia entrega para o Brasil.",
+          "Os dados da Trustpilot são do perfil público da YesStyle, sem login, em 28/10/2026: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. Os do Reclame Aqui são da página da YesStyle, do mesmo dia. Em novembro, a nota, o número de avaliações e a distribuição por estrela foram atualizados.",
+          "No app da loja, o checkout tem o campo do código de recompensa, e a YesStyle não oferecia entrega para o Brasil.",
           "Os números da Trustpilot mudam todo mês; confira o perfil no dia da compra."
         ],
         "image": {
@@ -151971,7 +151971,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dá para confiar na YesStyle pela Trustpilot?",
         "paragraphs": [
           "Dá, com uma ressalva de escopo: pela Trustpilot, a nota é boa (TrustScore 4,4, em 104.909 avaliações, com 71% de cinco estrelas e 7% de uma). Para avaliar o atendimento, vale ler também as reclamações e as respostas recentes no perfil: o índice de respostas não mostra se o problema foi resolvido.",
-          "A ressalva é de escopo, não de nota. O perfil é global, não separa países, e as queixas que lemos são de entrega internacional: atraso, rastreio e extravio. A Trustpilot mostra como a loja se comporta no conjunto; o frete e o prazo do seu endereço estão no checkout."
+          "A ressalva é de escopo, não de nota. O perfil é global, não separa países, e as queixas são de entrega internacional: atraso, rastreio e extravio. A Trustpilot mostra como a loja se comporta no conjunto; o frete e o prazo do seu endereço estão no checkout."
         ]
       },
       {
@@ -151986,9 +151986,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A YesStyle tem boa nota na Trustpilot? Sim. O TrustScore era 4,4, com o rótulo \"Excellent\", em 104.909 avaliações; 71% davam cinco estrelas e 7%, uma.",
-          "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas que lemos, os temas eram de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
+          "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas, os temas eram de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
           "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, a loja respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a resposta pode usar inteligência artificial.",
-          "A YesStyle entrega no Brasil? Não: no teste que fizemos no app, a loja não oferecia envio para o Brasil. Confira o destino no checkout antes de comprar. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
+          "A YesStyle entrega no Brasil? Não: no app, a loja não oferecia envio para o Brasil. Confira o destino no checkout antes de comprar. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
         ]
       }
     ],
@@ -152055,7 +152055,7 @@ export const reviewsData: unknown[] = [
         "heading": "What the score measures",
         "paragraphs": [
           "The TrustScore is the profile's Trustpilot score. YesStyle had 4.4, labeled “Excellent”, across 104,909 reviews; 11,757 of them were published in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
-          "The breakdown by star, from the same reading: 71% five-star, 18% four-star, 3% three-star, 1% two-star and 7% one-star. Five and four stars make up most of the total; the one-star share, at 7%, weighs more than two and three stars combined, and that is where the complaints show up."
+          "The breakdown by star: 71% five-star, 18% four-star, 3% three-star, 1% two-star and 7% one-star. Five and four stars make up most of the total; the one-star share, at 7%, weighs more than two and three stars combined, and that is where the complaints show up."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -152102,7 +152102,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What shows up in the praise",
         "paragraphs": [
-          "In the positive reviews, from the same reading, the themes are different:"
+          "In the positive reviews, the themes are different:"
         ],
         "bullets": [
           "Low prices and frequent promotions.",
@@ -152120,26 +152120,26 @@ export const reviewsData: unknown[] = [
         "heading": "What the store replies",
         "paragraphs": [
           "The profile says YesStyle replied to 98% of negative reviews, usually within 24 hours, and warns that the reply may use artificial intelligence.",
-          "Replying is not solving. We did not read the text of the replies, so this article doesn't say whether they fix the problem for the person who complained. Before buying, it's worth opening a few one-star reviews on the profile and reading the store's reply under each one, especially the ones about tracking and lost packages."
+          "Replying is not solving. This article does not assess the text of the replies, so it doesn't say whether they fix the problem for the person who complained. Before buying, it's worth opening a few one-star reviews on the profile and reading the store's reply under each one, especially the ones about tracking and lost packages."
         ]
       },
       {
         "heading": "What can't be concluded",
         "paragraphs": [
-          "The score answers one question, not all of them. Four things the reading doesn't support:"
+          "The score answers one question, not all of them. Four things the score doesn't support:"
         ],
         "bullets": [
           "That the score applies to your country: the profile is global and doesn't separate reviews by origin.",
-          "That the score measures the product: it combines product, delivery and customer service in a single review, and the complaint themes we read are about delivery and order processing.",
-          "That the store resolves complaints: the profile shows the reply rate, 98%, and the reply time; the text of the replies was not read.",
+          "That the score measures the product: it combines product, delivery and customer service in a single review, and the complaint themes are about delivery and order processing.",
+          "That the store resolves complaints: the profile shows the reply rate, 98%, and the reply time; this article does not assess the text of the replies.",
           "What Trustpilot's AI summary says: the page carries a summary generated by artificial intelligence, and this article doesn't use it as a source."
         ]
       },
       {
         "heading": "Our check",
         "paragraphs": [
-          "On October 28, 2026, we read YesStyle's public Trustpilot profile, without logging in: the score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from. In November, the score, the number of reviews and the breakdown by star were checked again.",
-          "In the store's app, in a test of ours without a purchase, we checked the checkout: it has the Reward Code field.",
+          "The Trustpilot data come from the public YesStyle profile, without logging in, on October 28, 2026: the score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from. In November, the score, the number of reviews and the breakdown by star were updated.",
+          "In the store app, the checkout has the Reward Code field.",
           "Trustpilot's numbers change every month; check the profile on the day you buy."
         ],
         "image": {
@@ -152160,7 +152160,7 @@ export const reviewsData: unknown[] = [
         "heading": "Can you trust YesStyle going by Trustpilot?",
         "paragraphs": [
           "Yes, with one caveat about scope: by Trustpilot, the score is good (TrustScore 4.4 across 104,909 reviews, with 71% five-star and 7% one-star). To assess customer service, also read recent complaints and replies on the profile; the reply rate doesn't show whether problems were resolved.",
-          "The caveat is about scope, not score. The profile is global, doesn't separate countries, and the complaints we read are about international delivery: delays, tracking and lost packages. Trustpilot shows how the store behaves overall; the shipping cost and delivery time for your address are in the checkout."
+          "The caveat is about scope, not score. The profile is global, doesn't separate countries, and the complaints are about international delivery: delays, tracking and lost packages. Trustpilot shows how the store behaves overall; the shipping cost and delivery time for your address are in the checkout."
         ]
       },
       {
@@ -152175,7 +152175,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Does YesStyle have a good Trustpilot score? Yes. The TrustScore was 4.4, labeled “Excellent”, across 104,909 reviews; 71% gave five stars and 7% gave one.",
-          "What are the most common complaints about YesStyle? In the negative reviews we read, the themes are about international delivery: delays and long waits, stalled tracking, lost packages, damaged items and orders held in processing.",
+          "What are the most common complaints about YesStyle? In the negative reviews, the themes are about international delivery: delays and long waits, stalled tracking, lost packages, damaged items and orders held in processing.",
           "Does YesStyle reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use artificial intelligence."
         ]
       }
@@ -152243,7 +152243,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qué mide la nota",
         "paragraphs": [
           "El TrustScore es la calificación del perfil en Trustpilot. YesStyle tenía 4,4, con la etiqueta «Excellent», en 104.909 opiniones; 11.757 de ellas se publicaron en los últimos 12 meses. La empresa ha reclamado el perfil y tiene suscripción de pago de Trustpilot, como informa la propia página.",
-          "La distribución por estrellas, en la misma lectura: 71 % de cinco estrellas, 18 % de cuatro, 3 % de tres, 1 % de dos y 7 % de una. Cinco y cuatro estrellas suman la mayor parte; la nota de una estrella, con 7 %, pesa más que las de dos y tres juntas, y es ahí donde aparecen las quejas."
+          "La distribución por estrellas: 71 % de cinco estrellas, 18 % de cuatro, 3 % de tres, 1 % de dos y 7 % de una. Cinco y cuatro estrellas suman la mayor parte; la nota de una estrella, con 7 %, pesa más que las de dos y tres juntas, y es ahí donde aparecen las quejas."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -152259,7 +152259,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quién opina, y desde dónde",
         "paragraphs": [
-          "El perfil leído, el de www.yesstyle.com, es global: no separa las opiniones por país, y la página no dice cuántas vinieron de cada país. La nota reúne a compradores de países distintos, con envío, plazos y aduana distintos.",
+          "El perfil, el de www.yesstyle.com, es global: no separa las opiniones por país, y la página no dice cuántas vinieron de cada país. La nota reúne a compradores de países distintos, con envío, plazos y aduana distintos.",
           "Para quien compra, esto cambia la lectura: la nota dice cómo se comporta la tienda en conjunto, no cómo es la entrega en tu dirección. Ese dato está en el checkout y en la tabla de envío de la tienda, no en Trustpilot.",
           "Quién opera la tienda, la sede en Hong Kong y la matriz están en [¿Es fiable YesStyle?](/es/reviews/es-yesstyle-de-fiar-y-seguro)."
         ]
@@ -152290,7 +152290,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué aparece en los elogios",
         "paragraphs": [
-          "En las opiniones positivas, en la misma lectura, los temas son otros:"
+          "En las opiniones positivas, los temas son otros:"
         ],
         "bullets": [
           "Precio bajo y promociones frecuentes.",
@@ -152308,26 +152308,26 @@ export const reviewsData: unknown[] = [
         "heading": "Qué responde la tienda",
         "paragraphs": [
           "El perfil dice que YesStyle respondió al 98 % de las opiniones negativas, por lo general en menos de 24 horas, y avisa de que la respuesta puede usar inteligencia artificial.",
-          "Responder no es resolver. No leímos el texto de las respuestas, así que este artículo no dice si resuelven el problema de quien se quejó. Antes de comprar, conviene abrir algunas opiniones de una estrella en el perfil y leer la respuesta de la tienda debajo de cada una, sobre todo las de seguimiento y extravío."
+          "Responder no es resolver. Este artículo no evalúa el texto de las respuestas, así que no dice si resuelven el problema de quien se quejó. Antes de comprar, conviene abrir algunas opiniones de una estrella en el perfil y leer la respuesta de la tienda debajo de cada una, sobre todo las de seguimiento y extravío."
         ]
       },
       {
         "heading": "Qué no se puede concluir",
         "paragraphs": [
-          "La nota responde a una pregunta, no a todas. Cuatro cosas que la lectura no sostiene:"
+          "La nota responde a una pregunta, no a todas. Cuatro cosas que la nota no sostiene:"
         ],
         "bullets": [
           "Que la nota valga para tu país: el perfil es global y no separa las opiniones por origen.",
-          "Que la nota mida el producto: junta producto, envío y atención al cliente en una sola opinión, y los temas de queja que leímos son de envío y de procesamiento del pedido.",
-          "Que la tienda resuelva las reclamaciones: el perfil muestra el índice de respuesta, 98 %, y el plazo; el texto de las respuestas no se leyó.",
+          "Que la nota mida el producto: junta producto, envío y atención al cliente en una sola opinión, y los temas de queja son de envío y de procesamiento del pedido.",
+          "Que la tienda resuelva las reclamaciones: el perfil muestra el índice de respuesta, 98 %, y el plazo; este artículo no evalúa el texto de las respuestas.",
           "Lo que dice el resumen de IA de Trustpilot: la página trae un resumen generado por inteligencia artificial, y este artículo no lo usa como fuente."
         ]
       },
       {
         "heading": "Nuestra comprobación",
         "paragraphs": [
-          "El 28 de octubre de 2026 se leyó el perfil público de YesStyle en Trustpilot, sin iniciar sesión: la nota, el número de opiniones, la distribución por estrellas, el índice de respuesta y las opiniones visibles, de donde salieron los temas. En noviembre se volvieron a revisar la nota, el número de opiniones y la distribución por estrellas.",
-          "En la app de la tienda, en una prueba nuestra sin compra, comprobamos el checkout: tiene el campo del código de recompensa.",
+          "Los datos de Trustpilot son del perfil público de YesStyle, sin iniciar sesión, del 28 de octubre de 2026: la nota, el número de opiniones, la distribución por estrellas, el índice de respuesta y las opiniones visibles, de donde salieron los temas. En noviembre, la nota, el número de opiniones y la distribución por estrellas se actualizaron.",
+          "En la app de la tienda, el checkout tiene el campo del código de recompensa.",
           "Los números de Trustpilot cambian cada mes; revisa el perfil el día de la compra."
         ],
         "image": {
@@ -152348,7 +152348,7 @@ export const reviewsData: unknown[] = [
         "heading": "¿Se puede confiar en YesStyle según Trustpilot?",
         "paragraphs": [
           "Sí, con una salvedad de alcance: según Trustpilot, la nota es buena (TrustScore 4,4, en 104.909 opiniones, con 71 % de cinco estrellas y 7 % de una). Para valorar la atención al cliente, lee también quejas y respuestas recientes en el perfil; el índice de respuesta no mide si los problemas se resolvieron.",
-          "La salvedad es de alcance, no de nota. El perfil es global, no separa países, y las quejas que leímos son de envío internacional: retraso, seguimiento y extravío. Trustpilot muestra cómo se comporta la tienda en conjunto; el envío y el plazo de tu dirección están en el checkout."
+          "La salvedad es de alcance, no de nota. El perfil es global, no separa países, y las quejas son de envío internacional: retraso, seguimiento y extravío. Trustpilot muestra cómo se comporta la tienda en conjunto; el envío y el plazo de tu dirección están en el checkout."
         ]
       },
       {
@@ -152363,7 +152363,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Tiene YesStyle buena calificación en Trustpilot? Sí. El TrustScore era 4,4, con la etiqueta «Excellent», en 104.909 opiniones; 71 % daban cinco estrellas y 7 %, una.",
-          "¿Cuáles son las quejas más comunes sobre YesStyle? En las opiniones negativas que leímos, los temas son de envío internacional: retraso y espera larga, seguimiento detenido, paquete extraviado, artículo dañado y pedido retenido en procesamiento.",
+          "¿Cuáles son las quejas más comunes sobre YesStyle? En las opiniones negativas, los temas son de envío internacional: retraso y espera larga, seguimiento detenido, paquete extraviado, artículo dañado y pedido retenido en procesamiento.",
           "¿Responde YesStyle a las opiniones negativas? Según el perfil en Trustpilot, la tienda respondió al 98 % de las opiniones negativas, por lo general en menos de 24 horas, y la respuesta puede usar inteligencia artificial."
         ]
       }
@@ -152431,7 +152431,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ce que mesure la note",
         "paragraphs": [
           "Le TrustScore est la note du profil sur Trustpilot. YesStyle avait 4,4, avec la mention « Excellent », sur 104 909 avis ; 11 757 d’entre eux ont été publiés ces 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme l’indique la page elle-même.",
-          "La répartition par étoile, sur la même lecture : 71 % de cinq étoiles, 18 % de quatre, 3 % de trois, 1 % de deux et 7 % d’une. Cinq et quatre étoiles forment l’essentiel ; la note d’une étoile, avec 7 %, pèse plus que celles de deux et trois étoiles réunies, et c’est là qu’apparaissent les plaintes."
+          "La répartition par étoile : 71 % de cinq étoiles, 18 % de quatre, 3 % de trois, 1 % de deux et 7 % d’une. Cinq et quatre étoiles forment l’essentiel ; la note d’une étoile, avec 7 %, pèse plus que celles de deux et trois étoiles réunies, et c’est là qu’apparaissent les plaintes."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -152447,7 +152447,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qui donne son avis, et d’où",
         "paragraphs": [
-          "Le profil lu, celui de www.yesstyle.com, est global : il ne sépare pas les avis par pays, et la page ne dit pas combien viennent de chaque pays. La note regroupe des acheteurs de pays différents, avec des frais de port, des délais et des douanes différents.",
+          "Le profil, celui de www.yesstyle.com, est global : il ne sépare pas les avis par pays, et la page ne dit pas combien viennent de chaque pays. La note regroupe des acheteurs de pays différents, avec des frais de port, des délais et des douanes différents.",
           "Pour qui achète, cela change la lecture : la note dit comment la boutique se comporte dans l’ensemble, pas comment se passe la livraison à votre adresse. Cette information se trouve au paiement et dans le tableau des frais de port de la boutique, pas sur Trustpilot.",
           "Qui exploite la boutique, le siège à Hong Kong et la maison mère figurent dans [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur)."
         ]
@@ -152478,7 +152478,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce qui ressort des éloges",
         "paragraphs": [
-          "Dans les avis positifs, sur la même lecture, les thèmes sont autres :"
+          "Dans les avis positifs, les thèmes sont autres :"
         ],
         "bullets": [
           "Prix bas et promotions fréquentes.",
@@ -152496,26 +152496,26 @@ export const reviewsData: unknown[] = [
         "heading": "Ce que répond la boutique",
         "paragraphs": [
           "Le profil indique que YesStyle a répondu à 98 % des avis négatifs, en général sous 24 heures, et précise que la réponse peut utiliser l’intelligence artificielle.",
-          "Répondre n’est pas résoudre. Nous n’avons pas lu le texte des réponses, donc cet article ne dit pas si elles règlent le problème de la personne qui s’est plainte. Avant d’acheter, mieux vaut ouvrir quelques avis d’une étoile sur le profil et lire la réponse de la boutique sous chacun, surtout ceux sur le suivi et la perte de colis."
+          "Répondre n’est pas résoudre. Cet article n’évalue pas le texte des réponses, donc il ne dit pas si elles règlent le problème de la personne qui s’est plainte. Avant d’acheter, mieux vaut ouvrir quelques avis d’une étoile sur le profil et lire la réponse de la boutique sous chacun, surtout ceux sur le suivi et la perte de colis."
         ]
       },
       {
         "heading": "Ce que l’on ne peut pas conclure",
         "paragraphs": [
-          "La note répond à une question, pas à toutes. Quatre choses que la lecture ne permet pas d’affirmer :"
+          "La note répond à une question, pas à toutes. Quatre choses que la note ne permet pas d’affirmer :"
         ],
         "bullets": [
           "Que la note vaut pour votre pays : le profil est global et ne sépare pas les avis par origine.",
-          "Que la note mesure le produit : elle réunit produit, livraison et service client dans un seul avis, et les thèmes de plainte lus concernent la livraison et le traitement de la commande.",
-          "Que la boutique règle les réclamations : le profil montre le taux de réponse, 98 %, et le délai ; le texte des réponses n’a pas été lu.",
+          "Que la note mesure le produit : elle réunit produit, livraison et service client dans un seul avis, et les thèmes de plainte concernent la livraison et le traitement de la commande.",
+          "Que la boutique règle les réclamations : le profil montre le taux de réponse, 98 %, et le délai ; cet article n’évalue pas le texte des réponses.",
           "Ce que dit le résumé par IA de Trustpilot : la page affiche un résumé généré par intelligence artificielle, et cet article ne l’utilise pas comme source."
         ]
       },
       {
         "heading": "Notre vérification",
         "paragraphs": [
-          "Le 28 octobre 2026, le profil public de YesStyle sur Trustpilot a été lu, sans connexion : la note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où sont sortis les thèmes. En novembre, la note, le nombre d’avis et la répartition par étoile ont été revérifiés.",
-          "Dans l’appli de la boutique, lors d’un test de notre part sans achat, nous avons vérifié le paiement : il comporte le champ du code récompense.",
+          "Les données de Trustpilot viennent du profil public de YesStyle, sans connexion, au 28 octobre 2026 : la note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où sont sortis les thèmes. En novembre, la note, le nombre d’avis et la répartition par étoile ont été mis à jour.",
+          "Dans l’appli de la boutique, le paiement comporte le champ du code récompense.",
           "Les chiffres de Trustpilot changent chaque mois ; consultez le profil le jour de l’achat."
         ],
         "image": {
@@ -152536,7 +152536,7 @@ export const reviewsData: unknown[] = [
         "heading": "Peut-on faire confiance à YesStyle d’après Trustpilot ?",
         "paragraphs": [
           "Oui, avec une réserve de portée : d’après Trustpilot, la note est bonne (TrustScore de 4,4, sur 104 909 avis, avec 71 % de cinq étoiles et 7 % d’une). Pour évaluer le service client, lisez aussi les plaintes et les réponses récentes sur le profil : le taux de réponse ne mesure pas la résolution des problèmes.",
-          "La réserve porte sur le périmètre, pas sur la note. Le profil est global, ne sépare pas les pays, et les plaintes lues concernent la livraison internationale : retard, suivi et colis égaré. Trustpilot montre comment la boutique se comporte dans l’ensemble ; les frais de port et le délai pour votre adresse figurent au paiement."
+          "La réserve porte sur le périmètre, pas sur la note. Le profil est global, ne sépare pas les pays, et les plaintes concernent la livraison internationale : retard, suivi et colis égaré. Trustpilot montre comment la boutique se comporte dans l’ensemble ; les frais de port et le délai pour votre adresse figurent au paiement."
         ]
       },
       {
@@ -152551,7 +152551,7 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "YesStyle a-t-il une bonne note sur Trustpilot ? Oui. Le TrustScore était de 4,4, avec la mention « Excellent », sur 104 909 avis ; 71 % donnaient cinq étoiles et 7 %, une.",
-          "Quelles sont les plaintes les plus courantes sur YesStyle ? Dans les avis négatifs lus, les thèmes concernent la livraison internationale : retard et longue attente, suivi à l’arrêt, colis égaré, article endommagé et commande bloquée en traitement.",
+          "Quelles sont les plaintes les plus courantes sur YesStyle ? Dans les avis négatifs, les thèmes concernent la livraison internationale : retard et longue attente, suivi à l’arrêt, colis égaré, article endommagé et commande bloquée en traitement.",
           "YesStyle répond-il aux avis négatifs ? Selon le profil sur Trustpilot, la boutique a répondu à 98 % des avis négatifs, en général sous 24 heures, et la réponse peut utiliser l’intelligence artificielle."
         ]
       }
@@ -152619,7 +152619,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cosa misura il punteggio",
         "paragraphs": [
           "Il TrustScore è il punteggio del profilo su Trustpilot. YesStyle aveva 4,4, con l’etichetta «Excellent», su 104.909 recensioni; 11.757 sono state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
-          "La distribuzione per stelle, nella stessa lettura: 71% di cinque stelle, 18% di quattro, 3% di tre, 1% di due e 7% di una. Cinque e quattro stelle sommano la maggior parte; la quota di una stella, con il 7%, pesa più di quelle di due e tre stelle insieme, ed è lì che compaiono i reclami."
+          "La distribuzione per stelle: 71% di cinque stelle, 18% di quattro, 3% di tre, 1% di due e 7% di una. Cinque e quattro stelle sommano la maggior parte; la quota di una stella, con il 7%, pesa più di quelle di due e tre stelle insieme, ed è lì che compaiono i reclami."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -152635,7 +152635,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chi recensisce, e da dove",
         "paragraphs": [
-          "Il profilo letto, quello di www.yesstyle.com, è globale: non separa le recensioni per paese, e la pagina non dice quante provengano da ciascun paese. Il punteggio mette insieme acquirenti di paesi diversi, con spedizione, tempi e dogana diversi.",
+          "Il profilo, quello di www.yesstyle.com, è globale: non separa le recensioni per paese, e la pagina non dice quante provengano da ciascun paese. Il punteggio mette insieme acquirenti di paesi diversi, con spedizione, tempi e dogana diversi.",
           "Per chi compra, questo cambia la lettura: il punteggio dice come si comporta il negozio nel complesso, non com’è la consegna al tuo indirizzo. Questo dato si trova nel checkout e nella tabella spedizioni del negozio, non su Trustpilot.",
           "Chi gestisce il negozio, la sede a Hong Kong e la società controllante sono in [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
         ]
@@ -152666,7 +152666,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cosa emerge dagli elogi",
         "paragraphs": [
-          "Nelle recensioni positive, nella stessa lettura, i temi sono altri:"
+          "Nelle recensioni positive, i temi sono altri:"
         ],
         "bullets": [
           "Prezzi bassi e promozioni frequenti.",
@@ -152684,26 +152684,26 @@ export const reviewsData: unknown[] = [
         "heading": "Cosa risponde il negozio",
         "paragraphs": [
           "Il profilo dice che YesStyle ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e avverte che la risposta può usare l’intelligenza artificiale.",
-          "Rispondere non significa risolvere. Non abbiamo letto il testo delle risposte, quindi questo articolo non dice se risolvano il problema di chi ha protestato. Prima di comprare, conviene aprire alcune recensioni da una stella sul profilo e leggere la risposta del negozio sotto ciascuna, soprattutto quelle su tracking e smarrimento."
+          "Rispondere non significa risolvere. Questo articolo non valuta il testo delle risposte, quindi non dice se risolvano il problema di chi ha protestato. Prima di comprare, conviene aprire alcune recensioni da una stella sul profilo e leggere la risposta del negozio sotto ciascuna, soprattutto quelle su tracking e smarrimento."
         ]
       },
       {
         "heading": "Cosa non si può concludere",
         "paragraphs": [
-          "Il punteggio risponde a una domanda, non a tutte. Quattro cose che la lettura non sostiene:"
+          "Il punteggio risponde a una domanda, non a tutte. Quattro cose che il punteggio non sostiene:"
         ],
         "bullets": [
           "Che il punteggio valga per il tuo paese: il profilo è globale e non separa le recensioni per provenienza.",
-          "Che il punteggio misuri il prodotto: unisce prodotto, consegna e assistenza in un’unica recensione, e i temi di reclamo letti riguardano la consegna e l’elaborazione dell’ordine.",
-          "Che il negozio risolva i reclami: il profilo mostra la quota di risposte, il 98%, e i tempi; il testo delle risposte non è stato letto.",
+          "Che il punteggio misuri il prodotto: unisce prodotto, consegna e assistenza in un’unica recensione, e i temi di reclamo riguardano la consegna e l’elaborazione dell’ordine.",
+          "Che il negozio risolva i reclami: il profilo mostra la quota di risposte, il 98%, e i tempi; questo articolo non valuta il testo delle risposte.",
           "Cosa dice il riassunto IA di Trustpilot: la pagina riporta un riassunto generato dall’intelligenza artificiale, e questo articolo non lo usa come fonte."
         ]
       },
       {
         "heading": "La nostra verifica",
         "paragraphs": [
-          "Il 28 ottobre 2026 è stato letto il profilo pubblico di YesStyle su Trustpilot, senza login: il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi. A novembre sono stati ricontrollati il punteggio, il numero di recensioni e la distribuzione per stelle.",
-          "Nell’app del negozio, in un nostro test senza acquisto, abbiamo controllato il checkout: ha il campo per il codice ricompensa.",
+          "I dati di Trustpilot vengono dal profilo pubblico di YesStyle, senza login, al 28 ottobre 2026: il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi. A novembre punteggio, numero di recensioni e distribuzione per stelle sono stati aggiornati.",
+          "Nell’app del negozio, il checkout ha il campo per il codice ricompensa.",
           "I numeri di Trustpilot cambiano ogni mese; controlla il profilo il giorno dell’acquisto."
         ],
         "image": {
@@ -152724,7 +152724,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ci si può fidare di YesStyle in base a Trustpilot?",
         "paragraphs": [
           "Sì, con una riserva sull’ambito: in base a Trustpilot, il punteggio è buono (TrustScore 4,4, su 104.909 recensioni, con il 71% di cinque stelle e il 7% di una). Per valutare l’assistenza, leggi anche reclami e risposte recenti nel profilo: la quota di risposte non misura la risoluzione dei problemi.",
-          "La riserva riguarda l’ambito, non il punteggio. Il profilo è globale, non separa i paesi, e i reclami letti riguardano la consegna internazionale: ritardo, tracking e smarrimento. Trustpilot mostra come si comporta il negozio nel complesso; spedizione e tempi per il tuo indirizzo sono nel checkout."
+          "La riserva riguarda l’ambito, non il punteggio. Il profilo è globale, non separa i paesi, e i reclami riguardano la consegna internazionale: ritardo, tracking e smarrimento. Trustpilot mostra come si comporta il negozio nel complesso; spedizione e tempi per il tuo indirizzo sono nel checkout."
         ]
       },
       {
@@ -152739,7 +152739,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "YesStyle ha un buon punteggio su Trustpilot? Sì. Il TrustScore era 4,4, con l’etichetta «Excellent», su 104.909 recensioni; il 71% dava cinque stelle e il 7% una.",
-          "Quali sono i reclami più comuni su YesStyle? Nelle recensioni negative lette, i temi riguardano la consegna internazionale: ritardo e lunga attesa, tracking fermo, pacco smarrito, articolo danneggiato e ordine bloccato in elaborazione.",
+          "Quali sono i reclami più comuni su YesStyle? Nelle recensioni negative, i temi riguardano la consegna internazionale: ritardo e lunga attesa, tracking fermo, pacco smarrito, articolo danneggiato e ordine bloccato in elaborazione.",
           "YesStyle risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale."
         ]
       }
@@ -152807,7 +152807,7 @@ export const reviewsData: unknown[] = [
         "heading": "Was die Note misst",
         "paragraphs": [
           "Der TrustScore ist die Note des Profils auf Trustpilot. YesStyle hatte 4,4, mit dem Label „Excellent“, bei 104.909 Bewertungen; 11.757 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil wird vom Unternehmen beansprucht und hat ein bezahltes Trustpilot-Abo, wie die Seite selbst angibt.",
-          "Die Verteilung nach Sternen, in derselben Auswertung: 71 % Fünf-Sterne, 18 % Vier-Sterne, 3 % Drei-Sterne, 1 % Zwei-Sterne und 7 % Ein-Stern. Fünf und vier Sterne machen den größten Teil aus; die Ein-Stern-Bewertungen mit 7 % wiegen mehr als die mit zwei und drei Sternen zusammen, und dort zeigen sich die Beschwerden."
+          "Die Verteilung nach Sternen: 71 % Fünf-Sterne, 18 % Vier-Sterne, 3 % Drei-Sterne, 1 % Zwei-Sterne und 7 % Ein-Stern. Fünf und vier Sterne machen den größten Teil aus; die Ein-Stern-Bewertungen mit 7 % wiegen mehr als die mit zwei und drei Sternen zusammen, und dort zeigen sich die Beschwerden."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -152823,7 +152823,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wer bewertet, und von wo",
         "paragraphs": [
-          "Das gelesene Profil, das von www.yesstyle.com, ist global: Es trennt die Bewertungen nicht nach Land, und die Seite sagt nicht, wie viele aus welchem Land kommen. Die Note vereint Käufer aus verschiedenen Ländern, mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll.",
+          "Das Profil, das von www.yesstyle.com, ist global: Es trennt die Bewertungen nicht nach Land, und die Seite sagt nicht, wie viele aus welchem Land kommen. Die Note vereint Käufer aus verschiedenen Ländern, mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll.",
           "Für alle, die kaufen, ändert das die Lesart: Die Note sagt, wie sich der Shop insgesamt verhält, nicht wie die Lieferung an Ihre Adresse abläuft. Diese Angabe steht im Checkout und in der Versandtabelle des Shops, nicht auf Trustpilot.",
           "Wer den Shop betreibt, der Sitz in Hongkong und die Muttergesellschaft stehen in [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
         ]
@@ -152854,7 +152854,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was im Lob auftaucht",
         "paragraphs": [
-          "In den positiven Bewertungen sind die Themen, in derselben Auswertung, andere:"
+          "In den positiven Bewertungen sind die Themen andere:"
         ],
         "bullets": [
           "Niedrige Preise und häufige Aktionen.",
@@ -152872,26 +152872,26 @@ export const reviewsData: unknown[] = [
         "heading": "Was der Shop antwortet",
         "paragraphs": [
           "Laut Profil hat YesStyle 98 % der negativen Bewertungen beantwortet, in der Regel innerhalb von 24 Stunden, und weist darauf hin, dass die Antwort künstliche Intelligenz nutzen kann.",
-          "Antworten heißt nicht lösen. Den Text der Antworten haben wir nicht gelesen, deshalb sagt dieser Artikel nicht, ob sie das Problem der Beschwerdeführer lösen. Vor dem Kauf lohnt es sich, einige Ein-Stern-Bewertungen im Profil zu öffnen und die Antwort des Shops darunter zu lesen, besonders bei Tracking und verlorenen Paketen."
+          "Antworten heißt nicht lösen. Dieser Artikel bewertet den Text der Antworten nicht, deshalb sagt er nicht, ob sie das Problem der Beschwerdeführer lösen. Vor dem Kauf lohnt es sich, einige Ein-Stern-Bewertungen im Profil zu öffnen und die Antwort des Shops darunter zu lesen, besonders bei Tracking und verlorenen Paketen."
         ]
       },
       {
         "heading": "Was sich nicht schließen lässt",
         "paragraphs": [
-          "Die Note beantwortet eine Frage, nicht alle. Vier Dinge, die die Auswertung nicht stützt:"
+          "Die Note beantwortet eine Frage, nicht alle. Vier Dinge, die die Note nicht stützt:"
         ],
         "bullets": [
           "Dass die Note für Ihr Land gilt: Das Profil ist global und trennt die Bewertungen nicht nach Herkunft.",
-          "Dass die Note das Produkt misst: Sie fasst Produkt, Lieferung und Kundenservice in einer Bewertung zusammen, und die gelesenen Beschwerdethemen betreffen Lieferung und Bestellbearbeitung.",
-          "Dass der Shop Beschwerden löst: Das Profil zeigt die Antwortquote, 98 %, und die Antwortzeit; der Text der Antworten wurde nicht gelesen.",
+          "Dass die Note das Produkt misst: Sie fasst Produkt, Lieferung und Kundenservice in einer Bewertung zusammen, und die Beschwerdethemen betreffen Lieferung und Bestellbearbeitung.",
+          "Dass der Shop Beschwerden löst: Das Profil zeigt die Antwortquote, 98 %, und die Antwortzeit; dieser Artikel bewertet den Text der Antworten nicht.",
           "Was die KI-Zusammenfassung von Trustpilot sagt: Die Seite zeigt eine von künstlicher Intelligenz erstellte Zusammenfassung, und dieser Artikel nutzt sie nicht als Quelle."
         ]
       },
       {
         "heading": "Unsere Prüfung",
         "paragraphs": [
-          "Am 28. Oktober 2026 wurde das öffentliche Profil von YesStyle auf Trustpilot gelesen, ohne Login: die Note, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen. Im November wurden die Note, die Zahl der Bewertungen und die Verteilung nach Sternen erneut geprüft.",
-          "In der App des Shops haben wir in einem eigenen Test ohne Kauf den Checkout geprüft: Er hat das Feld für den Reward Code.",
+          "Die Daten von Trustpilot stammen aus dem öffentlichen Profil von YesStyle, ohne Login, vom 28. Oktober 2026: die Note, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen. Im November wurden Note, Zahl der Bewertungen und Verteilung nach Sternen aktualisiert.",
+          "In der App des Shops hat der Checkout das Feld für den Reward Code.",
           "Die Zahlen auf Trustpilot ändern sich jeden Monat; prüfen Sie das Profil am Tag des Kaufs."
         ],
         "image": {
@@ -152912,7 +152912,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kann man YesStyle nach Trustpilot vertrauen?",
         "paragraphs": [
           "Ja, mit einer Einschränkung beim Geltungsbereich: Nach Trustpilot ist die Note gut (TrustScore 4,4 bei 104.909 Bewertungen, davon 71 % Fünf-Sterne und 7 % Ein-Stern). Um den Kundenservice einzuschätzen, lesen Sie auch aktuelle Beschwerden und Antworten im Profil; die Antwortquote zeigt nicht, ob Probleme gelöst wurden.",
-          "Der Vorbehalt betrifft den Geltungsbereich, nicht die Note. Das Profil ist global, trennt keine Länder, und die gelesenen Beschwerden betreffen die internationale Lieferung: Verspätung, Tracking und Verlust. Trustpilot zeigt, wie sich der Shop insgesamt verhält; Versand und Lieferzeit für Ihre Adresse stehen im Checkout."
+          "Der Vorbehalt betrifft den Geltungsbereich, nicht die Note. Das Profil ist global, trennt keine Länder, und die Beschwerden betreffen die internationale Lieferung: Verspätung, Tracking und Verlust. Trustpilot zeigt, wie sich der Shop insgesamt verhält; Versand und Lieferzeit für Ihre Adresse stehen im Checkout."
         ]
       },
       {
@@ -152927,7 +152927,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Hat YesStyle eine gute Note auf Trustpilot? Ja. Der TrustScore lag bei 4,4, mit dem Label „Excellent“, bei 104.909 Bewertungen; 71 % gaben fünf Sterne und 7 % einen.",
-          "Was sind die häufigsten Beschwerden über YesStyle? In den gelesenen negativen Bewertungen betreffen die Themen die internationale Lieferung: Verspätung und lange Wartezeit, stehendes Tracking, verlorenes Paket, beschädigter Artikel und in der Bearbeitung hängende Bestellung.",
+          "Was sind die häufigsten Beschwerden über YesStyle? In den negativen Bewertungen betreffen die Themen die internationale Lieferung: Verspätung und lange Wartezeit, stehendes Tracking, verlorenes Paket, beschädigter Artikel und in der Bearbeitung hängende Bestellung.",
           "Antwortet YesStyle auf negative Bewertungen? Laut Trustpilot-Profil hat der Shop 98 % der negativen Bewertungen beantwortet, in der Regel innerhalb von 24 Stunden, und die Antwort kann künstliche Intelligenz nutzen."
         ]
       }
@@ -152971,7 +152971,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "2026年11月時点のYesStyleのTrustpilot評価：104,909件のレビューでTrustScoreは4.4、71%が星5つ。表示されていた低評価レビューの苦情は国際配送が中心です。この評価が言えるのは世界全体の傾向までです。",
-    "metaDescription": "2026年11月のYesStyleのTrustpilot：10万4千件のレビューで評価4.4、星5つは71%。読んだ低評価レビューの苦情は配送と追跡が中心。評価が示さないことを確認しましょう。",
+    "metaDescription": "2026年11月のYesStyleのTrustpilot：10万4千件のレビューで評価4.4、星5つは71%。低評価レビューの苦情は配送と追跡が中心。評価が示さないことを確認しましょう。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -152995,7 +152995,7 @@ export const reviewsData: unknown[] = [
         "heading": "評価が測っているもの",
         "paragraphs": [
           "TrustScoreは、Trustpilot上のプロフィールの評価です。YesStyleは104,909件のレビューで4.4、ラベルは「Excellent」でした。そのうち11,757件は過去12か月に投稿されたものです。ページに書かれているとおり、このプロフィールは企業が管理しており、Trustpilotの有料プランに加入しています。",
-          "同じ時点の星ごとの内訳は、星5つが71%、星4つが18%、星3つが3%、星2つが1%、星1つが7%です。星5つと星4つで大半を占めます。星1つの7%は星2つと星3つを合わせたより多く、苦情が出てくるのはここです。"
+          "星ごとの内訳は、星5つが71%、星4つが18%、星3つが3%、星2つが1%、星1つが7%です。星5つと星4つで大半を占めます。星1つの7%は星2つと星3つを合わせたより多く、苦情が出てくるのはここです。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -153011,7 +153011,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "誰が、どこから評価しているか",
         "paragraphs": [
-          "確認したプロフィール（www.yesstyle.com）は世界共通です。レビューを国別に分けておらず、各国からどれだけ寄せられたかもページには書かれていません。この評価には、送料も配送日数も関税も異なる国々の購入者が混ざっています。",
+          "プロフィール（www.yesstyle.com）は世界共通です。レビューを国別に分けておらず、各国からどれだけ寄せられたかもページには書かれていません。この評価には、送料も配送日数も関税も異なる国々の購入者が混ざっています。",
           "購入する人にとっては、読み方が変わります。評価が示すのはショップ全体の傾向であって、あなたの住所への配送がどうなるかではありません。それはチェックアウトとショップの送料表で分かることで、Trustpilotでは分かりません。",
           "運営会社、香港の本社、親会社については[YesStyleは信頼できる？](/ja/reviews/yesstyle-trust-guide-ja)にあります。"
         ]
@@ -153042,7 +153042,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "高評価に出てくること",
         "paragraphs": [
-          "同じ時点の高評価レビューでは、テーマが違います。"
+          "高評価レビューでは、テーマが違います。"
         ],
         "bullets": [
           "低価格と頻繁なセール。",
@@ -153060,26 +153060,26 @@ export const reviewsData: unknown[] = [
         "heading": "ショップの返信",
         "paragraphs": [
           "プロフィールによると、YesStyleは低評価レビューの98%に返信しており、多くは24時間以内です。また、返信にはAIが使われることがあると明記されています。",
-          "返信があることと、解決することは別です。返信の本文は読んでいないため、この記事では、それが苦情を寄せた人の問題を解決したかどうかは言えません。購入前に、プロフィールで星1つのレビューをいくつか開き、それぞれの下にあるショップの返信を読んでおきましょう。特に追跡と紛失に関するものです。"
+          "返信があることと、解決することは別です。この記事は返信の本文を評価していないため、それが苦情を寄せた人の問題を解決したかどうかは言えません。購入前に、プロフィールで星1つのレビューをいくつか開き、それぞれの下にあるショップの返信を読んでおきましょう。特に追跡と紛失に関するものです。"
         ]
       },
       {
         "heading": "結論として言えないこと",
         "paragraphs": [
-          "評価が答えるのは1つの問いで、すべてではありません。この確認からは言えないことが4つあります。"
+          "評価が答えるのは1つの問いで、すべてではありません。この評価からは言えないことが4つあります。"
         ],
         "bullets": [
           "評価があなたの国にも当てはまる：プロフィールは世界共通で、レビューを購入元の国別に分けていません。",
-          "評価が商品の品質を測っている：評価は商品、配送、サポートを1件のレビューにまとめたものです。読んだ苦情のテーマは配送と注文処理でした。",
-          "ショップが苦情を解決している：プロフィールに示されているのは返信率の98%と返信までの時間です。返信の本文は読んでいません。",
+          "評価が商品の品質を測っている：評価は商品、配送、サポートを1件のレビューにまとめたものです。苦情のテーマは配送と注文処理でした。",
+          "ショップが苦情を解決している：プロフィールに示されているのは返信率の98%と返信までの時間です。この記事は返信の本文を評価していません。",
           "TrustpilotのAI要約が言っていること：ページにはAIが生成した要約がありますが、この記事ではそれを情報源にしていません。"
         ]
       },
       {
         "heading": "当サイトの確認",
         "paragraphs": [
-          "2026年10月28日に、ログインせずにYesStyleのTrustpilot公開プロフィールを読みました。評価、レビュー数、星ごとの内訳、返信率、表示されているレビューです。テーマはそこから書き出しました。11月に、評価、レビュー数、星ごとの内訳をもう一度確認しました。",
-          "ショップのアプリで、購入はせずにチェックアウトをテストして確認しました。リワードコードの入力欄があります。",
+          "YesStyleのTrustpilot公開プロフィールのデータは、ログインなしで見られる2026年10月28日時点のものです。評価、レビュー数、星ごとの内訳、返信率、表示されているレビューで、テーマはそこから書き出しました。11月に、評価、レビュー数、星ごとの内訳は更新されました。",
+          "ショップのアプリのチェックアウトには、リワードコードの入力欄があります。",
           "Trustpilotの数字は毎月変わります。購入する日にプロフィールを確認してください。"
         ],
         "image": {
@@ -153100,7 +153100,7 @@ export const reviewsData: unknown[] = [
         "heading": "TrustpilotでYesStyleを信頼できるか",
         "paragraphs": [
           "はい、ただし対象範囲についての注意が一つあります。Trustpilotで見るかぎり、評価は良好です（TrustScoreは4.4、104,909件のレビューのうち71%が星5つ、7%が星1つ）。サポートを判断するには、プロフィールの最近の苦情と返信も読んでみてください。返信率は、問題が解決した割合ではありません。",
-          "注意点は評価ではなく、対象範囲です。プロフィールは世界共通で国別に分かれておらず、読んだ苦情は国際配送のもの、つまり遅延、追跡、紛失でした。Trustpilotが示すのはショップ全体の傾向で、あなたの住所への送料と配送日数はチェックアウトで確認できます。"
+          "注意点は評価ではなく、対象範囲です。プロフィールは世界共通で国別に分かれておらず、苦情は国際配送のもの、つまり遅延、追跡、紛失でした。Trustpilotが示すのはショップ全体の傾向で、あなたの住所への送料と配送日数はチェックアウトで確認できます。"
         ]
       },
       {
@@ -153115,7 +153115,7 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "YesStyleのTrustpilot評価は高い？はい。TrustScoreは4.4で、ラベルは「Excellent」、104,909件のレビューのうち71%が星5つ、7%が星1つでした。",
-          "YesStyleで多い苦情は？読んだ低評価レビューのテーマは国際配送で、遅延と長い待ち時間、追跡の停止、荷物の紛失、商品の破損、処理中のまま止まった注文でした。",
+          "YesStyleで多い苦情は？低評価レビューのテーマは国際配送で、遅延と長い待ち時間、追跡の停止、荷物の紛失、商品の破損、処理中のまま止まった注文でした。",
           "YesStyleは低評価レビューに返信している？Trustpilotのプロフィールによると、低評価レビューの98%に返信しており、多くは24時間以内です。返信にはAIが使われることがあります。"
         ]
       }
@@ -153159,7 +153159,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "2026년 11월 기준 YesStyle의 Trustpilot 평점: 리뷰 104,909건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 보이는 부정적 리뷰의 불만은 해외 배송에 관한 것이고, 이 평점으로 알 수 있는 것은 전 세계를 합친 경향까지입니다.",
-    "metaDescription": "2026년 11월 YesStyle의 Trustpilot: 리뷰 10만 4천 건에 평점 4.4, 별 다섯 개 71%. 읽은 부정적 리뷰의 불만은 배송과 배송 추적이 중심입니다. 평점이 보여 주지 않는 부분을 확인해 보세요.",
+    "metaDescription": "2026년 11월 YesStyle의 Trustpilot: 리뷰 10만 4천 건에 평점 4.4, 별 다섯 개 71%. 부정적 리뷰의 불만은 배송과 배송 추적이 중심입니다. 평점이 보여 주지 않는 부분을 확인해 보세요.",
     "publishedAt": "2026년 10월 29일",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -153183,7 +153183,7 @@ export const reviewsData: unknown[] = [
         "heading": "평점이 측정하는 것",
         "paragraphs": [
           "TrustScore는 Trustpilot에서 프로필이 받은 평점입니다. YesStyle은 리뷰 104,909건에 4.4점, 등급 표시는 \"Excellent\"였습니다. 그중 11,757건이 최근 12개월 안에 올라온 리뷰입니다. 페이지에 나와 있듯이 이 프로필은 기업이 소유권을 주장한 것이며 Trustpilot 유료 구독 중입니다.",
-          "같은 시점의 별점 분포는 별 다섯 개 71%, 네 개 18%, 세 개 3%, 두 개 1%, 한 개 7%입니다. 다섯 개와 네 개가 대부분을 차지합니다. 별 한 개 7%는 두 개와 세 개를 합친 것보다 많고, 불만이 나오는 곳이 바로 여기입니다."
+          "별점 분포는 별 다섯 개 71%, 네 개 18%, 세 개 3%, 두 개 1%, 한 개 7%입니다. 다섯 개와 네 개가 대부분을 차지합니다. 별 한 개 7%는 두 개와 세 개를 합친 것보다 많고, 불만이 나오는 곳이 바로 여기입니다."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -153199,7 +153199,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "누가, 어디에서 평가하는가",
         "paragraphs": [
-          "확인한 프로필(www.yesstyle.com)은 전 세계 공통입니다. 리뷰를 국가별로 나누지 않으며, 각 나라에서 몇 건이 왔는지도 페이지에 나와 있지 않습니다. 이 평점에는 배송비, 배송 기간, 통관이 서로 다른 여러 나라의 구매자가 섞여 있습니다.",
+          "프로필(www.yesstyle.com)은 전 세계 공통입니다. 리뷰를 국가별로 나누지 않으며, 각 나라에서 몇 건이 왔는지도 페이지에 나와 있지 않습니다. 이 평점에는 배송비, 배송 기간, 통관이 서로 다른 여러 나라의 구매자가 섞여 있습니다.",
           "구매하려는 사람에게는 읽는 방식이 달라집니다. 평점은 쇼핑몰이 전체적으로 어떻게 운영되는지를 보여 줄 뿐, 회원님 주소로 가는 배송이 어떤지는 알려 주지 않습니다. 그 정보는 Trustpilot이 아니라 결제 화면과 쇼핑몰의 배송비 표에 있습니다.",
           "쇼핑몰을 운영하는 곳, 홍콩 본사, 모회사는 [YesStyle은 믿을 만한가?](/ko/reviews/yesstyle-trust-guide-ko)에 있습니다."
         ]
@@ -153230,7 +153230,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "칭찬에서 보이는 것",
         "paragraphs": [
-          "같은 시점의 긍정적 리뷰에서는 주제가 다릅니다."
+          "긍정적 리뷰에서는 주제가 다릅니다."
         ],
         "bullets": [
           "낮은 가격과 잦은 할인.",
@@ -153248,26 +153248,26 @@ export const reviewsData: unknown[] = [
         "heading": "쇼핑몰의 답변",
         "paragraphs": [
           "프로필에 따르면 YesStyle은 부정적 리뷰의 98%에 답했고, 대개 24시간 안에 답했습니다. 답변에는 인공지능이 쓰일 수 있다는 안내도 있습니다.",
-          "답변이 있다고 해결된 것은 아닙니다. 답변 본문은 읽지 않았으므로, 이 글은 그 답변이 불만을 남긴 사람의 문제를 해결했는지는 말하지 않습니다. 구매 전에 프로필에서 별 한 개 리뷰 몇 개를 열어 그 아래 쇼핑몰의 답변을 읽어 보세요. 특히 배송 추적과 분실에 관한 것을 보면 좋습니다."
+          "답변이 있다고 해결된 것은 아닙니다. 이 글은 답변 본문을 평가하지 않으므로, 그 답변이 불만을 남긴 사람의 문제를 해결했는지는 말하지 않습니다. 구매 전에 프로필에서 별 한 개 리뷰 몇 개를 열어 그 아래 쇼핑몰의 답변을 읽어 보세요. 특히 배송 추적과 분실에 관한 것을 보면 좋습니다."
         ]
       },
       {
         "heading": "결론 내릴 수 없는 것",
         "paragraphs": [
-          "평점은 질문 하나에 답할 뿐, 모든 질문에 답하지는 않습니다. 이번 확인으로는 뒷받침되지 않는 네 가지가 있습니다."
+          "평점은 질문 하나에 답할 뿐, 모든 질문에 답하지는 않습니다. 이 평점으로는 뒷받침되지 않는 네 가지가 있습니다."
         ],
         "bullets": [
           "평점이 회원님이 사는 나라에도 해당한다: 프로필은 전 세계 공통이며 리뷰를 구매 국가별로 나누지 않습니다.",
-          "평점이 상품 품질을 측정한다: 평점은 상품, 배송, 고객 응대를 리뷰 한 건에 합친 것이고, 읽은 불만의 주제는 배송과 주문 처리였습니다.",
-          "쇼핑몰이 불만을 해결한다: 프로필에는 답변율 98%와 답변까지 걸린 시간이 나와 있고, 답변 본문은 읽지 않았습니다.",
+          "평점이 상품 품질을 측정한다: 평점은 상품, 배송, 고객 응대를 리뷰 한 건에 합친 것이고, 불만의 주제는 배송과 주문 처리였습니다.",
+          "쇼핑몰이 불만을 해결한다: 프로필에는 답변율 98%와 답변까지 걸린 시간이 나와 있고, 이 글은 답변 본문을 평가하지 않습니다.",
           "Trustpilot의 AI 요약이 말하는 것: 페이지에는 인공지능이 만든 요약이 있지만, 이 글은 그것을 출처로 쓰지 않았습니다."
         ]
       },
       {
         "heading": "저희의 확인",
         "paragraphs": [
-          "2026년 10월 28일에 로그인 없이 Trustpilot의 YesStyle 공개 프로필을 읽었습니다. 평점, 리뷰 수, 별점 분포, 답변율, 그리고 보이는 리뷰이며, 주제는 이 리뷰에서 나왔습니다. 11월에 평점, 리뷰 수, 별점 분포를 다시 확인했습니다.",
-          "쇼핑몰 앱에서는 구매 없이 결제 화면을 직접 테스트해 확인했습니다. 결제 화면에는 리워드 코드를 넣는 칸이 있습니다.",
+          "Trustpilot 데이터는 로그인 없이 볼 수 있는 YesStyle 공개 프로필의 2026년 10월 28일 기준 자료입니다. 평점, 리뷰 수, 별점 분포, 답변율, 그리고 보이는 리뷰이며, 주제는 이 리뷰에서 나왔습니다. 11월에 평점, 리뷰 수, 별점 분포가 업데이트되었습니다.",
+          "쇼핑몰 앱의 결제 화면에는 리워드 코드를 넣는 칸이 있습니다.",
           "Trustpilot 수치는 매달 바뀝니다. 구매하는 날 프로필을 확인하세요."
         ],
         "image": {
@@ -153288,7 +153288,7 @@ export const reviewsData: unknown[] = [
         "heading": "Trustpilot로 보면 YesStyle을 믿어도 될까?",
         "paragraphs": [
           "네, 다만 범위에 대한 단서가 하나 있습니다. Trustpilot로 보면 평가는 좋습니다(TrustScore 4.4, 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개). 고객 응대를 판단하려면 프로필의 최근 불만과 답변도 읽어 보세요. 답변율은 문제가 해결된 비율을 뜻하지 않습니다.",
-          "단서는 점수가 아니라 범위입니다. 프로필은 전 세계 공통이라 국가를 나누지 않고, 읽은 불만은 해외 배송 문제, 즉 지연, 배송 추적, 분실입니다. Trustpilot은 쇼핑몰이 전체적으로 어떻게 움직이는지를 보여 주고, 회원님 주소의 배송비와 배송 기간은 결제 화면에서 확인할 수 있습니다."
+          "단서는 점수가 아니라 범위입니다. 프로필은 전 세계 공통이라 국가를 나누지 않고, 불만은 해외 배송 문제, 즉 지연, 배송 추적, 분실입니다. Trustpilot은 쇼핑몰이 전체적으로 어떻게 움직이는지를 보여 주고, 회원님 주소의 배송비와 배송 기간은 결제 화면에서 확인할 수 있습니다."
         ]
       },
       {
@@ -153303,7 +153303,7 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "YesStyle의 Trustpilot 평점은 좋은가요? 네. TrustScore는 4.4, 등급 표시는 \"Excellent\"였고, 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개였습니다.",
-          "YesStyle에 대한 가장 흔한 불만은 무엇인가요? 읽은 부정적 리뷰의 주제는 해외 배송이었고, 지연과 긴 대기, 멈춘 배송 추적, 분실된 소포, 파손된 상품, 처리 단계에 묶인 주문이었습니다.",
+          "YesStyle에 대한 가장 흔한 불만은 무엇인가요? 부정적 리뷰의 주제는 해외 배송이었고, 지연과 긴 대기, 멈춘 배송 추적, 분실된 소포, 파손된 상품, 처리 단계에 묶인 주문이었습니다.",
           "YesStyle은 부정적 리뷰에 답하나요? Trustpilot 프로필에 따르면 부정적 리뷰의 98%에 답했고, 대개 24시간 안에 답했으며 답변에는 인공지능이 쓰일 수 있습니다."
         ]
       }
@@ -153371,7 +153371,7 @@ export const reviewsData: unknown[] = [
         "heading": "评分衡量的是什么",
         "paragraphs": [
           "TrustScore 是商家主页在 Trustpilot 上的评分。YesStyle 的评分为 4.4，标签是“Excellent”，共 104,909 条评价，其中 11,757 条发布于最近 12 个月。如页面所示，这个主页由公司认领，并订阅了 Trustpilot 的付费服务。",
-          "同一次读取中的星级分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起来还多，投诉就出现在这里。"
+          "星级分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起来还多，投诉就出现在这里。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -153387,7 +153387,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "谁在评价，来自哪里",
         "paragraphs": [
-          "本次读取的主页（www.yesstyle.com）是全球通用的：它不按国家区分评价，页面也没有说各个国家分别有多少条。这个评分把来自不同国家的买家合在一起，而他们的运费、时效和关税都不一样。",
+          "主页（www.yesstyle.com）是全球通用的：它不按国家区分评价，页面也没有说各个国家分别有多少条。这个评分把来自不同国家的买家合在一起，而他们的运费、时效和关税都不一样。",
           "对准备购买的人来说，这会改变解读方式：评分说明的是商店整体的表现，而不是寄到你的地址会怎样。这个信息在结账页面和商店的运费表里，不在 Trustpilot 上。",
           "运营商店的公司、香港总部和母公司的信息，见 [YesStyle 可靠吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。"
         ]
@@ -153418,7 +153418,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "好评里出现的内容",
         "paragraphs": [
-          "在同一次读取的正面评价里，主题不同："
+          "在正面评价里，主题不同："
         ],
         "bullets": [
           "价格低，促销频繁。",
@@ -153436,26 +153436,26 @@ export const reviewsData: unknown[] = [
         "heading": "商店如何回应",
         "paragraphs": [
           "主页显示，YesStyle 回复了 98% 的负面评价，通常在 24 小时内，并说明回复可能使用人工智能。",
-          "回复不等于解决。我们没有读回复的内容，所以本文不能说这些回复是否解决了投诉者的问题。购买前，可以在主页上打开几条一星评价，读一读商店在每条下面的回复，尤其是关于物流追踪和包裹遗失的。"
+          "回复不等于解决。本文没有评估回复的内容，所以不能说这些回复是否解决了投诉者的问题。购买前，可以在主页上打开几条一星评价，读一读商店在每条下面的回复，尤其是关于物流追踪和包裹遗失的。"
         ]
       },
       {
         "heading": "无法得出的结论",
         "paragraphs": [
-          "评分回答的是一个问题，而不是所有问题。这次读取无法支持的四点："
+          "评分回答的是一个问题，而不是所有问题。这个评分无法支持的四点："
         ],
         "bullets": [
           "评分适用于你所在的国家：主页是全球通用的，不按来源国家区分评价。",
-          "评分衡量的是商品：它把商品、配送和客服合并为一条评价，而我们读到的投诉主题是配送和订单处理。",
-          "商店会解决投诉：主页显示回复率 98% 和回复时间；回复的内容我们没有读。",
+          "评分衡量的是商品：它把商品、配送和客服合并为一条评价，而投诉主题是配送和订单处理。",
+          "商店会解决投诉：主页显示回复率 98% 和回复时间；本文没有评估回复的内容。",
           "Trustpilot 的 AI 摘要说了什么：页面有一段由人工智能生成的摘要，本文没有把它当作来源。"
         ]
       },
       {
         "heading": "我们的检查",
         "paragraphs": [
-          "2026年10月28日，我们在未登录的情况下读取了 YesStyle 在 Trustpilot 的公开主页：评分、评价数量、星级分布、回复率和可见的评价，主题就来自这些评价。11 月又核对了评分、评价数量和星级分布。",
-          "在商店的 App 里，我们做了一次不下单的测试，查看了结账页面：那里有填写奖励码的栏位。",
+          "Trustpilot 的数据来自 YesStyle 的公开主页（无需登录），截至2026年10月28日：评分、评价数量、星级分布、回复率和可见的评价，主题就来自这些评价。到 11 月，评分、评价数量和星级分布已更新。",
+          "商店 App 的结账页面里有填写奖励码的栏位。",
           "Trustpilot 的数字每月都会变化；购买当天请查看主页。"
         ],
         "image": {
@@ -153476,7 +153476,7 @@ export const reviewsData: unknown[] = [
         "heading": "能通过 Trustpilot 信任 YesStyle 吗？",
         "paragraphs": [
           "可以，但有一个范围上的保留：从 Trustpilot 看，评分是好的（TrustScore 4.4，104,909 条评价中 71% 为五星、7% 为一星）。若要判断客服处理情况，还应阅读主页上近期的投诉及回复；回复率并不代表问题已解决。",
-          "前提在于范围，而不在评分。主页是全球通用的，不区分国家，我们读到的投诉都是国际配送问题：延误、物流追踪和包裹遗失。Trustpilot 显示的是商店整体的表现；你所在地址的运费和送达时间，请看结账页面。"
+          "前提在于范围，而不在评分。主页是全球通用的，不区分国家，投诉都是国际配送问题：延误、物流追踪和包裹遗失。Trustpilot 显示的是商店整体的表现；你所在地址的运费和送达时间，请看结账页面。"
         ]
       },
       {
@@ -153491,7 +153491,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "YesStyle 在 Trustpilot 的评分高吗？是的。TrustScore 为 4.4，标签是“Excellent”，104,909 条评价中 71% 为五星、7% 为一星。",
-          "关于 YesStyle 最常见的投诉是什么？我们读到的负面评价，主题都是国际配送：延误和长时间等待、物流追踪停滞、包裹遗失、商品损坏，以及订单卡在处理中。",
+          "关于 YesStyle 最常见的投诉是什么？负面评价，主题都是国际配送：延误和长时间等待、物流追踪停滞、包裹遗失、商品损坏，以及订单卡在处理中。",
           "YesStyle 会回复负面评价吗？根据 Trustpilot 主页，商店回复了 98% 的负面评价，通常在 24 小时内，回复可能使用人工智能。"
         ]
       }
@@ -153559,7 +153559,7 @@ export const reviewsData: unknown[] = [
         "heading": "評分衡量的是什麼",
         "paragraphs": [
           "TrustScore 是商家檔案在 Trustpilot 上的評分。YesStyle 的評分為 4.4，標籤是「Excellent」，共 104,909 則評價，其中 11,757 則發布於最近 12 個月。如頁面所示，這個檔案由公司認領，並訂閱了 Trustpilot 的付費服務。",
-          "同一次讀取中的星級分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起來還多，投訴就出現在這裡。"
+          "星級分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起來還多，投訴就出現在這裡。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
@@ -153575,7 +153575,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "誰在評價，來自哪裡",
         "paragraphs": [
-          "本次讀取的檔案（www.yesstyle.com）是全球通用的：它不按國家區分評價，頁面也沒有說各個國家分別有多少則。這個評分把來自不同國家的買家合在一起，而他們的運費、時效和關稅都不一樣。",
+          "檔案（www.yesstyle.com）是全球通用的：它不按國家區分評價，頁面也沒有說各個國家分別有多少則。這個評分把來自不同國家的買家合在一起，而他們的運費、時效和關稅都不一樣。",
           "對準備購買的人來說，這會改變解讀方式：評分說明的是商店整體的表現，而不是寄到你的地址會怎樣。這個資訊在結帳頁面和商店的運費表裡，不在 Trustpilot 上。",
           "營運商店的公司、香港總部和母公司的資訊，見 [YesStyle 可靠嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。"
         ]
@@ -153606,7 +153606,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "好評裡出現的內容",
         "paragraphs": [
-          "在同一次讀取的正面評價裡，主題不同："
+          "在正面評價裡，主題不同："
         ],
         "bullets": [
           "價格低，促銷頻繁。",
@@ -153624,26 +153624,26 @@ export const reviewsData: unknown[] = [
         "heading": "商店如何回應",
         "paragraphs": [
           "檔案顯示，YesStyle 回覆了 98% 的負評，通常在 24 小時內，並說明回覆可能使用人工智慧。",
-          "回覆不等於解決。我們沒有讀回覆的內容，所以本文不能說這些回覆是否解決了投訴者的問題。購買前，可以在檔案上打開幾則一星評價，讀一讀商店在每則下面的回覆，尤其是關於物流追蹤和包裹遺失的。"
+          "回覆不等於解決。本文沒有評估回覆的內容，所以不能說這些回覆是否解決了投訴者的問題。購買前，可以在檔案上打開幾則一星評價，讀一讀商店在每則下面的回覆，尤其是關於物流追蹤和包裹遺失的。"
         ]
       },
       {
         "heading": "無法得出的結論",
         "paragraphs": [
-          "評分回答的是一個問題，而不是所有問題。這次讀取無法支援的四點："
+          "評分回答的是一個問題，而不是所有問題。這個評分無法支援的四點："
         ],
         "bullets": [
           "評分適用於你所在的國家：檔案是全球通用的，不按來源國家區分評價。",
-          "評分衡量的是商品：它把商品、運送和客服合併為一則評價，而我們讀到的投訴主題是運送和訂單處理。",
-          "商店會解決投訴：檔案顯示回覆率 98% 和回覆時間；回覆的內容我們沒有讀。",
+          "評分衡量的是商品：它把商品、運送和客服合併為一則評價，而投訴主題是運送和訂單處理。",
+          "商店會解決投訴：檔案顯示回覆率 98% 和回覆時間；本文沒有評估回覆的內容。",
           "Trustpilot 的 AI 摘要說了什麼：頁面有一段由人工智慧產生的摘要，本文沒有把它當作來源。"
         ]
       },
       {
         "heading": "我們的檢查",
         "paragraphs": [
-          "2026年10月28日，我們在未登入的情況下讀取了 YesStyle 在 Trustpilot 的公開檔案：評分、評價數量、星級分布、回覆率和可見的評價，主題就來自這些評價。11 月又核對了評分、評價數量和星級分布。",
-          "在商店的 App 裡，我們做了一次不下單的測試，查看了結帳頁面：那裡有填寫獎勵碼的欄位。",
+          "Trustpilot 的資料來自 YesStyle 的公開檔案（無需登入），截至2026年10月28日：評分、評價數量、星級分布、回覆率和可見的評價，主題就來自這些評價。到 11 月，評分、評價數量和星級分布已更新。",
+          "商店 App 的結帳頁面裡有填寫獎勵碼的欄位。",
           "Trustpilot 的數字每個月都會變化；購買當天請查看檔案。"
         ],
         "image": {
@@ -153664,7 +153664,7 @@ export const reviewsData: unknown[] = [
         "heading": "能透過 Trustpilot 信任 YesStyle 嗎？",
         "paragraphs": [
           "可以，但有一個範圍上的保留：從 Trustpilot 看，評分是好的（TrustScore 4.4，104,909 則評價中 71% 為五星、7% 為一星）。若要判斷客服處理情況，還應閱讀檔案上近期的投訴及回覆；回覆率並不代表問題已解決。",
-          "前提在於範圍，而不在評分。檔案是全球通用的，不區分國家，我們讀到的投訴都是國際運送問題：延誤、物流追蹤和包裹遺失。Trustpilot 顯示的是商店整體的表現；你所在地址的運費和送達時間，請看結帳頁面。"
+          "前提在於範圍，而不在評分。檔案是全球通用的，不區分國家，投訴都是國際運送問題：延誤、物流追蹤和包裹遺失。Trustpilot 顯示的是商店整體的表現；你所在地址的運費和送達時間，請看結帳頁面。"
         ]
       },
       {
@@ -153679,7 +153679,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "YesStyle 在 Trustpilot 的評分高嗎？是的。TrustScore 為 4.4，標籤是「Excellent」，104,909 則評價中 71% 為五星、7% 為一星。",
-          "關於 YesStyle 最常見的投訴是什麼？我們讀到的負評，主題都是國際運送：延誤和長時間等待、物流追蹤停滯、包裹遺失、商品損壞，以及訂單卡在處理中。",
+          "關於 YesStyle 最常見的投訴是什麼？負評，主題都是國際運送：延誤和長時間等待、物流追蹤停滯、包裹遺失、商品損壞，以及訂單卡在處理中。",
           "YesStyle 會回覆負評嗎？根據 Trustpilot 檔案，商店回覆了 98% 的負評，通常在 24 小時內，回覆可能使用人工智慧。"
         ]
       }
@@ -153731,7 +153731,7 @@ export const reviewsData: unknown[] = [
     "description": "O que a nota 7,5 da SHEIN no Reclame Aqui mede em novembro, por que produto não recebido lidera as queixas dos últimos três anos e o que a Trustpilot acrescenta.",
     "metaDescription": "SHEIN no Reclame Aqui (maio a outubro): reputação Boa, nota 7,5, 92,2% respondidas. Produto não recebido lidera as queixas dos últimos 3 anos.",
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "Logo da SHEIN e a nota 3,8 da Trustpilot em cinco estrelas, preenchidas até a nota, na leitura de 28/10/2026",
+    "imageAlt": "Logo da SHEIN e a nota 3,8 da Trustpilot em cinco estrelas, preenchidas até a nota, em 28/10/2026",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -153767,9 +153767,9 @@ export const reviewsData: unknown[] = [
         "heading": "O que a nota do Reclame Aqui mede",
         "paragraphs": [
           "A nota do Reclame Aqui mede como a loja atende quem reclama. Ela não mede a qualidade das peças nem a experiência de quem comprou e não reclamou. Entram na conta quatro indicadores do período: a parte das reclamações respondidas, a parte dada como resolvida, a parte de quem voltaria a fazer negócio e a nota que o consumidor dá ao atendimento.",
-          "Na aba de 6 meses, de 01/05/2026 a 31/10/2026, lida em novembro, a SHEIN tinha reputação Boa e nota 7,5. Foram 33.331 reclamações, 92,2% respondidas e 78% resolvidas; 71,3% de quem avaliou disseram que voltariam a fazer negócio, e a nota média do consumidor era 6,36.",
+          "Em novembro, na aba de 6 meses, de 01/05/2026 a 31/10/2026, a SHEIN tinha reputação Boa e nota 7,5. Foram 33.331 reclamações, 92,2% respondidas e 78% resolvidas; 71,3% de quem avaliou disseram que voltariam a fazer negócio, e a nota média do consumidor era 6,36.",
           "Resolvidas, voltariam e a nota do consumidor saem só das reclamações avaliadas: 13.457 das 33.331. Quem não voltou ao site para avaliar a resposta não entra nessa parte da conta.",
-          "Na leitura de outubro, a nota também era 7,5; numa anterior, 7,6."
+          "Em outubro, a nota também era 7,5; antes disso, 7,6."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-reclame-aqui-numeros-2810.webp",
@@ -153784,7 +153784,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Primeiro, quase três em cada dez não voltariam. Entre os 13.457 que avaliaram, 71,3% disseram que voltariam a fazer negócio com a SHEIN. O resto não voltaria.",
           "Segundo, responder não é resolver. A SHEIN respondeu a 92,2% das reclamações, mas, entre quem avaliou, 78% deram o problema como resolvido. A resposta é o primeiro passo; a solução é o que o consumidor confirma depois.",
-          "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 3 dias e 9 horas, e 2.406 reclamações aguardavam resposta na leitura. Quem está com um pedido que não chegou conta esses dias."
+          "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 3 dias e 9 horas, e 2.406 reclamações aguardavam resposta em novembro. Quem está com um pedido que não chegou conta esses dias."
         ]
       },
       {
@@ -153862,9 +153862,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A SHEIN tem boa nota no Reclame Aqui? A reputação era Boa, com nota 7,5 nos últimos seis meses, a mesma da leitura de outubro.",
+          "A SHEIN tem boa nota no Reclame Aqui? A reputação era Boa, com nota 7,5 nos últimos seis meses, a mesma de outubro.",
           "Quais são as reclamações mais comuns sobre a SHEIN? No recorte de 3 anos do Reclame Aqui, o problema mais citado era produto não recebido, com 36,47%, e a categoria mais citada era Moda Feminina, com 19,62%.",
-          "A SHEIN responde às reclamações? Nos últimos seis meses, respondeu a 92,2%, em 3 dias e 9 horas em média, e 2.406 aguardavam resposta na leitura. Entre quem avaliou, 78% deram o problema como resolvido.",
+          "A SHEIN responde às reclamações? Nos últimos seis meses, respondeu a 92,2%, em 3 dias e 9 horas em média, e 2.406 aguardavam resposta em novembro. Entre quem avaliou, 78% deram o problema como resolvido.",
           "A SHEIN tem boa nota na Trustpilot? A nota era 3,8 em 5, com 353.527 avaliações de clientes de vários países. O perfil é global e não separa o Brasil."
         ]
       }
@@ -153896,7 +153896,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "SHEIN logo and five stars filled up to the 3.8 Trustpilot score, in the reading of October 28, 2026",
+    "imageAlt": "SHEIN logo and five stars filled up to the 3.8 Trustpilot score, as of October 28, 2026",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -153905,14 +153905,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. That score came from 353,527 reviews by customers in many countries, and the themes in the negative reviews we read are packages that never arrived and refunds that were late or denied. The profile is global and does not separate countries."
+          "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. That score came from 353,527 reviews by customers in many countries, and the themes in the negative reviews are packages that never arrived and refunds that were late or denied. The profile is global and does not separate countries."
         ]
       },
       {
         "heading": "What the score measures",
         "paragraphs": [
           "The TrustScore is the profile's rating on Trustpilot. It adds up the whole purchase, not only the quality of the items. In November 2026, SHEIN had 3.8, with the label \"Great\", from 353,527 reviews; 22,625 of them were posted in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
-          "The breakdown by star, in the same reading: 59% five stars, 12% four, 6% three, 5% two and 18% one. Five and four stars make up most of the reviews."
+          "The breakdown by star: 59% five stars, 12% four, 6% three, 5% two and 18% one. Five and four stars make up most of the reviews."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
@@ -153926,14 +153926,14 @@ export const reviewsData: unknown[] = [
         "heading": "Three readings that change the picture",
         "paragraphs": [
           "First, the one-star share. 18% of the reviews give one star, more than the 11% of two and three stars combined, and that is where the complaints appear.",
-          "Second, replying is not resolving. SHEIN replied to 98% of negative reviews, usually within 24 hours, and the page notes that the company may use AI in its replies. The text of the replies was not read, so the numbers do not say whether they solved the problem of the person who complained.",
+          "Second, replying is not resolving. SHEIN replied to 98% of negative reviews, usually within 24 hours, and the page notes that the company may use AI in its replies. The numbers do not say whether they solved the problem of the person who complained.",
           "Third, the score is global. The profile does not split reviews by country, and shoppers with different shipping, delivery times and customs rules sit in one rating. How delivery to your country will go is not in this number."
         ]
       },
       {
         "heading": "What the complaints say",
         "paragraphs": [
-          "The negative reviews visible on the profile on October 28, 2026 were read for their themes, without counting or ranking them. They revolve around the package and the money:"
+          "The negative reviews visible on the profile on October 28, 2026 revolve around the package and the money:"
         ],
         "bullets": [
           "A package that was lost, stolen or never delivered, sometimes with a delivery photo the customer disputes.",
@@ -153949,13 +153949,13 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "These are the themes in the reviews we read, not a measure of how often an order goes wrong. They say where to look: the tracking after dispatch, the proof of delivery, the return receipt and the refund request."
+          "These are the themes in the reviews, not a measure of how often an order goes wrong. They say where to look: the tracking after dispatch, the proof of delivery, the return receipt and the refund request."
         ]
       },
       {
         "heading": "What the praise says",
         "paragraphs": [
-          "The positive reviews visible in the same reading were few, so this is a small sample. Their themes are different:"
+          "The positive reviews visible on the profile were few, so this is a small sample. Their themes are different:"
         ],
         "bullets": [
           "Low prices.",
@@ -154007,7 +154007,7 @@ export const reviewsData: unknown[] = [
         "heading": "Can you trust SHEIN based on Trustpilot?",
         "paragraphs": [
           "Going by Trustpilot, the numbers are these: a TrustScore of 3.8, \"Great\", from 353,527 reviews, 59% of them five stars and 18% one star, with 98% of negative reviews answered, usually within 24 hours.",
-          "The caveats are about scope and theme. The profile is global and does not separate countries, so it says how the store behaves overall, not how an order to your address will go. And the negative reviews we read are about packages that never arrived and about refunds that were late or denied: the score alone does not tell you how often that happens."
+          "The caveats are about scope and theme. The profile is global and does not separate countries, so it says how the store behaves overall, not how an order to your address will go. And the negative reviews are about packages that never arrived and about refunds that were late or denied: the score alone does not tell you how often that happens."
         ]
       },
       {
@@ -154024,8 +154024,8 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Does SHEIN have a good score on Trustpilot? The TrustScore was 3.8, with the label \"Great\", from 353,527 reviews; 59% gave five stars and 18% gave one.",
-          "What are the most common complaints about SHEIN? In the negative reviews read, the themes were packages that were lost, stolen or never arrived, sometimes with a disputed delivery photo; refunds that were late or denied, including returns the store said it never received; slow or templated customer service; and product problems such as size, quality, the wrong item or a missing item. The themes were noted, not counted.",
-          "Does SHEIN reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use AI. The text of the replies was not read.",
+          "What are the most common complaints about SHEIN? In the negative reviews, the themes were packages that were lost, stolen or never arrived, sometimes with a disputed delivery photo; refunds that were late or denied, including returns the store said it never received; slow or templated customer service; and product problems such as size, quality, the wrong item or a missing item. These are themes, not counts.",
+          "Does SHEIN reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use AI. The numbers do not say whether the replies solved the problem.",
           "Does the Trustpilot score apply to my country? It does not provide a country-specific result. The global profile combines reviews from different countries; check delivery times and return rules for your destination on SHEIN's official site or app."
         ]
       }
@@ -154074,7 +154074,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "Logo de SHEIN y cinco estrellas rellenas hasta la calificación 3,8 de Trustpilot, en la lectura del 28 de octubre de 2026",
+    "imageAlt": "Logo de SHEIN y cinco estrellas rellenas hasta la calificación 3,8 de Trustpilot, al 28 de octubre de 2026",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -154083,14 +154083,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Esa calificación sale de 353.527 opiniones de clientes de varios países, y los temas de las opiniones negativas leídas son paquetes que no llegaron y reembolsos tardíos o negados. El perfil es global y no separa países."
+          "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Esa calificación sale de 353.527 opiniones de clientes de varios países, y los temas de las opiniones negativas son paquetes que no llegaron y reembolsos tardíos o negados. El perfil es global y no separa países."
         ]
       },
       {
         "heading": "Qué mide la calificación",
         "paragraphs": [
           "El TrustScore es la calificación del perfil en Trustpilot. Suma la compra entera, no solo la calidad de los artículos. En noviembre de 2026, SHEIN tenía 3,8, con la etiqueta \"Great\" en la versión en inglés del sitio, con 353.527 opiniones; 22.625 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene una suscripción de pago, como informa la propia página.",
-          "La distribución por estrellas, en la misma lectura: 59 % de cinco estrellas, 12 % de cuatro, 6 % de tres, 5 % de dos y 18 % de una. Cinco y cuatro estrellas suman la mayor parte."
+          "La distribución por estrellas: 59 % de cinco estrellas, 12 % de cuatro, 6 % de tres, 5 % de dos y 18 % de una. Cinco y cuatro estrellas suman la mayor parte."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
@@ -154104,14 +154104,14 @@ export const reviewsData: unknown[] = [
         "heading": "Tres lecturas que cambian la cuenta",
         "paragraphs": [
           "Primero, el 18 % de una estrella. Casi una de cada cinco opiniones es de una estrella, más que el 11 % de dos y tres estrellas juntas, y es ahí donde aparecen las quejas.",
-          "Segundo, responder no es resolver. SHEIN respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la página avisa que la respuesta puede usar inteligencia artificial. El texto de las respuestas no se leyó, así que los números no dicen si resolvieron el problema de quien se quejó.",
+          "Segundo, responder no es resolver. SHEIN respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la página avisa que la respuesta puede usar inteligencia artificial. Los números no dicen si resolvieron el problema de quien se quejó.",
           "Tercero, la calificación es global. El perfil no separa las opiniones por país, y compradores con envíos, plazos y reglas de aduana distintos caben en una sola nota. Cómo irá la entrega en tu país no está en ese número."
         ]
       },
       {
         "heading": "Qué aparece en las quejas",
         "paragraphs": [
-          "Las opiniones negativas visibles en el perfil el 28 de octubre de 2026 se leyeron para anotar los temas, sin contar ni ordenar. Giran en torno al paquete y al dinero:"
+          "Las opiniones negativas visibles en el perfil el 28 de octubre de 2026 giran en torno al paquete y al dinero:"
         ],
         "bullets": [
           "Paquete perdido, robado o que nunca llegó, a veces con una foto de entrega que el cliente discute.",
@@ -154127,13 +154127,13 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Son los temas de las opiniones leídas, no una medida de con qué frecuencia falla un pedido. Dicen dónde mirar: el seguimiento después del envío, la prueba de entrega, el comprobante de la devolución y la solicitud de reembolso."
+          "Son los temas de las opiniones, no una medida de con qué frecuencia falla un pedido. Dicen dónde mirar: el seguimiento después del envío, la prueba de entrega, el comprobante de la devolución y la solicitud de reembolso."
         ]
       },
       {
         "heading": "Qué aparece en los elogios",
         "paragraphs": [
-          "Las opiniones positivas visibles en la misma lectura eran pocas, así que la muestra es pequeña. Sus temas son otros:"
+          "Las opiniones positivas visibles en el perfil eran pocas, así que la muestra es pequeña. Sus temas son otros:"
         ],
         "bullets": [
           "Precios bajos.",
@@ -154185,7 +154185,7 @@ export const reviewsData: unknown[] = [
         "heading": "¿Se puede confiar en SHEIN por Trustpilot?",
         "paragraphs": [
           "Por Trustpilot, los números son estos: TrustScore 3,8, \"Great\", con 353.527 opiniones, 59 % de cinco estrellas y 18 % de una, y el 98 % de las negativas respondidas, en general en menos de 24 horas.",
-          "Las salvedades son de alcance y de tema. El perfil es global y no separa países, así que dice cómo se comporta la tienda en conjunto, no cómo irá un pedido a tu dirección. Y las opiniones negativas leídas tratan de paquetes que no llegaron y de reembolsos tardíos o negados: la calificación sola no dice con qué frecuencia pasa."
+          "Las salvedades son de alcance y de tema. El perfil es global y no separa países, así que dice cómo se comporta la tienda en conjunto, no cómo irá un pedido a tu dirección. Y las opiniones negativas tratan de paquetes que no llegaron y de reembolsos tardíos o negados: la calificación sola no dice con qué frecuencia pasa."
         ]
       },
       {
@@ -154202,8 +154202,8 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿SHEIN tiene buena calificación en Trustpilot? El TrustScore era 3,8, con la etiqueta \"Great\", con 353.527 opiniones; el 59 % daba cinco estrellas y el 18 %, una.",
-          "¿Cuáles son las quejas más comunes sobre SHEIN? En las opiniones negativas leídas, los temas eran paquetes perdidos, robados o que nunca llegaron, a veces con una foto de entrega discutida; reembolsos tardíos o negados, incluidas devoluciones que la tienda dijo no haber recibido; atención lenta o estandarizada; y problemas de producto como talla, calidad, artículo equivocado o faltante. Se anotaron temas, sin contarlos.",
-          "¿SHEIN responde a las opiniones negativas? Según el perfil de Trustpilot, la tienda respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la respuesta puede usar inteligencia artificial. El texto de las respuestas no se leyó.",
+          "¿Cuáles son las quejas más comunes sobre SHEIN? En las opiniones negativas, los temas eran paquetes perdidos, robados o que nunca llegaron, a veces con una foto de entrega discutida; reembolsos tardíos o negados, incluidas devoluciones que la tienda dijo no haber recibido; atención lenta o estandarizada; y problemas de producto como talla, calidad, artículo equivocado o faltante. Son temas, no un recuento.",
+          "¿SHEIN responde a las opiniones negativas? Según el perfil de Trustpilot, la tienda respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la respuesta puede usar inteligencia artificial. Los números no dicen si las respuestas resolvieron el problema.",
           "¿La calificación de Trustpilot vale para mi país? No ofrece un resultado específico por país. El perfil global reúne opiniones de varios países; consulta los plazos de entrega y las reglas de devolución de tu destino en el sitio o la app oficial de SHEIN."
         ]
       }
@@ -154252,7 +154252,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "Logo de SHEIN et cinq étoiles remplies jusqu’à la note de 3,8 sur Trustpilot, dans la lecture du 28 octobre 2026",
+    "imageAlt": "Logo de SHEIN et cinq étoiles remplies jusqu’à la note de 3,8 sur Trustpilot, au 28 octobre 2026",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -154261,14 +154261,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Cette note vient de 353 527 avis de clients de nombreux pays, et les thèmes des avis négatifs lus sont des colis jamais reçus et des remboursements tardifs ou refusés. Le profil est mondial et ne distingue pas les pays."
+          "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Cette note vient de 353 527 avis de clients de nombreux pays, et les thèmes des avis négatifs sont des colis jamais reçus et des remboursements tardifs ou refusés. Le profil est mondial et ne distingue pas les pays."
         ]
       },
       {
         "heading": "Ce que mesure la note",
         "paragraphs": [
           "Le TrustScore est la note du profil sur Trustpilot. Elle additionne l’achat tout entier, pas seulement la qualité des articles. En novembre 2026, SHEIN avait 3,8, avec la mention « Great » sur la version anglaise du site, pour 353 527 avis ; 22 625 d’entre eux ont été publiés au cours des 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme la page elle-même l’indique.",
-          "La répartition par étoile, dans la même lecture : 59 % de cinq étoiles, 12 % de quatre, 6 % de trois, 5 % de deux et 18 % d’une. Cinq et quatre étoiles représentent la plus grande part."
+          "La répartition par étoile : 59 % de cinq étoiles, 12 % de quatre, 6 % de trois, 5 % de deux et 18 % d’une. Cinq et quatre étoiles représentent la plus grande part."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
@@ -154282,14 +154282,14 @@ export const reviewsData: unknown[] = [
         "heading": "Trois lectures qui changent le calcul",
         "paragraphs": [
           "Premièrement, les 18 % d’une étoile. Près d’un avis sur cinq est à une étoile, soit plus que les 11 % de deux et trois étoiles réunies, et c’est là que les plaintes apparaissent.",
-          "Deuxièmement, répondre n’est pas résoudre. SHEIN a répondu à 98 % des avis négatifs, en général sous 24 heures, et la page précise que la réponse peut faire appel à l’intelligence artificielle. Le texte des réponses n’a pas été lu, donc les chiffres ne disent pas si elles ont réglé le problème de la personne qui s’est plainte.",
+          "Deuxièmement, répondre n’est pas résoudre. SHEIN a répondu à 98 % des avis négatifs, en général sous 24 heures, et la page précise que la réponse peut faire appel à l’intelligence artificielle. Les chiffres ne disent pas si elles ont réglé le problème de la personne qui s’est plainte.",
           "Troisièmement, la note est mondiale. Le profil ne sépare pas les avis par pays, et des acheteurs soumis à des frais de port, des délais et des règles de douane différents entrent dans une seule note. Comment se passera la livraison dans votre pays n’est pas dans ce chiffre."
         ]
       },
       {
         "heading": "Ce qui ressort des plaintes",
         "paragraphs": [
-          "Les avis négatifs visibles sur le profil le 28 octobre 2026 ont été lus pour en noter les thèmes, sans les compter ni les classer. Ils tournent autour du colis et de l’argent :"
+          "Les avis négatifs visibles sur le profil le 28 octobre 2026 tournent autour du colis et de l’argent :"
         ],
         "bullets": [
           "Colis perdu, volé ou jamais reçu, parfois avec une photo de livraison que le client conteste.",
@@ -154305,13 +154305,13 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Ce sont les thèmes des avis lus, pas une mesure de la fréquence des problèmes. Ils disent où regarder : le suivi après l’expédition, la preuve de livraison, le justificatif du retour et la demande de remboursement."
+          "Ce sont les thèmes des avis, pas une mesure de la fréquence des problèmes. Ils disent où regarder : le suivi après l’expédition, la preuve de livraison, le justificatif du retour et la demande de remboursement."
         ]
       },
       {
         "heading": "Ce qui ressort des éloges",
         "paragraphs": [
-          "Les avis positifs visibles dans la même lecture étaient peu nombreux, donc l’échantillon est petit. Leurs thèmes sont différents :"
+          "Les avis positifs visibles sur le profil étaient peu nombreux, donc l’échantillon est petit. Leurs thèmes sont différents :"
         ],
         "bullets": [
           "Des prix bas.",
@@ -154363,7 +154363,7 @@ export const reviewsData: unknown[] = [
         "heading": "Peut-on faire confiance à SHEIN d’après Trustpilot ?",
         "paragraphs": [
           "D’après Trustpilot, les chiffres sont ceux-ci : un TrustScore de 3,8, « Great », pour 353 527 avis, dont 59 % à cinq étoiles et 18 % à une étoile, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
-          "Les réserves portent sur le périmètre et sur le thème. Le profil est mondial et ne distingue pas les pays : il dit comment la boutique se comporte dans l’ensemble, pas comment se passera une commande à votre adresse. Et les avis négatifs lus parlent de colis jamais reçus et de remboursements tardifs ou refusés : la note seule ne dit pas à quelle fréquence cela arrive."
+          "Les réserves portent sur le périmètre et sur le thème. Le profil est mondial et ne distingue pas les pays : il dit comment la boutique se comporte dans l’ensemble, pas comment se passera une commande à votre adresse. Et les avis négatifs parlent de colis jamais reçus et de remboursements tardifs ou refusés : la note seule ne dit pas à quelle fréquence cela arrive."
         ]
       },
       {
@@ -154380,8 +154380,8 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "La note de SHEIN sur Trustpilot est-elle bonne ? Le TrustScore était de 3,8, avec la mention « Great », pour 353 527 avis ; 59 % donnaient cinq étoiles et 18 %, une seule.",
-          "Quelles sont les plaintes les plus fréquentes sur SHEIN ? Dans les avis négatifs lus, les thèmes étaient des colis perdus, volés ou jamais reçus, parfois avec une photo de livraison contestée ; des remboursements tardifs ou refusés, y compris des retours que la boutique dit ne pas avoir reçus ; un service client lent ou standardisé ; et des problèmes de produit comme la taille, la qualité, un mauvais article ou un article manquant. Les thèmes ont été notés, sans être comptés.",
-          "SHEIN répond-il aux avis négatifs ? Selon le profil Trustpilot, la boutique a répondu à 98 % des avis négatifs, en général sous 24 heures, et la réponse peut faire appel à l’intelligence artificielle. Le texte des réponses n’a pas été lu.",
+          "Quelles sont les plaintes les plus fréquentes sur SHEIN ? Dans les avis négatifs, les thèmes étaient des colis perdus, volés ou jamais reçus, parfois avec une photo de livraison contestée ; des remboursements tardifs ou refusés, y compris des retours que la boutique dit ne pas avoir reçus ; un service client lent ou standardisé ; et des problèmes de produit comme la taille, la qualité, un mauvais article ou un article manquant. Ce sont des thèmes, pas un décompte.",
+          "SHEIN répond-il aux avis négatifs ? Selon le profil Trustpilot, la boutique a répondu à 98 % des avis négatifs, en général sous 24 heures, et la réponse peut faire appel à l’intelligence artificielle. Les chiffres ne disent pas si les réponses ont réglé le problème.",
           "La note Trustpilot vaut-elle pour mon pays ? Elle ne fournit pas de résultat propre à un pays. Le profil mondial regroupe des avis de plusieurs pays ; consultez les délais et les règles de retour de votre destination sur le site ou l’application officielle de SHEIN."
         ]
       }
@@ -154430,7 +154430,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "Logo di SHEIN e cinque stelle riempite fino al punteggio 3,8 di Trustpilot, nella lettura del 28 ottobre 2026",
+    "imageAlt": "Logo di SHEIN e cinque stelle riempite fino al punteggio 3,8 di Trustpilot, al 28 ottobre 2026",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -154439,14 +154439,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Il punteggio viene da 353.527 recensioni di clienti di molti paesi, e i temi delle recensioni negative lette sono i pacchi non consegnati e i rimborsi in ritardo o negati. Il profilo è globale e non separa i paesi."
+          "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Il punteggio viene da 353.527 recensioni di clienti di molti paesi, e i temi delle recensioni negative sono i pacchi non consegnati e i rimborsi in ritardo o negati. Il profilo è globale e non separa i paesi."
         ]
       },
       {
         "heading": "Cosa misura il punteggio",
         "paragraphs": [
           "Il TrustScore è il punteggio del profilo su Trustpilot. Somma l’acquisto intero, non solo la qualità degli articoli. A novembre 2026 SHEIN aveva 3,8, con l’etichetta «Great», su 353.527 recensioni; 22.625 di queste erano state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
-          "La distribuzione per stelle, nella stessa lettura: 59% di cinque stelle, 12% di quattro, 6% di tre, 5% di due e 18% di una. Cinque e quattro stelle insieme fanno la maggior parte."
+          "La distribuzione per stelle: 59% di cinque stelle, 12% di quattro, 6% di tre, 5% di due e 18% di una. Cinque e quattro stelle insieme fanno la maggior parte."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
@@ -154460,14 +154460,14 @@ export const reviewsData: unknown[] = [
         "heading": "Tre letture che cambiano il conto",
         "paragraphs": [
           "Primo, il 18% di una stella. Circa una recensione su cinque è da una stella, più dell’11% di due e tre stelle messe insieme, ed è lì che compaiono i reclami.",
-          "Secondo, rispondere non è risolvere. SHEIN ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la pagina avverte che la risposta può usare l’intelligenza artificiale. Il testo delle risposte non è stato letto, quindi i numeri non dicono se abbiano risolto il problema di chi si è lamentato.",
+          "Secondo, rispondere non è risolvere. SHEIN ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la pagina avverte che la risposta può usare l’intelligenza artificiale. I numeri non dicono se abbiano risolto il problema di chi si è lamentato.",
           "Terzo, il punteggio è globale. Il profilo non separa le recensioni per paese, e clienti con spedizioni, tempi e dogane diverse stanno in un’unica valutazione. Come andrà la consegna nel tuo paese non sta in questo numero."
         ]
       },
       {
         "heading": "Cosa compare nei reclami",
         "paragraphs": [
-          "Le recensioni negative visibili sul profilo il 28 ottobre 2026 sono state lette per annotarne i temi, senza contarle né metterle in ordine. Ruotano intorno al pacco e ai soldi:"
+          "Le recensioni negative visibili sul profilo il 28 ottobre 2026 ruotano intorno al pacco e ai soldi:"
         ],
         "bullets": [
           "Pacco perso, rubato o non consegnato, a volte con una foto di consegna che il cliente contesta.",
@@ -154483,13 +154483,13 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Sono i temi delle recensioni lette, non una misura di quanto spesso un ordine va storto. Indicano dove guardare: il tracciamento dopo la spedizione, la prova di consegna, la ricevuta del reso e la richiesta di rimborso."
+          "Sono i temi delle recensioni, non una misura di quanto spesso un ordine va storto. Indicano dove guardare: il tracciamento dopo la spedizione, la prova di consegna, la ricevuta del reso e la richiesta di rimborso."
         ]
       },
       {
         "heading": "Cosa compare negli elogi",
         "paragraphs": [
-          "Le recensioni positive visibili nella stessa lettura erano poche, quindi il campione è piccolo. I temi sono altri:"
+          "Le recensioni positive visibili sul profilo erano poche, quindi il campione è piccolo. I temi sono altri:"
         ],
         "bullets": [
           "Prezzi bassi.",
@@ -154541,7 +154541,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ci si può fidare di SHEIN guardando Trustpilot?",
         "paragraphs": [
           "Da Trustpilot, i numeri sono questi: TrustScore 3,8, «Great», su 353.527 recensioni, il 59% di cinque stelle e il 18% di una, con risposta al 98% delle negative, di solito entro 24 ore.",
-          "Le riserve sono di ambito e di tema. Il profilo è globale e non separa i paesi, quindi dice come si comporta il negozio nell’insieme, non come andrà un ordine al tuo indirizzo. E le recensioni negative lette parlano di pacchi non consegnati e di rimborsi in ritardo o negati: il punteggio da solo non dice quanto spesso succeda."
+          "Le riserve sono di ambito e di tema. Il profilo è globale e non separa i paesi, quindi dice come si comporta il negozio nell’insieme, non come andrà un ordine al tuo indirizzo. E le recensioni negative parlano di pacchi non consegnati e di rimborsi in ritardo o negati: il punteggio da solo non dice quanto spesso succeda."
         ]
       },
       {
@@ -154558,8 +154558,8 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "SHEIN ha un buon punteggio su Trustpilot? Il TrustScore era 3,8, con l’etichetta «Great», su 353.527 recensioni; il 59% dava cinque stelle e il 18% una.",
-          "Quali sono i reclami più comuni su SHEIN? Nelle recensioni negative lette, i temi erano pacchi persi, rubati o mai arrivati, a volte con una foto di consegna contestata; rimborsi in ritardo o negati, compresi resi che il negozio dice di non aver ricevuto; assistenza lenta o con risposte standard; e problemi con il prodotto, come taglia, qualità, articolo sbagliato o mancante. I temi sono stati annotati, non contati.",
-          "SHEIN risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale. Il testo delle risposte non è stato letto.",
+          "Quali sono i reclami più comuni su SHEIN? Nelle recensioni negative, i temi erano pacchi persi, rubati o mai arrivati, a volte con una foto di consegna contestata; rimborsi in ritardo o negati, compresi resi che il negozio dice di non aver ricevuto; assistenza lenta o con risposte standard; e problemi con il prodotto, come taglia, qualità, articolo sbagliato o mancante. Sono temi, non un conteggio.",
+          "SHEIN risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale. I numeri non dicono se le risposte abbiano risolto il problema.",
           "Il punteggio Trustpilot vale per il mio paese? Non dà un risultato specifico per paese. Il profilo globale raccoglie recensioni da più paesi; consulta tempi di consegna e regole di reso della tua destinazione sul sito o sull’app ufficiale di SHEIN."
         ]
       }
@@ -154608,7 +154608,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "SHEIN-Logo und fünf Sterne, gefüllt bis zur Trustpilot-Bewertung 3,8, in der Ablesung vom 28. Oktober 2026",
+    "imageAlt": "SHEIN-Logo und fünf Sterne, gefüllt bis zur Trustpilot-Bewertung 3,8, Stand 28. Oktober 2026",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -154617,14 +154617,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Die Zahl stammt aus 353.527 Bewertungen von Kunden aus vielen Ländern, und die Themen der gelesenen negativen Bewertungen sind nicht zugestellte Pakete sowie verspätete oder abgelehnte Erstattungen. Das Profil ist global und trennt nicht nach Ländern."
+          "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Die Zahl stammt aus 353.527 Bewertungen von Kunden aus vielen Ländern, und die Themen der negativen Bewertungen sind nicht zugestellte Pakete sowie verspätete oder abgelehnte Erstattungen. Das Profil ist global und trennt nicht nach Ländern."
         ]
       },
       {
         "heading": "Was die Bewertung misst",
         "paragraphs": [
           "Der TrustScore ist die Bewertung des Profils auf Trustpilot. Sie fasst den ganzen Kauf zusammen, nicht nur die Qualität der Artikel. Im November 2026 hatte SHEIN 3,8 mit dem Etikett „Great“, aus 353.527 Bewertungen; 22.625 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil ist vom Unternehmen beansprucht und hat ein kostenpflichtiges Trustpilot-Abo, wie die Seite selbst angibt.",
-          "Die Verteilung nach Sternen, in derselben Ablesung: 59 % fünf Sterne, 12 % vier, 6 % drei, 5 % zwei und 18 % ein Stern. Fünf und vier Sterne machen zusammen den größten Teil aus."
+          "Die Verteilung nach Sternen: 59 % fünf Sterne, 12 % vier, 6 % drei, 5 % zwei und 18 % ein Stern. Fünf und vier Sterne machen zusammen den größten Teil aus."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
@@ -154638,14 +154638,14 @@ export const reviewsData: unknown[] = [
         "heading": "Drei Lesarten, die die Rechnung ändern",
         "paragraphs": [
           "Erstens: die 18 % mit einem Stern. Rund jede fünfte Bewertung hat einen Stern, mehr als die 11 % mit zwei und drei Sternen zusammen, und dort stehen die Beschwerden.",
-          "Zweitens: Antworten heißt nicht lösen. SHEIN hat auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Seite weist darauf hin, dass die Antwort KI nutzen kann. Der Text der Antworten wurde nicht gelesen, die Zahlen sagen also nicht, ob sie das Problem der Beschwerdeführer gelöst haben.",
+          "Zweitens: Antworten heißt nicht lösen. SHEIN hat auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Seite weist darauf hin, dass die Antwort KI nutzen kann. Die Zahlen sagen also nicht, ob sie das Problem der Beschwerdeführer gelöst haben.",
           "Drittens: Die Zahl ist global. Das Profil trennt die Bewertungen nicht nach Land, und Kunden mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll stecken in einer einzigen Bewertung. Wie die Zustellung in Ihr Land läuft, steht nicht in dieser Zahl."
         ]
       },
       {
         "heading": "Was in den Beschwerden steht",
         "paragraphs": [
-          "Die am 28. Oktober 2026 im Profil sichtbaren negativen Bewertungen wurden gelesen, um die Themen zu notieren, ohne sie zu zählen oder zu ordnen. Sie drehen sich um das Paket und das Geld:"
+          "Die am 28. Oktober 2026 im Profil sichtbaren negativen Bewertungen drehen sich um das Paket und das Geld:"
         ],
         "bullets": [
           "Paket verloren, gestohlen oder nicht zugestellt, manchmal mit einem Zustellfoto, das der Kunde anzweifelt.",
@@ -154661,13 +154661,13 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Das sind die Themen der gelesenen Bewertungen, kein Maß dafür, wie oft eine Bestellung schiefgeht. Sie zeigen, wohin Sie schauen sollten: auf die Sendungsverfolgung nach dem Versand, den Zustellnachweis, den Beleg der Rücksendung und den Erstattungsantrag."
+          "Das sind die Themen der Bewertungen, kein Maß dafür, wie oft eine Bestellung schiefgeht. Sie zeigen, wohin Sie schauen sollten: auf die Sendungsverfolgung nach dem Versand, den Zustellnachweis, den Beleg der Rücksendung und den Erstattungsantrag."
         ]
       },
       {
         "heading": "Was im Lob steht",
         "paragraphs": [
-          "Die in derselben Ablesung sichtbaren positiven Bewertungen waren wenige, die Stichprobe ist also klein. Ihre Themen sind andere:"
+          "Die im Profil sichtbaren positiven Bewertungen waren wenige, die Stichprobe ist also klein. Ihre Themen sind andere:"
         ],
         "bullets": [
           "Niedrige Preise.",
@@ -154719,7 +154719,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kann man SHEIN nach Trustpilot vertrauen?",
         "paragraphs": [
           "Nach Trustpilot sind die Zahlen diese: ein TrustScore von 3,8, „Great“, aus 353.527 Bewertungen, 59 % mit fünf Sternen und 18 % mit einem Stern, und 98 % der negativen Bewertungen mit einer Antwort, meist innerhalb von 24 Stunden.",
-          "Die Vorbehalte betreffen den Rahmen und das Thema. Das Profil ist global und trennt nicht nach Ländern, es sagt also, wie sich der Shop insgesamt verhält, nicht, wie eine Bestellung an Ihre Adresse läuft. Und die gelesenen negativen Bewertungen handeln von nicht zugestellten Paketen und von verspäteten oder abgelehnten Erstattungen: Die Zahl allein sagt nicht, wie oft das passiert."
+          "Die Vorbehalte betreffen den Rahmen und das Thema. Das Profil ist global und trennt nicht nach Ländern, es sagt also, wie sich der Shop insgesamt verhält, nicht, wie eine Bestellung an Ihre Adresse läuft. Und die negativen Bewertungen handeln von nicht zugestellten Paketen und von verspäteten oder abgelehnten Erstattungen: Die Zahl allein sagt nicht, wie oft das passiert."
         ]
       },
       {
@@ -154736,8 +154736,8 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Hat SHEIN eine gute Bewertung auf Trustpilot? Der TrustScore lag bei 3,8 mit dem Etikett „Great“, aus 353.527 Bewertungen; 59 % gaben fünf Sterne und 18 % einen.",
-          "Was sind die häufigsten Beschwerden über SHEIN? In den gelesenen negativen Bewertungen waren die Themen verlorene, gestohlene oder nie angekommene Pakete, manchmal mit einem angezweifelten Zustellfoto; verspätete oder abgelehnte Erstattungen, auch bei Rücksendungen, die der Shop nach eigenen Angaben nicht erhalten hat; langsamer Kundenservice oder Standardantworten; und Produktprobleme wie Größe, Qualität, falscher oder fehlender Artikel. Die Themen wurden notiert, nicht gezählt.",
-          "Antwortet SHEIN auf negative Bewertungen? Laut dem Trustpilot-Profil hat der Shop auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Antwort kann KI nutzen. Der Text der Antworten wurde nicht gelesen.",
+          "Was sind die häufigsten Beschwerden über SHEIN? In den negativen Bewertungen waren die Themen verlorene, gestohlene oder nie angekommene Pakete, manchmal mit einem angezweifelten Zustellfoto; verspätete oder abgelehnte Erstattungen, auch bei Rücksendungen, die der Shop nach eigenen Angaben nicht erhalten hat; langsamer Kundenservice oder Standardantworten; und Produktprobleme wie Größe, Qualität, falscher oder fehlender Artikel. Das sind Themen, keine Zählung.",
+          "Antwortet SHEIN auf negative Bewertungen? Laut dem Trustpilot-Profil hat der Shop auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Antwort kann KI nutzen. Die Zahlen sagen nicht, ob die Antworten das Problem gelöst haben.",
           "Gilt die Trustpilot-Bewertung für mein Land? Sie liefert kein länderspezifisches Ergebnis. Das globale Profil umfasst Bewertungen aus mehreren Ländern; prüfen Sie Lieferzeiten und Rückgaberegeln für Ihr Ziel auf der offiziellen SHEIN-Website oder in der App."
         ]
       }
@@ -154786,7 +154786,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "SHEIN のロゴと、Trustpilot の評価 3.8 まで塗られた 5 つの星。2026年10月28日の確認",
+    "imageAlt": "SHEIN のロゴと、Trustpilot の評価 3.8 まで塗られた 5 つの星。2026年10月28日時点",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -154795,14 +154795,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "評価は良好ですが、注意が要ります。SHEIN の Trustpilot の TrustScore は 5 点満点で 3.8、ラベルは「Great」で、各国の顧客による 353,527 件のレビューに基づいています。読んだ否定的なレビューのテーマは届かない荷物と返金で、星 1 つは 18% です。"
+          "評価は良好ですが、注意が要ります。SHEIN の Trustpilot の TrustScore は 5 点満点で 3.8、ラベルは「Great」で、各国の顧客による 353,527 件のレビューに基づいています。否定的なレビューのテーマは届かない荷物と返金で、星 1 つは 18% です。"
         ]
       },
       {
         "heading": "この評価が測っているもの",
         "paragraphs": [
-          "TrustScore は、Trustpilot 上のプロフィールの評価です。2026年11月に確認した時点で、SHEIN は 3.8、レビューは 353,527 件で、そのうち 22,625 件は直近 12 か月のものでした。プロフィールは企業が請求済みで、ページに書かれているとおり Trustpilot の有料契約があります。",
-          "同じ日の星ごとの分布は、星 5 つが 59%、星 4 つが 12%、星 3 つが 6%、星 2 つが 5%、星 1 つが 18% でした。星 5 つと星 4 つで大半を占めています。",
+          "TrustScore は、Trustpilot 上のプロフィールの評価です。2026年11月時点で、SHEIN は 3.8、レビューは 353,527 件で、そのうち 22,625 件は直近 12 か月のものでした。プロフィールは企業が請求済みで、ページに書かれているとおり Trustpilot の有料契約があります。",
+          "星ごとの分布は、星 5 つが 59%、星 4 つが 12%、星 3 つが 6%、星 2 つが 5%、星 1 つが 18% でした。星 5 つと星 4 つで大半を占めています。",
           "この評価は、商品の質ではなく、レビューを書いた人の受け止め方をまとめたものです。商品、配送、対応がひとつの星にまとまっています。"
         ],
         "image": {
@@ -154817,14 +154817,14 @@ export const reviewsData: unknown[] = [
         "heading": "数字の読み方を変える三つのこと",
         "paragraphs": [
           "一つ目は、星 1 つの 18% です。約 5 件に 1 件は最低評価で、星 2 つと星 3 つを合わせた 11% より多くなっています。",
-          "二つ目は、返信と解決は別だということです。SHEIN は否定的なレビューの 98% に返信しており、多くは 24 時間以内です。ページには、返信に AI を使うことがあるとも書かれています。ただ、返信の本文は読んでいないので、苦情を出した人の問題が解決したかどうかは数字からは分かりません。",
+          "二つ目は、返信と解決は別だということです。SHEIN は否定的なレビューの 98% に返信しており、多くは 24 時間以内です。ページには、返信に AI を使うことがあるとも書かれています。ただ、苦情を出した人の問題が解決したかどうかは数字からは分かりません。",
           "三つ目は、数字が世界共通だということです。プロフィールは国別に分かれておらず、送料、配送期間、関税の条件が違う国々の顧客がひとつの評価に入っています。お住まいの国での配送がどうなるかは、この数字からは分かりません。"
         ]
       },
       {
         "heading": "苦情に出てくること",
         "paragraphs": [
-          "2026年10月28日にプロフィールで見られた否定的なレビューを読み、テーマを書き出しました。件数は数えず、順位も付けていません。テーマは配送と返金です："
+          "2026年10月28日にプロフィールで見られた否定的なレビューのテーマは配送と返金です："
         ],
         "bullets": [
           "荷物の紛失、盗難、未着。顧客が納得していない配達完了の写真が添えられていることもあります。",
@@ -154846,7 +154846,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "称賛に出てくること",
         "paragraphs": [
-          "同じ日に読んだ肯定的なレビューのテーマは別でした。目に入った称賛のサンプルは小さかったので、下の点は目安であり、割合ではありません："
+          "プロフィールで見られる肯定的なレビューのテーマは別でした。目に入った称賛のサンプルは小さかったので、下の点は目安であり、割合ではありません："
         ],
         "bullets": [
           "価格が安い。",
@@ -154861,7 +154861,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot：誰が、どこから評価しているか",
         "paragraphs": [
-          "読んだプロフィールは www.shein.com のもので、世界共通です。レビューは国別に分かれておらず、お住まいの国やほかの国から何件来ているかはページに書かれていません。",
+          "対象のプロフィールは www.shein.com のもので、世界共通です。レビューは国別に分かれておらず、お住まいの国やほかの国から何件来ているかはページに書かれていません。",
           "Trustpilot のイギリス向け地域サイトでも、同じプロフィールと同じ数字が表示されました。この評価は店が全体としてどう振る舞っているかを示すもので、あなたの住所への配送を示すものではありません。"
         ],
         "image": {
@@ -154897,7 +154897,7 @@ export const reviewsData: unknown[] = [
         "heading": "Trustpilot を見て SHEIN は信頼できる？",
         "paragraphs": [
           "Trustpilot で見ると、SHEIN は評価が良く、返信もしています。2026年11月時点で TrustScore 3.8、レビュー 353,527 件のうち 59% が星 5 つで、否定的なレビューの 98% に返信がありました。",
-          "注意点は三つです。読んだ否定的なレビューのテーマが届かない荷物と返金で、星 1 つが 18% あること。返信率は高くても、問題が解決したことまでは示さないこと。そして、プロフィールは世界共通で、お住まいの国の配送を示すものではないことです。"
+          "注意点は三つです。否定的なレビューのテーマが届かない荷物と返金で、星 1 つが 18% あること。返信率は高くても、問題が解決したことまでは示さないこと。そして、プロフィールは世界共通で、お住まいの国の配送を示すものではないことです。"
         ]
       },
       {
@@ -154914,7 +154914,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN の Trustpilot の評価は良いですか？TrustScore は 5 点満点で 3.8、ラベルは「Great」で、レビューは 353,527 件、そのうち星 5 つが 59%、星 1 つが 18% でした。",
           "SHEIN についてよくある苦情は何ですか？否定的なレビューのテーマは、荷物の紛失や未着、返金の遅れや拒否、遅いか定型文の対応、そしてサイズ、品質、違う商品といった商品の問題でした。",
-          "SHEIN は否定的なレビューに返信していますか？否定的なレビューの 98% に、多くは 24 時間以内に返信しており、返信に AI を使うことがあります。返信の本文は読んでいません。",
+          "SHEIN は否定的なレビューに返信していますか？否定的なレビューの 98% に、多くは 24 時間以内に返信しており、返信に AI を使うことがあります。返信が問題を解決したかどうかは、数字からは分かりません。",
           "Trustpilot の評価は国別ですか？いいえ。SHEIN のプロフィールは世界共通で、レビューを国別に分けていません。"
         ]
       }
@@ -154963,7 +154963,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "SHEIN 로고와 별 다섯 개, 2026년 10월 28일에 확인한 Trustpilot 평점 3.8까지 채워진 모습",
+    "imageAlt": "SHEIN 로고와 별 다섯 개, 2026년 10월 28일 기준 Trustpilot 평점 3.8까지 채워진 모습",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -154972,14 +154972,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 답변",
         "paragraphs": [
-          "평점은 괜찮은 편이지만 단서가 있습니다. SHEIN의 Trustpilot TrustScore는 5점 만점에 3.8이고 표시는 \"Great\"이며, 여러 나라 고객이 남긴 리뷰 353,527건을 바탕으로 합니다. 읽은 부정적 리뷰의 주제는 받지 못한 소포와 환불이고, 별 한 개는 18%입니다."
+          "평점은 괜찮은 편이지만 단서가 있습니다. SHEIN의 Trustpilot TrustScore는 5점 만점에 3.8이고 표시는 \"Great\"이며, 여러 나라 고객이 남긴 리뷰 353,527건을 바탕으로 합니다. 부정적 리뷰의 주제는 받지 못한 소포와 환불이고, 별 한 개는 18%입니다."
         ]
       },
       {
         "heading": "평점이 측정하는 것",
         "paragraphs": [
-          "TrustScore는 Trustpilot 프로필의 평점입니다. 2026년 11월에 확인한 SHEIN의 TrustScore는 3.8이고, 리뷰는 353,527건이며, 그중 22,625건이 최근 12개월 안에 올라왔습니다. 프로필은 회사가 인증해 관리하며, 페이지에 적힌 대로 Trustpilot 유료 구독을 이용합니다.",
-          "같은 날의 별점 분포는 별 다섯 개 59%, 네 개 12%, 세 개 6%, 두 개 5%, 한 개 18%입니다. 다섯 개와 네 개가 대부분을 차지합니다.",
+          "TrustScore는 Trustpilot 프로필의 평점입니다. 2026년 11월 기준 SHEIN의 TrustScore는 3.8이고, 리뷰는 353,527건이며, 그중 22,625건이 최근 12개월 안에 올라왔습니다. 프로필은 회사가 인증해 관리하며, 페이지에 적힌 대로 Trustpilot 유료 구독을 이용합니다.",
+          "별점 분포는 별 다섯 개 59%, 네 개 12%, 세 개 6%, 두 개 5%, 한 개 18%입니다. 다섯 개와 네 개가 대부분을 차지합니다.",
           "이 평점은 상품의 품질이 아니라 리뷰를 쓴 사람들의 평가를 모은 것입니다. 상품, 배송, 고객 지원이 별점 하나에 함께 들어갑니다."
         ],
         "image": {
@@ -154994,14 +154994,14 @@ export const reviewsData: unknown[] = [
         "heading": "숫자를 다르게 읽게 하는 세 가지",
         "paragraphs": [
           "첫째, 별 한 개 18%입니다. 다섯 건 중 한 건 가까이가 최저 평점이고, 이는 별 두 개와 세 개를 합친 11%보다 많습니다.",
-          "둘째, 답변과 해결은 다릅니다. SHEIN은 부정적 리뷰의 98%에 답했고 보통 24시간 이내였습니다. 페이지는 답변에 AI를 쓸 수 있다고도 알립니다. 다만 답변의 본문은 읽지 않았으므로, 불만을 제기한 사람의 문제가 해결되었는지는 숫자로 알 수 없습니다.",
+          "둘째, 답변과 해결은 다릅니다. SHEIN은 부정적 리뷰의 98%에 답했고 보통 24시간 이내였습니다. 페이지는 답변에 AI를 쓸 수 있다고도 알립니다. 다만 불만을 제기한 사람의 문제가 해결되었는지는 숫자로 알 수 없습니다.",
           "셋째, 숫자는 글로벌입니다. 프로필은 나라별로 나뉘지 않아서, 배송비, 배송 기간, 통관 조건이 서로 다른 여러 나라의 고객이 한 평점에 들어 있습니다. 여러분이 계신 나라의 배송이 어떨지는 이 숫자로 알 수 없습니다."
         ]
       },
       {
         "heading": "불만에서 나타나는 것",
         "paragraphs": [
-          "2026년 10월 28일에 프로필에서 볼 수 있는 부정적 리뷰를 읽고 주제를 적었습니다. 건수를 세거나 순위를 매기지는 않았습니다. 주제는 배송과 환불입니다:"
+          "2026년 10월 28일에 프로필에서 볼 수 있는 부정적 리뷰의 주제는 배송과 환불입니다:"
         ],
         "bullets": [
           "소포가 분실되거나 도난당했거나 배송되지 않았고, 배송 완료 사진에 이의가 제기된 경우.",
@@ -155023,7 +155023,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "칭찬에서 나타나는 것",
         "paragraphs": [
-          "같은 날 읽은 긍정적 리뷰의 주제는 달랐습니다. 눈에 보이는 칭찬 표본이 작았기 때문에, 아래는 주제일 뿐 비율이 아닙니다:"
+          "프로필에서 볼 수 있는 긍정적 리뷰의 주제는 달랐습니다. 눈에 보이는 칭찬 표본이 작았기 때문에, 아래는 주제일 뿐 비율이 아닙니다:"
         ],
         "bullets": [
           "낮은 가격.",
@@ -155038,7 +155038,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: 누가, 어디에서 평가하나",
         "paragraphs": [
-          "읽은 프로필은 www.shein.com의 프로필 하나로, 글로벌 프로필입니다. 리뷰를 나라별로 나누지 않고, 여러분이 계신 나라나 다른 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다.",
+          "대상 프로필은 www.shein.com의 프로필 하나로, 글로벌 프로필입니다. 리뷰를 나라별로 나누지 않고, 여러분이 계신 나라나 다른 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다.",
           "Trustpilot의 영국 지역 사이트도 같은 프로필과 같은 숫자를 보여 주었습니다. 이 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 줄 뿐, 여러분 주소로 오는 배송이 어떤지를 말해 주지는 않습니다."
         ],
         "image": {
@@ -155074,7 +155074,7 @@ export const reviewsData: unknown[] = [
         "heading": "Trustpilot으로 SHEIN을 믿을 수 있을까요?",
         "paragraphs": [
           "Trustpilot으로 보면 SHEIN은 평점이 좋은 편이고 답변도 합니다. 2026년 11월 기준 TrustScore 3.8, 리뷰 353,527건 중 59%가 별 다섯 개였고, 부정적 리뷰의 98%에 답변이 달렸습니다.",
-          "단서는 세 가지입니다. 읽은 부정적 리뷰의 주제가 받지 못한 소포와 환불이고 별 한 개가 18%라는 점, 답변율이 높아도 문제가 해결되었다는 뜻은 아니라는 점, 그리고 프로필이 글로벌이어서 회원님이 계신 나라의 배송을 보여 주지 않는다는 점입니다."
+          "단서는 세 가지입니다. 부정적 리뷰의 주제가 받지 못한 소포와 환불이고 별 한 개가 18%라는 점, 답변율이 높아도 문제가 해결되었다는 뜻은 아니라는 점, 그리고 프로필이 글로벌이어서 회원님이 계신 나라의 배송을 보여 주지 않는다는 점입니다."
         ]
       },
       {
@@ -155091,7 +155091,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN의 Trustpilot 평점은 좋은가요? TrustScore는 5점 만점에 3.8, 표시는 \"Great\"였고, 리뷰 353,527건 중 59%가 별 다섯 개, 18%가 별 한 개였습니다.",
           "SHEIN에 대한 가장 흔한 불만은 무엇인가요? 부정적 리뷰의 주제는 분실·도난·미배송 소포, 늦거나 거절된 환불, 느리거나 정형화된 고객 지원, 그리고 사이즈·품질·오배송·누락 같은 상품 문제였습니다.",
-          "SHEIN은 부정적 리뷰에 답하나요? 부정적 리뷰의 98%에 보통 24시간 이내로 답했고, 답변에 AI를 쓸 수 있습니다. 답변의 본문은 읽지 않았습니다.",
+          "SHEIN은 부정적 리뷰에 답하나요? 부정적 리뷰의 98%에 보통 24시간 이내로 답했고, 답변에 AI를 쓸 수 있습니다. 답변이 문제를 해결했는지는 숫자로 알 수 없습니다.",
           "Trustpilot 평점은 나라별인가요? 아닙니다. SHEIN의 프로필은 글로벌이고 리뷰를 나라별로 나누지 않습니다."
         ]
       }
@@ -155140,7 +155140,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "SHEIN 标志与五颗星，填充到 2026年10月28日读取的 Trustpilot 评分 3.8",
+    "imageAlt": "SHEIN 标志与五颗星，填充到 2026年10月28日的 Trustpilot 评分 3.8",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -155149,14 +155149,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "口碑不错，但有保留。SHEIN 在 Trustpilot 的 TrustScore 为 3.8（满分 5 分），网站标注为“Great”，基于多个国家顾客留下的 353,527 条评价。读到的负面评价，主题是包裹未送达和退款，一星评价占 18%。"
+          "口碑不错，但有保留。SHEIN 在 Trustpilot 的 TrustScore 为 3.8（满分 5 分），网站标注为“Great”，基于多个国家顾客留下的 353,527 条评价。负面评价的主题是包裹未送达和退款，一星评价占 18%。"
         ]
       },
       {
         "heading": "分数衡量的是什么",
         "paragraphs": [
-          "TrustScore 是主页在 Trustpilot 上的评分。2026年11月读取时，SHEIN 为 3.8，共 353,527 条评价，其中 22,625 条发布于最近 12 个月。主页由公司认领并管理，并且如页面所写，使用 Trustpilot 的付费订阅。",
-          "同一天的星级分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起来占了大部分。",
+          "TrustScore 是主页在 Trustpilot 上的评分。2026年11月，SHEIN 为 3.8，共 353,527 条评价，其中 22,625 条发布于最近 12 个月。主页由公司认领并管理，并且如页面所写，使用 Trustpilot 的付费订阅。",
+          "星级分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起来占了大部分。",
           "这个分数汇总的是写评价的人的感受，不是商品的质量。商品、配送和客服被合在同一颗星里。"
         ],
         "image": {
@@ -155171,14 +155171,14 @@ export const reviewsData: unknown[] = [
         "heading": "改变读法的三点",
         "paragraphs": [
           "第一，一星占 18%。差不多每五条就有一条是最低分，比二星和三星加起来的 11% 还多。",
-          "第二，回复不等于解决。SHEIN 回复了 98% 的负面评价，通常在 24 小时内。页面还提示，公司可能在回复中使用 AI。但回复的文字没有读，所以投诉者的问题有没有解决，这些数字说明不了。",
+          "第二，回复不等于解决。SHEIN 回复了 98% 的负面评价，通常在 24 小时内。页面还提示，公司可能在回复中使用 AI。但投诉者的问题有没有解决，这些数字说明不了。",
           "第三，数字是全球性的。主页不按国家区分，运费、时效和清关各不相同的多国顾客被放在同一个分数里。送到你所在国家会怎么样，这些数字说明不了。"
         ]
       },
       {
         "heading": "投诉里出现了什么",
         "paragraphs": [
-          "2026年10月28日，阅读了主页上可见的负面评价，记下主题，不计数也不排序。主题是配送和退款："
+          "2026年10月28日主页上可见的负面评价，主题是配送和退款："
         ],
         "bullets": [
           "包裹丢失、被盗或未送达，配送完成的照片受到质疑。",
@@ -155200,7 +155200,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "好评里出现了什么",
         "paragraphs": [
-          "同一天读到的正面评价，主题不一样。可见的好评样本很小，所以下面只是主题，不是比例："
+          "主页上可见的正面评价，主题不一样。可见的好评样本很小，所以下面只是主题，不是比例："
         ],
         "bullets": [
           "价格低。",
@@ -155215,7 +155215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot：谁在评价，来自哪里",
         "paragraphs": [
-          "读取的是 www.shein.com 这一个主页，它是全球性的。评价不按国家区分，页面也没有说其中有多少来自你所在的国家或其他地方。",
+          "对象是 www.shein.com 这一个主页，它是全球性的。评价不按国家区分，页面也没有说其中有多少来自你所在的国家或其他地方。",
           "Trustpilot 的英国地区站显示的是同一个主页和同样的数字。这个分数说的是店家整体的表现，不是送到你地址的配送怎么样。"
         ],
         "image": {
@@ -155251,7 +155251,7 @@ export const reviewsData: unknown[] = [
         "heading": "凭 Trustpilot 可以信任 SHEIN 吗？",
         "paragraphs": [
           "从 Trustpilot 来看，SHEIN 的评分不错，也会回复。2026年11月，TrustScore 为 3.8，353,527 条评价中 59% 是五星，98% 的负面评价得到了回复。",
-          "保留之处有三点：读到的负面评价主题是包裹未送达和退款，一星占 18%；回复率再高，也不说明问题已经解决；主页是全球性的，看不出你所在国家的配送情况。"
+          "保留之处有三点：负面评价的主题是包裹未送达和退款，一星占 18%；回复率再高，也不说明问题已经解决；主页是全球性的，看不出你所在国家的配送情况。"
         ]
       },
       {
@@ -155268,7 +155268,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 在 Trustpilot 上的评分好吗？TrustScore 为 3.8（满分 5 分），网站标注为“Great”，共 353,527 条评价，59% 是五星，18% 是一星。",
           "关于 SHEIN 最常见的投诉是什么？负面评价的主题是包裹丢失、被盗或未送达，退款延迟或被拒，客服回应慢或模板化，以及尺码、质量、发错货或少件等产品问题。",
-          "SHEIN 会回复负面评价吗？回复了 98% 的负面评价，通常在 24 小时内，回复可能使用 AI。回复的文字没有读。",
+          "SHEIN 会回复负面评价吗？回复了 98% 的负面评价，通常在 24 小时内，回复可能使用 AI。这些数字说明不了回复是否解决了问题。",
           "Trustpilot 的分数是按国家区分的吗？不是。SHEIN 的主页是全球性的，评价不按国家区分。"
         ]
       }
@@ -155317,7 +155317,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-    "imageAlt": "SHEIN 標誌與五顆星，填滿到 2026年10月28日讀取的 Trustpilot 評分 3.8",
+    "imageAlt": "SHEIN 標誌與五顆星，填滿到 2026年10月28日的 Trustpilot 評分 3.8",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -155326,14 +155326,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡要回答",
         "paragraphs": [
-          "口碑不錯，但有保留。SHEIN 在 Trustpilot 的 TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，依據多個國家顧客留下的 353,527 則評價。讀到的負面評價，主題是包裹未送達和退款，一星評價佔 18%。"
+          "口碑不錯，但有保留。SHEIN 在 Trustpilot 的 TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，依據多個國家顧客留下的 353,527 則評價。負面評價的主題是包裹未送達和退款，一星評價佔 18%。"
         ]
       },
       {
         "heading": "分數衡量的是什麼",
         "paragraphs": [
-          "TrustScore 是檔案在 Trustpilot 上的評分。2026年11月讀取時，SHEIN 為 3.8，共 353,527 則評價，其中 22,625 則發布於最近 12 個月。檔案由公司認領並管理，而且如頁面所寫，使用 Trustpilot 的付費訂閱。",
-          "同一天的星級分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起來佔了大部分。",
+          "TrustScore 是檔案在 Trustpilot 上的評分。2026年11月，SHEIN 為 3.8，共 353,527 則評價，其中 22,625 則發布於最近 12 個月。檔案由公司認領並管理，而且如頁面所寫，使用 Trustpilot 的付費訂閱。",
+          "星級分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起來佔了大部分。",
           "這個分數彙整的是寫評價的人的感受，不是商品的品質。商品、配送和客服被合在同一顆星裡。"
         ],
         "image": {
@@ -155348,14 +155348,14 @@ export const reviewsData: unknown[] = [
         "heading": "改變讀法的三點",
         "paragraphs": [
           "第一，一星佔 18%。差不多每五則就有一則是最低分，比二星和三星加起來的 11% 還多。",
-          "第二，回覆不等於解決。SHEIN 回覆了 98% 的負面評價，通常在 24 小時內。頁面還提醒，公司可能在回覆中使用 AI。但回覆的文字沒有讀，所以投訴者的問題有沒有解決，這些數字說明不了。",
+          "第二，回覆不等於解決。SHEIN 回覆了 98% 的負面評價，通常在 24 小時內。頁面還提醒，公司可能在回覆中使用 AI。但投訴者的問題有沒有解決，這些數字說明不了。",
           "第三，數字是全球性的。檔案不按國家或地區區分，運費、時效和清關各不相同的多國顧客被放在同一個分數裡。送到你所在地會怎麼樣，這些數字說明不了。"
         ]
       },
       {
         "heading": "投訴裡出現了什麼",
         "paragraphs": [
-          "2026年10月28日，閱讀了檔案上可見的負面評價，記下主題，不計數也不排序。主題是配送和退款："
+          "2026年10月28日檔案上可見的負面評價，主題是配送和退款："
         ],
         "bullets": [
           "包裹遺失、被竊或未送達，配送完成的照片受到質疑。",
@@ -155377,7 +155377,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "好評裡出現了什麼",
         "paragraphs": [
-          "同一天讀到的正面評價，主題不一樣。可見的好評樣本很小，所以下面只是主題，不是比例："
+          "檔案上可見的正面評價，主題不一樣。可見的好評樣本很小，所以下面只是主題，不是比例："
         ],
         "bullets": [
           "價格低。",
@@ -155392,7 +155392,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot：誰在評價，來自哪裡",
         "paragraphs": [
-          "讀取的是 www.shein.com 這一個檔案，它是全球性的。評價不按國家或地區區分，頁面也沒有說其中有多少來自你所在的地方或其他地方。",
+          "對象是 www.shein.com 這一個檔案，它是全球性的。評價不按國家或地區區分，頁面也沒有說其中有多少來自你所在的地方或其他地方。",
           "Trustpilot 的英國地區站顯示的是同一個檔案和同樣的數字。這個分數說的是店家整體的表現，不是送到你地址的配送怎麼樣。"
         ],
         "image": {
@@ -155428,7 +155428,7 @@ export const reviewsData: unknown[] = [
         "heading": "憑 Trustpilot 可以信任 SHEIN 嗎？",
         "paragraphs": [
           "從 Trustpilot 來看，SHEIN 的評分不錯，也會回覆。2026年11月，TrustScore 為 3.8，353,527 則評價中 59% 是五星，98% 的負面評價得到了回覆。",
-          "保留之處有三點：讀到的負面評價主題是包裹未送達和退款，一星佔 18%；回覆率再高，也不說明問題已經解決；檔案是全球性的，看不出你所在地的配送情況。"
+          "保留之處有三點：負面評價的主題是包裹未送達和退款，一星佔 18%；回覆率再高，也不說明問題已經解決；檔案是全球性的，看不出你所在地的配送情況。"
         ]
       },
       {
@@ -155445,7 +155445,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 在 Trustpilot 上的評分好嗎？TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，共 353,527 則評價，59% 是五星，18% 是一星。",
           "關於 SHEIN 最常見的投訴是什麼？負面評價的主題是包裹遺失、被竊或未送達，退款延遲或被拒，客服回應慢或罐頭式回覆，以及尺碼、品質、寄錯貨或少件等商品問題。",
-          "SHEIN 會回覆負面評價嗎？回覆了 98% 的負面評價，通常在 24 小時內，回覆可能使用 AI。回覆的文字沒有讀。",
+          "SHEIN 會回覆負面評價嗎？回覆了 98% 的負面評價，通常在 24 小時內，回覆可能使用 AI。這些數字說明不了回覆是否解決了問題。",
           "Trustpilot 的分數是按國家或地區區分的嗎？不是。SHEIN 的檔案是全球性的，評價不按國家或地區區分。"
         ]
       }
@@ -157952,8 +157952,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os planos do Reach",
         "paragraphs": [
-          "Três planos pagos, sem grátis: Starter, Grow e Pro. No carrinho, o Grow aparece como \"Reach 500\", pelo limite de 500 destinatários. Os preços abaixo são da página, lidos em 30/10/2026, na campanha de Black Friday, sem impostos:",
-          "A página dá 30 dias para pedir reembolso, e na Black Friday ela diz que adicionar um site dá 30% extra no Reach; não testamos essa oferta."
+          "Três planos pagos, sem grátis: Starter, Grow e Pro. No carrinho, o Grow aparece como \"Reach 500\", pelo limite de 500 destinatários. Os preços abaixo são da página em 30/10/2026, na campanha de Black Friday, sem impostos:",
+          "A página dá 30 dias para pedir reembolso, e na Black Friday ela diz que adicionar um site dá 30% extra no Reach; confira as condições dessa oferta na página."
         ],
         "comparisonTable": {
           "headers": [
@@ -158000,7 +158000,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp e Brevo: plano grátis e preço publicado",
         "paragraphs": [
-          "Os dois têm plano grátis, e o Reach não tem na página brasileira. Os preços abaixo são das páginas brasileiras do Mailchimp e do Brevo, em reais, lidas em 30/10/2026:"
+          "Os dois têm plano grátis, e o Reach não tem na página brasileira. Os preços abaixo são das páginas brasileiras do Mailchimp e do Brevo, em reais, em 30/10/2026:"
         ],
         "comparisonTable": {
           "headers": [
@@ -158068,7 +158068,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 e preço do Reach",
         "paragraphs": [
           "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. O Bruno testou no Reach: o carrinho mostrou o Reach 500 (o Grow) de 24 meses a R$ 8,99/mês, R$ 215,76 no total; com o SONAR20, ficou em R$ 172,61, ou R$ 7,19/mês. A renovação sai pelo preço de tabela, sem os 20%.",
-          "No mesmo dia, a página mostrava o Grow de 24 meses a R$ 6,29/mês, o preço de Black Friday. Confira no carrinho qual preço vale para você e quanto o SONAR20 tira dele. Nos outros planos e períodos do Reach, não testamos; confira no carrinho. A regra completa do código está em [cupons da Hostinger](/cupons/hostinger)."
+          "No mesmo dia, a página mostrava o Grow de 24 meses a R$ 6,29/mês, o preço de Black Friday. Confira no carrinho qual preço vale para você e quanto o SONAR20 tira dele. Nos outros planos e períodos do Reach, o valor final aparece no carrinho. A regra completa do código está em [cupons da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -158089,7 +158089,7 @@ export const reviewsData: unknown[] = [
           "O Hostinger Reach tem WhatsApp? Tem, só no plano Pro. A página não mostra o custo por mensagem; confira no painel.",
           "O que é o Reach 500? É o nome do plano Grow no carrinho da Hostinger, pelo limite de 500 destinatários. Ele manda 3.500 e-mails por mês.",
           "Hostinger Reach ou Mailchimp? Para lista de até 1.000 destinatários, o Reach custa menos pelo preço publicado. Para começar sem pagar ou para lista maior, o Mailchimp.",
-          "O código SONAR20 vale no Hostinger Reach? Vale: no teste do Bruno, o Reach 500 de 24 meses foi de R$ 215,76 para R$ 172,61. Nos outros planos e períodos, não testamos; confira no carrinho.",
+          "O código SONAR20 vale no Hostinger Reach? Vale: no teste do Bruno, o Reach 500 de 24 meses foi de R$ 215,76 para R$ 172,61. Nos outros planos e períodos, o valor final aparece no carrinho.",
           "O SONAR20 vale para quem já é cliente? Vale em compra nova elegível, mesmo com conta existente. Registro de domínio e renovação ficam fora."
         ]
       },
@@ -158238,7 +158238,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "The Reach plans",
         "paragraphs": [
-          "Three paid plans, no free one: Starter, Grow and Pro. At checkout, Grow shows up as “Reach 500”, for its limit of 500 recipients. The prices below are from Hostinger's global page, in US dollars, read on October 30, 2026, during the Black Friday campaign. They can vary by country and currency, and they can change:",
+          "Three paid plans, no free one: Starter, Grow and Pro. At checkout, Grow shows up as “Reach 500”, for its limit of 500 recipients. The prices below are from Hostinger's global page, in US dollars, as of October 30, 2026, during the Black Friday campaign. They can vary by country and currency, and they can change:",
           "The page gives 30 days to ask for a refund."
         ],
         "comparisonTable": {
@@ -158278,7 +158278,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp and Brevo: the free plans",
         "paragraphs": [
-          "Both have a free plan, and Reach does not. The Mailchimp and Brevo pages were read on October 30, 2026; their paid prices are left out of this comparison, because they were not read in US dollars:"
+          "Both have a free plan, and Reach does not. On October 30, 2026, the Mailchimp and Brevo pages listed these free plans; their paid prices are left out of this comparison, because they were not shown in US dollars:"
         ],
         "comparisonTable": {
           "headers": [
@@ -158322,7 +158322,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 and the price of Reach",
         "paragraphs": [
           "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**. Bruno tested it on Reach 500 for 24 months, and the discount applied in the cart.",
-          "The price on the page and the price in the cart can differ on the same day, so check the cart to see which price applies to you and how much SONAR20 takes off it. For the other Reach plans and periods, it was not tested; check the cart. The full rule for the code is in [Hostinger coupons](/en/coupons/hostinger)."
+          "The price on the page and the price in the cart can differ on the same day, so check the cart to see which price applies to you and how much SONAR20 takes off it. For the other Reach plans and periods, the final price shows in the cart. The full rule for the code is in [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
@@ -158343,7 +158343,7 @@ export const reviewsData: unknown[] = [
           "Does Hostinger Reach have WhatsApp? Yes, only in the Pro plan. The page does not show the cost per message; check the dashboard.",
           "What is Reach 500? It is the name Grow takes in the Hostinger cart, after its limit of 500 recipients. It sends 3,500 emails a month.",
           "Hostinger Reach or Mailchimp? For a list of up to 1,000 recipients and a Hostinger site, Reach. To start for free, or for a list above 1,000 contacts, Mailchimp or Brevo.",
-          "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods it was not tested; check the cart.",
+          "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods, the final price shows in the cart.",
           "Can existing Hostinger customers use SONAR20? It applies to an eligible new purchase, even with an existing account. Domain registration and renewal are excluded."
         ]
       },
@@ -158492,7 +158492,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Los planes de Reach",
         "paragraphs": [
-          "Tres planes de pago, ninguno gratis: Starter, Grow y Pro. En el carrito, Grow aparece como “Reach 500”, por su límite de 500 destinatarios. Los precios de abajo son de la página global de Hostinger, en dólares, leídos el 30 de octubre de 2026, durante la campaña de Black Friday. Pueden variar según el país y la moneda, y pueden cambiar:",
+          "Tres planes de pago, ninguno gratis: Starter, Grow y Pro. En el carrito, Grow aparece como “Reach 500”, por su límite de 500 destinatarios. Los precios de abajo son de la página global de Hostinger, en dólares, al 30 de octubre de 2026, durante la campaña de Black Friday. Pueden variar según el país y la moneda, y pueden cambiar:",
           "La página da 30 días para pedir el reembolso."
         ],
         "comparisonTable": {
@@ -158532,7 +158532,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp y Brevo: los planes gratis",
         "paragraphs": [
-          "Los dos tienen plan gratis, y Reach no. Las páginas de Mailchimp y Brevo se leyeron el 30 de octubre de 2026; sus precios de pago quedan fuera de esta comparación, porque no se leyeron en dólares:"
+          "Los dos tienen plan gratis, y Reach no. El 30 de octubre de 2026, las páginas de Mailchimp y Brevo mostraban estos planes gratis; sus precios de pago quedan fuera de esta comparación, porque no figuraban en dólares:"
         ],
         "comparisonTable": {
           "headers": [
@@ -158576,7 +158576,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupón SONAR20 y precio de Reach",
         "paragraphs": [
           "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. Bruno lo probó en el Reach 500 de 24 meses, y el descuento se aplicó en el carrito.",
-          "El precio que muestra la página y el del carrito pueden no coincidir el mismo día. Revisa el carrito para ver qué precio te corresponde y cuánto le quita el SONAR20. En los otros planes y períodos de Reach no se probó; revisa el carrito. La regla completa del código está en [cupones de Hostinger](/es/coupons/hostinger)."
+          "El precio que muestra la página y el del carrito pueden no coincidir el mismo día. Revisa el carrito para ver qué precio te corresponde y cuánto le quita el SONAR20. En los otros planes y períodos de Reach, el precio final aparece en el carrito. La regla completa del código está en [cupones de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -158597,7 +158597,7 @@ export const reviewsData: unknown[] = [
           "¿Hostinger Reach tiene WhatsApp? Sí, solo en el plan Pro. La página no muestra el costo por mensaje; revisa el panel.",
           "¿Qué es Reach 500? Es el nombre que Grow tiene en el carrito de Hostinger, por su límite de 500 destinatarios. Envía 3.500 correos al mes.",
           "¿Hostinger Reach o Mailchimp? Para una lista de hasta 1.000 destinatarios y un sitio en Hostinger, Reach. Para empezar gratis o para una lista de más de 1.000 contactos, Mailchimp o Brevo.",
-          "¿El código SONAR20 vale en Hostinger Reach? Vale: en la prueba de Bruno, el descuento se aplicó al Reach 500 de 24 meses. En los otros planes y períodos no se probó; revisa el carrito.",
+          "¿El código SONAR20 vale en Hostinger Reach? Vale: en la prueba de Bruno, el descuento se aplicó al Reach 500 de 24 meses. En los otros planes y períodos, el precio final aparece en el carrito.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Vale para una compra nueva elegible, incluso con cuenta existente. El registro de dominio y la renovación quedan fuera."
         ]
       },
@@ -158746,7 +158746,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Les forfaits Reach",
         "paragraphs": [
-          "Trois forfaits payants, aucun gratuit : Starter, Grow et Pro. Au panier, Grow apparaît sous le nom « Reach 500 », pour sa limite de 500 destinataires. Les prix ci-dessous sont ceux de la page mondiale de Hostinger, en dollars américains, relevés le 30 octobre 2026, pendant la campagne du Black Friday. Ils peuvent varier selon le pays et la devise, et changer :",
+          "Trois forfaits payants, aucun gratuit : Starter, Grow et Pro. Au panier, Grow apparaît sous le nom « Reach 500 », pour sa limite de 500 destinataires. Les prix ci-dessous sont ceux de la page mondiale de Hostinger, en dollars américains, au 30 octobre 2026, pendant la campagne du Black Friday. Ils peuvent varier selon le pays et la devise, et changer :",
           "La page donne 30 jours pour demander un remboursement."
         ],
         "comparisonTable": {
@@ -158786,7 +158786,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp et Brevo : les forfaits gratuits",
         "paragraphs": [
-          "Les deux ont un forfait gratuit, et Reach non. Les pages de Mailchimp et de Brevo ont été lues le 30 octobre 2026 ; leurs prix payants restent hors de cette comparaison, faute d'avoir été relevés en dollars :"
+          "Les deux ont un forfait gratuit, et Reach non. Le 30 octobre 2026, les pages de Mailchimp et de Brevo affichaient ces forfaits gratuits ; leurs prix payants restent hors de cette comparaison, faute d'être indiqués en dollars :"
         ],
         "comparisonTable": {
           "headers": [
@@ -158830,7 +158830,7 @@ export const reviewsData: unknown[] = [
         "heading": "Code SONAR20 et prix de Reach",
         "paragraphs": [
           "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Bruno l'a testé sur Reach 500 pour 24 mois, et la réduction s'est appliquée au panier.",
-          "Le prix affiché sur la page et celui du panier peuvent différer le même jour : vérifiez le panier pour savoir quel prix s'applique à vous et combien le SONAR20 en retire. Pour les autres forfaits et périodes de Reach, il n'a pas été testé ; vérifiez le panier. La règle complète du code est dans [coupons Hostinger](/fr/coupons/hostinger)."
+          "Le prix affiché sur la page et celui du panier peuvent différer le même jour : vérifiez le panier pour savoir quel prix s'applique à vous et combien le SONAR20 en retire. Pour les autres forfaits et périodes de Reach, le prix final s'affiche au panier. La règle complète du code est dans [coupons Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -158851,7 +158851,7 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach a-t-il WhatsApp ? Oui, seulement dans le forfait Pro. La page n'indique pas le coût par message ; consultez le tableau de bord.",
           "Qu'est-ce que Reach 500 ? C'est le nom que prend Grow dans le panier Hostinger, d'après sa limite de 500 destinataires. Il envoie 3 500 e-mails par mois.",
           "Hostinger Reach ou Mailchimp ? Pour une liste allant jusqu'à 1 000 destinataires et un site chez Hostinger, Reach. Pour démarrer gratuitement ou pour une liste de plus de 1 000 contacts, Mailchimp ou Brevo.",
-          "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Oui : lors du test de Bruno, la réduction s'est appliquée à Reach 500 pour 24 mois. Pour les autres forfaits et périodes, il n'a pas été testé ; vérifiez le panier.",
+          "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Oui : lors du test de Bruno, la réduction s'est appliquée à Reach 500 pour 24 mois. Pour les autres forfaits et périodes, le prix final s'affiche au panier.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Il s'applique à un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus."
         ]
       },
@@ -159000,7 +159000,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "I piani Reach",
         "paragraphs": [
-          "Tre piani a pagamento, nessuno gratuito: Starter, Grow e Pro. Nel carrello il Grow compare come «Reach 500», dal limite di 500 destinatari. I prezzi qui sotto vengono dalla pagina globale di Hostinger, in dollari statunitensi, letti il 30 ottobre 2026 durante la campagna Black Friday. Possono variare per paese e valuta, e possono cambiare:",
+          "Tre piani a pagamento, nessuno gratuito: Starter, Grow e Pro. Nel carrello il Grow compare come «Reach 500», dal limite di 500 destinatari. I prezzi qui sotto vengono dalla pagina globale di Hostinger, in dollari statunitensi, al 30 ottobre 2026, durante la campagna Black Friday. Possono variare per paese e valuta, e possono cambiare:",
           "La pagina dà 30 giorni per chiedere il rimborso."
         ],
         "comparisonTable": {
@@ -159040,7 +159040,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp e Brevo: il piano gratuito",
         "paragraphs": [
-          "Entrambi hanno un piano gratuito, Reach no. Le pagine di Mailchimp e Brevo sono state lette il 30 ottobre 2026; i prezzi dei piani a pagamento restano fuori da questo confronto, perché non sono stati letti in dollari:"
+          "Entrambi hanno un piano gratuito, Reach no. Il 30 ottobre 2026 le pagine di Mailchimp e Brevo mostravano questi piani gratuiti; i prezzi dei piani a pagamento restano fuori da questo confronto, perché non erano indicati in dollari:"
         ],
         "comparisonTable": {
           "headers": [
@@ -159087,7 +159087,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 e il prezzo di Reach",
         "paragraphs": [
           "Inserisci il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: ottieni il **20% sul primo periodo**. Bruno l'ha testato sul Reach 500 da 24 mesi, e lo sconto è stato applicato nel carrello. Il rinnovo si paga al prezzo di listino, senza il 20%.",
-          "Il prezzo mostrato dalla pagina e quello del carrello possono differire lo stesso giorno: controlla il carrello per vedere quale prezzo si applica a te e quanto ne toglie il SONAR20. Sugli altri piani e periodi di Reach non è stato testato; controlla nel carrello. Le regole complete del codice sono in [coupon Hostinger](/it/coupons/hostinger)."
+          "Il prezzo mostrato dalla pagina e quello del carrello possono differire lo stesso giorno: controlla il carrello per vedere quale prezzo si applica a te e quanto ne toglie il SONAR20. Sugli altri piani e periodi di Reach, il prezzo finale compare nel carrello. Le regole complete del codice sono in [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -159108,7 +159108,7 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach ha WhatsApp? Sì, solo nel piano Pro. La pagina non indica il costo per messaggio: controllalo nel pannello.",
           "Cos'è il Reach 500? È il nome che il Grow ha nel carrello di Hostinger, per il limite di 500 destinatari. Invia 3.500 email al mese.",
           "Hostinger Reach o Mailchimp? Per una lista fino a 1.000 destinatari e un sito su Hostinger, Reach. Per partire gratis o per una lista oltre i 1.000 contatti, Mailchimp o Brevo.",
-          "Il codice SONAR20 vale per Hostinger Reach? Sì: nel test di Bruno, lo sconto è stato applicato al Reach 500 da 24 mesi. Sugli altri piani e periodi non è stato testato; controlla nel carrello.",
+          "Il codice SONAR20 vale per Hostinger Reach? Sì: nel test di Bruno, lo sconto è stato applicato al Reach 500 da 24 mesi. Sugli altri piani e periodi, il prezzo finale compare nel carrello.",
           "SONAR20 vale per chi è già cliente di Hostinger? Vale su un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo restano esclusi."
         ]
       },
@@ -159257,7 +159257,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Reach-Tarife",
         "paragraphs": [
-          "Drei bezahlte Tarife, keiner kostenlos: Starter, Grow und Pro. Im Warenkorb heißt der Grow „Reach 500“, nach dem Limit von 500 Empfängern. Die Preise unten stammen von der globalen Hostinger-Seite, in US-Dollar, gelesen am 30. Oktober 2026 während der Black-Friday-Aktion. Sie können je nach Land und Währung abweichen und sich ändern:",
+          "Drei bezahlte Tarife, keiner kostenlos: Starter, Grow und Pro. Im Warenkorb heißt der Grow „Reach 500“, nach dem Limit von 500 Empfängern. Die Preise unten stammen von der globalen Hostinger-Seite, in US-Dollar, am 30. Oktober 2026, während der Black-Friday-Aktion. Sie können je nach Land und Währung abweichen und sich ändern:",
           "Die Seite nennt 30 Tage, in denen Sie eine Rückerstattung verlangen können."
         ],
         "comparisonTable": {
@@ -159297,7 +159297,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp und Brevo: der kostenlose Tarif",
         "paragraphs": [
-          "Beide haben einen kostenlosen Tarif, Reach nicht. Die Seiten von Mailchimp und Brevo wurden am 30. Oktober 2026 gelesen; die Preise der bezahlten Tarife bleiben aus diesem Vergleich draußen, weil sie nicht in US-Dollar gelesen wurden:"
+          "Beide haben einen kostenlosen Tarif, Reach nicht. Am 30. Oktober 2026 zeigten die Seiten von Mailchimp und Brevo diese kostenlosen Tarife; die Preise der bezahlten Tarife bleiben aus diesem Vergleich draußen, weil sie nicht in US-Dollar angegeben waren:"
         ],
         "comparisonTable": {
           "headers": [
@@ -159344,7 +159344,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 und der Preis von Reach",
         "paragraphs": [
           "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder nutzen Sie den Link dieses Artikels: Sie sparen **20 % im ersten Zeitraum**. Bruno hat ihn mit dem Reach 500 über 24 Monate getestet, und der Rabatt wurde im Warenkorb angewendet.",
-          "Der Preis auf der Seite und der im Warenkorb können am selben Tag voneinander abweichen: Prüfen Sie im Warenkorb, welcher Preis für Sie gilt und wie viel der SONAR20 davon abzieht. Bei den anderen Reach-Tarifen und Zeiträumen wurde er nicht getestet; prüfen Sie im Warenkorb. Die vollständige Regel des Codes steht bei [Hostinger-Gutscheine](/de/coupons/hostinger)."
+          "Der Preis auf der Seite und der im Warenkorb können am selben Tag voneinander abweichen: Prüfen Sie im Warenkorb, welcher Preis für Sie gilt und wie viel der SONAR20 davon abzieht. Bei den anderen Reach-Tarifen und Zeiträumen zeigt der Warenkorb den endgültigen Preis. Die vollständige Regel des Codes steht bei [Hostinger-Gutscheine](/de/coupons/hostinger)."
         ]
       },
       {
@@ -159365,7 +159365,7 @@ export const reviewsData: unknown[] = [
           "Hat Hostinger Reach WhatsApp? Ja, nur im Tarif Pro. Die Seite zeigt nicht die Kosten pro Nachricht; das sehen Sie im Dashboard.",
           "Was ist Reach 500? Das ist der Name des Grow-Tarifs im Hostinger-Warenkorb, nach dem Limit von 500 Empfängern. Er verschickt 3.500 E-Mails im Monat.",
           "Hostinger Reach oder Mailchimp? Für eine Liste bis 1.000 Empfänger und eine Hostinger-Website: Reach. Für einen kostenlosen Start oder eine Liste über 1.000 Kontakte: Mailchimp oder Brevo.",
-          "Gilt der Code SONAR20 bei Hostinger Reach? Ja: In Brunos Test wurde der Rabatt beim Reach 500 über 24 Monate angewendet. Bei den anderen Tarifen und Zeiträumen wurde er nicht getestet; prüfen Sie im Warenkorb.",
+          "Gilt der Code SONAR20 bei Hostinger Reach? Ja: In Brunos Test wurde der Rabatt beim Reach 500 über 24 Monate angewendet. Bei den anderen Tarifen und Zeiträumen zeigt der Warenkorb den endgültigen Preis.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Bei einem berechtigten Neukauf gilt er auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen."
         ]
       },
@@ -159514,7 +159514,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reach のプラン",
         "paragraphs": [
-          "Reach には有料プランが3つあり、無料プランはありません。Starter、Grow、Pro です。カートでは Grow が「Reach 500」（宛先500件の上限にちなんだ名前）と表示されます。以下の価格は Hostinger の国際サイトで2026年10月30日に読んだもので、ブラックフライデーキャンペーン中のドル建ての価格です。国や通貨によって変わることがあります。",
+          "Reach には有料プランが3つあり、無料プランはありません。Starter、Grow、Pro です。カートでは Grow が「Reach 500」（宛先500件の上限にちなんだ名前）と表示されます。以下の価格は Hostinger の国際サイトで2026年10月30日時点のもので、ブラックフライデーキャンペーン中のドル建ての価格です。国や通貨によって変わることがあります。",
           "ページには、30日以内なら返金を請求できると書かれています。"
         ],
         "comparisonTable": {
@@ -159554,7 +159554,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp と Brevo：無料プラン",
         "paragraphs": [
-          "どちらにも無料プランがあり、Reach には国際サイトでも無料プランがありません。両社の有料プランの価格はドルで読んでいないので、ここでは載せません。2026年10月30日にページに載っていた無料プランは次のとおりです。"
+          "どちらにも無料プランがあり、Reach には国際サイトでも無料プランがありません。両社の有料プランの価格はドル建てで載っていないので、ここでは載せません。2026年10月30日にページに載っていた無料プランは次のとおりです。"
         ],
         "comparisonTable": {
           "headers": [
@@ -159601,7 +159601,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 と Reach の価格",
         "paragraphs": [
           "**SONAR20** をカートのクーポン欄に入力するか、この記事のリンクから入ると、**最初の期間が20%割引**になります。Bruno が Reach 500（Grow）の24か月プランで試したところ、割引が反映されました。",
-          "ページの価格とカートの価格は違うことがあります。カートでどちらの価格が適用され、SONAR20 でいくら下がるかを確認してください。ほかのプランや期間は試していないので、カートで確認してください。コードの詳しいルールは [Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
+          "ページの価格とカートの価格は違うことがあります。カートでどちらの価格が適用され、SONAR20 でいくら下がるかを確認してください。ほかのプランや期間の最終価格は、カートに表示されます。コードの詳しいルールは [Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
         ]
       },
       {
@@ -159622,7 +159622,7 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach に WhatsApp はある？ あります。Pro だけです。1通ごとの料金はページに書かれていないので、管理画面で確認してください。",
           "Reach 500 とは何？ カートで Grow に付いている名前で、宛先500件の上限を指します。月3,500通送れます。",
           "Hostinger Reach と Mailchimp、どちらが良い？ 宛先が1,000件までなら Reach です。無料で始めたい、またはリストがもっと大きいなら Mailchimp か Brevo です。",
-          "SONAR20 は Hostinger Reach でも使える？ 使えます。Bruno が試した Reach 500 の24か月プランで、割引が反映されました。ほかのプランや期間は試していないので、カートで確認してください。",
+          "SONAR20 は Hostinger Reach でも使える？ 使えます。Bruno が試した Reach 500 の24か月プランで、割引が反映されました。ほかのプランや期間の最終価格は、カートに表示されます。",
           "SONAR20は既存のHostingerのお客様でも使えますか？ 既存アカウントでも、対象となる新規購入なら使えます。ドメイン登録と更新は対象外です。"
         ]
       },
@@ -159770,7 +159770,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reach 플랜",
         "paragraphs": [
-          "유료 플랜이 세 가지 있고 무료는 없습니다. Starter, Grow, Pro입니다. 장바구니에서는 Grow가 수신자 500명 한도를 따라 \"Reach 500\"으로 나옵니다. 아래 가격은 2026년 10월 30일 Hostinger 국제 사이트에서 읽은 달러 가격이며, 블랙프라이데이 캠페인 가격입니다. 국가와 통화에 따라 달라질 수 있습니다.",
+          "유료 플랜이 세 가지 있고 무료는 없습니다. Starter, Grow, Pro입니다. 장바구니에서는 Grow가 수신자 500명 한도를 따라 \"Reach 500\"으로 나옵니다. 아래 가격은 2026년 10월 30일 Hostinger 국제 사이트에 표시된 달러 가격이며, 블랙프라이데이 캠페인 가격입니다. 국가와 통화에 따라 달라질 수 있습니다.",
           "페이지에는 30일 이내에 환불을 요청할 수 있다고 쓰여 있습니다."
         ],
         "comparisonTable": {
@@ -159810,7 +159810,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp와 Brevo: 무료 플랜",
         "paragraphs": [
-          "두 곳 모두 무료 플랜이 있고, Reach에는 국제 사이트에서도 무료 플랜이 없습니다. 두 곳의 유료 가격은 달러로 읽지 못해 싣지 않았습니다. 2026년 10월 30일 페이지에 나온 무료 플랜은 이렇습니다."
+          "두 곳 모두 무료 플랜이 있고, Reach에는 국제 사이트에서도 무료 플랜이 없습니다. 두 곳의 유료 가격은 달러 기준으로 나와 있지 않아 싣지 않았습니다. 2026년 10월 30일 페이지에 나온 무료 플랜은 이렇습니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -159857,7 +159857,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20과 Reach 가격",
         "paragraphs": [
           "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가세요. **첫 기간 20%**가 할인됩니다. Bruno가 Reach 500(Grow) 24개월 플랜으로 테스트했더니 할인이 적용됐습니다. 갱신은 정가로 청구되며 20%는 붙지 않습니다.",
-          "페이지의 가격과 장바구니의 가격은 다를 수 있습니다. 장바구니에서 어느 가격이 적용되는지, SONAR20이 거기서 얼마를 깎는지 확인하세요. 다른 플랜과 기간은 테스트하지 않았으니 장바구니에서 확인하세요. 코드의 전체 규칙은 [Hostinger 쿠폰](/ko/coupons/hostinger)에 있습니다."
+          "페이지의 가격과 장바구니의 가격은 다를 수 있습니다. 장바구니에서 어느 가격이 적용되는지, SONAR20이 거기서 얼마를 깎는지 확인하세요. 다른 플랜과 기간의 최종 가격은 장바구니에 표시됩니다. 코드의 전체 규칙은 [Hostinger 쿠폰](/ko/coupons/hostinger)에 있습니다."
         ]
       },
       {
@@ -159878,7 +159878,7 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach에 WhatsApp이 있나요? 있습니다. Pro 플랜에만 있습니다. 메시지당 비용은 페이지에 나오지 않으니 관리 화면에서 확인하세요.",
           "Reach 500은 무엇인가요? 장바구니에서 Grow 플랜을 부르는 이름으로, 수신자 500명 한도를 뜻합니다. 월 3,500통을 보냅니다.",
           "Hostinger Reach와 Mailchimp 중 무엇이 나은가요? 수신자가 1,000명 이하라면 Reach입니다. 무료로 시작하고 싶거나 리스트가 더 크다면 Mailchimp나 Brevo입니다.",
-          "SONAR20이 Hostinger Reach에도 적용되나요? 적용됩니다. Bruno가 Reach 500 24개월 플랜으로 테스트했더니 할인이 적용됐습니다. 다른 플랜과 기간은 테스트하지 않았으니 장바구니에서 확인하세요.",
+          "SONAR20이 Hostinger Reach에도 적용되나요? 적용됩니다. Bruno가 Reach 500 24개월 플랜으로 테스트했더니 할인이 적용됐습니다. 다른 플랜과 기간의 최종 가격은 장바구니에 표시됩니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 기존 계정이 있어도 대상이 되는 신규 구매에는 쓸 수 있습니다. 도메인 등록과 갱신은 제외됩니다."
         ]
       },
@@ -160027,7 +160027,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reach 套餐",
         "paragraphs": [
-          "Reach 有三个付费套餐，没有免费版：Starter、Grow 和 Pro。在购物车里，Grow 因为 500 名收件人的上限而显示为“Reach 500”。下面是 2026 年 10 月 30 日在 Hostinger 国际站读到的美元价格，属于黑色星期五促销期间的价格，可能因国家和货币而异：",
+          "Reach 有三个付费套餐，没有免费版：Starter、Grow 和 Pro。在购物车里，Grow 因为 500 名收件人的上限而显示为“Reach 500”。下面是 2026 年 10 月 30 日在 Hostinger 国际站上显示的美元价格，属于黑色星期五促销期间的价格，可能因国家和货币而异：",
           "页面写明，可在 30 天内申请退款。"
         ],
         "comparisonTable": {
@@ -160067,7 +160067,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp 与 Brevo：免费版",
         "paragraphs": [
-          "两家都有免费版，Reach 在国际站上也没有免费版。两家付费套餐的美元价格我们没有读到，所以这里不列。2026 年 10 月 30 日页面上的免费版如下："
+          "两家都有免费版，Reach 在国际站上也没有免费版。两家付费套餐没有标出美元价格，所以这里不列。2026 年 10 月 30 日页面上的免费版如下："
         ],
         "comparisonTable": {
           "headers": [
@@ -160114,7 +160114,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 与 Reach 价格",
         "paragraphs": [
           "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可享受**首个周期 20%** 的折扣。Bruno 用 Reach 500（Grow）的 24 个月套餐测试过，折扣已生效。续费按标价收费，没有这 20%。",
-          "页面价格与购物车价格可能不同。请在购物车里确认实际适用哪个价格，以及 SONAR20 能从中减多少。其他套餐和周期没有测试，请在购物车确认。优惠码的完整规则见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+          "页面价格与购物车价格可能不同。请在购物车里确认实际适用哪个价格，以及 SONAR20 能从中减多少。其他套餐和周期的最终价格以购物车显示为准。优惠码的完整规则见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -160135,7 +160135,7 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach 有 WhatsApp 吗？有，只在 Pro 套餐中。页面没有显示每条消息的费用，请在后台确认。",
           "Reach 500 是什么？它是购物车中 Grow 套餐的名称，对应 500 名收件人的上限，每月 3,500 封邮件。",
           "Hostinger Reach 还是 Mailchimp？如果收件人在 1,000 人以内，选 Reach。如果想免费开始，或名单超过 1,000 人，选 Mailchimp 或 Brevo。",
-          "SONAR20 适用于 Hostinger Reach 吗？适用。Bruno 用 Reach 500 的 24 个月套餐测试过，折扣已生效。其他套餐和周期没有测试，请在购物车确认。",
+          "SONAR20 适用于 Hostinger Reach 吗？适用。Bruno 用 Reach 500 的 24 个月套餐测试过，折扣已生效。其他套餐和周期的最终价格以购物车显示为准。",
           "已有 Hostinger 账户的客户也能用 SONAR20 吗？符合条件的新购即使已有账户也可以适用。域名注册和续费不适用。"
         ]
       },
@@ -160284,7 +160284,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reach 方案",
         "paragraphs": [
-          "Reach 有三個付費方案，沒有免費版：Starter、Grow 和 Pro。在購物車裡，Grow 因為 500 位收件人的上限而顯示為「Reach 500」。下面是 2026 年 10 月 30 日在 Hostinger 國際站讀到的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異：",
+          "Reach 有三個付費方案，沒有免費版：Starter、Grow 和 Pro。在購物車裡，Grow 因為 500 位收件人的上限而顯示為「Reach 500」。下面是 2026 年 10 月 30 日在 Hostinger 國際站上顯示的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異：",
           "頁面寫明，可在 30 天內申請退款。"
         ],
         "comparisonTable": {
@@ -160324,7 +160324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mailchimp 與 Brevo：免費版",
         "paragraphs": [
-          "兩家都有免費版，Reach 在國際站上也沒有免費版。兩家付費方案的美元價格我們沒有讀到，所以這裡不列。2026 年 10 月 30 日頁面上的免費版如下："
+          "兩家都有免費版，Reach 在國際站上也沒有免費版。兩家付費方案沒有標出美元價格，所以這裡不列。2026 年 10 月 30 日頁面上的免費版如下："
         ],
         "comparisonTable": {
           "headers": [
@@ -160371,7 +160371,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 與 Reach 價格",
         "paragraphs": [
           "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享受**首期 20%** 的折扣。Bruno 用 Reach 500（Grow）的 24 個月方案測試過，折扣已生效。",
-          "頁面價格與購物車價格可能不同。請在購物車裡確認實際適用哪個價格，以及 SONAR20 能從中扣多少。其他方案和期間沒有測試，請在購物車確認。優惠碼的完整規則見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
+          "頁面價格與購物車價格可能不同。請在購物車裡確認實際適用哪個價格，以及 SONAR20 能從中扣多少。其他方案和期間的最終價格以購物車顯示為準。優惠碼的完整規則見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -160392,7 +160392,7 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach 有 WhatsApp 嗎？有，只在 Pro 方案裡。頁面沒有顯示每則訊息的費用，請在後台確認。",
           "Reach 500 是什麼？它是購物車中 Grow 方案的名稱，對應 500 位收件人的上限，每月 3,500 封郵件。",
           "Hostinger Reach 還是 Mailchimp？如果收件人在 1,000 人以內，選 Reach。如果想免費開始，或名單超過 1,000 人，選 Mailchimp 或 Brevo。",
-          "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間沒有測試，請在購物車確認。",
+          "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間的最終價格以購物車顯示為準。",
           "已有 Hostinger 帳號的客戶也能用 SONAR20 嗎？符合條件的新購即使已有帳號也可以適用。網域註冊和續訂不適用。"
         ]
       },
@@ -160510,7 +160510,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços da Hostinger",
         "paragraphs": [
-          "Na Hostinger, a promoção dura 48 meses e a renovação é de 3 a 5 vezes o promocional. Preços lidos em 30/10/2026, em campanha de Black Friday sem data de fim:"
+          "Na Hostinger, a promoção dura 48 meses e a renovação é de 3 a 5 vezes o promocional. Preços em 30/10/2026, em campanha de Black Friday sem data de fim:"
         ],
         "comparisonTable": {
           "headers": [
@@ -160710,7 +160710,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 na Hostinger",
         "paragraphs": [
-          "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. Testamos o código no Startup de e-commerce, no e-mail profissional e no Reach; para o plano de hospedagem ou VPS que escolher, confira a aplicação no carrinho. Registro de domínio e renovação ficam fora. Condições em [cupons da Hostinger](/cupons/hostinger).",
+          "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. O código vale no Startup de e-commerce, no e-mail profissional e no Reach; para o plano de hospedagem ou VPS que escolher, confira a aplicação no carrinho. Registro de domínio e renovação ficam fora. Condições em [cupons da Hostinger](/cupons/hostinger).",
           "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
         ]
       },
@@ -160848,7 +160848,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger prices",
         "paragraphs": [
-          "On Hostinger, the promotion lasts 48 months and renewal costs 3 to 5 times the promotional price. Prices read on October 30, 2026, on the international site, in US dollars, during a Black Friday campaign with no end date:"
+          "On Hostinger, the promotion lasts 48 months and renewal costs 3 to 5 times the promotional price. Prices on October 30, 2026, on the international site, in US dollars, during a Black Friday campaign with no end date:"
         ],
         "comparisonTable": {
           "headers": [
@@ -160952,7 +160952,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 on Hostinger",
         "paragraphs": [
-          "Enter **SONAR20** in the cart for 20% off the first term of an eligible new purchase, including with an existing account. We tested it on e-commerce Startup, professional email and Reach. For the hosting or VPS plan you choose, check its application in the cart. Domain registration and renewal are excluded. See [Hostinger coupons](/en/coupons/hostinger)."
+          "Enter **SONAR20** in the cart for 20% off the first term of an eligible new purchase, including with an existing account. It works on e-commerce Startup, professional email and Reach. For the hosting or VPS plan you choose, check its application in the cart. Domain registration and renewal are excluded. See [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
@@ -161089,7 +161089,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Precios de Hostinger",
         "paragraphs": [
-          "En Hostinger, la promoción dura 48 meses y la renovación cuesta de 3 a 5 veces el precio promocional. Precios leídos el 30 de octubre de 2026 en el sitio internacional, en dólares, durante una campaña de Black Friday sin fecha de fin:"
+          "En Hostinger, la promoción dura 48 meses y la renovación cuesta de 3 a 5 veces el precio promocional. Precios al 30 de octubre de 2026 en el sitio internacional, en dólares, durante una campaña de Black Friday sin fecha de fin:"
         ],
         "comparisonTable": {
           "headers": [
@@ -161193,7 +161193,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 en Hostinger",
         "paragraphs": [
-          "Introduce **SONAR20** en el carrito para un 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Lo probamos en Startup de e-commerce, correo profesional y Reach. Para el plan de hosting o VPS que elijas, comprueba la aplicación en el carrito. Registro de dominio y renovación quedan fuera. Consulta [cupones de Hostinger](/es/coupons/hostinger)."
+          "Introduce **SONAR20** en el carrito para un 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Funciona en Startup de e-commerce, correo profesional y Reach. Para el plan de hosting o VPS que elijas, comprueba la aplicación en el carrito. Registro de dominio y renovación quedan fuera. Consulta [cupones de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -161330,7 +161330,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prix de Hostinger",
         "paragraphs": [
-          "Chez Hostinger, la promotion dure 48 mois et le renouvellement coûte de 3 à 5 fois le prix promotionnel. Prix relevés le 30 octobre 2026 sur le site international, en dollars américains, pendant une campagne Black Friday sans date de fin :"
+          "Chez Hostinger, la promotion dure 48 mois et le renouvellement coûte de 3 à 5 fois le prix promotionnel. Prix au 30 octobre 2026 sur le site international, en dollars américains, pendant une campagne Black Friday sans date de fin :"
         ],
         "comparisonTable": {
           "headers": [
@@ -161434,7 +161434,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le code SONAR20 chez Hostinger",
         "paragraphs": [
-          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Nous l'avons testé sur Startup e-commerce, l'e-mail professionnel et Reach. Pour le forfait d'hébergement ou VPS choisi, vérifiez la remise au panier. Enregistrement de domaine et renouvellement sont exclus. Voir [les codes promo Hostinger](/fr/coupons/hostinger)."
+          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Il s'applique à Startup e-commerce, à l'e-mail professionnel et à Reach. Pour le forfait d'hébergement ou VPS choisi, vérifiez la remise au panier. Enregistrement de domaine et renouvellement sont exclus. Voir [les codes promo Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -161571,7 +161571,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prezzi Hostinger",
         "paragraphs": [
-          "Alla Hostinger la promozione dura 48 mesi e il rinnovo costa da 3 a 5 volte il prezzo promozionale. Prezzi letti il 30/10/2026 sul sito internazionale, in dollari, durante una campagna Black Friday senza data di fine:"
+          "Alla Hostinger la promozione dura 48 mesi e il rinnovo costa da 3 a 5 volte il prezzo promozionale. Prezzi al 30/10/2026 sul sito internazionale, in dollari, durante una campagna Black Friday senza data di fine:"
         ],
         "comparisonTable": {
           "headers": [
@@ -161675,7 +161675,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 con la Hostinger",
         "paragraphs": [
-          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Lo abbiamo provato su Startup e-commerce, e-mail professionale e Reach. Per il piano hosting o VPS scelto, verifica l'applicazione nel carrello. Registrazione di dominio e rinnovo sono esclusi. Consulta i [coupon Hostinger](/it/coupons/hostinger)."
+          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Vale su Startup e-commerce, e-mail professionale e Reach. Per il piano hosting o VPS scelto, verifica l'applicazione nel carrello. Registrazione di dominio e rinnovo sono esclusi. Consulta i [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -161916,7 +161916,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20 bei Hostinger",
         "paragraphs": [
-          "Geben Sie **SONAR20** im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs, auch mit bestehendem Konto. Wir haben ihn bei E-Commerce Startup, geschäftlicher E-Mail und Reach getestet. Prüfen Sie für den gewählten Hosting- oder VPS-Tarif die Anwendung im Warenkorb. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Siehe [Hostinger-Gutscheine](/de/coupons/hostinger)."
+          "Geben Sie **SONAR20** im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs, auch mit bestehendem Konto. Er gilt bei E-Commerce Startup, geschäftlicher E-Mail und Reach. Prüfen Sie für den gewählten Hosting- oder VPS-Tarif die Anwendung im Warenkorb. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Siehe [Hostinger-Gutscheine](/de/coupons/hostinger)."
         ]
       },
       {
@@ -162053,7 +162053,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostingerの料金",
         "paragraphs": [
-          "Hostingerの国際サイトで、2026年10月30日に確認したサイト用ホスティングの料金です。米ドル建てで、48か月プランの金額を載せています。ブラックフライデーのキャンペーン中で、終了日は書かれていません。"
+          "Hostingerの国際サイトで、2026年10月30日時点のサイト用ホスティング料金です。米ドル建てで、48か月プランの金額を載せています。ブラックフライデーのキャンペーン中で、終了日は書かれていません。"
         ],
         "comparisonTable": {
           "headers": [
@@ -162098,10 +162098,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "サイト数で選ぶプラン",
         "paragraphs": [
-          "プランは一対一で並べるものではないので、サイト数で分けて見ます。確認したHostingerのプランは次のとおりです。"
+          "プランは一対一で並べるものではないので、サイト数で分けて見ます。比較したHostingerのプランは次のとおりです。"
         ],
         "bullets": [
-          "**3サイトまで:** Premium。割引価格は月額US$2.49、更新後は月額US$10.99で、確認したプランの中でどちらもいちばん低くなっています。",
+          "**3サイトまで:** Premium。割引価格は月額US$2.49、更新後は月額US$10.99で、比較したプランの中でどちらもいちばん低くなっています。",
           "**サイト数が無制限:** Unlimited。50 GB NVMeと毎日のバックアップがあり、更新後は月額US$16.99です。サイトが多いなら、1サイトあたりの月額を計算してみてください。",
           "**一番上のプラン:** Cloud Startup。100 GB NVMeで、更新後は月額US$25.99です。追加の性能が本当に必要なときだけ意味があります。ふつうの複数サイトなら、Unlimitedで足ります。"
         ],
@@ -162157,23 +162157,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "HostingerのクーポンSONAR20",
         "paragraphs": [
-          "カートで**SONAR20**を入力すると、対象の新規購入の初回契約期間が20%割引になります。既存アカウントでも対象になります。私たちが試したのはStartupのEコマース、プロ仕様メール、Reachです。選んだホスティングやVPSプランへの適用はカートで確認してください。ドメイン登録と更新は対象外です。[Hostingerのクーポン](/ja/coupons/hostinger)をご覧ください。"
+          "カートで**SONAR20**を入力すると、対象の新規購入の初回契約期間が20%割引になります。既存アカウントでも対象になります。StartupのEコマース、プロ仕様メール、Reachでも使えます。選んだホスティングやVPSプランへの適用はカートで確認してください。ドメイン登録と更新は対象外です。[Hostingerのクーポン](/ja/coupons/hostinger)をご覧ください。"
         ]
       },
       {
         "heading": "結論：どれを選ぶか",
         "paragraphs": [
-          "**3サイトまでならPremium**です。ブログ、ポートフォリオ、会社の紹介ページなどに向いていますが、アプリ、容量、バックアップの条件に合うか先に確認してください。確認したプランの中で、割引価格も更新料もいちばん低く、割引は48か月続きます。処理能力とメモリを確実に使いたいなら、VPSのKVM 1（1 vCPU、4 GB）かKVM 2（2 vCPU、8 GB）を見てください。",
+          "**3サイトまでならPremium**です。ブログ、ポートフォリオ、会社の紹介ページなどに向いていますが、アプリ、容量、バックアップの条件に合うか先に確認してください。比較したプランの中で、割引価格も更新料もいちばん低く、割引は48か月続きます。処理能力とメモリを確実に使いたいなら、VPSのKVM 1（1 vCPU、4 GB）かKVM 2（2 vCPU、8 GB）を見てください。",
           "**サイトが4つ以上**ある場合や、容量と毎日のバックアップが大事な場合は、**Unlimited**です。更新後は月額US$16.99です。Cloud Startupは、追加の性能が必要な人向けです。",
           "**どの場合も**、支払う前に更新料の欄を見て、カートで金額を確認してください。キャンペーン中なので、料金は変わることがあります。",
-          "自分のサイトなら、サイトが1つのときはPremiumを選びます。割引価格も更新料も、確認したプランの中でいちばん低いからです。"
+          "自分のサイトなら、サイトが1つのときはPremiumを選びます。割引価格も更新料も、比較したプランの中でいちばん低いからです。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
           "1つのサイトなら、どのプランがいちばん安い？ アプリ、容量、バックアップの条件に合えば、3サイトまで使えるPremiumです。割引価格は月額US$2.49、更新後は月額US$10.99で、期間は48か月です。",
-          "Hostingerの更新料はいくらですか？ 国際サイトで確認したところ、Premiumは月額US$10.99、Unlimitedは月額US$16.99、Cloud Startupは月額US$25.99です。国や通貨で変わることがあるので、支払う前にカートで確認してください。",
+          "Hostingerの更新料はいくらですか？ 国際サイトでは、Premiumは月額US$10.99、Unlimitedは月額US$16.99、Cloud Startupは月額US$25.99です。国や通貨で変わることがあるので、支払う前にカートで確認してください。",
           "VPSはどのプランから見ればいいですか？ 入門のKVM 1（1 vCPU、4 GB、50 GB NVMe）は、24か月契約で割引価格が月額US$6.49、更新後は月額US$11.99です。KVM 2は2 vCPU、8 GBで、割引価格は月額US$8.79です。長い期間で契約する前に、カートで更新料を確認してください。",
           "Hostingerはサーバーの場所を公開していますか？ はい。公式の一覧には、ウェブ、クラウド、VPSのプランについて、ヨーロッパ、アジア、北米、南米のデータセンターが載っています。空き状況によります。メールは別に、フランスとドイツに保存されます。",
           "SONAR20はVPSでも使えますか？ はい、対象の新規VPS購入なら初回契約期間が20%割引になります。カートで割引を確認してください。",
@@ -162212,7 +162212,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Premiumを選ぶのは、サイトが3つまでで、アプリ、容量、バックアップの条件に合う場合です。ブログ、ポートフォリオ、会社の紹介ページなら、割引価格も更新料も確認したプランの中でいちばん低くなります。",
+        "Premiumを選ぶのは、サイトが3つまでで、アプリ、容量、バックアップの条件に合う場合です。ブログ、ポートフォリオ、会社の紹介ページなら、割引価格も更新料も比較したプランの中でいちばん低くなります。",
         "VPSを選ぶのは、処理能力とメモリを確実に使いたい場合です。入門のKVM 1でも、メモリは4 GBあります。"
       ],
       "skipIf": [
@@ -162293,7 +162293,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "호스팅어 가격",
         "paragraphs": [
-          "호스팅어 국제 사이트에서 2026년 10월 30일에 확인한 웹 호스팅 가격입니다. 미국 달러 기준이고 48개월 플랜 금액입니다. 블랙프라이데이 캠페인 중이며 종료일은 적혀 있지 않습니다."
+          "호스팅어 국제 사이트에서 2026년 10월 30일 기준 웹 호스팅 가격입니다. 미국 달러 기준이고 48개월 플랜 금액입니다. 블랙프라이데이 캠페인 중이며 종료일은 적혀 있지 않습니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -162338,10 +162338,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "사이트 수로 고르는 플랜",
         "paragraphs": [
-          "플랜은 일대일로 맞춰 비교하는 것이 아니라 사이트 수로 나누어 봅니다. 확인한 호스팅어 플랜은 다음과 같습니다."
+          "플랜은 일대일로 맞춰 비교하는 것이 아니라 사이트 수로 나누어 봅니다. 비교한 호스팅어 플랜은 다음과 같습니다."
         ],
         "bullets": [
-          "**사이트 3개까지:** Premium. 프로모션가는 월 US$ 2.49, 갱신가는 월 US$ 10.99로, 확인한 플랜 중 둘 다 가장 낮습니다.",
+          "**사이트 3개까지:** Premium. 프로모션가는 월 US$ 2.49, 갱신가는 월 US$ 10.99로, 비교한 플랜 중 둘 다 가장 낮습니다.",
           "**사이트 무제한:** Unlimited. 50 GB NVMe에 일일 백업이 있고 갱신가는 월 US$ 16.99입니다. 사이트가 많다면 사이트당 월 비용을 계산해 보세요.",
           "**가장 높은 플랜:** Cloud Startup. 100 GB NVMe에 갱신가는 월 US$ 25.99입니다. 추가 성능이 실제로 필요할 때만 의미가 있고, 보통의 여러 사이트라면 Unlimited로 충분합니다."
         ],
@@ -162397,23 +162397,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰",
         "paragraphs": [
-          "카트에서 **SONAR20**을 입력하면 대상 신규 구매의 첫 계약 기간에 20% 할인이 적용됩니다. 기존 계정이 있어도 적용됩니다. 저희는 Startup 이커머스, 전문 이메일과 Reach에서 시험했습니다. 선택한 호스팅이나 VPS 플랜의 적용 여부는 카트에서 확인하세요. 도메인 등록과 갱신은 제외됩니다. [호스팅어 쿠폰](/ko/coupons/hostinger)을 확인하세요."
+          "카트에서 **SONAR20**을 입력하면 대상 신규 구매의 첫 계약 기간에 20% 할인이 적용됩니다. 기존 계정이 있어도 적용됩니다. Startup 이커머스, 전문 이메일, Reach에서도 쓸 수 있습니다. 선택한 호스팅이나 VPS 플랜의 적용 여부는 카트에서 확인하세요. 도메인 등록과 갱신은 제외됩니다. [호스팅어 쿠폰](/ko/coupons/hostinger)을 확인하세요."
         ]
       },
       {
         "heading": "어떤 플랜을 고를까: 결론",
         "paragraphs": [
-          "**사이트가 3개까지**, 예를 들어 블로그, 포트폴리오, 회사 소개 페이지이고 애플리케이션, 공간, 백업 요구에 맞는다면 Premium입니다. 확인한 플랜 중 프로모션가와 갱신가가 모두 가장 낮고, 프로모션은 48개월 동안 이어집니다. 처리 능력과 메모리를 보장받아야 한다면 VPS의 KVM 1(1 vCPU, 4 GB)이나 KVM 2(2 vCPU, 8 GB)를 보세요.",
+          "**사이트가 3개까지**, 예를 들어 블로그, 포트폴리오, 회사 소개 페이지이고 애플리케이션, 공간, 백업 요구에 맞는다면 Premium입니다. 비교한 플랜 중 프로모션가와 갱신가가 모두 가장 낮고, 프로모션은 48개월 동안 이어집니다. 처리 능력과 메모리를 보장받아야 한다면 VPS의 KVM 1(1 vCPU, 4 GB)이나 KVM 2(2 vCPU, 8 GB)를 보세요.",
           "**사이트가 4개 이상**이거나 공간과 일일 백업이 중요하다면 **Unlimited**입니다. 갱신가는 월 US$ 16.99입니다. Cloud Startup은 추가 성능이 필요한 사람을 위한 플랜입니다.",
           "**어느 경우든** 결제 전에 갱신가 칸을 보고 카트에서 금액을 확인하세요. 캠페인 중이라 가격은 바뀔 수 있습니다.",
-          "제 사이트라면 사이트가 하나일 때 Premium을 고릅니다. 확인한 플랜 중 프로모션가와 갱신가가 가장 낮기 때문입니다."
+          "제 사이트라면 사이트가 하나일 때 Premium을 고릅니다. 비교한 플랜 중 프로모션가와 갱신가가 가장 낮기 때문입니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
           "사이트 하나라면 어떤 플랜이 가장 저렴한가요? 애플리케이션, 공간, 백업 요구에 맞다면 사이트 3개까지 쓸 수 있는 Premium입니다. 프로모션가는 월 US$ 2.49, 갱신가는 월 US$ 10.99이고 프로모션은 48개월입니다.",
-          "호스팅어 갱신가는 얼마인가요? 국제 사이트에서 확인한 결과 Premium은 월 US$ 10.99, Unlimited는 월 US$ 16.99, Cloud Startup은 월 US$ 25.99입니다. 국가와 통화에 따라 다를 수 있으니 결제 전에 카트에서 확인하세요.",
+          "호스팅어 갱신가는 얼마인가요? 국제 사이트 기준으로 Premium은 월 US$ 10.99, Unlimited는 월 US$ 16.99, Cloud Startup은 월 US$ 25.99입니다. 국가와 통화에 따라 다를 수 있으니 결제 전에 카트에서 확인하세요.",
           "VPS는 어떤 플랜부터 보면 되나요? 입문 플랜인 KVM 1(1 vCPU, 4 GB, 50 GB NVMe)은 24개월 기준 프로모션가가 월 US$ 6.49, 갱신가가 월 US$ 11.99입니다. KVM 2는 2 vCPU, 8 GB이고 프로모션가는 월 US$ 8.79입니다. 긴 기간으로 결제하기 전에 카트에서 갱신가를 확인하세요.",
           "호스팅어 서버는 어느 나라에 있나요? 공식 목록에 웹, 클라우드, VPS 플랜용으로 유럽, 아시아, 북미, 남미의 데이터 센터가 나와 있으며 여유 상황에 따라 달라집니다. 이메일은 따로 프랑스와 독일에 저장됩니다.",
           "SONAR20은 VPS에도 적용되나요? 네, 대상 신규 VPS 구매의 첫 계약 기간에 20% 할인이 적용됩니다. 카트에서 플랜의 할인을 확인하세요.",
@@ -162453,7 +162453,7 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "사이트가 3개까지이고 애플리케이션, 공간, 백업 요구에 맞는다면 Premium을 고르세요. 블로그, 포트폴리오, 회사 소개 페이지에 맞고, 프로모션가와 갱신가가 확인한 플랜 중 가장 낮습니다.",
+        "사이트가 3개까지이고 애플리케이션, 공간, 백업 요구에 맞는다면 Premium을 고르세요. 블로그, 포트폴리오, 회사 소개 페이지에 맞고, 프로모션가와 갱신가가 비교한 플랜 중 가장 낮습니다.",
         "처리 능력과 메모리를 보장받아야 한다면 VPS를 고르세요. 입문 플랜인 KVM 1도 메모리가 4 GB입니다."
       ],
       "skipIf": [
@@ -162534,7 +162534,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger 的价格",
         "paragraphs": [
-          "这是 2026年10月30日在 Hostinger 国际站读取的网站托管价格，以美元计，按 48 个月套餐列出。页面正在做黑色星期五促销，没有写结束日期。"
+          "这是 2026年10月30日 Hostinger 国际站上的网站托管价格，以美元计，按 48 个月套餐列出。页面正在做黑色星期五促销，没有写结束日期。"
         ],
         "comparisonTable": {
           "headers": [
@@ -162579,7 +162579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "按网站数量选套餐",
         "paragraphs": [
-          "套餐不是一一对应的，按网站数量来看，我们查看的 Hostinger 套餐是这样的："
+          "套餐不是一一对应的，按网站数量来看，对比的 Hostinger 套餐是这样的："
         ],
         "bullets": [
           "**3 个网站以内：** Premium。促销价每月 US$ 2.49，续费价每月 US$ 10.99，两项都是查看的套餐里最低的。",
@@ -162638,7 +162638,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 优惠码",
         "paragraphs": [
-          "符合条件的新购首个周期享 20% 折扣。在购物车的优惠码栏输入 **SONAR20**，已有账户也可适用。我们在购物车里测试过 Startup 电商、专业邮箱和 Reach；选定的主机或 VPS 套餐请在购物车确认适用情况。域名注册与续费除外。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
+          "符合条件的新购首个周期享 20% 折扣。在购物车的优惠码栏输入 **SONAR20**，已有账户也可适用。Startup 电商、专业邮箱和 Reach 都适用；选定的主机或 VPS 套餐请在购物车确认适用情况。域名注册与续费除外。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -162654,7 +162654,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "网站只有一个，哪个套餐最便宜？应用、空间和备份需求符合的话，3 个网站以内用 Premium。促销价每月 US$ 2.49，续费价每月 US$ 10.99，促销期 48 个月。",
-          "Hostinger 续费多少钱？在国际站上看到的是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各国和货币可能不同，付款前请在购物车确认。",
+          "Hostinger 续费多少钱？国际站的价格是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各国和货币可能不同，付款前请在购物车确认。",
           "VPS 从哪个套餐看起？入门的 KVM 1（1 vCPU，4 GB，50 GB NVMe）按 24 个月计，促销价每月 US$ 6.49，续费价每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促销价每月 US$ 8.79。购买长周期之前，先在购物车确认续费价。",
           "Hostinger 的服务器在哪个国家？官方列表中，网站、云和 VPS 套餐在欧洲、亚洲、北美和南美都有数据中心，以实际可用为准。邮箱另外存放在法国和德国。",
           "SONAR20 能用在 VPS 上吗？能，符合条件的新购 VPS 首个周期享 20% 折扣，请在购物车确认。",
@@ -162775,7 +162775,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger 的價格",
         "paragraphs": [
-          "這是 2026年10月30日在 Hostinger 國際站讀取的網站代管價格，以美元計，按 48 個月方案列出。頁面正在進行黑色星期五促銷，沒有寫結束日期。"
+          "這是 2026年10月30日 Hostinger 國際站上的網站代管價格，以美元計，按 48 個月方案列出。頁面正在進行黑色星期五促銷，沒有寫結束日期。"
         ],
         "comparisonTable": {
           "headers": [
@@ -162820,7 +162820,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "依網站數量選方案",
         "paragraphs": [
-          "方案不是一一對應的，依網站數量來看，我們查看的 Hostinger 方案是這樣的："
+          "方案不是一一對應的，依網站數量來看，比較的 Hostinger 方案是這樣的："
         ],
         "bullets": [
           "**3 個網站以內：** Premium。促銷價每月 US$ 2.49，續訂價每月 US$ 10.99，兩項都是查看的方案裡最低的。",
@@ -162879,7 +162879,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [
-          "符合資格的新購買首期享 20% 折扣。在購物車的優惠碼欄位輸入 **SONAR20**，已有帳號也可適用。我們在購物車裡測試過 Startup 電商方案、專業電子郵件和 Reach；選定的主機或 VPS 方案請在購物車確認適用情形。網域註冊與續訂除外。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
+          "符合資格的新購買首期享 20% 折扣。在購物車的優惠碼欄位輸入 **SONAR20**，已有帳號也可適用。Startup 電商方案、專業電子郵件和 Reach 都適用；選定的主機或 VPS 方案請在購物車確認適用情形。網域註冊與續訂除外。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -162895,7 +162895,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "網站只有一個，哪個方案最便宜？應用程式、空間與備份需求符合的話，3 個網站以內用 Premium。促銷價每月 US$ 2.49，續訂價每月 US$ 10.99，促銷期 48 個月。",
-          "Hostinger 續訂要多少錢？在國際站上看到的是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各國和貨幣可能不同，付款前請在購物車確認。",
+          "Hostinger 續訂要多少錢？國際站的價格是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各國和貨幣可能不同，付款前請在購物車確認。",
           "VPS 從哪個方案看起？入門的 KVM 1（1 vCPU，4 GB，50 GB NVMe）以 24 個月計，促銷價每月 US$ 6.49，續訂價每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促銷價每月 US$ 8.79。購買長週期之前，先在購物車確認續訂價。",
           "Hostinger 的伺服器在哪個國家？官方清單中，網站、雲端和 VPS 方案在歐洲、亞洲、北美和南美都有資料中心，以實際可用為準。信箱另外存放在法國和德國。",
           "SONAR20 能用在 VPS 上嗎？能，符合資格的新購 VPS 首期享 20% 折扣，請在購物車確認。",
@@ -163019,7 +163019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e renovação",
         "paragraphs": [
-          "Na Hostinger, a promoção dura 48 meses e a renovação é de 3 a 5 vezes o promocional. Os preços abaixo são da página brasileira de hospedagem WordPress, lidos em 30/10/2026, na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
+          "Na Hostinger, a promoção dura 48 meses e a renovação é de 3 a 5 vezes o promocional. Os preços abaixo são da página brasileira de hospedagem WordPress, de 30/10/2026, na campanha de Black Friday. O preço por mês é o total dividido por 48. A renovação é o preço por mês depois do primeiro período:"
         ],
         "comparisonTable": {
           "headers": [
@@ -163252,7 +163252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Price and renewal",
         "paragraphs": [
-          "The prices below come from Hostinger's international site, in US dollars, read on October 30, 2026, on the 48-month term and the campaign's promotional price. The monthly price is the total divided by 48. Renewal is the monthly price after the first period. Prices can vary by country and currency, so check the cart:"
+          "The prices below come from Hostinger's international site, in US dollars, as of October 30, 2026, on the 48-month term and the campaign's promotional price. The monthly price is the total divided by 48. Renewal is the monthly price after the first period. Prices can vary by country and currency, so check the cart:"
         ],
         "comparisonTable": {
           "headers": [
@@ -163354,7 +163354,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Who writes this",
         "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. The site does not use WordPress, and no one on the team has used WordPress on Hostinger: this text gathers what Hostinger's WordPress hosting pages on the international site, in US dollars, say, read on October 30, 2026."
+          "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. The site does not use WordPress, and no one on the team has used WordPress on Hostinger: this text gathers what Hostinger's WordPress hosting pages on the international site, in US dollars, say."
         ]
       }
     ],
@@ -163467,7 +163467,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Precio y renovación",
         "paragraphs": [
-          "Los precios de abajo son del sitio internacional de Hostinger, en dólares estadounidenses, leídos el 30 de octubre de 2026, con el plazo de 48 meses y el precio promocional de la campaña. El precio por mes es el total dividido entre 48. La renovación es el precio por mes después del primer período. Los precios pueden variar según el país y la moneda, así que confirma en el carrito:"
+          "Los precios de abajo son del sitio internacional de Hostinger, en dólares estadounidenses, del 30 de octubre de 2026, con el plazo de 48 meses y el precio promocional de la campaña. El precio por mes es el total dividido entre 48. La renovación es el precio por mes después del primer período. Los precios pueden variar según el país y la moneda, así que confirma en el carrito:"
         ],
         "comparisonTable": {
           "headers": [
@@ -163569,7 +163569,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quién escribe",
         "paragraphs": [
-          "Em Casa com Cecília funciona en el hosting administrado de Hostinger, como Node.js Web App, y el dominio está registrado en Hostinger desde 2024. El sitio no usa WordPress, y nadie del equipo ha usado WordPress en Hostinger: este texto reúne lo que dicen las páginas de hosting de WordPress del sitio internacional, en dólares, leídas el 30 de octubre de 2026."
+          "Em Casa com Cecília funciona en el hosting administrado de Hostinger, como Node.js Web App, y el dominio está registrado en Hostinger desde 2024. El sitio no usa WordPress, y nadie del equipo ha usado WordPress en Hostinger: este texto reúne lo que dicen las páginas de hosting de WordPress del sitio internacional, en dólares."
         ]
       }
     ],
@@ -163682,7 +163682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prix et renouvellement",
         "paragraphs": [
-          "Les prix ci-dessous viennent du site international de Hostinger, en dollars américains, relevés le 30 octobre 2026, sur une durée de 48 mois et au prix promotionnel de la campagne. Le prix par mois est le total divisé par 48. Le renouvellement est le prix mensuel après la première période. Les prix peuvent varier selon le pays et la devise. Vérifiez dans le panier :"
+          "Les prix ci-dessous viennent du site international de Hostinger, en dollars américains, au 30 octobre 2026, sur une durée de 48 mois et au prix promotionnel de la campagne. Le prix par mois est le total divisé par 48. Le renouvellement est le prix mensuel après la première période. Les prix peuvent varier selon le pays et la devise. Vérifiez dans le panier :"
         ],
         "comparisonTable": {
           "headers": [
@@ -163784,7 +163784,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qui écrit",
         "paragraphs": [
-          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis 2024. Le site n'utilise pas WordPress, et personne dans l'équipe n'a utilisé WordPress chez Hostinger : ce texte réunit ce que disent les pages d'hébergement WordPress du site international, en dollars, relevées le 30 octobre 2026."
+          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis 2024. Le site n'utilise pas WordPress, et personne dans l'équipe n'a utilisé WordPress chez Hostinger : ce texte réunit ce que disent les pages d'hébergement WordPress du site international, en dollars."
         ]
       }
     ],
@@ -163897,7 +163897,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prezzo e rinnovo",
         "paragraphs": [
-          "I prezzi qui sotto sono quelli della pagina internazionale di Hostinger per l'hosting WordPress, in dollari statunitensi, letti il 30/10/2026, con durata di 48 mesi e nella campagna del Black Friday. Il prezzo al mese è il totale diviso per 48. Il rinnovo è il prezzo al mese dopo il primo periodo. Sono i prezzi del sito internazionale in dollari: possono cambiare per paese e valuta:"
+          "I prezzi qui sotto sono quelli della pagina internazionale di Hostinger per l'hosting WordPress, in dollari statunitensi, del 30/10/2026, con durata di 48 mesi e nella campagna del Black Friday. Il prezzo al mese è il totale diviso per 48. Il rinnovo è il prezzo al mese dopo il primo periodo. Sono i prezzi del sito internazionale in dollari: possono cambiare per paese e valuta:"
         ],
         "comparisonTable": {
           "headers": [
@@ -163999,7 +163999,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chi scrive",
         "paragraphs": [
-          "L'Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio è registrato presso Hostinger dal 2024. Il sito non usa WordPress, e nessuno del team ha usato WordPress su Hostinger: questo testo riunisce quello che dicono le pagine di Hostinger per l'hosting WordPress del sito internazionale, in dollari, lette il 30/10/2026."
+          "L'Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio è registrato presso Hostinger dal 2024. Il sito non usa WordPress, e nessuno del team ha usato WordPress su Hostinger: questo testo riunisce quello che dicono le pagine di Hostinger per l'hosting WordPress del sito internazionale, in dollari."
         ]
       }
     ],
@@ -164112,7 +164112,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preis und Verlängerung",
         "paragraphs": [
-          "Die Preise unten stammen von der internationalen Hostinger-Seite für WordPress-Hosting, in US-Dollar, gelesen am 30.10.2026, mit 48 Monaten Laufzeit und in der Black-Friday-Aktion. Der Preis pro Monat ist die Gesamtsumme geteilt durch 48. Die Verlängerung ist der Monatspreis nach dem ersten Zeitraum. Das sind die Preise der internationalen Seite in Dollar; sie können je nach Land und Währung abweichen:"
+          "Die Preise unten stammen von der internationalen Hostinger-Seite für WordPress-Hosting, in US-Dollar, Stand 30.10.2026, mit 48 Monaten Laufzeit und in der Black-Friday-Aktion. Der Preis pro Monat ist die Gesamtsumme geteilt durch 48. Die Verlängerung ist der Monatspreis nach dem ersten Zeitraum. Das sind die Preise der internationalen Seite in Dollar; sie können je nach Land und Währung abweichen:"
         ],
         "comparisonTable": {
           "headers": [
@@ -164214,7 +164214,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wer schreibt",
         "paragraphs": [
-          "Der Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger als Node.js Web App, und die Domain ist seit 2024 bei Hostinger registriert. Die Seite nutzt kein WordPress, und niemand aus dem Team hat WordPress bei Hostinger genutzt. Dieser Text fasst zusammen, was die WordPress-Hosting-Seiten von Hostinger auf der internationalen Seite, in US-Dollar, sagen, gelesen am 30.10.2026."
+          "Der Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger als Node.js Web App, und die Domain ist seit 2024 bei Hostinger registriert. Die Seite nutzt kein WordPress, und niemand aus dem Team hat WordPress bei Hostinger genutzt. Dieser Text fasst zusammen, was die WordPress-Hosting-Seiten von Hostinger auf der internationalen Seite, in US-Dollar, sagen."
         ]
       }
     ],
@@ -164327,7 +164327,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "料金と更新料",
         "paragraphs": [
-          "Hostinger のプロモーション期間は48か月で、更新料はプロモーション価格の約3〜5倍です。下の料金は、Hostinger の国際版 WordPress ホスティングのページ（米ドル）を2026年10月30日、ブラックフライデーのキャンペーン中に読んだものです。月額は合計を48で割った値です。更新料は、最初の期間の後の月額です。国や通貨によって異なる場合があります。"
+          "Hostinger のプロモーション期間は48か月で、更新料はプロモーション価格の約3〜5倍です。下の料金は、Hostinger の国際版 WordPress ホスティングのページ（米ドル）の、2026年10月30日のブラックフライデーのキャンペーン中の価格です。月額は合計を48で割った値です。更新料は、最初の期間の後の月額です。国や通貨によって異なる場合があります。"
         ],
         "comparisonTable": {
           "headers": [
@@ -164541,7 +164541,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "가격과 갱신",
         "paragraphs": [
-          "호스팅어의 프로모션은 48개월 동안 이어지고, 갱신가는 프로모션 가격의 3~5배입니다. 아래 가격은 호스팅어 국제 사이트 WordPress 호스팅 페이지의 미국 달러 가격으로, 2026년 10월 30일 블랙프라이데이 캠페인 기간에 읽었습니다. 월 가격은 48개월 총액을 48로 나눈 값입니다. 갱신가는 첫 기간이 끝난 뒤의 월 가격입니다. 국가와 통화에 따라 달라질 수 있습니다."
+          "호스팅어의 프로모션은 48개월 동안 이어지고, 갱신가는 프로모션 가격의 3~5배입니다. 아래 가격은 호스팅어 국제 사이트 WordPress 호스팅 페이지의 미국 달러 가격으로, 2026년 10월 30일 블랙프라이데이 캠페인 기간 기준입니다. 월 가격은 48개월 총액을 48로 나눈 값입니다. 갱신가는 첫 기간이 끝난 뒤의 월 가격입니다. 국가와 통화에 따라 달라질 수 있습니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -164756,7 +164756,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "价格与续费",
         "paragraphs": [
-          "Hostinger 的促销期为 48 个月，续费价是促销价的 3 到 5 倍。以下价格来自 Hostinger 国际站 WordPress 主机页面（美元），于 2026年10月30日读取，当时正值黑色星期五活动期间。月价为 48 个月总价除以 48。续费是第一个周期结束后的月价。价格可能因国家和货币而异："
+          "Hostinger 的促销期为 48 个月，续费价是促销价的 3 到 5 倍。以下价格来自 Hostinger 国际站 WordPress 主机页面（美元），为 2026年10月30日黑色星期五活动期间的价格。月价为 48 个月总价除以 48。续费是第一个周期结束后的月价。价格可能因国家和货币而异："
         ],
         "comparisonTable": {
           "headers": [
@@ -164971,7 +164971,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "價格與續約",
         "paragraphs": [
-          "Hostinger 的優惠期為 48 個月，續約價是優惠價的 3 到 5 倍。以下價格取自 Hostinger 國際站 WordPress 主機頁面（美元），於 2026年10月30日黑色星期五活動期間查閱。每月價格為 48 個月總價除以 48。續約價是第一期結束後的每月價格。價格可能依國家與幣別而異："
+          "Hostinger 的優惠期為 48 個月，續約價是優惠價的 3 到 5 倍。以下價格取自 Hostinger 國際站 WordPress 主機頁面（美元），為 2026年10月30日黑色星期五活動期間的價格。每月價格為 48 個月總價除以 48。續約價是第一期結束後的每月價格。價格可能依國家與幣別而異："
         ],
         "comparisonTable": {
           "headers": [
@@ -169181,7 +169181,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como escolher vestido de festa na SHEIN para formatura, casamento como convidada e fim de ano: ocasião, tecido, tamanho, prazo e imposto, com três vestidos lidos na loja.",
+    "description": "Como escolher vestido de festa na SHEIN para formatura, casamento como convidada e fim de ano: ocasião, tecido, tamanho, prazo e imposto, com três vestidos da loja.",
     "metaDescription": "Vestido de festa SHEIN com 4CW5Y: desconto na seleção indicada, ocasião, tecido, tamanho e prazo.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
@@ -169193,7 +169193,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Três vestidos com preço, envio e tecido lidos na página de cada produto",
+      "Três vestidos com preço, envio e tecido da página de cada produto",
       "Guia de tamanho em centímetros para cada peça",
       "Devolução em 20 dias, com a primeira de cada pedido grátis"
     ],
@@ -169318,7 +169318,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Três vestidos lidos na SHEIN",
+        "heading": "Três vestidos da SHEIN",
         "paragraphs": [
           "Preços de 30/10/2026, no cartão. A promoção muda o valor, então confira de novo antes de pagar. Tecido, comprimento e nota vêm das páginas dos produtos."
         ],
@@ -169562,8 +169562,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A party dress on SHEIN comes down to the occasion, the fabric and the arrival date. For Christmas and New Year's Eve, timing beats style. Plus three dresses checked in the store.",
-    "metaDescription": "SHEIN party dress: occasion, fabric, size and timing for Christmas and graduation, with three dresses from the store read on each product page.",
+    "description": "A party dress on SHEIN comes down to the occasion, the fabric and the arrival date. For Christmas and New Year's Eve, timing beats style. Plus three dresses from the store.",
+    "metaDescription": "SHEIN party dress: occasion, fabric, size and timing for Christmas and graduation, with three dresses from the store, from each product page.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -169575,7 +169575,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Three dresses with fabric, lining and rating read on each product page",
+      "Three dresses with fabric, lining and rating from each product page",
       "Size guide in centimeters for each piece"
     ],
     "cons": [
@@ -169698,9 +169698,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Three dresses checked on SHEIN",
+        "heading": "Three dresses on SHEIN",
         "paragraphs": [
-          "Fabric, length and rating come from the product pages, read on 10/30/2026. Check the price and the delivery estimate on the item page before paying."
+          "Fabric, length and rating come from the product pages, as of 10/30/2026. Check the price and the delivery estimate on the item page before paying."
         ],
         "comparisonTable": {
           "caption": "Three SHEIN dresses, with data from each product page.",
@@ -169925,8 +169925,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Cómo elegir un vestido de fiesta en SHEIN para graduación, boda como invitada y fin de año: ocasión, tela, talla y plazo, con tres vestidos revisados en la tienda.",
-    "metaDescription": "Vestido de fiesta SHEIN: ocasión, tela, talla y plazo para Navidad y graduación, con tres vestidos de la tienda leídos en la página de cada producto.",
+    "description": "Cómo elegir un vestido de fiesta en SHEIN para graduación, boda como invitada y fin de año: ocasión, tela, talla y plazo, con tres vestidos de la tienda.",
+    "metaDescription": "Vestido de fiesta SHEIN: ocasión, tela, talla y plazo para Navidad y graduación, con tres vestidos de la tienda, de la página de cada producto.",
     "publishedAt": "30 de octubre de 2026",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -169938,7 +169938,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Tres vestidos con tela, forro y valoración leídos en la página de cada producto",
+      "Tres vestidos con tela, forro y valoración de la página de cada producto",
       "Guía de tallas en centímetros para cada prenda"
     ],
     "cons": [
@@ -170061,9 +170061,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Tres vestidos leídos en SHEIN",
+        "heading": "Tres vestidos de SHEIN",
         "paragraphs": [
-          "La tela, el largo y la valoración vienen de las páginas de los productos, leídas el 30/10/2026. Compruebe el precio y la fecha de entrega prevista en la página de la prenda antes de pagar."
+          "La tela, el largo y la valoración vienen de las páginas de los productos, al 30/10/2026. Compruebe el precio y la fecha de entrega prevista en la página de la prenda antes de pagar."
         ],
         "comparisonTable": {
           "caption": "Tres vestidos de SHEIN, con datos de la página de cada producto.",
@@ -170289,7 +170289,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Une robe de soirée SHEIN se choisit selon l'occasion, le tissu et la date d'arrivée. Pour Noël et le réveillon, le délai compte plus que le modèle. Trois robes à la loupe.",
-    "metaDescription": "Robe de soirée SHEIN : occasion, tissu, taille et délai pour Noël et la remise de diplôme, avec trois robes de la boutique lues sur la page de chaque produit.",
+    "metaDescription": "Robe de soirée SHEIN : occasion, tissu, taille et délai pour Noël et la remise de diplôme, avec trois robes de la boutique, de la page de chaque produit.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -170301,7 +170301,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Trois robes avec tissu, doublure et note lus sur la page de chaque produit",
+      "Trois robes avec tissu, doublure et note de la page de chaque produit",
       "Guide des tailles en centimètres pour chaque pièce"
     ],
     "cons": [
@@ -170424,9 +170424,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Trois robes lues sur SHEIN",
+        "heading": "Trois robes de SHEIN",
         "paragraphs": [
-          "Le tissu, la longueur et la note viennent des pages des produits, lues le 30/10/2026. Vérifiez le prix et la date de livraison prévue sur la page de la pièce avant de payer."
+          "Le tissu, la longueur et la note viennent des pages des produits, au 30/10/2026. Vérifiez le prix et la date de livraison prévue sur la page de la pièce avant de payer."
         ],
         "comparisonTable": {
           "caption": "Trois robes SHEIN, avec les données de la page de chaque produit.",
@@ -170651,8 +170651,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Ein Partykleid bei SHEIN wählt man nach Anlass, Stoff und Ankunftsdatum. Für Weihnachten und Silvester zählt die Lieferzeit mehr als das Modell. Dazu drei Kleider im Check.",
-    "metaDescription": "SHEIN-Partykleid: Anlass, Stoff, Größe und Lieferzeit für Weihnachten und Abschlussfeier, mit drei Kleidern aus dem Shop, gelesen auf der Seite jedes Produkts.",
+    "description": "Ein Partykleid bei SHEIN wählt man nach Anlass, Stoff und Ankunftsdatum. Für Weihnachten und Silvester zählt die Lieferzeit mehr als das Modell. Dazu drei Kleider aus dem Shop.",
+    "metaDescription": "SHEIN-Partykleid: Anlass, Stoff, Größe und Lieferzeit für Weihnachten und Abschlussfeier, mit drei Kleidern aus dem Shop, von der Seite jedes Produkts.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -170664,7 +170664,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Drei Kleider mit Stoff, Futter und Bewertung, gelesen auf der Seite jedes Produkts",
+      "Drei Kleider mit Stoff, Futter und Bewertung von der Seite jedes Produkts",
       "Größentabelle in Zentimetern für jedes Teil"
     ],
     "cons": [
@@ -170787,9 +170787,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Drei bei SHEIN gelesene Kleider",
+        "heading": "Drei Kleider von SHEIN",
         "paragraphs": [
-          "Stoff, Länge und Bewertung stammen von den Produktseiten, gelesen am 30.10.2026. Prüfen Sie Preis und voraussichtlichen Liefertermin auf der Artikelseite, bevor Sie bezahlen."
+          "Stoff, Länge und Bewertung stammen von den Produktseiten, Stand 30.10.2026. Prüfen Sie Preis und voraussichtlichen Liefertermin auf der Artikelseite, bevor Sie bezahlen."
         ],
         "comparisonTable": {
           "caption": "Drei SHEIN-Kleider, mit Angaben von der Seite jedes Produkts.",
@@ -171014,8 +171014,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Come scegliere un abito da festa su SHEIN per la laurea, un matrimonio da invitata e le feste di fine anno: occasione, tessuto, taglia e tempi, con tre abiti letti nel negozio.",
-    "metaDescription": "Abito da festa SHEIN: occasione, tessuto, taglia e tempi per Natale e laurea, con tre abiti del negozio letti nella pagina di ogni prodotto.",
+    "description": "Come scegliere un abito da festa su SHEIN per la laurea, un matrimonio da invitata e le feste di fine anno: occasione, tessuto, taglia e tempi, con tre abiti del negozio.",
+    "metaDescription": "Abito da festa SHEIN: occasione, tessuto, taglia e tempi per Natale e laurea, con tre abiti del negozio, dalla pagina di ogni prodotto.",
     "publishedAt": "30 ottobre 2026",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -171027,7 +171027,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Tre abiti con tessuto, fodera e valutazione letti nella pagina di ogni prodotto",
+      "Tre abiti con tessuto, fodera e valutazione dalla pagina di ogni prodotto",
       "Guida alle taglie in centimetri per ogni capo"
     ],
     "cons": [
@@ -171150,9 +171150,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Tre abiti letti su SHEIN",
+        "heading": "Tre abiti di SHEIN",
         "paragraphs": [
-          "Tessuto, lunghezza e valutazione vengono dalle pagine dei prodotti, lette il 30/10/2026. Controllate il prezzo e la consegna prevista nella pagina del capo prima di pagare."
+          "Tessuto, lunghezza e valutazione vengono dalle pagine dei prodotti al 30/10/2026. Controllate il prezzo e la consegna prevista nella pagina del capo prima di pagare."
         ],
         "comparisonTable": {
           "caption": "Tre abiti SHEIN, con i dati della pagina di ogni prodotto.",
@@ -171377,8 +171377,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN에서 파티 드레스를 고르는 법. 졸업식, 결혼식 하객, 연말 모임에 맞춰 행사, 소재, 사이즈, 배송 기간을 정리하고 쇼핑몰에서 확인한 드레스 3벌을 소개합니다.",
-    "metaDescription": "SHEIN 파티 드레스: 크리스마스와 졸업식을 위한 행사, 소재, 사이즈, 배송 기간 가이드. 쇼핑몰의 드레스 3벌은 각 상품 페이지에서 확인한 내용입니다.",
+    "description": "SHEIN에서 파티 드레스를 고르는 법. 졸업식, 결혼식 하객, 연말 모임에 맞춰 행사, 소재, 사이즈, 배송 기간을 정리하고 쇼핑몰의 드레스 3벌을 소개합니다.",
+    "metaDescription": "SHEIN 파티 드레스: 크리스마스와 졸업식을 위한 행사, 소재, 사이즈, 배송 기간 가이드. 쇼핑몰의 드레스 3벌은 각 상품 페이지의 내용입니다.",
     "publishedAt": "2026년 10월 30일",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -171390,7 +171390,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "각 상품 페이지에서 확인한 소재, 안감, 평점이 있는 드레스 3벌",
+      "각 상품 페이지의 소재, 안감, 평점이 있는 드레스 3벌",
       "모든 상품에 센티미터 단위 사이즈 가이드 제공"
     ],
     "cons": [
@@ -171513,7 +171513,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "SHEIN에서 확인한 드레스 3벌",
+        "heading": "SHEIN의 드레스 3벌",
         "paragraphs": [
           "소재, 길이, 평점은 2026년 10월 30일 기준 각 상품 페이지의 정보입니다. 결제하기 전에 상품 페이지에서 가격과 배송 예정일을 확인하세요."
         ],
@@ -171740,8 +171740,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEINでパーティードレスを選ぶ方法。卒業式、結婚式のゲスト、年末の集まりに向けて、場面、生地、サイズ、納期を整理し、お店で確認した3着を紹介します。",
-    "metaDescription": "SHEINのパーティードレス選び：クリスマスと卒業式に向けて、場面、生地、サイズ、納期を解説。お店の3着は各商品ページで確認済みです。",
+    "description": "SHEINでパーティードレスを選ぶ方法。卒業式、結婚式のゲスト、年末の集まりに向けて、場面、生地、サイズ、納期を整理し、お店の3着を紹介します。",
+    "metaDescription": "SHEINのパーティードレス選び：クリスマスと卒業式に向けて、場面、生地、サイズ、納期を解説。お店の3着は各商品ページの情報です。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -171753,7 +171753,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "各商品ページで確認した、生地・裏地・評価つきのドレス3着",
+      "各商品ページの生地・裏地・評価つきのドレス3着",
       "全商品にセンチ表記のサイズガイドあり"
     ],
     "cons": [
@@ -171876,7 +171876,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "SHEINで確認した3着",
+        "heading": "SHEINの3着",
         "paragraphs": [
           "生地、丈、評価は2026年10月30日時点の各商品ページの情報です。支払い前に、商品ページで価格と配達予定日を確認してください。"
         ],
@@ -172103,8 +172103,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "如何在 SHEIN 挑選派對洋裝：針對畢業典禮、婚禮賓客與年終聚會，整理場合、布料、尺寸與到貨時間，並附上三件在店內查證過的洋裝。",
-    "metaDescription": "SHEIN 派對洋裝：針對聖誕節與畢業典禮，說明場合、布料、尺寸與到貨時間，三件洋裝皆已在各商品頁查證。",
+    "description": "如何在 SHEIN 挑選派對洋裝：針對畢業典禮、婚禮賓客與年終聚會，整理場合、布料、尺寸與到貨時間，並附上三件店內的洋裝。",
+    "metaDescription": "SHEIN 派對洋裝：針對聖誕節與畢業典禮，說明場合、布料、尺寸與到貨時間，三件洋裝取自各商品頁。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -172116,7 +172116,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "三件洋裝，布料、內裡與評分皆已在各商品頁查證",
+      "三件洋裝，布料、內裡與評分取自各商品頁",
       "每件商品都有以公分標示的尺寸指南"
     ],
     "cons": [
@@ -172239,9 +172239,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "在 SHEIN 查證過的三件洋裝",
+        "heading": "SHEIN 的三件洋裝",
         "paragraphs": [
-          "布料、長度與評分來自各商品頁，查證日期為2026年10月30日。付款前，請在商品頁確認價格與預計送達日期。"
+          "布料、長度與評分來自各商品頁，截至2026年10月30日。付款前，請在商品頁確認價格與預計送達日期。"
         ],
         "comparisonTable": {
           "caption": "SHEIN 的三件洋裝，資料來自各商品頁。",
@@ -172466,8 +172466,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "如何在 SHEIN 选派对礼服：针对毕业典礼、婚礼宾客和年底聚会，梳理场合、面料、尺码和到货时间，并附三条在店内核对过的裙子。",
-    "metaDescription": "SHEIN 派对礼服：针对圣诞和毕业典礼，讲解场合、面料、尺码与到货时间，三条裙子均在各商品页核对过。",
+    "description": "如何在 SHEIN 选派对礼服：针对毕业典礼、婚礼宾客和年底聚会，梳理场合、面料、尺码和到货时间，并附三条店内的裙子。",
+    "metaDescription": "SHEIN 派对礼服：针对圣诞和毕业典礼，讲解场合、面料、尺码与到货时间，三条裙子取自各商品页。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -172479,7 +172479,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "三条裙子，面料、里衬和评分均在各商品页核对过",
+      "三条裙子，面料、里衬和评分取自各商品页",
       "每件都有以厘米标注的尺码指南"
     ],
     "cons": [
@@ -172602,9 +172602,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "在 SHEIN 核对过的三条裙子",
+        "heading": "SHEIN 的三条裙子",
         "paragraphs": [
-          "面料、长度和评分来自各商品页，核对于2026年10月30日。付款前，请在商品页确认价格和预计送达日期。"
+          "面料、长度和评分来自各商品页，截至2026年10月30日。付款前，请在商品页确认价格和预计送达日期。"
         ],
         "comparisonTable": {
           "caption": "SHEIN 的三条裙子，数据来自各商品页。",
@@ -180515,7 +180515,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN vale a pena para a peça de que você sabe a medida e que pode esperar. Três peças lidas na loja mostram onde o frete, o imposto e a devolução mudam a conta antes de pagar.",
+    "description": "SHEIN vale a pena para a peça de que você sabe a medida e que pode esperar. Três peças da loja mostram onde o frete, o imposto e a devolução mudam a conta antes de pagar.",
     "metaDescription": "SHEIN vale a pena para peça de medida conhecida e sem pressa. O 4CW5Y dá desconto: use o link ou pesquise no app ou site. Frete, prazo e devolução.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
@@ -180570,7 +180570,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A conta: três peças lidas na loja",
+        "heading": "A conta: três peças da loja",
         "paragraphs": [
           "A conta muda com o envio e com o valor: a camiseta, o vestido e o casaco têm condições de envio e preços diferentes. O preço é o de venda da página, sem cupom: o \"Estimado\" que ela mostra já desconta cupom da loja e não entra aqui."
         ],
@@ -180672,7 +180672,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho: a medida, não a letra",
         "paragraphs": [
-          "O M de uma peça pode ser diferente do de outra. Regra prática, sem teste nosso: confira se o guia traz medidas do corpo ou da roupa. Compare tabela corporal com o corpo; medidas da peça podem ser comparadas com uma roupa sua que veste bem, usando o mesmo método. A diferença entre duas roupas não é a folga entre roupa e corpo. Peça sem guia em centímetros é peça para passar. Se o tipo de medida não estiver claro, confirme antes de comprar. Veja o [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil)."
+          "O M de uma peça pode ser diferente do de outra. Regra prática: confira se o guia traz medidas do corpo ou da roupa. Compare tabela corporal com o corpo; medidas da peça podem ser comparadas com uma roupa sua que veste bem, usando o mesmo método. A diferença entre duas roupas não é a folga entre roupa e corpo. Peça sem guia em centímetros é peça para passar. Se o tipo de medida não estiver claro, confirme antes de comprar. Veja o [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil)."
         ]
       },
       {
@@ -180831,7 +180831,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Size: the measurements, not the letter",
         "paragraphs": [
-          "A piece's M may differ from another. Rule of thumb, not tested by us: first check whether the guide lists body or garment measurements. Compare a body chart with your body; garment measurements can be compared with a well-fitting garment, using the same method. The difference between two garments is not the ease between clothing and body. A piece without a guide in centimeters is one to skip. If the measurement type is unclear, check before buying. See the [SHEIN size guide](/en/reviews/shein-size-guide)."
+          "A piece's M may differ from another. Rule of thumb: first check whether the guide lists body or garment measurements. Compare a body chart with your body; garment measurements can be compared with a well-fitting garment, using the same method. The difference between two garments is not the ease between clothing and body. A piece without a guide in centimeters is one to skip. If the measurement type is unclear, check before buying. See the [SHEIN size guide](/en/reviews/shein-size-guide)."
         ]
       },
       {
@@ -180987,7 +180987,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Talla: la medida, no la letra",
         "paragraphs": [
-          "La M puede variar de una prenda a otra. Regla práctica, sin prueba nuestra: comprueba si la guía indica medidas del cuerpo o de la prenda. Compara la tabla corporal con tu cuerpo; las medidas de la prenda pueden compararse con una que te quede bien, usando el mismo método. La diferencia entre dos prendas no es la holgura entre ropa y cuerpo. Una prenda sin guía en centímetros es para pasar. Si no queda claro el tipo de medida, confirma antes de comprar. Mira la [guía de tallas de SHEIN](/es/reviews/tallas-shein)."
+          "La M puede variar de una prenda a otra. Regla práctica: comprueba si la guía indica medidas del cuerpo o de la prenda. Compara la tabla corporal con tu cuerpo; las medidas de la prenda pueden compararse con una que te quede bien, usando el mismo método. La diferencia entre dos prendas no es la holgura entre ropa y cuerpo. Una prenda sin guía en centímetros es para pasar. Si no queda claro el tipo de medida, confirma antes de comprar. Mira la [guía de tallas de SHEIN](/es/reviews/tallas-shein)."
         ]
       },
       {
@@ -181143,7 +181143,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taille : les mensurations, pas la lettre",
         "paragraphs": [
-          "Le M peut varier d'un vêtement à l'autre. Règle pratique, non testée par nous : vérifiez si le guide indique les mensurations du corps ou les dimensions du vêtement. Comparez un tableau corporel au corps ; les dimensions de l'article peuvent se comparer à un vêtement qui vous va bien, mesuré de la même façon. L'écart entre deux vêtements n'est pas l'aisance entre corps et vêtement. Un article sans guide en centimètres, passez votre chemin. Si le type de mesure est flou, vérifiez avant d'acheter. Voir le [guide des tailles SHEIN](/fr/reviews/tailles-shein)."
+          "Le M peut varier d'un vêtement à l'autre. Règle pratique : vérifiez si le guide indique les mensurations du corps ou les dimensions du vêtement. Comparez un tableau corporel au corps ; les dimensions de l'article peuvent se comparer à un vêtement qui vous va bien, mesuré de la même façon. L'écart entre deux vêtements n'est pas l'aisance entre corps et vêtement. Un article sans guide en centimètres, passez votre chemin. Si le type de mesure est flou, vérifiez avant d'acheter. Voir le [guide des tailles SHEIN](/fr/reviews/tailles-shein)."
         ]
       },
       {
@@ -181299,7 +181299,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Größe: die Maße, nicht der Buchstabe",
         "paragraphs": [
-          "Ein M kann von Teil zu Teil verschieden ausfallen. Faustregel, nicht von uns getestet: Prüfen Sie, ob der Guide Körper- oder Kleidungsmaße nennt. Körpermaße vergleichen Sie mit dem Körper; Artikelmaße mit einem gut passenden Kleidungsstück, auf dieselbe Weise gemessen. Der Unterschied zwischen zwei Kleidungsstücken ist nicht die Zugabe zwischen Körper und Kleidung. Ein Teil ohne Guide in Zentimetern lassen Sie besser liegen. Ist die Messart unklar, sollten Sie vor dem Kauf nachfragen. Mehr dazu im [SHEIN-Größenguide](/de/reviews/shein-groessen)."
+          "Ein M kann von Teil zu Teil verschieden ausfallen. Faustregel: Prüfen Sie, ob der Guide Körper- oder Kleidungsmaße nennt. Körpermaße vergleichen Sie mit dem Körper; Artikelmaße mit einem gut passenden Kleidungsstück, auf dieselbe Weise gemessen. Der Unterschied zwischen zwei Kleidungsstücken ist nicht die Zugabe zwischen Körper und Kleidung. Ein Teil ohne Guide in Zentimetern lassen Sie besser liegen. Ist die Messart unklar, sollten Sie vor dem Kauf nachfragen. Mehr dazu im [SHEIN-Größenguide](/de/reviews/shein-groessen)."
         ]
       },
       {
@@ -181455,7 +181455,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taglia: le misure, non la lettera",
         "paragraphs": [
-          "La M può cambiare da un capo all'altro. Regola pratica, non testata da noi: controlla se la guida indica misure del corpo o del capo. Confronta la tabella del corpo con le tue misure; le misure del capo si confrontano con un capo che ti sta bene, misurato nello stesso modo. La differenza tra due capi non è il margine tra corpo e indumento. Un capo senza guida in centimetri è da lasciar perdere. Se il tipo di misura non è chiaro, verifica prima di comprare. Vedi la [guida alle taglie SHEIN](/it/reviews/taglie-shein)."
+          "La M può cambiare da un capo all'altro. Regola pratica: controlla se la guida indica misure del corpo o del capo. Confronta la tabella del corpo con le tue misure; le misure del capo si confrontano con un capo che ti sta bene, misurato nello stesso modo. La differenza tra due capi non è il margine tra corpo e indumento. Un capo senza guida in centimetri è da lasciar perdere. Se il tipo di misura non è chiaro, verifica prima di comprare. Vedi la [guida alle taglie SHEIN](/it/reviews/taglie-shein)."
         ]
       },
       {
@@ -181611,7 +181611,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "사이즈: 글자보다 치수",
         "paragraphs": [
-          "M도 상품마다 다를 수 있어요. 일반 기준(직접 테스트하지 않음): 먼저 가이드가 신체 치수인지 옷 치수인지 확인하세요. 신체 표는 몸과 비교하고, 옷 치수는 잘 맞는 옷을 같은 방법으로 재서 비교하세요. 옷 두 벌의 차이는 몸과 옷 사이의 여유분이 아니에요. 센티미터 사이즈 가이드가 없는 상품은 건너뛰세요. 측정 종류가 불분명하면 구매 전에 확인하세요. 자세한 설명은 [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)."
+          "M도 상품마다 다를 수 있어요. 일반 기준: 먼저 가이드가 신체 치수인지 옷 치수인지 확인하세요. 신체 표는 몸과 비교하고, 옷 치수는 잘 맞는 옷을 같은 방법으로 재서 비교하세요. 옷 두 벌의 차이는 몸과 옷 사이의 여유분이 아니에요. 센티미터 사이즈 가이드가 없는 상품은 건너뛰세요. 측정 종류가 불분명하면 구매 전에 확인하세요. 자세한 설명은 [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)."
         ]
       },
       {
@@ -181767,7 +181767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "サイズ：文字ではなく寸法",
         "paragraphs": [
-          "商品によって同じMでも寸法は違います。目安（当サイトでは未検証）：まず、ガイドが身体の寸法か服の寸法かを確認してください。身体の表は自分の身体と比べます。服の寸法は、よく合う服を同じ方法で測って比べます。服同士の差は、服と身体の間のゆとりではありません。センチ表記のないサイズガイドの商品は見送ってください。寸法の種類がはっきりしないときは、購入前に確認してください。詳しくは[SHEINのサイズガイド](/ja/reviews/shein-size-guide-ja)。"
+          "商品によって同じMでも寸法は違います。目安：まず、ガイドが身体の寸法か服の寸法かを確認してください。身体の表は自分の身体と比べます。服の寸法は、よく合う服を同じ方法で測って比べます。服同士の差は、服と身体の間のゆとりではありません。センチ表記のないサイズガイドの商品は見送ってください。寸法の種類がはっきりしないときは、購入前に確認してください。詳しくは[SHEINのサイズガイド](/ja/reviews/shein-size-guide-ja)。"
         ]
       },
       {
@@ -181923,7 +181923,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "尺碼：看公分，不看字母",
         "paragraphs": [
-          "同樣的 M，不同商品也可能不同。經驗法則（未經我們實測）：先確認表格是身體尺寸還是衣服尺寸。身體表與身體比較；衣服尺寸則可用合身衣物，以相同方法測量後比較。兩件衣服的差距，不是衣服與身體之間的寬鬆量。沒有公分尺碼表的商品就別買。類型不清楚時，購買前先確認。詳見 [SHEIN 尺碼指南](/zh-hant/reviews/shein-size-guide-zh-hant)。"
+          "同樣的 M，不同商品也可能不同。經驗法則：先確認表格是身體尺寸還是衣服尺寸。身體表與身體比較；衣服尺寸則可用合身衣物，以相同方法測量後比較。兩件衣服的差距，不是衣服與身體之間的寬鬆量。沒有公分尺碼表的商品就別買。類型不清楚時，購買前先確認。詳見 [SHEIN 尺碼指南](/zh-hant/reviews/shein-size-guide-zh-hant)。"
         ]
       },
       {
@@ -182079,7 +182079,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "尺码：看厘米，不看字母",
         "paragraphs": [
-          "同样的 M，不同商品也可能不同。经验法则（未经我们实测）：先确认表格是身体尺寸还是衣服尺寸。身体表与身体比较；衣服尺寸则可用合身衣物，以相同方法测量后比较。两件衣服的差距，不是衣服与身体之间的宽松量。没有厘米尺码表的商品就别买。类型不清楚时，购买前先确认。详见 [SHEIN 尺码指南](/zh-hans/reviews/shein-size-guide-zh-hans)。"
+          "同样的 M，不同商品也可能不同。经验法则：先确认表格是身体尺寸还是衣服尺寸。身体表与身体比较；衣服尺寸则可用合身衣物，以相同方法测量后比较。两件衣服的差距，不是衣服与身体之间的宽松量。没有厘米尺码表的商品就别买。类型不清楚时，购买前先确认。详见 [SHEIN 尺码指南](/zh-hans/reviews/shein-size-guide-zh-hans)。"
         ]
       },
       {
@@ -182258,7 +182258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como medir o corpo",
         "paragraphs": [
-          "Antes de abrir qualquer guia, você precisa de três números seus: busto, cintura e quadril. Regra prática, sem teste nosso: use fita métrica de costura, sobre roupa leve, com a fita encostada na pele sem apertar. Onde passar a fita em cada medida:"
+          "Antes de abrir qualquer guia, você precisa de três números seus: busto, cintura e quadril. Regra prática: use fita métrica de costura, sobre roupa leve, com a fita encostada na pele sem apertar. Onde passar a fita em cada medida:"
         ],
         "bullets": [
           "Busto: na parte mais cheia, com a fita reta, passando por baixo dos braços e nas costas na mesma altura.",
@@ -182275,7 +182275,7 @@ export const reviewsData: unknown[] = [
           "O que decide a letra é saber qual tabela você está olhando, porque o guia da SHEIN pode trazer duas. \"Medições do produto\" é a roupa medida na mesa: o busto da camiseta DAZY no M é a medida da roupa, não a do seu corpo. \"Medições corporais\", quando a peça tem, é a faixa de corpo que a marca indica para cada letra, e a própria nota diz que ela é só para referência. Algumas peças só trazem a da roupa, como a Essnce; aí a comparação é direta entre a sua medida e a medida da peça, e a folga fica por sua conta."
         ],
         "comparisonTable": {
-          "caption": "\"Guia de tamanhos\" da camiseta DAZY, lido em 04/11/2026, em centímetros: medida da peça à esquerda (busto e comprimento; ombro e manga ficaram de fora), faixa do corpo à direita.",
+          "caption": "\"Guia de tamanhos\" da camiseta DAZY, em 04/11/2026, em centímetros: medida da peça à esquerda (busto e comprimento; ombro e manga ficaram de fora), faixa do corpo à direita.",
           "headers": [
             "BR",
             "Letra",
@@ -182563,7 +182563,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "How to measure your body",
         "paragraphs": [
-          "Before opening any guide, you need three of your numbers: bust, waist and hips. Rule of thumb, not tested by us: use a sewing tape over light clothing, with the tape touching the skin without pulling. Where to pass the tape for each measurement:"
+          "Before opening any guide, you need three of your numbers: bust, waist and hips. Rule of thumb: use a sewing tape over light clothing, with the tape touching the skin without pulling. Where to pass the tape for each measurement:"
         ],
         "bullets": [
           "Bust: at the fullest part, with the tape level, passing under the arms and across the back at the same height.",
@@ -182580,7 +182580,7 @@ export const reviewsData: unknown[] = [
           "What decides the size is knowing which table you are looking at, because the SHEIN guide can have two. The product measurements table is the garment measured flat: the DAZY T-shirt's bust in M is the garment's measurement, not your body's. The body measurements table, when the piece has one, is the body range the brand gives for each letter, and its own note says it is for reference only. Some pieces only have the garment table, like the Essnce; then the comparison is direct, between your measurement and the piece's, and the ease is up to you."
         ],
         "comparisonTable": {
-          "caption": "Size guide for the DAZY T-shirt, read on November 4, 2026, in centimeters: product measurements on the left (bust and length; shoulder and sleeve left out), body range on the right.",
+          "caption": "Size guide for the DAZY T-shirt, as of November 4, 2026, in centimeters: product measurements on the left (bust and length; shoulder and sleeve left out), body range on the right.",
           "headers": [
             "Size",
             "Product bust",
@@ -182835,7 +182835,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cómo medir el cuerpo",
         "paragraphs": [
-          "Antes de abrir cualquier guía necesitas tres números tuyos: busto, cintura y cadera. Regla práctica, sin prueba nuestra: usa cinta métrica de costura, sobre ropa ligera, con la cinta pegada a la piel sin apretar. Dónde pasar la cinta en cada medida:"
+          "Antes de abrir cualquier guía necesitas tres números tuyos: busto, cintura y cadera. Regla práctica: usa cinta métrica de costura, sobre ropa ligera, con la cinta pegada a la piel sin apretar. Dónde pasar la cinta en cada medida:"
         ],
         "bullets": [
           "Busto: en la parte más llena, con la cinta recta, pasando por debajo de los brazos y por la espalda a la misma altura.",
@@ -182852,7 +182852,7 @@ export const reviewsData: unknown[] = [
           "Lo que decide la talla es saber qué tabla estás mirando, porque la guía de SHEIN puede traer dos. La tabla de medidas del producto es la prenda medida extendida: el busto de la camiseta DAZY en M es la medida de la prenda, no la de tu cuerpo. La tabla de medidas corporales, cuando la prenda la tiene, es el rango de cuerpo que la marca indica para cada letra, y su propia nota dice que es solo de referencia. Algunas prendas traen solo la de la prenda, como la Essnce; entonces la comparación es directa entre tu medida y la de la prenda, y la holgura queda por tu cuenta."
         ],
         "comparisonTable": {
-          "caption": "Guía de tallas de la camiseta DAZY, consultada el 4 de noviembre de 2026, en centímetros: medida de la prenda a la izquierda (busto y largo; hombro y manga quedaron fuera), rango del cuerpo a la derecha.",
+          "caption": "Guía de tallas de la camiseta DAZY, a 4 de noviembre de 2026, en centímetros: medida de la prenda a la izquierda (busto y largo; hombro y manga quedaron fuera), rango del cuerpo a la derecha.",
           "headers": [
             "Talla",
             "Busto de la prenda",
@@ -183107,7 +183107,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comment mesurer votre corps",
         "paragraphs": [
-          "Avant d'ouvrir un guide, il vous faut trois de vos mesures : buste, taille et hanches. Règle pratique, non testée par nous : utilisez un mètre de couturière sur des vêtements légers, le ruban au contact de la peau sans serrer. Où passer le mètre pour chaque mesure :"
+          "Avant d'ouvrir un guide, il vous faut trois de vos mesures : buste, taille et hanches. Règle pratique : utilisez un mètre de couturière sur des vêtements légers, le ruban au contact de la peau sans serrer. Où passer le mètre pour chaque mesure :"
         ],
         "bullets": [
           "Buste : à la partie la plus forte, le mètre bien droit, en passant sous les bras et dans le dos à la même hauteur.",
@@ -183124,7 +183124,7 @@ export const reviewsData: unknown[] = [
           "Ce qui décide de la taille, c'est de savoir quel tableau vous regardez, car le guide SHEIN peut en contenir deux. Le tableau des mesures du produit correspond à l'article mesuré à plat : le buste du t-shirt DAZY en M est la mesure du vêtement, pas celle de votre corps. Le tableau des mesures corporelles, quand l'article en a un, donne la plage de corps indiquée par la marque pour chaque lettre, et sa note précise qu'il ne sert que de référence. Certains articles n'ont que celui du vêtement, comme l'Essnce ; la comparaison se fait alors directement entre votre mesure et celle de l'article, et c'est à vous de prévoir l'aisance."
         ],
         "comparisonTable": {
-          "caption": "Guide des tailles du t-shirt DAZY, consulté le 4 novembre 2026, en centimètres : mesure de l'article à gauche (buste et longueur ; épaule et manche exclues), plage du corps à droite.",
+          "caption": "Guide des tailles du t-shirt DAZY, au 4 novembre 2026, en centimètres : mesure de l'article à gauche (buste et longueur ; épaule et manche exclues), plage du corps à droite.",
           "headers": [
             "Taille",
             "Buste de l'article",
@@ -183379,7 +183379,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "So messen Sie Ihren Körper",
         "paragraphs": [
-          "Bevor Sie einen Guide öffnen, brauchen Sie drei Ihrer Maße: Brust, Taille und Hüfte. Faustregel, nicht von uns getestet: Verwenden Sie ein Maßband über leichter Kleidung, das Band liegt an der Haut an, ohne zu ziehen. Wo Sie das Band für jedes Maß anlegen:"
+          "Bevor Sie einen Guide öffnen, brauchen Sie drei Ihrer Maße: Brust, Taille und Hüfte. Faustregel: Verwenden Sie ein Maßband über leichter Kleidung, das Band liegt an der Haut an, ohne zu ziehen. Wo Sie das Band für jedes Maß anlegen:"
         ],
         "bullets": [
           "Brust: an der vollsten Stelle, das Band gerade, unter den Armen durch und am Rücken auf gleicher Höhe.",
@@ -183396,7 +183396,7 @@ export const reviewsData: unknown[] = [
           "Entscheidend ist, welche Tabelle Sie gerade vor sich haben, denn der SHEIN-Guide kann zwei enthalten. Die Tabelle der Produktmaße zeigt das Kleidungsstück, flach ausgemessen: Der Brustumfang des DAZY-Shirts in M ist das Maß des Kleidungsstücks, nicht Ihres Körpers. Die Tabelle der Körpermaße, wenn der Artikel eine hat, zeigt den Körperbereich, den die Marke für jeden Buchstaben angibt; ihr Hinweis sagt, dass sie nur als Orientierung dient. Manche Artikel haben nur die Tabelle des Kleidungsstücks, wie die Essnce; dann vergleichen Sie Ihr Maß direkt mit dem des Artikels, und die Weite müssen Sie selbst einplanen."
         ],
         "comparisonTable": {
-          "caption": "Größenguide des DAZY-T-Shirts, geprüft am 4. November 2026, in Zentimetern: Produktmaß links (Brust und Länge; Schulter und Ärmel ausgelassen), Körperbereich rechts.",
+          "caption": "Größenguide des DAZY-T-Shirts, Stand 4. November 2026, in Zentimetern: Produktmaß links (Brust und Länge; Schulter und Ärmel ausgelassen), Körperbereich rechts.",
           "headers": [
             "Größe",
             "Brust des Artikels",
@@ -183651,7 +183651,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come misurare il corpo",
         "paragraphs": [
-          "Prima di aprire una guida ti servono tre misure: busto, vita e fianchi. Regola pratica, non testata da noi: usa un metro da sarta sopra vestiti leggeri, con il metro appoggiato alla pelle senza stringere. Dove passare il metro per ogni misura:"
+          "Prima di aprire una guida ti servono tre misure: busto, vita e fianchi. Regola pratica: usa un metro da sarta sopra vestiti leggeri, con il metro appoggiato alla pelle senza stringere. Dove passare il metro per ogni misura:"
         ],
         "bullets": [
           "Busto: nel punto più pieno, con il metro dritto, passando sotto le braccia e sulla schiena alla stessa altezza.",
@@ -183668,7 +183668,7 @@ export const reviewsData: unknown[] = [
           "Quello che decide la taglia è sapere quale tabella stai guardando, perché la guida SHEIN può averne due. La tabella delle misure del prodotto è il capo misurato a piatto: il busto della maglietta DAZY in M è la misura del capo, non del tuo corpo. La tabella delle misure corporee, quando il capo la prevede, è la fascia di corpo che il marchio indica per ogni lettera, e la nota stessa dice che serve solo come riferimento. Alcuni capi hanno solo quella del capo, come la Essnce; allora il confronto è diretto tra la tua misura e quella del capo, e l'ampiezza la decidi tu."
         ],
         "comparisonTable": {
-          "caption": "Guida alle taglie della maglietta DAZY, letta il 4 novembre 2026, in centimetri: misura del capo a sinistra (busto e lunghezza; spalla e manica escluse), fascia del corpo a destra.",
+          "caption": "Guida alle taglie della maglietta DAZY, al 4 novembre 2026, in centimetri: misura del capo a sinistra (busto e lunghezza; spalla e manica escluse), fascia del corpo a destra.",
           "headers": [
             "Taglia",
             "Busto del capo",
@@ -183923,7 +183923,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자신의 몸 재는 법",
         "paragraphs": [
-          "어떤 가이드를 열기 전에도 자신의 수치 세 가지가 필요합니다. 가슴둘레, 허리둘레, 엉덩이둘레입니다. 일반 기준(직접 테스트하지 않음): 재봉용 줄자를 얇은 옷 위에서 피부에 살짝 대고, 조이지 않게 잽니다. 재는 위치는 다음과 같습니다:"
+          "어떤 가이드를 열기 전에도 자신의 수치 세 가지가 필요합니다. 가슴둘레, 허리둘레, 엉덩이둘레입니다. 일반 기준: 재봉용 줄자를 얇은 옷 위에서 피부에 살짝 대고, 조이지 않게 잽니다. 재는 위치는 다음과 같습니다:"
         ],
         "bullets": [
           "가슴둘레: 가장 볼록한 부분에서 줄자가 수평이 되도록, 겨드랑이 아래와 등의 같은 높이로 돌려 잽니다.",
@@ -183940,7 +183940,7 @@ export const reviewsData: unknown[] = [
           "어느 표를 보고 있는지 아는 것이 사이즈를 정하는 핵심입니다. SHEIN 가이드에는 표가 두 가지 있을 수 있습니다. 하나는 상품 치수로, 상품을 평평하게 놓고 잰 수치입니다. DAZY M의 가슴둘레는 몸이 아니라 옷의 치수입니다. 다른 하나는 신체 치수로, 상품에 따라 있습니다. 그 사이즈가 맞는다고 보는 몸의 범위이며, 페이지 메모에 참고용이라고 적혀 있습니다. Essnce처럼 상품 치수만 있는 제품도 있습니다. 그럴 때는 자신의 치수와 상품 치수를 직접 비교하고, 여유분은 스스로 판단하십시오."
         ],
         "comparisonTable": {
-          "caption": "DAZY 티셔츠의 사이즈 가이드(2026년 11월 4일 확인, cm): 왼쪽은 상품 치수(가슴둘레와 총장, 어깨와 소매는 제외), 오른쪽은 신체 치수 범위입니다.",
+          "caption": "DAZY 티셔츠의 사이즈 가이드(2026년 11월 4일 기준, cm): 왼쪽은 상품 치수(가슴둘레와 총장, 어깨와 소매는 제외), 오른쪽은 신체 치수 범위입니다.",
           "headers": [
             "사이즈",
             "상품 가슴둘레",
@@ -184195,7 +184195,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "自分の体の測り方",
         "paragraphs": [
-          "どのガイドを開く前にも、自分の数字が3つ必要です。胸囲、ウエスト、ヒップです。目安（当サイトでは未検証）：柔らかいメジャーを薄手の服の上から、肌に軽く当てて、きつく引っ張らずに測ります。測る場所は次のとおりです。"
+          "どのガイドを開く前にも、自分の数字が3つ必要です。胸囲、ウエスト、ヒップです。目安：柔らかいメジャーを薄手の服の上から、肌に軽く当てて、きつく引っ張らずに測ります。測る場所は次のとおりです。"
         ],
         "bullets": [
           "胸囲：いちばん張っている部分で、メジャーが水平になるように、わきの下を通して背中の同じ高さで測ります。",
@@ -184212,7 +184212,7 @@ export const reviewsData: unknown[] = [
           "サイズを決めるのは、どの表を見ているかを知ることです。SHEINのガイドには表が2つあることがあります。1つ目は商品の寸法で、商品を平らに置いて測った数字です。DAZY Mの胸囲は、あなたの体ではなく服の寸法です。2つ目は体の寸法で、商品によっては載っています。そのサイズが合うとされる体の範囲を示していて、ページにも参考値だと書かれています。Essnceのように商品の寸法しかない商品もあります。その場合は、自分の寸法と商品の寸法を直接比べ、ゆとりは自分で判断します。"
         ],
         "comparisonTable": {
-          "caption": "DAZYのTシャツのサイズガイド（2026年11月4日に確認、cm）：左は商品の寸法（胸囲と着丈。肩と袖は除く）、右は体の寸法の範囲です。",
+          "caption": "DAZYのTシャツのサイズガイド（2026年11月4日時点、cm）：左は商品の寸法（胸囲と着丈。肩と袖は除く）、右は体の寸法の範囲です。",
           "headers": [
             "サイズ",
             "商品の胸囲",
@@ -184467,7 +184467,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "怎麼量身體",
         "paragraphs": [
-          "打開任何尺碼表前，你需要三個自己的數字：胸圍、腰圍和臀圍。經驗法則（未經我們實測）：用裁縫軟尺，隔著薄衣服量，貼著皮膚但不要勒緊。量的位置如下："
+          "打開任何尺碼表前，你需要三個自己的數字：胸圍、腰圍和臀圍。經驗法則：用裁縫軟尺，隔著薄衣服量，貼著皮膚但不要勒緊。量的位置如下："
         ],
         "bullets": [
           "胸圍：胸部最豐滿的地方，軟尺保持水平，從腋下繞過，背後在同一高度。",
@@ -184484,7 +184484,7 @@ export const reviewsData: unknown[] = [
           "決定字母的，是你在看哪一張表。SHEIN 的尺碼表可能有兩張：一張是商品尺寸，也就是把商品平放後量出的數字。DAZY M 的胸圍是衣服本身的尺寸，不是你身體的尺寸。另一張是身體尺寸（只有部分商品有），表示該尺碼適合的身形範圍，備註裡也寫明只供參考。有些商品只有商品尺寸，例如 Essnce，這時就直接比較你的尺寸和商品尺寸，寬鬆量由你自己判斷。"
         ],
         "comparisonTable": {
-          "caption": "DAZY T 恤的尺碼表（2026年11月4日查看，單位公分）：左側是商品尺寸（胸圍和衣長；肩寬與袖長未列出），右側是身體尺寸範圍。",
+          "caption": "DAZY T 恤的尺碼表（截至2026年11月4日，單位公分）：左側是商品尺寸（胸圍和衣長；肩寬與袖長未列出），右側是身體尺寸範圍。",
           "headers": [
             "尺碼",
             "商品胸圍",
@@ -184739,7 +184739,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "怎么量身体",
         "paragraphs": [
-          "打开任何尺码表前，你需要三个自己的数字：胸围、腰围和臀围。经验法则（未经我们实测）：用缝纫软尺，隔着薄衣服量，贴着皮肤但不要勒紧。量的位置如下："
+          "打开任何尺码表前，你需要三个自己的数字：胸围、腰围和臀围。经验法则：用缝纫软尺，隔着薄衣服量，贴着皮肤但不要勒紧。量的位置如下："
         ],
         "bullets": [
           "胸围：胸部最丰满的地方，软尺保持水平，从腋下绕过，背后在同一高度。",
@@ -184756,7 +184756,7 @@ export const reviewsData: unknown[] = [
           "决定选哪个字母的，是你在看哪一张表。SHEIN 的尺码表可能有两张：一张是商品尺寸，即把商品平放量出的数字。DAZY M 码的胸围是衣服本身的尺寸，不是你身体的尺寸。另一张是身体尺寸（有的商品才有），表示该码适合的身体范围，备注里也写明只供参考。有些商品只有商品尺寸，比如 Essnce，这时直接比较你的尺寸和商品尺寸，宽松量由你自己判断。"
         ],
         "comparisonTable": {
-          "caption": "DAZY T 恤的尺码表（2026年11月4日查看，单位厘米）：左侧是商品尺寸（胸围和衣长；肩宽与袖长未列出），右侧是身体尺寸范围。",
+          "caption": "DAZY T 恤的尺码表（截至2026年11月4日，单位厘米）：左侧是商品尺寸（胸围和衣长；肩宽与袖长未列出），右侧是身体尺寸范围。",
           "headers": [
             "尺码",
             "商品胸围",

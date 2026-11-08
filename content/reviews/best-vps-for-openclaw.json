@@ -96,18 +96,18 @@
       },
       "postParagraphs": [
         "Two details on the local model. Context is the amount of text (tokens, pieces of words) the model reads at once. When less than 20% of the context window is left, OpenClaw warns, with a floor of 8 thousand tokens; below 10%, it blocks the answer, with a floor of 4 thousand tokens.",
-        "None of the KVM plan pages checked lists a graphics card (GPU). The documentation also does not say how fast a local model would run without one."
+        "None of the KVM plan pages in the comparison lists a graphics card (GPU). The documentation also does not say how fast a local model would run without one."
       ]
     },
     {
       "heading": "Which KVM plan to choose",
       "paragraphs": [
-        "The right plan follows where the model runs. KVM is the name of Hostinger's virtual servers, and the table lists all four. Read each plan against the documentation; it is our reading of it, not a measurement:"
+        "The right plan follows where the model runs. KVM is the name of Hostinger's virtual servers, and the table lists all four. Read each plan against the documentation; it is an interpretation of it, not a measurement:"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
         "alt": "Chart with three rows: model outside the server (API key or credits) leads to KVM 1; small local model leads to KVM 2, at the limit, or to KVM 4; local model with more context or other programs leads to KVM 4 or KVM 8",
-        "caption": "Based on the OpenClaw documentation; we did not measure performance."
+        "caption": "Based on the OpenClaw documentation; no performance measurement."
       },
       "comparisonTable": {
         "headers": [

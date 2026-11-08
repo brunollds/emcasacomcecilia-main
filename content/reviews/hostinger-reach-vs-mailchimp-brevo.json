@@ -102,7 +102,7 @@
     {
       "heading": "The Reach plans",
       "paragraphs": [
-        "Three paid plans, no free one: Starter, Grow and Pro. At checkout, Grow shows up as “Reach 500”, for its limit of 500 recipients. The prices below are from Hostinger's global page, in US dollars, read on October 30, 2026, during the Black Friday campaign. They can vary by country and currency, and they can change:",
+        "Three paid plans, no free one: Starter, Grow and Pro. At checkout, Grow shows up as “Reach 500”, for its limit of 500 recipients. The prices below are from Hostinger's global page, in US dollars, as of October 30, 2026, during the Black Friday campaign. They can vary by country and currency, and they can change:",
         "The page gives 30 days to ask for a refund."
       ],
       "comparisonTable": {
@@ -142,7 +142,7 @@
     {
       "heading": "Mailchimp and Brevo: the free plans",
       "paragraphs": [
-        "Both have a free plan, and Reach does not. The Mailchimp and Brevo pages were read on October 30, 2026; their paid prices are left out of this comparison, because they were not read in US dollars:"
+        "Both have a free plan, and Reach does not. On October 30, 2026, the Mailchimp and Brevo pages listed these free plans; their paid prices are left out of this comparison, because they were not shown in US dollars:"
       ],
       "comparisonTable": {
         "headers": [
@@ -186,7 +186,7 @@
       "heading": "SONAR20 and the price of Reach",
       "paragraphs": [
         "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**. Bruno tested it on Reach 500 for 24 months, and the discount applied in the cart.",
-        "The price on the page and the price in the cart can differ on the same day, so check the cart to see which price applies to you and how much SONAR20 takes off it. For the other Reach plans and periods, it was not tested; check the cart. The full rule for the code is in [Hostinger coupons](/en/coupons/hostinger)."
+        "The price on the page and the price in the cart can differ on the same day, so check the cart to see which price applies to you and how much SONAR20 takes off it. For the other Reach plans and periods, the final price shows in the cart. The full rule for the code is in [Hostinger coupons](/en/coupons/hostinger)."
       ]
     },
     {
@@ -207,7 +207,7 @@
         "Does Hostinger Reach have WhatsApp? Yes, only in the Pro plan. The page does not show the cost per message; check the dashboard.",
         "What is Reach 500? It is the name Grow takes in the Hostinger cart, after its limit of 500 recipients. It sends 3,500 emails a month.",
         "Hostinger Reach or Mailchimp? For a list of up to 1,000 recipients and a Hostinger site, Reach. To start for free, or for a list above 1,000 contacts, Mailchimp or Brevo.",
-        "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods it was not tested; check the cart.",
+        "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods, the final price shows in the cart.",
         "Can existing Hostinger customers use SONAR20? It applies to an eligible new purchase, even with an existing account. Domain registration and renewal are excluded."
       ]
     },

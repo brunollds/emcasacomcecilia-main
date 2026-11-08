@@ -32,7 +32,7 @@
     "이달의 쿠폰과 CECILIA010을 함께 쓰는 중복 적용(스태킹) 방법을 설명합니다",
     "공식 인플루언서 코드로 최대 5%를 더 절약하는 방법을 보여 줍니다",
     "가짜이거나 만료된 코드를 피하도록 진행 중인 YesStyle 쿠폰을 찾는 곳을 정리했습니다",
-    "확인을 마친 쿠폰 목록이 있는 Em Casa com Cecília 최신 페이지로 안내합니다"
+    "현재 유효한 쿠폰 목록이 있는 Em Casa com Cecília 최신 페이지로 안내합니다"
   ],
   "cons": [
     "월별 프로모션 쿠폰은 기한이 짧습니다(보통 72시간에서 30일)",
@@ -60,7 +60,7 @@
     }
   ],
   "cta": {
-    "text": "저희 페이지의 YesStyle 쿠폰 목록은 {yesstyle:verifiedAt}에 확인했습니다.",
+    "text": "저희 페이지의 YesStyle 쿠폰 목록은 {yesstyle:verifiedAt} 기준입니다.",
     "label": "사용 가능한 YesStyle 쿠폰 보기",
     "url": "/ko/coupons/yesstyle",
     "sponsored": false

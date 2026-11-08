@@ -139,7 +139,7 @@
     {
       "heading": "Trois lectures qui changent le calcul",
       "paragraphs": [
-        "Pour voir ce qui se cache derrière le 4,6, les 100 avis à une étoile les plus récents et les 100 avis à cinq étoiles les plus récents ont été lus le 24 octobre 2026, dans toutes les langues. Trustpilot marque chaque avis comme « invité », quand l’entreprise a envoyé la demande, ou comme spontané, quand la personne est venue d’elle-même. Le tableau compare les deux groupes."
+        "Pour voir ce qui se cache derrière le 4,6, regardons les 100 avis à une étoile les plus récents et les 100 avis à cinq étoiles les plus récents, toutes langues confondues, au 24 octobre 2026. Trustpilot marque chaque avis comme « invité », quand l’entreprise a envoyé la demande, ou comme spontané, quand la personne est venue d’elle-même. Le tableau compare les deux groupes."
       ],
       "comparisonTable": {
         "headers": [
@@ -179,7 +179,7 @@
     {
       "heading": "Ce dont les gens se plaignent",
       "paragraphs": [
-        "Une fois écartés les 14 éloges mal notés, il restait 86 plaintes réelles parmi les 100 avis à une étoile les plus récents. Chaque plainte a été classée par thème d’après son titre et son extrait ; une plainte peut porter sur plusieurs thèmes, donc les décomptes sont approximatifs. Voici les thèmes, du plus cité au moins cité :"
+        "Une fois écartés les 14 éloges mal notés, il restait 86 plaintes réelles parmi les 100 avis à une étoile les plus récents. Une plainte peut porter sur plusieurs thèmes, donc les décomptes sont approximatifs. Voici les thèmes, du plus cité au moins cité :"
       ],
       "bullets": [
         "**Support par IA et impossibilité de joindre une personne :** environ 45 sur 86. Une partie concerne les outils d’IA du créateur de sites, et non le support.",
@@ -192,8 +192,8 @@
       ],
       "postParagraphs": [
         "Les pays les plus fréquents parmi les 100 avis à une étoile étaient les États-Unis (18), l’Inde (14), la France (8), le Royaume-Uni (6) et les Pays-Bas (6).",
-        "Trustpilot publie lui-même un résumé automatique du profil, généré par l’IA du site à partir de 12 464 avis. Il retient comme éloges un hébergement stable, un support utile avec des agents humains rapides sur les problèmes techniques, et un tableau de bord facile pour les débutants. Il retient comme plaintes un service très automatisé, difficile à joindre pour parler à une personne, une récupération de compte compliquée, la facturation et des règles strictes pour le renouvellement des domaines. Cela correspond à ce que nous avons trouvé dans l’échantillon.",
-        "Le premier thème mérite une précision. Dans les titres lus, la plainte qui revient n’est pas une mauvaise réponse, mais l’impossibilité de dépasser l’agent d’IA pour parler à une personne. Notre lecture : pour un client dont le site est hors ligne, cette attente est le problème.",
+        "Trustpilot publie lui-même un résumé automatique du profil, généré par l’IA du site à partir de 12 464 avis. Il retient comme éloges un hébergement stable, un support utile avec des agents humains rapides sur les problèmes techniques, et un tableau de bord facile pour les débutants. Il retient comme plaintes un service très automatisé, difficile à joindre pour parler à une personne, une récupération de compte compliquée, la facturation et des règles strictes pour le renouvellement des domaines. Cela correspond à l’échantillon.",
+        "Le premier thème mérite une précision. Dans les titres, la plainte qui revient n’est pas une mauvaise réponse, mais l’impossibilité de dépasser l’agent d’IA pour parler à une personne. Notre lecture : pour un client dont le site est hors ligne, cette attente est le problème.",
         "Les avis ne séparent pas les plaintes de facturation par motif. Le lien avec le renouvellement automatique est notre lecture, et c’est par là qu’il faut commencer la vérification."
       ]
     },
@@ -225,7 +225,7 @@
       "heading": "Ce que répond Hostinger",
       "paragraphs": [
         "Sur Trustpilot, l’entreprise affirme répondre à 99 % des avis négatifs, en général dans les 24 heures. Dans notre échantillon, 80 des 86 plaintes avaient une réponse ; les six sans réponse avaient été publiées dans les 24 heures précédentes. La page indique aussi que l’entreprise peut utiliser l’IA pour ses réponses.",
-        "Les réponses ont été comptées sans être notées, donc ce texte ne dit pas si elles règlent le problème. Avant d’acheter, lisez quelques réponses sur le profil, surtout celles qui concernent la facturation et l’impossibilité de joindre une personne."
+        "Les chiffres indiquent seulement combien de plaintes ont une réponse, pas ce qu’elles disent, donc ce texte ne dit pas si elles règlent le problème. Avant d’acheter, lisez quelques réponses sur le profil, surtout celles qui concernent la facturation et l’impossibilité de joindre une personne."
       ]
     },
     {
@@ -233,7 +233,7 @@
       "paragraphs": [
         "Bruno, qui signe aussi ce texte, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement : hébergement Business, un VPS KVM 2, e-mail Business et domaines, tous avec renouvellement automatique. Le site Em Casa com Cecília tourne sur Hostinger.",
         "Chaque fois qu’il a eu un problème, le support l’a résolu, surtout l’agent d’IA, et il n’a jamais vu le service tomber.",
-        "C’est son compte, avec son usage, et il faut une contrepartie honnête : le support par IA qui a réglé ses problèmes est le thème le plus présent dans les plaintes lues, environ 45 sur 86, même si une partie concerne les outils d’IA du créateur de sites. Son cas ne dit rien de ceux qui n’ont pas réussi à dépasser l’agent, ni de ceux qui ont été débités sans s’y attendre."
+        "C’est son compte, avec son usage, et il faut une contrepartie honnête : le support par IA qui a réglé ses problèmes est le thème le plus présent dans les plaintes, environ 45 sur 86, même si une partie concerne les outils d’IA du créateur de sites. Son cas ne dit rien de ceux qui n’ont pas réussi à dépasser l’agent, ni de ceux qui ont été débités sans s’y attendre."
       ]
     },
     {
@@ -249,7 +249,7 @@
       "bullets": [
         "Quelle est la note de Hostinger sur Trustpilot ? Un TrustScore de 4,6 sur 5, pour 73 830 avis, avec 87 % de cinq étoiles et 7 % d’une étoile.",
         "Les avis Hostinger sur Trustpilot sont-ils fiables ? Le profil est revendiqué et géré par l’entreprise, qui invite ses clients à noter. Dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Trustpilot dit qu’il ne vérifie pas les avis un par un.",
-        "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Dans les 86 plaintes lues parmi les 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
+        "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Parmi les 86 plaintes des 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
         "Hostinger répond-il aux avis négatifs ? Oui. La page indique que l’entreprise répond à 99 % des avis négatifs, en général dans les 24 heures, et qu’elle peut utiliser l’IA dans ses réponses. Dans notre échantillon, 80 des 86 plaintes avaient une réponse.",
         "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez votre profil, puis Facturation et Abonnements, repérez le service et cliquez sur le bouton à bascule à côté. Lisez les avertissements et confirmez. Le produit reste actif jusqu’à l’échéance.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %, sauf sur l’enregistrement d’un domaine. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."

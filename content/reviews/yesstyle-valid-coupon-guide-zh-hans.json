@@ -32,7 +32,7 @@
     "说明叠加（stacking）方式：当月优惠码可以和 CECILIA010 一起用",
     "教你用官方网红代码额外省下高达 5%",
     "说明去哪里找当前有效的 YesStyle 优惠码，避开假码和过期码",
-    "指向 Em Casa com Cecília 的最新页面，那里有核对过的优惠码列表"
+    "指向 Em Casa com Cecília 的最新页面，那里有当前有效的优惠码列表"
   ],
   "cons": [
     "每月的促销优惠码有效期很短（通常 72 小时到 30 天）",
@@ -60,7 +60,7 @@
     }
   ],
   "cta": {
-    "text": "本站页面的 YesStyle 优惠码列表于{yesstyle:verifiedAt}核对。",
+    "text": "本站页面的 YesStyle 优惠码列表更新于{yesstyle:verifiedAt}。",
     "label": "查看 YesStyle 优惠码",
     "url": "/zh-hans/coupons/yesstyle",
     "sponsored": false

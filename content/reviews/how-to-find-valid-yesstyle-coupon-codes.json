@@ -33,7 +33,7 @@
     "Explains stacking: adding the month's coupon on top of CECILIA010",
     "Shows how to save up to 5% extra with the official influencer code",
     "Shows where to find YesStyle's live coupons so you avoid fake or expired codes",
-    "Points you to the updated Em Casa com Cecília page with the checked coupon list"
+    "Points you to the updated Em Casa com Cecília page with the current coupon list"
   ],
   "cons": [
     "Promotional monthly coupons have short deadlines (usually from 72 hours to 30 days)",
@@ -61,7 +61,7 @@
     }
   ],
   "cta": {
-    "text": "On our page, the YesStyle coupon list was checked on {yesstyle:verifiedAt}.",
+    "text": "On our page, the YesStyle coupon list is current as of {yesstyle:verifiedAt}.",
     "label": "View Active YesStyle Coupons",
     "url": "/en/coupons/yesstyle",
     "sponsored": false

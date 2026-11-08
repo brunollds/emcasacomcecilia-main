@@ -32,7 +32,7 @@
     "今月のクーポンとCECILIA010を重ねる併用（スタッキング）の仕組みがわかる",
     "公式のインフルエンサーコードで最大5%を追加で節約する方法がわかる",
     "偽物や期限切れのコードを避けられるよう、開催中のYesStyleクーポンの探し方を紹介",
-    "Em Casa com Cecíliaの最新ページで、確認済みのクーポン一覧に進める"
+    "Em Casa com Cecíliaの最新ページで、有効なクーポン一覧に進める"
   ],
   "cons": [
     "月ごとのプロモクーポンは期限が短い（たいてい72時間〜30日）",
@@ -60,7 +60,7 @@
     }
   ],
   "cta": {
-    "text": "当サイトのYesStyleクーポン一覧は{yesstyle:verifiedAt}に確認しました。",
+    "text": "当サイトのYesStyleクーポン一覧は{yesstyle:verifiedAt}時点の内容です。",
     "label": "利用できるYesStyleクーポンを見る",
     "url": "/ja/coupons/yesstyle",
     "sponsored": false

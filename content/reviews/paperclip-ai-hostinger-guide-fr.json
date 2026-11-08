@@ -78,9 +78,9 @@
         "**Qui le maintient.** Le dépôt officiel, github.com/paperclipai/paperclip, indique que le projet est maintenu par l’équipe Paperclip, et la mention de copyright dit « MIT © 2026 Paperclip Labs, Inc. ». Le site du projet, paperclip.ing, renvoie au même dépôt. Ne le confondez pas avec les forks et copies du code qui apparaissent dans la recherche.",
         "**Licence.** MIT. Cela veut dire que le code est ouvert : tout le monde peut le lire, l’auditer et l’utiliser. Cela veut aussi dire que personne n’est obligé de maintenir la version que vous avez installée.",
         "**Où il tourne.** Vous choisissez. Il peut tourner sur votre ordinateur, sur un serveur à vous ou sur l’offre gérée de Hostinger. Le site du projet indique que la version auto-hébergée n’exige pas de compte Paperclip.",
-        "**Où se trouvent les clés et les données.** Cela dépend du chemin. Sur le VPS, Hostinger elle-même indique que les données sensibles, la mémoire des agents et les identifiants d’API restent « entièrement sur votre infrastructure », c’est-à-dire sur le serveur que vous avez loué. Sur le géré, la page indique que les clés restent dans votre instance gérée. C’est la description de Hostinger, pas un audit de notre part.",
-        "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées via la fonction Security Advisory de GitHub, et non dans des issues publiques. Dans cette lecture, nous n’avons vérifié ni les versions prises en charge, ni un audit indépendant, ni des advisories publiés.",
-        "**Ce que l’on ne peut pas affirmer.** Il n’y a pas d’audit de sécurité public vérifié pour ce guide. Il n’y a pas non plus d’avis indépendant ni de note de tiers pour le produit. Le nombre d’étoiles sur GitHub montre la popularité, pas la sécurité. Un agent ayant accès à votre messagerie, à votre banque ou à d’autres comptes mérite une prudence supplémentaire, quel que soit le logiciel. Pour l’entreprise qui l’héberge, voyez [si Hostinger est fiable](/fr/reviews/hostinger-est-il-fiable)."
+        "**Où se trouvent les clés et les données.** Cela dépend du chemin. Sur le VPS, Hostinger elle-même indique que les données sensibles, la mémoire des agents et les identifiants d’API restent « entièrement sur votre infrastructure », c’est-à-dire sur le serveur que vous avez loué. Sur le géré, la page indique que les clés restent dans votre instance gérée. C’est la description de Hostinger, pas un audit indépendant.",
+        "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées via la fonction Security Advisory de GitHub, et non dans des issues publiques. Dans les sources de ce guide, on ne trouve ni versions prises en charge, ni audit indépendant, ni advisories publiés.",
+        "**Ce que l’on ne peut pas affirmer.** Les sources de ce guide ne mentionnent aucun audit de sécurité public. Il n’y a pas non plus d’avis indépendant ni de note de tiers pour le produit. Le nombre d’étoiles sur GitHub montre la popularité, pas la sécurité. Un agent ayant accès à votre messagerie, à votre banque ou à d’autres comptes mérite une prudence supplémentaire, quel que soit le logiciel. Pour l’entreprise qui l’héberge, voyez [si Hostinger est fiable](/fr/reviews/hostinger-est-il-fiable)."
       ]
     },
     {
@@ -152,7 +152,7 @@
     {
       "heading": "Quelle taille de VPS",
       "postParagraphs": [
-        "La RAM est la mémoire du serveur, et un vCPU est un cœur de processeur. Plus l’offre de VPS est grande, plus elle a de mémoire et de puissance de calcul. Hostinger ne liste pas, dans les pages lues, de mémoire minimale requise pour Paperclip : le KVM 1 est le point de départ, et le nombre d’agents que vous faites tourner décide s’il suffit. Les offres sont KVM 1 (1 vCPU, 4 Go, 50 Go), KVM 2 (2 vCPU, 8 Go, 100 Go), KVM 4 (4 vCPU, 16 Go, 200 Go) et KVM 8 (8 vCPU, 32 Go, 400 Go)."
+        "La RAM est la mémoire du serveur, et un vCPU est un cœur de processeur. Plus l’offre de VPS est grande, plus elle a de mémoire et de puissance de calcul. Hostinger ne liste pas, sur les pages du produit, de mémoire minimale requise pour Paperclip : le KVM 1 est le point de départ, et le nombre d’agents que vous faites tourner décide s’il suffit. Les offres sont KVM 1 (1 vCPU, 4 Go, 50 Go), KVM 2 (2 vCPU, 8 Go, 100 Go), KVM 4 (4 vCPU, 16 Go, 200 Go) et KVM 8 (8 vCPU, 32 Go, 400 Go)."
       ]
     },
     {
@@ -179,7 +179,7 @@
       "heading": "Questions fréquentes",
       "bullets": [
         "Paperclip est-il gratuit ? Le programme est open source sous licence MIT et peut s’installer sur votre ordinateur sans souscrire chez Hostinger. L’hébergement géré et les VPS sont payants ; les modèles utilisent vos comptes par API ou abonnement compatible, avec les coûts et limites du fournisseur.",
-        "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Nous n’avons pas trouvé d’audit indépendant dans les sources lues.",
+        "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Il n’y a pas d’audit indépendant dans les sources de ce guide.",
         "Faut-il une clé d’API ? Dans la plupart des cas, oui. Sur le géré, Hostinger accepte une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif. Sur le VPS, la page demande d’apporter vos propres clés. Sur l’ordinateur, le README accepte aussi l’abonnement Claude ou Codex, sans clé d’API.",
         "Fonctionne-t-il avec Ollama ? Cela dépend de l’agent que vous connectez. Le README de Paperclip ne cite pas Ollama, un programme pour faire tourner un modèle d’IA sur son propre ordinateur. OpenClaw, par exemple, documente des modèles locaux ; dans Paperclip, le modèle reste du côté de l’agent que vous connectez.",
         "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
@@ -189,7 +189,7 @@
     {
       "heading": "Qui écrit",
       "paragraphs": [
-        "Em Casa com Cecília tourne sur Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l’équipe n’utilise Paperclip : ce texte réunit ce que disent le dépôt officiel et Hostinger, consultés le 21 octobre 2026."
+        "Em Casa com Cecília tourne sur Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l’équipe n’utilise Paperclip : ce texte réunit ce que disent le dépôt officiel et Hostinger."
       ]
     }
   ],

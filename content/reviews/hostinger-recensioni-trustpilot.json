@@ -139,7 +139,7 @@
     {
       "heading": "Tre letture che cambiano il conto",
       "paragraphs": [
-        "Per capire cosa c’è dietro il 4,6, il 24 ottobre 2026 sono state lette le 100 recensioni a una stella più recenti e le 100 a cinque stelle più recenti, in tutte le lingue. Trustpilot contrassegna ogni recensione come «invitata», quando l’azienda ha mandato la richiesta, oppure come spontanea, quando la persona è arrivata da sola. La tabella confronta i due gruppi."
+        "Per capire cosa c’è dietro il 4,6, guardiamo le 100 recensioni a una stella più recenti e le 100 a cinque stelle più recenti, in tutte le lingue, al 24 ottobre 2026. Trustpilot contrassegna ogni recensione come «invitata», quando l’azienda ha mandato la richiesta, oppure come spontanea, quando la persona è arrivata da sola. La tabella confronta i due gruppi."
       ],
       "comparisonTable": {
         "headers": [
@@ -179,7 +179,7 @@
     {
       "heading": "Di cosa si lamentano le persone",
       "paragraphs": [
-        "Tolti i 14 elogi con il voto sbagliato, tra le 100 recensioni a una stella più recenti sono rimasti 86 reclami veri. Ogni reclamo è stato classificato per tema in base a titolo ed estratto; un reclamo può riguardare più temi, quindi i conteggi sono approssimativi. Questi sono i temi, dal più citato al meno citato:"
+        "Tolti i 14 elogi con il voto sbagliato, tra le 100 recensioni a una stella più recenti sono rimasti 86 reclami veri. Un reclamo può riguardare più temi, quindi i conteggi sono approssimativi. Questi sono i temi, dal più citato al meno citato:"
       ],
       "bullets": [
         "**Supporto con l’IA e impossibilità di parlare con una persona:** circa 45 su 86. Una parte riguarda gli strumenti di IA del costruttore di siti, non il supporto.",
@@ -192,8 +192,8 @@
       ],
       "postParagraphs": [
         "I paesi più frequenti tra le 100 recensioni a una stella sono stati Stati Uniti (18), India (14), Francia (8), Regno Unito (6) e Paesi Bassi (6).",
-        "Trustpilot pubblica da sé un riepilogo automatico del profilo, generato dall’IA del sito a partire da 12.464 recensioni. Tra i pregi indica un hosting stabile, un supporto utile con operatori umani rapidi sui problemi tecnici e un pannello facile per chi inizia. Tra i reclami indica un servizio molto automatizzato con difficoltà a parlare con una persona, un recupero dell’account difficile, la fatturazione e regole rigide sul rinnovo dei domini. Corrisponde a quello che abbiamo trovato nel campione.",
-        "Il primo tema merita una nota. Nei titoli letti, la lamentela che torna non è una risposta sbagliata, ma non riuscire a superare l’agente IA per arrivare a una persona. La nostra lettura: per un cliente con il sito fuori uso, quell’attesa è il problema.",
+        "Trustpilot pubblica da sé un riepilogo automatico del profilo, generato dall’IA del sito a partire da 12.464 recensioni. Tra i pregi indica un hosting stabile, un supporto utile con operatori umani rapidi sui problemi tecnici e un pannello facile per chi inizia. Tra i reclami indica un servizio molto automatizzato con difficoltà a parlare con una persona, un recupero dell’account difficile, la fatturazione e regole rigide sul rinnovo dei domini. Corrisponde al campione.",
+        "Il primo tema merita una nota. Nei titoli, la lamentela che torna non è una risposta sbagliata, ma non riuscire a superare l’agente IA per arrivare a una persona. La nostra lettura: per un cliente con il sito fuori uso, quell’attesa è il problema.",
         "Le recensioni non separano i reclami di fatturazione per motivo. Il legame con il rinnovo automatico è una nostra lettura, ed è da lì che conviene iniziare il controllo."
       ]
     },
@@ -225,7 +225,7 @@
       "heading": "Cosa risponde la Hostinger",
       "paragraphs": [
         "Su Trustpilot l’azienda dice di rispondere al 99% delle recensioni negative, di solito entro 24 ore. Nel nostro campione, 80 degli 86 reclami avevano una risposta; i sei senza risposta erano stati pubblicati nelle 24 ore precedenti. La pagina avverte anche che l’azienda può usare l’IA nelle risposte.",
-        "Le risposte sono state contate senza valutarle, quindi questo testo non dice se risolvono il problema. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti e sull’impossibilità di parlare con una persona."
+        "I numeri dicono solo quante segnalazioni hanno avuto una risposta, non cosa dicono le risposte, quindi questo testo non dice se risolvono il problema. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti e sull’impossibilità di parlare con una persona."
       ]
     },
     {
@@ -233,7 +233,7 @@
       "paragraphs": [
         "Bruno, che firma anche questo testo, è cliente della Hostinger dal 2024, con più di 24 mesi di abbonamento: hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Il sito Em Casa com Cecília gira sulla Hostinger.",
         "Ogni volta che ha avuto un problema, l’assistenza l’ha risolto, soprattutto l’agente IA, e non ha mai visto un’interruzione del servizio.",
-        "È la sua esperienza, con il suo uso, e serve un contrappeso onesto: l’assistenza con l’IA che ha risolto i suoi problemi è il tema più presente nei reclami letti, circa 45 su 86, anche se una parte riguarda gli strumenti di IA del costruttore di siti. Il suo caso non dice nulla di chi non è riuscito a superare l’agente, né di chi ha subito un addebito che non si aspettava."
+        "È la sua esperienza, con il suo uso, e serve un contrappeso onesto: l’assistenza con l’IA che ha risolto i suoi problemi è il tema più presente nei reclami, circa 45 su 86, anche se una parte riguarda gli strumenti di IA del costruttore di siti. Il suo caso non dice nulla di chi non è riuscito a superare l’agente, né di chi ha subito un addebito che non si aspettava."
       ]
     },
     {
@@ -249,7 +249,7 @@
       "bullets": [
         "Qual è il punteggio della Hostinger su Trustpilot? Un TrustScore di 4,6 su 5, da 73.830 recensioni, con l’87% di cinque stelle e il 7% di una stella.",
         "Le recensioni Hostinger su Trustpilot sono affidabili? Il profilo è rivendicato e gestito dall’azienda, che invita i clienti a recensire. Nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. Trustpilot dice che non verifica le recensioni una per una.",
-        "Di cosa si lamentano i clienti Hostinger su Trustpilot? Negli 86 reclami letti tra le 100 recensioni a una stella più recenti, i temi principali erano il supporto con l’IA e l’impossibilità di parlare con una persona (circa 45), la fatturazione e il rinnovo (circa 38) e i domini (circa 27).",
+        "Di cosa si lamentano i clienti Hostinger su Trustpilot? Tra gli 86 reclami delle 100 recensioni a una stella più recenti, i temi principali erano il supporto con l’IA e l’impossibilità di parlare con una persona (circa 45), la fatturazione e il rinnovo (circa 38) e i domini (circa 27).",
         "La Hostinger risponde alle recensioni negative? Sì. La pagina dice che l’azienda risponde al 99% delle recensioni negative, di solito entro 24 ore, e che può usare l’IA nelle risposte. Nel nostro campione, 80 degli 86 reclami avevano una risposta.",
         "Come disattivo il rinnovo automatico della Hostinger? In hPanel, apri il tuo profilo, vai su Fatturazione e poi su Abbonamenti, trova il servizio e clicca l’interruttore accanto. Leggi gli avvisi e conferma. Il prodotto resta attivo fino alla scadenza.",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%, tranne sulla registrazione di domini. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."

@@ -78,9 +78,9 @@
         "**Who maintains it.** The official repository, github.com/paperclipai/paperclip, says the project is maintained by the Paperclip team, and the copyright notice reads “MIT © 2026 Paperclip Labs, Inc.”. The project’s website, paperclip.ing, points to the same repository. Do not confuse it with the forks and copies of the code that show up in search.",
         "**License.** MIT. It means the code is open: anyone can read it, audit it and use it. It also means nobody is obliged to keep maintaining the version you installed.",
         "**Where it runs.** You choose. It can run on your computer, on a server of your own or on Hostinger’s managed plan. The project’s website says the self-hosted version does not require a Paperclip account.",
-        "**Where the keys and data live.** It depends on the path. On the VPS, Hostinger itself says that sensitive data, agent memory and API credentials stay “entirely on your infrastructure”, that is, on the server you rented. On managed, the page says the keys stay in your managed instance. This is Hostinger’s description, not an audit of ours.",
-        "**Code security.** The repository asks that vulnerabilities be reported through GitHub’s Security Advisory feature, not in public issues. In this reading, we did not check supported versions, independent audits or published advisories.",
-        "**What cannot be claimed.** There is no verified public security audit for this guide. There is also no independent review or third-party rating for the product. The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. For the company that hosts it, see [whether Hostinger is trustworthy](/en/reviews/is-hostinger-legit)."
+        "**Where the keys and data live.** It depends on the path. On the VPS, Hostinger itself says that sensitive data, agent memory and API credentials stay “entirely on your infrastructure”, that is, on the server you rented. On managed, the page says the keys stay in your managed instance. This is Hostinger’s description, not an independent audit.",
+        "**Code security.** The repository asks that vulnerabilities be reported through GitHub’s Security Advisory feature, not in public issues. The sources for this guide list no supported versions, independent audits or published advisories.",
+        "**What cannot be claimed.** The sources for this guide mention no public security audit. There is also no independent review or third-party rating for the product. The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. For the company that hosts it, see [whether Hostinger is trustworthy](/en/reviews/is-hostinger-legit)."
       ]
     },
     {
@@ -152,7 +152,7 @@
     {
       "heading": "What size of VPS",
       "postParagraphs": [
-        "RAM is the server’s memory, and a vCPU is one processor core. The bigger the VPS plan, the more memory and processing power it has. Hostinger does not list a minimum memory requirement for Paperclip on the pages read: the KVM 1 is the starting point, and how many agents you run decides whether it is enough. The plans are KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) and KVM 8 (8 vCPU, 32 GB, 400 GB)."
+        "RAM is the server’s memory, and a vCPU is one processor core. The bigger the VPS plan, the more memory and processing power it has. Hostinger does not list a minimum memory requirement for Paperclip on its product pages: the KVM 1 is the starting point, and how many agents you run decides whether it is enough. The plans are KVM 1 (1 vCPU, 4 GB, 50 GB), KVM 2 (2 vCPU, 8 GB, 100 GB), KVM 4 (4 vCPU, 16 GB, 200 GB) and KVM 8 (8 vCPU, 32 GB, 400 GB)."
       ]
     },
     {
@@ -179,7 +179,7 @@
       "heading": "Frequently asked questions",
       "bullets": [
         "Is Paperclip free? The program is open source under the MIT license and can be installed on your computer without buying Hostinger hosting. Managed hosting and VPS plans are paid. Model access uses your own accounts through an API or supported subscription, under the provider’s costs and limits.",
-        "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. We found no independent audit in the sources read.",
+        "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. There is no independent audit in this guide’s sources.",
         "Does it need an API key? In most cases, yes. On managed, Hostinger accepts an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription. On the VPS, the page asks you to bring your own keys. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
         "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
         "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
@@ -189,7 +189,7 @@
     {
       "heading": "Who writes this",
       "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses Paperclip: this text gathers what the official repository and Hostinger say, read on October 21, 2026."
+        "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses Paperclip: this text gathers what the official repository and Hostinger say."
       ]
     }
   ],
