@@ -18,7 +18,6 @@ import {
   PRIMARY_CATEGORIES,
   SUBCATEGORY_MAP,
 } from '@/constants/taxonomia';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const INITIAL_VISIBLE_RECIPES = 16;
 const LOAD_MORE_RECIPES = 12;
@@ -307,7 +306,7 @@ function RecipeResultsGrid({ items }) {
                 {receita.image ? (
                   <>
                     <Image
-                      src={resolveMediaUrl(receita.image)}
+                      src={receita.image}
                       alt={receita.imageAlt}
                       fill
                       className="object-cover transition-transform duration-700 ease-out group-hover:scale-110"

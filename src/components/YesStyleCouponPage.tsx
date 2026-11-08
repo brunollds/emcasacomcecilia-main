@@ -21,11 +21,13 @@ import {
 import { getYesStyleBreadcrumbItems, resolveYesStylePage } from '@/components/coupons/yesstylePage';
 import { getCouponBySlug } from '@/lib/couponsData';
 import { getHubLanguageLinks } from '@/lib/i18n/clusters/yesstyle';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // As rotas dos 10 idiomas importam daqui a página e os metadados.
 export { getYesStyleMetadata } from '@/components/coupons/yesstylePage';
 
 export function YesStyleCouponPage({ locale }: { locale: string }) {
+  const watermark = getCouponBySlug('yesstyle')?.brandWatermark;
   const resolved = resolveYesStylePage(locale);
   if (!resolved) return null;
 
@@ -72,7 +74,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <StoreHero
-        watermark={getCouponBySlug('yesstyle')?.brandWatermark}
+        watermark={watermark && resolveMediaUrl(watermark)}
         breadcrumb={breadcrumbItems.map(({ name, item }) => ({ name, path: new URL(item).pathname }))}
         breadcrumbLabel={ui.breadcrumbLabel}
         brand="YesStyle"

@@ -8,10 +8,10 @@ import { SectionHeadingReveal } from '@/components/editorial/SectionHeadingRevea
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { ROW_ARROW, rowScrollBehavior } from '@/components/ui/useRowScroll';
 import type { Locale } from '@/lib/i18n/locales';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { getArticleCopy } from './articleCopy';
 import { getGalleryCopy } from './galleryCopy';
 
+// As fotos chegam com o endereço de entrega: este módulo vai ao navegador e não importa o mapa de mídia.
 export interface ReviewGalleryImage {
   image?: string;
   url?: string;
@@ -25,6 +25,7 @@ export interface ReviewGalleryImage {
 export interface ReviewGalleryVideo {
   url: string;
   title?: string;
+  // Já com o endereço de entrega. Sem ela, vale a miniatura do YouTube, que nunca está no mapa de mídia.
   thumbnailUrl?: string;
 }
 
@@ -195,7 +196,7 @@ function PhotoLightbox({
       >
         <div className="relative h-full w-full">
           <Image
-            src={resolveMediaUrl(current.image)}
+            src={current.image}
             alt={current.alt || current.caption || copy.imageAlt}
             fill
             className="object-contain"
@@ -246,7 +247,7 @@ function PhotoCard({
     >
       <div className="relative" style={{ aspectRatio: presentation.aspectRatio }}>
         <Image
-          src={resolveMediaUrl(img.image)}
+          src={img.image}
           alt={img.alt || img.caption || title || copy.photoAlt}
           fill
           className={`motion-safe:transition-transform motion-safe:duration-700 motion-safe:ease-out ${
@@ -293,7 +294,7 @@ function VideoCard({ video, locale, single }: { video: ReviewGalleryVideo; local
       <div className="relative aspect-[9/16] overflow-hidden rounded-[10px] border-2 border-marinho bg-marinho">
         {thumbnailUrl ? (
           <Image
-            src={resolveMediaUrl(thumbnailUrl)}
+            src={thumbnailUrl}
             alt={title}
             fill
             className="object-cover motion-safe:transition-transform motion-safe:duration-700 motion-safe:ease-out motion-safe:group-hover:scale-105"

@@ -1,13 +1,13 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { Calendar, Clock } from 'lucide-react';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export interface ArticleBylineAuthor {
   name: string;
   role?: string;
   url?: string;
   initials?: string;
+  // Já com o endereço de entrega: o barrel de editorial vai ao navegador e não pode importar o mapa de mídia.
   avatar?: {
     src: string;
     alt: string;
@@ -55,7 +55,7 @@ function AuthorAvatar({ author }: { author: ArticleBylineAuthor }) {
   if (author.avatar?.src) {
     return (
       <Image
-        src={resolveMediaUrl(author.avatar.src)}
+        src={author.avatar.src}
         alt={author.avatar.alt || author.name}
         width={40}
         height={40}

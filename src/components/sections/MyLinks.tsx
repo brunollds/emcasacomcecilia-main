@@ -20,7 +20,8 @@ export function MyLinks({ offers }: { offers: Offer[] }) {
   // O código sai da loja em couponsData.ts; sem cupom ativo, a legenda fica só com a loja.
   const damie = getCouponBySlug('damie');
   const damieCode = damie?.offerMode === 'discount-code' ? damie.code : undefined;
-  const carousel = getCarouselOffers(offers);
+  // A foto vai pronta: o carrossel é cliente e não importa o mapa de mídia.
+  const carousel = getCarouselOffers(offers).map((offer) => ({ ...offer, image: resolveMediaUrl(offer.image) }));
 
   return (
     <HomeSection id="titulo-explore-a-casa" title="Explore a casa">

@@ -7,6 +7,7 @@ import type { ArticleStoreBlock as StoreBlock } from '@/lib/articleStore';
 import type { Review, ReviewViewModel } from '@/lib/content';
 import { BRUNO_AUTHOR } from '@/lib/content/authors';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
+import { withDeliveredGalleryImage } from '@/lib/sectionMedia';
 import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { ReviewGallerySection } from '../ReviewGallerySection';
 import { ReviewVerdictCard } from '../ReviewVerdictCard';
@@ -80,7 +81,7 @@ export function ArticleEnd({
       )}
 
       <ReviewGallerySection
-        images={review.gallery || []}
+        images={(review.gallery || []).map(withDeliveredGalleryImage)}
         videos={galleryVideos}
         title={review.title}
         locale={couponCopyLocale}

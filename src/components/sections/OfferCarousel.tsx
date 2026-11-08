@@ -9,7 +9,6 @@ import { ScrollRow } from '@/components/ui/ScrollRow';
 import { ROW_ARROW, useRowScroll } from '@/components/ui/useRowScroll';
 import { trackEvent } from '@/lib/analytics';
 import { getOfferDiscountPercent, type OfferWithImage } from '@/lib/dicasOffers';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // As ofertas do dia dentro do card do Dicas & Ofertas, numa fila que rola na horizontal; a partir de
 // 768 px, as setas ao lado do título passam a fila, quando ela tem o que rolar. O card mostra só a
@@ -76,7 +75,7 @@ function OfferCard({ offer }: { offer: OfferWithImage }) {
       >
         <span className="relative block h-[112px] border-b-2 border-marinho bg-white md:h-[128px]">
           <Image
-            src={resolveMediaUrl(offer.image)}
+            src={offer.image}
             alt={offer.title}
             fill
             sizes="148px"

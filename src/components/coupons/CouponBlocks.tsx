@@ -4,7 +4,6 @@ import { ArrowRight, ChevronDown } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { CouponFAQ } from '@/lib/couponsData';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // Archivo entra condensada (eixo wdth) nos números e títulos; a JetBrains Mono separa O de 0 nos códigos.
 // Os arquivos ficam em src/fonts, como as fontes do RootLayoutShell.
@@ -201,6 +200,7 @@ const WATERMARK_POSITION = {
 // ela é a maior imagem visível e conta como LCP, por isso entra sem lazy loading.
 // A moldura inset-0 recorta o que vaza: sem ela o card com overflow-hidden fica rolável na
 // horizontal, e selecionar o código arrastando o mouse empurra o conteúdo para o lado.
+// O `src` chega pronto: este módulo também vai ao navegador e não pode importar o mapa de mídia.
 export function BrandWatermark({
   src,
   className,
@@ -218,7 +218,7 @@ export function BrandWatermark({
     <span aria-hidden="true" className="pointer-events-none absolute inset-0 z-0 overflow-hidden">
       <span className={`absolute opacity-[0.14] ${className}`}>
         <Image
-          src={resolveMediaUrl(src)}
+          src={src}
           alt=""
           fill
           sizes="(min-width: 1024px) 400px, 320px"

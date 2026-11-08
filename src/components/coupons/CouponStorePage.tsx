@@ -5,6 +5,7 @@ import { getCouponHubPath } from '@/lib/couponHub';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
 import { getOtherActiveCoupons, getPendingLimitedCodes, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { getOfferMonthDate } from '@/lib/offerMonth';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
@@ -270,7 +271,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
       ))}
 
       <StoreHero
-        watermark={coupon.brandWatermark}
+        watermark={coupon.brandWatermark && resolveMediaUrl(coupon.brandWatermark)}
         breadcrumb={breadcrumb}
         breadcrumbLabel={copy.breadcrumbLabel}
         brand={coupon.brand}

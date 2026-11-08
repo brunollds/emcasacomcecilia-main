@@ -175,7 +175,9 @@ export function RecipeNotebookTemplate({
 
           <EditorialReveal as="div" delay={0.25} className="mb-8 flex flex-wrap items-center justify-center gap-3 text-sm text-[#1a4d2e]/80 md:justify-start">
             <ArticleByline
-              authors={recipe.authors || (recipe.author ? [recipe.author] : undefined)}
+              authors={(recipe.authors || (recipe.author ? [recipe.author] : undefined))?.map((author) =>
+                author.avatar?.src ? { ...author, avatar: { ...author.avatar, src: resolveMediaUrl(author.avatar.src) } } : author
+              )}
               fallbackAuthor={{
                 name: 'Cecília Mauad',
                 role: 'Em Casa com Cecília',

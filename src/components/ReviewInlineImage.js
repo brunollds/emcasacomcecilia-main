@@ -8,7 +8,6 @@ import { CouponStoreLink } from '@/components/CouponComponents';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { useReviewMediaBlur } from '@/components/review/useReviewMediaBlur';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function useInlineCarouselScroll() {
   const trackRef = useRef(null);
@@ -38,7 +37,7 @@ function normalizeImages(section, reviewTitle) {
     const rawAspectRatio = typeof section.image === 'string' ? section.imageAspectRatio : section.image?.aspectRatio;
     const aspectRatio = Number.isFinite(rawAspectRatio) && rawAspectRatio > 0 ? rawAspectRatio : undefined;
     images.push({
-      src: resolveMediaUrl(singleSrc),
+      src: singleSrc,
       alt: (typeof section.image === 'string' ? section.imageAlt : section.image?.alt) || section.heading || reviewTitle,
       caption,
       aspectRatio,
@@ -50,7 +49,7 @@ function normalizeImages(section, reviewTitle) {
   if (section.images && section.images.length > 0) {
     for (const item of section.images) {
       images.push({
-        src: resolveMediaUrl(item.src),
+        src: item.src,
         alt: item.alt || section.heading || reviewTitle,
         caption: item.caption,
         aspectRatio: Number.isFinite(item.aspectRatio) && item.aspectRatio > 0 ? item.aspectRatio : undefined,
@@ -136,7 +135,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCaro
       style={image.aspectRatio ? { aspectRatio: image.aspectRatio } : undefined}
     >
       <Image
-        src={resolveMediaUrl(image.src)}
+        src={image.src}
         alt={image.alt}
         fill
         className={normalizeCarousel ? 'object-contain p-1.5' : isPortrait ? 'object-contain p-1.5' : isSquare ? 'object-cover' : (isContain || isWide || isPanoramic) ? 'object-contain' : 'object-cover'}
@@ -304,7 +303,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy, product
       >
         <div className="relative h-full w-full">
           <Image
-            src={resolveMediaUrl(image.src)}
+            src={image.src}
             alt={image.alt}
             fill
             className="object-contain"

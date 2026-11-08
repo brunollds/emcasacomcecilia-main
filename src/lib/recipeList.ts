@@ -6,9 +6,11 @@ import {
   type Recipe,
 } from '@/lib/data';
 import { formatRecipeTime } from '@/lib/recipeTime';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // Só o que a listagem de /receitas usa de cada receita: o cartão e os campos dos filtros. Sem foto própria,
-// image fica undefined e o cartão desenha a capa (RecipeCover). O totalTime segue cru para o filtro de
+// image fica undefined e o cartão desenha a capa (RecipeCover). A foto vai pronta, com o endereço de entrega:
+// a listagem é cliente e não importa o mapa de mídia. O totalTime segue cru para o filtro de
 // tempo; o cartão mostra o totalTimeLabel.
 export function toListedRecipe(recipe: Recipe) {
   const image = getRecipeOwnImage(recipe);
@@ -16,7 +18,7 @@ export function toListedRecipe(recipe: Recipe) {
     id: recipe.id,
     slug: recipe.slug,
     title: recipe.title,
-    image,
+    image: image ? resolveMediaUrl(image) : undefined,
     imageAlt: image ? getRecipeImageAlt(recipe) : undefined,
     displayCategory: getRecipePrimaryCategory(recipe),
     totalTime: recipe.totalTime,
