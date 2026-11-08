@@ -21,8 +21,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | I10 | Calça feminina Insider: FutureForm, Reta Ajustável ou Wide Leg (rodada de 08/11) | Insider | PT | [[calca-insider-feminina-qual-escolher]] | Redigida, com revisão externa aplicada e capa aprovada em 08/11; a Reta segue indisponível e ficou fora do quadro. Mídia no CDN e PR aberto. No ar em 08/11 (release 829db7d1) |
 | I11 | Calça masculina Insider: FutureForm, Director ou Hybrid Jogger (rodada de 08/11) | Insider | PT | [[calca-insider-masculina-qual-escolher]] | Redigida, com revisão externa aplicada e capa aprovada em 08/11. Mídia no CDN e PR aberto. No ar em 08/11 (release 829db7d1) |
 | I12 | Camisa social Insider FutureForm, com o cupom testado no carrinho (rodada de 08/11). Dois artigos, a pedido do Bruno | Insider | PT | [[camisa-social-insider-masculina]] e [[camisa-social-insider-feminina]] | Redigidas, com revisão externa aplicada e capas aprovadas em 08/11; mídia no CDN e PR aberto. No ar em 08/11 (release 829db7d1) |
-| I13 | Sutiã Insider: Comfy, Flex, Lounge ou NakedFeel (rodada de 08/11) | Insider | PT | [[sutia-insider-qual-escolher]] | Redigido, com revisão externa aplicada e card de estilo. Falta o deploy |
-| F12 | O que usar em decote profundo, costas abertas e tomara que caia (rodada de 08/11) | Toda Up | PT | [[sutia-para-decote-profundo-costas-abertas]] | Redigido, com revisão externa aplicada e card de estilo. Falta o deploy |
+| I13 | Sutiã Insider: Comfy, Flex, Lounge ou NakedFeel (rodada de 08/11) | Insider | PT | [[sutia-insider-qual-escolher]] | No ar em 08/11 (release fa2d5745), com revisão externa aplicada e card de estilo |
+| F12 | O que usar em decote profundo, costas abertas e tomara que caia (rodada de 08/11) | Toda Up | PT | [[sutia-para-decote-profundo-costas-abertas]] | No ar em 08/11 (release fa2d5745), com revisão externa aplicada e card de estilo |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
