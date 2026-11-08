@@ -20,7 +20,7 @@ npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (
 npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
-npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT
+npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT; loja ativa de INTERNATIONAL_STORES com página nos 9 idiomas
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
 npm run test:yesstyle-article-date  # {yesstyle:verifiedAt} nos artigos: o build-index troca pela data da página /cupons/yesstyle no idioma do artigo; marcação que sobra para o build
 npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"; consentimento (store, valor inválido, armazenamento bloqueado, os dois loaders atrás de isTrackingAllowed, textos do aviso nos 10 idiomas)
@@ -193,7 +193,7 @@ vídeo, primeiras impressões e uso noturno.
 - `npm run test:review-i18n`, que roda na build, exige as 10 versões de toda família, com o mesmo
   `affiliate` e o mesmo `coupon`, e o link da página da loja no idioma do artigo: `/cupons/<marca>`
   em português e `/<locale>/coupons/<marca>` nos outros.
-- SHEIN, YesStyle e Hostinger são lojas internacionais (`INTERNATIONAL_STORES`, em `storeBanners.ts`): o link e o
+- SHEIN, YesStyle e Hostinger são lojas internacionais (`INTERNATIONAL_STORES`, em `storeBanners.ts`; para pôr um parceiro novo, a checklist "Parceiro internacional" em `docs/MANUTENCAO-MENSAL.md`): o link e o
   código levam o visitante à loja da região dele, então valem em todo idioma, `br.shein.com` inclusive. Nenhum texto
   fora do PT diz que um código ou uma campanha da SHEIN é "da SHEIN Brasil": não existe programa da SHEIN por país.
 - A interface do artigo que não é conteúdo (selo do tipo, veredito e nota, ficha do produto, bloco de

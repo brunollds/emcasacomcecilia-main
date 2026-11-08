@@ -16,6 +16,7 @@ import { getCouponCardLabels, getCouponHubAlternates, getCouponHubEntries, getCo
 import { COUPON_HUB_COPY } from '../src/components/coupons/couponHubCopy';
 import { getYesStylePage } from '../src/components/coupons/yesstyleCopy';
 import { getYesStyleLocaleConfig } from '../src/lib/i18n/clusters/yesstyle';
+import { INTERNATIONAL_STORES } from '../src/lib/storeBanners';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Cada texto de um objeto, com o caminho até ele.
@@ -230,6 +231,21 @@ assert.throws(
 // Hub de cada idioma: YesStyle em destaque, depois as lojas traduzidas ativas, cada uma no seu endereço.
 const activeTranslated = getTranslatedCouponSlugs();
 assert.deepEqual(activeTranslated, translatedSlugs, 'getTranslatedCouponSlugs deve listar as lojas traduzidas ativas');
+
+// Loja internacional ativa tem página nos 9 idiomas (a YesStyle pelas rotas dela). Loja pausada sai dos hubs e não conta.
+const withoutLocalePages = (stores: Iterable<string>) =>
+  [...stores].filter(
+    (slug) => getCouponBySlug(slug) && TRANSLATED_LOCALES.some((locale) => !getCouponHubEntries(locale).some((entry) => entry.coupon.slug === slug))
+  );
+assert.deepEqual(
+  withoutLocalePages(INTERNATIONAL_STORES),
+  [],
+  'loja em INTERNATIONAL_STORES sem página nos 9 idiomas: falta a entrada em COUPON_TRANSLATIONS (docs/MANUTENCAO-MENSAL.md, "Parceiro internacional")'
+);
+// Controle: uma loja ativa só em português é barrada; uma que não existe ou está pausada, não.
+const portugueseOnly = getActiveCoupons().find(({ slug }) => slug !== 'yesstyle' && !activeTranslated.includes(slug))?.slug;
+assert.ok(portugueseOnly, 'nenhuma loja ativa só em português para o controle');
+assert.deepEqual(withoutLocalePages([portugueseOnly, 'loja-que-nao-existe']), [portugueseOnly], 'a trava de loja internacional não barrou a loja só em português');
 
 for (const locale of TRANSLATED_LOCALES) {
   const entries = getCouponHubEntries(locale);

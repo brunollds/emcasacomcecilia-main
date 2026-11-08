@@ -152,6 +152,39 @@ testes acontecerem em dias diferentes.
 
 ---
 
+### Parceiro internacional
+
+Loja nova só em `src/lib/couponsData.ts` fica só em português, sem erro nenhum. Para a loja sair nos 9 outros idiomas, a
+entrada em `COUPON_TRANSLATIONS` é obrigatória.
+
+**Antes, com o Bruno:** se o parceiro é mesmo internacional (entrega fora do Brasil, com o programa valendo para quem
+compra de fora) e qual link vale fora do português. Sem essa resposta, a loja entra como as outras, só em português.
+
+1. Cadastrar a loja em `src/lib/couponsData.ts`, como qualquer outra.
+2. Acrescentar a entrada em `COUPON_TRANSLATIONS` (`src/lib/couponTranslations.ts`), com o `offerMode` igual ao do PT, os
+   textos dos 9 idiomas e, se a loja tiver um diferente do brasileiro, o link internacional em `offerUrl`. Loja com faixas
+   (`tiers`) não aceita tradução. Na loja de código, a `CODE_FIELD_POLICY` decide o que herda do PT.
+3. Textos: a sessão escreve o português, o Sonnet gera os 9 idiomas e a sessão revisa. Nenhum texto fora do PT cita o
+   Brasil; alemão com "Sie"; francês com espaço sem quebra (NBSP) antes de `:`, `;`, `?` e `%`.
+4. Só com a confirmação do Bruno de que a loja corrige o link e o código para a região do visitante, nos links que a
+   parceria usa (e de que a oferta vale para quem compra de fora), pôr o slug em `INTERNATIONAL_STORES`
+   (`src/lib/storeBanners.ts`). Essa lista libera link de um país só nas campanhas dos 10 idiomas, e ter link internacional
+   ou vender fora do Brasil não prova isso. Sem a confirmação, a loja não entra na lista: as páginas dos 9 idiomas saem do
+   mesmo jeito, e as campanhas dos 10 idiomas levam um link que valha em todos. Na lista, o `test:coupon-translations` barra
+   loja ativa sem página nos 9 idiomas.
+5. Rodar `npm run typecheck`, `npm run test:coupon-translations`, `npm run test:locale-home` e o `npm run build`.
+
+**Entra sozinho com a entrada do passo 2:** as páginas `/<idioma>/coupons/<loja>` com hreflang, o cartão no hub
+`/<idioma>/coupons`, a bolinha e a aba na home de cada idioma, o nome da loja no FAQ, a busca de cada idioma, o sitemap, o
+`llms.txt` e a conferência do host do link novo.
+
+**Fica à parte:**
+
+- Artigos: a bolinha da loja mostra o aviso de loja sem artigo até existir artigo traduzido. Cada família precisa das 10
+  versões (`test:review-i18n`). A pauta vai à sessão de artigos, com a tradução já pedida.
+- Campanhas: `content/campanhas/` leva só o português ou os 10 idiomas (`docs/CAMPANHAS.md`).
+- As perguntas fixas do FAQ dos idiomas e os destaques do hub são escolha editorial: a loja nova não muda nenhum deles.
+
 ## 3. YesStyle: fonte factual e campanhas curtas
 
 Fonte factual: `data/coupons/yesstyle.json`  
