@@ -8,15 +8,17 @@ import type { TranslatedLocale } from '@/lib/couponTranslations';
 // localeHomeCopy.ts, com os mesmos marcadores ({name}, {since}, {stores}, {email}) preenchidos.
 //
 // Os marcadores {email} e os destinos dos links são trocados ao montar a página (src/lib/faqPage.ts): o
-// destino "coupons" é o hub do idioma, "reviews" a lista de artigos, "yesstyle" a página da YesStyle e
+// destino "coupons" é o hub do idioma, "reviews" a lista de artigos, "yesstyle" a página da YesStyle, "shein" a da SHEIN e
 // "email" o e-mail de contato. O "mediaKit" é o mídia kit em português.
 
-export type FaqLinkTarget = 'coupons' | 'reviews' | 'yesstyle' | 'email' | 'mediaKit';
+export type FaqLinkTarget = 'coupons' | 'reviews' | 'yesstyle' | 'shein' | 'email' | 'mediaKit';
 
 export type FaqCopyLink = { label: string; target: FaqLinkTarget };
 
+export type HomeFaqKey = 'who' | 'why' | 'where' | 'contact';
+
 export type FaqCopyEntry =
-  | { home: 'who' | 'why' | 'where' | 'contact' }
+  | { home: HomeFaqKey }
   | { question: string; answer: string; link?: FaqCopyLink };
 
 export type FaqCopyCategory = { id: string; title: string; entries: FaqCopyEntry[] };
@@ -60,11 +62,6 @@ export const FAQ_SOURCE_PT: FaqLocaleCopy = {
       entries: [
         { home: 'who' },
         { home: 'why' },
-        {
-          question: 'O site existe em outros idiomas?',
-          answer:
-            'Sim. Parte dos guias e das páginas das lojas parceiras e da YesStyle tem versão em inglês, espanhol, francês, alemão, italiano, coreano, japonês e chinês. Use o seletor de idioma no topo da página.',
-        },
         { home: 'contact' },
       ],
     },
@@ -76,7 +73,7 @@ export const FAQ_SOURCE_PT: FaqLocaleCopy = {
         {
           question: 'Os cupons são testados?',
           answer:
-            'Sim. Aplicamos cada código no checkout da loja antes de publicar, e a página mostra o resultado e a data (“Cupom testado em”). Quando a loja só tem link ou campanha, a página mostra “Conferido em”.',
+            'Depende da loja. Nas lojas em que aplicamos o código no checkout, a página diz “Cupom testado em” e a data. Nas outras, a página mostra a data em que a oferta foi conferida (“Conferido em”), que é uma checagem da oferta e não um teste no checkout. A página de cada loja diz qual dos dois casos vale para ela.',
           link: { label: 'Ver os cupons', target: 'coupons' },
         },
         {
@@ -88,13 +85,14 @@ export const FAQ_SOURCE_PT: FaqLocaleCopy = {
         {
           question: 'O CECILIA010 é cupom?',
           answer:
-            'Não. É um código de recompensa, que vai no campo Reward Code do checkout. Por isso ele soma com os cupons da própria YesStyle, que vão em outro campo.',
+            'Não. É um código de recompensa, que vai no campo Reward Code do checkout. Ele pode ser combinado com os cupons promocionais elegíveis da própria YesStyle, que vão em outro campo. Confirme sempre no resumo do pedido que os dois descontos aparecem.',
           link: { label: 'Como usar o CECILIA010', target: 'yesstyle' },
         },
         {
           question: 'O 4CW5Y da SHEIN é cupom?',
           answer:
             'Não é cupom de checkout, mas dá desconto, sim. É o código de indicação da Cecília: use o link ou pesquise o 4CW5Y no app ou no site da SHEIN, e abre uma página com uma seleção de produtos com desconto e promoções. Quanto e em quais peças, quem define é a SHEIN.',
+          link: { label: 'Abrir a página da SHEIN', target: 'shein' },
         },
         {
           question: 'Posso usar o cupom mais de uma vez?',
@@ -167,6 +165,21 @@ export const FAQ_SOURCE_PT: FaqLocaleCopy = {
 
 // Os 9 idiomas fora do PT. Cada um segue a forma de FAQ_SOURCE_PT, com os mesmos ids de categoria.
 
+// Texto próprio do FAQ no lugar do da home, só onde a home usa um tratamento que o resto do FAQ não usa: a home
+// alemã fala por "du" e o FAQ alemão por "Sie". A home segue como está (localeHomeCopy.ts muda em outra fase).
+export const HOME_FAQ_OVERRIDES: Partial<Record<TranslatedLocale, Partial<Record<HomeFaqKey, { question?: string; answer?: string }>>>> = {
+  de: {
+    where: {
+      answer:
+        'Jeder Partner-Shop hat eine Seite in Ihrer Sprache, die seinen Code erklärt, wo man ihn nutzt und wann er zuletzt geprüft wurde.',
+    },
+    contact: {
+      question: 'Wie kann ich Sie kontaktieren?',
+      answer: 'Schreiben Sie an {email}.',
+    },
+  },
+};
+
 export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
   en: {
     metaTitle: 'Frequently asked questions | Em Casa com Cecília',
@@ -190,11 +203,6 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
         entries: [
           { home: 'who' },
           { home: 'why' },
-          {
-            question: 'Is the site available in other languages?',
-            answer:
-              'Yes. Some of the guides and some of the pages for partner stores and YesStyle are available in English, Spanish, French, German, Italian, Korean, Japanese and Chinese. Use the language selector at the top of the page.',
-          },
           { home: 'contact' },
         ],
       },
@@ -206,7 +214,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'Are the coupons tested?',
             answer:
-              'Yes. We apply each code at the store’s checkout before publishing, and the page shows the result and the date (“Coupon tested on”). When a store only has a link or a campaign, the page shows “Checked on”.',
+              'It depends on the store. For stores where we applied the code at checkout, the page says “Coupon tested on” and the date. For the other stores, the page shows the date the offer was last checked (“Checked on”), which is a check of the offer, not a checkout test. Each store page says which of the two applies to it.',
             link: { label: 'See the coupons', target: 'coupons' },
           },
           {
@@ -218,13 +226,14 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'Is CECILIA010 a coupon?',
             answer:
-              'No. It is a reward code, entered in the Reward Code field at checkout. That is why it stacks with YesStyle’s own coupons, which go in a different field.',
+              'No. It is a reward code, entered in the Reward Code field at checkout. It can be combined with the eligible YesStyle promotional coupons, which go in a different field. Always confirm in the checkout summary that both discounts appear.',
             link: { label: 'How to use CECILIA010', target: 'yesstyle' },
           },
           {
             question: 'What is the SHEIN code 4CW5Y?',
             answer:
               'It is Cecília’s referral code. It is not a checkout code, but it does give a discount: use the link, or search for 4CW5Y in the SHEIN app or website, and a page opens with a selection of discounted products and promotions. How much, and on which items, is up to SHEIN.',
+            link: { label: 'Open the SHEIN page', target: 'shein' },
           },
           {
             question: 'Can I use a coupon more than once?',
@@ -316,11 +325,6 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
         entries: [
           { home: 'who' },
           { home: 'why' },
-          {
-            question: '¿El sitio existe en otros idiomas?',
-            answer:
-              'Sí. Parte de las guías y de las páginas de las tiendas asociadas y de YesStyle tiene versión en inglés, español, francés, alemán, italiano, coreano, japonés y chino. Usa el selector de idioma en la parte superior de la página.',
-          },
           { home: 'contact' },
         ],
       },
@@ -332,7 +336,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: '¿Los cupones se prueban?',
             answer:
-              'Sí. Aplicamos cada código en el pago de la tienda antes de publicar, y la página muestra el resultado y la fecha (“Cupón probado el”). Cuando la tienda solo tiene un enlace o una campaña, la página muestra “Comprobado el”.',
+              'Depende de la tienda. En las tiendas donde aplicamos el código en el pago, la página dice “Cupón probado el” y la fecha. En las demás, la página muestra la fecha en que se comprobó la oferta (“Comprobado el”), que es una verificación de la oferta y no una prueba en el pago. La página de cada tienda indica cuál de los dos casos le corresponde.',
             link: { label: 'Ver los cupones', target: 'coupons' },
           },
           {
@@ -344,13 +348,14 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: '¿CECILIA010 es un cupón?',
             answer:
-              'No. Es un código de recompensa, que va en el campo Reward Code del pago. Por eso se suma a los cupones de la propia YesStyle, que van en otro campo.',
+              'No. Es un código de recompensa, que va en el campo Reward Code del pago. Puede combinarse con los cupones promocionales elegibles de la propia YesStyle, que van en otro campo. Confirma siempre en el resumen del pedido que aparecen los dos descuentos.',
             link: { label: 'Cómo usar CECILIA010', target: 'yesstyle' },
           },
           {
             question: '¿Qué es el código 4CW5Y de SHEIN?',
             answer:
               'Es el código de referido de Cecília. No es un código de pago, pero sí da descuento: usa el enlace o busca 4CW5Y en la app o en la web de SHEIN, y se abre una página con una selección de productos con descuento y promociones. Cuánto y en qué prendas lo decide SHEIN.',
+            link: { label: 'Ver la página de SHEIN', target: 'shein' },
           },
           {
             question: '¿Puedo usar un cupón más de una vez?',
@@ -443,11 +448,6 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
         entries: [
           { home: 'who' },
           { home: 'why' },
-          {
-            question: 'Le site existe-t-il dans d’autres langues ?',
-            answer:
-              'Oui. Une partie des guides et des pages des boutiques partenaires et de YesStyle existe en anglais, espagnol, français, allemand, italien, coréen, japonais et chinois. Utilisez le sélecteur de langue en haut de la page.',
-          },
           { home: 'contact' },
         ],
       },
@@ -459,7 +459,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'Les codes promo sont-ils testés ?',
             answer:
-              'Oui. Nous appliquons chaque code au paiement sur le site de la boutique avant de publier, et la page indique le résultat et la date (« Code promo testé le »). Quand la boutique n’a qu’un lien ou une campagne, la page indique « Vérifié le ».',
+              'Cela dépend de la boutique. Pour les boutiques où nous avons appliqué le code au paiement, la page indique « Code promo testé le » et la date. Pour les autres, la page indique la date à laquelle l’offre a été vérifiée (« Vérifié le »), ce qui est une vérification de l’offre et non un test au paiement. La page de chaque boutique précise lequel des deux cas s’applique.',
             link: { label: 'Voir les codes promo', target: 'coupons' },
           },
           {
@@ -471,13 +471,14 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'CECILIA010 est-il un coupon ?',
             answer:
-              'Non. C’est un code récompense, à saisir dans le champ Reward Code au paiement. C’est pourquoi il se cumule avec les coupons de YesStyle elle-même, qui vont dans un autre champ.',
+              'Non. C’est un code récompense, à saisir dans le champ Reward Code au paiement. Il peut se cumuler avec les coupons promotionnels éligibles de YesStyle elle-même, qui vont dans un autre champ. Vérifiez toujours dans le récapitulatif de commande que les deux réductions apparaissent.',
             link: { label: 'Comment utiliser CECILIA010', target: 'yesstyle' },
           },
           {
             question: 'Qu’est-ce que le code SHEIN 4CW5Y ?',
             answer:
               'C’est le code de parrainage de Cecília. Ce n’est pas un code à saisir au paiement, mais il donne bien une réduction : utilisez le lien ou recherchez 4CW5Y dans l’appli ou sur le site SHEIN, et une page s’ouvre avec une sélection de produits à prix réduit et de promotions. Le montant de la réduction et les articles concernés sont décidés par SHEIN.',
+            link: { label: 'Voir la page SHEIN', target: 'shein' },
           },
           {
             question: 'Puis-je utiliser un code promo plusieurs fois ?',
@@ -569,11 +570,6 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
         entries: [
           { home: 'who' },
           { home: 'why' },
-          {
-            question: 'Gibt es die Website in anderen Sprachen?',
-            answer:
-              'Ja. Ein Teil der Ratgeber sowie der Seiten der Partner-Shops und von YesStyle gibt es auf Englisch, Spanisch, Französisch, Deutsch, Italienisch, Koreanisch, Japanisch und Chinesisch. Nutzen Sie die Sprachauswahl oben auf der Seite.',
-          },
           { home: 'contact' },
         ],
       },
@@ -585,7 +581,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'Werden die Gutscheine getestet?',
             answer:
-              'Ja. Wir wenden jeden Code an der Kasse des Shops an, bevor wir ihn veröffentlichen, und die Seite zeigt Ergebnis und Datum („Gutschein getestet am“). Hat ein Shop nur einen Link oder eine Aktion, steht dort „Geprüft am“.',
+              'Das hängt vom Shop ab. Bei Shops, in denen wir den Code an der Kasse angewendet haben, steht auf der Seite „Gutschein getestet am“ mit dem Datum. Bei den übrigen Shops zeigt die Seite das Datum, an dem das Angebot zuletzt geprüft wurde („Geprüft am“); das ist eine Prüfung des Angebots, kein Test an der Kasse. Auf der Seite jedes Shops steht, welcher der beiden Fälle gilt.',
             link: { label: 'Gutscheine ansehen', target: 'coupons' },
           },
           {
@@ -597,13 +593,14 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'Ist CECILIA010 ein Gutschein?',
             answer:
-              'Nein. Es ist ein Reward Code, der an der Kasse in das Feld Reward Code eingegeben wird. Deshalb lässt er sich mit den Gutscheinen von YesStyle selbst kombinieren, die in ein anderes Feld gehören.',
+              'Nein. Es ist ein Reward Code, der an der Kasse in das Feld Reward Code eingegeben wird. Er lässt sich mit den berechtigten Aktionsgutscheinen von YesStyle selbst kombinieren, die in ein anderes Feld gehören. Prüfen Sie in der Bestellübersicht immer, ob beide Rabatte erscheinen.',
             link: { label: 'So verwenden Sie CECILIA010', target: 'yesstyle' },
           },
           {
             question: 'Was ist der SHEIN-Code 4CW5Y?',
             answer:
               'Es ist der Empfehlungscode von Cecília. Er wird nicht an der Kasse eingegeben, bringt aber trotzdem Rabatt: Nutzen Sie den Link oder suchen Sie in der SHEIN-App oder auf der SHEIN-Website nach 4CW5Y, dann öffnet sich eine Seite mit einer Auswahl rabattierter Produkte und Aktionen. Wie hoch der Rabatt ist und für welche Artikel er gilt, entscheidet SHEIN.',
+            link: { label: 'Zur SHEIN-Seite', target: 'shein' },
           },
           {
             question: 'Kann ich den Gutschein mehrmals verwenden?',
@@ -695,11 +692,6 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
         entries: [
           { home: 'who' },
           { home: 'why' },
-          {
-            question: 'Il sito esiste in altre lingue?',
-            answer:
-              'Sì. Una parte delle guide e delle pagine dei negozi partner e di YesStyle ha una versione in inglese, spagnolo, francese, tedesco, italiano, coreano, giapponese e cinese. Usa il selettore della lingua in alto nella pagina.',
-          },
           { home: 'contact' },
         ],
       },
@@ -711,7 +703,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'I coupon vengono testati?',
             answer:
-              'Sì. Applichiamo ogni codice al checkout del negozio prima di pubblicare, e la pagina mostra il risultato e la data (“Coupon testato il”). Quando il negozio ha solo un link o una campagna, la pagina mostra “Verificato il”.',
+              'Dipende dal negozio. Nei negozi in cui abbiamo applicato il codice al checkout, la pagina mostra “Coupon testato il” e la data. Per gli altri, la pagina mostra la data in cui l’offerta è stata verificata (“Verificato il”), che è un controllo dell’offerta e non un test al checkout. La pagina di ogni negozio indica quale dei due casi vale.',
             link: { label: 'Vedi i coupon', target: 'coupons' },
           },
           {
@@ -723,13 +715,14 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'CECILIA010 è un coupon?',
             answer:
-              'No. È un codice ricompensa, da inserire nel campo Reward Code al checkout. Per questo si somma ai coupon di YesStyle stessa, che vanno in un altro campo.',
+              'No. È un codice ricompensa, da inserire nel campo Reward Code al checkout. Può essere combinato con i coupon promozionali idonei di YesStyle stessa, che vanno in un altro campo. Controlla sempre nel riepilogo dell’ordine che compaiano entrambi gli sconti.',
             link: { label: 'Come usare CECILIA010', target: 'yesstyle' },
           },
           {
             question: 'Che cos’è il codice SHEIN 4CW5Y?',
             answer:
               'È il codice invito di Cecília. Non è un codice da inserire al checkout, ma dà davvero uno sconto: usa il link o cerca 4CW5Y nell’app o sul sito SHEIN, e si apre una pagina con una selezione di prodotti scontati e promozioni. Quanto e su quali articoli lo decide SHEIN.',
+            link: { label: 'Vai alla pagina SHEIN', target: 'shein' },
           },
           {
             question: 'Posso usare il coupon più di una volta?',
@@ -820,11 +813,6 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
         entries: [
           { home: 'who' },
           { home: 'why' },
-          {
-            question: '사이트를 다른 언어로도 볼 수 있나요?',
-            answer:
-              '네. 가이드와 파트너 스토어, YesStyle 페이지 중 일부는 영어, 스페인어, 프랑스어, 독일어, 이탈리아어, 한국어, 일본어, 중국어 버전이 있어요. 페이지 상단의 언어 선택 메뉴를 이용하세요.',
-          },
           { home: 'contact' },
         ],
       },
@@ -836,7 +824,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: '쿠폰은 직접 테스트하나요?',
             answer:
-              '네. 게시하기 전에 스토어 결제 단계에서 코드를 하나씩 적용해 보고, 페이지에 결과와 날짜(“쿠폰 테스트 완료”)를 표시해요. 스토어에 링크나 캠페인만 있을 때는 “확인”으로 표시돼요.',
+              '스토어마다 달라요. 결제 단계에서 코드를 직접 적용해 본 스토어는 페이지에 “쿠폰 테스트 완료”와 날짜가 표시돼요. 그 밖의 스토어는 혜택을 확인한 날짜(“확인”)가 표시되는데, 결제 단계 테스트가 아니라 혜택 내용을 확인한 것이에요. 어느 쪽에 해당하는지는 각 스토어 페이지에 나와 있어요.',
             link: { label: '쿠폰 보기', target: 'coupons' },
           },
           {
@@ -848,13 +836,14 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'CECILIA010은 쿠폰인가요?',
             answer:
-              '아니요. 결제 단계의 Reward Code 칸에 넣는 리워드 코드예요. 그래서 다른 칸에 넣는 YesStyle 자체 쿠폰과 함께 쓸 수 있어요.',
+              '아니요. 결제 단계의 Reward Code 칸에 넣는 리워드 코드예요. 다른 칸에 넣는 YesStyle 자체 프로모션 쿠폰 중 적용 대상인 쿠폰과 함께 쓸 수 있어요. 두 할인이 모두 반영됐는지 주문 요약에서 꼭 확인하세요.',
             link: { label: 'CECILIA010 사용 방법', target: 'yesstyle' },
           },
           {
             question: 'SHEIN의 4CW5Y는 어떤 코드인가요?',
             answer:
               'Cecília의 추천 코드예요. 결제 단계에서 입력하는 코드는 아니지만 할인은 받을 수 있어요. 링크를 이용하거나 SHEIN 앱이나 웹사이트에서 4CW5Y를 검색하면 할인 상품과 프로모션을 모은 페이지가 열려요. 할인율과 대상 상품은 SHEIN이 정해요.',
+            link: { label: 'SHEIN 페이지 보기', target: 'shein' },
           },
           {
             question: '쿠폰을 여러 번 사용할 수 있나요?',
@@ -945,11 +934,6 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
         entries: [
           { home: 'who' },
           { home: 'why' },
-          {
-            question: 'サイトは他の言語でも読めますか？',
-            answer:
-              'はい。ガイドや、提携ショップとYesStyleのページの一部には、英語、スペイン語、フランス語、ドイツ語、イタリア語、韓国語、日本語、中国語版があります。ページ上部の言語切り替えをご利用ください。',
-          },
           { home: 'contact' },
         ],
       },
@@ -961,7 +945,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'クーポンはテストしていますか？',
             answer:
-              'はい。公開する前に、ショップのチェックアウトで各コードを実際に適用し、結果と日付をページに表示しています（「クーポンをテスト済み」）。ショップにリンクやキャンペーンしかない場合は、「確認」と表示します。',
+              'ショップによって異なります。チェックアウトでコードを実際に適用したショップのページには、「クーポンをテスト済み」と日付が表示されます。それ以外のショップでは、オファーを確認した日付（「確認」）が表示されます。これはチェックアウトでのテストではなく、オファー内容の確認です。どちらに当たるかは、各ショップのページに書かれています。',
             link: { label: 'クーポンを見る', target: 'coupons' },
           },
           {
@@ -973,13 +957,14 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'CECILIA010はクーポンですか？',
             answer:
-              'いいえ。チェックアウトのReward Code欄に入力するリワードコードです。そのため、別の欄に入力するYesStyle自身のクーポンと併用できます。',
+              'いいえ。チェックアウトのReward Code欄に入力するリワードコードです。別の欄に入力する、YesStyle自身の対象のプロモーションクーポンと併用できます。両方の割引が反映されているか、注文概要で必ず確認してください。',
             link: { label: 'CECILIA010の使い方', target: 'yesstyle' },
           },
           {
             question: 'SHEINの4CW5Yとは何ですか？',
             answer:
               'Cecíliaの紹介コードです。チェックアウトで入力するコードではありませんが、割引は受けられます。リンクを使うか、SHEINのアプリやサイトで4CW5Yを検索すると、割引商品とプロモーションを集めたページが開きます。割引率や対象の商品はSHEINが決めています。',
+            link: { label: 'SHEINのページを見る', target: 'shein' },
           },
           {
             question: 'クーポンは何回でも使えますか？',
@@ -1070,11 +1055,6 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
         entries: [
           { home: 'who' },
           { home: 'why' },
-          {
-            question: '網站有其他語言版本嗎？',
-            answer:
-              '有。部分指南，以及合作商店和YesStyle的頁面，有英文、西班牙文、法文、德文、義大利文、韓文、日文和中文版本。請使用頁面頂部的語言選單。',
-          },
           { home: 'contact' },
         ],
       },
@@ -1086,7 +1066,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: '優惠碼都有測試過嗎？',
             answer:
-              '有。發布前，我們會在商店結帳時逐一套用每個代碼，頁面會顯示結果和日期（「測試優惠碼」）。如果商店只有連結或活動，頁面會顯示「核實」。',
+              '視商店而定。我們在結帳時實際套用過代碼的商店，頁面會顯示「測試優惠碼」和日期。其他商店則顯示優惠最後核實的日期（「核實」），那是核對優惠內容，並非結帳測試。每家商店的頁面都會說明適用哪一種。',
             link: { label: '查看優惠碼', target: 'coupons' },
           },
           {
@@ -1098,13 +1078,14 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'CECILIA010是優惠碼嗎？',
             answer:
-              '不是。它是獎勵碼，要填入結帳頁面的Reward Code欄位。因此它可以和YesStyle自家的優惠碼同時使用，那些優惠碼填在另一個欄位。',
+              '不是。它是獎勵碼，要填入結帳頁面的Reward Code欄位。它可以和YesStyle自家符合資格的促銷優惠碼同時使用，那些優惠碼填在另一個欄位。請務必在訂單摘要確認兩項折扣都已顯示。',
             link: { label: '如何使用CECILIA010', target: 'yesstyle' },
           },
           {
             question: 'SHEIN的4CW5Y是什麼代碼？',
             answer:
               '這是Cecília的推薦碼。它不是結帳時輸入的代碼，但確實有折扣：使用連結，或在SHEIN的App或網站搜尋4CW5Y，就會開啟一個頁面，裡面有精選的折扣商品和促銷活動。折扣多少、哪些商品適用，由SHEIN決定。',
+            link: { label: '查看 SHEIN 頁面', target: 'shein' },
           },
           {
             question: '優惠碼可以重複使用嗎？',
@@ -1195,11 +1176,6 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
         entries: [
           { home: 'who' },
           { home: 'why' },
-          {
-            question: '网站有其他语言版本吗？',
-            answer:
-              '有。部分指南，以及合作商店和YesStyle的页面，有英文、西班牙文、法文、德文、意大利文、韩文、日文和中文版本。请使用页面顶部的语言菜单。',
-          },
           { home: 'contact' },
         ],
       },
@@ -1211,7 +1187,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: '优惠码都测试过吗？',
             answer:
-              '测试过。发布前，我们会在商店结账时逐一套用每个代码，页面会显示结果和日期（“测试优惠码”）。如果商店只有链接或活动，页面会显示“核实”。',
+              '视商店而定。我们在结账时实际套用过代码的商店，页面会显示“测试优惠码”和日期。其他商店则显示优惠最后核实的日期（“核实”），那是核对优惠内容，并非结账测试。每家商店的页面都会说明适用哪一种。',
             link: { label: '查看优惠码', target: 'coupons' },
           },
           {
@@ -1223,13 +1199,14 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'CECILIA010是优惠码吗？',
             answer:
-              '不是。它是奖励码，要填入结账页面的Reward Code栏位。因此它可以和YesStyle自家的优惠码叠加使用，那些优惠码填在另一个栏位。',
+              '不是。它是奖励码，要填入结账页面的Reward Code栏位。它可以和YesStyle自家符合资格的促销优惠码叠加使用，那些优惠码填在另一个栏位。请务必在订单摘要确认两项折扣都已显示。',
             link: { label: '如何使用CECILIA010', target: 'yesstyle' },
           },
           {
             question: 'SHEIN的4CW5Y是什么代码？',
             answer:
               '这是Cecília的推荐码。它不是结账时输入的代码，但确实有折扣：使用链接，或在SHEIN的App或网站搜索4CW5Y，就会打开一个页面，里面有精选的折扣商品和促销活动。折扣多少、哪些商品适用，由SHEIN决定。',
+            link: { label: '查看 SHEIN 页面', target: 'shein' },
           },
           {
             question: '优惠码可以重复使用吗？',

@@ -7,7 +7,7 @@ import { readFileSync } from 'node:fs';
 import { AboutView } from '@/components/about/AboutView';
 import { ContactView } from '@/components/contact/ContactView';
 import { FaqView } from '@/components/faqs/FaqView';
-import { FAQ_SOURCE_PT } from '@/components/faqs/localeFaqCopy';
+import { FAQ_SOURCE_PT, HOME_FAQ_OVERRIDES } from '@/components/faqs/localeFaqCopy';
 import { getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import { PrivacyView } from '@/components/privacy/PrivacyView';
 import { SearchView } from '@/components/search/SearchView';
@@ -220,6 +220,8 @@ const collapse = (text: string) => text.replace(/\s+/g, ' ').trim();
 const PT_WORDS = /não|também|você|vocês|ção|ções|cupom|\bpelo\b|\bpela\b/i;
 const COUPON_WORD = '(?:cupo[nm]s?|coupons?|cupones?|cupón|gutschein\\w*|buono|buoni|쿠폰|クーポン|優惠碼|优惠码|優惠券|优惠券)';
 const CODE_AS_COUPON = new RegExp(`${COUPON_WORD}\\W+(?:\\S+\\s+){0,3}(?:CECILIA010|4CW5Y)|(?:CECILIA010|4CW5Y)\\W+(?:\\S+\\s+){0,3}${COUPON_WORD}`, 'i');
+// O FAQ alemão trata por "Sie": nenhum du/dein/dir/dich (nem euch/eure) e nenhum imperativo "Schreib ".
+const GERMAN_INFORMAL = /\b(?:du|dein\w*|dir|dich|euch|eure\w*)\b|\bSchreib\s/i;
 const ptFaqStrings = FAQ_SOURCE_PT.categories.flatMap((category) =>
   category.entries.flatMap((entry) => ('question' in entry ? [entry.question, entry.answer] : []))
 );
@@ -240,7 +242,13 @@ for (const locale of TRANSLATED_LOCALES) {
 
   // As 4 da home vêm dos textos da home, e as outras não podem repetir a fonte em português.
   const home = getLocaleHomeCopy(locale);
-  const homeQuestions = [home.faqWhoQuestion, home.faqWhyQuestion, home.faqWhereQuestion, home.faqContactQuestion];
+  const homeOverride = HOME_FAQ_OVERRIDES[locale];
+  const homeQuestions = [
+    homeOverride?.who?.question ?? home.faqWhoQuestion,
+    homeOverride?.why?.question ?? home.faqWhyQuestion,
+    homeOverride?.where?.question ?? home.faqWhereQuestion,
+    homeOverride?.contact?.question ?? home.faqContactQuestion,
+  ];
   assert.deepEqual(
     questions.map((item) => item.pergunta).filter((question) => homeQuestions.includes(question)).sort(),
     [...homeQuestions].sort(),
@@ -259,7 +267,10 @@ for (const locale of TRANSLATED_LOCALES) {
   }
   const cecilia = questions.find((item) => item.pergunta.includes('CECILIA010'));
   assert.ok(cecilia?.resposta.includes('Reward Code'), `${locale}: a resposta do CECILIA010 não cita o Reward Code`);
-  assert.ok(questions.some((item) => item.pergunta.includes('4CW5Y') && item.resposta.includes('4CW5Y')), `${locale}: a resposta do 4CW5Y sem o código`);
+  const shein = questions.find((item) => item.pergunta.includes('4CW5Y'));
+  assert.ok(shein?.resposta.includes('4CW5Y'), `${locale}: a resposta do 4CW5Y sem o código`);
+  assert.equal(shein?.link?.href, `/${locale}/coupons/shein`, `${locale}: a resposta do 4CW5Y sem o link da página da SHEIN`);
+  assert.ok(shein?.link?.label.trim(), `${locale}: o link da SHEIN sem rótulo`);
 
   // A página: cada pergunta num <summary>, todas as respostas, o FAQPage igual a elas e a trilha igual ao BreadcrumbList.
   const summaries = [...localeHtml.matchAll(/<summary[^>]*>([\s\S]*?)<\/summary>/g)].map((match) => textOf(match[1]).trim());
@@ -303,6 +314,8 @@ for (const locale of TRANSLATED_LOCALES) {
     assert.ok(href === `/${locale}` || href.startsWith(`/${locale}/`), `${locale}: link interno fora do idioma: ${href}`);
   }
   assert.ok(localeHtml.includes(`href="${brandLinks.contactMailto}"`), `${locale}: sem o mailto de contato`);
+  assert.ok(localeHtml.includes(`href="/${locale}/coupons/shein"`), `${locale}: sem o link da SHEIN na página`);
+  if (locale === 'de') assert.doesNotMatch(localeText, GERMAN_INFORMAL, 'de: tratamento por "du" no FAQ alemão (o FAQ usa "Sie")');
   assert.ok(localeHtml.includes(`href="${page.text.newsSecondary.href}"`), `${locale}: sem o mídia kit`);
 }
 assert.ok(ptFaqStrings.length > 0, 'a fonte em português do FAQ veio vazia');

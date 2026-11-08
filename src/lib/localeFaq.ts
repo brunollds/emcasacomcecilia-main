@@ -1,6 +1,7 @@
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import {
+  HOME_FAQ_OVERRIDES,
   LOCALE_FAQ_COPY,
   type FaqCopyCategory,
   type FaqCopyEntry,
@@ -9,7 +10,7 @@ import {
 import { fillTemplate, getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import { brandLinks } from '@/lib/brandLinks';
 import { getCouponHubPath } from '@/lib/couponHub';
-import type { TranslatedLocale } from '@/lib/couponTranslations';
+import { getCouponStorePath, type TranslatedLocale } from '@/lib/couponTranslations';
 import { getFaqPath, type FaqCategory, type FaqLink, type FaqQuestion, type FaqViewText } from '@/lib/faqPage';
 import { getYesStyleLocaleConfig } from '@/lib/i18n/clusters/yesstyle';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
@@ -17,8 +18,8 @@ import { getLocaleHomeFacts, getLocaleHomeStores } from '@/lib/localeHome';
 import { getReviewHubPath } from '@/lib/review-hubs';
 
 // O /<locale>/faq: as perguntas e os textos de cada idioma fora do PT, montados no servidor. As 4 perguntas
-// da home do idioma saem de localeHomeCopy (o mesmo texto da home), e as outras, de localeFaqCopy. O FaqView
-// só desenha: a lista de categorias e o texto da página saem daqui no formato do /faqs.
+// da home do idioma saem de localeHomeCopy (o mesmo texto da home, salvo o HOME_FAQ_OVERRIDES), e as outras, de
+// localeFaqCopy. O FaqView só desenha: a lista de categorias e o texto da página saem daqui no formato do /faqs.
 
 export type LocaleFaqPage = {
   locale: TranslatedLocale;
@@ -43,6 +44,8 @@ function resolveLink(link: FaqCopyLink, locale: TranslatedLocale): FaqLink {
       return { href: getReviewHubPath(locale), label: link.label };
     case 'yesstyle':
       return { href: getYesStyleLocaleConfig(locale).hubPath, label: link.label };
+    case 'shein':
+      return { href: getCouponStorePath('shein', locale), label: link.label };
     case 'email':
       return { href: brandLinks.contactMailto, label: link.label };
     case 'mediaKit':
@@ -64,9 +67,10 @@ export function getLocaleFaqPage(locale: TranslatedLocale): LocaleFaqPage {
   const toQuestion = (entry: FaqCopyEntry): FaqQuestion => {
     if ('home' in entry) {
       const [questionKey, answerKey] = HOME_QUESTION_KEYS[entry.home];
+      const override = HOME_FAQ_OVERRIDES[locale]?.[entry.home];
       return {
-        pergunta: homeCopy[questionKey],
-        resposta: fillTemplate(homeCopy[answerKey], facts),
+        pergunta: override?.question ?? homeCopy[questionKey],
+        resposta: fillTemplate(override?.answer ?? homeCopy[answerKey], facts),
       };
     }
     return {

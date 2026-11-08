@@ -4181,6 +4181,8 @@ for (const locale of TRANSLATED_LOCALES) {
   }
   const cecilia = visibleFaq.find((item) => item.question.includes('CECILIA010'));
   assert.ok(cecilia?.answer.includes('Reward Code'), `${pagePath}: resposta do CECILIA010 sem o Reward Code`);
+  assert.ok(main.includes(`href="/${locale}/coupons/shein"`), `${pagePath}: sem o link da página da SHEIN na resposta do 4CW5Y`);
+  if (locale === 'de') assert.doesNotMatch(mainText, /\b(?:du|dein\w*|dir|dich|euch|eure\w*)\b|\bSchreib\s/i, `${pagePath}: tratamento por "du" no FAQ alemão`);
 }
 
 // O /faqs em português: o mesmo canonical e hreflang, e o x-default do inglês apontando para o FAQ do idioma.
