@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 75
@@ -86,3 +86,13 @@ A escolha pelo uso e pelo corte: as três lado a lado, o que muda entre afunilad
 ## 7. Pontuação
 
 Dor 20/25, demanda 17/20, valor além do oficial 15/20, visita 11/15, cluster 9/10, conversão 8/10. Total 80.
+
+## 8. O que mudou na redação (08/11/2026)
+
+- **Cupom testado no carrinho (sem comprar), 08/11:** entrou em 15% em todas as peças, inclusive nas que têm a tag `lançamento` no catálogo. O texto separa a regra da loja do resultado do teste.
+- **Revisão:** externa, no lugar do Fable (parecer de 08/11, em `docs/auditoria-copy-artigos/novos-20261108-insider-calcas/PARECER.md`, no checkout principal). Capas aprovadas nele e pelo Bruno.
+- **Regra do Bruno (08/11):** sem números de estoque, nem contagem de combinações de cor e tamanho.
+- **Fotos:** todas oficiais da Insider, das páginas de cada calça.
+- **Reta Ajustável:** indisponível na consulta; fora do quadro, com seção curta e sem preço.
+- **Versão só XGG:** `calca-tecnologica-feminina-futureform®-xgg`, R$ 299, R$ 254,15 no carrinho, com a mesma descrição da principal. Entrou no quadro.
+- **Correção do briefing:** "modelo de calça pantalona" está na descrição da Wide Leg antiga (`calca-wide-leg-xgg`), não na UltraBold. O texto não atribui o termo à UltraBold.

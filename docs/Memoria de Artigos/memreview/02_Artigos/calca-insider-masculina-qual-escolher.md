@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 75
@@ -81,3 +81,13 @@ A escolha pela rotina: social e trabalho (Director, com passantes para cinto), o
 ## 7. Pontuação
 
 Dor 20/25, demanda 17/20, valor além do oficial 15/20, visita 11/15, cluster 9/10, conversão 8/10. Total 80.
+
+## 8. O que mudou na redação (08/11/2026)
+
+- **Cupom testado no carrinho (sem comprar), 08/11:** entrou em 15% em todas as peças, inclusive nas que têm a tag `lançamento` no catálogo. O texto separa a regra da loja do resultado do teste.
+- **Revisão:** externa, no lugar do Fable (parecer de 08/11, em `docs/auditoria-copy-artigos/novos-20261108-insider-calcas/PARECER.md`, no checkout principal). Capas aprovadas nele e pelo Bruno.
+- **Regra do Bruno (08/11):** sem números de estoque, nem contagem de combinações de cor e tamanho.
+- **Fotos:** todas oficiais da Insider, das páginas de cada calça.
+- **FutureForm:** o carrinho testou a cor de R$ 454 (R$ 385,90); a de R$ 449 é conta, e o quadro diz isso.
+- **Hybrid:** a página traz o aviso de "não acumula", e o cupom entrou. O aviso aparece uma vez.
+- **Cuidado da Director:** só ela traz a "peça delicada", na descrição completa do produto.

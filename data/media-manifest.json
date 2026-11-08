@@ -69463,6 +69463,558 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/calca-insider-feminina-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/insider/calca-insider-feminina-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47412,
+      "sha256": "041e832855d4a0c2df52f10a35592689d8027e7ec6a592706c1c3ad0348a5a69",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-feminina-qual-escolher-capa.webp",
+      "storage_filename": "calca-insider-feminina-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-feminina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-feminina-qual-escolher.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196187,
+          "column": 15,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/041e832855d4a0c2df52f10a35592689d8027e7ec6a592706c1c3ad0348a5a69/calca-insider-feminina-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/041e832855d4a0c2df52f10a35592689d8027e7ec6a592706c1c3ad0348a5a69/calca-insider-feminina-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:28.282Z",
+      "verification_etag_or_digest": "041e832855d4a0c2df52f10a35592689d8027e7ec6a592706c1c3ad0348a5a69",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-detalhe.webp",
+      "local_url": "/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-detalhe.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28634,
+      "sha256": "44df5f51a6ad1fbcedb1b777d0fbef02b665d4964673bd5cd6cdd674469d99ff",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-feminina-qual-escolher-futureform-detalhe.webp",
+      "storage_filename": "calca-insider-feminina-qual-escolher-futureform-detalhe.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-feminina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-feminina-qual-escolher.json",
+          "line": 102,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-detalhe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196259,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-detalhe.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/44df5f51a6ad1fbcedb1b777d0fbef02b665d4964673bd5cd6cdd674469d99ff/calca-insider-feminina-qual-escolher-futureform-detalhe.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/44df5f51a6ad1fbcedb1b777d0fbef02b665d4964673bd5cd6cdd674469d99ff/calca-insider-feminina-qual-escolher-futureform-detalhe.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:25.939Z",
+      "verification_etag_or_digest": "44df5f51a6ad1fbcedb1b777d0fbef02b665d4964673bd5cd6cdd674469d99ff",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+      "local_url": "/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17266,
+      "sha256": "64814149fd9bd385a212920e023558841790102ab5188e843b6e77e704ebfa0e",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+      "storage_filename": "calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-feminina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-feminina-qual-escolher.json",
+          "line": 95,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196252,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/64814149fd9bd385a212920e023558841790102ab5188e843b6e77e704ebfa0e/calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/64814149fd9bd385a212920e023558841790102ab5188e843b6e77e704ebfa0e/calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:25.701Z",
+      "verification_etag_or_digest": "64814149fd9bd385a212920e023558841790102ab5188e843b6e77e704ebfa0e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg-costas.webp",
+      "local_url": "/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg-costas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15640,
+      "sha256": "9a6c72323549b100967d2d77368569ab7bb90dae6db5105c49ae5176bba5e5b2",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-feminina-qual-escolher-wide-leg-costas.webp",
+      "storage_filename": "calca-insider-feminina-qual-escolher-wide-leg-costas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-feminina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-feminina-qual-escolher.json",
+          "line": 125,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196282,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg-costas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9a6c72323549b100967d2d77368569ab7bb90dae6db5105c49ae5176bba5e5b2/calca-insider-feminina-qual-escolher-wide-leg-costas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9a6c72323549b100967d2d77368569ab7bb90dae6db5105c49ae5176bba5e5b2/calca-insider-feminina-qual-escolher-wide-leg-costas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:26.446Z",
+      "verification_etag_or_digest": "9a6c72323549b100967d2d77368569ab7bb90dae6db5105c49ae5176bba5e5b2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg.webp",
+      "local_url": "/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16078,
+      "sha256": "f982ed3227f08d5cdd2211b06b950e4b0844918c45e6924c740cb1591805c548",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-feminina-qual-escolher-wide-leg.webp",
+      "storage_filename": "calca-insider-feminina-qual-escolher-wide-leg.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-feminina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-feminina-qual-escolher.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196275,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f982ed3227f08d5cdd2211b06b950e4b0844918c45e6924c740cb1591805c548/calca-insider-feminina-qual-escolher-wide-leg.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f982ed3227f08d5cdd2211b06b950e4b0844918c45e6924c740cb1591805c548/calca-insider-feminina-qual-escolher-wide-leg.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:26.226Z",
+      "verification_etag_or_digest": "f982ed3227f08d5cdd2211b06b950e4b0844918c45e6924c740cb1591805c548",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-masculina-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/insider/calca-insider-masculina-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52676,
+      "sha256": "cca1a6e77ef65273bac5f845a1ba83f704af66e5762c53e9c6bd82e0b92ba668",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-masculina-qual-escolher-capa.webp",
+      "storage_filename": "calca-insider-masculina-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-masculina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-masculina-qual-escolher.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196494,
+          "column": 15,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cca1a6e77ef65273bac5f845a1ba83f704af66e5762c53e9c6bd82e0b92ba668/calca-insider-masculina-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cca1a6e77ef65273bac5f845a1ba83f704af66e5762c53e9c6bd82e0b92ba668/calca-insider-masculina-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:28.535Z",
+      "verification_etag_or_digest": "cca1a6e77ef65273bac5f845a1ba83f704af66e5762c53e9c6bd82e0b92ba668",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-masculina-qual-escolher-director-bege.webp",
+      "local_url": "/images/reviews/insider/calca-insider-masculina-qual-escolher-director-bege.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20126,
+      "sha256": "4305e22e443df08a55f7f969e65ef5ed29eb959f6027de9e27fb38d02aa91277",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-masculina-qual-escolher-director-bege.webp",
+      "storage_filename": "calca-insider-masculina-qual-escolher-director-bege.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-masculina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-masculina-qual-escolher.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-director-bege.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196580,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-director-bege.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4305e22e443df08a55f7f969e65ef5ed29eb959f6027de9e27fb38d02aa91277/calca-insider-masculina-qual-escolher-director-bege.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4305e22e443df08a55f7f969e65ef5ed29eb959f6027de9e27fb38d02aa91277/calca-insider-masculina-qual-escolher-director-bege.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:27.178Z",
+      "verification_etag_or_digest": "4305e22e443df08a55f7f969e65ef5ed29eb959f6027de9e27fb38d02aa91277",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-masculina-qual-escolher-director-preta.webp",
+      "local_url": "/images/reviews/insider/calca-insider-masculina-qual-escolher-director-preta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27258,
+      "sha256": "708cc48f094a306509e991fb14316f44b8f7066ab0ac95978c8544b459cc4e0b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-masculina-qual-escolher-director-preta.webp",
+      "storage_filename": "calca-insider-masculina-qual-escolher-director-preta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-masculina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-masculina-qual-escolher.json",
+          "line": 123,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-director-preta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196587,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-director-preta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/708cc48f094a306509e991fb14316f44b8f7066ab0ac95978c8544b459cc4e0b/calca-insider-masculina-qual-escolher-director-preta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/708cc48f094a306509e991fb14316f44b8f7066ab0ac95978c8544b459cc4e0b/calca-insider-masculina-qual-escolher-director-preta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:27.481Z",
+      "verification_etag_or_digest": "708cc48f094a306509e991fb14316f44b8f7066ab0ac95978c8544b459cc4e0b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-azul.webp",
+      "local_url": "/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-azul.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14968,
+      "sha256": "340a08b2c0ccf1e3a3efd7fd60d9752dc8eeca34b948402153bd0c3535c11adf",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-masculina-qual-escolher-futureform-azul.webp",
+      "storage_filename": "calca-insider-masculina-qual-escolher-futureform-azul.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-masculina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-masculina-qual-escolher.json",
+          "line": 100,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196564,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-azul.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/340a08b2c0ccf1e3a3efd7fd60d9752dc8eeca34b948402153bd0c3535c11adf/calca-insider-masculina-qual-escolher-futureform-azul.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/340a08b2c0ccf1e3a3efd7fd60d9752dc8eeca34b948402153bd0c3535c11adf/calca-insider-masculina-qual-escolher-futureform-azul.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:26.937Z",
+      "verification_etag_or_digest": "340a08b2c0ccf1e3a3efd7fd60d9752dc8eeca34b948402153bd0c3535c11adf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-preta.webp",
+      "local_url": "/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-preta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16902,
+      "sha256": "50e4db43c482d3971bbceb025ef38ebe968f6877ad6b0598b23d5f987d5c9f02",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-masculina-qual-escolher-futureform-preta.webp",
+      "storage_filename": "calca-insider-masculina-qual-escolher-futureform-preta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-masculina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-masculina-qual-escolher.json",
+          "line": 93,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-preta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196557,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-preta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/50e4db43c482d3971bbceb025ef38ebe968f6877ad6b0598b23d5f987d5c9f02/calca-insider-masculina-qual-escolher-futureform-preta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50e4db43c482d3971bbceb025ef38ebe968f6877ad6b0598b23d5f987d5c9f02/calca-insider-masculina-qual-escolher-futureform-preta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:26.706Z",
+      "verification_etag_or_digest": "50e4db43c482d3971bbceb025ef38ebe968f6877ad6b0598b23d5f987d5c9f02",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger-perna.webp",
+      "local_url": "/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger-perna.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14798,
+      "sha256": "9f8a53dbcb20f35032dd1dcc740a1cabbc571547bc2646d2fd2e8f09be8f1343",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-masculina-qual-escolher-jogger-perna.webp",
+      "storage_filename": "calca-insider-masculina-qual-escolher-jogger-perna.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-masculina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-masculina-qual-escolher.json",
+          "line": 146,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger-perna.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196610,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger-perna.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9f8a53dbcb20f35032dd1dcc740a1cabbc571547bc2646d2fd2e8f09be8f1343/calca-insider-masculina-qual-escolher-jogger-perna.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f8a53dbcb20f35032dd1dcc740a1cabbc571547bc2646d2fd2e8f09be8f1343/calca-insider-masculina-qual-escolher-jogger-perna.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:27.995Z",
+      "verification_etag_or_digest": "9f8a53dbcb20f35032dd1dcc740a1cabbc571547bc2646d2fd2e8f09be8f1343",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger.webp",
+      "local_url": "/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15964,
+      "sha256": "95a7d682dcae518ae119796478312ef4cac9be64745582d15b2d3380ba4c2dc3",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calca-insider-masculina-qual-escolher-jogger.webp",
+      "storage_filename": "calca-insider-masculina-qual-escolher-jogger.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calca-insider-masculina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calca-insider-masculina-qual-escolher.json",
+          "line": 139,
+          "column": 19,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196603,
+          "column": 21,
+          "literal": "/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/95a7d682dcae518ae119796478312ef4cac9be64745582d15b2d3380ba4c2dc3/calca-insider-masculina-qual-escolher-jogger.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/95a7d682dcae518ae119796478312ef4cac9be64745582d15b2d3380ba4c2dc3/calca-insider-masculina-qual-escolher-jogger.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:46:27.748Z",
+      "verification_etag_or_digest": "95a7d682dcae518ae119796478312ef4cac9be64745582d15b2d3380ba4c2dc3",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/camisa-social-insider-feminina-capa.webp",
       "local_url": "/images/reviews/insider/camisa-social-insider-feminina-capa.webp",
       "media_kind": "image",
