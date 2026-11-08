@@ -8,9 +8,11 @@ Fatos da pauta [[shein-black-friday-preco-baixa-mesmo]]. As peças são as 19 qu
 - **O preço é o do bloco de preço da página.** A primeira linha com "R$" no texto da página pode ser "Economize R$ X", que não é o preço. Em 08/11, 8 peças caíram nisso: confira por imagem, e o riscado menos o "Economize" tem de dar o preço.
 - **"A partir de"** muda por cor ou tamanho. Ler do mesmo jeito em toda rodada e dizer no texto.
 - **A leitura de 08/11 foi só no site**, sem o aplicativo, e a campanha puxa para o app.
-- **O que isto não mostra:** a causa da mudança nem o preço de quem compra com outra conta ou no app. Em 28/10 a maioria tinha -20%; em 08/11, quase todas têm de -2% a -8%. Não sabemos o que era aquele -20%.
+- **O que isto não mostra:** a causa da mudança nem o preço de quem compra com outra conta ou no app. Em 28/10 a maioria tinha -20%; em 08/11, quase todas têm de -2% a -8%. Não sabemos o que era aquele -20%: o Bruno suspeita do código de indicação dele (teste abaixo).
 
 ## Resultado até agora
+
+**A série começa em 08/11.** 28/10 fica como contexto e não entra na comparação, porque pode ter dependido de uma condição que não se repete.
 
 Em 08/11, 17 das 19 custavam mais que em 28/10, 2 custavam o mesmo e nenhuma custava menos. Somando uma unidade de cada, R$ 1004,50 viraram R$ 1207,88 (+20,2%). A campanha 11.11 já estava no ar nas duas datas, então 28/10 não é um preço de antes da campanha.
 
@@ -61,6 +63,33 @@ O link convertido entra na última coluna e é o que vai ao artigo. Os `onelink.
 | 18 | https://br.shein.com/MEN-S-LINEN-SHORTS-SET%252C-VARIOUS-COLORS%252C-CASUAL-MODERN-STYLE-p-536098258-cat-1974.html |  |
 | 19 | https://br.shein.com/Manfinity-Mode-Men-s-Casual-Versatile-Daily-Long-Sleeve-Shirt%252C-Formal-p-558226928-cat-1977.html |  |
 | 20 | https://br.shein.com/-Men-s-Relaxed-Fit-Style--Distressed-Black-Loose-Sleeveless-Tank-Top%252C-Washed-Distressed-Craft---Wide-Design%252C-Vintage-High-Street-Style-Summer-Streetwear-Eye-Catching-Piece-p-328984179-cat-6505.html |  |
+
+## O teste do 4CW5Y (Chrome, 08/11)
+
+Hipótese do Bruno: o -20% de 28/10 existia por causa do código de indicação dele.
+
+- Pesquisar 4CW5Y na busca de `br.shein.com` abre uma página da campanha com seleção de produtos (`/ark/5231`). O endereço leva `url_from=affiliate_koc_6177013015`.
+- Depois da busca, e também abrindo a peça com esse identificador no endereço, o short seguiu em R$ 45,11 e o pijama Serenescape em R$ 62,10.
+- **Resultado:** neste navegador, o código não mudou o preço da página dessas peças. Isso não descarta a hipótese: não testamos outra conta, o aplicativo, o carrinho nem os preços dentro da página do código.
+- **A conferir com o Bruno:** os links da campanha 11.11 levam `affiliate_koc_6321753910`, e a busca do código leva `affiliate_koc_6177013015`. Não sabemos se são a mesma conta.
+
+## Calendário por país (fontes abertas e conferidas em 08/11)
+
+A pesquisa externa pedida pelo Bruno está em `docs/pesquisa-shein-black-friday-2026-11-08/`, no checkout principal, fora do git. Só entra aqui o que foi aberto nesta sessão.
+
+| País | Ano | O que a fonte diz | Fonte |
+|---|---|---|---|
+| Brasil | 2026 | Campanha única de 11.11 e Black Friday, com a IZA. Primeira etapa de 19/10 a 02/11, reforço na semana do 11.11 e na Black Friday, até 95% em selecionados | [VEJA, entrevista com o diretor de marketing](https://veja.abril.com.br/economia/shein-aposta-na-cantora-iza-para-impulsionar-vendas-na-black-friday/) |
+| EUA | 2026 | Year-End Sale, anunciada em 20/10, com ofertas de Black Friday e Cyber Monday. Sem datas nem percentual | [SHEIN, PR Newswire](https://www.prnewswire.com/news-releases/shein-kicks-off-holiday-shopping-season-with-its-biggest-black-friday--cyber-monday-selection-yet-302914580.html) |
+| EUA | 2025 | Black Friday Warm-Up, anunciado em 28/10, até 90%, novidades até dezembro, sem data de fim | [SHEIN, PR Newswire](https://www.prnewswire.com/news-releases/black-friday-warm-up-shein-deals-to-heat-up-your-holidays-302595864.html) |
+| EUA | 2024 | Early Access a partir de 21/10, até 30/12, até 90% em mais de 300 mil itens | [SHEIN, PR Newswire](https://www.prnewswire.com/news-releases/shein-kicks-off-holiday-shopping-season-with-early-access-black-friday-deals-302281514.html) |
+| EUA | 2023 | Early Access a partir de 06/11, até o início de dezembro, sem dia final, até 90% em mais de 300 mil itens | [SHEIN, PR Newswire](https://www.prnewswire.com/news-releases/kickstart-holiday-shopping-now-with-sheins-black-friday-early-access-301978981.html) |
+| Japão | 2026 | #SHEIN1111, não Black Friday: de 19/10, 12h, a 16/11, 12h. Fases: até 02/11, de 02 a 09/11 e de 09 a 16/11. Até 95% na última, 800 mil itens. Frete grátis sem mínimo em 11/11 | [PR TIMES, 19/10/2026](https://prtimes.jp/main/html/rd/p/000000293.000084888.html) |
+| Japão | 2025 | Black Friday de 17/11, 12h, a 02/12, 12h, até 95%, mais de 1 milhão de itens | [PR TIMES, 17/11/2025](https://prtimes.jp/main/html/rd/p/000000250.000084888.html) |
+| Japão | 2024 | Black Friday de 12/11, 12h, a 02/12, 12h. Fases: 12 a 17/11, 18 a 24/11 (até 90%), 25/11 a 01/12 (até 95%) | [PR TIMES, 15/11/2024](https://prtimes.jp/main/html/rd/p/000000202.000084888.html) |
+| Japão | 2023 | Black Friday de 13/11, 12h, a 27/11, 11h59, até 90%. Frete grátis e brinde de 24 a 26/11 | [PR TIMES, 14/11/2023](https://prtimes.jp/main/html/rd/p/000000127.000084888.html) |
+
+Citados pela pesquisa e não abertos nesta sessão: Itália (Instagram, 27/10/2026), México (18 a 30/11/2025, conteúdo patrocinado no Milenio), Espanha (até 02/12/2025, LOS40). Abrir antes de usar. Nos outros mercados, a pesquisa não achou calendário local oficial: isso é lacuna, não prova de que não há campanha.
 
 ## As lojas em 08/11 (Chrome)
 
