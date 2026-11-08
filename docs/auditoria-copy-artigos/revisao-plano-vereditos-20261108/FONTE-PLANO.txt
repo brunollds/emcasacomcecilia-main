@@ -1,0 +1,78 @@
+Olhei os 33 artigos: não mudei nada ainda. O problema é maior que a repetição, e minha sugestão é
+  trocar a regra do Job 2 e reescrever 29 dos 33. Nenhum teste ou script exige a frase; ela só vem
+  da forma única do Job 2, então trocar é barato.
+
+  O que encontrei
+
+  - Onde aparece: 33 dos 323 artigos em PT. Em 31 deles a frase está no cartão de destaque assinado
+    pela Cecília, então chama atenção.
+  - Por que cansa: quem lê sempre costuma ficar na mesma loja, e ali a frase se acumula: Let's Eat
+    It 7, Insider 6, DAMIE 6, Dolce Gusto 4, Bagaggio 4.
+  - Frases quase iguais: as duas de poltrona são praticamente a mesma, e "DAMIE, 30 dias de teste e
+    1 ano de garantia" sai em dois comparativos.
+
+  ┌────────────────────────────────────────────┬─────────┬──────────────────────────────────────┐
+  │                   Grupo                    │ Artigos │           Como a frase soa           │
+  ├────────────────────────────────────────────┼─────────┼──────────────────────────────────────┤
+  │ Roupa e roupa íntima (incluindo Fita Up e  │ 10      │ Errada: "minha casa" não combina com │
+  │ tamanhos da SHEIN)                         │         │  cueca ou camisa                     │
+  ├────────────────────────────────────────────┼─────────┼──────────────────────────────────────┤
+  │ Malas e mochilas                           │ 4       │ Forçada                              │
+  ├────────────────────────────────────────────┼─────────┼──────────────────────────────────────┤
+  │ Casa (sofá, louça, café, travesseiro)      │ 19      │ Certa, mas repetida                  │
+  └────────────────────────────────────────────┴─────────┴──────────────────────────────────────┘
+
+  Mais dois problemas:
+  - Motivo fraco: a fórmula disfarça justificativas que não ajudam na decisão, como "levaria a Star
+    Candy, porque a medida e a capacidade estão informadas na ficha".
+  - Próxima muleta: "Pelos números da tabela" já está em 29 cartões. Uma lista fixa de aberturas
+    repetiria o problema.
+
+  O que eu faria
+
+  1. Mudar o Job 2 para a função da frase, não para o texto dela. O veredito precisa ser
+  condicional, não fingir uso e ter um motivo que ajude a decidir. A abertura parte da situação do
+  leitor, como já fizemos no I13 e no F12. "Se fosse para a minha casa" fica só para objeto de casa,
+  e o Job 3 confere para não repetir a abertura de outro artigo da mesma loja.
+
+  2. Reescrever só essa frase em 29 artigos: os 14 dos dois primeiros grupos e 15 dos de casa,
+  deixando um por loja com a frase original. A escolha só muda se o motivo for fraco, como nas
+  mochilas. Exemplos:
+
+  ┌─────────────────────────────────────────────┬───────────────────────────────────────────────┐
+  │                    Hoje                     │                   Proposta                    │
+  ├─────────────────────────────────────────────┼───────────────────────────────────────────────┤
+  │ Se fosse para a minha casa, eu levaria a    │ Para o dia a dia, eu escolheria a Comfort,    │
+  │ Comfort para o dia a dia, porque é a boxer  │ porque é a boxer de modal feita para uso      │
+  │ de modal para uso diário.                   │ diário.                                       │
+  ├─────────────────────────────────────────────┼───────────────────────────────────────────────┤
+  │ Se fosse para a minha casa, eu não pediria  │ Eu não pediria letra sem abrir o guia da      │
+  │ letra sem abrir o guia da peça, porque a    │ peça, porque a mesma letra muda de marca para │
+  │ mesma letra muda de marca para marca.       │  marca.                                       │
+  ├─────────────────────────────────────────────┼───────────────────────────────────────────────┤
+  │ Se fosse para a minha casa, eu levaria a    │ Para viajar só com a bagagem de mão, eu       │
+  │ Detroit ABS Preta, porque é a mais barata   │ ficaria com a Detroit ABS Preta, porque é a   │
+  │ da marca Bagaggio e fica dentro da medida   │ mais barata da marca Bagaggio e fica dentro   │
+  │ de 55 × 35 cm das companhias.               │ da medida de 55 × 35 cm das companhias.       │
+  └─────────────────────────────────────────────┴───────────────────────────────────────────────┘
+
+  O parecer: ele recomendou não mexer "por consequência" da revisão do I13 e do F12. Isso limitava o
+  escopo daquela revisão, não contesta o que você notou como leitor.
+
+  Custo e risco: é um PR pequeno, sem mudar título, meta, links ou preços, então não deve atrapalhar
+  as medições do GSC de ~14/11 e ~17/11. Eu não mudaria o updatedAt, porque trocar uma frase não é
+  atualizar o artigo. Só tamanho-shein-brasil é de família, então confiro as outras 9 versões. Isso
+  entra depois do deploy, para não cruzar com a sessão de artigos.
+
+  Decisões suas
+
+  1. Quantos artigos? Sugiro os 29. Só os 14 corrige o que soa errado, mas Let's Eat It e DAMIE
+     continuam repetindo, e era disso que você reclamava.
+  2. Um por loja mantém a frase original? Sugiro que sim, porque em objeto de casa ela funciona e é
+     um traço de voz. Se preferir tirar de vez, a frase só sairia dos artigos novos quando não
+     couber.
+  3. "Pelos números da tabela" entra agora? Sugiro que não: essa forma existe por causa da regra de
+     saúde, então é mais delicada. Vale tratar em outra rodada.
+
+  Se concordar, começo pelo texto do Job 2 e pelas 29 frases num .md para a sua revisão externa,
+  antes de tocar nos JSONs.

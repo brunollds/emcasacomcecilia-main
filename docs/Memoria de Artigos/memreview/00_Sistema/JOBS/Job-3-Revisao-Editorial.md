@@ -56,8 +56,8 @@ O revisor conta no JSON: `contentSections`, FAQ, legendas e tabelas. O `editoria
 | C10 | Anexo do tipo | O tipo é Moda, Casa-Malas, Beleza, Suplementos-Alimentos ou Tecnologia; abre `00_Sistema/JOBS/Anexos/Anexo-<Tipo>.md` | O artigo segue o anexo. Tipo fora da lista ou anexo ausente: o revisor para e avisa, sem inventar regra |
 | C11 | Briefing × REGRAS-GLOBAIS | Lê o esqueleto e a resposta rápida planejada do briefing contra `REGRAS-GLOBAIS.md`, seção 6 | Nenhum item contradiz a seção 6 (ex.: R$ ou preço com cupom na resposta rápida). Se contradiz, vale a REGRAS-GLOBAIS e o briefing é corrigido antes da redação |
 | C12 | A primeira frase decide | A primeira frase de cada capítulo (fora FAQ e tabela solta) | Entrega a conclusão de um critério de decisão. Frase que só apresenta o assunto ("A Tech é a camiseta clássica da Insider") falha |
-| C13 | Veredito pessoal | Frases de veredito pessoal no corpo, e a forma pelo tipo (Job 2, seção 5) | Guia de escolha e comparativo: exatamente uma, no capítulo de veredito, com o porquê num dado do artigo. Suplementos-Alimentos e Beleza: zero "eu levaria", "eu tomaria" ou "eu usaria" |
-| C13b | Cartão de destaque | Campos `emphasis` no artigo | No máximo 1, com a frase de veredito pessoal ou outro julgamento que a Cecília assinaria. Dado de loja, regra de cupom ou aviso no cartão falha |
+| C13 | Conclusão e motivo | Ler o fechamento com os dados e perfis discutidos no artigo | A conclusão ajuda a decidir; explicita a situação em que vale; o motivo acrescenta um critério útil sustentado no texto. Não inventa uso, não força vencedora geral e não exige primeira pessoa. Guias de utilidade podem concluir com uma orientação. Uso real diz o produto e o contexto; produto recebido em parceria não vira compra pessoal. Mantém as restrições de Suplementos-Alimentos e Beleza |
+| C13b | Cartão de destaque | Campos `emphasis` no artigo | No máximo 1, com uma decisão ou interpretação útil que a Cecília assinaria. Dado de loja, regra de cupom ou aviso no cartão falha |
 | C13c | Quadro "Leve se / Passe se" | Campo `decision` em guia, comparativo e editorial | Guia de escolha e comparativo têm o quadro; cada frase sai de um "para quem / quando não" do texto, sem R$, sem primeira pessoa e sem efeito no corpo. Artigo de produto não tem |
 | C14 | Título em forma de pergunta | Cada título de capítulo que é pergunta, contra o banco de perguntas reais do dossiê | Todos estão no banco palavra por palavra. Pergunta fora do banco vira título direto |
 
@@ -70,6 +70,8 @@ Cada rótulo, com o texto exato, aparece no máximo uma vez por artigo, e só on
 
 ### 2.4 Leitura em voz alta (item final)
 O revisor lê, em voz alta e como leitor, a resposta rápida e um capítulo do meio. Responde em uma linha: soa como pessoa ajudando ou como laudo? Se for laudo, cita a frase que pesa (ex.: lista de números sem frase que os explique) e o rascunho volta ao Job 2.
+
+**Fechamento repetido:** compare o fechamento com artigos recentes da mesma loja e da mesma série. Se ele repete a abertura ou o argumento sem necessidade, reescreva a partir do critério daquele artigo. Não usar uma lista fixa de aberturas nem reprovar uma frase somente por já ter aparecido em outra página.
 
 **Onde reler primeiro (mapa, não trava):** a cada ~150 palavras deve haver uma instrução que o leitor pode seguir, uma comparação que decide ou um "leve se / passe se". Trecho longo sem nenhuma das três costuma ser ficha recitada: é por ele que a leitura em voz alta começa. A contagem não reprova sozinha.
 

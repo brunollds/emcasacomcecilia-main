@@ -1,0 +1,316 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "data": "2026-11-08T16:08:14-03:00"
+  },
+  "worktree": "lote-376-377",
+  "head_observado": "1c5f5fc9",
+  "pt_total_incluindo_rascunhos": 323,
+  "pt_sem_draft": 320,
+  "rascunhos": 3,
+  "ocorrencias": 33,
+  "emphasis": 31,
+  "pelos_numeros_da_tabela_emphasis": 29,
+  "plano_original": "C:\\Users\\Bruno\\.codex\\attachments\\1b2db41d-55f0-44d3-af42-21d8fa1d1e87\\Texto colado.txt",
+  "plano_sha256": "58d4d1d82ac47dc74a0cc7ade017a5ff19b39cc7113476703ca60bf3cd844583",
+  "artigos": [
+    {
+      "slug": "body-clea-store-second-skin-qual-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\body-clea-store-second-skin-qual-escolher.json",
+      "sha256": "9a04cbc3acb667fb148651b511fcb2e9fe52a4d874cf3e58fb8d2c099fd4974c",
+      "campo": "/contentSections/6/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria o Regata Cavado, porque é o mais barato e resolve o dia a dia.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "calca-insider-feminina-qual-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\calca-insider-feminina-qual-escolher.json",
+      "sha256": "2329f953b4d0377fbca2aaa0ecc4d9c94ec1e84414d3fe15031c4917ad9d9b88",
+      "campo": "/contentSections/9/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a FutureForm para dias quentes, porque a Insider a indica para esse clima e o corte afunila na barra.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "calca-insider-masculina-qual-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\calca-insider-masculina-qual-escolher.json",
+      "sha256": "dab44d825c83a2705f6c211dad281762a3ec53b7c57723f8c4e7d2710fe43dc8",
+      "campo": "/contentSections/8/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a FutureForm para o dia a dia, porque os dois bolsos com zíper são o detalhe que eu priorizaria.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "camisa-social-insider-feminina",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\camisa-social-insider-feminina.json",
+      "sha256": "dac14d46724c14e1c857b899a433a598baeb2cee7d6f7b7a38aaec3ad7db9291",
+      "campo": "/contentSections/8/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a feminina para usar aberta sobre uma blusa, porque os 82,5 cm de altura no M fazem dela uma camada comprida.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "camisa-social-insider-masculina",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\camisa-social-insider-masculina.json",
+      "sha256": "41f328c0d8715ca205b90b8d00cef44f3d97da7991375ccc2d9422c7a1880432",
+      "campo": "/contentSections/8/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a masculina para o social casual, porque os 58 cm de largura no M já dão um caimento solto.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "cueca-insider-comfort-ou-performance",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\cueca-insider-comfort-ou-performance.json",
+      "sha256": "a2da6a297ce7a09240d48afac7ea65ef980b60eff17f1f04842617eefe320313",
+      "campo": "/contentSections/6/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Comfort para o dia a dia, porque é a boxer de modal para uso diário.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "dolce-gusto-maquinas-qual-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\dolce-gusto-maquinas-qual-escolher.json",
+      "sha256": "0b309700e0eb094b6678abc90fbeced44bd164a288617f32eeac8e430629423b",
+      "campo": "/contentSections/6/bullets/8",
+      "texto": "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores. Se fosse para a minha casa, eu levaria a Genio S Plus, porque ela junta XL, 4 temperaturas e Espresso Boost por R$ 589,90.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "dolce-gusto-vs-nespresso-qual-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\dolce-gusto-vs-nespresso-qual-escolher.json",
+      "sha256": "5fc9811bc5c1c32f598524b5573d664f9cfebca0242bc72608a1ce125b76e7c2",
+      "campo": "/contentSections/10/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Dolce Gusto, porque a cápsula oficial dela saiu mais em conta que a da Nespresso Original na amostra e ela faz cappuccino e chá na mesma máquina.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\dolce-gusto-vs-nespresso-vs-3-coracoes.json",
+      "sha256": "1ce63426bff8f527bb4bd93810d424cdfbca1b17815c384f77aab9e15d5bd9fb",
+      "campo": "/contentSections/7/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica: as cápsulas oficiais custaram menos que as oficiais da Nespresso Original na amostra, e a variedade de bebidas atende à nossa rotina.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "faqueiro-laguiole-la-maison-qual-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\faqueiro-laguiole-la-maison-qual-escolher.json",
+      "sha256": "e359c0e2e166ed36c53826a03140a8f7c7f4016bf8bc50ee10db8dd3c5a004b0",
+      "campo": "/contentSections/6/emphasis",
+      "texto": "Se fosse para a minha casa, eu começaria pelo Branco de trinta peças: cobre os cinco tipos de talher para seis lugares e foi o mais barato entre as cores. Confirmaria o preço e o estoque antes de comprar.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "fita-up-onde-comprar-original",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\fita-up-onde-comprar-original.json",
+      "sha256": "4075620efbbe255a5fd78f5c03e24195973407dc645a48986b63c47c5c8e570a",
+      "campo": "/contentSections/6/emphasis",
+      "texto": "Se fosse para a minha casa, eu começaria pelo site oficial com MAUAD. Antes de fechar, compararia o total com frete e a previsão de entrega com a loja oficial no Mercado Livre e a Toda Up na Amazon.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "fita-up-ou-blumi-ou-lib",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\fita-up-ou-blumi-ou-lib.json",
+      "sha256": "06a123ba13647ef8824976670300358059a8315c0c4fac5f360ff684c4583ed8",
+      "campo": "/contentSections/4/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Fita Up, mesmo saindo mais cara que a Lib: a largura vem pelo número do sutiã, e comprando no site a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "guardanapo-de-tecido-quantos-tamanho",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\guardanapo-de-tecido-quantos-tamanho.json",
+      "sha256": "f56b06e1413e1566aee8dbb6c0b574c94ff743808e961b7fa254f9cbcda2fc8e",
+      "campo": "/contentSections/4/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria o Bordado Oliva, porque é o mais barato e o 45 x 45 cm serve no almoço e no jantar.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "jogo-americano-tecido-tamanho-cor",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\jogo-americano-tecido-tamanho-cor.json",
+      "sha256": "2df25afa6c72fa0b67e77ebe32dc18623a1742d7811f2268a84ccc5f611e90a5",
+      "campo": "/contentSections/8/emphasis",
+      "texto": "Se fosse para a minha casa, eu escolheria o Retangular Corrente Bege: ele tem a mesma medida do Gregas e tinha o menor preço da tabela. Eu confirmaria o valor atual e o frete antes de comprar.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "le-creuset-qual-tamanho-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\le-creuset-qual-tamanho-escolher.json",
+      "sha256": "39dd136aabb912e1d2b2ea93f0a9036460bba65ed2665b52e3589e632d60285d",
+      "campo": "/contentSections/6/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a 24 cm, porque ela cobre as receitas cheias e sai 28% mais barata por litro.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "le-creuset-vale-a-pena",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\le-creuset-vale-a-pena.json",
+      "sha256": "f12d35eb878e025609ef76e243d2cb0af704c1b3d6742672d0129516aa55c07d",
+      "campo": "/contentSections/6/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Signature, porque o puxador fenólico vai até 250 °C.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "lets-eat-it-e-boa",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\lets-eat-it-e-boa.json",
+      "sha256": "bdb9e98d7bf9f1efe97f75850394a1b615ea5e9715f6d2e97b04bf426a5ad91b",
+      "campo": "/contentSections/7/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Le Creuset e a louça pela Let's Eat It; o cristal, eu pediria com tempo de sobra.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "mala-de-bordo-bagaggio-qual-compensa",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\mala-de-bordo-bagaggio-qual-compensa.json",
+      "sha256": "d90d67dddf15bb79c726275f059eb559348a690e9fe8f31e01314e4f7354ad44",
+      "campo": "/contentSections/3/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Detroit ABS Preta, porque é a mais barata da marca Bagaggio e fica dentro da medida de 55 × 35 cm das companhias.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "mala-policarbonato-ou-abs-bagaggio",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\mala-policarbonato-ou-abs-bagaggio.json",
+      "sha256": "d5dce0969978fdb7d9a8d1fd96771259f82bf0770c4cc14d0e829ff84f2381bb",
+      "campo": "/contentSections/5/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Detroit Preta, porque ela sai a R$ 5,65 por litro, a conta mais baixa da tabela.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "mochila-escolar-bagaggio",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\mochila-escolar-bagaggio.json",
+      "sha256": "23c2581fd9aef8572058fe6c354491cb6dd4b49107023b72bb2b3f9939d934a5",
+      "campo": "/contentSections/7/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Star Candy, porque a medida e a capacidade estão informadas na ficha.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "mochila-notebook-bagaggio-qual-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\mochila-notebook-bagaggio-qual-escolher.json",
+      "sha256": "51794053248dc090724dbe7f8a01d4d6b718aa7436a30a2b93ff9e1cb8270096",
+      "campo": "/contentSections/7/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a Horizonte Slim, porque é a mais barata com a medida do notebook informada pela loja.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "poltrona-de-amamentacao-como-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\poltrona-de-amamentacao-como-escolher.json",
+      "sha256": "200a63d93e1b3b31201d007bf7b37aaf4060d78809452903560cf6033c284127",
+      "campo": "/contentSections/10/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela vira poltrona de sala depois da amamentação.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "poltrona-de-amamentacao-vs-poltrona-reclinavel",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+      "sha256": "98df0acd414ae5750413536eb579c1be7d6676a53363f334f2e1b091d2cdb42a",
+      "campo": "/contentSections/8/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela descansa nas madrugadas e continua na sala depois.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\promocao-dolce-gusto-caixas-mini-me-gratis.json",
+      "sha256": "530c790dbedc88f30ef3d547130ddc1fb44724b6e998af8c4221115d56ed076c",
+      "campo": "/contentSections/6/paragraphs/2",
+      "texto": "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar. Se fosse para a minha casa com consumo moderado, eu levaria a Mini Me 2.0 avulsa para ter a liberdade de repor os cafés no meu próprio ritmo, sem imobilizar orçamento em um estoque grande de uma vez só.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\qual-travesseiro-escolher-guia-linhas-i-wanna-sleep.json",
+      "sha256": "c885b00b4bf8df2edaf017bacda2ceabc4a2ddf5171ad8b40a4b742eeab179cd",
+      "campo": "/contentSections/1/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "sofa-modular-ou-retratil-qual-escolher",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\sofa-modular-ou-retratil-qual-escolher.json",
+      "sha256": "9324127155ee4bace24626c77ea62d5463f780082e0ba4f696ecd654937dfb47",
+      "campo": "/contentSections/4/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria o modular, porque ele entra em partes e muda de layout sem trocar o sofá.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "sofa-na-caixa-inflow-ou-damie",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\sofa-na-caixa-inflow-ou-damie.json",
+      "sha256": "feb3640303189c5e5d4fac3fc8c670b981343aa9a499526c284266c2a0abfd19",
+      "campo": "/contentSections/9/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a DAMIE, porque é a única com 30 dias de teste e 1 ano de garantia.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\sofa-na-caixa-ou-sofa-montado-qual-dura-mais.json",
+      "sha256": "a22bf06817c0e53e7e7ef297a22e0bb127919494eb06f49f08f11ac724d57036",
+      "campo": "/contentSections/9/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria o modular na caixa, porque são módulos de madeira com encaixe e 1 ano de garantia.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "taca-base-esfera-e-tacas-coloridas",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\taca-base-esfera-e-tacas-coloridas.json",
+      "sha256": "6b8a4fd209c697ce8995f3d81978a0ea5ff2cd4aeb3ba8b30a914488dac52b33",
+      "campo": "/contentSections/8/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria o kit 6 + 6, porque cobre vinho e champanhe para 4 pessoas e a taça sai a menos que nos jogos de 6.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "tamanho-shein-brasil",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\tamanho-shein-brasil.json",
+      "sha256": "85dd04d41c675d330f708878550370e3fd1be0e5e1bd376211262079ea8e698c",
+      "campo": "/contentSections/8/emphasis",
+      "texto": "Se fosse para a minha casa, eu não pediria letra sem abrir o guia da peça, porque a mesma letra muda de marca para marca.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "travesseiro-i-wanna-sleep-ou-emma",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\travesseiro-i-wanna-sleep-ou-emma.json",
+      "sha256": "85fb727ede0437b82c41c1e7fcc5009256684fca2a307cedc60f4dc783513a0b",
+      "campo": "/contentSections/6/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria o Snow, porque a altura se ajusta tirando o enchimento e o teste é de 30 dias.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "undershirt-insider-qual-escolher-funciona",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\undershirt-insider-qual-escolher-funciona.json",
+      "sha256": "916a3c790ae21f77c1cc13bc0912d2ed9b0d495f0aa7c50fdf48e178f8f8ef46",
+      "campo": "/contentSections/7/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
+      "estado": "recenseado; sem prescricao individual integral"
+    },
+    {
+      "slug": "valley-inflow-ou-damie",
+      "idioma": "pt",
+      "arquivo": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\content\\reviews\\valley-inflow-ou-damie.json",
+      "sha256": "98f99e9f78bb3ae9c34e5a22aaa615ceb8471bf49b432e259246f43d4b3cbf82",
+      "campo": "/contentSections/9/emphasis",
+      "texto": "Se fosse para a minha casa, eu levaria a DAMIE, pelos 30 dias de teste e 1 ano de garantia.",
+      "estado": "recenseado; sem prescricao individual integral"
+    }
+  ]
+}
