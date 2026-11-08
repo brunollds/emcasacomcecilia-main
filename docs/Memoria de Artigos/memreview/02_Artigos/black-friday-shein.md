@@ -132,7 +132,7 @@ icms, vai acabar), "shein taxa das blusinhas", "shein frete grátis" (nacional, 
 | Um cupom da plataforma por pedido, mais o da loja do fornecedor local (no máximo 2 tipos); devolução parcial: cupom conta como usado; ajuste do reembolso se o pedido cai abaixo do mínimo do cupom; cupom vencido fica indisponível | Fato oficial | `br.shein.com/Coupon-Policy-a-1302.html` | Itens 5 e 6 | 2026-10-11 | [x] Sim |
 | 100 pontos = US$ 1; até 30% do valor dos produtos (sem frete e impostos); não valem em itens de vendedores locais | Fato oficial | `br.shein.com/bonus-point-program-a-371.html` (21/09/2026) | "Sobre o uso de pontos SHEIN" | 2026-10-11 | [x] Sim |
 | Pix, cartão brasileiro em até 6 parcelas, boleto (pagar em até 3 dias; a SHEIN sugere cartão ou PayPal para evitar falta de estoque), PayPal, Pagaleve | Fato oficial | `br.shein.com/Payment-Method-a-278.html` (05/06/2026) | Lista e itens 2 e 3 | 2026-10-11 | [x] Sim |
-| 4CW5Y: código de indicação da Cecília, pesquisado no app; condições na conta | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) | — | 2026-10-11 | [x] Sim, sem prometer benefício |
+| 4CW5Y: código de indicação da Cecília; pelo link, ou pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos; dá desconto, sim (quanto e em quais peças, a SHEIN decide); não vai no checkout (atualizado em 07/11/2026, #716 a #720) | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) e `content/reviews/black-friday-shein.json` | — | 2026-10-11 | [x] Sim, dizendo que dá desconto e nunca citando percentual nem valor |
 | Black Friday 2026 em 27/11 | Calendário | Dia seguinte ao Thanksgiving (26/11/2026) | — | 2026-10-11 | [x] Sim |
 | Campanha da SHEIN de 2026 | — | Ainda não anunciada (busca de 11/10/2026) | — | 2026-10-11 | [ ] Não: estimativa pelo histórico, dita como estimativa |
 | Campanhas vigentes e códigos de busca da SHEIN (produtos selecionados, novos usuários, cupons da Black Friday) | — | `couponsData.ts`, página da loja | — | — | [ ] Não: regra do cluster (07/10), ficam na página da loja |
@@ -143,7 +143,8 @@ icms, vai acabar), "shein taxa das blusinhas", "shein frete grátis" (nacional, 
 ## 7. Estratégia de Links Contextuais
 - **Afiliado (`affiliate`):** `shein`
 - **Código (`coupon`):** `4CW5Y`, código de indicação, com o termo de cada idioma (`REFERRAL_TERM`
-  do `test:review-i18n`, o mesmo da página da loja). Nunca "cupom".
+  do `test:review-i18n`, o mesmo da página da loja). Nunca "cupom" de checkout: o código dá desconto numa
+  seleção de produtos da SHEIN, sem percentual nem valor (atualizado em 07/11/2026, #716 a #720).
 - **Link interno:** a página da loja no idioma (`/cupons/shein`, `/<locale>/coupons/shein`).
 - **Artigo relacionado:** o guia de Black Friday da YesStyle, a única família de Black Friday nos 10
   idiomas.
@@ -156,16 +157,16 @@ icms, vai acabar), "shein taxa das blusinhas", "shein frete grátis" (nacional, 
 
 ## 8. Decisão Multilíngue
 - **Modo i18n:** `paridade-completa`, família `shein-black-friday`, a primeira da SHEIN.
-- **Fatos de mercado:** pela nota do cluster, as traduções mantêm os fatos da SHEIN Brasil (calendário,
-  imposto, ICMS por estado, reais, Envio Nacional, devolução) e dizem de forma explícita que são da
-  SHEIN Brasil e podem não valer em outro país. Valores em reais e dólares ficam como estão.
+- **Fatos de mercado:** as traduções mantêm os fatos do PT (calendário, imposto, ICMS por estado, reais,
+  Envio Nacional, devolução). A SHEIN é plataforma global: o código e as campanhas valem em todo idioma,
+  e o texto traduzido não leva nota de país. Valores em reais e dólares ficam como estão.
 - **Rótulo:** `type` "Guia de Black Friday" nos 10 idiomas, já na tabela do Job 4.
 
 ---
 
 ## 9. Esqueleto previsto e atualizações
 
-1. **Resposta rápida:** 2026 sem anúncio, o histórico, o imposto zero até US$ 50 e o código de indicação.
+1. **Resposta rápida:** 2026 sem anúncio, o histórico, o imposto zero até US$ 50 e o código de indicação (que dá desconto numa seleção da SHEIN, sem percentual).
 2. **Quando começa:** tabela de 2023 a 2025 e a estimativa para 2026.
 3. **"Até 90%" não é o carrinho inteiro:** como comparar preço entre as fases.
 4. **O imposto na Black Friday:** tabela do imposto, o subsídio do ICMS e o Envio Nacional.
@@ -211,19 +212,18 @@ antes de cada atualização.
 Três agentes traduziram (en/es/fr, de/it/ko, ja/zh-hant/zh-hans) e outros três releram ao lado do PT
 (en/de/ja, es/it/zh-hant, fr/ko/zh-hans), aplicando as correções do PT e a descrição nova da capa, com o
 conferidor `shein-bf-check.js` em ✓ nos nove (campos iguais ao PT, link neutro no CTA, nenhum
-`br.shein.com`, só o link da loja do idioma, termo do código de indicação, aviso de SHEIN Brasil, reais
+`br.shein.com`, só o link da loja do idioma, termo do código de indicação, reais
 e dólares mantidos, FAQ, títulos sem marcador de FAQ).
 
-- **Em todas:** o título diz "imposto de importação zero" (não "imposto zero") e algumas citam a SHEIN
-  Brasil no título; "Envio Nacional" fica uma vez entre parênteses; CPF, Pix, boleto, Correios, ICMS e
+- **Em todas:** o título diz "imposto de importação zero" (não "imposto zero"); "Envio Nacional" fica uma vez entre parênteses; CPF, Pix, boleto, Correios, ICMS e
   Receita Federal são explicados uma vez; "reais brasileiros" no primeiro valor em R$.
 - **es:** "tú"; calques corrigidos ("en línea" → "ya activa"); a pergunta do FAQ sobre o 4CW5Y virou
   "¿El 4CW5Y da descuento?"; nota editorial encurtada.
 - **fr:** aspas « »; "en 6 fois maximum".
 - **de:** "Sie" e "der Black Friday" (havia um "die Black Friday"); "kein Gutschein" no parágrafo do
   código; Receita Federal como "Bundessteuerbehörde". A página da loja em alemão usa "du".
-- **it:** "tu"; o aviso de SHEIN Brasile faltava no parágrafo do código e entrou; "entro US$ 50".
-- **ko:** 합니다체 com 하세요 nas instruções; o aviso de SHEIN 브라질 entrou no parágrafo do código.
+- **it:** "tu"; "entro US$ 50".
+- **ko:** 합니다체 com 하세요 nas instruções.
 - **ja:** です・ます; nenhum título de seção com 「よくある」 fora do FAQ.
 - **zh-hant / zh-hans:** "進口稅零稅率"; termos uniformes; nenhum caractere da outra escrita.
 
@@ -239,8 +239,8 @@ mapa de entrega e outra no `.gitattributes`, `phase5-export` com 405 ativos.
 
 ## Gates (11/10/2026)
 
-- Verdes: `validate:content`, `test:review-i18n` (70 versões traduzidas em 7 famílias, sem link da SHEIN
-  Brasil fora do PT), `test:review-discovery`, `test:internal-links`, `test:coupon-offer-modes`,
+- Verdes: `validate:content`, `test:review-i18n` (70 versões traduzidas em 7 famílias, sem link de
+  `br.shein.com` fora do PT), `test:review-discovery`, `test:internal-links`, `test:coupon-offer-modes`,
   `test:coupon-translations`, `validate:video`, `validate:yesstyle`, `test-image-hosts`,
   `test-yesstyle-mutation`, os três testes da home, `test-delivery-integration`, `typecheck` e `lint`.
 - `npm run build` completo verde (sitemap com 395 URLs; `<head>` dos 70 artigos de família; dock, sidebar
@@ -254,3 +254,7 @@ Decisão do Bruno em 04/11/2026: a alíquota zero vale desde 12/05/2026. A pági
 
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
 Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. Sete trocas no PT, sem mudar fato: a legenda da tabela das fases ("anunciados pela SHEIN"), o alt e a legenda da foto da página inicial ("do site da SHEIN", "A página inicial da SHEIN"), a legenda da tabela de impostos ("Pela página de impostos da SHEIN"), o alt e a legenda das telas do 4CW5Y ("do site da SHEIN", "do aplicativo da SHEIN") e a nota editorial ("Regras das páginas oficiais da SHEIN e da Lei 15.502/2026"). O ICMS por estado, os reais e a lei seguem no PT. As 9 traduções já estavam sem o termo desde o #493 e não mudaram. PR #566, com os outros 5 artigos da SHEIN.
+
+
+## Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
+O 4CW5Y é código de indicação da SHEIN, não é cupom de checkout, não soma e não se cola no checkout. Pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma seleção da SHEIN com promoções e descontos. O texto diz que o código dá desconto; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem promessa de desconto em toda compra, sem "só no app". A SHEIN é plataforma global (regra de 02/11, #493): o código e as campanhas valem em todo idioma, e nenhum texto leva aviso de país. A resposta rápida, a seção "Cupons, pontos e o código 4CW5Y" e a pergunta "O 4CW5Y é cupom de desconto?" do FAQ dizem isso em `content/reviews/black-friday-shein.json`, e a pergunta do FAQ nas traduções (dúvida de leitura nativa, acima) segue a mesma regra.

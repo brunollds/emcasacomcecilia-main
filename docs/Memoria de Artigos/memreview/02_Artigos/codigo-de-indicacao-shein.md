@@ -27,23 +27,30 @@ status_i18n: "completo"
 # Briefing de Pauta: Código de indicação SHEIN, onde colocar e como usar
 
 Segunda família da SHEIN (a primeira é [[02_Artigos/black-friday-shein]], `shein-black-friday`). Tema aprovado pelo
-Bruno em 12/10/2026, nos 10 idiomas, mesmo sendo um programa da SHEIN Brasil. Nota do cluster:
+Bruno em 12/10/2026, nos 10 idiomas: a SHEIN é plataforma global, e o código vale em qualquer idioma. Nota do cluster:
 [[03_Memoria/Clusters-Multilingues/SHEIN]].
 
 **A descoberta que muda a pauta:** a SHEIN não tem, hoje, um "código de indicação de amigo" com prêmio para quem usa.
 O que as pessoas chamam assim é o **código de afiliado/criador** do programa de afiliados da SHEIN. Ele se digita na
-**busca** do app, não no campo de cupom, e leva à página de seleções (Picks) de quem divulga. O prêmio que o guia
+**busca** do app ou do site, não no campo de cupom, e leva à página de seleções (Picks) de quem divulga, com promoções e
+descontos escolhidos pela SHEIN. O prêmio que o guia
 antigo prometia (cupom de R$ 10) era do programa antigo, **encerrado em 29/08/2024**. Quase tudo que ranqueia ainda
 descreve esse programa. Esse é o valor exclusivo do guia: dizer o que a própria SHEIN publica, em linguagem de gente.
+
+**Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720, no ar):** o 4CW5Y **dá desconto, sim**, e o texto diz isso com
+clareza. Fica em aberto só o quanto e em quais peças, porque quem decide é a SHEIN: nunca percentual nem valor, nunca
+desconto garantido em toda compra. Há dois caminhos equivalentes: usar o link do botão, ou copiar o 4CW5Y e pesquisar no
+app ou no site. É código de indicação, não cupom de checkout.
 
 ---
 
 ## 1. Portões Obrigatórios (Hard Gates)
 - [x] **1. Evidência Factual Suficiente:** duas páginas oficiais da SHEIN lidas em 12/10/2026 (seção 6), em PT, EN, JA e KR.
-  Falta a captura das telas no app brasileiro (seção 5). Demanda: autocompletar em 10 idiomas (seção 7); o GSC não tem
+  Falta a captura das telas no app (seção 5). Demanda: autocompletar em 10 idiomas (seção 7); o GSC não tem
   nenhuma consulta de SHEIN (seção 8).
-- [x] **2. Segurança Regulatória & Ética:** sem promessa de ganho nem de percentual. O guia diz que a vantagem é a que a
-  SHEIN mostra na página e que não há valor fixo. A comissão para o site vai na `editorialNote`.
+- [x] **2. Segurança Regulatória & Ética:** sem promessa de ganho nem de percentual. O guia diz que o código dá desconto,
+  sim, numa seleção de produtos e promoções, e que o quanto e em quais peças a SHEIN decide (sem valor fixo, sem desconto
+  garantido em toda compra; 07/11/2026, #716 a #720). A comissão para o site vai na `editorialNote`.
 - [x] **3. Fronteira Factual vs Experiência:** sem experiência de compra declarada. O passo a passo só descreve o que a
   SHEIN publica e o que o Bruno capturar no próprio app. Nada de "testamos".
 - [x] **4. Anti-Canibalização:** risco **médio**, tratado na seção 9. A página da loja é dona de "código/cupom SHEIN" e das
@@ -63,8 +70,8 @@ descreve esse programa. Esse é o valor exclusivo do guia: dizer o que a própri
   antigo e a lista "meu código".
 - **O que exige a visita do usuário?** As telas do app, a explicação de por que o código de 2024/2025 não funciona como
   nos vídeos e o caminho para ter o próprio código.
-- **Como o benefício/código chega ao leitor?** O `4CW5Y` no dock e na sidebar (código de indicação), o CTA comissionado e
-  um link para `/cupons/shein` (campanhas vigentes).
+- **Como o benefício/código chega ao leitor?** O `4CW5Y` no dock e na sidebar (código de indicação), o CTA comissionado
+  (o link já abre a seleção do 4CW5Y) e um link para `/cupons/shein` (campanhas vigentes).
 - **Atualiza artigo existente ou cria novo?** Família nova. Depois de publicada, o guia de Black Friday da SHEIN ganha
   um link para ela (pendência P9; não é link de loja, não conta no limite de 3).
 - **URL mais próxima semanticamente (canibalização):** `/cupons/shein` e `/<locale>/coupons/shein`.
@@ -79,7 +86,8 @@ descreve esse programa. Esse é o valor exclusivo do guia: dizer o que a própri
 - **Por que a resposta oficial falha:** foi escrita para o afiliado, em tradução automática ("código de referência"),
   sem passo a passo e sem dizer ao comprador o que esperar.
 - **Valor exclusivo:** (1) a regra da busca versus o campo de cupom; (2) o que abre (página de seleções) e o que a pessoa
-  ganha de fato (o que a página mostrar, sem valor fixo); (3) por que os guias de 2024/2025 estão desatualizados
+  ganha de fato (desconto, sim, numa seleção de produtos e promoções; quanto e em quais peças é a SHEIN que decide, sem
+  valor fixo); (3) por que os guias de 2024/2025 estão desatualizados
   (programa antigo encerrado, R$ 10 acabou); (4) como ter o próprio código, com os requisitos que a SHEIN publica.
 
 ---
@@ -104,7 +112,7 @@ descreve esse programa. Esse é o valor exclusivo do guia: dizer o que a própri
 
 ## 5. Mídia & Planejamento Visual (o que o Bruno captura)
 
-Capturas do **app da SHEIN Brasil** na conta dele, sem nome, e-mail, endereço nem outro código na tela. Conferir se o
+Capturas do **app da SHEIN** na conta dele, sem nome, e-mail, endereço nem outro código na tela. Conferir se o
 Android e o iPhone têm o mesmo caminho; usar o aparelho que ele tem e dizer qual. Telas verticais (cerca de 1080×2340).
 
 | # | Captura | Para quê |
@@ -113,14 +121,14 @@ Android e o iPhone têm o mesmo caminho; usar o aparelho que ele tem e dizer qua
 | M2 | Barra de busca com `4CW5Y` digitado (e a sugestão que o app mostrar) | Passo 2 e hero |
 | M3 | A tela que abre depois de pesquisar: o nome que o app dá a ela (Picks, Seleções, outro) e o que ela mostra no topo | "O que aparece" e a prova do que o código abre |
 | M4 | O campo de cupom do carrinho/checkout, com um item no carrinho (sem pagar), mostrando o campo onde **não** colocar | "Onde não colocar" |
-| M5 | (opcional) A mesma busca no **site** no computador (`br.shein.com`), se o código funcionar lá | FAQ "dá para usar no computador?" (demanda em inglês) |
+| M5 | (opcional) A mesma busca no **site** no computador (`br.shein.com`), se o código funcionar lá | FAQ "dá para usar no computador?" (demanda em inglês). A FAQ responde "dá" sem precisar do M5 (07/11/2026) |
 | M6 | (opcional) Onde o app mostra "Afiliado" ao buscar a palavra, **sem logar como afiliado** | Seção "como ter o meu" |
 
 - **Imagem Principal (Hero):** M2 e M3 lado a lado (do site móvel, gravação de 12/10/2026) sobre o primeiro quadro desfocado, como na capa do guia de Black Friday
   da SHEIN, 1600×900 WebP. `imageAlt` descritivo nos 10 idiomas (a interface das capturas está em português; as traduções
-  dizem "app da SHEIN Brasil").
+  dizem "SHEIN", sem país).
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Imagem nova só entra pelo fluxo da
-  biblioteca (manifesto sem reordenar, upload com o GO do Bruno). Registrar a origem: "captura de tela do site móvel da SHEIN Brasil,
+  biblioteca (manifesto sem reordenar, upload com o GO do Bruno). Registrar a origem: "captura de tela do site móvel da SHEIN,
   feita pelo Em Casa com Cecília em 12/10/2026".
 - **Imagens inline:** M1, M2 e M3 na seção do passo a passo (carrossel `images[]`, com `caption`). M4 fica de fora: o passo "onde não colocar" sai sem imagem.
 - **Vídeo:** [x] Nenhum. Um vídeo curto do app seria o ideal, mas fica para depois (seria `primary` e pede metadados).
@@ -130,7 +138,7 @@ Android e o iPhone têm o mesmo caminho; usar o aparelho que ele tem e dizer qua
 ## 6. Matriz de Claims & Afirmações Planejadas
 
 Fontes oficiais lidas em 12/10/2026 (consulta em `m.shein.com`, que abre sem bloqueio; o texto vem do JSON da página).
-**Nenhum link para `br.shein.com`/`shein.com` entra no artigo** (o `test:review-i18n` barra `br.shein.com` fora do PT e o PT segue
+**Nenhum link para `br.shein.com`/`shein.com` entra no artigo** (escolha editorial desta família: nenhum teste barra o `br.shein.com` nos artigos, mas o PT segue
 o mesmo desenho): as fontes ficam só aqui.
 
 - **F1:** `m.shein.com/br/campus--a-1500.html`, "Afiliado SHEIN", PT, publicada e atualizada em 29/08/2024 14:18.
@@ -149,7 +157,7 @@ o mesmo desenho): as fontes ficam só aqui.
 | O código de referência abre a página de seleções (Picks) de quem divulga; sem produtos escolhidos, abre a página padrão Top Picks | Fato oficial | F2 | "Método 3 (NOVO): Compartilhe um código de referência" | 2026-10-12 | [x] Sim, dito "segundo a SHEIN"; M3 confirma no app |
 | O 4CW5Y abre a página de seleções da Cecília | Inferência | F4 (`campaign=picklist`) + F2 + gravação de 12/10 | No site móvel, sem login, abriu a página genérica "Acho que você pode gostar" | 2026-10-12 | [ ] Não: hoje abre a página padrão; só depois de o Bruno montar a lista de seleções e refazer M3 |
 | Os usuários podem receber os benefícios que as páginas de campanha ou de produto compartilhadas mostram; a SHEIN atualiza as ofertas | Fato oficial | F1 | "Sobre o desconto extra para seguidores" | 2026-10-12 | [x] Sim |
-| Não há valor fixo de desconto no código | Condição comercial | F1 + `couponsData.ts` (FAQ da loja: "não tratamos esse código como um percentual fixo") | — | 2026-10-12 | [x] Sim |
+| O código **dá desconto, sim**, numa seleção de produtos e promoções; quanto e em quais peças a SHEIN decide, e varia. Sem percentual, sem valor, sem desconto garantido em toda compra | Condição comercial | Decisão do Bruno (07/11/2026, #716 a #720) + `couponsData.ts` (SHEIN, `referral.instructions` e FAQ "O código 4CW5Y é um cupom de desconto da SHEIN?") | — | 2026-11-07 | [x] Sim, sem percentual e sem valor |
 | O programa antigo de afiliados terminou em 29/08/2024; os códigos antigos foram desativados e quem usava deixou de ter o cupom de R$ 10 | Fato oficial | F1 | FAQ "Sobre encerramento do programa antigo", item 01 | 2026-10-12 | [x] Sim, dito como história |
 | Na plataforma nova não existe mais "vinculação via código" entre afiliado e seguidor | Fato oficial | F1 | Mesmo item de "diferenças" | 2026-10-12 | [x] Sim, ao explicar por que o guia antigo não vale |
 | Quem divulga recebe comissão por compra feita pelo link ou código | Fato oficial | F1, F2 | Visão geral do programa | 2026-10-12 | [x] Sim, sem taxa (as taxas são do afiliado) |
@@ -157,11 +165,11 @@ o mesmo desenho): as fontes ficam só aqui.
 | Para ter o seu código: pesquisar "afiliado" no app, validar uma rede social (Instagram, YouTube ou TikTok) com o mínimo de seguidores exigido; o código aparece na página inicial de afiliados; não dá para personalizar; é fixo | Fato oficial | F1 (registro); F2 (onde achar, personalizar, fixo) | "Como é feito o registro", "Onde posso encontrar meu código", "Posso personalizar" | 2026-10-12 | [x] Sim |
 | Comprar pelo próprio link não gera comissão | Fato oficial | F2 | Última pergunta do bloco de compartilhamento | 2026-10-12 | [ ] Não: pormenor do afiliado, fora do guia |
 | Valores das taxas de comissão (até 20% e até 2%), bônus de R$ 2 e R$ 3, saque mínimo | Fato oficial | F1 | Melhorias da nova plataforma | 2026-10-12 | [ ] Não: lado do afiliado, de 2024 |
-| 4CW5Y é o código de indicação da Cecília, pesquisado no app | Condição comercial | `referral` do cupom `shein` (`verifiedAt` 2026-09-01) | — | 2026-10-12 | [x] Sim, sem prometer benefício |
+| 4CW5Y é o código de indicação da Cecília, pesquisado na busca do app ou do site (ou aberto pelo link do botão) | Condição comercial | `referral` do cupom `shein` (`verifiedAt` 2026-09-01) | — | 2026-11-07 | [x] Sim: o texto diz que dá desconto, sem percentual (07/11/2026) |
 | O código de indicação não é cupom: não vai no campo de cupom | Fato oficial | F2 | Mesmo item da busca | 2026-10-12 | [x] Sim. "Cupom" só aparece para dizer o que o código **não** é |
-| Os cupons da SHEIN Brasil valem no site e no app brasileiros | Fato oficial | F3 | Item 1 | 2026-10-12 | [x] Sim, 1 frase (base do aviso de mercado) |
-| O 4CW5Y funciona em outro país | — | Nenhuma: a SHEIN não diz se um código de afiliado do Brasil vale na loja de outro país | — | 2026-10-12 | [ ] Não: o texto diz "é da SHEIN Brasil e pode não valer no seu país" |
-| O código funciona no **site** (computador) | — | F1 só fala em "app"; F2 fala em "caixa de pesquisa da SHEIN" | — | 2026-10-12 | [ ] Só com M5; até lá: "no aplicativo" |
+| Os cupons de loja da SHEIN valem só no site e no app da loja do país que os emitiu (a política lida é a da loja brasileira) | Fato oficial | F3 | Item 1 | 2026-10-12 | [ ] Não: o guia não traz aviso de país; a SHEIN é plataforma global e o código vale em todo idioma |
+| O 4CW5Y funciona em outro país | — | Nenhuma fonte específica: a SHEIN é plataforma global e leva cada pessoa à loja da região dela | — | 2026-11-07 | [ ] Não: o guia não tem pergunta nem aviso de país |
+| O código funciona no **site** (computador) | Condição comercial | F2 fala em "caixa de pesquisa da SHEIN"; `couponsData.ts` (SHEIN): "pesquise no app ou no site" | — | 2026-11-07 | [x] Sim (07/11/2026, #716 a #720): "no aplicativo ou no site", sem precisar do M5 |
 | Qualquer pessoa tem um código de indicação no app | — | Nenhuma fonte; as duas páginas dizem que o código sai do programa de afiliados | — | 2026-10-12 | [ ] Não: dizer "nas páginas da SHEIN, o código sai do programa de afiliados" |
 | Convite de amigo com prêmio (JA, KO, EUA, "refer a friend") | — | Só indício: uma atividade oficial "Accept invitation" em `m.shein.com/ugrowth/dog/...`, que no Brasil está **encerrada**; termos não lidos | — | 2026-10-12 | [ ] Não: o guia só diz que não cobre convite de amigo |
 | Códigos de outras pessoas, de campanha (produtos selecionados, novos usuários) e valores | — | `couponsData.ts`, página da loja | — | — | [ ] Não: regra do cluster; ficam na página da loja |
@@ -197,7 +205,7 @@ Sugestões de "bot", "hack", "game", "詐欺", "꼼수" mostram golpe e vantagem
 **Concorrência no Google (PT, 12/10):** vídeos de TikTok/YouTube com códigos de outras pessoas (não citar nunca);
 blog com "programa de indicação" de 18/12/2024 (trecho; descreve recompensa a quem indica, não bate com a página oficial de
 afiliados); e **páginas falsas de "Apps no Google Play" em subdomínios `.gov.br`** que ranqueiam para "código de indicação
-shein/shopee/bet365". São lixo e risco de golpe. Não citar nem linkar; a FAQ pode dizer que o código se usa no app oficial da
+shein/shopee/bet365". São lixo e risco de golpe. Não citar nem linkar; a FAQ pode dizer que o código se usa no app ou no site oficial da
 SHEIN e que não precisa baixar outro aplicativo.
 
 ## 8. GSC (3 meses até 11/10/2026)
@@ -214,9 +222,10 @@ SHEIN e que não precisa baixar outro aplicativo.
 ## 9. Fronteira com `/cupons/shein` e `/<locale>/coupons/shein`
 
 **O que a página da loja já diz** (lido em `couponsData.ts` e `couponTranslations.ts`): o 4CW5Y é o código de indicação, se
-pesquisa no app SHEIN, as condições dependem da conta, "não tratamos como percentual fixo"; os códigos são da SHEIN Brasil e
-podem não valer no país do leitor; campanhas vigentes (produtos selecionados, 50% para novos usuários); comissão. **Ela não diz**:
-que a busca é o lugar certo e o campo de cupom o errado, o que abre depois, o que aconteceu com o programa antigo, como ter o seu.
+pesquisa no app ou no site da SHEIN (ou se abre pelo botão da página), e abre uma página com promoções e descontos escolhidos
+pela SHEIN, sem percentual fixo e sem ir ao campo de cupom do checkout (07/11/2026, #716 a #720); campanhas vigentes (produtos
+selecionados, 50% para novos usuários); comissão. **Ela não diz**: o que aconteceu com o programa antigo, como ter o seu,
+nem o passo a passo com telas. A SHEIN é global: nenhum texto avisa que o código é de um país.
 
 | Assunto | Dono |
 |---|---|
@@ -227,7 +236,9 @@ que a busca é o lugar certo e o campo de cupom o errado, o que abre depois, o q
 **Regras para não duplicar:**
 1. O guia **não lista campanhas, códigos de campanha, percentuais nem validade**: manda para a loja com um link.
 2. O guia **não repete o texto da loja**. O que é novo: a regra da busca, o que abre, o programa antigo, o "meu código".
-3. `seoTitle` e H1 **sem "4CW5Y", sem "cupom" e sem "desconto"**; o 4CW5Y entra no corpo, no dock e na sidebar.
+3. `seoTitle` e H1 **sem "4CW5Y", sem "cupom" e sem "desconto"**; o 4CW5Y entra no corpo, no dock e na sidebar. Desde
+   07/11/2026, o subtítulo (`description`) e a `metaDescription` dizem "dá desconto, sim" (a `metaDescription` cita o 4CW5Y),
+   sem percentual nem valor; o `seoTitle` e o H1 seguem como estão.
 4. **Nunca chamar o 4CW5Y de cupom.** "Cupom" só aparece para dizer o que o código não é ("não vai no campo de cupom").
    O rótulo do código segue `getCodeTitle`/`inlineReferral` (sidebar e dock) e o termo da loja em cada idioma.
 5. **Links para a página da loja: no máximo 3 por versão; plano: 2** (um em "O que você ganha", onde as campanhas moram, e um no
@@ -244,57 +255,59 @@ que a busca é o lugar certo e o campo de cupom o errado, o que abre depois, o q
   `/<locale>/reviews/<slug>` nas 9 traduções.
 - **Fonte PT é a peça canônica:** [x] Sim.
 - **Fatos universais (valem em qualquer idioma, com fonte):** o código se digita na busca, não no campo de cupom; o código
-  de criador/afiliado abre a página de seleções de quem divulga; a vantagem é a que a página mostra, sem valor fixo; o código
-  é fixo e não se personaliza; para ter o seu, o app do país tem a área de afiliados.
-- **Fatos do Brasil (dependem de mercado):** o 4CW5Y; o fim do programa antigo (29/08/2024) e o cupom de R$ 10; o
-  requisito de seguidores; o fato de o cupom da SHEIN Brasil só valer no site/app brasileiros.
-- **Fatos que ninguém sabe (não escrever):** se o 4CW5Y funciona no app de outro país; se o programa de afiliados está
-  aberto no país do leitor; as regras dos convites de amigo de JA/KO/EUA.
-- **O que fazer quando a versão só repetiria "é um programa do Brasil":** as 9 traduções **não** são cópia do PT. Elas dizem
-  o que é verdadeiro em qualquer país (a regra da busca) e avisam o que é do Brasil. Mínimo honesto abaixo.
+  de criador/afiliado abre a página de seleções de quem divulga; o 4CW5Y dá desconto, sim, numa seleção de produtos e
+  promoções, e o quanto e em quais peças a SHEIN decide, sem valor fixo (07/11/2026); o código
+  é fixo e não se personaliza; para ter o seu, o app tem a área de afiliados; a SHEIN leva cada pessoa à loja da região dela.
+- **Fatos do programa (a fonte oficial de cada um está na matriz da seção 6):** o 4CW5Y; o fim do programa antigo
+  (29/08/2024) e o cupom de R$ 10; o requisito de seguidores. Nas traduções, o fim do programa antigo entra sem o valor em reais.
+- **Fatos que ninguém sabe (não escrever):** se o programa de afiliados está aberto no país do leitor; as regras dos
+  convites de amigo de JA/KO/EUA.
+- **O que fazer quando a versão só repetiria o PT:** as 9 traduções **não** são cópia do PT. Elas dizem o que é verdadeiro em
+  qualquer país (a regra da busca) e não trazem aviso de país nem "SHEIN Brasil". Mínimo honesto abaixo.
 - **Regra do item 10 do Job 4 para esta família (exceção aprovada pelo Bruno em 12/10/2026, decisão A):** núcleo igual +
-  bloco de mercado. O núcleo são os fatos universais acima (a regra da busca, a página de seleções, a vantagem sem valor
-  fixo, o código fixo); o bloco de mercado, nesta família, é um só, o **Brasil** (o 4CW5Y, o aviso "SHEIN Brasil", o
-  requisito de seguidores), com a fonte oficial de cada fato na matriz da seção 6. Job 3 e Job 4 conferem as traduções
+  fatos do programa. O núcleo são os fatos universais acima (a regra da busca, a página de seleções, o desconto sem valor
+  fixo, o código fixo), com a fonte oficial de cada fato na matriz da seção 6. Job 3 e Job 4 conferem as traduções
   **linha a linha contra a matriz**, e não contra "os mesmos claims do PT". Fato de qualquer outro mercado só entra com
   linha própria na matriz.
-- **Regra D (Bruno, 12/10):** cada versão cobre só os mercados que a loja atende. Aqui o único mercado coberto é o Brasil,
-  onde o código existe; nenhuma versão trata de mercado que a SHEIN não atende, e o zh-hans não cobre a China continental.
+- **Regra D (Bruno, 12/10):** cada versão cobre só os mercados que a loja atende; nenhuma trata de mercado que a SHEIN não
+  atende, e o zh-hans não cobre a China continental. A SHEIN é plataforma global (regra de 02/11/2026, #493): nenhuma versão
+  traz aviso de país, e o código e o link valem em todo idioma.
 
 **Estrutura**
 
 | # | Seção | PT | 9 traduções |
 |---|---|---|---|
 | 1 | Resposta rápida | sim | sim |
-| 2 | Onde colocar o código (busca, não cupom) e passo a passo | sim | sim, passo a passo no app da SHEIN Brasil (telas em português) |
+| 2 | Onde colocar o código (busca, não cupom) e passo a passo | sim | sim, passo a passo no app ou no site da SHEIN (as telas são do site móvel, em português) |
 | 3 | O que abre e o que você ganha | sim | sim |
-| 4 | Por que guias de 2024/2025 não valem mais | sim | **não**: o cupom de R$ 10 e o programa antigo só dizem respeito a quem compra no Brasil; uma frase na FAQ |
-| 5 | Como ter o seu código | sim | sim, em 3 frases, "no app do seu país, busque 'Affiliate'", sem dizer que está aberto |
-| 6 | Perguntas frequentes | 9 a 10 itens | 7 itens (sem os do programa antigo, mais o "funciona no meu país?") |
+| 4 | Por que guias de 2024/2025 não valem mais | sim | sim, mais curta: o programa antigo encerrado em 2024 e o cupom fixo que ele dava, sem o valor em reais |
+| 5 | Como ter o seu código | sim | sim, em 2 parágrafos curtos (pesquisar o programa de afiliados no app, validar uma rede social), sem dizer que está aberto |
+| 6 | Perguntas frequentes | 9 itens | os mesmos 9 itens do PT |
 
 **O que cada idioma diz e por quê**
 
 | Idioma | Termo do código (igual à loja) | Slug sugerido | O que esta versão diz | O que não diz / risco |
 |---|---|---|---|---|
 | pt | código de indicação | `codigo-de-indicacao-shein` | Guia completo (todas as seções) | — |
-| en | referral code | `shein-referral-code-where-to-enter` | Onde digitar (busca, não cupom), o que abre, o que se ganha; 4CW5Y é da **SHEIN Brazil** e pode não valer no seu país; FAQ "on a computer?" só se M5 confirmar | Não promete prêmio de "refer a friend"; não explica convite de amigo dos EUA |
-| es | código de referido | `codigo-de-referido-shein-donde-ponerlo` | Idem, em "tú"; **SHEIN Brasil** | Não fala de México/Espanha |
-| fr | code de parrainage | `code-de-parrainage-shein-ou-le-mettre` | Idem; **SHEIN Brésil**; "parrainage" no FR evoca prêmio em euros, então abrir dizendo que **não há valor fixo** | Não repete as promessas "50/100/200/300 €" do autocompletar |
-| de | Empfehlungscode | `shein-empfehlungscode-wo-eingeben` | Idem; **SHEIN Brasilien**; "Sie" como no guia de Black Friday | — |
-| it | codice invito (citar "codice amico" uma vez como sinônimo) | `codice-invito-shein-dove-inserirlo` | Idem; **SHEIN Brasile**; "tu" | — |
-| ko | 추천 코드 (citar 추천인 코드/초대 코드 como sinônimos) | `shein-referral-code-ko` | Idem; **SHEIN 브라질**; frase: o guia não cobre convite de amigo | Demanda de KO é por 친구 초대 (12만원 etc.): esta versão **responde só a parte "onde digitar"** |
-| ja | 紹介コード (citar 招待コード) | `shein-referral-code-ja` | Idem; **SHEIN ブラジル**; 「クーポン欄ではなく検索窓」 | Demanda de JA é por 友達紹介 (5,000円): idem; "詐欺/危険" não repetir |
-| zh-hant | 推薦碼 | `shein-referral-code-zh-hant` | Idem; **SHEIN 巴西站** | Sem demanda medida além do termo base |
-| zh-hans | 推荐码 | `shein-referral-code-zh-hans` | Idem; **SHEIN 巴西站** | Não cobre a China continental (regra D); "a SHEIN não opera na China" não tem fonte na matriz e não entra; sem demanda medida |
+| en | referral code | `shein-referral-code-where-to-enter` | Onde digitar (busca, não cupom), o que abre, o que se ganha (dá desconto, sim); sem aviso de país; FAQ "on a computer?" responde que dá | Não promete prêmio de "refer a friend"; não explica convite de amigo dos EUA |
+| es | código de referido | `codigo-de-referido-shein-donde-ponerlo` | Idem, em "tú" | Não fala de México/Espanha |
+| fr | code de parrainage | `code-de-parrainage-shein-ou-le-mettre` | Idem; "parrainage" no FR evoca prêmio em euros, então não prometer valor nem prêmio em euros: a abertura diz que dá desconto, sim, e que o montante e as peças a SHEIN decide (07/11/2026) | Não repete as promessas "50/100/200/300 €" do autocompletar |
+| de | Empfehlungscode | `shein-empfehlungscode-wo-eingeben` | Idem; "Sie" como no guia de Black Friday | — |
+| it | codice invito (citar "codice amico" uma vez como sinônimo) | `codice-invito-shein-dove-inserirlo` | Idem; "tu" | — |
+| ko | 추천 코드 (citar 추천인 코드/초대 코드 como sinônimos) | `shein-referral-code-ko` | Idem | Demanda de KO é por 친구 초대 (12만원 etc.): esta versão **responde só a parte "onde digitar"** |
+| ja | 紹介コード (citar 招待コード) | `shein-referral-code-ja` | Idem; 「クーポン欄ではなく」検索 | Demanda de JA é por 友達紹介 (5,000円): idem; "詐欺/危険" não repetir |
+| zh-hant | 推薦碼 | `shein-referral-code-zh-hant` | Idem | Sem demanda medida além do termo base |
+| zh-hans | 推荐码 | `shein-referral-code-zh-hans` | Idem | Não cobre a China continental (regra D); "a SHEIN não opera na China" não tem fonte na matriz e não entra; sem demanda medida |
 
-- **Resumo honesto:** as 9 traduções são versões **menores** (6 seções, FAQ de 7) e a menos útil por demanda é a de ko/ja (a
-  intenção principal é convite de amigo). Decisão do Bruno mantida: sai nos 10. Se, na leitura nativa, a versão JA/KO parecer
-  enganosa para quem busca convite de amigo, o caminho é a frase de abertura do guia dizer isso, e não acrescentar regras sem fonte.
-- **H1 sugeridos** (localização editorial, o Job 2 ajusta): en "SHEIN Brazil referral code: where to enter it and how it works";
-  es "Código de referido de SHEIN Brasil: dónde ponerlo y cómo usarlo"; fr "Code de parrainage SHEIN Brésil : où le mettre et
-  comment l'utiliser"; de "SHEIN-Empfehlungscode (Brasilien): wo eingeben und wie er funktioniert"; it "Codice invito SHEIN Brasile:
-  dove inserirlo e come usarlo"; ko "SHEIN 브라질 추천 코드: 입력하는 곳과 사용법"; ja "SHEIN ブラジルの紹介コード：入力する場所と使い方";
-  zh-hant "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用"; zh-hans "SHEIN 巴西站推荐码：在哪里输入、怎么用".
+- **Resumo honesto:** as 9 traduções têm as mesmas 6 seções e os mesmos 9 itens de FAQ do PT, com a seção do programa antigo mais
+  curta, e a menos útil por demanda é a de ko/ja (a intenção principal é convite de amigo). Decisão do Bruno mantida: sai nos
+  10. Se, na leitura nativa, a versão JA/KO parecer enganosa para quem busca convite de amigo, o caminho é a frase de abertura
+  do guia dizer isso, e não acrescentar regras sem fonte.
+- **H1 no ar (conferidos nos JSONs em 07/11/2026):** en "SHEIN referral code: where to enter it and how it works"; es "Código de
+  referido de SHEIN: dónde ponerlo y cómo usarlo"; fr "Code de parrainage SHEIN : où le mettre et comment l'utiliser"; de
+  "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert"; it "Codice invito SHEIN: dove inserirlo e come usarlo"; ko
+  "SHEIN 추천 코드: 입력하는 곳과 사용법"; ja "SHEINの紹介コード：入力する場所と使い方"; zh-hant "SHEIN 推薦碼：在哪裡輸入、怎麼用";
+  zh-hans "SHEIN 推荐码：在哪里输入、怎么用". Nenhum diz o país.
 - **`type` (rótulo público): APROVADO pelo Bruno em 12/10/2026 (decisão C)**, um rótulo novo que **não** diz "cupom": pt "Guia
   do Código de Indicação", en "Referral Code Guide", es "Guía del código de referido", fr "Guide du code de parrainage", de
   "Empfehlungscode-Ratgeber", it "Guida al codice invito", ko "추천 코드 가이드", ja "紹介コードガイド", zh-hant "推薦碼指南",
@@ -310,7 +323,7 @@ que a busca é o lugar certo e o campo de cupom o errado, o que abre depois, o q
 ## 11. Estratégia de Links Contextuais
 - **Afiliado (`affiliate`):** `shein`
 - **Código (`coupon`) e o nome que a loja dá a ele:** `4CW5Y`, **código de indicação** (referral), com o termo de cada idioma
-  (`REFERRAL_TERM` do `test:review-i18n`). Nunca "cupom". Fora do PT, o texto diz que é da SHEIN Brasil.
+  (`REFERRAL_TERM` do `test:review-i18n`). Nunca "cupom". Em nenhum idioma o texto diz "SHEIN Brasil".
 - **Links internos para a página da loja (máx 3):** 2 planejados, `/cupons/shein` ou `/<locale>/coupons/shein`.
 - **CTA comissionado:** "Abrir a SHEIN" (texto sugerido), com o link do idioma (seção 10).
 - **Artigo relacionado:** `black-friday-shein` do mesmo idioma.
@@ -320,31 +333,31 @@ que a busca é o lugar certo e o campo de cupom o errado, o que abre depois, o q
 
 ## 12. Esqueleto previsto (direto, uma frase clara por fato; ressalva só quando muda a decisão)
 
-1. **Resposta rápida (3 frases):** pesquise o código na **busca** do aplicativo da SHEIN, não no campo de cupom; ele abre a
-   página de seleções da Cecília; a vantagem é a que a página mostrar, sem valor fixo.
-2. **Onde colocar o código de indicação da SHEIN:** 4 passos com M1 a M4 (abrir o app, tocar na busca, digitar `4CW5Y`,
-   abrir o resultado). Uma linha: "não vai no campo de cupom do carrinho" (M4).
-3. **O que abre e o que você ganha:** a página de seleções (M3); as ofertas são as que a SHEIN mostra nela; não há percentual
-   fixo; campanhas vigentes na página da loja (link 1). Uma frase sobre o dono do código: a Cecília recebe comissão (a nota
-   editorial cobre).
+1. **Resposta rápida (3 frases, 07/11/2026):** o código de indicação da SHEIN dá desconto, sim: use o link da
+   Cecília ou copie o 4CW5Y e pesquise na **busca** do aplicativo ou do site, e não no campo de cupom; abre uma página
+   especial com seleção de produtos, promoções e descontos; quanto e em quais peças, quem decide é a SHEIN.
+2. **Onde colocar o código de indicação da SHEIN:** 4 passos com M1 a M4 (abrir o app ou o site, tocar na busca, digitar
+   `4CW5Y`, abrir o resultado). Uma linha: "não use o código como cupom: ele vai na caixa de busca" (M4).
+3. **O que abre e o que você ganha:** a página de seleções (M3); o 4CW5Y dá desconto, sim, numa seleção de produtos com
+   promoções e descontos; quanto e em quais peças a SHEIN decide e varia; nunca percentual nem valor; campanhas vigentes na
+   página da loja (link 1). Uma frase sobre o dono do código: a Cecília recebe comissão (a nota editorial cobre).
 4. **Por que guias de 2024 e 2025 não valem mais:** o programa antigo terminou em 29/08/2024 e o cupom de R$ 10 acabou; hoje
-   o código só leva à página do afiliado. (**só PT**)
+   o código leva à página do afiliado, com as vantagens das campanhas que aparecem ali. (**só PT**)
 5. **Como ter o seu código:** pesquisar "afiliado" no app, validar uma rede social com o mínimo de seguidores, achar o código
    na página inicial de afiliados; não dá para personalizar e ele é fixo.
 6. **Perguntas frequentes:** itens abaixo.
 7. **Antes de pagar (2 linhas, opcional):** o código não substitui conferir o preço final no carrinho. Só se o espaço pedir.
 
-**FAQ literal (PT; as traduções levam os marcados com [T]):**
-1. Onde colocar o código de indicação da SHEIN? [T]
-2. Como usar o código de indicação da SHEIN? [T]
-3. Como funciona o código de indicação da SHEIN? [T]
-4. O código de indicação da SHEIN dá desconto? [T] (a vantagem é a da página; sem valor fixo)
-5. O código de indicação é a mesma coisa que cupom? [T] (não: a busca do app, não o campo de cupom)
-6. Como saber meu código de indicação da SHEIN? [T]
+**FAQ literal (PT; as 9 traduções levam os mesmos 9 itens):**
+1. Onde colocar o código de indicação da SHEIN?
+2. Como usar o código de indicação da SHEIN?
+3. Como funciona o código de indicação da SHEIN?
+4. O código de indicação da SHEIN dá desconto? (resposta modelo, 07/11/2026: "Dá, sim: o 4CW5Y abre uma página com seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN, e varia." Sem percentual, sem valor, sem "pode não ter desconto")
+5. O código de indicação é a mesma coisa que cupom? (não: a busca do app ou do site, não o campo de cupom)
+6. Como saber meu código de indicação da SHEIN?
 7. O código de indicação de 2024 ou 2025 ainda vale? (o programa antigo acabou em 29/08/2024; o `4CW5Y` é o código atual da Cecília)
-8. O 4CW5Y funciona fora do Brasil? [T] (a SHEIN não diz; é da SHEIN Brasil e pode não valer no seu país)
-9. Preciso criar uma conta nova para usar o código? (as ofertas só para novos usuários, quando há, aparecem marcadas na campanha)
-10. Dá para usar o código no computador? [T] **Só se M5 confirmar**; senão, "no aplicativo".
+8. Preciso criar uma conta nova para usar o código? (as ofertas só para novos usuários, quando há, aparecem marcadas na campanha)
+9. Dá para usar o código no computador? Dá: copiar o 4CW5Y e pesquisar no site da SHEIN, ou usar o link da Cecília; o guia mostra o site no celular (07/11/2026).
 
 Títulos de seção sem marcador de FAQ fora da seção de perguntas (lição 4 de `Licoes-Editoriais`).
 
@@ -370,14 +383,17 @@ Títulos de seção sem marcador de FAQ fora da seção de perguntas (lição 4 
   código abrir a curadoria dela, e refazer M3 no app. Até lá o guia não diz que o código abre "as seleções da Cecília"; diz só o que a
   SHEIN publica. O pop-up de novo usuário não entra no artigo (é campanha da loja e muda).
   - **Decisão (12/10/2026):** a lista de seleções fica para depois. O guia descreve o que a SHEIN publica e o que a busca mostra hoje, sem prometer a curadoria da Cecília.
+  - Regra de 07/11/2026: o guia afirma que o código dá desconto numa seleção de produtos e promoções, sem percentual nem
+    valor; "Acho que você pode gostar" é o registro datado (12/10) do que a busca abriu. Sem prometer a curadoria da Cecília.
 - **P3. Reconferir a FAQ de afiliados** (F1 e F2) na hora da redação: F1 é de 29/08/2024 e F2 não tem data; qualquer mudança
   no programa invalida a seção 4.
 - **P4. Decidir o `type`: RESOLVIDA em 12/10/2026 (decisão C).** Rótulo novo da seção 10 aprovado nos 10 idiomas; falta só a
   coluna na tabela do Job 4 (tarefa do Job 4).
-- **P5. Confirmar o escopo das 9 traduções menores** (6 seções, FAQ de 7), sabendo que ko/ja respondem só a metade da busca.
-  **RESOLVIDA em 12/10/2026 (decisão A):** as 9 traduções são o núcleo + o bloco "Brasil", conferidas linha a linha contra a
+- **P5. Confirmar o escopo das 9 traduções menores** (6 seções, FAQ de 9 itens), sabendo que ko/ja respondem só a metade da busca.
+  **RESOLVIDA em 12/10/2026 (decisão A):** as 9 traduções são o núcleo + os fatos do programa, sem aviso de país, conferidas linha a linha contra a
   matriz da seção 6; o risco de ko/ja (demanda é de convite de amigo) segue como está no "Resumo honesto" da seção 10.
-- **P6. Dizer se o código funciona na busca do site** no computador (M5). Sem isso, nada de "no computador".
+- **P6. Código na busca do site, no computador (M5): RESOLVIDA em 07/11/2026.** O guia diz "no aplicativo ou no site" e a FAQ
+  "Dá para usar no computador?" responde que dá (#716 a #720), sem precisar do M5.
 - **P7. Aprovar a frase de divergência da loja** (sem o aviso "não vai no campo de cupom"): só se quiser, em outra sessão.
 
 **Do vault / Job 2 a 5:**
@@ -385,7 +401,7 @@ Títulos de seção sem marcador de FAQ fora da seção de perguntas (lição 4 
   seção 3 do dossiê `01_Parceiros/SHEIN.md` (nesta tarefa não editei nenhum outro arquivo) e a coluna do `type` ao Job 4 (rótulos aprovados, P4).
 - **P9.** Depois do ar: um link do guia de Black Friday da SHEIN (seção "Cupons, pontos e o código 4CW5Y") para este guia, nos
   10 idiomas; é edição de artigo publicado e pede o OK do Bruno.
-- **P10.** Releitura nativa: a regra "cupom" só como negação, o termo de cada idioma e o aviso de SHEIN Brasil em cada versão.
+- **P10.** Releitura nativa: a regra "cupom" só como negação, o termo de cada idioma e a ausência de "SHEIN Brasil" em cada versão.
 
 **Bloqueio de pesquisa (para o Bruno saber):** ao ler a FAQ de afiliados, minha busca automática em `m.shein.com/{de,es,fr,it}/ark/6424`
 caiu numa **verificação de robô** (captcha). Parei ali. Essas quatro lojas, mais MX e TW, **não foram lidas**; JA, KO, EUA, Reino
@@ -405,30 +421,32 @@ Unido e Brasil foram. Não precisa resolver: o texto é o mesmo artigo global. R
 ## Redação
 Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e conformado no Job 4. Pronto para deploy.
 
-**PT (`codigo-de-indicacao-shein`, id 365, `type` Guia do Código de Indicação):** resposta rápida; onde colocar (4 passos e as telas M1 a M3); o que aparece e o que você ganha (link para `/cupons/shein`; a regra das 24 horas); por que os guias antigos, com o cupom de R$ 10, não valem mais; como ter o seu código; FAQ com 10 itens.
+**PT (`codigo-de-indicacao-shein`, id 365, `type` Guia do Código de Indicação):** resposta rápida; onde colocar (4 passos e as telas M1 a M3); o que aparece e o que você ganha (link para `/cupons/shein`; a regra das 24 horas); por que os guias antigos, com o cupom de R$ 10, não valem mais; como ter o seu código; FAQ com 9 itens.
 
 **Job 3 (12/10/2026), ajustes aplicados:** atribuição de cada regra à página da SHEIN; sem "mesmo preço"; sem afirmar campo de cupom no carrinho; "no celular"; alts fiéis às telas; título da seção e itens do FAQ.
 
-**Traduções (Job 4):** ids 366 a 374, menores que o PT: sem o programa antigo e o R$ 10, FAQ com 8 itens, o 4CW5Y como código da SHEIN Brasil que pode não valer no país do leitor. fr abre dizendo que não há valor fixo nem prêmio em euros; ko e ja dizem que o guia não cobre convite de amigo.
+**Traduções (Job 4):** ids 366 a 374, com a seção do programa antigo mais curta (sem o R$ 10), FAQ com os mesmos 9 itens do PT, o 4CW5Y como código da SHEIN, sem aviso de país. fr abre dizendo que dá desconto, sim, e que o montante e as peças a SHEIN decide, sem prêmio em euros.
 
 **Releitura (item 10 do Job 4), 12/10/2026, por outro agente:**
 - en: "screenshots"; "4CW5Y" sem artigo; "search for"; a frase das 24 horas reordenada.
 - es: "el cuadro de búsqueda" (gênero); "4CW5Y" sem artigo; "dentro de las 24 horas siguientes"; "artículos".
 - fr: "ne donne pas droit à une prime en euros"; "SHEIN demande"; "appuyez sur"; o `editorialNote` com "sur les achats".
-- de: "Screenshots"; "Laut SHEIN geben Sie den Code … ein"; "Hat der Affiliate…"; "Nach den Regeln des Affiliate-Programms von SHEIN Brasilien"; o CTA com "eingeben".
+- de: "Screenshots"; "Laut SHEIN geben Sie den Code … ein"; "Hat der Affiliate…"; o CTA com "eingeben".
 - it: "guida passo passo"; "va digitato"; "l'affiliato"; o CTA com "digita".
-- ko: "입력하는 것"; o sujeito "어필리에이트"; "SHEIN 브라질에서".
+- ko: "입력하는 것"; o sujeito "어필리에이트".
 - ja: "アフィリエイト参加者"; frase longa dividida.
 - zh-hant e zh-hans: "要在哪裡輸入/要在哪里输入"; "截圖".
 - Aspas na frase da FAQ de afiliados ("não como um cupom"): ficam só em pt, en e ko, cujas páginas foram lidas com o texto registrado (F2). Em es, fr, de, it, ja e zh a frase segue sem aspas, como paráfrase.
 
-**Imagens (no CDN desde 12/10/2026, com o OK do Bruno):** `codigo-de-indicacao-shein-busca-capa.webp` (capa, composição nossa com as telas); `shein-busca-site-movel-antes.webp`, `shein-busca-4cw5y.webp` e `shein-busca-4cw5y-resultado.webp` (M1 a M3): quadros da gravação do site móvel da SHEIN Brasil, sem teclado, recortados para tirar a camiseta com slogan político. A foto do carrinho (M4) não se publica.
+**Imagens (no CDN desde 12/10/2026, com o OK do Bruno):** `codigo-de-indicacao-shein-busca-capa.webp` (capa, composição nossa com as telas); `shein-busca-site-movel-antes.webp`, `shein-busca-4cw5y.webp` e `shein-busca-4cw5y-resultado.webp` (M1 a M3): quadros da gravação do site móvel da SHEIN, sem teclado, recortados para tirar a camiseta com slogan político. A foto do carrinho (M4) não se publica.
 
 **Gates (12/10/2026):** typecheck, eslint, `test:review-i18n` (10 famílias, as três da fase 4 inclusas), `validate:video`, `test-delivery-integration` e os testes de mídia verdes. O `validate:content` só acusa a oferta vencida da YesStyle (1010VIBES), que espera o PR do Bruno; a build completa e as provas de entrega rodam depois dele.
 
-## Correção: sem "SHEIN Brasil" (04/11/2026)
-Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. Seis trocas no PT:
-- As telas do passo a passo (o parágrafo, a legenda do passo 1 e os três alts) dizem "site da SHEIN", "Barra de busca da SHEIN" e "Página da SHEIN".
-- O FAQ "O 4CW5Y funciona fora do Brasil?" respondia "A SHEIN não diz. O código é da SHEIN Brasil e pode não valer na SHEIN de outro país.", o que a regra desmente. Decisão do Bruno (04/11): responder por ela, com "Sim. O código de indicação é da SHEIN, sem país: a SHEIN leva cada pessoa à loja da região dela." A pergunta só existe no PT; as traduções têm 9 itens no FAQ.
+## Regra: sem "SHEIN Brasil" (Bruno, 02/11/2026, #493; PT em 04/11, #566)
+Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. No PT, as telas do passo a passo (o parágrafo, a legenda do passo 1 e os três alts) dizem "site da SHEIN", "Barra de busca da SHEIN" e "Página da SHEIN". O código de indicação vale em qualquer idioma, porque a SHEIN leva cada pessoa à loja da região dela, e por isso o guia não tem pergunta nem aviso sobre país: o FAQ tem 9 itens em todas as versões.
 
-As 9 traduções já estavam sem o termo desde o #493 e não mudaram. O registro das traduções (Job 4) e o das imagens, acima, ainda dizem "SHEIN Brasil"; vale a regra. PR #566.
+## Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
+No ar pelos PRs #716 a #720 (página da loja, SHEIN fora do PT, 90 artigos da SHEIN, dock e /faqs, card da SHEIN, nos 10 idiomas). Este guia sai nessa redação nos 10 idiomas (conferido contra `content/reviews/codigo-de-indicacao-shein.json` e as versões em en e es).
+- **Regra:** o 4CW5Y continua sendo código de indicação, não cupom de checkout, não soma com nada e nunca se cola no checkout. Pesquisado na busca do app ou do site, ou aberto pelo link do botão, leva a uma página da SHEIN com uma seleção de produtos, promoções e descontos. **Dá desconto, sim**; só o quanto e em quais peças ficam com a SHEIN.
+- **Nunca:** percentual ou valor; desconto garantido em toda compra; "pode não ter desconto"; "só no app" ou "apenas no aplicativo"; "SHEIN Brasil".
+- **No artigo no ar:** subtítulo e `metaDescription` com "dá desconto, sim"; resposta rápida, seção "O que aparece depois da pesquisa e o que você ganha" e o FAQ "dá desconto?" afirmam o desconto; passo a passo e FAQ de computador dizem "aplicativo ou site". `seoTitle` e H1 não dizem desconto nem o código.

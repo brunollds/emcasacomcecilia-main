@@ -72,7 +72,7 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - Sem data. O ano da Black Friday ("Black Friday Skelt 2026") pode ficar; o dia e o mês, não.
 - Sem R$. A única exceção é a Dolce Gusto: "a partir de R$ 100".
 - Não abrir com "Cupom <loja>". Alternar as aberturas: "O cupom X dá 10% OFF…", "Com o X, 10% OFF…" ou a pergunta do título seguida do código.
-- Por loja: Probiótica e Max Titanium, "até 10%"; YesStyle, "até 5%", e o CECILIA010 é código de recompensa, nunca "cupom", sem "outros cupons" na mesma frase; SHEIN, "pesquise 4CW5Y no app", sem % e nunca "SHEIN Brasil"; Insider, nada de promessa em lançamento; Nutre, nunca fórmula infantil de 0 a 12 meses; MAUAD, só o código, sem explicar o nome.
+- Por loja: Probiótica e Max Titanium, "até 10%"; YesStyle, "até 5%", e o CECILIA010 é código de recompensa, nunca "cupom", sem "outros cupons" na mesma frase; SHEIN, o 4CW5Y dá desconto, sim (pelo link ou pesquisando o código no app ou no site, abre uma seleção com promoções e descontos; quanto e em quais peças, quem decide é a SHEIN), sem % e valor, sem "só no app" e nunca "SHEIN Brasil"; Insider, nada de promessa em lançamento; Nutre, nunca fórmula infantil de 0 a 12 meses; MAUAD, só o código, sem explicar o nome.
 - Ficam fora da regra: a Magalu inteira, o artigo de domínio da Hostinger (o SONAR20 não vale em domínio) e os artigos sem código que valha no produto (ex.: `le-creuset-original-como-saber`, `shein-reclame-aqui-nota-reputacao`).
 - O `validate:content` confere a regra no build (Job 5).
 
