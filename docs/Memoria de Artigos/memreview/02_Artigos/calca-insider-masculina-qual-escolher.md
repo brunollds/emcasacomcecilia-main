@@ -91,3 +91,7 @@ Dor 20/25, demanda 17/20, valor além do oficial 15/20, visita 11/15, cluster 9/
 - **FutureForm:** o carrinho testou a cor de R$ 454 (R$ 385,90); a de R$ 449 é conta, e o quadro diz isso.
 - **Hybrid:** a página traz o aviso de "não acumula", e o cupom entrou. O aviso aparece uma vez.
 - **Cuidado da Director:** só ela traz a "peça delicada", na descrição completa do produto.
+
+## 9. Card de estilo
+
+Incluído em 08/11/2026, depois de no ar: o Job 1 e o Anexo-Moda já pediam o card, e o briefing não o propôs. Rascunho e verificação por agentes, revisão da sessão. Os links e as fotos do artigo não mudaram.

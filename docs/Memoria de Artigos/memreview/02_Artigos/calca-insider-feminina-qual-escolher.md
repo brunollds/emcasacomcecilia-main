@@ -96,3 +96,7 @@ Dor 20/25, demanda 17/20, valor além do oficial 15/20, visita 11/15, cluster 9/
 - **Reta Ajustável:** indisponível na consulta; fora do quadro, com seção curta e sem preço.
 - **Versão só XGG:** `calca-tecnologica-feminina-futureform®-xgg`, R$ 299, R$ 254,15 no carrinho, com a mesma descrição da principal. Entrou no quadro.
 - **Correção do briefing:** "modelo de calça pantalona" está na descrição da Wide Leg antiga (`calca-wide-leg-xgg`), não na UltraBold. O texto não atribui o termo à UltraBold.
+
+## 9. Card de estilo
+
+Incluído em 08/11/2026, depois de no ar: o Job 1 e o Anexo-Moda já pediam o card, e o briefing não o propôs. Rascunho e verificação por agentes, revisão da sessão. Os links e as fotos do artigo não mudaram.

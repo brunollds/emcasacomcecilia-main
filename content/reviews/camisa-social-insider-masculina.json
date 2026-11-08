@@ -90,6 +90,31 @@
         "caption": "O caimento visto de costas. Foto: Insider.",
         "objectFit": "square",
         "href": "https://creators.insiderstore.com.br/gbv5j9U"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Camisa FutureForm masculina",
+            "url": "https://creators.insiderstore.com.br/gbv5j9U",
+            "howTo": "Use com camiseta por baixo, para o visual social casual. Deixe a barra por fora da calça, como nas fotos da loja.",
+            "occasion": "Trabalho sem formalidade e fim de semana.",
+            "pairsWith": [
+              {
+                "label": "Calça FutureForm masculina",
+                "url": "https://creators.insiderstore.com.br/BnhNLQr"
+              },
+              {
+                "label": "Calça Director",
+                "url": "https://creators.insiderstore.com.br/tyUZiw9",
+                "note": "A de passantes para cinto."
+              },
+              {
+                "label": "chino bege"
+              }
+            ]
+          }
+        ]
       }
     },
     {

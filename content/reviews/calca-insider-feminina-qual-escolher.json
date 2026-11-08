@@ -105,7 +105,31 @@
           "objectFit": "square",
           "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Calça Tecnológica FutureForm",
+            "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "howTo": "Com a barra afunilada, use tênis ou sapatilha. Com cintura alta, a blusa pode ficar por dentro.",
+            "occasion": "Dias quentes, como indica a loja.",
+            "pairsWith": [
+              {
+                "label": "Camisa FutureForm feminina",
+                "url": "https://creators.insiderstore.com.br/gWrsRGL"
+              },
+              {
+                "label": "Tech T-Shirt feminina",
+                "url": "https://creators.insiderstore.com.br/52ZMYx2"
+              },
+              {
+                "label": "regata clara lisa"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Calça Wide Leg UltraBold: a opção de pernas amplas",
@@ -128,7 +152,27 @@
           "objectFit": "square",
           "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-wide-leg-com-bolso-ultrabold-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Calça Wide Leg UltraBold",
+            "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-wide-leg-com-bolso-ultrabold-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "howTo": "Com a perna larga, use tênis ou sapatilha. A blusa pode ficar por dentro do cós elástico.",
+            "occasion": "Dias amenos e frios, como indica a loja.",
+            "pairsWith": [
+              {
+                "label": "Tech T-Shirt Manga Longa feminina",
+                "url": "https://creators.insiderstore.com.br/TQxS7si"
+              },
+              {
+                "label": "suéter leve de cor neutra"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "E a Reta Ajustável FutureForm?",
