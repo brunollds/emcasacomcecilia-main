@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { getCouponBySlug } from '@/lib/couponsData';
+import { getCouponHubPath } from '@/lib/couponHub';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage } from '@/lib/pageSeo';
 import {
   getYesStyleLocaleConfig,
@@ -84,8 +85,8 @@ export interface BreadcrumbItemSpec {
   item: string;
 }
 
-// Helper puro exportado para construção e teste estrito dos breadcrumbs: 3 níveis em PT; nos internacionais,
-// 2 níveis, da home do idioma (/en, /ja…) à página.
+// Helper puro exportado para construção e teste estrito dos breadcrumbs: 3 níveis em todo idioma, da home
+// (/en, /ja… fora do PT) pelo hub de cupons até a página da YesStyle.
 export function getYesStyleBreadcrumbItems(
   locale: Locale,
   canonicalUrl: string,
@@ -101,6 +102,7 @@ export function getYesStyleBreadcrumbItems(
   }
   return [
     { name: homeLabel, item: `https://emcasacomcecilia.com${getShellHomeHref(locale)}` },
+    { name: couponsLabel, item: `https://emcasacomcecilia.com${getCouponHubPath(locale)}` },
     { name: 'YesStyle', item: canonicalUrl },
   ];
 }

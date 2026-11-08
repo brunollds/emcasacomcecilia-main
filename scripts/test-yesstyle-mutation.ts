@@ -192,12 +192,13 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         if (breadcrumbItems[1]?.item !== 'https://emcasacomcecilia.com/cupons') errors.push('Breadcrumb PT nível 2 incorreto');
         if (breadcrumbItems[2]?.item !== 'https://emcasacomcecilia.com/cupons/yesstyle') errors.push('Breadcrumb PT nível 3 incorreto');
       } else {
-        if (breadcrumbItems.length !== 2) {
-          errors.push(`Breadcrumb internacional "${locale}" esperado 2 níveis, obteve ${breadcrumbItems.length}`);
+        if (breadcrumbItems.length !== 3) {
+          errors.push(`Breadcrumb internacional "${locale}" esperado 3 níveis, obteve ${breadcrumbItems.length}`);
         }
         if (breadcrumbItems[0]?.item !== `https://emcasacomcecilia.com/${locale}`) errors.push(`Breadcrumb "${locale}" nível 1 incorreto`);
-        if (breadcrumbItems[1]?.item !== expectedCanonical) errors.push(`Breadcrumb "${locale}" nível 2 incorreto`);
-        if (breadcrumbItems.some((b) => b.item.includes('/cupons'))) {
+        if (breadcrumbItems[1]?.item !== `https://emcasacomcecilia.com/${locale}/coupons`) errors.push(`Breadcrumb "${locale}" nível 2 (hub) incorreto`);
+        if (breadcrumbItems[2]?.item !== expectedCanonical) errors.push(`Breadcrumb "${locale}" nível 3 incorreto`);
+        if (breadcrumbItems.some((b) => b.item.startsWith('https://emcasacomcecilia.com/cupons'))) {
           errors.push(`Breadcrumb internacional "${locale}" contém vazamento indevido para "/cupons" em PT!`);
         }
       }

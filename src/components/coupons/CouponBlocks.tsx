@@ -228,6 +228,21 @@ export function SectionHeading({ id, children }: { id?: string; children: React.
   );
 }
 
+// Título das prateleiras do hub (/cupons e /<locale>/coupons), com o traço que corre até a borda.
+export function ShelfHeading({ id, children }: { id: string; children: React.ReactNode }) {
+  return (
+    <div className="flex items-center gap-2.5">
+      <h2
+        id={id}
+        className="font-condensada text-[28px] font-black leading-7 font-stretch-extra-condensed md:text-[32px] md:leading-8"
+      >
+        {children}
+      </h2>
+      <span aria-hidden="true" className="h-0.5 flex-1 bg-marinho" />
+    </div>
+  );
+}
+
 // A marca vai no rastreio do link do Mercado Livre; a YesStyle, sem esse link, não passa.
 export function CouponFaq({ items, brand }: { items: CouponFAQ[]; brand?: string }) {
   return (

@@ -26,6 +26,7 @@ import {
   getCouponStorePath,
   getLocalizedCoupon,
   getTranslatedCouponRoutes,
+  TRANSLATED_LOCALES,
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes, type Review } from '../src/lib/data';
 import { isFaqHeading } from '../src/lib/faq';
@@ -46,6 +47,8 @@ import {
   getLocaleHomeStores,
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
+import { PT_COUPON_HUB_TEXT } from '../src/components/coupons/couponHubCopy';
+import { getCouponHubEntries, getCouponHubPath } from '../src/lib/couponHub';
 import { splitInlineMarkdown } from '../src/lib/inlineMarkdown';
 import { REVIEW_HUB_LOCALES, getInternationalReviewHub, getPublishedReviewsForLocale } from '../src/lib/review-hubs';
 import { pickRelatedReviews } from '../src/lib/relatedReviews';
@@ -817,10 +820,10 @@ for (const { locale, hubPath, htmlLang, openGraphLocale } of yesStyleHubs) {
   const schemaOf = (type: string) => schemas.find((schema) => schema['@type'] === type);
   assert.equal(schemaOf('WebPage').inLanguage, htmlLang, `${hubPath}: inLanguage do JSON-LD`);
 
-  // A trilha e as perguntas do JSON-LD são as que aparecem na página, na mesma ordem. Em português
-  // a trilha passa por /cupons; os outros idiomas não têm página de cupons e vão da home à loja.
+  // A trilha e as perguntas do JSON-LD são as que aparecem na página, na mesma ordem. Em todo idioma a
+  // trilha passa pelo hub de cupons (/cupons ou /<locale>/coupons) antes da YesStyle.
   const visibleCrumbs = visibleTrailOf(main, hubPath);
-  assert.equal(visibleCrumbs.length, locale === 'pt' ? 3 : 2, `${hubPath}: ${visibleCrumbs.length} níveis na trilha`);
+  assert.equal(visibleCrumbs.length, 3, `${hubPath}: ${visibleCrumbs.length} níveis na trilha`);
   assert.deepEqual(
     schemaTrailOf(schemaOf('BreadcrumbList')),
     visibleCrumbs,
@@ -4062,6 +4065,43 @@ const cardsIn = (section: string) => {
   return row ? String((row.match(/<li[\s>]/g) ?? []).length) : 'ausentes';
 };
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
+
+// O hub de cada idioma (/<locale>/coupons) e o /cupons: canonical e hreflang, os cartões no endereço do idioma,
+// a ItemList igual aos cartões, e nenhum português nem "cupom" para o código da YesStyle fora do PT.
+const PT_HUB_WORDS = [PT_COUPON_HUB_TEXT.title, PT_COUPON_HUB_TEXT.lead, PT_COUPON_HUB_TEXT.featuredTitle, PT_COUPON_HUB_TEXT.faqTitle, 'Sem código', 'Outras lojas', 'Cupons válidos', 'Brasil'];
+const couponHubPages = [{ file: 'cupons', locale: 'pt' as Locale }, ...TRANSLATED_LOCALES.map((locale) => ({ file: `${locale}/coupons`, locale }))];
+for (const { file, locale } of couponHubPages) {
+  const page = path.join(APP_DIR, `${file}.html`);
+  assert.ok(fs.existsSync(page), `${file}: página do hub não gerada`);
+  const html = read(page);
+  const head = headOf(html);
+  const hubPath = getCouponHubPath(locale);
+  assert.ok(head.includes(`rel="canonical" href="${SITE_URL}${hubPath}"`), `${file}: canonical do hub diferente de ${hubPath}`);
+  assert.ok(/hreflang="x-default"/i.test(head), `${file}: sem x-default no hub`);
+  const alternates = [...head.matchAll(/hreflang="([^"]+)"/gi)].length;
+  assert.equal(alternates, LOCALE_KEYS.length + 1, `${file}: hreflang dos 10 idiomas mais x-default`);
+
+  const itemList = jsonLdOf(html).find((schema) => schema['@type'] === 'ItemList');
+  const expectedUrls = (locale === 'pt' ? [] : getCouponHubEntries(locale)).map((entry) => `${SITE_URL}${entry.href}`);
+  if (locale !== 'pt') {
+    assert.deepEqual(
+      itemList?.itemListElement.map((item: { url: string }) => item.url),
+      expectedUrls,
+      `${file}: ItemList do hub diferente dos cartões`
+    );
+    for (const href of expectedUrls) {
+      assert.ok(html.includes(`href="${href.replace(SITE_URL, '')}"`), `${file}: cartão sem link para ${href}`);
+    }
+    const visible = textOf(bodyOf(html));
+    for (const word of PT_HUB_WORDS) {
+      assert.ok(!visible.includes(word), `${file}: texto em português no hub (“${word}”)`);
+    }
+    // O código da YesStyle é de recompensa: o nome do cartão e o botão nunca o chamam de cupom.
+    const yesCard = html.match(/<article[^>]*aria-label="([^"]*YesStyle)"/)?.[1] ?? '';
+    assert.ok(yesCard, `${file}: cartão da YesStyle ausente`);
+    assert.ok(!/cupom|coupon|cupón|gutschein|buono|쿠폰|クーポン|優惠碼|优惠码|bon /i.test(yesCard), `${file}: o nome do cartão da YesStyle chama o código de cupom`);
+  }
+}
 
 console.log(
   `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`

@@ -12,11 +12,41 @@ import { BrandWatermark, DiscountFigure, asSentence, parseDiscount } from './Cou
 const otherCodeSize = (code: string) =>
   code.length <= 10 ? 'text-sm' : code.length <= 13 ? 'text-[13px]' : 'text-xs';
 
+// Os textos do cartão que mudam de idioma. O PT é o padrão; /<locale>/coupons passa os seus (couponHub.ts).
+export type CouponCardLabels = {
+  offerPlural: string;
+  couponType: string;
+  copy: string;
+  copied: string;
+  copyCodeAria: (code: string, brand: string) => string;
+  noCode: string;
+  viewOffer: string;
+  chooseTier: string;
+  tiersNote: (tiers: { discount: string; minPurchase: string }[]) => ReactNode;
+};
+
+const PT_CARD_LABELS: CouponCardLabels = {
+  offerPlural: 'Ofertas',
+  couponType: 'cupom',
+  copy: 'Copiar',
+  copied: 'Copiado',
+  copyCodeAria: (code, brand) => `Copiar o código ${code} da ${brand}`,
+  noCode: 'Sem código: a oferta vem pelo link.',
+  viewOffer: 'Ver oferta',
+  chooseTier: 'Escolher minha faixa',
+  tiersNote: (tiers) => (
+    <>
+      {tiers.length} códigos, de <span className="whitespace-nowrap">{tiers[0].discount}</span> a{' '}
+      <span className="whitespace-nowrap">{tiers[tiers.length - 1].discount}</span>, um para cada faixa de valor.
+    </>
+  ),
+};
+
 // Nome do card para leitor de tela; a ItemList de /cupons usa o mesmo nome nas lojas com código.
 // O offerTypeLabel diz o que é o código: o CECILIA010 da YesStyle é código de recompensa.
-export function couponCardName(coupon: Coupon) {
-  if (coupon.offerMode === 'affiliate-link') return `Ofertas ${coupon.brand}`;
-  const type = coupon.offerTypeLabel ?? 'cupom';
+export function couponCardName(coupon: Coupon, labels: CouponCardLabels = PT_CARD_LABELS) {
+  if (coupon.offerMode === 'affiliate-link') return `${labels.offerPlural} ${coupon.brand}`;
+  const type = coupon.offerTypeLabel ?? labels.couponType;
   return `${type.charAt(0).toUpperCase()}${type.slice(1)} ${coupon.brand}`;
 }
 
@@ -211,12 +241,17 @@ export function HubCouponCard({
   variant,
   className = '',
   stampOrder,
+  href = `/cupons/${coupon.slug}`,
+  labels = PT_CARD_LABELS,
 }: {
   coupon: Coupon;
   variant: HubCardVariant;
   className?: string;
   // A posição nos Destaques: só eles carimbam ao abrir a página.
   stampOrder?: number;
+  // Página da loja no idioma do hub; sem ele, a do PT.
+  href?: string;
+  labels?: CouponCardLabels;
 }) {
   const v = HUB_CARDS[variant];
   const featured = variant === 'lead' || variant === 'featured';
@@ -234,7 +269,7 @@ export function HubCouponCard({
 
   return (
     <article
-      aria-label={couponCardName(coupon)}
+      aria-label={couponCardName(coupon, labels)}
       className={`relative isolate flex flex-col overflow-hidden border-marinho bg-white ${v.article} ${className}`}
     >
       <BrandWatermark
@@ -244,7 +279,7 @@ export function HubCouponCard({
         className={v.watermark}
       />
       <Link
-        href={`/cupons/${coupon.slug}`}
+        href={href}
         className="group/card flex flex-1 flex-col text-marinho focus-visible:outline-3 focus-visible:-outline-offset-6 focus-visible:outline-marinho"
       >
         <div className={`border-b-2 border-marinho ${v.price}`}>
@@ -285,39 +320,36 @@ export function HubCouponCard({
               code={code}
               brand={coupon.brand}
               placement={placement}
-              ariaLabel={`Copiar o código ${code} da ${coupon.brand}`}
+              ariaLabel={labels.copyCodeAria(code, coupon.brand)}
               className={`${HUB_ACTION} ${v.action}`}
               copiedChildren={
                 <>
                   <Check aria-hidden="true" className="h-[18px] w-[18px]" />
-                  Copiado
+                  {labels.copied}
                 </>
               }
             >
               <Copy aria-hidden="true" className="h-[18px] w-[18px]" />
-              Copiar
+              {labels.copy}
             </CopyCodeButton>
           </>
         ) : tiers ? (
           <>
-            <p className="text-[13px] font-semibold leading-[19px]">
-              {tiers.length} códigos, de <span className="whitespace-nowrap">{tiers[0].discount}</span> a{' '}
-              <span className="whitespace-nowrap">{tiers[tiers.length - 1].discount}</span>, um para cada faixa de valor.
-            </p>
-            <Link href={`/cupons/${coupon.slug}#faixas-de-desconto`} className={`${HUB_ACTION} ${v.action}`}>
-              Escolher minha faixa
+            <p className="text-[13px] font-semibold leading-[19px]">{labels.tiersNote(tiers)}</p>
+            <Link href={`${href}#faixas-de-desconto`} className={`${HUB_ACTION} ${v.action}`}>
+              {labels.chooseTier}
             </Link>
           </>
         ) : (
           <>
-            <p className="text-[13px] font-bold leading-[18px]">Sem código: a oferta vem pelo link.</p>
+            <p className="text-[13px] font-bold leading-[18px]">{labels.noCode}</p>
             <CouponStoreLink
               href={coupon.offerUrl}
               brand={coupon.brand}
               placement={placement}
               className={`${HUB_ACTION} ${v.action}`}
             >
-              {coupon.offerActionLabel || 'Ver oferta'}
+              {coupon.offerActionLabel || labels.viewOffer}
               <ExternalLink aria-hidden="true" className="h-4 w-4 shrink-0" />
             </CouponStoreLink>
           </>
