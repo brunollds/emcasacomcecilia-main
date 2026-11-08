@@ -14,11 +14,6 @@ export type HomeRoutePlacement =
   | 'home_latest'
   | 'home_event'
   | 'event_hub'
-  | 'locale_home_hero'
-  | 'locale_home_stores'
-  | 'locale_home_articles'
-  | 'locale_home_faq'
-  | 'locale_home_follow'
   | 'not_found'
   | 'about';
 

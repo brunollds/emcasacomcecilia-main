@@ -1,46 +1,42 @@
-import { getYesStylePage } from '@/components/coupons/yesstyleCopy';
-import { getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
-import type { CeciliaPhotoCopy, SocialName } from '@/components/sections/CeciliaProfile';
+import { COUPON_HUB_COPY } from '@/components/coupons/couponHubCopy';
+import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
+import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
+import type { CeciliaPanelCopy } from '@/components/sections/HomeCeciliaPanel';
+import { getHomeCopy } from '@/components/sections/homeCopy';
 import { fillTemplate, getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
-import { brandLinks } from '@/lib/brandLinks';
 import { cardImageFit } from '@/lib/cardImage';
+import { getCouponHubEntries, type CouponHubEntry } from '@/lib/couponHub';
 import {
+  CECILIA_COUNTRY,
   CECILIA_FULL_NAME,
+  CECILIA_PERSON_ID,
+  CECILIA_REGION,
   CECILIA_SINCE,
   YESSTYLE_CERTIFICATE,
   getCertificateYears,
 } from '@/lib/ceciliaCredentials';
+import { brandLinks } from '@/lib/brandLinks';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
-import { getCouponBySlug, getStoreCodeKind, type Coupon } from '@/lib/couponsData';
-import {
-  TRANSLATED_LOCALES,
-  getCouponStorePath,
-  getLocalizedCoupon,
-  getTranslatedCouponRoutes,
-  type TranslatedLocale,
-} from '@/lib/couponTranslations';
-import { CECILIA_PHOTO, getCeciliaSocialStats, getStoreCode, type HomeLatestArticle } from '@/lib/homeStores';
+import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
+import { TRANSLATED_LOCALES } from '@/lib/couponTranslations';
+import { CECILIA_PHOTO, getStoreCode, newestArticleRank, type HomeLatestArticle } from '@/lib/homeStores';
+import type { HomeStoreArticle, HomeStoreTab } from '@/lib/homeStoreTabs';
 import { LOCALES } from '@/lib/i18n/locales';
 import { SITE_URL, absoluteUrl } from '@/lib/pageSeo';
-import { getPublishedReviewsForLocale, getReviewHubCopy, getReviewHubPath } from '@/lib/review-hubs';
+import { getPublishedReviewsForLocale, getReviewHubPath } from '@/lib/review-hubs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
-// A home de cada idioma fora do português (/en, /ja…): quem é a Cecília, as lojas parceiras com página
-// no idioma, os artigos do idioma, "É seguro?", perguntas frequentes e as redes. Sai daqui montada e
-// traduzida; os componentes só desenham. Quem chama é o servidor: nada daqui vai para o cliente.
+// A home de cada idioma fora do português (/en, /ja…): o mesmo desenho da home em português (vitrine com a
+// Cecília e as lojas, e "Acabou de sair"), com os textos e os artigos do idioma. Quem monta é o servidor:
+// o que vai para o cliente são só as props da vitrine.
 
-export type LocaleHomeLocale = TranslatedLocale;
+export type LocaleHomeLocale = (typeof TRANSLATED_LOCALES)[number];
 export const LOCALE_HOME_LOCALES: LocaleHomeLocale[] = TRANSLATED_LOCALES;
 
-const ARTICLE_LIMIT = 6;
-const HERO_NETWORKS: readonly SocialName[] = ['Instagram', 'TikTok', 'YouTube'];
-const FOLLOW_NETWORKS: readonly SocialName[] = ['Instagram', 'TikTok', 'YouTube', 'Facebook'];
-const NETWORK_URL: Record<SocialName, string> = {
-  Instagram: brandLinks.instagram,
-  TikTok: brandLinks.tiktok,
-  YouTube: brandLinks.youtube,
-  Facebook: brandLinks.facebook,
-};
+const LATEST_LIMIT = 5;
+const VISIBLE_ARTICLES = 6;
+// As redes do perfil: o mesmo perfil nas quatro; o painel mostra as três primeiras e o Person leva as quatro.
+const SAME_AS_NETWORKS = [brandLinks.instagram, brandLinks.tiktok, brandLinks.youtube, brandLinks.facebook];
 
 export function getLocaleHomePath(locale: LocaleHomeLocale): string {
   return `/${locale}`;
@@ -57,46 +53,16 @@ export function getHomeLanguageLinks(): Record<string, string> {
   return languages;
 }
 
-export type LocaleHomeStore = {
-  slug: string;
-  brand: string;
-  logo?: string;
-  initials: string;
-  category: string;
-  code?: string;
-  codeLabel?: string;
-  href: string;
-};
+export type LocaleHomeStore = { slug: string; brand: string; code?: string; href: string };
 
-function toHomeStore(store: Coupon, category: string, locale: LocaleHomeLocale): LocaleHomeStore {
-  const code = getStoreCode(store);
-  return {
-    slug: store.slug,
-    brand: store.brand,
-    logo: store.brandLogo ? resolveMediaUrl(store.brandLogo) : undefined,
-    initials: store.brandIcon,
-    category,
-    code,
-    codeLabel: code ? getCodeTitle(getSidebarCopy(locale), getStoreCodeKind(store, code), store.brand) : undefined,
-    href: getCouponStorePath(store.slug, locale),
-  };
-}
-
-// A YesStyle primeiro, depois as lojas de couponTranslations.ts com loja ativa, na ordem de lá. Loja que
-// ganha página traduzida entra sozinha; loja pausada sai.
+// As lojas do hub do idioma, na ordem dele (a YesStyle primeiro). Quem usa é o FAQ, que lista os nomes.
 export function getLocaleHomeStores(locale: LocaleHomeLocale): LocaleHomeStore[] {
-  const stores: LocaleHomeStore[] = [];
-  const yesStyle = getCouponBySlug('yesstyle');
-  const yesStylePage = getYesStylePage(locale);
-  if (yesStyle && yesStylePage) stores.push(toHomeStore(yesStyle, yesStylePage.category, locale));
-
-  for (const slug of new Set(getTranslatedCouponRoutes().map((route) => route.slug))) {
-    // A YesStyle já entrou primeiro, pelas páginas estáticas dela: se um dia constar aqui, não repete.
-    if (slug === 'yesstyle') continue;
-    const coupon = getLocalizedCoupon(slug, locale);
-    if (coupon) stores.push(toHomeStore(coupon, coupon.category, locale));
-  }
-  return stores;
+  return getCouponHubEntries(locale).map(({ coupon, href }) => ({
+    slug: coupon.slug,
+    brand: coupon.brand,
+    code: getStoreCode(coupon),
+    href,
+  }));
 }
 
 // Os marcadores {name}, {since}, {email} e {stores} dos textos do idioma (a home e o /faq).
@@ -113,49 +79,87 @@ export function getLocaleHomeFacts(locale: LocaleHomeLocale, stores: LocaleHomeS
 
 type HubReviews = Parameters<typeof getPublishedReviewsForLocale>[1];
 
-type LocaleHomeFaqItem = { question: string; answer: string; links?: Array<{ label: string; href: string }> };
-
-export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubReviews) {
-  const copy = getLocaleHomeCopy(locale);
-  const { htmlLang } = LOCALES[locale];
-  const stores = getLocaleHomeStores(locale);
-  if (stores.length === 0) {
-    throw new Error(`[localeHome] /${locale} sem loja parceira: a home de cada idioma precisa de uma loja ativa com página traduzida.`);
-  }
-
-  const facts = getLocaleHomeFacts(locale, stores);
-  const listed = getPublishedReviewsForLocale(locale, reviews);
-  const dateFormat = new Intl.DateTimeFormat(htmlLang, { dateStyle: 'medium', timeZone: 'UTC' });
-  const longDate = new Intl.DateTimeFormat(htmlLang, { dateStyle: 'long', timeZone: 'UTC' });
-  const hub = getReviewHubCopy(locale);
-  const photo: CeciliaPhotoCopy = {
-    alt: copy.photoAlt,
-    followers: copy.followers,
-    captionLabel: copy.photoCaptionLabel,
-    captionTitle: copy.photoCaptionTitle,
-    instagramLabel: fillTemplate(copy.socialAria, { network: 'Instagram' }),
-  };
-  const faqItems: LocaleHomeFaqItem[] = [
-    { question: copy.faqWhoQuestion, answer: fillTemplate(copy.faqWhoAnswer, facts) },
-    { question: copy.faqWhyQuestion, answer: fillTemplate(copy.faqWhyAnswer, facts) },
-    {
-      question: copy.faqWhereQuestion,
-      answer: copy.faqWhereAnswer,
-      links: stores.map((store) => ({ label: store.brand, href: store.href })),
-    },
-    { question: copy.faqContactQuestion, answer: fillTemplate(copy.faqContactAnswer, facts) },
-  ];
-
+function toStoreArticle(review: ReturnType<typeof getPublishedReviewsForLocale>[number]): HomeStoreArticle {
   return {
-    locale,
-    htmlLang,
-    path: getLocaleHomePath(locale),
-    meta: { title: copy.metaTitle, description: fillTemplate(copy.metaDescription, facts) },
-    hero: {
-      titleTop: copy.heroTitleTop,
-      titleBottom: copy.heroTitleBottom,
+    slug: review.slug,
+    href: getReviewCanonicalPathname(review),
+    title: review.title,
+    type: review.type,
+    image: review.image ? resolveMediaUrl(review.image) : undefined,
+    imageFit: cardImageFit(review),
+    imagePosition: review.imagePosition,
+  };
+}
+
+// As abas da vitrine: a YesStyle e as lojas traduzidas, na ordem do hub, mas as bolinhas seguem a regra do PT
+// (a loja do artigo mais novo primeiro), aplicada aos artigos do idioma. Sem limitedCodes: loja traduzida não tem
+// código com prazo.
+export function getLocaleHomeStoreTabs(locale: LocaleHomeLocale, reviews: HubReviews): HomeStoreTab[] {
+  const listed = getPublishedReviewsForLocale(locale, reviews);
+  const rank = newestArticleRank(listed);
+  const rankOf = (entry: CouponHubEntry) => rank.get(entry.coupon.slug) ?? Infinity;
+  const sidebar = getSidebarCopy(locale);
+  const labels = getCouponCopyLabels(locale);
+  const chrome = getLocaleHomeCopy(locale).chrome;
+
+  return getCouponHubEntries(locale)
+    .sort((a, b) => rankOf(a) - rankOf(b))
+    .map(({ coupon, href, upTo }) => {
+      const code = getStoreCode(coupon);
+      const kind = getStoreCodeKind(coupon, code);
+      const articles = listed.filter((review) => review.affiliate === coupon.slug);
+      return {
+        slug: coupon.slug,
+        brand: coupon.brand,
+        logo: coupon.brandLogo ? resolveMediaUrl(coupon.brandLogo) : undefined,
+        initials: coupon.brandIcon,
+        label: code ? getCodeTitle(sidebar, kind, coupon.brand) : coupon.brand,
+        code,
+        copyAria: code ? labels.copyCoupon(code) : '',
+        // A YesStyle dá o desconto até o número (5% na 1ª compra, menos nas seguintes): o "até" vai no texto.
+        discount: upTo ? `${COUPON_HUB_COPY[locale].upTo} ${coupon.discount}` : coupon.discount,
+        description: coupon.shortDescription,
+        hints: getCodeHints(sidebar, kind, coupon.brand),
+        storeUrl: coupon.offerUrl,
+        storeLinkLabel: fillTemplate(chrome.storeGo, { store: coupon.brand }),
+        storePageUrl: href,
+        listTitle: fillTemplate(chrome.storeArticles, { store: coupon.brand }),
+        articles: articles.slice(0, VISIBLE_ARTICLES).map(toStoreArticle),
+        total: articles.length,
+        emptyText: fillTemplate(chrome.storeEmpty, { store: coupon.brand }),
+      };
+    });
+}
+
+export function getLocaleHomeLatest(locale: LocaleHomeLocale, reviews: HubReviews): HomeLatestArticle[] {
+  const dateFormat = new Intl.DateTimeFormat(LOCALES[locale].htmlLang, { dateStyle: 'medium', timeZone: 'UTC' });
+  return getPublishedReviewsForLocale(locale, reviews)
+    .slice(0, LATEST_LIMIT)
+    .map((review) => ({
+      ...toStoreArticle(review),
+      dateLabel: review.publishedAtISO ? dateFormat.format(new Date(review.publishedAtISO)) : review.publishedAt,
+      store: review.affiliate ? getCouponBySlug(review.affiliate)?.brand : undefined,
+    }));
+}
+
+function getLocaleCeciliaPanel(locale: LocaleHomeLocale, facts: ReturnType<typeof getLocaleHomeFacts>): CeciliaPanelCopy {
+  const copy = getLocaleHomeCopy(locale);
+  const longDate = new Intl.DateTimeFormat(LOCALES[locale].htmlLang, { dateStyle: 'long', timeZone: 'UTC' });
+  return {
+    titleTop: copy.heroTitleTop,
+    titleBottom: copy.heroTitleBottom,
+    intro: copy.intro,
+    photo: {
+      alt: copy.photoAlt,
+      followers: copy.followers,
+      captionLabel: copy.photoCaptionLabel,
+      captionTitle: copy.photoCaptionTitle,
+      instagramLabel: fillTemplate(copy.socialAria, { network: 'Instagram' }),
+    },
+    socialAria: copy.socialAria,
+    pick: copy.chrome.pick,
+    profile: {
       name: CECILIA_FULL_NAME,
-      intro: copy.intro,
       location: copy.location,
       since: fillTemplate(copy.since, facts),
       email: brandLinks.contactEmail,
@@ -164,8 +168,6 @@ export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubRevie
       certificate: {
         title: YESSTYLE_CERTIFICATE.title,
         tier: fillTemplate(copy.certificateTier, { years: getCertificateYears() }),
-        linkLabel: copy.certificateLink,
-        closeLabel: copy.certificateClose,
         image: {
           src: resolveMediaUrl(YESSTYLE_CERTIFICATE.image.src),
           width: YESSTYLE_CERTIFICATE.image.width,
@@ -176,43 +178,51 @@ export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubRevie
             until: longDate.format(new Date(`${YESSTYLE_CERTIFICATE.validUntil}T00:00:00Z`)),
           }),
         },
+        linkLabel: copy.certificateLink,
+        closeLabel: copy.certificateClose,
       },
-      photo,
-      photoUrl: new URL(CECILIA_PHOTO, SITE_URL).href,
-      stats: getCeciliaSocialStats(),
-      social: HERO_NETWORKS.map((name) => ({
-        name,
-        href: NETWORK_URL[name],
-        label: fillTemplate(copy.socialAria, { network: name }),
-      })),
-    },
-    stores: { title: copy.storesTitle, intro: copy.storesIntro, items: stores },
-    articles: {
-      title: hub.title,
-      description: hub.description,
-      items: listed.slice(0, ARTICLE_LIMIT).map(
-        (review): HomeLatestArticle => ({
-          slug: review.slug,
-          href: getReviewCanonicalPathname(review),
-          title: review.title,
-          type: review.type,
-          dateLabel: review.publishedAtISO ? dateFormat.format(new Date(review.publishedAtISO)) : review.publishedAt,
-          image: review.image ? resolveMediaUrl(review.image) : undefined,
-          imageFit: cardImageFit(review),
-          imagePosition: review.imagePosition,
-        })
-      ),
-      all: { href: getReviewHubPath(locale), label: fillTemplate(copy.allArticles, { count: listed.length }) },
-    },
-    safety: { title: copy.safetyTitle, items: [...copy.safety] },
-    faq: { title: copy.faqTitle, items: faqItems },
-    follow: {
-      title: copy.followTitle,
-      intro: copy.followIntro,
-      // O mesmo perfil nas quatro redes.
-      networks: FOLLOW_NETWORKS.map((name) => ({ name, href: NETWORK_URL[name], handle: '@emcasacomcecilia' })),
     },
   };
 }
 
+export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubReviews) {
+  const copy = getLocaleHomeCopy(locale);
+  const stores = getLocaleHomeStoreTabs(locale, reviews);
+  if (stores.length === 0) {
+    throw new Error(`[localeHome] /${locale} sem loja parceira: a home de cada idioma precisa de uma loja ativa com página traduzida.`);
+  }
+  const facts = getLocaleHomeFacts(locale, getLocaleHomeStores(locale));
+
+  return {
+    locale,
+    htmlLang: LOCALES[locale].htmlLang,
+    path: getLocaleHomePath(locale),
+    meta: { title: copy.metaTitle, description: fillTemplate(copy.metaDescription, facts) },
+    photoUrl: new URL(CECILIA_PHOTO, SITE_URL).href,
+    sameAs: SAME_AS_NETWORKS,
+    panel: getLocaleCeciliaPanel(locale, facts),
+    copy: getHomeCopy(locale),
+    stores,
+    latest: getLocaleHomeLatest(locale, reviews),
+    latestAllHref: getReviewHubPath(locale),
+  };
+}
+
 export type LocaleHomeContent = ReturnType<typeof getLocaleHomeContent>;
+
+// O Person liga o site à Cecília de verdade (nome completo, região e redes). Organization e WebSite já vêm do
+// layout; o FAQPage não fica aqui, porque as perguntas estão na página /<locale>/faq.
+export function getLocaleHomeJsonLd(content: LocaleHomeContent) {
+  return [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": CECILIA_PERSON_ID,
+      name: CECILIA_FULL_NAME,
+      url: absoluteUrl(content.path),
+      image: content.photoUrl,
+      address: { "@type": "PostalAddress", addressRegion: CECILIA_REGION, addressCountry: CECILIA_COUNTRY },
+      sameAs: content.sameAs,
+    },
+  ];
+}

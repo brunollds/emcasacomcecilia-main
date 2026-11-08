@@ -5,14 +5,13 @@ import { cardDecorAt, type CardDecor } from '@/components/ui/cardDecor';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { cardImageLook } from '@/lib/cardImage';
+import type { HomeCopy } from '@/components/sections/homeCopy';
 import type { HomeLatestArticle } from '@/lib/homeStores';
 
 // "Acabou de sair": os 5 artigos mais novos, sem código. No desktop são cartões presos na geladeira;
 // no celular, a lista de data e título. Os dois vão no HTML e o CSS mostra um ou outro.
 
-const ALL_LABEL = 'Ver todos os guias e análises';
-
-export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
+export function HomeLatest({ articles, copy, allHref }: { articles: HomeLatestArticle[]; copy: HomeCopy; allHref: string }) {
   return (
     <RevealSection aria-labelledby="titulo-acabou-de-sair" className="mx-auto w-full max-w-[1200px] px-4 md:px-10">
       <div className="flex flex-col gap-2.5 md:gap-6 md:border-y-2 md:border-marinho md:py-8">
@@ -21,17 +20,17 @@ export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
             id="titulo-acabou-de-sair"
             className="font-condensada text-[32px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-5xl"
           >
-            <span className="marca-texto">Acabou de sair</span>
+            <span className="marca-texto">{copy.latestTitle}</span>
           </h2>
           <TrackedHomeLink
-            href="/reviews"
+            href={allHref}
             placement="home_latest"
-            linkLabel={ALL_LABEL}
-            aria-label={ALL_LABEL}
+            linkLabel={copy.latestAll}
+            aria-label={copy.latestAll}
             className={`flex min-h-11 items-center text-[13px] font-extrabold text-marinho underline underline-offset-[3px] md:text-sm ${FOCUS_RING}`}
           >
-            <span className="md:hidden">Ver todos</span>
-            <span className="hidden md:inline">{ALL_LABEL}</span>
+            <span className="md:hidden">{copy.latestAllShort}</span>
+            <span className="hidden md:inline">{copy.latestAll}</span>
           </TrackedHomeLink>
         </div>
 

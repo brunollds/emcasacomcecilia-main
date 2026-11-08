@@ -16,8 +16,8 @@ const getHomeStoreSlugs = (): string[] => [
 ];
 
 // "Cada loja parceira tem uma página no seu idioma", nos 9 idiomas: só parte das lojas tem página traduzida
-// (hoje a YesStyle, a SHEIN e a Hostinger), então nenhum FAQ de idioma pode dizer isso. A home ainda diz, e a
-// conferência do FAQ garante que o texto da home não volte para lá.
+// (hoje a YesStyle, a SHEIN e a Hostinger), então nenhuma página dos idiomas pode dizer isso. A conferência do FAQ
+// garante que a frase não volte.
 export const EVERY_STORE_TRANSLATED_CLAIM: Record<TranslatedLocale, RegExp> = {
   en: /\b(?:every|each) (?:partner )?store (?:has|have)\b|\ball (?:the )?(?:partner )?stores (?:has|have)\b/i,
   es: /\bcada tienda (?:asociada )?tiene\b|\btodas las tiendas (?:asociadas )?tienen\b/i,
