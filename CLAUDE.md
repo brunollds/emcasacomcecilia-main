@@ -34,6 +34,7 @@ npm run test:locale-home     # home de cada idioma (/en, /ja…): textos de inte
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:not-found       # o 404: título, busca, caminhos, artigos, os 9 idiomas e dynamicParams = false em toda rota dinâmica
 npm run test:institutional  # a /sobre: números dos dados (redes, artigos em PT, lojas ativas, receitas), selo da YesStyle só no prazo, marcas parceiras, trilha = BreadcrumbList, Person e textos proibidos; o /faqs (perguntas, FAQPage = página, atalhos), o /contato (assuntos = rota, escape do e-mail), a /privacidade (13 seções, Clarity, GA com 2 meses, consentimento, sumário, links externos em https, sem [VERIFICAR) e o /buscar (resultados com link e capa, aviso de nada encontrado, noindex)
+npm run test:styling-required  # capítulos de scripts/styling-required.json com o card de estilo: tirar o card de um deles quebra; artigo fora da lista segue sem exigência
 npm run test:recipes         # receitas: o tempo num formato só (formatRecipeTime), a foto só a própria (sem foto: a capa desenhada no cartão de /receitas, da home e do /buscar, e nada de imagem no topo, no JSON-LD nem no og:image), o topo de /receitas e nenhum arquivo cliente importando valores de @/lib/data
 npm run test:covers          # gerador de capas (scripts/media/covers/): faixas, MAUAD e CECILIA010 barrados, a conferência das páginas e, fora do CI, a captura em 1600x900
 npm run covers:render -- <spec.json>   # capas do Discover; modelos no Job 6 do vault (Job-6-Capa-e-Imagens.md)
@@ -333,6 +334,7 @@ vídeo, primeiras impressões e uso noturno.
   o `test:review-i18n` exige em toda versão os cards do português, na mesma ordem, com o mesmo modelo, as mesmas
   peças, links, campos e cores, e o como usar, a ocasião e a nota do link traduzidos (nome da peça e básico do
   armário podem repetir o PT); os rótulos entram na conferência de interface igual ao português.
+  Nos artigos de `scripts/styling-required.json`, o card é obrigatório nos capítulos listados: o `validate:content` barra a falta dele. A lista é explícita, sem regra por slug ou loja, porque reputação e cupom não levam card; o Job 4 acrescenta a entrada de cada artigo novo de moda.
 - Quadro "Leve se / Passe se" dos guias e comparativos: o campo `decision` do artigo (`{ takeIf: [...], skipIf: [...] }`, de
   1 a 3 frases cada, sem markdown e sem "R$"), desenhado por `ArticleDecision` (`src/components/review/article/`, com as
   listas `ProsConsList` dos prós e contras) logo antes do FAQ, acima do banner do meio; sem FAQ, depois da última seção.

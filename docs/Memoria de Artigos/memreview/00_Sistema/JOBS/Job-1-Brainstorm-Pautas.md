@@ -58,6 +58,7 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 
 ### Artigo de roupa: card de estilo
 - Toda pauta de roupa ou moda propõe, por seção de peça, o card "Como usar / Ocasião / Combina com" (campo `styling` da seção; formato no CLAUDE.md do repositório). O card entra no capítulo da peça, não num bloco único no fim (decisão do Bruno, 30/10/2026).
+- O briefing diz quais capítulos levam o card. Artigo de loja de roupa que não trata das peças (reputação, cupom) não leva, e o briefing diz isso.
 - Por seção: o modelo (`tabs`, um card por peça com uma aba por campo, ou `tags`, as peças lado a lado com tudo à vista) e de 1 a 3 peças. Por peça: como usar, ocasião e combina com (1 a 4 itens: peça da loja com o link de afiliado dela e nota opcional, ou básico do armário sem link). Cores (`variants`, com o hex da cor) só quando a cor muda a combinação.
 - Como usar diz como vestir, não repete a ficha. Combina com só leva o que acrescenta: nada de chinelo ou meia genéricos; sem combinação útil, a peça fica só com como usar e ocasião (acessórios, pijamas, roupa íntima).
 - Sem preço e sem markdown no card. Sem dizer que alguém do site usou a peça.

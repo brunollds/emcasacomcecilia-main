@@ -36,6 +36,7 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - Links externos de loja devem ter `"sponsored": true`.
 4b. **Resposta rápida:** a primeira seção (`Resposta rápida` e equivalentes nos idiomas) leva só `heading` e `paragraphs` com um item de 40 a 60 palavras; sem `bullets`, `postParagraphs`, `comparisonTable`, `couponTiers`, `emphasis`, `image` ou `images` (`REGRAS-GLOBAIS.md`, seção 6).
 4c. **Relacionados (`relatedArticles`):** cada item é só `{ "slug": "<slug>" }`, de um artigo publicado no mesmo idioma (rascunho não tem página). Sem `title`: a sidebar e a gaveta do celular mostram o título atual do artigo de destino. O `validate:content` barra o `title`, qualquer outro campo e o slug que não leva a um artigo publicado no idioma.
+4d. **Card de estilo (`styling`):** artigo novo de moda com card ganha entrada em `scripts/styling-required.json`, com o título exato de cada capítulo que o briefing lista. O `validate:content` barra capítulo da lista sem o card.
 5. **FAQ:** uma seção de `contentSections` com o título de FAQ do idioma e `bullets`, um por pergunta: a pergunta terminando em `?` (`？` em chinês e japonês) e a resposta logo depois, no mesmo item. Pergunta sem negrito: `Pergunta? resposta`, nunca `**Pergunta?** resposta` (o FAQ corta no primeiro `?` e os asteriscos aparecem no acordeão e no `FAQPage`; o `validate:content` barra). É essa seção que vira o `FAQPage` no schema da página.
 
    | Idioma | Título da seção |
