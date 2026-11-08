@@ -1,5 +1,5 @@
 import { type Locale } from './locales';
-import { getYesStyleLocaleConfig } from './clusters/yesstyle';
+import { SECTION_LABELS } from './sectionLabels';
 import { getShellCopy } from './shellDictionary';
 import { getReviewHubPath } from '@/lib/review-hubs';
 import { REVIEW_CATEGORIES, parseReviewCategory, type ReviewCategory } from '@/lib/reviewDiscovery';
@@ -13,9 +13,7 @@ export type NavId =
   | 'videos'
   | 'sobre'
   | 'faqs'
-  | 'contato'
-  | 'yesstyle'
-  | 'shein';
+  | 'contato';
 
 export interface NavItem {
   id: NavId;
@@ -30,12 +28,13 @@ export interface ShellMenu {
   searchLabels: { open: string; close: string };
   reviewsListLabel: string | null;
   dicasLabels: { short: string; long: string } | null;
-  footerLabels: { house: string; partners: string } | null;
+  footerLabels: { partners: string } | null;
+  footerFaq: { href: string; label: string } | null;
   mediaKitLabel: string | null;
 }
 
 export interface ActiveNav {
-  section: 'reviews' | 'cupons' | 'receitas' | 'more' | 'yesstyle' | 'shein' | null;
+  section: 'reviews' | 'cupons' | 'receitas' | 'more' | null;
   item: NavId | null;
   pageHref: string | null;
 }
@@ -49,6 +48,10 @@ const PT_MORE: NavItem[] = [
   { id: 'contato', href: '/contato', label: 'Contato' },
 ];
 
+// O hub de cupons de cada idioma. Não importamos de couponHub.ts (getCouponHubPath) porque o menu roda no cliente
+// e aquele arquivo traz os textos dos cupons; o teste do shell confere que é o mesmo endereço.
+const couponsPath = (locale: Locale) => `/${locale}/coupons`;
+
 export function getShellMenu(locale: Locale): ShellMenu {
   const copy = getShellCopy(locale);
   // A lupa existe nos 10 idiomas; fora do PT, ela busca no índice do idioma (artigos e lojas).
@@ -56,14 +59,18 @@ export function getShellMenu(locale: Locale): ShellMenu {
 
   if (locale !== 'pt') {
     return {
-      primary: [{ id: 'reviews', href: getReviewHubPath(locale), label: copy.reviewHubLabel }],
+      primary: [
+        { id: 'reviews', href: getReviewHubPath(locale), label: copy.reviewHubLabel },
+        { id: 'cupons', href: couponsPath(locale), label: SECTION_LABELS[locale].couponsLabel },
+      ],
       more: [],
       moreLabel: null,
       searchLabels,
       reviewsListLabel: null,
       dicasLabels: null,
       footerLabels: null,
-      mediaKitLabel: null,
+      footerFaq: { href: `/${locale}/faq`, label: SECTION_LABELS[locale].faqTitle },
+      mediaKitLabel: SECTION_LABELS[locale].mediaKitLabel,
     };
   }
 
@@ -87,7 +94,8 @@ export function getShellMenu(locale: Locale): ShellMenu {
     searchLabels,
     reviewsListLabel: 'Categorias de Guias & Análises',
     dicasLabels: { short: 'Dicas', long: 'Dicas & Ofertas' },
-    footerLabels: { house: 'Em Casa', partners: 'Parceiros' },
+    footerLabels: { partners: 'Parceiros' },
+    footerFaq: null,
     mediaKitLabel: 'Media Kit',
   };
 }
@@ -111,11 +119,10 @@ export function getActiveNav(pathname: string, search: string, locale: Locale): 
   const path = trimSlash(pathname);
 
   if (locale !== 'pt') {
-    const hubPath = getReviewHubPath(locale);
+    // Fora do PT, as lojas (e a YesStyle, em /<locale>/coupons/yesstyle) ficam dentro da seção Coupons.
     const sections = [
-      ['reviews', hubPath],
-      ['yesstyle', getYesStyleLocaleConfig(locale).hubPath],
-      ['shein', `/${locale}/coupons/shein`],
+      ['reviews', getReviewHubPath(locale)],
+      ['cupons', couponsPath(locale)],
     ] as const;
     for (const [section, base] of sections) {
       if (isWithin(path, base)) return { section, item: null, pageHref: path === base ? base : null };

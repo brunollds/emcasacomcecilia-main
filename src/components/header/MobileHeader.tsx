@@ -10,7 +10,7 @@ import OmniSearch from '@/components/OmniSearch';
 import LanguageSwitcher from '@/components/header/LanguageSwitcher';
 import SiteName from '@/components/header/SiteName';
 import type { Locale } from '@/lib/i18n/locales';
-import { getShellHomeHref, type ShellCommercialLink, type ShellCopy } from '@/lib/i18n/shellDictionary';
+import { getShellHomeHref, type ShellCopy } from '@/lib/i18n/shellDictionary';
 import { getAriaCurrent, type ActiveNav, type ShellMenu } from '@/lib/i18n/shellMenu';
 
 interface MobileHeaderProps {
@@ -18,7 +18,6 @@ interface MobileHeaderProps {
   menu: ShellMenu;
   active: ActiveNav;
   copy: ShellCopy;
-  commercialLinks: ShellCommercialLink[];
   isPt: boolean;
   scrolled: boolean;
 }
@@ -34,7 +33,7 @@ const bigRowTone = (isActive: boolean) => (isActive ? 'header-atual bg-white/6 t
 
 const cascade = (index: number) => ({ '--i': index }) as CSSProperties;
 
-export default function MobileHeader({ locale, menu, active, copy, commercialLinks, isPt, scrolled }: MobileHeaderProps) {
+export default function MobileHeader({ locale, menu, active, copy, isPt, scrolled }: MobileHeaderProps) {
   const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
@@ -105,8 +104,8 @@ export default function MobileHeader({ locale, menu, active, copy, commercialLin
     tapTimer.current = setTimeout(() => setNameTapped(false), NAME_TAP_MS);
   };
 
-  // Os links grandes (os do PT, ou a lista de artigos e as lojas nos outros idiomas), a grade e o fim, nesta ordem na cascata.
-  const rows = [...menu.primary, ...commercialLinks];
+  // Os links grandes do menu principal, a grade do Mais e o fim, nesta ordem na cascata.
+  const rows = menu.primary;
   const lastBlockIndex = rows.length + (menu.more.length > 0 ? 1 : 0);
 
   return (

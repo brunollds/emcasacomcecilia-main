@@ -6,11 +6,7 @@ import DesktopNav from '@/components/header/DesktopNav';
 import MobileHeader from '@/components/header/MobileHeader';
 import SiteName from '@/components/header/SiteName';
 import { useActiveNav } from '@/components/header/useActiveNav';
-import {
-  getShellCommercialLinks,
-  getShellCopy,
-  getShellHomeHref,
-} from '@/lib/i18n/shellDictionary';
+import { getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { getShellMenu } from '@/lib/i18n/shellMenu';
 import { findLocaleByHtmlLang } from '@/lib/i18n/locales';
 
@@ -22,7 +18,6 @@ export default function Navbar({ lang = 'pt-BR' }) {
 
   const isPt = localeKey === 'pt';
   const copy = getShellCopy(localeKey);
-  const commercialLinks = getShellCommercialLinks(localeKey);
   const menu = getShellMenu(localeKey);
   const active = useActiveNav(localeKey);
 
@@ -61,7 +56,6 @@ export default function Navbar({ lang = 'pt-BR' }) {
           menu={menu}
           active={active}
           copy={copy}
-          commercialLinks={commercialLinks}
           isPt={isPt}
         />
       </div>
@@ -71,7 +65,6 @@ export default function Navbar({ lang = 'pt-BR' }) {
         menu={menu}
         active={active}
         copy={copy}
-        commercialLinks={commercialLinks}
         isPt={isPt}
         scrolled={scrolled}
       />
