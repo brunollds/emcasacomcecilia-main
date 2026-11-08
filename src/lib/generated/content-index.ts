@@ -36051,7 +36051,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF a partir de 100 reais, e a aplicação em combos depende da campanha."
+          "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF acima do pedido mínimo, e a aplicação em combos depende da campanha."
         ]
       },
       {
@@ -38685,7 +38685,8 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom CECI para comprar na loja oficial",
         "paragraphs": [
           "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **10% de desconto** em compras a partir de R$ 100, conforme as regras vigentes no momento da compra.",
-          "Digite CECI no campo de cupom antes de concluir o pedido e confirme se o desconto foi aplicado. O cupom faz parte da nossa parceria comercial com a marca, sem custo adicional para você."
+          "Digite CECI no campo de cupom antes de concluir o pedido e confirme se o desconto foi aplicado. O cupom faz parte da nossa parceria comercial com a marca, sem custo adicional para você.",
+          "Para decidir como comprar, compare [quanto custa cada bebida Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto) por cápsula e por caixa, veja se a [assinatura Dolce Gusto vale a pena](/reviews/assinatura-dolce-gusto-vale-a-pena) para o seu consumo e [como funciona a assinatura](/reviews/assinatura-dolce-gusto-como-funciona), quando o [combo com a Mini Me](/reviews/promocao-dolce-gusto-caixas-mini-me-gratis) compensa e como juntar pontos no [Clube Dolce Gusto](/reviews/clube-dolce-gusto-como-funciona)."
         ],
         "bullets": [],
         "links": [
@@ -38969,7 +38970,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como funciona a assinatura",
         "paragraphs": [
-          "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com 25% de desconto e frete grátis em pedidos de 3 caixas ou mais, no cartão, e o plano regular pode ser cancelado sem multa. No nosso teste, o CECI, que dava 5% na época, somou com os 25%. Hoje ele dá 10% a partir de 100 reais."
+          "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com 25% de desconto e frete grátis em pedidos de 3 caixas ou mais, no cartão, e o plano regular pode ser cancelado sem multa. O cupom CECI dá 10% OFF acima do pedido mínimo e já somou com os 25%; confira no carrinho."
         ]
       },
       {
