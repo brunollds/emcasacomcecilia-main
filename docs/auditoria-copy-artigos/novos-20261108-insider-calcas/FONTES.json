@@ -1,0 +1,56 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "papel": "Revisor externo da redação de Claude",
+    "modelo": "Codex baseado em GPT-6; variante não exposta",
+    "conclusao": "2026-11-08T14:39:20-03:00",
+    "data_editorial": "2026-11-08"
+  },
+  "arquivos": [
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i10\\calca-insider-feminina-qual-escolher.md",
+      "copia": "fontes/calca-insider-feminina-qual-escolher.md",
+      "sha256": "6d3112cc45bef6115005527345fc663d542f0ea36e2bd16463ddf02f778a9029",
+      "bytes": 8456
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i10\\calca-insider-feminina-qual-escolher.json",
+      "copia": "fontes/calca-insider-feminina-qual-escolher.json",
+      "sha256": "7f582506a980812d86f2df339ea3613c62d473c831ec502fdebf6d2813dc4916",
+      "bytes": 14585
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i10\\out\\calca-insider-feminina-qual-escolher-capa.webp",
+      "copia": "fontes/calca-insider-feminina-qual-escolher-capa.webp",
+      "sha256": "041e832855d4a0c2df52f10a35592689d8027e7ec6a592706c1c3ad0348a5a69",
+      "bytes": 47412
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i10\\calca-insider-masculina-qual-escolher.md",
+      "copia": "fontes/calca-insider-masculina-qual-escolher.md",
+      "sha256": "16364d644f45aa00a4080fb63ed69ed473a60a94b0fb77f46270e0f089506a48",
+      "bytes": 8357
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i10\\calca-insider-masculina-qual-escolher.json",
+      "copia": "fontes/calca-insider-masculina-qual-escolher.json",
+      "sha256": "f0f7013d74d8f1e8fd989ce59eb0815219fbebb245ae05bd28f86d4bbf6ff943",
+      "bytes": 14843
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i10\\out\\calca-insider-masculina-qual-escolher-capa.webp",
+      "copia": "fontes/calca-insider-masculina-qual-escolher-capa.webp",
+      "sha256": "cca1a6e77ef65273bac5f845a1ba83f704af66e5762c53e9c6bd82e0b92ba668",
+      "bytes": 52676
+    }
+  ],
+  "contexto": {
+    "checkout_raiz": "6b6ebb1a",
+    "worktree_consultado": ".claude/worktrees/lote-376-377",
+    "head_worktree": "1584d2cf",
+    "merge_informado_por_bruno": "d30605c7, PR #737; não presente nos objetos locais",
+    "github": "leitura remota tentada; api.github.com inacessível nesta execução",
+    "cart_test": "Relato atual de Bruno: 12 peças testadas, 15% em todas, inclusive itens com selo de lançamento; nenhuma compra. Não foi executado novo teste nesta revisão."
+  }
+}

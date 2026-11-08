@@ -1,0 +1,71 @@
+{
+  "recorded_at": "2026-11-08T13:43:29.485255-03:00",
+  "author": "Farol /root",
+  "status": "Rascunhos locais de 08/11; fora do inventário de publicados da auditoria 638. Sem edição dos originais ou upload.",
+  "files": [
+    {
+      "source": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i12\\camisa-social-insider-masculina.md",
+      "archived": "docs\\auditoria-copy-artigos\\novos-20261108-insider-camisas\\fontes\\camisa-social-insider-masculina.md",
+      "sha256": "c425a393ba8a36ea40219fd462560f64a9d7b63d8b7d56fc40203f59a41c0b4b",
+      "bytes": 7132
+    },
+    {
+      "source": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i12\\camisa-social-insider-masculina.json",
+      "archived": "docs\\auditoria-copy-artigos\\novos-20261108-insider-camisas\\fontes\\camisa-social-insider-masculina.json",
+      "sha256": "22f4da1e3a18c50ca340170f0f909fe8458be3393eda9dd4690deba940c39138",
+      "bytes": 11348
+    },
+    {
+      "source": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i12\\out2\\camisa-social-insider-masculina-capa.png",
+      "archived": "docs\\auditoria-copy-artigos\\novos-20261108-insider-camisas\\fontes\\camisa-social-insider-masculina-capa.png",
+      "sha256": "e6737594a4519c8f1633c7f8b4a6abc8d622e8b207506ea44ef688e7cd7e8165",
+      "bytes": 1068665,
+      "size": [
+        1600,
+        900
+      ]
+    },
+    {
+      "source": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i12\\out2\\camisa-social-insider-masculina-capa.webp",
+      "archived": "docs\\auditoria-copy-artigos\\novos-20261108-insider-camisas\\fontes\\camisa-social-insider-masculina-capa.webp",
+      "sha256": "bbe97109cf73461d6f4b02229fec944de589c991965f021bb861d19135adb129",
+      "bytes": 51784,
+      "size": [
+        1600,
+        900
+      ]
+    },
+    {
+      "source": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i12\\camisa-social-insider-feminina.md",
+      "archived": "docs\\auditoria-copy-artigos\\novos-20261108-insider-camisas\\fontes\\camisa-social-insider-feminina.md",
+      "sha256": "8370cab6e5d88f00f76c517946ba3fecdd36f89a0018b6ac75b3c6bbd1403233",
+      "bytes": 7050
+    },
+    {
+      "source": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i12\\camisa-social-insider-feminina.json",
+      "archived": "docs\\auditoria-copy-artigos\\novos-20261108-insider-camisas\\fontes\\camisa-social-insider-feminina.json",
+      "sha256": "911ad8ce05b1a34ef9fc4b62a29e18b79e5a68669d8e3377988b1cf37faedf2d",
+      "bytes": 11079
+    },
+    {
+      "source": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i12\\out2\\camisa-social-insider-feminina-capa.png",
+      "archived": "docs\\auditoria-copy-artigos\\novos-20261108-insider-camisas\\fontes\\camisa-social-insider-feminina-capa.png",
+      "sha256": "f170e074429b6a62c86027e639e7cb9c8f5cca72dd1f3d533090e716e57fdd6d",
+      "bytes": 759623,
+      "size": [
+        1600,
+        900
+      ]
+    },
+    {
+      "source": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i12\\out2\\camisa-social-insider-feminina-capa.webp",
+      "archived": "docs\\auditoria-copy-artigos\\novos-20261108-insider-camisas\\fontes\\camisa-social-insider-feminina-capa.webp",
+      "sha256": "e9b9d75bd238335497985565f2dd58124555f4c62171cf49195855313699b030",
+      "bytes": 48880,
+      "size": [
+        1600,
+        900
+      ]
+    }
+  ]
+}

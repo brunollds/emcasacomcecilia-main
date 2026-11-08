@@ -1,0 +1,44 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "papel": "Revisor externo da redação de Claude",
+    "modelo": "Codex baseado em GPT-6; variante não exposta",
+    "conclusao": "2026-11-08T14:39:20-03:00",
+    "data_editorial": "2026-11-08"
+  },
+  "fontes_preservadas": 6,
+  "capas_abertas_e_aprovadas_visualmente": 2,
+  "artigos": [
+    {
+      "slug": "calca-insider-feminina-qual-escolher",
+      "grupos": 13,
+      "operacoes": 23,
+      "resposta_rapida_palavras": 49,
+      "resposta_rapida_frases": 3,
+      "description_caracteres": 149,
+      "meta_caracteres": 143,
+      "precos_preservados": true,
+      "sem_contagem_estoque": true,
+      "before_confere": true,
+      "sem_sobreposicao": true
+    },
+    {
+      "slug": "calca-insider-masculina-qual-escolher",
+      "grupos": 12,
+      "operacoes": 19,
+      "resposta_rapida_palavras": 44,
+      "resposta_rapida_frases": 3,
+      "description_caracteres": 164,
+      "meta_caracteres": 131,
+      "precos_preservados": true,
+      "sem_contagem_estoque": true,
+      "before_confere": true,
+      "sem_sobreposicao": true
+    }
+  ],
+  "limite": "Projeção em memória e consistência das propostas. Sem gates do site, render de página, consulta à loja, teste de carrinho, publicação ou confirmação de deploy.",
+  "capas_dimensoes_conferidas": "1600x900, ambas",
+  "links_locais_parecer_conferidos": true,
+  "copias_identicas_aos_originais": true
+}
