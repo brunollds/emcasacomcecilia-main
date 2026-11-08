@@ -96101,7 +96101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o SONAR20 cobre",
         "paragraphs": [
-          "O SONAR20 vale em todos os planos, mensais e anuais, em compra nova, também para quem já é cliente da Hostinger. Em 29/10/2026, testamos no carrinho: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
+          "O SONAR20 vale em todos os planos, mensais e anuais, em compra nova, também para quem já é cliente da Hostinger. Em 07/11/2026, testamos no carrinho: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
           "Você também pode acessar a Hostinger pelo link deste artigo. No carrinho, confira o desconto, o período contratado e o total antes de pagar. Se SONAR20 não estiver aplicado, use o campo de cupom."
         ]
       },
@@ -96286,7 +96286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What SONAR20 covers",
         "paragraphs": [
-          "SONAR20 is valid on all plans, monthly and annual, on a new purchase, including for people who are already Hostinger customers. On October 29, 2026, we tested it in the cart: with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. In the test, the 20% came off the Black Friday price, and the code worked on its own, without the link. Those are that test's prices, not a current quote.",
+          "SONAR20 is valid on all plans, monthly and annual, on a new purchase, including for people who are already Hostinger customers. On November 7, 2026, we tested it in the cart: with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. In the test, the 20% came off the Black Friday price, and the code worked on its own, without the link. Those are that test's prices, not a current quote.",
           "You can also visit Hostinger through the link in this article. In the cart, check the discount, the subscription period and the total before paying. If SONAR20 has not been applied, enter it in the coupon field."
         ]
       },
@@ -96413,7 +96413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué cubre el SONAR20",
         "paragraphs": [
-          "En la prueba del 29 de octubre de 2026 en el sitio global, SONAR20 en el campo «Have a coupon code?» redujo el Startup de 48 meses de US$ 383,52 a US$ 306,82. El 20% se descontó del precio de Black Friday y el código funcionó sin el enlace. Son los precios de esa prueba, no una cotización actual.",
+          "En la prueba del 7 de noviembre de 2026 en el sitio global, SONAR20 en el campo «Have a coupon code?» redujo el Startup de 48 meses de US$ 383,52 a US$ 306,82. El 20% se descontó del precio de Black Friday y el código funcionó sin el enlace. Son los precios de esa prueba, no una cotización actual.",
           "También puedes acceder a Hostinger por el enlace de este artículo. En el carrito, revisa el descuento, el período contratado y el total antes de pagar. Si SONAR20 no está aplicado, introdúcelo en el campo de cupón."
         ]
       },
@@ -96540,7 +96540,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce que couvre SONAR20",
         "paragraphs": [
-          "Lors du test du 29 octobre 2026 sur le site global, SONAR20 dans le champ « Have a coupon code? » a fait passer le forfait Startup de 48 mois de 383,52 USD à 306,82 USD. Les 20 % ont été retirés du prix du Black Friday et le code a fonctionné sans le lien. Ce sont les prix de ce test, pas un devis actuel.",
+          "Lors du test du 7 novembre 2026 sur le site global, SONAR20 dans le champ « Have a coupon code? » a fait passer le forfait Startup de 48 mois de 383,52 USD à 306,82 USD. Les 20 % ont été retirés du prix du Black Friday et le code a fonctionné sans le lien. Ce sont les prix de ce test, pas un devis actuel.",
           "Vous pouvez aussi accéder à Hostinger par le lien de cet article. Dans le panier, vérifiez la réduction, la durée souscrite et le total avant de payer. Si SONAR20 n’est pas appliqué, saisissez-le dans le champ de code promo."
         ]
       },
@@ -96667,7 +96667,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was SONAR20 abdeckt",
         "paragraphs": [
-          "Im Test vom 29. Oktober 2026 auf der globalen Website sank der Preis des Startup-Tarifs für 48 Monate mit SONAR20 im Feld „Have a coupon code?“ von 383,52 USD auf 306,82 USD. Die 20 % wurden vom Black-Friday-Preis abgezogen; der Code funktionierte ohne den Link. Das sind die Preise dieses Tests, kein aktuelles Angebot.",
+          "Im Test vom 7. November 2026 auf der globalen Website sank der Preis des Startup-Tarifs für 48 Monate mit SONAR20 im Feld „Have a coupon code?“ von 383,52 USD auf 306,82 USD. Die 20 % wurden vom Black-Friday-Preis abgezogen; der Code funktionierte ohne den Link. Das sind die Preise dieses Tests, kein aktuelles Angebot.",
           "Sie können Hostinger auch über den Link in diesem Artikel aufrufen. Prüfen Sie im Warenkorb Rabatt, Vertragslaufzeit und Gesamtpreis vor der Zahlung. Falls SONAR20 nicht angewendet wurde, tragen Sie ihn im Gutscheinfeld ein."
         ]
       },
@@ -96794,7 +96794,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cosa copre SONAR20",
         "paragraphs": [
-          "Nel test del 29 ottobre 2026 sul sito globale, SONAR20 nel campo «Have a coupon code?» ha portato il piano Startup da 48 mesi da 383,52 USD a 306,82 USD. Il 20% è stato tolto dal prezzo del Black Friday e il codice ha funzionato senza il link. Sono i prezzi di quel test, non un preventivo attuale.",
+          "Nel test del 7 novembre 2026 sul sito globale, SONAR20 nel campo «Have a coupon code?» ha portato il piano Startup da 48 mesi da 383,52 USD a 306,82 USD. Il 20% è stato tolto dal prezzo del Black Friday e il codice ha funzionato senza il link. Sono i prezzi di quel test, non un preventivo attuale.",
           "Puoi anche accedere a Hostinger tramite il link di questo articolo. Nel carrello, controlla sconto, durata e totale prima di pagare. Se SONAR20 non è applicato, inseriscilo nel campo coupon."
         ]
       },
@@ -96921,7 +96921,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20이 적용되는 범위",
         "paragraphs": [
-          "SONAR20은 월간·연간 모든 플랜의 신규 구매에 쓸 수 있고, 이미 Hostinger를 쓰는 고객에게도 적용됩니다. 2026년 10월 29일 장바구니에서 테스트했습니다. 글로벌 사이트의 “Have a coupon code?” 입력란에 코드를 넣자 48개월 Startup 플랜이 383.52달러에서 306.82달러가 되었습니다. 이 테스트에서 20%는 블랙프라이데이 가격에서 빠졌고, 링크 없이 코드만으로도 적용되었습니다. 당시 테스트 가격이며 현재 견적은 아닙니다.",
+          "SONAR20은 월간·연간 모든 플랜의 신규 구매에 쓸 수 있고, 이미 Hostinger를 쓰는 고객에게도 적용됩니다. 2026년 11월 7일 장바구니에서 테스트했습니다. 글로벌 사이트의 “Have a coupon code?” 입력란에 코드를 넣자 48개월 Startup 플랜이 383.52달러에서 306.82달러가 되었습니다. 이 테스트에서 20%는 블랙프라이데이 가격에서 빠졌고, 링크 없이 코드만으로도 적용되었습니다. 당시 테스트 가격이며 현재 견적은 아닙니다.",
           "이 글의 링크로 Hostinger에 접속할 수도 있습니다. 장바구니에서 할인, 계약 기간, 총액을 결제 전에 확인하세요. SONAR20이 적용되지 않았다면 쿠폰 입력란에 입력하세요."
         ]
       },
@@ -97047,7 +97047,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20の対象",
         "paragraphs": [
-          "SONAR20は月額・年額を問わずすべてのプランの新規購入で使え、すでにHostingerを使っている方も対象です。2026年10月29日にカートで検証しました。グローバルサイトで「Have a coupon code?」欄にコードを入れると、48か月のStartupプランは383.52米ドルから306.82米ドルになりました。この検証では、20%はブラックフライデー価格から引かれ、リンクなしでもコードだけで有効でした。この金額は検証時のもので、現在の見積もりではありません。",
+          "SONAR20は月額・年額を問わずすべてのプランの新規購入で使え、すでにHostingerを使っている方も対象です。2026年11月7日にカートで検証しました。グローバルサイトで「Have a coupon code?」欄にコードを入れると、48か月のStartupプランは383.52米ドルから306.82米ドルになりました。この検証では、20%はブラックフライデー価格から引かれ、リンクなしでもコードだけで有効でした。この金額は検証時のもので、現在の見積もりではありません。",
           "この記事のリンクからHostingerにアクセスすることもできます。カートで、割引、契約期間、合計金額を支払い前に確認してください。SONAR20が適用されていない場合は、クーポン欄に入力してください。"
         ]
       },
@@ -97175,7 +97175,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 涵蓋什麼",
         "paragraphs": [
-          "SONAR20 適用於所有月付與年付方案的新購訂單，已經是 Hostinger 客戶的人也能用。2026 年 10 月 29 日，我們在購物車實際測試過：在全球站的「Have a coupon code?」欄位輸入優惠碼後，48 個月的 Startup 方案從 383.52 美元降到 306.82 美元。測試中，20% 是從黑色星期五價格扣掉的，優惠碼單獨就有效，不需要連結。這是當時的測試價格，不是目前報價。",
+          "SONAR20 適用於所有月付與年付方案的新購訂單，已經是 Hostinger 客戶的人也能用。2026 年 11 月 7 日，我們在購物車實際測試過：在全球站的「Have a coupon code?」欄位輸入優惠碼後，48 個月的 Startup 方案從 383.52 美元降到 306.82 美元。測試中，20% 是從黑色星期五價格扣掉的，優惠碼單獨就有效，不需要連結。這是當時的測試價格，不是目前報價。",
           "你也可以透過本文的連結進入 Hostinger。在購物車中，付款前確認折扣、訂閱期間和總價。如果 SONAR20 沒有生效，請在優惠碼欄位輸入。"
         ]
       },
@@ -97302,7 +97302,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 适用范围",
         "paragraphs": [
-          "SONAR20 适用于所有月付和年付套餐的新购订单，已经是 Hostinger 客户的人也可以用。2026 年 10 月 29 日，我们在购物车里测试过：在全球站的 “Have a coupon code?” 栏输入代码后，48 个月的 Startup 套餐从 383.52 美元降到 306.82 美元。测试中，20% 是从黑色星期五价格上扣的，代码单独就有效，不需要链接。这是当时的测试价格，不是当前报价。",
+          "SONAR20 适用于所有月付和年付套餐的新购订单，已经是 Hostinger 客户的人也可以用。2026 年 11 月 7 日，我们在购物车里测试过：在全球站的 “Have a coupon code?” 栏输入代码后，48 个月的 Startup 套餐从 383.52 美元降到 306.82 美元。测试中，20% 是从黑色星期五价格上扣的，代码单独就有效，不需要链接。这是当时的测试价格，不是当前报价。",
           "你也可以通过本文的链接进入 Hostinger。在购物车里，付款前确认折扣、订阅周期和总价。如果 SONAR20 没有生效，请在优惠码栏输入。"
         ]
       },
@@ -97484,7 +97484,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para R$ 229,92 com o SONAR20. Num teste de 29/10/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
+          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para R$ 229,92 com o SONAR20. Num teste de 07/11/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
           "Onde colar o código e por que a renovação não tem desconto está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
@@ -97610,7 +97610,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What you pay with the campaign and with SONAR20",
         "postParagraphs": [
-          "The discount applies on top of the campaign price. In a test on October 29, 2026 on the global site, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”). Plan, campaign and country can change the total, so check the amount in your cart.",
+          "The discount applies on top of the campaign price. In a test on November 7, 2026 on the global site, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”). Plan, campaign and country can change the total, so check the amount in your cart.",
           "Where to paste the code and why renewal has no discount are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
@@ -97735,7 +97735,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuánto cuesta con la campaña y con SONAR20",
         "postParagraphs": [
-          "El descuento se aplica sobre el precio de la campaña. En una prueba del 29 de octubre de 2026 en el sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»). El plan, la campaña y el país pueden cambiar el total, así que revisa el importe en tu carrito.",
+          "El descuento se aplica sobre el precio de la campaña. En una prueba del 7 de noviembre de 2026 en el sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»). El plan, la campaña y el país pueden cambiar el total, así que revisa el importe en tu carrito.",
           "Dónde pegar el código y por qué la renovación no tiene descuento está en [Cupón Hostinger SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
@@ -97860,7 +97860,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce que l’on paie avec la campagne et avec SONAR20",
         "postParagraphs": [
-          "La réduction s’applique sur le prix de la campagne. Lors d’un test du 29 octobre 2026 sur le site mondial, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »). L’offre, la campagne et le pays peuvent changer le total : vérifiez le montant dans votre panier.",
+          "La réduction s’applique sur le prix de la campagne. Lors d’un test du 7 novembre 2026 sur le site mondial, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »). L’offre, la campagne et le pays peuvent changer le total : vérifiez le montant dans votre panier.",
           "Où coller le code et pourquoi le renouvellement n’a pas de réduction : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
@@ -97985,7 +97985,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was Sie mit der Aktion und mit SONAR20 zahlen",
         "postParagraphs": [
-          "Der Rabatt wird auf den Aktionspreis angerechnet. Bei einem Test am 29. Oktober 2026 auf der globalen Seite sank der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$. Tarif, Aktion und Land können die Summe verändern, prüfen Sie den Betrag also im Warenkorb.",
+          "Der Rabatt wird auf den Aktionspreis angerechnet. Bei einem Test am 7. November 2026 auf der globalen Seite sank der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$. Tarif, Aktion und Land können die Summe verändern, prüfen Sie den Betrag also im Warenkorb.",
           "Wo Sie den Code einfügen und warum die Verlängerung keinen Rabatt hat, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
@@ -98110,7 +98110,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto si paga con la campagna e con SONAR20",
         "postParagraphs": [
-          "Lo sconto si applica sul prezzo della campagna. In un test del 29 ottobre 2026 sul sito globale, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»). Piano, campagna e paese possono cambiare il totale, quindi controlla l'importo nel carrello.",
+          "Lo sconto si applica sul prezzo della campagna. In un test del 7 novembre 2026 sul sito globale, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»). Piano, campagna e paese possono cambiare il totale, quindi controlla l'importo nel carrello.",
           "Dove incollare il codice e perché il rinnovo non ha sconto si trova in [Coupon Hostinger SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
@@ -98235,7 +98235,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "캠페인과 SONAR20으로 얼마가 되는지",
         "postParagraphs": [
-          "할인은 캠페인 가격에 적용됩니다. 2026년 10월 29일 글로벌 사이트에서 한 테스트에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다. 요금제, 캠페인, 국가에 따라 합계가 달라질 수 있으니 금액은 장바구니에서 확인하세요.",
+          "할인은 캠페인 가격에 적용됩니다. 2026년 11월 7일 글로벌 사이트에서 한 테스트에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다. 요금제, 캠페인, 국가에 따라 합계가 달라질 수 있으니 금액은 장바구니에서 확인하세요.",
           "코드를 붙여 넣을 위치와 갱신에 할인이 없는 이유는 [Hostinger 쿠폰 SONAR20](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
@@ -98360,7 +98360,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "キャンペーンとSONAR20でいくらになるか",
         "postParagraphs": [
-          "割引はキャンペーン価格に対して適用されます。2026年10月29日のグローバルサイトでのテストでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。プラン、キャンペーン、国によって合計は変わるため、金額はカートで確認してください。",
+          "割引はキャンペーン価格に対して適用されます。2026年11月7日のグローバルサイトでのテストでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。プラン、キャンペーン、国によって合計は変わるため、金額はカートで確認してください。",
           "コードを貼る場所と、更新に割引がない理由は、[Hostingerクーポン SONAR20](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
@@ -98485,7 +98485,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "活動價加 SONAR20 要付多少",
         "postParagraphs": [
-          "折扣是在活動價的基礎上計算的。在 2026 年 10 月 29 日對全球網站的測試中，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。方案、活動和國家都可能改變總價，請以購物車中的金額為準。",
+          "折扣是在活動價的基礎上計算的。在 2026 年 11 月 7 日對全球網站的測試中，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。方案、活動和國家都可能改變總價，請以購物車中的金額為準。",
           "代碼貼在哪裡，以及為什麼續約沒有折扣，請見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
@@ -98610,7 +98610,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "活动价加 SONAR20 要付多少",
         "postParagraphs": [
-          "折扣是在活动价的基础上计算的。在 2026 年 10 月 29 日对全球站点的测试中，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。方案、活动和国家都可能改变总价，请以购物车里的金额为准。",
+          "折扣是在活动价的基础上计算的。在 2026 年 11 月 7 日对全球站点的测试中，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。方案、活动和国家都可能改变总价，请以购物车里的金额为准。",
           "代码贴在哪里，以及为什么续费没有折扣，见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
