@@ -28940,7 +28940,7 @@ export const reviewsData: unknown[] = [
           "Nessas primeiras semanas, a poltrona superou nossas expectativas de conforto. O motor elétrico de reclinação opera com ruído quase imperceptível, o que é ótimo para assistir a filmes ou ler à noite. Para nós, a combinação de giro e balanço com o revestimento praticamente impermeável transformou a poltrona em um refúgio depois de um dia corrido.",
           "Usamos a configuração completa, com todos os opcionais do capítulo de acessórios abaixo. Todos foram úteis na rotina, mas a massagem foi a favorita da Cecília.",
           "Entre a emissão da nota fiscal e a chegada da poltrona passaram aproximadamente 15 dias corridos. Esse foi o nosso caso, não um prazo garantido; a entrega foi ágil para um móvel produzido de forma personalizada.",
-          "As condições comerciais foram verificadas em 24 de outubro de 2026: o código CECILIA12 oferece 12% de desconto nos produtos (não no frete) e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros, com parcela mínima de R$ 100, e frete grátis para poltronas e sofás no Sul e no Sudeste. Norte e Nordeste são atendidos pelo Mercado Livre, onde o CECILIA12 não vale. Essas condições podem ser alteradas pela fabricante."
+          "Condições comerciais de 24 de outubro de 2026: o código CECILIA12 oferece 12% de desconto nos produtos (não no frete) e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros, com parcela mínima de R$ 100, e frete grátis para poltronas e sofás no Sul e no Sudeste. Norte e Nordeste são atendidos pelo Mercado Livre, onde o CECILIA12 não vale. Essas condições podem ser alteradas pela fabricante."
         ],
         "bullets": [
           "Conforto ergonômico excepcional com sensação de 'abraço' acolhedor.",
@@ -31555,7 +31555,7 @@ export const reviewsData: unknown[] = [
         "heading": "Os dados atuais da Damie no Reclame Aqui",
         "widget": "ReputacaoMetricas",
         "paragraphs": [
-          "Na consulta de 06/11/2026, o [painel do Reclame Aqui](https://www.reclameaqui.com.br/empresa/damie-moveis/) mostrava estes indicadores da Damie Móveis, de 01/05/2026 a 31/10/2026:"
+          "De 01/05/2026 a 31/10/2026, o [painel do Reclame Aqui](https://www.reclameaqui.com.br/empresa/damie-moveis/) mostrava estes indicadores da Damie Móveis:"
         ],
         "bullets": [
           "Nota: 7,9/10",
@@ -31598,7 +31598,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como ler esses números",
         "paragraphs": [
-          "Não comparamos a Damie com o setor inteiro, então não dá para dizer que ela está acima ou abaixo da média. O que o painel mostra é o ranking da categoria Ecommerce - Móveis e Decoração, em que a Damie aparecia em 52º lugar na consulta.",
+          "Não comparamos a Damie com o setor inteiro, então não dá para dizer que ela está acima ou abaixo da média. O que o painel mostra é o ranking da categoria Ecommerce - Móveis e Decoração, em que a Damie aparecia em 52º lugar.",
           "A comparação com duas marcas que também vendem sofá na caixa, a Inflow e a Sofá na Caixa, está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie), com os dados das três no mesmo período de 6 meses."
         ]
       },
@@ -33871,7 +33871,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Starbucks e Kopenhagen",
         "paragraphs": [
-          "São cinco Starbucks: Espresso Colombia (7), Americano House Blend (8), Cappuccino de duas cápsulas, Caramel Macchiato, sem estoque na leitura, e o Toffee Nut Latte, edição limitada em caixa de 12.",
+          "São cinco Starbucks: Espresso Colombia (7), Americano House Blend (8), Cappuccino de duas cápsulas, Caramel Macchiato, que estava sem estoque, e o Toffee Nut Latte, edição limitada em caixa de 12.",
           "A Kopenhagen tem cinco: Espresso, Cappuccino, Lajotinha, Língua de Gato e Chococino Cereja."
         ],
         "image": {
@@ -33884,7 +33884,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mais vendidas: o que a loja mostra",
         "paragraphs": [
-          "A loja tem a ordem \"Mais Vendidos\", mas não diz o período nem o critério. Na leitura, ela punha na frente os combos, a Toffee Nut Latte, de edição limitada, e dois cafés NEO, e os clássicos no fim: o Mochaccino Canela, o sabor com mais avaliações de clientes na loja (85), aparecia entre os últimos. Por isso este guia não faz ranking.",
+          "A loja tem a ordem \"Mais Vendidos\", mas não diz o período nem o critério. Ela punha na frente os combos, a Toffee Nut Latte, de edição limitada, e dois cafés NEO, e os clássicos no fim: o Mochaccino Canela, o sabor com mais avaliações de clientes na loja (85), aparecia entre os últimos. Por isso este guia não faz ranking.",
           "A seleção que a loja chama de \"Nossos Favoritos!\", no DGusta, junta Café Caseiro, Mochaccino Canela, Pingado, Nescau e KitKat."
         ]
       },
@@ -33971,7 +33971,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e o cupom CECI",
         "paragraphs": [
-          "Na loja oficial, o cupom CECI dá 10% OFF em compras a partir de R$ 100. Na leitura dos preços, a loja também dava frete grátis em pedidos de bebidas acima de R$ 100. Quantas caixas fecham esse valor está no nosso guia de custo."
+          "Na loja oficial, o cupom CECI dá 10% OFF em compras a partir de R$ 100. A loja também dava frete grátis em pedidos de bebidas acima de R$ 100. Quantas caixas fecham esse valor está no nosso guia de custo."
         ],
         "links": [
           {
@@ -34016,7 +34016,7 @@ export const reviewsData: unknown[] = [
           "Qual é o melhor sabor de cápsula Dolce Gusto? Depende do perfil: o capítulo Qual sabor escolher separa café puro, café forte, com leite, chocolate, chá, gelado, Starbucks, Kopenhagen e NEO.",
           "Qual é a cápsula Dolce Gusto mais vendida? A loja tem a ordem \"Mais Vendidos\", mas não informa o critério, então não há ranking oficial e este guia não faz um.",
           "Qual o café mais gostoso da Dolce Gusto? Depende do seu gosto: compare pela intensidade que a loja informa e pelo leite ou chocolate da bebida.",
-          "Quais são os sabores das cápsulas Dolce Gusto? Na leitura do catálogo, a loja listava 52 caixas Original (19 cafés, 19 cappuccinos e lattes, 9 chocolates e 5 chás) e 8 cafés NEO.",
+          "Quais são os sabores das cápsulas Dolce Gusto? A loja listava 52 caixas Original (19 cafés, 19 cappuccinos e lattes, 9 chocolates e 5 chás) e 8 cafés NEO.",
           "Qual a melhor cápsula de cappuccino da Dolce Gusto? Não há uma melhor. O Cappuccino, o Kopenhagen Cappuccino e o Starbucks Cappuccino usam duas cápsulas por bebida; o Cappuccino Moça Doce de Leite e o Caramelo Salgado usam uma.",
           "Qual a melhor cápsula de chocolate da Dolce Gusto? Não há uma melhor. Nescau, Galak, KitKat e Chococino Alpino usam uma cápsula por bebida; Chococino Nestlé e Kopenhagen Língua de Gato usam duas.",
           "Quais cápsulas dão certo na Dolce Gusto? As Original nas máquinas Original e as NEO nas máquinas NEO. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start.",
@@ -34246,7 +34246,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, tamanho e recursos lado a lado",
         "comparisonTable": {
-          "caption": "Preços de venda na loja oficial em 12/10/2026. Medidas e recursos do comparativo oficial de máquinas, relido na mesma data, que não inclui a NEO.",
+          "caption": "Preços de venda na loja oficial em 12/10/2026. Medidas e recursos do comparativo oficial de máquinas, que não inclui a NEO.",
           "headers": [
             "Recurso",
             "Mini Me 2.0",
@@ -34880,7 +34880,7 @@ export const reviewsData: unknown[] = [
           "O Travesseiro IWS Snow é bom para quem tem dor cervical? A marca diz que os flocos de espuma com gel distribuem a pressão da cabeça e do pescoço e ajudam a aliviar dores causadas por pontos de tensão. A altura ajustável permite procurar a posição mais confortável. Quem tem dor persistente ou alguma condição médica deve procurar um ortopedista ou fisioterapeuta.",
           "Qual a diferença entre o Travesseiro IWS Snow e o IWS Airgelly 2.0? O Snow tem altura ajustável e enchimento de flocos de espuma com gel. O Airgelly 2.0 é o modelo que a marca apresenta como antialérgico e 100% lavável, indicado para quem tem rinite ou outra alergia respiratória. O Snow Regular custava R$ 347 e o Airgelly 2.0, R$ 472.",
           "O Travesseiro IWS Snow é firme ou macio? A página oficial não classifica a firmeza. O que muda é a altura e o volume: com todos os flocos, ele fica mais alto e cheio; tirando flocos, fica mais baixo.",
-          "O Travesseiro IWS Snow esquenta durante a noite? A marca diz que as partículas de gel ajudam a manter a temperatura agradável e que a capa de viscose de bambu ajuda a reduzir a temperatura do travesseiro. Ainda não testamos o Snow em casa.",
+          "O Travesseiro IWS Snow esquenta durante a noite? A marca diz que as partículas de gel ajudam a manter a temperatura agradável e que a capa de viscose de bambu ajuda a reduzir a temperatura do travesseiro.",
           "Qual a altura ideal do IWS Snow para quem dorme de lado? Quem dorme de lado costuma precisar de mais altura, para a cabeça ficar alinhada com o pescoço. No Snow, isso quer dizer manter mais flocos no enchimento. Uma referência é a distância entre o ombro e a base do pescoço, e a altura ajustável permite testar."
         ]
       }
@@ -35333,7 +35333,7 @@ export const reviewsData: unknown[] = [
           "Itens de nutrição clínica e pediátrica (Alfamino, Alfaré, Isosource, Modulen) devem seguir a indicação do rótulo e, quando aplicável, orientação de um profissional de saúde.",
           "Confira a validade do lote no momento da compra, porque são produtos de consumo contínuo.",
           "Se você compra com frequência, vale avaliar o Programa Nestlé Nutre separadamente do cupom CECI.",
-          "No checkout, digite o CECI e confira a linha do desconto no resumo: no nosso teste, ele somou com as promoções da loja."
+          "No checkout, digite o CECI e confira a linha do desconto no resumo: ele soma com as promoções da loja."
         ]
       },
       {
@@ -35365,7 +35365,7 @@ export const reviewsData: unknown[] = [
           "A Nestlé Nutre entrega no meu CEP? Digite o CEP no carrinho: o site mostra se entrega, o prazo e o frete antes do pagamento.",
           "Como funciona a devolução na Nestlé Nutre? Pelo direito de arrependimento, você pede a devolução ao SAC em até 7 dias corridos após o recebimento, com o produto na embalagem original ou similar e a nota fiscal. A Nestlé paga a coleta e, no cartão, o estorno sai na fatura seguinte ou na posterior.",
           "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde e atendimento nutricional gratuito. O programa é separado da parceria do cupom CECI com este blog.",
-          "O cupom CECI soma com as promoções da Nestlé Nutre? No nosso teste, sim: o CECI deu 10% OFF nos produtos elegíveis junto com as promoções da loja. Ele não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; confira a linha do desconto no resumo antes de pagar."
+          "O cupom CECI soma com as promoções da Nestlé Nutre? Sim: o CECI dá 10% OFF nos produtos elegíveis junto com as promoções da loja. Ele não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; confira a linha do desconto no resumo antes de pagar."
         ]
       }
     ],
@@ -35931,8 +35931,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e o que o cupom altera",
         "paragraphs": [
-          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial era de R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
-          "Em teste já registrado no passo a passo do cupom, o CECI aplicou os 10% por cima de um combo que já tinha desconto de vitrine. Somar com outro código digitado no mesmo pedido não é garantido: o checkout costuma ficar com um cupom só. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses não entram."
+          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial era de R$ 211,79. O que permanece é a regra do checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
+          "No passo a passo do cupom, o CECI aplicou os 10% por cima de um combo que já tinha desconto de vitrine. Somar com outro código digitado no mesmo pedido não é garantido: o checkout costuma ficar com um cupom só. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses não entram."
         ],
         "links": [
           {
@@ -36437,7 +36437,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem é o dono do magazinevoce.com.br: CNPJ e registro do domínio",
         "paragraphs": [
-          "Essa foi a minha primeira verificação antes de abrir a loja, e qualquer pessoa pode repetir. A consulta pública do registro.br (rdap.registro.br/domain/magazinevoce.com.br) mostra o domínio em nome da MAGAZINE LUIZA S/A, CNPJ 47.960.950/0001-21, registrado desde 2011.",
+          "Qualquer pessoa pode conferir: o registro.br (rdap.registro.br/domain/magazinevoce.com.br) mostra o domínio em nome da MAGAZINE LUIZA S/A, CNPJ 47.960.950/0001-21, registrado desde 2011.",
           "Os outros dois endereços do programa, parceiromagalu.com.br (registrado em 2019) e influenciadormagalu.com.br (em 2024), estão no mesmo CNPJ. O contrato do programa diz que as marcas e os domínios são de propriedade do Magazine Luiza."
         ]
       },
@@ -36473,7 +36473,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como saber se o link é oficial: checklist",
         "bullets": [
           "O endereço é magazinevoce.com.br/nome-da-loja/, com ou sem www., e nada vem entre o .com.br e a primeira barra. Confira letra por letra.",
-          "A consulta do registro.br (rdap.registro.br/domain/magazinevoce.com.br) mostra a Magazine Luiza S/A como titular, no campo registrant (a resposta vem em formato técnico).",
+          "O registro.br (rdap.registro.br/domain/magazinevoce.com.br) mostra a Magazine Luiza S/A como titular, no campo registrant (a resposta vem em formato técnico).",
           "A loja mostra o selo do programa com o nome de quem a mantém.",
           "Na página de cada produto, veja o \"Vendido e entregue por\".",
           "Pague só no checkout do Magalu. No aviso sobre pedidos internacionais taxados, o próprio Magalu diz que \"nunca envia boletos ou links de cobrança por e-mail, SMS ou WhatsApp\". Se alguém cobrar por mensagem em nome da loja, desconfie na hora.",
@@ -36645,7 +36645,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Preço oficial",
-        "value": "R$ 979,90 por R$ 799,90 (verificado em 13 Out 2026)"
+        "value": "R$ 979,90 por R$ 799,90 (preço de 13 Out 2026)"
       },
       {
         "key": "Cupom de desconto",
@@ -36741,7 +36741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que incomodou (sem só elogiar)",
         "paragraphs": [
-          "Além do pingo entre preparos, dois pontos práticos: a unidade 127V testada possui plugue de 20A e deve ser ligada a uma tomada compatível, sem adaptadores improvisados. E, em recursos de conectividade, ela fica atrás: a NEO tem mais integração (IoT) e custa menos (com preço verificado em 23 de julho de 2026), e a Nespresso Vertuo (como o modelo Vertuo Pop) também oferece mais nesse quesito por um preço parecido ou um pouco mais alto.",
+          "Além do pingo entre preparos, dois pontos práticos: a unidade 127V testada possui plugue de 20A e deve ser ligada a uma tomada compatível, sem adaptadores improvisados. E, em recursos de conectividade, ela fica atrás: a NEO tem mais integração (IoT) e custa menos (com preço de 23 de julho de 2026), e a Nespresso Vertuo (como o modelo Vertuo Pop) também oferece mais nesse quesito por um preço parecido ou um pouco mais alto.",
           "Vale registrar também: existem relatos de seguidores e reclamações públicas (inclusive no Reclame Aqui) sobre o painel touch da Genio S Touch apresentando problemas depois de um tempo de uso. Com poucos dias de máquina, não temos como confirmar nem descartar esse risco: é algo que vamos acompanhar e atualizar aqui."
         ],
         "bullets": []
@@ -36784,7 +36784,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço verificado em 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 10% de desconto em compras a partir de R$ 100; confira no resumo do pedido. As condições do código estão na [página de cupons da Dolce Gusto](/cupons/dolce-gusto).",
+          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço de 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 10% de desconto em compras a partir de R$ 100; confira no resumo do pedido. As condições do código estão na [página de cupons da Dolce Gusto](/cupons/dolce-gusto).",
           "Como todo cupom promocional, o CECI pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
         ],
         "bullets": []
@@ -43953,7 +43953,7 @@ export const reviewsData: unknown[] = [
         "heading": "Se você escolher o modular: o que observamos na Damie",
         "paragraphs": [
           "No modular da Damie que acompanhamos em casa, braços e encosto se encaixam por gravidade, enquanto os pés usam fixação por velcro. A montagem não depende de ferramenta, mas o comprador ainda precisa conferir medidas, composição, tecido, entrega e condições de devolução vigentes na página do produto.",
-          "Na consulta de 26 de agosto de 2026, a página oficial da coleção informava 1 ano de garantia geral. Depois desse período, a Damie declara suporte vitalício e peças de reposição a preço de custo — um ponto relevante para os opcionais integrados aos braços e para a manutenção de longo prazo. Como condições comerciais podem mudar, confirme os termos vigentes antes da compra.",
+          "Em 26 de agosto de 2026, a página oficial da coleção informava 1 ano de garantia geral. Depois desse período, a Damie declara suporte vitalício e peças de reposição a preço de custo — um ponto relevante para os opcionais integrados aos braços e para a manutenção de longo prazo. Como condições comerciais podem mudar, confirme os termos vigentes antes da compra.",
           "Se essa for a sua escolha, o [cupom Damie](/cupons/damie) CECILIA12, código de parceria, dá 12% OFF em todo o site da DAMIE. Confira o desconto no carrinho antes de finalizar a compra."
         ],
         "links": [
@@ -44472,7 +44472,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual delas faz mais sentido para você?",
         "paragraphs": [
           "Com os dados que conseguimos confirmar, não existe uma campeã universal. Pela tabela, a Nutren com o CECI e a Growth no Pix ficam praticamente empatadas na amostra, a R$ 17,97 e R$ 17,96 por 100 g (diferença de R$ 0,01), e a FTW à vista fica R$ 1 acima, a R$ 18,97; confirme frete e desconto no checkout antes de fechar.",
-          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth usa porção de 5 g e embalagem de 250 g, então o número de porções não se compara direto com o da Nutren; vale para quem já compra na loja dela. A FTW oferece pote de 300 g e fica R$ 1 por 100 g acima da Nutren com o CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
+          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth usa porção de 5 g e embalagem de 250 g, então o número de porções não se compara direto com o da Nutren; vale para quem já compra na loja dela. A FTW oferece pote de 300 g e fica R$ 1 por 100 g acima da Nutren com o CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial nas fontes da comparação.",
           "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
         ],
         "bullets": [],
@@ -45821,7 +45821,7 @@ export const reviewsData: unknown[] = [
               "Original oficial: aproximadamente R$ 9,67"
             ],
             [
-              "Simulação mensal com 30 cápsulas",
+              "Custo mensal estimado com 30 cápsulas",
               "Clássica oficial: R$ 50,70 a R$ 63,00",
               "Original oficial: R$ 111,00 a R$ 126,00 · Farmers Origins: aproximadamente R$ 51,00"
             ],
@@ -46297,15 +46297,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada linha, com o cupom CECIEMCASA aplicado",
         "paragraphs": [
-          "Os valores são de referência do site oficial da I Wanna Sleep. O preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. A última coluna simula 10% de desconto sobre esses valores; confirme no carrinho se o CECIEMCASA acumula com a promoção ativa."
+          "Os valores são de referência do site oficial da I Wanna Sleep. O preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. A última coluna mostra o valor com 10% de desconto sobre esses valores; confirme no carrinho se o CECIEMCASA acumula com a promoção ativa."
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Valores de referência das 4 linhas de cobertores IWS e simulação com 10% do CECIEMCASA",
+          "caption": "Valores de referência das 4 linhas de cobertores IWS e valor com 10% do CECIEMCASA",
           "headers": [
             "Linha e tamanho",
             "Preço registrado",
-            "Simulação com 10%"
+            "Com 10% de desconto"
           ],
           "rows": [
             [
@@ -50582,7 +50582,7 @@ export const reviewsData: unknown[] = [
           "Quantas vezes ao dia posso tomar Nutren Senior? Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem. Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor, no Zero Lactose e, pela página do produto, na Baunilha; 31,5 g nos demais sabores; vale a medida da lata).",
           "O Nutren Senior engorda? As calorias por porção estão na tabela do capítulo de água ou leite e variam conforme a versão. Se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
           "Diabético pode tomar Nutren Senior? Depende do caso: converse com o médico ou o nutricionista. Os açúcares por porção estão na tabela nutricional do produto.",
-          "Serve para quem tem disfagia? A marca não traz orientação específica sobre disfagia nas páginas que consultamos. Quem tem dificuldade para engolir deve falar com o médico ou o fonoaudiólogo antes de usar."
+          "Serve para quem tem disfagia? A marca não traz orientação específica sobre disfagia nas fontes deste guia. Quem tem dificuldade para engolir deve falar com o médico ou o fonoaudiólogo antes de usar."
         ]
       }
     ],
@@ -51253,7 +51253,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem está por trás da Let's Eat It",
         "paragraphs": [
-          "A matriz da Let's Eat It tem o CNPJ 37.882.316/0001-64, o mesmo que aparece no perfil da loja no Reclame Aqui. Na consulta aos dados públicos desse CNPJ, encontrei a matriz e três filiais, todas com situação ativa:"
+          "A matriz da Let's Eat It tem o CNPJ 37.882.316/0001-64, o mesmo que aparece no perfil da loja no Reclame Aqui. Nos dados públicos desse CNPJ, constam a matriz e três filiais, todas com situação ativa:"
         ],
         "comparisonTable": {
           "caption": "Dados públicos de CNPJ, 02/10/2026.",
@@ -51448,7 +51448,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Let's Eat It é confiável? Sim, com ressalva no pós-venda. A empresa tem CNPJ ativo desde 2020, filiais em três estados e presença no localizador oficial da Le Creuset Brasil. No recorte de abril a setembro, a reputação no Reclame Aqui era Boa, com ressalvas sobre satisfação e tempo de resposta.",
           "A Let's Eat It é uma loja de verdade? Sim. Tem CNPJ ativo, matriz no Rio de Janeiro, filiais em São Paulo, Serra (ES) e Itajaí (SC) e um showroom em São Paulo, a Casa Let's.",
-          "Qual é o CNPJ da Let's Eat It? O CNPJ da matriz é 37.882.316/0001-64, no Rio de Janeiro, com situação ativa na consulta aos dados públicos. A loja também tem filiais registradas em São Paulo, Serra (ES) e Itajaí (SC).",
+          "Qual é o CNPJ da Let's Eat It? O CNPJ da matriz é 37.882.316/0001-64, no Rio de Janeiro, com situação ativa nos dados públicos. A loja também tem filiais registradas em São Paulo, Serra (ES) e Itajaí (SC).",
           "A Let's Eat It vende Le Creuset original? A Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, o que indica que a marca a reconhece como ponto de venda. Guarde a nota fiscal da compra.",
           "A Let's Eat It tem loja física? Sim, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h. As compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi.",
           "Dá para retirar o pedido na Casa Let's? Não. Segundo a política de frete, os pedidos feitos no site são sempre enviados para o endereço informado na compra.",
@@ -51506,7 +51506,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "99,1% das reclamações de abril a setembro foram respondidas; só 1 aguardava resposta na consulta",
+      "99,1% das reclamações de abril a setembro foram respondidas; só 1 aguardava resposta",
       "94% das 50 reclamações avaliadas de abril a setembro foram marcadas como resolvidas pelos consumidores",
       "Reputação Boa em todos os meses de abril a setembro",
       "13ª colocada no ranking de melhores empresas da categoria lojas de decoração do Reclame Aqui",
@@ -51542,7 +51542,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Let's Eat It no Reclame Aqui",
         "paragraphs": [
-          "Estes são os indicadores do perfil da Let's Eat It na aba de 6 meses, que é a janela usada para a reputação exibida no topo da página (dados até 30/09/2026, consulta de 02/10/2026):"
+          "Estes são os indicadores do perfil da Let's Eat It na aba de 6 meses, que é a janela usada para a reputação exibida no topo da página (dados até 30/09/2026):"
         ],
         "comparisonTable": {
           "caption": "Perfil da Let's Eat It no Reclame Aqui, aba de 6 meses.",
@@ -52249,7 +52249,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "Linha Ninho vendida na loja oficial da Nestlé",
-      "Cupom CECI com 10% de desconto no teste de checkout",
+      "Cupom CECI com 10% de desconto",
       "Assinatura com 10% a 25% de desconto em parte da linha",
       "Rótulos dizem se o produto é leite, composto ou fórmula"
     ],
@@ -52352,10 +52352,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Leite Ninho na Nestlé Nutre: preços com o cupom CECI",
         "paragraphs": [
-          "A Nestlé Nutre é a loja oficial da Nestlé e vende a linha Ninho direto da marca. Os preços abaixo são os exibidos na loja em 4 de outubro de 2026, apenas para os produtos com estoque naquele dia. No teste que fizemos no checkout no mesmo dia, o cupom **CECI** deu 10% de desconto nos produtos Ninho; a coluna do cupom aplica esses 10% sobre o preço do site."
+          "A Nestlé Nutre é a loja oficial da Nestlé e vende a linha Ninho direto da marca. Os preços abaixo são os exibidos na loja em 4 de outubro de 2026, apenas para os produtos com estoque naquele dia. O cupom **CECI** dá 10% de desconto nos produtos Ninho; a coluna do cupom aplica esses 10% sobre o preço do site."
         ],
         "comparisonTable": {
-          "caption": "Linha Ninho na Nestlé Nutre: preços com estoque no dia da consulta",
+          "caption": "Linha Ninho na Nestlé Nutre: preços dos itens com estoque em 4 de outubro de 2026",
           "headers": [
             "Produto",
             "Preço no site",
@@ -52434,7 +52434,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena comprar Ninho na Nestlé Nutre?",
         "paragraphs": [
           "Para quem já usa Ninho todo mês, sim: a loja é da própria Nestlé, o cupom **CECI** deu 10% no checkout e a assinatura baixa o preço de vários itens, com a opção de cancelar sem custo e pular até duas entregas por ano.",
-          "O ponto de atenção é o estoque. Na consulta, mais da metade dos itens da linha mostrava \"Avise-me\"; antes de contar com um item fixo na assinatura, veja se ele está disponível."
+          "O ponto de atenção é o estoque. Na loja, mais da metade dos itens da linha mostrava \"Avise-me\"; antes de contar com um item fixo na assinatura, veja se ele está disponível."
         ],
         "links": [
           {
@@ -52453,7 +52453,7 @@ export const reviewsData: unknown[] = [
           "Café, vitamina, bolo e recheio: **Leite Ninho Integral**, o leite em pó. O Integral Instantâneo também serve, e custava R$ 19,81 (lata de 380 g) na Nestlé Nutre.",
           "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. Para crianças maiores (a partir de 3 ou 4 anos, dependendo da versão do Fases 3+ ou Idade Escolar), o produto é composto lácteo. Na dúvida, converse com o pediatra ou nutricionista.",
           "Família: o Forti+ Fibras e o Zero Lactose são compostos lácteos, e o Ninho Adulto é leite semidesnatado.",
-          "Comprar com desconto: na Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (**CECI**) deu 10% no nosso teste de checkout, e a assinatura reduz o preço de parte da linha."
+          "Comprar com desconto: na Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (**CECI**) dá 10%, e a assinatura reduz o preço de parte da linha."
         ]
       },
       {
@@ -52465,7 +52465,7 @@ export const reviewsData: unknown[] = [
           "Qual Ninho usar no recheio de Ninho? O Leite Ninho Integral. Misture com o leite condensado com a panela fria para não empelotar.",
           "Bebê menor de 1 ano pode tomar Ninho? Não. Os rótulos de leite, composto e fórmula Ninho avisam que o produto não deve ser usado para alimentar crianças menores de 1 ano.",
           "O Mucininho tem Ninho? Sim. O Mucilon Mucininho traz o selo \"contém Ninho\" e é indicado a partir de 3 anos, preparado com leite.",
-          "Tem cupom de desconto para leite Ninho? Sim. Na Nestlé Nutre, o cupom CECI deu 10% de desconto nos produtos Ninho no nosso teste de checkout. Confira o percentual no carrinho, porque ele pode mudar.",
+          "Tem cupom de desconto para leite Ninho? Sim. Na Nestlé Nutre, o cupom CECI dá 10% de desconto nos produtos Ninho. Confira o percentual no carrinho, porque ele pode mudar.",
           "Vale a pena assinar Ninho na Nestlé Nutre? Para quem compra todo mês, sim: a assinatura dá de 10% a 25% em parte da linha. O Ninho Fases 1+ não tem desconto extra na assinatura."
         ]
       }
@@ -52528,7 +52528,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "25% de desconto e frete grátis em todos os pedidos",
-      "Cupom CECI somou com a assinatura no nosso teste",
+      "Cupom CECI de 5% foi aceito na assinatura, no teste",
       "Geração 1 e NEO na mesma assinatura",
       "Cancela sem multa até 1 dia antes do pedido"
     ],
@@ -52620,7 +52620,7 @@ export const reviewsData: unknown[] = [
             "Caixas por mês",
             "Preço cheio",
             "Na assinatura (25%)",
-            "Com CECI de 10%, se aceito na assinatura (simulação)"
+            "Com CECI de 10%, se aceito na assinatura (estimativa)"
           ],
           "rows": [
             [
@@ -52648,17 +52648,17 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Quem toma pouco café pode escolher entregas a cada 2 ou 3 meses. Um exemplo é receber 6 caixas a cada 2 meses, em vez de 3 todo mês. Assim o pedido supera o mínimo de R$ 100 do CECI.",
-          "O CECI vale para compras a partir de R$ 100. No nosso teste, ele entrou com subtotal de R$ 119,60, que ficou em R$ 89,70 depois dos 25%, por isso a tabela considera o subtotal antes do desconto. O checkout pode arredondar alguns centavos."
+          "O CECI vale para compras a partir de R$ 100. O checkout o aplicou num subtotal de R$ 119,60, que ficou em R$ 89,70 depois dos 25%, por isso a tabela considera o subtotal antes do desconto. O checkout pode arredondar alguns centavos."
         ]
       },
       {
         "heading": "Assinatura ou promoção avulsa: o que sai mais barato?",
         "paragraphs": [
           "A assinatura nem sempre tem o menor preço: os 25% saem do **preço cheio**, e o regulamento diz que as promoções do site não se somam às compras da assinatura. Então, quando a loja coloca caixas em promoção na compra avulsa, o preço de vitrine pode ficar abaixo do preço da assinatura.",
-          "Foi o que aconteceu no dia da leitura dos preços. Na página de Sabores, o Espresso de 10 cápsulas estava de R$ 25,90 por R$ 17,90 na compra avulsa, e o combo de 8 caixas de Espresso saía com 32% de desconto:"
+          "Foi o que aconteceu na página de Sabores: o Espresso de 10 cápsulas estava de R$ 25,90 por R$ 17,90 na compra avulsa, e o combo de 8 caixas de Espresso saía com 32% de desconto:"
         ],
         "comparisonTable": {
-          "caption": "Espresso Geração I, caixa de 10 cápsulas: assinatura, oferta avulsa e simulação com código. Confirme preço e elegibilidade atuais.",
+          "caption": "Espresso Geração I, caixa de 10 cápsulas: assinatura, oferta avulsa e estimativa com código. Confirme preço e elegibilidade atuais.",
           "headers": [
             "Forma de compra",
             "Preço por caixa",
@@ -52685,7 +52685,7 @@ export const reviewsData: unknown[] = [
               "Conforme o carrinho"
             ],
             [
-              "Assinatura + CECI de 10%, se aceito (simulação)",
+              "Assinatura + CECI de 10%, se aceito (estimativa)",
               "R$ 17,48",
               "R$ 1,75",
               "Grátis"
@@ -52706,7 +52706,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom CECI soma com a assinatura?",
         "paragraphs": [
-          "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. Essa era uma dúvida nossa também, porque o item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
+          "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
           "Num dos nossos testes fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
         ],
         "image": {
@@ -52742,7 +52742,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No pedido de teste, cada caixa saiu por cerca de **R$ 21,31**, e o desconto total foi de R$ 34,38. Como simulação, se o CECI de 10% for aceito sobre o valor após os 25%, o mesmo pedido sairia por cerca de R$ 80,73.",
+          "Nesse pedido, cada caixa saiu por cerca de **R$ 21,31**, e o desconto total foi de R$ 34,38. Se o CECI de 10% for aceito sobre o valor após os 25%, o mesmo pedido sairia por cerca de R$ 80,73.",
           "Digite CECI no campo de cupom do checkout e confira a linha do desconto. Se o código não for aplicado, compare o total da assinatura com a compra avulsa antes de concluir o pedido."
         ],
         "links": [
@@ -52809,7 +52809,7 @@ export const reviewsData: unknown[] = [
           "Qual é a assinatura mais barata da Dolce Gusto? O pedido mínimo é de 3 caixas por entrega. Com caixas de Geração I regulares, sai em cerca de R$ 58 por entrega; os preços atuais estão no montador.",
           "A assinatura mostra o preço com desconto? Sim: no montador, cada caixa já aparece com os 25%, e o preço cheio fica riscado ao lado.",
           "A assinatura Dolce Gusto dá máquina grátis? Não. O plano de 2018 com máquina grátis foi encerrado, e hoje a Mini Me de brinde vem da promoção por volume de caixas.",
-          "O CECI acumula com a assinatura Dolce Gusto? No nosso teste, o código de 5% somou com os 25% da assinatura. Hoje o CECI é de 10%; confira no checkout se ele entra na assinatura.",
+          "O CECI acumula com a assinatura Dolce Gusto? Quando valia 5%, o código somou com os 25% da assinatura. Hoje o CECI é de 10%; confira no checkout se ele entra na assinatura.",
           "A promoção de caixas com Mini Me vale na assinatura? Não. O regulamento diz que promoções do site não se somam às compras da assinatura.",
           "Dá para pagar a assinatura parcelado? Não. A assinatura aceita só cartão de crédito Visa, Mastercard ou Elo, sem parcelamento."
         ]
@@ -53133,7 +53133,7 @@ export const reviewsData: unknown[] = [
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Insider",
         "paragraphs": [
           "A Insider vende quase tudo pela internet, em todo o país, e trabalha com peças mais caras que a média das camisetas básicas. Para quem vai comprar pela primeira vez, a dúvida é menos sobre a roupa e mais sobre o que acontece se o pacote atrasar, se a peça vier com defeito ou se o tamanho não servir.",
-          "Uma loja desse tamanho sempre vai ter reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, se resolve, quanto tempo leva e quais problemas se repetem. Para este artigo, consultamos em 5 de outubro de 2026 todas as abas de desempenho do perfil da Insider Store, a lista de principais problemas dos últimos três anos e as respostas da empresa às reclamações mais recentes. Os números do Reclame Aqui mudam todos os dias, então vale abrir o perfil de novo no dia da sua compra."
+          "Uma loja desse tamanho sempre vai ter reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, se resolve, quanto tempo leva e quais problemas se repetem. O perfil da Insider Store reúne abas de desempenho, a lista de principais problemas dos últimos três anos e as respostas da empresa às reclamações mais recentes. Os números são de outubro de 2026 e mudam todos os dias, então vale abrir o perfil de novo no dia da sua compra."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
@@ -54406,7 +54406,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nas bebidas, a campanha funciona por oferta do dia: na que lemos, a caixa de Mochaccino caía de R$ 25,90 para R$ 15,90. Fora dela, os banners traziam 25% OFF nos cafés Lungos NEO, até 25% OFF em acessórios, frete grátis acima de R$ 100 e uma Mini Me vermelha de brinde na compra de 80 caixas de bebidas.",
+          "Nas bebidas, a campanha funciona por oferta do dia: numa delas, a caixa de Mochaccino caía de R$ 25,90 para R$ 15,90. Fora dela, os banners traziam 25% OFF nos cafés Lungos NEO, até 25% OFF em acessórios, frete grátis acima de R$ 100 e uma Mini Me vermelha de brinde na compra de 80 caixas de bebidas.",
           "A assinatura entrou na campanha com desconto em todas as bebidas no primeiro pedido, 35% OFF num banner e 30% OFF noutro, com \"benefícios garantidos até janeiro\", e frete grátis em todos os pedidos. A conta vale para quem toma café todo dia; o desconto maior é só na primeira entrega.",
           "Pelo regulamento do site, as ofertas diárias valem só no site oficial, enquanto durarem os estoques, e não são cumulativas com combo com máquinas, combo de bebidas e resgate de pontos. Essa é a regra da oferta; a do cupom está no capítulo do CECI."
         ],
@@ -54831,7 +54831,7 @@ export const reviewsData: unknown[] = [
           "Na DAMIE, o preço final pode juntar o desconto da página, o Pix, o cupom e, em compras de mais de uma poltrona, o desconto por quantidade. O CECILIA12 soma com todos eles; só não soma com outro cupom nem com o giftback."
         ],
         "bullets": [
-          "**Desconto da página:** já vem no preço do produto. Nas duas leituras, era de R$ 1.000 em todas as reclináveis.",
+          "**Desconto da página:** já vem no preço do produto. Era de R$ 1.000 em todas as reclináveis, em outubro e na campanha.",
           "**Pix à vista:** 10% de desconto. A página do produto já mostra o preço no Pix com o desconto da página aplicado: R$ 3.869,10 na elétrica com giro e balanço em suede, por exemplo.",
           "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Ele é aplicado no carrinho e soma com as promoções, os brindes e o desconto do Pix. Na giro e balanço em suede, os 12% sobre os R$ 4.299 tiram R$ 515,88, e a poltrona sai por R$ 3.783,12 no cartão, em até 12x sem juros. No Pix, entram também os 10%: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 3.404,81. O resumo do checkout mostra o valor exato antes de pagar.",
           "**Desconto por quantidade:** R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5, nas reclináveis e na Poltrona Cinema, durante a campanha, informa a página de ofertas. Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
@@ -55139,7 +55139,7 @@ export const reviewsData: unknown[] = [
           "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
           "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
           "**Cashback e a sexta:** pela página do cashback, o cupom só pode ser usado a partir de 7 dias depois da compra que o gerou e vale 30 dias. Para usar o cashback na sexta da Black Friday, a compra que o gera precisa ser feita pelo menos 7 dias antes; uma compra na semana da data gera um cupom que só vale depois dela. Os termos estão na página do cashback.",
-          "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
+          "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. Ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
           "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tira R$ 87,34, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
           "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
           "**Frete:** frete grátis só para Le Creuset e Zwilling, em pedidos acima de R$ 1.000 em produtos dessas marcas, segundo a política de frete da loja. No resto, o frete é calculado pelo CEP e pelo peso do pedido: confira o valor no carrinho antes de pagar."
@@ -56329,7 +56329,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Repare nos kits: o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). Conferimos no carrinho que o preço do kit vale para as duas latas.",
+          "Repare nos kits: o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). O preço do kit vale para as duas latas.",
           "A comparação das formas de compra por 100 g, da lata de 370 g ao kit e à assinatura, está em [Nutren Senior: qual tamanho e qual forma de compra compensam](/reviews/nutren-senior-kit-combo-ou-assinatura).",
           "Compare o total do pedido para o mesmo produto, quantidade e pagamento. O preço de outubro é uma referência, não o único critério para decidir."
         ],
@@ -56441,7 +56441,7 @@ export const reviewsData: unknown[] = [
           "**Assinatura:** a FAQ da loja informa 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias. As tabelas acima registram os preços de assinatura vistos em outubro, sem garantir o valor de uma cobrança futura.",
           "**Regras da assinatura:** uma assinatura ativa por CPF, paga só no cartão de crédito, com frete grátis acima de R$ 200. Dá para pular até duas entregas por ano e cancelar sem custo.",
           "**Compra única com o CECI:** o cupom dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday. Pela nossa conta, a lata de 740 g do Nutren Senior Zero Lactose, de R$ 190,61, sai por R$ 171,55, e o kit com duas latas sem sabor, de R$ 263,49, sai por R$ 237,14.",
-          "**Qual sai mais barato?** Na referência de outubro, a lata zero lactose custava R$ 169,43 na assinatura e R$ 171,55 na simulação de compra única com o CECI; no kit sem sabor, a conta era R$ 237,14 nos dois caminhos. Para decidir hoje, compare o preço atualizado, o frete e a frequência de reposição. O desconto progressivo da assinatura exige recorrências consecutivas.",
+          "**Qual sai mais barato?** Na referência de outubro, a lata zero lactose custava R$ 169,43 na assinatura e R$ 171,55 na compra única com o CECI; no kit sem sabor, a conta era R$ 237,14 nos dois caminhos. Para decidir hoje, compare o preço atualizado, o frete e a frequência de reposição. O desconto progressivo da assinatura exige recorrências consecutivas.",
           "**Frete grátis:** acima de R$ 400 na compra única, na transportadora que o site define, e acima de R$ 200 na assinatura. Uma lata de 740 g sozinha não chega a R$ 400; três latas zero lactose passam do valor mesmo com o cupom (R$ 514,65, pela nossa conta)."
         ],
         "links": [
@@ -56473,11 +56473,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
-          "O prazo atual aparece no cálculo de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail. A tabela abaixo usa a simulação de outubro com essa premissa; não é data de entrega contratada para novembro ou dezembro. Refaça o cálculo para o endereço de entrega.",
-          "Em outubro, simulamos no calculador o frete de três latas de 740 g do Nutren Senior Zero Lactose (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+          "O prazo atual aparece no cálculo de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail. A tabela abaixo usa os prazos de outubro com essa premissa; não é data de entrega contratada para novembro ou dezembro. Refaça o cálculo para o endereço de entrega.",
+          "Em outubro, o calculador de frete da loja deu o prazo de três latas de 740 g do Nutren Senior Zero Lactose (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, a tabela mostra até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
-          "caption": "Prazo do frete grátis no calculador da Nestlé Nutre em outubro, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "caption": "Prazo do frete grátis no calculador da Nestlé Nutre em outubro, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça o cálculo com o seu CEP.",
           "headers": [
             "Capital",
             "Frete grátis no calculador",
@@ -56532,14 +56532,14 @@ export const reviewsData: unknown[] = [
           "Quando começa e quanto dura a Black Friday da Nestlé Nutre? Já começou: a loja chama novembro de Black Month, \"novembro inteiro de ofertas\" em Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com até 25% OFF e mais 10% com cupom. O esquenta, com até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, vai até o dia 22 ou enquanto durarem os estoques. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte.",
           "Qual cupom usar nos 10% adicionais do Black Month da Nestlé Nutre? O CECI: 10% OFF, com todas as formas de pagamento, sobre os preços da campanha. A loja aceita um cupom por pedido, e o CECI não vale em fórmulas infantis de 0 a 12 meses.",
           "O Nutren Senior entrou na Black Friday da Nestlé Nutre? A ausência dele numa arte não permite concluir que a linha esteja fora. Confira o SKU que você procura e compare o preço atual com a referência de outubro deste guia.",
-          "Quanto custa o Nutren Senior 740 g? Na leitura de outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
+          "Quanto custa o Nutren Senior 740 g? Em outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
           "O Nutren Senior fica mais barato na Black Friday? Depende do produto e da oferta. Compare o mesmo SKU, tamanho, quantidade, pagamento e frete. Na tabela de outubro, o kit de duas latas sem sabor aparecia a R$ 263,49; isso não é preço atual nem comprova economia de toda a linha.",
-          "O cupom CECI vale para o Nutren Senior? Vale nos itens elegíveis da loja, com 10% OFF, todas as formas de pagamento e soma com os preços da Black Friday. Sobre o preço histórico de R$ 190,61 da lata zero lactose, a simulação dá R$ 171,55. Confira o preço atual e o desconto no carrinho.",
+          "O cupom CECI vale para o Nutren Senior? Vale nos itens elegíveis da loja, com 10% OFF, todas as formas de pagamento e soma com os preços da Black Friday. Sobre o preço histórico de R$ 190,61 da lata zero lactose, o CECI deixa a lata em R$ 171,55. Confira o preço atual e o desconto no carrinho.",
           "Quais produtos ficam fora do cupom CECI? Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Nos demais produtos da loja, o cupom dá 10% OFF.",
           "A Nestlé Nutre tem frete grátis? Tem, acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
           "Como funciona a assinatura da Nestlé Nutre? São 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, segundo a FAQ da loja. A assinatura é por CPF, paga no cartão de crédito, com entregas a cada 30, 60 ou 90 dias, e dá para cancelar sem custo.",
           "A Nestlé Nutre parcela sem juros? Parcela, em até 6 vezes sem juros no cartão, com parcela mínima de R$ 75. No Pix, a loja não anuncia desconto.",
-          "Até quando comprar para chegar antes do Natal? Pela tabela, com os prazos simulados em outubro, dois dias de processamento e um dia útil de folga: em dezembro, até o dia 16 em São Paulo, até o dia 10 no Rio de Janeiro e até o dia 1º em Manaus. Confira o prazo atual do seu CEP antes de pagar."
+          "Até quando comprar para chegar antes do Natal? Pela tabela, com os prazos de outubro, dois dias de processamento e um dia útil de folga: em dezembro, até o dia 16 em São Paulo, até o dia 10 no Rio de Janeiro e até o dia 1º em Manaus. Confira o prazo atual do seu CEP antes de pagar."
         ]
       }
     ],
@@ -61274,7 +61274,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os três rótulos lado a lado",
         "comparisonTable": {
-          "caption": "Valores das páginas oficiais de cada marca, lidas em 11 e 12/10/2026. VD = valor diário de referência. O Ensure não publica a tabela por porção no texto da página.",
+          "caption": "Valores das páginas oficiais de cada marca em 11 e 12/10/2026. VD = valor diário de referência. A página do Ensure usada na comparação não traz a tabela por porção no texto.",
           "headers": [
             "Item do rótulo",
             "Nutren Senior Sem Sabor Zero Lactose",
@@ -61931,11 +61931,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Travesseiro I Wanna Sleep é bom? Não testamos; a marca dá 30 dias de teste nos travesseiros, com crédito para troca se você não se adaptar.",
+          "Travesseiro I Wanna Sleep é bom? O Snow ajusta a altura por enchimento, e a marca dá 30 dias de teste nos travesseiros, com crédito para troca se você não se adaptar.",
           "Travesseiro I Wanna Sleep vale a pena? Depende de como você dorme e de querer ajustar a altura em casa; o quadro mostra os modelos e os prazos de teste.",
-          "Travesseiro Emma é bom? Não testamos; a Emma dá 14 noites de teste e 6 meses de garantia nos travesseiros, com reembolso se você não se adaptar.",
+          "Travesseiro Emma é bom? A Emma ajusta por camadas e dá 14 noites de teste e 6 meses de garantia nos travesseiros, com reembolso se você não se adaptar.",
           "Emma ou I Wanna Sleep: qual é melhor? Depende do ajuste e da política de adaptação que você prefere. O Snow ajusta por enchimento e a I Wanna Sleep dá crédito para troca; a Emma ajusta por camadas e oferece reembolso em 14 noites.",
-          "I Wanna Sleep ou Ortobom: qual escolher? Os dois modelos da Ortobom que consultamos custam menos, mas as páginas deles não informam teste; a I Wanna Sleep dá 30 dias, com crédito para troca.",
+          "I Wanna Sleep ou Ortobom: qual escolher? Os dois modelos da Ortobom desta comparação custam menos, mas as páginas deles não informam teste; a I Wanna Sleep dá 30 dias, com crédito para troca.",
           "O travesseiro Snow tem regulagem de altura? Sim: ele chega com 18 cm, e você tira o enchimento até achar a altura mais confortável.",
           "Travesseiro Emma tem regulagem de altura? Sim, por camadas: 2 ou 3, conforme o modelo.",
           "Travesseiro Emma tem teste de noites? Sim: 14 noites, e a Emma recolhe e reembolsa se você não se adaptar."
@@ -62270,7 +62270,7 @@ export const reviewsData: unknown[] = [
           "Altura: do ponto mais alto da peça, sem contar a gola, até a barra.",
           "Largura: na horizontal, de uma lateral à outra. Na feminina, meça duas vezes: na altura do busto (busto) e na parte mais baixa da peça (largura).",
           "Manga: da costura do ombro até a ponta da manga.",
-          "Compare com a tabela da mesma linha: o tamanho com largura e altura mais perto das da sua peça deve dar um caimento parecido. A regra de leitura é nossa, a Insider não publica uma."
+          "Compare com a tabela da mesma linha: o tamanho com largura e altura mais perto das da sua peça deve dar um caimento parecido. É uma regra prática de comparação, não uma orientação da loja."
         ]
       },
       {
@@ -63562,7 +63562,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa pelo rótulo",
         "comparisonTable": {
-          "caption": "Valores das páginas oficiais da Nestlé Nutre e da YoPRO, lidos em 12/10/2026. Cada linha tem a sua porção; compare a proteína pela porção, não pelo peso da embalagem. A lactose do Just Protein vem do rótulo da lata, na foto da página do produto. Na YoPRO, os valores por porção estão no seletor \"por Porção (250ml)\" da tabela; a primeira tela mostra por 100 g/ml.",
+          "caption": "Valores das páginas oficiais da Nestlé Nutre e da YoPRO em 12/10/2026. Cada linha tem a sua porção; compare a proteína pela porção, não pelo peso da embalagem. A lactose do Just Protein vem do rótulo da lata, na foto da página do produto. Na YoPRO, os valores por porção estão no seletor \"por Porção (250ml)\" da tabela; a primeira tela mostra por 100 g/ml.",
           "headers": [
             "Produto",
             "Porção",
@@ -63711,7 +63711,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes ou depois do treino, engorda ou emagrece: o que o rótulo permite dizer",
         "paragraphs": [
-          "Nenhum dos rótulos que lemos diz que o produto engorda ou emagrece. O que eles informam são calorias e proteína por porção, na tabela comparativa. O efeito no peso depende de tudo o que você come no dia.",
+          "Nenhum dos rótulos da comparação diz que o produto engorda ou emagrece. O que eles informam são calorias e proteína por porção, na tabela comparativa. O efeito no peso depende de tudo o que você come no dia.",
           "Sobre o horário, a Nestlé escreve, na página do pó, que o Nutren Protein pode ser \"uma opção de pré ou pós treino\", e a YoPRO, que pode ser consumida \"pré-treino, pós-treino ou no intervalo entre as refeições\". São frases das marcas. Para saber a quantidade e o horário certos no seu caso, procure um médico ou nutricionista."
         ]
       },
@@ -63778,7 +63778,7 @@ export const reviewsData: unknown[] = [
           "Nutren Protein: qual a diferença entre baunilha e chocolate? Em 31,5 g de pó, o Baunilha tem 120 kcal e 441 mg de cálcio e o Chocolate, 116 kcal e 473 mg; os dois têm 14 g de proteína, 10 g de açúcares totais e 80 mg de cafeína, segundo a Nestlé.",
           "O que é o Nutren Protein 15g? É a bebida pronta de 260 ml, com 15 g de proteína na garrafa; o sachê de 15 g é do Nutren Just Protein, com 13 g de proteína.",
           "Nutren Protein ou YoPRO: qual escolher? As duas bebidas prontas têm a mesma proteína; a diferença está nas calorias e nos açúcares, detalhados no capítulo Nutren Protein ou YoPRO.",
-          "Nutren Protein ou Nutren Senior: qual o melhor? Nos rótulos que lemos, nenhum se diz melhor; a comparação por porção está no capítulo Nutren Protein ou Nutren Senior, e a tabela do Senior não traz linha de cafeína.",
+          "Nutren Protein ou Nutren Senior: qual o melhor? Nos rótulos da comparação, nenhum se diz melhor; a comparação por porção está no capítulo Nutren Protein ou Nutren Senior, e a tabela do Senior não traz linha de cafeína.",
           "Nutren ou whey protein para idoso? O rótulo não decide isso: a Nestlé descreve o Senior como linha para adultos acima dos 50 anos, a página do Nutren Protein Chocolate cita pessoas \"especialmente a partir dos 50 anos\" e o pó do Nutren Protein tem 80 mg de cafeína por porção; a escolha deve ser feita com médico ou nutricionista.",
           "Quantas porções tem a lata de 800 g do Nutren Protein? Cerca de 25 porções de 31,5 g, e a de 400 g, cerca de 13, segundo a tabela."
         ]
@@ -74976,7 +74976,7 @@ export const reviewsData: unknown[] = [
         "heading": "De quem é a Dr. Peanut? É brasileira?",
         "paragraphs": [
           "A Dr. Peanut é uma marca brasileira, de Curitiba, no Paraná. A empresa por trás dela é a Body Food Fabricantes de Alimentos Saudáveis Ltda., que usa \"DR PEANUT\" como nome fantasia. O CNPJ é 28.324.667/0001-69 e o endereço da matriz, o mesmo que o site mostra no rodapé, é Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba/PR.",
-          "Na consulta pública do CNPJ, em 14/10/2026, a situação cadastral é ativa, com início das atividades em 02/08/2017. A atividade principal registrada é \"Fabricação de outros produtos alimentícios não especificados anteriormente\", ou seja, a empresa é cadastrada como fábrica, e não apenas como revendedora.",
+          "No cadastro público do CNPJ, em 14/10/2026, a situação cadastral é ativa, com início das atividades em 02/08/2017. A atividade principal registrada é \"Fabricação de outros produtos alimentícios não especificados anteriormente\", ou seja, a empresa é cadastrada como fábrica, e não apenas como revendedora.",
           "Quem procura \"Dr. Peanut dono\" encontra a resposta no quadro de sócios do mesmo cadastro: a Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda. aparece como sócia da empresa. A Supley é a empresa por trás de um grupo de marcas de alimentos e suplementos, e a Dr. Peanut é uma delas.",
           "O \"Dr.\" do nome é parte da marca. Não indica médico nem recomendação de profissional de saúde."
         ]
@@ -76462,7 +76462,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem está por trás da Lejour",
         "paragraphs": [
           "A Lejour é uma plataforma brasileira de casamento, com CNPJ ativo desde 2017: o casal monta o site da festa com uma lista de presentes em dinheiro, e os convidados presenteiam por ele. Na página inicial, a empresa diz que \"mais de 300 mil casais já usaram a Lejour\". É um número da própria Lejour, que não conseguimos conferir de forma independente.",
-          "O que dá para conferir é o cadastro da empresa. Consultamos o CNPJ na BrasilAPI, que espelha os dados da Receita Federal, e comparamos com o rodapé do site."
+          "O que dá para conferir é o cadastro da empresa. O CNPJ na BrasilAPI, que espelha os dados da Receita Federal, coincide com o do rodapé do site."
         ],
         "postParagraphs": [
           "Para checar por conta própria, basta pesquisar o CNPJ em uma consulta pública de cadastro de empresas, como a da Receita Federal, e ver a situação cadastral e a data de abertura."
@@ -76473,7 +76473,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 2.3333,
         "comparisonTable": {
-          "caption": "Dados públicos do CNPJ da Lejour, conferidos em 14/10/2026",
+          "caption": "Dados públicos do CNPJ da Lejour, 14/10/2026",
           "headers": [
             "Dado",
             "O que consta"
@@ -77166,7 +77166,7 @@ export const reviewsData: unknown[] = [
           "**Basic:** para começar sem custo de plano e avaliar se o site e a lista atendem ao casal. Considere a taxa dos presentes, o domínio opcional e a quantidade de saques além dos dois gratuitos.",
           "**Premium:** compare se o casal quer domínio e os recursos pagos, se pretende fazer vários saques ou se espera que a redução da taxa compense o preço do plano.",
           "**Pro:** considere se os idiomas e os recursos adicionais fazem diferença para os convidados. Pela taxa, compare o custo extra com a diferença de percentual da tabela.",
-          "Na dúvida, comece no Basic: com o Premium em promoção, a R$ 99,90, e o casal pagando a taxa, o plano só compensa a partir de R$ 16.650 em presentes, como mostra a simulação abaixo. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
+          "Na dúvida, comece no Basic: com o Premium em promoção, a R$ 99,90, e o casal pagando a taxa, o plano só compensa a partir de R$ 16.650 em presentes, como mostra a tabela abaixo. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
         ],
         "postParagraphs": [
           "O cálculo usa o preço do plano dividido pela diferença entre as taxas. No exemplo Basic versus Premium, a diferença é de 0,60 ponto percentual: R$ 99,90 ÷ 0,006. A tabela mostra também as outras duas comparações, sem contar domínio, saques ou recursos extras.",
@@ -77268,7 +77268,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como criar a lista de casamento na Lejour: prévia do site em três passos, conta para salvar, quem paga a taxa dos presentes, titularidade da lista e saque por Pix.",
-    "metaDescription": "Como criar a lista de casamento na Lejour em 3 passos, com as telas do cadastro, a taxa dos presentes e o saque por Pix. Consulta de 14/10/2026.",
+    "metaDescription": "Como criar a lista de casamento na Lejour em 3 passos, com as telas do cadastro, a taxa dos presentes e o saque por Pix.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -77332,7 +77332,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Crie a conta grátis para salvar",
         "paragraphs": [
-          "Depois do passo 3, abre o painel, mesmo sem login. No nosso teste, uma faixa vermelha no topo avisava: \"Você ainda não salvou suas alterações. Você está navegando sem login. Crie uma conta gratuita para guardar tudo e continuar de onde parou, leva menos de um minuto.\" Ao lado do texto, o botão \"Criar conta grátis\". A central de ajuda da Lejour também traz o cadastro e o login com Apple e Google.",
+          "Depois do passo 3, abre o painel, mesmo sem login. Uma faixa vermelha no topo avisava: \"Você ainda não salvou suas alterações. Você está navegando sem login. Crie uma conta gratuita para guardar tudo e continuar de onde parou, leva menos de um minuto.\" Ao lado do texto, o botão \"Criar conta grátis\". A central de ajuda da Lejour também traz o cadastro e o login com Apple e Google.",
           "O menu do painel tem cinco itens: Painel inicial, Personalizar site, Lista de presentes, Lista de convidados e Produtos Fast Shop. Em \"Personalizar site\", o topo da tela tem, entre outros, os botões Temas, Cores, Fontes e Elementos (o quinto aparece cortado no print), e a lista \"Conteúdo\" traz, além de \"Foto e frase inicial\", nove seções do site, cada uma com um botão para ligar e desligar:"
         ],
         "bullets": [
@@ -79071,7 +79071,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Cléa Store e pode receber comissão pelas compras feitas com o cupom **CSEMCASACOMCECILIA**.",
-          "O cupom dá **10% OFF em todo o site** e vale em todas as formas de pagamento, tanto para conta nova quanto para quem já comprou na loja. Ele soma com as promoções do site, e no nosso teste valeu num kit que já estava em promoção. Soma também com o cashback. Não soma com outro cupom: os termos da loja falam em um voucher por pedido. As regras e as condições atualizadas ficam na [página do cupom da Cléa Store](/cupons/clea-store).",
+          "O cupom dá **10% OFF em todo o site** e vale em todas as formas de pagamento, tanto para conta nova quanto para quem já comprou na loja. Ele soma com as promoções do site, inclusive em kit que já está em promoção. Soma também com o cashback. Não soma com outro cupom: os termos da loja falam em um voucher por pedido. As regras e as condições atualizadas ficam na [página do cupom da Cléa Store](/cupons/clea-store).",
           "O passo a passo, com o que mudou no resumo do pedido, está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar)."
         ]
       },
@@ -79712,8 +79712,8 @@ export const reviewsData: unknown[] = [
         "heading": "O CECILIA10 vale em produto em promoção?",
         "paragraphs": [
           "Vale. O **CECILIA10** dá 10% de desconto em todo o site da Black Skull, vale com todas as formas de pagamento e soma com as promoções vigentes. O desconto vem em cima do preço já reduzido, sem substituí-lo.",
-          "No nosso teste na sacola, havia uma regata, um kit de whey, creatina e pré-treino e uma glutamina. Dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
-          "Esse teste foi feito em outubro, em itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes e com o desconto progressivo. Aplique o código na sacola e confira o valor abatido: a linha \"Descontos\" pode reunir mais de um desconto.",
+          "Numa sacola com uma regata, um kit de whey, creatina e pré-treino e uma glutamina, dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
+          "Esse exemplo é de outubro, com itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes e com o desconto progressivo. Aplique o código na sacola e confira o valor abatido: a linha \"Descontos\" pode reunir mais de um desconto.",
           "O passo a passo do campo do cupom está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições do dia ficam na [página do cupom da Black Skull](/cupons/black-skull)."
         ],
         "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
@@ -79799,7 +79799,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Black Skull? A Black November já começou, com desconto progressivo de 15% a 25% nos produtos da página da campanha. A página da loja diz que as ofertas ficam disponíveis durante todo o mês e que a Black Friday acontece na última sexta-feira de novembro; a loja não informa data de fim.",
           "Qual é o cupom da Black Skull na Black Friday? O CECILIA10, 10% em todo o site, em todas as formas de pagamento. É o mesmo código do resto do ano, e as condições do dia ficam na página do cupom da Black Skull.",
-          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste de outubro, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Com o desconto progressivo, o cupom também soma; a linha Descontos da sacola mostra o valor abatido.",
+          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: numa sacola de outubro, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Com o desconto progressivo, o cupom também soma; a linha Descontos da sacola mostra o valor abatido.",
           "O CECILIA10 vale em qualquer forma de pagamento? Vale em todas as formas de pagamento da loja: cartão em até 8 vezes sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4 vezes sem juros e boleto à vista.",
           "O frete da Black Skull é grátis? Depende da região. O frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
           "A Black Skull tem desconto no Pix? A loja não anuncia desconto próprio no Pix. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o CECILIA10 vale nelas.",
@@ -79915,12 +79915,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro: whey e creatina para comparar",
         "paragraphs": [
-          "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava na consulta de outubro, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque na consulta, como a Creatina Creapure 250g, a Creatina 100g e alguns kits, ficaram de fora."
+          "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em outubro, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque em outubro, como a Creatina Creapure 250g, a Creatina 100g e alguns kits, ficaram de fora."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
-          "alt": "Página inicial do site da Max Titanium na consulta de outubro, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
-          "caption": "A página inicial da Max Titanium na consulta de outubro, com a Semana Max Economia: 28% OFF no kit de 2 creatinas e Whey Pro.",
+          "alt": "Página inicial do site da Max Titanium em outubro, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
+          "caption": "A página inicial da Max Titanium em outubro, com a Semana Max Economia: 28% OFF no kit de 2 creatinas e Whey Pro.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -80000,7 +80000,7 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom MAX10EMCASACOMCECILIA, o Pix e a promoção: o que soma",
         "paragraphs": [
           "O cupom da parceria é o **MAX10EMCASACOMCECILIA** (até 10% OFF). Em alguns produtos o percentual é menor que 10%, e a linha \"Descontos\" do resumo do pedido mostra o valor que o cupom abateu de verdade.",
-          "No nosso teste de checkout, o cupom entrou em cima do preço promocional do site. O Top Whey 3W + Sabor 900G Brigadeiro estava em promoção:"
+          "O cupom entrou em cima do preço promocional do site. O Top Whey 3W + Sabor 900G Brigadeiro estava em promoção:"
         ],
         "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Carrinho da Max Titanium com o código MAX10EMCASACOMCECILIA aplicado, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25",
@@ -80008,7 +80008,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 2.6757,
         "comparisonTable": {
-          "caption": "Teste de checkout com o Top Whey 3W + Sabor 900G Brigadeiro.",
+          "caption": "Cupom aplicado ao Top Whey 3W + Sabor 900G Brigadeiro no checkout.",
           "headers": [
             "Etapa",
             "Valor"
@@ -80031,13 +80031,13 @@ export const reviewsData: unknown[] = [
               "R$ 172,25"
             ],
             [
-              "Se o Pix desse 5% sobre esse total (estimativa nossa, não testada no checkout)",
+              "Se o Pix desse 5% sobre esse total (estimativa)",
               "R$ 163,64"
             ]
           ]
         },
         "bullets": [
-          "**O cupom abateu cerca de 9% sobre a promoção.** No whey do teste, feito em outubro, o percentual ficou abaixo dos 10%.",
+          "**O cupom abateu cerca de 9% sobre a promoção.** No Top Whey 3W em promoção, o percentual ficou abaixo dos 10%.",
           "**O Pix é de até 5%.** A home anuncia até 5% OFF no Pix e no boleto, e o percentual varia por produto: confira no carrinho.",
           "**Cashback é crédito da loja.** A linha “Descontos” do carrinho mostra só o abatimento do cupom, não o cashback recebido. Confira elegibilidade, prazo e condições do crédito antes de contar com ele."
         ],
@@ -80051,7 +80051,7 @@ export const reviewsData: unknown[] = [
           "O banner da loja diz \"frete grátis em todo o país\", com asterisco. O asterisco é a política de frete: a entrega sai sem custo a partir de um valor de pedido que depende da região do CEP. A política do site trazia estes valores:"
         ],
         "comparisonTable": {
-          "caption": "Valor mínimo do pedido para frete grátis por região, segundo a política do site na consulta de outubro.",
+          "caption": "Valor mínimo do pedido para frete grátis por região, segundo a política do site em outubro.",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -80096,11 +80096,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16% acima de R$ 150, um par de meias de brinde acima de R$ 199,90, roupas e acessórios com 50% OFF, brindes por faixa de valor e Pix e boleto anunciados com até 5%, conforme o item.",
-          "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Num produto com preço do Max November ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
-          "O cupom vale com produto em promoção? Sim. No teste no carrinho, o cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
+          "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Nos produtos com preço do Max November, a linha Descontos do carrinho mostra o valor do cupom antes de pagar.",
+          "O cupom vale com produto em promoção? Sim. O cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
           "O cupom soma com o cashback do Max November? Não dá para afirmar pelo carrinho: o cupom abate o preço na hora, e o cashback é um crédito da loja com regras próprias. Confira na campanha os produtos e clientes elegíveis, o prazo e como o saldo poderá ser usado.",
           "O cupom soma com o desconto do Pix? Sim. O desconto de pagamento anunciado para Pix e boleto pode ser menor que 5% por item. Confira no carrinho o valor dos produtos, o cupom, o pagamento e o frete antes de pagar.",
-          "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site na consulta de outubro. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
+          "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site em outubro. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
           "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
           "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha \"Descontos\"."
         ]
@@ -80388,7 +80388,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, Pix e frete grátis: o que soma",
         "paragraphs": [
-          "O cupom **PRO10EMCASACOMCECILIA** dá até 10% OFF no site oficial. O percentual varia por produto: em alguns itens o desconto é menor, e a linha \"Descontos\" do resumo do pedido mostra quanto o cupom abateu de verdade. Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com o preço promocional da loja. No nosso teste, a creatina estava em promoção e o carrinho aceitou o cupom: o desconto foi de R$ 54,75 sobre R$ 659,35.",
+          "O cupom **PRO10EMCASACOMCECILIA** dá até 10% OFF no site oficial. O percentual varia por produto: em alguns itens o desconto é menor, e a linha \"Descontos\" do resumo do pedido mostra quanto o cupom abateu de verdade. Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com o preço promocional da loja: num carrinho de R$ 659,35 com uma creatina em promoção, o desconto foi de R$ 54,75.",
           "Os outros descontos e regras que mexem no total, pelo que a loja mostrava:"
         ],
         "bullets": [
@@ -80458,8 +80458,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já está no ar, por tempo limitado, sem data de fim publicada. A Black Friday do calendário é a última sexta de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba; confirme as disponíveis no dia da compra.",
-          "O cupom PRO10EMCASACOMCECILIA vale no Novembro PRO? Ele vale no site oficial, em todas as formas de pagamento, dá até 10% OFF, com percentual menor em alguns produtos, e soma com o preço promocional. Num produto com preço do Novembro PRO ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
-          "O cupom soma com produto em promoção? Soma com o preço promocional: no nosso teste, a creatina estava em promoção e o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
+          "O cupom PRO10EMCASACOMCECILIA vale no Novembro PRO? Ele vale no site oficial, em todas as formas de pagamento, dá até 10% OFF, com percentual menor em alguns produtos, e soma com o preço promocional. Em produto com preço do Novembro PRO, a linha Descontos do carrinho mostra o valor antes de pagar.",
+          "O cupom soma com produto em promoção? Soma com o preço promocional: numa creatina em promoção, o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
           "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto, e o checkout mostra o valor final.",
           "A Probiótica tem frete grátis? Tem, a partir de R$ 104 (capital de SP) a R$ 599 (Norte), na forma de envio mais barata e fora o Sedex. Cupom pode derrubar o total abaixo do mínimo.",
           "O brinde conta o valor com ou sem cupom? Conta o valor final, depois de todos os descontos. Se o cupom ou o Pix levar o pedido para baixo do valor do brinde, ele pode não entrar.",
@@ -80813,7 +80813,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Planos e taxas da Lejour fora da campanha",
         "paragraphs": [
-          "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour na leitura de outubro, antes da Black November, e é a régua para saber quanto o 50% tira: os R$ 99,90 do Premium e os R$ 199,90 do Pro são a base da oferta de novembro."
+          "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour em outubro, antes da Black November, e é a régua para saber quanto o 50% tira: os R$ 99,90 do Premium e os R$ 199,90 do Pro são a base da oferta de novembro."
         ],
         "comparisonTable": {
           "headers": [
@@ -81671,7 +81671,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Preço: de R$ 359,00 por R$ 215,00 no site; com o cupom, **R$ 182,75** (49% abaixo da tabela).",
-          "Cores e tamanhos: Preto, Deep Blue, Earth Brown e Flame Red do PP ao XGG. Na leitura, o Mist Green já não tinha P e GG, e o Marinho tinha só PP."
+          "Cores e tamanhos: Preto, Deep Blue, Earth Brown e Flame Red do PP ao XGG. No site, o Mist Green estava sem P e GG, e o Marinho tinha só PP."
         ],
         "image": "/images/reviews/insider/selecao-insider-shorts-esportivo-serotonin-feminino.webp",
         "imageAlt": "Short Fitness Serotonin, foto oficial da Insider",
@@ -82218,8 +82218,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "**Black Skull: 10% fixo.** O **CECILIA10** tira 10% de qualquer item, inclusive dos que já estão em promoção. Com ele, o Whey 100% HD de 900 g sai de R$ 149,90 por R$ 134,91, e o Creator 300 g, de R$ 29,90 por R$ 26,91. No nosso teste, um carrinho de R$ 364,33 com itens em promoção saiu por R$ 327,89: R$ 36,44 de desconto, 10% em todos os itens. O passo a passo está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e o código fica na [página do cupom da Black Skull](/cupons/black-skull).",
-          "**Max Titanium: até 10%, mais o Pix.** O **MAX10EMCASACOMCECILIA** chega a 10%, mas o percentual varia por produto, e o carrinho mostra o valor de cada item. No nosso teste, o Top Whey 3W em promoção, a R$ 189,00, ganhou R$ 16,75 de desconto, cerca de 9%. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar), e o código fica na [página do cupom da Max Titanium](/cupons/max-titanium). No Pix e no boleto, a loja anuncia **até 5%** a mais, que soma com o cupom.",
+          "**Black Skull: 10% fixo.** O **CECILIA10** tira 10% de qualquer item, inclusive dos que já estão em promoção. Com ele, o Whey 100% HD de 900 g sai de R$ 149,90 por R$ 134,91, e o Creator 300 g, de R$ 29,90 por R$ 26,91. Num carrinho de R$ 364,33 com itens em promoção, o total saiu por R$ 327,89: R$ 36,44 de desconto, 10% em todos os itens. O passo a passo está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e o código fica na [página do cupom da Black Skull](/cupons/black-skull).",
+          "**Max Titanium: até 10%, mais o Pix.** O **MAX10EMCASACOMCECILIA** chega a 10%, mas o percentual varia por produto, e o carrinho mostra o valor de cada item. Num Top Whey 3W em promoção, a R$ 189,00, o desconto foi de R$ 16,75, cerca de 9%. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar), e o código fica na [página do cupom da Max Titanium](/cupons/max-titanium). No Pix e no boleto, a loja anuncia **até 5%** a mais, que soma com o cupom.",
           "**O cupom pode tirar o frete grátis.** Nas duas lojas, o mínimo do frete grátis conta depois dos descontos. Se o cupom deixar o carrinho abaixo do mínimo da sua região, o frete passa a ser cobrado. Perto do limite, confira o total no carrinho antes de pagar."
         ]
       },
@@ -83257,7 +83257,7 @@ export const reviewsData: unknown[] = [
               "Sim"
             ]
           ],
-          "caption": "Simulação com cupom de 10% e sem desconto adicional de pagamento. O frete depende do CEP: confirme no carrinho."
+          "caption": "Frete grátis pelo preço de tabela, antes do cupom e sem desconto adicional de pagamento. O frete depende do CEP: confirme no carrinho."
         },
         "postParagraphs": [
           "O cupom não tira o frete grátis de quem já passou do mínimo: o Combo Best Sellers passa de R$ 149,90 pelo preço de tabela e segue com frete grátis no Sul e no Sudeste mesmo com os 10%. O combo de cinco potes de 250 g, a R$ 109,12 pelo preço de tabela, não chega ao mínimo. Confira o carrinho antes de pagar.",
@@ -83487,7 +83487,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o casal recebe de R$ 20.000",
         "paragraphs": [
-          "Numa lista de R$ 20.000, com os preços de outubro, o Premium deixa mais. A Black November da Lejour muda o preço dos planos e está em [Black Friday Lejour 2026](/reviews/black-friday-lejour); esta simulação é a conta sem campanha. As premissas:"
+          "Numa lista de R$ 20.000, com os preços de outubro, o Premium deixa mais. A Black November da Lejour muda o preço dos planos e está em [Black Friday Lejour 2026](/reviews/black-friday-lejour); a conta abaixo é a sem campanha. As premissas:"
         ],
         "image": {
           "src": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
@@ -83505,7 +83505,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "comparisonTable": {
-          "caption": "Simulação de uma lista de R$ 20.000 nas três plataformas",
+          "caption": "Lista de R$ 20.000 nas três plataformas",
           "headers": [
             "Plataforma e plano",
             "Taxa",
@@ -83566,7 +83566,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Simulação nossa, com as taxas e os preços de outubro da tabela anterior.",
+          "Taxas e preços de outubro, os da tabela anterior.",
           "Nessa lista, quem fica com mais é o Premium da Lejour, e quem fica com menos é o Black do iCasei de 12 meses. A diferença é de R$ 196,40, perto de 1% da lista.",
           "Os planos pagos do iCasei deixam menos que o Basic grátis: a taxa menor não cobre o preço do plano numa lista desse tamanho.",
           "O Pro da Lejour só deixa mais que o Premium quando a lista passa de R$ 33.333, pela nossa conta com os preços de outubro: são R$ 100 a mais de plano para 0,30 ponto a menos de taxa. A partir de quanto o Premium compensa sobre o Basic está em [O que é a Lejour e como funciona](/reviews/lejour-como-funciona).",
@@ -83747,7 +83747,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher, por perfil",
-        "emphasis": "Se fosse para o meu casamento, eu levaria o Premium da Lejour: na simulação de R$ 20.000 pagos por Pix, com a taxa e o plano por conta do casal, ele deixa o maior saldo, R$ 6,50 a mais que o Basic do iCasei.",
+        "emphasis": "Se fosse para o meu casamento, eu levaria o Premium da Lejour: numa lista de R$ 20.000 pagos por Pix, com a taxa e o plano por conta do casal, ele deixa o maior saldo, R$ 6,50 a mais que o Basic do iCasei.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Não há uma plataforma certa para todo casal. O que decide é o tamanho da lista, a data e o que vocês querem receber."
@@ -84335,7 +84335,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom **MAUAD**. No carrinho, ele entra no campo \"Código do cupom\", com o botão \"Aplicar cupom\".",
           "O desconto é de 10% OFF em todo o site, em todas as formas de pagamento. Vale na primeira compra, soma com as ofertas do site e com os 5% do Pix. Não vale no Mercado Livre.",
-          "Fizemos o teste de carrinho do cupom. O passo a passo, com os números do teste, está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar). As regras do cupom ficam na [página do cupom da Belive](/cupons/belive)."
+          "O passo a passo do cupom no carrinho, com os números, está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar). As regras do cupom ficam na [página do cupom da Belive](/cupons/belive)."
         ]
       },
       {
@@ -86007,7 +86007,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nanlac Supreme ou Supreme Pro: o que mudou",
         "paragraphs": [
-          "O Supreme Pro ocupa o lugar do Supreme. Na galeria da página da Nestlé Nutre, uma imagem avisa \"Nova embalagem, nova fórmula e nova marca\": a lata \"Nanlac Supreme 1 a 3 anos\" virou \"Nanlac Supreme Pro 1 a 3 anos\", com os quatro HMOs citados acima. Na leitura dos preços, a loja vendia só o Supreme Pro. A lista do recolhimento de janeiro, na próxima seção, traz lotes do Supreme Pro; o Supreme antigo não aparece nela."
+          "O Supreme Pro ocupa o lugar do Supreme. Na galeria da página da Nestlé Nutre, uma imagem avisa \"Nova embalagem, nova fórmula e nova marca\": a lata \"Nanlac Supreme 1 a 3 anos\" virou \"Nanlac Supreme Pro 1 a 3 anos\", com os quatro HMOs citados acima. Nas páginas de preço da loja, só o Supreme Pro aparecia à venda. A lista do recolhimento de janeiro, na próxima seção, traz lotes do Supreme Pro; o Supreme antigo não aparece nela."
         ],
         "image": "/images/reviews/nanlac/nanlac-supreme-pro-nova-embalagem.webp",
         "imageAlt": "Imagem da Nestlé Nutre com a lata antiga do Nanlac Supreme e a nova do Nanlac Supreme Pro, com o selo de 4 HMOs",
@@ -89615,7 +89615,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Belive, site oficial",
-              "Unidade, simulação com MAUAD e Pix",
+              "Unidade, com MAUAD e Pix",
               "R$ 3,92",
               "R$ 3,92"
             ],
@@ -89627,7 +89627,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Belive, site oficial",
-              "Kit de 10, simulação com MAUAD e Pix",
+              "Kit de 10, com MAUAD e Pix",
               "R$ 42,86",
               "R$ 4,29"
             ],
@@ -89646,7 +89646,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399. A simulação de R$ 3,92 usa o cupom e o Pix sobre os R$ 4,58; compare o total com frete no carrinho.",
+          "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399. Os R$ 3,92 são os R$ 4,58 com o cupom e o Pix aplicados; compare o total com frete no carrinho.",
           "Na Belive, o cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive). O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. A Suavipan não tem cupom nosso."
         ]
       },
@@ -90688,8 +90688,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom vale com todas as formas de pagamento e soma com as promoções do site. No teste do cupom de 14/10, um Top Whey 3W Mais Sabor 900 g, por R$ 189,00 naquele dia, teve R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na página do [cupom Max Titanium](/cupons/max-titanium).",
-          "Os valores de frete são os do dia da leitura dos preços. O frete grátis é calculado no carrinho. Preço e estoque mudam: confira no carrinho."
+          "O cupom vale com todas as formas de pagamento e soma com as promoções do site. Num Top Whey 3W Mais Sabor 900 g, a R$ 189,00 em outubro, o cupom deu R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na página do [cupom Max Titanium](/cupons/max-titanium).",
+          "Os valores de frete são os das políticas publicadas pelas lojas. O frete grátis é calculado no carrinho. Preço e estoque mudam: confira no carrinho."
         ]
       },
       {
@@ -99801,7 +99801,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Entre cristal ecológico e cristal, a escolha é do casal e do orçamento: as páginas não comparam os dois materiais. A Crex Optic é a única com restrição escrita de lava-louças e micro-ondas, por isso quem quer uma taça que vá à máquina precisa ler a página de cada modelo antes de comprar.",
-          "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (consulta de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. A loja embala porcelana, cristal, vidro e cerâmica um a um, e repõe de graça a peça que chega quebrada, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
+          "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (dados de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. A loja embala porcelana, cristal, vidro e cerâmica um a um, e repõe de graça a peça que chega quebrada, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
         ]
       },
       {
@@ -100233,7 +100233,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Como saber se o presente chega antes do Natal? Simule o CEP e confirme a previsão do pedido antes de pagar. As políticas publicadas pela loja usam prazos e marcos de contagem diferentes; o guia de Black Friday da Let's Eat It traz as datas-limite, sem garantir chegada.",
           "Posso trocar um presente? A página de reembolso e trocas fala em 30 dias contados do recebimento, com troca por produto equivalente, reembolso ou crédito, mas outra política do site descreve devolução seguida de nova compra. Confirme com a loja qual procedimento se aplica ao presente antes de pagar e guarde a nota fiscal.",
-          "O cupom MAUAD vale em promoção? Sim, no nosso teste ele entrou sobre produto em promoção. O desconto do Pix também soma com o cupom; confira o valor final no checkout.",
+          "O cupom MAUAD vale em promoção? Sim, ele entrou sobre produto em promoção. O desconto do Pix também soma com o cupom; confira o valor final no checkout.",
           "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou um eletroportátil, como a Chaleira Elétrica Positano de R$ 649,00 (127 V)."
         ]
       }
@@ -100687,7 +100687,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de 3 bodies: quanto sai cada peça",
         "paragraphs": [
-          "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos conferidos, a página não mostra preço de três peças.",
+          "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos, a página não mostra preço de três peças.",
           "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de outubro."
         ]
       },
@@ -100828,7 +100828,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe nos bodies de decote se você não quer decote na frente ou nas costas: fique no Gola Alta ou no Duplo, de gola alta.",
         "Passe se você veste fora do P, M e G: os seis modelos só vêm nesses tamanhos.",
-        "Passe se você quer o kit de três peças em outro modelo: nos modelos conferidos, só o Gola Alta e o Duplo têm o seletor de 3 unidades."
+        "Passe se você quer o kit de três peças em outro modelo: nos outros modelos da comparação, só o Gola Alta e o Duplo têm o seletor de 3 unidades."
       ]
     },
     "pros": [],
@@ -101219,14 +101219,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom e cashback no site",
         "paragraphs": [
-          "O CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com promoções e geração de cashback. Ele não vale no Mercado Livre. No teste de carrinho, o Kit Classic, em promoção por R$ 258, saiu por R$ 232,20, e a tela mostrou cashback previsto de até R$ 23,22 para uma compra futura.",
+          "O CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com promoções e geração de cashback. Ele não vale no Mercado Livre. Com o cupom, o Kit Classic, em promoção por R$ 258, saiu por R$ 232,20, e a tela mostrou cashback previsto de até R$ 23,22 para uma compra futura.",
           "O cashback não abate o total deste pedido. Não desconte o crédito futuro ao comparar o total a pagar hoje. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas, na página do [cupom Cléa Store](/cupons/clea-store)."
         ],
         "images": [
           {
             "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
             "alt": "Resumo do pedido no site da Cléa Store com o cupom aplicado e R$ 25,80 de desconto num kit de R$ 258",
-            "caption": "Cupom aplicado no teste. Print do Em Casa com Cecília.",
+            "caption": "Cupom aplicado no carrinho. Print do Em Casa com Cecília.",
             "objectFit": "contain",
             "aspectRatio": 0.9308
           }
@@ -101248,7 +101248,7 @@ export const reviewsData: unknown[] = [
           "Quer cupom, cashback e devolução grátis no mesmo pedido: site."
         ],
         "postParagraphs": [
-          "O CSEMCASACOMCECILIA tira 10% no site. No teste, o carrinho continuou mostrando cashback previsto para outra compra; esse crédito futuro não reduz o que você paga agora. Confira os dois canais, porque preço, frete e disponibilidade mudam."
+          "O CSEMCASACOMCECILIA tira 10% no site. O carrinho continuou mostrando cashback previsto para outra compra; esse crédito futuro não reduz o que você paga agora. Confira os dois canais, porque preço, frete e disponibilidade mudam."
         ],
         "emphasis": "Eu começaria pela peça que quero comprar: o Mercado Livre ganhava em cinco dos seis itens, mas o Kit Classic ficava mais barato no site. Para alfaiataria, só o site tem."
       },
@@ -101259,7 +101259,7 @@ export const reviewsData: unknown[] = [
           "Quais peças da Cléa Store estão no Mercado Livre? Em outubro eram 7: a t-shirt avulsa, os kits Intense, Colorful e Classic e os bodies Gola Alta, Duplo e Tule. Alfaiataria, os outros bodies e os outros kits estão só no site.",
           "O Mercado Livre é sempre mais barato? Não. Em outubro, a t-shirt, dois kits e dois bodies saíam mais baratos lá, e o Kit Classic saía mais barato no site. O preço do Mercado Livre muda em poucos dias, então confira os dois antes de comprar.",
           "A Cléa Store tem frete grátis? No site, acima de R$ 599. Os anúncios do Mercado Livre tinham frete grátis.",
-          "O cashback soma com o cupom? No teste, o pedido com cupom continuou mostrando cashback previsto de até R$ 23,22. Era crédito para outra compra, não desconto adicional no total de R$ 232,20."
+          "O cashback soma com o cupom? O pedido com cupom continuou mostrando cashback previsto de até R$ 23,22. Era crédito para outra compra, não desconto adicional no total de R$ 232,20."
         ]
       }
     ],
@@ -102248,7 +102248,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale presente na Insider: como funciona o gift card",
         "paragraphs": [
-          "Há três caminhos para presentear: um kit, um gift card virtual ou um kit com sacola ou envelope. Os preços deste guia são de 20/10/2026, e os prazos vêm de uma simulação de frete do carrinho; confira o frete do seu CEP antes de pagar.",
+          "Há três caminhos para presentear: um kit, um gift card virtual ou um kit com sacola ou envelope. Os preços deste guia são de 20/10/2026; confira o frete do seu CEP antes de pagar.",
           "O [gift card da Insider](https://www.insiderstore.com.br/products/cartao-presente-insider) é virtual. A página do produto lista 12 valores: R$ 50, R$ 80, R$ 100, R$ 150, R$ 200, R$ 350, R$ 500, R$ 600, R$ 700, R$ 800, R$ 900 e R$ 1.000.",
           "As regras, pela própria página do cartão:"
         ],
@@ -102260,7 +102260,7 @@ export const reviewsData: unknown[] = [
           "O cartão fica fora da campanha de brindes."
         ],
         "postParagraphs": [
-          "O desconto do Pix não se aplica à compra do gift card, mas o cupom vale nela: no nosso teste, o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900, que saiu por R$ 765. O que não aceita cupom é o pedido pago com gift card: se a pessoa pagar com o saldo do cartão, o cupom EMCASACOMCECILIA não entra nessa compra."
+          "O desconto do Pix não se aplica à compra do gift card, mas o cupom vale nela: o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900, que saiu por R$ 765. O que não aceita cupom é o pedido pago com gift card: se a pessoa pagar com o saldo do cartão, o cupom EMCASACOMCECILIA não entra nessa compra."
         ],
         "images": [
           {
@@ -102579,19 +102579,19 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A troca de presente segue a central de ajuda da loja. Quem ganhou o presente pode pedir a troca sem nota fiscal e sem a embalagem original. A troca sai em vale-troca, no valor da peça, para usar no site. O prazo é de 21 dias corridos depois da entrega, com a peça com etiqueta, sem uso e sem sinal de lavagem. Os 21 dias contam da entrega, não da compra.",
           "Pela política da loja, cueca, calcinha e sutiã só trocam ou devolvem por defeito de fabricação. As undershirts seguem a mesma regra, e a troca de presente também. Ou seja, a troca de presente não serve para corrigir o tamanho de uma cueca: o caminho é acertar o tamanho antes de comprar, com o [guia de medidas da Insider](/reviews/tabela-de-medidas-insider). O arrependimento da compra online é outro pedido, feito por quem comprou.",
-          "Para ver a troca com a simulação completa de prazo, veja o [guia de Black Friday da Insider](/reviews/black-friday-insider)."
+          "Para a tabela completa de prazo por capital, veja o [guia de Black Friday da Insider](/reviews/black-friday-insider)."
         ]
       },
       {
-        "heading": "Prazo para o Natal: estimativa pelo frete simulado",
+        "heading": "Prazo para o Natal: estimativa por capital",
         "paragraphs": [
-          "A loja avisa que os prazos podem mudar em alta demanda, como Black Friday ou lançamentos. A tabela é uma estimativa nossa para o Natal de 2026, com o frete grátis simulado para o CEP do centro de cada capital, e não garante entrega até o Natal.",
+          "A loja avisa que os prazos podem mudar em alta demanda, como Black Friday ou lançamentos. A tabela é uma estimativa nossa para o Natal de 2026, com o frete grátis para o CEP do centro de cada capital, e não garante entrega até o Natal.",
           "A conta parte de dias úteis contados a partir da aprovação do pagamento, com chegada na quarta-feira, dia 23, sem contar feriados locais. Assim, sobra um dia antes da véspera de Natal."
         ],
         "comparisonTable": {
           "headers": [
             "Cidade",
-            "Frete grátis (dias úteis na simulação)",
+            "Frete grátis (dias úteis)",
             "Aprovação até (estimativa)"
           ],
           "rows": [
@@ -102659,14 +102659,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O frete é grátis a partir de R$ 399, e esse valor conta depois do desconto do cupom. Um kit sozinho abaixo desse valor paga frete. Na nossa conta, o Kit Presente Feminino de R$ 424,76 cai para cerca de R$ 361 com o cupom, então também paga frete sozinho. O carrinho mostra quanto falta para o frete grátis.",
-          "Na opção paga da simulação, de R$ 19,90, o prazo é de 2 dias úteis em São Paulo e de 3 dias úteis no Rio de Janeiro, em Belo Horizonte, Curitiba, Porto Alegre, Salvador, Recife e Fortaleza."
+          "Na opção paga, de R$ 19,90, o prazo é de 2 dias úteis em São Paulo e de 3 dias úteis no Rio de Janeiro, em Belo Horizonte, Curitiba, Porto Alegre, Salvador, Recife e Fortaleza."
         ]
       },
       {
         "heading": "Cupom EMCASACOMCECILIA no presente",
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% de desconto na loja online. Ele vale para um pedido por vez e não soma com outro cupom. Vale com todas as formas de pagamento, inclusive o Pix, e soma com as promoções, salvo quando a promoção disser o contrário. Na loja física, ele não vale. A [página do cupom](/cupons/insider) tem o código para copiar.",
-          "O cupom entra no kit? Num teste de checkout, a linha do código apareceu em kit com preço promocional. Por isso, a regra é conferir a linha de cada item no checkout, não confiar na etiqueta do produto. O [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra onde ele aparece.",
+          "O cupom entra no kit? A linha do código aparece em kit com preço promocional. Por isso, a regra é conferir a linha de cada item no checkout, não confiar na etiqueta do produto. O [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra onde ele aparece.",
           "O cupom não entra em pedido pago com gift card, como visto acima.",
           "Não sabemos de cupom de Natal separado. Para o presente, o código que temos é o EMCASACOMCECILIA.",
           "Algumas promoções dão brinde em compras acima de um valor. A loja diz que a regra muda sem aviso e que a promoção pode acabar a qualquer momento. O brinde não é trocado separadamente, e o gift card fica fora dessa campanha."
@@ -102686,8 +102686,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Insider tem vale-presente? Sim: o gift card virtual vai de R$ 50 a R$ 1.000, com validade de 12 meses após o recebimento por e-mail. A página também oferece envio como presente, com e-mail e data; confira o destinatário antes de pagar.",
           "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, em vale-troca para usar no site. Cueca, calcinha, sutiã e undershirts só trocam por defeito. O arrependimento de compra online é outro pedido, feito por quem comprou.",
-          "Cupom vale no gift card? Vale na compra do cartão: no nosso teste, o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
-          "Chega a tempo do Natal? Consulte o prazo atual do seu CEP e considere quando o pagamento será aprovado. A tabela deste guia é uma estimativa para 2026, com base na simulação de frete do carrinho; a loja avisa que alta demanda pode alterar os prazos.",
+          "Cupom vale no gift card? Vale na compra do cartão: o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
+          "Chega a tempo do Natal? Consulte o prazo atual do seu CEP e considere quando o pagamento será aprovado. A tabela deste guia é uma estimativa para 2026; a loja avisa que alta demanda pode alterar os prazos.",
           "A Insider tem kit de presente com cueca? Tem: o Kit Presente Performance Masculino e o Kit Presente Básico Masculino levam cueca, e há outros três kits com cueca fora do rótulo Kit Presente.",
           "A Insider vende sacola de presente? Vende a Insider Gift Bag, de R$ 9,00, e uma embalagem prateada em envelope, de R$ 13,90. Confira o estoque antes de comprar."
         ]
@@ -103030,7 +103030,7 @@ export const reviewsData: unknown[] = [
           "A Black Skull é boa marca? Não provamos os produtos, e este texto não diz se a marca é boa. Ele mostra o rótulo, o preço e as regras de cupom e frete.",
           "A Dux tem cupom? Não temos cupom da Dux: ela não é parceira do site, e o CECILIA10 vale só na Black Skull. Se a Dux tem ofertas próprias, elas estão no site dela.",
           "A Dux tem Creapure? A Dux diz que a linha 100% Creapure usa creatina Creapure, produzida pela AlzChem. A Black Skull não declara Creapure nas páginas dos produtos.",
-          "O CECILIA10 soma com promoção? Sim, na Black Skull. No nosso teste, o 10% valeu também sobre itens em promoção.",
+          "O CECILIA10 soma com promoção? Sim, na Black Skull. O 10% vale também sobre itens em promoção.",
           "Os preços deste texto valem hoje? Eles mudam com as promoções. Confira no site da Black Skull e no da Dux antes de comprar.",
           "Vale esperar a Black Friday? Este texto não prevê preço de novembro. O que dá para fazer é refazer a conta com o preço do dia."
         ]
@@ -103860,7 +103860,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem opera a Mais Mu",
         "paragraphs": [
-          "A Mais Mu é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., inscrita no CNPJ 21.526.148/0001-34. Na consulta pública da Receita Federal feita em 20/10/2026 pela BrasilAPI, o CNPJ aparece como ativo, matriz, com início de atividade em 05/12/2014.",
+          "A Mais Mu é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., inscrita no CNPJ 21.526.148/0001-34. Pelos dados públicos da Receita Federal, o CNPJ aparece como ativo, matriz, com início de atividade em 05/12/2014.",
           "A sede fica na Rua Pamplona, 145, sala 816, bairro Jardim Paulista, em São Paulo (SP), CEP 01405-000. O nome jurídico aparece na política de privacidade do site. A página Quem somos conta a história da marca, mas não traz a razão social.",
           "O rodapé de todas as páginas traz \"+MU | CNPJ: 21526148000134\". Se o CNPJ de lá não bater com o da consulta pública, desconfie da loja."
         ]
@@ -103975,7 +103975,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Em novembro, a Mais Mu estava como Boa no Reclame Aqui nos últimos 6 meses, com nota 7,1 em 10. Nesse período, 92,7% das 109 reclamações foram respondidas, 76,5% foram resolvidas e 58,8% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos 12 meses, a reputação era Boa na leitura de outubro, com nota 7,2 e 98,3% das reclamações respondidas. Em outubro, a aba de 6 meses ainda estava Regular.",
+          "Em novembro, a Mais Mu estava como Boa no Reclame Aqui nos últimos 6 meses, com nota 7,1 em 10. Nesse período, 92,7% das 109 reclamações foram respondidas, 76,5% foram resolvidas e 58,8% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos 12 meses, a reputação era Boa em outubro, com nota 7,2 e 98,3% das reclamações respondidas. Em outubro, a aba de 6 meses ainda estava Regular.",
           "Na aba geral, as queixas mais citadas são produto não recebido e atraso na entrega, seguidas de produto com defeito. A loja é real e tem CNPJ ativo desde 2014. O que mudou foi a reputação recente, que voltou a Boa, e a entrega é onde ela ainda pesa. O perfil muda com o tempo, então confira de novo no dia da compra.",
           "Na prática, acompanhe o rastreio desde a postagem e guarde o número do pedido. Se o prazo estourar, é com esses dados que você abre o chamado. Os números completos, aba por aba, estão em [Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/mais-mu-reclame-aqui-nota-reputacao)."
         ]
@@ -103984,11 +103984,11 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Mais Mu e pode receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA. Veja [as regras e a validade do cupom da Mais Mu](/cupons/mais-mu).",
-          "O cupom dá 10% OFF em todo o site, para conta nova e antiga, com qualquer forma de pagamento. Ele soma com as promoções do site e com os 3% do Pix. No teste, com um whey e uma creatina em oferta, o cupom tirou R$ 23,99 do subtotal de R$ 239,89.",
+          "O cupom dá 10% OFF em todo o site, para conta nova e antiga, com qualquer forma de pagamento. Ele soma com as promoções do site e com os 3% do Pix. Num carrinho com um whey e uma creatina em oferta, o cupom tirou R$ 23,99 do subtotal de R$ 239,89.",
           "Para aplicar, clique em \"Iniciar compra\" no carrinho. No checkout, clique em \"Adicionar cupom de desconto\", cole o código e confira a linha \"Desconto do cupom\" no resumo antes de seguir para a entrega.",
           "A loja não acumula cupons. O crédito do cashback e o desconto de boas-vindas contam como cupom e não somam com o nosso. O cashback é um programa da própria loja: compras acima de R$ 250 devolvem 5% como crédito para a próxima compra. Ele é da loja, não é vantagem do cupom.",
           "O cupom não vale no Mercado Livre. Lá vale o preço do anúncio. Se preferir comprar por lá, use o [anúncio da Mais Mu no Mercado Livre](https://meli.la/24RjvdP).",
-          "Não testamos se o frete grátis entra junto com o cupom, então confira o valor final do frete no checkout. Para o passo a passo, veja [o artigo sobre como usar o cupom da Mais Mu](/reviews/cupom-mais-mu-como-usar). Para a Black Friday, veja [o guia da Mais Mu para a campanha](/reviews/black-friday-mais-mu)."
+          "Confira o valor final do frete no checkout, depois de aplicar o cupom. Para o passo a passo, veja [o artigo sobre como usar o cupom da Mais Mu](/reviews/cupom-mais-mu-como-usar). Para a Black Friday, veja [o guia da Mais Mu para a campanha](/reviews/black-friday-mais-mu)."
         ]
       },
       {
@@ -104003,7 +104003,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Mais Mu é confiável? A loja é operada por empresa registrada, com CNPJ ativo desde 2014 e trocas publicadas no site. Em novembro, a reputação no Reclame Aqui era Boa nos últimos 6 meses, com nota 7,1, e a entrega era a principal queixa.",
           "De qual empresa é a Mais Mu? A loja é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., nome que aparece na política de privacidade do site.",
-          "Qual é o CNPJ da Mais Mu? O CNPJ é 21.526.148/0001-34. Na consulta pública, ele aparece como ativo desde 2014.",
+          "Qual é o CNPJ da Mais Mu? O CNPJ é 21.526.148/0001-34. Nos dados públicos da Receita Federal, ele aparece como ativo desde 2014.",
           "O site da Mais Mu é o oficial e como conferir? O endereço oficial é lojamaismu.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública.",
           "A Mais Mu tem telefone de atendimento? Não. A loja não publica telefone no site. O contato é pelo formulário da página de contato ou pelo e-mail fala.ai@maismu.com.br, do rodapé.",
           "Quanto tempo tenho para trocar ou devolver um produto da Mais Mu? A compra pela internet tem 7 dias de arrependimento pela lei (CDC, art. 49), e a FAQ da loja não publica prazo próprio. Pela política de troca da loja, o produto precisa estar na embalagem original, fechado e sem sinais de uso; essa condição é da troca, não do prazo de arrependimento.",
@@ -104074,7 +104074,7 @@ export const reviewsData: unknown[] = [
         "heading": "Por que olhar o Reclame Aqui antes de comprar",
         "paragraphs": [
           "Toda loja recebe reclamações. O que importa é a proporção: quantas são respondidas, quantas são resolvidas e quanta gente voltaria a comprar. Os números abaixo são do perfil público da Mais Mu e mudam todos os dias. Confira de novo no dia da compra.",
-          "O CNPJ da empresa, 21.526.148/0001-34, está ativo desde 05/12/2014 na consulta pública. O tempo de empresa não diz tudo. Para quem compra agora, pesa mais a reputação recente."
+          "O CNPJ da empresa, 21.526.148/0001-34, está ativo desde 05/12/2014 nos dados públicos do CNPJ. O tempo de empresa não diz tudo. Para quem compra agora, pesa mais a reputação recente."
         ]
       },
       {
@@ -104609,7 +104609,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e o que soma",
         "paragraphs": [
           "O cupom é o **MMEMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, com todas as formas de pagamento, para conta nova e para quem já comprou. No checkout, depois de \"Iniciar compra\", clique em \"Adicionar cupom de desconto\", cole o código e confira a linha \"Desconto do cupom\" no resumo.",
-          "No teste, sem finalizar a compra, o cupom entrou sobre um carrinho de R$ 239,89, com um whey de R$ 159,99 e uma creatina que já estava em oferta, de R$ 79,90. O desconto foi de R$ 23,99, e o total caiu para R$ 215,90."
+          "Num carrinho de R$ 239,89, o cupom entrou com um whey de R$ 159,99 e uma creatina que já estava em oferta, de R$ 79,90. O desconto foi de R$ 23,99, e o total caiu para R$ 215,90."
         ],
         "images": [
           {
@@ -104621,7 +104621,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "bullets": [
-          "Ofertas: o cupom vale também para produto que já está em promoção. Num produto com o preço das ofertas de novembro ainda não testamos; a linha \"Desconto do cupom\" do resumo mostra o valor antes de pagar.",
+          "Ofertas: o cupom vale também para produto que já está em promoção. Em produto com o preço das ofertas de novembro, a linha \"Desconto do cupom\" do resumo mostra o valor antes de pagar.",
           "Pix: o cupom soma com o desconto de 3% que a loja dá no Pix.",
           "Outros cupons: a loja não acumula cupons. O crédito do cashback e o desconto de boas-vindas contam como cupom e não somam com o MMEMCASACOMCECILIA. O cashback é regra da loja, não vantagem do nosso cupom.",
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/24RjvdP)."
@@ -104649,8 +104649,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Mais Mu? Já começou: a Mais Mu chama a campanha de Blue Friday, com até 50% OFF e 3% no Pix, sem data de fim publicada. A Black Friday do calendário é a última sexta-feira de novembro.",
-          "O cupom da Mais Mu vale na Black Friday? O MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com o Pix e não soma com o cashback. Num produto com o preço das ofertas de novembro ainda não testamos; o resumo do pedido mostra a linha Desconto do cupom antes de pagar.",
-          "O cupom vale com produto em promoção? Sim. No teste no carrinho, os 10% entraram também na creatina que já estava em oferta.",
+          "O cupom da Mais Mu vale na Black Friday? O MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com o Pix e não soma com o cashback. Em produto com o preço das ofertas de novembro, o resumo do pedido mostra a linha Desconto do cupom antes de pagar.",
+          "O cupom vale com produto em promoção? Sim. Os 10% entram também na creatina que já está em oferta.",
           "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
           "Posso usar o cupom junto com o crédito do cashback? Não. A loja não acumula cupons, e o crédito do cashback conta como cupom.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio, sem o cupom.",
@@ -118501,8 +118501,8 @@ export const reviewsData: unknown[] = [
         "heading": "Quem opera a Skelt",
         "paragraphs": [
           "Sim, é empresa registrada: o site e a Receita apontam a mesma S/A. O perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, de empresa que tem a S/A como sócia. Veja os dois lado a lado abaixo.",
-          "O rodapé do site traz a razão social SKELT BEAUTY BRANDS S/A e o CNPJ 38.290.785/0001-57, com a sede em Curitiba. Na consulta pública, esse CNPJ aparece como ativo, matriz, sociedade anônima fechada. O logradouro e o CEP são os mesmos no rodapé e na Receita: Rua Heitor Stockler de França, 396, Centro Cívico, Curitiba (PR), CEP 80030-030.",
-          "O perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, o da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com nome fantasia SKELT COSMETICS. A S/A aparece como sócia dessa empresa na mesma consulta. As duas empresas têm datas de abertura diferentes. Já a marca diz, no próprio site, que surgiu em 2017: essa data é a da marca, não a de nenhum dos dois CNPJs."
+          "O rodapé do site traz a razão social SKELT BEAUTY BRANDS S/A e o CNPJ 38.290.785/0001-57, com a sede em Curitiba. Na Receita, esse CNPJ aparece como ativo, matriz, sociedade anônima fechada. O logradouro e o CEP são os mesmos no rodapé e na Receita: Rua Heitor Stockler de França, 396, Centro Cívico, Curitiba (PR), CEP 80030-030.",
+          "O perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, o da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com nome fantasia SKELT COSMETICS. A S/A aparece como sócia dessa empresa no mesmo cadastro. As duas empresas têm datas de abertura diferentes. Já a marca diz, no próprio site, que surgiu em 2017: essa data é a da marca, não a de nenhum dos dois CNPJs."
         ],
         "comparisonTable": {
           "headers": [
@@ -118626,7 +118626,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "O perfil da Skelt no Reclame Aqui está ligado ao CNPJ da Beleze & Oliveira, como explicado acima. Os números de nota, reclamações e respostas estão no [artigo sobre a Skelt no Reclame Aqui](/reviews/skelt-reclame-aqui-nota-reputacao), com a data da leitura."
+          "O perfil da Skelt no Reclame Aqui está ligado ao CNPJ da Beleze & Oliveira, como explicado acima. Os números de nota, reclamações e respostas estão no [artigo sobre a Skelt no Reclame Aqui](/reviews/skelt-reclame-aqui-nota-reputacao), com a data dos números."
         ]
       },
       {
@@ -118652,7 +118652,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Skelt é confiável? Sim. A loja é operada por empresa registrada, com CNPJ ativo e sede em Curitiba, e publica regras de troca, reembolso e frete. O ponto de atenção é o perfil do Reclame Aqui, em nome de outro CNPJ, de empresa que tem a S/A como sócia.",
           "De qual empresa é a Skelt? O rodapé do site identifica a SKELT BEAUTY BRANDS S/A como razão social. O perfil da marca no Reclame Aqui está em nome da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com a S/A como sócia. O autocompletar do Google sugere “skelt é da creamy”, e o Reclame Aqui lista a Creamy entre as marcas “também acessadas”. Este texto não afirma nenhuma relação societária entre as duas.",
-          "Qual é o CNPJ da Skelt? O CNPJ da loja é 38.290.785/0001-57, da SKELT BEAUTY BRANDS S/A, com início de atividade em 2020 na consulta pública. O CNPJ 17.616.018/0001-15, da BELEZE & OLIVEIRA, é o que aparece no perfil do Reclame Aqui.",
+          "Qual é o CNPJ da Skelt? O CNPJ da loja é 38.290.785/0001-57, da SKELT BEAUTY BRANDS S/A, com início de atividade em 2020 na Receita. O CNPJ 17.616.018/0001-15, da BELEZE & OLIVEIRA, é o que aparece no perfil do Reclame Aqui.",
           "O site skelt.com.br é o oficial? O endereço oficial é skelt.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública da Receita.",
           "A Skelt tem telefone de atendimento? Tem WhatsApp, no número (41) 3042-4721, e o e-mail contato@skelt.com.br. O site diz que responde em até 48 horas úteis.",
           "Quanto tempo tenho para trocar ou devolver um produto da Skelt? Sem defeito, 20 dias a partir da entrega; com defeito, 45 dias. A troca é só por produto de mesmo valor e em estoque. Para desistir, a loja pede o produto na embalagem original e sem sinais de uso. Pela lei, a compra online tem 7 dias de arrependimento, independentemente dessa exigência.",
@@ -119281,7 +119281,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e o que soma",
         "paragraphs": [
           "O cupom é o **SKEMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, com qualquer forma de pagamento, e o desconto sai sobre o preço que já está com a promoção. O passo a passo no carrinho está em [Cupom Skelt SKEMCASACOMCECILIA: como usar](/reviews/cupom-skelt-como-usar).",
-          "No teste, sem finalizar a compra, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12. No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26."
+          "Em outubro, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12. No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26."
         ],
         "bullets": [
           "Pix: o desconto de 5% entra depois do cupom, sobre o total que já está com desconto.",
@@ -119295,7 +119295,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brinde e frete",
         "paragraphs": [
-          "O brinde da Skelt conta o valor final do pedido, depois dos descontos. No teste de carrinho de outubro, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola.",
+          "O brinde da Skelt conta o valor final do pedido, depois dos descontos. Em outubro, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola.",
           "A promoção de 48 horas, com dois brindes para quem usava o cupom, terminou em 06/11. Veja como foi em [brindes Skelt com o cupom](/reviews/brindes-skelt-black-friday-cupom).",
           "O frete grátis também conta o valor final do pedido. A política de frete do site dizia:"
         ],
@@ -119316,7 +119316,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/skelt/black-friday-skelt-capa.webp",
           "alt": "Linha do tempo da Black Friday Skelt 2026: 21/10 preço medido, última semana de outubro para reler, 05/11 live de aquecimento, 27/11 Black Friday e 30/11 Cyber Monday",
-          "caption": "A linha do tempo da Black Friday Skelt 2026: a leitura dos preços em outubro, a live de esquenta, a Black Friday e a Cyber Monday.",
+          "caption": "A linha do tempo da Black Friday Skelt 2026: os preços de outubro, a live de esquenta, a Black Friday e a Cyber Monday.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -119409,14 +119409,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé e na consulta pública. No Reclame Aqui, a reputação muda conforme o período: Boa em 6 meses e Ruim em 12. Antes de comprar, confira entrega, troca e garantia; o CECILIA10 dá 10% OFF em todo o site, e o [cupom Bagaggio](/cupons/bagaggio) traz as regras."
+          "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé e na Receita Federal. No Reclame Aqui, a reputação muda conforme o período: Boa em 6 meses e Ruim em 12. Antes de comprar, confira entrega, troca e garantia; o CECILIA10 dá 10% OFF em todo o site, e o [cupom Bagaggio](/cupons/bagaggio) traz as regras."
         ]
       },
       {
         "heading": "Quem opera a Bagaggio",
         "paragraphs": [
           "A Bagaggio tem CNPJ ativo no Brasil. A data de abertura dessa empresa é diferente da fundação da marca e do início do e-commerce; o quadro seguinte separa esses três marcos.",
-          "O rodapé do site e o do checkout repetem a mesma razão social e o mesmo CNPJ. Na consulta pública, esse CNPJ aparece como ativo e matriz, de sociedade empresária limitada, com início de atividade em 27/07/2007. A atividade principal cadastrada é comércio varejista de artigos de viagem. O endereço é o mesmo no site e na Receita: Rua Dezesseis, s/n, quadra 17, lotes 1 e 2, Xerém, Duque de Caxias (RJ), CEP 25250-614."
+          "O rodapé do site e o do checkout repetem a mesma razão social e o mesmo CNPJ. Na Receita, esse CNPJ aparece como ativo e matriz, de sociedade empresária limitada, com início de atividade em 27/07/2007. A atividade principal cadastrada é comércio varejista de artigos de viagem. O endereço é o mesmo no site e na Receita: Rua Dezesseis, s/n, quadra 17, lotes 1 e 2, Xerém, Duque de Caxias (RJ), CEP 25250-614."
         ],
         "postParagraphs": [
           "Para conferir, compare o CNPJ do rodapé com o número que aparece na nota fiscal da sua compra."
@@ -121248,7 +121248,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Na ordem de mais vendidos do site da Skelt, o Bifásico aparecia primeiro, seguido de Mousse, Mousse Dark, Água Dark, Água e Gel. O Mini Mousse vinha depois.",
           "Rendimento segundo a Skelt: de 5 a 8 aplicações no Mousse, no Mousse Dark, na Água e na Água Dark; de 6 a 8 no Gel; de 2 a 3 no Mini Mousse. A página do Bifásico não informa.",
-          "Ficam fora da tabela o Autobronzeador Facial (30 ml, R$ 79,90) e o Spray Autobronzeador Gradual (120 ml, R$ 80,90), esgotados na leitura dos preços."
+          "Ficam fora da tabela o Autobronzeador Facial (30 ml, R$ 79,90) e o Spray Autobronzeador Gradual (120 ml, R$ 80,90), que estavam esgotados."
         ]
       },
       {
@@ -121446,7 +121446,7 @@ export const reviewsData: unknown[] = [
           "Qual Skelt não mancha a roupa? Nenhum garante que não mancha. Água, Água Dark e Gel são incolores, sem cor-guia; na página da Água, a Skelt diz que isso diminui a chance de manchar a roupa, e os três pedem mais experiência na aplicação. Em qualquer produto, espere secar antes de se vestir.",
           "Quanto tempo o autobronzeador Skelt leva para fazer efeito? Depende do produto: no Mousse, 3 a 5 horas dão bronze médio e 6 a 8 horas, bronze forte; no Gel, 4 e 8 horas; no Bifásico, 8 horas. Depois do banho, a marca diz que a cor leva 24 horas para se desenvolver por completo.",
           "Quanto tempo dura o bronzeado? Segundo a Skelt, de 7 a 12 dias nos autobronzeadores de corpo.",
-          "Posso passar no rosto? Os autobronzeadores de corpo são indicados para o corpo. Para o rosto a Skelt tem o Autobronzeador Facial, de 30 ml, que estava esgotado na leitura dos preços.",
+          "Posso passar no rosto? Os autobronzeadores de corpo são indicados para o corpo. Para o rosto a Skelt tem o Autobronzeador Facial, de 30 ml, que estava esgotado.",
           "Precisa da luva? A Skelt a chama de essencial e ela não vem nos autobronzeadores avulsos, só nos kits.",
           "O autobronzeador Skelt tem cheiro? O Bifásico tem fragrância de body splash, a Grand Bahama, e os outros listam fragrância (Parfum) na composição. A ficha não diz se é forte ou suave.",
           "Funciona em pele clara? A Skelt não publica um guia por tom de pele. O controle está no tempo de ação e na versão, então quem tem pouca experiência pode começar pelo Mousse comum, com o menor tempo indicado.",
@@ -121593,7 +121593,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Custava R$ 241,97, com 21 g de proteína em 30 g (70%, na tabela do chocolate), 30 porções e R$ 38,41 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas.",
           "O Iso Pro Whey da Probiótica, apesar de isolado, não serve para esse perfil: a página dele declara que contém lactose, além de derivados de leite e soja. Ele aparece no capítulo de whey isolado.",
-          "Nas outras marcas, nada declara \"sem lactose\" nesta leitura. A Max não tem whey zero lactose: o \"Zero Lactose\" do menu dela é o Mass Titanium 17500, um hipercalórico. Na Black Skull, todos os wheys contêm lactose. No Whey Dr. Peanut, o rótulo diz que contém lactose, e nos wheys da Mais Mu a página diz que contém lactose ou não declara nada."
+          "Nas outras marcas da comparação, nada declara \"sem lactose\". A Max não tem whey zero lactose: o \"Zero Lactose\" do menu dela é o Mass Titanium 17500, um hipercalórico. Na Black Skull, todos os wheys contêm lactose. No Whey Dr. Peanut, o rótulo diz que contém lactose, e nos wheys da Mais Mu a página diz que contém lactose ou não declara nada."
         ],
         "postParagraphs": [
           "Para comparar a Probiótica com outra marca, em whey e creatina, leia [Probiótica ou Growth](/reviews/probiotica-ou-growth)."
@@ -122108,7 +122108,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom de cada loja",
         "paragraphs": [
-          "Cada código vale só no site oficial da própria loja, e o desconto é o da página de cupom de cada uma. Na Max e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu. No teste na Max, o Top Whey 3W de R$ 189,00 recebeu R$ 16,75 de desconto. No teste na Probiótica, o desconto foi de R$ 54,75 num carrinho de R$ 659,35, cerca de 8,3%."
+          "Cada código vale só no site oficial da própria loja, e o desconto é o da página de cupom de cada uma. Na Max e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu. Na Max, um Top Whey 3W de R$ 189,00 recebeu R$ 16,75 de desconto. Na Probiótica, o desconto foi de R$ 54,75 num carrinho de R$ 659,35, cerca de 8,3%."
         ],
         "comparisonTable": {
           "caption": "Códigos e regras das páginas de cupom do site. O desconto de cada produto aparece no resumo do pedido.",
@@ -123093,7 +123093,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits para presente: a conta contra os avulsos",
         "paragraphs": [
-          "A tabela compara o preço de cada kit com a soma dos produtos avulsos. A última coluna simula o kit com o cupom SKEMCASACOMCECILIA e mais 5% do Pix. No teste de carrinho, o cupom valeu em kit e somou com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt).",
+          "A tabela compara o preço de cada kit com a soma dos produtos avulsos. A última coluna mostra o kit com o cupom SKEMCASACOMCECILIA e mais 5% do Pix. O cupom vale em kit e soma com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt).",
           "Para o frasco avulso, a conta sobre R$ 99,90 fica em R$ 89,91 com cupom e em R$ 85,41 com cupom e mais 5% do Pix."
         ],
         "comparisonTable": {
@@ -123102,7 +123102,7 @@ export const reviewsData: unknown[] = [
             "Preço (23/10/2026)",
             "Soma dos avulsos",
             "Diferença",
-            "Simulação: cupom e Pix"
+            "Com cupom e Pix"
           ],
           "rows": [
             [
@@ -123229,7 +123229,7 @@ export const reviewsData: unknown[] = [
           "Quer provar antes de levar o frasco grande: o [Kit Miniaturas Sellers Set](https://www.skelt.com.br/kit-miniaturas-sellers-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), com Amalfi Sunset, Velvet Milano e Hidden Flowers de 15 ml cada, R$ 99,90."
         ],
         "postParagraphs": [
-          "Com o cupom SKEMCASACOMCECILIA (10%) e mais 5% no Pix, um body splash de R$ 99,90 sai por cerca de R$ 85,41. É simulação sobre o preço de venda; confira no carrinho. As condições estão na [página do cupom Skelt](/cupons/skelt)."
+          "Com o cupom SKEMCASACOMCECILIA (10%) e mais 5% no Pix, um body splash de R$ 99,90 sai por cerca de R$ 85,41, a conta sobre o preço de venda; confira no carrinho. As condições estão na [página do cupom Skelt](/cupons/skelt)."
         ]
       },
       {
@@ -123436,7 +123436,7 @@ export const reviewsData: unknown[] = [
           "Três avulsas ou um kit de três: R$ 348,30."
         ],
         "postParagraphs": [
-          "O CSEMCASACOMCECILIA dá 10% sobre o preço do dia, também em promoção e em qualquer forma de pagamento. No teste de checkout, o kit promocional de R$ 258,00 naquele dia ficou por R$ 232,20. As condições estão na [página do cupom Cléa Store](/cupons/clea-store).",
+          "O CSEMCASACOMCECILIA dá 10% sobre o preço do dia, também em promoção e em qualquer forma de pagamento. Num kit promocional de R$ 258,00, o total com o cupom ficou em R$ 232,20. As condições estão na [página do cupom Cléa Store](/cupons/clea-store).",
           "Nos kits prontos, as cores vêm combinadas como mostra a tabela. No Essenciais, você escolhe as três e pode repetir. A avulsa atende quem quer apenas uma peça ou completar um kit."
         ],
         "images": [
@@ -124174,7 +124174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECILIA10",
         "paragraphs": [
-          "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, com todas as formas de pagamento, e soma com as promoções vigentes. No teste de checkout, o desconto valeu em todos os itens do carrinho, inclusive nos que já estavam em promoção. Vale para conta nova e antiga. O frete é calculado pela loja e fica fora do cupom. O código não vale no Mercado Livre: lá vale o preço do anúncio.",
+          "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, com todas as formas de pagamento, e soma com as promoções vigentes. O desconto vale em todos os itens do carrinho, inclusive nos que já estão em promoção. Vale para conta nova e antiga. O frete é calculado pela loja e fica fora do cupom. O código não vale no Mercado Livre: lá vale o preço do anúncio.",
           "Aplicado aos preços de referência, o CECILIA10 reduz o custo calculado em 10%; o valor final depende do sabor, da embalagem e da oferta do dia. Veja [como usar o código na Black Skull](/reviews/cupom-black-skull-como-usar) e as condições na página do [cupom Black Skull](/cupons/black-skull)."
         ]
       },
@@ -124373,7 +124373,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código e onde comprar",
         "paragraphs": [
-          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Um teste de checkout aplicou o cupom num kit de whey já em promoção e num whey a preço cheio, e os 10% valeram nos dois. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), e podemos receber comissão pelo uso do código."
+          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Os 10% valem num kit de whey já em promoção e num whey a preço cheio. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), e podemos receber comissão pelo uso do código."
         ]
       },
       {
@@ -124910,14 +124910,14 @@ export const reviewsData: unknown[] = [
               "R$ 7,57"
             ]
           ],
-          "caption": "Formatos comparados, custo por 100 g e simulação com o cupom de 10%, sem desconto do Pix."
+          "caption": "Formatos comparados, custo por 100 g e preço com o cupom de 10%, sem desconto do Pix."
         },
         "postParagraphs": [
           "O pote de 250 g estava de R$ 28,90 por R$ 25,89, e o de 600 g, de R$ 64,90 por R$ 59,89. Os preços são do site, sem desconto de Pix."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-tabela-por-100g.webp",
         "imageAlt": "Tabela com o preço por 100 g de cada formato da Dr. Peanut, sem cupom e com o cupom de 10%, e da assinatura com cupom.",
-        "imageCaption": "Preços do site oficial. Com o cupom, a simulação aplica 10% ao preço de página.",
+        "imageCaption": "Preços do site oficial. Com o cupom, o preço de página cai 10%.",
         "imageFit": "contain",
         "imageAspectRatio": 0.933
       },
@@ -124958,7 +124958,7 @@ export const reviewsData: unknown[] = [
         "heading": "Assinatura: com o cupom, o menor preço nos potes de 250 g",
         "paragraphs": [
           "A assinatura (\"Monte sua assinatura\") só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3, e 15% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2, R$ 68,35 com 3 e R$ 88,03 com 4, os mesmos valores dos kits de 250 g.",
-          "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. No carrinho de teste, os 10% saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
+          "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. Os 10% saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
         ],
         "comparisonTable": {
           "headers": [
@@ -124993,7 +124993,7 @@ export const reviewsData: unknown[] = [
               "R$ 7,77"
             ]
           ],
-          "caption": "Simulações da assinatura com cupom de 10%, sobre o subtotal e com o desconto progressivo de cada quantidade."
+          "caption": "Assinatura com cupom de 10%, sobre o subtotal e com o desconto progressivo de cada quantidade."
         },
         "postParagraphs": [
           "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom nas quantidades comparadas: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo. Confira na contratação o valor e as condições das próximas cobranças.",
@@ -125023,10 +125023,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site, e o teste no carrinho mostrou o desconto em todos os itens do carrinho, inclusive nos que já estavam em promoção.",
+          "O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site e entra em todos os itens do carrinho, inclusive nos que já estão em promoção.",
           "O Pix entra na conta? Não há soma confirmada com o Pix, e os preços deste artigo não incluem desconto de Pix.",
           "A Dr. Peanut tem pote de 1 kg? Na loja, não havia pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura; confira o catálogo antes de escolher.",
-          "O cupom entra na assinatura? Sim. No teste no carrinho com 3 pastas, o DREMCASACOMCECILIA somou com o desconto progressivo, com os 10% calculados sobre o subtotal. Confira na contratação as condições do código e das renovações."
+          "O cupom entra na assinatura? Sim. Com 3 pastas no carrinho, o DREMCASACOMCECILIA somou com o desconto progressivo, com os 10% calculados sobre o subtotal. Confira na contratação as condições do código e das renovações."
         ]
       }
     ],
@@ -128879,13 +128879,13 @@ export const reviewsData: unknown[] = [
         "heading": "Quem opera a Toda Up",
         "paragraphs": [
           "Sim, a Toda Up é operada por uma empresa registrada no Brasil. O rodapé do site mostra o CNPJ 40.159.443/0001-44 e o endereço R. Edgard Hoffmann, 222, Biguaçu/SC.",
-          "Na consulta pública do CNPJ, feita em 26/10/2026, esse CNPJ é da FITA UP LTDA, com nome fantasia FITA UP, situação ativa e início de atividade em 18/12/2020. A atividade principal cadastrada é comércio varejista de vestuário e acessórios, e o município é Biguaçu, em Santa Catarina. O endereço comercial do rodapé e o município da consulta batem.",
+          "Nos dados públicos do CNPJ, em 26/10/2026, esse CNPJ é da FITA UP LTDA, com nome fantasia FITA UP, situação ativa e início de atividade em 18/12/2020. A atividade principal cadastrada é comércio varejista de vestuário e acessórios, e o município é Biguaçu, em Santa Catarina. O endereço comercial do rodapé e o município do cadastro batem.",
           "O nome da empresa, então, ainda é o da marca antiga. Isso não é um problema: Toda Up é a marca, e a empresa por trás dela segue a mesma, como o capítulo seguinte explica."
         ],
         "image": {
           "src": "/images/reviews/toda-up/toda-up-empresa-cnpj-2610.webp",
           "alt": "Quadro com o rodapé do site da Toda Up, o CNPJ 40.159.443/0001-44 da FITA UP LTDA, ativa desde 18/12/2020, em Biguaçu (SC)",
-          "caption": "Rodapé do site oficial e consulta pública do CNPJ, lidos no mesmo dia. Quadro nosso.",
+          "caption": "Rodapé do site oficial e dados públicos do CNPJ. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 1.5666
         }
@@ -129041,7 +129041,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Toda Up é confiável? É a marca da FITA UP LTDA, empresa registrada no Brasil, com CNPJ ativo e sede em Biguaçu (SC), que publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa.",
-          "Qual é o CNPJ da Toda Up? O CNPJ do rodapé do site é 40.159.443/0001-44, da FITA UP LTDA, ativa desde 2020 na consulta pública. Confira o número na consulta pública do CNPJ.",
+          "Qual é o CNPJ da Toda Up? O CNPJ do rodapé do site é 40.159.443/0001-44, da FITA UP LTDA, ativa desde 2020 nos dados públicos. Confira o número na consulta pública do CNPJ.",
           "A Toda Up é a Fita UP? Sim. Segundo o FAQ da loja, a Fita UP cresceu e virou Toda Up, com a mesma equipe e a mesma empresa; mudaram o nome, o visual do site, as embalagens e o logo.",
           "A Fita Up mudou de nome? Faliu? Mudou de nome: não faliu nem fechou. No FAQ da loja, a resposta a \"A Fita UP acabou?\" é \"Não, ela evoluiu!\", e a \"Toda Up é outra empresa?\", \"Nadinha!\". A fita segue à venda no todaup.com, com o mesmo CNPJ no rodapé.",
           "A Fita Up é golpe? Não. A Fita Up é a marca antiga da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 2020, e a Toda Up é a mesma empresa com marca nova, segundo a loja. Confira o endereço antes de comprar; a nota, as reclamações e as respostas estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
@@ -129115,7 +129115,7 @@ export const reviewsData: unknown[] = [
         "heading": "Por que olhar o Reclame Aqui antes de comprar",
         "paragraphs": [
           "O Reclame Aqui reúne reclamações, respostas e avaliações do atendimento. O índice de resposta considera as reclamações registradas; solução, nota do consumidor e voltaria a fazer negócio vêm de quem finalizou e avaliou a reclamação. Esses grupos não representam todos os compradores.",
-          "Os números abaixo são de uma leitura só e mudam com o tempo. Confira de novo no dia da compra."
+          "Os números abaixo mudam com o tempo. Confira de novo no dia da compra."
         ]
       },
       {
@@ -129136,7 +129136,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Toda Up",
         "paragraphs": [
-          "Cada coluna da tabela é uma aba do perfil, com o período dela. A leitura das abas de 6 e 12 meses é de 07/11/2026; a aba geral é da leitura de outubro. As abas de 6 e 12 meses mostram a faixa e a nota; a aba geral, na leitura feita, mostrou só os indicadores de reclamação."
+          "Cada coluna da tabela é uma aba do perfil, com o período dela. Os dados das abas de 6 e 12 meses são de 07/11/2026; os da aba geral, de outubro. As abas de 6 e 12 meses mostram a faixa e a nota; a aba geral mostra só os indicadores de reclamação."
         ],
         "comparisonTable": {
           "headers": [
@@ -129150,13 +129150,13 @@ export const reviewsData: unknown[] = [
               "Reputação",
               "Ótima",
               "RA1000",
-              "não consta nesta leitura"
+              "não consta"
             ],
             [
               "Nota",
               "8,2",
               "8,3",
-              "não consta nesta leitura"
+              "não consta"
             ],
             [
               "Reclamações recebidas",
@@ -129223,7 +129223,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a conta entre as abas mostra",
         "paragraphs": [
           "A aba geral soma 1.398 reclamações no período do cabeçalho da tabela, e a de 12 meses soma 950. A diferença, 448, cobre o período anterior à aba de 12 meses, cerca de 24 meses. Dividida por esse período, dá perto de 19 reclamações por mês. Nos 12 meses da aba recente, a média foi de cerca de 79 por mês, e nos 6 meses, de cerca de 64. A conta é nossa, feita com as abas, e vale como ordem de grandeza.",
-          "O Reclame Aqui não mostrou quantas reclamações entraram em cada mês, então não dá para saber o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo, mas resolveu um pouco menos do que na média geral.",
+          "As abas não mostram quantas reclamações entraram em cada mês, então não dá para saber o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo, mas resolveu um pouco menos do que na média geral.",
           "A aba geral começa em 2023. O domínio todaup.com é de 2025, pelo registro público do domínio, então a janela geral alcança um tempo anterior ao site atual. O perfil é o mesmo, pelo mesmo CNPJ, e o Reclame Aqui não separa as reclamações por nome da marca."
         ]
       },
@@ -129234,9 +129234,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que esta leitura não traz",
+        "heading": "O que este texto não traz",
         "paragraphs": [
-          "A leitura ficou com as abas de 6 meses, 12 meses e geral. Duas partes do perfil ficaram de fora e não entram neste texto: o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. O problema mais citado está na lista de principais problemas, no próprio perfil."
+          "Este texto cobre as abas de 6 meses, 12 meses e geral. Duas partes do perfil ficaram de fora: o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. O problema mais citado está na lista de principais problemas, no próprio perfil."
         ]
       },
       {
@@ -129267,7 +129267,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Reputação: Ótima nos 6 meses, com nota 8,2, e RA1000 nos 12 meses, com nota 8,3.",
           "Respondidas e resolvidas: 100% e 89,9% nos 6 meses; 100% e 91,5% nos 12 meses; 99% e 92,1% na aba geral.",
-          "Fora desta leitura: o histórico mês a mês e os principais problemas."
+          "Fora deste texto: o histórico mês a mês e os principais problemas."
         ]
       },
       {
@@ -129516,7 +129516,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "toda-up",
-    "editorialNote": "A Toda Up é parceira: podemos receber comissão pelas compras no site.",
+    "editorialNote": "A Toda Up é parceira: podemos receber comissão pelas compras no site. Ninguém da equipe usou os produtos.",
     "relatedArticles": [
       {
         "slug": "cupom-toda-up-como-usar"
@@ -129541,7 +129541,7 @@ export const reviewsData: unknown[] = [
           "A home da Toda Up anuncia a \"Black November: todo site com desconto\", e os produtos aparecem com selos de 15%, 16%, 20% e até 40%, este no protetor de silicone. O banner do começo da campanha falava em até 35% OFF e já saiu da home. O desconto é por peça, e o que vale é o preço na página de cada uma: compare com a tabela de outubro deste guia, mais abaixo.",
           "O banner trazia, e os selos dos produtos seguem anunciando, brindes por valor de pedido: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. O banner não diz o modelo nem o tamanho do brinde: confira se ele entra no carrinho antes de pagar.",
           "A loja não publica até quando a Black November vale nem se a regra muda na sexta, 27/11/2026. Confira o desconto no seu carrinho antes de pagar.",
-          "Em outubro, a campanha se chamava \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site, e o desconto era progressivo: entrava sozinho no carrinho, sem código, pelo subtotal dos produtos. Foi nessa regra que testamos o cupom, e é ela que os carrinhos abaixo usam. Se a progressiva segue valendo na Black November, o site não diz: veja se a linha da campanha aparece no seu carrinho."
+          "Em outubro, a campanha se chamava \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site, e o desconto era progressivo: entrava sozinho no carrinho, sem código, pelo subtotal dos produtos. É essa regra que os carrinhos abaixo usam. Se a progressiva segue valendo na Black November, o site não diz: veja se a linha da campanha aparece no seu carrinho."
         ],
         "comparisonTable": {
           "headers": [
@@ -129577,7 +129577,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom e a campanha: o teste de outubro",
         "paragraphs": [
-          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. No carrinho de outubro, sem finalizar a compra, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. Sobre os preços da Black November, não testamos: a loja pode mudar a regra de soma durante a campanha, então confira a linha do cupom no carrinho antes de pagar. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. Num carrinho de outubro, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. Nos preços da Black November, a loja pode mudar a regra de soma durante a campanha, então confira a linha do cupom no carrinho antes de pagar. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
@@ -129779,7 +129779,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confira o tamanho no guia de medidas da página de cada produto: a troca por tamanho é grátis só na primeira vez.",
           "Veja o desconto de cada peça na página dela e se alguma linha da campanha apareceu no carrinho.",
-          "Aplique o cupom e confira o total: no teste de outubro, os 10% saíram depois do desconto da campanha.",
+          "Aplique o cupom e confira o total: em outubro, os 10% saíram depois do desconto da campanha.",
           "Confira o frete e o prazo pelo seu CEP.",
           "Compre só pelo site oficial, todaup.com, pelo link da parceria. O rodapé traz o CNPJ da FITA UP LTDA; a empresa, a troca de nome e as políticas estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
           "Guarde o print do carrinho e o número do pedido; o portal de trocas pede o número e o CPF da titular."
@@ -129810,7 +129810,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto, selos de até 40% OFF e brindes por valor de pedido. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
           "A Toda Up tem Black Friday? Sim. Em outubro, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo carrinho; agora mostra a \"Black November\", com desconto por peça.",
-          "O cupom da Toda Up vale na Black November? No teste de outubro, na Black Antecipada, os 10% do cupom saíram depois do desconto da campanha. Sobre os preços da Black November, não testamos: confira a linha do cupom no carrinho.",
+          "O cupom da Toda Up vale na Black November? Em outubro, na Black Antecipada, os 10% do cupom saíram depois do desconto da campanha. Nos preços da Black November, confira a linha do cupom no carrinho.",
           "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com selos de 15%, 16%, 20% e até 40% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
           "A Black November da Toda Up tem brinde? Tem, pelo banner da campanha: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. Confira o brinde no carrinho antes de pagar.",
           "A Black November tem frete grátis? A faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil, não frete grátis; o brinde é que começa em R$ 199 de pedido. Na Black Antecipada de outubro, a faixa anunciava frete grátis em todo o site. Confira o frete pelo CEP no carrinho.",
@@ -130377,8 +130377,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e preço",
         "paragraphs": [
-          "O protetor se compra no site oficial da Toda Up, a marca nova da mesma empresa da Fita Up, como explica [Toda Up é confiável?](/reviews/toda-up-e-confiavel). O preço está na seção \"O que é o protetor de silicone\" e pode mudar. Na mesma leitura, a página oferecia o kit \"Leve 3\" por R$ 139,80 (de R$ 299,70) e, em \"Leve junto\", sugeria o Case Protetor de Silicone, a R$ 49,90 (de R$ 79,90).",
-          "O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de carrinho, sem finalizar a compra. O protetor avulso não foi testado nesse carrinho; confira o desconto antes de pagar. O botão desta página abre o site da Toda Up."
+          "O protetor se compra no site oficial da Toda Up, a marca nova da mesma empresa da Fita Up, como explica [Toda Up é confiável?](/reviews/toda-up-e-confiavel). O preço está na seção \"O que é o protetor de silicone\" e pode mudar. Na página do protetor, a loja oferecia o kit \"Leve 3\" por R$ 139,80 (de R$ 299,70) e, em \"Leve junto\", sugeria o Case Protetor de Silicone, a R$ 49,90 (de R$ 79,90).",
+          "O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3. No protetor avulso, confira o desconto antes de pagar. O botão desta página abre o site da Toda Up."
         ]
       },
       {
@@ -130388,7 +130388,7 @@ export const reviewsData: unknown[] = [
           "Qual tamanho do protetor pedir? Pelo FAQ da Toda Up, sutiã 34 a 46 pede o de 8 cm (P), 46 a 50 o de 10 cm (M) e 50 a 54 o de 12 cm (G).",
           "Quantas vezes dá para usar o protetor? A Toda Up diz até 30 vezes, com a lavagem à mão que a página descreve.",
           "Como lavar o protetor de silicone? À mão, logo depois do uso, com água fria ou morna e sabão neutro; secar à sombra com o adesivo para cima e guardar na película original.",
-          "O cupom vale no protetor? No teste de carrinho, o cupom somou com os kits Leve 2 e Leve 3, sem concluir a compra. O protetor avulso não foi testado; confira o desconto no carrinho.",
+          "O cupom vale no protetor? O cupom somou com os kits Leve 2 e Leve 3. No protetor avulso, confira o desconto no carrinho.",
           "Como colocar o protetor? A página do protetor não traz passo a passo. No passo a passo da Fita Up, a Toda Up põe o protetor na pele antes da fita."
         ]
       }
@@ -130662,7 +130662,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECILIA10 nos dois",
         "paragraphs": [
-          "O CECILIA10 é um cupom de 10% no site da Black Skull, em todas as formas de pagamento, e soma com promoções vigentes. No teste de checkout, o desconto valeu em todos os itens do carrinho; os valores da tabela com cupom são simulação de 10%. O frete é calculado pela loja e fica fora do cupom. A loja não mostra preço de Pix nem desconto no Pix, então a conta é uma só, seja qual for o pagamento. As regras completas estão na [página do cupom](/cupons/black-skull), e o passo a passo em [Cupom Black Skull CECILIA10: como usar](/reviews/cupom-black-skull-como-usar)."
+          "O CECILIA10 é um cupom de 10% no site da Black Skull, em todas as formas de pagamento, e soma com promoções vigentes. O desconto vale em todos os itens do carrinho; os valores da tabela com cupom são o preço da loja menos 10%. O frete é calculado pela loja e fica fora do cupom. A loja não mostra preço de Pix nem desconto no Pix, então a conta é uma só, seja qual for o pagamento. As regras completas estão na [página do cupom](/cupons/black-skull), e o passo a passo em [Cupom Black Skull CECILIA10: como usar](/reviews/cupom-black-skull-como-usar)."
         ],
         "comparisonTable": {
           "headers": [
@@ -131001,7 +131001,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, Pix e frete no site",
         "paragraphs": [
-          "O CECILIA10 tira 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Vale para conta nova e antiga. No nosso teste, o desconto entrou num kit de whey em promoção e num whey a preço cheio. Nas páginas que lemos, o site não mostra desconto próprio no Pix: o que baixa o preço é o cupom, no Pix ou no cartão. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e as condições do mês estão na página do [cupom Black Skull](/cupons/black-skull).",
+          "O CECILIA10 tira 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Vale para conta nova e antiga. O desconto entra num kit de whey em promoção e num whey a preço cheio. Nas páginas da comparação, o site não mostra desconto próprio no Pix: o que baixa o preço é o cupom, no Pix ou no cartão. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e as condições do mês estão na página do [cupom Black Skull](/cupons/black-skull).",
           "O frete do site é grátis acima de R$ 199,90 no Sul e no Sudeste, depois dos descontos. Um whey de 900 g sozinho, a R$ 152,91 com o cupom, fica abaixo desse limite e paga frete. Simule o frete nos dois canais; só vale aumentar o carrinho se você já pretende comprar os outros itens, pelo gasto total."
         ]
       },
@@ -131031,7 +131031,7 @@ export const reviewsData: unknown[] = [
           "O cupom CECILIA10 vale no Mercado Livre? Não. Ele só vale no site oficial da Black Skull; no Mercado Livre vale o preço do anúncio. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar).",
           "A Black Skull é mais barata no Mercado Livre ou no site? Depende do produto. O site com o cupom ficou abaixo em 13 de 15 linhas da tabela; o Mercado Livre teve o menor preço no Whey 100% HD de 900 g e no Refil de 900 g.",
           "O site da Black Skull tem frete grátis? No Sul e no Sudeste, sim, acima de R$ 199,90, contado depois do desconto.",
-          "O Pix tem desconto no site da Black Skull? Nas páginas que lemos, não há desconto próprio no Pix. O CECILIA10 tira 10% em qualquer forma de pagamento.",
+          "O Pix tem desconto no site da Black Skull? Nas páginas da comparação, não há desconto próprio no Pix. O CECILIA10 tira 10% em qualquer forma de pagamento.",
           "Quanto custa o whey da Black Skull no Mercado Livre? O Whey 100% HD de 900 g ia de R$ 121,90 a R$ 149,90 na loja oficial, conforme o sabor. No site, R$ 169,90, ou R$ 152,91 com o cupom."
         ]
       }
@@ -131296,7 +131296,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Daily e Light: onde o Mercado Livre ganha",
         "paragraphs": [
-          "A Daily sai mais barata no Mercado Livre porque no site ela não aceita o cupom. A página do produto mostra \"desconto máximo aplicado\", e o teste no site confirmou isso.",
+          "A Daily sai mais barata no Mercado Livre porque no site ela não aceita o cupom. A página do produto mostra \"desconto máximo aplicado\".",
           "A Camiseta Tech Daily masculina sai por R$ 99 no site e por R$ 69 a R$ 79 no Mercado Livre. A Daily feminina sai por R$ 99 no site e por R$ 56,05 a R$ 79 no Mercado Livre. O Kit 3 Daily feminina sai por R$ 290,76 no site e por R$ 179,69 no Mercado Livre.",
           "A Light aparece no Mercado Livre e não tem produto com o mesmo nome no site; por isso ficou fora da tabela."
         ],
@@ -131319,7 +131319,7 @@ export const reviewsData: unknown[] = [
         "heading": "Antes de comprar no Mercado Livre",
         "paragraphs": [
           "O botão deste texto leva à loja oficial da Insider no Mercado Livre. Confira o nome do vendedor no anúncio antes de pagar.",
-          "No Mercado Livre o cupom não entra. Frete, troca e devolução seguem as regras da plataforma e de cada anúncio. Não lemos essas condições para este texto, então não prometemos frete nem prazo. Os preços da loja vêm da listagem, e a cor ou o tamanho podem mudar o valor dentro do anúncio."
+          "No Mercado Livre o cupom não entra. Frete, troca e devolução seguem as regras da plataforma e de cada anúncio, e este texto não promete frete nem prazo. Os preços da loja são os da listagem, e a cor ou o tamanho podem mudar o valor dentro do anúncio."
         ]
       },
       {
@@ -131354,7 +131354,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O cupom EMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no site da Insider; no Mercado Livre vale o preço do anúncio.",
           "A Insider é mais barata no Mercado Livre ou no site? Antes do frete, o site com EMCASACOMCECILIA ficou mais barato em 13 de 17 linhas. As três Daily e a Meia Spectrum Mid custavam menos no Mercado Livre; confira a mesma variante e o total entregue.",
-          "A Daily aceita o cupom no site? Não. A página mostra \"desconto máximo aplicado\", e o teste no site confirmou isso.",
+          "A Daily aceita o cupom no site? Não. A página mostra \"desconto máximo aplicado\".",
           "O site da Insider tem frete grátis? Sim, acima de R$ 399 depois do desconto, segundo o site. Uma peça desta seleção não alcançava esse limite sozinha; simule o frete para o seu CEP.",
           "A loja do Mercado Livre é oficial? O botão deste texto leva à loja oficial da Insider no Mercado Livre. Confira o nome do vendedor no anúncio antes de pagar."
         ]
@@ -143166,7 +143166,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Simulação no teto de 10%, sem frete: o pote da Probiótica ficaria em R$ 37,87 por 100 g de proteína, e o refil e o kit, em R$ 35,35. No par de 900 g, o refil fica abaixo do pouch da Integralmédica, de R$ 36,03. Em 1,8 kg, a Integralmédica segue abaixo, a R$ 32,06. O desconto pode ser menor conforme o item; confirme o valor no carrinho.",
+          "Com o cupom no teto de 10%, sem frete, o pote da Probiótica ficaria em R$ 37,87 por 100 g de proteína, e o refil e o kit, em R$ 35,35. No par de 900 g, o refil fica abaixo do pouch da Integralmédica, de R$ 36,03. Em 1,8 kg, a Integralmédica segue abaixo, a R$ 32,06. O desconto pode ser menor conforme o item; confirme o valor no carrinho.",
           "Por porção de 30 g, no cartão, o pote da Probiótica fica em R$ 8,42 e o refil em R$ 7,86; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg). A Integralmédica também vende o pote de 900 g, a R$ 240,00; a tabela usa o pouch, que tem o rótulo publicado."
         ]
       },
@@ -144077,7 +144077,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O pote do Égide de 300 g custa R$ 21,00 a mais que o do Hórus de 300 g, mas rende 14 doses a mais. Por isso o Égide sai R$ 0,27 mais barato por dose: R$ 2,20 contra R$ 2,47. Quem compara só o preço do pote vê o contrário.",
-          "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 2,20 contra R$ 2,32 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado. Na consulta, parte dos sabores do Hórus de 150 g estava sem estoque.",
+          "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 2,20 contra R$ 2,32 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado. Em outubro, parte dos sabores do Hórus de 150 g estava sem estoque.",
           "O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52.",
           "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, diz a página da loja. O código e as regras estão na página do [cupom Max Titanium](/cupons/max-titanium)."
         ]
@@ -144348,14 +144348,14 @@ export const reviewsData: unknown[] = [
           "caption": "Preços no cartão, sem frete nem cupom; comparação por 100 g de produto."
         },
         "postParagraphs": [
-          "A Integralmédica custava menos nos tamanhos de 300 g e 500 g comparados sem cupom; o pouch de 1 kg tinha o menor custo por grama da tabela. No teto simulado de 10% do MAX10EMCASACOMCECILIA, a Max de 500 g ficava em R$ 15,76 por 100 g, abaixo do Hardcore de 500 g; a Max de 300 g, em R$ 17,97, continuava acima da Integralmédica de 300 g. Mesmo no teto, nenhum desses dois potes Max alcançava os R$ 12,50 por 100 g do pouch de 1 kg. Por dose declarada de 5 g, eram R$ 1,00 na Max de 300 g, R$ 0,88 na Max de 500 g e R$ 0,63 no pouch de 1 kg da Integralmédica.",
+          "A Integralmédica custava menos nos tamanhos de 300 g e 500 g comparados sem cupom; o pouch de 1 kg tinha o menor custo por grama da tabela. Com o MAX10EMCASACOMCECILIA no teto de 10%, a Max de 500 g ficava em R$ 15,76 por 100 g, abaixo do Hardcore de 500 g; a Max de 300 g, em R$ 17,97, continuava acima da Integralmédica de 300 g. Mesmo no teto, nenhum desses dois potes Max alcançava os R$ 12,50 por 100 g do pouch de 1 kg. Por dose declarada de 5 g, eram R$ 1,00 na Max de 300 g, R$ 0,88 na Max de 500 g e R$ 0,63 no pouch de 1 kg da Integralmédica.",
           "Nas Creapure, a [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custava R$ 139,89, R$ 55,96 por 100 g, com dose de 5 g e 50 porções; a ficha diz que a creatina é produzida na Alemanha pela Alzchem. A Creatina Creapure de 300 g da Integralmédica custava R$ 184,00, R$ 61,33 por 100 g. As duas marcas declaram o selo."
         ]
       },
       {
         "heading": "Quem fabrica e quem vende",
         "paragraphs": [
-          "A Max Titanium é marca brasileira e vende no site próprio; quem fabrica, o CNPJ, as trocas e a reputação estão em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel). A origem da Integralmédica, com a empresa que opera a loja e o grupo que reúne a marca, está em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica), e este texto não repete a leitura."
+          "A Max Titanium é marca brasileira e vende no site próprio; quem fabrica, o CNPJ, as trocas e a reputação estão em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel). A origem da Integralmédica, com a empresa que opera a loja e o grupo que reúne a marca, está em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica), e este texto não repete essa parte."
         ]
       },
       {
@@ -144367,7 +144367,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "**Whey: a Max.** Na baunilha, o 100% Whey Refil de 900 g sai por R$ 31,17 por 100 g de proteína no cartão, ou R$ 28,06 no teto simulado do cupom. Os pouches da Integralmédica custam R$ 36,03 no de 900 g e R$ 32,06 no de 1,8 kg, acima do Refil nas duas contas. O Whey Pro de 1 kg é o pote de menor preço, mas rende menos proteína por dose.",
+          "**Whey: a Max.** Na baunilha, o 100% Whey Refil de 900 g sai por R$ 31,17 por 100 g de proteína no cartão, ou R$ 28,06 com o cupom no teto. Os pouches da Integralmédica custam R$ 36,03 no de 900 g e R$ 32,06 no de 1,8 kg, acima do Refil nas duas contas. O Whey Pro de 1 kg é o pote de menor preço, mas rende menos proteína por dose.",
           "**Creatina: depende do cupom e do tamanho.**"
         ],
         "bullets": [
@@ -144383,7 +144383,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o 100% Whey Refil da Max: R$ 31,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. No teto simulado de 10% do cupom, o Refil fica em R$ 28,06. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
+          "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o 100% Whey Refil da Max: R$ 31,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. Com o cupom no teto de 10%, o Refil fica em R$ 28,06. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
           "Creatina Max Titanium ou Integralmédica, qual é melhor? Pelo preço por 100 g de produto no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 e o Hardcore de 500 g por R$ 16,60, contra R$ 17,51 do pote de 500 g da Max. Com o cupom da Max no teto, o pote de 500 g cai para R$ 15,76, abaixo do Hardcore. Isso compara custo de produto, não eficácia.",
           "O whey da Integralmédica tem sucralose? Sim. A lista de ingredientes do pouch de 900 g, sabor baunilha, traz edulcorante sucralose. Os wheys concentrados da Max desta comparação também listam sucralose.",
           "Quantas gramas de proteína tem o whey da Max e o da Integralmédica? O 100% Whey da Max, no Refil e no Pote de 900 g, traz 21 g em cada porção de 30 g, e o Whey Pro de 1 kg, 15 g em 40 g. O pouch da Integralmédica, no sabor baunilha, traz 21 g em 30 g; no chocolate e no cookies and cream, 20 g.",
@@ -156639,7 +156639,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A regra do cupom SKEMCASACOMCECILIA é 10% em todo o site oficial da Skelt, inclusive kits, somando com as promoções e com os 5% do Pix. Pela conta, o avulso de R$ 99,90 sairia a R$ 85,41 com cupom e Pix, e os conjuntos ficariam entre R$ 152,28 e R$ 253,94. O teste de sacola foi com um body splash em promoção; o cupom no Solar Muse sem promoção e nos conjuntos não foi testado, então confira o desconto no resumo da sacola. As condições estão na [página do cupom Skelt](/cupons/skelt).",
+          "A regra do cupom SKEMCASACOMCECILIA é 10% em todo o site oficial da Skelt, inclusive kits, somando com as promoções e com os 5% do Pix. Pela conta, o avulso de R$ 99,90 sairia a R$ 85,41 com cupom e Pix, e os conjuntos ficariam entre R$ 152,28 e R$ 253,94. No Solar Muse sem promoção e nos conjuntos, confira o desconto no resumo da sacola. As condições estão na [página do cupom Skelt](/cupons/skelt).",
           "Por mililitro, o avulso custa cerca de R$ 1,00 (R$ 99,90 por 100 ml). Os kits de miniaturas de 15 ml da Skelt não trazem o Solar Muse."
         ]
       },
@@ -156663,7 +156663,7 @@ export const reviewsData: unknown[] = [
           "Quanto tempo dura o Solar Muse? A ficha fala em \"alta projeção\" e \"fixação prolongada\", sem tempo em horas.",
           "Pode usar o Solar Muse no rosto? A ficha indica pescoço, pulsos, dobras dos cotovelos e atrás das orelhas, e não fala do rosto.",
           "Qual a diferença entre o Solar Muse e o Milos Breeze? Os dois têm água de coco, frangipani e lírio-do-vale; o fundo do Solar é de baunilha, caramelo e madeiras salgadas, e o do Milos, de musk, cedro e patchouli.",
-          "O cupom vale no Solar Muse? A regra do SKEMCASACOMCECILIA é 10% em todo o site oficial da Skelt, inclusive kits; ele foi testado com body splash em promoção, e no Solar Muse sem promoção o desconto deve ser conferido na sacola."
+          "O cupom vale no Solar Muse? A regra do SKEMCASACOMCECILIA é 10% em todo o site oficial da Skelt, inclusive kits; no Solar Muse, confira o desconto na sacola antes de pagar."
         ]
       }
     ]
@@ -156796,7 +156796,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na sacola, o cupom SKEMCASACOMCECILIA tirou 10% do Milos Breeze avulso (R$ 89,91), do trio (R$ 267,93) e do Kit Miniaturas Exotic Set (R$ 89,91), sem promoção da loja nos três. No teste de carrinho, o cupom somou com os 5% do Pix: pela conta, o avulso sai a R$ 85,41 e o trio, a R$ 254,53. A loja aceita um cupom por pedido, e as condições estão na [página do cupom Skelt](/cupons/skelt).",
+          "O cupom SKEMCASACOMCECILIA tira 10% do Milos Breeze avulso (R$ 89,91), do trio (R$ 267,93) e do Kit Miniaturas Exotic Set (R$ 89,91), sem promoção da loja nos três. O cupom soma com os 5% do Pix: pela conta, o avulso sai a R$ 85,41 e o trio, a R$ 254,53. A loja aceita um cupom por pedido, e as condições estão na [página do cupom Skelt](/cupons/skelt).",
           "O Exotic Set traz Grand Bahama, Pink Sands e Milos Breeze, diz a página do kit e a caixa. A ficha do Combo não tem texto; a foto mostra as caixas Exotic Set, Sellers Set e Trends Set. As miniaturas custam mais que o dobro por ml do frasco grande: é o preço de provar antes."
         ],
         "images": [
@@ -157635,7 +157635,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Redondo ou retangular: a primeira escolha",
         "paragraphs": [
-          "O formato vem antes da cor. Nos jogos americanos de tecido que lemos na Let's Eat It em 29/10/2026, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, e os retangulares têm 35 x 50 cm ou 38 x 52 cm. Nenhuma das fichas fala em medida padrão: o que decide é o tamanho do prato que vai em cima.",
+          "O formato vem antes da cor. Nos jogos americanos de tecido da Let's Eat It reunidos neste guia, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, e os retangulares têm 35 x 50 cm ou 38 x 52 cm. Nenhuma das fichas fala em medida padrão: o que decide é o tamanho do prato que vai em cima.",
           "Nos redondos de 36,5 e 38,5 cm, um prato de 28 cm deixa pouca largura nas laterais para acomodar também os talheres. Os retangulares de 35 x 50 e 38 x 52 cm deixam uma faixa lateral maior. Isso não dispensa medir a mesa: o modelo de 50 cm ocupa meio metro por lugar, e a posição de copos e talheres depende da montagem que você prefere.",
           "O [Jogo Americano Retangular Gregas Bege 35x50 cm, da Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), por exemplo, mede 50 x 35 cm e tem, segundo a ficha, corte a laser na borda. O [Corrente Bege](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), da mesma marca, tem a mesma medida, com a borda em formato de corrente."
         ],
@@ -157652,7 +157652,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Medidas, material e preço de cada jogo",
         "paragraphs": [
-          "Preços do cartão e disponibilidade, sem frete ou cupom. Seis das sete fichas informavam uma unidade: a última coluna multiplica esse preço por quatro, em conta nossa. Para o Linho Off White Borda Verde, cuja quantidade não era informada, o total supõe uma peça por compra."
+          "Preços do cartão em 29/10/2026 e disponibilidade, sem frete ou cupom. Seis das sete fichas informavam uma unidade: a última coluna multiplica esse preço por quatro, em conta nossa. Para o Linho Off White Borda Verde, cuja quantidade não era informada, o total supõe uma peça por compra."
         ],
         "comparisonTable": {
           "headers": [
@@ -157755,7 +157755,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como escolher a cor com a louça que você já tem",
         "paragraphs": [
           "Para escolher a cor, coloque o prato ao lado da foto do jogo americano e observe o conjunto com a mesa. Minha sugestão, se você quer uma composição mais discreta, é combinar prato estampado com jogo liso. Com prato liso, você pode preferir a estampa do jogo como destaque. É uma escolha de gosto; os nomes da tabela são os usados nas fichas dos produtos.",
-          "O [Jogo Americano Tecido Limone Color 33x48 cm, da Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem, na ficha, \"Cor: Limone\" e estampa inspirada no tema. Na foto da ficha, limões e folhas bordados contornam a peça, e a ficha não diz o formato nem o tecido. Entre as peças que lemos, é a única com desenho de fruta; os outros jogos são de uma cor só, com borda bordada ou vazada."
+          "O [Jogo Americano Tecido Limone Color 33x48 cm, da Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem, na ficha, \"Cor: Limone\" e estampa inspirada no tema. Na foto da ficha, limões e folhas bordados contornam a peça, e a ficha não diz o formato nem o tecido. Entre as peças deste guia, é a única com desenho de fruta; os outros jogos são de uma cor só, com borda bordada ou vazada."
         ],
         "images": [
           {
@@ -157807,7 +157807,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual o tamanho de um jogo americano? Nas peças que lemos, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, os retangulares, 35 x 50 cm ou 38 x 52 cm, e o Limone, cujo formato a ficha não diz, 33 x 48 cm. Escolha pelo prato: com um prato raso de 28 cm, o redondo de 36,5 cm deixa 4,25 cm de borda, pela nossa conta.",
+          "Qual o tamanho de um jogo americano? Nas peças deste guia, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, os retangulares, 35 x 50 cm ou 38 x 52 cm, e o Limone, cujo formato a ficha não diz, 33 x 48 cm. Escolha pelo prato: com um prato raso de 28 cm, o redondo de 36,5 cm deixa 4,25 cm de borda, pela nossa conta.",
           "Jogo americano redondo ou retangular? Compare as medidas com o seu prato e com o espaço por pessoa na mesa. Entre os modelos deste guia, os retangulares oferecem mais largura lateral para os talheres; os redondos deixam uma borda mais estreita em volta do prato.",
           "Tem jogo americano redondo de linho? Tem. O Redondo Bordado D3 Verde Sálvia 36,5 cm, da Tuut, é de linho segundo a ficha e custava R$ 39,00 no cartão.",
           "Jogo americano de tecido pode lavar na máquina? Depende da ficha. A do Linho Off White Borda Verde manda lavar à mão em até 40 °C, a dos jogos da Ori pede lavagem leve, e a da Tuut não fala em lavagem.",
@@ -167748,7 +167748,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando o kit Insider compensa contra as peças avulsas: o preço do kit dividido pelas peças, de camiseta, cueca e undershirt, e o cupom testado no kit de 5 Tech.",
+    "description": "Quando o kit Insider compensa contra as peças avulsas: o preço do kit dividido pelas peças, de camiseta, cueca e undershirt, e o cupom no kit de 5 Tech.",
     "metaDescription": "Kit Insider com o cupom EMCASACOMCECILIA de 15% OFF, testado no carrinho: a conta por peça de Tech, Heavy, Daily, cueca e undershirt contra o avulso.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
@@ -167764,7 +167764,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Compensa para quem já quer cinco ou dez camisetas Tech: na tabela, o kit de 5 custa menos por peça que a avulsa, e o cupom EMCASACOMCECILIA entrou por cima do kit de 5 no nosso teste. No kit de 3, a economia é pequena."
+          "Compensa para quem já quer cinco ou dez camisetas Tech: na tabela, o kit de 5 custa menos por peça que a avulsa, e o cupom EMCASACOMCECILIA entra por cima do kit de 5. No kit de 3, a economia é pequena."
         ]
       },
       {
@@ -167865,7 +167865,7 @@ export const reviewsData: unknown[] = [
         "heading": "Tech: 3, 5 e 10 peças",
         "paragraphs": [
           "O kit de 3 Tech economiza pouco: R$ 31,50 nas três camisetas, ou 8%. A partir de 5 peças a conta muda: o kit de 5 sai a R$ 108,88 por camiseta, e o de 10, a R$ 98,94.",
-          "No kit, cada peça tem cor e tamanho próprios. No carrinho do nosso teste, o kit de 5 levou duas pretas PP, duas pretas G e uma Indigo G. O kit de 5 tem o mesmo preço nas versões feminina e Gola V."
+          "No kit, cada peça tem cor e tamanho próprios. Num kit de 5, por exemplo, dá para pedir duas pretas PP, duas pretas G e uma Indigo G. O kit de 5 tem o mesmo preço nas versões feminina e Gola V."
         ],
         "images": [
           {
@@ -168060,10 +168060,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cupom no kit: testado no carrinho",
+        "heading": "Cupom no kit: como ele entra",
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% na loja online, um por pedido, e não vale na loja física. Nos primeiros dias de um lançamento, pode não entrar; depois, entra mesmo com a etiqueta de lançamento. A regra publicada não exclui kit.",
-          "Testamos com o kit de 5 Tech. No carrinho, o kit vira cinco camisetas com o desconto do kit em cada uma, e o cupom entra por cima. O total ficou em R$ 462,75, ou R$ 92,55 por camiseta, com frete grátis. Em outro kit, confira a linha do código em cada peça antes de pagar.",
+          "No kit de 5 Tech, o carrinho mostra cinco camisetas com o desconto do kit em cada uma, e o cupom entra por cima. O total ficou em R$ 462,75, ou R$ 92,55 por camiseta, com frete grátis. Em outro kit, confira a linha do código em cada peça antes de pagar.",
           "A Daily não aceita o cupom: a página avisa que o desconto dela já é o máximo.",
           "O Pix tem desconto próprio, que aparece no checkout e soma com o cupom."
         ],
@@ -168102,7 +168102,7 @@ export const reviewsData: unknown[] = [
           "Kit Insider compensa? Compensa em camiseta Tech de 5 ou 10 peças, Heavy de 3 ou 5 e Slip de 10. Na cueca, o kit de 2 Comfort é o que mais economiza.",
           "Kit de cueca vale a pena? O de 2 Comfort sai a R$ 49,01 por peça. Os de 3 e 5 Comfort ou Performance economizam de 3% a 5%, e o de 5 Slip, 10%.",
           "Kit de camiseta tem desconto? A Tech tem: o kit de 5 economiza 16%. A Daily quase não tem: 2% no kit de 3.",
-          "O cupom vale no kit? No teste com o kit de 5 Tech, o cupom EMCASACOMCECILIA entrou por cima do desconto do kit, e o total ficou em R$ 462,75. Cada peça precisa ser elegível (a Daily, por exemplo, não aceita o cupom): confira a linha do código de cada item no resumo do pedido.",
+          "O cupom vale no kit? No kit de 5 Tech, o cupom EMCASACOMCECILIA entrou por cima do desconto do kit, e o total ficou em R$ 462,75. Cada peça precisa ser elegível (a Daily, por exemplo, não aceita o cupom): confira a linha do código de cada item no resumo do pedido.",
           "Kit tem frete grátis? Acima de R$ 399, depois do desconto. O kit de 5 Tech com o cupom ficou com frete grátis.",
           "Dá para escolher cor e tamanho no kit? Dá. Cada peça do kit tem cor e tamanho próprios.",
           "Dá para trocar o tamanho do kit? A camiseta troca por tamanho em 21 dias. Cueca e undershirt só trocam por defeito."
@@ -174970,7 +174970,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, cupom e frete",
         "paragraphs": [
-          "No dia da leitura, a peça mais barata da SkinUp era a calcinha, a R$ 44,91, e o top mais em conta era o Top Segunda Pele, a R$ 169,90. Na Cotton Up, a calcinha estava a R$ 39,90 e os dois tops a R$ 132,90. Todos os dez preços estavam abaixo do preço riscado da loja, e as páginas mostravam uma campanha da loja no ar, então o valor muda: confira no site antes de comprar.",
+          "Nos preços do guia, a peça mais barata da SkinUp era a calcinha, a R$ 44,91, e o top mais em conta era o Top Segunda Pele, a R$ 169,90. Na Cotton Up, a calcinha estava a R$ 39,90 e os dois tops a R$ 132,90. Todos os dez preços estavam abaixo do preço riscado da loja, e as páginas mostravam uma campanha da loja no ar, então o valor muda: confira no site antes de comprar.",
           "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive nas peças que já estão com desconto, nas duas linhas. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Os detalhes estão na página do [cupom Toda Up](/cupons/toda-up).",
           "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
         ]
@@ -175078,7 +175078,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como a conta é feita",
         "paragraphs": [
           "A Toda Up vende as peças avulsas e também em kit: top com calcinha, sutiã com protetor de silicone e combinações de sutiãs. A página de cada kit mostra o preço do kit e um preço riscado, mas não compara com as mesmas peças compradas separadas. É essa conta que fizemos aqui.",
-          "Preços de 31/10/2026, no site da loja. A economia é a soma das peças avulsas daquele dia menos o preço do kit no mesmo dia, e a porcentagem é sobre essa soma, não sobre o preço riscado. O cupom fica fora da conta, porque nenhum destes kits passou pelo carrinho com ele; a seção do cupom explica. Alguns kits aparecem mais de uma vez no site, com preços diferentes: usamos a página que estava à venda.",
+          "Preços de 31/10/2026, no site da loja. A economia é a soma das peças avulsas daquele dia menos o preço do kit no mesmo dia, e a porcentagem é sobre essa soma, não sobre o preço riscado. O cupom fica fora da conta; a seção do cupom explica. Alguns kits aparecem mais de uma vez no site, com preços diferentes: usamos a página que estava à venda.",
           "A régua de leitura: economia até R$ 20 é “quase não economiza”; de R$ 20 a R$ 50, “economiza pouco”; acima de R$ 50 e de 20%, “compensa”."
         ]
       },
@@ -175165,7 +175165,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A loja também lista kits de um sutiã Comfort com uma calcinha SkinUp: Comfort Up com biquíni (R$ 205,53), Comfort Line com cós alto e Comfort Slim com biquíni (R$ 209,90). No dia da leitura eles não tinham opção de compra, e a economia seria de R$ 24,91 a R$ 29,28; por isso ficam fora da tabela."
+          "A loja também lista kits de um sutiã Comfort com uma calcinha SkinUp: Comfort Up com biquíni (R$ 205,53), Comfort Line com cós alto e Comfort Slim com biquíni (R$ 209,90). Na página da loja eles estavam sem opção de compra, e a economia seria de R$ 24,91 a R$ 29,28; por isso ficam fora da tabela."
         ]
       },
       {
@@ -175338,10 +175338,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cupom no kit: o que foi testado",
+        "heading": "Cupom nos kits",
         "paragraphs": [
-          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD, 10% em todo o site, e no teste registrado em [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar) ele somou com os kits Leve 2 e Leve 3 da loja. Nenhum dos kits desta página passou pelo carrinho com o código.",
-          "Por isso a conta acima é sem cupom. Ponha o kit no carrinho, aplique o MAUAD e confira a linha de desconto no resumo do pedido antes de pagar; se ela não aparecer, o preço do kit é o da tabela."
+          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD, 10% em todo o site, e ele somou com os kits Leve 2 e Leve 3 da loja, como mostra [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar).",
+          "A conta acima é sem cupom. Ponha o kit no carrinho, aplique o MAUAD e confira a linha de desconto no resumo do pedido antes de pagar; se ela não aparecer, o preço do kit é o da tabela."
         ]
       },
       {
@@ -175354,7 +175354,7 @@ export const reviewsData: unknown[] = [
           "Quer renovar a gaveta de sutiãs de uma vez: [Kit Comfort Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), três sutiãs por R$ 398,79, R$ 132,93 cada, do P ao GG."
         ],
         "postParagraphs": [
-          "O MAUAD é de todo o site, mas nenhum destes kits foi testado com ele: aplique no carrinho, confira a linha de desconto no resumo do pedido e deixe o total decidir."
+          "O MAUAD é de todo o site: aplique no carrinho, confira a linha de desconto no resumo do pedido e deixe o total decidir."
         ],
         "emphasis": "Se fosse para mim, eu levaria o Kit Cotton Up de 3 conjuntos, porque tem a maior porcentagem de economia entre os kits de conjunto."
       },
@@ -175365,7 +175365,7 @@ export const reviewsData: unknown[] = [
           "Quanto custa cada conjunto no kit de 3? R$ 124,39 no Cotton Up e R$ 166,63 no SkinUp, contra R$ 172,80 e R$ 214,81 comprando as peças avulsas.",
           "O Kit Invisible Up vem com a case? Vem. A página diz que acompanha a Case Protetor de Silicone tamanho P (8 cm), além do sutiã de silicone e do par de protetores.",
           "Quantos sutiãs tem o Kit Comfort Up? Três: Comfort Up, Comfort Slim e Comfort Line, na mesma cor, Preto ou Rose.",
-          "O cupom da Toda Up vale nos kits? O código é de todo o site, mas não testamos nos kits desta página: aplique no carrinho e confira a linha de desconto no resumo do pedido."
+          "O cupom da Toda Up vale nos kits? O código é de todo o site: aplique no carrinho e confira a linha de desconto no resumo do pedido."
         ]
       }
     ],
@@ -175872,8 +175872,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
-          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto, e o percentual varia por produto: nem todo item chega a 10%. No teste de 14 de outubro de 2026, com o Top Whey 3W + Sabor em promoção, o cupom tirou R$ 16,75, menos de 9% do preço. Ele soma com as promoções do site e vale em todas as formas de pagamento; confira a linha Descontos do carrinho antes de pagar.",
-          "A compra é no site oficial, o maxtitanium.com.br. O preço de campanha não entra nas contas por grama deste guia (o valor promocional do teste acima só mostra o desconto do cupom); a Black Friday da marca está em [Black Friday Max Titanium](/reviews/black-friday-max-titanium), e o passo a passo do código, em [como usar o cupom na Max Titanium](/reviews/cupom-max-titanium-como-usar)."
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto, e o percentual varia por produto: nem todo item chega a 10%. Num Top Whey 3W + Sabor em promoção, o cupom tirou R$ 16,75, menos de 9% do preço. Ele soma com as promoções do site e vale em todas as formas de pagamento; confira a linha Descontos do carrinho antes de pagar.",
+          "A compra é no site oficial, o maxtitanium.com.br. O preço de campanha não entra nas contas por grama deste guia (o valor promocional do Top Whey acima só mostra o desconto do cupom); a Black Friday da marca está em [Black Friday Max Titanium](/reviews/black-friday-max-titanium), e o passo a passo do código, em [como usar o cupom na Max Titanium](/reviews/cupom-max-titanium-como-usar)."
         ],
         "links": [
           {
@@ -176011,7 +176011,7 @@ export const reviewsData: unknown[] = [
           "Pelo rótulo, sim: a creatina é monohidratada, com 5 g por porção (5.000 mg) nas versões de 5 g, e a tabela não lista outros nutrientes em quantidade significativa. O que muda é o tamanho do pote e o preço por grama. A conta completa, com a Pure Creatina Monster, de porção de 3 g, está em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa)."
         ],
         "comparisonTable": {
-          "caption": "Preços no site, na mesma leitura da tabela do whey. Porções da tabela nutricional de cada versão.",
+          "caption": "Preços no site, da mesma data que os do whey. Porções da tabela nutricional de cada versão.",
           "headers": [
             "Versão",
             "Porções de 5 g",
@@ -176068,7 +176068,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
           "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, e o percentual varia por produto: nem todo item chega a 10%. O cupom vale para conta nova e para quem já comprou, soma com as promoções da loja e vale em todas as formas de pagamento.",
-          "No teste do checkout, um carrinho com colágeno, creatina em promoção, camiseta e barra de proteína teve cerca de 8,3% de desconto no total. Os preços das tabelas são de antes do cupom, e o desconto de cada produto só aparece no carrinho, no campo \"Cupom de Desconto\": confira a linha do desconto antes de pagar.",
+          "Num carrinho com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto no total foi de cerca de 8,3%. Os preços das tabelas são de antes do cupom, e o desconto de cada produto só aparece no carrinho, no campo \"Cupom de Desconto\": confira a linha do desconto antes de pagar.",
           "A compra é no site oficial, probiotica.com.br, entrando pelo link da parceria."
         ],
         "links": [
@@ -176346,7 +176346,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O código S-EMCASACOMCECILIA dá 5% em todo o site, na loja online, e o desconto aparece no carrinho antes de pagar. O Em Casa com Cecília tem parceria com a Simple Organic e pode receber comissão pelas compras com esse código; o código e as condições vigentes estão na página do [cupom Simple Organic](/cupons/simple-organic).",
-          "A política de cupons da loja diz que cupom não soma com preço promocional e não vale em kit nem em duo. No teste de 03/11/2026, o nosso código entrou no carrinho e no checkout com kit, duo e produto em promoção. Como a regra escrita diz uma coisa e aquele teste mostrou outra, aplique o código e confira os 5% no resumo do pedido antes de pagar; se não aparecerem, não conte com o desconto.",
+          "A política de cupons da loja diz que cupom não soma com preço promocional e não vale em kit nem em duo. Mesmo assim, o nosso código entrou no carrinho e no checkout com kit, duo e produto em promoção. Como a regra escrita diz uma coisa e o checkout mostra outra, aplique o código e confira os 5% no resumo do pedido antes de pagar; se não aparecerem, não conte com o desconto.",
           "Para aplicar, cole o código no campo \"Desconto\" do carrinho ou no checkout. O botão deste artigo abre a home com o código já aplicado; link de produto não leva o código, então copie e cole. O passo a passo com a conta do teste está em [como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar)."
         ],
         "images": [
@@ -177292,7 +177292,7 @@ export const reviewsData: unknown[] = [
               "R$ 12,60"
             ]
           ],
-          "caption": "Preço de lista, na mesma leitura da tabela do whey; a loja vende com desconto de promoção. Doses e porções pela tabela que a loja publica."
+          "caption": "Preço de lista, como na tabela do whey; a loja vende com desconto de promoção. Doses e porções pela tabela que a loja publica."
         },
         "postParagraphs": [
           "Entre os três formatos com cafeína da tabela, o pote de 500 g tem o menor preço por dose. O sachê cobra mais pela dose já medida. Se você procura uma versão sem cafeína, veja separadamente os dois produtos de 450 g.",
@@ -177366,7 +177366,7 @@ export const reviewsData: unknown[] = [
               "R$ 14,99"
             ]
           ],
-          "caption": "Preço de lista, na mesma leitura da tabela do whey; a loja vende com desconto de promoção. Proteína pela tabela ou pelo texto da página, como indicado."
+          "caption": "Preço de lista, como na tabela do whey; a loja vende com desconto de promoção. Proteína pela tabela ou pelo texto da página, como indicado."
         },
         "postParagraphs": [
           "A Mukebar é a unidade grande e a que mais custa; o Chocowheyfer é o lanche pequeno pelo menor preço, e a Crushbar e o Max ficam no meio. Nos sabores com tabela, o açúcar adicionado é 0 g e o açúcar total vai de 0,3 g a 3,7 g por unidade; a Mukebar é a que tem mais.",
@@ -177427,7 +177427,7 @@ export const reviewsData: unknown[] = [
               "R$ 0,84"
             ]
           ],
-          "caption": "Preço de lista, na mesma leitura das outras tabelas; a loja vende com desconto de promoção. Doses e ingredientes como a loja informa."
+          "caption": "Preço de lista, como nas outras tabelas; a loja vende com desconto de promoção. Doses e ingredientes como a loja informa."
         },
         "postParagraphs": [
           "O refil de 500 g sai por pouco mais da metade do preço por dose do pote pequeno. Para quem já toma creatina todo dia, o refil sem sabor; o pote serve para quem quer conhecer o sabor antes de levar o refil.",
@@ -177447,7 +177447,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o cupom, e onde comprar",
         "paragraphs": [
-          "O MMEMCASACOMCECILIA tira 10% de tudo no site da Mais Mu, soma com os 3% do Pix e entra também no produto que já está em promoção, pelo teste no carrinho. Vale em todas as formas de pagamento, para conta nova e para quem já comprou.",
+          "O MMEMCASACOMCECILIA tira 10% de tudo no site da Mais Mu, soma com os 3% do Pix e entra também no produto que já está em promoção. Vale em todas as formas de pagamento, para conta nova e para quem já comprou.",
           "A loja não acumula cupons: o crédito do cashback e o desconto de boas-vindas entram no mesmo campo, então em cada pedido vale um só. O cashback de 5% nas compras acima de R$ 250 é programa da loja, para qualquer cliente, e não tem nada a ver com o cupom.",
           "O código vai no checkout, em \"Adicionar cupom de desconto\", depois de \"Iniciar compra\" no carrinho. É longo: copie e cole, e confira a linha \"Desconto do cupom\" no resumo antes de pagar. As regras completas estão na página do [cupom Mais Mu](/cupons/mais-mu).",
           "O frete sai grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste; abaixo disso, o checkout calcula. O cupom baixa o total, e um pedido perto do mínimo pode perder o frete grátis: olhe o frete depois de colar o código. No [Mercado Livre](https://meli.la/24RjvdP) a Mais Mu tem loja, e lá vale o preço do anúncio, sem o cupom."
@@ -177662,7 +177662,7 @@ export const reviewsData: unknown[] = [
               "R$ 11,46"
             ]
           ],
-          "caption": "Preço de lista no site, na mesma leitura da tabela das pastas. A Doctor Bar só se vende em display de 8."
+          "caption": "Preço de lista no site. A Doctor Bar só se vende em display de 8."
         },
         "postParagraphs": [
           "Por grama de proteína, a barra sai a R$ 0,73 e o alfajor passa de R$ 2,76: quem compra snack pela proteína fica na barra, quem quer um doce de 35 g fica no alfajor, e o wafer é o menor preço por unidade. A Doctor Bar Avelã e a Doctor Wafer Avelã dizem \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\"; o wafer é de farinha de trigo, e a barra leva maltitol, glicosídeos de esteviol e sucralose. O alfajor é o caso à parte: a loja publica só a tabela nutricional, em imagem, e não publica a lista de ingredientes nem o aviso de alérgicos, então este texto não diz o que ele leva. Quem tem restrição confere a embalagem antes de comer."
@@ -177680,7 +177680,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
-          "O DREMCASACOMCECILIA tira 10% de todo o site, em todas as formas de pagamento, e soma com as promoções: no teste do checkout, entrou até no item que já estava com preço promocional. Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 15% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Na comparação de preço, a assinatura com cupom ficou abaixo do kit de 250 g com a mesma quantidade, antes do frete.",
+          "O DREMCASACOMCECILIA tira 10% de todo o site, em todas as formas de pagamento, e soma com as promoções: entra até no item que já está com preço promocional. Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 15% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Na comparação de preço, a assinatura com cupom ficou abaixo do kit de 250 g com a mesma quantidade, antes do frete.",
           "O frete grátis conta o valor antes do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Um pote de 600 g sozinho não chega; o pote de whey chega em qualquer região. A compra é no site oficial, drpeanut.com.br, e o código para copiar fica na página do [cupom Dr. Peanut](/cupons/dr-peanut)."
         ]
       },
@@ -178346,7 +178346,7 @@ export const reviewsData: unknown[] = [
               "R$ 95,00"
             ]
           ],
-          "caption": "Preço de lista, na mesma leitura da tabela dos séruns."
+          "caption": "Preço de lista."
         },
         "postParagraphs": [
           "Pelos preços de lista e pelos pesos da tabela, o Multifuncional sai mais barato por grama que os três de 40 g (R$ 1,19 contra R$ 1,35), mas o que ele leva é outra lista: manteigas e óleos, com lemongrass na fórmula. Quem quer niacinamida também no hidratante fica num dos três de 40 g; quem quer um pote maior, sem niacinamida, olha o Multifuncional. Os nomes \"Antioleosidade\" e \"Calmante\" são promessas da marca; o que separa os três, de fato, é a lista de ativos da tabela.",
@@ -178400,7 +178400,7 @@ export const reviewsData: unknown[] = [
               "R$ 79,00"
             ]
           ],
-          "caption": "Preço de lista, na mesma leitura da tabela dos séruns."
+          "caption": "Preço de lista."
         },
         "postParagraphs": [
           "O ingrediente que decide aqui é o álcool: os dois têm álcool orgânico na fórmula, e quem evita álcool em fragrância já sabe antes de comprar.",
@@ -178420,7 +178420,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
           "Os preços das tabelas são de lista, e em campanha a loja põe o preço do dia abaixo dele, como na Clean Friday que está no ar. Por cima do preço que estiver no carrinho entra o S-EMCASACOMCECILIA: 5% na loja online, o [cupom Simple Organic](/cupons/simple-organic) da parceria.",
-          "Nos testes, o código entrou em kit, em duo e em produto com preço de promoção, e os 5% saíram do preço que já estava no carrinho, não do preço riscado. O que confirma é a linha do desconto no resumo do pedido: confira antes de pagar. O link da parceria abre a home da loja com o código aplicado; o link de produto, como os das tabelas, vai sem ele, então copie o código e cole no campo \"Desconto\" do carrinho. O código é da loja online.",
+          "O código entrou em kit, em duo e em produto com preço de promoção, e os 5% saíram do preço que já estava no carrinho, não do preço riscado. O que confirma é a linha do desconto no resumo do pedido: confira antes de pagar. O link da parceria abre a home da loja com o código aplicado; o link de produto, como os das tabelas, vai sem ele, então copie o código e cole no campo \"Desconto\" do carrinho. O código é da loja online.",
           "Para um pedido pequeno, compare o total com frete depois de aplicar o código. O mínimo de frete grátis e o valor dos produtos precisam ser confirmados no carrinho. Se você já pretende comprar outro item, simule os dois juntos e compare com o total de uma compra só."
         ]
       },
@@ -179810,7 +179810,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Cléa Store",
         "paragraphs": [
-          "Dá. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No Reclame Aqui, a reputação é Regular nos seis meses (nota 6,9) e Boa nos 12, com o selo de Empresa Verificada, todas as reclamações respondidas e perto de 80% resolvidas; o ponto fraco é que pouco mais da metade de quem avaliou a loja voltaria a comprar. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados. CNPJ, trocas e frete estão em \"Cléa Store é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
+          "Dá. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No Reclame Aqui, a reputação é Regular nos seis meses (nota 6,9) e Boa nos 12, com o selo de Empresa Verificada, todas as reclamações respondidas e perto de 80% resolvidas; o ponto fraco é que pouco mais da metade de quem avaliou a loja voltaria a comprar. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados. CNPJ, trocas e frete estão em \"Cléa Store é confiável?\", e a análise das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
         ]
       },
       {
@@ -180121,7 +180121,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kits: quando o conjunto compensa",
         "paragraphs": [
           "Na Toda Up, o kit compensa quando você leva três conjuntos ou um sutiã com protetor, e o de um conjunto quase não economiza. Conta nossa: pelos preços da loja no guia dos kits, os kits de três conjuntos SkinUp ou Cotton Up, os dois de sutiã Comfort com protetor, o Kit Invisible Up e o Kit Comfort Up saem de 22% a 30% abaixo das peças avulsas. O kit de um conjunto economiza menos de R$ 20. O kit prende top e calcinha no mesmo número: quem usa tamanhos diferentes compra avulso, e quem veste PP fica fora dos kits de três conjuntos e do Kit Comfort Up, que começam no P. No dia, os cinco kits SkinUp estavam esgotados, e os dois Cotton Up, o Top Faixa e o Top Triangular com a Calcinha Biquíni, à venda.",
-          "Os Leve 2 e Leve 3 são outra coisa: a mesma peça repetida com desconto, na página da Fita Up e dos tops Cotton Up. A página deles diz que cupons não acumulam com o kit, salvo os de influenciadoras; o código da Toda Up somou com os dois no teste do carrinho. A conta kit a kit, com as peças de cada um, está no guia dos kits, listado no fim."
+          "Os Leve 2 e Leve 3 são outra coisa: a mesma peça repetida com desconto, na página da Fita Up e dos tops Cotton Up. A página deles diz que cupons não acumulam com o kit, salvo os de influenciadoras; o código da Toda Up somou com os dois. A conta kit a kit, com as peças de cada um, está no guia dos kits, listado no fim."
         ],
         "images": [
           {
@@ -180200,7 +180200,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o código e onde comprar",
         "paragraphs": [
-          "O código da Toda Up tira 10% no site oficial, inclusive sobre peça em promoção. No teste com o Comfort Up, o desconto saiu do preço promocional; em um carrinho maior, a promoção progressiva entrou antes e o código aplicou 10% sobre o valor restante. Confira as linhas no resumo do pedido.",
+          "O código da Toda Up tira 10% no site oficial, inclusive sobre peça em promoção. Com o Comfort Up, o desconto saiu do preço promocional; em um carrinho maior, a promoção progressiva entrou antes e o código aplicou 10% sobre o valor restante. Confira as linhas no resumo do pedido.",
           "Pelo botão deste artigo, a loja abre com o código aplicado. Se a linha não aparecer, cole MAUAD no campo de cupom. O passo a passo e as condições estão na página do [cupom Toda Up](/cupons/toda-up). A marca também vende em outros canais; este desconto é do site oficial.",
           "O frete é informado pelo CEP no checkout. Confira se há campanha de frete grátis para o pedido escolhido."
         ]
@@ -188158,7 +188158,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a HolyFoods e pode receber comissão pelas compras com o código EMCASA, que dá 15% OFF em todo o site da loja online. As condições vigentes estão na página do [cupom HolyFoods](/cupons/holyfoods).",
           "O código entra só na tela \"Finalizar compra\", em \"Inserir cupom de desconto\", e não no carrinho. O link da parceria, que leva ao site da loja, não aplica o código: copie o EMCASA e cole nessa tela. O passo a passo com as telas está no artigo de como usar o cupom, entre os relacionados.",
-          "A loja está com a Black da Holy, 30% de desconto no site todo, enquanto a campanha estiver no ar. Nos nossos testes no checkout, o EMCASA entrou por cima dos 30% em carrinhos de sopas, risotos e macarrões avulsos e em packs, e tirou exatos 15% do total. O kit da Black entra na sacola como itens avulsos, e fora da campanha a loja tem desconto progressivo por quantidade; nesses dois casos, confira a linha de desconto antes de pagar, e se o EMCASA não aparecer, não conte com ele. Os 30% e os kits estão no [artigo da Black Friday da HolyFoods](/reviews/black-friday-holyfoods)."
+          "A loja está com a Black da Holy, 30% de desconto no site todo, enquanto a campanha estiver no ar. Em carrinhos de sopas, risotos e macarrões avulsos e em packs, o EMCASA entrou por cima dos 30% e tirou exatos 15% do total. O kit da Black entra na sacola como itens avulsos, e fora da campanha a loja tem desconto progressivo por quantidade; nesses dois casos, confira a linha de desconto antes de pagar, e se o EMCASA não aparecer, não conte com ele. Os 30% e os kits estão no [artigo da Black Friday da HolyFoods](/reviews/black-friday-holyfoods)."
         ]
       },
       {
@@ -188788,7 +188788,7 @@ export const reviewsData: unknown[] = [
               "1 refeição, 380 g"
             ]
           ],
-          "caption": "Mesma leitura da tabela dos kits, com os 30% já no preço; o rendimento é o da página de cada produto."
+          "caption": "Preços da loja, 05/11, com os 30% já no preço; o rendimento é o da página de cada produto."
         },
         "postParagraphs": [
           "A sopa avulsa sai a R$ 3,48 por porção de 250 g, e o pack, de 10 sachês individuais, a R$ 4,19 por sachê, pelo número que a loja mostra no card dele. Pelos números dela, o sachê do pack sai mais caro que a porção do avulso. Confira o peso de cada sachê na embalagem que chegar.",
@@ -188878,7 +188878,7 @@ export const reviewsData: unknown[] = [
           "caption": "Mínimos da campanha da Black, no FAQ da home da loja."
         },
         "postParagraphs": [
-          "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com os 15% do cupom (conta nossa), a Rotina Resolvida cai a R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, a R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. No nosso teste, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; no seu CEP, confira o frete no resumo depois de aplicar o EMCASA.",
+          "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com os 15% do cupom (conta nossa), a Rotina Resolvida cai a R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, a R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. Na prática, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; no seu CEP, confira o frete no resumo depois de aplicar o EMCASA.",
           "Frete grátis não é prazo. A política da loja diz que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout. A reclamação mais comum no Reclame Aqui é produto não recebido, e os números estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao). Guarde o número do pedido e use o \"Rastrear pedido\" do menu da loja."
         ]
       },
@@ -189090,7 +189090,7 @@ export const reviewsData: unknown[] = [
         "heading": "Troca e garantia fora do site",
         "paragraphs": [
           "Fora do site, quem decide a troca é quem vendeu. A loja informa: a Toda Up aceita troca por modelo, tamanho ou cor, e devolução por arrependimento, em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja.",
-          "Regra prática, sem teste nosso, partindo da premissa de que a política da Toda Up vale para a compra feita no site dela: nos outros canais, vale a política de quem vendeu. Leia a da Amazon, do Mercado Livre ou da Drogasil antes de fechar, sobretudo se você ainda não sabe o tamanho. Para ver como funciona a troca no site, o artigo sobre se a Toda Up [é confiável](/reviews/toda-up-e-confiavel) traz o passo a passo."
+          "Regra prática, partindo da premissa de que a política da Toda Up vale para a compra feita no site dela: nos outros canais, vale a política de quem vendeu. Leia a da Amazon, do Mercado Livre ou da Drogasil antes de fechar, sobretudo se você ainda não sabe o tamanho. Para ver como funciona a troca no site, o artigo sobre se a Toda Up [é confiável](/reviews/toda-up-e-confiavel) traz o passo a passo."
         ]
       },
       {
@@ -189098,7 +189098,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O MAUAD dá 10% e vale só no site oficial; no Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela.",
           "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, o produto no site fica abaixo dos demais canais comparados, antes do frete. Promoções do Mercado Livre podem mudar a ordem. Confira a oferta atual [na loja oficial da Fita Up](https://meli.la/2qNDns1) e compare o total para o seu CEP.",
-          "Os preços da tabela são sem frete. No site, uma fita sozinha fica abaixo da faixa de frete grátis (compras acima de R$ 199), então ponha o CEP no carrinho antes de comparar; no Mercado Livre, o anúncio com Full mostra o frete e o dia da entrega. Para duas fitas, o kit Leve 2 do site aceitou o MAUAD no nosso teste de carrinho e chega mais perto do frete grátis.",
+          "Os preços da tabela são sem frete. No site, uma fita sozinha fica abaixo da faixa de frete grátis (compras acima de R$ 199), então ponha o CEP no carrinho antes de comparar; no Mercado Livre, o anúncio com Full mostra o frete e o dia da entrega. Para duas fitas, o kit Leve 2 do site aceitou o MAUAD e chega mais perto do frete grátis.",
           "Para comprar no site com o cupom, [use este link da Toda Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao). As regras do cupom estão na [página da Toda Up em Cupons](/cupons/toda-up)."
         ],
         "images": [
@@ -189322,8 +189322,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada cápsula com os 10% de CNPJ e o CECI",
         "paragraphs": [
-          "Na simulação abaixo, o combo de 50 caixas fica em cerca de R$ 1,31 por cápsula. A referência de R$ 2,49 por cápsula é a caixa avulsa no preço de lista, sem desconto; compare também a oferta disponível no dia.",
-          "Conta nossa: estimativa aplicando 10% de CNPJ e depois 10% de CECI ao preço do combo, multiplicando por 0,9 duas vezes. A soma dos benefícios foi confirmada; estes valores são uma simulação, e o resumo do carrinho confirma base de cálculo, arredondamento e total."
+          "Na estimativa abaixo, o combo de 50 caixas fica em cerca de R$ 1,31 por cápsula. A referência de R$ 2,49 por cápsula é a caixa avulsa no preço de lista, sem desconto; compare também a oferta disponível no dia.",
+          "Conta nossa: aplicando 10% de CNPJ e depois 10% de CECI ao preço do combo, multiplicando por 0,9 duas vezes. A soma dos benefícios foi confirmada; estes valores são uma estimativa, e o resumo do carrinho confirma base de cálculo, arredondamento e total."
         ],
         "comparisonTable": {
           "headers": [
@@ -189353,17 +189353,17 @@ export const reviewsData: unknown[] = [
               "R$ 2,49"
             ]
           ],
-          "caption": "Simulação de dois descontos sucessivos sobre os preços de combo da tabela anterior. A caixa avulsa está no preço de lista, sem desconto, como referência."
+          "caption": "Estimativa de dois descontos sucessivos sobre os preços de combo da tabela anterior. A caixa avulsa está no preço de lista, sem desconto, como referência."
         },
         "postParagraphs": [
           "Cada degrau tira cerca de 10 centavos por cápsula. Passar de 20 para 30 caixas poupa o mesmo que passar de 30 para 50, mas o segundo pede 200 cápsulas a mais na prateleira.",
-          "Os percentuais de 25% e 35% usam o preço de lista, e a loja troca as promoções de caixa quase todo dia. O combo de vinte caixas a R$ 373,50 custa R$ 18,68 por caixa antes de CNPJ e CECI, cerca de R$ 15,13 na simulação com os dois. Para decidir, compare o total final no carrinho do dia, com os mesmos descontos e frete, e não o preço anunciado da caixa avulsa."
+          "Os percentuais de 25% e 35% usam o preço de lista, e a loja troca as promoções de caixa quase todo dia. O combo de vinte caixas a R$ 373,50 custa R$ 18,68 por caixa antes de CNPJ e CECI, cerca de R$ 15,13 na estimativa com os dois. Para decidir, compare o total final no carrinho do dia, com os mesmos descontos e frete, e não o preço anunciado da caixa avulsa."
         ]
       },
       {
         "heading": "O cupom CECI soma com o CNPJ e com o combo",
         "paragraphs": [
-          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, também para CNPJ, e na linha Negócios ele deve somar com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes e a data do último teste ficam na [página do cupom CECI](/cupons/dolce-gusto)."
+          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, também para CNPJ, e na linha Negócios ele deve somar com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes ficam na [página do cupom CECI](/cupons/dolce-gusto)."
         ]
       },
       {
@@ -189403,7 +189403,7 @@ export const reviewsData: unknown[] = [
           "**Quem não tem máquina e já ia comprar as caixas:** o combo da Mini Me, que traz a máquina junto.",
           "**Volume acima de 50 caixas ou máquina diferente:** a proposta personalizada."
         ],
-        "emphasis": "Se fosse para o meu negócio e o consumo previsto coubesse em trezentas cápsulas, eu começaria comparando o combo de trinta caixas. Na simulação, o de cinquenta economiza cerca de dez centavos por cápsula, mas exige guardar duzentas a mais.",
+        "emphasis": "Se fosse para o meu negócio e o consumo previsto coubesse em trezentas cápsulas, eu começaria comparando o combo de trinta caixas. Na estimativa, o de cinquenta economiza cerca de dez centavos por cápsula, mas exige guardar duzentas a mais.",
         "links": [
           {
             "label": "Ver os combos para negócios",
@@ -195581,7 +195581,7 @@ export const reviewsData: unknown[] = [
           "Os três estão na loja oficial da Nestlé Nutre. Digite CECI no checkout e confira o desconto no resumo do pedido. As exceções do [cupom Nestlé Nutre](/cupons/nestle-nutre), Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, não incluem os três produtos comparados. O passo a passo está no [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços da loja em 06/11 para compra avulsa, sem frete. Simulação com CECI de 10%, válido em todas as formas de pagamento. Custo por porção declarada: uma cápsula, 12 g de pó ou uma garrafa; valores arredondados a centavos.",
+          "caption": "Preços da loja em 06/11 para compra avulsa, sem frete. Preço com CECI de 10%, válido em todas as formas de pagamento. Custo por porção declarada: uma cápsula, 12 g de pó ou uma garrafa; valores arredondados a centavos.",
           "headers": [
             "Produto",
             "Preço da loja",
@@ -195619,9 +195619,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Para quem procura colágeno tipo II em cápsula, o Mov Flex é a opção do trio. Na simulação, cada cápsula custa R$ 1,80.",
+          "Para quem procura colágeno tipo II em cápsula, o Mov Flex é a opção do trio. Com o CECI, cada cápsula custa R$ 1,80.",
           "Para quem procura fibras em pó com peptídeos de colágeno, o FiberMais reúne esses componentes no sabor limão. O custo calculado é de R$ 4,58 pela porção de 12 g.",
-          "Para quem procura uma bebida pronta com proteína, o Nutren Protein com Colágeno dispensa preparo. A garrafa sai por R$ 10,71 na simulação, mas a página não informa quantos gramas de colágeno ela contém.",
+          "Para quem procura uma bebida pronta com proteína, o Nutren Protein com Colágeno dispensa preparo. A garrafa sai por R$ 10,71 com o CECI, mas a página não informa quantos gramas de colágeno ela contém.",
           "Escolha pela composição e pelo formato que procura. O menor custo por porção, sozinho, não demonstra que um desses produtos substitui os outros."
         ]
       },

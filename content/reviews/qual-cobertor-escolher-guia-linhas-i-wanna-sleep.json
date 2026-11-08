@@ -229,15 +229,15 @@
     {
       "heading": "Quanto custa cada linha, com o cupom CECIEMCASA aplicado",
       "paragraphs": [
-        "Os valores são de referência do site oficial da I Wanna Sleep. O preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. A última coluna simula 10% de desconto sobre esses valores; confirme no carrinho se o CECIEMCASA acumula com a promoção ativa."
+        "Os valores são de referência do site oficial da I Wanna Sleep. O preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. A última coluna mostra o valor com 10% de desconto sobre esses valores; confirme no carrinho se o CECIEMCASA acumula com a promoção ativa."
       ],
       "bullets": [],
       "comparisonTable": {
-        "caption": "Valores de referência das 4 linhas de cobertores IWS e simulação com 10% do CECIEMCASA",
+        "caption": "Valores de referência das 4 linhas de cobertores IWS e valor com 10% do CECIEMCASA",
         "headers": [
           "Linha e tamanho",
           "Preço registrado",
-          "Simulação com 10%"
+          "Com 10% de desconto"
         ],
         "rows": [
           [

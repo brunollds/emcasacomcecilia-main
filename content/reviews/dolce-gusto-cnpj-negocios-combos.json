@@ -168,8 +168,8 @@
     {
       "heading": "Quanto custa cada cápsula com os 10% de CNPJ e o CECI",
       "paragraphs": [
-        "Na simulação abaixo, o combo de 50 caixas fica em cerca de R$ 1,31 por cápsula. A referência de R$ 2,49 por cápsula é a caixa avulsa no preço de lista, sem desconto; compare também a oferta disponível no dia.",
-        "Conta nossa: estimativa aplicando 10% de CNPJ e depois 10% de CECI ao preço do combo, multiplicando por 0,9 duas vezes. A soma dos benefícios foi confirmada; estes valores são uma simulação, e o resumo do carrinho confirma base de cálculo, arredondamento e total."
+        "Na estimativa abaixo, o combo de 50 caixas fica em cerca de R$ 1,31 por cápsula. A referência de R$ 2,49 por cápsula é a caixa avulsa no preço de lista, sem desconto; compare também a oferta disponível no dia.",
+        "Conta nossa: aplicando 10% de CNPJ e depois 10% de CECI ao preço do combo, multiplicando por 0,9 duas vezes. A soma dos benefícios foi confirmada; estes valores são uma estimativa, e o resumo do carrinho confirma base de cálculo, arredondamento e total."
       ],
       "comparisonTable": {
         "headers": [
@@ -199,17 +199,17 @@
             "R$ 2,49"
           ]
         ],
-        "caption": "Simulação de dois descontos sucessivos sobre os preços de combo da tabela anterior. A caixa avulsa está no preço de lista, sem desconto, como referência."
+        "caption": "Estimativa de dois descontos sucessivos sobre os preços de combo da tabela anterior. A caixa avulsa está no preço de lista, sem desconto, como referência."
       },
       "postParagraphs": [
         "Cada degrau tira cerca de 10 centavos por cápsula. Passar de 20 para 30 caixas poupa o mesmo que passar de 30 para 50, mas o segundo pede 200 cápsulas a mais na prateleira.",
-        "Os percentuais de 25% e 35% usam o preço de lista, e a loja troca as promoções de caixa quase todo dia. O combo de vinte caixas a R$ 373,50 custa R$ 18,68 por caixa antes de CNPJ e CECI, cerca de R$ 15,13 na simulação com os dois. Para decidir, compare o total final no carrinho do dia, com os mesmos descontos e frete, e não o preço anunciado da caixa avulsa."
+        "Os percentuais de 25% e 35% usam o preço de lista, e a loja troca as promoções de caixa quase todo dia. O combo de vinte caixas a R$ 373,50 custa R$ 18,68 por caixa antes de CNPJ e CECI, cerca de R$ 15,13 na estimativa com os dois. Para decidir, compare o total final no carrinho do dia, com os mesmos descontos e frete, e não o preço anunciado da caixa avulsa."
       ]
     },
     {
       "heading": "O cupom CECI soma com o CNPJ e com o combo",
       "paragraphs": [
-        "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, também para CNPJ, e na linha Negócios ele deve somar com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes e a data do último teste ficam na [página do cupom CECI](/cupons/dolce-gusto)."
+        "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, também para CNPJ, e na linha Negócios ele deve somar com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes ficam na [página do cupom CECI](/cupons/dolce-gusto)."
       ]
     },
     {
@@ -249,7 +249,7 @@
         "**Quem não tem máquina e já ia comprar as caixas:** o combo da Mini Me, que traz a máquina junto.",
         "**Volume acima de 50 caixas ou máquina diferente:** a proposta personalizada."
       ],
-      "emphasis": "Se fosse para o meu negócio e o consumo previsto coubesse em trezentas cápsulas, eu começaria comparando o combo de trinta caixas. Na simulação, o de cinquenta economiza cerca de dez centavos por cápsula, mas exige guardar duzentas a mais.",
+      "emphasis": "Se fosse para o meu negócio e o consumo previsto coubesse em trezentas cápsulas, eu começaria comparando o combo de trinta caixas. Na estimativa, o de cinquenta economiza cerca de dez centavos por cápsula, mas exige guardar duzentas a mais.",
       "links": [
         {
           "label": "Ver os combos para negócios",

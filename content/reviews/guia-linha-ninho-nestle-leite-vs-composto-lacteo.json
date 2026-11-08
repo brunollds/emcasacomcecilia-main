@@ -25,7 +25,7 @@
   "imageAspect": "landscape",
   "pros": [
     "Linha Ninho vendida na loja oficial da Nestlé",
-    "Cupom CECI com 10% de desconto no teste de checkout",
+    "Cupom CECI com 10% de desconto",
     "Assinatura com 10% a 25% de desconto em parte da linha",
     "Rótulos dizem se o produto é leite, composto ou fórmula"
   ],
@@ -128,10 +128,10 @@
     {
       "heading": "Leite Ninho na Nestlé Nutre: preços com o cupom CECI",
       "paragraphs": [
-        "A Nestlé Nutre é a loja oficial da Nestlé e vende a linha Ninho direto da marca. Os preços abaixo são os exibidos na loja em 4 de outubro de 2026, apenas para os produtos com estoque naquele dia. No teste que fizemos no checkout no mesmo dia, o cupom **CECI** deu 10% de desconto nos produtos Ninho; a coluna do cupom aplica esses 10% sobre o preço do site."
+        "A Nestlé Nutre é a loja oficial da Nestlé e vende a linha Ninho direto da marca. Os preços abaixo são os exibidos na loja em 4 de outubro de 2026, apenas para os produtos com estoque naquele dia. O cupom **CECI** dá 10% de desconto nos produtos Ninho; a coluna do cupom aplica esses 10% sobre o preço do site."
       ],
       "comparisonTable": {
-        "caption": "Linha Ninho na Nestlé Nutre: preços com estoque no dia da consulta",
+        "caption": "Linha Ninho na Nestlé Nutre: preços dos itens com estoque em 4 de outubro de 2026",
         "headers": [
           "Produto",
           "Preço no site",
@@ -210,7 +210,7 @@
       "heading": "Vale a pena comprar Ninho na Nestlé Nutre?",
       "paragraphs": [
         "Para quem já usa Ninho todo mês, sim: a loja é da própria Nestlé, o cupom **CECI** deu 10% no checkout e a assinatura baixa o preço de vários itens, com a opção de cancelar sem custo e pular até duas entregas por ano.",
-        "O ponto de atenção é o estoque. Na consulta, mais da metade dos itens da linha mostrava \"Avise-me\"; antes de contar com um item fixo na assinatura, veja se ele está disponível."
+        "O ponto de atenção é o estoque. Na loja, mais da metade dos itens da linha mostrava \"Avise-me\"; antes de contar com um item fixo na assinatura, veja se ele está disponível."
       ],
       "links": [
         {
@@ -229,7 +229,7 @@
         "Café, vitamina, bolo e recheio: **Leite Ninho Integral**, o leite em pó. O Integral Instantâneo também serve, e custava R$ 19,81 (lata de 380 g) na Nestlé Nutre.",
         "Criança de 1 a 3 anos: o Ninho Fases 1+ é fórmula infantil de seguimento. Para crianças maiores (a partir de 3 ou 4 anos, dependendo da versão do Fases 3+ ou Idade Escolar), o produto é composto lácteo. Na dúvida, converse com o pediatra ou nutricionista.",
         "Família: o Forti+ Fibras e o Zero Lactose são compostos lácteos, e o Ninho Adulto é leite semidesnatado.",
-        "Comprar com desconto: na Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (**CECI**) deu 10% no nosso teste de checkout, e a assinatura reduz o preço de parte da linha."
+        "Comprar com desconto: na Nestlé Nutre, o [cupom Nestlé Nutre](/cupons/nestle-nutre) (**CECI**) dá 10%, e a assinatura reduz o preço de parte da linha."
       ]
     },
     {
@@ -241,7 +241,7 @@
         "Qual Ninho usar no recheio de Ninho? O Leite Ninho Integral. Misture com o leite condensado com a panela fria para não empelotar.",
         "Bebê menor de 1 ano pode tomar Ninho? Não. Os rótulos de leite, composto e fórmula Ninho avisam que o produto não deve ser usado para alimentar crianças menores de 1 ano.",
         "O Mucininho tem Ninho? Sim. O Mucilon Mucininho traz o selo \"contém Ninho\" e é indicado a partir de 3 anos, preparado com leite.",
-        "Tem cupom de desconto para leite Ninho? Sim. Na Nestlé Nutre, o cupom CECI deu 10% de desconto nos produtos Ninho no nosso teste de checkout. Confira o percentual no carrinho, porque ele pode mudar.",
+        "Tem cupom de desconto para leite Ninho? Sim. Na Nestlé Nutre, o cupom CECI dá 10% de desconto nos produtos Ninho. Confira o percentual no carrinho, porque ele pode mudar.",
         "Vale a pena assinar Ninho na Nestlé Nutre? Para quem compra todo mês, sim: a assinatura dá de 10% a 25% em parte da linha. O Ninho Fases 1+ não tem desconto extra na assinatura."
       ]
     }

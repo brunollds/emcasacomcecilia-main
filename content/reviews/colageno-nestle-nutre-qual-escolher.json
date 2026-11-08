@@ -124,7 +124,7 @@
         "Os três estão na loja oficial da Nestlé Nutre. Digite CECI no checkout e confira o desconto no resumo do pedido. As exceções do [cupom Nestlé Nutre](/cupons/nestle-nutre), Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, não incluem os três produtos comparados. O passo a passo está no [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
       ],
       "comparisonTable": {
-        "caption": "Preços da loja em 06/11 para compra avulsa, sem frete. Simulação com CECI de 10%, válido em todas as formas de pagamento. Custo por porção declarada: uma cápsula, 12 g de pó ou uma garrafa; valores arredondados a centavos.",
+        "caption": "Preços da loja em 06/11 para compra avulsa, sem frete. Preço com CECI de 10%, válido em todas as formas de pagamento. Custo por porção declarada: uma cápsula, 12 g de pó ou uma garrafa; valores arredondados a centavos.",
         "headers": [
           "Produto",
           "Preço da loja",
@@ -162,9 +162,9 @@
     {
       "heading": "Qual escolher",
       "paragraphs": [
-        "Para quem procura colágeno tipo II em cápsula, o Mov Flex é a opção do trio. Na simulação, cada cápsula custa R$ 1,80.",
+        "Para quem procura colágeno tipo II em cápsula, o Mov Flex é a opção do trio. Com o CECI, cada cápsula custa R$ 1,80.",
         "Para quem procura fibras em pó com peptídeos de colágeno, o FiberMais reúne esses componentes no sabor limão. O custo calculado é de R$ 4,58 pela porção de 12 g.",
-        "Para quem procura uma bebida pronta com proteína, o Nutren Protein com Colágeno dispensa preparo. A garrafa sai por R$ 10,71 na simulação, mas a página não informa quantos gramas de colágeno ela contém.",
+        "Para quem procura uma bebida pronta com proteína, o Nutren Protein com Colágeno dispensa preparo. A garrafa sai por R$ 10,71 com o CECI, mas a página não informa quantos gramas de colágeno ela contém.",
         "Escolha pela composição e pelo formato que procura. O menor custo por porção, sozinho, não demonstra que um desses produtos substitui os outros."
       ]
     },
