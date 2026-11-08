@@ -29432,7 +29432,7 @@ export const reviewsData: unknown[] = [
           "Quanto tempo demora para chegar no Brasil? A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada está em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal). Quando a entrega está disponível, o prazo aparece no checkout, e a alfândega pode somar alguns dias.",
           "Vou pagar taxa de importação? Pode acontecer. Pela [política da YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), pedidos abaixo de US$ 1.000 (antes do cupom e sem o frete) podem ter os impostos e taxas alfandegárias devolvidos em Crédito da Loja: você paga, guarda o comprovante e pede em até 30 dias, contados da data do comprovante de pagamento.",
           "Qual a melhor forma de pagar? Cartão de crédito internacional (Visa, Mastercard, Amex) ou PayPal. A YesStyle deixa escolher a moeda do pedido e converte pelo [câmbio interno dela](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fixado no momento do pedido; o banco ou a operadora do cartão podem cobrar tarifa de compra internacional.",
-          "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não encontramos auditoria independente que confirme isso; na entrega, confira lote, validade e lacre.",
+          "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não há auditoria independente que confirme isso nas fontes do guia; na entrega, confira lote, validade e lacre.",
           "Posso devolver produtos? A política é limitada para compras internacionais. Produtos com defeito ou envio errado podem ser devolvidos. Produtos de K-beauty (skincare, maquiagem) geralmente não podem ser devolvidos por questões de higiene, a menos que estejam selados.",
           "O que é o Elite Club? É o programa de fidelidade da YesStyle. O nível Bronze vem com o primeiro pedido, o Silver com US$ 100 em compras acumuladas e o Gold com US$ 500; cada nível rende mais YS Points por dólar e dá cupons de 12% OFF. O CECILIA010 continua no campo Reward Code, em qualquer nível.",
           "O site tem versão em português? Sim! No topo do site você pode selecionar o idioma para português.",
@@ -29877,7 +29877,7 @@ export const reviewsData: unknown[] = [
           "Is it safe to buy on YesStyle? The company is legitimate: it is based in Hong Kong and has operated since 2006. That does not guarantee the products are original; see what to check before ordering in [Is YesStyle legit and safe?](/en/reviews/is-yesstyle-legit-and-safe-review).",
           "Will I pay import tax? It can happen. Under [YesStyle's policy](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), orders under US$ 1,000 (before the coupon and without shipping) may get customs taxes and fees back as YesStyle Credit: you pay, keep the receipt and ask within 30 days of the date on the proof of payment.",
           "What is the best way to pay? International credit card (Visa, Mastercard, Amex) or PayPal. YesStyle lets you choose the order currency and converts at [its own internal exchange rate](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), set when the order is placed; your bank or card issuer may add a foreign transaction fee.",
-          "Are YesStyle products authentic or counterfeit? YesStyle says it is an authorized reseller of more than 400 Korean beauty brands, buying from the manufacturers or from authorized distributors. We found no independent audit confirming this; on delivery, check the batch number, expiry date and seal.",
+          "Are YesStyle products authentic or counterfeit? YesStyle says it is an authorized reseller of more than 400 Korean beauty brands, buying from the manufacturers or from authorized distributors. There is no independent audit confirming this in the guide’s sources; on delivery, check the batch number, expiry date and seal.",
           "Can I return products? The policy is limited for international purchases. Defective or wrongly shipped products can be returned. K-beauty products (skincare, makeup) generally cannot be returned for hygiene reasons, unless they are sealed.",
           "What is the Elite Club? It is YesStyle's loyalty program. Bronze comes with any order of at least US$ 1 after coupons and points, Silver with US$ 100 in accumulated purchases and Gold with US$ 500; each tier earns more YS Points per US$ 1 and gives 12% OFF coupons. CECILIA010 stays in the Reward Code field at any tier.",
           "Does the site have other languages? Yes! At the top of the site you can switch the language.",
@@ -30106,7 +30106,7 @@ export const reviewsData: unknown[] = [
           "¿Es seguro comprar en YesStyle? La empresa es legítima: tiene sede en Hong Kong y fue fundada en 2006. Eso no garantiza que los productos sean originales; mira qué revisar antes de comprar en [¿YesStyle es confiable y seguro?](/es/reviews/es-yesstyle-de-fiar-y-seguro).",
           "¿Pagaré tasa de importación? Puede ocurrir. Según la [política de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), los pedidos de menos de US$ 1.000 (antes del cupón y sin el envío) pueden recuperar los impuestos y tasas aduaneras como crédito de YesStyle: pagas, guardas el comprobante y lo pides en un plazo de 30 días, contados desde la fecha del comprobante de pago.",
           "¿Cuál es la mejor forma de pagar? Tarjeta de crédito internacional (Visa, Mastercard, Amex) o PayPal. YesStyle permite elegir la moneda del pedido y convierte con [su propio tipo de cambio interno](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fijado al hacer el pedido; tu banco o el emisor de la tarjeta pueden cobrar una comisión por compra internacional.",
-          "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No encontramos una auditoría independiente que lo confirme; al recibir el pedido, comprueba el lote, la caducidad y el precinto.",
+          "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No hay una auditoría independiente que lo confirme en las fuentes de la guía; al recibir el pedido, comprueba el lote, la caducidad y el precinto.",
           "¿Puedo devolver productos? La política es limitada para las compras internacionales. Los productos defectuosos o enviados por error se pueden devolver. Los productos de K-beauty (cuidado de la piel, maquillaje) generalmente no se pueden devolver por motivos de higiene, salvo que estén sellados.",
           "¿Qué es el Elite Club? Es el programa de fidelidad de YesStyle. El nivel Bronze llega con cualquier pedido de al menos US$ 1 después de cupones y puntos, el Silver con US$ 100 en compras acumuladas y el Gold con US$ 500; cada nivel da más YS Points por cada US$ 1 y cupones de 12% OFF. CECILIA010 sigue en el campo Reward Code, en cualquier nivel.",
           "¿El sitio tiene otros idiomas? ¡Sí! En la parte superior del sitio puedes cambiar el idioma.",
@@ -30335,7 +30335,7 @@ export const reviewsData: unknown[] = [
           "Est-il sûr d'acheter sur YesStyle ? L'entreprise est légitime : elle est basée à Hong Kong et a été fondée en 2006. Cela ne garantit pas que les produits soient originaux ; voyez ce qu'il faut vérifier avant de commander dans [YesStyle est-il fiable et sûr ?](/fr/reviews/yesstyle-est-il-fiable-et-sur).",
           "Vais-je payer des taxes d'importation ? Cela peut arriver. Selon la [politique de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), les commandes de moins de 1 000 US$ (avant le coupon et hors livraison) peuvent se faire rembourser les taxes et frais de douane sous forme de crédit YesStyle : vous payez, conservez le justificatif et en faites la demande dans les 30 jours suivant la date du justificatif de paiement.",
           "Quel est le meilleur moyen de paiement ? Carte de crédit internationale (Visa, Mastercard, Amex) ou PayPal. YesStyle permet de choisir la devise de la commande et convertit selon [son propre taux de change interne](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fixé au moment de la commande ; votre banque ou l'émetteur de la carte peuvent facturer des frais sur les achats à l'étranger.",
-          "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en achetant auprès des fabricants ou de distributeurs autorisés. Nous n'avons trouvé aucun audit indépendant qui le confirme ; à la livraison, vérifiez le lot, la date de péremption et le scellé.",
+          "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en achetant auprès des fabricants ou de distributeurs autorisés. Il n'existe aucun audit indépendant qui le confirme dans les sources du guide ; à la livraison, vérifiez le lot, la date de péremption et le scellé.",
           "Puis-je retourner des produits ? La politique est limitée pour les achats internationaux. Les produits défectueux ou envoyés par erreur peuvent être retournés. Les produits de K-beauty (soins, maquillage) ne peuvent généralement pas être retournés pour des raisons d'hygiène, sauf s'ils sont scellés.",
           "Qu'est-ce que l'Elite Club ? C'est le programme de fidélité de YesStyle. Le niveau Bronze arrive avec toute commande d'au moins 1 US$ après coupons et points, le Silver avec 100 US$ d'achats cumulés et le Gold avec 500 US$ ; chaque niveau rapporte plus de YS Points par dollar et donne des coupons de 12 % OFF. CECILIA010 reste dans le champ Reward Code, quel que soit le niveau.",
           "Le site existe-t-il dans d'autres langues ? Oui ! En haut du site, vous pouvez changer la langue.",
@@ -30564,7 +30564,7 @@ export const reviewsData: unknown[] = [
           "Ist der Einkauf bei YesStyle sicher? Das Unternehmen ist seriös: Es stammt aus Hongkong und wurde 2006 gegründet. Das garantiert aber nicht, dass die Produkte original sind; was Sie vor der Bestellung prüfen können, steht in [Ist YesStyle seriös und sicher?](/de/reviews/ist-yesstyle-serioes-und-sicher).",
           "Muss ich Einfuhrabgaben zahlen? Das kann vorkommen. Nach der [Richtlinie von YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212) können bei Bestellungen unter US$ 1.000 (vor Abzug des Gutscheins und ohne Versand) Steuern und Zollgebühren als Store Credit erstattet werden: Sie zahlen, bewahren den Beleg auf und stellen den Antrag innerhalb von 30 Tagen, gerechnet ab dem Datum des Zahlungsbelegs.",
           "Wie bezahle ich am besten? Internationale Kreditkarte (Visa, Mastercard, Amex) oder PayPal. YesStyle lässt Sie die Währung der Bestellung wählen und rechnet zum [eigenen internen Wechselkurs](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708) um, der bei der Bestellung festgelegt wird; Ihre Bank oder Ihr Kartenanbieter kann eine Auslandseinsatzgebühr berechnen.",
-          "Sind die Produkte von YesStyle original oder gefälscht? YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei autorisierten Händlern einzukaufen. Eine unabhängige Prüfung, die das bestätigt, haben wir nicht gefunden; kontrollieren Sie bei der Lieferung Charge, Haltbarkeitsdatum und Siegel.",
+          "Sind die Produkte von YesStyle original oder gefälscht? YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei autorisierten Händlern einzukaufen. Eine unabhängige Prüfung, die das bestätigt, gibt es in den Quellen des Leitfadens nicht; kontrollieren Sie bei der Lieferung Charge, Haltbarkeitsdatum und Siegel.",
           "Kann ich Produkte zurückgeben? Bei internationalen Käufen ist die Richtlinie eingeschränkt. Defekte oder falsch gelieferte Produkte können zurückgegeben werden. K-Beauty-Produkte (Skincare, Make-up) können aus hygienischen Gründen in der Regel nicht zurückgegeben werden, es sei denn, sie sind versiegelt.",
           "Was ist der Elite Club? Das Treueprogramm von YesStyle. Die Stufe Bronze erreichen Sie mit der ersten Bestellung, Silver mit US$ 100 und Gold mit US$ 500 an kumulierten Einkäufen; jede Stufe bringt mehr YS Points pro Dollar und Gutscheine über 12 % Rabatt. CECILIA010 bleibt auf jeder Stufe im Feld Reward Code.",
           "Gibt es die Website in anderen Sprachen? Ja! Oben auf der Seite können Sie die Sprache wechseln.",
@@ -30804,7 +30804,7 @@ export const reviewsData: unknown[] = [
           "YesStyle에서 구매해도 안전한가요? 회사는 2006년에 설립된 실제 홍콩 기업입니다. 다만 그것이 제품이 정품이라는 보장은 아닙니다. 구매 전에 확인할 점은 [YesStyle 신뢰할 수 있을까?](/ko/reviews/yesstyle-trust-guide-ko)에서 살펴보세요.",
           "수입세를 내야 하나요? 그럴 수 있습니다. YesStyle [정책](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)에 따르면 US$ 1,000 미만 주문(쿠폰 할인 전, 배송비 제외)은 수입세 등을 스토어 크레딧으로 환급받을 수 있습니다. 먼저 결제하고 영수증을 보관한 뒤, 결제 영수증 날짜부터 30일 이내에 신청하세요.",
           "가장 좋은 결제 방법은 무엇인가요? 국제 신용카드(Visa, Mastercard, Amex) 또는 PayPal입니다. YesStyle에서는 주문 통화를 고를 수 있고, 환산은 주문 시점의 [YesStyle 자체 환율](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)로 정해집니다. 은행이나 카드사가 해외 결제 수수료를 따로 청구할 수 있습니다.",
-          "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체이며 제조사 또는 제조사가 인정한 유통업체에서 매입한다고 밝힙니다. 이 주장을 뒷받침하는 독립적인 감사는 찾지 못했으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요.",
+          "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체이며 제조사 또는 제조사가 인정한 유통업체에서 매입한다고 밝힙니다. 이 주장을 뒷받침하는 독립적인 감사는 이 가이드의 출처에 없으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요.",
           "제품을 반품할 수 있나요? 해외 구매는 반품 조건이 제한적입니다. 불량품이나 오배송 제품은 반품할 수 있습니다. K-beauty 제품(스킨케어, 메이크업)은 위생상의 이유로 밀봉된 경우가 아니면 보통 반품할 수 없습니다.",
           "Elite Club이 무엇인가요? YesStyle의 멤버십 프로그램입니다. Bronze는 US$ 1 이상 주문, Silver는 누적 US$ 100, Gold는 누적 US$ 500으로 달성하며, 등급이 오를수록 YS Point가 늘고 12% OFF 쿠폰도 받습니다. CECILIA010은 어느 등급에서든 Reward Code 칸에 입력합니다.",
           "사이트에서 다른 언어도 지원하나요? 네! 사이트 상단에서 언어를 바꿀 수 있습니다.",
@@ -31033,7 +31033,7 @@ export const reviewsData: unknown[] = [
           "YesStyleで買い物しても安全ですか？会社は2006年創業の香港企業で、実在します。ただし、それは商品が正規品であることの保証にはなりません。購入前に確認したい点は[YesStyleは安全？信頼性と評判](/ja/reviews/yesstyle-trust-guide-ja)をご覧ください。",
           "輸入税はかかりますか？かかる場合があります。YesStyleの[ポリシー](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)では、1,000米ドル未満の注文(クーポン割引前、送料を除く)は、輸入税などをストアクレジットで返金してもらえる場合があります。先に支払って領収書を保管し、領収書の支払日から30日以内に申請してください。",
           "支払い方法は何がおすすめですか？国際ブランドのクレジットカード(Visa、Mastercard、Amex)またはPayPalです。YesStyleでは注文の通貨を選べ、換算は[YesStyle独自の為替レート](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)で注文時に確定します。海外利用手数料は銀行やカード会社が別に請求する場合があります。",
-          "YesStyleの商品は本物ですか、偽物ですか？YesStyleは、400以上の韓国コスメブランドの正規販売店であり、メーカーまたはメーカーが認めた販売元から仕入れていると述べています。この主張を裏付ける第三者の監査は見つかっていません。届いたら、ロット番号、使用期限、封の状態を確認してください。",
+          "YesStyleの商品は本物ですか、偽物ですか？YesStyleは、400以上の韓国コスメブランドの正規販売店であり、メーカーまたはメーカーが認めた販売元から仕入れていると述べています。この主張を裏付ける第三者の監査は、このガイドの情報源にはありません。届いたら、ロット番号、使用期限、封の状態を確認してください。",
           "返品はできますか？海外からの購入では返品の条件が限られます。不良品や誤配送は返品できます。K-beauty商品(スキンケア、メイクアップ)は、衛生上の理由から、未開封でないかぎり通常は返品できません。",
           "Elite Clubとは何ですか？YesStyleのロイヤルティプログラムです。Bronzeは1米ドル以上の注文、Silverは累計100米ドル、Goldは累計500米ドルで到達し、レベルが上がるほどYS Pointが増えて12% OFFクーポンももらえます。CECILIA010は、どのレベルでもReward Code欄に入力します。",
           "サイトは他の言語にも対応していますか？はい！サイト上部で言語を切り替えられます。",
@@ -31262,7 +31262,7 @@ export const reviewsData: unknown[] = [
           "在 YesStyle 購物安全嗎？YesStyle 是 2006 年起營運的香港公司，公司本身真實存在。但這不代表商品為正品；下單前該核對什麼，請見[YesStyle 值得信賴嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。",
           "我要繳納進口關稅嗎？有可能。依 YesStyle 的[政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的訂單（優惠券折扣前，不含運費）可憑憑證申請退還進口稅等，以商店餘額形式發放。請先付款並保留憑證，自付款憑證日期起 30 天內申請。",
           "最好用什麼方式付款？國際信用卡（Visa、Mastercard、Amex）或 PayPal。在 YesStyle 可自選訂單幣別，並依[YesStyle 的內部匯率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)在下單時換算；銀行或發卡機構可能另收海外交易手續費。",
-          "YesStyle 的商品是正品還是仿冒品？YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。我們沒有找到能證實這一點的獨立稽核；收到商品時請檢查批號、有效期限與封條。",
+          "YesStyle 的商品是正品還是仿冒品？YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。本指南的資料來源中沒有能證實這一點的獨立稽核；收到商品時請檢查批號、有效期限與封條。",
           "可以退貨嗎？跨境訂單的退貨政策有限。有瑕疵或寄錯貨的商品可以退。韓系美妝商品（保養、彩妝）基於衛生考量通常不能退，除非未拆封。",
           "Elite Club 是什麼？YesStyle 的會員計畫。Bronze 需有一筆至少 1 美元的訂單，Silver 需累計消費 100 美元，Gold 需累計 500 美元；等級越高，YS Point 越多，還能領到 12% OFF 優惠券。無論哪個等級，CECILIA010 都填在 Reward Code 欄位。",
           "網站有其他語言版本嗎？有！在網站頂端可以切換語言。",
@@ -31491,7 +31491,7 @@ export const reviewsData: unknown[] = [
           "在 YesStyle 购物安全吗？YesStyle 是 2006 年起运营的香港公司，公司本身真实存在。但这不代表商品为正品；下单前该核对什么，请见[YesStyle 值得信赖吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。",
           "我要缴纳进口关税吗？有可能。按 YesStyle 的[政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的订单（优惠券折扣前，不含运费）可凭凭证申请退还进口税等，以商店余额形式发放。请先付款并保留凭证，自付款凭证日期起 30 天内申请。",
           "最好用什么方式付款？国际信用卡（Visa、Mastercard、Amex）或 PayPal。在 YesStyle 可自选订单币种，并按[YesStyle 的内部汇率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)在下单时换算；银行或发卡机构可能另收境外交易手续费。",
-          "YesStyle 的商品是正品还是仿冒品？YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。我们没有找到能证实这一点的独立审核；收货时请核对批号、有效期和封条。",
+          "YesStyle 的商品是正品还是仿冒品？YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。本指南的资料来源中没有能证实这一点的独立审核；收货时请核对批号、有效期和封条。",
           "可以退货吗？跨境订单的退货政策有限。有瑕疵或发错货的商品可以退。韩系美妆商品（护肤、彩妆）出于卫生原因通常不能退，除非未拆封。",
           "Elite Club 是什么？YesStyle 的会员计划。Bronze 需有一笔至少 1 美元的订单，Silver 需累计消费 100 美元，Gold 需累计 500 美元；等级越高，YS Point 越多，还能领到 12% OFF 优惠券。无论哪个等级，CECILIA010 都填在 Reward Code 栏位。",
           "网站有其他语言版本吗？有！在网站顶部可以切换语言。",
@@ -49226,7 +49226,7 @@ export const reviewsData: unknown[] = [
           "Comprare su YesStyle è sicuro? L'azienda è legittima: ha sede a Hong Kong ed è stata fondata nel 2006. Questo non garantisce che i prodotti siano originali; vedi cosa controllare prima di ordinare in [YesStyle è affidabile e sicuro?](/it/reviews/yesstyle-e-affidabile-e-sicuro).",
           "Pagherò tasse di importazione? Può succedere. Secondo la [politica di YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), per gli ordini inferiori a 1.000 US$ (prima dello sconto del coupon e senza spedizione) imposte e tasse doganali possono essere rimborsate come Credito del negozio: paghi, conservi la ricevuta e fai richiesta entro 30 giorni, contati dalla data della ricevuta di pagamento.",
           "Qual è il modo migliore per pagare? Carta di credito internazionale (Visa, Mastercard, Amex) o PayPal. YesStyle permette di scegliere la valuta dell'ordine e converte con [il proprio tasso di cambio interno](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fissato al momento dell'ordine; la banca o l'emittente della carta possono applicare una commissione sugli acquisti all'estero.",
-          "I prodotti YesStyle sono originali o contraffatti? YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, acquistando dai produttori o da distributori autorizzati. Non abbiamo trovato un audit indipendente che lo confermi; alla consegna, controlla lotto, scadenza e sigillo.",
+          "I prodotti YesStyle sono originali o contraffatti? YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, acquistando dai produttori o da distributori autorizzati. Nelle fonti della guida non c’è un audit indipendente che lo confermi; alla consegna, controlla lotto, scadenza e sigillo.",
           "Posso restituire i prodotti? La politica è limitata per gli acquisti internazionali. I prodotti difettosi o spediti per errore possono essere restituiti. I prodotti di K-beauty (skincare, make-up) in genere non possono essere restituiti per ragioni igieniche, a meno che non siano sigillati.",
           "Che cos'è l'Elite Club? Il programma fedeltà di YesStyle. Il livello Bronze arriva con il primo ordine, il Silver con 100 US$ di acquisti accumulati e il Gold con 500 US$; ogni livello dà più YS Points per dollaro e coupon da 12% OFF. CECILIA010 resta nel campo Reward Code a qualsiasi livello.",
           "Il sito ha altre lingue? Sì! In alto nel sito puoi cambiare la lingua.",
@@ -65618,7 +65618,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui era Boa até setembro. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um e o que conferir antes de pagar."
+          "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui estava Boa em setembro. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um e o que conferir antes de pagar."
         ]
       },
       {
@@ -67533,7 +67533,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Este artigo é editorial. Podemos receber comissão pelos links da SHEIN, da Shopee, da Temu e do AliExpress.",
+    "editorialNote": "Este artigo é editorial. Podemos receber comissão pelos links da SHEIN, da Shopee, da Temu e do AliExpress. Ninguém da equipe usou os produtos.",
     "relatedArticles": [
       {
         "slug": "shein-e-confiavel"
@@ -93683,7 +93683,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "The most frequent countries among the 100 one-star reviews were the United States (18), India (14), France (8), the United Kingdom (6) and the Netherlands (6).",
-          "Trustpilot itself publishes an automatic summary of the profile, generated by the site’s AI from 12,464 reviews. It lists as praise a stable hosting service, helpful support with fast human agents on technical problems, and a panel that is easy for beginners. It lists as complaints a very automated service with difficulty reaching a person, hard account recovery, billing, and strict rules for domain renewal. That matches what we found in the sample.",
+          "Trustpilot itself publishes an automatic summary of the profile, generated by the site’s AI from 12,464 reviews. It lists as praise a stable hosting service, helpful support with fast human agents on technical problems, and a panel that is easy for beginners. It lists as complaints a very automated service with difficulty reaching a person, hard account recovery, billing, and strict rules for domain renewal. That matches the sample.",
           "The first theme deserves a note. In the review titles, the recurring complaint is not a wrong answer but not getting past the AI agent to a person. Our reading: for a customer with a site down, that wait is the problem.",
           "The reviews do not split the billing complaints by reason. The link with automatic renewal is our reading, and it is where the check should start."
         ]
@@ -93970,7 +93970,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Los países más frecuentes entre las 100 opiniones de una estrella fueron Estados Unidos (18), India (14), Francia (8), Reino Unido (6) y Países Bajos (6).",
-          "Trustpilot publica por su cuenta un resumen automático del perfil, generado por la IA del propio sitio a partir de 12.464 opiniones. Lista como elogios un servicio de hosting estable, un soporte útil con agentes humanos rápidos ante problemas técnicos y un panel fácil para principiantes. Lista como quejas un servicio muy automatizado con dificultad para llegar a una persona, una recuperación de cuenta difícil, cobros y reglas estrictas para la renovación de dominios. Eso coincide con lo que encontramos en la muestra.",
+          "Trustpilot publica por su cuenta un resumen automático del perfil, generado por la IA del propio sitio a partir de 12.464 opiniones. Lista como elogios un servicio de hosting estable, un soporte útil con agentes humanos rápidos ante problemas técnicos y un panel fácil para principiantes. Lista como quejas un servicio muy automatizado con dificultad para llegar a una persona, una recuperación de cuenta difícil, cobros y reglas estrictas para la renovación de dominios. Coincide con la muestra.",
           "El primer tema merece una nota. En los títulos, lo que se repite no es una respuesta equivocada, sino no poder pasar del agente de IA a una persona. Nuestra lectura: para un cliente con el sitio fuera de línea, esa espera es el problema.",
           "Las opiniones no separan los cobros por motivo. La relación con la renovación automática es una lectura nuestra, y es por ahí donde conviene empezar a revisar."
         ]
@@ -94257,7 +94257,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Les pays les plus fréquents parmi les 100 avis à une étoile étaient les États-Unis (18), l’Inde (14), la France (8), le Royaume-Uni (6) et les Pays-Bas (6).",
-          "Trustpilot publie lui-même un résumé automatique du profil, généré par l’IA du site à partir de 12 464 avis. Il retient comme éloges un hébergement stable, un support utile avec des agents humains rapides sur les problèmes techniques, et un tableau de bord facile pour les débutants. Il retient comme plaintes un service très automatisé, difficile à joindre pour parler à une personne, une récupération de compte compliquée, la facturation et des règles strictes pour le renouvellement des domaines. Cela correspond à ce que nous avons trouvé dans l’échantillon.",
+          "Trustpilot publie lui-même un résumé automatique du profil, généré par l’IA du site à partir de 12 464 avis. Il retient comme éloges un hébergement stable, un support utile avec des agents humains rapides sur les problèmes techniques, et un tableau de bord facile pour les débutants. Il retient comme plaintes un service très automatisé, difficile à joindre pour parler à une personne, une récupération de compte compliquée, la facturation et des règles strictes pour le renouvellement des domaines. Cela correspond à l’échantillon.",
           "Le premier thème mérite une précision. Dans les titres, la plainte qui revient n’est pas une mauvaise réponse, mais l’impossibilité de dépasser l’agent d’IA pour parler à une personne. Notre lecture : pour un client dont le site est hors ligne, cette attente est le problème.",
           "Les avis ne séparent pas les plaintes de facturation par motif. Le lien avec le renouvellement automatique est notre lecture, et c’est par là qu’il faut commencer la vérification."
         ]
@@ -94544,7 +94544,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Die häufigsten Länder unter den 100 Ein-Stern-Bewertungen waren die Vereinigten Staaten (18), Indien (14), Frankreich (8), das Vereinigte Königreich (6) und die Niederlande (6).",
-          "Trustpilot veröffentlicht selbst eine automatische Zusammenfassung des Profils, von der KI der Seite aus 12.464 Bewertungen erstellt. Als Lob nennt sie stabiles Hosting, einen hilfreichen Support mit schnellen menschlichen Mitarbeitenden bei technischen Problemen und ein für Einsteiger einfaches Panel. Als Beschwerden nennt sie einen stark automatisierten Dienst, bei dem man schwer eine Person erreicht, eine schwierige Kontowiederherstellung, Abrechnung und strenge Regeln bei der Domain-Verlängerung. Das deckt sich mit dem, was wir in der Stichprobe fanden.",
+          "Trustpilot veröffentlicht selbst eine automatische Zusammenfassung des Profils, von der KI der Seite aus 12.464 Bewertungen erstellt. Als Lob nennt sie stabiles Hosting, einen hilfreichen Support mit schnellen menschlichen Mitarbeitenden bei technischen Problemen und ein für Einsteiger einfaches Panel. Als Beschwerden nennt sie einen stark automatisierten Dienst, bei dem man schwer eine Person erreicht, eine schwierige Kontowiederherstellung, Abrechnung und strenge Regeln bei der Domain-Verlängerung. Das passt zur Stichprobe.",
           "Das erste Thema verdient einen Hinweis. In den Titeln wiederholt sich nicht eine falsche Antwort, sondern das Nicht-Durchkommen vom KI-Agenten zu einem Menschen. Unsere Lesart: Für einen Kunden mit ausgefallener Seite ist diese Wartezeit das Problem.",
           "Die Bewertungen trennen die Abrechnungsbeschwerden nicht nach Grund. Die Verbindung zur automatischen Verlängerung ist unsere Lesart, und dort sollte die Prüfung beginnen."
         ]
@@ -94831,7 +94831,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "I paesi più frequenti tra le 100 recensioni a una stella sono stati Stati Uniti (18), India (14), Francia (8), Regno Unito (6) e Paesi Bassi (6).",
-          "Trustpilot pubblica da sé un riepilogo automatico del profilo, generato dall’IA del sito a partire da 12.464 recensioni. Tra i pregi indica un hosting stabile, un supporto utile con operatori umani rapidi sui problemi tecnici e un pannello facile per chi inizia. Tra i reclami indica un servizio molto automatizzato con difficoltà a parlare con una persona, un recupero dell’account difficile, la fatturazione e regole rigide sul rinnovo dei domini. Corrisponde a quello che abbiamo trovato nel campione.",
+          "Trustpilot pubblica da sé un riepilogo automatico del profilo, generato dall’IA del sito a partire da 12.464 recensioni. Tra i pregi indica un hosting stabile, un supporto utile con operatori umani rapidi sui problemi tecnici e un pannello facile per chi inizia. Tra i reclami indica un servizio molto automatizzato con difficoltà a parlare con una persona, un recupero dell’account difficile, la fatturazione e regole rigide sul rinnovo dei domini. Corrisponde al campione.",
           "Il primo tema merita una nota. Nei titoli, la lamentela che torna non è una risposta sbagliata, ma non riuscire a superare l’agente IA per arrivare a una persona. La nostra lettura: per un cliente con il sito fuori uso, quell’attesa è il problema.",
           "Le recensioni non separano i reclami di fatturazione per motivo. Il legame con il rinnovo automatico è una nostra lettura, ed è da lì che conviene iniziare il controllo."
         ]
@@ -97484,7 +97484,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para R$ 229,92 com o SONAR20. Num teste de 07/11/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
+          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para R$ 229,92 com o SONAR20. No carrinho do site brasileiro, em 07/11/2026, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
           "Onde colar o código e por que a renovação não tem desconto está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
@@ -97610,7 +97610,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What you pay with the campaign and with SONAR20",
         "postParagraphs": [
-          "The discount applies on top of the campaign price. In a test on November 7, 2026 on the global site, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”). Plan, campaign and country can change the total, so check the amount in your cart.",
+          "The discount applies on top of the campaign price. In the cart on the global site, on November 7, 2026, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”). Plan, campaign and country can change the total, so check the amount in your cart.",
           "Where to paste the code and why renewal has no discount are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
@@ -97735,7 +97735,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuánto cuesta con la campaña y con SONAR20",
         "postParagraphs": [
-          "El descuento se aplica sobre el precio de la campaña. En una prueba del 7 de noviembre de 2026 en el sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»). El plan, la campaña y el país pueden cambiar el total, así que revisa el importe en tu carrito.",
+          "El descuento se aplica sobre el precio de la campaña. En el carrito del sitio global, el 7 de noviembre de 2026, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»). El plan, la campaña y el país pueden cambiar el total, así que revisa el importe en tu carrito.",
           "Dónde pegar el código y por qué la renovación no tiene descuento está en [Cupón Hostinger SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
@@ -97860,7 +97860,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce que l’on paie avec la campagne et avec SONAR20",
         "postParagraphs": [
-          "La réduction s’applique sur le prix de la campagne. Lors d’un test du 7 novembre 2026 sur le site mondial, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »). L’offre, la campagne et le pays peuvent changer le total : vérifiez le montant dans votre panier.",
+          "La réduction s’applique sur le prix de la campagne. Dans le panier du site mondial, le 7 novembre 2026, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »). L’offre, la campagne et le pays peuvent changer le total : vérifiez le montant dans votre panier.",
           "Où coller le code et pourquoi le renouvellement n’a pas de réduction : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
@@ -97985,7 +97985,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was Sie mit der Aktion und mit SONAR20 zahlen",
         "postParagraphs": [
-          "Der Rabatt wird auf den Aktionspreis angerechnet. Bei einem Test am 7. November 2026 auf der globalen Seite sank der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$. Tarif, Aktion und Land können die Summe verändern, prüfen Sie den Betrag also im Warenkorb.",
+          "Der Rabatt wird auf den Aktionspreis angerechnet. Im Warenkorb der globalen Seite sank am 7. November 2026 der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$. Tarif, Aktion und Land können die Summe verändern, prüfen Sie den Betrag also im Warenkorb.",
           "Wo Sie den Code einfügen und warum die Verlängerung keinen Rabatt hat, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
@@ -98110,7 +98110,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto si paga con la campagna e con SONAR20",
         "postParagraphs": [
-          "Lo sconto si applica sul prezzo della campagna. In un test del 7 novembre 2026 sul sito globale, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»). Piano, campagna e paese possono cambiare il totale, quindi controlla l'importo nel carrello.",
+          "Lo sconto si applica sul prezzo della campagna. Nel carrello del sito globale, il 7 novembre 2026, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»). Piano, campagna e paese possono cambiare il totale, quindi controlla l'importo nel carrello.",
           "Dove incollare il codice e perché il rinnovo non ha sconto si trova in [Coupon Hostinger SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
@@ -98235,7 +98235,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "캠페인과 SONAR20으로 얼마가 되는지",
         "postParagraphs": [
-          "할인은 캠페인 가격에 적용됩니다. 2026년 11월 7일 글로벌 사이트에서 한 테스트에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다. 요금제, 캠페인, 국가에 따라 합계가 달라질 수 있으니 금액은 장바구니에서 확인하세요.",
+          "할인은 캠페인 가격에 적용됩니다. 2026년 11월 7일 글로벌 사이트 장바구니에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다. 요금제, 캠페인, 국가에 따라 합계가 달라질 수 있으니 금액은 장바구니에서 확인하세요.",
           "코드를 붙여 넣을 위치와 갱신에 할인이 없는 이유는 [Hostinger 쿠폰 SONAR20](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
@@ -98360,7 +98360,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "キャンペーンとSONAR20でいくらになるか",
         "postParagraphs": [
-          "割引はキャンペーン価格に対して適用されます。2026年11月7日のグローバルサイトでのテストでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。プラン、キャンペーン、国によって合計は変わるため、金額はカートで確認してください。",
+          "割引はキャンペーン価格に対して適用されます。2026年11月7日、グローバルサイトのカートでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。プラン、キャンペーン、国によって合計は変わるため、金額はカートで確認してください。",
           "コードを貼る場所と、更新に割引がない理由は、[Hostingerクーポン SONAR20](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
@@ -98485,7 +98485,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "活動價加 SONAR20 要付多少",
         "postParagraphs": [
-          "折扣是在活動價的基礎上計算的。在 2026 年 11 月 7 日對全球網站的測試中，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。方案、活動和國家都可能改變總價，請以購物車中的金額為準。",
+          "折扣是在活動價的基礎上計算的。2026 年 11 月 7 日，在全球網站的購物車中，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。方案、活動和國家都可能改變總價，請以購物車中的金額為準。",
           "代碼貼在哪裡，以及為什麼續約沒有折扣，請見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
@@ -98610,7 +98610,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "活动价加 SONAR20 要付多少",
         "postParagraphs": [
-          "折扣是在活动价的基础上计算的。在 2026 年 11 月 7 日对全球站点的测试中，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。方案、活动和国家都可能改变总价，请以购物车里的金额为准。",
+          "折扣是在活动价的基础上计算的。2026 年 11 月 7 日，在全球站点的购物车中，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。方案、活动和国家都可能改变总价，请以购物车里的金额为准。",
           "代码贴在哪里，以及为什么续费没有折扣，见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
@@ -151949,7 +151949,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nossa checagem",
         "paragraphs": [
-          "Os dados da Trustpilot são do perfil público da YesStyle, sem login, em 28/10/2026: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. Os do Reclame Aqui são da página da YesStyle, do mesmo dia. Em novembro, a nota, o número de avaliações e a distribuição por estrela seguiam iguais.",
+          "Os dados da Trustpilot são do perfil público da YesStyle, sem login, em 28/10/2026: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. Os do Reclame Aqui são da página da YesStyle, do mesmo dia. Em novembro, a nota, o número de avaliações e a distribuição por estrela foram atualizados.",
           "No app da loja, o checkout tem o campo do código de recompensa, e a YesStyle não oferecia entrega para o Brasil.",
           "Os números da Trustpilot mudam todo mês; confira o perfil no dia da compra."
         ],
@@ -152138,7 +152138,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Our check",
         "paragraphs": [
-          "The Trustpilot data come from the public YesStyle profile, without logging in, on October 28, 2026: the score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from. In November, the score, the number of reviews and the breakdown by star were the same.",
+          "The Trustpilot data come from the public YesStyle profile, without logging in, on October 28, 2026: the score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from. In November, the score, the number of reviews and the breakdown by star were updated.",
           "In the store app, the checkout has the Reward Code field.",
           "Trustpilot's numbers change every month; check the profile on the day you buy."
         ],
@@ -152326,7 +152326,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nuestra comprobación",
         "paragraphs": [
-          "Los datos de Trustpilot son del perfil público de YesStyle, sin iniciar sesión, del 28 de octubre de 2026: la nota, el número de opiniones, la distribución por estrellas, el índice de respuesta y las opiniones visibles, de donde salieron los temas. En noviembre, la nota, el número de opiniones y la distribución por estrellas seguían igual.",
+          "Los datos de Trustpilot son del perfil público de YesStyle, sin iniciar sesión, del 28 de octubre de 2026: la nota, el número de opiniones, la distribución por estrellas, el índice de respuesta y las opiniones visibles, de donde salieron los temas. En noviembre, la nota, el número de opiniones y la distribución por estrellas se actualizaron.",
           "En la app de la tienda, el checkout tiene el campo del código de recompensa.",
           "Los números de Trustpilot cambian cada mes; revisa el perfil el día de la compra."
         ],
@@ -152514,7 +152514,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Notre vérification",
         "paragraphs": [
-          "Les données de Trustpilot viennent du profil public de YesStyle, sans connexion, au 28 octobre 2026 : la note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où sont sortis les thèmes. En novembre, la note, le nombre d’avis et la répartition par étoile étaient inchangés.",
+          "Les données de Trustpilot viennent du profil public de YesStyle, sans connexion, au 28 octobre 2026 : la note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où sont sortis les thèmes. En novembre, la note, le nombre d’avis et la répartition par étoile ont été mis à jour.",
           "Dans l’appli de la boutique, le paiement comporte le champ du code récompense.",
           "Les chiffres de Trustpilot changent chaque mois ; consultez le profil le jour de l’achat."
         ],
@@ -152702,7 +152702,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "La nostra verifica",
         "paragraphs": [
-          "I dati di Trustpilot vengono dal profilo pubblico di YesStyle, senza login, al 28 ottobre 2026: il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi. A novembre punteggio, numero di recensioni e distribuzione per stelle erano invariati.",
+          "I dati di Trustpilot vengono dal profilo pubblico di YesStyle, senza login, al 28 ottobre 2026: il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi. A novembre punteggio, numero di recensioni e distribuzione per stelle sono stati aggiornati.",
           "Nell’app del negozio, il checkout ha il campo per il codice ricompensa.",
           "I numeri di Trustpilot cambiano ogni mese; controlla il profilo il giorno dell’acquisto."
         ],
@@ -152890,7 +152890,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Unsere Prüfung",
         "paragraphs": [
-          "Die Daten von Trustpilot stammen aus dem öffentlichen Profil von YesStyle, ohne Login, vom 28. Oktober 2026: die Note, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen. Im November waren Note, Zahl der Bewertungen und Verteilung nach Sternen unverändert.",
+          "Die Daten von Trustpilot stammen aus dem öffentlichen Profil von YesStyle, ohne Login, vom 28. Oktober 2026: die Note, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen. Im November wurden Note, Zahl der Bewertungen und Verteilung nach Sternen aktualisiert.",
           "In der App des Shops hat der Checkout das Feld für den Reward Code.",
           "Die Zahlen auf Trustpilot ändern sich jeden Monat; prüfen Sie das Profil am Tag des Kaufs."
         ],
@@ -153078,7 +153078,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "当サイトの確認",
         "paragraphs": [
-          "YesStyleのTrustpilot公開プロフィールのデータは、ログインなしで見られる2026年10月28日時点のものです。評価、レビュー数、星ごとの内訳、返信率、表示されているレビューで、テーマはそこから書き出しました。11月時点でも、評価、レビュー数、星ごとの内訳は変わっていません。",
+          "YesStyleのTrustpilot公開プロフィールのデータは、ログインなしで見られる2026年10月28日時点のものです。評価、レビュー数、星ごとの内訳、返信率、表示されているレビューで、テーマはそこから書き出しました。11月に、評価、レビュー数、星ごとの内訳は更新されました。",
           "ショップのアプリのチェックアウトには、リワードコードの入力欄があります。",
           "Trustpilotの数字は毎月変わります。購入する日にプロフィールを確認してください。"
         ],
@@ -153266,7 +153266,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "저희의 확인",
         "paragraphs": [
-          "Trustpilot 데이터는 로그인 없이 볼 수 있는 YesStyle 공개 프로필의 2026년 10월 28일 기준 자료입니다. 평점, 리뷰 수, 별점 분포, 답변율, 그리고 보이는 리뷰이며, 주제는 이 리뷰에서 나왔습니다. 11월에도 평점, 리뷰 수, 별점 분포는 같았습니다.",
+          "Trustpilot 데이터는 로그인 없이 볼 수 있는 YesStyle 공개 프로필의 2026년 10월 28일 기준 자료입니다. 평점, 리뷰 수, 별점 분포, 답변율, 그리고 보이는 리뷰이며, 주제는 이 리뷰에서 나왔습니다. 11월에 평점, 리뷰 수, 별점 분포가 업데이트되었습니다.",
           "쇼핑몰 앱의 결제 화면에는 리워드 코드를 넣는 칸이 있습니다.",
           "Trustpilot 수치는 매달 바뀝니다. 구매하는 날 프로필을 확인하세요."
         ],
@@ -153454,7 +153454,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "我们的检查",
         "paragraphs": [
-          "Trustpilot 的数据来自 YesStyle 的公开主页（无需登录），截至2026年10月28日：评分、评价数量、星级分布、回复率和可见的评价，主题就来自这些评价。到 11 月，评分、评价数量和星级分布没有变化。",
+          "Trustpilot 的数据来自 YesStyle 的公开主页（无需登录），截至2026年10月28日：评分、评价数量、星级分布、回复率和可见的评价，主题就来自这些评价。到 11 月，评分、评价数量和星级分布已更新。",
           "商店 App 的结账页面里有填写奖励码的栏位。",
           "Trustpilot 的数字每月都会变化；购买当天请查看主页。"
         ],
@@ -153642,7 +153642,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "我們的檢查",
         "paragraphs": [
-          "Trustpilot 的資料來自 YesStyle 的公開檔案（無需登入），截至2026年10月28日：評分、評價數量、星級分布、回覆率和可見的評價，主題就來自這些評價。到 11 月，評分、評價數量和星級分布沒有變化。",
+          "Trustpilot 的資料來自 YesStyle 的公開檔案（無需登入），截至2026年10月28日：評分、評價數量、星級分布、回覆率和可見的評價，主題就來自這些評價。到 11 月，評分、評價數量和星級分布已更新。",
           "商店 App 的結帳頁面裡有填寫獎勵碼的欄位。",
           "Trustpilot 的數字每個月都會變化；購買當天請查看檔案。"
         ],
