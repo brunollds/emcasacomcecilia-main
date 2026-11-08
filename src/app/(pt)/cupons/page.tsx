@@ -1,16 +1,12 @@
 import type { Metadata } from 'next';
 import { CircleCheck } from 'lucide-react';
-import { CouponFaq, SectionHeading, couponFontVariables } from '@/components/coupons/CouponBlocks';
+import { CouponFaq, SectionHeading, ShelfHeading, couponFontVariables } from '@/components/coupons/CouponBlocks';
+import { PT_COUPON_HUB_TEXT } from '@/components/coupons/couponHubCopy';
 import { CouponShelfItem, HubCouponCard, SHELF_CARD, couponCardName, layoutShelf } from '@/components/coupons/CouponCards';
 import { RevealSection } from '@/components/ui/RevealSection';
+import { COUPON_HUB_LOGO_URL, getCouponHubAlternates } from '@/lib/couponHub';
 import { getActiveCoupons, getCouponHubSections } from '@/lib/couponsData';
 import { getOfferMonthDate } from '@/lib/offerMonth';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
-
-const COUPONS_LOGO_URL = new URL(
-  resolveMediaUrl('/images/logos/logo-em-casa-com-cecilia.png'),
-  'https://emcasacomcecilia.com'
-).toString();
 
 // O snippet cita as lojas de código mais buscadas que estão ativas, para não anunciar uma loja pausada.
 const SNIPPET_STORES = ['Insider', 'DAMIE', 'Dolce Gusto', 'Hostinger'];
@@ -24,11 +20,9 @@ const storeCount = activeCodeStores.length === 1 ? '1 loja parceira' : `${active
 const HUB_DESCRIPTION = `Códigos de desconto de ${storeCount}${snippetStores.length ? `, como ${snippetStoreList}` : ''}: o desconto de cada código, as regras e se ele soma com a promoção.`;
 
 export const metadata: Metadata = {
-  title: 'Cupons da Cecília — Códigos de desconto ativos',
+  title: PT_COUPON_HUB_TEXT.metaTitle,
   description: HUB_DESCRIPTION,
-  alternates: {
-    canonical: '/cupons',
-  },
+  alternates: getCouponHubAlternates('pt'),
   openGraph: {
     title: 'Cupons da Cecília — Em Casa com Cecília',
     description: HUB_DESCRIPTION,
@@ -36,45 +30,15 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: COUPONS_LOGO_URL,
+        url: COUPON_HUB_LOGO_URL,
         alt: 'Logo Em Casa com Cecília',
       },
     ],
   },
 };
 
-const HUB_FAQS = [
-  {
-    question: 'Como funcionam os cupons e ofertas da Cecília?',
-    answer:
-      'Alguns benefícios usam códigos aplicados no checkout; outros são acessados diretamente pelo link indicado. A página de cada marca explica qual formato está ativo.',
-  },
-  {
-    question: 'Os benefícios têm validade?',
-    answer:
-      'Cada cupom ou oferta tem sua própria regra. As páginas individuais indicam validade, última verificação e condições de uso quando essas informações existem.',
-  },
-  {
-    question: 'Posso usar o mesmo benefício mais de uma vez?',
-    answer:
-      'Isso depende da regra da loja parceira. Se houver limite por CPF, código ou campanha, a condição aparece na página da marca, no carrinho ou no checkout.',
-  },
-  {
-    question: 'O benefício é cumulativo com promoções da loja?',
-    answer:
-      'A possibilidade de acumular depende da marca, do formato da oferta e da campanha. O valor final exibido no carrinho ou checkout é a referência.',
-  },
-  {
-    question: 'O que acontece se o benefício não funcionar?',
-    answer:
-      'Confira se o produto é elegível e, quando houver código, se ele foi digitado corretamente. Se ainda assim não funcionar, avise pelo contato do site para que a informação seja revisada.',
-  },
-  {
-    question: 'Existe comissão de afiliado?',
-    answer:
-      'Alguns links podem gerar comissão para o Em Casa com Cecília, sem custo extra para você. Esse modelo ajuda a manter o conteúdo gratuito.',
-  },
-];
+const HUB_FAQS = PT_COUPON_HUB_TEXT.faqs;
+const HUB_TRANSPARENCY = PT_COUPON_HUB_TEXT.transparency;
 
 function getJsonLd() {
   const activeCoupons = getActiveCoupons();
@@ -128,20 +92,6 @@ function getJsonLd() {
   return [breadcrumb, itemList, faq];
 }
 
-function ShelfHeading({ id, children }: { id: string; children: React.ReactNode }) {
-  return (
-    <div className="flex items-center gap-2.5">
-      <h2
-        id={id}
-        className="font-condensada text-[28px] font-black leading-7 font-stretch-extra-condensed md:text-[32px] md:leading-8"
-      >
-        {children}
-      </h2>
-      <span aria-hidden="true" className="h-0.5 flex-1 bg-marinho" />
-    </div>
-  );
-}
-
 export default function CuponsPage() {
   const { featured, categories, lastVerified } = getCouponHubSections();
   const jsonLd = getJsonLd();
@@ -168,17 +118,18 @@ export default function CuponsPage() {
       <section className="border-b-2 border-marinho bg-amarelo-cupom">
         <div className="mx-auto max-w-6xl px-4 pt-5 pb-6 md:px-8 md:pt-10 md:pb-9">
           <h1 className="font-condensada text-[64px] font-black leading-[0.92] tracking-[-0.01em] font-stretch-extra-condensed md:text-[96px]">
-            Cupons da Cecília
+            {PT_COUPON_HUB_TEXT.title}
           </h1>
           <p className="mt-3 max-w-[54ch] text-[15px] font-semibold leading-[22px] md:text-[17px] md:leading-[26px]">
-            Copie o código aqui e cole no checkout da loja parceira.
+            {PT_COUPON_HUB_TEXT.lead}
           </p>
           {offerMonthLabel && offerMonthIso && (
             <p className="mt-3.5 flex items-center gap-2 text-[13px] font-bold leading-[18px] text-verde-escuro">
               <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
               <span>
-                Cupons válidos em <time dateTime={offerMonthIso}>{offerMonthLabel}</time>. A data do teste
-                está na página de cada loja.
+                {PT_COUPON_HUB_TEXT.validMonth.before}
+                <time dateTime={offerMonthIso}>{offerMonthLabel}</time>
+                {PT_COUPON_HUB_TEXT.validMonth.after}
               </span>
             </p>
           )}
@@ -188,7 +139,7 @@ export default function CuponsPage() {
       <div className="mx-auto flex max-w-6xl flex-col gap-7 px-4 pt-6 md:gap-10 md:px-8 md:pt-10">
         {featured.length > 0 && (
           <section aria-labelledby="destaques" className="flex flex-col gap-3">
-            <ShelfHeading id="destaques">Destaques</ShelfHeading>
+            <ShelfHeading id="destaques">{PT_COUPON_HUB_TEXT.featuredTitle}</ShelfHeading>
             {/* Pensado para dois destaques: o primeiro fica com 3/5 da linha no desktop. */}
             <div className={`grid gap-3 md:gap-4 ${featured.length > 1 ? 'md:grid-cols-[3fr_2fr]' : ''}`}>
               {featured.map((coupon, index) => (
@@ -227,7 +178,7 @@ export default function CuponsPage() {
       </div>
 
       <section aria-labelledby="perguntas" className="mx-auto max-w-6xl px-4 pt-12 md:px-8 md:pt-16">
-        <SectionHeading id="perguntas">Perguntas frequentes</SectionHeading>
+        <SectionHeading id="perguntas">{PT_COUPON_HUB_TEXT.faqTitle}</SectionHeading>
         <div className="mt-4 max-w-3xl">
           <CouponFaq items={HUB_FAQS} />
         </div>
@@ -238,8 +189,7 @@ export default function CuponsPage() {
           Transparência
         </h2>
         <p className="mt-1.5 max-w-[68ch] text-[13px] font-medium leading-5 text-marinho-suave">
-          Alguns links podem gerar comissão para o Em Casa com Cecília, sem custo extra para você. Esse modelo ajuda
-          a manter receitas, reviews e guias gratuitos, com transparência sobre as marcas parceiras.
+          {HUB_TRANSPARENCY}
         </p>
       </section>
     </main>

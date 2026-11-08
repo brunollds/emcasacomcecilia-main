@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { CalendarDays, Check, Copy, ExternalLink, Layers, Repeat, ShoppingBag, Truck } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { getCouponHubPath } from '@/lib/couponHub';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
 import { getOtherActiveCoupons, getPendingLimitedCodes, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
@@ -39,10 +40,15 @@ import {
   StoreTransparency,
 } from './StoreLayout';
 
-// Fora do PT não existe hub de cupons: a trilha vai da home do idioma direto para a loja.
 function getBreadcrumb(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
   const store = { name: coupon.brand, path: getCouponStorePath(coupon.slug, locale) };
-  if (locale !== 'pt') return [{ name: copy.homeLabel, path: getShellHomeHref(locale) }, store];
+  if (locale !== 'pt') {
+    return [
+      { name: copy.homeLabel, path: getShellHomeHref(locale) },
+      { name: copy.couponsLabel, path: getCouponHubPath(locale) },
+      store,
+    ];
+  }
 
   return [{ name: copy.homeLabel, path: '/' }, { name: copy.couponsLabel, path: '/cupons' }, store];
 }

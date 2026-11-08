@@ -1516,11 +1516,14 @@ export function getCouponLanguageLinks(slug: string): Partial<Record<Locale, str
   return Object.fromEntries(LOCALE_KEYS.map((locale) => [locale, getCouponStorePath(slug, locale)]));
 }
 
-// Só cupons ativos ganham página fora do PT, como acontece em /cupons.
+// Lojas com tradução e cupom ativo em PT, na ordem de COUPON_TRANSLATIONS. Só elas ganham página fora do PT
+// e entram no hub de cada idioma.
+export function getTranslatedCouponSlugs(): string[] {
+  return Object.keys(COUPON_TRANSLATIONS).filter((slug) => getCouponBySlug(slug));
+}
+
 export function getTranslatedCouponRoutes() {
-  return Object.keys(COUPON_TRANSLATIONS)
-    .filter((slug) => getCouponBySlug(slug))
-    .flatMap((slug) => TRANSLATED_LOCALES.map((locale) => ({ locale, slug })));
+  return getTranslatedCouponSlugs().flatMap((slug) => TRANSLATED_LOCALES.map((locale) => ({ locale, slug })));
 }
 
 export function getLocalizedCoupon(slug: string, locale: TranslatedLocale): Coupon | undefined {
