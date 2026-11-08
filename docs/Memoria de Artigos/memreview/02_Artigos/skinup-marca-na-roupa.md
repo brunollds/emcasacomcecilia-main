@@ -55,6 +55,7 @@ Separar o que a loja promete de cada peça, o que muda com o bojo fixo ou remov�
 - **Sem veredito de teste sem teste.** Sem fotos, a resposta é "a loja promete que não marca; nós não testamos": o artigo diz isso com clareza e sem rodeio.
 - **"Não marca" sempre com a fonte.** Avaliação de cliente entra como avaliação.
 - **O que depende da roupa é leitura nossa e vem marcado:** cor e espessura do tecido mudam o que aparece, mas sem número nem promessa.
+- **No acréscimo, escrever só o que a Cecília disser no short.** A experiência dela vale para o que ela comentar, sem virar teste nem veredito de todas as peças.
 - **Foto de teste só real:** a mesma roupa, a mesma luz, o mesmo enquadramento, com a Cecília ou com quem o Bruno indicar. Nada de IA no produto.
 - Catraca: resposta rápida de 2 a 3 frases (40 a 60 palavras) sem R$; no máximo 2 datas no corpo; nenhuma data em título, legenda ou FAQ; `description` até 180 caracteres; `metaDescription` com "MAUAD" e "10%" na primeira frase, o código terminando até o caractere 100, até 155 caracteres, sem data com dia e sem R$.
 - Capa pelo Job 6, com foto real. Ao menos uma foto da loja no corpo.
@@ -69,14 +70,14 @@ Separar o que a loja promete de cada peça, o que muda com o bojo fixo ou remov�
 5. **Calcinhas SkinUp:** o corte a laser.
 6. **Cotton Up:** o que a loja promete, e o que não promete.
 7. **A roupa por cima:** tecido fino, justo ou claro.
-8. **O teste com fotos**, só se houver.
+8. **A seção da experiência fica para o acréscimo:** não entra nesta versão, nem como "em breve".
 9. **Preço com o cupom**, com o link para o comparativo.
 10. **Leve se / Passe se.**
 11. **Perguntas frequentes:** "SkinUp marca na roupa?", "SkinUp fica invisível em roupa branca?" (o que a loja diz, sem garantia), "Qual marca menos: SkinUp ou Cotton Up?", "A calcinha SkinUp tem costura?", "SkinUp é bom?".
 
 ## 6. A conferir antes da redação
 
-- **Com o Bruno: há fotos ou um teste da Cecília?** Se não, o artigo sai sem, nos termos da regra acima. Ele não fica parado por isso.
+- **Decidido pelo Bruno (08/11):** o artigo sai agora, sem teste, nos termos da regra acima. A Cecília está gravando um short em que comenta sobre não marcar. É um comentário curto, não um review longo. Depois de publicado, o artigo ganha o vídeo, o comentário dela e a experiência.
 - As páginas principais do Top, da Alça Fina, do Clássico e das calcinhas, com os preços.
 - O que as avaliações dizem sobre marcar, com a data da leitura.
 - A campanha ativa e o cupom no dia (`cupom-toda-up-como-usar`).

@@ -25,7 +25,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | F12 | O que usar em decote profundo, costas abertas e tomara que caia (rodada de 08/11) | Toda Up | PT | [[sutia-para-decote-profundo-costas-abertas]] | No ar em 08/11 (release fa2d5745), com revisão externa aplicada e card de estilo |
 | I14 | Calcinha Insider: qual escolher (decisão do Bruno, 08/11) | Insider | PT | [[calcinha-insider-qual-escolher]] | Redação |
 | F13 | Como descobrir seu tamanho na Toda Up, em todas as linhas (decisão do Bruno, 08/11) | Toda Up | PT | [[tamanho-toda-up-como-escolher]] | Redação. Os cinco guias com tabela recebem o link |
-| F14 | SkinUp marca na roupa? (decisão do Bruno, 08/11) | Toda Up | PT | [[skinup-marca-na-roupa]] | Redação. Perguntar ao Bruno se há fotos; sem elas, sai dizendo que não testamos |
+| F14 | SkinUp marca na roupa? (decisão do Bruno, 08/11) | Toda Up | PT | [[skinup-marca-na-roupa]] | Redação: sai sem teste. Short da Cecília em produção vira acréscimo depois (seção 4) |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -154,3 +154,4 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | ~14/11 | "Primeira compra" (análise das 23 lojas, 05/11): sem série nem artigo agora. A loja que passar de ~50 impressões por mês sem a /cupons/<loja> aparecer ganha um artigo de decisão ("boas-vindas da loja ou nosso cupom?"). As boas-vindas lidas em 05/11 (#601): Insider 15% e Mais Mu 10%, iguais aos nossos códigos; Bagaggio 5%, menos que o CECILIA10. Com valor igual, o artigo só se paga se a busca crescer. Magalu, SHEIN e Dolce Gusto ficam fora: o resultado é da resposta de IA do Google e dos sites de cupom, e na Magalu o código não vale no app |
 | 27/11 | Insider: refazer o teste da soma do cupom com a Black Friday |
 | Black Friday | Bagaggio: testar se a promoção "não cumulativa" soma com o CECILIA10 |
+| `skinup-marca-na-roupa` (F14) | Acréscimo quando o short da Cecília sair: o vídeo, o comentário dela sobre não marcar e a experiência, só no que ela disser. O Bruno avisa | Bruno, 08/11 |
