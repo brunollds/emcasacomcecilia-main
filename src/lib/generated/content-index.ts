@@ -134397,10 +134397,10 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
-    "description": "A SHEIN anuncia até 85% off na Mega Promoção 11.11, e a Cecília escolheu 19 peças em 5 grupos, de pijamas a masculino. Veja os descontos, os tamanhos e o link de cada peça.",
+    "description": "A SHEIN anuncia até 90% off na Mega Promoção 11.11, e a Cecília escolheu 19 peças em 5 grupos, de pijamas a masculino. Veja os preços, os tamanhos e o link de cada peça.",
     "metaDescription": "O 4CW5Y dá desconto na SHEIN, pelo link ou no app e no site. SHEIN 11.11: 19 peças escolhidas pela Cecília, de pijama a camisa masculina.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Colagem com peças da seleção 11.11 da SHEIN: pijama floral, conjunto infantil, cardigã, scarpin e camisa masculina, com a logo da SHEIN",
@@ -134416,7 +134416,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Seleção da Cecília, com preços lidos na SHEIN no dia da publicação; ninguém do site usou as peças. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
+    "editorialNote": "Seleção da Cecília, com preços lidos na SHEIN no dia da atualização; ninguém do site usou as peças. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
     "relatedArticles": [
       {
         "slug": "codigo-de-indicacao-shein"
@@ -134438,7 +134438,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A campanha 11.11",
         "paragraphs": [
-          "A Mega Promoção 11.11 da SHEIN já começou. São até 85% off em mais de 600 mil produtos, diz a SHEIN, e a loja puxa a campanha para o aplicativo.",
+          "A Mega Promoção 11.11 da SHEIN já começou. São até 90% off em mais de 800 mil produtos, diz a SHEIN, e a loja puxa a campanha para o aplicativo.",
           "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Nas 19 peças abaixo, a foto e o card abrem a página de cada uma dentro da campanha.",
           "O 4CW5Y é o código de indicação da SHEIN e dá desconto, sim: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, que ele abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, a SHEIN decide. Não é cupom e não se cola no checkout. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
         ]
@@ -134454,8 +134454,8 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Pijama floral Serenescape](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "R$ 51,99",
-              "-20% (de R$ 64,99)"
+              "R$ 62,10",
+              "-4% (de R$ 64,99)"
             ],
             [
               "[Pijama regata e short listrado com corações](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
@@ -134464,63 +134464,63 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Pijama de 3 peças com estampa de cartoon](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "R$ 34,36",
-              "-20% (de R$ 42,95)"
+              "R$ 40,25",
+              "-6% (de R$ 42,95)"
             ],
             [
               "[Conjunto de menina com regata de coração e pantalona](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "a partir de R$ 48,76",
-              "-20% (de R$ 60,95)"
+              "a partir de R$ 60,95",
+              "—"
             ],
             [
               "[Pijama de menino com dinossauro que brilha no escuro](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "a partir de R$ 67,10",
-              "-4% (de R$ 69,90)"
+              "a partir de R$ 69,90",
+              "—"
             ],
             [
               "[Blusa de bebê com bichos desenhados a giz](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "a partir de R$ 29,52",
-              "-20% (de R$ 36,90)"
+              "a partir de R$ 36,90",
+              "—"
             ],
             [
               "[Pijama de menino de manga longa, estampa sortida](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "R$ 45,52",
-              "-20% (de R$ 56,90)"
+              "R$ 54,62",
+              "-4% (de R$ 56,90)"
             ],
             [
               "[Conjunto listrado azul de regata e pantalona](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "a partir de R$ 93,56",
-              "-20% (de R$ 116,95)"
+              "a partir de R$ 113,44",
+              "-3% (de R$ 116,95)"
             ],
             [
               "[Cardigã esportivo slim DAZY](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "R$ 45,49",
-              "-31% (de R$ 65,99)"
+              "R$ 62,24",
+              "-8% (de R$ 67,90)"
             ],
             [
               "[Short estampado clochard](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "R$ 16,45",
-              "-65% (de R$ 46,99)"
+              "R$ 45,11",
+              "-4% (de R$ 46,99)"
             ],
             [
               "[Calça jeans pantalona com cintura elástica](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "R$ 131,96",
-              "-20% (de R$ 164,95)"
+              "R$ 161,65",
+              "-2% (de R$ 164,95)"
             ],
             [
               "[Scarpin slingback branco e caramelo](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "R$ 62,03",
-              "-38% (de R$ 99,70)"
+              "R$ 68,32",
+              "-31% (de R$ 99,70)"
             ],
             [
               "[Brincos de laço com pérola e coração](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "R$ 11,12",
-              "-20% (de R$ 13,90)"
+              "R$ 13,90",
+              "—"
             ],
             [
               "[Kit de relógio verde com pulseira, colar e brincos](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "R$ 27,19",
-              "-20% (de R$ 33,99)"
+              "R$ 33,55",
+              "-4% (de R$ 34,95)"
             ],
             [
               "[Óculos de lente degradê poligonal](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
@@ -134529,28 +134529,28 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Camiseta Henley azul-marinho com textura de linho](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "a partir de R$ 49,52",
-              "-20% (de R$ 61,90)"
+              "a partir de R$ 61,90",
+              "—"
             ],
             [
               "[Kit de short de linho](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "R$ 47,32",
-              "-53% (de R$ 99,90)"
+              "R$ 51,51",
+              "-48% (de R$ 99,90)"
             ],
             [
               "[Camisa masculina de manga longa Manfinity Mode](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "a partir de R$ 71,16",
-              "-20% (de R$ 88,95)"
+              "a partir de R$ 86,28",
+              "-3% (de R$ 88,95)"
             ],
             [
               "[Regata preta estonada de caimento solto](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "R$ 67,99",
-              "-20% (de R$ 84,99)"
+              "R$ 81,80",
+              "-4% (de R$ 84,99)"
             ]
           ]
         },
         "paragraphs": [
-          "Preços de 28/10/2026, na página de cada peça. \"A partir de\" quer dizer que o preço muda por cor ou tamanho."
+          "Preços de 08/11/2026, na página de cada peça. O maior desconto é o do kit de short de linho (-48%), seguido do scarpin (-31%). Outras 11 peças têm de -2% a -8%, e 6 estão sem preço riscado. \"A partir de\" quer dizer que o preço muda por cor ou tamanho."
         ]
       },
       {
@@ -134562,7 +134562,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama floral Serenescape",
         "bullets": [
-          "Preço: R$ 51,99 (de R$ 64,99, -20%).",
+          "Preço: R$ 62,10 (de R$ 64,99, -4%).",
           "Tamanhos: PP a EG.",
           "Nota 4,91 na loja, com mais de mil comentários."
         ],
@@ -134625,7 +134625,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de 3 peças com estampa de cartoon",
         "bullets": [
-          "Preço: R$ 34,36 (de R$ 42,95, -20%).",
+          "Preço: R$ 40,25 (de R$ 42,95, -6%).",
           "Tamanhos: PP a EG.",
           "Nota 4,95 na loja, com mais de mil comentários, a maior da seleção."
         ],
@@ -134660,7 +134660,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conjunto de menina com regata de coração e pantalona",
         "bullets": [
-          "Preço: a partir de R$ 48,76 (de R$ 60,95, -20%).",
+          "Preço: a partir de R$ 60,95.",
           "Tamanhos: 4 a 7 anos; a loja também tem 8 a 12 anos.",
           "Nota 4,88 na loja, com mais de mil comentários."
         ],
@@ -134697,7 +134697,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de menino com dinossauro que brilha no escuro",
         "bullets": [
-          "Preço: a partir de R$ 67,10 (de R$ 69,90, -4%).",
+          "Preço: a partir de R$ 69,90.",
           "Tamanhos: 4 a 7 anos.",
           "Nota 4,36 na loja, com 83 comentários."
         ],
@@ -134726,7 +134726,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Blusa de bebê com bichos desenhados a giz",
         "bullets": [
-          "Preço: a partir de R$ 29,52 (de R$ 36,90, -20%).",
+          "Preço: a partir de R$ 36,90.",
           "Tamanhos: 6 meses a 3 anos.",
           "Nota 4,12 na loja, com mais de mil comentários."
         ],
@@ -134763,7 +134763,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de menino de manga longa, estampa sortida",
         "bullets": [
-          "Preço: R$ 45,52 (de R$ 56,90, -20%).",
+          "Preço: R$ 54,62 (de R$ 56,90, -4%).",
           "Tamanhos: 9 meses a 7 anos.",
           "Nota 4,09 na loja, com 62 comentários."
         ],
@@ -134792,13 +134792,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Feminino",
         "paragraphs": [
-          "Quatro peças femininas para o dia a dia: um conjunto, um cardigã, um short e uma calça jeans. Aqui está o maior desconto da seleção, no short estampado."
+          "Quatro peças femininas para o dia a dia: um conjunto, um cardigã, um short e uma calça jeans."
         ]
       },
       {
         "heading": "Conjunto listrado azul de regata e pantalona",
         "bullets": [
-          "Preço: a partir de R$ 93,56 (de R$ 116,95, -20%).",
+          "Preço: a partir de R$ 113,44 (de R$ 116,95, -3%).",
           "Tamanhos: XPP a EG.",
           "Nota 4,70 na loja, com mais de mil comentários."
         ],
@@ -134839,7 +134839,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cardigã esportivo slim DAZY",
         "bullets": [
-          "Preço: R$ 45,49 (de R$ 65,99, -31%).",
+          "Preço: R$ 62,24 (de R$ 67,90, -8%).",
           "Tamanhos: XPP a P e Petite.",
           "Nota 4,78 na loja, com mais de mil comentários."
         ],
@@ -134880,12 +134880,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Short estampado clochard",
         "bullets": [
-          "Preço: R$ 16,45 (de R$ 46,99, -65%).",
+          "Preço: R$ 45,11 (de R$ 46,99, -4%).",
           "Tamanhos: XPP a EG, e também Plus.",
           "Nota 4,88 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "É o short de cintura clochard para quem quer uma peça barata de verão e férias. É a roupa mais barata da seleção e a de maior desconto."
+          "É o short de cintura clochard para quem quer uma peça de verão e férias."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -134917,7 +134917,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calça jeans pantalona com cintura elástica",
         "bullets": [
-          "Preço: R$ 131,96 (de R$ 164,95, -20%).",
+          "Preço: R$ 161,65 (de R$ 164,95, -2%).",
           "Tamanhos: PP a G.",
           "Nota 4,31 na loja, com 48 comentários."
         ],
@@ -134964,7 +134964,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Scarpin slingback branco e caramelo",
         "bullets": [
-          "Preço: R$ 62,03 (de R$ 99,70, -38%).",
+          "Preço: R$ 68,32 (de R$ 99,70, -31%).",
           "Tamanhos: BR34 a BR39.",
           "Nota 4,82 na loja, com mais de 100 comentários."
         ],
@@ -135002,7 +135002,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brincos de laço com pérola e coração",
         "bullets": [
-          "Preço: R$ 11,12 (de R$ 13,90, -20%).",
+          "Preço: R$ 13,90.",
           "Tamanho: único.",
           "Nota 4,92 na loja, com mais de mil comentários."
         ],
@@ -135031,12 +135031,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de relógio verde com pulseira, colar e brincos",
         "bullets": [
-          "Preço: R$ 27,19 (de R$ 33,99, -20%).",
+          "Preço: R$ 33,55 (de R$ 34,95, -4%).",
           "Tamanho: único.",
           "Nota 4,75 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "É um kit de 9 peças com relógio verde, pulseira, colar e brincos, que a loja indica para o uso diário ou como presente. Serve para quem quer montar um conjunto de uma vez por menos de R$ 30."
+          "É um kit de 9 peças com relógio verde, pulseira, colar e brincos, que a loja indica para o uso diário ou como presente. Serve para quem quer montar um conjunto de uma vez."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
@@ -135065,7 +135065,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,88 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "É um óculos de armação poligonal e lente degradê, em 6 cores. Serve para quem quer um óculos de sol para dirigir e viajar; o desconto aqui é pequeno."
+          "É um óculos de armação poligonal e lente degradê, em 6 cores. Serve para quem quer um óculos de sol para dirigir e viajar."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -135095,7 +135095,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camiseta Henley azul-marinho com textura de linho",
         "bullets": [
-          "Preço: a partir de R$ 49,52 (de R$ 61,90, -20%).",
+          "Preço: a partir de R$ 61,90.",
           "Tamanhos: PP a EEGG.",
           "Nota 4,61 na loja, com mais de 500 comentários."
         ],
@@ -135136,12 +135136,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de short de linho",
         "bullets": [
-          "Preço: R$ 47,32 (de R$ 99,90, -53%).",
+          "Preço: R$ 51,51 (de R$ 99,90, -48%).",
           "Tamanhos: P a GG.",
           "Nota 4,76 na loja, com 34 comentários."
         ],
         "paragraphs": [
-          "É um kit de short de linho em cores variadas, para quem quer renovar o básico de verão de uma vez. A página não diz quantas peças vêm no kit: confira antes de comprar."
+          "É um kit de short de linho em cores variadas, para quem quer renovar o básico de verão de uma vez. É a peça de maior desconto da seleção. A página não diz quantas peças vêm no kit: confira antes de comprar."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
@@ -135177,7 +135177,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisa masculina de manga longa Manfinity Mode",
         "bullets": [
-          "Preço: a partir de R$ 71,16 (de R$ 88,95, -20%).",
+          "Preço: a partir de R$ 86,28 (de R$ 88,95, -3%).",
           "Tamanhos: PP a EG.",
           "Nota 4,86 na loja, com mais de mil comentários."
         ],
@@ -135217,7 +135217,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Regata preta estonada de caimento solto",
         "bullets": [
-          "Preço: R$ 67,99 (de R$ 84,99, -20%).",
+          "Preço: R$ 81,80 (de R$ 84,99, -4%, em Oferta Relâmpago).",
           "Tamanhos: P a EG, e também Plus.",
           "Nota 4,73 na loja, com mais de 500 comentários."
         ],
@@ -135257,7 +135257,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de comprar",
         "bullets": [
-          "**Preço muda todo dia:** o preço e o desconto de cada peça são os do dia da publicação. A SHEIN muda os preços durante a campanha, e \"a partir de\" quer dizer que o preço muda por cor ou tamanho.",
+          "**Preço muda todo dia:** o preço e o desconto de cada peça são os do dia da atualização. A SHEIN muda os preços durante a campanha, e \"a partir de\" quer dizer que o preço muda por cor ou tamanho.",
           "**Tamanho:** se você está entre dois tamanhos, confira a tabela de medidas da peça antes de escolher, porque a grade muda de peça para peça.",
           "**O 4CW5Y dá desconto, sim, mas não é cupom:** abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, sem colar no checkout. Quanto e em quais peças, a SHEIN decide. Veja o [código de indicação SHEIN](/reviews/codigo-de-indicacao-shein) e a [página da SHEIN](/cupons/shein), com o link principal da loja.",
           "**Vai esperar a Black Friday?** O guia da [Black Friday SHEIN](/reviews/black-friday-shein) traz o que já se sabe da campanha de novembro.",
@@ -135268,7 +135268,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Até quando vai a 11.11 da SHEIN? Termina no dia seguinte ao 11.11, segundo a SHEIN; a data está na resposta rápida acima.",
-          "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da publicação, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
+          "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da atualização, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
           "O 4CW5Y é cupom? Não, mas dá desconto, sim. É o código de indicação da SHEIN: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site para chegar a uma seleção com promoções e descontos; ele não se cola no checkout.",
           "Os links levam direto à peça? Sim. A foto e o card de cada peça abrem a página dela dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
         ]
@@ -135280,8 +135280,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-sale-picks",
     "locale": "en",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: Cecília's 19 picks, from pajamas to accessories (until November 12)",
-    "seoTitle": "SHEIN 11.11 2026: 19 picks with discounts and ratings",
+    "title": "SHEIN 11.11: Cecília's 19 picks, from pajamas to accessories",
+    "seoTitle": "SHEIN 11.11 2026: Cecília's 19 picks with store ratings",
     "type": "Guide & Coupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -135297,8 +135297,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN advertises up to 85% off in the 11.11 Mega Sale, and Cecília picked 19 pieces in 5 groups, from pajamas to men's. See each piece's discount, rating and direct link.",
-    "metaDescription": "SHEIN 11.11 until November 12, 2026: 19 pieces picked by Cecília, from pajamas to a men's shirt, with the discount and rating of each piece.",
+    "description": "Cecília picked 19 SHEIN pieces in 5 groups, from pajamas to menswear. See the store ratings, sizes and direct links for each piece.",
+    "metaDescription": "SHEIN 11.11: Cecília's 19 picks, with store ratings and product links. Referral code 4CW5Y opens a selection with promotions and discounts.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage of pieces from SHEIN's 11.11 selection: floral pajamas, a kids' set, a cardigan, pumps and a men's shirt, with the SHEIN logo",
     "imageFit": "contain",
@@ -135306,14 +135306,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "The links in this selection open the pieces of SHEIN's 11.11 Mega Sale, which runs until November 12, 2026. Check the price and the size chart on the product page before placing your order.",
+      "text": "Open SHEIN to check the current offers. Before placing your order, confirm the price and size chart for each piece you choose.",
       "label": "See the picks on SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Cecília's selection, with discounts read on SHEIN on the day of publication; nobody from the site has worn the pieces. We may earn a commission from the links and from the 4CW5Y referral code.",
+    "editorialNote": "Cecília's editorial selection, based on product listings; nobody from the site has worn the pieces. We may earn a commission from the links and from the 4CW5Y referral code.",
     "relatedArticles": [
       {
         "slug": "shein-referral-code-where-to-enter"
@@ -135329,13 +135329,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The store advertises big discounts in the 11.11 Mega Sale, until November 12. Cecília picked 19 pieces in 5 groups: pajamas, kids, women, accessories and men. 4CW5Y does give you a discount: open SHEIN through Cecília's link and search the code in the app or on the site to reach a selection with promotions; SHEIN decides how much and on which pieces."
+          "Cecília picked 19 pieces in 5 groups: pajamas, kids, women, accessories and men. 4CW5Y does give you a discount: open SHEIN through Cecília's link and search the code in the app or on the site to reach a selection with promotions; SHEIN decides how much and on which pieces."
         ]
       },
       {
         "heading": "The 11.11 campaign",
         "paragraphs": [
-          "SHEIN's 11.11 Mega Sale has already started. It is up to 85% off on more than 600,000 products, says SHEIN, and the store is steering shoppers toward the app.",
+          "The 11.11 selection brings together 19 pieces chosen by Cecília. Check SHEIN for the campaign dates and offers available when you shop.",
           "The entry page is [11.11 Global Sale Selections](https://onelink.shein.com/58/66i60wu7xjjd). For the 19 pieces below, the photo and the card open each piece's page inside the campaign.",
           "4CW5Y is SHEIN's referral code, and it does give you a discount: open SHEIN through Cecília's link and search the code in the app or on the site, and it opens a page with a selection of products, promotions and discounts. SHEIN decides how much and on which pieces. It is not a coupon and is not pasted at checkout. The step-by-step is in [SHEIN referral code: how to use 4CW5Y](/en/reviews/shein-referral-code-where-to-enter)."
         ]
@@ -135345,89 +135345,89 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Piece",
-            "Discount"
+            "Store rating"
           ],
           "rows": [
             [
               "[Serenescape floral pajama set](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "-20%"
+              "4.91"
             ],
             [
               "[Striped tank and shorts pajama set with hearts](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-              "—"
+              "4.86"
             ],
             [
               "[3-piece cartoon-print pajama set](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "-20%"
+              "4.95"
             ],
             [
               "[Girls' set with heart tank top and wide-leg pants](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "-20%"
+              "4.88"
             ],
             [
               "[Boys' glow-in-the-dark dinosaur pajamas](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "-4%"
+              "4.36"
             ],
             [
               "[Baby top with chalk-drawn animals](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "-20%"
+              "4.12"
             ],
             [
               "[Boys' long-sleeve pajamas, assorted print](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "-20%"
+              "4.09"
             ],
             [
               "[Blue striped tank and wide-leg pants set](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "-20%"
+              "4.70"
             ],
             [
               "[DAZY sporty slim cardigan](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "-31%"
+              "4.78"
             ],
             [
               "[Printed paperbag-waist shorts](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "-65%"
+              "4.88"
             ],
             [
               "[Wide-leg jeans with elastic waist](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "-20%"
+              "4.31"
             ],
             [
               "[White and caramel slingback pumps](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "-38%"
+              "4.82"
             ],
             [
               "[Bow earrings with pearl and heart](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "-20%"
+              "4.92"
             ],
             [
               "[Green watch set with bracelet, necklace and earrings](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "-20%"
+              "4.75"
             ],
             [
               "[Polygonal gradient-lens sunglasses](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-              "-4%"
+              "4.88"
             ],
             [
               "[Navy Henley T-shirt with linen texture](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "-20%"
+              "4.61"
             ],
             [
               "[Linen shorts kit](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "-53%"
+              "4.76"
             ],
             [
               "[Manfinity Mode men's long-sleeve shirt](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "-20%"
+              "4.86"
             ],
             [
               "[Black washed loose-fit tank top](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "-20%"
+              "4.73"
             ]
           ]
         },
         "paragraphs": [
-          "Discounts as of October 28, 2026, on each piece's page."
+          "The table brings together the 19 pieces and the store ratings recorded for this selection. Check each product page for the current price and any discount."
         ]
       },
       {
@@ -135439,7 +135439,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Serenescape floral pajama set",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Rating 4.91 in the store, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -135499,7 +135498,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3-piece cartoon-print pajama set",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Rating 4.95 in the store, with more than a thousand reviews, the highest in the selection."
         ],
         "paragraphs": [
@@ -135533,7 +135531,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Girls' set with heart tank top and wide-leg pants",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Sizes: 4 to 7 years; the store also has 8 to 12 years.",
           "Rating 4.88 in the store, with more than a thousand reviews."
         ],
@@ -135570,7 +135567,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Boys' glow-in-the-dark dinosaur pajamas",
         "bullets": [
-          "Discount on the product page: -4%.",
           "Sizes: 4 to 7 years.",
           "Rating 4.36 in the store, with 83 reviews."
         ],
@@ -135599,7 +135595,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Baby top with chalk-drawn animals",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Sizes: 6 months to 3 years.",
           "Rating 4.12 in the store, with more than a thousand reviews."
         ],
@@ -135636,7 +135631,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Boys' long-sleeve pajamas, assorted print",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Sizes: 9 months to 7 years.",
           "Rating 4.09 in the store, with 62 reviews."
         ],
@@ -135665,13 +135659,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Women",
         "paragraphs": [
-          "Four women's pieces for everyday: a set, a cardigan, shorts and jeans. The biggest discount in the selection is here, on the printed shorts."
+          "Four women's pieces for everyday: a set, a cardigan, shorts and jeans."
         ]
       },
       {
         "heading": "Blue striped tank and wide-leg pants set",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Rating 4.70 in the store, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -135711,7 +135704,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "DAZY sporty slim cardigan",
         "bullets": [
-          "Discount on the product page: -31%.",
           "Rating 4.78 in the store, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -135751,11 +135743,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Printed paperbag-waist shorts",
         "bullets": [
-          "Discount on the product page: -65%.",
           "Rating 4.88 in the store, with more than a thousand reviews."
         ],
         "paragraphs": [
-          "They are paperbag-waist shorts for anyone who wants an inexpensive summer and holiday piece. They carry the biggest discount in the selection."
+          "They are paperbag-waist shorts for anyone who wants a summer and holiday piece."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -135787,7 +135778,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wide-leg jeans with elastic waist",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Rating 4.31 in the store, with 48 reviews."
         ],
         "paragraphs": [
@@ -135833,7 +135823,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "White and caramel slingback pumps",
         "bullets": [
-          "Discount on the product page: -38%.",
           "Rating 4.82 in the store, with more than 100 reviews."
         ],
         "paragraphs": [
@@ -135870,7 +135859,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Bow earrings with pearl and heart",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Size: one size.",
           "Rating 4.92 in the store, with more than a thousand reviews."
         ],
@@ -135899,7 +135887,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Green watch set with bracelet, necklace and earrings",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Size: one size.",
           "Rating 4.75 in the store, with more than a thousand reviews."
         ],
@@ -135928,12 +135915,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Polygonal gradient-lens sunglasses",
         "bullets": [
-          "Discount on the product page: -4%.",
           "Sizes: none; you only choose the color.",
           "Rating 4.88 in the store, with more than a thousand reviews."
         ],
         "paragraphs": [
-          "Sunglasses with a polygonal frame and gradient lenses, in 6 colors. They suit anyone who wants sunglasses for driving and traveling; the discount here is small."
+          "Sunglasses with a polygonal frame and gradient lenses, in 6 colors. They suit anyone who wants sunglasses for driving and traveling."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -135963,7 +135949,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Navy Henley T-shirt with linen texture",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Rating 4.61 in the store, with more than 500 reviews."
         ],
         "paragraphs": [
@@ -136003,7 +135988,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Linen shorts kit",
         "bullets": [
-          "Discount on the product page: -53%.",
           "Rating 4.76 in the store, with 34 reviews."
         ],
         "paragraphs": [
@@ -136043,7 +136027,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Manfinity Mode men's long-sleeve shirt",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Rating 4.86 in the store, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -136082,7 +136065,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Black washed loose-fit tank top",
         "bullets": [
-          "Discount on the product page: -20%.",
           "Rating 4.73 in the store, with more than 500 reviews."
         ],
         "paragraphs": [
@@ -136121,7 +136103,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Before you buy",
         "bullets": [
-          "**The discount changes every day:** each piece's discount is the one from the day of publication, and SHEIN changes the offers during the campaign.",
+          "**Prices and offers can change:** check the price and any discount on the product page before placing your order.",
           "**Size:** if you are between two sizes, check the piece's size chart before choosing, because the sizing changes from piece to piece.",
           "**4CW5Y does give you a discount, but it is not a coupon:** open SHEIN through Cecília's link and search the code in the app or on the site, and do not paste it at checkout. SHEIN decides how much and on which pieces. See the [SHEIN referral code](/en/reviews/shein-referral-code-where-to-enter) and the [SHEIN page](/en/coupons/shein), with the store's main link.",
           "**Waiting for Black Friday?** The [SHEIN Black Friday](/en/reviews/shein-black-friday-dates-taxes) guide covers what is already known about the November campaign.",
@@ -136131,8 +136113,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Until when does SHEIN 11.11 run? It ends the day after 11.11, according to SHEIN; the date is in the quick answer above.",
-          "Can the discount on the pieces change? Yes. The discounts in this guide are the ones from the day of publication, and SHEIN changes the offers during the campaign.",
+          "When does SHEIN's 11.11 sale end? Check the campaign currently displayed on SHEIN for its end date.",
+          "Can prices and discounts change? Yes. Check the price and any discount on the product page before placing your order.",
           "Is 4CW5Y a coupon? No, but it does give you a discount. It is SHEIN's referral code: open SHEIN through Cecília's link and search the code in the app or on the site to reach a selection with promotions and discounts; it is not pasted at checkout.",
           "Do the links go straight to the piece? Yes. The photo and the card of each piece open its page inside the 11.11 campaign, and the campaign link opens the Global Sale Selections page."
         ]
@@ -136144,8 +136126,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-seleccion-ofertas",
     "locale": "es",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: los 19 hallazgos de la selección de Cecília, de pijamas a accesorios (hasta el 12/11)",
-    "seoTitle": "SHEIN 11.11 2026: 19 hallazgos con descuento y nota",
+    "title": "SHEIN 11.11: los 19 hallazgos de la selección de Cecília, de pijamas a accesorios",
+    "seoTitle": "SHEIN 11.11 2026: 19 hallazgos con notas de la tienda",
     "type": "Guía & Cupones",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -136161,8 +136143,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN anuncia hasta un 85 % de descuento en la Mega Promoción 11.11, y Cecília eligió 19 prendas en 5 grupos. Mira el descuento, la nota y el enlace de cada prenda.",
-    "metaDescription": "SHEIN 11.11 hasta el 12/11/2026: 19 prendas elegidas por Cecília, de pijamas a camisa de hombre, con el descuento y la nota de cada prenda.",
+    "description": "Cecília eligió 19 artículos de SHEIN en 5 grupos, de pijamas a moda masculina. Consulta las notas de la tienda, las tallas y los enlaces de cada artículo.",
+    "metaDescription": "SHEIN 11.11: 19 artículos elegidos por Cecília, con notas y enlaces. El código de referido 4CW5Y abre una selección con promociones y descuentos.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage con prendas de la selección 11.11 de SHEIN: pijama floral, conjunto infantil, cárdigan, zapatos de salón y camisa de hombre, con el logo de SHEIN",
     "imageFit": "contain",
@@ -136170,14 +136152,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Los enlaces de esta selección llevan a las prendas de la Mega Promoción 11.11 de SHEIN, que dura hasta el 12/11/2026. Revisa el precio y la tabla de tallas en la ficha antes de cerrar el pedido.",
+      "text": "Abre SHEIN para consultar las ofertas actuales. Antes de hacer el pedido, confirma el precio y la tabla de tallas de cada artículo que elijas.",
       "label": "Ver la selección en SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Selección de Cecília, con descuentos leídos en SHEIN el día de la publicación; nadie del sitio usó las prendas. Podemos recibir comisión por los enlaces y por el código de referido 4CW5Y.",
+    "editorialNote": "Selección editorial de Cecília basada en las fichas de producto; nadie del sitio usó las prendas. Podemos recibir comisión por los enlaces y por el código de referido 4CW5Y.",
     "relatedArticles": [
       {
         "slug": "codigo-de-referido-shein-donde-ponerlo"
@@ -136193,13 +136175,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "La tienda anuncia grandes descuentos en la Mega Promoción 11.11, hasta el 12 de noviembre. Cecília eligió 19 prendas en 5 grupos: pijamas, infantil, mujer, accesorios y hombre. El 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o el sitio para llegar a una selección con promociones; cuánto y en qué prendas, lo decide SHEIN."
+          "Cecília eligió 19 prendas en 5 grupos: pijamas, infantil, mujer, accesorios y hombre. El 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o el sitio para llegar a una selección con promociones; cuánto y en qué prendas, lo decide SHEIN."
         ]
       },
       {
         "heading": "La campaña 11.11",
         "paragraphs": [
-          "La Mega Promoción 11.11 de SHEIN ya empezó. Hay hasta un 85 % de descuento en más de 600 mil productos, según SHEIN, y la tienda dirige la campaña a la app.",
+          "La selección del 11.11 reúne 19 artículos elegidos por Cecília. Consulta en SHEIN las fechas y ofertas de la campaña que aparezca al comprar.",
           "La página de entrada es la de [Selecciones de Ventas Globales del 11.11](https://onelink.shein.com/58/66i60wu7xjjd). En las 19 prendas de abajo, la foto y la tarjeta abren la página de cada una dentro de la campaña.",
           "El 4CW5Y es el código de referido de SHEIN y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, y se abre una página con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN. No es un cupón y no se pega en el checkout. El paso a paso está en [Código de referido de SHEIN: cómo usar el 4CW5Y](/es/reviews/codigo-de-referido-shein-donde-ponerlo)."
         ]
@@ -136209,89 +136191,89 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Prenda",
-            "Descuento"
+            "Nota en la tienda"
           ],
           "rows": [
             [
               "[Pijama floral Serenescape](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "-20 %"
+              "4,91"
             ],
             [
               "[Pijama de tirantes y short a rayas con corazones](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-              "—"
+              "4,86"
             ],
             [
               "[Pijama de 3 piezas con estampado de dibujos animados](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "-20 %"
+              "4,95"
             ],
             [
               "[Conjunto de niña con camiseta de tirantes de corazón y pantalón ancho](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "-20 %"
+              "4,88"
             ],
             [
               "[Pijama de niño con dinosaurio que brilla en la oscuridad](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "-4 %"
+              "4,36"
             ],
             [
               "[Camiseta de bebé con animales dibujados a tiza](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "-20 %"
+              "4,12"
             ],
             [
               "[Pijama de niño de manga larga, estampado surtido](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "-20 %"
+              "4,09"
             ],
             [
               "[Conjunto de rayas azules con camiseta de tirantes y pantalón ancho](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "-20 %"
+              "4,70"
             ],
             [
               "[Cárdigan deportivo slim DAZY](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "-31 %"
+              "4,78"
             ],
             [
               "[Short estampado con cintura paperbag](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "-65 %"
+              "4,88"
             ],
             [
               "[Vaqueros anchos con cintura elástica](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "-20 %"
+              "4,31"
             ],
             [
               "[Zapatos de salón destalonados blancos y caramelo](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "-38 %"
+              "4,82"
             ],
             [
               "[Pendientes de lazo con perla y corazón](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "-20 %"
+              "4,92"
             ],
             [
               "[Kit de reloj verde con pulsera, collar y pendientes](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "-20 %"
+              "4,75"
             ],
             [
               "[Gafas de sol de lente degradada poligonal](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-              "-4 %"
+              "4,88"
             ],
             [
               "[Camiseta Henley azul marino con textura de lino](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "-20 %"
+              "4,61"
             ],
             [
               "[Kit de shorts de lino](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "-53 %"
+              "4,76"
             ],
             [
               "[Camisa masculina de manga larga Manfinity Mode](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "-20 %"
+              "4,86"
             ],
             [
               "[Camiseta de tirantes negra lavada de corte suelto](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "-20 %"
+              "4,73"
             ]
           ]
         },
         "paragraphs": [
-          "Descuentos del 28/10/2026, en la página de cada prenda."
+          "La tabla reúne los 19 artículos y las notas de la tienda registradas para esta selección. Consulta el precio actual y los posibles descuentos en la ficha de cada artículo."
         ]
       },
       {
@@ -136303,7 +136285,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama floral Serenescape",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Nota 4,91 en la tienda, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -136363,7 +136344,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de 3 piezas con estampado de dibujos animados",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Nota 4,95 en la tienda, con más de mil comentarios, la más alta de la selección."
         ],
         "paragraphs": [
@@ -136397,7 +136377,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conjunto de niña con camiseta de tirantes de corazón y pantalón ancho",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Tallas: de 4 a 7 años; la tienda también tiene de 8 a 12 años.",
           "Nota 4,88 en la tienda, con más de mil comentarios."
         ],
@@ -136434,7 +136413,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de niño con dinosaurio que brilla en la oscuridad",
         "bullets": [
-          "Descuento en la ficha: -4 %.",
           "Tallas: de 4 a 7 años.",
           "Nota 4,36 en la tienda, con 83 comentarios."
         ],
@@ -136463,7 +136441,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camiseta de bebé con animales dibujados a tiza",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Tallas: de 6 meses a 3 años.",
           "Nota 4,12 en la tienda, con más de mil comentarios."
         ],
@@ -136500,7 +136477,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de niño de manga larga, estampado surtido",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Tallas: de 9 meses a 7 años.",
           "Nota 4,09 en la tienda, con 62 comentarios."
         ],
@@ -136529,13 +136505,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mujer",
         "paragraphs": [
-          "Cuatro prendas femeninas para el día a día: un conjunto, un cárdigan, un short y unos vaqueros. Aquí está el mayor descuento de la selección, en el short estampado."
+          "Cuatro prendas femeninas para el día a día: un conjunto, un cárdigan, un short y unos vaqueros."
         ]
       },
       {
         "heading": "Conjunto de rayas azules con camiseta de tirantes y pantalón ancho",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Nota 4,70 en la tienda, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -136575,7 +136550,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cárdigan deportivo slim DAZY",
         "bullets": [
-          "Descuento en la ficha: -31 %.",
           "Nota 4,78 en la tienda, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -136615,11 +136589,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Short estampado con cintura paperbag",
         "bullets": [
-          "Descuento en la ficha: -65 %.",
           "Nota 4,88 en la tienda, con más de mil comentarios."
         ],
         "paragraphs": [
-          "Es el short de cintura paperbag para quien quiere una prenda económica de verano y vacaciones. Es la prenda con el mayor descuento de la selección."
+          "Es el short de cintura paperbag para quien quiere una prenda de verano y vacaciones."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -136651,7 +136624,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vaqueros anchos con cintura elástica",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Nota 4,31 en la tienda, con 48 comentarios."
         ],
         "paragraphs": [
@@ -136697,7 +136669,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Zapatos de salón destalonados blancos y caramelo",
         "bullets": [
-          "Descuento en la ficha: -38 %.",
           "Nota 4,82 en la tienda, con más de 100 comentarios."
         ],
         "paragraphs": [
@@ -136734,7 +136705,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pendientes de lazo con perla y corazón",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Talla: única.",
           "Nota 4,92 en la tienda, con más de mil comentarios."
         ],
@@ -136763,7 +136733,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de reloj verde con pulsera, collar y pendientes",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Talla: única.",
           "Nota 4,75 en la tienda, con más de mil comentarios."
         ],
@@ -136792,12 +136761,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gafas de sol de lente degradada poligonal",
         "bullets": [
-          "Descuento en la ficha: -4 %.",
           "Tallas: no hay; solo se elige el color.",
           "Nota 4,88 en la tienda, con más de mil comentarios."
         ],
         "paragraphs": [
-          "Son unas gafas de montura poligonal y lente degradada, en 6 colores. Sirven para quien quiere gafas de sol para conducir y viajar; el descuento aquí es pequeño."
+          "Son unas gafas de montura poligonal y lente degradada, en 6 colores. Sirven para quien quiere gafas de sol para conducir y viajar."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -136827,7 +136795,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camiseta Henley azul marino con textura de lino",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Nota 4,61 en la tienda, con más de 500 comentarios."
         ],
         "paragraphs": [
@@ -136867,7 +136834,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de shorts de lino",
         "bullets": [
-          "Descuento en la ficha: -53 %.",
           "Nota 4,76 en la tienda, con 34 comentarios."
         ],
         "paragraphs": [
@@ -136907,7 +136873,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisa masculina de manga larga Manfinity Mode",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Nota 4,86 en la tienda, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -136946,7 +136911,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camiseta de tirantes negra lavada de corte suelto",
         "bullets": [
-          "Descuento en la ficha: -20 %.",
           "Nota 4,73 en la tienda, con más de 500 comentarios."
         ],
         "paragraphs": [
@@ -136985,7 +136949,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de comprar",
         "bullets": [
-          "**El descuento cambia todos los días:** el descuento de cada prenda es el del día de la publicación, y SHEIN cambia las ofertas durante la campaña.",
+          "**Los precios y las ofertas pueden cambiar:** consulta el precio y los posibles descuentos en la ficha antes de hacer el pedido.",
           "**Talla:** si estás entre dos tallas, mira la tabla de medidas de la prenda antes de elegir, porque la talla cambia de una prenda a otra.",
           "**El 4CW5Y sí da descuento, pero no es un cupón:** abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, sin pegarlo en el checkout. Cuánto y en qué prendas lo decide SHEIN. Mira el [código de referido de SHEIN](/es/reviews/codigo-de-referido-shein-donde-ponerlo) y la [página de SHEIN](/es/coupons/shein), con el enlace principal de la tienda.",
           "**¿Vas a esperar al Black Friday?** La guía del [Black Friday de SHEIN](/es/reviews/black-friday-shein-fechas-impuestos) recoge lo que ya se sabe de la campaña de noviembre.",
@@ -136995,8 +136959,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Hasta cuándo va el 11.11 de SHEIN? Termina el día siguiente al 11.11, según SHEIN; la fecha está en la respuesta rápida de arriba.",
-          "¿Puede cambiar el descuento de las prendas? Sí. Los descuentos de esta guía son los del día de la publicación, y SHEIN cambia las ofertas durante la campaña.",
+          "¿Cuándo termina el 11.11 de SHEIN? Consulta la fecha de cierre de la campaña que aparezca en SHEIN al entrar.",
+          "¿Pueden cambiar los precios y descuentos? Sí. Consulta el precio y los posibles descuentos en la ficha antes de hacer el pedido.",
           "¿El 4CW5Y es un cupón? No, pero sí da descuento. Es el código de referido de SHEIN: abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio para llegar a una selección con promociones y descuentos; no se pega en el checkout.",
           "¿Los enlaces llevan directo a la prenda? Sí. La foto y la tarjeta de cada prenda abren su página dentro de la campaña 11.11, y el enlace de la campaña abre la página de Selecciones de Ventas Globales."
         ]
@@ -137008,8 +136972,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-selection-promos",
     "locale": "fr",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11 : les 19 trouvailles de la sélection de Cecília, du pyjama aux accessoires (jusqu'au 12/11)",
-    "seoTitle": "SHEIN 11.11 2026 : 19 trouvailles avec remise et note",
+    "title": "SHEIN 11.11 : les 19 trouvailles de la sélection de Cecília, du pyjama aux accessoires",
+    "seoTitle": "SHEIN 11.11 2026 : 19 trouvailles et leurs notes en boutique",
     "type": "Guide & Coupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -137025,8 +136989,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN annonce jusqu'à 85 % de remise pendant la Méga Promotion 11.11, et Cecília a choisi 19 pièces en 5 groupes. Voyez la remise, la note et le lien de chaque pièce.",
-    "metaDescription": "SHEIN 11.11 jusqu'au 12/11/2026 : 19 pièces choisies par Cecília, du pyjama à la chemise homme, avec la remise et la note de chaque pièce.",
+    "description": "Cecília a choisi 19 pièces SHEIN en 5 groupes, du pyjama à la mode homme. Consultez les notes de la boutique, les tailles et les liens de chaque pièce.",
+    "metaDescription": "SHEIN 11.11 : 19 pièces choisies par Cecília, avec notes et liens. Le code de parrainage 4CW5Y ouvre une sélection de promotions et de remises.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage de pièces de la sélection 11.11 de SHEIN : pyjama fleuri, ensemble enfant, cardigan, escarpin et chemise homme, avec le logo de SHEIN",
     "imageFit": "contain",
@@ -137034,14 +136998,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Les liens de cette sélection mènent aux pièces de la Méga Promotion 11.11 de SHEIN, qui dure jusqu'au 12/11/2026. Vérifiez le prix et le guide des tailles sur la fiche avant de valider la commande.",
+      "text": "Ouvrez SHEIN pour consulter les offres actuelles. Avant de passer commande, vérifiez le prix et le guide des tailles de chaque pièce choisie.",
       "label": "Voir la sélection sur SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Sélection de Cecília, avec des remises relevées sur SHEIN le jour de la publication ; personne du site n'a porté les pièces. Nous pouvons toucher une commission sur les liens et sur le code de parrainage 4CW5Y.",
+    "editorialNote": "Sélection éditoriale de Cecília à partir des fiches produit ; personne du site n'a porté les pièces. Nous pouvons toucher une commission sur les liens et sur le code de parrainage 4CW5Y.",
     "relatedArticles": [
       {
         "slug": "code-de-parrainage-shein-ou-le-mettre"
@@ -137057,13 +137021,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La boutique annonce de grosses remises pendant la Méga Promotion 11.11, jusqu'au 12 novembre. Cecília a choisi 19 pièces en 5 groupes : pyjamas, enfant, femme, accessoires et homme. Le 4CW5Y donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site pour arriver sur une sélection avec promotions ; SHEIN décide du montant et des pièces."
+          "Cecília a choisi 19 pièces en 5 groupes : pyjamas, enfant, femme, accessoires et homme. Le 4CW5Y donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site pour arriver sur une sélection avec promotions ; SHEIN décide du montant et des pièces."
         ]
       },
       {
         "heading": "La campagne 11.11",
         "paragraphs": [
-          "La Méga Promotion 11.11 de SHEIN a déjà commencé. Elle va jusqu'à 85 % de remise sur plus de 600 000 produits, d'après SHEIN, et la boutique dirige la campagne vers l'appli.",
+          "La sélection du 11.11 réunit 19 pièces choisies par Cecília. Consultez SHEIN pour connaître les dates et les offres de la campagne affichée lors de votre visite.",
           "La page d'entrée est celle des [Sélections des ventes mondiales du 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Pour les 19 pièces ci-dessous, la photo et la carte ouvrent la page de chacune dans la campagne.",
           "Le 4CW5Y est le code de parrainage de SHEIN et il donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site, et il ouvre une page avec une sélection de produits, de promotions et de remises. SHEIN décide du montant et des pièces concernées. Ce n'est pas un coupon et on ne le colle pas au paiement. Le pas à pas est dans [Code de parrainage SHEIN : comment utiliser le 4CW5Y](/fr/reviews/code-de-parrainage-shein-ou-le-mettre)."
         ]
@@ -137073,89 +137037,89 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Pièce",
-            "Remise"
+            "Note dans la boutique"
           ],
           "rows": [
             [
               "[Pyjama fleuri Serenescape](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "-20 %"
+              "4,91"
             ],
             [
               "[Pyjama débardeur et short rayé avec des cœurs](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-              "—"
+              "4,86"
             ],
             [
               "[Pyjama 3 pièces à imprimé dessin animé](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "-20 %"
+              "4,95"
             ],
             [
               "[Ensemble fille avec débardeur cœur et pantalon large](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "-20 %"
+              "4,88"
             ],
             [
               "[Pyjama garçon avec dinosaure qui brille dans le noir](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "-4 %"
+              "4,36"
             ],
             [
               "[Haut bébé avec animaux dessinés à la craie](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "-20 %"
+              "4,12"
             ],
             [
               "[Pyjama garçon à manches longues, imprimé assorti](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "-20 %"
+              "4,09"
             ],
             [
               "[Ensemble rayé bleu débardeur et pantalon large](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "-20 %"
+              "4,70"
             ],
             [
               "[Cardigan sport slim DAZY](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "-31 %"
+              "4,78"
             ],
             [
               "[Short imprimé à taille paperbag](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "-65 %"
+              "4,88"
             ],
             [
               "[Jean large à taille élastique](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "-20 %"
+              "4,31"
             ],
             [
               "[Escarpins slingback blancs et caramel](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "-38 %"
+              "4,82"
             ],
             [
               "[Boucles d'oreilles nœud avec perle et cœur](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "-20 %"
+              "4,92"
             ],
             [
               "[Kit montre verte avec bracelet, collier et boucles d'oreilles](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "-20 %"
+              "4,75"
             ],
             [
               "[Lunettes à verres dégradés polygonales](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-              "-4 %"
+              "4,88"
             ],
             [
               "[T-shirt Henley bleu marine effet lin](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "-20 %"
+              "4,61"
             ],
             [
               "[Kit de shorts en lin](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "-53 %"
+              "4,76"
             ],
             [
               "[Chemise homme à manches longues Manfinity Mode](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "-20 %"
+              "4,86"
             ],
             [
               "[Débardeur noir délavé de coupe ample](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "-20 %"
+              "4,73"
             ]
           ]
         },
         "paragraphs": [
-          "Remises du 28/10/2026, sur la page de chaque pièce."
+          "Le tableau réunit les 19 pièces et les notes de la boutique relevées pour cette sélection. Consultez le prix actuel et les remises éventuelles sur chaque fiche produit."
         ]
       },
       {
@@ -137167,7 +137131,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pyjama fleuri Serenescape",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Note 4,91 sur la boutique, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -137227,7 +137190,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pyjama 3 pièces à imprimé dessin animé",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Note 4,95 sur la boutique, avec plus de mille avis, la plus haute de la sélection."
         ],
         "paragraphs": [
@@ -137261,7 +137223,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ensemble fille avec débardeur cœur et pantalon large",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Tailles : de 4 à 7 ans ; la boutique propose aussi de 8 à 12 ans.",
           "Note 4,88 sur la boutique, avec plus de mille avis."
         ],
@@ -137298,7 +137259,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pyjama garçon avec dinosaure qui brille dans le noir",
         "bullets": [
-          "Remise sur la fiche : -4 %.",
           "Tailles : de 4 à 7 ans.",
           "Note 4,36 sur la boutique, avec 83 avis."
         ],
@@ -137327,7 +137287,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Haut bébé avec animaux dessinés à la craie",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Tailles : de 6 mois à 3 ans.",
           "Note 4,12 sur la boutique, avec plus de mille avis."
         ],
@@ -137364,7 +137323,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pyjama garçon à manches longues, imprimé assorti",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Tailles : de 9 mois à 7 ans.",
           "Note 4,09 sur la boutique, avec 62 avis."
         ],
@@ -137393,13 +137351,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Femme",
         "paragraphs": [
-          "Quatre pièces pour femme au quotidien : un ensemble, un cardigan, un short et un jean. La plus forte remise de la sélection est ici, sur le short imprimé."
+          "Quatre pièces pour femme au quotidien : un ensemble, un cardigan, un short et un jean."
         ]
       },
       {
         "heading": "Ensemble rayé bleu débardeur et pantalon large",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Note 4,70 sur la boutique, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -137439,7 +137396,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cardigan sport slim DAZY",
         "bullets": [
-          "Remise sur la fiche : -31 %.",
           "Note 4,78 sur la boutique, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -137479,11 +137435,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Short imprimé à taille paperbag",
         "bullets": [
-          "Remise sur la fiche : -65 %.",
           "Note 4,88 sur la boutique, avec plus de mille avis."
         ],
         "paragraphs": [
-          "C'est le short à taille paperbag pour qui veut une pièce d'été et de vacances économique. C'est la pièce avec la plus forte remise de la sélection."
+          "C'est le short à taille paperbag pour qui veut une pièce d'été et de vacances."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -137515,7 +137470,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Jean large à taille élastique",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Note 4,31 sur la boutique, avec 48 avis."
         ],
         "paragraphs": [
@@ -137561,7 +137515,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Escarpins slingback blancs et caramel",
         "bullets": [
-          "Remise sur la fiche : -38 %.",
           "Note 4,82 sur la boutique, avec plus de 100 avis."
         ],
         "paragraphs": [
@@ -137598,7 +137551,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Boucles d'oreilles nœud avec perle et cœur",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Taille : unique.",
           "Note 4,92 sur la boutique, avec plus de mille avis."
         ],
@@ -137627,7 +137579,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit montre verte avec bracelet, collier et boucles d'oreilles",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Taille : unique.",
           "Note 4,75 sur la boutique, avec plus de mille avis."
         ],
@@ -137656,12 +137607,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lunettes à verres dégradés polygonales",
         "bullets": [
-          "Remise sur la fiche : -4 %.",
           "Tailles : aucune ; on choisit seulement la couleur.",
           "Note 4,88 sur la boutique, avec plus de mille avis."
         ],
         "paragraphs": [
-          "Ce sont des lunettes à monture polygonale et verres dégradés, en 6 couleurs. Elles conviennent à qui veut des lunettes de soleil pour conduire et voyager ; la remise est petite ici."
+          "Ce sont des lunettes à monture polygonale et verres dégradés, en 6 couleurs. Elles conviennent à qui veut des lunettes de soleil pour conduire et voyager."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -137691,7 +137641,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "T-shirt Henley bleu marine effet lin",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Note 4,61 sur la boutique, avec plus de 500 avis."
         ],
         "paragraphs": [
@@ -137731,7 +137680,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de shorts en lin",
         "bullets": [
-          "Remise sur la fiche : -53 %.",
           "Note 4,76 sur la boutique, avec 34 avis."
         ],
         "paragraphs": [
@@ -137771,7 +137719,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chemise homme à manches longues Manfinity Mode",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Note 4,86 sur la boutique, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -137810,7 +137757,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Débardeur noir délavé de coupe ample",
         "bullets": [
-          "Remise sur la fiche : -20 %.",
           "Note 4,73 sur la boutique, avec plus de 500 avis."
         ],
         "paragraphs": [
@@ -137849,7 +137795,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avant d'acheter",
         "bullets": [
-          "**La remise change tous les jours :** la remise de chaque pièce est celle du jour de la publication, et SHEIN change les offres pendant la campagne.",
+          "**Les prix et les offres peuvent changer :** consultez le prix et les remises éventuelles sur la fiche produit avant de passer commande.",
           "**Taille :** si vous hésitez entre deux tailles, regardez le guide des tailles de la pièce avant de choisir, parce que les tailles changent d'une pièce à l'autre.",
           "**Le 4CW5Y donne bien une remise, mais ce n'est pas un coupon :** ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site, sans le coller au paiement. SHEIN décide du montant et des pièces concernées. Voir le [code de parrainage SHEIN](/fr/reviews/code-de-parrainage-shein-ou-le-mettre) et la [page SHEIN](/fr/coupons/shein), avec le lien principal de la boutique.",
           "**Vous allez attendre le Black Friday ?** Le guide du [Black Friday SHEIN](/fr/reviews/black-friday-shein-dates-et-taxes) rassemble ce que l'on sait déjà de la campagne de novembre.",
@@ -137859,8 +137805,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Jusqu'à quand va le 11.11 de SHEIN ? Il se termine le lendemain du 11.11, d'après SHEIN ; la date est dans la réponse rapide ci-dessus.",
-          "La remise sur les pièces peut-elle changer ? Oui. Les remises de ce guide sont celles du jour de la publication, et SHEIN change les offres pendant la campagne.",
+          "Quand se termine le 11.11 de SHEIN ? Consultez la date de fin de la campagne qui s'affiche sur SHEIN lors de votre visite.",
+          "Les prix et les remises peuvent-ils changer ? Oui. Consultez le prix et les remises éventuelles sur la fiche produit avant de passer commande.",
           "Le 4CW5Y est-il un coupon ? Non, mais il donne bien une remise. C'est le code de parrainage de SHEIN : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site pour arriver sur une sélection avec promotions et remises ; on ne le colle pas au paiement.",
           "Les liens mènent-ils directement à la pièce ? Oui. La photo et la carte de chaque pièce ouvrent sa page dans la campagne 11.11, et le lien de la campagne ouvre la page des Sélections des ventes mondiales."
         ]
@@ -137872,8 +137818,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-selezione-offerte",
     "locale": "it",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: i 19 articoli scelti da Cecília, dal pigiama agli accessori (fino al 12/11)",
-    "seoTitle": "SHEIN 11.11 2026: 19 articoli con sconto e valutazione",
+    "title": "SHEIN 11.11: i 19 articoli scelti da Cecília, dal pigiama agli accessori",
+    "seoTitle": "SHEIN 11.11 2026: 19 articoli con valutazioni del negozio",
     "type": "Guida e coupon",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -137889,8 +137835,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN annuncia fino all'85% di sconto nella Mega Promozione 11.11, e Cecília ha scelto 19 articoli in 5 gruppi. Scopri sconto, valutazione e link di ciascun articolo.",
-    "metaDescription": "SHEIN 11.11 fino al 12/11/2026: 19 articoli scelti da Cecília, dal pigiama alla camicia da uomo, con sconto e valutazione di ciascuno.",
+    "description": "Cecília ha scelto 19 articoli SHEIN in 5 gruppi, dai pigiami alla moda uomo. Consulta valutazioni, taglie e link diretti di ogni articolo.",
+    "metaDescription": "SHEIN 11.11: 19 articoli scelti da Cecília, con valutazioni e link. Il codice invito 4CW5Y apre una selezione con promozioni e sconti.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage con articoli della selezione 11.11 di SHEIN: pigiama floreale, completo da bambina, cardigan, décolleté e camicia da uomo, con il logo di SHEIN",
     "imageFit": "contain",
@@ -137898,14 +137844,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "I link di questa selezione portano agli articoli della Mega Promozione 11.11 di SHEIN, in corso fino al 12/11/2026. Controlla il prezzo e la tabella delle taglie nella scheda prima di concludere l'ordine.",
+      "text": "Apri SHEIN per consultare le offerte attuali. Prima di completare l'ordine, controlla il prezzo e la tabella delle taglie di ogni articolo scelto.",
       "label": "Vedi la selezione su SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Selezione di Cecília, con sconti letti su SHEIN il giorno della pubblicazione; nessuno del sito ha usato i capi. Possiamo ricevere commissioni dai link e dal codice invito 4CW5Y.",
+    "editorialNote": "Selezione editoriale di Cecília basata sulle schede prodotto; nessuno del sito ha usato i capi. Possiamo ricevere commissioni dai link e dal codice invito 4CW5Y.",
     "relatedArticles": [
       {
         "slug": "codice-invito-shein-dove-inserirlo"
@@ -137921,13 +137867,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il negozio annuncia grandi sconti nella Mega Promozione 11.11, fino al 12 novembre. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Il 4CW5Y dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito per arrivare a una selezione con promozioni; quanto e su quali articoli lo decide SHEIN."
+          "Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Il 4CW5Y dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito per arrivare a una selezione con promozioni; quanto e su quali articoli lo decide SHEIN."
         ]
       },
       {
         "heading": "La campagna 11.11",
         "paragraphs": [
-          "La Mega Promozione 11.11 di SHEIN è già iniziata. Secondo SHEIN, gli sconti arrivano fino all'85% su più di 600 mila prodotti, e il negozio spinge la campagna sull'app.",
+          "La selezione dell'11.11 riunisce 19 articoli scelti da Cecília. Consulta SHEIN per le date e le offerte della campagna visualizzata al momento dell'acquisto.",
           "La pagina di ingresso è quella delle [Selezioni di Vendita Globali dell'11.11](https://onelink.shein.com/58/66i60wu7xjjd). Per i 19 articoli qui sotto, la foto e la scheda aprono la pagina di ciascuno dentro la campagna.",
           "Il 4CW5Y è il codice invito di SHEIN e dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito, e si apre una pagina con una selezione di prodotti, promozioni e sconti. Quanto e su quali articoli lo decide SHEIN. Non è un coupon e non si incolla al checkout. I passaggi sono in [Codice invito SHEIN: come usare il 4CW5Y](/it/reviews/codice-invito-shein-dove-inserirlo)."
         ]
@@ -137937,89 +137883,89 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Articolo",
-            "Sconto"
+            "Valutazione nel negozio"
           ],
           "rows": [
             [
               "[Pigiama floreale Serenescape](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "-20%"
+              "4,91"
             ],
             [
               "[Pigiama canotta e short a righe con cuori](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-              "—"
+              "4,86"
             ],
             [
               "[Pigiama 3 pezzi con stampa cartoon](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "-20%"
+              "4,95"
             ],
             [
               "[Completo da bambina con canotta a cuore e pantalone palazzo](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "-20%"
+              "4,88"
             ],
             [
               "[Pigiama da bambino con dinosauro che si illumina al buio](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "-4%"
+              "4,36"
             ],
             [
               "[Maglia da neonato con animali disegnati a gesso](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "-20%"
+              "4,12"
             ],
             [
               "[Pigiama da bambino a maniche lunghe, stampa assortita](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "-20%"
+              "4,09"
             ],
             [
               "[Completo a righe blu con canotta e pantalone palazzo](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "-20%"
+              "4,70"
             ],
             [
               "[Cardigan sportivo slim DAZY](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "-31%"
+              "4,78"
             ],
             [
               "[Short stampato con vita paperbag](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "-65%"
+              "4,88"
             ],
             [
               "[Jeans palazzo con vita elastica](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "-20%"
+              "4,31"
             ],
             [
               "[Décolleté slingback bianche e cammello](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "-38%"
+              "4,82"
             ],
             [
               "[Orecchini con fiocco, perla e cuore](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "-20%"
+              "4,92"
             ],
             [
               "[Kit con orologio verde, bracciale, collana e orecchini](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "-20%"
+              "4,75"
             ],
             [
               "[Occhiali con lenti sfumate e montatura poligonale](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-              "-4%"
+              "4,88"
             ],
             [
               "[T-shirt Henley blu navy effetto lino](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "-20%"
+              "4,61"
             ],
             [
               "[Kit di short di lino](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "-53%"
+              "4,76"
             ],
             [
               "[Camicia da uomo a maniche lunghe Manfinity Mode](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "-20%"
+              "4,86"
             ],
             [
               "[Canotta nera effetto sbiadito a taglio ampio](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "-20%"
+              "4,73"
             ]
           ]
         },
         "paragraphs": [
-          "Sconti del 28/10/2026, nella scheda di ciascun articolo."
+          "La tabella riunisce i 19 articoli e le valutazioni del negozio registrate per questa selezione. Consulta il prezzo attuale e gli eventuali sconti nella scheda di ogni articolo."
         ]
       },
       {
@@ -138031,7 +137977,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pigiama floreale Serenescape",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Valutazione 4,91 su SHEIN, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -138091,7 +138036,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pigiama 3 pezzi con stampa cartoon",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Valutazione 4,95 su SHEIN, con più di mille recensioni, la più alta della selezione."
         ],
         "paragraphs": [
@@ -138125,7 +138069,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Completo da bambina con canotta a cuore e pantalone palazzo",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Taglie: da 4 a 7 anni; il negozio ha anche da 8 a 12 anni.",
           "Valutazione 4,88 su SHEIN, con più di mille recensioni."
         ],
@@ -138162,7 +138105,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pigiama da bambino con dinosauro che si illumina al buio",
         "bullets": [
-          "Sconto nella scheda: -4%.",
           "Taglie: da 4 a 7 anni.",
           "Valutazione 4,36 su SHEIN, con 83 recensioni."
         ],
@@ -138191,7 +138133,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Maglia da neonato con animali disegnati a gesso",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Taglie: da 6 mesi a 3 anni.",
           "Valutazione 4,12 su SHEIN, con più di mille recensioni."
         ],
@@ -138228,7 +138169,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pigiama da bambino a maniche lunghe, stampa assortita",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Taglie: da 9 mesi a 7 anni.",
           "Valutazione 4,09 su SHEIN, con 62 recensioni."
         ],
@@ -138257,13 +138197,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Donna",
         "paragraphs": [
-          "Quattro capi da donna per ogni giorno: un completo, un cardigan, uno short e un paio di jeans. Qui c'è lo sconto più alto della selezione, nello short stampato."
+          "Quattro capi da donna per ogni giorno: un completo, un cardigan, uno short e un paio di jeans."
         ]
       },
       {
         "heading": "Completo a righe blu con canotta e pantalone palazzo",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Valutazione 4,70 su SHEIN, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -138303,7 +138242,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cardigan sportivo slim DAZY",
         "bullets": [
-          "Sconto nella scheda: -31%.",
           "Valutazione 4,78 su SHEIN, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -138343,11 +138281,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Short stampato con vita paperbag",
         "bullets": [
-          "Sconto nella scheda: -65%.",
           "Valutazione 4,88 su SHEIN, con più di mille recensioni."
         ],
         "paragraphs": [
-          "È lo short con vita paperbag per chi vuole un capo economico per l'estate e le vacanze. È il capo con lo sconto più alto della selezione."
+          "È lo short con vita paperbag per chi vuole un capo per l'estate e le vacanze."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -138379,7 +138316,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Jeans palazzo con vita elastica",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Valutazione 4,31 su SHEIN, con 48 recensioni."
         ],
         "paragraphs": [
@@ -138425,7 +138361,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Décolleté slingback bianche e cammello",
         "bullets": [
-          "Sconto nella scheda: -38%.",
           "Valutazione 4,82 su SHEIN, con più di 100 recensioni."
         ],
         "paragraphs": [
@@ -138462,7 +138397,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Orecchini con fiocco, perla e cuore",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Taglia: unica.",
           "Valutazione 4,92 su SHEIN, con più di mille recensioni."
         ],
@@ -138491,7 +138425,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit con orologio verde, bracciale, collana e orecchini",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Taglia: unica.",
           "Valutazione 4,75 su SHEIN, con più di mille recensioni."
         ],
@@ -138520,12 +138453,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Occhiali con lenti sfumate e montatura poligonale",
         "bullets": [
-          "Sconto nella scheda: -4%.",
           "Taglie: non ce ne sono; si sceglie solo il colore.",
           "Valutazione 4,88 su SHEIN, con più di mille recensioni."
         ],
         "paragraphs": [
-          "È un paio di occhiali con montatura poligonale e lenti sfumate, in 6 colori. Va bene per chi vuole occhiali da sole per guidare e viaggiare; lo sconto qui è piccolo."
+          "È un paio di occhiali con montatura poligonale e lenti sfumate, in 6 colori. Va bene per chi vuole occhiali da sole per guidare e viaggiare."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -138555,7 +138487,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "T-shirt Henley blu navy effetto lino",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Valutazione 4,61 su SHEIN, con più di 500 recensioni."
         ],
         "paragraphs": [
@@ -138595,7 +138526,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit di short di lino",
         "bullets": [
-          "Sconto nella scheda: -53%.",
           "Valutazione 4,76 su SHEIN, con 34 recensioni."
         ],
         "paragraphs": [
@@ -138635,7 +138565,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camicia da uomo a maniche lunghe Manfinity Mode",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Valutazione 4,86 su SHEIN, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -138674,7 +138603,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Canotta nera effetto sbiadito a taglio ampio",
         "bullets": [
-          "Sconto nella scheda: -20%.",
           "Valutazione 4,73 su SHEIN, con più di 500 recensioni."
         ],
         "paragraphs": [
@@ -138713,7 +138641,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prima di comprare",
         "bullets": [
-          "**Lo sconto cambia ogni giorno:** lo sconto di ogni articolo è quello del giorno della pubblicazione, e SHEIN cambia le offerte durante la campagna.",
+          "**Prezzi e offerte possono cambiare:** controlla il prezzo e gli eventuali sconti nella scheda prima di completare l'ordine.",
           "**Taglia:** se sei tra due taglie, controlla la tabella delle misure dell'articolo prima di scegliere, perché la vestibilità cambia da capo a capo.",
           "**Il 4CW5Y dà sconto, sì, ma non è un coupon:** apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito, senza incollarlo al checkout. Quanto e su quali articoli lo decide SHEIN. Vedi il [codice invito SHEIN](/it/reviews/codice-invito-shein-dove-inserirlo) e la [pagina di SHEIN](/it/coupons/shein), con il link principale del negozio.",
           "**Aspetti il Black Friday?** La guida al [Black Friday SHEIN](/it/reviews/black-friday-shein-date-e-tasse) raccoglie quello che già si sa della campagna di novembre.",
@@ -138723,8 +138651,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Fino a quando dura l'11.11 di SHEIN? Termina il giorno dopo l'11.11, secondo SHEIN; la data è nella risposta rapida qui sopra.",
-          "Lo sconto degli articoli può cambiare? Sì: gli sconti sono quelli del giorno della pubblicazione e SHEIN cambia le offerte durante la campagna.",
+          "Quando termina l'11.11 di SHEIN? Consulta la data di fine della campagna visualizzata su SHEIN al momento della visita.",
+          "Prezzi e sconti possono cambiare? Sì. Controlla il prezzo e gli eventuali sconti nella scheda prima di completare l'ordine.",
           "Il 4CW5Y è un coupon? No, ma dà sconto, sì. È il codice invito di SHEIN: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito per arrivare a una selezione con promozioni e sconti; non si incolla al checkout.",
           "I link portano direttamente all'articolo? Sì. La foto e la scheda di ogni articolo aprono la sua pagina dentro la campagna 11.11, e il link della campagna apre la pagina delle Selezioni di Vendita Globali."
         ]
@@ -138736,8 +138664,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-auswahl-angebote",
     "locale": "de",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: Cecílias 19 Fundstücke, vom Pyjama bis zum Accessoire (bis 12.11.)",
-    "seoTitle": "SHEIN 11.11 2026: 19 Fundstücke mit Rabatt und Bewertung",
+    "title": "SHEIN 11.11: Cecílias 19 Fundstücke, vom Pyjama bis zum Accessoire",
+    "seoTitle": "SHEIN 11.11 2026: 19 Fundstücke mit Shopbewertungen",
     "type": "Ratgeber & Gutscheine",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -138753,8 +138681,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Die SHEIN wirbt in der Mega-Aktion 11.11 mit bis zu 85 % Rabatt, und Cecília hat 19 Teile in 5 Gruppen ausgewählt. Sehen Sie Rabatt, Bewertung und Link zu jedem Teil.",
-    "metaDescription": "SHEIN 11.11 bis 12.11.2026: 19 Teile, von Cecília ausgewählt, vom Pyjama bis zum Herrenhemd, mit Rabatt und Bewertung jedes Teils.",
+    "description": "Cecília hat 19 SHEIN-Teile in 5 Gruppen ausgewählt, vom Pyjama bis zur Herrenmode. Sehen Sie Bewertungen, Größen und direkte Produktlinks.",
+    "metaDescription": "SHEIN 11.11: Cecílias 19 Fundstücke mit Shopbewertungen und Produktlinks. Der Empfehlungscode 4CW5Y öffnet eine Auswahl mit Aktionen und Rabatten.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage mit Teilen aus der 11.11-Auswahl von SHEIN: Blumenpyjama, Kinderset, Cardigan, Pumps und Herrenhemd, mit dem SHEIN-Logo",
     "imageFit": "contain",
@@ -138762,14 +138690,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Die Links dieser Auswahl führen zu den Teilen der Mega-Aktion 11.11 von SHEIN, die bis zum 12.11.2026 läuft. Prüfen Sie Preis und Größentabelle auf der Produktseite, bevor Sie die Bestellung abschließen.",
+      "text": "Öffnen Sie SHEIN, um die aktuellen Angebote zu prüfen. Kontrollieren Sie vor der Bestellung den Preis und die Größentabelle jedes ausgewählten Teils.",
       "label": "Die Auswahl bei SHEIN ansehen",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Auswahl von Cecília, mit Rabatten, die am Tag der Veröffentlichung bei SHEIN abgelesen wurden; niemand von der Seite hat die Teile getragen. Wir können über die Links und den Empfehlungscode 4CW5Y eine Provision erhalten.",
+    "editorialNote": "Redaktionelle Auswahl von Cecília anhand der Produktseiten; niemand von der Seite hat die Teile getragen. Wir können über die Links und den Empfehlungscode 4CW5Y eine Provision erhalten.",
     "relatedArticles": [
       {
         "slug": "shein-empfehlungscode-wo-eingeben"
@@ -138785,13 +138713,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Der Shop kündigt bei der Mega-Aktion 11.11 hohe Rabatte an, bis zum 12.11. Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren. 4CW5Y gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, dann gelangen Sie zu einer Auswahl mit Aktionen; wie viel und bei welchen Teilen, entscheidet SHEIN."
+          "Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren. 4CW5Y gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, dann gelangen Sie zu einer Auswahl mit Aktionen; wie viel und bei welchen Teilen, entscheidet SHEIN."
         ]
       },
       {
         "heading": "Die Aktion 11.11",
         "paragraphs": [
-          "Die Mega-Aktion 11.11 von SHEIN hat schon begonnen. Laut SHEIN gibt es bis zu 85 % Rabatt auf mehr als 600.000 Produkte, und der Shop verlagert die Aktion in die App.",
+          "Die 11.11-Auswahl umfasst 19 Teile, die Cecília ausgesucht hat. Prüfen Sie bei SHEIN, welche Aktionszeiträume und Angebote beim Einkauf gelten.",
           "Die Einstiegsseite ist die der [globalen Sale-Auswahl zum 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Bei den 19 Teilen unten öffnen Foto und Karte jeweils die Produktseite innerhalb der Aktion.",
           "4CW5Y ist der Empfehlungscode von SHEIN und gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, dann öffnet sich eine Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie viel und bei welchen Teilen, entscheidet SHEIN. Er ist kein Gutschein und wird nicht an der Kasse eingegeben. Die Schritte stehen in [SHEIN-Empfehlungscode: so verwenden Sie 4CW5Y](/de/reviews/shein-empfehlungscode-wo-eingeben)."
         ]
@@ -138801,89 +138729,89 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Teil",
-            "Rabatt"
+            "Shopbewertung"
           ],
           "rows": [
             [
               "[Blumenpyjama Serenescape](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "-20 %"
+              "4,91"
             ],
             [
               "[Pyjama mit Top und Shorts, gestreift mit Herzen](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-              "—"
+              "4,86"
             ],
             [
               "[3-teiliger Pyjama mit Cartoon-Print](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "-20 %"
+              "4,95"
             ],
             [
               "[Mädchenset mit Herz-Top und weiter Hose](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "-20 %"
+              "4,88"
             ],
             [
               "[Jungenpyjama mit Dinosaurier, der im Dunkeln leuchtet](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "-4 %"
+              "4,36"
             ],
             [
               "[Babyshirt mit Tieren in Kreideoptik](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "-20 %"
+              "4,12"
             ],
             [
               "[Langarm-Jungenpyjama mit zufälligem Print](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "-20 %"
+              "4,09"
             ],
             [
               "[Blau gestreiftes Set mit Top und weiter Hose](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "-20 %"
+              "4,70"
             ],
             [
               "[Sportlicher Slim-Cardigan DAZY](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "-31 %"
+              "4,78"
             ],
             [
               "[Gemusterte Paperbag-Shorts](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "-65 %"
+              "4,88"
             ],
             [
               "[Weite Jeans mit elastischem Bund](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "-20 %"
+              "4,31"
             ],
             [
               "[Slingback-Pumps in Weiß und Karamell](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "-38 %"
+              "4,82"
             ],
             [
               "[Ohrringe mit Schleife, Perle und Herz](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "-20 %"
+              "4,92"
             ],
             [
               "[Set mit grüner Uhr, Armband, Kette und Ohrringen](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "-20 %"
+              "4,75"
             ],
             [
               "[Brille mit Verlaufsgläsern und polygonalem Gestell](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-              "-4 %"
+              "4,88"
             ],
             [
               "[Navyblaues Henley-Shirt in Leinenoptik](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "-20 %"
+              "4,61"
             ],
             [
               "[Leinenshorts-Set](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "-53 %"
+              "4,76"
             ],
             [
               "[Langarmhemd für Herren Manfinity Mode](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "-20 %"
+              "4,86"
             ],
             [
               "[Schwarzes Tanktop im Washed-Look, locker geschnitten](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "-20 %"
+              "4,73"
             ]
           ]
         },
         "paragraphs": [
-          "Rabatte vom 28.10.2026, auf der Produktseite jedes Teils."
+          "Die Tabelle zeigt die 19 Teile und die für diese Auswahl erfassten Shopbewertungen. Den aktuellen Preis und einen möglichen Rabatt finden Sie auf der jeweiligen Produktseite."
         ]
       },
       {
@@ -138895,7 +138823,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Blumenpyjama Serenescape",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Bewertung 4,91 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -138955,7 +138882,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3-teiliger Pyjama mit Cartoon-Print",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Bewertung 4,95 bei SHEIN, mit mehr als tausend Rezensionen, die höchste der Auswahl."
         ],
         "paragraphs": [
@@ -138989,7 +138915,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mädchenset mit Herz-Top und weiter Hose",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Größen: 4 bis 7 Jahre; der Shop führt auch 8 bis 12 Jahre.",
           "Bewertung 4,88 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
@@ -139026,7 +138951,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Jungenpyjama mit Dinosaurier, der im Dunkeln leuchtet",
         "bullets": [
-          "Rabatt auf der Produktseite: -4 %.",
           "Größen: 4 bis 7 Jahre.",
           "Bewertung 4,36 bei SHEIN, mit 83 Rezensionen."
         ],
@@ -139055,7 +138979,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Babyshirt mit Tieren in Kreideoptik",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Größen: 6 Monate bis 3 Jahre.",
           "Bewertung 4,12 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
@@ -139092,7 +139015,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Langarm-Jungenpyjama mit zufälligem Print",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Größen: 9 Monate bis 7 Jahre.",
           "Bewertung 4,09 bei SHEIN, mit 62 Rezensionen."
         ],
@@ -139121,13 +139043,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Damen",
         "paragraphs": [
-          "Vier Damenteile für den Alltag: ein Set, ein Cardigan, Shorts und eine Jeans. Hier steckt der höchste Rabatt der Auswahl, bei den gemusterten Shorts."
+          "Vier Damenteile für den Alltag: ein Set, ein Cardigan, Shorts und eine Jeans."
         ]
       },
       {
         "heading": "Blau gestreiftes Set mit Top und weiter Hose",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Bewertung 4,70 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -139167,7 +139088,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sportlicher Slim-Cardigan DAZY",
         "bullets": [
-          "Rabatt auf der Produktseite: -31 %.",
           "Bewertung 4,78 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -139207,11 +139127,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gemusterte Paperbag-Shorts",
         "bullets": [
-          "Rabatt auf der Produktseite: -65 %.",
           "Bewertung 4,88 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
-          "Es sind die Shorts mit Paperbag-Bund für alle, die ein günstiges Teil für Sommer und Urlaub möchten. Es ist das Teil mit dem höchsten Rabatt der Auswahl."
+          "Es sind die Shorts mit Paperbag-Bund für alle, die ein Teil für Sommer und Urlaub möchten."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -139243,7 +139162,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Weite Jeans mit elastischem Bund",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Bewertung 4,31 bei SHEIN, mit 48 Rezensionen."
         ],
         "paragraphs": [
@@ -139289,7 +139207,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Slingback-Pumps in Weiß und Karamell",
         "bullets": [
-          "Rabatt auf der Produktseite: -38 %.",
           "Bewertung 4,82 bei SHEIN, mit mehr als 100 Rezensionen."
         ],
         "paragraphs": [
@@ -139326,7 +139243,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ohrringe mit Schleife, Perle und Herz",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Größe: Einheitsgröße.",
           "Bewertung 4,92 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
@@ -139355,7 +139271,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Set mit grüner Uhr, Armband, Kette und Ohrringen",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Größe: Einheitsgröße.",
           "Bewertung 4,75 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
@@ -139384,12 +139299,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brille mit Verlaufsgläsern und polygonalem Gestell",
         "bullets": [
-          "Rabatt auf der Produktseite: -4 %.",
           "Größen: keine; man wählt nur die Farbe.",
           "Bewertung 4,88 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
-          "Es ist eine Brille mit polygonalem Gestell und Verlaufsgläsern, in 6 Farben. Sie passt für alle, die eine Sonnenbrille zum Autofahren und Reisen möchten; der Rabatt ist hier klein."
+          "Es ist eine Brille mit polygonalem Gestell und Verlaufsgläsern, in 6 Farben. Sie passt für alle, die eine Sonnenbrille zum Autofahren und Reisen möchten."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -139419,7 +139333,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Navyblaues Henley-Shirt in Leinenoptik",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Bewertung 4,61 bei SHEIN, mit mehr als 500 Rezensionen."
         ],
         "paragraphs": [
@@ -139459,7 +139372,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Leinenshorts-Set",
         "bullets": [
-          "Rabatt auf der Produktseite: -53 %.",
           "Bewertung 4,76 bei SHEIN, mit 34 Rezensionen."
         ],
         "paragraphs": [
@@ -139499,7 +139411,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Langarmhemd für Herren Manfinity Mode",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Bewertung 4,86 bei SHEIN, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -139538,7 +139449,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schwarzes Tanktop im Washed-Look, locker geschnitten",
         "bullets": [
-          "Rabatt auf der Produktseite: -20 %.",
           "Bewertung 4,73 bei SHEIN, mit mehr als 500 Rezensionen."
         ],
         "paragraphs": [
@@ -139577,7 +139487,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vor dem Kauf",
         "bullets": [
-          "**Der Rabatt ändert sich täglich:** Der Rabatt jedes Teils ist der vom Tag der Veröffentlichung, und SHEIN ändert die Angebote während der Aktion.",
+          "**Preise und Angebote können sich ändern:** Prüfen Sie vor der Bestellung den Preis und einen möglichen Rabatt auf der Produktseite.",
           "**Größe:** Wenn Sie zwischen zwei Größen liegen, prüfen Sie die Maßtabelle des Teils, bevor Sie wählen, denn die Größen fallen von Teil zu Teil anders aus.",
           "**4CW5Y gibt Rabatt, ist aber kein Gutschein:** Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, nicht an der Kasse. Wie viel und bei welchen Teilen, entscheidet SHEIN. Siehe den [SHEIN-Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben) und die [SHEIN-Seite](/de/coupons/shein) mit dem Hauptlink des Shops.",
           "**Warten Sie auf den Black Friday?** Der Ratgeber zum [Black Friday bei SHEIN](/de/reviews/shein-black-friday-termine-steuern) fasst zusammen, was über die November-Aktion schon bekannt ist.",
@@ -139587,8 +139497,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Bis wann läuft der 11.11 von SHEIN? Er endet am Tag nach dem 11.11, laut SHEIN; das Datum steht oben in der kurzen Antwort.",
-          "Kann sich der Rabatt der Teile ändern? Ja: Die Rabatte sind die vom Tag der Veröffentlichung, und SHEIN ändert die Angebote während der Aktion.",
+          "Bis wann läuft die 11.11-Aktion von SHEIN? Prüfen Sie das Enddatum der Aktion, die Ihnen bei SHEIN angezeigt wird.",
+          "Können sich Preise und Rabatte ändern? Ja. Prüfen Sie vor der Bestellung den Preis und einen möglichen Rabatt auf der Produktseite.",
           "Ist 4CW5Y ein Gutschein? Nein, aber er gibt Rabatt. Es ist der Empfehlungscode von SHEIN: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, um zu einer Auswahl mit Aktionen und Rabatten zu gelangen; an der Kasse wird er nicht eingegeben.",
           "Führen die Links direkt zum Teil? Ja. Foto und Karte jedes Teils öffnen seine Produktseite innerhalb der Aktion 11.11, und der Link der Aktion öffnet die Seite der globalen Sale-Auswahl."
         ]
@@ -139600,8 +139510,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-picks-ja",
     "locale": "ja",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11：Cecília が選んだ19アイテム、パジャマからアクセサリーまで（11月12日まで）",
-    "seoTitle": "SHEIN 11.11 2026：割引と評価つきの19アイテム",
+    "title": "SHEIN 11.11：Cecília が選んだ19アイテム、パジャマからアクセサリーまで（11月16日まで）",
+    "seoTitle": "SHEIN 11.11 2026：ショップの評価つき19アイテム",
     "type": "ガイド＆クーポン",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -139617,8 +139527,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN の11.11メガセール（2026年11月12日まで）でのCecíliaのセレクション。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選び、それぞれに割引、評価、キャンペーン内の商品ページへの直リンクつきです。割引は2026年10月28日時点のものです。",
-    "metaDescription": "SHEIN 11.11（2026年11月12日まで）：パジャマからメンズシャツまで、Cecíliaが選んだ19アイテム。アイテムごとの割引と評価つき。",
+    "description": "Cecíliaが選んだSHEINの19アイテム。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループに分け、ショップの評価、サイズ、商品リンクをまとめました。",
+    "metaDescription": "SHEIN 11.11は2026年11月16日12:00まで。Cecíliaが選んだ19アイテム。紹介コード4CW5Yでプロモーションや割引のあるセレクションへ。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11セレクションのアイテムのコラージュ：花柄パジャマ、キッズのセットアップ、カーディガン、パンプス、メンズシャツ、SHEIN のロゴ",
     "imageFit": "contain",
@@ -139626,14 +139536,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "このセレクションのリンクは、2026年11月12日まで開催中の SHEIN 11.11 メガセールの商品ページに飛びます。注文を確定する前に、商品ページで価格とサイズ表を確認してください。",
+      "text": "SHEINで現在のキャンペーンを確認してください。11.11キャンペーンは2026年11月16日12:00までと公式発表されています。注文前に、選んだ商品の価格とサイズ表を確認してください。",
       "label": "SHEIN でセレクションを見る",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Cecíliaのセレクションです。割引は公開日に SHEIN で確認したものです。サイトの担当者がアイテムを使ったわけではありません。リンクと紹介コード 4CW5Y を通じて報酬を受け取る場合があります。",
+    "editorialNote": "商品ページをもとにしたCecíliaのセレクションです。サイトの担当者が着用したものではありません。リンクと紹介コード4CW5Yを通じて報酬を受け取る場合があります。",
     "relatedArticles": [
       {
         "slug": "shein-referral-code-ja"
@@ -139649,13 +139559,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEIN はメガセールを11月12日まで開催しています。Cecíliaは、パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選びました。4CW5Y で割引が受けられます：Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索すると、プロモーション付きのセレクションに進めます（割引額と対象アイテムは SHEIN が決めます）。"
+          "SHEIN はメガセールを11月16日12:00まで開催しています。Cecíliaは、パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選びました。4CW5Y で割引が受けられます：Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索すると、プロモーション付きのセレクションに進めます（割引額と対象アイテムは SHEIN が決めます）。"
         ]
       },
       {
         "heading": "11.11 キャンペーンについて",
         "paragraphs": [
-          "SHEIN の11.11メガセールはすでに始まっています。SHEIN によると、60万点以上の商品が最大85%オフで、キャンペーンの中心はアプリです。",
+          "SHEIN によると、11.11キャンペーンは11月16日12:00まで。11月9日12:00からの最終段階は80万点以上の商品が最大95%オフで、キャンペーンの中心はアプリです。",
           "入口になるのは [11.11 グローバルセール セレクション](https://onelink.shein.com/58/66i60wu7xjjd) のページです。下の19アイテムは、写真とカードからキャンペーン内の各商品ページが開きます。",
           "4CW5Y は SHEIN の紹介コードで、割引が受けられます。Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索すると、商品・プロモーション・割引のセレクションのページが開きます。割引額と対象アイテムは SHEIN が決めます。クーポンではないので、チェックアウトには貼り付けません。手順は [SHEIN の紹介コード：4CW5Y の使い方](/ja/reviews/shein-referral-code-ja) をご覧ください。"
         ]
@@ -139665,89 +139575,89 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "アイテム",
-            "割引"
+            "ショップの評価"
           ],
           "rows": [
             [
               "[Serenescape の花柄パジャマ](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "-20%"
+              "4.91"
             ],
             [
               "[ハート柄ストライプのタンクトップ＆ショートパンツのパジャマ](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-              "—"
+              "4.86"
             ],
             [
               "[カートゥーン柄の3点パジャマ](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "-20%"
+              "4.95"
             ],
             [
               "[ハート柄タンクトップとワイドパンツの女の子用セット](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "-20%"
+              "4.88"
             ],
             [
               "[暗闇で光る恐竜柄の男の子用パジャマ](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "-4%"
+              "4.36"
             ],
             [
               "[チョークで描いた動物柄のベビー用トップス](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "-20%"
+              "4.12"
             ],
             [
               "[長袖の男の子用パジャマ（柄はおまかせ）](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "-20%"
+              "4.09"
             ],
             [
               "[青ストライプのタンクトップ＆ワイドパンツのセット](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "-20%"
+              "4.70"
             ],
             [
               "[DAZY スポーティースリムカーディガン](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "-31%"
+              "4.78"
             ],
             [
               "[ペーパーバッグウエストのプリントショートパンツ](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "-65%"
+              "4.88"
             ],
             [
               "[ウエストゴムのワイドデニムパンツ](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "-20%"
+              "4.31"
             ],
             [
               "[ホワイト×キャラメルのスリングバックパンプス](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "-38%"
+              "4.82"
             ],
             [
               "[リボンとパールとハートのピアス](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "-20%"
+              "4.92"
             ],
             [
               "[グリーンの腕時計とブレスレット・ネックレス・ピアスのセット](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "-20%"
+              "4.75"
             ],
             [
               "[多角形フレームのグラデーションレンズのサングラス](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-              "-4%"
+              "4.88"
             ],
             [
               "[リネン調ネイビーのヘンリーネックTシャツ](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "-20%"
+              "4.61"
             ],
             [
               "[リネンショートパンツのセット](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "-53%"
+              "4.76"
             ],
             [
               "[Manfinity Mode のメンズ長袖シャツ](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "-20%"
+              "4.86"
             ],
             [
               "[ブラックのウォッシュ加工ルーズフィットのタンクトップ](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "-20%"
+              "4.73"
             ]
           ]
         },
         "paragraphs": [
-          "割引は、2026年10月28日時点の各アイテムの商品ページの情報です。"
+          "19アイテムと、このセレクションの作成時に確認したショップの評価を表にまとめました。現在の価格や割引の有無は、各商品ページで確認してください。"
         ]
       },
       {
@@ -139759,7 +139669,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Serenescape の花柄パジャマ",
         "bullets": [
-          "商品ページの割引：-20%",
           "ショップの評価は4.91、レビューは1,000件以上。"
         ],
         "paragraphs": [
@@ -139819,7 +139728,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "カートゥーン柄の3点パジャマ",
         "bullets": [
-          "商品ページの割引：-20%",
           "ショップの評価は4.95、レビューは1,000件以上で、セレクション内で最高です。"
         ],
         "paragraphs": [
@@ -139853,7 +139761,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ハート柄タンクトップとワイドパンツの女の子用セット",
         "bullets": [
-          "商品ページの割引：-20%",
           "サイズ：4〜7歳。ショップには8〜12歳もあります。",
           "ショップの評価は4.88、レビューは1,000件以上。"
         ],
@@ -139890,7 +139797,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "暗闇で光る恐竜柄の男の子用パジャマ",
         "bullets": [
-          "商品ページの割引：-4%",
           "サイズ：4〜7歳。",
           "ショップの評価は4.36、レビューは83件。"
         ],
@@ -139919,7 +139825,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "チョークで描いた動物柄のベビー用トップス",
         "bullets": [
-          "商品ページの割引：-20%",
           "サイズ：6か月〜3歳。",
           "ショップの評価は4.12、レビューは1,000件以上。"
         ],
@@ -139956,7 +139861,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "長袖の男の子用パジャマ（柄はおまかせ）",
         "bullets": [
-          "商品ページの割引：-20%",
           "サイズ：9か月〜7歳。",
           "ショップの評価は4.09、レビューは62件。"
         ],
@@ -139985,13 +139889,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "レディース",
         "paragraphs": [
-          "普段使いのレディース4点：セットアップ、カーディガン、ショートパンツ、ジーンズです。セレクション最大の割引はここにあり、プリントのショートパンツです。"
+          "普段使いのレディース4点：セットアップ、カーディガン、ショートパンツ、ジーンズです。"
         ]
       },
       {
         "heading": "青ストライプのタンクトップ＆ワイドパンツのセット",
         "bullets": [
-          "商品ページの割引：-20%",
           "ショップの評価は4.70、レビューは1,000件以上。"
         ],
         "paragraphs": [
@@ -140031,7 +139934,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "DAZY スポーティースリムカーディガン",
         "bullets": [
-          "商品ページの割引：-31%",
           "ショップの評価は4.78、レビューは1,000件以上。"
         ],
         "paragraphs": [
@@ -140071,11 +139973,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ペーパーバッグウエストのプリントショートパンツ",
         "bullets": [
-          "商品ページの割引：-65%",
           "ショップの評価は4.88、レビューは1,000件以上。"
         ],
         "paragraphs": [
-          "ペーパーバッグウエストのショートパンツで、夏や休暇向けのお手頃な一枚を探している人向けです。セレクション最大の割引のアイテムです。"
+          "ペーパーバッグウエストのショートパンツで、夏や休暇向けの一枚を探している人向けです。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -140107,7 +140008,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ウエストゴムのワイドデニムパンツ",
         "bullets": [
-          "商品ページの割引：-20%",
           "ショップの評価は4.31、レビューは48件。"
         ],
         "paragraphs": [
@@ -140153,7 +140053,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ホワイト×キャラメルのスリングバックパンプス",
         "bullets": [
-          "商品ページの割引：-38%",
           "ショップの評価は4.82、レビューは100件以上。"
         ],
         "paragraphs": [
@@ -140190,7 +140089,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "リボンとパールとハートのピアス",
         "bullets": [
-          "商品ページの割引：-20%",
           "サイズ：フリーサイズ。",
           "ショップの評価は4.92、レビューは1,000件以上。"
         ],
@@ -140219,7 +140117,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "グリーンの腕時計とブレスレット・ネックレス・ピアスのセット",
         "bullets": [
-          "商品ページの割引：-20%",
           "サイズ：フリーサイズ。",
           "ショップの評価は4.75、レビューは1,000件以上。"
         ],
@@ -140248,12 +140145,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "多角形フレームのグラデーションレンズのサングラス",
         "bullets": [
-          "商品ページの割引：-4%",
           "サイズ：なし。選ぶのは色だけです。",
           "ショップの評価は4.88、レビューは1,000件以上。"
         ],
         "paragraphs": [
-          "多角形フレームとグラデーションレンズのサングラスで、6色あります。運転や旅行用のサングラスを探している人向けです。割引は小さめです。"
+          "多角形フレームとグラデーションレンズのサングラスで、6色あります。運転や旅行用のサングラスを探している人向けです。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -140283,7 +140179,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "リネン調ネイビーのヘンリーネックTシャツ",
         "bullets": [
-          "商品ページの割引：-20%",
           "ショップの評価は4.61、レビューは500件以上。"
         ],
         "paragraphs": [
@@ -140323,7 +140218,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "リネンショートパンツのセット",
         "bullets": [
-          "商品ページの割引：-53%",
           "ショップの評価は4.76、レビューは34件。"
         ],
         "paragraphs": [
@@ -140363,7 +140257,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Manfinity Mode のメンズ長袖シャツ",
         "bullets": [
-          "商品ページの割引：-20%",
           "ショップの評価は4.86、レビューは1,000件以上。"
         ],
         "paragraphs": [
@@ -140402,7 +140295,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ブラックのウォッシュ加工ルーズフィットのタンクトップ",
         "bullets": [
-          "商品ページの割引：-20%",
           "ショップの評価は4.73、レビューは500件以上。"
         ],
         "paragraphs": [
@@ -140441,7 +140333,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "買う前に",
         "bullets": [
-          "**割引は毎日変わります：** 各アイテムの割引は、公開日のものです。SHEIN はキャンペーン中にセールの内容を変えます。",
+          "**価格や特典は変わることがあります：** 注文前に、商品ページで価格と割引の有無を確認してください。",
           "**サイズ：** 2つのサイズで迷っている場合は、選ぶ前に商品ページのサイズ表を確認してください。サイズ感はアイテムごとに違います。",
           "**4CW5Y は割引が受けられる紹介コードで、クーポンではありません：** Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索してください。チェックアウトには貼り付けません。割引額と対象アイテムは SHEIN が決めます。[SHEIN の紹介コード](/ja/reviews/shein-referral-code-ja) と、ショップのメインリンクを載せた [SHEIN のページ](/ja/coupons/shein) をご覧ください。",
           "**ブラックフライデーまで待ちますか？** [SHEIN のブラックフライデー](/ja/reviews/shein-black-friday-ja) のガイドに、11月のキャンペーンについて、これまでにわかっていることをまとめています。",
@@ -140451,8 +140343,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "SHEIN の11.11はいつまでですか？ SHEIN によると、11.11の翌日に終わります。日付は上の「まずは結論」にあります。",
-          "アイテムの割引は変わりますか？ はい。このガイドの割引は公開日のもので、SHEIN はキャンペーン中にセールの内容を変えます。",
+          "SHEIN の11.11はいつまでですか？ SHEIN によると、11月16日12:00までです。日付は上の「まずは結論」にあります。",
+          "価格や割引は変わりますか？ はい。注文前に、商品ページで価格と割引の有無を確認してください。",
           "4CW5Y はクーポンですか？ いいえ、ただし割引は受けられます。SHEIN の紹介コードで、Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索するとプロモーションと割引のセレクションに進めます。チェックアウトには貼り付けません。",
           "リンクは商品に直接飛びますか？ はい。各アイテムの写真とカードは11.11キャンペーン内のその商品ページを開き、キャンペーンのリンクはグローバルセール セレクションのページを開きます。"
         ]
@@ -140464,8 +140356,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-picks-ko",
     "locale": "ko",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: Cecília가 고른 19가지, 잠옷부터 액세서리까지 (11월 12일까지)",
-    "seoTitle": "SHEIN 11.11 2026: 할인율과 평점까지 정리한 19가지 추천",
+    "title": "SHEIN 11.11: Cecília가 고른 19가지, 잠옷부터 액세서리까지",
+    "seoTitle": "SHEIN 11.11 2026: 스토어 평점과 함께 보는 19가지 추천",
     "type": "가이드 & 쿠폰",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -140481,8 +140373,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "SHEIN 11.11 메가 세일(2026년 11월 12일까지)에서 Cecília가 고른 셀렉션입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지이며, 상품마다 할인율, 평점, 캠페인 안의 상품 페이지로 바로 가는 링크가 있습니다. 할인율은 2026년 10월 28일 기준입니다.",
-    "metaDescription": "SHEIN 11.11(2026년 11월 12일까지): 잠옷부터 남성 셔츠까지 Cecília가 고른 19가지. 상품마다 할인율과 평점이 있습니다.",
+    "description": "Cecília가 SHEIN에서 고른 19가지입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹으로 나누고, 상품별 스토어 평점과 사이즈, 바로 가는 링크를 담았습니다.",
+    "metaDescription": "SHEIN 11.11: Cecília가 고른 19가지와 스토어 평점, 상품 링크. 추천 코드 4CW5Y로 프로모션과 할인이 있는 셀렉션을 열 수 있습니다.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 셀렉션 상품 콜라주: 꽃무늬 잠옷, 아동 세트, 가디건, 펌프스, 남성 셔츠와 SHEIN 로고",
     "imageFit": "contain",
@@ -140490,14 +140382,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "이 셀렉션의 링크는 2026년 11월 12일까지 진행되는 SHEIN 11.11 메가 세일의 상품 페이지로 연결됩니다. 주문을 마치기 전에 상품 페이지에서 가격과 사이즈표를 확인하세요.",
+      "text": "SHEIN에서 현재 혜택을 확인하세요. 주문하기 전에 고른 상품의 가격과 사이즈표를 확인하세요.",
       "label": "SHEIN에서 셀렉션 보기",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Cecília의 셀렉션입니다. 할인율은 게시일에 SHEIN에서 확인한 것입니다. 사이트 담당자가 상품을 직접 사용한 것은 아닙니다. 링크와 추천 코드 4CW5Y를 통해 수수료를 받을 수 있습니다.",
+    "editorialNote": "상품 페이지를 바탕으로 Cecília가 고른 셀렉션이며, 사이트 담당자가 직접 사용한 상품은 아닙니다. 링크와 추천 코드 4CW5Y를 통해 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "shein-referral-code-ko"
@@ -140513,13 +140405,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN은 메가 세일을 11월 12일까지 진행합니다. Cecília는 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐습니다. 4CW5Y를 쓰면 할인을 받을 수 있습니다: Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션이 있는 셀렉션으로 이동합니다(할인 폭과 대상 상품은 SHEIN이 정합니다)."
+          "Cecília는 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐습니다. 4CW5Y를 쓰면 할인을 받을 수 있습니다: Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션이 있는 셀렉션으로 이동합니다(할인 폭과 대상 상품은 SHEIN이 정합니다)."
         ]
       },
       {
         "heading": "11.11 캠페인",
         "paragraphs": [
-          "SHEIN 11.11 메가 세일은 이미 시작됐습니다. SHEIN에 따르면 60만 개가 넘는 상품이 최대 85% 할인이며, 캠페인은 앱 중심으로 진행됩니다.",
+          "11.11 셀렉션에는 Cecília가 고른 상품 19가지가 담겨 있습니다. 구매할 때 SHEIN에 표시되는 캠페인의 기간과 혜택을 확인하세요.",
           "진입 페이지는 [11.11 글로벌 세일 셀렉션](https://onelink.shein.com/58/66i60wu7xjjd)입니다. 아래 19가지는 사진과 카드를 누르면 캠페인 안의 각 상품 페이지가 열립니다.",
           "4CW5Y는 SHEIN의 추천 코드이며 할인을 받을 수 있습니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 상품, 프로모션, 할인이 담긴 셀렉션 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. 쿠폰이 아니므로 결제 화면에는 붙여 넣지 않습니다. 사용 방법은 [SHEIN 추천 코드: 4CW5Y 사용법](/ko/reviews/shein-referral-code-ko)에 있습니다."
         ]
@@ -140529,89 +140421,89 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "상품",
-            "할인율"
+            "스토어 평점"
           ],
           "rows": [
             [
               "[Serenescape 꽃무늬 잠옷](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "-20%"
+              "4.91"
             ],
             [
               "[하트 줄무늬 민소매·반바지 잠옷](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-              "—"
+              "4.86"
             ],
             [
               "[만화 프린트 3피스 잠옷](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "-20%"
+              "4.95"
             ],
             [
               "[하트 민소매와 와이드 팬츠 여아 세트](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "-20%"
+              "4.88"
             ],
             [
               "[어둠 속에서 빛나는 공룡 남아 잠옷](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "-4%"
+              "4.36"
             ],
             [
               "[분필로 그린 동물 프린트 아기 상의](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "-20%"
+              "4.12"
             ],
             [
               "[남아 긴소매 잠옷, 랜덤 프린트](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "-20%"
+              "4.09"
             ],
             [
               "[블루 스트라이프 민소매·와이드 팬츠 세트](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "-20%"
+              "4.70"
             ],
             [
               "[DAZY 스포티 슬림 가디건](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "-31%"
+              "4.78"
             ],
             [
               "[페이퍼백 허리 프린트 반바지](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "-65%"
+              "4.88"
             ],
             [
               "[허리 밴딩 와이드 데님 팬츠](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "-20%"
+              "4.31"
             ],
             [
               "[화이트·카라멜 슬링백 펌프스](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "-38%"
+              "4.82"
             ],
             [
               "[리본·진주·하트 귀걸이](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "-20%"
+              "4.92"
             ],
             [
               "[그린 시계와 팔찌·목걸이·귀걸이 세트](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "-20%"
+              "4.75"
             ],
             [
               "[다각형 프레임 그라데이션 렌즈 선글라스](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-              "-4%"
+              "4.88"
             ],
             [
               "[리넨 질감의 네이비 헨리넥 티셔츠](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "-20%"
+              "4.61"
             ],
             [
               "[리넨 반바지 세트](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "-53%"
+              "4.76"
             ],
             [
               "[Manfinity Mode 남성 긴소매 셔츠](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "-20%"
+              "4.86"
             ],
             [
               "[블랙 워싱 루즈핏 민소매 티셔츠](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "-20%"
+              "4.73"
             ]
           ]
         },
         "paragraphs": [
-          "할인율은 2026년 10월 28일 기준 각 상품 페이지의 정보입니다."
+          "표에는 상품 19가지와 이 셀렉션을 위해 확인한 스토어 평점을 모았습니다. 현재 가격과 할인 여부는 각 상품 페이지에서 확인하세요."
         ]
       },
       {
@@ -140623,7 +140515,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Serenescape 꽃무늬 잠옷",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "평점 4.91, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -140683,7 +140574,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "만화 프린트 3피스 잠옷",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "평점 4.95, 리뷰 1,000개 이상으로, 셀렉션에서 가장 높습니다."
         ],
         "paragraphs": [
@@ -140717,7 +140607,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "하트 민소매와 와이드 팬츠 여아 세트",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "사이즈: 4~7세. 스토어에는 8~12세도 있습니다.",
           "평점 4.88, 리뷰 1,000개 이상."
         ],
@@ -140754,7 +140643,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "어둠 속에서 빛나는 공룡 남아 잠옷",
         "bullets": [
-          "상품 페이지의 할인율: -4%",
           "사이즈: 4~7세.",
           "평점 4.36, 리뷰 83개."
         ],
@@ -140783,7 +140671,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "분필로 그린 동물 프린트 아기 상의",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "사이즈: 6개월~3세.",
           "평점 4.12, 리뷰 1,000개 이상."
         ],
@@ -140820,7 +140707,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "남아 긴소매 잠옷, 랜덤 프린트",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "사이즈: 9개월~7세.",
           "평점 4.09, 리뷰 62개."
         ],
@@ -140849,13 +140735,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "여성",
         "paragraphs": [
-          "일상용 여성 의류 네 가지입니다. 세트 하나, 가디건 하나, 반바지 하나, 데님 팬츠 하나입니다. 셀렉션에서 할인율이 가장 큰 상품은 프린트 반바지입니다."
+          "일상용 여성 의류 네 가지입니다. 세트 하나, 가디건 하나, 반바지 하나, 데님 팬츠 하나입니다."
         ]
       },
       {
         "heading": "블루 스트라이프 민소매·와이드 팬츠 세트",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "평점 4.70, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -140895,7 +140780,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "DAZY 스포티 슬림 가디건",
         "bullets": [
-          "상품 페이지의 할인율: -31%",
           "평점 4.78, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -140935,11 +140819,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "페이퍼백 허리 프린트 반바지",
         "bullets": [
-          "상품 페이지의 할인율: -65%",
           "평점 4.88, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
-          "페이퍼백 허리의 반바지로, 여름과 휴가에 입을 부담 없는 옷을 찾는 분께 맞습니다. 셀렉션에서 할인율이 가장 큰 상품입니다."
+          "페이퍼백 허리의 반바지로, 여름과 휴가에 입을 옷을 찾는 분께 맞습니다."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -140971,7 +140854,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "허리 밴딩 와이드 데님 팬츠",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "평점 4.31, 리뷰 48개."
         ],
         "paragraphs": [
@@ -141017,7 +140899,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "화이트·카라멜 슬링백 펌프스",
         "bullets": [
-          "상품 페이지의 할인율: -38%",
           "평점 4.82, 리뷰 100개 이상."
         ],
         "paragraphs": [
@@ -141054,7 +140935,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "리본·진주·하트 귀걸이",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "사이즈: 프리 사이즈.",
           "평점 4.92, 리뷰 1,000개 이상."
         ],
@@ -141083,7 +140963,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "그린 시계와 팔찌·목걸이·귀걸이 세트",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "사이즈: 프리 사이즈.",
           "평점 4.75, 리뷰 1,000개 이상."
         ],
@@ -141112,12 +140991,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "다각형 프레임 그라데이션 렌즈 선글라스",
         "bullets": [
-          "상품 페이지의 할인율: -4%",
           "사이즈: 없음. 색상만 고릅니다.",
           "평점 4.88, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
-          "다각형 프레임에 그라데이션 렌즈를 단 선글라스로, 6가지 색상이 있습니다. 운전과 여행에 쓸 선글라스를 찾는 분께 맞습니다. 할인율은 작은 편입니다."
+          "다각형 프레임에 그라데이션 렌즈를 단 선글라스로, 6가지 색상이 있습니다. 운전과 여행에 쓸 선글라스를 찾는 분께 맞습니다."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -141147,7 +141025,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "리넨 질감의 네이비 헨리넥 티셔츠",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "평점 4.61, 리뷰 500개 이상."
         ],
         "paragraphs": [
@@ -141187,7 +141064,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "리넨 반바지 세트",
         "bullets": [
-          "상품 페이지의 할인율: -53%",
           "평점 4.76, 리뷰 34개."
         ],
         "paragraphs": [
@@ -141227,7 +141103,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Manfinity Mode 남성 긴소매 셔츠",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "평점 4.86, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -141266,7 +141141,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "블랙 워싱 루즈핏 민소매 티셔츠",
         "bullets": [
-          "상품 페이지의 할인율: -20%",
           "평점 4.73, 리뷰 500개 이상."
         ],
         "paragraphs": [
@@ -141305,7 +141179,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "구매 전에 확인할 것",
         "bullets": [
-          "**할인율은 매일 바뀝니다:** 각 상품의 할인율은 게시일 기준입니다. SHEIN은 캠페인 중에 세일 내용을 바꿉니다.",
+          "**가격과 혜택은 바뀔 수 있습니다:** 주문하기 전에 상품 페이지에서 가격과 할인 여부를 확인하세요.",
           "**사이즈:** 두 사이즈 사이에서 고민된다면, 고르기 전에 상품 페이지의 사이즈표를 확인하세요. 사이즈 구성은 상품마다 다릅니다.",
           "**4CW5Y는 할인을 받을 수 있는 추천 코드이며 쿠폰은 아닙니다:** Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요. 결제 화면에는 붙여 넣지 않습니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. [SHEIN 추천 코드](/ko/reviews/shein-referral-code-ko)와 스토어의 대표 링크가 있는 [SHEIN 페이지](/ko/coupons/shein)를 보세요.",
           "**블랙 프라이데이를 기다리시나요?** [SHEIN 블랙 프라이데이](/ko/reviews/shein-black-friday-ko) 가이드에 11월 캠페인에 대해 지금까지 알려진 내용을 정리했습니다.",
@@ -141315,8 +141189,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN 11.11은 언제까지인가요? SHEIN에 따르면 11.11 다음 날 끝납니다. 날짜는 위의 답변 요약에 있습니다.",
-          "상품 할인율이 바뀔 수 있나요? 네. 이 가이드의 할인율은 게시일 기준이고, SHEIN은 캠페인 중에 세일 내용을 바꿉니다.",
+          "SHEIN 11.11은 언제 끝나나요? SHEIN에 접속했을 때 표시되는 캠페인의 종료일을 확인하세요.",
+          "가격과 할인율이 바뀔 수 있나요? 네. 주문하기 전에 상품 페이지에서 가격과 할인 여부를 확인하세요.",
           "4CW5Y는 쿠폰인가요? 아니요, 하지만 할인은 받을 수 있습니다. SHEIN의 추천 코드로, Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인이 있는 셀렉션으로 이동하며 결제 화면에는 붙여 넣지 않습니다.",
           "링크를 누르면 바로 그 상품으로 가나요? 네. 각 상품의 사진과 카드는 11.11 캠페인 안에서 그 상품의 페이지를 열고, 캠페인 링크는 글로벌 세일 셀렉션 페이지를 엽니다."
         ]
@@ -141328,8 +141202,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-picks-zh-hans",
     "locale": "zh-hans",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11：Cecília 挑的 19 件好物，从睡衣到配饰（到 11 月 12 日）",
-    "seoTitle": "SHEIN 11.11 2026：19 件好物，附折扣和评分",
+    "title": "SHEIN 11.11：Cecília 挑的 19 件好物，从睡衣到配饰",
+    "seoTitle": "SHEIN 11.11 2026：19 件好物，附店铺评分",
     "type": "指南与优惠码",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -141345,8 +141219,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília 在 SHEIN 11.11 大促（到 2026年11月12日）中的精选：19 件，分 5 组（睡衣、童装、女装、配饰、男装），每件都附当天折扣、评分，以及直达活动中该商品的链接。折扣截至 2026年10月28日。",
-    "metaDescription": "SHEIN 11.11 到 2026年11月12日：Cecília 挑的 19 件，从睡衣到男士衬衫，每件都附折扣和评分。",
+    "description": "Cecília 挑选的 19 件 SHEIN 商品，分为睡衣、童装、女装、配饰和男装 5 组，附店铺评分、尺码信息和商品直达链接。",
+    "metaDescription": "SHEIN 11.11：Cecília 挑选的 19 件商品，附店铺评分和链接。搜索推荐码 4CW5Y，可进入有促销和折扣的精选页面。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 精选拼图：碎花睡衣、儿童套装、开衫、高跟鞋和男士衬衫，带 SHEIN 标志",
     "imageFit": "contain",
@@ -141354,14 +141228,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "本文的链接通往 SHEIN 11.11 大促中的各件商品，活动到 2026 年 11 月 12 日。下单前请在商品页核对价格和尺码表。",
+      "text": "打开 SHEIN 查看当前优惠。下单前，请在所选商品的页面核对价格和尺码表。",
       "label": "去 SHEIN 看这份精选",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Cecília 的精选，折扣于发布当天在 SHEIN 读取；站内无人试穿过这些商品。我们可能通过链接和推荐码 4CW5Y 获得佣金。",
+    "editorialNote": "Cecília 根据商品页整理的精选，站内无人试穿过这些商品。我们可能通过链接和推荐码 4CW5Y 获得佣金。",
     "relatedArticles": [
       {
         "slug": "shein-referral-code-zh-hans"
@@ -141377,13 +141251,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 大促到 11 月 12 日结束。Cecília 挑了 19 件，分 5 组：睡衣、童装、女装、配饰和男装，价格和折扣因商品而异。用 4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，就能进入带促销的精选（折扣多少、哪些商品，由 SHEIN 决定）。"
+          "Cecília 挑了 19 件，分 5 组：睡衣、童装、女装、配饰和男装，价格和折扣因商品而异。用 4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，就能进入带促销的精选（折扣多少、哪些商品，由 SHEIN 决定）。"
         ]
       },
       {
         "heading": "11.11 大促",
         "paragraphs": [
-          "SHEIN 的 11.11 大促已经开始。据 SHEIN 称，60 万件以上商品最高减 85%，店里还把活动引向 App。",
+          "这份 11.11 精选收录了 Cecília 挑选的 19 件商品。购买时，请以 SHEIN 页面显示的活动时间和优惠为准。",
           "入口页是[11.11 全球热卖精选](https://onelink.shein.com/58/66i60wu7xjjd)。下面的 19 件，点图片和卡片都会在活动里打开各自的商品页。",
           "4CW5Y 是 SHEIN 的推荐码，确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，会打开一个包含精选商品、促销和折扣的页面。折扣多少、哪些商品，由 SHEIN 决定。它不是优惠券，不粘贴到结算页。步骤见[SHEIN 推荐码：如何使用 4CW5Y](/zh-hans/reviews/shein-referral-code-zh-hans)。"
         ]
@@ -141393,89 +141267,89 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "商品",
-            "折扣"
+            "店铺评分"
           ],
           "rows": [
             [
               "[Serenescape 碎花睡衣](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "-20%"
+              "4.91"
             ],
             [
               "[条纹爱心背心短裤睡衣](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-              "—"
+              "4.86"
             ],
             [
               "[卡通印花三件套睡衣](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "-20%"
+              "4.95"
             ],
             [
               "[女童爱心背心阔腿裤套装](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "-20%"
+              "4.88"
             ],
             [
               "[恐龙夜光男童睡衣](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "-4%"
+              "4.36"
             ],
             [
               "[粉笔画动物婴儿上衣](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "-20%"
+              "4.12"
             ],
             [
               "[男童长袖睡衣，图案随机](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "-20%"
+              "4.09"
             ],
             [
               "[蓝色条纹背心阔腿裤套装](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "-20%"
+              "4.70"
             ],
             [
               "[DAZY 运动修身开衫](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "-31%"
+              "4.78"
             ],
             [
               "[纸袋腰印花短裤](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "-65%"
+              "4.88"
             ],
             [
               "[松紧腰阔腿牛仔裤](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "-20%"
+              "4.31"
             ],
             [
               "[白色配焦糖色后空高跟鞋](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "-38%"
+              "4.82"
             ],
             [
               "[蝴蝶结珍珠爱心耳环](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "-20%"
+              "4.92"
             ],
             [
               "[绿色手表配手链、项链和耳环套装](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "-20%"
+              "4.75"
             ],
             [
               "[多边形渐变镜片太阳镜](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-              "-4%"
+              "4.88"
             ],
             [
               "[藏青色亚麻质感亨利衫](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "-20%"
+              "4.61"
             ],
             [
               "[亚麻短裤套装](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "-53%"
+              "4.76"
             ],
             [
               "[Manfinity Mode 男士长袖衬衫](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "-20%"
+              "4.86"
             ],
             [
               "[黑色做旧宽松背心](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "-20%"
+              "4.73"
             ]
           ]
         },
         "paragraphs": [
-          "折扣截至 2026年10月28日，来自每件商品的页面。"
+          "表格汇总了 19 件商品，以及整理这份精选时查看的店铺评分。当前价格和是否有折扣，请到各商品页确认。"
         ]
       },
       {
@@ -141487,7 +141361,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Serenescape 碎花睡衣",
         "bullets": [
-          "商品页折扣：-20%",
           "商品页评分 4.91，评价超过 1000 条"
         ],
         "paragraphs": [
@@ -141547,7 +141420,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "卡通印花三件套睡衣",
         "bullets": [
-          "商品页折扣：-20%",
           "商品页评分 4.95，评价超过 1000 条，为本期精选最高"
         ],
         "paragraphs": [
@@ -141581,7 +141453,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "女童爱心背心阔腿裤套装",
         "bullets": [
-          "商品页折扣：-20%",
           "尺码：4 到 7 岁；店里也有 8 到 12 岁。",
           "商品页评分 4.88，评价超过 1000 条"
         ],
@@ -141618,7 +141489,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "恐龙夜光男童睡衣",
         "bullets": [
-          "商品页折扣：-4%",
           "尺码：4 到 7 岁。",
           "商品页评分 4.36，评价 83 条"
         ],
@@ -141647,7 +141517,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "粉笔画动物婴儿上衣",
         "bullets": [
-          "商品页折扣：-20%",
           "尺码：6 个月到 3 岁。",
           "商品页评分 4.12，评价超过 1000 条"
         ],
@@ -141684,7 +141553,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "男童长袖睡衣，图案随机",
         "bullets": [
-          "商品页折扣：-20%",
           "尺码：9 个月到 7 岁。",
           "商品页评分 4.09，评价 62 条"
         ],
@@ -141713,13 +141581,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "女装",
         "paragraphs": [
-          "四件日常女装：一套搭配、一件开衫、一条短裤和一条牛仔裤。折扣最大的在这里，就是那条印花短裤。"
+          "四件日常女装：一套搭配、一件开衫、一条短裤和一条牛仔裤。"
         ]
       },
       {
         "heading": "蓝色条纹背心阔腿裤套装",
         "bullets": [
-          "商品页折扣：-20%",
           "商品页评分 4.70，评价超过 1000 条"
         ],
         "paragraphs": [
@@ -141759,7 +141626,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "DAZY 运动修身开衫",
         "bullets": [
-          "商品页折扣：-31%",
           "商品页评分 4.78，评价超过 1000 条"
         ],
         "paragraphs": [
@@ -141799,11 +141665,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "纸袋腰印花短裤",
         "bullets": [
-          "商品页折扣：-65%",
           "商品页评分 4.88，评价超过 1000 条"
         ],
         "paragraphs": [
-          "这是纸袋腰短裤，适合想要一条平价夏季和度假短裤的人。它是本期精选中折扣最大的一件。"
+          "这是纸袋腰短裤，适合想要一条夏季和度假短裤的人。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -141835,7 +141700,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "松紧腰阔腿牛仔裤",
         "bullets": [
-          "商品页折扣：-20%",
           "商品页评分 4.31，评价 48 条"
         ],
         "paragraphs": [
@@ -141881,7 +141745,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "白色配焦糖色后空高跟鞋",
         "bullets": [
-          "商品页折扣：-38%",
           "商品页评分 4.82，评价超过 100 条"
         ],
         "paragraphs": [
@@ -141918,7 +141781,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "蝴蝶结珍珠爱心耳环",
         "bullets": [
-          "商品页折扣：-20%",
           "尺寸：均码。",
           "商品页评分 4.92，评价超过 1000 条"
         ],
@@ -141947,7 +141809,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "绿色手表配手链、项链和耳环套装",
         "bullets": [
-          "商品页折扣：-20%",
           "尺寸：均码。",
           "商品页评分 4.75，评价超过 1000 条"
         ],
@@ -141976,12 +141837,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "多边形渐变镜片太阳镜",
         "bullets": [
-          "商品页折扣：-4%",
           "尺码：无，只选颜色。",
           "商品页评分 4.88，评价超过 1000 条"
         ],
         "paragraphs": [
-          "这是多边形镜框、渐变镜片的太阳镜，有 6 种颜色。适合想要一副开车和旅行用的太阳镜的人；这一件的折扣不大。"
+          "这是多边形镜框、渐变镜片的太阳镜，有 6 种颜色。适合想要一副开车和旅行用的太阳镜的人。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -142011,7 +141871,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "藏青色亚麻质感亨利衫",
         "bullets": [
-          "商品页折扣：-20%",
           "商品页评分 4.61，评价超过 500 条"
         ],
         "paragraphs": [
@@ -142051,7 +141910,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "亚麻短裤套装",
         "bullets": [
-          "商品页折扣：-53%",
           "商品页评分 4.76，评价 34 条"
         ],
         "paragraphs": [
@@ -142091,7 +141949,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Manfinity Mode 男士长袖衬衫",
         "bullets": [
-          "商品页折扣：-20%",
           "商品页评分 4.86，评价超过 1000 条"
         ],
         "paragraphs": [
@@ -142130,7 +141987,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "黑色做旧宽松背心",
         "bullets": [
-          "商品页折扣：-20%",
           "商品页评分 4.73，评价超过 500 条"
         ],
         "paragraphs": [
@@ -142169,7 +142025,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "下单前",
         "bullets": [
-          "**折扣天天变：**每件的折扣都是发布当天的。SHEIN 在活动期间会调整优惠。",
+          "**价格和优惠可能变化：** 下单前，请在商品页确认价格和是否有折扣。",
           "**尺码：**如果你在两个码之间犹豫，选之前先看商品页的尺码表，因为每件的尺码都不一样。",
           "**4CW5Y 是推荐码，确实有折扣，但不是优惠券：**通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，不粘贴到结算页。折扣多少、哪些商品，由 SHEIN 决定。见[SHEIN 推荐码](/zh-hans/reviews/shein-referral-code-zh-hans)和带商店主链接的[SHEIN 店铺页面](/zh-hans/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hans/reviews/shein-black-friday-zh-hans)指南整理了 11 月活动目前已知的信息。",
@@ -142179,8 +142035,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "SHEIN 11.11 到什么时候？据 SHEIN 称，到 11.11 的次日结束；日期见上面的快速回答。",
-          "这些商品的折扣会变吗？会。本文的折扣是发布当天的，SHEIN 在活动期间会调整优惠。",
+          "SHEIN 11.11 什么时候结束？请查看打开 SHEIN 时页面显示的活动截止日期。",
+          "价格和折扣会变吗？会。下单前，请在商品页确认价格和是否有折扣。",
           "4CW5Y 是优惠券吗？不是，但确实有折扣。它是 SHEIN 的推荐码：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索，就能进入带促销和折扣的精选，不粘贴到结算页。",
           "链接直接到商品吗？是。每件商品的图片和卡片都在 11.11 活动里打开该商品的页面，活动链接打开的是全球热卖精选页面。"
         ]
@@ -142192,8 +142048,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-picks-zh-hant",
     "locale": "zh-hant",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11：Cecília 挑的 19 件好物，從睡衣到配件（到 11 月 12 日）",
-    "seoTitle": "SHEIN 11.11 2026：19 件好物，附折扣和評分",
+    "title": "SHEIN 11.11：Cecília 挑的 19 件好物，從睡衣到配件",
+    "seoTitle": "SHEIN 11.11 2026：19 件好物，附店家評分",
     "type": "指南與優惠碼",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -142209,8 +142065,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília 在 SHEIN 11.11 大促（到 2026年11月12日）中的精選：19 件，分 5 組（睡衣、童裝、女裝、配件、男裝），每件都附當天折扣、評分，以及直達活動中該商品的連結。折扣截至 2026年10月28日。",
-    "metaDescription": "SHEIN 11.11 到 2026年11月12日：Cecília 挑的 19 件，從睡衣到男士襯衫，每件都附折扣和評分。",
+    "description": "Cecília 挑選的 19 件 SHEIN 商品，分為睡衣、童裝、女裝、配件和男裝 5 組，附店家評分、尺寸資訊和商品直達連結。",
+    "metaDescription": "SHEIN 11.11：Cecília 挑選的 19 件商品，附店家評分和連結。搜尋推薦碼 4CW5Y，可進入有促銷和折扣的精選頁面。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "SHEIN 11.11 精選拼圖：碎花睡衣、兒童套裝、開襟衫、高跟鞋和男士襯衫，附 SHEIN 標誌",
     "imageFit": "contain",
@@ -142218,14 +142074,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "本文的連結通往 SHEIN 11.11 大促中的各件商品，活動到 2026 年 11 月 12 日。下單前請在商品頁核對價格和尺寸表。",
+      "text": "開啟 SHEIN 查看目前優惠。下單前，請在所選商品的頁面核對價格和尺寸表。",
       "label": "到 SHEIN 看這份精選",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Cecília 的精選，折扣於發布當天在 SHEIN 查看；站內無人穿過這些商品。我們可能透過連結和推薦碼 4CW5Y 獲得傭金。",
+    "editorialNote": "Cecília 根據商品頁整理的精選，站內無人穿過這些商品。我們可能透過連結和推薦碼 4CW5Y 獲得傭金。",
     "relatedArticles": [
       {
         "slug": "shein-referral-code-zh-hant"
@@ -142241,13 +142097,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 大促到 11 月 12 日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝，價格和折扣因商品而異。用 4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，就能進入帶促銷的精選（折扣多少、哪些商品，由 SHEIN 決定）。"
+          "Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝，價格和折扣因商品而異。用 4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，就能進入帶促銷的精選（折扣多少、哪些商品，由 SHEIN 決定）。"
         ]
       },
       {
         "heading": "11.11 大促",
         "paragraphs": [
-          "SHEIN 的 11.11 大促已經開始。據 SHEIN 表示，60 萬件以上商品最高減 85%，店家還把活動引向 App。",
+          "這份 11.11 精選收錄了 Cecília 挑選的 19 件商品。購買時，請以 SHEIN 頁面顯示的活動時間和優惠為準。",
           "入口頁是[11.11 全球熱銷精選](https://onelink.shein.com/58/66i60wu7xjjd)。下面的 19 件，點圖片和卡片都會在活動裡開啟各自的商品頁。",
           "4CW5Y 是 SHEIN 的推薦碼，確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，會開啟一個包含精選商品、促銷和折扣的頁面。折扣多少、哪些商品，由 SHEIN 決定。它不是優惠券，不貼到結帳頁。步驟見[SHEIN 推薦碼：如何使用 4CW5Y](/zh-hant/reviews/shein-referral-code-zh-hant)。"
         ]
@@ -142257,89 +142113,89 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "商品",
-            "折扣"
+            "店家評分"
           ],
           "rows": [
             [
               "[Serenescape 碎花睡衣](https://onelink.shein.com/58/66i6gwz8tkce?ismg_ol=1VG6KOgsQpN_01_KOC-C)",
-              "-20%"
+              "4.91"
             ],
             [
               "[條紋愛心背心短褲睡衣](https://onelink.shein.com/58/66i6ii7605xm?ismg_ol=C56vj2YsUU1_01_KOC-C)",
-              "—"
+              "4.86"
             ],
             [
               "[卡通印花三件式睡衣](https://onelink.shein.com/58/66i6jpltkd2f?ismg_ol=4LFxFGfIpGq_01_KOC-C)",
-              "-20%"
+              "4.95"
             ],
             [
               "[女童愛心背心寬褲套裝](https://onelink.shein.com/58/66i7fg0psu42?ismg_ol=27SKt0dczAe_01_KOC-C)",
-              "-20%"
+              "4.88"
             ],
             [
               "[恐龍夜光男童睡衣](https://onelink.shein.com/58/66i7hb3rmpa9?ismg_ol=LXkvw5WStjY_01_KOC-C)",
-              "-4%"
+              "4.36"
             ],
             [
               "[粉筆畫動物嬰兒上衣](https://onelink.shein.com/58/66i7mgko7ux0?ismg_ol=JExKzDwK49B_01_KOC-C)",
-              "-20%"
+              "4.12"
             ],
             [
               "[男童長袖睡衣，圖案隨機](https://onelink.shein.com/58/66i7snj5xcvt?ismg_ol=3TLuK4uWFVv_01_KOC-C)",
-              "-20%"
+              "4.09"
             ],
             [
               "[藍色條紋背心寬褲套裝](https://onelink.shein.com/58/66i7uojbn1un?ismg_ol=Kc2QEcNwom9_01_KOC-C)",
-              "-20%"
+              "4.70"
             ],
             [
               "[DAZY 運動修身外套式開襟衫](https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C)",
-              "-31%"
+              "4.78"
             ],
             [
               "[紙袋腰印花短褲](https://onelink.shein.com/58/66i7xb8tf11m?ismg_ol=8uryWRz7rk4_01_KOC-C)",
-              "-65%"
+              "4.88"
             ],
             [
               "[鬆緊腰寬褲牛仔褲](https://onelink.shein.com/58/66i7ycqdnrjx?ismg_ol=Khf89DxDJtO_01_KOC-C)",
-              "-20%"
+              "4.31"
             ],
             [
               "[白色配焦糖色後空高跟鞋](https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C)",
-              "-38%"
+              "4.82"
             ],
             [
               "[蝴蝶結珍珠愛心耳環](https://onelink.shein.com/58/66i81n48f25n?ismg_ol=CeInGjKgrm1_01_KOC-C)",
-              "-20%"
+              "4.92"
             ],
             [
               "[綠色手錶搭手鍊、項鍊和耳環組](https://onelink.shein.com/58/66i82eqow4rv?ismg_ol=8kjLbavdZBt_01_KOC-C)",
-              "-20%"
+              "4.75"
             ],
             [
               "[多邊形漸層鏡片太陽眼鏡](https://onelink.shein.com/58/66i83k6bcz8c?ismg_ol=GuTWnPASIfe_01_KOC-C)",
-              "-4%"
+              "4.88"
             ],
             [
               "[藏青色亞麻質感亨利衫](https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C)",
-              "-20%"
+              "4.61"
             ],
             [
               "[亞麻短褲組](https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C)",
-              "-53%"
+              "4.76"
             ],
             [
               "[Manfinity Mode 男士長袖襯衫](https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C)",
-              "-20%"
+              "4.86"
             ],
             [
               "[黑色水洗做舊寬鬆背心](https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C)",
-              "-20%"
+              "4.73"
             ]
           ]
         },
         "paragraphs": [
-          "折扣截至 2026年10月28日，來自每件商品的頁面。"
+          "表格彙整了 19 件商品，以及整理這份精選時查看的店家評分。目前價格和是否有折扣，請到各商品頁確認。"
         ]
       },
       {
@@ -142351,7 +142207,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Serenescape 碎花睡衣",
         "bullets": [
-          "商品頁折扣：-20%",
           "商品頁評分 4.91，評價超過 1000 則"
         ],
         "paragraphs": [
@@ -142411,7 +142266,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "卡通印花三件式睡衣",
         "bullets": [
-          "商品頁折扣：-20%",
           "商品頁評分 4.95，評價超過 1000 則，為本期精選最高"
         ],
         "paragraphs": [
@@ -142445,7 +142299,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "女童愛心背心寬褲套裝",
         "bullets": [
-          "商品頁折扣：-20%",
           "尺寸：4 到 7 歲；店裡也有 8 到 12 歲。",
           "商品頁評分 4.88，評價超過 1000 則"
         ],
@@ -142482,7 +142335,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "恐龍夜光男童睡衣",
         "bullets": [
-          "商品頁折扣：-4%",
           "尺寸：4 到 7 歲。",
           "商品頁評分 4.36，評價 83 則"
         ],
@@ -142511,7 +142363,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "粉筆畫動物嬰兒上衣",
         "bullets": [
-          "商品頁折扣：-20%",
           "尺寸：6 個月到 3 歲。",
           "商品頁評分 4.12，評價超過 1000 則"
         ],
@@ -142548,7 +142399,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "男童長袖睡衣，圖案隨機",
         "bullets": [
-          "商品頁折扣：-20%",
           "尺寸：9 個月到 7 歲。",
           "商品頁評分 4.09，評價 62 則"
         ],
@@ -142577,13 +142427,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "女裝",
         "paragraphs": [
-          "四件日常女裝：一套搭配、一件開襟衫、一條短褲和一條牛仔褲。折扣最大的在這裡，就是那條印花短褲。"
+          "四件日常女裝：一套搭配、一件開襟衫、一條短褲和一條牛仔褲。"
         ]
       },
       {
         "heading": "藍色條紋背心寬褲套裝",
         "bullets": [
-          "商品頁折扣：-20%",
           "商品頁評分 4.70，評價超過 1000 則"
         ],
         "paragraphs": [
@@ -142623,7 +142472,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "DAZY 運動修身外套式開襟衫",
         "bullets": [
-          "商品頁折扣：-31%",
           "商品頁評分 4.78，評價超過 1000 則"
         ],
         "paragraphs": [
@@ -142663,11 +142511,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "紙袋腰印花短褲",
         "bullets": [
-          "商品頁折扣：-65%",
           "商品頁評分 4.88，評價超過 1000 則"
         ],
         "paragraphs": [
-          "這是紙袋腰短褲，適合想要一條平價夏季和度假短褲的人。它是本期精選中折扣最大的一件。"
+          "這是紙袋腰短褲，適合想要一條夏季和度假短褲的人。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
@@ -142699,7 +142546,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "鬆緊腰寬褲牛仔褲",
         "bullets": [
-          "商品頁折扣：-20%",
           "商品頁評分 4.31，評價 48 則"
         ],
         "paragraphs": [
@@ -142745,7 +142591,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "白色配焦糖色後空高跟鞋",
         "bullets": [
-          "商品頁折扣：-38%",
           "商品頁評分 4.82，評價超過 100 則"
         ],
         "paragraphs": [
@@ -142782,7 +142627,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "蝴蝶結珍珠愛心耳環",
         "bullets": [
-          "商品頁折扣：-20%",
           "尺寸：單一尺寸。",
           "商品頁評分 4.92，評價超過 1000 則"
         ],
@@ -142811,7 +142655,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "綠色手錶搭手鍊、項鍊和耳環組",
         "bullets": [
-          "商品頁折扣：-20%",
           "尺寸：單一尺寸。",
           "商品頁評分 4.75，評價超過 1000 則"
         ],
@@ -142840,12 +142683,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "多邊形漸層鏡片太陽眼鏡",
         "bullets": [
-          "商品頁折扣：-4%",
           "尺寸：無，只選顏色。",
           "商品頁評分 4.88，評價超過 1000 則"
         ],
         "paragraphs": [
-          "這是多邊形鏡框、漸層鏡片的太陽眼鏡，有 6 種顏色。適合想要一副開車和旅行用的太陽眼鏡的人；這一件的折扣不大。"
+          "這是多邊形鏡框、漸層鏡片的太陽眼鏡，有 6 種顏色。適合想要一副開車和旅行用的太陽眼鏡的人。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
@@ -142875,7 +142717,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "藏青色亞麻質感亨利衫",
         "bullets": [
-          "商品頁折扣：-20%",
           "商品頁評分 4.61，評價超過 500 則"
         ],
         "paragraphs": [
@@ -142915,7 +142756,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "亞麻短褲組",
         "bullets": [
-          "商品頁折扣：-53%",
           "商品頁評分 4.76，評價 34 則"
         ],
         "paragraphs": [
@@ -142955,7 +142795,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Manfinity Mode 男士長袖襯衫",
         "bullets": [
-          "商品頁折扣：-20%",
           "商品頁評分 4.86，評價超過 1000 則"
         ],
         "paragraphs": [
@@ -142994,7 +142833,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "黑色水洗做舊寬鬆背心",
         "bullets": [
-          "商品頁折扣：-20%",
           "商品頁評分 4.73，評價超過 500 則"
         ],
         "paragraphs": [
@@ -143033,7 +142871,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "下單前",
         "bullets": [
-          "**折扣天天變：**每件的折扣都是發布當天的。SHEIN 在活動期間會調整優惠。",
+          "**價格和優惠可能變動：** 下單前，請在商品頁確認價格和是否有折扣。",
           "**尺寸：**如果你在兩個尺寸之間猶豫，選之前先看商品頁的尺寸表，因為每件的尺寸都不一樣。",
           "**4CW5Y 是推薦碼，確實有折扣，但不是優惠券：**透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，不貼到結帳頁。折扣多少、哪些商品，由 SHEIN 決定。見[SHEIN 推薦碼](/zh-hant/reviews/shein-referral-code-zh-hant)和附商店主連結的[SHEIN 商店頁面](/zh-hant/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hant/reviews/shein-black-friday-zh-hant)指南整理了 11 月活動目前已知的資訊。",
@@ -143043,8 +142881,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "SHEIN 11.11 到什麼時候？據 SHEIN 表示，到 11.11 的隔天結束；日期見上面的快速回答。",
-          "這些商品的折扣會變嗎？會。本文的折扣是發布當天的，SHEIN 在活動期間會調整優惠。",
+          "SHEIN 11.11 什麼時候結束？請查看開啟 SHEIN 時頁面顯示的活動截止日期。",
+          "價格和折扣會變嗎？會。下單前，請在商品頁確認價格和是否有折扣。",
           "4CW5Y 是優惠券嗎？不是，但確實有折扣。它是 SHEIN 的推薦碼：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋，就能進入帶促銷和折扣的精選，不貼到結帳頁。",
           "連結直接到商品嗎？是。每件商品的圖片和卡片都在 11.11 活動裡開啟該商品的頁面，活動連結開啟的是全球熱銷精選頁面。"
         ]
