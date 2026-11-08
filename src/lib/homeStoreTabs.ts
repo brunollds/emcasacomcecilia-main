@@ -23,6 +23,8 @@ export type HomeStoreArticle = {
 // desconto dele no lugar do código de sempre, com o fim do prazo.
 export type HomeLimitedCode = {
   code: string;
+  // O botão de copiar do código com prazo (o do código de sempre, em tab.copyAria, não serve a ele).
+  copyAria: string;
   discount: string;
   startsAt: string;
   endsAt: string;
@@ -41,6 +43,8 @@ export type HomeStoreTab = {
   label: string;
   // Falta só em loja de link sem código de indicação.
   code?: string;
+  // O nome acessível do botão de copiar ("Copiar o código X"); vazio sem código.
+  copyAria: string;
   discount: string;
   // Só em loja com código com prazo que ainda não venceu.
   limitedCodes?: HomeLimitedCode[];

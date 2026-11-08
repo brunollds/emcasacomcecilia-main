@@ -6,7 +6,6 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
 import { asSentence } from '@/components/coupons/CouponBlocks';
-import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { HomeStoreStrip, type TabDirection } from '@/components/sections/HomeStoreStrip';
@@ -15,6 +14,7 @@ import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { StoreMark } from '@/components/ui/StoreMark';
 import { trackEvent } from '@/lib/analytics';
 import { cardImageLook } from '@/lib/cardImage';
+import type { HomeCopy } from '@/components/sections/homeCopy';
 import {
   CECILIA_TAB_ID,
   MOBILE_VISIBLE_ARTICLES,
@@ -26,7 +26,6 @@ import {
   type HomeStoreTab,
 } from '@/lib/homeStoreTabs';
 
-const COPY_LABELS = getCouponCopyLabels('pt');
 // Foco dentro de caixas com overflow escondido: a borda fica para dentro, senão é cortada.
 const FOCUS_INSET = 'focus-visible:outline-3 focus-visible:-outline-offset-3 focus-visible:outline-marinho';
 const TEXT_LINK = `flex min-h-11 items-center text-sm text-marinho underline underline-offset-[3px] ${FOCUS_RING}`;
@@ -51,11 +50,14 @@ type HomeStoreStoriesProps = {
   tabs: HomeStoreTab[];
   ceciliaPanel: ReactNode;
   ceciliaPhoto: string;
+  copy: HomeCopy;
+  // A aba que abre com a página. Por padrão, a primeira loja; a home dos idiomas abre na Cecília.
+  defaultTabId?: string;
 };
 
-export function HomeStoreStories({ tabs, ceciliaPanel, ceciliaPhoto }: HomeStoreStoriesProps) {
+export function HomeStoreStories({ tabs, ceciliaPanel, ceciliaPhoto, copy, defaultTabId }: HomeStoreStoriesProps) {
   const storeSlugs = tabs.map(({ slug }) => slug);
-  const defaultTab = getDefaultTabId(storeSlugs);
+  const defaultTab = defaultTabId ?? getDefaultTabId(storeSlugs);
   const selected = useSyncExternalStore(
     subscribeToTab,
     () => parseTabHash(window.location.hash, storeSlugs) ?? defaultTab,
@@ -79,11 +81,11 @@ export function HomeStoreStories({ tabs, ceciliaPanel, ceciliaPhoto }: HomeStore
   return (
     // O overflow-x-clip segura o painel que entra de lado: sem ele, a página rolaria na horizontal.
     <section
-      aria-label="A Cecília e as lojas parceiras"
+      aria-label={copy.sectionLabel}
       style={entryStyle}
       className="mx-auto flex w-full max-w-[1200px] flex-col gap-3.5 overflow-x-clip px-4 pt-3.5 md:gap-[22px] md:px-10 md:pt-8"
     >
-      <HomeStoreStrip tabs={tabs} ceciliaPhoto={ceciliaPhoto} selected={selected} onSelect={select} />
+      <HomeStoreStrip tabs={tabs} ceciliaPhoto={ceciliaPhoto} selected={selected} onSelect={select} copy={copy} />
 
       <div
         id={`painel-${getTabAnchor(CECILIA_TAB_ID)}`}
@@ -103,24 +105,24 @@ export function HomeStoreStories({ tabs, ceciliaPanel, ceciliaPhoto }: HomeStore
           hidden={selected !== tab.slug}
           className={panelClass}
         >
-          <StorePanel tab={tab} eager={tab.slug === defaultTab} />
+          <StorePanel tab={tab} eager={tab.slug === defaultTab} copy={copy} />
         </div>
       ))}
     </section>
   );
 }
 
-function StorePanel({ tab, eager }: { tab: HomeStoreTab; eager: boolean }) {
+function StorePanel({ tab, eager, copy }: { tab: HomeStoreTab; eager: boolean; copy: HomeCopy }) {
   const [current, setCurrent] = useState(0);
   const count = tab.articles.length;
   const move = (step: number) => setCurrent((index) => (index + step + count) % count);
 
   return (
     <div className="flex flex-col gap-4 md:gap-[22px]">
-      <StoreCodeBanner tab={tab} />
+      <StoreCodeBanner tab={tab} copy={copy} />
       <div className="flex flex-col gap-5 lg:flex-row lg:items-start">
         {count > 0 ? (
-          <ArticleStory article={tab.articles[current]} index={current} count={count} onMove={move} eager={eager} />
+          <ArticleStory article={tab.articles[current]} index={current} count={count} onMove={move} eager={eager} copy={copy} />
         ) : null}
         <ArticleList tab={tab} current={current} onPick={setCurrent} />
       </div>
@@ -130,27 +132,27 @@ function StorePanel({ tab, eager }: { tab: HomeStoreTab; eager: boolean }) {
 
 // Dentro do prazo de um código com prazo, o recorte mostra ele e o desconto dele no lugar do código de sempre; fora
 // dos prazos, o de sempre. A troca acontece sozinha no navegador quando o prazo começa ou acaba.
-function StoreCodeBanner({ tab }: { tab: HomeStoreTab }) {
+function StoreCodeBanner({ tab, copy }: { tab: HomeStoreTab; copy: HomeCopy }) {
   const limitedCodes = tab.limitedCodes ?? [];
-  if (limitedCodes.length === 0) return <CodeBanner tab={tab} />;
+  if (limitedCodes.length === 0) return <CodeBanner tab={tab} copy={copy} />;
 
   const windows = limitedCodes.map(({ startsAt, endsAt }) => ({ from: startsAt, until: endsAt }));
   return (
     <>
       {limitedCodes.map((item) => (
         <CampaignWindow key={item.startsAt} from={item.startsAt} until={item.endsAt} hiddenInHtml={!item.inHtml}>
-          <CodeBanner tab={{ ...tab, code: item.code, discount: item.discount }} deadline={item.deadline} />
+          <CodeBanner tab={{ ...tab, code: item.code, discount: item.discount, copyAria: item.copyAria }} deadline={item.deadline} copy={copy} />
         </CampaignWindow>
       ))}
       <OutsideCampaignWindows windows={windows} hiddenInHtml={limitedCodes.some((item) => item.inHtml)}>
-        <CodeBanner tab={tab} />
+        <CodeBanner tab={tab} copy={copy} />
       </OutsideCampaignWindows>
     </>
   );
 }
 
 // O recorte do código: parte laranja com logo, rótulo e oferta; parte creme com o código e os links.
-function CodeBanner({ tab, deadline }: { tab: HomeStoreTab; deadline?: string }) {
+function CodeBanner({ tab, deadline, copy }: { tab: HomeStoreTab; deadline?: string; copy: HomeCopy }) {
   const titleId = `titulo-${getTabAnchor(tab.slug)}`;
 
   return (
@@ -194,12 +196,12 @@ function CodeBanner({ tab, deadline }: { tab: HomeStoreTab; deadline?: string })
                 code={tab.code}
                 brand={tab.slug}
                 placement="home_store_banner"
-                ariaLabel={COPY_LABELS.copyCoupon(tab.code)}
+                ariaLabel={tab.copyAria}
                 copiedStatus={tab.hints.copied}
-                copiedChildren={COPY_LABELS.copied}
+                copiedChildren={copy.copied}
                 className={`flex min-h-11 min-w-[92px] shrink-0 items-center justify-center rounded-[10px] border-2 border-marinho bg-marinho px-4 text-sm font-extrabold text-white data-[copied=true]:bg-amarelo-cupom data-[copied=true]:text-marinho md:text-[15px] ${FOCUS_RING}`}
               >
-                {COPY_LABELS.copy}
+                {copy.copy}
               </CopyCodeButton>
             </div>
             <p className="text-[13px] font-medium text-marinho-suave">
@@ -221,10 +223,10 @@ function CodeBanner({ tab, deadline }: { tab: HomeStoreTab; deadline?: string })
           <TrackedCouponPageLink
             href={tab.storePageUrl}
             placement="home_store_page"
-            linkLabel="Ver a página da loja"
+            linkLabel={copy.storePage}
             className={`${TEXT_LINK} font-bold`}
           >
-            Ver a página da loja
+            {copy.storePage}
           </TrackedCouponPageLink>
         </div>
       </div>
@@ -241,7 +243,7 @@ type ArticleStoryProps = {
 };
 
 // Só no desktop: o artigo atual em destaque, com cores alternadas como no canvas.
-function ArticleStory({ article, index, count, onMove, eager }: ArticleStoryProps) {
+function ArticleStory({ article, index, count, onMove, eager, copy }: ArticleStoryProps & { copy: HomeCopy }) {
   const dark = index % 2 === 1;
   // A primeira imagem da aba que abre com a página é a do LCP no desktop: carrega já e com prioridade.
   const eagerImage = eager && index === 0;
@@ -286,23 +288,23 @@ function ArticleStory({ article, index, count, onMove, eager }: ArticleStoryProp
           href={article.href}
           placement="home_store_articles"
           linkLabel={article.title}
-          aria-label={`Ler o artigo: ${article.title}`}
+          aria-label={copy.readArticleNamed.replace('{title}', article.title)}
           className={`flex min-h-12 items-center justify-center rounded-[10px] border-2 text-[15px] font-extrabold ${
             dark ? `border-amarelo-cupom bg-amarelo-cupom text-marinho ${FOCUS_RING_ON_DARK}` : `border-marinho bg-marinho text-white ${FOCUS_RING}`
           }`}
         >
-          Ler o artigo
+          {copy.readArticle}
         </TrackedHomeLink>
       </div>
       {count > 1 ? (
         <div className="flex items-center justify-between border-t-2 border-marinho/15 bg-white px-4 py-3">
-          <button type="button" onClick={() => onMove(-1)} aria-label="Artigo anterior" className={`flex size-11 items-center justify-center rounded-lg text-marinho ${FOCUS_RING}`}>
+          <button type="button" onClick={() => onMove(-1)} aria-label={copy.previousArticle} className={`flex size-11 items-center justify-center rounded-lg text-marinho ${FOCUS_RING}`}>
             <ChevronLeft aria-hidden="true" className="size-[22px]" />
           </button>
           <span aria-live="polite" className="text-[13px] font-bold text-marinho-suave">
             {index + 1} / {count}
           </span>
-          <button type="button" onClick={() => onMove(1)} aria-label="Próximo artigo" className={`flex size-11 items-center justify-center rounded-lg text-marinho ${FOCUS_RING}`}>
+          <button type="button" onClick={() => onMove(1)} aria-label={copy.nextArticle} className={`flex size-11 items-center justify-center rounded-lg text-marinho ${FOCUS_RING}`}>
             <ChevronRight aria-hidden="true" className="size-[22px]" />
           </button>
         </div>

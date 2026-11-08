@@ -29,7 +29,7 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: LocaleHomeRouteProps): Promise<Metadata> {
   const locale = getRouteLocale((await params).locale);
-  const { path, meta, hero } = getLocaleHomeContent(locale, publishedReviews);
+  const { path, meta, photoUrl, panel } = getLocaleHomeContent(locale, publishedReviews);
 
   return {
     title: meta.title,
@@ -42,13 +42,13 @@ export async function generateMetadata({ params }: LocaleHomeRouteProps): Promis
       locale: LOCALES[locale].openGraphLocale,
       siteName: SITE_NAME,
       type: 'website',
-      images: [{ url: hero.photoUrl, alt: hero.photo.alt }],
+      images: [{ url: photoUrl, alt: panel.photo.alt }],
     },
     twitter: {
       card: 'summary_large_image',
       title: meta.title,
       description: meta.description,
-      images: [{ url: hero.photoUrl, alt: hero.photo.alt }],
+      images: [{ url: photoUrl, alt: panel.photo.alt }],
     },
   };
 }

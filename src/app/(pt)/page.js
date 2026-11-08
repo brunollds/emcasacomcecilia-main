@@ -1,5 +1,6 @@
 import { HomeStoreStories } from '@/components/sections/HomeStoreStories';
-import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
+import { HomeCeciliaPanel, PT_CECILIA_PANEL } from '@/components/sections/HomeCeciliaPanel';
+import { getHomeCopy } from '@/components/sections/homeCopy';
 import { HomeLatest } from '@/components/sections/HomeLatest';
 import { HomeEvent } from '@/components/sections/HomeEvent';
 import { couponFontVariables } from '@/components/coupons/CouponBlocks';
@@ -60,14 +61,15 @@ export default async function Home() {
       <div className="pb-8 md:pb-10">
         <HomeStoreStories
           tabs={getHomeStoreTabs(publishedReviews)}
-          ceciliaPanel={<HomeCeciliaPanel />}
+          ceciliaPanel={<HomeCeciliaPanel copy={PT_CECILIA_PANEL} />}
           ceciliaPhoto={CECILIA_PHOTO}
+          copy={getHomeCopy('pt')}
         />
       </div>
 
       {/* Acabou de sair: os 5 artigos mais novos */}
       <div className="pb-8 md:pb-10">
-        <HomeLatest articles={getHomeLatest(publishedReviews)} />
+        <HomeLatest articles={getHomeLatest(publishedReviews)} copy={getHomeCopy('pt')} allHref="/reviews" />
       </div>
 
       {/* Data comercial: só durante uma campanha (content/home-events.json) */}

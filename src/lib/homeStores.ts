@@ -2,6 +2,7 @@ import { socialMedias } from '@/lib/brandLinks';
 import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/cardImage';
 import { formatBrasiliaDay, getActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '@/lib/couponsData';
 import { getCouponStorePath } from '@/lib/couponTranslations';
+import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import type { HomeLimitedCode, HomeStoreTab } from '@/lib/homeStoreTabs';
 import {
@@ -47,14 +48,17 @@ function articlesOfStore<T extends StoreReview>(listed: readonly T[], slug: stri
 // As lojas do artigo PT listado mais novo para o mais antigo (a ordem das bolinhas da home e de /reviews).
 // Segue a ordem de listedNewestFirst, que desempata a data pelo id; assim a primeira bolinha é a loja do
 // artigo que abre a lista. Loja sem artigo vai para o fim, na ordem recebida.
-export function sortStoresByNewestArticle<S extends Pick<Coupon, 'slug'>>(
-  stores: readonly S[],
-  reviews: readonly StoreReview[]
-): S[] {
+// Posição de cada loja na lista de artigos (já ordenada do mais novo): a primeira de cada loja vale.
+export function newestArticleRank(listed: readonly StoreReview[]): Map<string, number> {
   const rank = new Map<string, number>();
-  listedNewestFirst(reviews).forEach(({ affiliate }, index) => {
+  listed.forEach(({ affiliate }, index) => {
     if (affiliate && !rank.has(affiliate)) rank.set(affiliate, index);
   });
+  return rank;
+}
+
+export function sortStoresByNewestArticle<S extends Pick<Coupon, 'slug'>>(stores: readonly S[], reviews: readonly StoreReview[]): S[] {
+  const rank = newestArticleRank(listedNewestFirst(reviews));
   const rankOf = (store: S) => rank.get(store.slug) ?? Infinity;
   return stores
     .map((store, position) => ({ store, position }))
@@ -74,9 +78,10 @@ export function getStoreArticlesPath(slug: string): string {
 
 // Os códigos com prazo que ainda não venceram, com o texto do prazo pronto: o componente da vitrine é cliente e não
 // importa couponsData.
-function getHomeLimitedCodes(store: Coupon, now: number): HomeLimitedCode[] {
+function getHomeLimitedCodes(store: Coupon, now: number, copyAria: (code: string) => string): HomeLimitedCode[] {
   return getPendingLimitedCodes(store, now).map(({ code, discount, startsAt, endsAt, inHtml }) => ({
     code,
+    copyAria: copyAria(code),
     discount,
     startsAt,
     endsAt,
@@ -94,12 +99,13 @@ export function getHomeStoreTabs(
 ): HomeStoreTab[] {
   const listed = listedNewestFirst(reviews);
   const copy = getSidebarCopy('pt');
+  const labels = getCouponCopyLabels('pt');
 
   return sortStoresByNewestArticle(stores, reviews).map((store) => {
     const code = getStoreCode(store);
     const kind = getStoreCodeKind(store, code);
     const articles = articlesOfStore(listed, store.slug);
-    const limitedCodes = getHomeLimitedCodes(store, now);
+    const limitedCodes = getHomeLimitedCodes(store, now, labels.copyCoupon);
 
     return {
       slug: store.slug,
@@ -112,6 +118,7 @@ export function getHomeStoreTabs(
       ...(limitedCodes.length > 0 ? { limitedCodes } : {}),
       description: store.shortDescription,
       hints: getCodeHints(copy, kind, store.brand),
+      copyAria: code ? labels.copyCoupon(code) : '',
       storeUrl: store.offerUrl,
       storeLinkLabel: `Ir para ${theStore(store)}`,
       storePageUrl: getCouponStorePath(store.slug, 'pt'),

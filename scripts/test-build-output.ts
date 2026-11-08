@@ -13,6 +13,7 @@ import { getGalleryCopy } from '../src/components/review/galleryCopy';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
 import { CECILIA_PHOTO_COPY_PT } from '../src/components/sections/CeciliaProfile';
 import { getLocaleHomeCopy } from '../src/components/sections/localeHomeCopy';
+import { PT_HOME_CHROME } from '../src/components/sections/homeCopy';
 import { getShareCopy } from '../src/components/shared/shareCopy';
 import { cardDecorAt, couponCardDecorAt } from '../src/components/ui/cardDecor';
 import { brandLinks, socialMedias } from '../src/lib/brandLinks';
@@ -2080,6 +2081,7 @@ const PT_ONLY_TEXTS = [
   'Da minha casa',
   'Mais sobre mim',
   'Entre no grupo de promoções',
+  ...Object.values(PT_HOME_CHROME),
   ...PT_STORE_CATEGORIES,
   ...PT_CODE_TITLES.map(({ title }) => title),
 ];
@@ -2093,7 +2095,7 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assertLocalizedHead(pagePath, headOf(html), homeAlternates, LOCALES[locale].openGraphLocale);
   assertDiscoverHead(pagePath, headOf(html));
   // A imagem de compartilhamento é a foto da Cecília, no og:image, no cartão do X e no Person.
-  assertShareImage(pagePath, headOf(html), { url: content.hero.photoUrl, alt: content.hero.photo.alt });
+  assertShareImage(pagePath, headOf(html), { url: content.photoUrl, alt: content.panel.photo.alt });
 
   const main = html.match(/<main\b[\s\S]*<\/main>/)?.[0] ?? '';
   const body = bodyOf(html);
@@ -2104,38 +2106,30 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.ok(!body.includes(`aria-label="${getConsentCopy(locale).regionLabel}"`), `${pagePath}: aviso de cookies no HTML`);
 
   const schemas = jsonLdOf(main);
-  assert.deepEqual(schemas.map((schema) => schema['@type']).sort(), ['FAQPage', 'Person'], `${pagePath}: tipos do JSON-LD`);
-  const person = schemas.find((schema) => schema['@type'] === 'Person');
+  assert.deepEqual(schemas.map((schema) => schema['@type']), ['Person'], `${pagePath}: tipos do JSON-LD`);
+  const person = schemas[0];
   assert.equal(person.name, CECILIA_FULL_NAME, `${pagePath}: Person sem o nome completo`);
   assert.equal(person['@id'], CECILIA_PERSON_ID, `${pagePath}: Person sem o @id da Cecília`);
   personNodesChecked.home.push(pagePath);
-  assert.deepEqual(
-    person.sameAs,
-    content.follow.networks.map((network) => network.href),
-    `${pagePath}: Person.sameAs diferente das redes da página`
-  );
-  assert.equal(person.image, content.hero.photoUrl, `${pagePath}: Person.image diferente da foto do og:image`);
-  const visibleFaq = [...main.matchAll(/<details\b[^>]*><summary\b[^>]*>([\s\S]*?)<\/summary><div\b[^>]*><p\b[^>]*>([\s\S]*?)<\/p>/g)].map(
-    ([, question, answer]) => ({ question: textOf(question), answer: textOf(answer) })
-  );
-  assert.equal(visibleFaq.length, 4, `${pagePath}: perguntas`);
-  assert.deepEqual(
-    schemas.find((schema) => schema['@type'] === 'FAQPage').mainEntity.map(
-      ({ name, acceptedAnswer }: { name: string; acceptedAnswer: { text: string } }) => ({ question: name, answer: acceptedAnswer.text })
-    ),
-    visibleFaq,
-    `${pagePath}: FAQPage diferente das perguntas na página`
-  );
+  assert.deepEqual(person.sameAs, content.sameAs, `${pagePath}: Person.sameAs diferente das redes da página`);
+  assert.equal(person.image, content.photoUrl, `${pagePath}: Person.image diferente da foto do og:image`);
 
-  // Link de loja em qualquer ponto da página, menu e rodapé inclusive; já os cartões das lojas do idioma
-  // têm de estar no <main>, porque o menu também leva às páginas delas.
+  // Link de loja na home: só o da loja da própria home (o link de afiliado, com sponsored), e os cartões das lojas
+  // levam à página delas no idioma, dentro do <main>. O menu e o rodapé não levam a lojas.
   const hrefsIn = (html: string) => [...html.matchAll(/href="([^"]+)"/g)].map(([, href]) => decodeHtml(href));
-  assert.deepEqual(hrefsIn(body).filter(isStoreLink), [], `${pagePath}: link de loja`);
+  const hrefOfTag = (tag: string) => decodeHtml(tag.match(/\shref="([^"]*)"/)?.[1] ?? '');
+  const storeAnchors = [...body.matchAll(/<a\b[^>]*>/g)].map(([tag]) => tag).filter((tag) => isStoreLink(hrefOfTag(tag)));
+  const storeUrls = content.stores.map((store) => store.storeUrl);
+  for (const tag of storeAnchors) {
+    assert.ok(storeUrls.includes(hrefOfTag(tag)), `${pagePath}: link de loja que não é o da própria home: ${hrefOfTag(tag)}`);
+    assert.match(tag, /\brel="[^"]*sponsored/, `${pagePath}: link de loja sem sponsored: ${hrefOfTag(tag)}`);
+  }
+  assert.ok(storeAnchors.length >= content.stores.length, `${pagePath}: sem o link de cada loja da vitrine`);
   const mainHrefs = hrefsIn(main);
   const stores = getLocaleHomeStores(locale);
   for (const store of stores) assert.ok(mainHrefs.includes(store.href), `${pagePath}: sem ${store.href}`);
 
-  const ownTexts = new Set([...fixedTexts(getLocaleHomeCopy(locale)), ...shellTexts(locale)]);
+  const ownTexts = new Set([...fixedTexts(getLocaleHomeCopy(locale)), ...fixedTexts(getLocaleHomeCopy(locale).chrome), ...shellTexts(locale)]);
   const sameAsPortuguese = [
     ...PT_CODE_TITLES.filter(({ kind }) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title),
     ...getCategoriesSameAsPortuguese(locale),
@@ -2146,7 +2140,7 @@ for (const locale of LOCALE_HOME_LOCALES) {
     ...[...body.matchAll(/\s(?:alt|aria-label)="([^"]*)"/g)].map(([, text]) => decodeHtml(text).trim()),
   ].filter(Boolean);
   // Sem este controle, um extrator que devolvesse a lista vazia faria a conferência de português passar à toa.
-  assert.ok(shownTexts.includes(getLocaleHomeCopy(locale).storesTitle), `${pagePath}: o texto extraído da página sem o título das lojas`);
+  assert.ok(shownTexts.includes(getLocaleHomeCopy(locale).chrome.latestTitle), `${pagePath}: o texto extraído da página sem o título das lojas`);
   assert.deepEqual([...new Set(shownTexts.filter((text) => ptTexts.has(text)))], [], `${pagePath}: texto em português`);
   // Só o código que não é cupom (o de recompensa e o de indicação); o SONAR20 da Hostinger é cupom de verdade.
   const codeAsCoupon = codeAsCouponRegExp(
@@ -4207,7 +4201,6 @@ for (const locale of TRANSLATED_LOCALES) {
   const whereItem = visibleFaq.find((item) => item.question === textOf(whereOverride?.question ?? homeCopy.faqWhereQuestion));
   assert.ok(whereItem, `${pagePath}: sem a pergunta "onde uso cada código"`);
   assert.equal(whereItem.answer, textOf(whereOverride?.answer ?? ''), `${pagePath}: a resposta de "onde uso" não é a do FAQ`);
-  assert.ok(!visibleFaq.some((item) => item.answer === textOf(homeCopy.faqWhereAnswer)), `${pagePath}: a resposta da home em "onde uso"`);
   assert.ok(main.includes(`href="/${locale}/coupons"`), `${pagePath}: sem o link do hub de cupons`);
   const cecilia = visibleFaq.find((item) => item.question.includes('CECILIA010'));
   assert.ok(cecilia?.answer.includes('Reward Code'), `${pagePath}: resposta do CECILIA010 sem o Reward Code`);

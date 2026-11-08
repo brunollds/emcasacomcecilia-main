@@ -13,6 +13,7 @@ import { FOCUS_RING } from '@/components/ui/focusRing';
 import { StoreMark } from '@/components/ui/StoreMark';
 import { useBubbleTilt } from '@/components/ui/useBubbleTilt';
 import { ROW_ARROW, rowScrollBehavior, useRowScroll } from '@/components/ui/useRowScroll';
+import type { HomeCopy } from '@/components/sections/homeCopy';
 import { CECILIA_TAB_ID, getTabAnchor, getTabOrder, parseTabHash, type HomeStoreTab } from '@/lib/homeStoreTabs';
 
 // A faixa de bolinhas da vitrine, no padrão de abas: a da Cecília e uma por loja. A faixa é uma linha só
@@ -53,9 +54,10 @@ type HomeStoreStripProps = {
   ceciliaPhoto: string;
   selected: string;
   onSelect: (tabId: string, direction: TabDirection) => void;
+  copy: HomeCopy;
 };
 
-export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeStoreStripProps) {
+export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect, copy }: HomeStoreStripProps) {
   const order = getTabOrder(tabs.map(({ slug }) => slug));
   const { trackRef: stripRef, moreToTheRight, moreToTheLeft, scrollTrack } = useRowScroll<HTMLDivElement>(tabs);
   const tabRefs = useRef(new Map<string, HTMLButtonElement>());
@@ -134,7 +136,7 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
       <div
         ref={stripRef}
         role="tablist"
-        aria-label="Escolha a Cecília ou uma loja"
+        aria-label={copy.tablist}
         onPointerDown={markTouched}
         onWheel={markTouched}
         onKeyDown={markTouched}
@@ -183,7 +185,7 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
       <button
         type="button"
         onClick={() => scrollTrack('left')}
-        aria-label="Ver lojas anteriores"
+        aria-label={copy.previousStores}
         className={`${ROW_ARROW} absolute top-6 left-1 max-md:hidden ${moreToTheLeft ? '' : 'invisible'}`}
       >
         <ChevronLeft aria-hidden="true" className="size-5" />
@@ -191,7 +193,7 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
       <button
         type="button"
         onClick={() => scrollTrack('right')}
-        aria-label="Ver mais lojas"
+        aria-label={copy.nextStores}
         className={`${ROW_ARROW} absolute top-6 right-1 max-md:hidden ${moreToTheRight ? '' : 'invisible'}`}
       >
         <ChevronRight aria-hidden="true" className="size-5" />
