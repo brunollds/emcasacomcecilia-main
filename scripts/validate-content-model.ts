@@ -44,6 +44,8 @@ import {
 import proseBaselineJson from './review-prose-baseline.json';
 import snippetBaselineJson from './review-snippet-baseline.json';
 import { findDuplicateKeys } from './json-duplicate-keys';
+import { getRequiredStylingProblems } from './styling-required';
+import stylingRequiredJson from './styling-required.json';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 
@@ -810,6 +812,11 @@ for (const slug of Object.keys(proseBaseline)) {
   if (!portugueseSlugs.has(slug)) {
     reportError({ type: 'review', id: -1, slug, message: 'scripts/review-prose-baseline.json cita um artigo em português que não existe' });
   }
+}
+
+// Card de estilo obrigatório nos capítulos de scripts/styling-required.json; os outros artigos seguem sem exigência.
+for (const { slug, message } of getRequiredStylingProblems(reviews, stylingRequiredJson)) {
+  reportError({ type: 'review', id: -1, slug, message });
 }
 
 // Snippet com o código nos artigos em português com coupon: código e % no começo, até 155 caracteres, sem data,
