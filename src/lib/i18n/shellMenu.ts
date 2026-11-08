@@ -1,6 +1,5 @@
 import { type Locale } from './locales';
-import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
-import { LOCALE_FAQ_COPY } from '@/components/faqs/localeFaqCopy';
+import { SECTION_LABELS } from './sectionLabels';
 import { getShellCopy } from './shellDictionary';
 import { getReviewHubPath } from '@/lib/review-hubs';
 import { REVIEW_CATEGORIES, parseReviewCategory, type ReviewCategory } from '@/lib/reviewDiscovery';
@@ -62,7 +61,7 @@ export function getShellMenu(locale: Locale): ShellMenu {
     return {
       primary: [
         { id: 'reviews', href: getReviewHubPath(locale), label: copy.reviewHubLabel },
-        { id: 'cupons', href: couponsPath(locale), label: COUPON_STORE_COPY[locale].couponsLabel },
+        { id: 'cupons', href: couponsPath(locale), label: SECTION_LABELS[locale].couponsLabel },
       ],
       more: [],
       moreLabel: null,
@@ -70,8 +69,8 @@ export function getShellMenu(locale: Locale): ShellMenu {
       reviewsListLabel: null,
       dicasLabels: null,
       footerLabels: null,
-      footerFaq: { href: `/${locale}/faq`, label: LOCALE_FAQ_COPY[locale].title },
-      mediaKitLabel: LOCALE_FAQ_COPY[locale].newsMediaKit,
+      footerFaq: { href: `/${locale}/faq`, label: SECTION_LABELS[locale].faqTitle },
+      mediaKitLabel: SECTION_LABELS[locale].mediaKitLabel,
     };
   }
 

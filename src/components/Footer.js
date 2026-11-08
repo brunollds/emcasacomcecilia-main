@@ -114,7 +114,7 @@ export default function Footer({ lang = 'pt-BR' }) {
 
             {isPt ? (
               <>
-                <FooterColumn title={copy.footerHouseLabel}>
+                <FooterColumn title={copy.footerHelpLabel}>
                   {houseLinks.map((link) => (
                     <li key={link.id}>
                       <Link href={link.href} className={LINK_CLASS}>{link.label}</Link>
@@ -141,7 +141,7 @@ export default function Footer({ lang = 'pt-BR' }) {
                 </FooterColumn>
               </>
             ) : (
-              <FooterColumn title={copy.footerHouseLabel}>
+              <FooterColumn title={copy.footerHelpLabel}>
                 <li>
                   <Link href={menu.footerFaq.href} className={LINK_CLASS}>{menu.footerFaq.label}</Link>
                 </li>

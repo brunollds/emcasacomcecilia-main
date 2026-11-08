@@ -14,7 +14,7 @@ export interface ShellCopy {
   footerRights: string;
   contactLabel: string;
   footerExploreLabel: string;
-  footerHouseLabel: string;
+  footerHelpLabel: string;
   privacyLabel: string;
   twitterDescription: string;
   followAria: string;
@@ -36,7 +36,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: 'Todos os direitos reservados.',
     contactLabel: 'Contato',
     footerExploreLabel: 'Explorar',
-    footerHouseLabel: 'Em Casa',
+    footerHelpLabel: 'Em Casa',
     privacyLabel: 'Privacidade',
     twitterDescription: 'Receitas caseiras, reviews sinceros e análises de produtos.',
     followAria: 'Siga @emcasacomcecilia no {social}',
@@ -56,7 +56,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: 'All rights reserved.',
     contactLabel: 'Contact',
     footerExploreLabel: 'Explore',
-    footerHouseLabel: 'At Home',
+    footerHelpLabel: 'Help',
     privacyLabel: 'Privacy',
     twitterDescription: 'Tested home recipes, verified discount coupons, and K-beauty reviews by Cecília Mauad.',
     followAria: 'Follow @emcasacomcecilia on {social}',
@@ -76,7 +76,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: 'Todos los derechos reservados.',
     contactLabel: 'Contacto',
     footerExploreLabel: 'Explorar',
-    footerHouseLabel: 'En casa',
+    footerHelpLabel: 'Ayuda',
     privacyLabel: 'Privacidad',
     twitterDescription: 'Recetas probadas, cupones de descuento verificados y guías de belleza por Cecília Mauad.',
     followAria: 'Sigue a @emcasacomcecilia en {social}',
@@ -96,7 +96,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: 'Tous droits réservés.',
     contactLabel: 'Contact',
     footerExploreLabel: 'Explorer',
-    footerHouseLabel: 'À la maison',
+    footerHelpLabel: 'Aide',
     privacyLabel: 'Confidentialité',
     twitterDescription: 'Recettes maison, coupons de réduction vérifiés et guides K-beauty par Cecília Mauad.',
     followAria: 'Suivez @emcasacomcecilia sur {social}',
@@ -116,7 +116,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: 'Alle Rechte vorbehalten.',
     contactLabel: 'Kontakt',
     footerExploreLabel: 'Entdecken',
-    footerHouseLabel: 'Zuhause',
+    footerHelpLabel: 'Hilfe',
     privacyLabel: 'Datenschutz',
     twitterDescription: 'Erprobte Rezepte, verifizierte Gutscheincodes und K-Beauty Ratgeber von Cecília Mauad.',
     followAria: 'Folgen Sie @emcasacomcecilia auf {social}',
@@ -136,7 +136,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: 'Tutti i diritti riservati.',
     contactLabel: 'Contatti',
     footerExploreLabel: 'Esplora',
-    footerHouseLabel: 'In casa',
+    footerHelpLabel: 'Aiuto',
     privacyLabel: 'Privacy',
     twitterDescription: 'Ricette di casa, codici sconto verificati e guide K-beauty di Cecília Mauad.',
     followAria: 'Segui @emcasacomcecilia su {social}',
@@ -156,7 +156,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: '모든 권리 보유.',
     contactLabel: '문의하기',
     footerExploreLabel: '둘러보기',
-    footerHouseLabel: '집에서',
+    footerHelpLabel: '도움말',
     privacyLabel: '개인정보처리방침',
     twitterDescription: '검증된 홈 레시피, YesStyle 리워드 코드 및 K-뷰티 가이드.',
     followAria: '{social}에서 @emcasacomcecilia 팔로우하기',
@@ -176,7 +176,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: '全著作権所有。',
     contactLabel: 'お問い合わせ',
     footerExploreLabel: '見て回る',
-    footerHouseLabel: 'おうちで',
+    footerHelpLabel: 'ヘルプ',
     privacyLabel: 'プライバシーポリシー',
     twitterDescription: '検証済みレシピ、YesStyleリワードコード、K-Beautyレビュー。',
     followAria: '{social}で@emcasacomceciliaをフォロー',
@@ -196,7 +196,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: '版權所有，保留一切權利。',
     contactLabel: '聯絡我們',
     footerExploreLabel: '探索',
-    footerHouseLabel: '居家生活',
+    footerHelpLabel: '幫助',
     privacyLabel: '隱私權政策',
     twitterDescription: '經測試的家常食譜、驗證的 YesStyle 獎勵碼與美妝指南。',
     followAria: '在 {social} 上追蹤 @emcasacomcecilia',
@@ -216,7 +216,7 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     footerRights: '版权所有，保留一切权利。',
     contactLabel: '联系我们',
     footerExploreLabel: '探索',
-    footerHouseLabel: '居家生活',
+    footerHelpLabel: '帮助',
     privacyLabel: '隐私政策',
     twitterDescription: '经测试的家常食谱、验证的 YesStyle 奖励码与美妆指南。',
     followAria: '在 {social} 上关注 @emcasacomcecilia',

@@ -1,4 +1,6 @@
 import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
+import path from 'node:path';
 import { getSearchCopy, type SearchCopy } from '@/components/search/searchCopy';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { LOCALE_FAQ_COPY } from '@/components/faqs/localeFaqCopy';
@@ -10,6 +12,26 @@ import { REVIEW_CATEGORIES } from '@/lib/reviewDiscovery';
 import { getReviewHubPath } from '@/lib/review-hubs';
 import { getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { getActiveNav, getShellMenu, type ActiveNav } from '@/lib/i18n/shellMenu';
+
+// A coluna do rodapé fora do PT é de ajuda (FAQ, contato, mídia kit); no PT segue "Em Casa".
+const FOOTER_HELP_LABELS: Record<string, string> = {
+  en: 'Help',
+  es: 'Ayuda',
+  fr: 'Aide',
+  de: 'Hilfe',
+  it: 'Aiuto',
+  ko: '도움말',
+  ja: 'ヘルプ',
+  'zh-hant': '幫助',
+  'zh-hans': '帮助',
+};
+
+// O menu e o rodapé são cliente: o shellMenu lê os rótulos de sectionLabels e não pode importar os textos
+// inteiros das páginas de loja nem do FAQ, que iriam para o JS de toda página.
+const shellMenuSource = readFileSync(path.join('src', 'lib', 'i18n', 'shellMenu.ts'), 'utf8');
+for (const heavy of ['couponStoreCopy', 'localeFaqCopy']) {
+  assert.doesNotMatch(shellMenuSource, new RegExp(heavy), `shellMenu.ts não pode importar ${heavy}`);
+}
 
 assert.deepEqual(
   LOCALE_KEYS.map((locale) => LOCALES[locale].shortLabel),
@@ -99,7 +121,7 @@ for (const locale of LOCALE_KEYS) {
     assert.deepEqual(menu.searchLabels, { open: 'Abrir busca', close: 'Fechar busca' });
     assert.equal(menu.reviewsListLabel, 'Categorias de Guias & Análises');
     assert.deepEqual(menu.footerLabels, { partners: 'Parceiros' });
-    assert.equal(copy.footerHouseLabel, 'Em Casa');
+    assert.equal(copy.footerHelpLabel, 'Em Casa');
     assert.equal(menu.mediaKitLabel, 'Media Kit');
     continue;
   }
@@ -120,8 +142,8 @@ for (const locale of LOCALE_KEYS) {
   // O rodapé fora do PT tem FAQ, contato e mídia kit; o mídia kit sai com o aviso de idioma do FAQ.
   assert.deepEqual(menu.footerFaq, { href: getFaqPath(locale), label: LOCALE_FAQ_COPY[locale].title });
   assert.equal(menu.mediaKitLabel, LOCALE_FAQ_COPY[locale].newsMediaKit);
-  assert.ok(copy.footerHouseLabel, `${locale}: footerHouseLabel vazio`);
-  assert.notEqual(copy.footerHouseLabel, ptCopy.footerHouseLabel, `${locale}: footerHouseLabel igual ao PT`);
+  assert.equal(copy.footerHelpLabel, FOOTER_HELP_LABELS[locale], `${locale}: footerHelpLabel`);
+  assert.notEqual(copy.footerHelpLabel, ptCopy.footerHelpLabel, `${locale}: footerHelpLabel igual ao PT`);
 }
 
 type ActiveRow = [string, string, ActiveNav['section'], ActiveNav['item'], ActiveNav['pageHref']];

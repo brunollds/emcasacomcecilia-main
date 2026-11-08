@@ -2188,7 +2188,7 @@ function footerProblems(footer: string, locale: Locale): string[] {
   check(hrefs.every((href) => !isStoreLink(href)), 'link de loja no rodapé');
 
   if (locale === 'pt') {
-    check(footer.includes(`>${copy.footerHouseLabel}<`), 'sem o título Em Casa');
+    check(footer.includes(`>${copy.footerHelpLabel}<`), 'sem o título Em Casa');
     check(menu.footerLabels !== null && footer.includes(`>${menu.footerLabels.partners}<`), 'sem o título Parceiros');
     for (const href of ['/reviews', '/cupons', '/receitas', '/videos', '/sobre', '/faqs', '/contato', brandLinks.mediaKit, brandLinks.dicas, brandLinks.damie]) {
       check(hrefs.includes(href), `sem o link ${href}`);
@@ -2199,10 +2199,10 @@ function footerProblems(footer: string, locale: Locale): string[] {
     return problems;
   }
 
-  // Fora do PT, o rodapé tem Guias e Coupons, a coluna Em Casa com FAQ, contato (mailto) e o mídia kit em nova aba.
+  // Fora do PT, o rodapé tem Guias e Coupons, a coluna de ajuda com FAQ, contato (mailto) e o mídia kit em nova aba.
   for (const href of menu.primary.map((item) => item.href)) check(hrefs.includes(href), `sem o link ${href}`);
   check(menu.footerFaq !== null && hrefs.includes(menu.footerFaq.href) && footer.includes(`>${menu.footerFaq.label}<`), 'sem o FAQ');
-  check(footer.includes(`>${copy.footerHouseLabel}<`), 'sem o título da coluna Em Casa');
+  check(footer.includes(`>${copy.footerHelpLabel}<`), 'sem o título da coluna de ajuda');
   check(footer.includes(`href="${brandLinks.mediaKit}" target="_blank"`) && footer.includes(`>${menu.mediaKitLabel}<`), 'sem o mídia kit em nova aba');
   check(hrefs.includes('mailto:contato@emcasacomcecilia.com'), 'sem o mailto de contato');
   check(footer.includes(`>${copy.contactLabel}<`), 'sem o link de contato');
