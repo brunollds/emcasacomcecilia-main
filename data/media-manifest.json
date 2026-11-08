@@ -69463,6 +69463,420 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-feminina-capa.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-feminina-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48880,
+      "sha256": "e9b9d75bd238335497985565f2dd58124555f4c62171cf49195855313699b030",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-feminina-capa.webp",
+      "storage_filename": "camisa-social-insider-feminina-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-feminina.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/insider/camisa-social-insider-feminina-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 195948,
+          "column": 15,
+          "literal": "/images/reviews/insider/camisa-social-insider-feminina-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e9b9d75bd238335497985565f2dd58124555f4c62171cf49195855313699b030/camisa-social-insider-feminina-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e9b9d75bd238335497985565f2dd58124555f4c62171cf49195855313699b030/camisa-social-insider-feminina-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:14:47.482Z",
+      "verification_etag_or_digest": "e9b9d75bd238335497985565f2dd58124555f4c62171cf49195855313699b030",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-feminina-costas.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-feminina-costas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16394,
+      "sha256": "898f2dbafca6280619e0b9a27cb3f662623d3a216e78011bbb9e13e48afd53d4",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-feminina-costas.webp",
+      "storage_filename": "camisa-social-insider-feminina-costas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-feminina.json",
+          "line": 88,
+          "column": 17,
+          "literal": "/images/reviews/insider/camisa-social-insider-feminina-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 196006,
+          "column": 19,
+          "literal": "/images/reviews/insider/camisa-social-insider-feminina-costas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/898f2dbafca6280619e0b9a27cb3f662623d3a216e78011bbb9e13e48afd53d4/camisa-social-insider-feminina-costas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/898f2dbafca6280619e0b9a27cb3f662623d3a216e78011bbb9e13e48afd53d4/camisa-social-insider-feminina-costas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:14:46.880Z",
+      "verification_etag_or_digest": "898f2dbafca6280619e0b9a27cb3f662623d3a216e78011bbb9e13e48afd53d4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-feminina-peca.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-feminina-peca.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10304,
+      "sha256": "486ffe50e9662162aadb17edb0aadc171162a2e95f732b62c75bb6a18ae83c8a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-feminina-peca.webp",
+      "storage_filename": "camisa-social-insider-feminina-peca.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-feminina.json",
+          "line": 73,
+          "column": 19,
+          "literal": "/images/reviews/insider/camisa-social-insider-feminina-peca.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 195991,
+          "column": 21,
+          "literal": "/images/reviews/insider/camisa-social-insider-feminina-peca.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/486ffe50e9662162aadb17edb0aadc171162a2e95f732b62c75bb6a18ae83c8a/camisa-social-insider-feminina-peca.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/486ffe50e9662162aadb17edb0aadc171162a2e95f732b62c75bb6a18ae83c8a/camisa-social-insider-feminina-peca.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:14:46.620Z",
+      "verification_etag_or_digest": "486ffe50e9662162aadb17edb0aadc171162a2e95f732b62c75bb6a18ae83c8a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-feminina-preta.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-feminina-preta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16418,
+      "sha256": "320daa01737105bca8d3d07e4a3f68c7e113e01f60b799fbe6b13782570c6231",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-feminina-preta.webp",
+      "storage_filename": "camisa-social-insider-feminina-preta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-feminina.json",
+          "line": 66,
+          "column": 19,
+          "literal": "/images/reviews/insider/camisa-social-insider-feminina-preta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 195984,
+          "column": 21,
+          "literal": "/images/reviews/insider/camisa-social-insider-feminina-preta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/320daa01737105bca8d3d07e4a3f68c7e113e01f60b799fbe6b13782570c6231/camisa-social-insider-feminina-preta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/320daa01737105bca8d3d07e4a3f68c7e113e01f60b799fbe6b13782570c6231/camisa-social-insider-feminina-preta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:14:46.356Z",
+      "verification_etag_or_digest": "320daa01737105bca8d3d07e4a3f68c7e113e01f60b799fbe6b13782570c6231",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-masculina-capa.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-masculina-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51784,
+      "sha256": "bbe97109cf73461d6f4b02229fec944de589c991965f021bb861d19135adb129",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-masculina-capa.webp",
+      "storage_filename": "camisa-social-insider-masculina-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-masculina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-masculina.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 195709,
+          "column": 15,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bbe97109cf73461d6f4b02229fec944de589c991965f021bb861d19135adb129/camisa-social-insider-masculina-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bbe97109cf73461d6f4b02229fec944de589c991965f021bb861d19135adb129/camisa-social-insider-masculina-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:14:47.185Z",
+      "verification_etag_or_digest": "bbe97109cf73461d6f4b02229fec944de589c991965f021bb861d19135adb129",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-masculina-costas.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-masculina-costas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17220,
+      "sha256": "6a703f98950aad5418de48c2d41193eb82306e1734030109f87a25f098e26055",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-masculina-costas.webp",
+      "storage_filename": "camisa-social-insider-masculina-costas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-masculina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-masculina.json",
+          "line": 88,
+          "column": 17,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-costas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 195767,
+          "column": 19,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-costas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6a703f98950aad5418de48c2d41193eb82306e1734030109f87a25f098e26055/camisa-social-insider-masculina-costas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a703f98950aad5418de48c2d41193eb82306e1734030109f87a25f098e26055/camisa-social-insider-masculina-costas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:14:45.805Z",
+      "verification_etag_or_digest": "6a703f98950aad5418de48c2d41193eb82306e1734030109f87a25f098e26055",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-masculina-inteira.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-masculina-inteira.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15600,
+      "sha256": "69a3a781b725664e8b98327f68252d0d90d76ca0f6b7d68e8bcf7c3cb6100b7b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-masculina-inteira.webp",
+      "storage_filename": "camisa-social-insider-masculina-inteira.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-masculina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-masculina.json",
+          "line": 73,
+          "column": 19,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-inteira.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 195752,
+          "column": 21,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-inteira.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/69a3a781b725664e8b98327f68252d0d90d76ca0f6b7d68e8bcf7c3cb6100b7b/camisa-social-insider-masculina-inteira.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/69a3a781b725664e8b98327f68252d0d90d76ca0f6b7d68e8bcf7c3cb6100b7b/camisa-social-insider-masculina-inteira.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:14:45.495Z",
+      "verification_etag_or_digest": "69a3a781b725664e8b98327f68252d0d90d76ca0f6b7d68e8bcf7c3cb6100b7b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-masculina-off-white.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-masculina-off-white.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24674,
+      "sha256": "e58c201fc12306f3af0b2076ee53b102cea41ffa5d3f886076faa0e5049163c2",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-masculina-off-white.webp",
+      "storage_filename": "camisa-social-insider-masculina-off-white.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-masculina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-masculina.json",
+          "line": 66,
+          "column": 19,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-off-white.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 195745,
+          "column": 21,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-off-white.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e58c201fc12306f3af0b2076ee53b102cea41ffa5d3f886076faa0e5049163c2/camisa-social-insider-masculina-off-white.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e58c201fc12306f3af0b2076ee53b102cea41ffa5d3f886076faa0e5049163c2/camisa-social-insider-masculina-off-white.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:14:45.189Z",
+      "verification_etag_or_digest": "e58c201fc12306f3af0b2076ee53b102cea41ffa5d3f886076faa0e5049163c2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-masculina-punho.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-masculina-punho.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25320,
+      "sha256": "a4f09ca4cdf45e1c8ac32539e79dea6d75a985f60037d27b0b744b366730a615",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-masculina-punho.webp",
+      "storage_filename": "camisa-social-insider-masculina-punho.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-masculina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-masculina.json",
+          "line": 168,
+          "column": 17,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-punho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 195847,
+          "column": 19,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-punho.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a4f09ca4cdf45e1c8ac32539e79dea6d75a985f60037d27b0b744b366730a615/camisa-social-insider-masculina-punho.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a4f09ca4cdf45e1c8ac32539e79dea6d75a985f60037d27b0b744b366730a615/camisa-social-insider-masculina-punho.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T17:14:46.092Z",
+      "verification_etag_or_digest": "a4f09ca4cdf45e1c8ac32539e79dea6d75a985f60037d27b0b744b366730a615",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa.webp",
       "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa.webp",
       "media_kind": "image",

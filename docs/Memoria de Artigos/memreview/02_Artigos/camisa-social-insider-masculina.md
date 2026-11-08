@@ -2,15 +2,15 @@
 titulo_provisorio: "Camisa social Insider FutureForm: modelagem, tamanho, cuidados e o preço com o cupom"
 seo_title: "Camisa social Insider é boa? Modelagem, tamanho e cupom"
 meta_description: "EMCASACOMCECILIA dá 15% OFF na Insider e valeu na camisa FutureForm no carrinho. Modelagem, tecido, tamanho e o preço com o cupom."
-slug_sugerido: "camisa-social-insider-futureform"
+slug_sugerido: "camisa-social-insider-masculina"
 parceiro: "[[Insider]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 75
@@ -26,7 +26,7 @@ affiliate: "insider"
 coupon: "EMCASACOMCECILIA"
 ---
 
-# Briefing de Pauta: Camisa social Insider FutureForm: modelagem, tamanho, cuidados e o preço com o cupom
+# Briefing de Pauta: Camisa social Insider masculina: corte, tamanho e o preço com o cupom
 
 I12. Rodada Insider de 08/11/2026, aprovada pelo Bruno. **Teste do Bruno no carrinho, 08/11:** o cupom vale nas duas camisas. Ele chegou a dizer que não funcionava e se corrigiu com o carrinho; a ideia de sair sem preço caiu.
 
@@ -48,7 +48,7 @@ Pela loja: "rápida evaporação de suor", "desamassa no corpo", "resistente à 
 
 **O aviso das duas páginas (Chrome, 08/11):** "O valor promocional de R$100 OFF é aplicado automaticamente e não acumula com cupons. Cupons válidos poderão ser aplicados aos demais produtos elegíveis do mesmo carrinho." O carrinho mostrou o contrário: o desconto entrou sobre os R$ 399.
 
-**Link da feminina, passado pelo Bruno:** `https://creators.insiderstore.com.br/gWrsRGL` (abre a camisa feminina).
+**Link da feminina, passado pelo Bruno:** `https://creators.insiderstore.com.br/gWrsRGL` (abre a camisa feminina). **Link da masculina, passado pelo Bruno em 08/11:** `https://creators.insiderstore.com.br/gbv5j9U` (o redirecionamento leva a `camisa-futureform-masculino`, com o cupom na URL).
 
 ## 3. O que só o site dá
 
@@ -81,7 +81,6 @@ A resposta para "é boa?" sem promessa inventada: o que a modelagem oversized si
 
 ## 6. A conferir antes da redação
 
-- **O link de criador da camisa masculina (com o Bruno).** Só veio o da feminina. Sem ele, usar o link normal de afiliado da loja.
 - O Guia de medidas das duas e a lavagem.
 - Se vale citar a Camisa Manga Curta feminina (lida só na coleção) em uma linha.
 - Reler o preço na semana da publicação, porque a Black Friday está no ar. Se o preço da página mudar, a conta do cupom muda junto, e o teste da soma com a Black Friday se refaz em 27/11.
@@ -89,3 +88,11 @@ A resposta para "é boa?" sem promessa inventada: o que a modelagem oversized si
 ## 7. Pontuação
 
 Dor 20/25, demanda 17/20, valor além do oficial 16/20, visita 11/15, cluster 9/10, conversão 8/10. Total 81.
+
+## 8. O que mudou na redação (08/11/2026)
+
+- **Dois artigos, a pedido do Bruno:** o briefing era um só, e virou `camisa-social-insider-masculina` e `camisa-social-insider-feminina`, como já acontece com as camisetas. Tecido e cupom se repetem; corte, medidas, comentários e fotos são de cada versão.
+- **Conferido no Chrome:** Guia de medidas das duas (o da masculina lista um PP que a página não vende, e a tabela do artigo começa no P). A página não traz lavagem da camisa: o único texto de lavagem é da Tech T-Shirt, e a central de ajuda não trouxe nada sobre isso. A Manga Curta feminina ficou de fora.
+- **Revisão:** externa, no lugar do Fable (parecer de 08/11, em `docs/auditoria-copy-artigos/novos-20261108-insider-camisas/PARECER.md`, no checkout principal). Aplicado, menos duas coisas: o link do cupom ficou no texto, com a âncora deste briefing, e não em `links[]`; o veredito usa a forma de moda do Job 2 ("Se fosse para a minha casa...") no cartão de destaque, e não "Eu consideraria".
+- **Capa:** aprovada pelo Bruno e pelo parecer, a partir da opção B.
+- **Origem das fotos:** todas oficiais da Insider, da página `camisa-futureform-masculino` (`1_` a `6_CAMISA_FUTUREFORM_MASC_PRETO_2024`, `01_CAMISAFUTUREFORM_OFFWHITE_2026`).
