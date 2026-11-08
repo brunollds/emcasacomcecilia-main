@@ -14,6 +14,7 @@ import { getRecipeOwnImage, recipePlaceholderImages, recipes } from '@/lib/data'
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { buildRecipeMetadata, buildRecipeTemplateProps } from '@/lib/recipe-template-props';
 import { toListedRecipe } from '@/lib/recipeList';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { formatMinutes, formatRecipeTime, parseRecipeMinutes } from '@/lib/recipeTime';
 import { createSearchPage } from '@/lib/searchPage';
 
@@ -76,7 +77,7 @@ for (const recipe of recipes) {
   const twitterImages = (meta.twitter as { images?: string[] }).images;
 
   assert.equal(getRecipeOwnImage(recipe), own || undefined);
-  assert.equal(card.image, own || undefined, `${recipe.slug}: imagem do cartão`);
+  assert.equal(card.image, own ? resolveMediaUrl(own) : undefined, `${recipe.slug}: imagem do cartão`);
   assert.equal(page.recipeImage, own || undefined, `${recipe.slug}: imagem da página`);
   for (const url of [card.image, page.recipeImage, ...(jsonLdImage ?? []), ...(ogImages ?? []).map((image) => image.url), ...(twitterImages ?? [])]) {
     assert.ok(!isStockPhoto(url), `${recipe.slug}: foto de categoria em ${url}`);
