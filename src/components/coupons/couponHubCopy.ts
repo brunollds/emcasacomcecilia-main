@@ -95,11 +95,11 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: "What if a code doesn't work?",
         answer:
-          'Check that the product is eligible and that the code was typed correctly. If it still fails, tell us through the contact page so we can review the information.',
+          'Check that the product is eligible and that the code was typed correctly. If it still fails, email contato@emcasacomcecilia.com so we can review the information.',
       },
     ],
     transparency:
-      'Some links may earn a commission for Em Casa com Cecília, at no extra cost to you. This model helps keep our recipes, reviews and guides free, with transparency about partner brands.',
+      'Some links may earn a commission for Em Casa com Cecília, at no extra cost to you. This model helps keep our reviews and guides free, with transparency about partner brands.',
     metaTitle: 'Coupons from Cecília: active discount codes',
     metaDescription:
       'Active discount codes from partner stores: the discount on each code, its rules and whether it stacks with store promotions.',
@@ -129,11 +129,11 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: '¿Qué hago si un código no funciona?',
         answer:
-          'Comprueba que el producto sea apto y que hayas escrito bien el código. Si sigue sin funcionar, avísanos desde la página de contacto para que revisemos la información.',
+          'Comprueba que el producto sea apto y que hayas escrito bien el código. Si sigue sin funcionar, escríbenos a contato@emcasacomcecilia.com para que revisemos la información.',
       },
     ],
     transparency:
-      'Algunos enlaces pueden generar una comisión para Em Casa com Cecília, sin coste adicional para ti. Este modelo ayuda a mantener gratuitas nuestras recetas, reseñas y guías, con transparencia sobre las marcas asociadas.',
+      'Algunos enlaces pueden generar una comisión para Em Casa com Cecília, sin coste adicional para ti. Este modelo ayuda a mantener gratuitas nuestras reseñas y guías, con transparencia sobre las marcas asociadas.',
     metaTitle: 'Cupones de Cecília: códigos de descuento activos',
     metaDescription:
       'Códigos de descuento activos de tiendas asociadas: el descuento de cada código, sus reglas y si se acumula con las promociones de la tienda.',
@@ -163,11 +163,11 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: 'Que faire si un code ne fonctionne pas\u00a0?',
         answer:
-          "Vérifiez que le produit est éligible et que le code a bien été saisi. Si cela ne fonctionne toujours pas, écrivez-nous via la page de contact afin que nous revoyions l'information.",
+          "Vérifiez que le produit est éligible et que le code a bien été saisi. Si cela ne fonctionne toujours pas, écrivez-nous à contato@emcasacomcecilia.com afin que nous revoyions l'information.",
       },
     ],
     transparency:
-      'Certains liens peuvent rapporter une commission à Em Casa com Cecília, sans surcoût pour vous. Ce modèle permet de garder nos recettes, avis et guides gratuits, en toute transparence sur les marques partenaires.',
+      'Certains liens peuvent rapporter une commission à Em Casa com Cecília, sans surcoût pour vous. Ce modèle permet de garder nos avis et guides gratuits, en toute transparence sur les marques partenaires.',
     metaTitle: 'Codes promo de Cecília\u00a0: codes de réduction actifs',
     metaDescription:
       "Codes de réduction actifs de boutiques partenaires\u00a0: la remise de chaque code, ses règles et son éventuel cumul avec les promotions de la boutique.",
@@ -197,11 +197,11 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: 'Was tun, wenn ein Code nicht funktioniert?',
         answer:
-          'Prüfen Sie, ob das Produkt teilnahmeberechtigt ist und ob Sie den Code richtig eingegeben haben. Funktioniert er weiterhin nicht, geben Sie uns über die Kontaktseite Bescheid, damit wir die Angaben prüfen.',
+          'Prüfen Sie, ob das Produkt teilnahmeberechtigt ist und ob Sie den Code richtig eingegeben haben. Funktioniert er weiterhin nicht, schreiben Sie uns eine E-Mail an contato@emcasacomcecilia.com, damit wir die Angaben prüfen.',
       },
     ],
     transparency:
-      'Für manche Links erhält Em Casa com Cecília möglicherweise eine Provision, für Sie entstehen keine Mehrkosten. Dieses Modell hilft uns, Rezepte, Tests und Ratgeber kostenlos anzubieten, mit Transparenz über unsere Partnermarken.',
+      'Für manche Links erhält Em Casa com Cecília möglicherweise eine Provision, für Sie entstehen keine Mehrkosten. Dieses Modell hilft uns, Tests und Ratgeber kostenlos anzubieten, mit Transparenz über unsere Partnermarken.',
     metaTitle: 'Gutscheine von Cecília: aktive Rabattcodes',
     metaDescription:
       'Aktive Rabattcodes von Partner-Shops: der Rabatt jedes Codes, seine Regeln und ob er sich mit Aktionen des Shops kombinieren lässt.',
@@ -231,11 +231,11 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: 'Cosa fare se un codice non funziona?',
         answer:
-          'Controlla che il prodotto sia idoneo e che il codice sia stato digitato correttamente. Se continua a non funzionare, scrivici dalla pagina dei contatti così possiamo rivedere le informazioni.',
+          'Controlla che il prodotto sia idoneo e che il codice sia stato digitato correttamente. Se continua a non funzionare, scrivici a contato@emcasacomcecilia.com così possiamo rivedere le informazioni.',
       },
     ],
     transparency:
-      'Alcuni link possono generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per te. Questo modello aiuta a mantenere gratuite le nostre ricette, recensioni e guide, con trasparenza sui marchi partner.',
+      'Alcuni link possono generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per te. Questo modello aiuta a mantenere gratuite le nostre recensioni e guide, con trasparenza sui marchi partner.',
     metaTitle: 'Coupon di Cecília: codici sconto attivi',
     metaDescription:
       'Codici sconto attivi dei negozi partner: lo sconto di ogni codice, le sue regole e se è cumulabile con le promozioni del negozio.',
@@ -265,11 +265,11 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: '코드가 작동하지 않으면 어떻게 하나요?',
         answer:
-          '상품이 대상에 포함되는지, 코드를 정확히 입력했는지 확인해 주세요. 그래도 안 되면 문의 페이지로 알려 주시면 정보를 검토하겠습니다.',
+          '상품이 대상에 포함되는지, 코드를 정확히 입력했는지 확인해 주세요. 그래도 안 되면 contato@emcasacomcecilia.com으로 메일을 보내 주시면 정보를 검토하겠습니다.',
       },
     ],
     transparency:
-      'Em Casa com Cecília는 일부 링크를 통해 수수료를 받을 수 있으며, 이용자에게 추가 비용은 없습니다. 이 방식 덕분에 레시피, 리뷰, 가이드를 무료로 제공할 수 있고, 제휴 브랜드에 대해서도 투명하게 안내합니다.',
+      'Em Casa com Cecília는 일부 링크를 통해 수수료를 받을 수 있으며, 이용자에게 추가 비용은 없습니다. 이 방식 덕분에 리뷰와 가이드를 무료로 제공할 수 있고, 제휴 브랜드에 대해서도 투명하게 안내합니다.',
     metaTitle: 'Cecília의 쿠폰: 사용 가능한 할인 코드',
     metaDescription:
       '제휴 스토어의 사용 가능한 할인 코드: 코드별 할인, 이용 규정, 스토어 프로모션과의 중복 적용 여부.',
@@ -299,11 +299,11 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: 'コードが使えない場合はどうすればよいですか？',
         answer:
-          '商品が対象になっているか、コードを正しく入力したかをご確認ください。それでも使えない場合は、お問い合わせページからお知らせください。内容を確認いたします。',
+          '商品が対象になっているか、コードを正しく入力したかをご確認ください。それでも使えない場合は、contato@emcasacomcecilia.com までメールでお知らせください。内容を確認いたします。',
       },
     ],
     transparency:
-      '一部のリンクから、Em Casa com Cecília が報酬を受け取ることがあります。お客様の追加負担はありません。この仕組みにより、レシピ、レビュー、ガイドを無料で提供でき、提携ブランドについても透明性を保っています。',
+      '一部のリンクから、Em Casa com Cecília が報酬を受け取ることがあります。お客様の追加負担はありません。この仕組みにより、レビューとガイドを無料で提供でき、提携ブランドについても透明性を保っています。',
     metaTitle: 'Cecíliaのクーポン：利用できる割引コード',
     metaDescription:
       '提携ストアの利用できる割引コード。コードごとの割引、ルール、ストアのセールとの併用可否をまとめています。',
@@ -333,11 +333,11 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: '代碼無法使用怎麼辦？',
         answer:
-          '請確認商品符合資格，且代碼輸入正確。如果仍然無法使用，請透過聯絡頁面告訴我們，我們會重新確認資訊。',
+          '請確認商品符合資格，且代碼輸入正確。如果仍然無法使用，請寫信至 contato@emcasacomcecilia.com 告訴我們，我們會重新確認資訊。',
       },
     ],
     transparency:
-      '部分連結可能讓 Em Casa com Cecília 獲得佣金，你無需支付額外費用。這種方式讓我們的食譜、評測和指南得以保持免費，同時我們也會公開說明合作品牌。',
+      '部分連結可能讓 Em Casa com Cecília 獲得佣金，你無需支付額外費用。這種方式讓我們的評測和指南得以保持免費，同時我們也會公開說明合作品牌。',
     metaTitle: 'Cecília 的優惠碼：目前有效的折扣碼',
     metaDescription:
       '合作商店目前有效的折扣碼：每個代碼的折扣、使用規則，以及能否與商店促銷活動合併使用。',
@@ -367,11 +367,11 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: '代码无法使用怎么办？',
         answer:
-          '请确认商品符合资格，且代码输入正确。如果仍然无法使用，请通过联系页面告诉我们，我们会重新核实信息。',
+          '请确认商品符合资格，且代码输入正确。如果仍然无法使用，请发送邮件至 contato@emcasacomcecilia.com，我们会重新核实信息。',
       },
     ],
     transparency:
-      '部分链接可能让 Em Casa com Cecília 获得佣金，你无需支付额外费用。这种方式让我们的食谱、评测和指南得以保持免费，同时我们也会公开说明合作品牌。',
+      '部分链接可能让 Em Casa com Cecília 获得佣金，你无需支付额外费用。这种方式让我们的评测和指南得以保持免费，同时我们也会公开说明合作品牌。',
     metaTitle: 'Cecília 的优惠码：当前有效的折扣码',
     metaDescription:
       '合作商店当前有效的折扣码：每个代码的折扣、使用规则，以及能否与商店促销活动叠加使用。',
