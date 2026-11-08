@@ -1203,10 +1203,10 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'link principal, código de indicação e campanhas vigentes',
     longDescription:
-      'Na SHEIN, o 4CW5Y é código de indicação: pesquise no aplicativo SHEIN; ele não se cola no checkout. Para o cupom de 50% para novos usuários, pesquise K49L457 no app ou use o botão da campanha abaixo.',
+      'O 4CW5Y é o código de indicação da Cecília na SHEIN: abre uma página com uma seleção de produtos, promoções e descontos. O botão abaixo já leva a essa página, sem copiar nada; se preferir, copie o 4CW5Y e pesquise no app ou no site da SHEIN. Para o cupom de 50% para novos usuários, pesquise K49L457 ou use o botão da campanha abaixo.',
     metaTitle: 'SHEIN: 4CW5Y (indicação) e cupom de 50% para novos usuários',
     metaDescription:
-      'Link da Cecília para a SHEIN: pesquise 4CW5Y (código de indicação) ou K49L457 (50% para novos usuários) no app e veja as campanhas vigentes.',
+      'Link da Cecília para a SHEIN: abre a página do 4CW5Y, com promoções e descontos, ou pesquise o código no app ou no site. K49L457: 50% para novos usuários.',
     eligibleCategories:
       'Moda, acessórios, beleza, casa e demais categorias elegíveis em cada campanha',
     validity: 'Links e campanhas sujeitos a alteração; confira as condições exibidas pela SHEIN',
@@ -1220,7 +1220,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O código 4CW5Y é um cupom de desconto da SHEIN?',
         answer:
-          '4CW5Y é o código de indicação informado pela parceria. Pesquise o código no aplicativo SHEIN e confira as condições apresentadas para a sua conta; não tratamos esse código como um percentual fixo de desconto.',
+          'Não é cupom de checkout: o 4CW5Y é o código de indicação da Cecília. Ele abre uma página da SHEIN com uma seleção de produtos, promoções e descontos; quanto e em quais peças fica a critério da SHEIN. O botão desta página já abre essa seleção. Se preferir, copie o 4CW5Y e pesquise no app ou no site da SHEIN.',
+      },
+      {
+        question: 'Preciso copiar e colar o 4CW5Y?',
+        answer:
+          'Não. O botão “Ver ofertas na SHEIN” desta página já abre a seleção do 4CW5Y. Copiar o código e pesquisar na busca do app ou do site da SHEIN leva à mesma página. Ele não vai no campo de cupom do checkout.',
       },
       {
         question: 'O que é o código 37S3442 na SHEIN?',
@@ -1244,19 +1249,19 @@ const STORE_COUPONS: Coupon[] = [
       },
     ],
     linkInstructions: [
-      'Abra a SHEIN pelo link principal da Cecília.',
-      'Para usar o código de indicação, pesquise 4CW5Y no aplicativo SHEIN.',
+      'Toque em “Ver ofertas na SHEIN”: o link da Cecília já abre a página do 4CW5Y, sem copiar nada.',
+      'Se preferir, copie o 4CW5Y e pesquise na busca do app ou do site da SHEIN.',
       'Para uma campanha específica, use o código de busca ou o botão correspondente nesta página.',
-      'Confira elegibilidade, produtos e prazo diretamente na SHEIN.',
+      'Confira os descontos de cada peça, a elegibilidade e o prazo na SHEIN.',
       'Verifique o valor final antes de concluir a compra.',
     ],
     linkNote:
-      'O link principal abre a SHEIN; códigos de indicação e de campanha são pesquisados no aplicativo. Confirme as condições exibidas para a sua conta antes de pagar.',
+      'O link da Cecília já abre a página do 4CW5Y, com promoções e descontos escolhidos pela SHEIN. Os códigos de indicação e de campanha também podem ser pesquisados no app ou no site, e nenhum deles vai no checkout.',
     affiliateAccountId: '6177013015',
     referral: {
       code: '4CW5Y',
       label: 'Código de indicação da Cecília',
-      instructions: 'Pesquise 4CW5Y no aplicativo SHEIN e confira as condições apresentadas para a sua conta.',
+      instructions: 'O botão desta página já abre a seleção do 4CW5Y. Se preferir, copie o código e pesquise no app ou no site da SHEIN: ele abre uma página com promoções e descontos escolhidos pela SHEIN.',
       verifiedAt: '2026-09-01',
     },
     status: 'ativo',
