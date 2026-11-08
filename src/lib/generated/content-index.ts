@@ -34410,8 +34410,9 @@ export const reviewsData: unknown[] = [
           "Bancada pequena: Genio S, a mais estreita, com 11,2 cm.",
           "XL pagando menos: Genio S Basic, R$ 479,90, sem as 4 temperaturas e o Espresso Boost.",
           "Os recursos da Plus com tela de toque: Genio S Touch, R$ 799,90.",
-          "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores. Se fosse para a minha casa, eu levaria a Genio S Plus, porque ela junta XL, 4 temperaturas e Espresso Boost por R$ 589,90."
-        ]
+          "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores."
+        ],
+        "emphasis": "Para alternar bebidas e volumes, eu escolheria a Genio S Plus, porque junta XL, 4 temperaturas e Espresso Boost e custa R$ 210 a menos que a Touch, que tem os mesmos recursos com tela de toque."
       },
       {
         "heading": "Onde comprar e o cupom CECI",
@@ -36121,7 +36122,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Vale se você já compraria as caixas. No combo de 20 caixas, a máquina sai mais barata que a avulsa quando a caixa passa de R$ 18,86 no carrinho. Já o combo com Mini Me grátis entrega a máquina sem custo para quem passa do mínimo de caixas do regulamento.",
           "Não vale se o consumo é esporádico: comprar 20 caixas ou mais só para levar a máquina cria um estoque que pode demorar para acabar. Nesse caso, a Mini Me 2.0 avulsa por R$ 419,90 é a conta mais segura.",
-          "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar. Se fosse para a minha casa com consumo moderado, eu levaria a Mini Me 2.0 avulsa para ter a liberdade de repor os cafés no meu próprio ritmo, sem imobilizar orçamento em um estoque grande de uma vez só."
+          "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar. Com consumo moderado, eu levaria a Mini Me 2.0 avulsa e reporia as cápsulas aos poucos, em vez de pagar de uma vez por 20 caixas ou mais."
         ],
         "bullets": [
           "Consumo frequente: combo com 20 caixas ou combo com Mini Me grátis.",
@@ -43909,7 +43910,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A melhor escolha aparece quando você identifica qual problema realmente pesa na sua casa:"
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o modular, porque ele entra em partes e muda de layout sem trocar o sofá.",
+        "emphasis": "O modular da DAMIE, que recebemos em parceria, funciona na nossa rotina. Eu o escolheria para acesso estreito e mudanças de layout; se a prioridade fosse estender o assento, compararia também um retrátil.",
         "emphasisAfterParagraph": 1,
         "bullets": [
           "Para assistir TV todos os dias: o retrátil é mais direto, porque a extensão das pernas já faz parte do assento.",
@@ -44038,7 +44039,7 @@ export const reviewsData: unknown[] = [
         "caption": "Layout em ilha: versatilidade para receber amigos e integrar ambientes."
       }
     ],
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-08"
   },
   {
     "id": 275,
@@ -44614,7 +44615,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Dolce Gusto a partir de R$ 100. Dolce Gusto, Nespresso ou 3 Corações: custo por 100 ml e qual escolher.",
     "publishedAt": "1º de setembro de 2026",
     "publishedAtISO": "2026-09-01",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg",
@@ -44646,7 +44647,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nossa opinião: onde a Dolce Gusto ganha e onde a Nespresso se destaca",
         "paragraphs": [
-          "Preço e recursos contam, mas a escolha também passa pelo uso. Em casa usamos as Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. Da Nespresso e da TRES, valem os dados das páginas oficiais.",
+          "Em casa usamos a Genio S Touch e a NEO. Já publicamos relatos da Touch e do teste com a Mini Me 2.0; da Nespresso e da TRES, usamos os dados das páginas oficiais.",
           "Priorizamos a Dolce Gusto por custo-benefício e conveniência. A parceria comercial com a marca também pesa, e preferimos dizer isso abertamente.",
           "A Nespresso se destaca em um ponto: para quem busca uma experiência premium de café em cápsula, as coleções limitadas e sazonais oferecem perfis que dificilmente aparecem nos outros sistemas. Essa exclusividade também aparece no preço das cápsulas.",
           "A Dolce Gusto segue outro caminho e ganha na variedade de bebidas e combinações. Mochaccino Canela, Caramelo Salgado e Moça® Pistachio Latte fazem parte do catálogo, e entre os três sistemas ela é a única com cafés NESCAFÉ Gold nas versões Espresso e Lungo.",
@@ -44838,7 +44839,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: veredito por perfil e os números",
-        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica: as cápsulas oficiais custaram menos que as oficiais da Nespresso Original na amostra, e a variedade de bebidas atende à nossa rotina.",
+        "emphasis": "Para alternar café, cappuccino e chá, eu escolheria o sistema Original. É o sistema da Touch que usamos em casa; a NEO também faz parte da rotina e usa cápsulas próprias.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Os números abaixo são da amostra e mudam com promoção e estoque. Veja qual perfil é o seu:"
@@ -45279,7 +45280,7 @@ export const reviewsData: unknown[] = [
           "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
           "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
+        "emphasis": "Sem saber a altura certa, eu começaria pelo Snow, que chega com 18 cm e baixa em casa, retirando enchimento; já sabendo a altura, eu ficaria no Original Látex.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -45711,7 +45712,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dolce Gusto em casa e Nespresso nas fichas oficiais",
         "paragraphs": [
-          "Preço e recursos contam, mas a escolha também passa pelo uso. Em casa usamos a Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. Da Nespresso, valem os dados das páginas oficiais.",
+          "Em casa usamos a Genio S Touch e a NEO. Já publicamos relatos da Touch e do teste com a Mini Me 2.0; da Nespresso, usamos os dados das páginas oficiais.",
           "A Dolce Gusto é a nossa preferência no dia a dia por custo-benefício e conveniência. A parceria comercial com a marca também pesa nessa escolha, e preferimos deixar isso explícito em vez de apresentar a preferência como neutra.",
           "A Nespresso se destaca em um ponto: para quem busca uma experiência premium, as coleções sazonais e limitadas de café oferecem perfis que não aparecem de forma parecida na Dolce Gusto. Essa exclusividade também aparece no preço das cápsulas.",
           "A Dolce Gusto ganha em variedade: Mochaccino Canela, Caramelo Salgado e Moça® Pistachio Latte estão no catálogo, e ela é a única das duas com café NESCAFÉ Gold em Espresso e Lungo.",
@@ -45977,7 +45978,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: os 4 perfis e os números",
-        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto, porque a cápsula oficial dela saiu mais em conta que a da Nespresso Original na amostra e ela faz cappuccino e chá na mesma máquina.",
+        "emphasis": "Aqui em casa usamos a Touch e a NEO. Para cappuccino e chá, eu escolheria o sistema Original da Touch, cujas cápsulas oficiais saíram mais baratas que as da Nespresso Original na amostra.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "O custo da cápsula pesa tanto quanto a máquina. Na amostra de preços (sujeita a estoque e promoções), a cápsula oficial da Dolce Gusto Clássica custou de R$ 1,69 a R$ 2,10, e a da Nespresso Original, de R$ 3,70 a R$ 4,20. Veja qual perfil é o seu:"
@@ -46064,7 +46065,7 @@ export const reviewsData: unknown[] = [
         "caption": "Variedade ampla de bebidas com leite, cafés intensos e opções frias."
       }
     ],
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-08"
   },
   {
     "id": 281,
@@ -53673,6 +53674,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. Poltrona de amamentação: com balanço ou sem, com puff ou reclinável, tecido, medidas e as três faixas de preço.",
     "publishedAt": "7 de outubro de 2026",
     "publishedAtISO": "2026-10-07",
+    "updatedAt": "2026-11-08",
     "isNew": true,
     "image": "/images/reviews/damie/poltrona-amamentacao-como-escolher-capa-discover.webp",
     "imageAlt": "Cecília com o filho no colo na poltrona reclinável da Damie, ao lado das fotos oficiais da almofada regulável e do apoio de pés da Poltrona 2.0",
@@ -53918,7 +53920,7 @@ export const reviewsData: unknown[] = [
           "Se você quer uma poltrona para continuar usando na sala, compare o espaço, os apoios e os recursos que pretende usar para ler, trabalhar ou ver filme. A reclinável elétrica permite ajustar a posição por botão; uma poltrona com puff também pode continuar útil depois da amamentação.",
           "Antes de fechar a compra, passe por este checklist:"
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela vira poltrona de sala depois da amamentação.",
+        "emphasis": "Aqui em casa ficamos com a reclinável elétrica, porque a poltrona ia continuar na sala depois da amamentação e o ajuste sem esforço fazia diferença para mim. Ela não é a única escolha certa: com orçamento ou espaço curto, uma boa poltrona com puff resolve essa fase.",
         "emphasisAfterParagraph": 3,
         "bullets": [
           "Medi o espaço com a poltrona aberta, contando o puff ou o apoio de pés?",
@@ -53976,7 +53978,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Feito com a nossa poltrona e lojas consultadas. Podemos receber comissão pelos links.",
+    "editorialNote": "Feito com a nossa poltrona e lojas consultadas. A DAMIE nos enviou a 2.0 citada em parceria. Podemos receber comissão pelos links.",
     "relatedArticles": [
       {
         "slug": "poltrona-de-amamentacao-vs-poltrona-reclinavel"
@@ -54252,7 +54254,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual poltrona escolher para amamentação",
-        "emphasis": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela descansa nas madrugadas e continua na sala depois.",
+        "emphasis": "Para ninar sem levantar e continuar com a poltrona na sala depois, eu iria na reclinável elétrica com giro e balanço; se o uso é só nessa fase, a de amamentação com puff custa menos.",
         "bullets": [
           "Escolha a poltrona de amamentação com balanço e puff se o orçamento está apertado, se o quarto do bebê tem espaço para o puff e se a poltrona vai ser usada só nessa fase.",
           "Escolha uma poltrona de amamentação reclinável de marketplace se você quer reclinar um pouco sem pagar o preço de uma reclinável de sala, sabendo que a reclinação costuma ser manual.",
@@ -61904,7 +61906,7 @@ export const reviewsData: unknown[] = [
           "Quer o menor preço da tabela: Viscopur e Conforto Regulável, da Ortobom. As páginas dos dois não informam teste em casa; confirme a condição atual.",
           "Dorme de lado: a Emma lembra que essa posição costuma pedir travesseiro mais alto. Dá para deixar mais enchimento no Snow ou escolher o Antiestress, que a Emma indica para quem dorme de lado."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura se ajusta tirando o enchimento e o teste é de 30 dias."
+        "emphasis": "Sem saber a altura que prefiro, eu consideraria o Snow pelo ajuste do enchimento e pelos 30 dias de teste com crédito para troca. Se a prioridade fosse reembolso, compararia a Emma e seu programa de 14 noites de teste."
       },
       {
         "heading": "Preço e cupom da I Wanna Sleep",
@@ -61995,6 +61997,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Le Creuset vale a pena com o cupom MAUAD de 5% OFF? Indução, forno por tipo de puxador, lava-louças, micro-ondas e a comparação com a Staub.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
@@ -62139,7 +62142,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pelo que a marca publica, vale para quem cozinha no fogão ou na indução, usa o forno e aceita os cuidados: calor médio ou baixo, nada de micro-ondas e nada de água fria na panela quente, porque a garantia vitalícia não cobre choque térmico nem queda."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Signature, porque o puxador fenólico vai até 250 °C.",
+        "emphasis": "Se o preparo exigisse forno acima de 200 °C, eu consideraria a Signature com puxador fenólico, cujo limite é de 250 °C. Confirmaria também o limite da tampa e do conjunto escolhido.",
         "bullets": [
           "Vale para quem quer ferro fundido esmaltado para fogão, indução e forno, respeitando a temperatura máxima do conjunto escolhido. Se o seu forno passa de 200 °C, prefira a Signature (fenólico até 250 °C) ou um modelo com puxador de inox, e confira a tampa e o limite do conjunto completo.",
           "Pense melhor: quer usar no micro-ondas, ou vai à lava-louças sempre e não aceita que o acabamento possa desbotar.",
@@ -77469,7 +77472,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "description": "Inflow e Sofá na Caixa são empresas diferentes. Compare as duas com a DAMIE em teste em casa, garantia, preço no Pix e Reclame Aqui para escolher o sofá certo.",
@@ -77488,7 +77491,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Comparação feita com as regras publicadas pelas três marcas. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
+    "editorialNote": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
     "relatedArticles": [
       {
         "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais"
@@ -77564,7 +77567,7 @@ export const reviewsData: unknown[] = [
               "Teste em casa",
               "30 dias, com coleta e reembolso integral",
               "Nenhum prazo comercial além dos 7 dias do CDC",
-              "10 dias"
+              "Sem teste de uso: 10 dias para devolver, sem indícios de uso"
             ],
             [
               "Devolução",
@@ -77701,7 +77704,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "As três dão 10% no Pix e informam o valor; compare sempre Pix com Pix ou parcela com parcela. No Pix, entre os modelos da tabela, a Sofá na Caixa (R$ 3.482,19) é o menor, a DAMIE vem em R$ 4.590 e a Inflow, a partir de R$ 5.031.",
-          "Entre os modelos comparados, a Sofá na Caixa tem o menor preço listado, com 10 dias de teste e garantia de 3 meses. A DAMIE custa mais na vitrine e, nos tecidos, fica abaixo da Inflow no Pix, com 30 dias de teste e 1 ano de garantia. Frete e configuração mudam o total: confira na loja."
+          "Entre os modelos comparados, a Sofá na Caixa tem o menor preço listado, com 10 dias para devolver sem indícios de uso e garantia de 3 meses. A DAMIE custa mais na vitrine e, nos tecidos, fica abaixo da Inflow no Pix, com 30 dias de teste e 1 ano de garantia. Frete e configuração mudam o total: confira na loja."
         ]
       },
       {
@@ -77818,20 +77821,20 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral.",
-          "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado entre os modelos comparados, inclusive no Pix. Pese contra os 10 dias de teste, os 3 meses de garantia e o selo Regular.",
+          "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado entre os modelos comparados, inclusive no Pix. Pese contra os 10 dias para devolver sem indícios de uso, os 3 meses de garantia e o selo Regular.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano.",
           "**Quem valoriza o histórico de atendimento:** a Inflow, com RA1000 e 94% de reclamações resolvidas no recorte do Reclame Aqui, lembrando que o histórico dela é curto.",
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
           "**Quem também está olhando a Valley Modular:** a comparação com ela está em [Valley Modular, Inflow ou DAMIE](/reviews/valley-inflow-ou-damie)."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a DAMIE, porque é a única com 30 dias de teste e 1 ano de garantia."
+        "emphasis": "Entre as três, eu ficaria com a DAMIE pelos 30 dias de teste e pelo ano de garantia. A Sofá na Caixa custa menos na comparação, mas informa devolução em 10 dias com embalagem original e sem indícios de uso."
       },
       {
         "heading": "A experiência da Cecília com o sofá da DAMIE",
         "paragraphs": [
-          "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família: conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como me arrepender de comprar um sofá desses.",
-          "Os itens elétricos são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico nem entram nos preços da tabela acima.",
-          "Contei como foi a decisão de compra e o que eu observaria antes de comprar no guia [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
+          "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família: conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais.",
+          "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico nem entram nos preços da tabela acima.",
+          "Contei como foi a escolha do modelo e o que eu observaria antes de comprar no guia [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
         ],
         "image": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp",
         "imageAlt": "Cecília deitada no assento do sofá modular DAMIE azul, sorrindo",
@@ -77854,7 +77857,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Inflow e Sofá na Caixa são a mesma empresa? Não. A Inflow é da Fast Living Comércio e Distribuição Ltda. (CNPJ 44.947.739/0001-80, Itapeva, MG, ativa desde 2022) e a Sofá na Caixa é da Sofá na Caixa Ltda. (CNPJ 53.546.707/0001-64, Rafard, SP, ativa desde 2024). Cada uma tem site e regras próprios.",
-          "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem selo RA1000 no Reclame Aqui e a Sofá na Caixa, Regular. A Sofá na Caixa tem o menor preço listado entre os modelos comparados e 10 dias de teste em casa; a Inflow não dá teste além dos 7 dias do CDC.",
+          "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem selo RA1000 no Reclame Aqui e a Sofá na Caixa, Regular. A Sofá na Caixa tem o menor preço listado entre os modelos comparados e 10 dias para devolver o sofá sem indícios de uso; a Inflow não dá prazo além dos 7 dias do CDC.",
           "Existe outra marca parecida com a Sofá na Caixa e a Inflow? A DAMIE também entrega o sofá modular em caixas, mas com módulos pré-estruturados em madeira, ligados por encaixe, e não com espuma compactada. Tem 30 dias de teste em casa e 1 ano de garantia.",
           "Qual tem a maior garantia? A DAMIE: 1 ano e, depois, suporte vitalício com peças a preço de custo. A Inflow dá 3 meses na ficha do produto (90 dias na política) e a Sofá na Caixa, 3 meses.",
           "Posso devolver o sofá da Inflow depois de abrir? Pela política da Inflow, a devolução por arrependimento só é aceita com o produto lacrado, e o frete de volta é do cliente. O CDC garante 7 dias de arrependimento na compra online, e o lacre é exigência da loja: na dúvida, confirme com a Inflow antes de abrir. Depois de aberto, a loja prevê só a garantia de 3 meses (90 dias), em caso de defeito.",
@@ -77869,7 +77872,7 @@ export const reviewsData: unknown[] = [
         "A garantia de 1 ano pesa mais para você do que o menor preço."
       ],
       "skipIf": [
-        "O menor preço decide sozinho, mesmo com 10 dias de teste e 3 meses de garantia.",
+        "O menor preço decide sozinho, mesmo com 10 dias para devolver e 3 meses de garantia.",
         "Você prefere o atendimento melhor avaliado no Reclame Aqui e aceita, pela política da loja, decidir antes de abrir a caixa."
       ]
     }
@@ -77891,7 +77894,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "description": "Sofá na caixa pode durar tanto quanto o montado, porque a caixa é só o jeito de entregar. Veja o que decide a durabilidade, o checklist da ficha técnica e a garantia de cada marca.",
@@ -77910,7 +77913,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Guia feito com as fichas das marcas, normas ABNT e o meu sofá. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
+    "editorialNote": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
     "relatedArticles": [
       {
         "slug": "sofa-na-caixa-inflow-ou-damie"
@@ -78062,9 +78065,9 @@ export const reviewsData: unknown[] = [
         "heading": "O que eu vi depois de meses com o sofá na caixa da DAMIE",
         "paragraphs": [
           "Uso o sofá modular da DAMIE há mais de um ano. É tempo de uso real, não de teste de laboratório:",
-          "\"O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como se arrepender de comprar um sofá desses.\"",
-          "Os itens elétricos são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico.",
-          "Contei como foi a decisão de compra e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
+          "\"O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais.\"",
+          "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico.",
+          "Contei como foi a escolha do modelo e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
         ],
         "image": "/images/reviews/sofa-damie-modular-puff.webp",
         "imageAlt": "Cecília sentada no sofá modular DAMIE azul, com a mão sobre o puff",
@@ -78081,7 +78084,7 @@ export const reviewsData: unknown[] = [
           "**Quem quer sentar antes de comprar:** o sofá montado de loja física leva vantagem. Entre os sofás na caixa, o teste em casa faz esse papel, e a DAMIE dá 30 dias.",
           "**Quem muda de casa ou de layout:** o sofá modular facilita, porque os módulos se separam e se reorganizam. Se a dúvida é o formato, veja [Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto](/reviews/sofa-modular-ou-retratil-qual-escolher)."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o modular na caixa, porque são módulos de madeira com encaixe e 1 ano de garantia."
+        "emphasis": "Eu escolheria pela construção e pela possibilidade de manutenção, antes de olhar se o sofá vem na caixa ou montado. O modular DAMIE recebido em parceria é a nossa referência de uso; a embalagem, sozinha, não decide a duração."
       },
       {
         "heading": "Cupom CECILIA12 para o sofá da DAMIE",
@@ -100782,7 +100785,7 @@ export const reviewsData: unknown[] = [
             }
           ]
         },
-        "emphasis": "Se fosse para a minha casa, eu levaria o Regata Cavado, porque é o mais barato e resolve o dia a dia.",
+        "emphasis": "Como os seis usam o mesmo tecido, o preço pesa mais: para o dia a dia, eu começaria pelo Regata Cavado, o mais barato da tabela, se as cavas profundas forem o seu corte.",
         "emphasisAfterParagraph": 4
       },
       {
@@ -101830,7 +101833,7 @@ export const reviewsData: unknown[] = [
           "Se a dúvida é a boxer, a Performance é a opção de treino e esporte; a Comfort, a de dia a dia, segundo a marca. Compare o preço da variante: cor e tamanho podem mudar o valor.",
           "A Seamless Touch e a Slip têm construções diferentes da boxer. Confira as medidas antes de comprar, porque a política comercial de underwear exclui troca por tamanho. Para conhecer a marca, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Comfort para o dia a dia, porque é a boxer de modal para uso diário.",
+        "emphasis": "Para a rotina, eu escolheria a Comfort, de modal; para treinar, a Performance, que leva poliamida por fora e a marca indica para esporte.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -101918,7 +101921,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider. Undershirt Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho e troca.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/insider-undershirt-tres-niveis-capa.webp",
@@ -102147,7 +102150,7 @@ export const reviewsData: unknown[] = [
           "Suor excessivo: Block, com reforço impermeável nas axilas, segundo a marca. Estava esgotado em outubro.",
           "Confira o tamanho antes da compra: a política comercial divulgada para a linha restringe troca e devolução a defeito de fabricação."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
+        "emphasis": "Eu escolheria pelo nível de transpiração indicado para cada modelo. Se a prioridade fosse a camada dupla nas axilas e mais opções de cor, consideraria o Moderado.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -127963,7 +127966,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "description": "Valley Modular e Inflow vendem sofá de espuma a vácuo, e a DAMIE manda módulos de madeira. Compare garantia, teste em casa, devolução, prazo e preço para escolher.",
@@ -127982,7 +127985,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
+    "editorialNote": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
     "relatedArticles": [
       {
         "slug": "sofa-na-caixa-inflow-ou-damie"
@@ -128284,7 +128287,7 @@ export const reviewsData: unknown[] = [
         "heading": "A experiência da Cecília com o sofá da DAMIE",
         "paragraphs": [
           "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa: receber visitas, conversar, brincar com os filhos, ler e tirar um cochilo. O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou, com o mesmo conforto, a estrutura e a parte elétrica funcionando.",
-          "Os itens elétricos são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet. Eles não vêm no sofá básico nem entram nos preços das tabelas acima. Contei como foi a decisão de compra e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
+          "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet. Eles não vêm no sofá básico nem entram nos preços das tabelas acima. Contei como foi a escolha do modelo e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
         ],
         "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conforto.webp",
         "imageAlt": "Cecília sentada no sofá modular DAMIE azul, com o braço apoiado no encosto, sorrindo.",
@@ -128313,7 +128316,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A DAMIE divulga o prazo comercial de teste mais longo e um ano de garantia. A Inflow tem o menor preço de catálogo das configurações com apoio, antes de código e frete. A Valley Modular fica entre as outras em garantia e tem o menor dois lugares sem apoio da tabela. Confira prazo de produção e procedimento de devolução antes de escolher."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a DAMIE, pelos 30 dias de teste e 1 ano de garantia.",
+        "emphasis": "Entre essas configurações, eu priorizaria os 30 dias de teste e o ano de garantia da DAMIE. Para decidir pelo preço, compararia o total com descontos e frete, não só o catálogo.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -128358,7 +128361,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "description": "Le Creuset 20 ou 24 cm comparadas em litros, preço no cartão, preço por litro e cores na Let's Eat It, mais a caçarola buffet e os outros formatos, com dados de 26/10/2026.",
@@ -128591,7 +128594,7 @@ export const reviewsData: unknown[] = [
           "A buffet entra para quem leva a panela do forno à mesa. Ela serve a esse uso, mas leva menos que a redonda: 2,2 L no 26 cm e 3,5 L no 30 cm.",
           "Os números que sustentam a decisão: 20 cm com 2,4 L por R$ 2.329, 24 cm com 4,2 L por R$ 2.949, 26 cm com 5,3 L por R$ 3.089 e buffet de 26 cm com 2,2 L. Todos são preços cheios."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a 24 cm, porque ela cobre as receitas cheias e sai 28% mais barata por litro.",
+        "emphasis": "Eu escolheria pela receita mais cheia, com a folga que o preparo exige. Se a 20 cm ficar pequena e a 24 cm acomodar esse volume, a maior passa a fazer sentido; a economia por litro, sozinha, não decide.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -155488,7 +155491,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mala de policarbonato ou ABS na Bagaggio, com o cupom CECILIA10 de 10% OFF: o policarbonato custa de 3,6 a 6 vezes a Detroit de ABS.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa.webp",
@@ -155637,7 +155640,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Vale pagar mais pelo policarbonato?",
-        "emphasis": "Se fosse para a minha casa, eu levaria a Detroit Preta, porque ela sai a R$ 5,65 por litro, a conta mais baixa da tabela.",
+        "emphasis": "Com o que as fichas mostram, eu não pagaria a mais pelo policarbonato: a Detroit Preta, de ABS, tem o menor preço por litro, e as três de policarbonato não trazem mais litros nem menos peso.",
         "paragraphs": [
           "Pelos números das três fichas de policarbonato da tabela, ele não traz mais litros nem menos peso que a Detroit de ABS. O que muda é o material e o preço. Três perguntas apontam uma linha da tabela:"
         ],
@@ -157551,7 +157554,7 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.9815
           }
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o Bordado Oliva, porque é o mais barato e o 45 x 45 cm serve no almoço e no jantar.",
+        "emphasis": "Para um jogo só, do almoço ao jantar, eu levaria o Bordado Oliva: é o mais barato dos quatro, e o 45 x 45 cm cobre mais o colo.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -157801,7 +157804,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Com um prato raso de 28 cm, o retangular de 35 x 50 cm deixa 11 cm de cada lado para o garfo e a faca. O [Corrente Bege](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem essa medida."
         ],
-        "emphasis": "Se fosse para a minha casa, eu escolheria o Retangular Corrente Bege: ele tem a mesma medida do Gregas e tinha o menor preço da tabela. Eu confirmaria o valor atual e o frete antes de comprar.",
+        "emphasis": "Com prato de 28 cm, eu escolheria o Corrente Bege: tem a mesma medida do Gregas, deixa 11 cm de cada lado para os talheres e tinha o menor preço da tabela.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -165132,7 +165135,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Mala de bordo: preço, medida, peso e litros de 7 malas, o selo BORDO e a regra da ANAC, LATAM, GOL e Azul.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa.webp",
@@ -165244,7 +165247,7 @@ export const reviewsData: unknown[] = [
         "heading": "Selo BORDO: o que a loja informa",
         "paragraphs": [
           "O selo BORDO, com ícone de avião, é uma informação da loja. Não é certificado de embarque, e não garante que a mala passa no balcão da companhia. Quem decide é a companhia, no dia do voo.",
-          "Todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia."
+          "Todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa dos 55 × 35 × 25 cm citados por LATAM, GOL e Azul. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia."
         ],
         "images": [
           {
@@ -165278,9 +165281,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quer pagar menos? A Detroit ABS Preta ou a II Prata custa R$ 249,90 no cartão e tem 44,2 litros.",
           "Quer uma Bagaggio mais leve que a Detroit? A Route Preta ou a Vinho pesa 2,43 kg, contra 2,61 kg da Detroit. Na tabela, a Downtown Travelcross pesa 2,06 kg.",
-          "Quer mais espaço e aceita uma medida maior? A Cartagena tem 51,3 litros, mas passa da medida de 55 × 35 cm que as companhias citam para a mala de mão."
+          "Quer mais espaço e aceita uma medida maior? A Cartagena tem 51,3 litros, mas passa dos 55 × 35 × 25 cm que LATAM, GOL e Azul citam para a mala de mão."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Detroit ABS Preta, porque é a mais barata da marca Bagaggio e fica dentro da medida de 55 × 35 cm das companhias."
+        "emphasis": "Para gastar menos na marca Bagaggio, eu escolheria a Detroit ABS Preta: os 55 × 35 × 23 cm ficam dentro dos 55 × 35 × 25 cm que LATAM, GOL e Azul citam. Antes do voo, eu conferiria a regra da minha companhia."
       },
       {
         "heading": "O que pode levar na mala de bordo",
@@ -165379,7 +165382,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio, com o cupom CECILIA10 de 10% OFF: medidas e litros da loja, a ligação entre P, M e G e a mala de mão das companhias.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-capa.webp",
@@ -165390,7 +165393,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na seleção, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm. O CECILIA10 dá 10% OFF em todo o site."
+          "Na seleção, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 × 25 cm. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -165509,7 +165512,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como ler as faixas de 10, 23 e 32 kg",
         "paragraphs": [
-          "A mala de 10 kg é a de bordo pelo nome que a loja dá, mas a medida varia: a Cartagena P, por exemplo, passa dos 55 × 35 cm. As faixas de 23 kg e 32 kg são o nome das malas maiores, e a medida também muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
+          "A mala de 10 kg é a de bordo pelo nome que a loja dá, mas a medida varia: a Cartagena P, por exemplo, passa dos 55 × 35 × 25 cm. As faixas de 23 kg e 32 kg são o nome das malas maiores, e a medida também muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
           "Os litros acompanham a medida. Nos 23 kg, os modelos da tabela vão de 71 a 91 litros, e nos 32 kg, de 104 a 131. Litros são a capacidade que a loja declara, não um número de peças de roupa, porque isso depende de cada peça."
         ],
         "images": [
@@ -165847,7 +165850,7 @@ export const reviewsData: unknown[] = [
           "Feminina: Donna, a R$ 299,90, média, com 90 dias de garantia.",
           "Couro: Arpoador, a R$ 399,90, com 3 meses de garantia, ou Joá Café, a R$ 699,90, com 90 dias."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Horizonte Slim, porque é a mais barata com a medida do notebook informada pela loja.",
+        "emphasis": "Para gastar pouco, eu começaria pela Horizonte Slim: custa o mesmo que a BG Net e a BG Quiz e é a única das três com medida de notebook no cadastro, até 15,6 polegadas. Ainda assim, eu confirmaria o compartimento.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -166185,7 +166188,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA10 dá 10% OFF nas mochilas escolares Bagaggio: 10 modelos por linha, com preço de cartão, medida, garantia e as licenciadas.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/mochila-escolar-bagaggio-capa.webp",
@@ -166351,7 +166354,7 @@ export const reviewsData: unknown[] = [
           "Juvenil feminina: Star Candy, a R$ 249,90, com 90 dias de garantia, diz a página.",
           "Notebook junto: a loja indica a High Shape III, a R$ 399,90. Confirme o tamanho do compartimento com a loja antes de comprar."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Star Candy, porque a medida e a capacidade estão informadas na ficha.",
+        "emphasis": "Eu decidiria primeiro entre costas e rodinhas, pela rotina da criança, e depois compararia as medidas da tabela com o material que ela leva.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -168649,7 +168652,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A linha Sphere só sai em conjunto, então a conta é por taça, como na tabela: o kit 6 + 6 sai a R$ 46,42 por taça, contra R$ 49,67 do conjunto de 450 ml e R$ 48,17 do de 250 ml."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o kit 6 + 6, porque cobre vinho e champanhe para 4 pessoas e a taça sai a menos que nos jogos de 6."
+        "emphasis": "Para a mesa de 4 que serve vinho e champanhe, eu levaria o kit 6 + 6: cobre as duas bebidas, e a taça sai a menos que nos jogos de 6."
       },
       {
         "heading": "Perguntas frequentes",
@@ -182420,7 +182423,7 @@ export const reviewsData: unknown[] = [
           "Envio Nacional: a tabela do vendedor, com a letra brasileira.",
           "Entre tamanhos, reúna tabelas, ajuste e relatos sobre a mesma peça. Sem informação suficiente, confirme as medidas ou escolha outra peça; não copie automaticamente a letra de outra pessoa."
         ],
-        "emphasis": "Se fosse para a minha casa, eu não pediria letra sem abrir o guia da peça, porque a mesma letra muda de marca para marca."
+        "emphasis": "Para escolher o tamanho na SHEIN, use as medidas do guia de cada peça, sem presumir que a letra que serviu em outra marca terá o mesmo ajuste."
       },
       {
         "heading": "Perguntas frequentes",
@@ -182693,7 +182696,7 @@ export const reviewsData: unknown[] = [
           "A brand the page warns runs smaller (the DAZY): read the brand's own body table, not your usual letter.",
           "Between sizes, use the charts, cut and buyer reports for that same item together. If information is insufficient, check measurements or choose another piece; do not automatically copy another buyer's size."
         ],
-        "emphasis": "If it were for my own home, I wouldn't order a size without opening the piece's guide, because the same letter changes from brand to brand."
+        "emphasis": "Choose your SHEIN size using the measurements in each item's size guide. The same size label can fit differently across brands."
       },
       {
         "heading": "Frequently asked questions",
@@ -182965,7 +182968,7 @@ export const reviewsData: unknown[] = [
           "Marca que la ficha avisa que queda pequeña (la DAZY): lee la tabla de cuerpo de la propia marca, no tu letra de siempre.",
           "Entre tallas, reúne tablas, corte y relatos sobre ese mismo artículo. Sin datos suficientes, confirma las medidas o elige otra prenda; no copies automáticamente la talla de otra persona."
         ],
-        "emphasis": "Si fuera para mi casa, no pediría una talla sin abrir la guía de la prenda, porque la misma letra cambia de marca en marca."
+        "emphasis": "Elige tu talla en SHEIN según las medidas de la guía de cada prenda. Una misma talla puede quedar distinta de una marca a otra."
       },
       {
         "heading": "Preguntas frecuentes",
@@ -183237,7 +183240,7 @@ export const reviewsData: unknown[] = [
           "Marque dont la fiche prévient qu'elle taille petit (DAZY) : lisez le tableau du corps de la marque elle-même, pas votre lettre habituelle.",
           "Entre tailles, croisez tableaux, coupe et avis sur le même article. Sans données suffisantes, vérifiez les mesures ou choisissez un autre vêtement ; ne copiez pas automatiquement la taille d’autrui."
         ],
-        "emphasis": "Si c'était pour chez moi, je ne commanderais pas une taille sans ouvrir le guide de l'article, parce que la même lettre change d'une marque à l'autre."
+        "emphasis": "Pour choisir votre taille chez SHEIN, consultez les mesures du guide de chaque article. Une même taille peut correspondre à des mesures différentes selon la marque."
       },
       {
         "heading": "Questions fréquentes",
@@ -183509,7 +183512,7 @@ export const reviewsData: unknown[] = [
           "Marke, bei der die Seite warnt, dass sie kleiner ausfällt (DAZY): Lesen Sie die Körpertabelle der Marke selbst, nicht Ihren üblichen Buchstaben.",
           "Zwischen Größen Tabellen, Schnitt und Berichte zum selben Artikel zusammen betrachten. Bei zu wenig Angaben Maße klären oder ein anderes Teil wählen; nicht automatisch die Größe anderer kopieren."
         ],
-        "emphasis": "Für mein eigenes Zuhause würde ich keine Größe bestellen, ohne den Guide des Artikels zu öffnen, denn derselbe Buchstabe ändert sich von Marke zu Marke."
+        "emphasis": "Wählen Sie Ihre SHEIN-Größe anhand der Maßtabelle des jeweiligen Artikels. Dieselbe Größenangabe kann bei einer anderen Marke anders ausfallen."
       },
       {
         "heading": "Häufige Fragen",
@@ -183781,7 +183784,7 @@ export const reviewsData: unknown[] = [
           "Marchio che la scheda segnala come più piccolo (DAZY): leggi la tabella del corpo del marchio stesso, non la tua lettera abituale.",
           "Tra taglie, unisci tabelle, taglio e recensioni sullo stesso capo. Senza dati sufficienti, verifica le misure o scegli un altro articolo; non copiare automaticamente la taglia altrui."
         ],
-        "emphasis": "Se fosse per casa mia, non ordinerei una taglia senza aprire la guida del capo, perché la stessa lettera cambia da marchio a marchio."
+        "emphasis": "Per scegliere la taglia su SHEIN, usa le misure della guida di ciascun capo. La taglia che ti veste bene in un altro marchio potrebbe non avere la stessa vestibilità."
       },
       {
         "heading": "Domande frequenti",
@@ -184053,7 +184056,7 @@ export const reviewsData: unknown[] = [
           "페이지에서 작게 나온다고 안내하는 브랜드(DAZY): 평소 입던 사이즈 글자가 아니라 그 브랜드의 신체 치수표를 읽으십시오.",
           "두 사이즈 사이에서 확신이 없을 때: 같은 상품의 표, 핏과 후기를 함께 보십시오. 정보가 부족하면 치수를 확인하거나 다른 옷을 고르고, 다른 사람의 사이즈를 자동으로 따르지 마십시오."
         ],
-        "emphasis": "제가 집에서 쓸 옷이라면, 상품의 사이즈 가이드를 열어 보지 않고는 사이즈를 고르지 않습니다. 같은 글자라도 브랜드마다 치수가 다르기 때문입니다."
+        "emphasis": "SHEIN에서 사이즈를 고를 때는 상품별 사이즈 가이드의 치수를 확인하세요. 다른 브랜드에서 잘 맞았던 사이즈가 같은 핏을 보장하지는 않습니다."
       },
       {
         "heading": "자주 묻는 질문",
@@ -189127,7 +189130,7 @@ export const reviewsData: unknown[] = [
           "**Quer ver antes de levar:** a loja parceira mais perto, depois de chamar no WhatsApp.",
           "**Drogasil e Droga Raia:** só se já estiver lá; há uma variação, sem estoque."
         ],
-        "emphasis": "Se fosse para a minha casa, eu começaria pelo site oficial com MAUAD. Antes de fechar, compararia o total com frete e a previsão de entrega com a loja oficial no Mercado Livre e a Toda Up na Amazon.",
+        "emphasis": "Eu começaria pelo site oficial com MAUAD, que teve o menor preço do produto na comparação. Antes de fechar, compararia o total com frete e o prazo de entrega com as lojas oficiais no Mercado Livre e na Amazon.",
         "links": [
           {
             "label": "Ver no Mercado Livre",
@@ -189778,7 +189781,7 @@ export const reviewsData: unknown[] = [
           "**Procura sustentação com peça de roupa:** a Blumi, que é outra linha da mesma dona, e não uma fita.",
           "Antes de pagar, confira a marca na caixa. A busca mistura nomes parecidos, e a Lib tem uma fita dupla face para decotes e barras que é outro produto, com outro preço."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up, mesmo saindo mais cara que a Lib: a largura vem pelo número do sutiã, e comprando no site a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote."
+        "emphasis": "Eu pagaria a mais pela Fita Up, porque a largura vem pelo número do sutiã e, comprando no site, a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote."
       },
       {
         "heading": "Onde comprar a Fita Up",
@@ -195896,7 +195899,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A masculina faz mais sentido num visual social casual, com camiseta por baixo, pelo corte solto e alongado que a Insider descreve. Quem procura uma camisa slim deve olhar outro corte."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a masculina para o social casual, porque os 58 cm de largura no M já dão um caimento solto.",
+        "emphasis": "Pelo corte oversized e alongado descrito pela Insider, eu pensaria nela para o social casual, com camiseta por baixo. Antes de escolher o tamanho, compararia os 58 cm de largura no M com uma camisa que já serve bem.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -196159,7 +196162,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A feminina faz mais sentido aberta sobre uma blusa, desde que o comprimento da tabela combine com o caimento que você procura. Quem prefere cintura marcada deve olhar uma modelagem acinturada."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a feminina para usar aberta sobre uma blusa, porque os 82,5 cm de altura no M fazem dela uma camada comprida.",
+        "emphasis": "Com 82,5 cm de altura no M, eu pensaria nela como camada comprida, aberta sobre uma blusa, mais do que como camisa de cintura marcada.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -196510,7 +196513,7 @@ export const reviewsData: unknown[] = [
           "Para pernas amplas em dias amenos ou frios: a Wide Leg UltraBold, a opção de pernas amplas.",
           "Para quem usa XGG e escolheu a FutureForm: confira primeiro a página exclusiva desse tamanho, que tem preço menor no quadro."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a FutureForm para dias quentes, porque a Insider a indica para esse clima e o corte afunila na barra.",
+        "emphasis": "Eu decidiria pelo clima antes do corte: a Insider indica a FutureForm para dias quentes e a Wide Leg para dias amenos e frios.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -196854,7 +196857,7 @@ export const reviewsData: unknown[] = [
           "Para pernas afuniladas e bolso que fecha: a FutureForm, com dois zíperes laterais.",
           "Para quem prefere barra fechada: a Hybrid Jogger, que a loja indica para trabalho remoto, passeios e viagens."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a FutureForm para o dia a dia, porque os dois bolsos com zíper são o detalhe que eu priorizaria.",
+        "emphasis": "Sem precisar de cinto, eu começaria pela FutureForm, porque os dois bolsos laterais fecham com zíper; para usar cinto, a escolha passa a ser a Director.",
         "emphasisAfterParagraph": 1
       },
       {
