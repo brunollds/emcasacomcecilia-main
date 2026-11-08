@@ -61,3 +61,6 @@ A SHEIN está na "Mega Promoção 11.11" ("até 85% off em mais de 600 mil produ
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
 - Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. O aviso da decisão 4 de 28/10 ("fora do PT, o aviso de que é da SHEIN Brasil") não vale mais.
 - No PT, as 2 frases do 4CW5Y (a abertura e o FAQ "O 4CW5Y é cupom?") passam a dizer "o código de indicação da SHEIN". As 9 traduções já estavam sem o termo desde o #493 e não mudaram. PR #566.
+
+## Atualização de 07/11/2026: o 4CW5Y dá desconto (#716 a #720)
+- Decisão do Bruno, já no ar: o 4CW5Y segue sendo código de indicação da SHEIN, não é cupom de checkout e não se cola no checkout, mas dá desconto, sim. Pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma seleção da SHEIN com promoções e descontos; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem "só no app". Onde as decisões de 28/10 (itens 2 e 4 da estrutura) dizem "procurado no app", vale esta regra.

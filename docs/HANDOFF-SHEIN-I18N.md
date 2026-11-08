@@ -10,9 +10,14 @@
 >
 > O que vale hoje para quem escreve um artigo da SHEIN:
 >
-> - **Código:** `4CW5Y` é código de indicação da SHEIN Brasil, pesquisado no aplicativo da
->   SHEIN. Fora do português, o artigo mostra `4CW5Y` com o aviso de que o código e as
->   campanhas são da SHEIN Brasil.
+> - **Código:** `4CW5Y` é código de indicação da SHEIN, não é cupom de checkout e dá
+>   desconto, sim: pelo link do botão, ou pesquisando o código no app ou no site da SHEIN,
+>   abre uma página com seleção de produtos, promoções e descontos (quanto e em quais peças,
+>   quem decide é a SHEIN; sem percentual nem valor). Fora do português, o artigo mostra
+>   `4CW5Y` sem aviso de país: a SHEIN é plataforma global.
+>
+>   Superado em 07/11/2026: o aviso "SHEIN Brasil" saiu em 02/11 (#493) e o "pesquisado no
+>   aplicativo, sem desconto" saiu em 07/11 (#716 a #720).
 > - **CTA do artigo:** em português, o link brasileiro do código (`offerUrl` do cupom `shein`
 >   em `couponsData.ts`). Nos outros 9 idiomas, exatamente o link neutro
 >   `https://onelink.shein.com/55/6463grgxf6ru` (`COUPON_TRANSLATIONS.shein.offerUrl` em
@@ -305,7 +310,7 @@ do link principal e de duas campanhas vigentes.
 | Dado | Valor | Estado |
 |---|---|---|
 | ID de afiliado | `6177013015` | confirmado pelo Bruno |
-| Código de indicação | `4CW5Y` | confirmado; não extrapolar regras comerciais não informadas |
+| Código de indicação | `4CW5Y` | confirmado; dá desconto, sim (atualizado em 07/11/2026, #716 a #720), sem percentual nem valor: quanto e em quais peças, quem decide é a SHEIN; não extrapolar regras comerciais não informadas |
 | Link principal referente ao código | `https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20` | usar em `offerUrl`; reconferir como qualquer dado comercial |
 | Campanha — produtos selecionados | busca `37S3442`; `https://onelink.shein.com/47/5yl4fyr203o0` | aumento de comissão; descontos por tempo limitado |
 | Campanha — 50% novos usuários | busca `G326U6B`; `https://onelink.shein.com/47/5yl4h46pd93c` | somente novos usuários |
@@ -385,6 +390,9 @@ sem `br.`. O Bruno gerou o da tabela em 05/10/2026; como o outro, é dado comerc
 reconfere. Ele não substitui o do PT, que continua ligado ao código `4CW5Y`. O código de
 indicação e as duas campanhas seguem sendo da SHEIN Brasil, e cada idioma avisa isso em
 `longDescription` e `linkNote`. Também não conferir esse link clicando.
+
+Superado em 07/11/2026: o aviso de país saiu em 02/11 (#493; a SHEIN é plataforma global, sem
+"SHEIN Brasil") e o código passou a valer como código que dá desconto, sim, em 07/11 (#716 a #720).
 
 ### Quebra de linha em coreano, japonês e chinês
 

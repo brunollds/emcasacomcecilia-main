@@ -83,6 +83,7 @@ Leitura: a intenção é "qual tamanho eu peço" e "o que faço se não servir".
 Fatos: `tamanho-shein-brasil-fatos-3010.md`, ao lado.
 
 1. Família de 10 idiomas (decisão do Bruno). Fora do PT: sem link da SHEIN Brasil; o `cta.url` é o link neutro da página da loja (`getLocalizedCoupon('shein', locale).offerUrl`); regras de imposto e de devolução do Brasil só no PT. O 4CW5Y é código de indicação da SHEIN Brasil: pesquisa-se no app, não dá desconto, não é cupom e não "soma". Sem cupom de primeira compra como vantagem. Ninguém do site comprou para o artigo. Pendentes do briefing: conferir no Chrome antes de publicar (a SHEIN abre CAPTCHA em página de produto: parar e chamar o Bruno).
+   - Superado em 07/11/2026 (#716 a #720): o 4CW5Y dá desconto, sim, numa seleção da SHEIN (ver "Regras de 02/11" abaixo); o resto do item vale.
 2. `translationKey` própria: `shein-tamanho`. Lido no Chrome em 30/10 (fatos, seção final): a tabela é por peça ("Guia de tamanhos" em cm e polegadas), há o "Verificar meu tamanho" (Fit Finder, pede altura, idade e peso) e o "Tamanho e ajuste" com as medidas da modelo. O artigo ensina a ler o guia de cada peça e não publica tabela única P/M/G nem equivalência de terceiros (as fontes se contradizem). Troca de tamanho: só se a política da SHEIN Brasil disser; senão, devolução (20 dias, a 1ª grátis, depois R$ 45, conferir no dia). Modelo de estrutura: `clea-store-tabela-de-medidas-como-escolher-tamanho`, sem link (outra loja).
 
 ## Atualização de 04/11/2026: regras de 02/11 e leitura no navegador
@@ -91,6 +92,7 @@ Vale sobre o que está acima onde houver conflito. Fatos, fontes, datas e as dua
 
 ### Regras de 02/11 (Bruno)
 - A SHEIN é uma plataforma global. Nenhum texto diz "SHEIN Brasil", nem no PT. O 4CW5Y é o código de indicação da SHEIN, de pesquisar no aplicativo: não dá desconto, não é cupom e não "soma".
+- Superado em 07/11/2026 (decisão do Bruno, #716 a #720): o 4CW5Y segue sendo código de indicação, não é cupom, não "soma" e não se cola no checkout, mas dá desconto, sim. Pelo link do botão, ou copiando o código e pesquisando no app ou no site da SHEIN, abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN. Sem percentual nem valor, sem prometer desconto em toda compra, sem "só no app".
 - `br.shein.com` vale em todo idioma, e o link neutro também. `cta.url`: no PT, o `offerUrl` de `couponsData.ts`; nos 9 idiomas, `https://onelink.shein.com/55/6463grgxf6ru`.
 - Fora do PT, nada do Brasil: a letra brasileira ("BR Tamanho", PP/P/M/G/GG), o Envio Nacional, a política de devolução brasileira (20 dias, R$ 45, 7 dias), R$, CPF, Correios. Nada de "escolha o português". O capítulo só do Brasil sai inteiro; a frase mista perde a parte do Brasil.
 - O slug `tamanho-shein-brasil` é só do PT. Fora do PT, nem o slug nem o título levam "Brasil": en `shein-size-guide`, es `tallas-shein`, fr `tailles-shein`, de `shein-groessen`, it `taglie-shein`; ja, ko, zh-hant e zh-hans `shein-size-guide-<locale>`.
@@ -129,7 +131,7 @@ Fonte canônica da família `shein-tamanho` (10 idiomas). Capítulo marcado com 
 - **title:** Tamanho na SHEIN: qual letra pedir, o tamanho brasileiro e como ler o guia de cada peça
 - **seoTitle (61 caracteres):** Tamanho SHEIN: qual pedir e o tamanho brasileiro de cada peça
 - **description (174 caracteres):** Na SHEIN a mesma letra muda de marca para marca: o M de duas camisetas difere 11 cm no busto. Por isso o tamanho sai da medida da peça em centímetros, não da letra de sempre.
-- **metaDescription (149 caracteres; o 4CW5Y termina no caractere 59):** Tamanho na SHEIN: a letra muda de marca para marca; o 4CW5Y é código de indicação, pesquisado no app. Meça em centímetros e leia o guia de cada peça.
+- **metaDescription (138 caracteres; o 4CW5Y termina no caractere 49; atualizado em 07/11/2026, #716 a #720):** Tamanho na SHEIN: a letra muda por marca; o 4CW5Y dá desconto, sim, numa seleção da SHEIN. Meça em centímetros e leia o guia de cada peça.
 - **slug:** `tamanho-shein-brasil` (só o PT; os outros, na Atualização de 04/11) · **translationKey:** `shein-tamanho` · **locale:** `pt`
 - **category:** `guias-praticos-utilidade` · **reviewKind:** `guia` · **type:** Guia de Tamanho
 - **affiliate:** `shein` · **coupon:** `4CW5Y` · `isNew: true` · `modo_i18n: paridade-completa`
@@ -236,7 +238,7 @@ A letra se decide antes do carrinho, nesta ordem:
 7. Conte com 1 a 2 cm de variação na peça e com a mudança depois da lavagem.
 8. Guarde a confirmação do pedido e o rastreio: é com eles que a devolução anda, se a peça não servir.
 
-Prazo, frete[só PT: , imposto de importação] e o que conferir antes de pagar estão em [SHEIN vale a pena?](/reviews/shein-vale-a-pena). O 4CW5Y é o código de indicação da SHEIN: pesquisa-se no aplicativo, não é cupom e não dá desconto; as campanhas do momento ficam na [página da SHEIN](/cupons/shein).
+Prazo, frete[só PT: , imposto de importação] e o que conferir antes de pagar estão em [SHEIN vale a pena?](/reviews/shein-vale-a-pena). O 4CW5Y é o código de indicação da SHEIN e dá desconto, sim: pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma página com uma seleção de produtos, promoções e descontos, e quem decide o quanto e em quais peças é a SHEIN. Não é cupom, então não se cola no checkout; as campanhas do momento ficam na [página da SHEIN](/cupons/shein).
 
 ### Qual letra pedir: o resumo por situação
 
@@ -295,7 +297,7 @@ Os arquivos do site não levam "brasil" no nome: as fotos 1 e 2 e a capa aparece
 | Orientação de folga pelo tecido (sem elastano: folga, no limite a letra de cima; com elastano: a letra da medida) | raciocínio sobre a elasticidade e a folga do guia, sem teste; o rótulo "Regra prática, sem teste nosso:" do "Como medir" marca a primeira vez (REGRAS-GLOBAIS §7) | universal |
 | Como medir busto, cintura e quadril ("Regra prática, sem teste nosso", com a premissa da fita) | método igual em todas as fontes lidas (briefing, estrutura, item 2); modelo do artigo da Cléa, reescrito | universal |
 | Envio Nacional: na peça de loja parceira local, a letra pode vir só na forma brasileira; no vestido midi, de P a GG, com a tabela numa foto da galeria e 92 cm de busto no M (P 88, G 96, GG 102) | fatos, "Vestido de Envio Nacional" (https://br.shein.com/Women-s-Tailored-Midi-Dress-Elegant-With-Slit-Detail-And-Front-Tie-p-485599894.html) e `vestido-3.webp`; o "pode vir" porque o vestido SHEIN Privé de Envio Nacional mostrava "GG (XL)" (fatos do guia de compra) | só PT |
-| 4CW5Y: código de indicação da SHEIN, pesquisado no app; não é cupom, não dá desconto | Atualização de 04/11 do briefing; `CONTRATOS-DE-CONTEUDO.md`, seção 2, sem o "Brasil" (regra de 02/11) | universal |
+| 4CW5Y: código de indicação da SHEIN; não é cupom; dá desconto, sim, numa seleção que abre pelo link do botão ou pela pesquisa do código no app ou no site (quanto e em quais peças, a SHEIN decide) | Decisão do Bruno de 07/11/2026 (#716 a #720); `content/reviews/shein-e-confiavel.json` e `couponsData.ts`; sem o "Brasil" (regra de 02/11) | universal |
 | Campanhas da loja em `/cupons/shein`; prazo, frete, o que conferir antes de pagar (e o imposto de importação, só PT) em `shein-vale-a-pena`; devolução e reputação em `shein-e-confiavel` | links internos do briefing; capítulos dos dois artigos nos 10 idiomas | universal (os caminhos trocam de idioma no Job 4) |
 
 **Anotações para o Job 3 e o Job 4:**

@@ -46,8 +46,8 @@ Brasil é produto não recebido. Na Trustpilot, pacote perdido e reembolso demor
 - Fora do PT, nenhum link da SHEIN Brasil: nem `br.shein.com`, nem o link de oferta do cupom em PT.
 - O `cta.url` fora do PT é o link neutro da página da loja no idioma: `getLocalizedCoupon('shein', locale).offerUrl`
   (`src/lib/couponTranslations.ts`), hoje `https://onelink.shein.com/55/6463grgxf6ru`.
-- CECILIA010 é código de recompensa da YesStyle, não aparece aqui. 4CW5Y é código de indicação da SHEIN Brasil, pesquisado
-  no app, nunca cupom. Nenhum dos dois entra no corpo do artigo (pergunta 3).
+- CECILIA010 é código de recompensa da YesStyle, não aparece aqui. 4CW5Y é código de indicação da SHEIN, nunca cupom de checkout;
+  pelo link ou pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos (dá desconto, sim; sem percentual nem valor; 07/11/2026, #716 a #720). Nenhum dos dois entra no corpo do artigo (pergunta 3).
 - Sem análise de termos de programa de afiliados. Ninguém do site comprou com a SHEIN para o artigo.
 
 ---

@@ -103,7 +103,7 @@ Sem a tabela, o texto não traz número de preço. A regra de imposto sai com a 
 - Nome igual ao CPF (`Shipping-Info-a-280`).
 - Frete e prazo na página do pedido.
 - Imposto no resumo do pedido, para compra acima de US$ 50.
-- Código 4CW5Y: código de indicação da SHEIN Brasil. Pesquisa-se no aplicativo; não dá desconto, não é cupom e não soma. Sem "cupom de primeira compra" como vantagem.
+- Código 4CW5Y (atualizado em 07/11/2026, #716 a #720): código de indicação da SHEIN, não é cupom, não soma e não se cola no checkout. Dá desconto, sim: pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, a SHEIN decide; sem percentual nem valor. Sem "cupom de primeira compra" como vantagem.
 - Guardar a confirmação do pedido.
 
 ## Perguntas frequentes (3 a 5)
@@ -111,7 +111,7 @@ Sem a tabela, o texto não traz número de preço. A regra de imposto sai com a 
 1. Vestido de festa na SHEIN chega a tempo para o Natal? (resposta: a data do pedido e o prazo da página, sem promessa)
 2. Como sei se o vestido é longo ou midi? (pelo comprimento declarado na ficha; a regra da tabela)
 3. A SHEIN cobra imposto no vestido? (até US$ 50, não; acima, a regra da tabela de imposto)
-4. Posso usar o 4CW5Y para ter desconto? (não: é código de indicação, não dá desconto)
+4. Posso usar o 4CW5Y para ter desconto? (sim, mas não é cupom: é código de indicação; pelo link do botão, ou pesquisando o código no app ou no site da SHEIN, abre uma seleção com promoções e descontos, e a SHEIN decide quanto e em quais peças; sem percentual, sem promessa de desconto em toda compra)
 
 ## Família e idiomas (proposta)
 
@@ -150,6 +150,7 @@ Fatos: `vestido-de-festa-shein-fatos-3010.md`, ao lado.
 
 1. Links no formato que os artigos no ar de cada loja usam; nas tabelas, o nome do produto na 1ª célula vira o link. Tabela com o preço do cartão, datado; cupom numa frase (vale em todas as formas de pagamento, Bruno 30/10). Ninguém do site usou. Pendentes do briefing: conferir no Chrome antes de publicar; sem confirmação, não afirma. Ignorar cadastros de variante única com preço baixo (ex.: `-pp`). Reler preços no dia.
 2. Família de 10 idiomas com escopo enxuto fora do PT (sem link da SHEIN Brasil; link neutro da página da loja). Noiva fora; plus size em uma frase; "Envio Nacional" sem prometer prazo. Tabela de preços só com preço lido (a página de produto abre CAPTCHA: o Bruno abre e o Claude lê, senão o artigo sai sem tabela de preço). Nada de pedido ou carrinho para ver prazo. Linka [[tamanho-shein-brasil]] e [[shein-vale-a-pena]]. 4CW5Y é código de indicação, não dá desconto. Data da alíquota zero: 12/05/2026 (Receita).
+   - Superado em 07/11/2026 (#716 a #720): o 4CW5Y é código de indicação e dá desconto, sim, numa seleção da SHEIN (ver "Antes de pagar" e a pergunta 4 acima); o resto do item vale.
 
 ## Publicação (30/10/2026)
 - PR #379 (commit `2614ef9d`), junto com os vaults #376 e #377: família `shein-vestido-festa`, ids 761 (pt) a 770, nos 10 idiomas. No ar em 31/10/2026, release `2614ef9d`.

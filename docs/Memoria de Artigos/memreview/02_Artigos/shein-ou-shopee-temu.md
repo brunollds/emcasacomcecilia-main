@@ -193,7 +193,7 @@ esse bloco não é fonte. Os números das quatro foram lidos no mesmo dia; recon
 | "A SHEIN e a Temu são a mesma coisa?" | SHEIN: "Sobre nós" (acima). Temu: não lida | — | [x] Parcial: a SHEIN diz o que é; a Temu não foi lida, então a resposta é "são empresas diferentes; o que cada uma diz de si está na tabela" |
 | **Qual é mais barato / mais rápido / melhor para roupa** | Nenhuma fonte oficial responde, e o site não mediu preço nem prazo | — | [ ] Não: a resposta é "o artigo não mede preço"; para prazo, só as faixas publicadas |
 | Qualidade, tamanho, caimento, "a SHEIN é melhor em moda", "a Temu é para casa" | Opinião de Reddit e blogs | — | [ ] Não: nenhuma afirmação de qualidade ou de especialidade sem fonte oficial |
-| 4CW5Y: código de indicação da Cecília, pesquisado no app | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) | — | [x] Sim, sem prometer benefício. Nenhum código de campanha da página da loja |
+| 4CW5Y: código de indicação da Cecília; pelo link, ou pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos; dá desconto, sim (quanto e em quais peças, a SHEIN decide); não vai no campo de cupom (atualizado em 07/11/2026, #716 a #720) | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) e `content/reviews/shein-ou-shopee-temu.json` | — | [x] Sim, dizendo que dá desconto e nunca citando percentual nem valor. Nenhum código de campanha da página da loja. *Superado em 07/11/2026:* a linha de 12/10 dizia "pesquisado no app" e "sem prometer benefício" |
 
 > **13/10/2026:** o AliExpress (devolução, frete, prazo e imposto) e a frase da Temu sobre o imposto no reembolso
 > foram lidos; as linhas "não lido" acima ficam como histórico. Ver "Revisão de 13/10/2026" no fim.
@@ -325,7 +325,7 @@ conclusão e o número. Sem "melhor" e sem "pior" como veredito.
 7. Shein, Shopee e Temu pagam imposto? (as que publicam a regra: sim, para o que vem do exterior)
 8. A Shein e a Temu são a mesma coisa? (não são a mesma empresa, pelo que cada uma publica; o que cada uma diz de si)
 9. Qual a nota de cada loja no Reclame Aqui? (os números da tabela, com a janela e as duas ressalvas; sem "melhor" como veredito)
-10. O 4CW5Y é cupom? (não; código de indicação da SHEIN)
+10. O 4CW5Y é cupom? (não é cupom de checkout, é o código de indicação da Cecília na SHEIN, mas dá desconto, sim, numa seleção de produtos e promoções; pelo link, ou pesquisando o código no app ou no site; quanto e em quais peças, a SHEIN decide; atualizado em 07/11/2026, #716 a #720)
 
 Perguntas que **não** entram aqui (vão ao artigo de credibilidade): "a Shein é confiável?", "de que país é?".
 "É mais seguro que a Temu?" tem uma resposta curta aqui, sem veredito, com link para lá.
@@ -447,3 +447,6 @@ quatro lojas. A Cecília é afiliada das quatro; a Shopee só no Brasil.
   1200×800 (`aspectRatio` 1.5), na Montserrat do site.
 - As imagens anteriores (`…-criterios.webp` e `shein-shopee-temu-prazo-devolucao.webp`) ficam no repositório e no
   CDN, sem referência.
+
+## Atualização de 07/11/2026: o 4CW5Y dá desconto (#716 a #720)
+Decisão do Bruno de 07/11/2026, já no ar. O 4CW5Y segue sendo código de indicação da SHEIN, não é cupom de checkout e não se cola no checkout. Pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma página da SHEIN com seleção de produtos, promoções e descontos. O texto diz que o código dá desconto; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem "pode não ter desconto", sem "só no app". Isto supera os trechos de 12/10/2026 que diziam "sem prometer benefício" e "pesquisado no app" (matriz e FAQ, já reescritos acima). As linhas "sem 4CW5Y na description e na meta" das releituras do Job 4 são registro histórico das traduções e ficam como estão. Fonte viva: `content/reviews/shein-ou-shopee-temu.json`.

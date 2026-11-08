@@ -54,10 +54,13 @@ seção 3, item 9).
 
 ## Regras específicas
 
-- `4CW5Y` é **código de indicação** da SHEIN, pesquisado no aplicativo: não dá desconto,
-  não é cupom e não soma.
-  Aparece como `4CW5Y` nas 10 versões, sem prometer percentual nem benefício que o
-  `couponsData.ts` não traga. O nome do código em cada idioma é o da página da loja
+- `4CW5Y` é **código de indicação** da SHEIN, não é cupom de checkout e não soma. **Dá
+  desconto, sim** (atualizado em 07/11/2026, #716 a #720; antes: "não dá desconto"): pelo
+  link do botão, ou copiando o código e pesquisando no app ou no site, abre uma página da
+  SHEIN com seleção de produtos, promoções e descontos. Quanto e em quais peças, quem
+  decide é a SHEIN.
+  Aparece como `4CW5Y` nas 10 versões, sem percentual nem valor, sem prometer desconto em
+  toda compra e sem "só no app". O nome do código em cada idioma é o da página da loja
   (`referral.label` em `couponTranslations.ts`).
 - A SHEIN é plataforma global: nenhum texto diz "SHEIN Brasil", e fora do português o
   código e as campanhas não levam aviso de país, porque o link e o código levam o

@@ -38,6 +38,7 @@ Leia o PT inteiro primeiro (`contentSections` e a resposta rápida). Depois, cad
 - **Beleza (YesStyle):** sem efeito no corpo e sem "eu levaria/usaria".
 - **CECILIA010 é Reward Code**, nunca cupom, em idioma nenhum (nada de "coupon", "cupón", "Gutschein", "クーポン", "쿠폰", "优惠券"… para ele), e nunca "com outros cupons". Os cupons da própria YesStyle são cupons.
 - **4CW5Y** é código de indicação da SHEIN Brasil, que se pesquisa no aplicativo; fora do PT, o texto avisa que é da SHEIN Brasil. Nenhuma tradução leva link da SHEIN Brasil (`br.shein.com` ou os links de oferta do PT).
+  *Superado em 07/11/2026 (só no trecho do 4CW5Y):* o código também se pesquisa no site ou se abre pelo link do botão, e dá desconto numa seleção da SHEIN (quanto e em quais peças, a SHEIN decide; #716 a #720). Este pedido segue como registro; a regra viva está no `README.md`.
 - **Concorrentes** (Shopee, Temu, Stylevana, Olive Young, StyleKorean, HostGator, Mailchimp, Brevo): sem link, cupom ou foto.
 - **Nada de fato novo.** O conserto usa só o que o PT e a própria tradução já dizem.
 - **Quadro e cartão** sem preço, sem moeda, sem estoque e sem promoção com prazo.

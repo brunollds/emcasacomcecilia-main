@@ -99,7 +99,11 @@ autocompletar e dos resultados de busca, não do GSC.
   imposto), o quadro do Reclame Aqui e a lista de conferência.
 - **Como o benefício/código chega ao leitor?** Seção "Parceria e código de indicação" no fim, link para
   `/cupons/shein` (ou `/<locale>/coupons/shein`) e CTA comissionado. O 4CW5Y é código de indicação, nunca
-  "cupom"; fora do português o texto diz que é da SHEIN Brasil.
+  "cupom" de checkout, e dá desconto numa seleção de produtos da SHEIN (pelo link ou pesquisando o código no
+  app ou no site; quanto e em quais peças, a SHEIN decide; atualizado em 07/11/2026, #716 a #720); fora do
+  português o texto diz que é da SHEIN Brasil.
+  *Superado em 07/11/2026:* a redação de 12/10 ("sem prometer benefício") não vale mais; ver a seção
+  "Atualização de 07/11/2026" no fim.
 - **Atualiza artigo existente ou cria novo?** Família nova, endereço sem o ano.
 - **URL mais próxima semanticamente (risco de canibalização):** `/reviews/black-friday-shein` (o que fala de
   prazo, imposto e devolução) e `/cupons/shein`.
@@ -193,7 +197,7 @@ concorrente ("é mais seguro que a Temu?") não tem resposta aqui: vai para o co
 | Quem recebe o pedido atrasado tem 90 dias da data do pagamento para falar com o atendimento; 60 dias da data de entrega para "entregue e não recebi" ou itens trocados | Fato oficial | Mesma página, "Questões sobre entrega" | Itens 1 e 2 | [x] Sim |
 | Devolução em 20 dias; primeira devolução de cada pedido grátis, depois R$ 45; itens "não devolvíveis" só em 7 dias | Fato oficial | `br.shein.com/Return-Policy-a-281.html` (16/09/2026) | Itens 1, 2 e 4 | [x] Sim, em uma frase; o detalhe fica no Black Friday |
 | Imposto: ICMS de 17% a 20% conforme o estado e imposto de importação zero até US$ 50 (desde 13/05/2026); Envio Nacional não paga imposto de importação | Fato oficial | `br.shein.com/tax-policy-a-3476.html` (23/05/2026); Lei 15.502/2026 | Tabela da política | [x] Sim, em uma frase; "veja a tabela no guia de Black Friday" (não repetir a tabela) |
-| O 4CW5Y é código de indicação da Cecília, pesquisado no app; condições na conta | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) | — | [x] Sim, sem prometer benefício. Nenhum código de campanha da página da loja entra |
+| O 4CW5Y é código de indicação da Cecília; pelo link do botão, ou pesquisado no app ou no site, abre uma página da SHEIN com seleção de produtos, promoções e descontos; dá desconto, sim (quanto e em quais peças, a SHEIN decide); não vai no checkout (atualizado em 07/11/2026, #716 a #720) | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) e `content/reviews/shein-e-confiavel.json` | — | [x] Sim, dizendo que dá desconto e nunca citando percentual nem valor. Nenhum código de campanha da página da loja entra. *Superado em 07/11/2026:* a linha de 12/10 dizia "pesquisado no app; condições na conta" e "sem prometer benefício". |
 | **"A SHEIN é chinesa"** | Fato histórico | Nenhuma página oficial lida diz o país de origem: a "Sobre Nós" dá 2012 e nenhuma cidade; o Reclame Aqui traz o texto "2008" da empresa | — | [x] **Sim, atribuído fato a fato (Job 2, 12/10/2026; o Bruno aceitou o fundador no lugar do porta-voz em 12/10).** (1) BBC, 25/02/2026, reproduzida em `capitalfm.africa/sheins-elusive-boss-hails-chinese-roots-in-rare-public-appearance/`: Xu Yangtian, fundador, falou na terça-feira (24/02) num evento do governo de Guangdong; a SHEIN vai "remain firmly rooted in Guangdong"; a sede foi para Singapura. Não diz onde a empresa nasceu. (2) The Straits Times, Joyce ZK Lim, 26/02/2026: "Guangdong is where Shein's roots are, and is where our striving began"; a sede foi para Singapura (o jornal diz 2021). URL não registrada: o site bloqueia a busca automática. (3) Financial Times, William Langley, 25/02/2026, republicado pelo Milenio (`milenio.com/negocios/financial-times/fundador-shein-sale-elogiar-raices-chinas`): "La compañía se fundó en la ciudad de Nanjing, en el este de China"; sede em Singapura "desde 2022". O texto: "nasceu na China, segundo o Financial Times"; a fala sobre Guangdong segundo a BBC e o The Straits Times; a sede em Singapura nas três, sem ano (as fontes divergem). **Registro anterior:** Decisão do Bruno (12/10): duas fontes de imprensa com porta-voz bastam (o mesmo precedente do calendário da Black Friday). Com as duas registradas, a resposta é **uma frase, atribuída** ("segundo [veículo] e [veículo], citando porta-voz da empresa…"); a linha passa a "Sim" só então. Até lá, o texto diz o que a SHEIN publica (operadoras em Singapura e no Brasil) |
 | CNPJ e situação cadastral da In Glow Brasil | Registro público | Receita Federal / BrasilAPI (como no `insider-store-e-confiavel`) | — | [ ] **Não até consultar**: o número do CNPJ não aparece nas páginas lidas (pendência, seção 10) |
 | "Por que é barata" (produção sob demanda, lotes pequenos) | Declaração da marca | `sheingroup.com/our-group` ("On-Demand Fashion") | Texto | [x] Sim, atribuído à SHEIN, uma frase ("a SHEIN diz…"); não afirmamos que explica o preço |
@@ -306,7 +310,7 @@ o texto leva a conclusão, o número e a fonte. Cada seção abaixo cabe em 2 a 
 
 1. **Resposta rápida:** é uma loja legítima, com empresa identificada em cada país e reputação "Boa" no Reclame
    Aqui (nota 7,6/10, janela de 6 meses até 30/09/2026); o problema mais citado nas reclamações é produto não
-   recebido; o prazo e a taxa estão em duas linhas; o 4CW5Y é código de indicação.
+   recebido; o prazo e a taxa estão em duas linhas; o 4CW5Y é código de indicação e dá desconto numa seleção da SHEIN.
 2. **Quem opera a SHEIN:** a tabela por país (operadora, fonte), a operadora do site global em Singapura e a
    frase de que a "Sobre Nós" da SHEIN não diz o país de origem. *(O "chinesa ou não" entra em uma frase
    atribuída a duas fontes de imprensa com porta-voz, registradas na matriz pelo redator; antes disso, não.)*
@@ -333,7 +337,7 @@ o texto leva a conclusão, o número e a fonte. Cada seção abaixo cabe em 2 a 
 7. O que fazer se o pedido da SHEIN não chegar? (90 dias; "entregue e não recebi": 60 dias)
 8. Como funciona a devolução? (20 dias; a primeira grátis)
 9. Como saber se o site ou o app da SHEIN é o oficial? (`br.shein.com`; app da loja oficial; sem link nosso para a SHEIN Brasil nas traduções)
-10. O 4CW5Y é cupom? (não; código de indicação, pesquisado no app)
+10. O 4CW5Y é cupom? (não é cupom de checkout, é o código de indicação da Cecília, mas dá desconto, sim: pelo link, ou pesquisando o código no app ou no site da SHEIN, abre uma seleção de produtos com promoções e descontos; quanto e em quais peças, a SHEIN decide; atualizado em 07/11/2026, #716 a #720)
 
 Perguntas que **não** entram aqui (vão ao comparativo): "é mais seguro que a Temu?", "SHEIN e Temu são a mesma
 coisa?". "Por que é barata?" fica numa frase atribuída à SHEIN no corpo, não no FAQ.
@@ -436,3 +440,9 @@ Pedido do Bruno: uma parte curta sobre o que a SHEIN vende e o que se encontra n
 
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
 Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. Cinco trocas no PT, sem mudar fato: "A SHEIN aceita Pix…", "A política de privacidade da SHEIN diz…", "A página de envio da SHEIN estima…" e o alt e a legenda da foto do 4CW5Y ("Barra de busca da SHEIN", "na busca do site da SHEIN"). Pix, cartão brasileiro, boleto e o frete em reais seguem no PT. As 9 traduções já estavam sem o termo desde o #493 e não mudaram. PR #566.
+
+
+## Atualização de 07/11/2026: o 4CW5Y dá desconto (#716 a #720)
+Decisão do Bruno de 07/11/2026, já no ar. O 4CW5Y segue sendo código de indicação da SHEIN, não é cupom de checkout, não soma com nada e não se cola no checkout. Pelo link do botão, ou copiando o código e pesquisando no app ou no site da SHEIN, abre uma página da SHEIN com uma seleção de produtos, promoções e descontos. O texto diz com clareza que o código dá desconto; quanto e em quais peças, quem decide é a SHEIN. Sem percentual nem valor, sem promessa de desconto em toda compra, sem "pode não ter desconto", sem "só no app". Fontes vivas: `content/reviews/shein-e-confiavel.json`, `src/lib/couponsData.ts` (SHEIN, `referral`), `src/lib/couponTranslations.ts`, `articleCopy.ts` e `sidebarCopy.ts`.
+
+Isto supera os trechos de 12/10/2026 deste documento que diziam "sem prometer benefício" e "pesquisado no app; condições na conta" (matriz de claims, esqueleto e FAQ, já reescritos acima), e as releituras do Job 4 sobre o 4CW5Y (registro histórico, mantido).

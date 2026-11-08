@@ -132,7 +132,7 @@ icms, vai acabar), "shein taxa das blusinhas", "shein frete grátis" (nacional, 
 | Um cupom da plataforma por pedido, mais o da loja do fornecedor local (no máximo 2 tipos); devolução parcial: cupom conta como usado; ajuste do reembolso se o pedido cai abaixo do mínimo do cupom; cupom vencido fica indisponível | Fato oficial | `br.shein.com/Coupon-Policy-a-1302.html` | Itens 5 e 6 | 2026-10-11 | [x] Sim |
 | 100 pontos = US$ 1; até 30% do valor dos produtos (sem frete e impostos); não valem em itens de vendedores locais | Fato oficial | `br.shein.com/bonus-point-program-a-371.html` (21/09/2026) | "Sobre o uso de pontos SHEIN" | 2026-10-11 | [x] Sim |
 | Pix, cartão brasileiro em até 6 parcelas, boleto (pagar em até 3 dias; a SHEIN sugere cartão ou PayPal para evitar falta de estoque), PayPal, Pagaleve | Fato oficial | `br.shein.com/Payment-Method-a-278.html` (05/06/2026) | Lista e itens 2 e 3 | 2026-10-11 | [x] Sim |
-| 4CW5Y: código de indicação da Cecília, pesquisado no app; condições na conta | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) | — | 2026-10-11 | [x] Sim, sem prometer benefício |
+| 4CW5Y: código de indicação da Cecília; pelo link, ou pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos; dá desconto, sim (quanto e em quais peças, a SHEIN decide); não vai no checkout (atualizado em 07/11/2026, #716 a #720) | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) e `content/reviews/black-friday-shein.json` | — | 2026-10-11 | [x] Sim, dizendo que dá desconto e nunca citando percentual nem valor. *Superado em 07/11/2026:* a linha de 11/10 dizia "pesquisado no app; condições na conta" e "sem prometer benefício" |
 | Black Friday 2026 em 27/11 | Calendário | Dia seguinte ao Thanksgiving (26/11/2026) | — | 2026-10-11 | [x] Sim |
 | Campanha da SHEIN de 2026 | — | Ainda não anunciada (busca de 11/10/2026) | — | 2026-10-11 | [ ] Não: estimativa pelo histórico, dita como estimativa |
 | Campanhas vigentes e códigos de busca da SHEIN (produtos selecionados, novos usuários, cupons da Black Friday) | — | `couponsData.ts`, página da loja | — | — | [ ] Não: regra do cluster (07/10), ficam na página da loja |
@@ -143,7 +143,8 @@ icms, vai acabar), "shein taxa das blusinhas", "shein frete grátis" (nacional, 
 ## 7. Estratégia de Links Contextuais
 - **Afiliado (`affiliate`):** `shein`
 - **Código (`coupon`):** `4CW5Y`, código de indicação, com o termo de cada idioma (`REFERRAL_TERM`
-  do `test:review-i18n`, o mesmo da página da loja). Nunca "cupom".
+  do `test:review-i18n`, o mesmo da página da loja). Nunca "cupom" de checkout: o código dá desconto numa
+  seleção de produtos da SHEIN, sem percentual nem valor (atualizado em 07/11/2026, #716 a #720).
 - **Link interno:** a página da loja no idioma (`/cupons/shein`, `/<locale>/coupons/shein`).
 - **Artigo relacionado:** o guia de Black Friday da YesStyle, a única família de Black Friday nos 10
   idiomas.
@@ -165,7 +166,7 @@ icms, vai acabar), "shein taxa das blusinhas", "shein frete grátis" (nacional, 
 
 ## 9. Esqueleto previsto e atualizações
 
-1. **Resposta rápida:** 2026 sem anúncio, o histórico, o imposto zero até US$ 50 e o código de indicação.
+1. **Resposta rápida:** 2026 sem anúncio, o histórico, o imposto zero até US$ 50 e o código de indicação (que dá desconto numa seleção da SHEIN, sem percentual).
 2. **Quando começa:** tabela de 2023 a 2025 e a estimativa para 2026.
 3. **"Até 90%" não é o carrinho inteiro:** como comparar preço entre as fases.
 4. **O imposto na Black Friday:** tabela do imposto, o subsídio do ICMS e o Envio Nacional.
@@ -254,3 +255,7 @@ Decisão do Bruno em 04/11/2026: a alíquota zero vale desde 12/05/2026. A pági
 
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
 Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. Sete trocas no PT, sem mudar fato: a legenda da tabela das fases ("anunciados pela SHEIN"), o alt e a legenda da foto da página inicial ("do site da SHEIN", "A página inicial da SHEIN"), a legenda da tabela de impostos ("Pela página de impostos da SHEIN"), o alt e a legenda das telas do 4CW5Y ("do site da SHEIN", "do aplicativo da SHEIN") e a nota editorial ("Regras das páginas oficiais da SHEIN e da Lei 15.502/2026"). O ICMS por estado, os reais e a lei seguem no PT. As 9 traduções já estavam sem o termo desde o #493 e não mudaram. PR #566, com os outros 5 artigos da SHEIN.
+
+
+## Atualização de 07/11/2026: o 4CW5Y dá desconto (#716 a #720)
+Decisão do Bruno de 07/11/2026, já no ar. O 4CW5Y segue sendo código de indicação da SHEIN, não é cupom de checkout e não se cola no checkout. Pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma página da SHEIN com seleção de produtos, promoções e descontos. O texto diz que o código dá desconto; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem promessa de desconto em toda compra, sem "só no app". No artigo vivo, a resposta rápida, a seção "Cupons, pontos e o código 4CW5Y" e a pergunta "O 4CW5Y é cupom de desconto?" do FAQ já dizem isso (`content/reviews/black-friday-shein.json`). Isto supera a linha de 11/10 da matriz ("sem prometer benefício"); o registro das revisões das traduções (a pergunta do FAQ "o 4CW5Y é cupom/desconto?" como dúvida de leitura nativa) fica como histórico.

@@ -19,6 +19,7 @@ Decisão do Bruno (02/11/2026): as 9 traduções das 32 famílias são **traduzi
 - **Sai tudo o que fala do Brasil:** frete e prazo para o Brasil, CEP, Correios; Receita Federal, ICMS, Remessa Conforme, imposto de importação brasileiro; Pix, boleto, R$, "loja nacional", "K-Beauty no Brasil". O capítulo só sobre o Brasil sai inteiro; a frase mista perde só a parte do Brasil. Item de FAQ, de lista ou de "antes de pagar" sobre o Brasil sai também.
 - **Idioma do site da loja:** a tradução não manda escolher o português; diz só que dá para trocar o idioma no topo do site, sem citar qual.
 - **SHEIN sem país (decisão do Bruno, 02/11/2026, #493):** fora do PT, nada de "SHEIN Brasil": o 4CW5Y é o código de indicação da SHEIN, de pesquisar no app, sem país. SHEIN, YesStyle e Hostinger são lojas internacionais e levam o visitante à loja da região dele; link de um país (inclusive `br.shein.com`) pode ficar. O texto de campanha ou de preço da loja brasileira pode ficar. O link para o guia de entrega da YesStyle fica, porque em cada idioma leva ao guia daquele idioma, mas o texto não diz "no Brasil e em Portugal".
+  *Superado em 07/11/2026 (só no trecho do 4CW5Y):* além de pesquisar no app, o código também se pesquisa no site ou se abre pelo link do botão, e dá desconto numa seleção da SHEIN; ver as Travas. O resto da decisão de 02/11 segue valendo.
 - **Título:** se o `title` ou o `seoTitle` promete o Brasil ("Brazil", imposto/tax), muda nos 9 idiomas, e o PR diz qual. Foi o caso da Black Friday da SHEIN.
 - **Outros idiomas:** o alemão usa "Sie" (como 27 dos 31 artigos alemães do site), salvo fala da autora consigo mesma que venha do PT; o nome da Cecília fica em letras latinas ("Cecília") em todos os idiomas, inclusive japonês, coreano e chinês (decisão do Bruno, 02/11/2026); onde a tradução usa セシリア, 세실리아 ou 西西莉亚/西西莉亞, volta para "Cecília". O sobrenome não entra nos alts.
 
@@ -39,7 +40,7 @@ Preço em outra moeda, frete por país e imposto local (IOSS, por exemplo) **fic
 
 ## Travas
 - CECILIA010 é Reward Code em todo idioma, nunca cupom nem "com outros cupons"; os cupons da YesStyle são cupons.
-- 4CW5Y é código de indicação da SHEIN, que se pesquisa no aplicativo, nunca cupom; fora do PT, sem "SHEIN Brasil" (o `test:review-i18n` barra nos rótulos).
+- 4CW5Y é código de indicação da SHEIN, nunca cupom de checkout, e dá desconto, sim: pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma página da SHEIN com seleção de produtos, promoções e descontos; quanto e em quais peças, a SHEIN decide (sem percentual nem valor, sem "só no app", sem "pode não ter desconto"; atualizado em 07/11/2026, #716 a #720). Fora do PT, sem "SHEIN Brasil" (o `test:review-i18n` barra nos rótulos).
 - Concorrentes sem link, cupom ou foto.
 - Beleza (YesStyle) sem efeito no corpo e sem "eu levaria/usaria"; o veredito segue a forma do PT.
 - Primeira pessoa só onde o PT tem uso real (o primeiro contato da skincare, os testes de código); nunca inventada ("Ich sage mir", a frase japonesa da skincare saem).
