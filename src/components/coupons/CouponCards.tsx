@@ -4,6 +4,7 @@ import { Check, ChevronRight, Copy, ExternalLink, Scissors } from 'lucide-react'
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { couponCardDecorAt } from '@/components/ui/cardDecor';
 import type { Coupon } from '@/lib/couponsData';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { CopyCodeButton } from './CouponActions';
 import { BrandWatermark, DiscountFigure, asSentence, parseDiscount } from './CouponBlocks';
 
@@ -98,7 +99,7 @@ export function OtherCouponCard({ coupon, index }: { coupon: Coupon; index: numb
         aria-label={couponCardName(coupon)}
         className={`relative isolate flex flex-col overflow-hidden rounded-xl border-2 border-marinho bg-white ${SHELF_CARD}`}
       >
-        <BrandWatermark src={coupon.brandWatermark} align="center" className="-left-[10%] top-1 h-24 w-[120%]" />
+        <BrandWatermark src={coupon.brandWatermark && resolveMediaUrl(coupon.brandWatermark)} align="center" className="-left-[10%] top-1 h-24 w-[120%]" />
         <Link
           href={`/cupons/${coupon.slug}`}
           className="flex flex-1 flex-col text-marinho focus-visible:outline-3 focus-visible:-outline-offset-6 focus-visible:outline-marinho"
@@ -279,7 +280,7 @@ export function HubCouponCard({
       className={`relative isolate flex flex-col overflow-hidden border-marinho bg-white ${v.article} ${className}`}
     >
       <BrandWatermark
-        src={coupon.brandWatermark}
+        src={coupon.brandWatermark && resolveMediaUrl(coupon.brandWatermark)}
         align={v.watermarkAlign}
         aboveTheFold={featured}
         className={v.watermark}

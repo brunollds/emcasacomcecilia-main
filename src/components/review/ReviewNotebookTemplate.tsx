@@ -10,6 +10,7 @@ import { getArticleStoreBanners, isStoreBannerLive, placeStoreBanners, type Stor
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import type { Locale } from '@/lib/i18n/locales';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
 import type { ShelfCardArticle } from '@/lib/reviewsShelf';
@@ -130,7 +131,7 @@ export function ReviewNotebookTemplate({
   const sameCodeStore = store?.offerMode === 'discount-code' && store.code === review.coupon ? store : undefined;
   const storeOffer =
     couponCopyLocale === 'pt' && sameCodeStore && !sameCodeStore.tiers?.length
-      ? { discount: sameCodeStore.discount, note: asSentence(sameCodeStore.shortDescription), watermark: sameCodeStore.brandWatermark }
+      ? { discount: sameCodeStore.discount, note: asSentence(sameCodeStore.shortDescription), watermark: sameCodeStore.brandWatermark && resolveMediaUrl(sameCodeStore.brandWatermark) }
       : undefined;
 
   // O link do recorte: 'Ir para a loja' com código; sem código, o rótulo que a página da loja já usa, no
