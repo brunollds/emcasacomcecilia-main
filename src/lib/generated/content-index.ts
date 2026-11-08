@@ -119782,8 +119782,8 @@ export const reviewsData: unknown[] = [
           "Nos últimos 6 meses, a reputação é Boa. Nos últimos 12 meses, ela ainda está Ruim, porque essa aba inclui os seis meses anteriores, de novembro a abril."
         ],
         "image": {
-          "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-6-e-12-meses.webp",
-          "alt": "Quadro com os números do perfil Bagaggio - Loja Virtual no Reclame Aqui em 22/10/2026: nos últimos 6 meses, reputação Boa, nota 7,7, 1.137 reclamações e 90,4% resolvidas; nos últimos 12 meses, reputação Ruim, nota 5,8, 5.757 reclamações e 72,8% resolvidas",
+          "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-6-e-12-meses-v2.webp",
+          "alt": "Quadro com os números do perfil Bagaggio - Loja Virtual no Reclame Aqui: nos 6 meses até outubro, reputação Boa, nota 7,9, 1.112 reclamações, 100% respondidas, 92,5% resolvidas e 61,1% voltariam a fazer negócio; nos 12 meses até outubro, reputação Ruim, nota 5,8, 5.533 reclamações, 91,1% respondidas, 72,2% resolvidas e 33,4% voltariam",
           "caption": "Quadro nosso com as abas de 6 e de 12 meses do perfil Bagaggio - Loja Virtual no Reclame Aqui.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
@@ -120200,7 +120200,7 @@ export const reviewsData: unknown[] = [
           "O que ajuda a decidir: ter um preço de referência, que é a tabela de outubro deste guia, e conferir o total com o cupom e o Pix na sacola antes de pagar."
         ],
         "image": {
-          "src": "/images/reviews/bagaggio/bf-linha-do-tempo.webp",
+          "src": "/images/reviews/bagaggio/bf-linha-do-tempo-v2.webp",
           "alt": "Linha do tempo da Black Friday Bagaggio 2026, com a Black Friday em 27/11 e a Cyber Monday em 30/11",
           "caption": "As datas da Black Friday Bagaggio 2026: Black Friday e Cyber Monday.",
           "objectFit": "contain",
