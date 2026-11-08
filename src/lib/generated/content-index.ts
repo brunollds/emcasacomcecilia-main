@@ -45799,7 +45799,8 @@ export const reviewsData: unknown[] = [
           },
           {
             "label": "Máquinas da linha clássica na loja oficial Dolce Gusto",
-            "href": "https://www.nescafe-dolcegusto.com.br/maquinas-de-cafe"
+            "href": "https://www.nescafe-dolcegusto.com.br/maquinas-de-cafe",
+            "sponsored": true
           }
         ]
       },
