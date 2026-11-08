@@ -79,11 +79,11 @@ function getJsonLd(locale: TranslatedLocale) {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
     name: text.title,
-    itemListElement: entries.map(({ coupon, href }, index) => ({
+    itemListElement: entries.map((entry, index) => ({
       '@type': 'ListItem',
       position: index + 1,
-      name: getCouponHubItemName(coupon, locale),
-      url: absoluteUrl(href),
+      name: getCouponHubItemName(entry, locale),
+      url: absoluteUrl(entry.href),
     })),
   };
 
@@ -159,12 +159,13 @@ export default async function LocalizedCouponsHub({ params }: CouponsHubProps) {
           <section aria-labelledby="destaques" className="flex flex-col gap-3">
             <ShelfHeading id="destaques">{text.featuredTitle}</ShelfHeading>
             <div className={`grid gap-3 md:gap-4 ${featured.length > 1 ? 'md:grid-cols-[3fr_2fr]' : ''}`}>
-              {featured.map(({ coupon, href }, index) => (
+              {featured.map(({ coupon, href, upTo }, index) => (
                 <HubCouponCard
                   key={coupon.slug}
                   coupon={coupon}
                   href={href}
                   labels={labels}
+                  upTo={upTo}
                   variant={index === 0 ? 'lead' : 'featured'}
                   stampOrder={index}
                 />

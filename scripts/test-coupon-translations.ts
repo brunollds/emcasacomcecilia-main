@@ -12,7 +12,7 @@ import {
 } from '../src/lib/couponTranslations';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
 import { getCouponStorePath, getTranslatedCouponSlugs } from '../src/lib/couponTranslations';
-import { getCouponHubAlternates, getCouponHubEntries } from '../src/lib/couponHub';
+import { getCouponCardLabels, getCouponHubAlternates, getCouponHubEntries, getCouponHubItemName } from '../src/lib/couponHub';
 import { COUPON_HUB_COPY } from '../src/components/coupons/couponHubCopy';
 import { getYesStylePage } from '../src/components/coupons/yesstyleCopy';
 import { getYesStyleLocaleConfig } from '../src/lib/i18n/clusters/yesstyle';
@@ -250,7 +250,16 @@ for (const locale of TRANSLATED_LOCALES) {
   const yesstyle = entries[0].coupon;
   assert.ok(yesstyle.offerMode === 'discount-code');
   assert.equal(yesstyle.code, getPrimaryRewardCode().code, `${locale}: código da YesStyle diferente da fonte`);
+  // O número é um teto (5% na 1ª compra, 2% nas seguintes): o texto do desconto não traz a palavra em PT, e o
+  // cartão escreve a do idioma acima do número.
   assert.equal(yesstyle.discount, `${getPrimaryRewardCode().newCustomerDiscount}% OFF`);
+  assert.equal(entries[0].upTo, true, `${locale}: o número da YesStyle no hub tem de levar o "até" do idioma`);
+  assert.ok(entries.slice(1).every((entry) => !entry.upTo), `${locale}: só a YesStyle leva "até" no número`);
+  const upToLabel = getCouponCardLabels(locale).upTo;
+  assert.equal(upToLabel, COUPON_HUB_COPY[locale].upTo);
+  assert.ok(upToLabel.trim() && !/^até$/i.test(upToLabel), `${locale}: "até" do hub vazio ou em português`);
+  assert.ok(!/(^|[^\p{L}])até([^\p{L}]|$)/iu.test(getCouponHubItemName(entries[0], locale)), `${locale}: nome do item da YesStyle com "até" em português`);
+  assert.ok(getCouponHubItemName(entries[0], locale).includes(upToLabel), `${locale}: nome do item da YesStyle sem o "até" do idioma`);
   assert.equal(yesstyle.offerTypeLabel, getYesStylePage(locale)?.rewardCodeLabel);
   assert.ok(!/coupon|cupom|cupón|bon|gutschein|buono|쿠폰|クーポン|優惠碼|优惠码/i.test(`${yesstyle.offerTypeLabel} ${yesstyle.shortDescription}`), `${locale}: texto curto da YesStyle chama o código de cupom`);
   assert.equal(yesstyle.featuredPitch, undefined, 'featuredPitch é só do PT');

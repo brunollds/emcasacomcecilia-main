@@ -22,6 +22,8 @@ export type CouponCardLabels = {
   noCode: string;
   viewOffer: string;
   chooseTier: string;
+  // A palavra que fica acima do número ("até 5% OFF").
+  upTo: string;
   tiersNote: (tiers: { discount: string; minPurchase: string }[]) => ReactNode;
 };
 
@@ -34,6 +36,7 @@ const PT_CARD_LABELS: CouponCardLabels = {
   noCode: 'Sem código: a oferta vem pelo link.',
   viewOffer: 'Ver oferta',
   chooseTier: 'Escolher minha faixa',
+  upTo: 'até',
   tiersNote: (tiers) => (
     <>
       {tiers.length} códigos, de <span className="whitespace-nowrap">{tiers[0].discount}</span> a{' '}
@@ -243,6 +246,7 @@ export function HubCouponCard({
   stampOrder,
   href = `/cupons/${coupon.slug}`,
   labels = PT_CARD_LABELS,
+  upTo = false,
 }: {
   coupon: Coupon;
   variant: HubCardVariant;
@@ -252,6 +256,8 @@ export function HubCouponCard({
   // Página da loja no idioma do hub; sem ele, a do PT.
   href?: string;
   labels?: CouponCardLabels;
+  // O desconto é "até" (a YesStyle: 5% na 1ª compra, 2% nas seguintes) e o texto dele não traz a palavra.
+  upTo?: boolean;
 }) {
   const v = HUB_CARDS[variant];
   const featured = variant === 'lead' || variant === 'featured';
@@ -284,7 +290,7 @@ export function HubCouponCard({
       >
         <div className={`border-b-2 border-marinho ${v.price}`}>
           <div className={stamp ? 'etiqueta-entra relative z-10' : 'relative z-10'} style={stamp}>
-            <DiscountFigure discount={coupon.discount} size={v.figure} />
+            <DiscountFigure discount={coupon.discount} size={v.figure} upTo={labels.upTo} forceUpTo={upTo} />
           </div>
         </div>
         <div className={`relative z-10 flex flex-col gap-1 ${v.body}`}>

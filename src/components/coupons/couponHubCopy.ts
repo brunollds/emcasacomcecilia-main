@@ -20,6 +20,8 @@ export type CouponHubCopy = CouponHubText & {
   metaDescription: string;
   // Linha curta do cartão da YesStyle, sob o código de recompensa.
   yesstyleNote: string;
+  // A palavra acima do número do cartão da YesStyle ("até 5% OFF"). Em todos os idiomas ela vem antes do número.
+  upTo: string;
 };
 
 export const PT_COUPON_HUB_TEXT: CouponHubText = {
@@ -104,6 +106,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     metaDescription:
       'Active discount codes from partner stores: the discount on each code, its rules and whether it stacks with store promotions.',
     yesstyleNote: 'Up to {percent}% off your first order, in the Reward Code field.',
+    upTo: 'up to',
   },
   es: {
     title: 'Cupones de Cecília',
@@ -138,6 +141,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     metaDescription:
       'Códigos de descuento activos de tiendas asociadas: el descuento de cada código, sus reglas y si se acumula con las promociones de la tienda.',
     yesstyleNote: 'Hasta un {percent}% de descuento en tu primer pedido, en el campo Reward Code.',
+    upTo: 'hasta',
   },
   fr: {
     title: 'Codes promo de Cecília',
@@ -172,6 +176,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     metaDescription:
       "Codes de réduction actifs de boutiques partenaires\u00a0: la remise de chaque code, ses règles et son éventuel cumul avec les promotions de la boutique.",
     yesstyleNote: "Jusqu'à {percent}\u00a0% de réduction sur votre première commande, dans le champ Reward Code.",
+    upTo: "jusqu'à",
   },
   de: {
     title: 'Gutscheine von Cecília',
@@ -206,6 +211,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     metaDescription:
       'Aktive Rabattcodes von Partner-Shops: der Rabatt jedes Codes, seine Regeln und ob er sich mit Aktionen des Shops kombinieren lässt.',
     yesstyleNote: 'Bis zu {percent}\u00a0% Rabatt auf Ihre erste Bestellung, im Feld Reward Code.',
+    upTo: 'bis zu',
   },
   it: {
     title: 'Coupon di Cecília',
@@ -240,6 +246,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     metaDescription:
       'Codici sconto attivi dei negozi partner: lo sconto di ogni codice, le sue regole e se è cumulabile con le promozioni del negozio.',
     yesstyleNote: 'Fino al {percent}% di sconto sul primo ordine, nel campo Reward Code.',
+    upTo: 'fino al',
   },
   ko: {
     title: 'Cecília의 쿠폰',
@@ -274,6 +281,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     metaDescription:
       '제휴 스토어의 사용 가능한 할인 코드: 코드별 할인, 이용 규정, 스토어 프로모션과의 중복 적용 여부.',
     yesstyleNote: '첫 주문 시 최대 {percent}% 할인, Reward Code 칸에 입력하세요.',
+    upTo: '최대',
   },
   ja: {
     title: 'Cecíliaのクーポン',
@@ -308,6 +316,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     metaDescription:
       '提携ストアの利用できる割引コード。コードごとの割引、ルール、ストアのセールとの併用可否をまとめています。',
     yesstyleNote: '初回注文が最大{percent}%オフ。Reward Code 欄に入力してください。',
+    upTo: '最大',
   },
   'zh-hant': {
     title: 'Cecília 的優惠碼',
@@ -342,6 +351,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     metaDescription:
       '合作商店目前有效的折扣碼：每個代碼的折扣、使用規則，以及能否與商店促銷活動合併使用。',
     yesstyleNote: '首筆訂單最高享 {percent}% 折扣，請填入 Reward Code 欄位。',
+    upTo: '最高',
   },
   'zh-hans': {
     title: 'Cecília 的优惠码',
@@ -376,5 +386,6 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     metaDescription:
       '合作商店当前有效的折扣码：每个代码的折扣、使用规则，以及能否与商店促销活动叠加使用。',
     yesstyleNote: '首单最高享 {percent}% 折扣，请填入 Reward Code 栏位。',
+    upTo: '最高',
   },
 };

@@ -50,6 +50,7 @@ export function getCouponCardLabels(locale: TranslatedLocale): CouponCardLabels 
     noCode: copy.noCodeToCopy,
     viewOffer: copy.viewOffer,
     chooseTier: copy.chooseMyTier,
+    upTo: COUPON_HUB_COPY[locale].upTo,
     tiersNote: (tiers) => copy.tiersSummary(tiers.length, tiers[0], tiers[tiers.length - 1]),
   };
 }
@@ -71,15 +72,17 @@ function getYesStyleHubCoupon(locale: TranslatedLocale): Coupon {
   };
 }
 
-export type CouponHubEntry = { coupon: Coupon; href: string };
+// `upTo`: o número do cartão é um teto ("até 5%": a YesStyle dá 5% na 1ª compra e menos nas seguintes). O
+// desconto do cupom fica sem a palavra, que o cartão e o nome do item escrevem no idioma da página.
+export type CouponHubEntry = { coupon: Coupon; href: string; upTo: boolean };
 
 // A YesStyle primeiro (destaque), depois as lojas traduzidas na ordem de COUPON_TRANSLATIONS.
 export function getCouponHubEntries(locale: TranslatedLocale): CouponHubEntry[] {
   const stores = getTranslatedCouponSlugs().flatMap((slug) => {
     const coupon = getLocalizedCoupon(slug, locale);
-    return coupon ? [{ coupon, href: getCouponStorePath(slug, locale) }] : [];
+    return coupon ? [{ coupon, href: getCouponStorePath(slug, locale), upTo: false }] : [];
   });
-  return [{ coupon: getYesStyleHubCoupon(locale), href: getYesStyleLocaleConfig(locale).hubPath }, ...stores];
+  return [{ coupon: getYesStyleHubCoupon(locale), href: getYesStyleLocaleConfig(locale).hubPath, upTo: true }, ...stores];
 }
 
 export function getCouponHubShelves(locale: TranslatedLocale) {
@@ -95,11 +98,12 @@ export function getCouponHubLastVerified(entries: CouponHubEntry[]): string | un
     .pop();
 }
 
-export function getCouponHubItemName(coupon: Coupon, locale: TranslatedLocale) {
+export function getCouponHubItemName({ coupon, upTo }: CouponHubEntry, locale: TranslatedLocale) {
   const copy = COUPON_STORE_COPY[locale];
-  if (coupon.offerMode === 'affiliate-link') return copy.offerName.link(coupon.discount, coupon.brand);
+  const discount = upTo ? `${COUPON_HUB_COPY[locale].upTo} ${coupon.discount}` : coupon.discount;
+  if (coupon.offerMode === 'affiliate-link') return copy.offerName.link(discount, coupon.brand);
   return copy.offerName.code({
-    discount: coupon.discount,
+    discount,
     brand: coupon.brand,
     offerType: coupon.offerTypeLabel ?? copy.offerType.code,
     code: coupon.offerMode === 'discount-code' ? coupon.code : '',

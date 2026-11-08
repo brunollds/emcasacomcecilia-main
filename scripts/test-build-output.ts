@@ -47,7 +47,7 @@ import {
   getLocaleHomeStores,
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
-import { PT_COUPON_HUB_TEXT } from '../src/components/coupons/couponHubCopy';
+import { COUPON_HUB_COPY, PT_COUPON_HUB_TEXT } from '../src/components/coupons/couponHubCopy';
 import { getCouponHubEntries, getCouponHubPath } from '../src/lib/couponHub';
 import { splitInlineMarkdown } from '../src/lib/inlineMarkdown';
 import { REVIEW_HUB_LOCALES, getInternationalReviewHub, getPublishedReviewsForLocale } from '../src/lib/review-hubs';
@@ -4100,6 +4100,22 @@ for (const { file, locale } of couponHubPages) {
     const yesCard = html.match(/<article[^>]*aria-label="([^"]*YesStyle)"/)?.[1] ?? '';
     assert.ok(yesCard, `${file}: cartão da YesStyle ausente`);
     assert.ok(!/cupom|coupon|cupón|gutschein|buono|쿠폰|クーポン|優惠碼|优惠码|bon /i.test(yesCard), `${file}: o nome do cartão da YesStyle chama o código de cupom`);
+    // O número da YesStyle é um teto (5% na 1ª compra, 2% nas seguintes): a palavra do idioma vem acima dele,
+    // no cartão e no nome do item da ItemList, e nenhum "até" em português sobra na página.
+    const upToLabel = COUPON_HUB_COPY[locale].upTo;
+    const yesPercent = getPrimaryRewardCode().newCustomerDiscount;
+    const yesCardHtml = html.match(/<article[^>]*aria-label="[^"]*YesStyle"[\s\S]*?<\/article>/)?.[0] ?? '';
+    assert.ok(
+      textOf(yesCardHtml).startsWith(`${upToLabel} ${yesPercent}`),
+      `${file}: o número do cartão da YesStyle não começa com “${upToLabel}” acima de ${yesPercent}%`
+    );
+    assert.ok(
+      itemList?.itemListElement[0]?.name.includes(`${upToLabel} ${yesPercent}`),
+      `${file}: o nome do item da YesStyle na ItemList sem “${upToLabel} ${yesPercent}”`
+    );
+    const portugueseUpTo = /(^|[^\p{L}])até([^\p{L}]|$)/iu;
+    assert.ok(!portugueseUpTo.test(visible), `${file}: “até” em português no hub`);
+    assert.ok(!portugueseUpTo.test(JSON.stringify(jsonLdOf(html))), `${file}: “até” em português no JSON-LD do hub`);
   }
 }
 
