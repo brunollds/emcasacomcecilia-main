@@ -33884,7 +33884,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mais vendidas: o que a loja mostra",
         "paragraphs": [
-          "A loja tem a ordem \"Mais Vendidos\", mas não diz o período nem o critério. Ela punha na frente os combos, a Toffee Nut Latte, de edição limitada, e dois cafés NEO, e os clássicos no fim: o Mochaccino Canela, o sabor com mais avaliações de clientes na loja (85), aparecia entre os últimos. Por isso este guia não faz ranking.",
+          "A loja tem a ordem \"Mais Vendidos\", mas não diz o período nem o critério. Ela punha na frente os combos, a Toffee Nut Latte, de edição limitada, e dois cafés NEO, e os clássicos no fim: o [Mochaccino Canela](/reviews/mochaccino-canela-dolce-gusto), o sabor com mais avaliações de clientes na loja (85), aparecia entre os últimos. Por isso este guia não faz ranking.",
           "A seleção que a loja chama de \"Nossos Favoritos!\", no DGusta, junta Café Caseiro, Mochaccino Canela, Pingado, Nescau e KitKat."
         ]
       },
@@ -34513,7 +34513,7 @@ export const reviewsData: unknown[] = [
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
           "O catálogo cobre cápsulas Original e NEO, máquinas como Genio S e Mini Me, e acessórios. A marca também tem parceria com a Starbucks, vendendo cápsulas Starbucks by NESCAFÉ Dolce Gusto exclusivas do sistema.",
-          "Existem dois programas de relacionamento: a Assinatura NDG, que renova o estoque de cápsulas automaticamente, e o DOLCE GUSTO CLUB, um programa de fidelidade em que o cliente cadastra o código impresso nas caixas para acumular pontos e trocar por produtos ou vale-presentes."
+          "Existem dois programas de relacionamento: a [Assinatura NDG](/reviews/assinatura-dolce-gusto-como-funciona), que renova o estoque de cápsulas automaticamente, e o DOLCE GUSTO CLUB, um programa de fidelidade em que o cliente cadastra o código impresso nas caixas para acumular pontos e trocar por produtos ou vale-presentes."
         ],
         "bullets": []
       },
@@ -36335,7 +36335,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que o cupom só funciona na loja Magazine Você da Cecília?",
         "paragraphs": [
-          "Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília, porque foram criados por mim exclusivamente para essa loja dentro do Magazine Você — o programa oficial de influenciadores da Magazine Luiza, no domínio magazinevoce.com.br.",
+          "Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília, porque foram criados por mim exclusivamente para essa loja dentro do Magazine Você — o [programa oficial de influenciadores da Magazine Luiza](/reviews/magazine-voce-e-confiavel), no domínio magazinevoce.com.br.",
           "São exclusivos da loja Magazine Você da Cecília: não valem no site nem no app do Magalu.",
           "E tem um ponto que deixa tudo mais seguro: o magazinevoce.com.br é domínio da própria Magazine Luiza S/A (CNPJ 47.960.950/0001-21), registrado desde 2011. Nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e faz o pós-venda é o próprio Magalu. O login usa a sua conta Magalu de sempre, e o aviso oficial no rodapé deixa claro que você não compartilha dados com o dono da página.",
           "Transparência: a compra na minha loja pode gerar uma comissão para mim, sem nenhum custo extra para você. Quando você usa um desses cupons, o valor do desconto é abatido dessa comissão: o desconto sai dela, não do seu bolso.",
@@ -38661,7 +38661,7 @@ export const reviewsData: unknown[] = [
         "heading": "Volumes por bebida na tabela impressa na embalagem",
         "paragraphs": [
           "Na foto da embalagem, confira o exemplo da sua cápsula. Nos cafés pretos, ela indica 35 ml para Ristretto Ardenza e Espresso Barista; 50 ml para Espresso, Espresso Descafeinado e Espresso Intenso; 120 ml para Caffè Matinal e Lungo; e 145 ml para Café Caseiro Intenso e Café Caseiro.",
-          "Na área de lattes, a mesma tabela mostra 80 ml para Cortado, 120 ml para Mochaccino Canela, 140 ml para Café au Lait Desnatado e 180 ml para Café au Lait. Para bebidas em duas etapas, os exemplos visíveis são Vanilla Latte Macchiato (175 ml de leite + 25 ml de café), Latte Macchiato (170 ml + 50 ml), Cappuccino (200 ml + 40 ml), Chococino (100 ml de chocolate + 110 ml de leite), Chococino Caramel (100 ml de leite + 110 ml de chocolate), Mocha (110 ml de café + 110 ml de leite) e Chai Tea Latte (120 ml de leite + 100 ml de chá).",
+          "Na área de lattes, a mesma tabela mostra 80 ml para Cortado, 120 ml para [Mochaccino Canela](/reviews/mochaccino-canela-dolce-gusto), 140 ml para Café au Lait Desnatado e 180 ml para [Café au Lait](/reviews/cafe-au-lait-dolce-gusto). Para bebidas em duas etapas, os exemplos visíveis são Vanilla Latte Macchiato (175 ml de leite + 25 ml de café), Latte Macchiato (170 ml + 50 ml), Cappuccino (200 ml + 40 ml), Chococino (100 ml de chocolate + 110 ml de leite), Chococino Caramel (100 ml de leite + 110 ml de chocolate), Mocha (110 ml de café + 110 ml de leite) e Chai Tea Latte (120 ml de leite + 100 ml de chá).",
           "A tabela também lista Nestea Limão e Nestea Pêssego com 200 ml. Use esses exemplos para escolher uma xícara que comporte o volume recomendado; para uma cápsula diferente, prevalece sempre o número de barras indicado na sua própria embalagem."
         ],
         "bullets": [],
@@ -41705,7 +41705,7 @@ export const reviewsData: unknown[] = [
         "heading": "Reservatório de 0,8L e manutenção",
         "paragraphs": [
           "O reservatório de água de 0,8 litro é bem dimensionado para uso individual ou para duplas. No preparo de cafés maiores como o Matinal (~200ml), ele rende cerca de 3 a 4 xícaras cheias antes de precisar de reabastecimento.",
-          "A limpeza diária é simples: a bandeja pingadeira conta com grade removível para enxágue rápido e o suporte de cápsulas pode ser lavado em água corrente. Recomenda-se utilizar água filtrada no reservatório para evitar o acúmulo prematuro de calcário no sistema interno."
+          "A limpeza diária é simples: a bandeja pingadeira conta com grade removível para enxágue rápido e o suporte de cápsulas pode ser lavado em água corrente. Recomenda-se utilizar água filtrada no reservatório para evitar o [acúmulo prematuro de calcário](/reviews/dolce-gusto-descalcificacao-passo-a-passo) no sistema interno."
         ]
       },
       {
@@ -52271,7 +52271,7 @@ export const reviewsData: unknown[] = [
           "Muita gente pega a lata amarela achando que todo Ninho é leite. Não é: a linha reúne três tipos de produto, e o nome técnico vem escrito na frente da embalagem, logo abaixo da marca.",
           "**Leite em pó** é leite desidratado. Ele pode ser enriquecido com vitaminas e minerais e continua sendo leite: o Ninho Integral é rico em cálcio e fonte de ferro, zinco e vitaminas A, C, D e E, informa a Nestlé.",
           "**Composto lácteo** é uma mistura de leite com outros ingredientes, como óleos vegetais, fibras ou maltodextrina. Pela regra do Ministério da Agricultura, pelo menos 51% dos ingredientes precisam ser lácteos. Por isso o rótulo avisa: \"composto lácteo não é leite em pó\".",
-          "**Fórmula infantil de seguimento para crianças de primeira infância** é uma categoria própria, para crianças de 1 a 3 anos. É o caso do Ninho Fases 1+.",
+          "**Fórmula infantil de seguimento para crianças de primeira infância** é uma categoria própria, para crianças de 1 a 3 anos. É o caso do [Ninho Fases 1+](/reviews/nanlac-supreme-ou-ninho-fases).",
           "Os rótulos de leite, composto e fórmula Ninho avisam que o produto não deve ser usado para alimentar crianças menores de 1 ano."
         ],
         "image": "/images/reviews/nutren/ninho-integral-instantaneo-oficial.webp",
@@ -52950,7 +52950,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a Insider vende",
         "paragraphs": [
           "O produto mais conhecido é a Tech T-Shirt, apresentada pela marca como a original desde 2019, em modelos masculino e feminino. A Insider promete tratamento antiodor e que o tecido desamassa com o calor do corpo. Em outubro, a avulsa custava R$ 129 no site. Há também kits de 2, 3 ou 5 camisetas; confira o preço e a composição atuais antes de comparar.",
-          "A loja vai além das camisetas. Há a **Undershirt Antissuor**, feita para usar por baixo da camisa social, nas versões Leve, Moderado e Block (para quem sua mais), cuecas das linhas Comfort e Performance, roupas esportivas, como a Performance T-Shirt 2.0, com a tecnologia Outlast de regulação térmica, e uma linha feminina com tops, leggings e saias.",
+          "A loja vai além das camisetas. Há a **Undershirt Antissuor**, feita para usar por baixo da camisa social, nas versões Leve, Moderado e Block (para quem sua mais), [cuecas das linhas Comfort e Performance](/reviews/cueca-insider-comfort-ou-performance), roupas esportivas, como a Performance T-Shirt 2.0, com a tecnologia Outlast de regulação térmica, e uma linha feminina com tops, leggings e saias.",
           "Na página de sustentabilidade, a marca afirma produção 100% nacional e Tech T-Shirt carbono negativa."
         ],
         "image": "/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp",
@@ -63046,7 +63046,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanhos grandes: o que existe de XGG e XXGG",
         "paragraphs": [
-          "A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG; as tabelas femininas, até o XGG (a Gola V feminina lista também o XXGG). Confira a cor e o tamanho na página do produto antes de comprar."
+          "A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as [cuecas Comfort e Performance](/reviews/cueca-insider-comfort-ou-performance) vão até o XXGG; as tabelas femininas, até o XGG (a Gola V feminina lista também o XXGG). Confira a cor e o tamanho na página do produto antes de comprar."
         ],
         "comparisonTable": {
           "caption": "Tamanhos que a loja lista em cada produto.",
@@ -63853,7 +63853,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como contar: cápsula, caixa e bebida",
         "paragraphs": [
           "Na loja oficial, a cápsula Dolce Gusto Original custava de R$ 1,79 a R$ 2,89, variando por sabor e promoção do dia. No preço cheio, sem promoção, a caixa de 10 sai a R$ 2,59 ou R$ 2,89 por cápsula.",
-          "O preço da xícara depende de quantas cápsulas a receita usa e do preço da caixa. Cafés pretos, Café au Lait, Nescau e Nestea usam uma cápsula por bebida. Cappuccino, Latte Macchiato, Chococino Nestlé e Chai Tea Latte usam duas. Com caixas de dez cápsulas ao mesmo preço, a receita de duas custa o dobro por xícara; com preços diferentes, faça a divisão.",
+          "O preço da xícara depende de quantas cápsulas a receita usa e do preço da caixa. Cafés pretos, [Café au Lait](/reviews/cafe-au-lait-dolce-gusto), Nescau e Nestea usam uma cápsula por bebida. Cappuccino, Latte Macchiato, Chococino Nestlé e Chai Tea Latte usam duas. Com caixas de dez cápsulas ao mesmo preço, a receita de duas custa o dobro por xícara; com preços diferentes, faça a divisão.",
           "A loja vende caixas de 10 cápsulas; só a Starbucks Toffee Nut Latte vem com 12. Na página de cada sabor, o campo \"Cápsulas\" mostra \"x10\" quando cada cápsula faz uma bebida e \"x5 + x5\" quando a caixa traz dois tipos de cápsula, cinco de cada.",
           "No \"x5 + x5\", cada bebida usa as duas cápsulas, e a caixa faz 5 bebidas. É o caso do Cappuccino: a cápsula clara tem o leite em pó, e a escura, o café.",
           "Para chegar ao preço da xícara, divida o preço da caixa pelo número de bebidas. Cappuccino a R$ 17,90: R$ 17,90 ÷ 5 = R$ 3,58 por xícara. Espresso a R$ 17,90: R$ 17,90 ÷ 10 = R$ 1,79."
@@ -64131,7 +64131,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que muda de um dia para o outro",
         "paragraphs": [
-          "Os preços do dia das caixas Original e do DGusta vêm da promoção \"Bebidas com até 30% OFF\", em vigor. Pelo regulamento, ela não vale para NEO nem para máquinas, não soma com combos nem com resgate de pontos e pode acabar sem aviso. NEO, combos e assinatura têm desconto próprio.",
+          "Os preços do dia das caixas Original e do DGusta vêm da promoção \"Bebidas com até 30% OFF\", em vigor. Pelo regulamento, ela não vale para NEO nem para máquinas, não soma com combos nem com resgate de pontos e pode acabar sem aviso. NEO, combos e [assinatura](/reviews/assinatura-dolce-gusto-como-funciona) têm desconto próprio.",
           "Item no carrinho não segura o preço se a promoção acabar. Para refazer a conta em outro dia, divida o preço da caixa pelo número de bebidas: 10 nas de uma cápsula e 5 nas de duas."
         ],
         "links": [
@@ -78217,7 +78217,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Max Titanium vende",
         "paragraphs": [
-          "A loja é de suplementos e de itens ligados a eles: whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos. Também há roupas, acessórios e coqueteleiras, que a política de trocas trata como produtos duráveis.",
+          "A loja é de suplementos e de itens ligados a eles: whey protein, creatina, [pré-treinos](/reviews/pre-treino-max-titanium-horus-ou-egide), aminoácidos e snacks proteicos. Também há roupas, acessórios e coqueteleiras, que a política de trocas trata como produtos duráveis.",
           "Este artigo não avalia os produtos. O que dá para verificar é quem vende, se o site é o oficial e o que acontece se você precisar trocar. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
         ],
         "image": {
@@ -179810,7 +179810,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Cléa Store",
         "paragraphs": [
-          "Dá. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No Reclame Aqui, a reputação é Regular nos seis meses (nota 6,9) e Boa nos 12, com o selo de Empresa Verificada, todas as reclamações respondidas e perto de 80% resolvidas; o ponto fraco é que pouco mais da metade de quem avaliou a loja voltaria a comprar. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados. CNPJ, trocas e frete estão em \"Cléa Store é confiável?\", e a análise das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
+          "Dá. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No [Reclame Aqui](/reviews/clea-store-reclame-aqui-nota-reputacao), a reputação é Regular nos seis meses (nota 6,9) e Boa nos 12, com o selo de Empresa Verificada, todas as reclamações respondidas e perto de 80% resolvidas; o ponto fraco é que pouco mais da metade de quem avaliou a loja voltaria a comprar. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados. CNPJ, trocas e frete estão em \"Cléa Store é confiável?\", e a análise das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
         ]
       },
       {
@@ -180372,7 +180372,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Let's Eat It é confiável?",
         "paragraphs": [
-          "Dá para confiar, com a expectativa certa sobre o pós-venda: a loja responde e resolve quase tudo, mas nem sempre no tempo que o cliente espera. A empresa é a N. R. Bennesby Comércio de Utensílios Domésticos Ltda., com matriz no Rio de Janeiro desde 2020 e filiais em São Paulo, em Serra (ES) e em Itajaí (SC), todas ativas nos dados públicos. Os números do Reclame Aqui, nos últimos 6 meses, dizem o resto:"
+          "Dá para confiar, com a expectativa certa sobre o pós-venda: a loja responde e resolve quase tudo, mas nem sempre no tempo que o cliente espera. A empresa é a N. R. Bennesby Comércio de Utensílios Domésticos Ltda., com matriz no Rio de Janeiro desde 2020 e filiais em São Paulo, em Serra (ES) e em Itajaí (SC), todas ativas nos dados públicos. Os [números do Reclame Aqui](/reviews/lets-eat-it-reclame-aqui-nota-reputacao), nos últimos 6 meses, dizem o resto:"
         ],
         "comparisonTable": {
           "headers": [
@@ -189383,7 +189383,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Assinatura para negócios",
         "paragraphs": [
-          "Para não ficar sem cápsula, a loja tem um banner que leva à assinatura: você monta a caixa e programa a frequência. É o caminho de quem prefere receber todo mês a decidir um combo grande de uma vez. É a mesma assinatura da loja comum; se os 10% de CNPJ entram nela, a página não diz. O que ela dá de desconto está no guia [assinatura da Dolce Gusto: vale a pena?](/reviews/assinatura-dolce-gusto-vale-a-pena)."
+          "Para não ficar sem cápsula, a loja tem um banner que leva à [assinatura](/reviews/assinatura-dolce-gusto-como-funciona): você monta a caixa e programa a frequência. É o caminho de quem prefere receber todo mês a decidir um combo grande de uma vez. É a mesma assinatura da loja comum; se os 10% de CNPJ entram nela, a página não diz. O que ela dá de desconto está no guia [assinatura da Dolce Gusto: vale a pena?](/reviews/assinatura-dolce-gusto-vale-a-pena)."
         ]
       },
       {
