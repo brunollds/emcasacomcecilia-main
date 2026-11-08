@@ -313,7 +313,7 @@ const COPY: Record<LocaleHomeCopyLocale, LocaleHomeCopy> = {
       storePage: '스토어 페이지 보기',
       storeArticles: '{store} 관련 글',
       storeEmpty: '아직 {store}에 관한 글이 없습니다. 진행 중인 캠페인은 스토어 페이지에서 확인할 수 있습니다.',
-      storeGo: '{store}(으)로 이동',
+      storeGo: '{store} 스토어로 이동',
     },
   },
   ja: {
