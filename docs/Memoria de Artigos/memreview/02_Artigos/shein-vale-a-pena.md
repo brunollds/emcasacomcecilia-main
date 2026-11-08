@@ -35,8 +35,7 @@ Leitura: o autocompletar mostra sugestão, não volume. A intenção é decisão
 - **Já no ar, com sobreposição:** `shein-e-confiavel` (PT, 13/10) tem empresa, Reclame Aqui, prazo, "Taxa, imposto e devolução" e "Antes de pagar". SH-1 não repete isso: responde se compensa e leva para lá a parte de empresa e reputação, com uma frase e um link por seção.
 - **Imposto, correção de data:** o texto de `shein-e-confiavel` e o de `black-friday-shein` dizem "desde 13 de maio" (imposto zero até US$ 50). A página da Receita Federal (topicos/tributacao, atualizada em 12/06/2026) dá vigência para a DIR registrada a partir de **12/05/2026**. SH-1 usa 12/05. Se o Bruno aprovar, os dois artigos antigos são corrigidos (fora desta pauta).
 - **Imposto, escopo:** a alíquota zero vale para pessoa física, em site certificado no Remessa Conforme. Pedido em CNPJ segue a regra geral. Confirmar, com fonte, que a SHEIN Brasil está na lista de certificados (pendente, ver fatos).
-- **Código 4CW5Y:** código de indicação da SHEIN Brasil. Pesquisa-se no aplicativo. Não dá desconto e não é cupom. Nada de "cupom de primeira compra" como vantagem.
-  - Superado em 07/11/2026 (#716 a #720): o 4CW5Y dá desconto, sim. Ver "Superado em 07/11/2026", mais abaixo.
+- **Código 4CW5Y:** código de indicação da SHEIN, não é cupom de checkout e não soma. Dá desconto, sim: pelo link do botão, ou copiado e pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos (07/11/2026, #716 a #720). Regra completa em "Regra do 4CW5Y", mais abaixo. Nada de "cupom de primeira compra" como vantagem.
 - **Campanhas fora do corpo:** a 11.11 (`shein-11-11-selecao-da-cecilia`, até 12/11) e a Black Friday (`black-friday-shein`) ficam fora do texto; o texto linka a loja.
 
 ## Tabela: conta de compra (preço do cartão)
@@ -104,8 +103,7 @@ Regra de cálculo, com fonte: o valor aduaneiro soma produto, frete e seguro (Re
 ## Decisões do Bruno (30/10/2026: "sim"; tamanho lido no Chrome no mesmo dia)
 Fatos: `shein-vale-a-pena-fatos-3010.md`, ao lado.
 
-1. Família de 10 idiomas (decisão do Bruno). Fora do PT: sem link da SHEIN Brasil; o `cta.url` é o link neutro da página da loja (`getLocalizedCoupon('shein', locale).offerUrl`); regras de imposto e de devolução do Brasil só no PT. O 4CW5Y é código de indicação da SHEIN Brasil: pesquisa-se no app, não dá desconto, não é cupom e não "soma". Sem cupom de primeira compra como vantagem. Ninguém do site comprou para o artigo. Pendentes do briefing: conferir no Chrome antes de publicar (a SHEIN abre CAPTCHA em página de produto: parar e chamar o Bruno).
-   - Superado em 07/11/2026 (#716 a #720): o trecho "pesquisa-se no app, não dá desconto" caiu. O 4CW5Y dá desconto, sim (ver "Superado em 07/11/2026").
+1. Família de 10 idiomas (decisão do Bruno). Fora do PT: sem link da loja brasileira; o `cta.url` é o link neutro da página da loja (`getLocalizedCoupon('shein', locale).offerUrl`); regras de imposto e de devolução do Brasil só no PT. O 4CW5Y é código de indicação da SHEIN: não é cupom, não "soma" e dá desconto, sim, numa seleção da SHEIN (ver "Regra do 4CW5Y"). Sem cupom de primeira compra como vantagem. Ninguém do site comprou para o artigo. Pendentes do briefing: conferir no Chrome antes de publicar (a SHEIN abre CAPTCHA em página de produto: parar e chamar o Bruno).
 2. Não repete `shein-e-confiavel` (empresa, reputação, entrega, imposto e devolução ficam lá; linka). `translationKey` própria: `shein-vale-a-pena` (o briefing propôs `shein-trust`, que é a do `shein-e-confiavel`). Correção no mesmo PR: a Receita (página atualizada em 12/06/2026) dá a alíquota zero para pessoa física em site certificado desde 12/05/2026; `shein-e-confiavel` e `black-friday-shein` dizem 13/05. Título com "vale a pena" (é a busca).
 
 ## Atualização de 04/11/2026: regras de 02/11 e leitura no navegador
@@ -113,19 +111,18 @@ Fatos: `shein-vale-a-pena-fatos-3010.md`, ao lado.
 Vale sobre o que está acima onde houver conflito. Fatos, fontes e datas em `shein-vale-a-pena-fatos-3010.md`, seção "Lido em 04/11/2026".
 
 ### Regras de 02/11 (Bruno)
-- A SHEIN é uma plataforma global. Nenhum texto diz "SHEIN Brasil", nem no PT. O 4CW5Y é o código de indicação da SHEIN, de pesquisar no aplicativo: não dá desconto, não é cupom e não "soma". Onde as decisões de 30/10 dizem "código de indicação da SHEIN Brasil", leia "da SHEIN".
-- Superado em 07/11/2026 (#716 a #720): "de pesquisar no aplicativo: não dá desconto" caiu. Vale o resto (plataforma global, não é cupom, não soma).
+- A SHEIN é uma plataforma global. Nenhum texto diz "SHEIN Brasil", nem no PT. O 4CW5Y é o código de indicação da SHEIN, não é cupom e não "soma"; dá desconto, sim (ver "Regra do 4CW5Y", abaixo).
 - `br.shein.com` vale em todo idioma, e o link neutro também. `cta.url`: no PT, o `offerUrl` de `couponsData.ts`; nos 9 idiomas, o neutro `https://onelink.shein.com/55/6463grgxf6ru` (o padrão das famílias da SHEIN).
 - Fora do PT, nada do Brasil: imposto de importação, ICMS, Remessa Conforme, Envio Nacional, frete e prazo para o Brasil, R$, CPF, Correios. Nada de "escolha o português". O capítulo só do Brasil sai inteiro; a frase mista perde a parte do Brasil (`voz-traducoes/README.md`).
 - Sem experiência própria (ninguém do site comprou), sem cupom de primeira compra como vantagem e sem concorrente no texto: o capítulo "Comparativo" da estrutura de 30/10 sai, sem nome de outra loja nem link para o comparativo.
 - `description` com até 180 caracteres em todo idioma; resposta rápida sem "R$"; capa pelo Job 6; `build-index` e os gerados no PR.
 
-### Superado em 07/11/2026: regra do 4CW5Y (decisão do Bruno, PRs #716 a #720, no ar)
+### Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
 - O 4CW5Y segue sendo código de indicação da SHEIN: não é cupom de checkout, não soma com nada e nunca se cola no checkout.
 - Pesquisado na busca do app ou do site, ou aberto pelo link do botão (artigos e página de cupom), leva a uma página da SHEIN com uma seleção de produtos, promoções e descontos. Os dois caminhos são equivalentes.
 - **Dá desconto, sim.** O texto diz isso com clareza. Só ficam em aberto o quanto e em quais peças, porque quem decide é a SHEIN.
 - Nunca citar percentual nem valor, nunca prometer desconto em toda compra, nunca "pode não ter desconto", nunca "só no app" nem "apenas no aplicativo". "SHEIN Brasil" segue proibido.
-- Redação viva para conferir: `content/reviews/shein-e-confiavel.json`, `couponsData.ts` (SHEIN, `referral`), `couponTranslations.ts`, `articleCopy.ts` e `sidebarCopy.ts`. Os trechos-modelo deste documento (metaDescription, `cta.text`, texto do 4CW5Y, FAQ e matriz de claims) já saíram na redação nova. O JSON publicado em 04/11/2026 (ids 794 a 803) já saiu na redação nova no #718, nos 10 idiomas; a metaDescription e o cta.text abaixo copiam o texto vivo.
+- Redação viva para conferir: `content/reviews/shein-e-confiavel.json`, `couponsData.ts` (SHEIN, `referral`), `couponTranslations.ts`, `articleCopy.ts` e `sidebarCopy.ts`. Os trechos-modelo deste documento (metaDescription, `cta.text`, texto do 4CW5Y, FAQ e matriz de claims) seguem esta regra. O JSON publicado em 04/11/2026 (ids 794 a 803) está nela desde o #718, nos 10 idiomas; a metaDescription e o cta.text abaixo copiam o texto vivo.
 
 ### Família
 - `translationKey`: `shein-vale-a-pena`, 10 idiomas, `type` "Guia de Compra" (os termos de `vestido-de-festa-shein` nos outros idiomas).
@@ -314,7 +311,7 @@ Fontes: `F` = `shein-vale-a-pena-fatos-3010.md` (seção "Lido em 04/11/2026", s
 | Casaco: 50% lã e 50% poliéster, só lavagem a seco, sem forro | F: tabela das três peças | fato da loja | universal como exemplo de descrição (a peça é a mesma em todo site) |
 | Cada peça tem guia de tamanho próprio em centímetros | `vestido-de-festa-shein.json` (capítulo "Tamanho: use a medida da peça"); B, estrutura (link para `tamanho-shein-brasil`) | fato da loja, pelo artigo da família | universal |
 | "Meça uma roupa sua que veste bem, deitada, e compare com a medida da peça" | conhecimento geral, premissa escrita ("Regra prática, sem teste nosso:") | regra prática | universal |
-| 4CW5Y: código de indicação da SHEIN, não é cupom de checkout, não soma; pelo link do botão ou pesquisado no app ou no site abre uma seleção com promoções e descontos, e dá desconto, sim (quanto e em quais peças, a SHEIN decide; sem % nem valor) (atualizado em 07/11/2026, #716 a #720) | F: `couponsData.ts` (`referral`); B, "Regras de 02/11" e "Superado em 07/11/2026" | condição comercial | universal (fora do PT, o Job 4 usa o texto da página traduzida da loja) |
+| 4CW5Y: código de indicação da SHEIN, não é cupom de checkout, não soma; pelo link do botão ou pesquisado no app ou no site abre uma seleção com promoções e descontos, e dá desconto, sim (quanto e em quais peças, a SHEIN decide; sem % nem valor) (atualizado em 07/11/2026, #716 a #720) | F: `couponsData.ts` (`referral`); B, "Regras de 02/11" e "Regra do 4CW5Y" | condição comercial | universal (fora do PT, o Job 4 usa o texto da página traduzida da loja) |
 | Nenhuma experiência própria; "ninguém da equipe comprou as peças" | B, "Decisões do Bruno" e "Regras de 02/11" | ressalva (só no `editorialNote`) | universal |
 | Links internos: `/reviews/tamanho-shein-brasil`, `/cupons/shein`, `/reviews/shein-e-confiavel` (um de cada, três no total) | B, "Estrutura (H2), revista" | navegação | universal, no idioma de cada versão |
 

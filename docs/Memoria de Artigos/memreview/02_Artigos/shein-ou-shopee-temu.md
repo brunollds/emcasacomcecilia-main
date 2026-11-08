@@ -193,7 +193,7 @@ esse bloco não é fonte. Os números das quatro foram lidos no mesmo dia; recon
 | "A SHEIN e a Temu são a mesma coisa?" | SHEIN: "Sobre nós" (acima). Temu: não lida | — | [x] Parcial: a SHEIN diz o que é; a Temu não foi lida, então a resposta é "são empresas diferentes; o que cada uma diz de si está na tabela" |
 | **Qual é mais barato / mais rápido / melhor para roupa** | Nenhuma fonte oficial responde, e o site não mediu preço nem prazo | — | [ ] Não: a resposta é "o artigo não mede preço"; para prazo, só as faixas publicadas |
 | Qualidade, tamanho, caimento, "a SHEIN é melhor em moda", "a Temu é para casa" | Opinião de Reddit e blogs | — | [ ] Não: nenhuma afirmação de qualidade ou de especialidade sem fonte oficial |
-| 4CW5Y: código de indicação da Cecília; pelo link, ou pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos; dá desconto, sim (quanto e em quais peças, a SHEIN decide); não vai no campo de cupom (atualizado em 07/11/2026, #716 a #720) | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) e `content/reviews/shein-ou-shopee-temu.json` | — | [x] Sim, dizendo que dá desconto e nunca citando percentual nem valor. Nenhum código de campanha da página da loja. *Superado em 07/11/2026:* a linha de 12/10 dizia "pesquisado no app" e "sem prometer benefício" |
+| 4CW5Y: código de indicação da Cecília; pelo link, ou pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos; dá desconto, sim (quanto e em quais peças, a SHEIN decide); não vai no campo de cupom (atualizado em 07/11/2026, #716 a #720) | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) e `content/reviews/shein-ou-shopee-temu.json` | — | [x] Sim, dizendo que dá desconto e nunca citando percentual nem valor. Nenhum código de campanha da página da loja |
 
 > **13/10/2026:** o AliExpress (devolução, frete, prazo e imposto) e a frase da Temu sobre o imposto no reembolso
 > foram lidos; as linhas "não lido" acima ficam como histórico. Ver "Revisão de 13/10/2026" no fim.
@@ -213,8 +213,8 @@ devolução grátis na Temu da UE; **não vale como fonte** até alguém abrir a
 ## 7. Estratégia de Links Contextuais
 - **Afiliado (`affiliate`):** `shein`.
 - **Código (`coupon`) e o nome que a loja dá a ele:** `4CW5Y`, **código de indicação** (termo por idioma:
-  `REFERRAL_TERM` do `test:review-i18n`). Nunca "cupom". Fora do português diz que é da SHEIN Brasil. Nenhum
-  código de campanha entra.
+  `REFERRAL_TERM` do `test:review-i18n`). Nunca "cupom". Vale em todo idioma, sem aviso de país: a SHEIN é plataforma
+  global. Nenhum código de campanha entra.
 - **Link interno para a página da loja (máx. 3):** `/cupons/shein` em PT e `/<locale>/coupons/shein` nos outros.
 - **Artigos relacionados (mesmo idioma):** `shein-e-confiavel` (credibilidade) e `black-friday-shein` (imposto e
   devolução).
@@ -259,7 +259,7 @@ devolução grátis na Temu da UE; **não vale como fonte** até alguém abrir a
   quem paga a devolução, imposto, o que o Reclame Aqui/avaliação local mede e não mede); o fato de que cada loja
   publica regras próprias por país; a lista "o que conferir antes de comprar"; o aviso "este artigo não mede
   preço"; o disclosure (a Cecília ganha comissão da SHEIN e da Temu, onde ela aparece, e no PT também da Shopee); o
-  4CW5Y como código de indicação da SHEIN Brasil.
+  4CW5Y como código de indicação da SHEIN, igual em todo idioma.
 - **Fatos dependentes de país (só no bloco de mercado, com fonte do país):** quais concorrentes existem ali,
   frete, prazo, janela e custo de devolução de cada loja, imposto e aduana, reputação pública local.
 - **Nota do cluster relacionada:** [[03_Memoria/Clusters-Multilingues/SHEIN]]
@@ -284,10 +284,10 @@ devolução grátis na Temu da UE; **não vale como fonte** até alguém abrir a
 "比較ガイド", zh-hant "比較指南", zh-hans "对比指南". **Tarefa do Job 4 (não feita agora):** acrescentar a
 coluna "Comparativo" à tabela do item 4; a tabela do `test:review-i18n` só passa a aceitar depois de a coluna
 entrar (a regra de `type` igual ao PT barra "Comparativo" nas traduções). Cada versão leva o termo do código de
-indicação, o aviso "SHEIN Brasil", o `cta` neutro e `hideFromPortugueseListings: true`.
+indicação, o `cta` neutro e `hideFromPortugueseListings: true`.
 
 **Risco que a decisão A elimina:** sem ela, uma tradução literal do PT fala de Shopee, AliExpress e Reclame Aqui
-para quem não os conhece, e cada fato brasileiro precisaria do rótulo "da SHEIN Brasil", o que deixa o texto
+para quem não os conhece, e cada fato brasileiro precisaria do rótulo "no Brasil", o que deixa o texto
 inútil para o leitor do idioma.
 
 ---
@@ -448,5 +448,5 @@ quatro lojas. A Cecília é afiliada das quatro; a Shopee só no Brasil.
 - As imagens anteriores (`…-criterios.webp` e `shein-shopee-temu-prazo-devolucao.webp`) ficam no repositório e no
   CDN, sem referência.
 
-## Atualização de 07/11/2026: o 4CW5Y dá desconto (#716 a #720)
-Decisão do Bruno de 07/11/2026, já no ar. O 4CW5Y segue sendo código de indicação da SHEIN, não é cupom de checkout e não se cola no checkout. Pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma página da SHEIN com seleção de produtos, promoções e descontos. O texto diz que o código dá desconto; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem "pode não ter desconto", sem "só no app". Isto supera os trechos de 12/10/2026 que diziam "sem prometer benefício" e "pesquisado no app" (matriz e FAQ, já reescritos acima). As linhas "sem 4CW5Y na description e na meta" das releituras do Job 4 são registro histórico das traduções e ficam como estão. Fonte viva: `content/reviews/shein-ou-shopee-temu.json`.
+## Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
+Já no ar. O 4CW5Y é código de indicação da SHEIN, não é cupom de checkout, não soma e nunca vai ao checkout. Pelo link do botão, ou copiado e pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos. O texto diz que o código dá desconto; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem prometer desconto em toda compra, sem "pode não ter desconto", sem "só no app". A SHEIN é plataforma global (regra de 02/11/2026, #493): nenhum texto diz "SHEIN Brasil", as traduções não levam aviso de país, e o código e as campanhas valem em todo idioma. As linhas "sem 4CW5Y na description e na meta" das releituras do Job 4 registram o que cada tradução trazia nessa leitura. Fonte viva: `content/reviews/shein-ou-shopee-temu.json`.

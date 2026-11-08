@@ -149,8 +149,7 @@ Sem a tabela, o texto não traz número de preço. A regra de imposto sai com a 
 Fatos: `vestido-de-festa-shein-fatos-3010.md`, ao lado.
 
 1. Links no formato que os artigos no ar de cada loja usam; nas tabelas, o nome do produto na 1ª célula vira o link. Tabela com o preço do cartão, datado; cupom numa frase (vale em todas as formas de pagamento, Bruno 30/10). Ninguém do site usou. Pendentes do briefing: conferir no Chrome antes de publicar; sem confirmação, não afirma. Ignorar cadastros de variante única com preço baixo (ex.: `-pp`). Reler preços no dia.
-2. Família de 10 idiomas com escopo enxuto fora do PT (sem link da SHEIN Brasil; link neutro da página da loja). Noiva fora; plus size em uma frase; "Envio Nacional" sem prometer prazo. Tabela de preços só com preço lido (a página de produto abre CAPTCHA: o Bruno abre e o Claude lê, senão o artigo sai sem tabela de preço). Nada de pedido ou carrinho para ver prazo. Linka [[tamanho-shein-brasil]] e [[shein-vale-a-pena]]. 4CW5Y é código de indicação, não dá desconto. Data da alíquota zero: 12/05/2026 (Receita).
-   - Superado em 07/11/2026 (#716 a #720): o 4CW5Y é código de indicação e dá desconto, sim, numa seleção da SHEIN (ver "Antes de pagar" e a pergunta 4 acima); o resto do item vale.
+2. Família de 10 idiomas com escopo enxuto fora do PT (sem link da loja brasileira; link neutro da página da loja). Noiva fora; plus size em uma frase; "Envio Nacional" sem prometer prazo. Tabela de preços só com preço lido (a página de produto abre CAPTCHA: o Bruno abre e o Claude lê, senão o artigo sai sem tabela de preço). Nada de pedido ou carrinho para ver prazo. Linka [[tamanho-shein-brasil]] e [[shein-vale-a-pena]]. 4CW5Y é código de indicação da SHEIN e dá desconto, sim, numa seleção da SHEIN (ver "Antes de pagar" e a pergunta 4 acima). Data da alíquota zero: 12/05/2026 (Receita).
 
 ## Publicação (30/10/2026)
 - PR #379 (commit `2614ef9d`), junto com os vaults #376 e #377: família `shein-vestido-festa`, ids 761 (pt) a 770, nos 10 idiomas. No ar em 31/10/2026, release `2614ef9d`.
@@ -158,5 +157,5 @@ Fatos: `vestido-de-festa-shein-fatos-3010.md`, ao lado.
 - O `status` ficou em `pauta-aprovada` até 04/11/2026, quando foi acertado aqui, na M9 da `03_Memoria/Fila-de-Pautas.md` e no `PAINEL-DA-ESTEIRA.md`.
 
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
-- Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. O checklist "Antes de pagar" do briefing ainda diz "código de indicação da SHEIN Brasil"; vale a regra.
+- Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português.
 - Quatro trocas no PT, sem mudar fato: a nota editorial ("Preços e regras conferidos no site da SHEIN no dia da publicação."), o título da seção da tabela ("Três vestidos lidos na SHEIN", como o "Three dresses checked on SHEIN" do inglês), a legenda da tabela ("Três vestidos da SHEIN") e a frase do 4CW5Y ("É o código de indicação da SHEIN"). O `test:review-i18n` segue verde com o título novo, e as 9 traduções não mudaram. PR #566.

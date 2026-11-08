@@ -30,7 +30,7 @@ A SHEIN está na "Mega Promoção 11.11" ("até 85% off em mais de 600 mil produ
 ## Estrutura
 
 1. Resposta rápida (40–60 palavras, sem lista): o que é a 11.11, até quando vai, quantas peças a seleção tem, onde está o link da campanha.
-2. A campanha em poucas linhas: datas, "até 85% off" atribuído à SHEIN, o link master. O 4CW5Y em uma frase, como código de indicação da SHEIN Brasil procurado no app (nunca cupom); fora do PT, o aviso de que o código é da SHEIN Brasil, como nos outros artigos da SHEIN.
+2. A campanha em poucas linhas: datas, "até 85% off" atribuído à SHEIN, o link master. O 4CW5Y em uma frase, como código de indicação da SHEIN (nunca cupom), que abre uma seleção com promoções e descontos; nos 10 idiomas, sem aviso de país.
 3. Uma seção H2 por grupo, uma subseção (ou item de seção) por peça, na ordem do fatos: Pijamas (3), Infantil (4), Feminino (4), Acessórios (4), Masculino (4). Cada peça: foto da ficha, nome curto, preço do dia com o riscado e o percentual, tamanhos, nota e número de comentários, uma frase sobre para quem serve, botão com o link do Bruno (`rel` sponsored).
 4. Como comprar na campanha: só o que já está nos outros artigos da SHEIN (app, busca do código). Link para `black-friday-shein` e para a página da loja no idioma.
 5. FAQ curto (até quando vai, o preço muda?, o código é cupom?).
@@ -48,7 +48,7 @@ A SHEIN está na "Mega Promoção 11.11" ("até 85% off em mais de 600 mil produ
 1. Artigo único desta campanha, não endereço fixo. Se tiver boa aceitação, no 12.12 cria-se a página fixa. Black Friday e outras campanhas da SHEIN seguem em artigos próprios; as campanhas de creators com a Cecília são outra coisa e não entram aqui.
 2. Os 10 idiomas. O Bruno diz que os links de campanha (`onelink.shein.com`) são globais: os mesmos links em todas as versões. Fora do PT, nenhum link `br.shein.com` nem os links de cupom e campanha do `couponsData` (o `test:review-i18n` barra), e o `cta.url` é o link neutro da página da loja no idioma, como nos outros artigos da SHEIN.
 3. Preço fora do PT: conversão bruta do real para a moeda do idioma, pela cotação de um dia só (PTAX de venda do Banco Central do dia da redação, registrada no fatos), arredondada, com "cerca de". Moedas: en USD; es, fr, it e de EUR; ja JPY; ko KRW; zh-hans CNY; zh-hant TWD. UM aviso só por artigo, perto do topo: os preços foram convertidos do real e podem ser diferentes na hora do acesso. Tamanhos como a ficha mostra.
-4. Código: o atual, 4CW5Y, como nos outros artigos da SHEIN (código de indicação, nunca cupom; fora do PT, o aviso de que é da SHEIN Brasil). Os botões levam aos links da campanha.
+4. Código: o atual, 4CW5Y, como nos outros artigos da SHEIN (código de indicação, nunca cupom; vale em todo idioma, sem aviso de país). Os botões levam aos links da campanha.
 5. Grupos: Pijamas (3), Infantil (4), Feminino (4: as peças 9 a 12, que vieram sob "crianças" por engano, Bruno 28/10), Acessórios (4), Masculino (4).
 6. Prazo: a campanha termina em 12/11/2026. Ir ao ar o quanto antes; tirar da vitrine ou marcar como encerrada depois de 12/11.
 
@@ -59,8 +59,8 @@ A SHEIN está na "Mega Promoção 11.11" ("até 85% off em mais de 600 mil produ
 - Pendente: depois de 12/11/2026, tirar da vitrine ou marcar a campanha como encerrada.
 
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
-- Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. O aviso da decisão 4 de 28/10 ("fora do PT, o aviso de que é da SHEIN Brasil") não vale mais.
+- Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português, e as traduções não levam aviso de país: o código e as campanhas valem em todo idioma.
 - No PT, as 2 frases do 4CW5Y (a abertura e o FAQ "O 4CW5Y é cupom?") passam a dizer "o código de indicação da SHEIN". As 9 traduções já estavam sem o termo desde o #493 e não mudaram. PR #566.
 
-## Atualização de 07/11/2026: o 4CW5Y dá desconto (#716 a #720)
-- Decisão do Bruno, já no ar: o 4CW5Y segue sendo código de indicação da SHEIN, não é cupom de checkout e não se cola no checkout, mas dá desconto, sim. Pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma seleção da SHEIN com promoções e descontos; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem "só no app". Onde as decisões de 28/10 (itens 2 e 4 da estrutura) dizem "procurado no app", vale esta regra.
+## Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
+- O 4CW5Y é código de indicação da SHEIN: não é cupom de checkout, não soma e nunca vai ao checkout. Pelo link do botão, ou copiado e pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos. Dá desconto, sim; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem prometer desconto em toda compra, nunca "pode não ter desconto" nem "só no app". Vale nos 10 idiomas, sem aviso de país.

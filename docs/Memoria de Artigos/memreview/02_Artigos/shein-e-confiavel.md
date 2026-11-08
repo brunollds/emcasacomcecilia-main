@@ -100,10 +100,8 @@ autocompletar e dos resultados de busca, não do GSC.
 - **Como o benefício/código chega ao leitor?** Seção "Parceria e código de indicação" no fim, link para
   `/cupons/shein` (ou `/<locale>/coupons/shein`) e CTA comissionado. O 4CW5Y é código de indicação, nunca
   "cupom" de checkout, e dá desconto numa seleção de produtos da SHEIN (pelo link ou pesquisando o código no
-  app ou no site; quanto e em quais peças, a SHEIN decide; atualizado em 07/11/2026, #716 a #720); fora do
-  português o texto diz que é da SHEIN Brasil.
-  *Superado em 07/11/2026:* a redação de 12/10 ("sem prometer benefício") não vale mais; ver a seção
-  "Atualização de 07/11/2026" no fim.
+  app ou no site; quanto e em quais peças, a SHEIN decide; 07/11/2026, #716 a #720). Em nenhum idioma o texto
+  diz "SHEIN Brasil"; ver "Regra do 4CW5Y" no fim.
 - **Atualiza artigo existente ou cria novo?** Família nova, endereço sem o ano.
 - **URL mais próxima semanticamente (risco de canibalização):** `/reviews/black-friday-shein` (o que fala de
   prazo, imposto e devolução) e `/cupons/shein`.
@@ -166,7 +164,7 @@ concorrente ("é mais seguro que a Temu?") não tem resposta aqui: vai para o co
   recomendada: gráfico nosso, sem marca da SHEIN, com a lista "o que conferir antes de pagar" (original,
   sem direito de terceiros). Alternativa: print do site oficial, como o `yesstyle-loja-oficial-banner`, mas o
   banner da SHEIN muda a cada campanha e o direito de uso precisa do OK do Bruno.
-  - **Decisão (Bruno, 12/10/2026): print do site.** `midia-staging\2026-10-12-imagens-pendentes\shein\shein-br-home-2026-10-12.png` (1600×900, página inicial da SHEIN Brasil sem login, capturada em 12/10/2026; o aviso de cookies e o convite de login foram escondidos na captura, sem aceitar nada). Mostra a campanha do dia ("Hora de brilhar"), que muda: a legenda leva a data da captura. Nas 9 traduções, **um print por país (Bruno, 12/10/2026)**: cada versão usa a página inicial do site da SHEIN do mercado do idioma, capturada do mesmo jeito em 12/10/2026, na mesma pasta: es `es.shein.com`, fr `fr.shein.com`, de `de.shein.com`, it `it.shein.com`, ko `kr.shein.com`, ja `jp.shein.com`, zh-hant `tw.shein.com` e zh-hans `sg.shein.com` (o site de Cingapura é em inglês). O print do Japão foi recortado em cima (1600×860), porque a faixa do topo mostrava um código de cupom da loja. Falta o en (`us.shein.com`): o site devolveu 403 depois de duas capturas, e o primeiro slide do banner mostra um código de cupom da loja, que não pode aparecer. O Job 4 refaz a captura num slide sem código, ou o Bruno manda um print.
+  - **Decisão (Bruno, 12/10/2026): print do site.** `midia-staging\2026-10-12-imagens-pendentes\shein\shein-br-home-2026-10-12.png` (1600×900, página inicial do `br.shein.com` sem login, capturada em 12/10/2026; o aviso de cookies e o convite de login foram escondidos na captura, sem aceitar nada). Mostra a campanha do dia ("Hora de brilhar"), que muda: a legenda leva a data da captura. Nas 9 traduções, **um print por país (Bruno, 12/10/2026)**: cada versão usa a página inicial do site da SHEIN do mercado do idioma, capturada do mesmo jeito em 12/10/2026, na mesma pasta: es `es.shein.com`, fr `fr.shein.com`, de `de.shein.com`, it `it.shein.com`, ko `kr.shein.com`, ja `jp.shein.com`, zh-hant `tw.shein.com` e zh-hans `sg.shein.com` (o site de Cingapura é em inglês). O print do Japão foi recortado em cima (1600×860), porque a faixa do topo mostrava um código de cupom da loja. Falta o en (`us.shein.com`): o site devolveu 403 depois de duas capturas, e o primeiro slide do banner mostra um código de cupom da loja, que não pode aparecer. O Job 4 refaz a captura num slide sem código, ou o Bruno manda um print.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md): compressão, origem e
   licença, caminho local, upload verificado e `--append`. Nada sobe ao CDN sem o OK do Bruno.
 - **Imagens inline:** o quadro do Reclame Aqui é tabela em texto, não print (a página muda; print de
@@ -193,11 +191,11 @@ concorrente ("é mais seguro que a Temu?") não tem resposta aqui: vai para o co
 | A SHEIN "não coleta o número do seu cartão" quando se paga com cartão internacional | Fato oficial | `br.shein.com/Payment-Method-a-278.html` (05/06/2026), item 5 | Texto | [x] Sim, restrito ao item de cartão internacional |
 | Formas de pagamento: Pix, cartão brasileiro (até 6x), boleto (3 dias), cartão virtual e internacional, PayPal e Pagaleve | Fato oficial | `br.shein.com/Payment-Method-a-278.html` | Lista de 6 opções (a página diz "5" e lista 6) | [x] Sim; o texto não repete a contagem da página |
 | Pedido da Global: 3 a 5 dias para processar; prazo e frete na página do pedido; nome igual ao do CPF; atraso gera pontos; "Entrega no Prazo" dá 200 pontos ou R$ 10 se o pedido passar da data prevista | Fato oficial | `br.shein.com/Shipping-Info-a-280.html` (23/05/2026) | "Envio da Global", itens 1 a 4 | [x] Sim |
-| A tabela de envio da SHEIN Brasil, lida em 12/10/2026, mostrava frete de R$ 15,00 abaixo de R$ 69,00 e grátis acima, e uma distribuição de prazo de 5 a 30 dias com "60% de probabilidade de entrega em até 11 dias" | Dado oficial dinâmico | Mesma página, tabela "Taxa Mínima de Envio" (sem estado selecionado; a página recalcula) | Tabela renderizada | [x] Sim, só com a data e como "estimativa da própria página"; o resto do texto manda ver o prazo no carrinho. Não é número fixo |
+| A tabela de envio do `br.shein.com`, lida em 12/10/2026, mostrava frete de R$ 15,00 abaixo de R$ 69,00 e grátis acima, e uma distribuição de prazo de 5 a 30 dias com "60% de probabilidade de entrega em até 11 dias" | Dado oficial dinâmico | Mesma página, tabela "Taxa Mínima de Envio" (sem estado selecionado; a página recalcula) | Tabela renderizada | [x] Sim, só com a data e como "estimativa da própria página"; o resto do texto manda ver o prazo no carrinho. Não é número fixo |
 | Quem recebe o pedido atrasado tem 90 dias da data do pagamento para falar com o atendimento; 60 dias da data de entrega para "entregue e não recebi" ou itens trocados | Fato oficial | Mesma página, "Questões sobre entrega" | Itens 1 e 2 | [x] Sim |
 | Devolução em 20 dias; primeira devolução de cada pedido grátis, depois R$ 45; itens "não devolvíveis" só em 7 dias | Fato oficial | `br.shein.com/Return-Policy-a-281.html` (16/09/2026) | Itens 1, 2 e 4 | [x] Sim, em uma frase; o detalhe fica no Black Friday |
 | Imposto: ICMS de 17% a 20% conforme o estado e imposto de importação zero até US$ 50 (desde 13/05/2026); Envio Nacional não paga imposto de importação | Fato oficial | `br.shein.com/tax-policy-a-3476.html` (23/05/2026); Lei 15.502/2026 | Tabela da política | [x] Sim, em uma frase; "veja a tabela no guia de Black Friday" (não repetir a tabela) |
-| O 4CW5Y é código de indicação da Cecília; pelo link do botão, ou pesquisado no app ou no site, abre uma página da SHEIN com seleção de produtos, promoções e descontos; dá desconto, sim (quanto e em quais peças, a SHEIN decide); não vai no checkout (atualizado em 07/11/2026, #716 a #720) | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) e `content/reviews/shein-e-confiavel.json` | — | [x] Sim, dizendo que dá desconto e nunca citando percentual nem valor. Nenhum código de campanha da página da loja entra. *Superado em 07/11/2026:* a linha de 12/10 dizia "pesquisado no app; condições na conta" e "sem prometer benefício". |
+| O 4CW5Y é código de indicação da Cecília; pelo link do botão, ou pesquisado no app ou no site, abre uma página da SHEIN com seleção de produtos, promoções e descontos; dá desconto, sim (quanto e em quais peças, a SHEIN decide); não vai no checkout (07/11/2026, #716 a #720) | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) e `content/reviews/shein-e-confiavel.json` | — | [x] Sim, dizendo que dá desconto e nunca citando percentual nem valor. Nenhum código de campanha da página da loja entra. |
 | **"A SHEIN é chinesa"** | Fato histórico | Nenhuma página oficial lida diz o país de origem: a "Sobre Nós" dá 2012 e nenhuma cidade; o Reclame Aqui traz o texto "2008" da empresa | — | [x] **Sim, atribuído fato a fato (Job 2, 12/10/2026; o Bruno aceitou o fundador no lugar do porta-voz em 12/10).** (1) BBC, 25/02/2026, reproduzida em `capitalfm.africa/sheins-elusive-boss-hails-chinese-roots-in-rare-public-appearance/`: Xu Yangtian, fundador, falou na terça-feira (24/02) num evento do governo de Guangdong; a SHEIN vai "remain firmly rooted in Guangdong"; a sede foi para Singapura. Não diz onde a empresa nasceu. (2) The Straits Times, Joyce ZK Lim, 26/02/2026: "Guangdong is where Shein's roots are, and is where our striving began"; a sede foi para Singapura (o jornal diz 2021). URL não registrada: o site bloqueia a busca automática. (3) Financial Times, William Langley, 25/02/2026, republicado pelo Milenio (`milenio.com/negocios/financial-times/fundador-shein-sale-elogiar-raices-chinas`): "La compañía se fundó en la ciudad de Nanjing, en el este de China"; sede em Singapura "desde 2022". O texto: "nasceu na China, segundo o Financial Times"; a fala sobre Guangdong segundo a BBC e o The Straits Times; a sede em Singapura nas três, sem ano (as fontes divergem). **Registro anterior:** Decisão do Bruno (12/10): duas fontes de imprensa com porta-voz bastam (o mesmo precedente do calendário da Black Friday). Com as duas registradas, a resposta é **uma frase, atribuída** ("segundo [veículo] e [veículo], citando porta-voz da empresa…"); a linha passa a "Sim" só então. Até lá, o texto diz o que a SHEIN publica (operadoras em Singapura e no Brasil) |
 | CNPJ e situação cadastral da In Glow Brasil | Registro público | Receita Federal / BrasilAPI (como no `insider-store-e-confiavel`) | — | [ ] **Não até consultar**: o número do CNPJ não aparece nas páginas lidas (pendência, seção 10) |
 | "Por que é barata" (produção sob demanda, lotes pequenos) | Declaração da marca | `sheingroup.com/our-group` ("On-Demand Fashion") | Texto | [x] Sim, atribuído à SHEIN, uma frase ("a SHEIN diz…"); não afirmamos que explica o preço |
@@ -219,7 +217,7 @@ diferentes por mercado. Lidas em 12/10/2026 com o cabeçalho de idioma em inglê
 | Japão (`jp.shein.com`) | Fashion Choice Pte. Ltd., Singapura (vigência 10/09/2026) | 40 dias da compra | `jp.shein.com/…-a-282` e `…-a-281` |
 | Coreia do Sul (`kr.shein.com`) | Wonderflow Support Pte. Ltd., Singapura (vigência 21/09/2026) | 60 dias do recebimento | `kr.shein.com/…-a-282` e `…-a-281` |
 | Taiwan (`shein.tw`) | Fashion Choice Pte. Ltd., Singapura (vigência 09/09/2026) | 15 dias da recepção | `shein.tw/Consumer-Privacy-Notice-s-101.html` e `…/Return-Policy-a-281.html` |
-| Argentina, Chile, Colômbia, Peru, Equador | Fashion Choice Pte Ltd, Singapura, "licenciadora da Roadget Business Pte. Ltd." | não lido | citado na política da SHEIN Brasil (`br.shein.com/…-a-282`); os sites desses países não foram lidos |
+| Argentina, Chile, Colômbia, Peru, Equador | Fashion Choice Pte Ltd, Singapura, "licenciadora da Roadget Business Pte. Ltd." | não lido | citado na política do `br.shein.com` (`br.shein.com/…-a-282`); os sites desses países não foram lidos |
 | Austrália, Canadá, Hong Kong, Singapura, Malásia | não lido (HK e SG: Fashion Choice Pte. Ltd. segundo a política de cada site) | não lido | `shein.com.hk` e `sg.shein.com` lidos só na parte da operadora |
 
 Fatos de um mercado só entram na versão daquele idioma se o idioma tem um mercado dominante (seção 8). Versões
@@ -244,8 +242,8 @@ mercados que a SHEIN atende e cujo site foi lido; nenhum mercado não atendido e
 ## 7. Estratégia de Links Contextuais
 - **Afiliado (`affiliate`):** `shein`.
 - **Código (`coupon`) e o nome que a loja dá a ele:** `4CW5Y`, **código de indicação** (termo por idioma:
-  `REFERRAL_TERM` do `test:review-i18n`, o mesmo da página da loja). Nunca "cupom". Fora do português diz que
-  o código e as campanhas são da SHEIN Brasil. Nenhum código de campanha da página da loja entra no texto.
+  `REFERRAL_TERM` do `test:review-i18n`, o mesmo da página da loja). Nunca "cupom". Em nenhum idioma o texto
+  diz "SHEIN Brasil". Nenhum código de campanha da página da loja entra no texto.
 - **Link interno para a página da loja (máx. 3):** `/cupons/shein` em PT e `/<locale>/coupons/shein` nos outros.
 - **Artigos relacionados (`relatedArticles`, mesmo idioma):** o guia de Black Friday da SHEIN (família
   `shein-black-friday`) e o comparativo (`shein-vs-shopee-temu`), quando publicado. A YesStyle não entra:
@@ -266,7 +264,7 @@ mercados que a SHEIN atende e cujo site foi lido; nenhum mercado não atendido e
   abaixo; Job 4, seção 3, item 5).
 - **Justificativa de mercado:** quem pergunta "is shein legit" fora do Brasil não precisa do Reclame Aqui nem do
   imposto brasileiro; quem pergunta "ist shein seriös" quer saber da operadora europeia e das regras da UE. Se as
-  9 traduções repetissem só os fatos da SHEIN Brasil (como no Black Friday, onde o assunto é a campanha
+  9 traduções repetissem só os fatos do mercado brasileiro (como no Black Friday, onde o assunto é a campanha
   brasileira), o artigo não responderia a busca do idioma. Por isso o formato é **núcleo igual + bloco de
   mercado** (decisão A, aprovada pelo Bruno em 12/10/2026).
 - **Fonte PT será a peça canônica?** [x] Sim, para o núcleo. O bloco de mercado de cada idioma é aprovado no
@@ -289,7 +287,7 @@ mercados que a SHEIN atende e cujo site foi lido; nenhum mercado não atendido e
 |---|---|---|---|---|---|
 | pt | `shein-e-confiavel` | SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa | Brasil: In Glow Brasil; Reclame Aqui; devolução em 20 dias; Envio Nacional × Global em uma frase | "é confiavel (reclame aqui, reddit, site, app)", "é chinesa", "demora", "taxa", "é seguro comprar (cartão, pix, nacional, internacional)" | Sem "chinesa ou não" até o redator registrar as duas fontes de imprensa (decisão B); sem CNPJ até consultar |
 | en | `is-shein-legit-and-safe` | Is SHEIN Legit and Safe? Who Runs It, Delivery and Customs | Global: tabela curta EUA (SHEIN US Services, LLC; 30 dias) e Reino Unido (ISSL; 14 + 30); outros países "veja a política do seu site" | "is shein legit/safe", "from china", "ethical", "delivery time (UK, Canada, Australia)", "customs" | Sem regra de imposto (instável nos EUA; sem fonte para UK, AU, CA); sem Trustpilot até abrir |
-| es | `shein-es-confiable-y-seguro` | ¿SHEIN es confiable y seguro? Quién la opera, entrega y aduana | Espanha (ISSL; 14 + 30 dias; direito aduaneiro da UE) e México (SHEIN, CDMX; 30 dias); outros países da América Latina pela nota da política brasileira | "es confiable (Argentina, Perú, Colombia, México, Chile)", "aduana(s) (España, 2026, México, Chile…)", "cuánto tarda" | Sem aduana de México, Argentina, Chile, Colômbia, Peru (sem fonte oficial); as 5 operadoras latinas só como "Fashion Choice Pte Ltd, segundo a política da SHEIN Brasil" |
+| es | `shein-es-confiable-y-seguro` | ¿SHEIN es confiable y seguro? Quién la opera, entrega y aduana | Espanha (ISSL; 14 + 30 dias; direito aduaneiro da UE) e México (SHEIN, CDMX; 30 dias); outros países da América Latina pela nota da política brasileira | "es confiable (Argentina, Perú, Colombia, México, Chile)", "aduana(s) (España, 2026, México, Chile…)", "cuánto tarda" | Sem aduana de México, Argentina, Chile, Colômbia, Peru (sem fonte oficial); as 5 operadoras latinas só como "Fashion Choice Pte Ltd, segundo a política do `br.shein.com`" |
 | fr | `shein-est-il-fiable-et-sur` | SHEIN est-il fiable et sûr ? Qui l'exploite, livraison et douane | França/UE: ISSL; 14 + 30 dias; processo da Comissão (DSA) e ação CPC; direito aduaneiro de € 3 | "est il fiable (France, Canada, sécurisé)", "c'est de quel pays", "douane (2026, Belgique, Suisse)" | Sem Bélgica, Suíça, Canadá (sem fonte do país) |
 | de | `ist-shein-serioes-und-sicher` | Ist SHEIN seriös und sicher? Betreiber, Lieferzeit und Zoll | Alemanha/UE: ISSL; 14 + 30; DSA; CPC; € 3 ("Zoll ab Juli") | "ist shein seriös/sicher (App, PayPal)", "lieferzeit (DE, CH, AT)", "zoll (ab Juli, Gebühren)" | Sem Áustria e Suíça (Suíça fora da UE); só "UE" para o direito aduaneiro |
 | it | `shein-e-affidabile-e-sicuro` | SHEIN è affidabile e sicuro? Chi lo gestisce, consegna e dogana | Itália/UE: ISSL; 14 + 30; DSA; CPC; € 3 ("dogana 1 luglio / 3 euro") | "è affidabile (per i pagamenti, 'perché non è affidabile')", "è sicuro (Klarna)", "tempi di consegna (InPost)", "dogana" | Sem InPost nem Klarna (formas de pagamento da Itália não lidas) |
@@ -298,7 +296,7 @@ mercados que a SHEIN atende e cujo site foi lido; nenhum mercado não atendido e
 | zh-hant | `shein-trust-guide-zh-hant` | SHEIN 可靠嗎？安全嗎？營運公司、運送時間與關稅 | Taiwan: Fashion Choice Pte. Ltd.; devolução em 15 dias | "安全嗎 (刷卡)", "哪個國家的", "關稅 (台灣, 要關稅嗎)", "詐騙", "評價", "退貨 (全家, 7-11)" | Sem 關稅 (fonte do governo de Taiwan não lida); sem ptt/dcard; retirada em lojas (全家/7-11) não lida |
 | zh-hans | `shein-trust-guide-zh-hans` | SHEIN（希音）靠谱吗？安全吗？运营公司、物流时间与关税 | Decisão D (Bruno, 12/10): só os mercados que a SHEIN atende e que a pauta leu. Bloco com a operadora global (Roadget, Cingapura) e Cingapura (Fashion Choice Pte. Ltd.; o GSC mostra Cingapura com 617 impressões). Malásia só entra quando o site dela for lido (hoje "não lido", linha 6.2). **Sem China continental**: nenhuma página lida a lista como mercado atendido, e a versão não afirma nem nega nada sobre ela (o GSC mostra a China com 58 impressões) | "安全吗 (刷卡)", "哪个国家的", "关税 (需要关税吗)", "希音是哪个国家的"; "靠谱吗" sem retorno | A mais curta: sem prazo nem imposto de mercado. Antes do Job 3, confirmar na lista de países do site da SHEIN quais mercados de leitura chinesa ela atende |
 
-Cada versão leva o termo de código de indicação do idioma, o aviso "SHEIN Brasil" e o `cta` neutro. O
+Cada versão leva o termo de código de indicação do idioma e o `cta` neutro. O
 `type` é "Editorial" (tabela do Job 4, item 4). O `hideFromPortugueseListings: true` vale nas 9 traduções.
 
 ---
@@ -336,8 +334,8 @@ o texto leva a conclusão, o número e a fonte. Cada seção abaixo cabe em 2 a 
 6. A SHEIN cobra taxa? (ICMS; imposto de importação até US$ 50; guia)
 7. O que fazer se o pedido da SHEIN não chegar? (90 dias; "entregue e não recebi": 60 dias)
 8. Como funciona a devolução? (20 dias; a primeira grátis)
-9. Como saber se o site ou o app da SHEIN é o oficial? (`br.shein.com`; app da loja oficial; sem link nosso para a SHEIN Brasil nas traduções)
-10. O 4CW5Y é cupom? (não é cupom de checkout, é o código de indicação da Cecília, mas dá desconto, sim: pelo link, ou pesquisando o código no app ou no site da SHEIN, abre uma seleção de produtos com promoções e descontos; quanto e em quais peças, a SHEIN decide; atualizado em 07/11/2026, #716 a #720)
+9. Como saber se o site ou o app da SHEIN é o oficial? (`br.shein.com`; app da loja oficial; sem link nosso para o `br.shein.com` nas traduções)
+10. O 4CW5Y é cupom? (não é cupom de checkout, é o código de indicação da Cecília, mas dá desconto, sim: pelo link, ou pesquisando o código no app ou no site da SHEIN, abre uma seleção de produtos com promoções e descontos; quanto e em quais peças, a SHEIN decide; 07/11/2026, #716 a #720)
 
 Perguntas que **não** entram aqui (vão ao comparativo): "é mais seguro que a Temu?", "SHEIN e Temu são a mesma
 coisa?". "Por que é barata?" fica numa frase atribuída à SHEIN no corpo, não no FAQ.
@@ -394,7 +392,7 @@ Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e con
 
 **Job 3 (12/10/2026), aprovado com ajustes, todos aplicados:**
 - País de origem atribuído fato a fato: "nasceu na China" ao Financial Times; a fala do fundador sobre Guangdong à BBC e ao The Straits Times; a sede em Singapura às três. O Bruno aceitou o fundador no lugar do porta-voz (decisão B, 12/10). Fontes na linha "A SHEIN é chinesa" da matriz.
-- Dados: a cláusula do sheingroup.com vale só para quem visita aquele site e saiu do texto; fica a da SHEIN Brasil (pedido de vendedor no exterior). ISO, NIST e PCI DSS como "alinhados".
+- Dados: a cláusula do sheingroup.com vale só para quem visita aquele site e saiu do texto; fica a do `br.shein.com` (pedido de vendedor no exterior). ISO, NIST e PCI DSS como "alinhados".
 - Resposta rápida: a reclamação mais comum com o recorte de três anos do Reclame Aqui; o prazo de entrega "na página do pedido".
 - Devolução: o grátis é o frete da primeira devolução de cada pedido. O FAQ da taxa termina no guia de Black Friday.
 - "Sobre o preço" saiu da frase do sob demanda (a matriz não liga o sob demanda ao preço).
@@ -408,14 +406,14 @@ Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e con
 - fr: título neutro da seção da UE ("Les procédures de la Commission européenne"); "délai de rétractation légal" no lugar de "par la loi"; "barre de recherche"; título real do comparativo nos relacionados.
 - de: título "Verfahren und Mitteilung der EU-Behörden"; os termos do comunicado da Comissão em alemão ("eingeleitet", "süchtig machendes Design", "falsche Rabattaktionen"); "im Wert von bis zu € 150"; "Fake-Shop", "App-Store", "Suchleiste".
 - it: título "Procedimento e notifica delle autorità UE"; "sconti fittizi" e "non pregiudica l'esito" (termos da Comissão); "di valore fino a € 150"; o código "digitato nella barra di ricerca".
-- ko: "어느 나라 회사인지"; o título da seção 4 sem prometer regra de imposto; a frase do imposto como orientação; o 4CW5Y como "Cecília의 SHEIN 브라질 추천 코드".
+- ko: "어느 나라 회사인지"; o título da seção 4 sem prometer regra de imposto; a frase do imposto como orientação.
 - ja: a regra da Alfândega reescrita pela Customs Answer 1006 (lista "主なもの", com botas de esqui e calçado de sola de couro; fonte e data no texto); "公式アプリストア".
 - zh-hant e zh-hans: escrita conferida por conversor; "查閱/查阅"; ISO "保持一致"; a frase do imposto como orientação; título real do comparativo nos relacionados.
 
 **Imagens (no CDN desde 12/10/2026, com o OK do Bruno):**
 - `shein-home-br-2026-10-12.webp` (capa do PT) e `shein-home-{uk,es,fr,de,it,kr,jp,tw,sg}-2026-10-12.webp` (capas por mercado): capturas da página inicial de cada site em 12/10/2026, sem login e sem aceitar cookies; origem em `midia-staging/2026-10-12-imagens-pendentes/ORIGEM.md`. As capturas da UE trazem a tarja da decisão da Corte de Apelação de Paris (Lacoste); nenhuma frase depende dela.
 - `shein-sites-por-pais-2026-10-12.webp`: montagem nossa das dez capturas, com o endereço de cada site.
-- `shein-busca-4cw5y.webp`: quadro da gravação do site móvel da SHEIN Brasil, sem teclado, recortado para tirar a camiseta com slogan político.
+- `shein-busca-4cw5y.webp`: quadro da gravação do site móvel da SHEIN, sem teclado, recortado para tirar a camiseta com slogan político.
 
 **Gates (12/10/2026):** typecheck, eslint, `test:review-i18n` (10 famílias, as três da fase 4 inclusas), `validate:video`, `test-delivery-integration` e os testes de mídia verdes. O `validate:content` só acusa a oferta vencida da YesStyle (1010VIBES), que espera o PR do Bruno; a build completa e as provas de entrega rodam depois dele.
 
@@ -438,11 +436,8 @@ Pedido do Bruno: uma parte curta sobre o que a SHEIN vende e o que se encontra n
 
 **Gates (13/10/2026):** `build-index`, `validate:content`, `test:review-i18n` (120 versões em 12 famílias), `validate:video`, typecheck, lint e a build completa (com o `test:build-output`, que compara o FAQ com o `FAQPage`) verdes. No localhost, as 10 versões trazem a seção nova no sumário e a pergunta nova no acordeão e no `FAQPage`.
 
-## Correção: sem "SHEIN Brasil" (04/11/2026)
-Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. Cinco trocas no PT, sem mudar fato: "A SHEIN aceita Pix…", "A política de privacidade da SHEIN diz…", "A página de envio da SHEIN estima…" e o alt e a legenda da foto do 4CW5Y ("Barra de busca da SHEIN", "na busca do site da SHEIN"). Pix, cartão brasileiro, boleto e o frete em reais seguem no PT. As 9 traduções já estavam sem o termo desde o #493 e não mudaram. PR #566.
+## Regra: sem "SHEIN Brasil" (Bruno, 02/11/2026, #493; PT em 04/11, #566)
+Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. No PT, sem mudar fato: "A SHEIN aceita Pix…", "A política de privacidade da SHEIN diz…", "A página de envio da SHEIN estima…" e o alt e a legenda da foto do 4CW5Y ("Barra de busca da SHEIN", "na busca do site da SHEIN"). Pix, cartão brasileiro, boleto e o frete em reais seguem no PT. As 9 traduções estão sem o termo desde o #493.
 
-
-## Atualização de 07/11/2026: o 4CW5Y dá desconto (#716 a #720)
-Decisão do Bruno de 07/11/2026, já no ar. O 4CW5Y segue sendo código de indicação da SHEIN, não é cupom de checkout, não soma com nada e não se cola no checkout. Pelo link do botão, ou copiando o código e pesquisando no app ou no site da SHEIN, abre uma página da SHEIN com uma seleção de produtos, promoções e descontos. O texto diz com clareza que o código dá desconto; quanto e em quais peças, quem decide é a SHEIN. Sem percentual nem valor, sem promessa de desconto em toda compra, sem "pode não ter desconto", sem "só no app". Fontes vivas: `content/reviews/shein-e-confiavel.json`, `src/lib/couponsData.ts` (SHEIN, `referral`), `src/lib/couponTranslations.ts`, `articleCopy.ts` e `sidebarCopy.ts`.
-
-Isto supera os trechos de 12/10/2026 deste documento que diziam "sem prometer benefício" e "pesquisado no app; condições na conta" (matriz de claims, esqueleto e FAQ, já reescritos acima), e as releituras do Job 4 sobre o 4CW5Y (registro histórico, mantido).
+## Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
+Já no ar. O 4CW5Y segue sendo código de indicação da SHEIN, não é cupom de checkout, não soma com nada e não se cola no checkout. Pelo link do botão, ou copiando o código e pesquisando no app ou no site da SHEIN, abre uma página da SHEIN com uma seleção de produtos, promoções e descontos. O texto diz com clareza que o código dá desconto; quanto e em quais peças, quem decide é a SHEIN. Sem percentual nem valor, sem promessa de desconto em toda compra, sem "pode não ter desconto", sem "só no app". Fontes vivas: `content/reviews/shein-e-confiavel.json`, `src/lib/couponsData.ts` (SHEIN, `referral`), `src/lib/couponTranslations.ts`, `articleCopy.ts` e `sidebarCopy.ts`.

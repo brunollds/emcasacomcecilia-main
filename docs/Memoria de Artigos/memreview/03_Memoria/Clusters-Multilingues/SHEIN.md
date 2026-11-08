@@ -55,7 +55,7 @@ seção 3, item 9).
 ## Regras específicas
 
 - `4CW5Y` é **código de indicação** da SHEIN, não é cupom de checkout e não soma. **Dá
-  desconto, sim** (atualizado em 07/11/2026, #716 a #720; antes: "não dá desconto"): pelo
+  desconto, sim** (decisão do Bruno, 07/11/2026, #716 a #720): pelo
   link do botão, ou copiando o código e pesquisando no app ou no site, abre uma página da
   SHEIN com seleção de produtos, promoções e descontos. Quanto e em quais peças, quem
   decide é a SHEIN.
