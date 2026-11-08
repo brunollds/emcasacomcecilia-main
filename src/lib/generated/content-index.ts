@@ -29142,7 +29142,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para nós, o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, o que facilita entrar em casa, e o puff separado permite mudar a configuração. O que muda a escolha é medir o acesso e escolher o tecido pela rotina da casa."
+          "Para nós, o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, o que facilita entrar em casa, e o puff separado permite mudar a configuração. O que muda a escolha é medir o acesso e escolher o tecido pela rotina da casa. O código CECILIA12 dá 12% OFF no site da Damie."
         ]
       },
       {
@@ -34661,7 +34661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelos dados públicos: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "Sim, pelos dados públicos: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento, que a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao) cobre. Para comprar com desconto, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) traz o CECIEMCASA, 10% OFF no site oficial."
         ]
       },
       {
@@ -35931,7 +35931,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e o que o cupom altera",
         "paragraphs": [
-          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial é R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
+          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial era de R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
           "Em teste já registrado no passo a passo do cupom, o CECI aplicou os 10% por cima de um combo que já tinha desconto de vitrine. Somar com outro código digitado no mesmo pedido não é garantido: o checkout costuma ficar com um cupom só. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses não entram."
         ],
         "links": [
@@ -36186,7 +36186,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Magalu](/cupons/magalu) da Cecília tem dez faixas pelo valor do carrinho. Exemplo: o 100EMCASACOMCECILIA dá 100 reais de desconto em compras a partir de 4.999,90 reais. Vale só no navegador, na loja Magazine Você da Cecília, em itens vendidos e entregues pelo Magalu."
+          "O [cupom Magalu](/cupons/magalu) da Cecília tem dez faixas, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, conforme o valor do carrinho: quanto maior a compra, maior o desconto fixo. Vale só no navegador, na loja Magazine Você da Cecília, em itens vendidos e entregues pelo Magalu."
         ]
       },
       {
@@ -36424,7 +36424,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta direta: o Magazine Você é confiável?",
         "paragraphs": [
-          "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, e o domínio magazinevoce.com.br está registrado em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido; o estoque e o envio dependem de quem anuncia cada produto. Confira o endereço no checklist abaixo; para desconto, use o [cupom Magalu](/cupons/magalu)."
+          "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, com o domínio magazinevoce.com.br em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido; estoque e envio dependem de quem anuncia o produto. Na loja da Cecília, os códigos do [cupom Magalu](/cupons/magalu), de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, valem só no navegador."
         ]
       },
       {
@@ -38821,7 +38821,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A originalidade dos produtos é declarada pela própria loja; ao receber, confira lote, validade e lacre. Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 6 de novembro de 2026."
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A originalidade dos produtos é declarada pela própria loja; ao receber, confira lote, validade e lacre. Para comprar com desconto, use o código de recompensa CECILIA010 (5% extra na primeira compra), que pode somar com [cupons YesStyle](/cupons/yesstyle) elegíveis."
         ]
       },
       {
@@ -39925,7 +39925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle is legitimate: it is a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The store itself declares that its products are authentic; when your order arrives, check the batch number, expiry date and seal. To shop with a discount, see the [YesStyle coupons](/en/coupons/yesstyle), checked on November 6, 2026."
+          "Yes, YesStyle is legitimate: a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The store itself declares that its products are authentic; on arrival, check batch number, expiry date and seal. To save, use the Reward Code CECILIA010 (5% extra off your first purchase), which can stack with eligible [YesStyle coupons](/en/coupons/yesstyle)."
         ]
       },
       {
@@ -40071,7 +40071,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle es legítima: es una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, que cotiza en bolsa. La originalidad de los productos la declara la propia tienda; al recibir el pedido, comprueba el lote, la caducidad y el precinto. Para comprar con descuento, mira los [cupones de YesStyle](/es/coupons/yesstyle), comprobados el 6 de noviembre de 2026."
+          "Sí, YesStyle es legítima: una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, cotizada en bolsa. La originalidad la declara la propia tienda; al recibir el pedido, comprueba lote, caducidad y precinto. Para ahorrar, usa el código de recompensa CECILIA010 (5 % extra en la primera compra), que puede sumarse a los [cupones de YesStyle](/es/coupons/yesstyle) elegibles."
         ]
       },
       {
@@ -40216,7 +40216,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. L'authenticité des produits est déclarée par la boutique elle-même ; à la réception, vérifiez le lot, la date de péremption et le scellé. Pour acheter avec une réduction, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 6 novembre 2026."
+          "Oui, YesStyle est légitime : une entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. L'authenticité des produits est déclarée par la boutique elle-même ; à la réception, vérifiez lot, péremption et scellé. Pour économiser, utilisez le code de récompense CECILIA010 (5 % de plus sur la première commande), cumulable avec les [coupons YesStyle](/fr/coupons/yesstyle) éligibles."
         ]
       },
       {
@@ -40361,7 +40361,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Die Echtheit der Produkte erklärt der Shop selbst; kontrollieren Sie beim Empfang Charge, Haltbarkeitsdatum und Siegel. Um mit Rabatt zu kaufen, sehen Sie sich die [YesStyle-Gutscheine](/de/coupons/yesstyle) an, geprüft am 6. November 2026."
+          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Die Echtheit der Produkte erklärt der Shop selbst; kontrollieren Sie beim Empfang Charge, Haltbarkeitsdatum und Siegel. Um mit Rabatt zu kaufen, nutzen Sie den Reward Code CECILIA010 (5 % extra beim ersten Einkauf), der sich mit berechtigten Aktionsgutscheinen kombinieren lässt (siehe [YesStyle-Gutscheine](/de/coupons/yesstyle))."
         ]
       },
       {
@@ -40460,7 +40460,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "K-Beauty auf YesStyle bestellen mit Code CECILIA010",
-      "label": "Shop Besuchen",
+      "label": "Shop besuchen",
       "url": "https://ystyle.co/rQYQv"
     },
     "coupon": "CECILIA010",
@@ -40506,7 +40506,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "먼저 결론부터",
         "paragraphs": [
-          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년에 설립된 홍콩 기업이며, 상장사인 YesAsia Holdings가 지배하고 있습니다. 제품이 정품이라는 것은 매장의 자체 설명이니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 할인받아 사고 싶다면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 보세요. 확인일은 2026년 11월 6일입니다."
+          "네, YesStyle은 2006년에 설립된 홍콩 기업으로, 상장사인 YesAsia Holdings가 지배하는 정상적인 회사입니다. 제품이 정품이라는 것은 매장의 자체 설명이니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 리워드 코드 CECILIA010으로 첫 구매 5%를 추가 할인받을 수 있고, 적용 가능한 [YesStyle 쿠폰](/ko/coupons/yesstyle)과 함께 쓸 수 있습니다."
         ]
       },
       {
@@ -40651,7 +40651,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "はい、YesStyleは実在する正規の会社です。2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営しています。商品が本物かどうかは店側の自己申告なので、届いたらロット番号、使用期限、封の状態を確認してください。割引で買うなら[YesStyleのクーポン](/ja/coupons/yesstyle)をどうぞ。確認日は2026年11月6日です。"
+          "はい、YesStyleは2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営する正規の会社です。商品が本物かどうかは店側の自己申告なので、届いたらロット番号、使用期限、封の状態を確認してください。割引で買うなら、リワードコードCECILIA010で初回購入が5%追加割引になり、対象の[YesStyleのクーポン](/ja/coupons/yesstyle)と併用できます。"
         ]
       },
       {
@@ -40796,7 +40796,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。商品是否為正品是店家自己的說法，收到商品時請檢查批號、有效期限與封條。想用優惠購買，可以看 [YesStyle 優惠券](/zh-hant/coupons/yesstyle)，確認日期為 2026年11月6日。"
+          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。商品是否為正品是店家自己的說法，收到商品時請檢查批號、有效期限與封條。想用優惠購買，可以使用獎勵碼 CECILIA010（首次購買額外優惠 5%），它可與適用的 [YesStyle 優惠券](/zh-hant/coupons/yesstyle) 疊加。"
         ]
       },
       {
@@ -40940,7 +40940,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。商品是否正品是店家自己的说法，收货时请核对批号、有效期和封条。想优惠购买，可以看 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)，核对日期为 2026年11月6日。"
+          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。商品是否正品是店家自己的说法，收货时请核对批号、有效期和封条。想优惠购买，可以使用奖励码 CECILIA010（首次购买额外优惠 5%），它可与适用的 [YesStyle 优惠券](/zh-hans/coupons/yesstyle) 叠加。"
         ]
       },
       {
@@ -41127,7 +41127,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso. É uma medida de conforto e não substitui avaliação de saúde."
+          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso, e ela não substitui avaliação de saúde. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
         ]
       },
       {
@@ -41287,7 +41287,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro, então dá para comprar no site oficial. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil no dia da compra. Para desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro, então dá para comprar no site oficial. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil ao comprar. O CECIEMCASA, 10% OFF no site, está no [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -41647,7 +41647,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, pesam o plugue de 20A e o pingamento após o preparo. Ela usa cápsulas ORIGINAL; cafés pretos NEO selecionados pedem o Adaptador NEO Start, só com água quente."
+          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, pesam o plugue de 20A e o pingamento; ela usa cápsulas ORIGINAL, e cafés NEO selecionados pedem adaptador. Na loja oficial, o CECI dá 10% OFF acima do pedido mínimo."
         ]
       },
       {
@@ -42198,7 +42198,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre o Nutren Just Protein",
         "bullets": [
-          "Qual a tabela nutricional do Nutren Just Protein? Os valores por porção de 15 g estão no capítulo Tabela nutricional da embalagem de 280g, acima.",
+          "Qual a tabela nutricional do Nutren Just Protein? Cada porção de 15 g (duas colheres de sopa cheias) fornece 52 kcal, 13 g de proteína, 0 g de carboidratos e 76 mg de sódio, sem quantidades significativas de gorduras ou fibras.",
           "Nutren Just Protein engorda? Cada porção de 15g fornece 52 kcal e 13g de proteína. Para dúvidas sobre peso ou sobre a quantidade ideal na sua rotina, procure um médico ou nutricionista.",
           "Nutren Just Protein tem sabor de leite? A fabricante apresenta o produto como sem sabor. A percepção e o resultado final podem variar conforme a bebida ou receita em que ele for misturado.",
           "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, uma possibilidade editorial é acrescentar o pó gradualmente depois de retirar o alimento do fogo; textura e dissolução podem variar.",
@@ -42279,7 +42279,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Genio S Plus costuma ser a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem o painel touch, e compensa quando a diferença de preço para a Touch for relevante. A Basic serve a quem quer o essencial, quando estiver mais barata que a Plus. A Touch é para quem prefere comandos por toque."
+          "A Genio S Plus é a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem painel touch, e compensa se a diferença para a Touch for relevante. A Basic serve a quem quer o essencial, se mais barata que a Plus; a Touch, a quem prefere toque. Na loja oficial, o CECI dá 10% OFF acima do pedido mínimo."
         ]
       },
       {
@@ -42524,7 +42524,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "K-Beauty é o nome dos cosméticos e das tendências de beleza da Coreia, do skincare à maquiagem. A rotina em camadas é uma das práticas mais conhecidas, mas não é obrigatória: uma rotina simples pode bastar. Fora da Coreia, a oferta muda por marca e por país; a YesStyle reúne várias marcas num carrinho só."
+          "K-Beauty é o nome dos cosméticos e das tendências de beleza da Coreia, do skincare à maquiagem. A rotina em camadas é conhecida, mas opcional. Fora da Coreia, a oferta muda por marca e país; a YesStyle reúne várias marcas num carrinho só e o código de recompensa CECILIA010 dá 5% extra na primeira compra."
         ]
       },
       {
@@ -42670,7 +42670,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "K-Beauty is the name for Korean cosmetics and beauty trends, from skincare to makeup. The multi-layer routine is one of its best-known practices, but it is optional: a simple routine can be enough. Outside Korea, availability varies by brand and country; YesStyle gathers many brands in one cart."
+          "K-Beauty is the name for Korean cosmetics and beauty trends, from skincare to makeup. The multi-layer routine is one of its best-known practices, but it is optional. Outside Korea, availability varies by brand and country; YesStyle gathers many brands in one cart, and the Reward Code CECILIA010 gives 5% extra off your first purchase."
         ]
       },
       {
@@ -42816,7 +42816,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "K-Beauty es el nombre de los cosméticos y las tendencias de belleza de Corea, del skincare al maquillaje. La rutina en capas es una de sus prácticas más conocidas, pero no es obligatoria: una rutina simple puede bastar. Fuera de Corea, la oferta cambia según la marca y el país; YesStyle reúne varias marcas en un solo carrito."
+          "K-Beauty es el nombre de los cosméticos y las tendencias de belleza de Corea, del skincare al maquillaje. La rutina en capas es conocida, pero opcional. Fuera de Corea, la oferta cambia según marca y país; YesStyle reúne varias marcas en un carrito y el código de recompensa CECILIA010 da un 5 % extra en la primera compra."
         ]
       },
       {
@@ -42962,7 +42962,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La K-Beauty désigne les cosmétiques et les tendances beauté de la Corée, du skincare au maquillage. La routine en couches est l’une de ses pratiques les plus connues, mais elle n’est pas obligatoire : une routine simple peut suffire. Hors de Corée, l’offre varie selon la marque et le pays ; YesStyle réunit plusieurs marques dans un seul panier."
+          "La K-Beauty désigne les cosmétiques et les tendances beauté de la Corée, du skincare au maquillage. La routine en couches est connue, mais facultative. Hors de Corée, l’offre varie selon la marque et le pays ; YesStyle réunit plusieurs marques dans un panier et le code de récompense CECILIA010 donne 5 % de plus sur la première commande."
         ]
       },
       {
@@ -43108,7 +43108,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "K-Beauty steht für Kosmetik und Beauty-Trends aus Korea, von Skincare bis Make-up. Das Schichten (Layering) ist eine bekannte Praxis, aber keine Pflicht: Eine einfache Routine kann genügen. Außerhalb Koreas unterscheidet sich das Angebot je nach Marke und Land; YesStyle bündelt viele Marken in einem Warenkorb."
+          "K-Beauty steht für Kosmetik und Beauty-Trends aus Korea, von Skincare bis Make-up. Das Schichten (Layering) ist eine bekannte Praxis, aber keine Pflicht. Außerhalb Koreas unterscheidet sich das Angebot je nach Marke und Land; YesStyle bündelt viele Marken in einem Warenkorb, und der Reward Code CECILIA010 bringt 5 % extra beim ersten Einkauf."
         ]
       },
       {
@@ -43254,7 +43254,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "간단히 답하면",
         "paragraphs": [
-          "K-뷰티는 스킨케어부터 메이크업까지 아우르는 한국의 화장품과 뷰티 트렌드를 가리키는 말입니다. 여러 겹을 쌓는 루틴은 널리 알려진 방식 중 하나지만 꼭 따라야 하는 것은 아니며, 간단한 루틴으로 충분할 수도 있습니다. 판매 여부와 방식은 브랜드와 나라에 따라 다릅니다. YesStyle은 여러 브랜드를 장바구니 하나에 담을 수 있습니다."
+          "K-뷰티는 스킨케어부터 메이크업까지 아우르는 한국의 화장품과 뷰티 트렌드를 가리키는 말입니다. 여러 겹을 쌓는 루틴은 널리 알려진 방식 중 하나지만 꼭 따라야 하는 것은 아닙니다. 판매 여부와 방식은 브랜드와 나라에 따라 다르지만, YesStyle은 여러 브랜드를 장바구니 하나에 담을 수 있고 리워드 코드 CECILIA010으로 첫 구매 5%를 추가 할인받습니다."
         ]
       },
       {
@@ -43400,7 +43400,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡単に答えると",
         "paragraphs": [
-          "K-Beautyは、スキンケアからメイクまで、韓国発のコスメと美容トレンドを指す言葉です。何層も重ねるルーティンはよく知られた方法の一つですが、必須ではなく、シンプルなケアで足りることもあります。韓国の外では、取り扱いはブランドや国によって変わります。YesStyleなら複数のブランドを1つのカートにまとめられます。"
+          "K-Beautyは、スキンケアからメイクまで、韓国発のコスメと美容トレンドを指す言葉です。何層も重ねるルーティンはよく知られた方法の一つですが、必須ではありません。韓国の外では取り扱いがブランドや国によって変わりますが、YesStyleなら複数のブランドを1つのカートにまとめられ、リワードコードCECILIA010で初回購入が5%追加割引になります。"
         ]
       },
       {
@@ -43546,7 +43546,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡短回答",
         "paragraphs": [
-          "K-Beauty 指韓國的化妝品與美妝潮流，從保養到彩妝。多層疊擦是最廣為人知的做法之一，但並非必須，簡單的流程也許就夠了。在韓國以外，供貨會因品牌和國家而異；YesStyle 可以把多個品牌放進同一個購物車。"
+          "K-Beauty 指韓國的化妝品與美妝潮流，從保養到彩妝。多層疊擦是最廣為人知的做法之一，但並非必須。在韓國以外，供貨會因品牌和國家而異；YesStyle 可以把多個品牌放進同一個購物車，使用獎勵碼 CECILIA010 首購還能額外優惠 5%。"
         ]
       },
       {
@@ -43692,7 +43692,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "K-Beauty 指韩国的化妆品和美妆潮流，从护肤到彩妆。多层叠涂是最广为人知的做法之一，但并非必须，简单的流程也许就够了。在韩国以外，供货因品牌和国家而异；YesStyle 可以把多个品牌放进同一个购物车。"
+          "K-Beauty 指韩国的化妆品和美妆潮流，从护肤到彩妆。多层叠涂是最广为人知的做法之一，但并非必须。在韩国以外，供货因品牌和国家而异；YesStyle 可以把多个品牌放进同一个购物车，用奖励码 CECILIA010 首次购买还能额外优惠 5%。"
         ]
       },
       {
@@ -43836,7 +43836,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá modular ou retrátil: resposta rápida",
         "paragraphs": [
-          "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir."
+          "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
         ]
       },
       {
@@ -44071,7 +44071,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Melatonina Gummy IWS: resposta rápida",
         "paragraphs": [
-          "A Melatonina Gummy IWS é um suplemento alimentar para adultos de 19 anos ou mais, com 0,21 mg de melatonina por goma. A IWS orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica. Não é medicamento nem tratamento para insônia."
+          "A Melatonina Gummy IWS é um suplemento alimentar para adultos de 19 anos ou mais, com 0,21 mg de melatonina por goma. A IWS orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica, e não é medicamento nem tratamento para insônia. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
         ]
       },
       {
@@ -44950,7 +44950,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. Veja o capítulo Qual escolher: Aurora manual ou Levita elétrica."
+          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. O código CECILIA12 dá 12% OFF no site da DAMIE."
         ]
       },
       {
@@ -45261,7 +45261,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O capítulo Qual linha escolher liga cada perfil à linha certa."
+          "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep."
         ]
       },
       {
@@ -46098,7 +46098,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o Igloo se quer um cobertor reversível, com um lado fresco e outro quente, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e o toque que você prefere; o veredito está em Qual escolher: o cobertor certo para cada perfil."
+          "Escolha o Igloo se quer um cobertor reversível, com um lado fresco e outro quente, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e o toque que você prefere. O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep."
         ]
       },
       {
@@ -49510,7 +49510,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. L'originalità dei prodotti è dichiarata dal negozio stesso; alla consegna controlla lotto, scadenza e sigillo. Per comprare con lo sconto, guarda i [coupon YesStyle](/it/coupons/yesstyle), verificati il 6 novembre 2026."
+          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. L'originalità dei prodotti è dichiarata dal negozio stesso; alla consegna controlla lotto, scadenza e sigillo. Per comprare con lo sconto, usa il codice ricompensa CECILIA010 (5% in più sul primo acquisto), che può sommarsi ai [coupon YesStyle](/it/coupons/yesstyle) idonei."
         ]
       },
       {
@@ -49657,7 +49657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "La K-Beauty è il nome dei cosmetici e delle tendenze di bellezza della Corea, dallo skincare al trucco. La routine a strati è una pratica molto nota, ma non è obbligatoria: una routine semplice può bastare. Fuori dalla Corea l’offerta cambia da marchio a marchio e da paese a paese; YesStyle riunisce molti marchi in un unico carrello."
+          "La K-Beauty è il nome dei cosmetici e delle tendenze di bellezza della Corea, dallo skincare al trucco. La routine a strati è nota, ma facoltativa. Fuori dalla Corea l’offerta cambia per marchio e paese; YesStyle riunisce molti marchi in un carrello e il codice ricompensa CECILIA010 dà il 5% in più sul primo acquisto."
         ]
       },
       {
@@ -50090,7 +50090,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico. Faz sentido como marcador de rotina de sono, não como solução; o capítulo Vale a pena? Nosso veredito mostra para quem compensa."
+          "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico, então faz sentido como marcador de rotina de sono, não como solução. O CECIEMCASA dá 10% OFF no site."
         ]
       },
       {
@@ -51523,7 +51523,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com uma ressalva: a Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. Para o desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
+          "Sim, com uma ressalva: a Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. No site, o código MAUAD dá 5%; o [cupom Let's Eat It](/cupons/letseatit) traz as regras."
         ]
       },
       {
@@ -52020,7 +52020,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: o Pillow Top Magnum vale a pena?",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. O que decide é o estado do colchão, e na dúvida sobre dor nas costas o caminho é o médico."
+          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma; na dúvida sobre dor nas costas, o caminho é o médico. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
         ]
       },
       {
@@ -53684,7 +53684,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para escolher a poltrona de amamentação, olhe primeiro o apoio: braço firme na altura certa, encosto que acompanhe as costas e assento que deixe levantar com o bebê no colo. Balanço ajuda, mas não é obrigatório. O que muda a escolha é o orçamento e o espaço do quarto; veja as faixas de preço abaixo."
+          "Para escolher a poltrona de amamentação, olhe primeiro o apoio: braço firme na altura certa, encosto que acompanhe as costas e assento que deixe levantar com o bebê no colo. Balanço ajuda, mas não é obrigatório. O que muda a escolha é o orçamento e o espaço do quarto; na DAMIE, o código CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -54019,7 +54019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é quanto tempo você vai usar; veja a conta do tempo de uso abaixo."
+          "A poltrona de amamentação serve bem à fase do bebê e custa menos; a reclinável ganha no descanso e continua útil na sala depois. Se escolher reclinável para amamentar, prefira a elétrica, mais fácil de ajustar com o bebê no colo. O que decide é o tempo de uso; na DAMIE, o código CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -61519,7 +61519,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Algumas fichas de stoneware liberam forno e freezer, outras trazem restrições, e os modelos com ouro têm mais exceções em micro-ondas e lava-louças. Antes de comprar, confira a ficha da peça."
+          "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Os modelos com ouro têm mais exceções em micro-ondas e lava-louças, então confira a ficha da peça. Na Let's Eat It, o código MAUAD dá 5% no site."
         ]
       },
       {
@@ -61735,7 +61735,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, que permite tirar enchimento, com os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca; a Emma, 14 noites com reembolso. Os dois modelos da Ortobom citados custam menos, mas as páginas não informam teste em casa."
+          "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, com enchimento removível, e os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca e 10% OFF no site com o CECIEMCASA; a Emma, 14 noites com reembolso. Os da Ortobom custam menos, mas sem teste informado."
         ]
       },
       {
@@ -62006,7 +62006,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Le Creuset vale a pena?",
         "paragraphs": [
-          "Vale para quem vai usar uma panela de ferro fundido no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. Confira o limite de forno da panela, tampa e puxador do modelo."
+          "Vale para quem vai usar uma panela de ferro fundido no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. No site da Let's Eat It, o código MAUAD dá 5%."
         ]
       },
       {
@@ -74530,7 +74530,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses, e 55,2% de quem avaliou disseram que voltariam a comprar. A Supley opera a loja e tem perfil próprio; veja abaixo qual perfil olhar. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
+          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses, e 55,2% de quem avaliou disseram que voltariam a comprar. A Supley opera a loja e tem perfil próprio; veja abaixo qual perfil olhar. Para comprar, o [cupom Probiótica](/cupons/probiotica) traz o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial."
         ]
       },
       {
@@ -75686,7 +75686,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, em empresa e regras de compra: a loja pertence à GDS Grow Dietary Supplements do Brasil, com CNPJ ativo desde 2014, e publica regras de troca, frete e atendimento. A marca se apresenta como brasileira, apesar do USA no nome. O capítulo Vale a pena comprar reúne os cuidados antes de fechar o pedido; para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
+          "Sim, em empresa e regras de compra: a loja pertence à GDS Grow Dietary Supplements do Brasil, com CNPJ ativo desde 2014, e publica regras de troca, frete e atendimento. A marca se apresenta como brasileira, apesar do USA no nome. O [cupom Black Skull](/cupons/black-skull) traz o CECILIA10, 10% OFF em todo o site, inclusive em itens em promoção."
         ]
       },
       {
@@ -77505,7 +77505,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá na Caixa, Inflow ou DAMIE: resposta rápida",
         "paragraphs": [
-          "Não, Inflow e Sofá na Caixa são empresas diferentes. A DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no Pix, com frete e configuração a conferir. A reputação no Reclame Aqui também pesa na escolha."
+          "Não, Inflow e Sofá na Caixa são empresas diferentes, e a DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no Pix, com frete e configuração a conferir; a reputação no Reclame Aqui também pesa. Na DAMIE, o código CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -77927,7 +77927,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá na caixa dura tanto quanto um montado? Resposta rápida",
         "paragraphs": [
-          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano; a ficha técnica abaixo ajuda a comparar."
+          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano, e o código CECILIA12 dá 12% OFF no site."
         ]
       },
       {
@@ -78180,7 +78180,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui de abril a setembro. O que mais pesa é o frete grátis, que depende da região, e o atraso na entrega. Para comprar com desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
+          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui de abril a setembro. O que mais pesa é o frete grátis, que depende da região, e o atraso na entrega. Para comprar, o [cupom Max Titanium](/cupons/max-titanium) traz o código MAX10EMCASACOMCECILIA, com até 10% OFF."
         ]
       },
       {
@@ -78417,7 +78417,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. O índice de solução é de 82,6% entre reclamações finalizadas e avaliadas, e a resposta média leva 7 dias e 9 horas. Veja as janelas abaixo e o que fazer se o pedido atrasar; para desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
+          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. O índice de solução é de 82,6% entre reclamações finalizadas e avaliadas, e a resposta média leva 7 dias e 9 horas. Para comprar, o [cupom Max Titanium](/cupons/max-titanium) traz o código MAX10EMCASACOMCECILIA, com até 10% OFF."
         ]
       },
       {
@@ -78891,7 +78891,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Cléa Store é confiável: CNPJ ativo, site oficial com dados publicados, devolução sem custo e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui em novembro. O que mais pesa é o frete, grátis só acima de um valor mínimo. Para comprar com desconto, use o [cupom Cléa Store](/cupons/clea-store)."
+          "Sim, a Cléa Store é confiável: CNPJ ativo, site oficial com dados publicados, devolução sem custo e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui em novembro. O que mais pesa é o frete, grátis só acima de um valor mínimo. O [cupom Cléa Store](/cupons/clea-store) traz o CSEMCASACOMCECILIA, 10% OFF em todo o site."
         ]
       },
       {
@@ -81861,7 +81861,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de catálogo de outubro, o Whey 80% HD e o Creator, da Black Skull, são os mais baratos por grama de proteína e por dose de creatina. A Max Titanium tem mais opções de whey 3W com sabor e vende a creatina Creapure. O que pesa é o critério: menor preço por proteína ou mais proteína por dose."
+          "Nos preços de outubro, o Whey 80% HD e o Creator, da Black Skull, são os mais baratos por grama de proteína e por dose de creatina; a Max Titanium tem mais whey 3W com sabor e creatina Creapure. O que pesa é o critério: preço por proteína ou proteína por dose. O CECILIA10 dá 10% OFF na Black Skull."
         ]
       },
       {
@@ -82320,7 +82320,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W desta comparação, e a Probiótica trouxe mais sabores e uma versão zero lactose. Na creatina de 300 g, composição declarada e preço empataram; veja o veredito em Qual escolher."
+          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W, e a Probiótica trouxe mais sabores e zero lactose; na creatina de 300 g, rótulo e preço empataram. Na Max, o código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -82799,7 +82799,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, o melhor sabor depende do critério. Avelã e Leite em Pó têm mais proteína por 100 g; Brownie e Cookies & Cream têm menos açúcar, e o Brownie, menos sódio. O Combo Best Sellers da loja junta Avelã, Bueníssimo e Cookies & Cream, mas o gosto é você quem decide."
+          "Pelo rótulo, o melhor sabor depende do critério. Avelã e Leite em Pó têm mais proteína por 100 g; Brownie e Cookies & Cream têm menos açúcar, e o Brownie, menos sódio. O gosto é você quem decide, e o código DREMCASACOMCECILIA dá 10% no site oficial."
         ]
       },
       {
@@ -83846,7 +83846,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural e teste com crédito para troca. Compare construção, altura e condições antes de escolher."
+          "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural, teste com crédito para troca e 10% OFF em todo o site com o CECIEMCASA. Compare construção, altura e condições antes de escolher."
         ]
       },
       {
@@ -84211,7 +84211,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e tinha reputação Ótima no Reclame Aqui em 16/10/2026. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) reúne o desconto da parceria."
+          "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e tinha reputação Ótima no Reclame Aqui entre abril e setembro. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF no site oficial."
         ]
       },
       {
@@ -84423,7 +84423,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com a leitura certa: em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+          "Sim, com a leitura certa: a Belive tinha reputação Ótima no Reclame Aqui nos 6 meses até setembro, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. O [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF em tudo no site oficial."
         ]
       },
       {
@@ -89080,7 +89080,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. Não confunda com o Double Chocolate Sem Glúten Sem Lactose, que contém açúcar."
+          "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. O Double Chocolate Sem Glúten Sem Lactose contém açúcar, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -89408,7 +89408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata."
+          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó e não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata; no site oficial da Belive, o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -89748,7 +89748,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pão de mel proteico da Belive troca carboidrato por proteína: 6 g de proteína e 16 g de carboidratos por unidade, contra 2 g e 23 g do comum. Os dois têm 0 g de açúcares e quase as mesmas calorias. O que pesa é a proteína; o kit de 10 e os preços estão no capítulo de preços."
+          "O pão de mel proteico da Belive troca carboidrato por proteína: 6 g de proteína e 16 g de carboidratos por unidade, contra 2 g e 23 g do comum. Os dois têm 0 g de açúcares e quase as mesmas calorias. O que pesa é a proteína, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -90362,7 +90362,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max, na creatina, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas, e o capítulo Para quem cada um faz sentido mostra o veredito por perfil."
+          "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max, na creatina, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas: o código MAX10EMCASACOMCECILIA dá até 10% OFF, com percentual variável por produto."
         ]
       },
       {
@@ -99598,7 +99598,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha uma faixa que caiba no seu orçamento e uma peça que o casal queira. Na Let's Eat It, havia opções nas quatro faixas abaixo. Se a casa já tem o básico, prefira completar uma linha que o casal usa; para montar a mesa do zero, confira o aparelho de jantar."
+          "Escolha uma faixa que caiba no orçamento e uma peça que o casal queira; na Let's Eat It, havia opções nas quatro faixas. Se a casa já tem o básico, prefira completar uma linha que o casal usa; para montar a mesa do zero, confira o aparelho de jantar. O código MAUAD dá 5% no site."
         ]
       },
       {
@@ -100300,7 +100300,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para montar três looks de trabalho com alfaiataria e peças da Cléa Store: um neutro com blazer e camisa, um com body por baixo do blazer e um com colete e calça vermelhos. Nos dois primeiros, a calça de alfaiataria é sua e fica fora da conta. A loja não vende o look pronto."
+          "Dá para montar três looks de trabalho com alfaiataria e peças da Cléa Store: um neutro com blazer e camisa, um com body por baixo do blazer e um com colete e calça vermelhos. Nos dois primeiros, a calça é sua e fica fora da conta. O CSEMCASACOMCECILIA dá 10% OFF no site."
         ]
       },
       {
@@ -100563,7 +100563,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O body certo depende do uso: gola alta e manga longa para o frio, regata para o dia a dia, frente única ou ombro único para a noite. O mais barato é o Regata Cavado. O que pesa é o uso e o tamanho; veja abaixo a escolha por uso, a tabela e o cupom."
+          "O body certo depende do uso: gola alta e manga longa para o frio, regata para o dia a dia, frente única ou ombro único para a noite. O mais barato é o Regata Cavado. O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, e soma com as promoções."
         ]
       },
       {
@@ -101093,7 +101093,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na comparação de outubro, para quase todo o essencial (t-shirts e bodies), o Mercado Livre saía mais barato que o site com o cupom; para variedade, cupom e cashback, o site é melhor. Os preços do Mercado Livre mudam rápido, então confira os dois antes de comprar."
+          "Na comparação de outubro, para quase todo o essencial (t-shirts e bodies), o Mercado Livre saía mais barato que o site com o cupom; para variedade, cupom e cashback, o site é melhor. No site vale o CSEMCASACOMCECILIA, com 10% OFF. Os preços do Mercado Livre mudam rápido, então confira os dois."
         ]
       },
       {
@@ -102756,7 +102756,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, a Black Skull sai mais barata que a Dux no custo por 100 g de whey e de creatina no cartão. Só a Dux declara o selo Creapure e vende whey isolado nesta comparação. A decisão depende da prioridade: menor preço por grama ou isolado e Creapure declarado."
+          "Nos preços de outubro, a Black Skull sai mais barata que a Dux no custo por 100 g de whey e de creatina no cartão. Só a Dux declara Creapure e vende whey isolado nesta comparação. A escolha é entre menor preço por grama e isolado mais Creapure; na Black Skull vale o CECILIA10, com 10% OFF no site todo."
         ]
       },
       {
@@ -103099,7 +103099,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço no cartão, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. Pix e cupom mudam as contas, e quem quer a resposta por objetivo pode ir direto a Quem escolhe o quê."
+          "Pelo preço no cartão, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. Pix e cupom mudam as contas: o código MAX10EMCASACOMCECILIA dá até 10% OFF na Max, e o percentual varia por produto."
         ]
       },
       {
@@ -104722,7 +104722,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, a Growth tinha o menor custo de proteína nos wheys comparados. Na creatina sem sabor de 500 g, a Mais Mu ficava abaixo com o código, enquanto a Growth tinha vantagem no Pix sem ele. Compare o preço atual e o total com frete antes de escolher; as contas por 100 g estão abaixo."
+          "Nos preços de outubro, a Growth tinha o menor custo de proteína nos wheys comparados. Na creatina sem sabor de 500 g, a Mais Mu ficava abaixo com o código MMEMCASACOMCECILIA, que dá 10% no site dela, enquanto a Growth tinha vantagem no Pix sem ele. Compare o preço atual e o total com frete antes de escolher."
         ]
       },
       {
@@ -105031,7 +105031,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, no cartão, a Mais Mu sai mais barata por 100 g de proteína no whey e por grama de creatina sem sabor. A Dux leva o pó mais concentrado em proteína, o Pix de 5% e a única Creapure declarada. O que pesa mais é o seu uso; veja Quem escolhe o quê."
+          "Nos preços de outubro, no cartão, a Mais Mu sai mais barata por 100 g de proteína no whey e por grama de creatina sem sabor. A Dux leva o pó mais concentrado em proteína, o Pix de 5% e a única Creapure declarada. O que pesa é o uso, e o código MMEMCASACOMCECILIA dá 10% só na Mais Mu."
         ]
       },
       {
@@ -108078,7 +108078,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o gerenciado se quer o assistente funcionando sem cuidar de servidor, e o VPS se quer acesso root e rodar outros programas na mesma máquina. As duas opções aceitam os créditos de IA da Hostinger ou a sua chave de API. O que pesa é a manutenção que você aceita; veja os preços abaixo."
+          "Escolha o gerenciado se quer o assistente funcionando sem cuidar de servidor, e o VPS se quer acesso root e rodar outros programas na mesma máquina. As duas opções aceitam os créditos de IA ou a sua chave de API; o SONAR20 dá 20% em compra nova de qualquer uma, não na renovação. Pesa a manutenção que você aceita."
         ]
       },
       {
@@ -108369,7 +108369,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Choose managed if you want the assistant running without looking after a server, and the VPS if you want root access and to run other programs on the same machine. Both options accept Hostinger's AI credits or your own API key. What matters is how much maintenance you are willing to take on."
+          "Choose managed if you want the assistant running without looking after a server, and the VPS if you want root access and to run other programs on the same machine. Both accept Hostinger's AI credits or your own API key; SONAR20 gives 20% on a new purchase of either, not on renewal. Maintenance is what matters."
         ]
       },
       {
@@ -108601,7 +108601,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Elige el gestionado si quieres el asistente funcionando sin ocuparte de un servidor, y el VPS si quieres acceso root y ejecutar otros programas en la misma máquina. Las dos opciones aceptan los créditos de IA de Hostinger o tu propia clave de API. Lo que pesa es el mantenimiento que estás dispuesto a asumir."
+          "Elige el gestionado si quieres el asistente funcionando sin ocuparte de un servidor, y el VPS si quieres acceso root y ejecutar otros programas en la misma máquina. Ambos aceptan los créditos de IA de Hostinger o tu propia clave de API; SONAR20 da 20% en una compra nueva de cualquiera, no en la renovación. Pesa el mantenimiento que asumes."
         ]
       },
       {
@@ -108833,7 +108833,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Choisissez le géré si vous voulez l'assistant en marche sans vous occuper d'un serveur, et le VPS si vous voulez un accès root et faire tourner d'autres programmes sur la même machine. Les deux options acceptent les crédits d'IA de Hostinger ou votre propre clé d'API. Ce qui compte, c'est la maintenance que vous acceptez de prendre en charge."
+          "Choisissez le géré si vous voulez l'assistant en marche sans serveur à gérer, et le VPS si vous voulez un accès root et d'autres programmes sur la même machine. Les deux acceptent les crédits d'IA de Hostinger ou votre clé d'API ; SONAR20 donne 20 % sur un nouvel achat des deux, pas au renouvellement. Reste la maintenance à assumer."
         ]
       },
       {
@@ -109064,7 +109064,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Wählen Sie die verwaltete Option, wenn der Assistent laufen soll, ohne dass Sie sich um einen Server kümmern, und den VPS, wenn Sie Root-Zugriff wollen und weitere Programme auf demselben Rechner betreiben möchten. Beide Optionen akzeptieren das KI-Guthaben von Hostinger oder Ihren eigenen API-Schlüssel. Entscheidend ist, wie viel Wartung Sie übernehmen wollen."
+          "Wählen Sie die verwaltete Option, wenn der Assistent ohne Serverpflege laufen soll, und den VPS, wenn Sie Root-Zugriff und weitere Programme auf demselben Rechner wollen. Beide nehmen das KI-Guthaben von Hostinger oder Ihren API-Schlüssel an; SONAR20 gibt 20 % auf einen Neukauf beider, nicht auf die Verlängerung. Entscheidend ist die Wartung, die Sie übernehmen."
         ]
       },
       {
@@ -109296,7 +109296,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Scegli il gestito se vuoi l'assistente attivo senza occuparti di un server, e il VPS se vuoi accesso root e far girare altri programmi sulla stessa macchina. Entrambe le opzioni accettano i crediti IA di Hostinger o la tua chiave API. Quel che conta è la manutenzione che sei disposto ad accettare."
+          "Scegli il gestito se vuoi l'assistente attivo senza occuparti di un server, e il VPS se vuoi accesso root e altri programmi sulla stessa macchina. Entrambi accettano i crediti IA di Hostinger o la tua chiave API; SONAR20 dà il 20% su un nuovo acquisto di entrambi, non sul rinnovo. Conta la manutenzione che accetti."
         ]
       },
       {
@@ -109528,7 +109528,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "서버 관리에 시간을 쓰지 않고 어시스턴트를 바로 쓰고 싶다면 관리형을, root 접근이 필요하거나 같은 서버에서 다른 프로그램도 돌리고 싶다면 VPS를 고르세요. 두 방식 모두 호스팅어의 AI 크레딧이나 직접 가진 API 키를 쓸 수 있습니다. 결정은 서버 관리를 어디까지 맡을 수 있느냐에 달려 있습니다."
+          "서버 관리에 시간을 쓰지 않고 바로 쓰고 싶다면 관리형을, root 접근이 필요하거나 같은 서버에서 다른 프로그램도 돌리고 싶다면 VPS를 고르세요. 두 방식 모두 호스팅어의 AI 크레딧이나 직접 가진 API 키를 쓸 수 있습니다. SONAR20은 둘 다 신규 구매에 20% 할인이고 갱신에는 적용되지 않으며, 결정은 맡을 수 있는 관리 범위에 달려 있습니다."
         ]
       },
       {
@@ -109761,7 +109761,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "サーバーの管理に時間をかけず、アシスタントをすぐ動かしたいならマネージド、root 権限が欲しい、または同じマシンで他のプログラムも動かしたいなら VPS を選んでください。どちらも Hostinger の AI クレジットか自分の API キーを使えます。決め手は、どこまでサーバーの管理を引き受けられるかです。"
+          "サーバー管理に時間をかけず、すぐ動かしたいならマネージド、root 権限が欲しい、または同じマシンで他のプログラムも動かしたいなら VPS を選んでください。どちらも Hostinger の AI クレジットか自分の API キーを使えます。SONAR20 はどちらも新規購入で 20% 割引、更新時は対象外で、決め手は、引き受けられる管理の範囲です。"
         ]
       },
       {
@@ -109993,7 +109993,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "不想花時間管伺服器、想讓助理直接上線，就選託管；想要 root 權限，或想在同一台機器上運行其他程式，就選 VPS。兩種方式都可以使用 Hostinger 的 AI 額度，或你自己的 API 金鑰。關鍵在於你願意承擔多少伺服器維護工作。"
+          "不想花時間管伺服器、想讓助理直接上線，就選託管；想要 root 權限，或想在同一台機器上運行其他程式，就選 VPS。兩種方式都可以使用 Hostinger 的 AI 額度或你自己的 API 金鑰。SONAR20 對兩者的新購都減 20%，續訂不適用，關鍵在於你願意承擔的維護。"
         ]
       },
       {
@@ -110225,7 +110225,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "不想花时间管服务器、想让助理直接运行，就选托管；想要 root 权限，或想在同一台机器上运行其他程序，就选 VPS。两种方式都可以使用 Hostinger 的 AI 额度，或你自己的 API 密钥。关键在于你愿意承担多少服务器维护工作。"
+          "不想花时间管服务器、想让助理直接运行，就选托管；想要 root 权限，或想在同一台机器上运行其他程序，就选 VPS。两种方式都可以使用 Hostinger 的 AI 额度或你自己的 API 密钥。SONAR20 对两者的新购都减 20%，续费不适用，关键在于你愿意承担的维护。"
         ]
       },
       {
@@ -110457,7 +110457,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "AI モデルをプロバイダー側に置く場合（API キーでも Hostinger のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、最小レシピの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。サーバーを扱いたくない人は、下で紹介するマネージドを見てください。"
+          "AI モデルをプロバイダー側に置く場合（API キーでも Hostinger のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、最小レシピの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。SONAR20 で VPS の新規購入が 20% オフになります（更新は対象外）。"
         ]
       },
       {
@@ -110741,7 +110741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "AI 모델을 제공업체에 두면(API 키든 호스팅어 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 가장 작은 레시피의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. 서버를 직접 다루고 싶지 않다면 아래의 관리형을 보세요."
+          "AI 모델을 제공업체에 두면(API 키든 호스팅어 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 가장 작은 레시피의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. SONAR20 코드는 VPS 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
         ]
       },
       {
@@ -111027,7 +111027,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果 AI 模型放在供应商那边（无论用 API 密钥还是 Hostinger 额度），起点是 4 GB 的 KVM 1。如果用本地模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一个有余量的套餐。不想管服务器的人，请看下面的托管方案。"
+          "如果 AI 模型放在供应商那边（无论用 API 密钥还是 Hostinger 额度），起点是 4 GB 的 KVM 1。如果用本地模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一个有余量的套餐。SONAR20 可让新购 VPS 享 20% 折扣，续费不适用。"
         ]
       },
       {
@@ -111312,7 +111312,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果 AI 模型放在供應商那邊（不論用 API 金鑰或 Hostinger 額度），起點是 4 GB 的 KVM 1。如果用本機模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。不想管伺服器的人，請看下面的託管方案。"
+          "如果 AI 模型放在供應商那邊（不論用 API 金鑰或 Hostinger 額度），起點是 4 GB 的 KVM 1。如果用本機模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。SONAR20 可讓新購 VPS 享 20% 折扣，續訂不適用。"
         ]
       },
       {
@@ -111597,7 +111597,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "If the AI model runs at a provider, through an API key or Hostinger's AI credits, KVM 1, with 4 GB, is the starting point. For a local model, the smallest recipe sets an 8 GiB floor, and KVM 4, with 16 GB, is the first plan with room to spare. If you do not want to look after a server, see the managed option below."
+          "If the AI model runs at a provider, via an API key or Hostinger's AI credits, KVM 1, with 4 GB, is the starting point. For a local model, the smallest recipe needs 8 GiB, and KVM 4, with 16 GB, is the first plan with room to spare. SONAR20 gives 20% off a new VPS, not a renewal."
         ]
       },
       {
@@ -111881,7 +111881,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt das kleinste Rezept 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Wer sich nicht um einen Server kümmern will, sieht sich unten den verwalteten Weg an."
+          "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt das kleinste Rezept 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Der Code SONAR20 gibt 20 % auf einen neuen VPS, nicht auf die Verlängerung."
         ]
       },
       {
@@ -112167,7 +112167,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si le modèle d'IA reste chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la plus petite recette demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Si vous ne voulez pas gérer un serveur, regardez l'offre gérée, plus bas."
+          "Si le modèle d'IA reste chez le fournisseur (clé d'API ou crédits IA de Hostinger), le KVM 1 (4 Go) est le point de départ. Avec un modèle local, la plus petite recette demande 8 GiB, et le KVM 4 (16 Go) est le premier avec de la marge. SONAR20 donne 20 % sur un nouveau VPS, pas au renouvellement."
         ]
       },
       {
@@ -112452,7 +112452,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Con el modelo de IA en el proveedor, por tu clave de API o los créditos de IA de Hostinger, el KVM 1, con 4 GB, es el punto de partida. Con un modelo local, la receta más pequeña pide 8 GiB, y el KVM 4, con 16 GB, es el primero con margen. Si no quieres ocuparte de un servidor, mira la opción gestionada, más abajo."
+          "Con el modelo de IA en el proveedor (clave de API o créditos de IA de Hostinger), el KVM 1 (4 GB) es el punto de partida. Con un modelo local, la receta mínima pide 8 GiB, y el KVM 4 (16 GB) es el primero con margen. SONAR20 da 20 % en un VPS nuevo, no en la renovación."
         ]
       },
       {
@@ -112736,7 +112736,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o modelo de IA no provedor, pela chave de API ou pelos créditos da Hostinger, o KVM 1, com 4 GB, é o ponto de partida. Com modelo local, a menor receita pede 8 GiB, e o KVM 4, com 16 GB, é o primeiro com folga. Quem não quer cuidar de servidor deve ver o gerenciado, abaixo."
+          "Com o modelo de IA no provedor, pela chave de API ou pelos créditos da Hostinger, o KVM 1, com 4 GB, é o ponto de partida. Com modelo local, a menor receita pede 8 GiB, e o KVM 4, com 16 GB, é o primeiro com folga. O SONAR20 dá 20% no VPS em compra nova, não na renovação."
         ]
       },
       {
@@ -113037,7 +113037,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Con il modello IA presso il fornitore, tramite la tua chiave API o i crediti IA di Hostinger, il KVM 1, con 4 GB, è il punto di partenza. Con un modello locale la ricetta più piccola chiede 8 GiB, e il KVM 4, con 16 GB, è il primo con margine. Se non vuoi occuparti di un server, guarda il gestito, più sotto."
+          "Con il modello IA presso il fornitore (chiave API o crediti IA di Hostinger), il KVM 1 (4 GB) è il punto di partenza. Con un modello locale la ricetta più piccola chiede 8 GiB, e il KVM 4 (16 GB) è il primo con margine. Il codice SONAR20 dà il 20% su un VPS nuovo, non sul rinnovo."
         ]
       },
       {
@@ -113322,7 +113322,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Scegli OpenClaw se vuoi molti canali di messaggistica e app native per telefono e computer, e Hermes Agent se vuoi un agente che impara dall'uso. Il software è gratuito in entrambi, e il piano gestito di Hostinger va bene per tutti e due. Ciò che conta è cosa farà l'agente; guarda i profili qui sotto."
+          "Scegli OpenClaw se vuoi molti canali di messaggistica e app native per telefono e computer, e Hermes Agent se vuoi un agente che impara dall'uso. Il software è gratuito in entrambi, e il piano gestito di Hostinger va bene per tutti e due. Con il codice SONAR20 hai il 20% di sconto sull'acquisto nuovo, non su rinnovi né domini."
         ]
       },
       {
@@ -113608,7 +113608,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Elige OpenClaw si quieres muchos canales de mensajería y aplicaciones nativas para móvil y ordenador, y Hermes Agent si quieres un agente que aprende con el uso. El software es gratis en los dos, y el plan gestionado de Hostinger sirve para ambos. Lo que pesa es lo que el agente va a hacer; mira los perfiles más abajo."
+          "Elige OpenClaw si quieres muchos canales de mensajería y aplicaciones nativas para móvil y ordenador, y Hermes Agent si quieres un agente que aprende con el uso. El software es gratis en los dos, y el plan gestionado de Hostinger sirve para ambos. Con el código SONAR20 tienes un 20% de descuento en compra nueva, no en renovaciones ni dominios."
         ]
       },
       {
@@ -113892,7 +113892,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Wählen Sie OpenClaw, wenn Sie viele Nachrichtenkanäle und native Apps für Handy und Computer wollen, und Hermes Agent, wenn Sie einen Agenten wollen, der aus der Nutzung lernt. Die Software ist bei beiden kostenlos, und der verwaltete Tarif von Hostinger passt zu beiden. Entscheidend ist, was der Agent tun soll; sehen Sie sich unten die Profile an."
+          "Wählen Sie OpenClaw, wenn Sie viele Nachrichtenkanäle und native Apps für Handy und Computer wollen, und Hermes Agent, wenn Sie einen Agenten wollen, der aus der Nutzung lernt. Die Software ist bei beiden kostenlos, und der verwaltete Tarif von Hostinger passt zu beiden. Mit dem Code SONAR20 gibt es 20 % Rabatt auf Neukäufe, nicht auf Verlängerungen oder Domains."
         ]
       },
       {
@@ -114178,7 +114178,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Choisissez OpenClaw si vous voulez beaucoup de canaux de messagerie et des applications natives pour le téléphone et l'ordinateur, et Hermes Agent si vous voulez un agent qui apprend en s'utilisant. Le logiciel est gratuit pour les deux, et l'offre gérée d'Hostinger convient à l'un comme à l'autre. Ce qui compte, c'est ce que l'agent va faire ; voyez les profils plus bas."
+          "Choisissez OpenClaw si vous voulez beaucoup de canaux de messagerie et des applications natives pour le téléphone et l'ordinateur, et Hermes Agent si vous voulez un agent qui apprend à l'usage. Le logiciel est gratuit pour les deux, et l'offre gérée d'Hostinger convient aux deux. Code SONAR20 : 20 % sur un nouvel achat, hors renouvellement et domaines."
         ]
       },
       {
@@ -114462,7 +114462,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o OpenClaw se quer muitos canais de mensagem e aplicativos nativos para celular e computador, e o Hermes Agent se quer um agente que aprende com o uso. O software é grátis nos dois, e o plano gerenciado da Hostinger serve a ambos. O que pesa é o que o agente vai fazer; veja os perfis abaixo."
+          "Escolha o OpenClaw se quer muitos canais de mensagem e aplicativos nativos para celular e computador, e o Hermes Agent se quer um agente que aprende com o uso. O software é grátis nos dois, e o plano gerenciado da Hostinger serve a ambos. O SONAR20 dá 20% na compra nova, fora renovação e domínio."
         ]
       },
       {
@@ -114765,7 +114765,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "メッセージのチャンネルが多く、スマートフォンとパソコンのネイティブアプリもほしいなら OpenClaw、使うほど学習していくエージェントがほしいなら Hermes Agent を選んでください。ソフトウェアはどちらも無料で、Hostinger のマネージドプランはどちらにも使えます。決め手はエージェントに何をさせたいかです。下のタイプ別の案内を見てください。"
+          "メッセージのチャンネルが多く、スマートフォンとパソコンのネイティブアプリもほしいなら OpenClaw、使うほど学習していくエージェントがほしいなら Hermes Agent を選んでください。ソフトウェアはどちらも無料で、Hostinger のマネージドプランはどちらにも使えます。新規購入ならコード SONAR20 で 20% 割引ですが、更新とドメインは対象外です。"
         ]
       },
       {
@@ -115049,7 +115049,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "메시지 채널이 많고 휴대폰과 컴퓨터용 네이티브 앱도 원한다면 OpenClaw, 쓸수록 배우는 에이전트를 원한다면 Hermes Agent를 고르세요. 소프트웨어는 둘 다 무료이고, 호스팅어의 관리형 플랜은 둘 모두에 쓸 수 있습니다. 결정적인 것은 에이전트에게 무엇을 시킬지입니다. 아래의 유형별 안내를 보세요."
+          "메시지 채널이 많고 휴대폰과 컴퓨터용 네이티브 앱도 원한다면 OpenClaw, 쓸수록 배우는 에이전트를 원한다면 Hermes Agent를 고르세요. 소프트웨어는 둘 다 무료이고, 호스팅어의 관리형 플랜은 둘 모두에 쓸 수 있습니다. 신규 구매라면 코드 SONAR20으로 20% 할인되며, 갱신과 도메인은 제외입니다."
         ]
       },
       {
@@ -115335,7 +115335,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想要很多消息渠道，还要手机和电脑的原生应用，就选 OpenClaw；想要越用越会学习的智能体，就选 Hermes Agent。两者的软件都是免费的，Hostinger 的托管方案对两者都适用。关键是你想让智能体做什么，请看下面按需求划分的建议。"
+          "想要很多消息渠道，还要手机和电脑的原生应用，就选 OpenClaw；想要越用越会学习的智能体，就选 Hermes Agent。两者的软件都是免费的，Hostinger 的托管方案对两者都适用。新购时使用代码 SONAR20 可享 20% 折扣，续费和域名除外。"
         ]
       },
       {
@@ -115620,7 +115620,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想要很多訊息管道，還要手機和電腦的原生應用程式，就選 OpenClaw；想要越用越會學習的代理，就選 Hermes Agent。兩者的軟體都是免費的，Hostinger 的託管方案兩者都能用。關鍵在於你想讓代理做什麼，請看下面依需求分類的建議。"
+          "想要很多訊息管道，還要手機和電腦的原生應用程式，就選 OpenClaw；想要越用越會學習的代理，就選 Hermes Agent。兩者的軟體都是免費的，Hostinger 的託管方案兩者都能用。新購時使用代碼 SONAR20 可享 20% 折扣，續約和網域除外。"
         ]
       },
       {
@@ -115905,7 +115905,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Choose OpenClaw if you want many messaging channels and native apps for phone and computer, and Hermes Agent if you want an agent that learns from use. The software is free for both, and Hostinger's managed plan serves either. What matters is what the agent will do; see the profiles below."
+          "Choose OpenClaw if you want many messaging channels and native apps for phone and computer, and Hermes Agent if you want an agent that learns from use. The software is free for both, and Hostinger's managed plan serves either. With the code SONAR20, a new purchase gets 20% off, but renewals and domains do not."
         ]
       },
       {
@@ -116189,7 +116189,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Paperclip organisiert Teams aus KI-Agenten mit Rollen, Zielen, Budgets und Freigaben. Sie verbinden die Agenten über Ihre eigenen Konten mit den Modellen, per API oder unterstütztem Abonnement. Bei Hostinger entscheidet vor allem die Serververwaltung: Hostinger im verwalteten Tarif oder Sie selbst beim VPS."
+          "Paperclip organisiert Teams aus KI-Agenten mit Rollen, Zielen, Budgets und Freigaben, verbunden mit den Modellen über Ihre eigenen Konten. Bei Hostinger entscheidet vor allem die Serververwaltung: Hostinger im verwalteten Tarif oder Sie selbst beim VPS. Der Code SONAR20 gibt 20 % auf Neukäufe, nicht auf Verlängerungen oder Domains."
         ]
       },
       {
@@ -116417,7 +116417,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Paperclip organizza squadre di agenti IA con ruoli, obiettivi, budget e approvazioni. Colleghi gli agenti ai modelli con i tuoi account, tramite API o abbonamento compatibile. Su Hostinger la scelta principale riguarda chi gestisce il server: Hostinger nel piano gestito o tu sul VPS."
+          "Paperclip organizza squadre di agenti IA con ruoli, obiettivi, budget e approvazioni, collegate ai modelli con i tuoi account. Su Hostinger la scelta principale riguarda chi gestisce il server: Hostinger nel piano gestito o tu sul VPS. Il codice SONAR20 dà il 20% sull'acquisto nuovo, non su rinnovi né domini."
         ]
       },
       {
@@ -116646,7 +116646,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Paperclip organise des équipes d’agents d’IA avec des rôles, des objectifs, des budgets et des approbations. Vous connectez les agents aux modèles avec vos propres comptes, par API ou abonnement compatible. Chez Hostinger, le choix principal porte sur la gestion du serveur : Hostinger dans l’offre gérée, ou vous sur un VPS."
+          "Paperclip organise des équipes d’agents d’IA avec des rôles, des objectifs, des budgets et des approbations, reliées aux modèles par vos propres comptes. Chez Hostinger, le choix principal porte sur la gestion du serveur : Hostinger dans l’offre gérée, ou vous sur un VPS. Le code SONAR20 donne 20 % sur un nouvel achat, hors renouvellement et domaines."
         ]
       },
       {
@@ -116874,7 +116874,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Paperclip organizes teams of AI agents with roles, goals, budgets and approvals. You connect the agents to models through your own accounts, by API or compatible subscription. On Hostinger, the main choice is who manages the server: Hostinger on managed hosting, or you on a VPS."
+          "Paperclip organizes teams of AI agents with roles, goals, budgets and approvals, connected to models through your own accounts. On Hostinger, the main choice is who manages the server: Hostinger on managed hosting, or you on a VPS. The code SONAR20 gives 20% off new purchases, not renewals or domains."
         ]
       },
       {
@@ -117102,7 +117102,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Paperclip は、役割、目標、予算、承認を持つ AI エージェントのチームを管理します。モデルへは、API キーまたは対応するサブスクリプションを使い、ご自身のアカウントでエージェントを接続します。Hostinger では、サーバーの管理を Hostinger に任せるマネージドか、自分で管理する VPS かが主な選択です。"
+          "Paperclip は、役割、目標、予算、承認を持つ AI エージェントのチームを管理し、モデルへは自分のアカウントで接続します。Hostinger では、サーバーの管理を Hostinger に任せるマネージドか、自分で管理する VPS かが主な選択です。新規購入ならコード SONAR20 で 20% 割引、更新とドメインは対象外です。"
         ]
       },
       {
@@ -117329,7 +117329,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Paperclip은 역할, 목표, 예산, 승인 규칙을 갖춘 AI 에이전트 팀을 관리합니다. 모델에는 자신의 계정으로, API 키나 지원되는 구독을 써서 에이전트를 연결합니다. Hostinger에서는 서버를 Hostinger가 맡는 관리형과 직접 관리하는 VPS 중 무엇을 고르느냐가 주된 선택입니다."
+          "Paperclip은 역할, 목표, 예산, 승인 규칙을 갖춘 AI 에이전트 팀을 관리하며, 모델에는 자신의 계정으로 연결합니다. Hostinger에서는 서버를 Hostinger가 맡는 관리형과 직접 관리하는 VPS 중 무엇을 고르느냐가 주된 선택입니다. 신규 구매라면 코드 SONAR20으로 20% 할인되고, 갱신과 도메인은 제외입니다."
         ]
       },
       {
@@ -117558,7 +117558,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Paperclip 管理 AI 智能体团队的角色、目标、预算和审批。您用自己的账户并通过 API 或兼容订阅为智能体连接模型。在 Hostinger，主要选择是让 Hostinger 管理服务器的托管版，还是由自己管理的 VPS。"
+          "Paperclip 管理 AI 智能体团队的角色、目标、预算和审批，并用您自己的账户连接模型。在 Hostinger，主要选择是让 Hostinger 管理服务器的托管版，还是由自己管理的 VPS。新购时使用代码 SONAR20 可享 20% 折扣，续费和域名除外。"
         ]
       },
       {
@@ -117786,7 +117786,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "Paperclip 管理 AI 代理團隊的角色、目標、預算和核准。您用自己的帳號並透過 API 或相容訂閱為代理連接模型。在 Hostinger，主要選擇是讓 Hostinger 管理伺服器的代管方案，還是由自己管理的 VPS。"
+          "Paperclip 管理 AI 代理團隊的角色、目標、預算和核准，並用您自己的帳號連接模型。在 Hostinger，主要選擇是讓 Hostinger 管理伺服器的代管方案，還是由自己管理的 VPS。新購時使用代碼 SONAR20 可享 20% 折扣，續約和網域除外。"
         ]
       },
       {
@@ -118013,7 +118013,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Paperclip organiza equipes de agentes de IA, com papéis, metas, orçamento e aprovações. Você conecta os agentes aos modelos pelas suas próprias contas, por API ou assinatura compatível. Na Hostinger, a escolha principal é quem administra o servidor: a empresa, no gerenciado, ou você, no VPS."
+          "O Paperclip organiza equipes de agentes de IA, com papéis, metas, orçamento e aprovações, ligadas aos modelos pelas suas próprias contas. Na Hostinger, a escolha principal é quem administra o servidor: a empresa, no gerenciado, ou você, no VPS. O código SONAR20 dá 20% na compra nova, fora renovação e domínio."
         ]
       },
       {
@@ -118285,7 +118285,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Paperclip organiza equipos de agentes de IA con roles, metas, presupuesto y aprobaciones. Conectas los agentes a los modelos con tus propias cuentas, por API o suscripción compatible. En Hostinger, la decisión principal es quién administra el servidor: Hostinger en el gestionado o tú en un VPS."
+          "Paperclip organiza equipos de agentes de IA con roles, metas, presupuesto y aprobaciones, conectados a los modelos con tus propias cuentas. En Hostinger, la decisión principal es quién administra el servidor: Hostinger en el gestionado o tú en un VPS. El código SONAR20 da un 20% en compra nueva, sin renovaciones ni dominios."
         ]
       },
       {
@@ -118494,7 +118494,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita e sede em Curitiba. O perfil da Skelt no Reclame Aqui está em nome de outra empresa, que tem a S/A como sócia. Os detalhes estão abaixo; para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
+          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita e sede em Curitiba. O perfil da Skelt no Reclame Aqui está em nome de outra empresa, que tem a S/A como sócia. Para comprar, o SKEMCASACOMCECILIA dá 10% de desconto em todo o site; o [cupom Skelt](/cupons/skelt) traz as regras."
         ]
       },
       {
@@ -118715,7 +118715,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a reputação da Skelt no Reclame Aqui é boa: RA1000, a faixa máxima, nos últimos 6 meses, com nota 8,4, e a loja respondeu a 99,7% das reclamações do período. O que pesa são as queixas de produto com defeito e atraso. Para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
+          "Sim, a reputação da Skelt no Reclame Aqui é boa: RA1000, a faixa máxima, nos últimos 6 meses, com nota 8,4, e a loja respondeu a 99,7% das reclamações do período. Pesam as queixas de defeito e atraso. Para comprar, o SKEMCASACOMCECILIA dá 10% de desconto em todo o site; o [cupom Skelt](/cupons/skelt) traz as regras."
         ]
       },
       {
@@ -119408,7 +119408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé e na consulta pública. No Reclame Aqui, a reputação muda conforme o período: Boa em 6 meses e Ruim em 12. Antes de comprar, confira entrega, troca e cobertura da garantia; para o desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
+          "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé e na consulta pública. No Reclame Aqui, a reputação muda conforme o período: Boa em 6 meses e Ruim em 12. Antes de comprar, confira entrega, troca e garantia; o CECILIA10 dá 10% OFF em todo o site, e o [cupom Bagaggio](/cupons/bagaggio) traz as regras."
         ]
       },
       {
@@ -119678,7 +119678,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, com nota 7,9, mas Ruim nos 12 meses até outubro, com nota 5,8. No semestre, respondeu a 100% e resolveu 92,5%. O que muda a leitura é o perfil: o capítulo Qual perfil olhar mostra qual vale para o site. Para comprar com desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
+          "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, com nota 7,9, mas Ruim nos 12 meses até outubro, com nota 5,8. No semestre, respondeu a 100% e resolveu 92,5%; para o site, vale o perfil Loja Virtual. O CECILIA10 dá 10% OFF em todo o site; o [cupom Bagaggio](/cupons/bagaggio) traz as regras."
         ]
       },
       {
@@ -120426,7 +120426,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta, além da garantia legal do Código de Defesa do Consumidor. Veja abaixo quem tem direito e como acionar."
+          "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta, além da garantia legal. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -120726,7 +120726,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A escolha de móvel para presente costuma ficar entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável é a que mais faz sentido; para a sala, o sofá modular. O que pesa é o espaço, a porta e quem vai usar; a hora de comprar depende do prazo do seu CEP."
+          "Na hora de presentear, a escolha fica entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável; para a sala, o sofá modular. O que pesa é espaço, porta, quem usa e o prazo do CEP; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
         ]
       },
       {
@@ -121151,7 +121151,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual autobronzeador Skelt comprar",
         "paragraphs": [
-          "Para a primeira aplicação, o Kit Iniciante é a escolha: o mousse tem cor-guia para mostrar onde você passou, e a luva vem junta. Água e Gel são incolores e a Skelt os indica para quem já sabe aplicar; para mais intensidade, as versões Dark são de nível expert."
+          "Para a primeira aplicação, o Kit Iniciante é a escolha: o mousse tem cor-guia para mostrar onde você passou, e a luva vem junta. Água e Gel são incolores e a Skelt os indica a quem já sabe aplicar; para mais intensidade, as Dark são de nível expert. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
@@ -122234,7 +122234,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há vencedora geral: no mousse escuro, a Best Bronze sai mais barata no cartão enquanto está em promoção, e a conta da Skelt fica menor com cupom e Pix. Nos transparentes e kits comparados, a Skelt custa menos; spray, gotas e lenço aparecem só na Best Bronze. O capítulo Qual escolher mostra o melhor caminho para cada caso."
+          "Não há vencedora geral: no mousse escuro, a Best Bronze sai mais barata no cartão enquanto está em promoção, e a conta da Skelt fica menor com o SKEMCASACOMCECILIA (10%) e o Pix. Nos transparentes e kits comparados, a Skelt custa menos; spray, gotas e lenço aparecem só na Best Bronze."
         ]
       },
       {
@@ -122561,7 +122561,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual creatina da Black Skull comprar",
         "paragraphs": [
-          "Se você quer só creatina, o Creator refil de 500 g tinha o menor preço por grama entre as avulsas da Black Skull. Creator e Creatine sem sabor listam creatina monohidratada; o Turbo acrescenta maltodextrina. Para 1 kg, compare os kits à parte, pois o volume de compra muda a conta."
+          "Se você quer só creatina, o Creator refil de 500 g tinha o menor preço por grama entre as avulsas da Black Skull. Creator e Creatine sem sabor listam creatina monohidratada; o Turbo acrescenta maltodextrina. Para 1 kg, compare os kits à parte; o CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -123308,7 +123308,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica. O que pesa na escolha é a cor e a quantidade; veja o capítulo final."
+          "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica, e o que pesa na escolha é a cor e a quantidade. O CSEMCASACOMCECILIA dá 10% OFF no site, e soma com as promoções."
         ]
       },
       {
@@ -123539,7 +123539,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: BOPE ou Bone Crusher",
         "paragraphs": [
-          "Pelo rótulo, o BOPE ganha no preço por dose e o Bone Crusher ganha em beta-alanina, arginina e menos carboidrato. No catálogo de outubro, nenhum pré-treino da Black Skull era sem cafeína, e o Legacy é o que tem mais por dose. O que pesa é o preço por dose e o tamanho do pote."
+          "Pelo rótulo, o BOPE ganha no preço por dose e o Bone Crusher, em beta-alanina, arginina e menos carboidrato. No catálogo de outubro, nenhum pré-treino da Black Skull era sem cafeína, e o Legacy tem mais por dose; pesam o preço por dose e o tamanho do pote. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -123838,7 +123838,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Black Skull comprar",
         "paragraphs": [
-          "O 80% HD Refil 900 g tem o menor custo por proteína entre as versões comparadas. Para uma mistura de proteínas, o 100% HD de 1,8 kg tem o menor custo da linha 100% HD, e o 3W Core declara 31 g de proteína por porção, com custo maior por proteína."
+          "O 80% HD Refil 900 g tem o menor custo por proteína entre as versões comparadas. Para uma mistura, o 100% HD de 1,8 kg tem o menor custo da linha 100% HD, e o 3W Core declara 31 g por porção, com custo maior por proteína. O CECILIA10 dá 10% OFF em todo o site da Black Skull."
         ]
       },
       {
@@ -124463,7 +124463,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade. O que pesa é a proteína que você quer; veja em Qual escolher."
+          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias e o menor preço por unidade. O que pesa é a proteína que você quer, e o código DREMCASACOMCECILIA dá 10% no site oficial."
         ]
       },
       {
@@ -124806,7 +124806,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O kit de 5 potes de 600 g tem o menor custo por 100 g entre os formatos comparados, mas leva 3 kg. Para um pote só, o de 600 g custa menos por grama que o de 250 g. Compare a quantidade que você consome, a validade e o frete antes de escolher."
+          "O kit de 5 potes de 600 g tem o menor custo por 100 g entre os formatos comparados, mas leva 3 kg. Para um pote só, o de 600 g custa menos por grama que o de 250 g. O código DREMCASACOMCECILIA dá 10% no site oficial e soma com as promoções; compare consumo, validade e frete."
         ]
       },
       {
@@ -125092,7 +125092,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na grade de outubro, a Cléa Store não tinha conjunto de alfaiataria pronto, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom. O que decide é o tamanho: veja a Grade do dia."
+          "Em outubro, a Cléa Store não tinha conjunto de alfaiataria pronto, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom, e o que decide é o tamanho. O CSEMCASACOMCECILIA dá 10% OFF no site."
         ]
       },
       {
@@ -125528,7 +125528,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda o peso da porção, o carboidrato e o preço por grama. Entre as opções com sabor, a Creatine Black Skull de 300 g tem o menor custo por grama de creatina; a Max 7Belo declara carboidrato em quantidade não significativa."
+          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda a porção, o carboidrato e o preço por grama. Entre as com sabor, a Creatine Black Skull de 300 g tem o menor custo por grama; a Max 7Belo declara carboidrato em quantidade não significativa. Na Black Skull, o CECILIA10 dá 10% OFF."
         ]
       },
       {
@@ -125776,7 +125776,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Skull tem a creatina mais barata por 100 g de produto e a whey 80% HD mais barata por 100 g de proteína, entre os tamanhos comparados. O menor preço da Integralmédica fica acima nas duas contas. Nas fontes oficiais, são empresas diferentes; o veredito por perfil está em Qual escolher."
+          "A Black Skull tem a creatina mais barata por 100 g de produto e a whey 80% HD mais barata por 100 g de proteína, entre os tamanhos comparados, e o menor preço da Integralmédica fica acima nas duas contas. Nas fontes oficiais, são empresas diferentes. Na Black Skull, o CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -126015,7 +126015,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há vencedora geral: a La Ganexa tem pasta só de amendoim, vegana ou sem lactose, e o pote de 1 kg dela costuma ter menor custo por 100 g. A Dr. Peanut custa menos nos potes pequenos com sabor de sobremesa, com o cupom de 10%. O que decide é o seu perfil; veja em Onde cada uma ganha."
+          "Não há vencedora geral: a La Ganexa tem pasta só de amendoim, vegana ou sem lactose, e o pote de 1 kg dela costuma ter menor custo por 100 g. A Dr. Peanut custa menos nos potes pequenos com sabor de sobremesa, com o código DREMCASACOMCECILIA, que dá 10% no site oficial; o que decide é o seu perfil."
         ]
       },
       {
@@ -126796,7 +126796,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor: só três dos 500 g estão em oferta; veja \"Quanto custa cada dose\"."
+          "Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor, porque só três dos 500 g estão em oferta. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu, inclusive em produto em oferta."
         ]
       },
       {
@@ -127173,7 +127173,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O refil de 900 g Brownie ou Cookies'n Cream tem o menor preço por proteína entre os formatos com contagem de doses da loja. O pote de 450 g serve para conhecer o sabor, e o sachê, para levar. A loja não aponta o melhor sabor, e este texto também não."
+          "O refil de 900 g Brownie ou Cookies'n Cream tem o menor preço por proteína entre os formatos com contagem de doses da loja. O pote de 450 g serve para conhecer o sabor, e o sachê, para levar; a loja não aponta o melhor sabor, nem este texto. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
         ]
       },
       {
@@ -127636,7 +127636,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de referência da tabela, a Mukebar 720 g tinha o menor custo por grama de proteína, com 15 g numa barra de 60 g. A Chocowheyfer Sem Cobertura era a unidade mais barata e tinha menos açúcar e calorias que a Mukebar Avelã. Compare o tamanho da unidade e o rótulo antes de escolher."
+          "Nos preços de referência da tabela, a Mukebar 720 g tinha o menor custo por grama de proteína, com 15 g por barra. A Chocowheyfer Sem Cobertura era a unidade mais barata e tinha menos açúcar e calorias que a Mukebar Avelã. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu, mas não vale no Mercado Livre."
         ]
       },
       {
@@ -127995,7 +127995,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, contra 6 meses na Valley Modular e 3 meses na Inflow. A devolução e o prazo também pesam na escolha."
+          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, contra 6 meses na Valley Modular e 3 meses na Inflow. O código CECILIA12 dá 12% OFF na DAMIE."
         ]
       },
       {
@@ -128390,7 +128390,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para receita de até 2 L, a 20 cm (2,4 L) basta se a receita não encostar na borda; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa, medido abaixo, decide; para servir à mesa, vale o buffet."
+          "Para receita de até 2 L, basta a 20 cm (2,4 L); acima disso, a 24 cm (4,2 L) custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa decide; para servir à mesa, vale o buffet. No site da Let's Eat It, o código MAUAD dá 5%."
         ]
       },
       {
@@ -128675,7 +128675,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo para autenticar a peça. Em caso de dúvida sobre uma peça, o SAC da marca é o caminho."
+          "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo para autenticar a peça; na dúvida, o SAC da marca ajuda. No site da Let's Eat It, o código MAUAD dá 5%."
         ]
       },
       {
@@ -131655,7 +131655,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g; veja abaixo."
+          "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -131934,7 +131934,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g e sai mais barato por grama de proteína. Os de arroz têm, em média, menos sódio; compare o sabor na tabela."
+          "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g e sai mais barato por grama de proteína. Os de arroz têm, em média, menos sódio, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -132167,7 +132167,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não tem bolinho kids, veja abaixo."
+          "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não o traz, e no site oficial o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -134371,7 +134371,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja anuncia até 85% off na Mega Promoção 11.11, até 12/11/2026. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino. Os preços, os descontos e os tamanhos de cada uma vêm da página da peça e podem mudar."
+          "A loja anuncia descontos grandes na Mega Promoção 11.11, até o dia 12. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino; preços e descontos mudam por peça. O 4CW5Y é o código de indicação: pesquise no aplicativo da SHEIN, não cole no checkout, porque não é cupom."
         ]
       },
       {
@@ -135268,7 +135268,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The store advertises up to 85% off in the 11.11 Mega Sale, until November 12, 2026. Cecília picked 19 pieces in 5 groups: pajamas, kids, women, accessories and men. Each piece's discount and rating come from its product page and may change."
+          "The store advertises big discounts in the 11.11 Mega Sale, until November 12. Cecília picked 19 pieces in 5 groups: pajamas, kids, women, accessories and men; prices and discounts change by piece. 4CW5Y is the referral code: search for it in the SHEIN app, not at checkout, because it is not a coupon."
         ]
       },
       {
@@ -136132,7 +136132,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "La tienda anuncia hasta un 85 % de descuento en la Mega Promoción 11.11, hasta el 12/11/2026. Cecília eligió 19 prendas en 5 grupos: pijamas, infantil, mujer, accesorios y hombre. El descuento y la nota de cada una vienen de la ficha de la prenda y pueden cambiar."
+          "La tienda anuncia grandes descuentos en la Mega Promoción 11.11, hasta el 12 de noviembre. Cecília eligió 19 prendas en 5 grupos: pijamas, infantil, mujer, accesorios y hombre; precios y descuentos cambian según la prenda. 4CW5Y es el código de referido: búscalo en la app de SHEIN, no en el checkout, porque no es un cupón."
         ]
       },
       {
@@ -136996,7 +136996,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La boutique annonce jusqu'à 85 % de remise pendant la Méga Promotion 11.11, jusqu'au 12/11/2026. Cecília a choisi 19 pièces en 5 groupes : pyjamas, enfant, femme, accessoires et homme. La remise et la note de chacune viennent de la fiche de la pièce et peuvent changer."
+          "La boutique annonce de grosses remises pendant la Méga Promotion 11.11, jusqu'au 12 novembre. Cecília a choisi 19 pièces en 5 groupes : pyjamas, enfant, femme, accessoires et homme ; prix et remises changent selon la pièce. Le 4CW5Y est le code de parrainage : cherchez-le dans l'appli SHEIN, pas au paiement, car ce n'est pas un coupon."
         ]
       },
       {
@@ -137860,7 +137860,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il negozio annuncia fino all'85% di sconto nella Mega Promozione 11.11, fino al 12/11/2026. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Gli sconti e la valutazione di ciascuno vengono dalla scheda dell'articolo e possono cambiare."
+          "Il negozio annuncia grandi sconti nella Mega Promozione 11.11, fino al 12 novembre. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo; prezzi e sconti cambiano per articolo. Il 4CW5Y è il codice invito: cercalo nell'app SHEIN, non al checkout, perché non è un coupon."
         ]
       },
       {
@@ -138724,7 +138724,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Der Shop kündigt bei der Mega-Aktion 11.11 bis zu 85 % Rabatt an, bis zum 12.11.2026. Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren. Die Rabatte und die Bewertung jedes Teils stammen von der Produktseite und können sich ändern."
+          "Der Shop kündigt bei der Mega-Aktion 11.11 hohe Rabatte an, bis zum 12.11. Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren; Preise und Rabatte ändern sich je Teil. 4CW5Y ist der Empfehlungscode: Suchen Sie ihn in der SHEIN-App, nicht an der Kasse, denn er ist kein Gutschein."
         ]
       },
       {
@@ -139588,7 +139588,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEIN は11.11メガセールを2026年11月12日まで開催し、最大85%オフと案内しています。Cecíliaは、パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選びました。各アイテムの割引と評価は商品ページのもので、変わることがあります。"
+          "SHEIN はメガセールを11月12日まで開催しています。Cecíliaは、パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選びました（価格と割引は商品ごとに変わります）。4CW5Y は紹介コードなので、アプリの検索バーで検索し、チェックアウトには入力しません。"
         ]
       },
       {
@@ -140452,7 +140452,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN은 11.11 메가 세일을 2026년 11월 12일까지 진행하며 최대 85% 할인이라고 안내합니다. Cecília는 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐습니다. 각 상품의 할인율과 평점은 상품 페이지 기준이며 바뀔 수 있습니다."
+          "SHEIN은 메가 세일을 11월 12일까지 진행합니다. Cecília는 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐습니다(가격과 할인은 상품마다 다릅니다). 4CW5Y는 추천 코드라서 앱 검색창에서 검색하며, 결제 화면에는 붙여 넣지 않습니다."
         ]
       },
       {
@@ -141316,7 +141316,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 称 11.11 大促最高减 85%，到 2026年11月12日结束。Cecília 挑了 19 件，分 5 组：睡衣、童装、女装、配饰和男装。每件的折扣和评分来自商品页，可能变动。"
+          "SHEIN 大促到 11 月 12 日结束。Cecília 挑了 19 件，分 5 组：睡衣、童装、女装、配饰和男装，价格和折扣因商品而异。4CW5Y 是推荐码，在 App 搜索栏搜索，不粘贴到结算页。"
         ]
       },
       {
@@ -142180,7 +142180,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 稱 11.11 大促最高減 85%，到 2026年11月12日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝。每件的折扣和評分來自商品頁，可能變動。"
+          "SHEIN 大促到 11 月 12 日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝，價格和折扣因商品而異。4CW5Y 是推薦碼，在 App 搜尋欄搜尋，不貼到結帳頁。"
         ]
       },
       {
@@ -143291,7 +143291,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote de 300 g tem o menor custo por grama entre as versões comparadas. O de 100 g é a compra menor e custa mais por grama; a Creapure tem o selo de origem; a monodose entrega a porção em sachê. Compare formato e custo antes de escolher."
+          "O pote de 300 g tem o menor custo por grama entre as versões comparadas. O de 100 g é a compra menor e custa mais por grama; a Creapure tem o selo de origem; a monodose entrega a porção em sachê. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções."
         ]
       },
       {
@@ -143536,7 +143536,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço por dose, o pote de 300 g ganha: cada porção de 5 g sai por menos da metade do preço do sachê. A monodose só compensa se a dose já separada valer essa diferença de preço para você; o guia mostra quando."
+          "Pelo preço por dose, o pote de 300 g ganha: cada porção de 5 g sai por menos da metade do preço do sachê. A monodose só compensa se a dose já separada valer essa diferença para você. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções."
         ]
       },
       {
@@ -143728,7 +143728,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com esse selo, custa 3,2 vezes o valor por grama do pote de 500 g. O que muda a escolha é o desembolso inicial, a quantidade que você vai usar e a preferência pelo selo."
+          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com esse selo, custa 3,2 vezes o valor por grama do pote de 500 g; a escolha depende do desembolso e do selo. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -143925,7 +143925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Hórus ou Égide",
         "paragraphs": [
-          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g sai mais barato por dose, porque rende 50 doses de 6 g, contra cerca de 36 no Hórus. Quem não quer cafeína tem o Night Train."
+          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g sai mais barato por dose, com 50 doses de 6 g contra cerca de 36 no Hórus, e o Night Train é a opção sem cafeína. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -144459,7 +144459,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Criador com IA da Hostinger, o antigo Horizons, vale a pena para quem quer um site ou um app web simples sem programar e aceita que a IA monte a primeira versão. Quem precisa de plugins, tema próprio e controle total segue melhor no WordPress. O que decide é o tipo de projeto; o quadro está abaixo."
+          "O Criador com IA da Hostinger, o antigo Horizons, vale a pena para quem quer um site ou um app web simples sem programar e aceita que a IA monte a primeira versão. Quem precisa de plugins, tema próprio e controle total segue melhor no WordPress. O SONAR20 dá 20% na compra nova do plano, não na renovação."
         ]
       },
       {
@@ -144772,7 +144772,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Hostinger's AI Builder, the former Horizons, is worth it if you want a simple website or web app without coding and you're fine with the AI building the first version. If you need plugins, your own theme and full control, WordPress is the better fit. What decides it is the type of project; the table is below."
+          "Hostinger's AI Builder, the former Horizons, is worth it if you want a simple website or web app without coding and you're fine with the AI building the first version. If you need plugins, your own theme and full control, WordPress is the better fit. SONAR20 gives 20% off a new plan purchase, not a renewal."
         ]
       },
       {
@@ -145036,7 +145036,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El creador con IA de Hostinger, el antiguo Horizons, vale la pena si quieres una web o una app web sencilla sin programar y aceptas que la IA monte la primera versión. Si necesitas plugins, un tema propio y control total, WordPress te conviene más. Lo que decide es el tipo de proyecto; el cuadro está más abajo."
+          "El creador con IA de Hostinger, el antiguo Horizons, vale la pena si quieres una web o una app web sencilla sin programar y aceptas que la IA monte la primera versión. Si necesitas plugins, un tema propio y control total, WordPress te conviene más. SONAR20 da 20 % en la compra nueva del plan, no en la renovación."
         ]
       },
       {
@@ -145300,7 +145300,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le créateur IA de Hostinger, l'ancien Horizons, vaut le coup pour qui veut un site ou une appli web simple sans coder et accepte que l'IA monte la première version. Qui a besoin de plugins, d'un thème à soi et d'un contrôle total est mieux sur WordPress. Ce qui tranche, c'est le type de projet ; le tableau est plus bas."
+          "Le créateur IA de Hostinger, l'ancien Horizons, vaut le coup pour qui veut un site ou une appli web simple sans coder et accepte que l'IA monte la première version. Qui a besoin de plugins, d'un thème à soi et d'un contrôle total est mieux sur WordPress. SONAR20 donne 20 % sur le nouvel achat du forfait, pas au renouvellement."
         ]
       },
       {
@@ -145564,7 +145564,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "L'AI Builder di Hostinger, l'ex Horizons, conviene a chi vuole un sito o un'app web semplici senza programmare e accetta che sia l'IA a montare la prima versione. Chi ha bisogno di plugin, di un tema proprio e del pieno controllo sta meglio su WordPress. Quello che decide è il tipo di progetto; la tabella è qui sotto."
+          "L'AI Builder di Hostinger, l'ex Horizons, conviene a chi vuole un sito o un'app web semplici senza programmare e accetta che sia l'IA a montare la prima versione. Chi ha bisogno di plugin, di un tema proprio e del pieno controllo sta meglio su WordPress. Il codice SONAR20 dà il 20% sull'acquisto nuovo del piano, non sul rinnovo."
         ]
       },
       {
@@ -145828,7 +145828,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der KI-Builder von Hostinger, das frühere Horizons, lohnt sich für alle, die eine einfache Website oder Web-App ohne Programmieren wollen und akzeptieren, dass die KI die erste Version baut. Wer Plugins, ein eigenes Theme und volle Kontrolle braucht, ist mit WordPress besser bedient. Entscheidend ist die Art des Projekts; die Tabelle steht weiter unten."
+          "Der KI-Builder von Hostinger, das frühere Horizons, lohnt sich für alle, die eine einfache Website oder Web-App ohne Programmieren wollen und akzeptieren, dass die KI die erste Version baut. Wer Plugins, ein eigenes Theme und volle Kontrolle braucht, ist mit WordPress besser bedient. Der Code SONAR20 gibt 20 % auf den Neukauf des Tarifs, nicht auf die Verlängerung."
         ]
       },
       {
@@ -146092,7 +146092,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Hostinger の AI Builder（旧 Horizons）は、プログラミングなしでシンプルなサイトや Web アプリを作りたく、最初のバージョンを AI に任せてよい人に向いています。プラグイン、独自テーマ、完全な制御が必要なら WordPress のほうが向いています。決め手はプロジェクトの種類で、早見表は下にあります。"
+          "Hostinger の AI Builder（旧 Horizons）は、プログラミングなしでシンプルなサイトや Web アプリを作りたく、最初のバージョンを AI に任せてよい人に向いています。プラグイン、独自テーマ、完全な制御が必要なら WordPress のほうが向いています。SONAR20 でプランの新規購入が 20% オフになります（更新は対象外）。"
         ]
       },
       {
@@ -146355,7 +146355,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger의 AI Builder(구 Horizons)는 코딩 없이 간단한 사이트나 웹 앱을 만들고 싶고, 첫 버전은 AI가 만들어도 괜찮은 사람에게 맞습니다. 플러그인, 직접 고른 테마, 완전한 제어가 필요하면 WordPress가 낫습니다. 결정하는 것은 프로젝트의 종류이며, 아래 표에 정리했습니다."
+          "Hostinger의 AI Builder(구 Horizons)는 코딩 없이 간단한 사이트나 웹 앱을 만들고 싶고, 첫 버전은 AI가 만들어도 괜찮은 사람에게 맞습니다. 플러그인, 직접 고른 테마, 완전한 제어가 필요하면 WordPress가 낫습니다. SONAR20 코드는 플랜 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
         ]
       },
       {
@@ -146619,7 +146619,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的 AI Builder（原 Horizons）适合想不写代码就做一个简单网站或 Web 应用、也接受由 AI 搭出第一版的人。需要插件、自己的主题和完全控制的，还是 WordPress 更合适。起决定作用的是项目类型，下面有一张表。"
+          "Hostinger 的 AI Builder（原 Horizons）适合想不写代码就做一个简单网站或 Web 应用、也接受由 AI 搭出第一版的人。需要插件、自己的主题和完全控制的，还是 WordPress 更合适。SONAR20 可让新购套餐享 20% 折扣，续费不适用。"
         ]
       },
       {
@@ -146883,7 +146883,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的 AI Builder（原 Horizons）適合想不寫程式就做一個簡單網站或 Web 應用程式、也接受由 AI 搭出第一版的人。需要外掛、自己的主題和完全控制的，還是 WordPress 比較合適。起決定作用的是專案類型，下面有一張表。"
+          "Hostinger 的 AI Builder（原 Horizons）適合想不寫程式就做一個簡單網站或 Web 應用程式、也接受由 AI 搭出第一版的人。需要外掛、自己的主題和完全控制的，還是 WordPress 比較合適。SONAR20 可讓新購方案享 20% 折扣，續訂不適用。"
         ]
       },
       {
@@ -149360,7 +149360,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para blog, portfólio ou loja pequena, comece comparando os planos de hospedagem compartilhada que atendem à sua aplicação. Considere VPS se precisa de configurações, programas ou acesso root indisponíveis nesses planos e tem quem mantenha o servidor. Não escolha só pelo nome do plano: o quadro por cenário e a conta de renovação ajudam a comparar."
+          "Para blog, portfólio ou loja pequena, comece comparando os planos de hospedagem compartilhada que atendem à sua aplicação. Considere VPS se precisa de configurações, programas ou acesso root indisponíveis nesses planos e tem quem mantenha o servidor. O código SONAR20 dá 20% na compra nova dos dois, exceto renovação e domínio."
         ]
       },
       {
@@ -149672,7 +149672,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "For a blog, portfolio or small shop, start by comparing shared plans that support your application. Consider a VPS when you need software, configuration or root access those plans do not provide, and someone to maintain the server. Choose by requirements, not by the plan name; the scenario table helps you compare."
+          "For a blog, portfolio or small shop, start by comparing shared plans that support your application. Consider a VPS when you need software, configuration or root access those plans do not provide, and someone to maintain the server. The code SONAR20 gives 20% off new purchases of either, not renewals or domains."
         ]
       },
       {
@@ -149916,7 +149916,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Para un blog, un portafolio o una tienda pequeña, empieza comparando los planes de hosting compartido que admiten tu aplicación. Considera un VPS si necesitas configuraciones, programas o acceso root que esos planes no ofrecen y tienes a alguien que mantenga el servidor. No elijas solo por el nombre del plan: el cuadro por escenario ayuda a comparar."
+          "Para un blog, un portafolio o una tienda pequeña, empieza comparando los planes de hosting compartido que admiten tu aplicación. Considera un VPS si necesitas configuraciones, programas o acceso root que esos planes no ofrecen y tienes a alguien que mantenga el servidor. El código SONAR20 da un 20% en compra nueva en ambos, sin renovaciones ni dominios."
         ]
       },
       {
@@ -150160,7 +150160,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour un blog, un portfolio ou une petite boutique, comparez d'abord les forfaits mutualisés compatibles avec votre application. Envisagez un VPS s'il vous faut des réglages, des logiciels ou un accès root absents de ces forfaits, et quelqu'un pour administrer le serveur. Ne choisissez pas seulement d'après le nom du forfait : le tableau par scénario aide à comparer."
+          "Pour un blog, un portfolio ou une petite boutique, comparez d'abord les forfaits mutualisés compatibles avec votre application. Envisagez un VPS s'il vous faut des réglages, des logiciels ou un accès root absents de ces forfaits, et quelqu'un pour administrer le serveur. Le code SONAR20 donne 20 % sur un nouvel achat pour les deux, hors renouvellement et domaines."
         ]
       },
       {
@@ -150404,7 +150404,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per un blog, un portfolio o un piccolo negozio, parti confrontando i piani di hosting condiviso che supportano la tua applicazione. Valuta un VPS se ti servono configurazioni, programmi o accesso root che questi piani non offrono e hai qualcuno che mantenga il server. Non scegliere solo dal nome del piano: il quadro per scenario aiuta a confrontare."
+          "Per un blog, un portfolio o un piccolo negozio, parti confrontando i piani di hosting condiviso che supportano la tua applicazione. Valuta un VPS se ti servono configurazioni, programmi o accesso root che questi piani non offrono e hai qualcuno che mantenga il server. Il codice SONAR20 dà il 20% sull'acquisto nuovo in entrambi, non su rinnovi né domini."
         ]
       },
       {
@@ -150648,7 +150648,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Für einen Blog, ein Portfolio oder einen kleinen Shop vergleichen Sie zuerst Shared-Hosting-Tarife, die Ihre Anwendung unterstützen. Ein VPS kommt infrage, wenn Sie Einstellungen, Software oder Root-Zugriff brauchen, die diese Tarife nicht bieten, und jemanden haben, der den Server betreut. Wählen Sie nicht nur nach dem Tarifnamen; die Tabelle nach Szenario hilft beim Vergleich."
+          "Für einen Blog, ein Portfolio oder einen kleinen Shop vergleichen Sie zuerst Shared-Hosting-Tarife, die Ihre Anwendung unterstützen. Ein VPS kommt infrage, wenn Sie Einstellungen, Software oder Root-Zugriff brauchen, die diese Tarife nicht bieten, und jemanden haben, der den Server betreut. Der Code SONAR20 gibt bei beiden 20 % auf Neukäufe, nicht auf Verlängerungen oder Domains."
         ]
       },
       {
@@ -150892,7 +150892,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "ブログ、ポートフォリオ、小さなショップなら、まずアプリケーションに対応した共有ホスティングのプランを比較してください。そのプランでは提供されないソフトウェア、設定、root 権限が必要で、管理を担う人もいるなら VPS を検討します。プラン名だけで決めず、下の表で必要な機能を比べましょう。"
+          "ブログ、ポートフォリオ、小さなショップなら、まずアプリケーションに対応した共有ホスティングのプランを比較してください。そのプランでは提供されないソフトウェア、設定、root 権限が必要で、管理を担う人もいるなら VPS を検討します。どちらも新規購入ならコード SONAR20 で 20% 割引になり、更新とドメインは対象外です。"
         ]
       },
       {
@@ -151136,7 +151136,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "블로그, 포트폴리오, 작은 쇼핑몰이라면 먼저 애플리케이션을 지원하는 공유 호스팅 플랜을 비교하세요. 해당 플랜에서 제공하지 않는 프로그램, 설정 또는 root 권한이 필요하고 서버를 관리할 사람도 있다면 VPS를 검토할 수 있습니다. 플랜 이름보다 요구 사항을 기준으로 아래 표를 살펴보세요."
+          "블로그, 포트폴리오, 작은 쇼핑몰이라면 먼저 애플리케이션을 지원하는 공유 호스팅 플랜을 비교하세요. 해당 플랜에서 제공하지 않는 프로그램, 설정 또는 root 권한이 필요하고 서버를 관리할 사람도 있다면 VPS를 검토할 수 있습니다. 신규 구매라면 둘 다 코드 SONAR20으로 20% 할인되고, 갱신과 도메인은 제외입니다."
         ]
       },
       {
@@ -151380,7 +151380,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "博客、作品集或小型网店，可以先比较兼容应用的共享主机套餐。如果需要这些套餐不提供的软件、配置或 root 权限，并且有人能维护服务器，再考虑 VPS。不要只按套餐名称决定；下表按使用场景比较需求。"
+          "博客、作品集或小型网店，可以先比较兼容应用的共享主机套餐。如果需要这些套餐不提供的软件、配置或 root 权限，并且有人能维护服务器，再考虑 VPS。两者新购时使用代码 SONAR20 均可享 20% 折扣，续费和域名除外。"
         ]
       },
       {
@@ -151624,7 +151624,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "部落格、作品集或小型網路商店，可以先比較支援應用的共享主機方案。如果需要這些方案沒有提供的軟體、設定或 root 權限，並且有人能維護伺服器，再考慮 VPS。別只看方案名稱；下表依使用情境比較需求。"
+          "部落格、作品集或小型網路商店，可以先比較支援應用的共享主機方案。如果需要這些方案沒有提供的軟體、設定或 root 權限，並且有人能維護伺服器，再考慮 VPS。兩者新購時使用代碼 SONAR20 均可享 20% 折扣，續約和網域除外。"
         ]
       },
       {
@@ -155494,7 +155494,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "As três malas de policarbonato da tabela custaram de 3,6 a 6 vezes a Detroit de ABS, sem ganhar litros e pesando mais. São modelos diferentes, não uma comparação isolada do material. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros."
+          "As três malas de policarbonato da tabela custaram de 3,6 a 6 vezes a Detroit de ABS, sem ganhar litros e pesando mais. São modelos diferentes, e as fichas não comparam a resistência: a decisão fica em preço, peso e litros. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -155736,7 +155736,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do produto. Nas malas da marca, a página traz garantia vitalícia com regulamento e medidas completas; nas mochilas e bolsas, a garantia tem prazo e falta em parte das linhas. A Downtown PP e a Mochila Tech aparecem como Travelcross no cadastro da loja."
+          "Depende do produto. Nas malas da marca, a página traz garantia vitalícia com regulamento e medidas completas; nas mochilas e bolsas, a garantia tem prazo e falta em parte das linhas; a Downtown PP e a Mochila Tech constam como Travelcross no cadastro da loja. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -155962,7 +155962,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço dos produtos, 24 dos 32 conjuntos conferidos não economizavam em relação às mesmas peças avulsas. Seis conjuntos disponíveis custavam menos. Isso só favorece o conjunto se você precisar de todas as malas; compare também o total com frete e desconto no carrinho."
+          "Pelo preço dos produtos, 24 dos 32 conjuntos conferidos não economizavam em relação às mesmas peças avulsas. Seis conjuntos disponíveis custavam menos. Isso só favorece o conjunto se você precisar de todas as malas; compare o total no carrinho, onde o CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -156244,7 +156244,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual hidratante corporal Skelt escolher",
         "paragraphs": [
-          "Os seis hidratantes corporais da Skelt custam o mesmo, então a fragrância se escolhe pelo perfil: cítrico, floral, frutado ou doce. O avulso de 200 g é a conta mais cara por 100 g. O kit de três hidratantes e os duos com body splash baixam essa conta, como mostra a tabela."
+          "Os seis hidratantes corporais da Skelt custam o mesmo, então a fragrância se escolhe pelo perfil: cítrico, floral, frutado ou doce. O avulso de 200 g é a conta mais cara por 100 g; o kit de três e os duos com body splash baixam essa conta. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
@@ -156503,7 +156503,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: vale o Solar Muse avulso ou em kit?",
         "paragraphs": [
-          "O Body Splash Solar Muse é vendido avulso, em frasco de 100 ml, pelo mesmo preço dos outros body splash da Skelt. Para só o Solar Muse, o frasco avulso basta. Dos oito conjuntos que o levam, o kit com Body Cream Amalfi Sunset é o que mais economiza, e compensa só se você quiser esse creme."
+          "O Body Splash Solar Muse é vendido avulso, em frasco de 100 ml, pelo mesmo preço dos outros body splash da Skelt, e para só ele o avulso basta. Dos oito conjuntos que o levam, o kit com Body Cream Amalfi Sunset economiza mais, se você quiser esse creme. O SKEMCASACOMCECILIA dá 10% em todo o site."
         ]
       },
       {
@@ -156714,7 +156714,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Milos Breeze avulso, no trio ou em miniatura",
         "paragraphs": [
-          "O Milos Breeze vem em frasco de 100 ml e também aparece no Trio Exotic Trip, com Grand Bahama e Pink Sands, e no Kit Miniaturas Exotic Set, em 15 ml. Pelos preços da tabela, o trio custava um pouco menos que os três avulsos; confira o valor atual antes de escolher."
+          "O Milos Breeze vem em frasco de 100 ml e também no Trio Exotic Trip, com Grand Bahama e Pink Sands, e no Kit Miniaturas Exotic Set, de 15 ml. Pelos preços da tabela, o trio custava um pouco menos que os três avulsos; confira o valor atual. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
@@ -156862,7 +156862,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo; o de dezoito acrescenta a colher; o de trinta acrescenta garfo e colher de sobremesa. Escolha pelos talheres que você precisa; depois compare cor, preço e estoque. O Branco era o mais barato entre os de trinta."
+          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo, o de dezoito acrescenta a colher e o de trinta, garfo e colher de sobremesa. Escolha pelos talheres de que precisa; o Branco era o mais barato entre os de trinta. Na Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
         ]
       },
       {
@@ -157093,7 +157093,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido: um jogo americano e um guardanapo por pessoa, que já mudam a mesa com os pratos e talheres de casa. Depois vêm os talheres, a maior compra de uma vez, e por último os pratos. As duas faixas de preço estão nas tabelas abaixo."
+          "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido: um jogo americano e um guardanapo por pessoa, que já mudam a mesa. Depois vêm os talheres, a maior compra de uma vez, e por último os pratos. No site da Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
         ]
       },
       {
@@ -157387,7 +157387,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Entre as medidas das fichas, nossa sugestão é o de 45 x 45 cm para almoço e jantar, e o de 40 x 40 cm para café e lanche."
+          "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Entre as medidas das fichas, nossa sugestão é o de 45 x 45 cm para almoço e jantar, e o de 40 x 40 cm para café e lanche. No site da Let's Eat It, o código MAUAD dá 5%."
         ]
       },
       {
@@ -157621,7 +157621,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Comece medindo o prato e o espaço disponível por pessoa. Nos modelos comparados, o redondo deixa uma borda em volta do prato, e o retangular dá mais largura nas laterais para os talheres; use as contas abaixo e escolha a cor depois."
+          "Comece medindo o prato e o espaço disponível por pessoa. Nos modelos comparados, o redondo deixa uma borda em volta do prato, e o retangular dá mais largura nas laterais para os talheres; a cor fica para depois. No site da Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
         ]
       },
       {
@@ -157888,7 +157888,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Hostinger Reach compensa para quem já tem site na Hostinger e uma lista de até 1.000 destinatários: o preço publicado fica abaixo do Mailchimp e do Brevo pagos. Quem está começando sem verba pode usar o plano grátis do Mailchimp ou do Brevo antes. O que decide é o limite de envio e o WhatsApp, no quadro abaixo."
+          "O Hostinger Reach compensa para quem já tem site na Hostinger e uma lista de até 1.000 destinatários: o preço fica abaixo do Mailchimp e do Brevo pagos. Quem começa sem verba pode usar antes o plano grátis de um deles. O limite de envio e o WhatsApp decidem; o SONAR20 dá 20% no primeiro período, só em compra nova."
         ]
       },
       {
@@ -158174,7 +158174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Reach is worth it for anyone who already has a site on Hostinger and a list of up to 1,000 recipients. Anyone starting with no budget can use the free plan of Mailchimp or Brevo first. What decides it is the sending limit and WhatsApp, in the chart below."
+          "Reach is worth it for anyone who already has a site on Hostinger and a list of up to 1,000 recipients. Anyone starting with no budget can use the free plan of Mailchimp or Brevo first. The sending limit and WhatsApp decide; SONAR20 gives 20% on the first period of a new purchase."
         ]
       },
       {
@@ -158428,7 +158428,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Reach compensa a quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. Quien empieza sin presupuesto puede usar antes el plan gratis de Mailchimp o de Brevo. Lo que decide es el límite de envío y el WhatsApp, en el cuadro de abajo."
+          "Reach compensa a quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. Quien empieza sin presupuesto puede usar antes el plan gratis de Mailchimp o de Brevo. Deciden el límite de envío y el WhatsApp; SONAR20 da 20% en el primer periodo de una compra nueva."
         ]
       },
       {
@@ -158682,7 +158682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Qui débute sans budget peut d'abord utiliser le forfait gratuit de Mailchimp ou de Brevo. Ce qui tranche, c'est la limite d'envoi et WhatsApp, dans le tableau ci-dessous."
+          "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Qui débute sans budget peut d'abord utiliser le forfait gratuit de Mailchimp ou de Brevo. La limite d'envoi et WhatsApp tranchent ; SONAR20 donne 20 % sur la première période d'un nouvel achat."
         ]
       },
       {
@@ -158936,7 +158936,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Reach conviene a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Chi parte senza budget può usare prima il piano gratuito di Mailchimp o di Brevo. A decidere sono il limite di invio e WhatsApp, nel quadro qui sotto."
+          "Reach conviene a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Chi parte senza budget può usare prima il piano gratuito di Mailchimp o di Brevo. Decidono il limite di invio e WhatsApp; SONAR20 dà il 20% sul primo periodo di un nuovo acquisto."
         ]
       },
       {
@@ -159193,7 +159193,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Reach lohnt sich für alle, die schon eine Website bei Hostinger und eine Liste mit bis zu 1.000 Empfängern haben. Wer ohne Budget startet, kann zuerst den kostenlosen Tarif von Mailchimp oder Brevo nutzen. Entscheidend sind das Versandlimit und WhatsApp, in der Tabelle unten."
+          "Reach lohnt sich für alle, die schon eine Website bei Hostinger und eine Liste mit bis zu 1.000 Empfängern haben. Wer ohne Budget startet, kann zuerst den kostenlosen Tarif von Mailchimp oder Brevo nutzen. Versandlimit und WhatsApp entscheiden; SONAR20 gibt 20 % auf den ersten Zeitraum eines Neukaufs."
         ]
       },
       {
@@ -159450,7 +159450,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Hostinger のサイトをすでにお持ちで、宛先が1,000件までなら Reach が合っています。予算をかけずに始めるなら、先に Mailchimp か Brevo の無料プランを使うのも手です。決め手は送信上限と WhatsApp で、下の表にまとめました。"
+          "Hostinger のサイトをすでにお持ちで、宛先が1,000件までなら Reach が合っています。予算をかけずに始めるなら、先に Mailchimp か Brevo の無料プランを使うのも手です。決め手は送信上限と WhatsApp で、SONAR20 は新規購入の最初の期間が 20% 割引です。"
         ]
       },
       {
@@ -159706,7 +159706,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면 Reach가 맞습니다. 예산 없이 시작한다면 Mailchimp나 Brevo의 무료 플랜이 먼저입니다. 결정은 발송 한도와 WhatsApp이 합니다. 아래 표를 보세요."
+          "Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면 Reach가 맞습니다. 예산 없이 시작한다면 Mailchimp나 Brevo의 무료 플랜이 먼저입니다. 결정은 발송 한도와 WhatsApp이 하고, SONAR20은 신규 구매의 첫 기간에 20% 할인됩니다."
         ]
       },
       {
@@ -159963,7 +159963,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已在 Hostinger 有网站，且收件人在 1,000 人以内，Reach 值得用。刚开始、没有预算的话，可以先用 Mailchimp 或 Brevo 的免费版。真正决定选择的是发送上限和 WhatsApp，见下表。"
+          "如果你已在 Hostinger 有网站，且收件人在 1,000 人以内，Reach 值得用。刚开始、没有预算的话，可以先用 Mailchimp 或 Brevo 的免费版。决定选择的是发送上限和 WhatsApp，SONAR20 对新购的首个周期减 20%。"
         ]
       },
       {
@@ -160220,7 +160220,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，Reach 值得用。剛開始、沒有預算的話，可以先用 Mailchimp 或 Brevo 的免費版。真正決定選擇的是寄送上限和 WhatsApp，見下表。"
+          "如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，Reach 值得用。剛開始、沒有預算的話，可以先用 Mailchimp 或 Brevo 的免費版。決定選擇的是寄送上限和 WhatsApp，SONAR20 對新購的首個週期減 20%。"
         ]
       },
       {
@@ -160477,7 +160477,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Antes de escolher, confira se o plano atende à aplicação, ao espaço e ao backup do projeto, não só ao número de sites."
+          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Antes de escolher, confira se o plano atende à aplicação, ao espaço e ao backup do projeto, não só ao número de sites. O SONAR20 dá 20% na compra nova da Hostinger, não na renovação."
         ]
       },
       {
@@ -160815,7 +160815,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. Start with your application's requirements, not just site count, then compare the monthly price with the renewal next to it, in the table below."
+          "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. Start with your application's requirements, not just site count. SONAR20 gives 20% off a new Hostinger purchase, not a renewal."
         ]
       },
       {
@@ -161056,7 +161056,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Por la renovación, el Premium de Hostinger es el plan más barato, y el Unlimited es el de muchos sitios, sin límite de sitios. Antes de elegir, confirma que el plan cubre la aplicación, el espacio y el backup, no solo la cantidad de sitios."
+          "Por la renovación, el Premium de Hostinger es el plan más barato, y el Unlimited es el de muchos sitios, sin límite de sitios. Antes de elegir, confirma que el plan cubre la aplicación, el espacio y el backup, no solo la cantidad de sitios. El código SONAR20 da 20 % en compra nueva, no en la renovación."
         ]
       },
       {
@@ -161297,7 +161297,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Au renouvellement, le forfait Premium de Hostinger est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Avant de choisir, vérifiez que le forfait couvre l'application, l'espace et la sauvegarde, pas seulement le nombre de sites."
+          "Au renouvellement, le forfait Premium de Hostinger est le moins cher, et Unlimited est celui des nombreux sites, sans limite de sites. Avant de choisir, vérifiez que le forfait couvre l'application, l'espace et la sauvegarde, pas seulement le nombre de sites. Le code SONAR20 donne 20 % sur un nouvel achat, pas au renouvellement."
         ]
       },
       {
@@ -161538,7 +161538,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Guardando il rinnovo, il Premium della Hostinger è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Prima di scegliere, verifica che il piano copra applicazione, spazio e backup, non solo il numero di siti."
+          "Guardando il rinnovo, il Premium della Hostinger è il piano più economico, e l'Unlimited è quello per molti siti, senza limite di siti. Prima di scegliere, verifica che il piano copra applicazione, spazio e backup, non solo il numero di siti. Il codice SONAR20 dà il 20% su un acquisto nuovo, non sul rinnovo."
         ]
       },
       {
@@ -161779,7 +161779,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Bei der Verlängerung ist Hostingers Premium der günstigste Tarif, und der Unlimited ist der Tarif für viele Websites, ohne Begrenzung der Websites. Prüfen Sie vor der Wahl, ob der Tarif Anwendung, Speicher und Backup abdeckt, nicht nur die Anzahl der Websites."
+          "Bei der Verlängerung ist Hostingers Premium der günstigste Tarif, und der Unlimited ist der Tarif für viele Websites, ohne Begrenzung der Websites. Prüfen Sie vor der Wahl, ob der Tarif Anwendung, Speicher und Backup abdeckt, nicht nur die Anzahl der Websites. Der Code SONAR20 gibt 20 % auf einen Neukauf, nicht auf die Verlängerung."
         ]
       },
       {
@@ -162020,7 +162020,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安で、アプリの要件も先に確かめてください。割引は48か月続くので、月額に直して更新料を横に並べた表を下に載せました。"
+          "レンタルサーバーは、最初の期間の割引ではなく、更新料を月額で比べて選びます。3サイトまでならHostingerのPremium、それより多いならUnlimitedが目安で、アプリの要件も先に確かめてください。SONAR20 を使うと、Hostinger の新規購入が 20% オフになります（更新は対象外）。"
         ]
       },
       {
@@ -162260,7 +162260,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 호스팅어 Premium, 그보다 많으면 Unlimited를 보되 애플리케이션 요구 사항부터 확인하세요. 프로모션은 48개월이므로, 월 단위 가격에 갱신가를 나란히 둔 표를 아래에 실었습니다."
+          "호스팅은 첫 기간의 할인이 아니라 갱신가를 월 단위로 비교해 고릅니다. 사이트가 3개까지면 호스팅어 Premium, 그보다 많으면 Unlimited를 보되 애플리케이션 요구 사항부터 확인하세요. SONAR20 코드는 호스팅어 신규 구매에 20% 할인을 주며, 갱신에는 적용되지 않습니다."
         ]
       },
       {
@@ -162501,7 +162501,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited，但要先确认应用、空间和备份需求。促销期为 48 个月，所以下面的表格按月列出价格，并把续费价放在旁边。"
+          "选主机不要看首期的折扣，要把续费价按月并排比较。网站在 3 个以内，看 Hostinger 的 Premium；网站更多，看 Unlimited，但要先确认应用、空间和备份需求。SONAR20 可让 Hostinger 新购享 20% 折扣，续费不适用。"
         ]
       },
       {
@@ -162742,7 +162742,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited，但要先確認應用程式、空間與備份需求。促銷期為 48 個月，所以下面的表格按月列出價格，並把續訂價放在旁邊。"
+          "選主機不要看首期的折扣，要把續訂價按月並排比較。網站在 3 個以內，看 Hostinger 的 Premium；網站更多，看 Unlimited，但要先確認應用程式、空間與備份需求。SONAR20 可讓 Hostinger 新購享 20% 折扣，續訂不適用。"
         ]
       },
       {
@@ -162983,7 +162983,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem já decidiu usar WordPress na Hostinger, o plano Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. O WordPress vem em todos; o que muda a escolha é o número de sites, o backup e a renovação, na tabela abaixo."
+          "Para quem já decidiu usar WordPress na Hostinger, o Single atende um site, o Premium até três, e o Unlimited ou o Cloud Startup servem para vários sites ou loja, com backups diários. Decidem o número de sites, o backup e a renovação. O SONAR20 dá 20% no primeiro período de uma compra nova; renovação e domínio ficam fora."
         ]
       },
       {
@@ -163217,7 +163217,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "If you have already decided to use WordPress on Hostinger, the Premium plan covers up to three sites. Unlimited serves several sites or a store, with daily backups, and Cloud Startup is for heavy traffic. What decides the choice is the number of sites, the backup and the renewal price, in the table below."
+          "If you have already decided to use WordPress on Hostinger, Premium covers up to three sites, Unlimited serves several sites or a store with daily backups, and Cloud Startup is for heavy traffic. The number of sites, the backup and the renewal price decide. SONAR20 gives 20% off the first period of a new purchase; renewals and domains are excluded."
         ]
       },
       {
@@ -163432,7 +163432,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Si ya decidiste usar WordPress en Hostinger, el plan Premium cubre hasta tres sitios. Unlimited sirve para varios sitios o una tienda, con backups diarios, y Cloud Startup, para mucho tráfico. Lo que decide la elección es el número de sitios, el backup y el precio de renovación, en la tabla de abajo."
+          "Si ya decidiste usar WordPress en Hostinger, Premium cubre hasta tres sitios, Unlimited sirve para varios sitios o una tienda con backups diarios, y Cloud Startup, para mucho tráfico. Deciden el número de sitios, el backup y la renovación. SONAR20 da un 20% en el primer período de una compra nueva; renovación y dominio quedan fuera."
         ]
       },
       {
@@ -163647,7 +163647,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si vous avez déjà décidé d'utiliser WordPress chez Hostinger, le forfait Premium couvre jusqu'à trois sites. Unlimited, qui inclut des sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du prix du renouvellement, dans le tableau ci-dessous."
+          "Si vous avez déjà choisi WordPress chez Hostinger, Premium couvre jusqu'à trois sites ; Unlimited, avec sauvegardes quotidiennes, convient à plusieurs sites ou à une boutique, et Cloud Startup au trafic important. Le choix dépend du nombre de sites, de la sauvegarde et du renouvellement. SONAR20 donne 20 % sur la première période d'un nouvel achat ; renouvellement et domaine sont exclus."
         ]
       },
       {
@@ -163862,7 +163862,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per chi ha già deciso di usare WordPress su Hostinger, il piano Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, e Unlimited ha i backup giornalieri. WordPress c'è in tutti i piani: numero di siti, backup e rinnovo decidono, nella tabella sotto."
+          "Per chi ha già deciso di usare WordPress su Hostinger, Premium copre fino a tre siti, mentre Unlimited o Cloud Startup servono per più siti o un negozio, e Unlimited ha i backup giornalieri. Decidono numero di siti, backup e rinnovo. SONAR20 dà il 20% sul primo periodo di un nuovo acquisto; rinnovo e dominio sono esclusi."
         ]
       },
       {
@@ -164077,7 +164077,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Wer bei Hostinger schon WordPress nutzen will, nimmt Premium für bis zu drei Websites. Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht; tägliche Backups hat der Unlimited. WordPress ist in allen Tarifen enthalten; die Wahl hängt von der Anzahl der Websites, dem Backup und der Verlängerung ab, wie in der Tabelle unten."
+          "Wer bei Hostinger schon WordPress nutzen will, nimmt Premium für bis zu drei Websites; Unlimited und Cloud Startup sind für mehrere Websites oder einen Shop gedacht, tägliche Backups hat der Unlimited. Entscheidend sind Anzahl der Websites, Backup und Verlängerung. Mit SONAR20 gibt es 20 % im ersten Zeitraum eines Neukaufs; Verlängerung und Domains sind ausgeschlossen."
         ]
       },
       {
@@ -164292,7 +164292,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "すでに Hostinger で WordPress を使うと決めている人には、Premium は3サイトまで、Unlimited と Cloud Startup は複数サイトやショップ向けで、Unlimited には毎日のバックアップが付きます。違いはサイト数、バックアップ、更新料です。下の表で比べてください。"
+          "すでに Hostinger で WordPress を使うと決めている人には、Premium は3サイトまで、Unlimited と Cloud Startup は複数サイトやショップ向けで、Unlimited には毎日のバックアップが付きます。違いはサイト数、バックアップ、更新料です。SONAR20は新規購入の初回契約期間が20%割引で、更新とドメインは対象外です。"
         ]
       },
       {
@@ -164506,7 +164506,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "WordPress를 호스팅어에서 쓰기로 했다면, Premium은 사이트 3개까지 맞고, Unlimited는 여러 사이트나 스토어에 맞으며 백업을 매일 받습니다. Cloud Startup은 트래픽이 많은 스토어와 사이트를 위한 플랜입니다. 고르는 기준은 사이트 수, 백업, 갱신가입니다. 아래 표를 보세요."
+          "WordPress를 호스팅어에서 쓰기로 했다면, Premium은 사이트 3개까지 맞고, Unlimited는 여러 사이트나 스토어에 맞으며 백업을 매일 받고, Cloud Startup은 트래픽이 많은 사이트용입니다. 고르는 기준은 사이트 수, 백업, 갱신가입니다. SONAR20은 신규 구매 첫 계약 기간에 20% 할인되며 갱신과 도메인은 제외됩니다."
         ]
       },
       {
@@ -164721,7 +164721,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已经决定在 Hostinger 上使用 WordPress：Premium 可放 3 个网站；Unlimited 适合多个网站或网店，每日备份；Cloud Startup 适合流量很大的网店和网站。决定选择的是网站数量、备份和续费价。下面有一张表。"
+          "如果你已经决定在 Hostinger 上使用 WordPress：Premium 可放 3 个网站；Unlimited 适合多个网站或网店，每日备份；Cloud Startup 适合流量很大的网店和网站。决定选择的是网站数量、备份和续费价。SONAR20 可在新购的首个周期享 20% 折扣，续费与域名除外。"
         ]
       },
       {
@@ -164936,7 +164936,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已經決定在 Hostinger 上使用 WordPress：Premium 最多可放 3 個網站；Unlimited 適合多個網站或網路商店，每日備份；Cloud Startup 適合流量很大的商店與網站。真正影響選擇的是網站數量、備份與續約價。下方有一張表格。"
+          "如果你已經決定在 Hostinger 上使用 WordPress：Premium 最多可放 3 個網站；Unlimited 適合多個網站或網路商店，每日備份；Cloud Startup 適合流量很大的商店與網站。真正影響選擇的是網站數量、備份與續約價。SONAR20 可在新購的首個週期享 20% 折扣，續約與網域除外。"
         ]
       },
       {
@@ -165135,7 +165135,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross, e a garantia vitalícia não vale para ela. Confira o selo BORDO e a medida na página do produto antes de comprar."
+          "A Detroit ABS Preta, de 10 kg, é a mala de bordo de marca Bagaggio mais barata da lista, com 55 × 35 × 23 cm. A Downtown PP, de 8 kg, custa menos, mas é da Travelcross e fica sem garantia vitalícia. Confira selo BORDO e medida; o CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -165381,7 +165381,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na seleção da Bagaggio, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Esses nomes ajudam a comparar o catálogo. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm."
+          "Na seleção, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -165653,7 +165653,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para gastar pouco, a Horizonte Slim está entre as três mais baratas, e a descrição oficial diz que ela serve para notebook de até 15,6 polegadas. Se você quer couro, a faixa de preço é bem mais alta. O que muda a escolha é o tamanho do seu notebook, e a tabela abaixo mostra a medida de cada modelo."
+          "Para gastar pouco, a Horizonte Slim está entre as três mais baratas, e a descrição oficial diz que ela serve para notebook de até 15,6 polegadas. Se você quer couro, a faixa de preço é bem mais alta; o que muda a escolha é o tamanho do seu notebook. O CECILIA10 dá 10% OFF em todo o site."
         ]
       },
       {
@@ -166186,7 +166186,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, só três trazem garantia na ficha, de 90 dias; nos demais, vale a garantia legal. Se a criança quer um personagem, veja a seção de licenciadas."
+          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, só três trazem garantia na ficha, de 90 dias; nos demais, vale a garantia legal. O CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
         ]
       },
       {
@@ -166422,7 +166422,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para hoje, o Bronzeado Instantâneo é uma maquiagem corporal que a Skelt informa durar de 12 a 24 horas. Para uma cor por mais dias, a marca informa duração de 7 a 12 dias para o mousse e a água autobronzeadores."
+          "Para hoje, o Bronzeado Instantâneo é uma maquiagem corporal que a Skelt informa durar de 12 a 24 horas. Para uma cor por mais dias, a marca informa duração de 7 a 12 dias para o mousse e a água autobronzeadores. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt e soma com o Pix."
         ]
       },
       {
@@ -166599,7 +166599,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Espere pelo menos 3 dias depois de aplicar o autobronzeador. Depois, aplique o Removedor de Autobronzeador Skelt na pele seca, deixe agir por no mínimo 3 minutos e retire com toalha ou esponja molhadas em água morna. A seção sobre o Bifásico traz a outra regra da marca."
+          "Espere pelo menos 3 dias depois de aplicar o autobronzeador. Depois, aplique o Removedor de Autobronzeador Skelt na pele seca, deixe agir por no mínimo 3 minutos e retire com toalha ou esponja molhadas em água morna; o Bifásico tem outra regra. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
@@ -166749,7 +166749,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Segundo a Skelt, aplique o iluminador com as mãos ou a luva, espalhe em movimentos circulares até uniformizar a cor e espere secar antes de se vestir. A marca indica corpo e rosto, com duração de 12 a 24 horas. Para escolher entre o avulso e o kit, veja a comparação de preços abaixo."
+          "Segundo a Skelt, aplique o iluminador com as mãos ou a luva, espalhe em movimentos circulares até uniformizar a cor e espere secar antes de se vestir. A marca indica corpo e rosto, com duração de 12 a 24 horas. No site da Skelt, o SKEMCASACOMCECILIA dá 10% de desconto no avulso e no kit."
         ]
       },
       {
@@ -167407,7 +167407,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Entre os três sutiãs Comfort da Toda Up, a faixa de tamanho pesa mais: o Comfort Up vai do PP ao G3, o Comfort Line começa no P e o Comfort Slim vai do PP ao GG. Para usar em tomara que caia ou com as alças combinadas, a loja destaca o Line, e a seção dele explica como."
+          "Entre os três sutiãs Comfort da Toda Up, a faixa de tamanho pesa mais: o Comfort Up vai do PP ao G3, o Comfort Line começa no P e o Comfort Slim vai do PP ao GG. Para tomara que caia ou alças combinadas, a loja destaca o Line. O código MAUAD dá 10% nos três, no site oficial."
         ]
       },
       {
@@ -168445,7 +168445,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A taça base esfera da Let's Eat It vem em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. Há o conjunto de 450 ml e o de champanhe, de 250 ml; os preços estão na tabela abaixo. Antes de escolher, conte quantas pessoas vão à mesa."
+          "A taça base esfera da Let's Eat It vem em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. Há o conjunto de 450 ml e o de champanhe, de 250 ml. Antes de escolher, conte quantas pessoas vão à mesa; no site, o código MAUAD dá 5%."
         ]
       },
       {
@@ -174116,7 +174116,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelas medidas da loja e pelas regras de LATAM e Azul, Airtrack, Royale e Explore sem expandir ficam no limite do item pessoal. Voyage e Donna Grande passam dos 45 cm de altura. A escolha depende da companhia, da franquia da passagem e da medida da mochila carregada."
+          "Pelas medidas da loja e pelas regras de LATAM e Azul, Airtrack, Royale e Explore sem expandir ficam no limite do item pessoal. Voyage e Donna Grande passam dos 45 cm de altura. A escolha depende da companhia, da franquia e da mochila carregada; o CECILIA10 dá 10% OFF em todo o site, um cupom por pedido."
         ]
       },
       {
@@ -174434,7 +174434,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata, com dois tops e uma calcinha. O que muda a escolha é a roupa por cima e a faixa de tamanho, na tabela abaixo."
+          "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata. O que muda a escolha é a roupa por cima e a faixa de tamanho; o código MAUAD dá 10% nas duas."
         ]
       },
       {
@@ -175061,7 +175061,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Toda Up, compensam os kits de três conjuntos Cotton Up ou SkinUp, o Kit Comfort Up, o Kit Invisible Up e os dois kits de sutiã Comfort com protetor. O kit de um conjunto só quase não economiza. O que pesa é quantas peças você usaria de verdade; a conta de cada kit está abaixo."
+          "Na Toda Up, compensam os kits de três conjuntos Cotton Up ou SkinUp, o Kit Comfort Up, o Kit Invisible Up e os dois de sutiã com protetor; o de um conjunto só quase não economiza. O que pesa é quantas peças você usaria. O código MAUAD é de 10% no site; confira no carrinho se entra no kit."
         ]
       },
       {
@@ -175411,7 +175411,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, sim: o whey 80% HD declara 23 g de proteína em cada 30 g de dose e teve o menor custo por proteína entre os cinco wheys comparados. O nome \"100%\" do 100% HD não indica a porcentagem de proteína do pó, e a Creator traz só creatina monohidratada."
+          "Pelo rótulo, sim: o whey 80% HD declara 23 g de proteína em cada 30 g de dose e teve o menor custo por proteína entre os cinco wheys comparados. O \"100%\" do 100% HD não indica a proteína do pó, e a Creator traz só creatina monohidratada. O CECILIA10 dá 10% OFF em todo o site da Black Skull."
         ]
       },
       {
@@ -175799,7 +175799,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é boa: o whey da Max Titanium declara a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. Os números estão no resumo abaixo."
+          "Pelo rótulo, é boa: o whey da Max Titanium declara a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -175972,7 +175972,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O 100% Pure Whey declara o tipo de proteína e a proteína por dose; o Zero Lactose declara \"sem lactose\", e a creatina traz 5 g por porção. Para escolher, compare a composição, o aviso de alergênicos e o preço de cada versão."
+          "O 100% Pure Whey declara o tipo de proteína e a proteína por dose; o Zero Lactose declara \"sem lactose\", e a creatina traz 5 g por porção. Para escolher, compare composição, alergênicos e preço. No site oficial, o PRO10EMCASACOMCECILIA dá até 10% OFF, com variação por produto."
         ]
       },
       {
@@ -176165,7 +176165,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim. A Simple Organic é a marca da Simple Organic Beauty S.A., empresa ativa de Florianópolis com o CNPJ no rodapé do site e, pela própria marca, parte da Hypera Pharma desde 2020. O que pesa é o prazo de troca, só 7 dias com o lacre inviolado; veja abaixo se ele cabe na sua compra."
+          "Sim: a Simple Organic é a marca da Simple Organic Beauty S.A., empresa ativa de Florianópolis com o CNPJ no rodapé do site e, pela própria marca, parte da Hypera Pharma desde 2020. O que pesa é o prazo de troca, só 7 dias com o lacre inviolado. No site oficial, o S-EMCASACOMCECILIA dá 5% OFF em tudo."
         ]
       },
       {
@@ -177127,7 +177127,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, a Mais Mu é boa no que publica: o Exquenta e as barras trazem tabela nutricional completa. No whey, a loja declara proteína por dose, mas faltam tabelas completas na maioria dos sabores. A escolha depende do que você precisa conferir: composição, tamanho da unidade e preço, detalhados por linha abaixo."
+          "Pelo rótulo, a Mais Mu é boa no que publica: o Exquenta e as barras trazem tabela nutricional completa. No whey, a loja declara proteína por dose, mas faltam tabelas completas na maioria dos sabores. O código MMEMCASACOMCECILIA dá 10% no site oficial, e a escolha depende de composição, tamanho da unidade e preço."
         ]
       },
       {
@@ -177538,7 +177538,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. A lactose pesa em tudo o que publica aviso, da pasta ao wafer, e o glúten no whey e em parte dos snacks; o alfajor não publica aviso. Os capítulos abaixo mostram cada rótulo."
+          "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. A lactose pesa em tudo o que publica aviso, e o glúten no whey e em parte dos snacks; o alfajor não publica aviso. O código DREMCASACOMCECILIA dá 10% no site oficial."
         ]
       },
       {
@@ -177768,7 +177768,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha, com rótulos publicados para comparar. Nos doces, confira a versão, porque nomes parecidos têm fórmulas diferentes. O preço por unidade e o frete por região pesam na decisão."
+          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha, com rótulos publicados para comparar. Nos doces, confira a versão, porque nomes parecidos têm fórmulas diferentes. Preço por unidade e frete por região pesam, e no site oficial o código MAUAD dá 10% OFF em tudo."
         ]
       },
       {
@@ -178508,7 +178508,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que muda a decisão é o carboidrato: a conta é com o nutricionista, e os números estão na tabela por 100 g."
+          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que decide é o carboidrato, e a conta é com o nutricionista; no site oficial, o código MAUAD dá 10% OFF."
         ]
       },
       {
@@ -178742,7 +178742,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem escolhe pelo rótulo: a Skelt declara intensidade, duração e nível da maioria dos autobronzeadores, e as notas de cada body splash. O cupom tira 10% de tudo. O que muda a escolha é o tipo e a intensidade do autobronzeador, e a fragrância do body splash; o capítulo de cada linha diz qual serve para quem."
+          "Sim, para quem escolhe pelo rótulo: a Skelt declara intensidade, duração e nível da maioria dos autobronzeadores, e as notas de cada body splash. O que muda a escolha é o tipo e a intensidade do autobronzeador, e a fragrância do body splash. O SKEMCASACOMCECILIA tira 10% de tudo no site da Skelt."
         ]
       },
       {
@@ -179187,7 +179187,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem procura travesseiro: a I Wanna Sleep vende dez modelos e informa altura, material e tamanho, e é por isso que se escolhe. Melatonina e spray entram só pelo rótulo, e colchão não se compra pelo site. O que muda a conta é o kit e o código; veja os capítulos de kits e de compra."
+          "Sim, para quem procura travesseiro: a I Wanna Sleep vende dez modelos e informa altura, material e tamanho, e é por isso que se escolhe. Melatonina e spray entram só pelo rótulo, e colchão não se compra pelo site. O que muda a conta é o kit e o código CECIEMCASA, de 10% OFF em todo o site."
         ]
       },
       {
@@ -179563,7 +179563,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10% que soma com as promoções. Camisetas e bodies saem em P, M e G. O que muda a escolha é o tamanho e o preço por peça do kit; veja os capítulos da camiseta e do cupom."
+          "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis. Camisetas e bodies saem em P, M e G; o que muda a escolha é o tamanho e o preço por peça do kit. O CSEMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções."
         ]
       },
       {
@@ -179909,7 +179909,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Toda Up, comece pelo formato da peça e pela tabela de medidas do modelo. Os três Comfort têm o mesmo tecido e preço de lista, mas tamanhos e alças diferentes; só o Comfort Up chega ao G3. SkinUp serve para roupa justa ou de alça fina, e Cotton Up para algodão e roupa larga."
+          "Na Toda Up, comece pelo formato da peça e pela tabela de medidas do modelo. Os três Comfort têm o mesmo tecido e preço de lista, mas só o Comfort Up chega ao G3; SkinUp serve para roupa justa e Cotton Up para algodão e roupa larga. O código MAUAD dá 10% no site oficial, inclusive em peça em promoção."
         ]
       },
       {
@@ -180309,7 +180309,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial da marca. O que pesa contra é o prazo de entrega e a peça frágil; veja os capítulos de frete e de louça."
+          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial. O que pesa contra é o prazo de entrega e a peça frágil. No site, o código MAUAD dá 5% e soma com o Pix."
         ]
       },
       {
@@ -187990,7 +187990,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para comprar, com atenção à entrega: a HolyFoods tem CNPJ ativo e loja online própria. No Reclame Aqui a reputação é Boa, e a entrega é o principal ponto de atenção. Veja como conferir o site e acompanhar o pedido."
+          "Dá para comprar, com atenção à entrega: a HolyFoods tem CNPJ ativo e loja online própria. No Reclame Aqui a reputação é Boa, e a entrega é o principal ponto de atenção. Na loja online, o EMCASA dá 15% OFF em todo o site."
         ]
       },
       {
@@ -189645,7 +189645,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Blumi não é a Fita Up com outro nome: é uma marca mais nova da Brandness, a mesma dona da Fita Up, com CNPJ próprio, e não vende fita adesiva. Para fita, a escolha fica entre a Fita Up, em três larguras, e a Lib, um rolo que se corta no decote: o que pesa está em \"Qual escolher\"."
+          "A Blumi não é a Fita Up com outro nome: é uma marca mais nova da mesma dona, com CNPJ próprio, e não vende fita adesiva. Para fita, a escolha fica entre a Fita Up, em três larguras, e a Lib, um rolo que se corta no decote. O código MAUAD dá 10% só no site oficial da Toda Up."
         ]
       },
       {
@@ -189822,7 +189822,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Entre as duas de modal, a Tech T-Shirt da Insider tem garantia de cor e, com cupom, fica quase no preço da Tech Modal da Minimal. Entre Core e Camiseta Minimal, a escolha é viscose ou algodão com elastano. A Minimal Club dá mais prazo para trocar por tamanho."
+          "Entre as duas de modal, a Tech T-Shirt da Insider tem garantia de cor e, com o EMCASACOMCECILIA (15% OFF, exceto lançamentos), fica quase no preço da Tech Modal da Minimal. Entre Core e Camiseta Minimal, a escolha é viscose ou algodão com elastano. A Minimal Club dá mais prazo para trocar por tamanho."
         ]
       },
       {
@@ -190115,7 +190115,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Max Titanium comprar",
         "paragraphs": [
-          "No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Top Whey 3W reúne três tipos de proteína do soro, IsoWhey é isolado e Super Whey combina proteínas e carboidrato. A escolha depende da composição e do preço; compare as porções em uma mesma quantidade de pó."
+          "No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Top Whey 3W reúne três tipos de proteína do soro, IsoWhey é isolado e Super Whey combina proteínas e carboidrato. Compare as porções na mesma quantidade de pó; o código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -190386,7 +190386,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Probiótica comprar",
         "paragraphs": [
-          "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. Zero Lactose declara ausência de lactose; Iso Pro tem mais proteína por porção entre os cinco itens comparados. Confira os preços antes de comprar: a tabela mostra como o preço de lista do Hiper muda a escolha."
+          "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. Zero Lactose declara ausência de lactose; Iso Pro tem mais proteína por porção entre os cinco itens. O preço de lista do Hiper muda a escolha, e no site oficial o PRO10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
