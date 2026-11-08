@@ -199240,5 +199240,459 @@ export const reviewsData: unknown[] = [
         "slug": "toda-up-e-boa"
       }
     ]
+  },
+  {
+    "id": 864,
+    "slug": "look-natal-reveillon-2026-clea-store",
+    "title": "Looks de Natal 2026 e Réveillon 2027: 9 opções da Cléa Store",
+    "seoTitle": "Looks Cléa Store: Natal 2026 e Réveillon 2027",
+    "type": "Guia de Looks",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Nove looks para o Natal de 2026 e a virada para 2027 com peças da Cléa Store à venda: off white, vermelho e crochê, com o subtotal de cada um e o cupom de 10%.",
+    "metaDescription": "CSEMCASACOMCECILIA dá 10% OFF na Cléa Store e somou com a Black Friday no teste. Looks de Natal 2026 e Réveillon 2027 com o subtotal de cada um.",
+    "publishedAt": "8 de novembro de 2026",
+    "publishedAtISO": "2026-11-08",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/look-natal-reveillon-2026-clea-store-capa-discover.webp",
+    "imageAlt": "Quatro modelos com vestido floral off white, vestido de crochê, vestido paisley caramelo e blusa de renda bordô da Cléa Store",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "imageAspectRatio": 1.7778,
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para o Natal de 2026 e a virada para 2027, dá para montar nove looks só com peças da Cléa Store, do vestido floral off white à calça vermelha de linho. O CSEMCASACOMCECILIA dá 10% OFF e somou com a Black Friday no nosso teste. O que muda a escolha é a grade: veja a tabela."
+        ]
+      },
+      {
+        "heading": "O que a Cléa tem para as festas",
+        "paragraphs": [
+          "Procurando calça branca para a virada de 2026 para 2027? Na Cléa não tem, e peça dourada também não. O branco da loja é off white, em vestido e blusa, e a parte de baixo clara fica no areia e no caqui. No vermelho, o colete e o blazer estão esgotados, e a calça de linho é o que segura o look.",
+          "A tabela reúne os nove looks. Cada peça é comprada separada, porque a loja não vende o look pronto."
+        ],
+        "comparisonTable": {
+          "caption": "Preços e tamanhos do site em 08/11, com a Black Friday no ar. Sem frete, calçados e acessórios.",
+          "headers": [
+            "Look",
+            "Peças",
+            "Tamanhos à venda",
+            "Subtotal no site",
+            "Subtotal com o cupom"
+          ],
+          "rows": [
+            [
+              "Réveillon: vestido floral",
+              "[Vestido Midi Floral Off White](https://www.cleastore.com.br/produto/vestido-midi-floral-alcas-babados-amarracao-off-white-4403)",
+              "P, M e G",
+              "R$ 487,90",
+              "R$ 439,11"
+            ],
+            [
+              "Réveillon: renda e shorts",
+              "[Blusa Regata de Renda Off White](https://www.cleastore.com.br/produto/blusa-regata-de-renda-off-white-4432) + [Shorts Alfaiataria Areia](https://www.cleastore.com.br/produto/shorts-alfaiataria-areia-4352) (peça de baixo não incluída)",
+              "Blusa P e M; shorts 36 a 40",
+              "R$ 550,90",
+              "R$ 495,81"
+            ],
+            [
+              "Réveillon: amarração e calça",
+              "[Blusa de Amarração Off White](https://www.cleastore.com.br/produto/blusa-de-amarracao-off-white-4234) + [Calça Alfaiataria Caqui](https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-caqui-4416)",
+              "Blusa P e M; calça 36 e 38",
+              "R$ 684,60",
+              "R$ 616,14"
+            ],
+            [
+              "Natal: camisa e calça vermelha",
+              "[Camisa Regata com Laço Tricoline](https://www.cleastore.com.br/produto/camisa-regata-com-laco-tricoline-4357) + [Calça Alfaiataria Linho Vermelha](https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-em-linho-vermelha-4414)",
+              "Camisa P e M; calça 36 e 38",
+              "R$ 636,09",
+              "R$ 572,48"
+            ],
+            [
+              "Natal: vestido paisley",
+              "[Vestido Paisley Renda Caramelo](https://www.cleastore.com.br/produto/vestido-paisley-renda-caramelo-4276)",
+              "P, M e G",
+              "R$ 347,40",
+              "R$ 312,66"
+            ],
+            [
+              "Natal: renda e jeans",
+              "[Blusa de Renda Regata Assimétrica Bordô](https://www.cleastore.com.br/produto/blusa-de-renda-regata-assimetrica-bordo-4430) + [Calça Jeans Wide Leg Azul Médio](https://www.cleastore.com.br/produto/calca-jeans-wide-leg-cintura-alta-azul-medio-4436)",
+              "Blusa P, M e G; calça 36 a 42",
+              "R$ 383,60",
+              "R$ 345,24"
+            ],
+            [
+              "Convidada de formatura",
+              "[Regata Renda Preta](https://www.cleastore.com.br/produto/regata-renda-preta-4240) + [Calça Alfaiataria Linho Vermelha](https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-em-linho-vermelha-4414)",
+              "Regata P e M; calça 36 e 38",
+              "R$ 593,60",
+              "R$ 534,24"
+            ],
+            [
+              "Crochê: vestido",
+              "[Vestido Artesanal Crochê Off White](https://www.cleastore.com.br/produto/vestido-artesanal-croche-off-white-4118)",
+              "P e M",
+              "R$ 1.323,00",
+              "R$ 1.190,70"
+            ],
+            [
+              "Crochê: blusa e shorts",
+              "[Blusa Crochê Artesanal Alças Off White](https://www.cleastore.com.br/produto/blusa-croche-artesanal-alcas-off-white-3922) + [Shorts Alfaiataria Areia](https://www.cleastore.com.br/produto/shorts-alfaiataria-areia-4352)",
+              "Blusa P e M; shorts 36 a 40",
+              "R$ 635,60",
+              "R$ 572,04"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa, com os preços da tabela: a coluna com cupom tira 10% de cada subtotal. O código entrou nos preços da campanha num carrinho com kit e vestido, descrito no [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os nove looks não passaram um a um pelo carrinho."
+        ]
+      },
+      {
+        "heading": "Vestido floral off white: o Réveillon de peça única",
+        "paragraphs": [
+          "Para quem não quer pensar em combinação, o vestido resolve numa peça só, e é o único look claro com P, M e G à venda. É midi, de viscose, com babado nas alças, decote em V e botões na frente. A estampa de flores é pequena e em tons neutros. Se a sua virada pede branco liso, ele não é o vestido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-festas-vestido-floral.webp",
+            "alt": "Modelo com o vestido midi floral off white da Cléa Store",
+            "caption": "Vestido Midi Floral Off White. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6667,
+            "href": "https://www.cleastore.com.br/produto/vestido-midi-floral-alcas-babados-amarracao-off-white-4403"
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Vestido Midi Floral Alças Babados Amarração Off White",
+              "url": "https://www.cleastore.com.br/produto/vestido-midi-floral-alcas-babados-amarracao-off-white-4403",
+              "howTo": "Sozinho, com o caimento longo que ele já tem.",
+              "occasion": "Réveillon e festa de dia."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Renda e shorts areia: para a virada no calor",
+        "paragraphs": [
+          "Virada em casa de praia ou em quintal quente pede perna de fora, e aqui o shorts de alfaiataria segura a produção. A regata de renda tem gola padre, botões na frente e transparência: olha esse detalhe antes de comprar, porque ela pede uma peça por baixo. A conta da tabela considera regata e shorts. Se precisar comprar o body regata off white, o look sobe para R$ 662,20, ou R$ 595,98 com o cupom. Se você veste 42, o shorts não atende: ele vai até o 40."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-festas-renda-shorts-areia.webp",
+            "alt": "Regata de renda off white ao lado do shorts de alfaiataria areia da Cléa Store",
+            "caption": "Montagem com fotos da Cléa Store; a calça jeans e o blazer das fotos não entram no look.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3404
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Blusa Regata de Renda Off White",
+              "url": "https://www.cleastore.com.br/produto/blusa-regata-de-renda-off-white-4432",
+              "howTo": "Com um body ou top claro por baixo, abotoada.",
+              "occasion": "Réveillon.",
+              "pairsWith": [
+                {
+                  "label": "Shorts Alfaiataria Areia",
+                  "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-areia-4352"
+                },
+                {
+                  "label": "Body Regata Second Skin Duplo",
+                  "url": "https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045",
+                  "note": "em off white, para a transparência"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Blusa de amarração e calça caqui: o Réveillon de calça",
+        "paragraphs": [
+          "Sem calça branca na loja, o caqui é o que chega mais perto do claro numa perna longa. A calça é de linho com algodão, de cintura alta e perna larga. A blusa amarra atrás do pescoço, tem zíper nas costas e deixa os ombros à mostra: considere esse detalhe se prefere mais cobertura. A grade é o limite: a calça só está à venda em 36 e 38. Se precisa de outra numeração, confira o jeans ou as medidas dos vestidos da seleção."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-festas-amarracao-calca-caqui.webp",
+            "alt": "Blusa de amarração off white ao lado da calça de linho caqui da Cléa Store",
+            "caption": "Montagem com fotos da Cléa Store; a calça jeans e os sapatos das fotos não entram no look.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3404
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Blusa de Amarração Off White",
+              "url": "https://www.cleastore.com.br/produto/blusa-de-amarracao-off-white-4234",
+              "howTo": "Por dentro da calça de cintura alta.",
+              "occasion": "Réveillon e jantar.",
+              "pairsWith": [
+                {
+                  "label": "Calça Alfaiataria Caqui",
+                  "url": "https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-caqui-4416"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Camisa com laço e calça vermelha: o Natal de vermelho",
+        "paragraphs": [
+          "Para quem quer o vermelho sem discussão, é a calça de linho que dá o tom, e a camisa off white segura o resto. A camisa é de tricoline, com gola alta e amarração na frente. Fica arrumada para uma ceia mais formal. Se você prefere uma ceia mais casual, compare com a combinação de renda e jeans. E a calça, de novo, só em 36 e 38."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-festas-camisa-laco-calca-vermelha.webp",
+            "alt": "Camisa off white com laço ao lado da calça de linho vermelha da Cléa Store",
+            "caption": "Montagem com fotos da Cléa Store; a calça jeans e os sapatos das fotos não entram no look.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3404
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camisa Regata com Laço Tricoline",
+              "url": "https://www.cleastore.com.br/produto/camisa-regata-com-laco-tricoline-4357",
+              "howTo": "Por dentro da calça, com o laço à vista.",
+              "occasion": "Ceia de Natal e confraternização.",
+              "pairsWith": [
+                {
+                  "label": "Calça Alfaiataria Linho Vermelha",
+                  "url": "https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-em-linho-vermelha-4414"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Vestido paisley caramelo: o Natal elegante e o mais barato de uma peça",
+        "paragraphs": [
+          "Está na dúvida e quer gastar menos? Esse vestido é o look de peça única mais em conta da lista, com P, M e G. É de viscose, com renda ao longo da peça, forro, alças reguláveis e zíper lateral. Caramelo não é cor de Natal para todo mundo: se a sua família faz questão do vermelho ou do verde, ele não entrega isso."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-festas-vestido-paisley.webp",
+            "alt": "Modelo com o vestido paisley caramelo da Cléa Store e botas pretas",
+            "caption": "Vestido Paisley Renda Caramelo. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6667,
+            "href": "https://www.cleastore.com.br/produto/vestido-paisley-renda-caramelo-4276"
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Vestido Paisley Renda Caramelo",
+              "url": "https://www.cleastore.com.br/produto/vestido-paisley-renda-caramelo-4276",
+              "howTo": "Sozinho, ajustando as alças.",
+              "occasion": "Ceia de Natal e festa de fim de ano."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Renda bordô e jeans: a ceia em casa",
+        "paragraphs": [
+          "Na ceia sem cerimônia, o jeans não faz feio e o bordô já dá o clima de Natal. A blusa tem gola alta, mangas curtas, barra assimétrica e vem com forro em regata, então não pede outra peça por baixo. O jeans é a única calça da lista com todos os números à venda, do 36 ao 42, e o look é o mais barato de duas peças. Para uma festa mais formal, compare com a camisa e a calça vermelha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-festas-renda-bordo-jeans.webp",
+            "alt": "Blusa de renda bordô ao lado da calça jeans wide leg azul médio da Cléa Store",
+            "caption": "Montagem com fotos da Cléa Store; os sapatos das fotos não entram no look.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3404
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Blusa de Renda Regata Assimétrica Bordô",
+              "url": "https://www.cleastore.com.br/produto/blusa-de-renda-regata-assimetrica-bordo-4430",
+              "howTo": "Com jeans, para a ceia mais casual.",
+              "occasion": "Natal em família.",
+              "pairsWith": [
+                {
+                  "label": "Calça Jeans Wide Leg Cintura Alta Azul Médio",
+                  "url": "https://www.cleastore.com.br/produto/calca-jeans-wide-leg-cintura-alta-azul-medio-4436"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Bônus para convidada de formatura: renda preta e linho vermelho",
+        "paragraphs": [
+          "Convidada que não quer vestido tem aqui um caminho com contraste, e a calça vermelha é a mesma do Natal, então ela volta a uso depois da festa. A regata de renda tem alças reguláveis e busto forrado. Se a formatura pede look longo e discreto, procure outra produção."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-festas-regata-preta-calca-vermelha.webp",
+            "alt": "Regata de renda preta ao lado da calça de linho vermelha da Cléa Store",
+            "caption": "Montagem com fotos da Cléa Store; a calça jeans e os sapatos das fotos não entram no look.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3404
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Regata Renda Preta",
+              "url": "https://www.cleastore.com.br/produto/regata-renda-preta-4240",
+              "howTo": "Por dentro da calça de cintura alta.",
+              "occasion": "Formatura e festa à noite.",
+              "pairsWith": [
+                {
+                  "label": "Calça Alfaiataria Linho Vermelha",
+                  "url": "https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-em-linho-vermelha-4414"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Crochê: a peça artesanal para a virada",
+        "paragraphs": [
+          "Crochê aqui é peça artesanal vendida pronta, e não receita. O vestido off white tem franjas na barra, forro e bordados, e é o look mais caro da lista. A loja avisa o que muda em casa: evitar máquina, não pendurar no varal e guardar dobrado. Se você quer uma peça de cuidado simples para usar toda semana, considere as outras opções.",
+          "A blusa artesanal com o shorts areia inclui uma peça de crochê por menos da metade do subtotal do vestido, e tem forro no busto. Os conjuntos de saia e blusa em crochê existem, [caramelo](https://www.cleastore.com.br/produto/conjunto-croche-caramelo-4158) e [preto](https://www.cleastore.com.br/produto/conjunto-croche-preto-4226), mas só no P."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-festas-vestido-croche.webp",
+            "alt": "Modelo com o vestido de crochê off white e franjas da Cléa Store",
+            "caption": "Vestido Artesanal Crochê Off White. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6667,
+            "href": "https://www.cleastore.com.br/produto/vestido-artesanal-croche-off-white-4118"
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-festas-croche-blusa-shorts-areia.webp",
+            "alt": "Blusa de crochê off white ao lado do shorts de alfaiataria areia da Cléa Store",
+            "caption": "Montagem com fotos da Cléa Store; a calça jeans e os sapatos das fotos não entram no look.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3404
+          }
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Vestido Artesanal Crochê Off White",
+              "url": "https://www.cleastore.com.br/produto/vestido-artesanal-croche-off-white-4118",
+              "howTo": "Ajustado ao corpo, com o forro que já vem nele.",
+              "occasion": "Réveillon."
+            },
+            {
+              "piece": "Blusa Crochê Artesanal Alças Off White",
+              "url": "https://www.cleastore.com.br/produto/blusa-croche-artesanal-alcas-off-white-3922",
+              "howTo": "Com a amarração nas costas.",
+              "occasion": "Réveillon e festa de verão.",
+              "pairsWith": [
+                {
+                  "label": "Shorts Alfaiataria Areia",
+                  "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-areia-4352"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Cupom, frete e devolução: onde a conta muda",
+        "paragraphs": [
+          "O [cupom Cléa Store](/cupons/clea-store) é o CSEMCASACOMCECILIA, de 10% em todo o site. A loja anuncia frete grátis a partir de R$ 599. Pelos subtotais da tabela, cinco looks ficam abaixo desse valor antes do cupom e sete depois dele. O da camisa com calça vermelha e o da blusa de crochê cruzam o limite ao aplicar os 10%, e o resultado depende de o limite contar antes ou depois do desconto: confira a linha Entrega no carrinho. A devolução é grátis, em até 30 dias.",
+          "Montando o verão junto com as festas? O [guia de alfaiataria de verão](/reviews/alfaiataria-verao-clea-store) e o [look de trabalho](/reviews/look-trabalho-alfaiataria-feminina-clea-store) usam outras combinações."
+        ]
+      },
+      {
+        "heading": "Qual look escolher",
+        "paragraphs": [
+          "Antes de decidir entre dois tamanhos, compare suas medidas na [tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho)."
+        ],
+        "bullets": [
+          "**Quer uma combinação de peça única:** o vestido floral off white, em P, M e G.",
+          "**Procura calça 40 ou 42:** o jeans com a renda bordô está nessas numerações.",
+          "**Veste G na parte de cima:** a blusa bordô e os vestidos floral e paisley; as outras sugestões têm grades menores.",
+          "**Quer gastar menos:** o vestido paisley caramelo.",
+          "**Faz questão do vermelho no Natal:** a camisa com laço e a calça de linho, se o seu número for 36 ou 38.",
+          "**Quer uma peça que chame atenção na virada:** o vestido de crochê, sabendo dos cuidados do capítulo dele."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cléa Store tem calça branca? Não está à venda: o claro na parte de baixo fica no areia e no caqui, como o primeiro capítulo mostra.",
+          "Tem vestido para o Réveillon na Cléa Store? Tem, em off white: o midi floral e o de crochê artesanal, nos capítulos de cada um.",
+          "O cupom vale nos preços da Black Friday? Valeu no teste com a campanha no ar. Confira a linha Desconto antes de pagar, porque os termos da loja preveem exceção.",
+          "A Cléa Store tem frete grátis? Tem, a partir de R$ 599. Abaixo disso, o frete sai pelo CEP, no carrinho."
+        ]
+      }
+    ],
+    "editorialNote": "Preços lidos no site da Cléa Store. Os looks são montagens com peças da loja, que ninguém da equipe vestiu. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "decision": {
+      "takeIf": [
+        "Você quer ver o subtotal de cada combinação antes de comprar.",
+        "Você aceita off white no lugar do branco."
+      ],
+      "skipIf": [
+        "Você faz questão de calça branca ou peça dourada.",
+        "Você quer calça de alfaiataria acima do 38."
+      ]
+    },
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "relatedArticles": [
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store"
+      },
+      {
+        "slug": "alfaiataria-verao-clea-store"
+      },
+      {
+        "slug": "black-friday-clea-store"
+      },
+      {
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho"
+      },
+      {
+        "slug": "cupom-clea-store-como-usar"
+      }
+    ]
   }
 ];
