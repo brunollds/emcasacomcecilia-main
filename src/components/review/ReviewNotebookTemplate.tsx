@@ -11,6 +11,7 @@ import { serializeJsonLd } from '@/lib/jsonLd';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { withDeliveredArticleMedia } from '@/lib/sectionMedia';
 import type { Locale } from '@/lib/i18n/locales';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
 import type { ShelfCardArticle } from '@/lib/reviewsShelf';
@@ -55,7 +56,7 @@ function estimateReadTimeMinutes(text: string): number {
 
 
 export function ReviewNotebookTemplate({
-  review,
+  review: sourceReview,
   viewModel,
   youtubeEmbedUrl,
   videoPageUrl,
@@ -70,6 +71,7 @@ export function ReviewNotebookTemplate({
   relatedArticleLinks,
   languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
+  const review = withDeliveredArticleMedia(sourceReview);
   const couponCopyLocale = resolveReviewLocale(review.locale);
   // O "Ver todos" dos relacionados: a subpágina da loja quando existe; senão, a lista de artigos do idioma, o
   // último nível da trilha antes do artigo.

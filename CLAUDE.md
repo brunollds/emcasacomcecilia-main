@@ -95,6 +95,13 @@ dados por props de um componente servidor ou de módulos sem o índice, como `sr
 Logo depois do `next build`, o `npm run build` roda `scripts/test-client-bundle.mjs`
 (`npm run test:client-bundle`), que falha se algum chunk do navegador trouxer o índice.
 
+O mesmo vale para o mapa de mídia (`src/lib/generated/media-delivery-map.json`, ~380 KB): `@/lib/resolve-media.mjs` só
+entra no grafo do servidor. O componente cliente recebe a URL pronta por prop (nos artigos, `withDeliveredArticleMedia`,
+de `src/lib/sectionMedia.ts`), e arquivo sem `'use client'` importado por um componente cliente conta como cliente, como
+o `StoreLayout` e o `ReviewSectionVideo`. Basta um import para o mapa ir a muitas páginas: os componentes cliente
+compartilhados herdam os chunks da primeira rota que os usa. O `test:client-bundle` também barra o mapa, pelos hashes
+das URLs, e confere isso sem depender do nome do chunk.
+
 Filtro que só muda a query string da mesma página (ex.: `/receitas`, `/reviews`) não usa
 `router.replace`/`push`: o router baixa de novo o payload RSC da página — com todos os cards — a
 cada clique. `/receitas` usa `window.history.replaceState`, que o Next sincroniza com o
