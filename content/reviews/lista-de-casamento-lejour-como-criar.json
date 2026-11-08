@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Como criar a lista de casamento na Lejour: prévia do site em três passos, conta para salvar, quem paga a taxa dos presentes, titularidade da lista e saque por Pix.",
-  "metaDescription": "Como criar a lista de casamento na Lejour em 3 passos, com as telas do cadastro, a taxa dos presentes e o saque por Pix. Consulta de 14/10/2026.",
+  "metaDescription": "Como criar a lista de casamento na Lejour em 3 passos, com as telas do cadastro, a taxa dos presentes e o saque por Pix.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
   "draft": false,
@@ -78,7 +78,7 @@
     {
       "heading": "4. Crie a conta grátis para salvar",
       "paragraphs": [
-        "Depois do passo 3, abre o painel, mesmo sem login. No nosso teste, uma faixa vermelha no topo avisava: \"Você ainda não salvou suas alterações. Você está navegando sem login. Crie uma conta gratuita para guardar tudo e continuar de onde parou, leva menos de um minuto.\" Ao lado do texto, o botão \"Criar conta grátis\". A central de ajuda da Lejour também traz o cadastro e o login com Apple e Google.",
+        "Depois do passo 3, abre o painel, mesmo sem login. Uma faixa vermelha no topo avisava: \"Você ainda não salvou suas alterações. Você está navegando sem login. Crie uma conta gratuita para guardar tudo e continuar de onde parou, leva menos de um minuto.\" Ao lado do texto, o botão \"Criar conta grátis\". A central de ajuda da Lejour também traz o cadastro e o login com Apple e Google.",
         "O menu do painel tem cinco itens: Painel inicial, Personalizar site, Lista de presentes, Lista de convidados e Produtos Fast Shop. Em \"Personalizar site\", o topo da tela tem, entre outros, os botões Temas, Cores, Fontes e Elementos (o quinto aparece cortado no print), e a lista \"Conteúdo\" traz, além de \"Foto e frase inicial\", nove seções do site, cada uma com um botão para ligar e desligar:"
       ],
       "bullets": [

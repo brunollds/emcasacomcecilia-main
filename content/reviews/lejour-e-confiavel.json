@@ -47,7 +47,7 @@
       "heading": "Quem está por trás da Lejour",
       "paragraphs": [
         "A Lejour é uma plataforma brasileira de casamento, com CNPJ ativo desde 2017: o casal monta o site da festa com uma lista de presentes em dinheiro, e os convidados presenteiam por ele. Na página inicial, a empresa diz que \"mais de 300 mil casais já usaram a Lejour\". É um número da própria Lejour, que não conseguimos conferir de forma independente.",
-        "O que dá para conferir é o cadastro da empresa. Consultamos o CNPJ na BrasilAPI, que espelha os dados da Receita Federal, e comparamos com o rodapé do site."
+        "O que dá para conferir é o cadastro da empresa. O CNPJ na BrasilAPI, que espelha os dados da Receita Federal, coincide com o do rodapé do site."
       ],
       "postParagraphs": [
         "Para checar por conta própria, basta pesquisar o CNPJ em uma consulta pública de cadastro de empresas, como a da Receita Federal, e ver a situação cadastral e a data de abertura."
@@ -58,7 +58,7 @@
       "imageFit": "contain",
       "imageAspectRatio": 2.3333,
       "comparisonTable": {
-        "caption": "Dados públicos do CNPJ da Lejour, conferidos em 14/10/2026",
+        "caption": "Dados públicos do CNPJ da Lejour, 14/10/2026",
         "headers": [
           "Dado",
           "O que consta"

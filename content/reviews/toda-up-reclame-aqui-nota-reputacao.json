@@ -59,7 +59,7 @@
       "heading": "Por que olhar o Reclame Aqui antes de comprar",
       "paragraphs": [
         "O Reclame Aqui reúne reclamações, respostas e avaliações do atendimento. O índice de resposta considera as reclamações registradas; solução, nota do consumidor e voltaria a fazer negócio vêm de quem finalizou e avaliou a reclamação. Esses grupos não representam todos os compradores.",
-        "Os números abaixo são de uma leitura só e mudam com o tempo. Confira de novo no dia da compra."
+        "Os números abaixo mudam com o tempo. Confira de novo no dia da compra."
       ]
     },
     {
@@ -80,7 +80,7 @@
     {
       "heading": "Os números da Toda Up",
       "paragraphs": [
-        "Cada coluna da tabela é uma aba do perfil, com o período dela. A leitura das abas de 6 e 12 meses é de 07/11/2026; a aba geral é da leitura de outubro. As abas de 6 e 12 meses mostram a faixa e a nota; a aba geral, na leitura feita, mostrou só os indicadores de reclamação."
+        "Cada coluna da tabela é uma aba do perfil, com o período dela. Os dados das abas de 6 e 12 meses são de 07/11/2026; os da aba geral, de outubro. As abas de 6 e 12 meses mostram a faixa e a nota; a aba geral mostra só os indicadores de reclamação."
       ],
       "comparisonTable": {
         "headers": [
@@ -94,13 +94,13 @@
             "Reputação",
             "Ótima",
             "RA1000",
-            "não consta nesta leitura"
+            "não consta"
           ],
           [
             "Nota",
             "8,2",
             "8,3",
-            "não consta nesta leitura"
+            "não consta"
           ],
           [
             "Reclamações recebidas",
@@ -167,7 +167,7 @@
       "heading": "O que a conta entre as abas mostra",
       "paragraphs": [
         "A aba geral soma 1.398 reclamações no período do cabeçalho da tabela, e a de 12 meses soma 950. A diferença, 448, cobre o período anterior à aba de 12 meses, cerca de 24 meses. Dividida por esse período, dá perto de 19 reclamações por mês. Nos 12 meses da aba recente, a média foi de cerca de 79 por mês, e nos 6 meses, de cerca de 64. A conta é nossa, feita com as abas, e vale como ordem de grandeza.",
-        "O Reclame Aqui não mostrou quantas reclamações entraram em cada mês, então não dá para saber o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo, mas resolveu um pouco menos do que na média geral.",
+        "As abas não mostram quantas reclamações entraram em cada mês, então não dá para saber o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo, mas resolveu um pouco menos do que na média geral.",
         "A aba geral começa em 2023. O domínio todaup.com é de 2025, pelo registro público do domínio, então a janela geral alcança um tempo anterior ao site atual. O perfil é o mesmo, pelo mesmo CNPJ, e o Reclame Aqui não separa as reclamações por nome da marca."
       ]
     },
@@ -178,9 +178,9 @@
       ]
     },
     {
-      "heading": "O que esta leitura não traz",
+      "heading": "O que este texto não traz",
       "paragraphs": [
-        "A leitura ficou com as abas de 6 meses, 12 meses e geral. Duas partes do perfil ficaram de fora e não entram neste texto: o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. O problema mais citado está na lista de principais problemas, no próprio perfil."
+        "Este texto cobre as abas de 6 meses, 12 meses e geral. Duas partes do perfil ficaram de fora: o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. O problema mais citado está na lista de principais problemas, no próprio perfil."
       ]
     },
     {
@@ -211,7 +211,7 @@
       "bullets": [
         "Reputação: Ótima nos 6 meses, com nota 8,2, e RA1000 nos 12 meses, com nota 8,3.",
         "Respondidas e resolvidas: 100% e 89,9% nos 6 meses; 100% e 91,5% nos 12 meses; 99% e 92,1% na aba geral.",
-        "Fora desta leitura: o histórico mês a mês e os principais problemas."
+        "Fora deste texto: o histórico mês a mês e os principais problemas."
       ]
     },
     {
