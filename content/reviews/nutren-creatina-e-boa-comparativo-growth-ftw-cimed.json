@@ -126,7 +126,7 @@
             "Não confirmado no rótulo"
           ],
           [
-            "Preço oficial consultado",
+            "Preço oficial",
             "R$ 59,90; R$ 53,91 é o cálculo do CECI de 10% sobre esse valor",
             "R$ 44,90 no Pix ou boleto; R$ 49,88 no cartão",
             "R$ 59,90; R$ 56,91 à vista",
@@ -193,13 +193,13 @@
     {
       "heading": "Preço oficial e cupom CECI",
       "paragraphs": [
-        "O catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90 na consulta da imagem abaixo, e o mesmo valor foi conferido de novo depois. Preço, estoque e condições podem mudar.",
-        "O CECI dá 10%. Sobre R$ 59,90, a conta dá R$ 53,91, ou R$ 17,97 por 100 g; a imagem mostra só o preço cheio da consulta. Como a elegibilidade é confirmada no checkout, verifique se o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) foi aceito e compare o total com frete antes de pagar."
+        "O catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90, como na imagem abaixo. Preço, estoque e condições podem mudar.",
+        "O CECI dá 10%. Sobre R$ 59,90, a conta dá R$ 53,91, ou R$ 17,97 por 100 g; a imagem mostra só o preço cheio. Como a elegibilidade é confirmada no checkout, verifique se o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) foi aceito e compare o total com frete antes de pagar."
       ],
       "bullets": [],
       "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
-      "imageAlt": "Campanha de lançamento da Nutren Creatina 300 g com embalagem, rendimento de 100 doses e preço consultado em agosto de 2026",
-      "imageCaption": "Campanha de lançamento da Nutren Creatina, com o preço da consulta.",
+      "imageAlt": "Campanha de lançamento da Nutren Creatina 300 g com embalagem, rendimento de 100 doses e preço cheio",
+      "imageCaption": "Campanha de lançamento da Nutren Creatina, com o preço cheio.",
       "imageFit": "contain",
       "links": [
         {
@@ -227,7 +227,7 @@
         "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
         "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
         "Qual foi a mais barata no comparativo? Nutren com o CECI e Growth no Pix ficaram praticamente empatadas na amostra, a R$ 17,97 e R$ 17,96 por 100 g (diferença de R$ 0,01), com a FTW à vista logo acima, a R$ 18,97. Os valores estão na tabela “Nutren, Growth, FTW e Lavitan: composição, porção e preço”. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
-        "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
+        "Qual é o melhor horário para tomar creatina? Os rótulos orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
         "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
         "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
         "A creatina trata sarcopenia ou problemas cognitivos? Este suplemento não é medicamento. A alegação funcional autorizada refere-se ao auxílio no desempenho físico em exercícios repetidos, curtos e de alta intensidade.",

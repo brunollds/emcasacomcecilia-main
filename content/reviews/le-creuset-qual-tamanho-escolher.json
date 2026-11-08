@@ -61,6 +61,7 @@
         "A tabela usa litros porque nem a marca nem a loja publicam porções por tamanho. O litro é o único número que as duas fontes dão."
       ],
       "comparisonTable": {
+        "caption": "Cores disponíveis em 26/10",
         "headers": [
           "Diâmetro",
           "Capacidade (ficha da loja)",
@@ -115,7 +116,7 @@
         ]
       },
       "postParagraphs": [
-        "Do 16 ao 28 cm, cada tamanho acrescenta de 0,5 a 1,4 L ao anterior. Do 28 ao 30 cm o acréscimo é de 1,7 L, e o 34 cm tem 12 L. Estoque muda de um dia para o outro: a coluna das cores é a leitura de 26/10/2026."
+        "Do 16 ao 28 cm, cada tamanho acrescenta de 0,5 a 1,4 L ao anterior. Do 28 ao 30 cm o acréscimo é de 1,7 L, e o 34 cm tem 12 L. Estoque muda de um dia para o outro: confira as cores na página antes de comprar."
       ],
       "image": {
         "src": "/images/reviews/letseatit/le-creuset-redonda-signature-litros-por-tamanho.webp",
@@ -206,7 +207,7 @@
       "bullets": [
         "26 cm, 2,2 L: Petal Branco e Sea Salt a R$ 2.949, e Vermelha e Laranja a R$ 2.345,15 (de R$ 2.759, com 15%).",
         "30 cm, 3,5 L, na cor Azure a R$ 2.999, e Laranja a R$ 2.549,15.",
-        "32 cm, 4 L, esgotada nesse dia."
+        "32 cm, 4 L, esgotada."
       ],
       "postParagraphs": [
         "A marca informa a linha de 22 a 32 cm.",

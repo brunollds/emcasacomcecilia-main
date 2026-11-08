@@ -14,7 +14,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das páginas de produto de 30/10/2026.",
+  "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das páginas de produto.",
   "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Mala de bordo: preço, medida, peso e litros de 7 malas, o selo BORDO e a regra da ANAC, LATAM, GOL e Azul.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
@@ -35,9 +35,10 @@
     {
       "heading": "Tabela das malas de bordo",
       "paragraphs": [
-        "Preço do cartão, com medida, peso e litros da loja, lidos em 30/10/2026. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
+        "Preço do cartão, com medida, peso e litros da loja. O preço por litro é conta nossa: preço do cartão dividido pelos litros."
       ],
       "comparisonTable": {
+        "caption": "Malas de bordo Bagaggio: preço do cartão em 30/10",
         "headers": [
           "Produto",
           "Preço (cartão)",
@@ -129,7 +130,7 @@
       "heading": "Selo BORDO: o que a loja informa",
       "paragraphs": [
         "O selo BORDO, com ícone de avião, é uma informação da loja. Não é certificado de embarque, e não garante que a mala passa no balcão da companhia. Quem decide é a companhia, no dia do voo.",
-        "Na leitura, todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia."
+        "Todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia."
       ],
       "images": [
         {
@@ -203,7 +204,7 @@
         "O que significa o selo BORDO da Bagaggio? É uma informação da loja, com ícone de avião. Não garante o embarque, que depende da companhia.",
         "A mala de bordo Bagaggio passa em qualquer companhia aérea? Não há garantia. A Detroit Preta e a Route Preta ficam dentro da medida de 55 × 35 × 25 cm que LATAM, GOL e Azul citam, mas cada companhia decide. Confira antes de viajar.",
         "Polipropileno ou ABS: qual mala de bordo compensa? Depende do que pesa mais para você. O ABS da Detroit pesa 2,61 kg e tem 44,2 litros; o polipropileno da Route Preta pesa 2,43 kg e tem 45,3 litros.",
-        "Tem cupom para a mala de bordo Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
+        "Tem cupom para a mala de bordo Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Confira o valor final no carrinho."
       ]
     }
   ],
@@ -228,7 +229,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho.",
+  "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho. Ninguém da equipe usou as malas.",
   "relatedArticles": [
     {
       "slug": "tamanho-mala-bagaggio-p-m-g"

@@ -46,12 +46,12 @@
       "imageAspectRatio": 2.2222
     },
     {
-      "heading": "Como comparamos",
+      "heading": "Como ler os números",
       "bullets": [
-        "**Rótulo:** lemos a tabela nutricional que cada loja publica na página do produto.",
-        "**Um sabor por produto:** a proteína por porção muda um pouco de sabor para sabor. Usamos o sabor da tabela lida, em geral Baunilha, e ele aparece indicado quando é outro.",
+        "**Rótulo:** a tabela nutricional é a que cada loja publica na página do produto.",
+        "**Um sabor por produto:** a proteína por porção muda um pouco de sabor para sabor. A tabela usada é a de um sabor, em geral Baunilha, e ele aparece indicado quando é outro.",
         "**Preço:** o preço à vista do site oficial, sem cupom e sem o desconto do Pix. Quando a loja mostra um preço \"de\", ele vem entre parênteses.",
-        "**Preço por 100 g de proteína (conta nossa):** dividimos o peso do pote pela porção, multiplicamos pela proteína de cada porção e dividimos o preço por esse total de proteína.",
+        "**Preço por 100 g de proteína (conta nossa):** o peso do pote dividido pela porção, vezes a proteína de cada porção, e o preço dividido por esse total de proteína.",
         "**Preço por dose da creatina (conta nossa):** o preço dividido pelo número de porções da tabela."
       ],
       "postParagraphs": [
@@ -318,10 +318,10 @@
       "heading": "Blend e opções de entrada: os dois blends",
       "paragraphs": [
         "O **Whey Blend Nova Fórmula** (Max Titanium) e o **Iso Protein Blend** (Probiótica) são o par mais parecido das duas lojas. Os dois têm 900 g, 25 g de proteína em 40 g e custavam R$ 79,00 (de R$ 121,99), o menor preço por 100 g de proteína deste comparativo.",
-        "As tabelas são quase iguais. Lemos a de Baunilha da Max e a de Chocolate da Probiótica:"
+        "As tabelas são quase iguais. A tabela da Max é a de Baunilha e a da Probiótica, a de Chocolate:"
       ],
       "comparisonTable": {
-        "caption": "Valores por porção de 40 g, lidos nas tabelas publicadas pelas lojas.",
+        "caption": "Valores por porção de 40 g, das tabelas publicadas pelas lojas.",
         "headers": [
           "Por porção de 40 g",
           "Whey Blend Nova Fórmula (Max, Baunilha)",
@@ -356,7 +356,7 @@
         ]
       },
       "postParagraphs": [
-        "Quase iguais não quer dizer o mesmo produto: os sabores são outros e as fórmulas não são declaradas iguais. Na prática, a escolha é pelo sabor que está em estoque. Na nossa consulta, a Max tinha só Baunilha, e a Probiótica tinha Cookies & Cream, Morango e Chocolate."
+        "Quase iguais não quer dizer o mesmo produto: os sabores são outros e as fórmulas não são declaradas iguais. Na prática, a escolha é pelo sabor que está em estoque. A Max tinha só Baunilha, e a Probiótica tinha Cookies & Cream, Morango e Chocolate."
       ]
     },
     {
@@ -374,7 +374,7 @@
         "Cada loja tem o próprio código da parceria. Os dois dão **até 10%**: o percentual pode ser menor em alguns produtos, e o carrinho mostra quanto cada item recebeu. Os dois valem em todas as formas de pagamento, para conta nova e antiga, e somam com as promoções do site."
       ],
       "comparisonTable": {
-        "caption": "Condições dos cupons de cada loja e os testes de checkout da equipe.",
+        "caption": "Condições dos cupons de cada loja e exemplos de desconto no carrinho.",
         "headers": [
           "",
           "Max Titanium",
@@ -397,7 +397,7 @@
             "sim"
           ],
           [
-            "Nosso teste de checkout",
+            "Exemplo de desconto no carrinho",
             "R$ 16,75 de desconto num Top Whey 3W em promoção, de R$ 189,00",
             "R$ 54,75 de desconto num carrinho de R$ 659,35"
           ]

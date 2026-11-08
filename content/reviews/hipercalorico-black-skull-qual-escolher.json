@@ -55,7 +55,7 @@
       ]
     },
     {
-      "heading": "Como lemos o rótulo: porção, kcal e preço por 100 g de proteína",
+      "heading": "Porção, kcal e preço por 100 g de proteína no rótulo",
       "paragraphs": [
         "Este guia compara o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. As duas fichas trazem tabela nutricional em imagem. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
         "O preço do pote engana, porque a porção e a proteína de cada um são diferentes: 160 g no Masstodon, 260 g no Monstrous. Por isso a régua do artigo é por 100 g do pó, por 100 g de proteína e por 1.000 kcal."
@@ -155,7 +155,7 @@
       "image": {
         "src": "/images/reviews/black-skull/hipercalorico-black-skull-tabelas-2710.webp",
         "alt": "Tabelas nutricionais oficiais do Masstodon Refil 3 kg e do Monstrous 2,7 kg, lado a lado",
-        "caption": "As tabelas publicadas pela Black Skull nas fichas do Masstodon (à esquerda) e do Monstrous, lidas no site.",
+        "caption": "As tabelas publicadas pela Black Skull nas fichas do Masstodon (à esquerda) e do Monstrous.",
         "objectFit": "contain",
         "aspectRatio": 1.6837
       }

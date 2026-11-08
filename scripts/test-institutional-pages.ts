@@ -7,6 +7,8 @@ import { readFileSync } from 'node:fs';
 import { AboutView } from '@/components/about/AboutView';
 import { ContactView } from '@/components/contact/ContactView';
 import { FaqView } from '@/components/faqs/FaqView';
+import { FAQ_SOURCE_PT, HOME_FAQ_OVERRIDES } from '@/components/faqs/localeFaqCopy';
+import { getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import { PrivacyView } from '@/components/privacy/PrivacyView';
 import { SearchView } from '@/components/search/SearchView';
 import { ABOUT_TRAIL, getAboutContent, getAboutPersonJsonLd } from '@/lib/aboutPage';
@@ -14,15 +16,19 @@ import { brandLinks } from '@/lib/brandLinks';
 import { CECILIA_PERSON_ID, CECILIA_SINCE, YESSTYLE_CERTIFICATE } from '@/lib/ceciliaCredentials';
 import { ASSUNTO_LABELS, CONTACT_SUBJECTS, CONTACT_TRAIL, escapeHtml, isContactSubject } from '@/lib/contactPage';
 import { getActiveCoupons } from '@/lib/couponsData';
+import { TRANSLATED_LOCALES } from '@/lib/couponTranslations';
 import { publishedReviews, recipes } from '@/lib/data';
-import { FAQ_CATEGORIES, FAQ_TRAIL, getFaqPageJsonLd } from '@/lib/faqPage';
+import { FAQ_CATEGORIES, FAQ_TRAIL, getFaqAlternates, getFaqPageJsonLd, getFaqPath } from '@/lib/faqPage';
 import { getCeciliaSocialStats } from '@/lib/homeStores';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
-import { getBreadcrumbListJsonLd } from '@/lib/pageSeo';
+import { LOCALES, LOCALE_KEYS } from '@/lib/i18n/locales';
+import { getLocaleFaqPage } from '@/lib/localeFaq';
+import { absoluteUrl, getBreadcrumbListJsonLd } from '@/lib/pageSeo';
 import { PRIVACY_META, PRIVACY_SECTIONS, PRIVACY_TRAIL, privacyPlainText, type PrivacyText } from '@/lib/privacyPage';
 import { getListedPortugueseReviews } from '@/lib/reviewDiscovery';
 import { SEARCH_COPY, SEARCH_TRAIL, createSearchPage, getSearchQuery, searchSite } from '@/lib/searchPage';
 import { SEARCH_PAGE_METADATA } from '@/lib/siteSearch.mjs';
+import { EVERY_STORE_TRANSLATED_CLAIM } from './locale-home-guards';
 
 // As páginas institucionais. A /sobre: os números saem dos dados (os mesmos da home e das listas em
 // português), o selo da YesStyle só aparece enquanto o certificado vale, as marcas parceiras, a trilha igual
@@ -202,6 +208,128 @@ assert.match(faqHtml, /<h1[^>]*><span class="marca-texto marca-texto-entra">Perg
 for (const href of ['/contato', brandLinks.youtube, brandLinks.contactMailto]) {
   assert.ok(faqHtml.includes(`href="${href}"`), `/faqs sem o link ${href}`);
 }
+
+// O /faqs tem o mesmo canonical e hreflang de todos os idiomas, e o /<locale>/faq de cada um dos 9 idiomas traz as
+// perguntas da lista da página, o FAQPage igual a elas e a trilha. Nada do texto é português, nenhum link leva a
+// uma página que só existe em PT, e o CECILIA010 e o 4CW5Y nunca são chamados de cupom nas respostas.
+assert.equal(getFaqPath('pt'), '/faqs');
+assert.equal(getFaqAlternates('pt').canonical, '/faqs');
+assert.equal(getFaqAlternates('pt').languages['pt-BR'], absoluteUrl('/faqs'));
+const PT_ONLY_PATH = /^\/(sobre|contato|receitas|videos|cupons|reviews|faqs|privacidade|buscar)(\/|$)/;
+// O textOf junta os espaços; o francês usa espaço sem quebra antes de ? e :, então a comparação vai nos dois lados.
+const collapse = (text: string) => text.replace(/\s+/g, ' ').trim();
+const PT_WORDS = /não|também|você|vocês|ção|ções|cupom|\bpelo\b|\bpela\b/i;
+const COUPON_WORD = '(?:cupo[nm]s?|coupons?|cupones?|cupón|gutschein\\w*|buono|buoni|쿠폰|クーポン|優惠碼|优惠码|優惠券|优惠券)';
+const CODE_AS_COUPON = new RegExp(`${COUPON_WORD}\\W+(?:\\S+\\s+){0,3}(?:CECILIA010|4CW5Y)|(?:CECILIA010|4CW5Y)\\W+(?:\\S+\\s+){0,3}${COUPON_WORD}`, 'i');
+// O FAQ alemão trata por "Sie": nenhum du/dein/dir/dich (nem euch/eure) e nenhum imperativo "Schreib ".
+const GERMAN_INFORMAL = /\b(?:du|dein\w*|dir|dich|euch|eure\w*)\b|\bSchreib\s/i;
+const ptFaqStrings = FAQ_SOURCE_PT.categories.flatMap((category) =>
+  category.entries.flatMap((entry) => ('question' in entry ? [entry.question, entry.answer] : []))
+);
+for (const locale of TRANSLATED_LOCALES) {
+  const page = getLocaleFaqPage(locale);
+  const pagePath = `/${locale}/faq`;
+  assert.equal(page.path, pagePath, `${locale}: caminho do FAQ`);
+  const localeHtml = renderToStaticMarkup(createElement(FaqView, { categories: page.categories, text: page.text, jsonLdPath: page.path }));
+  const localeText = textOf(localeHtml);
+  const questions = page.categories.flatMap((category) => category.perguntas);
+  const sourceQuestions = FAQ_SOURCE_PT.categories.flatMap((category) => category.entries);
+  assert.deepEqual(
+    page.categories.map((category) => category.id),
+    FAQ_SOURCE_PT.categories.map((category) => category.id),
+    `${locale}: categorias diferentes do português`
+  );
+  assert.equal(questions.length, sourceQuestions.length, `${locale}: número de perguntas`);
+
+  // As 4 da home vêm dos textos da home, e as outras não podem repetir a fonte em português.
+  const home = getLocaleHomeCopy(locale);
+  const homeOverride = HOME_FAQ_OVERRIDES[locale];
+  const homeQuestions = [
+    homeOverride?.who?.question ?? home.faqWhoQuestion,
+    homeOverride?.why?.question ?? home.faqWhyQuestion,
+    homeOverride?.where?.question ?? home.faqWhereQuestion,
+    homeOverride?.contact?.question ?? home.faqContactQuestion,
+  ];
+  assert.deepEqual(
+    questions.map((item) => item.pergunta).filter((question) => homeQuestions.includes(question)).sort(),
+    [...homeQuestions].sort(),
+    `${locale}: as perguntas da home não estão no FAQ`
+  );
+  for (const item of questions) {
+    assert.ok(item.resposta.trim(), `${locale}: resposta vazia: ${item.pergunta}`);
+    for (const field of [item.pergunta, item.resposta, item.link?.label ?? '']) {
+      assert.doesNotMatch(field, /[{}]/, `${locale}: marcador por resolver: ${field}`);
+    }
+    assert.doesNotMatch(item.resposta, CODE_AS_COUPON, `${locale}: CECILIA010 ou 4CW5Y chamado de cupom: ${item.resposta}`);
+    if (item.link?.href && item.link.href.startsWith('/')) {
+      assert.ok(item.link.href === `/${locale}` || item.link.href.startsWith(`/${locale}/`), `${locale}: link para fora do idioma: ${item.link.href}`);
+      assert.doesNotMatch(item.link.href, PT_ONLY_PATH, `${locale}: link para página só do PT`);
+    }
+  }
+  // "Onde uso cada código": a resposta é a do FAQ (só as lojas do idioma têm página), não a da home, e nenhuma
+  // resposta do FAQ diz que toda loja parceira tem página no idioma. O padrão tem de pegar o texto da home.
+  const everyStore = EVERY_STORE_TRANSLATED_CLAIM[locale];
+  assert.match(home.faqWhereAnswer, everyStore, `${locale}: o padrão não pega o texto da home`);
+  const where = questions.find((item) => item.pergunta === (homeOverride.where?.question ?? home.faqWhereQuestion));
+  assert.ok(where, `${locale}: sem a pergunta "onde uso cada código"`);
+  assert.equal(where.resposta, homeOverride.where?.answer, `${locale}: a resposta de "onde uso" não é a do FAQ`);
+  assert.notEqual(where.resposta, home.faqWhereAnswer, `${locale}: a resposta de "onde uso" é a da home`);
+  assert.equal(where.link?.href, `/${locale}/coupons`, `${locale}: a resposta de "onde uso" sem o link do hub de cupons`);
+  for (const item of questions) assert.doesNotMatch(item.resposta, everyStore, `${locale}: o FAQ diz que toda loja tem página no idioma: ${item.resposta}`);
+  const cecilia = questions.find((item) => item.pergunta.includes('CECILIA010'));
+  assert.ok(cecilia?.resposta.includes('Reward Code'), `${locale}: a resposta do CECILIA010 não cita o Reward Code`);
+  const shein = questions.find((item) => item.pergunta.includes('4CW5Y'));
+  assert.ok(shein?.resposta.includes('4CW5Y'), `${locale}: a resposta do 4CW5Y sem o código`);
+  assert.equal(shein?.link?.href, `/${locale}/coupons/shein`, `${locale}: a resposta do 4CW5Y sem o link da página da SHEIN`);
+  assert.ok(shein?.link?.label.trim(), `${locale}: o link da SHEIN sem rótulo`);
+
+  // A página: cada pergunta num <summary>, todas as respostas, o FAQPage igual a elas e a trilha igual ao BreadcrumbList.
+  const summaries = [...localeHtml.matchAll(/<summary[^>]*>([\s\S]*?)<\/summary>/g)].map((match) => textOf(match[1]).trim());
+  assert.deepEqual(summaries, questions.map((item) => collapse(item.pergunta)), `${locale}: perguntas da página diferentes da lista`);
+  assert.equal((localeHtml.match(/<details/g) ?? []).length, questions.length, `${locale}: details`);
+  for (const item of questions) assert.ok(localeText.includes(collapse(item.resposta)), `${locale}: resposta fora da página: ${item.pergunta}`);
+  const localeJsonLd = jsonLdOf(localeHtml);
+  assert.deepEqual(
+    localeJsonLd.find((schema) => schema['@type'] === 'FAQPage'),
+    getFaqPageJsonLd(page.categories, page.path),
+    `${locale}: FAQPage diferente da página`
+  );
+  assert.deepEqual(
+    localeJsonLd.find((schema) => schema['@type'] === 'FAQPage').mainEntity.map((entry: { name: string; acceptedAnswer: { text: string } }) => [entry.name, entry.acceptedAnswer.text]),
+    questions.map((item) => [item.pergunta, item.resposta]),
+    `${locale}: o FAQPage não é igual à página`
+  );
+  assert.deepEqual(localeJsonLd.find((schema) => schema['@type'] === 'BreadcrumbList'), getBreadcrumbListJsonLd(page.text.trail));
+  assert.equal(page.text.trail[0].path, `/${locale}`, `${locale}: a trilha não volta à home do idioma`);
+  assert.equal(page.text.trail[1].path, pagePath, `${locale}: a trilha não termina no FAQ do idioma`);
+  assert.equal((localeHtml.match(/<h1\b/g) ?? []).length, 1, `${locale}: H1`);
+
+  // Canonical e hreflang: o próprio idioma, os 10 do site e o x-default em inglês; o português aponta para /faqs.
+  const alternates = getFaqAlternates(locale);
+  assert.equal(alternates.canonical, pagePath, `${locale}: canonical`);
+  assert.equal(Object.keys(alternates.languages).length, LOCALE_KEYS.length + 1, `${locale}: hreflang`);
+  assert.equal(alternates.languages[LOCALES[locale].hreflang], absoluteUrl(pagePath), `${locale}: hreflang do próprio idioma`);
+  assert.equal(alternates.languages['x-default'], absoluteUrl('/en/faq'), `${locale}: x-default`);
+  assert.equal(alternates.languages['pt-BR'], absoluteUrl('/faqs'), `${locale}: hreflang do português`);
+
+  // Nenhum texto em português: nem as palavras que só o português tem, nem uma frase da fonte em português. O
+  // mídia kit é em português de propósito (o link e a frase que o diz), e sai antes da conferência.
+  const visible = localeText.replace(page.text.newsSecondary.label, '').replace(/mídia kit/gi, '');
+  assert.doesNotMatch(visible, PT_WORDS, `${locale}: palavra em português na página`);
+  for (const sentence of ptFaqStrings) assert.ok(!localeText.includes(sentence), `${locale}: frase em português na página: ${sentence}`);
+  assert.ok(!/\bBrasil\b/.test(localeText) && !/\bBrasil\b/.test(JSON.stringify(localeJsonLd)), `${locale}: "Brasil" no FAQ`);
+
+  // Os links: https para o externo, mailto para o e-mail, e interno só no idioma.
+  for (const href of [...localeHtml.matchAll(/href="([^"]+)"/g)].map((match) => match[1].replace(/&amp;/g, '&'))) {
+    if (href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('https://')) continue;
+    assert.ok(href === `/${locale}` || href.startsWith(`/${locale}/`), `${locale}: link interno fora do idioma: ${href}`);
+  }
+  assert.ok(localeHtml.includes(`href="${brandLinks.contactMailto}"`), `${locale}: sem o mailto de contato`);
+  assert.ok(localeHtml.includes(`href="/${locale}/coupons/shein"`), `${locale}: sem o link da SHEIN na página`);
+  if (locale === 'de') assert.doesNotMatch(localeText, GERMAN_INFORMAL, 'de: tratamento por "du" no FAQ alemão (o FAQ usa "Sie")');
+  assert.ok(localeHtml.includes(`href="${page.text.newsSecondary.href}"`), `${locale}: sem o mídia kit`);
+}
+assert.ok(ptFaqStrings.length > 0, 'a fonte em português do FAQ veio vazia');
 
 // O contato: os assuntos do formulário são os da rota, nos dois sentidos, e a rota só aceita esses.
 assert.deepEqual(

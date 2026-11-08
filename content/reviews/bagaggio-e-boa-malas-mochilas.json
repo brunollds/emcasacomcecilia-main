@@ -14,7 +14,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "O que a loja diz sobre malas, mochilas e bolsas: material, peso, medida, garantia e preço em 29/10/2026, e o que é Travelcross no site.",
+  "description": "O que a loja diz sobre malas, mochilas e bolsas: material, peso, medida, garantia e preço no cartão, e o que é a linha Travelcross no site da Bagaggio.",
   "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. A marca é boa? Material, peso, garantia e preço das malas, mochilas e bolsas, e o que é a linha Travelcross.",
   "publishedAt": "29 de outubro de 2026",
   "publishedAtISO": "2026-10-29",
@@ -105,7 +105,7 @@
         ]
       },
       "postParagraphs": [
-        "Com o CECILIA10, o preço cai 10% pela regra do cupom, e o Pix tira mais 5% sobre o total já com o cupom, enquanto a loja mantiver a oferta. A seção \"Parceria e cupom\" diz o que foi testado."
+        "Com o CECILIA10, o preço cai 10% pela regra do cupom, e o Pix tira mais 5% sobre o total já com o cupom, enquanto a loja mantiver a oferta."
       ]
     },
     {
@@ -136,7 +136,7 @@
       "image": {
         "src": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-mochila-horizonte.webp",
         "alt": "Mochila para notebook Slim Horizonte preta, da marca Bagaggio, de frente, com bolso frontal com zíper",
-        "caption": "Mochila Slim Horizonte, da marca Bagaggio: poliéster, 0,46 kg e garantia de 3 meses, conforme a página lida. Foto oficial da loja.",
+        "caption": "Mochila Slim Horizonte, da marca Bagaggio: poliéster, 0,46 kg e garantia de 3 meses. Foto oficial da loja.",
         "objectFit": "contain",
         "aspectRatio": 0.6289
       }
@@ -152,7 +152,7 @@
       "heading": "Cadeado e rodas",
       "paragraphs": [
         "A loja vende o [Cadeado para Mala com Chave Preto](https://www.bagaggio.com.br/cadeado-para-mala-bagaggio-com-chave-preto-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) à parte, por R$ 59,90, em estoque. A descrição diz que ele abre com chave, sem senha, e que serve em malas, mochilas e bolsas de viagem.",
-        "Nem toda mala precisa dele. A Detroit e a Route trazem cadeado com senha embutido, e a Kyoto II traz cadeado TSA, dizem as páginas de produto. As malas de bordo lidas têm 4 rodas 360°; nas mochilas de notebook, a página traz \"Sem Rodas\"."
+        "Nem toda mala precisa dele. A Detroit e a Route trazem cadeado com senha embutido, e a Kyoto II traz cadeado TSA, dizem as páginas de produto. As malas de bordo da tabela têm 4 rodas 360°; nas mochilas de notebook, a página traz \"Sem Rodas\"."
       ],
       "image": {
         "src": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-cadeado.webp",
@@ -181,7 +181,7 @@
       "paragraphs": [
         "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o CECILIA10. As condições vigentes estão na [página do cupom da Bagaggio](/cupons/bagaggio).",
         "Pela regra da loja, o CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto, e a loja aceita um cupom por pedido. Ele soma com o Pix de 5%, que entra sobre o total já com o cupom, enquanto a loja mantiver a oferta.",
-        "O cupom foi testado na sacola, numa mala do Outlet. Em produto sem promoção e em conjunto de malas ele não foi testado; a regra diz que vale para todos os produtos. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+        "Pela regra da loja, o cupom vale para todos os produtos, inclusive em produto sem promoção e em conjunto de malas. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
       ]
     },
     {
@@ -207,7 +207,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com os dados da própria loja. Podemos receber comissão pelas compras feitas com o CECILIA10.",
+  "editorialNote": "Feito com os dados da própria loja. Ninguém da equipe usou os produtos. Podemos receber comissão pelas compras feitas com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "bagaggio-e-confiavel"

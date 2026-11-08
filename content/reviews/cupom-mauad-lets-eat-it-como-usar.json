@@ -110,10 +110,10 @@
     {
       "heading": "Quanto o MAUAD economiza na prática",
       "paragraphs": [
-        "Em loja de cozinha, 5% pode parecer pouco num jogo de xícaras e virar dinheiro de verdade numa panela de ferro esmaltado. Para dar uma ideia, separei alguns produtos do catálogo com o preço que aparecia no site no dia da consulta."
+        "Em loja de cozinha, 5% pode parecer pouco num jogo de xícaras e virar dinheiro de verdade numa panela de ferro esmaltado. Para dar uma ideia, separei alguns produtos do catálogo com o preço do site."
       ],
       "comparisonTable": {
-        "caption": "Preços consultados no site da Let's Eat It em 02/10/2026. Os valores mudam com campanhas e estoque, e o arredondamento do checkout pode variar alguns centavos.",
+        "caption": "Preços no site da Let's Eat It em 02/10/2026. Os valores mudam com campanhas e estoque, e o arredondamento do checkout pode variar alguns centavos.",
         "headers": [
           "Produto",
           "Preço no site",

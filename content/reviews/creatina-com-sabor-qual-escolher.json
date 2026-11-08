@@ -185,9 +185,9 @@
     {
       "heading": "Cupons e Pix",
       "paragraphs": [
-        "**Black Skull:** o CECILIA10 dá 10% em todo o site, soma com as promoções da loja e vale em todas as formas de pagamento (conferido por nós). Na página, a Black Skull não mostra desconto no Pix. As regras estão na [página do cupom Black Skull](/cupons/black-skull).",
-        "**Max Titanium:** o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto: nem todo item recebe 10%. Soma com as promoções do site. O site anuncia PIX e boleto com até 5% OFF; na 7Belo, o Pix sai a R$ 64,18 contra R$ 66,17 no cartão. O cupom vale em todas as formas de pagamento, Pix inclusive (conferido por nós); se o desconto do Pix também se mantém junto com o cupom, não conferimos. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium).",
-        "**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, soma com as promoções do site e vale em todas as formas de pagamento (conferido por nós). Na página, a Pura 300 g sai R$ 56,90 no Pix (5% de desconto) contra R$ 59,90 no cartão."
+        "**Black Skull:** o CECILIA10 dá 10% em todo o site, soma com as promoções da loja e vale em todas as formas de pagamento. Na página, a Black Skull não mostra desconto no Pix. As regras estão na [página do cupom Black Skull](/cupons/black-skull).",
+        "**Max Titanium:** o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto: nem todo item recebe 10%. Soma com as promoções do site. O site anuncia PIX e boleto com até 5% OFF; na 7Belo, o Pix sai a R$ 64,18 contra R$ 66,17 no cartão. O cupom vale em todas as formas de pagamento, Pix inclusive. Se o desconto do Pix também se mantém junto com o cupom, confira no carrinho. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium).",
+        "**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, soma com as promoções do site e vale em todas as formas de pagamento. Na página, a Pura 300 g sai R$ 56,90 no Pix (5% de desconto) contra R$ 59,90 no cartão."
       ]
     },
     {
@@ -208,7 +208,7 @@
         "Creatina com sabor tem o mesmo efeito? Nos pares da Black Skull e da Max comparados, o rótulo declara a mesma quantidade de creatina por porção, com pesos de pó diferentes. Essa informação diz sobre a composição declarada, não sobre o efeito de cada produto.",
         "Creatina com sabor engorda? O rótulo mostra calorias e carboidrato por porção, e esses números, sozinhos, não dizem como o produto se encaixa na sua dieta. A Turbo traz 20 kcal e 5 g de carboidrato por dose de 10 g; a Creatine de 300 g da Black Skull com sabor traz 2 kcal e 0,4 g por dose de 6 g. A Max 7Belo declara carboidrato em quantidade não significativa. Quem tem meta de peso fala com um nutricionista.",
         "Creatina com sabor é pura? \"Pura\" não é uma qualidade que as fichas comprovem. O que vale é a lista de ingredientes: a Turbo tem maltodextrina, e a 7Belo e a Creatine com sabor da Black Skull têm aromatizante, ácido málico, sucralose e corantes.",
-        "A creatina com sabor tem Creapure? A Black Skull e a Max 7Belo não declaram o selo Creapure nas fichas lidas. A busca por \"creapure\" no site da Black Skull não traz nenhum produto. Quem precisa do selo confirma com a loja antes de comprar."
+        "A creatina com sabor tem Creapure? A Black Skull e a Max 7Belo não declaram o selo Creapure nas fichas dos produtos. A busca por \"creapure\" no site da Black Skull não traz nenhum produto. Quem precisa do selo confirma com a loja antes de comprar."
       ]
     }
   ],
@@ -220,7 +220,7 @@
     "skipIf": [
       "Quem não quer carboidrato na dose: a Turbo não serve, nem a Mix Pro, que leva maltodextrina.",
       "Quem aceita creatina sem sabor: o pote sem sabor da Black Skull rende mais doses pelo mesmo preço.",
-      "Quem procura creatina com sabor da Probiótica: o catálogo lido não traz nenhuma."
+      "Quem procura creatina com sabor da Probiótica: o catálogo da Probiótica não traz nenhuma."
     ]
   },
   "pros": [],

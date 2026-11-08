@@ -81,14 +81,14 @@
       },
       "postParagraphs": [
         "Para quem não quer cápsula, a opção é a cafeteira elétrica de filtro. A Oster lista três modelos: a 2Day Inox 2 em 1, com copo térmico, por R$ 179,90; a Black, com jarra térmica de inox de 0,7 L, por R$ 309,90; e a Coffee To Go de 600 ml, por R$ 179,90. A listagem não traz a capacidade em xícaras de cada modelo, então o texto não compara volumes. O café de filtro usado na conta é o Melitta Tradicional, pacote de 500 g a R$ 27,46, com a dose da embalagem de 80 g por litro. A Melitta não vende cafeteira de filtro no site; só a Amano, a R$ 1.149,00.",
-        "Grão, em kit, aparece com o Melitta Spresso em grão, quatro pacotes de 500 g por R$ 234,60. O texto não calcula o custo por xícara de grão, porque a dose da embalagem não está na leitura que fizemos. A superautomática de grãos fica fora da tabela, porque não temos preço de nenhuma superautomática.",
+        "Grão, em kit, aparece com o Melitta Spresso em grão, quatro pacotes de 500 g por R$ 234,60. O texto não calcula o custo por xícara de grão, porque a listagem não traz a dose da embalagem. A superautomática de grãos fica fora da tabela, porque não temos preço de nenhuma superautomática.",
         "Na cápsula de terceiros, a L'OR é compatível com Nespresso Original, não com Dolce Gusto, e a marca não vende máquina própria no site. A Baggio vende caixa de 10 cápsulas para Dolce Gusto a R$ 25,90; sobre compatibilidade, vale o que já diz o [guia de cápsulas compatíveis](/reviews/dolce-gusto-capsulas-compativeis-guia). Se a equipe usa a Dolce Gusto NEO, a máquina aceita só cápsula NEO."
       ]
     },
     {
       "heading": "Quanto custa por mês para 5, 10 e 20 pessoas",
       "paragraphs": [
-        "O filtro é o mais barato por bebida; na cápsula, o combo de 50 caixas da Dolce Gusto leva. Valores em reais por mês, com os preços lidos nas lojas em 19/10/2026, sem cupom e sem a máquina, e 44 bebidas por pessoa, todas de uma cápsula. Nas linhas de cápsula, os valores são o custo das cápsulas consumidas (preço do combo dividido pelas cápsulas), não o desembolso da compra: o combo é vendido fechado."
+        "O filtro é o mais barato por bebida; na cápsula, o combo de 50 caixas da Dolce Gusto leva. Valores em reais por mês, sem cupom e sem a máquina, e 44 bebidas por pessoa, todas de uma cápsula. Nas linhas de cápsula, os valores são o custo das cápsulas consumidas (preço do combo dividido pelas cápsulas), não o desembolso da compra: o combo é vendido fechado."
       ],
       "comparisonTable": {
         "headers": [
@@ -162,7 +162,8 @@
             "R$ 193,32",
             "R$ 386,64"
           ]
-        ]
+        ],
+        "caption": "Custo mensal por opção, com preços de 19/10, sem cupom e sem a máquina."
       },
       "images": [
         {
@@ -251,7 +252,7 @@
       },
       "postParagraphs": [
         "O Mochaccino Canela está nos combos para negócios de 20 caixas, a R$ 1,87 por bebida. Ele é uma bebida de uma cápsula, com leite na receita; as bebidas de duas cápsulas da tabela contam o dobro. Quanto maior o combo, menor o preço de cada cápsula: o de 50 caixas sai a R$ 1,62.",
-        "A TRES também faz bebidas cremosas e chás. A TRES diz que a Passione tem multipressão para espresso, bebidas cremosas, filtrado e chás. Na Nespresso Original, as cápsulas que lemos no site são de café. Bebida com leite pede leite fresco e máquina com espumador: a linha Nespresso Profissional tem o Momento 200, com 17 opções de café e leite e refrigerador de leite integrado, e o Aguila 220, com 13 opções, duas cabeças de extração e refrigerador de leite. Os dois têm preço sob contato."
+        "A TRES também faz bebidas cremosas e chás. A TRES diz que a Passione tem multipressão para espresso, bebidas cremosas, filtrado e chás. Na Nespresso Original, as cápsulas do site são de café. Bebida com leite pede leite fresco e máquina com espumador: a linha Nespresso Profissional tem o Momento 200, com 17 opções de café e leite e refrigerador de leite integrado, e o Aguila 220, com 13 opções, duas cabeças de extração e refrigerador de leite. Os dois têm preço sob contato."
       ],
       "images": [
         {
@@ -266,7 +267,7 @@
     {
       "heading": "Dolce Gusto Negócios: os combos para escritório",
       "paragraphs": [
-        "A Dolce Gusto tem uma linha para compra em volume, a Dolce Gusto Negócios, com combos de 20, 30 e 50 caixas de 10 cápsulas. Quanto maior o combo, menor o preço de cada cápsula: o de 50 caixas sai a R$ 1,62. Os preços são da loja oficial, lidos sem login, e mudam com a promoção do dia."
+        "A Dolce Gusto tem uma linha para compra em volume, a Dolce Gusto Negócios, com combos de 20, 30 e 50 caixas de 10 cápsulas. Quanto maior o combo, menor o preço de cada cápsula: o de 50 caixas sai a R$ 1,62. Os preços são da loja oficial e mudam com a promoção do dia."
       ],
       "comparisonTable": {
         "headers": [
@@ -325,8 +326,8 @@
     {
       "heading": "Reservatório, descarte e ritmo de uso",
       "paragraphs": [
-        "No comparativo oficial da marca, as Dolce Gusto Mini Me, Genio S Basic, Plus e Touch têm reservatório de 0,8 L. A pressão máxima é de 15 bar, e as máquinas servem bebidas quentes e frias. A ficha que lemos não diz quantos mililitros cada bebida gasta em cada nível, então não fazemos a conta de quantas vezes o reservatório enche por dia. As diferenças entre os modelos estão em [qual máquina Dolce Gusto escolher](/reviews/dolce-gusto-maquinas-qual-escolher).",
-        "A conta de volume que dá para fazer é a de cápsulas. Com 10 pessoas e duas bebidas por dia cada, são 20 bebidas diárias: entre 20 e 40 cápsulas usadas por dia, conforme a bebida usa uma ou duas. O descarte das cápsulas usadas é manual nas Dolce Gusto, e a ficha que lemos não diz quantas cabem no recipiente. A TRES Passione é a que informa: guarda até 4 cápsulas usadas em compartimento interno. Antes de comprar, defina quem enche a água e quem esvazia o descarte, porque a máquina não resolve isso sozinha."
+        "No comparativo oficial da marca, as Dolce Gusto Mini Me, Genio S Basic, Plus e Touch têm reservatório de 0,8 L. A pressão máxima é de 15 bar, e as máquinas servem bebidas quentes e frias. A ficha não diz quantos mililitros cada bebida gasta em cada nível, então não fazemos a conta de quantas vezes o reservatório enche por dia. As diferenças entre os modelos estão em [qual máquina Dolce Gusto escolher](/reviews/dolce-gusto-maquinas-qual-escolher).",
+        "A conta de volume que dá para fazer é a de cápsulas. Com 10 pessoas e duas bebidas por dia cada, são 20 bebidas diárias: entre 20 e 40 cápsulas usadas por dia, conforme a bebida usa uma ou duas. O descarte das cápsulas usadas é manual nas Dolce Gusto, e a ficha não diz quantas cabem no recipiente. A TRES Passione é a que informa: guarda até 4 cápsulas usadas em compartimento interno. Antes de comprar, defina quem enche a água e quem esvazia o descarte, porque a máquina não resolve isso sozinha."
       ],
       "images": [
         {
@@ -342,7 +343,7 @@
       "heading": "Garantia e uso comercial",
       "paragraphs": [
         "A ficha oficial da máquina Dolce Gusto diz 1 ano de garantia. O site não fala de uso comercial: não diz se a garantia cobre uma máquina usada o dia inteiro por uma equipe, nem o que muda quando a compra é feita em nome de empresa. Não prometemos nada nesse ponto, e vale perguntar à marca antes de fechar a compra para o escritório.",
-        "A Nespresso tem uma linha profissional, com Zenius, Momento 100, Momento 200 e Aguila 220, vendida sob contato e com assinatura para empresas. O preço dessa linha não aparece no site que lemos. Para quem precisa de máquina de uso intenso com contrato, é a linha que se pede por contato."
+        "A Nespresso tem uma linha profissional, com Zenius, Momento 100, Momento 200 e Aguila 220, vendida sob contato e com assinatura para empresas. O preço dessa linha não aparece no site. Para quem precisa de máquina de uso intenso com contrato, é a linha que se pede por contato."
       ]
     },
     {
@@ -363,7 +364,7 @@
       "heading": "Quando a cápsula não vale",
       "paragraphs": [
         "Se a equipe só toma café preto, a cápsula perde para o filtro por xícara. Na Dolce Gusto, uma bebida de uma cápsula custa de R$ 1,62 a R$ 2,49 no combo ou na caixa avulsa. No filtro, com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44. A Melitta vende o café, mas o site dela não vende cafeteira elétrica de filtro, só a Amano, a R$ 1.149,00, então a máquina de filtro vem de outra marca, como a Oster.",
-        "Se o escritório quer espresso com leite fresco em volume, a cápsula de consumo não é a resposta. A linha profissional da Nespresso, com Momento 200 e Aguila 220, faz bebidas com leite e tem refrigerador de leite integrado, mas o preço é sob contato. As cápsulas Nespresso Original custam R$ 3,70 a R$ 4,20 cada no preço lido."
+        "Se o escritório quer espresso com leite fresco em volume, a cápsula de consumo não é a resposta. A linha profissional da Nespresso, com Momento 200 e Aguila 220, faz bebidas com leite e tem refrigerador de leite integrado, mas o preço é sob contato. As cápsulas Nespresso Original custam R$ 3,70 a R$ 4,20 cada."
       ]
     },
     {
