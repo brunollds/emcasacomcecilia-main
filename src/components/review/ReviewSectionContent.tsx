@@ -95,8 +95,11 @@ const ACCORDION_SUMMARY = `flex min-h-14 cursor-pointer list-none items-center j
 const ACCORDION_ICON =
   'flex h-8 w-8 shrink-0 items-center justify-center rounded-full border-2 border-marinho bg-white text-xl font-bold text-marinho transition-transform group-open:rotate-45 group-open:bg-amarelo-cupom motion-reduce:transition-none';
 
-// Botão dos links da seção (loja, página de cupom, link externo).
-const SECTION_LINK = `inline-flex min-h-11 items-center gap-1.5 rounded-[10px] border-2 border-marinho bg-white px-5 py-2 text-sm font-extrabold text-marinho wrap-anywhere transition-colors hover:bg-amarelo-cupom ${FOCUS_RING}`;
+// Botão dos links da seção (loja, página de cupom, link externo). O link patrocinado fica laranja, como os outros
+// botões do artigo que levam à loja (sidebar e gaveta); o test:build-output confere.
+const SECTION_LINK_SHAPE = `inline-flex min-h-11 items-center gap-1.5 rounded-[10px] border-2 border-marinho px-5 py-2 text-sm font-extrabold text-marinho wrap-anywhere transition-colors ${FOCUS_RING}`;
+const SECTION_LINK = `${SECTION_LINK_SHAPE} bg-white hover:bg-amarelo-cupom`;
+const SECTION_LINK_SPONSORED = `${SECTION_LINK_SHAPE} bg-laranja hover:bg-laranja/85`;
 
 // Tabela de 6 colunas ou mais pode rolar (no tablet ou com célula longa); o contêiner vira região com foco de teclado.
 const COMPARISON_SCROLL_MIN_COLUMNS = 6;
@@ -485,10 +488,10 @@ export function ReviewSectionContent({
                   contentSlug={reviewSlug}
                   sponsored
                   placement="review_inline"
-                  className={className}
+                  className={SECTION_LINK_SPONSORED}
                 >
                   {link.label}
-                  <ArrowUpRight size={16} />
+                  <ArrowUpRight size={16} className="shrink-0" />
                 </CouponStoreLink>
               );
             }
@@ -502,7 +505,7 @@ export function ReviewSectionContent({
                 className={className}
               >
                 {link.label}
-                {!internal && <ArrowUpRight size={16} />}
+                {!internal && <ArrowUpRight size={16} className="shrink-0" />}
               </a>
             );
           })}

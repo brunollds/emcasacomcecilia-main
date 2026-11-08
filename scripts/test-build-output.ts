@@ -872,6 +872,38 @@ function elementAt(html: string, start: number) {
 }
 // As classes da tag de abertura do elemento.
 const classesOf = (element: string) => element.match(/^<[^>]*?\sclass="([^"]*)"/)?.[1].split(/\s+/) ?? [];
+// Os botões dos links de seção (SECTION_LINK, do ReviewSectionContent): patrocinado em laranja, o resto em branco.
+// `sponsoredHrefs` são os links patrocinados que o JSON manda mostrar. Devolve também quantos destinos em laranja conferiu (link repetido na página conta uma vez).
+function sectionLinkProblems(body: string, sponsoredHrefs: string[]): { problems: string[]; sponsored: number } {
+  const buttons = [...body.matchAll(/<a\b[^>]*>/g)]
+    .map(([tag]) => tag)
+    .filter((tag) => ['inline-flex', 'min-h-11', 'px-5', 'wrap-anywhere'].every((token) => classesOf(tag).includes(token)));
+  const problems: string[] = [];
+  const orange = new Set<string>();
+  for (const tag of buttons) {
+    const href = decodeHtml(tag.match(/\shref="([^"]*)"/)?.[1] ?? '');
+    const classes = classesOf(tag);
+    const isSponsored = /\srel="[^"]*\bsponsored\b/.test(tag);
+    if (classes.includes('bg-laranja') !== isSponsored || classes.includes('bg-white') === isSponsored) {
+      problems.push(`botão de seção ${href} ${isSponsored ? 'patrocinado sem o laranja' : 'sem patrocínio fora do branco'}`);
+    } else if (isSponsored) orange.add(href);
+  }
+  for (const href of sponsoredHrefs) {
+    if (!orange.has(href)) problems.push(`link patrocinado ${href} sem o botão laranja`);
+  }
+  return { problems, sponsored: orange.size };
+}
+{
+  const button = (href: string, color: string, rel = '') => `<a href="${href}"${rel} class="inline-flex min-h-11 px-5 wrap-anywhere ${color}">x</a>`;
+  const sponsoredRel = ' rel="sponsored noopener noreferrer"';
+  const page = button('https://loja.example/a', 'bg-laranja', sponsoredRel) + button('https://manual.example/', 'bg-white') + button('/cupons/loja', 'bg-white');
+  assert.deepEqual(sectionLinkProblems(page, ['https://loja.example/a']), { problems: [], sponsored: 1 }, 'botões de seção certos foram barrados');
+  assert.equal(sectionLinkProblems(button('https://loja.example/a', 'bg-white', sponsoredRel), []).problems.length, 1, 'patrocinado em branco passou');
+  assert.equal(sectionLinkProblems(button('https://manual.example/', 'bg-laranja'), []).problems.length, 1, 'link comum em laranja passou');
+  assert.equal(sectionLinkProblems(button('https://loja.example/a', 'bg-laranja bg-white', sponsoredRel), []).problems.length, 1, 'as duas cores juntas passaram');
+  assert.equal(sectionLinkProblems('', ['https://loja.example/a']).problems.length, 1, 'link patrocinado sem botão passou');
+  assert.equal(sectionLinkProblems('<a href="https://loja.example/a" rel="sponsored" class="min-h-11 bg-white">x</a>', []).problems.length, 0, 'outro botão do artigo entrou na conferência');
+}
 // Os elementos com a classe `token` inteira (recorte não pega recorte-tesoura), na ordem do HTML.
 function elementsWithClass(html: string, token: string) {
   return [...html.matchAll(/<[a-zA-Z][\w-]*\s[^>]*>/g)]
@@ -1523,6 +1555,7 @@ let inlineCopyArticles = 0;
 let endStoreBlocks = 0;
 let endWithoutStore = 0;
 let endAffiliateBlocks = 0;
+let sectionSponsoredDestinations = 0;
 let endPhotoGalleries = 0;
 let endStoreArticleLinks = 0;
 let endStoreRules = 0;
@@ -1839,6 +1872,19 @@ for (const url of articleUrls) {
     decisionArticles++;
   }
 
+  // Os botões dos links de seção: patrocinado em laranja, o resto em branco.
+  const bodySectionHeadings = new Set(getBodySections(review.contentSections ?? [], inferReviewKind(review)).map(({ heading }) => heading));
+  const sectionLinks = sectionLinkProblems(
+    body,
+    (review.contentSections ?? [])
+      .filter((section) => bodySectionHeadings.has(section.heading ?? ''))
+      .flatMap((section) => section.links ?? [])
+      .filter((link) => link.sponsored && /^https?:/.test(link.href))
+      .map((link) => link.href)
+  );
+  assert.deepEqual(sectionLinks.problems, [], `${pagePath}: botões dos links de seção`);
+  sectionSponsoredDestinations += sectionLinks.sponsored;
+
   // As fotos com link de produto (`href` da imagem da seção): cada uma vira um link sponsored com o nome "Ver na
   // <loja>: <alt>" do idioma, e o "Ampliar" segue como botão logo depois do link, fora dele.
   const photoLinks = (review.contentSections ?? []).flatMap((section) =>
@@ -2000,6 +2046,8 @@ for (const [count, name] of [
   assert.ok(count > 0, `nenhum artigo ${name} no fim do artigo`);
 }
 assert.equal(endFullRelated, articleUrls.length, 'artigo com menos de 6 relacionados');
+assert.ok(sectionSponsoredDestinations > 0, 'nenhum destino patrocinado de seção conferido nos artigos');
+console.log(`destinos patrocinados de seção conferidos, por página: ${sectionSponsoredDestinations}`);
 console.log(
   `fim dos ${articleUrls.length} artigos: ${endStoreBlocks} com o bloco da loja (${endStoreRules} com regras, ${endStoreArticleLinks} com "Todos os N artigos"), ` +
     `${endAffiliateBlocks} sem loja com o botão do cta, ${endWithoutStore} sem loja e sem cta, ${endGalleries} com galeria (${endPhotoGalleries} só de fotos), ${endTopVideos} com o vídeo do topo fora da galeria, ${endProsCons} com prós e contras, ${endFullRelated} com 6 relacionados, ${endBrunoBoxes} com a caixa do Bruno`

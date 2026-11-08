@@ -342,6 +342,8 @@ vídeo, primeiras impressões e uso noturno.
   `validate:content` barra. Rótulos nos 10 idiomas em `articleCopy.ts` (`decisionLabel`, `decisionTakeIf`, `decisionSkipIf`).
   Numa família, o `test:review-i18n` exige o quadro em toda versão quando o PT tem, com o mesmo número de frases e nenhuma
   igual à do PT; o `test:build-output` confere o lugar, os rótulos, as frases e que nenhuma vai ao JSON-LD.
+- Botões dos links de seção (`section.links`, `ReviewSectionContent`): o link externo com `sponsored` fica laranja, como os
+  botões do artigo que levam à loja; os outros, inclusive os internos para `/cupons`, ficam brancos. O `test:build-output` confere.
 - Foto de produto com link: o `href` opcional da imagem da seção (`image` em forma de objeto ou item de `images`,
   `ContentSectionImage`) faz da foto o link de afiliado do produto (`CouponStoreLink`, sponsored, nova aba,
   `review_image`), com o selo "Ver na <loja>" na foto e no lightbox e o nome do link "Ver na <loja>: <alt>" avisando a
