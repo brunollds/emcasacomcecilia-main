@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Doctor Bar, alfajor e Doctor Wafer comparados por unidade: proteína, açúcar, calorias e preço, com as tabelas da loja lidas em 24/10/2026.",
+  "description": "Doctor Bar, alfajor e Doctor Wafer comparados por unidade: proteína, açúcar, calorias e preço, com as tabelas publicadas pela loja e o cupom da Dr. Peanut.",
   "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Doctor Bar, alfajor ou Doctor Wafer: proteína, açúcar, calorias e preço por unidade.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
@@ -34,7 +34,7 @@
     {
       "heading": "Os três snacks em uma tabela",
       "paragraphs": [
-        "Este texto compara a Doctor Bar, o alfajor e a Doctor Wafer entre si: a barra tem mais proteína, o wafer tem menos calorias, e o alfajor fica no meio. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja, lida em 24/10/2026."
+        "Este texto compara a Doctor Bar, o alfajor e a Doctor Wafer entre si: a barra tem mais proteína, o wafer tem menos calorias, e o alfajor fica no meio. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja."
       ],
       "comparisonTable": {
         "headers": [
@@ -179,7 +179,7 @@
             "R$ 11,46"
           ]
         ],
-        "caption": "Tabelas publicadas pela loja."
+        "caption": "Tabelas publicadas pela loja, 24/10."
       },
       "postParagraphs": [
         "Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor Bar é a conta do display de 8 (R$ 122,03 ÷ 8). Na Doctor Bar Speculoos, a tabela não publicada pela loja deixa as calorias e os açúcares em branco; a proteína de 21 g vem da embalagem e da descrição do produto."
@@ -245,7 +245,7 @@
     {
       "heading": "Glúten e lactose, e o que a loja não publica",
       "paragraphs": [
-        "A página da Doctor Bar Avelã e a da Doctor Wafer Avelã dizem CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos outros sabores, confira o aviso na página de cada um antes de comprar. Na Doctor Bar Speculoos, a tabela não foi publicada, e o aviso dela não foi conferido.",
+        "A página da Doctor Bar Avelã e a da Doctor Wafer Avelã dizem CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos outros sabores, confira o aviso na página de cada um antes de comprar. Na Doctor Bar Speculoos, a loja não publica a tabela, e o aviso dela fica sem confirmação: leia a embalagem.",
         "O alfajor é diferente. A loja publica a tabela nutricional em imagem, mas não publica a lista de ingredientes nem o aviso de alérgicos. Por isso, este texto não diz o que o alfajor contém, nem se ele tem glúten ou lactose. Quem precisa evitar algum deles deve conferir a embalagem antes de comer."
       ],
       "images": [

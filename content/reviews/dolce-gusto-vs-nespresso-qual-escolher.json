@@ -72,7 +72,7 @@
       "paragraphs": [
         "A Dolce Gusto atua como uma cafeteria multibebidas na bancada. O catálogo brasileiro reúne cafés pretos, lattes, achocolatados e chás, com disponibilidade que pode mudar ao longo do ano.",
         "Nas bebidas lácteas de duas cápsulas, uma cápsula prepara a parte de leite e a outra prepara o café ou o chocolate. O tempo e a sequência seguem a bebida indicada na embalagem, sem leite líquido armazenado na máquina.",
-        "A Nespresso Original concentra o catálogo em cafés e em duas dosagens programadas nas máquinas de entrada consultadas: Espresso (40 ml) e Lungo (110 ml). Receitas com leite dependem de um espumador separado ou de um modelo Nespresso com sistema de leite."
+        "A Nespresso Original concentra o catálogo em cafés e em duas dosagens programadas nas máquinas de entrada: Espresso (40 ml) e Lungo (110 ml). Receitas com leite dependem de um espumador separado ou de um modelo Nespresso com sistema de leite."
       ],
       "bullets": [
         "Nespresso faz cappuccino? As máquinas de entrada (como Essenza Mini e Pixie) não fazem bebidas lácteas sozinhas. Não há compartimento de leite nem cápsulas oficiais de leite em pó.",
@@ -128,12 +128,12 @@
     {
       "heading": "A matemática da xícara: custo real por dose no fim do mês",
       "paragraphs": [
-        "Comprar a máquina é apenas a taxa de entrada; o custo de longo prazo está no abastecimento diário. Esta tabela reutiliza a mesma amostra do nosso comparativo entre Dolce Gusto, Nespresso e TRES: preços coletados nos sites oficiais e na Amazon em agosto de 2026, sujeitos a estoque e promoções.",
-        "Para manter a conta comparável, separamos cápsulas oficiais de alternativas compatíveis. A média por 100 ml considera apenas os produtos com preço e volume identificáveis naquela amostra; não representa um preço universal de cada sistema."
+        "Comprar a máquina é apenas a taxa de entrada; o custo de longo prazo está no abastecimento diário. Os preços vêm dos sites oficiais e da Amazon e estão sujeitos a estoque e promoções.",
+        "Para manter a conta comparável, separamos cápsulas oficiais de alternativas compatíveis. A média por 100 ml considera apenas os produtos com preço e volume identificáveis; não representa um preço universal de cada sistema."
       ],
       "bullets": [],
       "comparisonTable": {
-        "caption": "Custo por dose e por mês: Dolce Gusto vs. Nespresso Original",
+        "caption": "Custo por dose e por mês: Dolce Gusto vs. Nespresso Original. Preços de agosto de 2026.",
         "headers": [
           "Cenário",
           "Dolce Gusto",
@@ -261,7 +261,7 @@
         "Antes de ligar o aparelho na tomada da cozinha, dois cuidados práticos evitam prejuízos na rotina:"
       ],
       "bullets": [
-        "Voltagem elétrica: os modelos brasileiros consultados são vendidos em versões específicas de 127V/110V ou 220V, não como bivolt. Potência, corrente e tipo de tomada variam conforme modelo e voltagem; confira a etiqueta e o manual antes da compra.",
+        "Voltagem elétrica: os modelos brasileiros são vendidos em versões específicas de 127V/110V ou 220V, não como bivolt. Potência, corrente e tipo de tomada variam conforme modelo e voltagem; confira a etiqueta e o manual antes da compra.",
         "Higiene do leite fresco: limpe o espumador conforme o manual após o uso para evitar resíduos e preservar o revestimento e o funcionamento do aparelho.",
         "Na Dolce Gusto, o leite não é líquido armazenado na máquina: bebidas lácteas usam uma cápsula própria de leite em pó, que vem no mesmo kit da cápsula de café ou cacau. A água quente extrai o pó dentro da própria cápsula lacrada, então nenhum leite entra em contato com os dutos internos da máquina."
       ]
@@ -328,7 +328,7 @@
       "heading": "Perguntas frequentes sobre Dolce Gusto e Nespresso",
       "bullets": [
         "A Nespresso faz cappuccino e chocolate quente? A Essenza Mini e a Pixie preparam café. Para cappuccino, use um espumador separado ou escolha uma máquina Nespresso com sistema de leite; as cápsulas Nespresso são de café, não de chocolate quente.",
-        "Qual cafeteira tem a cápsula mais barata? Na amostra coletada, a Dolce Gusto clássica oficial custava de R$ 1,69 a R$ 2,10 por cápsula; a Nespresso Original oficial, de R$ 3,70 a R$ 4,20. A compatível Farmers Origins aparecia por cerca de R$ 1,70. Preços mudam e devem ser conferidos antes da compra.",
+        "Qual cafeteira tem a cápsula mais barata? A Dolce Gusto clássica oficial custa de R$ 1,69 a R$ 2,10 por cápsula; a Nespresso Original oficial, de R$ 3,70 a R$ 4,20. A compatível Farmers Origins sai por cerca de R$ 1,70. Preços mudam e devem ser conferidos antes da compra.",
         "A Nespresso Vertuo aceita cápsulas de outras marcas? A página oficial brasileira informa que a Vertuo Pop aceita somente cápsulas da linha Vertuo. Para maior variedade de marcas compatíveis, considere o sistema Nespresso Original.",
         "A Dolce Gusto ocupa muito espaço na cozinha? Pouco: as Genio S e a Essenza Mini são compactas, e a Mini Me 2.0 é mais larga. Confira as medidas do modelo exato na ficha do fabricante."
       ]

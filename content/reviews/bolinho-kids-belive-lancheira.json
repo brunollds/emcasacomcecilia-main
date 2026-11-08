@@ -18,7 +18,7 @@
   "publishedAtISO": "2026-10-28",
   "draft": false,
   "isNew": true,
-  "description": "O bolinho kids da Belive de 45 g para a lancheira, lido pelo rótulo: calorias, açúcares, adoçantes e alergênicos. Veja o preço por unidade e por que o kit de 25 não o traz.",
+  "description": "O bolinho kids da Belive de 45 g para a lancheira, conforme o rótulo: calorias, açúcares, adoçantes e alergênicos. Veja o preço por unidade e por que o kit de 25 não o traz.",
   "metaDescription": "Bolinho kids da Belive para a lancheira, com o cupom MAUAD de 10% OFF no site: 45 g, calorias, açúcares e alergênicos pelo rótulo.",
   "image": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
   "imageAlt": "Pacote do bolinho kids de brigadeiro da Belive, com o título Bolinho kids",
@@ -165,9 +165,10 @@
     {
       "heading": "Preço por unidade e nos kits",
       "paragraphs": [
-        "Os preços abaixo são os de cartão, lidos nas páginas dos produtos no site da Belive em 28/10/2026."
+        "Os preços abaixo são os de cartão no site da Belive."
       ],
       "comparisonTable": {
+        "caption": "Preço de cartão no site da Belive, 28/10",
         "headers": [
           "Item",
           "Peso",

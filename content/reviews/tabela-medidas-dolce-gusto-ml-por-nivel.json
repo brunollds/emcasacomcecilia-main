@@ -60,7 +60,7 @@
     {
       "heading": "Como funciona a variação de volume por nível",
       "paragraphs": [
-        "A escala vai de 1 a 7 barras, mais a opção XL. Os volumes sobem a cada barra, do curto ao longo, e o XL é um passo extra: entre os dois manuais consultados, só o da Genio S Touch traz o XL, porque a Mini Me 2.0 não tem essa função; os valores de cada nível estão na tabela acima.",
+        "A escala vai de 1 a 7 barras, mais a opção XL. Os volumes sobem a cada barra, do curto ao longo, e o XL é um passo extra: entre os dois manuais, só o da Genio S Touch traz o XL, porque a Mini Me 2.0 não tem essa função; os valores de cada nível estão na tabela acima.",
         "Cada cápsula traz uma quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina segue o nível indicado para aquela receita; o volume final deve ser entendido como aproximado e pode variar conforme a bebida e o modelo.",
         "Nas bebidas preparadas em duas etapas, como lattes e cappuccinos, o volume total no copo é a soma das extrações. Na tabela fotografada, o cappuccino combina 200 ml da etapa de leite com 40 ml da etapa de café, totalizando 240 ml. O latte macchiato combina 170 ml de leite e 50 ml de café, totalizando 220 ml."
       ],
@@ -161,7 +161,7 @@
     {
       "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
       "alt": "Tabela de preparo impressa em uma embalagem Dolce Gusto com volumes por bebida",
-      "caption": "Foto da tabela de preparo da embalagem, usada como evidência complementar aos manuais consultados."
+      "caption": "Foto da tabela de preparo da embalagem, que complementa os manuais."
     },
     {
       "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp",
