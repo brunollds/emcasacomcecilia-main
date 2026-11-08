@@ -1,15 +1,33 @@
 import { brandLinks } from '@/lib/brandLinks';
 import { CECILIA_SINCE } from '@/lib/ceciliaCredentials';
+import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { absoluteUrl, type PageLink } from '@/lib/pageSeo';
 
 // O /faqs: as perguntas por categoria, com o link opcional de cada resposta. A página e o FAQPage do
 // JSON-LD leem esta lista, então o schema traz as mesmas perguntas e as mesmas respostas da página.
+// O /<locale>/faq usa o mesmo FaqView com os textos de localeFaqCopy.ts (getLocaleFaqPage, em localeFaq.ts).
 
 export type FaqLink = { href: string; label: string; external?: boolean };
 
 export type FaqQuestion = { pergunta: string; resposta: string; link?: FaqLink };
 
 export type FaqCategory = { id: string; categoria: string; perguntas: FaqQuestion[] };
+
+// Os textos da página fora das perguntas. O que está aqui é o português, que é o padrão do FaqView.
+export type FaqViewText = {
+  trail: readonly PageLink[];
+  trailAriaLabel?: string;
+  title: string;
+  intro: string;
+  categoriesLabel: string;
+  askTitle: string;
+  askText: string;
+  askLink: FaqLink;
+  newsTitle: string;
+  newsText: string;
+  newsLink: FaqLink;
+  newsSecondary: FaqLink;
+};
 
 export const FAQ_TRAIL: PageLink[] = [
   { name: 'Início', path: '/' },
@@ -21,6 +39,35 @@ export const FAQ_META = {
   description:
     'Respostas sobre o Em Casa com Cecília: como usar os cupons e códigos, links de afiliado e parcerias, guias e análises, receitas, vídeos e contato.',
 };
+
+export const FAQ_VIEW_TEXT_PT: FaqViewText = {
+  trail: FAQ_TRAIL,
+  title: 'Perguntas frequentes',
+  intro: 'O que mais perguntam sobre o site, os códigos das lojas e as parcerias. Não achou? Escreva para a gente.',
+  categoriesLabel: 'Categorias das perguntas',
+  askTitle: 'Ainda com dúvida?',
+  askText: 'Mande sua pergunta pelo formulário ou pelo direct do Instagram.',
+  askLink: { href: '/contato', label: 'Entrar em contato' },
+  newsTitle: 'Acompanhe as novidades',
+  newsText: 'Os vídeos novos saem primeiro no YouTube e no Instagram.',
+  newsLink: { href: brandLinks.youtube, label: 'Ver vídeos', external: true },
+  newsSecondary: { href: brandLinks.contactMailto, label: 'Pedir o mídia kit' },
+};
+
+// O /faqs em português fica em /faqs; os outros idiomas em /<locale>/faq. Os dois compartilham os alternates.
+export function getFaqPath(locale: Locale) {
+  return locale === 'pt' ? '/faqs' : `/${locale}/faq`;
+}
+
+// Canonical e hreflang dos 10 idiomas, com x-default no inglês.
+export function getFaqAlternates(locale: Locale) {
+  const languages: Record<string, string> = {};
+  for (const key of LOCALE_KEYS) {
+    languages[LOCALES[key].hreflang] = absoluteUrl(getFaqPath(key));
+  }
+  languages['x-default'] = absoluteUrl(getFaqPath('en'));
+  return { canonical: getFaqPath(locale), languages };
+}
 
 const email = brandLinks.contactEmail;
 
@@ -199,11 +246,11 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
   },
 ];
 
-export function getFaqPageJsonLd(categories: readonly FaqCategory[] = FAQ_CATEGORIES) {
+export function getFaqPageJsonLd(categories: readonly FaqCategory[] = FAQ_CATEGORIES, path = '/faqs') {
   return {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    url: absoluteUrl('/faqs'),
+    url: absoluteUrl(path),
     mainEntity: categories.flatMap((category) =>
       category.perguntas.map((item) => ({
         '@type': 'Question',

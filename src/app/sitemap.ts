@@ -7,6 +7,7 @@ import { getCouponHubEntries, getCouponHubLastVerified, getCouponHubPath } from 
 import { TRANSLATED_LOCALES, getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
 import { getEventHubPage, getEventHubPaths } from '@/lib/homeEvents';
+import { getFaqPath } from '@/lib/faqPage';
 import { LOCALE_HOME_LOCALES, getLocaleHomePath } from '@/lib/localeHome';
 import { OTHERS_SHELF_PATH, getOthersShelfContent } from '@/lib/reviewsHub';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
@@ -112,6 +113,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: getCouponHubLastVerified(getCouponHubEntries(locale)),
   }));
 
+  // A página de perguntas de cada idioma (/<locale>/faq); a de português é /faqs, em staticRoutes.
+  const faqRoutes: MetadataRoute.Sitemap = TRANSLATED_LOCALES.map((locale) => ({
+    url: `${BASE_URL}${getFaqPath(locale)}`,
+    priority: 0.5,
+    changeFrequency: 'monthly' as const,
+  }));
+
   const videoRoutes: MetadataRoute.Sitemap = videoPages.map((video) => ({
     url: video.canonicalUrl,
     priority: 0.7,
@@ -176,6 +184,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...couponRoutes,
     ...translatedCouponRoutes,
     ...couponHubRoutes,
+    ...faqRoutes,
     ...internationalYesStyleHubs,
     ...internationalReviewHubs,
   ];

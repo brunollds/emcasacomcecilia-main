@@ -6,10 +6,10 @@ import type { PageLink } from '@/lib/pageSeo';
 // A trilha visível das páginas de lista e de vídeo (subpáginas de loja, /videos e a página de cada vídeo): a
 // mesma lista do BreadcrumbList do JSON-LD, com o rótulo da trilha dos artigos em português. O último item é
 // a própria página, sem link (aria-current). A lista quebra linha: o título longo de um vídeo não estoura a
-// tela.
-export function PageTrail({ trail }: { trail: readonly PageLink[] }) {
+// tela. O nome para o leitor de tela sai do idioma da página (`label`); sem ele, o português.
+export function PageTrail({ trail, label = getArticleCopy('pt').breadcrumbLabel }: { trail: readonly PageLink[]; label?: string }) {
   return (
-    <nav aria-label={getArticleCopy('pt').breadcrumbLabel} className="mb-5">
+    <nav aria-label={label} className="mb-5">
       <ol className="flex flex-wrap items-center gap-x-2 gap-y-1 text-sm font-bold text-marinho-suave">
         {trail.map((item, index) => {
           const last = index === trail.length - 1;

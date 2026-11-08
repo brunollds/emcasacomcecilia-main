@@ -99,6 +99,18 @@ export function getLocaleHomeStores(locale: LocaleHomeLocale): LocaleHomeStore[]
   return stores;
 }
 
+// Os marcadores {name}, {since}, {email} e {stores} dos textos do idioma (a home e o /faq).
+export function getLocaleHomeFacts(locale: LocaleHomeLocale, stores: LocaleHomeStore[]) {
+  return {
+    name: CECILIA_FULL_NAME,
+    since: CECILIA_SINCE,
+    email: brandLinks.contactEmail,
+    stores: new Intl.ListFormat(LOCALES[locale].htmlLang, { style: 'long', type: 'conjunction' }).format(
+      stores.map((store) => store.brand)
+    ),
+  };
+}
+
 type HubReviews = Parameters<typeof getPublishedReviewsForLocale>[1];
 
 type LocaleHomeFaqItem = { question: string; answer: string; links?: Array<{ label: string; href: string }> };
@@ -111,12 +123,7 @@ export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubRevie
     throw new Error(`[localeHome] /${locale} sem loja parceira: a home de cada idioma precisa de uma loja ativa com página traduzida.`);
   }
 
-  const facts = {
-    name: CECILIA_FULL_NAME,
-    since: CECILIA_SINCE,
-    email: brandLinks.contactEmail,
-    stores: new Intl.ListFormat(htmlLang, { style: 'long', type: 'conjunction' }).format(stores.map((store) => store.brand)),
-  };
+  const facts = getLocaleHomeFacts(locale, stores);
   const listed = getPublishedReviewsForLocale(locale, reviews);
   const dateFormat = new Intl.DateTimeFormat(htmlLang, { dateStyle: 'medium', timeZone: 'UTC' });
   const longDate = new Intl.DateTimeFormat(htmlLang, { dateStyle: 'long', timeZone: 'UTC' });

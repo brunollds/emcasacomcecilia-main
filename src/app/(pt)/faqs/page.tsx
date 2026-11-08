@@ -1,18 +1,18 @@
 import type { Metadata } from 'next';
 import { couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { FaqView } from '@/components/faqs/FaqView';
-import { FAQ_CATEGORIES, FAQ_META } from '@/lib/faqPage';
+import { FAQ_CATEGORIES, FAQ_META, getFaqAlternates, getFaqPath } from '@/lib/faqPage';
 import { LOCALES } from '@/lib/i18n/locales';
 import { SITE_NAME } from '@/lib/pageSeo';
 
 export const metadata: Metadata = {
   title: FAQ_META.title,
   description: FAQ_META.description,
-  alternates: { canonical: '/faqs' },
+  alternates: getFaqAlternates('pt'),
   openGraph: {
     title: FAQ_META.title,
     description: FAQ_META.description,
-    url: '/faqs',
+    url: getFaqPath('pt'),
     siteName: SITE_NAME,
     locale: LOCALES.pt.openGraphLocale,
     type: 'website',
