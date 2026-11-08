@@ -28,6 +28,7 @@ import { PRIVACY_META, PRIVACY_SECTIONS, PRIVACY_TRAIL, privacyPlainText, type P
 import { getListedPortugueseReviews } from '@/lib/reviewDiscovery';
 import { SEARCH_COPY, SEARCH_TRAIL, createSearchPage, getSearchQuery, searchSite } from '@/lib/searchPage';
 import { SEARCH_PAGE_METADATA } from '@/lib/siteSearch.mjs';
+import { EVERY_STORE_TRANSLATED_CLAIM } from './locale-home-guards';
 
 // As páginas institucionais. A /sobre: os números saem dos dados (os mesmos da home e das listas em
 // português), o selo da YesStyle só aparece enquanto o certificado vale, as marcas parceiras, a trilha igual
@@ -265,6 +266,16 @@ for (const locale of TRANSLATED_LOCALES) {
       assert.doesNotMatch(item.link.href, PT_ONLY_PATH, `${locale}: link para página só do PT`);
     }
   }
+  // "Onde uso cada código": a resposta é a do FAQ (só as lojas do idioma têm página), não a da home, e nenhuma
+  // resposta do FAQ diz que toda loja parceira tem página no idioma. O padrão tem de pegar o texto da home.
+  const everyStore = EVERY_STORE_TRANSLATED_CLAIM[locale];
+  assert.match(home.faqWhereAnswer, everyStore, `${locale}: o padrão não pega o texto da home`);
+  const where = questions.find((item) => item.pergunta === (homeOverride.where?.question ?? home.faqWhereQuestion));
+  assert.ok(where, `${locale}: sem a pergunta "onde uso cada código"`);
+  assert.equal(where.resposta, homeOverride.where?.answer, `${locale}: a resposta de "onde uso" não é a do FAQ`);
+  assert.notEqual(where.resposta, home.faqWhereAnswer, `${locale}: a resposta de "onde uso" é a da home`);
+  assert.equal(where.link?.href, `/${locale}/coupons`, `${locale}: a resposta de "onde uso" sem o link do hub de cupons`);
+  for (const item of questions) assert.doesNotMatch(item.resposta, everyStore, `${locale}: o FAQ diz que toda loja tem página no idioma: ${item.resposta}`);
   const cecilia = questions.find((item) => item.pergunta.includes('CECILIA010'));
   assert.ok(cecilia?.resposta.includes('Reward Code'), `${locale}: a resposta do CECILIA010 não cita o Reward Code`);
   const shein = questions.find((item) => item.pergunta.includes('4CW5Y'));

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { getYesStylePage } from '../src/components/coupons/yesstyleCopy';
 import { getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
 import { getCouponBySlug, getStoreCodeKind, type CouponCodeKind } from '../src/lib/couponsData';
-import { getLocalizedCoupon } from '../src/lib/couponTranslations';
+import { getLocalizedCoupon, type TranslatedLocale } from '../src/lib/couponTranslations';
 import { LOCALE_HOME_LOCALES, getLocaleHomeStores } from '../src/lib/localeHome';
 import { YESSTYLE_COUPONS_FACTUAL } from '../src/lib/yesstyleCoupons';
 
@@ -14,6 +14,21 @@ import { YESSTYLE_COUPONS_FACTUAL } from '../src/lib/yesstyleCoupons';
 const getHomeStoreSlugs = (): string[] => [
   ...new Set(LOCALE_HOME_LOCALES.flatMap((locale) => getLocaleHomeStores(locale).map((store) => store.slug))),
 ];
+
+// "Cada loja parceira tem uma página no seu idioma", nos 9 idiomas: só parte das lojas tem página traduzida
+// (hoje a YesStyle, a SHEIN e a Hostinger), então nenhum FAQ de idioma pode dizer isso. A home ainda diz, e a
+// conferência do FAQ garante que o texto da home não volte para lá.
+export const EVERY_STORE_TRANSLATED_CLAIM: Record<TranslatedLocale, RegExp> = {
+  en: /\b(?:every|each) (?:partner )?store (?:has|have)\b|\ball (?:the )?(?:partner )?stores (?:has|have)\b/i,
+  es: /\bcada tienda (?:asociada )?tiene\b|\btodas las tiendas (?:asociadas )?tienen\b/i,
+  fr: /\bchaque boutique (?:partenaire )?a\b|\btoutes les boutiques\b/i,
+  de: /\bjeder (?:Partner-)?Shop hat\b|\balle (?:Partner-)?Shops haben\b/i,
+  it: /\bogni negozio (?:partner )?ha\b|\btutti i negozi\b/i,
+  ko: /파트너 (?:스토어|매장)마다|모든 파트너 (?:스토어|매장)/,
+  ja: /各パートナーショップ|すべてのパートナーショップ|全ての(?:パートナー)?ショップ/,
+  'zh-hant': /每[家間]合作商店|所有合作商店/,
+  'zh-hans': /每[家间]合作商店|所有合作商店/,
+};
 
 // As palavras de cupom, uma lista só: as do sidebarCopy.ts (couponLabel), os termos genéricos de desconto
 // em coreano e japonês ("할인 코드", "割引コード") e os compostos do alemão. As palavras de código em geral

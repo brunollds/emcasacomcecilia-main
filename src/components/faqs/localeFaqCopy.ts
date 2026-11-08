@@ -165,17 +165,69 @@ export const FAQ_SOURCE_PT: FaqLocaleCopy = {
 
 // Os 9 idiomas fora do PT. Cada um segue a forma de FAQ_SOURCE_PT, com os mesmos ids de categoria.
 
-// Texto próprio do FAQ no lugar do da home, só onde a home usa um tratamento que o resto do FAQ não usa: a home
-// alemã fala por "du" e o FAQ alemão por "Sie". A home segue como está (localeHomeCopy.ts muda em outra fase).
-export const HOME_FAQ_OVERRIDES: Partial<Record<TranslatedLocale, Partial<Record<HomeFaqKey, { question?: string; answer?: string }>>>> = {
+// Texto próprio do FAQ no lugar do da home, onde o texto da home não serve ao FAQ. A resposta de "onde uso cada
+// código" é trocada nos 9 idiomas: a home diz que cada loja parceira tem uma página no idioma do leitor, e só parte
+// das lojas tem (hoje a YesStyle, a SHEIN e a Hostinger). A home alemã ainda fala por "du" e o FAQ alemão por
+// "Sie", então o alemão troca também o contato. A home segue como está (localeHomeCopy.ts muda em outra fase).
+export type HomeFaqOverride = { question?: string; answer?: string; link?: FaqCopyLink };
+
+export const HOME_FAQ_OVERRIDES: Record<TranslatedLocale, Partial<Record<HomeFaqKey, HomeFaqOverride>>> = {
+  en: {
+    where: {
+      answer: 'The partner stores available in your language each have a page that explains the code, where to use it and when it was last checked.',
+      link: { label: 'See the coupons', target: 'coupons' },
+    },
+  },
+  es: {
+    where: {
+      answer: 'Las tiendas asociadas disponibles en tu idioma tienen cada una una página que explica el código, dónde usarlo y cuándo se revisó por última vez.',
+      link: { label: 'Ver los cupones', target: 'coupons' },
+    },
+  },
+  fr: {
+    where: {
+      answer: 'Les boutiques partenaires disponibles dans votre langue ont chacune une page qui explique le code, où l’utiliser et quand il a été vérifié pour la dernière fois.',
+      link: { label: 'Voir les codes promo', target: 'coupons' },
+    },
+  },
   de: {
     where: {
-      answer:
-        'Jeder Partner-Shop hat eine Seite in Ihrer Sprache, die seinen Code erklärt, wo man ihn nutzt und wann er zuletzt geprüft wurde.',
+      answer: 'Die Partner-Shops, die in Ihrer Sprache verfügbar sind, haben jeweils eine Seite, die den Code erklärt, wo man ihn nutzt und wann er zuletzt geprüft wurde.',
+      link: { label: 'Gutscheine ansehen', target: 'coupons' },
     },
     contact: {
       question: 'Wie kann ich Sie kontaktieren?',
       answer: 'Schreiben Sie an {email}.',
+    },
+  },
+  it: {
+    where: {
+      answer: 'I negozi partner disponibili nella tua lingua hanno ciascuno una pagina che spiega il codice, dove usarlo e quando è stato verificato l’ultima volta.',
+      link: { label: 'Vedi i coupon', target: 'coupons' },
+    },
+  },
+  ko: {
+    where: {
+      answer: '사용자의 언어로 이용할 수 있는 파트너 스토어에는 각각 코드, 사용하는 곳, 마지막 확인 날짜를 안내하는 페이지가 있어요.',
+      link: { label: '쿠폰 보기', target: 'coupons' },
+    },
+  },
+  ja: {
+    where: {
+      answer: 'あなたの言語で利用できるパートナーショップには、それぞれコード、使う場所、最終確認日を説明するページがあります。',
+      link: { label: 'クーポンを見る', target: 'coupons' },
+    },
+  },
+  'zh-hant': {
+    where: {
+      answer: '提供你所用語言版本的合作商店，每家都有一個頁面，說明代碼、使用位置和最後確認的日期。',
+      link: { label: '查看優惠碼', target: 'coupons' },
+    },
+  },
+  'zh-hans': {
+    where: {
+      answer: '提供你所用语言版本的合作商店，每家都有一个页面，说明代码、使用位置和最后确认的日期。',
+      link: { label: '查看优惠码', target: 'coupons' },
     },
   },
 };

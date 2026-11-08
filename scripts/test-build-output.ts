@@ -47,7 +47,7 @@ import {
   getLocaleHomeStores,
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getBreadcrumbListJsonLd, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
-import { FAQ_SOURCE_PT } from '../src/components/faqs/localeFaqCopy';
+import { FAQ_SOURCE_PT, HOME_FAQ_OVERRIDES } from '../src/components/faqs/localeFaqCopy';
 import { getFaqPath } from '../src/lib/faqPage';
 import { getLocaleFaqPage } from '../src/lib/localeFaq';
 import { COUPON_HUB_COPY, PT_COUPON_HUB_TEXT } from '../src/components/coupons/couponHubCopy';
@@ -64,7 +64,7 @@ import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageC
 import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 import { getConsentCopy } from '../src/components/consent/consentCopy';
-import { LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp, escapeRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
+import { EVERY_STORE_TRANSLATED_CLAIM, LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp, escapeRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar, a
@@ -4179,6 +4179,15 @@ for (const locale of TRANSLATED_LOCALES) {
     assert.ok(target === `/${locale}` || target.startsWith(`/${locale}/`), `${pagePath}: link interno fora do idioma: ${target}`);
     assert.doesNotMatch(target, FAQ_PT_ONLY_PATH, `${pagePath}: link para página só do PT: ${target}`);
   }
+  // Nenhuma resposta diz que toda loja parceira tem página no idioma, e a de "onde uso cada código" é a do FAQ, não a da home.
+  const homeCopy = getLocaleHomeCopy(locale);
+  for (const item of visibleFaq) assert.doesNotMatch(item.answer, EVERY_STORE_TRANSLATED_CLAIM[locale], `${pagePath}: o FAQ diz que toda loja tem página no idioma: ${item.answer}`);
+  const whereOverride = HOME_FAQ_OVERRIDES[locale].where;
+  const whereItem = visibleFaq.find((item) => item.question === textOf(whereOverride?.question ?? homeCopy.faqWhereQuestion));
+  assert.ok(whereItem, `${pagePath}: sem a pergunta "onde uso cada código"`);
+  assert.equal(whereItem.answer, textOf(whereOverride?.answer ?? ''), `${pagePath}: a resposta de "onde uso" não é a do FAQ`);
+  assert.ok(!visibleFaq.some((item) => item.answer === textOf(homeCopy.faqWhereAnswer)), `${pagePath}: a resposta da home em "onde uso"`);
+  assert.ok(main.includes(`href="/${locale}/coupons"`), `${pagePath}: sem o link do hub de cupons`);
   const cecilia = visibleFaq.find((item) => item.question.includes('CECILIA010'));
   assert.ok(cecilia?.answer.includes('Reward Code'), `${pagePath}: resposta do CECILIA010 sem o Reward Code`);
   assert.ok(main.includes(`href="/${locale}/coupons/shein"`), `${pagePath}: sem o link da página da SHEIN na resposta do 4CW5Y`);

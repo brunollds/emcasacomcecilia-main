@@ -18,8 +18,9 @@ import { getLocaleHomeFacts, getLocaleHomeStores } from '@/lib/localeHome';
 import { getReviewHubPath } from '@/lib/review-hubs';
 
 // O /<locale>/faq: as perguntas e os textos de cada idioma fora do PT, montados no servidor. As 4 perguntas
-// da home do idioma saem de localeHomeCopy (o mesmo texto da home, salvo o HOME_FAQ_OVERRIDES), e as outras, de
-// localeFaqCopy. O FaqView só desenha: a lista de categorias e o texto da página saem daqui no formato do /faqs.
+// da home do idioma saem de localeHomeCopy (o mesmo texto da home, salvo o HOME_FAQ_OVERRIDES: a resposta de
+// "onde uso cada código" nos 9 idiomas e o contato em alemão), e as outras, de localeFaqCopy. O FaqView só
+// desenha: a lista de categorias e o texto da página saem daqui no formato do /faqs.
 
 export type LocaleFaqPage = {
   locale: TranslatedLocale;
@@ -67,10 +68,11 @@ export function getLocaleFaqPage(locale: TranslatedLocale): LocaleFaqPage {
   const toQuestion = (entry: FaqCopyEntry): FaqQuestion => {
     if ('home' in entry) {
       const [questionKey, answerKey] = HOME_QUESTION_KEYS[entry.home];
-      const override = HOME_FAQ_OVERRIDES[locale]?.[entry.home];
+      const override = HOME_FAQ_OVERRIDES[locale][entry.home];
       return {
         pergunta: override?.question ?? homeCopy[questionKey],
         resposta: fillTemplate(override?.answer ?? homeCopy[answerKey], facts),
+        link: override?.link ? resolveLink(override.link, locale) : undefined,
       };
     }
     return {
