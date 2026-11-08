@@ -457,7 +457,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     },
   },
   ja: {
-    discount: 'プロモーションと割引',
+    discount: 'セールと割引',
     offerTypeLabel: 'オファー',
     offerTypeLabelPlural: 'オファー',
     offerActionLabel: 'SHEIN のオファーを見る',
