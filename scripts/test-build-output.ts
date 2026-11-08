@@ -46,7 +46,10 @@ import {
   getLocaleHomePath,
   getLocaleHomeStores,
 } from '../src/lib/localeHome';
-import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
+import { SITE_NAME, SITE_SOCIAL_IMAGE, getBreadcrumbListJsonLd, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
+import { FAQ_SOURCE_PT, HOME_FAQ_OVERRIDES } from '../src/components/faqs/localeFaqCopy';
+import { getFaqPath } from '../src/lib/faqPage';
+import { getLocaleFaqPage } from '../src/lib/localeFaq';
 import { COUPON_HUB_COPY, PT_COUPON_HUB_TEXT } from '../src/components/coupons/couponHubCopy';
 import { getCouponHubEntries, getCouponHubPath } from '../src/lib/couponHub';
 import { splitInlineMarkdown } from '../src/lib/inlineMarkdown';
@@ -61,7 +64,7 @@ import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageC
 import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 import { getConsentCopy } from '../src/components/consent/consentCopy';
-import { LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp, escapeRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
+import { EVERY_STORE_TRANSLATED_CLAIM, LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp, escapeRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar, a
@@ -4118,6 +4121,87 @@ for (const { file, locale } of couponHubPages) {
     assert.ok(!portugueseUpTo.test(JSON.stringify(jsonLdOf(html))), `${file}: “até” em português no JSON-LD do hub`);
   }
 }
+
+// O FAQ de cada idioma (/<locale>/faq) e o /faqs em português: canonical e hreflang dos 10 idiomas com x-default
+// em inglês, o FAQPage igual às perguntas da página, a trilha igual ao BreadcrumbList, nenhum texto em português
+// e nenhum link para página que só existe em PT. A sitemap leva os 9.
+const FAQ_PT_ONLY_PATH = /^\/(sobre|contato|receitas|videos|cupons|reviews|faqs|privacidade|buscar)(\/|$)/;
+const FAQ_PT_WORDS = /não|também|você|vocês|ção|ções|cupom|\bpelo\b|\bpela\b/i;
+const hreflangOf = (head: string, lang: string) =>
+  head
+    .split('<link')
+    .find((tag) => new RegExp(`hreflang="${escapeRegExp(lang)}"`, 'i').test(tag))
+    ?.match(/href="([^"]+)"/)?.[1];
+for (const locale of TRANSLATED_LOCALES) {
+  const pagePath = getFaqPath(locale);
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const html = read(file);
+  const head = headOf(html);
+  assert.ok(head.includes(`rel="canonical" href="${SITE_URL}${pagePath}"`), `${pagePath}: canonical`);
+  assert.equal([...head.matchAll(/hreflang="([^"]+)"/gi)].length, LOCALE_KEYS.length + 1, `${pagePath}: hreflang dos 10 idiomas mais x-default`);
+  assert.equal(hreflangOf(head, LOCALES[locale].hreflang), `${SITE_URL}${pagePath}`, `${pagePath}: hreflang do próprio idioma`);
+  assert.equal(hreflangOf(head, 'pt-BR'), `${SITE_URL}/faqs`, `${pagePath}: hreflang do português`);
+  assert.equal(hreflangOf(head, 'x-default'), `${SITE_URL}/en/faq`, `${pagePath}: x-default`);
+  assert.ok(sitemapUrls.includes(`${SITE_URL}${pagePath}`), `${pagePath}: fora da sitemap`);
+
+  const main = html.match(/<main\b[\s\S]*<\/main>/)?.[0] ?? '';
+  const mainText = textOf(main.replace(/<script\b[\s\S]*?<\/script>/g, ''));
+  const schemas = jsonLdOf(main);
+  assert.deepEqual(schemas.map((schema) => schema['@type']).sort(), ['BreadcrumbList', 'FAQPage'], `${pagePath}: tipos do JSON-LD`);
+  assert.equal((main.match(/<h1\b/g) ?? []).length, 1, `${pagePath}: H1`);
+
+  const page = getLocaleFaqPage(locale);
+  const visibleFaq = [...main.matchAll(/<details\b[^>]*>\s*<summary\b[^>]*>([\s\S]*?)<\/summary>\s*<div\b[^>]*>\s*<p\b[^>]*>([\s\S]*?)<\/p>/g)].map(
+    ([, question, answer]) => ({ question: textOf(question), answer: textOf(answer) })
+  );
+  assert.equal(visibleFaq.length, page.categories.flatMap((category) => category.perguntas).length, `${pagePath}: perguntas na página`);
+  assert.deepEqual(
+    schemas.find((schema) => schema['@type'] === 'FAQPage').mainEntity.map(
+      ({ name, acceptedAnswer }: { name: string; acceptedAnswer: { text: string } }) => ({ question: name, answer: acceptedAnswer.text })
+    ),
+    visibleFaq,
+    `${pagePath}: FAQPage diferente das perguntas na página`
+  );
+  assert.deepEqual(
+    schemas.find((schema) => schema['@type'] === 'BreadcrumbList'),
+    getBreadcrumbListJsonLd(page.text.trail),
+    `${pagePath}: trilha diferente do BreadcrumbList`
+  );
+  assert.ok(!FAQ_PT_WORDS.test(mainText.replace(/mídia kit/gi, '')), `${pagePath}: palavra em português na página`);
+  assert.ok(!/\bBrasil\b/.test(mainText), `${pagePath}: "Brasil" na página`);
+  for (const entry of FAQ_SOURCE_PT.categories.flatMap((category) => category.entries)) {
+    if ('question' in entry) assert.ok(!mainText.includes(entry.question), `${pagePath}: pergunta em português: ${entry.question}`);
+  }
+  for (const [, href] of main.matchAll(/href="([^"]+)"/g)) {
+    const target = decodeHtml(href);
+    if (target.startsWith('#') || target.startsWith('mailto:') || target.startsWith('https://')) continue;
+    assert.ok(target === `/${locale}` || target.startsWith(`/${locale}/`), `${pagePath}: link interno fora do idioma: ${target}`);
+    assert.doesNotMatch(target, FAQ_PT_ONLY_PATH, `${pagePath}: link para página só do PT: ${target}`);
+  }
+  // Nenhuma resposta diz que toda loja parceira tem página no idioma, e a de "onde uso cada código" é a do FAQ, não a da home.
+  const homeCopy = getLocaleHomeCopy(locale);
+  for (const item of visibleFaq) assert.doesNotMatch(item.answer, EVERY_STORE_TRANSLATED_CLAIM[locale], `${pagePath}: o FAQ diz que toda loja tem página no idioma: ${item.answer}`);
+  const whereOverride = HOME_FAQ_OVERRIDES[locale].where;
+  const whereItem = visibleFaq.find((item) => item.question === textOf(whereOverride?.question ?? homeCopy.faqWhereQuestion));
+  assert.ok(whereItem, `${pagePath}: sem a pergunta "onde uso cada código"`);
+  assert.equal(whereItem.answer, textOf(whereOverride?.answer ?? ''), `${pagePath}: a resposta de "onde uso" não é a do FAQ`);
+  assert.ok(!visibleFaq.some((item) => item.answer === textOf(homeCopy.faqWhereAnswer)), `${pagePath}: a resposta da home em "onde uso"`);
+  assert.ok(main.includes(`href="/${locale}/coupons"`), `${pagePath}: sem o link do hub de cupons`);
+  const cecilia = visibleFaq.find((item) => item.question.includes('CECILIA010'));
+  assert.ok(cecilia?.answer.includes('Reward Code'), `${pagePath}: resposta do CECILIA010 sem o Reward Code`);
+  assert.ok(main.includes(`href="/${locale}/coupons/shein"`), `${pagePath}: sem o link da página da SHEIN na resposta do 4CW5Y`);
+  if (locale === 'de') assert.doesNotMatch(mainText, /\b(?:du|dein\w*|dir|dich|euch|eure\w*)\b|\bSchreib\s/i, `${pagePath}: tratamento por "du" no FAQ alemão`);
+}
+
+// O /faqs em português: o mesmo canonical e hreflang, e o x-default do inglês apontando para o FAQ do idioma.
+const ptFaqFile = builtFile(`${SITE_URL}/faqs`);
+assert.ok(ptFaqFile, '/faqs: página não gerada no build');
+const ptFaqHead = headOf(read(ptFaqFile));
+assert.ok(ptFaqHead.includes(`rel="canonical" href="${SITE_URL}/faqs"`), '/faqs: canonical');
+assert.equal([...ptFaqHead.matchAll(/hreflang="([^"]+)"/gi)].length, LOCALE_KEYS.length + 1, '/faqs: hreflang dos 10 idiomas mais x-default');
+assert.equal(hreflangOf(ptFaqHead, 'pt-BR'), `${SITE_URL}/faqs`, '/faqs: hreflang do português');
+assert.equal(hreflangOf(ptFaqHead, 'x-default'), `${SITE_URL}/en/faq`, '/faqs: x-default');
 
 console.log(
   `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`

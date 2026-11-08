@@ -10,6 +10,8 @@ import { getBreadcrumbListJsonLd, type PageLink } from '@/lib/pageSeo';
 // as do painel da Cecília na home, que o sizes do CeciliaPhotoCard supõe.
 type PageHeaderProps = {
   trail: readonly PageLink[];
+  // O nome da trilha para o leitor de tela, no idioma da página; sem ele, o português.
+  trailAriaLabel?: string;
   title: string;
   // Sem introdução (o /buscar com um termo), a fila de botões sobe para logo depois do título.
   intro?: ReactNode;
@@ -18,11 +20,11 @@ type PageHeaderProps = {
   children?: ReactNode;
 };
 
-export function PageHeader({ trail, title, intro, aside, children }: PageHeaderProps) {
+export function PageHeader({ trail, trailAriaLabel, title, intro, aside, children }: PageHeaderProps) {
   return (
     <header className={`${SHELF_CONTAINER} pt-8 pb-6 md:pt-12 md:pb-10`}>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(getBreadcrumbListJsonLd(trail)) }} />
-      <PageTrail trail={trail} />
+      <PageTrail trail={trail} label={trailAriaLabel} />
       <div
         className={
           aside
