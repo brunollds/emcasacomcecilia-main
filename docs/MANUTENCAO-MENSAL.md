@@ -166,8 +166,12 @@ compra de fora) e qual link vale fora do português. Sem essa resposta, a loja e
    (`tiers`) não aceita tradução. Na loja de código, a `CODE_FIELD_POLICY` decide o que herda do PT.
 3. Textos: a sessão escreve o português, o Sonnet gera os 9 idiomas e a sessão revisa. Nenhum texto fora do PT cita o
    Brasil; alemão com "Sie"; francês com espaço sem quebra (NBSP) antes de `:`, `;`, `?` e `%`.
-4. Pôr o slug em `INTERNATIONAL_STORES` (`src/lib/storeBanners.ts`). É o que libera link de um país só nas campanhas dos
-   10 idiomas, e o `test:coupon-translations` barra loja ativa dessa lista sem página nos 9 idiomas.
+4. Só com a confirmação do Bruno de que a loja corrige o link e o código para a região do visitante, nos links que a
+   parceria usa (e de que a oferta vale para quem compra de fora), pôr o slug em `INTERNATIONAL_STORES`
+   (`src/lib/storeBanners.ts`). Essa lista libera link de um país só nas campanhas dos 10 idiomas, e ter link internacional
+   ou vender fora do Brasil não prova isso. Sem a confirmação, a loja não entra na lista: as páginas dos 9 idiomas saem do
+   mesmo jeito, e as campanhas dos 10 idiomas levam um link que valha em todos. Na lista, o `test:coupon-translations` barra
+   loja ativa sem página nos 9 idiomas.
 5. Rodar `npm run typecheck`, `npm run test:coupon-translations`, `npm run test:locale-home` e o `npm run build`.
 
 **Entra sozinho com a entrada do passo 2:** as páginas `/<idioma>/coupons/<loja>` com hreflang, o cartão no hub
