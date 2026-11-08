@@ -196737,5 +196737,766 @@ export const reviewsData: unknown[] = [
         "slug": "tabela-de-medidas-insider"
       }
     ]
+  },
+  {
+    "locale": "pt",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "8 de novembro de 2026",
+    "publishedAtISO": "2026-11-08",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "id": 859,
+    "slug": "sutia-insider-qual-escolher",
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links e pelo cupom. Não vestimos os sutiãs; testamos o desconto no carrinho.",
+    "title": "Sutiã Insider: Comfy, Flex, Lounge ou NakedFeel, qual escolher?",
+    "seoTitle": "Sutiã Insider: Comfy, Flex, Lounge ou NakedFeel?",
+    "description": "Comfy e Flex não têm bojo; o Lounge também vira top; os NakedFeel usam letras, não numeração. Veja a sustentação, as medidas, o preço com o cupom e a regra de troca.",
+    "metaDescription": "EMCASACOMCECILIA dá 15% OFF na Insider. Sutiã Comfy, Flex, Lounge ou NakedFeel: bojo, sustentação, tamanho e o preço com o cupom.",
+    "image": "/images/reviews/insider/sutia-insider-qual-escolher-capa.webp",
+    "imageAlt": "Sutiã Lounge azul e Sutiã Decote V NakedFeel preto em duas fotos, com logo da Insider e título na faixa",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sem bojo, compare Comfy e Flex; para usar também como top, considere o Lounge. Nos NakedFeel, escolha entre mais cobertura, decote V ou alças removíveis e confira as medidas de cada modelo. O cupom EMCASACOMCECILIA deu 15% OFF nos seis sutiãs no teste; os conjuntos têm uma exceção explicada no quadro."
+        ]
+      },
+      {
+        "heading": "Os seis sutiãs lado a lado",
+        "paragraphs": [
+          "A primeira divisão é a grade: Comfy, Flex e Lounge usam numeração, e os três NakedFeel usam letras. Depois vêm o bojo e a sustentação, nas palavras da loja."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas e teste de carrinho em 08/11/2026.",
+          "headers": [
+            "Sutiã",
+            "Bojo e formato",
+            "Sustentação, pela loja",
+            "Tamanhos",
+            "Preço da página",
+            "Com o cupom, no carrinho"
+          ],
+          "rows": [
+            [
+              "[Sutiã Comfy](https://creators.insiderstore.com.br/fuoUSQd)",
+              "Sem bojo",
+              "Leve e média: as informações da loja divergem",
+              "40 a 48",
+              "R$ 99 (de R$ 179)",
+              "R$ 84,15"
+            ],
+            [
+              "[Sutiã Flex](https://creators.insiderstore.com.br/dZEzC9B)",
+              "Sem bojo, triângulo, decote V, três opções de alça",
+              "Leve",
+              "40 a 48",
+              "R$ 99 (de R$ 155)",
+              "R$ 84,15"
+            ],
+            [
+              "[Sutiã Top Lounge](https://creators.insiderstore.com.br/wb2XzkL)",
+              "Top, bojos removíveis, sem fecho atrás, ajuste na alça",
+              "Média",
+              "40 a 48",
+              "R$ 99 (de R$ 185)",
+              "R$ 84,15"
+            ],
+            [
+              "[Sutiã Decote V NakedFeel](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-decote-v-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Decote V, bojo removível, alças reguláveis",
+              "Intermediária",
+              "PP a XGG",
+              "R$ 179 a R$ 189, conforme cor e tamanho",
+              "R$ 152,15 no teste, na opção de R$ 179; R$ 160,65 pela conta, na de R$ 189"
+            ],
+            [
+              "[Sutiã Top NakedFeel](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-top-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Mais cobertura, bojo removível",
+              "Intermediária",
+              "PP a XGG",
+              "R$ 179 a R$ 189, conforme cor e tamanho",
+              "R$ 152,15 no teste, na opção de R$ 179; R$ 160,65 pela conta, na de R$ 189"
+            ],
+            [
+              "[Sutiã com Alças Removíveis NakedFeel](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-com-alcas-removiveis-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Alças removíveis e reguláveis",
+              "\"Suporte sem apertar\"; a página não dá um nível",
+              "PP a XGG",
+              "R$ 189 a R$ 199, conforme cor e tamanho",
+              "R$ 169,15 no teste, na opção de R$ 199; R$ 160,65 pela conta, na de R$ 189"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O preço da página pode mudar durante a [Black Friday da Insider para mulheres](/reviews/black-friday-insider-feminino)."
+        ]
+      },
+      {
+        "heading": "Comfy, Flex e Lounge: a linha de numeração",
+        "paragraphs": [
+          "O Comfy é para quem prefere um modelo sem bojo na rotina. A loja usa duas classificações de sustentação para ele, leve e média; essa divergência não permite fixar um nível para o modelo.",
+          "O Flex é para quem troca de decote durante a semana. Ele tem formato de triângulo, decote V e três opções de alça, e a loja o indica para o trabalho e o fim de semana. Não é o caso de quem busca firmeza: aqui a loja só fala em sustentação leve.",
+          "O Lounge pode aparecer no look como top, com bojos removíveis, ajuste na alça e sem fecho nas costas. A Insider o classifica como sustentação média e sugere usá-lo por baixo da roupa, em looks casuais ou em casa. Se você prefere fecho nas costas, confira o Decote V NakedFeel, mostrado assim nas fotos da loja.",
+          "As páginas publicam nota 4,9 em 332 avaliações no Comfy, 4,8 em 658 no Flex e 4,9 em 453 no Lounge."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/sutia-insider-qual-escolher-comfy.webp",
+            "alt": "Mulher com o Sutiã Comfy azul-marinho sem bojo e calcinha da mesma cor",
+            "caption": "O Comfy em azul. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://creators.insiderstore.com.br/fuoUSQd"
+          },
+          {
+            "src": "/images/reviews/insider/sutia-insider-qual-escolher-flex.webp",
+            "alt": "Mulher com o Sutiã Flex azul-claro de formato triângulo e calcinha de cintura alta",
+            "caption": "O Flex em azul-claro. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://creators.insiderstore.com.br/dZEzC9B"
+          },
+          {
+            "src": "/images/reviews/insider/sutia-insider-qual-escolher-lounge.webp",
+            "alt": "Mulher com o Sutiã Top Lounge azul-marinho, de faixa larga abaixo do busto",
+            "caption": "O Lounge em azul. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://creators.insiderstore.com.br/wb2XzkL"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Sutiã Comfy",
+              "url": "https://creators.insiderstore.com.br/fuoUSQd",
+              "howTo": "Por baixo de camiseta ou camisa, quando você prefere um sutiã sem bojo.",
+              "occasion": "Dia a dia, trabalho e em casa."
+            },
+            {
+              "piece": "Sutiã Flex",
+              "url": "https://creators.insiderstore.com.br/dZEzC9B",
+              "howTo": "Troque entre as três opções de alça conforme o decote da roupa.",
+              "occasion": "Do trabalho ao fim de semana."
+            },
+            {
+              "piece": "Sutiã Top Lounge",
+              "url": "https://creators.insiderstore.com.br/wb2XzkL",
+              "howTo": "Por baixo da roupa, ou sozinho, como top, com ou sem os bojos.",
+              "occasion": "Looks casuais e em casa.",
+              "pairsWith": [
+                {
+                  "label": "Calça FutureForm feminina",
+                  "url": "https://creators.insiderstore.com.br/xi4EYLQ",
+                  "note": "Uma opção de cintura alta para combinar com o Lounge usado como top."
+                },
+                {
+                  "label": "camisa aberta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "NakedFeel: a linha de letras",
+        "paragraphs": [
+          "O Decote V é para roupa que mostra um pouco mais: a loja o indica sob blusas, camisas e peças mais abertas. O bojo sai, e as alças regulam. Nas fotos da loja, o fecho fica nas costas. Para quem quer cobrir mais o colo, o Top atende melhor.",
+          "O Top é o de mais cobertura, nas palavras da página, com a mesma sustentação intermediária e o bojo removível. A loja diz que os acabamentos selados ficam discretos sob a roupa. Para um decote mais aberto, o Decote V é o indicado.",
+          "O terceiro é o que muda de formato: com alças reguladas ou sem elas. A página promete \"suporte sem apertar\", sem dizer um nível de sustentação. Se esse nível pesa na sua escolha, fique com um dos outros dois, que a loja classifica.",
+          "Os três estão marcados como lançamento e têm poucas avaliações na página: 6 no Decote V, 8 no Top e 4 no de alças removíveis."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/sutia-insider-qual-escolher-decote-v.webp",
+            "alt": "Mulher com o Sutiã Decote V NakedFeel preto e calcinha da mesma cor",
+            "caption": "O Decote V NakedFeel preto. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-decote-v-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/sutia-insider-qual-escolher-top-nakedfeel.webp",
+            "alt": "Mulher com o Sutiã Top NakedFeel preto, de alças largas e mais cobertura",
+            "caption": "O Top NakedFeel preto. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-top-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/sutia-insider-qual-escolher-alcas-removiveis.webp",
+            "alt": "Mulher com o Sutiã com Alças Removíveis NakedFeel bege, de alças finas",
+            "caption": "O de alças removíveis em Smooth Beige. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-com-alcas-removiveis-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Decote V NakedFeel",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-decote-v-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Sob blusa, camisa ou peça mais aberta, com as alças reguladas na sua medida.",
+              "occasion": "Roupa que mostra um pouco mais do colo."
+            },
+            {
+              "piece": "Top NakedFeel",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-top-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Por baixo da roupa, com ou sem o bojo, quando você quer mais cobertura.",
+              "occasion": "Dia a dia, com roupa de decote mais fechado."
+            },
+            {
+              "piece": "Alças Removíveis NakedFeel",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-com-alcas-removiveis-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Com as alças reguladas ou sem elas, conforme a roupa.",
+              "occasion": "Roupa em que a alça apareceria, como a de ombro de fora."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Como escolher o tamanho nas duas grades",
+        "paragraphs": [
+          "A Insider publica medidas da peça e usa pontos diferentes conforme o modelo. Use um sutiã seu de referência, sem esticar, e meça o mesmo ponto mostrado no guia: barra, baixo busto e busto não são medidas intercambiáveis.",
+          "Não converta automaticamente a numeração em letras. Mesmo dentro da grade numérica, a largura muda: no 44, a barra tem 36,5 cm no Comfy, 34 cm no Lounge e 33,5 cm no Flex."
+        ],
+        "comparisonTable": {
+          "caption": "Largura da barra / altura, em cm, pelo Guia de medidas da Insider. O guia também lista o 50, que as páginas não vendem.",
+          "headers": [
+            "Tamanho",
+            "Comfy",
+            "Flex",
+            "Lounge"
+          ],
+          "rows": [
+            [
+              "40",
+              "32,5 / 25,5",
+              "29,5 / 24,5",
+              "30 / 29,5"
+            ],
+            [
+              "42",
+              "34,5 / 26",
+              "31,5 / 25",
+              "32 / 30,5"
+            ],
+            [
+              "44",
+              "36,5 / 26,5",
+              "33,5 / 25,5",
+              "34 / 31,5"
+            ],
+            [
+              "46",
+              "38,5 / 27",
+              "35,5 / 26",
+              "36 / 32,5"
+            ],
+            [
+              "48",
+              "40,5 / 27,5",
+              "37,5 / 26,5",
+              "38 / 33,5"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Medidas dos NakedFeel",
+        "paragraphs": [
+          "O Decote V publica largura no baixo busto e comprimento; o Top, largura no busto e lateral; o de alças removíveis, as duas larguras. A página também oferece um assistente de tamanho. As outras linhas estão na [tabela de medidas Insider](/reviews/tabela-de-medidas-insider)."
+        ],
+        "comparisonTable": {
+          "caption": "Medidas em cm, pelo Guia de medidas da Insider.",
+          "headers": [
+            "Tamanho",
+            "Decote V: baixo busto / comprimento",
+            "Top: busto / lateral",
+            "Alças Removíveis: busto / baixo busto"
+          ],
+          "rows": [
+            [
+              "PP",
+              "30 / 31,5",
+              "29 / 9,5",
+              "32,5 / 30"
+            ],
+            [
+              "P",
+              "32 / 33",
+              "31 / 10,5",
+              "34,5 / 32"
+            ],
+            [
+              "M",
+              "34 / 34,5",
+              "33 / 11,5",
+              "36,5 / 34"
+            ],
+            [
+              "G",
+              "36 / 36",
+              "35 / 12,5",
+              "38,5 / 36"
+            ],
+            [
+              "GG",
+              "38 / 37,5",
+              "37 / 13,5",
+              "41,5 / 38"
+            ],
+            [
+              "XGG",
+              "41 / 40",
+              "39 / 14,5",
+              "43,5 / 41"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Troca por tamanho e arrependimento: o que conferir",
+        "paragraphs": [
+          "A página do sutiã anuncia troca fácil e 21 dias para devolução, enquanto a política comercial da Insider restringe trocas e devoluções de underwear a defeito comprovado. Por isso, não trate a chamada geral da página como promessa de troca por tamanho para essa linha.",
+          "Essa restrição comercial é diferente do direito de arrependimento na compra à distância, previsto no art. 49 do CDC, com prazo de sete dias a partir do recebimento do produto. Confira as medidas e consulte a loja sobre o procedimento do seu pedido; as condições gerais estão em [a Insider vale a pena](/reviews/insider-vale-a-pena)."
+        ]
+      },
+      {
+        "heading": "Conjuntos com calcinha",
+        "paragraphs": [
+          "Se você também quer calcinha, a Insider vende conjuntos com preço próprio. Testamos seis no carrinho: o cupom entrou em cinco e não entrou no Conjunto Cobertura, nas duas vezes que tentamos."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas e teste de carrinho no mesmo dia do quadro principal.",
+          "headers": [
+            "Conjunto",
+            "O que vem",
+            "Preço da página",
+            "Com o cupom, no carrinho"
+          ],
+          "rows": [
+            [
+              "[Lounge e Hot Pant Safe](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-1-sutia-lounge-e-3-calcinhas-safe?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "1 Sutiã Lounge e 3 calcinhas",
+              "R$ 204,75",
+              "R$ 174,04"
+            ],
+            [
+              "[Flex e Biquíni Brief](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-1-flex-3-brief?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "1 Sutiã Flex e 3 calcinhas",
+              "R$ 209,03",
+              "R$ 177,68"
+            ],
+            [
+              "[Comfy e Calcinha Fio](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-calcinha-e-sutia-confortavel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "1 Sutiã Comfy e 3 calcinhas",
+              "R$ 205,03",
+              "R$ 174,28"
+            ],
+            [
+              "[Deep Cut NakedFeel](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-deep-cut-nakedfeel%C2%AE-calcinha-biquini-sutia-decote-v?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "1 Decote V e 1 Calcinha Biquíni",
+              "R$ 226,10",
+              "R$ 192,19"
+            ],
+            [
+              "[NakedFeel com alças removíveis](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-calcinhas-biquini-nakedfeel%C2%AE-sutia-com-alcas-removiveis-nakedfeel%C2%AE?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "1 Sutiã com Alças Removíveis e 1 Calcinha Biquíni",
+              "R$ 235,60",
+              "R$ 200,26"
+            ],
+            [
+              "[Cobertura NakedFeel](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-cobertura-nakedfeel%C2%AE-calcinha-biquini-sutia-top?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "1 Top e 1 Calcinha Biquíni",
+              "R$ 226,10",
+              "R$ 226,10: o cupom não entrou"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A regra de troca de underwear vale aqui também. Para fazer a conta de outras combinações, veja [o kit Insider: quando compensa](/reviews/kit-insider-quando-compensa)."
+        ]
+      },
+      {
+        "heading": "O preço com o cupom",
+        "paragraphs": [
+          "Testamos o EMCASACOMCECILIA nos seis sutiãs, e os 15% entraram em todos; os valores estão no primeiro quadro. Na tabela, a conta da opção não testada está marcada como conta.",
+          "Vale um cupom por pedido; ele não se aplica à loja física. A loja declara exceção para lançamentos, mas peças marcadas como lançamento no catálogo da loja também aceitaram o código nos nossos testes, como os três NakedFeel. Confira o desconto de cada peça no carrinho; as demais regras estão no [cupom Insider](/cupons/insider)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Para a rotina sem bojo, o Comfy; para variar o decote e as alças, o Flex; para vestir também como top, o Lounge. Para peças abertas na grade de letras, o Decote V; para mais cobertura, o Top; para roupa em que a alça apareceria, o de alças removíveis."
+        ],
+        "emphasis": "Entre os seis, eu ficaria com o Lounge se quisesse usar a mesma peça por baixo da roupa e como top, porque tem bojos removíveis.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O sutiã Insider é bom? A escolha depende de bojo, cobertura, alças e sustentação descrita para cada modelo. O quadro inicial compara essas características; confira também as medidas e a seção de trocas antes de comprar.",
+          "Qual a diferença entre Comfy e Flex? Os dois não têm bojo, mas o Flex tem formato de triângulo, decote V e três opções de alça. O capítulo da linha de numeração explica também a divergência de sustentação do Comfy.",
+          "Lounge tem bojo? Tem, e os bojos são removíveis. Ele também não tem fecho atrás, e a loja propõe usá-lo como top.",
+          "Posso trocar o sutiã? A Insider restringe a troca comercial de underwear a defeito comprovado. Isso é diferente do arrependimento na compra online, explicado no capítulo de trocas.",
+          "O cupom vale em sutiã? O EMCASACOMCECILIA deu 15% de desconto nos seis no teste de carrinho. Nos conjuntos, entrou em cinco de seis; confira o seu pedido."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer um sutiã sem bojo para o dia a dia e aceita uma sustentação descrita como leve: Comfy ou Flex.",
+        "Você quer uma peça para vestir também como top: Lounge.",
+        "Você quer mais cobertura ou um decote em V para peças abertas, com bojo removível: Top ou Decote V NakedFeel."
+      ],
+      "skipIf": [
+        "Você não quer lidar com a restrição comercial de troca por tamanho informada para underwear.",
+        "Você precisa de um nível de sustentação informado: a página do de alças removíveis não dá um.",
+        "Você veste acima do 48 na numeração: as páginas de Comfy, Flex e Lounge vão até esse número."
+      ]
+    },
+    "cta": {
+      "text": "Se o Lounge é o seu caso, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Os links dos outros sutiãs estão no quadro. Confira o desconto antes de pagar.",
+      "label": "Ver o Sutiã Lounge com o cupom",
+      "url": "https://creators.insiderstore.com.br/wb2XzkL",
+      "sponsored": true
+    },
+    "relatedArticles": [
+      {
+        "slug": "tabela-de-medidas-insider"
+      },
+      {
+        "slug": "kit-insider-quando-compensa"
+      },
+      {
+        "slug": "black-friday-insider-feminino"
+      },
+      {
+        "slug": "insider-vale-a-pena"
+      }
+    ]
+  },
+  {
+    "locale": "pt",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "8 de novembro de 2026",
+    "publishedAtISO": "2026-11-08",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "id": 860,
+    "slug": "sutia-para-decote-profundo-costas-abertas",
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Podemos receber comissão pelos links e pelo cupom. Não usamos as peças; testamos o desconto no carrinho.",
+    "title": "O que usar em decote profundo, costas abertas e tomara que caia?",
+    "seoTitle": "Sutiã para decote profundo e costas abertas: o que usar",
+    "description": "Escolha pela abertura da roupa: veja quando considerar Fita Up, sutiã de silicone, Comfort Line ou protetor, com os limites de cada formato e preços com cupom.",
+    "metaDescription": "MAUAD dá 10% OFF na Toda Up. Decote profundo, costas abertas ou tomara que caia: quando usar Fita Up, sutiã de silicone ou protetor.",
+    "image": "/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa.webp",
+    "imageAlt": "Modelo segura a caixa da Fita Up com a fita no busto, e mãos fecham o Sutiã de Silicone Invisível na frente, em duas fotos, com logo da Toda Up e título na faixa",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para decote profundo com costas abertas, a Fita Up permite ajustar o recorte; o sutiã de silicone tem um fecho frontal que precisa caber sob a roupa. Para tomara que caia com costas cobertas, considere o Comfort Line; para disfarçar o mamilo, o protetor. O MAUAD deu 10% OFF nos testes."
+        ]
+      },
+      {
+        "heading": "A peça para cada roupa",
+        "paragraphs": [
+          "Estas são orientações editoriais pelo formato das peças e pelas descrições da Toda Up. O ponto decisivo é conferir onde a roupa termina e onde ficam recorte, fecho ou faixa; os capítulos explicam cada escolha."
+        ],
+        "comparisonTable": {
+          "caption": "Escolha editorial por roupa; confira o formato e as instruções do modelo nos capítulos abaixo.",
+          "headers": [
+            "Roupa",
+            "Opção a considerar",
+            "O que conferir"
+          ],
+          "rows": [
+            [
+              "Decote profundo na frente",
+              "Fita Up",
+              "O recorte acompanha a abertura; o fecho central do sutiã de silicone pode ficar exposto."
+            ],
+            [
+              "Costas abertas ou nuas",
+              "Sutiã de Silicone Invisível ou Fita Up",
+              "O sutiã não tem faixa nas costas; confira se o fecho frontal fica coberto pela roupa."
+            ],
+            [
+              "Decote e costas abertos juntos",
+              "Fita Up",
+              "A aplicação precisa caber nas duas aberturas; siga as instruções da marca para medir e recortar."
+            ],
+            [
+              "Tomara que caia, com costas cobertas",
+              "Comfort Line",
+              "O formato deixa os ombros livres; a roupa precisa cobrir a faixa nas costas."
+            ],
+            [
+              "Tecido fino ou justo, sem necessidade de sustentação",
+              "Protetor de Silicone Ultrafino",
+              "Disfarça o mamilo; não substitui uma peça de sustentação."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Decote profundo: fita ou sutiã",
+        "paragraphs": [
+          "A vantagem da fita em um decote profundo é poder ajustar o recorte à abertura da roupa. A Toda Up orienta medir a aplicação no espelho e usar protetor de mamilo antes da fita; confira o passo a passo completo em [Fita Up: como usar](/reviews/fita-up-como-usar).",
+          "O Sutiã de Silicone Invisível já vem pronto, com um fecho no centro que une os seios no efeito push-up. A loja ensina a inclinar o fecho para o umbigo quando quer um decote mais evidente, mas o fecho continua ali. Se o decote desce além dele, olhe a fita. Essa é uma leitura nossa do formato, não uma fala da loja.",
+          "A Toda Up sugere um pré-teste com um pedaço pequeno da fita. Ela não indica o sutiã de silicone nem o protetor para gestantes e lactantes; como a aplicação da fita inclui o protetor, não apresentamos essa combinação como alternativa para essa fase."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
+          "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
+          "caption": "A Fita Up colada no lugar do sutiã. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Fita Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Com a pele limpa e seca, coloque o protetor de mamilo e ajuste o recorte à abertura da roupa. Aplique da base para cima, sem esticar demais, conforme as instruções da marca.",
+              "occasion": "Vestido ou blusa de decote profundo e roupa assimétrica.",
+              "pairsWith": [
+                {
+                  "label": "Protetor de Silicone Ultrafino",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "A loja manda colocar antes da fita."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Costas abertas ou costas nuas",
+        "paragraphs": [
+          "O sutiã de silicone e a aplicação da fita deixam as costas livres. O silicone tem formato pronto e fecho na frente: confira se ele fica coberto pela roupa e escolha o tamanho pela orientação da loja.",
+          "A Fita Up é a opção ajustável para quem também precisa contornar um decote na frente. As faixas de tamanho têm limites diferentes, resumidos no capítulo de tamanhos. Veja os detalhes em [como usar o sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar) e em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
+          "alt": "Mãos unindo os dois lados do fecho do Sutiã de Silicone Invisível da Toda Up, em foto oficial da loja",
+          "caption": "O fecho do sutiã de silicone, na frente. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Sutiã de Silicone Invisível",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Cole cada lado sobre o seio e una pelo fecho da frente. Não há alça nem faixa nas costas.",
+              "occasion": "Vestido de festa e blusa frente única.",
+              "pairsWith": [
+                {
+                  "label": "vestido de costas nuas"
+                },
+                {
+                  "label": "blusa frente única"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Tomara que caia: o que a loja indica",
+        "paragraphs": [
+          "Para tomara que caia, o Comfort Line é a indicação explícita da Toda Up nesta comparação. Ele pode ser usado sem alças e tem alças multiuso para outras formas de vestir.",
+          "O Comfort Line vai do P (38 a 40) ao G1 (46 a 48). Pelo formato, ele tem faixa nas costas, então não é a saída para costas abertas. Ele aparece com os outros modelos em [sutiã Toda Up: qual escolher](/reviews/sutia-toda-up-qual-escolher)."
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Sutiã Comfort Line",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sem alças, como tomara que caia, quando as costas da roupa cobrem a faixa do sutiã.",
+              "occasion": "Blusa ou vestido de ombro de fora.",
+              "pairsWith": [
+                {
+                  "label": "vestido tomara que caia"
+                },
+                {
+                  "label": "blusa de ombro de fora"
+                }
+              ]
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-sutia-comfort-line.webp",
+          "alt": "Modelo com Sutiã Comfort Line rosa sem alças, em foto oficial da Toda Up",
+          "caption": "O Comfort Line usado sem alças. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
+      },
+      {
+        "heading": "Tecido fino: o protetor disfarça o mamilo",
+        "paragraphs": [
+          "O protetor cobre o mamilo; não é uma peça de sustentação. A Toda Up o apresenta para roupas justas e para usar blusas ou vestidos sem sutiã.",
+          "Ele também vai por baixo da Fita Up, como manda o passo a passo da loja. Os tamanhos são 8, 10 e 12 cm, explicados em [protetor de silicone: como usar](/reviews/protetor-de-silicone-mamilo-como-usar)."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
+          "alt": "Três protetores de silicone da Toda Up nas cores Creme, Caramelo e Avelã, colados no braço de uma modelo",
+          "caption": "O protetor em Creme, Caramelo e Avelã. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Protetor de Silicone Ultrafino",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Cole sobre o mamilo, com a pele limpa e seca, sozinho ou antes da fita.",
+              "occasion": "Blusa ou vestido sem sutiã, quando a intenção é disfarçar o mamilo."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Plus size: o que a loja publica",
+        "paragraphs": [
+          "O guia da Fita Up associa a largura G ao tamanho 54, mas outro trecho da mesma página cita 52 como limite. Acima do 52, confirme a indicação com a Toda Up antes de comprar; o [capítulo de tamanhos da Fita Up](/reviews/fita-up-como-usar) explica a divergência.",
+          "No Sutiã de Silicone Invisível, a faixa publicada vai até G (44/48). As letras não indicam o mesmo tamanho nos dois produtos."
+        ]
+      },
+      {
+        "heading": "Preço com o cupom e o que comprar junto",
+        "paragraphs": [
+          "O preço de cada peça é o mesmo em todos os tamanhos e cores da página. Testamos o MAUAD com uma unidade de cada, e os 10% entraram em todas."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas e teste de carrinho em 08/11/2026.",
+          "headers": [
+            "Peça",
+            "Preço da página",
+            "Com MAUAD (10% OFF)"
+          ],
+          "rows": [
+            [
+              "[Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 116,90 (de R$ 179,90)",
+              "R$ 105,21"
+            ],
+            [
+              "[Sutiã de Silicone Invisível](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 149,90 (de R$ 159,90)",
+              "R$ 134,91"
+            ],
+            [
+              "[Protetor de Silicone Ultrafino](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 59,90 (de R$ 99,90)",
+              "R$ 53,91"
+            ],
+            [
+              "[Sutiã Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 189,90 (de R$ 199,90)",
+              "R$ 170,91"
+            ],
+            [
+              "Fita Up + protetor (itens avulsos)",
+              "R$ 176,80 (soma)",
+              "R$ 159,12 (soma dos preços com cupom)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A última linha soma fita e protetor avulsos; não é preço de kit. As combinações prontas estão em [kit Toda Up: quando compensa](/reviews/kit-toda-up-quando-compensa); confira no carrinho se o [cupom Toda Up](/cupons/toda-up) entra no kit. Sobre a marca, veja [a Toda Up é boa](/reviews/toda-up-e-boa)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Para decote que desce muito, a Fita Up. Para costas nuas com frente mais fechada, o Sutiã de Silicone. Para tomara que caia de costas cobertas, o Comfort Line. Para blusa fina sem sutiã, o protetor."
+        ],
+        "emphasis": "Para decote profundo com costas abertas, eu escolheria a Fita Up com o protetor, porque o recorte permite acompanhar a abertura da roupa.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual sutiã usar com vestido aberto nas costas? O sutiã de silicone não tem faixa nas costas; confira se o fecho frontal fica coberto pela roupa. A fita é a alternativa de recorte ajustável, detalhada no capítulo de decote.",
+          "O que usar por baixo de um vestido muito decotado? A Fita Up, que você corta conforme o decote. O sutiã de silicone tem um fecho no centro, que pode aparecer se o decote descer além dele.",
+          "Dá para usar sutiã em decote profundo? O sutiã de silicone permite inclinar o fecho para um decote mais evidente, pela loja. Num decote aberto até a barriga, a leitura do formato aponta para a fita.",
+          "Fita ou sutiã adesivo? A fita é cortada na medida da roupa, e a marca não recomenda reutilizar. O sutiã vem pronto, e a loja diz que ele pode ser reutilizado por até 12 vezes.",
+          "Gestante pode usar? A Toda Up não indica o sutiã de silicone nem o protetor para gestantes e lactantes. Como a aplicação da fita descrita aqui inclui esse protetor, ela também não é apresentada como alternativa para essa fase."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai usar decote profundo ou roupa assimétrica e aceita medir e cortar: Fita Up.",
+        "Você quer uma peça pronta para costas nuas ou frente única: Sutiã de Silicone Invisível.",
+        "Você quer disfarçar o mamilo sob a roupa e não procura sustentação: Protetor de Silicone."
+      ],
+      "skipIf": [
+        "Você está em gestação ou amamentando: a loja não indica o sutiã de silicone nem o protetor nessa fase.",
+        "Você precisa de sustentação e pensou só no protetor: ele não sustenta.",
+        "Sua roupa tem costas abertas e você pensou no Comfort Line: pelo formato, ele tem faixa nas costas."
+      ]
+    },
+    "cta": {
+      "text": "Se a Fita Up é o seu caso, entre pelo link da parceria: o cupom MAUAD, de 10% OFF, já vai para o carrinho. Os links das outras peças estão no quadro de preços. Confira o desconto antes de pagar.",
+      "label": "Ver a Fita Up com o cupom",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "relatedArticles": [
+      {
+        "slug": "fita-up-como-usar"
+      },
+      {
+        "slug": "sutia-de-silicone-invisivel-como-usar"
+      },
+      {
+        "slug": "protetor-de-silicone-mamilo-como-usar"
+      },
+      {
+        "slug": "kit-toda-up-quando-compensa"
+      }
+    ]
   }
 ];

@@ -1,0 +1,161 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "papel": "Revisor externo da redação de Claude",
+    "modelo": "Codex baseado em GPT-6; variante não exposta",
+    "data": "2026-11-08T15:32:27-03:00"
+  },
+  "arquivos": [
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\sutia-insider-qual-escolher.md",
+      "copia": "fontes/sutia-insider-qual-escolher.md",
+      "sha256": "680589726e2a1664f2be14762727241f7dded8d0781f49d9c76cee683838e8b5",
+      "bytes": 14099
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\sutia-insider-qual-escolher.json",
+      "copia": "fontes/sutia-insider-qual-escolher.json",
+      "sha256": "538bcca97fe60c968d00f60efa1083e895708853d8080b3a701b7bb33014650e",
+      "bytes": 22842
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\sutia-insider-qual-escolher-capa.png",
+      "copia": "fontes/sutia-insider-qual-escolher-capa.png",
+      "sha256": "cf1714e4f74de75074f5700962bc37a5d945d4d64db654692dd8ca559c4e4779",
+      "bytes": 717648,
+      "dimensoes": [
+        1600,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\sutia-insider-qual-escolher-capa.webp",
+      "copia": "fontes/sutia-insider-qual-escolher-capa.webp",
+      "sha256": "17808b4d8ca8fcfc5841679bd24ab428c7f7fd61b9e42cea6581aa3049c1dff2",
+      "bytes": 63278,
+      "dimensoes": [
+        1600,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\sutia-para-decote-profundo-costas-abertas.md",
+      "copia": "fontes/sutia-para-decote-profundo-costas-abertas.md",
+      "sha256": "19ad6c27247a3f0a2d5959b4b3a21604ade2b46eff38024f56b8bd6fe390f8ec",
+      "bytes": 10310
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\sutia-para-decote-profundo-costas-abertas.json",
+      "copia": "fontes/sutia-para-decote-profundo-costas-abertas.json",
+      "sha256": "a6ba066f06319fcb922be9cc5be195079567dea19a54efcf1cd191da384f7f69",
+      "bytes": 17020
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\sutia-para-decote-profundo-costas-abertas-capa.png",
+      "copia": "fontes/sutia-para-decote-profundo-costas-abertas-capa.png",
+      "sha256": "29019c6e94a131902682ea2c99feeb389d453925d71fdfcd5ad9836dd0cae8b5",
+      "bytes": 1033087,
+      "dimensoes": [
+        1600,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\sutia-para-decote-profundo-costas-abertas-capa.webp",
+      "copia": "fontes/sutia-para-decote-profundo-costas-abertas-capa.webp",
+      "sha256": "2936db85d7619477767b7cfad1f30d14a215a55fbf77d7c84426e4ef3fe0982a",
+      "bytes": 87418,
+      "dimensoes": [
+        1600,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\fotos-do-corpo\\sutia-insider-qual-escolher-alcas-removiveis.webp",
+      "copia": "fontes/sutia-insider-qual-escolher-alcas-removiveis.webp",
+      "sha256": "6cf6e4c688701d4bb517726b77d1e3aa22035ad7a4fbe9cc8e0455f9dc377ef7",
+      "bytes": 15516,
+      "dimensoes": [
+        700,
+        700
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\fotos-do-corpo\\sutia-insider-qual-escolher-comfy.webp",
+      "copia": "fontes/sutia-insider-qual-escolher-comfy.webp",
+      "sha256": "6d7b41d5e78361841690fb776d0417d4348af0f2363757f4fd797df3b62195f5",
+      "bytes": 18136,
+      "dimensoes": [
+        700,
+        700
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\fotos-do-corpo\\sutia-insider-qual-escolher-decote-v.webp",
+      "copia": "fontes/sutia-insider-qual-escolher-decote-v.webp",
+      "sha256": "4f25823a15d2ae75d23f4167b35851724918e573052333d47d7c8c9b8a999e4e",
+      "bytes": 15698,
+      "dimensoes": [
+        700,
+        700
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\fotos-do-corpo\\sutia-insider-qual-escolher-flex.webp",
+      "copia": "fontes/sutia-insider-qual-escolher-flex.webp",
+      "sha256": "a78ae8a887770441193be415bbe5e36310dff35010e79405076709fdac140912",
+      "bytes": 17990,
+      "dimensoes": [
+        700,
+        700
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\fotos-do-corpo\\sutia-insider-qual-escolher-lounge.webp",
+      "copia": "fontes/sutia-insider-qual-escolher-lounge.webp",
+      "sha256": "385167e7c0f692eb6ad72a5f5d4af8586c388e5f5d59c4200a0bf58828d807c2",
+      "bytes": 16664,
+      "dimensoes": [
+        700,
+        700
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i13\\entrega\\fotos-do-corpo\\sutia-insider-qual-escolher-top-nakedfeel.webp",
+      "copia": "fontes/sutia-insider-qual-escolher-top-nakedfeel.webp",
+      "sha256": "48d5782a0eceb767a8d4d26e8641a293256bd53762f58366b15ecedeb1404ae0",
+      "bytes": 16210,
+      "dimensoes": [
+        700,
+        700
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377\\public\\images\\reviews\\toda-up\\toda-up-sutia-comfort-line.webp",
+      "copia": "fontes/toda-up-sutia-comfort-line.webp",
+      "sha256": "6e0836cac38a8528bc18d0f6371c2f4ae386998872aa994856bee985021897ab",
+      "bytes": 74822,
+      "dimensoes": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contexto": {
+    "worktree": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377",
+    "head_lido": "829db7d1",
+    "estado_prs_739_740": "Merge na main informado por Bruno; não verificado remotamente nesta revisão",
+    "novos_testes_loja": false,
+    "gates_reportados_pelo_autor": "Somente validate:content, nos dois artigos; não reexecutado nesta revisão",
+    "fontes_web": [
+      "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html",
+      "https://suporte.insiderstore.com.br/hc/pt-br/articles/33620101600532-Trocas-e-Devolu%C3%A7%C3%B5es-Como-fazer-Prazos-e-Condi%C3%A7%C3%B5es",
+      "https://todaup.com/products/fita-up",
+      "https://todaup.com/products/sutia-de-silicone-invisivel",
+      "https://todaup.com/products/protetor-de-silicone-ultrafino",
+      "https://todaup.com/products/sutia-comfort-line",
+      "https://developers.google.com/search/docs/appearance/google-discover"
+    ]
+  }
+}

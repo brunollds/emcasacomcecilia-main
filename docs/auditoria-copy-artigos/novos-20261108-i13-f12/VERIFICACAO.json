@@ -1,0 +1,50 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "papel": "Revisor externo da redação de Claude",
+    "modelo": "Codex baseado em GPT-6; variante não exposta",
+    "data": "2026-11-08T15:32:27-03:00"
+  },
+  "fontes_e_copias_identicas": 15,
+  "capas_webp_abertas": 2,
+  "fotos_i13_abertas": 6,
+  "ativos_f12_abertos": [
+    "Comfort Line reutilizável",
+    "Fecho do sutiã de silicone"
+  ],
+  "artigos": [
+    {
+      "slug": "sutia-insider-qual-escolher",
+      "grupos": 8,
+      "operacoes": 14,
+      "resposta_rapida_palavras": 51,
+      "resposta_rapida_frases": 3,
+      "description_caracteres": 165,
+      "meta_caracteres": 129,
+      "cards": 2,
+      "pecas_nos_cards": 6,
+      "before_confere": true,
+      "sem_sobreposicao": true,
+      "sem_contagem_de_estoque": true
+    },
+    {
+      "slug": "sutia-para-decote-profundo-costas-abertas",
+      "grupos": 11,
+      "operacoes": 23,
+      "resposta_rapida_palavras": 51,
+      "resposta_rapida_frases": 3,
+      "description_caracteres": 159,
+      "meta_caracteres": 132,
+      "cards": 4,
+      "pecas_nos_cards": 4,
+      "before_confere": true,
+      "sem_sobreposicao": true,
+      "sem_contagem_de_estoque": true
+    }
+  ],
+  "limite": "Projeção em memória; sem gates do site, página renderizada, uploads, compras, teste de carrinho, commits, PRs ou deploys.",
+  "links_locais_parecer_conferidos": true,
+  "precos_das_linhas_originais_preservados": true,
+  "notas_e_ctas_originais_preservados": true
+}

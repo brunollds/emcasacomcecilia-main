@@ -75359,6 +75359,272 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/sutia-insider-qual-escolher-alcas-removiveis.webp",
+      "local_url": "/images/reviews/insider/sutia-insider-qual-escolher-alcas-removiveis.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15516,
+      "sha256": "6cf6e4c688701d4bb517726b77d1e3aa22035ad7a4fbe9cc8e0455f9dc377ef7",
+      "width": 700,
+      "height": 700,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-insider-qual-escolher-alcas-removiveis.webp",
+      "storage_filename": "sutia-insider-qual-escolher-alcas-removiveis.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-insider-qual-escolher.json",
+          "line": 198,
+          "column": 19,
+          "literal": "/images/reviews/insider/sutia-insider-qual-escolher-alcas-removiveis.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6cf6e4c688701d4bb517726b77d1e3aa22035ad7a4fbe9cc8e0455f9dc377ef7/sutia-insider-qual-escolher-alcas-removiveis.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6cf6e4c688701d4bb517726b77d1e3aa22035ad7a4fbe9cc8e0455f9dc377ef7/sutia-insider-qual-escolher-alcas-removiveis.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T18:38:08.665Z",
+      "verification_etag_or_digest": "6cf6e4c688701d4bb517726b77d1e3aa22035ad7a4fbe9cc8e0455f9dc377ef7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/sutia-insider-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/insider/sutia-insider-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63278,
+      "sha256": "17808b4d8ca8fcfc5841679bd24ab428c7f7fd61b9e42cea6581aa3049c1dff2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-insider-qual-escolher-capa.webp",
+      "storage_filename": "sutia-insider-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-insider-qual-escolher.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/insider/sutia-insider-qual-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/17808b4d8ca8fcfc5841679bd24ab428c7f7fd61b9e42cea6581aa3049c1dff2/sutia-insider-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/17808b4d8ca8fcfc5841679bd24ab428c7f7fd61b9e42cea6581aa3049c1dff2/sutia-insider-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T18:38:10.269Z",
+      "verification_etag_or_digest": "17808b4d8ca8fcfc5841679bd24ab428c7f7fd61b9e42cea6581aa3049c1dff2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/sutia-insider-qual-escolher-comfy.webp",
+      "local_url": "/images/reviews/insider/sutia-insider-qual-escolher-comfy.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18136,
+      "sha256": "6d7b41d5e78361841690fb776d0417d4348af0f2363757f4fd797df3b62195f5",
+      "width": 700,
+      "height": 700,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-insider-qual-escolher-comfy.webp",
+      "storage_filename": "sutia-insider-qual-escolher-comfy.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-insider-qual-escolher.json",
+          "line": 119,
+          "column": 19,
+          "literal": "/images/reviews/insider/sutia-insider-qual-escolher-comfy.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6d7b41d5e78361841690fb776d0417d4348af0f2363757f4fd797df3b62195f5/sutia-insider-qual-escolher-comfy.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6d7b41d5e78361841690fb776d0417d4348af0f2363757f4fd797df3b62195f5/sutia-insider-qual-escolher-comfy.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T18:38:08.925Z",
+      "verification_etag_or_digest": "6d7b41d5e78361841690fb776d0417d4348af0f2363757f4fd797df3b62195f5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/sutia-insider-qual-escolher-decote-v.webp",
+      "local_url": "/images/reviews/insider/sutia-insider-qual-escolher-decote-v.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15698,
+      "sha256": "4f25823a15d2ae75d23f4167b35851724918e573052333d47d7c8c9b8a999e4e",
+      "width": 700,
+      "height": 700,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-insider-qual-escolher-decote-v.webp",
+      "storage_filename": "sutia-insider-qual-escolher-decote-v.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-insider-qual-escolher.json",
+          "line": 184,
+          "column": 19,
+          "literal": "/images/reviews/insider/sutia-insider-qual-escolher-decote-v.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4f25823a15d2ae75d23f4167b35851724918e573052333d47d7c8c9b8a999e4e/sutia-insider-qual-escolher-decote-v.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4f25823a15d2ae75d23f4167b35851724918e573052333d47d7c8c9b8a999e4e/sutia-insider-qual-escolher-decote-v.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T18:38:09.194Z",
+      "verification_etag_or_digest": "4f25823a15d2ae75d23f4167b35851724918e573052333d47d7c8c9b8a999e4e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/sutia-insider-qual-escolher-flex.webp",
+      "local_url": "/images/reviews/insider/sutia-insider-qual-escolher-flex.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17990,
+      "sha256": "a78ae8a887770441193be415bbe5e36310dff35010e79405076709fdac140912",
+      "width": 700,
+      "height": 700,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-insider-qual-escolher-flex.webp",
+      "storage_filename": "sutia-insider-qual-escolher-flex.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-insider-qual-escolher.json",
+          "line": 126,
+          "column": 19,
+          "literal": "/images/reviews/insider/sutia-insider-qual-escolher-flex.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a78ae8a887770441193be415bbe5e36310dff35010e79405076709fdac140912/sutia-insider-qual-escolher-flex.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a78ae8a887770441193be415bbe5e36310dff35010e79405076709fdac140912/sutia-insider-qual-escolher-flex.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T18:38:09.456Z",
+      "verification_etag_or_digest": "a78ae8a887770441193be415bbe5e36310dff35010e79405076709fdac140912",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/sutia-insider-qual-escolher-lounge.webp",
+      "local_url": "/images/reviews/insider/sutia-insider-qual-escolher-lounge.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16664,
+      "sha256": "385167e7c0f692eb6ad72a5f5d4af8586c388e5f5d59c4200a0bf58828d807c2",
+      "width": 700,
+      "height": 700,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-insider-qual-escolher-lounge.webp",
+      "storage_filename": "sutia-insider-qual-escolher-lounge.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-insider-qual-escolher.json",
+          "line": 133,
+          "column": 19,
+          "literal": "/images/reviews/insider/sutia-insider-qual-escolher-lounge.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/385167e7c0f692eb6ad72a5f5d4af8586c388e5f5d59c4200a0bf58828d807c2/sutia-insider-qual-escolher-lounge.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/385167e7c0f692eb6ad72a5f5d4af8586c388e5f5d59c4200a0bf58828d807c2/sutia-insider-qual-escolher-lounge.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T18:38:09.689Z",
+      "verification_etag_or_digest": "385167e7c0f692eb6ad72a5f5d4af8586c388e5f5d59c4200a0bf58828d807c2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/sutia-insider-qual-escolher-top-nakedfeel.webp",
+      "local_url": "/images/reviews/insider/sutia-insider-qual-escolher-top-nakedfeel.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16210,
+      "sha256": "48d5782a0eceb767a8d4d26e8641a293256bd53762f58366b15ecedeb1404ae0",
+      "width": 700,
+      "height": 700,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-insider-qual-escolher-top-nakedfeel.webp",
+      "storage_filename": "sutia-insider-qual-escolher-top-nakedfeel.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-insider-qual-escolher.json",
+          "line": 191,
+          "column": 19,
+          "literal": "/images/reviews/insider/sutia-insider-qual-escolher-top-nakedfeel.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/48d5782a0eceb767a8d4d26e8641a293256bd53762f58366b15ecedeb1404ae0/sutia-insider-qual-escolher-top-nakedfeel.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/48d5782a0eceb767a8d4d26e8641a293256bd53762f58366b15ecedeb1404ae0/sutia-insider-qual-escolher-top-nakedfeel.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T18:38:09.973Z",
+      "verification_etag_or_digest": "48d5782a0eceb767a8d4d26e8641a293256bd53762f58366b15ecedeb1404ae0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/tabela-de-medidas-insider-capa-discover.webp",
       "local_url": "/images/reviews/insider/tabela-de-medidas-insider-capa-discover.webp",
       "media_kind": "image",
@@ -110532,6 +110798,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-27T21:19:07.514Z",
       "verification_etag_or_digest": "5a0d23469a2f2d7b38011c3738706d321e026e5a77143e5403a183cb37e3ebef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa.webp",
+      "local_url": "/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87418,
+      "sha256": "2936db85d7619477767b7cfad1f30d14a215a55fbf77d7c84426e4ef3fe0982a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-para-decote-profundo-costas-abertas-capa.webp",
+      "storage_filename": "sutia-para-decote-profundo-costas-abertas-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-para-decote-profundo-costas-abertas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-para-decote-profundo-costas-abertas.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2936db85d7619477767b7cfad1f30d14a215a55fbf77d7c84426e4ef3fe0982a/sutia-para-decote-profundo-costas-abertas-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2936db85d7619477767b7cfad1f30d14a215a55fbf77d7c84426e4ef3fe0982a/sutia-para-decote-profundo-costas-abertas-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T18:38:10.582Z",
+      "verification_etag_or_digest": "2936db85d7619477767b7cfad1f30d14a215a55fbf77d7c84426e4ef3fe0982a",
       "verification_status": "verified"
     },
     {
