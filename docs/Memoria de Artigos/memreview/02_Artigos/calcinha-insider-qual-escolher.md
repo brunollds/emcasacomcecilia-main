@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 70
@@ -96,3 +96,13 @@ A escolha por cobertura e roupa, das menores às maiores; a diferença entre a c
 ## 7. Pontuação
 
 Dor 21/25, demanda 8/20 (sem sugestão), valor além do oficial 16/20, visita 10/15, cluster 9/10, conversão 8/10. Total 72.
+
+## 8. O que mudou na redação
+
+Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i14-f13-f14/PARECER.md`) aplicada depois de conferir os fatos, em 08/11/2026.
+
+- Minimal Corte a Laser: a loja tem duas páginas. O link vai a `calcinha-minimal-corte-a-laser-feminino`, em que o cupom entrou (R$ 19 → R$ 16,15, só Faded Beige; R$ 39 → R$ 33,15). Na `calcinha-fio-minimal-corte-a-laser-feminino`, R$ 29 e R$ 39 seguiram sem desconto.
+- Roupa justa: as páginas de Fio Minimal, String, Brief Corte a Laser, Minimal Corte a Laser e Cover citam esse uso, e a Biquíni Brief diz que não marca na roupa. A Safe só fala em não marcar a pele. O briefing e o primeiro rascunho tinham lido só a descrição cadastrada, e os textos de venda e o FAQ de cada página dizem mais.
+- Boxer em uma linha: estava disponível só no PP na consulta. Reler na Black Friday.
+- Veredito sem "Se fosse para a minha casa": Brief Corte a Laser para primeira compra com cobertura intermediária.
+- Card de estilo nos três capítulos de cobertura, em `scripts/styling-required.json`.

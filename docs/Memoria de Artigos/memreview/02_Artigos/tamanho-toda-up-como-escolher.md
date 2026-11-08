@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 75
@@ -86,3 +86,13 @@ A tabela única que a loja não tem: da medida do corpo ao tamanho de cada linha
 ## 7. Pontuação
 
 Dor 23/25, demanda 7/20 (sem sugestão), valor além do oficial 17/20, visita 9/15, cluster 10/10, conversão 8/10. Total 74.
+
+## 8. O que mudou na redação
+
+Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i14-f13-f14/PARECER.md`) aplicada depois de conferir os fatos, em 08/11/2026.
+
+- Tabelas copiadas das imagens dos guias da loja. As imagens escrevem EGG onde o seletor escreve G1; o artigo usa G1.
+- Corrigido nos guias no ar: `skinup-ou-cotton-up-toda-up` dizia que o Cotton Up não tem tabela em cm, e tem. `sutia-de-silicone-invisivel-como-usar` ganhou o busto. `protetor-de-silicone-mamilo-como-usar` segue o seletor P, M e G. Os cinco guias receberam o link de volta.
+- A dica de tamanho menor ou maior só está nas páginas dos Comfort, do Top Segunda Pele, do Clássico e dos tops Cotton Up.
+- Matriz de busto: leitura nossa dos guias, calculada dos intervalos, conferida pela revisão externa nas 42 células.
+- Sem card nem Leve/Passe, por ser guia de medidas.

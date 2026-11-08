@@ -1,0 +1,33 @@
+diff --git a/content/reviews/fita-up-como-usar.json b/content/reviews/fita-up-como-usar.json
+        "A loja também não publica a largura da fita em centímetros nem os metros do rolo. Se a diferença entre 52 e 54 afetar sua escolha, confirme a indicação com a Toda Up antes de [-comprar."-]{+comprar. As tabelas das outras peças estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."+}
+diff --git a/content/reviews/protetor-de-silicone-mamilo-como-usar.json b/content/reviews/protetor-de-silicone-mamilo-como-usar.json
+        "Para escolher, o número do seu sutiã [-decide: o quadro junta o tamanho-]{+decide, pelo guia de medidas+} da [-página e a medida do FAQ."-]{+marca:"+}
+          [-"Medida",-]{+"Diâmetro",+}
+            [-"P (regular)"-]{+"P"+}
+            [-"M (médio)"-]{+"M"+}
+            [-"G (extra largo)"-]{+"G"+}
+        "O guia é da Toda Up e pode mudar. Como os números 46 e 50 aparecem em duas faixas, consulte a marca sobre qual tamanho escolher para você antes de [-comprar."-]{+comprar. As outras peças da marca estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."+}
+diff --git a/content/reviews/skinup-ou-cotton-up-toda-up.json b/content/reviews/skinup-ou-cotton-up-toda-up.json
+            "howTo": "Como calcinha de algodão do dia a dia. [-Sem-]{+A loja fala em caimento discreto, mas a página não cita+} o [-acabamento-]{+corte+} a laser da [-SkinUp, não é a peça pensada para roupa colada.",-]{+SkinUp.",+}
+        "Dentro da SkinUp, os três tops têm guias de medida diferentes para a mesma letra: o M do Top Segunda Pele é 79-87 cm de sob busto e 91-98 cm de busto; o M do Clássico, 75-81 e 84-91. Na Cotton Up, [-a página mostra só a numeração-]{+os números+} ao lado da letra {+são outros+} (P 36-38, G1 50-52), [-sem a tabela-]{+e o busto termina+} em [-centímetros.-]{+104 cm.+} A tabela abaixo junta as medidas de cada página, em centímetros."
+          "Tops Cotton Up [-(numeração)"-]{+(sob busto / busto)"+}
+            [-"36-38"-]{+"75-80 / 82-88 (36-38)"+}
+            [-"40-42"-]{+"79-84 / 86-92 (40-42)"+}
+            [-"44-46"-]{+"83-88 / 90-96 (44-46)"+}
+            [-"46-48"-]{+"87-92 / 94-100 (46-48)"+}
+            [-"50-52"-]{+"91-96 / 98-104 (50-52)"+}
+        "As calcinhas SkinUp têm um guia só, em centímetros de cintura e quadril: P 67-74 e 90-99; M 75-84 e 100-106; G 85-94 e 107-115; GG 95-104 e 116-124; G1 105-114 e 125-134. A[-página da-] Calcinha Biquíni Cotton Up [-não mostrava tabela em centímetros, só as letras do-]{+tem guia próprio:+} P [-ao G1.",-]{+78-86 e 88-94; M 84-92 e 94-100; G 90-98 e 100-106; GG 94-104 e 106-112; G1 100-110 e 112-120.",+}
+        "Meça o sob busto e o busto antes de escolher e compare com a coluna da peça, não com o número que você usa em outra marca. Se ficar entre duas faixas, a loja indica a menor para mais firmeza e a maior para mais [-conforto."-]{+conforto. As tabelas de todas as linhas estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."+}
+diff --git a/content/reviews/sutia-de-silicone-invisivel-como-usar.json b/content/reviews/sutia-de-silicone-invisivel-como-usar.json
+        "O tamanho segue o número do [-sutiã,-]{+sutiã e o busto,+} pela tabela da marca:"
+          "Número do [-sutiã"-]{+sutiã",+}
+{+          "Circunferência do busto"+}
+            "38 a [-40"-]{+40",+}
+{+            "80 a 90 cm"+}
+            "42 a [-44"-]{+44",+}
+{+            "85 a 95 cm"+}
+            "44 a [-48"-]{+48",+}
+{+            "95 a 110 cm"+}
+        "O número 44 aparece em M e [-G.-]{+G, e o busto de 95 cm também.+} Se for o seu caso, confirme com a Toda Up qual tamanho ela indica antes de [-comprar."-]{+comprar. As outras peças da marca estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."+}
+diff --git a/content/reviews/sutia-toda-up-qual-escolher.json b/content/reviews/sutia-toda-up-qual-escolher.json
+        "Se a sua medida ficar entre duas faixas, compare as duas linhas da tabela de cada modelo com a sua, sob busto e [-busto."-]{+busto. As outras linhas estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."+}

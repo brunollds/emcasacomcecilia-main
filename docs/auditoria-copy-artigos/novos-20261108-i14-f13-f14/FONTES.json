@@ -1,0 +1,200 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "papel": "Revisor externo da redação de Claude",
+    "modelo": "Codex baseado em GPT-6; variante não exposta",
+    "data": "2026-11-08T17:16:01-03:00"
+  },
+  "arquivos": [
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\calcinha-insider-qual-escolher-capa.webp",
+      "copia": "fontes/calcinha-insider-qual-escolher-capa.webp",
+      "sha256": "8cfbd7affd686cc68a42edf4a343737c76363a549b5025e76a09a29857a3dd8b",
+      "bytes": 55316,
+      "dimensoes": [
+        1600,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\calcinha-insider-qual-escolher.json",
+      "copia": "fontes/calcinha-insider-qual-escolher.json",
+      "sha256": "fc0c9fb5a88e4aae18307e0c5e5b8e3d37e7631cb372a8e1499ecbc779b199a7",
+      "bytes": 29413
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\calcinha-insider-qual-escolher.md",
+      "copia": "fontes/calcinha-insider-qual-escolher.md",
+      "sha256": "40f7c7fdfef7a8540eb7e4e115b42e283eba55e68793033b335b12d6a300fa0a",
+      "bytes": 17347
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\correcoes-nos-5-guias.diff.txt",
+      "copia": "fontes/correcoes-nos-5-guias.diff.txt",
+      "sha256": "1ff8c5aabf99df869ffd7b0997b6b4ea4134911c2b6b1096387736cfcfce1027",
+      "bytes": 4280
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\skinup-marca-na-roupa-capa.webp",
+      "copia": "fontes/skinup-marca-na-roupa-capa.webp",
+      "sha256": "c5c788c457879501476f8f3aac8704d4c847bf9f4f0ebada1904b445c1abeb1c",
+      "bytes": 73674,
+      "dimensoes": [
+        1600,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\skinup-marca-na-roupa.json",
+      "copia": "fontes/skinup-marca-na-roupa.json",
+      "sha256": "d17cf3188d855df7573ffc86fed45d05827d784db1ddd86bbdcf20b6d44f9970",
+      "bytes": 22340
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\skinup-marca-na-roupa.md",
+      "copia": "fontes/skinup-marca-na-roupa.md",
+      "sha256": "4402c63213eb9a0ba92373961631764203cfe8181ea5a39ae73742e597865f1d",
+      "bytes": 13652
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\Tabela_de_medidas_-_Toda_Up_-_Calcinhas_Cotton_Up.jpg",
+      "copia": "fontes/Tabela_de_medidas_-_Toda_Up_-_Calcinhas_Cotton_Up.jpg",
+      "sha256": "ce0ef04ffb9816da5e80983651f4e71d76b1378bba60018b51e86015e2170fec",
+      "bytes": 160507,
+      "dimensoes": [
+        1570,
+        1829
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\Tabela_de_medidas_-_Toda_Up_-_Tops_Cotton_Up.jpg",
+      "copia": "fontes/Tabela_de_medidas_-_Toda_Up_-_Tops_Cotton_Up.jpg",
+      "sha256": "ee1771b74397e923e34c971d5613bb033e6e805909eb5ad42309e80dc8dd1239",
+      "bytes": 170291,
+      "dimensoes": [
+        1570,
+        1846
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\tamanho-toda-up-como-escolher-capa.webp",
+      "copia": "fontes/tamanho-toda-up-como-escolher-capa.webp",
+      "sha256": "22b9fd1ffdb2d028171c1e039e6325c5d62d0cb721375978f351de6dd07e7283",
+      "bytes": 84944,
+      "dimensoes": [
+        1600,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\tamanho-toda-up-como-escolher.json",
+      "copia": "fontes/tamanho-toda-up-como-escolher.json",
+      "sha256": "ee8d81bff8a7caa9678b700da33b247bd59929ee6c2b0fa1935e581150242596",
+      "bytes": 23889
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\tamanho-toda-up-como-escolher.md",
+      "copia": "fontes/tamanho-toda-up-como-escolher.md",
+      "sha256": "b948bad5d9d61932dd9e881d35b3e976f667bd62c551c43df75840ee3b2f0a45",
+      "bytes": 13679
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\fotos-do-corpo\\calcinha-insider-qual-escolher-brief-laser.webp",
+      "copia": "fontes/fotos-do-corpo/calcinha-insider-qual-escolher-brief-laser.webp",
+      "sha256": "cd50285f7f6b076fe07b97a7d0829eb6867c36b57d918334531ff3d61cbd63a9",
+      "bytes": 18728,
+      "dimensoes": [
+        900,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\fotos-do-corpo\\calcinha-insider-qual-escolher-brief.webp",
+      "copia": "fontes/fotos-do-corpo/calcinha-insider-qual-escolher-brief.webp",
+      "sha256": "8cc92c0eb3048ad80ec14de8033284f3f54f249f452b6f3723b4181ce7d62076",
+      "bytes": 15852,
+      "dimensoes": [
+        900,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\fotos-do-corpo\\calcinha-insider-qual-escolher-cover.webp",
+      "copia": "fontes/fotos-do-corpo/calcinha-insider-qual-escolher-cover.webp",
+      "sha256": "a0be00f22a2203724b9af585a967489ded3edf3275a1456731eafc73a2342e38",
+      "bytes": 19572,
+      "dimensoes": [
+        900,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\fotos-do-corpo\\calcinha-insider-qual-escolher-minimal-laser.webp",
+      "copia": "fontes/fotos-do-corpo/calcinha-insider-qual-escolher-minimal-laser.webp",
+      "sha256": "958c6b042f04ccac118787d943a2cbe4c2b20046105254decb4dd7c201c780ea",
+      "bytes": 20602,
+      "dimensoes": [
+        900,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\fotos-do-corpo\\calcinha-insider-qual-escolher-minimal.webp",
+      "copia": "fontes/fotos-do-corpo/calcinha-insider-qual-escolher-minimal.webp",
+      "sha256": "d2c378140b6383302cc581629c2b53d111db9f6dda8ae8448db2177858dae01f",
+      "bytes": 22930,
+      "dimensoes": [
+        900,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\fotos-do-corpo\\calcinha-insider-qual-escolher-nakedfeel.webp",
+      "copia": "fontes/fotos-do-corpo/calcinha-insider-qual-escolher-nakedfeel.webp",
+      "sha256": "9cc53185e3991c41dfd70012fa0de49275271c4e54c84c4074ffbc45f715e5cc",
+      "bytes": 21544,
+      "dimensoes": [
+        900,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\fotos-do-corpo\\calcinha-insider-qual-escolher-safe.webp",
+      "copia": "fontes/fotos-do-corpo/calcinha-insider-qual-escolher-safe.webp",
+      "sha256": "ee52e8d555f5a57028a5993662c49e4cd8a3148cfb8ef8db6258986eae27265f",
+      "bytes": 14608,
+      "dimensoes": [
+        900,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\AppData\\Local\\Temp\\claude\\1cdf5ff0121f1534\\84b844de-f311-49ba-a28b-5b438270d4ed\\scratchpad\\i14\\entrega\\fotos-do-corpo\\calcinha-insider-qual-escolher-string.webp",
+      "copia": "fontes/fotos-do-corpo/calcinha-insider-qual-escolher-string.webp",
+      "sha256": "a61a126784b63b4592b19ca396923c05055b8631b4a60a78382c657635a9b716",
+      "bytes": 23332,
+      "dimensoes": [
+        900,
+        900
+      ]
+    },
+    {
+      "original": "C:\\Users\\Bruno\\.codex\\attachments\\544d7441-19d1-48f4-ac87-fc419bed17f1\\Texto colado.txt",
+      "copia": "fontes/HANDOFF-RECEBIDO.txt",
+      "sha256": "4d7a3e5faf8ae35cf02b724ba9915501c169530e0439204fe864226966f4adc9",
+      "bytes": 6370
+    }
+  ],
+  "worktree": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\lote-376-377",
+  "head_observado": "48299bb1",
+  "jsons_identicos_ao_worktree": true,
+  "fontes_web": [
+    "https://www.insiderstore.com.br/products/calcinha-string",
+    "https://todaup.com/products/top-faixa-cotton-up",
+    "https://todaup.com/products/calcinha-biquini-cotton-up",
+    "https://todaup.com/policies/refund-policy",
+    "https://developers.google.com/search/docs/appearance/google-discover"
+  ],
+  "limites": "Preços e testes de carrinho recebidos do autor; não foi realizado outro carrinho. Não é validação de deploy ou dos gates reportados."
+}

@@ -1,0 +1,415 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "papel": "Revisor externo da redação de Claude",
+    "modelo": "Codex baseado em GPT-6; variante não exposta",
+    "data": "2026-11-08T17:16:01-03:00"
+  },
+  "skill": "marketing-skills:copywriting 2.14.2; metadata 2.3.2; situação B",
+  "estado": "Parecer externo; não implementado",
+  "artigos": [
+    {
+      "slug": "calcinha-insider-qual-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo da redação de Claude",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T17:16:01-03:00"
+      },
+      "base_sha256": "fc0c9fb5a88e4aae18307e0c5e5b8e3d37e7631cb372a8e1499ecbc779b199a7",
+      "grupos": [
+        {
+          "id": "I01",
+          "titulo": "Abertura com escolha e código, em três frases",
+          "prioridade": "melhoria",
+          "motivo": "A resposta atual tem seis frases e introduz a troca antes de entregar o caminho da comparação. Manter os perfis e o código, com aplicação atribuída aos testes. A indicação de roupa justa inclui a String, encontrada na página oficial.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/description",
+              "before": "Minimal e String cobrem menos, as Brief ficam no meio, Cover e Safe cobrem mais. Veja as medidas de cada uma, o preço com o cupom e por que errar o tamanho pesa.",
+              "after": "Compare Minimal e String, as Brief, NakedFeel, Cover e Safe por cobertura, acabamento e medidas. Veja os preços com cupom e quando o kit sai por menos."
+            },
+            {
+              "op": "replace",
+              "path": "/contentSections/0/paragraphs/0",
+              "before": "Para cobrir menos, olhe Minimal e String. Para o meio-termo, as Brief. Para cobrir mais, Cover e Safe. Sob roupa justa, a loja indica a Minimal Corte a Laser. Meça antes de comprar: a política comercial só prevê troca de underwear por defeito comprovado. O cupom EMCASACOMCECILIA dá 15% OFF.",
+              "after": "Compare Minimal e String para menor cobertura, Brief e NakedFeel para a intermediária, e Cover e Safe para laterais mais largas ou cintura alta. A Minimal Corte a Laser e a String têm indicação da loja para roupa justa. O EMCASACOMCECILIA deu 15% OFF nas opções testadas; confira medidas e acabamento nos quadros."
+            }
+          ]
+        },
+        {
+          "id": "I02",
+          "titulo": "Retirar a exclusividade da Minimal para roupa justa",
+          "prioridade": "necessaria",
+          "motivo": "O texto oficial da String também menciona vestidos, saias e calças justas sem marcas visíveis. A fonte é uma promessa da loja, não teste nosso. “Só uma página” deixa de ser sustentado por essa leitura. [Página oficial da String](https://www.insiderstore.com.br/products/calcinha-string).",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/6/paragraphs/0",
+              "before": "Só uma página cita esse uso de forma direta: a da Minimal Corte a Laser, com \"roupas mais justas e tecidos mais finos\". A Brief Corte a Laser fala em invisibilidade, e a NakedFeel, em menor interferência sob a roupa.",
+              "after": "A Minimal Corte a Laser cita roupas justas e tecidos finos. A página da String também menciona vestidos, saias e calças justas sem marcas visíveis. A Brief Corte a Laser fala em invisibilidade, e a NakedFeel, em menor interferência sob a roupa."
+            },
+            {
+              "op": "replace",
+              "path": "/contentSections/10/bullets/1",
+              "before": "Qual marca menos na roupa? A loja não compara os modelos. Para roupa justa e tecido fino, a indicação direta dela é a Minimal Corte a Laser.",
+              "after": "Qual marca menos na roupa? A loja não compara os modelos entre si. Minimal Corte a Laser e String têm indicação para roupa justa; isso não demonstra qual marca menos no uso."
+            }
+          ]
+        },
+        {
+          "id": "I03",
+          "titulo": "Decidir por cobertura, sem “a mais versátil” como motivo principal",
+          "prioridade": "melhoria",
+          "motivo": "Preservar a preferência pela Brief Corte a Laser. A cobertura intermediária e o preço inicial dão um critério mais útil do que repetir o superlativo da loja. Não declarar uma vencedora testada para marcar menos.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/9/paragraphs/0",
+              "before": "Para roupa justa, a Minimal Corte a Laser. Para a rotina com cobertura média, uma das Brief. Para lateral larga sem subir muito, a Cover. Para a maior cobertura, a Safe.",
+              "after": "Para roupa justa, confira as indicações da Minimal Corte a Laser e da String. Para cobertura intermediária, compare as Brief e a NakedFeel; para lateral larga, a Cover; para cintura mais alta, a Safe."
+            },
+            {
+              "op": "replace",
+              "path": "/contentSections/9/emphasis",
+              "before": "Para uma primeira compra, eu começaria pela Brief Corte a Laser, porque a loja a descreve como a modelagem mais versátil da linha e ela parte de um preço menor que o da Brief comum.",
+              "after": "Para uma primeira compra com cobertura intermediária, eu começaria pela Brief Corte a Laser: tem altura próxima à Brief comum e preço inicial menor na comparação."
+            }
+          ]
+        },
+        {
+          "id": "I04",
+          "titulo": "Kits com restrição comercial bem delimitada",
+          "prioridade": "necessaria",
+          "motivo": "O capítulo de medidas já separa política comercial e arrependimento. A redação absoluta “sem troca por tamanho” nos kits não deve desfazer essa distinção nem prometer que uma simples medição assegura o ajuste.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/8/postParagraphs/1",
+              "before": "O risco também cresce: sem troca por tamanho, um erro passa a valer para três ou cinco peças. Compre o kit depois de conferir a medida, ou depois de ter vestido o modelo. Outras combinações estão em [o kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
+              "after": "Num kit, um erro de tamanho afeta várias peças. Por isso, eu começaria pela avulsa se ainda não conhecesse o ajuste daquele modelo e só depois compararia os kits. Confira as condições comerciais de troca e os direitos de arrependimento explicados no capítulo de tamanho; outras combinações estão em [o kit Insider: quando compensa](/reviews/kit-insider-quando-compensa)."
+            },
+            {
+              "op": "replace",
+              "path": "/contentSections/10/bullets/3",
+              "before": "O kit compensa? Por peça, saiu mais barato que a avulsa de menor preço em todos os modelos testados. Sem troca por tamanho, compre depois de conferir a medida.",
+              "after": "O kit compensa? Por peça, saiu mais barato que a avulsa de menor preço em todos os modelos testados. Se você ainda não conhece o ajuste, considere começar pela avulsa e confira as condições de troca no capítulo de tamanho."
+            },
+            {
+              "op": "replace",
+              "path": "/decision/skipIf/0",
+              "before": "Você conta com trocar o tamanho depois: a política comercial só prevê troca de underwear por defeito comprovado.",
+              "after": "Você precisa de troca comercial por tamanho para decidir: a Insider informa uma restrição específica para underwear."
+            }
+          ]
+        },
+        {
+          "id": "I05",
+          "titulo": "FAQ de qualidade com critério de escolha",
+          "prioridade": "melhoria",
+          "motivo": "As notas podem continuar no corpo como avaliações de clientes. Não são resposta suficiente sobre qual modelo atende ao leitor nem experiência nossa com as peças.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/10/bullets/0",
+              "before": "Calcinha Insider é boa? As notas publicadas nas páginas ficam entre 4,9 e 5,0, com a NakedFeel em poucas avaliações. Compare as medidas com uma peça sua antes de comprar.",
+              "after": "Calcinha Insider é boa? A escolha depende da cobertura, do acabamento e das medidas que você procura. O quadro compara essas diferenças; as avaliações da loja estão nos capítulos dos modelos."
+            }
+          ]
+        },
+        {
+          "id": "I06",
+          "titulo": "Identificar as larguras da tabela",
+          "prioridade": "melhoria",
+          "motivo": "O texto explica medir a peça deitada, mas o cabeçalho Cintura pode ser lido isoladamente como circunferência corporal. Preservar todos os números e explicitar a largura.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/7/comparisonTable/caption",
+              "before": "Cintura / altura da peça, em cm, pelo Guia de medidas da Insider.",
+              "after": "Largura da cintura / altura da peça, em cm, pelo Guia de medidas da Insider."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tamanho-toda-up-como-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo da redação de Claude",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T17:16:01-03:00"
+      },
+      "base_sha256": "ee8d81bff8a7caa9678b700da33b247bd59929ee6c2b0fa1935e581150242596",
+      "grupos": [
+        {
+          "id": "T01",
+          "titulo": "Resposta rápida centrada no guia de cada peça",
+          "prioridade": "necessaria",
+          "motivo": "A orientação menor/maior aparece em páginas específicas e não deve virar regra geral de calcinha, sutiã, fita e silicone. Manter as medidas corporais e o cupom, sem escolher tamanho pelo leitor.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/0/paragraphs/0",
+              "before": "O M muda de peça para peça na Toda Up, então a letra não basta. Meça o sob busto e o busto, ou a cintura e o quadril, e confira a coluna da peça que você quer. Entre dois tamanhos, a loja indica o menor para firmeza e o maior para conforto. O cupom MAUAD dá 10% OFF.",
+              "after": "Na Toda Up, a mesma letra e o mesmo número podem corresponder a faixas corporais diferentes em cada peça. Meça busto e sob busto, ou cintura e quadril, e compare os dois pontos nas tabelas abaixo. O MAUAD deu 10% OFF nas peças testadas no carrinho."
+            }
+          ]
+        },
+        {
+          "id": "T02",
+          "titulo": "Medidas corporais apenas onde se aplicam",
+          "prioridade": "necessaria",
+          "motivo": "A frase “duas medidas, sempre do corpo” fica ampla demais para um guia que também inclui diâmetro do protetor e largura da fita. Delimitar a regra aos sutiãs, tops e calcinhas de tecido.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/1/paragraphs/0",
+              "before": "Os guias da loja pedem uma fita métrica e duas medidas, sempre do corpo.",
+              "after": "Para os sutiãs, tops e calcinhas de tecido, os guias usam medidas do corpo. Protetor e fita têm critérios próprios, explicados nas seções deles."
+            }
+          ]
+        },
+        {
+          "id": "T03",
+          "titulo": "Título de seção sem confusão com troca comercial",
+          "prioridade": "melhoria",
+          "motivo": "“SkinUp e Cotton Up não se trocam” pode ser lido como uma proibição de troca dos produtos. A diferença tratada é entre guias de medidas.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/7/heading",
+              "before": "Calcinhas: SkinUp e Cotton Up não se trocam",
+              "after": "Calcinhas: compare cintura e quadril em cada linha"
+            }
+          ]
+        },
+        {
+          "id": "T04",
+          "titulo": "Delimitar a dica entre dois tamanhos",
+          "prioridade": "necessaria",
+          "motivo": "A dica foi reconfirmada na página do Top Faixa. Não resolve automaticamente medidas que caiam em letras diferentes, nem autoriza a escolher um tamanho fora do guia. [Top Faixa Cotton Up](https://todaup.com/products/top-faixa-cotton-up).",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/10/paragraphs/0",
+              "before": "A orientação é da própria loja, na página dos sutiãs: para mais sustentação e firmeza, o número menor; para mais liberdade e conforto, o maior.",
+              "after": "Algumas páginas, como a do Top Faixa Cotton Up, sugerem o menor entre dois tamanhos para mais firmeza e o maior para mais liberdade. Essa dica não resolve, por si só, o caso em que busto e sob busto apontam letras diferentes; confirme o tamanho da peça com a marca."
+            }
+          ]
+        },
+        {
+          "id": "T05",
+          "titulo": "Proteção íntima não é sinônimo de embalagem fechada",
+          "prioridade": "necessaria",
+          "motivo": "A política fala em adesivo íntimo violado quando aplicável. Não transformar isso em proibição geral de abrir a embalagem de fita, silicone ou protetor, nem restringir o arrependimento por uma leitura nossa. [Política oficial](https://todaup.com/policies/refund-policy).",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/10/paragraphs/2",
+              "before": "A política também recusa \"adesivo íntimo violado, quando aplicável\". Leitura nossa: na fita, no silicone e no protetor, confira a medida antes de abrir. Essas condições são da troca por preferência, e a política diz que elas não restringem os direitos em lei para arrependimento e defeito.",
+              "after": "A política exclui da troca por preferência os produtos com adesivo íntimo violado, quando aplicável. Confira as condições antes de remover etiquetas ou proteções; a própria loja preserva os direitos de arrependimento e de defeito previstos em lei."
+            }
+          ]
+        },
+        {
+          "id": "T06",
+          "titulo": "CTA compatível com o tamanho que a pessoa encontrou",
+          "prioridade": "melhoria",
+          "motivo": "A maior grade não torna Comfort Up o primeiro produto para quem chegou procurando o tamanho de qualquer peça. Manter o destino conhecido, mas tornar o botão condicional à escolha da leitora.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/cta/text",
+              "before": "Com a medida na mão, comece pelo Comfort Up, o sutiã com a grade mais longa da loja, pelo link da parceria: o cupom MAUAD, de 10% OFF, já vai para o carrinho. Os links das outras peças estão no quadro de plus size. Confira o desconto antes de pagar.",
+              "after": "Se as suas medidas apontaram para o Comfort Up, veja a peça pelo link da parceria com MAUAD, de 10% OFF. As outras peças têm seus links no quadro de tamanhos. Confira o desconto no carrinho antes de pagar."
+            }
+          ]
+        },
+        {
+          "id": "T07",
+          "titulo": "Plus size sem extrapolar a divergência da fita",
+          "prioridade": "necessaria",
+          "motivo": "O FAQ não deve citar até 54 isoladamente, pois o corpo reconhece a divergência 52/54. Tamanhos podem permanecer: não são contagens de estoque.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/12/bullets/2",
+              "before": "Toda Up tem plus size? A loja não usa esse termo nas páginas que lemos. O Comfort Up é o sutiã que vai mais longe, até o G3 (54-56), e a Fita Up tem indicação até o 54 no guia.",
+              "after": "Toda Up tem plus size? Nos guias reunidos aqui, o Comfort Up chega ao G3 (54-56). A Fita Up tem uma divergência entre 52 e 54 na própria página; veja o capítulo de tamanhos antes de escolher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "skinup-marca-na-roupa",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo da redação de Claude",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T17:16:01-03:00"
+      },
+      "base_sha256": "d17cf3188d855df7573ffc86fed45d05827d784db1ddd86bbdcf20b6d44f9970",
+      "grupos": [
+        {
+          "id": "S01",
+          "titulo": "Resposta direta, sem simular teste nem generalizar Cotton Up",
+          "prioridade": "necessaria",
+          "motivo": "Manter a exceção expressa do briefing: falta de teste fica clara na resposta rápida, além da nota. Delimitar a promessa do Cotton Up às peças documentadas e reduzir a abertura a três frases.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/description",
+              "before": "A loja responde \"não\" em quase toda página, cada vez com outras palavras. Veja a promessa peça por peça, o que muda com o bojo e a roupa por cima, e a diferença para o Cotton Up.",
+              "after": "Compare o que a Toda Up promete para SkinUp e Cotton Up, o acabamento e o bojo de cada peça, e o que conferir na roupa antes de escolher."
+            },
+            {
+              "op": "replace",
+              "path": "/contentSections/0/paragraphs/0",
+              "before": "A Toda Up diz que a SkinUp não marca e explica isso pelo corte a laser sem costura. Nós não testamos, então essa resposta é da loja. A cor e o tecido da roupa por cima também contam. O Cotton Up tem outra explicação, sem citar laser. O cupom MAUAD dá 10% OFF.",
+              "after": "A Toda Up promete que a SkinUp não marca, mas não testamos esse resultado sob a roupa. Compare acabamento, bojo e contraste de cor nas peças abaixo. No Cotton Up, Top Faixa e Calcinha Biquíni também têm promessas próprias; o MAUAD deu 10% OFF no carrinho."
+            }
+          ]
+        },
+        {
+          "id": "S02",
+          "titulo": "Cotton Up: promessas por peça",
+          "prioridade": "necessaria",
+          "motivo": "Top Faixa e Calcinha Biquíni respondem que não marcam. Isso não libera estender a resposta ao Triangular. A ausência de menção a laser também não demonstra a presença ou o tipo de costura. [Top Faixa](https://todaup.com/products/top-faixa-cotton-up); [Calcinha Biquíni](https://todaup.com/products/calcinha-biquini-cotton-up).",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/5/paragraphs/0",
+              "before": "O Cotton Up também responde que não marca, com um argumento diferente. No Top Faixa, a loja fala em design \"mais clean\" e diz que o tecido maleável \"ajuda a não marcar\". Na Calcinha Biquíni, em \"caimento confortável e discreto\". As três páginas não citam corte a laser nem costura.",
+              "after": "No Cotton Up, o Top Faixa e a Calcinha Biquíni também prometem não marcar. O top atribui a promessa ao tecido maleável; a calcinha fala em modelagem e caimento discreto. As páginas consultadas não explicam isso por corte a laser."
+            }
+          ]
+        },
+        {
+          "id": "S03",
+          "titulo": "Cor, pele e contorno são critérios diferentes",
+          "prioridade": "necessaria",
+          "motivo": "Não presumir que uma cor clara é a resposta para toda camiseta branca ou todo tom de pele. Preservar a oferta Preto/Caramelo como informação de cor, sem tratá-la como incapacidade de funcionar com roupa clara.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/3/paragraphs/1",
+              "before": "Leitura nossa: a promessa fala do contorno da peça. O push-up muda o desenho do colo, e isso é o que você compra aqui. Outro ponto: ele só vem em Preto e Caramelo, sem um tom claro para a camiseta branca.",
+              "after": "Leitura nossa: esconder o contorno da peça e obter efeito push-up são objetivos diferentes. O bojo fixo muda o desenho do colo; confira se é isso que você procura. Nas cores Preto e Caramelo, compare o contraste com a sua pele e com a roupa por cima."
+            },
+            {
+              "op": "replace",
+              "path": "/contentSections/6/bullets/0",
+              "before": "Roupa clara: o contraste conta. Uma peça preta sob camiseta branca tende a aparecer mesmo sem costura. O Top, o Alça Fina e as Fio Dental têm a cor Baunilha, e as Biquíni e Cós Alto, a Creme.",
+              "after": "Roupa clara: confira o contraste da peça com a sua pele e com a roupa. As opções citadas nas páginas incluem Baunilha no Top, no Alça Fina e nas Fio Dental, e Creme nas Biquíni e Cós Alto; o nome da cor, sozinho, não garante invisibilidade."
+            },
+            {
+              "op": "replace",
+              "path": "/contentSections/8/bullets/1",
+              "before": "SkinUp fica invisível em roupa branca? A loja cita a camiseta branca nas páginas do Clássico e do Alça Fina, sem garantia nossa. Pela nossa leitura, a cor da peça conta, então evite o preto sob o branco.",
+              "after": "SkinUp fica invisível em roupa branca? A loja cita camiseta branca nas páginas do Clássico e do Alça Fina. Confira também o contraste da peça com a sua pele e com o tecido; este guia não demonstra invisibilidade na sua roupa."
+            },
+            {
+              "op": "replace",
+              "path": "/decision/skipIf/1",
+              "before": "Você procura um tom claro no Clássico: ele só vem em Preto e Caramelo.",
+              "after": "Você procura outras cores no Clássico além de Preto e Caramelo."
+            }
+          ]
+        },
+        {
+          "id": "S04",
+          "titulo": "Não prometer troca automática depois de experimentar",
+          "prioridade": "necessaria",
+          "motivo": "A política comercial fala em conservação, etiquetas, proteções aplicáveis e análise da solicitação. O texto pode orientar conferência, mas não vender os 30 dias como uso livre com troca garantida. [Política oficial](https://todaup.com/policies/refund-policy).",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/6/postParagraphs/0",
+              "before": "O teste que vale é o seu, com a roupa que motivou a compra. Prove em casa sem tirar as etiquetas e sem lavar: a política da loja aceita a troca por modelo, tamanho ou cor em até 30 dias do recebimento, com a peça sem sinais de uso.",
+              "after": "Antes de remover etiquetas ou proteções, confira as medidas e como a peça fica com a roupa escolhida. A Toda Up informa troca por preferência em até 30 dias, sujeita à conservação da peça e à análise da solicitação."
+            }
+          ]
+        },
+        {
+          "id": "S05",
+          "titulo": "Decisão pelo produto, sem repetir a ausência de teste",
+          "prioridade": "melhoria",
+          "motivo": "A ausência de teste está na resposta rápida e na nota. O quadro pode usar um limite concreto: o bojo fixo do Clássico. Não transformar nossa falta de experiência em motivo para rejeitar a peça.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/decision/skipIf/0",
+              "before": "Você quer um resultado testado por nós: este texto traz só o que a loja promete.",
+              "after": "Você quer retirar o bojo do Clássico: nesse modelo ele é fixo."
+            },
+            {
+              "op": "replace",
+              "path": "/contentSections/8/bullets/0",
+              "before": "SkinUp marca na roupa? A loja diz que não, por causa do corte a laser sem costura. Nós não testamos; a resposta é da página de cada produto.",
+              "after": "SkinUp marca na roupa? A Toda Up promete que não, atribuindo isso ao corte a laser e ao acabamento. O quadro inicial mostra as afirmações de cada peça."
+            }
+          ]
+        },
+        {
+          "id": "S06-3",
+          "titulo": "Link próprio para cada modelo agrupado",
+          "prioridade": "necessaria",
+          "motivo": "Uma célula que nomeia dois produtos e abre apenas um deles deixa o segundo sem caminho direto. Usar os destinos já existentes no quadro superior, preservando preços e número de linhas.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/7/comparisonTable/rows/3/0",
+              "before": "[Calcinhas Fio Dental e Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "after": "[Calcinhas Fio Dental](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)"
+            }
+          ]
+        },
+        {
+          "id": "S06-4",
+          "titulo": "Link próprio para cada modelo agrupado",
+          "prioridade": "necessaria",
+          "motivo": "Uma célula que nomeia dois produtos e abre apenas um deles deixa o segundo sem caminho direto. Usar os destinos já existentes no quadro superior, preservando preços e número de linhas.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/7/comparisonTable/rows/4/0",
+              "before": "[Calcinhas Biquíni e Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "after": "[Calcinhas Biquíni](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)"
+            }
+          ]
+        },
+        {
+          "id": "S06-5",
+          "titulo": "Link próprio para cada modelo agrupado",
+          "prioridade": "necessaria",
+          "motivo": "Uma célula que nomeia dois produtos e abre apenas um deles deixa o segundo sem caminho direto. Usar os destinos já existentes no quadro superior, preservando preços e número de linhas.",
+          "operacoes": [
+            {
+              "op": "replace",
+              "path": "/contentSections/7/comparisonTable/rows/5/0",
+              "before": "[Top Faixa e Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "after": "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ajustes_adjacentes": [
+    {
+      "slug": "skinup-ou-cotton-up-toda-up",
+      "path": "/contentSections/7/postParagraphs/1",
+      "before": "Meça o sob busto e o busto antes de escolher e compare com a coluna da peça, não com o número que você usa em outra marca. Se ficar entre duas faixas, a loja indica a menor para mais firmeza e a maior para mais conforto. As tabelas de todas as linhas estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher).",
+      "after": "Meça o sob busto e o busto antes de escolher e compare com a coluna da peça, não com o número que você usa em outra marca. Na página do Top Faixa Cotton Up, a loja sugere o menor entre dois tamanhos para mais firmeza e o maior para mais liberdade. Se as duas medidas apontarem letras diferentes, confirme a indicação com a marca. As tabelas de todas as linhas estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher).",
+      "base_sha256": "f3d958aeb54a3d79a1961b6e965520de78ac58ebb219aaac30d523008d235f48"
+    }
+  ]
+}
