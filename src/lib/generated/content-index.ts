@@ -42038,7 +42038,7 @@ export const reviewsData: unknown[] = [
           },
           {
             "label": "Ver opções e preços da Samsung WD13FG 13 kg no Mercado Livre",
-            "href": "https://meli.la/135UA2m",
+            "href": "https://meli.la/2SnR3hH",
             "sponsored": true
           }
         ]
