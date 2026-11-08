@@ -35,9 +35,9 @@ import { isInternalLink } from '../src/lib/internalLinks';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { MOBILE_VISIBLE_ARTICLES } from '../src/lib/homeStoreTabs';
-import { YESSTYLE_LOCALES, getYesStyleLocaleConfig } from '../src/lib/i18n/clusters/yesstyle';
+import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
-import { getShellCommercialLinks, getShellCopy, getShellHomeHref } from '../src/lib/i18n/shellDictionary';
+import { getShellCopy, getShellHomeHref } from '../src/lib/i18n/shellDictionary';
 import { getActiveNav, getShellMenu } from '../src/lib/i18n/shellMenu';
 import {
   LOCALE_HOME_LOCALES,
@@ -2060,7 +2060,6 @@ function ptHeaderTexts() {
     menu.searchLabels?.close,
     menu.dicasLabels?.short,
     menu.dicasLabels?.long,
-    menu.footerLabels?.house,
     menu.footerLabels?.partners,
     menu.mediaKitLabel,
     copy.openMenuLabel,
@@ -2186,9 +2185,10 @@ function footerProblems(footer: string, locale: Locale): string[] {
   check(hrefs.includes('/privacidade'), 'sem /privacidade');
   check(footer.includes(`>${getConsentCopy(locale).privacyLabel}<`) || locale === 'pt', 'Privacidade sem o rótulo do idioma');
   check(footer.includes(`>${copy.footerExploreLabel}<`), 'sem o título da coluna Explorar');
+  check(hrefs.every((href) => !isStoreLink(href)), 'link de loja no rodapé');
 
   if (locale === 'pt') {
-    check(menu.footerLabels !== null && footer.includes(`>${menu.footerLabels.house}<`), 'sem o título Em Casa');
+    check(footer.includes(`>${copy.footerHouseLabel}<`), 'sem o título Em Casa');
     check(menu.footerLabels !== null && footer.includes(`>${menu.footerLabels.partners}<`), 'sem o título Parceiros');
     for (const href of ['/reviews', '/cupons', '/receitas', '/videos', '/sobre', '/faqs', '/contato', brandLinks.mediaKit, brandLinks.dicas, brandLinks.damie]) {
       check(hrefs.includes(href), `sem o link ${href}`);
@@ -2199,11 +2199,14 @@ function footerProblems(footer: string, locale: Locale): string[] {
     return problems;
   }
 
-  const store = getShellCommercialLinks(locale);
-  for (const href of [...menu.primary.map((item) => item.href), ...store.map((link) => link.href)]) check(hrefs.includes(href), `sem o link ${href}`);
+  // Fora do PT, o rodapé tem Guias e Coupons, a coluna Em Casa com FAQ, contato (mailto) e o mídia kit em nova aba.
+  for (const href of menu.primary.map((item) => item.href)) check(hrefs.includes(href), `sem o link ${href}`);
+  check(menu.footerFaq !== null && hrefs.includes(menu.footerFaq.href) && footer.includes(`>${menu.footerFaq.label}<`), 'sem o FAQ');
+  check(footer.includes(`>${copy.footerHouseLabel}<`), 'sem o título da coluna Em Casa');
+  check(footer.includes(`href="${brandLinks.mediaKit}" target="_blank"`) && footer.includes(`>${menu.mediaKitLabel}<`), 'sem o mídia kit em nova aba');
   check(hrefs.includes('mailto:contato@emcasacomcecilia.com'), 'sem o mailto de contato');
-  check(footer.includes(`>${copy.contactLabel}<`), 'sem o título Contato');
-  for (const href of ['/sobre', '/faqs', '/contato', brandLinks.mediaKit, brandLinks.dicas, brandLinks.damie]) {
+  check(footer.includes(`>${copy.contactLabel}<`), 'sem o link de contato');
+  for (const href of ['/sobre', '/faqs', '/contato', brandLinks.dicas, brandLinks.damie]) {
     check(!hrefs.includes(href), `link ${href} no rodapé de outro idioma`);
   }
   return problems;
@@ -3919,9 +3922,7 @@ function headerProblems(html: string, pathname: string, locale: Locale) {
   const drawerMarks = allDrawerMarks.filter(
     (mark) => !(active.item && mark.href === active.pageHref) && !(openMoreHref && mark.href === openMoreHref),
   );
-  const sectionHref =
-    menu.primary.find((item) => item.id === active.section)?.href ??
-    (active.section === 'yesstyle' ? getYesStyleLocaleConfig(locale).hubPath : `/${locale}/coupons/shein`);
+  const sectionHref = menu.primary.find((item) => item.id === active.section)?.href ?? '';
   if (desktopMarks.length !== 1) problems.push(`computador com ${desktopMarks.length} aria-current (esperado 1)`);
   else if (active.section === 'more') {
     if (desktopMarks[0].controls !== 'header-lista-more') problems.push('a seção Mais não marca o botão da lista');
@@ -3954,6 +3955,8 @@ const HEADER_PAGES: Array<[string, Locale]> = [
   ['/', 'pt'],
   ['/en/reviews/how-to-find-valid-yesstyle-coupon-codes', 'en'],
   ['/en/coupons/yesstyle', 'en'],
+  ['/en/coupons', 'en'],
+  ['/de/coupons/yesstyle', 'de'],
 ];
 const headerHtmlOf: Record<string, string> = {};
 for (const [pagePath, locale] of HEADER_PAGES) {
@@ -3970,6 +3973,19 @@ for (const [pagePath, locale] of HEADER_PAGES) {
       assert.ok(!header.includes(`>${text}<`) && !header.includes(`"${text}"`), `${pagePath}: header com o texto do PT "${text}"`);
     }
   }
+}
+
+// Fora do PT, o header leva a Coupons ao hub do idioma; a YesStyle e a SHEIN saíram do cabeçalho, então nenhum
+// link de loja nem página de loja aparece nele.
+for (const locale of LOCALE_HOME_LOCALES) {
+  const hubFile = builtFile(`${SITE_URL}/${locale}/reviews`);
+  assert.ok(hubFile, `/${locale}/reviews: página não gerada no build (header)`);
+  const { header } = headerPieces(read(hubFile));
+  const hrefs = [...header.matchAll(/href="([^"]+)"/g)].map(([, href]) => decodeHtml(href));
+  assert.ok(hrefs.includes(`/${locale}/coupons`), `/${locale}/reviews: header sem o hub de cupons`);
+  assert.ok(header.includes(`>${COUPON_STORE_COPY[locale].couponsLabel}</a>`), `/${locale}/reviews: header sem o rótulo "${COUPON_STORE_COPY[locale].couponsLabel}"`);
+  assert.deepEqual(hrefs.filter(isStoreLink), [], `/${locale}/reviews: header com link de loja`);
+  assert.deepEqual(hrefs.filter((href) => href.startsWith(`/${locale}/coupons/`)), [], `/${locale}/reviews: header com página de loja`);
 }
 
 // A lupa do header nos 10 idiomas: na home e num artigo de cada idioma, o botão com o rótulo do idioma e o

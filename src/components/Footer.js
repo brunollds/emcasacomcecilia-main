@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { brandLinks, socialMedias } from '@/lib/brandLinks';
-import { getShellCommercialLinks, getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
+import { getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { getShellMenu } from '@/lib/i18n/shellMenu';
 import { findLocaleByHtmlLang } from '@/lib/i18n/locales';
 import SiteName from '@/components/header/SiteName';
@@ -68,14 +68,12 @@ export default function Footer({ lang = 'pt-BR' }) {
   const isPt = localeKey === 'pt';
   const copy = getShellCopy(localeKey);
   const menu = getShellMenu(localeKey);
-  const commercialLinks = getShellCommercialLinks(localeKey);
   const homeHref = getShellHomeHref(localeKey);
   const consentCopy = getConsentCopy(localeKey);
 
   const exploreLinks = [
     ...menu.primary,
     ...menu.more.filter((item) => item.id === 'videos'),
-    ...commercialLinks,
   ];
   const houseLinks = menu.more.filter((item) => item.id !== 'videos');
 
@@ -116,7 +114,7 @@ export default function Footer({ lang = 'pt-BR' }) {
 
             {isPt ? (
               <>
-                <FooterColumn title={menu.footerLabels.house}>
+                <FooterColumn title={copy.footerHouseLabel}>
                   {houseLinks.map((link) => (
                     <li key={link.id}>
                       <Link href={link.href} className={LINK_CLASS}>{link.label}</Link>
@@ -143,9 +141,17 @@ export default function Footer({ lang = 'pt-BR' }) {
                 </FooterColumn>
               </>
             ) : (
-              <FooterColumn title={copy.contactLabel}>
+              <FooterColumn title={copy.footerHouseLabel}>
                 <li>
-                  <a href={`mailto:${CONTACT_EMAIL}`} className={LINK_CLASS}>{CONTACT_EMAIL}</a>
+                  <Link href={menu.footerFaq.href} className={LINK_CLASS}>{menu.footerFaq.label}</Link>
+                </li>
+                <li>
+                  <a href={`mailto:${CONTACT_EMAIL}`} className={LINK_CLASS}>{copy.contactLabel}</a>
+                </li>
+                <li>
+                  <a href={brandLinks.mediaKit} target="_blank" rel="noopener noreferrer" className={LINK_CLASS}>
+                    {menu.mediaKitLabel}
+                  </a>
                 </li>
               </FooterColumn>
             )}

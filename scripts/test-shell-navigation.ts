@@ -1,15 +1,14 @@
 import assert from 'node:assert/strict';
 import { getSearchCopy, type SearchCopy } from '@/components/search/searchCopy';
-import { getCouponStorePath } from '@/lib/couponTranslations';
+import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
+import { LOCALE_FAQ_COPY } from '@/components/faqs/localeFaqCopy';
+import { getCouponHubPath } from '@/lib/couponHub';
+import { getFaqPath } from '@/lib/faqPage';
 import { LOCALES, LOCALE_KEYS } from '@/lib/i18n/locales';
 import { getLocaleHomePath } from '@/lib/localeHome';
 import { REVIEW_CATEGORIES } from '@/lib/reviewDiscovery';
 import { getReviewHubPath } from '@/lib/review-hubs';
-import {
-  getShellCommercialLinks,
-  getShellCopy,
-  getShellHomeHref,
-} from '@/lib/i18n/shellDictionary';
+import { getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { getActiveNav, getShellMenu, type ActiveNav } from '@/lib/i18n/shellMenu';
 
 assert.deepEqual(
@@ -37,7 +36,6 @@ const searchTexts = (copy: SearchCopy) => ({
 const ptSearch = searchTexts(getSearchCopy('pt'));
 
 for (const locale of LOCALE_KEYS) {
-  const commercialLinks = getShellCommercialLinks(locale);
   const copy = getShellCopy(locale);
 
   assert.ok(copy.openMenuLabel && copy.closeMenuLabel, `${locale}: rótulos do menu vazios`);
@@ -76,7 +74,7 @@ for (const locale of LOCALE_KEYS) {
 
   if (locale === 'pt') {
     assert.equal(getShellHomeHref(locale), '/');
-    assert.deepEqual(commercialLinks, []);
+    assert.equal(menu.footerFaq, null);
 
     assert.deepEqual(menu.primary.map((item) => item.id), ['reviews', 'cupons', 'receitas']);
     assert.deepEqual(menu.primary.map((item) => item.href), ['/reviews', '/cupons', '/receitas']);
@@ -100,7 +98,8 @@ for (const locale of LOCALE_KEYS) {
     assert.equal(menu.moreLabel, 'Mais');
     assert.deepEqual(menu.searchLabels, { open: 'Abrir busca', close: 'Fechar busca' });
     assert.equal(menu.reviewsListLabel, 'Categorias de Guias & Análises');
-    assert.deepEqual(menu.footerLabels, { house: 'Em Casa', partners: 'Parceiros' });
+    assert.deepEqual(menu.footerLabels, { partners: 'Parceiros' });
+    assert.equal(copy.footerHouseLabel, 'Em Casa');
     assert.equal(menu.mediaKitLabel, 'Media Kit');
     continue;
   }
@@ -109,18 +108,20 @@ for (const locale of LOCALE_KEYS) {
   // O logo e o seletor de idioma levam à home do idioma; a lista de artigos segue no menu.
   assert.equal(getShellHomeHref(locale), getLocaleHomePath(locale));
 
-  assert.deepEqual(menu.primary, [{ id: 'reviews', href: hubPath, label: copy.reviewHubLabel }]);
+  // Coupons leva ao hub do idioma; a YesStyle e as lojas ficam dentro dele, e não no menu.
+  assert.deepEqual(menu.primary, [
+    { id: 'reviews', href: hubPath, label: copy.reviewHubLabel },
+    { id: 'cupons', href: getCouponHubPath(locale), label: COUPON_STORE_COPY[locale].couponsLabel },
+  ]);
   assert.deepEqual(menu.more, []);
   assert.equal(menu.moreLabel, null);
   assert.equal(menu.reviewsListLabel, null);
   assert.equal(menu.footerLabels, null);
-  assert.equal(menu.mediaKitLabel, null);
-
-  const yesStyle = commercialLinks.find((link) => link.id === 'yesstyle');
-  assert.ok(yesStyle.href);
-
-  const shein = commercialLinks.find((link) => link.id === 'shein');
-  assert.equal(shein.href, getCouponStorePath('shein', locale));
+  // O rodapé fora do PT tem FAQ, contato e mídia kit; o mídia kit sai com o aviso de idioma do FAQ.
+  assert.deepEqual(menu.footerFaq, { href: getFaqPath(locale), label: LOCALE_FAQ_COPY[locale].title });
+  assert.equal(menu.mediaKitLabel, LOCALE_FAQ_COPY[locale].newsMediaKit);
+  assert.ok(copy.footerHouseLabel, `${locale}: footerHouseLabel vazio`);
+  assert.notEqual(copy.footerHouseLabel, ptCopy.footerHouseLabel, `${locale}: footerHouseLabel igual ao PT`);
 }
 
 type ActiveRow = [string, string, ActiveNav['section'], ActiveNav['item'], ActiveNav['pageHref']];
@@ -149,17 +150,27 @@ const ptRows: ActiveRow[] = [
   ['/reviewsx', '', null, null, null],
 ];
 
+// Fora do PT, a seção Coupons cobre o hub e tudo dentro dele (a YesStyle e as lojas traduzidas).
 const enRows: ActiveRow[] = [
   ['/en/reviews', '', 'reviews', null, '/en/reviews'],
   ['/en/reviews/how-to-find-valid-yesstyle-coupon-codes', '', 'reviews', null, null],
-  ['/en/coupons/yesstyle', '', 'yesstyle', null, '/en/coupons/yesstyle'],
-  ['/en/coupons/yesstyle/x', '', 'yesstyle', null, null],
-  ['/en/coupons/shein', '', 'shein', null, '/en/coupons/shein'],
-  ['/en/coupons/temu', '', null, null, null],
+  ['/en/coupons', '', 'cupons', null, '/en/coupons'],
+  ['/en/coupons/', '', 'cupons', null, '/en/coupons'],
+  ['/en/coupons/yesstyle', '', 'cupons', null, null],
+  ['/en/coupons/yesstyle/x', '', 'cupons', null, null],
+  ['/en/coupons/shein', '', 'cupons', null, null],
+  ['/en/coupons/temu', '', 'cupons', null, null],
+  ['/en/couponsx', '', null, null, null],
+  ['/en/faq', '', null, null, null],
   ['/en', '', null, null, null],
 ];
+const deRows: ActiveRow[] = [
+  ['/de/coupons', '', 'cupons', null, '/de/coupons'],
+  ['/de/coupons/yesstyle', '', 'cupons', null, null],
+  ['/de/coupons/shein', '', 'cupons', null, null],
+];
 
-for (const [locale, rows] of [['pt', ptRows], ['en', enRows]] as const) {
+for (const [locale, rows] of [['pt', ptRows], ['en', enRows], ['de', deRows]] as const) {
   for (const [pathname, search, section, item, pageHref] of rows) {
     assert.deepEqual(
       getActiveNav(pathname, search, locale),
