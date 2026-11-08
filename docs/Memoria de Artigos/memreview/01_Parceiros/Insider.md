@@ -44,6 +44,7 @@ Testes de carrinho em 2026-10-05:
   Feminina e uma meia SneakIN sozinha no carrinho (não há valor mínimo).
 - **Sem desconto:** Vestido T-Shirt FutureForm, que tem a tag `lançamento` no catálogo, e um item
   de teste da própria loja.
+- **Teste de 08/11/2026:** a tag `lançamento` não barrou o cupom em calças e sutiãs (FutureForm, Wide Leg UltraBold, Director, NakedFeel): 15% em todas no carrinho. A regra geral da loja continua, e cada peça se confere no carrinho.
 - **A tag `lançamento` não serve de critério:** Tech T-Shirt e Core T-Shirt têm a tag e receberam o
   desconto. Nos textos, orientar a conferir a linha "Código de desconto EMCASACOMCECILIA" de cada
   item no resumo do checkout.

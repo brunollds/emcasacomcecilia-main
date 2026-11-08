@@ -196154,5 +196154,588 @@ export const reviewsData: unknown[] = [
         "slug": "insider-vale-a-pena"
       }
     ]
+  },
+  {
+    "locale": "pt",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "8 de novembro de 2026",
+    "publishedAtISO": "2026-11-08",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links e pelo cupom. Não vestimos as calças; testamos o desconto no carrinho.",
+    "id": 857,
+    "slug": "calca-insider-feminina-qual-escolher",
+    "title": "Calça feminina Insider: FutureForm ou Wide Leg, qual escolher?",
+    "seoTitle": "Calça feminina Insider: FutureForm ou Wide Leg?",
+    "description": "Compare o corte afunilado da FutureForm com as pernas amplas da Wide Leg UltraBold. Veja medidas, indicação de clima da Insider e preços com o cupom.",
+    "metaDescription": "EMCASACOMCECILIA dá 15% OFF na Insider. Compare FutureForm e Wide Leg: corte, medidas e preços com cupom, incluindo a oferta FutureForm só XGG.",
+    "image": "/images/reviews/insider/calca-insider-feminina-qual-escolher-capa.webp",
+    "imageAlt": "Calça Tecnológica FutureForm marrom e calça Wide Leg UltraBold preta em duas fotos, com logo da Insider e título na faixa",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Insider indica a FutureForm para dias quentes e a Wide Leg UltraBold para dias amenos e frios. O corte muda de afunilado para pernas amplas; as tabelas de medidas ajudam a escolher. O cupom EMCASACOMCECILIA deu 15% OFF nos dois modelos e na oferta só XGG no carrinho."
+        ]
+      },
+      {
+        "heading": "As calças lado a lado",
+        "paragraphs": [
+          "A diferença começa no tecido e no clima. Depois vem o corte: uma calça que afina até a barra contra uma de pernas largas do quadril ao chão."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas e teste de carrinho em 08/11/2026.",
+          "headers": [
+            "Calça",
+            "Corte",
+            "Tecido",
+            "Tamanhos",
+            "Preço da página",
+            "Com o cupom, no carrinho"
+          ],
+          "rows": [
+            [
+              "[Calça Tecnológica Feminina FutureForm](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Afunilada, cintura alta, dois bolsos laterais",
+              "85% poliamida e 15% elastano",
+              "PP a XGG",
+              "R$ 449 (de R$ 545)",
+              "R$ 381,65"
+            ],
+            [
+              "[Calça Tecnológica Feminina FutureForm, só XGG](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-tecnologica-feminina-futureform%C2%AE-xgg?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Afunilada, cintura alta, dois bolsos laterais",
+              "85% poliamida e 15% elastano",
+              "XGG",
+              "R$ 299 (de R$ 545)",
+              "R$ 254,15"
+            ],
+            [
+              "[Calça Wide Leg com Bolso UltraBold](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-wide-leg-com-bolso-ultrabold-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Pernas amplas, cós elástico, bolsos faca",
+              "77% viscose, 18% poliamida e 5% elastano",
+              "PP a GG",
+              "R$ 399",
+              "R$ 339,15"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O preço da página pode mudar durante a [Black Friday da Insider para mulheres](/reviews/black-friday-insider-feminino)."
+        ]
+      },
+      {
+        "heading": "Calça Tecnológica FutureForm: volume nas pernas e barra afunilada",
+        "paragraphs": [
+          "A FutureForm concentra volume na coxa, no joelho e na panturrilha e afunila na barra, como mostram a descrição e as fotos da loja. Se você quer a perna reta até a barra, esse corte não atende.",
+          "O tecido é o FutureForm. A Insider promete que ele desamassa no corpo e dispensa o ferro, com rápida evaporação de suor. Para água, a proteção anunciada é contra respingos e garoas.",
+          "A página publica nota 5,0 em 531 avaliações. Um comentário diz que a calça é \"super confortável, ajusta perfeitamente no corpo\". A [camisa FutureForm feminina](/reviews/camisa-social-insider-feminina), do mesmo tecido, é a peça que a loja vende junto.",
+          "Se você usa XGG, confira primeiro a página exclusiva desse tamanho: ela tem preço menor no quadro. As duas páginas trazem a mesma composição e descrição de corte."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+            "alt": "Mulher de corpo inteiro com a calça FutureForm marrom, regata clara e tênis, com a perna mais larga no meio e fechada no tornozelo",
+            "caption": "A FutureForm na cor Urban Brown. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-detalhe.webp",
+            "alt": "Detalhe da calça FutureForm marrom com a mão no bolso lateral",
+            "caption": "O bolso lateral de perto. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          }
+        ]
+      },
+      {
+        "heading": "Calça Wide Leg UltraBold: a opção de pernas amplas",
+        "paragraphs": [
+          "Para quem quer pernas amplas até a barra, a Wide Leg é a pantalona da comparação. A Insider descreve o corte como relaxed, com cós elástico e bolsos faca, e indica a malha de alta gramatura para dias amenos e frios.",
+          "A marca também anuncia toque macio, ação antiodor, conforto térmico e que a peça desamassa no corpo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg.webp",
+            "alt": "Mulher de corpo inteiro com a calça Wide Leg UltraBold preta e blusa preta de alças, com as pernas largas até o chão",
+            "caption": "A Wide Leg na cor preta. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-wide-leg-com-bolso-ultrabold-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/calca-insider-feminina-qual-escolher-wide-leg-costas.webp",
+            "alt": "Mulher de costas com a calça Wide Leg UltraBold preta, mostrando a largura das pernas",
+            "caption": "A Wide Leg vista de costas. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-wide-leg-com-bolso-ultrabold-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          }
+        ]
+      },
+      {
+        "heading": "E a Reta Ajustável FutureForm?",
+        "paragraphs": [
+          "A Reta Ajustável ficou fora do quadro porque estava indisponível na consulta. A [página da Reta Ajustável](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-reta-ajustavel-futureform-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) descreve um design amplo, com reguladores na cintura e nos calcanhares para ajustar o caimento, elástico no cós e nos tornozelos e bolsos utilitários. A composição é de 88% poliamida e 12% elastano. Se ela voltar, confira a grade e o preço na página."
+        ]
+      },
+      {
+        "heading": "Como escolher o tamanho",
+        "paragraphs": [
+          "A Insider mede a peça deitada, e cada calça usa medidas diferentes. A FutureForm informa o entrepernas, e a Wide Leg, a altura total, então as duas não se comparam nesse ponto. Meça uma calça sua nos mesmos lugares: a cintura de uma lateral à outra, com o cós reto; o quadril; e o comprimento que a tabela daquela calça usar.",
+          "Para estimar o contorno da calça, dobre a largura: 35 cm correspondem a aproximadamente 70 cm. Essa é uma medida da peça, não do corpo."
+        ],
+        "comparisonTable": {
+          "caption": "Calça Tecnológica FutureForm. Medidas em cm, pelo Guia de medidas da Insider.",
+          "headers": [
+            "Tamanho",
+            "Largura da cintura",
+            "Largura do quadril",
+            "Entrepernas"
+          ],
+          "rows": [
+            [
+              "PP",
+              "31",
+              "48",
+              "68"
+            ],
+            [
+              "P",
+              "33",
+              "50",
+              "69"
+            ],
+            [
+              "M",
+              "35",
+              "52",
+              "69"
+            ],
+            [
+              "G",
+              "38",
+              "55",
+              "70"
+            ],
+            [
+              "GG",
+              "41",
+              "58",
+              "70"
+            ],
+            [
+              "XGG",
+              "45",
+              "62",
+              "71"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se errar, a página promete troca gratuita e 21 dias para devolução, com a peça sem uso, com etiqueta e sem lavagem. Prove antes de lavar. As outras linhas da marca estão na [tabela de medidas Insider](/reviews/tabela-de-medidas-insider)."
+        ]
+      },
+      {
+        "heading": "Medidas da Wide Leg UltraBold",
+        "paragraphs": [
+          "O Guia de medidas também lista XGG e XXGG, mas a página consultada oferece do PP ao GG. No M, a Wide Leg tem 3 cm a mais na largura da cintura e 2 cm na do quadril em relação à FutureForm. São medidas da peça deitada."
+        ],
+        "comparisonTable": {
+          "caption": "Calça Wide Leg UltraBold. Medidas em cm, pelo Guia de medidas da Insider.",
+          "headers": [
+            "Tamanho",
+            "Altura total",
+            "Largura da cintura",
+            "Largura do quadril"
+          ],
+          "rows": [
+            [
+              "PP",
+              "102",
+              "34",
+              "50"
+            ],
+            [
+              "P",
+              "103,5",
+              "36",
+              "52"
+            ],
+            [
+              "M",
+              "105",
+              "38",
+              "54"
+            ],
+            [
+              "G",
+              "106,5",
+              "40",
+              "56"
+            ],
+            [
+              "GG",
+              "108",
+              "42",
+              "58"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Lavagem",
+        "paragraphs": [
+          "Para lavar, siga a etiqueta que acompanha a calça."
+        ]
+      },
+      {
+        "heading": "O preço com o cupom",
+        "paragraphs": [
+          "Testamos o EMCASACOMCECILIA com uma peça de cada, e os 15% entraram em todas; os valores estão no quadro. Confira a aplicação no seu carrinho antes de pagar, porque as promoções da loja mudam.",
+          "Vale um cupom por pedido; ele não se aplica à loja física. A loja declara exceção para lançamentos, mas peças marcadas como lançamento no catálogo da loja também aceitaram o código nos nossos testes. Confira o desconto de cada peça no carrinho; as demais regras estão no [cupom Insider](/cupons/insider)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Para dias quentes: a FutureForm, pela indicação de clima da Insider e pelo corte que afunila na barra.",
+          "Para pernas amplas em dias amenos ou frios: a Wide Leg UltraBold, a opção de pernas amplas.",
+          "Para quem usa XGG e escolheu a FutureForm: confira primeiro a página exclusiva desse tamanho, que tem preço menor no quadro."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a FutureForm para dias quentes, porque a Insider a indica para esse clima e o corte afunila na barra.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A calça FutureForm é boa? A FutureForm é uma opção para quem prefere pernas com volume e barra afunilada. Antes de escolher, compare as medidas com uma calça sua; o capítulo do modelo reúne a descrição e os comentários da loja.",
+          "FutureForm amassa? A Insider diz que o tecido desamassa no corpo e não precisa passar.",
+          "Qual a diferença da Reta para a Tecnológica? A Tecnológica afina até a barra. A Reta tem design amplo e reguladores na cintura e nos calcanhares, detalhados no capítulo dela.",
+          "A Insider tem pantalona? A opção de pernas amplas é a Wide Leg UltraBold, de malha indicada para dias amenos e frios. A loja usa a palavra pantalona na descrição da Wide Leg anterior, vendida em poucos tamanhos.",
+          "Qual é o cupom Insider para as calças? O EMCASACOMCECILIA deu 15% OFF na FutureForm, na oferta só XGG e na Wide Leg no teste de carrinho. Confira o desconto de cada peça no seu pedido."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você prefere a barra afunilada da FutureForm e busca a indicação da loja para dias quentes.",
+        "Você quer a pantalona de pernas amplas da Wide Leg, indicada pela marca para dias amenos e frios."
+      ],
+      "skipIf": [
+        "Você quer pernas retas até a barra: a FutureForm afunila.",
+        "Você precisa de XGG na Wide Leg: a página consultada oferecia do PP ao GG."
+      ]
+    },
+    "cta": {
+      "text": "Se você ficou com a FutureForm, veja o modelo feminino pelo link da parceria com o cupom EMCASACOMCECILIA, de 15% OFF. Para a Wide Leg ou a oferta só XGG, use os links do quadro. Confira o desconto antes de pagar.",
+      "label": "Ver a FutureForm feminina com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "relatedArticles": [
+      {
+        "slug": "calca-insider-masculina-qual-escolher"
+      },
+      {
+        "slug": "camisa-social-insider-feminina"
+      },
+      {
+        "slug": "tabela-de-medidas-insider"
+      },
+      {
+        "slug": "insider-vale-a-pena"
+      }
+    ]
+  },
+  {
+    "locale": "pt",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "8 de novembro de 2026",
+    "publishedAtISO": "2026-11-08",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links e pelo cupom. Não vestimos as calças; testamos o desconto no carrinho.",
+    "id": 858,
+    "slug": "calca-insider-masculina-qual-escolher",
+    "title": "Calça masculina Insider: FutureForm, Director ou Hybrid Jogger, qual escolher?",
+    "seoTitle": "Calça masculina Insider: FutureForm, Director ou Jogger?",
+    "description": "A Director é a de corte reto, com passantes para cinto; a FutureForm afina nas pernas; a Hybrid é a jogger. Veja o corte, as medidas e o preço das três com o cupom.",
+    "metaDescription": "EMCASACOMCECILIA dá 15% OFF na Insider. Calça FutureForm, Director ou Hybrid Jogger: corte, tecido, tamanhos e o preço com o cupom.",
+    "image": "/images/reviews/insider/calca-insider-masculina-qual-escolher-capa.webp",
+    "imageAlt": "Calças masculinas FutureForm marrom, Director bege e Hybrid Jogger preta em três fotos, com logo da Insider e título na faixa",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para roupa social com cinto, a Director; para pernas afuniladas e bolsos com zíper, a FutureForm; para barra fechada, a Hybrid Jogger. Compare as medidas no quadro antes de escolher o tamanho. O cupom EMCASACOMCECILIA deu 15% OFF nas três no teste de carrinho."
+        ]
+      },
+      {
+        "heading": "As calças lado a lado",
+        "paragraphs": [
+          "Comece pelo corte e pelos detalhes que você usa: passantes para cinto, bolso com zíper ou barra fechada. Cada modelo tem seu tecido, com as promessas da loja descritas no capítulo correspondente."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas e teste de carrinho em 08/11/2026.",
+          "headers": [
+            "Calça",
+            "Corte e detalhes",
+            "Tecido",
+            "Tamanhos",
+            "Preço da página",
+            "Com o cupom, no carrinho"
+          ],
+          "rows": [
+            [
+              "[Calça Tecnológica Masculina FutureForm](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-masculina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Tapered, cintura alta, dois bolsos com zíper",
+              "85% poliamida e 15% elastano",
+              "PP a XGG",
+              "R$ 449 a R$ 454, conforme a cor (de R$ 545)",
+              "R$ 385,90 no teste, na cor de R$ 454; R$ 381,65 pela conta, na de R$ 449"
+            ],
+            [
+              "[Calça Alfaiataria Tecnológica Director](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-director-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Reta, cintura média, bolsos faca, passantes para cinto, cordão interno",
+              "92% poliamida e 8% elastano",
+              "PP a XGG",
+              "R$ 519",
+              "R$ 441,15"
+            ],
+            [
+              "[Calça Jogger Hybrid](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/hybrid-jogger?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Jogger de modelagem elástica, uma cor (Washed Black)",
+              "HYFIBER",
+              "P a XGG",
+              "R$ 449 (de R$ 499)",
+              "R$ 381,65"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O preço da página pode mudar durante a [Black Friday da Insider](/reviews/black-friday-insider)."
+        ]
+      },
+      {
+        "heading": "Calça Tecnológica FutureForm: o meio-termo com zíper",
+        "paragraphs": [
+          "A FutureForm serve a quem quer pernas que afunilam e bolsos com zíper. A modelagem descrita pela loja deixa cintura e quadril mais soltos; no M, a largura da barra é de 17,5 cm. Para usar cinto, a Director é a opção com passantes.",
+          "A Insider promete que o FutureForm desamassa no corpo e dispensa o ferro, com rápida evaporação de suor. Para água, a proteção anunciada é contra respingos e garoas. A página publica nota 5,0 em 371 avaliações, e um comentário fala em caimento \"incrível\" e que ela não amassa. A [camisa FutureForm masculina](/reviews/camisa-social-insider-masculina) usa o mesmo tecido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-preta.webp",
+            "alt": "Homem de corpo inteiro com a calça FutureForm preta e camisa polo vinho, com a perna fechando no tornozelo",
+            "caption": "A FutureForm na cor preta. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-masculina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/calca-insider-masculina-qual-escolher-futureform-azul.webp",
+            "alt": "Homem de corpo inteiro com a calça FutureForm azul e camiseta escura",
+            "caption": "A FutureForm na cor Ocean Blue. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-masculina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          }
+        ]
+      },
+      {
+        "heading": "Calça Director: corte reto e passantes para cinto",
+        "paragraphs": [
+          "Para usar com cinto e roupa social no trabalho, a Director é a opção desta comparação. Ela tem corte reto, cintura média, bolsos faca, bolsos traseiros embutidos e cordão interno para ajuste.",
+          "A Insider classifica a peça como delicada e pede lavagem no saquinho enviado com ela. Também anuncia toque macio, resistência a pelos e tecido que desamassa no corpo. A página publica nota 5,0 em 58 avaliações."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/calca-insider-masculina-qual-escolher-director-bege.webp",
+            "alt": "Recorte da calça Director bege com camiseta preta, de pernas retas até o sapato",
+            "caption": "A Director em bege. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-director-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/calca-insider-masculina-qual-escolher-director-preta.webp",
+            "alt": "Homem de corpo inteiro com a calça Director preta e camiseta verde, segurando uma jaqueta bege",
+            "caption": "A Director preta. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-director-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          }
+        ]
+      },
+      {
+        "heading": "Calça Hybrid Jogger: barra fechada para quem prefere esse corte",
+        "paragraphs": [
+          "A Hybrid é para quem prefere a barra fechada de uma jogger. A Insider a indica para trabalho remoto, passeios e viagens. O tecido é o HYFIBER, com promessa de dispensar o ferro, proteção UV 50+, ação antiodor e secagem rápida.",
+          "A página publica nota 4,9 em 408 avaliações. Ela sai só na cor Washed Black, e o P é o menor tamanho à venda: o Guia de medidas também lista um PP, que a página não vende."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger.webp",
+            "alt": "Homem de corpo inteiro com a calça Hybrid Jogger preta, camiseta verde e tênis branco",
+            "caption": "A Hybrid Jogger. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/hybrid-jogger?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/calca-insider-masculina-qual-escolher-jogger-perna.webp",
+            "alt": "Recorte da calça Hybrid Jogger preta, com a barra fechada sobre o tênis branco",
+            "caption": "A barra fechada da jogger. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/hybrid-jogger?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          }
+        ]
+      },
+      {
+        "heading": "Como escolher o tamanho",
+        "paragraphs": [
+          "A Insider mede a peça deitada. Meça uma calça sua nos mesmos lugares: a cintura de uma lateral à outra, com o cós reto; o quadril, na parte mais larga; e o entrepernas, do encontro dos ganchos até a barra.",
+          "No mesmo tamanho, a Director tem a menor largura no quadril e a FutureForm, o maior entrepernas. Compare com uma calça sua antes de escolher; dobrar a largura da cintura ou do quadril estima o contorno da peça, não a medida do corpo."
+        ],
+        "comparisonTable": {
+          "caption": "Largura da cintura / largura do quadril / entrepernas, em cm, pelo Guia de medidas da Insider.",
+          "headers": [
+            "Tamanho",
+            "FutureForm",
+            "Director",
+            "Hybrid Jogger"
+          ],
+          "rows": [
+            [
+              "PP",
+              "34,5 / 51 / 79",
+              "37 / 48 / 76",
+              "Não vendido"
+            ],
+            [
+              "P",
+              "36,5 / 53 / 79",
+              "39 / 50 / 76",
+              "42 / 55 / 74,5"
+            ],
+            [
+              "M",
+              "38,5 / 55 / 79",
+              "41 / 52 / 76",
+              "43 / 57 / 75"
+            ],
+            [
+              "G",
+              "40,5 / 57 / 79",
+              "43 / 54 / 76",
+              "45 / 59 / 75,5"
+            ],
+            [
+              "GG",
+              "42,5 / 59 / 79",
+              "45 / 56 / 76",
+              "47 / 61 / 76"
+            ],
+            [
+              "XGG",
+              "45,5 / 62 / 80",
+              "48 / 59 / 77",
+              "49,5 / 63 / 76"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se errar, a página promete troca gratuita e 21 dias para devolução, com a peça sem uso, com etiqueta e sem lavagem. Prove antes de lavar. As outras linhas da marca estão na [tabela de medidas Insider](/reviews/tabela-de-medidas-insider)."
+        ]
+      },
+      {
+        "heading": "Lavagem",
+        "paragraphs": [
+          "Na Director, use o saquinho enviado com a peça, como a loja pede. Em todas as calças, siga também a etiqueta de lavagem."
+        ]
+      },
+      {
+        "heading": "O preço com o cupom",
+        "paragraphs": [
+          "Testamos o EMCASACOMCECILIA com uma peça de cada, e os 15% entraram nas três; os valores estão no quadro. A página da Hybrid informa que a promoção \"não acumula com cupons\". Como o desconto entrou no teste, confira a aplicação no seu carrinho antes de pagar.",
+          "Vale um cupom por pedido; ele não se aplica à loja física. A loja declara exceção para lançamentos, mas peças marcadas como lançamento no catálogo da loja também aceitaram o código nos nossos testes. Confira o desconto de cada peça no carrinho; as demais regras estão no [cupom Insider](/cupons/insider)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Para roupa social com cinto: a Director, de corte reto, se você aceita a lavagem no saquinho indicada pela loja.",
+          "Para pernas afuniladas e bolso que fecha: a FutureForm, com dois zíperes laterais.",
+          "Para quem prefere barra fechada: a Hybrid Jogger, que a loja indica para trabalho remoto, passeios e viagens."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a FutureForm para o dia a dia, porque os dois bolsos com zíper são o detalhe que eu priorizaria.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A calça FutureForm é boa? A FutureForm é uma opção para quem quer pernas afuniladas e bolsos com zíper. Compare as medidas com uma calça sua; o capítulo do modelo reúne a descrição e os comentários da loja.",
+          "Dá para usar no trabalho? A loja indica a FutureForm para o trabalho e apresenta a Director como calça social. Para roupa social com cinto, a Director é a única com passantes.",
+          "Qual a diferença da Director para a FutureForm? A Director é reta, de cintura média, com passantes para cinto. A FutureForm é tapered, de cintura alta, com bolsos de zíper. Os tecidos também são diferentes.",
+          "A calça desamassa mesmo? A Insider anuncia que os modelos desamassam no corpo ou dispensam o ferro, conforme a linha. Veja a promessa de cada tecido no capítulo do modelo.",
+          "Qual é o cupom Insider para as calças? O EMCASACOMCECILIA deu 15% OFF na FutureForm, na Director e na Hybrid no teste de carrinho. Confira o desconto no seu pedido; o capítulo de preço explica o aviso da Hybrid."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você usa cinto e quer o corte reto da Director.",
+        "Você prefere pernas afuniladas e bolsos com zíper, como os da FutureForm.",
+        "Você quer uma jogger com barra fechada, como a Hybrid."
+      ],
+      "skipIf": [
+        "Você não quer lavar a Director no saquinho indicado pela loja.",
+        "Você procura outra cor para a Hybrid, que aparece apenas em Washed Black."
+      ]
+    },
+    "cta": {
+      "text": "Se você ficou com a FutureForm, veja o modelo masculino pelo link da parceria com o cupom EMCASACOMCECILIA, de 15% OFF. Para a Director ou a Hybrid, use os links do quadro. Confira o desconto antes de pagar.",
+      "label": "Ver a FutureForm masculina com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-masculina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "relatedArticles": [
+      {
+        "slug": "calca-insider-feminina-qual-escolher"
+      },
+      {
+        "slug": "camisa-social-insider-masculina"
+      },
+      {
+        "slug": "undershirt-insider-qual-escolher-funciona"
+      },
+      {
+        "slug": "tabela-de-medidas-insider"
+      }
+    ]
   }
 ];
