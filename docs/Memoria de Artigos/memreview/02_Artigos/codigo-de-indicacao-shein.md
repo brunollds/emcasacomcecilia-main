@@ -138,8 +138,7 @@ Android e o iPhone têm o mesmo caminho; usar o aparelho que ele tem e dizer qua
 ## 6. Matriz de Claims & Afirmações Planejadas
 
 Fontes oficiais lidas em 12/10/2026 (consulta em `m.shein.com`, que abre sem bloqueio; o texto vem do JSON da página).
-**Nenhum link para `br.shein.com`/`shein.com` entra no artigo** (escolha editorial desta família: nenhum teste barra o `br.shein.com` nos artigos, mas o PT segue
-o mesmo desenho): as fontes ficam só aqui.
+As fontes oficiais ficam listadas só aqui; o artigo não precisa linkar a SHEIN além do `cta`, e um link para `br.shein.com`/`shein.com` é livre em qualquer idioma quando ajudar o leitor.
 
 - **F1:** `m.shein.com/br/campus--a-1500.html`, "Afiliado SHEIN", PT, publicada e atualizada em 29/08/2024 14:18.
 - **F2:** `m.shein.com/br/ark/6424`, "Perguntas Frequentes" do Programa de Afiliados da SHEIN, sem data. É o mesmo artigo
@@ -315,7 +314,7 @@ nem o passo a passo com telas. A SHEIN é global: nenhum texto avisa que o códi
   Job 4. "Guia & Cupons" (precedente do CECILIA010) fica descartado: o rótulo contradiria a tese do guia.
 - **`hideFromPortugueseListings: true`** nas 9 traduções; `isNew: true` só no PT.
 - **Link do `cta`:** PT, o `offerUrl` do cupom `shein` (copiar do arquivo, conferir igual byte a byte, nunca abrir); as 9
-  traduções, o link neutro de `COUPON_TRANSLATIONS.shein`. `sponsored: true`. Nenhum link `br.shein.com` fora do PT.
+  traduções, o link neutro de `COUPON_TRANSLATIONS.shein`. `sponsored: true`.
 - **`editorialNote` PT (proposta):** "Regras das páginas oficiais da SHEIN. Podemos receber comissão pelas compras." (≤3 linhas).
 
 ---
