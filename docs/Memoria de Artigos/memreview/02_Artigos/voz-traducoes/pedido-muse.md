@@ -37,7 +37,7 @@ Leia o PT inteiro primeiro (`contentSections` e a resposta rápida). Depois, cad
 - **WordPress:** o site não usa WordPress; `wordpress-na-hostinger` não leva "Se fosse para o meu site, eu levaria…" (sai do PT pelo #476). Em nenhuma família a frase de veredito afirma um uso que não houve.
 - **Beleza (YesStyle):** sem efeito no corpo e sem "eu levaria/usaria".
 - **CECILIA010 é Reward Code**, nunca cupom, em idioma nenhum (nada de "coupon", "cupón", "Gutschein", "クーポン", "쿠폰", "优惠券"… para ele), e nunca "com outros cupons". Os cupons da própria YesStyle são cupons.
-- **4CW5Y** é código de indicação da SHEIN Brasil, que se pesquisa no aplicativo; fora do PT, o texto avisa que é da SHEIN Brasil. Nenhuma tradução leva link da SHEIN Brasil (`br.shein.com` ou os links de oferta do PT).
+- **4CW5Y** é código de indicação da SHEIN, sem país, nunca cupom de checkout, e dá desconto, sim: pelo link do botão, ou pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos (quanto e em quais peças, a SHEIN decide; sem percentual nem valor; 07/11/2026, #716 a #720). Nenhuma tradução leva os links de oferta do PT.
 - **Concorrentes** (Shopee, Temu, Stylevana, Olive Young, StyleKorean, HostGator, Mailchimp, Brevo): sem link, cupom ou foto.
 - **Nada de fato novo.** O conserto usa só o que o PT e a própria tradução já dizem.
 - **Quadro e cartão** sem preço, sem moeda, sem estoque e sem promoção com prazo.

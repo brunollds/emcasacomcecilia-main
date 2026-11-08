@@ -48,13 +48,13 @@ type DiscountParts =
 
 // "12% OFF" vira número grande. A faixa do Magalu só é resumida ("até R$ 100") nos cards:
 // no H1 o texto do desconto fica exatamente como está nos dados.
-export function parseDiscount(discount: string, compact: boolean): DiscountParts {
+export function parseDiscount(discount: string, compact: boolean, upTo = 'até'): DiscountParts {
   const percent = discount.match(/^(Até )?(\d+)% OFF$/i);
   if (percent) {
-    return { kind: 'amount', value: percent[2], unit: '%', ...(percent[1] ? { prefix: 'até' } : {}) };
+    return { kind: 'amount', value: percent[2], unit: '%', ...(percent[1] ? { prefix: upTo } : {}) };
   }
   const range = compact ? discount.match(/^R\$ ?\d+ a R\$ ?(\d+) OFF$/) : null;
-  if (range) return { kind: 'amount', value: range[1], prefix: 'até', currency: 'R$' };
+  if (range) return { kind: 'amount', value: range[1], prefix: upTo, currency: 'R$' };
   return { kind: 'words', text: discount };
 }
 
@@ -167,14 +167,27 @@ export function AmountFigure({ size, value, unit, prefix, currency, suffix = 'OF
   );
 }
 
-export function DiscountFigure({ discount, size }: { discount: string; size: FigureSize }) {
-  const parts = parseDiscount(discount, size !== 'hero');
+// `upTo` é a palavra de cima do número ("até" no PT). `forceUpTo` põe a palavra num percentual sem "Até" no
+// texto: o hub dos idiomas guarda o desconto sem português e pede a palavra do idioma.
+export function DiscountFigure({
+  discount,
+  size,
+  upTo = 'até',
+  forceUpTo = false,
+}: {
+  discount: string;
+  size: FigureSize;
+  upTo?: string;
+  forceUpTo?: boolean;
+}) {
+  const parts = parseDiscount(discount, size !== 'hero', upTo);
 
   if (parts.kind === 'words') {
     return <span className={`block font-condensada font-black font-stretch-extra-condensed ${FIGURE_SIZES[size].words}`}>{parts.text}</span>;
   }
 
-  return <AmountFigure size={size} value={parts.value} unit={parts.unit} prefix={parts.prefix} currency={parts.currency} />;
+  const prefix = parts.prefix ?? (forceUpTo && parts.unit ? upTo : undefined);
+  return <AmountFigure size={size} value={parts.value} unit={parts.unit} prefix={prefix} currency={parts.currency} />;
 }
 
 // "right-inset" deixa o logo perto da borda direita sem cortar quando a caixa vaza o card.
@@ -225,6 +238,21 @@ export function SectionHeading({ id, children }: { id?: string; children: React.
     >
       {children}
     </h2>
+  );
+}
+
+// Título das prateleiras do hub (/cupons e /<locale>/coupons), com o traço que corre até a borda.
+export function ShelfHeading({ id, children }: { id: string; children: React.ReactNode }) {
+  return (
+    <div className="flex items-center gap-2.5">
+      <h2
+        id={id}
+        className="font-condensada text-[28px] font-black leading-7 font-stretch-extra-condensed md:text-[32px] md:leading-8"
+      >
+        {children}
+      </h2>
+      <span aria-hidden="true" className="h-0.5 flex-1 bg-marinho" />
+    </div>
   );
 }
 

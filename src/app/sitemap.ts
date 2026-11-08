@@ -3,7 +3,8 @@ import homeEventsConfig from '@/../content/home-events.json';
 import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
-import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
+import { getCouponHubEntries, getCouponHubLastVerified, getCouponHubPath } from '@/lib/couponHub';
+import { TRANSLATED_LOCALES, getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
 import { getEventHubPage, getEventHubPaths } from '@/lib/homeEvents';
 import { LOCALE_HOME_LOCALES, getLocaleHomePath } from '@/lib/localeHome';
@@ -103,6 +104,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: getCouponBySlug(slug)?.lastVerified,
   }));
 
+  // O hub de cada idioma (/<locale>/coupons), com as lojas traduzidas e a YesStyle.
+  const couponHubRoutes: MetadataRoute.Sitemap = TRANSLATED_LOCALES.map((locale) => ({
+    url: `${BASE_URL}${getCouponHubPath(locale)}`,
+    priority: 0.75,
+    changeFrequency: 'weekly' as const,
+    lastModified: getCouponHubLastVerified(getCouponHubEntries(locale)),
+  }));
+
   const videoRoutes: MetadataRoute.Sitemap = videoPages.map((video) => ({
     url: video.canonicalUrl,
     priority: 0.7,
@@ -166,6 +175,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...videoRoutes,
     ...couponRoutes,
     ...translatedCouponRoutes,
+    ...couponHubRoutes,
     ...internationalYesStyleHubs,
     ...internationalReviewHubs,
   ];

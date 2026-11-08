@@ -12,7 +12,7 @@ revisao_geral_ate: "2027-01-07"
 
 | Dado | Fonte canônica | Regra |
 |---|---|---|
-| Código de indicação `4CW5Y` | `referral` do cupom `shein` em `src/lib/couponsData.ts` | é código de indicação da SHEIN, pesquisado no aplicativo, sem desconto, sem ser cupom e sem somar; não tratar como percentual fixo de desconto nem extrapolar benefício |
+| Código de indicação `4CW5Y` | `referral` do cupom `shein` em `src/lib/couponsData.ts` | é código de indicação da SHEIN, sem ser cupom de checkout e sem somar; dá desconto, sim (atualizado em 07/11/2026, #716 a #720): pelo link do botão, ou copiando o código e pesquisando no app ou no site, abre uma página com seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN; nunca citar percentual nem valor, nem prometer desconto em toda compra, nem "só no app" |
 | Link comercial em português | `offerUrl` do mesmo cupom | link brasileiro ligado ao código; é o CTA das versões em português |
 | Link comercial fora do português | `offerUrl` de `COUPON_TRANSLATIONS.shein` em `src/lib/couponTranslations.ts` | link neutro, sem `br.`; é o CTA das 9 traduções |
 | Campanhas | `campaigns` do mesmo cupom | têm prazo e mudam; ficam fora do texto dos artigos, que mandam para a página da loja |

@@ -11,6 +11,12 @@ import {
   type TranslatedLocale,
 } from '../src/lib/couponTranslations';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
+import { getCouponStorePath, getTranslatedCouponSlugs } from '../src/lib/couponTranslations';
+import { getCouponCardLabels, getCouponHubAlternates, getCouponHubEntries, getCouponHubItemName } from '../src/lib/couponHub';
+import { COUPON_HUB_COPY } from '../src/components/coupons/couponHubCopy';
+import { getYesStylePage } from '../src/components/coupons/yesstyleCopy';
+import { getYesStyleLocaleConfig } from '../src/lib/i18n/clusters/yesstyle';
+import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Cada texto de um objeto, com o caminho até ele.
 const leaves = (value: unknown, path = ''): [string, string][] => {
@@ -221,6 +227,57 @@ assert.throws(
   /a tradução é de affiliate-link/
 );
 
+// Hub de cada idioma: YesStyle em destaque, depois as lojas traduzidas ativas, cada uma no seu endereço.
+const activeTranslated = getTranslatedCouponSlugs();
+assert.deepEqual(activeTranslated, translatedSlugs, 'getTranslatedCouponSlugs deve listar as lojas traduzidas ativas');
+
+for (const locale of TRANSLATED_LOCALES) {
+  const entries = getCouponHubEntries(locale);
+  assert.equal(entries[0].coupon.slug, 'yesstyle', `${locale}: a YesStyle abre o hub`);
+  assert.equal(entries[0].href, getYesStyleLocaleConfig(locale).hubPath, `${locale}: YesStyle leva à página do idioma`);
+  assert.deepEqual(
+    entries.slice(1).map((entry) => entry.coupon.slug),
+    activeTranslated,
+    `${locale}: as lojas traduzidas entram na ordem de COUPON_TRANSLATIONS`
+  );
+  assert.deepEqual(
+    entries.slice(1).map((entry) => entry.href),
+    activeTranslated.map((slug) => getCouponStorePath(slug, locale)),
+    `${locale}: cada cartão leva à página da loja no idioma`
+  );
+
+  // O código da YesStyle é de recompensa: nunca é cupom no nome, no rótulo do tipo nem no texto curto.
+  const yesstyle = entries[0].coupon;
+  assert.ok(yesstyle.offerMode === 'discount-code');
+  assert.equal(yesstyle.code, getPrimaryRewardCode().code, `${locale}: código da YesStyle diferente da fonte`);
+  // O número é um teto (5% na 1ª compra, 2% nas seguintes): o texto do desconto não traz a palavra em PT, e o
+  // cartão escreve a do idioma acima do número.
+  assert.equal(yesstyle.discount, `${getPrimaryRewardCode().newCustomerDiscount}% OFF`);
+  assert.equal(entries[0].upTo, true, `${locale}: o número da YesStyle no hub tem de levar o "até" do idioma`);
+  assert.ok(entries.slice(1).every((entry) => !entry.upTo), `${locale}: só a YesStyle leva "até" no número`);
+  const upToLabel = getCouponCardLabels(locale).upTo;
+  assert.equal(upToLabel, COUPON_HUB_COPY[locale].upTo);
+  assert.ok(upToLabel.trim() && !/^até$/i.test(upToLabel), `${locale}: "até" do hub vazio ou em português`);
+  assert.ok(!/(^|[^\p{L}])até([^\p{L}]|$)/iu.test(getCouponHubItemName(entries[0], locale)), `${locale}: nome do item da YesStyle com "até" em português`);
+  assert.ok(getCouponHubItemName(entries[0], locale).includes(upToLabel), `${locale}: nome do item da YesStyle sem o "até" do idioma`);
+  assert.equal(yesstyle.offerTypeLabel, getYesStylePage(locale)?.rewardCodeLabel);
+  assert.ok(!/coupon|cupom|cupón|bon|gutschein|buono|쿠폰|クーポン|優惠碼|优惠码/i.test(`${yesstyle.offerTypeLabel} ${yesstyle.shortDescription}`), `${locale}: texto curto da YesStyle chama o código de cupom`);
+  assert.equal(yesstyle.featuredPitch, undefined, 'featuredPitch é só do PT');
+
+  // Texto de fora do PT não pode ter "Brasil" nem o nome do Brasil em português.
+  const hubText = JSON.stringify(COUPON_HUB_COPY[locale]);
+  assert.ok(!/Brasil|brasileir/i.test(hubText), `${locale}: textos do hub citam o Brasil`);
+
+  const alternates = getCouponHubAlternates(locale);
+  assert.equal(alternates.canonical, `/${locale}/coupons`, `${locale}: canonical do hub`);
+  assert.equal(Object.keys(alternates.languages).length, LOCALE_KEYS.length + 1, `${locale}: hreflang dos 10 idiomas mais x-default`);
+  assert.equal(alternates.languages['x-default'], 'https://emcasacomcecilia.com/en/coupons');
+  assert.equal(alternates.languages['pt-BR'], 'https://emcasacomcecilia.com/cupons');
+}
+
+assert.equal(getCouponHubAlternates('pt').canonical, '/cupons', 'PT: canonical continua /cupons');
+assert.equal(getCouponHubAlternates('pt').languages['x-default'], 'https://emcasacomcecilia.com/en/coupons');
+
 console.log(
-  `✅ coupon translations: ${translatedSlugs.join(', ')} em ${TRANSLATED_LOCALES.length} idiomas além do PT; códigos, datas e campanhas iguais ao PT; loja de código fictícia sem texto em PT.`
+  `✅ coupon translations: ${translatedSlugs.join(', ')} em ${TRANSLATED_LOCALES.length} idiomas além do PT; códigos, datas e campanhas iguais ao PT; loja de código fictícia sem texto em PT; hub de cada idioma com YesStyle e lojas traduzidas, cartões e hreflang conferidos.`
 );

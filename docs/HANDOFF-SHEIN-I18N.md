@@ -10,9 +10,13 @@
 >
 > O que vale hoje para quem escreve um artigo da SHEIN:
 >
-> - **Código:** `4CW5Y` é código de indicação da SHEIN Brasil, pesquisado no aplicativo da
->   SHEIN. Fora do português, o artigo mostra `4CW5Y` com o aviso de que o código e as
->   campanhas são da SHEIN Brasil.
+> - **Código** (decisão do Bruno, 07/11/2026, #716 a #720): `4CW5Y` é código de indicação da
+>   SHEIN, não é cupom de checkout, não soma e nunca vai ao checkout. Pelo link do botão, ou
+>   copiado e pesquisado no app ou no site da SHEIN, abre uma seleção com promoções e
+>   descontos. Dá desconto, sim; quanto e em quais peças, quem decide é a SHEIN. Sem
+>   percentual nem valor, sem prometer desconto em toda compra. A SHEIN é plataforma global:
+>   nenhum texto, em português ou fora dele, diz "SHEIN Brasil" (regra de 02/11, #493), e o
+>   artigo mostra `4CW5Y` sem aviso de país.
 > - **CTA do artigo:** em português, o link brasileiro do código (`offerUrl` do cupom `shein`
 >   em `couponsData.ts`). Nos outros 9 idiomas, exatamente o link neutro
 >   `https://onelink.shein.com/55/6463grgxf6ru` (`COUPON_TRANSLATIONS.shein.offerUrl` em
@@ -23,8 +27,9 @@
 >   idiomas, derivada do `locale` do JSON. Não há `page.tsx`, hreflang nem entrada em
 >   `src/lib/i18n/clusters/` para a tradução aparecer. A recomendação deste documento de manter
 >   `/reviews/<slug-no-idioma>` nas traduções caiu.
-> - **Hauls traduzidos:** preço em reais, tamanhos e disponibilidade são fatos da SHEIN
->   Brasil. A tradução diz isso de forma explícita e não converte moeda nem tamanho.
+> - **Hauls traduzidos:** preço em reais, tamanhos e disponibilidade são os da loja
+>   brasileira da SHEIN. A tradução diz isso de forma explícita e não converte moeda nem
+>   tamanho.
 > - **Links de produto por peça num haul:** decisão do Bruno em 07/10/2026. Nas 9 traduções,
 >   o haul leva o link de cada peça, o mesmo deep link convertido do haul em português,
 >   copiado do arquivo. Nunca editar o link, nunca abrir nem clicar (o clique registra
@@ -205,8 +210,8 @@ históricas; não é um modelo a replicar.
 > | Camada | Hoje |
 > |---|---|
 > | `/cupons/shein` e a explicação de link de afiliada × código de indicação × código de campanha | nos 10 idiomas desde 05/10/2026 |
-> | Guia e tabela de medidas | nos 10 idiomas; medidas e numeração são as da SHEIN Brasil, ditas como tais, sem converter |
-> | Haul de peças recebidas | família de 10 versões, com as mesmas peças e fotos do PT; preço em reais, tamanho comprado e disponibilidade são da SHEIN Brasil, ditos como tais, sem converter moeda nem tamanho |
+> | Guia e tabela de medidas | nos 10 idiomas; medidas e numeração são as da SHEIN (loja brasileira, em reais), ditas como tais, sem converter |
+> | Haul de peças recebidas | família de 10 versões, com as mesmas peças e fotos do PT; preço em reais, tamanho comprado e disponibilidade são da SHEIN (loja brasileira), ditos como tais, sem converter moeda nem tamanho |
 >
 > O risco que a versão de 10/08 apontava (um artigo brasileiro em alemão) não some: ele é
 > tratado dizendo de qual mercado cada fato é, não deixando o haul de fora.
@@ -305,7 +310,7 @@ do link principal e de duas campanhas vigentes.
 | Dado | Valor | Estado |
 |---|---|---|
 | ID de afiliado | `6177013015` | confirmado pelo Bruno |
-| Código de indicação | `4CW5Y` | confirmado; não extrapolar regras comerciais não informadas |
+| Código de indicação | `4CW5Y` | confirmado; dá desconto, sim (atualizado em 07/11/2026, #716 a #720), sem percentual nem valor: quanto e em quais peças, quem decide é a SHEIN; não extrapolar regras comerciais não informadas |
 | Link principal referente ao código | `https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20` | usar em `offerUrl`; reconferir como qualquer dado comercial |
 | Campanha — produtos selecionados | busca `37S3442`; `https://onelink.shein.com/47/5yl4fyr203o0` | aumento de comissão; descontos por tempo limitado |
 | Campanha — 50% novos usuários | busca `G326U6B`; `https://onelink.shein.com/47/5yl4h46pd93c` | somente novos usuários |
@@ -382,9 +387,11 @@ traduções é o neutro.
 
 **Correção de premissa, 05/10/2026:** além do link do código, o painel da SHEIN gera um link
 sem `br.`. O Bruno gerou o da tabela em 05/10/2026; como o outro, é dado comercial que se
-reconfere. Ele não substitui o do PT, que continua ligado ao código `4CW5Y`. O código de
-indicação e as duas campanhas seguem sendo da SHEIN Brasil, e cada idioma avisa isso em
-`longDescription` e `linkNote`. Também não conferir esse link clicando.
+reconfere. Ele não substitui o do PT, que continua ligado ao código `4CW5Y`. A SHEIN é
+plataforma global (regra de 02/11, #493): o código de indicação e as duas campanhas valem em
+todo idioma, sem aviso de país em `longDescription` nem em `linkNote`. O `4CW5Y` dá
+desconto, sim, pela seleção de promoções que o link abre (07/11/2026, #716 a #720). Também
+não conferir esse link clicando.
 
 ### Quebra de linha em coreano, japonês e chinês
 
@@ -397,7 +404,7 @@ para 48px em japonês e chinês (`CouponBlocks.tsx`). O `zh-hant` usa `og:locale
 
 | Teste | O que pega | Quando roda |
 |---|---|---|
-| `npm run test:coupon-translations` | texto em PT sobrando; código, data ou campanha diferente do PT; FAQ do PT com mais ou menos perguntas que a tradução; link neutro trocado; aviso da SHEIN Brasil faltando; 50% na busca | antes do `next build` |
+| `npm run test:coupon-translations` | texto em PT sobrando; código, data ou campanha diferente do PT; FAQ do PT com mais ou menos perguntas que a tradução; link neutro trocado; em cada idioma fora do PT, a SHEIN com o nome do país (Brazil, Brasil, Brésil, Brasilien, Brasile, 브라질, ブラジル, 巴西站) em qualquer campo; `br.shein.com` no texto; 50% no título ou na descrição de busca | antes do `next build` |
 | `npm run test:shell-navigation` | link SHEIN do menu diferente de `getCouponStorePath` | antes do `next build` |
 | `npm run test:html-lang` | `<html lang>` das 10 páginas | depois do `next build` |
 | `npm run test:build-output` | regras de CJK no CSS final; URL do sitemap.xml ou do llms.txt sem página; canonical, hreflang, `og:locale`, `inLanguage` e link principal das 10 páginas | depois do `next build` |
