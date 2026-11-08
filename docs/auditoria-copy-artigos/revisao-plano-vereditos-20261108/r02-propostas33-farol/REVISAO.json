@@ -1,0 +1,1162 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "papel": "Revisor externo das propostas de Claude Opus 5.5",
+    "modelo": "Codex baseado em GPT-6; variante não exposta",
+    "data": "2026-11-08T16:44:24-03:00"
+  },
+  "base": "bedfe00901f71d501042cca56e509fea68fefb3a",
+  "origin_main_local_conferida": "48299bb1f6e892a0b452fe8eab27bf6e0110dd13",
+  "campos_dos_33_iguais_entre_bases": true,
+  "entrada": "C:\\Users\\Bruno\\Downloads\\Emcasacomcecilia\\emcasacomcecilia\\.claude\\worktrees\\objective-lehmann-721320\\docs\\auditoria-copy-artigos\\revisao-plano-vereditos-20261108\\PROPOSTAS-33.md",
+  "entrada_sha256": "d92db1f7937fe002c74f4a845d57b95e83265971d63f065b9f48f26c10e0bf70",
+  "contagens": {
+    "manter": 2,
+    "aceita": 19,
+    "ajustada": 12
+  },
+  "confirmacao_bruno": {
+    "texto": "Neo e a Touch, recebido",
+    "interpretacao": "Uso atual de NEO e Touch; sofá DAMIE recebido. Não inferir pagamento ou gratuidade de opcionais, nem presente de máquinas."
+  },
+  "casos": [
+    {
+      "caso": 1,
+      "slug": "body-clea-store-second-skin-qual-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/6/emphasis",
+      "base_sha256": "9b23b05819b50d8e41992d5dad2fb7b7476c3a8e46155ab0fed52389b5524998",
+      "antes": "Se fosse para a minha casa, eu levaria o Regata Cavado, porque é o mais barato e resolve o dia a dia.",
+      "proposta_claude": "Como os seis usam o mesmo tecido, o preço pesa mais: para o dia a dia, eu começaria pelo Regata Cavado, o mais barato da tabela, se as cavas profundas forem o seu corte.",
+      "texto_final_revisor": "Como os seis usam o mesmo tecido, o preço pesa mais: para o dia a dia, eu começaria pelo Regata Cavado, o mais barato da tabela, se as cavas profundas forem o seu corte.",
+      "parecer": "A composição comum, o preço entre os comparados e o limite das cavas sustentam a proposta.",
+      "operacoes": [
+        {
+          "slug": "body-clea-store-second-skin-qual-escolher",
+          "op": "replace",
+          "path": "/contentSections/6/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria o Regata Cavado, porque é o mais barato e resolve o dia a dia.",
+          "after": "Como os seis usam o mesmo tecido, o preço pesa mais: para o dia a dia, eu começaria pelo Regata Cavado, o mais barato da tabela, se as cavas profundas forem o seu corte.",
+          "base_sha256": "9b23b05819b50d8e41992d5dad2fb7b7476c3a8e46155ab0fed52389b5524998"
+        }
+      ]
+    },
+    {
+      "caso": 2,
+      "slug": "calca-insider-feminina-qual-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/9/emphasis",
+      "base_sha256": "2329f953b4d0377fbca2aaa0ecc4d9c94ec1e84414d3fe15031c4917ad9d9b88",
+      "antes": "Se fosse para a minha casa, eu levaria a FutureForm para dias quentes, porque a Insider a indica para esse clima e o corte afunila na barra.",
+      "proposta_claude": "Eu decidiria pelo clima antes do corte: a Insider indica a FutureForm para dias quentes e a Wide Leg para dias amenos e frios.",
+      "texto_final_revisor": "Eu decidiria pelo clima antes do corte: a Insider indica a FutureForm para dias quentes e a Wide Leg para dias amenos e frios.",
+      "parecer": "Aceito a conclusão por clima. O guia não exige uma vencedora para todas as situações.",
+      "operacoes": [
+        {
+          "slug": "calca-insider-feminina-qual-escolher",
+          "op": "replace",
+          "path": "/contentSections/9/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a FutureForm para dias quentes, porque a Insider a indica para esse clima e o corte afunila na barra.",
+          "after": "Eu decidiria pelo clima antes do corte: a Insider indica a FutureForm para dias quentes e a Wide Leg para dias amenos e frios.",
+          "base_sha256": "2329f953b4d0377fbca2aaa0ecc4d9c94ec1e84414d3fe15031c4917ad9d9b88"
+        }
+      ]
+    },
+    {
+      "caso": 3,
+      "slug": "calca-insider-masculina-qual-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/8/emphasis",
+      "base_sha256": "dab44d825c83a2705f6c211dad281762a3ec53b7c57723f8c4e7d2710fe43dc8",
+      "antes": "Se fosse para a minha casa, eu levaria a FutureForm para o dia a dia, porque os dois bolsos com zíper são o detalhe que eu priorizaria.",
+      "proposta_claude": "Sem precisar de cinto, eu começaria pela FutureForm, porque os dois bolsos laterais fecham com zíper; para usar cinto, a escolha passa a ser a Director.",
+      "texto_final_revisor": "Sem precisar de cinto, eu começaria pela FutureForm, porque os dois bolsos laterais fecham com zíper; para usar cinto, a escolha passa a ser a Director.",
+      "parecer": "Cinto e zíper são diferenças verificáveis entre modelos; a preferência está delimitada.",
+      "operacoes": [
+        {
+          "slug": "calca-insider-masculina-qual-escolher",
+          "op": "replace",
+          "path": "/contentSections/8/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a FutureForm para o dia a dia, porque os dois bolsos com zíper são o detalhe que eu priorizaria.",
+          "after": "Sem precisar de cinto, eu começaria pela FutureForm, porque os dois bolsos laterais fecham com zíper; para usar cinto, a escolha passa a ser a Director.",
+          "base_sha256": "dab44d825c83a2705f6c211dad281762a3ec53b7c57723f8c4e7d2710fe43dc8"
+        }
+      ]
+    },
+    {
+      "caso": 4,
+      "slug": "camisa-social-insider-feminina",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/8/emphasis",
+      "base_sha256": "dac14d46724c14e1c857b899a433a598baeb2cee7d6f7b7a38aaec3ad7db9291",
+      "antes": "Se fosse para a minha casa, eu levaria a feminina para usar aberta sobre uma blusa, porque os 82,5 cm de altura no M fazem dela uma camada comprida.",
+      "proposta_claude": "Com 82,5 cm de altura no M, eu pensaria nela como camada comprida, aberta sobre uma blusa, mais do que como camisa de cintura marcada.",
+      "texto_final_revisor": "Com 82,5 cm de altura no M, eu pensaria nela como camada comprida, aberta sobre uma blusa, mais do que como camisa de cintura marcada.",
+      "parecer": "A leitura como camada comprida é uma sugestão de uso situada, sem prometer ajuste corporal.",
+      "operacoes": [
+        {
+          "slug": "camisa-social-insider-feminina",
+          "op": "replace",
+          "path": "/contentSections/8/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a feminina para usar aberta sobre uma blusa, porque os 82,5 cm de altura no M fazem dela uma camada comprida.",
+          "after": "Com 82,5 cm de altura no M, eu pensaria nela como camada comprida, aberta sobre uma blusa, mais do que como camisa de cintura marcada.",
+          "base_sha256": "dac14d46724c14e1c857b899a433a598baeb2cee7d6f7b7a38aaec3ad7db9291"
+        }
+      ]
+    },
+    {
+      "caso": 5,
+      "slug": "camisa-social-insider-masculina",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/8/emphasis",
+      "base_sha256": "41f328c0d8715ca205b90b8d00cef44f3d97da7991375ccc2d9422c7a1880432",
+      "antes": "Se fosse para a minha casa, eu levaria a masculina para o social casual, porque os 58 cm de largura no M já dão um caimento solto.",
+      "proposta_claude": "Com 58 cm de largura no M, o caimento já é solto: eu a deixaria para o social casual, com camiseta por baixo.",
+      "texto_final_revisor": "Pelo corte oversized e alongado descrito pela Insider, eu pensaria nela para o social casual, com camiseta por baixo. Compararia os 58 cm de largura no M com uma camisa minha antes de escolher o tamanho.",
+      "parecer": "A largura da peça não determina, sozinha, o caimento em qualquer corpo. A fonte já descreve oversized; apoiar a opinião nesse corte, sem transformar 58 cm em garantia de ajuste.",
+      "operacoes": [
+        {
+          "slug": "camisa-social-insider-masculina",
+          "op": "replace",
+          "path": "/contentSections/8/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a masculina para o social casual, porque os 58 cm de largura no M já dão um caimento solto.",
+          "after": "Pelo corte oversized e alongado descrito pela Insider, eu pensaria nela para o social casual, com camiseta por baixo. Compararia os 58 cm de largura no M com uma camisa minha antes de escolher o tamanho.",
+          "base_sha256": "41f328c0d8715ca205b90b8d00cef44f3d97da7991375ccc2d9422c7a1880432"
+        }
+      ]
+    },
+    {
+      "caso": 6,
+      "slug": "cueca-insider-comfort-ou-performance",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/6/emphasis",
+      "base_sha256": "98cdb55c484fd8745ae4053b47bd353d88df5cf65cf9e5562426fe4a6bc441d5",
+      "antes": "Se fosse para a minha casa, eu levaria a Comfort para o dia a dia, porque é a boxer de modal para uso diário.",
+      "proposta_claude": "Para a rotina, eu escolheria a Comfort, de modal; para treinar, a Performance, que leva poliamida por fora e a marca indica para esporte.",
+      "texto_final_revisor": "Para a rotina, eu escolheria a Comfort, de modal; para treinar, a Performance, que leva poliamida por fora e a marca indica para esporte.",
+      "parecer": "O contraste entre tecido e indicação de uso elimina a circularidade sem inventar conforto testado.",
+      "operacoes": [
+        {
+          "slug": "cueca-insider-comfort-ou-performance",
+          "op": "replace",
+          "path": "/contentSections/6/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a Comfort para o dia a dia, porque é a boxer de modal para uso diário.",
+          "after": "Para a rotina, eu escolheria a Comfort, de modal; para treinar, a Performance, que leva poliamida por fora e a marca indica para esporte.",
+          "base_sha256": "98cdb55c484fd8745ae4053b47bd353d88df5cf65cf9e5562426fe4a6bc441d5"
+        }
+      ]
+    },
+    {
+      "caso": 7,
+      "slug": "fita-up-onde-comprar-original",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/6/emphasis",
+      "base_sha256": "7eac1a3187803ea7755efc8f3d277a2529ca825b4d898544170060c28d92c96e",
+      "antes": "Se fosse para a minha casa, eu começaria pelo site oficial com MAUAD. Antes de fechar, compararia o total com frete e a previsão de entrega com a loja oficial no Mercado Livre e a Toda Up na Amazon.",
+      "proposta_claude": "Eu começaria pelo site oficial com MAUAD, que tem o menor preço do produto antes do frete, e só fecharia depois de comparar o total com a loja oficial no Mercado Livre e a Toda Up na Amazon.",
+      "texto_final_revisor": "Eu começaria pelo site oficial com MAUAD, que teve o menor preço do produto na comparação. Antes de fechar, compararia o total com frete e o prazo de entrega com as lojas oficiais no Mercado Livre e na Amazon.",
+      "parecer": "A indicação de menor preço é da comparação datada, não de todos os canais para sempre. Preservar também a previsão de entrega, que foi cortada da proposta e muda a escolha do canal.",
+      "operacoes": [
+        {
+          "slug": "fita-up-onde-comprar-original",
+          "op": "replace",
+          "path": "/contentSections/6/emphasis",
+          "before": "Se fosse para a minha casa, eu começaria pelo site oficial com MAUAD. Antes de fechar, compararia o total com frete e a previsão de entrega com a loja oficial no Mercado Livre e a Toda Up na Amazon.",
+          "after": "Eu começaria pelo site oficial com MAUAD, que teve o menor preço do produto na comparação. Antes de fechar, compararia o total com frete e o prazo de entrega com as lojas oficiais no Mercado Livre e na Amazon.",
+          "base_sha256": "7eac1a3187803ea7755efc8f3d277a2529ca825b4d898544170060c28d92c96e"
+        }
+      ]
+    },
+    {
+      "caso": 8,
+      "slug": "fita-up-ou-blumi-ou-lib",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/4/emphasis",
+      "base_sha256": "c5a3096613b3fb658de8a902951f545144c142334d3e6acc13d24d1f234b8588",
+      "antes": "Se fosse para a minha casa, eu levaria a Fita Up, mesmo saindo mais cara que a Lib: a largura vem pelo número do sutiã, e comprando no site a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote.",
+      "proposta_claude": "Eu pagaria a mais pela Fita Up, porque a largura vem pelo número do sutiã e, comprando no site, a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote.",
+      "texto_final_revisor": "Eu pagaria a mais pela Fita Up, porque a largura vem pelo número do sutiã e, comprando no site, a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote.",
+      "parecer": "Preserva os critérios já discutidos no artigo e retira a expressão deslocada.",
+      "operacoes": [
+        {
+          "slug": "fita-up-ou-blumi-ou-lib",
+          "op": "replace",
+          "path": "/contentSections/4/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a Fita Up, mesmo saindo mais cara que a Lib: a largura vem pelo número do sutiã, e comprando no site a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote.",
+          "after": "Eu pagaria a mais pela Fita Up, porque a largura vem pelo número do sutiã e, comprando no site, a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote.",
+          "base_sha256": "c5a3096613b3fb658de8a902951f545144c142334d3e6acc13d24d1f234b8588"
+        }
+      ]
+    },
+    {
+      "caso": 9,
+      "slug": "undershirt-insider-qual-escolher-funciona",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/7/emphasis",
+      "base_sha256": "cb12f0ab51e886c77077287d9b1935da5bb232e8bdc1c9b2f26bc00d118114fe",
+      "antes": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
+      "proposta_claude": "O nível de suor decide. Na dúvida entre a Leve e o Moderado, eu ficaria com o Moderado, que traz camada dupla nas axilas e sai em três cores.",
+      "texto_final_revisor": "Eu escolheria pelo nível de transpiração indicado para cada modelo. Se a prioridade fosse a camada dupla nas axilas e mais opções de cor, consideraria o Moderado.",
+      "parecer": "A proposta ainda resolve uma dúvida indefinida escolhendo o Moderado. A marca não define a fronteira entre níveis. O critério pode ser declarado sem criar um padrão de proteção ou escolher pelo consumidor com base em dúvida.",
+      "operacoes": [
+        {
+          "slug": "undershirt-insider-qual-escolher-funciona",
+          "op": "replace",
+          "path": "/contentSections/7/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
+          "after": "Eu escolheria pelo nível de transpiração indicado para cada modelo. Se a prioridade fosse a camada dupla nas axilas e mais opções de cor, consideraria o Moderado.",
+          "base_sha256": "cb12f0ab51e886c77077287d9b1935da5bb232e8bdc1c9b2f26bc00d118114fe"
+        }
+      ]
+    },
+    {
+      "caso": 10,
+      "slug": "tamanho-shein-brasil",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/8/emphasis",
+      "base_sha256": "a8d29a89531556149f40a04f4cde02c72794210de87cbe24430b18d1c55d13f3",
+      "antes": "Se fosse para a minha casa, eu não pediria letra sem abrir o guia da peça, porque a mesma letra muda de marca para marca.",
+      "proposta_claude": "Para escolher o tamanho na SHEIN, use as medidas do guia de cada peça, sem presumir que a letra que serviu em outra marca terá o mesmo ajuste.",
+      "texto_final_revisor": "Para escolher o tamanho na SHEIN, use as medidas do guia de cada peça, sem presumir que a letra que serviu em outra marca terá o mesmo ajuste.",
+      "parecer": "Aceito PT mais seis traduções. A conferência confirmou o problema nas seis; as outras três podem ficar. Versões exatas adicionais estão abaixo.",
+      "operacoes": [
+        {
+          "slug": "tamanho-shein-brasil",
+          "op": "replace",
+          "path": "/contentSections/8/emphasis",
+          "before": "Se fosse para a minha casa, eu não pediria letra sem abrir o guia da peça, porque a mesma letra muda de marca para marca.",
+          "after": "Para escolher o tamanho na SHEIN, use as medidas do guia de cada peça, sem presumir que a letra que serviu em outra marca terá o mesmo ajuste.",
+          "base_sha256": "a8d29a89531556149f40a04f4cde02c72794210de87cbe24430b18d1c55d13f3"
+        }
+      ]
+    },
+    {
+      "caso": 11,
+      "slug": "dolce-gusto-maquinas-qual-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/6/bullets/8",
+      "base_sha256": "daae07a0b1a2299186beb883b01e66718aada0f4d2e979c7307607e708556b03",
+      "antes": "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores. Se fosse para a minha casa, eu levaria a Genio S Plus, porque ela junta XL, 4 temperaturas e Espresso Boost por R$ 589,90.",
+      "proposta_claude": "tirar a frase do bullet, que fica só com \"Menor preço: Mini Me 2.0…\", e criar o `emphasis` do capítulo: Para alternar bebidas e volumes, eu escolheria a Genio S Plus, porque junta XL, 4 temperaturas e Espresso Boost e custa R$ 210 a menos que a Touch, que tem os mesmos recursos com tela de toque.",
+      "texto_final_revisor": "Para alternar bebidas e volumes, eu escolheria a Genio S Plus, porque junta XL, 4 temperaturas e Espresso Boost e custa R$ 210 a menos que a Touch, que tem os mesmos recursos com tela de toque.",
+      "parecer": "Aceito separar o veredito do bullet de menor preço. A comparação de recursos e a diferença de 210 conferem na tabela datada. Não é relato de uso da Plus.",
+      "operacoes": [
+        {
+          "slug": "dolce-gusto-maquinas-qual-escolher",
+          "op": "replace",
+          "path": "/contentSections/6/bullets/8",
+          "before": "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores. Se fosse para a minha casa, eu levaria a Genio S Plus, porque ela junta XL, 4 temperaturas e Espresso Boost por R$ 589,90.",
+          "after": "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores.",
+          "base_sha256": "daae07a0b1a2299186beb883b01e66718aada0f4d2e979c7307607e708556b03"
+        },
+        {
+          "slug": "dolce-gusto-maquinas-qual-escolher",
+          "op": "add",
+          "path": "/contentSections/6/emphasis",
+          "before": null,
+          "after": "Para alternar bebidas e volumes, eu escolheria a Genio S Plus, porque junta XL, 4 temperaturas e Espresso Boost e custa R$ 210 a menos que a Touch, que tem os mesmos recursos com tela de toque.",
+          "base_sha256": "daae07a0b1a2299186beb883b01e66718aada0f4d2e979c7307607e708556b03"
+        }
+      ]
+    },
+    {
+      "caso": 12,
+      "slug": "dolce-gusto-vs-nespresso-qual-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/10/emphasis",
+      "base_sha256": "822fe20539c4cd24470ae83172ffc77738c268902e4c4d4791d09175c6e7b844",
+      "antes": "Se fosse para a minha casa, eu levaria a Dolce Gusto, porque a cápsula oficial dela saiu mais em conta que a da Nespresso Original na amostra e ela faz cappuccino e chá na mesma máquina.",
+      "proposta_claude": "Aqui em casa ficamos com a Dolce Gusto, porque a cápsula oficial saiu mais em conta que a da Nespresso Original na amostra e ela faz cappuccino e chá na mesma máquina. A parceria com a marca também pesa, como contamos acima.",
+      "texto_final_revisor": "Aqui em casa usamos a Touch e a NEO. Para cappuccino e chá, eu escolheria o sistema Original da Touch, cujas cápsulas oficiais saíram mais baratas que as da Nespresso Original na amostra.",
+      "parecer": "Bruno confirmou NEO e Touch. Usar esses nomes, separar a experiência da comparação e não converter o preço da amostra em motivo histórico da aquisição. A parceria já declarada no corpo não precisa ser apresentada como uma motivação nova no cartão.",
+      "operacoes": [
+        {
+          "slug": "dolce-gusto-vs-nespresso-qual-escolher",
+          "op": "replace",
+          "path": "/contentSections/10/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a Dolce Gusto, porque a cápsula oficial dela saiu mais em conta que a da Nespresso Original na amostra e ela faz cappuccino e chá na mesma máquina.",
+          "after": "Aqui em casa usamos a Touch e a NEO. Para cappuccino e chá, eu escolheria o sistema Original da Touch, cujas cápsulas oficiais saíram mais baratas que as da Nespresso Original na amostra.",
+          "base_sha256": "822fe20539c4cd24470ae83172ffc77738c268902e4c4d4791d09175c6e7b844"
+        }
+      ]
+    },
+    {
+      "caso": 13,
+      "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/7/emphasis",
+      "base_sha256": "cd7123f3d02a9310f4501a1274494e3a7a66065a09feb89b49e6097ddc80cdd2",
+      "antes": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica: as cápsulas oficiais custaram menos que as oficiais da Nespresso Original na amostra, e a variedade de bebidas atende à nossa rotina.",
+      "proposta_claude": "A nossa escolha é a Dolce Gusto clássica: as cápsulas oficiais custaram menos que as oficiais da Nespresso Original na amostra, e a variedade de bebidas atende à nossa rotina. A parceria com a marca também pesa, como contamos acima.",
+      "texto_final_revisor": "Para alternar café, cappuccino e chá, eu escolheria o sistema Original. É o sistema da Touch que usamos em casa; a NEO também faz parte da rotina e usa cápsulas próprias.",
+      "parecer": "A confirmação resolve a dúvida: Touch e NEO coexistem. Explicitar Original versus NEO, sem dizer que a casa escolheu apenas a clássica nem atribuir à NEO a variedade de bebidas do Original.",
+      "operacoes": [
+        {
+          "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
+          "op": "replace",
+          "path": "/contentSections/7/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica: as cápsulas oficiais custaram menos que as oficiais da Nespresso Original na amostra, e a variedade de bebidas atende à nossa rotina.",
+          "after": "Para alternar café, cappuccino e chá, eu escolheria o sistema Original. É o sistema da Touch que usamos em casa; a NEO também faz parte da rotina e usa cápsulas próprias.",
+          "base_sha256": "cd7123f3d02a9310f4501a1274494e3a7a66065a09feb89b49e6097ddc80cdd2"
+        }
+      ]
+    },
+    {
+      "caso": 14,
+      "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/6/paragraphs/2",
+      "base_sha256": "a9304d098034a0b30af6d9ce957a5f41227025f3cef2e128e94c314468d300d4",
+      "antes": "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar. Se fosse para a minha casa com consumo moderado, eu levaria a Mini Me 2.0 avulsa para ter a liberdade de repor os cafés no meu próprio ritmo, sem imobilizar orçamento em um estoque grande de uma vez só.",
+      "proposta_claude": "Com consumo moderado, eu levaria a Mini Me 2.0 avulsa e reporia as cápsulas aos poucos, em vez de pagar de uma vez por 20 caixas ou mais.",
+      "texto_final_revisor": "Com consumo moderado, eu levaria a Mini Me 2.0 avulsa e reporia as cápsulas aos poucos, em vez de pagar de uma vez por 20 caixas ou mais.",
+      "parecer": "O mínimo de caixas é quantidade de compra, não número de estoque da loja. O risco de imobilizar dinheiro está no capítulo e continua claro.",
+      "operacoes": [
+        {
+          "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
+          "op": "replace",
+          "path": "/contentSections/6/paragraphs/2",
+          "before": "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar. Se fosse para a minha casa com consumo moderado, eu levaria a Mini Me 2.0 avulsa para ter a liberdade de repor os cafés no meu próprio ritmo, sem imobilizar orçamento em um estoque grande de uma vez só.",
+          "after": "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar. Com consumo moderado, eu levaria a Mini Me 2.0 avulsa e reporia as cápsulas aos poucos, em vez de pagar de uma vez por 20 caixas ou mais.",
+          "base_sha256": "a9304d098034a0b30af6d9ce957a5f41227025f3cef2e128e94c314468d300d4"
+        }
+      ]
+    },
+    {
+      "caso": 15,
+      "slug": "faqueiro-laguiole-la-maison-qual-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "manter",
+      "campo_original": "/contentSections/6/emphasis",
+      "base_sha256": "650f830987054e4e556e23f43ecd686587582429b91140a64f7964937ba97a1e",
+      "antes": "Se fosse para a minha casa, eu começaria pelo Branco de trinta peças: cobre os cinco tipos de talher para seis lugares e foi o mais barato entre as cores. Confirmaria o preço e o estoque antes de comprar.",
+      "proposta_claude": "Se fosse para a minha casa, eu começaria pelo Branco de trinta peças: cobre os cinco tipos de talher para seis lugares e foi o mais barato entre as cores. Confirmaria o preço e o estoque antes de comprar.",
+      "texto_final_revisor": "Se fosse para a minha casa, eu começaria pelo Branco de trinta peças: cobre os cinco tipos de talher para seis lugares e foi o mais barato entre as cores. Confirmaria o preço e o estoque antes de comprar.",
+      "parecer": "Manter: escolha por número de lugares e tipos de talher, com comparação de cor/preço. A confirmação final não transforma o cartão inteiro em aviso.",
+      "operacoes": []
+    },
+    {
+      "caso": 16,
+      "slug": "guardanapo-de-tecido-quantos-tamanho",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/4/emphasis",
+      "base_sha256": "3fc8226e050a4f46974ac3c4d2fcf67267e2e69e778e2c505d03c15536709616",
+      "antes": "Se fosse para a minha casa, eu levaria o Bordado Oliva, porque é o mais barato e o 45 x 45 cm serve no almoço e no jantar.",
+      "proposta_claude": "Para um jogo só, do almoço ao jantar, eu levaria o Bordado Oliva: é o mais barato dos quatro, e o 45 x 45 cm cobre mais o colo.",
+      "texto_final_revisor": "Para um jogo só, do almoço ao jantar, eu levaria o Bordado Oliva: é o mais barato dos quatro, e o 45 x 45 cm cobre mais o colo.",
+      "parecer": "O contraste 45 × 45 contra 40 × 40 e o preço sustentam o uso de um jogo nas refeições tratadas.",
+      "operacoes": [
+        {
+          "slug": "guardanapo-de-tecido-quantos-tamanho",
+          "op": "replace",
+          "path": "/contentSections/4/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria o Bordado Oliva, porque é o mais barato e o 45 x 45 cm serve no almoço e no jantar.",
+          "after": "Para um jogo só, do almoço ao jantar, eu levaria o Bordado Oliva: é o mais barato dos quatro, e o 45 x 45 cm cobre mais o colo.",
+          "base_sha256": "3fc8226e050a4f46974ac3c4d2fcf67267e2e69e778e2c505d03c15536709616"
+        }
+      ]
+    },
+    {
+      "caso": 17,
+      "slug": "jogo-americano-tecido-tamanho-cor",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/8/emphasis",
+      "base_sha256": "633d524819b27cf3135d5f87d1fd3c7c66d461f39a1670b7c88946da61cd5b0d",
+      "antes": "Se fosse para a minha casa, eu escolheria o Retangular Corrente Bege: ele tem a mesma medida do Gregas e tinha o menor preço da tabela. Eu confirmaria o valor atual e o frete antes de comprar.",
+      "proposta_claude": "Com prato de 28 cm, eu escolheria o Corrente Bege: tem a mesma medida do Gregas, deixa 11 cm de cada lado para os talheres e tinha o menor preço da tabela.",
+      "texto_final_revisor": "Com prato de 28 cm, eu escolheria o Corrente Bege: tem a mesma medida do Gregas, deixa 11 cm de cada lado para os talheres e tinha o menor preço da tabela.",
+      "parecer": "A conta lateral é (50 − 28) / 2 = 11 cm; é espaço de borda, não demonstração de encaixe de qualquer conjunto de talheres.",
+      "operacoes": [
+        {
+          "slug": "jogo-americano-tecido-tamanho-cor",
+          "op": "replace",
+          "path": "/contentSections/8/emphasis",
+          "before": "Se fosse para a minha casa, eu escolheria o Retangular Corrente Bege: ele tem a mesma medida do Gregas e tinha o menor preço da tabela. Eu confirmaria o valor atual e o frete antes de comprar.",
+          "after": "Com prato de 28 cm, eu escolheria o Corrente Bege: tem a mesma medida do Gregas, deixa 11 cm de cada lado para os talheres e tinha o menor preço da tabela.",
+          "base_sha256": "633d524819b27cf3135d5f87d1fd3c7c66d461f39a1670b7c88946da61cd5b0d"
+        }
+      ]
+    },
+    {
+      "caso": 18,
+      "slug": "le-creuset-qual-tamanho-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/6/emphasis",
+      "base_sha256": "7909bc579de6be35a41f552678283969ac2bcc0bec8574b0a237f526e85ce7b1",
+      "antes": "Se fosse para a minha casa, eu levaria a 24 cm, porque ela cobre as receitas cheias e sai 28% mais barata por litro.",
+      "proposta_claude": "Eu decidiria pelo litro da receita mais cheia. Se ela passa de 2 L, levaria a 24 cm, que sai 28% mais barata por litro que a 20 cm.",
+      "texto_final_revisor": "Eu escolheria pela receita mais cheia, com a folga que o preparo exige. Se a 20 cm ficar pequena e a 24 cm acomodar esse volume, a maior passa a fazer sentido; a economia por litro, sozinha, não decide.",
+      "parecer": "“Passa de 2 L” não tem limite superior e também abrange receitas que não cabem na 24 cm. A capacidade é nominal e depende da folga do preparo. Escolher o próximo tamanho exige conferir o volume, antes da economia por litro.",
+      "operacoes": [
+        {
+          "slug": "le-creuset-qual-tamanho-escolher",
+          "op": "replace",
+          "path": "/contentSections/6/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a 24 cm, porque ela cobre as receitas cheias e sai 28% mais barata por litro.",
+          "after": "Eu escolheria pela receita mais cheia, com a folga que o preparo exige. Se a 20 cm ficar pequena e a 24 cm acomodar esse volume, a maior passa a fazer sentido; a economia por litro, sozinha, não decide.",
+          "base_sha256": "7909bc579de6be35a41f552678283969ac2bcc0bec8574b0a237f526e85ce7b1"
+        }
+      ]
+    },
+    {
+      "caso": 19,
+      "slug": "le-creuset-vale-a-pena",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/6/emphasis",
+      "base_sha256": "0ff7e4313aff9e3d2ef507de48c28783a9cfa92a7f932d61cb1d25eaed172440",
+      "antes": "Se fosse para a minha casa, eu levaria a Signature, porque o puxador fenólico vai até 250 °C.",
+      "proposta_claude": "Eu pagaria esse preço para ir do fogão ao forno, e escolheria a Signature, porque o puxador fenólico vai até 250 °C, contra 200 °C na Tradicional.",
+      "texto_final_revisor": "Se o preparo exigisse forno acima de 200 °C, eu consideraria a Signature com puxador fenólico, cujo limite é de 250 °C. Confirmaria também o limite da tampa e do conjunto escolhido.",
+      "parecer": "Ir do fogão ao forno também é possível na Tradicional. O diferencial dos puxadores só decide quando a faixa de temperatura importa. Manter o limite do conjunto, não extrapolar a resistência do puxador para qualquer panela.",
+      "operacoes": [
+        {
+          "slug": "le-creuset-vale-a-pena",
+          "op": "replace",
+          "path": "/contentSections/6/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a Signature, porque o puxador fenólico vai até 250 °C.",
+          "after": "Se o preparo exigisse forno acima de 200 °C, eu consideraria a Signature com puxador fenólico, cujo limite é de 250 °C. Confirmaria também o limite da tampa e do conjunto escolhido.",
+          "base_sha256": "0ff7e4313aff9e3d2ef507de48c28783a9cfa92a7f932d61cb1d25eaed172440"
+        }
+      ]
+    },
+    {
+      "caso": 20,
+      "slug": "lets-eat-it-e-boa",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "manter",
+      "campo_original": "/contentSections/7/emphasis",
+      "base_sha256": "5876c5c0b7b7eff34f2f1bd2bc5ff4d08fd6aced76733be67e4a3e6c389cf487",
+      "antes": "Se fosse para a minha casa, eu levaria a Le Creuset e a louça pela Let's Eat It; o cristal, eu pediria com tempo de sobra.",
+      "proposta_claude": "Se fosse para a minha casa, eu levaria a Le Creuset e a louça pela Let's Eat It; o cristal, eu pediria com tempo de sobra.",
+      "texto_final_revisor": "Se fosse para a minha casa, eu levaria a Le Creuset e a louça pela Let's Eat It; o cristal, eu pediria com tempo de sobra.",
+      "parecer": "Manter: o fechamento diferencia categorias e preserva a margem de prazo para resolver avaria no cristal.",
+      "operacoes": []
+    },
+    {
+      "caso": 21,
+      "slug": "taca-base-esfera-e-tacas-coloridas",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/8/emphasis",
+      "base_sha256": "64ab81088a7f6becf2025fa97db4f75df1e03b0cc8ee7ee901fa4317c42cd867",
+      "antes": "Se fosse para a minha casa, eu levaria o kit 6 + 6, porque cobre vinho e champanhe para 4 pessoas e a taça sai a menos que nos jogos de 6.",
+      "proposta_claude": "Para a mesa de 4 que serve vinho e champanhe, eu levaria o kit 6 + 6: cobre as duas bebidas, e a taça sai a menos que nos jogos de 6.",
+      "texto_final_revisor": "Para a mesa de 4 que serve vinho e champanhe, eu levaria o kit 6 + 6: cobre as duas bebidas, e a taça sai a menos que nos jogos de 6.",
+      "parecer": "A escolha está condicionada à mesa e às duas bebidas; a comparação por taça permanece a da amostra.",
+      "operacoes": [
+        {
+          "slug": "taca-base-esfera-e-tacas-coloridas",
+          "op": "replace",
+          "path": "/contentSections/8/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria o kit 6 + 6, porque cobre vinho e champanhe para 4 pessoas e a taça sai a menos que nos jogos de 6.",
+          "after": "Para a mesa de 4 que serve vinho e champanhe, eu levaria o kit 6 + 6: cobre as duas bebidas, e a taça sai a menos que nos jogos de 6.",
+          "base_sha256": "64ab81088a7f6becf2025fa97db4f75df1e03b0cc8ee7ee901fa4317c42cd867"
+        }
+      ]
+    },
+    {
+      "caso": 22,
+      "slug": "mala-de-bordo-bagaggio-qual-compensa",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/3/emphasis",
+      "base_sha256": "5777000bff853f3bb1a1c90c0854aac419c0c2f5cbd86d259482005a8bca6ba2",
+      "antes": "Se fosse para a minha casa, eu levaria a Detroit ABS Preta, porque é a mais barata da marca Bagaggio e fica dentro da medida de 55 × 35 cm das companhias.",
+      "proposta_claude": "Para gastar menos na marca Bagaggio, eu escolheria a Detroit ABS Preta: os 55 × 35 × 23 cm ficam dentro dos 55 × 35 × 25 cm que LATAM, GOL e Azul citam. Antes do voo, eu conferiria a regra da minha companhia.",
+      "texto_final_revisor": "Para gastar menos na marca Bagaggio, eu escolheria a Detroit ABS Preta: os 55 × 35 × 23 cm ficam dentro dos 55 × 35 × 25 cm que LATAM, GOL e Azul citam. Antes do voo, eu conferiria a regra da minha companhia.",
+      "parecer": "Aceito a correção e a discordância com meu primeiro parecer: a referência às três companhias é útil e tem suporte no artigo e nas páginas oficiais consultadas. Isso é compatibilidade dimensional, não garantia de tarifa ou de embarque.",
+      "operacoes": [
+        {
+          "slug": "mala-de-bordo-bagaggio-qual-compensa",
+          "op": "replace",
+          "path": "/contentSections/3/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a Detroit ABS Preta, porque é a mais barata da marca Bagaggio e fica dentro da medida de 55 × 35 cm das companhias.",
+          "after": "Para gastar menos na marca Bagaggio, eu escolheria a Detroit ABS Preta: os 55 × 35 × 23 cm ficam dentro dos 55 × 35 × 25 cm que LATAM, GOL e Azul citam. Antes do voo, eu conferiria a regra da minha companhia.",
+          "base_sha256": "5777000bff853f3bb1a1c90c0854aac419c0c2f5cbd86d259482005a8bca6ba2"
+        }
+      ]
+    },
+    {
+      "caso": 23,
+      "slug": "mala-policarbonato-ou-abs-bagaggio",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/5/emphasis",
+      "base_sha256": "f70bac651d752135f9e1394dc4cabf739bc06e70dc0eca80f99e149dfb4678a4",
+      "antes": "Se fosse para a minha casa, eu levaria a Detroit Preta, porque ela sai a R$ 5,65 por litro, a conta mais baixa da tabela.",
+      "proposta_claude": "Com o que as fichas mostram, eu não pagaria a mais pelo policarbonato: a Detroit Preta, de ABS, tem o menor preço por litro, e as três de policarbonato não trazem mais litros nem menos peso.",
+      "texto_final_revisor": "Com o que as fichas mostram, eu não pagaria a mais pelo policarbonato: a Detroit Preta, de ABS, tem o menor preço por litro, e as três de policarbonato não trazem mais litros nem menos peso.",
+      "parecer": "Aceito a preferência econômica limitada às fichas comparadas. Não a tratar como conclusão de que o ABS é tão resistente quanto o policarbonato.",
+      "operacoes": [
+        {
+          "slug": "mala-policarbonato-ou-abs-bagaggio",
+          "op": "replace",
+          "path": "/contentSections/5/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a Detroit Preta, porque ela sai a R$ 5,65 por litro, a conta mais baixa da tabela.",
+          "after": "Com o que as fichas mostram, eu não pagaria a mais pelo policarbonato: a Detroit Preta, de ABS, tem o menor preço por litro, e as três de policarbonato não trazem mais litros nem menos peso.",
+          "base_sha256": "f70bac651d752135f9e1394dc4cabf739bc06e70dc0eca80f99e149dfb4678a4"
+        }
+      ]
+    },
+    {
+      "caso": 24,
+      "slug": "mochila-escolar-bagaggio",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/7/emphasis",
+      "base_sha256": "cf4df5ee9110e35c011565583ba9812f31ec23fd62beb0ff2cb229ea44b646e9",
+      "antes": "Se fosse para a minha casa, eu levaria a Star Candy, porque a medida e a capacidade estão informadas na ficha.",
+      "proposta_claude": "Eu decidiria primeiro entre costas e rodinhas, pela rotina da criança, e depois compararia as medidas da tabela com o material que ela leva.",
+      "texto_final_revisor": "Eu decidiria primeiro entre costas e rodinhas, pela rotina da criança, e depois compararia as medidas da tabela com o material que ela leva.",
+      "parecer": "Aceito retirar a Star Candy como vencedora. A publicação de medidas não demonstra vantagem sobre a necessidade de toda criança.",
+      "operacoes": [
+        {
+          "slug": "mochila-escolar-bagaggio",
+          "op": "replace",
+          "path": "/contentSections/7/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a Star Candy, porque a medida e a capacidade estão informadas na ficha.",
+          "after": "Eu decidiria primeiro entre costas e rodinhas, pela rotina da criança, e depois compararia as medidas da tabela com o material que ela leva.",
+          "base_sha256": "cf4df5ee9110e35c011565583ba9812f31ec23fd62beb0ff2cb229ea44b646e9"
+        }
+      ]
+    },
+    {
+      "caso": 25,
+      "slug": "mochila-notebook-bagaggio-qual-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/7/emphasis",
+      "base_sha256": "96a9eeb28127d79169fef17f770cde2d08507c1d8d1e7bc93f5025865f530666",
+      "antes": "Se fosse para a minha casa, eu levaria a Horizonte Slim, porque é a mais barata com a medida do notebook informada pela loja.",
+      "proposta_claude": "Para gastar pouco, eu começaria pela Horizonte Slim: custa o mesmo que a BG Net e a BG Quiz e é a única das três com medida de notebook no cadastro, até 15,6 polegadas. Ainda assim, eu confirmaria o compartimento.",
+      "texto_final_revisor": "Para gastar pouco, eu começaria pela Horizonte Slim: custa o mesmo que a BG Net e a BG Quiz e é a única das três com medida de notebook no cadastro, até 15,6 polegadas. Ainda assim, eu confirmaria o compartimento.",
+      "parecer": "Preço empatado e referência publicada de 15,6 polegadas tornam a diferença útil; a conferência do compartimento deve ficar.",
+      "operacoes": [
+        {
+          "slug": "mochila-notebook-bagaggio-qual-escolher",
+          "op": "replace",
+          "path": "/contentSections/7/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a Horizonte Slim, porque é a mais barata com a medida do notebook informada pela loja.",
+          "after": "Para gastar pouco, eu começaria pela Horizonte Slim: custa o mesmo que a BG Net e a BG Quiz e é a única das três com medida de notebook no cadastro, até 15,6 polegadas. Ainda assim, eu confirmaria o compartimento.",
+          "base_sha256": "96a9eeb28127d79169fef17f770cde2d08507c1d8d1e7bc93f5025865f530666"
+        }
+      ]
+    },
+    {
+      "caso": 26,
+      "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/1/emphasis",
+      "base_sha256": "e438d01202a764dd9a708f8ebd65847941a3131c41bf018c294fd6a351a4343e",
+      "antes": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
+      "proposta_claude": "Sem saber a altura certa, eu começaria pelo Snow, que chega com 18 cm e baixa em casa, retirando enchimento; já sabendo a altura, eu ficaria no Original Látex.",
+      "texto_final_revisor": "Sem saber a altura certa, eu começaria pelo Snow, que chega com 18 cm e baixa em casa, retirando enchimento; já sabendo a altura, eu ficaria no Original Látex.",
+      "parecer": "Os 18 cm ajustáveis e as alturas fixas do Original Látex constam do corpo. Não promete corrigir dor nem universaliza uma altura.",
+      "operacoes": [
+        {
+          "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+          "op": "replace",
+          "path": "/contentSections/1/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria o Snow regulável, porque a altura se ajusta em casa.",
+          "after": "Sem saber a altura certa, eu começaria pelo Snow, que chega com 18 cm e baixa em casa, retirando enchimento; já sabendo a altura, eu ficaria no Original Látex.",
+          "base_sha256": "e438d01202a764dd9a708f8ebd65847941a3131c41bf018c294fd6a351a4343e"
+        }
+      ]
+    },
+    {
+      "caso": 27,
+      "slug": "travesseiro-i-wanna-sleep-ou-emma",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/6/emphasis",
+      "base_sha256": "f6691cec731bb9a54ee4d70cee3b4aae3abc5a9c5d98ce9e6f6210fa153435d7",
+      "antes": "Se fosse para a minha casa, eu levaria o Snow, porque a altura se ajusta tirando o enchimento e o teste é de 30 dias.",
+      "proposta_claude": "Sem saber a altura que prefiro, eu iria no Snow, que ajusta tirando enchimento e tem 30 dias de teste, lembrando que esse teste dá crédito para troca; a Emma devolve o dinheiro em 14 noites.",
+      "texto_final_revisor": "Sem saber a altura que prefiro, eu consideraria o Snow pelo ajuste do enchimento e pelos 30 dias de teste com crédito para troca. Se a prioridade fosse reembolso, compararia a Emma e seu programa de 14 noites de teste.",
+      "parecer": "“Devolve o dinheiro em 14 noites” pode parecer prazo de pagamento do reembolso. O artigo descreve a duração do teste. Nomear a diferença entre crédito e reembolso sem essa ambiguidade.",
+      "operacoes": [
+        {
+          "slug": "travesseiro-i-wanna-sleep-ou-emma",
+          "op": "replace",
+          "path": "/contentSections/6/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria o Snow, porque a altura se ajusta tirando o enchimento e o teste é de 30 dias.",
+          "after": "Sem saber a altura que prefiro, eu consideraria o Snow pelo ajuste do enchimento e pelos 30 dias de teste com crédito para troca. Se a prioridade fosse reembolso, compararia a Emma e seu programa de 14 noites de teste.",
+          "base_sha256": "f6691cec731bb9a54ee4d70cee3b4aae3abc5a9c5d98ce9e6f6210fa153435d7"
+        }
+      ]
+    },
+    {
+      "caso": 28,
+      "slug": "poltrona-de-amamentacao-como-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/10/emphasis",
+      "base_sha256": "8c17b712481191d4d6bf47e4a19d685989df116beae0a4aa92021ba3ddfabde6",
+      "antes": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela vira poltrona de sala depois da amamentação.",
+      "proposta_claude": "Aqui em casa ficamos com a reclinável elétrica, porque a poltrona ia continuar na sala depois da amamentação e o ajuste sem esforço fazia diferença para mim. Ela não é a única escolha certa: com orçamento ou espaço curto, uma boa poltrona com puff resolve essa fase.",
+      "texto_final_revisor": "Aqui em casa ficamos com a reclinável elétrica, porque a poltrona ia continuar na sala depois da amamentação e o ajuste sem esforço fazia diferença para mim. Ela não é a única escolha certa: com orçamento ou espaço curto, uma boa poltrona com puff resolve essa fase.",
+      "parecer": "Aceito: é paráfrase do relato já presente no capítulo 9, preservando a primeira reclinável usada na amamentação, sem transferir giro/balanço da 2.0 àquela experiência.",
+      "operacoes": [
+        {
+          "slug": "poltrona-de-amamentacao-como-escolher",
+          "op": "replace",
+          "path": "/contentSections/10/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela vira poltrona de sala depois da amamentação.",
+          "after": "Aqui em casa ficamos com a reclinável elétrica, porque a poltrona ia continuar na sala depois da amamentação e o ajuste sem esforço fazia diferença para mim. Ela não é a única escolha certa: com orçamento ou espaço curto, uma boa poltrona com puff resolve essa fase.",
+          "base_sha256": "8c17b712481191d4d6bf47e4a19d685989df116beae0a4aa92021ba3ddfabde6"
+        }
+      ]
+    },
+    {
+      "caso": 29,
+      "slug": "poltrona-de-amamentacao-vs-poltrona-reclinavel",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "aceita",
+      "campo_original": "/contentSections/8/emphasis",
+      "base_sha256": "169fcabd30af6e0b72a0a9bc22ce262487e093d1a7a9f512f4f862a805c026d7",
+      "antes": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela descansa nas madrugadas e continua na sala depois.",
+      "proposta_claude": "Para ninar sem levantar e continuar com a poltrona na sala depois, eu iria na reclinável elétrica com giro e balanço; se o uso é só nessa fase, a de amamentação com puff custa menos.",
+      "texto_final_revisor": "Para ninar sem levantar e continuar com a poltrona na sala depois, eu iria na reclinável elétrica com giro e balanço; se o uso é só nessa fase, a de amamentação com puff custa menos.",
+      "parecer": "Aceito como preferência por recursos e reaproveitamento, não como relato de que a 2.0 foi a poltrona usada na amamentação. As faixas de preço comparadas sustentam a alternativa com puff.",
+      "operacoes": [
+        {
+          "slug": "poltrona-de-amamentacao-vs-poltrona-reclinavel",
+          "op": "replace",
+          "path": "/contentSections/8/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela descansa nas madrugadas e continua na sala depois.",
+          "after": "Para ninar sem levantar e continuar com a poltrona na sala depois, eu iria na reclinável elétrica com giro e balanço; se o uso é só nessa fase, a de amamentação com puff custa menos.",
+          "base_sha256": "169fcabd30af6e0b72a0a9bc22ce262487e093d1a7a9f512f4f862a805c026d7"
+        }
+      ]
+    },
+    {
+      "caso": 30,
+      "slug": "sofa-modular-ou-retratil-qual-escolher",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/4/emphasis",
+      "base_sha256": "fa5b8208e8562ca7ac9fe7512a9307ac5a688e02f9ecf6d21e228f74dadc9ca8",
+      "antes": "Se fosse para a minha casa, eu levaria o modular, porque ele entra em partes e muda de layout sem trocar o sofá.",
+      "proposta_claude": "Aqui em casa temos o modular, recebido em parceria da DAMIE. Para acesso difícil ou mudança de layout, é o que eu indicaria; para ver TV todo dia, o retrátil é mais direto.",
+      "texto_final_revisor": "O modular da DAMIE, que recebemos em parceria, funciona na nossa rotina. Eu o escolheria para acesso estreito e mudanças de layout; se a prioridade fosse estender o assento, compararia também um retrátil.",
+      "parecer": "O recebimento em parceria foi confirmado. Não reduzir a comparação a “TV pede retrátil”: um modular com puff também serve a essa rotina, e há modelos que combinam características. Distinguir a função procurada.",
+      "operacoes": [
+        {
+          "slug": "sofa-modular-ou-retratil-qual-escolher",
+          "op": "replace",
+          "path": "/contentSections/4/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria o modular, porque ele entra em partes e muda de layout sem trocar o sofá.",
+          "after": "O modular da DAMIE, que recebemos em parceria, funciona na nossa rotina. Eu o escolheria para acesso estreito e mudanças de layout; se a prioridade fosse estender o assento, compararia também um retrátil.",
+          "base_sha256": "fa5b8208e8562ca7ac9fe7512a9307ac5a688e02f9ecf6d21e228f74dadc9ca8"
+        }
+      ]
+    },
+    {
+      "caso": 31,
+      "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/9/emphasis",
+      "base_sha256": "e47e0b07ad03edde9a45b1fcade809d7e6f36043714d614c67eebab707eca70c",
+      "antes": "Se fosse para a minha casa, eu levaria o modular na caixa, porque são módulos de madeira com encaixe e 1 ano de garantia.",
+      "proposta_claude": "Aqui em casa, o modular da DAMIE segue em uso há mais de um ano, e é por ele que eu iria: módulos de madeira com encaixe e 1 ano de garantia.",
+      "texto_final_revisor": "Eu escolheria pela construção e pela possibilidade de manutenção, antes de olhar se o sofá vem na caixa ou montado. O modular DAMIE recebido em parceria é a nossa referência de uso; a embalagem, sozinha, não decide a duração.",
+      "parecer": "Há relato de mais de um ano, mas ele não prova que o formato na caixa dure mais que o montado. O cartão deve responder à pergunta do artigo, preservando o uso e a parceria sem fazer da garantia uma medida de durabilidade.",
+      "operacoes": [
+        {
+          "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+          "op": "replace",
+          "path": "/contentSections/9/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria o modular na caixa, porque são módulos de madeira com encaixe e 1 ano de garantia.",
+          "after": "Eu escolheria pela construção e pela possibilidade de manutenção, antes de olhar se o sofá vem na caixa ou montado. O modular DAMIE recebido em parceria é a nossa referência de uso; a embalagem, sozinha, não decide a duração.",
+          "base_sha256": "e47e0b07ad03edde9a45b1fcade809d7e6f36043714d614c67eebab707eca70c"
+        }
+      ]
+    },
+    {
+      "caso": 32,
+      "slug": "sofa-na-caixa-inflow-ou-damie",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/9/emphasis",
+      "base_sha256": "ea71a40129e7d0dea97525ae7c3da7f1bc59ecf2095f4fd3a9cc565895883e53",
+      "antes": "Se fosse para a minha casa, eu levaria a DAMIE, porque é a única com 30 dias de teste e 1 ano de garantia.",
+      "proposta_claude": "Entre as três, eu ficaria com a DAMIE, a única com 30 dias de teste e 1 ano de garantia; o menor preço da Sofá na Caixa vem com 10 dias de teste e 3 meses de garantia.",
+      "texto_final_revisor": "Entre as três, eu ficaria com a DAMIE pelos 30 dias de teste e pelo ano de garantia. A Sofá na Caixa custa menos na comparação, mas informa devolução em 10 dias com embalagem original e sem indícios de uso.",
+      "parecer": "A política descrita exige embalagem original e ausência de indícios de uso na Sofá na Caixa. Não chamar esse prazo de “10 dias de teste” como se fosse equivalente ao uso experimental da DAMIE.",
+      "operacoes": [
+        {
+          "slug": "sofa-na-caixa-inflow-ou-damie",
+          "op": "replace",
+          "path": "/contentSections/9/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a DAMIE, porque é a única com 30 dias de teste e 1 ano de garantia.",
+          "after": "Entre as três, eu ficaria com a DAMIE pelos 30 dias de teste e pelo ano de garantia. A Sofá na Caixa custa menos na comparação, mas informa devolução em 10 dias com embalagem original e sem indícios de uso.",
+          "base_sha256": "ea71a40129e7d0dea97525ae7c3da7f1bc59ecf2095f4fd3a9cc565895883e53"
+        }
+      ]
+    },
+    {
+      "caso": 33,
+      "slug": "valley-inflow-ou-damie",
+      "assinatura": {
+        "nome": "Farol",
+        "agente": "/root",
+        "papel": "Revisor externo das propostas de Claude Opus 5.5",
+        "modelo": "Codex baseado em GPT-6; variante não exposta",
+        "data": "2026-11-08T16:44:24-03:00"
+      },
+      "estado": "ajustada",
+      "campo_original": "/contentSections/9/emphasis",
+      "base_sha256": "e9ab261f934caf3524ff99f1ce4cde00f80cd25349d737157c1ebfbb85e9b28f",
+      "antes": "Se fosse para a minha casa, eu levaria a DAMIE, pelos 30 dias de teste e 1 ano de garantia.",
+      "proposta_claude": "Eu pagaria os R$ 310 a mais da DAMIE sobre a Inflow no 3 lugares com apoio, com o puff incluído e antes de código e frete, pelos 30 dias de teste e 1 ano de garantia, contra 3 meses.",
+      "texto_final_revisor": "Entre essas configurações, eu priorizaria os 30 dias de teste e o ano de garantia da DAMIE. Para decidir pelo preço, compararia o total com descontos e frete, não só o catálogo.",
+      "parecer": "Os R$ 310 são uma diferença de catálogo anterior a código e frete. O próprio artigo permite aplicar CECILIA12 à DAMIE; portanto esse número não pode virar prêmio que a autora supostamente pagaria no pedido final. Não criar uma motivação de compra para um sofá recebido.",
+      "operacoes": [
+        {
+          "slug": "valley-inflow-ou-damie",
+          "op": "replace",
+          "path": "/contentSections/9/emphasis",
+          "before": "Se fosse para a minha casa, eu levaria a DAMIE, pelos 30 dias de teste e 1 ano de garantia.",
+          "after": "Entre essas configurações, eu priorizaria os 30 dias de teste e o ano de garantia da DAMIE. Para decidir pelo preço, compararia o total com descontos e frete, não só o catálogo.",
+          "base_sha256": "e9ab261f934caf3524ff99f1ce4cde00f80cd25349d737157c1ebfbb85e9b28f"
+        }
+      ]
+    }
+  ],
+  "ajustes_adjacentes": [
+    {
+      "id": "BORDO-2",
+      "motivo": "Correção factual adjacente aceita no caso 22.",
+      "slug": "mala-de-bordo-bagaggio-qual-compensa",
+      "op": "replace",
+      "path": "/contentSections/2/paragraphs/1",
+      "before": "Todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa da medida de 55 × 35 cm citada pelas companhias. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia.",
+      "after": "Todas as malas desta tabela trazem o selo na página do produto, inclusive a Cartagena, que passa dos 55 × 35 × 25 cm citados por LATAM, GOL e Azul. Por isso o selo não substitui a medida: compare a medida da loja com a regra da sua companhia.",
+      "base_sha256": "5777000bff853f3bb1a1c90c0854aac419c0c2f5cbd86d259482005a8bca6ba2"
+    },
+    {
+      "id": "BORDO-3",
+      "motivo": "Correção factual adjacente aceita no caso 22.",
+      "slug": "mala-de-bordo-bagaggio-qual-compensa",
+      "op": "replace",
+      "path": "/contentSections/3/bullets/2",
+      "before": "Quer mais espaço e aceita uma medida maior? A Cartagena tem 51,3 litros, mas passa da medida de 55 × 35 cm que as companhias citam para a mala de mão.",
+      "after": "Quer mais espaço e aceita uma medida maior? A Cartagena tem 51,3 litros, mas passa dos 55 × 35 × 25 cm que LATAM, GOL e Azul citam para a mala de mão.",
+      "base_sha256": "5777000bff853f3bb1a1c90c0854aac419c0c2f5cbd86d259482005a8bca6ba2"
+    },
+    {
+      "id": "USO-DG-12",
+      "motivo": "Atualizar o relato do uso atual, preservando o registro de teste anterior da Mini Me.",
+      "slug": "dolce-gusto-vs-nespresso-qual-escolher",
+      "op": "replace",
+      "path": "/contentSections/2/paragraphs/0",
+      "before": "Preço e recursos contam, mas a escolha também passa pelo uso. Em casa usamos a Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. Da Nespresso, valem os dados das páginas oficiais.",
+      "after": "Em casa usamos a Genio S Touch e a NEO. Já publicamos relatos da Touch e do teste com a Mini Me 2.0; da Nespresso, usamos os dados das páginas oficiais.",
+      "base_sha256": "822fe20539c4cd24470ae83172ffc77738c268902e4c4d4791d09175c6e7b844"
+    },
+    {
+      "id": "USO-DG-13",
+      "motivo": "Separar o uso atual dos relatos já publicados e da comparação por dados públicos.",
+      "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
+      "op": "replace",
+      "path": "/contentSections/2/paragraphs/0",
+      "before": "Preço e recursos contam, mas a escolha também passa pelo uso. Em casa usamos as Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. Da Nespresso e da TRES, valem os dados das páginas oficiais.",
+      "after": "Em casa usamos a Genio S Touch e a NEO. Já publicamos relatos da Touch e do teste com a Mini Me 2.0; da Nespresso e da TRES, usamos os dados das páginas oficiais.",
+      "base_sha256": "cd7123f3d02a9310f4501a1274494e3a7a66065a09feb89b49e6097ddc80cdd2"
+    },
+    {
+      "id": "TRANSPARENCIA-NOTA-sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+      "motivo": "Produto recebido e comissão pelo código são divulgações diferentes. A confirmação de Bruno resolve o recebimento.",
+      "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+      "op": "replace",
+      "path": "/editorialNote",
+      "before": "Guia feito com as fichas das marcas, normas ABNT e o meu sofá. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
+      "after": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
+      "base_sha256": "e47e0b07ad03edde9a45b1fcade809d7e6f36043714d614c67eebab707eca70c"
+    },
+    {
+      "id": "TRANSPARENCIA-CORPO-sofa-na-caixa-ou-sofa-montado-qual-dura-mais-1",
+      "motivo": "Remover a atribuição de compra pessoal sem apagar o relato de uso. Na citação, apenas retirar a frase final; não criar uma fala nova dentro das aspas.",
+      "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+      "op": "replace",
+      "path": "/contentSections/8/paragraphs/1",
+      "before": "\"O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como se arrepender de comprar um sofá desses.\"",
+      "after": "\"O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais.\"",
+      "base_sha256": "e47e0b07ad03edde9a45b1fcade809d7e6f36043714d614c67eebab707eca70c"
+    },
+    {
+      "id": "TRANSPARENCIA-CORPO-sofa-na-caixa-ou-sofa-montado-qual-dura-mais-2",
+      "motivo": "Remover a atribuição de compra pessoal sem apagar o relato de uso. Na citação, apenas retirar a frase final; não criar uma fala nova dentro das aspas.",
+      "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+      "op": "replace",
+      "path": "/contentSections/8/paragraphs/2",
+      "before": "Os itens elétricos são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico.",
+      "after": "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico.",
+      "base_sha256": "e47e0b07ad03edde9a45b1fcade809d7e6f36043714d614c67eebab707eca70c"
+    },
+    {
+      "id": "TRANSPARENCIA-CORPO-sofa-na-caixa-ou-sofa-montado-qual-dura-mais-3",
+      "motivo": "Remover a atribuição de compra pessoal sem apagar o relato de uso. Na citação, apenas retirar a frase final; não criar uma fala nova dentro das aspas.",
+      "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+      "op": "replace",
+      "path": "/contentSections/8/paragraphs/3",
+      "before": "Contei como foi a decisão de compra e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena).",
+      "after": "Contei como foi a escolha do modelo e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena).",
+      "base_sha256": "e47e0b07ad03edde9a45b1fcade809d7e6f36043714d614c67eebab707eca70c"
+    },
+    {
+      "id": "TRANSPARENCIA-NOTA-sofa-na-caixa-inflow-ou-damie",
+      "motivo": "Produto recebido e comissão pelo código são divulgações diferentes. A confirmação de Bruno resolve o recebimento.",
+      "slug": "sofa-na-caixa-inflow-ou-damie",
+      "op": "replace",
+      "path": "/editorialNote",
+      "before": "Comparação feita com as regras publicadas pelas três marcas. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
+      "after": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
+      "base_sha256": "ea71a40129e7d0dea97525ae7c3da7f1bc59ecf2095f4fd3a9cc565895883e53"
+    },
+    {
+      "id": "TRANSPARENCIA-CORPO-sofa-na-caixa-inflow-ou-damie-0",
+      "motivo": "Remover a atribuição de compra pessoal sem apagar o relato de uso. Na citação, apenas retirar a frase final; não criar uma fala nova dentro das aspas.",
+      "slug": "sofa-na-caixa-inflow-ou-damie",
+      "op": "replace",
+      "path": "/contentSections/10/paragraphs/0",
+      "before": "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família: conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como me arrepender de comprar um sofá desses.",
+      "after": "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família: conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais.",
+      "base_sha256": "ea71a40129e7d0dea97525ae7c3da7f1bc59ecf2095f4fd3a9cc565895883e53"
+    },
+    {
+      "id": "TRANSPARENCIA-CORPO-sofa-na-caixa-inflow-ou-damie-1",
+      "motivo": "Remover a atribuição de compra pessoal sem apagar o relato de uso. Na citação, apenas retirar a frase final; não criar uma fala nova dentro das aspas.",
+      "slug": "sofa-na-caixa-inflow-ou-damie",
+      "op": "replace",
+      "path": "/contentSections/10/paragraphs/1",
+      "before": "Os itens elétricos são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico nem entram nos preços da tabela acima.",
+      "after": "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico nem entram nos preços da tabela acima.",
+      "base_sha256": "ea71a40129e7d0dea97525ae7c3da7f1bc59ecf2095f4fd3a9cc565895883e53"
+    },
+    {
+      "id": "TRANSPARENCIA-CORPO-sofa-na-caixa-inflow-ou-damie-2",
+      "motivo": "Remover a atribuição de compra pessoal sem apagar o relato de uso. Na citação, apenas retirar a frase final; não criar uma fala nova dentro das aspas.",
+      "slug": "sofa-na-caixa-inflow-ou-damie",
+      "op": "replace",
+      "path": "/contentSections/10/paragraphs/2",
+      "before": "Contei como foi a decisão de compra e o que eu observaria antes de comprar no guia [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena).",
+      "after": "Contei como foi a escolha do modelo e o que eu observaria antes de comprar no guia [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena).",
+      "base_sha256": "ea71a40129e7d0dea97525ae7c3da7f1bc59ecf2095f4fd3a9cc565895883e53"
+    },
+    {
+      "id": "TRANSPARENCIA-NOTA-valley-inflow-ou-damie",
+      "motivo": "Produto recebido e comissão pelo código são divulgações diferentes. A confirmação de Bruno resolve o recebimento.",
+      "slug": "valley-inflow-ou-damie",
+      "op": "replace",
+      "path": "/editorialNote",
+      "before": "A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
+      "after": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
+      "base_sha256": "e9ab261f934caf3524ff99f1ce4cde00f80cd25349d737157c1ebfbb85e9b28f"
+    },
+    {
+      "id": "TRANSPARENCIA-CORPO-valley-inflow-ou-damie-1",
+      "motivo": "Remover a atribuição de compra pessoal sem apagar o relato de uso. Na citação, apenas retirar a frase final; não criar uma fala nova dentro das aspas.",
+      "slug": "valley-inflow-ou-damie",
+      "op": "replace",
+      "path": "/contentSections/7/paragraphs/1",
+      "before": "Os itens elétricos são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet. Eles não vêm no sofá básico nem entram nos preços das tabelas acima. Contei como foi a decisão de compra e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena).",
+      "after": "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet. Eles não vêm no sofá básico nem entram nos preços das tabelas acima. Contei como foi a escolha do modelo e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena).",
+      "base_sha256": "e9ab261f934caf3524ff99f1ce4cde00f80cd25349d737157c1ebfbb85e9b28f"
+    },
+    {
+      "id": "TAMANHO-MALA-0",
+      "motivo": "Completar a medida referenciada; o capítulo 4 e o FAQ já apresentam os três eixos na base.",
+      "slug": "tamanho-mala-bagaggio-p-m-g",
+      "op": "replace",
+      "path": "/contentSections/0/paragraphs/0",
+      "before": "Na seleção, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 cm. O CECILIA10 dá 10% OFF em todo o site.",
+      "after": "Na seleção, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 × 25 cm. O CECILIA10 dá 10% OFF em todo o site.",
+      "base_sha256": "d442c9ae77ffcca6db5f4de4fc7f6719c33ca8ee801d7d41d09f185fbfd68e59"
+    },
+    {
+      "id": "TAMANHO-MALA-2",
+      "motivo": "Completar a medida referenciada; o capítulo 4 e o FAQ já apresentam os três eixos na base.",
+      "slug": "tamanho-mala-bagaggio-p-m-g",
+      "op": "replace",
+      "path": "/contentSections/2/paragraphs/0",
+      "before": "A mala de 10 kg é a de bordo pelo nome que a loja dá, mas a medida varia: a Cartagena P, por exemplo, passa dos 55 × 35 cm. As faixas de 23 kg e 32 kg são o nome das malas maiores, e a medida também muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
+      "after": "A mala de 10 kg é a de bordo pelo nome que a loja dá, mas a medida varia: a Cartagena P, por exemplo, passa dos 55 × 35 × 25 cm. As faixas de 23 kg e 32 kg são o nome das malas maiores, e a medida também muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
+      "base_sha256": "d442c9ae77ffcca6db5f4de4fc7f6719c33ca8ee801d7d41d09f185fbfd68e59"
+    },
+    {
+      "id": "SHEIN-de",
+      "motivo": "Versão exata proposta pelo revisor para eliminar a metáfora de casa, mantendo o sentido do PT. Autor deve conferir o registro do idioma ao aplicar.",
+      "slug": "shein-groessen",
+      "op": "replace",
+      "path": "/contentSections/7/emphasis",
+      "before": "Für mein eigenes Zuhause würde ich keine Größe bestellen, ohne den Guide des Artikels zu öffnen, denn derselbe Buchstabe ändert sich von Marke zu Marke.",
+      "after": "Wählen Sie Ihre SHEIN-Größe anhand der Maßtabelle des jeweiligen Artikels. Dieselbe Größenangabe kann bei einer anderen Marke anders ausfallen.",
+      "base_sha256": "9b5f35fdb18996f467f56acb84e9e4c9170f4b039df04e2990db2f81fdbf268a"
+    },
+    {
+      "id": "SHEIN-en",
+      "motivo": "Versão exata proposta pelo revisor para eliminar a metáfora de casa, mantendo o sentido do PT. Autor deve conferir o registro do idioma ao aplicar.",
+      "slug": "shein-size-guide",
+      "op": "replace",
+      "path": "/contentSections/7/emphasis",
+      "before": "If it were for my own home, I wouldn't order a size without opening the piece's guide, because the same letter changes from brand to brand.",
+      "after": "Choose your SHEIN size using the measurements in each item's size guide. The same size label can fit differently across brands.",
+      "base_sha256": "f202b4a606937961d67440c8cd2ba24576eff3e2c4d7b1bdeb688e971a0ebe64"
+    },
+    {
+      "id": "SHEIN-es",
+      "motivo": "Versão exata proposta pelo revisor para eliminar a metáfora de casa, mantendo o sentido do PT. Autor deve conferir o registro do idioma ao aplicar.",
+      "slug": "tallas-shein",
+      "op": "replace",
+      "path": "/contentSections/7/emphasis",
+      "before": "Si fuera para mi casa, no pediría una talla sin abrir la guía de la prenda, porque la misma letra cambia de marca en marca.",
+      "after": "Elige tu talla en SHEIN según las medidas de la guía de cada prenda. Una misma talla puede quedar distinta de una marca a otra.",
+      "base_sha256": "ea73b139e4bde82e3bc31994db0d7e60dfcdc936f10c94817caab4dad385a622"
+    },
+    {
+      "id": "SHEIN-fr",
+      "motivo": "Versão exata proposta pelo revisor para eliminar a metáfora de casa, mantendo o sentido do PT. Autor deve conferir o registro do idioma ao aplicar.",
+      "slug": "tailles-shein",
+      "op": "replace",
+      "path": "/contentSections/7/emphasis",
+      "before": "Si c'était pour chez moi, je ne commanderais pas une taille sans ouvrir le guide de l'article, parce que la même lettre change d'une marque à l'autre.",
+      "after": "Pour choisir votre taille chez SHEIN, consultez les mesures du guide de chaque article. Une même taille peut correspondre à des mesures différentes selon la marque.",
+      "base_sha256": "1c234aae0078e7eab3c03eeb5ccd08516aba34e6e31224d08e591c5a48b76f2a"
+    },
+    {
+      "id": "SHEIN-it",
+      "motivo": "Versão exata proposta pelo revisor para eliminar a metáfora de casa, mantendo o sentido do PT. Autor deve conferir o registro do idioma ao aplicar.",
+      "slug": "taglie-shein",
+      "op": "replace",
+      "path": "/contentSections/7/emphasis",
+      "before": "Se fosse per casa mia, non ordinerei una taglia senza aprire la guida del capo, perché la stessa lettera cambia da marchio a marchio.",
+      "after": "Per scegliere la taglia su SHEIN, usa le misure della guida di ciascun capo. La taglia che ti veste bene in un altro marchio potrebbe non avere la stessa vestibilità.",
+      "base_sha256": "dafaa3e3487aed8ec7f7f33818b77291f6dc5bf50148be27898ddc07e0fc06e4"
+    },
+    {
+      "id": "SHEIN-ko",
+      "motivo": "Versão exata proposta pelo revisor para eliminar a metáfora de casa, mantendo o sentido do PT. Autor deve conferir o registro do idioma ao aplicar.",
+      "slug": "shein-size-guide-ko",
+      "op": "replace",
+      "path": "/contentSections/7/emphasis",
+      "before": "제가 집에서 쓸 옷이라면, 상품의 사이즈 가이드를 열어 보지 않고는 사이즈를 고르지 않습니다. 같은 글자라도 브랜드마다 치수가 다르기 때문입니다.",
+      "after": "SHEIN에서 사이즈를 고를 때는 상품별 사이즈 가이드의 치수를 확인하세요. 다른 브랜드에서 잘 맞았던 사이즈가 같은 핏을 보장하지는 않습니다.",
+      "base_sha256": "ecdb76fb48f67ab425017b3f355afefb32b6ce5a714c5e556b284a018e196f4e"
+    }
+  ],
+  "operacoes_totais": 54
+}

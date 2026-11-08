@@ -1,0 +1,29 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "papel": "Revisor externo das propostas de Claude Opus 5.5",
+    "modelo": "Codex baseado em GPT-6; variante não exposta",
+    "data": "2026-11-08T16:44:24-03:00"
+  },
+  "casos": 33,
+  "contagens": {
+    "manter": 2,
+    "aceita": 19,
+    "ajustada": 12
+  },
+  "operacoes": 54,
+  "artigos_em_projecao": 38,
+  "campos_atuais_conferidos": 33,
+  "antes_conferem": true,
+  "sem_sobreposicao": true,
+  "titulos_metas_codigo_cta_preservados": true,
+  "traducoes_propostas": 6,
+  "outras_traducoes_a_manter": [
+    "ja",
+    "zh-hans",
+    "zh-hant"
+  ],
+  "originais_intactos": true,
+  "limite": "Documentação e projeção em memória. Sem edição de artigos, Jobs ou scripts de validação; sem gates, commit, PR, publicação, carrinho ou confirmação de preços atuais."
+}

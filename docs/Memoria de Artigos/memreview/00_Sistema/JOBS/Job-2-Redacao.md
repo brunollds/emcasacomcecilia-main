@@ -52,11 +52,17 @@ Um capítulo completo responde uma pergunta da busca, tem um dado próprio e ter
 
 **Título do capítulo:** pergunta só quando ela está, palavra por palavra, no banco de perguntas reais do parceiro (Job 1). Tabela comparativa e passo a passo levam título direto.
 
-**Veredito pessoal:** guia de escolha e comparativo fecham o capítulo de veredito com uma frase de julgamento, uma vez por artigo. O porquê sai de um dado que já está no artigo (preço por peça ou por dose, medida, renovação), nunca de uso que não houve. A forma depende do tipo:
-- **Moda, Casa-Malas e Tecnologia:** "Se fosse para a minha casa, eu levaria X, porque Y." Sem uso real, nada de "aqui em casa" nem "uso".
-- **Suplementos-Alimentos e Beleza:** sem gesto de consumo. "Pelos números da tabela, para o perfil X a escolha é Y, porque Z." Nunca "eu levaria", "eu tomaria" ou "eu usaria": lido pela leitora, vira recomendação de uso e encosta na regra de saúde.
+**Conclusão orientada à decisão:** guias de escolha e comparativos fecham com uma conclusão que ajude o leitor a escolher por perfil, uso ou prioridade. Dizer qual alternativa atende à situação e qual fato do artigo sustenta essa escolha. O motivo deve explicar a consequência para a decisão; não basta repetir a finalidade do produto, uma frase de marketing ou a existência de informações na ficha.
 
-**Cartão de destaque (campo `emphasis` da seção):** a frase de veredito pessoal vai nele, no capítulo de veredito, uma vez por artigo. O cartão assina "Cecília Mauad", então só leva frase que ela assinaria: julgamento, nunca dado de loja ("a renovação custa de 4 a 6 vezes"), regra de cupom ou aviso ("Atenção:", "Importante:").
+Não há abertura obrigatória nem lista de frases para alternar. A primeira pessoa é opcional: quando usada, expressa uma preferência editorial que a autora assinaria, sem fingir compra, uso, conforto ou resultado observado. "Se fosse para a minha casa" pode aparecer quando fizer sentido para o assunto, sem obrigação de preservá-la ou bani-la por loja.
+
+Sem base para uma vencedora geral, concluir por situações ou explicar o critério que decide. Guias de utilidade, como tamanho ou aplicação, podem fechar com uma orientação; não precisam encenar a escolha de um produto.
+
+Quando a conclusão usar uma experiência real, identificar o produto, o contexto e os limites do que foi observado. Não narrar como hipótese o uso já confirmado, nem atribuir ao relato uma motivação de compra que ele não registra. Ter um produto da marca em casa não equivale a ter usado todos os modelos comparados; a preferência por outro modelo pode continuar condicional. Produto recebido em parceria deve ter essa condição explícita, separada da comissão por código ou link. Não descrever recebimento como compra pessoal.
+
+Em Suplementos-Alimentos e Beleza, manter as restrições de recomendação e de efeitos já definidas nos respectivos anexos. Não usar "eu levaria", "eu tomaria" ou "eu usaria", nem transformar comparação de dados em indicação de uso. "Pelos números da tabela" é uma possibilidade de redação, não uma fórmula obrigatória.
+
+**Cartão de destaque (`emphasis`):** no máximo um por artigo, no capítulo de conclusão. Destaca uma decisão ou interpretação útil que a Cecília assinaria, porque o cartão leva a assinatura dela. Pode ter ou não primeira pessoa; não serve para abrigar dado de loja isolado, regra de cupom ou aviso. Não preencher só para cumprir uma fórmula.
 
 **Ficha, estrelas, prós e contras:** só aparecem em artigo `reviewKind: "produto"`, que exige uso real. Guia não preenche `verdict`, `pros`, `cons` nem `productSpec`: nas guias, a ficha vai na tabela e o "para quem / quando não" no texto.
 
@@ -64,7 +70,7 @@ Um capítulo completo responde uma pergunta da busca, tem um dado próprio e ter
 - **Formato:** `"decision": { "takeIf": ["…"], "skipIf": ["…"] }`, no nível do artigo. De 1 a 3 frases em cada lista, sem markdown e sem "R$". Os rótulos vêm do site, não do JSON.
 - **Lugar:** o site põe o quadro sozinho, logo antes do FAQ (sem FAQ, depois da última seção). Não entra no sumário, no áudio nem no JSON-LD.
 - **De onde sai:** das frases de "para quem / quando não" dos capítulos, ditas como perfil ou situação do leitor ("Leve se você usa a mala em voo nacional com bagagem de mão"). Nada que o artigo não diga; sem primeira pessoa; em Beleza e Suplementos-Alimentos, sem efeito no corpo.
-- **Não repete o veredito:** o cartão de destaque traz a escolha; o quadro diz para quem ela serve e para quem não.
+- **Não repete a conclusão:** o cartão de destaque traz a decisão; o quadro diz para quem ela serve e para quem não.
 - **Família de 10 idiomas:** se o PT tem o quadro, todas as versões têm, com o mesmo número de frases e nenhuma igual à do PT (`test:review-i18n`). Quadro novo num artigo de família só entra junto com as 9 traduções.
 
 **Para quem / quando não:** cada produto com capítulo próprio tem uma frase de para quem serve e uma de quando não escolher. Julgamento por perfil é o que a loja não faz: "a Heavy é para quem não quer a camiseta marcando o corpo; se usa por baixo do blazer no calor, fique na Tech".
