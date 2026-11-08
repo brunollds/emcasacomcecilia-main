@@ -65,14 +65,14 @@ const NBSP = '\u00a0';
 // põe os 50% de novos usuários no título de busca.
 const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
   en: {
-    discount: 'Current campaigns',
+    discount: 'Promotions and discounts',
     offerTypeLabel: 'offer',
     offerTypeLabelPlural: 'offers',
     offerActionLabel: 'See offers on SHEIN',
     category: 'Fashion, accessories, beauty and home',
     shortDescription: 'main link, referral code and current campaigns',
     longDescription:
-      "4CW5Y is Cecília's SHEIN referral code: it opens a SHEIN page with a selection of products, promotions and discounts. Open SHEIN through Cecília's link, or copy 4CW5Y and search for it in the SHEIN app or website. This page also lists the current campaigns for selected products and new users.",
+      "4CW5Y is Cecília's referral code: it opens a SHEIN selection with promotions and discounts. Open SHEIN through the link below, or copy the code and search for it in the app or website. Other campaigns are available below.",
     metaTitle: 'SHEIN referral code 4CW5Y and current campaigns',
     metaDescription:
       "Cecília's SHEIN referral code 4CW5Y opens a page of promotions and discounts: use the link or search 4CW5Y in the SHEIN app or website.",
@@ -131,14 +131,14 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     },
   },
   es: {
-    discount: 'Campañas vigentes',
+    discount: 'Promociones y descuentos',
     offerTypeLabel: 'oferta',
     offerTypeLabelPlural: 'ofertas',
     offerActionLabel: 'Ver ofertas en SHEIN',
     category: 'Moda, accesorios, belleza y hogar',
     shortDescription: 'enlace principal, código de referido y campañas vigentes',
     longDescription:
-      'El 4CW5Y es el código de referido de Cecília en SHEIN: abre una página con una selección de productos, promociones y descuentos. Entra en SHEIN con el enlace de Cecília, o copia el 4CW5Y y búscalo en la app o en la web de SHEIN. Aquí también están las campañas vigentes para productos seleccionados y nuevos usuarios.',
+      'El 4CW5Y es el código de referido de Cecília: abre una selección de SHEIN con promociones y descuentos. Entra con el enlace de abajo, o copia el código y búscalo en la app o en la web. Más abajo hay otras campañas.',
     metaTitle: 'SHEIN: código de referido 4CW5Y y campañas vigentes',
     metaDescription:
       'El código de referido 4CW5Y de Cecília abre una página de promociones y descuentos de SHEIN: usa el enlace o busca 4CW5Y en la app o en la web.',
@@ -197,14 +197,14 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     },
   },
   fr: {
-    discount: 'Campagnes en cours',
+    discount: `Promotions et réductions`,
     offerTypeLabel: 'offre',
     offerTypeLabelPlural: 'offres',
     offerActionLabel: 'Voir les offres SHEIN',
     category: 'Mode, accessoires, beauté et maison',
     shortDescription: 'lien principal, code de parrainage et campagnes en cours',
     longDescription:
-      `4CW5Y est le code de parrainage de Cecília chez SHEIN${NBSP}: il ouvre une page avec une sélection de produits, de promotions et de réductions. Accédez à SHEIN via le lien de Cecília, ou copiez 4CW5Y et recherchez-le dans l'appli ou sur le site SHEIN. Cette page présente aussi les campagnes en cours pour une sélection de produits et pour les nouveaux utilisateurs.`,
+      `4CW5Y est le code de parrainage de Cecília${NBSP}: il ouvre une sélection SHEIN avec des promotions et des réductions. Passez par le lien ci-dessous, ou copiez le code et recherchez-le dans l'appli ou sur le site. D'autres campagnes sont disponibles plus bas.`,
     metaTitle: `SHEIN${NBSP}: code de parrainage 4CW5Y et campagnes en cours`,
     metaDescription:
       `Le code de parrainage 4CW5Y de Cecília ouvre une page de promotions et de réductions SHEIN${NBSP}: utilisez le lien ou recherchez 4CW5Y dans l'appli ou sur le site.`,
@@ -260,14 +260,14 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     },
   },
   de: {
-    discount: 'Aktuelle Aktionen',
+    discount: 'Aktionen und Rabatte',
     offerTypeLabel: 'Angebot',
     offerTypeLabelPlural: 'Angebote',
     offerActionLabel: 'Angebote bei SHEIN ansehen',
     category: 'Mode, Accessoires, Beauty und Wohnen',
     shortDescription: 'Hauptlink, Empfehlungscode und aktuelle Aktionen',
     longDescription:
-      '4CW5Y ist Cecílias Empfehlungscode bei SHEIN: Er öffnet eine Seite mit ausgewählten Produkten, Aktionen und Rabatten. Öffnen Sie SHEIN über Cecílias Link, oder kopieren Sie 4CW5Y und suchen Sie in der SHEIN-App oder auf der Website danach. Auf dieser Seite finden Sie außerdem die aktuellen Aktionen für ausgewählte Produkte und Neukunden.',
+      '4CW5Y ist Cecílias Empfehlungscode: Er öffnet eine SHEIN-Auswahl mit Aktionen und Rabatten. Nutzen Sie den Link unten, oder kopieren Sie den Code und suchen Sie in der App oder auf der Website danach. Weitere Aktionen finden Sie weiter unten.',
     metaTitle: 'SHEIN: Empfehlungscode 4CW5Y und aktuelle Aktionen',
     metaDescription:
       'Cecílias Empfehlungscode 4CW5Y öffnet eine SHEIN-Seite mit Aktionen und Rabatten: Nutzen Sie den Link oder suchen Sie 4CW5Y in der App oder auf der Website.',
@@ -326,14 +326,14 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     },
   },
   it: {
-    discount: 'Campagne in corso',
+    discount: 'Promozioni e sconti',
     offerTypeLabel: 'offerta',
     offerTypeLabelPlural: 'offerte',
     offerActionLabel: 'Vedi le offerte SHEIN',
     category: 'Moda, accessori, bellezza e casa',
     shortDescription: 'link principale, codice invito e campagne in corso',
     longDescription:
-      "4CW5Y è il codice invito di Cecília su SHEIN: apre una pagina con una selezione di prodotti, promozioni e sconti. Apri SHEIN con il link di Cecília, oppure copia 4CW5Y e cercalo nell'app o sul sito SHEIN. Qui trovi anche le campagne in corso per prodotti selezionati e nuovi utenti.",
+      "4CW5Y è il codice invito di Cecília: apre una selezione SHEIN con promozioni e sconti. Usa il link qui sotto, oppure copia il codice e cercalo nell'app o sul sito. Altre campagne sono disponibili più in basso.",
     metaTitle: 'SHEIN: codice invito 4CW5Y e campagne in corso',
     metaDescription:
       "Il codice invito 4CW5Y di Cecília apre una pagina SHEIN di promozioni e sconti: usa il link o cerca 4CW5Y nell'app o sul sito.",
@@ -392,14 +392,14 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     },
   },
   ko: {
-    discount: '진행 중인 캠페인',
+    discount: '프로모션과 할인',
     offerTypeLabel: '혜택',
     offerTypeLabelPlural: '혜택',
     offerActionLabel: 'SHEIN 혜택 보기',
     category: '패션, 액세서리, 뷰티, 홈',
     shortDescription: '메인 링크, 추천 코드, 진행 중인 캠페인',
     longDescription:
-      '4CW5Y는 SHEIN에서 쓰는 Cecília의 추천 코드로, 일부 상품과 프로모션, 할인을 모은 페이지가 열립니다. Cecília의 링크로 SHEIN에 접속하거나, 4CW5Y를 복사해 SHEIN 앱이나 웹사이트에서 검색하세요. 이 페이지에서 일부 상품과 신규 회원 대상의 진행 중인 캠페인도 확인할 수 있습니다.',
+      '4CW5Y는 Cecília의 추천 코드로, 프로모션과 할인이 있는 SHEIN 상품 모음이 열립니다. 아래 링크를 이용하거나, 코드를 복사해 앱이나 웹사이트에서 검색하세요. 다른 캠페인은 아래에서 확인할 수 있습니다.',
     metaTitle: 'SHEIN 추천 코드 4CW5Y와 진행 중인 캠페인',
     metaDescription:
       'Cecília의 추천 코드 4CW5Y로 SHEIN 프로모션·할인 페이지가 열립니다. 링크를 이용하거나 앱 또는 웹사이트에서 4CW5Y를 검색하세요.',
@@ -457,14 +457,14 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     },
   },
   ja: {
-    discount: '開催中のキャンペーン',
+    discount: 'セールと割引',
     offerTypeLabel: 'オファー',
     offerTypeLabelPlural: 'オファー',
     offerActionLabel: 'SHEIN のオファーを見る',
     category: 'ファッション、アクセサリー、コスメ、インテリア',
     shortDescription: 'メインリンク、紹介コード、開催中のキャンペーン',
     longDescription:
-      '4CW5Y は SHEIN で使える Cecília の紹介コードで、対象商品やプロモーション、割引をまとめたページが開きます。Cecília のリンクから SHEIN を開くか、4CW5Y をコピーして SHEIN アプリまたはサイトで検索してください。このページでは、対象商品と新規ユーザー向けの開催中キャンペーンも確認できます。',
+      '4CW5Y は Cecília の紹介コードで、プロモーションと割引のある SHEIN のセレクションが開きます。下のリンクを使うか、コードをコピーしてアプリまたはサイトで検索してください。ほかのキャンペーンは下にあります。',
     metaTitle: 'SHEIN の紹介コード 4CW5Y と開催中のキャンペーン',
     metaDescription:
       'Cecília の紹介コード 4CW5Y で、SHEIN のプロモーション・割引ページが開きます。リンクを使うか、アプリまたはサイトで 4CW5Y を検索してください。',
@@ -522,14 +522,14 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     },
   },
   'zh-hant': {
-    discount: '進行中的活動',
+    discount: '促銷與折扣',
     offerTypeLabel: '優惠',
     offerTypeLabelPlural: '優惠',
     offerActionLabel: '查看 SHEIN 優惠',
     category: '時裝、配飾、美妝及家居',
     shortDescription: '主要連結、推薦碼及進行中的活動',
     longDescription:
-      '4CW5Y 是 Cecília 在 SHEIN 的推薦碼，會開啟一個集合精選商品、促銷和折扣的頁面。你可以透過 Cecília 的連結前往 SHEIN，或複製 4CW5Y 到 SHEIN App 或網站搜尋。這裡也列出指定商品及新用戶的進行中活動。',
+      '4CW5Y 是 Cecília 的推薦碼，會開啟有促銷和折扣的 SHEIN 精選。你可以使用下方連結，或複製代碼到 App 或網站搜尋。其他活動請見下方。',
     metaTitle: 'SHEIN 推薦碼 4CW5Y 及進行中的活動',
     metaDescription: 'Cecília 的推薦碼 4CW5Y 會開啟 SHEIN 的促銷與折扣頁面：使用連結，或在 App 或網站搜尋 4CW5Y。',
     eligibleCategories: '時裝、配飾、美妝、家居及各活動適用的其他類別',
@@ -584,14 +584,14 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     },
   },
   'zh-hans': {
-    discount: '进行中的活动',
+    discount: '促销与折扣',
     offerTypeLabel: '优惠',
     offerTypeLabelPlural: '优惠',
     offerActionLabel: '查看 SHEIN 优惠',
     category: '服饰、配饰、美妆和家居',
     shortDescription: '主链接、推荐码和进行中的活动',
     longDescription:
-      '4CW5Y 是 Cecília 在 SHEIN 的推荐码，会打开一个汇集精选商品、促销和折扣的页面。你可以通过 Cecília 的链接打开 SHEIN，或复制 4CW5Y 到 SHEIN App 或网站搜索。这里也列出指定商品和新用户的进行中活动。',
+      '4CW5Y 是 Cecília 的推荐码，会打开有促销和折扣的 SHEIN 精选。你可以使用下方链接，或复制代码到 App 或网站搜索。其他活动请见下方。',
     metaTitle: 'SHEIN 推荐码 4CW5Y 和进行中的活动',
     metaDescription: 'Cecília 的推荐码 4CW5Y 会打开 SHEIN 的促销和折扣页面：使用链接，或在 App 或网站搜索 4CW5Y。',
     eligibleCategories: '服饰、配饰、美妆、家居及各活动适用的其他品类',

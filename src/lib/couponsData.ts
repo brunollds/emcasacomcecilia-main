@@ -1195,7 +1195,7 @@ const STORE_COUPONS: Coupon[] = [
     brandLogoAlt: 'Marca SHEIN',
     brandWatermark: '/images/logos/watermarks/shein.webp',
     brandColor: '#111111',
-    discount: 'Campanhas vigentes',
+    discount: 'Promoções e descontos',
     offerTypeLabel: 'oferta',
     offerTypeLabelPlural: 'ofertas',
     offerActionLabel: 'Ver ofertas na SHEIN',
@@ -1203,7 +1203,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'link principal, código de indicação e campanhas vigentes',
     longDescription:
-      'O 4CW5Y é o código de indicação da Cecília na SHEIN: abre uma página com uma seleção de produtos, promoções e descontos. O botão abaixo já leva a essa página, sem copiar nada; se preferir, copie o 4CW5Y e pesquise no app ou no site da SHEIN. Para o cupom de 50% para novos usuários, pesquise K49L457 ou use o botão da campanha abaixo.',
+      'O 4CW5Y é o código de indicação da Cecília: abre uma seleção da SHEIN com promoções e descontos. O botão abaixo já leva até ela; se preferir, copie o código e pesquise no app ou no site. Outras campanhas estão disponíveis abaixo.',
     metaTitle: 'SHEIN: 4CW5Y (indicação) e cupom de 50% para novos usuários',
     metaDescription:
       'Link da Cecília para a SHEIN: abre a página do 4CW5Y, com promoções e descontos, ou pesquise o código no app ou no site. K49L457: 50% para novos usuários.',
