@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 75
@@ -55,7 +55,8 @@ A matriz que ninguém da marca monta: a pessoa começa pela roupa (decote profun
 - **Cada célula da matriz traz o que a loja indica ou o que o formato da peça permite, e o texto marca a diferença.** Exemplo: o sutiã frente única une os seios e pode não servir num decote aberto até a barriga; isso é leitura do formato, não fala da loja. Sem certeza, a célula diz "a loja não fala desse caso".
 - Avaliação de cliente entra como avaliação, nunca como promessa da marca.
 - Sem concorrentes: as marcas têm os artigos delas.
-- Repetir o aviso de gestantes e lactantes do sutiã.
+- Repetir o aviso de gestantes e lactantes do sutiã. A página do protetor traz o mesmo aviso (lido em 08/11).
+- Card de estilo (`styling`, Job 1 e Anexo-Moda), incluído em 08/11 depois do pedido do Bruno: um por capítulo de peça, em `tabs`, com o link dela. O Comfort Line, sem alças, entra no tomara que caia.
 - Sem experiência inventada; vídeo só se a Cecília tiver.
 - Preço com o MAUAD (conta nossa, marcada); data da leitura uma vez no corpo.
 - Catraca: resposta rápida de 2 a 3 frases (40 a 60 palavras) sem R$; no máximo 2 datas no corpo; nenhuma data em título, legenda ou FAQ; `description` até 180 caracteres; `metaDescription` com "MAUAD" e "10%" na primeira frase, o código terminando até o caractere 100, até 155 caracteres, sem data com dia e sem R$.
@@ -84,3 +85,14 @@ A matriz que ninguém da marca monta: a pessoa começa pela roupa (decote profun
 ## 7. Pontuação
 
 Dor 22/25, demanda 15/20, valor além do oficial 16/20, visita 9/15, cluster 8/10, conversão 7/10. Total 77.
+
+## 8. O que mudou na redação
+
+Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i13-f12/PARECER.md`) aplicada depois de conferir os fatos, em 08/11/2026.
+
+- Quadro por roupa, com a opção e o que conferir, em vez da matriz de "a loja indica ou não fala". O briefing pedia a marcação célula a célula; ela saiu do quadro porque o texto orienta pelo formato e diz isso.
+- Tomara que caia: a indicação é o Comfort Line, que a página nomeia. O passo a passo da Fita Up para esse caso vinha só do nosso artigo anterior e não foi reconfirmado na página.
+- Comfort Line incluído, com foto já no site e card.
+- Aviso de gestantes e lactantes vale para o sutiã de silicone e para o protetor; a aplicação da fita usa o protetor, então a combinação não é apresentada para essa fase.
+- Soma de fita e protetor avulsos no quadro de preços: R$ 176,80 e R$ 159,12 com o cupom, marcada como soma.
+- Veredito sem "Se fosse para a minha casa", a pedido do Bruno: variação só neste artigo e no I13; o Job 2 não muda por isso.

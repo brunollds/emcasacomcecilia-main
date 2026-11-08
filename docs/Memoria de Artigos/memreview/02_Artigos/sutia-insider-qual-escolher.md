@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 70
@@ -61,6 +61,7 @@ A ordem que a loja não dá: escolher por sustentação, cobertura e alça, a di
 - Preço sempre com o cupom aplicado (conta nossa, marcada) e a data da leitura uma vez no corpo.
 - Link de cada produto na tabela, com o nome virando o link.
 - Vídeo e foto de teste só se a Cecília tiver; o briefing não depende deles.
+- Card de estilo (`styling`, Job 1 e Anexo-Moda), incluído em 08/11 depois do pedido do Bruno: um em cada capítulo de linha, em `tags`, com como usar e ocasião; "combina com" só no Lounge, que a loja propõe usar como top. Peça com o link dela.
 - Catraca: resposta rápida de 2 a 3 frases (40 a 60 palavras) sem R$; no máximo 2 datas no corpo; nenhuma data em título, legenda ou FAQ; `description` até 180 caracteres; `metaDescription` com o código e o % na primeira frase, o código terminando até o caractere 100, até 155 caracteres, sem data com dia e sem R$.
 - Capa pelo Job 6, com foto real do produto. Ao menos uma foto da loja no corpo.
 - Links: `/cupons/insider` (âncora "cupom Insider"), `tabela-de-medidas-insider`, `insider-vale-a-pena`, `black-friday-insider-feminino`, `kit-insider-quando-compensa`.
@@ -87,3 +88,15 @@ A ordem que a loja não dá: escolher por sustentação, cobertura e alça, a di
 ## 7. Pontuação
 
 Dor 20/25, demanda 13/20, valor além do oficial 16/20, visita 10/15, cluster 8/10, conversão 7/10. Total 74.
+
+## 8. O que mudou na redação
+
+Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i13-f12/PARECER.md`) aplicada depois de conferir os fatos, em 08/11/2026.
+
+- Preço de Alças Removíveis corrigido: R$ 199 → R$ 169,15 no carrinho; R$ 189 → R$ 160,65 pela conta. Decote V e Top também têm opções de R$ 189.
+- Conjuntos: seis no carrinho; o cupom entrou em cinco e não entrou no Cobertura NakedFeel, nas duas tentativas. Sem motivo conhecido; reler na Black Friday.
+- Troca: a política de underwear (defeito comprovado) fica separada do arrependimento do art. 49 do CDC.
+- Comfy: as duas palavras da loja (leve e média), sem fixar um nível.
+- Medidas: nada de dobrar a largura nem de converter barra, baixo busto e busto.
+- Veredito sem "Se fosse para a minha casa", a pedido do Bruno: variação só neste artigo e no F12; o Job 2 não muda por isso.
+- Card de estilo em cada capítulo de linha.
