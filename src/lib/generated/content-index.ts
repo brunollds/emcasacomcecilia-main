@@ -59577,8 +59577,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Calendário, imposto de importação zero até US$ 50 e código de indicação 4CW5Y.",
-    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases de desconto e imposto de importação zero até US$ 50.",
+    "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Calendário, imposto zero até US$ 50 e o código 4CW5Y, que dá desconto.",
+    "metaDescription": "O 4CW5Y dá desconto na SHEIN: use o link ou pesquise no app ou site. Black Friday SHEIN: calendário, fases de desconto e imposto zero até US$ 50.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
     "updatedAt": "2026-11-07",
@@ -59604,7 +59604,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou a página da Black Friday; pelo histórico, as ofertas principais entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa na busca do app, sem promessa de desconto fixo."
+          "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou a página da Black Friday; pelo histórico, as ofertas principais entram depois do 11.11 e vão até o fim do mês. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site da SHEIN, abre uma seleção de produtos com promoções e descontos."
         ]
       },
       {
@@ -59716,7 +59716,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pela política de cupons da SHEIN, vale um cupom da plataforma por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para usar também o cupom da loja desse vendedor: no máximo dois cupons, um de cada tipo. Cada cupom tem validade, e o que não foi usado a tempo fica indisponível.",
           "Os pontos SHEIN valem US$ 1 a cada 100 pontos e abatem até 30% do valor dos produtos, sem contar frete e impostos. Eles não valem em itens de vendedores nacionais.",
-          "O 4CW5Y não é cupom: é o código de indicação da Cecília. Você pesquisa 4CW5Y no aplicativo da SHEIN e confere as condições que aparecem para a sua conta. As campanhas da SHEIN mudam toda hora: confira as vigentes na página da loja aqui do site antes de fechar o pedido."
+          "O 4CW5Y não é cupom: é o código de indicação da Cecília, e ele dá desconto, sim. Pelo link da Cecília, ou copiando o código e pesquisando no app ou no site da SHEIN, você abre uma página com uma seleção de produtos indicados, promoções e descontos. Quanto e em quais peças, a SHEIN decide e varia. As campanhas da SHEIN mudam toda hora: confira as vigentes na página da loja aqui do site antes de fechar o pedido."
         ],
         "image": {
           "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
@@ -59781,14 +59781,14 @@ export const reviewsData: unknown[] = [
           "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto, frete e seguro (se houver), já com os descontos. Acima disso, o imposto de importação volta.",
           "Produto de Envio Nacional paga imposto de importação? Não. Os produtos de Envio Nacional já estão no Brasil e não pagam imposto de importação.",
           "Posso usar mais de um cupom na SHEIN? Um cupom da SHEIN por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para somar o cupom da loja desse vendedor.",
-          "O 4CW5Y é cupom de desconto? Não. É o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e vê as condições para a sua conta.",
+          "O 4CW5Y é cupom de desconto? Não é cupom, mas dá desconto, sim: é o código de indicação da Cecília. Pelo link, ou pesquisando o código no app ou no site da SHEIN, você abre uma seleção de produtos com promoções e descontos; quanto e em quais peças, a SHEIN decide.",
           "Tem frete grátis na Black Friday da SHEIN? O frete grátis muda a cada fase da campanha: confira o do seu pedido no carrinho antes de pagar.",
           "Quanto tempo tenho para devolver o que comprei na Black Friday? Até 20 dias depois de receber. Roupa íntima, moda praia, bodies, brincos e alguns outros itens só voltam no prazo de 7 dias."
         ]
       }
     ],
     "cta": {
-      "text": "Pesquise 4CW5Y no app da SHEIN e confira as condições para a sua conta antes de comprar",
+      "text": "Use o link ou pesquise 4CW5Y no app ou no site da SHEIN e veja a seleção com descontos antes de comprar",
       "label": "Ir para a SHEIN",
       "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
       "sponsored": true
@@ -59844,7 +59844,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Black Friday 2026 falls on November 27. In early November, SHEIN focuses promotions on its 11.11 sale and has not yet published a Black Friday page; historically, major Black Friday deals launch after 11.11 and run through month-end. 4CW5Y is a referral code: you search for it in the search bar of the SHEIN app, with no fixed discount promised."
+          "Black Friday 2026 falls on November 27. In early November, SHEIN focuses promotions on its 11.11 sale and has not yet published a Black Friday page; historically, major Black Friday deals launch after 11.11 and run through month-end. 4CW5Y does give you a discount: open SHEIN through Cecília's link and search 4CW5Y in the app or on the site, and it opens a selection with promotions and discounts."
         ]
       },
       {
@@ -59903,7 +59903,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Under SHEIN's coupon policy, one platform coupon applies per order. Each coupon has an expiry date, and one not used in time becomes unavailable.",
           "SHEIN points are worth US$ 1 per 100 points and take up to 30% off the product value, not counting shipping and taxes.",
-          "4CW5Y is not a coupon: it is Cecília's SHEIN referral code. You search for 4CW5Y in the SHEIN app and check the conditions shown for your account. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order."
+          "4CW5Y is not a coupon: it is Cecília's SHEIN referral code, and it does give you a discount. Open SHEIN through Cecília's link and search 4CW5Y in the SHEIN app or on the site: the code opens a page with a selection of recommended products, promotions and discounts. How much and on which items is up to SHEIN and varies. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order."
         ],
         "links": [
           {
@@ -59940,14 +59940,14 @@ export const reviewsData: unknown[] = [
           "How long does SHEIN's Black Friday last? In 2024 and 2025, until the end of November. In 2023, until the Saturday after Black Friday. The 2026 one has no end date yet.",
           "What is SHEIN's 11.11? It is the Singles' Day sale, on the 11th day of the 11th month. SHEIN combines 11.11 and Black Friday into a single campaign, with discount phases until the end of the month.",
           "Can I use more than one coupon on SHEIN? One SHEIN coupon per order.",
-          "Is 4CW5Y a discount coupon? No. It is Cecília's SHEIN referral code: you search for the code in the SHEIN app and see the conditions for your account.",
+          "Is 4CW5Y a discount coupon? It is not a coupon, but it does give you a discount: it is Cecília's SHEIN referral code. Open SHEIN through the link and search for the code in the app or on the site: the code opens a selection of products with promotions and discounts; how much and on which items is up to SHEIN.",
           "Is there free shipping on SHEIN's Black Friday? Free shipping changes with each phase of the campaign: check yours in the cart before paying.",
           "How long do I have to return what I bought on Black Friday? Up to 20 days after you receive it, under SHEIN's published terms (check the policy of your country's SHEIN site on your order page). Underwear, swimwear, bodysuits, earrings and a few other items can only be returned within 7 days."
         ]
       }
     ],
     "cta": {
-      "text": "Search for 4CW5Y in the SHEIN app and check the conditions for your account before buying",
+      "text": "Open SHEIN through the link, search 4CW5Y in the app or on the site, and see the selection with discounts before buying",
       "label": "Go to SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60002,7 +60002,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El Black Friday de 2026 cae el 27 de noviembre. A comienzos de noviembre, SHEIN está en el 11.11 y aún no publicó la página del Black Friday; según el historial, las ofertas principales entran tras el 11.11 y duran hasta fin de mes. El 4CW5Y es un código de referido: se busca en la app, sin promesa de descuento."
+          "El Black Friday de 2026 cae el 27 de noviembre. A comienzos de noviembre, SHEIN está en el 11.11 y aún no publicó la página del Black Friday; según el historial, las ofertas principales entran tras el 11.11 y duran hasta fin de mes. El 4CW5Y da descuento, sí: búscalo en la app o la web de SHEIN y se abre una selección con promociones."
         ]
       },
       {
@@ -60061,7 +60061,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la política de cupones de SHEIN, vale un cupón de la plataforma por pedido. Cada cupón tiene vencimiento, y el que no se usó a tiempo deja de estar disponible.",
           "Los puntos SHEIN valen US$ 1 cada 100 puntos y descuentan hasta 30% del valor de los productos, sin contar envío e impuestos.",
-          "El 4CW5Y no es un cupón: es el código de referido de Cecília en SHEIN. Buscas 4CW5Y en la app de SHEIN y revisas las condiciones que aparecen para tu cuenta. Las campañas de SHEIN cambian todo el tiempo: revisa las vigentes en la página de la tienda aquí en el sitio antes de cerrar el pedido."
+          "El 4CW5Y no es un cupón: es el código de referido de Cecília en SHEIN, y sí da descuento. Abre SHEIN con el enlace de Cecília y busca el 4CW5Y en la app o en el sitio de SHEIN: el código abre una página con una selección de productos recomendados, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN y varía. Las campañas de SHEIN cambian todo el tiempo: revisa las vigentes en la página de la tienda aquí en el sitio antes de cerrar el pedido."
         ],
         "links": [
           {
@@ -60098,14 +60098,14 @@ export const reviewsData: unknown[] = [
           "¿Hasta cuándo dura el Black Friday de SHEIN? En 2024 y 2025 duró hasta fin de noviembre. En 2023, hasta el sábado después del Black Friday. El de 2026 todavía no tiene fecha de fin.",
           "¿Qué es el 11.11 de SHEIN? Es la promoción del Día de los Solteros, el día 11 del mes 11. SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases de descuento hasta fin de mes.",
           "¿Puedo usar más de un cupón en SHEIN? Un cupón de SHEIN por pedido.",
-          "¿El 4CW5Y es un cupón de descuento? No. Es el código de referido de Cecília en SHEIN: buscas el código en la app de SHEIN y ves las condiciones para tu cuenta.",
+          "¿El 4CW5Y es un cupón de descuento? No es un cupón, pero sí da descuento: es el código de referido de Cecília en SHEIN. Abre SHEIN con el enlace y busca el código en la app o en el sitio: el código abre una selección con promociones y descuentos; cuánto y en qué prendas lo decide SHEIN.",
           "¿Hay envío gratis en el Black Friday de SHEIN? El envío gratis cambia en cada fase de la campaña: revisa el de tu pedido en el carrito antes de pagar.",
           "¿Cuánto tiempo tengo para devolver lo que compré en el Black Friday? Hasta 20 días después de recibirlo, según las condiciones publicadas por SHEIN (revisa la política de la web de SHEIN de tu país en la página de tu pedido). Ropa interior, ropa de playa, bodies, aretes y algunos otros artículos solo se devuelven dentro de 7 días."
         ]
       }
     ],
     "cta": {
-      "text": "Busca 4CW5Y en la app de SHEIN y revisa las condiciones para tu cuenta antes de comprar",
+      "text": "Abre SHEIN con el enlace, busca 4CW5Y en la app o en el sitio y mira la selección con descuentos antes de comprar",
       "label": "Ir a SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60160,7 +60160,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday 2026 tombe le 27 novembre. Début novembre, SHEIN est en pleine promo 11.11 et n'a pas encore publié la page du Black Friday ; d'après l'historique, les offres principales arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y est un code de parrainage : on le cherche dans l'appli, sans promesse de remise."
+          "Le Black Friday 2026 tombe le 27 novembre. Début novembre, SHEIN est en pleine promo 11.11 et n'a pas encore publié la page du Black Friday ; d'après l'historique, les offres principales arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y donne bien droit à une remise : recherchez-le dans l'appli ou sur le site SHEIN pour ouvrir une sélection en promotion."
         ]
       },
       {
@@ -60219,7 +60219,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la politique de coupons de SHEIN, un seul coupon de la plateforme peut être utilisé par commande. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
           "Les points SHEIN valent US$ 1 pour 100 points et déduisent jusqu'à 30 % de la valeur des produits, hors livraison et taxes.",
-          "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage SHEIN de Cecília. Vous recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande."
+          "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage SHEIN de Cecília, et il donne bien droit à une remise. Ouvrez SHEIN via le lien de Cecília et recherchez le 4CW5Y dans l'appli ou sur le site SHEIN : le code ouvre une page avec une sélection de produits recommandés, de promotions et de remises. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande."
         ],
         "links": [
           {
@@ -60256,14 +60256,14 @@ export const reviewsData: unknown[] = [
           "Jusqu'à quand dure le Black Friday de SHEIN ? En 2024 et 2025, jusqu'à la fin de novembre. En 2023, jusqu'au samedi après le Black Friday. Celui de 2026 n'a pas encore de date de fin.",
           "Qu'est-ce que le 11.11 de SHEIN ? C'est la promotion de la Fête des célibataires, le 11 du mois 11. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases de remise jusqu'à la fin du mois.",
           "Puis-je utiliser plus d'un coupon sur SHEIN ? Un coupon SHEIN par commande.",
-          "Le 4CW5Y est-il un coupon de réduction ? Non. C'est le code de parrainage SHEIN de Cecília : vous recherchez le code dans l'appli SHEIN et voyez les conditions pour votre compte.",
+          "Le 4CW5Y est-il un coupon de réduction ? Ce n'est pas un coupon, mais il donne bien droit à une remise : c'est le code de parrainage SHEIN de Cecília. Ouvrez SHEIN via le lien et recherchez le code dans l'appli ou sur le site : le code ouvre une sélection avec des promotions et des remises ; combien et sur quelles pièces, c'est SHEIN qui décide.",
           "La livraison est-elle gratuite pendant le Black Friday de SHEIN ? La livraison gratuite change à chaque phase de la campagne : vérifiez celle de votre commande dans le panier avant de payer.",
           "De combien de temps est-ce que je dispose pour retourner mes achats du Black Friday ? Jusqu'à 20 jours après la réception, selon les conditions publiées par SHEIN (vérifiez la politique du site SHEIN de votre pays sur la page de votre commande). Sous-vêtements, maillots, bodies, boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
         ]
       }
     ],
     "cta": {
-      "text": "Recherchez 4CW5Y dans l'appli SHEIN et consultez les conditions de votre compte avant d'acheter",
+      "text": "Ouvrez SHEIN via le lien, recherchez 4CW5Y dans l'appli ou sur le site et consultez la sélection avec remises avant d'acheter",
       "label": "Aller sur SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60318,7 +60318,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der Black Friday 2026 fällt auf den 27. November. Anfang November konzentriert SHEIN seine Aktionen auf den 11.11 und hat noch keine Black-Friday-Seite veröffentlicht; nach den Vorjahren starten die Hauptangebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y ist ein Empfehlungscode: Sie geben ihn in die Suchleiste der SHEIN-App ein, ohne festes Rabattversprechen."
+          "Der Black Friday 2026 fällt auf den 27. November. Anfang November konzentriert SHEIN seine Aktionen auf den 11.11 und hat noch keine Black-Friday-Seite veröffentlicht; nach den Vorjahren starten die Hauptangebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y bringt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie in der App oder auf der Website nach 4CW5Y: Dann öffnet sich eine Auswahl mit Aktionen und Rabatten."
         ]
       },
       {
@@ -60377,7 +60377,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Nach der Gutscheinrichtlinie von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Jeder Gutschein hat ein Ablaufdatum, danach ist er nicht mehr verfügbar.",
           "SHEIN-Punkte sind US$ 1 pro 100 Punkte wert und senken den Warenwert um bis zu 30 %, ohne Versand und Steuern.",
-          "4CW5Y ist kein Gutschein, sondern Cecílias SHEIN-Empfehlungscode. Sie suchen 4CW5Y in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen."
+          "4CW5Y ist kein Gutschein, sondern Cecílias SHEIN-Empfehlungscode, und er bringt Rabatt. Öffnen Sie SHEIN über Cecílias Link und suchen Sie in der SHEIN-App oder auf der Website nach 4CW5Y: Der Code öffnet eine Seite mit einer Auswahl empfohlener Produkte, Aktionen und Rabatte. Wie hoch und auf welche Artikel, entscheidet SHEIN und variiert. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen."
         ],
         "links": [
           {
@@ -60414,14 +60414,14 @@ export const reviewsData: unknown[] = [
           "Wie lange läuft der Black Friday von SHEIN? 2024 und 2025 bis Ende November. 2023 bis zum Samstag nach dem Black Friday. Der von 2026 hat noch kein Enddatum.",
           "Was ist der 11.11 von SHEIN? Das ist die Aktion zum Singles' Day, am 11. Tag des 11. Monats. SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Rabattphasen bis Monatsende.",
           "Kann ich bei SHEIN mehr als einen Gutschein nutzen? Ein SHEIN-Gutschein pro Bestellung.",
-          "Ist 4CW5Y ein Rabattgutschein? Nein. Es ist Cecílias SHEIN-Empfehlungscode: Sie suchen den Code in der SHEIN-App und sehen die Bedingungen für Ihr Konto.",
+          "Ist 4CW5Y ein Rabattgutschein? Kein Gutschein, aber er bringt Rabatt: Es ist Cecílias SHEIN-Empfehlungscode. Öffnen Sie SHEIN über den Link und suchen Sie in der App oder auf der Website nach dem Code: Er öffnet eine Auswahl mit Aktionen und Rabatten; wie hoch und auf welche Artikel, entscheidet SHEIN.",
           "Gibt es am Black Friday von SHEIN kostenlosen Versand? Der kostenlose Versand ändert sich mit jeder Phase der Aktion: Prüfen Sie den Ihrer Bestellung im Warenkorb, bevor Sie bezahlen.",
           "Wie lange habe ich Zeit, am Black Friday Gekauftes zurückzugeben? Bis zu 20 Tage nach Erhalt, nach den veröffentlichten SHEIN-Bedingungen (prüfen Sie die Regelung der SHEIN-Seite Ihres Landes auf der Seite Ihrer Bestellung). Unterwäsche, Bademode, Bodys, Ohrringe und einige andere Artikel gehen nur innerhalb von 7 Tagen zurück."
         ]
       }
     ],
     "cta": {
-      "text": "Suchen Sie 4CW5Y in der SHEIN-App und prüfen Sie vor dem Kauf die Bedingungen für Ihr Konto",
+      "text": "Öffnen Sie SHEIN über den Link, suchen Sie 4CW5Y in der App oder auf der Website und sehen Sie sich vor dem Kauf die Auswahl mit Rabatten an",
       "label": "Zu SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60476,7 +60476,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il Black Friday 2026 cade il 27 novembre. A inizio novembre SHEIN concentra le promozioni sull'11.11 e non ha ancora pubblicato la pagina del Black Friday; dallo storico, le offerte principali partono dopo l'11.11 e proseguono fino a fine mese. Il 4CW5Y è un codice di invito: si cerca nella barra di ricerca dell'app, senza promessa di sconto fisso."
+          "Il Black Friday 2026 cade il 27 novembre. A inizio novembre SHEIN concentra le promozioni sull'11.11 e non ha ancora pubblicato la pagina del Black Friday; dallo storico, le offerte principali partono dopo l'11.11 e proseguono fino a fine mese. Il 4CW5Y dà sconto, sì: apri SHEIN dal link di Cecília e cerca il 4CW5Y nell'app o sul sito, così si apre una selezione con promozioni e sconti."
         ]
       },
       {
@@ -60535,7 +60535,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la politica dei coupon di SHEIN, vale un coupon della piattaforma per ordine. Ogni coupon ha una scadenza, e quello non usato in tempo non è più disponibile.",
           "I punti SHEIN valgono US$ 1 ogni 100 punti e scontano fino al 30% del valore dei prodotti, escluse spedizione e imposte.",
-          "Il 4CW5Y non è un coupon: è il codice invito SHEIN di Cecília. Cerchi 4CW5Y nell'app SHEIN e controlli le condizioni che compaiono per il tuo account. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine."
+          "Il 4CW5Y non è un coupon: è il codice invito SHEIN di Cecília, e dà sconto, sì. Apri SHEIN dal link di Cecília e cerca il 4CW5Y nell'app o sul sito SHEIN: il codice apre una pagina con una selezione di prodotti consigliati, promozioni e sconti. Quanto e su quali capi lo decide SHEIN e varia. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine."
         ],
         "links": [
           {
@@ -60572,14 +60572,14 @@ export const reviewsData: unknown[] = [
           "Fino a quando dura il Black Friday di SHEIN? Nel 2024 e nel 2025, fino a fine novembre. Nel 2023, fino al sabato dopo il Black Friday. Quello del 2026 non ha ancora una data di fine.",
           "Cos'è l'11.11 di SHEIN? È la promozione del Singles' Day, l'11 del mese 11. SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi di sconto fino a fine mese.",
           "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine.",
-          "Il 4CW5Y è un coupon sconto? No. È il codice invito SHEIN di Cecília: cerchi il codice nell'app SHEIN e vedi le condizioni per il tuo account.",
+          "Il 4CW5Y è un coupon sconto? Non è un coupon, ma dà sconto, sì: è il codice invito SHEIN di Cecília. Apri SHEIN dal link e cerca il codice nell'app o sul sito: il codice apre una selezione con promozioni e sconti; quanto e su quali capi lo decide SHEIN.",
           "C'è la spedizione gratuita nel Black Friday di SHEIN? La spedizione gratuita cambia a ogni fase della campagna: controlla quella del tuo ordine nel carrello prima di pagare.",
           "Quanto tempo ho per rendere ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione, secondo le condizioni pubblicate da SHEIN (controlla la politica del sito SHEIN del tuo paese nella pagina del tuo ordine). Intimo, costumi da bagno, body, orecchini e alcuni altri articoli si rendono solo entro 7 giorni."
         ]
       }
     ],
     "cta": {
-      "text": "Cerca 4CW5Y nell'app SHEIN e controlla le condizioni del tuo account prima di comprare",
+      "text": "Apri SHEIN dal link, cerca 4CW5Y nell'app o sul sito e guarda la selezione con sconti prima di comprare",
       "label": "Vai su SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60634,7 +60634,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "2026년 블랙프라이데이는 11월 27일입니다. 11월 초 현재 SHEIN은 11.11 프로모션에 집중하고 있으며 공식 블랙프라이데이 페이지는 아직 공개하지 않았습니다. 지난 기록상 주요 할인은 11.11 이후 본격화되어 월말까지 이어집니다. 4CW5Y는 추천 코드로, SHEIN 앱 검색창에 직접 입력해 검색하며 고정 할인율을 약속하지 않습니다."
+          "2026년 블랙프라이데이는 11월 27일입니다. 11월 초 현재 SHEIN은 11.11 프로모션에 집중하고 있으며 공식 블랙프라이데이 페이지는 아직 공개하지 않았습니다. 지난 기록상 주요 할인은 11.11 이후 본격화되어 월말까지 이어집니다. 4CW5Y는 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하면 상품과 프로모션, 할인 모음 페이지가 열립니다."
         ]
       },
       {
@@ -60693,7 +60693,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN의 쿠폰 정책에 따르면 플랫폼 쿠폰은 주문당 하나입니다. 쿠폰마다 유효기간이 있으며, 제때 쓰지 않으면 사용할 수 없게 됩니다.",
           "SHEIN 포인트는 100포인트가 US$ 1이고, 상품 금액의 최대 30%까지 차감합니다. 배송비와 세금은 제외입니다.",
-          "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 4CW5Y를 검색하고, 계정에 표시되는 조건을 확인하세요. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
+          "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드이며, 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하면 추천 상품과 프로모션, 할인 모음 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
         ],
         "links": [
           {
@@ -60730,14 +60730,14 @@ export const reviewsData: unknown[] = [
           "SHEIN 블랙프라이데이는 언제까지인가요? 2024년과 2025년에는 11월 말까지였습니다. 2023년에는 블랙프라이데이 다음 토요일까지였습니다. 2026년은 아직 종료일이 없습니다.",
           "SHEIN 11.11이 무엇인가요? 11월 11일 광군제 할인입니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶어 월말까지 단계별로 할인합니다.",
           "SHEIN에서 쿠폰을 두 개 이상 쓸 수 있나요? SHEIN 쿠폰은 주문당 하나입니다.",
-          "4CW5Y는 할인 쿠폰인가요? 아니요. Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 계정의 조건을 볼 수 있습니다.",
+          "4CW5Y는 할인 쿠폰인가요? 쿠폰은 아니지만 할인이 적용됩니다. Cecília의 SHEIN 추천 코드로, 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인 모음이 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다.",
           "SHEIN 블랙프라이데이에 무료 배송이 있나요? 무료 배송은 캠페인 단계마다 달라집니다. 결제 전에 장바구니에서 주문의 배송비를 확인하세요.",
           "블랙프라이데이에 산 상품은 얼마나 반품할 수 있나요? SHEIN이 공개한 조건으로는 수령 후 20일 이내입니다(해당 국가 SHEIN 사이트의 반품 정책은 주문 페이지에서 확인하세요). 속옷, 수영복, 보디수트, 귀걸이 등 일부 상품은 7일 안에만 반품됩니다."
         ]
       }
     ],
     "cta": {
-      "text": "SHEIN 앱에서 4CW5Y를 검색하고 구매 전에 계정에 표시되는 조건을 확인하세요",
+      "text": "링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색해 구매 전에 할인 모음을 확인하세요",
       "label": "SHEIN으로 이동",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60792,7 +60792,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "2026年のブラックフライデーは11月27日です。11月初旬の現在、SHEINは11.11セールに注力しており、公式なブラックフライデー特集ページは未公開です。過去の実績では、主要なセールは11.11以降に本格化し月末まで続きます。4CW5Yは紹介コードで、SHEINアプリの検索バーに入力して使用し、固定の割引率は約束されません。"
+          "2026年のブラックフライデーは11月27日です。11月初旬の現在、SHEINは11.11セールに注力しており、公式なブラックフライデー特集ページは未公開です。過去の実績では、主要なセールは11.11以降に本格化し月末まで続きます。4CW5Yは割引になります。SHEINのアプリかサイトで検索すると、セールと割引の特集ページが開きます。"
         ]
       },
       {
@@ -60851,7 +60851,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEINのクーポン規定では、プラットフォームのクーポンは1注文につき1枚です。クーポンにはそれぞれ有効期限があり、期限内に使わなかったものは使えなくなります。",
           "SHEIN ポイントは、100ポイントがUS$ 1に相当し、商品代金の最大30%まで割り引けます。送料と税金は対象外です。",
-          "4CW5Yはクーポンではなく、CecíliaのSHEIN紹介コードです。SHEINのアプリで4CW5Yを検索し、ご自身のアカウントに表示される条件を確認してください。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。"
+          "4CW5YはクーポンではなくCecíliaのSHEIN紹介コードですが、割引になります。CecíliaのリンクからSHEINを開き、アプリかサイトで4CW5Yを検索すると、おすすめ商品とセール・割引の特集ページが開きます。割引率や対象商品はSHEINが決めるため変わります。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。"
         ],
         "links": [
           {
@@ -60888,14 +60888,14 @@ export const reviewsData: unknown[] = [
           "SHEINのブラックフライデーはいつまでですか？2024年と2025年は11月末まででした。2023年は、ブラックフライデーの翌土曜日まででした。2026年はまだ終了日が出ていません。",
           "SHEINの11.11とは何ですか？11月11日の独身の日のセールです。SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末まで段階的に割引を行います。",
           "SHEINでクーポンを複数使えますか？SHEINのクーポンは1注文につき1枚です。",
-          "4CW5Yは割引クーポンですか？いいえ。CecíliaのSHEIN紹介コードです。SHEINのアプリでコードを検索すると、ご自身のアカウントの条件が表示されます。",
+          "4CW5Yは割引クーポンですか？クーポンではありませんが、割引になります。CecíliaのSHEIN紹介コードです。リンクからSHEINを開き、アプリかサイトでコードを検索すると、セールと割引の特集が開きます。割引率や対象商品はSHEINが決めます。",
           "SHEINのブラックフライデーは送料無料ですか？送料無料はキャンペーンのフェーズごとに変わります。支払う前に、カートでご自分の注文の送料を確認してください。",
           "ブラックフライデーに買った商品は、どのくらいの期間返品できますか？SHEINの公開条件では、受け取りから20日以内です（お住まいの国のSHEINサイトの返品ポリシーは注文ページで確認してください）。下着、水着、ボディスーツ、ピアスなど一部の商品は、7日以内にしか返品できません。"
         ]
       }
     ],
     "cta": {
-      "text": "SHEINのアプリで4CW5Yを検索し、購入前にアカウントに表示される条件を確認しましょう",
+      "text": "リンクからSHEINを開き、アプリまたはサイトで4CW5Yを検索して、購入前に割引の特集を確認しましょう",
       "label": "SHEIN へ進む",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60950,7 +60950,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正集中推廣 11.11 活動，尚未開放正式的黑色星期五活動頁面；依往年經驗，主力折扣在 11.11 後陸續登場並持續至月底。4CW5Y 是推薦碼，請在 SHEIN App 搜尋欄輸入查詢，不承諾固定折扣比率。"
+          "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正集中推廣 11.11 活動，尚未開放正式的黑色星期五活動頁面；依往年經驗，主力折扣在 11.11 後陸續登場並持續至月底。4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，會開啟一個含商品、促銷和折扣的頁面。"
         ]
       },
       {
@@ -61009,7 +61009,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "依照 SHEIN 的優惠券政策，每筆訂單可使用一張平台優惠券。每張優惠券都有使用期限，沒有及時使用就會失效。",
           "SHEIN 點數每 100 點折抵 US$ 1，最多可折抵商品金額的 30%，不含運費與稅金。",
-          "4CW5Y 不是優惠券，而是 Cecília 的 SHEIN 推薦碼。請在 SHEIN App 中搜尋 4CW5Y，並查看你的帳號顯示的條件。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。"
+          "4CW5Y 不是優惠券，而是 Cecília 的 SHEIN 推薦碼，使用它確實有折扣。透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，該碼會開啟一個含推薦商品、促銷和折扣的頁面。折扣多少、涵蓋哪些商品由 SHEIN 決定，並會變動。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。"
         ],
         "links": [
           {
@@ -61046,14 +61046,14 @@ export const reviewsData: unknown[] = [
           "SHEIN 的黑色星期五持續到什麼時候？2024 年與 2025 年都持續到 11 月底。2023 年持續到黑色星期五之後的那個週六。2026 年還沒有結束日期。",
           "SHEIN 的 11.11 是什麼？是 11 月 11 日的光棍節促銷。SHEIN 把 11.11 和黑色星期五合併成同一檔活動，分階段打折，直到月底。",
           "在 SHEIN 可以同時使用多張優惠券嗎？每筆訂單只能使用一張 SHEIN 優惠券。",
-          "4CW5Y 是折扣優惠券嗎？不是。它是 Cecília 的 SHEIN 推薦碼：你在 SHEIN App 裡搜尋這個碼，就能看到適用於你帳號的條件。",
+          "4CW5Y 是折扣優惠券嗎？不是優惠券，但確實有折扣。它是 Cecília 的 SHEIN 推薦碼：透過連結開啟 SHEIN，再在 App 或網站搜尋這個碼，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。",
           "SHEIN 黑色星期五有免運費嗎？免運費會隨活動階段改變：付款前，請在購物車裡確認你這筆訂單的運費。",
           "黑色星期五買的東西，多久內可以退貨？按 SHEIN 公布的條件，收貨後 20 天內（請在訂單頁面查看所在國家 SHEIN 站點的退貨政策）。內衣、泳裝、連身衣、耳環等部分商品只能在 7 天內退貨。"
         ]
       }
     ],
     "cta": {
-      "text": "在 SHEIN App 中搜尋 4CW5Y，購買前先查看帳號顯示的條件",
+      "text": "透過連結開啟 SHEIN，在 App 或網站搜尋 4CW5Y，購買前先查看折扣商品頁面",
       "label": "前往 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -61108,7 +61108,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正重点开展 11.11 促销活动，尚未开放正式的黑色星期五页面；从往年规律看，主要优惠在 11.11 之后陆续上线并延续至月底。4CW5Y 是推荐码，需在 SHEIN App 搜索栏中输入检索，不承诺固定折扣比例。"
+          "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正重点开展 11.11 促销活动，尚未开放正式的黑色星期五页面；从往年规律看，主要优惠在 11.11 之后陆续上线并延续至月底。4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索 4CW5Y，会打开一个含商品、促销和折扣的页面。"
         ]
       },
       {
@@ -61167,7 +61167,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "按照 SHEIN 的优惠券政策，每笔订单可用一张平台优惠券。每张优惠券都有有效期，没有及时使用就会失效。",
           "SHEIN 积分每 100 分抵 US$ 1，最多可抵商品金额的 30%，不含运费和税金。",
-          "4CW5Y 不是优惠券，而是 Cecília 的 SHEIN 推荐码。请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。SHEIN 的活动随时都在变：下单前，请先到本站的店铺页面查看目前的活动。"
+          "4CW5Y 不是优惠券，而是 Cecília 的 SHEIN 推荐码，用它确实有折扣。通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索 4CW5Y，该码会打开一个含推荐商品、促销和折扣的页面。折扣多少、涉及哪些商品由 SHEIN 决定，并会变化。SHEIN 的活动随时都在变：下单前，请先到本站的店铺页面查看目前的活动。"
         ],
         "links": [
           {
@@ -61204,14 +61204,14 @@ export const reviewsData: unknown[] = [
           "SHEIN 的黑色星期五持续到什么时候？2024 年和 2025 年都持续到 11 月底。2023 年持续到黑色星期五之后的那个周六。2026 年还没有结束日期。",
           "SHEIN 的 11.11 是什么？是 11 月 11 日的光棍节促销。SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段打折，直到月底。",
           "在 SHEIN 可以同时用多张优惠券吗？每笔订单只能用一张 SHEIN 优惠券。",
-          "4CW5Y 是折扣优惠券吗？不是。它是 Cecília 的 SHEIN 推荐码：你在 SHEIN App 里搜索这个码，就能看到适用于你账户的条件。",
+          "4CW5Y 是折扣优惠券吗？不是优惠券，但确实有折扣。它是 Cecília 的 SHEIN 推荐码：通过链接打开 SHEIN，再在 App 或网站搜索这个码，会打开含促销和折扣的商品页面；折扣多少、涉及哪些商品由 SHEIN 决定。",
           "SHEIN 黑色星期五有免运费吗？免运费会随活动阶段变化：付款前，请在购物车里确认你这笔订单的运费。",
           "黑色星期五买的东西，多久内可以退货？按 SHEIN 公布的条件，收货后 20 天内（请在订单页面查看所在国家 SHEIN 站点的退货政策）。内衣、泳装、连体衣、耳环等部分商品只能在 7 天内退货。"
         ]
       }
     ],
     "cta": {
-      "text": "在 SHEIN App 中搜索 4CW5Y，购买前先查看账户显示的条件",
+      "text": "通过链接打开 SHEIN，在 App 或网站搜索 4CW5Y，购买前先查看折扣商品页面",
       "label": "前往 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -64222,8 +64222,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O código de indicação da SHEIN vai na busca da loja, não no campo de cupom, e não dá desconto fixo. Veja o passo a passo, o que ele abre e como ter o seu código.",
-    "metaDescription": "Código de indicação SHEIN: pesquise 4CW5Y no app da SHEIN, sem desconto fixo. Passo a passo com telas e o que ele abre.",
+    "description": "O código de indicação da SHEIN dá desconto, sim, numa seleção de produtos e promoções. Veja onde colocar na busca, o passo a passo, o que ele abre e como ter o seu código.",
+    "metaDescription": "Código de indicação SHEIN 4CW5Y: dá desconto, sim, numa seleção de produtos. Use o link ou pesquise no app ou no site. Passo a passo com telas.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-07",
@@ -64239,13 +64239,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O código de indicação da SHEIN vai na busca da loja, no aplicativo ou no site pelo celular, e não no campo de cupom. Ele não dá um desconto fixo: abre a página de quem divulgou o código, com as ofertas que a loja mostrar ali. O 4CW5Y é o código da Cecília; o passo a passo está abaixo."
+          "O código de indicação da SHEIN dá desconto, sim: use o link da Cecília ou copie o 4CW5Y e pesquise na busca do aplicativo ou do site, e não no campo de cupom. Abre uma página especial com seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN."
         ]
       },
       {
         "heading": "Onde colocar o código de indicação da SHEIN",
         "paragraphs": [
-          "Pesquise o código na busca do aplicativo da SHEIN. As telas abaixo são do site da SHEIN no celular, sem login:"
+          "Pesquise o código na busca do aplicativo ou do site da SHEIN. As telas abaixo são do site da SHEIN no celular, sem login:"
         ],
         "bullets": [
           "**Passo 1:** toque na barra de busca da SHEIN.",
@@ -64284,7 +64284,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que aparece depois da pesquisa e o que você ganha",
         "paragraphs": [
           "Quem pesquisa o código de um afiliado vê a página de seleções dele, informa a SHEIN. Se quem divulgou o código ainda não escolheu produtos, aparece a página padrão de seleções da SHEIN. Em 12/10/2026, a pesquisa pelo 4CW5Y abriu uma página de recomendações com o título \"Acho que você pode gostar\".",
-          "Não há um desconto fixo ligado ao código. Quem chega pelo afiliado pode receber as vantagens mostradas nas páginas de campanha ou de produto, atualizadas com frequência. As campanhas em vigor ficam na página da SHEIN aqui do site."
+          "O 4CW5Y dá desconto, sim: a página que ele abre reúne uma seleção de produtos com promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN, e varia, com as vantagens mostradas nas páginas de campanha ou de produto, atualizadas com frequência. As campanhas em vigor ficam na página da SHEIN aqui do site."
         ],
         "links": [
           {
@@ -64316,17 +64316,17 @@ export const reviewsData: unknown[] = [
           "Onde colocar o código de indicação da SHEIN? Na barra de busca do aplicativo ou do site da SHEIN no celular, não no campo de cupom.",
           "Como usar o código de indicação da SHEIN? Abra a busca, digite o código, toque na lupa e monte o carrinho a partir da página que abrir.",
           "Como funciona o código de indicação SHEIN? Ele abre a página ligada ao código. Compras feitas por esse caminho podem gerar comissão para quem o compartilhou, sem custo extra para você.",
-          "O código de indicação da SHEIN dá desconto? Não há um desconto fixo: você pode receber as ofertas que a SHEIN mostrar na página que o código abre.",
+          "O código de indicação da SHEIN dá desconto? Dá, sim: o 4CW5Y abre uma página com seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN, e varia.",
           "O código de indicação é a mesma coisa que cupom? Não. Segundo a SHEIN, o código vai na caixa de busca, e não como cupom.",
           "Como saber meu código de indicação da SHEIN? O código de indicação sai do programa de afiliados da SHEIN. Depois do cadastro, feito pela busca \"afiliado\" no aplicativo, ele aparece na página inicial de afiliado.",
-          "O código de indicação de 2024 ou 2025 ainda vale? Os códigos do programa antigo, que acabou em 2024, foram desativados junto com o cupom de R$ 10. No programa atual, o código leva à página do afiliado, sem desconto fixo, e o 4CW5Y é o código atual da Cecília.",
+          "O código de indicação de 2024 ou 2025 ainda vale? Os códigos do programa antigo, que acabou em 2024, foram desativados junto com o cupom de R$ 10. No programa atual, o código leva à página do afiliado, com a seleção de produtos e descontos da SHEIN, e o 4CW5Y é o código atual da Cecília.",
           "Preciso criar uma conta nova para usar o código? Não: quando conferimos, a pesquisa abriu a página mesmo sem login. Ofertas só para novos usuários, quando existem, aparecem marcadas na campanha.",
-          "Dá para usar o código de indicação no computador? A SHEIN fala em pesquisar o código no aplicativo; o guia mostra o site no celular, e no computador não conferimos."
+          "Dá para usar o código de indicação no computador? Dá: copie o 4CW5Y e pesquise no site da SHEIN, ou use o link da Cecília. O guia mostra o site no celular."
         ]
       }
     ],
     "cta": {
-      "text": "Abra a SHEIN pelo link da Cecília ou pesquise 4CW5Y na busca do aplicativo",
+      "text": "Abra a SHEIN pelo link da Cecília ou copie o 4CW5Y e pesquise no app ou no site da SHEIN",
       "label": "Abrir a SHEIN",
       "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
       "sponsored": true
@@ -64360,7 +64360,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "The SHEIN referral code goes in the store's search bar, not the coupon field, and it gives no fixed discount. See the steps, what it opens and how to get your own code.",
+    "description": "The SHEIN referral code does give a discount, on a selection of products and promotions. See where to enter it in search, the steps, what it opens and how to get your own code.",
     "metaDescription": "The SHEIN referral code goes in the search bar, not the coupon field. See the step-by-step with screenshots, what it opens, what changed in 2024 and how to get yours.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
@@ -64377,13 +64377,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The SHEIN referral code goes in the store's search bar, in the app or on the website on your phone, not in the coupon field. It does not give a fixed discount: it opens the page of the person who shared the code, with the offers the store shows there. 4CW5Y is Cecília's code; the step-by-step is below."
+          "The SHEIN referral code does give a discount. Open SHEIN through Cecília's link and search 4CW5Y in the store's search bar, in the app or on the website, not in the coupon field: the code opens a special page with a selection of products, promotions and discounts. How much and on which pieces is up to SHEIN, and it varies."
         ]
       },
       {
         "heading": "Where to enter the SHEIN referral code",
         "paragraphs": [
-          "Search for the code in the search bar of the SHEIN app. The screens below are from the SHEIN website on a phone, not logged in:"
+          "Search for the code in the search bar of the SHEIN app or website. The screens below are from the SHEIN website on a phone, not logged in:"
         ],
         "bullets": [
           "**Step 1:** tap the SHEIN search bar.",
@@ -64422,7 +64422,7 @@ export const reviewsData: unknown[] = [
         "heading": "What shows up after the search and what you get",
         "paragraphs": [
           "When you search for an affiliate's code, you see their selection page, SHEIN says. If the person who shared the code hasn't picked products yet, SHEIN's default selection page appears. On October 12, 2026, searching for 4CW5Y opened a recommendations page titled \"Acho que você pode gostar\".",
-          "There is no fixed discount tied to the code. If you arrive through the affiliate, you may get the perks shown on campaign or product pages, which are updated often. The campaigns currently running are on the SHEIN page here on the site."
+          "4CW5Y does give you a discount: the page it opens gathers a selection of products with promotions and discounts. How much and on which pieces is up to SHEIN, and it varies, with the perks shown on campaign or product pages, which are updated often. The campaigns currently running are on the SHEIN page here on the site."
         ],
         "links": [
           {
@@ -64454,17 +64454,17 @@ export const reviewsData: unknown[] = [
           "Where do I enter the SHEIN referral code? In the search bar of the SHEIN app or website on your phone, not in the coupon field.",
           "How do I use the SHEIN referral code? Open the search, type the code, tap the magnifying glass and fill your cart from the page that opens.",
           "How does the SHEIN referral code work? It opens the page linked to the code. Purchases made through that route may earn the person who shared it a commission, at no extra cost to you.",
-          "Does the SHEIN referral code give a discount? There is no fixed discount: you may get the offers SHEIN shows on the page the code opens.",
+          "Does the SHEIN referral code give a discount? Yes: 4CW5Y opens a page with a selection of products, promotions and discounts. How much and on which pieces is up to SHEIN, and it varies.",
           "Is the referral code the same as a coupon? No. According to SHEIN, the code goes in the search box, not as a coupon.",
           "How do I find my SHEIN referral code? The referral code comes from SHEIN's affiliate program. After you sign up, using the search for the affiliate program in the app, it appears on the affiliate home page.",
-          "Is a 2024 or 2025 referral code still valid? Codes from the old program, which ended in 2024, were deactivated along with the old program's coupon. In the current program, the code leads to the affiliate's page, with no fixed discount, and 4CW5Y is Cecília's current code.",
+          "Is a 2024 or 2025 referral code still valid? Codes from the old program, which ended in 2024, were deactivated along with the old program's coupon. In the current program, the code leads to the affiliate's page, with SHEIN's selection of products and discounts, and 4CW5Y is Cecília's current code.",
           "Do I need to create a new account to use the code? No: when we checked, the search opened the page even without logging in. Offers for new users only, when they exist, are marked on the campaign.",
-          "Can I use the referral code on a computer? SHEIN talks about searching for the code in the app; the guide shows the website on a phone, and we didn't check on a computer."
+          "Can I use the referral code on a computer? Yes: open the SHEIN website, directly or through Cecília's link, and search for 4CW5Y there. The guide shows the website on a phone."
         ]
       }
     ],
     "cta": {
-      "text": "Open SHEIN through Cecília's link or search 4CW5Y in the search bar of the SHEIN app",
+      "text": "Open SHEIN through Cecília's link or copy 4CW5Y and search it in the SHEIN app or on the website",
       "label": "Open SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -64498,7 +64498,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "El código de referido de SHEIN va en el buscador de la tienda, no en el campo de cupón, y no da un descuento fijo. Mira el paso a paso, qué abre y cómo conseguir el tuyo.",
+    "description": "El código de referido de SHEIN sí da descuento, en una selección de productos y promociones. Mira dónde ponerlo en el buscador, el paso a paso, qué abre y cómo conseguir el tuyo.",
     "metaDescription": "El código de referido de SHEIN va en el buscador, no en el campo de cupón. Mira el paso a paso con capturas, qué abre, qué cambió en 2024 y cómo conseguir el tuyo.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
@@ -64515,13 +64515,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El código de referido de SHEIN va en el buscador de la tienda, en la app o en el sitio desde el móvil, y no en el campo de cupón. No da un descuento fijo: abre la página de quien compartió el código, con las ofertas que la tienda muestre allí. 4CW5Y es el código de Cecília; el paso a paso está abajo."
+          "El código de referido de SHEIN sí da descuento. Abre SHEIN con el enlace de Cecília y busca 4CW5Y en el buscador de la tienda, en la app o en el sitio, y no en el campo de cupón: el código abre una página especial con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía."
         ]
       },
       {
         "heading": "Dónde poner el código de referido de SHEIN",
         "paragraphs": [
-          "Busca el código en el buscador de la app de SHEIN. Las pantallas de abajo son del sitio de SHEIN en el móvil, sin iniciar sesión:"
+          "Busca el código en el buscador de la app o del sitio de SHEIN. Las pantallas de abajo son del sitio de SHEIN en el móvil, sin iniciar sesión:"
         ],
         "bullets": [
           "**Paso 1:** toca la barra de búsqueda de SHEIN.",
@@ -64560,7 +64560,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qué aparece después de la búsqueda y qué recibes",
         "paragraphs": [
           "Quien busca el código de un afiliado ve la página de selecciones de esa persona, informa SHEIN. Si quien compartió el código aún no eligió productos, aparece la página de selecciones predeterminada de SHEIN. El 12 de octubre de 2026, la búsqueda de 4CW5Y abrió una página de recomendaciones con el título \"Acho que você pode gostar\".",
-          "No hay un descuento fijo vinculado al código. Quien llega por el afiliado puede recibir las ventajas que se muestran en las páginas de campaña o de producto, que se actualizan con frecuencia. Las campañas vigentes están en la página de SHEIN de este sitio."
+          "4CW5Y sí da descuento: la página que abre reúne una selección de productos con promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía, según las ventajas que se muestran en las páginas de campaña o de producto, que se actualizan con frecuencia. Las campañas vigentes están en la página de SHEIN de este sitio."
         ],
         "links": [
           {
@@ -64592,17 +64592,17 @@ export const reviewsData: unknown[] = [
           "¿Dónde se pone el código de referido de SHEIN? En la barra de búsqueda de la app o del sitio de SHEIN en el móvil, no en el campo de cupón.",
           "¿Cómo se usa el código de referido de SHEIN? Abre el buscador, escribe el código, toca la lupa y arma el carrito desde la página que se abra.",
           "¿Cómo funciona el código de referido de SHEIN? Abre la página vinculada al código. Las compras realizadas por esa vía pueden generar una comisión para quien lo compartió, sin costo extra para ti.",
-          "¿El código de referido de SHEIN da descuento? No hay un descuento fijo: puedes recibir las ofertas que SHEIN muestre en la página que abre el código.",
+          "¿El código de referido de SHEIN da descuento? Sí: 4CW5Y abre una página con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía.",
           "¿El código de referido es lo mismo que un cupón? No. Según SHEIN, el código va en el cuadro de búsqueda y no como cupón.",
           "¿Cómo saber cuál es mi código de referido de SHEIN? El código de referido sale del programa de afiliados de SHEIN. Después del registro, hecho con la búsqueda \"afiliado\" en la app, aparece en la página de inicio de afiliado.",
-          "¿Sigue valiendo un código de referido de 2024 o 2025? Los códigos del programa antiguo, que terminó en 2024, se desactivaron junto con el cupón del programa antiguo. En el programa actual, el código lleva a la página del afiliado, sin descuento fijo, y 4CW5Y es el código actual de Cecília.",
+          "¿Sigue valiendo un código de referido de 2024 o 2025? Los códigos del programa antiguo, que terminó en 2024, se desactivaron junto con el cupón del programa antiguo. En el programa actual, el código lleva a la página del afiliado, con una selección de productos y descuentos de SHEIN, y 4CW5Y es el código actual de Cecília.",
           "¿Necesito crear una cuenta nueva para usar el código? No: cuando lo comprobamos, la búsqueda abrió la página incluso sin iniciar sesión. Las ofertas solo para usuarios nuevos, cuando existen, aparecen marcadas en la campaña.",
-          "¿Se puede usar el código de referido en el ordenador? SHEIN habla de buscar el código en la app; la guía muestra el sitio en el móvil y en el ordenador no lo comprobamos."
+          "¿Se puede usar el código de referido en el ordenador? Sí: abre el sitio de SHEIN, directamente o con el enlace de Cecília, y busca ahí 4CW5Y. La guía muestra el sitio en el móvil."
         ]
       }
     ],
     "cta": {
-      "text": "Abre SHEIN con el enlace de Cecília o busca 4CW5Y en la barra de búsqueda de la app de SHEIN",
+      "text": "Abre SHEIN con el enlace de Cecília o copia 4CW5Y y búscalo en la app o en el sitio de SHEIN",
       "label": "Abrir SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -64636,7 +64636,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Le code de parrainage SHEIN se saisit dans la recherche, pas dans le champ du code promo, et ne donne pas de réduction fixe. Voyez le pas à pas et comment obtenir le vôtre.",
+    "description": "Le code de parrainage SHEIN donne bien une réduction, sur une sélection de produits. Où le saisir dans la recherche, le pas à pas, ce qu'il ouvre et comment obtenir le vôtre.",
     "metaDescription": "Le code de parrainage SHEIN se saisit dans la recherche, pas dans le champ du code promo. Voyez le pas à pas avec captures, ce qu'il ouvre, ce qui a changé en 2024 et comment obtenir le vôtre.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -64653,13 +64653,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le code de parrainage SHEIN se saisit dans la recherche de la boutique, dans l'application ou sur le site depuis un téléphone, et non dans le champ du code promo. Il ne donne pas de réduction fixe : il ouvre la page de la personne qui a partagé le code, avec les offres que la boutique y affiche. 4CW5Y est le code de Cecília ; le pas à pas est ci-dessous."
+          "Le code de parrainage SHEIN donne bien une réduction. Ouvrez SHEIN avec le lien de Cecília et recherchez 4CW5Y dans la recherche de la boutique, dans l'application ou sur le site, et non dans le champ du code promo : le code ouvre une page spéciale avec une sélection de produits, des promotions et des réductions. Le montant et les pièces, c'est SHEIN qui décide, et cela varie."
         ]
       },
       {
         "heading": "Où saisir le code de parrainage SHEIN",
         "paragraphs": [
-          "Recherchez le code dans la barre de recherche de l'application SHEIN. Les écrans ci-dessous viennent du site SHEIN sur un téléphone, sans connexion :"
+          "Recherchez le code dans la barre de recherche de l'application ou du site SHEIN. Les écrans ci-dessous viennent du site SHEIN sur un téléphone, sans connexion :"
         ],
         "bullets": [
           "**Étape 1 :** touchez la barre de recherche de SHEIN.",
@@ -64698,7 +64698,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ce qui s'affiche après la recherche et ce que vous obtenez",
         "paragraphs": [
           "Qui recherche le code d'un affilié voit sa page de sélections, indique SHEIN. Si la personne qui a partagé le code n'a pas encore choisi de produits, la page de sélections par défaut de SHEIN s'affiche. Le 12 octobre 2026, la recherche de 4CW5Y a ouvert une page de recommandations intitulée « Acho que você pode gostar ».",
-          "Aucune réduction fixe n'est liée au code. Qui arrive par l'affilié peut bénéficier des avantages affichés sur les pages de campagne ou de produit, mis à jour fréquemment. Les campagnes en cours se trouvent sur la page SHEIN de ce site."
+          "4CW5Y donne bien une réduction : la page qu'il ouvre réunit une sélection de produits avec des promotions et des réductions. Le montant et les pièces concernées, c'est SHEIN qui les décide, et cela varie, selon les avantages affichés sur les pages de campagne ou de produit, mis à jour fréquemment. Les campagnes en cours se trouvent sur la page SHEIN de ce site."
         ],
         "links": [
           {
@@ -64730,17 +64730,17 @@ export const reviewsData: unknown[] = [
           "Où saisir le code de parrainage SHEIN ? Dans la barre de recherche de l'application ou du site SHEIN sur téléphone, pas dans le champ du code promo.",
           "Comment utiliser le code de parrainage SHEIN ? Ouvrez la recherche, saisissez le code, touchez la loupe et remplissez le panier depuis la page qui s'ouvre.",
           "Comment fonctionne le code de parrainage SHEIN ? Il ouvre la page associée au code. Les achats effectués par ce biais peuvent rapporter une commission à la personne qui l'a partagé, sans frais supplémentaires pour vous.",
-          "Le code de parrainage SHEIN donne-t-il une réduction ? Il n'y a pas de réduction fixe : vous pouvez bénéficier des offres que SHEIN affiche sur la page ouverte par le code.",
+          "Le code de parrainage SHEIN donne-t-il une réduction ? Oui : 4CW5Y ouvre une page avec une sélection de produits, des promotions et des réductions. Le montant et les pièces concernées, c'est SHEIN qui les décide, et cela varie.",
           "Le code de parrainage est-il la même chose qu'un code promo ? Non. Selon SHEIN, le code se saisit dans la zone de recherche, et non comme un code promo.",
           "Comment connaître mon code de parrainage SHEIN ? Le code de parrainage vient du programme d'affiliation de SHEIN. Après l'inscription, faite par la recherche du programme d'affiliation dans l'application, il apparaît sur la page d'accueil de l'affilié.",
-          "Un code de parrainage de 2024 ou 2025 est-il encore valable ? Les codes de l'ancien programme, terminé en 2024, ont été désactivés avec le code promo de l'ancien programme. Dans le programme actuel, le code mène à la page de l'affilié, sans réduction fixe, et 4CW5Y est le code actuel de Cecília.",
+          "Un code de parrainage de 2024 ou 2025 est-il encore valable ? Les codes de l'ancien programme, terminé en 2024, ont été désactivés avec le code promo de l'ancien programme. Dans le programme actuel, le code mène à la page de l'affilié, avec une sélection de produits et de réductions de SHEIN, et 4CW5Y est le code actuel de Cecília.",
           "Dois-je créer un nouveau compte pour utiliser le code ? Non : lors de notre vérification, la recherche a ouvert la page même sans connexion. Les offres réservées aux nouveaux clients, quand il y en a, sont signalées dans la campagne.",
-          "Peut-on utiliser le code de parrainage sur ordinateur ? SHEIN parle de rechercher le code dans l'application ; le guide montre le site sur téléphone, et nous n'avons pas vérifié sur ordinateur."
+          "Peut-on utiliser le code de parrainage sur ordinateur ? Oui : ouvrez le site SHEIN, directement ou par le lien de Cecília, et recherchez-y 4CW5Y. Le guide montre le site sur téléphone."
         ]
       }
     ],
     "cta": {
-      "text": "Ouvrez SHEIN via le lien de Cecília ou recherchez 4CW5Y dans la barre de recherche de l'application SHEIN",
+      "text": "Ouvrez SHEIN via le lien de Cecília ou copiez 4CW5Y et recherchez-le dans l'application ou sur le site SHEIN",
       "label": "Ouvrir SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -64774,7 +64774,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Der SHEIN-Empfehlungscode gehört in die Suche des Shops, nicht ins Gutscheinfeld, und gibt keinen festen Rabatt. Hier die Anleitung, was er öffnet und wie Sie Ihren Code bekommen.",
+    "description": "Der SHEIN-Empfehlungscode gibt Rabatt, und zwar auf eine Auswahl an Produkten. Hier steht, wo Sie ihn eingeben, die Anleitung, was er öffnet und wie Sie Ihren Code bekommen.",
     "metaDescription": "Der SHEIN-Empfehlungscode gehört in die Suche, nicht ins Gutscheinfeld. Hier die Anleitung mit Screenshots, was er öffnet, was sich 2024 geändert hat und wie Sie Ihren eigenen bekommen.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
@@ -64791,13 +64791,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der SHEIN-Empfehlungscode gehört in die Suche des Shops, in der App oder auf der Website im Smartphone-Browser, und nicht ins Gutscheinfeld. Er gibt keinen festen Rabatt: Er öffnet die Seite der Person, die den Code weitergegeben hat, mit den Angeboten, die der Shop dort zeigt. 4CW5Y ist der Code von Cecília; die Anleitung steht unten."
+          "Der SHEIN-Empfehlungscode gibt Rabatt. Öffnen Sie SHEIN über Cecílias Link und suchen Sie 4CW5Y in der Suche des Shops, in der App oder auf der Website, nicht im Gutscheinfeld: Der Code öffnet eine spezielle Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie hoch und auf welche Teile, entscheidet SHEIN, und das variiert."
         ]
       },
       {
         "heading": "Wo Sie den SHEIN-Empfehlungscode eingeben",
         "paragraphs": [
-          "Suchen Sie den Code in der Suchleiste der SHEIN-App. Die Screenshots unten stammen von der SHEIN-Website auf dem Smartphone, ohne Anmeldung:"
+          "Suchen Sie den Code in der Suchleiste der SHEIN-App oder -Website. Die Screenshots unten stammen von der SHEIN-Website auf dem Smartphone, ohne Anmeldung:"
         ],
         "bullets": [
           "**Schritt 1:** Tippen Sie auf die Suchleiste von SHEIN.",
@@ -64836,7 +64836,7 @@ export const reviewsData: unknown[] = [
         "heading": "Was nach der Suche erscheint und was Sie bekommen",
         "paragraphs": [
           "Wer nach dem Code eines Affiliates sucht, sieht dessen Auswahlseite, teilt SHEIN mit. Hat die Person, die den Code weitergegeben hat, noch keine Produkte ausgewählt, erscheint die Standard-Auswahlseite von SHEIN. Am 12. Oktober 2026 öffnete die Suche nach 4CW5Y eine Empfehlungsseite mit dem Titel \"Acho que você pode gostar\".",
-          "Mit dem Code ist kein fester Rabatt verbunden. Wer über den Affiliate kommt, kann die Vorteile erhalten, die auf den Kampagnen- oder Produktseiten gezeigt werden und die häufig aktualisiert werden. Die laufenden Kampagnen stehen auf der SHEIN-Seite hier auf der Website."
+          "4CW5Y gibt Rabatt: Die Seite, die er öffnet, bündelt eine Auswahl an Produkten mit Aktionen und Rabatten. Wie hoch und auf welche Teile, entscheidet SHEIN, und das variiert, mit den Vorteilen, die auf den Kampagnen- oder Produktseiten gezeigt und häufig aktualisiert werden. Die laufenden Kampagnen stehen auf der SHEIN-Seite hier auf der Website."
         ],
         "links": [
           {
@@ -64868,17 +64868,17 @@ export const reviewsData: unknown[] = [
           "Wo gebe ich den SHEIN-Empfehlungscode ein? In der Suchleiste der SHEIN-App oder der Website im Smartphone-Browser, nicht im Gutscheinfeld.",
           "Wie nutze ich den SHEIN-Empfehlungscode? Öffnen Sie die Suche, geben Sie den Code ein, tippen Sie auf die Lupe und füllen Sie den Warenkorb von der Seite aus, die aufgeht.",
           "Wie funktioniert der SHEIN-Empfehlungscode? Er öffnet die mit dem Code verknüpfte Seite. Käufe über diesen Weg können der Person, die ihn geteilt hat, eine Provision einbringen, ohne Mehrkosten für Sie.",
-          "Gibt der SHEIN-Empfehlungscode Rabatt? Es gibt keinen festen Rabatt: Sie können die Angebote erhalten, die SHEIN auf der Seite zeigt, die der Code öffnet.",
+          "Gibt der SHEIN-Empfehlungscode Rabatt? Ja: 4CW5Y öffnet eine Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie hoch und auf welche Teile, entscheidet SHEIN, und das variiert.",
           "Ist der Empfehlungscode dasselbe wie ein Gutschein? Nein. Laut SHEIN gehört der Code ins Suchfeld und nicht als Gutschein.",
           "Wie finde ich meinen SHEIN-Empfehlungscode? Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Nach der Anmeldung, die über die Suche nach dem Affiliate-Programm in der App erfolgt, erscheint er auf der Startseite für Affiliates.",
-          "Gilt ein Empfehlungscode von 2024 oder 2025 noch? Die Codes des alten Programms, das 2024 endete, wurden zusammen mit dem Gutschein des alten Programms deaktiviert. Im aktuellen Programm führt der Code zur Seite des Affiliates, ohne festen Rabatt, und 4CW5Y ist der aktuelle Code von Cecília.",
+          "Gilt ein Empfehlungscode von 2024 oder 2025 noch? Die Codes des alten Programms, das 2024 endete, wurden zusammen mit dem Gutschein des alten Programms deaktiviert. Im aktuellen Programm führt der Code zur Seite des Affiliates, mit einer Auswahl an Produkten und Rabatten von SHEIN, und 4CW5Y ist der aktuelle Code von Cecília.",
           "Muss ich ein neues Konto anlegen, um den Code zu nutzen? Nein: Bei unserer Prüfung öffnete die Suche die Seite auch ohne Anmeldung. Angebote nur für Neukunden werden, falls es welche gibt, in der Kampagne gekennzeichnet.",
-          "Kann ich den Empfehlungscode am Computer nutzen? SHEIN spricht davon, den Code in der App zu suchen; die Anleitung zeigt die Website auf dem Smartphone, und am Computer haben wir es nicht geprüft."
+          "Kann ich den Empfehlungscode am Computer nutzen? Ja: Öffnen Sie die SHEIN-Website, direkt oder über Cecílias Link, und suchen Sie dort nach 4CW5Y. Die Anleitung zeigt die Website auf dem Smartphone."
         ]
       }
     ],
     "cta": {
-      "text": "Öffnen Sie SHEIN über Cecílias Link oder geben Sie 4CW5Y in die Suche der SHEIN-App ein",
+      "text": "Öffnen Sie SHEIN über Cecílias Link oder kopieren Sie 4CW5Y und suchen Sie in der SHEIN-App oder auf der Website danach",
       "label": "SHEIN öffnen",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -64912,7 +64912,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Il codice invito SHEIN va nella ricerca del negozio, non nel campo del coupon, e non dà uno sconto fisso. Ecco la guida passo passo, cosa apre e come ottenere il tuo codice.",
+    "description": "Il codice invito SHEIN dà sconto, sì, su una selezione di prodotti e promozioni. Ecco dove inserirlo nella ricerca, la guida passo passo, cosa apre e come ottenere il tuo codice.",
     "metaDescription": "Il codice invito SHEIN va nella ricerca, non nel campo del coupon. Guarda la guida passo passo con le schermate, cosa apre, cosa è cambiato nel 2024 e come ottenere il tuo.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -64929,13 +64929,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il codice invito SHEIN va nella ricerca del negozio, nell'app o nel sito da smartphone, e non nel campo del coupon. Non dà uno sconto fisso: apre la pagina di chi ha condiviso il codice, con le offerte che il negozio mostra lì. 4CW5Y è il codice di Cecília; la guida passo passo è qui sotto."
+          "Il codice invito SHEIN dà sconto, sì. Apri SHEIN con il link di Cecília e cerca 4CW5Y nella ricerca del negozio, nell'app o nel sito, e non nel campo del coupon: il codice apre una pagina speciale con una selezione di prodotti, promozioni e sconti. Quanto e su quali capi lo decide SHEIN, e varia."
         ]
       },
       {
         "heading": "Dove inserire il codice invito SHEIN",
         "paragraphs": [
-          "Cerca il codice nella barra di ricerca dell'app SHEIN. Le schermate qui sotto sono del sito SHEIN su smartphone, senza accesso all'account:"
+          "Cerca il codice nella barra di ricerca dell'app o del sito SHEIN. Le schermate qui sotto sono del sito SHEIN su smartphone, senza accesso all'account:"
         ],
         "bullets": [
           "**Passo 1:** tocca la barra di ricerca di SHEIN.",
@@ -64974,7 +64974,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cosa compare dopo la ricerca e cosa ottieni",
         "paragraphs": [
           "Chi cerca il codice di un affiliato vede la sua pagina di selezioni, informa SHEIN. Se chi ha condiviso il codice non ha ancora scelto prodotti, compare la pagina di selezioni predefinita di SHEIN. Il 12 ottobre 2026, la ricerca di 4CW5Y ha aperto una pagina di consigli con il titolo \"Acho que você pode gostar\".",
-          "Non c'è uno sconto fisso legato al codice. Chi arriva tramite l'affiliato può ricevere i vantaggi mostrati nelle pagine di campagna o di prodotto, aggiornate spesso. Le campagne in corso sono nella pagina SHEIN di questo sito."
+          "4CW5Y dà sconto, sì: la pagina che apre riunisce una selezione di prodotti con promozioni e sconti. Quanto e su quali capi lo decide SHEIN, e varia, con i vantaggi mostrati nelle pagine di campagna o di prodotto, aggiornate spesso. Le campagne in corso sono nella pagina SHEIN di questo sito."
         ],
         "links": [
           {
@@ -65006,17 +65006,17 @@ export const reviewsData: unknown[] = [
           "Dove si inserisce il codice invito SHEIN? Nella barra di ricerca dell'app o del sito SHEIN da smartphone, non nel campo del coupon.",
           "Come si usa il codice invito SHEIN? Apri la ricerca, digita il codice, tocca la lente e riempi il carrello dalla pagina che si apre.",
           "Come funziona il codice invito SHEIN? Apre la pagina collegata al codice. Gli acquisti effettuati da lì possono generare una commissione per chi lo ha condiviso, senza costi aggiuntivi per te.",
-          "Il codice invito SHEIN dà uno sconto? Non c'è uno sconto fisso: puoi ricevere le offerte che SHEIN mostra nella pagina aperta dal codice.",
+          "Il codice invito SHEIN dà uno sconto? Sì: 4CW5Y apre una pagina con una selezione di prodotti, promozioni e sconti. Quanto e su quali capi lo decide SHEIN, e varia.",
           "Il codice invito è la stessa cosa di un coupon? No. Secondo SHEIN, il codice va nella casella di ricerca, non come coupon.",
           "Come trovo il mio codice invito SHEIN? Il codice invito si ottiene tramite il programma di affiliazione di SHEIN. Dopo la registrazione, fatta cercando il programma di affiliazione nell'app, compare nella home dell'affiliato.",
-          "Il codice invito del 2024 o del 2025 vale ancora? I codici del vecchio programma, finito nel 2024, sono stati disattivati insieme al coupon del vecchio programma. Nel programma attuale il codice porta alla pagina dell'affiliato, senza sconto fisso, e 4CW5Y è il codice attuale di Cecília.",
+          "Il codice invito del 2024 o del 2025 vale ancora? I codici del vecchio programma, finito nel 2024, sono stati disattivati insieme al coupon del vecchio programma. Nel programma attuale il codice porta alla pagina dell'affiliato, con una selezione di prodotti e sconti di SHEIN, e 4CW5Y è il codice attuale di Cecília.",
           "Devo creare un nuovo account per usare il codice? No: quando abbiamo controllato, la ricerca ha aperto la pagina anche senza accesso. Le offerte solo per nuovi utenti, quando ci sono, sono segnalate nella campagna.",
-          "Posso usare il codice invito da computer? SHEIN parla di cercare il codice nell'app; la guida mostra il sito su smartphone e da computer non abbiamo verificato."
+          "Posso usare il codice invito da computer? Sì: apri il sito SHEIN, direttamente o dal link di Cecília, e cerca lì 4CW5Y. La guida mostra il sito su smartphone."
         ]
       }
     ],
     "cta": {
-      "text": "Apri SHEIN con il link di Cecília o digita 4CW5Y nella ricerca dell'app di SHEIN",
+      "text": "Apri SHEIN con il link di Cecília o copia 4CW5Y e cercalo nell'app o nel sito di SHEIN",
       "label": "Apri SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -65050,7 +65050,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 추천 코드를 입력하는 곳(쿠폰 칸이 아니라 검색창), 화면과 함께 보는 단계별 안내, 검색 후 나타나는 것, 2024년 이전 프로그램에서 달라진 점, 자신의 코드를 받는 방법을 정리했습니다.",
+    "description": "SHEIN 추천 코드에는 할인이 있습니다. 상품과 프로모션 모음 페이지가 열립니다. 입력하는 곳(쿠폰 칸이 아니라 검색창), 단계별 안내, 열리는 페이지, 내 코드 받는 방법을 정리했습니다.",
     "metaDescription": "SHEIN 추천 코드는 쿠폰 칸이 아니라 검색창에 입력합니다. 화면과 함께 보는 단계별 안내, 열리는 페이지, 2024년 변경 사항, 자신의 코드 받는 방법을 확인하세요.",
     "publishedAt": "2026년 10월 13일",
     "publishedAtISO": "2026-10-13",
@@ -65067,13 +65067,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "SHEIN 추천 코드는 쿠폰 칸이 아니라 앱이나 스마트폰 사이트의 쇼핑몰 검색창에 입력합니다. 고정 할인은 없습니다. 코드를 공유한 사람의 페이지가 열리고, 쇼핑몰이 그곳에 보여 주는 혜택이 나옵니다. 4CW5Y는 Cecília의 코드이며, 단계별 안내는 아래에 있습니다."
+          "SHEIN 추천 코드에는 할인이 있습니다. Cecília의 링크로 SHEIN을 열고, 쿠폰 칸이 아니라 앱이나 사이트의 쇼핑몰 검색창에서 4CW5Y를 검색하세요. 코드를 검색하면 상품, 프로모션, 할인을 모은 특별한 페이지가 열리며, 할인 폭과 대상 상품은 SHEIN이 정하고 달라집니다."
         ]
       },
       {
         "heading": "SHEIN 추천 코드를 입력하는 곳",
         "paragraphs": [
-          "SHEIN 앱의 검색창에서 코드를 검색하세요. 아래 화면은 로그인하지 않은 상태에서 스마트폰으로 본 SHEIN 사이트입니다."
+          "SHEIN 앱이나 사이트의 검색창에서 코드를 검색하세요. 아래 화면은 로그인하지 않은 상태에서 스마트폰으로 본 SHEIN 사이트입니다."
         ],
         "bullets": [
           "**1단계:** SHEIN 검색창을 누릅니다.",
@@ -65112,7 +65112,7 @@ export const reviewsData: unknown[] = [
         "heading": "검색 후 나타나는 것과 받을 수 있는 혜택",
         "paragraphs": [
           "SHEIN에 따르면 제휴 파트너의 코드를 검색하면 그 사람의 추천 상품 페이지가 나옵니다. 코드를 공유한 사람이 아직 상품을 고르지 않았다면 SHEIN의 기본 추천 페이지가 나옵니다. 2026년 10월 12일에는 4CW5Y를 검색하면 \"Acho que você pode gostar\"라는 제목의 추천 페이지가 열렸습니다.",
-          "코드에 연결된 고정 할인은 없습니다. 제휴 파트너를 통해 들어오면 캠페인 페이지나 상품 페이지에 표시되는 혜택을 받을 수 있으며, 이 혜택은 자주 바뀝니다. 진행 중인 캠페인은 이 사이트의 SHEIN 페이지에서 확인할 수 있습니다."
+          "4CW5Y에는 할인이 있습니다. 열리는 페이지에는 프로모션과 할인이 붙은 상품 모음이 나옵니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. 혜택은 캠페인 페이지나 상품 페이지에 표시되고 자주 바뀝니다. 진행 중인 캠페인은 이 사이트의 SHEIN 페이지에서 확인할 수 있습니다."
         ],
         "links": [
           {
@@ -65144,17 +65144,17 @@ export const reviewsData: unknown[] = [
           "SHEIN 추천 코드는 어디에 입력하나요? SHEIN 앱이나 스마트폰 사이트의 검색창에 입력합니다. 쿠폰 칸이 아닙니다.",
           "SHEIN 추천 코드는 어떻게 사용하나요? 검색을 열어 코드를 입력하고 돋보기를 누른 뒤, 열린 페이지에서 장바구니에 담으세요.",
           "SHEIN 추천 코드는 어떻게 작동하나요? 코드에 연결된 페이지가 열립니다. 이 경로로 구매하면 코드를 공유한 사람에게 수수료가 지급될 수 있으며, 구매자에게 추가 비용은 없습니다.",
-          "SHEIN 추천 코드로 할인을 받나요? 고정 할인은 없습니다. 코드가 여는 페이지에 SHEIN이 보여 주는 혜택을 받을 수 있습니다.",
+          "SHEIN 추천 코드로 할인을 받나요? 네. 4CW5Y로 열리는 페이지에 상품, 프로모션, 할인 모음이 나옵니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다.",
           "추천 코드는 쿠폰과 같은 건가요? 아니요. SHEIN에 따르면 코드는 쿠폰이 아니라 검색창에 입력합니다.",
           "내 SHEIN 추천 코드는 어떻게 알 수 있나요? 추천 코드는 SHEIN의 제휴 프로그램에서 발급됩니다. 앱에서 제휴 프로그램을 검색해 가입하면 제휴 파트너 홈 페이지에 나타납니다.",
-          "2024년이나 2025년 추천 코드도 아직 유효한가요? 2024년에 끝난 이전 프로그램의 코드는 이전 프로그램의 쿠폰과 함께 비활성화되었습니다. 현재 프로그램에서 코드는 고정 할인 없이 제휴 파트너의 페이지로 이동시키며, 4CW5Y는 Cecília의 현재 코드입니다.",
+          "2024년이나 2025년 추천 코드도 아직 유효한가요? 2024년에 끝난 이전 프로그램의 코드는 이전 프로그램의 쿠폰과 함께 비활성화되었습니다. 현재 프로그램에서 코드는 제휴 파트너의 페이지로 이동시켜 SHEIN의 상품과 할인 모음을 보여 주며, 4CW5Y는 Cecília의 현재 코드입니다.",
           "코드를 쓰려면 새 계정을 만들어야 하나요? 아니요. 확인했을 때 로그인하지 않아도 검색하면 페이지가 열렸습니다. 신규 회원 전용 혜택이 있으면 캠페인에 표시됩니다.",
-          "추천 코드를 컴퓨터에서도 쓸 수 있나요? SHEIN은 앱에서 코드를 검색하라고 안내합니다. 이 가이드는 스마트폰 사이트를 보여 주며, 컴퓨터에서는 확인하지 않았습니다."
+          "추천 코드를 컴퓨터에서도 쓸 수 있나요? 네. SHEIN 사이트를 직접 열거나 Cecília의 링크로 열고, 거기서 4CW5Y를 검색하세요. 이 가이드는 스마트폰 사이트를 보여 줍니다."
         ]
       }
     ],
     "cta": {
-      "text": "Cecília의 링크로 SHEIN을 열거나, SHEIN 앱의 검색창에서 4CW5Y를 검색하세요",
+      "text": "Cecília의 링크로 SHEIN을 열거나, 4CW5Y를 복사해 SHEIN 앱이나 사이트에서 검색하세요",
       "label": "SHEIN 열기",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -65188,7 +65188,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEINの紹介コードを入れる場所（クーポン欄ではなく検索）、画面つきの手順、検索のあとに表示されるもの、2024年の旧プログラムからの変更点、自分のコードの取得方法をまとめました。",
+    "description": "SHEINの紹介コードには割引があります。商品とセールの特集ページが開きます。入力する場所（クーポン欄ではなく検索）、画面つきの手順、開くページ、自分のコードの取得方法をまとめました。",
     "metaDescription": "SHEINの紹介コードはクーポン欄ではなく検索に入力します。画面つきの手順、開くページ、2024年の変更点、自分のコードの取得方法を紹介します。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
@@ -65205,13 +65205,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "SHEINの紹介コードは、クーポン欄ではなく、アプリまたはスマートフォンのサイトにあるストアの検索に入力します。固定の割引はつきません。コードを紹介した人のページが開き、そこにストアが表示するオファーが並びます。4CW5YはCecíliaのコードです。手順は下にあります。"
+          "SHEINの紹介コードには割引があります。Cecíliaのリンクから SHEINを開き、クーポン欄ではなく、アプリまたはサイトにあるストアの検索で4CW5Yを検索すると、商品、セール、割引を集めた特別なページが開きます。割引の大きさと対象の商品はSHEINが決め、変わります。"
         ]
       },
       {
         "heading": "SHEINの紹介コードを入力する場所",
         "paragraphs": [
-          "SHEINアプリの検索でコードを検索します。下の画面は、ログインなしでスマートフォンから見たSHEINサイトのものです。"
+          "SHEINアプリまたはサイトの検索でコードを検索します。下の画面は、ログインなしでスマートフォンから見たSHEINサイトのものです。"
         ],
         "bullets": [
           "**ステップ1：**SHEINの検索バーをタップします。",
@@ -65250,7 +65250,7 @@ export const reviewsData: unknown[] = [
         "heading": "検索のあとに表示されるものと、もらえる特典",
         "paragraphs": [
           "アフィリエイターのコードを検索すると、その人のセレクションページが表示されるとSHEINは説明しています。コードを紹介した人がまだ商品を選んでいない場合は、SHEINの標準のセレクションページが表示されます。2026年10月12日には、4CW5Yの検索で「Acho que você pode gostar」というタイトルのおすすめページが開きました。",
-          "コードに固定の割引はありません。アフィリエイター経由でアクセスすると、キャンペーンページや商品ページに表示される特典を受けられる場合があり、内容は頻繁に更新されます。実施中のキャンペーンは、このサイトのSHEINのページにあります。"
+          "4CW5Y には割引があります。開くページには、セールと割引のついた商品の特集が並びます。割引の大きさと対象の商品はSHEINが決め、変わります。内容はキャンペーンページや商品ページに表示され、頻繁に更新されます。実施中のキャンペーンは、このサイトのSHEINのページにあります。"
         ],
         "links": [
           {
@@ -65282,17 +65282,17 @@ export const reviewsData: unknown[] = [
           "SHEINの紹介コードはどこに入力しますか？ SHEINアプリまたはスマートフォンのサイトの検索バーに入力します。クーポン欄ではありません。",
           "SHEINの紹介コードはどう使いますか？ 検索を開いてコードを入力し、虫眼鏡をタップして、開いたページからカートに入れます。",
           "SHEINの紹介コードはどういう仕組みですか？ コードに紐づくページが開きます。この経路での購入により、コードを紹介した人が手数料を受け取る場合があります。購入者の負担は増えません。",
-          "SHEINの紹介コードで割引はありますか？ 固定の割引はありません。コードで開くページにSHEINが表示するオファーを受けられる場合があります。",
+          "SHEINの紹介コードで割引はありますか？ あります。4CW5Yで開くページに、商品、セール、割引の特集が並びます。割引の大きさと対象の商品はSHEINが決め、変わります。",
           "紹介コードはクーポンと同じですか？ いいえ。SHEINによると、コードはクーポンではなく検索ボックスに入力します。",
           "自分のSHEIN紹介コードはどうやって知りますか？ 紹介コードはSHEINのアフィリエイトプログラムで発行されます。アプリでアフィリエイトプログラムを検索して登録すると、アフィリエイターのホームページに表示されます。",
-          "2024年や2025年の紹介コードはまだ使えますか？ 2024年に終了した旧プログラムのコードは、旧プログラムのクーポンとともに無効になりました。現在のプログラムではコードはアフィリエイターのページに案内するだけで、固定の割引はありません。4CW5Yは現在のCecíliaのコードです。",
+          "2024年や2025年の紹介コードはまだ使えますか？ 2024年に終了した旧プログラムのコードは、旧プログラムのクーポンとともに無効になりました。現在のプログラムではコードはアフィリエイターのページに案内し、SHEINの商品と割引の特集が表示されます。4CW5Yは現在のCecíliaのコードです。",
           "コードを使うのに新しいアカウントは必要ですか？ いいえ。確認したところ、ログインなしでも検索でページが開きました。新規ユーザー限定のオファーがある場合は、キャンペーンに表示されます。",
-          "紹介コードはパソコンでも使えますか？ SHEINはアプリでコードを検索すると説明しています。このガイドはスマートフォンのサイトを紹介しており、パソコンでは確認していません。"
+          "紹介コードはパソコンでも使えますか？ 使えます。SHEINのサイトを直接、またはCecíliaのリンクから開き、そこで4CW5Yを検索してください。このガイドはスマートフォンのサイトを紹介しています。"
         ]
       }
     ],
     "cta": {
-      "text": "CecíliaのリンクからSHEINを開くか、SHEINアプリの検索バーで4CW5Yを検索してください",
+      "text": "CecíliaのリンクからSHEINを開くか、4CW5YをコピーしてSHEINのアプリまたはサイトで検索してください",
       "label": "SHEIN を開く",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -65326,7 +65326,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 推薦碼要填在哪裡（在搜尋欄，而不是優惠券欄）、附截圖的步驟、搜尋後會出現什麼、2024 年舊計畫之後有什麼變化，以及如何取得自己的推薦碼。",
+    "description": "SHEIN 推薦碼有折扣，會開啟一個含商品、促銷和折扣的精選頁面。填在哪裡（在搜尋欄，而不是優惠券欄）、附截圖的步驟，以及如何取得自己的推薦碼。",
     "metaDescription": "SHEIN 推薦碼要填在搜尋欄，而不是優惠券欄。看看附截圖的步驟、它會開啟什麼、2024 年有什麼變化，以及如何取得你自己的推薦碼。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
@@ -65343,13 +65343,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 推薦碼要填在商店的搜尋欄裡，在 App 中或用手機開啟網站都一樣，不要填進優惠券欄。它沒有固定折扣：搜尋後會開啟分享該推薦碼的人的頁面，裡面是商店在那裡顯示的優惠。4CW5Y 是 Cecília 的推薦碼，步驟請見下文。"
+          "SHEIN 推薦碼有折扣。先透過 Cecília 的連結開啟 SHEIN，再在 App 或網站的商店搜尋欄裡搜尋 4CW5Y，不要填進優惠券欄：推薦碼會開啟一個特別頁面，裡面是精選商品、促銷和折扣。折扣多少、適用哪些單品由 SHEIN 決定，並且會變化。"
         ]
       },
       {
         "heading": "SHEIN 推薦碼填在哪裡",
         "paragraphs": [
-          "在 SHEIN App 的搜尋欄裡搜尋推薦碼。下面的截圖來自手機上未登入狀態下的 SHEIN 網站："
+          "在 SHEIN App 或網站的搜尋欄裡搜尋推薦碼。下面的截圖來自手機上未登入狀態下的 SHEIN 網站："
         ],
         "bullets": [
           "**步驟 1：**點一下 SHEIN 的搜尋欄。",
@@ -65388,7 +65388,7 @@ export const reviewsData: unknown[] = [
         "heading": "搜尋後會出現什麼，你能得到什麼",
         "paragraphs": [
           "SHEIN 表示，搜尋聯盟推廣者的推薦碼，會看到對方的精選頁面。如果分享推薦碼的人還沒有挑選商品，就會出現 SHEIN 預設的精選頁面。2026 年 10 月 12 日，搜尋 4CW5Y 開啟了一個標題為「Acho que você pode gostar」的推薦頁面。",
-          "推薦碼沒有綁定固定折扣。透過聯盟推廣者進入的使用者，可能獲得活動頁或商品頁上顯示的優惠，這些優惠經常更新。目前進行中的活動在本站的 SHEIN 頁面上。"
+          "4CW5Y 有折扣：它開啟的頁面匯集了帶促銷和折扣的精選商品。折扣多少、適用哪些單品由 SHEIN 決定，並且會變化，優惠顯示在活動頁或商品頁上，經常更新。目前進行中的活動在本站的 SHEIN 頁面上。"
         ],
         "links": [
           {
@@ -65420,17 +65420,17 @@ export const reviewsData: unknown[] = [
           "SHEIN 推薦碼填在哪裡？填在 SHEIN App 或手機網站的搜尋欄裡，不要填進優惠券欄。",
           "SHEIN 推薦碼怎麼用？開啟搜尋，輸入推薦碼，點一下放大鏡，然後從開啟的頁面把商品加入購物車。",
           "SHEIN 推薦碼是怎麼運作的？它會開啟與推薦碼連結的頁面。透過這個途徑購物，分享推薦碼的人可能獲得傭金，你無須額外付費。",
-          "SHEIN 推薦碼有折扣嗎？沒有固定折扣：你可能獲得 SHEIN 在推薦碼所開啟頁面上顯示的優惠。",
+          "SHEIN 推薦碼有折扣嗎？有：4CW5Y 開啟的頁面裡有精選商品、促銷和折扣。折扣多少、適用哪些單品由 SHEIN 決定，並且會變化。",
           "推薦碼和優惠券是一回事嗎？不是。據 SHEIN 說明，推薦碼要填在搜尋框裡，而不是當作優惠券使用。",
           "怎麼知道我自己的 SHEIN 推薦碼？推薦碼來自 SHEIN 的聯盟計畫。在 App 中搜尋聯盟計畫完成註冊後，它會顯示在聯盟推廣者的首頁。",
-          "2024 年或 2025 年的推薦碼還有效嗎？2024 年結束的舊計畫的推薦碼，已和舊計畫的優惠券一起停用。在現行計畫中，推薦碼會帶你進入聯盟推廣者的頁面，沒有固定折扣，4CW5Y 是 Cecília 目前的推薦碼。",
+          "2024 年或 2025 年的推薦碼還有效嗎？2024 年結束的舊計畫的推薦碼，已和舊計畫的優惠券一起停用。在現行計畫中，推薦碼會帶你進入聯盟推廣者的頁面，頁面裡有 SHEIN 的精選商品和折扣，4CW5Y 是 Cecília 目前的推薦碼。",
           "使用推薦碼需要新建帳號嗎？不需要：我們檢查時，即使沒有登入，搜尋也能開啟頁面。僅限新用戶的優惠如果有，會在活動中標明。",
-          "推薦碼可以在電腦上使用嗎？SHEIN 說的是在 App 中搜尋推薦碼；本攻略展示的是手機上的網站，電腦上我們沒有驗證。"
+          "推薦碼可以在電腦上使用嗎？可以：直接開啟 SHEIN 網站，或透過 Cecília 的連結開啟，然後在那裡搜尋 4CW5Y。本攻略展示的是手機上的網站。"
         ]
       }
     ],
     "cta": {
-      "text": "透過 Cecília 的連結開啟 SHEIN，或在 SHEIN App 的搜尋欄搜尋 4CW5Y",
+      "text": "透過 Cecília 的連結開啟 SHEIN，或複製 4CW5Y 在 SHEIN App 或網站上搜尋",
       "label": "開啟 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -65464,7 +65464,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 推荐码填在哪里（在搜索栏，而不是优惠券栏）、带截图的步骤、搜索后会出现什么、2024 年旧计划之后有什么变化，以及如何获得自己的推荐码。",
+    "description": "SHEIN 推荐码有折扣，会打开一个含商品、促销和折扣的精选页面。填在哪里（在搜索栏，而不是优惠券栏）、带截图的步骤，以及如何获得自己的推荐码。",
     "metaDescription": "SHEIN 推荐码要填在搜索栏，而不是优惠券栏。看看带截图的步骤、它会打开什么、2024 年有什么变化，以及如何获得你自己的推荐码。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
@@ -65481,13 +65481,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 推荐码要填在商店的搜索栏里，在应用中或用手机打开网站都一样，不要填进优惠券栏。它没有固定折扣：搜索后会打开分享该推荐码的人的页面，里面是商店在那里展示的优惠。4CW5Y 是 Cecília 的推荐码，步骤见下文。"
+          "SHEIN 推荐码有折扣。先通过 Cecília 的链接打开 SHEIN，再在应用或网站的商店搜索栏里搜索 4CW5Y，不要填进优惠券栏：推荐码会打开一个特别页面，里面是精选商品、促销和折扣。折扣多少、适用哪些单品由 SHEIN 决定，并且会变化。"
         ]
       },
       {
         "heading": "SHEIN 推荐码填在哪里",
         "paragraphs": [
-          "在 SHEIN 应用的搜索栏里搜索推荐码。下面的截图来自手机上未登录状态下的 SHEIN 网站："
+          "在 SHEIN 应用或网站的搜索栏里搜索推荐码。下面的截图来自手机上未登录状态下的 SHEIN 网站："
         ],
         "bullets": [
           "**第 1 步：**点按 SHEIN 的搜索栏。",
@@ -65526,7 +65526,7 @@ export const reviewsData: unknown[] = [
         "heading": "搜索后会出现什么，你能得到什么",
         "paragraphs": [
           "SHEIN 表示，搜索联盟推广者的推荐码，会看到对方的精选页面。如果分享推荐码的人还没有挑选商品，就会出现 SHEIN 默认的精选页面。2026 年 10 月 12 日，搜索 4CW5Y 打开了一个标题为“Acho que você pode gostar”的推荐页面。",
-          "推荐码没有绑定固定折扣。通过联盟推广者进入的用户，可能获得活动页或商品页上展示的优惠，这些优惠经常更新。目前进行中的活动在本站的 SHEIN 页面上。"
+          "4CW5Y 有折扣：它打开的页面汇集了带促销和折扣的精选商品。折扣多少、适用哪些单品由 SHEIN 决定，并且会变化，优惠展示在活动页或商品页上，经常更新。目前进行中的活动在本站的 SHEIN 页面上。"
         ],
         "links": [
           {
@@ -65558,17 +65558,17 @@ export const reviewsData: unknown[] = [
           "SHEIN 推荐码填在哪里？填在 SHEIN 应用或手机网站的搜索栏里，不要填进优惠券栏。",
           "SHEIN 推荐码怎么用？打开搜索，输入推荐码，点按放大镜，然后从打开的页面把商品加入购物车。",
           "SHEIN 推荐码是怎么运作的？它会打开与推荐码关联的页面。通过这个途径购物，分享推荐码的人可能获得佣金，你无需额外付费。",
-          "SHEIN 推荐码有折扣吗？没有固定折扣：你可能获得 SHEIN 在推荐码所打开页面上展示的优惠。",
+          "SHEIN 推荐码有折扣吗？有：4CW5Y 打开的页面里有精选商品、促销和折扣。折扣多少、适用哪些单品由 SHEIN 决定，并且会变化。",
           "推荐码和优惠券是一回事吗？不是。据 SHEIN 说明，推荐码要填在搜索框里，而不是当作优惠券使用。",
           "怎么知道我自己的 SHEIN 推荐码？推荐码来自 SHEIN 的联盟计划。在应用中搜索联盟计划完成注册后，它会显示在联盟推广者的首页。",
-          "2024 年或 2025 年的推荐码还有效吗？2024 年结束的旧计划的推荐码，已和旧计划的优惠券一起停用。在现行计划中，推荐码会带你进入联盟推广者的页面，没有固定折扣，4CW5Y 是 Cecília 目前的推荐码。",
+          "2024 年或 2025 年的推荐码还有效吗？2024 年结束的旧计划的推荐码，已和旧计划的优惠券一起停用。在现行计划中，推荐码会带你进入联盟推广者的页面，页面里有 SHEIN 的精选商品和折扣，4CW5Y 是 Cecília 目前的推荐码。",
           "使用推荐码需要新建账号吗？不需要：我们检查时，即使没有登录，搜索也能打开页面。仅限新用户的优惠如果有，会在活动中标明。",
-          "推荐码可以在电脑上使用吗？SHEIN 说的是在应用中搜索推荐码；本攻略展示的是手机上的网站，电脑上我们没有验证。"
+          "推荐码可以在电脑上使用吗？可以：直接打开 SHEIN 网站，或通过 Cecília 的链接打开，然后在那里搜索 4CW5Y。本攻略展示的是手机上的网站。"
         ]
       }
     ],
     "cta": {
-      "text": "通过 Cecília 的链接打开 SHEIN，或在 SHEIN App 的搜索栏搜索 4CW5Y",
+      "text": "通过 Cecília 的链接打开 SHEIN，或复制 4CW5Y 在 SHEIN App 或网站上搜索",
       "label": "打开 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -65603,7 +65603,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a SHEIN é uma loja legítima, operada no Brasil por uma empresa registrada. Veja o que pesa na decisão, como prazo, imposto e devolução, e o que conferir antes de pagar.",
-    "metaDescription": "SHEIN é confiável, com empresa no Brasil: pesquise 4CW5Y no app da SHEIN, código de indicação. Reputação Boa no Reclame Aqui nos seis meses até set/2026.",
+    "metaDescription": "SHEIN é confiável, com empresa no Brasil: o código 4CW5Y dá desconto em uma seleção da SHEIN. Reputação Boa no Reclame Aqui nos seis meses até set/2026.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-07",
@@ -65751,7 +65751,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e código de indicação",
         "paragraphs": [
-          "Este artigo é editorial, e a Cecília é afiliada da SHEIN: compras pelos links dela podem gerar comissão, sem custo para você. O 4CW5Y é o código de indicação dela. Ele vai na busca da SHEIN, não no campo de cupom."
+          "Este artigo é editorial, e a Cecília é afiliada da SHEIN: compras pelos links dela podem gerar comissão, sem custo para você. O 4CW5Y é o código de indicação dela e dá desconto, sim: pelo link da Cecília, ou copiando o código e pesquisando no app ou no site da SHEIN, abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN, e varia. O código não vai no campo de cupom."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
@@ -65791,7 +65791,7 @@ export const reviewsData: unknown[] = [
           "O que fazer se o pedido da SHEIN não chegar? Fale com o atendimento em até 90 dias do pagamento. Se o pedido aparece como entregue e não chegou, o prazo é de 60 dias a partir da entrega.",
           "Como funciona a devolução da SHEIN? Em até 20 dias depois de receber, com o frete da primeira devolução de cada pedido grátis.",
           "Como saber se o site da SHEIN é o oficial? O site brasileiro é o br.shein.com, e o aplicativo é o da SHEIN na loja oficial do seu celular.",
-          "O 4CW5Y é cupom? Não. É o código de indicação da Cecília, que se pesquisa na busca da SHEIN."
+          "O 4CW5Y é cupom? Não, é o código de indicação da Cecília, mas dá desconto, sim: pelo link dela, ou pesquisando o código no app ou no site da SHEIN, abre uma seleção de produtos com promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN."
         ]
       }
     ],
@@ -65939,7 +65939,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Partnership and referral code",
         "paragraphs": [
-          "This article is editorial, and Cecília is a SHEIN affiliate: purchases made through her links may earn a commission, at no cost to you. 4CW5Y is Cecília's referral code for SHEIN. It goes in SHEIN's search bar, not in the coupon field."
+          "This article is editorial, and Cecília is a SHEIN affiliate: purchases made through her links may earn a commission, at no cost to you. 4CW5Y is Cecília's referral code for SHEIN, and it does give you a discount: open SHEIN through her link, then copy the code and search it in the SHEIN app or on the SHEIN site: a special SHEIN page opens with a selection of products, promotions and discounts. How much and on which items is up to SHEIN, and it varies. It is not entered in the coupon field."
         ],
         "links": [
           {
@@ -65969,7 +65969,7 @@ export const reviewsData: unknown[] = [
           "Who runs SHEIN in the US and the UK? In the US, SHEIN US Services, LLC. In the UK, Infinite Styles Services Co., Limited (“ISSL”). The group's site, sheingroup.com, belongs to Roadget Business Pte. Ltd., of Singapore.",
           "What is SHEIN's return policy? In the US, up to 30 days from delivery. In the UK, 14 days by law, counted from receipt, and most items up to 30 days after you receive them under SHEIN's policy. Lingerie, underwear and costume jewellery only within the 14 days.",
           "How do I know a SHEIN site is the official one? Buy only on your market's official site (us.shein.com in the US, shein.co.uk in the UK) or in the SHEIN app downloaded from your phone's official app store.",
-          "Is 4CW5Y a coupon? No. It is Cecília's referral code for SHEIN, which you search for in SHEIN's search bar, not in the coupon field."
+          "Is 4CW5Y a coupon? No, it is Cecília's referral code for SHEIN, but it does give you a discount: open SHEIN through her link, then copy the code and search it in the SHEIN app or on the site, and you reach a selection of products with promotions and discounts. How much and on which items is up to SHEIN."
         ]
       }
     ],
@@ -66126,7 +66126,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Colaboración y código de referido",
         "paragraphs": [
-          "Este artículo es editorial, y Cecília es afiliada de SHEIN: las compras hechas por sus enlaces pueden generar una comisión, sin costo para ti. 4CW5Y es el código de referido de Cecília para SHEIN. Se busca en el buscador de SHEIN, no en el campo de cupón."
+          "Este artículo es editorial, y Cecília es afiliada de SHEIN: las compras hechas por sus enlaces pueden generar una comisión, sin costo para ti. 4CW5Y es el código de referido de Cecília para SHEIN y sí da descuento: abre SHEIN por su enlace, copia el código y búscalo en la app o en el sitio de SHEIN: se abre una página con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía. El código no va en el campo de cupón."
         ],
         "links": [
           {
@@ -66157,7 +66157,7 @@ export const reviewsData: unknown[] = [
           "¿Cuál es el plazo de devolución de SHEIN? En España, 14 días por ley desde la recepción, y la mayoría de los artículos hasta 30 días después de recibirlos según la política de SHEIN; lencería, ropa interior y bisutería solo dentro de los 14 días. En México, hasta 30 días desde la recepción.",
           "¿Hay aduana en los pedidos de SHEIN? En España, la UE cobra 3 € de derecho de aduana por categoría de producto en los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Esta regla no vale para México: revisa los impuestos de importación en el checkout antes de pagar.",
           "¿Cómo sé si el sitio de SHEIN es el oficial? Compra solo en el sitio oficial de tu mercado (es.shein.com en España, shein.com.mx en México) o en la app de SHEIN descargada de la tienda de aplicaciones oficial de tu teléfono.",
-          "¿4CW5Y es un cupón? No. Es el código de referido de Cecília para SHEIN, que se busca en el buscador de SHEIN, no en el campo de cupón."
+          "¿4CW5Y es un cupón? No, es el código de referido de Cecília para SHEIN, pero sí da descuento: abre SHEIN por su enlace y busca el código en la app o en el sitio de SHEIN: llegas a una selección de productos con promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN."
         ]
       }
     ],
@@ -66292,7 +66292,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Partenariat et code de parrainage",
         "paragraphs": [
-          "Cet article est éditorial, et Cecília est affiliée à SHEIN : les achats faits via ses liens peuvent générer une commission, sans frais pour vous. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN. Il se cherche dans la barre de recherche de SHEIN, pas dans le champ des coupons."
+          "Cet article est éditorial, et Cecília est affiliée à SHEIN : les achats faits via ses liens peuvent générer une commission, sans frais pour vous. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN, et il donne bien une réduction : ouvrez SHEIN via son lien, copiez le code et cherchez-le dans l'appli ou sur le site de SHEIN : une page s'ouvre avec une sélection de produits, de promotions et de réductions. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Le code ne va pas dans le champ des coupons."
         ],
         "links": [
           {
@@ -66323,7 +66323,7 @@ export const reviewsData: unknown[] = [
           "Quel est le délai de retour chez SHEIN ? 14 jours de rétractation légale, à compter de la réception, et la plupart des articles jusqu'à 30 jours après la réception selon la politique de SHEIN. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours.",
           "Y a-t-il des frais de douane sur les commandes SHEIN ? L'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382).",
           "Comment savoir si le site SHEIN est le site officiel ? Achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'application SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone.",
-          "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília pour SHEIN, qui se cherche dans la barre de recherche de SHEIN, pas dans le champ des coupons."
+          "Le 4CW5Y est-il un coupon ? Non, c'est le code de parrainage de Cecília pour SHEIN, mais il donne bien une réduction : ouvrez SHEIN via son lien et cherchez le code dans l'appli ou sur le site de SHEIN : vous arrivez sur une sélection de produits avec promotions et réductions. Combien et sur quelles pièces, c'est SHEIN qui décide."
         ]
       }
     ],
@@ -66453,7 +66453,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Partnerschaft und Empfehlungscode",
         "paragraphs": [
-          "Dieser Artikel ist redaktionell, und Cecília ist Affiliate-Partnerin von SHEIN: Käufe über ihre Links können eine Provision bringen, ohne Mehrkosten für Sie. 4CW5Y ist der Empfehlungscode von Cecília bei SHEIN. Er wird in der Suchleiste von SHEIN gesucht, nicht im Gutscheinfeld."
+          "Dieser Artikel ist redaktionell, und Cecília ist Affiliate-Partnerin von SHEIN: Käufe über ihre Links können eine Provision bringen, ohne Mehrkosten für Sie. 4CW5Y ist der Empfehlungscode von Cecília bei SHEIN, und er bringt Ihnen tatsächlich Rabatt: Öffnen Sie SHEIN über ihren Link, kopieren Sie den Code und suchen Sie ihn in der SHEIN-App oder auf der SHEIN-Website: Dann öffnet sich eine Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie hoch der Rabatt ist und auf welche Artikel er gilt, entscheidet SHEIN, und es variiert. Der Code gehört nicht ins Gutscheinfeld."
         ],
         "links": [
           {
@@ -66484,7 +66484,7 @@ export const reviewsData: unknown[] = [
           "Wie lange kann ich eine Bestellung bei SHEIN zurückgeben? Das gesetzliche Widerrufsrecht gilt 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden, einige Artikel wie Lingerie, Unterwäsche und Modeschmuck nur innerhalb der 14 Tage.",
           "Muss ich bei SHEIN Zoll zahlen? Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen.",
           "Woran erkenne ich die offizielle SHEIN-Website? Die Adresse für Deutschland ist de.shein.com. Die App ist die von SHEIN im offiziellen App-Store Ihres Smartphones.",
-          "Ist 4CW5Y ein Gutschein? Nein. Es ist der Empfehlungscode von Cecília bei SHEIN, der in der Suchleiste von SHEIN gesucht wird, nicht im Gutscheinfeld."
+          "Ist 4CW5Y ein Gutschein? Nein, es ist der Empfehlungscode von Cecília bei SHEIN, aber er bringt Rabatt: Öffnen Sie SHEIN über ihren Link und suchen Sie den Code in der SHEIN-App oder auf der SHEIN-Website, dann gelangen Sie zu einer Auswahl an Produkten mit Aktionen und Rabatten. Wie hoch der Rabatt ist und auf welche Artikel er gilt, entscheidet SHEIN."
         ]
       }
     ],
@@ -66614,7 +66614,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Collaborazione e codice invito",
         "paragraphs": [
-          "Questo articolo è editoriale, e Cecília è affiliata di SHEIN: gli acquisti fatti dai suoi link possono generare una commissione, senza costi per te. Il 4CW5Y è il codice invito di Cecília su SHEIN. Lo cerchi nella barra di ricerca di SHEIN, non nel campo del coupon."
+          "Questo articolo è editoriale, e Cecília è affiliata di SHEIN: gli acquisti fatti dai suoi link possono generare una commissione, senza costi per te. Il 4CW5Y è il codice invito di Cecília su SHEIN e dà diritto a uno sconto, sì: apri SHEIN dal suo link, copia il codice e cercalo nell'app o sul sito di SHEIN: si apre una pagina con una selezione di prodotti, promozioni e sconti. Quanto sia lo sconto e su quali capi lo decide SHEIN, e varia. Il codice non va nel campo del coupon."
         ],
         "links": [
           {
@@ -66645,7 +66645,7 @@ export const reviewsData: unknown[] = [
           "Quanto tempo ho per restituire un ordine di SHEIN? Il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento; alcuni, come lingerie, intimo e bigiotteria, solo entro i 14 giorni.",
           "Devo pagare la dogana su SHEIN? L'UE applica un dazio doganale di 3 € per categoria di prodotto sui pacchi di valore inferiore a 150 € spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare.",
           "Come capisco se il sito di SHEIN è quello ufficiale? L'indirizzo per l'Italia è it.shein.com, e l'app è quella di SHEIN nell'app store ufficiale del tuo telefono.",
-          "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN: si cerca nella barra di ricerca di SHEIN, non nel campo del coupon."
+          "Il 4CW5Y è un coupon? No, è il codice invito di Cecília su SHEIN, ma lo sconto c'è: apri SHEIN dal suo link e cerca il codice nell'app o sul sito di SHEIN: arrivi a una selezione di prodotti con promozioni e sconti. Quanto sia lo sconto e su quali capi lo decide SHEIN."
         ]
       }
     ],
@@ -66763,7 +66763,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "파트너십과 추천 코드",
         "paragraphs": [
-          "이 글은 에디토리얼이며, Cecília는 SHEIN의 제휴 파트너입니다. Cecília의 링크로 구매하면 수수료가 발생할 수 있고, 구매자가 더 내는 비용은 없습니다. 4CW5Y는 Cecília의 SHEIN 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력하는 코드입니다."
+          "이 글은 에디토리얼이며, Cecília는 SHEIN의 제휴 파트너입니다. Cecília의 링크로 구매하면 수수료가 발생할 수 있고, 구매자가 더 내는 비용은 없습니다. 4CW5Y는 Cecília의 SHEIN 추천 코드이며, 할인이 있습니다. Cecília의 링크로 SHEIN을 열고 코드를 복사해 앱이나 사이트에서 검색하면, 추천 상품과 프로모션·할인을 모은 전용 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. 쿠폰 입력란에는 넣지 않습니다."
         ],
         "links": [
           {
@@ -66793,7 +66793,7 @@ export const reviewsData: unknown[] = [
           "한국에서 SHEIN을 운영하는 회사는 어디인가요? kr.shein.com의 개인정보 처리방침에 따르면 싱가포르의 Wonderflow Support Pte. Ltd.입니다. SHEIN 그룹의 사이트인 sheingroup.com은 싱가포르 Roadget Business Pte. Ltd.의 사이트입니다.",
           "SHEIN 반품 기한은 얼마나 되나요? kr.shein.com의 반품 정책에 따르면 수령 후 60일 이내입니다.",
           "SHEIN 사이트가 공식 사이트인지 어떻게 알 수 있나요? 한국 공식 사이트는 kr.shein.com이고, 앱은 휴대폰의 공식 앱 스토어에서 내려받은 SHEIN 앱입니다.",
-          "4CW5Y는 쿠폰인가요? 아니요. Cecília의 SHEIN 추천 코드이며, 쿠폰 입력란이 아니라 SHEIN 검색창에 입력합니다."
+          "4CW5Y는 쿠폰인가요? 아니요. Cecília의 SHEIN 추천 코드이지만 할인은 있습니다. Cecília의 링크로 SHEIN을 열고 코드를 복사해 앱이나 사이트에서 검색하면 상품과 프로모션·할인을 모은 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다."
         ]
       }
     ],
@@ -66914,7 +66914,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "提携と紹介コード",
         "paragraphs": [
-          "この記事は編集記事で、Cecília は SHEIN のアフィリエイトです。Cecília のリンクから購入すると、報酬が発生することがありますが、あなたの負担は増えません。4CW5Y は Cecília の SHEIN 紹介コードです。SHEIN の検索バーに入力するもので、クーポンの入力欄には入れません。"
+          "この記事は編集記事で、Cecília は SHEIN のアフィリエイトです。Cecília のリンクから購入すると、報酬が発生することがありますが、あなたの負担は増えません。4CW5Y は Cecília の SHEIN 紹介コードで、割引があります。Cecília のリンクで SHEIN を開き、コードをコピーしてアプリかサイトで検索すると、おすすめ商品とセール・割引をまとめた専用ページが開きます。割引の幅や対象商品は SHEIN が決めるため、変わります。クーポンの入力欄には入れません。"
         ],
         "links": [
           {
@@ -66945,7 +66945,7 @@ export const reviewsData: unknown[] = [
           "SHEIN の返品期限は何日ですか？ 日本のサイトでは、条件を満たす新品のほとんどの商品が購入日から40日以内です。対象外の商品もあるため、最新の返品ポリシーで確認してください。",
           "SHEIN で買うと関税はかかりますか？ 税関のカスタムスアンサーによると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、革製のカバン、ハンドバッグ、手袋など、編物製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴の底）が革製の履物類など、免税にならない物品があります。",
           "SHEIN の公式サイトはどう見分けますか？ 日本の公式サイトのアドレスは jp.shein.com です。アプリは、スマートフォンの公式アプリストアからダウンロードした SHEIN のアプリを使ってください。",
-          "4CW5Y はクーポンですか？ いいえ。Cecília の SHEIN 紹介コードで、SHEIN の検索バーに入力するものです。"
+          "4CW5Y はクーポンですか？ いいえ、Cecília の SHEIN 紹介コードですが、割引はあります。Cecília のリンクで SHEIN を開き、コードをコピーしてアプリかサイトで検索すると、商品とセール・割引の特集ページが開きます。割引の幅や対象商品は SHEIN が決めます。"
         ]
       }
     ],
@@ -67065,7 +67065,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合作與推薦碼",
         "paragraphs": [
-          "本文是編輯專題，Cecília 是 SHEIN 的聯盟推廣者：透過她的連結購買，可能產生傭金，你不需要額外付費。4CW5Y 是 Cecília 的 SHEIN 推薦碼，要在 SHEIN 的搜尋欄輸入，不是填在優惠券欄位。"
+          "本文是編輯專題，Cecília 是 SHEIN 的聯盟推廣者：透過她的連結購買，可能產生傭金，你不需要額外付費。4CW5Y 是 Cecília 的 SHEIN 推薦碼，用它有優惠：透過她的連結開啟 SHEIN，再複製代碼在 App 或網站搜尋，會開啟一個專屬頁面，裡面是精選商品、促銷和折扣。優惠多少、涵蓋哪些商品由 SHEIN 決定，會有變動。它不是填在優惠券欄位的。"
         ],
         "links": [
           {
@@ -67095,7 +67095,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 台灣站由誰營運？ 根據 shein.tw 的隱私權政策，是新加坡的 Fashion Choice Pte. Ltd.。",
           "SHEIN 台灣站的退貨期限是幾天？ 收到商品後 15 天內。",
           "怎麼確認 SHEIN 的網站是官方的？ 台灣站的網址是 shein.tw。App 請使用從手機官方應用程式商店下載的 SHEIN App。",
-          "4CW5Y 是優惠券嗎？ 不是。它是 Cecília 的 SHEIN 推薦碼，要在 SHEIN 的搜尋欄輸入。"
+          "4CW5Y 是優惠券嗎？ 不是，它是 Cecília 的 SHEIN 推薦碼，但用它有優惠：透過她的連結開啟 SHEIN，再複製代碼在 App 或網站搜尋，會進入精選商品、促銷和折扣的頁面。優惠多少、涵蓋哪些商品由 SHEIN 決定。"
         ]
       }
     ],
@@ -67215,7 +67215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合作与推荐码",
         "paragraphs": [
-          "本文是编辑专题，Cecília 是 SHEIN 的联盟推广者：通过她的链接购买，可能产生佣金，你不需要额外付费。4CW5Y 是 Cecília 的 SHEIN 推荐码，要在 SHEIN 的搜索栏里输入，不是填在优惠券输入框里。"
+          "本文是编辑专题，Cecília 是 SHEIN 的联盟推广者：通过她的链接购买，可能产生佣金，你不需要额外付费。4CW5Y 是 Cecília 的 SHEIN 推荐码，用它有优惠：通过她的链接打开 SHEIN，再复制代码在 App 或网站里搜索，会打开一个专属页面，里面是精选商品、促销和折扣。优惠多少、涵盖哪些商品由 SHEIN 决定，会有变化。它不是填在优惠券输入框里的。"
         ],
         "links": [
           {
@@ -67245,7 +67245,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 新加坡站由谁运营？ 根据 sg.shein.com 的隐私政策，是 Fashion Choice Pte. Ltd.。",
           "SHEIN 新加坡站的退货期限是多久？ 新加坡站的退货政策本文未查阅，所以不给出天数。请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。",
           "怎么确认 SHEIN 的网站是官方的？ 新加坡站的网址是 sg.shein.com。App 请使用从手机官方应用商店下载的 SHEIN App。",
-          "4CW5Y 是优惠券吗？ 不是。它是 Cecília 的 SHEIN 推荐码，要在 SHEIN 的搜索栏里输入。"
+          "4CW5Y 是优惠券吗？ 不是，它是 Cecília 的 SHEIN 推荐码，但用它有优惠：通过她的链接打开 SHEIN，再复制代码在 App 或网站里搜索，会进入精选商品、促销和折扣的页面。优惠多少、涵盖哪些商品由 SHEIN 决定。"
         ]
       }
     ],
@@ -67288,7 +67288,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN, Shopee, Temu e AliExpress lado a lado: frete, prazo, devolução, imposto e Reclame Aqui pelas regras que cada loja publica, e como escolher conforme o que você vai comprar.",
-    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. SHEIN ou Shopee: frete, prazo, devolução e imposto lado a lado com Temu e AliExpress.",
+    "metaDescription": "O 4CW5Y dá desconto na SHEIN, sim. SHEIN ou Shopee: frete, prazo, devolução e imposto lado a lado com Temu e AliExpress.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-07",
@@ -67304,7 +67304,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe uma loja melhor para todo mundo: para roupa, a escolha depende do prazo de devolução que você precisa. A Temu publica 90 dias contados da compra, e a SHEIN, 20 dias contados do recebimento. Confira a condição da sua peça e o prazo de entrega antes de pagar."
+          "Não existe uma loja melhor para todo mundo: para roupa, a escolha depende do prazo de devolução que você precisa. A Temu publica 90 dias contados da compra, e a SHEIN, 20 dias contados do recebimento. Se escolher a SHEIN, o 4CW5Y dá desconto, sim: use o link da Cecília ou copie o código e pesquise no app ou no site."
         ]
       },
       {
@@ -67474,7 +67474,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e código de indicação",
         "paragraphs": [
           "A Cecília é afiliada da SHEIN, da Shopee, da Temu e do AliExpress, e pode receber comissão pelas compras feitas pelos links deste artigo, sem custo para você. Isso não muda a resposta: a escolha depende do que você vai comprar.",
-          "O 4CW5Y é o código de indicação da Cecília na SHEIN. Ele vai na busca da SHEIN, não no campo de cupom."
+          "O 4CW5Y é o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções da SHEIN; quanto e em quais peças, a SHEIN decide. Use o link da Cecília ou copie o código e pesquise no app ou no site, não no campo de cupom."
         ],
         "links": [
           {
@@ -67514,7 +67514,7 @@ export const reviewsData: unknown[] = [
           "SHEIN, Shopee e Temu pagam imposto? Nas compras do exterior, a SHEIN, a Shopee e o AliExpress publicam a mesma regra: ICMS de 17% a 20% e imposto de importação zero até US$ 50. A Temu não publica a alíquota nas páginas de envio e de devolução, e o imposto de importação não volta no reembolso.",
           "A SHEIN e a Temu são a mesma coisa? Não. São lojas diferentes, cada uma com as suas regras de frete, prazo e devolução.",
           "Qual a nota de cada loja no Reclame Aqui? Nos seis meses da tabela: SHEIN 7,6 (Boa), Shopee 6,7 (Regular), AliExpress 6,0 (Regular) e Temu 5,8 (Ruim). A nota mede o atendimento a quem reclama, não a qualidade do produto.",
-          "O 4CW5Y é cupom? Não. É o código de indicação da Cecília na SHEIN, que se pesquisa na busca da loja."
+          "O 4CW5Y é cupom? Não. É o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções; quanto e em quais peças, a SHEIN decide. Você chega a ela pelo link da Cecília ou pesquisando o código no app ou no site da loja."
         ]
       }
     ],
@@ -67527,7 +67527,7 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Se escolher a SHEIN, pesquise 4CW5Y na busca do app. Antes de pagar, confira o total com frete e imposto.",
+      "text": "Se escolher a SHEIN, use o link da Cecília ou copie o 4CW5Y e pesquise no app ou no site: o código dá desconto, sim. Antes de pagar, confira o total com frete e imposto.",
       "label": "Ir para a SHEIN",
       "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
       "sponsored": true
@@ -67582,7 +67582,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "No store is best for everyone: for clothes, the choice depends on the return deadline your item has. Temu counts 90 days from purchase and SHEIN up to 30 days from receipt, for most items. Check your item's conditions and delivery estimate before you pay."
+          "No store is best for everyone: for clothes, the choice depends on the return deadline your item has. Temu counts 90 days from purchase and SHEIN up to 30 days from receipt, for most items. If you choose SHEIN, 4CW5Y does give you a discount: open SHEIN through Cecília's link and search for the code in the app or on the site."
         ]
       },
       {
@@ -67668,7 +67668,7 @@ export const reviewsData: unknown[] = [
         "heading": "Partnership and referral code",
         "paragraphs": [
           "Cecília is an affiliate of SHEIN and Temu and may earn a commission on purchases made through the links in this article, at no extra cost to you. That does not change the answer: the choice depends on what you are buying.",
-          "4CW5Y is Cecília's referral code at SHEIN. You search for it in SHEIN's search bar, not in the coupon field."
+          "4CW5Y is Cecília's referral code at SHEIN, and it does give you a discount on a selection of SHEIN products and promotions; how much and on which items is SHEIN's call. Open SHEIN through Cecília's link and search for the code in the app or on the site: the search opens a selection with promotions and discounts. It does not go in the coupon field."
         ],
         "links": [
           {
@@ -67696,12 +67696,12 @@ export const reviewsData: unknown[] = [
           "SHEIN or Temu for clothes? Check whether the item is returnable, the deadline and the return cost. In the UK table, Temu counts its 90 days from purchase; SHEIN counts up to 30 days from receipt for most items, with lingerie, underwear and costume jewelry only within the 14 days.",
           "Do SHEIN and Temu charge import tax? Import tax depends on the country. On its UK site, SHEIN says customers in the UK do not need to deal with customs. Before you pay, check at each store's checkout whether the total includes taxes.",
           "Are SHEIN and Temu the same company? No. They are different stores, each with its own rules for shipping, delivery and returns.",
-          "Is 4CW5Y a coupon? No. It is Cecília's referral code at SHEIN, which you search for in the store's search bar."
+          "Is 4CW5Y a coupon? No. It is Cecília's referral code at SHEIN, and it does give you a discount on a selection of products and promotions; how much and on which items is SHEIN's call. Open SHEIN through Cecília's link and search for the code in the app or on the site: the search opens the selection."
         ]
       }
     ],
     "cta": {
-      "text": "If you choose SHEIN, search for 4CW5Y in the app. Before paying, check the total with shipping and taxes.",
+      "text": "If you choose SHEIN, open SHEIN through Cecília's link and search for 4CW5Y in the app or on the site: the code does give you a discount. Before paying, check the total with shipping and taxes.",
       "label": "Go to SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -67764,7 +67764,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Ninguna tienda es la mejor para todos: para la ropa, lo que cuenta es el plazo de devolución que necesitas. Temu cuenta 90 días desde la compra y SHEIN hasta 30 días desde la recepción en la mayoría de los artículos. Revisa la condición de tu prenda y la fecha de entrega antes de pagar."
+          "Ninguna tienda es la mejor para todos: para la ropa, lo que cuenta es el plazo de devolución que necesitas. Temu cuenta 90 días desde la compra y SHEIN hasta 30 días desde la recepción en la mayoría de los artículos. Si eliges SHEIN, el 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio."
         ]
       },
       {
@@ -67882,7 +67882,7 @@ export const reviewsData: unknown[] = [
         "heading": "Colaboración y código de referido",
         "paragraphs": [
           "Cecília es afiliada de SHEIN y Temu y puede recibir una comisión por las compras hechas a través de los enlaces de este artículo, sin costo adicional para ti. Eso no cambia la respuesta: la elección depende de lo que vayas a comprar.",
-          "4CW5Y es el código de referido de Cecília en SHEIN. Lo buscas en la barra de búsqueda de SHEIN, no en el campo del cupón."
+          "4CW5Y es el código de referido de Cecília en SHEIN y sí da descuento, en una selección de productos y promociones de SHEIN; cuánto y en qué prendas lo decide SHEIN. Abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio: la búsqueda abre una selección con promociones y descuentos. No va en el campo del cupón."
         ],
         "links": [
           {
@@ -67910,12 +67910,12 @@ export const reviewsData: unknown[] = [
           "¿SHEIN o Temu para ropa? Confirma si la prenda admite devolución, hasta cuándo y a qué costo. Temu da 90 días desde la compra y SHEIN hasta 30 días después de recibirlos, en la mayoría de los artículos; la lencería, la ropa interior y la bisutería de SHEIN, solo dentro de los 14 días en España.",
           "¿SHEIN y Temu pagan aduana? En España, la UE aplica 3 € por categoría de producto a los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe así, por lo que la aduana no decide entre SHEIN y Temu.",
           "¿SHEIN y Temu son la misma empresa? No. Son tiendas distintas, cada una con sus propias reglas de envío, entrega y devolución.",
-          "¿El código 4CW5Y es un cupón? No. Es el código de referido de Cecília en SHEIN, que se busca en la barra de búsqueda de la tienda."
+          "¿El código 4CW5Y es un cupón? No. Es el código de referido de Cecília en SHEIN y sí da descuento, en una selección de productos y promociones; cuánto y en qué prendas lo decide SHEIN. Abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio: la búsqueda abre la selección."
         ]
       }
     ],
     "cta": {
-      "text": "Si eliges SHEIN, busca 4CW5Y en la app. Antes de pagar, revisa el total con envío e impuestos.",
+      "text": "Si eliges SHEIN, abre SHEIN con el enlace de Cecília y busca 4CW5Y en la app o en el sitio: el código sí da descuento. Antes de pagar, revisa el total con envío e impuestos.",
       "label": "Ir a SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -67978,7 +67978,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Aucune boutique n'est la meilleure pour tout le monde : pour des vêtements, c'est le délai de retour dont vous avez besoin qui compte. Temu compte 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception pour la plupart des articles. Vérifiez les conditions de votre article et la date de livraison avant de payer."
+          "Aucune boutique n'est la meilleure pour tout le monde : pour des vêtements, c'est le délai de retour dont vous avez besoin qui compte. Temu compte 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception pour la plupart des articles. Si vous choisissez SHEIN, le 4CW5Y donne bien une réduction : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site."
         ]
       },
       {
@@ -68065,7 +68065,7 @@ export const reviewsData: unknown[] = [
         "heading": "Partenariat et code de parrainage",
         "paragraphs": [
           "Cecília est affiliée à SHEIN et à Temu et peut toucher une commission sur les achats faits via les liens de cet article, sans frais supplémentaires pour vous. Cela ne change pas la réponse : le choix dépend de ce que vous achetez.",
-          "Le 4CW5Y est le code de parrainage de Cecília chez SHEIN. On le recherche dans la barre de recherche de SHEIN, pas dans le champ du coupon."
+          "Le 4CW5Y est le code de parrainage de Cecília chez SHEIN et donne bien une réduction, sur une sélection de produits et de promotions de SHEIN ; combien et sur quels articles, c'est SHEIN qui décide. Ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site : la recherche ouvre une sélection de promotions et de réductions. Il ne va pas dans le champ du coupon."
         ],
         "links": [
           {
@@ -68093,12 +68093,12 @@ export const reviewsData: unknown[] = [
           "SHEIN ou Temu pour des vêtements ? Vérifiez si l'article peut être retourné, jusqu'à quand et à quels frais. Temu laisse 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception, pour la plupart des articles ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
           "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
           "SHEIN et Temu sont-ils la même entreprise ? Non. Ce sont deux boutiques différentes, chacune avec ses propres règles d'expédition, de livraison et de retour.",
-          "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília chez SHEIN, que l'on recherche dans la barre de recherche de la boutique."
+          "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília chez SHEIN et il donne bien une réduction, sur une sélection de produits et de promotions ; combien et sur quels articles, c'est SHEIN qui décide. Ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site : la recherche ouvre la sélection."
         ]
       }
     ],
     "cta": {
-      "text": "Si vous choisissez SHEIN, recherchez 4CW5Y dans l’application. Avant de payer, vérifiez le total avec la livraison et les taxes.",
+      "text": "Si vous choisissez SHEIN, ouvrez SHEIN avec le lien de Cecília et recherchez 4CW5Y dans l’application ou sur le site : le code donne bien une réduction. Avant de payer, vérifiez le total avec la livraison et les taxes.",
       "label": "Aller sur SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68161,7 +68161,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Kein Shop ist für alle der beste: Bei Kleidung kommt es auf die Rückgabefrist an, die Sie brauchen. Temu gibt 90 Tage ab Kauf, SHEIN bei den meisten Artikeln bis zu 30 Tage nach Erhalt. Prüfen Sie vor dem Bezahlen die Bedingungen Ihres Artikels und den Liefertermin."
+          "Kein Shop ist für alle der beste: Bei Kleidung kommt es auf die Rückgabefrist an, die Sie brauchen. Temu gibt 90 Tage ab Kauf, SHEIN bei den meisten Artikeln bis zu 30 Tage nach Erhalt. Wenn Sie SHEIN wählen, gibt 4CW5Y Rabatt, ja: Öffnen Sie SHEIN über den Link von Cecília und suchen Sie den Code in der App oder auf der Website."
         ]
       },
       {
@@ -68248,7 +68248,7 @@ export const reviewsData: unknown[] = [
         "heading": "Partnerschaft und Empfehlungscode",
         "paragraphs": [
           "Cecília ist Affiliate-Partnerin von SHEIN und Temu und kann für Käufe über die Links in diesem Artikel eine Provision erhalten, ohne Mehrkosten für Sie. Das ändert die Antwort nicht: Die Wahl hängt davon ab, was Sie kaufen.",
-          "4CW5Y ist Cecílias Empfehlungscode bei SHEIN. Sie suchen ihn in der Suche von SHEIN, nicht im Feld für Gutscheine."
+          "4CW5Y ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt, ja: auf eine Auswahl an Produkten und Aktionen von SHEIN; wie viel und auf welche Artikel, entscheidet SHEIN. Öffnen Sie SHEIN über den Link von Cecília und suchen Sie den Code in der App oder auf der Website: Die Suche öffnet eine Auswahl mit Aktionen und Rabatten. Er gehört nicht ins Feld für Gutscheine."
         ],
         "links": [
           {
@@ -68276,12 +68276,12 @@ export const reviewsData: unknown[] = [
           "SHEIN oder Temu für Kleidung? Prüfen Sie, ob der Artikel zurückgegeben werden kann, bis wann und zu welchen Kosten. Temu gibt 90 Tage ab Kauf und SHEIN bis zu 30 Tage nach Erhalt, bei den meisten Artikeln; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
           "Zahlen SHEIN und Temu Zoll? Die EU erhebt 3 € pro Warenkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der so liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
           "Sind SHEIN und Temu dasselbe Unternehmen? Nein. Es sind verschiedene Shops, jeder mit eigenen Regeln für Versand, Lieferzeit und Rückgabe.",
-          "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN, den Sie in der Suche des Shops suchen."
+          "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt, ja: auf eine Auswahl an Produkten und Aktionen; wie viel und auf welche Artikel, entscheidet SHEIN. Öffnen Sie SHEIN über den Link von Cecília und suchen Sie den Code in der App oder auf der Website: Die Suche öffnet die Auswahl."
         ]
       }
     ],
     "cta": {
-      "text": "Wenn Sie SHEIN wählen, suchen Sie in der App nach 4CW5Y. Prüfen Sie vor dem Bezahlen den Gesamtbetrag mit Versand und Steuern.",
+      "text": "Wenn Sie SHEIN wählen, öffnen Sie SHEIN über den Link von Cecília und suchen Sie 4CW5Y in der App oder auf der Website: Der Code gibt Rabatt, ja. Prüfen Sie vor dem Bezahlen den Gesamtbetrag mit Versand und Steuern.",
       "label": "Zu SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68344,7 +68344,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Non esiste un negozio migliore per tutti: per i vestiti conta il termine di reso che ti serve. Temu pubblica 90 giorni dall'acquisto, SHEIN fino a 30 giorni dal ricevimento per la maggior parte degli articoli. Controlla le condizioni del tuo articolo e la data di consegna prima di pagare."
+          "Non esiste un negozio migliore per tutti: per i vestiti conta il termine di reso che ti serve. Temu pubblica 90 giorni dall'acquisto, SHEIN fino a 30 giorni dal ricevimento per la maggior parte degli articoli. Se scegli SHEIN, il 4CW5Y dà lo sconto, sì: apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito."
         ]
       },
       {
@@ -68431,7 +68431,7 @@ export const reviewsData: unknown[] = [
         "heading": "Partnership e codice invito",
         "paragraphs": [
           "Cecília è affiliata di SHEIN e di Temu e può ricevere una commissione sugli acquisti fatti con i link di questo articolo, senza costi per te. Questo non cambia la risposta: la scelta dipende da cosa compri.",
-          "Il 4CW5Y è il codice invito di Cecília su SHEIN. Va cercato nella barra di ricerca di SHEIN, non nel campo del coupon."
+          "Il 4CW5Y è il codice invito di Cecília su SHEIN e dà lo sconto, sì, su una selezione di prodotti e promozioni di SHEIN; quanto e su quali articoli lo decide SHEIN. Apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito: la ricerca apre una selezione con promozioni e sconti. Non va nel campo del coupon."
         ],
         "links": [
           {
@@ -68459,12 +68459,12 @@ export const reviewsData: unknown[] = [
           "SHEIN o Temu per i vestiti? Verifica se il capo è restituibile, entro quando e a quale costo. Temu dà 90 giorni dall'acquisto e SHEIN fino a 30 giorni dal ricevimento, per la maggior parte degli articoli; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
           "SHEIN e Temu pagano la dogana? L'UE applica 3 euro per categoria di prodotto sugli ordini inferiori a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
           "SHEIN e Temu sono la stessa azienda? No. Sono negozi diversi, ciascuno con le proprie regole su spedizione, consegna e reso.",
-          "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN, che si cerca nella barra di ricerca del negozio."
+          "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN e dà lo sconto, sì, su una selezione di prodotti e promozioni; quanto e su quali articoli lo decide SHEIN. Apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito: la ricerca apre la selezione."
         ]
       }
     ],
     "cta": {
-      "text": "Se scegli SHEIN, cerca 4CW5Y nell’app. Prima di pagare, controlla il totale con spedizione e imposte.",
+      "text": "Se scegli SHEIN, apri SHEIN dal link di Cecília e cerca 4CW5Y nell’app o sul sito: il codice dà lo sconto, sì. Prima di pagare, controlla il totale con spedizione e imposte.",
       "label": "Vai su SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68527,7 +68527,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지에 따라 달라지며, 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내의 반품 기한을 공개했습니다. 구매 전에 배송비와 세금을 포함한 최종 금액과 내 상품의 반품 조건을 확인하세요."
+          "모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지에 따라 달라지며, 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내의 반품 기한을 공개했습니다. SHEIN을 고른다면 4CW5Y는 할인이 되며, Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요."
         ]
       },
       {
@@ -68610,7 +68610,7 @@ export const reviewsData: unknown[] = [
         "heading": "제휴와 추천 코드",
         "paragraphs": [
           "Cecília는 SHEIN과 테무의 제휴(어필리에이트) 파트너로, 이 글의 링크로 구매하시면 추가 비용 없이 수수료를 받을 수 있습니다. 이 점이 답을 바꾸지는 않습니다. 무엇을 사는지에 따라 선택이 달라집니다.",
-          "4CW5Y는 Cecília의 SHEIN 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력합니다."
+          "4CW5Y는 Cecília의 SHEIN 추천 코드로, SHEIN이 고른 상품과 프로모션에서 할인이 됩니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요. 검색하면 프로모션과 할인이 모인 페이지가 열립니다. 쿠폰 입력란에 입력하는 코드가 아닙니다."
         ],
         "links": [
           {
@@ -68638,12 +68638,12 @@ export const reviewsData: unknown[] = [
           "SHEIN과 테무는 같은 회사인가요? 아니요. 서로 다른 쇼핑몰이며, 배송비·배송 기간·반품 규정이 각각 따로 있습니다.",
           "SHEIN과 테무는 얼마 동안 반품할 수 있나요? SHEIN은 수령 후 60일 이내, 테무는 구매 후 90일 이내입니다. 테무는 같은 주문의 첫 반품은 무료이고, 두 번째 반품부터 배송비 2,500원을 공제합니다.",
           "해외에서 오는 상품에도 세금이 붙나요? 수입 세금은 나라마다 다릅니다. 총 금액은 결제 전에 각 쇼핑몰의 결제 화면에서 확인하세요.",
-          "4CW5Y는 쿠폰인가요? 아니요. SHEIN의 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력합니다."
+          "4CW5Y는 쿠폰인가요? 아니요. SHEIN의 추천 코드이며, 선별된 상품과 프로모션에서 할인이 됩니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 해당 페이지가 열립니다."
         ]
       }
     ],
     "cta": {
-      "text": "SHEIN을 고른다면 앱에서 4CW5Y를 검색하세요. 결제 전 배송비와 세금을 포함한 총액을 확인하세요.",
+      "text": "SHEIN을 고른다면 Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하세요. 이 코드는 할인이 됩니다. 결제 전 배송비와 세금을 포함한 총액을 확인하세요.",
       "label": "SHEIN으로 이동",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68706,7 +68706,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "すべての人に合うお店はありません。何を買うか、返品をどれだけ大事にするかで選ぶお店は変わり、Temu は購入日から90日以内（対象商品の場合）、SHEIN は購入から40日以内の返品期限を公表しています。買う前に、送料と税金を含めた最終価格と、その商品の返品条件を確認しましょう。"
+          "すべての人に合うお店はありません。何を買うか、返品をどれだけ大事にするかで選ぶお店は変わり、Temu は購入日から90日以内（対象商品の場合）、SHEIN は購入から40日以内の返品期限を公表しています。SHEINを選ぶなら、CecíliaのリンクからSHEINを開き、アプリかサイトで4CW5Yを検索すると割引が受けられます。"
         ]
       },
       {
@@ -68797,7 +68797,7 @@ export const reviewsData: unknown[] = [
         "heading": "提携と紹介コード",
         "paragraphs": [
           "Cecília は SHEIN と Temu のアフィリエイトに参加しています。この記事のリンクから購入されると、あなたの負担なしに報酬を受け取ることがあります。それでも答えは変わりません。何を買うかによって選ぶお店は変わります。",
-          "4CW5Y は、Cecília の SHEIN の紹介コードです。クーポン欄ではなく、SHEIN の検索バーで検索します。"
+          "4CW5Y は、Cecília の SHEIN の紹介コードで、SHEIN が選んだ商品とキャンペーンで割引が受けられます。割引額と対象商品は SHEIN が決めます。Cecília のリンクから SHEIN を開き、アプリまたはサイトでコードを検索してください。検索するとプロモーションと割引の特集が開きます（クーポン欄ではありません）。"
         ],
         "links": [
           {
@@ -68825,12 +68825,12 @@ export const reviewsData: unknown[] = [
           "SHEIN と Temu は同じ会社ですか？ いいえ。別々のお店で、送料、お届け日数、返品のルールもそれぞれ違います。",
           "SHEIN と Temu の返品期限はいつまでですか？ SHEIN は購入から40日以内（対象外の商品あり）、Temu は購入日から90日以内（対象商品の場合）です。Temu は同じ注文の1回目の返品が無料で、2回目以降は送料550円が返金額から差し引かれます。",
           "海外から届く荷物には、関税がかかりますか？ 税関によると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、革製のカバンやハンドバッグ、編物（ニット）製の衣類（Tシャツ、セーターなど）、革靴など、免税にならない物品もあります。どのお店で買っても同じです。",
-          "4CW5Y はクーポンですか？ いいえ。SHEIN の紹介コードで、SHEIN の検索バーで検索します。"
+          "4CW5Y はクーポンですか？ いいえ。SHEIN の紹介コードで、選ばれた商品とキャンペーンで割引が受けられます。割引額と対象商品は SHEIN が決めます。Cecília のリンクから SHEIN を開き、アプリかサイトでコードを検索すると特集が開きます。"
         ]
       }
     ],
     "cta": {
-      "text": "SHEINを選ぶなら、アプリで4CW5Yを検索してください。支払う前に、送料と税金を含む合計金額を確認しましょう。",
+      "text": "SHEINを選ぶなら、Cecíliaのリンクから SHEIN を開き、アプリまたはサイトで 4CW5Y を検索してください。このコードは割引が受けられます。支払う前に、送料と税金を含む合計金額を確認しましょう。",
       "label": "SHEIN へ進む",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -68893,7 +68893,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "沒有一家平台適合所有人：怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。Temu 在新加坡站大多數商品為購買後 90 天內；SHEIN 在新加坡站大多數全新商品為收到後 15 天內，在馬來西亞站為收到後 20 天內。付款前，先確認商品的退貨條件與送達日。"
+          "沒有一家平台適合所有人：怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。Temu 在新加坡站大多數商品為購買後 90 天內；SHEIN 在新加坡站大多數全新商品為收到後 15 天內，在馬來西亞站為收到後 20 天內。如果選擇 SHEIN，4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋代碼。"
         ]
       },
       {
@@ -69008,7 +69008,7 @@ export const reviewsData: unknown[] = [
         "heading": "合作與推薦碼",
         "paragraphs": [
           "Cecília 是 SHEIN 和 Temu 的聯盟會員。透過本文連結購買時，她可能獲得傭金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
-          "4CW5Y 是 Cecília 在 SHEIN 的推薦碼。要在 SHEIN 的搜尋欄搜尋，不是輸入到優惠券欄位。"
+          "4CW5Y 是 Cecília 在 SHEIN 的推薦碼，確實有折扣，適用於 SHEIN 精選商品與促銷；折多少、哪些商品，由 SHEIN 決定。請透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋代碼，搜尋會開啟含促銷與折扣的精選頁面；不是輸入到優惠券欄位。"
         ],
         "links": [
           {
@@ -69035,12 +69035,12 @@ export const reviewsData: unknown[] = [
           "SHEIN 和 Temu 有什麼差別？ 差別最大的是退貨期限與起算點：Temu 是購買後 90 天內，SHEIN 新加坡站是收到後 15 天內，馬來西亞站是 20 天內。只看天數不夠，請比較商品適用的截止日與條件；運費和時效見上面的表格。",
           "SHEIN 和 Temu 是同一家公司嗎？ 不是。它們是不同的平台，運費、時效和退貨規則各不相同。",
           "SHEIN 和 Temu 的退貨期限是多久？ SHEIN 新加坡站大多數全新商品在收到後 15 天內，馬來西亞站在收到後 20 天內；Temu 公布的是購買後 90 天內（新加坡站適用於大多數商品，服飾等部分品類另有條件，馬來西亞站以該站頁面為準），每筆訂單第一次退貨免費。",
-          "4CW5Y 是優惠券嗎？ 不是。它是 SHEIN 的推薦碼，要在 SHEIN 的搜尋欄搜尋。"
+          "4CW5Y 是優惠券嗎？ 不是。它是 SHEIN 的推薦碼，確實有折扣，適用於精選商品與促銷；折多少、哪些商品，由 SHEIN 決定。先透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋代碼，搜尋會開啟精選頁面。"
         ]
       }
     ],
     "cta": {
-      "text": "如果選擇SHEIN，請在App搜尋4CW5Y。付款前，確認含運費與稅金的總金額。",
+      "text": "如果選擇SHEIN，請透過Cecília的連結開啟SHEIN，再在App或網站搜尋4CW5Y：這個代碼確實有折扣。付款前，確認含運費與稅金的總金額。",
       "label": "前往 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -69103,7 +69103,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。Temu 在新加坡站大多数商品为购买后 90 天内；SHEIN 在新加坡站大多数全新商品为收到后 15 天内，在马来西亚站为收到后 20 天内。付款前，先确认商品的退货条件与送达日。"
+          "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。Temu 在新加坡站大多数商品为购买后 90 天内；SHEIN 在新加坡站大多数全新商品为收到后 15 天内，在马来西亚站为收到后 20 天内。如果选择 SHEIN，4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在应用或网站搜索代码。"
         ]
       },
       {
@@ -69218,7 +69218,7 @@ export const reviewsData: unknown[] = [
         "heading": "合作与推荐码",
         "paragraphs": [
           "Cecília 是 SHEIN 和 Temu 的联盟会员。通过本文链接购买时，她可能获得佣金，你不需要多付费。这不会改变答案：怎么选，取决于你要买什么。",
-          "4CW5Y 是 Cecília 在 SHEIN 的推荐码。要在 SHEIN 的搜索栏搜索，不是输入到优惠券输入框。"
+          "4CW5Y 是 Cecília 在 SHEIN 的推荐码，确实有折扣，适用于 SHEIN 精选商品与促销；折多少、哪些商品，由 SHEIN 决定。请通过 Cecília 的链接打开 SHEIN，再在应用或网站搜索代码，搜索会打开含促销与折扣的精选页面；不是输入到优惠券输入框。"
         ],
         "links": [
           {
@@ -69245,12 +69245,12 @@ export const reviewsData: unknown[] = [
           "SHEIN 和 Temu 有什么区别？ 差别最大的是退货期限与起算点：Temu 是购买后 90 天内，SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。只看天数不够，请比较商品适用的截止日与条件；运费和时效见上面的表格。",
           "SHEIN 和 Temu 是同一家公司吗？ 不是。它们是不同的平台，运费、时效和退货规则各不相同。",
           "SHEIN 和 Temu 的退货期限是多久？ SHEIN 新加坡站大多数全新商品在收到后 15 天内，马来西亚站在收到后 20 天内；Temu 公布的是购买后 90 天内（新加坡站适用于大多数商品，服饰等部分品类另有条件，马来西亚站以该站页面为准），每个订单第一次退货免费。",
-          "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 的推荐码，要在 SHEIN 的搜索栏搜索。"
+          "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 的推荐码，确实有折扣，适用于精选商品与促销；折多少、哪些商品，由 SHEIN 决定。先通过 Cecília 的链接打开 SHEIN，再在应用或网站搜索代码，搜索会打开精选页面。"
         ]
       }
     ],
     "cta": {
-      "text": "如果选择SHEIN，请在应用中搜索4CW5Y。付款前，确认含运费与税金的总金额。",
+      "text": "如果选择SHEIN，请通过Cecília的链接打开SHEIN，再在应用或网站搜索4CW5Y：这个代码确实有折扣。付款前，确认含运费与税金的总金额。",
       "label": "前往 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -134340,7 +134340,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "A SHEIN anuncia até 85% off na Mega Promoção 11.11, e a Cecília escolheu 19 peças em 5 grupos, de pijamas a masculino. Veja os descontos, os tamanhos e o link de cada peça.",
-    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. SHEIN 11.11: 19 peças escolhidas pela Cecília, de pijama a camisa masculina.",
+    "metaDescription": "O 4CW5Y dá desconto na SHEIN, pelo link ou no app e no site. SHEIN 11.11: 19 peças escolhidas pela Cecília, de pijama a camisa masculina.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Colagem com peças da seleção 11.11 da SHEIN: pijama floral, conjunto infantil, cardigã, scarpin e camisa masculina, com a logo da SHEIN",
     "imageFit": "contain",
@@ -134371,7 +134371,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja anuncia descontos grandes na Mega Promoção 11.11, até o dia 12. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino; preços e descontos mudam por peça. O 4CW5Y é o código de indicação: pesquise no aplicativo da SHEIN, não cole no checkout, porque não é cupom."
+          "A loja anuncia descontos grandes na Mega Promoção 11.11, até o dia 12. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino. O 4CW5Y dá desconto, sim: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, que ele abre uma seleção com promoções; quanto e em quais peças, a SHEIN decide."
         ]
       },
       {
@@ -134379,7 +134379,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Mega Promoção 11.11 da SHEIN já começou. São até 85% off em mais de 600 mil produtos, diz a SHEIN, e a loja puxa a campanha para o aplicativo.",
           "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Nas 19 peças abaixo, a foto e o card abrem a página de cada uma dentro da campanha.",
-          "O 4CW5Y é o código de indicação da SHEIN: ele se procura na busca do aplicativo e não se cola no checkout, porque não é cupom. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
+          "O 4CW5Y é o código de indicação da SHEIN e dá desconto, sim: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, que ele abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, a SHEIN decide. Não é cupom e não se cola no checkout. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
         ]
       },
       {
@@ -135198,7 +135198,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Preço muda todo dia:** o preço e o desconto de cada peça são os do dia da leitura. A SHEIN muda os preços durante a campanha, e \"a partir de\" quer dizer que o preço muda por cor ou tamanho.",
           "**Tamanho:** se você está entre dois tamanhos, confira a tabela de medidas da peça antes de escolher, porque a grade muda de peça para peça.",
-          "**O 4CW5Y é código de indicação, não cupom:** ele se pesquisa na busca do aplicativo e não se cola no checkout. Veja o [código de indicação SHEIN](/reviews/codigo-de-indicacao-shein) e a [página da SHEIN](/cupons/shein), com o link principal da loja.",
+          "**O 4CW5Y dá desconto, sim, mas não é cupom:** abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, sem colar no checkout. Quanto e em quais peças, a SHEIN decide. Veja o [código de indicação SHEIN](/reviews/codigo-de-indicacao-shein) e a [página da SHEIN](/cupons/shein), com o link principal da loja.",
           "**Vai esperar a Black Friday?** O guia da [Black Friday SHEIN](/reviews/black-friday-shein) traz o que já se sabe da campanha de novembro.",
           "**Primeira compra na SHEIN?** Leia antes o guia [SHEIN é confiável?](/reviews/shein-e-confiavel)."
         ]
@@ -135208,7 +135208,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Até quando vai a 11.11 da SHEIN? Termina no dia seguinte ao 11.11, segundo a SHEIN; a data está na resposta rápida acima.",
           "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da leitura, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
-          "O 4CW5Y é cupom? Não. É o código de indicação da SHEIN: pesquisa-se na busca do aplicativo e ele não se cola no checkout.",
+          "O 4CW5Y é cupom? Não, mas dá desconto, sim. É o código de indicação da SHEIN: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site para chegar a uma seleção com promoções e descontos; ele não se cola no checkout.",
           "Os links levam direto à peça? Sim. A foto e o card de cada peça abrem a página dela dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
         ]
       }
@@ -135268,7 +135268,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The store advertises big discounts in the 11.11 Mega Sale, until November 12. Cecília picked 19 pieces in 5 groups: pajamas, kids, women, accessories and men; prices and discounts change by piece. 4CW5Y is the referral code: search for it in the SHEIN app, not at checkout, because it is not a coupon."
+          "The store advertises big discounts in the 11.11 Mega Sale, until November 12. Cecília picked 19 pieces in 5 groups: pajamas, kids, women, accessories and men. 4CW5Y does give you a discount: open SHEIN through Cecília's link and search the code in the app or on the site to reach a selection with promotions; SHEIN decides how much and on which pieces."
         ]
       },
       {
@@ -135276,7 +135276,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN's 11.11 Mega Sale has already started. It is up to 85% off on more than 600,000 products, says SHEIN, and the store is steering shoppers toward the app.",
           "The entry page is [11.11 Global Sale Selections](https://onelink.shein.com/58/66i60wu7xjjd). For the 19 pieces below, the photo and the card open each piece's page inside the campaign.",
-          "4CW5Y is SHEIN's referral code: you search for it in the app's search bar and do not paste it at checkout, because it is not a coupon. The step-by-step is in [SHEIN referral code: how to use 4CW5Y](/en/reviews/shein-referral-code-where-to-enter)."
+          "4CW5Y is SHEIN's referral code, and it does give you a discount: open SHEIN through Cecília's link and search the code in the app or on the site, and it opens a page with a selection of products, promotions and discounts. SHEIN decides how much and on which pieces. It is not a coupon and is not pasted at checkout. The step-by-step is in [SHEIN referral code: how to use 4CW5Y](/en/reviews/shein-referral-code-where-to-enter)."
         ]
       },
       {
@@ -136062,7 +136062,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**The discount changes every day:** each piece's discount is the one from the day it was checked, and SHEIN changes the offers during the campaign.",
           "**Size:** if you are between two sizes, check the piece's size chart before choosing, because the sizing changes from piece to piece.",
-          "**4CW5Y is a referral code, not a coupon:** you search for it in the app's search bar and do not paste it at checkout. See the [SHEIN referral code](/en/reviews/shein-referral-code-where-to-enter) and the [SHEIN page](/en/coupons/shein), with the store's main link.",
+          "**4CW5Y does give you a discount, but it is not a coupon:** open SHEIN through Cecília's link and search the code in the app or on the site, and do not paste it at checkout. SHEIN decides how much and on which pieces. See the [SHEIN referral code](/en/reviews/shein-referral-code-where-to-enter) and the [SHEIN page](/en/coupons/shein), with the store's main link.",
           "**Waiting for Black Friday?** The [SHEIN Black Friday](/en/reviews/shein-black-friday-dates-taxes) guide covers what is already known about the November campaign.",
           "**First time buying on SHEIN?** Read the guide [Is SHEIN legit?](/en/reviews/is-shein-legit-and-safe) first."
         ]
@@ -136072,7 +136072,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Until when does SHEIN 11.11 run? It ends the day after 11.11, according to SHEIN; the date is in the quick answer above.",
           "Can the discount on the pieces change? Yes. The discounts in this guide are the ones from the day they were checked, and SHEIN changes the offers during the campaign.",
-          "Is 4CW5Y a coupon? No. It is SHEIN's referral code: you search for it in the app's search bar and it is not pasted at checkout.",
+          "Is 4CW5Y a coupon? No, but it does give you a discount. It is SHEIN's referral code: open SHEIN through Cecília's link and search the code in the app or on the site to reach a selection with promotions and discounts; it is not pasted at checkout.",
           "Do the links go straight to the piece? Yes. The photo and the card of each piece open its page inside the 11.11 campaign, and the campaign link opens the Global Sale Selections page."
         ]
       }
@@ -136132,7 +136132,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "La tienda anuncia grandes descuentos en la Mega Promoción 11.11, hasta el 12 de noviembre. Cecília eligió 19 prendas en 5 grupos: pijamas, infantil, mujer, accesorios y hombre; precios y descuentos cambian según la prenda. 4CW5Y es el código de referido: búscalo en la app de SHEIN, no en el checkout, porque no es un cupón."
+          "La tienda anuncia grandes descuentos en la Mega Promoción 11.11, hasta el 12 de noviembre. Cecília eligió 19 prendas en 5 grupos: pijamas, infantil, mujer, accesorios y hombre. El 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o el sitio para llegar a una selección con promociones; cuánto y en qué prendas, lo decide SHEIN."
         ]
       },
       {
@@ -136140,7 +136140,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "La Mega Promoción 11.11 de SHEIN ya empezó. Hay hasta un 85 % de descuento en más de 600 mil productos, según SHEIN, y la tienda dirige la campaña a la app.",
           "La página de entrada es la de [Selecciones de Ventas Globales del 11.11](https://onelink.shein.com/58/66i60wu7xjjd). En las 19 prendas de abajo, la foto y la tarjeta abren la página de cada una dentro de la campaña.",
-          "El 4CW5Y es el código de referido de SHEIN: se busca en la barra de búsqueda de la app y no se pega en el checkout, porque no es un cupón. El paso a paso está en [Código de referido de SHEIN: cómo usar el 4CW5Y](/es/reviews/codigo-de-referido-shein-donde-ponerlo)."
+          "El 4CW5Y es el código de referido de SHEIN y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, y se abre una página con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN. No es un cupón y no se pega en el checkout. El paso a paso está en [Código de referido de SHEIN: cómo usar el 4CW5Y](/es/reviews/codigo-de-referido-shein-donde-ponerlo)."
         ]
       },
       {
@@ -136926,7 +136926,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**El descuento cambia todos los días:** el descuento de cada prenda es el del día de la lectura, y SHEIN cambia las ofertas durante la campaña.",
           "**Talla:** si estás entre dos tallas, mira la tabla de medidas de la prenda antes de elegir, porque la talla cambia de una prenda a otra.",
-          "**El 4CW5Y es código de referido, no cupón:** se busca en la barra de búsqueda de la app y no se pega en el checkout. Mira el [código de referido de SHEIN](/es/reviews/codigo-de-referido-shein-donde-ponerlo) y la [página de SHEIN](/es/coupons/shein), con el enlace principal de la tienda.",
+          "**El 4CW5Y sí da descuento, pero no es un cupón:** abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, sin pegarlo en el checkout. Cuánto y en qué prendas lo decide SHEIN. Mira el [código de referido de SHEIN](/es/reviews/codigo-de-referido-shein-donde-ponerlo) y la [página de SHEIN](/es/coupons/shein), con el enlace principal de la tienda.",
           "**¿Vas a esperar al Black Friday?** La guía del [Black Friday de SHEIN](/es/reviews/black-friday-shein-fechas-impuestos) recoge lo que ya se sabe de la campaña de noviembre.",
           "**¿Primera compra en SHEIN?** Lee antes la guía [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
         ]
@@ -136936,7 +136936,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Hasta cuándo va el 11.11 de SHEIN? Termina el día siguiente al 11.11, según SHEIN; la fecha está en la respuesta rápida de arriba.",
           "¿Puede cambiar el descuento de las prendas? Sí. Los descuentos de esta guía son los del día de la lectura, y SHEIN cambia las ofertas durante la campaña.",
-          "¿El 4CW5Y es un cupón? No. Es el código de referido de SHEIN: se busca en la barra de búsqueda de la app y no se pega en el checkout.",
+          "¿El 4CW5Y es un cupón? No, pero sí da descuento. Es el código de referido de SHEIN: abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio para llegar a una selección con promociones y descuentos; no se pega en el checkout.",
           "¿Los enlaces llevan directo a la prenda? Sí. La foto y la tarjeta de cada prenda abren su página dentro de la campaña 11.11, y el enlace de la campaña abre la página de Selecciones de Ventas Globales."
         ]
       }
@@ -136996,7 +136996,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La boutique annonce de grosses remises pendant la Méga Promotion 11.11, jusqu'au 12 novembre. Cecília a choisi 19 pièces en 5 groupes : pyjamas, enfant, femme, accessoires et homme ; prix et remises changent selon la pièce. Le 4CW5Y est le code de parrainage : cherchez-le dans l'appli SHEIN, pas au paiement, car ce n'est pas un coupon."
+          "La boutique annonce de grosses remises pendant la Méga Promotion 11.11, jusqu'au 12 novembre. Cecília a choisi 19 pièces en 5 groupes : pyjamas, enfant, femme, accessoires et homme. Le 4CW5Y donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site pour arriver sur une sélection avec promotions ; SHEIN décide du montant et des pièces."
         ]
       },
       {
@@ -137004,7 +137004,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "La Méga Promotion 11.11 de SHEIN a déjà commencé. Elle va jusqu'à 85 % de remise sur plus de 600 000 produits, d'après SHEIN, et la boutique dirige la campagne vers l'appli.",
           "La page d'entrée est celle des [Sélections des ventes mondiales du 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Pour les 19 pièces ci-dessous, la photo et la carte ouvrent la page de chacune dans la campagne.",
-          "Le 4CW5Y est le code de parrainage de SHEIN : on le recherche dans la barre de recherche de l'appli et on ne le colle pas au paiement, parce que ce n'est pas un coupon. Le pas à pas est dans [Code de parrainage SHEIN : comment utiliser le 4CW5Y](/fr/reviews/code-de-parrainage-shein-ou-le-mettre)."
+          "Le 4CW5Y est le code de parrainage de SHEIN et il donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site, et il ouvre une page avec une sélection de produits, de promotions et de remises. SHEIN décide du montant et des pièces concernées. Ce n'est pas un coupon et on ne le colle pas au paiement. Le pas à pas est dans [Code de parrainage SHEIN : comment utiliser le 4CW5Y](/fr/reviews/code-de-parrainage-shein-ou-le-mettre)."
         ]
       },
       {
@@ -137790,7 +137790,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**La remise change tous les jours :** la remise de chaque pièce est celle du jour du relevé, et SHEIN change les offres pendant la campagne.",
           "**Taille :** si vous hésitez entre deux tailles, regardez le guide des tailles de la pièce avant de choisir, parce que les tailles changent d'une pièce à l'autre.",
-          "**Le 4CW5Y est un code de parrainage, pas un coupon :** on le recherche dans la barre de recherche de l'appli et on ne le colle pas au paiement. Voir le [code de parrainage SHEIN](/fr/reviews/code-de-parrainage-shein-ou-le-mettre) et la [page SHEIN](/fr/coupons/shein), avec le lien principal de la boutique.",
+          "**Le 4CW5Y donne bien une remise, mais ce n'est pas un coupon :** ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site, sans le coller au paiement. SHEIN décide du montant et des pièces concernées. Voir le [code de parrainage SHEIN](/fr/reviews/code-de-parrainage-shein-ou-le-mettre) et la [page SHEIN](/fr/coupons/shein), avec le lien principal de la boutique.",
           "**Vous allez attendre le Black Friday ?** Le guide du [Black Friday SHEIN](/fr/reviews/black-friday-shein-dates-et-taxes) rassemble ce que l'on sait déjà de la campagne de novembre.",
           "**Première commande sur SHEIN ?** Lisez d'abord le guide [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)"
         ]
@@ -137800,7 +137800,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Jusqu'à quand va le 11.11 de SHEIN ? Il se termine le lendemain du 11.11, d'après SHEIN ; la date est dans la réponse rapide ci-dessus.",
           "La remise sur les pièces peut-elle changer ? Oui. Les remises de ce guide sont celles du jour du relevé, et SHEIN change les offres pendant la campagne.",
-          "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de SHEIN : on le recherche dans la barre de recherche de l'appli et on ne le colle pas au paiement.",
+          "Le 4CW5Y est-il un coupon ? Non, mais il donne bien une remise. C'est le code de parrainage de SHEIN : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site pour arriver sur une sélection avec promotions et remises ; on ne le colle pas au paiement.",
           "Les liens mènent-ils directement à la pièce ? Oui. La photo et la carte de chaque pièce ouvrent sa page dans la campagne 11.11, et le lien de la campagne ouvre la page des Sélections des ventes mondiales."
         ]
       }
@@ -137860,7 +137860,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il negozio annuncia grandi sconti nella Mega Promozione 11.11, fino al 12 novembre. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo; prezzi e sconti cambiano per articolo. Il 4CW5Y è il codice invito: cercalo nell'app SHEIN, non al checkout, perché non è un coupon."
+          "Il negozio annuncia grandi sconti nella Mega Promozione 11.11, fino al 12 novembre. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Il 4CW5Y dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito per arrivare a una selezione con promozioni; quanto e su quali articoli lo decide SHEIN."
         ]
       },
       {
@@ -137868,7 +137868,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "La Mega Promozione 11.11 di SHEIN è già iniziata. Secondo SHEIN, gli sconti arrivano fino all'85% su più di 600 mila prodotti, e il negozio spinge la campagna sull'app.",
           "La pagina di ingresso è quella delle [Selezioni di Vendita Globali dell'11.11](https://onelink.shein.com/58/66i60wu7xjjd). Per i 19 articoli qui sotto, la foto e la scheda aprono la pagina di ciascuno dentro la campagna.",
-          "Il 4CW5Y è il codice invito di SHEIN: si cerca nella barra di ricerca dell'app e non si incolla al checkout, perché non è un coupon. I passaggi sono in [Codice invito SHEIN: come usare il 4CW5Y](/it/reviews/codice-invito-shein-dove-inserirlo)."
+          "Il 4CW5Y è il codice invito di SHEIN e dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito, e si apre una pagina con una selezione di prodotti, promozioni e sconti. Quanto e su quali articoli lo decide SHEIN. Non è un coupon e non si incolla al checkout. I passaggi sono in [Codice invito SHEIN: come usare il 4CW5Y](/it/reviews/codice-invito-shein-dove-inserirlo)."
         ]
       },
       {
@@ -138654,7 +138654,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Lo sconto cambia ogni giorno:** lo sconto di ogni articolo è quello del giorno della lettura, e SHEIN cambia le offerte durante la campagna.",
           "**Taglia:** se sei tra due taglie, controlla la tabella delle misure dell'articolo prima di scegliere, perché la vestibilità cambia da capo a capo.",
-          "**Il 4CW5Y è un codice invito, non un coupon:** si cerca nella barra di ricerca dell'app e non si incolla al checkout. Vedi il [codice invito SHEIN](/it/reviews/codice-invito-shein-dove-inserirlo) e la [pagina di SHEIN](/it/coupons/shein), con il link principale del negozio.",
+          "**Il 4CW5Y dà sconto, sì, ma non è un coupon:** apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito, senza incollarlo al checkout. Quanto e su quali articoli lo decide SHEIN. Vedi il [codice invito SHEIN](/it/reviews/codice-invito-shein-dove-inserirlo) e la [pagina di SHEIN](/it/coupons/shein), con il link principale del negozio.",
           "**Aspetti il Black Friday?** La guida al [Black Friday SHEIN](/it/reviews/black-friday-shein-date-e-tasse) raccoglie quello che già si sa della campagna di novembre.",
           "**Primo acquisto su SHEIN?** Leggi prima la guida [SHEIN è affidabile?](/it/reviews/shein-e-affidabile-e-sicuro)."
         ]
@@ -138664,7 +138664,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Fino a quando dura l'11.11 di SHEIN? Termina il giorno dopo l'11.11, secondo SHEIN; la data è nella risposta rapida qui sopra.",
           "Lo sconto degli articoli può cambiare? Sì: gli sconti sono quelli del giorno della lettura e SHEIN cambia le offerte durante la campagna.",
-          "Il 4CW5Y è un coupon? No. È il codice invito di SHEIN: si cerca nella barra di ricerca dell'app e non si incolla al checkout.",
+          "Il 4CW5Y è un coupon? No, ma dà sconto, sì. È il codice invito di SHEIN: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito per arrivare a una selezione con promozioni e sconti; non si incolla al checkout.",
           "I link portano direttamente all'articolo? Sì. La foto e la scheda di ogni articolo aprono la sua pagina dentro la campagna 11.11, e il link della campagna apre la pagina delle Selezioni di Vendita Globali."
         ]
       }
@@ -138724,7 +138724,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Der Shop kündigt bei der Mega-Aktion 11.11 hohe Rabatte an, bis zum 12.11. Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren; Preise und Rabatte ändern sich je Teil. 4CW5Y ist der Empfehlungscode: Suchen Sie ihn in der SHEIN-App, nicht an der Kasse, denn er ist kein Gutschein."
+          "Der Shop kündigt bei der Mega-Aktion 11.11 hohe Rabatte an, bis zum 12.11. Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren. 4CW5Y gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, dann gelangen Sie zu einer Auswahl mit Aktionen; wie viel und bei welchen Teilen, entscheidet SHEIN."
         ]
       },
       {
@@ -138732,7 +138732,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Die Mega-Aktion 11.11 von SHEIN hat schon begonnen. Laut SHEIN gibt es bis zu 85 % Rabatt auf mehr als 600.000 Produkte, und der Shop verlagert die Aktion in die App.",
           "Die Einstiegsseite ist die der [globalen Sale-Auswahl zum 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Bei den 19 Teilen unten öffnen Foto und Karte jeweils die Produktseite innerhalb der Aktion.",
-          "4CW5Y ist der Empfehlungscode von SHEIN: Er wird in der Suche der App gesucht und nicht an der Kasse eingegeben, weil er kein Gutschein ist. Die Schritte stehen in [SHEIN-Empfehlungscode: so verwenden Sie 4CW5Y](/de/reviews/shein-empfehlungscode-wo-eingeben)."
+          "4CW5Y ist der Empfehlungscode von SHEIN und gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, dann öffnet sich eine Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie viel und bei welchen Teilen, entscheidet SHEIN. Er ist kein Gutschein und wird nicht an der Kasse eingegeben. Die Schritte stehen in [SHEIN-Empfehlungscode: so verwenden Sie 4CW5Y](/de/reviews/shein-empfehlungscode-wo-eingeben)."
         ]
       },
       {
@@ -139518,7 +139518,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Der Rabatt ändert sich täglich:** Der Rabatt jedes Teils ist der vom Tag des Ablesens, und SHEIN ändert die Angebote während der Aktion.",
           "**Größe:** Wenn Sie zwischen zwei Größen liegen, prüfen Sie die Maßtabelle des Teils, bevor Sie wählen, denn die Größen fallen von Teil zu Teil anders aus.",
-          "**4CW5Y ist ein Empfehlungscode, kein Gutschein:** Er wird in der Suche der App gesucht und nicht an der Kasse eingegeben. Siehe den [SHEIN-Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben) und die [SHEIN-Seite](/de/coupons/shein) mit dem Hauptlink des Shops.",
+          "**4CW5Y gibt Rabatt, ist aber kein Gutschein:** Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, nicht an der Kasse. Wie viel und bei welchen Teilen, entscheidet SHEIN. Siehe den [SHEIN-Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben) und die [SHEIN-Seite](/de/coupons/shein) mit dem Hauptlink des Shops.",
           "**Warten Sie auf den Black Friday?** Der Ratgeber zum [Black Friday bei SHEIN](/de/reviews/shein-black-friday-termine-steuern) fasst zusammen, was über die November-Aktion schon bekannt ist.",
           "**Erster Einkauf bei SHEIN?** Lesen Sie vorher den Ratgeber [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)"
         ]
@@ -139528,7 +139528,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Bis wann läuft der 11.11 von SHEIN? Er endet am Tag nach dem 11.11, laut SHEIN; das Datum steht oben in der kurzen Antwort.",
           "Kann sich der Rabatt der Teile ändern? Ja: Die Rabatte sind die vom Tag des Ablesens, und SHEIN ändert die Angebote während der Aktion.",
-          "Ist 4CW5Y ein Gutschein? Nein. Es ist der Empfehlungscode von SHEIN: Er wird in der Suche der App gesucht und nicht an der Kasse eingegeben.",
+          "Ist 4CW5Y ein Gutschein? Nein, aber er gibt Rabatt. Es ist der Empfehlungscode von SHEIN: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, um zu einer Auswahl mit Aktionen und Rabatten zu gelangen; an der Kasse wird er nicht eingegeben.",
           "Führen die Links direkt zum Teil? Ja. Foto und Karte jedes Teils öffnen seine Produktseite innerhalb der Aktion 11.11, und der Link der Aktion öffnet die Seite der globalen Sale-Auswahl."
         ]
       }
@@ -139588,7 +139588,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEIN はメガセールを11月12日まで開催しています。Cecíliaは、パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選びました（価格と割引は商品ごとに変わります）。4CW5Y は紹介コードなので、アプリの検索バーで検索し、チェックアウトには入力しません。"
+          "SHEIN はメガセールを11月12日まで開催しています。Cecíliaは、パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選びました。4CW5Y で割引が受けられます：Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索すると、プロモーション付きのセレクションに進めます（割引額と対象アイテムは SHEIN が決めます）。"
         ]
       },
       {
@@ -139596,7 +139596,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN の11.11メガセールはすでに始まっています。SHEIN によると、60万点以上の商品が最大85%オフで、キャンペーンの中心はアプリです。",
           "入口になるのは [11.11 グローバルセール セレクション](https://onelink.shein.com/58/66i60wu7xjjd) のページです。下の19アイテムは、写真とカードからキャンペーン内の各商品ページが開きます。",
-          "4CW5Y は SHEIN の紹介コードです。アプリの検索バーで検索するもので、クーポンではないため、チェックアウトには貼り付けません。手順は [SHEIN の紹介コード：4CW5Y の使い方](/ja/reviews/shein-referral-code-ja) をご覧ください。"
+          "4CW5Y は SHEIN の紹介コードで、割引が受けられます。Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索すると、商品・プロモーション・割引のセレクションのページが開きます。割引額と対象アイテムは SHEIN が決めます。クーポンではないので、チェックアウトには貼り付けません。手順は [SHEIN の紹介コード：4CW5Y の使い方](/ja/reviews/shein-referral-code-ja) をご覧ください。"
         ]
       },
       {
@@ -140382,7 +140382,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**割引は毎日変わります：** 各アイテムの割引は、確認した日のものです。SHEIN はキャンペーン中にセールの内容を変えます。",
           "**サイズ：** 2つのサイズで迷っている場合は、選ぶ前に商品ページのサイズ表を確認してください。サイズ感はアイテムごとに違います。",
-          "**4CW5Y は紹介コードで、クーポンではありません：** アプリの検索バーで検索するもので、チェックアウトには貼り付けません。[SHEIN の紹介コード](/ja/reviews/shein-referral-code-ja) と、ショップのメインリンクを載せた [SHEIN のページ](/ja/coupons/shein) をご覧ください。",
+          "**4CW5Y は割引が受けられる紹介コードで、クーポンではありません：** Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索してください。チェックアウトには貼り付けません。割引額と対象アイテムは SHEIN が決めます。[SHEIN の紹介コード](/ja/reviews/shein-referral-code-ja) と、ショップのメインリンクを載せた [SHEIN のページ](/ja/coupons/shein) をご覧ください。",
           "**ブラックフライデーまで待ちますか？** [SHEIN のブラックフライデー](/ja/reviews/shein-black-friday-ja) のガイドに、11月のキャンペーンについて、これまでにわかっていることをまとめています。",
           "**SHEIN で初めて買いますか？** 先に [SHEIN は信頼できる？](/ja/reviews/shein-trust-guide-ja) のガイドをお読みください。"
         ]
@@ -140392,7 +140392,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN の11.11はいつまでですか？ SHEIN によると、11.11の翌日に終わります。日付は上の「まずは結論」にあります。",
           "アイテムの割引は変わりますか？ はい。このガイドの割引は確認した日のもので、SHEIN はキャンペーン中にセールの内容を変えます。",
-          "4CW5Y はクーポンですか？ いいえ。SHEIN の紹介コードで、アプリの検索バーで検索するもので、チェックアウトには貼り付けません。",
+          "4CW5Y はクーポンですか？ いいえ、ただし割引は受けられます。SHEIN の紹介コードで、Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索するとプロモーションと割引のセレクションに進めます。チェックアウトには貼り付けません。",
           "リンクは商品に直接飛びますか？ はい。各アイテムの写真とカードは11.11キャンペーン内のその商品ページを開き、キャンペーンのリンクはグローバルセール セレクションのページを開きます。"
         ]
       }
@@ -140452,7 +140452,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN은 메가 세일을 11월 12일까지 진행합니다. Cecília는 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐습니다(가격과 할인은 상품마다 다릅니다). 4CW5Y는 추천 코드라서 앱 검색창에서 검색하며, 결제 화면에는 붙여 넣지 않습니다."
+          "SHEIN은 메가 세일을 11월 12일까지 진행합니다. Cecília는 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐습니다. 4CW5Y를 쓰면 할인을 받을 수 있습니다: Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션이 있는 셀렉션으로 이동합니다(할인 폭과 대상 상품은 SHEIN이 정합니다)."
         ]
       },
       {
@@ -140460,7 +140460,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN 11.11 메가 세일은 이미 시작됐습니다. SHEIN에 따르면 60만 개가 넘는 상품이 최대 85% 할인이며, 캠페인은 앱 중심으로 진행됩니다.",
           "진입 페이지는 [11.11 글로벌 세일 셀렉션](https://onelink.shein.com/58/66i60wu7xjjd)입니다. 아래 19가지는 사진과 카드를 누르면 캠페인 안의 각 상품 페이지가 열립니다.",
-          "4CW5Y는 SHEIN의 추천 코드입니다. 앱의 검색창에서 검색하는 코드이고, 쿠폰이 아니므로 결제 화면에 붙여 넣지 않습니다. 사용 방법은 [SHEIN 추천 코드: 4CW5Y 사용법](/ko/reviews/shein-referral-code-ko)에 있습니다."
+          "4CW5Y는 SHEIN의 추천 코드이며 할인을 받을 수 있습니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 상품, 프로모션, 할인이 담긴 셀렉션 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. 쿠폰이 아니므로 결제 화면에는 붙여 넣지 않습니다. 사용 방법은 [SHEIN 추천 코드: 4CW5Y 사용법](/ko/reviews/shein-referral-code-ko)에 있습니다."
         ]
       },
       {
@@ -141246,7 +141246,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**할인율은 매일 바뀝니다:** 각 상품의 할인율은 확인한 날 기준입니다. SHEIN은 캠페인 중에 세일 내용을 바꿉니다.",
           "**사이즈:** 두 사이즈 사이에서 고민된다면, 고르기 전에 상품 페이지의 사이즈표를 확인하세요. 사이즈 구성은 상품마다 다릅니다.",
-          "**4CW5Y는 추천 코드이지 쿠폰이 아닙니다:** 앱의 검색창에서 검색하는 코드이고 결제 화면에 붙여 넣지 않습니다. [SHEIN 추천 코드](/ko/reviews/shein-referral-code-ko)와 스토어의 대표 링크가 있는 [SHEIN 페이지](/ko/coupons/shein)를 보세요.",
+          "**4CW5Y는 할인을 받을 수 있는 추천 코드이며 쿠폰은 아닙니다:** Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요. 결제 화면에는 붙여 넣지 않습니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. [SHEIN 추천 코드](/ko/reviews/shein-referral-code-ko)와 스토어의 대표 링크가 있는 [SHEIN 페이지](/ko/coupons/shein)를 보세요.",
           "**블랙 프라이데이를 기다리시나요?** [SHEIN 블랙 프라이데이](/ko/reviews/shein-black-friday-ko) 가이드에 11월 캠페인에 대해 지금까지 알려진 내용을 정리했습니다.",
           "**SHEIN에서 처음 사시나요?** 먼저 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko) 가이드를 읽어 보세요."
         ]
@@ -141256,7 +141256,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 11.11은 언제까지인가요? SHEIN에 따르면 11.11 다음 날 끝납니다. 날짜는 위의 답변 요약에 있습니다.",
           "상품 할인율이 바뀔 수 있나요? 네. 이 가이드의 할인율은 확인한 날 기준이고, SHEIN은 캠페인 중에 세일 내용을 바꿉니다.",
-          "4CW5Y는 쿠폰인가요? 아니요. SHEIN의 추천 코드로, 앱의 검색창에서 검색하며 결제 화면에 붙여 넣지 않습니다.",
+          "4CW5Y는 쿠폰인가요? 아니요, 하지만 할인은 받을 수 있습니다. SHEIN의 추천 코드로, Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인이 있는 셀렉션으로 이동하며 결제 화면에는 붙여 넣지 않습니다.",
           "링크를 누르면 바로 그 상품으로 가나요? 네. 각 상품의 사진과 카드는 11.11 캠페인 안에서 그 상품의 페이지를 열고, 캠페인 링크는 글로벌 세일 셀렉션 페이지를 엽니다."
         ]
       }
@@ -141316,7 +141316,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 大促到 11 月 12 日结束。Cecília 挑了 19 件，分 5 组：睡衣、童装、女装、配饰和男装，价格和折扣因商品而异。4CW5Y 是推荐码，在 App 搜索栏搜索，不粘贴到结算页。"
+          "SHEIN 大促到 11 月 12 日结束。Cecília 挑了 19 件，分 5 组：睡衣、童装、女装、配饰和男装，价格和折扣因商品而异。用 4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，就能进入带促销的精选（折扣多少、哪些商品，由 SHEIN 决定）。"
         ]
       },
       {
@@ -141324,7 +141324,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN 的 11.11 大促已经开始。据 SHEIN 称，60 万件以上商品最高减 85%，店里还把活动引向 App。",
           "入口页是[11.11 全球热卖精选](https://onelink.shein.com/58/66i60wu7xjjd)。下面的 19 件，点图片和卡片都会在活动里打开各自的商品页。",
-          "4CW5Y 是 SHEIN 的推荐码：在 App 的搜索栏里搜索，不粘贴到结算页，因为它不是优惠券。步骤见[SHEIN 推荐码：如何使用 4CW5Y](/zh-hans/reviews/shein-referral-code-zh-hans)。"
+          "4CW5Y 是 SHEIN 的推荐码，确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，会打开一个包含精选商品、促销和折扣的页面。折扣多少、哪些商品，由 SHEIN 决定。它不是优惠券，不粘贴到结算页。步骤见[SHEIN 推荐码：如何使用 4CW5Y](/zh-hans/reviews/shein-referral-code-zh-hans)。"
         ]
       },
       {
@@ -142110,7 +142110,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**折扣天天变：**每件的折扣都是读取当天的。SHEIN 在活动期间会调整优惠。",
           "**尺码：**如果你在两个码之间犹豫，选之前先看商品页的尺码表，因为每件的尺码都不一样。",
-          "**4CW5Y 是推荐码，不是优惠券：**在 App 的搜索栏里搜索，不粘贴到结算页。见[SHEIN 推荐码](/zh-hans/reviews/shein-referral-code-zh-hans)和带商店主链接的[SHEIN 店铺页面](/zh-hans/coupons/shein)。",
+          "**4CW5Y 是推荐码，确实有折扣，但不是优惠券：**通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，不粘贴到结算页。折扣多少、哪些商品，由 SHEIN 决定。见[SHEIN 推荐码](/zh-hans/reviews/shein-referral-code-zh-hans)和带商店主链接的[SHEIN 店铺页面](/zh-hans/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hans/reviews/shein-black-friday-zh-hans)指南整理了 11 月活动目前已知的信息。",
           "**第一次在 SHEIN 买？**先读这篇指南：[SHEIN 靠谱吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)"
         ]
@@ -142120,7 +142120,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 11.11 到什么时候？据 SHEIN 称，到 11.11 的次日结束；日期见上面的快速回答。",
           "这些商品的折扣会变吗？会。本文的折扣是读取当天的，SHEIN 在活动期间会调整优惠。",
-          "4CW5Y 是优惠券吗？不是。它是 SHEIN 的推荐码：在 App 的搜索栏里搜索，不粘贴到结算页。",
+          "4CW5Y 是优惠券吗？不是，但确实有折扣。它是 SHEIN 的推荐码：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索，就能进入带促销和折扣的精选，不粘贴到结算页。",
           "链接直接到商品吗？是。每件商品的图片和卡片都在 11.11 活动里打开该商品的页面，活动链接打开的是全球热卖精选页面。"
         ]
       }
@@ -142180,7 +142180,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 大促到 11 月 12 日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝，價格和折扣因商品而異。4CW5Y 是推薦碼，在 App 搜尋欄搜尋，不貼到結帳頁。"
+          "SHEIN 大促到 11 月 12 日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝，價格和折扣因商品而異。用 4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，就能進入帶促銷的精選（折扣多少、哪些商品，由 SHEIN 決定）。"
         ]
       },
       {
@@ -142188,7 +142188,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN 的 11.11 大促已經開始。據 SHEIN 表示，60 萬件以上商品最高減 85%，店家還把活動引向 App。",
           "入口頁是[11.11 全球熱銷精選](https://onelink.shein.com/58/66i60wu7xjjd)。下面的 19 件，點圖片和卡片都會在活動裡開啟各自的商品頁。",
-          "4CW5Y 是 SHEIN 的推薦碼：在 App 的搜尋欄搜尋，不貼到結帳頁，因為它不是優惠券。步驟見[SHEIN 推薦碼：如何使用 4CW5Y](/zh-hant/reviews/shein-referral-code-zh-hant)。"
+          "4CW5Y 是 SHEIN 的推薦碼，確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，會開啟一個包含精選商品、促銷和折扣的頁面。折扣多少、哪些商品，由 SHEIN 決定。它不是優惠券，不貼到結帳頁。步驟見[SHEIN 推薦碼：如何使用 4CW5Y](/zh-hant/reviews/shein-referral-code-zh-hant)。"
         ]
       },
       {
@@ -142974,7 +142974,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**折扣天天變：**每件的折扣都是查看當天的。SHEIN 在活動期間會調整優惠。",
           "**尺寸：**如果你在兩個尺寸之間猶豫，選之前先看商品頁的尺寸表，因為每件的尺寸都不一樣。",
-          "**4CW5Y 是推薦碼，不是優惠券：**在 App 的搜尋欄搜尋，不貼到結帳頁。見[SHEIN 推薦碼](/zh-hant/reviews/shein-referral-code-zh-hant)和附商店主連結的[SHEIN 商店頁面](/zh-hant/coupons/shein)。",
+          "**4CW5Y 是推薦碼，確實有折扣，但不是優惠券：**透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，不貼到結帳頁。折扣多少、哪些商品，由 SHEIN 決定。見[SHEIN 推薦碼](/zh-hant/reviews/shein-referral-code-zh-hant)和附商店主連結的[SHEIN 商店頁面](/zh-hant/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hant/reviews/shein-black-friday-zh-hant)指南整理了 11 月活動目前已知的資訊。",
           "**第一次在 SHEIN 買？**先讀這篇指南：[SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)"
         ]
@@ -142984,7 +142984,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 11.11 到什麼時候？據 SHEIN 表示，到 11.11 的隔天結束；日期見上面的快速回答。",
           "這些商品的折扣會變嗎？會。本文的折扣是查看當天的，SHEIN 在活動期間會調整優惠。",
-          "4CW5Y 是優惠券嗎？不是。它是 SHEIN 的推薦碼：在 App 的搜尋欄搜尋，不貼到結帳頁。",
+          "4CW5Y 是優惠券嗎？不是，但確實有折扣。它是 SHEIN 的推薦碼：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋，就能進入帶促銷和折扣的精選，不貼到結帳頁。",
           "連結直接到商品嗎？是。每件商品的圖片和卡片都在 11.11 活動裡開啟該商品的頁面，活動連結開啟的是全球熱銷精選頁面。"
         ]
       }
@@ -169172,7 +169172,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como escolher vestido de festa na SHEIN para formatura, casamento como convidada e fim de ano: ocasião, tecido, tamanho, prazo e imposto, com três vestidos lidos na loja.",
-    "metaDescription": "Vestido de festa SHEIN: ocasião, tecido, tamanho e prazo; pesquise 4CW5Y no app da SHEIN, código de indicação.",
+    "metaDescription": "Vestido de festa SHEIN com 4CW5Y: desconto na seleção indicada, ocasião, tecido, tamanho e prazo.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "updatedAt": "2026-11-07",
@@ -169501,7 +169501,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Um cupom da plataforma vale por pedido, em todas as formas de pagamento.",
-          "O 4CW5Y não é cupom. É o código de indicação da SHEIN: pesquisa-se na barra de busca do aplicativo, não se cola no checkout, e não dá desconto nem soma com nada. Como funciona, veja [o código de indicação](/reviews/codigo-de-indicacao-shein). As campanhas da loja ficam na [página da SHEIN](/cupons/shein)."
+          "O 4CW5Y não é cupom. É o código de indicação da SHEIN e dá desconto, sim: use o link deste artigo, ou copie o código e pesquise no app ou no site da SHEIN, e abre uma página especial com uma seleção de produtos, promoções e descontos. Não se cola no checkout. Quanto e em quais peças, a SHEIN decide e varia. Como funciona, veja [o código de indicação](/reviews/codigo-de-indicacao-shein). As campanhas da loja ficam na [página da SHEIN](/cupons/shein)."
         ],
         "images": [
           {
@@ -169520,7 +169520,7 @@ export const reviewsData: unknown[] = [
           "Vestido de festa da SHEIN chega a tempo para o Natal? Depende da data do pedido e não há garantia. Compare a previsão final do pedido com a data da festa e deixe margem para provar. Uma estimativa não é promessa de chegada.",
           "Como saber se o vestido é longo ou midi? Pelo comprimento que a descrição declara e pela medida em centímetros no guia de tamanho da peça.",
           "A SHEIN cobra imposto no vestido? Imposto de importação, não, em pedido internacional de até US$ 50 com o frete, para pessoa física em site certificado. Acima disso, ele volta, e o ICMS é cobrado em toda compra internacional.",
-          "Dá para usar o 4CW5Y para ganhar desconto? Não. É código de indicação: não dá desconto e não é cupom."
+          "Dá para usar o 4CW5Y para ganhar desconto? Sim. O 4CW5Y dá desconto: pelo link ou pesquisado no app ou no site, abre uma seleção de produtos e promoções da SHEIN. Quanto e em quais peças, a SHEIN decide. Não é cupom."
         ]
       }
     ],
@@ -169865,7 +169865,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A platform coupon is valid once per order, with every payment method.",
-          "4CW5Y is not a coupon. It is the SHEIN referral code: you search for it in the app's search bar, you do not paste it at checkout, and it gives no discount and does not stack with anything. To see how it works, read [the referral code](/en/reviews/shein-referral-code-where-to-enter). The store's campaigns are on the [SHEIN page](/en/coupons/shein)."
+          "4CW5Y is not a coupon. It is the SHEIN referral code, and it does give you a discount: open SHEIN through this article's link and search 4CW5Y in the app or on the site: the code opens a special page with a selection of products, promotions and discounts. You do not paste it at checkout. How much and on which pieces is up to SHEIN and varies. To see how it works, read [the referral code](/en/reviews/shein-referral-code-where-to-enter). The store's campaigns are on the [SHEIN page](/en/coupons/shein)."
         ],
         "images": [
           {
@@ -169883,7 +169883,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Will a SHEIN party dress arrive in time for Christmas? There is no guarantee. Compare the final delivery estimate on the order page with the party date, and leave some margin to try it on. An estimate is not a delivery promise.",
           "How can I tell if the dress is long or midi? By the length the description states and by the measurement in centimeters in the piece's size guide.",
-          "Can I use 4CW5Y to get a discount? No. It is a referral code: it gives no discount and is not a coupon."
+          "Can I use 4CW5Y to get a discount? Yes. 4CW5Y does give you a discount: open SHEIN through the link and search for it in the app or on the site, and it opens a selection of SHEIN products and promotions. How much and on which pieces is up to SHEIN. It is not a coupon."
         ]
       }
     ],
@@ -170228,7 +170228,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Un cupón de la plataforma vale por pedido, con todas las formas de pago.",
-          "El 4CW5Y no es un cupón. Es el código de invitación de SHEIN: se busca en la barra de búsqueda de la aplicación, no se pega en el pago, y no da descuento ni se suma a nada. Cómo funciona, véalo en [el código de invitación](/es/reviews/codigo-de-referido-shein-donde-ponerlo). Las campañas de la tienda están en la [página de SHEIN](/es/coupons/shein)."
+          "El 4CW5Y no es un cupón. Es el código de invitación de SHEIN y da descuento, sí: abra SHEIN con el enlace de este artículo y busque el 4CW5Y en la aplicación o en el sitio: el código abre una página especial con una selección de productos, promociones y descuentos. No se pega en el pago. Cuánto y en qué prendas lo decide SHEIN y varía. Cómo funciona, véalo en [el código de invitación](/es/reviews/codigo-de-referido-shein-donde-ponerlo). Las campañas de la tienda están en la [página de SHEIN](/es/coupons/shein)."
         ],
         "images": [
           {
@@ -170246,7 +170246,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido y no hay garantía. Compare la previsión final de la página con la fecha de la fiesta y deje margen para probárselo. Una estimación no es una promesa de llegada.",
           "¿Cómo saber si el vestido es largo o midi? Por el largo que declara la descripción y por la medida en centímetros de la guía de tallas de la prenda.",
-          "¿Se puede usar el 4CW5Y para conseguir descuento? No. Es un código de invitación: no da descuento y no es un cupón."
+          "¿Se puede usar el 4CW5Y para conseguir descuento? Sí. El 4CW5Y da descuento: abra SHEIN con el enlace y búsquelo en la aplicación o en el sitio, y se abre una selección de productos y promociones de SHEIN. Cuánto y en qué prendas lo decide SHEIN. No es un cupón."
         ]
       }
     ],
@@ -170591,7 +170591,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Un coupon de la plateforme vaut par commande, avec tous les modes de paiement.",
-          "Le 4CW5Y n'est pas un coupon. C'est le code de parrainage de SHEIN : on le recherche dans la barre de recherche de l'application, on ne le colle pas au paiement, et il ne donne aucune réduction ni ne se cumule avec rien. Pour comprendre comment il fonctionne, lisez [le code de parrainage](/fr/reviews/code-de-parrainage-shein-ou-le-mettre). Les campagnes de la boutique sont sur la [page SHEIN](/fr/coupons/shein)."
+          "Le 4CW5Y n'est pas un coupon. C'est le code de parrainage de SHEIN et il donne une réduction, oui : ouvrez SHEIN par le lien de cet article et recherchez le 4CW5Y dans l'application ou sur le site : le code ouvre une page spéciale avec une sélection de produits, de promotions et de réductions. On ne le colle pas au paiement. Le montant et les pièces concernées sont décidés par SHEIN et varient. Pour comprendre comment il fonctionne, lisez [le code de parrainage](/fr/reviews/code-de-parrainage-shein-ou-le-mettre). Les campagnes de la boutique sont sur la [page SHEIN](/fr/coupons/shein)."
         ],
         "images": [
           {
@@ -170609,7 +170609,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Une robe de soirée SHEIN arrive-t-elle à temps pour Noël ? Cela dépend de la date de commande et ce n’est pas garanti. Comparez l’estimation finale indiquée sur la page avec la date de la fête, en gardant une marge pour l’essayage. Une estimation n’est pas une promesse de livraison.",
           "Comment savoir si la robe est longue ou midi ? Par la longueur que déclare la description et par la mesure en centimètres du guide des tailles de la pièce.",
-          "Peut-on utiliser le 4CW5Y pour obtenir une réduction ? Non. C'est un code de parrainage : il ne donne aucune réduction et n'est pas un coupon."
+          "Peut-on utiliser le 4CW5Y pour obtenir une réduction ? Oui. Le 4CW5Y donne une réduction : ouvrez SHEIN par le lien, puis recherchez-le dans l'application ou sur le site : il ouvre une sélection de produits et de promotions de SHEIN. Le montant et les pièces concernées sont décidés par SHEIN. Ce n'est pas un coupon."
         ]
       }
     ],
@@ -170954,7 +170954,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Ein Gutschein der Plattform gilt pro Bestellung, bei allen Zahlungsarten.",
-          "4CW5Y ist kein Gutschein. Es ist der Empfehlungscode von SHEIN: Man sucht ihn in der Suchleiste der App, fügt ihn nicht an der Kasse ein, er gibt keinen Rabatt und lässt sich mit nichts kombinieren. Wie er funktioniert, lesen Sie unter [der Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben). Die Aktionen des Shops finden Sie auf der [SHEIN-Seite](/de/coupons/shein)."
+          "4CW5Y ist kein Gutschein. Es ist der Empfehlungscode von SHEIN und er gibt Rabatt, ja: Öffnen Sie SHEIN über den Link in diesem Artikel und suchen Sie 4CW5Y in der App oder auf der Website: Der Code öffnet eine Sonderseite mit einer Auswahl an Produkten, Aktionen und Rabatten. An der Kasse fügt man ihn nicht ein. Wie viel und auf welche Teile, entscheidet SHEIN, und es variiert. Wie er funktioniert, lesen Sie unter [der Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben). Die Aktionen des Shops finden Sie auf der [SHEIN-Seite](/de/coupons/shein)."
         ],
         "images": [
           {
@@ -170972,7 +170972,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Kommt ein SHEIN-Partykleid rechtzeitig zu Weihnachten an? Das hängt vom Bestelldatum ab und ist nicht garantiert. Vergleichen Sie die endgültige Schätzung der Bestellseite mit dem Termin der Feier und planen Sie einen Puffer zum Anprobieren ein. Eine Schätzung ist kein Lieferversprechen.",
           "Woran erkennt man, ob das Kleid lang oder midi ist? An der Länge, die die Beschreibung angibt, und am Maß in Zentimetern in der Größentabelle des Teils.",
-          "Kann man mit 4CW5Y einen Rabatt bekommen? Nein. Es ist ein Empfehlungscode: Er gibt keinen Rabatt und ist kein Gutschein."
+          "Kann man mit 4CW5Y einen Rabatt bekommen? Ja. 4CW5Y gibt Rabatt: Öffnen Sie SHEIN über den Link und suchen Sie den Code in der App oder auf der Website, dann öffnet sich eine Auswahl an Produkten und Aktionen von SHEIN. Wie viel und auf welche Teile, entscheidet SHEIN. Es ist kein Gutschein."
         ]
       }
     ],
@@ -171317,7 +171317,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Un coupon della piattaforma vale per ordine, con tutti i metodi di pagamento.",
-          "Il 4CW5Y non è un coupon. È il codice di invito di SHEIN: si cerca nella barra di ricerca dell'app, non si incolla al checkout, non dà sconto e non si somma a nulla. Per capire come funziona, leggete [il codice di invito](/it/reviews/codice-invito-shein-dove-inserirlo). Le campagne del negozio sono nella [pagina di SHEIN](/it/coupons/shein)."
+          "Il 4CW5Y non è un coupon. È il codice di invito di SHEIN e dà sconto, sì: aprite SHEIN dal link di questo articolo e cercate 4CW5Y nell'app o sul sito: il codice apre una pagina speciale con una selezione di prodotti, promozioni e sconti. Non si incolla al checkout. Quanto e su quali capi lo decide SHEIN e varia. Per capire come funziona, leggete [il codice di invito](/it/reviews/codice-invito-shein-dove-inserirlo). Le campagne del negozio sono nella [pagina di SHEIN](/it/coupons/shein)."
         ],
         "images": [
           {
@@ -171335,7 +171335,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell’ordine e non è garantito. Confrontate la stima finale della pagina con la data della festa e lasciate margine per provarlo. Una stima non è una promessa di consegna.",
           "Come capire se l'abito è lungo o midi? Dalla lunghezza dichiarata nella descrizione e dalla misura in centimetri nella guida alle taglie del capo.",
-          "Si può usare il 4CW5Y per avere uno sconto? No. È un codice di invito: non dà sconto e non è un coupon."
+          "Si può usare il 4CW5Y per avere uno sconto? Sì. Il 4CW5Y dà sconto: aprite SHEIN dal link e cercatelo nell'app o sul sito, e si apre una selezione di prodotti e promozioni di SHEIN. Quanto e su quali capi lo decide SHEIN. Non è un coupon."
         ]
       }
     ],
@@ -171680,7 +171680,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "플랫폼 쿠폰은 주문당 하나가 적용되며, 모든 결제 수단에서 사용할 수 있습니다.",
-          "4CW5Y는 쿠폰이 아닙니다. SHEIN의 추천 코드로, 앱의 검색창에서 검색하며 결제 화면에 붙여 넣지 않습니다. 할인도 없고 다른 혜택과 합쳐지지도 않습니다. 작동 방식은 [추천 코드 가이드](/ko/reviews/shein-referral-code-ko)를 참고하세요. 쇼핑몰의 캠페인은 [SHEIN 페이지](/ko/coupons/shein)에 있습니다."
+          "4CW5Y는 쿠폰이 아닙니다. SHEIN의 추천 코드이며 할인이 있습니다. 이 글의 링크로 SHEIN을 열고 앱 또는 사이트에서 4CW5Y를 검색하면 상품, 프로모션, 할인을 모은 특별 페이지가 열립니다. 결제 화면에 붙여 넣지는 않습니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. 작동 방식은 [추천 코드 가이드](/ko/reviews/shein-referral-code-ko)를 참고하세요. 쇼핑몰의 캠페인은 [SHEIN 페이지](/ko/coupons/shein)에 있습니다."
         ],
         "images": [
           {
@@ -171698,7 +171698,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 파티 드레스는 크리스마스에 맞춰 도착하나요? 주문 날짜에 따라 다르며 보장되지 않습니다. 주문 페이지의 최종 배송 예정일을 파티 날짜와 비교하고 입어 볼 여유를 두세요. 예정일은 도착 보장이 아닙니다.",
           "드레스가 롱인지 미디인지 어떻게 알 수 있나요? 설명에 적힌 길이와 해당 상품 사이즈 가이드의 센티미터 치수로 확인하세요.",
-          "4CW5Y로 할인을 받을 수 있나요? 아니요. 추천 코드이므로 할인이 없고 쿠폰도 아닙니다."
+          "4CW5Y로 할인을 받을 수 있나요? 네. 4CW5Y로 할인을 받을 수 있습니다. 링크로 SHEIN을 열고 앱이나 사이트에서 검색하면 SHEIN의 상품과 프로모션 모음이 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. 쿠폰은 아닙니다."
         ]
       }
     ],
@@ -172043,7 +172043,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "プラットフォームのクーポンは1注文につき1回使え、どの支払い方法でも有効です。",
-          "4CW5Yはクーポンではありません。SHEINの紹介コードで、アプリの検索バーで検索して使い、チェックアウトには貼り付けません。割引はなく、ほかの特典と併用することもできません。仕組みは[紹介コードの記事](/ja/reviews/shein-referral-code-ja)をご覧ください。ストアのキャンペーンは[SHEINのページ](/ja/coupons/shein)にあります。"
+          "4CW5Yはクーポンではありません。SHEINの紹介コードで、割引はあります。この記事のリンクからSHEINを開き、アプリまたはサイトで4CW5Yを検索すると、商品、セール、割引を集めた特別ページが開きます。チェックアウトには貼り付けません。割引の額と対象の商品はSHEINが決めるため、変わります。仕組みは[紹介コードの記事](/ja/reviews/shein-referral-code-ja)をご覧ください。ストアのキャンペーンは[SHEINのページ](/ja/coupons/shein)にあります。"
         ],
         "images": [
           {
@@ -172061,7 +172061,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEINのパーティードレスはクリスマスに間に合いますか？注文日しだいで、保証はありません。注文ページの配達予定日をパーティーの日と比べ、試着の余裕を残してください。予定日は到着の約束ではありません。",
           "ドレスがロングかミディかは、どう見分けますか？説明に書かれた丈と、その商品のサイズガイドにあるセンチ表記で判断できます。",
-          "4CW5Yで割引は受けられますか？いいえ。紹介コードなので割引はなく、クーポンでもありません。"
+          "4CW5Yで割引は受けられますか？はい。4CW5Yで割引は受けられます。リンクからSHEINを開き、アプリかサイトで検索すると、SHEINの商品とセールの特集が開きます。額と対象の商品はSHEINが決めます。クーポンではありません。"
         ]
       }
     ],
@@ -172406,7 +172406,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "平台優惠券每筆訂單可使用一張，所有付款方式都適用。",
-          "4CW5Y 不是優惠券。它是 SHEIN 的推薦碼：在 App 的搜尋列搜尋，不要貼到結帳頁，不提供折扣，也不能與其他優惠合併。用法請見[推薦碼說明](/zh-hant/reviews/shein-referral-code-zh-hant)。店內活動在[SHEIN 頁面](/zh-hant/coupons/shein)。"
+          "4CW5Y 不是優惠券。它是 SHEIN 的推薦碼，確實有折扣：透過本文的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，就會開啟一個特別頁面，裡面有精選商品、促銷和折扣。不要貼到結帳頁。折扣多少、適用哪些商品由 SHEIN 決定，會有變化。用法請見[推薦碼說明](/zh-hant/reviews/shein-referral-code-zh-hant)。店內活動在[SHEIN 頁面](/zh-hant/coupons/shein)。"
         ],
         "images": [
           {
@@ -172424,7 +172424,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 的派對洋裝趕得上聖誕節嗎？取決於下單日期，沒有保證。把訂單頁面的最終預估送達日期與聚會日期比較，並預留試穿的餘裕。預估日期不是到貨保證。",
           "怎麼知道洋裝是長版還是中長款？看說明中標明的長度，以及該商品尺寸指南裡以公分標示的尺寸。",
-          "可以用 4CW5Y 取得折扣嗎？不行。它是推薦碼，沒有折扣，也不是優惠券。"
+          "可以用 4CW5Y 取得折扣嗎？可以。4CW5Y 有折扣：透過連結開啟 SHEIN，再在 App 或網站搜尋，會開啟 SHEIN 的精選商品與促銷頁面。折扣多少、適用哪些商品由 SHEIN 決定。它不是優惠券。"
         ]
       }
     ],
@@ -172769,7 +172769,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "平台优惠券每单可用一张，所有支付方式都适用。",
-          "4CW5Y 不是优惠券。它是 SHEIN 的推荐码：在应用的搜索栏里搜索，不要粘贴到结账页，不提供折扣，也不能与其他优惠叠加。用法见[推荐码说明](/zh-hans/reviews/shein-referral-code-zh-hans)。店内活动在[SHEIN 页面](/zh-hans/coupons/shein)。"
+          "4CW5Y 不是优惠券。它是 SHEIN 的推荐码，确实有折扣：通过本文的链接打开 SHEIN，再在应用或网站里搜索 4CW5Y，就会打开一个特别页面，里面有精选商品、促销和折扣。不要粘贴到结账页。折扣多少、适用哪些商品由 SHEIN 决定，会有变化。用法见[推荐码说明](/zh-hans/reviews/shein-referral-code-zh-hans)。店内活动在[SHEIN 页面](/zh-hans/coupons/shein)。"
         ],
         "images": [
           {
@@ -172787,7 +172787,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 的派对礼服能赶上圣诞吗？取决于下单日期，没有保证。把订单页的最终预计送达日期与聚会日期比较，并留出试穿的余量。预计日期不是到货保证。",
           "怎么知道裙子是长款还是中长款？看描述中标明的长度，以及该商品尺码指南里以厘米标注的尺寸。",
-          "可以用 4CW5Y 获得折扣吗？不能。它是推荐码，没有折扣，也不是优惠券。"
+          "可以用 4CW5Y 获得折扣吗？可以。4CW5Y 有折扣：通过链接打开 SHEIN，再在应用或网站里搜索，会打开 SHEIN 的精选商品和促销页面。折扣多少、适用哪些商品由 SHEIN 决定。它不是优惠券。"
         ]
       }
     ],
@@ -180506,7 +180506,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN vale a pena para a peça de que você sabe a medida e que pode esperar. Três peças lidas na loja mostram onde o frete, o imposto e a devolução mudam a conta antes de pagar.",
-    "metaDescription": "SHEIN vale a pena para peça de medida conhecida e sem pressa. Pesquise 4CW5Y no app da SHEIN: código de indicação, sem desconto. Frete, prazo e devolução.",
+    "metaDescription": "SHEIN vale a pena para peça de medida conhecida e sem pressa. O 4CW5Y dá desconto: use o link ou pesquise no app ou site. Frete, prazo e devolução.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -180520,7 +180520,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Ir para a SHEIN",
-      "text": "Antes de pagar, confira na página do pedido o frete, o prazo e os tributos. O 4CW5Y é código de indicação: pesquise no aplicativo, sem desconto.",
+      "text": "Antes de pagar, confira na página do pedido o frete, o prazo e os tributos. O 4CW5Y dá desconto, sim: use o link ou copie e pesquise no aplicativo ou no site da SHEIN.",
       "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
       "sponsored": true
     },
@@ -180548,7 +180548,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pode valer a pena quando as medidas e a descrição atendem ao que você procura, o prazo tem margem e o total com frete e tributos continua bom. Frete e imposto mudam bastante o custo de peças diferentes, por isso compare o total de cada uma."
+          "Pode valer a pena quando as medidas e a descrição atendem ao que você procura, o prazo tem margem e o total com frete e tributos continua bom. Frete e imposto mudam o custo de cada peça, por isso compare o total. O 4CW5Y dá desconto, sim: use o link da Cecília, ou copie e pesquise no app ou no site, e veja produtos com promoções."
         ]
       },
       {
@@ -180676,7 +180676,7 @@ export const reviewsData: unknown[] = [
           "Guarde a confirmação e o rastreio: é com eles que a devolução e o aviso de pacote perdido andam."
         ],
         "postParagraphs": [
-          "O 4CW5Y não é cupom e não dá desconto: é o código de indicação da SHEIN, que se pesquisa na barra de busca do aplicativo, e não soma com nada. As regras da loja ficam na [página da SHEIN](/cupons/shein). Quem opera a loja e a reputação dela estão em [SHEIN é confiável?](/reviews/shein-e-confiavel)."
+          "O 4CW5Y não é cupom, mas dá desconto, sim: é o código de indicação da SHEIN, que abre uma página com seleção de produtos, promoções e descontos, pelo link ou copiando e pesquisando no aplicativo ou no site. Quanto e em quais peças, a SHEIN decide e varia. As regras da loja ficam na [página da SHEIN](/cupons/shein). Quem opera a loja e a reputação dela estão em [SHEIN é confiável?](/reviews/shein-e-confiavel)."
         ],
         "images": [
           {
@@ -180706,7 +180706,7 @@ export const reviewsData: unknown[] = [
           "SHEIN vale a pena para comprar roupa cara? Compare medidas, composição, cuidados, prazo, devolução e o total com frete e tributos antes de decidir.",
           "SHEIN ainda vale a pena? Depende da peça e do total com frete e tributos, além das medidas, prazo e devolução. Um mínimo de frete grátis, sozinho, não decide.",
           "Dá para trocar de tamanho na SHEIN? Não: a política é de devolução e reembolso, e o tamanho certo vem num pedido novo; a primeira devolução de cada pedido é grátis, como mostra o capítulo da devolução.",
-          "O 4CW5Y dá desconto na SHEIN? Não: é código de indicação, que se pesquisa no aplicativo, não é cupom e não soma com nada."
+          "O 4CW5Y dá desconto na SHEIN? Sim: é código de indicação que abre uma seleção de produtos com promoções e descontos, pelo link ou pesquisado no aplicativo ou no site. Quanto e em quais peças, a SHEIN decide; não é cupom."
         ]
       }
     ],
@@ -180741,7 +180741,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN is worth it for a piece whose size you know and that can wait for delivery. Delivery time, returns and each product's details show when to buy and when to skip.",
-    "metaDescription": "SHEIN is worth it for a piece whose size you know and that can wait. Search 4CW5Y in the SHEIN app: referral code, no discount. Delivery and returns.",
+    "metaDescription": "SHEIN is worth it for a piece whose size you know and that can wait. The 4CW5Y gives a discount: search it in the app or site. Delivery, returns.",
     "publishedAt": "November 4, 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -180756,7 +180756,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Go to SHEIN",
-      "text": "Before paying, check the shipping, delivery time and taxes on the order page. The 4CW5Y is a referral code: search for it in the app, no discount.",
+      "text": "Before paying, check the shipping, delivery time and taxes on the order page. The 4CW5Y does give you a discount: use the link, or copy it and search in the SHEIN app or site.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -180784,7 +180784,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "It's worth it for a piece whose size you already know and that can wait for delivery. For an urgent purchase or a piece you need to try on, it isn't. What decides it is the delivery estimate the product page shows for your address."
+          "It's worth it for a piece whose size you already know and that can wait for delivery. For an urgent purchase or a piece you need to try on, it isn't. The 4CW5Y does give you a discount: open SHEIN through Cecília's link and search it in the app or on the site to see a selection of products with promotions."
         ]
       },
       {
@@ -180832,7 +180832,7 @@ export const reviewsData: unknown[] = [
           "Keep the confirmation and the tracking number: the return and the lost-package claim both depend on them."
         ],
         "postParagraphs": [
-          "The 4CW5Y is not a coupon and gives no discount: it's SHEIN's referral code, which you search for in the app's search bar, and it doesn't stack with anything. The store's rules are on the [SHEIN page](/en/coupons/shein). Who runs the store and its reputation are covered in [Is SHEIN trustworthy?](/en/reviews/is-shein-legit-and-safe)."
+          "The 4CW5Y is not a coupon, but it does give you a discount: it's SHEIN's referral code, which opens a page with a selection of products, promotions and discounts: open SHEIN through Cecília's link and search it in the app or on the site. How much and on which pieces is up to SHEIN and varies. The store's rules are on the [SHEIN page](/en/coupons/shein). Who runs the store and its reputation are covered in [Is SHEIN trustworthy?](/en/reviews/is-shein-legit-and-safe)."
         ],
         "images": [
           {
@@ -180862,7 +180862,7 @@ export const reviewsData: unknown[] = [
           "Is SHEIN worth it for expensive clothes? Only for someone who already knows their size and accepts returning instead of trying on.",
           "Is SHEIN still worth it? It depends on the item and total with shipping and taxes, as well as measurements, delivery and returns. A free-shipping threshold alone does not decide it.",
           "Can you exchange sizes at SHEIN? It depends on the country: the return and exchange policy for each one is in the SHEIN help center.",
-          "Does the 4CW5Y give a discount at SHEIN? No: it's a referral code, searched for in the app. It's not a coupon and doesn't stack with anything."
+          "Does the 4CW5Y give a discount at SHEIN? Yes: it's a referral code. Open SHEIN through Cecília's link and search it in the app or on the site: it opens a selection of products with promotions and discounts. How much and on which pieces is up to SHEIN; it's not a coupon."
         ]
       }
     ],
@@ -180897,7 +180897,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN vale la pena para una prenda cuya talla conoces y que puede esperar. El plazo, la devolución y la ficha de cada producto muestran cuándo comprar y cuándo pasar.",
-    "metaDescription": "SHEIN vale la pena para prendas de talla conocida y sin prisa. Busca 4CW5Y en la app de SHEIN: código de referido, sin descuento. Envío y devolución.",
+    "metaDescription": "SHEIN vale la pena para prendas de talla conocida y sin prisa. El 4CW5Y sí da descuento: búscalo en la app o el sitio. Envío, devolución.",
     "publishedAt": "4 de noviembre de 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -180912,7 +180912,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Ir a SHEIN",
-      "text": "Antes de pagar, revisa en la página del pedido el envío, el plazo y los impuestos. El 4CW5Y es un código de referido: búscalo en la app, sin descuento.",
+      "text": "Antes de pagar, revisa en la página del pedido el envío, el plazo y los impuestos. El 4CW5Y sí da descuento: usa el enlace, o cópialo y búscalo en la app o en el sitio de SHEIN.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -180940,7 +180940,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Vale la pena para la prenda cuya talla ya sabes y que puedes esperar a que llegue. Para una compra urgente o para una prenda que necesitas probarte, no. Lo que decide es el plazo que muestra la página del producto para tu dirección."
+          "Vale la pena para la prenda cuya talla ya sabes y que puedes esperar a que llegue. Para una compra urgente o para una prenda que necesitas probarte, no. El 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y búscalo en la app o en el sitio para ver una selección de productos con promociones."
         ]
       },
       {
@@ -180988,7 +180988,7 @@ export const reviewsData: unknown[] = [
           "Guarda la confirmación y el seguimiento: con ellos se gestionan la devolución y el aviso de paquete perdido."
         ],
         "postParagraphs": [
-          "El 4CW5Y no es un cupón ni da descuento: es el código de referido de SHEIN, que se busca en la barra de búsqueda de la app, y no suma con nada. Las reglas de la tienda están en la [página de SHEIN](/es/coupons/shein). Quién opera la tienda y su reputación están en [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
+          "El 4CW5Y no es un cupón, pero sí da descuento: es el código de referido de SHEIN, que abre una página con una selección de productos, promociones y descuentos: abre SHEIN con el enlace de Cecília y búscalo en la app o en el sitio. Cuánto y en qué prendas lo decide SHEIN, y varía. Las reglas de la tienda están en la [página de SHEIN](/es/coupons/shein). Quién opera la tienda y su reputación están en [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
         ],
         "images": [
           {
@@ -181018,7 +181018,7 @@ export const reviewsData: unknown[] = [
           "¿Vale la pena SHEIN para ropa cara? Solo para quien ya sabe su talla y acepta devolver en lugar de probar.",
           "¿SHEIN todavía vale la pena? Depende de la prenda y el total con envío e impuestos, además de medidas, plazo y devolución. Un mínimo de envío gratis no decide por sí solo.",
           "¿Se puede cambiar de talla en SHEIN? Depende del país: la política de devolución y cambio de cada uno está en el centro de ayuda de SHEIN.",
-          "¿El 4CW5Y da descuento en SHEIN? No: es un código de referido, que se busca en la app; no es un cupón y no suma con nada."
+          "¿El 4CW5Y da descuento en SHEIN? Sí: es un código de referido. Abre SHEIN con el enlace de Cecília y búscalo en la app o en el sitio: abre una selección de productos con promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN; no es un cupón."
         ]
       }
     ],
@@ -181053,7 +181053,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN vaut le coup pour un vêtement dont vous connaissez la taille et qui peut attendre. Délai, retour et fiche de chaque article disent quand acheter et quand passer.",
-    "metaDescription": "SHEIN vaut le coup pour une pièce à taille connue, sans urgence. Cherchez 4CW5Y dans l'appli SHEIN : code de parrainage, sans réduction. Livraison, retour.",
+    "metaDescription": "SHEIN vaut le coup pour une pièce à taille connue, sans urgence. Le 4CW5Y donne une réduction : à chercher dans l'appli ou le site. Livraison, retour.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -181068,7 +181068,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Aller sur SHEIN",
-      "text": "Avant de payer, vérifiez sur la page de commande les frais de port, le délai et les taxes. Le 4CW5Y est un code de parrainage : cherchez-le dans l'appli, sans réduction.",
+      "text": "Avant de payer, vérifiez sur la page de commande les frais de port, le délai et les taxes. Le 4CW5Y donne bien une réduction : passez par le lien, ou copiez-le et cherchez-le dans l'appli ou sur le site SHEIN.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -181096,7 +181096,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "C'est intéressant pour un vêtement dont vous connaissez déjà la taille et que vous pouvez attendre. Pour un achat urgent, ou pour une pièce qu'il faut essayer, non. Ce qui décide, c'est le délai affiché sur la page du produit pour votre adresse."
+          "C'est intéressant pour un vêtement dont vous connaissez déjà la taille et que vous pouvez attendre. Pour un achat urgent, ou pour une pièce qu'il faut essayer, non. Le 4CW5Y donne bien une réduction : ouvrez SHEIN via le lien de Cecília et cherchez-le dans l'appli ou sur le site pour voir une sélection de produits en promotion."
         ]
       },
       {
@@ -181144,7 +181144,7 @@ export const reviewsData: unknown[] = [
           "Gardez la confirmation et le numéro de suivi : le retour et la déclaration de colis perdu s'y rattachent."
         ],
         "postParagraphs": [
-          "Le 4CW5Y n'est pas un coupon et n'offre aucune réduction : c'est le code de parrainage de SHEIN, qu'on cherche dans la barre de recherche de l'appli, et il ne se cumule avec rien. Les règles de la boutique sont sur la [page SHEIN](/fr/coupons/shein). Qui gère la boutique et quelle est sa réputation, c'est dans [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)."
+          "Le 4CW5Y n'est pas un coupon, mais il donne bien une réduction : c'est le code de parrainage de SHEIN, qui ouvre une page avec une sélection de produits, de promotions et de réductions : ouvrez SHEIN via le lien de Cecília et cherchez-le dans l'appli ou sur le site. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Les règles de la boutique sont sur la [page SHEIN](/fr/coupons/shein). Qui gère la boutique et quelle est sa réputation, c'est dans [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)."
         ],
         "images": [
           {
@@ -181174,7 +181174,7 @@ export const reviewsData: unknown[] = [
           "SHEIN vaut-il le coup pour des vêtements chers ? Seulement pour qui connaît sa taille et accepte un retour plutôt qu'un essayage.",
           "SHEIN vaut-il toujours le coup ? Cela dépend de l'article, du total avec port et taxes, des mesures, du délai et du retour. Le seuil de livraison offerte ne décide pas seul.",
           "Peut-on échanger une taille chez SHEIN ? Cela dépend du pays : la politique de retour et d'échange de chacun figure dans le centre d'aide de SHEIN.",
-          "Le 4CW5Y donne-t-il une réduction chez SHEIN ? Non : c'est un code de parrainage, à chercher dans l'appli ; ce n'est pas un coupon et il ne se cumule avec rien."
+          "Le 4CW5Y donne-t-il une réduction chez SHEIN ? Oui : c'est un code de parrainage. Ouvrez SHEIN via le lien de Cecília et cherchez-le dans l'appli ou sur le site : il ouvre une sélection de produits avec promotions et réductions. Combien et sur quelles pièces, c'est SHEIN qui décide ; ce n'est pas un coupon."
         ]
       }
     ],
@@ -181209,7 +181209,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN lohnt sich für ein Teil, dessen Größe Sie kennen und das warten kann. Lieferzeit, Rückgabe und Angaben zu jedem Artikel zeigen, wann Sie kaufen sollten und wann nicht.",
-    "metaDescription": "SHEIN lohnt sich für Teile mit bekannter Größe und ohne Eile. Suchen Sie 4CW5Y in der SHEIN-App: Empfehlungscode, kein Rabatt. Lieferung und Rückgabe.",
+    "metaDescription": "SHEIN lohnt sich für Teile mit bekannter Größe und ohne Eile. Der 4CW5Y gibt Rabatt: in App oder Shop suchen. Lieferung, Rückgabe.",
     "publishedAt": "4. November 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -181224,7 +181224,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Zu SHEIN",
-      "text": "Prüfen Sie vor dem Bezahlen auf der Bestellseite Versand, Lieferzeit und Abgaben. Der 4CW5Y ist ein Empfehlungscode: in der App suchen, ohne Rabatt.",
+      "text": "Prüfen Sie vor dem Bezahlen auf der Bestellseite Versand, Lieferzeit und Abgaben. Der 4CW5Y gibt Rabatt, ja: über den Link oder kopiert und in der SHEIN-App oder auf der Website gesucht.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -181252,7 +181252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Es lohnt sich für ein Teil, dessen Größe Sie schon kennen und dessen Lieferung Sie abwarten können. Für einen eiligen Kauf oder ein Teil, das Sie anprobieren müssen, lohnt es sich nicht. Entscheidend ist die Lieferzeit, die die Produktseite für Ihre Adresse anzeigt."
+          "Es lohnt sich für ein Teil, dessen Größe Sie schon kennen und dessen Lieferung Sie abwarten können. Für einen eiligen Kauf oder ein Teil, das Sie anprobieren müssen, lohnt es sich nicht. Der 4CW5Y gibt Rabatt: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, dann sehen Sie eine Auswahl an Produkten mit Aktionen."
         ]
       },
       {
@@ -181300,7 +181300,7 @@ export const reviewsData: unknown[] = [
           "Bewahren Sie Bestätigung und Sendungsnummer auf: Rückgabe und Meldung eines verlorenen Pakets hängen davon ab."
         ],
         "postParagraphs": [
-          "Der 4CW5Y ist kein Gutschein und gibt keinen Rabatt: Es ist der Empfehlungscode von SHEIN, den Sie in der Suchleiste der App eingeben, und er lässt sich mit nichts kombinieren. Die Regeln des Shops finden Sie auf der [SHEIN-Seite](/de/coupons/shein). Wer hinter dem Shop steht und wie es um dessen Ruf bestellt ist, erfahren Sie unter [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)."
+          "Der 4CW5Y ist kein Gutschein, gibt aber Rabatt: Es ist der Empfehlungscode von SHEIN, der eine Seite mit ausgewählten Produkten, Aktionen und Rabatten öffnet: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in App oder Website. Wie viel und auf welche Teile, entscheidet SHEIN und variiert. Die Regeln des Shops finden Sie auf der [SHEIN-Seite](/de/coupons/shein). Wer hinter dem Shop steht und wie es um dessen Ruf bestellt ist, erfahren Sie unter [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)."
         ],
         "images": [
           {
@@ -181330,7 +181330,7 @@ export const reviewsData: unknown[] = [
           "Lohnt sich SHEIN auch für teure Kleidung? Nur für jene, die ihre Größe kennen und eine Rückgabe statt einer Anprobe akzeptieren.",
           "Lohnt sich SHEIN noch? Das hängt vom Artikel, vom Gesamtbetrag mit Versand und Abgaben, von den Maßen, der Lieferzeit und der Rückgabe ab. Der Mindestbetrag für kostenlosen Versand entscheidet nicht allein.",
           "Kann man bei SHEIN die Größe tauschen? Das hängt vom Land ab: Die Rückgabe- und Umtauschregeln stehen im Hilfecenter von SHEIN.",
-          "Gibt der 4CW5Y bei SHEIN Rabatt? Nein: Es ist ein Empfehlungscode, den man in der App sucht. Er ist kein Gutschein und lässt sich mit nichts kombinieren."
+          "Gibt der 4CW5Y bei SHEIN Rabatt? Ja: Es ist ein Empfehlungscode, den Sie nach dem Öffnen von SHEIN über Cecílias Link in App oder Website suchen; er öffnet eine Auswahl an Produkten mit Aktionen und Rabatten. Wie viel und auf welche Teile, entscheidet SHEIN; er ist kein Gutschein."
         ]
       }
     ],
@@ -181365,7 +181365,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN conviene per un capo di cui conosci la taglia e che può aspettare la consegna. Tempi, resi e scheda di ogni articolo mostrano quando comprare e quando passare.",
-    "metaDescription": "SHEIN conviene per capi di taglia nota e senza fretta. Cerca 4CW5Y nell'app SHEIN: codice invito, nessuno sconto. Spedizione, tempi e resi.",
+    "metaDescription": "SHEIN conviene per capi di taglia nota e senza fretta. Il 4CW5Y dà sconto: cercalo nell'app o sul sito. Spedizione e resi.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -181380,7 +181380,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "Vai su SHEIN",
-      "text": "Prima di pagare, controlla nella pagina dell'ordine spedizione, tempi e tasse. Il 4CW5Y è un codice invito: cercalo nell'app, senza sconto.",
+      "text": "Prima di pagare, controlla nella pagina dell'ordine spedizione, tempi e tasse. Il 4CW5Y dà sconto, sì: usa il link, oppure copialo e cercalo nell'app o sul sito SHEIN.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -181408,7 +181408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Conviene per un capo di cui conosci già la taglia e che puoi aspettare. Per un acquisto urgente o per un capo che devi provare, no. A decidere è il tempo di consegna che la pagina del prodotto mostra per il tuo indirizzo."
+          "Conviene per un capo di cui conosci già la taglia e che puoi aspettare. Per un acquisto urgente o per un capo che devi provare, no. Il 4CW5Y dà sconto, sì: apri SHEIN con il link di Cecília e cercalo nell'app o sul sito per vedere una selezione di prodotti in promozione."
         ]
       },
       {
@@ -181456,7 +181456,7 @@ export const reviewsData: unknown[] = [
           "Conserva la conferma e il tracciamento: su di essi si basano il reso e la segnalazione di pacco smarrito."
         ],
         "postParagraphs": [
-          "Il 4CW5Y non è un coupon e non dà sconti: è il codice invito di SHEIN, che si cerca nella barra di ricerca dell'app, e non si somma a nulla. Le regole del negozio sono nella [pagina SHEIN](/it/coupons/shein). Chi gestisce il negozio e che reputazione ha è in [SHEIN è affidabile?](/it/reviews/shein-e-affidabile-e-sicuro)."
+          "Il 4CW5Y non è un coupon, ma dà sconto: è il codice invito di SHEIN, che apre una pagina con una selezione di prodotti, promozioni e sconti: apri SHEIN con il link di Cecília e cercalo nell'app o sul sito. Quanto e su quali capi lo decide SHEIN, e varia. Le regole del negozio sono nella [pagina SHEIN](/it/coupons/shein). Chi gestisce il negozio e che reputazione ha è in [SHEIN è affidabile?](/it/reviews/shein-e-affidabile-e-sicuro)."
         ],
         "images": [
           {
@@ -181486,7 +181486,7 @@ export const reviewsData: unknown[] = [
           "SHEIN conviene anche per i capi costosi? Solo a chi conosce la taglia e accetta di restituire invece di provare.",
           "SHEIN conviene ancora? Dipende dal capo e dal totale con spedizione e tasse, oltre a misure, tempi e resi. La soglia gratuita non decide da sola.",
           "Si può cambiare taglia su SHEIN? Dipende dal paese: la politica di reso e cambio di ciascuno è nel centro assistenza di SHEIN.",
-          "Il 4CW5Y dà sconto su SHEIN? No: è un codice invito, da cercare nell'app; non è un coupon e non si somma a nulla."
+          "Il 4CW5Y dà sconto su SHEIN? Sì: è un codice invito. Apri SHEIN con il link di Cecília e cercalo nell'app o sul sito: apre una selezione di prodotti con promozioni e sconti. Quanto e su quali capi lo decide SHEIN; non è un coupon."
         ]
       }
     ],
@@ -181521,7 +181521,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "치수를 알고 있고 배송을 기다릴 수 있는 옷이라면 SHEIN은 살 만해요. 배송 기간, 반품, 상품 설명을 보면 언제 사고 언제 건너뛸지 알 수 있어요.",
-    "metaDescription": "치수를 알고 급하지 않은 옷이라면 SHEIN은 살 만해요. 앱 검색창에서 4CW5Y를 검색하세요. SHEIN 추천 코드이고 할인은 없어요. 배송과 반품도 확인하세요.",
+    "metaDescription": "치수를 알고 급하지 않은 옷이라면 SHEIN은 살 만해요. 4CW5Y는 할인이 있어요. 앱·사이트에서 검색하세요. 배송과 반품도 확인하세요.",
     "publishedAt": "2026년 11월 4일",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -181536,7 +181536,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "SHEIN으로 이동",
-      "text": "결제 전에 주문 화면에서 배송비, 배송 기간, 세금을 확인하세요. 4CW5Y는 추천 코드예요. 앱에서 검색해서 쓰고, 할인은 없어요.",
+      "text": "결제 전에 주문 화면에서 배송비, 배송 기간, 세금을 확인하세요. 4CW5Y는 추천 코드이고, 할인이 있어요. 링크로 들어가거나 복사해서 SHEIN 앱이나 사이트에서 검색하세요.",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -181564,7 +181564,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "치수를 이미 알고 배송을 기다릴 수 있는 옷이라면 살 만해요. 급하게 필요하거나 입어 보고 골라야 하는 옷이라면 추천하지 않아요. 판단 기준은 주소에 따라 상품 페이지에 뜨는 배송 예정일이에요."
+          "치수를 이미 알고 배송을 기다릴 수 있는 옷이라면 살 만해요. 급하게 필요하거나 입어 보고 골라야 하는 옷이라면 추천하지 않아요. 4CW5Y는 할인이 있고, Cecília의 링크로 SHEIN에 들어간 뒤 앱이나 사이트에서 코드를 검색하면, 프로모션 중인 추천 상품을 볼 수 있어요."
         ]
       },
       {
@@ -181612,7 +181612,7 @@ export const reviewsData: unknown[] = [
           "주문 확인과 배송 조회 번호를 보관하세요. 반품과 분실 신고가 이 자료로 진행돼요."
         ],
         "postParagraphs": [
-          "4CW5Y는 쿠폰이 아니고 할인도 없어요. SHEIN의 추천 코드로, 앱 검색창에서 검색해서 쓰는 거예요. 다른 혜택과는 함께 쓸 수 없어요. 쇼핑몰 규칙은 [SHEIN 페이지](/ko/coupons/shein)에서, 쇼핑몰 운영과 평판은 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko)에서 확인하세요."
+          "4CW5Y는 쿠폰은 아니지만 할인이 있어요. SHEIN의 추천 코드로, 추천 상품과 프로모션, 할인 모음 페이지가 열려요. Cecília의 링크로 SHEIN에 들어간 뒤 앱이나 사이트에서 코드를 검색하세요. 얼마나, 어떤 상품에 적용되는지는 SHEIN이 정하고 달라져요. 쇼핑몰 규칙은 [SHEIN 페이지](/ko/coupons/shein)에서, 쇼핑몰 운영과 평판은 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko)에서 확인하세요."
         ],
         "images": [
           {
@@ -181642,7 +181642,7 @@ export const reviewsData: unknown[] = [
           "SHEIN에서 비싼 옷도 살 만한가요? 치수를 알고, 입어 보는 대신 반품을 받아들일 수 있는 분께만 맞아요.",
           "SHEIN은 아직 살 만한가요? 옷과 배송비·세금 포함 총액, 치수, 배송과 반품에 달려 있어요. 무료배송 기준만으로 결정하지는 않아요.",
           "SHEIN에서 사이즈를 교환할 수 있나요? 나라마다 달라요. 교환과 반품 정책은 SHEIN 고객센터에 있어요.",
-          "4CW5Y로 SHEIN에서 할인을 받을 수 있나요? 아니요. 추천 코드라서 앱에서 검색해 쓰는 것이고, 쿠폰이 아니며 다른 혜택과도 함께 쓸 수 없어요."
+          "4CW5Y로 SHEIN에서 할인을 받을 수 있나요? 네. 추천 코드예요. Cecília의 링크로 SHEIN에 들어간 뒤 앱이나 사이트에서 검색하면 프로모션과 할인이 있는 추천 상품 페이지가 열려요. 얼마나, 어떤 상품에 적용되는지는 SHEIN이 정해요. 쿠폰은 아니에요."
         ]
       }
     ],
@@ -181677,7 +181677,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "サイズを把握していて、届くまで待てる服なら、SHEINは買う価値があります。配送日数、返品、各商品の説明を見れば、買うべきか見送るべきかがわかります。",
-    "metaDescription": "サイズが分かっていて急がない服なら、SHEINは買う価値あり。アプリの検索欄で4CW5Yを検索してください。紹介コードで、割引にはなりません。送料、配送日数、返品も確認を。",
+    "metaDescription": "サイズが分かっていて急がない服なら、SHEINは買う価値あり。4CW5Yは割引になります。アプリかサイトで検索を。送料、配送日数、返品も確認を。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -181692,7 +181692,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "SHEIN へ進む",
-      "text": "支払う前に、注文画面で送料、配送日数、税金を確認してください。4CW5Yは紹介コードです。アプリで検索して使うもので、割引にはなりません。",
+      "text": "支払う前に、注文画面で送料、配送日数、税金を確認してください。4CW5Yは紹介コードで、割引になります。リンクから、またはコピーしてSHEINのアプリかサイトで検索してください。",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -181720,7 +181720,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "サイズを把握していて、届くまで待てる商品なら買う価値があります。急ぎの買い物や、試着してから選びたい商品は向きません。判断の決め手は、お届け先の住所に応じて商品ページに表示される配送日数です。"
+          "サイズを把握していて、届くまで待てる商品なら買う価値があります。急ぎの買い物や、試着してから選びたい商品は向きません。4CW5Yは割引になり、CecíliaのリンクからSHEINを開き、コードをアプリかサイトで検索すると、おすすめ商品のセール・割引ページが見られます。"
         ]
       },
       {
@@ -181768,7 +181768,7 @@ export const reviewsData: unknown[] = [
           "注文確認と追跡番号は保管してください。返品や、荷物が届かなかった時の連絡に必要です。"
         ],
         "postParagraphs": [
-          "4CW5Yはクーポンではありません。割引にもならず、ほかの割引との併用もできません。SHEINの紹介コードで、アプリの検索欄で検索して使います。店のルールは[SHEINのページ](/ja/coupons/shein)に、店の運営と評判は[SHEINは信頼できる？](/ja/reviews/shein-trust-guide-ja)にあります。"
+          "4CW5Yはクーポンではありませんが、割引になります。SHEINの紹介コードで、おすすめ商品とセール・割引のページが開きます。CecíliaのリンクからSHEINを開き、アプリやサイトでコードを検索してください。どの商品がいくら安くなるかはSHEINが決め、変わります。店のルールは[SHEINのページ](/ja/coupons/shein)に、店の運営と評判は[SHEINは信頼できる？](/ja/reviews/shein-trust-guide-ja)にあります。"
         ],
         "images": [
           {
@@ -181798,7 +181798,7 @@ export const reviewsData: unknown[] = [
           "SHEINで高い服を買う価値はある？サイズがわかっていて、試着の代わりに返品を受け入れられる人だけです。",
           "SHEINはまだ買う価値がある？ 商品、送料・税金込みの総額、寸法、配送、返品によります。送料無料ラインだけでは決まりません。",
           "SHEINでサイズを交換できる？国によって違います。交換と返品のポリシーは、SHEINのヘルプセンターにあります。",
-          "4CW5Yで割引になる？なりません。紹介コードで、アプリで検索して使うものです。クーポンではなく、ほかの割引との併用もできません。"
+          "4CW5Yで割引になる？なります。紹介コードです。CecíliaのリンクからSHEINを開き、アプリやサイトで検索すると、セールや割引のあるおすすめ商品のページが開きます。どの商品がいくら安くなるかはSHEINが決めます。クーポンではありません。"
         ]
       }
     ],
@@ -181833,7 +181833,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "如果你知道衣服的尺碼，又能等待運送，SHEIN 就值得買。運送時間、退貨與每件商品的說明，能幫你判斷什麼時候買、什麼時候別買。",
-    "metaDescription": "尺碼已知、不急著要的衣服，SHEIN 值得買。在 SHEIN App 搜尋 4CW5Y，這是推薦碼，沒有折扣。另外也要看運費、運送時間與退貨。",
+    "metaDescription": "尺碼已知、不急著要的衣服，SHEIN 值得買。4CW5Y 有折扣：在 App 或網站搜尋。另外也要看運費、運送時間與退貨。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -181848,7 +181848,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "前往 SHEIN",
-      "text": "付款前，請在訂單頁面確認運費、運送時間與稅金。4CW5Y 是推薦碼：在 App 搜尋就好，沒有折扣。",
+      "text": "付款前，請在訂單頁面確認運費、運送時間與稅金。4CW5Y 是推薦碼，有折扣：走連結，或複製後在 SHEIN App 或網站搜尋。",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -181876,7 +181876,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "如果你已經知道衣服尺碼，而且能等待運送，這樣的商品值得買。急著要的訂單，或需要試穿才能決定的衣服，就不建議。判斷的關鍵是商品頁面上顯示、送到你所在地址的運送時間。"
+          "如果你已經知道衣服尺碼，而且能等待運送，這樣的商品值得買。急著要的訂單，或需要試穿才能決定的衣服，就不建議。4CW5Y 有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，就能看到精選的優惠商品。"
         ]
       },
       {
@@ -181924,7 +181924,7 @@ export const reviewsData: unknown[] = [
           "保存訂單確認與追蹤編號。退貨和包裹遺失申報，都要靠它們。"
         ],
         "postParagraphs": [
-          "4CW5Y 不是優惠券，也不提供折扣。它是 SHEIN 的推薦碼，在 App 的搜尋欄搜尋即可，不能和其他優惠併用。店家規則請看 [SHEIN 頁面](/zh-hant/coupons/shein)，店家經營與口碑請看 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。"
+          "4CW5Y 不是優惠券，但有折扣。它是 SHEIN 的推薦碼，搜尋它會開啟一個精選商品、優惠活動與折扣的頁面：先透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋。折多少、哪些商品，由 SHEIN 決定，也會變動。店家規則請看 [SHEIN 頁面](/zh-hant/coupons/shein)，店家經營與口碑請看 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。"
         ],
         "images": [
           {
@@ -181954,7 +181954,7 @@ export const reviewsData: unknown[] = [
           "在 SHEIN 買貴的衣服值得嗎？只適合已經知道尺寸，並且願意用退貨代替試穿的人。",
           "SHEIN還值得買嗎？要看商品、含運含稅總額、尺寸、運送和退貨。免運門檻本身不能決定。",
           "SHEIN 可以換尺寸嗎？要看國家。各地的退換貨政策，都寫在 SHEIN 幫助中心。",
-          "4CW5Y 能在 SHEIN 打折嗎？不能。它是推薦碼，要在 App 搜尋，不是優惠券，也不能和其他優惠併用。"
+          "4CW5Y 能在 SHEIN 打折嗎？能。它是推薦碼。透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋，就能看到有優惠與折扣的精選商品。折多少、哪些商品，由 SHEIN 決定。它不是優惠券。"
         ]
       }
     ],
@@ -181989,7 +181989,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "如果你知道衣服的尺码，又能等待配送，SHEIN 就值得买。配送时间、退货和每件商品的说明，能帮你判断什么时候买、什么时候别买。",
-    "metaDescription": "尺码已知、不着急的衣服，SHEIN 值得买。在 SHEIN App 搜索 4CW5Y，这是推荐码，没有折扣。另外也要看运费、配送时间和退货。",
+    "metaDescription": "尺码已知、不着急的衣服，SHEIN 值得买。4CW5Y 有折扣：在 App 或网站搜索。另外也要看运费、配送时间和退货。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -182004,7 +182004,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "label": "前往 SHEIN",
-      "text": "付款前，请在订单页面确认运费、配送时间和税费。4CW5Y 是推荐码：在 App 搜索就行，没有折扣。",
+      "text": "付款前，请在订单页面确认运费、配送时间和税费。4CW5Y 是推荐码，有折扣：走链接，或复制后在 SHEIN App 或网站搜索。",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
     },
@@ -182032,7 +182032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你已经知道衣服尺码，并且能等待配送，这类商品值得买。着急要的订单，或需要试穿才能决定的衣服，就不推荐。判断的关键是商品页面上显示的、送到你所在地址的配送时间。"
+          "如果你已经知道衣服尺码，并且能等待配送，这类商品值得买。着急要的订单，或需要试穿才能决定的衣服，就不推荐。4CW5Y 有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，就能看到精选的优惠商品。"
         ]
       },
       {
@@ -182080,7 +182080,7 @@ export const reviewsData: unknown[] = [
           "保存订单确认和追踪编号。退货和包裹丢失申报，都要靠它们。"
         ],
         "postParagraphs": [
-          "4CW5Y 不是优惠券，也没有折扣。它是 SHEIN 的推荐码，在 App 的搜索栏搜索即可，不能和其他优惠叠加。店铺规则请看 [SHEIN 页面](/zh-hans/coupons/shein)，店铺运营和口碑请看 [SHEIN 靠谱吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。"
+          "4CW5Y 不是优惠券，但有折扣。它是 SHEIN 的推荐码，搜索它会打开一个精选商品、优惠活动和折扣的页面：先通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索。具体折多少、哪些商品，由 SHEIN 决定，也会变化。店铺规则请看 [SHEIN 页面](/zh-hans/coupons/shein)，店铺运营和口碑请看 [SHEIN 靠谱吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。"
         ],
         "images": [
           {
@@ -182110,7 +182110,7 @@ export const reviewsData: unknown[] = [
           "在 SHEIN 买贵的衣服值得吗？只适合已经知道尺码，并且愿意用退货代替试穿的人。",
           "SHEIN还值得买吗？要看商品、含运费含税总额、尺寸、配送与退货。包邮门槛本身不能决定。",
           "SHEIN 能换尺码吗？要看国家。各地的退换货政策，都写在 SHEIN 帮助中心。",
-          "4CW5Y 能在 SHEIN 打折吗？不能。它是推荐码，要在 App 搜索，不是优惠券，也不能和其他优惠叠加。"
+          "4CW5Y 能在 SHEIN 打折吗？能。它是推荐码。通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索，就能看到有优惠和折扣的精选商品。具体折多少、哪些商品，由 SHEIN 决定。它不是优惠券。"
         ]
       }
     ],
@@ -182145,7 +182145,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Na SHEIN a mesma letra muda de marca para marca: o M de duas camisetas difere 11 cm no busto. Por isso o tamanho sai da medida da peça em centímetros, não da letra de sempre.",
-    "metaDescription": "Tamanho na SHEIN: a letra muda de marca para marca; o 4CW5Y é código de indicação, pesquisado no app. Meça em centímetros e leia o guia de cada peça.",
+    "metaDescription": "Tamanho na SHEIN: a letra muda por marca; o 4CW5Y dá desconto, sim, numa seleção da SHEIN. Meça em centímetros e leia o guia de cada peça.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -182398,7 +182398,7 @@ export const reviewsData: unknown[] = [
           "Guarde a confirmação do pedido e o rastreio: é com eles que a devolução anda, se a peça não servir."
         ],
         "postParagraphs": [
-          "Prazo, frete, imposto de importação e o que conferir antes de pagar estão em [SHEIN vale a pena?](/reviews/shein-vale-a-pena). O 4CW5Y é o código de indicação da SHEIN: pesquisa-se no aplicativo, não é cupom e não dá desconto; as campanhas do momento ficam na [página da SHEIN](/cupons/shein)."
+          "Prazo, frete, imposto de importação e o que conferir antes de pagar estão em [SHEIN vale a pena?](/reviews/shein-vale-a-pena). O 4CW5Y é o código de indicação da SHEIN e dá desconto, sim: use o link da Cecília ou copie o código e pesquise no app ou no site para abrir uma página com produtos indicados, promoções e descontos. Quanto e em quais peças, a SHEIN decide; veja as campanhas do momento na [página da SHEIN](/cupons/shein)."
         ]
       },
       {
@@ -182452,7 +182452,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "At SHEIN the same letter changes from brand to brand: two M tees differ by 11 cm at the bust. Choose by the measurements of each piece in cm, not by your usual letter.",
-    "metaDescription": "Size at SHEIN: the letter changes by brand. The 4CW5Y is a SHEIN referral code, searched in the app. Measure in cm and read each piece's size guide.",
+    "metaDescription": "Size at SHEIN: the letter changes by brand. The 4CW5Y does give you a discount on a SHEIN selection. Measure in cm and read each piece's size guide.",
     "publishedAt": "November 4, 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -182672,7 +182672,7 @@ export const reviewsData: unknown[] = [
           "Keep the order confirmation and the tracking number: a return depends on them, if the piece doesn't fit."
         ],
         "postParagraphs": [
-          "Delivery time, shipping and what to check before paying are in [Is SHEIN worth it?](/en/reviews/is-shein-worth-it). The 4CW5Y is SHEIN's referral code: you search for it in the app, it is not a coupon and gives no discount; current promotions are on the [SHEIN page](/en/coupons/shein)."
+          "Delivery time, shipping and what to check before paying are in [Is SHEIN worth it?](/en/reviews/is-shein-worth-it). The 4CW5Y is SHEIN's referral code and it does give you a discount: open SHEIN through Cecília's link and search 4CW5Y in the app or on the site: the code opens a page of recommended products, promotions and discounts. SHEIN decides how much and on which pieces; current promotions are on the [SHEIN page](/en/coupons/shein)."
         ]
       },
       {
@@ -182724,7 +182724,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "En SHEIN la misma letra cambia de marca en marca: dos camisetas M difieren 11 cm de busto. Elige por las medidas de cada prenda en cm, no por tu letra habitual.",
-    "metaDescription": "Talla en SHEIN: la letra cambia de marca. El 4CW5Y es un código de referido que se busca en la app. Mide en cm y lee la guía de cada prenda.",
+    "metaDescription": "Talla en SHEIN: la letra cambia de marca. El 4CW5Y sí da descuento en una selección de SHEIN. Mide en cm y lee la guía de cada prenda.",
     "publishedAt": "4 de noviembre de 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -182944,7 +182944,7 @@ export const reviewsData: unknown[] = [
           "Guarda la confirmación del pedido y el seguimiento: con ellos se hace la devolución si la prenda no te queda."
         ],
         "postParagraphs": [
-          "Plazo, envío y qué revisar antes de pagar están en [¿SHEIN vale la pena?](/es/reviews/vale-la-pena-shein). El 4CW5Y es el código de referido de SHEIN: se busca en la app, no es un cupón y no da descuento; las campañas del momento están en la [página de SHEIN](/es/coupons/shein)."
+          "Plazo, envío y qué revisar antes de pagar están en [¿SHEIN vale la pena?](/es/reviews/vale-la-pena-shein). El 4CW5Y es el código de referido de SHEIN y sí da descuento: abre SHEIN con el link de Cecília y busca el 4CW5Y en la app o en el sitio: el código abre una página con productos recomendados, promociones y descuentos. SHEIN decide cuánto y en qué prendas; las campañas del momento están en la [página de SHEIN](/es/coupons/shein)."
         ]
       },
       {
@@ -182996,7 +182996,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Chez SHEIN, la même lettre change d'une marque à l'autre : deux t-shirts M diffèrent de 11 cm au buste. Choisissez d'après les mesures en cm de chaque article.",
-    "metaDescription": "Taille SHEIN : la lettre change selon la marque. Le 4CW5Y est un code de parrainage à chercher dans l'appli. Mesurez en cm et suivez le guide de l'article.",
+    "metaDescription": "Taille SHEIN : la lettre change selon la marque. Le 4CW5Y donne bien une réduction sur une sélection SHEIN. Mesurez en cm et suivez le guide de l'article.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -183216,7 +183216,7 @@ export const reviewsData: unknown[] = [
           "Gardez la confirmation de commande et le suivi : c'est avec eux que se fait le retour si l'article ne convient pas."
         ],
         "postParagraphs": [
-          "Délais, livraison et ce qu'il faut vérifier avant de payer figurent dans [SHEIN vaut-il le coup ?](/fr/reviews/shein-ca-vaut-le-coup). Le 4CW5Y est le code de parrainage SHEIN : on le cherche dans l'appli, ce n'est pas un coupon et il n'accorde aucune réduction ; les promotions du moment sont sur la [page SHEIN](/fr/coupons/shein)."
+          "Délais, livraison et ce qu'il faut vérifier avant de payer figurent dans [SHEIN vaut-il le coup ?](/fr/reviews/shein-ca-vaut-le-coup). Le 4CW5Y est le code de parrainage SHEIN et il donne bien une réduction : ouvrez SHEIN avec le lien de Cecília et cherchez le 4CW5Y dans l'appli ou sur le site : le code ouvre une page de produits recommandés, de promotions et de réductions. SHEIN décide du montant et des articles concernés ; les promotions du moment sont sur la [page SHEIN](/fr/coupons/shein)."
         ]
       },
       {
@@ -183268,7 +183268,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Bei SHEIN passt derselbe Buchstabe je nach Marke anders: Zwei M-Shirts unterscheiden sich um 11 cm am Brustumfang. Wählen Sie nach den Maßen in cm, nicht nach Buchstaben.",
-    "metaDescription": "Größe bei SHEIN: je Marke ändert sich der Buchstabe. Der 4CW5Y ist ein Empfehlungscode für die Suche in der App. Messen Sie in cm und prüfen Sie den Guide.",
+    "metaDescription": "Größe bei SHEIN: je Marke anders. Der 4CW5Y gibt tatsächlich Rabatt auf eine SHEIN-Auswahl. Messen Sie in cm und prüfen Sie den Guide.",
     "publishedAt": "4. November 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -183488,7 +183488,7 @@ export const reviewsData: unknown[] = [
           "Bewahren Sie die Bestellbestätigung und die Sendungsnummer auf: Damit läuft die Rückgabe, wenn der Artikel nicht passt."
         ],
         "postParagraphs": [
-          "Lieferzeit, Versand und was Sie vor der Zahlung prüfen sollten, stehen in [Lohnt sich SHEIN?](/de/reviews/lohnt-sich-shein). Der 4CW5Y ist der Empfehlungscode von SHEIN: Er wird in der App gesucht, ist kein Gutschein und gibt keinen Rabatt; die aktuellen Aktionen stehen auf der [SHEIN-Seite](/de/coupons/shein)."
+          "Lieferzeit, Versand und was Sie vor der Zahlung prüfen sollten, stehen in [Lohnt sich SHEIN?](/de/reviews/lohnt-sich-shein). Der 4CW5Y ist der Empfehlungscode von SHEIN und gibt tatsächlich Rabatt: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den 4CW5Y in der App oder auf der Website: Der Code öffnet eine Seite mit empfohlenen Produkten, Aktionen und Rabatten. Wie viel und auf welche Artikel, entscheidet SHEIN; die aktuellen Aktionen stehen auf der [SHEIN-Seite](/de/coupons/shein)."
         ]
       },
       {
@@ -183540,7 +183540,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Su SHEIN la stessa lettera cambia da marchio a marchio: due magliette M differiscono di 11 cm sul busto. Scegli dalle misure in cm di ogni capo, non dalla lettera abituale.",
-    "metaDescription": "Taglia su SHEIN: la lettera cambia da marchio a marchio. Il 4CW5Y è un codice invito da cercare nell'app. Misura in cm e leggi la guida di ogni capo.",
+    "metaDescription": "Taglia su SHEIN: la lettera cambia da marchio a marchio. Il 4CW5Y dà sconto, sì, su una selezione SHEIN. Misura in cm e leggi la guida di ogni capo.",
     "publishedAt": "4 novembre 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -183760,7 +183760,7 @@ export const reviewsData: unknown[] = [
           "Conserva la conferma d'ordine e il tracciamento: con quelli si fa il reso, se il capo non va bene."
         ],
         "postParagraphs": [
-          "Tempi di consegna, spedizione e cosa controllare prima di pagare sono in [SHEIN conviene?](/it/reviews/shein-conviene). Il 4CW5Y è il codice invito di SHEIN: si cerca nell'app, non è un coupon e non dà sconto; le promozioni del momento sono nella [pagina SHEIN](/it/coupons/shein)."
+          "Tempi di consegna, spedizione e cosa controllare prima di pagare sono in [SHEIN conviene?](/it/reviews/shein-conviene). Il 4CW5Y è il codice invito di SHEIN e dà sconto, sì: apri SHEIN dal link di Cecília e cerca il 4CW5Y nell'app o sul sito: il codice apre una pagina con prodotti consigliati, promozioni e sconti. Quanto e su quali capi lo decide SHEIN; le promozioni del momento sono nella [pagina SHEIN](/it/coupons/shein)."
         ]
       },
       {
@@ -183812,7 +183812,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN은 같은 사이즈 글자라도 브랜드마다 치수가 다릅니다. 티셔츠 두 장의 M 가슴둘레가 11cm 차이 나므로, 글자 대신 상품의 치수(cm)로 고르십시오.",
-    "metaDescription": "SHEIN 사이즈는 브랜드마다 다릅니다. 4CW5Y는 앱에서 검색하는 추천 코드이며 쿠폰이 아니고 할인도 없습니다. cm로 재고 상품 가이드를 읽으십시오.",
+    "metaDescription": "SHEIN 사이즈는 브랜드마다 다릅니다. 4CW5Y는 할인을 받을 수 있는 추천 코드입니다. cm로 재고 상품 가이드를 읽으십시오.",
     "publishedAt": "2026년 11월 4일",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -184032,7 +184032,7 @@ export const reviewsData: unknown[] = [
           "주문 확인서와 배송 추적 번호를 보관하십시오. 맞지 않을 때 반품은 이 두 가지로 진행됩니다."
         ],
         "postParagraphs": [
-          "배송 기간, 배송비, 결제 전 확인할 사항은 [SHEIN은 살 만할까요?](/ko/reviews/shein-worth-it-ko)에 있습니다. 4CW5Y는 SHEIN 추천 코드입니다. 앱에서 검색해서 쓰는 것이며, 쿠폰이 아니고 할인도 없습니다. 현재 진행 중인 행사는 [SHEIN 페이지](/ko/coupons/shein)에서 확인하십시오."
+          "배송 기간, 배송비, 결제 전 확인할 사항은 [SHEIN은 살 만할까요?](/ko/reviews/shein-worth-it-ko)에 있습니다. 4CW5Y는 SHEIN 추천 코드이며 할인을 받을 수 있습니다. Cecília의 링크로 SHEIN을 열고 앱 또는 사이트에서 4CW5Y를 검색하세요. 코드를 검색하면 추천 상품, 프로모션, 할인 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. 현재 진행 중인 행사는 [SHEIN 페이지](/ko/coupons/shein)에서 확인하십시오."
         ]
       },
       {
@@ -184084,7 +184084,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEINでは同じ文字でもブランドによってサイズが違います。2枚のTシャツでMの胸囲が11cm違うので、文字ではなく商品ごとの寸法（cm）で選ぶのが確実です。",
-    "metaDescription": "SHEINのサイズはブランドで変わります。紹介コード4CW5Yはアプリで検索するもので、クーポンではありません。cmで測り、商品のガイドを読みましょう。",
+    "metaDescription": "SHEINのサイズはブランドで変わります。紹介コード4CW5Yは割引が受けられます。cmで測り、商品のガイドを読みましょう。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -184304,7 +184304,7 @@ export const reviewsData: unknown[] = [
           "注文確認と配送の追跡番号を保存しておく。合わなかったときの返品は、この2つで進む。"
         ],
         "postParagraphs": [
-          "配送の期間、送料、支払い前に確認することは[SHEINは買う価値がある？](/ja/reviews/shein-worth-it-ja)にまとめています。4CW5Yは、SHEINの紹介コードです。アプリで検索して使うもので、クーポンではありません。割引もありません。現在のキャンペーンは[SHEINのページ](/ja/coupons/shein)にあります。"
+          "配送の期間、送料、支払い前に確認することは[SHEINは買う価値がある？](/ja/reviews/shein-worth-it-ja)にまとめています。4CW5YはSHEINの紹介コードで、割引が受けられます。CeciliaのリンクからSHEINを開き、アプリまたはサイトで4CW5Yを検索してください。コードを検索すると、おすすめ商品、セール、割引のページが開きます。割引の額と対象商品はSHEINが決めます。現在のキャンペーンは[SHEINのページ](/ja/coupons/shein)にあります。"
         ]
       },
       {
@@ -184356,7 +184356,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN 同一個字母在不同品牌裡尺寸不同。兩件 T 恤的 M 胸圍相差 11 公分，所以要依每件商品的公分尺寸來選，不能只看字母。",
-    "metaDescription": "SHEIN 尺碼因品牌而異。4CW5Y 是推薦碼，要在 App 裡搜尋使用，不是優惠券。請用公分量身體，並閱讀每件商品的尺碼表。",
+    "metaDescription": "SHEIN 尺碼因品牌而異。4CW5Y 是推薦碼，確實有折扣。請用公分量身體，並閱讀每件商品的尺碼表。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -184576,7 +184576,7 @@ export const reviewsData: unknown[] = [
           "保存訂單確認與物流單號：不合適時，退貨要靠它們辦理。"
         ],
         "postParagraphs": [
-          "運送時間、運費，以及付款前要確認的事項，請看 [SHEIN 值得買嗎？](/zh-hant/reviews/shein-worth-it-zh-hant)。4CW5Y 是 SHEIN 的推薦碼，要在 App 裡搜尋。它不是優惠券，也沒有折扣。目前的活動在 [SHEIN 頁面](/zh-hant/coupons/shein)。"
+          "運送時間、運費，以及付款前要確認的事項，請看 [SHEIN 值得買嗎？](/zh-hant/reviews/shein-worth-it-zh-hant)。4CW5Y 是 SHEIN 的推薦碼，確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站裡搜尋 4CW5Y，代碼會開啟一個有推薦商品、促銷和折扣的頁面。折扣多少、哪些商品，由 SHEIN 決定。目前的活動在 [SHEIN 頁面](/zh-hant/coupons/shein)。"
         ]
       },
       {
@@ -184628,7 +184628,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN 同一个字母在不同品牌里尺寸不同。两件 T 恤的 M 胸围相差 11 厘米，所以要按每件商品的厘米尺寸来选，而不是只看字母。",
-    "metaDescription": "SHEIN 尺码因品牌而异。4CW5Y 是推荐码，在 App 里搜索使用，不是优惠券。请用厘米量身体，并阅读每件商品的尺码表。",
+    "metaDescription": "SHEIN 尺码因品牌而异。4CW5Y 是推荐码，确实有折扣。请用厘米量身体，并阅读每件商品的尺码表。",
     "publishedAt": "2026年11月4日",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -184848,7 +184848,7 @@ export const reviewsData: unknown[] = [
           "保存订单确认和物流单号：不合适时，退货要靠它们办理。"
         ],
         "postParagraphs": [
-          "配送时间、运费，以及付款前要确认的事项，请看 [SHEIN 值得买吗？](/zh-hans/reviews/shein-worth-it-zh-hans)。4CW5Y 是 SHEIN 的推荐码，要在 App 里搜索。它不是优惠券，也没有折扣。当前的活动在 [SHEIN 页面](/zh-hans/coupons/shein)。"
+          "配送时间、运费，以及付款前要确认的事项，请看 [SHEIN 值得买吗？](/zh-hans/reviews/shein-worth-it-zh-hans)。4CW5Y 是 SHEIN 的推荐码，确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站里搜索 4CW5Y，代码会打开一个有推荐商品、促销和折扣的页面。折扣多少、哪些商品，由 SHEIN 决定。当前的活动在 [SHEIN 页面](/zh-hans/coupons/shein)。"
         ]
       },
       {
