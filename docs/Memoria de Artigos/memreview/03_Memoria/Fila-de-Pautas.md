@@ -10,22 +10,12 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | No ar em 05/11 (release 400c60ff). DN2–DN4 depois |
-| DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação, depois da DN1 |
-| DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação, depois da DN1 |
-| DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
+| DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação |
+| DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação |
+| DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
-| N7 | Colágeno da Nestlé: Nutren Mov Flex, FiberMais Colágeno ou Nutren Protein com Colágeno? (pedido do Bruno, 06/11) | Nestlé Nutre | PT | [[colageno-nestle-nutre-qual-escolher]] | Redigida e no Job 3 (Fable 5.1, 16 ajustes aplicados) em 06/11; conferências do Chrome feitas (o rótulo do Nutren Protein não traz gramas de colágeno; Mov Flex 1 cápsula ao dia; FiberMais 2 colheres de sopa em 195 ml, só limão). As frases de função da loja saíram (REGRAS 5). Capa B aprovada pelo Bruno; fotos do corpo (lata do FiberMais e tabela do Nutren Protein) salvas pelo Bruno da loja. Mídia no CDN e PR aberto em 06/11. No ar desde 06/11 |
-| H9 | Hostinger ou GoDaddy: qual compensa, contando a renovação (escolhida pelo Bruno, 06/11) | Hostinger | PT | [[hostinger-ou-godaddy]] | Redigida e no Job 3 (Fable 5.1, 6 de 7 ajustes) em 06/11, capa A aprovada pelo Bruno. No carrinho, sem comprar: o SONAR20 soma com a Black Friday (Single 48 meses R$ 230,02); o Business virou Unlimited; a GoDaddy renova pelo preço de lista (Inicial R$ 275,88/ano, Economy R$ 599,88/ano). Família de 10 idiomas (regra do Bruno de 06/11), com os preços em dólar fora do PT e capa sem texto em PT; mesclado no #683 em 06/11. No ar desde 06/11 |
-| I10 | Calça feminina Insider: FutureForm, Reta Ajustável ou Wide Leg (rodada de 08/11) | Insider | PT | [[calca-insider-feminina-qual-escolher]] | Redigida, com revisão externa aplicada e capa aprovada em 08/11; a Reta segue indisponível e ficou fora do quadro. Mídia no CDN e PR aberto. No ar em 08/11 (release 829db7d1) |
-| I11 | Calça masculina Insider: FutureForm, Director ou Hybrid Jogger (rodada de 08/11) | Insider | PT | [[calca-insider-masculina-qual-escolher]] | Redigida, com revisão externa aplicada e capa aprovada em 08/11. Mídia no CDN e PR aberto. No ar em 08/11 (release 829db7d1) |
-| I12 | Camisa social Insider FutureForm, com o cupom testado no carrinho (rodada de 08/11). Dois artigos, a pedido do Bruno | Insider | PT | [[camisa-social-insider-masculina]] e [[camisa-social-insider-feminina]] | Redigidas, com revisão externa aplicada e capas aprovadas em 08/11; mídia no CDN e PR aberto. No ar em 08/11 (release 829db7d1) |
-| I13 | Sutiã Insider: Comfy, Flex, Lounge ou NakedFeel (rodada de 08/11) | Insider | PT | [[sutia-insider-qual-escolher]] | No ar em 08/11 (release fa2d5745), com revisão externa aplicada e card de estilo |
-| F12 | O que usar em decote profundo, costas abertas e tomara que caia (rodada de 08/11) | Toda Up | PT | [[sutia-para-decote-profundo-costas-abertas]] | No ar em 08/11 (release fa2d5745), com revisão externa aplicada e card de estilo |
-| I14 | Calcinha Insider: qual escolher (decisão do Bruno, 08/11) | Insider | PT | [[calcinha-insider-qual-escolher]] | No ar em 08/11 (release cddf6e2c), com revisão externa aplicada |
-| F13 | Como descobrir seu tamanho na Toda Up, em todas as linhas (decisão do Bruno, 08/11) | Toda Up | PT | [[tamanho-toda-up-como-escolher]] | No ar em 08/11 (release cddf6e2c), com revisão externa aplicada |
-| F14 | SkinUp marca na roupa? (decisão do Bruno, 08/11) | Toda Up | PT | [[skinup-marca-na-roupa]] | No ar em 08/11 (release cddf6e2c), com revisão externa aplicada |
+| SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -36,6 +26,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | — | Seção "plano novo e migração" no artigo da renovação (BG1, no ar) | Hostinger | Teste no carrinho, sem comprar: um 2º plano de hospedagem (e um 2º VPS) na mesma conta pega o preço promocional e o SONAR20? | Bruno |
 | — | Colchão no "I Wanna Sleep é boa?" | I Wanna Sleep | Confirmar se o colchão só se compra nas lojas de BH. Se não, corrigir o artigo | Bruno |
 | — | Página fixa de seleção da SHEIN | SHEIN | Depois da 11.11: se o artigo tiver boa aceitação, criar no 12.12 | Bruno |
+| — | Seleção de Black Friday da SHEIN, no formato da 11.11 | SHEIN | A 11.11 ainda corre, e não dá para medir cada campanha sozinha (Bruno, 08/11). Precisa de outro critério ou do GO direto | Bruno |
 | A9 | Camiseta da Cléa com teste (o guia com fontes públicas está no ar) | Cléa Store | Uma camiseta para testar | Bruno |
 | — | YesStyle volta a entregar no Brasil | YesStyle | Reverter as frases de "sem entrega" em `yesstyle-entrega-no-brasil-e-portugal`, `yesstyle-e-confiavel`, `yesstyle-app-como-comprar-codigo-de-recompensa`, `yesstyle-trustpilot-nota-reclamacoes`, `black-friday-yesstyle` e no dossiê | Bruno avisa |
 | — | Item 11 da otimização do GSC de 11/10 (cupom da Dolce Gusto) | Dolce Gusto | O export filtrado do GSC | Bruno |
@@ -105,6 +96,7 @@ Também sem GO:
 | Probiótica e Max | Massa Nitro. A reserva "IsoWhey e Top Whey 3W por tamanho" foi absorvida pela R5 (propostas sem GO) | Reserva de 28/10 |
 | Hostinger | H8 Next.js ou Vercel; e-mail no Gmail, na Hostinger ou na GoDaddy; WordPress; concorrente local | Reservas de 28/10 |
 | Magalu | M10 Magalu ou Mercado Livre | — |
+| SHEIN | "Comprando na Black Friday, chega antes do Natal?" | Autocompletar de 08/11: fraco em PT ("shein entrega no natal"), mais forte em inglês ("shein christmas delivery cut off", "dates"). Por ora, vira FAQ na família `shein-black-friday` (seção 4) |
 | Dolce Gusto | P2 app da Dolce Gusto, com os pontos da NEO; lote B das fichas por sabor (calorias por cápsula) | O lote B não tem briefing |
 | Sem parceiro definido | Lava e seca Samsung ou LG (GSC de 11/10); quantas xícaras por dia uma Dolce Gusto aguenta | A segunda não tem fonte oficial |
 
@@ -141,11 +133,19 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | `nanlac-supreme-ou-ninho-fases` | N2: NAN ou Nanlac de 1 a 3 anos como seção, se a loja tiver NAN dessa faixa | Rodada de 27/10 |
 | 48 artigos antigos em português | Seção de resposta rápida (são anteriores aos Jobs) | 24/10 |
 | Artigos de roupa sem o card de estilo | "Como usar / Ocasião / Combina com". 18 já têm: conferir quais faltam | Piloto de 30/10 |
+| `skinup-marca-na-roupa` (F14) | Acréscimo quando o short da Cecília sair: o vídeo, o comentário dela sobre não marcar e a experiência, só no que ela disser. O Bruno avisa | Bruno, 08/11 |
+| `shein-black-friday` (versão em japonês) | A tabela traz para 2025 "de 03/11 a 30/11", mas a campanha do Japão foi de 17/11, 12h, a 02/12, 12h, até 95% ([comunicado](https://prtimes.jp/main/html/rd/p/000000250.000084888.html)). Pôr as datas do Japão e corrigir "até o fim do mês". 2023 e 2024 no Japão não foram lidos: procurar ou dizer de onde vêm. Título e meta com "いつ" e "いつまで" | GSC do Bruno, 08/11 |
+| `shein-black-friday` (9 idiomas) | "Não anunciou a campanha" não vale em todo país: `us.shein.com` traz "Early Black Friday Access", até 60% (Chrome, 08/11), e há registros da Year-End Sale nos EUA e de banner na Austrália (fatos da SB1). Dizer que varia por país e separar o que foi lido em cada um. Sem citar o Brasil | GSC do Bruno, 08/11 |
+| `shein-black-friday` (9 idiomas) | `metaDescription` sem o 4CW5Y nas 9 versões (conferido em 08/11; o PT tem). Acrescentar com o termo de cada idioma, sem % | GSC do Bruno, 08/11 |
+| `shein-black-friday` (família) | FAQ para o que o autocompletar pergunta: "como funciona" e "cuanto dura", Cyber Monday (30/11), "いつ届く" e prazo para o Natal, sem prometer data de entrega | Autocompletar, 08/11 |
+| `shein-11-11-selecao-da-cecilia` (família) | Os preços são de 28/10. Em 08/11, 17 das 19 peças custavam mais, 2 o mesmo e nenhuma menos: o short de "R$ 16,45, -65%" está em R$ 45,11, -4%. O Bruno decide se atualiza antes do fim da campanha (12/11) ou só deixa como está. Tabela nos fatos da SB1 | Leitura da SB1, 08/11 |
 
 ### Revisões com data
 
 | Quando | O que |
 |---|---|
+| 12/11, 20/11, 27/11 e 30/11 | SB1: ler o preço das 19 peças, do mesmo jeito, e preencher os fatos. A do dia 12 fecha a 11.11 e não se recupera depois |
+| 13/11 e na abertura da campanha | `shein-black-friday` (10 idiomas): "hoje está no 11.11" envelhece. Reler as lojas e atualizar as datas |
 | 05/11 | Autobronzeador Skelt: reler os preços |
 | Até 21/11 | Skelt: refazer o teste do cupom, porque a regra vence em 21/11 |
 | Antes da Black Friday | Reler os preços da Insider (I6), do melhor whey, da Probiótica, da Max e da Hostinger. Na DAMIE, a campanha e os preços |
@@ -154,4 +154,3 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | ~14/11 | "Primeira compra" (análise das 23 lojas, 05/11): sem série nem artigo agora. A loja que passar de ~50 impressões por mês sem a /cupons/<loja> aparecer ganha um artigo de decisão ("boas-vindas da loja ou nosso cupom?"). As boas-vindas lidas em 05/11 (#601): Insider 15% e Mais Mu 10%, iguais aos nossos códigos; Bagaggio 5%, menos que o CECILIA10. Com valor igual, o artigo só se paga se a busca crescer. Magalu, SHEIN e Dolce Gusto ficam fora: o resultado é da resposta de IA do Google e dos sites de cupom, e na Magalu o código não vale no app |
 | 27/11 | Insider: refazer o teste da soma do cupom com a Black Friday |
 | Black Friday | Bagaggio: testar se a promoção "não cumulativa" soma com o CECILIA10 |
-| `skinup-marca-na-roupa` (F14) | Acréscimo quando o short da Cecília sair: o vídeo, o comentário dela sobre não marcar e a experiência, só no que ela disser. O Bruno avisa | Bruno, 08/11 |
