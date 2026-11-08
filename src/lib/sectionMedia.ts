@@ -1,3 +1,4 @@
+import type { ReviewGalleryImage } from '@/components/review/ReviewGallerySection';
 import type { ContentSection, Review } from '@/lib/content/types';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
@@ -20,6 +21,15 @@ function withDeliveredSectionMedia(section: ContentSection): ContentSection {
     ...(image && typeof image === 'object' && image.src ? { image: { ...image, src: resolveMediaUrl(image.src) } } : {}),
     ...(images ? { images: images.map((item) => ({ ...item, src: resolveMediaUrl(item.src) })) } : {}),
     ...(video ? { video: withDeliveredVideo(video) } : {}),
+  };
+}
+
+// A foto da galeria vem em `image` ou, nos artigos antigos, em `url`; a galeria escolhe no navegador.
+export function withDeliveredGalleryImage(item: ReviewGalleryImage): ReviewGalleryImage {
+  return {
+    ...item,
+    ...(typeof item.image === 'string' ? { image: resolveMediaUrl(item.image) } : {}),
+    ...(typeof item.url === 'string' ? { url: resolveMediaUrl(item.url) } : {}),
   };
 }
 

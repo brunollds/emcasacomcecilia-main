@@ -10,6 +10,7 @@ import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.sh
 
 import { LatestVideos } from '@/components/sections/CTA';
 import { MyLinks } from '@/components/sections/MyLinks';
+import mediaMap from '@/lib/generated/media-delivery-map.json';
 import { OfferCarousel } from '@/components/sections/OfferCarousel';
 import { PopularRecipes, selectPopularRecipes } from '@/components/sections/PopularRecipes';
 import { brandLinks } from '@/lib/brandLinks';
@@ -173,6 +174,29 @@ assert.ok(!exploreOffersText.includes('Ver ofertas '), 'o card com ofertas não 
 assert.match(exploreOffersHtml, /<h3[^>]*>Dicas &amp; Ofertas<\/h3>/);
 assert.ok(exploreOffersText.includes('R$ 30,00') && !exploreOffersText.includes('de R$ 30,00'), 'preço igual ao antigo: só o preço');
 assert.ok(!/<a\b(?:(?!<\/a>)[\s\S])*<a\b/.test(exploreOffersHtml), 'nenhum link dentro de outro');
+
+// A foto da oferta chega pronta ao carrossel, que é cliente: com entrada no mapa de mídia, o endereço do CDN; sem
+// entrada ou de outro host, a própria.
+{
+  const [mappedLocal, mappedCdn] = Object.entries(mediaMap as Record<string, string>).find(([local]) => local.startsWith('/images/'))!;
+  const notMapped = '/images/oferta-fora-do-mapa.webp';
+  const external = 'https://m.media-amazon.com/images/oferta-externa.jpg';
+  assert.ok(!(notMapped in mediaMap), 'o exemplo da oferta fora do mapa entrou no mapa: troque o exemplo');
+  const photosHtml = render(
+    createElement(MyLinks, {
+      offers: [
+        offer('m1', { originalPrice: 100, discountPrice: 70, image: mappedLocal }),
+        offer('m2', { originalPrice: 100, discountPrice: 70, image: notMapped }),
+        offer('m3', { originalPrice: 100, discountPrice: 70, image: external }),
+      ],
+    })
+  );
+  // Só as fotos do carrossel, pelo alt: o card da DAMIE, ao lado, tem imagem própria do CDN.
+  const carouselPhotos = [...photosHtml.matchAll(/<img\b[^>]*alt="Oferta m\d"[^>]*>/g)].map(([tag]) => tag);
+  assert.equal(carouselPhotos.length, 3, `fotos do carrossel: ${carouselPhotos.length}`);
+  const srcOf = (tag: string) => decodeURIComponent(tag.match(/\ssrc="[^"]*?url=([^&"]+)/)?.[1] ?? '');
+  assert.deepEqual(carouselPhotos.map(srcOf), [mappedCdn, notMapped, external], 'foto do carrossel: no mapa, fora do mapa e externa');
+}
 
 // Carrossel do card do Dicas & Ofertas: só ofertas com foto, na ordem do feed; o card mostra a foto e o
 // preço, e o nome vai no alt da foto.
