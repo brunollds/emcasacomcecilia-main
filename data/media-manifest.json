@@ -44969,6 +44969,420 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-festas-amarracao-calca-caqui.webp",
+      "local_url": "/images/reviews/clea-store/clea-festas-amarracao-calca-caqui.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 106534,
+      "sha256": "e7677923ee9b33636e8796360fa82094ce1fb7968647f699da2e868623b491b2",
+      "width": 1512,
+      "height": 1128,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-festas-amarracao-calca-caqui.webp",
+      "storage_filename": "clea-festas-amarracao-calca-caqui.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 192,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-festas-amarracao-calca-caqui.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199435,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-festas-amarracao-calca-caqui.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e7677923ee9b33636e8796360fa82094ce1fb7968647f699da2e868623b491b2/clea-festas-amarracao-calca-caqui.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e7677923ee9b33636e8796360fa82094ce1fb7968647f699da2e868623b491b2/clea-festas-amarracao-calca-caqui.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.509Z",
+      "verification_etag_or_digest": "e7677923ee9b33636e8796360fa82094ce1fb7968647f699da2e868623b491b2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-festas-camisa-laco-calca-vermelha.webp",
+      "local_url": "/images/reviews/clea-store/clea-festas-camisa-laco-calca-vermelha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65602,
+      "sha256": "9346552ee4ffffb5dddec1b12be3729bb3d17023cdd9a870c530392eeca46d75",
+      "width": 1512,
+      "height": 1128,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-festas-camisa-laco-calca-vermelha.webp",
+      "storage_filename": "clea-festas-camisa-laco-calca-vermelha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 224,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-festas-camisa-laco-calca-vermelha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199467,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-festas-camisa-laco-calca-vermelha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9346552ee4ffffb5dddec1b12be3729bb3d17023cdd9a870c530392eeca46d75/clea-festas-camisa-laco-calca-vermelha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9346552ee4ffffb5dddec1b12be3729bb3d17023cdd9a870c530392eeca46d75/clea-festas-camisa-laco-calca-vermelha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.510Z",
+      "verification_etag_or_digest": "9346552ee4ffffb5dddec1b12be3729bb3d17023cdd9a870c530392eeca46d75",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-festas-croche-blusa-shorts-areia.webp",
+      "local_url": "/images/reviews/clea-store/clea-festas-croche-blusa-shorts-areia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 124006,
+      "sha256": "f9cdf799091824459055ea4c263f638efbc5215de26bce64cdad7051b86fb4ed",
+      "width": 1512,
+      "height": 1128,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-festas-croche-blusa-shorts-areia.webp",
+      "storage_filename": "clea-festas-croche-blusa-shorts-areia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 356,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-festas-croche-blusa-shorts-areia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199599,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-festas-croche-blusa-shorts-areia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f9cdf799091824459055ea4c263f638efbc5215de26bce64cdad7051b86fb4ed/clea-festas-croche-blusa-shorts-areia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f9cdf799091824459055ea4c263f638efbc5215de26bce64cdad7051b86fb4ed/clea-festas-croche-blusa-shorts-areia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.510Z",
+      "verification_etag_or_digest": "f9cdf799091824459055ea4c263f638efbc5215de26bce64cdad7051b86fb4ed",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-festas-regata-preta-calca-vermelha.webp",
+      "local_url": "/images/reviews/clea-store/clea-festas-regata-preta-calca-vermelha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129900,
+      "sha256": "d5acbed230797823324c198719d6f2710de0e1ec842dbe2003429415a7afed76",
+      "width": 1512,
+      "height": 1128,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-festas-regata-preta-calca-vermelha.webp",
+      "storage_filename": "clea-festas-regata-preta-calca-vermelha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 315,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-festas-regata-preta-calca-vermelha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199558,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-festas-regata-preta-calca-vermelha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d5acbed230797823324c198719d6f2710de0e1ec842dbe2003429415a7afed76/clea-festas-regata-preta-calca-vermelha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d5acbed230797823324c198719d6f2710de0e1ec842dbe2003429415a7afed76/clea-festas-regata-preta-calca-vermelha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.510Z",
+      "verification_etag_or_digest": "d5acbed230797823324c198719d6f2710de0e1ec842dbe2003429415a7afed76",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-festas-renda-bordo-jeans.webp",
+      "local_url": "/images/reviews/clea-store/clea-festas-renda-bordo-jeans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 164574,
+      "sha256": "7c66c65dfbf03bfbcad6c90780aac082155f941d821d59ccd560a916f412793d",
+      "width": 1512,
+      "height": 1128,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-festas-renda-bordo-jeans.webp",
+      "storage_filename": "clea-festas-renda-bordo-jeans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 283,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-festas-renda-bordo-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199526,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-festas-renda-bordo-jeans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7c66c65dfbf03bfbcad6c90780aac082155f941d821d59ccd560a916f412793d/clea-festas-renda-bordo-jeans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7c66c65dfbf03bfbcad6c90780aac082155f941d821d59ccd560a916f412793d/clea-festas-renda-bordo-jeans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.510Z",
+      "verification_etag_or_digest": "7c66c65dfbf03bfbcad6c90780aac082155f941d821d59ccd560a916f412793d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-festas-renda-shorts-areia.webp",
+      "local_url": "/images/reviews/clea-store/clea-festas-renda-shorts-areia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 108796,
+      "sha256": "51dd1ce004ceed78550b0001ed6c61f5ed167d60245df03e1a6de6bfed0acd62",
+      "width": 1512,
+      "height": 1128,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-festas-renda-shorts-areia.webp",
+      "storage_filename": "clea-festas-renda-shorts-areia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-festas-renda-shorts-areia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199398,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-festas-renda-shorts-areia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/51dd1ce004ceed78550b0001ed6c61f5ed167d60245df03e1a6de6bfed0acd62/clea-festas-renda-shorts-areia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/51dd1ce004ceed78550b0001ed6c61f5ed167d60245df03e1a6de6bfed0acd62/clea-festas-renda-shorts-areia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.510Z",
+      "verification_etag_or_digest": "51dd1ce004ceed78550b0001ed6c61f5ed167d60245df03e1a6de6bfed0acd62",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-festas-vestido-croche.webp",
+      "local_url": "/images/reviews/clea-store/clea-festas-vestido-croche.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100766,
+      "sha256": "d98d9b4909af8bdb9c08447a7d39d3599cf5e9d7ce1978c8dda9ef33894c4086",
+      "width": 1200,
+      "height": 1799,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-festas-vestido-croche.webp",
+      "storage_filename": "clea-festas-vestido-croche.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 348,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-festas-vestido-croche.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199591,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-festas-vestido-croche.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d98d9b4909af8bdb9c08447a7d39d3599cf5e9d7ce1978c8dda9ef33894c4086/clea-festas-vestido-croche.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d98d9b4909af8bdb9c08447a7d39d3599cf5e9d7ce1978c8dda9ef33894c4086/clea-festas-vestido-croche.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.510Z",
+      "verification_etag_or_digest": "d98d9b4909af8bdb9c08447a7d39d3599cf5e9d7ce1978c8dda9ef33894c4086",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-festas-vestido-floral.webp",
+      "local_url": "/images/reviews/clea-store/clea-festas-vestido-floral.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48882,
+      "sha256": "9149dced4553275f377a56c3daaf05ac87666477956b30a731fbb7a2e7e4b7d9",
+      "width": 1200,
+      "height": 1800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-festas-vestido-floral.webp",
+      "storage_filename": "clea-festas-vestido-floral.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 128,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-festas-vestido-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199371,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-festas-vestido-floral.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9149dced4553275f377a56c3daaf05ac87666477956b30a731fbb7a2e7e4b7d9/clea-festas-vestido-floral.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9149dced4553275f377a56c3daaf05ac87666477956b30a731fbb7a2e7e4b7d9/clea-festas-vestido-floral.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.510Z",
+      "verification_etag_or_digest": "9149dced4553275f377a56c3daaf05ac87666477956b30a731fbb7a2e7e4b7d9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-festas-vestido-paisley.webp",
+      "local_url": "/images/reviews/clea-store/clea-festas-vestido-paisley.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 149594,
+      "sha256": "28bf0df3176e1766543e51d3945cfe55319f61096516cb79d775f7232c4d0c29",
+      "width": 1200,
+      "height": 1799,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-festas-vestido-paisley.webp",
+      "storage_filename": "clea-festas-vestido-paisley.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 256,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-festas-vestido-paisley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199499,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-festas-vestido-paisley.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/28bf0df3176e1766543e51d3945cfe55319f61096516cb79d775f7232c4d0c29/clea-festas-vestido-paisley.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/28bf0df3176e1766543e51d3945cfe55319f61096516cb79d775f7232c4d0c29/clea-festas-vestido-paisley.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.510Z",
+      "verification_etag_or_digest": "28bf0df3176e1766543e51d3945cfe55319f61096516cb79d775f7232c4d0c29",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp",
       "local_url": "/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp",
       "media_kind": "image",
@@ -84698,6 +85112,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-15T01:19:48.458Z",
       "verification_etag_or_digest": "50708bf666faa4845a0a50adadd34a18cb1280e297b46f064e12f824724b8c5c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/look-natal-reveillon-2026-clea-store-capa-discover.webp",
+      "local_url": "/images/reviews/clea-store/look-natal-reveillon-2026-clea-store-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77426,
+      "sha256": "a5f1be3a5d2f22f3db76c0484b1e013a9eff7ba7e2188e7edbc5fad143c4a0bc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "look-natal-reveillon-2026-clea-store-capa-discover.webp",
+      "storage_filename": "look-natal-reveillon-2026-clea-store-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-natal-reveillon-2026-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-natal-reveillon-2026-clea-store.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/look-natal-reveillon-2026-clea-store-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199265,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/look-natal-reveillon-2026-clea-store-capa-discover.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a5f1be3a5d2f22f3db76c0484b1e013a9eff7ba7e2188e7edbc5fad143c4a0bc/look-natal-reveillon-2026-clea-store-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a5f1be3a5d2f22f3db76c0484b1e013a9eff7ba7e2188e7edbc5fad143c4a0bc/look-natal-reveillon-2026-clea-store-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T22:42:51.510Z",
+      "verification_etag_or_digest": "a5f1be3a5d2f22f3db76c0484b1e013a9eff7ba7e2188e7edbc5fad143c4a0bc",
       "verification_status": "verified"
     },
     {

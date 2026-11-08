@@ -14,7 +14,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação |
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
-| A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
+| A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | JSON pronto (id 864), com rascunho e imagens aprovados em 08/11. Falta o deploy; reler preços e grade antes dele |
 | SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
 
 ## 2. Paradas: esperam um fato ou uma decisão
