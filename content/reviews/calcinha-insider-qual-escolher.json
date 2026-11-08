@@ -1,0 +1,552 @@
+{
+  "locale": "pt",
+  "type": "Guia de Escolha",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "8 de novembro de 2026",
+  "publishedAtISO": "2026-11-08",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "id": 861,
+  "slug": "calcinha-insider-qual-escolher",
+  "coupon": "EMCASACOMCECILIA",
+  "affiliate": "insider",
+  "editorialNote": "Podemos receber comissão pelos links e pelo cupom. Não vestimos as calcinhas; testamos o desconto no carrinho.",
+  "title": "Calcinha Insider: Brief, Minimal, String, Safe, Cover ou NakedFeel, qual escolher?",
+  "seoTitle": "Calcinha Insider: qual modelo escolher?",
+  "description": "Compare Minimal e String, as Brief, NakedFeel, Cover e Safe por cobertura, acabamento e medidas. Veja os preços com cupom e quando o kit sai por menos.",
+  "metaDescription": "EMCASACOMCECILIA dá 15% OFF na Insider. Calcinha Brief, Minimal, String, Safe, Cover ou NakedFeel: cobertura, tecido, tamanho e preço.",
+  "image": "/images/reviews/insider/calcinha-insider-qual-escolher-capa.webp",
+  "imageAlt": "Calcinha Minimal Corte a Laser marrom e Calcinha Cover Corte a Laser lilás em duas fotos, com logo da Insider e título na faixa",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Compare Minimal e String para menor cobertura, Brief e NakedFeel para a intermediária, e Cover e Safe para laterais mais largas ou cintura alta. Para roupa justa, a loja indica a maioria dos modelos e chama a Minimal Corte a Laser de a opção mais invisível. O EMCASACOMCECILIA deu 15% OFF nas opções testadas; confira medidas e acabamento nos quadros."
+      ]
+    },
+    {
+      "heading": "As oito lado a lado",
+      "paragraphs": [
+        "A coluna de cobertura é leitura nossa, feita com a altura e a lateral do guia de medidas e com as palavras de cada página. A loja não publica esse ranking."
+      ],
+      "comparisonTable": {
+        "caption": "Preços das páginas e teste de carrinho em 08/11/2026.",
+        "headers": [
+          "Calcinha",
+          "Cobertura",
+          "Linha",
+          "Tamanhos",
+          "Preço da página",
+          "Com o cupom, no carrinho"
+        ],
+        "rows": [
+          [
+            "[Fio Minimal](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "Menor",
+            "Comum",
+            "PP a XGG",
+            "R$ 35 a R$ 65",
+            "R$ 29,75 na opção de R$ 35"
+          ],
+          [
+            "[Tanga String](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-string?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "Menor, com tiras laterais",
+            "Comum",
+            "PP a XGG",
+            "R$ 39 a R$ 65",
+            "R$ 33,15 na opção de R$ 39"
+          ],
+          [
+            "[Fio Minimal Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "Menor",
+            "Corte a laser",
+            "P a GG",
+            "R$ 19 a R$ 39",
+            "R$ 16,15 na opção de R$ 19; R$ 33,15 na de R$ 39"
+          ],
+          [
+            "[Biquíni Brief](https://creators.insiderstore.com.br/yqQ53TN)",
+            "Média",
+            "Comum",
+            "PP a XGG",
+            "R$ 41,40 a R$ 75",
+            "R$ 35,19 na opção de R$ 41,40"
+          ],
+          [
+            "[Brief Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "Média",
+            "Corte a laser",
+            "PP a XGG",
+            "R$ 35 a R$ 39",
+            "R$ 29,75 na opção de R$ 35"
+          ],
+          [
+            "[Biquíni NakedFeel](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-biquini-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "Média, com lateral fina",
+            "NakedFeel",
+            "PP a XGG",
+            "R$ 59",
+            "R$ 50,15"
+          ],
+          [
+            "[Caleçon Cover Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "Maior",
+            "Corte a laser",
+            "P a XGG",
+            "R$ 39 a R$ 45",
+            "R$ 33,15 na opção de R$ 39"
+          ],
+          [
+            "[Hot Pant Safe](https://creators.insiderstore.com.br/qxLZKJc)",
+            "A maior",
+            "Comum",
+            "PP a XGG",
+            "R$ 39 a R$ 79",
+            "R$ 33,15 na opção de R$ 39"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O preço muda com a cor e o tamanho, e testamos a opção mais barata de cada uma. Na Minimal Corte a Laser, os R$ 19 eram da cor Faded Beige; as outras cores custavam R$ 35 ou R$ 39.",
+        "Essa mesma peça tem uma segunda página na loja, em que os R$ 29 e os R$ 39 seguiram sem desconto no carrinho. O link do quadro leva à página em que o cupom entrou. Os preços podem mudar durante a [Black Friday da Insider para mulheres](/reviews/black-friday-insider-feminino)."
+      ]
+    },
+    {
+      "heading": "Menor cobertura: Minimal e String",
+      "paragraphs": [
+        "A Fio Minimal é a menor da linha comum: no M, tem 19 cm de altura e 4 cm de lateral. A loja a descreve \"para quem quer uma calcinha menor mas não menos confortável\". A página também a indica para roupas justas, vestidos e tecidos finos, e publica nota 4,9 em 520 avaliações.",
+        "A Tanga String troca a lateral por \"tiras laterais mais finas\", com o tecido NakedFeel e o interior Softouch, nas palavras da loja. No M, a altura é de 23 cm, igual à da Brief. A página a indica para vestidos, saias e calças justas e publica nota 4,9 em 220 avaliações.",
+        "A Fio Minimal Corte a Laser é um pouco mais alta que a comum: 20,5 cm no M, com 5 cm de lateral. A loja a chama de \"a opção mais invisível para usar com roupas justas e tecidos finos\" e diz que ela não enrola. A grade vai do P ao GG, então quem veste PP ou XGG fica com a comum."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal.webp",
+          "alt": "Mulher com a Calcinha Fio Minimal bege e sutiã da mesma cor",
+          "caption": "A Fio Minimal em bege. Foto: Insider.",
+          "objectFit": "square",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+        },
+        {
+          "src": "/images/reviews/insider/calcinha-insider-qual-escolher-string.webp",
+          "alt": "Mulher com a Calcinha Tanga String branca, de tiras laterais finas, e sutiã branco",
+          "caption": "A Tanga String em branco. Foto: Insider.",
+          "objectFit": "square",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-string?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+        },
+        {
+          "src": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal-laser.webp",
+          "alt": "Mulher com a Calcinha Fio Minimal Corte a Laser marrom e blusa justa de manga longa",
+          "caption": "A Minimal Corte a Laser em marrom. Foto: Insider.",
+          "objectFit": "square",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Fio Minimal",
+            "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "howTo": "Para o dia a dia, quando você prefere a peça menor da linha comum.",
+            "occasion": "Dia a dia, com roupa justa, vestido ou tecido fino, pela loja."
+          },
+          {
+            "piece": "Tanga String",
+            "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-string?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "howTo": "Quando você gosta de tira fina na lateral, no lugar de uma lateral larga.",
+            "occasion": "Vestido, saia ou calça justa, pela loja."
+          },
+          {
+            "piece": "Fio Minimal Corte a Laser",
+            "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "howTo": "Sob roupa justa ou de tecido fino, como a loja indica.",
+            "occasion": "Legging, vestido de malha e calça justa."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Cobertura média: as Brief e a NakedFeel",
+      "paragraphs": [
+        "A Biquíni Brief é a mais avaliada do grupo, com nota 4,9 em 1.704 avaliações. A loja fala em \"design minimalista que não marca na pele\" e, na descrição, em peça que não marca na roupa. Ela é a mais larga das médias: 36 cm de cintura no M. Ela combina com o [sutiã Flex da Insider](/reviews/sutia-insider-qual-escolher), que a loja vende em kit com três dela.",
+        "A Brief Corte a Laser tem altura parecida, 23,5 cm no M, e é 3 cm mais estreita na cintura: 33 cm. A loja diz que \"a modelagem é a mais versátil da linha\", fala em \"cobertura moderada, conforto e invisibilidade\" e a indica para roupas justas, vestidos e tecidos finos. A nota publicada é 5,0, em 67 avaliações.",
+        "A Biquíni NakedFeel tem o maior preço de partida das oito. A loja diz que ela é \"feita pra passar despercebida\", com acabamentos selados e \"menor interferência sob a roupa\". A lateral tem 4 cm em todos os tamanhos. A peça está marcada como lançamento e tem só 8 avaliações, com nota 5,0."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/insider/calcinha-insider-qual-escolher-brief.webp",
+          "alt": "Mulher com a Calcinha Biquíni Brief marrom e sutiã da mesma cor",
+          "caption": "A Biquíni Brief em marrom. Foto: Insider.",
+          "objectFit": "square",
+          "href": "https://creators.insiderstore.com.br/yqQ53TN"
+        },
+        {
+          "src": "/images/reviews/insider/calcinha-insider-qual-escolher-brief-laser.webp",
+          "alt": "Mulher com a Calcinha Brief Corte a Laser branca e camiseta justa cinza",
+          "caption": "A Brief Corte a Laser em branco. Foto: Insider.",
+          "objectFit": "square",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+        },
+        {
+          "src": "/images/reviews/insider/calcinha-insider-qual-escolher-nakedfeel.webp",
+          "alt": "Mulher com a Calcinha Biquíni NakedFeel rosada e sutiã da mesma cor",
+          "caption": "A Biquíni NakedFeel. Foto: Insider.",
+          "objectFit": "square",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-biquini-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Biquíni Brief",
+            "url": "https://creators.insiderstore.com.br/yqQ53TN",
+            "howTo": "Como calcinha de todo dia, com cobertura intermediária.",
+            "occasion": "Rotina e trabalho.",
+            "pairsWith": [
+              {
+                "label": "Sutiã Flex",
+                "url": "https://creators.insiderstore.com.br/dZEzC9B",
+                "note": "A loja vende os dois em kit."
+              }
+            ]
+          },
+          {
+            "piece": "Brief Corte a Laser",
+            "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "howTo": "Por baixo de quase toda roupa do dia: a loja a chama de a mais versátil da linha.",
+            "occasion": "Calça, saia e vestido."
+          },
+          {
+            "piece": "Biquíni NakedFeel",
+            "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-biquini-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "howTo": "Sob a roupa, quando você quer cobertura média com lateral fina.",
+            "occasion": "Roupa em que você não quer notar a calcinha.",
+            "pairsWith": [
+              {
+                "label": "Sutiã Decote V NakedFeel",
+                "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-decote-v-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+                "note": "Da mesma linha, em conjunto na loja."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Maior cobertura: Cover e Safe",
+      "paragraphs": [
+        "A Caleçon Cover Corte a Laser ganha nas laterais: \"cobertura maior e laterais mais largas\", diz a loja, com 9 cm de lateral no M. A altura segue perto da das Brief, 22,5 cm. A página diz que ela não enrola, a indica para peças mais justas ou tecidos finos e publica nota 5,0 em 34 avaliações.",
+        "A Hot Pant Safe é a mais alta: 30 cm de altura e 13,5 cm de lateral no M. A página resume como \"maior cobertura\" e publica nota 4,9 em 1.223 avaliações. Entre as duas, a pergunta é até onde você quer que a peça suba. A Safe vai mais alto na cintura.",
+        "A [Boxer](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-boxer?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), em formato de short e com elástico exposto, estava disponível só no PP na nossa consulta."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/insider/calcinha-insider-qual-escolher-cover.webp",
+          "alt": "Mulher com a Calcinha Cover Corte a Laser lilás, de laterais largas, e regata branca",
+          "caption": "A Cover Corte a Laser em lilás. Foto: Insider.",
+          "objectFit": "square",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+        },
+        {
+          "src": "/images/reviews/insider/calcinha-insider-qual-escolher-safe.webp",
+          "alt": "Mulher com a Calcinha Hot Pant Safe preta, de cintura alta, e sutiã preto",
+          "caption": "A Hot Pant Safe em preto. Foto: Insider.",
+          "objectFit": "square",
+          "href": "https://creators.insiderstore.com.br/qxLZKJc"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Caleçon Cover Corte a Laser",
+            "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "howTo": "Quando você quer lateral larga sem que a peça suba muito na cintura.",
+            "occasion": "Rotina, com calça ou saia de cintura média."
+          },
+          {
+            "piece": "Hot Pant Safe",
+            "url": "https://creators.insiderstore.com.br/qxLZKJc",
+            "howTo": "Quando você quer a maior cobertura da linha, com a cintura mais alta.",
+            "occasion": "Calça e saia de cintura alta.",
+            "pairsWith": [
+              {
+                "label": "Sutiã Top Lounge",
+                "url": "https://creators.insiderstore.com.br/wb2XzkL",
+                "note": "A loja vende os dois em kit."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Linha comum ou corte a laser: o que a loja diz",
+      "paragraphs": [
+        "A composição publicada é a mesma nas duas linhas: 87,5% de poliamida e 12,5% de elastano por fora, 88% de modal e 12% de elastano por dentro. A diferença está no acabamento e no molde. As três páginas de corte a laser falam em acabamento que elimina costuras aparentes, e a Minimal e a Cover dizem que a peça não enrola.",
+        "O preço não segue o que se esperaria: a Brief Corte a Laser parte de um valor menor que o da Brief comum. A NakedFeel foge das duas, com 75% de poliamida, 25% de elastano e forro de modal. \"Anti odor\", na linha comum, e os microfuros do fundilho, na NakedFeel, são palavras da loja."
+      ]
+    },
+    {
+      "heading": "Roupa justa ou tecido fino: o que a loja indica",
+      "paragraphs": [
+        "Roupa justa separa menos os modelos do que parece. As páginas da Fio Minimal, da String, da Brief Corte a Laser, da Minimal Corte a Laser e da Cover citam esse uso, e a da Biquíni Brief diz que ela não marca na roupa. A NakedFeel fala em menor interferência sob a roupa. A Safe é a exceção: a página só fala em não marcar a pele.",
+        "A frase mais forte é a da Minimal Corte a Laser, que a loja chama de \"a opção mais invisível para usar com roupas justas e tecidos finos\". É uma promessa, sem medida publicada."
+      ]
+    },
+    {
+      "heading": "Como escolher o tamanho e por que a troca pesa",
+      "paragraphs": [
+        "A Insider publica medidas da peça, não do corpo. Pegue uma calcinha que veste bem, estenda sem esticar e meça o cós, de uma lateral à outra, no ponto mais alto. Depois meça a altura, da linha da cintura até o fundo. Compare com o quadro.",
+        "A letra não basta: no M, a cintura vai de 33 cm (Brief Corte a Laser e NakedFeel) a 36 cm (Biquíni Brief). Outras peças estão na [tabela de medidas Insider](/reviews/tabela-de-medidas-insider)."
+      ],
+      "comparisonTable": {
+        "caption": "Largura da cintura / altura da peça, em cm, pelo Guia de medidas da Insider.",
+        "headers": [
+          "Calcinha",
+          "PP",
+          "P",
+          "M",
+          "G",
+          "GG",
+          "XGG"
+        ],
+        "rows": [
+          [
+            "Fio Minimal",
+            "30,5 / 16",
+            "32,5 / 17,5",
+            "34,5 / 19",
+            "36,5 / 20,5",
+            "38,5 / 22",
+            "40,5 / 23,5"
+          ],
+          [
+            "Tanga String",
+            "31 / 20",
+            "33 / 21,5",
+            "35 / 23",
+            "37 / 24,5",
+            "39 / 26",
+            "41 / 27,5"
+          ],
+          [
+            "Minimal Corte a Laser",
+            "Não tem",
+            "31,5 / 19",
+            "33,5 / 20,5",
+            "35,5 / 22",
+            "37,5 / 23,5",
+            "Não tem"
+          ],
+          [
+            "Biquíni Brief",
+            "33 / 20",
+            "34,5 / 21,5",
+            "36 / 23",
+            "37,5 / 24,5",
+            "39 / 26",
+            "40,5 / 27,5"
+          ],
+          [
+            "Brief Corte a Laser",
+            "29 / 20,5",
+            "31 / 22",
+            "33 / 23,5",
+            "35 / 25",
+            "37 / 26,5",
+            "40 / 28"
+          ],
+          [
+            "Biquíni NakedFeel",
+            "29 / 18,5",
+            "31 / 20",
+            "33 / 21,5",
+            "35 / 23",
+            "37 / 24,5",
+            "40 / 26"
+          ],
+          [
+            "Cover Corte a Laser",
+            "Não tem",
+            "32 / 21",
+            "34 / 22,5",
+            "36 / 24",
+            "38 / 25,5",
+            "41 / 27"
+          ],
+          [
+            "Hot Pant Safe",
+            "30 / 27",
+            "32 / 28,5",
+            "34 / 30",
+            "36 / 31,5",
+            "38 / 33",
+            "40 / 34,5"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A página mostra as chamadas gerais de troca fácil e de 21 dias para devolução, enquanto a política comercial da Insider restringe trocas e devoluções de underwear a defeito comprovado, por razões de saúde e higiene. Por isso, não trate a chamada geral como promessa de troca por tamanho.",
+        "Essa restrição comercial é diferente do direito de arrependimento na compra à distância, previsto no art. 49 do CDC, com prazo de sete dias a partir do recebimento. Confira as medidas e consulte a loja sobre o procedimento do seu pedido; as condições gerais estão em [a Insider vale a pena](/reviews/insider-vale-a-pena)."
+      ]
+    },
+    {
+      "heading": "Avulsa ou kit, com o cupom",
+      "paragraphs": [
+        "O cupom entrou em todos os kits que testamos. A coluna por peça é conta nossa, com o valor do carrinho dividido pelo número de calcinhas."
+      ],
+      "comparisonTable": {
+        "caption": "Preços das páginas e teste de carrinho no mesmo dia do primeiro quadro.",
+        "headers": [
+          "Kit",
+          "Preço da página",
+          "Com o cupom, no carrinho",
+          "Por peça"
+        ],
+        "rows": [
+          [
+            "[5 Minimal Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-calcinhas-fio-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "R$ 87,20",
+            "R$ 74,12",
+            "R$ 14,82"
+          ],
+          [
+            "[3 Minimal Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-calcinha-fio-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "R$ 54,08",
+            "R$ 45,97",
+            "R$ 15,32"
+          ],
+          [
+            "[5 Brief Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-calcinhas-fio-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "R$ 160,63",
+            "R$ 136,54",
+            "R$ 27,31"
+          ],
+          [
+            "[3 Minimal](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-calcinhas-minimal?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "R$ 98,70",
+            "R$ 83,90",
+            "R$ 27,97"
+          ],
+          [
+            "[3 Brief Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-calcinhas-fio-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "R$ 99,61",
+            "R$ 84,67",
+            "R$ 28,22"
+          ],
+          [
+            "[3 Safe](https://creators.insiderstore.com.br/2wmYH52)",
+            "R$ 105,30",
+            "R$ 89,51",
+            "R$ 29,84"
+          ],
+          [
+            "[5 Cover Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-calcinhas-calecon-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "R$ 179,40",
+            "R$ 152,49",
+            "R$ 30,50"
+          ],
+          [
+            "[3 Cover Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-calcinhas-calecon-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "R$ 110,93",
+            "R$ 94,30",
+            "R$ 31,43"
+          ],
+          [
+            "[3 String](https://creators.insiderstore.com.br/i3LhqWr)",
+            "R$ 111,00",
+            "R$ 94,35",
+            "R$ 31,45"
+          ],
+          [
+            "[5 Brief](https://creators.insiderstore.com.br/nyBqvep)",
+            "R$ 190,19",
+            "R$ 161,67",
+            "R$ 32,33"
+          ],
+          [
+            "[3 Brief](https://creators.insiderstore.com.br/x4Qv8HF)",
+            "R$ 118,20",
+            "R$ 100,47",
+            "R$ 33,49"
+          ],
+          [
+            "[3 Biquíni NakedFeel](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-calcinhas-biquini-nakedfeel%C2%AE-3-unidades?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+            "R$ 168,15",
+            "R$ 142,93",
+            "R$ 47,64"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O kit sai por menos que a avulsa mais barata em todos os modelos da lista, e a diferença cresce quando a cor que você quer custa mais. Na Minimal Corte a Laser, por exemplo, a avulsa de R$ 39 sai a R$ 33,15, e cada peça do kit de 3 sai a menos da metade disso.",
+        "Num kit, um erro de tamanho afeta várias peças. Por isso, eu começaria pela avulsa se ainda não conhecesse o ajuste daquele modelo e só depois compararia os kits. Confira as condições comerciais de troca e os direitos de arrependimento explicados no capítulo de tamanho; outras combinações estão em [o kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
+        "Vale um cupom por pedido; ele não se aplica à loja física. A loja declara exceção para lançamentos, mas peças marcadas como lançamento no catálogo da loja também aceitaram o código nos nossos testes, como a NakedFeel. Confira o desconto de cada peça no carrinho; as demais regras estão no [cupom Insider](/cupons/insider)."
+      ]
+    },
+    {
+      "heading": "Qual escolher",
+      "paragraphs": [
+        "Para roupa justa, a indicação mais forte da loja é a da Minimal Corte a Laser. Para cobertura intermediária, compare as Brief e a NakedFeel; para lateral larga, a Cover; para cintura mais alta, a Safe."
+      ],
+      "emphasis": "Para uma primeira compra com cobertura intermediária, eu começaria pela Brief Corte a Laser: tem altura próxima à Brief comum, preço inicial menor na comparação e indicação da loja para roupas justas.",
+      "emphasisAfterParagraph": 1
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Calcinha Insider é boa? A escolha depende da cobertura, do acabamento e das medidas que você procura. O quadro compara essas diferenças; as avaliações da loja estão nos capítulos dos modelos.",
+        "Qual marca menos na roupa? A loja chama a Minimal Corte a Laser de a opção mais invisível para roupa justa e tecido fino, e outras páginas têm indicação parecida. É uma promessa da loja, sem medida publicada.",
+        "Posso trocar se errar o tamanho? A política comercial da Insider limita a troca e a devolução de underwear aos casos de defeito comprovado. O direito de arrependimento em compra online é outro assunto, com sete dias a partir do recebimento.",
+        "O kit compensa? Por peça, saiu mais barato que a avulsa de menor preço em todos os modelos testados. Se você ainda não conhece o ajuste, considere começar pela avulsa e confira as condições de troca no capítulo de tamanho.",
+        "O cupom vale em calcinha? O EMCASACOMCECILIA entrou nas avulsas e nos kits testados, com uma exceção: a segunda página da Minimal Corte a Laser. Confira o desconto no carrinho."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você mediu uma calcinha sua e o modelo escolhido tem cintura e altura parecidas.",
+      "Você quer peças para roupa justa: as páginas de Minimal, String, Brief Corte a Laser e Cover citam esse uso.",
+      "Você já sabe o seu tamanho em um modelo: os kits saíram mais baratos por peça."
+    ],
+    "skipIf": [
+      "Você precisa de troca comercial por tamanho para decidir: a Insider informa uma restrição específica para underwear.",
+      "Você veste PP ou XGG e quer a Minimal Corte a Laser: a grade vai do P ao GG.",
+      "Você quer a Boxer em outro tamanho: na nossa consulta, ela só estava disponível no PP."
+    ]
+  },
+  "cta": {
+    "text": "Se a Brief Corte a Laser é o seu caso, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Os links das outras calcinhas estão no quadro. Confira o desconto antes de pagar.",
+    "label": "Ver a Brief Corte a Laser com o cupom",
+    "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+    "sponsored": true
+  },
+  "relatedArticles": [
+    {
+      "slug": "sutia-insider-qual-escolher"
+    },
+    {
+      "slug": "tabela-de-medidas-insider"
+    },
+    {
+      "slug": "kit-insider-quando-compensa"
+    },
+    {
+      "slug": "black-friday-insider-feminino"
+    }
+  ]
+}

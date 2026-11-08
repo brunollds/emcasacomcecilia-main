@@ -23,9 +23,9 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | I12 | Camisa social Insider FutureForm, com o cupom testado no carrinho (rodada de 08/11). Dois artigos, a pedido do Bruno | Insider | PT | [[camisa-social-insider-masculina]] e [[camisa-social-insider-feminina]] | Redigidas, com revisão externa aplicada e capas aprovadas em 08/11; mídia no CDN e PR aberto. No ar em 08/11 (release 829db7d1) |
 | I13 | Sutiã Insider: Comfy, Flex, Lounge ou NakedFeel (rodada de 08/11) | Insider | PT | [[sutia-insider-qual-escolher]] | No ar em 08/11 (release fa2d5745), com revisão externa aplicada e card de estilo |
 | F12 | O que usar em decote profundo, costas abertas e tomara que caia (rodada de 08/11) | Toda Up | PT | [[sutia-para-decote-profundo-costas-abertas]] | No ar em 08/11 (release fa2d5745), com revisão externa aplicada e card de estilo |
-| I14 | Calcinha Insider: qual escolher (decisão do Bruno, 08/11) | Insider | PT | [[calcinha-insider-qual-escolher]] | Redação |
-| F13 | Como descobrir seu tamanho na Toda Up, em todas as linhas (decisão do Bruno, 08/11) | Toda Up | PT | [[tamanho-toda-up-como-escolher]] | Redação. Os cinco guias com tabela recebem o link |
-| F14 | SkinUp marca na roupa? (decisão do Bruno, 08/11) | Toda Up | PT | [[skinup-marca-na-roupa]] | Redação: sai sem teste. Short da Cecília em produção vira acréscimo depois (seção 4) |
+| I14 | Calcinha Insider: qual escolher (decisão do Bruno, 08/11) | Insider | PT | [[calcinha-insider-qual-escolher]] | Redigido e revisado; falta o deploy |
+| F13 | Como descobrir seu tamanho na Toda Up, em todas as linhas (decisão do Bruno, 08/11) | Toda Up | PT | [[tamanho-toda-up-como-escolher]] | Redigido e revisado; falta o deploy |
+| F14 | SkinUp marca na roupa? (decisão do Bruno, 08/11) | Toda Up | PT | [[skinup-marca-na-roupa]] | Redigido e revisado; falta o deploy |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 

@@ -129959,7 +129959,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A Toda Up diz que a fita sustenta de seios pequenos a grandes. No FAQ da loja, porém, a marca fala em segurança até o tamanho 52, abaixo do 54 da tabela. Acima de 54, ela não indica a fita. A loja não usa o termo plus size e não tem largura maior que a G.",
-          "A loja também não publica a largura da fita em centímetros nem os metros do rolo. Se a diferença entre 52 e 54 afetar sua escolha, confirme a indicação com a Toda Up antes de comprar."
+          "A loja também não publica a largura da fita em centímetros nem os metros do rolo. Se a diferença entre 52 e 54 afetar sua escolha, confirme a indicação com a Toda Up antes de comprar. As tabelas das outras peças estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."
         ]
       },
       {
@@ -130098,30 +130098,34 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual tamanho: P, M ou G",
         "paragraphs": [
-          "O tamanho segue o número do sutiã, pela tabela da marca:"
+          "O tamanho segue o número do sutiã e o busto, pela tabela da marca:"
         ],
         "comparisonTable": {
           "headers": [
             "Tamanho",
-            "Número do sutiã"
+            "Número do sutiã",
+            "Circunferência do busto"
           ],
           "rows": [
             [
               "P",
-              "38 a 40"
+              "38 a 40",
+              "80 a 90 cm"
             ],
             [
               "M",
-              "42 a 44"
+              "42 a 44",
+              "85 a 95 cm"
             ],
             [
               "G",
-              "44 a 48"
+              "44 a 48",
+              "95 a 110 cm"
             ]
           ]
         },
         "postParagraphs": [
-          "O número 44 aparece em M e G. Se for o seu caso, confirme com a Toda Up qual tamanho ela indica antes de comprar."
+          "O número 44 aparece em M e G, e o busto de 95 cm também. Se for o seu caso, confirme com a Toda Up qual tamanho ela indica antes de comprar. As outras peças da marca estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."
         ]
       },
       {
@@ -130309,34 +130313,34 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual tamanho: 8, 10 ou 12 cm",
         "paragraphs": [
-          "Para escolher, o número do seu sutiã decide: o quadro junta o tamanho da página e a medida do FAQ."
+          "Para escolher, o número do seu sutiã decide, pelo guia de medidas da marca:"
         ],
         "comparisonTable": {
           "headers": [
             "Número do sutiã",
-            "Medida",
+            "Diâmetro",
             "Tamanho na página"
           ],
           "rows": [
             [
               "34 a 46",
               "8 cm",
-              "P (regular)"
+              "P"
             ],
             [
               "46 a 50",
               "10 cm",
-              "M (médio)"
+              "M"
             ],
             [
               "50 a 54",
               "12 cm",
-              "G (extra largo)"
+              "G"
             ]
           ]
         },
         "postParagraphs": [
-          "O guia é da Toda Up e pode mudar. Como os números 46 e 50 aparecem em duas faixas, consulte a marca sobre qual tamanho escolher para você antes de comprar."
+          "O guia é da Toda Up e pode mudar. Como os números 46 e 50 aparecem em duas faixas, consulte a marca sobre qual tamanho escolher para você antes de comprar. As outras peças da marca estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-tamanhos-2710.webp",
@@ -167601,7 +167605,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Se a sua medida ficar entre duas faixas, compare as duas linhas da tabela de cada modelo com a sua, sob busto e busto."
+          "Se a sua medida ficar entre duas faixas, compare as duas linhas da tabela de cada modelo com a sua, sob busto e busto. As outras linhas estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."
         ],
         "images": [
           {
@@ -174454,7 +174458,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é cada linha",
         "paragraphs": [
           "A proposta da SkinUp é a segunda pele; a da Cotton Up, o básico de algodão. A SkinUp tem corte a laser, acabamento ultrafino e sem costura, descritos pela loja para uma peça discreta sob roupa justa. A linha tem o Top Segunda Pele, o Sutiã Top Alça Fina, o Sutiã Clássico e quatro calcinhas: biquíni, cós alto, fio dental e fio dental cós alto. As cores são tons de pele (Creme ou Baunilha, Caramelo, Avelã e Rose) e preto.",
-          "A Cotton Up é a linha de algodão, com o Top Faixa, o Top Triangular e a Calcinha Biquíni, em preto, branco e cinza. As páginas falam em algodão premium, toque suave e sustentação leve. Não há corte a laser nem a proposta de sumir sob a roupa: é o básico de algodão para o dia a dia.",
+          "A Cotton Up é a linha de algodão, com o Top Faixa, o Top Triangular e a Calcinha Biquíni, em preto, branco e cinza. As páginas falam em algodão premium, toque suave e sustentação leve. As páginas não citam corte a laser nem falam em sumir sob a roupa: é o básico de algodão para o dia a dia. Sobre marcar, veja [SkinUp marca na roupa?](/reviews/skinup-marca-na-roupa).",
           "Para o sutiã com copo da linha Comfort, veja [o guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher); para a peça adesiva, [o sutiã de silicone](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
         "images": [
@@ -174774,7 +174778,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As quatro calcinhas SkinUp vão do P ao G1 e têm corte a laser, sem costura: a loja diz que elas desaparecem sob legging, calça clara e vestido de tecido leve. A [Biquíni](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e a [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) custam o mesmo e, segundo a página, são feitas de 95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% de elastano. A Cós Alto tem a modelagem um pouco mais estruturada, com o que a loja chama de sustentação suave na cintura.",
           "A [Fio Dental](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e a [Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) são um pouco mais caras. A página delas separa o tecido do forro: tecido de 76,5% poliamida e 23,5% elastano, forro de 95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% elastano. A diferença entre as duas é só a cobertura na cintura, segundo a loja.",
-          "A [Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a mais barata das cinco e a única de algodão: 95% algodão e 5% elastano, em Preto, Branco e Cinza, do P ao G1. Tem o cós de elástico à mostra, como uma calcinha de algodão comum, sem o corte a laser da SkinUp."
+          "A [Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a mais barata das cinco e a única de algodão: 95% algodão e 5% elastano, em Preto, Branco e Cinza, do P ao G1. Tem o cós de elástico à mostra, como uma calcinha de algodão comum, e a página não cita o corte a laser da SkinUp."
         ],
         "images": [
           {
@@ -174854,7 +174858,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Calcinha Biquíni Cotton Up",
               "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-              "howTo": "Como calcinha de algodão do dia a dia. Sem o acabamento a laser da SkinUp, não é a peça pensada para roupa colada.",
+              "howTo": "Como calcinha de algodão do dia a dia. A loja fala em caimento discreto, mas a página não cita o corte a laser da SkinUp.",
               "occasion": "Casa, pijama e roupa larga.",
               "pairsWith": [
                 {
@@ -174876,7 +174880,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho: a mesma letra não veste igual",
         "paragraphs": [
-          "Dentro da SkinUp, os três tops têm guias de medida diferentes para a mesma letra: o M do Top Segunda Pele é 79-87 cm de sob busto e 91-98 cm de busto; o M do Clássico, 75-81 e 84-91. Na Cotton Up, a página mostra só a numeração ao lado da letra (P 36-38, G1 50-52), sem a tabela em centímetros. A tabela abaixo junta as medidas de cada página, em centímetros."
+          "Dentro da SkinUp, os três tops têm guias de medida diferentes para a mesma letra: o M do Top Segunda Pele é 79-87 cm de sob busto e 91-98 cm de busto; o M do Clássico, 75-81 e 84-91. Na Cotton Up, os números ao lado da letra são outros (P 36-38, G1 50-52), e o busto termina em 104 cm. A tabela abaixo junta as medidas de cada página, em centímetros."
         ],
         "comparisonTable": {
           "headers": [
@@ -174884,7 +174888,7 @@ export const reviewsData: unknown[] = [
             "Top Segunda Pele (sob busto / busto)",
             "Sutiã Top Alça Fina (sob busto / busto)",
             "Sutiã Clássico (sob busto / busto)",
-            "Tops Cotton Up (numeração)"
+            "Tops Cotton Up (sob busto / busto)"
           ],
           "rows": [
             [
@@ -174899,41 +174903,41 @@ export const reviewsData: unknown[] = [
               "74-81 / 85-92 (38-40)",
               "69-77 / 84-91 (38-40)",
               "70-74 / 76-83 (38-40)",
-              "36-38"
+              "75-80 / 82-88 (36-38)"
             ],
             [
               "M",
               "79-87 / 91-98 (40-42)",
               "75-82 / 92-99 (40-42)",
               "75-81 / 84-91 (40-42)",
-              "40-42"
+              "79-84 / 86-92 (40-42)"
             ],
             [
               "G",
               "84-92 / 97-105 (42-44)",
               "80-88 / 100-107 (42-44)",
               "77-83 / 92-99 (42-44)",
-              "44-46"
+              "83-88 / 90-96 (44-46)"
             ],
             [
               "GG",
               "89-97 / 103-111 (44-46)",
               "86-93 / 108-115 (44-46)",
               "84-92 / 100-107 (44-46)",
-              "46-48"
+              "87-92 / 94-100 (46-48)"
             ],
             [
               "G1",
               "94-102 / 109-117 (46-48)",
               "Não tem",
               "93-101 / 108-115 (46-48)",
-              "50-52"
+              "91-96 / 98-104 (50-52)"
             ]
           ]
         },
         "postParagraphs": [
-          "As calcinhas SkinUp têm um guia só, em centímetros de cintura e quadril: P 67-74 e 90-99; M 75-84 e 100-106; G 85-94 e 107-115; GG 95-104 e 116-124; G1 105-114 e 125-134. A página da Calcinha Biquíni Cotton Up não mostrava tabela em centímetros, só as letras do P ao G1.",
-          "Meça o sob busto e o busto antes de escolher e compare com a coluna da peça, não com o número que você usa em outra marca. Se ficar entre duas faixas, a loja indica a menor para mais firmeza e a maior para mais conforto."
+          "As calcinhas SkinUp têm um guia só, em centímetros de cintura e quadril: P 67-74 e 90-99; M 75-84 e 100-106; G 85-94 e 107-115; GG 95-104 e 116-124; G1 105-114 e 125-134. A Calcinha Biquíni Cotton Up tem guia próprio: P 78-86 e 88-94; M 84-92 e 94-100; G 90-98 e 100-106; GG 94-104 e 106-112; G1 100-110 e 112-120.",
+          "Meça o sob busto e o busto antes de escolher e compare com a coluna da peça, não com o número que você usa em outra marca. Nas páginas do Top Segunda Pele, do Clássico e dos tops Cotton Up, a loja sugere o menor entre dois tamanhos para mais firmeza e o maior para mais liberdade e conforto; a do Alça Fina não traz essa dica. Se as duas medidas apontarem letras diferentes, confirme a indicação com a marca. As tabelas de todas as linhas estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."
         ],
         "images": [
           {
@@ -175001,7 +175005,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a diferença entre SkinUp e Cotton Up? A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura; segundo a loja, os tops são de poliamida e elastano e as calcinhas variam por modelo (celulose regenerada e elastano na Biquíni e na Cós Alto; tecido e forro nas Fio Dental). A Cotton Up é a linha de algodão, sem corte a laser, mais barata e em preto, branco e cinza.",
+          "Qual a diferença entre SkinUp e Cotton Up? A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura; segundo a loja, os tops são de poliamida e elastano e as calcinhas variam por modelo (celulose regenerada e elastano na Biquíni e na Cós Alto; tecido e forro nas Fio Dental). A Cotton Up é a linha de algodão, mais barata e em preto, branco e cinza; as páginas dela não citam corte a laser.",
           "Tem SkinUp em PP? Só o Sutiã Top Alça Fina, no PP (34-36). O Top Segunda Pele, o Clássico e as calcinhas começam no P.",
           "O top Cotton Up tem sustentação? Segundo as páginas do Top Faixa e do Top Triangular, a sustentação é leve, com bojo removível; a própria loja diz que não é alta sustentação.",
           "SkinUp é segunda pele de verdade? É como a loja descreve a linha: corte a laser, acabamento ultrafino e sem costura, para sumir na roupa.",
@@ -197661,6 +197665,1529 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "kit-toda-up-quando-compensa"
+      }
+    ]
+  },
+  {
+    "locale": "pt",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "8 de novembro de 2026",
+    "publishedAtISO": "2026-11-08",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "id": 861,
+    "slug": "calcinha-insider-qual-escolher",
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links e pelo cupom. Não vestimos as calcinhas; testamos o desconto no carrinho.",
+    "title": "Calcinha Insider: Brief, Minimal, String, Safe, Cover ou NakedFeel, qual escolher?",
+    "seoTitle": "Calcinha Insider: qual modelo escolher?",
+    "description": "Compare Minimal e String, as Brief, NakedFeel, Cover e Safe por cobertura, acabamento e medidas. Veja os preços com cupom e quando o kit sai por menos.",
+    "metaDescription": "EMCASACOMCECILIA dá 15% OFF na Insider. Calcinha Brief, Minimal, String, Safe, Cover ou NakedFeel: cobertura, tecido, tamanho e preço.",
+    "image": "/images/reviews/insider/calcinha-insider-qual-escolher-capa.webp",
+    "imageAlt": "Calcinha Minimal Corte a Laser marrom e Calcinha Cover Corte a Laser lilás em duas fotos, com logo da Insider e título na faixa",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Compare Minimal e String para menor cobertura, Brief e NakedFeel para a intermediária, e Cover e Safe para laterais mais largas ou cintura alta. Para roupa justa, a loja indica a maioria dos modelos e chama a Minimal Corte a Laser de a opção mais invisível. O EMCASACOMCECILIA deu 15% OFF nas opções testadas; confira medidas e acabamento nos quadros."
+        ]
+      },
+      {
+        "heading": "As oito lado a lado",
+        "paragraphs": [
+          "A coluna de cobertura é leitura nossa, feita com a altura e a lateral do guia de medidas e com as palavras de cada página. A loja não publica esse ranking."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas e teste de carrinho em 08/11/2026.",
+          "headers": [
+            "Calcinha",
+            "Cobertura",
+            "Linha",
+            "Tamanhos",
+            "Preço da página",
+            "Com o cupom, no carrinho"
+          ],
+          "rows": [
+            [
+              "[Fio Minimal](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Menor",
+              "Comum",
+              "PP a XGG",
+              "R$ 35 a R$ 65",
+              "R$ 29,75 na opção de R$ 35"
+            ],
+            [
+              "[Tanga String](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-string?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Menor, com tiras laterais",
+              "Comum",
+              "PP a XGG",
+              "R$ 39 a R$ 65",
+              "R$ 33,15 na opção de R$ 39"
+            ],
+            [
+              "[Fio Minimal Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Menor",
+              "Corte a laser",
+              "P a GG",
+              "R$ 19 a R$ 39",
+              "R$ 16,15 na opção de R$ 19; R$ 33,15 na de R$ 39"
+            ],
+            [
+              "[Biquíni Brief](https://creators.insiderstore.com.br/yqQ53TN)",
+              "Média",
+              "Comum",
+              "PP a XGG",
+              "R$ 41,40 a R$ 75",
+              "R$ 35,19 na opção de R$ 41,40"
+            ],
+            [
+              "[Brief Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Média",
+              "Corte a laser",
+              "PP a XGG",
+              "R$ 35 a R$ 39",
+              "R$ 29,75 na opção de R$ 35"
+            ],
+            [
+              "[Biquíni NakedFeel](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-biquini-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Média, com lateral fina",
+              "NakedFeel",
+              "PP a XGG",
+              "R$ 59",
+              "R$ 50,15"
+            ],
+            [
+              "[Caleçon Cover Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Maior",
+              "Corte a laser",
+              "P a XGG",
+              "R$ 39 a R$ 45",
+              "R$ 33,15 na opção de R$ 39"
+            ],
+            [
+              "[Hot Pant Safe](https://creators.insiderstore.com.br/qxLZKJc)",
+              "A maior",
+              "Comum",
+              "PP a XGG",
+              "R$ 39 a R$ 79",
+              "R$ 33,15 na opção de R$ 39"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O preço muda com a cor e o tamanho, e testamos a opção mais barata de cada uma. Na Minimal Corte a Laser, os R$ 19 eram da cor Faded Beige; as outras cores custavam R$ 35 ou R$ 39.",
+          "Essa mesma peça tem uma segunda página na loja, em que os R$ 29 e os R$ 39 seguiram sem desconto no carrinho. O link do quadro leva à página em que o cupom entrou. Os preços podem mudar durante a [Black Friday da Insider para mulheres](/reviews/black-friday-insider-feminino)."
+        ]
+      },
+      {
+        "heading": "Menor cobertura: Minimal e String",
+        "paragraphs": [
+          "A Fio Minimal é a menor da linha comum: no M, tem 19 cm de altura e 4 cm de lateral. A loja a descreve \"para quem quer uma calcinha menor mas não menos confortável\". A página também a indica para roupas justas, vestidos e tecidos finos, e publica nota 4,9 em 520 avaliações.",
+          "A Tanga String troca a lateral por \"tiras laterais mais finas\", com o tecido NakedFeel e o interior Softouch, nas palavras da loja. No M, a altura é de 23 cm, igual à da Brief. A página a indica para vestidos, saias e calças justas e publica nota 4,9 em 220 avaliações.",
+          "A Fio Minimal Corte a Laser é um pouco mais alta que a comum: 20,5 cm no M, com 5 cm de lateral. A loja a chama de \"a opção mais invisível para usar com roupas justas e tecidos finos\" e diz que ela não enrola. A grade vai do P ao GG, então quem veste PP ou XGG fica com a comum."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal.webp",
+            "alt": "Mulher com a Calcinha Fio Minimal bege e sutiã da mesma cor",
+            "caption": "A Fio Minimal em bege. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-string.webp",
+            "alt": "Mulher com a Calcinha Tanga String branca, de tiras laterais finas, e sutiã branco",
+            "caption": "A Tanga String em branco. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-string?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal-laser.webp",
+            "alt": "Mulher com a Calcinha Fio Minimal Corte a Laser marrom e blusa justa de manga longa",
+            "caption": "A Minimal Corte a Laser em marrom. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Fio Minimal",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Para o dia a dia, quando você prefere a peça menor da linha comum.",
+              "occasion": "Dia a dia, com roupa justa, vestido ou tecido fino, pela loja."
+            },
+            {
+              "piece": "Tanga String",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-string?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Quando você gosta de tira fina na lateral, no lugar de uma lateral larga.",
+              "occasion": "Vestido, saia ou calça justa, pela loja."
+            },
+            {
+              "piece": "Fio Minimal Corte a Laser",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Sob roupa justa ou de tecido fino, como a loja indica.",
+              "occasion": "Legging, vestido de malha e calça justa."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Cobertura média: as Brief e a NakedFeel",
+        "paragraphs": [
+          "A Biquíni Brief é a mais avaliada do grupo, com nota 4,9 em 1.704 avaliações. A loja fala em \"design minimalista que não marca na pele\" e, na descrição, em peça que não marca na roupa. Ela é a mais larga das médias: 36 cm de cintura no M. Ela combina com o [sutiã Flex da Insider](/reviews/sutia-insider-qual-escolher), que a loja vende em kit com três dela.",
+          "A Brief Corte a Laser tem altura parecida, 23,5 cm no M, e é 3 cm mais estreita na cintura: 33 cm. A loja diz que \"a modelagem é a mais versátil da linha\", fala em \"cobertura moderada, conforto e invisibilidade\" e a indica para roupas justas, vestidos e tecidos finos. A nota publicada é 5,0, em 67 avaliações.",
+          "A Biquíni NakedFeel tem o maior preço de partida das oito. A loja diz que ela é \"feita pra passar despercebida\", com acabamentos selados e \"menor interferência sob a roupa\". A lateral tem 4 cm em todos os tamanhos. A peça está marcada como lançamento e tem só 8 avaliações, com nota 5,0."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-brief.webp",
+            "alt": "Mulher com a Calcinha Biquíni Brief marrom e sutiã da mesma cor",
+            "caption": "A Biquíni Brief em marrom. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://creators.insiderstore.com.br/yqQ53TN"
+          },
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-brief-laser.webp",
+            "alt": "Mulher com a Calcinha Brief Corte a Laser branca e camiseta justa cinza",
+            "caption": "A Brief Corte a Laser em branco. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-nakedfeel.webp",
+            "alt": "Mulher com a Calcinha Biquíni NakedFeel rosada e sutiã da mesma cor",
+            "caption": "A Biquíni NakedFeel. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-biquini-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Biquíni Brief",
+              "url": "https://creators.insiderstore.com.br/yqQ53TN",
+              "howTo": "Como calcinha de todo dia, com cobertura intermediária.",
+              "occasion": "Rotina e trabalho.",
+              "pairsWith": [
+                {
+                  "label": "Sutiã Flex",
+                  "url": "https://creators.insiderstore.com.br/dZEzC9B",
+                  "note": "A loja vende os dois em kit."
+                }
+              ]
+            },
+            {
+              "piece": "Brief Corte a Laser",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Por baixo de quase toda roupa do dia: a loja a chama de a mais versátil da linha.",
+              "occasion": "Calça, saia e vestido."
+            },
+            {
+              "piece": "Biquíni NakedFeel",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-biquini-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Sob a roupa, quando você quer cobertura média com lateral fina.",
+              "occasion": "Roupa em que você não quer notar a calcinha.",
+              "pairsWith": [
+                {
+                  "label": "Sutiã Decote V NakedFeel",
+                  "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-decote-v-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+                  "note": "Da mesma linha, em conjunto na loja."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Maior cobertura: Cover e Safe",
+        "paragraphs": [
+          "A Caleçon Cover Corte a Laser ganha nas laterais: \"cobertura maior e laterais mais largas\", diz a loja, com 9 cm de lateral no M. A altura segue perto da das Brief, 22,5 cm. A página diz que ela não enrola, a indica para peças mais justas ou tecidos finos e publica nota 5,0 em 34 avaliações.",
+          "A Hot Pant Safe é a mais alta: 30 cm de altura e 13,5 cm de lateral no M. A página resume como \"maior cobertura\" e publica nota 4,9 em 1.223 avaliações. Entre as duas, a pergunta é até onde você quer que a peça suba. A Safe vai mais alto na cintura.",
+          "A [Boxer](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-boxer?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), em formato de short e com elástico exposto, estava disponível só no PP na nossa consulta."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-cover.webp",
+            "alt": "Mulher com a Calcinha Cover Corte a Laser lilás, de laterais largas, e regata branca",
+            "caption": "A Cover Corte a Laser em lilás. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-safe.webp",
+            "alt": "Mulher com a Calcinha Hot Pant Safe preta, de cintura alta, e sutiã preto",
+            "caption": "A Hot Pant Safe em preto. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://creators.insiderstore.com.br/qxLZKJc"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Caleçon Cover Corte a Laser",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Quando você quer lateral larga sem que a peça suba muito na cintura.",
+              "occasion": "Rotina, com calça ou saia de cintura média."
+            },
+            {
+              "piece": "Hot Pant Safe",
+              "url": "https://creators.insiderstore.com.br/qxLZKJc",
+              "howTo": "Quando você quer a maior cobertura da linha, com a cintura mais alta.",
+              "occasion": "Calça e saia de cintura alta.",
+              "pairsWith": [
+                {
+                  "label": "Sutiã Top Lounge",
+                  "url": "https://creators.insiderstore.com.br/wb2XzkL",
+                  "note": "A loja vende os dois em kit."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Linha comum ou corte a laser: o que a loja diz",
+        "paragraphs": [
+          "A composição publicada é a mesma nas duas linhas: 87,5% de poliamida e 12,5% de elastano por fora, 88% de modal e 12% de elastano por dentro. A diferença está no acabamento e no molde. As três páginas de corte a laser falam em acabamento que elimina costuras aparentes, e a Minimal e a Cover dizem que a peça não enrola.",
+          "O preço não segue o que se esperaria: a Brief Corte a Laser parte de um valor menor que o da Brief comum. A NakedFeel foge das duas, com 75% de poliamida, 25% de elastano e forro de modal. \"Anti odor\", na linha comum, e os microfuros do fundilho, na NakedFeel, são palavras da loja."
+        ]
+      },
+      {
+        "heading": "Roupa justa ou tecido fino: o que a loja indica",
+        "paragraphs": [
+          "Roupa justa separa menos os modelos do que parece. As páginas da Fio Minimal, da String, da Brief Corte a Laser, da Minimal Corte a Laser e da Cover citam esse uso, e a da Biquíni Brief diz que ela não marca na roupa. A NakedFeel fala em menor interferência sob a roupa. A Safe é a exceção: a página só fala em não marcar a pele.",
+          "A frase mais forte é a da Minimal Corte a Laser, que a loja chama de \"a opção mais invisível para usar com roupas justas e tecidos finos\". É uma promessa, sem medida publicada."
+        ]
+      },
+      {
+        "heading": "Como escolher o tamanho e por que a troca pesa",
+        "paragraphs": [
+          "A Insider publica medidas da peça, não do corpo. Pegue uma calcinha que veste bem, estenda sem esticar e meça o cós, de uma lateral à outra, no ponto mais alto. Depois meça a altura, da linha da cintura até o fundo. Compare com o quadro.",
+          "A letra não basta: no M, a cintura vai de 33 cm (Brief Corte a Laser e NakedFeel) a 36 cm (Biquíni Brief). Outras peças estão na [tabela de medidas Insider](/reviews/tabela-de-medidas-insider)."
+        ],
+        "comparisonTable": {
+          "caption": "Largura da cintura / altura da peça, em cm, pelo Guia de medidas da Insider.",
+          "headers": [
+            "Calcinha",
+            "PP",
+            "P",
+            "M",
+            "G",
+            "GG",
+            "XGG"
+          ],
+          "rows": [
+            [
+              "Fio Minimal",
+              "30,5 / 16",
+              "32,5 / 17,5",
+              "34,5 / 19",
+              "36,5 / 20,5",
+              "38,5 / 22",
+              "40,5 / 23,5"
+            ],
+            [
+              "Tanga String",
+              "31 / 20",
+              "33 / 21,5",
+              "35 / 23",
+              "37 / 24,5",
+              "39 / 26",
+              "41 / 27,5"
+            ],
+            [
+              "Minimal Corte a Laser",
+              "Não tem",
+              "31,5 / 19",
+              "33,5 / 20,5",
+              "35,5 / 22",
+              "37,5 / 23,5",
+              "Não tem"
+            ],
+            [
+              "Biquíni Brief",
+              "33 / 20",
+              "34,5 / 21,5",
+              "36 / 23",
+              "37,5 / 24,5",
+              "39 / 26",
+              "40,5 / 27,5"
+            ],
+            [
+              "Brief Corte a Laser",
+              "29 / 20,5",
+              "31 / 22",
+              "33 / 23,5",
+              "35 / 25",
+              "37 / 26,5",
+              "40 / 28"
+            ],
+            [
+              "Biquíni NakedFeel",
+              "29 / 18,5",
+              "31 / 20",
+              "33 / 21,5",
+              "35 / 23",
+              "37 / 24,5",
+              "40 / 26"
+            ],
+            [
+              "Cover Corte a Laser",
+              "Não tem",
+              "32 / 21",
+              "34 / 22,5",
+              "36 / 24",
+              "38 / 25,5",
+              "41 / 27"
+            ],
+            [
+              "Hot Pant Safe",
+              "30 / 27",
+              "32 / 28,5",
+              "34 / 30",
+              "36 / 31,5",
+              "38 / 33",
+              "40 / 34,5"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A página mostra as chamadas gerais de troca fácil e de 21 dias para devolução, enquanto a política comercial da Insider restringe trocas e devoluções de underwear a defeito comprovado, por razões de saúde e higiene. Por isso, não trate a chamada geral como promessa de troca por tamanho.",
+          "Essa restrição comercial é diferente do direito de arrependimento na compra à distância, previsto no art. 49 do CDC, com prazo de sete dias a partir do recebimento. Confira as medidas e consulte a loja sobre o procedimento do seu pedido; as condições gerais estão em [a Insider vale a pena](/reviews/insider-vale-a-pena)."
+        ]
+      },
+      {
+        "heading": "Avulsa ou kit, com o cupom",
+        "paragraphs": [
+          "O cupom entrou em todos os kits que testamos. A coluna por peça é conta nossa, com o valor do carrinho dividido pelo número de calcinhas."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas e teste de carrinho no mesmo dia do primeiro quadro.",
+          "headers": [
+            "Kit",
+            "Preço da página",
+            "Com o cupom, no carrinho",
+            "Por peça"
+          ],
+          "rows": [
+            [
+              "[5 Minimal Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-calcinhas-fio-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 87,20",
+              "R$ 74,12",
+              "R$ 14,82"
+            ],
+            [
+              "[3 Minimal Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-calcinha-fio-minimal-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 54,08",
+              "R$ 45,97",
+              "R$ 15,32"
+            ],
+            [
+              "[5 Brief Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-calcinhas-fio-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 160,63",
+              "R$ 136,54",
+              "R$ 27,31"
+            ],
+            [
+              "[3 Minimal](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-calcinhas-minimal?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 98,70",
+              "R$ 83,90",
+              "R$ 27,97"
+            ],
+            [
+              "[3 Brief Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-calcinhas-fio-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 99,61",
+              "R$ 84,67",
+              "R$ 28,22"
+            ],
+            [
+              "[3 Safe](https://creators.insiderstore.com.br/2wmYH52)",
+              "R$ 105,30",
+              "R$ 89,51",
+              "R$ 29,84"
+            ],
+            [
+              "[5 Cover Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-calcinhas-calecon-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 179,40",
+              "R$ 152,49",
+              "R$ 30,50"
+            ],
+            [
+              "[3 Cover Corte a Laser](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-calcinhas-calecon-cover-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 110,93",
+              "R$ 94,30",
+              "R$ 31,43"
+            ],
+            [
+              "[3 String](https://creators.insiderstore.com.br/i3LhqWr)",
+              "R$ 111,00",
+              "R$ 94,35",
+              "R$ 31,45"
+            ],
+            [
+              "[5 Brief](https://creators.insiderstore.com.br/nyBqvep)",
+              "R$ 190,19",
+              "R$ 161,67",
+              "R$ 32,33"
+            ],
+            [
+              "[3 Brief](https://creators.insiderstore.com.br/x4Qv8HF)",
+              "R$ 118,20",
+              "R$ 100,47",
+              "R$ 33,49"
+            ],
+            [
+              "[3 Biquíni NakedFeel](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-calcinhas-biquini-nakedfeel%C2%AE-3-unidades?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 168,15",
+              "R$ 142,93",
+              "R$ 47,64"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O kit sai por menos que a avulsa mais barata em todos os modelos da lista, e a diferença cresce quando a cor que você quer custa mais. Na Minimal Corte a Laser, por exemplo, a avulsa de R$ 39 sai a R$ 33,15, e cada peça do kit de 3 sai a menos da metade disso.",
+          "Num kit, um erro de tamanho afeta várias peças. Por isso, eu começaria pela avulsa se ainda não conhecesse o ajuste daquele modelo e só depois compararia os kits. Confira as condições comerciais de troca e os direitos de arrependimento explicados no capítulo de tamanho; outras combinações estão em [o kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
+          "Vale um cupom por pedido; ele não se aplica à loja física. A loja declara exceção para lançamentos, mas peças marcadas como lançamento no catálogo da loja também aceitaram o código nos nossos testes, como a NakedFeel. Confira o desconto de cada peça no carrinho; as demais regras estão no [cupom Insider](/cupons/insider)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Para roupa justa, a indicação mais forte da loja é a da Minimal Corte a Laser. Para cobertura intermediária, compare as Brief e a NakedFeel; para lateral larga, a Cover; para cintura mais alta, a Safe."
+        ],
+        "emphasis": "Para uma primeira compra com cobertura intermediária, eu começaria pela Brief Corte a Laser: tem altura próxima à Brief comum, preço inicial menor na comparação e indicação da loja para roupas justas.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Calcinha Insider é boa? A escolha depende da cobertura, do acabamento e das medidas que você procura. O quadro compara essas diferenças; as avaliações da loja estão nos capítulos dos modelos.",
+          "Qual marca menos na roupa? A loja chama a Minimal Corte a Laser de a opção mais invisível para roupa justa e tecido fino, e outras páginas têm indicação parecida. É uma promessa da loja, sem medida publicada.",
+          "Posso trocar se errar o tamanho? A política comercial da Insider limita a troca e a devolução de underwear aos casos de defeito comprovado. O direito de arrependimento em compra online é outro assunto, com sete dias a partir do recebimento.",
+          "O kit compensa? Por peça, saiu mais barato que a avulsa de menor preço em todos os modelos testados. Se você ainda não conhece o ajuste, considere começar pela avulsa e confira as condições de troca no capítulo de tamanho.",
+          "O cupom vale em calcinha? O EMCASACOMCECILIA entrou nas avulsas e nos kits testados, com uma exceção: a segunda página da Minimal Corte a Laser. Confira o desconto no carrinho."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você mediu uma calcinha sua e o modelo escolhido tem cintura e altura parecidas.",
+        "Você quer peças para roupa justa: as páginas de Minimal, String, Brief Corte a Laser e Cover citam esse uso.",
+        "Você já sabe o seu tamanho em um modelo: os kits saíram mais baratos por peça."
+      ],
+      "skipIf": [
+        "Você precisa de troca comercial por tamanho para decidir: a Insider informa uma restrição específica para underwear.",
+        "Você veste PP ou XGG e quer a Minimal Corte a Laser: a grade vai do P ao GG.",
+        "Você quer a Boxer em outro tamanho: na nossa consulta, ela só estava disponível no PP."
+      ]
+    },
+    "cta": {
+      "text": "Se a Brief Corte a Laser é o seu caso, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Os links das outras calcinhas estão no quadro. Confira o desconto antes de pagar.",
+      "label": "Ver a Brief Corte a Laser com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "relatedArticles": [
+      {
+        "slug": "sutia-insider-qual-escolher"
+      },
+      {
+        "slug": "tabela-de-medidas-insider"
+      },
+      {
+        "slug": "kit-insider-quando-compensa"
+      },
+      {
+        "slug": "black-friday-insider-feminino"
+      }
+    ]
+  },
+  {
+    "locale": "pt",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "8 de novembro de 2026",
+    "publishedAtISO": "2026-11-08",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "id": 862,
+    "slug": "tamanho-toda-up-como-escolher",
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Podemos receber comissão pelos links e pelo cupom. As medidas são dos guias da Toda Up; testamos o desconto no carrinho.",
+    "title": "Como descobrir seu tamanho na Toda Up: Comfort, SkinUp, Cotton Up, silicone e Fita Up",
+    "seoTitle": "Tamanho Toda Up: como escolher em cada linha",
+    "description": "O M de uma peça não é o M da outra, e o mesmo número também muda. Veja como medir e as tabelas de sutiã, top, calcinha, silicone, protetor e Fita Up num lugar só.",
+    "metaDescription": "MAUAD dá 10% OFF na Toda Up. Como descobrir seu tamanho em Comfort, SkinUp, Cotton Up, sutiã de silicone, protetor e Fita Up.",
+    "image": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa.webp",
+    "imageAlt": "Top Segunda Pele SkinUp caramelo e modelo com a caixa da Fita Up em duas fotos, com logo da Toda Up e título na faixa",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Toda Up, a mesma letra e o mesmo número podem corresponder a faixas corporais diferentes em cada peça. Meça busto e sob busto, ou cintura e quadril, e compare os dois pontos nas tabelas abaixo. O MAUAD deu 10% OFF nas peças testadas no carrinho."
+        ]
+      },
+      {
+        "heading": "Como medir",
+        "paragraphs": [
+          "Para os sutiãs, tops e calcinhas de tecido, os guias usam medidas do corpo. Protetor e fita têm critérios próprios, explicados nas seções deles."
+        ],
+        "bullets": [
+          "Busto: a circunferência na parte mais volumosa dos seios, com a fita confortável e nivelada.",
+          "Sob busto: ao redor do corpo, logo abaixo dos seios, com a fita reta e justa, sem apertar.",
+          "Cintura: ao redor da parte mais fina do tronco, geralmente acima do umbigo.",
+          "Quadril: na parte mais larga do corpo, no centro dos glúteos."
+        ],
+        "postParagraphs": [
+          "Os guias em imagem escrevem EGG na última linha de algumas peças, onde o seletor da página escreve G1. Os números entre parênteses são os mesmos, e aqui usamos G1, que é o que você escolhe na compra."
+        ]
+      },
+      {
+        "heading": "O mesmo M, quatro medidas diferentes",
+        "paragraphs": [
+          "A Toda Up não publica uma tabela geral: cada peça traz o seu guia. O M mostra o efeito disso. Nas sete peças, ele vem com o número 40-42, e o busto começa em 84 cm no Clássico e em 92 cm no Alça Fina."
+        ],
+        "comparisonTable": {
+          "caption": "Medidas em cm, pelos guias da Toda Up lidos em 08/11/2026.",
+          "headers": [
+            "Peça",
+            "Sob busto no M",
+            "Busto no M"
+          ],
+          "rows": [
+            [
+              "[Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "79-87",
+              "91-98"
+            ],
+            [
+              "[Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "79-87",
+              "91-98"
+            ],
+            [
+              "[Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "75-81",
+              "84-91"
+            ],
+            [
+              "[Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "79-87",
+              "91-98"
+            ],
+            [
+              "[Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "75-82",
+              "92-99"
+            ],
+            [
+              "[Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "75-81",
+              "84-91"
+            ],
+            [
+              "[Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Top Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) Cotton Up",
+              "79-84",
+              "86-92"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O número ao lado da letra também não resolve. O 50-52 é o G2 no Comfort Up, com busto de 117 a 126 cm, e o G1 nos tops Cotton Up, com busto de 98 a 104 cm. Compare sempre os centímetros."
+        ]
+      },
+      {
+        "heading": "Seu busto em cada peça",
+        "paragraphs": [
+          "Esta tabela é a conta que a loja não publica: pegamos seis medidas de busto e procuramos a letra em cada guia. Ela olha só o busto, então confira também o sob busto na tabela da linha. Onde aparecem duas letras, a medida cai nas duas faixas."
+        ],
+        "comparisonTable": {
+          "caption": "Leitura nossa dos guias da Toda Up. \"Fora da tabela\" quer dizer que a medida não está no guia daquela peça.",
+          "headers": [
+            "Busto",
+            "Comfort Up",
+            "Comfort Slim",
+            "Comfort Line",
+            "Top Segunda Pele",
+            "Alça Fina",
+            "Clássico",
+            "Tops Cotton Up"
+          ],
+          "rows": [
+            [
+              "80 cm",
+              "PP",
+              "PP",
+              "P",
+              "Fora da tabela",
+              "PP",
+              "P",
+              "Fora da tabela"
+            ],
+            [
+              "88 cm",
+              "P",
+              "P",
+              "M",
+              "P",
+              "P",
+              "M",
+              "P ou M"
+            ],
+            [
+              "96 cm",
+              "M",
+              "M",
+              "G",
+              "M",
+              "M",
+              "G",
+              "G ou GG"
+            ],
+            [
+              "104 cm",
+              "G ou GG",
+              "G ou GG",
+              "GG",
+              "G ou GG",
+              "G",
+              "GG",
+              "G1"
+            ],
+            [
+              "112 cm",
+              "G1",
+              "Fora da tabela",
+              "G1",
+              "G1",
+              "GG",
+              "G1",
+              "Fora da tabela"
+            ],
+            [
+              "120 cm",
+              "G2",
+              "Fora da tabela",
+              "Fora da tabela",
+              "Fora da tabela",
+              "Fora da tabela",
+              "Fora da tabela",
+              "Fora da tabela"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Comfort Up, Line e Slim",
+        "paragraphs": [
+          "O [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e o [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) usam a mesma tabela até o GG, e só o Up segue até o G3. O [Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) tem tabela própria, com busto menor na mesma letra, e a loja avisa isso no guia dele."
+        ],
+        "comparisonTable": {
+          "caption": "Sob busto / busto, em cm, pelos guias da Toda Up.",
+          "headers": [
+            "Tamanho",
+            "Comfort Up",
+            "Comfort Slim",
+            "Comfort Line"
+          ],
+          "rows": [
+            [
+              "PP (34-36)",
+              "70-76 / 79-86",
+              "70-76 / 79-86",
+              "Não tem"
+            ],
+            [
+              "P (38-40)",
+              "74-81 / 85-92",
+              "74-81 / 85-92",
+              "70-74 / 76-83"
+            ],
+            [
+              "M (40-42)",
+              "79-87 / 91-98",
+              "79-87 / 91-98",
+              "75-81 / 84-91"
+            ],
+            [
+              "G (42-44)",
+              "84-92 / 97-105",
+              "84-92 / 97-105",
+              "77-83 / 92-99"
+            ],
+            [
+              "GG (44-46)",
+              "89-97 / 103-111",
+              "89-97 / 103-111",
+              "84-92 / 100-107"
+            ],
+            [
+              "G1",
+              "93-103 / 110-119 (46-50)",
+              "Não tem",
+              "93-101 / 108-115 (46-48)"
+            ],
+            [
+              "G2 (50-52)",
+              "100-109 / 117-126",
+              "Não tem",
+              "Não tem"
+            ],
+            [
+              "G3 (54-56)",
+              "106-115 / 124-133",
+              "Não tem",
+              "Não tem"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A diferença entre os três modelos está em [sutiã Toda Up: qual escolher](/reviews/sutia-toda-up-qual-escolher)."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-sutia-comfort-line.webp",
+          "alt": "Sutiã Comfort Line rosa, sem alças, vestido por uma modelo, em foto oficial da Toda Up",
+          "caption": "O Comfort Line tem tabela própria. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
+      },
+      {
+        "heading": "SkinUp: a mesma letra, três medidas",
+        "paragraphs": [
+          "Os três tops da linha têm guias diferentes. O [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) segue os números do Comfort Up até o GG; o [Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), os do Comfort Line. O [Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é o único com PP e para no GG. No M, ele pede quase o mesmo sob busto do Clássico, com um busto 8 cm maior."
+        ],
+        "comparisonTable": {
+          "caption": "Sob busto / busto, em cm, pelos guias da Toda Up.",
+          "headers": [
+            "Tamanho",
+            "Top Segunda Pele",
+            "Alça Fina",
+            "Clássico"
+          ],
+          "rows": [
+            [
+              "PP (34-36)",
+              "Não tem",
+              "62-70 / 76-83",
+              "Não tem"
+            ],
+            [
+              "P (38-40)",
+              "74-81 / 85-92",
+              "69-77 / 84-91",
+              "70-74 / 76-83"
+            ],
+            [
+              "M (40-42)",
+              "79-87 / 91-98",
+              "75-82 / 92-99",
+              "75-81 / 84-91"
+            ],
+            [
+              "G (42-44)",
+              "84-92 / 97-105",
+              "80-88 / 100-107",
+              "77-83 / 92-99"
+            ],
+            [
+              "GG (44-46)",
+              "89-97 / 103-111",
+              "86-93 / 108-115",
+              "84-92 / 100-107"
+            ],
+            [
+              "G1 (46-48)",
+              "94-102 / 109-117",
+              "Não tem",
+              "93-101 / 108-115"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para comparar as peças, veja [SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+          "alt": "Top Segunda Pele SkinUp caramelo, em foto oficial da Toda Up",
+          "caption": "O Top Segunda Pele SkinUp. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
+      },
+      {
+        "heading": "Cotton Up: outra numeração",
+        "paragraphs": [
+          "O [Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e o [Top Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) dividem um guia, e os números ao lado da letra são outros: o P é 36-38, e o G1 chega a 50-52. Pelos centímetros, as faixas de busto são mais curtas e terminam em 104 cm. As faixas vizinhas se cruzam, então uma medida de 88 cm cai no P e no M."
+        ],
+        "comparisonTable": {
+          "caption": "Medidas em cm, pelo guia dos Tops Cotton Up.",
+          "headers": [
+            "Tamanho",
+            "Sob busto",
+            "Busto"
+          ],
+          "rows": [
+            [
+              "P (36-38)",
+              "75-80",
+              "82-88"
+            ],
+            [
+              "M (40-42)",
+              "79-84",
+              "86-92"
+            ],
+            [
+              "G (44-46)",
+              "83-88",
+              "90-96"
+            ],
+            [
+              "GG (46-48)",
+              "87-92",
+              "94-100"
+            ],
+            [
+              "G1 (50-52)",
+              "91-96",
+              "98-104"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa.webp",
+          "alt": "Top Faixa Cotton Up preto, com alças finas, em foto oficial da Toda Up",
+          "caption": "O Top Faixa Cotton Up. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
+      },
+      {
+        "heading": "Calcinhas: compare cintura e quadril em cada linha",
+        "paragraphs": [
+          "As [calcinhas SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e a [Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vão do P ao G1, com guias diferentes. O P da Cotton Up pede cintura bem maior que o da SkinUp, e o quadril da Cotton Up é mais estreito em todas as letras."
+        ],
+        "comparisonTable": {
+          "caption": "Cintura / quadril, em cm, pelos guias da Toda Up.",
+          "headers": [
+            "Tamanho",
+            "Calcinhas SkinUp",
+            "Calcinha Biquíni Cotton Up"
+          ],
+          "rows": [
+            [
+              "P",
+              "67-74 / 90-99",
+              "78-86 / 88-94"
+            ],
+            [
+              "M",
+              "75-84 / 100-106",
+              "84-92 / 94-100"
+            ],
+            [
+              "G",
+              "85-94 / 107-115",
+              "90-98 / 100-106"
+            ],
+            [
+              "GG",
+              "95-104 / 116-124",
+              "94-104 / 106-112"
+            ],
+            [
+              "G1",
+              "105-114 / 125-134",
+              "100-110 / 112-120"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sua cintura e seu quadril podem cair em letras diferentes. Com 80 cm de cintura e 96 cm de quadril, por exemplo, a SkinUp dá M na cintura e P no quadril. Os guias das calcinhas não dizem qual das duas medidas manda; nesse caso, confirme com a marca."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
+          "alt": "Calcinha Biquíni Cotton Up nas três cores, cinza, preto e branco, vestidas uma sobre a outra, em foto oficial da Toda Up",
+          "caption": "A Calcinha Biquíni Cotton Up, nas três cores. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
+      },
+      {
+        "heading": "Sutiã de Silicone e Protetor",
+        "paragraphs": [
+          "O Sutiã de Silicone Invisível tem três tamanhos, com número e busto. O 44 aparece no M e no G, e o busto de 95 cm está nos dois; nesses casos, vale perguntar à loja. O Protetor segue o número do sutiã, e o tamanho é o diâmetro da peça. O 46 e o 50 aparecem em duas faixas."
+        ],
+        "comparisonTable": {
+          "caption": "Pelos guias do Sutiã de Silicone Invisível e do Protetor de Silicone Ultrafino.",
+          "headers": [
+            "Peça",
+            "Tamanho",
+            "Número do sutiã",
+            "Medida"
+          ],
+          "rows": [
+            [
+              "[Sutiã de Silicone](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "P",
+              "38-40",
+              "Busto de 80 a 90 cm"
+            ],
+            [
+              "[Sutiã de Silicone](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "M",
+              "42-44",
+              "Busto de 85 a 95 cm"
+            ],
+            [
+              "[Sutiã de Silicone](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G",
+              "44-48",
+              "Busto de 95 a 110 cm"
+            ],
+            [
+              "[Protetor](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "P",
+              "34-46",
+              "Diâmetro de 8 cm"
+            ],
+            [
+              "[Protetor](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "M",
+              "46-50",
+              "Diâmetro de 10 cm"
+            ],
+            [
+              "[Protetor](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G",
+              "50-54",
+              "Diâmetro de 12 cm"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O uso de cada um está em [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar) e em [protetor de silicone: como usar](/reviews/protetor-de-silicone-mamilo-como-usar)."
+        ]
+      },
+      {
+        "heading": "Fita Up e plus size",
+        "paragraphs": [
+          "A Fita Up não tem medida de corpo. O guia da página fala em largura e até que tamanho ela sustenta: P até o 44, M até o 48 e G até o 54. Outro trecho da mesma página diz \"até o 52 com segurança\". Se o 53 ou o 54 for o seu caso, confirme com a loja. O passo a passo está em [Fita Up: como usar](/reviews/fita-up-como-usar).",
+          "Nas páginas que lemos, a Toda Up não usa o termo plus size. O quadro mostra até onde vai cada peça."
+        ],
+        "comparisonTable": {
+          "caption": "Último tamanho de cada peça, pelos guias e pelas páginas da Toda Up.",
+          "headers": [
+            "Peça",
+            "Último tamanho",
+            "Até onde vai"
+          ],
+          "rows": [
+            [
+              "[Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G3 (54-56)",
+              "Busto de 133 cm"
+            ],
+            [
+              "[Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G",
+              "Tamanho 54 no guia; 52 em outro trecho"
+            ],
+            [
+              "[Protetor de Silicone](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G (12 cm)",
+              "Sutiã 54"
+            ],
+            [
+              "[Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Top Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) Cotton Up",
+              "G1 (50-52)",
+              "Busto de 104 cm"
+            ],
+            [
+              "[Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G1 (46-48)",
+              "Busto de 117 cm"
+            ],
+            [
+              "[Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G1 (46-48)",
+              "Busto de 115 cm"
+            ],
+            [
+              "[Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G1 (46-48)",
+              "Busto de 115 cm"
+            ],
+            [
+              "[Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "GG (44-46)",
+              "Busto de 115 cm"
+            ],
+            [
+              "[Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "GG (44-46)",
+              "Busto de 111 cm"
+            ],
+            [
+              "[Sutiã de Silicone](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G (44-48)",
+              "Busto de 110 cm"
+            ],
+            [
+              "Calcinhas SkinUp: [Biquíni](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), [Fio Dental](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G1",
+              "Quadril de 134 cm"
+            ],
+            [
+              "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "G1",
+              "Quadril de 120 cm"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
+          "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
+          "caption": "Na Fita Up, você escolhe a largura. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
+      },
+      {
+        "heading": "Entre dois tamanhos, e se errar",
+        "paragraphs": [
+          "As páginas dos sutiãs Comfort, do Top Segunda Pele, do Clássico e dos tops Cotton Up sugerem o menor entre dois tamanhos para mais firmeza e o maior para mais liberdade e conforto. O Alça Fina, as calcinhas, o silicone, o protetor e a fita não trazem essa dica. Ela também não resolve o caso em que busto e sob busto apontam letras diferentes; nessa situação, confirme o tamanho com a marca.",
+          "Pela política da Toda Up, a troca por modelo, tamanho ou cor vale por 30 dias corridos depois do recebimento. A primeira troca tem frete grátis, e a segunda fica por conta da cliente. A peça precisa voltar sem sinais de uso, com as etiquetas, sem indícios de lavagem e sem odor, e a solicitação passa por análise. O texto que lemos não separa as calcinhas dessa regra. A devolução por arrependimento tem o mesmo prazo de 30 dias, maior que os 7 dias da lei.",
+          "A política exclui da troca por preferência os produtos com adesivo íntimo violado, quando aplicável. Confira as condições antes de remover etiquetas ou proteções; a própria loja preserva os direitos de arrependimento e de defeito previstos em lei."
+        ]
+      },
+      {
+        "heading": "O cupom em qualquer tamanho",
+        "paragraphs": [
+          "Nas peças que testamos no carrinho, o MAUAD deu 10% de desconto, incluindo Comfort, SkinUp, Cotton Up, fita, silicone e protetor. Na opção de uma unidade, o preço não muda de um tamanho para outro nessas páginas, então subir de letra não encarece a compra. As regras estão no [cupom Toda Up](/cupons/toda-up)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Como saber meu tamanho na Toda Up? Meça o busto e o sob busto, ou a cintura e o quadril, e confira o guia da peça que você quer. Cada linha tem o seu.",
+          "O M é igual em todas as linhas? Não. O busto do M começa em 84 cm no Clássico e no Comfort Line, em 86 cm nos tops Cotton Up, em 91 cm no Comfort Up e em 92 cm no Alça Fina.",
+          "Toda Up tem plus size? Nos guias reunidos aqui, o Comfort Up chega ao G3 (54-56). A Fita Up tem uma divergência entre 52 e 54 na própria página; veja o capítulo da Fita Up antes de escolher.",
+          "Qual o tamanho da Fita Up? A largura P sustenta até o 44, a M até o 48 e a G até o 54, pelo guia da página. Outro trecho da mesma página fala em segurança até o 52.",
+          "Posso trocar se errar? Pela política da loja, a troca por preferência vale por até 30 dias do recebimento, com a peça sem uso e com etiquetas, sujeita à análise da solicitação. Adesivo íntimo violado, quando aplicável, não é aceito na troca por preferência."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se as suas medidas apontaram para o Comfort Up, veja a peça pelo link da parceria com MAUAD, de 10% OFF. As outras peças têm seus links no quadro de tamanhos. Confira o desconto no carrinho antes de pagar.",
+      "label": "Ver o Comfort Up com o cupom",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "relatedArticles": [
+      {
+        "slug": "sutia-toda-up-qual-escolher"
+      },
+      {
+        "slug": "skinup-ou-cotton-up-toda-up"
+      },
+      {
+        "slug": "fita-up-como-usar"
+      },
+      {
+        "slug": "sutia-de-silicone-invisivel-como-usar"
+      }
+    ]
+  },
+  {
+    "locale": "pt",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "8 de novembro de 2026",
+    "publishedAtISO": "2026-11-08",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "id": 863,
+    "slug": "skinup-marca-na-roupa",
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Podemos receber comissão pelos links e pelo cupom. Não testamos as peças sob a roupa; testamos o desconto no carrinho.",
+    "title": "SkinUp marca na roupa? O que muda entre Top, Clássico, calcinhas e Cotton Up",
+    "seoTitle": "SkinUp marca na roupa? Top, Clássico e calcinhas",
+    "description": "Compare o que a Toda Up promete para SkinUp e Cotton Up, o acabamento e o bojo de cada peça, e o que conferir na roupa antes de escolher.",
+    "metaDescription": "MAUAD dá 10% OFF na Toda Up. SkinUp marca na roupa? O que a loja promete no Top, no Clássico e nas calcinhas, e a diferença para o Cotton Up.",
+    "image": "/images/reviews/toda-up/skinup-marca-na-roupa-capa.webp",
+    "imageAlt": "Duas modelos com o Top Segunda Pele SkinUp e o Sutiã Clássico SkinUp preto, em duas fotos, com logo da Toda Up e título na faixa",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Toda Up promete que a SkinUp não marca, mas não testamos esse resultado sob a roupa. Compare acabamento, bojo e contraste de cor nas peças abaixo. No Cotton Up, Top Faixa e Calcinha Biquíni também têm promessas próprias; o MAUAD deu 10% OFF no carrinho."
+        ]
+      },
+      {
+        "heading": "Peça por peça",
+        "paragraphs": [
+          "As frases abaixo são das páginas da loja, nos textos e nas perguntas frequentes de cada produto. São promessas, não resultado de teste."
+        ],
+        "comparisonTable": {
+          "caption": "Textos das páginas da Toda Up lidos em 08/11/2026.",
+          "headers": [
+            "Peça",
+            "Acabamento",
+            "Bojo",
+            "O que a loja diz sobre marcar"
+          ],
+          "rows": [
+            [
+              "[Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Corte a laser, sem costuras",
+              "Removível",
+              "\"Sem marcar ou criar vincos\""
+            ],
+            [
+              "[Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Corte a laser, sem costura",
+              "Removível",
+              "\"Nem na camiseta branca, nem no vestido justo\""
+            ],
+            [
+              "[Sutiã Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Corte a laser, ultrafino",
+              "Fixo",
+              "\"Nem na camiseta branca, nem no vestido justo\""
+            ],
+            [
+              "[Calcinhas Fio Dental](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Corte a laser, sem costura",
+              "Não se aplica",
+              "\"Na legging, na calça clara e no vestido de tecido leve\""
+            ],
+            [
+              "[Calcinhas Biquíni](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Corte a laser, sem costuras",
+              "Não se aplica",
+              "\"Sem marcar ou criar vincos\""
+            ],
+            [
+              "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "A página não cita laser nem costura",
+              "Removível",
+              "\"O design é mais clean e o tecido maleável ajuda a não marcar\""
+            ],
+            [
+              "[Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "A página não cita laser nem costura",
+              "Removível",
+              "Não achamos resposta sobre marcar"
+            ],
+            [
+              "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "A página não cita laser nem costura",
+              "Não se aplica",
+              "\"Não. A modelagem e o tecido foram pensados para um caimento confortável e discreto\""
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Top Segunda Pele e Alça Fina: bojo removível",
+        "paragraphs": [
+          "O Top Segunda Pele é o mais direto: \"não aperta, não marca e não limita seus movimentos\". A loja o indica para lazer, casa, roupa casual e esportiva, com sustentação leve. Um comentário publicado na página diz que ele \"não marca na roupa mesmo sendo mais colada\". É opinião de quem comprou.",
+          "O Alça Fina vai mais longe nas palavras. A loja fala em \"invisível em 360°\" e diz que ele não cria dobrinha nas costas sob blusa colada. A alça fina e regulável, ainda segundo a página, some debaixo da alcinha da roupa. A peça é nova e tinha 11 avaliações na leitura.",
+          "As duas têm bojo removível, e as páginas não dizem em qual versão vale a promessa. Leitura nossa: com ou sem o bojo, muda o que fica entre o corpo e a roupa, então vale provar das duas formas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+            "alt": "Top Segunda Pele SkinUp caramelo, de alça larga e decote redondo, em foto oficial da Toda Up",
+            "caption": "O Top Segunda Pele, de alça larga. Foto: Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+            "alt": "Sutiã Top Alça Fina SkinUp preto, com alças finas e decote em U, em foto oficial da Toda Up",
+            "caption": "O Sutiã Top Alça Fina. Foto: Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Top Segunda Pele SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sob camiseta ou roupa de malha, como top fixo sem fecho. A alça é larga e pede roupa que cubra o ombro.",
+              "occasion": "Casa, lazer e roupa esportiva."
+            },
+            {
+              "piece": "Sutiã Top Alça Fina SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sob regata ou blusa de alcinha, com a alça regulada para ficar debaixo da alça da roupa.",
+              "occasion": "Regata, blusa colada e vestido de alça fina."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Clássico: bojo fixo e push-up",
+        "paragraphs": [
+          "O Clássico é o de promessa mais ampla: o acabamento é \"tão fino que a peça desaparece sob qualquer roupa\", e a página diz que nem roupa justa ou clara mostra o contorno. Ao mesmo tempo, o bojo fixo leve é o que dá o efeito push-up, sem aro.",
+          "Leitura nossa: esconder o contorno da peça e obter efeito push-up são objetivos diferentes. O bojo fixo muda o desenho do colo; confira se é isso que você procura. Nas cores Preto e Caramelo, compare o contraste com a sua pele e com a roupa por cima."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-classico-bojo.webp",
+          "alt": "Detalhe do bojo do Sutiã Clássico SkinUp caramelo, vestido, em foto oficial da loja",
+          "caption": "O bojo fixo leve do Clássico, de perto. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Sutiã Clássico SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "No lugar do sutiã com aro, com as alças e o fecho ajustados. O bojo fixo dá o efeito push-up, segundo a loja.",
+              "occasion": "Trabalho e dia a dia com blusa de decote."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Calcinhas SkinUp: o corte a laser",
+        "paragraphs": [
+          "Nas quatro calcinhas, a explicação é a mesma: o corte a laser dispensa a costura. As Fio Dental são as mais específicas, com legging, calça clara e vestido de tecido leve citados na página, além de \"sumir sob qualquer tecido\". As Biquíni e Cós Alto ficam em \"sem marcar ou criar vincos\".",
+          "A Fio Dental tinha 308 avaliações na leitura. Entre os comentários que aparecem na página, nenhum tratava de marcar na roupa. As outras promessas das páginas, como as do forro, ficam fora deste texto."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
+          "alt": "Calcinha Biquíni SkinUp caramelo, sem costura, vestida e vista de costas, em foto oficial da Toda Up",
+          "caption": "A Calcinha Biquíni SkinUp. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Calcinha Fio Dental SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sob roupa justa, quando você prefere a menor cobertura da linha.",
+              "occasion": "Legging, calça clara e vestido de tecido leve."
+            },
+            {
+              "piece": "Calcinha Biquíni SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sob a roupa do dia a dia, com mais cobertura que a Fio Dental.",
+              "occasion": "Calça e vestido de malha."
+            },
+            {
+              "piece": "Calcinha Cós Alto SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Por baixo de calça de cós alto ou vestido, com a cintura da peça alinhada à roupa.",
+              "occasion": "Calça de cós alto, saia e vestido."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Cotton Up: outra explicação",
+        "paragraphs": [
+          "No Cotton Up, o Top Faixa e a Calcinha Biquíni também prometem não marcar. O top atribui a promessa ao tecido maleável; a calcinha fala em modelagem e caimento discreto. As páginas consultadas não explicam isso por corte a laser.",
+          "A linha é de algodão e tem Preto, Branco e Cinza. Na página do Top Triangular, não achamos resposta sobre marcar. Para decidir entre as duas linhas por tecido, alça e sustentação, veja [SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa.webp",
+          "alt": "Top Faixa Cotton Up preto, com alças finas, em foto oficial da Toda Up",
+          "caption": "O Top Faixa Cotton Up. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Top Faixa Cotton Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Como top de algodão para o dia a dia, com as alças reguladas e o bojo dentro ou fora.",
+              "occasion": "Casa, dias quentes e roupa larga."
+            },
+            {
+              "piece": "Calcinha Biquíni Cotton Up",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Como calcinha de algodão do dia a dia, em branco, preto ou cinza.",
+              "occasion": "Casa e rotina."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "A roupa por cima: tecido fino, justo ou claro",
+        "paragraphs": [
+          "Este capítulo é leitura nossa, sem medição. A promessa da loja fala de costura e contorno, mas o que aparece também depende do que você veste por cima."
+        ],
+        "bullets": [
+          "Roupa clara: confira o contraste da peça com a sua pele e com a roupa. As opções citadas nas páginas incluem Baunilha no Top, no Alça Fina e nas Fio Dental, e Creme nas Biquíni e Cós Alto; o nome da cor, sozinho, não garante invisibilidade.",
+          "Tecido fino: quanto menos corpo tem a roupa, mais ela mostra o que há embaixo, inclusive o bojo.",
+          "Roupa justa: é onde a costura costuma pesar, e é o caso em que a loja mais insiste na proposta da SkinUp.",
+          "Decote e costas abertos: aqui a dúvida é outra, porque a peça pode ficar à vista. Veja [o que usar em decote profundo e costas abertas](/reviews/sutia-para-decote-profundo-costas-abertas)."
+        ],
+        "postParagraphs": [
+          "Antes de remover etiquetas ou proteções, confira as medidas e como a peça fica com a roupa escolhida. A Toda Up informa troca por preferência em até 30 dias corridos do recebimento, sujeita à conservação da peça e à análise da solicitação."
+        ]
+      },
+      {
+        "heading": "Preço com o cupom",
+        "paragraphs": [
+          "Testamos o MAUAD no carrinho em todas as peças do quadro, na opção de uma unidade, e os 10% entraram."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas e teste de carrinho no mesmo dia do primeiro quadro.",
+          "headers": [
+            "Peça",
+            "Preço da página",
+            "Com o cupom, no carrinho"
+          ],
+          "rows": [
+            [
+              "[Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 169,90 (de R$ 179,90)",
+              "R$ 152,91"
+            ],
+            [
+              "[Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 179,90 (de R$ 199,90)",
+              "R$ 161,91"
+            ],
+            [
+              "[Sutiã Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 208,90 (de R$ 219,90)",
+              "R$ 188,01"
+            ],
+            [
+              "[Calcinhas Fio Dental](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 49,90 (de R$ 59,90)",
+              "R$ 44,91"
+            ],
+            [
+              "[Calcinhas Biquíni](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 44,91 (de R$ 59,90)",
+              "R$ 40,42"
+            ],
+            [
+              "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 132,90 (de R$ 189,90)",
+              "R$ 119,61"
+            ],
+            [
+              "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "R$ 39,90 (de R$ 59,90)",
+              "R$ 35,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A comparação completa está em [SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up), e a opinião sobre a marca, em [a Toda Up é boa](/reviews/toda-up-e-boa). O tamanho muda de peça para peça, e as tabelas estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher). As regras do desconto estão no [cupom Toda Up](/cupons/toda-up)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "SkinUp marca na roupa? A Toda Up promete que não, atribuindo isso ao corte a laser e ao acabamento. O quadro inicial mostra as afirmações de cada peça.",
+          "SkinUp fica invisível em roupa branca? A loja cita camiseta branca nas páginas do Clássico e do Alça Fina. Confira também o contraste da peça com a sua pele e com o tecido; este guia não demonstra invisibilidade na sua roupa.",
+          "Qual marca menos: SkinUp ou Cotton Up? A loja não compara. A SkinUp é explicada pelo corte a laser sem costura; o Top Faixa Cotton Up, pelo tecido maleável, com a promessa de que ele \"ajuda a não marcar\".",
+          "A calcinha SkinUp tem costura? A loja diz que não: o corte a laser dispensa a costura nas quatro calcinhas da linha.",
+          "SkinUp é bom? Depende do uso. Para roupa justa, é a linha em que a loja concentra essa proposta. Compare tecido e sustentação com o Cotton Up antes de escolher."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer a linha em que a loja concentra a proposta de não marcar sob roupa justa.",
+        "Você aceita conferir em casa, com a roupa que vai usar, antes de cortar as etiquetas.",
+        "Você quer efeito push-up sem aro e aceita as duas cores do Clássico."
+      ],
+      "skipIf": [
+        "Você quer retirar o bojo do Clássico: nesse modelo ele é fixo.",
+        "Você procura outras cores no Clássico além de Preto e Caramelo.",
+        "Você prefere algodão: a proposta da SkinUp é outra, e o Cotton Up é a linha de algodão da loja."
+      ]
+    },
+    "cta": {
+      "text": "Se o Top Segunda Pele é o seu caso, entre pelo link da parceria: o cupom MAUAD, de 10% OFF, já vai para o carrinho. Os links das outras peças estão nos quadros. Confira o desconto antes de pagar.",
+      "label": "Ver o Top Segunda Pele com o cupom",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "relatedArticles": [
+      {
+        "slug": "skinup-ou-cotton-up-toda-up"
+      },
+      {
+        "slug": "tamanho-toda-up-como-escolher"
+      },
+      {
+        "slug": "sutia-para-decote-profundo-costas-abertas"
+      },
+      {
+        "slug": "toda-up-e-boa"
       }
     ]
   }

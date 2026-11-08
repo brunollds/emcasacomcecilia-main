@@ -70015,6 +70015,420 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-brief-laser.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-brief-laser.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18728,
+      "sha256": "cd50285f7f6b076fe07b97a7d0829eb6867c36b57d918334531ff3d61cbd63a9",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-brief-laser.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-brief-laser.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 196,
+          "column": 19,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-brief-laser.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 197866,
+          "column": 21,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-brief-laser.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cd50285f7f6b076fe07b97a7d0829eb6867c36b57d918334531ff3d61cbd63a9/calcinha-insider-qual-escolher-brief-laser.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cd50285f7f6b076fe07b97a7d0829eb6867c36b57d918334531ff3d61cbd63a9/calcinha-insider-qual-escolher-brief-laser.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:29:59.822Z",
+      "verification_etag_or_digest": "cd50285f7f6b076fe07b97a7d0829eb6867c36b57d918334531ff3d61cbd63a9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-brief.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-brief.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15852,
+      "sha256": "8cc92c0eb3048ad80ec14de8033284f3f54f249f452b6f3723b4181ce7d62076",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-brief.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-brief.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 189,
+          "column": 19,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-brief.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 197859,
+          "column": 21,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-brief.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8cc92c0eb3048ad80ec14de8033284f3f54f249f452b6f3723b4181ce7d62076/calcinha-insider-qual-escolher-brief.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8cc92c0eb3048ad80ec14de8033284f3f54f249f452b6f3723b4181ce7d62076/calcinha-insider-qual-escolher-brief.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:00.050Z",
+      "verification_etag_or_digest": "8cc92c0eb3048ad80ec14de8033284f3f54f249f452b6f3723b4181ce7d62076",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55316,
+      "sha256": "8cfbd7affd686cc68a42edf4a343737c76363a549b5025e76a09a29857a3dd8b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-capa.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 197700,
+          "column": 15,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8cfbd7affd686cc68a42edf4a343737c76363a549b5025e76a09a29857a3dd8b/calcinha-insider-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8cfbd7affd686cc68a42edf4a343737c76363a549b5025e76a09a29857a3dd8b/calcinha-insider-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:01.811Z",
+      "verification_etag_or_digest": "8cfbd7affd686cc68a42edf4a343737c76363a549b5025e76a09a29857a3dd8b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-cover.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-cover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19572,
+      "sha256": "a0be00f22a2203724b9af585a967489ded3edf3275a1456731eafc73a2342e38",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-cover.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-cover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 257,
+          "column": 19,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-cover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 197927,
+          "column": 21,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-cover.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a0be00f22a2203724b9af585a967489ded3edf3275a1456731eafc73a2342e38/calcinha-insider-qual-escolher-cover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a0be00f22a2203724b9af585a967489ded3edf3275a1456731eafc73a2342e38/calcinha-insider-qual-escolher-cover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:00.316Z",
+      "verification_etag_or_digest": "a0be00f22a2203724b9af585a967489ded3edf3275a1456731eafc73a2342e38",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-minimal-laser.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal-laser.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20602,
+      "sha256": "958c6b042f04ccac118787d943a2cbe4c2b20046105254decb4dd7c201c780ea",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-minimal-laser.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-minimal-laser.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 149,
+          "column": 19,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal-laser.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 197819,
+          "column": 21,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal-laser.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/958c6b042f04ccac118787d943a2cbe4c2b20046105254decb4dd7c201c780ea/calcinha-insider-qual-escolher-minimal-laser.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/958c6b042f04ccac118787d943a2cbe4c2b20046105254decb4dd7c201c780ea/calcinha-insider-qual-escolher-minimal-laser.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:00.596Z",
+      "verification_etag_or_digest": "958c6b042f04ccac118787d943a2cbe4c2b20046105254decb4dd7c201c780ea",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-minimal.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22930,
+      "sha256": "d2c378140b6383302cc581629c2b53d111db9f6dda8ae8448db2177858dae01f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-minimal.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-minimal.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 197805,
+          "column": 21,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-minimal.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d2c378140b6383302cc581629c2b53d111db9f6dda8ae8448db2177858dae01f/calcinha-insider-qual-escolher-minimal.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d2c378140b6383302cc581629c2b53d111db9f6dda8ae8448db2177858dae01f/calcinha-insider-qual-escolher-minimal.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:00.826Z",
+      "verification_etag_or_digest": "d2c378140b6383302cc581629c2b53d111db9f6dda8ae8448db2177858dae01f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-nakedfeel.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-nakedfeel.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21544,
+      "sha256": "9cc53185e3991c41dfd70012fa0de49275271c4e54c84c4074ffbc45f715e5cc",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-nakedfeel.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-nakedfeel.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 203,
+          "column": 19,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-nakedfeel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 197873,
+          "column": 21,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-nakedfeel.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9cc53185e3991c41dfd70012fa0de49275271c4e54c84c4074ffbc45f715e5cc/calcinha-insider-qual-escolher-nakedfeel.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9cc53185e3991c41dfd70012fa0de49275271c4e54c84c4074ffbc45f715e5cc/calcinha-insider-qual-escolher-nakedfeel.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:01.087Z",
+      "verification_etag_or_digest": "9cc53185e3991c41dfd70012fa0de49275271c4e54c84c4074ffbc45f715e5cc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-safe.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-safe.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14608,
+      "sha256": "ee52e8d555f5a57028a5993662c49e4cd8a3148cfb8ef8db6258986eae27265f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-safe.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-safe.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 264,
+          "column": 19,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-safe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 197934,
+          "column": 21,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-safe.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ee52e8d555f5a57028a5993662c49e4cd8a3148cfb8ef8db6258986eae27265f/calcinha-insider-qual-escolher-safe.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ee52e8d555f5a57028a5993662c49e4cd8a3148cfb8ef8db6258986eae27265f/calcinha-insider-qual-escolher-safe.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:01.313Z",
+      "verification_etag_or_digest": "ee52e8d555f5a57028a5993662c49e4cd8a3148cfb8ef8db6258986eae27265f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-string.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-string.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23332,
+      "sha256": "a61a126784b63b4592b19ca396923c05055b8631b4a60a78382c657635a9b716",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-string.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-string.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 142,
+          "column": 19,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-string.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 197812,
+          "column": 21,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-string.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a61a126784b63b4592b19ca396923c05055b8631b4a60a78382c657635a9b716/calcinha-insider-qual-escolher-string.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a61a126784b63b4592b19ca396923c05055b8631b4a60a78382c657635a9b716/calcinha-insider-qual-escolher-string.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:01.554Z",
+      "verification_etag_or_digest": "a61a126784b63b4592b19ca396923c05055b8631b4a60a78382c657635a9b716",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/camisa-social-insider-feminina-capa.webp",
       "local_url": "/images/reviews/insider/camisa-social-insider-feminina-capa.webp",
       "media_kind": "image",
@@ -109957,6 +110371,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/skinup-marca-na-roupa-capa.webp",
+      "local_url": "/images/reviews/toda-up/skinup-marca-na-roupa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73674,
+      "sha256": "c5c788c457879501476f8f3aac8704d4c847bf9f4f0ebada1904b445c1abeb1c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-marca-na-roupa-capa.webp",
+      "storage_filename": "skinup-marca-na-roupa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-marca-na-roupa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-marca-na-roupa.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/skinup-marca-na-roupa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 198868,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/skinup-marca-na-roupa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c5c788c457879501476f8f3aac8704d4c847bf9f4f0ebada1904b445c1abeb1c/skinup-marca-na-roupa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c5c788c457879501476f8f3aac8704d4c847bf9f4f0ebada1904b445c1abeb1c/skinup-marca-na-roupa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:02.375Z",
+      "verification_etag_or_digest": "c5c788c457879501476f8f3aac8704d4c847bf9f4f0ebada1904b445c1abeb1c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
       "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-cotton.webp",
       "media_kind": "image",
@@ -111254,6 +111714,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T19:41:30.139Z",
       "verification_etag_or_digest": "9eb478f24707acafe3d61c64aee33d4035f9ba861ff062def37e071dd04d5cc5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa.webp",
+      "local_url": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84944,
+      "sha256": "22b9fd1ffdb2d028171c1e039e6325c5d62d0cb721375978f351de6dd07e7283",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tamanho-toda-up-como-escolher-capa.webp",
+      "storage_filename": "tamanho-toda-up-como-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tamanho-toda-up-como-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tamanho-toda-up-como-escolher.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 198252,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/22b9fd1ffdb2d028171c1e039e6325c5d62d0cb721375978f351de6dd07e7283/tamanho-toda-up-como-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/22b9fd1ffdb2d028171c1e039e6325c5d62d0cb721375978f351de6dd07e7283/tamanho-toda-up-como-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T20:30:02.086Z",
+      "verification_etag_or_digest": "22b9fd1ffdb2d028171c1e039e6325c5d62d0cb721375978f351de6dd07e7283",
       "verification_status": "verified"
     },
     {

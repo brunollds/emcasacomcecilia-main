@@ -94,30 +94,34 @@
     {
       "heading": "Qual tamanho: P, M ou G",
       "paragraphs": [
-        "O tamanho segue o número do sutiã, pela tabela da marca:"
+        "O tamanho segue o número do sutiã e o busto, pela tabela da marca:"
       ],
       "comparisonTable": {
         "headers": [
           "Tamanho",
-          "Número do sutiã"
+          "Número do sutiã",
+          "Circunferência do busto"
         ],
         "rows": [
           [
             "P",
-            "38 a 40"
+            "38 a 40",
+            "80 a 90 cm"
           ],
           [
             "M",
-            "42 a 44"
+            "42 a 44",
+            "85 a 95 cm"
           ],
           [
             "G",
-            "44 a 48"
+            "44 a 48",
+            "95 a 110 cm"
           ]
         ]
       },
       "postParagraphs": [
-        "O número 44 aparece em M e G. Se for o seu caso, confirme com a Toda Up qual tamanho ela indica antes de comprar."
+        "O número 44 aparece em M e G, e o busto de 95 cm também. Se for o seu caso, confirme com a Toda Up qual tamanho ela indica antes de comprar. As outras peças da marca estão em [como descobrir seu tamanho na Toda Up](/reviews/tamanho-toda-up-como-escolher)."
       ]
     },
     {

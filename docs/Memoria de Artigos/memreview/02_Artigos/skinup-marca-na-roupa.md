@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 70
@@ -85,3 +85,12 @@ Separar o que a loja promete de cada peça, o que muda com o bojo fixo ou remov�
 ## 7. Pontuação
 
 Dor 21/25, demanda 7/20 (sem sugestão), valor além do oficial 14/20, visita 10/15, cluster 10/10, conversão 8/10. Total 70.
+
+## 8. O que mudou na redação
+
+Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i14-f13-f14/PARECER.md`) aplicada depois de conferir os fatos, em 08/11/2026.
+
+- Cotton Up: o briefing dizia que a linha não promete nada sobre marcar. O Top Faixa e a Calcinha Biquíni respondem "Não" no FAQ, com outro argumento. O Top Triangular não responde, na leitura de 08/11.
+- Sem teste e sem veredito, por decisão do Bruno. "Não testamos" na resposta rápida e na nota, como pede o briefing. O acréscimo com o short da Cecília segue na seção 4 da Fila.
+- Cor, contorno e bojo ficam separados: nome da cor não garante invisibilidade.
+- Card de estilo nos quatro capítulos de peça, em `scripts/styling-required.json`.

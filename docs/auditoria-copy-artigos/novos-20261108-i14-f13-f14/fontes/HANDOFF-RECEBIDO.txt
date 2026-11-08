@@ -1,0 +1,72 @@
+ Os três artigos estão prontos para a revisão externa, com capas e fotos. Nada foi commitado nem enviado ao CDN; o texto
+  está aplicado só no worktree. Passaram validate:content, test:styling-required, test:review-i18n, test:article-d2,
+  test:site-search, test:internal-links e test:store-banners. Typecheck, ESLint e build ainda não rodaram, e o texto
+  ficou fora do Fable.
+
+  Para o revisor
+
+  Pasta:
+  C:\Users\Bruno\AppData\Local\Temp\claude\1cdf5ff0121f1534\84b844de-f311-49ba-a28b-5b438270d4ed\scratchpad\i14\entrega
+
+  ┌───────┬─────────────────────────────────────────────────┬───────────────────────────────────────────────────────┐
+  │ Artig │      Texto (.md; o .json tem o mesmo nome)      │                         Capa                          │
+  │   o   │                                                 │                                                       │
+  ├───────┼─────────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ I14   │ ...\i14\entrega\calcinha-insider-qual-escolher. │ ...\i14\entrega\calcinha-insider-qual-escolher-capa.w │
+  │       │ md                                              │ ebp                                                   │
+  ├───────┼─────────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ F13   │ ...\i14\entrega\tamanho-toda-up-como-escolher.m │ ...\i14\entrega\tamanho-toda-up-como-escolher-capa.we │
+  │       │ d                                               │ bp                                                    │
+  ├───────┼─────────────────────────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ F14   │ ...\i14\entrega\skinup-marca-na-roupa.md        │ ...\i14\entrega\skinup-marca-na-roupa-capa.webp       │
+  └───────┴─────────────────────────────────────────────────┴───────────────────────────────────────────────────────┘
+
+  Na mesma pasta estão:
+  - fotos-do-corpo: as 8 fotos novas do I14; F13 e F14 reaproveitam fotos que já estão no site;
+  - correcoes-nos-5-guias.diff.txt: as mudanças nos guias no ar;
+  - as duas tabelas do Cotton Up, em imagem, para conferir os números.
+
+  O que a leitura mudou em relação aos briefings
+
+  - F14, Cotton Up: o briefing dizia que a linha não promete nada sobre marcar, mas as páginas prometem. O Top Faixa
+    responde "Não" e diz que o tecido "ajuda a não marcar"; a calcinha fala em caimento "discreto". O Top Triangular não
+    responde. A diferença para a SkinUp virou o argumento: essas páginas não citam corte a laser nem costura.
+  - F13, guia no ar errado: skinup-ou-cotton-up-toda-up dizia que o Cotton Up não tem tabela em centímetros, e agora tem.
+    Corrigi o guia.
+  - F13, achado novo: além da letra, o número também engana. O 50-52 tem busto de 117 a 126 cm no Comfort Up e de 98 a
+    104 cm no Cotton Up.
+  - I14, Minimal Corte a Laser: a loja tem duas páginas da mesma peça. O cupom entra numa (R$ 19 → R$ 16,15) e não entra
+    na outra (R$ 29 e R$ 39 sem desconto). O link leva à primeira, e o texto avisa da segunda.
+  - I14, Boxer: ficou em uma linha, porque só havia PP na consulta.
+  - Preços: todos os da tabela foram testados no carrinho, nos três artigos. Os kits têm a conta por peça, marcada como
+    nossa.
+
+  Mudanças nos cinco guias
+
+  - Todos: receberam o link de volta para o F13.
+  - sutia-de-silicone-invisivel-como-usar: ganhou a coluna de busto, que a tabela da loja traz.
+  - protetor-de-silicone-mamilo-como-usar: o tamanho agora segue o seletor da página (P, M, G).
+  - skinup-ou-cotton-up-toda-up: além da tabela, reescrevi um card que dizia que a Calcinha Cotton "não é a peça pensada
+    para roupa colada", porque a loja diz o contrário.
+
+  Avisos para o revisor
+
+  - F14: "não testamos" aparece fora da nota por pedido do briefing, como exceção à C5. O artigo não traz veredito, e o
+    capítulo "A roupa por cima" é leitura nossa, marcada como tal.
+  - F13: não tem card nem Leve/Passe, porque é guia de medidas e o esqueleto não pede.
+  - I14 e F14: têm cards nos capítulos de peça e já entraram em scripts/styling-required.json.
+  - Veredito: só o I14 tem, com outra abertura: "Para uma primeira compra, eu começaria pela Brief Corte a Laser,
+    porque…".
+
+  Para você decidir
+
+  - Capas: aprova as três? Evitei close de busto e, no I14, usei fotos em que a modelo está de blusa, por causa do
+    Discover. Mesmo assim, a do I14 mostra calcinha vestida, e esse é o maior risco das três no Discover. A troca seria
+    por outra foto da loja, porque não há foto só do produto entre as que baixei.
+
+  Depois do parecer
+
+  Aplico as correções, envio a mídia e abro o PR, junto com a Fila e as notas do vault. O deploy continua dependendo do
+  seu GO. A partir das 21h de hoje, nenhum build passa enquanto a EARLYBF26 estiver ativa, então o deploy depois desse
+  horário depende de você trocar a oferta. Se a publicação passar para outra semana, releio os preços antes, porque a
+  Black Friday está no ar.

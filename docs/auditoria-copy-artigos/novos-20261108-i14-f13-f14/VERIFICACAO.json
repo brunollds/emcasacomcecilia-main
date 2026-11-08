@@ -1,0 +1,54 @@
+{
+  "assinatura": {
+    "nome": "Farol",
+    "agente": "/root",
+    "papel": "Revisor externo da redação de Claude",
+    "modelo": "Codex baseado em GPT-6; variante não exposta",
+    "data": "2026-11-08T17:16:01-03:00"
+  },
+  "fontes_preservadas": 21,
+  "capas_abertas": 3,
+  "fotos_novas_abertas": 8,
+  "tabelas_cotton_em_imagem_conferidas": 2,
+  "celulas_matriz_busto_conferidas": 42,
+  "kits_conta_por_peca_conferidos": 12,
+  "artigos": [
+    {
+      "slug": "calcinha-insider-qual-escolher",
+      "grupos": 6,
+      "operacoes": 11,
+      "resposta_rapida_palavras": 53,
+      "resposta_rapida_frases": 3,
+      "description_caracteres": 151,
+      "before_confere": true,
+      "sem_sobreposicao": true,
+      "precos_preservados": true
+    },
+    {
+      "slug": "tamanho-toda-up-como-escolher",
+      "grupos": 7,
+      "operacoes": 7,
+      "resposta_rapida_palavras": 46,
+      "resposta_rapida_frases": 3,
+      "description_caracteres": 162,
+      "before_confere": true,
+      "sem_sobreposicao": true,
+      "precos_preservados": true
+    },
+    {
+      "slug": "skinup-marca-na-roupa",
+      "grupos": 8,
+      "operacoes": 13,
+      "resposta_rapida_palavras": 46,
+      "resposta_rapida_frases": 3,
+      "description_caracteres": 137,
+      "before_confere": true,
+      "sem_sobreposicao": true,
+      "precos_preservados": true
+    }
+  ],
+  "limite": "Projeção em memória e consistência documental. Sem edição de artigos, Jobs ou gates; sem render do site, CDN, PR, build, carrinho ou deploy.",
+  "fontes_e_copias_identicas": true,
+  "links_locais_parecer_conferidos": true,
+  "ajuste_adjacente_base_conferida": true
+}
