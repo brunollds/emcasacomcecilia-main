@@ -77,19 +77,19 @@
         "Damie — Reputação e solução: selo Boa, nota geral 7,9/10, 83,1% de solução e 70,2% de intenção de voltar a fazer negócio"
       ],
       "postParagraphs": [
-        "Como todo indicador de Reclame Aqui, esse número muda com o tempo: vale conferir o painel atualizado direto no site antes de tirar qualquer conclusão. As capturas de tela abaixo são de uma consulta anterior, com números mais antigos que os do texto (na consulta de agosto, a Sofá na Caixa tinha 6.766 reclamações e a Damie, 258)."
+        "Como todo indicador de Reclame Aqui, esse número muda com o tempo: vale conferir o painel atualizado direto no site antes de tirar qualquer conclusão. As capturas de tela abaixo são de agosto e mostram números mais antigos que os do texto: nelas, a Sofá na Caixa tinha 6.766 reclamações e a Damie, 258."
       ],
       "images": [
         {
           "src": "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
-          "alt": "Painel do Reclame Aqui da Sofá na Caixa em uma consulta anterior",
-          "caption": "Painel da Sofá na Caixa no Reclame Aqui numa consulta anterior: os números do texto são os mais recentes.",
+          "alt": "Painel do Reclame Aqui da Sofá na Caixa com números mais antigos",
+          "caption": "Painel da Sofá na Caixa no Reclame Aqui com números anteriores: os do texto são os mais recentes.",
           "objectFit": "portrait"
         },
         {
           "src": "/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
-          "alt": "Painel do Reclame Aqui da Damie em uma consulta anterior",
-          "caption": "Painel da Damie no Reclame Aqui numa consulta anterior: os números do texto são os mais recentes.",
+          "alt": "Painel do Reclame Aqui da Damie com números mais antigos",
+          "caption": "Painel da Damie no Reclame Aqui com números anteriores: os do texto são os mais recentes.",
           "objectFit": "portrait"
         }
       ],
@@ -133,7 +133,7 @@
       "heading": "Procon-SP: comparação de registros no painel \"Empresas Reclamadas\"",
       "paragraphs": [
         "Transparência comercial: o Em Casa com Cecília mantém parceria de afiliado com a marca Damie e pode receber comissão em compras originadas pelo site, sem custo extra para o leitor. A comparação abaixo é só um retrato de volume, não uma prova de qualidade.",
-        "No painel \"Empresas Reclamadas\" do Procon-SP, na consulta anterior feita para este artigo, a Sofá na Caixa somava 1.125 queixas e a Damie, 6. O período e o filtro dessa consulta não foram registrados, e volume absoluto não é taxa de falhas por pedido: uma empresa que vende muito mais tende a receber mais queixas.",
+        "No painel \"Empresas Reclamadas\" do Procon-SP, a Sofá na Caixa somava 1.125 queixas e a Damie, 6, em números anteriores aos de hoje. As capturas não mostram o período nem o filtro, e volume absoluto não é taxa de falhas por pedido: uma empresa que vende muito mais tende a receber mais queixas.",
         "A pesquisa \"Empresas Reclamadas\" quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista \"Evite Estes Sites\", que é uma consulta administrativa separada."
       ],
       "bullets": [
@@ -144,13 +144,13 @@
         {
           "src": "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
           "alt": "Painel Empresas Reclamadas do Procon-SP para Sofá na Caixa, com 1.125 registros",
-          "caption": "Painel Empresas Reclamadas do Procon-SP: Sofá na Caixa com 1.125 registros, em consulta anterior.",
+          "caption": "Painel Empresas Reclamadas do Procon-SP: Sofá na Caixa com 1.125 registros, em números anteriores.",
           "objectFit": "contain"
         },
         {
           "src": "/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp",
           "alt": "Painel Empresas Reclamadas do Procon-SP para Damie, com 6 registros",
-          "caption": "Painel Empresas Reclamadas do Procon-SP: Damie com 6 registros, em consulta anterior.",
+          "caption": "Painel Empresas Reclamadas do Procon-SP: Damie com 6 registros, em números anteriores.",
           "objectFit": "contain"
         }
       ],

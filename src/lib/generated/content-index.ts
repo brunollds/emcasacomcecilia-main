@@ -36193,7 +36193,7 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom Magalu da Cecília está ativo?",
         "paragraphs": [
           "Em 1º de outubro de 2026, as dez faixas do cupom Magalu estavam ativas, de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Os códigos valem para produtos vendidos e entregues pelo Magalu, com uso exclusivo na loja Magazine Você da Cecília pelo navegador.",
-          "Prova real: em uma checagem anterior, eu testei o 50EMCASACOMCECILIA em um carrinho de R$ 2.999 e o desconto de R$ 50 apareceu no resumo do pedido — o print está no passo 4 deste guia.",
+          "Prova real: o 50EMCASACOMCECILIA num carrinho de R$ 2.999 tirou R$ 50 no resumo do pedido; o print está no passo 4 deste guia.",
           "Se algo mudar na campanha, a página dedicada ao cupom Magalu aqui do blog é a primeira a ser atualizada.",
           "No aplicativo do Magalu, o cupom não funciona; não é bug, é a regra da campanha. O cupom só existe dentro da minha loja no Magazine Você, acessada pelo navegador."
         ],
@@ -39778,19 +39778,19 @@ export const reviewsData: unknown[] = [
           "Damie — Reputação e solução: selo Boa, nota geral 7,9/10, 83,1% de solução e 70,2% de intenção de voltar a fazer negócio"
         ],
         "postParagraphs": [
-          "Como todo indicador de Reclame Aqui, esse número muda com o tempo: vale conferir o painel atualizado direto no site antes de tirar qualquer conclusão. As capturas de tela abaixo são de uma consulta anterior, com números mais antigos que os do texto (na consulta de agosto, a Sofá na Caixa tinha 6.766 reclamações e a Damie, 258)."
+          "Como todo indicador de Reclame Aqui, esse número muda com o tempo: vale conferir o painel atualizado direto no site antes de tirar qualquer conclusão. As capturas de tela abaixo são de agosto e mostram números mais antigos que os do texto: nelas, a Sofá na Caixa tinha 6.766 reclamações e a Damie, 258."
         ],
         "images": [
           {
             "src": "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
-            "alt": "Painel do Reclame Aqui da Sofá na Caixa em uma consulta anterior",
-            "caption": "Painel da Sofá na Caixa no Reclame Aqui numa consulta anterior: os números do texto são os mais recentes.",
+            "alt": "Painel do Reclame Aqui da Sofá na Caixa com números mais antigos",
+            "caption": "Painel da Sofá na Caixa no Reclame Aqui com números anteriores: os do texto são os mais recentes.",
             "objectFit": "portrait"
           },
           {
             "src": "/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
-            "alt": "Painel do Reclame Aqui da Damie em uma consulta anterior",
-            "caption": "Painel da Damie no Reclame Aqui numa consulta anterior: os números do texto são os mais recentes.",
+            "alt": "Painel do Reclame Aqui da Damie com números mais antigos",
+            "caption": "Painel da Damie no Reclame Aqui com números anteriores: os do texto são os mais recentes.",
             "objectFit": "portrait"
           }
         ],
@@ -39834,7 +39834,7 @@ export const reviewsData: unknown[] = [
         "heading": "Procon-SP: comparação de registros no painel \"Empresas Reclamadas\"",
         "paragraphs": [
           "Transparência comercial: o Em Casa com Cecília mantém parceria de afiliado com a marca Damie e pode receber comissão em compras originadas pelo site, sem custo extra para o leitor. A comparação abaixo é só um retrato de volume, não uma prova de qualidade.",
-          "No painel \"Empresas Reclamadas\" do Procon-SP, na consulta anterior feita para este artigo, a Sofá na Caixa somava 1.125 queixas e a Damie, 6. O período e o filtro dessa consulta não foram registrados, e volume absoluto não é taxa de falhas por pedido: uma empresa que vende muito mais tende a receber mais queixas.",
+          "No painel \"Empresas Reclamadas\" do Procon-SP, a Sofá na Caixa somava 1.125 queixas e a Damie, 6, em números anteriores aos de hoje. As capturas não mostram o período nem o filtro, e volume absoluto não é taxa de falhas por pedido: uma empresa que vende muito mais tende a receber mais queixas.",
           "A pesquisa \"Empresas Reclamadas\" quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista \"Evite Estes Sites\", que é uma consulta administrativa separada."
         ],
         "bullets": [
@@ -39845,13 +39845,13 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
             "alt": "Painel Empresas Reclamadas do Procon-SP para Sofá na Caixa, com 1.125 registros",
-            "caption": "Painel Empresas Reclamadas do Procon-SP: Sofá na Caixa com 1.125 registros, em consulta anterior.",
+            "caption": "Painel Empresas Reclamadas do Procon-SP: Sofá na Caixa com 1.125 registros, em números anteriores.",
             "objectFit": "contain"
           },
           {
             "src": "/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp",
             "alt": "Painel Empresas Reclamadas do Procon-SP para Damie, com 6 registros",
-            "caption": "Painel Empresas Reclamadas do Procon-SP: Damie com 6 registros, em consulta anterior.",
+            "caption": "Painel Empresas Reclamadas do Procon-SP: Damie com 6 registros, em números anteriores.",
             "objectFit": "contain"
           }
         ],
@@ -51199,7 +51199,7 @@ export const reviewsData: unknown[] = [
     "id": 319,
     "slug": "lets-eat-it-e-confiavel",
     "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar",
-    "seoTitle": "Let's Eat It é confiável? CNPJ, troca e o que observar",
+    "seoTitle": "Let's Eat It é confiável? O que checamos antes de comprar",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -52844,7 +52844,7 @@ export const reviewsData: unknown[] = [
     "slug": "insider-store-e-confiavel",
     "bodyDatesReason": "reclame-aqui",
     "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",
-    "seoTitle": "Insider Store é confiável? CNPJ, trocas e reputação",
+    "seoTitle": "Insider Store é confiável? O que checamos antes de comprar",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -53933,7 +53933,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECILIA12 na DAMIE",
         "paragraphs": [
-          "Se a reclinável da DAMIE for a sua escolha, o cupom CECILIA12 dá 12% OFF em todo o site da marca, inclusive nas poltronas com giro e balanço. Ele vale junto com as promoções e brindes que estiverem ativos, mas não soma com outro cupom. Na data desta consulta, a DAMIE dava de brinde um carregador USB e porta-copos pretos nas poltronas reclináveis.",
+          "Se a reclinável da DAMIE for a sua escolha, o cupom CECILIA12 dá 12% OFF em todo o site da marca, inclusive nas poltronas com giro e balanço. Ele vale junto com as promoções e brindes que estiverem ativos, mas não soma com outro cupom. Em outubro, a DAMIE dava de brinde um carregador USB e porta-copos pretos nas poltronas reclináveis.",
           "Para usar, monte a poltrona no site da DAMIE, escolhendo base, revestimento e cor, e digite CECILIA12 no campo de cupom do checkout. O desconto aparece antes do pagamento."
         ],
         "links": [
@@ -53948,7 +53948,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Poltrona de amamentação precisa ter balanço? Não. O balanço ajuda a ninar e muitos bebês relaxam com ele, mas braço firme, apoio para as costas e assento na altura certa importam mais. Uma poltrona fixa bem escolhida resolve a amamentação.",
           "Poltrona de amamentação com puff ou reclinável? Com puff é mais barata e atende bem à fase de amamentação, mas o puff solto ocupa chão. A reclinável custa mais, recolhe o apoio de pés e continua útil na sala depois. Depende do orçamento, do espaço e do uso que você quer dar a ela depois.",
-          "Quanto custa uma poltrona de amamentação? Na consulta de preços, havia poltrona fixa com puff a partir de R$ 469 na Amazon, modelos com balanço e puff entre R$ 550 e R$ 1.000 no Mercado Livre e reclináveis elétricas com giro e balanço da DAMIE de R$ 4.299 a R$ 5.699.",
+          "Quanto custa uma poltrona de amamentação? Em outubro, havia poltrona fixa com puff a partir de R$ 469 na Amazon, modelos com balanço e puff entre R$ 550 e R$ 1.000 no Mercado Livre e reclináveis elétricas com giro e balanço da DAMIE de R$ 4.299 a R$ 5.699.",
           "Qual o melhor tecido para poltrona de amamentação? O mais fácil de limpar é o corino, que sai com pano úmido. Em cidade quente, o linho é mais fresco, mas mancha com mais facilidade. O ideal é escolher pelo clima e manter um paninho no braço da poltrona.",
           "Tem poltrona de amamentação para quarto pequeno? Tem. Procure modelos compactos e meça o espaço com a poltrona aberta. Com puff, conte o espaço do puff no chão; na reclinável, conte o comprimento reclinada e a folga para girar.",
           "Vale a pena comprar poltrona de amamentação usada? Pode valer, desde que você teste ao vivo: balanço ou reclinação sem barulho, espuma firme, tecido sem manchas e, se for elétrica, motor funcionando nas duas direções.",
@@ -54143,7 +54143,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na data da consulta, as versões 1.0 e 2.0 tinham a mesma faixa de preço. A 2.0 traz quatro melhorias, informa a marca: almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos fazem diferença na amamentação, porque guardam paninho, fralda e garrafa de água ao alcance da mão.",
+          "Em outubro, as versões 1.0 e 2.0 tinham a mesma faixa de preço, como mostra a tabela acima. A 2.0 traz quatro melhorias, informa a marca: almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos fazem diferença na amamentação, porque guardam paninho, fralda e garrafa de água ao alcance da mão.",
           "Aqui em casa, a primeira reclinável foi elétrica, em linho bege, e acompanhou toda a amamentação do Ian. Hoje temos também a 2.0 elétrica com giro e balanço, em corino caramelo. O giro foi o recurso que eu mais subestimei, e o balanço tem ajudado a acalmar as crianças.",
           "Todas as reclináveis da DAMIE têm 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. A poltrona chega em caixa e passa em portas a partir de 65 cm, informa a marca, se você levar primeiro o encosto e depois a base."
         ],
@@ -54232,7 +54232,7 @@ export const reviewsData: unknown[] = [
           "Porta-copos e porta-taças, para as sessões de filme e série."
         ],
         "postParagraphs": [
-          "Os opcionais são pagos à parte. Na data da consulta, custavam de R$ 299 a R$ 590 cada, e o porta-copos e o carregador USB vinham de brinde. Aqui em casa, a poltrona que acompanhou a amamentação do Ian continua na sala, onde ela já estava antes dele nascer."
+          "Os opcionais são pagos à parte. Em outubro, custavam de R$ 299 a R$ 590 cada, e o porta-copos e o carregador USB vinham de brinde. Aqui em casa, a poltrona que acompanhou a amamentação do Ian continua na sala, onde ela já estava antes dele nascer."
         ]
       },
       {
@@ -54263,7 +54263,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar a poltrona DAMIE com desconto",
         "paragraphs": [
-          "O cupom CECILIA12 dá 12% OFF em todo o site da DAMIE, em qualquer base e revestimento, nas versões 1.0 e 2.0. Ele vale junto com as promoções e brindes que estiverem ativos, mas não soma com outro cupom. Na data desta consulta, a DAMIE dava de brinde um carregador USB e porta-copos pretos nas poltronas reclináveis.",
+          "O cupom CECILIA12 dá 12% OFF em todo o site da DAMIE, em qualquer base e revestimento, nas versões 1.0 e 2.0. Ele vale junto com as promoções e brindes que estiverem ativos, mas não soma com outro cupom. Em outubro, a DAMIE dava de brinde um carregador USB e porta-copos pretos nas poltronas reclináveis.",
           "Para usar, monte a poltrona no site da DAMIE escolhendo a base, o revestimento e a cor, e digite CECILIA12 no campo de cupom do checkout. O desconto aparece antes do pagamento."
         ],
         "links": [
@@ -54287,8 +54287,8 @@ export const reviewsData: unknown[] = [
           "Qual a diferença entre poltrona de amamentação e reclinável? A de amamentação tem encosto fixo, braços largos e, muitas vezes, balanço e puff. A reclinável deita o encosto e sobe o apoio de pés, e pode ter base fixa ou de giro e balanço.",
           "Reclinável manual ou elétrica para amamentar? Elétrica. Com o bebê no colo, reclinar e fechar o apoio de pés pelo botão é mais fácil e mais suave do que usar uma alavanca e empurrar o apoio com as pernas.",
           "Existe poltrona de amamentação reclinável? Existe. Os marketplaces vendem poltronas de amamentação com encosto de algumas posições e puff, geralmente de reclinação manual. Elas ficam no meio do caminho, em preço e em recursos.",
-          "Qual poltrona DAMIE é melhor para amamentação? A reclinável elétrica com base de giro e balanço, que a própria marca indica para amamentação. Ela reclina até 145°, gira 180° e balança, e custava de R$ 4.299 a R$ 5.699 na consulta de preços.",
-          "DAMIE 1.0 ou 2.0? Na data da consulta, as duas tinham o mesmo preço. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés.",
+          "Qual poltrona DAMIE é melhor para amamentação? A reclinável elétrica com base de giro e balanço, que a própria marca indica para amamentação. Ela reclina até 145°, gira 180° e balança, e custava de R$ 4.299 a R$ 5.699 em outubro.",
+          "DAMIE 1.0 ou 2.0? Em outubro, as duas tinham o mesmo preço. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés.",
           "O cupom CECILIA12 vale para as poltronas reclináveis da DAMIE? Vale. O CECILIA12 dá 12% OFF em todo o site da DAMIE, em qualquer base e revestimento, e soma com as promoções e brindes ativos, mas não com outro cupom."
         ]
       }
@@ -55137,7 +55137,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pix, cashback e cupom: o que soma",
         "bullets": [
           "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
-          "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete. Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
+          "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
           "**Cashback e a sexta:** pela página do cashback, o cupom só pode ser usado a partir de 7 dias depois da compra que o gerou e vale 30 dias. Para usar o cashback na sexta da Black Friday, a compra que o gera precisa ser feita pelo menos 7 dias antes; uma compra na semana da data gera um cupom que só vale depois dela. Os termos estão na página do cashback.",
           "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
           "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tira R$ 87,34, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
@@ -55487,14 +55487,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
-          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Na simulação feita em outubro, o Pillow Top Magnum casal teve frete grátis com o CEP do centro de 12 capitais. A loja calcula prazo e frete pelo CEP, então a condição pode mudar para outro endereço ou outro pedido.",
+          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Em outubro, o Pillow Top Magnum casal teve frete grátis com o CEP do centro de 12 capitais. A loja calcula prazo e frete pelo CEP, então a condição pode mudar para outro endereço ou outro pedido.",
           "A tabela traz nossa estimativa, com um dia útil de folga, de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira. Ela não é um calendário de entrega garantida."
         ],
         "comparisonTable": {
-          "caption": "Simulação em outubro com um CEP central por capital e o Pillow Top Magnum casal. Datas estimadas por nós, com um dia útil de folga; refaça a consulta com o seu CEP e considere a aprovação do pagamento.",
+          "caption": "Prazos em outubro com um CEP central por capital e o Pillow Top Magnum casal. Datas estimadas por nós, com um dia útil de folga; confira com o seu CEP e considere a aprovação do pagamento.",
           "headers": [
             "Capital",
-            "Prazo simulado em outubro",
+            "Prazo em outubro",
             "Pagar até (estimativa, dezembro)"
           ],
           "rows": [
@@ -55545,9 +55545,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da I Wanna Sleep? A home já traz os Kits Exclusivos Black, com brindes, sem data de fim publicada. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Compare os kits com as tabelas deste guia.",
           "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
-          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 na leitura de preços, sai por R$ 1.580,04.",
+          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848, sai por R$ 1.580,04.",
           "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
-          "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
+          "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Em outubro, o Pillow Top Magnum casal teve frete grátis para o centro de 12 capitais.",
           "Tem cupom de primeira compra na I Wanna Sleep? Use o CECIEMCASA, que dá 10% OFF em todo o site, com todas as formas de pagamento.",
           "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. É nelas que se compram colchões e box. Compras feitas no site não são trocadas nas lojas.",
           "O Pillow Top Magnum fica mais barato na Black Friday? Em outubro, ele já tinha cerca de 14% de desconto, a R$ 1.848 no casal, antes do cupom e do Pix. Compare o preço da mesma versão com esse valor e confira frete e pagamento no total. Brindes e kits mudam o pacote, então o selo sozinho não mostra economia.",
@@ -75829,7 +75829,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Para guardar o registro do que foi combinado, o e-mail serve melhor: você tem o texto do pedido e a resposta da loja por escrito.",
           "Um detalhe da página de contato: ela mostra um número de WhatsApp, mas ele é de revenda, para quem quer vender os produtos, e não um canal de atendimento ao cliente. Se você precisa resolver um pedido, use o SAC, o telefone ou o e-mail acima.",
-          "As políticas (entrega, trocas e devoluções, pagamento e contato) ficam em páginas da área institucional do site. Alguns links do rodapé, como \"Trocas e Devoluções\", \"Sobre Nós\" e \"Fale Conosco\", podem não abrir a página certa. Se acontecer com você, fale com o SAC."
+          "As políticas (entrega, trocas e devoluções, pagamento e contato) ficam em páginas da área institucional do site. Alguns links do rodapé, como \"Trocas e Devoluções\", \"Sobre Nós\" e \"Fale Conosco\", não abriam a página certa. Se acontecer com você, fale com o SAC."
         ]
       },
       {
@@ -75932,7 +75932,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Na consulta de novembro, a Black Skull tinha reputação Ruim (5,9) de maio a outubro e Regular (6,8) em 12 meses no Reclame Aqui, com índice de solução de 52,6%.",
+    "description": "Em novembro de 2026, a Black Skull tinha reputação Ruim (5,9) de maio a outubro e Regular (6,8) em 12 meses no Reclame Aqui, com índice de solução de 52,6%.",
     "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. No Reclame Aqui, a reputação era Ruim de maio a outubro (nota 5,9), com solução de 52,6%.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -75961,7 +75961,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta de novembro, a Black Skull tinha reputação Ruim no Reclame Aqui de maio a outubro (nota 5,9) e Regular em 12 meses (nota 6,8). Respondeu a 95,5% das reclamações, mas o índice de solução foi de 52,6%, calculado sobre as reclamações finalizadas e avaliadas, não sobre as 88 recebidas. Para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
+          "Em novembro, a Black Skull tinha reputação Ruim no Reclame Aqui de maio a outubro (nota 5,9) e Regular em 12 meses (nota 6,8). Respondeu a 95,5% das reclamações, mas o índice de solução foi de 52,6%, calculado sobre as reclamações finalizadas e avaliadas, não sobre as 88 recebidas. Para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
         ]
       },
       {
@@ -76176,7 +76176,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Black Skull?",
         "paragraphs": [
-          "Dá, com cuidado redobrado. Na consulta de novembro, a reputação era Ruim de maio a outubro e Regular nos 12 meses. A loja respondeu à maioria, mas quase metade das reclamações não aparece como resolvida."
+          "Dá, com cuidado redobrado. Em novembro, a reputação era Ruim de maio a outubro e Regular nos 12 meses. A loja respondeu à maioria, mas quase metade das reclamações não aparece como resolvida."
         ],
         "bullets": [
           "Nota: 5,9 no recorte de maio a outubro (Ruim) e 6,8 nos 12 meses (Regular).",
@@ -76190,8 +76190,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Skull é confiável segundo o Reclame Aqui? A resposta é mista. Na consulta de novembro, o perfil mostrava reputação Ruim de maio a outubro (nota 5,9) e Regular nos 12 meses até outubro (nota 6,8). A loja respondeu a 95,5% das reclamações do período, e o índice de solução foi de 52,6%, calculado sobre as reclamações finalizadas e avaliadas.",
-          "Qual a nota da Black Skull no Reclame Aqui? Na consulta de novembro, a nota era 5,9 no recorte de maio a outubro (Ruim), 6,8 nos 12 meses até outubro (Regular) e 6,6 em 2025 (Regular). A nota média do consumidor era 5,05 no recorte de maio a outubro.",
+          "A Black Skull é confiável segundo o Reclame Aqui? A resposta é mista. Em novembro, o perfil mostrava reputação Ruim de maio a outubro (nota 5,9) e Regular nos 12 meses até outubro (nota 6,8). A loja respondeu a 95,5% das reclamações do período, e o índice de solução foi de 52,6%, calculado sobre as reclamações finalizadas e avaliadas.",
+          "Qual a nota da Black Skull no Reclame Aqui? Em novembro, a nota era 5,9 no recorte de maio a outubro (Ruim), 6,8 nos 12 meses até outubro (Regular) e 6,6 em 2025 (Regular). A nota média do consumidor era 5,05 no recorte de maio a outubro.",
           "A Black Skull responde às reclamações? Quase todas. De maio a outubro, 95,5% foram respondidas e 4 estavam aguardando resposta. O tempo médio de resposta era de 5 dias e 12 horas.",
           "O que fazer se o pedido da Black Skull não chegar? Guarde o número do pedido, fale com o SAC (0800-770 4260) ou pelo e-mail sac@blackskullusa.com e peça o protocolo. Em caso de extravio, a loja reenvia o pedido sem custo, e uma entrega que você não reconhece deve ser contestada em até 10 dias.",
           "Qual o SAC da Black Skull? O SAC é 0800-770 4260 e (11) 4189-7000, de segunda a sexta, das 8h às 18h, e o e-mail é sac@blackskullusa.com."
@@ -79603,7 +79603,7 @@ export const reviewsData: unknown[] = [
       "A troca comum tem frete de ida e de volta pago por quem comprou",
       "A loja não anuncia desconto próprio no Pix",
       "Frete grátis só acima de R$ 299,90 nas demais regiões",
-      "Não há confirmação de que o cupom soma com os itens da campanha de Black Friday"
+      "Em item da campanha de Black Friday, confira na sacola o valor abatido pelo cupom"
     ],
     "contentSections": [
       {
@@ -87784,7 +87784,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Isosource 1.5 Sem Sabor, 1 L, é o produto da Nestlé Health Science vendido na Nestlé Nutre, em caixa Tetra Square com tampa.",
           "Trophic 1.5, da Prodiet, na versão Baunilha, caixa de 1 L. O Isosource 1.0 existe só em pó, de 400 g, e o 1.5 é líquido. Por isso o 1.0 não entra aqui.",
-          "A tabela completa do Isosource é a do rótulo. Da Trophic, entram só os dados dos cartões oficiais da Prodiet, porque a tabela completa da caixa não está publicada. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve)."
+          "A tabela completa do Isosource é a do rótulo. Da Trophic, entram só os dados dos cartões oficiais da Prodiet, porque a tabela completa da caixa não aparece nas fontes da comparação. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve)."
         ]
       },
       {
@@ -87838,12 +87838,12 @@ export const reviewsData: unknown[] = [
             [
               "Osmolaridade",
               "410 mOsm/L de água",
-              "A Prodiet não informa"
+              "A Prodiet não informa nos cartões"
             ]
           ]
         },
         "postParagraphs": [
-          "A tabela completa da Trophic não está publicada. Por isso carboidratos, gorduras, sódio e potássio ficam fora da comparação, e vale a caixa que você tiver."
+          "A tabela completa da Trophic não aparece nas fontes da comparação, e o verso da caixa na foto da loja não dava para ler. Por isso carboidratos, gorduras, sódio e potássio ficam fora da comparação, e vale a caixa que você tiver."
         ],
         "image": "/images/reviews/nutren/isosource-1-5-sem-sabor-tabela-ingredientes.webp",
         "imageAlt": "Verso da caixa do Isosource 1.5 Sem Sabor com a informação nutricional por 100 ml, os ingredientes e os alérgicos",
@@ -87879,7 +87879,7 @@ export const reviewsData: unknown[] = [
           "Quem precisa de lactose zero declarada: os dois trazem \"não contém lactose\" na embalagem ou nos cartões do fabricante, e os dois têm derivados de leite.",
           "Quem precisa de fórmula com fibras, ou sem: o Isosource traz 8 g de fibras por litro; a Trophic é \"isenta de fibras\".",
           "Quem olha o preço por 1.000 kcal: a Trophic estava mais barata (R$ 19,00 contra R$ 21,67), em lojas diferentes.",
-          "Quem quer a tabela completa antes de comprar: a do Isosource está no rótulo; a da Trophic, só na caixa."
+          "Quem quer a tabela completa antes de comprar: a do Isosource está no rótulo; a da Trophic fica para a caixa."
         ]
       },
       {
@@ -118830,8 +118830,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a reputação mudou",
         "paragraphs": [
-          "Na leitura de novembro, a Skelt estava na RA1000 também na aba de 6 meses, com nota 8,4, a mesma da aba de 12 meses. Na leitura de outubro, a aba de 6 meses marcava Ótima, com nota 8,3.",
-          "A aba de 12 meses continua em RA1000, com nota 8,4. A leitura não detalha a faixa mês a mês e não traz o motivo da mudança."
+          "Em novembro, a Skelt estava na RA1000 também na aba de 6 meses, com nota 8,4, a mesma da aba de 12 meses. Em outubro, a aba de 6 meses marcava Ótima, com nota 8,3.",
+          "A aba de 12 meses continua em RA1000, com nota 8,4. O Reclame Aqui não detalha a faixa mês a mês e não traz o motivo da mudança."
         ],
         "image": {
           "src": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
@@ -118891,7 +118891,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Skelt?",
         "paragraphs": [
-          "Sim. Na leitura do perfil, a reputação era RA1000 nos últimos 6 meses, e a loja respondeu a quase todas as reclamações e resolveu a maioria. O ponto de atenção são as queixas de produto com defeito e atraso."
+          "Sim. No perfil, a reputação era RA1000 nos últimos 6 meses, e a loja respondeu a quase todas as reclamações e resolveu a maioria. O ponto de atenção são as queixas de produto com defeito e atraso."
         ],
         "bullets": [
           "Nota: 8,4 nos 6 meses e nos 12 meses (RA1000 nas duas abas).",
@@ -118905,10 +118905,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Skelt é confiável segundo o Reclame Aqui? No perfil, a leitura mostrava reputação RA1000 nos últimos 6 meses e nos 12 meses, com nota 8,4 nas duas abas. Esses números vêm só das reclamações registradas no Reclame Aqui e não avaliam a qualidade dos produtos.",
-          "Qual a nota da Skelt no Reclame Aqui? Nota 8,4 nos últimos 6 meses e nos últimos 12 meses; na aba geral, era 8,4 na leitura de outubro.",
+          "A Skelt é confiável segundo o Reclame Aqui? O perfil mostrava reputação RA1000 nos últimos 6 meses e nos 12 meses, com nota 8,4 nas duas abas. Esses números vêm só das reclamações registradas no Reclame Aqui e não avaliam a qualidade dos produtos.",
+          "Qual a nota da Skelt no Reclame Aqui? Nota 8,4 nos últimos 6 meses e nos últimos 12 meses; na aba geral, era 8,4 em outubro.",
           "A Skelt responde às reclamações? Sim. Nos últimos 6 meses, 99,7% das reclamações foram respondidas, e 91,4% foram resolvidas.",
-          "A Skelt saiu da RA1000? Na leitura de novembro, não: a aba de 6 meses estava na RA1000, com nota 8,4. Na de outubro, ela marcava Ótima, com nota 8,3. A leitura não traz o motivo, e este texto não atribui causa.",
+          "A Skelt saiu da RA1000? Em novembro, não: a aba de 6 meses estava na RA1000, com nota 8,4. Na de outubro, ela marcava Ótima, com nota 8,3. O Reclame Aqui não traz o motivo, e este texto não atribui causa.",
           "O que fazer se o pedido da Skelt tiver defeito ou não chegar? Escreva para contato@skelt.com.br ou chame no WhatsApp (41) 3042-4721, com o número do pedido e o CPF. Se for defeito, envie fotos e vídeos do produto e do lote.",
           "Quanto tempo a Skelt leva para responder no Reclame Aqui? O tempo médio de resposta era de 8 dias e 1 hora nos últimos 6 meses e de 7 dias e 11 horas nos 12 meses."
         ]
@@ -122038,7 +122038,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Ficaram fora o 3W, o Monster e o sachê da Probiótica (sem tabela nutricional), o Whey Turbo e os outros hipercalóricos, kits, combos com creatina, barras e proteína vegetal. A Max tem outras linhas de whey, como o Whey Pro, o Whey Blend e o Iso Clear; o quadro traz as que têm tabela nutricional publicada. Os refis de 900 g e de 1,8 kg da Mais Mu ficam fora do quadro: a loja não publica tabela, e o guia só fez a conta do pote de 450 g e do sachê."
+          "Ficaram fora o 3W, o Monster e o sachê da Probiótica (sem tabela nutricional na comparação), o Whey Turbo e os outros hipercalóricos, kits, combos com creatina, barras e proteína vegetal. A Max tem outras linhas de whey, como o Whey Pro, o Whey Blend e o Iso Clear; o quadro traz as que entram com tabela nutricional na comparação. Os refis de 900 g e de 1,8 kg da Mais Mu ficam fora do quadro: a loja não publica tabela, e o guia só fez a conta do pote de 450 g e do sachê."
         ]
       },
       {
@@ -128696,7 +128696,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A página não cita nenhuma loja, marketplace ou vendedor, e este guia também não.",
-          "O site brasileiro da marca não publica guia de número de série, gravação no fundo da peça ou selo de autenticidade. Quem acessa do Brasil cai no site brasileiro, então o caminho é conferir o canal de compra e guardar a nota fiscal."
+          "O site brasileiro da marca não mostra guia de número de série, gravação no fundo da peça ou selo de autenticidade. Quem acessa do Brasil cai no site brasileiro, então o caminho é conferir o canal de compra e guardar a nota fiscal."
         ],
         "image": {
           "src": "/images/reviews/letseatit/le-creuset-alerta-falsas-promocoes-2610.webp",
@@ -144272,8 +144272,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o MAX10EMCASACOMCECILIA no teto de 10%, o Refil sai por R$ 28,06 por 100 g de proteína, o Pote por R$ 30,06 e o Whey Pro por R$ 30,29. O cupom é da Max e o desconto varia por produto; este texto não traz cupom da Integralmédica. Por dose, no cartão, o Refil fica em R$ 6,55, o Pote em R$ 7,01 e o Whey Pro em R$ 5,05, porque a dose dele tem menos proteína; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg).",
-          "O Whey Pro é o pote mais barato da tabela, R$ 12,62 por 100 g de produto, mas por 100 g de proteína ele fica atrás do Refil: a dose de 40 g traz 15 g de proteína e 18 g de açúcares, diz a tabela do rótulo. O pote de 900 g da Integralmédica, sem tabela nutricional disponível, entra só pelo preço por 100 g de produto: R$ 26,67. Nos sabores chocolate e cookies and cream, a tabela da Integralmédica traz 20 g de proteína por porção: o pouch de 900 g sobe para R$ 37,83 por 100 g de proteína e o de 1,8 kg, para R$ 33,67.",
-          "Nos isolados, o [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) custava R$ 326,18, com 26 g de proteína em 30 g e 30 porções: R$ 41,82 por 100 g de proteína, ou R$ 37,64 com o cupom no teto. O Whey Protein Isolado de 900 g da Integralmédica custava R$ 483,00, R$ 53,67 por 100 g de produto contra R$ 36,24 do IsoWhey; sem a tabela dele, não há preço por 100 g de proteína. A comparação do IsoWhey com outro isolado está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+          "O Whey Pro é o pote mais barato da tabela, R$ 12,62 por 100 g de produto, mas por 100 g de proteína ele fica atrás do Refil: a dose de 40 g traz 15 g de proteína e 18 g de açúcares, diz a tabela do rótulo. O pote de 900 g da Integralmédica, sem tabela nutricional na comparação, entra só pelo preço por 100 g de produto: R$ 26,67. Nos sabores chocolate e cookies and cream, a tabela da Integralmédica traz 20 g de proteína por porção: o pouch de 900 g sobe para R$ 37,83 por 100 g de proteína e o de 1,8 kg, para R$ 33,67.",
+          "Nos isolados, o [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) custava R$ 326,18, com 26 g de proteína em 30 g e 30 porções: R$ 41,82 por 100 g de proteína, ou R$ 37,64 com o cupom no teto. O Whey Protein Isolado de 900 g da Integralmédica custava R$ 483,00, R$ 53,67 por 100 g de produto contra R$ 36,24 do IsoWhey; a tabela dele não entra na comparação, então não há preço por 100 g de proteína. A comparação do IsoWhey com outro isolado está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
         ]
       },
       {
@@ -157116,7 +157116,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Comece pelo tecido: jogo americano e guardanapo, usando os pratos e talheres que já tem. O jogo americano é anunciado por unidade; para o guardanapo, a conta assume uma peça por anúncio, conforme a descrição da página. O faqueiro vem em jogo e pede uma compra maior de uma vez. Deixe os pratos para depois se os de casa já atendem.",
-          "Os preços são do cartão."
+          "Os preços são do cartão, e todas as peças das tabelas estavam disponíveis."
         ]
       },
       {
@@ -165128,7 +165128,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das páginas de produto de 30/10/2026.",
+    "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das páginas de produto.",
     "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Mala de bordo: preço, medida, peso e litros de 7 malas, o selo BORDO e a regra da ANAC, LATAM, GOL e Azul.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
