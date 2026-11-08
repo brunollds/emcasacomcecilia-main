@@ -246,7 +246,7 @@
       "heading": "誰在寫",
       "paragraphs": [
         "Em Casa com Cecília 運行在 Hostinger 上，是一個 Node.js Web App，Bruno 自 2024 年起就是客戶，使用主機代管與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
-        "本文彙整了 Hostinger 的頁面，以及兩個專案的官方政策與文件，查閱日期為 2026年10月21日。OpenClaw 發布的兩者比較是專案方自己寫的，並在表格的來源欄標示了這個名稱。"
+        "本文彙整了 Hostinger 的頁面，以及兩個專案的官方政策與文件，內容截至 2026年10月21日。OpenClaw 發布的兩者比較是專案方自己寫的，並在表格的來源欄標示了這個名稱。"
       ]
     }
   ],

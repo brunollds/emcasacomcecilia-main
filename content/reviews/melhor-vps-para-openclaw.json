@@ -95,18 +95,18 @@
       },
       "postParagraphs": [
         "Dois detalhes do modelo local. O contexto é a quantidade de texto (tokens, pedaços de palavras) que o modelo lê de uma vez. Quando sobra menos de 20% da janela de contexto, o OpenClaw avisa, com piso de 8 mil tokens; abaixo de 10%, ele bloqueia a resposta, com piso de 4 mil tokens.",
-        "Nas páginas de plano KVM lidas, nenhuma lista placa de vídeo (GPU). A documentação também não diz qual velocidade um modelo local teria sem ela."
+        "Nas páginas de plano KVM da comparação, nenhuma lista placa de vídeo (GPU). A documentação também não diz qual velocidade um modelo local teria sem ela."
       ]
     },
     {
       "heading": "Qual plano KVM escolher",
       "paragraphs": [
-        "O plano certo segue onde o modelo roda. KVM é o nome dos servidores virtuais da Hostinger, e a tabela traz os quatro, com preços de 24 meses de 21/10/2026 e o SONAR20 já aplicado. Leia cada plano diante da documentação; é a nossa leitura dela, não uma medição:"
+        "O plano certo segue onde o modelo roda. KVM é o nome dos servidores virtuais da Hostinger, e a tabela traz os quatro, com preços de 24 meses de 21/10/2026 e o SONAR20 já aplicado. Leia cada plano diante da documentação; é uma interpretação dela, não uma medição:"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
         "alt": "Quadro com três linhas: modelo fora do servidor (chave de API ou créditos) leva ao KVM 1; modelo local pequeno leva ao KVM 2, no limite, ou ao KVM 4; modelo local com mais contexto ou outros programas leva ao KVM 4 ou ao KVM 8",
-        "caption": "Pela documentação do OpenClaw; não medimos desempenho."
+        "caption": "Pela documentação do OpenClaw; sem medição de desempenho."
       },
       "comparisonTable": {
         "headers": [

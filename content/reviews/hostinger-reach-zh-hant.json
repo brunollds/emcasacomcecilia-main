@@ -101,7 +101,7 @@
     {
       "heading": "Reach 方案",
       "paragraphs": [
-        "Reach 有三個付費方案，沒有免費版：Starter、Grow 和 Pro。在購物車裡，Grow 因為 500 位收件人的上限而顯示為「Reach 500」。下面是 2026 年 10 月 30 日在 Hostinger 國際站讀到的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異：",
+        "Reach 有三個付費方案，沒有免費版：Starter、Grow 和 Pro。在購物車裡，Grow 因為 500 位收件人的上限而顯示為「Reach 500」。下面是 2026 年 10 月 30 日在 Hostinger 國際站上顯示的美元價格，屬於黑色星期五促銷期間的價格，可能因國家和幣別而異：",
         "頁面寫明，可在 30 天內申請退款。"
       ],
       "comparisonTable": {
@@ -141,7 +141,7 @@
     {
       "heading": "Mailchimp 與 Brevo：免費版",
       "paragraphs": [
-        "兩家都有免費版，Reach 在國際站上也沒有免費版。兩家付費方案的美元價格我們沒有讀到，所以這裡不列。2026 年 10 月 30 日頁面上的免費版如下："
+        "兩家都有免費版，Reach 在國際站上也沒有免費版。兩家付費方案沒有標出美元價格，所以這裡不列。2026 年 10 月 30 日頁面上的免費版如下："
       ],
       "comparisonTable": {
         "headers": [
@@ -188,7 +188,7 @@
       "heading": "SONAR20 與 Reach 價格",
       "paragraphs": [
         "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享受**首期 20%** 的折扣。Bruno 用 Reach 500（Grow）的 24 個月方案測試過，折扣已生效。",
-        "頁面價格與購物車價格可能不同。請在購物車裡確認實際適用哪個價格，以及 SONAR20 能從中扣多少。其他方案和期間沒有測試，請在購物車確認。優惠碼的完整規則見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
+        "頁面價格與購物車價格可能不同。請在購物車裡確認實際適用哪個價格，以及 SONAR20 能從中扣多少。其他方案和期間的最終價格以購物車顯示為準。優惠碼的完整規則見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
@@ -209,7 +209,7 @@
         "Hostinger Reach 有 WhatsApp 嗎？有，只在 Pro 方案裡。頁面沒有顯示每則訊息的費用，請在後台確認。",
         "Reach 500 是什麼？它是購物車中 Grow 方案的名稱，對應 500 位收件人的上限，每月 3,500 封郵件。",
         "Hostinger Reach 還是 Mailchimp？如果收件人在 1,000 人以內，選 Reach。如果想免費開始，或名單超過 1,000 人，選 Mailchimp 或 Brevo。",
-        "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間沒有測試，請在購物車確認。",
+        "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間的最終價格以購物車顯示為準。",
         "已有 Hostinger 帳號的客戶也能用 SONAR20 嗎？符合條件的新購即使已有帳號也可以適用。網域註冊和續訂不適用。"
       ]
     },

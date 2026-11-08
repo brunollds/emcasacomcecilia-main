@@ -24,7 +24,7 @@
   "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
-  "imageAlt": "SHEIN logo and five stars filled up to the 3.8 Trustpilot score, in the reading of October 28, 2026",
+  "imageAlt": "SHEIN logo and five stars filled up to the 3.8 Trustpilot score, as of October 28, 2026",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -33,14 +33,14 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. That score came from 353,527 reviews by customers in many countries, and the themes in the negative reviews we read are packages that never arrived and refunds that were late or denied. The profile is global and does not separate countries."
+        "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. That score came from 353,527 reviews by customers in many countries, and the themes in the negative reviews are packages that never arrived and refunds that were late or denied. The profile is global and does not separate countries."
       ]
     },
     {
       "heading": "What the score measures",
       "paragraphs": [
         "The TrustScore is the profile's rating on Trustpilot. It adds up the whole purchase, not only the quality of the items. In November 2026, SHEIN had 3.8, with the label \"Great\", from 353,527 reviews; 22,625 of them were posted in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
-        "The breakdown by star, in the same reading: 59% five stars, 12% four, 6% three, 5% two and 18% one. Five and four stars make up most of the reviews."
+        "The breakdown by star: 59% five stars, 12% four, 6% three, 5% two and 18% one. Five and four stars make up most of the reviews."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
@@ -54,14 +54,14 @@
       "heading": "Three readings that change the picture",
       "paragraphs": [
         "First, the one-star share. 18% of the reviews give one star, more than the 11% of two and three stars combined, and that is where the complaints appear.",
-        "Second, replying is not resolving. SHEIN replied to 98% of negative reviews, usually within 24 hours, and the page notes that the company may use AI in its replies. The text of the replies was not read, so the numbers do not say whether they solved the problem of the person who complained.",
+        "Second, replying is not resolving. SHEIN replied to 98% of negative reviews, usually within 24 hours, and the page notes that the company may use AI in its replies. The numbers do not say whether they solved the problem of the person who complained.",
         "Third, the score is global. The profile does not split reviews by country, and shoppers with different shipping, delivery times and customs rules sit in one rating. How delivery to your country will go is not in this number."
       ]
     },
     {
       "heading": "What the complaints say",
       "paragraphs": [
-        "The negative reviews visible on the profile on October 28, 2026 were read for their themes, without counting or ranking them. They revolve around the package and the money:"
+        "The negative reviews visible on the profile on October 28, 2026 revolve around the package and the money:"
       ],
       "bullets": [
         "A package that was lost, stolen or never delivered, sometimes with a delivery photo the customer disputes.",
@@ -77,13 +77,13 @@
         "aspectRatio": 1.7778
       },
       "postParagraphs": [
-        "These are the themes in the reviews we read, not a measure of how often an order goes wrong. They say where to look: the tracking after dispatch, the proof of delivery, the return receipt and the refund request."
+        "These are the themes in the reviews, not a measure of how often an order goes wrong. They say where to look: the tracking after dispatch, the proof of delivery, the return receipt and the refund request."
       ]
     },
     {
       "heading": "What the praise says",
       "paragraphs": [
-        "The positive reviews visible in the same reading were few, so this is a small sample. Their themes are different:"
+        "The positive reviews visible on the profile were few, so this is a small sample. Their themes are different:"
       ],
       "bullets": [
         "Low prices.",
@@ -135,7 +135,7 @@
       "heading": "Can you trust SHEIN based on Trustpilot?",
       "paragraphs": [
         "Going by Trustpilot, the numbers are these: a TrustScore of 3.8, \"Great\", from 353,527 reviews, 59% of them five stars and 18% one star, with 98% of negative reviews answered, usually within 24 hours.",
-        "The caveats are about scope and theme. The profile is global and does not separate countries, so it says how the store behaves overall, not how an order to your address will go. And the negative reviews we read are about packages that never arrived and about refunds that were late or denied: the score alone does not tell you how often that happens."
+        "The caveats are about scope and theme. The profile is global and does not separate countries, so it says how the store behaves overall, not how an order to your address will go. And the negative reviews are about packages that never arrived and about refunds that were late or denied: the score alone does not tell you how often that happens."
       ]
     },
     {
@@ -152,8 +152,8 @@
       "heading": "Frequently asked questions",
       "bullets": [
         "Does SHEIN have a good score on Trustpilot? The TrustScore was 3.8, with the label \"Great\", from 353,527 reviews; 59% gave five stars and 18% gave one.",
-        "What are the most common complaints about SHEIN? In the negative reviews read, the themes were packages that were lost, stolen or never arrived, sometimes with a disputed delivery photo; refunds that were late or denied, including returns the store said it never received; slow or templated customer service; and product problems such as size, quality, the wrong item or a missing item. The themes were noted, not counted.",
-        "Does SHEIN reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use AI. The text of the replies was not read.",
+        "What are the most common complaints about SHEIN? In the negative reviews, the themes were packages that were lost, stolen or never arrived, sometimes with a disputed delivery photo; refunds that were late or denied, including returns the store said it never received; slow or templated customer service; and product problems such as size, quality, the wrong item or a missing item. These are themes, not counts.",
+        "Does SHEIN reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use AI. The numbers do not say whether the replies solved the problem.",
         "Does the Trustpilot score apply to my country? It does not provide a country-specific result. The global profile combines reviews from different countries; check delivery times and return rules for your destination on SHEIN's official site or app."
       ]
     }

@@ -96,18 +96,18 @@
       },
       "postParagraphs": [
         "Deux détails sur le modèle local. Le contexte est la quantité de texte (tokens, morceaux de mots) que le modèle lit d'un coup. Quand il reste moins de 20 % de la fenêtre de contexte, OpenClaw prévient, avec un plancher de 8 000 tokens ; sous 10 %, il bloque la réponse, avec un plancher de 4 000 tokens.",
-        "Parmi les pages de forfaits KVM lues, aucune ne mentionne de carte graphique (GPU). La documentation ne dit pas non plus quelle vitesse aurait un modèle local sans elle."
+        "Parmi les pages de forfaits KVM de la comparaison, aucune ne mentionne de carte graphique (GPU). La documentation ne dit pas non plus quelle vitesse aurait un modèle local sans elle."
       ]
     },
     {
       "heading": "Quel forfait KVM choisir",
       "paragraphs": [
-        "Le bon forfait suit l'endroit où tourne le modèle. KVM est le nom des serveurs virtuels d'Hostinger, et le tableau présente les quatre. Lisez chaque forfait à la lumière de la documentation ; c'est notre lecture, pas une mesure :"
+        "Le bon forfait suit l'endroit où tourne le modèle. KVM est le nom des serveurs virtuels d'Hostinger, et le tableau présente les quatre. Lisez chaque forfait à la lumière de la documentation ; c'est une interprétation, pas une mesure :"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
         "alt": "Tableau de trois lignes : modèle hors du serveur (clé d'API ou crédits) mène au KVM 1 ; petit modèle local mène au KVM 2, à la limite, ou au KVM 4 ; modèle local avec plus de contexte ou d'autres programmes mène au KVM 4 ou au KVM 8",
-        "caption": "D'après la documentation d'OpenClaw ; nous n'avons pas mesuré les performances."
+        "caption": "D'après la documentation d'OpenClaw ; sans mesure des performances."
       },
       "comparisonTable": {
         "headers": [

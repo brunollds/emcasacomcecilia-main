@@ -118,7 +118,7 @@
     {
       "heading": "VPS 方案：KVM 1 至 8",
       "paragraphs": [
-        "四個 KVM 方案只有規格大小不同。規格參數讀自 2026 年 10 月 28 日的 Hostinger VPS 頁面。"
+        "四個 KVM 方案只有規格大小不同。規格參數取自 2026 年 10 月 28 日的 Hostinger VPS 頁面。"
       ],
       "comparisonTable": {
         "headers": [

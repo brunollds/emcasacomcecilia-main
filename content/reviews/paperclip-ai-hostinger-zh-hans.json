@@ -78,9 +78,9 @@
         "**由谁维护。** 官方仓库 github.com/paperclipai/paperclip 写明项目由 Paperclip 团队维护，版权声明为“MIT © 2026 Paperclip Labs, Inc.”。项目网站 paperclip.ing 指向同一个仓库。不要把它与搜索中出现的分叉（fork）和代码副本混为一谈。",
         "**许可证。** MIT。意思是代码开放，任何人都可以阅读、审计和使用。也意味着没有人有义务持续维护您安装的那个版本。",
         "**在哪里运行。** 由您选择。可以在自己的电脑上、自己的服务器上，或 Hostinger 的托管套餐上运行。项目网站说明，自托管版本不需要 Paperclip 账号。",
-        "**密钥和数据放在哪里。** 取决于方式。在 VPS 上，Hostinger 自己表示敏感数据、智能体记忆和 API 凭据“完全保存在您自己的基础设施中”，也就是您租用的那台服务器里。在托管版上，页面说密钥保存在您的托管实例中。这是 Hostinger 的说法，不是我们做的审计。",
-        "**代码安全。** 仓库要求通过 GitHub 的 Security Advisory 功能报告漏洞，而不是公开的 issue。本次阅读中，我们没有核实受支持的版本、独立审计或已发布的安全公告。",
-        "**无法断言的部分。** 就本指南而言，没有经过核实的公开安全审计，也没有独立评测，更没有第三方对该产品的评分。GitHub 的 star 数量代表受欢迎程度，不代表安全。无论用哪种软件，能访问您的邮箱、银行或其他账号的智能体都值得格外小心。关于托管服务商本身，请看[Hostinger 靠谱吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+        "**密钥和数据放在哪里。** 取决于方式。在 VPS 上，Hostinger 自己表示敏感数据、智能体记忆和 API 凭据“完全保存在您自己的基础设施中”，也就是您租用的那台服务器里。在托管版上，页面说密钥保存在您的托管实例中。这是 Hostinger 的说法，不是独立审计。",
+        "**代码安全。** 仓库要求通过 GitHub 的 Security Advisory 功能报告漏洞，而不是公开的 issue。本指南所用的资料中，没有受支持的版本、独立审计或已发布的安全公告。",
+        "**无法断言的部分。** 就本指南的资料而言，没有公开的安全审计，也没有独立评测，更没有第三方对该产品的评分。GitHub 的 star 数量代表受欢迎程度，不代表安全。无论用哪种软件，能访问您的邮箱、银行或其他账号的智能体都值得格外小心。关于托管服务商本身，请看[Hostinger 靠谱吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
       ]
     },
     {
@@ -152,7 +152,7 @@
     {
       "heading": "VPS 选多大",
       "postParagraphs": [
-        "RAM 是服务器的内存，vCPU 是一个处理器核心。VPS 套餐越大，内存和处理能力越多。在已查阅的页面中，Hostinger 没有列出 Paperclip 的最低内存要求：KVM 1 是起点，够不够用取决于您运行多少个智能体。各套餐规格如下：KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）。"
+        "RAM 是服务器的内存，vCPU 是一个处理器核心。VPS 套餐越大，内存和处理能力越多。Hostinger 的页面没有列出 Paperclip 的最低内存要求：KVM 1 是起点，够不够用取决于您运行多少个智能体。各套餐规格如下：KVM 1（1 vCPU、4 GB、50 GB）、KVM 2（2 vCPU、8 GB、100 GB）、KVM 4（4 vCPU、16 GB、200 GB）、KVM 8（8 vCPU、32 GB、400 GB）。"
       ]
     },
     {
@@ -179,7 +179,7 @@
       "heading": "常见问题",
       "bullets": [
         "Paperclip 免费吗？ 程序采用 MIT 开源许可证，可以不购买 Hostinger 而安装在自己的电脑上。托管版和 VPS 需付费；模型使用您自己的 API 账户或兼容订阅，受提供商的费用和限制约束。",
-        "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。在所查阅的资料中，我们没有找到独立审计。",
+        "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。本指南的资料中没有独立审计。",
         "需要 API 密钥吗？ 大多数情况下需要。托管版可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅；VPS 则要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
         "能搭配 Ollama 使用吗？ 取决于您连接的智能体。Paperclip 的 README 没有提到 Ollama，这是一个在自己电脑上运行 AI 模型的程序。例如 OpenClaw 记录了本地模型的用法；而在 Paperclip 中，模型取决于您连接的智能体。",
         "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
@@ -189,7 +189,7 @@
     {
       "heading": "作者",
       "paragraphs": [
-        "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App，Bruno 自 2024 年起就是客户，使用托管主机和一台 VPS KVM 2。团队里没有人使用 Paperclip：本文汇总的是官方仓库和 Hostinger 的说法，阅读时间为 2026 年 10 月 21 日。"
+        "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App，Bruno 自 2024 年起就是客户，使用托管主机和一台 VPS KVM 2。团队里没有人使用 Paperclip：本文汇总的是官方仓库和 Hostinger 的说法。"
       ]
     }
   ],

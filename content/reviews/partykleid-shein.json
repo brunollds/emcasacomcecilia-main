@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Ein Partykleid bei SHEIN wählt man nach Anlass, Stoff und Ankunftsdatum. Für Weihnachten und Silvester zählt die Lieferzeit mehr als das Modell. Dazu drei Kleider im Check.",
-  "metaDescription": "SHEIN-Partykleid: Anlass, Stoff, Größe und Lieferzeit für Weihnachten und Abschlussfeier, mit drei Kleidern aus dem Shop, gelesen auf der Seite jedes Produkts.",
+  "description": "Ein Partykleid bei SHEIN wählt man nach Anlass, Stoff und Ankunftsdatum. Für Weihnachten und Silvester zählt die Lieferzeit mehr als das Modell. Dazu drei Kleider aus dem Shop.",
+  "metaDescription": "SHEIN-Partykleid: Anlass, Stoff, Größe und Lieferzeit für Weihnachten und Abschlussfeier, mit drei Kleidern aus dem Shop, von der Seite jedes Produkts.",
   "publishedAt": "30. Oktober 2026",
   "publishedAtISO": "2026-10-30",
   "updatedAt": "2026-11-07",
@@ -28,7 +28,7 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
-    "Drei Kleider mit Stoff, Futter und Bewertung, gelesen auf der Seite jedes Produkts",
+    "Drei Kleider mit Stoff, Futter und Bewertung von der Seite jedes Produkts",
     "Größentabelle in Zentimetern für jedes Teil"
   ],
   "cons": [
@@ -151,9 +151,9 @@
       ]
     },
     {
-      "heading": "Drei bei SHEIN gelesene Kleider",
+      "heading": "Drei Kleider von SHEIN",
       "paragraphs": [
-        "Stoff, Länge und Bewertung stammen von den Produktseiten, gelesen am 30.10.2026. Prüfen Sie Preis und voraussichtlichen Liefertermin auf der Artikelseite, bevor Sie bezahlen."
+        "Stoff, Länge und Bewertung stammen von den Produktseiten, Stand 30.10.2026. Prüfen Sie Preis und voraussichtlichen Liefertermin auf der Artikelseite, bevor Sie bezahlen."
       ],
       "comparisonTable": {
         "caption": "Drei SHEIN-Kleider, mit Angaben von der Seite jedes Produkts.",

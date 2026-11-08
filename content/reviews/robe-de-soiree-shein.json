@@ -16,7 +16,7 @@
     "url": "/sobre"
   },
   "description": "Une robe de soirée SHEIN se choisit selon l'occasion, le tissu et la date d'arrivée. Pour Noël et le réveillon, le délai compte plus que le modèle. Trois robes à la loupe.",
-  "metaDescription": "Robe de soirée SHEIN : occasion, tissu, taille et délai pour Noël et la remise de diplôme, avec trois robes de la boutique lues sur la page de chaque produit.",
+  "metaDescription": "Robe de soirée SHEIN : occasion, tissu, taille et délai pour Noël et la remise de diplôme, avec trois robes de la boutique, de la page de chaque produit.",
   "publishedAt": "30 octobre 2026",
   "publishedAtISO": "2026-10-30",
   "updatedAt": "2026-11-07",
@@ -28,7 +28,7 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
-    "Trois robes avec tissu, doublure et note lus sur la page de chaque produit",
+    "Trois robes avec tissu, doublure et note de la page de chaque produit",
     "Guide des tailles en centimètres pour chaque pièce"
   ],
   "cons": [
@@ -151,9 +151,9 @@
       ]
     },
     {
-      "heading": "Trois robes lues sur SHEIN",
+      "heading": "Trois robes de SHEIN",
       "paragraphs": [
-        "Le tissu, la longueur et la note viennent des pages des produits, lues le 30/10/2026. Vérifiez le prix et la date de livraison prévue sur la page de la pièce avant de payer."
+        "Le tissu, la longueur et la note viennent des pages des produits, au 30/10/2026. Vérifiez le prix et la date de livraison prévue sur la page de la pièce avant de payer."
       ],
       "comparisonTable": {
         "caption": "Trois robes SHEIN, avec les données de la page de chaque produit.",

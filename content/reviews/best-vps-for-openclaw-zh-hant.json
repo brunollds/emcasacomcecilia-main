@@ -96,18 +96,18 @@
       },
       "postParagraphs": [
         "關於本機模型還有兩點。上下文是模型一次能讀取的文字量（token，也就是詞的片段）。當上下文視窗剩下不到 20% 時，OpenClaw 會發出警告，下限為 8 千個 token；不到 10% 時，它會擋下回覆，下限為 4 千個 token。",
-        "在看過的 KVM 方案頁面中，沒有任何一頁列出顯示卡（GPU）。文件也沒有說明沒有顯示卡時，本機模型能有多快。"
+        "在比較的 KVM 方案頁面中，沒有任何一頁列出顯示卡（GPU）。文件也沒有說明沒有顯示卡時，本機模型能有多快。"
       ]
     },
     {
       "heading": "該選哪個 KVM 方案",
       "paragraphs": [
-        "方案取決於模型在哪裡執行。KVM 是 Hostinger 虛擬伺服器的名稱，表格列出了全部四個。請對照文件來讀每個方案；這是我們對文件的解讀，不是實測："
+        "方案取決於模型在哪裡執行。KVM 是 Hostinger 虛擬伺服器的名稱，表格列出了全部四個。請對照文件來讀每個方案；這是對文件的解讀，不是實測："
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
         "alt": "三行的圖表：模型在伺服器之外（API 金鑰或額度）選 KVM 1；小型本機模型選 KVM 2（在邊緣）或 KVM 4；上下文更大的本機模型或還要執行其他程式，選 KVM 4 或 KVM 8",
-        "caption": "依據 OpenClaw 的文件；我們沒有測過效能。"
+        "caption": "依據 OpenClaw 的文件；沒有效能實測。"
       },
       "comparisonTable": {
         "headers": [

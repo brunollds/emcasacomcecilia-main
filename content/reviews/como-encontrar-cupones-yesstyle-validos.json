@@ -32,7 +32,7 @@
     "Explica cómo acumular el cupón del mes con CECILIA010",
     "Muestra cómo ahorrar hasta un 5% extra con el código oficial de influencer",
     "Muestra dónde encontrar los cupones vigentes de YesStyle para evitar códigos falsos o caducados",
-    "Te lleva a la página actualizada de Em Casa com Cecília con la lista de cupones comprobada"
+    "Te lleva a la página actualizada de Em Casa com Cecília con la lista de cupones vigentes"
   ],
   "cons": [
     "Los cupones promocionales mensuales tienen plazos cortos (por lo general, de 72 horas a 30 días)",
@@ -60,7 +60,7 @@
     }
   ],
   "cta": {
-    "text": "En nuestra página, la lista de cupones de YesStyle se revisó el {yesstyle:verifiedAt}.",
+    "text": "En nuestra página, la lista de cupones de YesStyle está actualizada al {yesstyle:verifiedAt}.",
     "label": "Ver cupones activos de YesStyle",
     "url": "/es/coupons/yesstyle",
     "sponsored": false
