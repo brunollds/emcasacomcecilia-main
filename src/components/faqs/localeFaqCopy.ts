@@ -1,4 +1,5 @@
 import type { TranslatedLocale } from '@/lib/couponTranslations';
+import { SECTION_LABELS } from '@/lib/i18n/sectionLabels';
 
 // Textos do /faq de cada idioma fora do português (/<locale>/faq). FAQ_SOURCE_PT é a fonte: o texto em
 // português já adaptado para quem chega de fora (sem Brasil, sem páginas que só existem em PT). As
@@ -45,7 +46,7 @@ export const FAQ_SOURCE_PT: FaqLocaleCopy = {
   metaDescription:
     'Respostas sobre o Em Casa com Cecília: cupons e códigos, links de afiliado e parcerias, guias e análises, e como falar com a gente.',
   trailLabel: 'Perguntas frequentes',
-  title: 'Perguntas frequentes',
+  title: SECTION_LABELS.pt.faqTitle,
   intro: 'O que mais perguntam sobre o site, os códigos das lojas e as parcerias. Não achou? Escreva para a gente.',
   categoriesLabel: 'Categorias das perguntas',
   askTitle: 'Ainda com dúvida?',
@@ -54,7 +55,7 @@ export const FAQ_SOURCE_PT: FaqLocaleCopy = {
   newsTitle: 'Acompanhe as novidades',
   newsText: 'Os vídeos novos saem primeiro no YouTube e no Instagram.',
   newsVideos: 'Ver vídeos',
-  newsMediaKit: 'Ver o mídia kit (em português)',
+  newsMediaKit: SECTION_LABELS.pt.mediaKitLabel,
   categories: [
     {
       id: 'em-casa-com-cecilia',
@@ -238,7 +239,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     metaDescription:
       'Answers about Em Casa com Cecília: coupons and codes, affiliate links and partnerships, guides and reviews, and how to reach us.',
     trailLabel: 'Frequently asked questions',
-    title: 'Frequently asked questions',
+    title: SECTION_LABELS.en.faqTitle,
     intro: 'The questions we get most about the site, the store codes and partnerships. Can’t find yours? Write to us.',
     categoriesLabel: 'Question categories',
     askTitle: 'Still have a question?',
@@ -247,7 +248,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     newsTitle: 'Stay up to date',
     newsText: 'New videos come out first on YouTube and Instagram.',
     newsVideos: 'Watch videos',
-    newsMediaKit: 'See the media kit (in Portuguese)',
+    newsMediaKit: SECTION_LABELS.en.mediaKitLabel,
     categories: [
       {
         id: 'em-casa-com-cecilia',
@@ -360,7 +361,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     metaDescription:
       'Respuestas sobre Em Casa com Cecília: cupones y códigos, enlaces de afiliado y colaboraciones, guías y reseñas, y cómo contactarnos.',
     trailLabel: 'Preguntas frecuentes',
-    title: 'Preguntas frecuentes',
+    title: SECTION_LABELS.es.faqTitle,
     intro: 'Lo que más nos preguntan sobre el sitio, los códigos de las tiendas y las colaboraciones. ¿No encuentras tu duda? Escríbenos.',
     categoriesLabel: 'Categorías de preguntas',
     askTitle: '¿Sigues con dudas?',
@@ -369,7 +370,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     newsTitle: 'Sigue las novedades',
     newsText: 'Los vídeos nuevos salen primero en YouTube e Instagram.',
     newsVideos: 'Ver vídeos',
-    newsMediaKit: 'Ver el media kit (en portugués)',
+    newsMediaKit: SECTION_LABELS.es.mediaKitLabel,
     categories: [
       {
         id: 'em-casa-com-cecilia',
@@ -482,7 +483,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     metaDescription:
       'Réponses sur Em Casa com Cecília : codes promo, liens d’affiliation et partenariats, guides et avis, et comment nous contacter.',
     trailLabel: 'Questions fréquentes',
-    title: 'Questions fréquentes',
+    title: SECTION_LABELS.fr.faqTitle,
     intro:
       'Ce que l’on nous demande le plus sur le site, les codes des boutiques et les partenariats. Vous ne trouvez pas votre réponse ? Écrivez-nous.',
     categoriesLabel: 'Catégories de questions',
@@ -492,7 +493,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     newsTitle: 'Suivre les nouveautés',
     newsText: 'Les nouvelles vidéos sortent d’abord sur YouTube et Instagram.',
     newsVideos: 'Voir les vidéos',
-    newsMediaKit: 'Voir le kit média (en portugais)',
+    newsMediaKit: SECTION_LABELS.fr.mediaKitLabel,
     categories: [
       {
         id: 'em-casa-com-cecilia',
@@ -605,7 +606,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     metaDescription:
       'Antworten zu Em Casa com Cecília: Gutscheine und Codes, Affiliate-Links und Partnerschaften, Ratgeber und Tests, und wie Sie uns erreichen.',
     trailLabel: 'Häufige Fragen',
-    title: 'Häufige Fragen',
+    title: SECTION_LABELS.de.faqTitle,
     intro: 'Was uns am häufigsten zur Website, zu den Shop-Codes und zu Partnerschaften gefragt wird. Nichts gefunden? Schreiben Sie uns.',
     categoriesLabel: 'Fragenkategorien',
     askTitle: 'Noch eine Frage?',
@@ -614,7 +615,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     newsTitle: 'Immer auf dem Laufenden',
     newsText: 'Neue Videos erscheinen zuerst auf YouTube und Instagram.',
     newsVideos: 'Videos ansehen',
-    newsMediaKit: 'Mediakit ansehen (auf Portugiesisch)',
+    newsMediaKit: SECTION_LABELS.de.mediaKitLabel,
     categories: [
       {
         id: 'em-casa-com-cecilia',
@@ -727,7 +728,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     metaDescription:
       'Risposte su Em Casa com Cecília: coupon e codici, link di affiliazione e collaborazioni, guide e recensioni, e come contattarci.',
     trailLabel: 'Domande frequenti',
-    title: 'Domande frequenti',
+    title: SECTION_LABELS.it.faqTitle,
     intro: 'Le domande che ci fanno più spesso sul sito, sui codici dei negozi e sulle collaborazioni. Non trovi la tua? Scrivici.',
     categoriesLabel: 'Categorie di domande',
     askTitle: 'Hai ancora un dubbio?',
@@ -736,7 +737,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     newsTitle: 'Resta aggiornato',
     newsText: 'I nuovi video escono prima su YouTube e Instagram.',
     newsVideos: 'Guarda i video',
-    newsMediaKit: 'Vedi il media kit (in portoghese)',
+    newsMediaKit: SECTION_LABELS.it.mediaKitLabel,
     categories: [
       {
         id: 'em-casa-com-cecilia',
@@ -848,7 +849,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     metaTitle: '자주 묻는 질문 | Em Casa com Cecília',
     metaDescription: 'Em Casa com Cecília에 대한 답변: 쿠폰과 코드, 제휴 링크와 파트너십, 가이드와 리뷰, 문의 방법.',
     trailLabel: '자주 묻는 질문',
-    title: '자주 묻는 질문',
+    title: SECTION_LABELS.ko.faqTitle,
     intro: '사이트, 스토어 코드, 파트너십에 대해 가장 많이 받는 질문이에요. 찾는 답이 없다면 메일을 보내 주세요.',
     categoriesLabel: '질문 카테고리',
     askTitle: '아직 궁금한 점이 있나요?',
@@ -857,7 +858,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     newsTitle: '새 소식 받아보기',
     newsText: '새 영상은 YouTube와 Instagram에 가장 먼저 올라와요.',
     newsVideos: '영상 보기',
-    newsMediaKit: '미디어 킷 보기(포르투갈어)',
+    newsMediaKit: SECTION_LABELS.ko.mediaKitLabel,
     categories: [
       {
         id: 'em-casa-com-cecilia',
@@ -969,7 +970,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     metaTitle: 'よくある質問 | Em Casa com Cecília',
     metaDescription: 'Em Casa com Cecíliaについての回答：クーポンとコード、アフィリエイトリンクと提携、ガイドとレビュー、お問い合わせ方法。',
     trailLabel: 'よくある質問',
-    title: 'よくある質問',
+    title: SECTION_LABELS.ja.faqTitle,
     intro: 'サイト、ショップのコード、提携についてよく寄せられる質問です。見つからない場合は、メールでお問い合わせください。',
     categoriesLabel: '質問のカテゴリー',
     askTitle: '解決しませんでしたか？',
@@ -978,7 +979,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     newsTitle: '最新情報をチェック',
     newsText: '新しい動画は、まずYouTubeとInstagramで公開します。',
     newsVideos: '動画を見る',
-    newsMediaKit: 'メディアキットを見る（ポルトガル語）',
+    newsMediaKit: SECTION_LABELS.ja.mediaKitLabel,
     categories: [
       {
         id: 'em-casa-com-cecilia',
@@ -1090,7 +1091,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     metaTitle: '常見問題 | Em Casa com Cecília',
     metaDescription: '關於 Em Casa com Cecília 的解答：優惠碼與代碼、聯盟連結與合作、指南與評測，以及如何聯絡我們。',
     trailLabel: '常見問題',
-    title: '常見問題',
+    title: SECTION_LABELS['zh-hant'].faqTitle,
     intro: '大家最常問的網站、商店代碼與合作問題。找不到答案嗎？歡迎寫信給我們。',
     categoriesLabel: '問題分類',
     askTitle: '還有疑問嗎？',
@@ -1099,7 +1100,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     newsTitle: '追蹤最新消息',
     newsText: '新影片會先在YouTube和Instagram發布。',
     newsVideos: '觀看影片',
-    newsMediaKit: '查看Media Kit（葡萄牙文）',
+    newsMediaKit: SECTION_LABELS['zh-hant'].mediaKitLabel,
     categories: [
       {
         id: 'em-casa-com-cecilia',
@@ -1211,7 +1212,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     metaTitle: '常见问题 | Em Casa com Cecília',
     metaDescription: '关于 Em Casa com Cecília 的解答：优惠码与代码、联盟链接与合作、指南与评测，以及如何联系我们。',
     trailLabel: '常见问题',
-    title: '常见问题',
+    title: SECTION_LABELS['zh-hans'].faqTitle,
     intro: '大家最常问的网站、商店代码与合作问题。找不到答案吗？欢迎写信给我们。',
     categoriesLabel: '问题分类',
     askTitle: '还有疑问吗？',
@@ -1220,7 +1221,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
     newsTitle: '关注最新消息',
     newsText: '新视频会先在YouTube和Instagram发布。',
     newsVideos: '观看视频',
-    newsMediaKit: '查看Media Kit（葡萄牙文）',
+    newsMediaKit: SECTION_LABELS['zh-hans'].mediaKitLabel,
     categories: [
       {
         id: 'em-casa-com-cecilia',

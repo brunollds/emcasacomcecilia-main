@@ -7,7 +7,7 @@ import { brandLinks } from '@/lib/brandLinks';
 import OmniSearch from '@/components/OmniSearch';
 import LanguageSwitcher from '@/components/header/LanguageSwitcher';
 import type { Locale } from '@/lib/i18n/locales';
-import type { ShellCommercialLink, ShellCopy } from '@/lib/i18n/shellDictionary';
+import type { ShellCopy } from '@/lib/i18n/shellDictionary';
 import { getAriaCurrent, type ActiveNav, type NavItem, type ShellMenu } from '@/lib/i18n/shellMenu';
 
 interface DesktopNavProps {
@@ -15,7 +15,6 @@ interface DesktopNavProps {
   menu: ShellMenu;
   active: ActiveNav;
   copy: ShellCopy;
-  commercialLinks: ShellCommercialLink[];
   isPt: boolean;
 }
 
@@ -29,7 +28,7 @@ const LINK_OFF = 'font-medium text-white/78 hover:text-white';
 const ITEM_ON = 'bg-white/12 font-bold text-white';
 const ITEM_OFF = 'font-medium text-white/78 hover:bg-white/8 hover:text-white';
 
-export default function DesktopNav({ locale, menu, active, copy, commercialLinks, isPt }: DesktopNavProps) {
+export default function DesktopNav({ locale, menu, active, copy, isPt }: DesktopNavProps) {
   const [openList, setOpenList] = useState<ListId | null>(null);
   const [searchOpen, setSearchOpen] = useState(false);
   const searchRef = useRef<HTMLDivElement>(null);
@@ -280,19 +279,6 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
       </div>
 
       <nav className="ml-4 flex flex-shrink-0 items-center gap-4">
-        {commercialLinks.map((link) => {
-          const isActive = active.section === link.id;
-          return (
-            <Link
-              key={link.id}
-              href={link.href}
-              aria-current={getAriaCurrent(link.href, active, isActive)}
-              className={`whitespace-nowrap text-sm transition-colors ${isActive ? LINK_ON : LINK_OFF}`}
-            >
-              {link.label}
-            </Link>
-          );
-        })}
         {isPt && (
           <Link
             href={brandLinks.damie}

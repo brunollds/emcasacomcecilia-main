@@ -1,11 +1,4 @@
 import { type Locale } from './locales';
-import { getYesStyleLocaleConfig } from './clusters/yesstyle';
-
-export interface ShellCommercialLink {
-  id: 'yesstyle' | 'shein';
-  href: string;
-  label: string;
-}
 
 export interface ShellCopy {
   locale: Locale;
@@ -16,13 +9,12 @@ export interface ShellCopy {
   closeSearchLabel: string;
   languageLabel: string;
   homeLabel: string;
-  hubLabel: string;
   reviewHubLabel: string;
-  sheinCouponsLabel: string;
   damieLabel: string;
   footerRights: string;
   contactLabel: string;
   footerExploreLabel: string;
+  footerHelpLabel: string;
   privacyLabel: string;
   twitterDescription: string;
   followAria: string;
@@ -39,13 +31,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: 'Fechar busca',
     languageLabel: 'Idioma',
     homeLabel: 'Início',
-    hubLabel: 'Cupons',
     reviewHubLabel: 'Guias & Análises',
-    sheinCouponsLabel: 'Cupons SHEIN',
     damieLabel: 'DAMIE',
     footerRights: 'Todos os direitos reservados.',
     contactLabel: 'Contato',
     footerExploreLabel: 'Explorar',
+    footerHelpLabel: 'Em Casa',
     privacyLabel: 'Privacidade',
     twitterDescription: 'Receitas caseiras, reviews sinceros e análises de produtos.',
     followAria: 'Siga @emcasacomcecilia no {social}',
@@ -60,13 +51,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: 'Close search',
     languageLabel: 'Language',
     homeLabel: 'Home',
-    hubLabel: 'YesStyle Coupons',
     reviewHubLabel: 'Guides & Reviews',
-    sheinCouponsLabel: 'SHEIN Coupons',
     damieLabel: 'DAMIE',
     footerRights: 'All rights reserved.',
     contactLabel: 'Contact',
     footerExploreLabel: 'Explore',
+    footerHelpLabel: 'Help',
     privacyLabel: 'Privacy',
     twitterDescription: 'Tested home recipes, verified discount coupons, and K-beauty reviews by Cecília Mauad.',
     followAria: 'Follow @emcasacomcecilia on {social}',
@@ -81,13 +71,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: 'Cerrar búsqueda',
     languageLabel: 'Idioma',
     homeLabel: 'Inicio',
-    hubLabel: 'Cupones YesStyle',
     reviewHubLabel: 'Guías y reseñas',
-    sheinCouponsLabel: 'Cupones SHEIN',
     damieLabel: 'DAMIE',
     footerRights: 'Todos los derechos reservados.',
     contactLabel: 'Contacto',
     footerExploreLabel: 'Explorar',
+    footerHelpLabel: 'Ayuda',
     privacyLabel: 'Privacidad',
     twitterDescription: 'Recetas probadas, cupones de descuento verificados y guías de belleza por Cecília Mauad.',
     followAria: 'Sigue a @emcasacomcecilia en {social}',
@@ -102,13 +91,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: 'Fermer la recherche',
     languageLabel: 'Langue',
     homeLabel: 'Accueil',
-    hubLabel: 'Coupons YesStyle',
     reviewHubLabel: 'Guides et avis',
-    sheinCouponsLabel: 'Coupons SHEIN',
     damieLabel: 'DAMIE',
     footerRights: 'Tous droits réservés.',
     contactLabel: 'Contact',
     footerExploreLabel: 'Explorer',
+    footerHelpLabel: 'Aide',
     privacyLabel: 'Confidentialité',
     twitterDescription: 'Recettes maison, coupons de réduction vérifiés et guides K-beauty par Cecília Mauad.',
     followAria: 'Suivez @emcasacomcecilia sur {social}',
@@ -123,13 +111,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: 'Suche schließen',
     languageLabel: 'Sprache',
     homeLabel: 'Startseite',
-    hubLabel: 'YesStyle Gutscheine',
     reviewHubLabel: 'Ratgeber und Tests',
-    sheinCouponsLabel: 'SHEIN Gutscheine',
     damieLabel: 'DAMIE',
     footerRights: 'Alle Rechte vorbehalten.',
     contactLabel: 'Kontakt',
     footerExploreLabel: 'Entdecken',
+    footerHelpLabel: 'Hilfe',
     privacyLabel: 'Datenschutz',
     twitterDescription: 'Erprobte Rezepte, verifizierte Gutscheincodes und K-Beauty Ratgeber von Cecília Mauad.',
     followAria: 'Folgen Sie @emcasacomcecilia auf {social}',
@@ -144,13 +131,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: 'Chiudi la ricerca',
     languageLabel: 'Lingua',
     homeLabel: 'Home',
-    hubLabel: 'Coupon YesStyle',
     reviewHubLabel: 'Guide e recensioni',
-    sheinCouponsLabel: 'Coupon SHEIN',
     damieLabel: 'DAMIE',
     footerRights: 'Tutti i diritti riservati.',
     contactLabel: 'Contatti',
     footerExploreLabel: 'Esplora',
+    footerHelpLabel: 'Aiuto',
     privacyLabel: 'Privacy',
     twitterDescription: 'Ricette di casa, codici sconto verificati e guide K-beauty di Cecília Mauad.',
     followAria: 'Segui @emcasacomcecilia su {social}',
@@ -165,13 +151,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: '검색 닫기',
     languageLabel: '언어',
     homeLabel: '홈',
-    hubLabel: 'YesStyle 쿠폰',
     reviewHubLabel: '가이드와 리뷰',
-    sheinCouponsLabel: 'SHEIN 쿠폰',
     damieLabel: 'DAMIE',
     footerRights: '모든 권리 보유.',
     contactLabel: '문의하기',
     footerExploreLabel: '둘러보기',
+    footerHelpLabel: '도움말',
     privacyLabel: '개인정보처리방침',
     twitterDescription: '검증된 홈 레시피, YesStyle 리워드 코드 및 K-뷰티 가이드.',
     followAria: '{social}에서 @emcasacomcecilia 팔로우하기',
@@ -186,13 +171,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: '検索を閉じる',
     languageLabel: '言語',
     homeLabel: 'ホーム',
-    hubLabel: 'YesStyle クーポン',
     reviewHubLabel: 'ガイドとレビュー',
-    sheinCouponsLabel: 'SHEIN クーポン',
     damieLabel: 'DAMIE',
     footerRights: '全著作権所有。',
     contactLabel: 'お問い合わせ',
     footerExploreLabel: '見て回る',
+    footerHelpLabel: 'ヘルプ',
     privacyLabel: 'プライバシーポリシー',
     twitterDescription: '検証済みレシピ、YesStyleリワードコード、K-Beautyレビュー。',
     followAria: '{social}で@emcasacomceciliaをフォロー',
@@ -207,13 +191,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: '關閉搜尋',
     languageLabel: '語言',
     homeLabel: '首頁',
-    hubLabel: 'YesStyle 優惠碼',
     reviewHubLabel: '指南與評測',
-    sheinCouponsLabel: 'SHEIN 優惠碼',
     damieLabel: 'DAMIE',
     footerRights: '版權所有，保留一切權利。',
     contactLabel: '聯絡我們',
     footerExploreLabel: '探索',
+    footerHelpLabel: '幫助',
     privacyLabel: '隱私權政策',
     twitterDescription: '經測試的家常食譜、驗證的 YesStyle 獎勵碼與美妝指南。',
     followAria: '在 {social} 上追蹤 @emcasacomcecilia',
@@ -228,13 +211,12 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     closeSearchLabel: '关闭搜索',
     languageLabel: '语言',
     homeLabel: '首页',
-    hubLabel: 'YesStyle 优惠码',
     reviewHubLabel: '指南与评测',
-    sheinCouponsLabel: 'SHEIN 优惠码',
     damieLabel: 'DAMIE',
     footerRights: '版权所有，保留一切权利。',
     contactLabel: '联系我们',
     footerExploreLabel: '探索',
+    footerHelpLabel: '帮助',
     privacyLabel: '隐私政策',
     twitterDescription: '经测试的家常食谱、验证的 YesStyle 奖励码与美妆指南。',
     followAria: '在 {social} 上关注 @emcasacomcecilia',
@@ -252,26 +234,4 @@ export function getShellCopy(localeStr: string): ShellCopy {
 export function getShellHomeHref(localeStr: string): string {
   const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
   return loc === 'pt' ? '/' : `/${loc}`;
-}
-
-export function getShellCommercialLinks(localeStr: string): ShellCommercialLink[] {
-  const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
-  const copy = SHELL_DICTIONARY[loc];
-
-  if (loc === 'pt') return [];
-
-  return [
-    {
-      id: 'yesstyle',
-      href: getYesStyleLocaleConfig(loc).hubPath,
-      label: copy.hubLabel,
-    },
-    {
-      id: 'shein',
-      // Mesmo caminho de getCouponStorePath (o teste do shell confere). Não importamos de
-      // couponTranslations porque o shell roda no cliente e levaria junto os textos dos cupons.
-      href: `/${loc}/coupons/shein`,
-      label: copy.sheinCouponsLabel,
-    },
-  ];
 }
