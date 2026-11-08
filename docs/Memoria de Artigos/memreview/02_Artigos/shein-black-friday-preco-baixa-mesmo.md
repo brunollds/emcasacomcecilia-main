@@ -42,12 +42,14 @@ A loja anuncia o percentual máximo da campanha. O preço de cada peça está na
 
 ## 3. O que só o site dá
 
-O preço das mesmas peças em várias datas, lido do mesmo jeito. Em 08/11, 17 das 19 custavam mais que em 28/10, 2 custavam o mesmo e nenhuma custava menos. O resultado da Black Friday só se conhece nas próximas leituras: o artigo não antecipa a conclusão.
+O preço das mesmas peças em várias datas, lido do mesmo jeito. A série começa em 08/11. O resultado só se conhece nas próximas leituras: o artigo não antecipa a conclusão. A pesquisa externa de 08/11 não achou essa comparação nas páginas que abriu.
 
 ## 4. Regras
 
 - **Só os números e como foram lidos.** Nada de dizer que a SHEIN sobe o preço para dar desconto, que o desconto é falso ou que a campanha engana. Não sabemos a causa, e o texto diz isso.
-- **28/10 não é preço de antes da campanha:** a 11.11 já estava no ar. Dizer com clareza.
+- **A comparação começa em 08/11.** O preço de 28/10 pode ter dependido de uma condição que não se repete (o Bruno suspeita do código de indicação), e a 11.11 já estava no ar. Sem explicar o -20%, o artigo não usa "17 das 19 ficaram mais caras" como resultado.
+- **Mesma cor e mesmo tamanho a cada leitura**, quando a peça é "a partir de". Anotar também se a peça esgotou.
+- **Não citar a multa da França** nem outras disputas sobre preço: não medem esta campanha.
 - **Dizer o limite da medida:** só o site, só o Brasil, 19 peças, sem carrinho, e "a partir de" muda por cor ou tamanho. Não vale para o catálogo inteiro.
 - **Nenhuma peça é conselho de comprar ou de esperar.** A conclusão prática é comparar o preço da própria peça.
 - **Os links são os que o Bruno converter** (arquivo de fatos). Os da campanha 11.11 não entram.
@@ -71,11 +73,11 @@ O preço das mesmas peças em várias datas, lido do mesmo jeito. Em 08/11, 17 d
 ## 6. A conferir
 
 - **Publicação:** primeira versão logo depois da leitura de 20/11, para estar no ar na semana da Black Friday. Atualizar depois das leituras de 27/11 e 30/11. Se o Bruno preferir só o resultado completo, publica em 01/12, e a busca da data já terá passado.
-- **O -20% de 28/10:** o Bruno sabe o que era? Conta nova, app ou fase da campanha mudam a leitura do resultado.
+- **O -20% de 28/10:** o Bruno suspeita do código de indicação. No teste em Chrome de 08/11, pesquisar o 4CW5Y não mudou o preço da página (fatos). Falta ele ver na conta e no app.
 - **App:** o Bruno compara 3 ou 4 peças no aplicativo, porque a campanha puxa para lá e o site é só uma parte.
 - **Carrinho:** o Bruno põe 2 ou 3 peças no carrinho, sem comprar, e diz se o preço muda. É o que a busca pergunta, e esta sessão não usa carrinho.
 - **Idiomas:** sai só em PT, porque o preço é em real e muda a cada rodada. Se o resultado for bom, o Bruno decide se a família `shein-black-friday` ganha um resumo.
-- **Pesquisa do ChatGPT:** o Bruno vai pedir uma pesquisa independente. O que vier entra aqui depois de conferido.
+- **Pesquisa do ChatGPT:** recebida em 08/11. Propôs a mesma comparação, de forma independente. O que foi conferido está nos fatos.
 
 ## 7. Pontuação
 
