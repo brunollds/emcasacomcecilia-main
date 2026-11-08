@@ -52,6 +52,8 @@ primeiro pela pauta (Job 1) e depois pela sessão de artigos (Bruno, 14/10/2026)
 - **Loja física** (14/10/2026): não citar.
 - **Contador de promoção do site** (19/10/2026): é estratégia de marketing, não data de fim. A data da promoção dos 14 anos é acompanhada pelo Bruno (até 31/10/2026).
 - **Catálogo em 23/10/2026:** camiseta só no modelo oversized (100% algodão; avulsa R$ 129, kit de 3 a R$ 258); sem calça branca nem peça dourada à venda. Gramatura não publicada; tabela de medidas num widget (Sizebay).
+- **Catálogo em 08/11/2026:** além da oversized, há a Camiseta Comfort Algodão Peruano (4434): malha interlock, caimento regular, off white, preto e marrom, P/M/G, avulsa, R$ 199,90 de lista. Continuam sem calça branca nem peça dourada à venda (100 produtos lidos). Colete e blazer vermelhos esgotados.
+- **Cupom na Black Friday (teste de 08/11/2026, carrinho sem fechar pedido):** Kit 3 T-Shirts de R$ 199,00 fechou em R$ 179,10; com um vestido a R$ 487,90 (30% OFF), subtotal R$ 686,90, desconto R$ 68,69, total R$ 618,21. O teste cobriu kit de preço fixo e peça com 30%; os termos da loja seguem prevendo exceção.
 - **Sem experiência própria** (19/10/2026): ninguém do site comprou nem recebeu peças. "A camiseta da Cléa é boa?" foi reaberta pelo Bruno em 23/10/2026 como guia sem uso próprio ([[camiseta-clea-store-e-boa]]); quando houver uma peça para testar, vira artigo novo ou atualização.
 
 ---

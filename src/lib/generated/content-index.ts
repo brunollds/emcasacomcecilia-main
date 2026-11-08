@@ -78942,7 +78942,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Cléa Store vende",
         "paragraphs": [
-          "A loja vende moda feminina: alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
+          "A loja vende [moda feminina](/reviews/clea-store-e-boa): alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
         ],
         "image": {
           "src": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
@@ -79548,7 +79548,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "O cupom vale em todo o site: alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
+          "O cupom vale em todo o site: [alfaiataria](/reviews/alfaiataria-verao-clea-store), blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
         ]
       },
       {
@@ -80522,11 +80522,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Cléa Store já está no ar, com 30% OFF em todo o site e kits a preço fixo. Veja o que a loja mostra e como o cupom CSEMCASACOMCECILIA entra na conta.",
-    "metaDescription": "Black Friday Cléa Store 2026: o cupom CSEMCASACOMCECILIA dá 10%, e o site tem 30% OFF em tudo e kits a preço fixo. Frete, cashback e preços.",
+    "description": "A Black Friday da Cléa Store já está no ar, com 30% OFF em todo o site e kits a preço fixo. Veja o que a loja mostra e como o cupom CSEMCASACOMCECILIA somou no carrinho.",
+    "metaDescription": "Black Friday Cléa Store 2026: o cupom CSEMCASACOMCECILIA dá 10% e somou com os 30% OFF e os kits a preço fixo no teste. Frete e cashback.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/black-friday-clea-store-capa-discover.webp",
@@ -80550,7 +80550,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Cléa Store 2026",
         "paragraphs": [
-          "A Black Friday da Cléa Store já está no ar: 30% OFF em todo o site e kits a preço fixo, sem data de fim publicada. O dia da Black Friday é 27 de novembro. O cupom CSEMCASACOMCECILIA dá 10% OFF e valeu sobre kit em promoção em outubro; sobre a campanha, confira a linha Desconto antes de pagar."
+          "A Black Friday da Cléa Store já está no ar, com 30% OFF em todo o site e kits a preço fixo, sem data de fim publicada. O dia da Black Friday é 27 de novembro. No nosso teste com a campanha no ar, o cupom CSEMCASACOMCECILIA somou 10% OFF sobre os dois tipos de preço."
         ]
       },
       {
@@ -80629,10 +80629,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O cupom vale no kit em promoção?",
+        "heading": "O cupom vale nos preços da Black Friday?",
         "paragraphs": [
-          "Os termos da Cléa Store dizem que o voucher não vale em \"produtos já remarcados, salvo exceção comunicada pela loja\". Por isso fizemos o teste no checkout. No checkout, o cupom **CSEMCASACOMCECILIA** valeu num kit que já estava em promoção.",
-          "No nosso teste, o carrinho tinha só o Kit 3 T-Shirts Oversized Classic. O cupom de 10% incidiu sobre o preço promocional, não sobre os R$ 387,00."
+          "Os termos da Cléa Store dizem que o voucher não vale em \"produtos já remarcados, salvo exceção comunicada pela loja\". Por isso testamos no checkout, em outubro e de novo com a campanha no ar. Nas duas vezes, o cupom **CSEMCASACOMCECILIA** entrou sobre o preço já baixado.",
+          "No teste de outubro, o carrinho tinha só o Kit 3 T-Shirts Oversized Classic. O cupom de 10% incidiu sobre o preço promocional, não sobre os R$ 387,00."
         ],
         "comparisonTable": {
           "caption": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic, feito antes da campanha Black Friday.",
@@ -80660,8 +80660,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Só um cupom por pedido: pelos termos da loja, cada cliente usa um voucher por pedido. Em peça avulsa remarcada, o cupom pode não entrar: confira a linha \"Desconto\" do resumo.",
-          "Os termos permitem exceção, então a loja pode excluir itens de uma campanha, e o cupom pode não valer sobre os preços da Black Friday. Antes de pagar, a linha \"Desconto\" do resumo mostra o que o cupom abateu; se ela não aparecer, vale o preço da campanha.",
+          "Em 08/11, o Kit 3 T-Shirts Oversized Classic estava a R$ 199,00, e o cupom baixou o pedido para R$ 179,10. Depois entrou no carrinho um vestido de R$ 697,00, que o site mostrava por R$ 487,90 com os 30% OFF: o subtotal de R$ 686,90 recebeu R$ 68,69 de desconto, e o total ficou em R$ 618,21.",
+          "Só um cupom por pedido: pelos termos da loja, cada cliente usa um voucher por pedido.",
+          "O teste cobriu um kit de preço fixo e uma peça com os 30%, não o catálogo inteiro, e os termos permitem exceção. Antes de pagar, a linha \"Desconto\" do resumo mostra o que o cupom abateu; se ela não aparecer, vale o preço da campanha.",
           "Se o seu carrinho tem peças de preço cheio e peças remarcadas, o passo a passo do código está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar). As condições do código ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
         ],
         "images": [
@@ -80699,7 +80700,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Cléa Store na Black Friday? O cupom da nossa parceria é o CSEMCASACOMCECILIA, com 10% OFF em todo o site, em todas as formas de pagamento.",
-          "O cupom vale em kit em promoção? No teste de outubro, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, e o cupom pode não valer sobre os preços da Black Friday: confira a linha Desconto antes de pagar.",
+          "O cupom vale nos preços da Black Friday? No teste com a campanha no ar, sim: os 10% entraram sobre o Kit 3 T-Shirts de R$ 199,00, que fechou em R$ 179,10, e sobre um vestido com os 30% OFF. Os termos da loja preveem exceções: confira a linha Desconto antes de pagar.",
           "O cupom soma com o cashback? Sim, mas o cashback é crédito futuro: no nosso teste, o checkout mostrou até R$ 23,22 de créditos previstos sobre o valor depois do cupom. Esse benefício não reduz o valor pago no pedido. Confira a previsão antes de pagar.",
           "Posso usar dois cupons no mesmo pedido? Não. Pelos termos da loja, cada cliente usa um voucher por pedido.",
           "O cupom dá frete grátis? Não. O frete grátis é regra da loja e valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",
@@ -123280,8 +123281,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Camiseta Cléa Store pela ficha: composição do corpo e da gola, corte oversized, cores e tamanhos. Compare a avulsa com cinco kits e veja como calcular o preço por peça.",
-    "metaDescription": "CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta oversized, avulsa ou em cinco kits: compare o preço por peça.",
+    "description": "Camiseta Cléa Store pela ficha: a oversized de algodão penteado e a Comfort de algodão peruano, com composição, cores, tamanhos, cinco kits e o preço por peça.",
+    "metaDescription": "CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta oversized ou Comfort, avulsa ou em kit: compare o preço por peça.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -123326,21 +123327,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica, e o que pesa na escolha é a cor e a quantidade. O CSEMCASACOMCECILIA dá 10% OFF no site, e soma com as promoções."
+          "A Cléa Store tem dois modelos de camiseta: a oversized de algodão penteado, avulsa ou em kit de três, e a Comfort de algodão peruano, de caimento regular. Toque e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica. O CSEMCASACOMCECILIA dá 10% OFF no site, e soma com as promoções."
         ]
       },
       {
         "heading": "Tecido e composição: o que a ficha informa",
         "paragraphs": [
-          "A ficha informa corpo 100% algodão penteado premium e ribana da gola com 97% algodão e 3% elastano; os cinco kits repetem essa composição. O elastano está só na ribana, não no corpo.",
+          "Na oversized, a ficha informa corpo 100% algodão penteado premium e ribana da gola com 97% algodão e 3% elastano; os cinco kits repetem essa composição. O elastano está só na ribana, não no corpo.",
           "\"Algodão penteado premium\" é a denominação da loja, que descreve o tecido como leve, respirável e de toque natural e macio. A gramatura da malha não estava publicada."
         ]
       },
       {
-        "heading": "Modelagem: todas as camisetas são oversized",
+        "heading": "Modelagem: a oversized e a Comfort",
         "paragraphs": [
-          "Nas listagens de camisetas, essenciais, mais vendidos e roupas da loja, todas as camisetas são oversized. A loja chama a oversized de camiseta básica; não há corte regular nem baby look no catálogo da loja. A palavra \"oversized\" aparece na descrição de todos os modelos, inclusive no kit Essenciais, e a loja fala em caimento amplo.",
-          "Todos vêm em P, M e G. Como o corte é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher)."
+          "A loja tem dois cortes de camiseta. A oversized, que ela também chama de camiseta básica, tem caimento amplo, e a palavra aparece na descrição de todos os modelos dela, inclusive no kit Essenciais. A Comfort tem caimento regular e está no próximo capítulo. Baby look não aparece no catálogo.",
+          "Todos vêm em P, M e G. Como o corte da oversized é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher). A camiseta ao lado dos bodies e da alfaiataria está em [a Cléa Store é boa?](/reviews/clea-store-e-boa)."
         ],
         "styling": {
           "layout": "tabs",
@@ -123356,6 +123357,36 @@ export const reviewsData: unknown[] = [
                   "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402",
                   "note": "a página do shorts diz que ele combina com camisetas básicas"
                 },
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "saia"
+                },
+                {
+                  "label": "calça de alfaiataria"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Camiseta Comfort: algodão peruano e caimento regular",
+        "paragraphs": [
+          "A [Camiseta Comfort Algodão Peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434) é o outro modelo da loja. A ficha informa corpo 100% algodão peruano, malha interlock, gola redonda com acabamento canelado e caimento regular, que a loja descreve como nem justo nem amplo. A gramatura também não está publicada.",
+          "Ela vem em off white, preto e marrom, nos tamanhos P, M e G, vendida avulsa, sem kit. O preço de lista é R$ 199,90, R$ 70,90 acima da oversized avulsa. Na campanha de Black Friday, a página mostra R$ 139,93, e com o cupom a conta dá R$ 125,94.",
+          "A escolha entre as duas é de corte e de quantidade. A oversized fica solta e pode vir em kit. A Comfort acompanha o corpo e custa mais por peça."
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camiseta Comfort Algodão Peruano",
+              "url": "https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434",
+              "howTo": "Com jeans, shorts, saia ou alfaiataria, segundo a loja.",
+              "occasion": "Dia a dia; a loja também a indica para looks mais arrumados.",
+              "pairsWith": [
                 {
                   "label": "jeans"
                 },
@@ -123452,7 +123483,7 @@ export const reviewsData: unknown[] = [
           "Três avulsas ou um kit de três: R$ 348,30."
         ],
         "postParagraphs": [
-          "O CSEMCASACOMCECILIA dá 10% sobre o preço do dia, também em promoção e em qualquer forma de pagamento. Num kit promocional de R$ 258,00, o total com o cupom ficou em R$ 232,20. As condições estão na [página do cupom Cléa Store](/cupons/clea-store).",
+          "O CSEMCASACOMCECILIA dá 10% sobre o preço do dia, também em promoção e em qualquer forma de pagamento. Num kit promocional de R$ 258,00, o total com o cupom ficou em R$ 232,20. Em 08/11, com a Black Friday no ar, o Kit Classic de R$ 199,00 fechou em R$ 179,10, e os preços da campanha estão no [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). As condições estão na [página do cupom Cléa Store](/cupons/clea-store).",
           "Nos kits prontos, as cores vêm combinadas como mostra a tabela. No Essenciais, você escolhe as três e pode repetir. A avulsa atende quem quer apenas uma peça ou completar um kit."
         ],
         "images": [
@@ -123481,7 +123512,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como lavar a camiseta",
         "paragraphs": [
-          "A página lista estes cuidados:"
+          "Na oversized, a página lista estes cuidados:"
         ],
         "bullets": [
           "Lavar até 30 °C, em processo suave",
@@ -123490,6 +123521,9 @@ export const reviewsData: unknown[] = [
           "Secar em varal",
           "Não usar secadora",
           "Passar até 150 °C"
+        ],
+        "postParagraphs": [
+          "Na Comfort, a ficha muda: lavar até 40 °C, não usar alvejante, secar de preferência em varal à sombra, passar até 200 °C e não lavar a seco."
         ]
       },
       {
@@ -123508,6 +123542,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Uma camiseta:** compare a cor e o tamanho da [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189).",
+          "**Corte regular:** a [Comfort](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434) atende quem não quer a camiseta larga, e custa mais por peça.",
           "**Três camisetas:** escolha entre as combinações prontas ou o Essenciais e refaça a conta por peça com os preços do dia.",
           "**Antes de decidir:** a composição é a informada pela loja, e a gramatura não estava publicada."
         ],
@@ -123518,14 +123553,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Camiseta Cléa Store é boa? Pela ficha, dá para comparar: corpo de algodão penteado, gola com elastano e corte oversized. Como a peça veste e resiste às lavagens não está na ficha; a comparação deste guia é de composição, cores, medidas e preço.",
+          "Camiseta Cléa Store é boa? Pela ficha, dá para comparar: a oversized tem corpo de algodão penteado, gola com elastano e corte amplo, e a Comfort tem algodão peruano e caimento regular. Como a peça veste e resiste às lavagens não está na ficha; a comparação deste guia é de composição, cores, medidas e preço.",
           "Kit camiseta Cléa Store vale a pena? Compare o preço do kit dividido por três com o preço da avulsa no mesmo dia. Nos valores de lista da tabela, não havia economia. O cupom também vale nas promoções; o kit só compensa pelo preço se o custo por peça ficar menor e você quiser três camisetas.",
-          "A Cléa Store tem camiseta básica? Tem, mas a \"básica\" da loja é a própria oversized: no catálogo da loja não há corte regular nem baby look.",
+          "A Cléa Store tem camiseta básica? Tem, e a \"básica\" da loja é a oversized, de corte amplo. Para corte regular, há a Comfort de algodão peruano. Baby look não aparece no catálogo.",
           "Como lavar a camiseta Cléa Store? Segundo a loja, até 30 °C, com sabão para roupa delicada, sem alvejante, secando no varal e passando até 150 °C.",
-          "Qual a composição da camiseta Cléa Store? Segundo a ficha, o corpo é 100% algodão penteado premium, e a ribana da gola tem 97% algodão e 3% elastano."
+          "Qual a composição da camiseta Cléa Store? Segundo a ficha, a oversized tem corpo 100% algodão penteado premium e ribana da gola com 97% algodão e 3% elastano. A Comfort tem corpo 100% algodão peruano."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-08"
   },
   {
     "id": 600,
@@ -179582,7 +179618,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Camiseta oversized, bodies e alfaiataria pelo que a loja publica: para quem compensa.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/clea-store-e-boa-capa.webp",
@@ -179603,7 +179639,7 @@ export const reviewsData: unknown[] = [
           "As linhas, com o capítulo de cada uma abaixo:"
         ],
         "bullets": [
-          "**Camisetas:** um modelo só, a T-Shirt Oversized de algodão, avulsa ou em cinco kits de três.",
+          "**Camisetas:** dois modelos, a T-Shirt Oversized de algodão, avulsa ou em cinco kits de três, e a [Comfort de algodão peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434), de caimento regular, vendida avulsa.",
           "**Bodies Second Skin:** nove modelos, de regata a gola alta com manga longa.",
           "**Alfaiataria:** blazer, colete, calça wide leg e shorts, em linho ou mistura, mais camisa de tricoline e bata.",
           "**Peças de época:** calça cargo, calça jeans bicolor e os conjuntos de crochê, fora deste guia."
@@ -179615,7 +179651,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camiseta oversized de algodão: avulsa ou kit de três",
         "paragraphs": [
-          "A camiseta da Cléa se escolhe pela cor e pela quantidade, porque modelo só tem um. A loja informa: corpo 100% algodão penteado, modelagem oversized, tamanhos P, M e G, e a gramatura, o peso da malha, não aparece na página. Quem quer corte regular ou baby look não encontra aqui; quem quer a camiseta larga, de caimento solto, encontra em dez cores."
+          "A oversized da Cléa se escolhe pela cor e pela quantidade. A loja informa: corpo 100% algodão penteado, modelagem oversized, tamanhos P, M e G, e a gramatura, o peso da malha, não aparece na página. Quem quer a camiseta larga, de caimento solto, encontra em dez cores. Quem prefere corte regular tem a [Camiseta Comfort](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434), de algodão peruano, em off white, preto e marrom. Baby look não aparece no catálogo."
         ],
         "comparisonTable": {
           "headers": [
@@ -179793,7 +179829,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Alfaiataria de verão e look de trabalho",
         "paragraphs": [
-          "A alfaiataria da Cléa é para montar, não para levar pronta: blazer, colete, calça e shorts são vendidos separados, e o conjunto se faz juntando duas peças da mesma cor e do mesmo tecido. O linho manda na linha de verão, com o [Blazer Alfaiataria Rosa Linho](https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404), o [Colete Frente Única Linho Bege](https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221), o [Colete Alfaiataria Trespasse Vermelho](https://www.cleastore.com.br/produto/colete-alfaiataria-trespasse-vermelho-4393) e o [Shorts Alfaiataria Rosa Linho](https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402); o [Blazer Oversized Alfaiataria Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307) é o de poliéster com viscose, com forro declarado. As calças de linho vêm em 36 e 38, numeração diferente da das peças de cima.",
+          "A alfaiataria da Cléa é para montar, não para levar pronta: blazer, colete, calça e shorts são vendidos separados, e o conjunto se faz juntando duas peças da mesma cor e do mesmo tecido. O linho manda na [linha de verão](/reviews/alfaiataria-verao-clea-store), com o [Blazer Alfaiataria Rosa Linho](https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404), o [Colete Frente Única Linho Bege](https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221), o [Colete Alfaiataria Trespasse Vermelho](https://www.cleastore.com.br/produto/colete-alfaiataria-trespasse-vermelho-4393) e o [Shorts Alfaiataria Rosa Linho](https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402); o [Blazer Oversized Alfaiataria Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307) é o de poliéster com viscose, com forro declarado. As calças de linho vêm em 36 e 38, numeração diferente da das peças de cima.",
           "A alfaiataria serve a quem monta o guarda-roupa de trabalho peça a peça e quer o colete ou o blazer para usar com o que já tem. Não serve a quem quer o conjunto fechado numa compra só, nem a quem precisa do tamanho P no blazer de linho: a grade dessas peças quebra com frequência, e a peça que falta hoje pode voltar amanhã. As montagens de verão e os três looks de trabalho, com a conta de cada um, estão nos dois guias de alfaiataria listados no fim."
         ],
         "images": [
@@ -179816,7 +179852,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o cupom, e onde comprar",
         "paragraphs": [
-          "O [cupom Cléa Store](/cupons/clea-store) é o CSEMCASACOMCECILIA: 10% em todo o site, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções da loja e com o cashback, que devolve 10% da compra em créditos para usar no site. Conta nossa: pelo preço de lista da tabela, a camiseta avulsa sai por R$ 116,10 com o cupom, e no kit em promoção os 10% entram sobre o preço já baixado, com o cashback calculado depois do desconto. O código vai no resumo do pedido, no carrinho; confira a linha Desconto antes de pagar.",
+          "O [cupom Cléa Store](/cupons/clea-store) é o CSEMCASACOMCECILIA: 10% em todo o site, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções da loja e com o cashback, que devolve 10% da compra em créditos para usar no site. Conta nossa: pelo preço de lista da tabela, a camiseta avulsa sai por R$ 116,10 com o cupom, e no kit em promoção os 10% entram sobre o preço já baixado, com o cashback calculado depois do desconto. O código vai no resumo do pedido, no carrinho; confira a linha Desconto antes de pagar. O teste do cupom nos preços da campanha está no [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store).",
           "O que muda a conta é o frete. A faixa do site anuncia frete grátis acima de R$ 599; abaixo disso, o frete aparece no carrinho, e uma camiseta avulsa ou um body sozinho paga frete. Compare o valor final, incluindo frete, com o de um kit ou pedido com mais peças que você já queira levar. A Cléa também vende no Mercado Livre, onde o cupom não vale e a camiseta e os bodies costumam sair mais baratos; a comparação, anúncio a anúncio, está em [Mercado Livre ou site da Cléa Store](/reviews/clea-store-mercado-livre-ou-site). Para a alfaiataria e para qualquer cor fora dos kits, só o site tem."
         ]
       },
@@ -179837,6 +179873,7 @@ export const reviewsData: unknown[] = [
         "heading": "Para quem vale e para quem não vale",
         "bullets": [
           "Para a camiseta larga de algodão em cor lisa, a T-Shirt Oversized: avulsa para uma cor, kit de três se a conta por peça compensar em relação à avulsa.",
+          "Para a camiseta de caimento regular, a Comfort de algodão peruano, que custa mais por peça e não tem kit.",
           "Para o body que vai por baixo do blazer e segura o frio, o Gola Alta Manga Longa; para o dia a dia com jeans, o Duplo ou o Cavado.",
           "Para a alfaiataria de linho montada peça a peça, o blazer ou o colete com a calça ou o shorts da mesma cor, enquanto a grade do seu tamanho estiver aberta.",
           "Não vale para quem precisa saber a gramatura ou o toque antes de comprar: a página não traz, e isso só se decide com a peça na mão.",
@@ -179848,7 +179885,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Cléa Store é boa? Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10%; o que pesa é o tamanho e o preço por peça do kit, nos capítulos da camiseta e do cupom.",
-          "A camiseta da Cléa é boa? Pelo que a loja publica, é uma camiseta oversized de corpo 100% algodão, em dez cores e nos tamanhos P, M e G, sem a gramatura na página; o capítulo da camiseta resume e aponta o guia completo da peça.",
+          "A camiseta da Cléa é boa? Pelo que a loja publica, a oversized tem corpo 100% algodão, dez cores e tamanhos P, M e G, sem a gramatura na página, e a Comfort tem algodão peruano e caimento regular; o capítulo da camiseta resume e aponta o guia completo.",
           "A Cléa Store tem cupom? Tem: o CSEMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback; o capítulo do cupom mostra onde digitar.",
           "A Cléa Store é confiável? Sim, com ressalva: CNPJ ativo, dados publicados no site, devolução grátis e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui, com todas as reclamações respondidas, como mostra o capítulo de confiança.",
           "A Cléa Store tem tabela de medidas? Tem, na página de cada peça, no botão \"Tabela de Medidas\", com busto, cintura e quadril em centímetros; o capítulo de tamanho explica como usar."

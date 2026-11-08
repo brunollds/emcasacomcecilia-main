@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Camiseta Cléa Store pela ficha: composição do corpo e da gola, corte oversized, cores e tamanhos. Compare a avulsa com cinco kits e veja como calcular o preço por peça.",
-  "metaDescription": "CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta oversized, avulsa ou em cinco kits: compare o preço por peça.",
+  "description": "Camiseta Cléa Store pela ficha: a oversized de algodão penteado e a Comfort de algodão peruano, com composição, cores, tamanhos, cinco kits e o preço por peça.",
+  "metaDescription": "CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta oversized ou Comfort, avulsa ou em kit: compare o preço por peça.",
   "publishedAt": "23 de outubro de 2026",
   "publishedAtISO": "2026-10-23",
   "draft": false,
@@ -59,21 +59,21 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A camiseta da Cléa Store só existe em oversized, de corpo 100% algodão penteado, avulsa ou em kit de três. Toque, caimento e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica, e o que pesa na escolha é a cor e a quantidade. O CSEMCASACOMCECILIA dá 10% OFF no site, e soma com as promoções."
+        "A Cléa Store tem dois modelos de camiseta: a oversized de algodão penteado, avulsa ou em kit de três, e a Comfort de algodão peruano, de caimento regular. Toque e durabilidade ficam sem opinião: o guia responde só pelo que a loja publica. O CSEMCASACOMCECILIA dá 10% OFF no site, e soma com as promoções."
       ]
     },
     {
       "heading": "Tecido e composição: o que a ficha informa",
       "paragraphs": [
-        "A ficha informa corpo 100% algodão penteado premium e ribana da gola com 97% algodão e 3% elastano; os cinco kits repetem essa composição. O elastano está só na ribana, não no corpo.",
+        "Na oversized, a ficha informa corpo 100% algodão penteado premium e ribana da gola com 97% algodão e 3% elastano; os cinco kits repetem essa composição. O elastano está só na ribana, não no corpo.",
         "\"Algodão penteado premium\" é a denominação da loja, que descreve o tecido como leve, respirável e de toque natural e macio. A gramatura da malha não estava publicada."
       ]
     },
     {
-      "heading": "Modelagem: todas as camisetas são oversized",
+      "heading": "Modelagem: a oversized e a Comfort",
       "paragraphs": [
-        "Nas listagens de camisetas, essenciais, mais vendidos e roupas da loja, todas as camisetas são oversized. A loja chama a oversized de camiseta básica; não há corte regular nem baby look no catálogo da loja. A palavra \"oversized\" aparece na descrição de todos os modelos, inclusive no kit Essenciais, e a loja fala em caimento amplo.",
-        "Todos vêm em P, M e G. Como o corte é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher)."
+        "A loja tem dois cortes de camiseta. A oversized, que ela também chama de camiseta básica, tem caimento amplo, e a palavra aparece na descrição de todos os modelos dela, inclusive no kit Essenciais. A Comfort tem caimento regular e está no próximo capítulo. Baby look não aparece no catálogo.",
+        "Todos vêm em P, M e G. Como o corte da oversized é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher). A camiseta ao lado dos bodies e da alfaiataria está em [a Cléa Store é boa?](/reviews/clea-store-e-boa)."
       ],
       "styling": {
         "layout": "tabs",
@@ -89,6 +89,36 @@
                 "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402",
                 "note": "a página do shorts diz que ele combina com camisetas básicas"
               },
+              {
+                "label": "jeans"
+              },
+              {
+                "label": "saia"
+              },
+              {
+                "label": "calça de alfaiataria"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Camiseta Comfort: algodão peruano e caimento regular",
+      "paragraphs": [
+        "A [Camiseta Comfort Algodão Peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434) é o outro modelo da loja. A ficha informa corpo 100% algodão peruano, malha interlock, gola redonda com acabamento canelado e caimento regular, que a loja descreve como nem justo nem amplo. A gramatura também não está publicada.",
+        "Ela vem em off white, preto e marrom, nos tamanhos P, M e G, vendida avulsa, sem kit. O preço de lista é R$ 199,90, R$ 70,90 acima da oversized avulsa. Na campanha de Black Friday, a página mostra R$ 139,93, e com o cupom a conta dá R$ 125,94.",
+        "A escolha entre as duas é de corte e de quantidade. A oversized fica solta e pode vir em kit. A Comfort acompanha o corpo e custa mais por peça."
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Camiseta Comfort Algodão Peruano",
+            "url": "https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434",
+            "howTo": "Com jeans, shorts, saia ou alfaiataria, segundo a loja.",
+            "occasion": "Dia a dia; a loja também a indica para looks mais arrumados.",
+            "pairsWith": [
               {
                 "label": "jeans"
               },
@@ -185,7 +215,7 @@
         "Três avulsas ou um kit de três: R$ 348,30."
       ],
       "postParagraphs": [
-        "O CSEMCASACOMCECILIA dá 10% sobre o preço do dia, também em promoção e em qualquer forma de pagamento. Num kit promocional de R$ 258,00, o total com o cupom ficou em R$ 232,20. As condições estão na [página do cupom Cléa Store](/cupons/clea-store).",
+        "O CSEMCASACOMCECILIA dá 10% sobre o preço do dia, também em promoção e em qualquer forma de pagamento. Num kit promocional de R$ 258,00, o total com o cupom ficou em R$ 232,20. Em 08/11, com a Black Friday no ar, o Kit Classic de R$ 199,00 fechou em R$ 179,10, e os preços da campanha estão no [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). As condições estão na [página do cupom Cléa Store](/cupons/clea-store).",
         "Nos kits prontos, as cores vêm combinadas como mostra a tabela. No Essenciais, você escolhe as três e pode repetir. A avulsa atende quem quer apenas uma peça ou completar um kit."
       ],
       "images": [
@@ -214,7 +244,7 @@
     {
       "heading": "Como lavar a camiseta",
       "paragraphs": [
-        "A página lista estes cuidados:"
+        "Na oversized, a página lista estes cuidados:"
       ],
       "bullets": [
         "Lavar até 30 °C, em processo suave",
@@ -223,6 +253,9 @@
         "Secar em varal",
         "Não usar secadora",
         "Passar até 150 °C"
+      ],
+      "postParagraphs": [
+        "Na Comfort, a ficha muda: lavar até 40 °C, não usar alvejante, secar de preferência em varal à sombra, passar até 200 °C e não lavar a seco."
       ]
     },
     {
@@ -241,6 +274,7 @@
       ],
       "bullets": [
         "**Uma camiseta:** compare a cor e o tamanho da [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189).",
+        "**Corte regular:** a [Comfort](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434) atende quem não quer a camiseta larga, e custa mais por peça.",
         "**Três camisetas:** escolha entre as combinações prontas ou o Essenciais e refaça a conta por peça com os preços do dia.",
         "**Antes de decidir:** a composição é a informada pela loja, e a gramatura não estava publicada."
       ],
@@ -251,12 +285,13 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Camiseta Cléa Store é boa? Pela ficha, dá para comparar: corpo de algodão penteado, gola com elastano e corte oversized. Como a peça veste e resiste às lavagens não está na ficha; a comparação deste guia é de composição, cores, medidas e preço.",
+        "Camiseta Cléa Store é boa? Pela ficha, dá para comparar: a oversized tem corpo de algodão penteado, gola com elastano e corte amplo, e a Comfort tem algodão peruano e caimento regular. Como a peça veste e resiste às lavagens não está na ficha; a comparação deste guia é de composição, cores, medidas e preço.",
         "Kit camiseta Cléa Store vale a pena? Compare o preço do kit dividido por três com o preço da avulsa no mesmo dia. Nos valores de lista da tabela, não havia economia. O cupom também vale nas promoções; o kit só compensa pelo preço se o custo por peça ficar menor e você quiser três camisetas.",
-        "A Cléa Store tem camiseta básica? Tem, mas a \"básica\" da loja é a própria oversized: no catálogo da loja não há corte regular nem baby look.",
+        "A Cléa Store tem camiseta básica? Tem, e a \"básica\" da loja é a oversized, de corte amplo. Para corte regular, há a Comfort de algodão peruano. Baby look não aparece no catálogo.",
         "Como lavar a camiseta Cléa Store? Segundo a loja, até 30 °C, com sabão para roupa delicada, sem alvejante, secando no varal e passando até 150 °C.",
-        "Qual a composição da camiseta Cléa Store? Segundo a ficha, o corpo é 100% algodão penteado premium, e a ribana da gola tem 97% algodão e 3% elastano."
+        "Qual a composição da camiseta Cléa Store? Segundo a ficha, a oversized tem corpo 100% algodão penteado premium e ribana da gola com 97% algodão e 3% elastano. A Comfort tem corpo 100% algodão peruano."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-08"
 }
