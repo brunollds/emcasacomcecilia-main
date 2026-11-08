@@ -41983,6 +41983,18 @@ export const reviewsData: unknown[] = [
           "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum: exige pré-tratamento antes de bater: tira-manchas ou percarbonato de sódio, se a etiqueta da peça e as instruções do produto permitirem.",
           "3. **Aspecto amarelado:** notei que duas toalhas pareciam ligeiramente amareladas na dobra, o que me fez pensar em testar receitas de clareamento nos próximos ciclos.",
           "A grande conclusão: em dias de chuva ou tempo úmido, ter uma secadora em casa é uma verdadeira glória. Ela reduz o risco de as roupas ficarem dias no varal, pegarem cheiro de umidade ou mofarem no cesto por falta de sol."
+        ],
+        "links": [
+          {
+            "label": "Ver na Amazon",
+            "href": "https://link.amazon/B07YTVmpB",
+            "sponsored": true
+          },
+          {
+            "label": "Ver no Mercado Livre",
+            "href": "https://meli.la/2SnR3hH",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -42020,6 +42032,16 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
+            "label": "Ver na Amazon",
+            "href": "https://link.amazon/B07YTVmpB",
+            "sponsored": true
+          },
+          {
+            "label": "Ver no Mercado Livre",
+            "href": "https://meli.la/2SnR3hH",
+            "sponsored": true
+          },
+          {
             "label": "Vídeo Completo: Unboxing e primeiro uso da Samsung 13 kg no canal",
             "href": "/videos/minha-primeira-lava-e-seca-samsung-13kg-video"
           },
@@ -42030,16 +42052,6 @@ export const reviewsData: unknown[] = [
           {
             "label": "Manual e Suporte Oficial Samsung WD13FG",
             "href": "https://www.samsung.com/br/support/model/WD13FG6B34BEAZ/"
-          },
-          {
-            "label": "Ver opções e preços da Samsung WD13FG 13 kg na Amazon",
-            "href": "https://link.amazon/B07YTVmpB",
-            "sponsored": true
-          },
-          {
-            "label": "Ver opções e preços da Samsung WD13FG 13 kg no Mercado Livre",
-            "href": "https://meli.la/2SnR3hH",
-            "sponsored": true
           }
         ]
       },
