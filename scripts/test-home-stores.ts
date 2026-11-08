@@ -1,3 +1,4 @@
+import { getHomeCopy } from '@/components/sections/homeCopy';
 import assert from 'node:assert/strict';
 
 import { createElement } from 'react';
@@ -7,7 +8,7 @@ import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.sh
 
 import sitemap from '@/app/sitemap';
 import { CECILIA_PHOTO_COPY_PT } from '@/components/sections/CeciliaProfile';
-import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
+import { HomeCeciliaPanel, PT_CECILIA_PANEL } from '@/components/sections/HomeCeciliaPanel';
 import { HomeLatest } from '@/components/sections/HomeLatest';
 import { HomeStoreStrip } from '@/components/sections/HomeStoreStrip';
 import { getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
@@ -388,7 +389,7 @@ const stripHtml = renderToStaticMarkup(
   createElement(
     ImageConfigContext.Provider,
     { value: imageConfig },
-    createElement(HomeStoreStrip, { tabs, ceciliaPhoto: '/images/photos/BRU-1.jpg', selected: CECILIA_TAB_ID, onSelect: () => {} })
+    createElement(HomeStoreStrip, { tabs, ceciliaPhoto: '/images/photos/BRU-1.jpg', selected: CECILIA_TAB_ID, onSelect: () => {}, copy: getHomeCopy('pt') })
   )
 );
 const tablistAt = stripHtml.indexOf('role="tablist"');
@@ -406,7 +407,7 @@ for (const label of ['Ver lojas anteriores', 'Ver mais lojas']) {
 }
 
 const panelHtml = renderToStaticMarkup(
-  createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeCeciliaPanel))
+  createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeCeciliaPanel, { copy: PT_CECILIA_PANEL }))
 );
 const panelText = decodeEntities(panelHtml);
 for (const [key, text] of Object.entries(CECILIA_PHOTO_COPY_PT)) {
@@ -424,7 +425,7 @@ assert.doesNotMatch(panelPhoto, /fetchpriority/i, 'foto do painel em português 
 // O "Acabou de sair" desenha a capa pela mesma regra: inteira sobre fundo branco no contain, cortada e
 // com o recorte do imagePosition no cover. A lista do celular não leva foto, então só os cartões têm <img>.
 const latestHtml = renderToStaticMarkup(
-  createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeLatest, { articles: capasLatest }))
+  createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeLatest, { articles: capasLatest, copy: getHomeCopy('pt'), allHref: '/reviews' }))
 );
 const latestImage = (slug: string) => {
   const tag = (latestHtml.match(/<img\b[^>]*>/g) ?? []).find((candidate) => candidate.includes(slug));

@@ -33,7 +33,6 @@ export type LocaleFaqPage = {
 const HOME_QUESTION_KEYS = {
   who: ['faqWhoQuestion', 'faqWhoAnswer'],
   why: ['faqWhyQuestion', 'faqWhyAnswer'],
-  where: ['faqWhereQuestion', 'faqWhereAnswer'],
   contact: ['faqContactQuestion', 'faqContactAnswer'],
 } as const;
 
@@ -57,6 +56,7 @@ function resolveLink(link: FaqCopyLink, locale: TranslatedLocale): FaqLink {
 export function getLocaleFaqPage(locale: TranslatedLocale): LocaleFaqPage {
   const copy = LOCALE_FAQ_COPY[locale];
   const homeCopy = getLocaleHomeCopy(locale);
+  const homeAnswerOf = (key: 'who' | 'why' | 'contact') => homeCopy[HOME_QUESTION_KEYS[key][1]];
   const stores = getLocaleHomeStores(locale);
   const facts = getLocaleHomeFacts(locale, stores);
   const path = getFaqPath(locale);
@@ -67,11 +67,12 @@ export function getLocaleFaqPage(locale: TranslatedLocale): LocaleFaqPage {
 
   const toQuestion = (entry: FaqCopyEntry): FaqQuestion => {
     if ('home' in entry) {
-      const [questionKey, answerKey] = HOME_QUESTION_KEYS[entry.home];
       const override = HOME_FAQ_OVERRIDES[locale][entry.home];
+      const answer = entry.home === 'where' ? HOME_FAQ_OVERRIDES[locale].where.answer : override?.answer ?? homeAnswerOf(entry.home);
+      const questionKey = entry.home === 'where' ? 'faqWhereQuestion' : HOME_QUESTION_KEYS[entry.home][0];
       return {
         pergunta: override?.question ?? homeCopy[questionKey],
-        resposta: fillTemplate(override?.answer ?? homeCopy[answerKey], facts),
+        resposta: fillTemplate(answer, facts),
         link: override?.link ? resolveLink(override.link, locale) : undefined,
       };
     }

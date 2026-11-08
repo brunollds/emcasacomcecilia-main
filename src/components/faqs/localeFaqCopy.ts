@@ -167,12 +167,16 @@ export const FAQ_SOURCE_PT: FaqLocaleCopy = {
 // Os 9 idiomas fora do PT. Cada um segue a forma de FAQ_SOURCE_PT, com os mesmos ids de categoria.
 
 // Texto próprio do FAQ no lugar do da home, onde o texto da home não serve ao FAQ. A resposta de "onde uso cada
-// código" é trocada nos 9 idiomas: a home diz que cada loja parceira tem uma página no idioma do leitor, e só parte
-// das lojas tem (hoje a YesStyle, a SHEIN e a Hostinger). A home alemã ainda fala por "du" e o FAQ alemão por
-// "Sie", então o alemão troca também o contato. A home segue como está (localeHomeCopy.ts muda em outra fase).
+// código" existe só aqui, nos 9 idiomas: a home não fala mais dela, e a frase da home ("cada loja parceira tem uma
+// página no seu idioma") não vale, porque só parte das lojas tem página traduzida (hoje a YesStyle, a SHEIN e a Hostinger).
+// O alemão troca também o contato, em "Sie".
 export type HomeFaqOverride = { question?: string; answer?: string; link?: FaqCopyLink };
 
-export const HOME_FAQ_OVERRIDES: Record<TranslatedLocale, Partial<Record<HomeFaqKey, HomeFaqOverride>>> = {
+type HomeFaqOverrides = Partial<Record<Exclude<HomeFaqKey, 'where'>, HomeFaqOverride>> & {
+  where: HomeFaqOverride & { answer: string };
+};
+
+export const HOME_FAQ_OVERRIDES: Record<TranslatedLocale, HomeFaqOverrides> = {
   en: {
     where: {
       answer: 'The partner stores available in your language each have a page that explains the code, where to use it and when it was last checked.',
