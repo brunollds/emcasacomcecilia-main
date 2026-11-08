@@ -117,9 +117,9 @@
       }
     },
     {
-      "heading": "Os seis doces da Belive lidos pelo rótulo",
+      "heading": "Os seis doces da Belive e o que diz o rótulo",
       "paragraphs": [
-        "Tabelas nutricionais e listas de ingredientes das páginas de produto, lidas em 17/10/2026. Preço da unidade no site oficial no mesmo dia, sem o cupom."
+        "Tabelas nutricionais e listas de ingredientes dos produtos, com o preço da unidade no site oficial, sem o cupom."
       ],
       "images": [
         {
@@ -159,6 +159,7 @@
         }
       ],
       "comparisonTable": {
+        "caption": "Preço da unidade no site oficial, sem o cupom, 17/10",
         "headers": [
           "Doce",
           "Porção",

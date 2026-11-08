@@ -64,7 +64,7 @@
       ]
     },
     {
-      "heading": "Como lemos a linha: preço por 100 g de proteína",
+      "heading": "Preço por 100 g de proteína na linha",
       "paragraphs": [
         "A Black Skull vende 11 wheys e um kit de Turbo. A comparação considera proteína declarada por porção, custo dessa proteína, ingredientes e sabores cadastrados. O preço do pote sozinho não resume essas diferenças.",
         "O preço do pote engana porque dois potes de 900 g não têm a mesma quantidade de proteína dentro. A régua deste artigo é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100, com a tabela nutricional do rótulo e o preço de venda de 23/10/2026. Exemplo com o 80% HD: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína.",
@@ -227,14 +227,14 @@
     {
       "heading": "Atenção ao nome: wheys que não são o que parecem",
       "paragraphs": [
-        "O nome do pote nem sempre diz o que está dentro. Estes são os casos que mudam a conta, com os números da tabela nutricional ou da lista de ingredientes lidos no site."
+        "O nome do pote nem sempre diz o que está dentro. Estes são os casos que mudam a conta, com os números da tabela nutricional ou da lista de ingredientes que a loja publica."
       ],
       "bullets": [
         "[Whey 100% HD Gourmet 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-900/p): não é o 100% HD com outro sabor. A tabela traz 12 g de proteína em dose de 30 g (40%), contra 21 g em 35 g (60%) do 100% HD comum. O pote de 900 g custava R$ 129,90, ou R$ 36,08 por 100 g de proteína. O [refil de 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-refil-900/p) custava R$ 119,90 (R$ 33,31) e o [pote de 450 g](https://www.blackskullusa.com.br/whey-100-gourmet-450/p), R$ 84,90 (R$ 47,17, o maior número do quadro da linha).",
         "[Whey Protein (WPI, WPC, WPH) Refil 900 g](https://www.blackskullusa.com.br/whey-protein-refil-black-skull--900g-wpi-wpc-wph/p): o nome lembra o 3W Core, mas a tabela traz 11 g de proteína em dose de 25 g (44%), a menor proteína por dose da linha, e a lista não tem peptídeos. O 3W Core tem 31 g em 40 g. O refil custava R$ 99,90 (R$ 25,23 por 100 g de proteína), com 36 porções, e só o sabor Chocolate estava com estoque.",
         "[Whey Turbo Refil 907 g](https://www.blackskullusa.com.br/whey-turbo-refil--907g/p): é um hipercalórico, não um whey como os outros. A dose é de 120 g (12 colheres) e traz 30 g de proteína, 75 g de carboidrato e 479 kcal, com 7 doses. O refil custava R$ 79,90, e o [kit com 2 refis](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p), R$ 132,81 (preço de tabela R$ 139,80). A conta por 100 g de proteína dá R$ 38,05 no refil e R$ 31,62 no kit, mas é só de referência: junto com a proteína, o que você compra é carboidrato.",
         "\"100%\" no nome: não é 100% de proteína. O 100% HD tem 21 g em 35 g (60%) no pote e no refil de 900 g, e 21 g em 30 g (70%) no refil de 450 g.",
-        "Colágeno no 100% HD: o texto de venda da loja diz que o \"Blend Duo Protein\" integra as proteínas do soro do leite aos \"peptídeos hidrolisados de colágeno\" (refil de 900 g) e \"Whey + Colágeno Hidrolisado\" (1,8 kg), e as páginas do Gourmet repetem a descrição do blend. A lista de ingredientes diz só \"peptídeos hidrolisados\", sem origem, e a Black Skull não publica a quantidade (lido no site). Por isso não fazemos conta de colágeno nem estimamos a parte dele na dose. O 80% HD e o 3W Core não têm peptídeos na lista.",
+        "Colágeno no 100% HD: o texto de venda da loja diz que o \"Blend Duo Protein\" integra as proteínas do soro do leite aos \"peptídeos hidrolisados de colágeno\" (refil de 900 g) e \"Whey + Colágeno Hidrolisado\" (1,8 kg), e as páginas do Gourmet repetem a descrição do blend. A lista de ingredientes diz só \"peptídeos hidrolisados\", sem origem, e a Black Skull não publica a quantidade. Por isso não fazemos conta de colágeno nem estimamos a parte dele na dose. O 80% HD e o 3W Core não têm peptídeos na lista.",
         "Dose da página e dose do rótulo: a página do 100% HD Refil 900 g diz \"Dose: 30\", e a tabela nutricional do rótulo diz 35 g. As contas deste artigo usam o rótulo."
       ],
       "postParagraphs": [

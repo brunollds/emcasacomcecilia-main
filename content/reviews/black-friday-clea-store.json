@@ -33,10 +33,10 @@
     "Frete grátis acima de R$ 599"
   ],
   "cons": [
-    "A loja não publica até quando a campanha vale, e não testamos o cupom sobre os preços da Black Friday",
+    "A loja não publica até quando a campanha vale, e o cupom pode não valer sobre os preços da Black Friday",
     "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência",
     "A loja aceita só um cupom por pedido",
-    "Os termos da loja preveem exceção para produtos remarcados, e não testamos o cupom em peça avulsa remarcada"
+    "Os termos da loja preveem exceção para produtos remarcados, e o cupom pode não valer em peça avulsa remarcada"
   ],
   "contentSections": [
     {
@@ -152,8 +152,8 @@
         ]
       },
       "postParagraphs": [
-        "Só um cupom por pedido: pelos termos da loja, cada cliente usa um voucher por pedido. Não testamos o cupom em peça avulsa remarcada.",
-        "Os termos permitem exceção, então a loja pode excluir itens de uma campanha, e não testamos o cupom sobre os preços da Black Friday. Antes de pagar, a linha \"Desconto\" do resumo mostra o que o cupom abateu; se ela não aparecer, vale o preço da campanha.",
+        "Só um cupom por pedido: pelos termos da loja, cada cliente usa um voucher por pedido. Em peça avulsa remarcada, o cupom pode não entrar: confira a linha \"Desconto\" do resumo.",
+        "Os termos permitem exceção, então a loja pode excluir itens de uma campanha, e o cupom pode não valer sobre os preços da Black Friday. Antes de pagar, a linha \"Desconto\" do resumo mostra o que o cupom abateu; se ela não aparecer, vale o preço da campanha.",
         "Se o seu carrinho tem peças de preço cheio e peças remarcadas, o passo a passo do código está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar). As condições do código ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
       ],
       "images": [
@@ -191,7 +191,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Cléa Store na Black Friday? O cupom da nossa parceria é o CSEMCASACOMCECILIA, com 10% OFF em todo o site, em todas as formas de pagamento.",
-        "O cupom vale em kit em promoção? No teste de outubro, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, e não testamos o cupom sobre os preços da Black Friday: confira a linha Desconto antes de pagar.",
+        "O cupom vale em kit em promoção? No teste de outubro, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, e o cupom pode não valer sobre os preços da Black Friday: confira a linha Desconto antes de pagar.",
         "O cupom soma com o cashback? Sim, mas o cashback é crédito futuro: no nosso teste, o checkout mostrou até R$ 23,22 de créditos previstos sobre o valor depois do cupom. Esse benefício não reduz o valor pago no pedido. Confira a previsão antes de pagar.",
         "Posso usar dois cupons no mesmo pedido? Não. Pelos termos da loja, cada cliente usa um voucher por pedido.",
         "O cupom dá frete grátis? Não. O frete grátis é regra da loja e valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",

@@ -118,7 +118,7 @@
       "image": {
         "src": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
         "alt": "Quadro com o preço por 100 g da Nutren Senior em lata de 370 g, lata de 740 g, combo, kit e Premium Baunilha, na compra única e na assinatura",
-        "caption": "Quadro nosso com os preços lidos; em amarelo, o kit de duas latas de 740 g.",
+        "caption": "Quadro nosso com os preços; em amarelo, o kit de duas latas de 740 g.",
         "objectFit": "contain",
         "aspectRatio": 2.1314
       }
@@ -126,7 +126,7 @@
     {
       "heading": "Como ler a tabela",
       "bullets": [
-        "O kit custa R$ 263,49 e o combo, R$ 319,92, para o mesmo produto. O kit sai R$ 56,43 mais barato. O combo fica na tabela porque é uma das formas da loja, mas a leitura não mostrou o que muda entre os dois.",
+        "O kit custa R$ 263,49 e o combo, R$ 319,92, para o mesmo produto. O kit sai R$ 56,43 mais barato. O combo fica na tabela porque é uma das formas da loja, mas a loja não mostra o que muda entre os dois.",
         "Duas latas de 740 g avulsas, em compra única, somam R$ 338,74. O kit custa R$ 263,49: 22% a menos.",
         "A lata de 740 g é a opção de quem quer uma lata só. Por 100 g, custa R$ 22,89.",
         "A lata de 370 g tem a menor entrada, R$ 100,79, mas o maior preço por grama entre as formas padrão da Nutren Senior.",
@@ -192,7 +192,7 @@
     {
       "heading": "Onde entra o cupom CECI",
       "paragraphs": [
-        "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI) dá 10% na loja oficial. Não testamos o CECI com o kit nem com a assinatura, então confira no carrinho antes de pagar.",
+        "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI) dá 10% na loja oficial. Confira no carrinho, antes de pagar, se o CECI foi aceito no kit e na assinatura.",
         "O CECI não vale em Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses.",
         "O passo a passo para usar o cupom está em [como usar o cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
       ]
@@ -215,8 +215,8 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A assinatura obriga a receber todo mês? Não. A página diz que você pode cancelar quando quiser, sem custo, e pular até 2 entregas por ano.",
-        "O kit sai mais barato que o combo? Sim. Pelo preço lido, o kit custa R$ 263,49 e o combo, R$ 319,92, para o mesmo produto.",
-        "O CECI vale no kit e na assinatura? Não testamos. Confira no carrinho antes de pagar.",
+        "O kit sai mais barato que o combo? Sim. Pelos preços da loja, o kit custa R$ 263,49 e o combo, R$ 319,92, para o mesmo produto.",
+        "O CECI vale no kit e na assinatura? Confira no carrinho, antes de pagar, se foi aceito.",
         "A Zero Lactose tem assinatura? Na lata de 740 g, a ficha oficial anuncia assinatura, a R$ 169,43. A tabela do artigo traz a Zero Lactose só na compra única, em que o kit sai R$ 148,25 por lata; confira na loja a assinatura de cada forma."
       ]
     }

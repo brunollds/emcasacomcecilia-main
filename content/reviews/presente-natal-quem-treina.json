@@ -37,7 +37,7 @@
         "Quatro lojas parceiras vendem o que quem treina usa: Black Skull, Max Titanium, Probiótica e Dr. Peanut, com creatina, whey, coqueteleira, camiseta e snack. A Skelt, de beleza, entra com um só kit, como lembrança. Nenhuma delas agrupa os produtos por perfil ou por preço, e a pergunta \"o que dar, por quanto e em qual loja\" fica para quem compara à mão. Este guia faz essa comparação."
       ],
       "bullets": [
-        "Os preços são de venda, lidos em 25/10/2026 (os da Dr. Peanut foram lidos um dia antes e conferidos nessa data). Preço muda com promoção e estoque, e o carrinho é a referência final.",
+        "Os preços são de venda. Preço muda com promoção e estoque, e o carrinho é a referência final.",
         "\"Sem controle de estoque\" quer dizer que a loja não mostra a quantidade. Não prova que o item está disponível. Quando a loja mostra unidades por tamanho ou cor, o texto diz quais.",
         "Pré-treinos, termogênicos, colágeno e os kits com nome de atleta ficaram fora da lista.",
         "O cupom de cada loja vem depois da tabela, em Cupom de cada loja."
@@ -107,6 +107,7 @@
         "A tabela reúne os presentes das cinco lojas em três faixas, só com o preço de venda. O cupom de cada loja vem logo abaixo."
       ],
       "comparisonTable": {
+        "caption": "Preços de venda em 25/10/2026; os da Dr. Peanut, em 24/10/2026.",
         "headers": [
           "Faixa",
           "Presente",
@@ -445,7 +446,7 @@
       "bullets": [
         "Dá para dar suplemento de presente? Este guia não trata de saúde e não diz se um suplemento é indicado para alguém. Quem tem objetivo de saúde fala com nutricionista ou médico antes de comprar para outra pessoa.",
         "Como escolher o tamanho da camiseta? Use a tabela de medidas da página do produto e confira o tamanho no carrinho.",
-        "Os preços mudam? Sim. Os preços são os lidos para o guia, e o carrinho mostra o valor final.",
+        "Os preços mudam? Sim. Os preços são os do guia, e o carrinho mostra o valor final.",
         "Quando pedir para chegar antes do Natal? Consulte a previsão para o seu CEP durante a compra. As cinco lojas não publicam data limite de pedido para o Natal."
       ]
     }

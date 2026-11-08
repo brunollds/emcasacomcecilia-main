@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Mukebar, Crush Bar, Chocowheyfer e Veggie Wafer da Mais Mu comparados por unidade: proteína, açúcar, calorias e preço, com as tabelas da loja lidas em 25/10/2026.",
+  "description": "Mukebar, Crush Bar, Chocowheyfer e Veggie Wafer da Mais Mu comparados por unidade: proteína, açúcar, calorias e preço, a partir das tabelas nutricionais publicadas pela loja.",
   "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. Mukebar, Crush Bar, Chocowheyfer e Veggie Wafer: proteína, açúcar, calorias e preço por unidade.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
@@ -35,7 +35,7 @@
       "heading": "Os produtos numa tabela",
       "paragraphs": [
         "Esta tabela compara as barras e os wafers proteicos da Mais Mu à venda em 25/10/2026, uma linha por unidade. “Tabela” indica dado da tabela nutricional publicada; “texto” indica informação da descrição ou da embalagem mostrada na página.",
-        "A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela foi lida no sabor Chocolate com Avelã. Os outros sabores (Branco, Coco, Crocante, Cookies'n Cream, Mista e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura têm tabela lida em todos os sabores à venda: Chocolate, Morango, Doce de Leite e Cookies'n Cream na Max; Chocolate e Morango no Sem Cobertura. O peso e a proteína são os mesmos em cada linha."
+        "A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela é do sabor Chocolate com Avelã. Os outros sabores (Branco, Coco, Crocante, Cookies'n Cream, Mista e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura têm tabela em todos os sabores à venda: Chocolate, Morango, Doce de Leite e Cookies'n Cream na Max; Chocolate e Morango no Sem Cobertura. O peso e a proteína são os mesmos em cada linha."
       ],
       "comparisonTable": {
         "headers": [
@@ -100,7 +100,7 @@
       },
       "bullets": [
         "**Chocowheyfer Bites.** A embalagem diz 35 g e 6 g de proteína. A página diz 10 g por porção. A tabela da mesma página diz porção de 25 g e 6 g. Com três números diferentes, o produto não entra na comparação.",
-        "**Mukebar Chocolate Duo 720 g.** Esgotada na leitura.",
+        "**Mukebar Chocolate Duo 720 g.** Esgotada na loja.",
         "**Crush Bar Misto e Cookies'n Cream.** A página da Crush Bar os cita, mas eles não aparecem à venda na listagem.",
         "**Mukebar Trufa, Vegana e Pão de mel.** A descrição da Mukebar cita os três sabores, mas nenhum aparece à venda.",
         "**Paçoquita Power (pasta de amendoim).** A loja lista o produto, mas a página mostra \"preço sob consulta\", sem valor publicado. Sem preço, e fora da linha de barras e wafers, ela não entra na conta por unidade."
@@ -139,7 +139,7 @@
       ],
       "comparisonTable": {
         "headers": [
-          "Produto (sabor lido)",
+          "Produto (sabor)",
           "Porção",
           "kcal",
           "Proteína",
@@ -238,7 +238,7 @@
         ]
       },
       "postParagraphs": [
-        "Açúcar total é todo o açúcar do produto. Açúcar adicionado é só o que entra na fabricação. Nos onze sabores lidos, o adicionado é 0 g. A loja escreve \"zero adição de açúcar\" em parte da linha; a tabela da Avelã confirma o 0 g adicionado, mas mostra 3,7 g de açúcar total. O açúcar total vai de 0,1 g, no Veggie Wafer, a 3,7 g, na Mukebar.",
+        "Açúcar total é todo o açúcar do produto. Açúcar adicionado é só o que entra na fabricação. Nos onze sabores da tabela, o adicionado é 0 g. A loja escreve \"zero adição de açúcar\" em parte da linha; a tabela da Avelã confirma o 0 g adicionado, mas mostra 3,7 g de açúcar total. O açúcar total vai de 0,1 g, no Veggie Wafer, a 3,7 g, na Mukebar.",
         "Sem tabela publicada, a Paçoquita 40 g e os outros sabores da Mukebar 720 g ficam fora desta tabela."
       ]
     },
@@ -253,7 +253,7 @@
       "heading": "Alérgenos e o wafer vegetal",
       "paragraphs": [
         "A loja chama o Veggie Wafer de vegetal. Na descrição, ela escreve que o produto é \"ideal pra veganos, intolerantes ou quem só quer variar\". A página não mostra selo vegano. Na lista de ingredientes, não há leite nem lactose, mas o aviso de alérgenos diz \"pode conter leite\". Quem evita leite deve olhar esse aviso antes de comprar.",
-        "Lemos a lista de ingredientes e o aviso de alérgenos de três produtos, nas páginas dos produtos:"
+        "Lista de ingredientes e aviso de alérgenos de três produtos, como estão publicados nas páginas deles:"
       ],
       "bullets": [
         "**Mukebar Chocolate com Avelã:** CONTÉM GLÚTEN e CONTÉM LACTOSE. Tem derivados do leite e de soja, e pode conter amendoim, castanhas, aveia, centeio, cevada e ovos. Os adoçantes são maltitol e glicosídeos de esteviol.",
@@ -261,7 +261,7 @@
         "**Veggie Wafer 300 g, Chocolate:** CONTÉM GLÚTEN. Tem derivados de trigo e de soja. Não tem leite na lista, mas o aviso diz que pode conter leite, amendoim, avelãs e castanhas."
       ],
       "postParagraphs": [
-        "Nos demais produtos e sabores, a lista não foi lida: antes de comprar, confira o aviso de alérgenos na página de cada produto e na embalagem."
+        "Nos demais produtos e sabores, confira o aviso de alérgenos na página de cada produto e na embalagem antes de comprar."
       ]
     },
     {

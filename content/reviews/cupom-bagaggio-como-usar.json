@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Como usar o cupom CECILIA10 no site oficial da Bagaggio: 10% OFF em todo o site, passo a passo na sacola, o que ele soma com o Pix e onde não vale. Testado na sacola em 22/10/2026.",
+  "description": "Como usar o cupom CECILIA10 no site oficial da Bagaggio: 10% OFF em todo o site, passo a passo na sacola, o que ele soma com o Pix, o Outlet e onde não vale.",
   "metaDescription": "Onde colar o CECILIA10 na sacola da Bagaggio e o que ele soma com o Pix de 5%: 10% OFF em todo o site, inclusive no Outlet.",
   "publishedAt": "22 de outubro de 2026",
   "publishedAtISO": "2026-10-22",
@@ -55,7 +55,7 @@
     {
       "heading": "2. Monte a sacola",
       "paragraphs": [
-        "Escolha as malas e coloque na sacola. O cupom não entra na página do produto: ele entra na sacola, no resumo do pedido. No teste, a mala Downtown do Outlet aparecia por R$ 179,90, de R$ 249,90."
+        "Escolha as malas e coloque na sacola. O cupom não entra na página do produto: ele entra na sacola, no resumo do pedido. Por exemplo, a mala Downtown do Outlet aparecia por R$ 179,90, de R$ 249,90."
       ]
     },
     {
@@ -97,11 +97,12 @@
       ]
     },
     {
-      "heading": "O que aconteceu no nosso teste",
+      "heading": "Quanto fica com o cupom",
       "paragraphs": [
-        "Em 22/10/2026, montamos sacolas no site até o resumo, sem identificação e sem finalizar. Aplicamos o cupom nos três produtos da tabela. Não houve compra, e a sacola foi esvaziada depois."
+        "No resumo do pedido, o cupom entrou nos três produtos da tabela."
       ],
       "comparisonTable": {
+        "caption": "Valores na sacola do site, 22/10",
         "headers": [
           "Produto",
           "Preço no site",
@@ -119,13 +120,13 @@
             "Mala de Bordo KidGo Preta (preço cheio)",
             "R$ 1.499,90",
             "R$ 1.349,91",
-            "Não testamos"
+            "Confira no resumo"
           ],
           [
             "Mala de Bordo Detroit Preta (Outlet)",
             "R$ 249,90",
             "R$ 224,91",
-            "Não testamos"
+            "Confira no resumo"
           ]
         ]
       },
@@ -133,14 +134,14 @@
         {
           "src": "/images/reviews/bagaggio/cupom-quadro-conta-downtown.webp",
           "alt": "Quadro com a conta da mala Downtown Preta do Outlet: R$ 249,90 de tabela, R$ 179,90 na loja, R$ 161,91 com o CECILIA10 e R$ 153,81 no Pix",
-          "caption": "Conta da Downtown Preta do Outlet no teste. Quadro feito por nós.",
+          "caption": "Conta da Downtown Preta do Outlet. Quadro feito por nós.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         {
           "src": "/images/reviews/bagaggio/cupom-teste-kidgo-detroit.webp",
           "alt": "As malas de bordo KidGo Preta e Detroit Preta da Bagaggio, lado a lado, em fotos oficiais da loja",
-          "caption": "Os outros dois produtos do teste: a KidGo Preta, a preço cheio, e a Detroit Preta, do Outlet. Fotos oficiais da loja.",
+          "caption": "Os outros dois produtos da tabela: a KidGo Preta, a preço cheio, e a Detroit Preta, do Outlet. Fotos oficiais da loja.",
           "objectFit": "contain",
           "aspectRatio": 2.1053
         }

@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "Somamos as peças avulsas de 32 conjuntos Bagaggio: 24 custam a soma exata e 6 saem mais baratos. Veja a diferença de cada um e o que conferir antes de comprar.",
-  "metaDescription": "CECILIA10: 10% OFF na Bagaggio. Dos 32 conjuntos conferidos, 24 custam a soma das peças avulsas. Veja a conta e confira o total no carrinho.",
+  "metaDescription": "CECILIA10: 10% OFF na Bagaggio. Em 24 de 32 conjuntos, o preço é a soma das peças avulsas. Veja a conta e confira o total no carrinho.",
   "publishedAt": "29 de outubro de 2026",
   "publishedAtISO": "2026-10-29",
   "updatedAt": "2026-11-07",
@@ -29,15 +29,16 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pelo preço dos produtos, 24 dos 32 conjuntos conferidos não economizavam em relação às mesmas peças avulsas. Seis conjuntos disponíveis custavam menos. Isso só favorece o conjunto se você precisar de todas as malas; compare o total no carrinho, onde o CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
+        "Pelo preço dos produtos, 24 dos 32 conjuntos não economizavam em relação às mesmas peças avulsas. Seis conjuntos disponíveis custavam menos. Isso só favorece o conjunto se você precisar de todas as malas; compare o total no carrinho, onde o CECILIA10 dá 10% OFF em todo o site, com um cupom por pedido."
       ]
     },
     {
       "heading": "A conta de 12 conjuntos",
       "paragraphs": [
-        "Conferimos 32 dos mais de 150 conjuntos da busca, os que usam peças da mesma linha vendidas também avulsas, e 24 custam a soma exata das peças. A tabela traz as linhas com diferença e um exemplo de cada tipo que não tem diferença. Os preços são do cartão, lidos nas fichas da loja em 29/10/2026."
+        "Dos mais de 150 conjuntos da busca, 32 usam peças da mesma linha vendidas também avulsas, e 24 deles custam a soma exata das peças. A tabela traz as linhas com diferença e um exemplo de cada tipo que não tem diferença. Os preços são do cartão."
       ],
       "comparisonTable": {
+        "caption": "Conjuntos Bagaggio: preço do cartão em 29/10",
         "headers": [
           "Conjunto",
           "Preço do conjunto (cartão)",
@@ -134,14 +135,14 @@
       },
       "postParagraphs": [
         "Na Santiago P e G, a versão Preta tem a mesma conta da Azul: R$ 824,85 contra R$ 849,80.",
-        "O CECILIA10 dá 10% em todo o site, inclusive em produto com desconto, e o Pix tira mais 5%. Ainda não testamos o cupom num conjunto, então confira a linha de descontos no resumo do pedido antes de pagar.",
+        "O CECILIA10 dá 10% em todo o site, inclusive em produto com desconto, e o Pix tira mais 5%. Confira a linha de descontos no resumo do pedido antes de pagar.",
         "O conjunto Downtown PP e Detroit G Preta também está no [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio), com o mesmo preço."
       ]
     },
     {
       "heading": "Como fizemos a soma",
       "paragraphs": [
-        "Soma é o preço de venda das peças avulsas da mesma linha, cor e medida do conjunto, lidas no mesmo dia. Diferença é o preço do conjunto menos essa soma. Zero quer dizer que o conjunto custa o mesmo que as peças compradas separadas.",
+        "Soma é o preço de venda das peças avulsas da mesma linha, cor e medida do conjunto. Diferença é o preço do conjunto menos essa soma. Zero quer dizer que o conjunto custa o mesmo que as peças compradas separadas.",
         "Para saber qual peça vem em cada conjunto, usamos a medida e a capacidade da ficha. No Detroit P e M Preta, a ficha dá a mala M com 66 x 41,5 x 26 cm e 71,2 litros. É a medida da [Média 24\" Preta II](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), que avulsa custava R$ 379,90. Por isso a soma é R$ 629,80, e não R$ 599,80, que seria a conta com a Média 26\".",
         "No Malta P e M Branca e Marrom, a ficha dá 55 x 35 x 20 cm e 38,5 litros na P, e 67 x 45 x 25 cm e 75,3 litros na M. São as medidas da [Malta 10 kg Branca e Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 549,90, e da [Malta Média 23 kg Branca e Marrom](https://www.bagaggio.com.br/mala-media-23-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 649,90."
       ],
@@ -181,7 +182,7 @@
         "Você quer as malas da mesma cor? A cor de cada peça está na ficha do conjunto."
       ],
       "postParagraphs": [
-        "Os conjuntos de três malas que conferimos custam a soma exata das peças. O [Detroit P, M e G Preta](https://www.bagaggio.com.br/kit-mala-detroit-preta-p-m-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) sai por R$ 979,70 e o [Cartagena P, M e G Preta](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-cartagena-preta-p-m-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) por R$ 1.399,70, os mesmos valores das três peças compradas separadas."
+        "Os conjuntos de três malas custam a soma exata das peças. O [Detroit P, M e G Preta](https://www.bagaggio.com.br/kit-mala-detroit-preta-p-m-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) sai por R$ 979,70 e o [Cartagena P, M e G Preta](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-cartagena-preta-p-m-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) por R$ 1.399,70, os mesmos valores das três peças compradas separadas."
       ]
     },
     {
@@ -199,18 +200,18 @@
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
-        "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido. No nosso teste, numa mala avulsa, o Pix tirou 5% sobre o total que já tinha o cupom.",
-        "Pela regra, o cupom vale em todo o site, mas ainda não fizemos o teste num conjunto. As condições atualizadas ficam na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo está em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+        "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido. O Pix tira mais 5% sobre o total que já tem o cupom.",
+        "Pela regra, o cupom vale em todo o site; confira o desconto no resumo do pedido do conjunto. As condições atualizadas ficam na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo está em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Conjunto de malas Bagaggio compensa? Se você precisa de todas as peças e o custo final for menor que o das mesmas malas avulsas, pode compensar. Dos 32 conjuntos conferidos, 24 custam a soma exata dos produtos avulsos.",
+        "Conjunto de malas Bagaggio compensa? Se você precisa de todas as peças e o custo final for menor que o das mesmas malas avulsas, pode compensar. Dos 32 conjuntos, 24 custam a soma exata dos produtos avulsos.",
         "Havia conjuntos mais baratos que as peças separadas? Seis disponíveis: Malta P e M Branca e Marrom, Malta P e M Preta, Nova Bahamas P e G Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta.",
         "Qual tinha a maior diferença de preço? Entre os disponíveis, o Malta P e M Branca e Marrom: R$ 174,95 abaixo das peças avulsas. O Nova Bahamas P e G Bege tinha diferença maior, mas estava sem estoque.",
         "Conjunto de 3 malas de bordo Bagaggio vale a pena? Pelo preço, não muda nada. O conjunto de três malas de bordo Detroit custava R$ 749,70, o mesmo que três malas avulsas de R$ 249,90.",
-        "O cupom CECILIA10 vale para conjunto de malas? Pela regra, o CECILIA10 vale em todo o site, inclusive em produto com desconto. Ainda não testamos o cupom num conjunto, então confira o desconto no resumo do pedido.",
+        "O cupom CECILIA10 vale para conjunto de malas? Pela regra, o CECILIA10 vale em todo o site, inclusive em produto com desconto. Confira o desconto no resumo do pedido.",
         "Por que o conjunto tem preço de lista maior que a soma das peças? Porque a lista do conjunto é a soma das listas das peças, não dos preços de venda. A comparação que vale é com o preço de venda das peças avulsas."
       ]
     }
@@ -234,7 +235,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
+  "editorialNote": "Feito com as fichas públicas da loja. Ninguém da equipe usou os produtos. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "black-friday-bagaggio"

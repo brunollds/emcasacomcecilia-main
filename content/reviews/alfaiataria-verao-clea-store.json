@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Blazer, colete e shorts de linho e de mistura da Cléa Store, com a grade do dia e as três montagens de conjunto com o cupom de 10%, lidas em 24/10/2026.",
+  "description": "Blazer, colete e shorts de linho e de mistura da Cléa Store, com a grade, o preço de cada peça e as três montagens de conjunto com o cupom de 10% OFF.",
   "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Alfaiataria de verão: blazer, colete e calça, grade do dia e três montagens de conjunto.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
@@ -35,8 +35,7 @@
       "heading": "Conjuntos prontos e peças avulsas",
       "paragraphs": [
         "A Cléa Store vende peças avulsas. No catálogo de outubro, o único conjunto à venda era o de crochê, por R$ 1.490. A loja tem uma página de [conjunto de alfaiataria amarelo, com calça e colete](https://www.cleastore.com.br/produto/conjunto-alfaiataria-amarelo-calca-e-colete-3877) que não aparecia na grade de outubro: confira a disponibilidade no site. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
-        "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor, em linho ou em linho com algodão. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
-        "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das páginas da loja."
+        "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor, em linho ou em linho com algodão. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom."
       ]
     },
     {
@@ -134,7 +133,7 @@
       "images": [
         {
           "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-tabela-tecido.webp",
-          "alt": "Tabela com composição, forro, preço e grade das peças de linho e alfaiataria da Cléa Store, lidas em 24/10/2026.",
+          "alt": "Tabela com composição, forro, preço e grade das peças de linho e alfaiataria da Cléa Store.",
           "caption": "Dados da ficha e do site, sem cupom.",
           "objectFit": "contain",
           "aspectRatio": 0.798
@@ -148,7 +147,7 @@
         "O de linho 100% (4404) custa R$ 899,00 e tem grade de M e G. A ficha não informa forro.",
         "A página do curto cropped (4348) diz 95% poliéster e 5% elastano. Custa R$ 428,00, com P e M, e a ficha não informa forro.",
         "O oversized de mescla (4307) é de 70% poliéster e 30% viscose, com forro de 97% poliéster e 3% elastano. Custa R$ 524,30, de R$ 749,00, mas só tem P.",
-        "Os dois blazers esgotados, o risca de giz (4282) e o bordô (4305), não entram nas montagens: no dia da leitura, nenhum dos dois tinha tamanho disponível.",
+        "Os dois blazers esgotados, o risca de giz (4282) e o bordô (4305), não entram nas montagens: em outubro, nenhum dos dois tinha tamanho disponível.",
         "Se a pergunta é qual tecido usar no calor, a ficha só diz a composição. Veja o capítulo Calor: o que a ficha permite dizer."
       ],
       "styling": {
@@ -271,7 +270,7 @@
     {
       "heading": "Pantalona ou wide leg de alfaiataria",
       "paragraphs": [
-        "Só duas calças de alfaiataria aparecem no catálogo lido. A Calça Caqui Linho (4416), de linho e algodão 70/30, tem 36 e 38, e a ficha a descreve como wide leg. A Calça Linho Vermelha (4414), também 70/30, tem 36 e 38 e também é wide leg segundo a ficha. As duas estão em pré-venda.",
+        "Só duas calças de alfaiataria aparecem no catálogo da loja. A Calça Caqui Linho (4416), de linho e algodão 70/30, tem 36 e 38, e a ficha a descreve como wide leg. A Calça Linho Vermelha (4414), também 70/30, tem 36 e 38 e também é wide leg segundo a ficha. As duas estão em pré-venda.",
         "A Calça Wide Leg Areia (4382), R$ 756,00, de 36 a 42, é de algodão, mas a ficha a chama de calça jeans. Por isso ela não entra como alfaiataria. Serve só como alternativa de algodão, com essa ressalva."
       ]
     },
@@ -285,6 +284,7 @@
     {
       "heading": "Grade do dia: o que ainda dá para comprar",
       "comparisonTable": {
+        "caption": "Preços e grade de 24/10/2026.",
         "headers": [
           "Peça",
           "Preço no site",
@@ -417,7 +417,7 @@
   },
   "coupon": "CSEMCASACOMCECILIA",
   "affiliate": "clea-store",
-  "editorialNote": "Podemos receber comissão por compras feitas com o cupom e o link deste texto.",
+  "editorialNote": "Podemos receber comissão por compras feitas com o cupom e o link deste texto. Ninguém da equipe usou as peças.",
   "relatedArticles": [
     {
       "slug": "look-trabalho-alfaiataria-feminina-clea-store"

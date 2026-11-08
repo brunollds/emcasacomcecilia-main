@@ -47,8 +47,8 @@
       ],
       "image": {
         "src": "/images/reviews/bagaggio/bf-linha-do-tempo.webp",
-        "alt": "Linha do tempo da Black Friday Bagaggio 2026: preços lidos em 22/10, releitura no fim de outubro, Black Friday em 27/11 e Cyber Monday em 30/11",
-        "caption": "As datas da Black Friday Bagaggio 2026: preços lidos, releitura no fim de outubro, Black Friday e Cyber Monday.",
+        "alt": "Linha do tempo da Black Friday Bagaggio 2026, com a Black Friday em 27/11 e a Cyber Monday em 30/11",
+        "caption": "As datas da Black Friday Bagaggio 2026: Black Friday e Cyber Monday.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -56,7 +56,7 @@
     {
       "heading": "Preços para comparar",
       "paragraphs": [
-        "Estes são os preços de venda sem cupom de outubro, lidos em 22/10/2026, antes da campanha: a régua para saber se o preço da Black Friday é desconto novo. Quando o produto mostrava preço cheio, a tabela traz os dois valores."
+        "Estes são os preços de venda sem cupom de outubro, antes da campanha: a régua para saber se o preço da Black Friday é desconto novo. Quando o produto mostrava preço cheio, a tabela traz os dois valores."
       ],
       "comparisonTable": {
         "headers": [
@@ -108,7 +108,7 @@
         ]
       },
       "postParagraphs": [
-        "Na leitura, a mala Route de 32 kg saiu por menos que a de 23 kg. Confira os dois antes de comparar.",
+        "Na tabela, a mala Route de 32 kg saiu por menos que a de 23 kg. Confira os dois antes de comparar.",
         "A Detroit de 32 kg apareceu em três cores (vermelha, prata e rosé), todas pelo mesmo preço. As malas do Outlet ficam fora desta tabela, porque o Outlet tem regra própria.",
         "O preço do site muda sem aviso. Confira o produto no dia da compra."
       ],
@@ -123,7 +123,7 @@
     {
       "heading": "Cupom na sacola: a conta com o Pix",
       "paragraphs": [
-        "Montamos a sacola no site, sem finalizar a compra. Com a Mala de Bordo PP Downtown Preta, que estava por R$ 179,90, o CECILIA10, que dá 10% OFF em todo o site, tirou mais R$ 17,99 e o total ficou em R$ 161,91. No Pix, a loja deu mais 5% sobre esse total, e o valor caiu para R$ 153,81.",
+        "Com a Mala de Bordo PP Downtown Preta, que estava por R$ 179,90, o CECILIA10, que dá 10% OFF em todo o site, tirou mais R$ 17,99 e o total ficou em R$ 161,91. No Pix, a loja deu mais 5% sobre esse total, e o valor caiu para R$ 153,81.",
         "O cupom entra no campo \"Cupom de desconto\" do resumo do pedido. O outro campo, \"Código de vendedor(a) ou influenciador(a)\", não é para ele. O passo a passo está em [Cupom Bagaggio: como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
       ],
       "bullets": [
@@ -134,12 +134,12 @@
         "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
       ],
       "postParagraphs": [
-        "Não testamos o CECILIA10 sobre os preços da Black Friday nem sobre o leve 3, pague 2. Aplique o cupom na sacola e confira a linha do desconto antes de pagar: se ele não entrar, vale a oferta da loja."
+        "Aplique o CECILIA10 na sacola e confira a linha do desconto antes de pagar, nos preços da Black Friday e no leve 3, pague 2: se ele não entrar, vale a oferta da loja."
       ],
       "image": {
         "src": "/images/reviews/bagaggio/bagaggio-downtown-preta.webp",
         "alt": "Mala de Bordo PP Downtown Preta, de frente, com a alça puxada",
-        "caption": "Mala de Bordo PP Downtown Preta, a do teste. Foto oficial da loja.",
+        "caption": "Mala de Bordo PP Downtown Preta, a da conta do cupom. Foto oficial da loja.",
         "objectFit": "portrait",
         "aspectRatio": 0.5057
       }
@@ -202,8 +202,8 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Quando começa e quanto dura a Black Friday da Bagaggio? Já começou: a página de Black Friday da loja anuncia até 70% OFF, e a home traz o leve 3, pague 2. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
-        "O cupom CECILIA10 vale na Black Friday? Ele vale em todo o site, com o Pix. Se soma com os preços da campanha, não testamos: aplique na sacola e confira a linha do desconto antes de pagar.",
-        "O leve 3, pague 2 soma com o cupom? Não testamos. A promoção é da loja, e as condições dela aparecem no site. Confira o total da sacola com o cupom antes de pagar.",
+        "O cupom CECILIA10 vale na Black Friday? Ele vale em todo o site, com o Pix. Nos preços da campanha, aplique na sacola e confira a linha do desconto antes de pagar.",
+        "O leve 3, pague 2 soma com o cupom? A promoção é da loja, e a página da campanha não diz se algum cupom soma com ela. Confira o total da sacola com o cupom antes de pagar.",
         "Garantia vitalícia vale para mochila? Não. Ela vale só para malas da marca compradas depois do início do programa.",
         "Dá para retirar na loja? Sim, quando há loja perto. Espere o aviso de pedido pronto, sem contar só com o prazo de 3 horas que a página cita. Precisa do titular da compra, com documento original com foto.",
         "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2KeydkG)."
@@ -228,7 +228,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECILIA10.",
+  "editorialNote": "Preços conferidos no site da loja. Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom CECILIA10.",
   "relatedArticles": [
     {
       "slug": "bagaggio-e-confiavel"
