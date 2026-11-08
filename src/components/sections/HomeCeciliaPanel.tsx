@@ -1,6 +1,7 @@
 import { ArrowRight, Coffee, Leaf, MessageCircle, UtensilsCrossed } from 'lucide-react';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
+import { HostingerPartnerBadge } from '@/components/ui/HostingerPartnerBadge';
 import {
   CECILIA_PHOTO_COPY_PT,
   CECILIA_SOCIAL_LINKS,
@@ -95,6 +96,7 @@ export function HomeCeciliaPanel() {
             </span>
           </span>
         </TrackedHomeLink>
+        <HostingerPartnerBadge />
         <CeciliaStats stats={stats} />
         <p className="text-[13px] leading-[1.45] font-semibold text-white/70">
           Escolha uma loja nas bolinhas para ver o código e os artigos dela.

@@ -3,6 +3,7 @@ import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { CertificateDialog } from '@/components/sections/CertificateDialog';
 import { CeciliaPhotoCard, CeciliaStats, SocialIcon } from '@/components/sections/CeciliaProfile';
 import { FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
+import { HostingerPartnerBadge } from '@/components/ui/HostingerPartnerBadge';
 import type { LocaleHomeContent } from '@/lib/localeHome';
 
 // Hero da home de cada idioma: o painel marinho da home em português (título, cartão de foto e números
@@ -56,20 +57,23 @@ export function LocaleHomeHero({ hero }: { hero: LocaleHomeContent['hero'] }) {
             </li>
           </ul>
 
-          <div className="flex items-center gap-3 rounded-xl bg-amarelo-cupom px-3 py-2.5 text-marinho">
-            <Star aria-hidden="true" className="size-6 shrink-0 fill-marinho" />
-            <div className="flex min-w-0 flex-1 flex-col sm:flex-row sm:items-center sm:justify-between sm:gap-3">
-              <p className="flex min-w-0 flex-1 flex-col">
-                <span className="text-sm font-extrabold">{hero.certificate.title}</span>
-                <span className="text-xs font-semibold">{hero.certificate.tier}</span>
-              </p>
-              <CertificateDialog
-                image={hero.certificate.image}
-                title={hero.certificate.title}
-                linkLabel={hero.certificate.linkLabel}
-                closeLabel={hero.certificate.closeLabel}
-              />
+          <div className="flex flex-wrap items-center gap-3">
+            <div className="flex items-center gap-3 rounded-xl bg-amarelo-cupom px-3 py-2.5 text-marinho">
+              <Star aria-hidden="true" className="size-6 shrink-0 fill-marinho" />
+              <div className="flex min-w-0 flex-1 flex-col sm:flex-row sm:items-center sm:justify-between sm:gap-3">
+                <p className="flex min-w-0 flex-1 flex-col">
+                  <span className="text-sm font-extrabold">{hero.certificate.title}</span>
+                  <span className="text-xs font-semibold">{hero.certificate.tier}</span>
+                </p>
+                <CertificateDialog
+                  image={hero.certificate.image}
+                  title={hero.certificate.title}
+                  linkLabel={hero.certificate.linkLabel}
+                  closeLabel={hero.certificate.closeLabel}
+                />
+              </div>
             </div>
+            <HostingerPartnerBadge />
           </div>
 
           <CeciliaStats stats={hero.stats} />

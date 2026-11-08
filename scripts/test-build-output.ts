@@ -2024,6 +2024,9 @@ for (const url of recipeUrls) {
 // - nada escondido pela rolagem no HTML;
 // - o logo das páginas do idioma levando a ela, e a home no sitemap e no llms.txt.
 const homeAlternates = Object.entries(getHomeLanguageLinks()).map(([hreflang, href]) => `${hreflang} ${href}`).sort();
+// O selo da Hostinger no painel da Cecília, nas 10 homes: uma vez, com o nome acessível (é marca, não se traduz).
+const assertPartnerBadge = (where: string, html: string) =>
+  assert.equal(html.split('role="img" aria-label="Hostinger Partner"').length - 1, 1, `${where}: selo da Hostinger não aparece uma vez na home`);
 {
   const rootHead = headOf(read(path.join(APP_DIR, 'index.html')));
   assert.deepEqual(
@@ -2094,6 +2097,7 @@ for (const locale of LOCALE_HOME_LOCALES) {
 
   const main = html.match(/<main\b[\s\S]*<\/main>/)?.[0] ?? '';
   const body = bodyOf(html);
+  assertPartnerBadge(pagePath, body);
   assert.equal((body.match(/<h1\b/g) ?? []).length, 1, `${pagePath}: H1`);
   assert.ok(!html.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
   // O aviso de cookies só monta no navegador.
@@ -3034,6 +3038,7 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
 const homeFile = builtFile(`${SITE_URL}/`);
 assert.ok(homeFile, '/: página não gerada no build');
 const homeBody = bodyOf(read(homeFile));
+assertPartnerBadge('/', homeBody);
 // O código com prazo da vitrine e a faixa da data valem pela hora em que a página foi gerada, não pela de agora.
 const homeBuiltAt = fs.statSync(homeFile).mtime;
 const homeExpected: HomeExpectations = {
