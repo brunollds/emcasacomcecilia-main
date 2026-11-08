@@ -96,3 +96,7 @@ Dor 20/25, demanda 17/20, valor além do oficial 16/20, visita 11/15, cluster 9/
 - **Revisão:** externa, no lugar do Fable (parecer de 08/11, em `docs/auditoria-copy-artigos/novos-20261108-insider-camisas/PARECER.md`, no checkout principal). Aplicado, menos duas coisas: o link do cupom ficou no texto, com a âncora deste briefing, e não em `links[]`; o veredito usa a forma de moda do Job 2 ("Se fosse para a minha casa...") no cartão de destaque, e não "Eu consideraria".
 - **Capa:** aprovada pelo Bruno e pelo parecer, a partir da opção B.
 - **Origem das fotos:** todas oficiais da Insider, da página `camisa-futureform-masculino` (`1_` a `6_CAMISA_FUTUREFORM_MASC_PRETO_2024`, `01_CAMISAFUTUREFORM_OFFWHITE_2026`).
+
+## 9. Card de estilo
+
+Incluído em 08/11/2026, depois de no ar: o Job 1 e o Anexo-Moda já pediam o card, e o briefing não o propôs. Rascunho e verificação por agentes, revisão da sessão. Os links e as fotos do artigo não mudaram.

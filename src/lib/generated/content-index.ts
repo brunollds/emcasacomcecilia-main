@@ -195769,6 +195769,31 @@ export const reviewsData: unknown[] = [
           "caption": "O caimento visto de costas. Foto: Insider.",
           "objectFit": "square",
           "href": "https://creators.insiderstore.com.br/gbv5j9U"
+        },
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camisa FutureForm masculina",
+              "url": "https://creators.insiderstore.com.br/gbv5j9U",
+              "howTo": "Use com camiseta por baixo, para o visual social casual. Deixe a barra por fora da calça, como nas fotos da loja.",
+              "occasion": "Trabalho sem formalidade e fim de semana.",
+              "pairsWith": [
+                {
+                  "label": "Calça FutureForm masculina",
+                  "url": "https://creators.insiderstore.com.br/BnhNLQr"
+                },
+                {
+                  "label": "Calça Director",
+                  "url": "https://creators.insiderstore.com.br/tyUZiw9",
+                  "note": "A de passantes para cinto."
+                },
+                {
+                  "label": "chino bege"
+                }
+              ]
+            }
+          ]
         }
       },
       {
@@ -196008,6 +196033,30 @@ export const reviewsData: unknown[] = [
           "caption": "De costas, a barra passa do quadril. Foto: Insider.",
           "objectFit": "square",
           "href": "https://creators.insiderstore.com.br/gWrsRGL"
+        },
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Camisa FutureForm feminina",
+              "url": "https://creators.insiderstore.com.br/gWrsRGL",
+              "howTo": "Aberta sobre uma blusa, como nas fotos da loja.",
+              "occasion": "Trabalho e reuniões, ou combinações mais despojadas.",
+              "pairsWith": [
+                {
+                  "label": "Calça FutureForm feminina",
+                  "url": "https://creators.insiderstore.com.br/xi4EYLQ"
+                },
+                {
+                  "label": "Saia Midi Tokyo FutureForm",
+                  "url": "https://creators.insiderstore.com.br/HG6m79S"
+                },
+                {
+                  "label": "jeans escuro"
+                }
+              ]
+            }
+          ]
         }
       },
       {
@@ -196262,7 +196311,31 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Calça Tecnológica FutureForm",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Com a barra afunilada, use tênis ou sapatilha. Com cintura alta, a blusa pode ficar por dentro.",
+              "occasion": "Dias quentes, como indica a loja.",
+              "pairsWith": [
+                {
+                  "label": "Camisa FutureForm feminina",
+                  "url": "https://creators.insiderstore.com.br/gWrsRGL"
+                },
+                {
+                  "label": "Tech T-Shirt feminina",
+                  "url": "https://creators.insiderstore.com.br/52ZMYx2"
+                },
+                {
+                  "label": "regata clara lisa"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Calça Wide Leg UltraBold: a opção de pernas amplas",
@@ -196285,7 +196358,27 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-wide-leg-com-bolso-ultrabold-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Calça Wide Leg UltraBold",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-wide-leg-com-bolso-ultrabold-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Com a perna larga, use tênis ou sapatilha. A blusa pode ficar por dentro do cós elástico.",
+              "occasion": "Dias amenos e frios, como indica a loja.",
+              "pairsWith": [
+                {
+                  "label": "Tech T-Shirt Manga Longa feminina",
+                  "url": "https://creators.insiderstore.com.br/TQxS7si"
+                },
+                {
+                  "label": "suéter leve de cor neutra"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "E a Reta Ajustável FutureForm?",
@@ -196567,7 +196660,31 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-masculina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Calça Tecnológica FutureForm",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-masculina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "A cintura é alta: use a camisa para dentro do cós ou a camiseta lisa por fora.",
+              "occasion": "Dia a dia e trabalho.",
+              "pairsWith": [
+                {
+                  "label": "Camisa FutureForm masculina",
+                  "url": "https://creators.insiderstore.com.br/gbv5j9U"
+                },
+                {
+                  "label": "Tech T-Shirt",
+                  "url": "https://creators.insiderstore.com.br/axB7p3y"
+                },
+                {
+                  "label": "tênis branco"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Calça Director: corte reto e passantes para cinto",
@@ -196590,7 +196707,29 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-director-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Calça Director",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-director-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Passe o cinto pelos passantes e ponha a camisa para dentro do cós.",
+              "occasion": "Trabalho com roupa social.",
+              "pairsWith": [
+                {
+                  "label": "camisa social lisa"
+                },
+                {
+                  "label": "blazer azul-marinho ou cinza"
+                },
+                {
+                  "label": "sapato social"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Calça Hybrid Jogger: barra fechada para quem prefere esse corte",
@@ -196613,7 +196752,30 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/hybrid-jogger?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "Calça Jogger Hybrid",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/hybrid-jogger?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "howTo": "Com a barra fechada, use tênis, como nas fotos da loja.",
+              "occasion": "Trabalho remoto, passeios e viagens, na indicação da loja.",
+              "pairsWith": [
+                {
+                  "label": "Tech T-Shirt",
+                  "url": "https://creators.insiderstore.com.br/axB7p3y"
+                },
+                {
+                  "label": "tênis branco"
+                },
+                {
+                  "label": "jaqueta jeans"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Como escolher o tamanho",
