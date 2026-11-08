@@ -43821,7 +43821,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Compara, em espaço, conforto, entrega e rotina, o modular fixo, que chega em módulos, e o retrátil de assento deslizante. Há modelos que juntam as duas características.",
-    "metaDescription": "O cupom CECILIA12 dá 12% OFF em itens elegíveis da DAMIE. Modular ou retrátil: o retrátil fechado libera o chão, e o modular tende a facilitar a entrega.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF em todo o site da DAMIE. Modular ou retrátil: o retrátil fechado libera o chão, e o modular tende a facilitar a entrega.",
     "publishedAt": "25 de agosto de 2026",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -43954,7 +43954,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "No modular da Damie que acompanhamos em casa, braços e encosto se encaixam por gravidade, enquanto os pés usam fixação por velcro. A montagem não depende de ferramenta, mas o comprador ainda precisa conferir medidas, composição, tecido, entrega e condições de devolução vigentes na página do produto.",
           "Na consulta de 26 de agosto de 2026, a página oficial da coleção informava 1 ano de garantia geral. Depois desse período, a Damie declara suporte vitalício e peças de reposição a preço de custo — um ponto relevante para os opcionais integrados aos braços e para a manutenção de longo prazo. Como condições comerciais podem mudar, confirme os termos vigentes antes da compra.",
-          "Se essa for a sua escolha, o [cupom Damie](/cupons/damie) CECILIA12, código de parceria, oferece 12% de desconto nos produtos elegíveis. Confirme no carrinho se o desconto foi aplicado antes de finalizar a compra."
+          "Se essa for a sua escolha, o [cupom Damie](/cupons/damie) CECILIA12, código de parceria, dá 12% OFF em todo o site da DAMIE. Confira o desconto no carrinho antes de finalizar a compra."
         ],
         "links": [
           {
@@ -43982,7 +43982,7 @@ export const reviewsData: unknown[] = [
           "Qual sofá é mais fácil de limpar e manter? O modular tende a facilitar a limpeza porque os módulos podem ser afastados separadamente para alcançar o piso e as frestas. O retrátil possui vãos e componentes móveis que podem exigir mais cuidado e, com o uso, ajustes ou reparos. A durabilidade varia conforme a construção, a carga e a manutenção de cada modelo.",
           "O sofá modular sai do lugar ou se separa ao sentar? Depende do sistema de união. No modular da Damie, os módulos usam engates na base para permanecer unidos durante o uso.",
           "O que significa 'sofá sem caixa'? O termo aparece nos anúncios para o sofá que chega montado, em peça única. O modular da Damie vem em caixas, mas a montagem dispensa ferramenta: braços e encosto se encaixam por gravidade e os pés usam velcro. Confira na página do produto o prazo e as condições de entrega.",
-          "Qual é o cupom da Damie? O código de parceria é CECILIA12 e oferece 12% de desconto em produtos elegíveis. Confira no carrinho se o benefício foi aplicado ao item escolhido."
+          "Qual é o cupom da Damie? O código de parceria é CECILIA12 e dá 12% OFF em todo o site da DAMIE. Confira o desconto no carrinho antes de finalizar a compra."
         ]
       }
     ],
@@ -44934,7 +44934,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento, com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
-    "metaDescription": "Aurora manual ou Levita elétrica da DAMIE, com o cupom CECILIA12 de 12% em itens elegíveis: como escolher, com o ícone Eames como referência de design.",
+    "metaDescription": "Aurora manual ou Levita elétrica da DAMIE, com o cupom CECILIA12 de 12% em todo o site: como escolher, com o ícone Eames como referência de design.",
     "publishedAt": "2 de setembro de 2026",
     "updatedAt": "2026-11-06",
     "publishedAtISO": "2026-09-02",
@@ -44950,7 +44950,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. O código CECILIA12 dá 12% OFF no site da DAMIE."
+          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. O código CECILIA12 dá 12% OFF em todo o site da DAMIE."
         ]
       },
       {
@@ -45121,7 +45121,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom e transparência da parceria DAMIE",
         "paragraphs": [
-          "Este guia tem parceria comercial com a DAMIE. Teste o CECILIA12 no checkout para 12% nos elegíveis; confirme elegibilidade, condições e disponibilidade no carrinho antes de fechar. As [regras do cupom CECILIA12](/cupons/damie) estão na nossa página da DAMIE.",
+          "Este guia tem parceria comercial com a DAMIE. Use o CECILIA12 no checkout para 12% OFF em todo o site; confira o desconto e a disponibilidade no carrinho antes de fechar. As [regras do cupom CECILIA12](/cupons/damie) estão na nossa página da DAMIE.",
           "Os links para a Aurora e para a DAMIE podem gerar comissão para o Em Casa com Cecília, sem custo adicional ao leitor. A parceria não substitui a conferência de medidas, revestimento, prazo e política aplicável à sua compra."
         ],
         "bullets": [],
@@ -45150,12 +45150,12 @@ export const reviewsData: unknown[] = [
           "A Aurora ou a Levita é melhor? Depende do uso: Aurora privilegia reclinação manual e puff separado; Levita oferece ajustes elétricos independentes e requer tomada próxima.",
           "A Aurora da DAMIE tem puff? Sim. A página oficial informa que a Aurora acompanha puff independente no conjunto.",
           "A Levita gira 360°? Não. A nossa gira 280°, o mesmo ângulo da FAQ da DAMIE, embora a página do produto fale em 360°.",
-          "Qual é o cupom da DAMIE? O código é CECILIA12; teste-o no checkout para 12% em itens elegíveis e confirme as condições antes de finalizar."
+          "Qual é o cupom da DAMIE? O código é CECILIA12 e dá 12% OFF em todo o site da DAMIE; aplique-o no checkout e confira o desconto antes de finalizar."
         ]
       }
     ],
     "cta": {
-      "text": "Conheça o guia da Aurora no espaço DAMIE e teste o código CECILIA12 no checkout para itens elegíveis.",
+      "text": "Conheça o guia da Aurora no espaço DAMIE e use o código CECILIA12 no checkout para 12% OFF em todo o site.",
       "label": "Ler o guia da Aurora no espaço DAMIE",
       "url": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_campaign=charles-eames-hub",
       "sponsored": true
@@ -51240,7 +51240,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com ressalva no pós-venda. A Let's Eat It é uma empresa identificada, com showroom em São Paulo e presença no localizador da Le Creuset Brasil. A reputação no Reclame Aqui era Boa de abril a setembro, mas a resposta demorava cerca de 16 dias; confira devolução e frete antes de comprar, porque os textos da loja divergem."
+          "Sim, com ressalva no pós-venda: a Let's Eat It é empresa identificada, com showroom em São Paulo e presença no localizador da Le Creuset. A reputação no Reclame Aqui era Boa de abril a setembro, mas a resposta demorava cerca de 16 dias; confira devolução e frete, porque os textos da loja divergem. No site, o MAUAD dá 5% OFF."
         ]
       },
       {
@@ -74970,7 +74970,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Dr. Peanut é confiável: marca brasileira de Curitiba, com CNPJ ativo e ligação à Supley, o mesmo grupo da Max Titanium. O Reclame Aqui mostra reputação Boa nos últimos 6 meses e Ótima nos últimos 12. Frete grátis e troca têm regras próprias, então confira antes de comprar, e use o [cupom Dr. Peanut](/cupons/dr-peanut) no carrinho."
+          "Sim, a Dr. Peanut é confiável: marca brasileira de Curitiba, com CNPJ ativo e ligação à Supley, o mesmo grupo da Max Titanium. O Reclame Aqui mostra reputação Boa nos últimos 6 meses e Ótima nos últimos 12. Frete grátis e troca têm regras próprias; o [cupom Dr. Peanut](/cupons/dr-peanut) traz o DREMCASACOMCECILIA, 10% OFF em todo o site."
         ]
       },
       {
@@ -75212,7 +75212,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para confiar, com cautela: a reputação no Reclame Aqui foi Boa nos últimos 6 meses (nota 7,4) e Ótima nos 12 meses (nota 8,1). O ponto de atenção é a recompra: 52,6% das 38 reclamações avaliadas nos últimos 6 meses disseram que voltariam a fazer negócio. Para o desconto, use o [cupom Dr. Peanut](/cupons/dr-peanut)."
+          "Dá para confiar, com cautela: a reputação no Reclame Aqui foi Boa nos últimos 6 meses (nota 7,4) e Ótima nos 12 meses (nota 8,1). O ponto de atenção é a recompra: 52,6% das 38 reclamações avaliadas nos últimos 6 meses disseram que voltariam a fazer negócio. O [cupom Dr. Peanut](/cupons/dr-peanut) traz o DREMCASACOMCECILIA, 10% OFF."
         ]
       },
       {
@@ -79158,7 +79158,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Em novembro, a reputação da Cléa Store no Reclame Aqui era Regular nos 6 meses e Boa nos 12, e a loja tinha o selo de Empresa Verificada. Ela respondia a tudo e resolvia a maior parte. O ponto fraco: pouco mais da metade de quem avaliou voltaria a comprar. Para comprar com desconto, veja o [cupom Cléa Store](/cupons/clea-store)."
+          "Em novembro, a Cléa Store tinha reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui, com selo de Empresa Verificada; respondia a tudo e resolvia a maior parte. O ponto fraco: pouco mais da metade de quem avaliou voltaria a comprar. O [cupom Cléa Store](/cupons/clea-store) traz o CSEMCASACOMCECILIA, 10% OFF em todo o site."
         ]
       },
       {
@@ -103854,7 +103854,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Mais Mu é uma empresa registrada, com CNPJ ativo e sede em São Paulo. A reputação melhorou: em novembro, no Reclame Aqui, a loja estava como Boa, com a entrega como principal queixa. Os capítulos abaixo mostram o que pesa na compra; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
+          "Sim, a Mais Mu é uma empresa registrada, com CNPJ ativo e sede em São Paulo. A reputação melhorou: em novembro, no Reclame Aqui, a loja estava como Boa, com a entrega como principal queixa. O [cupom Mais Mu](/cupons/mais-mu) traz o MMEMCASACOMCECILIA, 10% OFF em todo o site."
         ]
       },
       {
@@ -104067,7 +104067,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Em novembro, a reputação da Mais Mu no Reclame Aqui era Boa nos últimos seis meses, com nota 7,1, e também Boa em 12 meses. A loja responde quase todas, mas nem todas ficam resolvidas. Abaixo estão os números, as queixas e o que fazer se o pedido der problema; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
+          "Em novembro, a reputação da Mais Mu no Reclame Aqui era Boa nos últimos seis meses, com nota 7,1, e também Boa em 12 meses. A loja responde quase todas, mas nem todas ficam resolvidas. O [cupom Mais Mu](/cupons/mais-mu) traz o MMEMCASACOMCECILIA, 10% OFF em todo o site."
         ]
       },
       {
@@ -128868,7 +128868,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Toda Up é o nome novo da Fita Up, segundo a loja: a FITA UP LTDA, empresa brasileira com CNPJ ativo desde 2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa."
+          "Sim, a Toda Up é o nome novo da Fita Up, segundo a loja: a FITA UP LTDA, com CNPJ ativo desde 2020. O rodapé traz o CNPJ e a loja publica regras de troca, reembolso e frete; o ponto de atenção é o prazo de reembolso, que a política não fixa. No site oficial, o MAUAD dá 10% OFF."
         ]
       },
       {
@@ -129104,7 +129104,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Toda Up estava com reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA. O que muda entre as abas é o volume e o tempo de resposta; veja a tabela e [Toda Up é confiável?](/reviews/toda-up-e-confiavel)."
+          "Sim: a Toda Up estava com reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA, e as abas mudam em volume e tempo de resposta; veja [Toda Up é confiável?](/reviews/toda-up-e-confiavel). No site oficial, o MAUAD dá 10% OFF."
         ]
       },
       {
@@ -176435,7 +176435,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelo recorte de 6 meses: a Simple Organic tinha RA1000 e nota 8,6 no Reclame Aqui, com todas as reclamações respondidas. O que pesa é o atraso na entrega, a queixa mais comum. Veja as reclamações e o que fazer se o pedido der problema."
+          "Sim, pelo recorte de 6 meses: a Simple Organic tinha RA1000 e nota 8,6 no Reclame Aqui, com todas as reclamações respondidas. O que pesa é o atraso na entrega, a queixa mais comum. No site oficial, o S-EMCASACOMCECILIA dá 5% OFF em tudo."
         ]
       },
       {
@@ -188234,7 +188234,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com atenção à entrega: na aba de seis meses, a HolyFoods tem reputação Boa, nota 7,5 e todas as reclamações respondidas. Entre as avaliadas, 91,1% foram resolvidas. Pedido não recebido é a maior categoria de reclamações do perfil; abaixo estão os períodos e o que fazer se o pedido der problema."
+          "Sim, com atenção à entrega: na aba de seis meses, a HolyFoods tem reputação Boa, nota 7,5, todas as reclamações respondidas e 91,1% das avaliadas resolvidas. Pedido não recebido é a maior categoria de reclamações do perfil. Na loja online, o EMCASA dá 15% OFF em todo o site."
         ]
       },
       {
