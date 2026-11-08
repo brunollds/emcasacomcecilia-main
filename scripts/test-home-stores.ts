@@ -238,7 +238,7 @@ assert.ok(
 );
 assert.equal(tab('shein').label, 'Código de indicação SHEIN');
 assert.equal(tab('shein').code, '4CW5Y');
-assert.equal(tab('shein').hints.copy, 'Copie e pesquise no aplicativo SHEIN.');
+assert.equal(tab('shein').hints.copy, 'Copie e pesquise no app ou no site da SHEIN.');
 
 // Desconto e descrição saem dos dados da loja, sem texto próprio da vitrine.
 for (const current of tabs) {
