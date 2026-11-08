@@ -13,7 +13,7 @@ import { getGalleryCopy } from '../src/components/review/galleryCopy';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
 import { CECILIA_PHOTO_COPY_PT } from '../src/components/sections/CeciliaProfile';
 import { getLocaleHomeCopy } from '../src/components/sections/localeHomeCopy';
-import { PT_HOME_CHROME } from '../src/components/sections/homeCopy';
+import { PT_HOME_CHROME, getHomeCopy, type HomeChromeCopy } from '../src/components/sections/homeCopy';
 import { getShareCopy } from '../src/components/shared/shareCopy';
 import { cardDecorAt, couponCardDecorAt } from '../src/components/ui/cardDecor';
 import { brandLinks, socialMedias } from '../src/lib/brandLinks';
@@ -2844,6 +2844,58 @@ const panelIn = (html: string, id: string) => between(html, `id="painel-${id}"`,
 // o título de um artigo que os cite (CECI em CECILIA, 5% OFF em 15% OFF).
 const textNodes = (html: string) => html.split(/<[^>]+>/).map((text) => decodeHtml(text).trim());
 
+// A faixa das bolinhas e o "Acabou de sair", iguais na home em português e na de cada idioma: as bolinhas carregam já,
+// a faixa é uma linha que rola com as setas fora do tablist, o título leva o marca-texto, os cards entram pela rolagem
+// (.revela com --i) e nada chega escondido no HTML do servidor.
+const REVEAL_CARD = /<li class="[^"]*\brevela\b[^"]*" style="--i:\d+"/g;
+function shelfMotionProblems(
+  body: string,
+  {
+    stripIds,
+    labels,
+    latestCount,
+  }: { stripIds: string[]; labels: Pick<HomeChromeCopy, 'previousStores' | 'nextStores'>; latestCount: number }
+): string[] {
+  const problems: string[] = [];
+  const check = (ok: boolean, message: string) => {
+    if (!ok) problems.push(message);
+  };
+
+  // As bolinhas da faixa (a da Cecília e uma por loja) estão sempre na primeira tela: carregam já, sem competir
+  // com a imagem do story, que é a de fetchpriority alto. Menos de 2 imagens é a faixa que o extrator não achou.
+  const stripImages = between(body, 'role="tablist"', ['</div>']).match(/<img\b[^>]*>/g) ?? [];
+  check(stripImages.length >= 2, `faixa das bolinhas: ${stripImages.length} imagens, esperava a da Cecília e a das lojas`);
+  check(stripImages.every((image) => /\sloading="eager"/.test(image)), 'faixa das bolinhas: imagem sem loading="eager"');
+  check(stripImages.every((image) => !/\sfetchpriority=/i.test(image)), 'faixa das bolinhas: imagem com fetchpriority, que é do story');
+
+  // A ordem das bolinhas: a Cecília primeiro e as lojas pelo artigo mais novo (a mesma de /reviews). A faixa é uma
+  // linha só que rola, com as setas fora do tablist (que só leva abas).
+  const stripHtml = between(body, 'role="tablist"', ['</div>']);
+  // Só as bolinhas esperadas: o autoteste da loja pausada tira o painel e deixa a bolinha no HTML.
+  const stripTabIds = [...stripHtml.matchAll(/<button[^>]*\sid="(cecilia|loja-[a-z0-9-]+)"/g)]
+    .map(([, id]) => id)
+    .filter((id) => stripIds.includes(id));
+  check(
+    JSON.stringify(stripTabIds) === JSON.stringify(stripIds),
+    `faixa das bolinhas: ordem ${stripTabIds.join(', ')} diferente de ${stripIds.join(', ')}`
+  );
+  const stripOpenTag = body.slice(body.lastIndexOf('<div', body.indexOf('role="tablist"')), body.indexOf('>', body.indexOf('role="tablist"')));
+  check(!/md:flex-wrap/.test(stripOpenTag) && /overflow-x-auto/.test(stripOpenTag), 'faixa das bolinhas: tem de ser uma linha que rola, também no computador');
+  check(
+    body.includes(`aria-label="${labels.previousStores}"`) &&
+      body.includes(`aria-label="${labels.nextStores}"`) &&
+      !stripHtml.includes(`aria-label="${labels.nextStores}"`),
+    `faixa das bolinhas: as setas ("${labels.previousStores}" e "${labels.nextStores}") faltam ou estão dentro do tablist`
+  );
+
+  check(/<h2 id="titulo-acabou-de-sair"[^>]*><span class="marca-texto[ "]/.test(body), 'titulo-acabou-de-sair: título sem o marca-texto');
+  // As duas listas do "Acabou de sair" (celular e tela larga).
+  const latest = between(body, LATEST_SECTION, ['</section>']);
+  check((latest.match(REVEAL_CARD) ?? []).length === latestCount * 2, 'Acabou de sair: cards sem a entrada da rolagem (revela)');
+  check(!body.includes('data-reveal'), 'home com seção escondida no HTML do servidor (data-reveal)');
+  return problems;
+}
+
 function homeProblems(body: string, expected: HomeExpectations): string[] {
   const problems: string[] = [];
   const check = (ok: boolean, message: string) => {
@@ -2867,30 +2919,12 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   // O pulso do grupo de WhatsApp acontece uma vez (WCAG 2.2.2), e só com o movimento liberado.
   check(/\bmotion-safe:animate-\[pulse-subtle_[^\]\s]*_1\]/.test(whatsappTag), 'painel da Cecília: o pulso do WhatsApp sem parar depois de uma vez');
 
-  // As bolinhas da faixa (a da Cecília e uma por loja) estão sempre na primeira tela: carregam já, sem competir
-  // com a imagem do story, que é a de fetchpriority alto. Menos de 2 imagens é a faixa que o extrator não achou.
-  const stripImages = between(body, 'role="tablist"', ['</div>']).match(/<img\b[^>]*>/g) ?? [];
-  check(stripImages.length >= 2, `faixa das bolinhas: ${stripImages.length} imagens, esperava a da Cecília e a das lojas`);
-  check(stripImages.every((image) => /\sloading="eager"/.test(image)), 'faixa das bolinhas: imagem sem loading="eager"');
-  check(stripImages.every((image) => !/\sfetchpriority=/i.test(image)), 'faixa das bolinhas: imagem com fetchpriority, que é do story');
-
-  // A ordem das bolinhas: a Cecília primeiro e as lojas pelo artigo mais novo (a mesma de /reviews). A faixa é uma
-  // linha só que rola, com as setas fora do tablist (que só leva abas).
-  const stripHtml = between(body, 'role="tablist"', ['</div>']);
-  const expectedStripIds = ['cecilia', ...expected.tabs.map(({ slug }) => `loja-${slug}`)];
-  // Só as bolinhas esperadas: o autoteste da loja pausada tira o painel e deixa a bolinha no HTML.
-  const stripTabIds = [...stripHtml.matchAll(/<button[^>]*\sid="(cecilia|loja-[a-z0-9-]+)"/g)]
-    .map(([, id]) => id)
-    .filter((id) => expectedStripIds.includes(id));
-  check(
-    JSON.stringify(stripTabIds) === JSON.stringify(expectedStripIds),
-    `faixa das bolinhas: ordem ${stripTabIds.join(', ')} diferente de ${expectedStripIds.join(', ')}`
-  );
-  const stripOpenTag = body.slice(body.lastIndexOf('<div', body.indexOf('role="tablist"')), body.indexOf('>', body.indexOf('role="tablist"')));
-  check(!/md:flex-wrap/.test(stripOpenTag) && /overflow-x-auto/.test(stripOpenTag), 'faixa das bolinhas: tem de ser uma linha que rola, também no computador');
-  check(
-    body.includes('aria-label="Ver lojas anteriores"') && body.includes('aria-label="Ver mais lojas"') && !stripHtml.includes('aria-label="Ver mais lojas"'),
-    'faixa das bolinhas: as setas ("Ver lojas anteriores" e "Ver mais lojas") faltam ou estão dentro do tablist'
+  problems.push(
+    ...shelfMotionProblems(body, {
+      stripIds: ['cecilia', ...expected.tabs.map(({ slug }) => `loja-${slug}`)],
+      labels: PT_HOME_CHROME,
+      latestCount: expected.latest.length,
+    })
   );
 
   // Um painel por loja ativa, inteiro: título, código com a dica e o rótulo exato do botão de copiar,
@@ -3012,15 +3046,12 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
 
   // O marca-texto em cada título das seções de baixo (e no "Acabou de sair"), e nada escondido pela
   // rolagem no HTML do servidor.
-  for (const id of ['titulo-acabou-de-sair', ...LOWER_SECTIONS]) {
+  for (const id of LOWER_SECTIONS) {
     if (at(id) < 0 && id === 'titulo-ultimos-videos') continue;
     check(new RegExp(`<h2 id="${id}"[^>]*><span class="marca-texto[ "]`).test(body), `${id}: título sem o marca-texto`);
   }
-  check(!body.includes('data-reveal'), 'home com seção escondida no HTML do servidor (data-reveal)');
 
-  // Os cards que a rolagem revela: as duas listas do "Acabou de sair" (celular e tela larga) e a faixa da data.
-  const REVEAL_CARD = /<li class="[^"]*\brevela\b[^"]*" style="--i:\d+"/g;
-  check((latest.match(REVEAL_CARD) ?? []).length === expected.latest.length * 2, 'Acabou de sair: cards sem a entrada da rolagem (revela)');
+  // A faixa da data também entra pela rolagem.
   if (expected.hasEvent) {
     const event = between(body, 'aria-labelledby="titulo-data-comercial"', LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`));
     check((event.match(REVEAL_CARD) ?? []).length > 0, 'faixa da data: cards sem a entrada da rolagem (revela)');
@@ -3045,6 +3076,31 @@ const homeExpected: HomeExpectations = {
 const damieTab = homeExpected.tabs.find(({ slug }) => slug === 'damie');
 if (damieTab) assert.equal(damieTab.storePageUrl, '/cupons/damie', 'a aba da DAMIE leva a /cupons/damie');
 assert.deepEqual(homeProblems(homeBody, homeExpected), [], '/: home');
+
+// A home de cada idioma tem a mesma vitrine e o mesmo "Acabou de sair", com o mesmo movimento.
+for (const locale of LOCALE_HOME_LOCALES) {
+  const pagePath = getLocaleHomePath(locale);
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const body = bodyOf(read(file));
+  const content = getLocaleHomeContent(locale, publishedReviews);
+  const expected = {
+    stripIds: ['cecilia', ...content.stores.map(({ slug }) => `loja-${slug}`)],
+    labels: getHomeCopy(locale),
+    latestCount: content.latest.length,
+  };
+  assert.deepEqual(shelfMotionProblems(body, expected), [], `${pagePath}: vitrine e "Acabou de sair"`);
+  if (locale !== 'en') continue;
+  // Controle: sem o marca-texto, sem a cascata ou com a faixa quebrando em linhas, a home não passa.
+  for (const mutated of [
+    body.replace('<span class="marca-texto">', '<span>'),
+    body.replace(/<li class="revela /, '<li class="'),
+    body.replace('overflow-x-auto', 'md:flex-wrap'),
+  ]) {
+    assert.notEqual(mutated, body, `${pagePath}: o controle da vitrine não achou o trecho`);
+    assert.notDeepEqual(shelfMotionProblems(mutated, expected), [], `${pagePath}: o controle da vitrine passou`);
+  }
+}
 
 type HomeTab = HomeExpectations['tabs'][number];
 

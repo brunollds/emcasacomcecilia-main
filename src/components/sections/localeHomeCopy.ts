@@ -317,11 +317,11 @@ const COPY: Record<LocaleHomeCopyLocale, LocaleHomeCopy> = {
     },
   },
   ja: {
-    metaTitle: 'Em Casa com Cecília：ガイドとパートナーショップのコード',
+    metaTitle: 'Em Casa com Cecília：ガイドとパートナーストアのコード',
     metaDescription: '{since}年から活動するブラジルのクリエイター、{name}。ショッピングガイドと{stores}の公式コードを紹介します。',
     heroTitleTop: '私の家から',
     heroTitleBottom: 'あなたの家へ。',
-    intro: 'こんにちは、Cecíliaです。家で試したものと、提携ショップのコードを紹介しています。',
+    intro: 'こんにちは、Cecíliaです。家で試したものと、提携ストアのコードを紹介しています。',
     photoAlt: 'キッチンでコーヒーカップを持つCecília',
     followers: 'フォロワー',
     photoCaptionLabel: 'Instagramで',
@@ -339,7 +339,7 @@ const COPY: Record<LocaleHomeCopyLocale, LocaleHomeCopy> = {
     faqWhoAnswer:
       '{name}は、ブラジル・ミナスジェライス州出身のクリエイターです。{since}年から@emcasacomceciliaとして、家事のコツ、レシピ、ショッピングガイドを発信しています。',
     faqWhyQuestion: 'なぜブラジルのサイトが私の言語で読めるのですか？',
-    faqWhyAnswer: 'Cecíliaは{stores}などの海外ショップと提携しています。ほかの国の読者にも使ってもらえるよう、ガイドとショップのページを翻訳しています。',
+    faqWhyAnswer: 'Cecíliaは{stores}などの海外ストアと提携しています。ほかの国の読者にも使ってもらえるよう、ガイドとストアのページを翻訳しています。',
     faqWhereQuestion: 'それぞれのコードはどこで使いますか？',
     faqContactQuestion: '連絡するにはどうすればいいですか？',
     faqContactAnswer: '{email}までメールをお送りください。',

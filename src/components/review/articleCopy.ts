@@ -524,7 +524,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: '条件をすべて見る',
     allStoreArticles: (count, { brand }) => `${brand} の記事 ${count} 本をすべて見る`,
     authorBoxTitle: 'こんにちは、Cecíliaです',
-    authorBoxBody: '家で試したものと、提携ショップのコードを紹介しています。',
+    authorBoxBody: '家で試したものと、提携ストアのコードを紹介しています。',
     authorBoxLink: 'Cecíliaについて',
     brunoBoxTitle: 'こんにちは、Brunoです',
     brunoBoxBody: 'Cecíliaの夫で、Em Casaのもう半分。カメラの後ろとパソコンの前を担当しています。',
