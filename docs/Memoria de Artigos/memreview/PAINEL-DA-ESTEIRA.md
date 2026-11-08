@@ -308,3 +308,15 @@
 - [x] [[lejour-reclame-aqui-nota-reputacao]] — Lejour / Lejour no Reclame Aqui (Score Aut: 72 / Conv: 62; onboarding; no ar em 14/10/2026, PR #93) 🚀
 - [x] [[lejour-como-funciona]] — Lejour / O que é a Lejour e como funciona: site, lista de presentes, taxas e planos (Score Aut: 74 / Conv: 80; onboarding; no ar em 14/10/2026, PR #93) 🚀
 - [x] [[lista-de-casamento-lejour-como-criar]] — Lejour / Como criar a lista de casamento na Lejour, passo a passo (Score Aut: 68 / Conv: 88; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[dolce-gusto-cnpj-negocios-combos]] — Dolce Gusto / Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI (No ar em 05/11/2026; release 400c60ff)
+- [x] [[colageno-nestle-nutre-qual-escolher]] — Nestlé Nutre / Colágeno da Nestlé: Nutren Mov Flex, FiberMais Colágeno ou Nutren Protein com Colágeno? (No ar em 06/11/2026)
+- [x] [[hostinger-ou-godaddy]] — Hostinger / Hostinger ou GoDaddy: qual compensa, contando a renovação (No ar em 06/11/2026)
+- [x] [[calca-insider-feminina-qual-escolher]] — Insider / Calça feminina Insider: FutureForm, Reta Ajustável ou Wide Leg (No ar em 08/11/2026; release 829db7d1)
+- [x] [[calca-insider-masculina-qual-escolher]] — Insider / Calça masculina Insider: FutureForm, Director ou Hybrid Jogger (No ar em 08/11/2026; release 829db7d1)
+- [x] [[camisa-social-insider-masculina]] — Insider / Camisa social Insider FutureForm masculina (No ar em 08/11/2026; release 829db7d1)
+- [x] [[camisa-social-insider-feminina]] — Insider / Camisa social Insider FutureForm feminina (No ar em 08/11/2026; release 829db7d1)
+- [x] [[sutia-insider-qual-escolher]] — Insider / Sutiã Insider: Comfy, Flex, Lounge ou NakedFeel (No ar em 08/11/2026; release fa2d5745)
+- [x] [[sutia-para-decote-profundo-costas-abertas]] — Toda Up / O que usar em decote profundo, costas abertas e tomara que caia (No ar em 08/11/2026; release fa2d5745)
+- [x] [[calcinha-insider-qual-escolher]] — Insider / Calcinha Insider: qual escolher (No ar em 08/11/2026; release cddf6e2c)
+- [x] [[tamanho-toda-up-como-escolher]] — Toda Up / Como descobrir seu tamanho na Toda Up, em todas as linhas (No ar em 08/11/2026; release cddf6e2c)
+- [x] [[skinup-marca-na-roupa]] — Toda Up / SkinUp marca na roupa? (No ar em 08/11/2026; release cddf6e2c)
