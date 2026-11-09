@@ -92,3 +92,9 @@ Preço anunciado na página do produto (dado estruturado da página, conferido e
 - **Trustpilot:** YesStyle 4,4 com 104.969 avaliações; StyleKorean 1,9 com 137.
 - **Frete da YesStyle (tabela hsi.732, vigente desde 30/10/2026, em US$, dados no HTML):** Reino Unido Premium Standard, grátis a partir de US$ 50, US$ 5 abaixo; Alemanha Standard, a partir de US$ 45, US$ 5; Portugal Standard, a partir de US$ 60, US$ 5; EUA Standard, a partir de US$ 35, US$ 6. O Brasil não está na tabela. A modalidade entrou na legenda da tabela de frete.
 - A oferta GAME26 da semana não entra na conta, como os outros cupons da loja.
+
+## Revisão final do Farol (R04, 09/11)
+
+- **Aprovados:** os números novos, a capa e a adaptação fora do PT. Os links públicos dos produtos ficam nesta entrega.
+- **Correção aplicada:** no japonês, 「5%または2%を掛けて、」 (multiplicar) virou 「5%または2%の割引を適用し、」 (aplicar desconto).
+- **Brasil, fonte:** comunicado da YesStyle, [pausa temporária de todos os pedidos para o Brasil](https://www.yesstyle.com/pt/temporary-pause-of-all-orders-to-brazil/help/section.html/hsi.2855), lido em 09/11. A página segue no ar, com o motivo na alfândega, mas não confirmei a data dela. Vale junto com o termo do Bruno de 06/11 e a conferência dele no app, em 28/10.
