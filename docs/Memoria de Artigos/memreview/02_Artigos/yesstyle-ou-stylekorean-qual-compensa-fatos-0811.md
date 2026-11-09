@@ -84,3 +84,11 @@ Preço anunciado na página do produto (dado estruturado da página, conferido e
 ## Fontes
 
 [Frete](https://www.stylekorean.com/en/cs/shipping-delivery), [devolução](https://www.stylekorean.com/en/cs/refund) e [FAQ](https://www.stylekorean.com/en/faq) da StyleKorean; [Trustpilot StyleKorean](https://www.trustpilot.com/review/stylekorean.com), [Trustpilot YesStyle](https://www.trustpilot.com/review/www.yesstyle.com); [Т—Ж](https://t-j.ru/style-korean/); [StyleKorean Japan](https://stylekoreanjp.com/); [blog japonês](https://ameblo.jp/a---cosmetic/entry-12874201846.html). Busca por relato de entrega no Brasil em 08/11: nada específico.
+
+## Releitura antes de publicar (08/11, noite)
+
+- **Preços, com os EUA como destino nas duas lojas:** só o SKIN1004 mudou na YesStyle, de US$ 14,34 para US$ 15,00. StyleKorean sem mudança: 20,00, 14,00, 12,50 e 17,00; YesStyle: 20,00, 12,60, 15,00 e 13,60. Todos em estoque.
+- **Conta nova:** SKIN1004 com 5% 14,25 e com 2% 14,70. Cesta maior na YesStyle 61,20, com 5% 58,14 e com 2% 59,98, contra 63,50. Cesta pequena sem mudança. Vantagem de 3,6% (maior, sem código) a 8,9% (pequena, com 5%). Os limites de frete seguem valendo como escritos: a cesta maior passa de US$ 35 e de US$ 60, e a pequena fica abaixo dos dois.
+- **Trustpilot:** YesStyle 4,4 com 104.969 avaliações; StyleKorean 1,9 com 137.
+- **Frete da YesStyle (tabela hsi.732, vigente desde 30/10/2026, em US$, dados no HTML):** Reino Unido Premium Standard, grátis a partir de US$ 50, US$ 5 abaixo; Alemanha Standard, a partir de US$ 45, US$ 5; Portugal Standard, a partir de US$ 60, US$ 5; EUA Standard, a partir de US$ 35, US$ 6. O Brasil não está na tabela. A modalidade entrou na legenda da tabela de frete.
+- A oferta GAME26 da semana não entra na conta, como os outros cupons da loja.

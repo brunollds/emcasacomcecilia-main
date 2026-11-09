@@ -23,7 +23,7 @@ Briefing: `docs/Memoria de Artigos/memreview/02_Artigos/yesstyle-ou-stylekorean-
 
 ## Resposta rápida
 
-Comece pela YesStyle se ela entregar no seu endereço: tem nota 4,4 no Trustpilot (104.968 avaliações), contra 1,9 (137), e os produtos das duas cestas tinham preço menor na leitura para os EUA. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a entrega está suspensa temporariamente: veja o capítulo do país.
+Comece pela YesStyle se ela entregar no seu endereço: tem nota 4,4 no Trustpilot (104.969 avaliações), contra 1,9 (137), e os produtos das duas cestas tinham preço menor na leitura para os EUA. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a entrega está suspensa temporariamente: veja o capítulo do país.
 
 ## Nota no Trustpilot e código de recompensa
 
@@ -31,7 +31,7 @@ Antes do preço, olhe quem fica do outro lado do pedido. Entre as duas lojas, a 
 
 | Loja | Nota no Trustpilot | Avaliações |
 |---|---|---|
-| YesStyle | 4,4 | 104.968 |
+| YesStyle | 4,4 | 104.969 |
 | StyleKorean | 1,9 | 137 |
 
 *Legenda: perfis no Trustpilot em 8 de novembro.*
@@ -42,16 +42,16 @@ O CECILIA010 entra em outra coluna da conta. Ele é o código de recompensa da C
 
 ## Antes de comprar na StyleKorean, compare estas duas cestas
 
-Com entrega nos EUA selecionada, os produtos das duas cestas tinham preço menor na YesStyle, antes e depois do desconto calculado do CECILIA010. A vantagem vai de 4,1% na cesta pequena, sem o código, a 9,4% na maior, com os 5% da primeira compra. Definimos as cestas antes de comparar os preços, com produtos conhecidos vendidos nas duas lojas.
+Com entrega nos EUA selecionada, os produtos das duas cestas tinham preço menor na YesStyle, antes e depois do desconto calculado do CECILIA010. A vantagem vai de 3,6% na cesta maior, sem o código, a 8,9% na pequena, com os 5% da primeira compra. Definimos as cestas antes de comparar os preços, com produtos conhecidos vendidos nas duas lojas.
 
 | Produto | StyleKorean | YesStyle | YesStyle: cálculo com 5% | YesStyle: cálculo com 2% |
 |---|---|---|---|---|
 | COSRX Advanced Snail 96 Mucin Power Essence 100 ml | US$ 20,00 | US$ 20,00 | US$ 19,00 | US$ 19,60 |
 | Beauty of Joseon Relief Sun 50 ml | US$ 14,00 | US$ 12,60 | US$ 11,97 | US$ 12,35 |
 | **Cesta pequena (os 2 acima)** | **US$ 34,00** | **US$ 32,60** | **US$ 30,97** | **US$ 31,95** |
-| SKIN1004 Madagascar Centella Ampoule 100 ml | US$ 12,50 | US$ 14,34 | US$ 13,62 | US$ 14,05 |
+| SKIN1004 Madagascar Centella Ampoule 100 ml | US$ 12,50 | US$ 15,00 | US$ 14,25 | US$ 14,70 |
 | Round Lab 1025 Dokdo Toner 200 ml | US$ 17,00 | US$ 13,60 | US$ 12,92 | US$ 13,33 |
-| **Cesta maior (os 4)** | **US$ 63,50** | **US$ 60,54** | **US$ 57,51** | **US$ 59,33** |
+| **Cesta maior (os 4)** | **US$ 63,50** | **US$ 61,20** | **US$ 58,14** | **US$ 59,98** |
 
 *Legenda: preços anunciados em US$, com entrega nos EUA selecionada, em 8 de novembro de 2026. Frete, encargos e cupons de loja ficam fora da conta. Havia produtos em promoção nas duas lojas; o SKIN1004 estava em oferta por tempo limitado na StyleKorean.*
 
