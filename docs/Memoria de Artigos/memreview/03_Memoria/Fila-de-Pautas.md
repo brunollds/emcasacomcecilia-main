@@ -83,15 +83,18 @@ Também sem GO:
 - **Hostinger ou GoDaddy: qual compensa.** Virou a H9 em 06/11, a pedido do Bruno, antes da série de migração (seção 1).
 - **"<Marca> é boa?" nos parceiros que faltam:** DAMIE (subdomínio primeiro), YesStyle, Magalu e Hostinger. Depois vem "produto X é bom?".
 
-**Série universal "Alternativa a <concorrente>" (decisão do Bruno, 08/11).** Para cada afiliado, avaliar os concorrentes que trazem busca e levar quem procura o concorrente até a nossa parceira. **Molde:** a SK1 e a sequência YesStyle × StyleKorean abaixo.
+**Série universal "Alternativas a <marca>" (decisão do Bruno, 08/11).** Busca a pessoa que procura alternativa a uma marca ou a um produto. Sem limite de marca nem de nicho: vale para parceiro ou concorrente do setor, e nicho com uma parceira só também entra, sem obrigação de cobrir todos. Nas palavras do Bruno: "seja parceiro/ seja o concorrente do setor(nicho)". **Molde de comparação:** a SK1 e a sequência YesStyle × StyleKorean abaixo.
 
-- **Como avaliar:** começa como seção do comparativo "<parceira> ou <concorrente>". Só ganha URL própria se a busca e o conteúdo forem diferentes do comparativo: recompra, produto em falta ou troca de loja. Não abrir "alternativa", "qual é melhor" e "vale a pena" como páginas quase iguais.
-- **Regras:** uma marca por artigo; produto equivalente; parceira com o código aplicado; concorrente sem link de afiliado e sem cupom; veredito com escopo; dizer onde o concorrente ganha. Saúde e infantil só pelo rótulo.
+- **O que separa de um "X ou Y" no ar:** quem busca alternativa quer ver opções, então o artigo lista mais de uma opção do setor. Ex.: "Alternativas à HostGator" lista opções, e o `hostinger-ou-hostgator` compara só as duas. Partir de produto ou necessidade equivalente, com composição, quantidade, preço por dose e benefício aplicável. Não abrir "alternativa", "qual é melhor" e "vale a pena" como páginas quase iguais.
+- **Regras:** uma marca ou produto de referência por artigo. O comparativo direto segue "X ou Y", um por marca. A parceira leva link e código e mostra para quem compensa; as demais entram sem link e sem cupom, dizendo onde cada uma ganha. Parceira como referência não é atacada: o texto diz por que alguém procuraria outra opção. Sem veredito único obrigatório. Saúde e infantil só pelo rótulo. **"Parecido com"** pode estar pedindo sabor, o que o rótulo não responde (hipótese, sem dado): comparar composição e preço e dizer que sabor não foi testado, salvo se houver prova.
+- **Decisão técnica de cada briefing:** artigo com várias parceiras e sem `affiliate` cai em `/reviews/outros`, sem recorte nem bloco de loja, e fica fora da trava do snippet (`checkSnippet` só vale com `coupon`). Decidir por artigo entre o `affiliate` da opção principal e nenhum, e escrever o snippet à mão com o código da opção mais barata.
+- **Ordem sugerida, sujeita ao GO do Bruno (a SK1 segue como a próxima da série):** 1. **Alternativas à Growth:** já há quatro comparativos (`black-skull-ou-growth`, `max-titanium-ou-growth`, `probiotica-ou-growth`, `mais-mu-ou-growth`), e nenhum põe as parceiras lado a lado. O novo traz uma tabela com preço por 100 g de proteína com o código aplicado e o cenário de cada parceira, linka os quatro sem repetir composição e pede leitura nova de preços. Falta olhar o GSC dos quatro, o que pode mudar a ordem. 2. **Alternativas à Adaptogen:** nenhum artigo do site cita a marca. Black Skull como marca do título fica na fila normal, com a ordem definida pela busca, sem veto.
 - **Autocompletar de 08/11 (presença, sem volume):**
   - **Hostinger:** "alternativa a hostgator", "hostgator ou hostinger" (com "para vps"), "hostinger é melhor que hostgator", "alternativas godaddy", "alternativa nuvemshop". A H9 (GoDaddy) já está no ar.
   - **Nutren:** "sustagen ou nutren" (adulto, idoso, senior, kids), "parecido com sustagen", "substituto do sustagen". Com "kids", na dúvida o pediatra e nunca fórmula infantil de 0 a 12 meses.
   - **Fita Up (Toda Up):** "fita trifil", "fita up trifil". Em 06/11, a Trifil só apareceu num anúncio de vendedor no Mercado Livre, sem página da marca: conferir antes.
-  - **Vazios ou ruído:** "alternativa ao sustagen", "alternativa growth", "alternativa ortobom". "Alternativa" em moda quase sempre quer dizer estilo de roupa. O vazio só baixa a nota. Vale testar "parecido com", "substituto de" e "<concorrente> ou <parceira>".
+  - **Suplementos:** "alternativa whey growth", "whey parecido com growth", "whey parecido com adaptogen". Os "X ou Y" já estão no ar e não são pauta: `black-skull-ou-growth`, `black-skull-ou-integralmedica`, `black-skull-ou-max-titanium`, `max-titanium-ou-growth`, `max-titanium-ou-integralmedica`.
+  - **Vazios ou ruído:** "alternativa ao sustagen", "alternativa black skull", "parecido com black skull", "alternativa ortobom". "Alternativa" em moda quase sempre quer dizer estilo de roupa. O vazio só baixa a nota. Vale testar "parecido com", "substituto de" e "<marca> ou <marca>".
 
 ### Por parceiro
 
@@ -105,12 +108,13 @@ Também sem GO:
 | Belive | B4 bolo sem açúcar; B6 kits de doces | Viram seção |
 | Bagaggio e Skelt | G7 Travelcross; S8 Trio Exotic Trip | Sinal fraco. A Travelcross estava esgotada em 31/10 |
 | Skelt | A4: marcas de farmácia (Australian Gold, Episol, Panvel e Mantecorp) | O comparativo no ar é só contra a Best Bronze |
-| Dr. Peanut | A5: Growth, Power One e Nutrata | O comparativo no ar é só contra a La Ganexa |
+| Dr. Peanut | A5: Growth, Power One e Nutrata | O comparativo no ar é só contra a La Ganexa. Reler a A5 à luz de "Alternativas à Growth": a Dr. Peanut entra nela só com produto equivalente |
 | Probiótica e Max | Massa Nitro. A reserva "IsoWhey e Top Whey 3W por tamanho" foi absorvida pela R5 (propostas sem GO) | Reserva de 28/10 |
 | Hostinger | H8 Next.js ou Vercel; e-mail no Gmail, na Hostinger ou na GoDaddy; WordPress; concorrente local | Reservas de 28/10 |
 | Magalu | M10 Magalu ou Mercado Livre | — |
 | SHEIN | Da pesquisa externa de 08/11, sem GO: "cupom alto, economia pequena" (mínimo e teto no carrinho); cupom do Japão por horário (seção só em japonês); o que "até 95%" compra de fato (amostra) | Viram seção na família antes de virar artigo. Precisam de regulamento local e, no carrinho, do teste do Bruno |
 | SHEIN | "Comprando na Black Friday, chega antes do Natal?" | Autocompletar de 08/11: fraco em PT ("shein entrega no natal"), mais forte em inglês ("shein christmas delivery cut off", "dates"). Por ora, vira FAQ na família `shein-black-friday` (seção 4) |
+| Nestlé Nutre | "Sustagen ou Nutren" em adulto e kids (formato "X ou Y", fora da série). No ar só existe a Senior (`nutren-senior-ensure-ou-sustagen-senior`) | Só pelo rótulo. Em kids, "na dúvida, o pediatra" e nunca fórmula infantil de 0 a 12 meses. Autocompletar de 08/11 |
 | Dolce Gusto | P2 app da Dolce Gusto, com os pontos da NEO; lote B das fichas por sabor (calorias por cápsula) | O lote B não tem briefing |
 | Sem parceiro definido | Lava e seca Samsung ou LG (GSC de 11/10); quantas xícaras por dia uma Dolce Gusto aguenta | A segunda não tem fonte oficial |
 
