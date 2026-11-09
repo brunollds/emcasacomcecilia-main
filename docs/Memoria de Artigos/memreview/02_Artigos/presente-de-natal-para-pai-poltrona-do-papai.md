@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presente"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "aguardando-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2), logo depois da Black Friday"
+proxima_acao: "deploy com GO do Bruno; a partir de 28/11, reler preço, brindes, frete e prazo antes de publicar"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 73
@@ -137,3 +137,13 @@ Publicação logo depois da Black Friday, a partir de 28/11. A janela é curta: 
 ## 8. Pontuação
 
 Dor 15/25, demanda 12/20, valor além do oficial 15/20, visita 11/15, cluster 9/10, viabilidade 7/10. Total 69.
+
+## 9. Redação e revisão (09/11/2026)
+
+JSON em `content/reviews/presente-de-natal-para-pai-poltrona-do-papai.json` (id 889). Bruno pediu a redação em 09/11, antes da Black Friday, e decidiu citar da devolução só o que a página informa.
+
+- **Devolução:** o texto usa a página da 2.0 e a página "Teste por 30 dias" da DAMIE (30 dias corridos, coleta, valor devolvido; sem uso severo, com todos os itens e na embalagem original). A `/policies/refund-policy` fica fora do texto, que manda confirmar com a loja antes de pagar. As páginas não dizem de quando contam os 30 dias: o texto só recomenda contar da entrega.
+- **Prazos:** a 2.0 manual, relida em 09/11, tem os mesmos prazos da elétrica fixa e da elevação.
+- **Revisão externa (ChatGPT, 09/11):** aceita a abertura pelo que o pai quer, as datas como referências, a saída das frases de bastidor e o perfil manual sem depender da tomada. Recusado ou ajustado depois de conferir: "a partir da entrega" como informação da loja, "174 cm de profundidade" e "feriados locais". Mantidos a tese de quem compra e quem senta, o rótulo "Conta nossa" na tabela de prazos e o `seoTitle` do briefing. Parecer em `docs/auditoria-copy-artigos/pp3-20261109-farol/` (fora do repositório).
+- **Imagens:** a capa nova (Cecília no botão e a 2.0 inteira) subiu ao CDN em 09/11. No corpo, só fotos que já estavam no CDN.
+- **Depois de publicar:** acrescentar o link para a PP3 em `presente-de-natal-para-casa-moveis`.

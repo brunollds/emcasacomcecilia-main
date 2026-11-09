@@ -208006,5 +208006,258 @@ export const reviewsData: unknown[] = [
         "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
       }
     ]
+  },
+  {
+    "id": 889,
+    "slug": "presente-de-natal-para-pai-poltrona-do-papai",
+    "title": "Presente de Natal para pai: quando a poltrona do papai vale a pena",
+    "seoTitle": "Presente de Natal para pai: a poltrona do papai vale?",
+    "type": "Guia de Presente",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando uma poltrona faz sentido para o seu pai, qual modelo escolher e o que combinar sobre espaço, entrega e teste em casa, com as referências de prazo para o Natal.",
+    "metaDescription": "CECILIA12 dá 12% OFF na poltrona do papai da DAMIE. Vale como presente de Natal para pai? Prazo, medidas e o que conferir antes.",
+    "publishedAt": "9 de novembro de 2026",
+    "publishedAtISO": "2026-11-09",
+    "updatedAt": "2026-11-09",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+    "imageAlt": "Cecília Mauad sentada na poltrona reclinável DAMIE com a mão no botão de reclinar, ao lado da poltrona DAMIE 2.0 inteira em suede claro, com a faixa \"Presente de Natal para pai\"",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "bodyDatesReason": "prazo-entrega",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve se seu pai quer uma poltrona e tem um lugar para usá-la reclinada.",
+        "Leve o modelo cujo mecanismo ele consegue usar com facilidade.",
+        "Leve se o prazo confirmado permite organizar a entrega com antecedência."
+      ],
+      "skipIf": [
+        "Passe se você ainda não sabe se ele quer esse móvel em casa.",
+        "Passe se a poltrona não cabe no lugar ou não passa pelo caminho da entrega.",
+        "Passe se a compra depende de chegar no último dia possível para ser o presente de Natal."
+      ]
+    },
+    "cta": {
+      "text": "Escolha a poltrona do seu pai no site da DAMIE e aplique o CECILIA12 no carrinho. Os 12% valem em todas as formas de pagamento e somam com a promoção do momento.",
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=presente-de-natal-para-pai-poltrona-do-papai",
+      "sponsored": true
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "Recebemos poltronas DAMIE em parceria e podemos receber comissão pelo cupom e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "poltrona-do-papai-eletrica-quanto-custa"
+      },
+      {
+        "slug": "poltrona-do-papai-black-friday"
+      },
+      {
+        "slug": "presente-de-natal-para-casa-moveis"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A poltrona do papai vale como presente de Natal se seu pai quer uma, ela combina com a rotina dele e cabe na casa. Na DAMIE, o CECILIA12 dá 12% OFF e soma com as promoções. Antes de comprar, confira as medidas e o prazo para o CEP dele, e faça o pedido com duas a três semanas de folga."
+        ]
+      },
+      {
+        "heading": "Quando a poltrona faz sentido como presente",
+        "paragraphs": [
+          "Quem compra a poltrona não é quem vai sentar nela. Por isso, comece pelo que ele quer. Se seu pai gosta de ler ou ver TV na sala e já comentou que gostaria de uma poltrona, o presente tem um lugar na rotina dele. Vale descobrir qual modelo ele imagina e onde quer colocá-lo.",
+          "Uma poltrona muda a disposição da sala. Antes de decidir sozinho, converse com quem divide a casa com ele e confira se há espaço para usá-la reclinada."
+        ],
+        "image": {
+          "src": "/images/reviews/poltrona-levita-cecilia-lateral.webp",
+          "alt": "Cecília Mauad sentada na poltrona DAMIE Levita em couro caramelo, vista de lado, na sala de casa",
+          "caption": "A Levita em couro, aqui em casa.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7656,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+        },
+        "postParagraphs": [
+          "Recebi da DAMIE, em parceria, a 2.0 elétrica com giro e balanço em corino caramelo e a Levita em couro. Na 2.0, o motor é silencioso e a massagem virou minha parte favorita. Na Levita, o Bruno usa os ajustes separados de pés e encosto em sessões longas de videogame. O [relato de uso da DAMIE 2.0](/reviews/poltrona-damie-e-boa) mostra como ela funciona aqui em casa."
+        ]
+      },
+      {
+        "heading": "Escolha pelo jeito que ele vai usar",
+        "paragraphs": [
+          "Comece pelo movimento de que ele precisa e pelo que consegue usar com facilidade. Os preços da DAMIE no quadro já incluem a promoção da loja na data do quadro e os 12% do CECILIA12."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+            "alt": "Poltrona reclinável DAMIE 2.0 em suede bege, reclinada, com o apoio de pés aberto",
+            "caption": "A DAMIE 2.0 reclinada, em suede. Foto: DAMIE.",
+            "objectFit": "square",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+          },
+          {
+            "src": "/images/reviews/damie/poltrona-do-papai-eletrica-matrix-porsche.webp",
+            "alt": "Poltrona do papai elétrica Matrix Porsche em korano preto, reclinada, com o apoio de pés aberto",
+            "caption": "Matrix Porsche, em korano. Foto: anúncio na Magalu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3333
+          }
+        ],
+        "comparisonTable": {
+          "caption": "Preços no cartão, sem frete, lidos em 9 de novembro. Mudam sem aviso.",
+          "headers": [
+            "Para quem",
+            "Modelo",
+            "Preço no cartão",
+            "O que considerar"
+          ],
+          "rows": [
+            [
+              "Prefere um modelo sem motor e consegue reclinar manualmente",
+              "[DAMIE 2.0 manual](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
+              "R$ 2.612,72 com CECILIA12",
+              "Dispensa tomada, mas abrir e fechar exige força nas pernas e nos braços."
+            ],
+            [
+              "Quer reclinar no botão, sem acionar manualmente",
+              "[DAMIE 2.0 elétrica, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
+              "R$ 3.299,12 com CECILIA12",
+              "Reclina até 170°. Precisa de tomada acessível no lugar escolhido."
+            ],
+            [
+              "Procura ajuda para se levantar",
+              "[DAMIE 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
+              "R$ 4.372,72 com CECILIA12",
+              "A base inclina para a frente e reclina até 145°. Confira com ele a altura do assento e o uso dos comandos."
+            ],
+            [
+              "Quer uma elétrica com orçamento menor",
+              "[Matrix Porsche](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-moderna-matrix-porsche/p/235605600/mo/mpol/), em korano",
+              "R$ 2.374,90 na Magalu",
+              "Elétrica com controle remoto, pelo preço do anúncio. Garantia de 3 meses."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se ele tem dificuldade para se levantar, vale escolher com ele ou com quem o acompanha no dia a dia. A DAMIE indica a base com elevação para idosos; o [guia de poltrona reclinável para idosos](https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos) detalha essa opção. A garantia informada pela DAMIE é de um ano. A Matrix eu não testei: os dados são os do anúncio.",
+          "O CECILIA12 dá 12% OFF no site da DAMIE, vale em todas as formas de pagamento e soma com promoções, com os 10% do Pix e com o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15% e não vale no Mercado Livre. As condições estão na página do [cupom DAMIE](/cupons/damie).",
+          "Para ver mais modelos, consulte [quanto custa uma poltrona do papai elétrica e qual compensa](/reviews/poltrona-do-papai-eletrica-quanto-custa). O guia de [poltrona do papai na Black Friday](/reviews/poltrona-do-papai-black-friday) acompanha os preços, e o [guia da melhor poltrona para o seu pai](https://damie.emcasacomcecilia.com/guias/melhor-poltrona-para-o-seu-pai-dia-dos-pais) explica as diferenças entre as linhas da DAMIE."
+        ]
+      },
+      {
+        "heading": "Como conferir as medidas sem acabar com a surpresa",
+        "paragraphs": [
+          "Peça ajuda a quem mora com ele para medir o lugar e o caminho da entrega. Se quiser manter a surpresa, essa pessoa também pode descobrir qual cor ele prefere e se já tem um modelo em mente."
+        ],
+        "image": {
+          "src": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
+          "alt": "Desenho da poltrona DAMIE 2.0 com as medidas: 89 cm de largura, 106 cm de altura, 95 cm de profundidade e 174 cm reclinada",
+          "caption": "As medidas da DAMIE 2.0. Imagem: DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        },
+        "bullets": [
+          "**Espaço para abrir.** A DAMIE 2.0 tem 89 cm de largura, 106 cm de altura e 95 cm de profundidade, e chega a 174 cm reclinada. Meça o lugar nessa posição e reserve passagem para as pessoas.",
+          "**Portas e elevador.** Meça o percurso inteiro, inclusive as curvas do corredor. Para portas menores que 80 cm, a DAMIE orienta tirar a poltrona da caixa e passar o encosto e a base separados, em vãos a partir de 65 cm.",
+          "**Tomada.** Se o modelo escolhido é elétrico, procure um lugar com tomada acessível. A falta de tomada, sozinha, não é motivo para dar uma manual a quem não consegue acioná-la.",
+          "**Altura dele.** A DAMIE oferece encosto mais alto para pessoas acima de 1,85 m. É um opcional, que custava R$ 450 quando conferimos.",
+          "**Recebimento e montagem.** Em prédio, a entrega vai até o hall. Combine quem levará as peças até o apartamento e encaixará o encosto na base. A loja informa que a montagem é por encaixe, sem ferramentas."
+        ]
+      },
+      {
+        "heading": "Quando encomendar para o Natal",
+        "paragraphs": [
+          "Planeje a compra com duas a três semanas de antecedência e confira o prazo atualizado para o CEP do seu pai. Os prazos abaixo são os que a DAMIE mostrou para a 2.0 manual, elétrica fixa e com elevação. Para a Matrix ou outro anúncio, consulte a previsão do vendedor."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Estados",
+            "Prazo anunciado",
+            "Referência: pagamento confirmado até"
+          ],
+          "rows": [
+            [
+              "SP, PR, SC e RS",
+              "4 a 8 dias úteis",
+              "11 de dezembro"
+            ],
+            [
+              "RJ, MG, ES, DF, GO, MT e MS",
+              "5 a 10 dias úteis",
+              "9 de dezembro"
+            ],
+            [
+              "Norte e Nordeste",
+              "Pelo CEP, no Mercado Livre",
+              "Veja o prazo no anúncio"
+            ]
+          ],
+          "caption": "Conta nossa, com os prazos anunciados: referências para chegada até 23 de dezembro. Não são datas-limite divulgadas pela loja."
+        },
+        "postParagraphs": [
+          "As referências usam o prazo máximo anunciado, contado a partir do dia seguinte à confirmação do pagamento, e consideram que não há feriado no período. Comprar na data indicada deixa a entrega sem margem para atraso. Confirme a previsão do pedido com a loja antes de pagar.",
+          "No boleto, a confirmação pode levar até dois dias úteis. O logo bordado acrescenta sete dias ao prazo; se quiser personalizar, confirme a nova previsão e as condições de devolução antes de escolher esse opcional.",
+          "A DAMIE informa frete grátis no Sul e no Sudeste. No Centro-Oeste, confira o valor para o CEP. Norte e Nordeste são atendidos pelos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale."
+        ]
+      },
+      {
+        "heading": "Se ele não gostar: como funciona o teste em casa",
+        "paragraphs": [
+          "A loja informa: a página da poltrona dá 30 dias corridos para experimentar em casa, com coleta e devolução do valor pago. A [página do teste de 30 dias](https://www.damie.com.br/pages/teste-por-30-dias) exige a embalagem original preservada e todos os itens, sem sujeira, uso severo ou avaria por mau uso. Guarde a caixa, as proteções e a nota fiscal durante esse período.",
+          "Se a poltrona chegar cedo, considere dar o presente antes do Natal. Contando os 30 dias a partir da entrega, deixá-la guardada até a ceia reduz o tempo que seu pai terá para experimentar.",
+          "Antes de pagar, confirme com a DAMIE como o teste funciona quando quem compra é diferente de quem usa, inclusive nas compras em promoção e com cupom. Se a dúvida é a cor ou o modelo, convide seu pai para escolher com você."
+        ]
+      },
+      {
+        "heading": "Para pai e mãe ou com a ajuda dos irmãos",
+        "paragraphs": [
+          "Para presentear pai e mãe, descubra se os dois querem uma poltrona e meça o espaço para as duas abertas, com passagem livre. Na DAMIE, pergunte pelo WhatsApp se há desconto por quantidade na data. Em outubro, ele saía pelos consultores, sem aparecer no carrinho.",
+          "Se os irmãos vão dividir o presente, combinem o orçamento e quem ficará responsável pelo pedido e pela entrega. Essa pessoa deve guardar a nota fiscal; em caso de devolução, o reembolso segue a forma de pagamento usada na compra."
+        ],
+        "image": {
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
+          "alt": "Cecília sentada na poltrona reclinável bege com o filho Ian no colo",
+          "caption": "Com o Ian no colo, na reclinável 1.0 em linho bege.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5625
+        }
+      },
+      {
+        "heading": "Vale dar uma poltrona de presente?",
+        "paragraphs": [
+          "Eu daria a poltrona a um pai que já quer esse móvel e tem onde usá-lo. Se ele gosta da ideia, mas quer escolher o modelo ou a cor, faria essa parte com ele. É mais importante acertar no que ele vai usar do que manter toda a compra em segredo.",
+          "Se uma poltrona não combina com o que ele quer agora, estes guias ajudam a procurar outro presente:"
+        ],
+        "bullets": [
+          "[Presentes para quem treina](/reviews/presente-natal-quem-treina).",
+          "[Ideias para quem gosta de cozinhar](/reviews/presente-natal-quem-gosta-de-cozinhar).",
+          "[Bagaggio por faixa de preço](/reviews/presente-natal-bagaggio).",
+          "[Kits e gift card da Insider](/reviews/presente-de-natal-insider-kits-gift-card).",
+          "[Outros móveis para presentear a casa](/reviews/presente-de-natal-para-casa-moveis)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Poltrona do papai é um bom presente de Natal? Sim, quando ele quer esse móvel, vai usá-lo e tem espaço em casa. Se você ainda não sabe a preferência dele, vale descobrir antes de escolher o modelo.",
+          "Qual poltrona dar de presente para pai idoso? Se ele procura ajuda para se levantar, veja a base com elevação, que a DAMIE indica para idosos. Confira com ele a altura do assento e a facilidade de usar os comandos.",
+          "A poltrona chega antes do Natal? O prazo precisa ser confirmado para o pedido e o CEP da entrega. Compre com duas a três semanas de folga: as referências deste guia ajudam a planejar, mas não garantem a chegada.",
+          "E se meu pai não gostar da poltrona? A DAMIE anuncia um teste de 30 dias, com coleta e devolução do valor pago, desde que ela esteja na embalagem original. Antes de pagar, confirme com a loja se isso vale para quem ganhou de presente.",
+          "Tem cupom para poltrona do papai? O CECILIA12 dá 12% no site da DAMIE, vale em todas as formas de pagamento e soma com as promoções. Ele não vale no Mercado Livre; veja as condições na [página do cupom DAMIE](/cupons/damie)."
+        ]
+      }
+    ]
   }
 ];
