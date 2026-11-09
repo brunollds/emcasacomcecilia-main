@@ -18,6 +18,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | JSON pronto (id 864), com rascunho e imagens aprovados em 08/11. Falta o deploy; reler preços e grade antes dele |
 | SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
 | SK2 | StyleKorean é confiável? A empresa é real; as queixas são de entrega, taxa e reembolso (combinada em 08/11; "podemos seguir" do Bruno em 09/11) | YesStyle | 10 idiomas | [[stylekorean-e-confiavel]] | Pronta (PR da SK2): nota e 60 avaliações relidas em 09/11. Deploy só com GO do Bruno |
+| PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | Redação (primeira leitura feita em 09/11). Do Bruno: confirmar os anúncios da DAMIE na Amazon e na Magalu e converter os links. Atualizar com a leitura de 27/11 |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -32,6 +33,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | A9 | Camiseta da Cléa com teste (o guia com fontes públicas está no ar) | Cléa Store | Um kit e um body para testar. Adiada pelo Bruno em 08/11, e o CH1 não depende dela | Bruno |
 | — | YesStyle volta a entregar no Brasil | YesStyle | Reverter as frases de "sem entrega" em `yesstyle-entrega-no-brasil-e-portugal`, `yesstyle-e-confiavel`, `yesstyle-app-como-comprar-codigo-de-recompensa`, `yesstyle-trustpilot-nota-reclamacoes`, `black-friday-yesstyle` e no dossiê | Bruno avisa |
 | — | Item 11 da otimização do GSC de 11/10 (cupom da Dolce Gusto) | Dolce Gusto | O export filtrado do GSC | Bruno |
+| — | Sofás nos dois domínios: `sofa-na-caixa-inflow-ou-damie` (site) e `inflow-ou-sofa-na-caixa-ou-damie` (subdomínio) têm a mesma intenção | DAMIE | Olhar o GSC antes de mexer. O lado do subdomínio é da sessão de lá | Bruno |
 
 ## 3. Estoque: volta quando o Bruno chamar ou quando o sinal mudar
 
@@ -96,6 +98,24 @@ Também sem GO:
   - **Suplementos:** "alternativa whey growth", "whey parecido com growth", "whey parecido com adaptogen". Os "X ou Y" já estão no ar e não são pauta: `black-skull-ou-growth`, `black-skull-ou-integralmedica`, `black-skull-ou-max-titanium`, `max-titanium-ou-growth`, `max-titanium-ou-integralmedica`.
   - **Vazios ou ruído:** "alternativa ao sustagen", "alternativa black skull", "parecido com black skull", "alternativa ortobom". "Alternativa" em moda quase sempre quer dizer estilo de roupa. O vazio só baixa a nota. Vale testar "parecido com", "substituto de" e "<marca> ou <marca>".
 
+**Série DAMIE "poltrona do papai" (decisão do Bruno, 09/11/2026).** Abre por temas amplos, aproveitando Black Friday e Natal. O site capta o interesse, e o subdomínio aprofunda a escolha dentro da DAMIE. Black Friday e Natal são artigos separados, porque as buscas e os prazos são diferentes. A PP1 está na seção 1. Vale o que está aqui onde o plano de apoio do ChatGPT (`docs/ESTRATEGIA-DAMIE-POLTRONAS-PREMIUM-2026-11-09.md`, checkout principal) divergir.
+
+| Ordem | Pauta | Observação |
+|---|---|---|
+| PP2 | Poltrona do papai elétrica: quanto custa e qual compensa (guia-mãe) | Mesma leitura de preços da PP1, sem repetir o foco em desconto. "Premium" é escolha do Bruno, com título concreto (elétrica e couro). Sem outro "elétrica ou manual", que o subdomínio já cobre. FAQ: cadeira do papai, poltrona do papai e reclinável são a mesma coisa? |
+| PP3 | Presente de Natal para pai: a poltrona do papai vale? | Logo depois da Black Friday, com o prazo de entrega. O título diz "presente": "poltrona do papai natal" no autocompletar traz a cidade de Natal/RN. Linkar `presente-de-natal-para-casa-moveis` |
+| PP4 | Poltrona do papai de couro ou corino: qual escolher | Compara o mercado; os tecidos da DAMIE seguem no subdomínio. Nossas poltronas diferem em mais que o revestimento (2.0 de corino, Levita de couro, 1.0 de linho): a experiência enriquece, mas não é teste controlado de material |
+| PP5 | Poltrona do papai na Magazine Luiza, Casas Bahia ou direto da fábrica | Só com mesmo produto, vendedor, configuração, frete e pós-venda. Ser parceira não justifica a pauta. A DAMIE vende também na Magalu, no Mercado Livre e na Amazon (Bruno, 09/11). A página dela declara "Direto da fábrica": citar como declaração da loja, a menos que se confirme |
+| Depois | Moveleiro, Gran Belo, Herval, Stressless e Natuzzi, um artigo por marca | Fatos abaixo. Reler ao abrir |
+| Reserva | Ortobom e Tempus | Fatos abaixo |
+
+- **Regras:** guia amplo de categoria pode citar várias marcas; "X ou Y" continua um por marca. Concorrente sem link, sem foto e sem cupom; sem teste próprio, entra pela ficha e, se couber, pelo Reclame Aqui, dizendo que não foi testado.
+- **Fatos da DAMIE:** tudo recebido em parceria. A Levita gira até 280°, nunca 360°. CECILIA12: 12%, toda forma de pagamento, soma com promoções, Pix e quantidade, não soma com outro cupom nem com o giftback de 15%, não vale no Mercado Livre. Campanha até 27/11: reler antes de citar. Foto ambientada da DAMIE com cara de IA não entra.
+- **Google Trends** (Brasil, 09/11/2025 a 09/11/2026, partindo de "poltrona do papai premium"; índice relativo, sem somar linhas): poltrona reclinável 100 (-20%); poltrona do papai reclinável 100 (-20%); cadeira do papai 44 (-20%); poltrona eletrica 15 (+20%); poltrona do papai eletrica 15 (+10%); poltrona do papai corino 12 (+30%); poltrona do papai preço 11 (-10%); poltrona do papai massageadora 10 (+20%); poltrona do papai magazine luiza 10 (-10%); poltrona do papai casas bahia 8 (-30%); poltrona do papai mercado livre 6 (-20%); poltrona do papai promoção 5 (+20%); poltrona do papai em couro 4 (+30%); poltrona damie 4 (+6%).
+- **Autocompletar de 09/11 (presença, sem volume):** Natal: "presente de natal para pai", "para pais", "para pai idoso", "para pai e mãe". Preço: "poltrona do papai preços", "qual o valor", "custo benefício", "preço brasil", "ofertas", "pronta entrega", "premium". Elétrica: "poltrona do papai eletrica preco", "elétrica reclinável", "elétrica com massageador". Couro e corino: "couro legítimo", "corino reclinável", "corino preta", "como escolher". Canais: "direto da fábrica", "reclinável magalu", "nas lojas magalu", "do magazine luiza".
+- **Falta conferir para a série:** quem aparece no Google para esses termos, o GSC e se a DAMIE fabrica.
+- **Comparativos (lido em 09/11):** **Moveleiro:** Alpha, couro bovino, elétrica, só reclina, marca Minuano, R$ 7.290 (Pix R$ 6.926), 120 kg, 14 dias de teste, 24 meses no mecanismo e 12 no restante, com divergência de garantia na página; autocompletar "poltrona moveleiro é boa", "moveleiro é confiável", "moveleiro poltrona do papai". **Gran Belo:** "é boa", "é confiável" e "reclame aqui" podem abranger outros móveis; couro elétrico acima de R$ 9.600. **Herval:** só linha elétrica; autocompletar de balanço e giro. **Stressless:** a I Wanna Sleep vende a linha, mas o CECIEMCASA nessas peças não foi confirmado. **Natuzzi:** a página brasileira não mostra reclinável elétrica nem preço; definir modelo antes. **Ortobom:** ficha do Nobuck esgotada, sem preço e sem dizer se é elétrica, garantia de 90 dias.
+
 ### Por parceiro
 
 | Parceiro | Pautas | Observação |
@@ -124,6 +144,7 @@ Estas pautas são do repositório de `damie.emcasacomcecilia.com`, não do vault
 - Poltrona Cinema DAMIE 2.0, de 2 a 9 lugares, com ou sem braço no meio.
 - Puff de piscina e espreguiçadeira. A decidir, porque o guia da linha Garden já cobre.
 - Medidas do sofá modular e "DAMIE ou Frau". As duas são lacunas que ficaram do handoff de 30/10.
+- Vocabulário "do papai" nas reclináveis: só 1 dos 18 guias de poltrona tem o termo no título (pedido ao agente de lá, 09/11). Massagem fica no subdomínio.
 
 ### Fim da fila: pós-compra
 
@@ -154,12 +175,14 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | 48 artigos antigos em português | Seção de resposta rápida (são anteriores aos Jobs) | 24/10 |
 | Artigos de roupa sem o card de estilo | "Como usar / Ocasião / Combina com". 18 já têm: conferir quais faltam | Piloto de 30/10 |
 | `skinup-marca-na-roupa` (F14) | Acréscimo quando o short da Cecília sair: o vídeo, o comentário dela sobre não marcar e a experiência, só no que ela disser. O Bruno avisa | Bruno, 08/11 |
+| `black-friday-damie`, `poltronas-reclinaveis-damie-vale-o-investimento`, `poltrona-damie-e-boa`, `poltrona-levita-o-topo-da-tecnologia-e-conforto` | Vocabulário "poltrona do papai" e "cadeira do papai", só nas reclináveis e sem forçar. Fora: Moon, Eames e amamentação. O título só muda depois de olhar o GSC | Série PP, 09/11 |
 
 ### Revisões com data
 
 | Quando | O que |
 |---|---|
 | 12/11, 20/11, 27/11 e 30/11 | SB1: ler o preço das 19 peças, do mesmo jeito, e preencher os fatos. A do dia 12 fecha a 11.11 e não se recupera depois |
+| Até cerca de 20/11 e 27/11 | PP1: reler o preço das poltronas antes de publicar e de novo na Black Friday, do mesmo jeito, e preencher os fatos |
 | 13/11 e na abertura da campanha | `shein-black-friday` (10 idiomas): "hoje está no 11.11" envelhece. Reler as lojas e atualizar as datas |
 | 05/11 | Autobronzeador Skelt: reler os preços |
 | Até 21/11 | Skelt: refazer o teste do cupom, porque a regra vence em 21/11 |
