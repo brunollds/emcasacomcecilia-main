@@ -20,6 +20,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | No ar em 09/11 (release 61539fb6). Atualizar com a leitura de 27/11 |
 | PP2 | Poltrona do papai elétrica: quanto custa e qual compensa (decisão do Bruno, 09/11) | DAMIE | PT | [[poltrona-do-papai-eletrica-quanto-custa]] | No ar em 09/11 (release feeb8d88) |
 | PP3 | Presente de Natal para pai: a poltrona do papai vale? (decisão do Bruno, 09/11) | DAMIE | PT | [[presente-de-natal-para-pai-poltrona-do-papai]] | No ar em 09/11 (release 04452e78), antes da data prevista. Releituras em 28/11 e no começo de dezembro (seção de revisões) |
+| PP4 | Poltrona do papai de couro ou corino: qual escolher (decisão do Bruno, 09/11) | DAMIE | PT | [[poltrona-do-papai-couro-ou-corino]] | Redação. Bruno pergunta à DAMIE a composição do corino, a cobertura do couro e se descascar entra na garantia (briefing, seção 7) |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -99,11 +100,10 @@ Também sem GO:
   - **Suplementos:** "alternativa whey growth", "whey parecido com growth", "whey parecido com adaptogen". Os "X ou Y" já estão no ar e não são pauta: `black-skull-ou-growth`, `black-skull-ou-integralmedica`, `black-skull-ou-max-titanium`, `max-titanium-ou-growth`, `max-titanium-ou-integralmedica`.
   - **Vazios ou ruído:** "alternativa ao sustagen", "alternativa black skull", "parecido com black skull", "alternativa ortobom". "Alternativa" em moda quase sempre quer dizer estilo de roupa. O vazio só baixa a nota. Vale testar "parecido com", "substituto de" e "<marca> ou <marca>".
 
-**Série DAMIE "poltrona do papai" (decisão do Bruno, 09/11/2026).** Abre por temas amplos, aproveitando Black Friday e Natal. O site capta o interesse, e o subdomínio aprofunda a escolha dentro da DAMIE. Black Friday e Natal são artigos separados, porque as buscas e os prazos são diferentes. A PP1, a PP2 e a PP3 estão na seção 1. Vale o que está aqui onde o plano de apoio do ChatGPT (`docs/ESTRATEGIA-DAMIE-POLTRONAS-PREMIUM-2026-11-09.md`, checkout principal) divergir.
+**Série DAMIE "poltrona do papai" (decisão do Bruno, 09/11/2026).** Abre por temas amplos, aproveitando Black Friday e Natal. O site capta o interesse, e o subdomínio aprofunda a escolha dentro da DAMIE. Black Friday e Natal são artigos separados, porque as buscas e os prazos são diferentes. A PP1, a PP2, a PP3 e a PP4 estão na seção 1. Vale o que está aqui onde o plano de apoio do ChatGPT (`docs/ESTRATEGIA-DAMIE-POLTRONAS-PREMIUM-2026-11-09.md`, checkout principal) divergir.
 
 | Ordem | Pauta | Observação |
 |---|---|---|
-| PP4 | Poltrona do papai de couro ou corino: qual escolher | Compara o mercado; os tecidos da DAMIE seguem no subdomínio. Nossas poltronas diferem em mais que o revestimento (2.0 de corino, Levita de couro, 1.0 de linho): a experiência enriquece, mas não é teste controlado de material |
 | PP5 | Poltrona do papai na Magazine Luiza, Casas Bahia ou direto da fábrica | Só com mesmo produto, vendedor, configuração, frete e pós-venda. Ser parceira não justifica a pauta. A DAMIE vende também na Magalu, no Mercado Livre e na Amazon (Bruno, 09/11). A página dela declara "Direto da fábrica": citar como declaração da loja, a menos que se confirme |
 | Depois | Moveleiro, Gran Belo, Herval, Stressless e Natuzzi, um artigo por marca | Fatos abaixo. Reler ao abrir |
 | Reserva | Ortobom e Tempus | Fatos abaixo |
