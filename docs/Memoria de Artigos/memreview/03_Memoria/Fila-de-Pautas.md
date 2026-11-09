@@ -17,6 +17,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | JSON pronto (id 864), com rascunho e imagens aprovados em 08/11. Falta o deploy; reler preços e grade antes dele |
 | SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
+| SK1 | YesStyle ou StyleKorean: qual compensa no seu país? Duas cestas com os mesmos produtos (GO do Bruno, 08/11) | YesStyle | 10 idiomas | [[yesstyle-ou-stylekorean-qual-compensa]] | Teste de carrinho do Bruno e leitura final das cestas perto da publicação. Depois, redação |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -82,11 +83,22 @@ Também sem GO:
 - **Hostinger ou GoDaddy: qual compensa.** Virou a H9 em 06/11, a pedido do Bruno, antes da série de migração (seção 1).
 - **"<Marca> é boa?" nos parceiros que faltam:** DAMIE (subdomínio primeiro), YesStyle, Magalu e Hostinger. Depois vem "produto X é bom?".
 
+**Série universal "Alternativa a <concorrente>" (decisão do Bruno, 08/11).** Para cada afiliado, avaliar os concorrentes que trazem busca e levar quem procura o concorrente até a nossa parceira. **Molde:** a SK1 e a sequência YesStyle × StyleKorean abaixo.
+
+- **Como avaliar:** começa como seção do comparativo "<parceira> ou <concorrente>". Só ganha URL própria se a busca e o conteúdo forem diferentes do comparativo: recompra, produto em falta ou troca de loja. Não abrir "alternativa", "qual é melhor" e "vale a pena" como páginas quase iguais.
+- **Regras:** uma marca por artigo; produto equivalente; parceira com o código aplicado; concorrente sem link de afiliado e sem cupom; veredito com escopo; dizer onde o concorrente ganha. Saúde e infantil só pelo rótulo.
+- **Autocompletar de 08/11 (presença, sem volume):**
+  - **Hostinger:** "alternativa a hostgator", "hostgator ou hostinger" (com "para vps"), "hostinger é melhor que hostgator", "alternativas godaddy", "alternativa nuvemshop". A H9 (GoDaddy) já está no ar.
+  - **Nutren:** "sustagen ou nutren" (adulto, idoso, senior, kids), "parecido com sustagen", "substituto do sustagen". Com "kids", na dúvida o pediatra e nunca fórmula infantil de 0 a 12 meses.
+  - **Fita Up (Toda Up):** "fita trifil", "fita up trifil". Em 06/11, a Trifil só apareceu num anúncio de vendedor no Mercado Livre, sem página da marca: conferir antes.
+  - **Vazios ou ruído:** "alternativa ao sustagen", "alternativa growth", "alternativa ortobom". "Alternativa" em moda quase sempre quer dizer estilo de roupa. O vazio só baixa a nota. Vale testar "parecido com", "substituto de" e "<concorrente> ou <parceira>".
+
 ### Por parceiro
 
 | Parceiro | Pautas | Observação |
 |---|---|---|
 | Insider | Série "Insider ou X" ([[insider-ou-x-serie-0211]]); I5 feminino: Perfect Top, legging e vestido; I8 regata feminina; Insider Rewards (programa de pontos); **I9 gift card com o cupom**: o EMCASACOMCECILIA vale na compra do gift card virtual (teste do Bruno, 05/11: R$ 900 saiu por R$ 765, com frete grátis); a página é difícil de achar no site (link de criador `creators.insiderstore.com.br/SXnbEB8`). Autocompletar (05/11): "cupom gift card insider", "comprar gift card insider", "vale presente insider". Para o Natal e a Black Friday. Ângulo decidido pelo Bruno (05/11): o artigo pode dizer que o cartão comprado com 15% paga peças em que o cupom não vale, como lançamentos. Tom de dica, sem "brecha" nem "burlar": a loja não anuncia, mas aceita. Lembrar que o pedido pago com o cartão não leva outro cupom, e que lançamento às vezes já aceita o cupom (conferir a linha no checkout). Canibalização: o `presente-de-natal-insider-kits-gift-card` tem a seção "Vale presente na Insider: como funciona o gift card"; ela encurta e linka | I8 com sinal forte em 30/10 |
+| YesStyle | **Série StyleKorean, depois da SK1:** **SK2** "StyleKorean é confiável? O que conferir antes de comprar e quando considerar a YesStyle" (10 idiomas; dados nos fatos da SK1; separar política publicada de relato; sem "golpe"). **SK3** "Alternativas à StyleKorean": começa como seção da SK1. **SK4** "StyleKorean: frete, despacho e taxas por país": começa como seção da SK1 e separa com demanda ou detalhe. Código: pergunta no FAQ da SK1, sem página de "cupom StyleKorean". Espera: Calendário do Advento (só se a YesStyle vender um); Black Friday (seção da SK1 quando a promoção aparecer) | Ordem: conselho do ChatGPT aceito pelo Bruno em 08/11. A negativa da afiliação não é argumento no texto |
 | YesStyle | Programa de Estudantes (Membro Prata do Elite Club grátis) | — |
 | Let's Eat It | L4 aparelho de jantar Porto Brasil: 20, 30 ou 42 peças; L6 faqueiro Wolff: 30, 101 ou 130 peças; L11 paleta da mesa posta; L14 amigo secreto até R$ 100 | Para a L4 já existe `porto-brasil-e-boa`. A L14 é de dezembro |
 | Black Skull | B2 e B5 (rodada de 27/10); B6 barra de proteína | B6 só se a linha crescer: em 30/10, havia uma barra só |
@@ -117,6 +129,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
+| `yesstyle-ou-stylevana` (família, parte da StyleKorean) | **Já:** o aviso "itens enviados ao Brasil" mostra o país escolhido no site, não o do visitante nem uma entrega; o seletor traz Brasil, Japão, México e Colômbia, mas sem cotação. Corrigir a frase do FAQ em PT e conferir nas 10 versões as frases sobre países que "a página não lista". **Quando a SK1 for ao ar:** as duas seções da StyleKorean viram resumo com link para ela | Chrome e SK1, 08/11 |
 | `hostinger-renovacao-cupom-sonar20` (e o quadro `-barras-` dos 10 idiomas) | Conferir o prazo da renovação: a página de planos diz "Renovação automática… pelo mesmo período", mas o carrinho diz "Renova após 48 meses por R$ 23,99/mês a cada 12 meses" (Single, 06/11). O quadro diz "renova pelo mesmo período". Ler o carrinho de novo e, se o carrinho valer, corrigir o texto e o quadro | Redação da H9, 06/11 |
 | `camiseta-feminina-insider-qual-escolher` e `camiseta-insider-qual-escolher` | Cupom na Daily: o feminino diz "confira no carrinho", o masculino diz que a Daily não aceita cupom. Só mudar com o teste no carrinho (conflito 5 da R7). O resto da linha da R7 (lavagem com link, notas, Core e 2 cm, dossiê) saiu no PR de 06/11 | Rodada R7, 05/11 |
 | `clea-store-e-confiavel` | FAQ "Onde fica a Cléa Store? Tem loja física em Jaraguá do Sul?", pelo que a loja publica | Rodada de 05/11 |
