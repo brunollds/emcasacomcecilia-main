@@ -457,6 +457,28 @@
     "officialSourceUrl": "https://www.yesstyle.com/en/terms-conditions-for-the-72-hour-extra-15-off-coupon/help/section.html/hsi.2826",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "game26-promo",
+    "code": "GAME26",
+    "type": "coupon",
+    "discount": {
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
+    },
+    "startsAt": "2026-11-09",
+    "expiresAt": "2026-11-12",
+    "verifiedAt": "2026-11-09",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2908",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
     "status": "active",
     "regions": ["GLOBAL"]
   }
