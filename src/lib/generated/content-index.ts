@@ -59592,11 +59592,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Calendário, imposto zero até US$ 50 e o código 4CW5Y, que dá desconto.",
+    "description": "A SHEIN juntou o 11.11 e a Black Friday numa campanha só e não publicou o calendário completo. O histórico de fases, o imposto zero até US$ 50 e o código 4CW5Y, que dá desconto.",
     "metaDescription": "O 4CW5Y dá desconto na SHEIN: use o link ou pesquise no app ou site. Black Friday SHEIN: calendário, fases de desconto e imposto zero até US$ 50.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
@@ -59610,7 +59610,7 @@ export const reviewsData: unknown[] = [
       "Devolução em até 20 dias, com a primeira devolução de cada pedido grátis"
     ],
     "cons": [
-      "O \"até 90%\" vale para alguns itens, não para o carrinho inteiro",
+      "O desconto máximo anunciado vale para itens selecionados e depende das condições da campanha",
       "O ICMS de 17% a 20% continua em toda compra internacional",
       "Acima de US$ 50, o imposto de importação volta: 60%, menos US$ 30 no valor do imposto",
       "Um cupom da SHEIN por pedido, e o imposto pago não volta na devolução"
@@ -59619,13 +59619,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou a página da Black Friday; pelo histórico, as ofertas principais entram depois do 11.11 e vão até o fim do mês. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site da SHEIN, abre uma seleção de produtos com promoções e descontos."
+          "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a SHEIN juntou o 11.11 e a Black Friday numa campanha só, com até 95% em selecionados, sem calendário completo publicado. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site da SHEIN, abre uma seleção com promoções."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da SHEIN",
         "paragraphs": [
-          "Em 3 de novembro, a página inicial da SHEIN traz a promoção do 11.11 e nenhum banner, link ou página de Black Friday. A Black Friday do calendário cai na última sexta do mês, e a SHEIN ainda não divulgou datas nem fases de 2026. A empresa junta o 11.11 e a Black Friday numa campanha só, com fases que aumentam o desconto máximo até o fim do mês. A tabela abaixo é a régua: o que a SHEIN anunciou nos três últimos anos."
+          "Em 2026, a SHEIN junta o 11.11 e a Black Friday numa campanha só, com a cantora IZA, segundo o diretor de marketing em [entrevista à VEJA](https://veja.abril.com.br/economia/shein-aposta-na-cantora-iza-para-impulsionar-vendas-na-black-friday/). A primeira etapa foi de 19 de outubro a 2 de novembro. O reforço vem na semana do 11.11 e na Black Friday, com descontos anunciados de até 95% em selecionados. Falta o calendário completo: não encontramos as datas das próximas fases nem a data de fim. A tabela abaixo mostra o que a SHEIN anunciou nos três últimos anos."
         ],
         "comparisonTable": {
           "caption": "Fases e descontos máximos anunciados pela SHEIN, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
@@ -59653,7 +59653,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta. Se a SHEIN repetir o padrão, as ofertas de Black Friday entram depois do 11.11 e vão até o fim do mês. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
+          "Em 2024 e 2025, a campanha foi até o fim de novembro; em 2023, até o sábado depois da Black Friday. Isso é histórico, não o prazo de 2026, e este guia é atualizado quando as datas saírem.",
           "Nos três anos, o desconto máximo subiu perto do fim. Isso não garante que a peça que você quer fique mais barata: compare o preço final e o estoque; se precisa de tamanho difícil, não espere a última fase."
         ],
         "image": {
@@ -59665,16 +59665,16 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "\"Até 90%\" não é o carrinho inteiro",
+        "heading": "Desconto anunciado e preço final",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "Cecília Mauad em dois looks de um haul da SHEIN: blusa clara amarrada na cintura com saia midi preta, e vestido longo preto com recortes claros"
         },
         "paragraphs": [
-          "O percentual da campanha é o maior desconto de alguns itens. A maior parte do catálogo tem descontos menores, e o preço de cada peça muda ao longo das fases. Para não cair no número grande da propaganda:"
+          "O desconto máximo anunciado vale para itens que atendem às condições da campanha. Confira se a peça que você quer está entre eles e compare o preço final:"
         ],
         "bullets": [
-          "Salve as peças na lista de desejos antes de a campanha começar e anote o preço de agora.",
+          "Salve as peças na lista de desejos e anote o preço atual antes de decidir quando comprar.",
           "Compare o preço da lista com o das fases seguintes: nos três últimos anos, o desconto máximo subiu na reta final.",
           "Olhe o preço final no carrinho, com frete e impostos, e não só o percentual do anúncio.",
           "Se a peça é de tamanho difícil de achar, não espere a última fase: o estoque pode acabar antes."
@@ -59784,21 +59784,19 @@ export const reviewsData: unknown[] = [
           "Se o cupom entrou e se os pontos foram abatidos.",
           "O prazo de entrega, se a compra for presente de Natal.",
           "Se a peça é dos itens que só podem ser devolvidos em 7 dias."
+        ],
+        "paragraphs": [
+          "Frete: confira no carrinho o valor de entrega para seu endereço e as condições de eventual frete grátis."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da SHEIN? A Black Friday de 2026 cai na última sexta de novembro, dia 27. Hoje a SHEIN está no 11.11 e não anunciou a campanha. Pelo histórico, as ofertas de Black Friday entram depois do 11.11 e vão até o fim do mês; as fases mudam a cada ano.",
-          "A Black Friday da SHEIN vai até quando? Em 2024 e 2025, foi até o fim de novembro. Em 2023, até o sábado depois da Black Friday. A de 2026 ainda não tem data de fim.",
-          "O que é o 11.11 da SHEIN? É a promoção do Dia dos Solteiros, no dia 11 do mês 11. A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases de desconto até o fim do mês.",
-          "Tem imposto nas compras da SHEIN na Black Friday? Tem ICMS, de 17% a 20% conforme o estado, em toda compra internacional. O imposto de importação é zero nos pedidos de até US$ 50 e de 60%, menos US$ 30 no valor do imposto, acima disso.",
-          "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto, frete e seguro (se houver), já com os descontos. Acima disso, o imposto de importação volta.",
-          "Produto de Envio Nacional paga imposto de importação? Não. Os produtos de Envio Nacional já estão no Brasil e não pagam imposto de importação.",
-          "Posso usar mais de um cupom na SHEIN? Um cupom da SHEIN por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para somar o cupom da loja desse vendedor.",
-          "O 4CW5Y é cupom de desconto? Não é cupom, mas dá desconto, sim: é o código de indicação da Cecília. Pelo link, ou pesquisando o código no app ou no site da SHEIN, você abre uma seleção de produtos com promoções e descontos; quanto e em quais peças, a SHEIN decide.",
-          "Tem frete grátis na Black Friday da SHEIN? O frete grátis muda a cada fase da campanha: confira o do seu pedido no carrinho antes de pagar.",
-          "Quanto tempo tenho para devolver o que comprei na Black Friday? Até 20 dias depois de receber. Roupa íntima, moda praia, bodies, brincos e alguns outros itens só voltam no prazo de 7 dias."
+          "Quando começa e quanto dura a Black Friday da SHEIN? A campanha que junta o 11.11 e a Black Friday já começou, em outubro. A Black Friday cai na última sexta de novembro, dia 27, e não encontramos as datas das próximas fases nem a de fim.",
+          "Como funciona a Black Friday da SHEIN? As ofertas podem ter períodos e condições diferentes. Confira quais produtos recebem o desconto anunciado e compare o preço final no carrinho.",
+          "A SHEIN tem Cyber Monday? A Cyber Monday de 2026 cai na última segunda de novembro, dia 30. Não encontramos anúncio da SHEIN no Brasil para esse dia: confira a campanha na loja.",
+          "A compra da Black Friday chega antes do Natal? Não dá para garantir uma data. O prazo de entrega aparece na página do pedido antes de pagar: confira esse prazo em cada compra, porque o pedido internacional ainda leva de 3 a 5 dias para ser processado antes do envio.",
+          "O 4CW5Y é cupom de desconto? Não é cupom, mas dá desconto, sim: é o código de indicação da Cecília. Pelo link, ou pesquisando o código no app ou no site da SHEIN, você abre uma seleção de produtos com promoções e descontos; quanto e em quais peças, a SHEIN decide."
         ]
       }
     ],
@@ -59823,8 +59821,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-dates-taxes",
     "locale": "en",
     "translationKey": "shein-black-friday",
-    "title": "SHEIN Black Friday 2026: when it starts, what is live now (11.11) and how the 4CW5Y code works",
-    "seoTitle": "SHEIN Black Friday 2026: when it starts and what is live now",
+    "title": "SHEIN Black Friday 2026: when it starts, what SHEIN has announced and how the 4CW5Y code works",
+    "seoTitle": "SHEIN Black Friday 2026: when it starts and what SHEIN announced",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -59835,11 +59833,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Black Friday 2026 is November 27, and SHEIN, now in its 11.11 sale, has not announced its campaign. The 2023 to 2025 calendar, coupons, points and returns.",
-    "metaDescription": "SHEIN Black Friday 2026: it falls on Nov 27, SHEIN is in its 11.11 sale and has not announced the campaign. Past phases, \"up to 90%\", points and returns.",
+    "description": "Black Friday 2026 is November 27. In the US, SHEIN announced a Year-End Sale without dates; other countries differ. US calendar, coupons, points, returns and 4CW5Y.",
+    "metaDescription": "SHEIN Black Friday 2026 is Nov 27 and the calendar varies by country. The 4CW5Y referral code opens a selection with promotions and discounts.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59847,68 +59845,69 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Black sporty cardigan, light slingback pumps and floral pajamas from SHEIN, with the \"Black Friday\" banner and the SHEIN logo",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "In the last three years, the deals started before Black Friday and kept going after it",
-      "Returns within 20 days under SHEIN's published terms, with the first return of each order free"
-    ],
+    "pros": [],
     "cons": [
-      "The \"up to 90%\" applies to some items, not the whole cart",
-      "One SHEIN coupon per order, and it is not refunded on a partial return"
+      "The percentage in the ad applies to some items, not the whole cart"
     ],
     "contentSections": [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Black Friday 2026 falls on November 27. In early November, SHEIN focuses promotions on its 11.11 sale and has not yet published a Black Friday page; historically, major Black Friday deals launch after 11.11 and run through month-end. 4CW5Y does give you a discount: open SHEIN through Cecília's link and search 4CW5Y in the app or on the site, and it opens a selection with promotions and discounts."
+          "Black Friday 2026 falls on November 27. SHEIN's US Year-End Sale announcement includes Black Friday and Cyber Monday offers without campaign dates. Search referral code 4CW5Y in the SHEIN app or on the website to open a selection with promotions and discounts; SHEIN sets the eligible items and savings."
         ]
       },
       {
         "heading": "When SHEIN's Black Friday starts",
         "paragraphs": [
-          "In early November, SHEIN is running its 11.11 promotion and has not published Black Friday dates or a page for 2026. Black Friday on the calendar is the last Friday of the month, and the phases and dates vary with your country's SHEIN site. SHEIN combines 11.11 and Black Friday into a single campaign, with phases that raise the maximum discount until the end of the month. The table below is the yardstick: what SHEIN announced in the last three years."
+          "The calendar Black Friday is the last Friday of November, the 27th in 2026, and Cyber Monday is the 30th. Those dates do not say when SHEIN starts or ends its deals. In the US, SHEIN announced its [Year-End Sale](https://www.prnewswire.com/news-releases/shein-kicks-off-holiday-shopping-season-with-its-biggest-black-friday--cyber-monday-selection-yet-302914580.html) on October 20, with Black Friday and Cyber Monday deals; the release gives no dates or percentage.",
+          "Outside the US, campaigns, dates and discounts change by country, and we found no official calendar for other English-speaking countries: check the campaign on your country's SHEIN site or app. The table shows what SHEIN announced for the US store."
         ],
         "comparisonTable": {
-          "caption": "Phases and maximum discounts announced by SHEIN, by the press that published the announcements and by the brand's profiles. The \"up to\" applies to some items.",
+          "caption": "What SHEIN announced for its US store (us.shein.com and the app), according to SHEIN press releases. The \"up to\" applies to some items.",
           "headers": [
             "Year",
-            "Start and end",
-            "Maximum discount announced"
+            "Campaign and dates",
+            "Maximum announced"
           ],
           "rows": [
             [
               "2023",
-              "Nov 11 to 25",
-              "up to 80% at the start, up to 85% the week before and up to 90% on Black Friday and the Saturday after, with 48 hours of free shipping in Black Friday week"
+              "[Black Friday Early Access](https://www.prnewswire.com/news-releases/kickstart-holiday-shopping-now-with-sheins-black-friday-early-access-301978981.html): from Nov 6, through November and into early December, no end day given",
+              "up to 90% on more than 300,000 items"
             ],
             [
               "2024",
-              "Oct 21 to Nov 30",
-              "11.11: up to 85% at the start, 90% the week before and 95% on the days of 11.11. Black Friday: up to 90%, rising to 95% in the last five days of the month"
+              "[Early access Black Friday deals](https://www.prnewswire.com/news-releases/shein-kicks-off-holiday-shopping-season-with-early-access-black-friday-deals-302281514.html): Oct 21 to Dec 30",
+              "up to 90% on more than 300,000 items"
             ],
             [
               "2025",
-              "live since Nov 3, until Nov 30",
-              "up to 90% on more than 800,000 items in the first phase, with free shipping in several categories; in Black Friday week, up to 95% on more than 800,000 items"
+              "[Black Friday Warm-Up](https://www.prnewswire.com/news-releases/black-friday-warm-up-shein-deals-to-heat-up-your-holidays-302595864.html): announced Oct 28, new deals every week until December, no end day given",
+              "up to 90% on more than 500,000 items"
+            ],
+            [
+              "2026",
+              "[Year-End Sale](https://www.prnewswire.com/news-releases/shein-kicks-off-holiday-shopping-season-with-its-biggest-black-friday--cyber-monday-selection-yet-302914580.html): announced Oct 20, with Black Friday and Cyber Monday deals",
+              "not stated in the release"
             ]
           ]
         },
         "postParagraphs": [
-          "In 2026, 11.11 falls on a Wednesday and Black Friday on a Friday. If SHEIN repeats the pattern, the Black Friday deals will come after 11.11 and run to the end of the month. This is an estimate based on past years, and this guide is updated when SHEIN announces the 2026 campaign.",
-          "In all three years, the maximum discount went up near the end. That does not mean the item you want gets cheaper: compare the final price and stock, and if you need a hard-to-find size, don't wait for the last phase."
+          "In 2023, 2024 and 2025, the US announcements extended offers into December. These are historical announcements, not dates for 2026. Compare the final price of the item you want; a campaign maximum does not guarantee its price will fall."
         ]
       },
       {
-        "heading": "\"Up to 90%\" is not the whole cart",
+        "heading": "The advertised discount and your final price",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "Cecília Mauad in two looks from a SHEIN haul: a light blouse tied at the waist with a black midi skirt, and a long black dress with light cut-outs"
         },
         "paragraphs": [
-          "The campaign percentage is the biggest discount on some items. Most of the catalog has smaller discounts, and the price of each item changes across the phases. To avoid falling for the big number in the ad:"
+          "An advertised maximum discount applies to eligible items. Check whether the product you want is included and compare its final price:"
         ],
         "bullets": [
-          "Save the items to your wishlist before the campaign starts and note today's price.",
-          "Compare the wishlist price with the later phases: in the last three years, the maximum discount went up in the final stretch.",
+          "Save the items to your wishlist and note today's price before deciding when to buy.",
+          "Compare the wishlist price with the later phases.",
           "Look at the final price in the cart, with shipping and taxes, and not only the percentage in the announcement.",
           "If the item comes in a hard-to-find size, don't wait for the last phase: stock may run out first."
         ]
@@ -59917,7 +59916,7 @@ export const reviewsData: unknown[] = [
         "heading": "Coupons, points and the 4CW5Y code",
         "paragraphs": [
           "Under SHEIN's coupon policy, one platform coupon applies per order. Each coupon has an expiry date, and one not used in time becomes unavailable.",
-          "SHEIN points are worth US$ 1 per 100 points and take up to 30% off the product value, not counting shipping and taxes.",
+          "The checkout shows how many SHEIN points you can use and the discount they provide. Check that amount before paying.",
           "4CW5Y is not a coupon: it is Cecília's SHEIN referral code, and it does give you a discount. Open SHEIN through Cecília's link and search 4CW5Y in the SHEIN app or on the site: the code opens a page with a selection of recommended products, promotions and discounts. How much and on which items is up to SHEIN and varies. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order."
         ],
         "links": [
@@ -59934,10 +59933,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Exchanges and returns after Black Friday",
         "bullets": [
-          "**Deadline:** up to 20 days after you receive it, even if you simply did not like the piece. That is the window SHEIN publishes; the policy of your country's SHEIN site, shown on your order page, is the one that applies.",
-          "**Items that can only be returned within 7 days:** bodysuits, swimwear, underwear, earrings and piercings, and pet products, plus cosmetics, party items and craft items with the seal broken. These can only be returned within the 7-day withdrawal period, counted from delivery.",
-          "**Coupon:** on a partial return, the coupon counts as used and is not given back; if the order falls below the minimum, the difference comes out of the refund.",
-          "**Tax:** the import tax paid is not refunded once the order has shipped."
+          "**Before you buy:** check the return policy for your order, including the deadline, eligible items and return costs.",
+          "**Partial returns:** check how the refund is calculated when a coupon or promotion was used.",
+          "**Taxes:** consult the refund terms for your order and destination."
         ]
       },
       {
@@ -59945,19 +59943,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Whether the coupon went through and the points were applied.",
           "The delivery time, if the purchase is a Christmas present.",
-          "Whether the piece is among the items that can only be returned within 7 days."
+          "The return deadline, eligible items and return costs for your order."
+        ],
+        "paragraphs": [
+          "**Shipping:** check the delivery charge for your address and the conditions of any free shipping offer in the cart."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "When does SHEIN's Black Friday start and how long does it last? Black Friday 2026 falls on the last Friday of November, the 27th. SHEIN is in its 11.11 sale now and has not announced the campaign. Going by past years, the Black Friday deals come after 11.11 and run to the end of the month; phases change every year and by country site.",
-          "How long does SHEIN's Black Friday last? In 2024 and 2025, until the end of November. In 2023, until the Saturday after Black Friday. The 2026 one has no end date yet.",
-          "What is SHEIN's 11.11? It is the Singles' Day sale, on the 11th day of the 11th month. SHEIN combines 11.11 and Black Friday into a single campaign, with discount phases until the end of the month.",
-          "Can I use more than one coupon on SHEIN? One SHEIN coupon per order.",
-          "Is 4CW5Y a discount coupon? It is not a coupon, but it does give you a discount: it is Cecília's SHEIN referral code. Open SHEIN through the link and search for the code in the app or on the site: the code opens a selection of products with promotions and discounts; how much and on which items is up to SHEIN.",
-          "Is there free shipping on SHEIN's Black Friday? Free shipping changes with each phase of the campaign: check yours in the cart before paying.",
-          "How long do I have to return what I bought on Black Friday? Up to 20 days after you receive it, under SHEIN's published terms (check the policy of your country's SHEIN site on your order page). Underwear, swimwear, bodysuits, earrings and a few other items can only be returned within 7 days."
+          "When does SHEIN's Black Friday start and how long does it last? Black Friday 2026 falls on November 27. SHEIN's US Year-End Sale release includes seasonal offers but does not specify campaign dates. Check the campaign displayed in the store before buying.",
+          "How does SHEIN's Black Friday work? Offers may have different dates and conditions. Check which items qualify for the advertised discount and compare the final price in the cart.",
+          "Does SHEIN have Cyber Monday? Cyber Monday 2026 falls on November 30. SHEIN's 2026 US release includes Cyber Monday deals, without dates. For other countries, we found no announcement: check the campaign on your country's SHEIN site.",
+          "Will a Black Friday order arrive before Christmas? We can't guarantee a date. The delivery estimate appears in your order before you pay: check it on every purchase.",
+          "Is 4CW5Y a discount coupon? It is not a coupon, but it does give you a discount: it is Cecília's SHEIN referral code. Open SHEIN through the link and search for the code in the app or on the site: the code opens a selection of products with promotions and discounts; how much and on which items is up to SHEIN."
         ]
       }
     ],
@@ -59981,8 +59980,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein-fechas-impuestos",
     "locale": "es",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: cuándo es, qué hay ya en línea (11.11) y cómo funciona el código 4CW5Y",
-    "seoTitle": "Black Friday SHEIN 2026: cuándo es y qué hay ya en línea",
+    "title": "Black Friday SHEIN 2026: cuándo es, qué se sabe y cómo funciona el código 4CW5Y",
+    "seoTitle": "Black Friday SHEIN 2026: cuándo es y qué se sabe",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -59993,11 +59992,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "El Black Friday de 2026 cae el 27 de noviembre y SHEIN, hoy en el 11.11, todavía no anunció la campaña. El calendario de 2023 a 2025, cupones, puntos y devolución.",
-    "metaDescription": "Black Friday SHEIN 2026: cae el 27/11, SHEIN está en el 11.11 y no anunció la campaña. Historial de fases, el «hasta 90 %», puntos y devolución.",
+    "description": "El Black Friday de 2026 cae el 27 de noviembre, y el calendario de SHEIN cambia según el país. Qué se sabe, cupones, puntos, devoluciones y el código 4CW5Y.",
+    "metaDescription": "Black Friday SHEIN 2026: cae el 27/11 y el calendario varía según el país. El código de referido 4CW5Y abre una selección con promociones y descuentos.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60005,68 +60004,38 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cárdigan deportivo negro, salones slingback claros y pijama floral de SHEIN, con la franja \"Black Friday\" y el logo de SHEIN",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "En los tres últimos años, las ofertas empezaron antes del Black Friday y siguieron después",
-      "Devolución en hasta 20 días según las condiciones publicadas por SHEIN, con la primera devolución de cada pedido gratis"
-    ],
+    "pros": [],
     "cons": [
-      "El \"hasta 90%\" vale para algunos artículos, no para todo el carrito",
-      "Un cupón de SHEIN por pedido, y no se devuelve en la devolución parcial"
+      "El porcentaje del anuncio vale para algunos artículos, no para todo el carrito"
     ],
     "contentSections": [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El Black Friday de 2026 cae el 27 de noviembre. A comienzos de noviembre, SHEIN está en el 11.11 y aún no publicó la página del Black Friday; según el historial, las ofertas principales entran tras el 11.11 y duran hasta fin de mes. El 4CW5Y da descuento, sí: búscalo en la app o la web de SHEIN y se abre una selección con promociones."
+          "El Black Friday de 2026 cae el 27 de noviembre. No encontramos un calendario de SHEIN que valga para todos los países: las fechas y los descuentos cambian de uno a otro. El 4CW5Y da descuento, sí: búscalo en la app o la web de SHEIN y se abre una selección con promociones."
         ]
       },
       {
         "heading": "Cuándo empieza el Black Friday de SHEIN",
         "paragraphs": [
-          "A comienzos de noviembre, SHEIN tiene en marcha su promoción del 11.11 y no publicó fechas ni página del Black Friday de 2026. El Black Friday del calendario cae el último viernes del mes, y las fases y las fechas cambian según la web de SHEIN de tu país. SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que van subiendo el descuento máximo hasta fin de mes. La tabla de abajo es la vara de medir: lo que SHEIN anunció en los tres últimos años."
+          "El Black Friday del calendario cae el último viernes de noviembre, el 27 en 2026, y el Cyber Monday, el día 30. Esas fechas no dicen cuándo SHEIN empieza o termina las ofertas. Las campañas, las fechas y los descuentos cambian de un país a otro, y no encontramos un calendario oficial para todos. Para saber qué vale para ti, mira la campaña que aparece en la web o en la app de SHEIN de tu país."
         ],
-        "comparisonTable": {
-          "caption": "Fases y descuentos máximos anunciados por SHEIN, por la prensa que publicó los comunicados y por los perfiles de la marca. El \"hasta\" vale para algunos artículos.",
-          "headers": [
-            "Año",
-            "Inicio y fin",
-            "Descuento máximo anunciado"
-          ],
-          "rows": [
-            [
-              "2023",
-              "del 11 al 25/11",
-              "hasta 80% al comienzo, hasta 85% en la semana anterior y hasta 90% en el Black Friday y el sábado siguiente, con 48 horas de envío gratis en la semana del Black Friday"
-            ],
-            [
-              "2024",
-              "del 21/10 al 30/11",
-              "11.11: hasta 85% al comienzo, 90% en la semana anterior y 95% en los días del 11.11. Black Friday: hasta 90%, subiendo a 95% en los últimos cinco días del mes"
-            ],
-            [
-              "2025",
-              "en línea desde el 3/11, hasta el 30/11",
-              "hasta 90% en más de 800 mil artículos en la primera fase, con envío gratis en varias categorías; en la semana del Black Friday, hasta 95% en más de 800 mil artículos"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "En 2026, el 11.11 cae en miércoles y el Black Friday en viernes. Si SHEIN repite el patrón, las ofertas de Black Friday entrarán después del 11.11 y durarán hasta fin de mes. Es una estimación según el historial, y esta guía se actualiza cuando SHEIN anuncie la campaña de 2026.",
-          "En los tres años, el descuento máximo subió cerca del final. Eso no garantiza que el artículo que quieres salga más barato: compara el precio final y el stock, y si necesitas una talla difícil, no esperes a la última fase."
+          "El descuento máximo de una campaña no garantiza que la prenda que quieres salga más barata: compara el precio final y el stock, y si necesitas una talla difícil, no esperes a la última fase."
         ]
       },
       {
-        "heading": "\"Hasta 90%\" no es todo el carrito",
+        "heading": "El descuento anunciado y el precio final",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "Cecília Mauad en dos looks de un haul de SHEIN: blusa clara atada a la cintura con falda midi negra, y vestido largo negro con recortes claros"
         },
         "paragraphs": [
-          "El porcentaje de la campaña es el mayor descuento de algunos artículos. La mayor parte del catálogo tiene descuentos menores, y el precio de cada prenda cambia a lo largo de las fases. Para no caer en el número grande de la publicidad:"
+          "El descuento máximo anunciado se aplica a los artículos que cumplen sus condiciones. Comprueba si incluye la prenda que quieres y compara su precio final:"
         ],
         "bullets": [
-          "Guarda las prendas en la lista de deseos antes de que empiece la campaña y anota el precio de ahora.",
-          "Compara el precio de la lista con el de las fases siguientes: en los tres últimos años, el descuento máximo subió en la recta final.",
+          "Guarda las prendas en la lista de deseos y anota el precio de ahora antes de decidir cuándo comprar.",
+          "Compara el precio de la lista con el de las fases siguientes.",
           "Mira el precio final en el carrito, con envío e impuestos, y no solo el porcentaje del anuncio.",
           "Si la prenda es de una talla difícil de encontrar, no esperes a la última fase: el stock puede agotarse antes."
         ]
@@ -60075,7 +60044,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupones, puntos y el código 4CW5Y",
         "paragraphs": [
           "Según la política de cupones de SHEIN, vale un cupón de la plataforma por pedido. Cada cupón tiene vencimiento, y el que no se usó a tiempo deja de estar disponible.",
-          "Los puntos SHEIN valen US$ 1 cada 100 puntos y descuentan hasta 30% del valor de los productos, sin contar envío e impuestos.",
+          "El resumen del pedido muestra cuántos puntos SHEIN puedes usar y el descuento que aportan. Revisa ese importe antes de pagar.",
           "El 4CW5Y no es un cupón: es el código de referido de Cecília en SHEIN, y sí da descuento. Abre SHEIN con el enlace de Cecília y busca el 4CW5Y en la app o en el sitio de SHEIN: el código abre una página con una selección de productos recomendados, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN y varía. Las campañas de SHEIN cambian todo el tiempo: revisa las vigentes en la página de la tienda aquí en el sitio antes de cerrar el pedido."
         ],
         "links": [
@@ -60092,10 +60061,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cambios y devoluciones después del Black Friday",
         "bullets": [
-          "**Plazo:** hasta 20 días después de recibirlo, aunque simplemente no te haya gustado la prenda. Es el plazo que publica SHEIN; vale la política de la web de SHEIN de tu país, que aparece en la página de tu pedido.",
-          "**Artículos que solo se devuelven en 7 días:** bodies, ropa de playa, ropa interior, aretes y piercings, productos para mascotas, y cosméticos, artículos de fiesta y de manualidades con el sello abierto. Estos solo se pueden devolver dentro del plazo de arrepentimiento de 7 días, contado desde la entrega.",
-          "**Cupón:** en una devolución parcial, el cupón cuenta como usado y no se devuelve; si el pedido queda por debajo del mínimo, la diferencia sale del reembolso.",
-          "**Impuesto:** el impuesto de importación pagado no se devuelve después de que el pedido fue enviado."
+          "**Antes de comprar:** consulta la política de devolución aplicable al pedido, con el plazo, los artículos admitidos y los costes de devolución.",
+          "**Devolución parcial:** revisa cómo se calcula el reembolso si usaste un cupón o una promoción.",
+          "**Impuestos:** consulta las condiciones de reembolso aplicables al pedido y al destino."
         ]
       },
       {
@@ -60103,19 +60071,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Si el cupón entró y si los puntos fueron descontados.",
           "El plazo de entrega, si la compra es un regalo de Navidad.",
-          "Si la prenda es de los artículos que solo se pueden devolver en 7 días."
+          "El plazo, los artículos admitidos y los costes de devolución del pedido."
+        ],
+        "paragraphs": [
+          "**Envío:** revisa en el carrito el coste de entrega para tu dirección y las condiciones de cualquier oferta de envío gratis."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuándo empieza y cuánto dura el Black Friday de SHEIN? El Black Friday de 2026 cae el último viernes de noviembre, el día 27. Hoy SHEIN está en el 11.11 y no anunció la campaña. Según el historial, las ofertas de Black Friday entran después del 11.11 y duran hasta fin de mes; las fases cambian cada año y según la web de tu país.",
-          "¿Hasta cuándo dura el Black Friday de SHEIN? En 2024 y 2025 duró hasta fin de noviembre. En 2023, hasta el sábado después del Black Friday. El de 2026 todavía no tiene fecha de fin.",
-          "¿Qué es el 11.11 de SHEIN? Es la promoción del Día de los Solteros, el día 11 del mes 11. SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases de descuento hasta fin de mes.",
-          "¿Puedo usar más de un cupón en SHEIN? Un cupón de SHEIN por pedido.",
-          "¿El 4CW5Y es un cupón de descuento? No es un cupón, pero sí da descuento: es el código de referido de Cecília en SHEIN. Abre SHEIN con el enlace y busca el código en la app o en el sitio: el código abre una selección con promociones y descuentos; cuánto y en qué prendas lo decide SHEIN.",
-          "¿Hay envío gratis en el Black Friday de SHEIN? El envío gratis cambia en cada fase de la campaña: revisa el de tu pedido en el carrito antes de pagar.",
-          "¿Cuánto tiempo tengo para devolver lo que compré en el Black Friday? Hasta 20 días después de recibirlo, según las condiciones publicadas por SHEIN (revisa la política de la web de SHEIN de tu país en la página de tu pedido). Ropa interior, ropa de playa, bodies, aretes y algunos otros artículos solo se devuelven dentro de 7 días."
+          "¿Cuándo empieza y cuánto dura el Black Friday de SHEIN? El Black Friday de 2026 cae el 27 de noviembre. Las fechas de la campaña cambian según el país: mira la que aparece en la tienda SHEIN de tu país.",
+          "¿Cómo funciona el Black Friday de SHEIN? Las ofertas pueden tener distintas fechas y condiciones. Comprueba qué artículos tienen el descuento anunciado y compara el precio final en el carrito.",
+          "¿SHEIN tiene Cyber Monday? El Cyber Monday de 2026 cae el 30 de noviembre. No encontramos un anuncio que valga para todos los países: mira la campaña en la tienda de tu país.",
+          "¿La compra del Black Friday llega antes de Navidad? No podemos garantizar una fecha. El plazo de entrega aparece en el pedido antes de pagar: revisa ese plazo en cada compra.",
+          "¿El 4CW5Y es un cupón de descuento? No es un cupón, pero sí da descuento: es el código de referido de Cecília en SHEIN. Abre SHEIN con el enlace y busca el código en la app o en el sitio: el código abre una selección con promociones y descuentos; cuánto y en qué prendas lo decide SHEIN."
         ]
       }
     ],
@@ -60139,8 +60108,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein-dates-et-taxes",
     "locale": "fr",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026 : quand il commence, ce qui est déjà en ligne (11.11) et comment fonctionne le code 4CW5Y",
-    "seoTitle": "Black Friday SHEIN 2026 : quand et ce qui est déjà en ligne",
+    "title": "Black Friday SHEIN 2026 : quand il a lieu, ce que l'on sait et comment fonctionne le code 4CW5Y",
+    "seoTitle": "Black Friday SHEIN 2026 : quand et ce que l'on sait",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60151,11 +60120,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Le Black Friday 2026 tombe le 27 novembre et SHEIN, en plein 11.11, n'a pas encore annoncé sa campagne. Le calendrier de 2023 à 2025, coupons, points et retour.",
-    "metaDescription": "Black Friday SHEIN 2026 : le 27/11, SHEIN est au 11.11 et n'a pas annoncé la campagne. Historique des phases, le « jusqu'à 90 % », points et retour.",
+    "description": "Le Black Friday 2026 tombe le 27 novembre, et le calendrier de SHEIN change selon le pays. Ce que l'on sait, coupons, points, retours et le code 4CW5Y.",
+    "metaDescription": "Black Friday SHEIN 2026 : le 27/11, calendrier variable selon le pays. Le code de parrainage 4CW5Y ouvre une sélection avec promotions et remises.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60163,68 +60132,38 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cardigan sport noir, escarpins slingback clairs et pyjama fleuri SHEIN, avec le bandeau « Black Friday » et le logo SHEIN",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Ces trois dernières années, les offres ont commencé avant le Black Friday et ont continué après",
-      "Retour sous 20 jours selon les conditions publiées par SHEIN, le premier retour de chaque commande étant gratuit"
-    ],
+    "pros": [],
     "cons": [
-      "Le « jusqu'à 90 % » vaut pour certains articles, pas pour tout le panier",
-      "Un seul coupon SHEIN par commande, et il n'est pas remboursé en cas de retour partiel"
+      "Le pourcentage de l'annonce vaut pour certains articles, pas pour tout le panier"
     ],
     "contentSections": [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday 2026 tombe le 27 novembre. Début novembre, SHEIN est en pleine promo 11.11 et n'a pas encore publié la page du Black Friday ; d'après l'historique, les offres principales arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y donne bien droit à une remise : recherchez-le dans l'appli ou sur le site SHEIN pour ouvrir une sélection en promotion."
+          "Le Black Friday 2026 tombe le 27 novembre. Nous n'avons pas trouvé de calendrier SHEIN valable pour tous les pays : les dates et les remises changent de l'un à l'autre. Le 4CW5Y donne bien droit à une remise : recherchez-le dans l'appli ou sur le site SHEIN pour ouvrir une sélection en promotion."
         ]
       },
       {
         "heading": "Quand commence le Black Friday de SHEIN",
         "paragraphs": [
-          "Début novembre, SHEIN a en cours sa promotion du 11.11 et n'a publié ni dates ni page pour le Black Friday 2026. Le Black Friday du calendrier tombe le dernier vendredi du mois, et les phases et les dates changent selon le site SHEIN de votre pays. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases qui font monter la remise maximale jusqu'à la fin du mois. Le tableau ci-dessous sert de repère : ce que SHEIN a annoncé ces trois dernières années."
+          "Le Black Friday du calendrier tombe le dernier vendredi de novembre, le 27 en 2026, et le Cyber Monday, le 30. Ces dates ne disent pas quand SHEIN commence ou termine ses offres. Les campagnes, les dates et les remises changent d'un pays à l'autre, et nous n'avons pas trouvé de calendrier officiel pour tous. Pour savoir ce qui vaut pour vous, consultez la campagne affichée sur le site ou l'appli SHEIN de votre pays."
         ],
-        "comparisonTable": {
-          "caption": "Phases et remises maximales annoncées par SHEIN, par la presse qui a publié les communiqués et par les profils de la marque. Le « jusqu'à » vaut pour certains articles.",
-          "headers": [
-            "Année",
-            "Début et fin",
-            "Remise maximale annoncée"
-          ],
-          "rows": [
-            [
-              "2023",
-              "du 11 au 25/11",
-              "jusqu'à 80 % au début, jusqu'à 85 % la semaine précédente et jusqu'à 90 % pour le Black Friday et le samedi suivant, avec 48 heures de livraison gratuite la semaine du Black Friday"
-            ],
-            [
-              "2024",
-              "du 21/10 au 30/11",
-              "11.11 : jusqu'à 85 % au début, 90 % la semaine précédente et 95 % les jours du 11.11. Black Friday : jusqu'à 90 %, montant à 95 % pendant les cinq derniers jours du mois"
-            ],
-            [
-              "2025",
-              "en ligne dès le 3/11, jusqu'au 30/11",
-              "jusqu'à 90 % sur plus de 800 000 articles dans la première phase, avec livraison gratuite dans plusieurs catégories ; la semaine du Black Friday, jusqu'à 95 % sur plus de 800 000 articles"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "En 2026, le 11.11 tombe un mercredi et le Black Friday un vendredi. Si SHEIN reprend le schéma, les offres du Black Friday arriveront après le 11.11 et dureront jusqu'à la fin du mois. C'est une estimation d'après l'historique, et ce guide est mis à jour quand SHEIN annoncera la campagne de 2026.",
-          "Ces trois années, la remise maximale a grimpé vers la fin. Cela ne garantit pas que l'article voulu sera moins cher : comparez le prix final et le stock, et si vous cherchez une taille difficile à trouver, n'attendez pas la dernière phase."
+          "La remise maximale d'une campagne ne garantit pas que la pièce que vous voulez soit moins chère : comparez le prix final et le stock, et si vous cherchez une taille difficile à trouver, n'attendez pas la dernière phase."
         ]
       },
       {
-        "heading": "« Jusqu'à 90 % », ce n'est pas tout le panier",
+        "heading": "La remise annoncée et le prix final",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "Cecília Mauad dans deux looks d'un haul SHEIN : blouse claire nouée à la taille avec une jupe midi noire, et longue robe noire à découpes claires"
         },
         "paragraphs": [
-          "Le pourcentage de la campagne est la plus forte remise de certains articles. La plus grande partie du catalogue a des remises plus faibles, et le prix de chaque pièce change au fil des phases. Pour ne pas tomber dans le gros chiffre de la publicité :"
+          "La remise maximale annoncée concerne les articles qui remplissent ses conditions. Vérifiez si la pièce souhaitée en fait partie et comparez son prix final :"
         ],
         "bullets": [
-          "Enregistrez les pièces dans la liste d'envies avant le début de la campagne et notez le prix actuel.",
-          "Comparez le prix de la liste à celui des phases suivantes : ces trois dernières années, la remise maximale est montée dans la dernière ligne droite.",
+          "Enregistrez les pièces dans votre liste de souhaits et notez leur prix actuel avant de décider quand acheter.",
+          "Comparez le prix de la liste à celui des phases suivantes.",
           "Regardez le prix final dans le panier, avec la livraison et les taxes, et pas seulement le pourcentage de l'annonce.",
           "Pour une taille difficile à trouver, n'attendez pas la dernière phase : le stock peut s'épuiser avant."
         ]
@@ -60233,7 +60172,7 @@ export const reviewsData: unknown[] = [
         "heading": "Coupons, points et le code 4CW5Y",
         "paragraphs": [
           "Selon la politique de coupons de SHEIN, un seul coupon de la plateforme peut être utilisé par commande. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
-          "Les points SHEIN valent US$ 1 pour 100 points et déduisent jusqu'à 30 % de la valeur des produits, hors livraison et taxes.",
+          "Le récapitulatif de commande indique combien de points SHEIN vous pouvez utiliser et la remise correspondante. Vérifiez ce montant avant de payer.",
           "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage SHEIN de Cecília, et il donne bien droit à une remise. Ouvrez SHEIN via le lien de Cecília et recherchez le 4CW5Y dans l'appli ou sur le site SHEIN : le code ouvre une page avec une sélection de produits recommandés, de promotions et de remises. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande."
         ],
         "links": [
@@ -60250,10 +60189,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Échanges et retours après le Black Friday",
         "bullets": [
-          "**Délai :** jusqu'à 20 jours après la réception, même si la pièce ne vous a simplement pas plu. C'est le délai publié par SHEIN ; c'est la politique du site SHEIN de votre pays, indiquée sur la page de votre commande, qui s'applique.",
-          "**Articles qui ne se retournent que sous 7 jours :** bodies, maillots et vêtements de plage, sous-vêtements, boucles d'oreilles et piercings, produits pour animaux, ainsi que cosmétiques, articles de fête et de loisirs créatifs au scellé ouvert. Ceux-ci ne peuvent être retournés que dans le délai de rétractation de 7 jours, compté à partir de la livraison.",
-          "**Coupon :** en cas de retour partiel, le coupon compte comme utilisé et n'est pas rendu ; si la commande passe sous le minimum, la différence est retirée du remboursement.",
-          "**Taxe :** la taxe d'importation payée n'est pas remboursée une fois la commande expédiée."
+          "**Avant d’acheter :** consultez la politique de retour applicable à la commande : délai, articles acceptés et frais de retour.",
+          "**Retour partiel :** vérifiez le calcul du remboursement si vous avez utilisé un coupon ou une promotion.",
+          "**Taxes :** consultez les conditions de remboursement applicables à la commande et à sa destination."
         ]
       },
       {
@@ -60261,19 +60199,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Si le coupon a bien été pris en compte et si les points ont été déduits.",
           "Le délai de livraison, si l'achat est un cadeau de Noël.",
-          "Si la pièce fait partie des articles qui ne se retournent que sous 7 jours."
+          "Le délai, les articles acceptés et les frais de retour de la commande."
+        ],
+        "paragraphs": [
+          "**Livraison :** vérifiez dans le panier les frais pour votre adresse et les conditions de toute offre de livraison gratuite."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quand commence et combien de temps dure le Black Friday de SHEIN ? Le Black Friday 2026 tombe le dernier vendredi de novembre, le 27. SHEIN est aujourd'hui au 11.11 et n'a pas annoncé la campagne. D'après l'historique, les offres du Black Friday arrivent après le 11.11 et durent jusqu'à la fin du mois ; les phases changent chaque année et selon le site de votre pays.",
-          "Jusqu'à quand dure le Black Friday de SHEIN ? En 2024 et 2025, jusqu'à la fin de novembre. En 2023, jusqu'au samedi après le Black Friday. Celui de 2026 n'a pas encore de date de fin.",
-          "Qu'est-ce que le 11.11 de SHEIN ? C'est la promotion de la Fête des célibataires, le 11 du mois 11. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases de remise jusqu'à la fin du mois.",
-          "Puis-je utiliser plus d'un coupon sur SHEIN ? Un coupon SHEIN par commande.",
-          "Le 4CW5Y est-il un coupon de réduction ? Ce n'est pas un coupon, mais il donne bien droit à une remise : c'est le code de parrainage SHEIN de Cecília. Ouvrez SHEIN via le lien et recherchez le code dans l'appli ou sur le site : le code ouvre une sélection avec des promotions et des remises ; combien et sur quelles pièces, c'est SHEIN qui décide.",
-          "La livraison est-elle gratuite pendant le Black Friday de SHEIN ? La livraison gratuite change à chaque phase de la campagne : vérifiez celle de votre commande dans le panier avant de payer.",
-          "De combien de temps est-ce que je dispose pour retourner mes achats du Black Friday ? Jusqu'à 20 jours après la réception, selon les conditions publiées par SHEIN (vérifiez la politique du site SHEIN de votre pays sur la page de votre commande). Sous-vêtements, maillots, bodies, boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
+          "Quand commence et combien de temps dure le Black Friday de SHEIN ? Le Black Friday 2026 tombe le 27 novembre. Les dates de la campagne changent selon le pays : consultez celle affichée sur la boutique SHEIN de votre pays.",
+          "Comment fonctionne le Black Friday de SHEIN ? Les offres peuvent avoir des dates et des conditions différentes. Vérifiez les articles concernés par la remise annoncée et comparez le prix final dans le panier.",
+          "SHEIN a-t-il un Cyber Monday ? Le Cyber Monday 2026 tombe le 30 novembre. Nous n'avons pas trouvé d'annonce valable pour tous les pays : consultez la campagne de la boutique de votre pays.",
+          "L'achat du Black Friday arrive-t-il avant Noël ? Nous ne pouvons pas garantir de date. Le délai de livraison s'affiche sur la commande avant le paiement : vérifiez ce délai à chaque achat.",
+          "Le 4CW5Y est-il un coupon de réduction ? Ce n'est pas un coupon, mais il donne bien droit à une remise : c'est le code de parrainage SHEIN de Cecília. Ouvrez SHEIN via le lien et recherchez le code dans l'appli ou sur le site : le code ouvre une sélection avec des promotions et des remises ; combien et sur quelles pièces, c'est SHEIN qui décide."
         ]
       }
     ],
@@ -60297,8 +60236,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-termine-steuern",
     "locale": "de",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: Wann er beginnt, was schon läuft (11.11) und wie der Code 4CW5Y funktioniert",
-    "seoTitle": "SHEIN Black Friday 2026: Wann er beginnt, was schon läuft",
+    "title": "Black Friday SHEIN 2026: Wann er ist, was bekannt ist und wie der Code 4CW5Y funktioniert",
+    "seoTitle": "SHEIN Black Friday 2026: Wann er ist und was bekannt ist",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60309,11 +60248,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Der Black Friday 2026 fällt auf den 27. November, und SHEIN, derzeit beim 11.11, hat die Aktion noch nicht angekündigt. Kalender von 2023 bis 2025, Gutscheine, Punkte und Rückgabe.",
-    "metaDescription": "Black Friday SHEIN 2026: SHEIN ist beim 11.11 und hat die Aktion noch nicht angekündigt. Phasen der Vorjahre, „bis zu 90 %“, Punkte, Rückgabe.",
+    "description": "Der Black Friday 2026 fällt auf den 27. November, und der SHEIN-Kalender ändert sich je nach Land. Was bekannt ist, Gutscheine, Punkte, Rückgabe und der Code 4CW5Y.",
+    "metaDescription": "SHEIN Black Friday 2026: am 27.11., Kalender je nach Land verschieden. Der Empfehlungscode 4CW5Y öffnet eine Auswahl mit Aktionen und Rabatten.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60321,68 +60260,38 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Schwarze Sportjacke, helle Slingback-Pumps und geblümter Pyjama von SHEIN, mit dem Banner „Black Friday“ und dem SHEIN-Logo",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "In den letzten drei Jahren begannen die Angebote vor dem Black Friday und liefen danach weiter",
-      "Rückgabe innerhalb von 20 Tagen nach den veröffentlichten SHEIN-Bedingungen, die erste Rückgabe jeder Bestellung ist kostenlos"
-    ],
+    "pros": [],
     "cons": [
-      "Das „bis zu 90 %“ gilt für einzelne Artikel, nicht für den ganzen Warenkorb",
-      "Ein SHEIN-Gutschein pro Bestellung, und er wird bei einer Teilrückgabe nicht erstattet"
+      "Der Prozentsatz der Ankündigung gilt für einzelne Artikel, nicht für den ganzen Warenkorb"
     ],
     "contentSections": [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der Black Friday 2026 fällt auf den 27. November. Anfang November konzentriert SHEIN seine Aktionen auf den 11.11 und hat noch keine Black-Friday-Seite veröffentlicht; nach den Vorjahren starten die Hauptangebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y bringt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie in der App oder auf der Website nach 4CW5Y: Dann öffnet sich eine Auswahl mit Aktionen und Rabatten."
+          "Der Black Friday 2026 fällt auf den 27. November. Wir haben keinen SHEIN-Kalender gefunden, der für alle Länder gilt: Termine und Rabatte ändern sich von Land zu Land. Der 4CW5Y bringt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie in der App oder auf der Website nach 4CW5Y: Dann öffnet sich eine Auswahl mit Aktionen und Rabatten."
         ]
       },
       {
         "heading": "Wann der Black Friday von SHEIN beginnt",
         "paragraphs": [
-          "Anfang November läuft bei SHEIN die 11.11-Aktion, und Termine oder eine Seite zum Black Friday 2026 gibt es noch nicht. Der Black Friday im Kalender ist der letzte Freitag des Monats, und Phasen und Termine hängen vom SHEIN-Shop Ihres Landes ab. SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Phasen, die den Höchstrabatt bis Monatsende anheben. Die Tabelle unten ist der Maßstab: was SHEIN in den letzten drei Jahren angekündigt hat."
+          "Der Black Friday im Kalender fällt auf den letzten Freitag im November, 2026 der 27., und der Cyber Monday auf den 30. Diese Daten sagen nicht, wann SHEIN seine Angebote beginnt oder beendet. Aktionen, Termine und Rabatte ändern sich von Land zu Land, und einen offiziellen Kalender für alle haben wir nicht gefunden. Um zu wissen, was für Sie gilt, prüfen Sie die Aktion, die auf der SHEIN-Website oder in der App Ihres Landes erscheint."
         ],
-        "comparisonTable": {
-          "caption": "Phasen und Höchstrabatte, die SHEIN, die Presse, die die Mitteilungen veröffentlicht hat, und die Profile der Marke angekündigt haben. Das „bis zu“ gilt für einzelne Artikel.",
-          "headers": [
-            "Jahr",
-            "Beginn und Ende",
-            "Angekündigter Höchstrabatt"
-          ],
-          "rows": [
-            [
-              "2023",
-              "11. bis 25.11.",
-              "bis zu 80 % zu Beginn, bis zu 85 % in der Woche davor und bis zu 90 % am Black Friday und am Samstag danach, mit 48 Stunden kostenlosem Versand in der Black-Friday-Woche"
-            ],
-            [
-              "2024",
-              "21.10. bis 30.11.",
-              "11.11: bis zu 85 % zu Beginn, 90 % in der Woche davor und 95 % an den Tagen des 11.11. Black Friday: bis zu 90 %, in den letzten fünf Tagen des Monats auf 95 % steigend"
-            ],
-            [
-              "2025",
-              "online seit dem 3.11., bis 30.11.",
-              "bis zu 90 % auf mehr als 800.000 Artikel in der ersten Phase, mit kostenlosem Versand in mehreren Kategorien; in der Black-Friday-Woche bis zu 95 % auf mehr als 800.000 Artikel"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "2026 fällt der 11.11 auf einen Mittwoch und der Black Friday auf einen Freitag. Wenn SHEIN das Muster wiederholt, kommen die Black-Friday-Angebote nach dem 11.11 und laufen bis Monatsende. Das ist eine Schätzung nach den Vorjahren, und dieser Ratgeber wird aktualisiert, sobald SHEIN die Aktion 2026 ankündigt.",
-          "In allen drei Jahren stieg der Höchstrabatt gegen Ende. Das heißt nicht, dass der gewünschte Artikel günstiger wird: Vergleichen Sie Endpreis und Bestand, und wer eine schwer zu findende Größe braucht, wartet nicht auf die letzte Phase."
+          "Der Höchstrabatt einer Aktion garantiert nicht, dass das gewünschte Teil günstiger wird: Vergleichen Sie Endpreis und Bestand, und wenn Sie eine schwer zu findende Größe brauchen, warten Sie nicht auf die letzte Phase."
         ]
       },
       {
-        "heading": "„Bis zu 90 %“ ist nicht der ganze Warenkorb",
+        "heading": "Der beworbene Rabatt und der Endpreis",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "Cecília Mauad in zwei Looks aus einem SHEIN-Haul: helle Bluse, in der Taille geknotet, mit schwarzem Midirock, und langes schwarzes Kleid mit hellen Cut-outs"
         },
         "paragraphs": [
-          "Der Prozentsatz der Aktion ist der höchste Rabatt auf einzelne Artikel. Der größte Teil des Sortiments hat kleinere Rabatte, und der Preis jedes Teils ändert sich im Lauf der Phasen. Damit Sie nicht auf die große Zahl der Werbung hereinfallen:"
+          "Der beworbene Höchstrabatt gilt für Artikel, die seine Bedingungen erfüllen. Prüfen Sie, ob Ihr gewünschtes Teil dazugehört, und vergleichen Sie den Endpreis:"
         ],
         "bullets": [
-          "Speichern Sie die Teile vor Beginn der Aktion auf der Wunschliste und notieren Sie den heutigen Preis.",
-          "Vergleichen Sie den Preis auf der Liste mit dem der späteren Phasen: In den letzten drei Jahren stieg der Höchstrabatt auf der Zielgeraden.",
+          "Speichern Sie die Teile auf Ihrer Wunschliste und notieren Sie den aktuellen Preis, bevor Sie den Kaufzeitpunkt wählen.",
+          "Vergleichen Sie den Preis auf der Liste mit dem der späteren Phasen.",
           "Achten Sie auf den Endpreis im Warenkorb, mit Versand und Steuern, und nicht nur auf den Prozentsatz der Ankündigung.",
           "Wenn das Teil in einer schwer zu findenden Größe kommt, warten Sie nicht auf die letzte Phase: Der Artikel kann vorher vergriffen sein."
         ]
@@ -60391,7 +60300,7 @@ export const reviewsData: unknown[] = [
         "heading": "Gutscheine, Punkte und der Code 4CW5Y",
         "paragraphs": [
           "Nach der Gutscheinrichtlinie von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Jeder Gutschein hat ein Ablaufdatum, danach ist er nicht mehr verfügbar.",
-          "SHEIN-Punkte sind US$ 1 pro 100 Punkte wert und senken den Warenwert um bis zu 30 %, ohne Versand und Steuern.",
+          "Die Bestellübersicht zeigt, wie viele SHEIN-Punkte Sie einsetzen können und welchen Rabatt sie ergeben. Prüfen Sie den Betrag vor dem Bezahlen.",
           "4CW5Y ist kein Gutschein, sondern Cecílias SHEIN-Empfehlungscode, und er bringt Rabatt. Öffnen Sie SHEIN über Cecílias Link und suchen Sie in der SHEIN-App oder auf der Website nach 4CW5Y: Der Code öffnet eine Seite mit einer Auswahl empfohlener Produkte, Aktionen und Rabatte. Wie hoch und auf welche Artikel, entscheidet SHEIN und variiert. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen."
         ],
         "links": [
@@ -60408,10 +60317,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Umtausch und Rückgabe nach dem Black Friday",
         "bullets": [
-          "**Frist:** bis zu 20 Tage nach Erhalt, auch wenn Ihnen das Teil einfach nicht gefallen hat. Das ist die von SHEIN veröffentlichte Frist; maßgeblich ist die Rückgaberegelung der SHEIN-Seite Ihres Landes, die auf der Seite Ihrer Bestellung steht.",
-          "**Artikel, die nur innerhalb von 7 Tagen zurückgehen:** Bodys, Bademode, Unterwäsche, Ohrringe und Piercings, Tierbedarf sowie Kosmetik, Partyartikel und Bastelbedarf mit geöffnetem Siegel. Diese können nur innerhalb der Widerrufsfrist von 7 Tagen zurückgegeben werden, gerechnet ab Lieferung.",
-          "**Gutschein:** Bei einer Teilrückgabe gilt der Gutschein als eingelöst und wird nicht zurückgegeben; fällt die Bestellung unter den Mindestwert, wird die Differenz von der Erstattung abgezogen.",
-          "**Steuer:** Der gezahlte Einfuhrzoll wird nicht erstattet, sobald die Bestellung versandt wurde."
+          "**Vor dem Kauf:** Prüfen Sie die Rückgabebedingungen Ihrer Bestellung, einschließlich Frist, rückgabefähiger Artikel und Rücksendekosten.",
+          "**Teilrückgabe:** Prüfen Sie, wie die Erstattung bei einem verwendeten Gutschein oder einer Aktion berechnet wird.",
+          "**Steuern:** Beachten Sie die Erstattungsbedingungen für Ihre Bestellung und das Lieferziel."
         ]
       },
       {
@@ -60419,19 +60327,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Ob der Gutschein angewendet und die Punkte abgezogen wurden.",
           "Die Lieferzeit, wenn der Einkauf ein Weihnachtsgeschenk ist.",
-          "Ob das Teil zu den Artikeln gehört, die nur innerhalb von 7 Tagen zurückgehen."
+          "Die Rückgabefrist, rückgabefähige Artikel und Rücksendekosten Ihrer Bestellung."
+        ],
+        "paragraphs": [
+          "**Versand:** Prüfen Sie im Warenkorb die Lieferkosten für Ihre Adresse und die Bedingungen eines möglichen Gratisversands."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Wann beginnt der Black Friday von SHEIN und wie lange dauert er? Der Black Friday 2026 fällt auf den letzten Freitag im November, den 27. SHEIN ist derzeit beim 11.11 und hat die Aktion nicht angekündigt. Nach den Vorjahren kommen die Black-Friday-Angebote nach dem 11.11 und laufen bis Monatsende; die Phasen ändern sich jedes Jahr und je nach Shop Ihres Landes.",
-          "Wie lange läuft der Black Friday von SHEIN? 2024 und 2025 bis Ende November. 2023 bis zum Samstag nach dem Black Friday. Der von 2026 hat noch kein Enddatum.",
-          "Was ist der 11.11 von SHEIN? Das ist die Aktion zum Singles' Day, am 11. Tag des 11. Monats. SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Rabattphasen bis Monatsende.",
-          "Kann ich bei SHEIN mehr als einen Gutschein nutzen? Ein SHEIN-Gutschein pro Bestellung.",
-          "Ist 4CW5Y ein Rabattgutschein? Kein Gutschein, aber er bringt Rabatt: Es ist Cecílias SHEIN-Empfehlungscode. Öffnen Sie SHEIN über den Link und suchen Sie in der App oder auf der Website nach dem Code: Er öffnet eine Auswahl mit Aktionen und Rabatten; wie hoch und auf welche Artikel, entscheidet SHEIN.",
-          "Gibt es am Black Friday von SHEIN kostenlosen Versand? Der kostenlose Versand ändert sich mit jeder Phase der Aktion: Prüfen Sie den Ihrer Bestellung im Warenkorb, bevor Sie bezahlen.",
-          "Wie lange habe ich Zeit, am Black Friday Gekauftes zurückzugeben? Bis zu 20 Tage nach Erhalt, nach den veröffentlichten SHEIN-Bedingungen (prüfen Sie die Regelung der SHEIN-Seite Ihres Landes auf der Seite Ihrer Bestellung). Unterwäsche, Bademode, Bodys, Ohrringe und einige andere Artikel gehen nur innerhalb von 7 Tagen zurück."
+          "Wann beginnt und wie lange dauert der Black Friday von SHEIN? Der Black Friday 2026 fällt auf den 27. November. Die Termine der Aktion ändern sich je nach Land: Prüfen Sie die Aktion, die im SHEIN-Shop Ihres Landes erscheint.",
+          "Wie funktioniert der Black Friday von SHEIN? Angebote können unterschiedliche Laufzeiten und Bedingungen haben. Prüfen Sie, welche Artikel den beworbenen Rabatt erhalten, und vergleichen Sie den Endpreis im Warenkorb.",
+          "Gibt es bei SHEIN einen Cyber Monday? Der Cyber Monday 2026 fällt auf den 30. November. Wir haben keine Ankündigung gefunden, die für alle Länder gilt: Prüfen Sie die Aktion im Shop Ihres Landes.",
+          "Kommt die Bestellung vom Black Friday vor Weihnachten an? Ein Datum können wir nicht garantieren. Die Lieferfrist erscheint in der Bestellung vor dem Bezahlen: Prüfen Sie diese Frist bei jedem Kauf.",
+          "Ist 4CW5Y ein Rabattgutschein? Kein Gutschein, aber er bringt Rabatt: Es ist Cecílias SHEIN-Empfehlungscode. Öffnen Sie SHEIN über den Link und suchen Sie in der App oder auf der Website nach dem Code: Er öffnet eine Auswahl mit Aktionen und Rabatten; wie hoch und auf welche Artikel, entscheidet SHEIN."
         ]
       }
     ],
@@ -60455,8 +60364,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein-date-e-tasse",
     "locale": "it",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: quando inizia, cosa c'è già online (11.11) e come funziona il codice 4CW5Y",
-    "seoTitle": "Black Friday SHEIN 2026: quando è e cosa c'è già online",
+    "title": "Black Friday SHEIN 2026: quando è, cosa si sa e come funziona il codice 4CW5Y",
+    "seoTitle": "Black Friday SHEIN 2026: quando è e cosa si sa",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60467,11 +60376,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Il Black Friday 2026 cade il 27 novembre e SHEIN, ora nell'11.11, non ha ancora annunciato la campagna. Il calendario dal 2023 al 2025, coupon, punti e reso.",
-    "metaDescription": "Black Friday SHEIN 2026: cade il 27/11, SHEIN è nell'11.11 e non ha annunciato la campagna. Storico delle fasi, il «fino al 90%», punti e reso.",
+    "description": "Il Black Friday 2026 cade il 27 novembre, e il calendario di SHEIN cambia da paese a paese. Cosa si sa, coupon, punti, resi e il codice 4CW5Y.",
+    "metaDescription": "Black Friday SHEIN 2026: cade il 27/11 e il calendario varia da paese a paese. Il codice invito 4CW5Y apre una selezione con promozioni e sconti.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60479,68 +60388,38 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cardigan sportivo nero, décolleté slingback chiare e pigiama a fiori di SHEIN, con la fascia \"Black Friday\" e il logo SHEIN",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Negli ultimi tre anni le offerte sono iniziate prima del Black Friday e sono continuate dopo",
-      "Reso entro 20 giorni secondo le condizioni pubblicate da SHEIN, con il primo reso di ogni ordine gratuito"
-    ],
+    "pros": [],
     "cons": [
-      "Il «fino al 90%» vale per alcuni articoli, non per tutto il carrello",
-      "Un solo coupon SHEIN per ordine, e non viene rimborsato con il reso parziale"
+      "La percentuale dell'annuncio vale per alcuni articoli, non per tutto il carrello"
     ],
     "contentSections": [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il Black Friday 2026 cade il 27 novembre. A inizio novembre SHEIN concentra le promozioni sull'11.11 e non ha ancora pubblicato la pagina del Black Friday; dallo storico, le offerte principali partono dopo l'11.11 e proseguono fino a fine mese. Il 4CW5Y dà sconto, sì: apri SHEIN dal link di Cecília e cerca il 4CW5Y nell'app o sul sito, così si apre una selezione con promozioni e sconti."
+          "Il Black Friday 2026 cade il 27 novembre. Non abbiamo trovato un calendario SHEIN valido per tutti i paesi: date e sconti cambiano da uno all'altro. Il 4CW5Y dà sconto, sì: apri SHEIN dal link di Cecília e cerca il 4CW5Y nell'app o sul sito, così si apre una selezione con promozioni e sconti."
         ]
       },
       {
         "heading": "Quando inizia il Black Friday di SHEIN",
         "paragraphs": [
-          "A inizio novembre SHEIN ha in corso la promozione dell'11.11 e non ha pubblicato date né una pagina del Black Friday 2026. Il Black Friday del calendario cade l'ultimo venerdì del mese, e le fasi e le date cambiano secondo il sito SHEIN del tuo paese. SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi che alzano lo sconto massimo fino a fine mese. La tabella qui sotto è il metro di confronto: ciò che SHEIN ha annunciato negli ultimi tre anni."
+          "Il Black Friday del calendario cade l'ultimo venerdì di novembre, il 27 nel 2026, e il Cyber Monday il 30. Queste date non dicono quando SHEIN inizia o finisce le offerte. In Italia, il [profilo ufficiale di SHEIN](https://www.instagram.com/p/DfAD6LLAV9J/) ha annunciato il 27 ottobre che le offerte del Black Friday sono arrivate, senza indicare date né percentuale. Le campagne, le date e gli sconti cambiano da un paese all'altro, e non abbiamo trovato un calendario ufficiale per tutti. Per sapere cosa vale per te, guarda la campagna che compare sul sito o nell'app SHEIN del tuo paese."
         ],
-        "comparisonTable": {
-          "caption": "Fasi e sconti massimi annunciati da SHEIN, dalla stampa che ha pubblicato i comunicati e dai profili del marchio. Il «fino a» vale per alcuni articoli.",
-          "headers": [
-            "Anno",
-            "Inizio e fine",
-            "Sconto massimo annunciato"
-          ],
-          "rows": [
-            [
-              "2023",
-              "dall'11 al 25/11",
-              "fino all'80% all'inizio, fino all'85% la settimana prima e fino al 90% nel Black Friday e nel sabato successivo, con 48 ore di spedizione gratuita nella settimana del Black Friday"
-            ],
-            [
-              "2024",
-              "dal 21/10 al 30/11",
-              "11.11: fino all'85% all'inizio, 90% la settimana prima e 95% nei giorni dell'11.11. Black Friday: fino al 90%, che sale al 95% negli ultimi cinque giorni del mese"
-            ],
-            [
-              "2025",
-              "online dal 3/11 al 30/11",
-              "fino al 90% su oltre 800 mila articoli nella prima fase, con spedizione gratuita in varie categorie; nella settimana del Black Friday, fino al 95% su oltre 800 mila articoli"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "Nel 2026 l'11.11 cade di mercoledì e il Black Friday di venerdì. Se SHEIN ripete lo schema, le offerte del Black Friday arriveranno dopo l'11.11 e andranno fino a fine mese. È una stima basata sullo storico, e questa guida viene aggiornata quando SHEIN annuncerà la campagna del 2026.",
-          "In tutti e tre gli anni lo sconto massimo è salito verso la fine. Non significa che l'articolo che vuoi costi meno: confronta prezzo finale e disponibilità, e se cerchi una taglia difficile da trovare non aspettare l'ultima fase."
+          "Lo sconto massimo di una campagna non garantisce che il capo che vuoi costi meno: confronta il prezzo finale e le scorte, e se ti serve una taglia difficile, non aspettare l'ultima fase."
         ]
       },
       {
-        "heading": "«Fino al 90%» non è tutto il carrello",
+        "heading": "Lo sconto annunciato e il prezzo finale",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "Cecília Mauad in due look di un haul SHEIN: camicetta chiara annodata in vita con gonna midi nera, e lungo abito nero con cut-out chiari"
         },
         "paragraphs": [
-          "La percentuale della campagna è lo sconto più alto su alcuni articoli. La maggior parte del catalogo ha sconti più bassi, e il prezzo di ogni capo cambia nel corso delle fasi. Per non cadere nel numero grande della pubblicità:"
+          "Lo sconto massimo annunciato si applica agli articoli che ne rispettano le condizioni. Controlla se comprende il capo che vuoi e confronta il prezzo finale:"
         ],
         "bullets": [
-          "Salva i capi nella lista dei desideri prima che la campagna inizi e annota il prezzo di adesso.",
-          "Confronta il prezzo della lista con quello delle fasi successive: negli ultimi tre anni lo sconto massimo è salito nel rettilineo finale.",
+          "Salva i capi nella lista dei desideri e annota il prezzo attuale prima di decidere quando comprare.",
+          "Confronta il prezzo della lista con quello delle fasi successive.",
           "Guarda il prezzo finale nel carrello, con spedizione e imposte, e non solo la percentuale dell'annuncio.",
           "Se il capo è di una taglia difficile da trovare, non aspettare l'ultima fase: le scorte possono finire prima."
         ]
@@ -60549,7 +60428,7 @@ export const reviewsData: unknown[] = [
         "heading": "Coupon, punti e il codice 4CW5Y",
         "paragraphs": [
           "Secondo la politica dei coupon di SHEIN, vale un coupon della piattaforma per ordine. Ogni coupon ha una scadenza, e quello non usato in tempo non è più disponibile.",
-          "I punti SHEIN valgono US$ 1 ogni 100 punti e scontano fino al 30% del valore dei prodotti, escluse spedizione e imposte.",
+          "Il riepilogo dell'ordine mostra quanti punti SHEIN puoi usare e lo sconto corrispondente. Controlla l'importo prima di pagare.",
           "Il 4CW5Y non è un coupon: è il codice invito SHEIN di Cecília, e dà sconto, sì. Apri SHEIN dal link di Cecília e cerca il 4CW5Y nell'app o sul sito SHEIN: il codice apre una pagina con una selezione di prodotti consigliati, promozioni e sconti. Quanto e su quali capi lo decide SHEIN e varia. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine."
         ],
         "links": [
@@ -60566,10 +60445,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cambi e resi dopo il Black Friday",
         "bullets": [
-          "**Termine:** fino a 20 giorni dopo la ricezione, anche se il capo semplicemente non ti è piaciuto. È il termine pubblicato da SHEIN; vale la politica del sito SHEIN del tuo paese, che trovi nella pagina del tuo ordine.",
-          "**Articoli che si rendono solo entro 7 giorni:** body, costumi da bagno, intimo, orecchini e piercing, prodotti per animali, oltre a cosmetici, articoli per feste e per il fai da te con il sigillo aperto. Questi si possono rendere solo entro il termine di recesso di 7 giorni, contato dalla consegna.",
-          "**Coupon:** in un reso parziale il coupon conta come usato e non viene restituito; se l'ordine scende sotto il minimo, la differenza viene tolta dal rimborso.",
-          "**Imposta:** l'imposta di importazione pagata non viene rimborsata dopo che l'ordine è stato spedito."
+          "**Prima di comprare:** consulta la politica di reso applicabile all'ordine, con il termine, gli articoli ammessi e i costi di restituzione.",
+          "**Reso parziale:** controlla come viene calcolato il rimborso se hai usato un coupon o una promozione.",
+          "**Imposte:** consulta le condizioni di rimborso applicabili all'ordine e alla destinazione."
         ]
       },
       {
@@ -60577,19 +60455,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Se il coupon è stato applicato e se i punti sono stati scalati.",
           "I tempi di consegna, se l'acquisto è un regalo di Natale.",
-          "Se il capo è tra gli articoli che si rendono solo entro 7 giorni."
+          "Il termine, gli articoli ammessi e i costi di restituzione dell'ordine."
+        ],
+        "paragraphs": [
+          "**Spedizione:** controlla nel carrello il costo di consegna al tuo indirizzo e le condizioni di eventuali offerte di spedizione gratuita."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Quando inizia e quanto dura il Black Friday di SHEIN? Il Black Friday 2026 cade l'ultimo venerdì di novembre, il 27. Oggi SHEIN è nell'11.11 e non ha annunciato la campagna. Dallo storico, le offerte del Black Friday arrivano dopo l'11.11 e vanno fino a fine mese; le fasi cambiano ogni anno e secondo il sito del tuo paese.",
-          "Fino a quando dura il Black Friday di SHEIN? Nel 2024 e nel 2025, fino a fine novembre. Nel 2023, fino al sabato dopo il Black Friday. Quello del 2026 non ha ancora una data di fine.",
-          "Cos'è l'11.11 di SHEIN? È la promozione del Singles' Day, l'11 del mese 11. SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi di sconto fino a fine mese.",
-          "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine.",
-          "Il 4CW5Y è un coupon sconto? Non è un coupon, ma dà sconto, sì: è il codice invito SHEIN di Cecília. Apri SHEIN dal link e cerca il codice nell'app o sul sito: il codice apre una selezione con promozioni e sconti; quanto e su quali capi lo decide SHEIN.",
-          "C'è la spedizione gratuita nel Black Friday di SHEIN? La spedizione gratuita cambia a ogni fase della campagna: controlla quella del tuo ordine nel carrello prima di pagare.",
-          "Quanto tempo ho per rendere ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione, secondo le condizioni pubblicate da SHEIN (controlla la politica del sito SHEIN del tuo paese nella pagina del tuo ordine). Intimo, costumi da bagno, body, orecchini e alcuni altri articoli si rendono solo entro 7 giorni."
+          "Quando inizia e quanto dura il Black Friday di SHEIN? Il Black Friday 2026 cade il 27 novembre. Le date della campagna cambiano da paese a paese: guarda quella che compare nello shop SHEIN del tuo paese.",
+          "Come funziona il Black Friday di SHEIN? Le offerte possono avere date e condizioni diverse. Controlla quali articoli hanno lo sconto annunciato e confronta il prezzo finale nel carrello.",
+          "SHEIN ha il Cyber Monday? Il Cyber Monday 2026 cade il 30 novembre. Non abbiamo trovato un annuncio valido per tutti i paesi: guarda la campagna nel negozio del tuo paese.",
+          "L'acquisto del Black Friday arriva prima di Natale? Non possiamo garantire una data. Il termine di consegna compare nell'ordine prima di pagare: controlla quel termine a ogni acquisto.",
+          "Il 4CW5Y è un coupon sconto? Non è un coupon, ma dà sconto, sì: è il codice invito SHEIN di Cecília. Apri SHEIN dal link e cerca il codice nell'app o sul sito: il codice apre una selezione con promozioni e sconti; quanto e su quali capi lo decide SHEIN."
         ]
       }
     ],
@@ -60613,8 +60492,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-ko",
     "locale": "ko",
     "translationKey": "shein-black-friday",
-    "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작 시기, 지금 진행 중인 11.11, 코드 4CW5Y 사용법",
-    "seoTitle": "SHEIN 블랙프라이데이 2026: 시작 시기와 지금 진행 중인 세일",
+    "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 언제인지, 알려진 내용, 코드 4CW5Y 사용법",
+    "seoTitle": "SHEIN 블랙프라이데이 2026: 언제인지, 알려진 내용",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60625,11 +60504,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026년 블랙프라이데이는 11월 27일이며, SHEIN은 지금 11.11 세일 중이고 블랙프라이데이는 아직 발표하지 않았습니다. 2023~2025년 일정, 쿠폰, 포인트, 반품을 정리했습니다.",
-    "metaDescription": "SHEIN 블랙프라이데이 2026: 11월 27일, SHEIN은 11.11 세일 중이며 아직 미발표. 지난 단계, '최대 90%', 포인트, 반품.",
+    "description": "2026년 블랙프라이데이는 11월 27일이며, SHEIN의 일정은 국가마다 다릅니다. 알려진 내용, 쿠폰, 포인트, 반품, 코드 4CW5Y를 정리했습니다.",
+    "metaDescription": "SHEIN 블랙프라이데이 2026: 11월 27일이며 일정은 국가마다 다릅니다. 추천 코드 4CW5Y로 프로모션과 할인 모음이 열립니다.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60637,68 +60516,38 @@ export const reviewsData: unknown[] = [
     "imageAlt": "SHEIN의 검은 스포티 카디건, 밝은 색 슬링백 펌프스, 꽃무늬 잠옷과 \"Black Friday\" 띠, SHEIN 로고",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "지난 3년간 할인은 블랙프라이데이 전에 시작해 그 뒤로도 이어졌습니다",
-      "SHEIN이 공개한 조건으로 20일 안에 반품할 수 있고, 주문마다 첫 반품은 무료입니다"
-    ],
+    "pros": [],
     "cons": [
-      "'최대 90%'는 일부 상품에만 해당하며 장바구니 전체가 아닙니다",
-      "SHEIN 쿠폰은 주문당 하나이고, 부분 반품 시에는 돌려받지 못합니다"
+      "광고의 할인율은 일부 상품에만 해당하며 장바구니 전체가 아닙니다"
     ],
     "contentSections": [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "2026년 블랙프라이데이는 11월 27일입니다. 11월 초 현재 SHEIN은 11.11 프로모션에 집중하고 있으며 공식 블랙프라이데이 페이지는 아직 공개하지 않았습니다. 지난 기록상 주요 할인은 11.11 이후 본격화되어 월말까지 이어집니다. 4CW5Y는 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하면 상품과 프로모션, 할인 모음 페이지가 열립니다."
+          "2026년 블랙프라이데이는 11월 27일입니다. 모든 국가에 적용되는 SHEIN 일정은 찾지 못했습니다. 날짜와 할인은 국가마다 다릅니다. 4CW5Y는 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하면 상품과 프로모션, 할인 모음 페이지가 열립니다."
         ]
       },
       {
         "heading": "SHEIN 블랙프라이데이는 언제 시작할까",
         "paragraphs": [
-          "11월 초인 지금 SHEIN은 11.11 프로모션을 진행 중이며, 2026년 블랙프라이데이 날짜와 페이지는 아직 공개하지 않았습니다. 달력상 블랙프라이데이는 11월의 마지막 금요일이고, 단계와 날짜는 거주 국가의 SHEIN 사이트에 따라 다릅니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶고, 월말로 갈수록 단계별로 최대 할인율을 올립니다. 아래 표가 가늠자로, 지난 3년간 SHEIN이 발표한 내용입니다."
+          "달력상의 블랙프라이데이는 11월의 마지막 금요일로, 2026년에는 27일이고 사이버 먼데이는 30일입니다. 이 날짜가 SHEIN이 할인을 언제 시작하고 끝내는지를 알려 주지는 않습니다. 캠페인과 날짜, 할인은 국가마다 다르며, 모든 국가에 적용되는 공식 일정은 찾지 못했습니다. 내게 적용되는 내용은 해당 국가 SHEIN 사이트나 앱에 나오는 캠페인에서 확인하세요."
         ],
-        "comparisonTable": {
-          "caption": "SHEIN이 발표한 단계별 최대 할인율. SHEIN, 발표를 보도한 언론, 브랜드 계정의 자료입니다. '최대'는 일부 상품에만 해당합니다.",
-          "headers": [
-            "연도",
-            "시작과 종료",
-            "발표된 최대 할인율"
-          ],
-          "rows": [
-            [
-              "2023",
-              "11월 11일~25일",
-              "시작 때 최대 80%, 직전 주 최대 85%, 블랙프라이데이와 그다음 토요일 최대 90%. 블랙프라이데이 주간에는 48시간 무료 배송"
-            ],
-            [
-              "2024",
-              "10월 21일~11월 30일",
-              "11.11: 시작 때 최대 85%, 직전 주 90%, 11.11 전후 95%. 블랙프라이데이: 최대 90%, 월말 마지막 5일은 95%로 상승"
-            ],
-            [
-              "2025",
-              "11월 3일부터 진행, 11월 30일까지",
-              "첫 단계에서 80만 개 이상 상품 최대 90%, 여러 카테고리 무료 배송. 블랙프라이데이 주간에는 80만 개 이상 상품 최대 95%"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "2026년에는 11.11이 수요일, 블랙프라이데이가 금요일입니다. SHEIN이 같은 패턴을 되풀이한다면 블랙프라이데이 할인은 11.11 이후에 시작해 월말까지 이어질 것입니다. 지난 기록에 따른 추정이며, SHEIN이 2026년 캠페인을 발표하면 이 가이드를 업데이트합니다.",
-          "3년 모두 최대 할인율은 끝으로 갈수록 올랐습니다. 그렇다고 원하는 상품이 더 싸지는 것은 아니니 최종 가격과 재고를 비교하세요. 구하기 어려운 사이즈가 필요하다면 마지막 단계까지 기다리지 마세요."
+          "캠페인의 최대 할인율이 원하는 상품의 가격이 내려간다는 뜻은 아닙니다. 최종 가격과 재고를 비교하고, 구하기 어려운 사이즈라면 마지막 단계까지 기다리지 마세요."
         ]
       },
       {
-        "heading": "'최대 90%'는 장바구니 전체가 아니다",
+        "heading": "광고의 할인율과 최종 가격",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "Cecília가 SHEIN 하울에서 입은 두 가지 룩: 허리에 묶은 밝은 블라우스와 검은 미디 스커트, 그리고 밝은 컷아웃이 들어간 검은 롱 원피스"
         },
         "paragraphs": [
-          "캠페인 할인율은 일부 상품에 적용되는 가장 큰 할인입니다. 대부분의 상품은 그보다 작게 할인되고, 상품마다 가격도 단계에 따라 바뀝니다. 큰 숫자의 광고에 속지 않으려면:"
+          "광고의 최대 할인율은 조건을 충족하는 상품에 적용됩니다. 원하는 상품이 대상인지 확인하고 최종 가격을 비교하세요."
         ],
         "bullets": [
-          "캠페인이 시작되기 전에 상품을 위시리스트에 저장하고 지금 가격을 적어 두세요.",
-          "위시리스트의 가격을 이후 단계의 가격과 비교하세요. 지난 3년간 최대 할인율은 막바지에 올랐습니다.",
+          "구매 시기를 정하기 전에 상품을 위시리스트에 저장하고 현재 가격을 기록하세요.",
+          "위시리스트의 가격을 이후 단계의 가격과 비교하세요.",
           "광고의 할인율만 보지 말고, 배송비와 세금을 포함한 장바구니의 최종 가격을 보세요.",
           "구하기 어려운 사이즈라면 마지막 단계까지 기다리지 마세요. 그 전에 재고가 떨어질 수 있습니다."
         ]
@@ -60707,7 +60556,7 @@ export const reviewsData: unknown[] = [
         "heading": "쿠폰, 포인트, 그리고 4CW5Y",
         "paragraphs": [
           "SHEIN의 쿠폰 정책에 따르면 플랫폼 쿠폰은 주문당 하나입니다. 쿠폰마다 유효기간이 있으며, 제때 쓰지 않으면 사용할 수 없게 됩니다.",
-          "SHEIN 포인트는 100포인트가 US$ 1이고, 상품 금액의 최대 30%까지 차감합니다. 배송비와 세금은 제외입니다.",
+          "주문 화면에서 사용할 수 있는 SHEIN 포인트와 할인 금액을 확인할 수 있습니다. 결제 전에 금액을 확인하세요.",
           "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드이며, 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하면 추천 상품과 프로모션, 할인 모음 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
         ],
         "links": [
@@ -60724,10 +60573,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "블랙프라이데이 이후 교환과 반품",
         "bullets": [
-          "**기간:** 수령 후 20일 이내. 단순히 마음에 들지 않아도 반품할 수 있습니다. SHEIN이 공개한 기간이며, 실제로는 주문 페이지에 나오는 해당 국가 SHEIN 사이트의 반품 정책이 적용됩니다.",
-          "**7일 안에만 반품되는 상품:** 보디수트, 수영복, 속옷, 귀걸이와 피어싱, 반려동물용품, 그리고 봉인을 뜯은 화장품, 파티용품, 공예용품. 이 상품들은 배송일부터 7일의 청약 철회 기간 안에서만 반품할 수 있습니다.",
-          "**쿠폰:** 부분 반품이면 쿠폰은 사용한 것으로 처리되어 돌아오지 않습니다. 주문이 최소 금액 아래로 내려가면 그 차액이 환불액에서 빠집니다.",
-          "**세금:** 낸 수입세는 주문이 발송된 뒤에는 돌려받지 못합니다."
+          "**구매 전:** 주문에 적용되는 반품 정책에서 기한, 반품 가능한 상품, 반품 배송비를 확인하세요.",
+          "**부분 반품:** 쿠폰이나 프로모션을 사용했다면 환불액이 어떻게 계산되는지 확인하세요.",
+          "**세금:** 주문과 배송지에 적용되는 환불 조건을 확인하세요."
         ]
       },
       {
@@ -60735,19 +60583,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "쿠폰이 적용되었고 포인트가 차감되었는지.",
           "크리스마스 선물이라면 배송 기간.",
-          "7일 안에만 반품되는 상품에 해당하는지."
+          "주문에 적용되는 반품 기한, 반품 가능한 상품, 반품 배송비."
+        ],
+        "paragraphs": [
+          "**배송비:** 장바구니에서 내 주소의 배송비와 무료 배송 혜택이 있을 경우 그 조건을 확인하세요."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN 블랙프라이데이는 언제 시작하고 얼마나 이어지나요? 2026년 블랙프라이데이는 11월의 마지막 금요일입니다. SHEIN은 지금 11.11 세일 중이며 캠페인은 아직 발표하지 않았습니다. 지난 기록을 보면 블랙프라이데이 할인은 11.11 이후에 시작해 월말까지 이어지며, 단계는 매년, 그리고 국가별 사이트에 따라 달라집니다.",
-          "SHEIN 블랙프라이데이는 언제까지인가요? 2024년과 2025년에는 11월 말까지였습니다. 2023년에는 블랙프라이데이 다음 토요일까지였습니다. 2026년은 아직 종료일이 없습니다.",
-          "SHEIN 11.11이 무엇인가요? 11월 11일 광군제 할인입니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶어 월말까지 단계별로 할인합니다.",
-          "SHEIN에서 쿠폰을 두 개 이상 쓸 수 있나요? SHEIN 쿠폰은 주문당 하나입니다.",
-          "4CW5Y는 할인 쿠폰인가요? 쿠폰은 아니지만 할인이 적용됩니다. Cecília의 SHEIN 추천 코드로, 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인 모음이 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다.",
-          "SHEIN 블랙프라이데이에 무료 배송이 있나요? 무료 배송은 캠페인 단계마다 달라집니다. 결제 전에 장바구니에서 주문의 배송비를 확인하세요.",
-          "블랙프라이데이에 산 상품은 얼마나 반품할 수 있나요? SHEIN이 공개한 조건으로는 수령 후 20일 이내입니다(해당 국가 SHEIN 사이트의 반품 정책은 주문 페이지에서 확인하세요). 속옷, 수영복, 보디수트, 귀걸이 등 일부 상품은 7일 안에만 반품됩니다."
+          "SHEIN 블랙프라이데이는 언제 시작하고 얼마나 이어지나요? 2026년 블랙프라이데이는 11월 27일입니다. 캠페인 날짜는 국가마다 다르니, 해당 국가 SHEIN 스토어에 나오는 캠페인을 확인하세요.",
+          "SHEIN 블랙프라이데이는 어떻게 진행되나요? 혜택마다 기간과 조건이 다를 수 있습니다. 광고의 할인율이 적용되는 상품을 확인하고 장바구니의 최종 가격을 비교하세요.",
+          "SHEIN에도 사이버 먼데이가 있나요? 2026년 사이버 먼데이는 11월 30일입니다. 모든 국가에 적용되는 공지는 찾지 못했습니다. 해당 국가 스토어의 캠페인을 확인하세요.",
+          "블랙프라이데이 주문은 크리스마스 전에 도착하나요? 날짜를 보장할 수는 없습니다. 배송 기한은 결제 전 주문 화면에 표시되니, 구매할 때마다 그 기한을 확인하세요.",
+          "4CW5Y는 할인 쿠폰인가요? 쿠폰은 아니지만 할인이 적용됩니다. Cecília의 SHEIN 추천 코드로, 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인 모음이 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다."
         ]
       }
     ],
@@ -60771,8 +60620,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-ja",
     "locale": "ja",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まるか、今実施中の11.11、コード4CW5Yの仕組み",
-    "seoTitle": "SHEIN ブラックフライデー 2026：開始時期と今実施中のセール",
+    "title": "SHEIN ブラックフライデー 2026 はいつ？いつまで？過去の日程と4CW5Yの使い方",
+    "seoTitle": "SHEIN ブラックフライデー 2026 はいつからいつまで？過去の日程",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60783,11 +60632,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年のブラックフライデーは11月27日。SHEINは今11.11セールの最中で、ブラックフライデーはまだ発表していません。2023〜2025年のスケジュール、クーポン、ポイント、返品をまとめました。",
-    "metaDescription": "SHEIN ブラックフライデー 2026：11月27日。SHEINは11.11セール中で未発表。過去のフェーズ、「最大90%」、ポイント、返品。",
+    "description": "2026年のブラックフライデーは11月27日。いまは#SHEIN1111が11月16日12:00まで開催中で、ブラックフライデーの日程は未確認です。過去3年の日程、クーポン、ポイント、返品、4CW5Yを解説。",
+    "metaDescription": "SHEIN ブラックフライデー 2026 はいつ？いつまで？過去の日程と、セールと割引の特集が開く紹介コード4CW5Yを解説。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60795,68 +60644,64 @@ export const reviewsData: unknown[] = [
     "imageAlt": "SHEINの黒のスポーティーなカーディガン、明るい色のスリングバックパンプス、花柄のパジャマ。「Black Friday」の帯とSHEINのロゴ入り",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "過去3年間、セールはブラックフライデーの前に始まり、その後も続きました",
-      "SHEINの公開条件では20日以内に返品でき、各注文の最初の返品は無料です"
-    ],
+    "pros": [],
     "cons": [
-      "「最大90%」は一部の商品が対象で、カート全体ではありません",
-      "SHEINのクーポンは1注文につき1枚で、一部返品の場合は戻りません"
+      "広告の割引率は一部の商品が対象で、カート全体ではありません"
     ],
     "contentSections": [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "2026年のブラックフライデーは11月27日です。11月初旬の現在、SHEINは11.11セールに注力しており、公式なブラックフライデー特集ページは未公開です。過去の実績では、主要なセールは11.11以降に本格化し月末まで続きます。4CW5Yは割引になります。SHEINのアプリかサイトで検索すると、セールと割引の特集ページが開きます。"
+          "2026年のブラックフライデーは11月27日ですが、日本向けのSHEINの日程はまだ確認できていません。開催中の#SHEIN1111は11月16日12:00までの別キャンペーンです。紹介コード4CW5Yをアプリかサイトで検索すると、プロモーションや割引のあるセレクションが開きます。"
         ]
       },
       {
         "heading": "SHEINのブラックフライデーはいつ始まるか",
         "paragraphs": [
-          "11月初めの今、SHEINは11.11セールを実施中で、2026年のブラックフライデーの日程もページもまだ公開していません。カレンダー上のブラックフライデーは11月の最後の金曜日で、フェーズと日程はお住まいの国のSHEINサイトによって異なります。SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末に向けて段階的に最大割引率を引き上げます。下の表が目安で、過去3年間にSHEINが発表した内容です。"
+          "カレンダー上のブラックフライデーは11月の最後の金曜日で、2026年は27日です。サイバーマンデーは30日ですが、日本での発表は見つかっていません。この日付は、SHEINがセールをいつ始め、いつ終えるかを示すものではありません。",
+          "SHEINは日本で[#SHEIN1111](https://prtimes.jp/main/html/rd/p/000000293.000084888.html)を10月19日12:00から11月16日12:00まで開催しています。ブラックフライデーではありません。下の表は、日本でSHEINが発表した過去のセールです。"
         ],
         "comparisonTable": {
-          "caption": "SHEINが発表した各フェーズと最大割引率。SHEIN、発表を掲載したメディア、ブランドのアカウントによる情報です。「最大」は一部の商品にのみ適用されます。",
+          "caption": "日本でSHEINが発表した内容（日本時間）。出典はSHEINのプレスリリースです。「最大」は一部の商品に適用されます。",
           "headers": [
             "年",
-            "開始と終了",
-            "発表された最大割引率"
+            "期間",
+            "発表された内容"
           ],
           "rows": [
             [
-              "2023",
-              "11月11日〜25日",
-              "開始時は最大80%、前の週は最大85%、ブラックフライデーとその翌土曜日は最大90%。ブラックフライデーの週は48時間の送料無料"
+              "[2023](https://prtimes.jp/main/html/rd/p/000000127.000084888.html)",
+              "11月13日12:00〜11月27日11:59",
+              "最大90%。11月24日0:00〜26日23:59は全商品送料無料、8,000円以上の注文でプレゼント"
             ],
             [
-              "2024",
-              "10月21日〜11月30日",
-              "11.11：開始時は最大85%、前の週は90%、11.11当日前後は95%。ブラックフライデー：最大90%、月末の最後の5日間は95%に上昇"
+              "[2024](https://prtimes.jp/main/html/rd/p/000000202.000084888.html)",
+              "11月12日12:00〜12月2日12:00",
+              "プレセール11月12〜17日。メインセール11月18〜24日は最大90%。More Sale 11月25日〜12月1日は最大95%"
             ],
             [
-              "2025",
-              "11月3日から実施、11月30日まで",
-              "第1フェーズは80万点以上の商品が最大90%、複数のカテゴリで送料無料。ブラックフライデーの週は80万点以上の商品が最大95%"
+              "[2025](https://prtimes.jp/main/html/rd/p/000000250.000084888.html)",
+              "11月17日12:00〜12月2日12:00",
+              "プレセールは11月24日11:59まで（80万点以上）。11月24日12:00からのメインセールは最大95%、100万点以上"
             ]
           ]
         },
         "postParagraphs": [
-          "2026年は、11.11が水曜日、ブラックフライデーが金曜日にあたります。SHEINが同じパターンを繰り返すなら、ブラックフライデーのセールは11.11の後に始まり、月末まで続くはずです。これは過去の実績からの推定で、SHEINが2026年のキャンペーンを発表したら、このガイドを更新します。",
-          "3年とも、最大割引率は終盤に向けて上がりました。ただし、欲しい商品が安くなるとは限りません。最終価格と在庫を比べ、見つけにくいサイズが必要な人は、最後のフェーズまで待たないでください。"
+          "過去の日程は予測ではありません。SHEINが2026年のブラックフライデーを発表したら、このガイドを更新します。キャンペーンの最大割引率が、欲しい商品が安くなることを保証するわけではありません。最終価格と在庫を比べ、見つけにくいサイズなら最後のフェーズまで待たないでください。"
         ]
       },
       {
-        "heading": "「最大90%」はカート全体ではない",
+        "heading": "広告の割引率と最終価格",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "CecíliaがSHEINのまとめ買いで着た2つのコーディネート。ウエストで結んだ明るい色のブラウスと黒のミディスカート、そして明るい色のカットアウトが入った黒のロングワンピース"
         },
         "paragraphs": [
-          "キャンペーンの割引率は、一部の商品に適用される最大の割引です。商品の大半はそれより小さい割引で、1点ごとの価格もフェーズによって変わります。大きな数字の広告に惑わされないために："
+          "広告の最大割引率は、条件を満たす商品に適用されます。欲しい商品が対象か確認し、最終価格を比べてください。"
         ],
         "bullets": [
-          "キャンペーンが始まる前に商品をウィッシュリストに保存し、今の価格をメモしておきましょう。",
-          "リストの価格と後のフェーズの価格を比べましょう。過去3年間、最大割引率は終盤に上がりました。",
+          "購入時期を決める前に、商品をウィッシュリストに保存し、現在の価格を記録しておきましょう。",
+          "リストの価格と後のフェーズの価格を比べましょう。",
           "広告の割引率だけでなく、送料と税金を含めたカートの最終価格を見ましょう。",
           "見つけにくいサイズの商品は、最後のフェーズまで待たないでください。その前に在庫がなくなることがあります。"
         ]
@@ -60865,7 +60710,7 @@ export const reviewsData: unknown[] = [
         "heading": "クーポン、ポイント、そして4CW5Y",
         "paragraphs": [
           "SHEINのクーポン規定では、プラットフォームのクーポンは1注文につき1枚です。クーポンにはそれぞれ有効期限があり、期限内に使わなかったものは使えなくなります。",
-          "SHEIN ポイントは、100ポイントがUS$ 1に相当し、商品代金の最大30%まで割り引けます。送料と税金は対象外です。",
+          "注文画面で、使えるSHEINポイント数と割引額を確認できます。支払う前に金額を確かめてください。",
           "4CW5YはクーポンではなくCecíliaのSHEIN紹介コードですが、割引になります。CecíliaのリンクからSHEINを開き、アプリかサイトで4CW5Yを検索すると、おすすめ商品とセール・割引の特集ページが開きます。割引率や対象商品はSHEINが決めるため変わります。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。"
         ],
         "links": [
@@ -60882,10 +60727,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ブラックフライデーのあとの交換と返品",
         "bullets": [
-          "**期間：** 受け取りから20日以内。気に入らなかっただけでも返品できます。これはSHEINが公開している期間です。実際には、注文ページに表示されるお住まいの国のSHEINサイトの返品ポリシーが適用されます。",
-          "**7日以内しか返品できない商品：** ボディスーツ、水着、下着、ピアスとイヤリング、ペット用品、そして開封済みの化粧品、パーティー用品、手芸用品。これらは、配達日から数える7日間の撤回期間内にのみ返品できます。",
-          "**クーポン：** 一部返品の場合、クーポンは使用済みとして扱われ、戻りません。注文が最低金額を下回る場合は、その差額が返金額から引かれます。",
-          "**税金：** 支払った輸入税は、注文の発送後は戻りません。"
+          "**購入前に：** 注文に適用される返品ポリシーで、期限、返品できる商品、返送料を確認してください。",
+          "**一部返品：** クーポンやキャンペーンを利用した場合、返金額がどう計算されるか確認してください。",
+          "**税金：** 注文と配送先に適用される返金条件を確認してください。"
         ]
       },
       {
@@ -60893,19 +60737,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "クーポンが適用され、ポイントが差し引かれているか。",
           "クリスマスプレゼントなら、配送日数。",
-          "7日以内しか返品できない商品に当たらないか。"
+          "注文に適用される返品期限、返品できる商品、返送料。"
+        ],
+        "paragraphs": [
+          "**送料：** 配送先への送料と、送料無料キャンペーンがある場合の条件をカートで確認してください。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "SHEINのブラックフライデーはいつ始まり、どれくらい続きますか？2026年のブラックフライデーは11月の最後の金曜日です。SHEINは今11.11セールの最中で、キャンペーンはまだ発表していません。過去の実績では、ブラックフライデーのセールは11.11の後に始まり月末まで続きます。フェーズは毎年、そして国ごとのサイトによって変わります。",
-          "SHEINのブラックフライデーはいつまでですか？2024年と2025年は11月末まででした。2023年は、ブラックフライデーの翌土曜日まででした。2026年はまだ終了日が出ていません。",
-          "SHEINの11.11とは何ですか？11月11日の独身の日のセールです。SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末まで段階的に割引を行います。",
-          "SHEINでクーポンを複数使えますか？SHEINのクーポンは1注文につき1枚です。",
-          "4CW5Yは割引クーポンですか？クーポンではありませんが、割引になります。CecíliaのSHEIN紹介コードです。リンクからSHEINを開き、アプリかサイトでコードを検索すると、セールと割引の特集が開きます。割引率や対象商品はSHEINが決めます。",
-          "SHEINのブラックフライデーは送料無料ですか？送料無料はキャンペーンのフェーズごとに変わります。支払う前に、カートでご自分の注文の送料を確認してください。",
-          "ブラックフライデーに買った商品は、どのくらいの期間返品できますか？SHEINの公開条件では、受け取りから20日以内です（お住まいの国のSHEINサイトの返品ポリシーは注文ページで確認してください）。下着、水着、ボディスーツ、ピアスなど一部の商品は、7日以内にしか返品できません。"
+          "SHEINのブラックフライデーはいつ始まり、どれくらい続きますか？2026年のブラックフライデーは11月27日です。日本では現在#SHEIN1111が11月16日12:00まで開催中で、ブラックフライデーの日程は見つかっていません。過去3年は11月12〜17日に始まり、11月27日〜12月2日に終わりました。国ごとのサイトで日程は変わります。",
+          "SHEINのブラックフライデーはどんな仕組みですか？オファーごとに期間や条件が異なる場合があります。広告の割引率が適用される商品を確認し、カートの最終価格を比べてください。",
+          "SHEINにサイバーマンデーはありますか？2026年のサイバーマンデーは11月30日です。日本での告知は見つかっていません。お住まいの国のSHEINサイトでキャンペーンを確認してください。",
+          "ブラックフライデーの注文がいつ届くか、クリスマスに間に合いますか？日付は保証できません。お届け予定は支払う前に注文画面に表示されるので、購入のたびに確認してください。",
+          "4CW5Yは割引クーポンですか？クーポンではありませんが、割引になります。CecíliaのSHEIN紹介コードです。リンクからSHEINを開き、アプリかサイトでコードを検索すると、セールと割引の特集が開きます。割引率や対象商品はSHEINが決めます。"
         ]
       }
     ],
@@ -60929,8 +60774,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-zh-hant",
     "locale": "zh-hant",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、目前進行中的 11.11，以及代碼 4CW5Y 怎麼用",
-    "seoTitle": "SHEIN 黑色星期五 2026：何時開始與目前的活動",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、目前所知，以及代碼 4CW5Y 怎麼用",
+    "seoTitle": "SHEIN 黑色星期五 2026：何時開始與目前所知",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60941,11 +60786,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026 年黑色星期五是 11 月 27 日，SHEIN 目前正在辦 11.11 促銷，黑色星期五尚未公布。本文整理了 2023 至 2025 年的活動時程，以及優惠券、點數與退貨。",
-    "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，SHEIN 正辦 11.11、尚未公布。往年階段、「最高 90%」、點數與退貨。",
+    "description": "2026 年黑色星期五是 11 月 27 日，SHEIN 的活動日程因國家而異。目前所知的資訊、優惠券、點數、退貨，以及代碼 4CW5Y。",
+    "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，各國日程不同。推薦碼 4CW5Y 會開啟含促銷和折扣的頁面。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60953,68 +60798,38 @@ export const reviewsData: unknown[] = [
     "imageAlt": "SHEIN 的黑色運動開襟衫、淺色露跟高跟鞋和碎花睡衣，配「Black Friday」橫幅和 SHEIN 標誌",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "過去三年，優惠都在黑色星期五之前開始，並在之後持續",
-      "按 SHEIN 公布的條件，20 天內可退貨，每筆訂單的第一次退貨免費"
-    ],
+    "pros": [],
     "cons": [
-      "「最高 90%」只適用於部分商品，不是整個購物車",
-      "每筆訂單只能使用一張 SHEIN 優惠券，部分退貨時優惠券不會退回"
+      "廣告上的百分比只適用於部分商品，不是整個購物車"
     ],
     "contentSections": [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正集中推廣 11.11 活動，尚未開放正式的黑色星期五活動頁面；依往年經驗，主力折扣在 11.11 後陸續登場並持續至月底。4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，會開啟一個含商品、促銷和折扣的頁面。"
+          "2026 年黑色星期五是 11 月 27 日。我們沒有找到適用於所有國家的 SHEIN 日程：日期和折扣因國家而異。4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，會開啟一個含商品、促銷和折扣的頁面。"
         ]
       },
       {
         "heading": "SHEIN 黑色星期五何時開始",
         "paragraphs": [
-          "11 月初的現在，SHEIN 正在辦 11.11 促銷，還沒有公布 2026 年黑色星期五的日期和頁面。日曆上的黑色星期五是 11 月的最後一個星期五，各階段和日期會因你所在國家的 SHEIN 網站而不同。SHEIN 把 11.11 和黑色星期五合併成同一檔活動，分階段調高最高折扣，直到月底。下表是參照：SHEIN 過去三年公布的內容。"
+          "日曆上的黑色星期五是 11 月的最後一個星期五，2026 年是 27 日，網路星期一是 30 日。這些日期並不說明 SHEIN 何時開始或結束優惠。活動、日期和折扣因國家而異，我們沒有找到適用於所有國家的官方日程。想知道哪些適用於你，請查看所在國家 SHEIN 網站或 App 上顯示的活動。"
         ],
-        "comparisonTable": {
-          "caption": "SHEIN 公布的各階段與最高折扣，資料來源為 SHEIN、刊登公告的媒體與品牌帳號。「最高」只適用於部分商品。",
-          "headers": [
-            "年份",
-            "起訖時間",
-            "公布的最高折扣"
-          ],
-          "rows": [
-            [
-              "2023",
-              "11 月 11 日至 25 日",
-              "開始時最高 80%，前一週最高 85%，黑色星期五及隨後的週六最高 90%；黑色星期五當週提供 48 小時免運費"
-            ],
-            [
-              "2024",
-              "10 月 21 日至 11 月 30 日",
-              "11.11：開始時最高 85%，前一週 90%，11.11 當天前後 95%。黑色星期五：最高 90%，月底最後五天升到 95%"
-            ],
-            [
-              "2025",
-              "自 11 月 3 日起，至 11 月 30 日",
-              "第一階段超過 80 萬件商品最高 90%，多個類別免運費；黑色星期五當週，超過 80 萬件商品最高 95%"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用相同的模式，黑色星期五的優惠會在 11.11 之後到來，持續到月底。這是依往年所做的推估，等 SHEIN 公布 2026 年的活動後，本指南會跟著更新。",
-          "三年來，最高折扣都在接近月底時調高。但這不代表你想買的商品會更便宜：請比較最終價格和庫存，需要不好買的尺寸的人，別等到最後一個階段。"
+          "活動的最高折扣不保證你想買的商品會更便宜：請比較最終價格和庫存，如果需要不好找的尺寸，別等到最後一個階段。"
         ]
       },
       {
-        "heading": "「最高 90%」不是整個購物車",
+        "heading": "廣告折扣與最終價格",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "Cecília 在一次 SHEIN 開箱中的兩套穿搭：腰間綁結的淺色上衣搭黑色中長裙，以及帶淺色鏤空設計的黑色長洋裝"
         },
         "paragraphs": [
-          "活動宣傳的百分比，是部分商品的最高折扣。大部分商品的折扣比較小，每件商品的價格也會隨階段改變。想避免被大數字的廣告牽著走："
+          "廣告中的最高折扣適用於符合條件的商品。請確認想買的商品是否參與，並比較最終價格。"
         ],
         "bullets": [
-          "活動開始前，先把想買的商品加入願望清單，並記下現在的價格。",
-          "把願望清單裡的價格和後面階段的價格比較：過去三年，最高折扣都在最後階段調高。",
+          "決定購買時間前，先把商品加入願望清單並記錄目前價格。",
+          "把願望清單裡的價格和後面階段的價格比較。",
           "看購物車裡含運費與稅金的最終價格，不要只看廣告上的百分比。",
           "如果商品的尺寸不好找，別等到最後一個階段：庫存可能先賣完。"
         ]
@@ -61023,7 +60838,7 @@ export const reviewsData: unknown[] = [
         "heading": "優惠券、點數與 4CW5Y",
         "paragraphs": [
           "依照 SHEIN 的優惠券政策，每筆訂單可使用一張平台優惠券。每張優惠券都有使用期限，沒有及時使用就會失效。",
-          "SHEIN 點數每 100 點折抵 US$ 1，最多可折抵商品金額的 30%，不含運費與稅金。",
+          "訂單頁面會顯示可使用的 SHEIN 點數和對應折抵金額。付款前請核對金額。",
           "4CW5Y 不是優惠券，而是 Cecília 的 SHEIN 推薦碼，使用它確實有折扣。透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，該碼會開啟一個含推薦商品、促銷和折扣的頁面。折扣多少、涵蓋哪些商品由 SHEIN 決定，並會變動。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。"
         ],
         "links": [
@@ -61040,10 +60855,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "黑色星期五之後的換貨與退貨",
         "bullets": [
-          "**期限：** 收貨後 20 天內，即使只是不喜歡也可以退。這是 SHEIN 公布的期限，實際以訂單頁面顯示的所在國家 SHEIN 站點的退貨政策為準。",
-          "**只能 7 天內退的商品：** 連身衣、泳裝、內衣、耳環與穿孔飾品、寵物用品，以及已拆封的化妝品、派對用品與手作用品。這些商品只能在自送達日起算的 7 天猶豫期內退貨。",
-          "**優惠券：** 部分退貨時，優惠券視為已使用，不會退回；如果訂單低於最低消費，差額會從退款中扣除。",
-          "**稅金：** 訂單寄出之後，已繳的進口稅不會退還。"
+          "**購買前：** 查看適用於訂單的退貨政策，確認期限、可退商品和退貨運費。",
+          "**部分退貨：** 如果使用了優惠券或促銷，請確認退款金額如何計算。",
+          "**稅費：** 查看適用於訂單和收貨地址的退款條件。"
         ]
       },
       {
@@ -61051,19 +60865,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "優惠券是否已套用，點數是否已折抵。",
           "如果是買來當聖誕禮物，要看送達時間。",
-          "商品是否屬於只能 7 天內退貨的類別。"
+          "適用於訂單的退貨期限、可退商品和退貨運費。"
+        ],
+        "paragraphs": [
+          "**運費：** 請在購物車確認收貨地址對應的運費，以及免運費優惠的適用條件。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "SHEIN 的黑色星期五何時開始、持續多久？2026 年的黑色星期五是 11 月的最後一個星期五。SHEIN 目前在辦 11.11 促銷，還沒有公布這檔活動。從往年來看，黑色星期五的優惠在 11.11 之後到來，持續到月底；階段每年不同，也因各國網站而異。",
-          "SHEIN 的黑色星期五持續到什麼時候？2024 年與 2025 年都持續到 11 月底。2023 年持續到黑色星期五之後的那個週六。2026 年還沒有結束日期。",
-          "SHEIN 的 11.11 是什麼？是 11 月 11 日的光棍節促銷。SHEIN 把 11.11 和黑色星期五合併成同一檔活動，分階段打折，直到月底。",
-          "在 SHEIN 可以同時使用多張優惠券嗎？每筆訂單只能使用一張 SHEIN 優惠券。",
-          "4CW5Y 是折扣優惠券嗎？不是優惠券，但確實有折扣。它是 Cecília 的 SHEIN 推薦碼：透過連結開啟 SHEIN，再在 App 或網站搜尋這個碼，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。",
-          "SHEIN 黑色星期五有免運費嗎？免運費會隨活動階段改變：付款前，請在購物車裡確認你這筆訂單的運費。",
-          "黑色星期五買的東西，多久內可以退貨？按 SHEIN 公布的條件，收貨後 20 天內（請在訂單頁面查看所在國家 SHEIN 站點的退貨政策）。內衣、泳裝、連身衣、耳環等部分商品只能在 7 天內退貨。"
+          "SHEIN 的黑色星期五何時開始、持續多久？2026 年的黑色星期五是 11 月 27 日。活動日期因國家而異：請查看所在國家 SHEIN 網站上顯示的活動。",
+          "SHEIN 黑色星期五怎麼進行？不同優惠可能有不同的時間和條件。請確認哪些商品適用廣告折扣，並比較購物車中的最終價格。",
+          "SHEIN 有網路星期一嗎？2026 年的網路星期一是 11 月 30 日。我們沒有找到適用於所有國家的公告：請查看所在國家網站上的活動。",
+          "黑色星期五的訂單能在聖誕節前送到嗎？我們無法保證具體日期。送達時間會在付款前顯示在訂單上：每次購買都請確認這個時間。",
+          "4CW5Y 是折扣優惠券嗎？不是優惠券，但確實有折扣。它是 Cecília 的 SHEIN 推薦碼：透過連結開啟 SHEIN，再在 App 或網站搜尋這個碼，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。"
         ]
       }
     ],
@@ -61087,8 +60902,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-zh-hans",
     "locale": "zh-hans",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、眼下正在进行的 11.11，以及代码 4CW5Y 怎么用",
-    "seoTitle": "SHEIN 黑色星期五 2026：何时开始与眼下的活动",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、目前所知，以及代码 4CW5Y 怎么用",
+    "seoTitle": "SHEIN 黑色星期五 2026：何时开始与目前所知",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61099,11 +60914,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026 年黑色星期五是 11 月 27 日，SHEIN 目前在办 11.11 促销，黑色星期五尚未公布。本文整理了 2023 至 2025 年的活动日程，以及优惠券、积分和退货。",
-    "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，SHEIN 正办 11.11、尚未公布。往年阶段、“最高 90%”、积分与退货。",
+    "description": "2026 年黑色星期五是 11 月 27 日，SHEIN 的活动日程因国家而异。目前所知的信息、优惠券、积分、退货，以及代码 4CW5Y。",
+    "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，各国日程不同。推荐码 4CW5Y 会打开含促销和折扣的页面。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -61111,68 +60926,38 @@ export const reviewsData: unknown[] = [
     "imageAlt": "SHEIN 的黑色运动开衫、浅色露跟高跟鞋和碎花睡衣，配“Black Friday”横幅和 SHEIN 标志",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "过去三年，优惠都在黑色星期五之前开始，并在之后继续",
-      "按 SHEIN 公布的条件，20 天内可退货，每笔订单的第一次退货免费"
-    ],
+    "pros": [],
     "cons": [
-      "“最高 90%”只适用于部分商品，不是整个购物车",
-      "每笔订单只能用一张 SHEIN 优惠券，部分退货时优惠券不会退回"
+      "广告上的百分比只适用于部分商品，不是整个购物车"
     ],
     "contentSections": [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正重点开展 11.11 促销活动，尚未开放正式的黑色星期五页面；从往年规律看，主要优惠在 11.11 之后陆续上线并延续至月底。4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索 4CW5Y，会打开一个含商品、促销和折扣的页面。"
+          "2026 年黑色星期五是 11 月 27 日。我们没有找到适用于所有国家的 SHEIN 日程：日期和折扣因国家而异。4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索 4CW5Y，会打开一个含商品、促销和折扣的页面。"
         ]
       },
       {
         "heading": "SHEIN 黑色星期五何时开始",
         "paragraphs": [
-          "11 月初的现在，SHEIN 正在办 11.11 促销，还没有公布 2026 年黑色星期五的日期和页面。日历上的黑色星期五是 11 月的最后一个星期五，各阶段和日期会因你所在国家的 SHEIN 站点而不同。SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段提高最高折扣，直到月底。下表是参照：SHEIN 过去三年公布的内容。"
+          "日历上的黑色星期五是 11 月的最后一个星期五，2026 年是 27 日，网络星期一是 30 日。这些日期并不说明 SHEIN 何时开始或结束优惠。活动、日期和折扣因国家而异，我们没有找到适用于所有国家的官方日程。想知道哪些适用于你，请查看所在国家 SHEIN 网站或 App 上显示的活动。"
         ],
-        "comparisonTable": {
-          "caption": "SHEIN 公布的各阶段与最高折扣，来源为 SHEIN、刊登公告的媒体和品牌账号。“最高”只适用于部分商品。",
-          "headers": [
-            "年份",
-            "起止时间",
-            "公布的最高折扣"
-          ],
-          "rows": [
-            [
-              "2023",
-              "11 月 11 日至 25 日",
-              "开始时最高 80%，前一周最高 85%，黑色星期五及随后的周六最高 90%；黑色星期五当周有 48 小时免运费"
-            ],
-            [
-              "2024",
-              "10 月 21 日至 11 月 30 日",
-              "11.11：开始时最高 85%，前一周 90%，11.11 当天前后 95%。黑色星期五：最高 90%，月底最后五天升到 95%"
-            ],
-            [
-              "2025",
-              "自 11 月 3 日起，至 11 月 30 日",
-              "第一阶段超过 80 万件商品最高 90%，多个类别免运费；黑色星期五当周，超过 80 万件商品最高 95%"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用同样的模式，黑色星期五的优惠会在 11.11 之后到来，持续到月底。这是根据往年做的推测，等 SHEIN 公布 2026 年的活动后，本指南会随之更新。",
-          "三年来，最高折扣都在接近月底时提高。但这不代表你想买的商品会更便宜：请比较最终价格和库存，需要难买尺码的人不要等到最后一个阶段。"
+          "活动的最高折扣不保证你想买的商品会更便宜：请比较最终价格和库存，如果需要不好找的尺码，不要等到最后一个阶段。"
         ]
       },
       {
-        "heading": "“最高 90%”不是整个购物车",
+        "heading": "广告折扣与最终价格",
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
           "alt": "Cecília 在一次 SHEIN 开箱中的两套造型：腰间系结的浅色上衣配黑色中长裙，以及带浅色镂空的黑色长连衣裙"
         },
         "paragraphs": [
-          "活动宣传的百分比，是部分商品的最高折扣。大部分商品的折扣更小，每件商品的价格也会随阶段变化。想不被大数字的广告带偏："
+          "广告中的最高折扣适用于符合条件的商品。请确认想买的商品是否参与，并比较最终价格。"
         ],
         "bullets": [
-          "活动开始前，先把想买的商品加入心愿单，并记下现在的价格。",
-          "把心愿单里的价格和后面阶段的价格比较：过去三年，最高折扣都在最后阶段提高。",
+          "决定购买时间前，先把商品加入心愿单并记录当前价格。",
+          "把心愿单里的价格和后面阶段的价格比较。",
           "看购物车里含运费和税金的最终价格，不要只看广告上的百分比。",
           "如果商品的尺码不好找，不要等到最后一个阶段：库存可能先卖完。"
         ]
@@ -61181,7 +60966,7 @@ export const reviewsData: unknown[] = [
         "heading": "优惠券、积分与 4CW5Y",
         "paragraphs": [
           "按照 SHEIN 的优惠券政策，每笔订单可用一张平台优惠券。每张优惠券都有有效期，没有及时使用就会失效。",
-          "SHEIN 积分每 100 分抵 US$ 1，最多可抵商品金额的 30%，不含运费和税金。",
+          "订单页面会显示可使用的 SHEIN 积分和对应抵扣金额。付款前请核对金额。",
           "4CW5Y 不是优惠券，而是 Cecília 的 SHEIN 推荐码，用它确实有折扣。通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索 4CW5Y，该码会打开一个含推荐商品、促销和折扣的页面。折扣多少、涉及哪些商品由 SHEIN 决定，并会变化。SHEIN 的活动随时都在变：下单前，请先到本站的店铺页面查看目前的活动。"
         ],
         "links": [
@@ -61198,10 +60983,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "黑色星期五之后的换货与退货",
         "bullets": [
-          "**期限：** 收货后 20 天内，即使只是不喜欢也可以退。这是 SHEIN 公布的期限，实际以订单页面显示的所在国家 SHEIN 站点的退货政策为准。",
-          "**只能 7 天内退的商品：** 连体衣、泳装、内衣、耳环和穿孔饰品、宠物用品，以及已拆封的化妆品、派对用品和手工艺用品。这些商品只能在自送达日起算的 7 天反悔期内退货。",
-          "**优惠券：** 部分退货时，优惠券视为已使用，不会退回；如果订单低于最低消费，差额会从退款中扣除。",
-          "**税金：** 订单发出之后，已缴的进口税不会退还。"
+          "**购买前：** 查看适用于订单的退货政策，确认期限、可退商品和退货运费。",
+          "**部分退货：** 如果使用了优惠券或促销，请确认退款金额如何计算。",
+          "**税费：** 查看适用于订单和收货地址的退款条件。"
         ]
       },
       {
@@ -61209,19 +60993,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "优惠券是否已生效，积分是否已抵扣。",
           "如果是买来当圣诞礼物，要看送达时间。",
-          "商品是否属于只能 7 天内退货的类别。"
+          "适用于订单的退货期限、可退商品和退货运费。"
+        ],
+        "paragraphs": [
+          "**运费：** 请在购物车确认收货地址对应的运费，以及免运费优惠的适用条件。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "SHEIN 的黑色星期五何时开始、持续多久？2026 年的黑色星期五是 11 月的最后一个星期五。SHEIN 目前在办 11.11 促销，还没有公布这场活动。从往年来看，黑色星期五的优惠在 11.11 之后到来，持续到月底；阶段每年不同，也因各国站点而异。",
-          "SHEIN 的黑色星期五持续到什么时候？2024 年和 2025 年都持续到 11 月底。2023 年持续到黑色星期五之后的那个周六。2026 年还没有结束日期。",
-          "SHEIN 的 11.11 是什么？是 11 月 11 日的光棍节促销。SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段打折，直到月底。",
-          "在 SHEIN 可以同时用多张优惠券吗？每笔订单只能用一张 SHEIN 优惠券。",
-          "4CW5Y 是折扣优惠券吗？不是优惠券，但确实有折扣。它是 Cecília 的 SHEIN 推荐码：通过链接打开 SHEIN，再在 App 或网站搜索这个码，会打开含促销和折扣的商品页面；折扣多少、涉及哪些商品由 SHEIN 决定。",
-          "SHEIN 黑色星期五有免运费吗？免运费会随活动阶段变化：付款前，请在购物车里确认你这笔订单的运费。",
-          "黑色星期五买的东西，多久内可以退货？按 SHEIN 公布的条件，收货后 20 天内（请在订单页面查看所在国家 SHEIN 站点的退货政策）。内衣、泳装、连体衣、耳环等部分商品只能在 7 天内退货。"
+          "SHEIN 的黑色星期五何时开始、持续多久？2026 年的黑色星期五是 11 月 27 日。活动日期因国家而异：请查看所在国家 SHEIN 站点上显示的活动。",
+          "SHEIN 黑色星期五怎么进行？不同优惠可能有不同的时间和条件。请确认哪些商品适用广告折扣，并比较购物车中的最终价格。",
+          "SHEIN 有网络星期一吗？2026 年的网络星期一是 11 月 30 日。我们没有找到适用于所有国家的公告：请查看所在国家站点上的活动。",
+          "黑色星期五的订单能在圣诞节前送到吗？我们无法保证具体日期。送达时间会在付款前显示在订单上：每次购买都请确认这个时间。",
+          "4CW5Y 是折扣优惠券吗？不是优惠券，但确实有折扣。它是 Cecília 的 SHEIN 推荐码：通过链接打开 SHEIN，再在 App 或网站搜索这个码，会打开含促销和折扣的商品页面；折扣多少、涉及哪些商品由 SHEIN 决定。"
         ]
       }
     ],

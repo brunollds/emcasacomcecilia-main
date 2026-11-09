@@ -136,10 +136,6 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | 48 artigos antigos em português | Seção de resposta rápida (são anteriores aos Jobs) | 24/10 |
 | Artigos de roupa sem o card de estilo | "Como usar / Ocasião / Combina com". 18 já têm: conferir quais faltam | Piloto de 30/10 |
 | `skinup-marca-na-roupa` (F14) | Acréscimo quando o short da Cecília sair: o vídeo, o comentário dela sobre não marcar e a experiência, só no que ela disser. O Bruno avisa | Bruno, 08/11 |
-| `shein-black-friday` (versão em japonês) | A tabela usa o histórico do Brasil. Trocar pelo do Japão: 2023 de 13 a 27/11, 2024 de 12/11 a 02/12, 2025 de 17/11 a 02/12. Em 2026, o que há é a #SHEIN1111, de 19/10 a 16/11, 12h, e ela não é a Black Friday. Corrigir "até o fim do mês". Título e meta com "いつ" e "いつまで". Fontes e fases nos fatos da SB1 | GSC e pesquisa externa, 08/11 |
-| `shein-black-friday` (10 idiomas) | "Não divulgou" está errado. **PT:** a [VEJA de 19/10](https://veja.abril.com.br/economia/shein-aposta-na-cantora-iza-para-impulsionar-vendas-na-black-friday/) traz a campanha única com a IZA, a primeira etapa de 19/10 a 02/11, reforço no 11.11 e na Black Friday, até 95% em selecionados; falta só o calendário completo. **Fora do PT:** a tabela do Brasil não vale para os 9 idiomas. Inglês com os EUA de 2023 a 2026 (fatos da SB1) e `us.shein.com` com "Early Black Friday Access", até 60% (Chrome, 08/11). Onde não há fonte local, dizer que varia por país e que não achamos calendário, sem previsão como se fosse data. Sem citar o Brasil fora do PT | Pesquisa externa conferida, 08/11 |
-| `shein-black-friday` (9 idiomas) | `metaDescription` sem o 4CW5Y nas 9 versões (conferido em 08/11; o PT tem). Acrescentar com o termo de cada idioma, sem % | GSC do Bruno, 08/11 |
-| `shein-black-friday` (família) | FAQ para o que o autocompletar pergunta: "como funciona" e "cuanto dura", Cyber Monday (30/11), "いつ届く" e prazo para o Natal, sem prometer data de entrega | Autocompletar, 08/11 |
 
 ### Revisões com data
 
