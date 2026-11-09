@@ -18,6 +18,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | JSON pronto (id 864), com rascunho e imagens aprovados em 08/11. Falta o deploy; reler preços e grade antes dele |
 | SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
 | PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | No PR, aguardando deploy. Atualizar com a leitura de 27/11 |
+| PP2 | Poltrona do papai elétrica: quanto custa e qual compensa (decisão do Bruno, 09/11) | DAMIE | PT | [[poltrona-do-papai-eletrica-quanto-custa]] | Falta a leitura das fichas e da faixa de entrada. Depois, redação, logo após a PP1 |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -97,11 +98,10 @@ Também sem GO:
   - **Suplementos:** "alternativa whey growth", "whey parecido com growth", "whey parecido com adaptogen". Os "X ou Y" já estão no ar e não são pauta: `black-skull-ou-growth`, `black-skull-ou-integralmedica`, `black-skull-ou-max-titanium`, `max-titanium-ou-growth`, `max-titanium-ou-integralmedica`.
   - **Vazios ou ruído:** "alternativa ao sustagen", "alternativa black skull", "parecido com black skull", "alternativa ortobom". "Alternativa" em moda quase sempre quer dizer estilo de roupa. O vazio só baixa a nota. Vale testar "parecido com", "substituto de" e "<marca> ou <marca>".
 
-**Série DAMIE "poltrona do papai" (decisão do Bruno, 09/11/2026).** Abre por temas amplos, aproveitando Black Friday e Natal. O site capta o interesse, e o subdomínio aprofunda a escolha dentro da DAMIE. Black Friday e Natal são artigos separados, porque as buscas e os prazos são diferentes. A PP1 está na seção 1. Vale o que está aqui onde o plano de apoio do ChatGPT (`docs/ESTRATEGIA-DAMIE-POLTRONAS-PREMIUM-2026-11-09.md`, checkout principal) divergir.
+**Série DAMIE "poltrona do papai" (decisão do Bruno, 09/11/2026).** Abre por temas amplos, aproveitando Black Friday e Natal. O site capta o interesse, e o subdomínio aprofunda a escolha dentro da DAMIE. Black Friday e Natal são artigos separados, porque as buscas e os prazos são diferentes. A PP1 e a PP2 estão na seção 1. Vale o que está aqui onde o plano de apoio do ChatGPT (`docs/ESTRATEGIA-DAMIE-POLTRONAS-PREMIUM-2026-11-09.md`, checkout principal) divergir.
 
 | Ordem | Pauta | Observação |
 |---|---|---|
-| PP2 | Poltrona do papai elétrica: quanto custa e qual compensa (guia-mãe) | Mesma leitura de preços da PP1, sem repetir o foco em desconto. "Premium" é escolha do Bruno, com título concreto (elétrica e couro). Sem outro "elétrica ou manual", que o subdomínio já cobre. FAQ: cadeira do papai, poltrona do papai e reclinável são a mesma coisa? |
 | PP3 | Presente de Natal para pai: a poltrona do papai vale? | Logo depois da Black Friday, com o prazo de entrega. O título diz "presente": "poltrona do papai natal" no autocompletar traz a cidade de Natal/RN. Linkar `presente-de-natal-para-casa-moveis` |
 | PP4 | Poltrona do papai de couro ou corino: qual escolher | Compara o mercado; os tecidos da DAMIE seguem no subdomínio. Nossas poltronas diferem em mais que o revestimento (2.0 de corino, Levita de couro, 1.0 de linho): a experiência enriquece, mas não é teste controlado de material |
 | PP5 | Poltrona do papai na Magazine Luiza, Casas Bahia ou direto da fábrica | Só com mesmo produto, vendedor, configuração, frete e pós-venda. Ser parceira não justifica a pauta. A DAMIE vende também na Magalu, no Mercado Livre e na Amazon (Bruno, 09/11). A página dela declara "Direto da fábrica": citar como declaração da loja, a menos que se confirme |
