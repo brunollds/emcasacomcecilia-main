@@ -3,7 +3,7 @@
   "slug": "yesstyle-vs-stylekorean-zh-hant",
   "locale": "zh-hant",
   "translationKey": "yesstyle-vs-stylekorean",
-  "title": "YesStyle 還是 StyleKorean？哪家划算：兩組相同商品的比較",
+  "title": "YesStyle 還是 StyleKorean？哪家對你的荷包比較劃算？直接比一比",
   "seoTitle": "YesStyle 還是 StyleKorean？價格與運費比較",
   "type": "購物平台比較",
   "category": "guias-praticos-utilidade",
@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Trustpilot 評分、獎勵碼 CECILIA010 與兩組相同商品的價格，再加上運費、稅金和退貨，幫你決定在哪裡買韓國保養品。",
+  "description": "Trustpilot 評分、獎勵碼 CECILIA010 與兩個裝有相同商品的購物車價格，再加上運費、稅金和退貨，幫你決定在哪裡買韓國保養品。",
   "metaDescription": "YesStyle 獎勵碼 CECILIA010 首購額外最高 5%。YesStyle 還是 StyleKorean？評分、價格、運費與退貨比較。",
   "publishedAt": "2026年11月9日",
   "publishedAtISO": "2026-11-09",
@@ -32,7 +32,7 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "如果 YesStyle 寄得到你的地址，建議先從它開始：Trustpilot 評分 4.4（104,969 則評價），StyleKorean 則是 1.9（137 則），而且以美國寄送地查得的價格，兩組商品在 YesStyle 都比較低。CECILIA010 可再額外省最高 5%。運費與稅費不在計算內。如果你所在的地方不在本文表格列出的目的地中，請在結帳時確認店家是否寄到你的地址，以及適用的運費與稅費。"
+        "想少冒點風險，就選 YesStyle：Trustpilot 評分 4.4（104,969 則評價），StyleKorean 則是 1.9（137 則）。CECILIA010 可再額外省最高 5%。運費與稅費不在計算內。如果你所在的地方不在本文表格列出的目的地中，請在結帳時確認店家是否寄到你的地址，以及適用的運費與稅費。"
       ]
     },
     {
@@ -61,41 +61,41 @@
         ]
       },
       "postParagraphs": [
-        "這些評分反映的是 Trustpilot 上已發布的評價，並不代表有多少訂單出問題。兩個頁面都是全球性的，評價數量差距很大；關於 YesStyle 的寄送與追蹤投訴，請見 [YesStyle 在 Trustpilot 上的評價](/zh-hant/reviews/yesstyle-trustpilot-reviews-zh-hant)。即便如此，這個差距仍然值得重視，哪怕某項商品在 StyleKorean 比較便宜。",
+        "這些評分反映的是 Trustpilot 上已發布的評價，並不代表有多少訂單出問題。兩個頁面都是全球性的，評價數量差距很大；關於 YesStyle 的寄送與追蹤投訴，請見 [YesStyle 在 Trustpilot 上的評價](/zh-hant/reviews/yesstyle-trustpilot-reviews-zh-hant)。",
         "CECILIA010 要放在另一欄來算。它是 Cecília 的獎勵碼，只能用在 YesStyle：填在結帳頁的 Reward Code 欄位，首購額外 5%，之後的訂單額外 2%，並可與店家自己符合資格的優惠券一併使用。價格在下方，標價與使用獎勵碼後的結果分開列出。"
       ]
     },
     {
-      "heading": "在 StyleKorean 下單前，先比較這兩組商品",
+      "heading": "在 StyleKorean 下單前，先比較這兩個購物車",
       "paragraphs": [
-        "選擇美國為寄送地時，兩組商品在 YesStyle 的價格都比較低，不論是否套用 CECILIA010 的計算折扣。差距從大組合不使用獎勵碼的 3.6%，到小組合套用首購 5% 的 8.9%。我們在比價之前就先定好商品組合，選的是兩家店都有賣的知名商品。"
+        "選擇美國為寄送地時，兩個購物車在 YesStyle 的價格都比較低，不論是否套用 CECILIA010 的計算折扣。差距從大購物車不使用獎勵碼的 3.6%，到小購物車套用首購 5% 的 8.9%。我們在比價之前就先定好購物車的商品，選的是兩家店都有賣的知名商品。"
       ],
       "images": [
         {
           "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
           "alt": "COSRX Advanced Snail 96 Mucin Power Essence 精華液，100 ml",
-          "caption": "大組合中的一項商品，於 YesStyle。",
+          "caption": "大購物車中的一項商品，於 YesStyle。",
           "objectFit": "square",
           "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
         },
         {
           "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
           "alt": "Beauty of Joseon Relief Sun 防曬乳，50 ml",
-          "caption": "大組合中的一項商品，於 YesStyle。",
+          "caption": "大購物車中的一項商品，於 YesStyle。",
           "objectFit": "square",
           "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
         },
         {
           "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
           "alt": "SKIN1004 Madagascar Centella 安瓶精華，100 ml",
-          "caption": "大組合中的一項商品，於 YesStyle。",
+          "caption": "大購物車中的一項商品，於 YesStyle。",
           "objectFit": "square",
           "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
         },
         {
           "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
           "alt": "Round Lab 1025 Dokdo 化妝水，200 ml",
-          "caption": "大組合中的一項商品，於 YesStyle。",
+          "caption": "大購物車中的一項商品，於 YesStyle。",
           "objectFit": "square",
           "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
         }
@@ -125,7 +125,7 @@
             "US$ 12.35"
           ],
           [
-            "**小組合（上面 2 項）**",
+            "**小購物車（上面 2 項）**",
             "**US$ 34.00**",
             "**US$ 32.60**",
             "**US$ 30.97**",
@@ -146,7 +146,7 @@
             "US$ 13.33"
           ],
           [
-            "**大組合（全部 4 項）**",
+            "**大購物車（全部 4 項）**",
             "**US$ 63.50**",
             "**US$ 61.20**",
             "**US$ 58.14**",
@@ -155,8 +155,8 @@
         ]
       },
       "postParagraphs": [
-        "計算方式是我們自己算的：對 YesStyle 的標價套用 5% 或 2% 的折扣計算，每個金額四捨五入到分。組合那幾列，則是從不含獎勵碼的價格總和開始算。這個折扣沒有在購物車中實測，請以訂單摘要上的金額為準。",
-        "促銷變動很快，下單前請重新確認價格。在 YesStyle，價格也會隨寄送地而變：COSRX 在美國顯示 US$ 20.00，寄到葡萄牙則顯示 US$ 21.28。",
+        "計算方式是我們自己算的：對 YesStyle 的標價套用 5% 或 2% 的折扣計算，每個金額四捨五入到分。購物車那幾列，則是從不含獎勵碼的價格總和開始算。這個折扣沒有在購物車中實測，請以訂單摘要上的金額為準。",
+        "促銷變動很快，下單前請先查看價格。在 YesStyle，價格也會隨寄送地而變：COSRX 在美國顯示 US$ 20.00，寄到葡萄牙則顯示 US$ 21.28。",
         "同一款商品在不同店的名稱可能不同，所以我們核對了公布的成分。Beauty of Joseon 表示 Relief Sun 已更名，從 Rice + Probiotics 改為 Rice + Niacinamide，配方、成分與容量都沒有變。Anua 和 Isntree 沒有納入計算，因為兩家店公布的成分表對不上。",
         "StyleKorean 會把優惠券發給新客戶，以及升級時發放，存放在帳戶的錢包裡。這些優惠券不在表格內，因為取決於你的帳戶，所以這個比較適用於沒有這些優惠券的人。YesStyle 目前的優惠券列在 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)，同樣不在表格內。"
       ]
@@ -164,7 +164,7 @@
     {
       "heading": "免運：YesStyle 的門檻比較低",
       "paragraphs": [
-        "依照下表的門檻，YesStyle 在比較小的訂單金額就能免運。以美國的價格來看，小組合低於兩家的門檻，大組合則兩家都超過。運費沒有加進這次比較。"
+        "依照下表的門檻，YesStyle 在比較小的訂單金額就能免運。以美國的價格來看，小購物車低於兩家的門檻，大購物車則兩家都超過。運費沒有加進這次比較。"
       ],
       "comparisonTable": {
         "caption": "兩家店在四個目的地的運費，依查閱的頁面與購物袋整理。YesStyle 為 Standard 寄送方式，英國為 Premium Standard。",
@@ -207,7 +207,7 @@
         ]
       },
       "postParagraphs": [
-        "在 StyleKorean，免運只適用於美妝商品，而且它的運送頁面把單筆訂單上限訂在 US$ 500（不含運費）；超過的話，店家建議分成兩筆訂單。把運費拿來和多買一件商品的價格比一比：為了湊到門檻而加購，只有在多出來的商品你也用得到時才划算。使用獎勵碼後總額會下降，所以請在摘要上確認購物車是否仍高於門檻。"
+        "在 StyleKorean，免運只適用於美妝商品，而且它的運送頁面把單筆訂單上限訂在 US$ 500（不含運費）；超過的話，店家建議分成兩筆訂單。把運費拿來和多買一件商品的價格比一比：為了湊到門檻而加購，只有在多出來的商品你也用得到時才劃算。使用獎勵碼後總額會下降，所以請在摘要上確認購物車是否仍高於門檻。"
       ],
       "links": [
         {
@@ -305,7 +305,7 @@
     {
       "heading": "如果你原本想買 StyleKorean，有什麼不同",
       "paragraphs": [
-        "你是衝著某項特定商品來的嗎？決定之前，請在兩家店分別查看，因為整組商品的平均並不適用於每一項。即使套用 YesStyle 獎勵碼的 5%，SKIN1004 在 StyleKorean 仍然比較便宜，COSRX 則在套用獎勵碼之前兩家價格相同。",
+        "你是衝著某項特定商品來的嗎？決定之前，請在兩家店分別查看，因為整個購物車的平均並不適用於每一項。即使套用 YesStyle 獎勵碼的 5%，SKIN1004 在 StyleKorean 仍然比較便宜，COSRX 則在套用獎勵碼之前兩家價格相同。",
         "StyleKorean 全部從韓國出貨，退款時可以在點數與付款方式之間選擇；YesStyle 只要你要求，也能退回付款方式。改買 YesStyle，你得到的是更高的評分、CECILIA010，以及在這四個國家中門檻比較低的免運。如果你要的那項商品在 StyleKorean 算上運費與稅費之後仍然明顯便宜，結果就會不同，評分的分量要由你自己決定。"
       ]
     },
@@ -331,9 +331,9 @@
     {
       "heading": "該選哪一家",
       "paragraphs": [
-        "拿不定主意時，在 YesStyle 寄得到的地方先從它開始：Trustpilot 評分比較高，而且以美國寄送地查得的價格，兩組商品在 YesStyle 都比較便宜。CECILIA010 再加上首購 5% 或之後 2% 的計算折扣。當你要的商品在 StyleKorean 比較便宜（例如這次讀取中的 SKIN1004），而且省下的錢足以抵銷運費、稅費與評分的差距時，StyleKorean 才說得通。"
+        "拿不定主意時，在 YesStyle 寄得到的地方先從它開始：Trustpilot 評分比較高，而且以美國寄送地查得的價格，兩個購物車在 YesStyle 都比較便宜。CECILIA010 再加上首購 5% 或之後 2% 的計算折扣。當你要的商品在 StyleKorean 比較便宜（例如這次讀取中的 SKIN1004），而且省下的錢足以抵銷運費、稅費與評分的差距時，StyleKorean 才說得通。"
       ],
-      "emphasis": "拿不定主意時，在 YesStyle 寄得到的地方先從它開始：Trustpilot 評分比較高，而且以美國寄送地查得的價格，兩組商品在 YesStyle 都比較低。付款前請確認含運費與稅費的總額。評分是口碑的參考，並不保證訂單一定順利。"
+      "emphasis": "拿不定主意時，在 YesStyle 寄得到的地方先從它開始：Trustpilot 評分比較高，而且以美國寄送地查得的價格，兩個購物車在 YesStyle 都比較低。付款前請確認含運費與稅費的總額。評分是口碑的參考，並不保證訂單一定順利。"
     },
     {
       "heading": "常見問題",
@@ -349,11 +349,11 @@
   "decision": {
     "takeIf": [
       "YesStyle 寄得到你的地址，而且你很看重 Trustpilot 上的口碑。",
-      "你要找的商品在 YesStyle 都有，且算上運費、稅費與 CECILIA010 之後，總額對你的地址來說划算。"
+      "你要找的商品在 YesStyle 都有，且算上運費、稅費與 CECILIA010 之後，總額對你的地址來說劃算。"
     ],
     "skipIf": [
       "YesStyle 不寄送到你的地址。",
-      "別家店有同一款商品，加上運費與稅費後，總額你覺得更划算。"
+      "別家店有同一款商品，加上運費與稅費後，總額你覺得更劃算。"
     ]
   },
   "cta": {
@@ -364,7 +364,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "比較的是標價，折扣為計算值，兩組商品沒有在結帳頁實測。我們可能從 YesStyle 獲得佣金；StyleKorean 則沒有。",
+  "editorialNote": "比較的是標價，折扣為計算值，兩個購物車沒有在結帳頁實測。我們可能從 YesStyle 獲得傭金；StyleKorean 則沒有。",
   "relatedArticles": [
     {
       "slug": "yesstyle-vs-stylevana-zh-hant"
