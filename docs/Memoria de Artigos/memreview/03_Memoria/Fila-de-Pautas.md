@@ -18,6 +18,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | JSON pronto (id 864), com rascunho e imagens aprovados em 08/11. Falta o deploy; reler preços e grade antes dele |
 | SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
 | PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | No PR, aguardando deploy. Atualizar com a leitura de 27/11 |
+| I9 | Gift card da Insider: como funciona, aceita cupom e quando compensa? (GO do Bruno, 09/11; o ano todo, não só o Natal) | Insider | PT | [[gift-card-insider-como-funciona-cupom]] | Redação. Antes, se der, o carrinho do Bruno: pagamento misto, Pix no restante, preço da Black Friday com o saldo, onde entra o código e o limite por dia |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -119,7 +120,7 @@ Também sem GO:
 
 | Parceiro | Pautas | Observação |
 |---|---|---|
-| Insider | Série "Insider ou X" ([[insider-ou-x-serie-0211]]); I5 feminino: Perfect Top, legging e vestido; I8 regata feminina; Insider Rewards (programa de pontos); **I9 gift card com o cupom**: o EMCASACOMCECILIA vale na compra do gift card virtual (teste do Bruno, 05/11: R$ 900 saiu por R$ 765, com frete grátis); a página é difícil de achar no site (link de criador `creators.insiderstore.com.br/SXnbEB8`). Autocompletar (05/11): "cupom gift card insider", "comprar gift card insider", "vale presente insider". Para o Natal e a Black Friday. Ângulo decidido pelo Bruno (05/11): o artigo pode dizer que o cartão comprado com 15% paga peças em que o cupom não vale, como lançamentos. Tom de dica, sem "brecha" nem "burlar": a loja não anuncia, mas aceita. Lembrar que o pedido pago com o cartão não leva outro cupom, e que lançamento às vezes já aceita o cupom (conferir a linha no checkout). Canibalização: o `presente-de-natal-insider-kits-gift-card` tem a seção "Vale presente na Insider: como funciona o gift card"; ela encurta e linka | I8 com sinal forte em 30/10 |
+| Insider | Série "Insider ou X" ([[insider-ou-x-serie-0211]]); I5 feminino: Perfect Top, legging e vestido; I8 regata feminina; Insider Rewards (programa de pontos) | I8 com sinal forte em 30/10 |
 | YesStyle | **Série StyleKorean (a SK2 está no ar):** **SK3** "Alternativas à StyleKorean": começa como seção da SK1. **SK4** "StyleKorean: frete, despacho e taxas por país": começa como seção da SK1 e separa com demanda ou detalhe. Código: pergunta no FAQ da SK1, sem página de "cupom StyleKorean". Espera: Calendário do Advento (só se a YesStyle vender um); Black Friday (seção da SK1 quando a promoção aparecer) | Ordem: conselho do ChatGPT aceito pelo Bruno em 08/11. A negativa da afiliação não é argumento no texto |
 | YesStyle | Programa de Estudantes (Membro Prata do Elite Club grátis) | — |
 | Let's Eat It | L4 aparelho de jantar Porto Brasil: 20, 30 ou 42 peças; L6 faqueiro Wolff: 30, 101 ou 130 peças; L11 paleta da mesa posta; L14 amigo secreto até R$ 100 | Para a L4 já existe `porto-brasil-e-boa`. A L14 é de dezembro |
@@ -154,6 +155,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | Artigo | Mudança | Origem |
 |---|---|---|
 | `yesstyle-ou-stylekorean` (SK1, 10 idiomas) | **Na Black Friday:** reler preços e notas. A frase dos convites e o link da SK2 já estão no ar | Fatos da SK2, 09/11 |
+| `presente-de-natal-insider-kits-gift-card` | Tirar o "Quero enviar como presente" (destinatário e data): a opção não aparece na tela em 09/11, e o cartão vai ao e-mail de quem compra. Quando a I9 for ao ar, pôr o link para ela na seção do gift card | Fatos da I9, 09/11 |
 | `hostinger-renovacao-cupom-sonar20` (e o quadro `-barras-` dos 10 idiomas) | Conferir o prazo da renovação: a página de planos diz "Renovação automática… pelo mesmo período", mas o carrinho diz "Renova após 48 meses por R$ 23,99/mês a cada 12 meses" (Single, 06/11). O quadro diz "renova pelo mesmo período". Ler o carrinho de novo e, se o carrinho valer, corrigir o texto e o quadro | Redação da H9, 06/11 |
 | `camiseta-feminina-insider-qual-escolher` e `camiseta-insider-qual-escolher` | Cupom na Daily: o feminino diz "confira no carrinho", o masculino diz que a Daily não aceita cupom. Só mudar com o teste no carrinho (conflito 5 da R7). O resto da linha da R7 (lavagem com link, notas, Core e 2 cm, dossiê) saiu no PR de 06/11 | Rodada R7, 05/11 |
 | `clea-store-e-confiavel` | FAQ "Onde fica a Cléa Store? Tem loja física em Jaraguá do Sul?", pelo que a loja publica | Rodada de 05/11 |
