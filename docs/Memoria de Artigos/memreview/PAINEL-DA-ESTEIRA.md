@@ -41,6 +41,7 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[yesstyle-ou-stylekorean-qual-compensa]]: YesStyle ou StyleKorean: qual compensa pro seu bolso? (10 idiomas, ids 866–875; SK1; no ar em 09/11/2026, release eb7c7eeb; título e "carrinho" corrigidos no #771) 🚀
 - [x] [[hostinger-renovacao-cupom-sonar20]]: Renovação Hostinger: preço, cupom SONAR20 e reembolso antes de pagar (10 idiomas, ids 814–823; BG1; na main em 04/11/2026, PR #579; no ar em 05/11/2026, conferido) 🚀
 - [x] [[black-skull-e-boa-0211]]: Black Skull é boa? O whey, a creatina e o que vale comprar da marca (PT, id 776; linha "é boa", lote 1; na main em 02/11/2026, PR #520) 🚀
 - [x] [[max-titanium-e-boa-0211]]: Max Titanium é boa? O whey, a creatina e o que vale comprar da marca (PT, id 777; linha "é boa", lote 1; na main em 02/11/2026, PR #520) 🚀
