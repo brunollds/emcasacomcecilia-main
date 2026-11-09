@@ -2,6 +2,23 @@
 
 Briefing: [[yesstyle-ou-stylekorean-qual-compensa]]. Leitura no Chrome, sem login e sem carrinho. Em 08/11, a extensão do Chrome leu `yesstyle.com`, o que não acontecia em 21/10.
 
+## Decisão e leitura usada no artigo (noite de 08/11)
+
+Decisão do Bruno: comparação bruta, sem carrinho, com o CECILIA010 sobre o valor dos produtos. A tabela abaixo passa a ser o resultado do artigo, dita com a data e com o aviso de promoção. Isso substitui o "não é resultado" do título seguinte.
+
+- **Preços:** relidos no Chrome na mesma noite, iguais à tabela abaixo, com entrega nos EUA. Sem o EARLYBF26 nem cupom de loja.
+- **Volumes na StyleKorean:** os nomes da loja trazem 50 ml (Relief Sun), 250 ml (Anua) e 200 ml (Round Lab).
+- **Equivalência, conferida pelas listas de ingredientes (a StyleKorean as traz no dado da página, campo `allIngredients`):**
+  - Relief Sun: fica. O [FAQ da marca](https://jp.beautyofjoseon.com/products/relief-sun-rice-probiotics) diz que só o nome mudou, e a YesStyle diz que é a versão renovada, com a fórmula mantida.
+  - Round Lab: fica. Lista igual na StyleKorean, na YesStyle e no fabricante.
+  - COSRX e SKIN1004: ficam. Mesmos ingredientes nas duas lojas.
+  - Anua: sai. A StyleKorean e o fabricante trazem sete derivados de ácido hialurônico; a YesStyle não traz nenhum, embora diga que só a embalagem mudou.
+  - Isntree: sai. A StyleKorean começa por Sodium Hyaluronate e traz Soluble Collagen; a YesStyle começa por Water e Propanediol.
+- **Cesta maior final (COSRX, Relief Sun, SKIN1004, Round Lab):** StyleKorean US$ 63,50; YesStyle US$ 60,54, US$ 59,33 com 2% e US$ 57,51 com 5%.
+- **Torriden Dive-In:** não apareceu na busca das duas lojas. A reserva, o Isntree, também saiu, pelo motivo acima.
+- **Sacola da YesStyle sem conta (08/11), com o COSRX:** EUA a US$ 20,00, frete Padrão US$ 6,00, 7 a 11 dias úteis, faltando US$ 15,00 para o grátis (limite de US$ 35). Portugal a US$ 21,28, frete Padrão US$ 5,00, 10 a 15 dias úteis, faltando US$ 38,72 (limite de US$ 60), "IVA incluído no total" de US$ 4,91 e taxa de pequeno pacote da UE "US$ 0, coberto por nós".
+- **Reino Unido e Alemanha na YesStyle:** US$ 50 e US$ 45, frete de US$ 5, vêm dos artigos da família de entrega no ar. Reler antes de publicar: a tabela da loja só abre por país no navegador.
+
 ## Leitura de preço: não é resultado
 
 Preço anunciado na página do produto (dado estruturado da página, conferido em tela só por amostra), em US$, com os EUA como destino nas duas lojas. Na StyleKorean, os preços foram os mesmos com Brasil e com EUA selecionados. Todos os itens constavam em estoque.

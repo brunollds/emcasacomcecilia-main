@@ -29,6 +29,8 @@ coupon: "CECILIA010"
 
 SK1 da série YesStyle × StyleKorean. GO do Bruno em 08/11/2026. Substitui a decisão de 21/10 ("só reforço na família `yesstyle-vs-alternatives`"), porque a StyleKorean negou a afiliação e a frente agora é conquistar quem considera comprar nela. Dados e leituras em [[yesstyle-ou-stylekorean-qual-compensa-fatos-0811]]. Estratégia externa conferida em `docs/ESTRATEGIA-YESSTYLE-STYLEKOREAN-2026-11-08.md`, no checkout principal, fora do git.
 
+> **Decisão do Bruno (08/11/2026), que prevalece sobre o resto desta nota:** a comparação é bruta, de preços anunciados, sem carrinho. Aplica-se a porcentagem do CECILIA010 (5% e 2%) sobre o valor dos produtos, e isso vale para os 10 idiomas, com a mesma tabela. Saem o teste de carrinho (seção 8), a conta por destino (seções 5 e 6, item 4) e o cupom público da YesStyle na conta. Frete, imposto e devolução seguem como capítulos de política, sem total. O título perde "no seu país".
+
 ## 1. Portões
 
 - [x] **Evidência:** páginas das duas lojas lidas em 08/11. Falta o total no carrinho (seção 8).
