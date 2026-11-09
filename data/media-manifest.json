@@ -52437,6 +52437,282 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 94258,
+      "sha256": "b59dbbd7b33ed21998e421ecf43c05d20f8c6f9649a20c9999ef2947c804aac9",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
+      "storage_filename": "poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+          "line": 193,
+          "column": 17,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207427,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b59dbbd7b33ed21998e421ecf43c05d20f8c6f9649a20c9999ef2947c804aac9/poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b59dbbd7b33ed21998e421ecf43c05d20f8c6f9649a20c9999ef2947c804aac9/poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T19:46:04.096Z",
+      "verification_etag_or_digest": "b59dbbd7b33ed21998e421ecf43c05d20f8c6f9649a20c9999ef2947c804aac9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-eletrica-boston-gran-belo.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-eletrica-boston-gran-belo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100096,
+      "sha256": "9381d046e7b2e7b13d7a68098381ac73be03ff7ebccccb34eed024ed98e932a7",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-eletrica-boston-gran-belo.webp",
+      "storage_filename": "poltrona-do-papai-eletrica-boston-gran-belo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+          "line": 154,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-boston-gran-belo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207388,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-boston-gran-belo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9381d046e7b2e7b13d7a68098381ac73be03ff7ebccccb34eed024ed98e932a7/poltrona-do-papai-eletrica-boston-gran-belo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9381d046e7b2e7b13d7a68098381ac73be03ff7ebccccb34eed024ed98e932a7/poltrona-do-papai-eletrica-boston-gran-belo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T19:46:04.097Z",
+      "verification_etag_or_digest": "9381d046e7b2e7b13d7a68098381ac73be03ff7ebccccb34eed024ed98e932a7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-eletrica-chicago-gran-belo.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-eletrica-chicago-gran-belo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76894,
+      "sha256": "1224da079ef799234b2f67ae2d60077468336222d7327003fd160df64456e008",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-eletrica-chicago-gran-belo.webp",
+      "storage_filename": "poltrona-do-papai-eletrica-chicago-gran-belo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-chicago-gran-belo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207328,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-chicago-gran-belo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1224da079ef799234b2f67ae2d60077468336222d7327003fd160df64456e008/poltrona-do-papai-eletrica-chicago-gran-belo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1224da079ef799234b2f67ae2d60077468336222d7327003fd160df64456e008/poltrona-do-papai-eletrica-chicago-gran-belo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T19:46:04.097Z",
+      "verification_etag_or_digest": "1224da079ef799234b2f67ae2d60077468336222d7327003fd160df64456e008",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-eletrica-condor-ferguile.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-eletrica-condor-ferguile.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52026,
+      "sha256": "e6139c6a92824a23bf20410d8b793f3ab5b7ed9a15c6cbdcde073a9c2481975e",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-eletrica-condor-ferguile.webp",
+      "storage_filename": "poltrona-do-papai-eletrica-condor-ferguile.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+          "line": 238,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-condor-ferguile.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207472,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-condor-ferguile.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e6139c6a92824a23bf20410d8b793f3ab5b7ed9a15c6cbdcde073a9c2481975e/poltrona-do-papai-eletrica-condor-ferguile.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e6139c6a92824a23bf20410d8b793f3ab5b7ed9a15c6cbdcde073a9c2481975e/poltrona-do-papai-eletrica-condor-ferguile.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T19:46:04.097Z",
+      "verification_etag_or_digest": "e6139c6a92824a23bf20410d8b793f3ab5b7ed9a15c6cbdcde073a9c2481975e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-eletrica-matrix-porsche.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-eletrica-matrix-porsche.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14684,
+      "sha256": "5961d961e839d595de77110bcbf6776c14f026306ea16d38dc15baae8bc5234d",
+      "width": 800,
+      "height": 600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-eletrica-matrix-porsche.webp",
+      "storage_filename": "poltrona-do-papai-eletrica-matrix-porsche.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+          "line": 87,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-matrix-porsche.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207321,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-matrix-porsche.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5961d961e839d595de77110bcbf6776c14f026306ea16d38dc15baae8bc5234d/poltrona-do-papai-eletrica-matrix-porsche.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5961d961e839d595de77110bcbf6776c14f026306ea16d38dc15baae8bc5234d/poltrona-do-papai-eletrica-matrix-porsche.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T19:46:04.097Z",
+      "verification_etag_or_digest": "5961d961e839d595de77110bcbf6776c14f026306ea16d38dc15baae8bc5234d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84168,
+      "sha256": "a48e347f5d185a7c2a06d212f5bde0ac58de59da230b7661e529cdf5b74d6b52",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-eletrica-quanto-custa-capa.webp",
+      "storage_filename": "poltrona-do-papai-eletrica-quanto-custa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207257,
+          "column": 15,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a48e347f5d185a7c2a06d212f5bde0ac58de59da230b7661e529cdf5b74d6b52/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a48e347f5d185a7c2a06d212f5bde0ac58de59da230b7661e529cdf5b74d6b52/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T19:46:04.097Z",
+      "verification_etag_or_digest": "a48e347f5d185a7c2a06d212f5bde0ac58de59da230b7661e529cdf5b74d6b52",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-do-papai-imperial-zero-wall.webp",
       "local_url": "/images/reviews/damie/poltrona-do-papai-imperial-zero-wall.webp",
       "media_kind": "image",
