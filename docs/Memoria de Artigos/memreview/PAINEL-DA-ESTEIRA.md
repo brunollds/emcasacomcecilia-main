@@ -42,6 +42,7 @@
 
 ## 7. Publicados (`status: publicado`)
 - [x] [[gift-card-insider-como-funciona-cupom]]: Gift card da Insider: como funciona, aceita cupom e quando compensa? (só PT, id 888; I9; no ar em 09/11/2026, #785, com o envio corrigido no artigo de Natal) 🚀
+- [x] [[poltrona-do-papai-eletrica-quanto-custa]]: Poltrona do papai elétrica: quanto custa e qual compensa (só PT, id 887; PP2; no ar em 09/11/2026, release feeb8d88, com a PP1 reescrita) 🚀
 - [x] [[poltrona-do-papai-black-friday]]: Poltrona do papai na Black Friday (só PT, id 886; PP1; no ar em 09/11/2026, release 61539fb6) 🚀
 - [x] [[stylekorean-e-confiavel]]: StyleKorean é confiável? (10 idiomas, ids 876–885; SK2; no ar em 09/11/2026, release 3641d5f1; a SK1 ganhou a frase dos convites e o link no mesmo release) 🚀
 - [x] [[yesstyle-ou-stylekorean-qual-compensa]]: YesStyle ou StyleKorean: qual compensa pro seu bolso? (10 idiomas, ids 866–875; SK1; no ar em 09/11/2026, release eb7c7eeb; título e "carrinho" corrigidos no #771) 🚀

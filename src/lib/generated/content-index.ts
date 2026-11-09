@@ -164725,7 +164725,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio, com o cupom CECILIA10 de 10% OFF: medidas e litros da loja, a ligação entre P, M e G e a mala de mão das companhias.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-09",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-capa.webp",
@@ -164856,7 +164856,8 @@ export const reviewsData: unknown[] = [
         "heading": "Como ler as faixas de 10, 23 e 32 kg",
         "paragraphs": [
           "A mala de 10 kg é a de bordo pelo nome que a loja dá, mas a medida varia: a Cartagena P, por exemplo, passa dos 55 × 35 × 25 cm. As faixas de 23 kg e 32 kg são o nome das malas maiores, e a medida também muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
-          "Os litros acompanham a medida. Nos 23 kg, os modelos da tabela vão de 71 a 91 litros, e nos 32 kg, de 104 a 131. Litros são a capacidade que a loja declara, não um número de peças de roupa, porque isso depende de cada peça."
+          "Os litros acompanham a medida. Nos 23 kg, os modelos da tabela vão de 71 a 91 litros, e nos 32 kg, de 104 a 131. Litros são a capacidade que a loja declara, não um número de peças de roupa, porque isso depende de cada peça.",
+          "Para despachar, a companhia mede a mala, não a faixa: as regras da LATAM, da GOL e da Azul e quais malas de 23 kg e 32 kg cabem em cada uma estão no [guia da mala de 23 kg](/reviews/mala-23kg-medidas-latam-gol-azul)."
         ],
         "images": [
           {
@@ -208004,6 +208005,936 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
+      }
+    ]
+  },
+  {
+    "id": 889,
+    "slug": "presente-de-natal-para-pai-poltrona-do-papai",
+    "title": "Presente de Natal para pai: quando a poltrona do papai vale a pena",
+    "seoTitle": "Presente de Natal para pai: a poltrona do papai vale?",
+    "type": "Guia de Presente",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando uma poltrona faz sentido para o seu pai, qual modelo escolher e o que combinar sobre espaço, entrega e teste em casa, com as referências de prazo para o Natal.",
+    "metaDescription": "CECILIA12 dá 12% OFF na poltrona do papai da DAMIE. Vale como presente de Natal para pai? Prazo, medidas e o que conferir antes.",
+    "publishedAt": "9 de novembro de 2026",
+    "publishedAtISO": "2026-11-09",
+    "updatedAt": "2026-11-09",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+    "imageAlt": "Cecília Mauad sentada na poltrona reclinável DAMIE com a mão no botão de reclinar, ao lado da poltrona DAMIE 2.0 inteira em suede claro, com a faixa \"Presente de Natal para pai\"",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "bodyDatesReason": "prazo-entrega",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve se seu pai quer uma poltrona e tem um lugar para usá-la reclinada.",
+        "Leve o modelo cujo mecanismo ele consegue usar com facilidade.",
+        "Leve se o prazo confirmado permite organizar a entrega com antecedência."
+      ],
+      "skipIf": [
+        "Passe se você ainda não sabe se ele quer esse móvel em casa.",
+        "Passe se a poltrona não cabe no lugar ou não passa pelo caminho da entrega.",
+        "Passe se a compra depende de chegar no último dia possível para ser o presente de Natal."
+      ]
+    },
+    "cta": {
+      "text": "Escolha a poltrona do seu pai no site da DAMIE e aplique o CECILIA12 no carrinho. Os 12% valem em todas as formas de pagamento e somam com a promoção do momento.",
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=presente-de-natal-para-pai-poltrona-do-papai",
+      "sponsored": true
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "Recebemos poltronas DAMIE em parceria e podemos receber comissão pelo cupom e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "poltrona-do-papai-eletrica-quanto-custa"
+      },
+      {
+        "slug": "poltrona-do-papai-black-friday"
+      },
+      {
+        "slug": "presente-de-natal-para-casa-moveis"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A poltrona do papai vale como presente de Natal se seu pai quer uma, ela combina com a rotina dele e cabe na casa. Na DAMIE, o CECILIA12 dá 12% OFF e soma com as promoções. Antes de comprar, confira as medidas e o prazo para o CEP dele, e faça o pedido com duas a três semanas de folga."
+        ]
+      },
+      {
+        "heading": "Quando a poltrona faz sentido como presente",
+        "paragraphs": [
+          "Quem compra a poltrona não é quem vai sentar nela. Por isso, comece pelo que ele quer. Se seu pai gosta de ler ou ver TV na sala e já comentou que gostaria de uma poltrona, o presente tem um lugar na rotina dele. Vale descobrir qual modelo ele imagina e onde quer colocá-lo.",
+          "Uma poltrona muda a disposição da sala. Antes de decidir sozinho, converse com quem divide a casa com ele e confira se há espaço para usá-la reclinada."
+        ],
+        "image": {
+          "src": "/images/reviews/poltrona-levita-cecilia-lateral.webp",
+          "alt": "Cecília Mauad sentada na poltrona DAMIE Levita em couro caramelo, vista de lado, na sala de casa",
+          "caption": "A Levita em couro, aqui em casa.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7656,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+        },
+        "postParagraphs": [
+          "Recebi da DAMIE, em parceria, a 2.0 elétrica com giro e balanço em corino caramelo e a Levita em couro. Na 2.0, o motor é silencioso e a massagem virou minha parte favorita. Na Levita, o Bruno usa os ajustes separados de pés e encosto em sessões longas de videogame. O [relato de uso da DAMIE 2.0](/reviews/poltrona-damie-e-boa) mostra como ela funciona aqui em casa."
+        ]
+      },
+      {
+        "heading": "Escolha pelo jeito que ele vai usar",
+        "paragraphs": [
+          "Comece pelo movimento de que ele precisa e pelo que consegue usar com facilidade. Os preços da DAMIE no quadro já incluem a promoção da loja na data do quadro e os 12% do CECILIA12."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+            "alt": "Poltrona reclinável DAMIE 2.0 em suede bege, reclinada, com o apoio de pés aberto",
+            "caption": "A DAMIE 2.0 reclinada, em suede. Foto: DAMIE.",
+            "objectFit": "square",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+          },
+          {
+            "src": "/images/reviews/damie/poltrona-do-papai-eletrica-matrix-porsche.webp",
+            "alt": "Poltrona do papai elétrica Matrix Porsche em korano preto, reclinada, com o apoio de pés aberto",
+            "caption": "Matrix Porsche, em korano. Foto: anúncio na Magalu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3333
+          }
+        ],
+        "comparisonTable": {
+          "caption": "Preços no cartão, sem frete, lidos em 9 de novembro. Mudam sem aviso.",
+          "headers": [
+            "Para quem",
+            "Modelo",
+            "Preço no cartão",
+            "O que considerar"
+          ],
+          "rows": [
+            [
+              "Prefere um modelo sem motor e consegue reclinar manualmente",
+              "[DAMIE 2.0 manual](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
+              "R$ 2.612,72 com CECILIA12",
+              "Dispensa tomada, mas abrir e fechar exige força nas pernas e nos braços."
+            ],
+            [
+              "Quer reclinar no botão, sem acionar manualmente",
+              "[DAMIE 2.0 elétrica, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
+              "R$ 3.299,12 com CECILIA12",
+              "Reclina até 170°. Precisa de tomada acessível no lugar escolhido."
+            ],
+            [
+              "Procura ajuda para se levantar",
+              "[DAMIE 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
+              "R$ 4.372,72 com CECILIA12",
+              "A base inclina para a frente e reclina até 145°. Confira com ele a altura do assento e o uso dos comandos."
+            ],
+            [
+              "Quer uma elétrica com orçamento menor",
+              "[Matrix Porsche](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-moderna-matrix-porsche/p/235605600/mo/mpol/), em korano",
+              "R$ 2.374,90 na Magalu",
+              "Elétrica com controle remoto, pelo preço do anúncio. Garantia de 3 meses."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se ele tem dificuldade para se levantar, vale escolher com ele ou com quem o acompanha no dia a dia. A DAMIE indica a base com elevação para idosos; o [guia de poltrona reclinável para idosos](https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos) detalha essa opção. A garantia informada pela DAMIE é de um ano. A Matrix eu não testei: os dados são os do anúncio.",
+          "O CECILIA12 dá 12% OFF no site da DAMIE, vale em todas as formas de pagamento e soma com promoções, com os 10% do Pix e com o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15% e não vale no Mercado Livre. As condições estão na página do [cupom DAMIE](/cupons/damie).",
+          "Para ver mais modelos, consulte [quanto custa uma poltrona do papai elétrica e qual compensa](/reviews/poltrona-do-papai-eletrica-quanto-custa). O guia de [poltrona do papai na Black Friday](/reviews/poltrona-do-papai-black-friday) acompanha os preços, e o [guia da melhor poltrona para o seu pai](https://damie.emcasacomcecilia.com/guias/melhor-poltrona-para-o-seu-pai-dia-dos-pais) explica as diferenças entre as linhas da DAMIE."
+        ]
+      },
+      {
+        "heading": "Como conferir as medidas sem acabar com a surpresa",
+        "paragraphs": [
+          "Peça ajuda a quem mora com ele para medir o lugar e o caminho da entrega. Se quiser manter a surpresa, essa pessoa também pode descobrir qual cor ele prefere e se já tem um modelo em mente."
+        ],
+        "image": {
+          "src": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
+          "alt": "Desenho da poltrona DAMIE 2.0 com as medidas: 89 cm de largura, 106 cm de altura, 95 cm de profundidade e 174 cm reclinada",
+          "caption": "As medidas da DAMIE 2.0. Imagem: DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        },
+        "bullets": [
+          "**Espaço para abrir.** A DAMIE 2.0 tem 89 cm de largura, 106 cm de altura e 95 cm de profundidade, e chega a 174 cm reclinada. Meça o lugar nessa posição e reserve passagem para as pessoas.",
+          "**Portas e elevador.** Meça o percurso inteiro, inclusive as curvas do corredor. Para portas menores que 80 cm, a DAMIE orienta tirar a poltrona da caixa e passar o encosto e a base separados, em vãos a partir de 65 cm.",
+          "**Tomada.** Se o modelo escolhido é elétrico, procure um lugar com tomada acessível. A falta de tomada, sozinha, não é motivo para dar uma manual a quem não consegue acioná-la.",
+          "**Altura dele.** A DAMIE oferece encosto mais alto para pessoas acima de 1,85 m. É um opcional, que custava R$ 450 quando conferimos.",
+          "**Recebimento e montagem.** Em prédio, a entrega vai até o hall. Combine quem levará as peças até o apartamento e encaixará o encosto na base. A loja informa que a montagem é por encaixe, sem ferramentas."
+        ]
+      },
+      {
+        "heading": "Quando encomendar para o Natal",
+        "paragraphs": [
+          "Planeje a compra com duas a três semanas de antecedência e confira o prazo atualizado para o CEP do seu pai. Os prazos abaixo são os que a DAMIE mostrou para a 2.0 manual, elétrica fixa e com elevação. Para a Matrix ou outro anúncio, consulte a previsão do vendedor."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Estados",
+            "Prazo anunciado",
+            "Referência: pagamento confirmado até"
+          ],
+          "rows": [
+            [
+              "SP, PR, SC e RS",
+              "4 a 8 dias úteis",
+              "11 de dezembro"
+            ],
+            [
+              "RJ, MG, ES, DF, GO, MT e MS",
+              "5 a 10 dias úteis",
+              "9 de dezembro"
+            ],
+            [
+              "Norte e Nordeste",
+              "Pelo CEP, no Mercado Livre",
+              "Veja o prazo no anúncio"
+            ]
+          ],
+          "caption": "Conta nossa, com os prazos anunciados: referências para chegada até 23 de dezembro. Não são datas-limite divulgadas pela loja."
+        },
+        "postParagraphs": [
+          "As referências usam o prazo máximo anunciado, contado a partir do dia seguinte à confirmação do pagamento, e consideram que não há feriado no período. Comprar na data indicada deixa a entrega sem margem para atraso. Confirme a previsão do pedido com a loja antes de pagar.",
+          "No boleto, a confirmação pode levar até dois dias úteis. O logo bordado acrescenta sete dias ao prazo; se quiser personalizar, confirme a nova previsão e as condições de devolução antes de escolher esse opcional.",
+          "A DAMIE informa frete grátis no Sul e no Sudeste. No Centro-Oeste, confira o valor para o CEP. Norte e Nordeste são atendidos pelos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale."
+        ]
+      },
+      {
+        "heading": "Se ele não gostar: como funciona o teste em casa",
+        "paragraphs": [
+          "A loja informa: a página da poltrona dá 30 dias corridos para experimentar em casa, com coleta e devolução do valor pago. A [página do teste de 30 dias](https://www.damie.com.br/pages/teste-por-30-dias) exige a embalagem original preservada e todos os itens, sem sujeira, uso severo ou avaria por mau uso. Guarde a caixa, as proteções e a nota fiscal durante esse período.",
+          "Se a poltrona chegar cedo, considere dar o presente antes do Natal. Contando os 30 dias a partir da entrega, deixá-la guardada até a ceia reduz o tempo que seu pai terá para experimentar.",
+          "Antes de pagar, confirme com a DAMIE como o teste funciona quando quem compra é diferente de quem usa, inclusive nas compras em promoção e com cupom. Se a dúvida é a cor ou o modelo, convide seu pai para escolher com você."
+        ]
+      },
+      {
+        "heading": "Para pai e mãe ou com a ajuda dos irmãos",
+        "paragraphs": [
+          "Para presentear pai e mãe, descubra se os dois querem uma poltrona e meça o espaço para as duas abertas, com passagem livre. Na DAMIE, pergunte pelo WhatsApp se há desconto por quantidade na data. Em outubro, ele saía pelos consultores, sem aparecer no carrinho.",
+          "Se os irmãos vão dividir o presente, combinem o orçamento e quem ficará responsável pelo pedido e pela entrega. Essa pessoa deve guardar a nota fiscal; em caso de devolução, o reembolso segue a forma de pagamento usada na compra."
+        ],
+        "image": {
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
+          "alt": "Cecília sentada na poltrona reclinável bege com o filho Ian no colo",
+          "caption": "Com o Ian no colo, na reclinável 1.0 em linho bege.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5625
+        }
+      },
+      {
+        "heading": "Vale dar uma poltrona de presente?",
+        "paragraphs": [
+          "Eu daria a poltrona a um pai que já quer esse móvel e tem onde usá-lo. Se ele gosta da ideia, mas quer escolher o modelo ou a cor, faria essa parte com ele. É mais importante acertar no que ele vai usar do que manter toda a compra em segredo.",
+          "Se uma poltrona não combina com o que ele quer agora, estes guias ajudam a procurar outro presente:"
+        ],
+        "bullets": [
+          "[Presentes para quem treina](/reviews/presente-natal-quem-treina).",
+          "[Ideias para quem gosta de cozinhar](/reviews/presente-natal-quem-gosta-de-cozinhar).",
+          "[Bagaggio por faixa de preço](/reviews/presente-natal-bagaggio).",
+          "[Kits e gift card da Insider](/reviews/presente-de-natal-insider-kits-gift-card).",
+          "[Outros móveis para presentear a casa](/reviews/presente-de-natal-para-casa-moveis)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Poltrona do papai é um bom presente de Natal? Sim, quando ele quer esse móvel, vai usá-lo e tem espaço em casa. Se você ainda não sabe a preferência dele, vale descobrir antes de escolher o modelo.",
+          "Qual poltrona dar de presente para pai idoso? Se ele procura ajuda para se levantar, veja a base com elevação, que a DAMIE indica para idosos. Confira com ele a altura do assento e a facilidade de usar os comandos.",
+          "A poltrona chega antes do Natal? O prazo precisa ser confirmado para o pedido e o CEP da entrega. Compre com duas a três semanas de folga: as referências deste guia ajudam a planejar, mas não garantem a chegada.",
+          "E se meu pai não gostar da poltrona? A DAMIE anuncia um teste de 30 dias, com coleta e devolução do valor pago, desde que ela esteja na embalagem original. Antes de pagar, confirme com a loja se isso vale para quem ganhou de presente.",
+          "Tem cupom para poltrona do papai? O CECILIA12 dá 12% no site da DAMIE, vale em todas as formas de pagamento e soma com as promoções. Ele não vale no Mercado Livre; veja as condições na [página do cupom DAMIE](/cupons/damie)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 890,
+    "slug": "mala-23kg-medidas-latam-gol-azul",
+    "locale": "pt",
+    "title": "Mala de 23 kg: as medidas da LATAM, GOL e Azul e quais malas cabem",
+    "seoTitle": "Mala 23 kg: medidas da LATAM, GOL e Azul",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A LATAM e a Azul aceitam a mala de 23 kg com até 158 cm somando os três lados, e a GOL escreve 80 × 50 × 28 cm. Veja quais malas da Bagaggio cabem e quanto peso sobra.",
+    "metaDescription": "Mala de 23 kg na Bagaggio com o cupom CECILIA10 de 10% OFF: as medidas da LATAM, GOL e Azul e quais malas médias e grandes cabem em cada uma.",
+    "publishedAt": "9 de novembro de 2026",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa.webp",
+    "imageAlt": "Fileira com três malas médias da Bagaggio e a faixa Mala de 23 kg: medidas para despachar, LATAM, GOL e Azul, CECILIA10: 10% na Bagaggio",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na franquia de 23 kg, a mala e o conteúdo precisam ficar dentro desse peso. LATAM e Azul informam até 158 cm somando os lados; a GOL informa 80 × 50 × 28 cm. Na Bagaggio, as médias de até 28 cm de profundidade atendem às três, e o CECILIA10 dá 10% de desconto."
+        ]
+      },
+      {
+        "heading": "Medidas da mala de 23 kg em cada companhia",
+        "paragraphs": [
+          "Para despachar, confira duas coisas: o peso com tudo dentro e as medidas externas. A franquia de 23 kg não define o tamanho da mala nem garante que o despacho esteja incluído na passagem."
+        ],
+        "comparisonTable": {
+          "caption": "Limites publicados para a bagagem despachada de 23 kg",
+          "headers": [
+            "Companhia",
+            "Medida informada",
+            "Como conferir"
+          ],
+          "rows": [
+            [
+              "LATAM",
+              "Até 158 cm na soma de altura, largura e profundidade",
+              "Some as três medidas externas"
+            ],
+            [
+              "GOL",
+              "Até 80 cm de altura, 50 cm de largura e 28 cm de profundidade",
+              "Confira cada medida, não só a soma"
+            ],
+            [
+              "Azul",
+              "Até 158 cm na soma; 80 × 50 × 28 cm aparecem como referência",
+              "Confira a soma e as condições do seu voo"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As regras estão nas páginas oficiais da [LATAM](https://www.latamairlines.com/br/pt/central-ajuda/perguntas/bagagem/incluido/dimensoes-peso), da [GOL](https://www.voegol.com.br/informacoes/bagagem/bagagem-despachada) e da [Azul](https://www.voeazul.com.br/br/pt/sua-viagem/planeje/bagagens/despachada.html). Confira no bilhete quantas malas você pode despachar e se precisa comprar a bagagem à parte: na GOL, as tarifas Basic e Light vêm sem ela, e na Azul a MaisAzul inclui a primeira."
+        ]
+      },
+      {
+        "heading": "Por que uma mala com menos de 158 cm pode passar da regra da GOL",
+        "paragraphs": [
+          "A Detroit de 26 polegadas tem 70,5 × 44,5 × 29 cm. A soma dá 144 cm, dentro do limite da LATAM e da Azul, mas a profundidade passa 1 cm dos 28 cm publicados pela GOL.",
+          "As polegadas também não resolvem a escolha. A My Way de 26 polegadas tem 28 cm de profundidade, e a Detroit de 26 polegadas, 29 cm: duas malas anunciadas com o mesmo tamanho dão resultados diferentes na GOL.",
+          "Meça a mala fechada por fora, com rodas e alças fixas, porque a loja nem sempre diz se a medida inclui as rodas. Nas malas de tecido, bolsos cheios e volume extra aumentam a profundidade."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-26.webp",
+            "alt": "Mala média Detroit de 26 polegadas preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
+            "caption": "Detroit de 26 polegadas: cabe na soma e passa 1 cm da profundidade da GOL. Foto oficial da loja.",
+            "href": "https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-26--detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+            "objectFit": "contain",
+            "aspectRatio": 0.59
+          }
+        ]
+      },
+      {
+        "heading": "Quatro opções para quem alterna entre LATAM, GOL e Azul",
+        "paragraphs": [
+          "As quatro atendem aos limites das três companhias pelas medidas que a Bagaggio publica. Cada uma resolve uma prioridade: preço, peso da mala, uma média de 26 polegadas ou uma grande. Confirme as medidas externas da versão que vai comprar."
+        ],
+        "comparisonTable": {
+          "caption": "Preço no cartão, antes do CECILIA10, em 09/11",
+          "headers": [
+            "Mala",
+            "Medidas publicadas",
+            "Peso vazia",
+            "Preço antes do cupom"
+          ],
+          "rows": [
+            [
+              "[Detroit II Preta](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "66 × 41,5 × 26 cm (soma 133,5 cm)",
+              "3,22 kg",
+              "R$ 379,90"
+            ],
+            [
+              "[Edimburgo 23\" Preta](https://www.bagaggio.com.br/mala-media-23-kg-poliester-4-rodas-edimburgo-23--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "68 × 38,5 × 27,5 cm com rodas (soma 134 cm)",
+              "2,8 kg",
+              "R$ 549,90"
+            ],
+            [
+              "[My Way 26\" Preta](https://www.bagaggio.com.br/mala-de-viagem-media-23kg-abs-4-rodas-26-my-way-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "70,5 × 47,5 × 28 cm (soma 146 cm)",
+              "3,6 kg",
+              "R$ 499,90"
+            ],
+            [
+              "[Hong Kong G Preta](https://www.bagaggio.com.br/mala-de-viagem-grande-32-kg-polipropileno-4-rodas-hong-kong-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "73 × 47 × 28 cm (soma 148 cm)",
+              "3,99 kg",
+              "R$ 499,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Detroit II é a mais barata das quatro, e a Edimburgo de 23 polegadas, a mais leve. A My Way de 26 polegadas é a média de 26 polegadas desta seleção que fica nos 28 cm de profundidade.",
+          "A Hong Kong G é uma grande dentro dos limites publicados. Mesmo anunciada pela loja como mala de 32 kg, ela precisa ficar com até 23 kg no total se essa for a sua franquia."
+        ]
+      },
+      {
+        "heading": "Duas opções que atendem à soma, mas passam da profundidade da GOL",
+        "paragraphs": [
+          "Para quem voa de LATAM ou Azul, há modelos dentro da soma de 158 cm com mais de 28 cm de profundidade. Estes dois mostram por que a companhia entra na escolha."
+        ],
+        "comparisonTable": {
+          "caption": "Medidas e preços publicados pela loja, antes do CECILIA10",
+          "headers": [
+            "Mala",
+            "Medidas publicadas",
+            "Peso vazia",
+            "Preço antes do cupom"
+          ],
+          "rows": [
+            [
+              "[Detroit 26\" Preta](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-26--detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "70,5 × 44,5 × 29 cm (soma 144 cm)",
+              "3,74 kg",
+              "R$ 349,90"
+            ],
+            [
+              "[Edimburgo 25,5\" Preta](https://www.bagaggio.com.br/mala-media-de-23kg-poliester-4-rodas-25--edimburgo-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "75 × 42 × 32 cm com rodas (soma 149 cm)",
+              "3,2 kg",
+              "R$ 499,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para seguir os limites publicados pela GOL, prefira as opções do quadro anterior. Não conte com uma tolerância de balcão que a companhia não publica."
+        ]
+      },
+      {
+        "heading": "O peso da mala vazia já sai dos seus 23 kg",
+        "paragraphs": [
+          "Conta nossa: com a Edimburgo de 23 polegadas, de 2,8 kg, restam 20,2 kg para roupas e outros itens; com a My Way de 26 polegadas, de 3,6 kg, restam 19,4 kg. Uma mala maior dá mais espaço e, ao mesmo tempo, deixa menos peso para o conteúdo.",
+          "A Hong Kong média ficou fora da comparação de peso porque a página dela anuncia 1 kg, um número muito abaixo das outras de polipropileno. É outro modelo, diferente da Hong Kong G do quadro acima.",
+          "Se o material também pesa na escolha, o [guia de mala de policarbonato ou ABS](/reviews/mala-policarbonato-ou-abs-bagaggio) explica as diferenças. Para as faixas P, M e G da loja, veja o [guia de tamanho de mala](/reviews/tamanho-mala-bagaggio-p-m-g)."
+        ]
+      },
+      {
+        "heading": "Posso usar uma mala grande de 32 kg com franquia de 23 kg?",
+        "paragraphs": [
+          "Pode, desde que o peso total e as medidas atendam à regra do voo. O nome \"32 kg\" que a loja usa não aumenta a franquia da sua passagem.",
+          "Das 18 grandes com estoque, 11 somam até 158 cm e sete passam desse limite. Pelos três lados publicados pela GOL, só a Hong Kong G e a Zurique G atendem: uma grande pode caber na soma da LATAM e da Azul e passar da largura ou da profundidade da GOL.",
+          "A Cartagena G soma 162 cm e passa do padrão de 158 cm mesmo com menos de 23 kg dentro. Nesse caso, consulte a companhia antes de comprar, porque pode haver cobrança por dimensão."
+        ]
+      },
+      {
+        "heading": "Pese a mala pronta antes de sair de casa",
+        "paragraphs": [
+          "Uma balança de mão para bagagem confere o peso da mala pronta. Com a balança de banheiro, pese-se sozinho e depois segurando a mala: a diferença é o peso dela.",
+          "Regra prática, sem teste nosso: deixe uma margem abaixo dos 23 kg, porque a balança de casa e a do aeroporto podem marcar valores diferentes.",
+          "A loja informa: a Swiss One com balança embutida, média e grande, tem um mostrador na alça. A média soma 142 cm, mas tem 29,5 cm de profundidade, e a balança não muda a diferença com os 28 cm da GOL."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-swiss-one-balanca.webp",
+            "alt": "Mostrador de balança em quilos embutido na alça da mala Swiss One preta da Bagaggio, em foto oficial da loja",
+            "caption": "O mostrador da balança embutida na alça da Swiss One. Foto oficial da loja.",
+            "href": "https://www.bagaggio.com.br/mala-media-23-kg-com-balanca-embutida-polipropileno-4-rodas-swiss-one-onix-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "O que conferir além de tamanho e peso",
+        "paragraphs": [
+          "Antes da viagem, confirme a franquia contratada e as cobranças se a mala passar do peso ou da medida. Excesso de peso e excesso de dimensão são cobranças diferentes: chegar com a mala abaixo de 23 kg não elimina a cobrança pelo tamanho.",
+          "A [LATAM](https://www.latamairlines.com/br/pt/central-ajuda/perguntas/bagagem/incluido/dimensoes-peso) descreve o transporte com excesso mediante pagamento, com limites que dependem do itinerário. Consulte também as condições da [GOL](https://www.voegol.com.br/informacoes/bagagem/bagagem-despachada) e da [Azul](https://www.voeazul.com.br/br/pt/sua-viagem/planeje/bagagens/despachada.html) para o seu trajeto antes de contar com uma mala fora do padrão.",
+          "Na Azul, a página de bagagem despachada proíbe power bank e bateria de lítio solta no despacho e orienta levar objetos de valor na bagagem de mão. Confira a lista da companhia que opera o seu voo."
+        ]
+      },
+      {
+        "heading": "CECILIA10: desconto na compra da mala",
+        "paragraphs": [
+          "O CECILIA10 dá 10% no site oficial da Bagaggio e soma com os 5% do Pix, diz a [página do cupom Bagaggio](/cupons/bagaggio). Ele não acumula com outro cupom.",
+          "Nas ofertas de Black Friday, confira no carrinho se o código foi aceito antes de pagar. O [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio) reúne os preços da campanha."
+        ]
+      },
+      {
+        "heading": "Qual eu escolheria para despachar",
+        "paragraphs": [
+          "Para alternar entre as três companhias, eu começaria pelas quatro opções do primeiro quadro: a Detroit II se o preço for a prioridade, a Edimburgo de 23 polegadas para levar menos peso na própria mala e a My Way de 26 polegadas para uma média maior.",
+          "Para uma grande, ficaria com a Hong Kong G e pesaria a mala pronta para não passar da franquia. Vai levar mala na cabine? Veja o [guia da mala de bordo](/reviews/mala-de-bordo-bagaggio-qual-compensa). Pensando em comprar mais de uma? Veja se o [conjunto de malas compensa](/reviews/conjunto-de-malas-bagaggio-compensa)."
+        ],
+        "emphasis": "Escolha pela regra do voo e pelo que vai levar, não pelas letras M e G nem pelas polegadas."
+      },
+      {
+        "heading": "Consulta por modelo: médias e grandes da Bagaggio",
+        "paragraphs": [
+          "Se você já tem uma mala em mente, procure o modelo nos quadros abaixo, com as 21 médias e as 18 grandes com estoque. As medidas e os pesos são os que a loja publica, e os preços estão antes do CECILIA10."
+        ]
+      },
+      {
+        "heading": "Médias de até 3,22 kg dentro das medidas publicadas",
+        "comparisonTable": {
+          "caption": "Médias compatíveis pelas medidas publicadas: soma até 158 cm e lados até 80 × 50 × 28 cm",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia (o que sobra até 23 kg)",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Edimburgo 23\" Preta](https://www.bagaggio.com.br/mala-media-23-kg-poliester-4-rodas-edimburgo-23--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "68 × 38,5 × 27,5 cm com rodas (soma 134 cm)",
+              "2,8 kg (sobram 20,2 kg)",
+              "R$ 549,90"
+            ],
+            [
+              "[Verbier 23\" II Preta](https://www.bagaggio.com.br/mala-media-23-kg-poliester-4-rodas-verbier-23--ii-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "67,2 × 39 × 26,5 cm (soma 132,7 cm)",
+              "2,98 kg (sobram 20 kg)",
+              "R$ 649,90"
+            ],
+            [
+              "[Route Preta](https://www.bagaggio.com.br/mala-route-media-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "66 × 43 × 27 cm (soma 136 cm)",
+              "3,02 kg (sobram 20 kg)",
+              "R$ 449,90"
+            ],
+            [
+              "[Detroit II Preta](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "66 × 41,5 × 26 cm (soma 133,5 cm)",
+              "3,22 kg (sobram 19,8 kg)",
+              "R$ 379,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Médias de 3,3 a 3,48 kg dentro das medidas publicadas",
+        "comparisonTable": {
+          "caption": "Médias compatíveis pelas medidas publicadas: soma até 158 cm e lados até 80 × 50 × 28 cm",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia (o que sobra até 23 kg)",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[My Way 24\" Preta](https://www.bagaggio.com.br/mala-de-viagem-media-23kg-abs-4-rodas-24-my-way-off-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "66 × 44 × 27 cm (soma 137 cm)",
+              "3,3 kg (sobram 19,7 kg)",
+              "R$ 499,90"
+            ],
+            [
+              "[Zurique Preta](https://www.bagaggio.com.br/mala-media-23-kg-poliester-4-rodas-zurique-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "68 × 40,8 × 20,5 cm (soma 129,3 cm)",
+              "3,3 kg (sobram 19,7 kg)",
+              "R$ 999,90"
+            ],
+            [
+              "[Santiago Preta](https://www.bagaggio.com.br/mala-media-23kg-polipropileno-4-rodas-santiago-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "62,5 × 43 × 25,5 cm (soma 131 cm)",
+              "3,43 kg (sobram 19,6 kg)",
+              "R$ 479,90"
+            ],
+            [
+              "[Malta Preta](https://www.bagaggio.com.br/mala-media-23-kg--polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "67 × 45 × 25 cm (soma 137 cm)",
+              "3,48 kg (sobram 19,5 kg)",
+              "R$ 599,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Médias de 3,5 a 3,75 kg dentro das medidas publicadas",
+        "comparisonTable": {
+          "caption": "Médias compatíveis pelas medidas publicadas: soma até 158 cm e lados até 80 × 50 × 28 cm",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia (o que sobra até 23 kg)",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Cartagena Preta](https://www.bagaggio.com.br/mala-media-23kg-polipropileno-4-rodas-cartagena-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "67,5 × 46 × 27 cm (soma 140,5 cm)",
+              "3,5 kg (sobram 19,5 kg)",
+              "R$ 549,90"
+            ],
+            [
+              "[Monte Carlo 24\" Prata](https://www.bagaggio.com.br/mala-media-23-kg-policarbonato-4-rodas-24--monte-carlo-prata/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "67 × 45 × 25,5 cm (soma 137,5 cm)",
+              "3,55 kg (sobram 19,5 kg)",
+              "R$ 749,90"
+            ],
+            [
+              "[My Way 26\" Preta](https://www.bagaggio.com.br/mala-de-viagem-media-23kg-abs-4-rodas-26-my-way-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "70,5 × 47,5 × 28 cm (soma 146 cm)",
+              "3,6 kg (sobram 19,4 kg)",
+              "R$ 499,90"
+            ],
+            [
+              "[Seul Preta](https://www.bagaggio.com.br/mala-media-23-kg-polipropileno-4-rodas-seul-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "68,5 × 44,5 × 26,5 cm (soma 139,5 cm)",
+              "3,75 kg (sobram 19,3 kg)",
+              "R$ 649,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Outras médias dentro das medidas publicadas",
+        "comparisonTable": {
+          "caption": "Médias compatíveis pelas medidas publicadas: soma até 158 cm e lados até 80 × 50 × 28 cm",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia (o que sobra até 23 kg)",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Nova Bahamas Preta](https://www.bagaggio.com.br/mala-media-23-kg-policarbonato-4-rodas-nova-bahamas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "67 × 44 × 26 cm (soma 137 cm)",
+              "4,22 kg (sobram 18,8 kg)",
+              "R$ 1.099,90"
+            ],
+            [
+              "[Kyoto II Preta](https://www.bagaggio.com.br/mala-media-23-kg-de-policarbonato-4-rodas-kyoto-ii-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "66 × 44 × 28 cm (soma 138 cm)",
+              "4,32 kg (sobram 18,7 kg)",
+              "R$ 1.699,90"
+            ],
+            [
+              "[Hong Kong Preta](https://www.bagaggio.com.br/mala-media-23-kg-polipropileno-4-rodas-hong-kong-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "63 × 45,5 × 25,5 cm (soma 134 cm)",
+              "A página da loja diz 1 kg; confira",
+              "R$ 499,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Hong Kong média fica fora da conta do peso até a loja confirmar o 1 kg anunciado. Na Kyoto II, a página da loja lista as medidas em outra ordem (44 × 28 × 66 cm); confira a profundidade da versão escolhida."
+        ]
+      },
+      {
+        "heading": "Médias com profundidade de 28,5 a 29 cm",
+        "comparisonTable": {
+          "caption": "Soma dentro de 158 cm; profundidade acima dos 28 cm publicados pela GOL",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia (o que sobra até 23 kg)",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Swiss One Verbier 25,5\" II Preto](https://www.bagaggio.com.br/mala-media-23-kg-poliester-4-rodas-swiss-one-verbier-255--ii-preto/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "73,5 × 41,6 × 28,5 cm (soma 143,6 cm)",
+              "3,35 kg (sobram 19,7 kg)",
+              "R$ 699,90"
+            ],
+            [
+              "[Monte Carlo 26\" Prata](https://www.bagaggio.com.br/mala-media-23-kg-policarbonato-4-rodas-26--monte-carlo-prata/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "71,5 × 47 × 28,5 cm (soma 147 cm)",
+              "4,2 kg (sobram 18,8 kg)",
+              "R$ 729,90"
+            ],
+            [
+              "[Detroit 26\" Preta](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-26--detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "70,5 × 44,5 × 29 cm (soma 144 cm)",
+              "3,74 kg (sobram 19,3 kg)",
+              "R$ 349,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Médias com profundidade de 29,5 a 32 cm",
+        "comparisonTable": {
+          "caption": "Soma dentro de 158 cm; profundidade acima dos 28 cm publicados pela GOL",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia (o que sobra até 23 kg)",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Swiss One com balança embutida Preta](https://www.bagaggio.com.br/mala-media-23-kg-com-balanca-embutida-polipropileno-4-rodas-swiss-one-onix-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "67 × 45,5 × 29,5 cm (soma 142 cm)",
+              "3,94 kg (sobram 19,1 kg)",
+              "R$ 849,90"
+            ],
+            [
+              "[Edimburgo 25,5\" Preta](https://www.bagaggio.com.br/mala-media-de-23kg-poliester-4-rodas-25--edimburgo-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "75 × 42 × 32 cm com rodas (soma 149 cm)",
+              "3,2 kg (sobram 19,8 kg)",
+              "R$ 499,90"
+            ],
+            [
+              "[Swiss One Topázio Preta](https://www.bagaggio.com.br/mala-media-23-kg-polipropileno-4-rodas-swiss-one-topazio-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "72 × 48,5 × 32 cm (soma 152,5 cm)",
+              "4,22 kg (sobram 18,8 kg)",
+              "R$ 849,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Grandes dentro das medidas publicadas das três companhias",
+        "comparisonTable": {
+          "caption": "Grandes compatíveis pelas medidas publicadas das três companhias",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Hong Kong G Preta](https://www.bagaggio.com.br/mala-de-viagem-grande-32-kg-polipropileno-4-rodas-hong-kong-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "73 × 47 × 28 cm (soma 148 cm)",
+              "3,99 kg",
+              "R$ 499,90"
+            ],
+            [
+              "[Zurique G Verde](https://www.bagaggio.com.br/mala-grande-32-kg-poliester-4-rodas-zurique-verde/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "79,5 × 45,5 × 23,5 cm (soma 148,5 cm)",
+              "3,8 kg",
+              "R$ 1.099,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Grandes que somam de 150 a 152,5 cm",
+        "comparisonTable": {
+          "caption": "Soma até 158 cm; largura ou profundidade acima dos limites publicados pela GOL",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Bahamas G Branca](https://www.bagaggio.com.br/mala-de-viagem-grande-32-kg-policarbonato-4-rodas-bahamas-branca/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "71 × 44 × 35 cm (soma 150 cm)",
+              "5,45 kg",
+              "R$ 1.299,90"
+            ],
+            [
+              "[Nova Bahamas G Marrom](https://www.bagaggio.com.br/mala-grande-32-kg-policarbonato-4-rodas-nova-bahamas-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "71 × 44 × 35 cm (soma 150 cm)",
+              "4,82 kg",
+              "R$ 1.499,90"
+            ],
+            [
+              "[Santiago G Preta](https://www.bagaggio.com.br/mala-de-viagem-grande-32kg-polipropileno-4-rodas-santiago-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "72,5 × 49 × 30,5 cm (soma 152 cm)",
+              "4,13 kg",
+              "R$ 499,90"
+            ],
+            [
+              "[Detroit G Prata II](https://www.bagaggio.com.br/mala-grande-32-kg-abs-4-rodas-detroit-prata-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "76 × 47,5 × 29 cm (soma 152,5 cm)",
+              "4,23 kg",
+              "R$ 349,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Grandes que somam de 155 a 156 cm",
+        "comparisonTable": {
+          "caption": "Soma até 158 cm; largura ou profundidade acima dos limites publicados pela GOL",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Route G Azul](https://www.bagaggio.com.br/mala-de-viagem-grande-32kg-polipropileno-4-rodas-route-azul/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "76 × 49 × 30 cm (soma 155 cm)",
+              "3,8 kg",
+              "R$ 399,90"
+            ],
+            [
+              "[Turquia II G Champagne](https://www.bagaggio.com.br/mala-de-viagem-grande-32-kg-abs-4-rodas-turquia-ii-champagne-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "76,5 × 49 × 30 cm (soma 155,5 cm)",
+              "4,1 kg",
+              "R$ 399,90"
+            ],
+            [
+              "[My Way G Preta](https://www.bagaggio.com.br/mala-de-viagem-grande-32kg-abs-4-rodas-my-way-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "75 × 51 × 30 cm (soma 156 cm)",
+              "4 kg",
+              "R$ 549,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Grandes que somam exatamente 158 cm",
+        "comparisonTable": {
+          "caption": "Soma até 158 cm; largura ou profundidade acima dos limites publicados pela GOL",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Kyoto II G Preta](https://www.bagaggio.com.br/mala-grande-32-kg-de-policarbonato-4-rodas-kyoto-ii-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "76,5 × 50,5 × 31 cm (soma 158 cm)",
+              "5,35 kg",
+              "R$ 1.799,90"
+            ],
+            [
+              "[Malta G Preta](https://www.bagaggio.com.br/mala-de-viagem--grande-32-kg-polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "77 × 51 × 30 cm (soma 158 cm)",
+              "4,2 kg",
+              "R$ 499,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Grandes acima da soma, de 159 a 161 cm",
+        "comparisonTable": {
+          "caption": "Soma acima dos 158 cm informados pela LATAM e pela Azul",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Monte Carlo G Prata](https://www.bagaggio.com.br/mala-grande-32-kg-policarbonato-monte-carlo-prata/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "77 × 50,5 × 31,5 cm (soma 159 cm)",
+              "4,8 kg",
+              "R$ 699,90"
+            ],
+            [
+              "[Swiss One Verbier G Preta](https://www.bagaggio.com.br/mala-grande-poliester-4-rodas-swissone-verbie-preta-2/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "79,5 × 47 × 32,5 cm (soma 159 cm)",
+              "3,75 kg",
+              "R$ 749,90"
+            ],
+            [
+              "[Seul G Preta](https://www.bagaggio.com.br/mala-de-viagem-grande-32-kg-polipropileno-4-rodas-seul-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "78,5 × 51 × 30 cm (soma 159,5 cm)",
+              "4,7 kg",
+              "R$ 549,90"
+            ],
+            [
+              "[Kyoto Trunk Preta](https://www.bagaggio.com.br/mala-de-viagem-grande-ultra-ampla-policarbonato-kyoto-trunk-preta-1/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "79 × 41,5 × 40,5 cm (soma 161 cm)",
+              "5,8 kg",
+              "R$ 1.699,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Grandes acima da soma, de 162 a 162,5 cm",
+        "comparisonTable": {
+          "caption": "Soma acima dos 158 cm informados pela LATAM e pela Azul",
+          "headers": [
+            "Mala",
+            "Medida",
+            "Vazia",
+            "Preço antes do CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Cartagena G Preta](https://www.bagaggio.com.br/mala-de-viagem-grande-32kg-polipropileno-4-rodas-cartagena-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "77,5 × 52 × 32,5 cm (soma 162 cm)",
+              "4,48 kg",
+              "R$ 499,90"
+            ],
+            [
+              "[Edimburgo G Preta](https://www.bagaggio.com.br/mala-grande-32-kg-poliester-4-rodas-edimburgo-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "81 × 46,5 × 35 cm com rodas (soma 162,5 cm)",
+              "3,8 kg",
+              "R$ 499,90"
+            ],
+            [
+              "[Swiss One G com balança embutida Preta](https://www.bagaggio.com.br/mala-grande-32-kg-com-balanca-embutida-polipropileno-4-rodas-swiss-one-onix-preta-1/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "77,5 × 52 × 33 cm (soma 162,5 cm)",
+              "4,9 kg",
+              "R$ 899,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é a medida da mala de 23 kg? Na LATAM e na Azul, o limite informado é de 158 cm na soma dos lados. A GOL publica até 80 cm de altura, 50 cm de largura e 28 cm de profundidade.",
+          "A mala vazia conta nos 23 kg? Conta: o limite considera a mala e tudo o que está dentro. As médias da Bagaggio pesam de 2,8 a 4,3 kg vazias, então sobram de 18,7 a 20,2 kg.",
+          "Posso despachar uma mala de 32 kg com 23 kg? Pode, se o peso total e as medidas atenderem ao voo. A categoria anunciada pela loja não altera a franquia do bilhete.",
+          "O que acontece se a mala passar de 158 cm? Consulte as regras de excesso da companhia para o seu trajeto. Estar abaixo de 23 kg não dispensa uma possível cobrança por dimensão.",
+          "Tem cupom para mala Bagaggio? O CECILIA10 dá 10% e soma com os 5% do Pix. Na Black Friday, confira no carrinho se o código foi aplicado à oferta escolhida."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai despachar em LATAM, GOL ou Azul e quer uma média que caiba nas três regras: as 15 de até 28 cm de profundidade.",
+        "Voa só de LATAM ou Azul e quer mais espaço: as médias de 26 polegadas cabem na soma de 158 cm."
+      ],
+      "skipIf": [
+        "Voa de GOL e está de olho numa média com mais de 28 cm de profundidade, como a Edimburgo 25,5 polegadas ou a Swiss One Topázio.",
+        "Quer uma grande para despachar com 23 kg e ela soma mais de 158 cm, como a Cartagena G ou a Edimburgo G."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho. Confira o desconto no resumo antes de pagar.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Feito com as páginas das companhias e as páginas das malas no site da Bagaggio. Podemos receber comissão pelas compras com o CECILIA10. Ninguém da equipe pesou nem despachou as malas.",
+    "relatedArticles": [
+      {
+        "slug": "tamanho-mala-bagaggio-p-m-g"
+      },
+      {
+        "slug": "mala-de-bordo-bagaggio-qual-compensa"
+      },
+      {
+        "slug": "mala-policarbonato-ou-abs-bagaggio"
+      },
+      {
+        "slug": "black-friday-bagaggio"
       }
     ]
   }

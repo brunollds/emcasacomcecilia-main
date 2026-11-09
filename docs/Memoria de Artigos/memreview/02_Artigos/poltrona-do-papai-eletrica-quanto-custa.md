@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
 anexo_tipo: "nenhum"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy com GO do Bruno; reler preços e campanha se passar de 09/11"
+proxima_acao: "reler preços e brindes depois do Esquenta Black (27/11)"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 74
