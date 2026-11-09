@@ -2,6 +2,23 @@
 
 Briefing: [[yesstyle-ou-stylekorean-qual-compensa]]. Leitura no Chrome, sem login e sem carrinho. Em 08/11, a extensão do Chrome leu `yesstyle.com`, o que não acontecia em 21/10.
 
+## Decisão e leitura usada no artigo (noite de 08/11)
+
+Decisão do Bruno: comparação bruta, sem carrinho, com o CECILIA010 sobre o valor dos produtos. A tabela abaixo passa a ser o resultado do artigo, dita com a data e com o aviso de promoção. Isso substitui o "não é resultado" do título seguinte.
+
+- **Preços:** relidos no Chrome na mesma noite, iguais à tabela abaixo, com entrega nos EUA. Sem o EARLYBF26 nem cupom de loja.
+- **Volumes na StyleKorean:** os nomes da loja trazem 50 ml (Relief Sun), 250 ml (Anua) e 200 ml (Round Lab).
+- **Equivalência, conferida pelas listas de ingredientes (a StyleKorean as traz no dado da página, campo `allIngredients`):**
+  - Relief Sun: fica. O [FAQ da marca](https://jp.beautyofjoseon.com/products/relief-sun-rice-probiotics) diz que só o nome mudou, e a YesStyle diz que é a versão renovada, com a fórmula mantida.
+  - Round Lab: fica. Lista igual na StyleKorean, na YesStyle e no fabricante.
+  - COSRX e SKIN1004: ficam. Mesmos ingredientes nas duas lojas.
+  - Anua: sai. A StyleKorean e o fabricante trazem sete derivados de ácido hialurônico; a YesStyle não traz nenhum, embora diga que só a embalagem mudou.
+  - Isntree: sai. A StyleKorean começa por Sodium Hyaluronate e traz Soluble Collagen; a YesStyle começa por Water e Propanediol.
+- **Cesta maior final (COSRX, Relief Sun, SKIN1004, Round Lab):** StyleKorean US$ 63,50; YesStyle US$ 60,54, US$ 59,33 com 2% e US$ 57,51 com 5%.
+- **Torriden Dive-In:** não apareceu na busca das duas lojas. A reserva, o Isntree, também saiu, pelo motivo acima.
+- **Sacola da YesStyle sem conta (08/11), com o COSRX:** EUA a US$ 20,00, frete Padrão US$ 6,00, 7 a 11 dias úteis, faltando US$ 15,00 para o grátis (limite de US$ 35). Portugal a US$ 21,28, frete Padrão US$ 5,00, 10 a 15 dias úteis, faltando US$ 38,72 (limite de US$ 60), "IVA incluído no total" de US$ 4,91 e taxa de pequeno pacote da UE "US$ 0, coberto por nós".
+- **Reino Unido e Alemanha na YesStyle:** US$ 50 e US$ 45, frete de US$ 5, vêm dos artigos da família de entrega no ar. Reler antes de publicar: a tabela da loja só abre por país no navegador.
+
 ## Leitura de preço: não é resultado
 
 Preço anunciado na página do produto (dado estruturado da página, conferido em tela só por amostra), em US$, com os EUA como destino nas duas lojas. Na StyleKorean, os preços foram os mesmos com Brasil e com EUA selecionados. Todos os itens constavam em estoque.
@@ -67,3 +84,11 @@ Preço anunciado na página do produto (dado estruturado da página, conferido e
 ## Fontes
 
 [Frete](https://www.stylekorean.com/en/cs/shipping-delivery), [devolução](https://www.stylekorean.com/en/cs/refund) e [FAQ](https://www.stylekorean.com/en/faq) da StyleKorean; [Trustpilot StyleKorean](https://www.trustpilot.com/review/stylekorean.com), [Trustpilot YesStyle](https://www.trustpilot.com/review/www.yesstyle.com); [Т—Ж](https://t-j.ru/style-korean/); [StyleKorean Japan](https://stylekoreanjp.com/); [blog japonês](https://ameblo.jp/a---cosmetic/entry-12874201846.html). Busca por relato de entrega no Brasil em 08/11: nada específico.
+
+## Releitura antes de publicar (08/11, noite)
+
+- **Preços, com os EUA como destino nas duas lojas:** só o SKIN1004 mudou na YesStyle, de US$ 14,34 para US$ 15,00. StyleKorean sem mudança: 20,00, 14,00, 12,50 e 17,00; YesStyle: 20,00, 12,60, 15,00 e 13,60. Todos em estoque.
+- **Conta nova:** SKIN1004 com 5% 14,25 e com 2% 14,70. Cesta maior na YesStyle 61,20, com 5% 58,14 e com 2% 59,98, contra 63,50. Cesta pequena sem mudança. Vantagem de 3,6% (maior, sem código) a 8,9% (pequena, com 5%). Os limites de frete seguem valendo como escritos: a cesta maior passa de US$ 35 e de US$ 60, e a pequena fica abaixo dos dois.
+- **Trustpilot:** YesStyle 4,4 com 104.969 avaliações; StyleKorean 1,9 com 137.
+- **Frete da YesStyle (tabela hsi.732, vigente desde 30/10/2026, em US$, dados no HTML):** Reino Unido Premium Standard, grátis a partir de US$ 50, US$ 5 abaixo; Alemanha Standard, a partir de US$ 45, US$ 5; Portugal Standard, a partir de US$ 60, US$ 5; EUA Standard, a partir de US$ 35, US$ 6. O Brasil não está na tabela. A modalidade entrou na legenda da tabela de frete.
+- A oferta GAME26 da semana não entra na conta, como os outros cupons da loja.

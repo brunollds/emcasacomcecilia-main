@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Lojas"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-publicar"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2) pode avançar com os totais pendentes; publicar só com as cestas relidas e o carrinho"
+proxima_acao: "deploy só com GO do Bruno; reler preços, notas e frete se o deploy passar de alguns dias; depois, o resumo com link em yesstyle-ou-stylevana"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 78
@@ -20,7 +20,7 @@ translationKey: "yesstyle-vs-stylekorean"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "nao-aplicavel"
+status_i18n: "paridade-completa"
 affiliate: "yesstyle"
 coupon: "CECILIA010"
 ---
@@ -28,6 +28,8 @@ coupon: "CECILIA010"
 # Briefing de Pauta: YesStyle ou StyleKorean, qual compensa no seu país?
 
 SK1 da série YesStyle × StyleKorean. GO do Bruno em 08/11/2026. Substitui a decisão de 21/10 ("só reforço na família `yesstyle-vs-alternatives`"), porque a StyleKorean negou a afiliação e a frente agora é conquistar quem considera comprar nela. Dados e leituras em [[yesstyle-ou-stylekorean-qual-compensa-fatos-0811]]. Estratégia externa conferida em `docs/ESTRATEGIA-YESSTYLE-STYLEKOREAN-2026-11-08.md`, no checkout principal, fora do git.
+
+> **Decisão do Bruno (08/11/2026), que prevalece sobre o resto desta nota:** a comparação é bruta, de preços anunciados, sem carrinho. Aplica-se a porcentagem do CECILIA010 (5% e 2%) sobre o valor dos produtos, e isso vale para os 10 idiomas, com a mesma tabela. Saem o teste de carrinho (seção 8), a conta por destino (seções 5 e 6, item 4) e o cupom público da YesStyle na conta. Frete, imposto e devolução seguem como capítulos de política, sem total. O título perde "no seu país".
 
 ## 1. Portões
 
@@ -129,3 +131,20 @@ Quando a Black Friday começar, a oferta das lojas muda o resultado. Publicar an
 | Cluster | 10 | 9 | Abre a série e liga às famílias da YesStyle |
 | Viabilidade | 10 | 4 | Preço muda, carrinho depende do Bruno, relê sempre |
 | **Total** | 100 | **76** | |
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 09/11/2026)
+
+Folha aprovada em 09/11/2026, com a bandeira da Coreia do Sul acrescentada ao lado de "StyleKorean" a pedido do Bruno. Upload FTPS, verificação HTTPS e mapa de entrega em 09/11/2026. Fotos oficiais das páginas de produto da YesStyle; bandeira em vetor, desenhada no gerador de capas. Sem produto nem foto da StyleKorean. O quadro do Trustpilot ficou como tabela de texto, sem imagem, porque repetiria a tabela em 10 idiomas. Na capa, nenhuma foto repete outra capa da YesStyle (conferidas as 11).
+
+- **Capa:** `/images/reviews/yesstyle/yesstyle-ou-stylekorean-capa.webp` (1600×900, `imageFit: "contain"`). Alt: "Produtos de skincare coreano da YesStyle com o código CECILIA010 e o título YesStyle vs StyleKorean". Faixa: logo da YesStyle, "YesStyle vs StyleKorean", bandeira e o CECILIA010 no recorte. Serve às 10 versões.
+- **Compare estas duas cestas:** quatro fotos quadradas (640×640, `square`), com `href` para a página do produto e legenda "Um dos produtos da cesta maior, na YesStyle.":
+  - `cosrx-advanced-snail-96-essence-yesstyle.webp` (pid 1052684695). Alt: "Essência COSRX Advanced Snail 96 Mucin Power, 100 ml".
+  - `beauty-of-joseon-relief-sun-yesstyle.webp` (pid 1137908658). Alt: "Protetor solar Relief Sun da Beauty of Joseon, 50 ml".
+  - `skin1004-madagascar-centella-ampoule-yesstyle.webp` (pid 1067114916). Alt: "Ampola Madagascar Centella da SKIN1004, 100 ml".
+  - `round-lab-1025-dokdo-toner-yesstyle.webp` (pid 1074112897). Alt: "Tônico 1025 Dokdo da Round Lab, 200 ml".
+
+## Job 4 e releitura (09/11/2026)
+
+JSON em PT escrito pela sessão a partir do rascunho aprovado pelo Farol (R03). As 9 traduções saíram pelo Sonnet e foram relidas, cada uma, por outro agente, ao lado do PT, em 09/11/2026. Correções da releitura: en 7, es 4, fr 10, de 18, it 13, ko 12, ja 8, zh-hant 6, zh-hans 7, a maioria de tradução literal e, em es e fr, a frase de frete e encargos que tinha caído da resposta rápida. A sessão conferiu por script todas as células numéricas contra o PT.
+
+Fora do PT, o capítulo "E no Brasil?" virou "E em outros países?" (mesma posição, sem Brasil), com link para o guia de entrega do idioma. Trocado por "consulta de preços" o termo "leitura" nas versões em que soava literal. Os links dos produtos são as páginas públicas da YesStyle, sem parâmetro de rastreio; o link de afiliado segue no CTA e no passo a passo. Na releitura de preços, o SKIN1004 subiu na YesStyle e a conta mudou: ver os fatos.

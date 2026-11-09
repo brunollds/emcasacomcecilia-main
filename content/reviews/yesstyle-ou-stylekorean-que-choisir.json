@@ -1,0 +1,383 @@
+{
+  "id": 869,
+  "slug": "yesstyle-ou-stylekorean-que-choisir",
+  "locale": "fr",
+  "translationKey": "yesstyle-vs-stylekorean",
+  "title": "YesStyle ou StyleKorean : laquelle choisir ? Deux sélections avec les mêmes produits",
+  "seoTitle": "YesStyle ou StyleKorean : laquelle choisir ? Prix et livraison",
+  "type": "Comparatif de boutiques",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "La note Trustpilot, le code CECILIA010 et deux sélections avec les mêmes produits, plus livraison, taxes et retours, pour choisir où acheter des soins coréens.",
+  "metaDescription": "Le code récompense CECILIA010 donne jusqu'à 5 % de plus chez YesStyle. YesStyle ou StyleKorean : note, deux sélections, livraison, retours.",
+  "publishedAt": "9 novembre 2026",
+  "publishedAtISO": "2026-11-09",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-ou-stylekorean-capa.webp",
+  "imageAlt": "Produits de soins coréens de YesStyle avec le code CECILIA010 et le titre YesStyle vs StyleKorean",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "YesStyle d'abord, si elle livre chez vous : Trustpilot 4,4 (104 969 avis) contre 1,9 (137), et des produits moins chers dans les deux sélections, d'après les prix relevés pour les États-Unis. CECILIA010 ajoute jusqu'à 5 %. Livraison et taxes non comptées. Hors des destinations des tableaux, vérifiez au paiement si elle livre chez vous et quels frais s'appliquent."
+      ]
+    },
+    {
+      "heading": "Note Trustpilot et code récompense",
+      "paragraphs": [
+        "Avant le prix, regardez qui se trouve de l'autre côté de la commande. Entre les deux boutiques, l'écart de réputation est grand."
+      ],
+      "comparisonTable": {
+        "caption": "Profils Trustpilot au 8 novembre.",
+        "headers": [
+          "Boutique",
+          "Note Trustpilot",
+          "Avis"
+        ],
+        "rows": [
+          [
+            "YesStyle",
+            "4,4",
+            "104 969"
+          ],
+          [
+            "StyleKorean",
+            "1,9",
+            "137"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Les notes décrivent des avis publiés sur Trustpilot et ne mesurent pas combien de commandes se passent mal. Les deux profils sont mondiaux et ont des volumes d'avis très différents, et les plaintes de livraison et de suivi de YesStyle sont dans [YesStyle sur Trustpilot](/fr/reviews/yesstyle-avis-trustpilot). L'écart pèse quand même, même si un produit revient moins cher chez StyleKorean.",
+        "CECILIA010 entre dans une autre colonne du calcul. C'est le code récompense de Cecília, valable seulement chez YesStyle : il se saisit dans le champ Reward Code du paiement, avec 5 % de plus sur le premier achat et 2 % sur les suivants, et il se cumule avec les coupons éligibles de la boutique. Les prix suivent, avec le prix affiché séparé du prix obtenu avec le code."
+      ]
+    },
+    {
+      "heading": "Avant d'acheter sur StyleKorean, comparez ces deux sélections",
+      "paragraphs": [
+        "Avec la livraison aux États-Unis sélectionnée, les produits des deux sélections coûtaient moins cher chez YesStyle, avant et après la remise calculée de CECILIA010. L'avantage va de 3,6 % sur la plus grande sélection, sans le code, à 8,9 % sur la petite, avec les 5 % du premier achat. Nous avons défini les sélections avant de comparer les prix, avec des produits connus vendus dans les deux boutiques."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+          "alt": "COSRX Advanced Snail 96 Mucin Power Essence, 100 ml",
+          "caption": "Un des produits de la plus grande sélection, chez YesStyle.",
+          "objectFit": "square",
+          "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+        },
+        {
+          "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+          "alt": "Crème solaire Relief Sun de Beauty of Joseon, 50 ml",
+          "caption": "Un des produits de la plus grande sélection, chez YesStyle.",
+          "objectFit": "square",
+          "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+        },
+        {
+          "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+          "alt": "Ampoule Madagascar Centella de SKIN1004, 100 ml",
+          "caption": "Un des produits de la plus grande sélection, chez YesStyle.",
+          "objectFit": "square",
+          "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+        },
+        {
+          "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+          "alt": "Tonique 1025 Dokdo de Round Lab, 200 ml",
+          "caption": "Un des produits de la plus grande sélection, chez YesStyle.",
+          "objectFit": "square",
+          "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+        }
+      ],
+      "comparisonTable": {
+        "caption": "Prix affichés en US$, livraison aux États-Unis sélectionnée, au 8 novembre 2026. Livraison, frais et coupons de la boutique sont hors du calcul. Des produits étaient en promotion dans les deux boutiques ; le SKIN1004 était en offre limitée chez StyleKorean.",
+        "headers": [
+          "Produit",
+          "StyleKorean",
+          "YesStyle",
+          "YesStyle : calcul avec 5 %",
+          "YesStyle : calcul avec 2 %"
+        ],
+        "rows": [
+          [
+            "[COSRX Advanced Snail 96 Mucin Power Essence 100 ml](https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695)",
+            "US$ 20,00",
+            "US$ 20,00",
+            "US$ 19,00",
+            "US$ 19,60"
+          ],
+          [
+            "[Beauty of Joseon Relief Sun 50 ml](https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658)",
+            "US$ 14,00",
+            "US$ 12,60",
+            "US$ 11,97",
+            "US$ 12,35"
+          ],
+          [
+            "**Petite sélection (les 2 ci-dessus)**",
+            "**US$ 34,00**",
+            "**US$ 32,60**",
+            "**US$ 30,97**",
+            "**US$ 31,95**"
+          ],
+          [
+            "[SKIN1004 Madagascar Centella Ampoule 100 ml](https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916)",
+            "US$ 12,50",
+            "US$ 15,00",
+            "US$ 14,25",
+            "US$ 14,70"
+          ],
+          [
+            "[Round Lab 1025 Dokdo Toner 200 ml](https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897)",
+            "US$ 17,00",
+            "US$ 13,60",
+            "US$ 12,92",
+            "US$ 13,33"
+          ],
+          [
+            "**Grande sélection (les 4)**",
+            "**US$ 63,50**",
+            "**US$ 61,20**",
+            "**US$ 58,14**",
+            "**US$ 59,98**"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Notre calcul : nous avons appliqué 5 % ou 2 % aux prix affichés de YesStyle et arrondi chaque valeur au centime. Sur les lignes de sélection, le calcul part de la somme des prix sans le code. La remise n'a pas été testée dans le panier ; vérifiez le montant dans le récapitulatif de la commande.",
+        "Les promotions changent vite, relisez donc les prix avant d'acheter. Chez YesStyle, le prix change aussi selon la destination : le COSRX, affiché à US$ 20,00 aux États-Unis, apparaît à US$ 21,28 pour le Portugal.",
+        "Les noms changent d'une boutique à l'autre, nous avons donc vérifié les ingrédients publiés. Beauty of Joseon indique que le Relief Sun a changé de nom, de Rice + Probiotics à Rice + Niacinamide, sans changement de formule, d'ingrédients ni de volume. Anua et Isntree sont restés hors du calcul, car les listes d'ingrédients publiées par les deux boutiques ne correspondent pas.",
+        "StyleKorean offre des coupons aux nouveaux clients et à la montée de niveau, via le portefeuille du compte. Ils sont hors du tableau, car ils dépendent de votre compte, et la comparaison vaut donc pour qui n'a pas ces coupons. Les coupons du moment de YesStyle sont dans [coupons et code récompense YesStyle](/fr/coupons/yesstyle) et restent aussi hors du calcul."
+      ]
+    },
+    {
+      "heading": "Livraison gratuite : le seuil de YesStyle est plus bas",
+      "paragraphs": [
+        "D'après les seuils du tableau ci-dessous, YesStyle offre la livraison gratuite dès une commande plus petite. Avec les prix pour les États-Unis, la petite sélection reste sous les deux seuils, et la grande les dépasse tous les deux. La livraison n'est pas ajoutée à la comparaison."
+      ],
+      "comparisonTable": {
+        "caption": "Livraison des deux boutiques dans les quatre destinations, d'après les pages et les paniers consultés. Chez YesStyle, le mode est Standard ; au Royaume-Uni, Premium Standard.",
+        "headers": [
+          "Pays",
+          "YesStyle : gratuite à partir de",
+          "YesStyle : frais en dessous",
+          "StyleKorean : gratuite à partir de",
+          "StyleKorean : frais en dessous"
+        ],
+        "rows": [
+          [
+            "Portugal",
+            "US$ 60",
+            "US$ 5",
+            "US$ 80",
+            "calculés selon le poids"
+          ],
+          [
+            "États-Unis",
+            "US$ 35",
+            "US$ 6",
+            "US$ 60",
+            "calculés selon le poids"
+          ],
+          [
+            "Royaume-Uni",
+            "US$ 50",
+            "US$ 5",
+            "US$ 80",
+            "calculés selon le poids"
+          ],
+          [
+            "Allemagne",
+            "US$ 45",
+            "US$ 5",
+            "US$ 80",
+            "calculés selon le poids"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Chez StyleKorean, la livraison gratuite ne vaut que pour les produits de beauté, et sa page de livraison limite la commande à US$ 500, livraison non comprise ; au-delà, elle recommande de passer deux commandes. Comparez les frais de livraison au prix d'un produit de plus : atteindre le seuil ne vaut la peine que si l'article ajouté vous sert aussi. Avec le code, le total baisse, vérifiez donc dans le récapitulatif si le panier reste au-dessus du seuil."
+      ],
+      "links": [
+        {
+          "label": "Page de livraison de StyleKorean, en anglais",
+          "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+        }
+      ]
+    },
+    {
+      "heading": "Taxes : qui les perçoit au paiement et qui à la livraison",
+      "paragraphs": [
+        "Les taxes changent selon la boutique et la destination. Dans les destinations européennes ci-dessous, YesStyle inclut déjà la TVA dans le prix des produits, et la livraison paie aussi la TVA au paiement."
+      ],
+      "comparisonTable": {
+        "caption": "Taxes dans les deux boutiques, d'après les pages d'aide de chacune.",
+        "headers": [
+          "Pays",
+          "YesStyle",
+          "StyleKorean"
+        ],
+        "rows": [
+          [
+            "Portugal",
+            "TVA de 23 % déjà dans le prix ; la livraison paie aussi la TVA",
+            "hors prix ; peut être facturée avant la livraison, à votre charge"
+          ],
+          [
+            "États-Unis",
+            "Taxe sur les ventes et frais d'importation et de traitement au paiement ; ces derniers sont appliqués avant les coupons et les remises.",
+            "droits de douane calculés au paiement, sans frais supplémentaires à la livraison"
+          ],
+          [
+            "Royaume-Uni",
+            "TVA de 20 % déjà dans le prix ; la livraison paie aussi la TVA",
+            "hors prix ; peut être facturée avant la livraison, à votre charge"
+          ],
+          [
+            "Allemagne",
+            "TVA de 19 % déjà dans le prix ; la livraison paie aussi la TVA",
+            "hors prix ; peut être facturée avant la livraison, à votre charge"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Dans l'Union européenne, la taxe de 3 € par catégorie douanière, sur les colis de moins de 150 €, est distincte de la TVA. YesStyle indique qu'elle règle actuellement cette taxe à la place du client pour les commandes éligibles.",
+        "YesStyle publie un remboursement en crédit des frais de douane éligibles, pour une commande de moins de US$ 1 000, avant le coupon et hors livraison. Le justificatif doit arriver sous 30 jours après le paiement, et les taxes déjà perçues au paiement sont exclues. Ce crédit ne sert que pour un achat futur : si un montant est facturé à la livraison, il s'ajoute à ce que vous avez payé. Chez StyleKorean, la page de livraison laisse les frais au client, sauf aux États-Unis et au Canada, où ils sont intégrés au paiement.",
+        "Les deux boutiques excluent remboursement et réexpédition quand le colis est refusé pour une raison douanière, comme une taxe impayée ou un document non envoyé. Vérifiez les frais avant de payer : le refus ne fonctionne pas comme un retour."
+      ]
+    },
+    {
+      "heading": "Retours : ce qui change, c'est ce qui vous revient",
+      "paragraphs": [
+        "Un produit ouvert n'est repris pour changement d'avis dans aucune des deux, et les deux excluent le retour pour allergie ou réaction cutanée. Défaut et article erroné suivent une autre voie. La différence est dans le remboursement et la livraison."
+      ],
+      "comparisonTable": {
+        "caption": "Retours dans les deux boutiques, d'après les politiques publiées.",
+        "headers": [
+          "",
+          "YesStyle",
+          "StyleKorean"
+        ],
+        "rows": [
+          [
+            "Délai pour demander",
+            "14 jours après réception ; envoi sous 30 jours après l'autorisation",
+            "14 jours ouvrés après réception"
+          ],
+          [
+            "Comment l'argent revient",
+            "crédit boutique par défaut ; moyen de paiement, si vous le demandez",
+            "vous choisissez : des points, valables pendant 6 mois, ou le moyen de paiement"
+          ],
+          [
+            "Livraison, si vous changez d'avis",
+            "le retour est à votre charge ; la livraison et la remise du coupon ne sont pas remboursées",
+            "le retour est à votre charge, et la livraison de l'envoi est déduite du remboursement"
+          ],
+          [
+            "Livraison, si défaut ou article erroné",
+            "le retour est remboursé en crédit, par Air Mail ou Registered Mail",
+            "remboursement selon le degré du dommage, avec photos et facture ; la boutique ne réexpédie pas"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Attention au piège de StyleKorean : quand le retour est à votre demande, sa politique déduit la livraison même si elle était gratuite à l'achat, et, si le compte devient négatif, vous payez la différence. Chez YesStyle, demandez le moyen de paiement en soumettant le retour, sinon le remboursement sort en crédit. Les deux remboursent sur le moyen de paiement ; la procédure diffère."
+      ],
+      "links": [
+        {
+          "label": "Politique de remboursement de StyleKorean, en anglais",
+          "href": "https://www.stylekorean.com/en/cs/refund"
+        }
+      ]
+    },
+    {
+      "heading": "Si vous vouliez StyleKorean, ce qui change",
+      "paragraphs": [
+        "Vous cherchez un produit précis ? Regardez-le dans les deux boutiques avant de décider, car la moyenne de la sélection ne vaut pas pour chaque article. Le SKIN1004 était moins cher chez StyleKorean, même avec les 5 % du code chez YesStyle, et le COSRX sortait au même prix avant le code.",
+        "StyleKorean expédie tout depuis la Corée et laisse choisir entre points et moyen de paiement au remboursement ; YesStyle rembourse aussi sur le moyen de paiement, si vous le demandez. En changeant, vous gagnez la note la plus haute, CECILIA010 et, dans ces quatre pays, la livraison gratuite qui commence plus bas. Si StyleKorean revient nettement moins cher sur le produit voulu, livraison et frais compris, le calcul change, et c'est à vous de juger du poids de la note."
+      ]
+    },
+    {
+      "heading": "Et dans les autres pays ?",
+      "paragraphs": [
+        "Les tableaux couvrent le Portugal, les États-Unis, le Royaume-Uni et l'Allemagne. Ailleurs, la livraison passe avant le prix : vérifiez que le paiement accepte votre adresse, combien coûte la livraison et si les taxes sont incluses ou peuvent être perçues plus tard.",
+        "Les règles de YesStyle par pays sont dans [notre guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
+      ]
+    },
+    {
+      "heading": "Comment utiliser CECILIA010 dans le calcul",
+      "paragraphs": [
+        "StyleKorean n'a pas de code de notre part. Chez YesStyle, il suffit de suivre l'ordre :"
+      ],
+      "bullets": [
+        "Remplissez votre panier via le [lien YesStyle](https://ystyle.co/rQYQv).",
+        "Passez au paiement et vérifiez l'adresse de livraison.",
+        "Saisissez CECILIA010 dans le champ Reward Code, distinct du champ coupon.",
+        "Vérifiez la remise dans le récapitulatif avant de payer."
+      ]
+    },
+    {
+      "heading": "Laquelle choisir",
+      "paragraphs": [
+        "En cas de doute, commencez par YesStyle là où elle livre : la note Trustpilot est plus haute et, d'après les prix relevés pour les États-Unis, les produits des deux sélections sont sortis moins chers. CECILIA010 ajoute la remise calculée de 5 % sur le premier achat ou 2 % sur les suivants. StyleKorean se justifie quand le produit voulu y coûte moins, comme le SKIN1004 dans ce relevé, et que l'économie compense la livraison, les frais et l'écart de note pour vous."
+      ],
+      "emphasis": "En cas de doute, commencez par YesStyle là où elle livre : sa note Trustpilot est plus haute et ses prix sont plus bas sur les produits des deux sélections, d'après les prix relevés pour les États-Unis. Avant de payer, vérifiez le total avec livraison et frais. La note est un signe de réputation, pas une garantie de commande."
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Y a-t-il un code StyleKorean ici ? Non. CECILIA010 est réservé à YesStyle et ne fonctionne pas chez StyleKorean.",
+        "StyleKorean appartient-elle à YesStyle ? Non. StyleKorean appartient à Silicon2, en Corée ; YesStyle appartient à YesAsia, à Hong Kong.",
+        "Livraison dans mon pays ? Le Portugal, les États-Unis, le Royaume-Uni et l'Allemagne figurent dans les tableaux de cet article ; pour les autres destinations, consultez le [guide de livraison de la boutique en français](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+        "Quelle est la limite de commande chez StyleKorean ? US$ 500, livraison non comprise. Le chapitre sur la livraison gratuite indique ce que la boutique recommande pour les commandes plus grandes.",
+        "Laquelle est la plus fiable ? D'après la note, YesStyle est bien devant, mais la note est un signe de réputation et non une garantie."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "YesStyle livre à votre adresse et vous accordez du poids à la réputation sur Trustpilot.",
+      "Vous trouvez chez YesStyle les produits que vous cherchez, et le total avec livraison, frais et CECILIA010 en vaut la peine pour votre adresse."
+    ],
+    "skipIf": [
+      "YesStyle ne livre pas à votre adresse.",
+      "Une autre boutique propose le même produit pour un total que vous jugez plus avantageux, livraison et frais compris."
+    ]
+  },
+  "cta": {
+    "text": "Vérifiez les frais de livraison pour votre adresse au paiement et collez CECILIA010 dans le champ Reward Code",
+    "label": "Aller sur YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "Comparaison de prix affichés, avec remise calculée et sans test des sélections au paiement. Nous pouvons recevoir une commission de YesStyle ; pas de StyleKorean.",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-ou-stylevana-que-choisir"
+    },
+    {
+      "slug": "yesstyle-ou-olive-young-que-choisir"
+    },
+    {
+      "slug": "yesstyle-avis-trustpilot"
+    },
+    {
+      "slug": "code-recompense-yesstyle-cecilia010"
+    }
+  ],
+  "updatedAt": "2026-11-09"
+}
