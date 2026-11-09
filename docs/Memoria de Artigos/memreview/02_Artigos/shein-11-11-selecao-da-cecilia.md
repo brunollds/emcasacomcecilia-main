@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Guia & Cupons"
 status: "publicado"
 responsavel: "-"
-proxima_acao: "tirar da vitrine ou marcar encerrada depois de 12/11/2026"
+proxima_acao: "tirar da vitrine ou marcar encerrada depois de 12/11/2026; o japonês só depois de 16/11, 12:00"
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
 pauta: "Campanha 11.11 da SHEIN com os links de criador do Bruno (28/10/2026)"
@@ -64,3 +64,9 @@ A SHEIN está na "Mega Promoção 11.11" ("até 85% off em mais de 600 mil produ
 
 ## Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
 - O 4CW5Y é código de indicação da SHEIN: não é cupom de checkout, não soma e nunca vai ao checkout. Pelo link do botão, ou copiado e pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos. Dá desconto, sim; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem prometer desconto em toda compra, nunca "pode não ter desconto" nem "só no app". Vale nos 10 idiomas, sem aviso de país.
+
+## Atualização de 08/11/2026 (decisão do Bruno)
+- **PT:** preços das 19 peças pela leitura de 08/11 ([[shein-black-friday-preco-baixa-mesmo-fatos-0811]]), "até 90% em mais de 800 mil" no lugar de "até 85% em 600 mil". O maior desconto passa ao kit de short de linho (-48%), e saíram o short como o mais barato e o maior desconto, o kit de relógio por menos de R$ 30 e o desconto pequeno do óculos.
+- **Japonês:** a campanha local vai até 16/11, 12:00, com até 95% em mais de 800 mil itens de 09/11, 12:00, em diante ([comunicado da SHEIN no PR TIMES, 19/10/2026](https://prtimes.jp/main/html/rd/p/000000293.000084888.html)). O título leva 16/11.
+- **Revisão externa (Farol, 08/11, `docs/auditoria-copy-artigos/shein-11-11-20261108-farol/`):** a leitura das peças é de `br.shein.com`, e o 12/11 e o "até 90%" são da campanha lida aqui. Por isso, nas 9 traduções, sem o percentual de cada peça, com a nota da loja na coluna do quadro. Nas 8 fora o japonês, sem data de fim nem "até 90%": a pessoa confere a campanha que aparece na loja dela. Peças, links, fotos, cards e 4CW5Y seguem iguais.
+- A linha antiga "preços convertidos pela cotação de 28/10" já não valia: as traduções não mostram preço em moeda nenhuma, e não há cotação a atualizar.
