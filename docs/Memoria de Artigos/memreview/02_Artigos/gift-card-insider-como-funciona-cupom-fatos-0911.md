@@ -39,7 +39,7 @@ Briefing: [[gift-card-insider-como-funciona-cupom]]. Sem login e sem compra.
 | **6.6 Encerramento** | A Insider pode encerrar o produto sem aviso; com saldo vigente, "poderá gerar cupons no valor residual", a critério dela |
 
 - **Limite, lido junto com a página:** uma compra por CPF a cada 24 horas (termos), com até 5 cartões (página). Leitura do Bruno, 09/11.
-- **Envio, divergência:** os termos preveem destinatário e agendamento; a página do produto e a tela de 09/11 mostram envio ao e-mail de quem compra, sem campo de destinatário nem data. A divergência fica dita até alguém ver o checkout.
+- **Envio:** os termos preveem destinatário e agendamento, mas o checkout de 09/11 (Bruno) só traz a caixa "Estou ciente de que meu pedido inclui um Gift Card Virtual, que será enviado por e-mail após a confirmação do pagamento", sem campo de destinatário nem data. Vale o checkout: o cartão vai ao e-mail de quem compra.
 - **Pagamento parcial:** os termos falam em pedido pago "integral ou parcialmente" com o saldo, o que indica que o saldo pode pagar parte. Não testado.
 - **Não tratado nos termos:** Pix no restante do pedido e preço de promoção (Black Friday) no pedido pago com o saldo.
 
@@ -65,8 +65,8 @@ O cupom EMCASACOMCECILIA entrou na compra de um gift card de R$ 900: o total sai
 
 `https://creators.insiderstore.com.br/C9yDnLB` (Bruno, 09/11), no lugar do `SXnbEB8` de 05/11.
 
-## A conferir (Bruno, opcional, carrinho, sem comprar)
+## Respostas do Bruno (09/11)
 
-1. Desconto do Pix na parte do pedido paga fora do saldo.
-2. Preço da Black Friday no pedido pago com o saldo.
-3. Campo de destinatário ou data no checkout do cartão.
+- **Black Friday:** o preço da promoção vale no pedido pago com o saldo; o cupom não.
+- **Checkout do cartão:** só a caixa de ciência do envio por e-mail, citada acima.
+- **Pix no restante:** "deve ser checado no carrinho". Sem teste: o texto manda o leitor conferir, sem afirmar.
