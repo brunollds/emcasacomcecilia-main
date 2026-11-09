@@ -19,7 +19,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
 | PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | No ar em 09/11 (release 61539fb6). Atualizar com a leitura de 27/11 |
 | PP2 | Poltrona do papai elétrica: quanto custa e qual compensa (decisão do Bruno, 09/11) | DAMIE | PT | [[poltrona-do-papai-eletrica-quanto-custa]] | No ar em 09/11 (release feeb8d88) |
-| PP3 | Presente de Natal para pai: a poltrona do papai vale? (decisão do Bruno, 09/11; publicar a partir de 28/11) | DAMIE | PT | [[presente-de-natal-para-pai-poltrona-do-papai]] | Redação pronta em 09/11, aguarda deploy com GO do Bruno. Publicando depois de 27/11, reler preço, brindes, frete e prazo (briefing, seção 9) |
+| PP3 | Presente de Natal para pai: a poltrona do papai vale? (decisão do Bruno, 09/11) | DAMIE | PT | [[presente-de-natal-para-pai-poltrona-do-papai]] | No ar em 09/11 (release 04452e78), antes da data prevista. Releituras em 28/11 e no começo de dezembro (seção de revisões) |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -182,6 +182,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | 12/11, 20/11, 27/11 e 30/11 | SB1: ler o preço das 19 peças, do mesmo jeito, e preencher os fatos. A do dia 12 fecha a 11.11 e não se recupera depois |
 | Até cerca de 20/11 e 27/11 | PP1: reler o preço das poltronas antes de publicar e de novo na Black Friday, do mesmo jeito, e preencher os fatos |
 | 28/11 | PP2 (`poltrona-do-papai-eletrica-quanto-custa`): a Esquenta Black vence em 27/11. Reler o configurador e tirar "na campanha, massagem por vibração e USB" das linhas da DAMIE, ou dizer o que passou a valer |
+| 28/11 e começo de dezembro | PP3 (`presente-de-natal-para-pai-poltrona-do-papai`): saiu em 09/11 com os preços e os brindes da Esquenta Black, que vence em 27/11. Em 28/11, reler preço, brindes, frete e prazo. No começo de dezembro, antes das referências de 9 e 11/12, reler o prazo de novo |
 | 13/11 e na abertura da campanha | `shein-black-friday` (10 idiomas): "hoje está no 11.11" envelhece. Reler as lojas e atualizar as datas |
 | 05/11 | Autobronzeador Skelt: reler os preços |
 | Até 21/11 | Skelt: refazer o teste do cupom, porque a regra vence em 21/11 |

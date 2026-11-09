@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presente"
 anexo_tipo: "nenhum"
-status: "aguardando-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy com GO do Bruno; a partir de 28/11, reler preço, brindes, frete e prazo antes de publicar"
+proxima_acao: "em 28/11, reler preço, brindes, frete e prazo; no começo de dezembro, reler o prazo de novo"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 73
