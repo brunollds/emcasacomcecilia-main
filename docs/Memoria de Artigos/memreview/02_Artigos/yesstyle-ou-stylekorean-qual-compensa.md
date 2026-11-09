@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Lojas"
 anexo_tipo: "nenhum"
-status: "pronto-para-publicar"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy só com GO do Bruno (R04 sem impedimento editorial); reler preços se passar de alguns dias; depois, o resumo com link em yesstyle-ou-stylevana"
+proxima_acao: "resumo com link em yesstyle-ou-stylevana (10 idiomas, PR próprio); reler preços e notas na Black Friday"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 78
@@ -21,6 +21,7 @@ modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
 status_i18n: "paridade-completa"
+publicado_em: "2026-11-09"
 affiliate: "yesstyle"
 coupon: "CECILIA010"
 ---
