@@ -41,6 +41,7 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[poltrona-do-papai-black-friday]]: Poltrona do papai na Black Friday (só PT, id 886; PP1; no ar em 09/11/2026, release 61539fb6) 🚀
 - [x] [[stylekorean-e-confiavel]]: StyleKorean é confiável? (10 idiomas, ids 876–885; SK2; no ar em 09/11/2026, release 3641d5f1; a SK1 ganhou a frase dos convites e o link no mesmo release) 🚀
 - [x] [[yesstyle-ou-stylekorean-qual-compensa]]: YesStyle ou StyleKorean: qual compensa pro seu bolso? (10 idiomas, ids 866–875; SK1; no ar em 09/11/2026, release eb7c7eeb; título e "carrinho" corrigidos no #771) 🚀
 - [x] [[hostinger-renovacao-cupom-sonar20]]: Renovação Hostinger: preço, cupom SONAR20 e reembolso antes de pagar (10 idiomas, ids 814–823; BG1; na main em 04/11/2026, PR #579; no ar em 05/11/2026, conferido) 🚀
