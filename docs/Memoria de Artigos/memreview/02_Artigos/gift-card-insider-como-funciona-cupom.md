@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-publicar"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2)"
+proxima_acao: "deploy com GO do Bruno; depois, tirar a I9 da Fila"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 78
@@ -91,12 +91,24 @@ I9 da Fila, escolhida pelo Bruno em 09/11/2026. Título e escopo ajustados com a
 | Cartão | Uma seção, entre kits, sacola e troca | O artigo inteiro: regras, cupom, conta |
 | Época | Novembro e dezembro | O ano todo (Dia dos Pais, aniversário, uso próprio) |
 
+
+## Redação e revisão (09/11/2026)
+
+JSON em `content/reviews/gift-card-insider-como-funciona-cupom.json` (id 888). O Job 3 rodou com três revisores (fatos, checklist e leitor cético), e outro agente conferiu cada achado. Mudou: a frase de que o cupom e o código do cartão usam o mesmo campo saiu (a fonte era só o print do teste do cupom), o Pix nas peças ficou "pode somar, conforme as condições da loja", o 6.6 voltou a "encerrar o produto" e "valor do saldo restante", e a desistência ganhou "contados do recebimento". Ficaram como o Bruno confirmou: o limite (uma compra, até 5 cartões) e o saldo pagando parte do pedido. A troca de íntimos só por defeito vem da política de trocas lida para o artigo de Natal.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 09/11/2026)
+
+O Bruno escolheu a opção B entre três. Upload FTPS, verificação HTTPS e mapa de entrega em 09/11/2026.
+
+- **Capa:** `/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp` (1600×900, `imageFit: "contain"`). Fileira com três fotos oficiais da Insider (o Gift Card Virtual, a Tech T-Shirt verde e o Kit Presente Básico Masculino) e a faixa "Cupom da Cecília na compra do gift card", com o EMCASACOMCECILIA e 15% OFF. Alt: "Gift card virtual da Insider, Tech T-Shirt verde e kit com duas camisetas pretas e uma cueca, com a faixa do cupom EMCASACOMCECILIA de 15% OFF na compra do gift card".
+- **Corpo, "Como usar o saldo do gift card":** `/images/reviews/insider/insider-passo-3-digite-cupom.webp` (print nosso do teste do cupom, já no CDN). Legenda: "O campo Cupom de desconto ou Gift Card no checkout, no nosso teste do cupom."
+
 ## 8. O que falta
 
 | Quem | O quê |
 |---|---|
 | **Ninguém antes da redação** | O Pix na parte paga fora do saldo fica sem resposta: o texto manda o leitor conferir no carrinho |
-| **Artigos** | Redação, JSON, capa (Job 6), Job 3 e PR. No artigo de Natal: tirar o "Quero enviar como presente" e pôr o link para cá (Fila, seção 4) |
+| **Bruno** | GO do deploy |
 
 Respondido em 09/11. Pelos termos: onde entra o código (no carrinho), o limite (uma compra por CPF a cada 24 horas, até 5 cartões), o pagamento parcial com o saldo (previsto) e a regra do cupom (nem em parte do pedido). Pelo Bruno: o preço da Black Friday vale com o saldo, e o checkout só traz a caixa de ciência do envio por e-mail.
 

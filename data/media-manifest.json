@@ -72945,6 +72945,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp",
+      "local_url": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43338,
+      "sha256": "44bd4f3c20a209da52939b59d0ca66b411146d33cb098ea7fe389b112fbeecd0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gift-card-insider-como-funciona-cupom-capa.webp",
+      "storage_filename": "gift-card-insider-como-funciona-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gift-card-insider-como-funciona-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gift-card-insider-como-funciona-cupom.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207310,
+          "column": 15,
+          "literal": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/44bd4f3c20a209da52939b59d0ca66b411146d33cb098ea7fe389b112fbeecd0/gift-card-insider-como-funciona-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/44bd4f3c20a209da52939b59d0ca66b411146d33cb098ea7fe389b112fbeecd0/gift-card-insider-como-funciona-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T19:46:26.930Z",
+      "verification_etag_or_digest": "44bd4f3c20a209da52939b59d0ca66b411146d33cb098ea7fe389b112fbeecd0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-como-medir-camiseta.webp",
       "local_url": "/images/reviews/insider/insider-como-medir-camiseta.webp",
       "media_kind": "image",
