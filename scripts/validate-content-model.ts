@@ -545,8 +545,22 @@ for (const review of reviews) {
     });
   }
 
+  // Sem número, o JSON-LD sai como Review sem itemReviewed nem reviewRating, e o Search Console acusa.
+  const rating: unknown = review.rating;
+  if (rating !== undefined && rating !== null && typeof rating !== 'number') {
+    reportError({ type: 'review', id: review.id, slug: review.slug, message: 'rating deve ser número' });
+  }
+
   const kind = inferReviewKind(review);
   if (kind === 'produto') {
+    if (typeof rating !== 'number' && typeof review.verdict?.stars !== 'number') {
+      reportError({
+        type: 'review',
+        id: review.id,
+        slug: review.slug,
+        message: 'review de produto sem nota: precisa de rating ou verdict.stars em número, ou o Review sai sem itemReviewed',
+      });
+    }
     if (!review.verdict || typeof review.verdict.stars !== 'number') {
       reportWarning({
         type: 'review',

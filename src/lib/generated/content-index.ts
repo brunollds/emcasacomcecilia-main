@@ -41624,11 +41624,7 @@ export const reviewsData: unknown[] = [
         "value": "Dolce Gusto Original; cápsulas NEO selecionadas só com o Adaptador NEO Start (água quente)"
       }
     ],
-    "rating": {
-      "score": 4.5,
-      "max": 5,
-      "stars": 4.5
-    },
+    "rating": 4.5,
     "verdict": {
       "title": "Veredito do Bruno",
       "summary": "A Dolce Gusto Mini Me 2.0 na cor Terracota se destaca pelo design moderno e pelos controles superiores que substituem a alavanca da Mini Me clássica. O modo Eco desliga a máquina em 1 minuto. Na unidade 127V testada, atente-se ao plugue de 20A, ao aquecimento inicial de 20-30s e ao pingamento prolongado após o preparo."
