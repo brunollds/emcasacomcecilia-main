@@ -199,7 +199,7 @@ o `npm run test:build-output` falha se isso aparecer numa das páginas da YesSty
 O código de recompensa e os cupons promocionais têm ciclos diferentes. **Os cupons da YesStyle
 trocam a cada 3 dias, mais ou menos** (FINDS26, MIDS26, 1010VIBES, FALL26, COOL26, SIMPLE26 e
 BASIC26VIP só em outubro de 2026), então não cabem na rotina mensal: o cupom novo aparece na faixa
-roxa do topo de yesstyle.com, e a troca entra no JSON no dia em que o anterior vence, antes das 21h
+roxa do topo de yesstyle.com, e a troca entra no JSON no dia em que o anterior vence, antes das 23h
 de Brasília (ver abaixo). Por isso os títulos e descrições das 10 páginas falam dos "cupons ativos"
 sem citar código nem mês; o mês e o código ficam só na lista, que sai do JSON. O CECILIA010 segue a
 rotina mensal: os percentuais (5% na primeira compra e 2% nas seguintes) estão na página
@@ -260,8 +260,8 @@ faixa fora de ordem e cupom ativo sem `startsAt` e `expiresAt`, e exige exatamen
 recompensa ativo.
 
 Depois do prazo, uma promoção não pode continuar `active`, e o validador para a build quando
-isso acontece. A YesStyle conta o prazo no horário GMT, e o validador compara com a data em UTC:
-no dia do `expiresAt`, a build passa a falhar às 21h de Brasília. O reward code permanente não
+isso acontece. A YesStyle conta o prazo no horário GMT e, desde o WITCH15, vira às 02:00 GMT. O validador segue essa
+virada (`yesStyleToday`): no dia do `expiresAt`, a build passa a falhar às 23h de Brasília. O reward code permanente não
 deve herdar a data de uma promoção curta só para aparentar nova verificação; o helper usa a
 maior data das ofertas ativas, portanto o status incorreto também contamina metadata e sitemap
 dos hubs YesStyle.
