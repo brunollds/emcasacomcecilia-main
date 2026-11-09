@@ -1,5 +1,5 @@
 ---
-titulo_provisorio: "YesStyle ou StyleKorean: qual compensa no seu país? Duas cestas com os mesmos produtos"
+titulo_provisorio: "YesStyle ou StyleKorean: qual compensa pro seu bolso? Comparação direta"
 seo_title: "YesStyle ou StyleKorean: qual compensa no seu país?"
 slug_sugerido: "yesstyle-ou-stylekorean"
 parceiro: "[[YesStyle]]"
@@ -149,3 +149,7 @@ Folha aprovada em 09/11/2026, com a bandeira da Coreia do Sul acrescentada ao la
 JSON em PT escrito pela sessão a partir do rascunho aprovado pelo Farol (R03). As 9 traduções saíram pelo Sonnet e foram relidas, cada uma, por outro agente, ao lado do PT, em 09/11/2026. Correções da releitura: en 7, es 4, fr 10, de 18, it 13, ko 12, ja 8, zh-hant 6, zh-hans 7, a maioria de tradução literal e, em es e fr, a frase de frete e encargos que tinha caído da resposta rápida. A sessão conferiu por script todas as células numéricas contra o PT.
 
 Fora do PT, o capítulo "E no Brasil?" virou "E em outros países?" (mesma posição, sem Brasil), com link para o guia de entrega do idioma. Trocado por "consulta de preços" o termo "leitura" nas versões em que soava literal. Os links dos produtos são as páginas públicas da YesStyle, sem parâmetro de rastreio; o link de afiliado segue no CTA e no passo a passo. Na releitura de preços, o SKIN1004 subiu na YesStyle e a conta mudou: ver os fatos.
+
+## Correções do Bruno depois do ar (09/11/2026)
+
+Título: "qual compensa pro seu bolso? Comparação direta". Resposta rápida abre com "Vá de YesStyle se não quer arriscar", sem a frase de preço. Saiu "Mesmo assim, a diferença pesa, ainda que um produto saia mais barato na StyleKorean". "Cesta" virou "carrinho" no artigo todo, e "releia" virou "confira", nos 10 idiomas. O texto segue dizendo que nada foi testado no checkout.
