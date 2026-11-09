@@ -68,6 +68,8 @@ Leitura de 09/11, pelos links que o Bruno converteu. Vendedor: "Damie Poltronas"
 - **Códigos:** o CECILIA12 é do site e não vale no Mercado Livre. Os códigos da Magalu não valem nos anúncios vendidos pela Poltronas Damie.
 - **Catálogo na Magazine Você:** [busca da DAMIE](https://www.magazinevoce.com.br/magazineemcasacomcecilia/busca/poltrona+do+papai+damie/). Link de produto da Magalu vira afiliado ao trocar o começo do endereço por `https://www.magazinevoce.com.br/magazineemcasacomcecilia/` e manter o resto (Bruno, 09/11; os dois links da tabela abriram a ficha com o mesmo preço).
 
+- **Fichas da Magalu (09/11):** dizem reclinar 165° (160° na elevação) e, nas elétricas de base fixa, "NÃO tem massageador", diferente do site (170° e 145°). **Decisão do Bruno, 09/11:** pelo nome, é a mesma poltrona do site, e vale a ficha oficial do site. O Pix da Florença em suede estava em R$ 3.561,55, os 5% da tabela.
+
 ## Outras marcas
 
 **Decisão do Bruno (09/11):** as peças da Amazon, da Magalu e do Mercado Livre entram com o link de afiliado e com a foto, porque aqui são alternativas ao leitor e geram comissão. Sem cupom de terceiros. MadeiraMadeira e Moveleiro não geram comissão: seguem sem link e sem foto. Não comparar com a DAMIE: cada peça é comparada com ela mesma.

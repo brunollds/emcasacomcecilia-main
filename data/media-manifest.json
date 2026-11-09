@@ -52345,6 +52345,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-armenia-gran-belo.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-armenia-gran-belo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70642,
+      "sha256": "dcedb16a7dbfece17d35dbd0fe4f843f825c11946bc92b0c7d4b8f2be8ff0fa2",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-armenia-gran-belo.webp",
+      "storage_filename": "poltrona-do-papai-armenia-gran-belo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-black-friday.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-black-friday.json",
+          "line": 373,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-do-papai-armenia-gran-belo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207188,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-do-papai-armenia-gran-belo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dcedb16a7dbfece17d35dbd0fe4f843f825c11946bc92b0c7d4b8f2be8ff0fa2/poltrona-do-papai-armenia-gran-belo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dcedb16a7dbfece17d35dbd0fe4f843f825c11946bc92b0c7d4b8f2be8ff0fa2/poltrona-do-papai-armenia-gran-belo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T18:05:33.391Z",
+      "verification_etag_or_digest": "dcedb16a7dbfece17d35dbd0fe4f843f825c11946bc92b0c7d4b8f2be8ff0fa2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-black-friday-capa.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-black-friday-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76436,
+      "sha256": "cc26857239bb48035508d1453eaa0c99d3fb9e21f9d1867212b08458581f4652",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-black-friday-capa.webp",
+      "storage_filename": "poltrona-do-papai-black-friday-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-black-friday.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-black-friday.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-do-papai-black-friday-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 206839,
+          "column": 15,
+          "literal": "/images/reviews/damie/poltrona-do-papai-black-friday-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cc26857239bb48035508d1453eaa0c99d3fb9e21f9d1867212b08458581f4652/poltrona-do-papai-black-friday-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cc26857239bb48035508d1453eaa0c99d3fb9e21f9d1867212b08458581f4652/poltrona-do-papai-black-friday-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T18:05:33.391Z",
+      "verification_etag_or_digest": "cc26857239bb48035508d1453eaa0c99d3fb9e21f9d1867212b08458581f4652",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-imperial-zero-wall.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-imperial-zero-wall.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33072,
+      "sha256": "0dd8775e72e3a93d150e1fcba139facf8936165dd85ee15e21c7b451c00b752b",
+      "width": 1000,
+      "height": 873,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-imperial-zero-wall.webp",
+      "storage_filename": "poltrona-do-papai-imperial-zero-wall.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-black-friday.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-black-friday.json",
+          "line": 366,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-do-papai-imperial-zero-wall.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207181,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-do-papai-imperial-zero-wall.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0dd8775e72e3a93d150e1fcba139facf8936165dd85ee15e21c7b451c00b752b/poltrona-do-papai-imperial-zero-wall.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0dd8775e72e3a93d150e1fcba139facf8936165dd85ee15e21c7b451c00b752b/poltrona-do-papai-imperial-zero-wall.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T18:05:33.391Z",
+      "verification_etag_or_digest": "0dd8775e72e3a93d150e1fcba139facf8936165dd85ee15e21c7b451c00b752b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-matrix-caravelli.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-matrix-caravelli.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23812,
+      "sha256": "20a2f351f8683cb27f258422398d8533a211e84518a8880916adfad3341d3914",
+      "width": 1000,
+      "height": 750,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-matrix-caravelli.webp",
+      "storage_filename": "poltrona-do-papai-matrix-caravelli.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-black-friday.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-black-friday.json",
+          "line": 359,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-do-papai-matrix-caravelli.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 207174,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-do-papai-matrix-caravelli.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/20a2f351f8683cb27f258422398d8533a211e84518a8880916adfad3341d3914/poltrona-do-papai-matrix-caravelli.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/20a2f351f8683cb27f258422398d8533a211e84518a8880916adfad3341d3914/poltrona-do-papai-matrix-caravelli.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T18:05:33.391Z",
+      "verification_etag_or_digest": "20a2f351f8683cb27f258422398d8533a211e84518a8880916adfad3341d3914",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-levita-capa-discover.webp",
       "local_url": "/images/reviews/damie/poltrona-levita-capa-discover.webp",
       "media_kind": "image",

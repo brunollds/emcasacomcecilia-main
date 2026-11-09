@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Black Friday"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2)"
+proxima_acao: "deploy com GO do Bruno; leitura de 27/11 e atualização do artigo"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 76
@@ -103,3 +103,42 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 ## 8. Pontuação
 
 Dor 19/25, demanda 13/20, valor além do oficial 18/20, visita 11/15, cluster 9/10, conversão 8/10. Total 78.
+
+## 9. Redação (09/11/2026)
+
+JSON em `content/reviews/poltrona-do-papai-black-friday.json` (id 886), fora do PR até a revisão externa do Bruno no ChatGPT. Decisões da redação:
+
+- **Sem capítulo de método** (REGRAS, seção 7, vale sobre o esqueleto): a frase útil abre o capítulo da tabela.
+- **Coluna "Semana da Black Friday":** entra em 27/11, com o dado. Até lá, o texto diz que a leitura da data ainda vem.
+- **Gran Belo:** 4 das 7 peças (Toronto, Austin Lift, Austin, Armênia), uma em cada faixa. Fora: Austin USB, Lift 150° e a Boston.
+- **Quadro entre lojas mantido (Bruno, 09/11):** o anúncio da DAMIE vale, pelo nome, como a mesma poltrona do site, e segue-se a ficha oficial do site. A diferença de características nos marketplaces não é nossa para corrigir. Parecer externo em `docs/auditoria-copy-artigos/pp1-20261109-farol/`: aceitas as propostas 02, 03, 04, 05 e 07 e parte da 01; fora a 06 (o Pix de 5% foi conferido) e a 08 (o quadro ficou).
+- **Foto de outra marca sem `href`:** o selo do site diria "Ver na DAMIE" num link da Magalu ou da Amazon. O link fica na tabela.
+- **Drossi sem foto:** o Mercado Livre pede login e o link de afiliado não se abre.
+
+### Plano de imagens
+
+| Seção | Imagem | Origem |
+|---|---|---|
+| Capa | Cecília com o Ian, 1.0 em suede e Aurora, com a faixa | Foto própria e fotos oficiais da DAMIE; `covers:render` |
+| Preço de novembro | 2.0 giro e balanço, Levita, Aurora (link na foto) | DAMIE, já no CDN |
+| O que mudou | Banner do Esquenta Black | DAMIE, já no CDN |
+| Outras poltronas | Matrix Caravelli (`/p/238189200`) e Armênia em conhaque (`granbelo2/54165p`) | Busca da Magalu, 09/11 |
+| Outras poltronas | Imperial Zero Wall, gelo (ASIN B0H4HF4WYR) | Busca da Amazon, 09/11 |
+| Comprar agora | Cecília na 1.0 em linho bege | Foto própria, já no CDN |
+
+### Matriz de claims
+
+Preços, brindes, frete e vendedores: [[poltrona-do-papai-black-friday-fatos-0911]], com os preços da DAMIE relidos no catálogo público e a página de ofertas relida em 09/11. Regras do CECILIA12, bases e graus: dossiê [[DAMIE]]. Experiência: recebido em parceria (memória do projeto, 06/11).
+
+### Capa e imagens
+
+Aprovadas pelo Bruno em 09/11/2026, depois do parecer externo. No CDN e verificadas por HTTPS.
+
+| Arquivo em `/images/reviews/damie/` | Onde | Origem |
+|---|---|---|
+| `poltrona-do-papai-black-friday-capa.webp` | Capa | Foto própria (Cecília com o Ian) e fotos oficiais da DAMIE; `covers:render` |
+| `poltrona-do-papai-matrix-caravelli.webp` | Outras poltronas | Anúncio da Magalu, `/p/238189200`, 09/11 |
+| `poltrona-do-papai-imperial-zero-wall.webp` | Outras poltronas | Anúncio da Amazon, ASIN B0H4HF4WYR (gelo), 09/11 |
+| `poltrona-do-papai-armenia-gran-belo.webp` | Outras poltronas | Anúncio da Magalu, `granbelo2/54165p` (conhaque), 09/11 |
+
+Fora, por preferência do parecer externo: Matrix Compass, Toronto, Austin Lift e Ocean. Reaproveitadas, já no CDN: DAMIE 2.0, Levita, Aurora, banner do Esquenta Black e a Cecília na 1.0. Alts e legendas estão no JSON.
