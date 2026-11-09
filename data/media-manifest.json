@@ -53329,6 +53329,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+      "local_url": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76868,
+      "sha256": "3d3f84068bcdc63c8fc461ef711072c9402fb703bcc3fce9fdf5eda4ea882b23",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+      "storage_filename": "presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-natal-para-pai-poltrona-do-papai.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-natal-para-pai-poltrona-do-papai.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 208032,
+          "column": 15,
+          "literal": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3d3f84068bcdc63c8fc461ef711072c9402fb703bcc3fce9fdf5eda4ea882b23/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3d3f84068bcdc63c8fc461ef711072c9402fb703bcc3fce9fdf5eda4ea882b23/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T22:02:57.987Z",
+      "verification_etag_or_digest": "3d3f84068bcdc63c8fc461ef711072c9402fb703bcc3fce9fdf5eda4ea882b23",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/sofa-damie-modular-capa-discover.webp",
       "local_url": "/images/reviews/damie/sofa-damie-modular-capa-discover.webp",
       "media_kind": "image",
