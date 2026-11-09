@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Black Friday"
 anexo_tipo: "nenhum"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy com GO do Bruno; leitura de 27/11 e atualização do artigo"
+proxima_acao: "leitura de 27/11 e atualização do artigo (coluna Semana da Black Friday)"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 76
