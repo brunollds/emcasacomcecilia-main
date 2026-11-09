@@ -114376,6 +114376,187 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59028,
+      "sha256": "baf5ba95f5ac6d3a986560d209770e4c4944e2fd9b86249a84bec525f829b07b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-stylekorean-legit.json",
+        "content/reviews/ist-stylekorean-serioes.json",
+        "content/reviews/stylekorean-e-affidabile.json",
+        "content/reviews/stylekorean-e-confiavel.json",
+        "content/reviews/stylekorean-es-confiable.json",
+        "content/reviews/stylekorean-fiable-avis.json",
+        "content/reviews/stylekorean-reliable-ja.json",
+        "content/reviews/stylekorean-reliable-ko.json",
+        "content/reviews/stylekorean-reliable-zh-hans.json",
+        "content/reviews/stylekorean-reliable-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-stylekorean-legit.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/ist-stylekorean-serioes.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/stylekorean-e-affidabile.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/stylekorean-e-confiavel.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/stylekorean-es-confiable.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/stylekorean-fiable-avis.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/stylekorean-reliable-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/stylekorean-reliable-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/stylekorean-reliable-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/stylekorean-reliable-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 203524,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 203887,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 204250,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 204613,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 204976,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 205339,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 205702,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 206070,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 206444,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 206807,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/baf5ba95f5ac6d3a986560d209770e4c4944e2fd9b86249a84bec525f829b07b/stylekorean-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/baf5ba95f5ac6d3a986560d209770e4c4944e2fd9b86249a84bec525f829b07b/stylekorean-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T15:18:37.186Z",
+      "verification_etag_or_digest": "baf5ba95f5ac6d3a986560d209770e4c4944e2fd9b86249a84bec525f829b07b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
       "local_url": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
       "media_kind": "image",
