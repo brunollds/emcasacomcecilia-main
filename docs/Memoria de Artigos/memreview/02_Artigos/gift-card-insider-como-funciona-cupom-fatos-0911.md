@@ -19,9 +19,29 @@ Briefing: [[gift-card-insider-como-funciona-cupom]]. Sem login e sem compra.
 | **Brindes** | "Este produto não está elegível para a campanha de brindes" |
 | **Fraude** | A empresa pode cancelar cartões comprados de forma fraudulenta |
 
-- **"Quero enviar como presente" (destinatário e data):** não aparece no texto da página em 09/11. A conferência na tela do mesmo dia (R$ 900 selecionado, "Mais informações" aberto, repassada pelo Bruno) também não mostrou destinatário nem agendamento. O `presente-de-natal-insider-kits-gift-card` ainda cita a opção: Fila, seção 4.
+- **"Quero enviar como presente" (destinatário e data):** não aparece no texto da página em 09/11. A conferência na tela do mesmo dia (R$ 900 selecionado, "Mais informações" aberto, repassada pelo Bruno) também não mostrou destinatário nem agendamento. Os termos, porém, preveem os dois (ver abaixo). O `presente-de-natal-insider-kits-gift-card` cita a opção: alinhar quando alguém vir o checkout (Fila, seção 4).
 - **FAQ da loja:** `/pages/faq` redireciona para a home; não achamos página de ajuda sobre o cartão.
 - **Tags do produto:** "natal24", "dia-dos-namorados" e outras de campanha; não entram no texto.
+
+## Termos de serviço, seção 6 "Gift Card da Insider" (Chrome, 09/11)
+
+[Termos de serviço](https://www.insiderstore.com.br/policies/terms-of-service). Pela 6.8, as regras do gift card prevalecem sobre as gerais.
+
+| Item | O que diz |
+|---|---|
+| **6.1 O que é** | Vale-presente virtual e não reembolsável, só para compras no site. Vai por e-mail "ao destinatário (presenteado) indicado pelo titular da compra", com "um código único a ser utilizado no carrinho de compras" |
+| **6.2 Compra** | Pedido individual e exclusivo. "limite máximo de 01 (uma) compra de Gift Card(s) por usuário (CPF) a cada período de 24 (vinte e quatro) horas". O valor do cartão não tem o desconto do Pix |
+| **6.3 Envio** | Só depois da "confirmação integral do pagamento". O e-mail do destinatário não muda depois do pedido. "Em casos de agendamento de envio", o e-mail sai até as 10h da data escolhida |
+| **6.4 Validade** | 12 meses improrrogáveis, contados do recebimento pelo destinatário; depois, o saldo expira sem ressarcimento |
+| **6.4 Reembolso** | Sem devolução, troca por dinheiro ou reembolso, mas o comprador tem 7 dias corridos para desistir, contados do recebimento, "apenas na hipótese de não utilização do saldo" |
+| **6.4 Cupom** | "Os códigos de cupons de desconto ou promocionais não poderão ser aplicados em pedidos pagos integral ou parcialmente com o saldo do Gift Card" |
+| **6.5 Fraude** | Revenda proibida; cancelamento imediato por fraude; guarda do código é de quem compra ou recebe |
+| **6.6 Encerramento** | A Insider pode encerrar o produto sem aviso; com saldo vigente, "poderá gerar cupons no valor residual", a critério dela |
+
+- **Limite, lido junto com a página:** uma compra por CPF a cada 24 horas (termos), com até 5 cartões (página). Leitura do Bruno, 09/11.
+- **Envio, divergência:** os termos preveem destinatário e agendamento; a página do produto e a tela de 09/11 mostram envio ao e-mail de quem compra, sem campo de destinatário nem data. A divergência fica dita até alguém ver o checkout.
+- **Pagamento parcial:** os termos falam em pedido pago "integral ou parcialmente" com o saldo, o que indica que o saldo pode pagar parte. Não testado.
+- **Não tratado nos termos:** Pix no restante do pedido e preço de promoção (Black Friday) no pedido pago com o saldo.
 
 ## Teste do Bruno (05/11/2026)
 
@@ -41,9 +61,12 @@ O cupom EMCASACOMCECILIA entrou na compra de um gift card de R$ 900: o total sai
 - "vale presente insider": vale presente insider store.
 - Vazios: "gift card insider como usar", "validade", "insider gift card pix", "vale a pena", "black friday".
 
-## A conferir (Bruno, carrinho, sem comprar)
+## Link de criador
 
-1. Pagamento misto e desconto do Pix no restante.
+`https://creators.insiderstore.com.br/C9yDnLB` (Bruno, 09/11), no lugar do `SXnbEB8` de 05/11.
+
+## A conferir (Bruno, opcional, carrinho, sem comprar)
+
+1. Desconto do Pix na parte do pedido paga fora do saldo.
 2. Preço da Black Friday no pedido pago com o saldo.
-3. Onde o código do cartão entra no checkout.
-4. O limite por dia (5 cartões ou uma compra).
+3. Campo de destinatário ou data no checkout do cartão.
