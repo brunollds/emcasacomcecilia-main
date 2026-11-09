@@ -62,7 +62,7 @@
           ],
           [
             "StyleKorean",
-            "o aviso do topo do site diz que o visitante do Brasil vê os itens que podem ser enviados ao Brasil; o país não está na tabela de frete",
+            "o seletor de país do site traz o Brasil, mas isso não confirma a entrega; o país não está na tabela de frete",
             "não publicado",
             "do cliente"
           ]
@@ -216,49 +216,16 @@
       }
     },
     {
-      "heading": "StyleKorean: frete grátis por país e limite do pedido",
+      "heading": "StyleKorean: frete, limite e devolução",
       "paragraphs": [
-        "Na StyleKorean, o frete é calculado por peso e não vem no preço do produto: os pedidos saem de um armazém na Coreia e vão à transportadora em até 5 dias úteis. O frete grátis vale só para produtos de beleza: álbuns e produtos de K-pop ficam fora.",
-        "O pedido tem limite de US$ 500, sem o frete; acima disso, a loja manda dividir em dois pedidos. Ela também não entrega em caixa postal nem em endereço militar (APO, FPO e DPO)."
+        "Na StyleKorean, o frete é calculado por peso e os pedidos saem de um armazém na Coreia. O frete grátis vale só para produtos de beleza e, na tabela da página de frete, começa em US$ 60 a US$ 100, conforme o país; em Portugal, em US$ 80. O pedido tem limite de US$ 500, sem contar o frete. A devolução por desistência pede produto lacrado e sem uso, e o frete do envio é descontado do reembolso.",
+        "Para ver a StyleKorean ao lado da YesStyle, com preços, frete, imposto e devolução, leia [YesStyle ou StyleKorean: qual compensa pro seu bolso? Comparação direta](/reviews/yesstyle-ou-stylekorean)."
       ],
-      "comparisonTable": {
-        "caption": "Frete grátis da StyleKorean por país, pela tabela da página de frete.",
-        "headers": [
-          "Frete grátis a partir de",
-          "Países"
-        ],
-        "rows": [
-          [
-            "US$ 60",
-            "Estados Unidos, Canadá, Austrália e Israel"
-          ],
-          [
-            "US$ 70",
-            "Taiwan, Hong Kong, Singapura, Malásia, Filipinas, Vietnã, Camboja e Indonésia"
-          ],
-          [
-            "US$ 80",
-            "Portugal, Espanha, França, Bélgica, Países Baixos, Alemanha, Suíça, Itália, Reino Unido, Irlanda, Dinamarca, Suécia, Noruega, Polônia, Hungria, Bulgária, Romênia, Emirados, Arábia Saudita, Catar, Kuwait, Bahrein e Omã"
-          ],
-          [
-            "US$ 90",
-            "Áustria, Chéquia, Grécia e Croácia"
-          ],
-          [
-            "US$ 100",
-            "Nova Zelândia"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "A tabela não lista o Brasil, o Japão, o México, o Chile, o Peru, a Argentina nem a Colômbia. Para o Brasil, o aviso do topo do site diz que o visitante vê os itens que podem ser enviados ao país, sem frete nem prazo publicados. Para Singapura e Malásia, as tabelas da loja divergem: uma traz US$ 50 e outra US$ 70, e a linha acima usa US$ 70. Confira o valor no checkout."
-      ]
-    },
-    {
-      "heading": "Devolução e pontos na StyleKorean",
-      "paragraphs": [
-        "A StyleKorean aceita devolução de produto lacrado, sem uso e sem marcas, que volta ao armazém na Coreia. A página pede a solicitação em até 14 dias úteis do recebimento do pedido. Não há devolução por alergia ou reação na pele.",
-        "O reembolso sai em pontos da loja, que valem por seis meses, ou na forma de pagamento, em 2 a 14 dias úteis depois de processado. O frete do envio é descontado; se a conta ficar negativa, o cliente paga a diferença. Item avariado ou faltando é pedido com fotos, a nota e a foto da caixa, e a loja não reenvia."
+      "links": [
+        {
+          "label": "Frete da StyleKorean, em inglês",
+          "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+        }
       ]
     },
     {
@@ -337,7 +304,7 @@
         "A YesStyle é igual à SHEIN? Não: a YesStyle não aparece na lista de marcas do SHEIN Group e diz pertencer à YesAsia Holdings, de Hong Kong.",
         "O Stylevana entrega no Brasil? A lista de destinos em inglês não inclui o Brasil; as traduções mais antigas ainda incluem; e a loja não publica frete nem prazo para o país.",
         "A Olive Young entrega no Brasil? Não: a central de ajuda da Olive Young Global cita o Brasil entre os países sem envio.",
-        "A StyleKorean entrega no Brasil? A página de frete não traz o Brasil na tabela; o aviso do topo do site diz que o visitante do Brasil vê os itens que podem ser enviados ao país, sem frete nem prazo publicados.",
+        "A StyleKorean entrega no Brasil? O seletor de país do site traz o Brasil e mostra os itens que a loja diz poder enviar, mas isso não confirma a entrega: a tabela de frete não traz o país, e a loja não publica frete nem prazo para ele.",
         "Qual é o limite de pedido na StyleKorean? US$ 500 por pedido, sem o frete; acima disso, a loja manda dividir em dois pedidos.",
         "Qual loja tem o frete grátis mais baixo? Para o Brasil, só a Jolse publica o mínimo; para Portugal, os mínimos estão na tabela de entrega, e o Stylevana é o único em euro.",
         "Quem paga o imposto? Depende da loja e do país: em Portugal, a YesStyle e a Jolse já incluem o IVA; no Brasil, o imposto é cobrado depois que o pacote chega, e só a YesStyle publica reembolso de impostos e taxas da alfândega, em crédito, abaixo de US$ 1.000, sem citar o ICMS.",
@@ -371,5 +338,5 @@
       "slug": "codigo-cecilia010-yesstyle-como-usar"
     }
   ],
-  "updatedAt": "2026-11-07"
+  "updatedAt": "2026-11-09"
 }

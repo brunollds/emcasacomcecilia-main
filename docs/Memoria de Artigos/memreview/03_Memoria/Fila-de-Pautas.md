@@ -153,7 +153,6 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
-| `yesstyle-ou-stylevana` (família, parte da StyleKorean) | **Já:** o aviso "itens enviados ao Brasil" mostra o país escolhido no site, não o do visitante nem uma entrega; o seletor traz Brasil, Japão, México e Colômbia, mas sem cotação. Corrigir a frase do FAQ em PT e conferir nas 10 versões as frases sobre países que "a página não lista". **A SK1 está no ar:** as duas seções da StyleKorean viram resumo com link para ela, em PR próprio | Chrome e SK1, 08/11 |
 | `yesstyle-ou-stylekorean` (SK1, 10 idiomas) | **Na Black Friday:** reler preços e notas. A frase dos convites e o link da SK2 já estão no ar | Fatos da SK2, 09/11 |
 | `hostinger-renovacao-cupom-sonar20` (e o quadro `-barras-` dos 10 idiomas) | Conferir o prazo da renovação: a página de planos diz "Renovação automática… pelo mesmo período", mas o carrinho diz "Renova após 48 meses por R$ 23,99/mês a cada 12 meses" (Single, 06/11). O quadro diz "renova pelo mesmo período". Ler o carrinho de novo e, se o carrinho valer, corrigir o texto e o quadro | Redação da H9, 06/11 |
 | `camiseta-feminina-insider-qual-escolher` e `camiseta-insider-qual-escolher` | Cupom na Daily: o feminino diz "confira no carrinho", o masculino diz que a Daily não aceita cupom. Só mudar com o teste no carrinho (conflito 5 da R7). O resto da linha da R7 (lavagem com link, notas, Core e 2 cm, dossiê) saiu no PR de 06/11 | Rodada R7, 05/11 |
