@@ -199730,7 +199730,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As notas descrevem avaliações publicadas no Trustpilot e não medem quantos pedidos dão errado. Os dois perfis são globais e têm quantidades de avaliações muito diferentes, e as queixas de entrega e rastreio da YesStyle estão em [YesStyle na Trustpilot](/reviews/yesstyle-trustpilot-nota-reclamacoes).",
+          "As notas descrevem avaliações publicadas no Trustpilot e não medem quantos pedidos dão errado. Os dois perfis são globais e têm quantidades de avaliações muito diferentes, e as queixas de entrega e rastreio da YesStyle estão em [YesStyle na Trustpilot](/reviews/yesstyle-trustpilot-nota-reclamacoes). O Trustpilot informa que a YesStyle convida clientes a avaliar e que a StyleKorean não convidou recentemente; as formas de coleta são diferentes.",
           "O CECILIA010 entra em outra coluna da conta. Ele é o código de recompensa da Cecília e só vale na YesStyle: vai no campo Reward Code do checkout, com 5% extra na primeira compra e 2% nas seguintes, e soma com os cupons elegíveis da loja. Os preços vêm a seguir, com o preço anunciado separado do resultado com o código."
         ]
       },
@@ -200012,7 +200012,7 @@ export const reviewsData: unknown[] = [
           "A StyleKorean é da YesStyle? Não. A StyleKorean é da Silicon2, da Coreia; a YesStyle é da YesAsia, de Hong Kong.",
           "Entrega no meu país? Portugal, Estados Unidos, Reino Unido e Alemanha estão nas tabelas deste artigo; para o Brasil, veja o capítulo do país.",
           "Qual é o limite de pedido na StyleKorean? US$ 500, sem contar o frete. O capítulo de frete grátis traz o que a loja recomenda para pedidos maiores.",
-          "Qual é mais confiável? Pela nota, a YesStyle está bem à frente, mas a nota é sinal de reputação e não garantia."
+          "Qual é mais confiável? Pela nota, a YesStyle está bem à frente, mas a nota é sinal de reputação e não garantia. A reputação da StyleKorean está em [StyleKorean é confiável?](/reviews/stylekorean-e-confiavel)."
         ]
       }
     ],
@@ -200114,7 +200114,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "The ratings describe reviews published on Trustpilot and do not measure how many orders go wrong. Both profiles are global and have very different numbers of reviews, and the delivery and tracking complaints about YesStyle are covered in [YesStyle on Trustpilot](/en/reviews/yesstyle-trustpilot-reviews).",
+          "The ratings describe reviews published on Trustpilot and do not measure how many orders go wrong. Both profiles are global and have very different numbers of reviews, and the delivery and tracking complaints about YesStyle are covered in [YesStyle on Trustpilot](/en/reviews/yesstyle-trustpilot-reviews). Trustpilot says YesStyle invites customers to review and that StyleKorean has not invited customers recently; the two collect reviews differently.",
           "CECILIA010 is a separate part of the math. It is Cecília's Reward Code and only works at YesStyle: it goes in the Reward Code field at checkout, with 5% extra on the first purchase and 2% on later ones, and it stacks with the store's own eligible coupons. The prices come next, with the advertised price kept separate from the result with the code."
         ]
       },
@@ -200395,7 +200395,7 @@ export const reviewsData: unknown[] = [
           "Does YesStyle own StyleKorean? No. StyleKorean belongs to Silicon2, from Korea; YesStyle belongs to YesAsia, from Hong Kong.",
           "Does it deliver to my country? Portugal, the United States, the United Kingdom and Germany are in this article's tables; for other destinations, see [the store's shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
           "What is the order limit at StyleKorean? US$ 500, not counting shipping. The free shipping chapter covers what the store recommends for larger orders.",
-          "Which one is more trustworthy? By rating, YesStyle is well ahead, but the rating is a sign of reputation, not a guarantee."
+          "Which one is more trustworthy? By rating, YesStyle is well ahead, but the rating is a sign of reputation, not a guarantee. StyleKorean's reputation is covered in [Is StyleKorean legit?](/en/reviews/is-stylekorean-legit)."
         ]
       }
     ],
@@ -200497,7 +200497,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Las notas describen valoraciones publicadas en Trustpilot y no miden cuántos pedidos salen mal. Los dos perfiles son globales y tienen cantidades de valoraciones muy distintas, y las quejas de entrega y seguimiento de YesStyle están en [YesStyle en Trustpilot](/es/reviews/yesstyle-opiniones-trustpilot).",
+          "Las notas describen valoraciones publicadas en Trustpilot y no miden cuántos pedidos salen mal. Los dos perfiles son globales y tienen cantidades de valoraciones muy distintas, y las quejas de entrega y seguimiento de YesStyle están en [YesStyle en Trustpilot](/es/reviews/yesstyle-opiniones-trustpilot). Trustpilot informa de que YesStyle invita a los clientes a valorar y de que StyleKorean no ha invitado recientemente; las formas de recogida son distintas.",
           "El CECILIA010 va en otra columna de la cuenta. Es el código de recompensa de Cecília y solo vale en YesStyle: se escribe en el campo Reward Code del pago, con 5 % extra en la primera compra y 2 % en las siguientes, y se suma a los cupones elegibles de la propia tienda. Los precios vienen a continuación, con el precio anunciado separado del resultado con el código."
         ]
       },
@@ -200778,7 +200778,7 @@ export const reviewsData: unknown[] = [
           "¿StyleKorean es de YesStyle? No. StyleKorean es de Silicon2, de Corea; YesStyle es de YesAsia, de Hong Kong.",
           "¿Entregan en mi país? Portugal, Estados Unidos, Reino Unido y Alemania están en las tablas de este artículo; para otros destinos, mira [la guía de envíos de YesStyle a España, México, Chile, Perú, Argentina y Colombia](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
           "¿Cuál es el límite de pedido en StyleKorean? US$ 500, sin contar el envío. El capítulo de envío gratis trae lo que la tienda recomienda para pedidos mayores.",
-          "¿Cuál es más fiable? Por la nota, YesStyle va muy por delante, pero la nota es una señal de reputación y no una garantía."
+          "¿Cuál es más confiable? Por la nota, YesStyle va muy por delante, pero la nota es una señal de reputación y no una garantía. La reputación de StyleKorean está en [¿StyleKorean es confiable?](/es/reviews/stylekorean-es-confiable)."
         ]
       }
     ],
@@ -200880,7 +200880,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Les notes décrivent des avis publiés sur Trustpilot et ne mesurent pas combien de commandes se passent mal. Les deux profils sont mondiaux et ont des volumes d'avis très différents, et les plaintes de livraison et de suivi de YesStyle sont dans [YesStyle sur Trustpilot](/fr/reviews/yesstyle-avis-trustpilot).",
+          "Les notes décrivent des avis publiés sur Trustpilot et ne mesurent pas combien de commandes se passent mal. Les deux profils sont mondiaux et ont des volumes d'avis très différents, et les plaintes de livraison et de suivi de YesStyle sont dans [YesStyle sur Trustpilot](/fr/reviews/yesstyle-avis-trustpilot). Trustpilot indique que YesStyle invite ses clients à laisser un avis et que StyleKorean n'en a pas invité récemment ; les modes de collecte sont différents.",
           "CECILIA010 entre dans une autre colonne du calcul. C'est le code récompense de Cecília, valable seulement chez YesStyle : il se saisit dans le champ Reward Code du paiement, avec 5 % de plus sur le premier achat et 2 % sur les suivants, et il se cumule avec les coupons éligibles de la boutique. Les prix suivent, avec le prix affiché séparé du prix obtenu avec le code."
         ]
       },
@@ -201161,7 +201161,7 @@ export const reviewsData: unknown[] = [
           "StyleKorean appartient-elle à YesStyle ? Non. StyleKorean appartient à Silicon2, en Corée ; YesStyle appartient à YesAsia, à Hong Kong.",
           "Livraison dans mon pays ? Le Portugal, les États-Unis, le Royaume-Uni et l'Allemagne figurent dans les tableaux de cet article ; pour les autres destinations, consultez le [guide de livraison de la boutique en français](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
           "Quelle est la limite de commande chez StyleKorean ? US$ 500, livraison non comprise. Le chapitre sur la livraison gratuite indique ce que la boutique recommande pour les commandes plus grandes.",
-          "Laquelle est la plus fiable ? D'après la note, YesStyle est bien devant, mais la note est un signe de réputation et non une garantie."
+          "Laquelle est la plus fiable ? D'après la note, YesStyle est bien devant, mais la note est un signe de réputation et non une garantie. La réputation de StyleKorean est détaillée dans [StyleKorean est-elle fiable ?](/fr/reviews/stylekorean-fiable-avis)."
         ]
       }
     ],
@@ -201263,7 +201263,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Die Bewertungen beschreiben auf Trustpilot veröffentlichte Meinungen und sagen nicht, wie viele Bestellungen schiefgehen. Beide Profile sind global und haben sehr unterschiedlich viele Bewertungen; die Beschwerden über Lieferung und Sendungsverfolgung bei YesStyle stehen in [YesStyle auf Trustpilot](/de/reviews/yesstyle-trustpilot-bewertungen).",
+          "Die Bewertungen beschreiben auf Trustpilot veröffentlichte Meinungen und sagen nicht, wie viele Bestellungen schiefgehen. Beide Profile sind global und haben sehr unterschiedlich viele Bewertungen; die Beschwerden über Lieferung und Sendungsverfolgung bei YesStyle stehen in [YesStyle auf Trustpilot](/de/reviews/yesstyle-trustpilot-bewertungen). Trustpilot gibt an, dass YesStyle Kunden zur Bewertung einlädt und StyleKorean zuletzt nicht eingeladen hat; die Bewertungen werden also unterschiedlich gesammelt.",
           "CECILIA010 steht in einer anderen Spalte der Berechnung. Es ist der Reward Code von Cecília und gilt nur bei YesStyle: Er kommt im Checkout in das Feld Reward Code, mit 5 % extra beim ersten Kauf und 2 % bei den folgenden, und lässt sich mit den berechtigten Gutscheinen des Shops kombinieren. Die Preise folgen darunter, mit dem angezeigten Preis getrennt vom Ergebnis mit Code."
         ]
       },
@@ -201544,7 +201544,7 @@ export const reviewsData: unknown[] = [
           "Gehört StyleKorean zu YesStyle? Nein. StyleKorean gehört zu Silicon2 aus Korea; YesStyle gehört zu YesAsia aus Hongkong.",
           "Lieferung in mein Land? Portugal, die Vereinigten Staaten, das Vereinigte Königreich und Deutschland stehen in den Tabellen dieses Artikels; für andere Ziele lesen Sie den [Versandleitfaden von YesStyle für Deutschland, Österreich und die Schweiz](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
           "Wie hoch ist das Bestelllimit bei StyleKorean? US$ 500, ohne Versand. Das Kapitel zum kostenlosen Versand nennt, was der Shop für größere Bestellungen empfiehlt.",
-          "Welcher Shop ist vertrauenswürdiger? Nach der Bewertung liegt YesStyle deutlich vorn, aber die Bewertung ist ein Hinweis auf den Ruf und keine Garantie."
+          "Welcher Shop ist vertrauenswürdiger? Nach der Bewertung liegt YesStyle deutlich vorn, aber die Bewertung ist ein Hinweis auf den Ruf und keine Garantie. Mehr zum Ruf von StyleKorean steht in [Ist StyleKorean seriös?](/de/reviews/ist-stylekorean-serioes)."
         ]
       }
     ],
@@ -201646,7 +201646,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "I voti descrivono le recensioni pubblicate su Trustpilot e non misurano quanti ordini vanno storti. I due profili sono globali e hanno quantità di recensioni molto diverse, e i reclami su consegna e tracciamento di YesStyle sono in [YesStyle su Trustpilot](/it/reviews/yesstyle-recensioni-trustpilot).",
+          "I voti descrivono le recensioni pubblicate su Trustpilot e non misurano quanti ordini vanno storti. I due profili sono globali e hanno quantità di recensioni molto diverse, e i reclami su consegna e tracciamento di YesStyle sono in [YesStyle su Trustpilot](/it/reviews/yesstyle-recensioni-trustpilot). Trustpilot indica che YesStyle invita i clienti a recensire e che StyleKorean non lo ha fatto di recente; i modi di raccolta sono diversi.",
           "CECILIA010 entra in un'altra colonna del conto. È il codice ricompensa di Cecília e vale solo su YesStyle: va nel campo Reward Code del checkout, con il 5% in più sul primo acquisto e il 2% sui successivi, e si somma ai coupon idonei del negozio stesso. I prezzi sono qui sotto, con il prezzo indicato separato dal risultato con il codice."
         ]
       },
@@ -201927,7 +201927,7 @@ export const reviewsData: unknown[] = [
           "StyleKorean appartiene a YesStyle? No. StyleKorean è di Silicon2, in Corea; YesStyle è di YesAsia, di Hong Kong.",
           "Consegnano nel mio paese? Portogallo, Stati Uniti, Regno Unito e Germania sono nelle tabelle di questo articolo; per altre destinazioni vedi [la guida alle spedizioni di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
           "Qual è il limite d'ordine su StyleKorean? US$ 500, spedizione esclusa. Il capitolo sulla spedizione gratuita riporta cosa consiglia il negozio per gli ordini più grandi.",
-          "Quale delle due è più affidabile? Stando al voto, YesStyle è molto avanti, ma il voto è un segnale di reputazione e non una garanzia."
+          "Quale delle due è più affidabile? Stando al voto, YesStyle è molto avanti, ma il voto è un segnale di reputazione e non una garanzia. Trovi la reputazione di StyleKorean in [StyleKorean è affidabile?](/it/reviews/stylekorean-e-affidabile)."
         ]
       }
     ],
@@ -202029,7 +202029,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "이 평점은 Trustpilot에 올라온 리뷰를 보여 줄 뿐, 문제가 생기는 주문이 얼마나 되는지를 재는 수치는 아닙니다. 두 프로필은 모두 전 세계를 대상으로 하고 리뷰 수 차이도 매우 크며, YesStyle의 배송과 추적 관련 불만은 [Trustpilot의 YesStyle 리뷰](/ko/reviews/yesstyle-trustpilot-reviews-ko)에 있습니다.",
+          "이 평점은 Trustpilot에 올라온 리뷰를 보여 줄 뿐, 문제가 생기는 주문이 얼마나 되는지를 재는 수치는 아닙니다. 두 프로필은 모두 전 세계를 대상으로 하고 리뷰 수 차이도 매우 크며, YesStyle의 배송과 추적 관련 불만은 [Trustpilot의 YesStyle 리뷰](/ko/reviews/yesstyle-trustpilot-reviews-ko)에 있습니다. Trustpilot는 YesStyle이 고객에게 리뷰를 요청하고 StyleKorean은 최근 요청하지 않았다고 알립니다. 수집 방식이 서로 다릅니다.",
           "CECILIA010은 계산의 다른 칸에 들어갑니다. Cecília의 리워드 코드이고 YesStyle에서만 쓸 수 있습니다. 결제 화면의 Reward Code 칸에 입력하면 첫 구매에 5%, 이후 구매에 2%가 추가되며, YesStyle의 적용 가능한 쿠폰과도 함께 쓸 수 있습니다. 가격은 이어서 나오며, 표시 가격과 코드를 적용한 결과를 따로 보여 드립니다."
         ]
       },
@@ -202310,7 +202310,7 @@ export const reviewsData: unknown[] = [
           "StyleKorean은 YesStyle의 계열사인가요? 아니요. StyleKorean은 한국의 Silicon2 소속이고, YesStyle은 홍콩의 YesAsia 소속입니다.",
           "내가 사는 나라에도 배송되나요? 포르투갈, 미국, 영국, 독일은 이 글의 표에 있습니다. 다른 배송지는 [YesStyle 배송 안내](/ko/reviews/yesstyle-shipping-korea-ko)에서 확인하세요.",
           "StyleKorean의 주문 한도는 얼마인가요? 배송비 제외 US$ 500입니다. 더 큰 주문에 쇼핑몰이 권하는 방법은 무료배송 장에 있습니다.",
-          "어느 쪽이 더 믿을 만한가요? 평점으로는 YesStyle이 크게 앞서지만, 평점은 평판의 신호일 뿐 보장은 아닙니다."
+          "어느 쪽이 더 믿을 만한가요? 평점으로는 YesStyle이 크게 앞서지만, 평점은 평판의 신호일 뿐 보장은 아닙니다. StyleKorean의 평판은 [StyleKorean 믿어도 될까?](/ko/reviews/stylekorean-reliable-ko)에 있습니다."
         ]
       }
     ],
@@ -202412,7 +202412,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "評価はTrustpilotに投稿されたレビューをまとめたもので、トラブルになった注文の数を測るものではありません。2つのプロフィールはどちらもグローバル向けで、レビュー数にも大きな差があります。YesStyleの配送や追跡への不満は、[TrustpilotのYesStyle評価](/ja/reviews/yesstyle-trustpilot-reviews-ja)にまとめています。",
+          "評価はTrustpilotに投稿されたレビューをまとめたもので、トラブルになった注文の数を測るものではありません。2つのプロフィールはどちらもグローバル向けで、レビュー数にも大きな差があります。YesStyleの配送や追跡への不満は、[TrustpilotのYesStyle評価](/ja/reviews/yesstyle-trustpilot-reviews-ja)にまとめています。Trustpilotによると、YesStyleは顧客にレビューを依頼していますが、StyleKoreanは最近依頼していません。集め方が違います。",
           "CECILIA010は、計算上は別の項目です。Cecíliaのリワードコードで、使えるのはYesStyleだけです。チェックアウトのReward Code欄に入力すると、初回購入で5%、2回目以降は2%が上乗せされ、ショップ自身の対象クーポンとも併用できます。価格はこのあと、表示価格とコード適用後の計算結果を分けて示します。"
         ]
       },
@@ -202693,7 +202693,7 @@ export const reviewsData: unknown[] = [
           "StyleKoreanはYesStyleの系列ですか？ いいえ。StyleKoreanは韓国のSilicon2が、YesStyleは香港のYesAsiaが運営しています。",
           "自分の国に配送してもらえますか？ この記事の表には、ポルトガル、アメリカ、イギリス、ドイツがあります。それ以外の国は、[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)で配送の条件を確認してください。",
           "StyleKoreanの注文額の上限はいくらですか？ 送料を除いてUS$ 500です。それを超える注文について、ショップが何を勧めているかは、送料無料の章に書いています。",
-          "どちらが信頼できますか？ 評価ではYesStyleがかなり上ですが、評価は評判の目安であり、保証ではありません。"
+          "どちらが信頼できますか？ 評価ではYesStyleがかなり上ですが、評価は評判の目安であり、保証ではありません。StyleKoreanの評判については、[StyleKoreanは信頼できる？](/ja/reviews/stylekorean-reliable-ja)をご覧ください。"
         ]
       }
     ],
@@ -202795,7 +202795,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "這些評分反映的是 Trustpilot 上已發布的評價，並不代表有多少訂單出問題。兩個頁面都是全球性的，評價數量差距很大；關於 YesStyle 的寄送與追蹤投訴，請見 [YesStyle 在 Trustpilot 上的評價](/zh-hant/reviews/yesstyle-trustpilot-reviews-zh-hant)。",
+          "這些評分反映的是 Trustpilot 上已發布的評價，並不代表有多少訂單出問題。兩個頁面都是全球性的，評價數量差距很大；關於 YesStyle 的寄送與追蹤投訴，請見 [YesStyle 在 Trustpilot 上的評價](/zh-hant/reviews/yesstyle-trustpilot-reviews-zh-hant)。Trustpilot 說明 YesStyle 會邀請顧客評價，StyleKorean 近期沒有邀請；兩者的蒐集方式不同。",
           "CECILIA010 要放在另一欄來算。它是 Cecília 的獎勵碼，只能用在 YesStyle：填在結帳頁的 Reward Code 欄位，首購額外 5%，之後的訂單額外 2%，並可與店家自己符合資格的優惠券一併使用。價格在下方，標價與使用獎勵碼後的結果分開列出。"
         ]
       },
@@ -203076,7 +203076,7 @@ export const reviewsData: unknown[] = [
           "StyleKorean 是 YesStyle 旗下的嗎？ 不是。StyleKorean 屬於韓國的 Silicon2；YesStyle 屬於香港的 YesAsia。",
           "我的國家有寄送嗎？ 葡萄牙、美國、英國和德國已列在本文的表格中；其他地區請見 [YesStyle 運送說明文章](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
           "StyleKorean 的訂單上限是多少？ US$ 500，不含運費。免運那一章說明了店家對較大訂單的建議。",
-          "哪一家比較可靠？ 以評分來看，YesStyle 遙遙領先，但評分只是口碑的參考，並不是保證。"
+          "哪一家比較可靠？ 以評分來看，YesStyle 遙遙領先，但評分只是口碑的參考，並不是保證。StyleKorean 的口碑請見 [StyleKorean 可靠嗎？](/zh-hant/reviews/stylekorean-reliable-zh-hant)。"
         ]
       }
     ],
@@ -203178,7 +203178,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "这些评分只反映 Trustpilot 上已发布的评价，并不能衡量有多少订单出问题。两个页面都是全球站点，评价数量相差悬殊，YesStyle 在配送和物流追踪方面的投诉见 [YesStyle 在 Trustpilot 上的评价](/zh-hans/reviews/yesstyle-trustpilot-reviews-zh-hans)。",
+          "这些评分只反映 Trustpilot 上已发布的评价，并不能衡量有多少订单出问题。两个页面都是全球站点，评价数量相差悬殊，YesStyle 在配送和物流追踪方面的投诉见 [YesStyle 在 Trustpilot 上的评价](/zh-hans/reviews/yesstyle-trustpilot-reviews-zh-hans)。Trustpilot 说明，YesStyle 会邀请客户评价，而 StyleKorean 近期没有邀请；两者的评价收集方式不同。",
           "CECILIA010 属于计算的另一部分。它是 Cecília 的奖励码，只在 YesStyle 有效：填在结账页的 Reward Code 栏位，首购额外 5%，之后的订单为 2%，并可与店家自己符合条件的优惠券一同使用。价格在下文，先列出标价，再列出使用奖励码后的计算结果。"
         ]
       },
@@ -203459,7 +203459,7 @@ export const reviewsData: unknown[] = [
           "StyleKorean 是 YesStyle 旗下的吗？ 不是。StyleKorean 属于韩国的 Silicon2；YesStyle 属于香港的 YesAsia。",
           "寄得到我所在的国家吗？ 葡萄牙、美国、英国和德国在本文的表格中；其他目的地请看 [YesStyle 运送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
           "StyleKorean 的订单上限是多少？ US$ 500，不含运费。免运费一章写了店家对更大订单的建议。",
-          "哪一家更可靠？ 按评分，YesStyle 遥遥领先，但评分只是口碑的参考，不是保证。"
+          "哪一家更可靠？ 按评分，YesStyle 遥遥领先，但评分只是口碑的参考，不是保证。StyleKorean 的口碑见 [StyleKorean 可靠吗？](/zh-hans/reviews/stylekorean-reliable-zh-hans)"
         ]
       }
     ],
@@ -203494,6 +203494,3651 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 876,
+    "slug": "stylekorean-e-confiavel",
+    "locale": "pt",
+    "translationKey": "stylekorean-trust",
+    "title": "StyleKorean é confiável? A empresa é real; as queixas são de entrega, taxa e reembolso",
+    "seoTitle": "StyleKorean é confiável? Nota, queixas e o que conferir",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A StyleKorean é de uma empresa listada na Coreia e tem nota 1,9 no Trustpilot. Veja o que dizem as 60 avaliações mais recentes e o que conferir antes de pagar.",
+    "metaDescription": "O código de recompensa CECILIA010 dá até 5% extra na YesStyle. StyleKorean é confiável? Nota 1,9, queixas e o que conferir antes de pagar.",
+    "publishedAt": "9 de novembro de 2026",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "Produtos de skincare coreano vendidos na YesStyle, com o título StyleKorean? e o código CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A StyleKorean é da Silicon2, empresa listada na Coreia. A nota 1,9 no Trustpilot (137 avaliações) pede atenção às queixas de entrega e taxa. Vá de YesStyle se prioriza a reputação no Trustpilot: nota 4,4 e CECILIA010 com até 5% extra. No Brasil, a entrega da YesStyle está suspensa temporariamente."
+        ]
+      },
+      {
+        "heading": "Quem é a StyleKorean",
+        "paragraphs": [
+          "A StyleKorean é a loja on-line da Silicon2, empresa de Seongnam, na Coreia do Sul. O nome da empresa está na FAQ e no rodapé da própria loja. Pelo histórico que a Silicon2 publica, ela foi fundada em 2002, abriu o site global da StyleKorean em 2015, entrou na KOSDAQ, a bolsa coreana, em 2021 e registrou faturamento de 1,12 trilhão de wons, a moeda coreana, em 2025.",
+          "Isso mostra que a empresa existe, e não que o seu pedido chega. Para isso, veja os relatos de clientes mais abaixo."
+        ],
+        "links": [
+          {
+            "label": "Histórico da Silicon2, em inglês",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "A nota, e o que ela mede",
+        "paragraphs": [
+          "A StyleKorean tem nota 1,9 no Trustpilot, e 63% das avaliações são de 1 estrela. A diferença para a YesStyle é grande, com uma ressalva no tamanho e na origem das avaliações."
+        ],
+        "comparisonTable": {
+          "caption": "Perfis em trustpilot.com, lidos em novembro.",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "Nota",
+              "1,9",
+              "4,4"
+            ],
+            [
+              "Avaliações",
+              "137",
+              "104.972"
+            ],
+            [
+              "Nos últimos 12 meses",
+              "45",
+              "11.618"
+            ],
+            [
+              "5 estrelas",
+              "28%",
+              "71%"
+            ],
+            [
+              "2 a 4 estrelas",
+              "9%",
+              "22%"
+            ],
+            [
+              "1 estrela",
+              "63%",
+              "7%"
+            ],
+            [
+              "Convida clientes a avaliar",
+              "Não recentemente",
+              "Sim"
+            ],
+            [
+              "Negativas respondidas",
+              "22%, em geral com mais de 1 mês",
+              "99%, em geral em 24 h"
+            ],
+            [
+              "Perfil reivindicado em",
+              "2026",
+              "2013"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Trustpilot informa que a StyleKorean não convidou clientes recentemente e alerta que as avaliações podem não ser representativas. A YesStyle convida clientes a avaliar. São formas de coleta diferentes; esse dado não explica, sozinho, a diferença entre as notas.",
+          "A loja responde a 22% das avaliações negativas. O app na App Store dos EUA tem nota 2,7 em 135 avaliações: é uma avaliação do aplicativo, não uma medida da entrega."
+        ],
+        "links": [
+          {
+            "label": "StyleKorean no Trustpilot",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "YesStyle no Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "App da StyleKorean na App Store dos EUA",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "O que dizem as 60 avaliações mais recentes",
+        "paragraphs": [
+          "Lemos as 60 avaliações mais recentes do perfil, todas espontâneas, e separamos cada uma por assunto principal. São 12 positivas e 48 negativas: 44 de 1 estrela e 4 de 2 estrelas. Entrega e alfândega somam 26 das 48."
+        ],
+        "comparisonTable": {
+          "caption": "Avaliações no Trustpilot de março de 2025 a outubro de 2026. Classificação nossa, com um assunto por avaliação.",
+          "headers": [
+            "Assunto principal das 48 negativas",
+            "Avaliações"
+          ],
+          "rows": [
+            [
+              "Entrega parada, atrasada, sem envio ou extraviada",
+              "13"
+            ],
+            [
+              "Alfândega: taxa inesperada ou pacote retido",
+              "13"
+            ],
+            [
+              "Cancelamento, reembolso ou devolução",
+              "9"
+            ],
+            [
+              "Item faltando, errado ou danificado",
+              "6"
+            ],
+            [
+              "Site, conta ou pagamento",
+              "4"
+            ],
+            [
+              "Outros",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na entrega, avaliadores relatam pedido parado em preparação e pacote que não chega. Na alfândega, relatam cobrança inesperada na hora de receber, inclusive na Europa e no Reino Unido, e pacote retido nos EUA; três deles atribuem a retenção à falta de documentos da loja. No cancelamento, relatam dinheiro que não volta e pedido enviado depois de pedirem para cancelar. Alguns falam em fraude ao contar esses casos, e não temos como apurá-los.",
+          "Essa contagem descreve a amostra e não dá para virar taxa de falha. Ela mostra de que tratam as queixas da amostra, sem dizer quantos pedidos dão errado."
+        ]
+      },
+      {
+        "heading": "Quem elogia, elogia o quê",
+        "paragraphs": [
+          "São 12 das 60: 11 de 5 estrelas e 1 de 4. Os elogios falam de entrega rápida, boa embalagem e preço. Dois, no Reino Unido, relatam imposto pago no checkout, sem cobrança na entrega, e um relata reembolso depois de um pacote parado. Dois elogios contam ter pagado encargos na entrega.",
+          "A mesma loja aparece com pedido que chega em uma semana e com pedido parado por meses. A amostra não diz o que separa um caso do outro."
+        ]
+      },
+      {
+        "heading": "O que a loja promete e o que relatam",
+        "paragraphs": [
+          "A segunda coluna vem das páginas de frete, devolução e FAQ da StyleKorean. A terceira, das avaliações."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tema",
+            "O que a loja publica",
+            "O que avaliadores relatam"
+          ],
+          "rows": [
+            [
+              "Imposto",
+              "Fora do preço e por sua conta; nos EUA e no Canadá, cobrado no checkout",
+              "Cobrança inesperada na entrega; no Reino Unido, há quem relate imposto pago no checkout sem nova cobrança e quem relate pagar duas vezes"
+            ],
+            [
+              "Recusa do pacote",
+              "Sem reembolso nem reenvio",
+              "Pacote devolvido ou destruído, sem o dinheiro de volta"
+            ],
+            [
+              "Despacho",
+              "Até 5 dias úteis até a transportadora; a FAQ fala em 72 horas úteis",
+              "Pedido parado em preparação; há quem elogie a rapidez"
+            ],
+            [
+              "Reembolso",
+              "Em pontos da loja ou na forma de pagamento; para esta última, a política menciona 2 a 14 dias úteis",
+              "Demora ou falta de reembolso de cancelados e não entregues"
+            ],
+            [
+              "Avaria",
+              "Fotos e nota; reembolso conforme o grau, sem reenvio",
+              "Falta de solução pelo atendimento"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Frete da StyleKorean, em inglês",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "Devolução da StyleKorean, em inglês",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "FAQ da StyleKorean, em inglês",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "As respostas da loja",
+        "paragraphs": [
+          "A StyleKorean responde a 22% das avaliações negativas, em geral com mais de 1 mês. O perfil foi reivindicado em setembro. Na amostra, 10 das 60 têm resposta, todas do fim daquele mês, e vão até avaliações de junho; a mais recente, de outubro, está sem resposta. Várias respostas pedem que o cliente procure o atendimento pela própria conta. Na YesStyle, a taxa é de 99%, em geral em 24 horas.",
+          "Não sabemos quantos desses casos terminaram resolvidos."
+        ]
+      },
+      {
+        "heading": "Os produtos são originais?",
+        "paragraphs": [
+          "A FAQ da StyleKorean declara que todos os produtos são autênticos e vêm direto das marcas ou de fornecedores confiáveis na Coreia. Nenhuma das 60 avaliações diz que recebeu produto falso.",
+          "Esse é o limite do que dá para afirmar. Não encontramos auditoria independente e não compramos na loja para testar. A ausência de queixa numa amostra pequena não garante que todo produto seja original."
+        ]
+      },
+      {
+        "heading": "O que não dá para concluir",
+        "bullets": [
+          "**Com que frequência um pedido dá errado:** o Trustpilot mostra quem escreveu, e não o total de pedidos.",
+          "**Qual país corre mais risco:** as queixas vêm dos EUA, do Canadá, do Reino Unido, da Itália, da Alemanha, da Espanha, dos Emirados e da Arábia Saudita, entre outros, em número pequeno demais para comparar.",
+          "**Se o atendimento melhorou com as respostas no Trustpilot:** o perfil começou a responder há pouco tempo.",
+          "**Se ela é mais ou menos segura que qualquer outra loja:** a comparação aqui é só com a YesStyle."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "paragraphs": [
+          "Se o produto que você quer só está na StyleKorean, ou sai bem mais barato nela, confira nesta ordem:"
+        ],
+        "bullets": [
+          "**Veja o frete e o prazo no carrinho, com o seu endereço.** O frete grátis muda por país.",
+          "**Calcule o imposto do seu país.** Fora dos EUA e do Canadá, ele pode ser cobrado antes da entrega, por sua conta.",
+          "**Decida antes se aceita pagar essa cobrança.** Recusar o pacote por causa da alfândega não dá reembolso nem reenvio.",
+          "**Fique dentro do limite de US$ 500 por pedido, sem contar o frete.** Acima disso, a loja recomenda fazer dois pedidos.",
+          "**Guarde o número do pedido, o rastreio, os comprovantes e as fotos do pacote.** Em caso de avaria, a loja pede fotos e a nota.",
+          "**Marque o prazo de 14 dias úteis para pedir devolução, contados do recebimento.** Na devolução a seu pedido, o frete é descontado do reembolso, mesmo se foi grátis na compra. A loja não aceita devolução por alergia."
+        ]
+      },
+      {
+        "heading": "Quando considerar a YesStyle",
+        "paragraphs": [
+          "Vá de YesStyle se ela entregar no seu endereço e você der peso à reputação no Trustpilot. A nota é mais alta e a loja responde a quase todas as avaliações negativas no perfil. Ela também tem queixas de entrega e rastreio, que estão em [YesStyle na Trustpilot](/reviews/yesstyle-trustpilot-nota-reclamacoes).",
+          "O CECILIA010 dá 5% extra na primeira compra e 2% nas seguintes, e soma com os cupons elegíveis da loja. Ele vai no campo Reward Code do checkout. Antes de decidir por preço, veja [YesStyle ou StyleKorean: qual compensa pro seu bolso?](/reviews/yesstyle-ou-stylekorean), com os mesmos produtos nas duas lojas, frete, imposto e devolução. Os cupons do momento estão em [cupons e código de recompensa da YesStyle](/cupons/yesstyle)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "Essência COSRX Advanced Snail 96 Mucin Power, 100 ml",
+            "caption": "Um dos produtos vendidos na YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Protetor solar Relief Sun da Beauty of Joseon, 50 ml",
+            "caption": "Um dos produtos vendidos na YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Ampola Madagascar Centella da SKIN1004, 100 ml",
+            "caption": "Um dos produtos vendidos na YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "Tônico 1025 Dokdo da Round Lab, 200 ml",
+            "caption": "Um dos produtos vendidos na YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "E no Brasil?",
+        "paragraphs": [
+          "No Brasil, a entrega vem antes da reputação. A da YesStyle está suspensa temporariamente, e o CECILIA010 só ajuda quando ela voltar. As regras dela para o país estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "A StyleKorean mostra o Brasil no seletor de país e um catálogo de itens que diz poder enviar para cá, mas isso não confirma a entrega: a tabela de frete não traz o país, e não encontramos relato de entrega. Antes de pagar, veja se o checkout aceita o seu endereço, qual é o frete e se os impostos entram na conta ou podem ser cobrados depois."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A StyleKorean é golpe? A loja é operada pela Silicon2, empresa identificada e listada na Coreia. Os relatos que lemos tratam de entrega, taxas e reembolso, e alguns avaliadores falam em fraude nesses casos. Isso não permite tratar nota baixa como prova de fraude nem garantir que cada pedido será resolvido.",
+          "A StyleKorean vende produto original? A loja declara que os produtos são autênticos e vêm das marcas ou de fornecedores confiáveis na Coreia. Nenhuma das 60 avaliações que lemos diz que recebeu produto falso. Não encontramos auditoria independente, e não compramos na loja para testar.",
+          "De onde é a StyleKorean? Da Coreia do Sul. É operada pela Silicon2, de Seongnam, e envia da Coreia.",
+          "Por que cobraram imposto na entrega? Porque, fora dos EUA e do Canadá, a loja deixa os encargos fora do preço e por conta do cliente, e eles podem ser cobrados antes da entrega.",
+          "O que acontece se eu recusar o pacote? Se a recusa for por questão de alfândega, como imposto não pago, a política da loja exclui reembolso e reenvio.",
+          "Consigo reembolso na StyleKorean? A política prevê reembolso em pontos da loja, com validade de 6 meses, ou na forma de pagamento. Para esta última, menciona 2 a 14 dias úteis. Há avaliadores que relatam demora ou falta de reembolso.",
+          "Tem código da StyleKorean aqui? Não. O CECILIA010 é só da YesStyle e não funciona na StyleKorean."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "O produto que você quer só aparece nela, ou custa menos nela já com frete e encargos.",
+        "Você estimou os encargos do seu destino e a compra ainda compensa se houver cobrança antes da entrega."
+      ],
+      "skipIf": [
+        "As queixas de atraso e reembolso e a forma como a loja responde pesam mais para você do que a economia.",
+        "O mesmo produto está na YesStyle, e ela entrega no seu endereço.",
+        "Uma cobrança surpresa na entrega pesa no seu bolso, já que recusar o pacote não dá reembolso."
+      ]
+    },
+    "cta": {
+      "text": "Cole o CECILIA010 no campo Reward Code e confira o total no checkout",
+      "label": "Ir para a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Podemos receber comissão na YesStyle; não recebemos da StyleKorean. Não compramos na StyleKorean: o texto vem das páginas públicas e das avaliações.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-ou-stylekorean"
+      },
+      {
+        "slug": "yesstyle-trustpilot-nota-reclamacoes"
+      },
+      {
+        "slug": "yesstyle-e-confiavel"
+      },
+      {
+        "slug": "yesstyle-entrega-no-brasil-e-portugal"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 877,
+    "slug": "is-stylekorean-legit",
+    "locale": "en",
+    "translationKey": "stylekorean-trust",
+    "title": "Is StyleKorean legit? The company is real; the complaints are about delivery, fees and refunds",
+    "seoTitle": "Is StyleKorean legit? Rating, complaints and what to check",
+    "type": "Reputation Analysis",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "StyleKorean belongs to a company listed in Korea and rates 1.9 on Trustpilot. See what the 60 most recent reviews say and what to check before you pay for an order.",
+    "metaDescription": "Reward Code CECILIA010 gives up to 5% extra at YesStyle. Is StyleKorean legit? Rating 1.9, complaints and what to check before paying.",
+    "publishedAt": "November 9, 2026",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "Korean skincare products sold at YesStyle, with the title StyleKorean? and the code CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "StyleKorean is run by Silicon2, a company listed in Korea. Its 1.9 rating on Trustpilot (137 reviews) means the delivery and fee complaints deserve a close look. Go with YesStyle if you put reputation first: it rates 4.4 on Trustpilot, and CECILIA010 adds up to 5% extra."
+        ]
+      },
+      {
+        "heading": "Who is behind StyleKorean",
+        "paragraphs": [
+          "StyleKorean is the online store of Silicon2, a company based in Seongnam, South Korea. The company name appears in the store's own FAQ and footer. According to the company history Silicon2 publishes, it was founded in 2002, launched the global StyleKorean site in 2015, listed on the KOSDAQ, the Korean stock exchange, in 2021, and recorded revenue of KRW 1.12 trillion (Korean won) in 2025.",
+          "That shows the company exists, not that your order will arrive. For that, see the customer reports further down."
+        ],
+        "links": [
+          {
+            "label": "Silicon2 company history",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "The rating, and what it measures",
+        "paragraphs": [
+          "StyleKorean rates 1.9 on Trustpilot, and 63% of its reviews are 1 star. The gap to YesStyle is large, with a caveat about the size and origin of the reviews."
+        ],
+        "comparisonTable": {
+          "caption": "Profiles on trustpilot.com, read in November.",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "Rating",
+              "1.9",
+              "4.4"
+            ],
+            [
+              "Reviews",
+              "137",
+              "104,972"
+            ],
+            [
+              "In the last 12 months",
+              "45",
+              "11,618"
+            ],
+            [
+              "5 stars",
+              "28%",
+              "71%"
+            ],
+            [
+              "2 to 4 stars",
+              "9%",
+              "22%"
+            ],
+            [
+              "1 star",
+              "63%",
+              "7%"
+            ],
+            [
+              "Invites customers to review",
+              "Not recently",
+              "Yes"
+            ],
+            [
+              "Negative reviews answered",
+              "22%, usually after more than 1 month",
+              "99%, usually within 24 h"
+            ],
+            [
+              "Profile claimed in",
+              "2026",
+              "2013"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Trustpilot says StyleKorean has not invited customers to review recently and warns that its reviews may not be representative. YesStyle does invite customers to review. The two collect reviews differently; that fact alone does not explain the gap between the ratings.",
+          "The store answers 22% of negative reviews. The app on the US App Store rates 2.7 across 135 ratings: that is a rating of the app, not a measure of delivery."
+        ],
+        "links": [
+          {
+            "label": "StyleKorean on Trustpilot",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "YesStyle on Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "StyleKorean app on the US App Store",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "What the 60 most recent reviews say",
+        "paragraphs": [
+          "We read the 60 most recent reviews on the profile, all of them unprompted, and sorted each by its main subject. There are 12 positive and 48 negative: 44 with 1 star and 4 with 2 stars. Delivery and customs account for 26 of the 48."
+        ],
+        "comparisonTable": {
+          "caption": "Trustpilot reviews from March 2025 to October 2026. Our classification, one subject per review.",
+          "headers": [
+            "Main subject of the 48 negative reviews",
+            "Reviews"
+          ],
+          "rows": [
+            [
+              "Delivery stalled, late, never shipped or lost",
+              "13"
+            ],
+            [
+              "Customs: unexpected fee or parcel held",
+              "13"
+            ],
+            [
+              "Cancellation, refund or return",
+              "9"
+            ],
+            [
+              "Item missing, wrong or damaged",
+              "6"
+            ],
+            [
+              "Website, account or payment",
+              "4"
+            ],
+            [
+              "Other",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "On delivery, reviewers report orders stuck in preparation and parcels that never arrive. On customs, they report unexpected charges on delivery, including in Europe and the UK, and parcels held in the US; three of them blame the hold on missing documents from the store. On cancellations, they report money that never comes back and orders shipped after they asked to cancel. Some use the word fraud when describing these cases, and we have no way to verify them.",
+          "This count describes the sample and cannot be turned into a failure rate. It shows what the complaints in the sample are about, not how many orders go wrong."
+        ]
+      },
+      {
+        "heading": "What the positive reviews praise",
+        "paragraphs": [
+          "That is 12 of the 60: 11 with 5 stars and 1 with 4. The praise mentions fast delivery, good packaging and price. Two, from the UK, report tax paid at checkout with no charge on delivery, and one reports a refund after a stalled parcel. Two of the positive reviews say they paid charges on delivery.",
+          "The same store shows up with orders that arrive in a week and with orders stuck for months. The sample does not say what separates one case from the other."
+        ]
+      },
+      {
+        "heading": "What the store promises and what reviewers report",
+        "paragraphs": [
+          "The second column comes from StyleKorean's shipping, returns and FAQ pages. The third comes from the reviews."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Topic",
+            "What the store publishes",
+            "What reviewers report"
+          ],
+          "rows": [
+            [
+              "Tax",
+              "Not in the price and at your expense; in the US and Canada, charged at checkout",
+              "Unexpected charge on delivery; in the UK, some report tax paid at checkout with no further charge and others report paying twice"
+            ],
+            [
+              "Refusing the parcel",
+              "No refund and no reshipping",
+              "Parcel returned or destroyed, with no money back"
+            ],
+            [
+              "Dispatch",
+              "Up to 5 business days to the carrier; the FAQ says 72 business hours",
+              "Order stuck in preparation; some praise the speed"
+            ],
+            [
+              "Refund",
+              "In store points or to the payment method; for the latter, the policy mentions 2 to 14 business days",
+              "Delayed or missing refunds on canceled and undelivered orders"
+            ],
+            [
+              "Damage",
+              "Photos and receipt; refund by degree of damage, no reshipping",
+              "No solution from support"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "StyleKorean shipping page",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "StyleKorean refund policy",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "StyleKorean FAQ",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "The store's replies",
+        "paragraphs": [
+          "StyleKorean answers 22% of negative reviews, usually after more than 1 month. The profile was claimed in September. In the sample, 10 of the 60 have a reply, all from the end of that month, and they reach back to reviews from June; the most recent, from October, has no reply. Several replies ask the customer to contact support through their own account. At YesStyle, the rate is 99%, usually within 24 hours.",
+          "We don't know how many of these cases ended up resolved."
+        ]
+      },
+      {
+        "heading": "Are the products authentic?",
+        "paragraphs": [
+          "StyleKorean's FAQ states that all products are authentic and come straight from the brands or from trusted suppliers in Korea. None of the 60 reviews says the buyer received a fake product.",
+          "That is as far as we can go. We found no independent audit and did not buy from the store to test it. The absence of complaints in a small sample does not guarantee that every product is authentic."
+        ]
+      },
+      {
+        "heading": "What we can't conclude",
+        "bullets": [
+          "**How often an order goes wrong:** Trustpilot shows who wrote, not the total number of orders.",
+          "**Which country carries more risk:** the complaints come from the US, Canada, the UK, Italy, Germany, Spain, the UAE and Saudi Arabia, among others, in numbers too small to compare.",
+          "**Whether support improved with the replies on Trustpilot:** the profile only recently started answering.",
+          "**Whether it is more or less safe than any other store:** the only comparison here is with YesStyle."
+        ]
+      },
+      {
+        "heading": "Before you pay",
+        "paragraphs": [
+          "If the product you want is only at StyleKorean, or costs much less there, check in this order:"
+        ],
+        "bullets": [
+          "**Check shipping and delivery time in the cart, with your address.** Free shipping varies by country.",
+          "**Work out the tax for your country.** Outside the US and Canada, it can be charged before delivery, at your expense.",
+          "**Decide beforehand whether you accept paying that charge.** Refusing the parcel over customs gets no refund and no reshipping.",
+          "**Stay within the US$500 limit per order, not counting shipping.** Above that, the store recommends placing two orders.",
+          "**Keep the order number, tracking, receipts and photos of the parcel.** For damage, the store asks for photos and the receipt.",
+          "**Mark the 14 business days to request a return, counted from receipt.** On a return at your request, shipping is deducted from the refund, even if it was free at purchase. The store does not accept returns for allergic reactions."
+        ]
+      },
+      {
+        "heading": "When to consider YesStyle",
+        "paragraphs": [
+          "Go with YesStyle if it delivers to your address and you put weight on Trustpilot reputation. The rating is higher and the store answers almost all negative reviews on its profile. It also has delivery and tracking complaints, covered in [YesStyle on Trustpilot](/en/reviews/yesstyle-trustpilot-reviews).",
+          "CECILIA010 gives 5% extra on the first purchase and 2% on later ones, and stacks with the store's eligible coupons. It goes in the Reward Code field at checkout. Before deciding on price, see [YesStyle vs StyleKorean: which is worth it for your wallet?](/en/reviews/yesstyle-vs-stylekorean), with the same products at both stores, shipping, tax and returns. The current coupons are in [YesStyle coupons and Reward Code](/en/coupons/yesstyle)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "COSRX Advanced Snail 96 Mucin Power Essence, 100 ml",
+            "caption": "One of the products sold at YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Beauty of Joseon Relief Sun sunscreen, 50 ml",
+            "caption": "One of the products sold at YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "SKIN1004 Madagascar Centella Ampoule, 100 ml",
+            "caption": "One of the products sold at YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "Round Lab 1025 Dokdo Toner, 200 ml",
+            "caption": "One of the products sold at YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "What about other countries?",
+        "paragraphs": [
+          "The answer depends on where you live. In the US and Canada, the store says customs charges are paid at checkout. In the UK, reviewers split: some report VAT paid at checkout with no further charge, others report paying twice. Elsewhere, check the checkout: see whether it accepts your address, what the shipping costs, and whether taxes are included or may be collected later.",
+          "YesStyle's rules by country are in [our YesStyle shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is StyleKorean safe, or a scam? The store is run by Silicon2, a company that is identified and listed in Korea. The reports we read are about delivery, fees and refunds, and some reviewers use the word fraud for those cases. A low rating is not proof of fraud, and nothing here guarantees that every order will be resolved.",
+          "Does StyleKorean sell authentic products? The store states that its products are authentic and come from the brands or from trusted suppliers in Korea. None of the 60 reviews we read says the buyer received a fake product. We found no independent audit, and we did not buy from the store to test it.",
+          "Where is StyleKorean from? South Korea. It is run by Silicon2, from Seongnam, and ships from Korea.",
+          "Why was I charged tax on delivery? Because, outside the US and Canada, the store does not include charges in the price and leaves them to the customer, and they can be collected before delivery.",
+          "What happens if I refuse the parcel? If the refusal is over a customs issue, such as unpaid tax, the store's policy excludes refund and reshipping.",
+          "Can I get a refund at StyleKorean? The policy provides for a refund in store points, valid for 6 months, or to the payment method. For the latter, it mentions 2 to 14 business days. Some reviewers report delayed or missing refunds.",
+          "Do you have a StyleKorean code? No. CECILIA010 is only for YesStyle and does not work at StyleKorean."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "The product you want is only there, or costs less there even with shipping and charges.",
+        "You have estimated the charges for your destination and the purchase still makes sense if there is a charge before delivery."
+      ],
+      "skipIf": [
+        "The delay and refund complaints, and the way the store responds, weigh more for you than the savings.",
+        "The same product is at YesStyle, and it delivers to your address.",
+        "A surprise charge on delivery would hurt your wallet, since refusing the parcel gets no refund."
+      ]
+    },
+    "cta": {
+      "text": "Paste CECILIA010 in the Reward Code field and check the total at checkout",
+      "label": "Go to YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "We may earn a commission at YesStyle; we do not receive one from StyleKorean. We did not buy from StyleKorean: the text comes from public pages and reviews.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-stylekorean"
+      },
+      {
+        "slug": "yesstyle-trustpilot-reviews"
+      },
+      {
+        "slug": "is-yesstyle-legit-and-safe-review"
+      },
+      {
+        "slug": "yesstyle-shipping-us-uk-canada-australia"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 878,
+    "slug": "stylekorean-es-confiable",
+    "locale": "es",
+    "translationKey": "stylekorean-trust",
+    "title": "¿StyleKorean es confiable? La empresa es real; las quejas son de envío, tasas y reembolso",
+    "seoTitle": "¿StyleKorean es confiable? Nota, quejas y qué revisar",
+    "type": "Análisis de reputación",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "StyleKorean es de una empresa que cotiza en Corea y tiene nota 1,9 en Trustpilot. Mira qué dicen las 60 valoraciones más recientes y qué revisar antes de pagar.",
+    "metaDescription": "El código de recompensa CECILIA010 da hasta 5 % extra en YesStyle. ¿StyleKorean es confiable? Nota 1,9, quejas y qué revisar antes de pagar.",
+    "publishedAt": "9 de noviembre de 2026",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "Productos de cuidado facial coreano vendidos en YesStyle, con el título StyleKorean? y el código CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "StyleKorean es de Silicon2, una empresa que cotiza en bolsa en Corea. Su nota de 1,9 en Trustpilot (137 valoraciones) pide atención a las quejas de envío y tasas. Ve a YesStyle si das prioridad a la reputación en Trustpilot: nota 4,4 y el código de recompensa CECILIA010 con hasta 5 % extra."
+        ]
+      },
+      {
+        "heading": "Quién es StyleKorean",
+        "paragraphs": [
+          "StyleKorean es la tienda online de Silicon2, una empresa de Seongnam, en Corea del Sur. El nombre de la empresa figura en las preguntas frecuentes y en el pie de la propia tienda. Según el historial que publica Silicon2, se fundó en 2002, abrió el sitio global de StyleKorean en 2015, entró en el KOSDAQ, la bolsa coreana, en 2021 y registró una facturación de 1,12 billones de wones, la moneda coreana, en 2025.",
+          "Eso muestra que la empresa existe, no que tu pedido llegue. Para eso, mira los relatos de clientes más abajo."
+        ],
+        "links": [
+          {
+            "label": "Historial de Silicon2, en inglés",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "La nota y lo que mide",
+        "paragraphs": [
+          "StyleKorean tiene nota 1,9 en Trustpilot, y el 63 % de las valoraciones son de 1 estrella. La diferencia con YesStyle es grande, con una salvedad sobre el tamaño y el origen de las valoraciones."
+        ],
+        "comparisonTable": {
+          "caption": "Perfiles en trustpilot.com, consultados en noviembre.",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "Nota",
+              "1,9",
+              "4,4"
+            ],
+            [
+              "Valoraciones",
+              "137",
+              "104.972"
+            ],
+            [
+              "En los últimos 12 meses",
+              "45",
+              "11.618"
+            ],
+            [
+              "5 estrellas",
+              "28 %",
+              "71 %"
+            ],
+            [
+              "2 a 4 estrellas",
+              "9 %",
+              "22 %"
+            ],
+            [
+              "1 estrella",
+              "63 %",
+              "7 %"
+            ],
+            [
+              "Invita a los clientes a valorar",
+              "No recientemente",
+              "Sí"
+            ],
+            [
+              "Negativas respondidas",
+              "22 %, en general tras más de 1 mes",
+              "99 %, en general en 24 h"
+            ],
+            [
+              "Perfil reclamado en",
+              "2026",
+              "2013"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Trustpilot informa de que StyleKorean no ha invitado a clientes recientemente y avisa de que las valoraciones pueden no ser representativas. YesStyle invita a los clientes a valorar. Son formas de recogida distintas; ese dato no explica por sí solo la diferencia entre las notas.",
+          "La tienda responde al 22 % de las valoraciones negativas. La app en la App Store de EE. UU. tiene nota 2,7 con 135 valoraciones: es una valoración de la aplicación, no una medida del envío."
+        ],
+        "links": [
+          {
+            "label": "StyleKorean en Trustpilot",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "YesStyle en Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "App de StyleKorean en la App Store de EE. UU.",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "Qué dicen las 60 valoraciones más recientes",
+        "paragraphs": [
+          "Leímos las 60 valoraciones más recientes del perfil, todas espontáneas, y las separamos por asunto principal. Son 12 positivas y 48 negativas: 44 de 1 estrella y 4 de 2 estrellas. Envío y aduana suman 26 de las 48."
+        ],
+        "comparisonTable": {
+          "caption": "Valoraciones en Trustpilot de marzo de 2025 a octubre de 2026. Clasificación nuestra, con un asunto por valoración.",
+          "headers": [
+            "Asunto principal de las 48 negativas",
+            "Valoraciones"
+          ],
+          "rows": [
+            [
+              "Envío parado, retrasado, sin enviar o extraviado",
+              "13"
+            ],
+            [
+              "Aduana: cargo inesperado o paquete retenido",
+              "13"
+            ],
+            [
+              "Cancelación, reembolso o devolución",
+              "9"
+            ],
+            [
+              "Artículo que falta, equivocado o dañado",
+              "6"
+            ],
+            [
+              "Sitio, cuenta o pago",
+              "4"
+            ],
+            [
+              "Otros",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En el envío, los usuarios relatan pedidos parados en preparación y paquetes que no llegan. En la aduana, relatan un cobro inesperado al recibir el pedido, también en Europa y en Reino Unido, y paquetes retenidos en EE. UU.; tres de ellos atribuyen la retención a la falta de documentos de la tienda. En la cancelación, relatan dinero que no vuelve y pedidos enviados después de haber pedido la cancelación. Algunos hablan de fraude al contar esos casos, y no podemos comprobarlos.",
+          "Este recuento describe la muestra y no se puede convertir en una tasa de fallos. Muestra dónde están las quejas de quienes decidieron escribir, sin decir cuántos pedidos salen mal."
+        ]
+      },
+      {
+        "heading": "Quién elogia, y qué elogia",
+        "paragraphs": [
+          "Son 12 de las 60: 11 de 5 estrellas y 1 de 4. Los elogios hablan de envío rápido, buen embalaje y precio. Dos, en Reino Unido, relatan que pagaron el impuesto al comprar, sin cobro en la entrega, y uno relata un reembolso después de un paquete parado. Dos elogios cuentan que pagaron cargos en la entrega.",
+          "La misma tienda aparece con pedidos que llegan en una semana y con pedidos parados durante meses. La muestra no dice qué separa un caso del otro."
+        ]
+      },
+      {
+        "heading": "Lo que promete la tienda y lo que relatan",
+        "paragraphs": [
+          "La segunda columna viene de las páginas de envío, devolución y preguntas frecuentes de StyleKorean. La tercera, de las valoraciones."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tema",
+            "Lo que publica la tienda",
+            "Lo que cuentan los usuarios"
+          ],
+          "rows": [
+            [
+              "Impuesto",
+              "Fuera del precio y por tu cuenta; en EE. UU. y Canadá, se cobra al pagar",
+              "Cobro inesperado en la entrega; en Reino Unido, hay quien cuenta que pagó el impuesto al comprar sin nuevo cobro y quien cuenta que pagó dos veces"
+            ],
+            [
+              "Rechazo del paquete",
+              "Sin reembolso ni reenvío",
+              "Paquete devuelto o destruido, sin recuperar el dinero"
+            ],
+            [
+              "Despacho",
+              "Hasta 5 días hábiles para entregar el pedido al transportista; las preguntas frecuentes hablan de 72 horas hábiles",
+              "Pedido parado en preparación; hay quien elogia la rapidez"
+            ],
+            [
+              "Reembolso",
+              "En puntos de la tienda o en el método de pago; para este último, la política menciona de 2 a 14 días hábiles",
+              "Retraso o falta de reembolso de pedidos cancelados y no entregados"
+            ],
+            [
+              "Avería",
+              "Fotos y comprobante; reembolso según el grado del daño, sin reenvío",
+              "Falta de solución por parte de atención al cliente"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Envío de StyleKorean, en inglés",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "Devolución de StyleKorean, en inglés",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "Preguntas frecuentes de StyleKorean, en inglés",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "Las respuestas de la tienda",
+        "paragraphs": [
+          "StyleKorean responde al 22 % de las valoraciones negativas, en general tras más de 1 mes. El perfil se reclamó en septiembre. En la muestra, 10 de las 60 tienen respuesta, todas de finales de ese mes, y llegan hasta valoraciones de junio; la más reciente, de octubre, está sin respuesta. Varias respuestas piden al cliente que contacte con atención al cliente desde su propia cuenta. En YesStyle, la tasa es del 99 %, en general en 24 horas.",
+          "No sabemos cuántos de esos casos acabaron resueltos."
+        ]
+      },
+      {
+        "heading": "¿Los productos son originales?",
+        "paragraphs": [
+          "Las preguntas frecuentes de StyleKorean declaran que todos los productos son auténticos y vienen directamente de las marcas o de proveedores de confianza en Corea. Ninguna de las 60 valoraciones dice que recibió un producto falso.",
+          "Ese es el límite de lo que se puede afirmar. No encontramos una auditoría independiente y no compramos en la tienda para probar. La ausencia de quejas en una muestra pequeña no garantiza que todo producto sea original."
+        ]
+      },
+      {
+        "heading": "Lo que no se puede concluir",
+        "bullets": [
+          "**Con qué frecuencia sale mal un pedido:** Trustpilot muestra quién escribió, no el total de pedidos.",
+          "**Qué país corre más riesgo:** las quejas vienen de EE. UU., Canadá, Reino Unido, Italia, Alemania, España, Emiratos Árabes y Arabia Saudí, entre otros, en número demasiado pequeño para comparar.",
+          "**Si la atención mejoró con las respuestas en Trustpilot:** el perfil empezó a responder hace poco.",
+          "**Si es más o menos segura que cualquier otra tienda:** la comparación aquí es solo con YesStyle."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "paragraphs": [
+          "Si el producto que quieres solo está en StyleKorean, o sale bastante más barato allí, comprueba en este orden:"
+        ],
+        "bullets": [
+          "**Mira el envío y el plazo en el carrito, con tu dirección.** El envío gratis cambia según el país.",
+          "**Calcula el impuesto de tu país.** Fuera de EE. UU. y Canadá, puede cobrarse antes de la entrega, por tu cuenta.",
+          "**Decide antes si aceptas pagar ese cobro.** Rechazar el paquete por la aduana no da reembolso ni reenvío.",
+          "**Mantente dentro del límite de US$ 500 por pedido, sin contar el envío.** Por encima, la tienda recomienda hacer dos pedidos.",
+          "**Guarda el número del pedido, el seguimiento, los comprobantes y las fotos del paquete.** En caso de avería, la tienda pide fotos y el comprobante.",
+          "**Anota el plazo de 14 días hábiles para pedir la devolución, contados desde la recepción.** En una devolución a petición tuya, el envío se descuenta del reembolso, incluso si fue gratis en la compra. La tienda no acepta devoluciones por alergia."
+        ]
+      },
+      {
+        "heading": "Cuándo considerar YesStyle",
+        "paragraphs": [
+          "Ve a YesStyle si entrega en tu dirección y das peso a la reputación en Trustpilot. La nota es más alta y la tienda responde a casi todas las valoraciones negativas del perfil. También tiene quejas de envío y seguimiento, que están en [YesStyle en Trustpilot](/es/reviews/yesstyle-opiniones-trustpilot).",
+          "El código de recompensa CECILIA010 da 5 % extra en la primera compra y 2 % en las siguientes, y se suma a los cupones elegibles de la tienda. Se escribe en el campo Reward Code del pago. Antes de decidir por precio, mira [YesStyle o StyleKorean: ¿cuál compensa para tu bolsillo?](/es/reviews/yesstyle-o-stylekorean-cual-elegir), con los mismos productos en las dos tiendas, envío, impuestos y devolución. Los cupones del momento están en [cupones y código de recompensa de YesStyle](/es/coupons/yesstyle)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "Esencia COSRX Advanced Snail 96 Mucin Power, 100 ml",
+            "caption": "Uno de los productos que se venden en YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Protector solar Relief Sun de Beauty of Joseon, 50 ml",
+            "caption": "Uno de los productos que se venden en YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Ampolla Madagascar Centella de SKIN1004, 100 ml",
+            "caption": "Uno de los productos que se venden en YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "Tónico 1025 Dokdo de Round Lab, 200 ml",
+            "caption": "Uno de los productos que se venden en YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "¿Y en otros países?",
+        "paragraphs": [
+          "En cualquier destino, la entrega va antes que la reputación. Si YesStyle no entrega en tu dirección, el CECILIA010 no te sirve. Las reglas de YesStyle por país están en [nuestra guía de envíos de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "España figura entre los países de las quejas, y los usuarios relatan cobros inesperados en la aduana en Europa. En México y en los demás destinos, comprueba en el carrito, antes de pagar, si la tienda acepta tu dirección, cuál es el envío y si los impuestos entran en la cuenta o pueden cobrarse después."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿StyleKorean es una estafa? La tienda la opera Silicon2, una empresa identificada y que cotiza en Corea. Los relatos que leímos tratan de envío, tasas y reembolso, y algunos usuarios hablan de fraude en esos casos. Eso no permite tratar una nota baja como prueba de fraude ni garantizar que cada pedido se resolverá.",
+          "¿StyleKorean vende producto original? La tienda declara que los productos son auténticos y vienen de las marcas o de proveedores de confianza en Corea. Ninguna de las 60 valoraciones que leímos dice que recibió un producto falso. No encontramos una auditoría independiente, y no compramos en la tienda para probar.",
+          "¿De dónde es StyleKorean? De Corea del Sur. La opera Silicon2, de Seongnam, y envía desde Corea.",
+          "¿Por qué me cobraron impuesto en la entrega? Porque, fuera de EE. UU. y Canadá, la tienda deja los cargos fuera del precio y por cuenta del cliente, y pueden cobrarse antes de la entrega.",
+          "¿Qué pasa si rechazo el paquete? Si el rechazo es por una cuestión de aduana, como un impuesto no pagado, la política de la tienda excluye el reembolso y el reenvío.",
+          "¿Consigo reembolso en StyleKorean? La política prevé reembolso en puntos de la tienda, con validez de 6 meses, o en el método de pago. Para este último, menciona de 2 a 14 días hábiles. Hay usuarios que relatan retraso o falta de reembolso.",
+          "¿Hay código de StyleKorean aquí? No. El CECILIA010 es solo de YesStyle y no funciona en StyleKorean."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "El producto que quieres solo aparece allí, o cuesta menos allí ya con envío y cargos.",
+        "Estimaste los cargos de tu destino y la compra sigue compensando si hay un cobro antes de la entrega."
+      ],
+      "skipIf": [
+        "Las quejas de retraso y reembolso y la forma en que responde la tienda pesan más para ti que el ahorro.",
+        "El mismo producto está en YesStyle, y entrega en tu dirección.",
+        "Un cobro sorpresa en la entrega pesa en tu bolsillo, ya que rechazar el paquete no da reembolso."
+      ]
+    },
+    "cta": {
+      "text": "Pega el CECILIA010 en el campo Reward Code y comprueba el total en el pago",
+      "label": "Ir a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Podemos recibir comisión de YesStyle; no la recibimos de StyleKorean. No compramos en StyleKorean: el texto viene de las páginas públicas y de las valoraciones.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-o-stylekorean-cual-elegir"
+      },
+      {
+        "slug": "yesstyle-opiniones-trustpilot"
+      },
+      {
+        "slug": "es-yesstyle-de-fiar-y-seguro"
+      },
+      {
+        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 879,
+    "slug": "stylekorean-fiable-avis",
+    "locale": "fr",
+    "translationKey": "stylekorean-trust",
+    "title": "StyleKorean est-elle fiable ? L'entreprise existe ; les plaintes portent sur la livraison, les taxes et les remboursements",
+    "seoTitle": "StyleKorean est-elle fiable ? Avis, note et plaintes",
+    "type": "Analyse de réputation",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "StyleKorean appartient à une société cotée en Corée et a 1,9 sur Trustpilot. Voici ce que disent les 60 avis les plus récents et ce qu'il faut vérifier avant de payer.",
+    "metaDescription": "Le code récompense CECILIA010 donne jusqu'à 5 % de plus chez YesStyle. StyleKorean est-elle fiable ? Note 1,9, plaintes, à vérifier avant de payer.",
+    "publishedAt": "9 novembre 2026",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "Produits de soins coréens vendus chez YesStyle, avec le titre StyleKorean? et le code CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "StyleKorean appartient à Silicon2, société cotée en Corée. Sa note de 1,9 sur Trustpilot (137 avis) appelle à la prudence sur la livraison et les taxes. Choisissez YesStyle si la réputation prime : note de 4,4 et CECILIA010 jusqu'à 5 % de plus."
+        ]
+      },
+      {
+        "heading": "Qui est StyleKorean",
+        "paragraphs": [
+          "StyleKorean est la boutique en ligne de Silicon2, une société de Seongnam, en Corée du Sud. Le nom de l'entreprise figure dans la FAQ et en bas de page de la boutique. D'après l'historique publié par Silicon2, elle a été fondée en 2002, a lancé le site mondial de StyleKorean en 2015, est entrée au KOSDAQ, la bourse coréenne, en 2021 et a enregistré un chiffre d'affaires de 1,12 billion de wons, la monnaie coréenne, en 2025.",
+          "Cela montre que l'entreprise existe, pas que votre commande arrive. Pour cela, voyez les témoignages de clients plus bas."
+        ],
+        "links": [
+          {
+            "label": "Historique de Silicon2, en anglais",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "La note, et ce qu'elle mesure",
+        "paragraphs": [
+          "StyleKorean a 1,9 sur Trustpilot, et 63 % des avis sont à 1 étoile. L'écart avec YesStyle est grand, avec une réserve : la taille et l'origine des avis."
+        ],
+        "comparisonTable": {
+          "caption": "Profils sur trustpilot.com, consultés en novembre.",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "Note",
+              "1,9",
+              "4,4"
+            ],
+            [
+              "Avis",
+              "137",
+              "104 972"
+            ],
+            [
+              "Sur les 12 derniers mois",
+              "45",
+              "11 618"
+            ],
+            [
+              "5 étoiles",
+              "28 %",
+              "71 %"
+            ],
+            [
+              "2 à 4 étoiles",
+              "9 %",
+              "22 %"
+            ],
+            [
+              "1 étoile",
+              "63 %",
+              "7 %"
+            ],
+            [
+              "Invite les clients à noter",
+              "Pas récemment",
+              "Oui"
+            ],
+            [
+              "Avis négatifs avec réponse",
+              "22 %, en général après plus d'un mois",
+              "99 %, en général sous 24 h"
+            ],
+            [
+              "Profil revendiqué en",
+              "2026",
+              "2013"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Trustpilot indique que StyleKorean n'a pas invité ses clients récemment et prévient que les avis peuvent ne pas être représentatifs. YesStyle invite ses clients à noter. Ce sont deux modes de collecte différents ; ce seul point n'explique pas l'écart entre les notes.",
+          "La boutique répond à 22 % des avis négatifs. L'application sur l'App Store américain a 2,7 sur 135 avis : c'est une note de l'application, pas une mesure de la livraison."
+        ],
+        "links": [
+          {
+            "label": "StyleKorean sur Trustpilot",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "YesStyle sur Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "Application StyleKorean sur l'App Store américain",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "Ce que disent les 60 avis les plus récents",
+        "paragraphs": [
+          "Nous avons lu les 60 avis les plus récents du profil, tous spontanés, et classé chacun par sujet principal. On compte 12 positifs et 48 négatifs : 44 à 1 étoile et 4 à 2 étoiles. Livraison et douane en totalisent 26 sur 48."
+        ],
+        "comparisonTable": {
+          "caption": "Avis Trustpilot de mars 2025 à octobre 2026. Classement de notre part, un sujet par avis.",
+          "headers": [
+            "Sujet principal des 48 avis négatifs",
+            "Avis"
+          ],
+          "rows": [
+            [
+              "Livraison bloquée, en retard, jamais expédiée ou perdue",
+              "13"
+            ],
+            [
+              "Douane : frais inattendus ou colis retenu",
+              "13"
+            ],
+            [
+              "Annulation, remboursement ou retour",
+              "9"
+            ],
+            [
+              "Article manquant, erroné ou abîmé",
+              "6"
+            ],
+            [
+              "Site, compte ou paiement",
+              "4"
+            ],
+            [
+              "Autres",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Côté livraison, les auteurs d'avis relatent une commande bloquée en préparation et un colis qui n'arrive pas. Côté douane, ils relatent des frais inattendus à la réception, y compris en Europe et au Royaume-Uni, et un colis retenu aux États-Unis ; trois d'entre eux attribuent la retenue à des documents manquants côté boutique. Côté annulation, ils relatent un remboursement qui n'arrive pas et une commande expédiée après une demande d'annulation. Certains parlent de fraude en racontant ces cas, et nous ne pouvons pas les vérifier.",
+          "Ce décompte décrit l'échantillon et ne peut pas se transformer en taux d'échec. Il montre où se concentrent les plaintes de ceux qui ont écrit, sans dire combien de commandes tournent mal."
+        ]
+      },
+      {
+        "heading": "Les avis positifs, que saluent-ils ?",
+        "paragraphs": [
+          "Ils sont 12 sur 60 : 11 à 5 étoiles et 1 à 4. Les éloges portent sur la rapidité de livraison, le bon emballage et les prix. Deux, au Royaume-Uni, relatent une taxe payée au paiement, sans frais à la livraison, et un relate un remboursement après un colis bloqué. Deux avis positifs disent avoir payé des frais à la livraison.",
+          "Une même boutique apparaît avec des commandes arrivées en une semaine et d'autres bloquées pendant des mois. L'échantillon ne dit pas ce qui sépare les deux cas."
+        ]
+      },
+      {
+        "heading": "Ce que promet la boutique et ce qui est relaté",
+        "paragraphs": [
+          "La deuxième colonne vient des pages livraison, retours et FAQ de StyleKorean. La troisième, des avis."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sujet",
+            "Ce que la boutique publie",
+            "Ce que relatent les auteurs d'avis"
+          ],
+          "rows": [
+            [
+              "Taxes",
+              "Non incluses dans le prix et à votre charge ; aux États-Unis et au Canada, perçues au paiement",
+              "Frais inattendus à la livraison ; au Royaume-Uni, certains relatent une taxe payée au paiement sans nouveau frais, d'autres un double paiement"
+            ],
+            [
+              "Refus du colis",
+              "Ni remboursement ni réexpédition",
+              "Colis renvoyé ou détruit, sans remboursement"
+            ],
+            [
+              "Expédition",
+              "Jusqu'à 5 jours ouvrés avant la remise au transporteur ; la FAQ parle de 72 heures ouvrées",
+              "Commande bloquée en préparation ; certains saluent la rapidité"
+            ],
+            [
+              "Remboursement",
+              "En points boutique ou sur le moyen de paiement ; pour ce dernier, la politique mentionne 2 à 14 jours ouvrés",
+              "Retard ou absence de remboursement des commandes annulées et non livrées"
+            ],
+            [
+              "Colis abîmé",
+              "Photos et facture ; remboursement selon le degré, sans réexpédition",
+              "Pas de solution de la part du service client"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Livraison de StyleKorean, en anglais",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "Retours de StyleKorean, en anglais",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "FAQ de StyleKorean, en anglais",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "Les réponses de la boutique",
+        "paragraphs": [
+          "StyleKorean répond à 22 % des avis négatifs, en général après plus d'un mois. Le profil a été revendiqué en septembre. Dans l'échantillon, 10 avis sur 60 ont une réponse, toutes de la fin de ce mois, et elles vont jusqu'aux avis de juin ; le plus récent, d'octobre, est sans réponse. Plusieurs réponses demandent au client de contacter le service client via son compte. Chez YesStyle, le taux est de 99 %, en général sous 24 heures.",
+          "Nous ne savons pas combien de ces cas se sont réglés."
+        ]
+      },
+      {
+        "heading": "Les produits sont-ils authentiques ?",
+        "paragraphs": [
+          "La FAQ de StyleKorean déclare que tous les produits sont authentiques et viennent directement des marques ou de fournisseurs de confiance en Corée. Aucun des 60 avis ne dit avoir reçu un faux produit.",
+          "C'est la limite de ce que l'on peut affirmer. Nous n'avons pas trouvé d'audit indépendant et n'avons pas acheté dans la boutique pour tester. L'absence de plainte dans un petit échantillon ne garantit pas que chaque produit soit authentique."
+        ]
+      },
+      {
+        "heading": "Ce que l'on ne peut pas conclure",
+        "bullets": [
+          "**À quelle fréquence une commande tourne mal :** Trustpilot montre qui a écrit, pas le total des commandes.",
+          "**Quel pays est le plus risqué :** les plaintes viennent des États-Unis, du Canada, du Royaume-Uni, d'Italie, d'Allemagne, d'Espagne, des Émirats arabes unis et d'Arabie saoudite, entre autres, en nombre trop petit pour comparer.",
+          "**Si le service client s'est amélioré avec les réponses sur Trustpilot :** le profil a commencé à répondre il y a peu.",
+          "**Si elle est plus ou moins sûre que n'importe quelle autre boutique :** la comparaison ici se fait seulement avec YesStyle."
+        ]
+      },
+      {
+        "heading": "Avant de payer",
+        "paragraphs": [
+          "Si le produit que vous voulez n'est que chez StyleKorean, ou y est bien moins cher, vérifiez dans cet ordre :"
+        ],
+        "bullets": [
+          "**Regardez les frais de livraison et le délai dans le panier, avec votre adresse.** La livraison gratuite varie selon le pays.",
+          "**Calculez les taxes de votre pays.** Hors États-Unis et Canada, elles peuvent être perçues avant la livraison, à votre charge.",
+          "**Décidez d'avance si vous acceptez de payer ces frais de douane.** Refuser le colis à cause de la douane ne donne ni remboursement ni réexpédition.",
+          "**Restez sous la limite de 500 USD par commande, hors frais de livraison.** Au-delà, la boutique recommande de passer deux commandes.",
+          "**Gardez le numéro de commande, le suivi, les justificatifs et les photos du colis.** En cas de dommage, la boutique demande des photos et la facture.",
+          "**Notez le délai de 14 jours ouvrés pour demander un retour, à compter de la réception.** Pour un retour à votre demande, les frais de livraison sont déduits du remboursement, même si la livraison était gratuite à l'achat. La boutique n'accepte pas les retours pour cause d'allergie."
+        ]
+      },
+      {
+        "heading": "Quand envisager YesStyle",
+        "paragraphs": [
+          "Choisissez YesStyle si elle livre à votre adresse et que vous donnez du poids à la réputation sur Trustpilot. La note est plus haute et la boutique répond à presque tous les avis négatifs du profil. Elle a aussi des plaintes de livraison et de suivi, détaillées dans [YesStyle sur Trustpilot](/fr/reviews/yesstyle-avis-trustpilot).",
+          "Le code récompense CECILIA010 donne 5 % de plus sur le premier achat et 2 % sur les suivants, et se cumule avec les coupons éligibles de la boutique. Il se saisit dans le champ Reward Code du paiement. Avant de décider au prix, voyez [YesStyle ou StyleKorean : laquelle vaut le coup pour votre porte-monnaie ?](/fr/reviews/yesstyle-ou-stylekorean-que-choisir), avec les mêmes produits dans les deux boutiques, la livraison, les taxes et les retours. Les coupons du moment sont dans [coupons et code récompense YesStyle](/fr/coupons/yesstyle)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "Essence COSRX Advanced Snail 96 Mucin Power, 100 ml",
+            "caption": "Un des produits vendus chez YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Crème solaire Relief Sun de Beauty of Joseon, 50 ml",
+            "caption": "Un des produits vendus chez YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Ampoule Madagascar Centella de SKIN1004, 100 ml",
+            "caption": "Un des produits vendus chez YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "Tonique 1025 Dokdo de Round Lab, 200 ml",
+            "caption": "Un des produits vendus chez YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "Et dans les autres pays ?",
+        "paragraphs": [
+          "Dans les autres pays, la livraison passe avant la réputation. Les règles de YesStyle par pays sont dans [notre guide de livraison YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "StyleKorean affiche un sélecteur de pays, mais cela ne confirme pas la livraison à votre adresse. Avant de payer, vérifiez si le paiement accepte votre adresse, quels sont les frais de livraison et si les taxes sont incluses ou peuvent être perçues plus tard."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "StyleKorean est-elle une arnaque ? La boutique est exploitée par Silicon2, société identifiée et cotée en Corée. Les témoignages que nous avons lus portent sur la livraison, les taxes et les remboursements, et certains auteurs d'avis parlent de fraude dans ces cas. Cela ne permet ni de traiter une note basse comme une preuve de fraude, ni de garantir que chaque commande sera réglée.",
+          "StyleKorean vend-elle des produits authentiques ? La boutique déclare que ses produits sont authentiques et viennent des marques ou de fournisseurs de confiance en Corée. Aucun des 60 avis que nous avons lus ne dit avoir reçu un faux produit. Nous n'avons pas trouvé d'audit indépendant et n'avons pas acheté dans la boutique pour tester.",
+          "D'où vient StyleKorean ? De Corée du Sud. Elle est exploitée par Silicon2, de Seongnam, et expédie depuis la Corée.",
+          "Pourquoi m'a-t-on demandé de payer des frais à la livraison ? Parce que, hors États-Unis et Canada, la boutique laisse les frais de douane hors du prix et à la charge du client, et ils peuvent être perçus avant la livraison.",
+          "Que se passe-t-il si je refuse le colis ? Si le refus tient à la douane, comme une taxe impayée, la politique de la boutique exclut remboursement et réexpédition.",
+          "Puis-je être remboursé chez StyleKorean ? La politique prévoit un remboursement en points boutique, valables 6 mois, ou sur le moyen de paiement. Pour ce dernier, elle mentionne 2 à 14 jours ouvrés. Des auteurs d'avis relatent des retards ou une absence de remboursement.",
+          "Y a-t-il un code StyleKorean ici ? Non. CECILIA010 est réservé à YesStyle et ne fonctionne pas chez StyleKorean."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Le produit que vous voulez n'existe que chez elle, ou y coûte moins cher, livraison et frais compris.",
+        "Vous avez estimé les frais de votre destination et l'achat reste intéressant en cas de facturation avant la livraison."
+      ],
+      "skipIf": [
+        "Les plaintes de retard et de remboursement, et la façon dont la boutique répond, pèsent plus pour vous que l'économie.",
+        "Le même produit est chez YesStyle, et elle livre à votre adresse.",
+        "Une facturation surprise à la livraison pèse sur votre budget, puisque refuser le colis ne donne pas de remboursement."
+      ]
+    },
+    "cta": {
+      "text": "Collez CECILIA010 dans le champ Reward Code et vérifiez le total au paiement",
+      "label": "Aller sur YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Nous pouvons recevoir une commission de YesStyle ; pas de StyleKorean. Nous n'avons pas acheté chez StyleKorean : le texte vient des pages publiques et des avis.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-ou-stylekorean-que-choisir"
+      },
+      {
+        "slug": "yesstyle-avis-trustpilot"
+      },
+      {
+        "slug": "yesstyle-est-il-fiable-et-sur"
+      },
+      {
+        "slug": "yesstyle-livraison-france-belgique-canada"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 880,
+    "slug": "ist-stylekorean-serioes",
+    "locale": "de",
+    "translationKey": "stylekorean-trust",
+    "title": "Ist StyleKorean seriös? Das Unternehmen ist echt; die Beschwerden betreffen Lieferung, Abgaben und Erstattung",
+    "seoTitle": "Ist StyleKorean seriös? Bewertung und Beschwerden im Check",
+    "type": "Reputationsanalyse",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "StyleKorean gehört zum börsennotierten Unternehmen Silicon2 aus Korea, hat auf Trustpilot aber nur 1,9. Das sagen die 60 neuesten Bewertungen und das prüfen Sie vor der Zahlung.",
+    "metaDescription": "Reward Code CECILIA010: bis zu 5 % extra bei YesStyle. Ist StyleKorean seriös? Bewertung 1,9, Beschwerden und was Sie vor der Zahlung prüfen sollten.",
+    "publishedAt": "9. November 2026",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "Koreanische Hautpflegeprodukte von YesStyle mit dem Titel StyleKorean? und dem Code CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Kurzantwort",
+        "paragraphs": [
+          "StyleKorean gehört zu Silicon2, einem in Korea börsennotierten Unternehmen. Die Bewertung von 1,9 auf Trustpilot (137 Bewertungen) ist ein Grund, bei den Beschwerden über Lieferung und Zoll genau hinzuschauen. Nehmen Sie YesStyle, wenn Ihnen der Ruf auf Trustpilot wichtig ist: 4,4 und der Reward Code CECILIA010 mit bis zu 5 % extra."
+        ]
+      },
+      {
+        "heading": "Wer hinter StyleKorean steht",
+        "paragraphs": [
+          "StyleKorean ist der Onlineshop von Silicon2, einem Unternehmen aus Seongnam in Südkorea. Der Firmenname steht in der FAQ und in der Fußzeile des Shops. Nach der Firmengeschichte, die Silicon2 veröffentlicht, wurde das Unternehmen 2002 gegründet, startete 2015 die globale StyleKorean-Website, ging 2021 an die KOSDAQ, die koreanische Börse, und verzeichnete 2025 einen Umsatz von 1,12 Billionen Won, der koreanischen Währung.",
+          "Das zeigt, dass es das Unternehmen gibt, nicht dass Ihre Bestellung ankommt. Ob sie ankommt, zeigen eher die Kundenberichte weiter unten."
+        ],
+        "links": [
+          {
+            "label": "Firmengeschichte von Silicon2, auf Englisch",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "Die Bewertung und was sie misst",
+        "paragraphs": [
+          "StyleKorean hat auf Trustpilot 1,9, und 63 % der Bewertungen haben 1 Stern. Der Abstand zu YesStyle ist groß, mit einem Vorbehalt bei Umfang und Herkunft der Bewertungen."
+        ],
+        "comparisonTable": {
+          "caption": "Profile auf trustpilot.com, im November abgerufen.",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "Bewertung",
+              "1,9",
+              "4,4"
+            ],
+            [
+              "Bewertungen",
+              "137",
+              "104.972"
+            ],
+            [
+              "In den letzten 12 Monaten",
+              "45",
+              "11.618"
+            ],
+            [
+              "5 Sterne",
+              "28 %",
+              "71 %"
+            ],
+            [
+              "2 bis 4 Sterne",
+              "9 %",
+              "22 %"
+            ],
+            [
+              "1 Stern",
+              "63 %",
+              "7 %"
+            ],
+            [
+              "Lädt Kunden zur Bewertung ein",
+              "In letzter Zeit nicht",
+              "Ja"
+            ],
+            [
+              "Beantwortete negative Bewertungen",
+              "22 %, meist nach mehr als 1 Monat",
+              "99 %, meist innerhalb von 24 Std."
+            ],
+            [
+              "Profil beansprucht",
+              "2026",
+              "2013"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Trustpilot gibt an, dass StyleKorean Kunden zuletzt nicht zur Bewertung eingeladen hat, und warnt, dass die Bewertungen möglicherweise nicht repräsentativ sind. YesStyle lädt Kunden zur Bewertung ein. Die Bewertungen werden also unterschiedlich gesammelt; allein erklärt diese Angabe den Unterschied zwischen den Noten nicht.",
+          "Der Shop beantwortet 22 % der negativen Bewertungen. Die App im US-App-Store kommt auf 2,7 bei 135 Bewertungen: Das ist eine Bewertung der App, kein Maß für die Lieferung."
+        ],
+        "links": [
+          {
+            "label": "StyleKorean auf Trustpilot",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "YesStyle auf Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "StyleKorean-App im US-App-Store",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "Was die 60 neuesten Bewertungen sagen",
+        "paragraphs": [
+          "Wir haben die 60 neuesten Bewertungen des Profils gelesen, alle spontan abgegeben, und jede nach ihrem Hauptthema eingeordnet. Es sind 12 positive und 48 negative: 44 mit 1 Stern und 4 mit 2 Sternen. Lieferung und Zoll machen 26 der 48 aus."
+        ],
+        "comparisonTable": {
+          "caption": "Trustpilot-Bewertungen von März 2025 bis Oktober 2026. Einordnung von uns, ein Thema pro Bewertung.",
+          "headers": [
+            "Hauptthema der 48 negativen Bewertungen",
+            "Bewertungen"
+          ],
+          "rows": [
+            [
+              "Lieferung stockt, verspätet, nicht versandt oder verloren",
+              "13"
+            ],
+            [
+              "Zoll: unerwartete Gebühr oder festgehaltenes Paket",
+              "13"
+            ],
+            [
+              "Stornierung, Erstattung oder Rückgabe",
+              "9"
+            ],
+            [
+              "Artikel fehlt, ist falsch oder beschädigt",
+              "6"
+            ],
+            [
+              "Website, Konto oder Zahlung",
+              "4"
+            ],
+            [
+              "Sonstiges",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Bei der Lieferung berichten Bewertende von Bestellungen, die in der Vorbereitung hängen, und von Paketen, die nicht ankommen. Beim Zoll berichten sie von unerwarteten Forderungen bei der Zustellung, auch in Europa und im Vereinigten Königreich, und von Paketen, die in den USA festgehalten wurden; drei von ihnen führen das Festhalten auf fehlende Unterlagen des Shops zurück. Bei Stornierungen berichten sie von Geld, das nicht zurückkommt, und von Bestellungen, die versandt wurden, nachdem sie um Stornierung gebeten hatten. Einige sprechen in diesen Fällen von Betrug, und wir können das nicht überprüfen.",
+          "Diese Zählung beschreibt die Stichprobe und lässt sich nicht in eine Fehlerquote umrechnen. Sie zeigt, worüber sich diejenigen beschweren, die sich zum Schreiben entschieden haben, nicht, wie viele Bestellungen schiefgehen."
+        ]
+      },
+      {
+        "heading": "Was die Zufriedenen loben",
+        "paragraphs": [
+          "Es sind 12 der 60: 11 mit 5 Sternen und 1 mit 4. Das Lob nennt schnelle Lieferung, gute Verpackung und den Preis. Zwei Bewertende im Vereinigten Königreich berichten, die Steuer im Checkout bezahlt zu haben, ohne Forderung bei der Zustellung, und eine Person berichtet von einer Erstattung nach einem festhängenden Paket. Zwei positive Bewertungen erwähnen, dass bei der Zustellung Abgaben gezahlt wurden.",
+          "Derselbe Shop erscheint mit Bestellungen, die in einer Woche ankommen, und mit solchen, die monatelang festhängen. Die Stichprobe sagt nicht, was den einen Fall vom anderen trennt."
+        ]
+      },
+      {
+        "heading": "Was der Shop verspricht und was berichtet wird",
+        "paragraphs": [
+          "Die zweite Spalte stammt aus den Seiten zu Versand, Rückgabe und FAQ von StyleKorean. Die dritte aus den Bewertungen."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Thema",
+            "Was der Shop veröffentlicht",
+            "Was Bewertende berichten"
+          ],
+          "rows": [
+            [
+              "Steuern",
+              "Nicht im Preis und auf Ihre Kosten; in den USA und Kanada im Checkout erhoben",
+              "Unerwartete Forderung bei der Zustellung; im Vereinigten Königreich berichten manche, die Steuer im Checkout bezahlt und nichts nachgezahlt zu haben, andere, doppelt gezahlt zu haben"
+            ],
+            [
+              "Paket abgelehnt",
+              "Keine Erstattung und kein Neuversand",
+              "Paket zurückgeschickt oder vernichtet, ohne dass das Geld zurückkam"
+            ],
+            [
+              "Versandbearbeitung",
+              "Bis zu 5 Werktage bis zur Übergabe an den Spediteur; die FAQ nennt 72 Arbeitsstunden",
+              "Bestellung hängt in der Vorbereitung fest; manche loben die Schnelligkeit"
+            ],
+            [
+              "Erstattung",
+              "In Shop-Punkten oder auf die Zahlungsart; für Letzteres nennt die Richtlinie 2 bis 14 Werktage",
+              "Verzögerte oder ausbleibende Erstattung bei stornierten und nicht gelieferten Bestellungen"
+            ],
+            [
+              "Beschädigung",
+              "Fotos und Beleg; Erstattung nach Grad des Schadens, ohne Neuversand",
+              "Keine Lösung durch den Kundenservice"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Versandseite von StyleKorean, auf Englisch",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "Rückgabe bei StyleKorean, auf Englisch",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "FAQ von StyleKorean, auf Englisch",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "Die Antworten des Shops",
+        "paragraphs": [
+          "StyleKorean beantwortet 22 % der negativen Bewertungen, meist nach mehr als 1 Monat. Das Profil wurde im September beansprucht. In der Stichprobe haben 10 der 60 eine Antwort, alle vom Ende dieses Monats, und sie betreffen Bewertungen bis zurück in den Juni; die neueste, vom Oktober, ist unbeantwortet. Mehrere Antworten bitten den Kunden, den Kundenservice über das eigene Konto zu kontaktieren. Bei YesStyle liegt die Quote bei 99 %, meist innerhalb von 24 Stunden.",
+          "Wie viele dieser Fälle am Ende gelöst wurden, wissen wir nicht."
+        ]
+      },
+      {
+        "heading": "Sind die Produkte original?",
+        "paragraphs": [
+          "Die FAQ von StyleKorean erklärt, alle Produkte seien authentisch und kämen direkt von den Marken oder von vertrauenswürdigen Lieferanten in Korea. Keine der 60 Bewertungen berichtet von einem gefälschten Produkt.",
+          "Weiter lässt sich nichts sagen. Wir haben keine unabhängige Prüfung gefunden und bei StyleKorean nicht zum Test gekauft. Dass in einer kleinen Stichprobe keine Beschwerde vorkommt, garantiert nicht, dass jedes Produkt original ist."
+        ]
+      },
+      {
+        "heading": "Was sich nicht beantworten lässt",
+        "bullets": [
+          "**Wie oft eine Bestellung schiefgeht:** Trustpilot zeigt, wer geschrieben hat, nicht die Gesamtzahl der Bestellungen.",
+          "**Welches Land das höchste Risiko hat:** Die Beschwerden kommen unter anderem aus den USA, Kanada, dem Vereinigten Königreich, Italien, Deutschland, Spanien, den Vereinigten Arabischen Emiraten und Saudi-Arabien, in zu kleiner Zahl für einen Vergleich.",
+          "**Ob der Kundenservice durch die Antworten auf Trustpilot besser geworden ist:** Das Profil antwortet erst seit kurzer Zeit.",
+          "**Ob der Shop mehr oder weniger sicher ist als jeder andere:** Verglichen wird hier nur mit YesStyle."
+        ]
+      },
+      {
+        "heading": "Vor der Zahlung",
+        "paragraphs": [
+          "Wenn das gewünschte Produkt nur bei StyleKorean zu haben ist oder dort deutlich günstiger, prüfen Sie in dieser Reihenfolge:"
+        ],
+        "bullets": [
+          "**Prüfen Sie Versand und Lieferzeit im Warenkorb, mit Ihrer Adresse.** Der kostenlose Versand hängt vom Land ab.",
+          "**Berechnen Sie die Steuern Ihres Landes.** Außerhalb der USA und Kanadas können sie vor der Zustellung auf Ihre Kosten erhoben werden.",
+          "**Entscheiden Sie vorher, ob Sie diese Forderung zahlen würden.** Wer das Paket wegen des Zolls ablehnt, bekommt weder Erstattung noch Neuversand.",
+          "**Bleiben Sie unter dem Limit von 500 US-Dollar pro Bestellung, ohne Versand.** Darüber empfiehlt der Shop zwei Bestellungen.",
+          "**Bewahren Sie Bestellnummer, Sendungsverfolgung, Belege und Fotos des Pakets auf.** Bei Beschädigung verlangt der Shop Fotos und Beleg.",
+          "**Notieren Sie die Frist von 14 Werktagen für den Rückgabeantrag, ab Erhalt.** Bei einer Rückgabe auf Ihren Wunsch wird der Versand von der Erstattung abgezogen, auch wenn er beim Kauf kostenlos war. Rückgabe wegen Allergie nimmt der Shop nicht an."
+        ]
+      },
+      {
+        "heading": "Wann YesStyle in Frage kommt",
+        "paragraphs": [
+          "Nehmen Sie YesStyle, wenn der Shop an Ihre Adresse liefert und Ihnen der Ruf auf Trustpilot etwas wert ist. Die Bewertung ist höher, und der Shop beantwortet fast alle negativen Bewertungen im Profil. Auch dort gibt es Beschwerden über Lieferung und Sendungsverfolgung, die in [YesStyle auf Trustpilot](/de/reviews/yesstyle-trustpilot-bewertungen) stehen.",
+          "CECILIA010 bringt 5 % extra beim ersten Kauf und 2 % bei den folgenden und lässt sich mit den infrage kommenden Gutscheinen des Shops kombinieren. Sie tragen ihn im Checkout in das Feld „Reward Code“ ein. Bevor Sie nach dem Preis entscheiden, lesen Sie [YesStyle oder StyleKorean: Welcher Shop lohnt sich fürs Portemonnaie?](/de/reviews/yesstyle-oder-stylekorean-welcher-shop), mit denselben Produkten in beiden Shops, Versand, Steuern und Rückgabe. Die aktuellen Gutscheine stehen in [Gutscheine und Reward Code von YesStyle](/de/coupons/yesstyle)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "COSRX Advanced Snail 96 Mucin Power Essence, 100 ml",
+            "caption": "Eines der bei YesStyle verkauften Produkte.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Sonnenschutz Relief Sun von Beauty of Joseon, 50 ml",
+            "caption": "Eines der bei YesStyle verkauften Produkte.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Madagascar Centella Ampulle von SKIN1004, 100 ml",
+            "caption": "Eines der bei YesStyle verkauften Produkte.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "1025 Dokdo Toner von Round Lab, 200 ml",
+            "caption": "Eines der bei YesStyle verkauften Produkte.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "Und in anderen Ländern?",
+        "paragraphs": [
+          "Egal, wo Sie wohnen: Erst muss die Lieferung klappen, dann zählt der Ruf. Prüfen Sie zuerst, ob der Checkout Ihre Adresse akzeptiert. Die Regeln von YesStyle je Land stehen in [unserem YesStyle-Versandratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "Bei StyleKorean überlässt die Versandseite die Abgaben dem Kunden, außer in den USA und Kanada. Bewertende berichten von Zoll und Einfuhrumsatzsteuer, die bei der Zustellung gefordert wurden, auch in Europa und im Vereinigten Königreich. Prüfen Sie vor der Zahlung, wie hoch der Versand ist und ob Abgaben im Rechnungsbetrag enthalten sind oder später erhoben werden können."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Ist StyleKorean ein Betrug? Der Shop wird von Silicon2 betrieben, einem identifizierten, in Korea börsennotierten Unternehmen. Die Berichte, die wir gelesen haben, handeln von Lieferung, Abgaben und Erstattung, und einige Bewertende sprechen in diesen Fällen von Betrug. Eine niedrige Bewertung lässt sich deshalb nicht als Beweis für Betrug werten, und sie garantiert auch nicht, dass bei jeder Bestellung alles gut ausgeht.",
+          "Verkauft StyleKorean Originalprodukte? Der Shop erklärt, die Produkte seien authentisch und kämen von den Marken oder von vertrauenswürdigen Lieferanten in Korea. Keine der 60 Bewertungen, die wir gelesen haben, berichtet von einem gefälschten Produkt. Wir haben keine unabhängige Prüfung gefunden und bei StyleKorean nicht zum Test gekauft.",
+          "Woher kommt StyleKorean? Aus Südkorea. Der Shop wird von Silicon2 aus Seongnam betrieben und versendet aus Korea.",
+          "Warum wurde bei der Zustellung Steuer erhoben? Weil der Shop außerhalb der USA und Kanadas die Abgaben nicht in den Preis einrechnet und dem Kunden überlässt; sie können vor der Zustellung erhoben werden.",
+          "Was passiert, wenn ich das Paket ablehne? Wenn die Ablehnung wegen des Zolls erfolgt, etwa weil Steuern nicht gezahlt wurden, schließt die Richtlinie des Shops Erstattung und Neuversand aus.",
+          "Bekomme ich bei StyleKorean eine Erstattung? Die Richtlinie sieht eine Erstattung in Shop-Punkten vor, die 6 Monate gelten, oder auf die Zahlungsart. Für Letzteres nennt sie 2 bis 14 Werktage. Manche Bewertende berichten von Verzögerung oder ausbleibender Erstattung.",
+          "Gibt es hier einen Code für StyleKorean? Nein. CECILIA010 gilt nur bei YesStyle und funktioniert nicht bei StyleKorean."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Das gewünschte Produkt gibt es nur dort, oder es kostet dort mit Versand und Abgaben weniger.",
+        "Sie haben die Abgaben für Ihr Land abgeschätzt, und der Kauf lohnt sich auch, falls vor der Zustellung etwas erhoben wird."
+      ],
+      "skipIf": [
+        "Beschwerden über Verspätung und Erstattung und die Art, wie der Shop antwortet, wiegen für Sie schwerer als die Ersparnis.",
+        "Dasselbe Produkt gibt es bei YesStyle, und der Shop liefert an Ihre Adresse.",
+        "Eine Forderung bei der Zustellung träfe Ihr Budget, denn wer das Paket ablehnt, bekommt keine Erstattung."
+      ]
+    },
+    "cta": {
+      "text": "Geben Sie CECILIA010 im Feld Reward Code ein und prüfen Sie die Summe im Checkout",
+      "label": "Zu YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Wir können bei YesStyle eine Provision erhalten; von StyleKorean erhalten wir keine. Wir haben bei StyleKorean nicht gekauft: Der Text beruht auf den öffentlichen Seiten und den Bewertungen.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-oder-stylekorean-welcher-shop"
+      },
+      {
+        "slug": "yesstyle-trustpilot-bewertungen"
+      },
+      {
+        "slug": "ist-yesstyle-serioes-und-sicher"
+      },
+      {
+        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 881,
+    "slug": "stylekorean-e-affidabile",
+    "locale": "it",
+    "translationKey": "stylekorean-trust",
+    "title": "StyleKorean è affidabile? L'azienda esiste; i reclami riguardano consegna, imposte e rimborsi",
+    "seoTitle": "StyleKorean è affidabile? Recensioni, reclami e controlli",
+    "type": "Analisi della reputazione",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "StyleKorean appartiene a un'azienda quotata in Corea e ha voto 1,9 su Trustpilot. Cosa dicono le 60 recensioni più recenti e cosa controllare prima di pagare.",
+    "metaDescription": "Il codice ricompensa CECILIA010 dà fino al 5% in più su YesStyle. StyleKorean è affidabile? Voto 1,9, reclami e cosa controllare prima di pagare.",
+    "publishedAt": "9 novembre 2026",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "Prodotti di skincare coreana venduti su YesStyle, con il titolo StyleKorean? e il codice CECILIA010.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "StyleKorean appartiene a Silicon2, azienda quotata in Corea. Il voto 1,9 su Trustpilot (137 recensioni) invita a guardare con attenzione i reclami su consegna e imposte. Scegli YesStyle se per te conta la reputazione su Trustpilot: voto 4,4 e CECILIA010 con fino al 5% in più."
+        ]
+      },
+      {
+        "heading": "Chi c'è dietro StyleKorean",
+        "paragraphs": [
+          "StyleKorean è il negozio online di Silicon2, azienda di Seongnam, in Corea del Sud. Il nome dell'azienda compare nelle FAQ e nel piè di pagina del negozio stesso. Secondo la cronologia pubblicata da Silicon2, l'azienda è stata fondata nel 2002, ha aperto il sito globale di StyleKorean nel 2015, è entrata nel KOSDAQ, la borsa coreana, nel 2021 e nel 2025 ha registrato un fatturato di 1.120 miliardi di won, la moneta coreana.",
+          "Questo dimostra che l'azienda esiste, non che il tuo ordine arriva. Per questo, più sotto trovi le segnalazioni dei clienti."
+        ],
+        "links": [
+          {
+            "label": "Cronologia di Silicon2, in inglese",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "Il voto e cosa misura",
+        "paragraphs": [
+          "StyleKorean ha voto 1,9 su Trustpilot, e il 63% delle recensioni è da 1 stella. Il divario con YesStyle è ampio, ma con una riserva sulle dimensioni e sull'origine delle recensioni."
+        ],
+        "comparisonTable": {
+          "caption": "Profili su trustpilot.com, letti a novembre.",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "Voto",
+              "1,9",
+              "4,4"
+            ],
+            [
+              "Recensioni",
+              "137",
+              "104.972"
+            ],
+            [
+              "Negli ultimi 12 mesi",
+              "45",
+              "11.618"
+            ],
+            [
+              "5 stelle",
+              "28%",
+              "71%"
+            ],
+            [
+              "Da 2 a 4 stelle",
+              "9%",
+              "22%"
+            ],
+            [
+              "1 stella",
+              "63%",
+              "7%"
+            ],
+            [
+              "Invita i clienti a recensire",
+              "Non di recente",
+              "Sì"
+            ],
+            [
+              "Recensioni negative con risposta",
+              "22%, di solito dopo oltre 1 mese",
+              "99%, di solito entro 24 h"
+            ],
+            [
+              "Profilo rivendicato nel",
+              "2026",
+              "2013"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Trustpilot indica che StyleKorean non ha invitato i clienti di recente e avverte che le recensioni potrebbero non essere rappresentative. YesStyle invita i clienti a recensire. Sono modi di raccolta diversi; questo dato, da solo, non spiega la distanza tra i voti.",
+          "Il negozio risponde al 22% delle recensioni negative. L'app sull'App Store statunitense ha voto 2,7 su 135 valutazioni: è un giudizio sull'applicazione, non una misura della consegna."
+        ],
+        "links": [
+          {
+            "label": "StyleKorean su Trustpilot",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "YesStyle su Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "App di StyleKorean sull'App Store statunitense",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "Cosa dicono le 60 recensioni più recenti",
+        "paragraphs": [
+          "Abbiamo letto le 60 recensioni più recenti del profilo, tutte spontanee, e le abbiamo divise per argomento principale. Sono 12 positive e 48 negative: 44 da 1 stella e 4 da 2 stelle. Consegna e dogana ne coprono 26 su 48."
+        ],
+        "comparisonTable": {
+          "caption": "Recensioni su Trustpilot da marzo 2025 a ottobre 2026. Classificazione nostra, con un argomento per recensione.",
+          "headers": [
+            "Argomento principale delle 48 negative",
+            "Recensioni"
+          ],
+          "rows": [
+            [
+              "Consegna ferma, in ritardo, mai spedita o smarrita",
+              "13"
+            ],
+            [
+              "Dogana: imposta inattesa o pacco trattenuto",
+              "13"
+            ],
+            [
+              "Annullamento, rimborso o reso",
+              "9"
+            ],
+            [
+              "Articolo mancante, sbagliato o danneggiato",
+              "6"
+            ],
+            [
+              "Sito, account o pagamento",
+              "4"
+            ],
+            [
+              "Altro",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sulla consegna, i recensori riferiscono ordini fermi in preparazione e pacchi che non arrivano. In dogana, riferiscono addebiti inattesi al momento del ritiro, anche in Europa e nel Regno Unito, e pacchi trattenuti negli USA; tre di loro attribuiscono il blocco alla mancanza di documenti del negozio. Sull'annullamento, riferiscono denaro che non torna e ordini spediti dopo la richiesta di annullare. Alcuni parlano di frode raccontando questi casi, e non abbiamo modo di verificarli.",
+          "Questo conteggio descrive il campione e non si può trasformare in un tasso di errore. Mostra dove si concentrano i reclami di chi ha scritto una recensione, senza dire quanti ordini vanno storti."
+        ]
+      },
+      {
+        "heading": "Cosa elogia chi è soddisfatto",
+        "paragraphs": [
+          "Sono 12 su 60: 11 da 5 stelle e 1 da 4. Gli elogi parlano di consegna veloce, buon imballaggio e prezzo. Due, dal Regno Unito, riferiscono l'imposta pagata al checkout, senza addebito alla consegna, e uno riferisce un rimborso dopo un pacco fermo. Due elogi raccontano di oneri pagati alla consegna.",
+          "Dello stesso negozio si leggono ordini arrivati in una settimana e ordini fermi per mesi. Il campione non dice cosa distingue un caso dall'altro."
+        ]
+      },
+      {
+        "heading": "Cosa promette il negozio e cosa riferiscono i recensori",
+        "paragraphs": [
+          "La seconda colonna viene dalle pagine di spedizione, reso e FAQ di StyleKorean. La terza, dalle recensioni."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tema",
+            "Cosa pubblica il negozio",
+            "Cosa riferiscono i recensori"
+          ],
+          "rows": [
+            [
+              "Imposte",
+              "Escluse dal prezzo e a carico tuo; negli USA e in Canada, riscosse al checkout",
+              "Addebito inatteso alla consegna; nel Regno Unito c'è chi riferisce l'imposta pagata al checkout senza nuovo addebito e chi riferisce di aver pagato due volte"
+            ],
+            [
+              "Rifiuto del pacco",
+              "Né rimborso né rispedizione",
+              "Pacco restituito o distrutto, senza il denaro indietro"
+            ],
+            [
+              "Spedizione dal magazzino",
+              "Fino a 5 giorni lavorativi prima della consegna al corriere; le FAQ parlano di 72 ore lavorative",
+              "Ordine fermo in preparazione; c'è anche chi elogia la rapidità"
+            ],
+            [
+              "Rimborso",
+              "In punti del negozio o sul metodo di pagamento; per quest'ultimo, la politica indica da 2 a 14 giorni lavorativi",
+              "Ritardo o mancanza di rimborso per ordini annullati e non consegnati"
+            ],
+            [
+              "Danni",
+              "Foto e ricevuta; rimborso in base al grado del danno, senza rispedizione",
+              "Nessuna soluzione da parte dell'assistenza"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Spedizione di StyleKorean, in inglese",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "Reso di StyleKorean, in inglese",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "FAQ di StyleKorean, in inglese",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "Le risposte del negozio",
+        "paragraphs": [
+          "StyleKorean risponde al 22% delle recensioni negative, di solito dopo oltre 1 mese. Il profilo è stato rivendicato a settembre. Nel campione, 10 delle 60 hanno una risposta, tutte della fine di quel mese, e coprono recensioni fino a giugno; la più recente, di ottobre, è senza risposta. Diverse risposte chiedono al cliente di rivolgersi all'assistenza tramite il proprio account. Su YesStyle, il tasso è del 99%, di solito entro 24 ore.",
+          "Non sappiamo quanti di questi casi si siano risolti."
+        ]
+      },
+      {
+        "heading": "I prodotti sono originali?",
+        "paragraphs": [
+          "Le FAQ di StyleKorean dichiarano che tutti i prodotti sono autentici e arrivano direttamente dai marchi o da fornitori affidabili in Corea. Nessuna delle 60 recensioni dice di aver ricevuto un prodotto falso.",
+          "È il limite di ciò che si può affermare. Non abbiamo trovato verifiche indipendenti e non abbiamo acquistato nel negozio per provare. L'assenza di reclami in un campione piccolo non garantisce che ogni prodotto sia originale."
+        ]
+      },
+      {
+        "heading": "Cosa non si può concludere",
+        "bullets": [
+          "**Con che frequenza un ordine va storto:** Trustpilot mostra chi ha scritto, non il totale degli ordini.",
+          "**Quale paese è più a rischio:** i reclami arrivano da USA, Canada, Regno Unito, Italia, Germania, Spagna, Emirati e Arabia Saudita, tra gli altri, in numero troppo piccolo per confrontarli.",
+          "**Se l'assistenza è migliorata con le risposte su Trustpilot:** il profilo ha iniziato a rispondere da poco.",
+          "**Se è più o meno sicuro di un qualsiasi altro negozio:** qui il confronto è solo con YesStyle."
+        ]
+      },
+      {
+        "heading": "Prima di pagare",
+        "paragraphs": [
+          "Se il prodotto che vuoi è solo su StyleKorean, o costa molto meno lì, controlla in quest'ordine:"
+        ],
+        "bullets": [
+          "**Controlla spedizione e tempi nel carrello, con il tuo indirizzo.** La spedizione gratuita cambia da paese a paese.",
+          "**Calcola l'imposta del tuo paese.** Fuori da USA e Canada, può essere riscossa prima della consegna, a tuo carico.",
+          "**Decidi prima se accetti di pagare questo addebito.** Rifiutare il pacco per la dogana non dà né rimborso né rispedizione.",
+          "**Resta entro il limite di US$ 500 per ordine, spedizione esclusa.** Oltre, il negozio consiglia di fare due ordini.",
+          "**Conserva numero d'ordine, tracciamento, ricevute e foto del pacco.** In caso di danni, il negozio chiede foto e ricevuta.",
+          "**Segna il termine di 14 giorni lavorativi per chiedere il reso, dal ricevimento.** Nel reso a tua richiesta, la spedizione viene detratta dal rimborso, anche se era gratuita all'acquisto. Il negozio non accetta resi per allergia."
+        ]
+      },
+      {
+        "heading": "Quando considerare YesStyle",
+        "paragraphs": [
+          "Scegli YesStyle se consegna al tuo indirizzo e dai peso alla reputazione su Trustpilot. Il voto è più alto e il negozio risponde a quasi tutte le recensioni negative sul profilo. Ha anche reclami su consegna e tracciamento, che trovi in [YesStyle su Trustpilot: punteggio, reclami e cosa mostrano i dati](/it/reviews/yesstyle-recensioni-trustpilot).",
+          "CECILIA010 dà il 5% in più sul primo acquisto e il 2% sui successivi, e si somma ai coupon idonei del negozio. Va nel campo Reward Code del checkout. Prima di decidere in base al prezzo, vedi [YesStyle o StyleKorean: quale conviene per le tue tasche?](/it/reviews/yesstyle-o-stylekorean-quale-scegliere), con gli stessi prodotti nei due negozi, spedizione, imposte e reso. I coupon del momento sono in [coupon e codice ricompensa di YesStyle](/it/coupons/yesstyle)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "COSRX Advanced Snail 96 Mucin Power Essence, 100 ml",
+            "caption": "Uno dei prodotti venduti su YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Protezione solare Relief Sun di Beauty of Joseon, 50 ml",
+            "caption": "Uno dei prodotti venduti su YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "Fiala Madagascar Centella di SKIN1004, 100 ml",
+            "caption": "Uno dei prodotti venduti su YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "Tonico 1025 Dokdo di Round Lab, 200 ml",
+            "caption": "Uno dei prodotti venduti su YesStyle.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "E negli altri Paesi?",
+        "paragraphs": [
+          "Prima ancora della reputazione viene la consegna. Tra le recensioni che abbiamo letto ci sono anche recensori in Italia che riferiscono tasse doganali inattese. Le regole di YesStyle per paese sono nella [nostra guida alle spedizioni YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "Su StyleKorean, prima di pagare controlla se il checkout accetta il tuo indirizzo, quanto costa la spedizione e se le imposte sono incluse nel conto o possono essere addebitate dopo."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "StyleKorean è una truffa? Il negozio è gestito da Silicon2, azienda identificata e quotata in Corea. Le segnalazioni che abbiamo letto riguardano consegna, imposte e rimborsi, e alcuni recensori parlano di frode in questi casi. Questo non permette di trattare un voto basso come prova di frode, né di garantire che ogni ordine verrà risolto.",
+          "StyleKorean vende prodotti originali? Il negozio dichiara che i prodotti sono autentici e arrivano dai marchi o da fornitori affidabili in Corea. Nessuna delle 60 recensioni che abbiamo letto dice di aver ricevuto un prodotto falso. Non abbiamo trovato verifiche indipendenti e non abbiamo acquistato nel negozio per provare.",
+          "Di dov'è StyleKorean? Della Corea del Sud. È gestito da Silicon2, di Seongnam, e spedisce dalla Corea.",
+          "Perché mi hanno addebitato l'imposta alla consegna? Perché, fuori da USA e Canada, il negozio lascia gli oneri fuori dal prezzo e a carico del cliente, e possono essere riscossi prima della consegna.",
+          "Cosa succede se rifiuto il pacco? Se il rifiuto è per una questione doganale, come un'imposta non pagata, la politica del negozio esclude rimborso e rispedizione.",
+          "Posso avere un rimborso su StyleKorean? La politica prevede il rimborso in punti del negozio, validi 6 mesi, o sul metodo di pagamento. Per quest'ultimo indica da 2 a 14 giorni lavorativi. Ci sono recensori che riferiscono ritardi o mancati rimborsi.",
+          "C'è un codice di StyleKorean qui? No. CECILIA010 è solo di YesStyle e non funziona su StyleKorean."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Il prodotto che vuoi compare solo lì, oppure costa meno lì, già con spedizione e oneri.",
+        "Hai stimato gli oneri della tua destinazione e l'acquisto conviene ancora se c'è un addebito prima della consegna."
+      ],
+      "skipIf": [
+        "I reclami su ritardi e rimborsi e il modo in cui il negozio risponde pesano per te più del risparmio.",
+        "Lo stesso prodotto è su YesStyle, e YesStyle consegna al tuo indirizzo.",
+        "Un addebito a sorpresa alla consegna sarebbe un problema per il tuo budget, dato che rifiutare il pacco non dà diritto al rimborso."
+      ]
+    },
+    "cta": {
+      "text": "Incolla CECILIA010 nel campo Reward Code e controlla il totale al checkout",
+      "label": "Vai su YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Possiamo ricevere una commissione da YesStyle; non ne riceviamo da StyleKorean. Non abbiamo acquistato su StyleKorean: il testo nasce dalle pagine pubbliche e dalle recensioni.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-o-stylekorean-quale-scegliere"
+      },
+      {
+        "slug": "yesstyle-recensioni-trustpilot"
+      },
+      {
+        "slug": "yesstyle-e-affidabile-e-sicuro"
+      },
+      {
+        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 882,
+    "slug": "stylekorean-reliable-ko",
+    "locale": "ko",
+    "translationKey": "stylekorean-trust",
+    "title": "StyleKorean 믿어도 될까? 회사는 실재하고, 불만은 배송·세금·환불에 몰려 있다",
+    "seoTitle": "StyleKorean 믿어도 될까? 평점, 불만, 확인할 점",
+    "type": "평판 분석",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "StyleKorean은 코스닥 상장사가 운영하며 Trustpilot 평점은 1.9입니다. 최근 리뷰 60건이 말하는 내용과 결제 전에 확인할 점을 정리했습니다.",
+    "metaDescription": "YesStyle 리워드 코드 CECILIA010은 최대 5% 추가 할인. StyleKorean 믿어도 될까? 평점 1.9, 불만, 결제 전 확인할 점.",
+    "publishedAt": "2026년 11월 9일",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "YesStyle에서 판매하는 한국 스킨케어 제품과 StyleKorean? 제목, CECILIA010 코드",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "핵심 요약",
+        "paragraphs": [
+          "StyleKorean은 코스닥 상장사 Silicon2가 운영합니다. Trustpilot 평점은 1.9(리뷰 137건)이고, 배송과 세금에 대한 불만이 눈에 띕니다. Trustpilot 평판을 중시한다면 YesStyle로 가세요. 평점은 4.4이고, 리워드 코드 CECILIA010으로 최대 5%를 추가 할인받을 수 있습니다."
+        ]
+      },
+      {
+        "heading": "StyleKorean은 어떤 곳인가",
+        "paragraphs": [
+          "StyleKorean은 대한민국 성남에 있는 Silicon2의 온라인 쇼핑몰입니다. 회사 이름은 StyleKorean의 FAQ와 페이지 하단에 나와 있습니다.",
+          "Silicon2가 공개한 연혁은 이렇습니다. 2002년 설립, 2015년 StyleKorean 글로벌 사이트 개설, 2021년 코스닥 상장, 2025년 매출 1조 1,200억 원.",
+          "이것은 회사가 실재한다는 뜻일 뿐, 내 주문이 도착한다는 뜻은 아닙니다. 그 부분은 아래 고객 후기를 보세요."
+        ],
+        "links": [
+          {
+            "label": "Silicon2 연혁 (영어)",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "평점, 그리고 평점이 재는 것",
+        "paragraphs": [
+          "StyleKorean의 Trustpilot 평점은 1.9이고, 리뷰의 63%가 별 1개입니다. YesStyle과의 차이는 크지만, 리뷰 수와 수집 방식은 따져 봐야 합니다."
+        ],
+        "comparisonTable": {
+          "caption": "trustpilot.com 프로필, 11월 기준.",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "평점",
+              "1.9",
+              "4.4"
+            ],
+            [
+              "리뷰 수",
+              "137",
+              "104,972"
+            ],
+            [
+              "최근 12개월",
+              "45",
+              "11,618"
+            ],
+            [
+              "별 5개",
+              "28%",
+              "71%"
+            ],
+            [
+              "별 2~4개",
+              "9%",
+              "22%"
+            ],
+            [
+              "별 1개",
+              "63%",
+              "7%"
+            ],
+            [
+              "고객에게 리뷰 요청",
+              "최근에는 안 함",
+              "함"
+            ],
+            [
+              "부정 리뷰 답변",
+              "22%, 대체로 1개월 넘게 지난 뒤",
+              "99%, 대체로 24시간 안"
+            ],
+            [
+              "업체가 프로필 관리 권한을 확보한 연도",
+              "2026",
+              "2013"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Trustpilot는 StyleKorean이 최근 고객에게 리뷰를 요청하지 않았으며 리뷰가 대표성을 갖지 않을 수 있다고 알립니다. YesStyle은 고객에게 리뷰를 요청합니다. 수집 방식이 다르지만, 이것만으로 두 평점의 차이가 설명되지는 않습니다.",
+          "StyleKorean은 부정 리뷰의 22%에 답합니다. 미국 App Store의 앱 평점은 평가 135건 기준 2.7입니다. 앱에 대한 평가일 뿐, 배송을 재는 수치는 아닙니다."
+        ],
+        "links": [
+          {
+            "label": "Trustpilot의 StyleKorean",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "Trustpilot의 YesStyle",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "미국 App Store의 StyleKorean 앱",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "최근 리뷰 60건은 무엇을 말하나",
+        "paragraphs": [
+          "프로필의 최근 리뷰 60건을 읽었습니다. 모두 자발적으로 쓴 리뷰이고, 각각 주된 주제별로 나눴습니다. 긍정 12건, 부정 48건이며, 부정은 별 1개 44건과 별 2개 4건입니다. 48건 중 26건이 배송과 통관 문제입니다."
+        ],
+        "comparisonTable": {
+          "caption": "2025년 3월부터 2026년 10월까지의 Trustpilot 리뷰. 분류는 저희가 했고, 리뷰 하나에 주제 하나를 붙였습니다.",
+          "headers": [
+            "부정 리뷰 48건의 주된 주제",
+            "리뷰 수"
+          ],
+          "rows": [
+            [
+              "배송이 멈췄거나, 늦거나, 발송되지 않았거나, 분실됨",
+              "13"
+            ],
+            [
+              "통관: 예상치 못한 세금 또는 소포 보류",
+              "13"
+            ],
+            [
+              "취소, 환불 또는 반품",
+              "9"
+            ],
+            [
+              "상품 누락, 오배송 또는 파손",
+              "6"
+            ],
+            [
+              "사이트, 계정 또는 결제",
+              "4"
+            ],
+            [
+              "기타",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "배송: 리뷰어들은 주문이 준비 중에서 멈춘 채 소포가 오지 않는다고 전합니다.",
+          "통관: 수령 때 예상치 못한 청구를 받았다는 사례가 유럽과 영국에서도 나오고, 미국에서는 소포가 보류되었다고 합니다. 그중 세 명은 보류의 원인을 쇼핑몰의 서류 미비로 봅니다.",
+          "취소: 돈이 돌아오지 않았다거나, 취소를 요청했는데도 주문이 발송되었다고 합니다. 일부는 이런 사례를 두고 사기라고 표현하지만, 저희가 사실 여부를 확인할 방법은 없습니다.",
+          "이 집계는 표본을 설명할 뿐, 실패율로 바꿀 수 없습니다. 글을 쓰기로 한 사람들의 불만이 어디에 모여 있는지는 보여 주지만, 주문 가운데 몇 건이 잘못되는지는 말해 주지 않습니다."
+        ]
+      },
+      {
+        "heading": "칭찬 리뷰는 무엇을 말하나",
+        "paragraphs": [
+          "60건 중 12건이며, 별 5개가 11건, 별 4개가 1건입니다. 칭찬은 빠른 배송, 좋은 포장, 가격에 관한 것입니다. 영국의 두 명은 결제 때 세금을 냈고 배송 때 추가 청구는 없었다고 전하며, 한 명은 소포가 멈춘 뒤 환불을 받았다고 전합니다. 칭찬 글 가운데 두 건은 배송 때 부과금을 냈다고 밝힙니다.",
+          "같은 쇼핑몰에서 일주일 만에 도착한 주문도, 몇 달째 멈춘 주문도 보입니다. 이 표본으로는 두 경우를 가르는 요인을 알 수 없습니다."
+        ]
+      },
+      {
+        "heading": "쇼핑몰이 약속하는 것과 리뷰어가 전하는 것",
+        "paragraphs": [
+          "두 번째 열은 StyleKorean의 배송, 반품, FAQ 페이지에서 가져왔습니다. 세 번째 열은 리뷰에서 가져왔습니다."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "주제",
+            "쇼핑몰이 공개한 내용",
+            "리뷰어가 전하는 내용"
+          ],
+          "rows": [
+            [
+              "세금",
+              "가격에 포함되지 않고 본인 부담. 미국과 캐나다는 결제 때 청구",
+              "배송 때 예상치 못한 청구. 영국에서는 결제 때 낸 세금 외에 추가 청구가 없었다는 사람도, 두 번 냈다는 사람도 있음"
+            ],
+            [
+              "소포 수취 거부",
+              "환불도 재발송도 없음",
+              "소포가 반송되거나 폐기되고 돈은 돌아오지 않음"
+            ],
+            [
+              "발송",
+              "택배사까지 영업일 5일 이내. FAQ는 영업시간 기준 72시간이라고 함",
+              "주문이 준비 중에서 멈춤. 빠르다고 칭찬하는 사람도 있음"
+            ],
+            [
+              "환불",
+              "쇼핑몰 포인트 또는 결제 수단으로. 결제 수단 환불은 정책에 영업일 2~14일이라고 나옴",
+              "취소 또는 미배송 주문의 환불이 늦거나 없음"
+            ],
+            [
+              "파손",
+              "사진과 영수증 필요. 파손 정도에 따라 환불, 재발송 없음",
+              "고객센터가 해결해 주지 않음"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "StyleKorean 배송 페이지 (영어)",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "StyleKorean 환불 정책 (영어)",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "StyleKorean FAQ (영어)",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "쇼핑몰의 답변",
+        "paragraphs": [
+          "StyleKorean은 부정 리뷰의 22%에 답하며, 대체로 1개월이 넘게 지난 뒤입니다. 업체는 9월에 프로필 관리 권한을 확보했습니다. 표본의 60건 중 10건에 답변이 있고, 모두 9월 말에 달렸으며 6월 리뷰까지 거슬러 올라갑니다. 가장 최근인 10월 리뷰에는 답변이 없습니다.",
+          "여러 답변이 고객에게 계정을 통해 고객센터에 문의하라고 안내합니다. YesStyle의 답변율은 99%이고, 대체로 24시간 안에 답합니다.",
+          "이 사례들이 얼마나 해결되었는지는 알 수 없습니다."
+        ]
+      },
+      {
+        "heading": "상품은 정품일까?",
+        "paragraphs": [
+          "StyleKorean의 FAQ는 모든 상품이 정품이며 브랜드 또는 한국의 믿을 만한 공급처에서 직접 온다고 밝힙니다. 읽은 리뷰 60건 가운데 가짜 상품을 받았다는 글은 없습니다.",
+          "여기까지가 말할 수 있는 한계입니다. 독립적인 검증은 찾지 못했고, 저희가 직접 구매해 시험하지도 않았습니다. 작은 표본에 불만이 없다는 사실이 모든 상품이 정품이라는 보장은 아닙니다."
+        ]
+      },
+      {
+        "heading": "결론을 내릴 수 없는 것",
+        "bullets": [
+          "**주문이 얼마나 자주 잘못되는지:** Trustpilot는 글을 쓴 사람만 보여 줄 뿐 전체 주문 수는 보여 주지 않습니다.",
+          "**어느 나라가 더 위험한지:** 불만은 미국, 캐나다, 영국, 이탈리아, 독일, 스페인, 아랍에미리트, 사우디아라비아 등에서 나오며, 숫자가 너무 적어 비교할 수 없습니다.",
+          "**Trustpilot 답변 이후 고객 응대가 나아졌는지:** 프로필이 답변을 시작한 지 얼마 되지 않았습니다.",
+          "**다른 쇼핑몰보다 더 안전한지 덜 안전한지:** 여기서는 YesStyle과만 비교했습니다."
+        ]
+      },
+      {
+        "heading": "결제하기 전에",
+        "paragraphs": [
+          "원하는 상품이 StyleKorean에만 있거나 훨씬 싸다면, 다음 순서로 확인하세요."
+        ],
+        "bullets": [
+          "**장바구니에서 내 주소로 배송비와 배송 기간을 확인하세요.** 무료배송 기준은 나라마다 다릅니다.",
+          "**내 나라의 세금을 계산하세요.** 미국과 캐나다 밖에서는 배송 전에 본인 부담으로 청구될 수 있습니다.",
+          "**그 청구를 낼지 말지 미리 정하세요.** 통관 문제로 소포를 거부하면 환불도 재발송도 없습니다.",
+          "**주문당 배송비 제외 US$ 500 이내로 유지하세요.** 그 이상이면 쇼핑몰은 주문을 둘로 나누라고 권합니다.",
+          "**주문 번호, 추적 번호, 영수증, 소포 사진을 보관하세요.** 파손이 생기면 쇼핑몰은 사진과 영수증을 요구합니다.",
+          "**반품 신청은 수령 후 영업일 14일 이내라는 점을 기억하세요.** 본인 요청으로 반품하면 구매 때 무료였던 배송비도 환불액에서 차감됩니다. 쇼핑몰은 알레르기를 이유로 한 반품을 받지 않습니다."
+        ]
+      },
+      {
+        "heading": "YesStyle을 고려할 때",
+        "paragraphs": [
+          "YesStyle이 내 주소로 배송하고 Trustpilot 평판을 중요하게 본다면 YesStyle로 가세요. 평점이 더 높고, 쇼핑몰이 부정 리뷰의 거의 전부에 답합니다. 배송과 추적 관련 불만도 있으며, 이는 [Trustpilot의 YesStyle 리뷰](/ko/reviews/yesstyle-trustpilot-reviews-ko)에 있습니다.",
+          "리워드 코드 CECILIA010은 첫 구매에 5%, 이후 구매에 2%의 추가 할인을 제공하며, YesStyle의 적용 가능한 쿠폰과도 함께 쓸 수 있습니다. 결제 화면의 Reward Code 칸에 입력하세요.",
+          "가격으로 정하기 전에[YesStyle vs StyleKorean: 내 지갑엔 어디가 더 이득일까?](/ko/reviews/yesstyle-vs-stylekorean-ko)에서 같은 상품을 두 쇼핑몰에서 비교한 배송비, 세금, 반품을 확인하세요. 지금 쓸 수 있는 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 있습니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "COSRX Advanced Snail 96 Mucin Power Essence, 100 ml",
+            "caption": "YesStyle에서 판매하는 상품 중 하나.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Beauty of Joseon Relief Sun 선크림, 50 ml",
+            "caption": "YesStyle에서 판매하는 상품 중 하나.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "SKIN1004 Madagascar Centella 앰플, 100 ml",
+            "caption": "YesStyle에서 판매하는 상품 중 하나.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "Round Lab 1025 독도 토너, 200 ml",
+            "caption": "YesStyle에서 판매하는 상품 중 하나.",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "다른 나라에서는요?",
+        "paragraphs": [
+          "다른 나라에서는 평판보다 배송이 먼저입니다. YesStyle이 내 주소로 배송하지 않는다면 CECILIA010도 쓸 수 없습니다. 나라별 규정은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에서 볼 수 있습니다.",
+          "StyleKorean에 국가 선택 창과 배송 가능하다고 안내하는 상품 목록이 있어도, 내 주소로 배송된다는 확인은 아닙니다. 배송비 표에 내 나라가 없을 수도 있습니다. 결제하기 전에 결제 화면이 내 주소를 받는지, 배송비가 얼마인지, 세금이 합계에 들어 있는지 아니면 나중에 청구될 수 있는지 확인하세요."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "StyleKorean은 사기인가요? 쇼핑몰은 코스닥 상장사 Silicon2가 운영하며, 회사 정체가 확인됩니다. 읽은 후기는 배송, 세금, 환불에 관한 것이고, 일부 리뷰어는 그런 사례를 두고 사기라고 말합니다. 낮은 평점을 사기의 증거로 볼 수는 없고, 모든 주문이 해결된다고 보장할 수도 없습니다.",
+          "StyleKorean은 정품을 파나요? 쇼핑몰은 상품이 정품이며 브랜드 또는 한국의 믿을 만한 공급처에서 온다고 밝힙니다. 읽은 리뷰 60건 가운데 가짜 상품을 받았다는 글은 없습니다. 독립적인 검증은 찾지 못했고, 저희가 직접 구매해 시험하지도 않았습니다.",
+          "StyleKorean은 어느 나라 쇼핑몰인가요? 대한민국입니다. 성남에 있는 Silicon2가 운영하며 한국에서 발송합니다.",
+          "배송 때 왜 세금을 청구하나요? 미국과 캐나다 밖에서는 쇼핑몰이 부과금을 가격에 포함하지 않고 고객 부담으로 두며, 배송 전에 청구될 수 있기 때문입니다.",
+          "소포를 거부하면 어떻게 되나요? 세금 미납 같은 통관 문제로 거부하면 쇼핑몰 정책상 환불도 재발송도 없습니다.",
+          "StyleKorean에서 환불받을 수 있나요? 정책은 유효기간 6개월의 쇼핑몰 포인트 또는 결제 수단으로 환불한다고 합니다. 결제 수단 환불은 영업일 2~14일이라고 나옵니다. 환불이 늦거나 없다고 전하는 리뷰어도 있습니다.",
+          "StyleKorean 코드도 있나요? 아니요. CECILIA010은 YesStyle 전용이며 StyleKorean에서는 작동하지 않습니다."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "원하는 상품이 StyleKorean에만 있거나, 배송비와 부과금을 넣어도 더 쌉니다.",
+        "내 나라의 부과금을 따져 봤고, 배송 전에 청구되더라도 구매가 여전히 이득입니다."
+      ],
+      "skipIf": [
+        "절약보다 배송 지연과 환불에 대한 불만, 쇼핑몰의 답변 방식이 더 마음에 걸립니다.",
+        "같은 상품이 YesStyle에 있고 YesStyle이 내 주소로 배송합니다.",
+        "소포를 거부해도 환불이 없으니, 배송 때의 갑작스러운 청구가 부담스럽습니다."
+      ]
+    },
+    "cta": {
+      "text": "Reward Code 칸에 CECILIA010을 입력하고 결제 화면에서 합계를 확인하세요",
+      "label": "YesStyle로 이동",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "YesStyle에서는 수수료를 받을 수 있고, StyleKorean에서는 받지 않습니다. StyleKorean에서 구매하지 않았으며, 글은 공개 페이지와 리뷰를 바탕으로 합니다.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-stylekorean-ko"
+      },
+      {
+        "slug": "yesstyle-trustpilot-reviews-ko"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ko"
+      },
+      {
+        "slug": "yesstyle-shipping-korea-ko"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 883,
+    "slug": "stylekorean-reliable-ja",
+    "locale": "ja",
+    "translationKey": "stylekorean-trust",
+    "title": "StyleKoreanは信頼できる？ 会社は実在し、不満は配送・税金・返金に集中",
+    "seoTitle": "StyleKoreanは信頼できる？評価・不満・購入前の確認点",
+    "type": "評判分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "StyleKoreanは韓国に上場する企業のショップで、Trustpilotの評価は1.9です。直近60件のレビューの内容と、支払う前に確認したい点をまとめました。",
+    "metaDescription": "YesStyleのリワードコードCECILIA010で初回最大5%。StyleKoreanは信頼できる？ 評価1.9、不満の内容、購入前の確認点。",
+    "publishedAt": "2026年11月9日",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "YesStyleで販売されている韓国スキンケア商品と「StyleKorean?」のタイトル、コードCECILIA010",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "StyleKoreanを運営しているのは、韓国に上場しているSilicon2です。Trustpilotの評価は1.9（137件）で、配送や税金への不満には注意が必要です。Trustpilotでの評判を重視するならYesStyleです。評価は4.4で、リワードコードのCECILIA010で最大5%が上乗せされます。"
+        ]
+      },
+      {
+        "heading": "StyleKoreanはどんなショップか",
+        "paragraphs": [
+          "StyleKoreanは、韓国・城南市（ソンナム）にあるSilicon2のオンラインストアです。会社名は、ショップ自身のFAQとフッターに載っています。Silicon2が公開している沿革によると、2002年に創業し、2015年にStyleKoreanのグローバルサイトを開設し、2021年に韓国の株式市場KOSDAQに上場し、2025年の売上は1.12兆ウォン（韓国の通貨）でした。",
+          "ここからわかるのは会社が実在することで、注文が届くことまでは保証されません。それについては、このあとの利用者の声を見てください。"
+        ],
+        "links": [
+          {
+            "label": "Silicon2の沿革（英語）",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "評価と、その数字が示すもの",
+        "paragraphs": [
+          "StyleKoreanのTrustpilot評価は1.9で、レビューの63%が星1つです。YesStyleとの差は大きいものの、レビューの数と集め方には違いがあります。"
+        ],
+        "comparisonTable": {
+          "caption": "trustpilot.comのプロフィール。11月時点。",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "評価",
+              "1.9",
+              "4.4"
+            ],
+            [
+              "レビュー数",
+              "137",
+              "104,972"
+            ],
+            [
+              "過去12か月",
+              "45",
+              "11,618"
+            ],
+            [
+              "星5つ",
+              "28%",
+              "71%"
+            ],
+            [
+              "星2〜4つ",
+              "9%",
+              "22%"
+            ],
+            [
+              "星1つ",
+              "63%",
+              "7%"
+            ],
+            [
+              "顧客にレビューを依頼",
+              "最近はなし",
+              "あり"
+            ],
+            [
+              "低評価への返信",
+              "22%、多くは1か月以上あと",
+              "99%、多くは24時間以内"
+            ],
+            [
+              "プロフィールの管理開始",
+              "2026年",
+              "2013年"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Trustpilotによると、StyleKoreanは最近、顧客にレビューを依頼しておらず、レビューが実態を反映していない可能性があるとされています。YesStyleは顧客にレビューを依頼しています。集め方が違うということであり、この点だけで評価の差を説明できるわけではありません。",
+          "ショップが返信しているのは低評価の22%です。StyleKoreanのアプリは、米国のApp Storeで135件の評価があり、2.7です。これはアプリの評価であり、配送の良し悪しを測るものではありません。"
+        ],
+        "links": [
+          {
+            "label": "TrustpilotのStyleKorean",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "TrustpilotのYesStyle",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "StyleKoreanのアプリ（米国App Store）",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "直近60件のレビューの内容",
+        "paragraphs": [
+          "プロフィールの直近60件のレビューを読みました。すべて投稿者が自発的に書いたもので、1件ずつ主な話題で分けています。好意的なものが12件、否定的なものが48件（星1つが44件、星2つが4件）です。否定的な48件のうち、配送と通関が26件を占めます。"
+        ],
+        "comparisonTable": {
+          "caption": "2025年3月から2026年10月までのTrustpilotのレビュー。分類は当サイトによるもので、1件につき1つの話題です。",
+          "headers": [
+            "否定的な48件の主な話題",
+            "件数"
+          ],
+          "rows": [
+            [
+              "配送が止まった・遅れた・発送されない・紛失",
+              "13"
+            ],
+            [
+              "通関：想定外の税金、または荷物の留め置き",
+              "13"
+            ],
+            [
+              "キャンセル・返金・返品",
+              "9"
+            ],
+            [
+              "商品の不足・間違い・破損",
+              "6"
+            ],
+            [
+              "サイト・アカウント・支払い",
+              "4"
+            ],
+            [
+              "その他",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "配送では、注文が準備中のまま止まっている、荷物が届かない、という声があります。通関では、受け取り時の想定外の請求（ヨーロッパやイギリスを含む）や、アメリカでの荷物の留め置きが挙がっていて、そのうち3件は、ショップ側の書類が足りないせいだとしています。キャンセルでは、お金が戻らない、キャンセルを頼んだあとに注文が発送された、という声があります。こうしたケースを詐欺と呼ぶレビューもありますが、こちらで事実確認はできません。",
+          "この集計は60件のサンプルを説明するもので、失敗率にはなりません。書くことにした人の不満がどこに集まっているかはわかりますが、注文のうち何件に問題が起きているかはわかりません。"
+        ]
+      },
+      {
+        "heading": "好意的なレビューは何を褒めているか",
+        "paragraphs": [
+          "60件のうち12件で、星5つが11件、星4つが1件です。褒められているのは、配送の速さ、梱包のよさ、価格です。イギリスの2件は、チェックアウトで税金を払い、受け取り時の請求はなかったと書いています。1件は、荷物が止まったあとに返金されたと書いています。ほかの2件は、受け取り時に諸費用を払ったと書いています。",
+          "同じショップで、1週間で届く注文もあれば、何か月も止まる注文もあります。このサンプルからは、何がその分かれ目なのかはわかりません。"
+        ]
+      },
+      {
+        "heading": "ショップの案内と、利用者の報告",
+        "paragraphs": [
+          "中央の列はStyleKoreanの送料・返品・FAQのページから、右の列はレビューからまとめています。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "項目",
+            "ショップが公開している内容",
+            "レビュー投稿者の報告"
+          ],
+          "rows": [
+            [
+              "税金",
+              "価格に含まれず、お客様負担。アメリカとカナダではチェックアウトで請求",
+              "受け取り時の想定外の請求。イギリスでは、チェックアウトで税金を払い追加請求はなかったという報告と、二重に払ったという報告がある"
+            ],
+            [
+              "荷物の受け取り拒否",
+              "返金も再発送もなし",
+              "荷物が返送または破棄され、お金は戻らない"
+            ],
+            [
+              "発送",
+              "運送会社へ5営業日以内。FAQでは72営業時間",
+              "注文が準備中のまま止まる。速さを褒める声もある"
+            ],
+            [
+              "返金",
+              "ショップのポイント、または支払い方法へ。後者は2〜14営業日と案内",
+              "キャンセル分や未着分の返金が遅い、または来ない"
+            ],
+            [
+              "破損",
+              "写真と領収書が必要。破損の程度に応じた返金で、再発送はなし",
+              "カスタマーサポートで解決しない"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "StyleKoreanの送料ページ（英語）",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "StyleKoreanの返金ポリシー（英語）",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "StyleKoreanのFAQ（英語）",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "ショップの返信",
+        "paragraphs": [
+          "StyleKoreanは低評価の22%に返信していて、多くは1か月以上あとです。プロフィールの管理を始めたのは9月です。60件のサンプルのうち10件に返信があり、すべてその月の終わりのもので、6月のレビューまでさかのぼります。10月の最新のレビューには返信がありません。多くの返信は、自分のアカウントからカスタマーサポートに連絡するよう求めています。YesStyleでは、返信率は99%で、多くは24時間以内です。",
+          "そうしたケースのうち、どれだけが解決したのかはわかりません。"
+        ]
+      },
+      {
+        "heading": "商品は本物か",
+        "paragraphs": [
+          "StyleKoreanのFAQには、すべての商品が正規品で、ブランドから、または韓国の信頼できる仕入れ先から直接仕入れていると書かれています。読んだ60件のレビューのうち、偽物が届いたと書いたものはありません。",
+          "ここまでが言える範囲です。第三者による検証は見つからず、当サイトもこのショップで購入して試してはいません。小さなサンプルに苦情がなくても、すべての商品が本物だという保証にはなりません。"
+        ]
+      },
+      {
+        "heading": "ここからは結論を出せないこと",
+        "bullets": [
+          "**注文のうち、どのくらいの割合で問題が起きるか：**Trustpilotでわかるのは書いた人であり、注文の総数ではありません。",
+          "**どの国がいちばんリスクが高いか：**不満はアメリカ、カナダ、イギリス、イタリア、ドイツ、スペイン、UAE、サウジアラビアなどから届いていますが、比べるには数が少なすぎます。",
+          "**Trustpilotでの返信で対応が改善したか：**プロフィールが返信を始めてから、まだ日が浅いためです。",
+          "**ほかのショップと比べて安全かどうか：**ここで比べているのはYesStyleだけです。"
+        ]
+      },
+      {
+        "heading": "支払う前に確認すること",
+        "paragraphs": [
+          "ほしい商品がStyleKoreanにしかない、またはかなり安い場合は、次の順番で確認してください。"
+        ],
+        "bullets": [
+          "**カートで、お届け先の住所を入れて送料と日数を確認する。**送料無料の条件は国によって変わります。",
+          "**お住まいの国の税金を計算する。**アメリカとカナダ以外では、配達前にお客様負担で請求されることがあります。",
+          "**この請求を払うかどうか、先に決めておく。**通関を理由に荷物の受け取りを拒否しても、返金も再発送もありません。",
+          "**1回の注文はUS$ 500（送料を除く）までにする。**それを超える場合、ショップは2回に分けて注文するよう勧めています。",
+          "**注文番号、追跡番号、領収書、荷物の写真を保管する。**破損の場合、ショップは写真と領収書を求めます。",
+          "**返品の申請は、受け取りから14営業日以内と覚えておく。**お客様都合の返品では、購入時に無料だった送料も返金額から引かれます。アレルギーによる返品は受け付けていません。"
+        ]
+      },
+      {
+        "heading": "YesStyleを検討したいとき",
+        "paragraphs": [
+          "YesStyleがお住まいの住所に配送してくれて、Trustpilotでの評判を重視するなら、YesStyleです。評価は高く、ショップは低評価のほぼすべてに返信しています。ただし配送や追跡への不満もあり、それは[TrustpilotのYesStyle評価](/ja/reviews/yesstyle-trustpilot-reviews-ja)にまとめています。",
+          "リワードコードのCECILIA010は、初回購入で5%、2回目以降は2%が上乗せされ、ショップ自身の対象クーポンとも併用できます。チェックアウトの「Reward Code」欄に入力します。価格で決める前に、同じ商品を2店で並べた[YesStyleとStyleKorean、財布的にどっちがお得？](/ja/reviews/yesstyle-vs-stylekorean-ja)で、送料、税金、返品を見てください。そのときどきのクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にあります。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "COSRX Advanced Snail 96 Mucin Power Essence、100 ml",
+            "caption": "YesStyleで買える商品のひとつ。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Beauty of JoseonのRelief Sun（日焼け止め）、50 ml",
+            "caption": "YesStyleで買える商品のひとつ。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "SKIN1004のMadagascar Centella Ampoule、100 ml",
+            "caption": "YesStyleで買える商品のひとつ。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "Round Lab 1025 Dokdo Toner（化粧水）、200 ml",
+            "caption": "YesStyleで買える商品のひとつ。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "日本から買う場合は？",
+        "paragraphs": [
+          "日本では、評判より先に、日本向けのサービスが今どうなっているかを確認してください。2024年11〜12月に、Threads、Ameba、Xの投稿が、日本向けのサービス終了を伝えました（ThreadsとAmebaは11月末と記載）。2025年4月のYahoo!知恵袋には、日本向けのストアは閉鎖したという回答があります。ショップがこれを確認したという記載は、私たちが読んだページにはありませんでした。",
+          "現在、stylekoreanjp.comは公開されていて、円建てで販売し、運営会社としてSILICON2を、韓国の住所とともに掲示しています。ただし特定商取引法のページには「改定草案」と表示されています。日本のApp Storeにあるアプリのページ（id 1529993020）は「ページが見つかりません」と表示されるため、日本での評価は確認できません。米国App Storeの2.7は、日本の評価の代わりにはなりません。",
+          "この記事のTrustpilotの数字は、グローバルのtrustpilot.comのプロフィールのものです。日本のストアだけのレビューではありません。支払う前に、チェックアウトで住所に配送できるか、送料はいくらか、諸費用が含まれているか、あとから請求される可能性があるかを確認してください。YesStyleの日本向けのルールは[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。"
+        ],
+        "links": [
+          {
+            "label": "stylekoreanjp.comの会社情報",
+            "href": "https://stylekoreanjp.com/shopinfo/company.html"
+          },
+          {
+            "label": "Amebaのブログ（2024年11月）",
+            "href": "https://ameblo.jp/a---cosmetic/entry-12874201846.html"
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "StyleKoreanは詐欺ですか？ ショップを運営しているのは、韓国に上場している、身元のわかる会社Silicon2です。私たちが読んだレビューは配送、税金、返金に関するもので、そうしたケースを詐欺と呼ぶレビューもあります。ただし、低評価をそのまま詐欺の証拠とすることはできず、すべての注文が解決される保証もありません。",
+          "StyleKoreanは本物の商品を売っていますか？ ショップは、商品は正規品で、ブランドまたは韓国の信頼できる仕入れ先から来ていると案内しています。読んだ60件のレビューに、偽物が届いたというものはありません。第三者による検証は見つからず、当サイトもこのショップで購入して試してはいません。",
+          "StyleKoreanはどこの国のショップですか？ 韓国です。城南市のSilicon2が運営し、韓国から発送します。",
+          "なぜ受け取り時に税金を請求されたのですか？ アメリカとカナダ以外では、ショップが諸費用を価格に含めずお客様負担としていて、配達前に請求されることがあるためです。",
+          "荷物の受け取りを拒否するとどうなりますか？ 通関の理由（税金の未払いなど）による拒否の場合、ショップのポリシーでは返金も再発送もありません。",
+          "StyleKoreanで返金してもらえますか？ ポリシーでは、有効期間6か月のショップのポイント、または支払い方法への返金です。後者は2〜14営業日と案内しています。返金が遅い、または来ないと報告する投稿者もいます。",
+          "ここにStyleKoreanのコードはありますか？ ありません。CECILIA010はYesStyle専用で、StyleKoreanでは使えません。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "ほしい商品がStyleKoreanにしかない、または送料と諸費用を含めてもStyleKoreanのほうが安い方に向いています。",
+        "お届け先の諸費用を見積もったうえで、配達前に請求されても購入する価値があると判断できる方に向いています。"
+      ],
+      "skipIf": [
+        "遅れや返金への不満、ショップの返信のしかたが、節約額より気になる場合は見送りましょう。",
+        "同じ商品がYesStyleにあり、お住まいの住所に配送してもらえるなら、そちらを選びましょう。",
+        "受け取り時の予想外の請求が家計に響くなら、見送りましょう。荷物を受け取り拒否しても返金はありません。"
+      ]
+    },
+    "cta": {
+      "text": "リワードコードのCECILIA010を「Reward Code」欄に入力し、チェックアウトで合計金額を確認しましょう",
+      "label": "YesStyleへ進む",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "YesStyleからは報酬（コミッション）を受け取る場合があります。StyleKoreanからは受け取っていません。StyleKoreanでは購入していません。本文は公開ページとレビューに基づいています。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-stylekorean-ja"
+      },
+      {
+        "slug": "yesstyle-trustpilot-reviews-ja"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ja"
+      },
+      {
+        "slug": "yesstyle-shipping-japan-ja"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 884,
+    "slug": "stylekorean-reliable-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "stylekorean-trust",
+    "title": "StyleKorean 可靠嗎？公司真實存在；客訴集中在寄送、稅費與退款",
+    "seoTitle": "StyleKorean 可靠嗎？評分、客訴與付款前該確認什麼",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "StyleKorean 由韓國上市公司營運，Trustpilot 評分 1.9。看看最近 60 則評價怎麼說，以及付款前該確認什麼。",
+    "metaDescription": "YesStyle 獎勵碼 CECILIA010 首購額外最高 5%。StyleKorean 可靠嗎？評分 1.9、客訴，以及付款前該確認的事項。",
+    "publishedAt": "2026年11月9日",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "YesStyle 販售的韓國保養品、標題 StyleKorean? 與獎勵碼 CECILIA010",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "StyleKorean 屬於 Silicon2，一家在韓國上市的公司。它在 Trustpilot 的評分是 1.9（137 則評價），寄送與稅費方面的客訴值得留意。如果你重視 Trustpilot 上的口碑，就選 YesStyle：評分 4.4，CECILIA010 可再額外省最高 5%。"
+        ]
+      },
+      {
+        "heading": "StyleKorean 是誰經營的",
+        "paragraphs": [
+          "StyleKorean 是 Silicon2 旗下的網路商店，公司位於南韓城南市。公司名稱寫在 StyleKorean 自家的 FAQ 與頁尾。依 Silicon2 公布的沿革，公司成立於 2002 年，2015 年推出 StyleKorean 全球站，2021 年在韓國的 KOSDAQ 掛牌，2025 年營收為 1.12 兆韓元。",
+          "這只能說明公司確實存在，不能保證你的訂單會順利送達。關於這一點，請看下面的顧客回報。"
+        ],
+        "links": [
+          {
+            "label": "Silicon2 的公司沿革（英文）",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "評分，以及它衡量的是什麼",
+        "paragraphs": [
+          "StyleKorean 在 Trustpilot 的評分是 1.9，63% 的評價是 1 星。與 YesStyle 的差距很大，不過兩者的評價數量與來源不同，需要一併留意。"
+        ],
+        "comparisonTable": {
+          "caption": "Trustpilot 頁面（trustpilot.com），11 月查閱。",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "評分",
+              "1.9",
+              "4.4"
+            ],
+            [
+              "評價數",
+              "137",
+              "104,972"
+            ],
+            [
+              "最近 12 個月",
+              "45",
+              "11,618"
+            ],
+            [
+              "5 星",
+              "28%",
+              "71%"
+            ],
+            [
+              "2 至 4 星",
+              "9%",
+              "22%"
+            ],
+            [
+              "1 星",
+              "63%",
+              "7%"
+            ],
+            [
+              "邀請顧客評價",
+              "近期沒有",
+              "有"
+            ],
+            [
+              "負評獲得回覆",
+              "22%，通常超過 1 個月",
+              "99%，通常在 24 小時內"
+            ],
+            [
+              "認領頁面的年份",
+              "2026",
+              "2013"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Trustpilot 表示 StyleKorean 近期沒有邀請顧客評價，並提醒這些評價可能不具代表性。YesStyle 則會邀請顧客評價。兩者的蒐集方式不同；光憑這一點，無法解釋兩者評分的差距。",
+          "店家回覆了 22% 的負評。美國 App Store 上的 App 評分是 2.7（135 則評價）：那是對 App 本身的評分，並不衡量寄送表現。"
+        ],
+        "links": [
+          {
+            "label": "Trustpilot 上的 StyleKorean",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "Trustpilot 上的 YesStyle",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "StyleKorean 在美國 App Store 的 App",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "最近 60 則評價怎麼說",
+        "paragraphs": [
+          "我們讀了這個頁面最近的 60 則評價，皆為自發評價，並依主要主題逐則分類。其中 12 則正面、48 則負面：44 則 1 星、4 則 2 星。寄送與海關合計佔 48 則負評中的 26 則。"
+        ],
+        "comparisonTable": {
+          "caption": "Trustpilot 評價，時間為 2025 年 3 月至 2026 年 10 月。分類為我們自行整理，每則評價只歸入一個主題。",
+          "headers": [
+            "48 則負評的主要主題",
+            "評價數"
+          ],
+          "rows": [
+            [
+              "包裹停滯、延遲、未出貨或遺失",
+              "13"
+            ],
+            [
+              "海關：意外的稅費或包裹被扣留",
+              "13"
+            ],
+            [
+              "取消、退款或退貨",
+              "9"
+            ],
+            [
+              "商品缺漏、寄錯或損壞",
+              "6"
+            ],
+            [
+              "網站、帳號或付款",
+              "4"
+            ],
+            [
+              "其他",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "在寄送方面，評價者提到訂單卡在備貨中、包裹始終沒有送達。在海關方面，他們提到收件時出現意外收費，歐洲與英國也有，美國則有包裹被扣留；其中三則把扣留歸因於店家缺少文件。在取消方面，他們提到錢沒有退回，以及要求取消後訂單仍被寄出。有些評價者在敘述這些情況時用了「詐騙」一詞，我們無法查證。",
+          "這個統計只描述這份樣本，不能換算成失敗率。它顯示樣本中的客訴集中在哪些主題，但無法說明有多少訂單出問題。"
+        ]
+      },
+      {
+        "heading": "讚美的人在讚美什麼",
+        "paragraphs": [
+          "60 則中有 12 則：11 則 5 星、1 則 4 星。讚美的內容是出貨快、包裝好和價格。其中兩則來自英國，提到結帳時已付稅、送達時沒有再收費；另有一則提到包裹停滯後獲得退款。還有兩則讚美提到，送達時付了額外費用。",
+          "同一家店，有人一週內收到包裹，也有人的訂單停了好幾個月。這份樣本看不出是什麼造成了這種差別。"
+        ]
+      },
+      {
+        "heading": "店家公布的規定與評價者的回報",
+        "paragraphs": [
+          "第二欄來自 StyleKorean 的運送、退貨與 FAQ 頁面，第三欄來自評價。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "主題",
+            "店家公布的內容",
+            "評價者的回報"
+          ],
+          "rows": [
+            [
+              "稅費",
+              "不含在價格內，由顧客負擔；美國與加拿大在結帳時收取",
+              "送達時出現意外收費；英國有人提到結帳時已付稅且沒有再收費，也有人提到付了兩次"
+            ],
+            [
+              "拒收包裹",
+              "不退款也不重寄",
+              "包裹被退回或銷毀，錢沒有退回"
+            ],
+            [
+              "出貨",
+              "最多 5 個工作天交給運送業者；FAQ 寫的是 72 個工作小時",
+              "訂單卡在備貨中；也有人稱讚出貨快"
+            ],
+            [
+              "退款",
+              "退為店內點數或退回付款方式；後者政策提到 2 至 14 個工作天",
+              "已取消或未送達的訂單，退款延遲或沒有收到"
+            ],
+            [
+              "商品損壞",
+              "附照片與發票；依損壞程度退款，不重寄",
+              "客服沒有提出解決辦法"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "StyleKorean 的運送頁面（英文）",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "StyleKorean 的退貨頁面（英文）",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "StyleKorean 的 FAQ（英文）",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "店家的回覆",
+        "paragraphs": [
+          "StyleKorean 回覆了 22% 的負評，通常超過 1 個月。這個頁面在 9 月被認領。在這份樣本中，60 則裡有 10 則有回覆，全都是當月月底回覆的，最早回到 6 月的評價；最新的 10 月評價沒有回覆。不少回覆請顧客透過自己的帳號聯絡客服。YesStyle 的回覆率是 99%，通常在 24 小時內。",
+          "這些案例最後有多少得到解決，我們不得而知。"
+        ]
+      },
+      {
+        "heading": "商品是原廠正品嗎？",
+        "paragraphs": [
+          "StyleKorean 的 FAQ 聲明，所有商品都是正品，直接來自品牌或韓國可靠的供應商。這 60 則評價中，沒有任何一則說收到假貨。",
+          "能說的就到此為止。我們沒有找到獨立的查核，也沒有向這家店下單測試。在小樣本中沒有出現客訴，並不保證每件商品都是正品。"
+        ]
+      },
+      {
+        "heading": "哪些事無法下結論",
+        "bullets": [
+          "**訂單出問題的頻率：** Trustpilot 只呈現留言的人，看不到總訂單數。",
+          "**哪個國家風險比較高：** 客訴來自美國、加拿大、英國、義大利、德國、西班牙、阿聯與沙烏地阿拉伯等地，每個地方的數量都太少，無法比較。",
+          "**在 Trustpilot 上開始回覆後，客服是否改善：** 這個頁面開始回覆的時間還不久。",
+          "**它是否比其他任何商店更安全或更不安全：** 這裡只拿它與 YesStyle 比較。"
+        ]
+      },
+      {
+        "heading": "付款前",
+        "paragraphs": [
+          "如果你要的商品只有 StyleKorean 有，或在那裡便宜很多，請依下列順序確認："
+        ],
+        "bullets": [
+          "**在購物車用你的地址查看運費與寄送時間。** 免運門檻依國家而異。",
+          "**算出你所在國家的稅費。** 在美國與加拿大以外，稅費可能在送達前向你收取，由你負擔。",
+          "**先決定要不要接受這筆收費。** 因海關問題拒收包裹，不會退款也不會重寄。",
+          "**每筆訂單控制在 US$ 500 以內，不含運費。** 超過的話，店家建議分成兩筆訂單。",
+          "**保留訂單編號、追蹤編號、付款憑證與包裹照片。** 商品損壞時，店家要求附上照片與發票。",
+          "**記下收貨後 14 個工作天的退貨申請期限。** 由你主動退貨時，運費會從退款中扣除，即使購買時是免運。店家不接受因過敏而退貨。"
+        ]
+      },
+      {
+        "heading": "什麼時候該考慮 YesStyle",
+        "paragraphs": [
+          "如果 YesStyle 寄得到你的地址，而且你重視 Trustpilot 上的口碑，就選 YesStyle。它的評分比較高，也回覆了幾乎所有負評。它同樣有寄送與追蹤方面的客訴，請見 [YesStyle 在 Trustpilot 上的評價](/zh-hant/reviews/yesstyle-trustpilot-reviews-zh-hant)。",
+          "CECILIA010 首購額外 5%，之後的訂單額外 2%，並可與店家自己符合資格的優惠券一併使用。它要填在結帳頁的 Reward Code 欄位。如果你想先比價格，請看 [YesStyle 還是 StyleKorean？哪家對你的荷包比較劃算？](/zh-hant/reviews/yesstyle-vs-stylekorean-zh-hant)，裡面有兩家店相同商品的價格、運費、稅費與退貨比較。目前的優惠券列在 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "COSRX Advanced Snail 96 Mucin Power Essence 精華液，100 ml",
+            "caption": "YesStyle 販售的商品之一。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Beauty of Joseon Relief Sun 防曬乳，50 ml",
+            "caption": "YesStyle 販售的商品之一。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "SKIN1004 Madagascar Centella 安瓶精華，100 ml",
+            "caption": "YesStyle 販售的商品之一。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "Round Lab 1025 Dokdo 化妝水，200 ml",
+            "caption": "YesStyle 販售的商品之一。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "其他國家呢？",
+        "paragraphs": [
+          "在台灣與香港，配送比口碑更優先。YesStyle 各地的規定請見 [YesStyle 運送指南：台灣與香港](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+          "我們沒有確認 StyleKorean 寄到台灣與香港的運費與時間。付款前，請到結帳頁確認是否接受你的地址、運費多少，以及稅費是否已含在內，或之後才可能收取。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "StyleKorean 是詐騙嗎？ 這家店由 Silicon2 營運，這是一家身分明確、在韓國上市的公司。我們讀到的回報談的是寄送、稅費與退款，有些評價者在敘述這些情況時用了「詐騙」一詞。這並不表示可以把低評分當成詐騙的證據，也不能保證每筆訂單都會順利解決。",
+          "StyleKorean 賣的是正品嗎？ 店家聲明商品是正品，來自品牌或韓國可靠的供應商。我們讀的 60 則評價中，沒有任何一則說收到假貨。我們沒有找到獨立的查核，也沒有向這家店下單測試。",
+          "StyleKorean 是哪裡的店？ 南韓。由城南市的 Silicon2 營運，從韓國出貨。",
+          "為什麼送達時被收稅？ 因為在美國與加拿大以外，店家把稅費排除在價格之外，由顧客負擔，並可能在送達前收取。",
+          "拒收包裹會怎樣？ 如果是因海關問題拒收，例如稅費未付，店家的政策排除退款與重寄。",
+          "在 StyleKorean 可以退款嗎？ 政策提供退為店內點數（有效期 6 個月）或退回付款方式。後者政策提到 2 至 14 個工作天。也有評價者回報退款延遲或沒有收到。",
+          "這裡有 StyleKorean 的代碼嗎？ 沒有。CECILIA010 只適用於 YesStyle，在 StyleKorean 無法使用。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你要的商品只有它有，或算上運費與稅費後，在它那裡比較便宜。",
+        "你已估算過所在地的稅費，即使送達前被收費，這筆購買仍然划算。"
+      ],
+      "skipIf": [
+        "延遲與退款方面的客訴，以及店家的回覆方式，對你來說比省下的錢更重要。",
+        "同一款商品在 YesStyle 也買得到，而且它寄得到你的地址。",
+        "送達時的意外收費會讓你心疼，因為拒收包裹並不會退款。"
+      ]
+    },
+    "cta": {
+      "text": "把 CECILIA010 貼到 Reward Code 欄位，並在結帳頁確認總額",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "我們可能從 YesStyle 獲得傭金；StyleKorean 則沒有。我們沒有在 StyleKorean 下單：內容來自公開頁面與評價。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-stylekorean-zh-hant"
+      },
+      {
+        "slug": "yesstyle-trustpilot-reviews-zh-hant"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hant"
+      },
+      {
+        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
+      }
+    ],
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": 885,
+    "slug": "stylekorean-reliable-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "stylekorean-trust",
+    "title": "StyleKorean 可靠吗？公司是真实存在的，投诉集中在配送、税费和退款",
+    "seoTitle": "StyleKorean 可靠吗？评分、投诉与付款前要查的事",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "StyleKorean 属于韩国上市公司 Silicon2，在 Trustpilot 上的评分是 1.9。看看最近 60 条评价怎么说，以及付款前该核对什么。",
+    "metaDescription": "YesStyle 奖励码 CECILIA010 最高可额外 5%。StyleKorean 可靠吗？评分 1.9、投诉，以及付款前要核对的事项。",
+    "publishedAt": "2026年11月9日",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
+    "imageAlt": "YesStyle 销售的韩国护肤产品、标题 StyleKorean? 和奖励码 CECILIA010",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "StyleKorean 属于 Silicon2，一家在韩国上市的公司。它在 Trustpilot 上的评分是 1.9（137 条评价），投诉集中在配送和税费。如果你更看重 Trustpilot 上的口碑，就选 YesStyle：评分 4.4，CECILIA010 最高可额外再省 5%。"
+        ]
+      },
+      {
+        "heading": "StyleKorean 是谁",
+        "paragraphs": [
+          "StyleKorean 是 Silicon2 旗下的网络商店，公司位于韩国城南。公司名称写在店家自己的 FAQ 和页脚里。根据 Silicon2 公布的历史，公司成立于 2002 年，2015 年推出 StyleKorean 全球站，2021 年在韩国交易所 KOSDAQ 上市，2025 年营收为 1.12 万亿韩元。",
+          "这说明公司确实存在，并不说明你的订单一定会送到。这一点要看下文客户的反馈。"
+        ],
+        "links": [
+          {
+            "label": "Silicon2 公司历史（英文）",
+            "href": "https://www.siliconii.com/en/sub/sub01_02.php"
+          }
+        ]
+      },
+      {
+        "heading": "评分，以及它衡量的是什么",
+        "paragraphs": [
+          "StyleKorean 在 Trustpilot 上的评分是 1.9，其中 63% 的评价是 1 星。与 YesStyle 的差距很大，但评价的数量和来源需要先说明。"
+        ],
+        "comparisonTable": {
+          "caption": "trustpilot.com 上的店家页面，11月查阅。",
+          "headers": [
+            "",
+            "StyleKorean",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "评分",
+              "1.9",
+              "4.4"
+            ],
+            [
+              "评价数",
+              "137",
+              "104,972"
+            ],
+            [
+              "近 12 个月",
+              "45",
+              "11,618"
+            ],
+            [
+              "5 星",
+              "28%",
+              "71%"
+            ],
+            [
+              "2 至 4 星",
+              "9%",
+              "22%"
+            ],
+            [
+              "1 星",
+              "63%",
+              "7%"
+            ],
+            [
+              "邀请客户评价",
+              "近期没有",
+              "有"
+            ],
+            [
+              "差评获回复",
+              "22%，通常超过 1 个月",
+              "99%，通常在 24 小时内"
+            ],
+            [
+              "店家认领页面",
+              "2026 年",
+              "2013 年"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Trustpilot 说明，StyleKorean 近期没有邀请客户评价，并提醒这些评价可能不具代表性。YesStyle 则会邀请客户评价。两者的收集方式不同；仅凭这一点，解释不了两个评分之间的差距。",
+          "店家回复了 22% 的差评。美国 App Store 上的应用评分是 2.7（135 条评价）：这是对应用本身的评分，并不是对配送的衡量。"
+        ],
+        "links": [
+          {
+            "label": "StyleKorean 在 Trustpilot 上的页面",
+            "href": "https://www.trustpilot.com/review/stylekorean.com"
+          },
+          {
+            "label": "YesStyle 在 Trustpilot 上的页面",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          },
+          {
+            "label": "StyleKorean 在美国 App Store 的应用页面",
+            "href": "https://apps.apple.com/us/app/stylekorean/id1529061060"
+          }
+        ]
+      },
+      {
+        "heading": "最近 60 条评价怎么说",
+        "paragraphs": [
+          "我们读了该页面最近的 60 条评价，全部是用户自发写的，并按主要话题逐条归类。其中好评 12 条，差评 48 条：44 条 1 星，4 条 2 星。48 条差评里，配送和海关占了 26 条。"
+        ],
+        "comparisonTable": {
+          "caption": "Trustpilot 上 2025年3月至2026年10月的评价。分类由我们完成，每条评价只归入一个话题。",
+          "headers": [
+            "48 条差评的主要话题",
+            "评价数"
+          ],
+          "rows": [
+            [
+              "包裹停滞、延误、未发货或遗失",
+              "13"
+            ],
+            [
+              "海关：意外税费或包裹被扣",
+              "13"
+            ],
+            [
+              "取消、退款或退货",
+              "9"
+            ],
+            [
+              "商品缺少、寄错或破损",
+              "6"
+            ],
+            [
+              "网站、账户或付款",
+              "4"
+            ],
+            [
+              "其他",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "在配送方面，评价者反映订单一直停在备货状态，包裹迟迟不到。在海关方面，他们反映收货时被意外收费，欧洲和英国也有这类情况，还有包裹在美国被扣；其中三人把被扣归因于店家缺少文件。在取消订单方面，他们反映钱没有退回，或者在要求取消之后订单仍被寄出。有些人在讲述这些情况时提到了欺诈，我们无法核实。",
+          "这个统计描述的是样本，不能换算成出问题的比例。它显示的是愿意写评价的人在哪些方面抱怨，并不说明有多少订单出了问题。"
+        ]
+      },
+      {
+        "heading": "好评在夸什么",
+        "paragraphs": [
+          "60 条里有 12 条：11 条 5 星，1 条 4 星。好评谈到发货快、包装好和价格。其中两位英国用户说税费在结账时已经付清，送货时没有再收费，另有一位说包裹停滞之后拿到了退款。还有两条好评提到，他们在送货时缴纳了费用。",
+          "同一家店，既有一周就到的订单，也有停滞数月的订单。样本里看不出是什么区分了这两种情况。"
+        ]
+      },
+      {
+        "heading": "店家的承诺与评价者的反馈",
+        "paragraphs": [
+          "第二列来自 StyleKorean 的运费、退货和 FAQ 页面。第三列来自评价。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "主题",
+            "店家公布的内容",
+            "评价者反映的情况"
+          ],
+          "rows": [
+            [
+              "税费",
+              "不含在价格内，由你自己承担；美国和加拿大在结账时收取",
+              "送货时被意外收费；在英国，有人说税费在结账时已付、没有再收，也有人说付了两次"
+            ],
+            [
+              "拒收包裹",
+              "不退款，也不重寄",
+              "包裹被退回或销毁，钱没有退回"
+            ],
+            [
+              "发货",
+              "最多 5 个工作日交给承运商；FAQ 写的是 72 个工作小时",
+              "订单一直停在备货状态；也有人夸发货快"
+            ],
+            [
+              "退款",
+              "退为店内积分或原付款方式；后者的政策写的是 2 至 14 个工作日",
+              "已取消和未送达订单的退款延迟，或没有退款"
+            ],
+            [
+              "破损",
+              "附照片和单据；按破损程度退款，不重寄",
+              "客服没有给出解决办法"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "StyleKorean 的运费页面（英文）",
+            "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+          },
+          {
+            "label": "StyleKorean 的退货页面（英文）",
+            "href": "https://www.stylekorean.com/en/cs/refund"
+          },
+          {
+            "label": "StyleKorean 的 FAQ（英文）",
+            "href": "https://www.stylekorean.com/en/faq"
+          }
+        ]
+      },
+      {
+        "heading": "店家的回复",
+        "paragraphs": [
+          "StyleKorean 回复了 22% 的差评，通常超过 1 个月。页面是在 9 月被认领的。样本里的 60 条中有 10 条带有回复，全部集中在那个月月底，最早回复到 6 月的评价；最新的一条是 10 月的，没有回复。不少回复请客户通过自己的账户联系客服。YesStyle 的回复率是 99%，通常在 24 小时内。",
+          "我们不知道其中有多少个案例最终得到了解决。"
+        ]
+      },
+      {
+        "heading": "商品是正品吗？",
+        "paragraphs": [
+          "StyleKorean 的 FAQ 声明，所有商品都是正品，直接来自品牌方或韩国值得信赖的供应商。我们读到的 60 条评价里，没有一条说收到了假货。",
+          "我们能说的只有这些。我们没有找到独立的审核，也没有在这家店下单测试。在一个较小的样本里没有投诉，并不能保证每件商品都是正品。"
+        ]
+      },
+      {
+        "heading": "哪些结论下不了",
+        "bullets": [
+          "**订单出问题的频率：** Trustpilot 显示的是写了评价的人，而不是订单的总数。",
+          "**哪个国家的风险更高：** 投诉来自美国、加拿大、英国、意大利、德国、西班牙、阿联酋和沙特阿拉伯等地，每个地方的数量都太少，没法比较。",
+          "**店家在 Trustpilot 上回复之后，客服是否有所改善：** 该页面开始回复的时间还很短。",
+          "**它比其他店更安全还是更不安全：** 这里只拿它和 YesStyle 做了比较。"
+        ]
+      },
+      {
+        "heading": "付款之前",
+        "paragraphs": [
+          "如果你要的商品只有 StyleKorean 有，或者在那里便宜得多，请按下面的顺序核对："
+        ],
+        "bullets": [
+          "**在购物车里用你的地址查看运费和时效。** 免运费的条件因国家而异。",
+          "**算一下你所在国家的税费。** 在美国和加拿大之外，税费可能在送达前收取，由你自己承担。",
+          "**先想好是否接受这笔费用。** 因为海关问题拒收包裹，不退款，也不重寄。",
+          "**每笔订单控制在 US$ 500 以内，不含运费。** 超过这个金额，店家建议分成两笔订单。",
+          "**保存订单号、物流单号、付款凭证和包裹照片。** 商品破损时，店家要求提供照片和单据。",
+          "**记下 14 个工作日的退货申请期限，从收货起算。** 由你主动要求退货时，运费会从退款中扣除，即使购买时运费是免的。店家不接受因过敏而退货。"
+        ]
+      },
+      {
+        "heading": "什么时候考虑 YesStyle",
+        "paragraphs": [
+          "如果 YesStyle 能寄到你的地址，而你又看重 Trustpilot 上的口碑，就选 YesStyle。它的评分更高，而且店家回复了几乎所有差评。它同样有配送和物流追踪方面的投诉，见 [YesStyle 在 Trustpilot 上的评价](/zh-hans/reviews/yesstyle-trustpilot-reviews-zh-hans)。",
+          "奖励码 CECILIA010 首购额外 5%，之后的订单为 2%，并可与店家自己符合条件的优惠券一同使用。它填在结账页的 Reward Code 栏位。如果你想先比价格，请看 [YesStyle 还是 StyleKorean？哪家对你的钱包更划算？](/zh-hans/reviews/yesstyle-vs-stylekorean-zh-hans)，里面用同样的商品比较了两家店的价格、运费、税费和退货。当前的优惠券见 [YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/cosrx-advanced-snail-96-essence-yesstyle.webp",
+            "alt": "COSRX Advanced Snail 96 Mucin Power Essence，100 ml",
+            "caption": "YesStyle 上销售的商品之一。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695"
+          },
+          {
+            "src": "/images/reviews/yesstyle/beauty-of-joseon-relief-sun-yesstyle.webp",
+            "alt": "Beauty of Joseon 的 Relief Sun 防晒霜，50 ml",
+            "caption": "YesStyle 上销售的商品之一。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1137908658"
+          },
+          {
+            "src": "/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp",
+            "alt": "SKIN1004 的 Madagascar Centella 安瓶，100 ml",
+            "caption": "YesStyle 上销售的商品之一。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/skin1004-madagascar-centella-asiatica-100-ampoule-100ml/info.html/pid.1067114916"
+          },
+          {
+            "src": "/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp",
+            "alt": "Round Lab 的 1025 Dokdo 爽肤水，200 ml",
+            "caption": "YesStyle 上销售的商品之一。",
+            "objectFit": "square",
+            "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
+          }
+        ]
+      },
+      {
+        "heading": "其他国家呢？",
+        "paragraphs": [
+          "对新加坡和马来西亚的读者来说，先确认能不能寄到，比口碑更重要。请到结账页查看店家是否接受你的地址、运费是多少，以及税费是已经含在内，还是之后才可能收取。",
+          "YesStyle 在新加坡和马来西亚的规定见 [YesStyle 运送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "StyleKorean 是骗局吗？ 这家店由 Silicon2 运营，这是一家身份明确、在韩国上市的公司。我们读到的反馈涉及配送、税费和退款，有些评价者在讲述这些情况时提到了欺诈。但不能把低评分当作欺诈的证据，也不能保证每一笔订单都会得到解决。",
+          "StyleKorean 卖的是正品吗？ 店家声明商品是正品，来自品牌方或韩国值得信赖的供应商。我们读到的 60 条评价里，没有一条说收到了假货。我们没有找到独立的审核，也没有在这家店下单测试。",
+          "StyleKorean 是哪里的？ 韩国。由城南的 Silicon2 运营，从韩国发货。",
+          "为什么送货时被收税？ 因为在美国和加拿大之外，店家把税费排除在价格之外，由客户自己承担，而且可能在送达前收取。",
+          "拒收包裹会怎样？ 如果拒收是因为海关问题，例如税费未付，店家的政策不退款，也不重寄。",
+          "在 StyleKorean 能拿到退款吗？ 政策规定可以退为店内积分（有效期 6 个月），或退回原付款方式。后者的政策写的是 2 至 14 个工作日。有评价者反映退款延迟，或没有收到退款。",
+          "这里有 StyleKorean 的代码吗？ 没有。CECILIA010 只适用于 YesStyle，在 StyleKorean 不能使用。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你要的商品只有它有，或者算上运费和各项费用后，它更便宜。",
+        "你已经估算过寄到你所在地的各项费用，即使送达前被收费，这笔买卖仍然划算。"
+      ],
+      "skipIf": [
+        "对你来说，延误和退款方面的投诉，以及店家的回复方式，比省下的钱更重要。",
+        "同一件商品在 YesStyle 也有，而且它能寄到你的地址。",
+        "送货时被突然收费会给你的预算带来压力，毕竟拒收包裹并不退款。"
+      ]
+    },
+    "cta": {
+      "text": "把 CECILIA010 填入 Reward Code 栏位，并在结账页确认总额",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "我们可能从 YesStyle 获得佣金；不会从 StyleKorean 获得。我们没有在 StyleKorean 下单：内容来自公开页面和用户评价。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-stylekorean-zh-hans"
+      },
+      {
+        "slug": "yesstyle-trustpilot-reviews-zh-hans"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hans"
+      },
+      {
+        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
       }
     ],
     "updatedAt": "2026-11-09"
