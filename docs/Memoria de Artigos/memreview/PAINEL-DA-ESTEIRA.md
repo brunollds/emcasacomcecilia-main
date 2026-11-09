@@ -41,6 +41,7 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[stylekorean-e-confiavel]]: StyleKorean é confiável? (10 idiomas, ids 876–885; SK2; no ar em 09/11/2026, release 3641d5f1; a SK1 ganhou a frase dos convites e o link no mesmo release) 🚀
 - [x] [[yesstyle-ou-stylekorean-qual-compensa]]: YesStyle ou StyleKorean: qual compensa pro seu bolso? (10 idiomas, ids 866–875; SK1; no ar em 09/11/2026, release eb7c7eeb; título e "carrinho" corrigidos no #771) 🚀
 - [x] [[hostinger-renovacao-cupom-sonar20]]: Renovação Hostinger: preço, cupom SONAR20 e reembolso antes de pagar (10 idiomas, ids 814–823; BG1; na main em 04/11/2026, PR #579; no ar em 05/11/2026, conferido) 🚀
 - [x] [[black-skull-e-boa-0211]]: Black Skull é boa? O whey, a creatina e o que vale comprar da marca (PT, id 776; linha "é boa", lote 1; na main em 02/11/2026, PR #520) 🚀
