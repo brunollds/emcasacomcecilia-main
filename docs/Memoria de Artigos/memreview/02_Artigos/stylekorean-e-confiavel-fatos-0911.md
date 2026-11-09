@@ -19,21 +19,21 @@ O relatório foi visto pelo trecho da busca: abrir o PDF antes de citar.
 | Trustpilot, 08 e 09/11 | StyleKorean | YesStyle |
 |---|---|---|
 | **Nota** | 1,9 | 4,4 |
-| **Avaliações** | 137 (45 em 12 meses) | 104.972 em 09/11; 104.969 na SK1 (11.589 em 12 meses) |
-| **Distribuição** | 5★ 28%, 4★ 4%, 3★ 3%, 2★ 3%, 1★ 62% | 5★ 71%, 4★ 18%, 3★ 3%, 2★ 1%, 1★ 7% |
+| **Avaliações** | 137 (45 em 12 meses) | 104.972 em 09/11; 104.969 na SK1 (11.618 em 12 meses) |
+| **Distribuição** | 38, 5, 4, 4 e 86 avaliações, de 5★ a 1★ (28%, 9% de 2 a 4★, 63%) | 5★ 71%, 4★ 18%, 3★ 3%, 2★ 1%, 1★ 7% |
 | **Convida clientes?** | **Não:** "hasn't invited customers recently, so reviews may not be representative" | **Sim:** convida clientes a avaliar |
 | **Rótulo das visíveis** | 40 das 40 conferidas: espontânea (págs. 1 e 3) | 18 de 24 convidadas, 5 espontâneas, 1 sem rótulo |
-| **Negativas respondidas** | 22%, em geral com mais de 1 mês | 99%, em geral em 24 h, podendo usar IA |
+| **Negativas respondidas** | 22% (8 de 36), em geral com mais de 1 mês | 99% (1.253 de 1.264), em geral em 24 h, podendo usar IA |
 | **Perfil reivindicado** | Setembro de 2026 | Maio de 2013 |
 
-- **Respostas em lote:** na página 1, 10 de 20 avaliações trazem resposta, todas de 29/09/2026, logo depois de o perfil ser reivindicado. Registrar o fato, sem motivo.
+- **Respostas em lote:** na página 1, 10 de 20 avaliações trazem resposta, em 28 ou 29/09/2026, logo depois de o perfil ser reivindicado. Registrar o fato, sem motivo.
 - **Versões do perfil:** outras versões regionais do Trustpilot trouxeram 2,0 e 2,1 com menos avaliações. Citar `trustpilot.com`, com a data.
 - **App na App Store (EUA):** 2,7 em 135 notas.
 - **Sem peso:** ScamDoc e Gridinsoft são pontuações automáticas, e o Glassdoor mede emprego. Ficam fora.
 
 ## As 60 avaliações mais recentes (págs. 1 a 3, de 08/03/2025 a 22/10/2026)
 
-Contagem provisória, feita sobre o resumo de uma ferramenta automática, com um assunto principal por avaliação. **Reler na tela e refazer antes de publicar.**
+Relidas na tela em 09/11, uma a uma: `docs/auditoria-copy-artigos/novos-20261109-sk2/recontagem-60.md`.
 
 | Grupo | Quantidade |
 |---|---|
@@ -42,16 +42,16 @@ Contagem provisória, feita sobre o resumo de uma ferramenta automática, com um
 
 | Assunto principal das 48 negativas | Quantidade |
 |---|---|
-| Entrega parada, atrasada, sem envio ou extraviada | 17 |
-| Alfândega, imposto ou taxa inesperada | 12 |
-| Cancelamento ou reembolso | 7 |
-| Item faltando, errado ou danificado | 5 |
+| Entrega parada, atrasada, sem envio ou extraviada | 13 |
+| Alfândega: taxa inesperada ou pacote retido | 13 |
+| Cancelamento, reembolso ou devolução | 9 |
+| Item faltando, errado ou danificado | 6 |
 | Site, conta ou pagamento | 4 |
-| Outros (preço de caixa, produto vedado no país, fora do assunto) | 3 |
+| Outros | 3 |
 
-- **Produto falso:** 0 nas páginas 1 e 3 (40 avaliações). A página 2 não trouxe esse tema no resumo: conferir.
-- **Países nas negativas:** EUA, Canadá, Reino Unido, Itália, Alemanha, Espanha, Emirados, Arábia Saudita e outros. A amostra não permite dizer qual país tem mais risco.
-- **Positivas:** entrega rápida, boa embalagem, bom custo. Há relato de reembolso concedido e de ausência de taxa extra.
+- **Produto falso:** nenhuma das 60. Alguns avaliadores falam em fraude ao contar dinheiro não devolvido.
+- **Respostas:** 10 das 60, em 28 ou 29/09/2026, não só em 29/09.
+- **Alfândega:** 5 pacotes retidos, todos nos EUA, 3 deles atribuídos à falta de documentos da loja.
 - **Sem citar nome de avaliador nem colar texto.**
 
 ## Política e relato, lado a lado
@@ -69,16 +69,25 @@ Contagem provisória, feita sobre o resumo de uma ferramenta automática, com um
 
 Reddit (r/AsianBeauty e r/KoreanBeauty, por espelhos, de 2023 a 2025): elogios à rapidez e à autenticidade e um caso de pacote extraviado sem solução. É antigo e anedótico: no máximo, uma frase, sem número.
 
-## Japão
+## Japão (Chrome, 09/11)
 
-- A Silicon2 Japan foi constituída em 2022 (histórico da empresa).
-- `jp.stylekorean.com` redireciona a `stylekoreanjp.com`, em ienes, com oferta de abertura (08/11).
-- Um blog japonês fala em fim do site em 30/11, provavelmente de 2024; a data vem da imagem do post, e a loja não confirmou nas páginas lidas.
-- As sugestões "終了 なぜ", "代わり" e "復活" mostram a dúvida. Falta o aviso legal da loja.
+- **Relatos de encerramento:** [Threads, 01/11/2024](https://www.threads.com/@big_big__smile/post/DB1Q_lKz18k?hl=ja), fim do serviço no fim de novembro; [Ameba, 10/11/2024](https://ameblo.jp/a---cosmetic/entry-12874201846.html); [X, 20/12/2024](https://x.com/patroness6v6/status/1870015351116922998); [Yahoo! Chiebukuro, 30/04/2025](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10314388020): a loja para o Japão fechou. Lá, a resposta automática de IA que cita 2022 fica fora.
+- **Hoje:** [stylekoreanjp.com](https://stylekoreanjp.com/) está no ar, em ienes, com promoção. A [página da empresa](https://stylekoreanjp.com/shopinfo/company.html) e a [comercial](https://stylekoreanjp.com/shopinfo/commercial_law.html) declaram a SILICON2. O quadro de avisos está vazio.
+- **App japonês:** [id 1529993020](https://apps.apple.com/jp/app/id1529993020) mostra "página não encontrada". Sem nota. Não usar a nota dos EUA no lugar.
+- **Relato antigo sem uso:** [LIPS](https://lipscosme.com/posts/1730663) e [JINI BLOG](https://jennie-log.com/stylekorean-review) descrevem a loja antiga.
+- **Sem afirmar:** reabertura, migração de contas ou encerramento global.
 
 ## Busca do autocompletar (08/11)
 
 "is stylekorean legit" (reddit, website), "safe", "authentic", "reliable", "real", "trustworthy", "good"; "stylekorean reviews" (reddit, Canadá, Austrália); "refund" (reddit); "order status", "order tracking"; "ist stylekorean seriös"; "stylekorean erfahrung"; "stylekorean avis"; "stylekorean recensioni"; "stylekorean opiniones"; "hola stylekorean es confiable".
+
+## Conferência das fontes abertas (09/11, sessão de artigos)
+
+- **Faturamento:** a página de histórico da Silicon2 traz "Recorded revenue of KRW 1.12 trillion" em 2025. O texto cita esse número e essa página, sem depender do PDF.
+- **FAQ, frete e devolução:** conferidos. O reembolso está como "at least 2-14 business days". O limite é de US$ 500, sem o frete.
+- **App Store (EUA):** 2,7 em 135. A página mostra o desenvolvedor como STYLEKOREAN.COM; o texto não cita o vendedor.
+- **Japão:** em `stylekoreanjp.com`, a página de lei comercial está marcada como rascunho de revisão (改定草案); vendedor 株式会社SILICON2, endereço na Coreia, preço em ienes com imposto, frete de 500 ienes e grátis a partir de 3.800, envio da Coreia com possível imposto de importação por conta do cliente. Não apareceu aviso de encerramento nas páginas lidas (aviso legal, empresa e avisos), mas os títulos dos avisos não foram extraídos.
+- **Trustpilot:** relido na tela em 09/11, no Chrome.
 
 ## Fontes
 
