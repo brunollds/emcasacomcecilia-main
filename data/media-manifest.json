@@ -45383,6 +45383,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-ou-hering-comfort-algodao-peruano.webp",
+      "local_url": "/images/reviews/clea-store/clea-ou-hering-comfort-algodao-peruano.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83290,
+      "sha256": "21729f6a637a0743d87852a73233a34d2ec05b3826ebfe4d4e12f3b311b6a97f",
+      "width": 1000,
+      "height": 1499,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-ou-hering-comfort-algodao-peruano.webp",
+      "storage_filename": "clea-ou-hering-comfort-algodao-peruano.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-ou-hering-camiseta-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-ou-hering-camiseta-feminina.json",
+          "line": 176,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-ou-hering-comfort-algodao-peruano.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199873,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-ou-hering-comfort-algodao-peruano.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/21729f6a637a0743d87852a73233a34d2ec05b3826ebfe4d4e12f3b311b6a97f/clea-ou-hering-comfort-algodao-peruano.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/21729f6a637a0743d87852a73233a34d2ec05b3826ebfe4d4e12f3b311b6a97f/clea-ou-hering-comfort-algodao-peruano.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T23:55:16.307Z",
+      "verification_etag_or_digest": "21729f6a637a0743d87852a73233a34d2ec05b3826ebfe4d4e12f3b311b6a97f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-ou-hering-kit-oversized-classic.webp",
+      "local_url": "/images/reviews/clea-store/clea-ou-hering-kit-oversized-classic.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27186,
+      "sha256": "7f02e1ebe9de45ee0d973f3add3b114f4d962e75932c536836fc59fd632cb0f2",
+      "width": 1000,
+      "height": 1499,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-ou-hering-kit-oversized-classic.webp",
+      "storage_filename": "clea-ou-hering-kit-oversized-classic.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-ou-hering-camiseta-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-ou-hering-camiseta-feminina.json",
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-ou-hering-kit-oversized-classic.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199791,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-ou-hering-kit-oversized-classic.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7f02e1ebe9de45ee0d973f3add3b114f4d962e75932c536836fc59fd632cb0f2/clea-ou-hering-kit-oversized-classic.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f02e1ebe9de45ee0d973f3add3b114f4d962e75932c536836fc59fd632cb0f2/clea-ou-hering-kit-oversized-classic.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T23:55:16.307Z",
+      "verification_etag_or_digest": "7f02e1ebe9de45ee0d973f3add3b114f4d962e75932c536836fc59fd632cb0f2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-ou-hering-oversized-vermelha.webp",
+      "local_url": "/images/reviews/clea-store/clea-ou-hering-oversized-vermelha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 103418,
+      "sha256": "566b7e3f5d243e45ca1faaff973527e92aef5e09bb917734eade2ea06561f350",
+      "width": 1000,
+      "height": 1499,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-ou-hering-oversized-vermelha.webp",
+      "storage_filename": "clea-ou-hering-oversized-vermelha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-ou-hering-camiseta-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-ou-hering-camiseta-feminina.json",
+          "line": 102,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-ou-hering-oversized-vermelha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199799,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-ou-hering-oversized-vermelha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/566b7e3f5d243e45ca1faaff973527e92aef5e09bb917734eade2ea06561f350/clea-ou-hering-oversized-vermelha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/566b7e3f5d243e45ca1faaff973527e92aef5e09bb917734eade2ea06561f350/clea-ou-hering-oversized-vermelha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T23:55:16.307Z",
+      "verification_etag_or_digest": "566b7e3f5d243e45ca1faaff973527e92aef5e09bb917734eade2ea06561f350",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp",
       "local_url": "/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp",
       "media_kind": "image",
@@ -46114,6 +46252,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T04:43:08.355Z",
       "verification_etag_or_digest": "943e50e34a13e133fea8c6d288614aba360ebc238687ec0307686a11113b81ea",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-ou-hering-camiseta-feminina-capa-discover.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-ou-hering-camiseta-feminina-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95046,
+      "sha256": "dfecdd10fc364b037624966cfa4364e9463f8c2d865451daab699040e1e8bdaa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-ou-hering-camiseta-feminina-capa-discover.webp",
+      "storage_filename": "clea-store-ou-hering-camiseta-feminina-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-ou-hering-camiseta-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-ou-hering-camiseta-feminina.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-ou-hering-camiseta-feminina-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 199719,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-ou-hering-camiseta-feminina-capa-discover.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dfecdd10fc364b037624966cfa4364e9463f8c2d865451daab699040e1e8bdaa/clea-store-ou-hering-camiseta-feminina-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dfecdd10fc364b037624966cfa4364e9463f8c2d865451daab699040e1e8bdaa/clea-store-ou-hering-camiseta-feminina-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-08T23:55:16.307Z",
+      "verification_etag_or_digest": "dfecdd10fc364b037624966cfa4364e9463f8c2d865451daab699040e1e8bdaa",
       "verification_status": "verified"
     },
     {
