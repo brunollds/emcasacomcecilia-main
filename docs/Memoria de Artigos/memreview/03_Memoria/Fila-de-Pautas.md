@@ -18,7 +18,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | JSON pronto (id 864), com rascunho e imagens aprovados em 08/11. Falta o deploy; reler preços e grade antes dele |
 | SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
 | SK2 | StyleKorean é confiável? A empresa é real; as queixas são de entrega, taxa e reembolso (combinada em 08/11; "podemos seguir" do Bruno em 09/11) | YesStyle | 10 idiomas | [[stylekorean-e-confiavel]] | Pronta (PR da SK2): nota e 60 avaliações relidas em 09/11. Deploy só com GO do Bruno |
-| PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | A primeira leitura de preços, com o sinal do Bruno. Depois, redação. Atualizar com a leitura de 27/11 |
+| PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | Redação (primeira leitura feita em 09/11). Do Bruno: confirmar os anúncios da DAMIE na Amazon e na Magalu e converter os links. Atualizar com a leitura de 27/11 |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -105,7 +105,7 @@ Também sem GO:
 | PP2 | Poltrona do papai elétrica: quanto custa e qual compensa (guia-mãe) | Mesma leitura de preços da PP1, sem repetir o foco em desconto. "Premium" é escolha do Bruno, com título concreto (elétrica e couro). Sem outro "elétrica ou manual", que o subdomínio já cobre. FAQ: cadeira do papai, poltrona do papai e reclinável são a mesma coisa? |
 | PP3 | Presente de Natal para pai: a poltrona do papai vale? | Logo depois da Black Friday, com o prazo de entrega. O título diz "presente": "poltrona do papai natal" no autocompletar traz a cidade de Natal/RN. Linkar `presente-de-natal-para-casa-moveis` |
 | PP4 | Poltrona do papai de couro ou corino: qual escolher | Compara o mercado; os tecidos da DAMIE seguem no subdomínio. Nossas poltronas diferem em mais que o revestimento (2.0 de corino, Levita de couro, 1.0 de linho): a experiência enriquece, mas não é teste controlado de material |
-| PP5 | Poltrona do papai na Magazine Luiza, Casas Bahia ou direto da fábrica | Só com mesmo produto, vendedor, configuração, frete e pós-venda. Ser parceira não justifica a pauta. A DAMIE só entra como "direto da fábrica" se isso for confirmado (não conferido) |
+| PP5 | Poltrona do papai na Magazine Luiza, Casas Bahia ou direto da fábrica | Só com mesmo produto, vendedor, configuração, frete e pós-venda. Ser parceira não justifica a pauta. A DAMIE vende também na Magalu, no Mercado Livre e na Amazon (Bruno, 09/11). A página dela declara "Direto da fábrica": citar como declaração da loja, a menos que se confirme |
 | Depois | Moveleiro, Gran Belo, Herval, Stressless e Natuzzi, um artigo por marca | Fatos abaixo. Reler ao abrir |
 | Reserva | Ortobom e Tempus | Fatos abaixo |
 
@@ -182,7 +182,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | Quando | O que |
 |---|---|
 | 12/11, 20/11, 27/11 e 30/11 | SB1: ler o preço das 19 peças, do mesmo jeito, e preencher os fatos. A do dia 12 fecha a 11.11 e não se recupera depois |
-| Com o sinal do Bruno e 27/11 | PP1: ler o preço das poltronas, do mesmo jeito, e preencher os fatos. Reler também antes de publicar, até cerca de 20/11 |
+| Até cerca de 20/11 e 27/11 | PP1: reler o preço das poltronas antes de publicar e de novo na Black Friday, do mesmo jeito, e preencher os fatos |
 | 13/11 e na abertura da campanha | `shein-black-friday` (10 idiomas): "hoje está no 11.11" envelhece. Reler as lojas e atualizar as datas |
 | 05/11 | Autobronzeador Skelt: reler os preços |
 | Até 21/11 | Skelt: refazer o teste do cupom, porque a regra vence em 21/11 |

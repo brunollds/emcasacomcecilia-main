@@ -10,8 +10,8 @@ type: "Guia de Black Friday"
 anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "primeira leitura de preços, com o sinal do Bruno; depois, redação (Job 2)"
-bloqueado_por: "sinal do Bruno para a primeira leitura"
+proxima_acao: "redação (Job 2)"
+bloqueado_por: null
 score_autoridade: 78
 score_conversao: 76
 score_ponderado_total: 78
@@ -32,7 +32,7 @@ PP1, a primeira da série "poltrona do papai" (decisão do Bruno, 09/11/2026; pl
 
 ## 1. Portões
 
-- [x] **Evidência:** preços da DAMIE de outubro já publicados no site. As leituras de novembro ainda não foram feitas.
+- [x] **Evidência:** preços da DAMIE de outubro já publicados no site e primeira leitura de novembro feita em 09/11.
 - [x] **Regulatório:** móvel. Sem promessa terapêutica para massagem ou elevação.
 - [x] **Experiência própria:** tudo o que temos da DAMIE foi recebido em parceria. Só as DAMIE têm uso nosso.
 - [x] **Canibalização:** `black-friday-damie` segue como a página da campanha da loja e recebe link. Este artigo capta quem busca a categoria.
@@ -48,11 +48,12 @@ PP1, a primeira da série "poltrona do papai" (decisão do Bruno, 09/11/2026; pl
 
 ## 3. A tese
 
-O resultado só se conhece com as leituras, e o artigo não antecipa a conclusão. O que já se pode dizer: na DAMIE, o desconto de R$ 1.000 das poltronas já existia em outubro, então o preço cheio riscado não é a base certa de comparação. O que mudou na campanha foi o brinde.
+O resultado só se conhece com as leituras, e o artigo não antecipa a conclusão. O que já se pode dizer: na DAMIE, os preços de 09/11 são os mesmos de outubro nas 12 configurações com base. O desconto de R$ 1.000 já existia, então o riscado não é a base certa de comparação. O que mudou na campanha foi o brinde. A mesma poltrona também aparece na Amazon e na Magalu, e o site com o CECILIA12 ficou abaixo delas nas cinco configurações lidas, antes de frete.
 
 ## 4. Regras
 
-- **Cada poltrona é comparada com ela mesma.** O artigo não diz que uma é mais barata que a outra entre lojas, porque as configurações não são equivalentes. Nada de ranking de preço.
+- **Cada poltrona é comparada com ela mesma.** Entre marcas não há "mais barata", porque as configurações não são equivalentes. A única comparação entre lojas é a da mesma DAMIE (site, Amazon e Magalu), depois de confirmar que o anúncio é a mesma poltrona.
+- **Riscado do configurador:** a página soma os brindes ao riscado (R$ 4.919 na manual em suede, contra R$ 3.969 de preço cheio). O texto compara com o preço de outubro.
 - **Só os números e como foram lidos.** Não dizer que uma loja sobe o preço para dar desconto nem que a oferta engana. Não sabemos a causa.
 - **A oferta é mais que o preço.** Registrar também brinde e frete a cada leitura. Preço igual com brinde maior é uma mudança, e o texto diz qual.
 - **Mesma configuração a cada leitura:** modelo, base, revestimento e cor. Anotar se esgotou ou se saiu do catálogo.
@@ -60,7 +61,7 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 - **CECILIA12:** 12%, em todas as formas de pagamento (nunca escrever só "Pix e cartão"). Soma com promoções, Pix e desconto por quantidade. Não soma com outro cupom nem com o giftback de 15%, que é crédito para compra futura. Não vale nos anúncios da DAMIE no Mercado Livre.
 - **Campanha da DAMIE até 27/11:** reler preços e brindes antes de citar. A Cyber Monday fica fora do prazo.
 - **Concorrentes:** sem link, sem foto e sem cupom. Entram pela ficha, e o texto diz que não foram testados.
-- **Magalu:** é parceira e leva o link da loja Magazine Você, que o Bruno converte. O código só vale no navegador, em item vendido e entregue pelo Magalu: anotar o vendedor. Sem isso, a peça entra sem código.
+- **Magalu e Amazon:** levam o link que o Bruno converte. Os anúncios da DAMIE são vendidos pela própria DAMIE, então os códigos da Magalu não valem neles, e o CECILIA12 é do site. Não dizer que os brindes valem nessas lojas sem conferir.
 - **Guia amplo:** pode citar várias marcas. É a exceção à regra de "um X ou Y por marca".
 - **Não escrever:** giro de 360° (a Levita gira até 280°; a base com balanço, 180°), capacidade de peso da reclinável (a página diverge), "compramos" (foi recebido).
 - **Vocabulário:** "poltrona do papai" como termo principal, com "cadeira do papai" e "poltrona reclinável" onde couber, sem forçar.
@@ -74,7 +75,8 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 1. **Resposta rápida:** o que as leituras mostram até ali, o limite da medida e o CECILIA12 (sem R$).
 2. **Como lemos os preços:** quais poltronas, quais datas, o que fica de fora.
 3. **As poltronas DAMIE, fase a fase** (tabela no cartão, com o link de cada uma e a coluna com o código).
-4. **As poltronas de outras lojas, fase a fase** (tabela no cartão; só a Magalu com link).
+4. **A mesma DAMIE no site, na Amazon e na Magalu** (tabela no cartão, com o site com o código e a ressalva de frete e brindes).
+4b. **Outras marcas, fase a fase** (tabela no cartão; só a Magalu com link).
 5. **O que mudou e o que não mudou:** quantas subiram, desceram ou ficaram iguais, e os casos extremos.
 6. **Preço igual pode ser oferta diferente:** brinde, frete e prazo. Sem repetir as somas do `black-friday-damie`, que recebe link.
 7. **Como saber se o desconto é real na sua poltrona:** comparar com o preço de semanas antes, fixar configuração, olhar frete e vendedor.
@@ -85,7 +87,7 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 
 | Quando | O quê |
 |---|---|
-| **Com o sinal do Bruno, nesta semana** | Primeira leitura: fechar a lista das outras lojas e preencher os fatos |
+| **09/11** | Primeira leitura feita |
 | **Até cerca de 20/11** | Redação e publicação, com a releitura dos preços antes de subir. Sem resultado final, o texto diz que a leitura da data ainda vem |
 | **27/11** | Segunda leitura, no dia da Black Friday, e atualização do artigo com o resultado |
 
@@ -93,9 +95,8 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 
 | Quem | O quê |
 |---|---|
-| **Bruno** | O sinal para a primeira leitura. Opcional: GSC de "poltrona do papai" e variações, para os dois domínios |
-| **Pautas** | Primeira leitura no navegador, com a lista final das outras lojas. Conferir na ficha se o "Florença Damie" visto na Magalu é mesmo da DAMIE |
-| **Artigos** | Redação, JSON, capa, Job 3 e PR, depois da primeira leitura |
+| **Bruno** | Confirmar se Florença, Eames, Imperial e Nina são a mesma reclinável do site; converter os links da Amazon e da Magalu; abrir o Mercado Livre logado, se quiser essa coluna. Opcional: GSC de "poltrona do papai" e variações |
+| **Artigos** | Redação, JSON, capa, Job 3 e PR |
 
 ## 8. Pontuação
 
