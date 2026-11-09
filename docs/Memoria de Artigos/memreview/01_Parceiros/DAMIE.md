@@ -137,3 +137,18 @@ com encosto de cabeça, qual a melhor, vale a pena.
 
 Pendente: `poltrona-charles-eames-design-iconico-e-alternativas` diz que a FAQ da Levita informa
 giro de até 280°; a página oficial informava 360° em 07/10/2026.
+
+## Perguntas reais
+
+Consultas literais, com a fonte. Autocompletar é presença, sem volume.
+
+| Pergunta ou consulta | Fonte |
+|---|---|
+| poltrona do papai eletrica preco | Autocompletar, 09/11/2026 |
+| cadeira do papai eletrica preço | Autocompletar, 09/11/2026 |
+| poltrona do papai eletrica couro | Autocompletar, 09/11/2026 |
+| poltrona do papai eletrica com controle remoto | Autocompletar, 09/11/2026 |
+| poltrona do papai eletrica damie | Autocompletar, 09/11/2026 |
+| poltrona do papai melhor custo benefício | Autocompletar, 09/11/2026 |
+| poltrona do papai qual o valor | Autocompletar, 09/11/2026 |
+| Qual é a poltrona do papai com melhor custo benefício? | FAQ do Zoom, 09/11/2026 |
