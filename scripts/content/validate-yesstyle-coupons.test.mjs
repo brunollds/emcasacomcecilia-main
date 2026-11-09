@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import test from 'node:test';
 
-import { validateYesStyleCoupons } from './validate-yesstyle-coupons.mjs';
+import { validateYesStyleCoupons, yesStyleToday } from './validate-yesstyle-coupons.mjs';
 
 const source = JSON.parse(readFileSync('data/coupons/yesstyle.json', 'utf8'));
 const fixture = () => structuredClone(source);
@@ -20,6 +20,11 @@ const lastExpiration = activePromos.reduce(
 const expiredToday = new Date(`${lastExpiration}T00:00:00Z`);
 expiredToday.setUTCDate(expiredToday.getUTCDate() + 1);
 const dayAfterExpiration = expiredToday.toISOString().slice(0, 10);
+
+test('o dia da YesStyle vira às 02:00 GMT, 23h de Brasília', () => {
+  assert.equal(yesStyleToday(new Date('2026-11-09T01:59:59Z')), '2026-11-08');
+  assert.equal(yesStyleToday(new Date('2026-11-09T02:00:00Z')), '2026-11-09');
+});
 
 test('aceita a fonte factual atual na data da verificação', () => {
   assert.doesNotThrow(() => validateYesStyleCoupons(fixture(), { today: validToday }));

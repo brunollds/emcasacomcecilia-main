@@ -21,7 +21,7 @@ npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
 npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT; loja ativa de INTERNATIONAL_STORES com página nos 9 idiomas
-npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
+npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (o dia vira às 02:00 GMT, 23h de Brasília)
 npm run test:yesstyle-article-date  # {yesstyle:verifiedAt} nos artigos: o build-index troca pela data da página /cupons/yesstyle no idioma do artigo; marcação que sobra para o build
 npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"; consentimento (store, valor inválido, armazenamento bloqueado, os dois loaders atrás de isTrackingAllowed, textos do aviso nos 10 idiomas)
 npm run test:language-suggestion  # faixa de sugestão de idioma: idioma do navegador → do site (chinês pela escrita), escolha pelo hreflang da página, inglês sem idioma do site, textos dos 10 idiomas e nada de redirecionamento
