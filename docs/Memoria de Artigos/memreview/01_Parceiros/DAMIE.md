@@ -152,3 +152,14 @@ Consultas literais, com a fonte. Autocompletar é presença, sem volume.
 | poltrona do papai melhor custo benefício | Autocompletar, 09/11/2026 |
 | poltrona do papai qual o valor | Autocompletar, 09/11/2026 |
 | Qual é a poltrona do papai com melhor custo benefício? | FAQ do Zoom, 09/11/2026 |
+| presente de natal para pai | Autocompletar, 09/11/2026 |
+| presente de natal para pai e mãe | Autocompletar, 09/11/2026 |
+| presente de natal para pai idoso | Autocompletar, 09/11/2026 |
+| presente de natal para meu pai | Autocompletar, 09/11/2026 |
+| melhor presente para pai | Autocompletar, 09/11/2026 |
+
+## Entrega e devolução (leitura de 09/11/2026)
+
+- **Prazo na página do produto, por estado:** 4 a 8 dias úteis em SP, PR, SC e RS; 5 a 10 em RJ, MG, ES, DF, GO, MT e MS. Lido na elétrica fixa e na elevação, fora do pico.
+- **Frete:** o seletor mostrou frete grátis também no Centro-Oeste, o que difere da regra registrada acima. Confirmar no CEP.
+- **Divergência sem resposta:** a página do produto promete 30 dias para experimentar em casa, com coleta e reembolso. A `/policies/refund-policy` exige item "não usado" e diz não aceitar itens em promoção nem personalizados. Pergunta da PP3 para o Bruno levar à DAMIE.
