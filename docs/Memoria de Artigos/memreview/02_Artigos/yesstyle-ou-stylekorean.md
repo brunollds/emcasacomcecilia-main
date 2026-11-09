@@ -26,6 +26,8 @@ status_i18n: "nao-aplicavel"
 
 # Briefing de Pauta: YesStyle ou StyleKorean
 
+> **Registro de 21/10.** Virou reforço da família `yesstyle-vs-alternatives`. Desde 08/11/2026 a frente é outra: ver [[yesstyle-ou-stylekorean-qual-compensa]]. A leitura do aviso "items that can be shipped to Brazil" feita aqui está corrigida nos fatos da SK1: o aviso mostra o país selecionado.
+
 Pauta 2 da fila (`VAULT/03_Memoria/Fila-de-Pautas.md`), aprovada pelo Bruno em 12/10/2026. Sai nos 10 idiomas como família
 própria (`translationKey` proposto `yesstyle-vs-stylekorean`), com a nota do cluster
 [[03_Memoria/Clusters-Multilingues/YesStyle]]. Leitura de 21/10/2026, por requisição simples (curl), sem navegador.
