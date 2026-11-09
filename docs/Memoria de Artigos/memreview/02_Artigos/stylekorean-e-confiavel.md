@@ -7,9 +7,9 @@ category: "confianca-reputacao"
 reviewKind: "guia"
 type: "Análise de Reputação"
 anexo_tipo: "nenhum"
-status: "pronto-para-publicar"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy só com GO do Bruno; reler nota e avaliações se o deploy passar de alguns dias"
+proxima_acao: "reler nota, painéis e avaliações na Black Friday; SK3 e SK4 dependem do GO do Bruno"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 74
@@ -21,6 +21,7 @@ modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
 status_i18n: "paridade-completa"
+publicado_em: "2026-11-09"
 affiliate: "yesstyle"
 coupon: "CECILIA010"
 ---
