@@ -53,11 +53,11 @@ Leitura de 09/11, pelos links que o Bruno converteu. Vendedor: "Damie Poltronas"
 |---|---|---|---|---|---|---|
 | Manual em suede | R$ 2.969 | R$ 2.612,72 | [R$ 2.820,55](https://link.amazon/B0g4yOXem) | [R$ 2.969 / R$ 2.820,55](https://magazineluiza.onelink.me/589508454/o7tgd3zp) | sem link | |
 | Manual em corino, com massagem | R$ 3.049 | R$ 2.683,12 | sem link | sem link | [R$ 3.029 (R$ 5.816)](https://meli.la/2YaKVaj) | |
-| Elétrica fixa em suede | R$ 3.749 | R$ 3.299,12 | [R$ 3.561,55](https://link.amazon/B03dUu72p) | R$ 3.749 / R$ 3.561,55 (sem link convertido) | [R$ 3.749 (R$ 4.685)](https://meli.la/1nDXwzh) | |
+| Elétrica fixa em suede | R$ 3.749 | R$ 3.299,12 | [R$ 3.561,55](https://link.amazon/B03dUu72p) | [R$ 3.749 / R$ 3.561,55](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-em-suede-modelo-florenca-damie/p/ab44bc9b65/mo/polr/) | [R$ 3.749 (R$ 4.685)](https://meli.la/1nDXwzh) | |
 | Elétrica fixa em corino | R$ 3.849 | R$ 3.387,12 | sem link | [R$ 3.849 / R$ 3.656,55](https://magazineluiza.onelink.me/589508454/4qcueiad) | sem link | |
 | Elevação em suede | R$ 4.969 | R$ 4.372,72 | [R$ 4.720,55](https://link.amazon/B00yYT4NS) | [R$ 4.969 / R$ 4.720,55](https://magazineluiza.onelink.me/589508454/cmyhq0fq) | [R$ 4.969 (R$ 6.190)](https://meli.la/2JRSo6Y) | |
 | Giro e balanço em linho | R$ 4.299 | R$ 3.783,12 | [R$ 4.084,05](https://link.amazon/B07K55HtT) (riscado R$ 5.142) | não achei | ver abaixo | |
-| Elétrica fixa em couro | R$ 5.199 | R$ 4.575,12 | [R$ 4.939,05](https://link.amazon/B08YQuoHp) | R$ 5.199 / R$ 4.939,05 (sem link convertido) | [R$ 5.199 (R$ 7.200)](https://meli.la/2kTWEMG) | |
+| Elétrica fixa em couro | R$ 5.199 | R$ 4.575,12 | [R$ 4.939,05](https://link.amazon/B08YQuoHp) | [R$ 5.199 / R$ 4.939,05](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-em-couro-bovino-modelo-eames-damie/p/cggj8ef299/mo/polr/) | [R$ 5.199 (R$ 7.200)](https://meli.la/2kTWEMG) | |
 
 - **Leitura:** a Amazon e o Pix da Magalu estão 5% abaixo do preço do site no cartão. O Mercado Livre repete o preço do site, salvo a manual em corino (R$ 20 a menos), com riscados maiores. O site com o CECILIA12 ficou abaixo de todos, antes de frete.
 - **Riscado do Mercado Livre:** vai de R$ 4.685 a R$ 7.200 e não bate com o preço cheio do site. É mais um motivo para comparar com o preço de outubro.
@@ -66,11 +66,11 @@ Leitura de 09/11, pelos links que o Bruno converteu. Vendedor: "Damie Poltronas"
 - **Não li:** frete e prazo por CEP nas lojas da DAMIE e se os brindes valem fora do site. A Amazon estimou envio de 9 a 12 dias.
 - **Divergência:** a Magalu tem "Elétrica em couro, Florença" a R$ 5.749 e "Eames" a R$ 5.199. Fica de fora a de R$ 5.749.
 - **Códigos:** o CECILIA12 é do site e não vale no Mercado Livre. Os códigos da Magalu não valem nos anúncios vendidos pela Poltronas Damie.
-- **Catálogo na Magazine Você:** [busca da DAMIE](https://www.magazinevoce.com.br/magazineemcasacomcecilia/busca/poltrona+do+papai+damie/). Os links da Magazine Você também geram comissão (Bruno, 09/11).
+- **Catálogo na Magazine Você:** [busca da DAMIE](https://www.magazinevoce.com.br/magazineemcasacomcecilia/busca/poltrona+do+papai+damie/). Link de produto da Magalu vira afiliado ao trocar o começo do endereço por `https://www.magazinevoce.com.br/magazineemcasacomcecilia/` e manter o resto (Bruno, 09/11; os dois links da tabela abriram a ficha com o mesmo preço).
 
 ## Outras marcas
 
-**Decisão a confirmar:** o Bruno converteu links de concorrentes na Amazon, na Magalu e no Mercado Livre em 09/11, então essas peças entram com o link da plataforma. Sem foto e sem cupom. MadeiraMadeira e Moveleiro seguem sem link. Não comparar com a DAMIE: cada peça é comparada com ela mesma.
+**Decisão do Bruno (09/11):** as peças da Amazon, da Magalu e do Mercado Livre entram com o link de afiliado e com a foto, porque aqui são alternativas ao leitor e geram comissão. Sem cupom de terceiros. MadeiraMadeira e Moveleiro não geram comissão: seguem sem link e sem foto. Não comparar com a DAMIE: cada peça é comparada com ela mesma.
 
 | Loja | Peça | Vendedor | Riscado | Cartão | Pix | Frete (CEP do Bruno) | Black Friday |
 |---|---|---|---|---|---|---|---|

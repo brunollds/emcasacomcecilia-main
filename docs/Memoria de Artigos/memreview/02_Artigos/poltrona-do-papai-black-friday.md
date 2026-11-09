@@ -60,7 +60,7 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 - **Preço da DAMIE com o código, com a conta marcada como nossa:** preço × 0,88 no cartão, preço × 0,88 × 0,90 no Pix. Na giro e balanço de R$ 4.299, dá R$ 3.783,12 e R$ 3.404,81, como no `black-friday-damie`.
 - **CECILIA12:** 12%, em todas as formas de pagamento (nunca escrever só "Pix e cartão"). Soma com promoções, Pix e desconto por quantidade. Não soma com outro cupom nem com o giftback de 15%, que é crédito para compra futura. Não vale nos anúncios da DAMIE no Mercado Livre.
 - **Campanha da DAMIE até 27/11:** reler preços e brindes antes de citar. A Cyber Monday fica fora do prazo.
-- **Outras marcas:** sem foto e sem cupom, entrando pela ficha, e o texto diz que não foram testadas. Na Amazon, na Magalu e no Mercado Livre, levam o link convertido pelo Bruno; MadeiraMadeira e Moveleiro ficam sem link.
+- **Outras marcas:** entram pela ficha, e o texto diz que não foram testadas. Na Amazon, na Magalu e no Mercado Livre, levam link de afiliado e foto, porque são alternativas que geram comissão (Bruno, 09/11). MadeiraMadeira e Moveleiro não geram comissão: sem link e sem foto. Nunca cupom de terceiros.
 - **Frete:** dizer que muda por CEP e pode pesar muito, com os exemplos do Bruno. Sem generalizar.
 - **Preço real no Mercado Livre:** a Austin USB entra por R$ 4.689, por decisão do Bruno, e não pela promoção do dia.
 - **DAMIE na Amazon, na Magalu e no Mercado Livre:** levam os links convertidos. Os anúncios são vendidos pela própria DAMIE, então os códigos da Magalu não valem neles, e o CECILIA12 é do site. Não dizer que os brindes valem nessas lojas sem conferir.
@@ -68,7 +68,7 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 - **Não escrever:** giro de 360° (a Levita gira até 280°; a base com balanço, 180°), capacidade de peso da reclinável (a página diverge), "compramos" (foi recebido).
 - **Vocabulário:** "poltrona do papai" como termo principal, com "cadeira do papai" e "poltrona reclinável" onde couber, sem forçar.
 - **Catraca:** resposta rápida de 2 a 3 frases (40 a 60 palavras), sem R$. `bodyDatesReason: "campanha"`, com no máximo 8 datas no corpo: as colunas levam a fase ("Outubro", "Novembro", "Semana da Black Friday") e uma frase diz as datas. Nenhuma data em título, legenda ou FAQ. `description` até 180 caracteres. `metaDescription` com o código terminando até o caractere 100, até 155 caracteres, sem R$.
-- **Imagens:** capa pelo Job 6 e ao menos 1 no corpo. Fotos reais, sem concorrente. As fotos ambientadas da DAMIE com cara de IA não entram.
+- **Imagens:** capa pelo Job 6 e ao menos 1 no corpo. Capa só com a DAMIE (Job 6: sem concorrente). No corpo, foto da DAMIE e foto das alternativas com link de afiliado. As fotos ambientadas da DAMIE com cara de IA não entram.
 - **Links:** `black-friday-damie`, `/cupons/damie` (até 3 pontos), `poltrona-damie-e-boa`, `poltronas-reclinaveis-damie-vale-o-investimento`, `poltrona-levita-o-topo-da-tecnologia-e-conforto` e `presente-de-natal-para-casa-moveis`. No subdomínio, os guias de escolha e o de massagem.
 - **Afiliado:** o CTA usa a página do código no subdomínio, com a UTM do dossiê e `utm_content=poltrona-do-papai-black-friday`. As peças da DAMIE levam o link da ficha na tabela.
 
@@ -97,7 +97,7 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 
 | Quem | O quê |
 |---|---|
-| **Bruno** | Opcional: links convertidos da Magalu para a elétrica fixa em suede e em couro; GSC de "poltrona do papai" e variações |
+| **Bruno** | Opcional: GSC de "poltrona do papai" e variações |
 | **Artigos** | Redação, JSON, capa, Job 3 e PR |
 
 ## 8. Pontuação
