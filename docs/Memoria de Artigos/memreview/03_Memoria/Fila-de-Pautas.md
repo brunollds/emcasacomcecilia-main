@@ -83,15 +83,16 @@ Também sem GO:
 - **Hostinger ou GoDaddy: qual compensa.** Virou a H9 em 06/11, a pedido do Bruno, antes da série de migração (seção 1).
 - **"<Marca> é boa?" nos parceiros que faltam:** DAMIE (subdomínio primeiro), YesStyle, Magalu e Hostinger. Depois vem "produto X é bom?".
 
-**Série universal "Alternativa a <concorrente>" (decisão do Bruno, 08/11).** Para cada afiliado, avaliar os concorrentes que trazem busca e levar quem procura o concorrente até a nossa parceira. **Molde:** a SK1 e a sequência YesStyle × StyleKorean abaixo.
+**Série universal "Alternativas a <marca>" (decisão do Bruno, 08/11).** Frente aberta a todos os parceiros e categorias, sem obrigação de cobrir cada um. A marca do título pode ser concorrente externo ou um parceiro nosso (ex.: alternativas à Black Skull com Probiótica, Max Titanium e Dr. Peanut; à Growth, Adaptogen ou Integralmédica com os parceiros que atendem). Um artigo pode reunir várias alternativas, e cada uma leva ao parceiro que serve àquele cenário. **Molde de comparação:** a SK1 e a sequência YesStyle × StyleKorean abaixo.
 
-- **Como avaliar:** começa como seção do comparativo "<parceira> ou <concorrente>". Só ganha URL própria se a busca e o conteúdo forem diferentes do comparativo: recompra, produto em falta ou troca de loja. Não abrir "alternativa", "qual é melhor" e "vale a pena" como páginas quase iguais.
-- **Regras:** uma marca por artigo; produto equivalente; parceira com o código aplicado; concorrente sem link de afiliado e sem cupom; veredito com escopo; dizer onde o concorrente ganha. Saúde e infantil só pelo rótulo.
+- **Como avaliar:** partir de produto ou necessidade equivalente, com um critério que justifique cada opção: composição, quantidade, preço por dose e benefício aplicável. Só abrir URL se ela responder algo diferente do comparativo que já existir. Não abrir "alternativa", "qual é melhor" e "vale a pena" como páginas quase iguais.
+- **Regras:** uma marca de referência por artigo de alternativas. O comparativo direto segue "X ou Y", um por marca. Parceiro leva link e código e mostra para quem compensa; concorrente externo fica sem link de afiliado e sem cupom. Parceira como referência não é atacada: o texto diz por que alguém procuraria outra opção. Sem veredito único obrigatório; dizer onde cada opção ganha. Saúde e infantil só pelo rótulo.
 - **Autocompletar de 08/11 (presença, sem volume):**
   - **Hostinger:** "alternativa a hostgator", "hostgator ou hostinger" (com "para vps"), "hostinger é melhor que hostgator", "alternativas godaddy", "alternativa nuvemshop". A H9 (GoDaddy) já está no ar.
   - **Nutren:** "sustagen ou nutren" (adulto, idoso, senior, kids), "parecido com sustagen", "substituto do sustagen". Com "kids", na dúvida o pediatra e nunca fórmula infantil de 0 a 12 meses.
   - **Fita Up (Toda Up):** "fita trifil", "fita up trifil". Em 06/11, a Trifil só apareceu num anúncio de vendedor no Mercado Livre, sem página da marca: conferir antes.
-  - **Vazios ou ruído:** "alternativa ao sustagen", "alternativa growth", "alternativa ortobom". "Alternativa" em moda quase sempre quer dizer estilo de roupa. O vazio só baixa a nota. Vale testar "parecido com", "substituto de" e "<concorrente> ou <parceira>".
+  - **Suplementos:** "alternativa whey growth", "whey parecido com growth", "whey parecido com adaptogen". O direto aparece mais: "growth ou max titanium", "integralmedica ou max titanium", "integralmedica ou black skull", "black skull ou growth", "black skull ou max titanium". Ver as reservas A5 (Dr. Peanut) e o `melhor-whey` antes de abrir para não repetir.
+  - **Vazios ou ruído:** "alternativa ao sustagen", "alternativa black skull", "parecido com black skull", "alternativa ortobom". "Alternativa" em moda quase sempre quer dizer estilo de roupa. O vazio só baixa a nota. Vale testar "parecido com", "substituto de" e "<marca> ou <marca>".
 
 ### Por parceiro
 
