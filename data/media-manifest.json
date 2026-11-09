@@ -38155,6 +38155,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa.webp",
+      "local_url": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64556,
+      "sha256": "72a865ac57e35d197d6c514ee9496c114e9c451e51b6029f0bce2f985b544b16",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mala-23kg-medidas-latam-gol-azul-capa.webp",
+      "storage_filename": "mala-23kg-medidas-latam-gol-azul-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mala-23kg-medidas-latam-gol-azul.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mala-23kg-medidas-latam-gol-azul.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 208032,
+          "column": 15,
+          "literal": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/72a865ac57e35d197d6c514ee9496c114e9c451e51b6029f0bce2f985b544b16/mala-23kg-medidas-latam-gol-azul-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/72a865ac57e35d197d6c514ee9496c114e9c451e51b6029f0bce2f985b544b16/mala-23kg-medidas-latam-gol-azul-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T22:19:47.552Z",
+      "verification_etag_or_digest": "72a865ac57e35d197d6c514ee9496c114e9c451e51b6029f0bce2f985b544b16",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-swiss-one-balanca.webp",
+      "local_url": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-swiss-one-balanca.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100906,
+      "sha256": "00cbd7666cf8804f79a602e2f46cd2d7711d8381ed63159e21c3097a13d76835",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mala-23kg-medidas-latam-gol-azul-swiss-one-balanca.webp",
+      "storage_filename": "mala-23kg-medidas-latam-gol-azul-swiss-one-balanca.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mala-23kg-medidas-latam-gol-azul.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mala-23kg-medidas-latam-gol-azul.json",
+          "line": 188,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-swiss-one-balanca.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 208432,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-swiss-one-balanca.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/00cbd7666cf8804f79a602e2f46cd2d7711d8381ed63159e21c3097a13d76835/mala-23kg-medidas-latam-gol-azul-swiss-one-balanca.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/00cbd7666cf8804f79a602e2f46cd2d7711d8381ed63159e21c3097a13d76835/mala-23kg-medidas-latam-gol-azul-swiss-one-balanca.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-09T22:19:47.553Z",
+      "verification_etag_or_digest": "00cbd7666cf8804f79a602e2f46cd2d7711d8381ed63159e21c3097a13d76835",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa.webp",
       "local_url": "/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa.webp",
       "media_kind": "image",

@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-publicar"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2); reler preços e disponibilidade no dia"
+proxima_acao: "deploy com GO do Bruno; depois, tirar a BA1 da Fila"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 76
@@ -103,3 +103,16 @@ Pedido do Bruno em 09/11/2026: um artigo útil sobre a mala de 23 kg, que leva �
 | Cluster | 10 | 8 | Liga tamanho, bordo, material e Black Friday |
 | Viabilidade | 10 | 5 | Regras mudam pouco; preços mudam na Black Friday |
 | **Total** | 100 | **79** | |
+
+## Redação e revisão (09/11/2026)
+
+- JSON `content/reviews/mala-23kg-medidas-latam-gol-azul.json` (id 890, só PT). Preço e estoque relidos no catálogo da loja no mesmo dia: batem com os fatos.
+- Estrutura (reescrita do Farol, aplicada a pedido do Bruno): decisão primeiro (4 malas que atendem às três companhias, 2 exemplos que passam da profundidade da GOL), depois peso, mala de 32 kg, pesagem, excesso e cupom; no fim, a consulta com as 39 malas com estoque (21 médias e 18 grandes) em quadros de até 4 linhas e 4 colunas.
+- Job 3: a contagem das grandes virou 18 (a Bahamas Branca G e a Nova Bahamas G são modelos diferentes; a nota de 17 juntava as duas). Zurique G saiu do "maior espaço". A Hong Kong média fica fora das contas de peso (a página diz 1 kg).
+- Recusado com motivo: a LATAM aceita acima de 158 cm só como excesso pago (até 300 cm), então o texto diz que pode haver cobrança, sem valor. A Kyoto II segue com 28 cm de profundidade (a página lista 44 × 28 × 66 cm; o texto pede para conferir).
+- Link a partir do `tamanho-mala-bagaggio-p-m-g` entrou no mesmo PR.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 09/11/2026)
+
+- Capa: opção B (fileira Edimburgo 23", Cartagena Rosé e Detroit II, fotos oficiais), com a faixa "Mala de 23 kg: medidas para despachar" e "LATAM, GOL e Azul | CECILIA10: 10% na Bagaggio". No CDN, verificada.
+- Corpo: Detroit 26" (reaproveitada do guia de tamanho) e o mostrador da balança da Swiss One (foto oficial, nova, no CDN). As duas com link de afiliado.
