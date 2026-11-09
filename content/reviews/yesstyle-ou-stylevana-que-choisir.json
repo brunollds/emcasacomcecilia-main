@@ -90,49 +90,16 @@
       }
     },
     {
-      "heading": "StyleKorean : livraison gratuite par pays et limite de commande",
+      "heading": "StyleKorean : livraison, limite et retour",
       "paragraphs": [
-        "Chez StyleKorean, les frais de port sont calculés selon le poids et ne sont pas compris dans le prix du produit : les commandes partent d'un entrepôt en Corée et sont remises au transporteur sous 5 jours ouvrés. La livraison gratuite ne vaut que pour les produits de beauté : les albums et les produits de K-pop en sont exclus.",
-        "La commande est limitée à US$ 500, hors frais de port ; au-delà, la boutique demande de la scinder en deux commandes. Elle ne livre pas non plus en boîte postale ni aux adresses militaires (APO, FPO et DPO)."
+        "Chez StyleKorean, les frais de port sont calculés selon le poids et les commandes partent d'un entrepôt en Corée. La livraison gratuite ne vaut que pour les produits de beauté et, d'après le tableau de la page de livraison, commence entre US$ 60 et US$ 100 selon le pays. La commande est limitée à US$ 500, hors frais de port. Le retour pour rétractation exige un produit scellé et inutilisé, et les frais de port sont déduits du remboursement.",
+        "Pour voir StyleKorean à côté de YesStyle, avec les prix, la livraison, les taxes et les retours, lisez [YesStyle ou StyleKorean : laquelle vaut le coup pour votre porte-monnaie ? Comparaison directe](/fr/reviews/yesstyle-ou-stylekorean-que-choisir)."
       ],
-      "comparisonTable": {
-        "caption": "Livraison gratuite de StyleKorean par pays, d'après le tableau de la page d'expédition.",
-        "headers": [
-          "Livraison gratuite dès",
-          "Pays"
-        ],
-        "rows": [
-          [
-            "US$ 60",
-            "États-Unis, Canada, Australie et Israël"
-          ],
-          [
-            "US$ 70",
-            "Taïwan, Hong Kong, Singapour, Malaisie, Philippines, Vietnam, Cambodge et Indonésie"
-          ],
-          [
-            "US$ 80",
-            "Espagne, France, Belgique, Pays-Bas, Allemagne, Suisse, Italie, Royaume-Uni, Irlande, Danemark, Suède, Norvège, Pologne, Hongrie, Bulgarie, Roumanie, Émirats, Arabie saoudite, Qatar, Koweït, Bahreïn et Oman"
-          ],
-          [
-            "US$ 90",
-            "Autriche, Tchéquie, Grèce et Croatie"
-          ],
-          [
-            "US$ 100",
-            "Nouvelle-Zélande"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "Le tableau ne liste ni le Japon, ni le Mexique, ni le Chili, ni le Pérou, ni l'Argentine, ni la Colombie. Pour Singapour et la Malaisie, les tableaux de la boutique divergent : l'un indique US$ 50 et l'autre US$ 70, et la ligne ci-dessus retient US$ 70. Vérifiez la valeur au paiement."
-      ]
-    },
-    {
-      "heading": "Retours et points chez StyleKorean",
-      "paragraphs": [
-        "StyleKorean accepte le retour d'un produit scellé, inutilisé et sans marques, qui revient à l'entrepôt en Corée. Selon la page, la demande doit être faite sous 14 jours ouvrés après la réception de la commande. Il n'y a pas de retour pour allergie ou réaction cutanée.",
-        "Le remboursement se fait en points de la boutique, valables six mois, ou sur le moyen de paiement, 2 à 14 jours ouvrés après le traitement. Les frais de port sont déduits ; si le solde devient négatif, le client paie la différence. Un article endommagé ou manquant se signale avec des photos, la facture et la photo du carton, et la boutique ne le réexpédie pas."
+      "links": [
+        {
+          "label": "Livraison de StyleKorean, en anglais",
+          "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+        }
       ]
     },
     {
@@ -229,5 +196,5 @@
       "slug": "code-recompense-yesstyle-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-07"
+  "updatedAt": "2026-11-09"
 }

@@ -90,49 +90,16 @@
       }
     },
     {
-      "heading": "StyleKorean: kostenloser Versand nach Land und Bestellobergrenze",
+      "heading": "StyleKorean: Versand, Bestellobergrenze und Rückgabe",
       "paragraphs": [
-        "Bei StyleKorean wird der Versand nach Gewicht berechnet und ist nicht im Produktpreis enthalten: Die Bestellungen gehen von einem Lager in Korea aus und werden innerhalb von 5 Werktagen an den Transporteur übergeben. Der kostenlose Versand gilt nur für Beauty-Produkte: Alben und K-Pop-Produkte sind ausgenommen.",
-        "Die Bestellung ist auf US$ 500 begrenzt, ohne den Versand; darüber verlangt der Shop, sie in zwei Bestellungen aufzuteilen. Er liefert auch nicht an Postfächer und nicht an Militäradressen (APO, FPO und DPO)."
+        "Bei StyleKorean wird der Versand nach Gewicht berechnet, und die Bestellungen gehen von einem Lager in Korea aus. Der kostenlose Versand gilt nur für Beauty-Produkte; die Grenze dafür liegt laut Tabelle auf der Versandseite je nach Land zwischen US$ 60 und US$ 100. Die Bestellung ist auf US$ 500 begrenzt, ohne den Versand. Bei einer Rückgabe, weil Sie es sich anders überlegt haben, muss das Produkt versiegelt und unbenutzt sein, und der Versand der Bestellung wird von der Erstattung abgezogen.",
+        "Wie StyleKorean neben YesStyle abschneidet, mit Preisen, Versand, Steuern und Rückgabe, lesen Sie in [YesStyle oder StyleKorean: Welcher Shop lohnt sich fürs Portemonnaie? Direkter Vergleich](/de/reviews/yesstyle-oder-stylekorean-welcher-shop)."
       ],
-      "comparisonTable": {
-        "caption": "Kostenloser Versand bei StyleKorean nach Land, laut Tabelle auf der Versandseite.",
-        "headers": [
-          "Kostenlos ab",
-          "Länder"
-        ],
-        "rows": [
-          [
-            "US$ 60",
-            "USA, Kanada, Australien und Israel"
-          ],
-          [
-            "US$ 70",
-            "Taiwan, Hongkong, Singapur, Malaysia, Philippinen, Vietnam, Kambodscha und Indonesien"
-          ],
-          [
-            "US$ 80",
-            "Spanien, Frankreich, Belgien, Niederlande, Deutschland, Schweiz, Italien, Vereinigtes Königreich, Irland, Dänemark, Schweden, Norwegen, Polen, Ungarn, Bulgarien, Rumänien, Emirate, Saudi-Arabien, Katar, Kuwait, Bahrain und Oman"
-          ],
-          [
-            "US$ 90",
-            "Österreich, Tschechien, Griechenland und Kroatien"
-          ],
-          [
-            "US$ 100",
-            "Neuseeland"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "Die Tabelle nennt weder Japan noch Mexiko, Chile, Peru, Argentinien oder Kolumbien. Für Singapur und Malaysia widersprechen sich die Tabellen des Shops: Die eine nennt US$ 50, die andere US$ 70, und die Zeile oben nutzt US$ 70. Prüfen Sie den Wert an der Kasse."
-      ]
-    },
-    {
-      "heading": "Rückgabe und Punkte bei StyleKorean",
-      "paragraphs": [
-        "StyleKorean nimmt versiegelte, unbenutzte Produkte ohne Gebrauchsspuren zurück, die ins Lager in Korea zurückgehen. Die Seite verlangt den Antrag innerhalb von 14 Werktagen nach Erhalt der Bestellung. Eine Rückgabe wegen Allergie oder Hautreaktion gibt es nicht.",
-        "Die Erstattung erfolgt in Shop-Punkten, die sechs Monate gelten, oder auf die Zahlungsart, 2 bis 14 Werktage nach der Bearbeitung. Der Versand wird abgezogen; wird das Konto negativ, zahlt der Kunde die Differenz. Ein beschädigter oder fehlender Artikel wird mit Fotos, Beleg und Foto des Kartons gemeldet, und der Shop sendet ihn nicht erneut."
+      "links": [
+        {
+          "label": "Versandseite von StyleKorean, auf Englisch",
+          "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+        }
       ]
     },
     {
@@ -229,5 +196,5 @@
       "slug": "yesstyle-reward-code-rabatt-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-07"
+  "updatedAt": "2026-11-09"
 }
