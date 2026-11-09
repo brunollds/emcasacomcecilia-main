@@ -111,7 +111,14 @@ function discount(value, location) {
   }
 }
 
-export function validateYesStyleCoupons(value, { today = new Date().toISOString().slice(0, 10) } = {}) {
+// Desde o WITCH15 (02/11/2026) as promoções da YesStyle viram às 02:00 GMT, 23h de Brasília.
+const YESSTYLE_CUTOVER_MS = 2 * 60 * 60 * 1000;
+
+export function yesStyleToday(now = new Date()) {
+  return new Date(now.getTime() - YESSTYLE_CUTOVER_MS).toISOString().slice(0, 10);
+}
+
+export function validateYesStyleCoupons(value, { today = yesStyleToday() } = {}) {
   date(today, 'today');
   if (!Array.isArray(value) || value.length === 0) fail('yesstyle.json', 'raiz deve ser lista não vazia');
 

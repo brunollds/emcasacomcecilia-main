@@ -964,6 +964,7 @@ import {
 } from '@/lib/i18n/clusters/yesstyle';
 import { LOCALE_KEYS } from '@/lib/i18n/locales';
 import { YESSTYLE_COUPONS_FACTUAL } from '@/lib/yesstyleCoupons';
+import { yesStyleToday } from './content/validate-yesstyle-coupons.mjs';
 
 // 1. Validação do registro de locales e unicidade de rotas
 const registeredPathsAndSlugs = new Set<string>();
@@ -1018,8 +1019,7 @@ for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
       if (!isValidISODateString(coupon.expiresAt)) {
         reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com expiresAt malformada ou calendário impossível: "${coupon.expiresAt}"` });
       } else {
-        const expiryDate = new Date(`${coupon.expiresAt}T23:59:59.999Z`).getTime();
-        if (expiryDate < nowTimestamp) {
+        if (coupon.expiresAt < yesStyleToday()) {
           reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" expirou em ${coupon.expiresAt}` });
         }
       }
