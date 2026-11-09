@@ -10,6 +10,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
+| CH1 | Cléa Store ou Hering: camiseta feminina oversized e de algodão peruano (prioridade do Bruno, 08/11; guia pelas fichas, sem teste da peça) | Cléa Store | PT | [[clea-store-ou-hering-camiseta-feminina]] | JSON pronto (id 865), com rascunho e imagens aprovados em 08/11. Falta o deploy; reler preços e disponibilidade das duas lojas antes dele |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação |
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação |
@@ -27,7 +28,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | — | Colchão no "I Wanna Sleep é boa?" | I Wanna Sleep | Confirmar se o colchão só se compra nas lojas de BH. Se não, corrigir o artigo | Bruno |
 | — | Página fixa de seleção da SHEIN | SHEIN | Depois da 11.11: se o artigo tiver boa aceitação, criar no 12.12 | Bruno |
 | — | Seleção de Black Friday da SHEIN, no formato da 11.11 | SHEIN | A 11.11 ainda corre, e não dá para medir cada campanha sozinha (Bruno, 08/11). Precisa de outro critério ou do GO direto | Bruno |
-| A9 | Camiseta da Cléa com teste (o guia com fontes públicas está no ar) | Cléa Store | Uma camiseta para testar | Bruno |
+| A9 | Camiseta da Cléa com teste (o guia com fontes públicas está no ar) | Cléa Store | Um kit e um body para testar. Adiada pelo Bruno em 08/11, e o CH1 não depende dela | Bruno |
 | — | YesStyle volta a entregar no Brasil | YesStyle | Reverter as frases de "sem entrega" em `yesstyle-entrega-no-brasil-e-portugal`, `yesstyle-e-confiavel`, `yesstyle-app-como-comprar-codigo-de-recompensa`, `yesstyle-trustpilot-nota-reclamacoes`, `black-friday-yesstyle` e no dossiê | Bruno avisa |
 | — | Item 11 da otimização do GSC de 11/10 (cupom da Dolce Gusto) | Dolce Gusto | O export filtrado do GSC | Bruno |
 
