@@ -50,7 +50,7 @@ Preço anunciado na página do produto (dado estruturado da página, conferido e
 
 **Corrigido em 08/11:** a primeira pesquisa desta sessão disse que a StyleKorean ganhava no reembolso. Não ganha: a YesStyle também devolve à forma de pagamento, a pedido ([devolução](https://www.yesstyle.com/en/returns/help/section.html/hsi.736)). A diferença é o padrão. A página [hsi.857](https://www.yesstyle.com/en/help/section.html/hsi.857) trata de saldo não usado em pedido e cancelamento, outro caso: pedir em 30 dias do e-mail.
 
-## Reputação (fica para a SK2)
+## Reputação (a nota abre a SK1; o detalhe fica na SK2)
 
 | Trustpilot, 08/11 | Nota | Avaliações | Negativas respondidas |
 |---|---|---|---|

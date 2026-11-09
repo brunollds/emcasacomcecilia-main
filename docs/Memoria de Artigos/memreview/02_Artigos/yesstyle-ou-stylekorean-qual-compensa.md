@@ -9,8 +9,8 @@ type: "Comparativo de Lojas"
 anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "leitura final das cestas e teste de carrinho; depois, redação (Job 2)"
-bloqueado_por: "teste de carrinho do Bruno"
+proxima_acao: "redação (Job 2) pode avançar com os totais pendentes; publicar só com as cestas relidas e o carrinho"
+bloqueado_por: null
 score_autoridade: 72
 score_conversao: 78
 score_ponderado_total: 76
@@ -41,13 +41,14 @@ SK1 da série YesStyle × StyleKorean. GO do Bruno em 08/11/2026. Substitui a de
 ## 2. Função
 
 - **Trabalho:** decisão. A pessoa está escolhendo onde comprar, e o artigo mostra quanto custa a mesma compra naquele destino.
+- **O que decide (Bruno, 08/11):** reputação, benefício aplicável, disponibilidade e custo total, nessa leitura conjunta. O preço é um dos critérios: a diferença de nota pesa mesmo que a StyleKorean tenha produtos mais baratos.
 - **O dado novo:** duas cestas fixas, com os mesmos produtos, no mesmo dia e no mesmo destino, com frete, encargos e o que cada loja dá de benefício. A comparação de produto avulso já existe em outros sites; a cesta com destino e elegibilidade, não nas páginas abertas.
 - **Conversão:** quando os dados favorecerem a YesStyle, recomendar com todas as letras e explicar o CECILIA010 no campo Reward Code. Onde perder, dizer onde perdeu e por quanto.
 - **Consultas:** "yesstyle vs stylekorean", "stylekorean vs yesstyle", "yesstyle or stylekorean", "stylekorean or yesstyle", com "reddit"; `yesstyle o stylekorean` (es). Só autocompletar: sem volume. O Bruno pode mandar o GSC filtrado, e isso pode mudar os destinos.
 
 ## 3. Regras desta pauta
 
-1. **O veredito tem escopo:** cesta, destino e data. Nunca "sempre mais barata".
+1. **O veredito tem escopo e não é só preço:** considera reputação, benefício aplicável, disponibilidade e custo total, por destino e com data. A recomendação não vai automaticamente à loja mais barata. Nunca "sempre mais barata", e a vantagem real da StyleKorean aparece.
 2. **A negativa da afiliação não é argumento** e não entra no texto. A nota editorial diz que só a YesStyle paga comissão.
 3. **Concorrente:** sem link de afiliado, sem código, sem foto de produto e sem link de produto. Link simples só como fonte de política, como em 21/10. Os produtos da YesStyle levam link na tabela.
 4. **Parceira com o código aplicado**, só com produto equivalente. Mostrar também o preço sem o código.
@@ -55,7 +56,8 @@ SK1 da série YesStyle × StyleKorean. GO do Bruno em 08/11/2026. Substitui a de
 6. **CECILIA010:** código de recompensa da YesStyle, nunca "cupom" e nunca atribuído à StyleKorean.
 7. **Sem o total do carrinho, escrever "subtotal observado"**, nunca "preço final entregue".
 8. **Prazo de entrega:** previsão publicada não é prazo real. Nada de "entrega mais rápida".
-9. **Sem "golpe", "falsa" ou "não devolve".** Trustpilot é nota da plataforma, não taxa de falha, e a amostra difere muito: 137 contra 104.968. Reputação em detalhe fica para a SK2.
+9. **Sem "golpe", "falsa" ou "não devolve".** A nota do Trustpilot é sinal de reputação, não taxa de falha, e a quantidade de avaliações aparece junto: 137 contra 104.968. A SK1 traz a síntese factual; reclamações, respostas e políticas em detalhe ficam na SK2, com link quando ela existir.
+10. **Nota e código são coisas diferentes:** a nota é sinal de reputação; o CECILIA010 é benefício comercial, e o efeito dele precisa aparecer na conta das cestas, em condições equivalentes.
 
 ## 4. As cestas
 
@@ -84,16 +86,17 @@ O Torriden não apareceu na busca por código das duas lojas, então a reserva e
 
 ## 6. Esqueleto (PT)
 
-1. **Resposta rápida:** 40 a 60 palavras, com o resultado das cestas no destino principal, sem R$.
-2. **Antes de comprar na StyleKorean, compare estes dois carrinhos:** a cesta pequena e a maior, em tabela.
-3. **Quanto dá em cada país:** um destino por linha; subtotal, frete, encargos e o que não foi cotado.
-4. **Frete grátis:** por que a cesta pequena muda de lado. Os limites são diferentes: nos EUA, US$ 35 contra US$ 60.
-5. **Imposto:** quem cobra no checkout e quem cobra na entrega, por país. Sem estender a regra dos EUA e do Canadá.
-6. **Devolução:** nas duas, produto aberto não volta sem defeito e o dinheiro pode voltar à forma de pagamento. A diferença é o padrão: crédito na YesStyle, a pedido; escolha entre pontos e pagamento na StyleKorean. Quem paga o frete da volta.
-7. **Se você queria a StyleKorean, o que muda:** o que ela tem de melhor, de forma demonstrada, e a troca de loja; começa aqui a pauta "alternativa" (SK3).
-8. **O código:** a StyleKorean não tem código nosso; na YesStyle, o CECILIA010 vai no Reward Code. Passo a passo curto.
-9. **Quadro `decision`:** leve se / passe se.
-10. **FAQ:** "Tem código da StyleKorean aqui?" (não); "A StyleKorean é da YesStyle?" (não: Silicon2, Coreia; YesAsia, Hong Kong); "Entrega no meu país?"; "Qual é o limite de pedido?" (US$ 500 na StyleKorean); "Qual é mais confiável?" (uma frase, com link para a SK2 quando existir).
+1. **Resposta rápida:** 40 a 60 palavras: a diferença de nota no Trustpilot, o CECILIA010 da YesStyle e o que as cestas mostraram no destino principal, sem R$.
+2. **Abertura, logo depois da resposta rápida: as notas e o código.** Quadro das duas lojas com nota, quantidade de avaliações e data da consulta, e uma frase de síntese. Em seguida, o CECILIA010 e como funciona: vai no Reward Code e é da YesStyle. Dizer que a diferença de reputação pesa e que os preços vêm a seguir.
+3. **Antes de comprar na StyleKorean, compare estes dois carrinhos:** a cesta pequena e a maior, em tabela.
+4. **Quanto dá em cada país:** um destino por linha; subtotal, frete, encargos e o que não foi cotado.
+5. **Frete grátis:** por que a cesta pequena muda de lado. Os limites são diferentes: nos EUA, US$ 35 contra US$ 60.
+6. **Imposto:** quem cobra no checkout e quem cobra na entrega, por país. Sem estender a regra dos EUA e do Canadá.
+7. **Devolução:** nas duas, produto aberto não volta sem defeito e o dinheiro pode voltar à forma de pagamento. A diferença é o padrão: crédito na YesStyle, a pedido; escolha entre pontos e pagamento na StyleKorean. Quem paga o frete da volta.
+8. **Se você queria a StyleKorean, o que muda:** o que ela tem de melhor, de forma demonstrada, e a troca de loja; começa aqui a pauta "alternativa" (SK3).
+9. **O código na conta:** a StyleKorean não tem código nosso. Passo a passo curto do Reward Code e o efeito do código nas cestas, com o valor antes e depois.
+10. **Quadro `decision`:** leve se / passe se, com os quatro critérios.
+11. **FAQ:** "Tem código da StyleKorean aqui?" (não); "A StyleKorean é da YesStyle?" (não: Silicon2, Coreia; YesAsia, Hong Kong); "Entrega no meu país?"; "Qual é o limite de pedido?" (US$ 500 na StyleKorean); "Qual é mais confiável?" (uma frase, com link para a SK2 quando existir).
 
 ## 7. Links e bastidor
 
@@ -110,8 +113,8 @@ O Torriden não apareceu na busca por código das duas lojas, então a reserva e
 |---|---|
 | **Bruno** | Carrinho sem comprar, com as duas cestas, nas duas lojas: frete e encargos para EUA, Reino Unido, Alemanha e Portugal. Na StyleKorean, também Brasil e Japão. Os benefícios só em quem usa conta: o valor dos cupons de novo cliente. |
 | **Bruno** (opcional) | GSC com "stylekorean", 28 dias, por país. Muda a lista de destinos, se vier. |
-| **Pautas** | Conferir equivalência, Torriden, loja do Japão e reler os preços perto da publicação. |
-| **Artigos** | Redação, JSON, capa, Job 3, PR. Depois, a mudança em `yesstyle-ou-stylevana`. |
+| **Pautas** | Conferir equivalência, Torriden, loja do Japão e reler na tela as notas do Trustpilot e os preços perto da publicação. |
+| **Artigos** | Redação documental já pode avançar, com os totais marcados como pendentes. Publicação só com as cestas relidas e o carrinho. JSON, capa, Job 3, PR e, depois, a mudança em `yesstyle-ou-stylevana`. |
 
 Quando a Black Friday começar, a oferta das lojas muda o resultado. Publicar antes dela exige dizer a data e reler depois; publicar durante exige dizer qual oferta estava valendo.
 
