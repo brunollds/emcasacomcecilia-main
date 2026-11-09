@@ -142,3 +142,12 @@ Aprovadas pelo Bruno em 09/11/2026, depois do parecer externo. No CDN e verifica
 | `poltrona-do-papai-armenia-gran-belo.webp` | Outras poltronas | Anúncio da Magalu, `granbelo2/54165p` (conhaque), 09/11 |
 
 Fora, por preferência do parecer externo: Matrix Compass, Toronto, Austin Lift e Ocean. Reaproveitadas, já no CDN: DAMIE 2.0, Levita, Aurora, banner do Esquenta Black e a Cecília na 1.0. Alts e legendas estão no JSON.
+
+### Reescrita pela decisão de compra (09/11/2026)
+
+Pedido do Bruno, com a proposta do Farol em `docs/auditoria-copy-artigos/pp1-20261109-farol/r02-reescrita/` (fora do PR). Tabelas por função, com até 4 modelos, preço da DAMIE já com o código e o histórico depois das comparações. Título visível e subtítulo mudaram; `seoTitle`, capa, slug e metaDescription ficaram.
+
+- **Compass:** a página não cita porta-copos; o texto diz mecanismo zero wall.
+- **Boston:** entrou no quadro de giro, com o preço conferido na página normal da Magalu.
+- **Imperial:** saiu do texto e da foto. Em 09/11, a página do ASIN mostrou R$ 820, contra R$ 2.128 da leitura da manhã, e o mecanismo não é identificável nesse anúncio.
+- **27/11:** a segunda leitura volta ao quadro da DAMIE e às tabelas por função.
