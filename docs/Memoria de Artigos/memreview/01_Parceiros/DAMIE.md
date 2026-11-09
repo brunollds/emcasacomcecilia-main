@@ -157,9 +157,23 @@ Consultas literais, com a fonte. Autocompletar é presença, sem volume.
 | presente de natal para pai idoso | Autocompletar, 09/11/2026 |
 | presente de natal para meu pai | Autocompletar, 09/11/2026 |
 | melhor presente para pai | Autocompletar, 09/11/2026 |
+| corino ou couro | Autocompletar, 09/11/2026 |
+| poltrona de couro ou corino | Autocompletar, 09/11/2026 |
+| corino descasca | Autocompletar, 09/11/2026 |
+| corino dura quanto tempo | Autocompletar, 09/11/2026 |
+| como saber se é couro legitimo | Autocompletar, 09/11/2026 |
+| como limpar poltrona de corino | Autocompletar, 09/11/2026 |
+| como limpar poltrona de couro | Autocompletar, 09/11/2026 |
+| poltrona do papai couro bovino | Autocompletar, 09/11/2026 |
 
 ## Entrega e devolução (leitura de 09/11/2026)
 
 - **Prazo na página do produto, por estado:** 4 a 8 dias úteis em SP, PR, SC e RS; 5 a 10 em RJ, MG, ES, DF, GO, MT e MS. Lido na elétrica fixa e na elevação, fora do pico.
 - **Frete:** o seletor mostrou frete grátis também no Centro-Oeste, o que difere da regra registrada acima. Confirmar no CEP.
 - **Divergência sem resposta:** a página do produto promete 30 dias para experimentar em casa, com coleta e reembolso. A `/policies/refund-policy` exige item "não usado" e diz não aceitar itens em promoção nem personalizados. Pergunta da PP3 para o Bruno levar à DAMIE.
+
+## Revestimentos (leitura de 09/11/2026)
+
+- **Corino importado contra couro bovino, na 2.0, no cartão:** manual R$ 3.049 e R$ 4.440; elétrica fixa R$ 3.849 e R$ 5.199; giro e balanço R$ 4.399 e R$ 5.699; elevação R$ 5.049 e R$ 6.149. De suede para corino: +R$ 80 na manual e na elevação, +R$ 100 na fixa e no giro.
+- **Limpeza (fichas da DAMIE na Magalu):** corino e couro com pano umedecido com água e, se necessário, sabão neutro, sem hidratantes, álcool ou lustra-móveis; no couro, longe do sol e de luzes fortes. A página da Levita, registrada no review, fala em produtos específicos para couro: divergência sem resposta.
+- **A página da 2.0 não informa:** a composição do corino importado, se o couro cobre a poltrona inteira e se descascar entra na garantia de 1 ano. Perguntas da PP4 para o Bruno levar à DAMIE.
