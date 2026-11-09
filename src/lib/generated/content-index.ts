@@ -101699,7 +101699,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF nos kits da Insider. Presente de Natal: kits por preço, kits com cueca, gift card, sacola, troca e prazo de entrega.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-09",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/insider-kit-presente-performance-masculino.webp",
@@ -101722,13 +101722,14 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "O cartão só pode ser comprado em pedido individual, sem outros produtos no carrinho.",
-          "A descrição orienta receber o cartão no e-mail de quem compra e encaminhá-lo à pessoa presenteada. A página também oferece “Quero enviar como presente”, com e-mail do destinatário e data de envio. Confirme esses dados na compra; o envio sai depois da confirmação do pagamento.",
+          "O cartão chega no e-mail de quem compra, depois da confirmação do pagamento, e você encaminha à pessoa presenteada.",
           "Vale por 12 meses a partir do recebimento por e-mail. Não é reembolsável e não pode ser revendido.",
-          "A página limita quantos cartões cada conta pode comprar por dia.",
+          "Uma compra de gift card por CPF a cada 24 horas; nessa compra, até 5 cartões.",
           "O cartão fica fora da campanha de brindes."
         ],
         "postParagraphs": [
-          "O desconto do Pix não se aplica à compra do gift card, mas o cupom vale nela: o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900, que saiu por R$ 765. O que não aceita cupom é o pedido pago com gift card: se a pessoa pagar com o saldo do cartão, o cupom EMCASACOMCECILIA não entra nessa compra."
+          "O desconto do Pix não se aplica à compra do gift card, mas o cupom vale nela: o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900, que saiu por R$ 765. O que não aceita cupom é o pedido pago com gift card: se a pessoa pagar com o saldo do cartão, o cupom EMCASACOMCECILIA não entra nessa compra.",
+          "As regras do cartão, a conta contra o cupom direto nas peças e quando ele compensa estão no [guia do gift card da Insider](/reviews/gift-card-insider-como-funciona-cupom)."
         ],
         "images": [
           {
@@ -102152,7 +102153,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Insider tem vale-presente? Sim: o gift card virtual vai de R$ 50 a R$ 1.000, com validade de 12 meses após o recebimento por e-mail. A página também oferece envio como presente, com e-mail e data; confira o destinatário antes de pagar.",
+          "A Insider tem vale-presente? Sim: o gift card virtual vai de R$ 50 a R$ 1.000, com validade de 12 meses após o recebimento por e-mail. Ele chega no e-mail de quem compra, para encaminhar à pessoa.",
           "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, em vale-troca para usar no site. Cueca, calcinha, sutiã e undershirts só trocam por defeito. O arrependimento de compra online é outro pedido, feito por quem comprou.",
           "Cupom vale no gift card? Vale na compra do cartão: o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
           "Chega a tempo do Natal? Consulte o prazo atual do seu CEP e considere quando o pagamento será aprovado. A tabela deste guia é uma estimativa para 2026; a loja avisa que alta demanda pode alterar os prazos.",
@@ -207282,6 +207283,208 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "slug": "gift-card-insider-como-funciona-cupom",
+    "title": "Gift card da Insider: como funciona, aceita cupom e quando compensa?",
+    "seoTitle": "Gift card Insider: como funciona e aceita cupom?",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O cupom entra na compra do gift card da Insider, mas não no pedido pago com ele. Veja como o cartão funciona e quando ele compensa, de presente ou para você.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na compra do gift card da Insider. Veja por que ele não vale no pedido pago com o saldo e quando o cartão compensa.",
+    "publishedAt": "9 de novembro de 2026",
+    "publishedAtISO": "2026-11-09",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp",
+    "imageAlt": "Gift card virtual da Insider, Tech T-Shirt verde e kit com duas camisetas pretas e uma cueca, com a faixa do cupom EMCASACOMCECILIA de 15% OFF na compra do gift card",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom EMCASACOMCECILIA vale na compra do gift card da Insider: no nosso teste, tirou 15% do cartão. A compra paga com o gift card não aceita cupom, mesmo se o saldo cobrir só parte do pedido. Para presente, o cartão deixa a escolha com quem recebe; para você, compare com o cupom direto nas peças, na conta abaixo."
+        ]
+      },
+      {
+        "heading": "Como funciona o gift card da Insider",
+        "paragraphs": [
+          "O gift card da Insider chega no e-mail de quem compra, não no de quem vai ganhar, e só serve para comprar no site da loja. O [Gift Card Virtual](https://creators.insiderstore.com.br/C9yDnLB) tem estas regras:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Regra",
+            "Como é"
+          ],
+          "rows": [
+            [
+              "Valores",
+              "R$ 50, 80, 100, 150, 200, 350, 500, 600, 700, 800, 900 e 1.000"
+            ],
+            [
+              "Pedido",
+              "Só o cartão, sem outras peças no carrinho"
+            ],
+            [
+              "Limite",
+              "Uma compra por CPF a cada 24 horas; nessa compra, até 5 cartões"
+            ],
+            [
+              "Envio",
+              "No e-mail de quem compra, depois da confirmação do pagamento"
+            ],
+            [
+              "Validade",
+              "12 meses a partir do recebimento do e-mail"
+            ],
+            [
+              "Desistência",
+              "7 dias corridos, contados do recebimento, só se o saldo não foi usado"
+            ],
+            [
+              "Brindes",
+              "Não entra na campanha de brindes da loja"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Olha o envio: a compra não tem campo para o e-mail de quem vai ganhar nem para escolher a data. O cartão chega para você, e é só encaminhar o e-mail à pessoa, com a mensagem que quiser.",
+          "Passados os 7 dias, ou depois de usar qualquer parte do saldo, não há reembolso nem troca por dinheiro. O cartão também não pode ser revendido."
+        ]
+      },
+      {
+        "heading": "Cupom no gift card: vale na compra, não no pagamento",
+        "paragraphs": [
+          "O cupom EMCASACOMCECILIA entra na compra do gift card, mas não no pedido que você paga com ele. São duas compras diferentes, cada uma com a sua regra:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Compra",
+            "Cupom EMCASACOMCECILIA",
+            "Desconto do Pix"
+          ],
+          "rows": [
+            [
+              "Comprar o gift card",
+              "Vale: no nosso teste, um cartão de R$ 900 saiu por R$ 765",
+              "Não vale"
+            ],
+            [
+              "Pagar um pedido com o saldo, todo ou em parte",
+              "Não vale",
+              "Na parte paga fora do saldo, confira no carrinho"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A página do cartão não fala em cupom na compra, mas o checkout aceitou o EMCASACOMCECILIA no cartão, com frete grátis. O código para copiar está na [página do cupom da Insider](/cupons/insider).",
+          "O cuidado fica no segundo pedido. A loja informa: os cupons não podem ser aplicados em pedidos pagos \"integral ou parcialmente\" com o saldo do gift card. Basta usar um pouco do saldo para o pedido inteiro ficar sem cupom."
+        ]
+      },
+      {
+        "heading": "Gift card de presente: quando compensa",
+        "paragraphs": [
+          "De presente, o gift card ganha quando você não sabe o tamanho ou o gosto de quem vai receber: a escolha fica com a pessoa.",
+          "Isso pesa mais nas peças íntimas. Pela política de trocas da Insider, cueca, calcinha e sutiã só trocam por defeito, inclusive na troca de presente. Com o cartão, quem ganha escolhe o próprio número.",
+          "A economia do cupom fica com quem dá: você paga o cartão com desconto, e a pessoa usa o valor cheio dele. Vale avisar que o desconto já ficou na compra, para ninguém procurar o código na hora de pagar.",
+          "Kits prontos, sacola de presente e prazo de entrega estão no [guia de presente de Natal da Insider](/reviews/presente-de-natal-insider-kits-gift-card)."
+        ]
+      },
+      {
+        "heading": "Para você: gift card com cupom ou cupom direto nas peças",
+        "paragraphs": [
+          "Para comprar para você mesmo, o cupom direto nas peças sai igual ou melhor que o gift card: os dois dão 15%, mas na compra do cartão o desconto do Pix não vale. Nas peças, ele pode somar com o cupom, conforme as condições da loja.",
+          "Conta nossa: com um carrinho de R$ 500 em peças sem promoção, o cupom direto deixa o carrinho em R$ 425. Pelo cartão, um gift card de R$ 500 sai por R$ 425, e o carrinho pago com o saldo fica sem cupom. Dá os mesmos R$ 425; a diferença é que só o primeiro caminho pode ganhar o desconto do Pix.",
+          "O cartão só pode ganhar numa peça em que o cupom não entra, como às vezes nos primeiros dias de um lançamento. Antes de pagar, confira no checkout se a linha \"Código de desconto\" aparece na peça. Se não aparecer, o saldo de um cartão comprado com o cupom sai 15% mais barato que o preço cheio. É um cenário para comparar na hora, não uma regra.",
+          "Mais um ponto contra o cartão para uso próprio: o dinheiro fica preso na loja, e o saldo que você não usar expira. Para ver onde o cupom entra e onde não entra, o [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra o checkout."
+        ]
+      },
+      {
+        "heading": "Como usar o saldo do gift card",
+        "paragraphs": [
+          "No pedido, é um ou outro: ou o cupom, ou o saldo. O código do gift card vai no carrinho, na hora de pagar.",
+          "Se o pedido passa do saldo, o cartão paga uma parte e o resto vai em outra forma de pagamento. Se o desconto do Pix entra nesse resto, só o carrinho diz: confira o total antes de fechar.",
+          "O que sobrar no cartão expira no fim da validade, sem devolução. Se a Insider encerrar o produto, os termos dizem que ela pode gerar cupons no valor do saldo restante, a critério dela."
+        ],
+        "image": "/images/reviews/insider/insider-passo-3-digite-cupom.webp",
+        "imageAlt": "Checkout da Insider com o campo Cupom de desconto ou Gift Card, o código EMCASACOMCECILIA digitado e o botão Aplicar",
+        "imageCaption": "O campo Cupom de desconto ou Gift Card no checkout, no nosso teste do cupom.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.0346
+      },
+      {
+        "heading": "Gift card na Black Friday e no Natal",
+        "paragraphs": [
+          "Na Black Friday, o pedido pago com o saldo leva o preço da promoção; o que fica de fora é o cupom.",
+          "Nas peças pagas sem o cartão, o cupom soma com a promoção da Black Friday, então a conta do capítulo \"Para você\" se repete: o cartão comprado com o cupom empata com o cupom direto, sem a chance do desconto do Pix. As peças e os descontos da campanha estão no [guia de Black Friday da Insider](/reviews/black-friday-insider).",
+          "No Natal, o cartão serve de presente de última hora: ele é virtual e chega no e-mail depois da confirmação do pagamento, sem depender de entrega. Pague com alguma folga e encaminhe à pessoa."
+        ]
+      },
+      {
+        "heading": "Quando o gift card compensa",
+        "paragraphs": [
+          "O gift card compensa como presente, quando o tamanho ou o modelo tem de ficar com quem recebe. Para uso próprio, ele empata com o cupom direto nas peças e só passa à frente na peça em que o cupom não entra.",
+          "Nos dois casos, o desconto entra uma vez só: na compra do cartão, com o EMCASACOMCECILIA. Quem usa o saldo paga o valor cheio das peças com ele."
+        ],
+        "emphasis": "Para dar presente sem saber o número da pessoa, eu iria de gift card comprado com o cupom.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Cupom vale no gift card da Insider? Vale na compra do cartão: no nosso teste, o EMCASACOMCECILIA tirou 15%. No pedido pago com o saldo, não vale, como mostra o quadro das duas compras.",
+          "Posso usar cupom pagando com o gift card? Não. Pelos termos da Insider, nenhum cupom entra em pedido pago com o saldo, nem quando o saldo cobre só uma parte.",
+          "O desconto do Pix vale no gift card? Não na compra do cartão. Na parte de um pedido paga fora do saldo, confira no carrinho antes de pagar.",
+          "Como mando o gift card para outra pessoa? O cartão chega no e-mail de quem compra, depois da confirmação do pagamento. É só encaminhar o e-mail à pessoa.",
+          "Quanto tempo o gift card da Insider vale? 12 meses a partir do recebimento do e-mail. Dá para desistir em 7 dias, contados do recebimento, se o saldo não foi usado; depois disso, não há reembolso."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve o gift card se vai presentear e não sabe o tamanho ou o modelo que a pessoa usa.",
+        "Leve se precisa de um presente de última hora: o cartão chega por e-mail depois da confirmação do pagamento."
+      ],
+      "skipIf": [
+        "Passe se a compra é para você e o cupom entra nas peças: o cupom direto dá o mesmo desconto e ainda pode somar com o desconto do Pix.",
+        "Passe se a pessoa pode não usar o saldo dentro da validade: o que sobra expira sem devolução."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Para comprar o gift card ou as peças, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Confira no carrinho se ele entrou antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Testamos o cupom na compra do cartão, não o pagamento com o saldo.",
+    "relatedArticles": [
+      {
+        "slug": "presente-de-natal-insider-kits-gift-card"
+      },
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
+      },
+      {
+        "slug": "black-friday-insider"
+      },
+      {
+        "slug": "kit-insider-quando-compensa"
       }
     ]
   }

@@ -17,7 +17,7 @@
   "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF nos kits da Insider. Presente de Natal: kits por preço, kits com cueca, gift card, sacola, troca e prazo de entrega.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-09",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/insider/insider-kit-presente-performance-masculino.webp",
@@ -40,13 +40,14 @@
       ],
       "bullets": [
         "O cartão só pode ser comprado em pedido individual, sem outros produtos no carrinho.",
-        "A descrição orienta receber o cartão no e-mail de quem compra e encaminhá-lo à pessoa presenteada. A página também oferece “Quero enviar como presente”, com e-mail do destinatário e data de envio. Confirme esses dados na compra; o envio sai depois da confirmação do pagamento.",
+        "O cartão chega no e-mail de quem compra, depois da confirmação do pagamento, e você encaminha à pessoa presenteada.",
         "Vale por 12 meses a partir do recebimento por e-mail. Não é reembolsável e não pode ser revendido.",
-        "A página limita quantos cartões cada conta pode comprar por dia.",
+        "Uma compra de gift card por CPF a cada 24 horas; nessa compra, até 5 cartões.",
         "O cartão fica fora da campanha de brindes."
       ],
       "postParagraphs": [
-        "O desconto do Pix não se aplica à compra do gift card, mas o cupom vale nela: o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900, que saiu por R$ 765. O que não aceita cupom é o pedido pago com gift card: se a pessoa pagar com o saldo do cartão, o cupom EMCASACOMCECILIA não entra nessa compra."
+        "O desconto do Pix não se aplica à compra do gift card, mas o cupom vale nela: o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900, que saiu por R$ 765. O que não aceita cupom é o pedido pago com gift card: se a pessoa pagar com o saldo do cartão, o cupom EMCASACOMCECILIA não entra nessa compra.",
+        "As regras do cartão, a conta contra o cupom direto nas peças e quando ele compensa estão no [guia do gift card da Insider](/reviews/gift-card-insider-como-funciona-cupom)."
       ],
       "images": [
         {
@@ -470,7 +471,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Insider tem vale-presente? Sim: o gift card virtual vai de R$ 50 a R$ 1.000, com validade de 12 meses após o recebimento por e-mail. A página também oferece envio como presente, com e-mail e data; confira o destinatário antes de pagar.",
+        "A Insider tem vale-presente? Sim: o gift card virtual vai de R$ 50 a R$ 1.000, com validade de 12 meses após o recebimento por e-mail. Ele chega no e-mail de quem compra, para encaminhar à pessoa.",
         "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, em vale-troca para usar no site. Cueca, calcinha, sutiã e undershirts só trocam por defeito. O arrependimento de compra online é outro pedido, feito por quem comprou.",
         "Cupom vale no gift card? Vale na compra do cartão: o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
         "Chega a tempo do Natal? Consulte o prazo atual do seu CEP e considere quando o pagamento será aprovado. A tabela deste guia é uma estimativa para 2026; a loja avisa que alta demanda pode alterar os prazos.",

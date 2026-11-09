@@ -19,7 +19,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
 | PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | No ar em 09/11 (release 61539fb6). Atualizar com a leitura de 27/11 |
 | PP2 | Poltrona do papai elétrica: quanto custa e qual compensa (decisão do Bruno, 09/11) | DAMIE | PT | [[poltrona-do-papai-eletrica-quanto-custa]] | Redação (leitura das fichas em 09/11), logo após a PP1 |
-| I9 | Gift card da Insider: como funciona, aceita cupom e quando compensa? (GO do Bruno, 09/11; o ano todo, não só o Natal) | Insider | PT | [[gift-card-insider-como-funciona-cupom]] | Redação. Termos e respostas do Bruno de 09/11 no briefing; só o Pix no restante do pedido fica sem teste |
+| I9 | Gift card da Insider: como funciona, aceita cupom e quando compensa? (GO do Bruno, 09/11; o ano todo, não só o Natal) | Insider | PT | [[gift-card-insider-como-funciona-cupom]] | Pronta, no PR do artigo; sai da Fila com o deploy |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -154,7 +154,6 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
-| `presente-de-natal-insider-kits-gift-card` | Tirar o "Quero enviar como presente" (destinatário e data): o checkout de 09/11 (Bruno) só avisa que o cartão vai por e-mail a quem compra, depois da confirmação do pagamento. Quando a I9 for ao ar, pôr o link para ela na seção do gift card | Fatos da I9, 09/11 |
 | `yesstyle-ou-stylekorean` (SK1, 10 idiomas) | **Na Black Friday:** reler preços e notas. A frase dos convites e o link da SK2 já estão no ar | Fatos da SK2, 09/11 |
 | `hostinger-renovacao-cupom-sonar20` (e o quadro `-barras-` dos 10 idiomas) | Conferir o prazo da renovação: a página de planos diz "Renovação automática… pelo mesmo período", mas o carrinho diz "Renova após 48 meses por R$ 23,99/mês a cada 12 meses" (Single, 06/11). O quadro diz "renova pelo mesmo período". Ler o carrinho de novo e, se o carrinho valer, corrigir o texto e o quadro | Redação da H9, 06/11 |
 | `camiseta-feminina-insider-qual-escolher` e `camiseta-insider-qual-escolher` | Cupom na Daily: o feminino diz "confira no carrinho", o masculino diz que a Daily não aceita cupom. Só mudar com o teste no carrinho (conflito 5 da R7). O resto da linha da R7 (lavagem com link, notas, Core e 2 cm, dossiê) saiu no PR de 06/11 | Rodada R7, 05/11 |
