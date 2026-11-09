@@ -9,7 +9,7 @@ type: "Comparativo de Lojas"
 anexo_tipo: "nenhum"
 status: "pronto-para-publicar"
 responsavel: "Claude"
-proxima_acao: "deploy só com GO do Bruno; reler preços, notas e frete se o deploy passar de alguns dias; depois, o resumo com link em yesstyle-ou-stylevana"
+proxima_acao: "deploy só com GO do Bruno (R04 sem impedimento editorial); reler preços se passar de alguns dias; depois, o resumo com link em yesstyle-ou-stylevana"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 78
