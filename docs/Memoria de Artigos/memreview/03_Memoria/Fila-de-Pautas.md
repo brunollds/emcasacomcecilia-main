@@ -17,7 +17,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | JSON pronto (id 864), com rascunho e imagens aprovados em 08/11. Falta o deploy; reler preços e grade antes dele |
 | SB1 | A SHEIN baixa mesmo na Black Friday? O preço de 19 peças (GO do Bruno, 08/11) | SHEIN | PT | [[shein-black-friday-preco-baixa-mesmo]] | Leituras em 12/11 e 20/11 e os links convertidos pelo Bruno. Redação depois de 20/11; atualizar depois de 27/11 e 30/11 |
-| PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | Redação (primeira leitura feita em 09/11). Do Bruno: confirmar os anúncios da DAMIE na Amazon e na Magalu e converter os links. Atualizar com a leitura de 27/11 |
+| PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | Redação (primeira leitura e links convertidos em 09/11). Atualizar com a leitura de 27/11 |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 

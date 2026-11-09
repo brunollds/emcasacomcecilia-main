@@ -60,8 +60,10 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 - **Preço da DAMIE com o código, com a conta marcada como nossa:** preço × 0,88 no cartão, preço × 0,88 × 0,90 no Pix. Na giro e balanço de R$ 4.299, dá R$ 3.783,12 e R$ 3.404,81, como no `black-friday-damie`.
 - **CECILIA12:** 12%, em todas as formas de pagamento (nunca escrever só "Pix e cartão"). Soma com promoções, Pix e desconto por quantidade. Não soma com outro cupom nem com o giftback de 15%, que é crédito para compra futura. Não vale nos anúncios da DAMIE no Mercado Livre.
 - **Campanha da DAMIE até 27/11:** reler preços e brindes antes de citar. A Cyber Monday fica fora do prazo.
-- **Concorrentes:** sem link, sem foto e sem cupom. Entram pela ficha, e o texto diz que não foram testados.
-- **Magalu e Amazon:** levam o link que o Bruno converte. Os anúncios da DAMIE são vendidos pela própria DAMIE, então os códigos da Magalu não valem neles, e o CECILIA12 é do site. Não dizer que os brindes valem nessas lojas sem conferir.
+- **Outras marcas:** sem foto e sem cupom, entrando pela ficha, e o texto diz que não foram testadas. Na Amazon, na Magalu e no Mercado Livre, levam o link convertido pelo Bruno; MadeiraMadeira e Moveleiro ficam sem link.
+- **Frete:** dizer que muda por CEP e pode pesar muito, com os exemplos do Bruno. Sem generalizar.
+- **Preço real no Mercado Livre:** a Austin USB entra por R$ 4.689, por decisão do Bruno, e não pela promoção do dia.
+- **DAMIE na Amazon, na Magalu e no Mercado Livre:** levam os links convertidos. Os anúncios são vendidos pela própria DAMIE, então os códigos da Magalu não valem neles, e o CECILIA12 é do site. Não dizer que os brindes valem nessas lojas sem conferir.
 - **Guia amplo:** pode citar várias marcas. É a exceção à regra de "um X ou Y por marca".
 - **Não escrever:** giro de 360° (a Levita gira até 280°; a base com balanço, 180°), capacidade de peso da reclinável (a página diverge), "compramos" (foi recebido).
 - **Vocabulário:** "poltrona do papai" como termo principal, com "cadeira do papai" e "poltrona reclinável" onde couber, sem forçar.
@@ -75,8 +77,8 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 1. **Resposta rápida:** o que as leituras mostram até ali, o limite da medida e o CECILIA12 (sem R$).
 2. **Como lemos os preços:** quais poltronas, quais datas, o que fica de fora.
 3. **As poltronas DAMIE, fase a fase** (tabela no cartão, com o link de cada uma e a coluna com o código).
-4. **A mesma DAMIE no site, na Amazon e na Magalu** (tabela no cartão, com o site com o código e a ressalva de frete e brindes).
-4b. **Outras marcas, fase a fase** (tabela no cartão; só a Magalu com link).
+4. **A mesma DAMIE no site, na Amazon, na Magalu e no Mercado Livre** (tabela no cartão, com o site com o código e a ressalva de frete e brindes).
+4b. **Outras marcas, por faixa de preço e fase a fase** (tabela no cartão, com o link das plataformas).
 5. **O que mudou e o que não mudou:** quantas subiram, desceram ou ficaram iguais, e os casos extremos.
 6. **Preço igual pode ser oferta diferente:** brinde, frete e prazo. Sem repetir as somas do `black-friday-damie`, que recebe link.
 7. **Como saber se o desconto é real na sua poltrona:** comparar com o preço de semanas antes, fixar configuração, olhar frete e vendedor.
@@ -95,7 +97,7 @@ O resultado só se conhece com as leituras, e o artigo não antecipa a conclusã
 
 | Quem | O quê |
 |---|---|
-| **Bruno** | Confirmar se Florença, Eames, Imperial e Nina são a mesma reclinável do site; converter os links da Amazon e da Magalu; abrir o Mercado Livre logado, se quiser essa coluna. Opcional: GSC de "poltrona do papai" e variações |
+| **Bruno** | Opcional: links convertidos da Magalu para a elétrica fixa em suede e em couro; GSC de "poltrona do papai" e variações |
 | **Artigos** | Redação, JSON, capa, Job 3 e PR |
 
 ## 8. Pontuação
