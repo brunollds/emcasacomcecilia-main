@@ -41,6 +41,7 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[mala-23kg-medidas-latam-gol-azul]]: Mala de 23 kg: as medidas da LATAM, GOL e Azul e quais malas cabem (só PT, id 890; BA1; no ar em 09/11/2026, release c7de2dcc, #791, com o link do guia de tamanho P, M e G) 🚀
 - [x] [[gift-card-insider-como-funciona-cupom]]: Gift card da Insider: como funciona, aceita cupom e quando compensa? (só PT, id 888; I9; no ar em 09/11/2026, #785, com o envio corrigido no artigo de Natal) 🚀
 - [x] [[poltrona-do-papai-eletrica-quanto-custa]]: Poltrona do papai elétrica: quanto custa e qual compensa (só PT, id 887; PP2; no ar em 09/11/2026, release feeb8d88, com a PP1 reescrita) 🚀
 - [x] [[poltrona-do-papai-black-friday]]: Poltrona do papai na Black Friday (só PT, id 886; PP1; no ar em 09/11/2026, release 61539fb6) 🚀

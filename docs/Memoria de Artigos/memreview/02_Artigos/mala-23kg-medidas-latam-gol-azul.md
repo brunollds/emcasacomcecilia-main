@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
 anexo_tipo: "nenhum"
-status: "pronto-para-publicar"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy com GO do Bruno; depois, tirar a BA1 da Fila"
+proxima_acao: "reler preços e estoque das malas na Black Friday (27/11)"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 76
@@ -116,3 +116,7 @@ Pedido do Bruno em 09/11/2026: um artigo útil sobre a mala de 23 kg, que leva �
 
 - Capa: opção B (fileira Edimburgo 23", Cartagena Rosé e Detroit II, fotos oficiais), com a faixa "Mala de 23 kg: medidas para despachar" e "LATAM, GOL e Azul | CECILIA10: 10% na Bagaggio". No CDN, verificada.
 - Corpo: Detroit 26" (reaproveitada do guia de tamanho) e o mostrador da balança da Swiss One (foto oficial, nova, no CDN). As duas com link de afiliado.
+
+## No ar
+
+- 09/11/2026, release c7de2dcc (#791), deploy 118863e8, build 01a1c278. Smoke 18/18, covers:check 1/1, IndexNow 4 URLs, captura 42714742723.

@@ -20,7 +20,6 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | PP1 | Poltrona do papai na Black Friday: o desconto é real? (decisão do Bruno, 09/11; publicar até cerca de 20/11) | DAMIE | PT | [[poltrona-do-papai-black-friday]] | No ar em 09/11 (release 61539fb6). Atualizar com a leitura de 27/11 |
 | PP2 | Poltrona do papai elétrica: quanto custa e qual compensa (decisão do Bruno, 09/11) | DAMIE | PT | [[poltrona-do-papai-eletrica-quanto-custa]] | No ar em 09/11 (release feeb8d88) |
 | PP3 | Presente de Natal para pai: a poltrona do papai vale? (decisão do Bruno, 09/11; publicar a partir de 28/11) | DAMIE | PT | [[presente-de-natal-para-pai-poltrona-do-papai]] | Redação pronta em 09/11, aguarda deploy com GO do Bruno. Publicando depois de 27/11, reler preço, brindes, frete e prazo (briefing, seção 9) |
-| BA1 | Mala de 23 kg: as medidas da LATAM, GOL e Azul e quais malas cabem (pedido do Bruno, 09/11) | Bagaggio | PT | [[mala-23kg-medidas-latam-gol-azul]] | Pronta, no PR do artigo (com o link do `tamanho-mala-bagaggio-p-m-g`); sai da Fila com o deploy |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
