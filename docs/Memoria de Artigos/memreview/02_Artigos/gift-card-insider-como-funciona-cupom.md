@@ -94,7 +94,7 @@ I9 da Fila, escolhida pelo Bruno em 09/11/2026. Título e escopo ajustados com a
 
 ## Redação e revisão (09/11/2026)
 
-JSON em `content/reviews/gift-card-insider-como-funciona-cupom.json` (id 887). O Job 3 rodou com três revisores (fatos, checklist e leitor cético), e outro agente conferiu cada achado. Mudou: a frase de que o cupom e o código do cartão usam o mesmo campo saiu (a fonte era só o print do teste do cupom), o Pix nas peças ficou "pode somar, conforme as condições da loja", o 6.6 voltou a "encerrar o produto" e "valor do saldo restante", e a desistência ganhou "contados do recebimento". Ficaram como o Bruno confirmou: o limite (uma compra, até 5 cartões) e o saldo pagando parte do pedido. A troca de íntimos só por defeito vem da política de trocas lida para o artigo de Natal.
+JSON em `content/reviews/gift-card-insider-como-funciona-cupom.json` (id 888). O Job 3 rodou com três revisores (fatos, checklist e leitor cético), e outro agente conferiu cada achado. Mudou: a frase de que o cupom e o código do cartão usam o mesmo campo saiu (a fonte era só o print do teste do cupom), o Pix nas peças ficou "pode somar, conforme as condições da loja", o 6.6 voltou a "encerrar o produto" e "valor do saldo restante", e a desistência ganhou "contados do recebimento". Ficaram como o Bruno confirmou: o limite (uma compra, até 5 cartões) e o saldo pagando parte do pedido. A troca de íntimos só por defeito vem da política de trocas lida para o artigo de Natal.
 
 ## Capa e imagens (Job 6, aprovado pelo Bruno em 09/11/2026)
 

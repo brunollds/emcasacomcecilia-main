@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2)"
+proxima_acao: "deploy com GO do Bruno; reler preços e campanha se passar de 09/11"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 74
@@ -153,3 +153,46 @@ Publicação sem data definida. Sugestão: logo depois da PP1, para ela poder re
 ## 8. Pontuação
 
 Dor 17/25, demanda 14/20, valor além do oficial 17/20, visita 11/15, cluster 9/10, viabilidade 7/10. Total 75.
+
+## 9. Redação (09/11/2026)
+
+JSON em `content/reviews/poltrona-do-papai-eletrica-quanto-custa.json` (id 887), fora do PR até a revisão externa do Bruno no ChatGPT. Decisões da redação:
+
+- **Links da Magazine Você:** conferidos pela página normal da Magalu, com o mesmo caminho, sem abrir o link de afiliado. Os 7 abriram o produto certo, com o preço e a garantia da matriz.
+- **Aquecimento:** a palavra não aparece nas páginas da 2.0 e da Levita (busca no texto, 09/11).
+- **Armadilha do preço:** a diferença entre configurações sai como etiqueta, sem falar em custo de peça.
+
+### Plano de imagens
+
+| Seção | Imagem | Origem |
+|---|---|---|
+| Capa | Cecília na Levita, botões e bolso lateral da 2.0, apoio de pés | Foto própria e fotos oficiais da DAMIE; `covers:render` |
+| Quanto custa | 2.0 giro e balanço (já no CDN); Matrix Porsche | DAMIE; anúncio na Magalu |
+| Mudança de configuração | Mecanismo da nossa 2.0 (já no CDN); Austin Lift | Foto própria; anúncio na Magalu |
+| Revestimento | Condor; Armênia (já no CDN) | Anúncios na Magalu |
+| Massagem | Chicago; Boston | Anúncios na Magalu |
+| DAMIE com o código | Levita (já no CDN) | DAMIE |
+| Perfil | Cecília na Levita (já no CDN) | Foto própria |
+
+Fora: Flora, pouco acrescenta à entrada, e Aurora da D'Rossi, porque a foto principal é um anúncio com texto de frete.
+
+### Matriz de claims
+
+Preços, fichas e garantias: [[poltrona-do-papai-eletrica-quanto-custa-fatos-0911]] e [[poltrona-do-papai-black-friday-fatos-0911]]. Uso próprio: `poltrona-damie-e-boa` e `poltrona-levita-o-topo-da-tecnologia-e-conforto`. Contas conferidas por script: tabela com o código, diferenças e somas.
+
+### Parecer externo
+
+Farol / ChatGPT, 09/11, em `docs/auditoria-copy-artigos/pp2-20261109-farol/` (fora do PR). Aceitas as 16 propostas, com três ajustes: o preço com o CECILIA12 ficou nas recomendações da DAMIE do capítulo de perfis (regra deste briefing), a frase do revestimento não fala em "motor" e a resposta rápida mantém "poltronas do papai". Frete conferido na política oficial da DAMIE. Imagens aprovadas visualmente, com a Austin Lift mantida por mostrar a elevação.
+
+### Capa e imagens
+
+Aprovadas pelo Bruno em 09/11/2026, depois do parecer externo. No CDN e verificadas por HTTPS.
+
+| Arquivo em `/images/reviews/damie/` | Onde | Origem |
+|---|---|---|
+| `poltrona-do-papai-eletrica-quanto-custa-capa.webp` | Capa | Foto própria (Cecília na Levita) e fotos oficiais da DAMIE; `covers:render` |
+| `poltrona-do-papai-eletrica-matrix-porsche.webp` | Base fixa | Anúncio da Magalu, `/p/235605600`, 09/11 |
+| `poltrona-do-papai-eletrica-chicago-gran-belo.webp` | Base fixa | Anúncio da Magalu, `/p/ga9k5a3626`, 09/11 |
+| `poltrona-do-papai-eletrica-boston-gran-belo.webp` | Com giro | Anúncio da Magalu, `/p/agjf6g8jd5`, 09/11 |
+| `poltrona-do-papai-eletrica-austin-lift-gran-belo.webp` | Com elevação | Anúncio da Magalu, `/p/adec0jfbhh`, 09/11 |
+| `poltrona-do-papai-eletrica-condor-ferguile.webp` | Em couro | Anúncio da Magalu, `/p/ja874hk45h`, 09/11 |
