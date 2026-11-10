@@ -185,3 +185,10 @@ JSON em `content/reviews/poltrona-do-papai-couro-ou-corino.json` (id 891), fora 
 - **Recusado:** R$ no quadro "Leve se / Passe se" (o validate:content barra); números repetidos na prosa de preço; "na mesma leitura" e "registros consultados" (bastidor); subtítulo de 126 caracteres (a faixa é de 150 a 180); títulos de capítulo sem a busca ("corino ou couro", "como saber se é couro legítimo", "como limpar poltrona de corino").
 - **Mantido fora da proposta dele:** o caso do anúncio de R$ 5.605 e os 30 primeiros da Magalu, que não dependem da lei; e a frase geral de que calor, sol e atrito pesam contra a película, com o rótulo de regra prática, para responder "corino descasca".
 
+### Correção do Bruno e reescrita pelo Fable 5.2 (09/11)
+
+- **Decisões do Bruno:** o nome é Poltrona Reclinável 2.0; o couro cobre a poltrona inteira por fora; a limpeza segue a página oficial; com orçamento e clima a favor, vá de couro; o couro é o revestimento mais premium; comparação técnica couro contra corino; link da Alpha convertido.
+- **Páginas oficiais lidas no navegador do app (09/11):** `/blogs/guias/como-limpar-cuidar-poltrona-tecido-couro` e `/blogs/guias/guia-tecidos-boucle-couro-linho-suede`, a Reclinável 2.0 e a Levita. O guia de limpeza não fala de corino e traz "6 a 12 meses" no resumo e "a cada 6 meses" no corpo: o texto usa a faixa.
+- **Revisão externa (r03):** aceitos o corino sem indicação para o calor, o desgaste de volta à conclusão, o acabamento do couro sem "material só", a pátina condicionada, a instrução do manual e o escopo das garantias. Recusados: tirar a cobertura integral (fato do Bruno), tirar o clima do veredito (decisão do Bruno) e reduzir a comparação técnica a 5 linhas (pedido do Bruno). A hidrólise foi do parágrafo para a tabela, sem a matéria sobre bolsas.
+- **Alpha:** o link enviado é da Amazon; a linha usa a Alpha Elétrica a R$ 5.690,50, sem as condições da Premium da Moveleiro.
+
