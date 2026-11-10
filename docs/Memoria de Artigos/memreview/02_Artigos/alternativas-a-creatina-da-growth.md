@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
 anexo_tipo: "nenhum"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy (GO do Bruno); depois, link nos quatro X ou Growth e releitura de preços depois de 27/11"
+proxima_acao: "reler os preços depois de 27/11"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 80
