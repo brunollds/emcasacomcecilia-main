@@ -225,3 +225,10 @@ Bruno, 20/10/2026: "Pode seguir" depois do resumo das pendências; as respostas 
 10. A linha é masculina (o catálogo não tem undershirt feminina): o texto diz isso.
 11. Kit 3 Undershirt Moderado: preço do produto kit (R$ 413,12, R$ 137,71 por peça), não o R$ 152/un do seletor.
 12. Hiperidrose só como "procure um dermatologista"; nada de tratar, curar ou eliminar o suor.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/undershirt-insider-qual-escolher-funciona-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Undershirt Block bege da Insider sobre fundo claro.
+- **Origem:** foto oficial da Undershirt Block bege, inteira. Sem geração por IA.
+- **Lote 08 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/insider-undershirt-tres-niveis-capa.webp`) fica no CDN, sem uso como capa.

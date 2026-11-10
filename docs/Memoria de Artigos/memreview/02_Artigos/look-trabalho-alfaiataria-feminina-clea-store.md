@@ -242,3 +242,10 @@ Job 2 na sessão elaboradora de artigos.
 - **Texto em PT:** redigido por subagentes em dois blocos de capítulos a partir deste briefing (Job 2), juntado e revisado por Claude (Job 3) e aprovado pelo Bruno em 20/10/2026. Só PT. id 517, `/reviews/look-trabalho-alfaiataria-feminina-clea-store`, autoria da Cecília.
 - **Preços:** relidos em 20/10/2026 (Cléa Store), com a data no texto; itens em pré-venda ou com dado quebrado ficaram fora. Cupom CSEMCASACOMCECILIA (10% em todo o site, não vale no Mercado Livre). Sem experiência própria com os produtos.
 - **Imagens:** em `public/images/reviews/clea-store/`, escolhidas pelo Bruno na folha de contato: fotos das peças da loja. Upload pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/look-trabalho-alfaiataria-feminina-clea-store-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com o conjunto cinza de alfaiataria da Cléa Store.
+- **Origem:** foto oficial da Cléa Store (conjunto cinza de alfaiataria), sem experiência pessoal. Sem geração por IA.
+- **Lote 07 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/clea-store-look-blazer-risca-de-giz-camisa.webp`) fica no CDN, sem uso como capa.

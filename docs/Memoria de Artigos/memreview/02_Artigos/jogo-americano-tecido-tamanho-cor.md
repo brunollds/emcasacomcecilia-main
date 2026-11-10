@@ -162,3 +162,10 @@ Fatos: `jogo-americano-tecido-tamanho-cor-fatos-2910.md`, ao lado.
 - Preços do cartão e estoque relidos em 29/10/2026; MAUAD e Pix numa frase, sem destaque; links de produto com a UTM da parceria.
 - Chrome, 29/10: seis das sete fichas dizem "Contém: 1 Unidade" (o Linho Borda Verde não); Xadrez Bege (algodão no título, nylon na ficha) e Cetim Nobre (Off White no título, Chumbo na ficha) fora; Limone sem formato nem material; Linho como "linho 100% poliéster", palavras da ficha. Imagens: capa e 4 fotos das fichas.
 - Pendente: reler preços e estoque na Black Friday de 2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/jogo-americano-tecido-tamanho-cor-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Jogo americano claro com borda verde, prato e talheres numa mesa posta, vista de cima.
+- **Origem:** foto oficial nova (jogo americano com borda verde; origem da galeria em `fontes-selecionadas.json` do lote). Sem geração por IA.
+- **Lote 09 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/jogo-americano-tecido-tamanho-cor-capa.webp`) fica no CDN, sem uso como capa.

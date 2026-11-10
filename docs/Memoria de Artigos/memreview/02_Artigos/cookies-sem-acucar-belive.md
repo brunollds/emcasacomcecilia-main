@@ -108,3 +108,10 @@ Nenhum bloqueio ocorreu (todas as respostas 200). Pendências de verificação, 
 ## Redação (28/10/2026)
 - No ar em 28/10/2026 18:56 UTC (PR #331, links de produto no #333, release `c3af3e1`, id 627). Preços relidos no Chrome em 28/10, sem mudança.
 - Peso: 67 g, como está impresso nas fotos oficiais do pacote (chocolate, baunilha com chocolate e castanhas; a ficha dos dois primeiros diz 79 g). Decisão do Bruno em 28/10. O de avelã fica com os 79 g da ficha, porque não tem foto do pacote.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/belive/cookies-sem-acucar-belive-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cookies da Belive, com a embalagem do sabor castanhas ao fundo.
+- **Origem:** foto oficial nova (cookies sabor castanhas; origem da galeria em `fontes-selecionadas.json` do lote); um sabor representa o guia, sem fórmula universal nem teste próprio. Sem geração por IA.
+- **Lote 09 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/belive/cookies-sem-acucar-belive-capa.webp`) fica no CDN, sem uso como capa.

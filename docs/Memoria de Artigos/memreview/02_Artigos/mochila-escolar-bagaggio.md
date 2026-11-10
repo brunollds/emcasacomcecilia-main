@@ -180,3 +180,10 @@ Fatos: `mochila-escolar-bagaggio-fatos-3010.md`, ao lado.
 ## Publicação (30/10/2026)
 - No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 751 (PT).
 - Publicado já em 30/10 (decisão do Bruno). Frozen Shine 33 × 14 × 46 cm nos dois cadastros. Garantia só pela ficha (a página de garantia não traz a regra). Reler em janeiro, para a volta às aulas.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/mochila-escolar-bagaggio-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mochila escolar de rodinhas do Homem-Aranha da Bagaggio.
+- **Origem:** foto oficial da mochila do Homem-Aranha, nas proporções da fonte; resolução limitada pela fonte. Sem geração por IA.
+- **Lote 07 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/mochila-escolar-bagaggio-capa.webp`) fica no CDN, sem uso como capa.
