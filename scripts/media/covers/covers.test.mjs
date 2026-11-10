@@ -37,6 +37,8 @@ test('monta cada tipo de topo e recusa topo sem imagem', () => {
   assert.match(topHtml({ photo: 'a.png', fit: 'contain', bg: '#fff' }, src), /object-fit:contain/);
   assert.equal((topHtml({ grid: ['a.png', 'b.png', 'c.png'] }, src).match(/<img/g) || []).length, 3);
   assert.match(topHtml({ row: ['a.png'] }, src), /class="row"/);
+  assert.match(topHtml({ row: ['a.png', 'b.png', 'c.png'] }, src), /--max:32%/, 'três fotos seguem com 32%');
+  assert.match(topHtml({ row: ['a.png', 'b.png', 'c.png', 'd.png'] }, src), /--max:24%/, 'quatro fotos cabem na largura');
   assert.match(topHtml({ tiles: [{ img: 'a.png', bg: '#000', h: 200 }, 'vs', { img: 'b.png', bg: '#000', h: 200 }] }, src), /class="vs"/);
   assert.throws(() => topHtml({}, src), /photo, grid, row, tiles ou scene/);
 });
@@ -80,6 +82,7 @@ test('monta cada tipo de faixa', () => {
   assert.match(bandHtml({ kind: 'title', logo: 'l.png', title: '', icons: ['star', 'star dim', 'vs'] }, src), /ic star dim/);
   assert.throws(() => bandHtml({ kind: 'title', logo: 'l.png', icons: ['nada'] }, src), /ícone desconhecido/);
   assert.throws(() => bandHtml({ kind: 'outro', logo: 'l.png' }, src), /band.kind desconhecido/);
+  assert.doesNotMatch(bandHtml({ kind: 'title', title: 'Alternativas à <b>Growth</b>' }, src), /class="logo"/, 'faixa sem logo quando não há loja');
 });
 
 test('o exemplo usa só imagens que existem no repositório e passa pelo guard', () => {

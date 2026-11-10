@@ -1,6 +1,6 @@
 # Fatos da AG1: alternativas à Growth (leitura de 09/11/2026)
 
-Briefing: [[alternativas-a-growth-whey-creatina]]. Sem login, sem carrinho, sem compra. Preços de 09/11/2026, com a Black Friday das lojas já correndo: tudo muda até a redação.
+Briefings: [[alternativas-a-growth-whey]] (whey, AG1) e [[alternativas-a-creatina-da-growth]] (creatina, AG2). Sem login, sem carrinho, sem compra. Preços de 09/11/2026, com a Black Friday das lojas já correndo: tudo muda até a redação.
 
 ## Como a conta foi feita
 
