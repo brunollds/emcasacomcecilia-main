@@ -89652,7 +89652,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, a Growth cai para R$ 14,98 por 100 g no refil de 500 g, R$ 16,98 no pote de 500 g e R$ 17,96 no de 250 g. Sem a promoção, o Creator refil sairia a R$ 11,98 por 100 g, e o de 300 g, a R$ 16,63.",
-          "Com o CECILIA10, o Creator refil de 500 g sai por R$ 35,91, ou R$ 7,18 por 100 g de creatina, e o Creator de 300 g, por R$ 26,91, ou R$ 8,97 por 100 g."
+          "Com o CECILIA10, o Creator refil de 500 g sai por R$ 35,91, ou R$ 7,18 por 100 g de creatina, e o Creator de 300 g, por R$ 26,91, ou R$ 8,97 por 100 g.",
+          "Para ver o Creator ao lado das opções das outras parceiras no lugar da gummy e do comprimido da Growth, há o guia [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
         ]
       },
       {
@@ -90022,7 +90023,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 17,51 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). No Pix de outubro, a conta era outra: o refil da Growth saía a R$ 14,98 e o pote de 500 g da Max empatava com o pote da Growth (R$ 16,98). O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar. Com o cupom, o pote de 500 g da Max cai para R$ 15,28, e a Max de 300 g (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96 no Pix de outubro), que tem a mesma dose de 5 g.",
-          "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix de outubro). A diferença é de preço, não de dose."
+          "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix de outubro). A diferença é de preço, não de dose.",
+          "A creatina 7Belo da Max, com sabor, fica fora desta tabela e aparece contra a gummy da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
         ],
         "images": [
           {
@@ -90409,7 +90411,8 @@ export const reviewsData: unknown[] = [
           "Preços de tabela, sem cupom. No Pix de outubro, a Probiótica de 300 g saía a R$ 18,97 por 100 g (R$ 17,07 com o cupom no teto), e a Growth, a R$ 17,96 no pote de 250 g, R$ 16,98 no de 500 g e R$ 14,98 no refil. O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no dia.",
           "Por dose, no Pix de outubro: R$ 0,95 na Probiótica de 300 g, R$ 0,90 na Growth de 250 g e R$ 0,75 no refil de 500 g. No preço de tabela, a Probiótica de 300 g já fica abaixo da Growth de 250 g sem precisar do cupom.",
           "A Creapure de 150 g da Probiótica, com R$ 96,89 no Pix, sai por R$ 64,59 por 100 g, com 5.000 mg de creatina em cada dose de 5 g e 30 porções. A Probiótica declara Creapure no nome do produto; a página da Growth não declara o selo.",
-          "A tabela da creatina de 300 g declara 5.000 mg de creatina por porção de 5 g e 60 porções, os números que a conta usa."
+          "A tabela da creatina de 300 g declara 5.000 mg de creatina por porção de 5 g e 60 porções, os números que a conta usa.",
+          "A Creatina Monodose em sachê e a creatina em cápsulas da Probiótica ficam fora desta tabela e aparecem contra a gummy e o comprimido da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
         ],
         "images": [
           {
@@ -104372,7 +104375,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, o refil sem sabor sai a R$ 15,50 por 100 g, e o pouch da Growth, a R$ 14,98; com o cupom e o Pix somados, o refil cai para R$ 13,95.",
-          "A limonada de 210 g (R$ 36,06) e o pote de 200 g sem sabor (R$ 32,45) são os mais caros por grama de creatina desta tabela, e a melancia, em R$ 18,64, fica acima do refil sem sabor. Os potes de 500 g e de 250 g da Growth, com dose de 5 g, saem a R$ 18,87 e R$ 19,95 por 100 g no cartão. Para a conta da Growth em outra creatina, veja [o comparativo da creatina da Nutren com a Growth](/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed)."
+          "A limonada de 210 g (R$ 36,06) e o pote de 200 g sem sabor (R$ 32,45) são os mais caros por grama de creatina desta tabela, e a melancia, em R$ 18,64, fica acima do refil sem sabor. Os potes de 500 g e de 250 g da Growth, com dose de 5 g, saem a R$ 18,87 e R$ 19,95 por 100 g no cartão. Para a conta da Growth em outra creatina, veja [o comparativo da creatina da Nutren com a Growth](/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed).",
+          "A creatina com sabor da Mais Mu também aparece ao lado da gummy da Growth, por grama de creatina, em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
         ],
         "images": [
           {
