@@ -63,8 +63,9 @@ artigos prepara a AG1 e as migrações.
    - Conferência: typecheck, eslint, build, todos os testes e o HTML do build igual ao da base fixa `c0a392f8`
      (a `main` do início do trabalho, não a que avançar), página por página, com as diferenças excluídas (variáveis
      de build ou de data) registradas no relatório.
-2. **Tipo e validação.** `types.ts`, `data.ts`, `validate-content-model.ts`, `test-review-i18n.ts` e o índice da
-   lupa (`siteSearch.mjs`). O validador passa a aceitar lista, só com as regras acima.
+2. **Tipo e validação.** `types.ts`, `data.ts`, `validate-content-model.ts`, `test-review-i18n.ts`,
+   `test-store-banners.ts` e `test-home-stores.ts` (as conferências contra os dados reais). O validador passa a aceitar
+   lista, só com as regras acima. A lupa (`siteSearch.mjs`) não lê `affiliate` hoje nem com uma loja: fica igual.
 3. **Artigo no computador.** `getArticleStoreBlocks`, `ArticleStoreCodes`, template, `ArticleEnd`, `ReviewSidebar`,
    `HighlightCoupon`, `store` da foto e do card de estilo, textos nos 10 idiomas.
 4. **Celular.** Dock "Ver códigos (N)", gaveta, `test-build-output` (linhas por loja, sponsored, nenhum banner,
@@ -76,3 +77,22 @@ Fica para depois: dock que acompanha a seção, banners em artigo com lista, Yes
 traduzidas com lista.
 
 Antes do push: capturas de computador e celular e revisão externa.
+
+## Auditoria do fim da fase 1
+
+Busca de `affiliate` em `src/` e `scripts/` (todas as extensões), fora `couponsData.ts`, `couponTranslations.ts`, os
+gerados e os nomes que só contêm a palavra (`affiliate-link`, `affiliateUrl`, `affiliateAccountId`, `affiliateCta`).
+
+- Já pelas funções de `reviewStores.ts`: `homeStores`, `reviewsHub`, `relatedReviews`, `localeHome`, `homeEvents`,
+  `videosHub`, `articleStore`, `related-order`, `review-prose-checks`.
+- Legítimos, outro conceito: o `affiliate` dos banners (`storeBanners.ts`, `test-store-banners.ts` linhas 20–159) e o
+  da página de loja (`StorePageBanners`, `CouponStorePage`, `YesStyleCouponPage`) são o slug de uma loja, não o campo
+  do artigo.
+- Legítimos, artigo de uma loja: os casos de mentira de `test-home-events`, `test-home-stores` (linhas 49–61),
+  `test-reviews-hub`, `test-videos-hub`, `test-article-d2` (linhas 33–37, 91–93, 138, 149, 377, 418) e do snippet em
+  `validate-content-model.ts` (935–956); `articleStore.ts:131` vem depois da guarda de lista.
+- Fase 2 (tipo e conferências contra os dados reais): `types.ts:441`, `data.ts:176`, `validate-content-model.ts:496`,
+  `test-review-i18n.ts:29, 221, 486`, `test-store-banners.ts:170`, `test-home-stores.ts:224–310`,
+  `test-article-d2.ts:72–77, 108–109, 213, 230, 403`.
+- Fases 3 e 4 (artigo): `ReviewNotebookTemplate`, `ReviewSidebar`, `ReviewMobileBottomBar`, `ReviewContentSections`,
+  `ReviewSectionContent`, `ArticleStyling` e `test-build-output.ts:1716, 1729, 1894, 1910, 1980`.
