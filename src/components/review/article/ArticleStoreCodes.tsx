@@ -118,13 +118,11 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
                   ariaLabel={`${labels.copyCoupon(code)} (${brand})`}
                   copiedStatus={copiedHint}
                   className={`mt-0.5 ${CODE_BUTTON}`}
+                  // Copiado, só o ✓, da largura do ícone de copiar: o código longo não quebra. A frase vem embaixo.
                   copiedChildren={
                     <>
                       <span className="min-w-0 break-all text-balance">{code}</span>
-                      <span className="flex shrink-0 items-center gap-1 font-sans text-[13px]">
-                        <Check aria-hidden="true" className="size-4" />
-                        {labels.copied}
-                      </span>
+                      <Check aria-hidden="true" className="size-[18px] shrink-0" />
                     </>
                   }
                 >
