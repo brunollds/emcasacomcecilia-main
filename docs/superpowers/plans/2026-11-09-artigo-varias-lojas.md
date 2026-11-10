@@ -100,9 +100,11 @@ gerados e os nomes que só contêm a palavra (`affiliate-link`, `affiliateUrl`, 
 ## Auditoria do fim da fase 2
 
 - O tipo é `ReviewAffiliate` (`types.ts`, `data.ts`). Quem só sabe mostrar uma loja lê `getSingleStoreSlug`, que dá
-  `undefined` para a lista: `articleStore.ts`, o template (o `storeSlug` passado ao recorte, à sidebar, às seções e ao
-  dock), `ReviewSidebar` (relacionados), `test-article-d2`, `test-build-output` (foto, banner e bloco da loja),
+  `undefined` para a lista: `articleStore.ts`, o template (o `storeSlug` passado ao recorte, às seções e ao dock),
+  `test-article-d2`, `test-build-output` (foto, banner e bloco da loja),
   `test-review-i18n` (Hostinger) e `test-store-banners` (destino do banner). Nenhum consumidor usa o primeiro item.
+- `ReviewSidebar` é componente de cliente: a guarda é inline (`typeof review.affiliate === 'string'`), sem importar
+  `reviewStores.ts` nem prop nova, para o payload do artigo não mudar. Só o JavaScript dela muda de nome.
 - `hasCommercialRelationship` (template e `test-build-output`) conta qualquer loja da lista: o link do artigo de várias
   lojas segue com sponsored.
 - `test-review-i18n` compara a lista pelo conteúdo, na ordem (não por referência); `test-home-stores` conta o artigo em

@@ -9,7 +9,6 @@ import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { CouponCodeKind } from '@/lib/couponsData';
-import { getSingleStoreSlug } from '@/lib/reviewStores';
 import type { Locale } from '@/lib/i18n/locales';
 import { ArticleCouponCutout } from './article/ArticleCouponCutout';
 import { getArticleCopy } from './articleCopy';
@@ -227,7 +226,8 @@ export function ReviewSidebar({
             coupon={review.coupon}
             effectiveCta={effectiveCta}
             reviewSlug={review.slug}
-            affiliate={getSingleStoreSlug(review)}
+            // Só a loja do artigo de uma loja; o de várias lojas (lista) não tem a loja dos cartões.
+            affiliate={typeof review.affiliate === 'string' ? review.affiliate : undefined}
             locale={locale}
             codeKind={codeKind}
             codeBrand={codeBrand}
