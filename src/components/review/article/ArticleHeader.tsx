@@ -178,22 +178,22 @@ export function ArticleHeader({
         </details>
       )}
 
-      {storeBlock && (
+      {/* Uma expressão só: o artigo de uma loja mantém a mesma lista de filhos no payload. */}
+      {storeBlocks.length > 0 ? (
         <div className="mt-8 max-w-3xl">
-          <ArticleCouponCutout
+          <ArticleStoreCodes
             variant="top"
-            block={storeBlock}
+            blocks={storeBlocks}
             locale={couponCopyLocale}
             reviewSlug={review.slug}
             storeLabel={storeLabel}
           />
         </div>
-      )}
-      {storeBlocks.length > 0 && (
+      ) : storeBlock && (
         <div className="mt-8 max-w-3xl">
-          <ArticleStoreCodes
+          <ArticleCouponCutout
             variant="top"
-            blocks={storeBlocks}
+            block={storeBlock}
             locale={couponCopyLocale}
             reviewSlug={review.slug}
             storeLabel={storeLabel}

@@ -163,6 +163,9 @@ export function ReviewNotebookTemplate({
   const multiStores: MultiStores | undefined = multiStoreBlocks
     ? Object.fromEntries(multiStoreBlocks.map(({ slug, brand, code }) => [slug, { brand, code }]))
     : undefined;
+  // Só no artigo de várias lojas: prop undefined passada a componente cliente vira "$undefined" no payload.
+  const multiStoreProps = multiStores ? { multiStores } : {};
+  const storeBlocksProps = multiStoreBlocks ? { storeBlocks: multiStoreBlocks } : {};
   const inlineCodeCopy = storeBlocks.length > 0
     ? storeBlocks.flatMap(toInlineCopy)
     : storeBlock ? toInlineCopy(storeBlock)[0] ?? null : null;
@@ -265,7 +268,7 @@ export function ReviewNotebookTemplate({
             videoPageUrl={videoPageUrl}
             youtubeEmbedUrl={youtubeEmbedUrl}
             storeBlock={storeBlock}
-            storeBlocks={multiStoreBlocks}
+            {...storeBlocksProps}
             storeLabel={storeLabel}
           />
 
@@ -329,7 +332,7 @@ export function ReviewNotebookTemplate({
                         coupon={review.coupon}
                         affiliate={storeSlug}
                         storeBrand={store?.brand}
-                        multiStores={multiStores}
+                        {...multiStoreProps}
                         locale={couponCopyLocale}
                         noteLabels={noteLabels}
                         slots={sectionSlots}
@@ -360,7 +363,7 @@ export function ReviewNotebookTemplate({
                             coupon={review.coupon}
                             affiliate={storeSlug}
                             storeBrand={store?.brand}
-                            multiStores={multiStores}
+                            {...multiStoreProps}
                             locale={couponCopyLocale}
                             noteLabels={noteLabels}
                             slots={sectionSlots}
@@ -380,7 +383,7 @@ export function ReviewNotebookTemplate({
                       coupon={review.coupon}
                       affiliate={storeSlug}
                       storeBrand={store?.brand}
-                      multiStores={multiStores}
+                      {...multiStoreProps}
                       locale={couponCopyLocale}
                       noteLabels={noteLabels}
                       slots={sectionSlots}
@@ -413,7 +416,7 @@ export function ReviewNotebookTemplate({
                 videoPageUrl={videoPageUrl}
                 showVerdict={shouldRenderVerdict}
                 storeBlock={storeBlock}
-                storeBlocks={multiStoreBlocks}
+                {...storeBlocksProps}
                 affiliateCta={
                   review.cta?.url && review.cta.label
                     ? { url: review.cta.url, label: review.cta.label, text: review.cta.text, sponsored: review.cta.sponsored ?? hasCommercialRelationship }
@@ -438,7 +441,7 @@ export function ReviewNotebookTemplate({
                 codeKind={codeKind}
                 codeBrand={codeBrand}
                 storeBlock={storeBlock}
-                storeBlocks={multiStoreBlocks}
+                {...storeBlocksProps}
                 storeLabel={storeLabel}
               />
             </aside>
