@@ -9,8 +9,8 @@ type: "Comparativo de Suplemento"
 anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2); reler todos os preços no dia"
-bloqueado_por: "recurso de várias lojas no artigo (Redesenho); a AG1 espera o mesmo"
+proxima_acao: "redação (Job 2) no modo de várias lojas, como a AG1; reler todos os preços no dia"
+bloqueado_por: null
 score_autoridade: 78
 score_conversao: 80
 score_ponderado_total: 79
@@ -69,7 +69,7 @@ Segunda pauta da série "Alternativas a <marca>". Na noite de 09/11/2026, o Brun
 - **Gummy sem julgamento:** dizer o que o rótulo mostra (3 g por dose, 30 doses, sem açúcar adicionado) e o preço. Não dizer que a goma é pior. A monodose entra como recomendação editorial, com o motivo (mais creatina por dose, menos por dose, também prática), e não como "a melhor".
 - **Tabelas por função** ([[feedback-tabelas-por-funcao]]): uma tabela por capítulo, de 3 a 4 linhas e 4 colunas: produto, dose, por 100 g com o código, por dose com o código. O preço da Growth fica no texto de abertura do capítulo, não como linha concorrente.
 - **Texto direto, sem prontuário:** até 2 datas no corpo, nenhuma em título, legenda ou FAQ. A resposta rápida não leva R$.
-- **metaDescription:** até 155 caracteres, sem abrir com "Cupom", sem R$ e sem data. No modo de várias lojas, seguir o snippet que a AG1 adotar. No plano B (só Black Skull): "cupom CECILIA10" e "10%" na primeira frase, com o código terminando até o caractere 100.
+- **metaDescription:** até 155 caracteres, sem abrir com "Cupom", sem R$ e sem data. Seguir o snippet da AG1 (`alternativas-a-growth-whey`, no ar desde 10/11 no modo de várias lojas).
 - **Links de produto:** a página de cada produto no site oficial. Na Black Skull, `offerUrl` de `couponsData.ts`; nas outras, o link que cada `/cupons/<loja>` usa.
 
 ## 5. Esqueleto (PT)
@@ -86,14 +86,13 @@ Segunda pauta da série "Alternativas a <marca>". Na noite de 09/11/2026, o Brun
 
 ## 6. Links
 
-- **Internos:** `creatina-black-skull-qual-escolher`, `creatina-max-titanium-qual-pote`, `creatina-probiotica-qual-compensa`, `monodose-probiotica-sache-ou-pote`, `creatina-com-sabor-qual-escolher`, os quatro "X ou Growth" (`black-skull-ou-growth`, `max-titanium-ou-growth`, `probiotica-ou-growth`, `mais-mu-ou-growth`), a AG1 quando estiver no ar, e as quatro `/cupons/<loja>`.
+- **Internos:** `creatina-black-skull-qual-escolher`, `creatina-max-titanium-qual-pote`, `creatina-probiotica-qual-compensa`, `monodose-probiotica-sache-ou-pote`, `creatina-com-sabor-qual-escolher`, os quatro "X ou Growth" (`black-skull-ou-growth`, `max-titanium-ou-growth`, `probiotica-ou-growth`, `mais-mu-ou-growth`), a AG1 (`alternativas-a-growth-whey`), e as quatro `/cupons/<loja>`.
 - **Volta:** os quatro "X ou Growth" ganham uma linha com link para este guia (Fila, seção 4). Os artigos de creatina das parceiras e o de creatina com sabor podem ganhar a mesma linha, se a redação achar que cabe.
 - **Imagem:** capa com o preço por 100 g de cada formato e fotos só das parceiras (Job 6). No corpo, ao menos a caixa da monodose com a tabela do sachê.
 
 ## 7. Decisão técnica
 
-- **Modo de várias lojas, como a AG1:** `affiliate` vira lista, na ordem em que o texto cita: `["black-skull", "probiotica", "max-titanium", "mais-mu"]`. Sem `coupon` e sem `cta`: o código e o link de cada loja vêm de `couponsData.ts`. Sem banners. É o formato que o Bruno decidiu com a Redesenho em 09/11. A sessão de artigos tem o formato exato no aviso da Redesenho.
-- **Até o recurso entrar:** a AG2 espera, como a AG1. Se o Bruno quiser publicar antes, o plano B é `affiliate: "black-skull"` com `coupon: "CECILIA10"`, porque a Black Skull dá a maior economia e aparece em dois capítulos.
+- **Modo de várias lojas, como a AG1:** `affiliate` vira lista, na ordem em que o texto cita: `["black-skull", "probiotica", "max-titanium", "mais-mu"]`. Sem `coupon` e sem `cta`: o código e o link de cada loja vêm de `couponsData.ts`. Sem banners. O recurso está na main desde 10/11 (#804) e a AG1 já saiu nele (#810): o JSON da AG1 é o molde, inclusive o `store` das fotos com link.
 - **Loja de cada linha** (para foto com `href` e link de produto): Creator e Turbo → `black-skull`; Monodose e Cápsulas → `probiotica`; Creatina 1 kg, 500 g e 7Belo → `max-titanium`; refil sem sabor e creatina com sabor → `mais-mu`.
 
 ## 8. O que falta
