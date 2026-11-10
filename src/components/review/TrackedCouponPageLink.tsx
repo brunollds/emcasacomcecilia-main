@@ -6,6 +6,7 @@ import { trackEvent } from '@/lib/analytics';
 import { getCouponBrandFromHref, getInternalHref } from '@/lib/internalLinks';
 
 export type CouponPageLinkPlacement =
+  | 'review_top'
   | 'review_inline'
   | 'review_end'
   | 'review_sidebar'
