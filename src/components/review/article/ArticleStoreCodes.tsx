@@ -18,8 +18,8 @@ type Variant = 'top' | 'end' | 'sidebar' | 'drawer';
 const PLACEMENT = { top: 'review_top', end: 'review_end', sidebar: 'review_sidebar', drawer: 'review_mobile_drawer' } as const;
 
 const FRAME: Record<Variant, string> = {
-  // No celular, a moldura sai da lista e vai para cada cartão do carrossel.
-  top: 'text-marinho print:hidden md:rounded-2xl md:border-2 md:border-marinho md:bg-creme md:px-4 md:pt-3 md:pb-1',
+  // Com uma loja só (as outras pausadas); com duas ou mais, a moldura vai para cada cartão (CARDS_FRAME).
+  top: 'rounded-2xl border-2 border-marinho bg-creme px-3.5 pt-3 pb-1 text-marinho print:hidden md:px-4',
   sidebar: 'rounded-2xl border-2 border-marinho bg-creme px-3.5 pt-3 pb-1 text-marinho print:hidden',
   end: 'text-marinho print:hidden',
   drawer: 'mx-4 mt-3.5 scroll-mt-3 text-marinho',
@@ -39,17 +39,19 @@ export type ArticleStoreCodesProps = {
   reviewSlug: string;
 };
 
-// O topo do celular: um cartão em pé por loja, numa fila que rola para o lado, com boa parte do próximo à vista. O
-// código fica embaixo (mt-auto), alinhado entre os cartões; o código longo quebra em duas linhas, com a mesma altura em todos.
 const SEPARATOR = 'border-t-2 border-dashed border-marinho/25';
-const SEPARATOR_DESKTOP = 'md:border-t-2 md:border-dashed md:border-marinho/25';
+// O topo com duas lojas ou mais: um cartão em pé por loja, com o código embaixo (mt-auto), alinhado entre os cartões; o
+// código longo quebra em duas linhas, com a mesma altura em todos. No celular, uma fila que rola para o lado, com boa parte
+// do próximo à vista. No computador, a grade: 2 colunas e 4 quando a largura do topo passa de 64rem (256 px por cartão),
+// sempre com 4 trilhas: com 2 ou 3 lojas, os cartões têm a largura dos de 4 e ficam à esquerda.
 // O relative segura os textos sr-only (position: absolute) dos cartões fora da tela: sem ele, eles escapam da rolagem da
 // fila, a página fica mais larga que o celular e, ao abrir a gaveta, a tela corre para a direita.
-const CAROUSEL_ROW = 'hide-scrollbar relative -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-3 overflow-x-auto px-4 pb-1 md:mx-0 md:grid md:grid-cols-2 md:gap-x-6 md:overflow-visible md:px-0 md:pb-0';
-const CAROUSEL_CARD = 'flex w-[75%] max-w-80 shrink-0 snap-start flex-col rounded-2xl border-2 border-marinho bg-creme px-3 pt-2 pb-3 md:block md:w-auto md:max-w-none md:rounded-none md:border-0 md:bg-transparent md:px-0 md:pt-1.5 md:pb-2.5';
+const CARDS_FRAME = '@container text-marinho print:hidden';
+const CAROUSEL_ROW = 'hide-scrollbar relative -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-3 overflow-x-auto px-4 pb-1 md:mx-0 md:grid md:grid-cols-2 md:overflow-visible md:px-0 md:pb-0 @min-[64rem]:grid-cols-4';
+const CAROUSEL_CARD = 'flex w-[75%] max-w-80 shrink-0 snap-start flex-col rounded-2xl border-2 border-marinho bg-creme px-3 pt-2 pb-3 md:w-auto md:max-w-none';
 
-// O artigo de várias lojas: uma linha por loja, todas com o mesmo peso e na ordem do artigo (nenhuma é a principal),
-// separadas por um traço em vez de um cartão cada. Na linha, o nome e o desconto à esquerda, "Ir à loja" e "Regras" à
+// O artigo de várias lojas: uma loja por linha (ou por cartão, no topo), todas com o mesmo peso e na ordem do artigo
+// (nenhuma é a principal); na lateral, no fim e na gaveta, separadas por um traço. Na linha, o nome e o desconto à esquerda, "Ir à loja" e "Regras" à
 // direita (descem quando o nome é longo) e, embaixo, o código, que copia ao toque. No topo, a lista leva o id do recorte
 // (#cupom-artigo), que o dock do celular observa; no fim, o título e o #loja vêm do ArticleEnd. Na gaveta do celular,
 // fica dentro do <dialog>: com ele aberto, o resto da página é inerte, e o fallback de cópia vai para o dialog do botão.
@@ -57,8 +59,8 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
   const copy = getArticleCopy(locale);
   const labels = getCouponCopyLabels(locale);
   const placement = PLACEMENT[variant];
-  // Duas colunas só no topo e no fim do computador, com 2 lojas ou mais.
-  const columns = (variant === 'top' || variant === 'end') && blocks.length > 1;
+  // Duas colunas no fim do computador, com 2 lojas ou mais; o topo usa os cartões.
+  const columns = variant === 'end' && blocks.length > 1;
   const carousel = variant === 'top' && blocks.length > 1;
   const [current, setCurrent] = useState(0);
 
@@ -68,7 +70,7 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
       data-store-codes={variant}
       // No fim, o h2 do ArticleEnd já dá o nome.
       aria-label={variant === 'end' ? undefined : copy.storeCodesTitle}
-      className={FRAME[variant]}
+      className={carousel ? CARDS_FRAME : FRAME[variant]}
     >
       {variant !== 'end' && (
         <p className="mb-1 text-[13px] font-bold leading-[18px] tracking-[0.04em] text-marinho-suave uppercase">
@@ -107,15 +109,14 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
     return blocks.map((block, index) => {
       const { code, codeKind, brand, discount, storeHref, storeSponsored, slug, couponPageHref } = block;
       const copiedHint = copy.copiedHint({ slug, brand }, codeKind);
-      // O traço separa as lojas; nas duas colunas, a segunda loja abre a coluna da direita e também fica sem ele. No
-      // carrossel, o traço é só do computador: no celular, cada loja é um cartão.
-      const separator =
-        index === 0 ? '' : carousel ? (index === 1 ? '' : SEPARATOR_DESKTOP) : `${SEPARATOR} ${columns && index === 1 ? 'md:border-t-0' : ''}`;
+      // O traço separa as lojas; nas duas colunas, a segunda loja abre a coluna da direita e também fica sem ele.
+      const separator = index === 0 || carousel ? '' : `${SEPARATOR} ${columns && index === 1 ? 'md:border-t-0' : ''}`;
       return (
         <li key={slug} data-store-code={slug} className={`group/linha min-w-0 ${carousel ? CAROUSEL_CARD : 'pt-1.5 pb-2.5'} ${separator}`}>
           <div className="flex flex-wrap items-center gap-x-3.5">
-            {/* No cartão, o nome ocupa a linha e os links descem para a de baixo. */}
-            <p className={`mr-auto min-w-0 py-1 ${carousel ? 'max-md:basis-full' : ''}`}>
+            {/* No cartão estreito (o carrossel do celular e as 4 colunas), o nome ocupa a linha e os links descem; nas 2
+                colunas, o cartão é largo e eles ficam ao lado do nome. */}
+            <p className={`mr-auto min-w-0 py-1 ${carousel ? 'max-md:basis-full @min-[64rem]:basis-full' : ''}`}>
               <span className="block text-[15px] leading-5 font-extrabold">{brand}</span>
               {discount && <span className="block text-[13px] leading-[18px] font-semibold text-marinho-suave">{discount}</span>}
             </p>
@@ -162,7 +163,7 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
               placement={placement}
               ariaLabel={`${labels.copyCoupon(code)} (${brand})`}
               copiedStatus={copiedHint}
-              className={`${carousel ? 'mt-auto md:mt-0.5' : 'mt-0.5'} ${CODE_BUTTON}`}
+              className={`${carousel ? 'mt-auto' : 'mt-0.5'} ${CODE_BUTTON}`}
               // Copiado, só o ✓, da largura do ícone de copiar: o código longo não quebra. A frase vem embaixo.
               copiedChildren={
                 <>
