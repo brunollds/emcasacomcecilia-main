@@ -53,6 +53,7 @@ export interface ContentSectionImage {
   objectFit?: 'cover' | 'contain' | 'portrait';
   aspectRatio?: number;
   href?: string;
+  store?: string;
 }
 
 export interface RecipeRating {

@@ -21,7 +21,7 @@ import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getArticleStoreBlock, getArticleStoreBlocks, type ArticleLimitedCode, type ArticleStoreBlock } from '../src/lib/articleStore';
-import { getReviewStoreSlugs, getSingleStoreSlug } from '../src/lib/reviewStores';
+import { getReviewStoreSlugs, getSingleStoreSlug, isMultiStoreReview } from '../src/lib/reviewStores';
 import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
@@ -2036,19 +2036,26 @@ for (const url of articleUrls) {
   // As fotos com link de produto (`href` da imagem da seção): cada uma vira um link sponsored com o nome "Ver na
   // <loja>: <alt>" do idioma, e o "Ampliar" segue como botão logo depois do link, fora dele.
   const photoLinks = (review.contentSections ?? []).flatMap((section) =>
-    [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])].flatMap((image) => (image.href ? [image.href] : []))
+    [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])].flatMap((image) => (image.href ? [image] : []))
   );
-  if (photoLinks.length) {
-    const photoStore = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
-    const viewLabel = escapeHtml(getGalleryCopy(locale).viewProduct(photoStore ? { slug: photoStore.slug, brand: photoStore.brand } : undefined));
-    for (const href of photoLinks) {
-      const start = body.search(new RegExp(`<a\\b[^>]*\\shref="${escapeHtml(href).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"[^>]*\\saria-label="${viewLabel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
-      assert.ok(start >= 0, `${pagePath}: foto sem o link de produto ${href} com o nome "${viewLabel}…"`);
-      const link = elementAt(body, start);
-      assert.match(link, /^<a\b[^>]*\srel="sponsored noopener noreferrer"/, `${pagePath}: link da foto ${href} sem sponsored`);
-      assert.doesNotMatch(link, /<button\b/, `${pagePath}: botão dentro do link da foto ${href}`);
-      assert.match(body.slice(start + link.length), /^<button\b/, `${pagePath}: foto ${href} sem o botão Ampliar logo depois do link`);
+  // No artigo de várias lojas, o nome do link vem do `store` de cada foto, e a foto de loja pausada fica sem o link
+  // (withoutPausedHref). O mesmo endereço pode seguir nas tabelas, sem aria-label: a conferência é a do link da foto.
+  const activeStores = new Set(multiBlocks.map(({ slug }) => slug));
+  for (const { href, store } of photoLinks) {
+    const hrefPattern = escapeHtml(href).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    if (isMultiStoreReview(review) && !(store && activeStores.has(store))) {
+      assert.doesNotMatch(body, new RegExp(`<a\\b[^>]*\\shref="${hrefPattern}"[^>]*\\saria-label=`), `${pagePath}: foto da loja pausada ${store ?? '(sem store)'} com o link ${href}`);
+      continue;
     }
+    const storeSlug = store ?? getSingleStoreSlug(review);
+    const photoStore = storeSlug ? getCouponBySlug(storeSlug) : undefined;
+    const viewLabel = escapeHtml(getGalleryCopy(locale).viewProduct(photoStore ? { slug: photoStore.slug, brand: photoStore.brand } : undefined));
+    const start = body.search(new RegExp(`<a\\b[^>]*\\shref="${hrefPattern}"[^>]*\\saria-label="${viewLabel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
+    assert.ok(start >= 0, `${pagePath}: foto sem o link de produto ${href} com o nome "${viewLabel}…"`);
+    const link = elementAt(body, start);
+    assert.match(link, /^<a\b[^>]*\srel="sponsored noopener noreferrer"/, `${pagePath}: link da foto ${href} sem sponsored`);
+    assert.doesNotMatch(link, /<button\b/, `${pagePath}: botão dentro do link da foto ${href}`);
+    assert.match(body.slice(start + link.length), /^<button\b/, `${pagePath}: foto ${href} sem o botão Ampliar logo depois do link`);
   }
 
   // Os banners de campanha da loja (storeBanners.ts): o `top` logo depois da 1ª seção do corpo, o `mid` logo antes
