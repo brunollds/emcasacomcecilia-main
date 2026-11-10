@@ -210143,5 +210143,326 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 895,
+    "slug": "alternativas-a-creatina-da-growth",
+    "locale": "pt",
+    "title": "Alternativas à creatina da Growth: pó, sachê e cápsula",
+    "seoTitle": "Alternativas à creatina da Growth, com cupom",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Veja o que pôr no lugar da creatina em pó, da gummy e do comprimido da Growth, com o preço por grama de creatina e por dose já com o código de cada loja parceira.",
+    "metaDescription": "Com o cupom CECILIA10 (10%), o Creator da Black Skull custa menos da metade da creatina da Growth por grama. Compare sachê, sabor e cápsula.",
+    "publishedAt": "10 de novembro de 2026",
+    "publishedAtISO": "2026-11-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/creatina/alternativas-a-creatina-da-growth-capa.webp",
+    "imageAlt": "Creator refil da Black Skull, caixa da Creatina Monodose e pote da Creatina Caps da Probiótica e refil Melancia da creatina da Mais Mu, com o título Alternativas à creatina da Growth: pó, sachê e cápsula",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na creatina em pó, o Creator refil da Black Skull com o CECILIA10 custa menos da metade da Growth por grama de creatina. No lugar da gummy, a monodose em sachê da Probiótica traz 5 g por dose e custa menos por dose. No lugar do comprimido, a cápsula da Probiótica tem a mesma dose, sem o selo Creapure®."
+        ]
+      },
+      {
+        "heading": "Como comparar creatina de formatos diferentes",
+        "bullets": [
+          "Por grama de creatina: a conta divide o preço pela creatina do pacote, que é o número de doses vezes a creatina de cada dose na tabela nutricional. O peso do pote não serve, porque na goma e no pó com sabor parte do peso não é creatina.",
+          "Pela dose do rótulo: 5 g no pó sem sabor, no sachê e nas creatinas com sabor da Black Skull e da Max; 3 g na gummy, no comprimido, na cápsula e na creatina da Mais Mu. O preço por dose só vale entre produtos com a mesma dose, por isso as tabelas mostram a dose ao lado.",
+          "Pix ou cartão: na Growth, o cartão sai cerca de 11% acima do Pix. As tabelas usam o preço da página com o código aplicado. Na Max e na Probiótica, o código é de até 10%: os valores dessas lojas são uma simulação com os 10%, e o desconto real pode ser menor."
+        ]
+      },
+      {
+        "heading": "No lugar da creatina em pó: o Creator da Black Skull",
+        "paragraphs": [
+          "Na Growth, o pote de 250 g custa R$ 39,90 no Pix e R$ 44,33 no cartão: R$ 15,96 e R$ 17,73 por 100 g de creatina. O refil de 500 g fica no mesmo nível, com R$ 15,98 por 100 g no Pix. As quatro opções da tabela custam menos com o código."
+        ],
+        "comparisonTable": {
+          "caption": "Preços dos sites em 10 de novembro de 2026, sem frete, com o código de cada loja (na Max, simulação com o desconto máximo de 10%). Conta nossa: preço dividido pela creatina declarada no rótulo.",
+          "headers": [
+            "Produto e preço com o código",
+            "Dose do rótulo",
+            "Por 100 g de creatina",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "[Black Skull Creator refil 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p): R$ 35,91 com CECILIA10",
+              "5 g, 100 doses",
+              "R$ 7,18",
+              "R$ 0,36"
+            ],
+            [
+              "[Black Skull Creator 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p): R$ 26,91 com CECILIA10",
+              "5 g, 60 doses",
+              "R$ 8,97",
+              "R$ 0,45"
+            ],
+            [
+              "[Max Titanium Creatina 1 kg](https://www.maxtitanium.com.br/creatina-1kg/p): R$ 98,91 se o MAX10EMCASACOMCECILIA der 10%",
+              "5 g, 200 doses",
+              "R$ 9,89",
+              "R$ 0,49"
+            ],
+            [
+              "[Max Titanium Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p): R$ 62,91 se o MAX10EMCASACOMCECILIA der 10%",
+              "5 g, 100 doses",
+              "R$ 12,58",
+              "R$ 0,63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o CECILIA10, o Creator refil custa 55% menos por grama que o pote de 250 g da Growth no Pix, e cerca de 60% menos no cartão. Na Black Skull, o CECILIA10 vale em todas as formas de pagamento.",
+          "Na Max, o Pix e o boleto têm até 5% de desconto, que soma com o código. O MAX10EMCASACOMCECILIA pode dar menos de 10% em algum produto: confira o percentual no carrinho.",
+          "O [refil sem sabor de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) também fica abaixo da Growth: R$ 13,48 por 100 g de creatina com o MMEMCASACOMCECILIA e R$ 13,08 com o Pix depois do código. A dose do rótulo dele é de 3 g.",
+          "Para escolher o tamanho dentro de cada marca, veja os guias da [creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher) e da [creatina da Max Titanium](/reviews/creatina-max-titanium-qual-pote)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/creatina-black-skull-creator-refil-500g.webp",
+            "alt": "Embalagem do Creator, creatina monohidratada, refil de 500 g da Black Skull",
+            "caption": "Creator refil de 500 g, na foto do site da Black Skull.",
+            "href": "https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "black-skull"
+          },
+          {
+            "src": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
+            "alt": "Pote de 500 g da Creatine da Max Titanium, suplemento alimentar de creatina em pó",
+            "caption": "Creatina 500 g. Imagem: Max Titanium.",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "objectFit": "contain",
+            "aspectRatio": 0.6721,
+            "store": "max-titanium"
+          }
+        ]
+      },
+      {
+        "heading": "No lugar da gummy: a Creatina Monodose da Probiótica",
+        "paragraphs": [
+          "A G-Gummy da Growth custa R$ 89,90 no Pix e R$ 99,88 no cartão, com 30 porções de 3 gomas. O rótulo traz 3 g de creatina por porção, sem açúcares adicionados, com 13 kcal e 3,5 g de carboidratos, que vêm dos polióis. No Pix, são R$ 3,00 por dose e R$ 99,89 por 100 g de creatina, mais de 6 vezes o pote em pó da própria Growth.",
+          "Se você compra a gummy pela facilidade de levar porções separadas, nossa recomendação é a [Creatina Monodose da Probiótica](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). Cada sachê é uma porção pronta, com 5 g de creatina, sem dosador. A diferença é que o sachê precisa ser diluído em água ou em outra bebida, e a gummy se mastiga.",
+          "A caixa com 30 sachês custa R$ 69,89: R$ 2,33 por sachê e R$ 46,59 por 100 g de creatina, menos da metade da gummy por grama, antes do código. O PRO10EMCASACOMCECILIA dá até 10%: com os 10%, seriam R$ 2,10 por sachê e R$ 41,93 por 100 g."
+        ],
+        "postParagraphs": [
+          "A tabela do sachê não traz quantidade significativa de valor energético, carboidratos nem açúcares. Para comparar o sachê com o pote da própria Probiótica, veja [Monodose da Probiótica: sachê ou pote](/reviews/monodose-probiotica-sache-ou-pote)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+            "alt": "Caixa da Creatina Monodose da Probiótica aberta, com os 30 sachês de 5 g e um sachê à frente",
+            "caption": "Creatina Monodose, 30 sachês de 5 g. Imagem: Probiótica.",
+            "href": "https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "objectFit": "contain",
+            "aspectRatio": 1.0135,
+            "store": "probiotica"
+          },
+          {
+            "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+            "alt": "Tabela nutricional da Creatina Monodose da Probiótica: porção de 5 g (1 sachê) com 5.000 mg de creatina",
+            "caption": "Tabela nutricional da Creatina Monodose, na imagem da ficha da Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7208
+          }
+        ]
+      },
+      {
+        "heading": "Se você quer sabor: creatina em pó com sabor",
+        "paragraphs": [
+          "A gummy, que custa R$ 89,90 no Pix e R$ 99,88 no cartão, é a única creatina com sabor da Growth: ela não vende creatina em pó com sabor. Nas parceiras, a creatina em pó com sabor custa entre 16% e 24% do preço da gummy por grama de creatina."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto e preço com o código",
+            "Dose do rótulo",
+            "Por 100 g de creatina",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "[Mais Mu Creatina com sabor refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-tropical-500g/): R$ 67,41 com MMEMCASACOMCECILIA",
+              "3,5 g de pó com 3 g de creatina, cerca de 143 doses",
+              "R$ 15,73",
+              "R$ 0,47"
+            ],
+            [
+              "[Max Titanium Creatina 7Belo 300 g](https://www.maxtitanium.com.br/creatina-7belo/p): R$ 59,55 se o MAX10EMCASACOMCECILIA der 10%",
+              "6 g de pó com 5 g de creatina, 50 doses",
+              "R$ 23,82",
+              "R$ 1,19"
+            ],
+            [
+              "[Black Skull Creatine Turbo 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p): R$ 35,91 com CECILIA10",
+              "10 g de pó com 5 g de creatina, 30 doses",
+              "R$ 23,94",
+              "R$ 1,20"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A creatina com sabor da Mais Mu tem a mesma dose da gummy, 3 g, e custa R$ 0,47 por dose com o código, contra R$ 3,00 da gummy no Pix.",
+          "Na Turbo sabor Laranja, a tabela traz 4,7 g de carboidratos e 18 kcal por porção; a Turbo também tem versão sem sabor. A tabela da 7Belo não traz quantidade significativa de valor energético nem de carboidratos.",
+          "Para comparar mais potes com sabor, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/creatina-black-skull-turbo-300g.webp",
+            "alt": "Pote da Creatine Turbo sem sabor, 300 g, da Black Skull",
+            "caption": "Creatine Turbo 300 g, na foto do site da Black Skull.",
+            "href": "https://www.blackskullusa.com.br/creatine-turbo--300g/p",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "black-skull"
+          },
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
+            "alt": "Creatina Mais Mu limonada 210 g, sem sabor 200 g, refil melancia 500 g e refil sem sabor 500 g",
+            "caption": "Creatinas da Mais Mu com e sem sabor, em pote e em refil. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "No lugar do comprimido: as cápsulas da Probiótica",
+        "paragraphs": [
+          "A Creatina Creapure® em comprimidos da Growth custa R$ 59,90 no Pix e R$ 66,55 no cartão. São 120 comprimidos, em 40 porções de 3, com 3 g de creatina cada: R$ 1,50 por dose e R$ 49,92 por 100 g de creatina no Pix.",
+          "A [Creatina Monohidratada em Cápsulas da Probiótica](https://www.probiotica.com.br/creatina-caps-180/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) vem com 180 cápsulas e custa R$ 47,89. São 45 porções de 4 cápsulas, também com 3 g de creatina. Sem o código, sai por R$ 35,47 por 100 g de creatina, cerca de 29% menos que a Growth no Pix. O PRO10EMCASACOMCECILIA dá até 10%: com os 10%, seriam R$ 31,93 por 100 g e R$ 0,96 por porção.",
+          "A cápsula da Probiótica é creatina monohidratada, e a embalagem não traz o selo Creapure®."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/alternativas-a-creatina-da-growth-capsulas-180.webp",
+            "alt": "Pote azul da Creatina Caps da Probiótica, creatina monohidratada com 180 cápsulas",
+            "caption": "Creatina Caps, 180 cápsulas. Foto oficial da Probiótica.",
+            "href": "https://www.probiotica.com.br/creatina-caps-180/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "probiotica"
+          },
+          {
+            "src": "/images/reviews/probiotica/alternativas-a-creatina-da-growth-tabela-capsulas.webp",
+            "alt": "Tabela nutricional da Creatina Caps da Probiótica: 45 porções de 3,3 g (4 cápsulas) com 3.000 mg de creatina",
+            "caption": "Tabela nutricional da Creatina Caps. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 1.6818
+          }
+        ]
+      },
+      {
+        "heading": "Códigos para comprar as alternativas",
+        "comparisonTable": {
+          "headers": [
+            "Loja",
+            "Código",
+            "Desconto",
+            "Condição"
+          ],
+          "rows": [
+            [
+              "Black Skull",
+              "CECILIA10",
+              "10%",
+              "Vale nas promoções e em todas as formas de pagamento."
+            ],
+            [
+              "Probiótica",
+              "PRO10EMCASACOMCECILIA",
+              "até 10%, conforme o produto",
+              "Vale nas promoções; as contas simulam os 10%, então confira o percentual no carrinho."
+            ],
+            [
+              "Max Titanium",
+              "MAX10EMCASACOMCECILIA",
+              "até 10%, conforme o produto",
+              "Soma com as promoções e com o desconto de até 5% no Pix e no boleto; as contas simulam os 10%."
+            ],
+            [
+              "Mais Mu",
+              "MMEMCASACOMCECILIA",
+              "10%",
+              "Soma com os 3% do Pix; não soma com cashback nem com o cupom de boas-vindas."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Veja as regras e como aplicar nas páginas do [cupom Black Skull](/cupons/black-skull), do [cupom Probiótica](/cupons/probiotica), do [cupom Max Titanium](/cupons/max-titanium) e do [cupom Mais Mu](/cupons/mais-mu). Confira também o frete para o seu CEP antes de fechar o pedido."
+        ]
+      },
+      {
+        "heading": "Qual alternativa faz sentido para a sua compra",
+        "emphasis": "Para economizar mantendo o pó sem sabor, comece pelo Creator refil com o CECILIA10. Na troca da gummy pelo sachê, você passa a preparar uma bebida; na troca dos comprimidos pelas cápsulas, muda o número de unidades por porção e o selo Creapure® sai da embalagem.",
+        "bullets": [
+          "Pó sem sabor: o Creator refil da Black Skull com o CECILIA10 custa menos da metade por grama. O Creator 300 g e a creatina de 1 kg da Max também ficam bem abaixo.",
+          "Gummy: a Creatina Monodose da Probiótica dá a dose pronta, com mais creatina e menos custo por dose, mas vai diluída em bebida.",
+          "Sabor: a creatina com sabor da Mais Mu tem a mesma dose da gummy por uma fração do preço; a 7Belo e a Turbo trazem 5 g por dose.",
+          "Comprimido: as cápsulas da Probiótica custam menos por grama, com a mesma dose de creatina, sem o selo Creapure® na embalagem."
+        ],
+        "postParagraphs": [
+          "Para comparar o catálogo de cada marca com o da Growth, há [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Probiótica ou Growth](/reviews/probiotica-ou-growth), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth) e [Mais Mu ou Growth](/reviews/mais-mu-ou-growth). Para o whey, veja [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual creatina é mais barata que a da Growth? Entre as parceiras, o Creator refil de 500 g da Black Skull: com o CECILIA10, custa menos da metade do pote de 250 g da Growth por grama de creatina, no Pix ou no cartão.",
+          "Tem alternativa à creatina gummy da Growth? A Creatina Monodose da Probiótica é a nossa recomendação: a dose pronta em sachê, com 5 g de creatina, por menos que a gummy por dose. Para quem quer sabor, há creatina em pó com sabor na Mais Mu, na Max e na Black Skull.",
+          "Creatina em sachê vale a pena? Pela praticidade, cada sachê é uma dose pronta. Por grama, ele custa mais que o pó em pote; a troca compensa contra a gummy, não contra o pote.",
+          "A creatina em cápsula da Probiótica é Creapure? A embalagem não traz o selo Creapure®. É creatina monohidratada, com 3 g por porção de 4 cápsulas.",
+          "O cupom vale em produto em promoção? Na Black Skull, na Probiótica e na Max, o código vale nas promoções do site. Na Mais Mu, o código soma com o desconto do Pix, mas não com cashback nem com o cupom de boas-vindas.",
+          "Por que a gummy tem 3 g de creatina por dose e o pó, 5 g? Cada fabricante define a porção do rótulo: a gummy da Growth declara 3 g em 3 gomas; o pó da Growth e o sachê da Probiótica, 5 g. Por isso a comparação usa o preço por grama de creatina, e não só o preço por dose."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você compra creatina em pó sem sabor: o Creator refil da Black Skull com o CECILIA10 custa menos da metade por grama.",
+        "Quer a dose pronta, sem dosador, no lugar da gummy: a Creatina Monodose da Probiótica traz 5 g por sachê.",
+        "Prefere cápsula e não faz questão da Creapure®: as cápsulas da Probiótica têm 3 g por porção e custam menos por grama."
+      ],
+      "skipIf": [
+        "Você faz questão da Creapure®: as cápsulas da Probiótica e as creatinas em pó das tabelas não trazem o selo Creapure®.",
+        "Quer uma goma para mastigar: o sachê e o pó com sabor vão misturados em bebida.",
+        "O frete ou um desconto menor que 10% pode reduzir a economia: compare o valor final no carrinho."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "black-skull",
+      "probiotica",
+      "max-titanium",
+      "mais-mu"
+    ],
+    "editorialNote": "Comparação de preços e rótulos; não provamos os produtos. Podemos receber comissão das quatro alternativas; a Growth não é parceira. Dúvidas sobre dose ou saúde: consulte médico ou nutricionista.",
+    "relatedArticles": [
+      {
+        "slug": "creatina-black-skull-qual-escolher"
+      },
+      {
+        "slug": "monodose-probiotica-sache-ou-pote"
+      },
+      {
+        "slug": "creatina-com-sabor-qual-escolher"
+      },
+      {
+        "slug": "alternativas-a-growth-whey"
+      }
+    ]
   }
 ];

@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2) no modo de várias lojas, como a AG1; reler todos os preços no dia"
+proxima_acao: "deploy (GO do Bruno); depois, link nos quatro X ou Growth e releitura de preços depois de 27/11"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 80
