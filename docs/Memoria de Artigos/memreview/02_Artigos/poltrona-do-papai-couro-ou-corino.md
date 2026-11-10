@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "aguardando-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2)"
+proxima_acao: "deploy com GO do Bruno, fora do pico de BF e Natal; antes, reler preços e páginas da DAMIE e ajustar publishedAt, updatedAt e a data da tabela"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 70
@@ -157,3 +157,31 @@ Publicação sem data marcada. Sugestão: fora do pico de Black Friday e Natal, 
 ## 8. Pontuação
 
 Dor 16/25, demanda 11/20, valor além do oficial 17/20, visita 11/15, cluster 9/10, viabilidade 8/10. Total 72.
+
+## 9. Redação (09/11/2026)
+
+JSON em `content/reviews/poltrona-do-papai-couro-ou-corino.json` (id 891), fora do PR até a revisão externa do Bruno. Decisões da redação:
+
+- **Leis (saíram na revisão externa):** o bloco jurídico inteiro ficou fora do artigo, por escopo. Voltar só com orientação oficial ou análise jurídica sobre esses nomes e modelos. Fica o registro da conferência: Lei 11.211, no Planalto. O art. 1º fala em calçados e artefatos e os anexos não listam móveis, mas o art. 6º cita estofados e móveis (etiqueta impressa na costura, em uma das faces laterais). O texto diz que a lei "cita", sem afirmar que toda poltrona tem a etiqueta.
+- **Lei 4.888:** entram os arts. 1º e 2º. O art. 3º (a palavra couro "mesmo modificada com prefixos ou sufixos") ficou de fora de propósito: "courino" e "corino" derivam de couro, e a própria DAMIE e o site usam o nome. Decisão a confirmar com o Bruno.
+- **Uso real novo:** o corino da 2.0 esfolou atrás, em menos de seis meses, onde o pé de balanço bate na janela (guia de tecidos do subdomínio, atualização de 07/11). Entrou como relato de atrito em um ponto só, sem dizer que o resto "não descascou".
+- **Hidratar:** além dos anúncios da Magalu, o guia de limpeza do subdomínio registra que o guia de cuidados da DAMIE cita hidratante específico para couro a cada 6 a 12 meses. O texto mostra a divergência e manda seguir o manual.
+- **Guia de tecidos do subdomínio:** `/guias/qual-tecido-escolher-poltrona-damie` e `/guias/poltrona-damie-como-limpar-cada-tipo-de-tecido`, confirmados no sitemap dele.
+- **Páginas da DAMIE:** a leitura automática levou 429 em 09/11 e parou. [PENDENTE: navegador] Preços, composição, cobertura do couro, garantia e a página da Levita ficam como a pauta leu em 09/11 e voltam a ser lidos no dia de publicar.
+- **Divergências para olhar:** o guia do subdomínio diz "quase seis meses" de uso da 2.0 em 07/11, e o review saiu em julho. O FAQ de `poltrona-damie-e-boa` limita a garantia à estrutura e às ferragens, e a página lida em 09/11 diz "qualquer defeito".
+- **Sem foto do esfolado:** o subdomínio só o mostra em vídeo. Uma foto de perto do Bruno entraria nesse capítulo.
+
+### Plano de imagens
+
+| Seção | Imagem | Origem |
+|---|---|---|
+| Capa | `damie/poltrona-do-papai-couro-ou-corino-capa.webp` | Nova (covers:render). 2.0 com o copo de água (`reclinavel-2-0-impermeavel-poster.webp`, do subdomínio) e Levita (`damie/poltrona-levita-cecilia-selfie.jpg`). As 19 capas da DAMIE foram conferidas: a sala, a sentada, a lateral e a flores já estão em outras. Enviada ao CDN em 09/11 |
+| Aqui em casa | `poltrona-reclinavel-2-0-cecilia-sentada.webp` e `poltrona-levita-cecilia-sala.webp` | Fotos próprias, já no CDN |
+| Onde encontrar | Matrix Porsche e Condor | Anúncios na Magalu, sem href, já usadas na PP2 |
+
+### Revisão externa (Farol / ChatGPT, 09/11)
+
+- **Aceito:** o corino deixa de ser regra para toda casa com criança; "ninguém mede" virou "não temos comparação controlada"; hidrólise em bolsas saiu; a dúvida sobre hidratar termina em confirmar com a loja; o exemplo da manual em couro contra o giro em corino substituiu os percentuais; saiu o bloco das leis; saiu a linha da Levita no quadro de limpeza; capa sem a foto repetida da PP2.
+- **Recusado:** R$ no quadro "Leve se / Passe se" (o validate:content barra); números repetidos na prosa de preço; "na mesma leitura" e "registros consultados" (bastidor); subtítulo de 126 caracteres (a faixa é de 150 a 180); títulos de capítulo sem a busca ("corino ou couro", "como saber se é couro legítimo", "como limpar poltrona de corino").
+- **Mantido fora da proposta dele:** o caso do anúncio de R$ 5.605 e os 30 primeiros da Magalu, que não dependem da lei; e a frase geral de que calor, sol e atrito pesam contra a película, com o rótulo de regra prática, para responder "corino descasca".
+
