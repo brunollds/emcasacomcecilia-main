@@ -3,6 +3,7 @@
 // usa estas funções com a lista de pendentes (review-prose-baseline.json), que só pode encolher.
 import { isFaqHeading } from '../src/lib/faq';
 import type { BodyDatesReason, ContentSection } from '../src/lib/content/types';
+import { getReviewStoreSlugs, isMultiStoreReview, type ReviewAffiliate } from '../src/lib/reviewStores';
 
 export const BODY_DATES_REASONS = ['campanha', 'prazo-entrega', 'reclame-aqui'] as const satisfies readonly BodyDatesReason[];
 export const MAX_BODY_DATES = 2;
@@ -197,15 +198,16 @@ interface SnippetReview {
   slug: string;
   locale?: string;
   coupon?: string;
-  affiliate?: string;
+  affiliate?: ReviewAffiliate;
   metaDescription?: string;
 }
 
-/** Artigo que a regra cobre: em português, com código e fora das exceções. */
+/** Artigo que a regra cobre: em português, de uma loja, com código e fora das exceções. O de várias lojas fica fora:
+ * a metaDescription não tem lugar para os códigos de todas. */
 export function isSnippetChecked(review: SnippetReview): boolean {
   if (review.locale && review.locale !== 'pt') return false;
-  if (!review.coupon) return false;
-  if (review.affiliate && Object.hasOwn(SNIPPET_EXCEPTION_STORES, review.affiliate)) return false;
+  if (!review.coupon || isMultiStoreReview(review)) return false;
+  if (getReviewStoreSlugs(review).some((slug) => Object.hasOwn(SNIPPET_EXCEPTION_STORES, slug))) return false;
   return !Object.hasOwn(SNIPPET_EXCEPTION_SLUGS, review.slug);
 }
 
@@ -215,7 +217,8 @@ export function checkSnippet(review: SnippetReview): SnippetProblem[] {
   const text = review.metaDescription?.trim() ?? '';
   if (!text) return ['missing'];
   const code = review.coupon ?? '';
-  const store = review.affiliate;
+  // checkSnippet só roda no artigo de uma loja (isSnippetChecked).
+  const [store] = getReviewStoreSlugs(review);
   const problems: SnippetProblem[] = [];
 
   const at = text.indexOf(code);

@@ -5,6 +5,7 @@ import { getTabAnchor } from '@/lib/homeStoreTabs';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type SocialImage } from '@/lib/pageSeo';
 import { getListedPortugueseReviews, isListedInPortuguese, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { getReviewStoreLabel, getReviewStores, isMultiStoreReview } from '@/lib/reviewStores';
 
 // Datas comerciais (Black Friday, Natal, 11.11…), configuradas em content/home-events.json. A home
 // mostra a data em campanha; a página fixa de cada data (/black-friday) mostra a edição mais recente.
@@ -224,7 +225,9 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
   return event.articleSlugs.map((slug) => {
     // parseHomeEvents já garantiu que cada slug existe e está listado em português.
     const review = reviews.find((item) => item.slug === slug && isListedInPortuguese(item));
-    const store = stores.find((item) => item.slug === review.affiliate);
+    // O artigo de várias lojas leva o nome delas no cartão e nenhum botão de código: o de uma delas seria eleger uma
+    // principal.
+    const store = isMultiStoreReview(review) ? undefined : getReviewStores(review, stores)[0];
     const code = store ? getStoreCode(store) : undefined;
     return {
       slug,
@@ -234,7 +237,7 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
       image: review.image ? resolveMediaUrl(review.image) : undefined,
       imageFit: cardImageFit(review),
       imagePosition: review.imagePosition,
-      store: store?.brand,
+      store: getReviewStoreLabel(review, stores),
       codeLink:
         store && code ? { href: `/#${getTabAnchor(store.slug)}`, label: codeLinkLabel(store) } : undefined,
     };

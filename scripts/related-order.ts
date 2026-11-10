@@ -1,10 +1,13 @@
+import { reviewsShareStore, type ReviewAffiliate } from '../src/lib/reviewStores';
+
 // A ordem do topo dos relacionados do fim do artigo (pickRelatedReviews): os da mesma loja primeiro; logo depois, os
-// do relatedArticles, na ordem do JSON. Usada pelo test:article-d2 e pelo test:build-output.
+// do relatedArticles, na ordem do JSON. Usada pelo test:article-d2 e pelo test:build-output. "Mesma loja" é ter
+// alguma loja em comum, como no pickRelatedReviews.
 export function relatedOrderProblem(
-  review: { slug: string; affiliate?: string; relatedArticles?: ReadonlyArray<{ slug: string }> },
-  related: ReadonlyArray<{ slug: string; affiliate?: string }>
+  review: { slug: string; affiliate?: ReviewAffiliate; relatedArticles?: ReadonlyArray<{ slug: string }> },
+  related: ReadonlyArray<{ slug: string; affiliate?: ReviewAffiliate }>
 ): string | null {
-  const isSameStore = (r: { affiliate?: string }) => Boolean(review.affiliate) && r.affiliate === review.affiliate;
+  const isSameStore = (r: { affiliate?: ReviewAffiliate }) => reviewsShareStore(review, r);
   const storeCount = related.findIndex((r) => !isSameStore(r));
   const rest = storeCount === -1 ? [] : related.slice(storeCount);
   if (rest.some(isSameStore)) return `${review.slug}: mesma loja não veio primeiro`;
