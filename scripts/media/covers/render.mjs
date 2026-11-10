@@ -49,7 +49,7 @@ html,body{width:${W}px;height:${H}px;overflow:hidden;background:#fef9f3}
 .grid{display:flex;width:100%;height:100%}
 .grid img{flex:1;min-width:0;height:100%;object-fit:cover}
 .row{display:flex;align-items:center;justify-content:center;gap:48px;width:100%;height:100%;padding:36px 60px}
-.row img{height:100%;max-width:32%;object-fit:contain}
+.row img{height:100%;max-width:var(--max,32%);object-fit:contain}
 .tiles{display:flex;align-items:center;justify-content:center;gap:56px}
 .tile{border-radius:40px;box-shadow:0 18px 40px rgba(40,20,110,.25);display:flex;align-items:center;justify-content:center}
 .tile img{display:block}
@@ -106,7 +106,7 @@ export function topHtml(t, src) {
   if (t.scene) return sceneHtml(t, src);
   if (t.photo) return `<div class="topo" style="background:${t.bg || '#000'};padding:${t.pad || 0}"><img style="object-fit:${t.fit || 'cover'};object-position:${t.pos || '50% 50%'}" src="${src(t.photo)}"></div>`;
   if (t.grid) return `<div class="topo"><div class="grid">${t.grid.map((f) => `<img style="object-position:${t.pos || '50% 50%'}" src="${src(f)}">`).join('')}</div></div>`;
-  if (t.row) return `<div class="topo" style="background:${t.bg || '#fff'}"><div class="row">${t.row.map((f) => `<img src="${src(f)}">`).join('')}</div></div>`;
+  if (t.row) return `<div class="topo" style="background:${t.bg || '#fff'}"><div class="row" style="--max:${Math.floor(96 / Math.max(t.row.length, 3))}%">${t.row.map((f) => `<img src="${src(f)}">`).join('')}</div></div>`;
   if (t.tiles) {
     const tile = (x) => (x === 'vs' ? '<div class="vs">vs</div>' : `<div class="tile" style="background:${x.bg};padding:${x.pad ?? 40}px"><img style="height:${x.h}px" src="${src(x.img)}"></div>`);
     return `<div class="topo" style="background:${t.bg || '#efeaff'}"><div class="tiles">${t.tiles.map(tile).join('')}</div></div>`;
@@ -122,7 +122,8 @@ function icon(n) {
 }
 
 export function bandHtml(b, src) {
-  const logo = b.kind === 'reclame-aqui' ? '' : `<div class="logo"><img src="${src(b.logo)}"></div>`;
+  // Sem logo quando o artigo não é de uma loja só (ex.: as Alternativas, com várias parceiras).
+  const logo = b.kind === 'reclame-aqui' || !b.logo ? '' : `<div class="logo"><img src="${src(b.logo)}"></div>`;
   const icons = b.icons?.length ? `<div class="icons">${b.icons.map(icon).join('')}</div>` : '';
   switch (b.kind) {
     case 'title':
