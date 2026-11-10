@@ -172,3 +172,10 @@ O cupom **CECI** pode ser aplicado no checkout da loja oficial Nestlé Nutre par
 - O `title` (H1) desta nota permanece o original de Job-2/Job-3 por decisão editorial deste registro — **não alterar**.
 - O `title` (H1) **real no JSON publicado** é `"Nutren Just Protein: tudo o que você precisa saber"` — o usuário trocou deliberadamente após a conformação, priorizando CTR de busca sobre a diretriz anti-clickbait de `REGRAS-GLOBAIS.md` item 2. Decisão consciente, não é um erro de pipeline a corrigir.
 - O `seoTitle` (o que aparece de fato no Google) é o valor separado acima e segue a diretriz — o H1 diferente do `seoTitle` é esperado, não é bug.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-just-protein-para-que-serve-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Lata de 280 g do Nutren Just Protein da Nestlé.
+- **Origem:** foto oficial da lata de 280 g.
+- **Lote 06 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/nutren/nutren-just-protein-capa-discover.webp`) fica no CDN, sem uso como capa.

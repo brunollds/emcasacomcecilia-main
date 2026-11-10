@@ -96,3 +96,10 @@ Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i13-f12/PARECER.md
 - Aviso de gestantes e lactantes vale para o sutiã de silicone e para o protetor; a aplicação da fita usa o protetor, então a combinação não é apresentada para essa fase.
 - Soma de fita e protetor avulsos no quadro de preços: R$ 176,80 e R$ 159,12 com o cupom, marcada como soma.
 - Veredito sem "Se fosse para a minha casa", a pedido do Bruno: variação só neste artigo e no I13; o Job 2 não muda por isso.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com a Fita Up no busto, segurando a caixa da Toda Up.
+- **Origem:** foto oficial da Toda Up, a mesma da capa anterior. Ela também é a capa inteira de `fita-up-ou-blumi-ou-lib`; o Bruno aprovou a repetição em 10/11/2026.
+- **Lote 05 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa.webp`) fica no CDN, sem uso como capa.

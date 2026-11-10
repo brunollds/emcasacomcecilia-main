@@ -296,3 +296,10 @@ Job 2 na sessão elaboradora de artigos.
 - **Texto em PT:** redigido por subagentes em dois blocos de capítulos a partir deste briefing (Job 2), juntado e revisado por Claude (Job 3) e aprovado pelo Bruno em 20/10/2026. Só PT. id 518, `/reviews/body-clea-store-second-skin-qual-escolher`, autoria da Cecília.
 - **Preços:** relidos em 20/10/2026 (Cléa Store), com a data no texto; itens em pré-venda ou com dado quebrado ficaram fora. Cupom CSEMCASACOMCECILIA (10% em todo o site, não vale no Mercado Livre). Sem experiência própria com os produtos.
 - **Imagens:** em `public/images/reviews/clea-store/`, escolhidas pelo Bruno na folha de contato: fotos dos bodies da loja e o quadro da tabela de medidas. Upload pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/body-clea-store-second-skin-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com o body Regata Cavado off white Second Skin da Cléa Store e calça jeans.
+- **Origem:** foto oficial da Cléa Store (Regata Cavado off white).
+- **Lote 06 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp`) fica no CDN, sem uso como capa.

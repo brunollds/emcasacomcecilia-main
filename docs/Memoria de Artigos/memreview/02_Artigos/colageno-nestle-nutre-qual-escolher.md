@@ -90,3 +90,10 @@ Os três lado a lado, pelo que cada rótulo diz: quanto colágeno tem em cada po
 ## 8. Pontuação
 
 Dor 19/25, demanda 16/20, valor além do oficial 16/20, visita 10/15, cluster 8/10, conversão 6/10. Total 75.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Lata de 300 g do FiberMais Colágeno da Nestlé.
+- **Origem:** foto oficial da lata do FiberMais Colágeno; sem alegação de benefício.
+- **Lote 04 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

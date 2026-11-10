@@ -181,3 +181,10 @@ Fatos: `conjunto-de-malas-bagaggio-compensa-fatos-2910.md`, ao lado.
 - Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
 - Cupom em conjunto e em mais de uma mala não testado: o texto diz só a regra do cupom. Imagens do CDN: capa, Detroit preta P e M e Malta branca e marrom.
 - Pendente: reler os preços na Black Friday de 2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Duas malas Detroit pretas da Bagaggio.
+- **Origem:** foto oficial do conjunto Detroit preto, nas proporções da fonte; não serve para inferir medidas.
+- **Lote 04 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa.webp`) fica no CDN, sem uso como capa.

@@ -230,10 +230,11 @@
       "slug": "clube-dolce-gusto-como-funciona"
     }
   ],
-  "image": "/images/reviews/dolcegusto/adaptador-neo-start-hero-oficial.webp",
-  "imageAlt": "Adaptador NESCAFÉ Dolce Gusto NEO Start oficial para máquinas da linha ORIGINAL",
+  "image": "/images/reviews/dolcegusto/adaptador-neo-start-o-que-e-capa-v2.webp",
+  "imageAlt": "Adaptador NEO Start da Dolce Gusto sobre uma bancada de cozinha, em cenário ilustrativo.",
   "publishedAtISO": "2026-08-04",
   "isNew": false,
   "imageFit": "contain",
+  "imageAspect": "landscape",
   "updatedAt": "2026-11-06"
 }

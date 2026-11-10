@@ -173,3 +173,10 @@ Fatos: `monodose-probiotica-sache-ou-pote-fatos-2810.md`, ao lado (vale sobre o 
 - No ar em 29/10/2026 02:21 UTC: PR #343 (id 652), release `b4c436fa`.
 - Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa.webp`), no CDN.
 - Pendente: reler preços antes da Black Friday.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Caixa aberta da Creatina Monodose da Probiótica, com sachês de 5 g.
+- **Origem:** foto oficial da caixa aberta com os sachês de 5 g.
+- **Lote 06 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa.webp`) fica no CDN, sem uso como capa.

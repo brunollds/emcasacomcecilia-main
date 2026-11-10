@@ -37817,6 +37817,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80606,
+      "sha256": "81a09ea276d9b7a4821cd1f3e4666cc46fcada165a87d60616ca6683a832a31d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "conjunto-de-malas-bagaggio-compensa-capa-v2.webp",
+      "storage_filename": "conjunto-de-malas-bagaggio-compensa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/conjunto-de-malas-bagaggio-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/conjunto-de-malas-bagaggio-compensa.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/81a09ea276d9b7a4821cd1f3e4666cc46fcada165a87d60616ca6683a832a31d/conjunto-de-malas-bagaggio-compensa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/81a09ea276d9b7a4821cd1f3e4666cc46fcada165a87d60616ca6683a832a31d/conjunto-de-malas-bagaggio-compensa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.075Z",
+      "verification_etag_or_digest": "81a09ea276d9b7a4821cd1f3e4666cc46fcada165a87d60616ca6683a832a31d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa.webp",
       "local_url": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa.webp",
       "media_kind": "image",
@@ -38247,6 +38285,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53300,
+      "sha256": "c49b0a2b3edefb33aca918487470f75b1f3f3a668777d85bdd3532f308403832",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mala-de-bordo-bagaggio-qual-compensa-capa-v2.webp",
+      "storage_filename": "mala-de-bordo-bagaggio-qual-compensa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mala-de-bordo-bagaggio-qual-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mala-de-bordo-bagaggio-qual-compensa.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c49b0a2b3edefb33aca918487470f75b1f3f3a668777d85bdd3532f308403832/mala-de-bordo-bagaggio-qual-compensa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c49b0a2b3edefb33aca918487470f75b1f3f3a668777d85bdd3532f308403832/mala-de-bordo-bagaggio-qual-compensa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "c49b0a2b3edefb33aca918487470f75b1f3f3a668777d85bdd3532f308403832",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa.webp",
       "local_url": "/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa.webp",
       "media_kind": "image",
@@ -38434,6 +38510,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-29T22:25:41.749Z",
       "verification_etag_or_digest": "91475c735f342a33d5379283ae147e025b61e17ddd8991e9221d5c1ae7250919",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36134,
+      "sha256": "c295949559ac1fda55ae889e7c097bbdad648623b6bf7854a54aa4de90b5f4f3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mala-policarbonato-ou-abs-bagaggio-capa-v2.webp",
+      "storage_filename": "mala-policarbonato-ou-abs-bagaggio-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mala-policarbonato-ou-abs-bagaggio.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mala-policarbonato-ou-abs-bagaggio.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c295949559ac1fda55ae889e7c097bbdad648623b6bf7854a54aa4de90b5f4f3/mala-policarbonato-ou-abs-bagaggio-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c295949559ac1fda55ae889e7c097bbdad648623b6bf7854a54aa4de90b5f4f3/mala-policarbonato-ou-abs-bagaggio-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "c295949559ac1fda55ae889e7c097bbdad648623b6bf7854a54aa4de90b5f4f3",
       "verification_status": "verified"
     },
     {
@@ -39118,6 +39232,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T16:44:30.103Z",
       "verification_etag_or_digest": "af8d74d767c460b3ac83c8bfb7765dcc420073f4201aeeedf7f13044092dcdd8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/mochila-notebook-bagaggio-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/mochila-notebook-bagaggio-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49732,
+      "sha256": "c59c63969be1f3a84c68af131f614f6da96373550ec8c3fefa262dc02840771b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochila-notebook-bagaggio-qual-escolher-capa-v2.webp",
+      "storage_filename": "mochila-notebook-bagaggio-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochila-notebook-bagaggio-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochila-notebook-bagaggio-qual-escolher.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/mochila-notebook-bagaggio-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c59c63969be1f3a84c68af131f614f6da96373550ec8c3fefa262dc02840771b/mochila-notebook-bagaggio-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c59c63969be1f3a84c68af131f614f6da96373550ec8c3fefa262dc02840771b/mochila-notebook-bagaggio-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "c59c63969be1f3a84c68af131f614f6da96373550ec8c3fefa262dc02840771b",
       "verification_status": "verified"
     },
     {
@@ -44892,6 +45044,82 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T17:08:30.863Z",
       "verification_etag_or_digest": "e29306a848d4f7e346aad5705460fba893d54b8db2237e71d98ca79d2af7e680",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/black-friday-clea-store-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/black-friday-clea-store-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55550,
+      "sha256": "a3b36e4b9060f8e1beb3ae32c4b35b555ecbb1504772d24cd39d20831d75a6d4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-clea-store-capa-v2.webp",
+      "storage_filename": "black-friday-clea-store-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-clea-store.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-clea-store.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/black-friday-clea-store-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a3b36e4b9060f8e1beb3ae32c4b35b555ecbb1504772d24cd39d20831d75a6d4/black-friday-clea-store-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a3b36e4b9060f8e1beb3ae32c4b35b555ecbb1504772d24cd39d20831d75a6d4/black-friday-clea-store-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "a3b36e4b9060f8e1beb3ae32c4b35b555ecbb1504772d24cd39d20831d75a6d4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/body-clea-store-second-skin-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/body-clea-store-second-skin-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46992,
+      "sha256": "5718d33d4767116151971b2e8e3b0bf71c85991fcd4d86fc8ef1360ff2464083",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-clea-store-second-skin-qual-escolher-capa-v2.webp",
+      "storage_filename": "body-clea-store-second-skin-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/body-clea-store-second-skin-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5718d33d4767116151971b2e8e3b0bf71c85991fcd4d86fc8ef1360ff2464083/body-clea-store-second-skin-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5718d33d4767116151971b2e8e3b0bf71c85991fcd4d86fc8ef1360ff2464083/body-clea-store-second-skin-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "5718d33d4767116151971b2e8e3b0bf71c85991fcd4d86fc8ef1360ff2464083",
       "verification_status": "verified"
     },
     {
@@ -54149,6 +54377,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/adaptador-neo-start-o-que-e-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/adaptador-neo-start-o-que-e-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95352,
+      "sha256": "55556c795e107d219f7ac9816e1873d3efc73baaa96a6202d1948e21cc671eff",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptador-neo-start-o-que-e-capa-v2.webp",
+      "storage_filename": "adaptador-neo-start-o-que-e-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptador-neo-start-o-que-e.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptador-neo-start-o-que-e.json",
+          "line": 233,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/adaptador-neo-start-o-que-e-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/55556c795e107d219f7ac9816e1873d3efc73baaa96a6202d1948e21cc671eff/adaptador-neo-start-o-que-e-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55556c795e107d219f7ac9816e1873d3efc73baaa96a6202d1948e21cc671eff/adaptador-neo-start-o-que-e-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "55556c795e107d219f7ac9816e1873d3efc73baaa96a6202d1948e21cc671eff",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/adaptador-neo-start-passo-a-passo.webp",
       "local_url": "/images/reviews/dolcegusto/adaptador-neo-start-passo-a-passo.webp",
       "media_kind": "image",
@@ -55022,6 +55288,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "a12a29e5c955ba9e6533ac1d5f4d4935bb2663a5f9fcbcc5fab78dfbfaa662a0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91090,
+      "sha256": "68b6281c399e43a873e62bbb3a1a5e455e4890d11f9a0061e7ec5a74a4d24acc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clube-dolce-gusto-como-funciona-capa-v2.webp",
+      "storage_filename": "clube-dolce-gusto-como-funciona-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clube-dolce-gusto-como-funciona.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clube-dolce-gusto-como-funciona.json",
+          "line": 21,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/68b6281c399e43a873e62bbb3a1a5e455e4890d11f9a0061e7ec5a74a4d24acc/clube-dolce-gusto-como-funciona-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/68b6281c399e43a873e62bbb3a1a5e455e4890d11f9a0061e7ec5a74a4d24acc/clube-dolce-gusto-como-funciona-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "68b6281c399e43a873e62bbb3a1a5e455e4890d11f9a0061e7ec5a74a4d24acc",
       "verification_status": "verified"
     },
     {
@@ -55903,6 +56207,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "a9fab32cb17bf1f119067d3bc7ea52fb7918347d876b53c2e8c80bf1c0c20a0c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-genio-s-touch-vale-a-pena-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-genio-s-touch-vale-a-pena-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97736,
+      "sha256": "ff3fce82351cb4949a590f16b8160044581d638adf3e20783f458bdaffadb0bb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-genio-s-touch-vale-a-pena-capa-v2.webp",
+      "storage_filename": "dolce-gusto-genio-s-touch-vale-a-pena-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-genio-s-touch-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-genio-s-touch-vale-a-pena.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-genio-s-touch-vale-a-pena-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ff3fce82351cb4949a590f16b8160044581d638adf3e20783f458bdaffadb0bb/dolce-gusto-genio-s-touch-vale-a-pena-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ff3fce82351cb4949a590f16b8160044581d638adf3e20783f458bdaffadb0bb/dolce-gusto-genio-s-touch-vale-a-pena-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "ff3fce82351cb4949a590f16b8160044581d638adf3e20783f458bdaffadb0bb",
       "verification_status": "verified"
     },
     {
@@ -72371,6 +72713,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/camisa-social-insider-masculina-capa-v2.webp",
+      "local_url": "/images/reviews/insider/camisa-social-insider-masculina-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47028,
+      "sha256": "cf99761674c8e7b8f7fd5caa15a13fa17f690e16bec7969b832f90f47edcb361",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camisa-social-insider-masculina-capa-v2.webp",
+      "storage_filename": "camisa-social-insider-masculina-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camisa-social-insider-masculina.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camisa-social-insider-masculina.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/insider/camisa-social-insider-masculina-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cf99761674c8e7b8f7fd5caa15a13fa17f690e16bec7969b832f90f47edcb361/camisa-social-insider-masculina-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cf99761674c8e7b8f7fd5caa15a13fa17f690e16bec7969b832f90f47edcb361/camisa-social-insider-masculina-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "cf99761674c8e7b8f7fd5caa15a13fa17f690e16bec7969b832f90f47edcb361",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/camisa-social-insider-masculina-capa.webp",
       "local_url": "/images/reviews/insider/camisa-social-insider-masculina-capa.webp",
       "media_kind": "image",
@@ -73196,6 +73576,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-06T00:35:45.825Z",
       "verification_etag_or_digest": "fbb5ca861aa4bfe3736fb980af77b9665b0731cef1158661536de9d292526561",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49258,
+      "sha256": "b01fb8706b82a7b6e5342d867a6cab123c1e933669b447c64cc53fb4fbcf9fc1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-qual-escolher-capa-v2.webp",
+      "storage_filename": "camiseta-insider-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/camiseta-insider-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b01fb8706b82a7b6e5342d867a6cab123c1e933669b447c64cc53fb4fbcf9fc1/camiseta-insider-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b01fb8706b82a7b6e5342d867a6cab123c1e933669b447c64cc53fb4fbcf9fc1/camiseta-insider-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "b01fb8706b82a7b6e5342d867a6cab123c1e933669b447c64cc53fb4fbcf9fc1",
       "verification_status": "verified"
     },
     {
@@ -77615,6 +78033,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/sutia-insider-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/insider/sutia-insider-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53506,
+      "sha256": "802a7973a7aab1d6879b65392e501f041da5cec8fb4d44d49f5b7e2123e864dd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-insider-qual-escolher-capa-v2.webp",
+      "storage_filename": "sutia-insider-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-insider-qual-escolher.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/insider/sutia-insider-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/802a7973a7aab1d6879b65392e501f041da5cec8fb4d44d49f5b7e2123e864dd/sutia-insider-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/802a7973a7aab1d6879b65392e501f041da5cec8fb4d44d49f5b7e2123e864dd/sutia-insider-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "802a7973a7aab1d6879b65392e501f041da5cec8fb4d44d49f5b7e2123e864dd",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/sutia-insider-qual-escolher-capa.webp",
       "local_url": "/images/reviews/insider/sutia-insider-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -81160,6 +81616,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 107040,
+      "sha256": "f4f434958df63d4f6aaf8ddb25dbcf0e3f306dd6d174427fe1a5d16f1d10a81b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "storage_filename": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/qual-cobertor-escolher-guia-linhas-i-wanna-sleep.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/qual-cobertor-escolher-guia-linhas-i-wanna-sleep.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f4f434958df63d4f6aaf8ddb25dbcf0e3f306dd6d174427fe1a5d16f1d10a81b/qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4f434958df63d4f6aaf8ddb25dbcf0e3f306dd6d174427fe1a5d16f1d10a81b/qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "f4f434958df63d4f6aaf8ddb25dbcf0e3f306dd6d174427fe1a5d16f1d10a81b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/qual-cobertor-escolher-hero-grid.webp",
       "local_url": "/images/reviews/iwannasleep/qual-cobertor-escolher-hero-grid.webp",
       "media_kind": "image",
@@ -81233,6 +81727,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.463Z",
       "verification_etag_or_digest": "5cde00cc1937f6ba6096ee55b3ea168b537d611fbbf79e81164b6228792e2de1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57242,
+      "sha256": "429d7ad977036b2d243b7ddd67bda04e3bde50d8557ce6823760b216eec784c0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "storage_filename": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/429d7ad977036b2d243b7ddd67bda04e3bde50d8557ce6823760b216eec784c0/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/429d7ad977036b2d243b7ddd67bda04e3bde50d8557ce6823760b216eec784c0/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.076Z",
+      "verification_etag_or_digest": "429d7ad977036b2d243b7ddd67bda04e3bde50d8557ce6823760b216eec784c0",
       "verification_status": "verified"
     },
     {
@@ -90563,6 +91095,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60740,
+      "sha256": "82f2151746579a7d20b19d883a8aff9f3c6cf1663380014061c87ba57951a602",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-integralmedica-capa-v2.webp",
+      "storage_filename": "max-titanium-ou-integralmedica-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-integralmedica.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-integralmedica.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/82f2151746579a7d20b19d883a8aff9f3c6cf1663380014061c87ba57951a602/max-titanium-ou-integralmedica-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/82f2151746579a7d20b19d883a8aff9f3c6cf1663380014061c87ba57951a602/max-titanium-ou-integralmedica-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "82f2151746579a7d20b19d883a8aff9f3c6cf1663380014061c87ba57951a602",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp",
       "local_url": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp",
       "media_kind": "image",
@@ -91150,6 +91720,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-15T01:19:48.458Z",
       "verification_etag_or_digest": "e45e066649f5067e43a3f6bf058cdc8439e7958a290246484cd647a18b8f25f9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78614,
+      "sha256": "b8dc60d232f76376bcc7a1a65d243c8eae4ec3c469cfabccda5aa2c0c8c9b0ee",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-max-titanium-horus-ou-egide-capa-v2.webp",
+      "storage_filename": "pre-treino-max-titanium-horus-ou-egide-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-max-titanium-horus-ou-egide.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-max-titanium-horus-ou-egide.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b8dc60d232f76376bcc7a1a65d243c8eae4ec3c469cfabccda5aa2c0c8c9b0ee/pre-treino-max-titanium-horus-ou-egide-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b8dc60d232f76376bcc7a1a65d243c8eae4ec3c469cfabccda5aa2c0c8c9b0ee/pre-treino-max-titanium-horus-ou-egide-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "b8dc60d232f76376bcc7a1a65d243c8eae4ec3c469cfabccda5aa2c0c8c9b0ee",
       "verification_status": "verified"
     },
     {
@@ -92139,6 +92747,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87216,
+      "sha256": "1c123d7798e086a10deb3665cee2527bfd6bbd17561652f75e15fa7248344d11",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colageno-nestle-nutre-qual-escolher-capa-v2.webp",
+      "storage_filename": "colageno-nestle-nutre-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colageno-nestle-nutre-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colageno-nestle-nutre-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1c123d7798e086a10deb3665cee2527bfd6bbd17561652f75e15fa7248344d11/colageno-nestle-nutre-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1c123d7798e086a10deb3665cee2527bfd6bbd17561652f75e15fa7248344d11/colageno-nestle-nutre-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "1c123d7798e086a10deb3665cee2527bfd6bbd17561652f75e15fa7248344d11",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa.webp",
       "local_url": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -92628,6 +93274,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.463Z",
       "verification_etag_or_digest": "62dd47d9625b35df0836cfd9d225235e185869f76559da3353f49ca56d0984ef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nestle-nutre-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nestle-nutre-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93092,
+      "sha256": "7d5d6f6b848033e7f3e1240e4bd1179faef51c5d3c178c486557358fd80fe957",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nestle-nutre-e-confiavel-capa-v2.webp",
+      "storage_filename": "nestle-nutre-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestle-nutre-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestle-nutre-e-confiavel.json",
+          "line": 20,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nestle-nutre-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7d5d6f6b848033e7f3e1240e4bd1179faef51c5d3c178c486557358fd80fe957/nestle-nutre-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7d5d6f6b848033e7f3e1240e4bd1179faef51c5d3c178c486557358fd80fe957/nestle-nutre-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "7d5d6f6b848033e7f3e1240e4bd1179faef51c5d3c178c486557358fd80fe957",
       "verification_status": "verified"
     },
     {
@@ -93815,6 +94499,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "73523bd990a53b8ba854f929bc691ef17567519499a5d30522a00c2f71401bf4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-just-protein-para-que-serve-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-just-protein-para-que-serve-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86226,
+      "sha256": "f2680e671f0135e38b97c256b5d2ae2cb4739ba350fefec2f50e8ea306dd876e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-just-protein-para-que-serve-capa-v2.webp",
+      "storage_filename": "nutren-just-protein-para-que-serve-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-just-protein-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-just-protein-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-just-protein-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f2680e671f0135e38b97c256b5d2ae2cb4739ba350fefec2f50e8ea306dd876e/nutren-just-protein-para-que-serve-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f2680e671f0135e38b97c256b5d2ae2cb4739ba350fefec2f50e8ea306dd876e/nutren-just-protein-para-que-serve-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "f2680e671f0135e38b97c256b5d2ae2cb4739ba350fefec2f50e8ea306dd876e",
       "verification_status": "verified"
     },
     {
@@ -96328,6 +97050,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa-v2.webp",
+      "local_url": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90108,
+      "sha256": "d3c9d1a8094cb2982ae9979c3883e0381cf6e4bf1ec70d872bd5e2b0b71736ca",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-probiotica-qual-compensa-capa-v2.webp",
+      "storage_filename": "creatina-probiotica-qual-compensa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-probiotica-qual-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-probiotica-qual-compensa.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d3c9d1a8094cb2982ae9979c3883e0381cf6e4bf1ec70d872bd5e2b0b71736ca/creatina-probiotica-qual-compensa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d3c9d1a8094cb2982ae9979c3883e0381cf6e4bf1ec70d872bd5e2b0b71736ca/creatina-probiotica-qual-compensa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "d3c9d1a8094cb2982ae9979c3883e0381cf6e4bf1ec70d872bd5e2b0b71736ca",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp",
       "local_url": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp",
       "media_kind": "image",
@@ -96675,6 +97435,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T04:02:59.960Z",
       "verification_etag_or_digest": "2af8b96db55681b47e8474a09f178e614c227b07e1be1cf757709e8bd83f3c06",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa-v2.webp",
+      "local_url": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93512,
+      "sha256": "0e9c96a22e70088eed9f04cfcd32a45210d56c8cb8735020effa63a741bd6cfb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "monodose-probiotica-sache-ou-pote-capa-v2.webp",
+      "storage_filename": "monodose-probiotica-sache-ou-pote-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/monodose-probiotica-sache-ou-pote.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/monodose-probiotica-sache-ou-pote.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0e9c96a22e70088eed9f04cfcd32a45210d56c8cb8735020effa63a741bd6cfb/monodose-probiotica-sache-ou-pote-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e9c96a22e70088eed9f04cfcd32a45210d56c8cb8735020effa63a741bd6cfb/monodose-probiotica-sache-ou-pote-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "0e9c96a22e70088eed9f04cfcd32a45210d56c8cb8735020effa63a741bd6cfb",
       "verification_status": "verified"
     },
     {
@@ -98005,6 +98803,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "073a15a53d01fe293f3e40b37c1f83d1c165b8e0c3be67bc3848a3ddbc6c4cca",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/whey-probiotica-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/probiotica/whey-probiotica-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77194,
+      "sha256": "fbeb718e74bdf54916bed037fbbb0b7fc3ff9321aa89337e82541de6c6c54a13",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-probiotica-qual-escolher-capa-v2.webp",
+      "storage_filename": "whey-probiotica-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-probiotica-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-probiotica-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/whey-probiotica-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fbeb718e74bdf54916bed037fbbb0b7fc3ff9321aa89337e82541de6c6c54a13/whey-probiotica-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fbeb718e74bdf54916bed037fbbb0b7fc3ff9321aa89337e82541de6c6c54a13/whey-probiotica-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "fbeb718e74bdf54916bed037fbbb0b7fc3ff9321aa89337e82541de6c6c54a13",
       "verification_status": "verified"
     },
     {
@@ -113475,6 +114311,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66274,
+      "sha256": "619f62e3f2d5a559e622c08b4e796f8d4bcb42e890c3a867cd38468bd69d512e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-para-decote-profundo-costas-abertas-capa-v2.webp",
+      "storage_filename": "sutia-para-decote-profundo-costas-abertas-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-para-decote-profundo-costas-abertas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-para-decote-profundo-costas-abertas.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/619f62e3f2d5a559e622c08b4e796f8d4bcb42e890c3a867cd38468bd69d512e/sutia-para-decote-profundo-costas-abertas-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/619f62e3f2d5a559e622c08b4e796f8d4bcb42e890c3a867cd38468bd69d512e/sutia-para-decote-profundo-costas-abertas-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "619f62e3f2d5a559e622c08b4e796f8d4bcb42e890c3a867cd38468bd69d512e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa.webp",
       "local_url": "/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa.webp",
       "media_kind": "image",
@@ -121734,6 +122608,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-24T03:44:55.327Z",
       "verification_etag_or_digest": "e3dc12e5b31a49f69453f5b2d62796c45e1efd480f04c35f6d4e5591e7e50147",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/pillow-top-magnum-iws-colchao-dor-nas-costas-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/pillow-top-magnum-iws-colchao-dor-nas-costas-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120982,
+      "sha256": "ed57b38625a080b1ec7f3e59e3dd3f1a4d7596fd98671faec0bd3fe964192e7c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pillow-top-magnum-iws-colchao-dor-nas-costas-capa-v2.webp",
+      "storage_filename": "pillow-top-magnum-iws-colchao-dor-nas-costas-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-iws-colchao-dor-nas-costas-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ed57b38625a080b1ec7f3e59e3dd3f1a4d7596fd98671faec0bd3fe964192e7c/pillow-top-magnum-iws-colchao-dor-nas-costas-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed57b38625a080b1ec7f3e59e3dd3f1a4d7596fd98671faec0bd3fe964192e7c/pillow-top-magnum-iws-colchao-dor-nas-costas-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:34:08.077Z",
+      "verification_etag_or_digest": "ed57b38625a080b1ec7f3e59e3dd3f1a4d7596fd98671faec0bd3fe964192e7c",
       "verification_status": "verified"
     },
     {

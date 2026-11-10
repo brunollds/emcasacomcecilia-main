@@ -177,3 +177,10 @@ Fatos: `mala-de-bordo-bagaggio-qual-compensa-fatos-2910.md`, ao lado.
 ## Publicação (30/10/2026)
 - No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 747 (PT).
 - Selo BORDO conferido em 30/10 em todas as malas da tabela (a Detroit Preta também tem). Seção "O que pode levar" com ANAC, LATAM, GOL e Azul lidas no Chrome em 30/10. Cupom no carrinho não testado nesta rodada.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mala de bordo Detroit II prata da Bagaggio.
+- **Origem:** foto oficial da Detroit II prata.
+- **Lote 05 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa.webp`) fica no CDN, sem uso como capa.
