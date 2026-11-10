@@ -70,8 +70,9 @@ artigos prepara a AG1 e as migrações.
    `HighlightCoupon`, `store` da foto e do card de estilo, textos nos 10 idiomas.
 4. **Celular.** Dock "Ver códigos (N)", gaveta, `test-build-output` (linhas por loja, sponsored, nenhum banner,
    nada no JSON-LD).
-5. **Conteúdo (sessão de artigos).** AG1, `black-skull-ou-max-titanium` e melhor-whey, numa etapa própria, com a
-   ordem das bolinhas revista. As datas de publicação não mudam.
+5. **Conteúdo (sessão de artigos).** AG1 e `black-skull-ou-max-titanium`, numa etapa própria, com a ordem das
+   bolinhas revista. As datas de publicação não mudam. O melhor-whey não migra automaticamente: associar lojas a ele
+   depende de uma avaliação editorial do artigo.
 
 Fica para depois: dock que acompanha a seção, banners em artigo com lista, YesStyle e SHEIN na lista, famílias
 traduzidas com lista.
@@ -164,5 +165,8 @@ gerados e os nomes que só contêm a palavra (`affiliate-link`, `affiliateUrl`, 
 - Fase 4 aprovada pelo Bruno. `MULTI_STORE_CONTENT_ALLOWED = true`: o `validate:content` aceita a lista. O
   `test:review-stores` confere que a configuração do repositório passa a lista e guarda o caso explícito do bloqueio
   (`contentAllowed = false`), que é o freio se o recurso precisar sair do ar.
-- Fase 5 com a sessão de artigos: o AG1 ("Alternativas ao whey da Growth") e as migrações do
-  `black-skull-ou-max-titanium` e do `melhor-whey`, cada um com revisão própria antes de publicar.
+- Fase 5 com a sessão de artigos: o AG1 ("Alternativas ao whey da Growth") e a migração do
+  `black-skull-ou-max-titanium`, cada um com revisão própria antes de publicar. O `melhor-whey` (sem `affiliate`) só
+  ganha lojas depois de uma avaliação editorial do artigo, e não por migração automática.
+- Código na main pelo #804 (squash `a10369ea`, 10/11/2026), com o Gate 1 verde sobre a main da época; o deploy é
+  decisão à parte do Bruno.
