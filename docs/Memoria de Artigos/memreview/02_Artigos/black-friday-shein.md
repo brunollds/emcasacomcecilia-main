@@ -266,3 +266,10 @@ O 4CW5Y é código de indicação da SHEIN, não é cupom de checkout, não soma
 - **FAQ nos 10 idiomas:** 5 perguntas, como pede o Job 2: quando, como funciona, Cyber Monday, Natal (sem prometer data) e o código. `metaDescription` com o 4CW5Y nas 9 traduções, sem %.
 - **Revisão externa (Farol, 08/11, `docs/auditoria-copy-artigos/shein-black-friday-20261108-farol/`):** nas 9 traduções saíram os 20 dias de devolução, as exceções de 7 dias, o limite de 30% e o valor dos pontos, que vinham do texto do PT e não foram apurados em outros países. O frete grátis deixa de "mudar a cada fase". Os banners do dia saíram do PT e do inglês.
 - **Recusado na revisão:** tirar dezembro de 2023 nos EUA. O comunicado de 06/11/2023 diz "throughout this month and into early December".
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/shein/black-friday-shein-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** em cada idioma, o alt da mesma foto no corpo (Cecília em dois looks de um haul da SHEIN).
+- **Origem:** foto própria (`shein/black-friday-shein-cecilia.webp`, já no corpo dos 10) e logo do repositório. Os 10 JSONs da família apontam para a capa nova. Texto da arte: "Black Friday", sem português.
+- **Lote 2 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/piloto-20261110/lote-seguinte/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.

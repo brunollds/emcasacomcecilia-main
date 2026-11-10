@@ -265,3 +265,10 @@ As duas fotos da página com os seios e a fita aplicada ficaram de fora (explíc
 ## Ajustes de 27/10/2026
 
 "Quando escolher outro": o Sutiã de Silicone Invisível passa a "de R$ 159,90" (o "de R$ 199,90" estava errado, decisão do Bruno na pauta T5) e ganha link para [[sutia-de-silicone-invisivel-como-usar]]; o protetor ganha link para [[protetor-de-silicone-mamilo-como-usar]].
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/fita-up-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Rolos da Fita Up bege sobre fundo claro.
+- **Origem:** recorte da capa anterior (foto oficial da Toda Up) e logo do repositório. Texto: "Fita Up: como usar?" e "Um guia prático".
+- **Lote 2 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/piloto-20261110/lote-seguinte/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.

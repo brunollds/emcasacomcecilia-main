@@ -429,3 +429,10 @@ Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e con
 **Imagens (no CDN desde 13/10/2026, com o OK do Bruno):** `yesstyle-ou-stylevana-capa.webp` (capa, o gráfico B sem palavras além dos nomes, decisão do Bruno de 12/10) e `lojas-kbeauty-produto-aberto-devolucao.webp` (corpo): gráficos nossos com ícones Lucide (licença ISC), iguais nas 10 versões.
 
 **Gates (13/10/2026, depois do merge da main com o parser único do FAQ, #74 a #76):** typecheck, eslint, `validate:content`, `test:review-i18n` (12 famílias), `validate:video`, `test-yesstyle-mutation`, `test-delivery-integration`, a build completa (com `test:build-output` e `test:client-bundle`) e a conferência do HTML das 20 páginas da fase (toda imagem do artigo vem do CDN, o CTA é o link da YesStyle e nenhuma versão fora do PT tem `/cupons/`).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília com a bisnaga do creme PDRN Volume Fill-it da Abib, enviado pela YesStyle (os 10 idiomas, sem o trecho do logo e do título).
+- **Origem:** foto própria (recorte da capa anterior) e logo do repositório. Os 10 JSONs da família apontam para a capa nova. Texto da arte: "YesStyle vs Stylevana", sem português.
+- **Lote 2 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/piloto-20261110/lote-seguinte/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.
