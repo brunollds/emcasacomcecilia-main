@@ -20,7 +20,7 @@ import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
-import { getArticleStoreBlock, type ArticleLimitedCode, type ArticleStoreBlock } from '../src/lib/articleStore';
+import { getArticleStoreBlock, getArticleStoreBlocks, type ArticleLimitedCode, type ArticleStoreBlock } from '../src/lib/articleStore';
 import { getReviewStoreSlugs, getSingleStoreSlug } from '../src/lib/reviewStores';
 import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
@@ -1255,23 +1255,33 @@ const inlineCopyButtonsOf = (html: string) =>
     const button = elementAt(html, match.index).match(/<button\b[^>]*\sdata-copied="[^"]*"[^>]*>/)?.[0];
     return { code: decodeHtml(match[1]), hasButton: Boolean(button), label: decodeHtml(button?.match(/\saria-label="([^"]*)"/)?.[1] ?? '') };
   });
-function inlineCopyProblems(body: string, locale: Locale, block: ArticleStoreBlock | null, citesCode: boolean): string[] {
+// `blocks`: o bloco da loja do artigo, ou um por loja ativa no artigo de várias lojas, em que o código que duas lojas
+// dividem fica só destacado, sem botão. `cites` diz se o corpo cita o código.
+function inlineCopyProblems(body: string, locale: Locale, blocks: readonly ArticleStoreBlock[], cites: (code: string) => boolean): string[] {
   const start = body.search(/<[a-zA-Z][\w-]*\s[^>]*\bdata-article="corpo"/);
   const region = start < 0 ? '' : elementAt(body, start);
   const buttons = inlineCopyButtonsOf(region);
-  const code = block?.code;
+  const upper = blocks.flatMap(({ code }) => (code ? [code.toUpperCase()] : []));
+  const copyable = blocks.filter(({ code }) => code && upper.filter((item) => item === code.toUpperCase()).length === 1);
+  const codes = copyable.map(({ code }) => code).join(', ') || 'nenhum';
   const problems: string[] = [];
   if (inlineCopyButtonsOf(body).length !== buttons.length) problems.push('botão de copiar do texto fora do corpo');
-  if (code && citesCode && buttons.length === 0) problems.push(`o corpo cita ${code} sem o botão de copiar`);
+  for (const { code } of copyable) {
+    if (cites(code!) && !buttons.some((button) => button.code.toUpperCase() === code!.toUpperCase())) {
+      problems.push(`o corpo cita ${code} sem o botão de copiar`);
+    }
+  }
   for (const button of buttons) {
-    if (!code || button.code.toUpperCase() !== code.toUpperCase()) {
-      problems.push(`botão de copiar de ${button.code}, que não é o código da loja (${code ?? 'nenhum'})`);
+    const block = copyable.find(({ code }) => button.code.toUpperCase() === code!.toUpperCase());
+    if (!block) {
+      problems.push(`botão de copiar de ${button.code}, que não é o código da loja (${codes})`);
       continue;
     }
+    const code = block.code!;
     if (!button.hasButton) problems.push(`${code} sem o botão de copiar no data-copy-code`);
     const expected = getCouponCopyLabels(locale).copyCoupon(code);
     if (button.label !== expected) problems.push(`rótulo "${button.label}" em vez de "${expected}"`);
-    if (block?.codeKind === 'reward' && /cupo|coupon/i.test(button.label)) problems.push(`"${button.label}" chama o código de recompensa de cupom`);
+    if (block.codeKind === 'reward' && /cupo|coupon/i.test(button.label)) problems.push(`"${button.label}" chama o código de recompensa de cupom`);
   }
   return problems;
 }
@@ -1293,14 +1303,24 @@ function bodyCitesCode(review: Review, code: string): boolean {
   const button = (code: string, label: string) => `<span data-copy-code="${code}"><button type="button" aria-label="${label}" data-copied="false">${code}</button></span>`;
   const page = (inner: string, outside = '') => `<main><div data-article="corpo"><p>Use ${inner} no carrinho.</p></div>${outside}</main>`;
   const en = getCouponCopyLabels('en').copyCoupon('CECILIA010');
-  assert.deepEqual(inlineCopyProblems(page(button('CECILIA010', en)), 'en', block, true), []);
-  assert.deepEqual(inlineCopyProblems(page('CECILIA010'), 'en', { ...block, code: undefined }, true), []);
-  assert.notDeepEqual(inlineCopyProblems(page('CECILIA010'), 'en', block, true), [], 'código citado sem botão passou');
-  assert.notDeepEqual(inlineCopyProblems(page(button('CECI', getCouponCopyLabels('en').copyCoupon('CECI'))), 'en', block, false), [], 'botão de outro código passou');
-  assert.notDeepEqual(inlineCopyProblems(page('x', button('CECILIA010', en)), 'en', block, false), [], 'botão fora do corpo passou');
-  assert.notDeepEqual(inlineCopyProblems(page(button('CECILIA010', getCouponCopyLabels('pt').copyCoupon('CECILIA010'))), 'en', block, true), [], 'rótulo em português passou');
-  assert.notDeepEqual(inlineCopyProblems(page(button('CECILIA010', 'Copy the coupon CECILIA010')), 'en', block, true), [], 'CECILIA010 chamado de cupom passou');
-  assert.notDeepEqual(inlineCopyProblems(page('<span data-copy-code="CECILIA010">CECILIA010</span>'), 'en', block, true), [], 'data-copy-code sem botão passou');
+  const yes = () => true;
+  const no = () => false;
+  assert.deepEqual(inlineCopyProblems(page(button('CECILIA010', en)), 'en', [block], yes), []);
+  assert.deepEqual(inlineCopyProblems(page('CECILIA010'), 'en', [{ ...block, code: undefined }], yes), []);
+  assert.notDeepEqual(inlineCopyProblems(page('CECILIA010'), 'en', [block], yes), [], 'código citado sem botão passou');
+  assert.notDeepEqual(inlineCopyProblems(page(button('CECI', getCouponCopyLabels('en').copyCoupon('CECI'))), 'en', [block], no), [], 'botão de outro código passou');
+  assert.notDeepEqual(inlineCopyProblems(page('x', button('CECILIA010', en)), 'en', [block], no), [], 'botão fora do corpo passou');
+  assert.notDeepEqual(inlineCopyProblems(page(button('CECILIA010', getCouponCopyLabels('pt').copyCoupon('CECILIA010'))), 'en', [block], yes), [], 'rótulo em português passou');
+  assert.notDeepEqual(inlineCopyProblems(page(button('CECILIA010', 'Copy the coupon CECILIA010')), 'en', [block], yes), [], 'CECILIA010 chamado de cupom passou');
+  assert.notDeepEqual(inlineCopyProblems(page('<span data-copy-code="CECILIA010">CECILIA010</span>'), 'en', [block], yes), [], 'data-copy-code sem botão passou');
+  // Várias lojas: cada código copia com a loja dele; o que duas dividem não copia.
+  const skull: ArticleStoreBlock = { brand: 'Black Skull', slug: 'black-skull', code: 'CECILIA10', rules: [], storeSponsored: true };
+  const max: ArticleStoreBlock = { brand: 'Max Titanium', slug: 'max-titanium', code: 'MAX10', rules: [], storeSponsored: true };
+  const pt = (code: string) => button(code, getCouponCopyLabels('pt').copyCoupon(code));
+  assert.deepEqual(inlineCopyProblems(page(`${pt('CECILIA10')} e ${pt('MAX10')}`), 'pt', [skull, max], yes), []);
+  assert.notDeepEqual(inlineCopyProblems(page(pt('CECILIA10')), 'pt', [skull, max], yes), [], 'código de uma das lojas sem botão passou');
+  assert.deepEqual(inlineCopyProblems(page('CECILIA10'), 'pt', [skull, { ...max, code: 'CECILIA10' }], yes), [], 'código dividido sem botão');
+  assert.notDeepEqual(inlineCopyProblems(page(pt('CECILIA10')), 'pt', [skull, { ...max, code: 'CECILIA10' }], yes), [], 'código dividido com botão passou');
 }
 
 // O fim do artigo, nesta ordem: galeria, veredito (só produto), bloco da loja (#loja, no lugar do bloco verde
@@ -1321,6 +1341,8 @@ function bodyCitesCode(review: Review, code: string): boolean {
 type ArticleEndExpectation = {
   locale: Locale;
   storeBlock: ArticleStoreBlock | null;
+  // As linhas do artigo de várias lojas (getArticleStoreBlocks); [] nos outros.
+  storeBlocks: readonly ArticleStoreBlock[];
   affiliateCta: { url: string; label: string; text?: string; sponsored: boolean } | null;
   galleryItems: number;
   galleryVideos: number;
@@ -1381,7 +1403,7 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
   }
 
   const store = single('id="loja"', 'blocos da loja');
-  present(store, Boolean(expected.storeBlock || expected.affiliateCta), 'o bloco da loja');
+  present(store, Boolean(expected.storeBlock || expected.affiliateCta || expected.storeBlocks.length > 0), 'o bloco da loja');
   if (store && expected.storeBlock) {
     const block = expected.storeBlock;
     const texts = shownTextsOf(store.html);
@@ -1414,6 +1436,20 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     if (!texts.includes(label)) problems.push(`bloco do link de afiliado sem "${label}"`);
     if (text && !texts.includes(text)) problems.push('bloco do link de afiliado sem o texto do cta');
     if (/<code\b|\sdata-copied=/.test(store.html)) problems.push('bloco do link de afiliado com código');
+  } else if (store && expected.storeBlocks.length > 0) {
+    // O artigo de várias lojas: o título e uma linha por loja ativa, na ordem do artigo, com o código, o link da loja
+    // e o das regras dela.
+    const texts = shownTextsOf(store.html);
+    const hrefs = hrefsOf(store.html);
+    if (!texts.includes(copy.storeCodesTitle)) problems.push(`fim sem "${copy.storeCodesTitle}"`);
+    if (!store.html.includes('data-store-codes="end"')) problems.push('fim sem as linhas de código');
+    const slugs = [...store.html.matchAll(/data-store-code="([^"]+)"/g)].map(([, slug]) => slug);
+    if (slugs.join() !== expected.storeBlocks.map(({ slug }) => slug).join()) problems.push(`linhas do fim ${slugs.join(', ')} fora das lojas ativas`);
+    for (const block of expected.storeBlocks) {
+      if (block.code && !texts.includes(block.code)) problems.push(`linha da ${block.brand} sem o código`);
+      if (block.storeHref && !hrefs.includes(block.storeHref)) problems.push(`linha da ${block.brand} sem o link da loja`);
+      if (block.couponPageHref && !hrefs.includes(block.couponPageHref)) problems.push(`linha da ${block.brand} sem o link das regras`);
+    }
   }
 
   const author = single('data-article="autora"', 'caixas da Cecília');
@@ -1483,7 +1519,7 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     `<a href="/reviews/loja/damie">${getTemplateUi('pt').viewAll}</a></section>` +
     `<div><a aria-label="${escapeHtml(getShareCopy('pt').shareByEmail)}" href="mailto:">e</a></div>`;
   const expected: ArticleEndExpectation = {
-    locale: 'pt', storeBlock: block, affiliateCta: null, galleryItems: 2, galleryVideos: 0, topVideoId: 'abcdefghijk', verdict: true, pros: 2, cons: 1,
+    locale: 'pt', storeBlock: block, storeBlocks: [], affiliateCta: null, galleryItems: 2, galleryVideos: 0, topVideoId: 'abcdefghijk', verdict: true, pros: 2, cons: 1,
     authorHref: '/sobre', brunoBox: { link: pt.brunoBoxLink }, related: ['/reviews/a', '/reviews/b'], relatedAllHref: '/reviews/loja/damie',
   };
   assert.deepEqual(articleEndProblems(end, expected), []);
@@ -1544,6 +1580,7 @@ let faqArticles = 0;
 let decisionArticles = 0;
 let bannerArticles = 0;
 let cutoutArticles = 0;
+let multiStoreArticles = 0;
 let limitedCodeArticles = 0;
 // Todos os códigos com prazo dos dados, vencidos ou não: o artigo sem a faixa não leva nenhum deles.
 const ALL_LIMITED_CODES = [
@@ -1626,6 +1663,28 @@ for (const url of articleUrls) {
   // O bloco de loja ativa que o template recebeu: recorte do topo, lateral e bloco do fim.
   const storeBlock = getArticleStoreBlock(review, locale, builtTime.getTime());
   const copy = getSidebarCopy(locale);
+
+  // O artigo de várias lojas troca o botão de copiar do dock pelo "Ver códigos (N)", que abre a gaveta nas linhas de
+  // cada loja ativa (sem o id do recorte do topo, que é do corpo); o de uma loja não tem nem o botão nem as linhas.
+  const dockHtml = body.slice(body.lastIndexOf('<div', body.lastIndexOf('<div', progressbar) - 1), dialogStart);
+  const multiBlocks = getArticleStoreBlocks(review, locale, builtTime.getTime());
+  if (multiBlocks.length > 0) {
+    multiStoreArticles++;
+    const count = multiBlocks.length;
+    assert.ok(dockHtml.includes(`data-dock-codes="${count}"`), `${pagePath}: dock sem o "Ver códigos" das ${count} lojas`);
+    assert.ok(dockHtml.includes(`>${copy.viewCodes(count)}<`), `${pagePath}: "Ver códigos" sem o texto do idioma`);
+    assert.ok(!dockHtml.includes('data-copied='), `${pagePath}: dock do artigo de várias lojas com botão de copiar`);
+    assert.ok(dialog.includes('data-store-codes="drawer"'), `${pagePath}: gaveta sem as linhas de código`);
+    assert.deepEqual(
+      [...dialog.matchAll(/data-store-code="([^"]+)"/g)].map(([, slug]) => slug),
+      multiBlocks.map(({ slug }) => slug),
+      `${pagePath}: linhas da gaveta fora das lojas ativas ou da ordem do artigo`
+    );
+    assert.ok(!dialog.includes('id="cupom-artigo"'), `${pagePath}: a gaveta repete o id do recorte do topo`);
+  } else {
+    assert.ok(!dockHtml.includes('data-dock-codes='), `${pagePath}: "Ver códigos" fora do artigo de várias lojas`);
+    assert.ok(!dialog.includes('data-store-codes='), `${pagePath}: linhas de código na gaveta fora do artigo de várias lojas`);
+  }
   const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
   assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
   const [sidebar] = sidebars;
@@ -1686,9 +1745,10 @@ for (const url of articleUrls) {
     getArticleCopy(locale).breadcrumbLabel,
     `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
   );
-  // Recorte do topo: em todo artigo de loja ativa (o mesmo bloco que o template recebe), uma vez; sem loja, nenhum.
+  // Recorte do topo: em todo artigo de loja ativa (o mesmo bloco que o template recebe), uma vez; sem loja, nenhum. No de
+  // várias lojas, o id vai nas linhas do topo, também uma vez.
   const cutoutCount = body.match(/\sid="cupom-artigo"/g)?.length ?? 0;
-  assert.equal(cutoutCount, storeBlock ? 1 : 0, `${pagePath}: ${cutoutCount} recortes do topo (loja: ${storeBlock?.slug ?? 'nenhuma'})`);
+  assert.equal(cutoutCount, storeBlock || multiBlocks.length > 0 ? 1 : 0, `${pagePath}: ${cutoutCount} recortes do topo (loja: ${storeBlock?.slug ?? 'nenhuma'})`);
   if (storeBlock) {
     assert.deepEqual(cutoutProblems(sectionIn(body, 'cupom-artigo') ?? '', locale, storeBlock), [], `${pagePath}: recorte do topo`);
     cutoutArticles++;
@@ -1700,8 +1760,9 @@ for (const url of articleUrls) {
   const ownLimitedCodes = storeBlock?.limitedCodes ?? [];
   assert.deepEqual(limitedCodeLineProblems(body, html, ownLimitedCodes, ALL_LIMITED_CODES), [], `${pagePath}: faixa do código com prazo`);
   if (ownLimitedCodes.length > 0) limitedCodeArticles++;
-  const citesStoreCode = Boolean(storeBlock?.code && bodyCitesCode(review, storeBlock.code));
-  assert.deepEqual(inlineCopyProblems(body, locale, storeBlock, citesStoreCode), [], `${pagePath}: código copiável no texto`);
+  const codeBlocks = storeBlock ? [storeBlock] : multiBlocks;
+  const citesStoreCode = codeBlocks.some(({ code }) => code && bodyCitesCode(review, code));
+  assert.deepEqual(inlineCopyProblems(body, locale, codeBlocks, (code) => bodyCitesCode(review, code)), [], `${pagePath}: código copiável no texto`);
   if (citesStoreCode) inlineCopyArticles++;
   // O fim do artigo, contra os dados que o montam. O bloco verde "Interessou?" e os botões de loja do veredito
   // em texto saíram: nem o texto nem as medições deles ficam na página (o payload do React leva o placement).
@@ -1734,6 +1795,7 @@ for (const url of articleUrls) {
     articleEndProblems(body, {
       locale,
       storeBlock,
+      storeBlocks: multiBlocks,
       affiliateCta,
       galleryItems,
       galleryVideos,
@@ -4323,5 +4385,5 @@ assert.equal(hreflangOf(ptFaqHead, 'pt-BR'), `${SITE_URL}/faqs`, '/faqs: hreflan
 assert.equal(hreflangOf(ptFaqHead, 'x-default'), `${SITE_URL}/en/faq`, '/faqs: x-default');
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos (${multiStoreArticles} de várias lojas, com o "Ver códigos" e as linhas na gaveta), o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

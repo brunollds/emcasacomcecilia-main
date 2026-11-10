@@ -279,7 +279,7 @@ for (const block of blocks) {
 assert.deepEqual(getArticleStoreBlocks(base, 'pt', now), [], 'uma loja: nenhum bloco a mais');
 assert.equal(getArticleStoreBlock(multiReview, 'pt', now), null, 'o artigo com lista não tem o bloco de uma loja');
 
-const render = (variant: 'top' | 'end' | 'sidebar') =>
+const render = (variant: 'top' | 'end' | 'sidebar' | 'drawer') =>
   renderToStaticMarkup(createElement(ArticleStoreCodes, { variant, blocks, locale: 'pt', reviewSlug: 'x', storeLabel: 'Ir para a loja' }));
 const top = render('top');
 assert.match(top, /<section id="cupom-artigo" data-store-codes="top"/);
@@ -293,6 +293,11 @@ for (const block of blocks) {
   assert.ok(top.includes(`Regras da ${block.brand}`) || top.includes(`Regras do ${block.brand}`), `${block.slug}: link das regras`);
 }
 assert.doesNotMatch(render('sidebar'), /id="cupom-artigo"/, 'só o topo leva o id do dock');
+assert.doesNotMatch(render('sidebar'), /Regras d[ao] /, 'a lateral fica sem o link das regras');
+const drawer = render('drawer');
+assert.doesNotMatch(drawer, /id="cupom-artigo"/, 'a gaveta não repete o id do topo');
+assert.match(drawer, /data-store-codes="drawer"/);
+assert.equal(drawer.match(/data-store-code="/g)?.length, 2, 'a gaveta: uma linha por loja');
 assert.doesNotMatch(render('end'), /Códigos deste artigo/, 'no fim, o título vem do ArticleEnd');
 
 // Código no texto: cada um copia com a loja dele; o que duas lojas dividem só fica destacado.
