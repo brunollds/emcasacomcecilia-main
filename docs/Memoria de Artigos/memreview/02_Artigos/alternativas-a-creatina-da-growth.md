@@ -10,14 +10,14 @@ anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
 proxima_acao: "redação (Job 2); reler todos os preços no dia"
-bloqueado_por: null
+bloqueado_por: "recurso de várias lojas no artigo (Redesenho); a AG1 espera o mesmo"
 score_autoridade: 78
 score_conversao: 80
 score_ponderado_total: 79
 data_criacao: "2026-11-09"
 pauta_id: "AG2 (série Alternativas a <marca>; separada da AG1 pelo Bruno em 09/11)"
-affiliate: "black-skull"
-coupon: "CECILIA10"
+affiliate: ["black-skull", "probiotica", "max-titanium", "mais-mu"]
+coupon: null
 modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
@@ -48,7 +48,7 @@ Segunda pauta da série "Alternativas a <marca>". Na noite de 09/11/2026, o Brun
   2. **A gummy custa por grama mais de 7 vezes o pote de pó da mesma Growth** (R$ 99,89 contra R$ 13,16 por 100 g) e traz 3 g por dose. A monodose da Probiótica entrega a dose pronta com 5 g e custa menos por dose, mesmo sem o código.
   3. **Quem quer sabor** encontra creatina em pó com sabor nas parceiras (Black Skull Turbo, Max 7Belo, Mais Mu), coisa que a Growth não vende em pó, por um quarto do preço da gummy por grama.
   4. **Comprimido:** a cápsula da Probiótica tem a mesma dose de 3 g e custa cerca de 30% menos por grama, mas não é Creapure®.
-- **Conversão:** link de cada produto da tabela, com o código ao lado. O recorte do artigo é da Black Skull (ver a seção 7).
+- **Conversão:** link de cada produto da tabela, com o código ao lado. O artigo usa o modo de várias lojas, com o código de cada parceira na sidebar, no dock e na gaveta (ver a seção 7).
 
 ## 3. A tese, nesta ordem
 
@@ -68,7 +68,7 @@ Segunda pauta da série "Alternativas a <marca>". Na noite de 09/11/2026, o Brun
 - **Gummy sem julgamento:** dizer o que o rótulo mostra (3 g por dose, 30 doses, sem açúcar adicionado) e o preço. Não dizer que a goma é pior. A monodose entra como recomendação editorial, com o motivo (mais creatina por dose, menos por dose, também prática), e não como "a melhor".
 - **Tabelas por função** ([[feedback-tabelas-por-funcao]]): uma tabela por capítulo, de 3 a 4 linhas e 4 colunas: produto, dose, por 100 g com o código, por dose com o código. O preço da Growth fica no texto de abertura do capítulo, não como linha concorrente.
 - **Texto direto, sem prontuário:** até 2 datas no corpo, nenhuma em título, legenda ou FAQ. A resposta rápida não leva R$.
-- **metaDescription:** "cupom CECILIA10" e "10%" na primeira frase, com o código terminando até o caractere 100, até 155 caracteres e sem abrir com "Cupom". Escrita à mão, porque o artigo cita quatro códigos.
+- **metaDescription:** até 155 caracteres, sem abrir com "Cupom", sem R$ e sem data. No modo de várias lojas, seguir o snippet que a AG1 adotar. No plano B (só Black Skull): "cupom CECILIA10" e "10%" na primeira frase, com o código terminando até o caractere 100.
 - **Links de produto:** a página de cada produto no site oficial. Na Black Skull, `offerUrl` de `couponsData.ts`; nas outras, o link que cada `/cupons/<loja>` usa.
 
 ## 5. Esqueleto (PT)
@@ -91,8 +91,9 @@ Segunda pauta da série "Alternativas a <marca>". Na noite de 09/11/2026, o Brun
 
 ## 7. Decisão técnica
 
-- **`affiliate`: `black-skull`, `coupon`: `CECILIA10`.** A Black Skull dá a maior economia (pó sem sabor) e aparece em dois capítulos. A Probiótica entra em três capítulos, inclusive a recomendação editorial, pelo link de cada produto e pelo código no texto.
-- **Vários afiliados:** em 09/11 o Bruno avisou que o site está sendo ajustado para aceitar mais de um afiliado no mesmo artigo. No `main` de 09/11 ainda não há suporte nem PR aberto. Se o suporte entrar antes da redação, a sessão de artigos põe as quatro parceiras, com a Black Skull e a Probiótica em destaque. Se não, fica a Black Skull.
+- **Modo de várias lojas, como a AG1:** `affiliate` vira lista, na ordem em que o texto cita: `["black-skull", "probiotica", "max-titanium", "mais-mu"]`. Sem `coupon` e sem `cta`: o código e o link de cada loja vêm de `couponsData.ts`. Sem banners. É o formato que o Bruno decidiu com a Redesenho em 09/11. A sessão de artigos tem o formato exato no aviso da Redesenho.
+- **Até o recurso entrar:** a AG2 espera, como a AG1. Se o Bruno quiser publicar antes, o plano B é `affiliate: "black-skull"` com `coupon: "CECILIA10"`, porque a Black Skull dá a maior economia e aparece em dois capítulos.
+- **Loja de cada linha** (para foto com `href` e link de produto): Creator e Turbo → `black-skull`; Monodose e Cápsulas → `probiotica`; Creatina 1 kg e 7Belo → `max-titanium`; creatina com sabor → `mais-mu`.
 
 ## 8. O que falta
 
