@@ -1,7 +1,9 @@
 // As lojas de um artigo. O `affiliate` é o slug de uma loja ou, no artigo de várias lojas, a lista delas, na ordem de
 // apresentação (nunca de preferência: o artigo com lista não tem loja principal). Todo código que pergunta de que loja
-// é um artigo passa por aqui, e nenhum compara `affiliate` direto. Sem imports: serve ao servidor, aos scripts e ao
-// cliente.
+// é um artigo passa por aqui, e nenhum compara `affiliate` direto. Só importa o internalLinks, que não importa nada:
+// serve ao servidor, aos scripts e ao cliente.
+
+import { isInternalLink } from './internalLinks';
 
 export type ReviewAffiliate = string | readonly string[];
 type WithAffiliate = { affiliate?: ReviewAffiliate };
@@ -10,6 +12,26 @@ type StoreName = { slug: string; brand: string };
 // As lojas do artigo de várias lojas, por slug, para o `store` dos links, das fotos e do card de estilo: a marca (o
 // "Ver na <loja>") e o código (a medição do clique). Montado no servidor e passado ao cliente.
 export type MultiStores = Record<string, { brand: string; code?: string }>;
+
+// No artigo de várias lojas (`stores` definido, mesmo vazio), só o `store` de uma loja ativa leva o link comercial: o da
+// loja pausada perde o link, e o texto, a foto e a peça ficam. Fora dele, vale o de sempre.
+export function canLinkStore(stores: MultiStores | undefined, store: string | undefined): boolean {
+  return !stores || Boolean(store && stores[store]);
+}
+
+// Os links da seção sem o botão de loja pausada. O link de loja é o externo e patrocinado, o que pede `store`
+// (multi-store-checks); o interno e o externo sem patrocínio ficam sempre.
+export function withoutPausedStoreLinks<T extends { href: string; sponsored?: boolean; store?: string }>(
+  links: readonly T[] | undefined,
+  stores: MultiStores | undefined
+): T[] {
+  return (links ?? []).filter((link) => isInternalLink(link.href) || !link.sponsored || canLinkStore(stores, link.store));
+}
+
+// A foto de produto de loja pausada fica sem o link: volta a ser só o botão que amplia.
+export function withoutPausedHref<T extends { href?: string; store?: string }>(image: T, stores: MultiStores | undefined): T {
+  return image.href && !canLinkStore(stores, image.store) ? { ...image, href: undefined } : image;
+}
 
 export function getReviewStoreSlugs(review: WithAffiliate): string[] {
   const { affiliate } = review;

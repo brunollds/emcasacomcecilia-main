@@ -14,7 +14,7 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { withDeliveredArticleMedia } from '@/lib/sectionMedia';
 import type { Locale } from '@/lib/i18n/locales';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
-import { getReviewStoreSlugs, getSingleStoreSlug, type MultiStores } from '@/lib/reviewStores';
+import { getReviewStoreSlugs, getSingleStoreSlug, isMultiStoreReview, type MultiStores } from '@/lib/reviewStores';
 import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -159,9 +159,10 @@ export function ReviewNotebookTemplate({
       : [];
   // Só o artigo de várias lojas passa a lista: o de uma loja segue com as mesmas props de antes.
   const multiStoreBlocks = storeBlocks.length > 0 ? storeBlocks : undefined;
-  // O `store` dos links, das fotos e do card de estilo do artigo de várias lojas.
-  const multiStores: MultiStores | undefined = multiStoreBlocks
-    ? Object.fromEntries(multiStoreBlocks.map(({ slug, brand, code }) => [slug, { brand, code }]))
+  // O `store` dos links, das fotos e do card de estilo do artigo de várias lojas: só as lojas ativas. Vazio (todas
+  // pausadas) continua sendo o artigo de várias lojas, e nenhum link de loja sai.
+  const multiStores: MultiStores | undefined = isMultiStoreReview(review)
+    ? Object.fromEntries(storeBlocks.map(({ slug, brand, code }) => [slug, { brand, code }]))
     : undefined;
   // Só no artigo de várias lojas: prop undefined passada a componente cliente vira "$undefined" no payload.
   const multiStoreProps = multiStores ? { multiStores } : {};

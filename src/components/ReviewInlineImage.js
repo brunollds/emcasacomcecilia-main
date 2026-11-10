@@ -8,6 +8,7 @@ import { CouponStoreLink } from '@/components/CouponComponents';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { useReviewMediaBlur } from '@/components/review/useReviewMediaBlur';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
+import { withoutPausedHref } from '@/lib/reviewStores';
 
 function useInlineCarouselScroll() {
   const trackRef = useRef(null);
@@ -383,7 +384,8 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy, product
 export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt', store, stores, reviewSlug }) {
   const copy = getGalleryCopy(locale);
   const product = { store, stores, reviewSlug };
-  const images = normalizeImages(section, reviewTitle);
+  // A foto de uma loja pausada no artigo de várias lojas perde o link e volta a ser só o botão que amplia.
+  const images = normalizeImages(section, reviewTitle).map((image) => withoutPausedHref(image, stores));
   const [openIndex, setOpenIndex] = useState(null);
   const lastTriggerRef = useRef(null);
   const { trackRef, scrollByCard } = useInlineCarouselScroll();

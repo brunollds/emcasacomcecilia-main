@@ -15,7 +15,7 @@ import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 import { ReviewSectionVideo } from './ReviewSectionVideo';
 import { TrackedCouponPageLink } from './TrackedCouponPageLink';
 import { ArticleStyling } from './article/ArticleStyling';
-import type { MultiStores } from '@/lib/reviewStores';
+import { withoutPausedStoreLinks, type MultiStores } from '@/lib/reviewStores';
 
 export interface ReviewSectionContentProps {
   section: ContentSection;
@@ -126,6 +126,8 @@ export function ReviewSectionContent({
   const comparisonCaption = comparisonTable?.caption || section.heading || `Tabela comparativa de ${reviewTitle}`;
   const comparisonScrolls = (comparisonTable?.headers.length ?? 0) >= COMPARISON_SCROLL_MIN_COLUMNS;
   const comparisonSpacing = COMPARISON_SPACING[comparisonScrolls ? 'compact' : 'roomy'];
+  // O botão de loja pausada no artigo de várias lojas sai; os outros links ficam.
+  const links = withoutPausedStoreLinks(section.links, multiStores);
   // O título de FAQ decide: os bullets viram o acordeão, com os mesmos itens do FAQPage do schema,
   // e nunca a tabela de prós e contras nem a lista numerada.
   const isFaq = isFaqHeading(section.heading);
@@ -461,9 +463,9 @@ export function ReviewSectionContent({
         </div>
       )}
 
-      {section.links && section.links.length > 0 && (
+      {links.length > 0 && (
         <div className={`mt-4 flex flex-wrap gap-4 ${Boolean(section.image || (section.images && section.images.length > 0)) ? 'justify-center w-full' : ''}`}>
-          {section.links.map((link) => {
+          {links.map((link) => {
             const internal = isInternalLink(link.href);
             const couponPage = internal && isCouponPageLink(link.href);
             const className = SECTION_LINK;
