@@ -90,7 +90,7 @@ export function ArticleHeader({
         {showType && <span className="text-marinho-suave">{review.type}</span>}
       </p>
 
-      <h1 className="mt-3 max-w-4xl font-condensada text-[40px] leading-[1.02] font-black text-balance font-stretch-extra-condensed md:text-6xl">
+      <h1 className="mt-3 max-w-5xl font-condensada text-[40px] leading-[1.02] font-black text-balance font-stretch-extra-condensed md:text-6xl">
         <span className="marca-texto marca-texto-entra">{review.title}</span>
       </h1>
 
@@ -181,8 +181,10 @@ export function ArticleHeader({
       )}
 
       {/* Uma expressão só: o artigo de uma loja mantém a mesma lista de filhos no payload. */}
+      {/* Os cartões das várias lojas usam a largura toda do topo; uma loja só (a do recorte ou a que sobrou das pausadas),
+          a da introdução. */}
       {storeBlocks.length > 0 ? (
-        <div className="mt-8 max-w-3xl">
+        <div className={storeBlocks.length > 1 ? 'mt-8' : 'mt-8 max-w-3xl'}>
           <ArticleStoreCodes
             variant="top"
             blocks={storeBlocks}
