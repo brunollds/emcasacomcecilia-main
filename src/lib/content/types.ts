@@ -3,6 +3,7 @@
 
 import type { ReviewCategory } from '../reviewDiscovery';
 import type { Locale } from '../i18n/locales';
+import type { ReviewAffiliate } from '../reviewStores';
 
 // ---------------------------------------------------------------------------
 // Primitivos compartilhados
@@ -438,7 +439,9 @@ export interface Review {
   hideFromListings?: boolean;
   hideFromPortugueseListings?: boolean;
   homeFeatured?: boolean;
-  affiliate?: string;
+  /** A loja do artigo (slug de couponsData.ts) ou, no artigo de várias lojas, a lista delas (2 a 4, na ordem de
+   * apresentação, sem loja principal). Lido sempre por src/lib/reviewStores.ts. */
+  affiliate?: ReviewAffiliate;
   /** Artigo em PT que precisa de mais de 2 datas no corpo (até 8): campanha, prazo de entrega ou Reclame Aqui. */
   bodyDatesReason?: BodyDatesReason;
   /** Guia e comparativo: o quadro de decisão, logo antes do FAQ. O review de produto usa prós e contras. */

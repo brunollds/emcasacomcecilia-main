@@ -14,6 +14,7 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { withDeliveredArticleMedia } from '@/lib/sectionMedia';
 import type { Locale } from '@/lib/i18n/locales';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
+import { getReviewStoreSlugs, getSingleStoreSlug } from '@/lib/reviewStores';
 import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -104,8 +105,11 @@ export function ReviewNotebookTemplate({
   }
 
   const hasProductSpec = review.productSpec && review.productSpec.length > 0;
+  // A loja do artigo de uma loja. O de várias lojas fica sem ela (sem recorte, bloco da loja nem dock de uma loja):
+  // as linhas de código de todas entram com a fase 3 do docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md.
+  const storeSlug = getSingleStoreSlug(review);
   const hasCommercialRelationship = Boolean(
-    review.affiliate || (review.coupon && review.editorialNote)
+    getReviewStoreSlugs(review).length > 0 || (review.coupon && review.editorialNote)
   );
   const verdictLinkCta = verdictSection?.links?.[0];
   const effectiveCta = review.cta?.url && review.cta?.label
@@ -127,7 +131,7 @@ export function ReviewNotebookTemplate({
   // Quando o artigo usa o código da loja em /cupons, o dock e a sidebar dizem, em qualquer idioma,
   // se ele é de recompensa (CECILIA010) ou de indicação (4CW5Y da SHEIN). Em português a gaveta do
   // celular também repete o desconto e a regra da loja, textos que só existem nessa língua.
-  const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const store = storeSlug ? getCouponBySlug(storeSlug) : undefined;
   const codeKind = getStoreCodeKind(store, review.coupon);
   const codeBrand = codeKind ? store?.brand : undefined;
   const sameCodeStore = store?.offerMode === 'discount-code' && store.code === review.coupon ? store : undefined;
@@ -141,7 +145,7 @@ export function ReviewNotebookTemplate({
   const storeCopy = COUPON_STORE_COPY[couponCopyLocale];
   const offerActionLabel = couponCopyLocale === 'pt'
     ? store?.offerActionLabel
-    : review.affiliate && getLocalizedCoupon(review.affiliate, couponCopyLocale)?.offerActionLabel;
+    : storeSlug && getLocalizedCoupon(storeSlug, couponCopyLocale)?.offerActionLabel;
   const storeLabel = storeBlock?.code ? storeCopy.goToStore : offerActionLabel || storeCopy.viewOffer;
   // O código da loja citado no texto do corpo copia ao toque, com os textos do recorte.
   const inlineCodeCopy = storeBlock?.code
@@ -307,7 +311,7 @@ export function ReviewNotebookTemplate({
                         notes={notes}
                         reviewSlug={review.slug}
                         coupon={review.coupon}
-                        affiliate={review.affiliate}
+                        affiliate={storeSlug}
                         storeBrand={store?.brand}
                         locale={couponCopyLocale}
                         noteLabels={noteLabels}
@@ -337,7 +341,7 @@ export function ReviewNotebookTemplate({
                             notes={notes}
                             reviewSlug={review.slug}
                             coupon={review.coupon}
-                            affiliate={review.affiliate}
+                            affiliate={storeSlug}
                             storeBrand={store?.brand}
                             locale={couponCopyLocale}
                             noteLabels={noteLabels}
@@ -356,7 +360,7 @@ export function ReviewNotebookTemplate({
                       notes={notes}
                       reviewSlug={review.slug}
                       coupon={review.coupon}
-                      affiliate={review.affiliate}
+                      affiliate={storeSlug}
                       storeBrand={store?.brand}
                       locale={couponCopyLocale}
                       noteLabels={noteLabels}
@@ -426,7 +430,7 @@ export function ReviewNotebookTemplate({
         locale={couponCopyLocale}
         reviewSlug={review.slug}
         tocItems={tocItems}
-        affiliate={review.affiliate}
+        affiliate={storeSlug}
         coupon={
           review.coupon
             ? {

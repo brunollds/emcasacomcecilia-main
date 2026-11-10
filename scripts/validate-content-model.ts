@@ -44,6 +44,7 @@ import {
 import proseBaselineJson from './review-prose-baseline.json';
 import snippetBaselineJson from './review-snippet-baseline.json';
 import { findDuplicateKeys } from './json-duplicate-keys';
+import { affiliateProblems } from './multi-store-checks';
 import { getRequiredStylingProblems } from './styling-required';
 import stylingRequiredJson from './styling-required.json';
 import { readdirSync, readFileSync } from 'node:fs';
@@ -68,7 +69,6 @@ const warnings: ValidationWarning[] = [];
 const recipeIds = new Set<number>();
 const recipeSlugs = new Set<string>();
 const reviewIds = new Set<number>();
-const couponSlugs = new Set(COUPONS.map((coupon) => coupon.slug));
 
 function reportError(error: ValidationError): void {
   errors.push(error);
@@ -492,14 +492,10 @@ for (const review of reviews) {
   }
 
   // O affiliate liga o artigo à loja (dock, sidebar, gaveta e vitrine da home). Até 10/2026, dois
-  // artigos usavam "nestle-nutre" com a loja cadastrada como "nutren", e a gaveta perdia a oferta.
-  if (review.affiliate !== undefined && !couponSlugs.has(review.affiliate)) {
-    reportError({
-      type: 'review',
-      id: review.id,
-      slug: review.slug,
-      message: `affiliate "${review.affiliate}" não é o slug de nenhuma loja de couponsData.ts`,
-    });
+  // artigos usavam "nestle-nutre" com a loja cadastrada como "nutren", e a gaveta perdia a oferta. As regras da
+  // lista (artigo de várias lojas) ficam em multi-store-checks.ts.
+  for (const message of affiliateProblems(review, COUPONS)) {
+    reportError({ type: 'review', id: review.id, slug: review.slug, message });
   }
 
   if (listedInPortuguese && review.category === undefined) {
