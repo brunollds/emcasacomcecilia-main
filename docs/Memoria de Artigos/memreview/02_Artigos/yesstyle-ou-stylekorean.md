@@ -360,3 +360,10 @@ As perguntas acima foram respondidas em 21/10/2026. O Bruno decidiu que a StyleK
 
 7. **Decisão do Bruno: não vira família própria.** A busca é fraca, e a StyleKorean vira **reforço da família `yesstyle-vs-alternatives`** nas 10 versões. Entram duas seções novas, com os dados deste briefing: (1) StyleKorean por país, com frete grátis, prazo e os países que a página não lista (ex.: Japão, México, Chile, Peru, Argentina e Colômbia: "a página não lista o país"); (2) devolução e pontos da StyleKorean.
 8. No mesmo PR do reforço entram: a correção dos países da Olive Young (tabela de 21/10/2026, ver `yesstyle-ou-olive-young`) e o link para a família `yesstyle-vs-olive-young` quando ela estiver no ar. Sem teste de checkout com endereço: o texto diz só o que a página mostra.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/yesstyle/yesstyle-ou-stylekorean-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Produtos de skincare coreano da YesStyle com o código CECILIA010 (nos 10 idiomas, o alt anterior sem a menção ao título).
+- **Origem:** essência Advanced Snail 96 da COSRX e ampola Centella da SKIN1004, fotos de produto do comparativo, sem logo da StyleKorean. Caixa branca com "Reward Code:" e "Cecilia010", a grafia pedida pelo Bruno na arte; o código segue CECILIA010 no texto e é código de recompensa, não cupom. Título "YesStyle vs StyleKorean", em inglês a pedido do Bruno. A capa vale para as 10 versões da família `yesstyle-vs-stylekorean`.
+- **Lote 3 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/lote-20261110-02/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.

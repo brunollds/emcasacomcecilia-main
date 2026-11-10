@@ -62,3 +62,10 @@ Preço, desconto, combinações de cor e tamanho e disponibilidade das peças da
 ## 5. Links
 
 Fora: `clea-store-reclame-aqui-nota-reputacao`, destino tratado do piloto de links internos, até a primeira leitura.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/clea-store-ou-hering-camiseta-feminina-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com a T-Shirt Oversized Algodão vermelha da Cléa Store.
+- **Origem:** foto oficial da Cléa Store, a mesma do corpo; a Hering aparece só em texto, sem foto nem logo. Texto: "Cléa Store ou Hering?" e "Camisetas femininas".
+- **Lote 3 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/lote-20261110-02/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.
