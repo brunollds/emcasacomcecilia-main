@@ -15,6 +15,7 @@ import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 import { ReviewSectionVideo } from './ReviewSectionVideo';
 import { TrackedCouponPageLink } from './TrackedCouponPageLink';
 import { ArticleStyling } from './article/ArticleStyling';
+import type { MultiStores } from '@/lib/reviewStores';
 
 export interface ReviewSectionContentProps {
   section: ContentSection;
@@ -25,6 +26,8 @@ export interface ReviewSectionContentProps {
   coupon?: string;
   affiliate?: string;
   storeBrand?: string;
+  // O artigo de várias lojas: as lojas dele (slug: marca e código), para o `store` dos links, das fotos e do card.
+  multiStores?: MultiStores;
   locale?: Locale;
 }
 
@@ -113,6 +116,7 @@ export function ReviewSectionContent({
   coupon,
   affiliate,
   storeBrand,
+  multiStores,
   locale = 'pt',
 }: ReviewSectionContentProps): React.ReactElement {
   const showDropCap = isFirst && Boolean(kind);
@@ -169,6 +173,7 @@ export function ReviewSectionContent({
             reviewTitle={reviewTitle}
             locale={locale}
             store={imageStore}
+            stores={multiStores}
             reviewSlug={reviewSlug}
           />
         </div>
@@ -215,7 +220,7 @@ export function ReviewSectionContent({
 
       {/* O cartão do fim já desenha a `image` ao lado; a galeria `images` não cabe ali e vem depois dele. */}
       {(section.image || (section.images && section.images.length > 0)) && !(emphasisAtEnd && section.image) && (
-        <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} store={imageStore} reviewSlug={reviewSlug} />
+        <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} store={imageStore} stores={multiStores} reviewSlug={reviewSlug} />
       )}
 
       {comparisonTable && (
@@ -483,8 +488,8 @@ export function ReviewSectionContent({
                 <CouponStoreLink
                   key={link.href}
                   href={link.href}
-                  couponCode={coupon}
-                  brand={affiliate}
+                  couponCode={link.store && multiStores?.[link.store] ? multiStores[link.store].code : coupon}
+                  brand={link.store && multiStores?.[link.store] ? link.store : affiliate}
                   contentSlug={reviewSlug}
                   sponsored
                   placement="review_inline"
@@ -543,7 +548,7 @@ export function ReviewSectionContent({
       )}
 
       {section.styling && (
-        <ArticleStyling styling={section.styling} locale={locale} affiliate={affiliate} reviewSlug={reviewSlug} />
+        <ArticleStyling styling={section.styling} locale={locale} affiliate={affiliate} multiStores={multiStores} reviewSlug={reviewSlug} />
       )}
 
       {section.postParagraphs?.map((paragraph, paragraphIndex) => (

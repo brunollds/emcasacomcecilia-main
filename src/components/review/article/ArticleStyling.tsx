@@ -7,22 +7,25 @@ import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { ContentSectionStyling, StylingItem } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
 import { getStylingCopy, type StylingCopy } from '../stylingCopy';
+import type { MultiStores } from '@/lib/reviewStores';
 
-type LinkContext = { affiliate?: string; reviewSlug?: string; copy: StylingCopy };
+type LinkContext = { affiliate?: string; multiStores?: MultiStores; reviewSlug?: string; copy: StylingCopy };
 
 export type ArticleStylingProps = {
   styling: ContentSectionStyling;
   locale: Locale;
   affiliate?: string;
+  // O artigo de várias lojas: a loja de cada link pelo `store` da peça.
+  multiStores?: MultiStores;
   reviewSlug?: string;
 };
 
 // O card "Como usar / Ocasião / Combina com" dos artigos de roupa, no fim da seção. Cada seção escolhe o modelo:
 // `tabs` (o padrão), um card por peça com uma aba por campo, ou `tags`, as peças como etiquetas lado a lado, com
 // tudo à vista. Os links das peças da loja são de afiliado e medidos como coupon_store_click em review_styling.
-export function ArticleStyling({ styling, locale, affiliate, reviewSlug }: ArticleStylingProps) {
+export function ArticleStyling({ styling, locale, affiliate, multiStores, reviewSlug }: ArticleStylingProps) {
   const copy = getStylingCopy(locale);
-  const context = { affiliate, reviewSlug, copy };
+  const context = { affiliate, multiStores, reviewSlug, copy };
   const layout = styling.layout ?? 'tabs';
 
   return (
@@ -218,6 +221,7 @@ function PairsWith({ item, context }: { item: StylingItem; context: LinkContext 
             <li key={pair.label}>
               <StoreLink
                 href={pair.url!}
+                store={pair.store}
                 context={context}
                 className="grid min-h-12 grid-cols-[minmax(0,1fr)_auto] items-center gap-x-2.5 gap-y-0.5 rounded-[10px] border-2 border-marinho bg-white px-3 py-2.5 shadow-[3px_3px_0_var(--color-marinho)] motion-safe:transition-[translate,box-shadow] motion-safe:hover:-translate-px motion-safe:hover:shadow-[4px_4px_0_var(--color-marinho)]"
               >
@@ -275,6 +279,7 @@ function PieceName({ item, context }: { item: StylingItem; context: LinkContext 
   return (
     <StoreLink
       href={item.url}
+      store={item.store}
       context={context}
       className="underline decoration-laranja decoration-2 underline-offset-4"
     >
@@ -284,11 +289,23 @@ function PieceName({ item, context }: { item: StylingItem; context: LinkContext 
   );
 }
 
-function StoreLink({ href, context, className, children }: { href: string; context: LinkContext; className: string; children: ReactNode }) {
+function StoreLink({
+  href,
+  store,
+  context,
+  className,
+  children,
+}: {
+  href: string;
+  store?: string;
+  context: LinkContext;
+  className: string;
+  children: ReactNode;
+}) {
   return (
     <CouponStoreLink
       href={href}
-      brand={context.affiliate}
+      brand={store && context.multiStores?.[store] ? store : context.affiliate}
       contentSlug={context.reviewSlug}
       sponsored
       placement="review_styling"

@@ -7,6 +7,10 @@ export type ReviewAffiliate = string | readonly string[];
 type WithAffiliate = { affiliate?: ReviewAffiliate };
 type StoreName = { slug: string; brand: string };
 
+// As lojas do artigo de várias lojas, por slug, para o `store` dos links, das fotos e do card de estilo: a marca (o
+// "Ver na <loja>") e o código (a medição do clique). Montado no servidor e passado ao cliente.
+export type MultiStores = Record<string, { brand: string; code?: string }>;
+
 export function getReviewStoreSlugs(review: WithAffiliate): string[] {
   const { affiliate } = review;
   if (!affiliate) return [];

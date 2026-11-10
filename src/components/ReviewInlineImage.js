@@ -42,6 +42,7 @@ function normalizeImages(section, reviewTitle) {
       caption,
       aspectRatio,
       href: typeof section.image === 'string' ? undefined : section.image?.href,
+      store: typeof section.image === 'string' ? undefined : section.image?.store,
       fit: fit === 'portrait' ? 'portrait' : fit === 'wide' ? 'wide' : fit === 'panoramic' ? 'panoramic' : fit === 'square' ? 'square' : fit === 'contain' ? 'contain' : 'cover',
     });
   }
@@ -54,12 +55,19 @@ function normalizeImages(section, reviewTitle) {
         caption: item.caption,
         aspectRatio: Number.isFinite(item.aspectRatio) && item.aspectRatio > 0 ? item.aspectRatio : undefined,
         href: item.href,
+        store: item.store,
         fit: item.objectFit === 'portrait' ? 'portrait' : item.objectFit === 'wide' ? 'wide' : item.objectFit === 'panoramic' ? 'panoramic' : item.objectFit === 'square' ? 'square' : item.objectFit === 'contain' ? 'contain' : 'cover',
       });
     }
   }
 
   return images;
+}
+
+// A loja da foto: a do `store` dela no artigo de várias lojas; senão, a do artigo.
+function storeOf(product, image) {
+  const own = image.store && product.stores?.[image.store];
+  return own ? { slug: image.store, brand: own.brand } : product.store;
 }
 
 function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCarousel = false, product }) {
@@ -159,16 +167,16 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCaro
         <div ref={mediaRef} className="group relative block w-full overflow-hidden rounded-[1.25rem] bg-white transition-[filter,opacity] duration-150">
           <CouponStoreLink
             href={image.href}
-            brand={product.store?.slug}
+            brand={storeOf(product, image)?.slug}
             contentSlug={product.reviewSlug}
             sponsored
             placement="review_image"
-            ariaLabel={copy.viewProductNamed(image.alt, product.store)}
+            ariaLabel={copy.viewProductNamed(image.alt, storeOf(product, image))}
             className={`block rounded-[1.25rem] ${FOCUS_RING}`}
           >
             {media}
             <span className="absolute bottom-3 left-3 inline-flex items-center gap-1 rounded-full border-2 border-marinho bg-amarelo-cupom px-3 py-1.5 text-xs font-extrabold text-marinho shadow-[2px_2px_0_var(--color-marinho)] transition-transform group-hover:-translate-y-px">
-              {copy.viewProduct(product.store)}
+              {copy.viewProduct(storeOf(product, image))}
               <ArrowUpRight aria-hidden="true" className="h-3.5 w-3.5" />
             </span>
           </CouponStoreLink>
@@ -317,14 +325,14 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy, product
         <span className="mt-3 shrink-0" onClick={(e) => e.stopPropagation()}>
           <CouponStoreLink
             href={image.href}
-            brand={product.store?.slug}
+            brand={storeOf(product, image)?.slug}
             contentSlug={product.reviewSlug}
             sponsored
             placement="review_image"
-            ariaLabel={copy.viewProductNamed(image.alt, product.store)}
+            ariaLabel={copy.viewProductNamed(image.alt, storeOf(product, image))}
             className="inline-flex min-h-11 items-center gap-1.5 rounded-full border-2 border-marinho bg-amarelo-cupom px-5 py-2 text-sm font-extrabold text-marinho focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-black"
           >
-            {copy.viewProduct(product.store)}
+            {copy.viewProduct(storeOf(product, image))}
             <ArrowUpRight aria-hidden="true" className="h-4 w-4" />
           </CouponStoreLink>
         </span>
@@ -371,9 +379,10 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy, product
 }
 
 // `store` ({ slug, brand }) e `reviewSlug` servem às fotos com link de produto: o texto "Ver na <loja>" e a medição.
-export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt', store, reviewSlug }) {
+// No artigo de várias lojas, `stores` (slug: { brand }) dá a loja de cada foto pelo `store` dela.
+export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt', store, stores, reviewSlug }) {
   const copy = getGalleryCopy(locale);
-  const product = { store, reviewSlug };
+  const product = { store, stores, reviewSlug };
   const images = normalizeImages(section, reviewTitle);
   const [openIndex, setOpenIndex] = useState(null);
   const lastTriggerRef = useRef(null);
