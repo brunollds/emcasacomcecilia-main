@@ -129,3 +129,26 @@ gerados e os nomes que só contêm a palavra (`affiliate-link`, `affiliateUrl`, 
   devolvidos): 6 linhas (2 lojas em 3 lugares), nenhum recorte de uma loja, nenhum banner, os dois códigos copiando no
   texto e nada passando da tela em 1280 e 390.
 - Fica para a fase 4: o dock e a gaveta do celular, que ainda tratam o artigo com lista como sem loja.
+- Revisão da fase 3: a loja pausada (fora do `MultiStores`, que existe em todo artigo com lista e só leva as ativas) perde
+  o link comercial: o botão do link de seção sai (`withoutPausedStoreLinks`), a foto volta a ser só o "Ampliar"
+  (`withoutPausedHref`) e a peça do card de estilo fica sem link. Com todas pausadas, o `MultiStores` é vazio e nada leva
+  link. Os dois artigos de uma loja seguem sem `MultiStores`.
+
+## Fase 4 (celular)
+
+- O dock troca o botão de copiar pelo "Ver códigos (N)" (`viewCodes`, `sidebarCopy.ts`, 10 idiomas; N = lojas ativas),
+  que abre a gaveta com o foco e a rolagem nas linhas (`ArticleStoreCodes` variante `drawer`, `review_mobile_drawer`,
+  depois do sumário). O dock espera as linhas do topo (`#cupom-artigo`) saírem da tela e some no `#loja` do fim, como no
+  artigo de uma loja. `storeBlocks` e `storeLabel` só vão ao dock no artigo com lista.
+- Na lateral, a linha fica sem o link das regras: com 4 lojas e códigos longos as linhas passam de 900 px, e a lateral
+  rola por dentro (`max-h` do `<aside>`). As regras seguem no topo, no fim e na gaveta.
+- `test:build-output`: no artigo com lista, o "Ver códigos (N)" no idioma, nenhum botão de copiar no dock, as linhas da
+  gaveta nas lojas ativas e na ordem, um `#cupom-artigo`, o código copiável de cada loja (o dividido sem botão) e o fim
+  com o título, as linhas, os códigos e os links; nos outros artigos, nada disso.
+- Conferido com o `black-skull-ou-max-titanium` virado em lista de 4 lojas (Black Skull, Max Titanium, Probiótica e Mais
+  Mu; três códigos de 18 a 21 letras), só localmente: build com todos os gates (menos o `test:review-stores`, que
+  confere a trava desligada), 16 linhas (4 lojas em 4 lugares), dock "Ver códigos (4)", gaveta aberta nas linhas, nada
+  passando da tela em 1280 e 390, nenhum banner.
+- Base fixa: o build do branch contra o c0a392f8 do mesmo dia dá os 10.025 arquivos iguais, ignorando o BUILD_ID, os
+  nomes e ids dos chunks e o nome do CSS (o CSS ganhou as classes novas do dock e da gaveta).
+- A trava (`MULTI_STORE_CONTENT_ALLOWED`) segue desligada até a revisão desta fase.

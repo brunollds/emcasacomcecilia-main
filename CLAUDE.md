@@ -349,9 +349,10 @@ vídeo, primeiras impressões e uso noturno.
   `docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md`): não tem loja principal. As lojas se leem só por
   `src/lib/reviewStores.ts` (`getSingleStoreSlug` dá vazio para a lista: nada usa a primeira). O artigo entra na estante
   de todas; no topo, na lateral e no fim, `ArticleStoreCodes` mostra uma linha por loja (`getArticleStoreBlocks`), sem
-  banners de campanha. Link de seção, foto com link e peça do card de estilo levam `store`, uma das lojas. O
-  `validate:content` (`scripts/multi-store-checks.ts`) barra o que foge disso e, até o celular ficar pronto,
-  `MULTI_STORE_CONTENT_ALLOWED` barra qualquer artigo com lista. O `test:review-stores` confere.
+  banners de campanha; no celular, o dock mostra "Ver códigos (N)" e abre a gaveta nas linhas. Link de seção, foto com
+  link e peça do card de estilo levam `store`, uma das lojas; o de loja pausada sai sem link. O
+  `validate:content` (`scripts/multi-store-checks.ts`) barra o que foge disso e, até a revisão do celular,
+  `MULTI_STORE_CONTENT_ALLOWED` barra qualquer artigo com lista. O `test:review-stores` e o `test:build-output` conferem.
 - Foto de produto com link: o `href` opcional da imagem da seção (`image` em forma de objeto ou item de `images`,
   `ContentSectionImage`) faz da foto o link de afiliado do produto (`CouponStoreLink`, sponsored, nova aba,
   `review_image`), com o selo "Ver na <loja>" na foto e no lightbox e o nome do link "Ver na <loja>: <alt>" avisando a
